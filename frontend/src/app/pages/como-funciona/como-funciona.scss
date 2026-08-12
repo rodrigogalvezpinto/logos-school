@@ -1,0 +1,156 @@
+.pagina {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+}
+
+.landing__nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+.landing__nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+
+  a {
+    text-decoration: none;
+    color: var(--texto-principal);
+    font-weight: 500;
+  }
+}
+
+.intro {
+  text-align: center;
+  padding: 2rem 0 3rem;
+}
+
+.pill {
+  display: inline-block;
+  background: var(--color-secundario-suave);
+  color: var(--color-secundario);
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.intro h1 {
+  font-size: 2.1rem;
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.1rem;
+  color: var(--texto-secundario);
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.bloque {
+  margin-bottom: 2.5rem;
+
+  h2 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    color: var(--texto-secundario);
+    line-height: 1.6;
+  }
+}
+
+.bloque--destacado {
+  background: var(--color-primario-suave);
+  border-radius: var(--radio-basica);
+  padding: 2rem;
+}
+
+.lista-datos {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+
+  li {
+    background: var(--fondo-tarjeta);
+    border-radius: var(--radio-media);
+    padding: 0.9rem 1.1rem;
+    color: var(--texto-secundario);
+    box-shadow: var(--sombra-tarjeta);
+  }
+
+  strong {
+    color: var(--texto-principal);
+  }
+}
+
+.pasos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.paso {
+  background: var(--fondo-tarjeta);
+  border-radius: var(--radio-basica);
+  padding: 1.5rem;
+}
+
+.paso__numero {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--color-primario);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--fuente-titulos);
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.paso h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.paso p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.nota-importante {
+  background: var(--color-alerta-suave);
+  color: #92610a;
+  padding: 0.85rem 1rem;
+  border-radius: var(--radio-media);
+  font-size: 0.9rem;
+}
+
+.cta-final {
+  text-align: center;
+  padding: 2rem 0;
+
+  h2 {
+    margin-bottom: 1.25rem;
+  }
+
+  .btn {
+    margin: 0 0.5rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .pasos {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,57 @@
+<div class="pagina">
+  <header class="landing__nav">
+    <a routerLink="/"><app-logo /></a>
+    <div class="landing__nav-links">
+      <a routerLink="/como-funciona">Cómo funciona</a>
+      <a routerLink="/login">Iniciar sesión</a>
+      <a routerLink="/registro" class="btn btn--primario">Crear cuenta</a>
+    </div>
+  </header>
+
+  <section class="intro">
+    <h1>Preguntas frecuentes</h1>
+    <p class="lead">Sobre Logos y sobre el trámite real del Examen Libre.</p>
+  </section>
+
+  <section class="grupo">
+    <h2>Sobre Logos</h2>
+    <div class="acordeon">
+      @for (p of preguntas; track p.pregunta; let i = $index) {
+        @if (p.categoria === 'logos') {
+          <div class="item" [class.item--abierto]="abierta() === i">
+            <button class="item__pregunta" (click)="toggle(i)">
+              {{ p.pregunta }}
+              <span class="item__icono">{{ abierta() === i ? '−' : '+' }}</span>
+            </button>
+            @if (abierta() === i) {
+              <p class="item__respuesta">{{ p.respuesta }}</p>
+            }
+          </div>
+        }
+      }
+    </div>
+  </section>
+
+  <section class="grupo">
+    <h2>Sobre el trámite del Examen Libre (Mineduc)</h2>
+    <div class="acordeon">
+      @for (p of preguntas; track p.pregunta; let i = $index) {
+        @if (p.categoria === 'tramite') {
+          <div class="item" [class.item--abierto]="abierta() === i">
+            <button class="item__pregunta" (click)="toggle(i)">
+              {{ p.pregunta }}
+              <span class="item__icono">{{ abierta() === i ? '−' : '+' }}</span>
+            </button>
+            @if (abierta() === i) {
+              <p class="item__respuesta">{{ p.respuesta }}</p>
+            }
+          </div>
+        }
+      }
+    </div>
+  </section>
+
+  <section class="cta-final">
+    <a routerLink="/registro" class="btn btn--primario btn--grande">Crear cuenta gratis</a>
+  </section>
+</div>

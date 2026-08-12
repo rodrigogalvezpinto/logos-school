@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  /* Paleta — ver planificacion/15-diseno-visual-y-marca.md */
+  --color-primario: #5b4fe9;
+  --color-primario-oscuro: #4638c9;
+  --color-primario-suave: #eeecfd;
+  --color-secundario: #ff6b4a;
+  --color-secundario-suave: #ffe7e0;
+  --color-exito: #22c55e;
+  --color-exito-suave: #e7f9ee;
+  --color-alerta: #f59e0b;
+  --color-alerta-suave: #fef3e0;
+  --color-error: #ef4444;
+
+  --fondo: #fafafa;
+  --fondo-tarjeta: #ffffff;
+  --texto-principal: #1f2937;
+  --texto-secundario: #6b7280;
+  --borde: #e5e7eb;
+
+  --fondo-examen: #14132b;
+  --texto-examen: #f5f4ff;
+
+  --fuente-titulos: 'Poppins', sans-serif;
+  --fuente-texto: 'Inter', sans-serif;
+
+  --radio-basica: 18px;
+  --radio-media: 10px;
+
+  --sombra-tarjeta: 0 1px 3px rgba(31, 41, 55, 0.08), 0 1px 2px rgba(31, 41, 55, 0.04);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--fuente-texto);
+  background: var(--fondo);
+  color: var(--texto-principal);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--fuente-titulos);
+  font-weight: 600;
+  margin: 0 0 0.5em 0;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: var(--fuente-texto);
+}
+
+/* Utilidades globales reutilizables en toda la app */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.65rem 1.25rem;
+  border-radius: var(--radio-media);
+  text-decoration: none;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  font-family: var(--fuente-texto);
+  font-size: 0.95rem;
+  transition: background 0.15s, opacity 0.15s;
+}
+
+.btn--primario {
+  background: var(--color-primario);
+  color: white;
+}
+.btn--primario:hover {
+  background: var(--color-primario-oscuro);
+}
+.btn--primario:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn--secundario {
+  background: var(--fondo-tarjeta);
+  color: var(--color-primario);
+  border: 1.5px solid var(--color-primario);
+}
+
+.btn--peligro {
+  background: var(--color-error);
+  color: white;
+}
+
+.btn--bloque {
+  width: 100%;
+}
+
+.btn--grande {
+  padding: 0.85rem 1.75rem;
+  font-size: 1.05rem;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 1.1rem;
+
+  label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--texto-principal);
+  }
+
+  input,
+  select {
+    padding: 0.65rem 0.85rem;
+    border-radius: var(--radio-media);
+    border: 1.5px solid var(--borde);
+    font-size: 0.95rem;
+    font-family: var(--fuente-texto);
+    background: var(--fondo-tarjeta);
+  }
+
+  input:focus,
+  select:focus {
+    outline: none;
+    border-color: var(--color-primario);
+  }
+}
+
+.tarjeta {
+  background: var(--fondo-tarjeta);
+  border-radius: var(--radio-basica);
+  box-shadow: var(--sombra-tarjeta);
+  padding: 1.5rem;
+}
+
+.divisor-o {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--texto-secundario);
+  font-size: 0.85rem;
+  margin: 1.25rem 0;
+
+  &::before,
+  &::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--borde);
+  }
+}
+
+.btn-google {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.65rem 1rem;
+  border-radius: var(--radio-media);
+  border: 1.5px solid var(--borde);
+  background: white;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  color: var(--texto-principal);
+}

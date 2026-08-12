@@ -1,0 +1,139 @@
+import { Component, Input } from '@angular/core';
+import { RouterLink, RouterLinkActive } from '@angular/router';
+import { Logo } from '../logo/logo';
+
+export interface ItemSidebar {
+  etiqueta: string;
+  icono: string;
+  ruta: string;
+  proximamente?: boolean;
+}
+
+const SIDEBAR_ALUMNO: ItemSidebar[] = [
+  { etiqueta: 'Inicio', icono: '🏠', ruta: '/alumno/inicio' },
+  { etiqueta: 'Mis Asignaturas', icono: '📚', ruta: '/alumno/asignaturas' },
+  { etiqueta: 'Pruebas y Exámenes', icono: '📝', ruta: '/alumno/evaluaciones' },
+  { etiqueta: 'Mis Notas', icono: '📊', ruta: '/alumno/notas', proximamente: true },
+  { etiqueta: 'Plan de Estudio', icono: '📅', ruta: '/alumno/plan-estudio', proximamente: true },
+];
+
+const SIDEBAR_APODERADO: ItemSidebar[] = [
+  { etiqueta: 'Inicio', icono: '🏠', ruta: '/apoderado/inicio' },
+  { etiqueta: 'Mis Alumnos', icono: '👨‍👩‍👧', ruta: '/apoderado/alumnos' },
+  { etiqueta: 'Progreso por Alumno', icono: '📊', ruta: '/apoderado/progreso', proximamente: true },
+  { etiqueta: 'Plan y Pagos', icono: '💳', ruta: '/apoderado/plan' },
+];
+
+@Component({
+  selector: 'app-sidebar',
+  standalone: true,
+  imports: [RouterLink, RouterLinkActive, Logo],
+  template: `
+    <aside class="sidebar">
+      <div class="sidebar__logo">
+        <app-logo />
+      </div>
+      <nav class="sidebar__nav">
+        @for (item of items; track item.ruta) {
+          <a
+            class="sidebar__item"
+            [class.sidebar__item--proximamente]="item.proximamente"
+            [routerLink]="item.proximamente ? null : item.ruta"
+            routerLinkActive="sidebar__item--activo"
+          >
+            <span class="sidebar__icono">{{ item.icono }}</span>
+            <span>{{ item.etiqueta }}</span>
+            @if (item.proximamente) {
+              <span class="sidebar__badge">pronto</span>
+            }
+          </a>
+        }
+      </nav>
+      <div class="sidebar__pie">
+        <a class="sidebar__item" routerLink="/configuracion">
+          <span class="sidebar__icono">⚙️</span><span>Configuración</span>
+        </a>
+        <a class="sidebar__item" routerLink="/selector-perfil">
+          <span class="sidebar__icono">🔄</span><span>Cambiar de perfil</span>
+        </a>
+      </div>
+    </aside>
+  `,
+  styles: [
+    `
+      .sidebar {
+        display: flex;
+        flex-direction: column;
+        width: 260px;
+        min-height: 100vh;
+        background: var(--fondo-tarjeta);
+        border-right: 1px solid var(--borde);
+        padding: 1.25rem 1rem;
+      }
+      .sidebar__logo {
+        padding: 0 0.5rem 1.5rem;
+      }
+      .sidebar__nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        flex: 1;
+      }
+      .sidebar__item {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        padding: 0.65rem 0.75rem;
+        border-radius: var(--radio-media);
+        text-decoration: none;
+        color: var(--texto-secundario);
+        font-weight: 500;
+        font-size: 0.95rem;
+        cursor: pointer;
+        transition: background 0.15s;
+      }
+      .sidebar__item:hover {
+        background: var(--color-primario-suave);
+        color: var(--color-primario);
+      }
+      .sidebar__item--activo {
+        background: var(--color-primario-suave);
+        color: var(--color-primario);
+        font-weight: 600;
+      }
+      .sidebar__item--proximamente {
+        opacity: 0.55;
+        cursor: default;
+      }
+      .sidebar__item--proximamente:hover {
+        background: none;
+        color: var(--texto-secundario);
+      }
+      .sidebar__icono {
+        font-size: 1.1rem;
+      }
+      .sidebar__badge {
+        margin-left: auto;
+        font-size: 0.65rem;
+        background: var(--color-alerta-suave);
+        color: var(--color-alerta);
+        padding: 0.1rem 0.4rem;
+        border-radius: 999px;
+      }
+      .sidebar__pie {
+        border-top: 1px solid var(--borde);
+        padding-top: 0.75rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+      }
+    `,
+  ],
+})
+export class Sidebar {
+  @Input() modo: 'alumno' | 'apoderado' = 'alumno';
+
+  get items(): ItemSidebar[] {
+    return this.modo === 'alumno' ? SIDEBAR_ALUMNO : SIDEBAR_APODERADO;
+  }
+}

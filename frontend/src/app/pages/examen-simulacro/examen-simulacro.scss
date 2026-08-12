@@ -1,0 +1,29 @@
+// Modo examen: se redefinen las variables de diseño dentro de este contenedor.
+// Como son custom properties de CSS, cualquier componente hijo (incluido
+// EvaluacionRunner, con su propio encapsulamiento de estilos) las hereda
+// automáticamente sin necesitar ::ng-deep ni hacks de selector.
+.examen-fondo {
+  --fondo-tarjeta: #1e1c3f;
+  --texto-principal: #f5f4ff;
+  --texto-secundario: #b7aef2;
+  --borde: #3a3568;
+  --color-primario-suave: #2a2559;
+  --color-exito-suave: rgba(34, 197, 94, 0.18);
+  --color-alerta-suave: rgba(245, 158, 11, 0.18);
+  --sombra-tarjeta: none;
+
+  min-height: 100vh;
+  background: var(--fondo-examen);
+  color: var(--texto-principal);
+  padding: 2rem;
+}
+
+.examen-marca {
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #b7aef2;
+  margin-bottom: 1.5rem;
+}
