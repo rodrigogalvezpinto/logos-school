@@ -4,7 +4,10 @@ from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 
 from app.core.limiter import limiter
+from app.core.logging_config import LoggingMiddleware, configurar_logging
 from app.routers import auth, contenido, evaluaciones
+
+configurar_logging()
 
 app = FastAPI(
     title="Logos API",
@@ -14,6 +17,7 @@ app = FastAPI(
 
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
+app.add_middleware(LoggingMiddleware)
 
 app.add_middleware(
     CORSMiddleware,

@@ -10,5 +10,6 @@ backend/*.egg-info/
 backend/.env
 backend/.env.*
 !backend/.env.example
+backend/logs/
 
 # Frontend (Angular) — ya tiene su propio .gitignore en frontend/.gitignore

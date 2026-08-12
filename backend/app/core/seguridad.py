@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 import bcrypt
 from jose import JWTError, jwt
@@ -18,7 +18,7 @@ def verificar_password(password: str, password_hash: str) -> bool:
 
 
 def crear_token(cuenta_id: int) -> str:
-    expira = datetime.utcnow() + timedelta(minutes=settings.jwt_expiracion_minutos)
+    expira = datetime.now(timezone.utc) + timedelta(minutes=settings.jwt_expiracion_minutos)
     payload = {"sub": str(cuenta_id), "exp": expira}
     return jwt.encode(payload, settings.jwt_secret, algorithm=settings.jwt_algoritmo)
 

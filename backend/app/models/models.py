@@ -2,11 +2,15 @@
 y las extensiones de planificacion/18-panel-administrador.md (Plan/Suscripcion/CodigoDescuento).
 """
 
-from datetime import datetime, date
+from datetime import datetime, date, timezone
 from typing import Optional
 
 from sqlalchemy import Column, JSON
 from sqlmodel import Field, SQLModel
+
+
+def _ahora_utc() -> datetime:
+    return datetime.now(timezone.utc)
 
 
 class Cuenta(SQLModel, table=True):
@@ -19,7 +23,7 @@ class Cuenta(SQLModel, table=True):
     nombre: str
     comuna_o_region: Optional[str] = None
     pais: Optional[str] = None
-    fecha_creacion: datetime = Field(default_factory=datetime.utcnow)
+    fecha_creacion: datetime = Field(default_factory=_ahora_utc)
 
 
 class Nivel(SQLModel, table=True):
@@ -50,7 +54,7 @@ class PerfilAlumno(SQLModel, table=True):
     fecha_nacimiento: date
     rut: str
     nivel_id: int = Field(foreign_key="nivel.id")
-    fecha_creacion: datetime = Field(default_factory=datetime.utcnow)
+    fecha_creacion: datetime = Field(default_factory=_ahora_utc)
 
 
 class CodigoDescuento(SQLModel, table=True):
@@ -67,7 +71,7 @@ class Suscripcion(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     perfil_alumno_id: int = Field(foreign_key="perfilalumno.id")
     plan_id: int = Field(foreign_key="plan.id")
-    fecha_inicio: datetime = Field(default_factory=datetime.utcnow)
+    fecha_inicio: datetime = Field(default_factory=_ahora_utc)
     fecha_termino: Optional[datetime] = None
     estado: str = "activa"  # "activa" | "vencida" | "cancelada"
     origen: str = "pago"  # "pago" | "cortesia"
@@ -121,7 +125,7 @@ class IntentoEvaluacion(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     perfil_alumno_id: int = Field(foreign_key="perfilalumno.id")
     conjunto_evaluacion_id: int = Field(foreign_key="conjunto_evaluacion.id")
-    fecha_inicio: datetime = Field(default_factory=datetime.utcnow)
+    fecha_inicio: datetime = Field(default_factory=_ahora_utc)
     fecha_termino: Optional[datetime] = None
     respuestas: dict[str, str] = Field(default_factory=dict, sa_column=Column(JSON))
     puntaje: Optional[float] = None
