@@ -6,6 +6,7 @@ test.describe('Landing y páginas institucionales', () => {
     const errores = capturarErroresConsola(page);
     await page.goto('/');
     await expect(page.locator('h1')).toContainText('Examen Libre');
+    await expect(page.locator('.nivel-chip')).toHaveCount(12);
 
     await page.getByRole('link', { name: 'Cómo funciona' }).click();
     await expect(page).toHaveURL(/como-funciona/);

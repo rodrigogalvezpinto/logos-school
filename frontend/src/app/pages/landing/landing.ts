@@ -2,6 +2,15 @@ import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Logo } from '../../shared/logo/logo';
 
+// Contenido de estudio 100% completo para los 12 niveles (ver contenido/00-estado-contenido.md)
+// — lista estática porque refleja completitud de contenido, no el avance de importación a la
+// base de datos (que se hace curso por curso, ver planificacion/22-analisis-de-brechas.md).
+const NIVELES = [
+  '1° básico', '2° básico', '3° básico', '4° básico',
+  '5° básico', '6° básico', '7° básico', '8° básico',
+  '1° medio', '2° medio', '3° medio', '4° medio',
+];
+
 @Component({
   selector: 'app-landing',
   standalone: true,
@@ -51,6 +60,44 @@ import { Logo } from '../../shared/logo/logo';
         </div>
       </section>
 
+      <section class="landing__diferenciadores">
+        <h2>Qué mirar al elegir cómo preparar tu examen libre</h2>
+        <div class="landing__diferenciadores-grid">
+          <div class="diferenciador">
+            <span class="diferenciador__icono">📘</span>
+            <h3>100% alineado al temario oficial</h3>
+            <p>
+              Cada guía y cada pregunta viene de los 12 temarios UCE/Mineduc reales — no material
+              genérico. Cubrimos los 3 formatos de examen oficiales, de 1° básico a 4° medio.
+            </p>
+          </div>
+          <div class="diferenciador">
+            <span class="diferenciador__icono">💸</span>
+            <h3>Gratis o de muy bajo costo</h3>
+            <p>
+              El contenido de estudio (guías, práctica, pruebas y exámenes de ensayo) es y
+              seguirá siendo gratuito. Sin publicidad dirigida a menores, nunca.
+            </p>
+          </div>
+          <div class="diferenciador">
+            <span class="diferenciador__icono">🗓️</span>
+            <h3>A tu ritmo, con horario si lo necesitas</h3>
+            <p>
+              Estudia libremente o arma un plan de estudio con la frecuencia que elijas —
+              la plataforma reparte lo que falta en sesiones concretas hasta tu examen.
+            </p>
+          </div>
+          <div class="diferenciador">
+            <span class="diferenciador__icono">📊</span>
+            <h3>Sabes si estás realmente preparado</h3>
+            <p>
+              Notas por asignatura, historial completo y un examen de práctica idéntico al real
+              — no adivinas cómo te va a ir, lo verificas antes del día del examen.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <section class="landing__como">
         <h2>Cómo funciona</h2>
         <div class="landing__pasos">
@@ -68,6 +115,40 @@ import { Logo } from '../../shared/logo/logo';
             <div class="paso__numero">3</div>
             <h3>Examen de práctica</h3>
             <p>Copia exacta del examen real — mismas preguntas, mismo tiempo. Tu mejor señal de si estás listo.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="landing__niveles">
+        <h2>Cubrimos los 12 niveles, de 1° básico a 4° medio</h2>
+        <p class="landing__niveles-sub">
+          408 Objetivos de Aprendizaje oficiales, con guía, banco de preguntas, pruebas de
+          unidad y examen de ensayo — completo en cada uno.
+        </p>
+        <div class="landing__niveles-grid">
+          @for (nivel of niveles; track nivel) {
+            <span class="nivel-chip">{{ nivel }}</span>
+          }
+        </div>
+      </section>
+
+      <section class="landing__modos">
+        <h2>Dos formas de estudiar en Logos</h2>
+        <div class="landing__modos-grid">
+          <div class="modo-card">
+            <h3>Autoestudio</h3>
+            <p>
+              Tú eliges tu curso, estudias cuando quieras y avanzas a tu ritmo. Es la forma más
+              simple de empezar — sin depender de nadie más.
+            </p>
+          </div>
+          <div class="modo-card">
+            <h3>Con un profesor</h3>
+            <p>
+              Si tu profesor te agrega a un Curso/Sección, además ves su progreso agregado y
+              recibe comunicados suyos — el acompañamiento se suma, nunca reemplaza el
+              autoestudio.
+            </p>
           </div>
         </div>
       </section>
@@ -102,4 +183,6 @@ import { Logo } from '../../shared/logo/logo';
   `,
   styleUrl: './landing.scss',
 })
-export class Landing {}
+export class Landing {
+  niveles = NIVELES;
+}
