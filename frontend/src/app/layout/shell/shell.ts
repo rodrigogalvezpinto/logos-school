@@ -1,7 +1,8 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, inject, computed } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { Sidebar } from '../../shared/sidebar/sidebar';
 import { Topbar } from '../../shared/topbar/topbar';
+import { SesionService } from '../../core/sesion.service';
 
 @Component({
   selector: 'app-shell',
@@ -11,7 +12,7 @@ import { Topbar } from '../../shared/topbar/topbar';
     <div class="shell">
       <app-sidebar [modo]="modo" />
       <div class="shell__contenido">
-        <app-topbar [nombre]="nombre" />
+        <app-topbar [nombre]="nombreMostrado()" />
         <main class="shell__main">
           <router-outlet />
         </main>
@@ -40,5 +41,11 @@ import { Topbar } from '../../shared/topbar/topbar';
 })
 export class Shell {
   @Input() modo: 'alumno' | 'apoderado' = 'alumno';
-  @Input() nombre = 'Sofía';
+
+  private sesion = inject(SesionService);
+
+  nombreMostrado = computed(() => {
+    if (this.modo === 'alumno') return this.sesion.perfilActivo()?.nombre || '';
+    return this.sesion.nombreApoderado() || 'Apoderado';
+  });
 }

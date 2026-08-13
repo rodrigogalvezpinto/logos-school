@@ -1,43 +1,24 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, inject, signal } from '@angular/core';
+import { Location } from '@angular/common';
 import { RouterLink } from '@angular/router';
+import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.service';
 
 @Component({
   selector: 'app-estudiar-oa',
   standalone: true,
   imports: [RouterLink],
   template: `
-    <a routerLink="/alumno/asignaturas/matematica" class="volver">← Volver a Matemática</a>
-    <span class="etiqueta">OA 1 · Números y Operaciones</span>
-    <h1>Representar y describir números hasta el 10.000</h1>
-    <p class="lead">
-      Vas a leer, escribir, comparar, ordenar, componer y descomponer números hasta 10.000,
-      entendiendo el <strong>valor posicional</strong> de cada dígito: unidad (U), decena (D),
-      centena (C), unidad de mil (UM) y decena de mil (DM).
-    </p>
+    @if (objetivo(); as oa) {
+      <a href="#" (click)="volver($event)" class="volver">← Volver</a>
+      <span class="etiqueta">{{ oa.codigo_oficial }}</span>
+      <h1>{{ oa.descripcion }}</h1>
 
-    <div class="tarjeta bloque">
-      <h3>¿Por qué importa?</h3>
-      <p>
-        Entender el valor posicional es la base de todas las operaciones que vienen después:
-        sumar, restar, multiplicar y dividir números grandes solo funciona bien si sabes qué
-        "vale" cada dígito según su posición.
-      </p>
-    </div>
+      <div class="tarjeta bloque contenido-guia" [innerText]="oa.contenido_guia"></div>
 
-    <h3>Ejemplo resuelto</h3>
-    <div class="tarjeta bloque bloque--ejemplo">
-      <p><strong>Descomponer un número según su valor posicional</strong></p>
-      <p>El número <strong>7.352</strong> se puede descomponer así:</p>
-      <ul>
-        <li>7 está en la posición de las <strong>unidades de mil</strong> → vale 7.000</li>
-        <li>3 está en la posición de las <strong>centenas</strong> → vale 300</li>
-        <li>5 está en la posición de las <strong>decenas</strong> → vale 50</li>
-        <li>2 está en la posición de las <strong>unidades</strong> → vale 2</li>
-      </ul>
-      <p>Entonces: 7.352 = 7.000 + 300 + 50 + 2</p>
-    </div>
-
-    <a routerLink="/alumno/autoevaluacion/oa1" class="btn btn--primario btn--grande">Practicar este tema</a>
+      <a [routerLink]="['/alumno/autoevaluacion', oa.id]" class="btn btn--primario btn--grande">Practicar este tema</a>
+    } @else {
+      <p>Cargando…</p>
+    }
   `,
   styles: [
     `
@@ -58,23 +39,31 @@ import { RouterLink } from '@angular/router';
         margin: 0.4rem 0 1rem;
         font-size: 1.6rem;
       }
-      .lead {
-        font-size: 1.05rem;
-        color: var(--texto-secundario);
-        max-width: 640px;
-        margin-bottom: 1.75rem;
-      }
       .bloque {
         margin-bottom: 1.5rem;
-        max-width: 640px;
+        max-width: 680px;
       }
-      .bloque--ejemplo {
-        background: var(--color-primario-suave);
-        border-left: 4px solid var(--color-primario);
+      .contenido-guia {
+        white-space: pre-wrap;
+        line-height: 1.6;
+        color: var(--texto-principal);
       }
     `,
   ],
 })
 export class EstudiarOa {
   @Input() oaId = '';
+  objetivo = signal<ObjetivoRespuesta | null>(null);
+
+  private contenido = inject(ContenidoService);
+  private location = inject(Location);
+
+  ngOnInit() {
+    this.contenido.obtenerObjetivo(Number(this.oaId)).subscribe((oa) => this.objetivo.set(oa));
+  }
+
+  volver(evento: Event) {
+    evento.preventDefault();
+    this.location.back();
+  }
 }

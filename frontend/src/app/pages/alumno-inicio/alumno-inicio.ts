@@ -1,36 +1,32 @@
-import { Component } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { ASIGNATURAS_4_BASICO } from '../../core/mock-data/mock-data';
+import { ContenidoService, AsignaturaRespuesta } from '../../core/contenido.service';
+import { SesionService } from '../../core/sesion.service';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+
+const ICONOS_POR_NOMBRE: Record<string, string> = {
+  'Lenguaje y Comunicación': 'libro',
+  'Lengua y Literatura': 'libro',
+  Matemática: 'regla',
+  'Ciencias Naturales': 'hoja',
+  Inglés: 'libro',
+};
 
 @Component({
   selector: 'app-alumno-inicio',
   standalone: true,
   imports: [RouterLink, IconoAsignatura],
   template: `
-    <h1>¡Hola de nuevo, Sofía! 👋</h1>
-    <p class="subtitulo">Sigamos avanzando en tu preparación para 4° básico.</p>
-
-    <div class="destacado tarjeta">
-      <div>
-        <span class="destacado__etiqueta">Continúa donde quedaste</span>
-        <h3>Matemática — Adición y sustracción</h3>
-        <p>Ibas a mitad de la unidad. ¡Vamos!</p>
-      </div>
-      <a routerLink="/alumno/asignaturas/matematica" class="btn btn--primario">Continuar</a>
-    </div>
+    <h1>¡Hola de nuevo, {{ nombreAlumno() }}! 👋</h1>
+    <p class="subtitulo">Sigamos avanzando en tu preparación.</p>
 
     <h2 class="seccion-titulo">Tus asignaturas</h2>
     <div class="grid-asignaturas">
-      @for (asig of asignaturas; track asig.id) {
+      @for (asig of asignaturas(); track asig.id) {
         <a class="asignatura-card tarjeta" [routerLink]="['/alumno/asignaturas', asig.id]">
-          <app-icono-asignatura [icono]="asig.icono" [color]="asig.color" />
+          <app-icono-asignatura [icono]="iconoPara(asig.nombre)" [color]="colorPara(asig.id)" />
           <div class="asignatura-card__info">
             <h3>{{ asig.nombre }}</h3>
-            <div class="barra-avance">
-              <div class="barra-avance__relleno" [style.width.%]="asig.avance" [style.background]="asig.color"></div>
-            </div>
-            <small>{{ asig.avance }}% completado</small>
           </div>
         </a>
       }
@@ -42,27 +38,6 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
         color: var(--texto-secundario);
         margin-top: -0.5rem;
         margin-bottom: 2rem;
-      }
-      .destacado {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        background: var(--color-primario-suave);
-        margin-bottom: 2.5rem;
-      }
-      .destacado__etiqueta {
-        font-size: 0.75rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        color: var(--color-primario);
-        letter-spacing: 0.03em;
-      }
-      .destacado h3 {
-        margin: 0.3rem 0;
-      }
-      .destacado p {
-        margin: 0;
-        color: var(--texto-secundario);
       }
       .seccion-titulo {
         font-size: 1.2rem;
@@ -84,30 +59,36 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
       .asignatura-card:hover {
         transform: translateY(-2px);
       }
-      .asignatura-card__info {
-        flex: 1;
-      }
       .asignatura-card h3 {
         font-size: 1rem;
-        margin-bottom: 0.5rem;
-      }
-      .barra-avance {
-        height: 6px;
-        border-radius: 999px;
-        background: var(--borde);
-        overflow: hidden;
-        margin-bottom: 0.3rem;
-      }
-      .barra-avance__relleno {
-        height: 100%;
-        border-radius: 999px;
-      }
-      .asignatura-card small {
-        color: var(--texto-secundario);
+        margin: 0;
       }
     `,
   ],
 })
 export class AlumnoInicio {
-  asignaturas = ASIGNATURAS_4_BASICO;
+  asignaturas = signal<AsignaturaRespuesta[]>([]);
+  private colores = ['#5B4FE9', '#FF6B4A', '#22C55E', '#F59E0B', '#8B5CF6'];
+
+  private contenido = inject(ContenidoService);
+  private sesion = inject(SesionService);
+
+  constructor() {
+    const perfil = this.sesion.perfilActivo();
+    if (perfil) {
+      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asigs) => this.asignaturas.set(asigs));
+    }
+  }
+
+  nombreAlumno(): string {
+    return this.sesion.perfilActivo()?.nombre || '';
+  }
+
+  iconoPara(nombre: string): string {
+    return ICONOS_POR_NOMBRE[nombre] || 'libro';
+  }
+
+  colorPara(id: number): string {
+    return this.colores[id % this.colores.length];
+  }
 }

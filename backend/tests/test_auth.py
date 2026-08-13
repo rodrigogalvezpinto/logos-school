@@ -73,12 +73,36 @@ def test_agregar_alumno_requiere_nivel_existente(client, session):
             "nombre": "Sofía",
             "apellidos": "Pérez",
             "fecha_nacimiento": "2016-03-12",
-            "rut": "21.345.678-9",
+            "rut": "21.345.678-4",
             "nivel_id": 1,
         },
     )
     assert r.status_code == 201
     assert r.json()["nombre"] == "Sofía"
+
+
+def test_agregar_alumno_con_rut_invalido_es_rechazado(client, session):
+    from app.models import Nivel
+
+    session.add(
+        Nivel(
+            nombre="4° básico", regimen="A", decreto="439/2012", formato_examen="integrado",
+            num_preguntas_examen=20, duracion_examen_min=90,
+        )
+    )
+    session.commit()
+
+    token = _registrar(client, "rutmalo@test.cl").json()["access_token"]
+    r = client.post(
+        "/auth/alumnos",
+        headers={"Authorization": f"Bearer {token}"},
+        json={
+            "nombre": "Sofía", "apellidos": "Pérez",
+            "fecha_nacimiento": "2016-03-12", "rut": "21.345.678-9",  # dígito verificador incorrecto (correcto es -4)
+            "nivel_id": 1,
+        },
+    )
+    assert r.status_code == 422
 
 
 def test_listar_alumnos_solo_devuelve_los_propios(client, session):

@@ -97,7 +97,11 @@ class ObjetivoAprendizaje(SQLModel, table=True):
 
 class Pregunta(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    oa_id: int = Field(foreign_key="objetivo_aprendizaje.id")
+    # Nullable: las preguntas del banco de autoevaluación siempre tienen oa_id; las de
+    # pruebas de unidad/exámenes simulacro se vinculan a un OA "best effort" (se busca por
+    # código en la pauta) y pueden quedar sin vínculo exacto sin que eso bloquee el import.
+    oa_id: Optional[int] = Field(default=None, foreign_key="objetivo_aprendizaje.id")
+    asignatura_id: Optional[int] = Field(default=None, foreign_key="asignatura.id")
     tipo: str  # "alternativas" | "verdadero_falso" | "desarrollo_breve" | ...
     enunciado: str
     opciones: Optional[list[str]] = Field(default=None, sa_column=Column(JSON))

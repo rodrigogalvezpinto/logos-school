@@ -94,6 +94,10 @@ propio e informar después. Aplica en todo este proyecto.
   - `16-navegacion-y-panel-de-control.md` — flujo de login → selector de perfil → panel,
     estructura completa de la barra lateral (sidebar) de Alumno y Apoderado, y el camino de
     crecimiento futuro (chatbot, voz, rol Profesor, gamificación) sin romper lo construido.
+  - `22-analisis-de-brechas.md` — auditoría verificada contra el código real de qué falta:
+    Front sin conectar al backend, pruebas/exámenes sin importar, pagos/Google/correo con
+    credenciales pendientes, nada desplegado todavía. Léelo antes de asumir que algo "ya
+    funciona".
   - `21-accesibilidad-lectura-y-contenido-visual.md` — lectura en voz alta gratuita (Web
     Speech API) para 1°-2° básico, y componentes visuales propios (recta numérica, modelo
     de fracciones, figuras geométricas) para Matemática, en vez de imágenes sueltas.

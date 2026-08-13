@@ -1,38 +1,43 @@
-import { Component } from '@angular/core';
-import { Router } from '@angular/router';
+import { Component, inject, signal } from '@angular/core';
+import { Router, RouterLink } from '@angular/router';
 import { Logo } from '../../shared/logo/logo';
+import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
+import { SesionService } from '../../core/sesion.service';
 
 @Component({
   selector: 'app-selector-perfil',
   standalone: true,
-  imports: [Logo],
+  imports: [Logo, RouterLink],
   template: `
     <div class="pagina">
       <div class="pagina__logo"><app-logo /></div>
       <h1>¿Quién va a estudiar hoy?</h1>
 
       <div class="perfiles">
-        <button class="perfil" (click)="entrarComoAlumno()">
-          <div class="perfil__avatar" style="background:#5B4FE9">S</div>
-          <span>Sofía</span>
-          <small>4° básico</small>
-        </button>
+        @for (perfil of perfiles(); track perfil.id) {
+          <button class="perfil" (click)="entrarComoAlumno(perfil)">
+            <div class="perfil__avatar" [style.background]="colorPara(perfil.id)">
+              {{ perfil.nombre.charAt(0) }}
+            </div>
+            <span>{{ perfil.nombre }}</span>
+          </button>
+        }
         <button class="perfil" (click)="entrarComoApoderado()">
           <div class="perfil__avatar" style="background:#FF6B4A">👤</div>
           <span>Ver como Apoderado</span>
           <small>Progreso y planes</small>
         </button>
-        <button class="perfil perfil--agregar">
+        <a class="perfil perfil--agregar" routerLink="/agregar-alumno">
           <div class="perfil__avatar perfil__avatar--agregar">+</div>
           <span>Agregar alumno</span>
-        </button>
+        </a>
       </div>
     </div>
   `,
   styles: [
     `
       .pagina {
-        max-width: 640px;
+        max-width: 700px;
         margin: 0 auto;
         padding: 4rem 2rem;
         text-align: center;
@@ -63,6 +68,7 @@ import { Logo } from '../../shared/logo/logo';
         font-family: var(--fuente-texto);
         color: var(--texto-principal);
         width: 140px;
+        text-decoration: none;
       }
       .perfil__avatar {
         width: 96px;
@@ -97,9 +103,23 @@ import { Logo } from '../../shared/logo/logo';
   ],
 })
 export class SelectorPerfil {
-  constructor(private router: Router) {}
+  perfiles = signal<PerfilAlumnoRespuesta[]>([]);
+  private colores = ['#5B4FE9', '#22C55E', '#F59E0B', '#EF4444'];
 
-  entrarComoAlumno() {
+  private auth = inject(AuthService);
+  private sesion = inject(SesionService);
+  private router = inject(Router);
+
+  constructor() {
+    this.auth.listarAlumnos().subscribe((perfiles) => this.perfiles.set(perfiles));
+  }
+
+  colorPara(id: number): string {
+    return this.colores[id % this.colores.length];
+  }
+
+  entrarComoAlumno(perfil: PerfilAlumnoRespuesta) {
+    this.sesion.elegirPerfil(perfil);
     this.router.navigate(['/alumno/inicio']);
   }
 

@@ -3,13 +3,14 @@ from datetime import date
 from fastapi import APIRouter, Depends, HTTPException, Request, status
 from google.auth.transport import requests as google_requests
 from google.oauth2 import id_token
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, field_validator
 from sqlmodel import Session, select
 
 from app.core.config import settings
 from app.core.db import get_session
 from app.core.deps import get_cuenta_actual
 from app.core.limiter import limiter
+from app.core.rut import validar_rut
 from app.core.seguridad import crear_token, hashear_password, verificar_password
 from app.models import Cuenta, PerfilAlumno
 
@@ -50,6 +51,13 @@ class CrearPerfilAlumno(BaseModel):
     fecha_nacimiento: date
     rut: str
     nivel_id: int
+
+    @field_validator("rut")
+    @classmethod
+    def _validar_rut(cls, v: str) -> str:
+        if not validar_rut(v):
+            raise ValueError("RUT inválido — revisa el número y el dígito verificador")
+        return v
 
 
 class PerfilAlumnoRespuesta(BaseModel):

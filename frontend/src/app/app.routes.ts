@@ -1,5 +1,7 @@
 import { Routes } from '@angular/router';
 import { Shell } from './layout/shell/shell';
+import { authGuard } from './core/auth.guard';
+import { perfilGuard } from './core/perfil.guard';
 
 export const routes: Routes = [
   {
@@ -14,6 +16,14 @@ export const routes: Routes = [
     path: 'preguntas-frecuentes',
     loadComponent: () =>
       import('./pages/preguntas-frecuentes/preguntas-frecuentes').then((m) => m.PreguntasFrecuentes),
+  },
+  {
+    path: 'privacidad',
+    loadComponent: () => import('./pages/privacidad/privacidad').then((m) => m.Privacidad),
+  },
+  {
+    path: 'terminos',
+    loadComponent: () => import('./pages/terminos/terminos').then((m) => m.Terminos),
   },
   {
     path: 'login',
@@ -38,11 +48,13 @@ export const routes: Routes = [
   {
     path: 'examen/:id',
     loadComponent: () => import('./pages/examen-simulacro/examen-simulacro').then((m) => m.ExamenSimulacro),
+    canActivate: [authGuard, perfilGuard],
   },
   {
     path: 'alumno',
     component: Shell,
-    data: { modo: 'alumno', nombre: 'Sofía' },
+    data: { modo: 'alumno' },
+    canActivate: [authGuard, perfilGuard],
     children: [
       { path: 'inicio', loadComponent: () => import('./pages/alumno-inicio/alumno-inicio').then((m) => m.AlumnoInicio) },
       {
@@ -75,7 +87,8 @@ export const routes: Routes = [
   {
     path: 'apoderado',
     component: Shell,
-    data: { modo: 'apoderado', nombre: 'Rodrigo' },
+    data: { modo: 'apoderado' },
+    canActivate: [authGuard],
     children: [
       {
         path: 'inicio',
@@ -95,7 +108,8 @@ export const routes: Routes = [
   {
     path: 'configuracion',
     component: Shell,
-    data: { modo: 'alumno', nombre: 'Sofía' },
+    data: { modo: 'alumno' },
+    canActivate: [authGuard],
     children: [
       { path: '', loadComponent: () => import('./pages/configuracion/configuracion').then((m) => m.Configuracion) },
     ],

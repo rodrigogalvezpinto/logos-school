@@ -1,6 +1,6 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { ASIGNATURAS_4_BASICO } from '../../core/mock-data/mock-data';
+import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.service';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
 
 @Component({
@@ -8,32 +8,32 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
   standalone: true,
   imports: [RouterLink, IconoAsignatura],
   template: `
-    @if (asignatura) {
-      <div class="cabecera">
-        <app-icono-asignatura [icono]="asignatura.icono" [color]="asignatura.color" />
-        <div>
-          <h1>{{ asignatura.nombre }}</h1>
-          <p>{{ asignatura.avance }}% del temario completado</p>
-        </div>
+    <div class="cabecera">
+      <app-icono-asignatura icono="libro" color="#5B4FE9" />
+      <div>
+        <h1>Objetivos de Aprendizaje</h1>
+        <p>{{ objetivos().length }} OA en esta asignatura</p>
       </div>
+    </div>
 
-      <div class="lista-oa">
-        @for (oa of asignatura.objetivos; track oa.id) {
-          <div class="oa-card tarjeta">
-            <div class="oa-card__estado" [class]="'estado--' + oa.estado"></div>
-            <div class="oa-card__info">
-              <span class="oa-card__codigo">{{ oa.codigo }}</span>
-              <h3>{{ oa.titulo }}</h3>
-              <p>{{ oa.resumen }}</p>
-            </div>
-            <div class="oa-card__acciones">
-              <a class="btn btn--secundario" [routerLink]="['/alumno/estudiar', oa.id]">Estudiar guía</a>
-              <a class="btn btn--primario" [routerLink]="['/alumno/autoevaluacion', oa.id]">Practicar</a>
-            </div>
+    <div class="lista-oa">
+      @for (oa of objetivos(); track oa.id) {
+        <div class="oa-card tarjeta">
+          <div class="oa-card__info">
+            <span class="oa-card__codigo">{{ oa.codigo_oficial }}</span>
+            <h3>{{ oa.descripcion }}</h3>
           </div>
-        }
-      </div>
-    }
+          <div class="oa-card__acciones">
+            <a class="btn btn--secundario" [routerLink]="['/alumno/estudiar', oa.id]">Estudiar guía</a>
+            <a class="btn btn--primario" [routerLink]="['/alumno/autoevaluacion', oa.id]">Practicar</a>
+          </div>
+        </div>
+      }
+    </div>
+
+    <a class="btn btn--secundario" [routerLink]="['/alumno/evaluaciones']" [queryParams]="{ asignatura: id }">
+      Ver pruebas y exámenes de esta asignatura →
+    </a>
   `,
   styles: [
     `
@@ -55,26 +55,12 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
         display: flex;
         flex-direction: column;
         gap: 1rem;
+        margin-bottom: 1.5rem;
       }
       .oa-card {
         display: flex;
         align-items: center;
         gap: 1.25rem;
-      }
-      .oa-card__estado {
-        width: 12px;
-        height: 12px;
-        border-radius: 50%;
-        flex-shrink: 0;
-      }
-      .estado--dominado {
-        background: var(--color-exito);
-      }
-      .estado--en_progreso {
-        background: var(--color-alerta);
-      }
-      .estado--no_iniciado {
-        background: var(--borde);
       }
       .oa-card__info {
         flex: 1;
@@ -86,13 +72,8 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
         text-transform: uppercase;
       }
       .oa-card__info h3 {
-        margin: 0.2rem 0 0.25rem;
+        margin: 0.2rem 0 0;
         font-size: 1.05rem;
-      }
-      .oa-card__info p {
-        margin: 0;
-        color: var(--texto-secundario);
-        font-size: 0.9rem;
       }
       .oa-card__acciones {
         display: flex;
@@ -110,8 +91,11 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
 })
 export class AsignaturaDetalle {
   @Input() id = '';
+  objetivos = signal<ObjetivoRespuesta[]>([]);
 
-  get asignatura() {
-    return ASIGNATURAS_4_BASICO.find((a) => a.id === this.id) ?? ASIGNATURAS_4_BASICO[0];
+  private contenido = inject(ContenidoService);
+
+  ngOnInit() {
+    this.contenido.listarObjetivos(Number(this.id)).subscribe((objs) => this.objetivos.set(objs));
   }
 }

@@ -1,26 +1,28 @@
-import { Component } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
+import { SesionService } from '../../core/sesion.service';
 
 @Component({
   selector: 'app-dashboard-apoderado',
   standalone: true,
   imports: [RouterLink],
   template: `
-    <h1>Hola, Rodrigo 👋</h1>
+    <h1>Hola, {{ nombreApoderado() }} 👋</h1>
     <p class="subtitulo">Así va tu familia en Logos.</p>
 
     <div class="grid">
-      <div class="tarjeta alumno-card">
-        <div class="alumno-card__avatar">S</div>
-        <div class="alumno-card__info">
-          <h3>Sofía</h3>
-          <p>4° básico</p>
-          <span class="chip chip--activo">Plan activo · Por periodo</span>
+      @for (alumno of alumnos(); track alumno.id) {
+        <div class="tarjeta alumno-card">
+          <div class="alumno-card__avatar">{{ alumno.nombre.charAt(0) }}</div>
+          <div class="alumno-card__info">
+            <h3>{{ alumno.nombre }} {{ alumno.apellidos }}</h3>
+            <span class="chip chip--activo">Plan activo</span>
+          </div>
         </div>
-        <a routerLink="/apoderado/progreso" class="btn btn--secundario">Ver progreso</a>
-      </div>
+      }
 
-      <a routerLink="/apoderado/alumnos" class="tarjeta agregar-card">
+      <a routerLink="/agregar-alumno" class="tarjeta agregar-card">
         <span class="agregar-card__mas">+</span>
         <span>Agregar otro alumno</span>
       </a>
@@ -62,12 +64,7 @@ import { RouterLink } from '@angular/router';
         flex: 1;
 
         h3 {
-          margin: 0 0 0.15rem;
-        }
-        p {
-          margin: 0 0 0.5rem;
-          color: var(--texto-secundario);
-          font-size: 0.9rem;
+          margin: 0 0 0.4rem;
         }
       }
       .chip {
@@ -99,4 +96,17 @@ import { RouterLink } from '@angular/router';
     `,
   ],
 })
-export class DashboardApoderado {}
+export class DashboardApoderado {
+  alumnos = signal<PerfilAlumnoRespuesta[]>([]);
+
+  private auth = inject(AuthService);
+  private sesion = inject(SesionService);
+
+  constructor() {
+    this.auth.listarAlumnos().subscribe((alumnos) => this.alumnos.set(alumnos));
+  }
+
+  nombreApoderado(): string {
+    return this.sesion.nombreApoderado() || 'Apoderado';
+  }
+}

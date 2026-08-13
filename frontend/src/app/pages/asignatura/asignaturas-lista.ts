@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { ASIGNATURAS_4_BASICO } from '../../core/mock-data/mock-data';
+import { ContenidoService, AsignaturaRespuesta } from '../../core/contenido.service';
+import { SesionService } from '../../core/sesion.service';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
 
 @Component({
@@ -8,19 +9,15 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
   standalone: true,
   imports: [RouterLink, IconoAsignatura],
   template: `
-    <h1>Mis Asignaturas — 4° básico</h1>
+    <h1>Mis Asignaturas</h1>
     <p class="subtitulo">El temario oficial completo, organizado por Objetivo de Aprendizaje.</p>
 
     <div class="grid-asignaturas">
-      @for (asig of asignaturas; track asig.id) {
+      @for (asig of asignaturas(); track asig.id) {
         <a class="asignatura-card tarjeta" [routerLink]="['/alumno/asignaturas', asig.id]">
-          <app-icono-asignatura [icono]="asig.icono" [color]="asig.color" />
+          <app-icono-asignatura icono="libro" color="#5B4FE9" />
           <div class="asignatura-card__info">
             <h3>{{ asig.nombre }}</h3>
-            <p>{{ asig.objetivos.length }} objetivos de aprendizaje</p>
-            <div class="barra-avance">
-              <div class="barra-avance__relleno" [style.width.%]="asig.avance" [style.background]="asig.color"></div>
-            </div>
           </div>
         </a>
       }
@@ -48,31 +45,23 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
       .asignatura-card:hover {
         transform: translateY(-2px);
       }
-      .asignatura-card__info {
-        flex: 1;
-      }
       .asignatura-card h3 {
-        margin: 0 0 0.25rem;
+        margin: 0;
         font-size: 1.05rem;
-      }
-      .asignatura-card p {
-        margin: 0 0 0.5rem;
-        color: var(--texto-secundario);
-        font-size: 0.85rem;
-      }
-      .barra-avance {
-        height: 6px;
-        border-radius: 999px;
-        background: var(--borde);
-        overflow: hidden;
-      }
-      .barra-avance__relleno {
-        height: 100%;
-        border-radius: 999px;
       }
     `,
   ],
 })
 export class AsignaturasLista {
-  asignaturas = ASIGNATURAS_4_BASICO;
+  asignaturas = signal<AsignaturaRespuesta[]>([]);
+
+  private contenido = inject(ContenidoService);
+  private sesion = inject(SesionService);
+
+  constructor() {
+    const perfil = this.sesion.perfilActivo();
+    if (perfil) {
+      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asigs) => this.asignaturas.set(asigs));
+    }
+  }
 }

@@ -30,14 +30,13 @@ def main() -> None:
             print(f"La cuenta de prueba ya existe: {EMAIL_PRUEBA}")
             return
 
-        # Plan de cortesía para pruebas (origen "cortesia", ver
-        # planificacion/18-panel-administrador.md) — acceso completo sin pago.
-        plan_completo = session.exec(select(Plan).where(Plan.nombre == "Completo")).first()
+        # Usa el plan real "Por periodo de examinación" (ver scripts/sembrar_planes.py y
+        # planificacion/09-modelo-de-negocio.md), asignado en origen "cortesia" — acceso
+        # completo sin pago real, tal como pediste para las cuentas de prueba.
+        plan_completo = session.exec(select(Plan).where(Plan.nombre == "Por periodo de examinación")).first()
         if not plan_completo:
-            plan_completo = Plan(nombre="Completo", nivel_de_acceso="completo", precio_clp=19990)
-            session.add(plan_completo)
-            session.commit()
-            session.refresh(plan_completo)
+            print("⚠️  Corre primero scripts/sembrar_planes.py (no hay planes creados).")
+            return
 
         cuenta = Cuenta(
             email=EMAIL_PRUEBA,
@@ -59,7 +58,7 @@ def main() -> None:
             nombre="Sofía",
             apellidos="Pérez González",
             fecha_nacimiento=date(2016, 3, 12),
-            rut="21.345.678-9",
+            rut="21.345.678-4",
             nivel_id=nivel_4b.id,
         )
         alumno_2 = PerfilAlumno(
@@ -67,7 +66,7 @@ def main() -> None:
             nombre="Mateo",
             apellidos="Pérez González",
             fecha_nacimiento=date(2014, 7, 25),
-            rut="20.987.654-3",
+            rut="20.987.654-K",
             nivel_id=nivel_6b.id,
         )
         session.add(alumno_1)
