@@ -1,8 +1,12 @@
+from datetime import datetime, timedelta
+
 from app.domain.comercial.entities import CodigoDescuento, Plan
 from app.domain.comercial.exceptions import AlumnoNoEncontrado, CodigoDescuentoNoEncontrado, PlanNoEncontrado
 from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes, RepositorioSuscripciones
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.shared.reloj import Reloj
+
+DURACION_PRUEBA_GRATIS_DIAS = 7
 
 
 class CrearPlan:
@@ -83,3 +87,30 @@ class AsignarSuscripcionCortesia:
         if not self._repositorio_planes.buscar_por_id(plan_id):
             raise PlanNoEncontrado()
         self._repositorio_suscripciones.asignar_cortesia(perfil_alumno_id, plan_id, self._reloj.ahora())
+
+
+class IniciarPruebaGratis:
+    """Activa el plan elegido en modo prueba (sin cobro) por
+    `DURACION_PRUEBA_GRATIS_DIAS` días — ver planificacion/09-modelo-de-negocio.md."""
+
+    def __init__(
+        self,
+        repositorio_suscripciones: RepositorioSuscripciones,
+        repositorio_perfiles: RepositorioPerfilesAlumno,
+        repositorio_planes: RepositorioPlanes,
+        reloj: Reloj,
+    ):
+        self._repositorio_suscripciones = repositorio_suscripciones
+        self._repositorio_perfiles = repositorio_perfiles
+        self._repositorio_planes = repositorio_planes
+        self._reloj = reloj
+
+    def ejecutar(self, perfil_alumno_id: int, plan_id: int) -> datetime:
+        if not self._repositorio_perfiles.buscar_por_id(perfil_alumno_id):
+            raise AlumnoNoEncontrado()
+        if not self._repositorio_planes.buscar_por_id(plan_id):
+            raise PlanNoEncontrado()
+        ahora = self._reloj.ahora()
+        fecha_termino = ahora + timedelta(days=DURACION_PRUEBA_GRATIS_DIAS)
+        self._repositorio_suscripciones.asignar_prueba_gratis(perfil_alumno_id, plan_id, ahora, fecha_termino)
+        return fecha_termino

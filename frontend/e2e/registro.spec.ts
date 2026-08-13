@@ -25,7 +25,7 @@ test('flujo completo de registro: crear cuenta → agregar alumno → plan → p
   // El nombre del alumno recién creado debe reflejarse, no un valor hardcodeado.
   await expect(page.locator('h1')).toContainText('Alumno QA');
 
-  await page.click('button:has-text("Continuar al pago")');
+  await page.click('button:has-text("Comenzar mis 7 días gratis")');
   await expect(page).toHaveURL(/selector-perfil/);
   await expect(page.getByText('Alumno QA')).toBeVisible();
 

@@ -31,6 +31,28 @@ class RepositorioSuscripcionesSQLModel:
         self._session.add(fila)
         self._session.commit()
 
+    def asignar_prueba_gratis(
+        self, perfil_alumno_id: int, plan_id: int, ahora: datetime, fecha_termino: datetime
+    ) -> None:
+        fila = self._session.exec(
+            select(SuscripcionORM)
+            .where(SuscripcionORM.perfil_alumno_id == perfil_alumno_id)
+            .order_by(SuscripcionORM.fecha_inicio.desc())
+        ).first()
+        if fila:
+            fila.plan_id = plan_id
+            fila.origen = "prueba_gratis"
+            fila.estado = "activa"
+            fila.fecha_inicio = ahora
+            fila.fecha_termino = fecha_termino
+        else:
+            fila = SuscripcionORM(
+                perfil_alumno_id=perfil_alumno_id, plan_id=plan_id,
+                fecha_inicio=ahora, fecha_termino=fecha_termino, estado="activa", origen="prueba_gratis",
+            )
+        self._session.add(fila)
+        self._session.commit()
+
     def contar_activas_por_plan(self) -> list[ActivasPorPlan]:
         filas = self._session.exec(
             select(SuscripcionORM.plan_id, SuscripcionORM.id).where(SuscripcionORM.estado == "activa")

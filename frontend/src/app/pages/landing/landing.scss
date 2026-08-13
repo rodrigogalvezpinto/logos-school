@@ -279,7 +279,16 @@
 
   h2 {
     font-size: 1.8rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.landing__planes-sub {
+  color: var(--texto-secundario);
+  margin-bottom: 2.5rem;
+
+  strong {
+    color: var(--color-primario);
   }
 }
 

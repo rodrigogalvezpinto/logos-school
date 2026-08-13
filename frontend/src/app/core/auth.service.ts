@@ -29,6 +29,16 @@ export interface PerfilAlumnoRespuesta {
   nivel_id: number;
 }
 
+export interface PlanRespuesta {
+  id: number;
+  nombre: string;
+  precio_clp: number;
+}
+
+export interface PruebaGratisRespuesta {
+  fecha_termino: string;
+}
+
 @Injectable({ providedIn: 'root' })
 export class AuthService {
   private http = inject(HttpClient);
@@ -52,5 +62,15 @@ export class AuthService {
 
   listarAlumnos(): Observable<PerfilAlumnoRespuesta[]> {
     return this.http.get<PerfilAlumnoRespuesta[]>(`${this.base}/auth/alumnos`);
+  }
+
+  listarPlanes(): Observable<PlanRespuesta[]> {
+    return this.http.get<PlanRespuesta[]>(`${this.base}/auth/planes`);
+  }
+
+  iniciarPruebaGratis(perfilAlumnoId: number, planId: number): Observable<PruebaGratisRespuesta> {
+    return this.http.post<PruebaGratisRespuesta>(`${this.base}/auth/alumnos/${perfilAlumnoId}/prueba-gratis`, {
+      plan_id: planId,
+    });
   }
 }

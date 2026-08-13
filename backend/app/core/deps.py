@@ -30,6 +30,7 @@ from app.application.comercial.casos_de_uso import (
     CrearPlan,
     DesactivarCodigoDescuento,
     EditarPlan,
+    IniciarPruebaGratis,
 )
 from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas
 from app.application.curso_seccion.casos_de_uso import (
@@ -281,6 +282,15 @@ def get_asignar_suscripcion_cortesia_uc(
     reloj: RelojSistema = Depends(get_reloj),
 ) -> AsignarSuscripcionCortesia:
     return AsignarSuscripcionCortesia(repositorio_suscripciones, repositorio_perfiles, repositorio_planes, reloj)
+
+
+def get_iniciar_prueba_gratis_uc(
+    repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_planes: RepositorioPlanesSQLModel = Depends(get_repositorio_planes),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> IniciarPruebaGratis:
+    return IniciarPruebaGratis(repositorio_suscripciones, repositorio_perfiles, repositorio_planes, reloj)
 
 
 def get_buscar_alumnos_uc(

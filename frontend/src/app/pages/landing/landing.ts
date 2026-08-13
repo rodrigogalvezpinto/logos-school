@@ -156,6 +156,9 @@ const NIVELES = [
 
       <section class="landing__planes">
         <h2>Planes simples, sin letra chica</h2>
+        <p class="landing__planes-sub">
+          Prueba <strong>7 días completamente gratis</strong> en cualquier plan — sin tarjeta de crédito.
+        </p>
         <div class="landing__planes-grid">
           <div class="plan-card">
             <h3>Mensual</h3>

@@ -29,8 +29,11 @@ Verificación end-to-end vigente: **51/51 tests de backend, 18/18 E2E de Playwri
 
 ## 🟠 Necesario antes de mostrarle esto a una familia real (no solo a ti)
 
-1. **Pasarela de pago real.** Sigue mockeada (activación manual sin cobrar) — hay que
-   elegir proveedor (Webpay/Transbank es el estándar en Chile) e integrarlo.
+1. **Pasarela de pago real.** Sigue mockeada — hay que elegir proveedor (Webpay/Transbank es
+   el estándar en Chile) e integrarlo. Lo que sí se implementó (2026-08-13): la **prueba
+   gratuita de 7 días** activa una `Suscripcion` real al elegir plan (sin cobrar), pero
+   todavía no existe ningún gate que bloquee el acceso cuando la prueba vence sin plan
+   pagado — eso se agrega junto con la pasarela real.
 2. **Login con Google no tiene credenciales reales.** El código está listo y ahora detrás
    de un puerto (`VerificadorTokenGoogleAdapter`), pero `GOOGLE_CLIENT_ID` no existe — no
    hay `.env` real todavía, solo `.env.example`.

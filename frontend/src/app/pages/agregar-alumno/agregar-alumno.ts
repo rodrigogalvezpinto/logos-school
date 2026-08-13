@@ -187,8 +187,10 @@ export class AgregarAlumno {
           this.planEstudio
             .crearPlan(perfil.id, diasElegidos.length, diasElegidos, this.fechaObjetivo || null)
             .subscribe({
-              next: () => this.router.navigate(['/seleccion-plan'], { queryParams: { nombre: perfil.nombre } }),
-              error: () => this.router.navigate(['/seleccion-plan'], { queryParams: { nombre: perfil.nombre } }),
+              next: () =>
+                this.router.navigate(['/seleccion-plan'], { queryParams: { nombre: perfil.nombre, perfilId: perfil.id } }),
+              error: () =>
+                this.router.navigate(['/seleccion-plan'], { queryParams: { nombre: perfil.nombre, perfilId: perfil.id } }),
             });
         },
         error: (err) => {

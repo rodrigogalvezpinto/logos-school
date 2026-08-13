@@ -141,3 +141,88 @@ def test_listar_alumnos_solo_devuelve_los_propios(client, session):
 
     r_a = client.get("/auth/alumnos", headers={"Authorization": f"Bearer {token_a}"})
     assert len(r_a.json()) == 1
+
+
+def _crear_alumno(client, token, nivel_id=1, rut="1-9"):
+    return client.post(
+        "/auth/alumnos",
+        headers={"Authorization": f"Bearer {token}"},
+        json={
+            "nombre": "Alumno Prueba",
+            "apellidos": "Test",
+            "fecha_nacimiento": "2016-01-01",
+            "rut": rut,
+            "nivel_id": nivel_id,
+        },
+    ).json()
+
+
+def _crear_nivel_y_plan(session):
+    from app.infrastructure.persistence.orm_models import Nivel, Plan
+
+    session.add(
+        Nivel(
+            nombre="4° básico", regimen="A", decreto="439/2012", formato_examen="integrado",
+            num_preguntas_examen=20, duracion_examen_min=90,
+        )
+    )
+    plan = Plan(nombre="Mensual", nivel_de_acceso="completo", precio_clp=19990)
+    session.add(plan)
+    session.commit()
+    session.refresh(plan)
+    return plan
+
+
+def test_listar_planes_solo_devuelve_los_activos(client, session):
+    from app.infrastructure.persistence.orm_models import Plan
+
+    plan_activo = _crear_nivel_y_plan(session)
+    session.add(Plan(nombre="Descontinuado", nivel_de_acceso="completo", precio_clp=9990, activo=False))
+    session.commit()
+
+    token = _registrar(client, "planes@test.cl").json()["access_token"]
+    r = client.get("/auth/planes", headers={"Authorization": f"Bearer {token}"})
+    assert r.status_code == 200
+    nombres = [p["nombre"] for p in r.json()]
+    assert plan_activo.nombre in nombres
+    assert "Descontinuado" not in nombres
+
+
+def test_iniciar_prueba_gratis_activa_suscripcion_de_7_dias(client, session):
+    from datetime import datetime
+
+    from sqlmodel import select
+
+    from app.infrastructure.persistence.orm_models import Suscripcion
+
+    plan = _crear_nivel_y_plan(session)
+    token = _registrar(client, "prueba@test.cl").json()["access_token"]
+    alumno = _crear_alumno(client, token)
+
+    r = client.post(
+        f"/auth/alumnos/{alumno['id']}/prueba-gratis",
+        headers={"Authorization": f"Bearer {token}"},
+        json={"plan_id": plan.id},
+    )
+    assert r.status_code == 200
+    fecha_termino = datetime.fromisoformat(r.json()["fecha_termino"])
+    assert (fecha_termino - datetime.now(fecha_termino.tzinfo)).days in (6, 7)
+
+    suscripcion = session.exec(select(Suscripcion).where(Suscripcion.perfil_alumno_id == alumno["id"])).first()
+    assert suscripcion.origen == "prueba_gratis"
+    assert suscripcion.estado == "activa"
+    assert suscripcion.plan_id == plan.id
+
+
+def test_iniciar_prueba_gratis_no_permite_activar_alumno_ajeno(client, session):
+    plan = _crear_nivel_y_plan(session)
+    token_a = _registrar(client, "duenoA@test.cl").json()["access_token"]
+    token_b = _registrar(client, "duenoB@test.cl").json()["access_token"]
+    alumno_de_a = _crear_alumno(client, token_a)
+
+    r = client.post(
+        f"/auth/alumnos/{alumno_de_a['id']}/prueba-gratis",
+        headers={"Authorization": f"Bearer {token_b}"},
+        json={"plan_id": plan.id},
+    )
+    assert r.status_code == 403
