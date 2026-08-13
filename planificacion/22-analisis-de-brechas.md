@@ -46,14 +46,24 @@ Verificación end-to-end vigente: **51/51 tests de backend, 18/18 E2E de Playwri
 
 ## 🟡 Ya planificado, simplemente no construido todavía (no es una sorpresa)
 
-6. **Fase 1.2 (historial y notas por materia)** — pantallas y endpoints no existen aún,
-   según `03-roadmap-etapas.md`.
+6. ~~Fase 1.2 (historial y notas por materia)~~ — **completa (2026-08-12)**: nuevo bounded
+   context `progreso`, endpoints `GET/POST /progreso/{perfil_alumno_id}`, páginas
+   `/alumno/notas` y `/apoderado/progreso/:id`. 56/56 tests backend, 21/21 E2E.
 7. **Fase 1.3 (plan de estudio con horario)** — ya diseñado en `13-plan-de-estudio.md`, no
-   construido.
+   construido. El usuario adelantó requisitos adicionales (cronograma orientado a la fecha
+   del examen real, simulacro parcial ajustado al % de temario cubierto, onboarding por
+   días/semana con horas por asignatura calculadas) — quedaron registrados en el plan de
+   Fase 1.2 para no perderlos al diseñar esta fase.
 8. **Panel de Administrador** (`planificacion/18-panel-administrador.md`) — cero código, ni
-   frontend ni backend. Se va a necesitar pronto para gestionar precios/cortesías.
-9. **Rol Profesor / Curso-Sección** — Etapa 2 del roadmap, correctamente fuera de alcance
-   todavía.
+   frontend ni backend. El usuario lo marcó como prioridad alta, pidiendo explícitamente
+   investigar paneles de administración existentes como referencia antes de diseñarlo.
+9. **Rol Profesor / Curso-Sección** — Etapa 2 del roadmap. El usuario quiere construirlo
+   pronto; se acordó secuenciarlo después del Panel de Administrador, porque
+   `01-roles-y-permisos.md` exige que un Administrador apruebe manualmente cada cuenta de
+   Profesor antes de activarse.
+
+**Orden acordado con el usuario (2026-08-12): Fase 1.2 (✅) → Panel de Administrador → Fase
+1.3 → Rol Profesor.**
 
 ## 🟢 Calidad / pulido — no bloquea lanzar, pero se nota
 

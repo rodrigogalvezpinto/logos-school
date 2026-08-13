@@ -51,7 +51,7 @@ de pago — ver `10-privacidad-y-datos-de-menores.md` y `09-modelo-de-negocio.md
 **Esta fase, por sí sola, ya es un producto usable y lanzable** (equivalente al "estudiar y
 practicar" de Wited, sin todavía la capa de seguimiento).
 
-### Fase 1.2 — Registro de avances (historial y notas por materia)
+### Fase 1.2 — Registro de avances (historial y notas por materia) ✅ completa (2026-08-12)
 
 Se agrega la capa de seguimiento: el Alumno (y el Apoderado) puede ver el historial completo
 de guías revisadas, pruebas y exámenes rendidos, con su nota y fecha. Aparece la **nota por
