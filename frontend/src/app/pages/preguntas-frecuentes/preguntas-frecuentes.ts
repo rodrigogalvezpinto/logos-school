@@ -21,13 +21,13 @@ export class PreguntasFrecuentes {
   preguntas: Pregunta[] = [
     {
       categoria: 'logos',
-      pregunta: '¿Logos tiene material suficiente para preparar a mi hijo/a para el examen libre?',
+      pregunta: '¿Logos School tiene material suficiente para preparar a mi hijo/a para el examen libre?',
       respuesta:
         'Sí. Cubrimos el temario oficial completo que exige el Mineduc para el curso de tu hijo/a, objetivo por objetivo. Incluye la materia explicada con ejemplos, cientos de preguntas de práctica, pruebas cortas por unidad, y un examen de práctica idéntico en formato al examen real.',
     },
     {
       categoria: 'logos',
-      pregunta: '¿Cómo es la modalidad de evaluación dentro de Logos?',
+      pregunta: '¿Cómo es la modalidad de evaluación dentro de Logos School?',
       respuesta:
         'Tres niveles: práctica libre (sin nota, feedback inmediato), pruebas de unidad (con nota, sin cronómetro) y examen simulacro (cronometrado, mismo formato del examen real — es la mejor señal de si está listo).',
     },
@@ -39,9 +39,9 @@ export class PreguntasFrecuentes {
     },
     {
       categoria: 'logos',
-      pregunta: '¿Logos es gratis?',
+      pregunta: '¿Logos School es gratis?',
       respuesta:
-        'Logos tiene planes de pago accesibles (desde $19.990 CLP mensual, con opciones por periodo de examinación o anual con descuento) — no es un colegio online tradicional con mensualidades altas, está pensado para ser una alternativa accesible.',
+        'Logos School tiene planes de pago accesibles (desde $19.990 CLP mensual, con opciones por periodo de examinación o anual con descuento) — no es un colegio online tradicional con mensualidades altas, está pensado para ser una alternativa accesible.',
     },
     {
       categoria: 'tramite',

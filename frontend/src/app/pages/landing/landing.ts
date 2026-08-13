@@ -96,7 +96,7 @@ import { Logo } from '../../shared/logo/logo';
 
       <footer class="landing__footer">
         <app-logo [tamano]="24" />
-        <span>Accesible para todas las familias. © Logos.</span>
+        <span>Accesible para todas las familias. © Logos School.</span>
       </footer>
     </div>
   `,

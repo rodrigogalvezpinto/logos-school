@@ -17,8 +17,8 @@ import { Logo } from '../../shared/logo/logo';
       <p class="fecha">Última actualización: agosto de 2026</p>
 
       <section>
-        <h2>Qué es Logos</h2>
-        <p>Logos es una plataforma de apoyo de estudio para niños, niñas y adolescentes que se
+        <h2>Qué es Logos School</h2>
+        <p>Logos School es una plataforma de apoyo de estudio para niños, niñas y adolescentes que se
         preparan para rendir los Exámenes Libres de Validación de Estudios del Ministerio de
         Educación de Chile. No somos un colegio ni una institución reconocida por el Mineduc — el
         trámite de inscripción al examen real lo realiza siempre el apoderado directamente con el
@@ -33,7 +33,7 @@ import { Logo } from '../../shared/logo/logo';
 
       <section>
         <h2>Planes y pagos</h2>
-        <p>Logos ofrece planes de pago (mensual, por periodo de examinación, o anual). Los montos
+        <p>Logos School ofrece planes de pago (mensual, por periodo de examinación, o anual). Los montos
         vigentes se muestran siempre antes de confirmar cualquier pago. El acceso al contenido
         contratado se mantiene mientras el plan esté activo.</p>
       </section>
@@ -41,7 +41,7 @@ import { Logo } from '../../shared/logo/logo';
       <section>
         <h2>Contenido y precisión</h2>
         <p>El contenido de estudio está basado fielmente en los temarios oficiales del Mineduc/UCE,
-        pero es de elaboración propia — no reproduce preguntas reales del examen oficial. Logos no
+        pero es de elaboración propia — no reproduce preguntas reales del examen oficial. Logos School no
         garantiza la aprobación del examen real; el resultado depende del estudio y preparación del
         alumno.</p>
       </section>

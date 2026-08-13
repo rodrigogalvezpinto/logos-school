@@ -1,9 +1,12 @@
-# Proyecto Logos — Plataforma de estudio para Exámenes Libres (Chile)
+# Proyecto Logos School — Plataforma de estudio para Exámenes Libres (Chile)
 
 > Este archivo se carga automáticamente al iniciar una conversación de Claude Code en esta
 > carpeta. Su función es dar contexto persistente entre conversaciones. Mantenerlo
 > actualizado a medida que avanza el proyecto — es la memoria del proyecto, no un historial
 > de conversación literal.
+
+**Nombre oficial del producto: "Logos School"** (no solo "Logos") — usar este nombre en
+copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la marca.
 
 ## Qué es este proyecto
 

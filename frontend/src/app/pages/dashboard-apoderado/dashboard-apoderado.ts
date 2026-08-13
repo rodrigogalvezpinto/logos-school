@@ -9,7 +9,7 @@ import { SesionService } from '../../core/sesion.service';
   imports: [RouterLink],
   template: `
     <h1>Hola, {{ nombreApoderado() }} 👋</h1>
-    <p class="subtitulo">Así va tu familia en Logos.</p>
+    <p class="subtitulo">Así va tu familia en Logos School.</p>
 
     <div class="grid">
       @for (alumno of alumnos(); track alumno.id) {

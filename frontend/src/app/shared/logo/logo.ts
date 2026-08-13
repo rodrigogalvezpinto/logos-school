@@ -32,7 +32,7 @@ import { Component, Input } from '@angular/core';
         <path d="M27 13 H34 V20" stroke="#FF6B4A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
       @if (!soloIcono) {
-        <span class="logo__texto">Logos</span>
+        <span class="logo__texto">Logos School</span>
       }
     </div>
   `,
