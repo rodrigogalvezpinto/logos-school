@@ -51,7 +51,7 @@ def test_yo_con_token_devuelve_cuenta(client):
 
 
 def test_agregar_alumno_requiere_nivel_existente(client, session):
-    from app.models import Nivel
+    from app.infrastructure.persistence.orm_models import Nivel
 
     session.add(
         Nivel(
@@ -82,7 +82,7 @@ def test_agregar_alumno_requiere_nivel_existente(client, session):
 
 
 def test_agregar_alumno_con_rut_invalido_es_rechazado(client, session):
-    from app.models import Nivel
+    from app.infrastructure.persistence.orm_models import Nivel
 
     session.add(
         Nivel(
@@ -106,7 +106,7 @@ def test_agregar_alumno_con_rut_invalido_es_rechazado(client, session):
 
 
 def test_listar_alumnos_solo_devuelve_los_propios(client, session):
-    from app.models import Nivel
+    from app.infrastructure.persistence.orm_models import Nivel
 
     session.add(
         Nivel(

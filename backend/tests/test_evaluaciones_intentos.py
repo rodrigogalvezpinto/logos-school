@@ -1,6 +1,6 @@
 from datetime import date
 
-from app.models import Asignatura, ConjuntoEvaluacion, Cuenta, Nivel, PerfilAlumno, Pregunta
+from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Cuenta, Nivel, PerfilAlumno, Pregunta
 
 
 def _preparar(session):

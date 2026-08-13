@@ -2,7 +2,7 @@ import pytest
 from fastapi.testclient import TestClient
 from sqlmodel import Session, SQLModel, create_engine
 
-from app.core.db import get_session
+from app.infrastructure.persistence.db import get_session
 from app.core.limiter import limiter
 from app.main import app
 

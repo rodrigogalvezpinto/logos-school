@@ -1,22 +1,155 @@
+"""Composition root: aquí se cablean los adaptadores concretos de `infrastructure/` a
+los puertos que consumen los casos de uso de `application/`, vía `Depends` de FastAPI.
+Los routers nunca instancian un adaptador directo — siempre a través de estas factories."""
+
 from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from sqlmodel import Session
 
-from app.core.db import get_session
-from app.core.seguridad import decodificar_token
-from app.models import Cuenta
+from app.application.auth.casos_de_uso import (
+    AgregarPerfilAlumno,
+    IniciarSesion,
+    IniciarSesionConGoogle,
+    ListarPerfilesAlumno,
+    RegistrarApoderado,
+)
+from app.application.evaluaciones.casos_de_uso import (
+    EntregarIntento,
+    IniciarIntento,
+    ObtenerIntento,
+    ResponderPregunta,
+)
+from app.infrastructure.persistence.db import get_session
+from app.domain.auth.entities import Cuenta
+from app.infrastructure.auth_externa.google_oauth import VerificadorTokenGoogleAdapter
+from app.infrastructure.persistence.repositorios.conjuntos import RepositorioConjuntosSQLModel
+from app.infrastructure.persistence.repositorios.contenido import RepositorioContenidoSQLModel
+from app.infrastructure.persistence.repositorios.cuentas import RepositorioCuentasSQLModel
+from app.infrastructure.persistence.repositorios.intentos import RepositorioIntentosSQLModel
+from app.infrastructure.persistence.repositorios.perfiles_alumno import RepositorioPerfilesAlumnoSQLModel
+from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
+from app.infrastructure.reloj_sistema import RelojSistema
+from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
+from app.infrastructure.seguridad.jose_tokens import ServicioTokenJWT
 
 security = HTTPBearer()
 
 
+def get_repositorio_cuentas(session: Session = Depends(get_session)) -> RepositorioCuentasSQLModel:
+    return RepositorioCuentasSQLModel(session)
+
+
+def get_repositorio_perfiles_alumno(session: Session = Depends(get_session)) -> RepositorioPerfilesAlumnoSQLModel:
+    return RepositorioPerfilesAlumnoSQLModel(session)
+
+
+def get_hasheador_password() -> HasheadorPasswordBcrypt:
+    return HasheadorPasswordBcrypt()
+
+
+def get_servicio_token() -> ServicioTokenJWT:
+    return ServicioTokenJWT()
+
+
+def get_verificador_google() -> VerificadorTokenGoogleAdapter:
+    return VerificadorTokenGoogleAdapter()
+
+
+def get_registrar_apoderado_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> RegistrarApoderado:
+    return RegistrarApoderado(repositorio, hasheador, servicio_token)
+
+
+def get_iniciar_sesion_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> IniciarSesion:
+    return IniciarSesion(repositorio, hasheador, servicio_token)
+
+
+def get_iniciar_sesion_google_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    verificador_google: VerificadorTokenGoogleAdapter = Depends(get_verificador_google),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> IniciarSesionConGoogle:
+    return IniciarSesionConGoogle(repositorio, verificador_google, servicio_token)
+
+
+def get_agregar_perfil_alumno_uc(
+    repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+) -> AgregarPerfilAlumno:
+    return AgregarPerfilAlumno(repositorio)
+
+
+def get_listar_perfiles_alumno_uc(
+    repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+) -> ListarPerfilesAlumno:
+    return ListarPerfilesAlumno(repositorio)
+
+
+def get_repositorio_contenido(session: Session = Depends(get_session)) -> RepositorioContenidoSQLModel:
+    return RepositorioContenidoSQLModel(session)
+
+
+def get_repositorio_intentos(session: Session = Depends(get_session)) -> RepositorioIntentosSQLModel:
+    return RepositorioIntentosSQLModel(session)
+
+
+def get_repositorio_conjuntos(session: Session = Depends(get_session)) -> RepositorioConjuntosSQLModel:
+    return RepositorioConjuntosSQLModel(session)
+
+
+def get_repositorio_preguntas(session: Session = Depends(get_session)) -> RepositorioPreguntasSQLModel:
+    return RepositorioPreguntasSQLModel(session)
+
+
+def get_reloj() -> RelojSistema:
+    return RelojSistema()
+
+
+def get_iniciar_intento_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> IniciarIntento:
+    return IniciarIntento(repositorio_intentos, repositorio_conjuntos, repositorio_perfiles, reloj)
+
+
+def get_obtener_intento_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+) -> ObtenerIntento:
+    return ObtenerIntento(repositorio_intentos)
+
+
+def get_responder_pregunta_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+) -> ResponderPregunta:
+    return ResponderPregunta(repositorio_intentos)
+
+
+def get_entregar_intento_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> EntregarIntento:
+    return EntregarIntento(repositorio_intentos, repositorio_conjuntos, repositorio_preguntas, reloj)
+
+
 def get_cuenta_actual(
     credenciales: HTTPAuthorizationCredentials = Depends(security),
-    session: Session = Depends(get_session),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
 ) -> Cuenta:
-    cuenta_id = decodificar_token(credenciales.credentials)
+    cuenta_id = servicio_token.decodificar(credenciales.credentials)
     if cuenta_id is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Sesión inválida o expirada")
-    cuenta = session.get(Cuenta, cuenta_id)
+    cuenta = repositorio.buscar_por_id(cuenta_id)
     if cuenta is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta no encontrada")
     return cuenta

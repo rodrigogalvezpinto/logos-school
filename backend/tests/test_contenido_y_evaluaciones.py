@@ -1,4 +1,4 @@
-from app.models import Asignatura, Nivel, ObjetivoAprendizaje, Pregunta
+from app.infrastructure.persistence.orm_models import Asignatura, Nivel, ObjetivoAprendizaje, Pregunta
 
 
 def _crear_nivel_con_pregunta(session):

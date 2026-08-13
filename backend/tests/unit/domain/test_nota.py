@@ -1,6 +1,6 @@
 import pytest
 
-from app.services.calificacion import calcular_nota
+from app.domain.evaluaciones.value_objects import Nota, calcular_nota
 
 
 def test_cero_correctas_da_nota_minima():
@@ -39,3 +39,16 @@ def test_examen_regimen_a_20_preguntas():
 def test_prueba_25_preguntas_regimen_b():
     # Caso real: prueba separada 5° básico en adelante, 25 preguntas
     assert calcular_nota(15, 25) == 4.0  # 60% exacto de 25 = 15
+
+
+def test_nota_value_object_valida_el_rango():
+    Nota(1.0)
+    Nota(7.0)
+    with pytest.raises(ValueError):
+        Nota(0.9)
+    with pytest.raises(ValueError):
+        Nota(7.1)
+
+
+def test_nota_desde_puntaje_delega_en_calcular_nota():
+    assert Nota.desde_puntaje(12, 20).valor == calcular_nota(12, 20)

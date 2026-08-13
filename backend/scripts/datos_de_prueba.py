@@ -15,9 +15,9 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from sqlmodel import Session, select
 
-from app.core.db import engine
-from app.core.seguridad import hashear_password
-from app.models import Cuenta, Nivel, PerfilAlumno, Plan, Suscripcion
+from app.infrastructure.persistence.db import engine
+from app.infrastructure.persistence.orm_models import Cuenta, Nivel, PerfilAlumno, Plan, Suscripcion
+from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 
 EMAIL_PRUEBA = "apoderado.prueba@logos.cl"
 PASSWORD_PRUEBA = "Logos2026!"
@@ -40,7 +40,7 @@ def main() -> None:
 
         cuenta = Cuenta(
             email=EMAIL_PRUEBA,
-            password_hash=hashear_password(PASSWORD_PRUEBA),
+            password_hash=HasheadorPasswordBcrypt().hashear(PASSWORD_PRUEBA),
             nombre="Apoderado de Prueba",
         )
         session.add(cuenta)

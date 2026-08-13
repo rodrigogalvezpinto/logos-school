@@ -13,8 +13,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from sqlmodel import Session, select
 
-from app.core.db import engine, crear_tablas
-from app.models import Plan
+from app.infrastructure.persistence.db import engine, crear_tablas
+from app.infrastructure.persistence.orm_models import Plan
 
 PLANES = [
     {"nombre": "Mensual", "nivel_de_acceso": "completo", "precio_clp": 19990},

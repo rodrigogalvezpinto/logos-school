@@ -18,8 +18,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from sqlmodel import Session, select
 
-from app.core.db import engine, crear_tablas
-from app.models import Asignatura, ConjuntoEvaluacion, Nivel, ObjetivoAprendizaje, Pregunta
+from app.infrastructure.persistence.db import engine, crear_tablas
+from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Nivel, ObjetivoAprendizaje, Pregunta
 from parser_contenido import parsear_guia
 from parser_prueba_examen import parsear_prueba_o_examen
 
