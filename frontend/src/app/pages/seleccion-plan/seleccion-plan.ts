@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Logo } from '../../shared/logo/logo';
 
 @Component({
@@ -9,7 +9,7 @@ import { Logo } from '../../shared/logo/logo';
   template: `
     <div class="pagina">
       <div class="pagina__logo"><app-logo /></div>
-      <h1>Elige el plan para Sofía</h1>
+      <h1>Elige el plan para {{ nombreAlumno }}</h1>
       <p class="pagina__subtitulo">Puedes cambiar de plan cuando quieras.</p>
 
       <div class="planes">
@@ -120,8 +120,12 @@ import { Logo } from '../../shared/logo/logo';
 })
 export class SeleccionPlan {
   planElegido: 'mensual' | 'periodo' | 'anual' = 'periodo';
+  nombreAlumno = 'tu alumno';
 
-  constructor(private router: Router) {}
+  constructor(private router: Router, private ruta: ActivatedRoute) {
+    const nombre = this.ruta.snapshot.queryParamMap.get('nombre');
+    if (nombre) this.nombreAlumno = nombre;
+  }
 
   continuar() {
     this.router.navigate(['/selector-perfil']);
