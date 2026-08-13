@@ -107,6 +107,11 @@ propio e informar después. Aplica en todo este proyecto.
   - `21-accesibilidad-lectura-y-contenido-visual.md` — lectura en voz alta gratuita (Web
     Speech API) para 1°-2° básico, y componentes visuales propios (recta numérica, modelo
     de fracciones, figuras geométricas) para Matemática, en vez de imágenes sueltas.
+  - `24-reforzamiento-con-profesores.md` — investigación (no implementado, el usuario pidió
+    explícitamente solo planificar) de un posible marketplace de clases pagadas con
+    profesores, inspirado en wited.com/cl/reforzamiento — preguntas de negocio abiertas
+    (marketplace abierto vs. curado, pagos, seguridad del menor en videollamada 1-a-1) antes
+    de diseñar nada.
   - `17-infraestructura-y-entornos.md` — **regla no negociable: ambientes Desarrollo y
     Producción separados desde el día uno**, cada uno con su propia base de datos (Neon,
     Postgres con branches). Backend en Render, frontend Angular en Cloudflare Pages, correo
