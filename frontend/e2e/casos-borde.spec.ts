@@ -55,6 +55,9 @@ test.describe('Casos borde del motor de evaluación (backend real)', () => {
     // La nota viene calculada por el backend (planificacion/12-motor-de-evaluacion.md,
     // escala 1.0-7.0) — confirma que el número realmente llegó, no quedó vacío.
     await expect(page.locator('.resultado__nota')).toContainText(/Nota: \d(\.\d)?/);
+    // Con todo en blanco la nota reprueba (< 4.0) — debe verse en rojo, no en verde
+    // (bug encontrado simulando un alumno real: mostraba una nota 1.0 en verde de éxito).
+    await expect(page.locator('.resultado__nota')).toHaveClass(/resultado__nota--reprobada/);
   });
 
   test('el resultado tiene un botón Volver que funciona', async ({ page }) => {

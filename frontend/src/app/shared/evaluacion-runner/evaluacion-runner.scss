@@ -210,6 +210,9 @@
   color: var(--color-exito);
   margin: 0.5rem 0 0;
 }
+.resultado__nota--reprobada {
+  color: var(--color-error);
+}
 .resultado__puntaje {
   color: var(--texto-secundario);
   margin-bottom: 1.5rem;

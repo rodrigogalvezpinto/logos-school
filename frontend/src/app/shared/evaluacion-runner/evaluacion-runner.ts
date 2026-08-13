@@ -163,7 +163,9 @@ export interface PreguntaRunner {
       <div class="resultado tarjeta">
         <span class="resultado__etiqueta">Resultado</span>
         @if (modo !== 'autoevaluacion') {
-          <p class="resultado__nota">Nota: {{ notaFinal() }}</p>
+          <p class="resultado__nota" [class.resultado__nota--reprobada]="notaFinal() !== null && notaFinal()! < 4">
+            Nota: {{ notaFinal() }}
+          </p>
           <p class="resultado__puntaje">{{ puntajeFinal() }} de {{ totalAutocorregible() }} correctas (autocorregibles)</p>
         }
         <h3>Revisa tu resultado</h3>

@@ -29,6 +29,24 @@ CONTENIDO_DIR = Path(__file__).parent.parent.parent / "contenido"
 # avance a más niveles (ver planificacion/03-roadmap-etapas.md).
 CURSOS = [
     {
+        "carpeta": "01-basico",
+        "nivel": {
+            "nombre": "1° básico",
+            "regimen": "A",
+            "decreto": "439/2012",
+            "formato_examen": "integrado",
+            "num_preguntas_examen": 20,
+            "duracion_examen_min": 90,
+            "materiales_permitidos": "Ninguno",
+        },
+        "asignaturas": [
+            ("lenguaje-y-comunicacion", "Lenguaje y Comunicación"),
+            ("matematica", "Matemática"),
+            ("ciencias-naturales", "Ciencias Naturales"),
+            ("historia-geografia-y-cs-sociales", "Historia, Geografía y Cs. Sociales"),
+        ],
+    },
+    {
         "carpeta": "04-basico",
         "nivel": {
             "nombre": "4° básico",
@@ -74,6 +92,18 @@ CURSOS = [
 ALIAS_SLUG = {
     "historia": "historia-geografia-y-cs-sociales",
 }
+
+
+def _titulo_desde_encabezado(ruta: Path) -> str | None:
+    """El nombre de una prueba de unidad se toma del primer encabezado `# ...` del archivo
+    (ya escrito con tildes y mayúsculas correctas) en vez de derivarlo del slug del nombre
+    de archivo — `"matematica-unidad-geometria".title()` da "Matematica Unidad Geometria",
+    sin tildes y con "Unidad" en mayúscula donde no corresponde."""
+    for linea in ruta.read_text(encoding="utf-8").splitlines():
+        linea = linea.strip()
+        if linea.startswith("# "):
+            return linea[2:].strip()
+    return None
 
 
 def _asignatura_por_archivo(nombre_archivo: str, slugs: list[str]) -> str | None:
@@ -217,7 +247,7 @@ def importar_curso(session: Session, curso: dict) -> None:
                 session,
                 ruta,
                 tipo="prueba_unidad",
-                nombre=ruta.stem.replace("-", " ").title(),
+                nombre=_titulo_desde_encabezado(ruta) or ruta.stem.replace("-", " ").title(),
                 forma=None,
                 asignatura_id=asignatura.id,
                 nivel_id=None,

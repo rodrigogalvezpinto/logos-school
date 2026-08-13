@@ -110,9 +110,16 @@ Como 4° básico (el piloto) es Régimen A, el paso más simple para escalar es 
 y 3° básico** primero — mismo formato de examen (integrado, 4 asignaturas), reutilizando el
 motor de contenido/evaluación sin cambios de fondo.
 
-**Estado: ✅ Régimen A completo (2026-08-10).** Los 4 cursos (1°-4° básico) tienen contenido
-íntegro: 771 preguntas de autoevaluación en total, 121/121 OA oficiales cubiertos en las 4
-asignaturas de cada curso. Ver `contenido/00-estado-contenido.md` para el detalle.
+**Estado: ✅ Régimen A completo (2026-08-10)** en cuanto a contenido escrito. Los 4 cursos
+(1°-4° básico) tienen contenido íntegro: 771 preguntas de autoevaluación en total, 121/121 OA
+oficiales cubiertos en las 4 asignaturas de cada curso. Ver `contenido/00-estado-contenido.md`
+para el detalle.
+
+**Importado a la base de datos (distinto de "escrito"):** solo 4° básico (piloto) y 6°
+básico. **1° básico se importó el 2026-08-13** como parte de una simulación real de un
+alumno de ese curso (ver hallazgo #15 en `22-analisis-de-brechas.md`) — quedan 2° y 3°
+básico por importar cuando se retome esta etapa (mismo procedimiento: agregar la entrada en
+`scripts/importar_contenido.py` y correrlo, es idempotente por Nivel).
 
 ## Etapa 4 — Extender al Régimen B (5° básico en adelante)
 

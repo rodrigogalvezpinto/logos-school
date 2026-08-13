@@ -101,6 +101,29 @@ Fase 1.3 (✅) → Rol Profesor (✅). Etapa 1 (MVP) + Etapa 2 completas.**
     opacity 0.8) — WCAG exime a componentes de UI inactivos de este requisito. Ver
     `e2e/accesibilidad.spec.ts` (corre en cada suite, falla ante violaciones serias/críticas
     nuevas).
+15. **Simulación real de un alumno de 1° básico (2026-08-13)** — a pedido del usuario, quien
+    quería *verlo* funcionar (no solo revisar código): se importó 1° básico a la base de
+    datos local (antes solo estaban 4° y 6° básico, aunque el contenido de los 12 cursos está
+    100% escrito — ver `contenido/00-estado-contenido.md`) y se recorrió con Playwright en
+    modo visible (`headless: false`) el viaje completo: registro → agregar alumno → prueba
+    gratuita → estudiar guía → autoevaluación → prueba de unidad → Mis Notas → Plan de
+    Estudio. Encontró 3 bugs reales que ningún test anterior detectaba porque nadie había
+    mirado el contenido *renderizado*, no solo el flujo:
+    - **El contenido de las guías se mostraba como Markdown crudo** (`###`, `**negrita**`
+      literales) en vez de HTML formateado — afectaba a los 3 cursos importados, no solo a
+      1° básico. Se agregó `MarkdownPipe` (usa `marked`) en `estudiar-oa.ts`.
+    - **Los nombres de las pruebas de unidad perdían tildes y capitalizaban mal**
+      ("Matematica Unidad Geometria" en vez de "Matemática — Geometría") — el importador los
+      derivaba del nombre de archivo con `.title()` en vez de leer el encabezado real del
+      `.md`. Corregido en `importar_contenido.py` (`_titulo_desde_encabezado`) +
+      `scripts/backfill_nombres_prueba_unidad.py` para las 38 filas ya importadas (usando el
+      enunciado de la primera pregunta como clave de re-matching, no el nombre, que en un
+      primer intento de backfill quedó ambiguo entre cursos — corregido en el mismo pase).
+    - **Una nota reprobada (1.0) se mostraba en verde** (color de éxito) en la pantalla de
+      resultado de pruebas/exámenes — confundía visualmente aprobado con reprobado. Corregido
+      en `evaluacion-runner.ts`/`.scss` (rojo si nota < 4.0).
+
+    126/126 tests backend, 43/43 E2E (2 aserciones nuevas fijan estos hallazgos).
 
 ## Recomendación de orden
 
