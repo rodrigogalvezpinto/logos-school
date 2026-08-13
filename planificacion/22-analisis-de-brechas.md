@@ -62,13 +62,17 @@ Verificación end-to-end vigente: **51/51 tests de backend, 18/18 E2E de Playwri
    de credencial del otro) y `comercial` (Planes, Códigos de descuento, cortesías,
    métricas). Páginas `/admin/login`, `/admin/dashboard`, `/admin/planes`,
    `/admin/descuentos`, `/admin/cortesias`. 76/76 tests backend, 29/29 E2E.
-9. **Rol Profesor / Curso-Sección** — Etapa 2 del roadmap. El usuario quiere construirlo
-   pronto; se acordó secuenciarlo después del Panel de Administrador, porque
-   `01-roles-y-permisos.md` exige que un Administrador apruebe manualmente cada cuenta de
-   Profesor antes de activarse.
+9. ~~Rol Profesor / Curso-Sección~~ — **completo (2026-08-13)**: nuevos bounded contexts
+   `profesor` (auto-registro, `estado="pendiente"` hasta aprobación, JWT propio con claim
+   `tipo="profesor"`) y `curso_seccion` (crear curso, agregar/quitar alumno, comunicados,
+   progreso agregado del curso reutilizando `ObtenerHistorialYNotas` de Fase 1.2). Aprobación
+   de cuentas reutiliza el panel Admin ya existente (`/admin/profesores`, protegido por
+   `get_cuenta_admin_actual`), sin construir un cuarto sistema de auth. Páginas
+   `/profesor/login`, `/profesor/dashboard`, `/profesor/cursos/:id`, `/admin/profesores`, y
+   sección "Mi Curso" en `/alumno/inicio`. 122/122 tests backend, 35/35 E2E.
 
 **Orden acordado con el usuario (2026-08-12): Fase 1.2 (✅) → Panel de Administrador (✅) →
-Fase 1.3 (✅) → Rol Profesor.**
+Fase 1.3 (✅) → Rol Profesor (✅). Etapa 1 (MVP) + Etapa 2 completas.**
 
 ## 🟢 Calidad / pulido — no bloquea lanzar, pero se nota
 

@@ -15,21 +15,24 @@ rendirán los **Exámenes Libres de Validación de Estudios** del Ministerio de 
 Chile, de 1° a 8° básico y de 1° a 4° medio. Objetivo: accesible para todos, gratuita o de
 muy bajo costo.
 
-**Estado actual: 🎓 contenido de estudio 100% completo + especificación técnica lista para
-desarrollo (2026-08-12).** Los 12 cursos (1° básico a 4° medio) tienen: guía de estudio
-(explicación + ejemplos por OA), banco de preguntas de autoevaluación (2.917 preguntas,
-408/408 OA oficiales), **156 pruebas de unidad** calibradas por edad (6-15 preguntas según
-ciclo, ver `planificacion/08-diseno-pruebas-vs-examenes.md`) y **exámenes tipo simulacro**
-que imitan exactamente el formato real de Mineduc (20 preguntas integradas en 1°-4° básico,
-25 por asignatura desde 5° básico — confirmado en los 12 temarios oficiales, 2 formas por
-curso/asignatura). Además, ya se cerraron las decisiones de producto que faltaban para poder
-desarrollar sin ambigüedades: modelo de negocio (`planificacion/09-modelo-de-negocio.md`),
-marco legal de privacidad de menores y modelo de registro (`planificacion/
-10-privacidad-y-datos-de-menores.md`), y la especificación técnica completa del MVP —modelo
-de datos con campos, pantallas, flujos, reglas de negocio— (`planificacion/
-11-especificacion-mvp-para-desarrollo.md`). **La aplicación en sí todavía no se ha empezado
-a construir**, pero el proyecto está listo para que un agente/equipo de programación tome
-`planificacion/11-especificacion-mvp-para-desarrollo.md` como punto de partida y empiece.
+**Estado actual: 🚧 Etapa 1 (MVP) + Etapa 2 (Rol Profesor) construidas y verificadas
+localmente (2026-08-13), todavía sin desplegar.** Los 12 cursos (1° básico a 4° medio) tienen
+contenido de estudio 100% completo: guía de estudio (explicación + ejemplos por OA), banco de
+preguntas de autoevaluación (2.917 preguntas, 408/408 OA oficiales), **156 pruebas de
+unidad** calibradas por edad (6-15 preguntas según ciclo, ver `planificacion/
+08-diseno-pruebas-vs-examenes.md`) y **exámenes tipo simulacro** que imitan exactamente el
+formato real de Mineduc (20 preguntas integradas en 1°-4° básico, 25 por asignatura desde 5°
+básico — confirmado en los 12 temarios oficiales, 2 formas por curso/asignatura).
+
+Sobre ese contenido ya se construyó la aplicación completa para el curso piloto (4° básico):
+backend FastAPI en arquitectura hexagonal + frontend Angular, cubriendo estudiar y rendir
+evaluaciones (Fase 1.1), historial y notas por materia (Fase 1.2), Panel de Administrador
+comercial (Planes, Descuentos, Cortesías, Métricas), plan de estudio con horario y
+habilitación progresiva (Fase 1.3), y el rol Profesor con Curso/Sección (Etapa 2) — ver
+`planificacion/03-roadmap-etapas.md` y `planificacion/22-analisis-de-brechas.md` para el
+detalle verificado de qué está hecho y qué falta (sobre todo: desplegar a Neon/Render/
+Cloudflare Pages, credenciales reales de Google/Resend, pasarela de pago, Turnstile — nada de
+esto bloquea seguir desarrollando funcionalidad en local).
 
 **Nota de proceso:** el usuario dio feedback explícito (2026-08-10, ver memoria global
 `feedback_no_pedir_confirmaciones`) de no pedir confirmaciones sí/no — actuar con criterio

@@ -1,6 +1,7 @@
 import { Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { ContenidoService, AsignaturaRespuesta } from '../../core/contenido.service';
+import { CursoSeccionService, MiCurso } from '../../core/curso-seccion.service';
 import { SesionService } from '../../core/sesion.service';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
 
@@ -20,6 +21,24 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
     <h1>¡Hola de nuevo, {{ nombreAlumno() }}! 👋</h1>
     <p class="subtitulo">Sigamos avanzando en tu preparación.</p>
 
+    @if (miCurso(); as curso) {
+      <div class="tarjeta mi-curso">
+        <span class="mi-curso__etiqueta">Mi Curso</span>
+        <h3>{{ curso.nombre_curso }}</h3>
+        <p>Profesor: {{ curso.nombre_profesor }}</p>
+        @if (curso.comunicados.length) {
+          <div class="mi-curso__comunicados">
+            @for (c of curso.comunicados.slice(0, 3); track c.id) {
+              <div class="comunicado">
+                <strong>{{ c.titulo }}</strong>
+                <p>{{ c.cuerpo }}</p>
+              </div>
+            }
+          </div>
+        }
+      </div>
+    }
+
     <h2 class="seccion-titulo">Tus asignaturas</h2>
     <div class="grid-asignaturas">
       @for (asig of asignaturas(); track asig.id) {
@@ -38,6 +57,41 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
         color: var(--texto-secundario);
         margin-top: -0.5rem;
         margin-bottom: 2rem;
+      }
+      .mi-curso {
+        margin-bottom: 2rem;
+        max-width: 480px;
+      }
+      .mi-curso__etiqueta {
+        font-size: 0.7rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: var(--color-primario);
+      }
+      .mi-curso h3 {
+        margin: 0.3rem 0 0.15rem;
+      }
+      .mi-curso p {
+        margin: 0;
+        color: var(--texto-secundario);
+        font-size: 0.85rem;
+      }
+      .mi-curso__comunicados {
+        margin-top: 0.75rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .comunicado {
+        border-top: 1px solid var(--borde);
+        padding-top: 0.5rem;
+      }
+      .comunicado strong {
+        font-size: 0.85rem;
+      }
+      .comunicado p {
+        margin: 0.15rem 0 0;
+        font-size: 0.8rem;
       }
       .seccion-titulo {
         font-size: 1.2rem;
@@ -68,15 +122,20 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
 })
 export class AlumnoInicio {
   asignaturas = signal<AsignaturaRespuesta[]>([]);
+  miCurso = signal<MiCurso | null>(null);
   private colores = ['#5B4FE9', '#FF6B4A', '#22C55E', '#F59E0B', '#8B5CF6'];
 
   private contenido = inject(ContenidoService);
+  private cursoSeccion = inject(CursoSeccionService);
   private sesion = inject(SesionService);
 
   constructor() {
     const perfil = this.sesion.perfilActivo();
     if (perfil) {
       this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asigs) => this.asignaturas.set(asigs));
+      // Autoestudio puro (sin curso asignado) es el caso normal — el backend devuelve
+      // null y esta sección simplemente no se muestra.
+      this.cursoSeccion.obtenerMiCurso(perfil.id).subscribe((curso) => this.miCurso.set(curso));
     }
   }
 

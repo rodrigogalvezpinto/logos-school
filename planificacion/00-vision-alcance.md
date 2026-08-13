@@ -65,6 +65,7 @@ completo por curso.
 | Alcance de costos/monetización | Definido: freemium con núcleo gratuito no negociable + financiamiento mixto de arranque (ver `09-modelo-de-negocio.md`) | 2026-08-12 |
 | Modelo de registro y verificación | "Apoderado-primero": el apoderado crea la cuenta raíz y perfiles de alumno dentro de ella; sin flujo de vinculación posterior (ver `10-privacidad-y-datos-de-menores.md`) | 2026-08-12 |
 | Rol Administrador | Confirmado, opera como backoffice del propio equipo en el MVP (no autoservicio) | 2026-08-12 |
+| Rol Profesor + Curso/Sección | **Construido** (Etapa 2): auto-registro con aprobación manual del Administrador vía panel comercial; ver `01-roles-y-permisos.md` y `03-roadmap-etapas.md` | 2026-08-13 |
 
 ## Corrección importante sobre el proceso real de examinación (2026-08-11)
 

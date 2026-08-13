@@ -72,29 +72,32 @@ adicionales".
   para el Nivel, y el Profesor para el Curso/Sección) — a confirmar si el apoderado debiera
   tener injerencia aquí dado que muchos alumnos son menores de edad.
 
-## 3. Profesor (rol activo desde fase 2 del roadmap)
+## 3. Profesor (✅ construido — Etapa 2, 2026-08-13)
 
-Decisión tomada: el MVP parte en **autoestudio**, sin profesores activos. El rol se diseña
-igual desde ahora para no tener que rehacer el modelo de datos más adelante.
+Auto-registro público (`/profesor/login`, toggle a "Crear cuenta"), pero la cuenta nace `estado="pendiente"` y ningún endpoint de Curso/Sección funciona hasta que un
+Administrador la aprueba desde el panel comercial (`/admin/profesores`) — sin trámite de
+verificación de identidad con documentos, revisión manual con un clic, consistente con la
+filosofía "sin burocracia" del registro de Apoderado.
 
 **Puede:**
-- Crear uno o más **Cursos/Secciones** (ej. "6° básico A", "6° básico B") de forma arbitraria
-  — el sistema debe permitir crear cursos libremente, no depende de una entidad examinadora
-  externa en el MVP.
+- Crear uno o más **Cursos/Secciones** (ej. "6° básico A") de forma arbitraria.
 - Agregar o quitar Alumnos de sus Cursos/Secciones (el alumno no puede autoagregarse, según
-  quedó definido).
-- Un Profesor puede tener **uno o varios Cursos/Secciones** a la vez, potencialmente en
-  distintos Niveles (ej. un profesor de Lenguaje podría tener secciones en 7° y 8° básico).
-- Ver el progreso y resultados de los Alumnos de sus Cursos/Secciones.
-- Publicar material, comunicados o evaluaciones adicionales dirigidos a su Curso/Sección.
-- Corregir o dar seguimiento cualitativo (más allá de lo que la autoevaluación automática
-  ya corrige).
+  quedó definido) — busca por nombre/apellido/RUT reutilizando el mismo buscador construido
+  para el panel de Cortesías del Administrador.
+- Ver el progreso y notas por asignatura de los Alumnos de sus Cursos/Secciones (reutiliza la
+  misma consulta de Fase 1.2, una vez por alumno).
+- Publicar **comunicados** (texto simple, título + cuerpo) dirigidos a su Curso/Sección,
+  visibles para el Alumno en su panel ("Mi Curso").
 
-**No puede:**
+**No puede (alcance de esta pasada, documentado para no perderlo):**
 - Ver ni gestionar Alumnos que no pertenezcan a ninguno de sus Cursos/Secciones (los
   alumnos en modo autoestudio puro son invisibles para profesores que no los hayan agregado).
 - Modificar el temario oficial/base de contenido curricular (eso lo gestiona el
   Administrador o es fijo, ligado a los documentos UCE).
+- Publicar evaluaciones propias (más allá del banco de OA existente) ni chatear directamente
+  con el Apoderado — fuera de alcance de esta pasada, el vínculo se resuelve mostrando
+  nombre del curso/profesor y los comunicados.
+- Un alumno solo pertenece a **un** Curso/Sección a la vez (no hay múltiple membresía).
 
 ## 4. Administrador / Coordinador (confirmado 2026-08-12)
 

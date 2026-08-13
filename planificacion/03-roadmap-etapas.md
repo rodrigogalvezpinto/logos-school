@@ -72,14 +72,27 @@ estudiar de principio a fin con el material de la plataforma, siguiendo un horar
 avance y notas por materia, y llegar al examen simulacro con una idea realista de si está
 preparado — sintiendo que cubre lo que el temario oficial exige.
 
-## Etapa 2 — Activar el rol Profesor y Curso/Sección
+## Etapa 2 — Activar el rol Profesor y Curso/Sección ✅ completa (2026-08-13)
 
-- Profesores pueden registrarse (con algún mecanismo de verificación, ver Etapa 0).
-- Profesores pueden crear Cursos/Secciones dentro del nivel piloto y agregar alumnos.
-- Alumnos dentro de un Curso/Sección ven contenido/comunicación adicional del profesor.
-- Apoderados pueden ver a qué Curso/Sección pertenece su alumno y, si aplica, comunicarse
-  con el profesor.
-- Reportes de progreso a nivel de Curso/Sección para el Profesor.
+- [x] Profesores pueden registrarse (auto-registro, cuenta nace `pendiente` hasta que un
+      Administrador la aprueba desde `/admin/profesores` — revisión manual, sin verificación
+      con documentos).
+- [x] Profesores pueden crear Cursos/Secciones y agregar/quitar alumnos (el alumno no puede
+      autoagregarse).
+- [x] Alumnos dentro de un Curso/Sección ven la sección "Mi Curso" (nombre del curso, del
+      profesor y comunicados recientes) en `/alumno/inicio`.
+- [x] Comunicados de texto simple del profesor hacia su Curso/Sección.
+- [x] Reportes de progreso a nivel de Curso/Sección para el Profesor (reutiliza la consulta
+      de notas de Fase 1.2, una vez por alumno del curso).
+
+**Verificación:** 122/122 tests backend (`cd backend && uv run pytest -q`), 35/35 tests E2E
+(`cd frontend && npx playwright test --workers=1`, incluye `e2e/profesor.spec.ts`: registro
+→ pendiente → aprobación por Admin → crear curso → agregar alumno → progreso → comunicado →
+visible en `/alumno/inicio` → quitar alumno).
+
+**Fuera de alcance de esta pasada** (documentado para no perderlo): chat/mensajería directa
+apoderado↔profesor, evaluaciones propias publicadas por el profesor, verificación de
+identidad con documentos, y un alumno perteneciendo a más de un Curso/Sección a la vez.
 
 ## Etapa 3 — Expandir a más niveles dentro del mismo régimen de examen
 

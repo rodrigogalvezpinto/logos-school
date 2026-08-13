@@ -1,9 +1,11 @@
 import { Routes } from '@angular/router';
 import { Shell } from './layout/shell/shell';
 import { AdminShell } from './layout/admin-shell/admin-shell';
+import { ProfesorShell } from './layout/profesor-shell/profesor-shell';
 import { authGuard } from './core/auth.guard';
 import { perfilGuard } from './core/perfil.guard';
 import { adminGuard } from './core/admin.guard';
+import { profesorGuard } from './core/profesor.guard';
 
 export const routes: Routes = [
   {
@@ -147,6 +149,31 @@ export const routes: Routes = [
       {
         path: 'cortesias',
         loadComponent: () => import('./pages/admin-cortesias/admin-cortesias').then((m) => m.AdminCortesias),
+      },
+      {
+        path: 'profesores',
+        loadComponent: () => import('./pages/admin-profesores/admin-profesores').then((m) => m.AdminProfesores),
+      },
+      { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
+    ],
+  },
+  {
+    path: 'profesor/login',
+    loadComponent: () => import('./pages/profesor-login/profesor-login').then((m) => m.ProfesorLogin),
+  },
+  {
+    path: 'profesor',
+    component: ProfesorShell,
+    canActivate: [profesorGuard],
+    children: [
+      {
+        path: 'dashboard',
+        loadComponent: () => import('./pages/profesor-dashboard/profesor-dashboard').then((m) => m.ProfesorDashboard),
+      },
+      {
+        path: 'cursos/:id',
+        loadComponent: () =>
+          import('./pages/profesor-curso-detalle/profesor-curso-detalle').then((m) => m.ProfesorCursoDetalle),
       },
       { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
     ],

@@ -40,6 +40,22 @@ class CuentaAdmin(SQLModel, table=True):
     fecha_creacion: datetime = Field(default_factory=_ahora_utc)
 
 
+class CuentaProfesor(SQLModel, table=True):
+    """Cuenta del rol Profesor (Etapa 2, planificacion/01-roles-y-permisos.md) — entidad
+    separada de `Cuenta` y `CuentaAdmin`, mismo criterio: login/sesión/JWT propios. A
+    diferencia de `CuentaAdmin`, sí tiene auto-registro, pero nace `estado="pendiente"` y
+    la aprueba un Administrador desde el panel comercial (`CuentaAdmin`)."""
+
+    __tablename__ = "cuenta_profesor"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    email: str = Field(unique=True, index=True)
+    password_hash: str
+    nombre: str
+    estado: str = "pendiente"  # "pendiente" | "aprobado" | "rechazado"
+    fecha_creacion: datetime = Field(default_factory=_ahora_utc)
+
+
 class Nivel(SQLModel, table=True):
     """Dato semilla — uno de los 12 niveles, cargado desde Temarios/analisis/."""
 
@@ -69,6 +85,10 @@ class PerfilAlumno(SQLModel, table=True):
     fecha_nacimiento: date
     rut: str
     nivel_id: int = Field(foreign_key="nivel.id")
+    # Nullable: un alumno en autoestudio puro nunca pertenece a un Curso/Sección — solo se
+    # llena si un Profesor lo agrega (el alumno no puede autoagregarse, ver
+    # planificacion/01-roles-y-permisos.md). Un alumno pertenece a un curso a la vez.
+    curso_seccion_id: Optional[int] = Field(default=None, foreign_key="curso_seccion.id")
     fecha_creacion: datetime = Field(default_factory=_ahora_utc)
 
 
@@ -184,3 +204,20 @@ class SesionEstudio(SQLModel, table=True):
     incluye_prueba_unidad: bool = False
     # Sin columna `estado` a propósito — se calcula al leer, comparando oa_ids contra las
     # guías revisadas actuales (ver domain/plan_estudio/entities.py, SesionEstudio.esta_cumplida).
+
+
+class CursoSeccion(SQLModel, table=True):
+    __tablename__ = "curso_seccion"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    profesor_id: int = Field(foreign_key="cuenta_profesor.id")
+    nivel_id: int = Field(foreign_key="nivel.id")
+    nombre: str  # "6° básico A"
+
+
+class Comunicado(SQLModel, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    curso_seccion_id: int = Field(foreign_key="curso_seccion.id")
+    titulo: str
+    cuerpo: str
+    fecha: datetime = Field(default_factory=_ahora_utc)

@@ -14,6 +14,7 @@ const ITEMS: ItemAdminSidebar[] = [
   { etiqueta: 'Planes', icono: '💳', ruta: '/admin/planes' },
   { etiqueta: 'Descuentos', icono: '🏷️', ruta: '/admin/descuentos' },
   { etiqueta: 'Cortesías', icono: '🎁', ruta: '/admin/cortesias' },
+  { etiqueta: 'Profesores', icono: '🧑‍🏫', ruta: '/admin/profesores' },
 ];
 
 @Component({

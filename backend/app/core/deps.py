@@ -22,6 +22,7 @@ from app.application.evaluaciones.casos_de_uso import (
 )
 from app.application.plan_estudio.casos_de_uso import CrearPlanDeEstudio, ObtenerPlanActivo
 from app.application.admin.casos_de_uso import IniciarSesionAdmin
+from app.application.admin.casos_de_uso_profesores import AprobarProfesor, ListarProfesoresPendientes, RechazarProfesor
 from app.application.comercial.casos_de_uso import (
     AsignarSuscripcionCortesia,
     CambiarEstadoPlan,
@@ -31,16 +32,28 @@ from app.application.comercial.casos_de_uso import (
     EditarPlan,
 )
 from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas
+from app.application.curso_seccion.casos_de_uso import (
+    AgregarAlumnoACurso,
+    CrearCursoSeccion,
+    PublicarComunicado,
+    QuitarAlumnoDeCurso,
+)
+from app.application.curso_seccion.consultas import ObtenerMiCurso, ObtenerProgresoDeCurso
+from app.application.profesor.casos_de_uso import IniciarSesionProfesor, RegistrarProfesor
 from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
 from app.infrastructure.persistence.db import get_session
 from app.domain.admin.entities import CuentaAdmin
 from app.domain.auth.entities import Cuenta
+from app.domain.profesor.entities import CuentaProfesor
 from app.infrastructure.auth_externa.google_oauth import VerificadorTokenGoogleAdapter
+from app.infrastructure.persistence.repositorios.comunicados import RepositorioComunicadosSQLModel
 from app.infrastructure.persistence.repositorios.conjuntos import RepositorioConjuntosSQLModel
 from app.infrastructure.persistence.repositorios.contenido import RepositorioContenidoSQLModel
 from app.infrastructure.persistence.repositorios.cuentas import RepositorioCuentasSQLModel
 from app.infrastructure.persistence.repositorios.cuentas_admin import RepositorioCuentasAdminSQLModel
+from app.infrastructure.persistence.repositorios.cuentas_profesor import RepositorioCuentasProfesorSQLModel
+from app.infrastructure.persistence.repositorios.curso_seccion import RepositorioCursosSeccionSQLModel
 from app.infrastructure.persistence.repositorios.descuentos import RepositorioDescuentosSQLModel
 from app.infrastructure.persistence.repositorios.intentos import RepositorioIntentosSQLModel
 from app.infrastructure.persistence.repositorios.perfiles_alumno import RepositorioPerfilesAlumnoSQLModel
@@ -328,6 +341,126 @@ def get_obtener_plan_activo_uc(
     repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
 ) -> ObtenerPlanActivo:
     return ObtenerPlanActivo(repositorio_plan_estudio, repositorio_progreso)
+
+
+def get_repositorio_cuentas_profesor(session: Session = Depends(get_session)) -> RepositorioCuentasProfesorSQLModel:
+    return RepositorioCuentasProfesorSQLModel(session)
+
+
+def get_repositorio_cursos_seccion(session: Session = Depends(get_session)) -> RepositorioCursosSeccionSQLModel:
+    return RepositorioCursosSeccionSQLModel(session)
+
+
+def get_repositorio_comunicados(session: Session = Depends(get_session)) -> RepositorioComunicadosSQLModel:
+    return RepositorioComunicadosSQLModel(session)
+
+
+def get_registrar_profesor_uc(
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> RegistrarProfesor:
+    return RegistrarProfesor(repositorio, hasheador, servicio_token)
+
+
+def get_iniciar_sesion_profesor_uc(
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> IniciarSesionProfesor:
+    return IniciarSesionProfesor(repositorio, hasheador, servicio_token)
+
+
+def get_cuenta_profesor_actual(
+    credenciales: HTTPAuthorizationCredentials = Depends(security),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+) -> CuentaProfesor:
+    cuenta_profesor_id = servicio_token.decodificar_profesor(credenciales.credentials)
+    if cuenta_profesor_id is None:
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Sesión de profesor inválida o expirada")
+    cuenta = repositorio.buscar_por_id(cuenta_profesor_id)
+    if cuenta is None:
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta de profesor no encontrada")
+    return cuenta
+
+
+def get_profesor_aprobado_actual(cuenta: CuentaProfesor = Depends(get_cuenta_profesor_actual)) -> CuentaProfesor:
+    """Igual que `get_cuenta_profesor_actual`, pero además exige que la cuenta ya haya
+    sido aprobada por un Administrador — usarla en los endpoints que crean/modifican
+    Cursos/Secciones, no en el login/estado de la cuenta."""
+    if not cuenta.esta_aprobado:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Tu cuenta de profesor todavía está en revisión")
+    return cuenta
+
+
+def get_listar_profesores_pendientes_uc(
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+) -> ListarProfesoresPendientes:
+    return ListarProfesoresPendientes(repositorio)
+
+
+def get_aprobar_profesor_uc(
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+) -> AprobarProfesor:
+    return AprobarProfesor(repositorio)
+
+
+def get_rechazar_profesor_uc(
+    repositorio: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+) -> RechazarProfesor:
+    return RechazarProfesor(repositorio)
+
+
+def get_crear_curso_seccion_uc(
+    repositorio: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+) -> CrearCursoSeccion:
+    return CrearCursoSeccion(repositorio)
+
+
+def get_agregar_alumno_a_curso_uc(
+    repositorio_cursos: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+) -> AgregarAlumnoACurso:
+    return AgregarAlumnoACurso(repositorio_cursos, repositorio_perfiles)
+
+
+def get_quitar_alumno_de_curso_uc(
+    repositorio_cursos: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+) -> QuitarAlumnoDeCurso:
+    return QuitarAlumnoDeCurso(repositorio_cursos)
+
+
+def get_publicar_comunicado_uc(
+    repositorio_cursos: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+    repositorio_comunicados: RepositorioComunicadosSQLModel = Depends(get_repositorio_comunicados),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> PublicarComunicado:
+    return PublicarComunicado(repositorio_cursos, repositorio_comunicados, reloj)
+
+
+def get_obtener_progreso_de_curso_uc(
+    repositorio_cursos: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+    obtener_historial_y_notas: ObtenerHistorialYNotas = Depends(get_obtener_historial_y_notas_uc),
+) -> ObtenerProgresoDeCurso:
+    return ObtenerProgresoDeCurso(repositorio_cursos, obtener_historial_y_notas)
+
+
+def get_buscar_alumnos_para_profesor_uc(
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_cuentas: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+) -> BuscarAlumnos:
+    # Mismo caso de uso que usa el panel Admin para Cortesías — genérico, sin ninguna
+    # dependencia de CuentaAdmin, así que reutilizarlo acá no acopla nada nuevo.
+    return BuscarAlumnos(repositorio_perfiles, repositorio_cuentas)
+
+
+def get_obtener_mi_curso_uc(
+    repositorio_cursos: RepositorioCursosSeccionSQLModel = Depends(get_repositorio_cursos_seccion),
+    repositorio_comunicados: RepositorioComunicadosSQLModel = Depends(get_repositorio_comunicados),
+    repositorio_cuentas_profesor: RepositorioCuentasProfesorSQLModel = Depends(get_repositorio_cuentas_profesor),
+) -> ObtenerMiCurso:
+    return ObtenerMiCurso(repositorio_cursos, repositorio_comunicados, repositorio_cuentas_profesor)
 
 
 def verificar_perfil_propio(

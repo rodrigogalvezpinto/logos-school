@@ -6,9 +6,10 @@ from app.core.config import settings
 
 
 class ServicioTokenJWT:
-    """Implementa a la vez el puerto `ServicioToken` (Apoderado) y `ServicioTokenAdmin`
-    (panel de administración) — son tipos de token distintos por el claim `tipo`, para que
-    un token de uno nunca sirva de credencial del otro aunque compartan secreto/algoritmo."""
+    """Implementa a la vez `ServicioToken` (Apoderado), `ServicioTokenAdmin` (panel de
+    administración) y `ServicioTokenProfesor` — son tipos de token distintos por el claim
+    `tipo`, para que un token de uno nunca sirva de credencial de otro aunque compartan
+    secreto/algoritmo."""
 
     def generar(self, cuenta_id: int) -> str:
         return self._generar(cuenta_id)
@@ -21,6 +22,12 @@ class ServicioTokenJWT:
 
     def decodificar_admin(self, token: str) -> int | None:
         return self._decodificar(token, tipo_esperado="admin")
+
+    def generar_profesor(self, cuenta_profesor_id: int) -> str:
+        return self._generar(cuenta_profesor_id, tipo="profesor")
+
+    def decodificar_profesor(self, token: str) -> int | None:
+        return self._decodificar(token, tipo_esperado="profesor")
 
     def _generar(self, cuenta_id: int, tipo: str | None = None) -> str:
         expira = datetime.now(timezone.utc) + timedelta(minutes=settings.jwt_expiracion_minutos)
