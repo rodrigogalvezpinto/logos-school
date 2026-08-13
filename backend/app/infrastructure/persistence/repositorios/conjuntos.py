@@ -22,6 +22,10 @@ class RepositorioConjuntosSQLModel:
         filas = self._session.exec(select(ConjuntoORM).where(ConjuntoORM.nivel_id == nivel_id)).all()
         return [self._a_lectura(f) for f in filas]
 
+    def listar_por_ids(self, ids: list[int]) -> list[ConjuntoLectura]:
+        filas = [self._session.get(ConjuntoORM, cid) for cid in ids]
+        return [self._a_lectura(f) for f in filas if f]
+
     @staticmethod
     def _a_lectura(fila: ConjuntoORM) -> ConjuntoLectura:
         return ConjuntoLectura(
@@ -31,4 +35,6 @@ class RepositorioConjuntosSQLModel:
             forma=fila.forma,
             tiempo_sugerido_min=fila.tiempo_sugerido_min,
             pregunta_ids=list(fila.pregunta_ids),
+            asignatura_id=fila.asignatura_id,
+            nivel_id=fila.nivel_id,
         )

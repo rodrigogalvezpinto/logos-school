@@ -34,10 +34,15 @@ class RepositorioContenidoSQLModel:
         fila = self._session.get(ObjetivoORM, oa_id)
         return self._a_lectura(fila) if fila else None
 
+    def obtener_asignatura(self, asignatura_id: int) -> AsignaturaLectura | None:
+        fila = self._session.get(AsignaturaORM, asignatura_id)
+        return AsignaturaLectura(id=fila.id, nombre=fila.nombre) if fila else None
+
     @staticmethod
     def _a_lectura(fila: ObjetivoORM) -> ObjetivoLectura:
         return ObjetivoLectura(
             id=fila.id,
+            asignatura_id=fila.asignatura_id,
             codigo_oficial=fila.codigo_oficial,
             descripcion=fila.descripcion,
             eje_tematico=fila.eje_tematico,

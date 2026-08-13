@@ -5,7 +5,7 @@ from slowapi.errors import RateLimitExceeded
 
 from app.core.limiter import limiter
 from app.core.logging_config import LoggingMiddleware, configurar_logging
-from app.routers import auth, contenido, evaluaciones
+from app.routers import auth, contenido, evaluaciones, progreso
 
 configurar_logging()
 
@@ -32,6 +32,7 @@ app.add_middleware(
 app.include_router(auth.router)
 app.include_router(contenido.router)
 app.include_router(evaluaciones.router)
+app.include_router(progreso.router)
 
 
 @app.get("/salud")

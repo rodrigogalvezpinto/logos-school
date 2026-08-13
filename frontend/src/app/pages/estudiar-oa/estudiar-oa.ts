@@ -2,6 +2,8 @@ import { Component, Input, inject, signal } from '@angular/core';
 import { Location } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.service';
+import { ProgresoService } from '../../core/progreso.service';
+import { SesionService } from '../../core/sesion.service';
 
 @Component({
   selector: 'app-estudiar-oa',
@@ -56,10 +58,18 @@ export class EstudiarOa {
   objetivo = signal<ObjetivoRespuesta | null>(null);
 
   private contenido = inject(ContenidoService);
+  private progreso = inject(ProgresoService);
+  private sesion = inject(SesionService);
   private location = inject(Location);
 
   ngOnInit() {
     this.contenido.obtenerObjetivo(Number(this.oaId)).subscribe((oa) => this.objetivo.set(oa));
+
+    const perfil = this.sesion.perfilActivo();
+    if (perfil) {
+      // Fire-and-forget: no bloquea la lectura de la guía si falla o tarda.
+      this.progreso.marcarGuiaRevisada(perfil.id, Number(this.oaId)).subscribe();
+    }
   }
 
   volver(evento: Event) {

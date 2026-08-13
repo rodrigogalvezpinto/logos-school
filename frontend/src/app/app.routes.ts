@@ -81,6 +81,10 @@ export const routes: Routes = [
         path: 'prueba/:id',
         loadComponent: () => import('./pages/prueba-unidad/prueba-unidad').then((m) => m.PruebaUnidad),
       },
+      {
+        path: 'notas',
+        loadComponent: () => import('./pages/notas/notas').then((m) => m.Notas),
+      },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
     ],
   },
@@ -101,6 +105,14 @@ export const routes: Routes = [
       {
         path: 'plan',
         loadComponent: () => import('./pages/seleccion-plan/seleccion-plan').then((m) => m.SeleccionPlan),
+      },
+      {
+        path: 'progreso',
+        loadComponent: () => import('./pages/progreso-alumno/progreso-alumno').then((m) => m.ProgresoAlumno),
+      },
+      {
+        path: 'progreso/:perfilAlumnoId',
+        loadComponent: () => import('./pages/notas/notas').then((m) => m.Notas),
       },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
     ],

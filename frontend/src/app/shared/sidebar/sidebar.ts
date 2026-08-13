@@ -13,14 +13,14 @@ const SIDEBAR_ALUMNO: ItemSidebar[] = [
   { etiqueta: 'Inicio', icono: '🏠', ruta: '/alumno/inicio' },
   { etiqueta: 'Mis Asignaturas', icono: '📚', ruta: '/alumno/asignaturas' },
   { etiqueta: 'Pruebas y Exámenes', icono: '📝', ruta: '/alumno/evaluaciones' },
-  { etiqueta: 'Mis Notas', icono: '📊', ruta: '/alumno/notas', proximamente: true },
+  { etiqueta: 'Mis Notas', icono: '📊', ruta: '/alumno/notas' },
   { etiqueta: 'Plan de Estudio', icono: '📅', ruta: '/alumno/plan-estudio', proximamente: true },
 ];
 
 const SIDEBAR_APODERADO: ItemSidebar[] = [
   { etiqueta: 'Inicio', icono: '🏠', ruta: '/apoderado/inicio' },
   { etiqueta: 'Mis Alumnos', icono: '👨‍👩‍👧', ruta: '/apoderado/alumnos' },
-  { etiqueta: 'Progreso por Alumno', icono: '📊', ruta: '/apoderado/progreso', proximamente: true },
+  { etiqueta: 'Progreso por Alumno', icono: '📊', ruta: '/apoderado/progreso' },
   { etiqueta: 'Plan y Pagos', icono: '💳', ruta: '/apoderado/plan' },
 ];
 

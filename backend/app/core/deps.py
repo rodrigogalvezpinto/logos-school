@@ -19,6 +19,8 @@ from app.application.evaluaciones.casos_de_uso import (
     ObtenerIntento,
     ResponderPregunta,
 )
+from app.application.progreso.consultas import ObtenerHistorialYNotas
+from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
 from app.infrastructure.persistence.db import get_session
 from app.domain.auth.entities import Cuenta
 from app.infrastructure.auth_externa.google_oauth import VerificadorTokenGoogleAdapter
@@ -28,6 +30,7 @@ from app.infrastructure.persistence.repositorios.cuentas import RepositorioCuent
 from app.infrastructure.persistence.repositorios.intentos import RepositorioIntentosSQLModel
 from app.infrastructure.persistence.repositorios.perfiles_alumno import RepositorioPerfilesAlumnoSQLModel
 from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
+from app.infrastructure.persistence.repositorios.progreso import RepositorioProgresoSQLModel
 from app.infrastructure.reloj_sistema import RelojSistema
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 from app.infrastructure.seguridad.jose_tokens import ServicioTokenJWT
@@ -141,6 +144,26 @@ def get_entregar_intento_uc(
     return EntregarIntento(repositorio_intentos, repositorio_conjuntos, repositorio_preguntas, reloj)
 
 
+def get_repositorio_progreso(session: Session = Depends(get_session)) -> RepositorioProgresoSQLModel:
+    return RepositorioProgresoSQLModel(session)
+
+
+def get_obtener_historial_y_notas_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObtenerHistorialYNotas:
+    return ObtenerHistorialYNotas(repositorio_intentos, repositorio_conjuntos, repositorio_contenido, repositorio_progreso)
+
+
+def get_marcar_guia_revisada_uc(
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> MarcarGuiaRevisada:
+    return MarcarGuiaRevisada(repositorio_progreso, reloj)
+
+
 def get_cuenta_actual(
     credenciales: HTTPAuthorizationCredentials = Depends(security),
     servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
@@ -153,3 +176,18 @@ def get_cuenta_actual(
     if cuenta is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta no encontrada")
     return cuenta
+
+
+def verificar_perfil_propio(
+    perfil_alumno_id: int,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+) -> int:
+    """Dependencia reutilizable para endpoints con datos personales de un Alumno: exige
+    que el `perfil_alumno_id` de la ruta pertenezca a la Cuenta autenticada."""
+    perfil = repositorio.buscar_por_id(perfil_alumno_id)
+    if perfil is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Perfil de alumno no encontrado")
+    if perfil.cuenta_apoderado_id != cuenta.id:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Ese perfil no pertenece a tu cuenta")
+    return perfil_alumno_id

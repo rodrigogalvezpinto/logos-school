@@ -28,6 +28,15 @@ class RepositorioIntentosSQLModel:
         ).first()
         return self._a_dominio(fila) if fila else None
 
+    def listar_entregados_por_perfil(self, perfil_alumno_id: int) -> list[IntentoDominio]:
+        filas = self._session.exec(
+            select(IntentoORM).where(
+                IntentoORM.perfil_alumno_id == perfil_alumno_id,
+                IntentoORM.fecha_termino.is_not(None),
+            )
+        ).all()
+        return [self._a_dominio(f) for f in filas]
+
     def guardar(self, intento: IntentoDominio) -> IntentoDominio:
         if intento.id is None:
             fila = IntentoORM(
