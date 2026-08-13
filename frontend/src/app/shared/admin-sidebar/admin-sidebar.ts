@@ -1,4 +1,4 @@
-import { Component, inject } from '@angular/core';
+import { Component, Input, Output, EventEmitter, inject } from '@angular/core';
 import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { Logo } from '../logo/logo';
 import { SesionAdminService } from '../../core/sesion-admin.service';
@@ -22,14 +22,17 @@ const ITEMS: ItemAdminSidebar[] = [
   standalone: true,
   imports: [RouterLink, RouterLinkActive, Logo],
   template: `
-    <aside class="sidebar">
+    @if (abierto) {
+      <div class="sidebar__backdrop" (click)="cerrar.emit()"></div>
+    }
+    <aside class="sidebar" [class.sidebar--abierto]="abierto">
       <div class="sidebar__logo">
         <app-logo />
         <span class="sidebar__etiqueta">Admin</span>
       </div>
       <nav class="sidebar__nav">
         @for (item of items; track item.ruta) {
-          <a class="sidebar__item" [routerLink]="item.ruta" routerLinkActive="sidebar__item--activo">
+          <a class="sidebar__item" [routerLink]="item.ruta" routerLinkActive="sidebar__item--activo" (click)="cerrar.emit()">
             <span class="sidebar__icono">{{ item.icono }}</span>
             <span>{{ item.etiqueta }}</span>
           </a>
@@ -53,6 +56,34 @@ const ITEMS: ItemAdminSidebar[] = [
         display: flex;
         flex-direction: column;
         padding: 1.5rem 1rem;
+      }
+      .sidebar__backdrop {
+        display: none;
+      }
+      @media (max-width: 800px) {
+        .sidebar {
+          position: fixed;
+          top: 0;
+          left: 0;
+          height: 100vh;
+          z-index: 200;
+          transform: translateX(-100%);
+          visibility: hidden;
+          transition: transform 0.2s ease, visibility 0s linear 0.2s;
+          box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+        }
+        .sidebar--abierto {
+          transform: translateX(0);
+          visibility: visible;
+          transition: transform 0.2s ease, visibility 0s linear 0s;
+        }
+        .sidebar__backdrop {
+          display: block;
+          position: fixed;
+          inset: 0;
+          background: rgba(0, 0, 0, 0.4);
+          z-index: 150;
+        }
       }
       .sidebar__logo {
         display: flex;
@@ -104,6 +135,9 @@ const ITEMS: ItemAdminSidebar[] = [
   ],
 })
 export class AdminSidebar {
+  @Input() abierto = false;
+  @Output() cerrar = new EventEmitter<void>();
+
   items = ITEMS;
 
   private sesion = inject(SesionAdminService);

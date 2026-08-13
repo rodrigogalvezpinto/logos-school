@@ -117,6 +117,11 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
         font-size: 1rem;
         margin: 0;
       }
+      @media (max-width: 700px) {
+        .grid-asignaturas {
+          grid-template-columns: 1fr;
+        }
+      }
     `,
   ],
 })

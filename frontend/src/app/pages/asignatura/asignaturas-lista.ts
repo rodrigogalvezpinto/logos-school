@@ -49,6 +49,11 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
         margin: 0;
         font-size: 1.05rem;
       }
+      @media (max-width: 700px) {
+        .grid-asignaturas {
+          grid-template-columns: 1fr;
+        }
+      }
     `,
   ],
 })

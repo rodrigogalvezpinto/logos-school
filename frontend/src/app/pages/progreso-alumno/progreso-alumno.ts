@@ -32,6 +32,11 @@ import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
         gap: 1rem;
         max-width: 760px;
       }
+      @media (max-width: 700px) {
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
       .alumno-card {
         display: flex;
         align-items: center;

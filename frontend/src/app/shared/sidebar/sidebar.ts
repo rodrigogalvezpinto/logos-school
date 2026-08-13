@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 import { Logo } from '../logo/logo';
 
@@ -29,7 +29,10 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
   standalone: true,
   imports: [RouterLink, RouterLinkActive, Logo],
   template: `
-    <aside class="sidebar">
+    @if (abierto) {
+      <div class="sidebar__backdrop" (click)="cerrar.emit()"></div>
+    }
+    <aside class="sidebar" [class.sidebar--abierto]="abierto">
       <div class="sidebar__logo">
         <app-logo />
       </div>
@@ -40,6 +43,7 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
             [class.sidebar__item--proximamente]="item.proximamente"
             [routerLink]="item.proximamente ? null : item.ruta"
             routerLinkActive="sidebar__item--activo"
+            (click)="cerrar.emit()"
           >
             <span class="sidebar__icono">{{ item.icono }}</span>
             <span>{{ item.etiqueta }}</span>
@@ -50,10 +54,10 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
         }
       </nav>
       <div class="sidebar__pie">
-        <a class="sidebar__item" routerLink="/configuracion">
+        <a class="sidebar__item" routerLink="/configuracion" (click)="cerrar.emit()">
           <span class="sidebar__icono">⚙️</span><span>Configuración</span>
         </a>
-        <a class="sidebar__item" routerLink="/selector-perfil">
+        <a class="sidebar__item" routerLink="/selector-perfil" (click)="cerrar.emit()">
           <span class="sidebar__icono">🔄</span><span>Cambiar de perfil</span>
         </a>
       </div>
@@ -69,6 +73,35 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
         background: var(--fondo-tarjeta);
         border-right: 1px solid var(--borde);
         padding: 1.25rem 1rem;
+        flex-shrink: 0;
+      }
+      .sidebar__backdrop {
+        display: none;
+      }
+      @media (max-width: 800px) {
+        .sidebar {
+          position: fixed;
+          top: 0;
+          left: 0;
+          height: 100vh;
+          z-index: 200;
+          transform: translateX(-100%);
+          visibility: hidden;
+          transition: transform 0.2s ease, visibility 0s linear 0.2s;
+          box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+        }
+        .sidebar--abierto {
+          transform: translateX(0);
+          visibility: visible;
+          transition: transform 0.2s ease, visibility 0s linear 0s;
+        }
+        .sidebar__backdrop {
+          display: block;
+          position: fixed;
+          inset: 0;
+          background: rgba(0, 0, 0, 0.4);
+          z-index: 150;
+        }
       }
       .sidebar__logo {
         padding: 0 0.5rem 1.5rem;
@@ -132,6 +165,8 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
 })
 export class Sidebar {
   @Input() modo: 'alumno' | 'apoderado' = 'alumno';
+  @Input() abierto = false;
+  @Output() cerrar = new EventEmitter<void>();
 
   get items(): ItemSidebar[] {
     return this.modo === 'alumno' ? SIDEBAR_ALUMNO : SIDEBAR_APODERADO;

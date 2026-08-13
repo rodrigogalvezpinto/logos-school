@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { RouterLink } from '@angular/router';
 
 @Component({
@@ -7,7 +7,7 @@ import { RouterLink } from '@angular/router';
   imports: [RouterLink],
   template: `
     <header class="topbar">
-      <div></div>
+      <button type="button" class="topbar__hamburguesa" (click)="alternarMenu.emit()" aria-label="Abrir menú">☰</button>
       <a class="topbar__usuario" routerLink="/selector-perfil">
         <div class="topbar__avatar">{{ inicial }}</div>
         <span>{{ nombre }}</span>
@@ -23,6 +23,23 @@ import { RouterLink } from '@angular/router';
         padding: 1.25rem 2rem;
         border-bottom: 1px solid var(--borde);
         background: var(--fondo-tarjeta);
+      }
+      .topbar__hamburguesa {
+        display: none;
+        background: none;
+        border: none;
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: var(--texto-principal);
+        padding: 0.25rem;
+      }
+      @media (max-width: 800px) {
+        .topbar__hamburguesa {
+          display: block;
+        }
+        .topbar {
+          padding: 1rem 1.25rem;
+        }
       }
       .topbar__usuario {
         display: flex;
@@ -49,6 +66,7 @@ import { RouterLink } from '@angular/router';
 })
 export class Topbar {
   @Input() nombre = 'Sofía';
+  @Output() alternarMenu = new EventEmitter<void>();
 
   get inicial(): string {
     return this.nombre.charAt(0).toUpperCase();
