@@ -13,6 +13,7 @@ import { Logo } from '../../shared/logo/logo';
         <a routerLink="/" class="btn btn--secundario">Volver al inicio</a>
       </header>
 
+      <main>
       <h1>Política de Privacidad</h1>
       <p class="fecha">Última actualización: agosto de 2026</p>
 
@@ -35,13 +36,13 @@ import { Logo } from '../../shared/logo/logo';
         <p>Puedes solicitar en cualquier momento ver, corregir o eliminar los datos de cualquier Alumno
         vinculado a tu cuenta, escribiendo a nuestro correo de contacto.</p>
       </section>
-
       <section>
         <h2>Marco legal</h2>
         <p>Esta plataforma trata los datos conforme a la Ley 21.719 de Protección de Datos Personales
         de Chile. Para más detalle sobre nuestro enfoque de privacidad de menores, consulta nuestro
         documento de planificación interno (disponible bajo solicitud).</p>
       </section>
+      </main>
     </div>
   `,
   styles: [

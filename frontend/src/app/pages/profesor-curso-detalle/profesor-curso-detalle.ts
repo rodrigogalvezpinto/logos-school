@@ -127,7 +127,7 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
       }
       .chip--simulacro {
         background: var(--color-secundario-suave);
-        color: var(--color-secundario);
+        color: var(--color-secundario-texto);
       }
       .vacio {
         color: var(--texto-secundario);

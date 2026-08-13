@@ -27,6 +27,7 @@ const NIVELES = [
         </div>
       </header>
 
+      <main>
       <section class="landing__hero">
         <div class="landing__hero-texto">
           <span class="landing__pill">Preparación para Exámenes Libres · Mineduc</span>
@@ -174,6 +175,7 @@ const NIVELES = [
           </div>
         </div>
       </section>
+      </main>
 
       <footer class="landing__footer">
         <app-logo [tamano]="24" />

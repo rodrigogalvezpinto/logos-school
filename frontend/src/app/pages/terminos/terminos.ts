@@ -13,6 +13,7 @@ import { Logo } from '../../shared/logo/logo';
         <a routerLink="/" class="btn btn--secundario">Volver al inicio</a>
       </header>
 
+      <main>
       <h1>Términos y Condiciones</h1>
       <p class="fecha">Última actualización: agosto de 2026</p>
 
@@ -51,6 +52,7 @@ import { Logo } from '../../shared/logo/logo';
         <p>Para consultas sobre estos términos, escríbenos a través de los canales de contacto
         publicados en la plataforma.</p>
       </section>
+      </main>
     </div>
   `,
   styles: [

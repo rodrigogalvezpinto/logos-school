@@ -7,6 +7,9 @@
   --color-primario-suave: #eeecfd;
   --color-secundario: #ff6b4a;
   --color-secundario-suave: #ffe7e0;
+  /* Variante oscurecida para texto sobre --color-secundario-suave — el coral de marca
+     (#ff6b4a) da 2.38:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. */
+  --color-secundario-texto: #ae3818;
   --color-exito: #22c55e;
   --color-exito-suave: #e7f9ee;
   --color-alerta: #f59e0b;

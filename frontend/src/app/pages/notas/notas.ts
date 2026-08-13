@@ -20,6 +20,7 @@ interface FilaHistorial {
     <p class="subtitulo">Tu avance por asignatura y todo lo que has estudiado hasta ahora.</p>
 
     @if (historial(); as h) {
+      <h2>Notas por asignatura</h2>
       <div class="grid-notas">
         @for (n of h.notas_por_asignatura; track n.asignatura_id) {
           <div class="tarjeta nota-card">
@@ -53,7 +54,7 @@ interface FilaHistorial {
                 <span class="chip" [class.chip--practica]="item.tipo === 'prueba_unidad'" [class.chip--simulacro]="item.tipo === 'examen_simulacro'">
                   {{ item.tipo === 'prueba_unidad' ? 'Prueba de unidad' : 'Simulacro' }}
                 </span>
-                <h4>{{ item.nombre }}</h4>
+                <h3>{{ item.nombre }}</h3>
                 @if (!item.habilitado) {
                   <p>Se habilita al completar las guías pendientes de esa unidad.</p>
                 }
@@ -72,7 +73,7 @@ interface FilaHistorial {
           @if (c.simulacro_parcial_disponible) {
             <div class="tarjeta aviso-simulacro-parcial">
               <div>
-                <h4>Simulacro parcial disponible — {{ c.asignatura_nombre }}</h4>
+                <h3>Simulacro parcial disponible — {{ c.asignatura_nombre }}</h3>
                 <p>Cubres {{ c.cobertura_pct }}% del temario. Puedes rendir un simulacro acotado a lo que ya estudiaste.</p>
               </div>
               <button class="btn btn--primario" (click)="rendirSimulacroParcial(c.asignatura_id)">Rendir simulacro parcial</button>
@@ -91,7 +92,7 @@ interface FilaHistorial {
                 [class.chip--guia]="fila.tipo === 'guia'">
                 {{ etiquetaTipo(fila.tipo) }}
               </span>
-              <h4>{{ fila.etiqueta }}</h4>
+              <h3>{{ fila.etiqueta }}</h3>
               <p>{{ fila.detalle }}</p>
             </div>
             @if (fila.nota !== null) {
@@ -158,7 +159,7 @@ interface FilaHistorial {
       }
       .chip--simulacro {
         background: var(--color-secundario-suave);
-        color: var(--color-secundario);
+        color: var(--color-secundario-texto);
       }
       .chip--guia {
         background: var(--color-exito-suave);
@@ -175,7 +176,7 @@ interface FilaHistorial {
         align-items: center;
         gap: 1rem;
 
-        h4 {
+        h3 {
           margin: 0.35rem 0 0.15rem;
           font-size: 0.95rem;
         }
@@ -198,7 +199,7 @@ interface FilaHistorial {
         margin-bottom: 2rem;
       }
       .fila-historial--bloqueada {
-        opacity: 0.6;
+        opacity: 0.8;
       }
       .aviso-simulacro-parcial {
         display: flex;
@@ -208,7 +209,7 @@ interface FilaHistorial {
         border: 1.5px solid var(--color-primario);
         margin-bottom: 1.5rem;
 
-        h4 {
+        h3 {
           margin: 0 0 0.2rem;
         }
         p {

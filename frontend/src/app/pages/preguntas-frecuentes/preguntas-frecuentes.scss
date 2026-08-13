@@ -16,7 +16,7 @@
   align-items: center;
   gap: 1.25rem;
 
-  a {
+  a:not(.btn) {
     text-decoration: none;
     color: var(--texto-principal);
     font-weight: 500;
@@ -97,4 +97,13 @@
 .cta-final {
   text-align: center;
   padding: 1.5rem 0;
+}
+
+@media (max-width: 700px) {
+  .pagina {
+    padding: 0 1.25rem 4rem;
+  }
+  .landing__nav-links a:not(.btn) {
+    display: none;
+  }
 }

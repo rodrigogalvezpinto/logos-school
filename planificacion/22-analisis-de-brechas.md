@@ -83,10 +83,21 @@ Fase 1.3 (✅) → Rol Profesor (✅). Etapa 1 (MVP) + Etapa 2 completas.**
 11. **Logo**: sigue siendo el concepto SVG simple, no una versión pulida final.
 12. **CI/CD**: no hay ningún pipeline (GitHub Actions u otro) que corra los tests
     automáticamente en cada cambio — hoy dependen de correrlos a mano.
-13. **Responsive/móvil**: no se ha probado explícitamente en pantallas chicas (la mayoría
-    de apoderados van a entrar desde el celular).
-14. **Auditoría de accesibilidad** (lectores de pantalla, contraste WCAG real medido) — no
-    se ha hecho formalmente.
+13. ~~Responsive/móvil~~ — **corregido (2026-08-13)**: exploración interactiva con Playwright
+    en viewport móvil encontró el sidebar sin colapsar en los 3 shells (desbordaba el layout
+    horizontalmente) y el nav de la landing dejando el CTA principal fuera de pantalla. Ambos
+    corregidos (menú off-canvas con hamburguesa, nav simplificado en mobile). Ver
+    `e2e/responsive.spec.ts`.
+14. ~~Auditoría de accesibilidad~~ — **hecha (2026-08-13)** con axe-core (`@axe-core/playwright`):
+    encontró y corrigió un bug real de contraste (botón "Crear cuenta" con texto oscuro sobre
+    fondo índigo, por una colisión de especificidad CSS — no solo un tema de a11y, se veía
+    mal), el par coral-sobre-coral-claro usado en varios chips/pills (nuevo token
+    `--color-secundario-texto`), `<main>` landmark faltante en 7 páginas, y heading-order en
+    `notas.ts`. Queda un ítem menor sin resolver a propósito: el contraste del texto
+    secundario dentro de tarjetas de evaluación bloqueadas (`.fila-historial--bloqueada`,
+    opacity 0.8) — WCAG exime a componentes de UI inactivos de este requisito. Ver
+    `e2e/accesibilidad.spec.ts` (corre en cada suite, falla ante violaciones serias/críticas
+    nuevas).
 
 ## Recomendación de orden
 

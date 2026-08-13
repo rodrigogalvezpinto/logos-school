@@ -9,12 +9,12 @@ import { Logo } from '../logo/logo';
   template: `
     <div class="auth">
       <div class="auth__panel">
-        <div class="auth__panel-inner">
+        <main class="auth__panel-inner">
           <a routerLink="/" class="auth__logo"><app-logo /></a>
           <h1>{{ titulo }}</h1>
           <p class="auth__subtitulo">{{ subtitulo }}</p>
           <ng-content />
-        </div>
+        </main>
       </div>
       <div class="auth__ilustracion">
         <svg viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
