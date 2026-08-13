@@ -4,17 +4,19 @@ import { RouterLink } from '@angular/router';
 import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.service';
 import { ProgresoService } from '../../core/progreso.service';
 import { SesionService } from '../../core/sesion.service';
+import { BotonEscuchar } from '../../shared/boton-escuchar/boton-escuchar';
 
 @Component({
   selector: 'app-estudiar-oa',
   standalone: true,
-  imports: [RouterLink],
+  imports: [RouterLink, BotonEscuchar],
   template: `
     @if (objetivo(); as oa) {
       <a href="#" (click)="volver($event)" class="volver">← Volver</a>
       <span class="etiqueta">{{ oa.codigo_oficial }}</span>
       <h1>{{ oa.descripcion }}</h1>
 
+      <app-boton-escuchar class="boton-guia" [texto]="oa.contenido_guia" />
       <div class="tarjeta bloque contenido-guia" [innerText]="oa.contenido_guia"></div>
 
       <a [routerLink]="['/alumno/autoevaluacion', oa.id]" class="btn btn--primario btn--grande">Practicar este tema</a>
@@ -44,6 +46,10 @@ import { SesionService } from '../../core/sesion.service';
       .bloque {
         margin-bottom: 1.5rem;
         max-width: 680px;
+      }
+      .boton-guia {
+        display: block;
+        margin-bottom: 0.75rem;
       }
       .contenido-guia {
         white-space: pre-wrap;

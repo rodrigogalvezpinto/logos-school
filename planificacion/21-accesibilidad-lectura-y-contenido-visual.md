@@ -16,7 +16,15 @@ El currículum oficial de 1° básico chileno asume que el niño **aprende a lee
 mismo año** — no es un defecto del contenido, es una condición real de ese ciclo que la
 interfaz debe asumir desde el diseño, no arreglar después.
 
-**Decisión**: botón "🔊 Escuchar" en toda guía y toda pregunta, usando la **Web Speech API**
+**✅ Implementado (2026-08-13)**: `LectorVozService` (`frontend/src/app/core/lector-voz.service.ts`,
+envuelve `window.speechSynthesis`, `es-CL`) + componente `BotonEscuchar` reutilizable
+(`frontend/src/app/shared/boton-escuchar/`), conectado en `estudiar-oa.ts` (guía completa) y
+en `evaluacion-runner.ts` (enunciado de cada pregunta — autoevaluación, prueba de unidad y
+examen simulacro, los 3 modos usan el mismo componente). Sin cambios de backend: es texto que
+ya viene en la respuesta de la API. 35/35 E2E siguen en verde, con una aserción nueva que
+confirma que el botón aparece en guía y en pregunta.
+
+**Decisión original**: botón "🔊 Escuchar" en toda guía y toda pregunta, usando la **Web Speech API**
 (función de texto-a-voz nativa de los navegadores modernos) — gratuita, sin costo de
 licencia, sin necesidad de grabar voces humanas para miles de preguntas. Es la opción
 correcta para partir, coherente con el criterio de tecnología gratuita del proyecto

@@ -76,8 +76,10 @@ Fase 1.3 (✅) → Rol Profesor (✅). Etapa 1 (MVP) + Etapa 2 completas.**
 
 ## 🟢 Calidad / pulido — no bloquea lanzar, pero se nota
 
-10. **Componentes visuales de Matemática** (recta numérica, modelo de fracciones) y
-    **lectura en voz alta** (Web Speech API) — decididos, no implementados.
+10. ~~Lectura en voz alta~~ — **implementada (2026-08-13)**: `LectorVozService` +
+    `BotonEscuchar`, conectado en guía de estudio y en cada pregunta (autoevaluación, prueba,
+    examen). Ver `21-accesibilidad-lectura-y-contenido-visual.md`. **Componentes visuales de
+    Matemática** (recta numérica, modelo de fracciones) siguen decididos, no implementados.
 11. **Logo**: sigue siendo el concepto SVG simple, no una versión pulida final.
 12. **CI/CD**: no hay ningún pipeline (GitHub Actions u otro) que corra los tests
     automáticamente en cada cambio — hoy dependen de correrlos a mano.

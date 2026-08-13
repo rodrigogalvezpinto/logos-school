@@ -2,6 +2,7 @@ import { Component, Input, OnInit, signal, computed, inject } from '@angular/cor
 import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { EvaluacionesService } from '../../core/evaluaciones.service';
+import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
 
@@ -17,7 +18,7 @@ export interface PreguntaRunner {
 @Component({
   selector: 'app-evaluacion-runner',
   standalone: true,
-  imports: [FormsModule],
+  imports: [FormsModule, BotonEscuchar],
   template: `
     @if (cargando()) {
       <p class="cargando">Cargando…</p>
@@ -74,6 +75,7 @@ export interface PreguntaRunner {
         </div>
 
         <div class="tarjeta pregunta">
+          <app-boton-escuchar class="pregunta__escuchar" [texto]="preguntaActual.enunciado" />
           <p class="pregunta__enunciado">{{ preguntaActual.enunciado }}</p>
 
           @if (preguntaActual.tipo === 'alternativas' && preguntaActual.opciones) {
