@@ -1,4 +1,4 @@
-from sqlmodel import Session, select
+from sqlmodel import Session, func, or_, select
 
 from app.domain.auth.entities import PerfilAlumno as PerfilAlumnoDominio
 from app.infrastructure.persistence.orm_models import PerfilAlumno as PerfilAlumnoORM
@@ -31,6 +31,25 @@ class RepositorioPerfilesAlumnoSQLModel:
             select(PerfilAlumnoORM).where(PerfilAlumnoORM.cuenta_apoderado_id == cuenta_apoderado_id)
         ).all()
         return [self._a_dominio(f) for f in filas]
+
+    def buscar_por_texto(self, consulta: str) -> list[PerfilAlumnoDominio]:
+        """Búsqueda no acotada a una cuenta — la usa el panel de administración para
+        encontrar cualquier alumno por nombre, apellido o RUT (a diferencia de
+        `listar_por_cuenta`, que un Apoderado usa solo para los suyos)."""
+        patron = f"%{consulta}%"
+        filas = self._session.exec(
+            select(PerfilAlumnoORM).where(
+                or_(
+                    PerfilAlumnoORM.nombre.ilike(patron),
+                    PerfilAlumnoORM.apellidos.ilike(patron),
+                    PerfilAlumnoORM.rut.ilike(patron),
+                )
+            )
+        ).all()
+        return [self._a_dominio(f) for f in filas]
+
+    def contar(self) -> int:
+        return self._session.exec(select(func.count()).select_from(PerfilAlumnoORM)).one()
 
     @staticmethod
     def _a_dominio(fila: PerfilAlumnoORM) -> PerfilAlumnoDominio:

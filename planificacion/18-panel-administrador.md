@@ -1,7 +1,8 @@
 ---
 título: Panel de Administrador (dueño del proyecto)
-estado: especificación (2026-08-12), Fase 2 de administración — no bloquea la Fase 1.1
-última actualización: 2026-08-12
+estado: ✅ construido (2026-08-13) — login separado (`/admin/login`), Planes, Códigos de
+  descuento, Cortesías y Métricas funcionando. 76/76 tests backend, 29/29 E2E.
+última actualización: 2026-08-13
 ---
 
 ## Qué es

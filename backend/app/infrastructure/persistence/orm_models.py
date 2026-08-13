@@ -26,6 +26,20 @@ class Cuenta(SQLModel, table=True):
     fecha_creacion: datetime = Field(default_factory=_ahora_utc)
 
 
+class CuentaAdmin(SQLModel, table=True):
+    """Cuenta del panel de administración comercial (planificacion/18-panel-administrador.md)
+    — entidad separada de `Cuenta` (Apoderado) a propósito: login, sesión y JWT distintos,
+    sin endpoint de auto-registro (se crea con scripts/crear_admin.py)."""
+
+    __tablename__ = "cuenta_admin"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    email: str = Field(unique=True, index=True)
+    password_hash: str
+    nombre: str
+    fecha_creacion: datetime = Field(default_factory=_ahora_utc)
+
+
 class Nivel(SQLModel, table=True):
     """Dato semilla — uno de los 12 niveles, cargado desde Temarios/analisis/."""
 
@@ -44,6 +58,7 @@ class Plan(SQLModel, table=True):
     nombre: str
     nivel_de_acceso: str  # "entrada" | "completo"
     precio_clp: int = 0
+    activo: bool = True
 
 
 class PerfilAlumno(SQLModel, table=True):

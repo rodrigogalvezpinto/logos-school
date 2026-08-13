@@ -1,4 +1,4 @@
-from sqlmodel import Session, select
+from sqlmodel import Session, func, select
 
 from app.domain.auth.entities import Cuenta as CuentaDominio
 from app.infrastructure.persistence.orm_models import Cuenta as CuentaORM
@@ -45,6 +45,9 @@ class RepositorioCuentasSQLModel:
         self._session.commit()
         self._session.refresh(fila)
         return self._a_dominio(fila)
+
+    def contar(self) -> int:
+        return self._session.exec(select(func.count()).select_from(CuentaORM)).one()
 
     @staticmethod
     def _a_dominio(fila: CuentaORM) -> CuentaDominio:

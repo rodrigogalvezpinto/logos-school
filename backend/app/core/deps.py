@@ -19,18 +19,33 @@ from app.application.evaluaciones.casos_de_uso import (
     ObtenerIntento,
     ResponderPregunta,
 )
+from app.application.admin.casos_de_uso import IniciarSesionAdmin
+from app.application.comercial.casos_de_uso import (
+    AsignarSuscripcionCortesia,
+    CambiarEstadoPlan,
+    CrearCodigoDescuento,
+    CrearPlan,
+    DesactivarCodigoDescuento,
+    EditarPlan,
+)
+from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas
 from app.application.progreso.consultas import ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
 from app.infrastructure.persistence.db import get_session
+from app.domain.admin.entities import CuentaAdmin
 from app.domain.auth.entities import Cuenta
 from app.infrastructure.auth_externa.google_oauth import VerificadorTokenGoogleAdapter
 from app.infrastructure.persistence.repositorios.conjuntos import RepositorioConjuntosSQLModel
 from app.infrastructure.persistence.repositorios.contenido import RepositorioContenidoSQLModel
 from app.infrastructure.persistence.repositorios.cuentas import RepositorioCuentasSQLModel
+from app.infrastructure.persistence.repositorios.cuentas_admin import RepositorioCuentasAdminSQLModel
+from app.infrastructure.persistence.repositorios.descuentos import RepositorioDescuentosSQLModel
 from app.infrastructure.persistence.repositorios.intentos import RepositorioIntentosSQLModel
 from app.infrastructure.persistence.repositorios.perfiles_alumno import RepositorioPerfilesAlumnoSQLModel
+from app.infrastructure.persistence.repositorios.planes import RepositorioPlanesSQLModel
 from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
 from app.infrastructure.persistence.repositorios.progreso import RepositorioProgresoSQLModel
+from app.infrastructure.persistence.repositorios.suscripciones import RepositorioSuscripcionesSQLModel
 from app.infrastructure.reloj_sistema import RelojSistema
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 from app.infrastructure.seguridad.jose_tokens import ServicioTokenJWT
@@ -176,6 +191,96 @@ def get_cuenta_actual(
     if cuenta is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta no encontrada")
     return cuenta
+
+
+def get_repositorio_cuentas_admin(session: Session = Depends(get_session)) -> RepositorioCuentasAdminSQLModel:
+    return RepositorioCuentasAdminSQLModel(session)
+
+
+def get_repositorio_planes(session: Session = Depends(get_session)) -> RepositorioPlanesSQLModel:
+    return RepositorioPlanesSQLModel(session)
+
+
+def get_repositorio_descuentos(session: Session = Depends(get_session)) -> RepositorioDescuentosSQLModel:
+    return RepositorioDescuentosSQLModel(session)
+
+
+def get_repositorio_suscripciones(session: Session = Depends(get_session)) -> RepositorioSuscripcionesSQLModel:
+    return RepositorioSuscripcionesSQLModel(session)
+
+
+def get_iniciar_sesion_admin_uc(
+    repositorio: RepositorioCuentasAdminSQLModel = Depends(get_repositorio_cuentas_admin),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> IniciarSesionAdmin:
+    return IniciarSesionAdmin(repositorio, hasheador, servicio_token)
+
+
+def get_cuenta_admin_actual(
+    credenciales: HTTPAuthorizationCredentials = Depends(security),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+    repositorio: RepositorioCuentasAdminSQLModel = Depends(get_repositorio_cuentas_admin),
+) -> CuentaAdmin:
+    cuenta_admin_id = servicio_token.decodificar_admin(credenciales.credentials)
+    if cuenta_admin_id is None:
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Sesión de administrador inválida o expirada")
+    cuenta = repositorio.buscar_por_id(cuenta_admin_id)
+    if cuenta is None:
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta de administrador no encontrada")
+    return cuenta
+
+
+def get_crear_plan_uc(repositorio: RepositorioPlanesSQLModel = Depends(get_repositorio_planes)) -> CrearPlan:
+    return CrearPlan(repositorio)
+
+
+def get_editar_plan_uc(repositorio: RepositorioPlanesSQLModel = Depends(get_repositorio_planes)) -> EditarPlan:
+    return EditarPlan(repositorio)
+
+
+def get_cambiar_estado_plan_uc(
+    repositorio: RepositorioPlanesSQLModel = Depends(get_repositorio_planes),
+) -> CambiarEstadoPlan:
+    return CambiarEstadoPlan(repositorio)
+
+
+def get_crear_codigo_descuento_uc(
+    repositorio: RepositorioDescuentosSQLModel = Depends(get_repositorio_descuentos),
+) -> CrearCodigoDescuento:
+    return CrearCodigoDescuento(repositorio)
+
+
+def get_desactivar_codigo_descuento_uc(
+    repositorio: RepositorioDescuentosSQLModel = Depends(get_repositorio_descuentos),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> DesactivarCodigoDescuento:
+    return DesactivarCodigoDescuento(repositorio, reloj)
+
+
+def get_asignar_suscripcion_cortesia_uc(
+    repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_planes: RepositorioPlanesSQLModel = Depends(get_repositorio_planes),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> AsignarSuscripcionCortesia:
+    return AsignarSuscripcionCortesia(repositorio_suscripciones, repositorio_perfiles, repositorio_planes, reloj)
+
+
+def get_buscar_alumnos_uc(
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_cuentas: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+) -> BuscarAlumnos:
+    return BuscarAlumnos(repositorio_perfiles, repositorio_cuentas)
+
+
+def get_obtener_metricas_uc(
+    repositorio_cuentas: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_planes: RepositorioPlanesSQLModel = Depends(get_repositorio_planes),
+    repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
+) -> ObtenerMetricas:
+    return ObtenerMetricas(repositorio_cuentas, repositorio_perfiles, repositorio_planes, repositorio_suscripciones)
 
 
 def verificar_perfil_propio(

@@ -1,7 +1,9 @@
 import { Routes } from '@angular/router';
 import { Shell } from './layout/shell/shell';
+import { AdminShell } from './layout/admin-shell/admin-shell';
 import { authGuard } from './core/auth.guard';
 import { perfilGuard } from './core/perfil.guard';
+import { adminGuard } from './core/admin.guard';
 
 export const routes: Routes = [
   {
@@ -115,6 +117,34 @@ export const routes: Routes = [
         loadComponent: () => import('./pages/notas/notas').then((m) => m.Notas),
       },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
+    ],
+  },
+  {
+    path: 'admin/login',
+    loadComponent: () => import('./pages/admin-login/admin-login').then((m) => m.AdminLogin),
+  },
+  {
+    path: 'admin',
+    component: AdminShell,
+    canActivate: [adminGuard],
+    children: [
+      {
+        path: 'dashboard',
+        loadComponent: () => import('./pages/admin-dashboard/admin-dashboard').then((m) => m.AdminDashboard),
+      },
+      {
+        path: 'planes',
+        loadComponent: () => import('./pages/admin-planes/admin-planes').then((m) => m.AdminPlanes),
+      },
+      {
+        path: 'descuentos',
+        loadComponent: () => import('./pages/admin-descuentos/admin-descuentos').then((m) => m.AdminDescuentos),
+      },
+      {
+        path: 'cortesias',
+        loadComponent: () => import('./pages/admin-cortesias/admin-cortesias').then((m) => m.AdminCortesias),
+      },
+      { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
     ],
   },
   {

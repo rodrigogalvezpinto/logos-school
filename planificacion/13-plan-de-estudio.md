@@ -58,6 +58,27 @@ SesionEstudio
   estado                  ("pendiente" | "cumplida" | "reprogramada")
 ```
 
+## Requisitos adicionales del usuario (2026-08-13, a incorporar al diseño detallado)
+
+El usuario adelantó, antes de que le tocara el turno a esta fase, tres piezas que se deben
+diseñar juntas porque son la misma funcionalidad vista desde ángulos distintos:
+
+1. **Cronograma orientado a la fecha del examen real** (no solo un plazo por defecto).
+2. **Simulacro parcial**: a medida que el alumno avanza (ej. llega a la mitad del temario),
+   debe poder rendir un examen simulacro acotado al % de materia ya cubierta — no el
+   simulacro completo Forma A/B. Requiere que el motor de evaluación pueda generar un
+   `ConjuntoEvaluacion` dinámico acotado a un subconjunto de OA (hoy los conjuntos son
+   fijos, importados desde contenido estático).
+3. **Habilitación progresiva + lista de "faltantes"**: las pruebas de unidad y exámenes no
+   deberían estar todos disponibles desde el día uno — se van habilitando según el avance
+   del alumno (mismo motor de "en qué momento se habilita" que decide cuándo el simulacro
+   parcial del punto 2 está disponible). La vista de notas (`/alumno/notas`, Fase 1.2) debe
+   mostrar no solo lo ya rendido sino también qué pruebas/exámenes faltan y cuáles ya están
+   habilitados para rendir — esto se construye junto con la habilitación progresiva, no
+   antes, para no armar la lista de pendientes dos veces.
+4. Onboarding: el apoderado elige los días de estudio (mínimo 3/semana) y el sistema
+   calcula cuántas horas por asignatura corresponden esos días.
+
 ## Fuera de alcance de esta especificación
 
 - Notificaciones push/email del recordatorio de estudio — se puede sumar en una iteración
