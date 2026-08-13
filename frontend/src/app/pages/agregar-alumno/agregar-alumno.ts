@@ -4,7 +4,18 @@ import { FormsModule } from '@angular/forms';
 import { AuthLayout } from '../../shared/auth-layout/auth-layout';
 import { AuthService } from '../../core/auth.service';
 import { ContenidoService } from '../../core/contenido.service';
+import { PlanEstudioService } from '../../core/plan-estudio.service';
 import { validarRut } from '../../core/rut.util';
+
+const DIAS: { valor: string; etiqueta: string }[] = [
+  { valor: 'lunes', etiqueta: 'Lun' },
+  { valor: 'martes', etiqueta: 'Mar' },
+  { valor: 'miercoles', etiqueta: 'Mié' },
+  { valor: 'jueves', etiqueta: 'Jue' },
+  { valor: 'viernes', etiqueta: 'Vie' },
+  { valor: 'sabado', etiqueta: 'Sáb' },
+  { valor: 'domingo', etiqueta: 'Dom' },
+];
 
 @Component({
   selector: 'app-agregar-alumno',
@@ -44,6 +55,27 @@ import { validarRut } from '../../core/rut.util';
             }
           </select>
         </div>
+
+        <div class="campo">
+          <label>¿Qué días va a estudiar? (mínimo 3)</label>
+          <div class="dias">
+            @for (dia of dias; track dia.valor) {
+              <button
+                type="button"
+                class="dia-chip"
+                [class.dia-chip--activo]="diasElegidos.has(dia.valor)"
+                (click)="toggleDia(dia.valor)"
+              >
+                {{ dia.etiqueta }}
+              </button>
+            }
+          </div>
+        </div>
+        <div class="campo">
+          <label>Fecha del examen (si la sabes — opcional)</label>
+          <input type="date" [(ngModel)]="fechaObjetivo" name="fechaObjetivo" />
+        </div>
+
         @if (error()) {
           <p class="error">{{ error() }}</p>
         }
@@ -63,6 +95,26 @@ import { validarRut } from '../../core/rut.util';
           flex: 1;
         }
       }
+      .dias {
+        display: flex;
+        gap: 0.4rem;
+      }
+      .dia-chip {
+        flex: 1;
+        padding: 0.5rem 0;
+        border: 1.5px solid var(--borde);
+        border-radius: var(--radio-media);
+        background: var(--fondo-tarjeta);
+        color: var(--texto-secundario);
+        font-size: 0.8rem;
+        font-weight: 600;
+        cursor: pointer;
+      }
+      .dia-chip--activo {
+        border-color: var(--color-primario);
+        background: var(--color-primario-suave);
+        color: var(--color-primario);
+      }
       .error {
         color: var(--color-error);
         font-size: 0.85rem;
@@ -77,12 +129,16 @@ export class AgregarAlumno {
   fechaNacimiento = '';
   rut = '';
   nivelId: number | null = null;
+  fechaObjetivo = '';
+  dias = DIAS;
+  diasElegidos = new Set<string>(['lunes', 'miercoles', 'viernes']);
   niveles = signal<{ id: number; nombre: string }[]>([]);
   cargando = signal(false);
   error = signal('');
 
   private auth = inject(AuthService);
   private contenido = inject(ContenidoService);
+  private planEstudio = inject(PlanEstudioService);
   private router = inject(Router);
 
   constructor() {
@@ -90,6 +146,14 @@ export class AgregarAlumno {
       this.niveles.set(niveles);
       if (niveles.length) this.nivelId = niveles[0].id;
     });
+  }
+
+  toggleDia(dia: string) {
+    if (this.diasElegidos.has(dia)) {
+      this.diasElegidos.delete(dia);
+    } else {
+      this.diasElegidos.add(dia);
+    }
   }
 
   continuar() {
@@ -102,6 +166,10 @@ export class AgregarAlumno {
       this.error.set('Selecciona un curso.');
       return;
     }
+    if (this.diasElegidos.size < 3) {
+      this.error.set('Elige al menos 3 días de estudio a la semana.');
+      return;
+    }
     this.cargando.set(true);
     this.auth
       .agregarAlumno({
@@ -112,7 +180,17 @@ export class AgregarAlumno {
         nivel_id: this.nivelId,
       })
       .subscribe({
-        next: () => this.router.navigate(['/seleccion-plan']),
+        next: (perfil) => {
+          const diasElegidos = Array.from(this.diasElegidos);
+          // No bloquea el registro si falla — el alumno puede armar su plan después
+          // desde /alumno/plan-estudio.
+          this.planEstudio
+            .crearPlan(perfil.id, diasElegidos.length, diasElegidos, this.fechaObjetivo || null)
+            .subscribe({
+              next: () => this.router.navigate(['/seleccion-plan']),
+              error: () => this.router.navigate(['/seleccion-plan']),
+            });
+        },
         error: (err) => {
           this.cargando.set(false);
           this.error.set(err?.error?.detail || 'No se pudo agregar al alumno.');

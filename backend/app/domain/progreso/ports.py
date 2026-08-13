@@ -36,3 +36,20 @@ class NotaPorAsignatura:
     asignatura_nombre: str
     nota_practica: float | None
     nota_simulacro: float | None
+
+
+@dataclass(frozen=True)
+class ItemFaltante:
+    conjunto_id: int
+    tipo: str
+    nombre: str
+    asignatura_id: int | None
+    habilitado: bool
+
+
+@dataclass(frozen=True)
+class CoberturaAsignatura:
+    asignatura_id: int
+    asignatura_nombre: str
+    cobertura_pct: float
+    simulacro_parcial_disponible: bool

@@ -14,7 +14,7 @@ const SIDEBAR_ALUMNO: ItemSidebar[] = [
   { etiqueta: 'Mis Asignaturas', icono: '📚', ruta: '/alumno/asignaturas' },
   { etiqueta: 'Pruebas y Exámenes', icono: '📝', ruta: '/alumno/evaluaciones' },
   { etiqueta: 'Mis Notas', icono: '📊', ruta: '/alumno/notas' },
-  { etiqueta: 'Plan de Estudio', icono: '📅', ruta: '/alumno/plan-estudio', proximamente: true },
+  { etiqueta: 'Plan de Estudio', icono: '📅', ruta: '/alumno/plan-estudio' },
 ];
 
 const SIDEBAR_APODERADO: ItemSidebar[] = [

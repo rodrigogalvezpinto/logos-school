@@ -20,3 +20,15 @@ class PerfilAlumnoNoEncontrado(ErrorDominioEvaluaciones):
 
 class ObjetivoAprendizajeNoEncontrado(ErrorDominioEvaluaciones):
     pass
+
+
+class AsignaturaNoEncontrada(ErrorDominioEvaluaciones):
+    pass
+
+
+class CoberturaInsuficiente(ErrorDominioEvaluaciones):
+    """El alumno todavía no cubre el % de temario necesario para el simulacro parcial."""
+
+
+class SinPreguntasDisponibles(ErrorDominioEvaluaciones):
+    """Hay cobertura suficiente pero ninguna pregunta autocorregible de esas OA."""

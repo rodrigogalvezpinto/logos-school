@@ -80,4 +80,10 @@ export class EvaluacionesService {
   entregar(intentoId: number): Observable<IntentoEvaluacion> {
     return this.http.post<IntentoEvaluacion>(`${this.base}/evaluaciones/intentos/${intentoId}/entregar`, {});
   }
+
+  generarSimulacroParcial(asignaturaId: number, perfilAlumnoId: number): Observable<IntentoEvaluacion> {
+    return this.http.post<IntentoEvaluacion>(`${this.base}/evaluaciones/simulacro-parcial/${asignaturaId}`, {
+      perfil_alumno_id: perfilAlumnoId,
+    });
+  }
 }

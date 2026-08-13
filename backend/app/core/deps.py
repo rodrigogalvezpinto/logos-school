@@ -15,10 +15,12 @@ from app.application.auth.casos_de_uso import (
 )
 from app.application.evaluaciones.casos_de_uso import (
     EntregarIntento,
+    GenerarSimulacroParcial,
     IniciarIntento,
     ObtenerIntento,
     ResponderPregunta,
 )
+from app.application.plan_estudio.casos_de_uso import CrearPlanDeEstudio, ObtenerPlanActivo
 from app.application.admin.casos_de_uso import IniciarSesionAdmin
 from app.application.comercial.casos_de_uso import (
     AsignarSuscripcionCortesia,
@@ -29,7 +31,7 @@ from app.application.comercial.casos_de_uso import (
     EditarPlan,
 )
 from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas
-from app.application.progreso.consultas import ObtenerHistorialYNotas
+from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
 from app.infrastructure.persistence.db import get_session
 from app.domain.admin.entities import CuentaAdmin
@@ -42,6 +44,7 @@ from app.infrastructure.persistence.repositorios.cuentas_admin import Repositori
 from app.infrastructure.persistence.repositorios.descuentos import RepositorioDescuentosSQLModel
 from app.infrastructure.persistence.repositorios.intentos import RepositorioIntentosSQLModel
 from app.infrastructure.persistence.repositorios.perfiles_alumno import RepositorioPerfilesAlumnoSQLModel
+from app.infrastructure.persistence.repositorios.plan_estudio import RepositorioPlanEstudioSQLModel
 from app.infrastructure.persistence.repositorios.planes import RepositorioPlanesSQLModel
 from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
 from app.infrastructure.persistence.repositorios.progreso import RepositorioProgresoSQLModel
@@ -281,6 +284,50 @@ def get_obtener_metricas_uc(
     repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
 ) -> ObtenerMetricas:
     return ObtenerMetricas(repositorio_cuentas, repositorio_perfiles, repositorio_planes, repositorio_suscripciones)
+
+
+def get_generar_simulacro_parcial_uc(
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> GenerarSimulacroParcial:
+    return GenerarSimulacroParcial(repositorio_conjuntos, repositorio_preguntas, repositorio_contenido, repositorio_progreso)
+
+
+def get_obtener_faltantes_uc(
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObtenerFaltantes:
+    return ObtenerFaltantes(
+        repositorio_conjuntos, repositorio_intentos, repositorio_preguntas, repositorio_contenido, repositorio_progreso
+    )
+
+
+def get_repositorio_plan_estudio(session: Session = Depends(get_session)) -> RepositorioPlanEstudioSQLModel:
+    return RepositorioPlanEstudioSQLModel(session)
+
+
+def get_crear_plan_de_estudio_uc(
+    repositorio_plan_estudio: RepositorioPlanEstudioSQLModel = Depends(get_repositorio_plan_estudio),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> CrearPlanDeEstudio:
+    return CrearPlanDeEstudio(
+        repositorio_plan_estudio, repositorio_perfiles, repositorio_contenido, repositorio_progreso, reloj
+    )
+
+
+def get_obtener_plan_activo_uc(
+    repositorio_plan_estudio: RepositorioPlanEstudioSQLModel = Depends(get_repositorio_plan_estudio),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObtenerPlanActivo:
+    return ObtenerPlanActivo(repositorio_plan_estudio, repositorio_progreso)
 
 
 def verificar_perfil_propio(

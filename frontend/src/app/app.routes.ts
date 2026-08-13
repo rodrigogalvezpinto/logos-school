@@ -87,6 +87,10 @@ export const routes: Routes = [
         path: 'notas',
         loadComponent: () => import('./pages/notas/notas').then((m) => m.Notas),
       },
+      {
+        path: 'plan-estudio',
+        loadComponent: () => import('./pages/plan-estudio/plan-estudio').then((m) => m.PlanEstudio),
+      },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
     ],
   },

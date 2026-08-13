@@ -149,3 +149,62 @@ def test_progreso_sin_evaluaciones_ni_guias_devuelve_listas_vacias(client, sessi
     r = client.get(f"/progreso/{perfil_id}", headers={"Authorization": f"Bearer {token}"})
     assert r.status_code == 200
     assert r.json() == {"historial": [], "guias_revisadas": [], "notas_por_asignatura": []}
+
+
+def test_faltantes_sin_guias_revisadas_prueba_esta_habilitada_y_examen_no(client, session):
+    from app.infrastructure.persistence.orm_models import ObjetivoAprendizaje
+
+    nivel, asignatura, prueba, examen, (p1, p2) = _crear_contenido(session)
+    # p1/p2 no tienen oa_id en _crear_contenido — sin OA que cubrir, la prueba de unidad
+    # queda habilitada por defecto (no hay nada que bloquee su desbloqueo).
+    session.add(ObjetivoAprendizaje(asignatura_id=asignatura.id, codigo_oficial="OA 1", descripcion="Suma"))
+    session.commit()
+
+    token, perfil_id = _crear_apoderado_con_alumno(client, session, nivel)
+    headers = {"Authorization": f"Bearer {token}"}
+
+    r = client.get(f"/progreso/{perfil_id}/faltantes", params={"nivel_id": nivel.id}, headers=headers)
+    assert r.status_code == 200
+    datos = r.json()
+
+    tipos_habilitados = {f["tipo"]: f["habilitado"] for f in datos["faltantes"]}
+    assert tipos_habilitados["prueba_unidad"] is True  # sin OA vinculadas, no bloquea
+    assert tipos_habilitados["examen_simulacro"] is False  # 0% de cobertura
+
+    cobertura = datos["coberturas"][0]
+    assert cobertura["cobertura_pct"] == 0.0
+    assert cobertura["simulacro_parcial_disponible"] is False
+
+
+def test_faltantes_examen_se_habilita_al_100_por_ciento_de_cobertura(client, session):
+    from app.infrastructure.persistence.orm_models import ObjetivoAprendizaje
+
+    nivel, asignatura, prueba, examen, (p1, p2) = _crear_contenido(session)
+    oa = ObjetivoAprendizaje(asignatura_id=asignatura.id, codigo_oficial="OA 1", descripcion="Suma")
+    session.add(oa)
+    session.commit()
+    session.refresh(oa)
+
+    token, perfil_id = _crear_apoderado_con_alumno(client, session, nivel)
+    headers = {"Authorization": f"Bearer {token}"}
+
+    client.post(f"/progreso/{perfil_id}/guias/{oa.id}/revisada", headers=headers)
+
+    r = client.get(f"/progreso/{perfil_id}/faltantes", params={"nivel_id": nivel.id}, headers=headers)
+    datos = r.json()
+    tipos_habilitados = {f["tipo"]: f["habilitado"] for f in datos["faltantes"]}
+    assert tipos_habilitados["examen_simulacro"] is True  # 100% de cobertura (1/1 OA)
+    assert datos["coberturas"][0]["simulacro_parcial_disponible"] is True
+
+
+def test_faltantes_no_incluye_conjuntos_ya_entregados(client, session):
+    nivel, asignatura, prueba, examen, (p1, p2) = _crear_contenido(session)
+    token, perfil_id = _crear_apoderado_con_alumno(client, session, nivel)
+    headers = {"Authorization": f"Bearer {token}"}
+
+    _rendir(client, token, perfil_id, prueba.id, {p1.id: "4"})
+
+    r = client.get(f"/progreso/{perfil_id}/faltantes", params={"nivel_id": nivel.id}, headers=headers)
+    conjuntos_faltantes = {f["conjunto_id"] for f in r.json()["faltantes"]}
+    assert prueba.id not in conjuntos_faltantes
+    assert examen.id in conjuntos_faltantes

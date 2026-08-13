@@ -4,9 +4,23 @@ contexto Auth: un intento pertenece a un perfil de alumno real, así que verific
 existencia es una dependencia legítima entre contextos, no una fuga de capas."""
 
 from app.domain.auth.ports import RepositorioPerfilesAlumno
+from app.domain.contenido.ports import RepositorioContenido
 from app.domain.evaluaciones.entities import IntentoEvaluacion
-from app.domain.evaluaciones.exceptions import ConjuntoNoEncontrado, IntentoNoEncontrado, PerfilAlumnoNoEncontrado
-from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
+from app.domain.evaluaciones.exceptions import (
+    AsignaturaNoEncontrada,
+    ConjuntoNoEncontrado,
+    CoberturaInsuficiente,
+    IntentoNoEncontrado,
+    PerfilAlumnoNoEncontrado,
+    SinPreguntasDisponibles,
+)
+from app.domain.evaluaciones.ports import ConjuntoLectura, RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
+from app.domain.evaluaciones.value_objects import (
+    MAX_PREGUNTAS_SIMULACRO_PARCIAL,
+    TIPOS_AUTOCORREGIBLES,
+    UMBRAL_SIMULACRO_PARCIAL,
+)
+from app.domain.progreso.ports import RepositorioProgreso
 from app.domain.shared.reloj import Reloj
 
 
@@ -87,3 +101,59 @@ class EntregarIntento:
         preguntas = self._repositorio_preguntas.listar_para_correccion(conjunto.pregunta_ids)
         intento.entregar(preguntas, self._reloj)
         return self._repositorio_intentos.guardar(intento)
+
+
+class GenerarSimulacroParcial:
+    """Genera on-demand un `ConjuntoEvaluacion` real (tipo `examen_simulacro_parcial`)
+    acotado a las OA que el alumno ya cubrió — ver planificacion/13-plan-de-estudio.md,
+    sección "Requisitos adicionales". A partir de ahí sigue el ciclo normal de
+    IniciarIntento/EntregarIntento sin ningún cambio, es la misma IntentoEvaluacion de
+    siempre."""
+
+    def __init__(
+        self,
+        repositorio_conjuntos: RepositorioConjuntos,
+        repositorio_preguntas: RepositorioPreguntas,
+        repositorio_contenido: RepositorioContenido,
+        repositorio_progreso: RepositorioProgreso,
+    ):
+        self._repositorio_conjuntos = repositorio_conjuntos
+        self._repositorio_preguntas = repositorio_preguntas
+        self._repositorio_contenido = repositorio_contenido
+        self._repositorio_progreso = repositorio_progreso
+
+    def ejecutar(self, asignatura_id: int, perfil_alumno_id: int) -> ConjuntoLectura:
+        asignatura = self._repositorio_contenido.obtener_asignatura(asignatura_id)
+        if not asignatura:
+            raise AsignaturaNoEncontrada()
+
+        objetivos = self._repositorio_contenido.listar_objetivos(asignatura_id)
+        if not objetivos:
+            raise SinPreguntasDisponibles()
+
+        oa_ids_asignatura = {oa.id for oa in objetivos}
+        revisadas = {g.oa_id for g in self._repositorio_progreso.listar_guias_revisadas(perfil_alumno_id)}
+        cubiertas = oa_ids_asignatura & revisadas
+        cobertura = len(cubiertas) / len(oa_ids_asignatura)
+        if cobertura < UMBRAL_SIMULACRO_PARCIAL:
+            raise CoberturaInsuficiente()
+
+        pregunta_ids: list[int] = []
+        for oa_id in cubiertas:
+            for p in self._repositorio_preguntas.buscar_por_oa(oa_id):
+                if p.tipo in TIPOS_AUTOCORREGIBLES:
+                    pregunta_ids.append(p.id)
+        pregunta_ids = pregunta_ids[:MAX_PREGUNTAS_SIMULACRO_PARCIAL]
+        if not pregunta_ids:
+            raise SinPreguntasDisponibles()
+
+        nombre = f"Simulacro parcial — {asignatura.nombre} ({round(cobertura * 100)}% del temario)"
+        return self._repositorio_conjuntos.crear(
+            tipo="examen_simulacro_parcial",
+            nombre=nombre,
+            forma=None,
+            asignatura_id=asignatura_id,
+            nivel_id=None,
+            pregunta_ids=pregunta_ids,
+            tiempo_sugerido_min=len(pregunta_ids) * 2,
+        )

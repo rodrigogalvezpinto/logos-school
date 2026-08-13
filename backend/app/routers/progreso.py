@@ -9,9 +9,14 @@ from datetime import datetime
 from fastapi import APIRouter, Depends, status
 from pydantic import BaseModel
 
-from app.application.progreso.consultas import ObtenerHistorialYNotas
+from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
-from app.core.deps import get_marcar_guia_revisada_uc, get_obtener_historial_y_notas_uc, verificar_perfil_propio
+from app.core.deps import (
+    get_marcar_guia_revisada_uc,
+    get_obtener_faltantes_uc,
+    get_obtener_historial_y_notas_uc,
+    verificar_perfil_propio,
+)
 
 router = APIRouter(prefix="/progreso", tags=["progreso"])
 
@@ -80,3 +85,48 @@ def marcar_guia_revisada(
     uc: MarcarGuiaRevisada = Depends(get_marcar_guia_revisada_uc),
 ):
     uc.ejecutar(perfil_alumno_id, oa_id)
+
+
+class ItemFaltanteRespuesta(BaseModel):
+    conjunto_id: int
+    tipo: str
+    nombre: str
+    asignatura_id: int | None
+    habilitado: bool
+
+
+class CoberturaAsignaturaRespuesta(BaseModel):
+    asignatura_id: int
+    asignatura_nombre: str
+    cobertura_pct: float
+    simulacro_parcial_disponible: bool
+
+
+class FaltantesRespuesta(BaseModel):
+    faltantes: list[ItemFaltanteRespuesta]
+    coberturas: list[CoberturaAsignaturaRespuesta]
+
+
+@router.get("/{perfil_alumno_id}/faltantes", response_model=FaltantesRespuesta)
+def obtener_faltantes(
+    nivel_id: int,
+    perfil_alumno_id: int = Depends(verificar_perfil_propio),
+    uc: ObtenerFaltantes = Depends(get_obtener_faltantes_uc),
+):
+    resultado = uc.ejecutar(perfil_alumno_id, nivel_id)
+    return FaltantesRespuesta(
+        faltantes=[
+            ItemFaltanteRespuesta(
+                conjunto_id=f.conjunto_id, tipo=f.tipo, nombre=f.nombre,
+                asignatura_id=f.asignatura_id, habilitado=f.habilitado,
+            )
+            for f in resultado.faltantes
+        ],
+        coberturas=[
+            CoberturaAsignaturaRespuesta(
+                asignatura_id=c.asignatura_id, asignatura_nombre=c.asignatura_nombre,
+                cobertura_pct=c.cobertura_pct, simulacro_parcial_disponible=c.simulacro_parcial_disponible,
+            )
+            for c in resultado.coberturas
+        ],
+    )

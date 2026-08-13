@@ -35,6 +35,21 @@ class RepositorioConjuntos(Protocol):
     def listar_por_nivel(self, nivel_id: int) -> list[ConjuntoLectura]: ...
     def listar_por_ids(self, ids: list[int]) -> list[ConjuntoLectura]: ...
 
+    def crear(
+        self,
+        tipo: str,
+        nombre: str,
+        forma: str | None,
+        asignatura_id: int | None,
+        nivel_id: int | None,
+        pregunta_ids: list[int],
+        tiempo_sugerido_min: int | None,
+    ) -> ConjuntoLectura:
+        """Único método de escritura del puerto — hoy `ConjuntoEvaluacion` es 100%
+        estático (importado desde contenido), salvo el simulacro parcial generado on
+        demand por `GenerarSimulacroParcial`."""
+        ...
+
 
 @dataclass(frozen=True)
 class PreguntaLectura:
@@ -44,6 +59,7 @@ class PreguntaLectura:
     opciones: list[str] | None
     respuesta_correcta: str
     retroalimentacion: str
+    oa_id: int | None = None
 
 
 class RepositorioPreguntas(Protocol):

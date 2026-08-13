@@ -1,5 +1,7 @@
 import { Component, Input, inject, signal } from '@angular/core';
-import { ProgresoService, Historial, ItemHistorial } from '../../core/progreso.service';
+import { Router } from '@angular/router';
+import { Faltantes, ItemHistorial, Historial, ProgresoService } from '../../core/progreso.service';
+import { EvaluacionesService } from '../../core/evaluaciones.service';
 import { SesionService } from '../../core/sesion.service';
 
 interface FilaHistorial {
@@ -41,6 +43,43 @@ interface FilaHistorial {
           <p class="vacio">Todavía no has rendido ninguna prueba de unidad ni examen simulacro.</p>
         }
       </div>
+
+      @if (faltantes(); as f) {
+        <h2>Pruebas y exámenes faltantes</h2>
+        <div class="lista-historial faltantes">
+          @for (item of f.faltantes; track item.conjunto_id) {
+            <div class="tarjeta fila-historial" [class.fila-historial--bloqueada]="!item.habilitado">
+              <div>
+                <span class="chip" [class.chip--practica]="item.tipo === 'prueba_unidad'" [class.chip--simulacro]="item.tipo === 'examen_simulacro'">
+                  {{ item.tipo === 'prueba_unidad' ? 'Prueba de unidad' : 'Simulacro' }}
+                </span>
+                <h4>{{ item.nombre }}</h4>
+                @if (!item.habilitado) {
+                  <p>Se habilita al completar las guías pendientes de esa unidad.</p>
+                }
+              </div>
+              @if (!item.habilitado) {
+                <span class="chip">Bloqueada</span>
+              }
+            </div>
+          }
+          @if (!f.faltantes.length) {
+            <p class="vacio">¡Ya rendiste todo lo disponible!</p>
+          }
+        </div>
+
+        @for (c of f.coberturas; track c.asignatura_id) {
+          @if (c.simulacro_parcial_disponible) {
+            <div class="tarjeta aviso-simulacro-parcial">
+              <div>
+                <h4>Simulacro parcial disponible — {{ c.asignatura_nombre }}</h4>
+                <p>Cubres {{ c.cobertura_pct }}% del temario. Puedes rendir un simulacro acotado a lo que ya estudiaste.</p>
+              </div>
+              <button class="btn btn--primario" (click)="rendirSimulacroParcial(c.asignatura_id)">Rendir simulacro parcial</button>
+            </div>
+          }
+        }
+      }
 
       <h2>Historial</h2>
       <div class="lista-historial">
@@ -155,20 +194,62 @@ interface FilaHistorial {
       .vacio {
         color: var(--texto-secundario);
       }
+      .faltantes {
+        margin-bottom: 2rem;
+      }
+      .fila-historial--bloqueada {
+        opacity: 0.6;
+      }
+      .aviso-simulacro-parcial {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        border: 1.5px solid var(--color-primario);
+        margin-bottom: 1.5rem;
+
+        h4 {
+          margin: 0 0 0.2rem;
+        }
+        p {
+          margin: 0;
+          color: var(--texto-secundario);
+          font-size: 0.85rem;
+        }
+      }
     `,
   ],
 })
 export class Notas {
   @Input() perfilAlumnoId = '';
   historial = signal<Historial | null>(null);
+  faltantes = signal<Faltantes | null>(null);
 
   private progreso = inject(ProgresoService);
+  private evaluaciones = inject(EvaluacionesService);
   private sesion = inject(SesionService);
+  private router = inject(Router);
 
   ngOnInit() {
-    const id = this.perfilAlumnoId ? Number(this.perfilAlumnoId) : this.sesion.perfilActivo()?.id;
+    const perfilActivo = this.sesion.perfilActivo();
+    const id = this.perfilAlumnoId ? Number(this.perfilAlumnoId) : perfilActivo?.id;
     if (!id) return;
     this.progreso.obtenerHistorial(id).subscribe((h) => this.historial.set(h));
+
+    // La sección de faltantes/simulacro parcial es una acción que solo el propio alumno
+    // puede iniciar (necesita rendir la prueba) — no se muestra en la vista del apoderado,
+    // que no tiene un `perfilActivo` (nivel_id) propio para esta consulta.
+    if (!this.perfilAlumnoId && perfilActivo) {
+      this.progreso.obtenerFaltantes(id, perfilActivo.nivel_id).subscribe((f) => this.faltantes.set(f));
+    }
+  }
+
+  rendirSimulacroParcial(asignaturaId: number) {
+    const perfil = this.sesion.perfilActivo();
+    if (!perfil) return;
+    this.evaluaciones.generarSimulacroParcial(asignaturaId, perfil.id).subscribe((intento) => {
+      this.router.navigate(['/examen', intento.conjunto_evaluacion_id]);
+    });
   }
 
   filasHistorial(): FilaHistorial[] {

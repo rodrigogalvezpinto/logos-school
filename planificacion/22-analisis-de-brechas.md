@@ -49,12 +49,14 @@ Verificación end-to-end vigente: **51/51 tests de backend, 18/18 E2E de Playwri
 6. ~~Fase 1.2 (historial y notas por materia)~~ — **completa (2026-08-12)**: nuevo bounded
    context `progreso`, endpoints `GET/POST /progreso/{perfil_alumno_id}`, páginas
    `/alumno/notas` y `/apoderado/progreso/:id`. 56/56 tests backend, 21/21 E2E.
-7. **Fase 1.3 (plan de estudio con horario)** — ya diseñado en `13-plan-de-estudio.md`, no
-   construido. El usuario adelantó requisitos adicionales (cronograma orientado a la fecha
-   del examen real, simulacro parcial ajustado al % de temario cubierto, habilitación
-   progresiva de pruebas/exámenes según avance, lista de "faltantes" en `/alumno/notas`,
-   onboarding por días/semana con horas por asignatura calculadas) — quedaron registrados
-   en `13-plan-de-estudio.md` para no perderlos al diseñar esta fase.
+7. ~~Fase 1.3 (plan de estudio con horario)~~ — **completa (2026-08-13)**: nuevo bounded
+   context `plan_estudio` (cronograma round-robin puro y testeable, orientado a la fecha
+   del examen o +8 semanas por defecto), simulacro parcial generado on-demand
+   (`ConjuntoEvaluacion` dinámico acotado a las OA ya cubiertas, reutiliza el ciclo
+   IniciarIntento/EntregarIntento sin cambios), habilitación progresiva de pruebas/exámenes
+   y lista de "faltantes" en `/alumno/notas`, onboarding con selección de días y fecha
+   objetivo. Páginas `/alumno/plan-estudio` y sección de faltantes en `/alumno/notas`.
+   102/102 tests backend, 32/32 E2E.
 8. ~~Panel de Administrador~~ — **completo (2026-08-13)**: nuevos bounded contexts `admin`
    (login separado del Apoderado, JWT con claim `tipo` propio para que un token nunca sirva
    de credencial del otro) y `comercial` (Planes, Códigos de descuento, cortesías,
@@ -66,7 +68,7 @@ Verificación end-to-end vigente: **51/51 tests de backend, 18/18 E2E de Playwri
    Profesor antes de activarse.
 
 **Orden acordado con el usuario (2026-08-12): Fase 1.2 (✅) → Panel de Administrador (✅) →
-Fase 1.3 → Rol Profesor.**
+Fase 1.3 (✅) → Rol Profesor.**
 
 ## 🟢 Calidad / pulido — no bloquea lanzar, pero se nota
 

@@ -26,6 +26,25 @@ class RepositorioConjuntosSQLModel:
         filas = [self._session.get(ConjuntoORM, cid) for cid in ids]
         return [self._a_lectura(f) for f in filas if f]
 
+    def crear(
+        self,
+        tipo: str,
+        nombre: str,
+        forma: str | None,
+        asignatura_id: int | None,
+        nivel_id: int | None,
+        pregunta_ids: list[int],
+        tiempo_sugerido_min: int | None,
+    ) -> ConjuntoLectura:
+        fila = ConjuntoORM(
+            tipo=tipo, nombre=nombre, forma=forma, asignatura_id=asignatura_id,
+            nivel_id=nivel_id, pregunta_ids=pregunta_ids, tiempo_sugerido_min=tiempo_sugerido_min,
+        )
+        self._session.add(fila)
+        self._session.commit()
+        self._session.refresh(fila)
+        return self._a_lectura(fila)
+
     @staticmethod
     def _a_lectura(fila: ConjuntoORM) -> ConjuntoLectura:
         return ConjuntoLectura(

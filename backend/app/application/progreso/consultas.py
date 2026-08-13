@@ -6,8 +6,16 @@ reciente"), así que sí amerita una clase de aplicación en vez de un pass-thro
 from dataclasses import dataclass
 
 from app.domain.contenido.ports import RepositorioContenido
-from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioIntentos
-from app.domain.progreso.ports import GuiaRevisada, ItemHistorial, NotaPorAsignatura, RepositorioProgreso
+from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
+from app.domain.evaluaciones.value_objects import UMBRAL_SIMULACRO_PARCIAL
+from app.domain.progreso.ports import (
+    CoberturaAsignatura,
+    GuiaRevisada,
+    ItemFaltante,
+    ItemHistorial,
+    NotaPorAsignatura,
+    RepositorioProgreso,
+)
 
 TIPO_PRUEBA_UNIDAD = "prueba_unidad"
 TIPO_EXAMEN_SIMULACRO = "examen_simulacro"
@@ -97,3 +105,75 @@ class ObtenerHistorialYNotas:
                 )
             )
         return resultado
+
+
+@dataclass(frozen=True)
+class ResultadoFaltantes:
+    faltantes: list[ItemFaltante]
+    coberturas: list[CoberturaAsignatura]
+
+
+class ObtenerFaltantes:
+    """Pruebas/exámenes que el alumno aún no rinde, con su estado de habilitación —
+    ver planificacion/13-plan-de-estudio.md, sección "Requisitos adicionales", reglas de
+    habilitación progresiva. Una prueba de unidad se habilita cuando todas las OA que cubre
+    (derivadas de `Pregunta.oa_id`, sin modelar una relación nueva) ya fueron revisadas; un
+    examen simulacro completo (Forma A/B) se habilita al 100% de cobertura de la asignatura."""
+
+    def __init__(
+        self,
+        repositorio_conjuntos: RepositorioConjuntos,
+        repositorio_intentos: RepositorioIntentos,
+        repositorio_preguntas: RepositorioPreguntas,
+        repositorio_contenido: RepositorioContenido,
+        repositorio_progreso: RepositorioProgreso,
+    ):
+        self._repositorio_conjuntos = repositorio_conjuntos
+        self._repositorio_intentos = repositorio_intentos
+        self._repositorio_preguntas = repositorio_preguntas
+        self._repositorio_contenido = repositorio_contenido
+        self._repositorio_progreso = repositorio_progreso
+
+    def ejecutar(self, perfil_alumno_id: int, nivel_id: int) -> ResultadoFaltantes:
+        entregados_ids = {
+            i.conjunto_evaluacion_id for i in self._repositorio_intentos.listar_entregados_por_perfil(perfil_alumno_id)
+        }
+        revisadas = {g.oa_id for g in self._repositorio_progreso.listar_guias_revisadas(perfil_alumno_id)}
+
+        faltantes: list[ItemFaltante] = []
+        coberturas: list[CoberturaAsignatura] = []
+
+        for asignatura in self._repositorio_contenido.listar_asignaturas(nivel_id):
+            oa_ids_asignatura = {oa.id for oa in self._repositorio_contenido.listar_objetivos(asignatura.id)}
+            cobertura = len(oa_ids_asignatura & revisadas) / len(oa_ids_asignatura) if oa_ids_asignatura else 0.0
+
+            for conjunto in self._repositorio_conjuntos.listar_por_asignatura(asignatura.id):
+                if conjunto.id in entregados_ids:
+                    continue
+                if conjunto.tipo == TIPO_PRUEBA_UNIDAD:
+                    oa_de_la_prueba = {
+                        p.oa_id
+                        for p in self._repositorio_preguntas.listar_por_ids(conjunto.pregunta_ids)
+                        if p.oa_id is not None
+                    }
+                    habilitado = oa_de_la_prueba.issubset(revisadas) if oa_de_la_prueba else True
+                else:
+                    habilitado = cobertura >= 1.0
+
+                faltantes.append(
+                    ItemFaltante(
+                        conjunto_id=conjunto.id, tipo=conjunto.tipo, nombre=conjunto.nombre,
+                        asignatura_id=asignatura.id, habilitado=habilitado,
+                    )
+                )
+
+            coberturas.append(
+                CoberturaAsignatura(
+                    asignatura_id=asignatura.id,
+                    asignatura_nombre=asignatura.nombre,
+                    cobertura_pct=round(cobertura * 100, 1),
+                    simulacro_parcial_disponible=cobertura >= UMBRAL_SIMULACRO_PARCIAL,
+                )
+            )
+
+        return ResultadoFaltantes(faltantes=faltantes, coberturas=coberturas)

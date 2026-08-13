@@ -17,16 +17,31 @@ from datetime import datetime
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 
-from app.application.evaluaciones.casos_de_uso import EntregarIntento, IniciarIntento, ObtenerIntento, ResponderPregunta
+from app.application.evaluaciones.casos_de_uso import (
+    EntregarIntento,
+    GenerarSimulacroParcial,
+    IniciarIntento,
+    ObtenerIntento,
+    ResponderPregunta,
+)
 from app.core.deps import (
     get_entregar_intento_uc,
+    get_generar_simulacro_parcial_uc,
     get_iniciar_intento_uc,
     get_obtener_intento_uc,
     get_repositorio_conjuntos,
     get_repositorio_preguntas,
     get_responder_pregunta_uc,
 )
-from app.domain.evaluaciones.exceptions import ConjuntoNoEncontrado, IntentoNoEncontrado, IntentoYaEntregado, PerfilAlumnoNoEncontrado
+from app.domain.evaluaciones.exceptions import (
+    AsignaturaNoEncontrada,
+    ConjuntoNoEncontrado,
+    CoberturaInsuficiente,
+    IntentoNoEncontrado,
+    IntentoYaEntregado,
+    PerfilAlumnoNoEncontrado,
+    SinPreguntasDisponibles,
+)
 from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioPreguntas
 
 router = APIRouter(prefix="/evaluaciones", tags=["evaluaciones"])
@@ -160,6 +175,32 @@ def iniciar_intento(datos: IniciarIntentoRequest, uc: IniciarIntento = Depends(g
         raise HTTPException(status_code=404, detail="Perfil de alumno no encontrado")
     except ConjuntoNoEncontrado:
         raise HTTPException(status_code=404, detail="Prueba/examen no encontrado")
+    return _a_respuesta(intento)
+
+
+class SimulacroParcialRequest(BaseModel):
+    perfil_alumno_id: int
+
+
+@router.post("/simulacro-parcial/{asignatura_id}", response_model=IntentoRespuesta, status_code=201)
+def generar_simulacro_parcial(
+    asignatura_id: int,
+    datos: SimulacroParcialRequest,
+    generar_uc: GenerarSimulacroParcial = Depends(get_generar_simulacro_parcial_uc),
+    iniciar_uc: IniciarIntento = Depends(get_iniciar_intento_uc),
+):
+    """Genera el conjunto dinámico y de inmediato inicia el intento — el frontend solo ve
+    un IntentoRespuesta, igual que POST /evaluaciones/intentos, sin ninguna rama nueva."""
+    try:
+        conjunto = generar_uc.ejecutar(asignatura_id, datos.perfil_alumno_id)
+    except AsignaturaNoEncontrada:
+        raise HTTPException(status_code=404, detail="Asignatura no encontrada")
+    except CoberturaInsuficiente:
+        raise HTTPException(status_code=400, detail="Todavía no cubres suficiente temario para el simulacro parcial")
+    except SinPreguntasDisponibles:
+        raise HTTPException(status_code=400, detail="No hay preguntas disponibles para generar el simulacro parcial")
+
+    intento = iniciar_uc.ejecutar(datos.perfil_alumno_id, conjunto.id)
     return _a_respuesta(intento)
 
 

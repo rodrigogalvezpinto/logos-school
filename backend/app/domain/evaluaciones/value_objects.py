@@ -59,3 +59,8 @@ class PreguntaParaCorreccion:
 
 
 TIPOS_AUTOCORREGIBLES = {"alternativas", "verdadero_falso"}
+
+# Simulacro parcial (Fase 1.3) — se habilita al cubrir la mitad del temario de la
+# asignatura, con hasta 20 preguntas autocorregibles de las OA ya cubiertas.
+UMBRAL_SIMULACRO_PARCIAL = 0.5
+MAX_PREGUNTAS_SIMULACRO_PARCIAL = 20

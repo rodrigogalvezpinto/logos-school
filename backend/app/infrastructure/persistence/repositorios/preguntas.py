@@ -38,4 +38,5 @@ class RepositorioPreguntasSQLModel:
             opciones=fila.opciones,
             respuesta_correcta=fila.respuesta_correcta,
             retroalimentacion=fila.retroalimentacion,
+            oa_id=fila.oa_id,
         )

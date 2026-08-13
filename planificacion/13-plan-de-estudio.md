@@ -1,7 +1,8 @@
 ---
 título: Plan de estudio con horario (Fase 1.3)
-estado: especificación lista para desarrollo (2026-08-12)
-última actualización: 2026-08-12
+estado: ✅ construida (2026-08-13) — cronograma, habilitación progresiva, simulacro
+  parcial y onboarding funcionando. 102/102 tests backend, 32/32 E2E.
+última actualización: 2026-08-13
 ---
 
 ## Problema que resuelve

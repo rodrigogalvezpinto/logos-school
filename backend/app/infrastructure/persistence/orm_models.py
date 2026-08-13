@@ -160,3 +160,27 @@ class ProgresoOA(SQLModel, table=True):
     oa_id: int = Field(foreign_key="objetivo_aprendizaje.id")
     estado: str = "no_iniciado"  # "no_iniciado" | "en_progreso" | "dominado"
     ultimo_intento_fecha: Optional[datetime] = None
+
+
+class PlanDeEstudio(SQLModel, table=True):
+    __tablename__ = "plan_de_estudio"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    perfil_alumno_id: int = Field(foreign_key="perfilalumno.id")
+    dias_por_semana: int
+    dias_elegidos: list[str] = Field(default_factory=list, sa_column=Column(JSON))
+    fecha_inicio: date
+    fecha_objetivo: Optional[date] = None
+
+
+class SesionEstudio(SQLModel, table=True):
+    __tablename__ = "sesion_estudio"
+
+    id: Optional[int] = Field(default=None, primary_key=True)
+    plan_estudio_id: int = Field(foreign_key="plan_de_estudio.id")
+    fecha_programada: date
+    asignatura_id: int = Field(foreign_key="asignatura.id")
+    oa_ids: list[int] = Field(default_factory=list, sa_column=Column(JSON))
+    incluye_prueba_unidad: bool = False
+    # Sin columna `estado` a propósito — se calcula al leer, comparando oa_ids contra las
+    # guías revisadas actuales (ver domain/plan_estudio/entities.py, SesionEstudio.esta_cumplida).

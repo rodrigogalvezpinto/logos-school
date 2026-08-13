@@ -60,7 +60,7 @@ presentaría hoy al examen real" — distinguiendo siempre esa nota de práctica
 realmente indica si aprendió: el resultado del examen simulacro. Ver
 `12-motor-de-evaluacion.md`, sección "Notas por materia y señal real de preparación".
 
-### Fase 1.3 — Plan de estudio con horario
+### Fase 1.3 — Plan de estudio con horario ✅ completa (2026-08-13)
 
 Se agrega la posibilidad de elegir una frecuencia de estudio (3, 4 o 5 días a la semana) y
 la plataforma arma un cronograma que reparte el contenido pendiente en sesiones, para que el

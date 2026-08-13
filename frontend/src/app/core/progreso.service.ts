@@ -32,6 +32,26 @@ export interface Historial {
   notas_por_asignatura: NotaPorAsignatura[];
 }
 
+export interface ItemFaltante {
+  conjunto_id: number;
+  tipo: 'prueba_unidad' | 'examen_simulacro';
+  nombre: string;
+  asignatura_id: number | null;
+  habilitado: boolean;
+}
+
+export interface CoberturaAsignatura {
+  asignatura_id: number;
+  asignatura_nombre: string;
+  cobertura_pct: number;
+  simulacro_parcial_disponible: boolean;
+}
+
+export interface Faltantes {
+  faltantes: ItemFaltante[];
+  coberturas: CoberturaAsignatura[];
+}
+
 @Injectable({ providedIn: 'root' })
 export class ProgresoService {
   private http = inject(HttpClient);
@@ -43,5 +63,11 @@ export class ProgresoService {
 
   marcarGuiaRevisada(perfilAlumnoId: number, oaId: number): Observable<void> {
     return this.http.post<void>(`${this.base}/progreso/${perfilAlumnoId}/guias/${oaId}/revisada`, {});
+  }
+
+  obtenerFaltantes(perfilAlumnoId: number, nivelId: number): Observable<Faltantes> {
+    return this.http.get<Faltantes>(`${this.base}/progreso/${perfilAlumnoId}/faltantes`, {
+      params: { nivel_id: nivelId },
+    });
   }
 }
