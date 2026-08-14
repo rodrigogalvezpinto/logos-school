@@ -1,10 +1,11 @@
 from datetime import date
 
 from fastapi import APIRouter, Depends, HTTPException, Request, status
-from pydantic import BaseModel, EmailStr, field_validator
+from pydantic import BaseModel, EmailStr, Field, field_validator
 
 from app.application.auth.casos_de_uso import (
     AgregarPerfilAlumno,
+    CerrarSesion,
     IniciarSesion,
     IniciarSesionConGoogle,
     ListarPerfilesAlumno,
@@ -13,6 +14,7 @@ from app.application.auth.casos_de_uso import (
 from app.application.comercial.casos_de_uso import IniciarPruebaGratis
 from app.core.deps import (
     get_agregar_perfil_alumno_uc,
+    get_cerrar_sesion_uc,
     get_cuenta_actual,
     get_iniciar_prueba_gratis_uc,
     get_iniciar_sesion_google_uc,
@@ -24,7 +26,14 @@ from app.core.deps import (
 )
 from app.core.limiter import limiter
 from app.domain.auth.entities import Cuenta
-from app.domain.auth.exceptions import CorreoYaRegistrado, CredencialesInvalidas, GoogleLoginNoConfigurado, TokenGoogleInvalido
+from app.domain.auth.exceptions import (
+    CorreoYaRegistrado,
+    CredencialesInvalidas,
+    GoogleLoginNoConfigurado,
+    NivelNoEncontrado,
+    RutYaRegistrado,
+    TokenGoogleInvalido,
+)
 from app.domain.auth.value_objects import Rut
 from app.domain.comercial.exceptions import AlumnoNoEncontrado, PlanNoEncontrado
 from app.domain.comercial.ports import RepositorioPlanes
@@ -34,10 +43,10 @@ router = APIRouter(prefix="/auth", tags=["auth"])
 
 class RegistroApoderado(BaseModel):
     email: EmailStr
-    password: str
-    nombre: str
-    comuna_o_region: str | None = None
-    pais: str | None = None
+    password: str = Field(min_length=8, max_length=128)
+    nombre: str = Field(min_length=1, max_length=120)
+    comuna_o_region: str | None = Field(default=None, max_length=120)
+    pais: str | None = Field(default=None, max_length=120)
 
 
 class LoginApoderado(BaseModel):
@@ -61,10 +70,10 @@ class CuentaRespuesta(BaseModel):
 
 
 class CrearPerfilAlumno(BaseModel):
-    nombre: str
-    apellidos: str
+    nombre: str = Field(min_length=1, max_length=120)
+    apellidos: str = Field(min_length=1, max_length=120)
     fecha_nacimiento: date
-    rut: str
+    rut: str = Field(max_length=20)
     nivel_id: int
 
     @field_validator("rut")
@@ -129,20 +138,35 @@ def yo(cuenta: Cuenta = Depends(get_cuenta_actual)):
     return CuentaRespuesta(id=cuenta.id, email=cuenta.email, nombre=cuenta.nombre)
 
 
+@router.post("/logout", status_code=status.HTTP_204_NO_CONTENT)
+def logout(cuenta: Cuenta = Depends(get_cuenta_actual), uc: CerrarSesion = Depends(get_cerrar_sesion_uc)):
+    """Invalida de inmediato el token actual (y cualquier otro ya emitido para esta
+    cuenta) — sin esto, cerrar sesión en el frontend solo borraba el token localmente,
+    pero seguía siendo una credencial válida en el servidor hasta expirar."""
+    uc.ejecutar(cuenta.id)
+
+
 @router.post("/alumnos", response_model=PerfilAlumnoRespuesta, status_code=status.HTTP_201_CREATED)
 def agregar_alumno(
     datos: CrearPerfilAlumno,
     cuenta: Cuenta = Depends(get_cuenta_actual),
     uc: AgregarPerfilAlumno = Depends(get_agregar_perfil_alumno_uc),
 ):
-    perfil = uc.ejecutar(
-        cuenta_apoderado_id=cuenta.id,
-        nombre=datos.nombre,
-        apellidos=datos.apellidos,
-        fecha_nacimiento=datos.fecha_nacimiento,
-        rut=Rut(datos.rut),
-        nivel_id=datos.nivel_id,
-    )
+    try:
+        perfil = uc.ejecutar(
+            cuenta_apoderado_id=cuenta.id,
+            nombre=datos.nombre,
+            apellidos=datos.apellidos,
+            fecha_nacimiento=datos.fecha_nacimiento,
+            rut=Rut(datos.rut),
+            nivel_id=datos.nivel_id,
+        )
+    except NivelNoEncontrado:
+        raise HTTPException(status_code=404, detail="Nivel no encontrado")
+    except RutYaRegistrado:
+        raise HTTPException(status_code=400, detail="Ya existe un alumno registrado con ese RUT")
+    except ValueError as e:
+        raise HTTPException(status_code=422, detail=str(e))
     return PerfilAlumnoRespuesta(id=perfil.id, nombre=perfil.nombre, apellidos=perfil.apellidos, nivel_id=perfil.nivel_id)
 
 

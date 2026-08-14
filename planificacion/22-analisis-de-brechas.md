@@ -287,6 +287,64 @@ Fase 1.3 (✅) → Rol Profesor (✅). Etapa 1 (MVP) + Etapa 2 completas.**
 
     126/126 tests backend, 43/43 E2E (2 aserciones nuevas fijan estos hallazgos).
 
+## ✅ Auditoría de seguridad + sistema de QA automatizado (2026-08-14)
+
+A pedido explícito del usuario ("necesito que crees algo que me solucione el tener que estar
+yo probando"), se construyó un sistema de QA reusable (ver
+`planificacion/26-qa-sistema-automatizado.md` para el detalle completo) y, al construirlo, se
+encontraron y corrigieron los bugs más serios de toda la sesión — algunos de seguridad real,
+no solo de UX:
+
+**🔴 Crítico — sin autenticación en todo `/evaluaciones/*`.** La matriz de permisos
+automática (`tests/test_matriz_permisos.py`, generada leyendo `app.routes` en vez de una
+lista a mano) encontró que iniciar, responder, obtener y entregar una prueba/examen no
+exigía sesión — cualquiera, sin login, podía manipular la evaluación de cualquier alumno
+adivinando su id. Corregido: los 5 endpoints ahora verifican que el `perfil_alumno_id`
+(directo o vía el `intento_id`) pertenezca a la cuenta autenticada.
+
+**🔴 JWT no se revocaba al cerrar sesión.** "Cerrar sesión" solo borraba el token del
+navegador; el mismo JWT seguía siendo válido en el servidor hasta expirar (12 horas). Se
+agregó `Cuenta.sesion_version` (incrementado en `POST /auth/logout`, embebido en el token y
+verificado en cada request) — un token de una sesión cerrada ahora se rechaza de inmediato.
+
+**🟠 Condición de carrera real en "iniciar intento".** 10 requests simultáneos (doble clic,
+dos pestañas cargando a la vez) creaban hasta 3 intentos activos distintos para la misma
+prueba en vez de reanudar el mismo — confirmado con un test de concurrencia real contra el
+servidor. Corregido con un índice único parcial en la BD (`ix_intento_evaluacion_activo_unico`,
+un solo intento sin terminar por alumno+conjunto) y manejo de la condición de carrera en el
+repositorio.
+
+**🟠 Endpoint que colgaba el servidor entero.** Una contraseña de 200 caracteres al registrar
+una cuenta dejaba el proceso de `uvicorn` completamente colgado (afectaba a *todas* las
+requests, no solo a esa). Causa real: un `NameError` en un fix de validación de longitud sin
+importar `Field`, que rompía el reload de `uvicorn` a medio camino. Corregido, con límites de
+longitud reales en los campos de texto de `auth.py` (contraseña, nombre, apellidos, RUT).
+
+**🟡 Bugs de datos, encontrados con QA semántico de contenido (curso piloto 4° básico
+completo, 195 preguntas).** Ver `26-qa-sistema-automatizado.md` para el detalle: emoji "✅"
+pegado a una alternativa incorrecta (afectaba toda la asignatura de Historia), un glosario
+completo pegado a la retroalimentación de la última pregunta de cada asignatura, y preguntas
+de alternativas reales mostradas como texto libre sin las opciones. Los tres, bugs de
+parsing en `parser_contenido.py` (no de contenido pedagógico — el contenido en sí resultó
+correcto), corregidos con tests de regresión y aplicados a los 12 cursos.
+
+**🟡 Otros bugs de negocio encontrados por fuzzing manual, ya corregidos**: crear un código
+de descuento duplicado reventaba con 500 (ahora 400 limpio); un descuento podía crearse con
+valor negativo o >100%; dos apoderados distintos podían registrar un alumno con el mismo RUT;
+un `nivel_id` inexistente al crear un alumno reventaba con 500; el registro de correo era
+sensible a mayúsculas (permitía cuentas duplicadas de facto); 15 páginas del frontend no
+mostraban ningún error si la API fallaba (se quedaban en "Cargando…" para siempre).
+
+**Sistema construido, para que esto no vuelva a depender de que alguien pruebe a mano**:
+`tests/test_matriz_permisos.py` (corre con el resto del suite, detecta endpoints nuevos sin
+protección solo), `backend/scripts/qa_extraer_para_coherencia.py` (extrae contenido para
+revisión semántica, ya probado en un curso completo), y `scripts/qa_completo.sh` (un solo
+comando: pytest + build + Playwright E2E completo, con resumen final).
+
+**Verificación final**: 250/250 tests backend, 46/46 E2E — corridos de nuevo después de
+reimportar los 12 cursos completos (banco de autoevaluación + pruebas + exámenes) con el
+parser corregido, sin ninguna regresión.
+
 ## Recomendación de orden
 
 Con la Fase 1.1 funcionando de verdad end-to-end y el backend ya en arquitectura hexagonal,

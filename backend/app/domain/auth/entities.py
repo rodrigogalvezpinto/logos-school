@@ -17,6 +17,15 @@ class Cuenta:
     comuna_o_region: str | None = None
     pais: str | None = None
     fecha_creacion: datetime | None = None
+    # Se incrementa al cerrar sesión — un JWT emitido antes queda inválido de inmediato
+    # aunque no haya expirado (ver ServicioTokenJWT y get_cuenta_actual). Sin esto, "cerrar
+    # sesión" solo borraba el token del navegador pero el token seguía siendo válido en el
+    # servidor hasta su expiración natural (bug real encontrado en esta app, con menores de
+    # edad de por medio).
+    sesion_version: int = 0
+
+    def cerrar_todas_las_sesiones(self) -> None:
+        self.sesion_version += 1
 
     @classmethod
     def crear_con_password(
@@ -64,7 +73,10 @@ class PerfilAlumno:
         fecha_nacimiento: date,
         rut: Rut,
         nivel_id: int,
+        hoy: date,
     ) -> "PerfilAlumno":
+        if fecha_nacimiento >= hoy:
+            raise ValueError("La fecha de nacimiento no puede ser hoy ni una fecha futura")
         return cls(
             id=None,
             cuenta_apoderado_id=cuenta_apoderado_id,

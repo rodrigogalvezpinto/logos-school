@@ -8,6 +8,9 @@ import { AdminProfesoresService, CuentaProfesor } from '../../core/admin-profeso
     <h1>Profesores</h1>
     <p class="subtitulo">Revisa y aprueba las cuentas de Profesor antes de que puedan crear cursos.</p>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="tarjeta tabla-envoltorio">
       <table>
         <thead>
@@ -72,11 +75,15 @@ import { AdminProfesoresService, CuentaProfesor } from '../../core/admin-profeso
       .vacio {
         color: var(--texto-secundario);
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class AdminProfesores {
   pendientes = signal<CuentaProfesor[]>([]);
+  error = signal('');
 
   private servicio = inject(AdminProfesoresService);
 
@@ -85,14 +92,25 @@ export class AdminProfesores {
   }
 
   private cargar() {
-    this.servicio.listarPendientes().subscribe((p) => this.pendientes.set(p));
+    this.servicio.listarPendientes().subscribe({
+      next: (p) => this.pendientes.set(p),
+      error: () => this.error.set('No se pudo cargar la lista de profesores pendientes.'),
+    });
   }
 
   aprobar(p: CuentaProfesor) {
-    this.servicio.aprobar(p.id).subscribe(() => this.cargar());
+    this.error.set('');
+    this.servicio.aprobar(p.id).subscribe({
+      next: () => this.cargar(),
+      error: () => this.error.set('No se pudo aprobar al profesor. Intenta de nuevo.'),
+    });
   }
 
   rechazar(p: CuentaProfesor) {
-    this.servicio.rechazar(p.id).subscribe(() => this.cargar());
+    this.error.set('');
+    this.servicio.rechazar(p.id).subscribe({
+      next: () => this.cargar(),
+      error: () => this.error.set('No se pudo rechazar al profesor. Intenta de nuevo.'),
+    });
   }
 }

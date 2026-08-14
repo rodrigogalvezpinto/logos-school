@@ -43,10 +43,13 @@ class FakeVerificadorGoogle:
 
 
 class FakeServicioToken:
-    def generar(self, cuenta_id):
+    def generar(self, cuenta_id, sesion_version=0):
         return f"token-de-{cuenta_id}"
 
     def decodificar(self, token):
+        raise NotImplementedError
+
+    def decodificar_con_version(self, token):
         raise NotImplementedError
 
 

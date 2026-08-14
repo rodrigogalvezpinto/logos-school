@@ -1,7 +1,12 @@
 from datetime import datetime, timedelta
 
 from app.domain.comercial.entities import CodigoDescuento, Plan
-from app.domain.comercial.exceptions import AlumnoNoEncontrado, CodigoDescuentoNoEncontrado, PlanNoEncontrado
+from app.domain.comercial.exceptions import (
+    AlumnoNoEncontrado,
+    CodigoDescuentoDuplicado,
+    CodigoDescuentoNoEncontrado,
+    PlanNoEncontrado,
+)
 from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes, RepositorioSuscripciones
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.shared.reloj import Reloj
@@ -51,6 +56,8 @@ class CrearCodigoDescuento:
     def ejecutar(
         self, codigo: str, tipo: str, valor: int, fecha_vencimiento, usos_maximos: int | None
     ) -> CodigoDescuento:
+        if self._repositorio_descuentos.buscar_por_codigo(codigo):
+            raise CodigoDescuentoDuplicado()
         descuento = CodigoDescuento.crear(codigo, tipo, valor, fecha_vencimiento, usos_maximos)
         return self._repositorio_descuentos.guardar(descuento)
 

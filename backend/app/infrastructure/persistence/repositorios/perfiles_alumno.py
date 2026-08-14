@@ -1,6 +1,7 @@
 from sqlmodel import Session, func, or_, select
 
 from app.domain.auth.entities import PerfilAlumno as PerfilAlumnoDominio
+from app.domain.auth.value_objects import limpiar_rut
 from app.infrastructure.persistence.orm_models import PerfilAlumno as PerfilAlumnoORM
 
 
@@ -25,6 +26,18 @@ class RepositorioPerfilesAlumnoSQLModel:
     def buscar_por_id(self, perfil_id: int) -> PerfilAlumnoDominio | None:
         fila = self._session.get(PerfilAlumnoORM, perfil_id)
         return self._a_dominio(fila) if fila else None
+
+    def buscar_por_rut(self, rut: str) -> PerfilAlumnoDominio | None:
+        # Compara normalizado (sin puntos/guión) para que "21.345.678-4" y "21345678-4"
+        # se detecten como el mismo RUT — la tabla es pequeña (alumnos, no la población de
+        # Chile), así que filtrar en Python es aceptable y evita depender de una función
+        # SQL específica de motor para limpiar el string en la query.
+        objetivo = limpiar_rut(rut)
+        filas = self._session.exec(select(PerfilAlumnoORM)).all()
+        for fila in filas:
+            if limpiar_rut(fila.rut) == objetivo:
+                return self._a_dominio(fila)
+        return None
 
     def listar_por_cuenta(self, cuenta_apoderado_id: int) -> list[PerfilAlumnoDominio]:
         filas = self._session.exec(

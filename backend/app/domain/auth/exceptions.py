@@ -17,3 +17,12 @@ class GoogleLoginNoConfigurado(ErrorDominioAuth):
 
 class TokenGoogleInvalido(ErrorDominioAuth):
     pass
+
+
+class RutYaRegistrado(ErrorDominioAuth):
+    """Ya existe un PerfilAlumno con ese RUT — evita que dos Apoderados distintos (o el
+    mismo, por error) registren dos veces al mismo niño/a."""
+
+
+class NivelNoEncontrado(ErrorDominioAuth):
+    pass

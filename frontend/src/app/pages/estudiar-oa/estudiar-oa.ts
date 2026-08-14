@@ -21,6 +21,8 @@ import { MarkdownPipe } from '../../shared/markdown.pipe';
       <div class="tarjeta bloque contenido-guia" [innerHTML]="oa.contenido_guia | markdown"></div>
 
       <a [routerLink]="['/alumno/autoevaluacion', oa.id]" class="btn btn--primario btn--grande">Practicar este tema</a>
+    } @else if (error()) {
+      <p class="error-carga">{{ error() }}</p>
     } @else {
       <p>Cargando…</p>
     }
@@ -84,12 +86,16 @@ import { MarkdownPipe } from '../../shared/markdown.pipe';
       .contenido-guia ::ng-deep strong {
         font-weight: 700;
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class EstudiarOa {
   @Input() oaId = '';
   objetivo = signal<ObjetivoRespuesta | null>(null);
+  error = signal('');
 
   private contenido = inject(ContenidoService);
   private progreso = inject(ProgresoService);
@@ -97,7 +103,10 @@ export class EstudiarOa {
   private location = inject(Location);
 
   ngOnInit() {
-    this.contenido.obtenerObjetivo(Number(this.oaId)).subscribe((oa) => this.objetivo.set(oa));
+    this.contenido.obtenerObjetivo(Number(this.oaId)).subscribe({
+      next: (oa) => this.objetivo.set(oa),
+      error: () => this.error.set('No se pudo cargar la guía. Intenta recargar la página.'),
+    });
 
     const perfil = this.sesion.perfilActivo();
     if (perfil) {

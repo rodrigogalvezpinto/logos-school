@@ -17,10 +17,13 @@ import { SesionService } from '../../core/sesion.service';
         [resultadoPrevio]="resultadoPrevio()"
         [rutaSalida]="['/alumno/evaluaciones']"
       />
+    } @else if (error()) {
+      <p class="error-carga">{{ error() }}</p>
     } @else {
       <p>Cargando…</p>
     }
   `,
+  styles: [`.error-carga { color: var(--color-error); padding: 2rem; }`],
 })
 export class PruebaUnidad {
   @Input() id = '';
@@ -28,6 +31,7 @@ export class PruebaUnidad {
   preguntas = signal<PreguntaRunner[]>([]);
   intentoId = signal<number | null>(null);
   resultadoPrevio = signal<{ puntaje: number | null; nota: number | null } | null>(null);
+  error = signal('');
 
   private evaluaciones = inject(EvaluacionesService);
   private sesion = inject(SesionService);
@@ -36,15 +40,21 @@ export class PruebaUnidad {
     const perfil = this.sesion.perfilActivo();
     if (!perfil) return;
 
-    this.evaluaciones.obtenerConjunto(Number(this.id), perfil.id).subscribe((c) => {
-      this.conjunto.set(c);
-      this.preguntas.set(c.preguntas);
+    this.evaluaciones.obtenerConjunto(Number(this.id), perfil.id).subscribe({
+      next: (c) => {
+        this.conjunto.set(c);
+        this.preguntas.set(c.preguntas);
+      },
+      error: () => this.error.set('No se pudo cargar la prueba. Intenta recargar la página.'),
     });
-    this.evaluaciones.iniciarIntento(perfil.id, Number(this.id)).subscribe((intento) => {
-      this.intentoId.set(intento.id);
-      if (intento.fecha_termino) {
-        this.resultadoPrevio.set({ puntaje: intento.puntaje, nota: intento.nota });
-      }
+    this.evaluaciones.iniciarIntento(perfil.id, Number(this.id)).subscribe({
+      next: (intento) => {
+        this.intentoId.set(intento.id);
+        if (intento.fecha_termino) {
+          this.resultadoPrevio.set({ puntaje: intento.puntaje, nota: intento.nota });
+        }
+      },
+      error: () => this.error.set('No se pudo iniciar tu intento. Intenta recargar la página.'),
     });
   }
 }

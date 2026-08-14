@@ -22,14 +22,14 @@ def _preparar_contenido(session):
     return nivel, asignatura
 
 
-def _crear_apoderado_con_alumno(client, nivel_id, email="familia.plan@test.cl"):
+def _crear_apoderado_con_alumno(client, nivel_id, email="familia.plan@test.cl", rut="21.345.678-4"):
     token = client.post(
         "/auth/registro", json={"email": email, "password": "ClaveSegura123", "nombre": "Apoderado Test"}
     ).json()["access_token"]
     headers = {"Authorization": f"Bearer {token}"}
     r = client.post(
         "/auth/alumnos", headers=headers,
-        json={"nombre": "Sofía", "apellidos": "Pérez", "fecha_nacimiento": "2016-03-12", "rut": "21.345.678-4", "nivel_id": nivel_id},
+        json={"nombre": "Sofía", "apellidos": "Pérez", "fecha_nacimiento": "2016-03-12", "rut": rut, "nivel_id": nivel_id},
     )
     return headers, r.json()["id"]
 
@@ -114,7 +114,7 @@ def test_crear_plan_reemplaza_el_anterior(client, session):
 def test_un_apoderado_no_puede_crear_plan_para_un_perfil_ajeno(client, session):
     nivel, asignatura = _preparar_contenido(session)
     _, perfil_id_de_a = _crear_apoderado_con_alumno(client, nivel.id, email="a@test.cl")
-    headers_b, _ = _crear_apoderado_con_alumno(client, nivel.id, email="b@test.cl")
+    headers_b, _ = _crear_apoderado_con_alumno(client, nivel.id, email="b@test.cl", rut="22.222.222-2")
 
     r = client.post(
         f"/plan-estudio/{perfil_id_de_a}",

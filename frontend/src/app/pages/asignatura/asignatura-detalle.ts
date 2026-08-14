@@ -16,6 +16,9 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
       </div>
     </div>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="lista-oa">
       @for (oa of objetivos(); track oa.id) {
         <div class="oa-card tarjeta">
@@ -86,16 +89,23 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
           align-items: flex-start;
         }
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class AsignaturaDetalle {
   @Input() id = '';
   objetivos = signal<ObjetivoRespuesta[]>([]);
+  error = signal('');
 
   private contenido = inject(ContenidoService);
 
   ngOnInit() {
-    this.contenido.listarObjetivos(Number(this.id)).subscribe((objs) => this.objetivos.set(objs));
+    this.contenido.listarObjetivos(Number(this.id)).subscribe({
+      next: (objs) => this.objetivos.set(objs),
+      error: () => this.error.set('No se pudieron cargar los objetivos de esta asignatura. Intenta recargar la página.'),
+    });
   }
 }

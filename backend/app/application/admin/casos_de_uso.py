@@ -15,7 +15,7 @@ class IniciarSesionAdmin:
         self._servicio_token = servicio_token
 
     def ejecutar(self, email: str, password: str) -> str:
-        cuenta = self._repositorio_cuentas_admin.buscar_por_email(email)
+        cuenta = self._repositorio_cuentas_admin.buscar_por_email(email.strip().lower())
         if not cuenta or not self._hasheador.verificar(password, cuenta.password_hash):
             raise CredencialesAdminInvalidas()
         return self._servicio_token.generar_admin(cuenta.id)

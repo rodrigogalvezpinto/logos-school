@@ -18,6 +18,11 @@ import re
 from dataclasses import dataclass, field
 
 RE_EJE = re.compile(r"^##\s+Eje\s+\d+\s*[:\-]?\s*(.+)$")
+# El glosario, al final del archivo, no tiene un heading de Eje/OA después que cierre el
+# bloque de preguntas anterior — sin este marcador, todo su texto quedaba pegado a la
+# retroalimentación de la última pregunta del archivo (bug real encontrado con QA de
+# coherencia: la última pregunta de cada asignatura mostraba el glosario completo).
+RE_GLOSARIO_HEADING = re.compile(r"^##\s+Glosario\b", re.IGNORECASE)
 RE_OA_HEADING = re.compile(r"^(##|###)\s+OA\s*N?°?\s*(\d+)\s*[:\-—]*\s*(.*)$", re.IGNORECASE)
 RE_AUTOEVAL_HEADING = re.compile(r"^(##|###|####)\s+.*autoevaluaci[oó]n.*$", re.IGNORECASE)
 RE_AUTOEVAL_BOLD_PARRAFO = re.compile(r"^\*\*.*autoevaluaci[oó]n.*\*\*$", re.IGNORECASE)
@@ -29,7 +34,7 @@ RE_Q_START = re.compile(
 )
 RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_RESPUESTA_MARCA = re.compile(
-    r"(?i)Respuesta\s+(?:correcta|esperada)\**:?\**\s*"
+    r"(?i)[^\w\s]{0,2}\s*Respuesta\s+(?:correcta|esperada)\**:?\**\s*"
 )
 ## Algunos archivos anteponen un emoji de viñeta ("💬 Retroalimentación:") en su propia
 # línea, justo después de la respuesta — sin el `[^\w\s]{0,2}\s*` inicial, ese emoji queda
@@ -136,7 +141,13 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
                 respuesta_correcta = "Verdadero"
             elif "falso" in respuesta_baja or respuesta_baja.startswith("false"):
                 respuesta_correcta = "Falso"
-        elif tipo == "alternativas" and opciones:
+        elif opciones:
+            # El rótulo del autor a veces no dice "(Alternativas)" — usa etiquetas como
+            # "(reconocer la operación)" — pero el cuerpo sí tiene opciones a)/b)/c)/d)
+            # reales. Se clasifica por lo que la pregunta realmente tiene, no por el
+            # rótulo (bug real: quedaba como "desarrollo_breve" sin mostrar nunca las
+            # alternativas al alumno, con la respuesta pegada tal cual "b) Sustracción").
+            tipo = "alternativas"
             opciones_finales = opciones
         else:
             opciones_finales = None
@@ -180,6 +191,13 @@ def parsear_guia(texto: str) -> list[ObjetivoParseado]:
         objetivos.append(oa_actual)
 
     for linea in lineas:
+        if RE_GLOSARIO_HEADING.match(linea):
+            cerrar_oa()
+            oa_actual = None
+            guia_buffer, preguntas_buffer = [], []
+            en_bloque_preguntas = False
+            continue
+
         eje_m = RE_EJE.match(linea)
         if eje_m:
             cerrar_oa()

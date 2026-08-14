@@ -122,6 +122,26 @@ def test_un_profesor_no_puede_tocar_el_curso_de_otro(client, session):
     r = client.get(f"/profesor/cursos/{curso_id}/progreso", headers=headers_profesor_2)
     assert r.status_code == 403
 
+    r = client.post(
+        f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor_2,
+        json={"titulo": "x", "cuerpo": "y"},
+    )
+    assert r.status_code == 403
+
+
+def test_operaciones_sobre_curso_inexistente_dan_404(client, session):
+    nivel = _crear_nivel(session)
+    headers_profesor = _profesor_aprobado(client, session)
+    _, perfil_id = _alumno_de_apoderado(client, nivel.id)
+
+    assert client.post(f"/profesor/cursos/99999/alumnos/{perfil_id}", headers=headers_profesor).status_code == 404
+    assert client.get("/profesor/cursos/99999/progreso", headers=headers_profesor).status_code == 404
+    r = client.post(
+        "/profesor/cursos/99999/comunicados", headers=headers_profesor,
+        json={"titulo": "x", "cuerpo": "y"},
+    )
+    assert r.status_code == 404
+
 
 def test_progreso_de_curso_trae_notas_reales(client, session):
     nivel = _crear_nivel(session)

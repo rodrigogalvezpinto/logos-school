@@ -6,8 +6,14 @@ import re
 from dataclasses import dataclass
 
 
-def _limpiar(rut: str) -> str:
+def limpiar_rut(rut: str) -> str:
+    """Normaliza un RUT a solo dígitos + dígito verificador en mayúscula, sin puntos ni
+    guión — así "21.345.678-4" y "21345678-4" se reconocen como el mismo RUT al comparar,
+    aunque se sigan guardando/mostrando con el formato que el usuario ingresó."""
     return re.sub(r"[.\-\s]", "", rut).upper()
+
+
+_limpiar = limpiar_rut
 
 
 def _digito_verificador(cuerpo: str) -> str:

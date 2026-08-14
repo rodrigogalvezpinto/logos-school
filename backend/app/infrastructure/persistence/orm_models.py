@@ -5,7 +5,7 @@ y las extensiones de planificacion/18-panel-administrador.md (Plan/Suscripcion/C
 from datetime import datetime, date, timezone
 from typing import Optional
 
-from sqlalchemy import Column, JSON
+from sqlalchemy import Column, Index, JSON, text
 from sqlmodel import Field, SQLModel
 
 
@@ -24,6 +24,7 @@ class Cuenta(SQLModel, table=True):
     comuna_o_region: Optional[str] = None
     pais: Optional[str] = None
     fecha_creacion: datetime = Field(default_factory=_ahora_utc)
+    sesion_version: int = Field(default=0)
 
 
 class CuentaAdmin(SQLModel, table=True):
@@ -160,6 +161,20 @@ class ConjuntoEvaluacion(SQLModel, table=True):
 
 class IntentoEvaluacion(SQLModel, table=True):
     __tablename__ = "intento_evaluacion"
+    __table_args__ = (
+        # Como máximo un intento SIN terminar por (alumno, conjunto) — sin esto, dos
+        # requests simultáneos a "iniciar intento" (doble clic, dos pestañas cargando a
+        # la vez) podían crear dos intentos activos distintos para la misma prueba, en
+        # vez de reanudar el mismo (bug real encontrado con un test de concurrencia:
+        # 10 requests simultáneos crearon 3 intentos en vez de 1).
+        Index(
+            "ix_intento_evaluacion_activo_unico",
+            "perfil_alumno_id",
+            "conjunto_evaluacion_id",
+            unique=True,
+            postgresql_where=text("fecha_termino IS NULL"),
+        ),
+    )
 
     id: Optional[int] = Field(default=None, primary_key=True)
     perfil_alumno_id: int = Field(foreign_key="perfilalumno.id")

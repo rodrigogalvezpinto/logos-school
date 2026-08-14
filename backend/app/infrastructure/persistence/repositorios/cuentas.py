@@ -41,6 +41,7 @@ class RepositorioCuentasSQLModel:
             fila.google_id = cuenta.google_id
             fila.comuna_o_region = cuenta.comuna_o_region
             fila.pais = cuenta.pais
+            fila.sesion_version = cuenta.sesion_version
         self._session.add(fila)
         self._session.commit()
         self._session.refresh(fila)
@@ -60,4 +61,5 @@ class RepositorioCuentasSQLModel:
             comuna_o_region=fila.comuna_o_region,
             pais=fila.pais,
             fecha_creacion=fila.fecha_creacion,
+            sesion_version=fila.sesion_version,
         )

@@ -10,6 +10,9 @@ import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
     <h1>Progreso por Alumno</h1>
     <p class="subtitulo">Elige un alumno para ver su historial y notas por materia.</p>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="grid">
       @for (alumno of alumnos(); track alumno.id) {
         <a class="tarjeta alumno-card" [routerLink]="['/apoderado/progreso', alumno.id]">
@@ -61,15 +64,22 @@ import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
       .alumno-card h3 {
         margin: 0;
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class ProgresoAlumno {
   alumnos = signal<PerfilAlumnoRespuesta[]>([]);
+  error = signal('');
 
   private auth = inject(AuthService);
 
   constructor() {
-    this.auth.listarAlumnos().subscribe((alumnos) => this.alumnos.set(alumnos));
+    this.auth.listarAlumnos().subscribe({
+      next: (alumnos) => this.alumnos.set(alumnos),
+      error: () => this.error.set('No se pudo cargar la lista de alumnos. Intenta recargar la página.'),
+    });
   }
 }

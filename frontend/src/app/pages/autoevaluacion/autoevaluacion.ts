@@ -14,18 +14,25 @@ import { EvaluacionesService } from '../../core/evaluaciones.service';
         [preguntas]="preguntas()"
         [rutaSalida]="['/alumno/asignaturas']"
       />
+    } @else if (error()) {
+      <p class="error-carga">{{ error() }}</p>
     } @else {
       <p>Cargando…</p>
     }
   `,
+  styles: [`.error-carga { color: var(--color-error); }`],
 })
 export class Autoevaluacion {
   @Input() oaId = '';
   preguntas = signal<PreguntaRunner[]>([]);
+  error = signal('');
 
   private evaluaciones = inject(EvaluacionesService);
 
   ngOnInit() {
-    this.evaluaciones.obtenerAutoevaluacion(Number(this.oaId)).subscribe((preguntas) => this.preguntas.set(preguntas));
+    this.evaluaciones.obtenerAutoevaluacion(Number(this.oaId)).subscribe({
+      next: (preguntas) => this.preguntas.set(preguntas),
+      error: () => this.error.set('No se pudo cargar la práctica. Intenta recargar la página.'),
+    });
   }
 }

@@ -25,14 +25,19 @@ from app.application.evaluaciones.casos_de_uso import (
     ResponderPregunta,
 )
 from app.core.deps import (
+    get_cuenta_actual,
     get_entregar_intento_uc,
     get_generar_simulacro_parcial_uc,
     get_iniciar_intento_uc,
     get_obtener_intento_uc,
     get_repositorio_conjuntos,
+    get_repositorio_intentos,
+    get_repositorio_perfiles_alumno,
     get_repositorio_preguntas,
     get_responder_pregunta_uc,
 )
+from app.domain.auth.entities import Cuenta
+from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.evaluaciones.exceptions import (
     AsignaturaNoEncontrada,
     ConjuntoNoEncontrado,
@@ -42,10 +47,33 @@ from app.domain.evaluaciones.exceptions import (
     PerfilAlumnoNoEncontrado,
     SinPreguntasDisponibles,
 )
-from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioPreguntas
+from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
 from app.domain.evaluaciones.value_objects import mezclar_orden_al_azar, mezclar_orden_estable
 
 router = APIRouter(prefix="/evaluaciones", tags=["evaluaciones"])
+
+
+def _verificar_perfil_propio(perfil_alumno_id: int, cuenta: Cuenta, repositorio: RepositorioPerfilesAlumno) -> None:
+    """Bug de seguridad real encontrado con una matriz de permisos automática: todo este
+    router no exigía sesión — cualquiera, sin login, podía iniciar/responder/entregar la
+    evaluación de cualquier alumno con solo adivinar su id. Se exige sesión de Apoderado
+    y que el perfil pertenezca a esa cuenta, igual que ya hace `verificar_perfil_propio`
+    en progreso.py/plan_estudio.py (acá no se puede reusar tal cual porque el id viene del
+    body, no de la ruta)."""
+    perfil = repositorio.buscar_por_id(perfil_alumno_id)
+    if perfil is None:
+        raise HTTPException(status_code=404, detail="Perfil de alumno no encontrado")
+    if perfil.cuenta_apoderado_id != cuenta.id:
+        raise HTTPException(status_code=403, detail="Ese perfil no pertenece a tu cuenta")
+
+
+def _verificar_intento_propio(
+    intento_id: int, cuenta: Cuenta, repo_intentos: RepositorioIntentos, repo_perfiles: RepositorioPerfilesAlumno
+) -> None:
+    intento = repo_intentos.buscar_por_id(intento_id)
+    if intento is None:
+        raise HTTPException(status_code=404, detail="Intento no encontrado")
+    _verificar_perfil_propio(intento.perfil_alumno_id, cuenta, repo_perfiles)
 
 
 class PreguntaAutoevaluacion(BaseModel):
@@ -177,7 +205,13 @@ def _a_respuesta(intento) -> IntentoRespuesta:
 
 
 @router.post("/intentos", response_model=IntentoRespuesta, status_code=201)
-def iniciar_intento(datos: IniciarIntentoRequest, uc: IniciarIntento = Depends(get_iniciar_intento_uc)):
+def iniciar_intento(
+    datos: IniciarIntentoRequest,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: IniciarIntento = Depends(get_iniciar_intento_uc),
+    repo_perfiles: RepositorioPerfilesAlumno = Depends(get_repositorio_perfiles_alumno),
+):
+    _verificar_perfil_propio(datos.perfil_alumno_id, cuenta, repo_perfiles)
     try:
         intento = uc.ejecutar(datos.perfil_alumno_id, datos.conjunto_evaluacion_id)
     except PerfilAlumnoNoEncontrado:
@@ -195,11 +229,14 @@ class SimulacroParcialRequest(BaseModel):
 def generar_simulacro_parcial(
     asignatura_id: int,
     datos: SimulacroParcialRequest,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
     generar_uc: GenerarSimulacroParcial = Depends(get_generar_simulacro_parcial_uc),
     iniciar_uc: IniciarIntento = Depends(get_iniciar_intento_uc),
+    repo_perfiles: RepositorioPerfilesAlumno = Depends(get_repositorio_perfiles_alumno),
 ):
     """Genera el conjunto dinámico y de inmediato inicia el intento — el frontend solo ve
     un IntentoRespuesta, igual que POST /evaluaciones/intentos, sin ninguna rama nueva."""
+    _verificar_perfil_propio(datos.perfil_alumno_id, cuenta, repo_perfiles)
     try:
         conjunto = generar_uc.ejecutar(asignatura_id, datos.perfil_alumno_id)
     except AsignaturaNoEncontrada:
@@ -214,7 +251,14 @@ def generar_simulacro_parcial(
 
 
 @router.get("/intentos/{intento_id}", response_model=IntentoRespuesta)
-def obtener_intento(intento_id: int, uc: ObtenerIntento = Depends(get_obtener_intento_uc)):
+def obtener_intento(
+    intento_id: int,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: ObtenerIntento = Depends(get_obtener_intento_uc),
+    repo_intentos: RepositorioIntentos = Depends(get_repositorio_intentos),
+    repo_perfiles: RepositorioPerfilesAlumno = Depends(get_repositorio_perfiles_alumno),
+):
+    _verificar_intento_propio(intento_id, cuenta, repo_intentos, repo_perfiles)
     try:
         intento = uc.ejecutar(intento_id)
     except IntentoNoEncontrado:
@@ -229,8 +273,14 @@ class ResponderPreguntaRequest(BaseModel):
 
 @router.patch("/intentos/{intento_id}/responder", response_model=IntentoRespuesta)
 def responder_pregunta(
-    intento_id: int, datos: ResponderPreguntaRequest, uc: ResponderPregunta = Depends(get_responder_pregunta_uc)
+    intento_id: int,
+    datos: ResponderPreguntaRequest,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: ResponderPregunta = Depends(get_responder_pregunta_uc),
+    repo_intentos: RepositorioIntentos = Depends(get_repositorio_intentos),
+    repo_perfiles: RepositorioPerfilesAlumno = Depends(get_repositorio_perfiles_alumno),
 ):
+    _verificar_intento_propio(intento_id, cuenta, repo_intentos, repo_perfiles)
     try:
         intento = uc.ejecutar(intento_id, datos.pregunta_id, datos.respuesta)
     except IntentoNoEncontrado:
@@ -241,7 +291,14 @@ def responder_pregunta(
 
 
 @router.post("/intentos/{intento_id}/entregar", response_model=IntentoRespuesta)
-def entregar_intento(intento_id: int, uc: EntregarIntento = Depends(get_entregar_intento_uc)):
+def entregar_intento(
+    intento_id: int,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: EntregarIntento = Depends(get_entregar_intento_uc),
+    repo_intentos: RepositorioIntentos = Depends(get_repositorio_intentos),
+    repo_perfiles: RepositorioPerfilesAlumno = Depends(get_repositorio_perfiles_alumno),
+):
+    _verificar_intento_propio(intento_id, cuenta, repo_intentos, repo_perfiles)
     try:
         intento = uc.ejecutar(intento_id)
     except IntentoNoEncontrado:

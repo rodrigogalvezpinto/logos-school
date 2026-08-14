@@ -130,3 +130,109 @@ def test_opcion_que_se_ajusta_a_dos_lineas_no_contamina_el_enunciado():
     assert pregunta.enunciado == "¿Cuál de las siguientes NO corresponde a una de ellas?"
     assert pregunta.opciones[1] == "Predecir con exactitud eventos futuros mediante experimentos controlados."
     assert pregunta.respuesta_correcta == pregunta.opciones[1]
+
+
+TEXTO_EMOJI_ANTES_DE_RESPUESTA = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (Alternativas)** ¿En qué cordillera se desarrolló el imperio inca?
+
+a) Alpes
+b) Andes
+c) Himalaya
+d) Montes Urales
+
+✅ Respuesta correcta: **b) Andes**
+💬 *Retroalimentación:* los incas se desarrollaron en la cordillera de los Andes.
+"""
+
+
+def test_emoji_antes_de_respuesta_correcta_no_contamina_la_ultima_opcion():
+    """Bug real de seguridad de contenido (encontrado con QA de coherencia, 2026-08-14,
+    curso 4° básico completo): a diferencia de RE_RETRO_MARCA y RE_PAUTA_MARCA,
+    RE_RESPUESTA_MARCA no toleraba un emoji de viñeta ("✅ Respuesta correcta:") antes del
+    marcador — el "✅ " quedaba pegado a la ÚLTIMA opción vista ("Montes Urales ✅"),
+    mostrando una alternativa incorrecta marcada con un check visualmente confuso.
+    Afectaba de forma sistemática TODA la asignatura de Historia de 4° básico."""
+    objetivos = parsear_guia(TEXTO_EMOJI_ANTES_DE_RESPUESTA)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.opciones == ["Alpes", "Andes", "Himalaya", "Montes Urales"]
+    assert "✅" not in pregunta.opciones[-1]
+    assert pregunta.respuesta_correcta == "Andes"
+
+
+TEXTO_CON_GLOSARIO = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (Verdadero o Falso)** El agua moja.
+
+**Respuesta correcta:** Verdadero.
+**Retroalimentación:** el agua es un líquido.
+
+## Glosario
+
+- Líquido: estado de la materia que fluye y toma la forma de su recipiente.
+- Sólido: estado de la materia que mantiene su forma.
+"""
+
+
+def test_glosario_al_final_del_archivo_no_contamina_la_ultima_pregunta():
+    """Bug real (encontrado con QA de coherencia, 2026-08-14): el glosario al final del
+    archivo no tiene un heading de Eje/OA después que cierre el bloque de preguntas
+    anterior, así que todo su texto quedaba pegado a la retroalimentación de la ÚLTIMA
+    pregunta de cada asignatura — un alumno viendo el resultado de esa pregunta se
+    encontraba con un diccionario completo de 15-20 términos pegado a la explicación."""
+    objetivos = parsear_guia(TEXTO_CON_GLOSARIO)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.retroalimentacion == "el agua es un líquido."
+    assert "Glosario" not in pregunta.retroalimentacion
+    assert "Líquido:" not in pregunta.retroalimentacion
+
+
+TEXTO_ETIQUETA_NO_ALTERNATIVAS_CON_OPCIONES_REALES = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (reconocer la operación).** Pedro tenía $850 y gastó $320. ¿Qué operación permite
+saber cuánto dinero le queda?
+
+a) Adición
+b) Sustracción
+c) Multiplicación
+d) División
+
+**Respuesta correcta: b) Sustracción.**
+**Retroalimentación:** "le queda" indica una resta.
+"""
+
+
+def test_etiqueta_no_alternativas_con_opciones_reales_se_reclasifica_como_alternativas():
+    """Bug real de contenido (encontrado con QA de coherencia, 2026-08-14, asignatura
+    Matemática de 4° básico): varias preguntas rotuladas con una etiqueta distinta a
+    "(Alternativas)" (ej. "(reconocer la operación)") SÍ tenían opciones a)/b)/c)/d)
+    reales en el cuerpo, pero `_clasificar_tipo` solo mira el texto del rótulo y las
+    dejaba como "desarrollo_breve" — el alumno nunca veía las alternativas, solo un
+    campo de texto libre, con la "respuesta esperada" mostrando el fragmento sin sentido
+    "b) Sustracción" en vez de una explicación completa."""
+    objetivos = parsear_guia(TEXTO_ETIQUETA_NO_ALTERNATIVAS_CON_OPCIONES_REALES)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.tipo == "alternativas"
+    assert pregunta.opciones == ["Adición", "Sustracción", "Multiplicación", "División"]
+    assert pregunta.respuesta_correcta == "Sustracción"

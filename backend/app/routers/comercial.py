@@ -29,7 +29,12 @@ from app.core.deps import (
     get_repositorio_descuentos,
     get_repositorio_planes,
 )
-from app.domain.comercial.exceptions import AlumnoNoEncontrado, CodigoDescuentoNoEncontrado, PlanNoEncontrado
+from app.domain.comercial.exceptions import (
+    AlumnoNoEncontrado,
+    CodigoDescuentoDuplicado,
+    CodigoDescuentoNoEncontrado,
+    PlanNoEncontrado,
+)
 from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes
 
 router = APIRouter(prefix="/admin", tags=["comercial"], dependencies=[Depends(get_cuenta_admin_actual)])
@@ -140,7 +145,12 @@ def listar_descuentos(repositorio: RepositorioDescuentos = Depends(get_repositor
 
 @router.post("/descuentos", response_model=DescuentoRespuesta, status_code=201)
 def crear_descuento(datos: CrearDescuentoRequest, uc: CrearCodigoDescuento = Depends(get_crear_codigo_descuento_uc)):
-    descuento = uc.ejecutar(datos.codigo, datos.tipo, datos.valor, datos.fecha_vencimiento, datos.usos_maximos)
+    try:
+        descuento = uc.ejecutar(datos.codigo, datos.tipo, datos.valor, datos.fecha_vencimiento, datos.usos_maximos)
+    except CodigoDescuentoDuplicado:
+        raise HTTPException(status_code=400, detail="Ya existe un código de descuento con ese código")
+    except ValueError as e:
+        raise HTTPException(status_code=422, detail=str(e))
     return _descuento_a_respuesta(descuento)
 
 

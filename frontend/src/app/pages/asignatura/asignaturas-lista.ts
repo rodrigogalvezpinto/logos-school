@@ -12,6 +12,9 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
     <h1>Mis Asignaturas</h1>
     <p class="subtitulo">El temario oficial completo, organizado por Objetivo de Aprendizaje.</p>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="grid-asignaturas">
       @for (asig of asignaturas(); track asig.id) {
         <a class="asignatura-card tarjeta" [routerLink]="['/alumno/asignaturas', asig.id]">
@@ -54,11 +57,15 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
           grid-template-columns: 1fr;
         }
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class AsignaturasLista {
   asignaturas = signal<AsignaturaRespuesta[]>([]);
+  error = signal('');
 
   private contenido = inject(ContenidoService);
   private sesion = inject(SesionService);
@@ -66,7 +73,10 @@ export class AsignaturasLista {
   constructor() {
     const perfil = this.sesion.perfilActivo();
     if (perfil) {
-      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asigs) => this.asignaturas.set(asigs));
+      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe({
+        next: (asigs) => this.asignaturas.set(asigs),
+        error: () => this.error.set('No se pudieron cargar tus asignaturas. Intenta recargar la página.'),
+      });
     }
   }
 }

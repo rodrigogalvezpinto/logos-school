@@ -27,6 +27,20 @@ def test_registro_duplicado_falla(client):
     assert r.status_code == 400
 
 
+def test_registro_profesor_es_insensible_a_mayusculas_en_el_correo(client):
+    client.post("/profesor/auth/registro", json={"email": "profmayus@test.cl", "password": "ClaveProfe123", "nombre": "P"})
+    r = client.post("/profesor/auth/registro", json={"email": "PROFMAYUS@TEST.CL", "password": "ClaveProfe123", "nombre": "P2"})
+    assert r.status_code == 400
+
+
+def test_login_admin_es_insensible_a_mayusculas_en_el_correo(client, session):
+    cuenta = CuentaAdmin(email="adminmayus@logos.cl", nombre="Admin", password_hash=HasheadorPasswordBcrypt().hashear("ClaveAdmin123"))
+    session.add(cuenta)
+    session.commit()
+    r = client.post("/admin/auth/login", json={"email": "AdminMayus@Logos.CL", "password": "ClaveAdmin123"})
+    assert r.status_code == 200
+
+
 def test_login_profesor_correcto(client):
     client.post("/profesor/auth/registro", json={"email": "prof3@test.cl", "password": "ClaveProfe123", "nombre": "Profe Test"})
     r = client.post("/profesor/auth/login", json={"email": "prof3@test.cl", "password": "ClaveProfe123"})

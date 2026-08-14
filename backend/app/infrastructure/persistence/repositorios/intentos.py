@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
 
+from sqlalchemy.exc import IntegrityError
 from sqlmodel import Session, select
 
 from app.domain.evaluaciones.entities import IntentoEvaluacion as IntentoDominio
@@ -57,7 +58,19 @@ class RepositorioIntentosSQLModel:
             fila.nota = intento.nota
             fila.tiempo_usado_seg = intento.tiempo_usado_seg
         self._session.add(fila)
-        self._session.commit()
+        try:
+            self._session.commit()
+        except IntegrityError:
+            # Condición de carrera: otro request ganó la creación del intento activo
+            # para este (alumno, conjunto) entre el "buscar_activo" y este "guardar" del
+            # caso de uso (ver índice único parcial en IntentoEvaluacion.__table_args__).
+            # En vez de propagar un 500, se devuelve ese intento — es exactamente lo que
+            # IniciarIntento habría devuelto si hubiera llegado un instante después.
+            self._session.rollback()
+            existente = self.buscar_activo(intento.perfil_alumno_id, intento.conjunto_evaluacion_id)
+            if existente:
+                return existente
+            raise
         self._session.refresh(fila)
         return self._a_dominio(fila)
 

@@ -1,4 +1,6 @@
-import { Injectable, signal } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Injectable, inject, signal } from '@angular/core';
+import { environment } from '../../environments/environment';
 
 export interface PerfilAlumnoActivo {
   id: number;
@@ -29,6 +31,8 @@ export class SesionService {
   perfilActivo = signal<PerfilAlumnoActivo | null>(leerPerfilGuardado());
   nombreApoderado = signal<string>(localStorage.getItem(CLAVE_NOMBRE_APODERADO) || '');
 
+  private http = inject(HttpClient);
+
   constructor() {
     // Mantiene localStorage sincronizado con cualquier cambio futuro de los signals.
   }
@@ -44,6 +48,13 @@ export class SesionService {
   }
 
   cerrarSesion() {
+    // Invalida el token en el servidor (fire-and-forget: si falla por red, igual se
+    // borra localmente — no vale la pena bloquear el logout local por eso). Sin este
+    // llamado, el token seguía siendo una credencial válida en el servidor hasta
+    // expirar (hasta 12 horas) aunque el usuario ya hubiera "cerrado sesión".
+    if (this.token()) {
+      this.http.post(`${environment.apiUrl}/auth/logout`, {}).subscribe({ error: () => {} });
+    }
     localStorage.removeItem(CLAVE_TOKEN);
     localStorage.removeItem(CLAVE_PERFIL_ACTIVO);
     localStorage.removeItem(CLAVE_NOMBRE_APODERADO);

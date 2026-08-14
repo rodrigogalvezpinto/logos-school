@@ -19,6 +19,9 @@ interface GrupoAsignatura {
     <h1>Pruebas y Exámenes</h1>
     <p class="subtitulo">Todo lo que puedes rendir, agrupado por asignatura.</p>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     @for (grupo of grupos(); track grupo.asignatura.id) {
       <div class="grupo">
         <h2>{{ grupo.asignatura.nombre }}</h2>
@@ -89,12 +92,16 @@ interface GrupoAsignatura {
       .fila--examen {
         border: 1.5px solid var(--color-primario);
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class Evaluaciones {
   grupos = signal<GrupoAsignatura[]>([]);
   examenIntegrado = signal<ConjuntoResumen | null>(null);
+  error = signal('');
 
   private contenido = inject(ContenidoService);
   private evaluaciones = inject(EvaluacionesService);
@@ -104,21 +111,30 @@ export class Evaluaciones {
     const perfil = this.sesion.perfilActivo();
     if (!perfil) return;
 
-    this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asignaturas) => {
-      const llamadas = asignaturas.map((a) => this.evaluaciones.listarConjuntosDeAsignatura(a.id));
-      forkJoin(llamadas).subscribe((listas) => {
-        this.grupos.set(
-          asignaturas.map((asignatura, i) => ({
-            asignatura,
-            pruebas: listas[i].filter((c) => c.tipo === 'prueba_unidad'),
-            examenes: listas[i].filter((c) => c.tipo === 'examen_simulacro'),
-          }))
-        );
-      });
+    this.contenido.listarAsignaturas(perfil.nivel_id).subscribe({
+      next: (asignaturas) => {
+        const llamadas = asignaturas.map((a) => this.evaluaciones.listarConjuntosDeAsignatura(a.id));
+        forkJoin(llamadas).subscribe({
+          next: (listas) => {
+            this.grupos.set(
+              asignaturas.map((asignatura, i) => ({
+                asignatura,
+                pruebas: listas[i].filter((c) => c.tipo === 'prueba_unidad'),
+                examenes: listas[i].filter((c) => c.tipo === 'examen_simulacro'),
+              }))
+            );
+          },
+          error: () => this.error.set('No se pudieron cargar tus pruebas y exámenes. Intenta recargar la página.'),
+        });
+      },
+      error: () => this.error.set('No se pudieron cargar tus pruebas y exámenes. Intenta recargar la página.'),
     });
 
-    this.evaluaciones.listarConjuntosDeNivel(perfil.nivel_id).subscribe((conjuntos) => {
-      if (conjuntos.length) this.examenIntegrado.set(conjuntos[0]);
+    this.evaluaciones.listarConjuntosDeNivel(perfil.nivel_id).subscribe({
+      next: (conjuntos) => {
+        if (conjuntos.length) this.examenIntegrado.set(conjuntos[0]);
+      },
+      error: () => this.error.set('No se pudieron cargar tus pruebas y exámenes. Intenta recargar la página.'),
     });
   }
 }

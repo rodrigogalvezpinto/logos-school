@@ -16,6 +16,7 @@ class RegistrarProfesor:
         self._servicio_token = servicio_token
 
     def ejecutar(self, email: str, password: str, nombre: str) -> str:
+        email = email.strip().lower()
         if self._repositorio.buscar_por_email(email):
             raise CorreoYaRegistrado()
         cuenta = CuentaProfesor.crear(email=email, nombre=nombre, password_hash=self._hasheador.hashear(password))
@@ -35,7 +36,7 @@ class IniciarSesionProfesor:
         self._servicio_token = servicio_token
 
     def ejecutar(self, email: str, password: str) -> str:
-        cuenta = self._repositorio.buscar_por_email(email)
+        cuenta = self._repositorio.buscar_por_email(email.strip().lower())
         if not cuenta or not self._hasheador.verificar(password, cuenta.password_hash):
             raise CredencialesProfesorInvalidas()
         # Login funciona igual con la cuenta "pendiente" — así el profesor puede ver el

@@ -49,6 +49,9 @@ import { AlumnoEncontrado, ComercialService, Plan } from '../../core/comercial.s
     @if (mensaje()) {
       <p class="mensaje">{{ mensaje() }}</p>
     }
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
   `,
   styles: [
     `
@@ -101,6 +104,10 @@ import { AlumnoEncontrado, ComercialService, Plan } from '../../core/comercial.s
         color: var(--color-exito);
         font-weight: 600;
       }
+      .error-carga {
+        margin-top: 1rem;
+        color: var(--color-error);
+      }
     `,
   ],
 })
@@ -111,33 +118,41 @@ export class AdminCortesias {
   planSeleccionado: Record<number, number> = {};
   buscado = signal(false);
   mensaje = signal('');
+  error = signal('');
 
   private comercial = inject(ComercialService);
 
   constructor() {
-    this.comercial.listarPlanes().subscribe((planes) => {
-      this.planes.set(planes.filter((p) => p.activo));
+    this.comercial.listarPlanes().subscribe({
+      next: (planes) => this.planes.set(planes.filter((p) => p.activo)),
+      error: () => this.error.set('No se pudieron cargar los planes.'),
     });
   }
 
   buscar() {
     this.mensaje.set('');
-    this.comercial.buscarAlumnos(this.consulta).subscribe((alumnos) => {
-      this.resultados.set(alumnos);
-      this.buscado.set(true);
-      for (const a of alumnos) {
-        if (!this.planSeleccionado[a.perfil_alumno_id] && this.planes().length) {
-          this.planSeleccionado[a.perfil_alumno_id] = this.planes()[0].id;
+    this.error.set('');
+    this.comercial.buscarAlumnos(this.consulta).subscribe({
+      next: (alumnos) => {
+        this.resultados.set(alumnos);
+        this.buscado.set(true);
+        for (const a of alumnos) {
+          if (!this.planSeleccionado[a.perfil_alumno_id] && this.planes().length) {
+            this.planSeleccionado[a.perfil_alumno_id] = this.planes()[0].id;
+          }
         }
-      }
+      },
+      error: () => this.error.set('No se pudo realizar la búsqueda. Intenta de nuevo.'),
     });
   }
 
   asignar(alumno: AlumnoEncontrado) {
     const planId = this.planSeleccionado[alumno.perfil_alumno_id];
     if (!planId) return;
-    this.comercial.asignarCortesia(alumno.perfil_alumno_id, planId).subscribe(() => {
-      this.mensaje.set(`Cortesía asignada a ${alumno.nombre} ${alumno.apellidos}.`);
+    this.error.set('');
+    this.comercial.asignarCortesia(alumno.perfil_alumno_id, planId).subscribe({
+      next: () => this.mensaje.set(`Cortesía asignada a ${alumno.nombre} ${alumno.apellidos}.`),
+      error: () => this.error.set('No se pudo asignar la cortesía. Intenta de nuevo.'),
     });
   }
 }

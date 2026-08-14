@@ -11,6 +11,61 @@ def test_registro_exitoso_devuelve_token(client):
     assert "access_token" in r.json()
 
 
+def test_logout_invalida_el_token_de_inmediato(client):
+    # Bug real encontrado en el análisis de seguridad: "cerrar sesión" solo borraba el
+    # token del navegador, pero el mismo JWT seguía siendo una credencial válida en el
+    # servidor hasta expirar (hasta 12 horas) — si alguien lo copiaba antes del logout,
+    # cerrar sesión no lo detenía. Ahora un logout invalida el token de inmediato.
+    r = client.post("/auth/registro", json={"email": "logout@test.cl", "password": "ClaveSegura123", "nombre": "QA"})
+    token = r.json()["access_token"]
+    headers = {"Authorization": f"Bearer {token}"}
+
+    assert client.get("/auth/yo", headers=headers).status_code == 200
+
+    r = client.post("/auth/logout", headers=headers)
+    assert r.status_code == 204
+
+    r = client.get("/auth/yo", headers=headers)
+    assert r.status_code == 401
+
+
+def test_logout_no_afecta_a_otras_cuentas(client):
+    token_a = client.post("/auth/registro", json={"email": "a-logout@test.cl", "password": "ClaveSegura123", "nombre": "A"}).json()["access_token"]
+    token_b = client.post("/auth/registro", json={"email": "b-logout@test.cl", "password": "ClaveSegura123", "nombre": "B"}).json()["access_token"]
+
+    client.post("/auth/logout", headers={"Authorization": f"Bearer {token_a}"})
+
+    r = client.get("/auth/yo", headers={"Authorization": f"Bearer {token_b}"})
+    assert r.status_code == 200
+
+
+def test_login_de_nuevo_tras_logout_da_un_token_valido(client):
+    datos = {"email": "reloggin@test.cl", "password": "ClaveSegura123"}
+    client.post("/auth/registro", json={**datos, "nombre": "QA"})
+
+    token_1 = client.post("/auth/login", json=datos).json()["access_token"]
+    client.post("/auth/logout", headers={"Authorization": f"Bearer {token_1}"})
+
+    token_2 = client.post("/auth/login", json=datos).json()["access_token"]
+    r = client.get("/auth/yo", headers={"Authorization": f"Bearer {token_2}"})
+    assert r.status_code == 200
+
+
+def test_registro_es_insensible_a_mayusculas_en_el_correo(client):
+    # Bug real encontrado probando la app: "a@x.cl" y "A@X.CL" se registraban como dos
+    # cuentas distintas para lo que el usuario considera el mismo correo.
+    r1 = client.post("/auth/registro", json={"email": "mayusculas@test.cl", "password": "ClaveSegura123", "nombre": "QA"})
+    assert r1.status_code == 201
+    r2 = client.post("/auth/registro", json={"email": "MAYUSCULAS@TEST.CL", "password": "OtraClave123", "nombre": "QA2"})
+    assert r2.status_code == 400
+
+
+def test_login_es_insensible_a_mayusculas_en_el_correo(client):
+    client.post("/auth/registro", json={"email": "loginmayus@test.cl", "password": "ClaveSegura123", "nombre": "QA"})
+    r = client.post("/auth/login", json={"email": "LoginMayus@Test.CL", "password": "ClaveSegura123"})
+    assert r.status_code == 200
+
+
 def test_registro_duplicado_falla(client):
     _registrar(client)
     r2 = _registrar(client)
@@ -79,6 +134,73 @@ def test_agregar_alumno_requiere_nivel_existente(client, session):
     )
     assert r.status_code == 201
     assert r.json()["nombre"] == "Sofía"
+
+
+def test_agregar_alumno_con_fecha_de_nacimiento_futura_es_rechazado(client, session):
+    from app.infrastructure.persistence.orm_models import Nivel
+
+    session.add(
+        Nivel(
+            nombre="4° básico", regimen="A", decreto="439/2012", formato_examen="integrado",
+            num_preguntas_examen=20, duracion_examen_min=90,
+        )
+    )
+    session.commit()
+
+    token = _registrar(client, "fechafutura@test.cl").json()["access_token"]
+    r = client.post(
+        "/auth/alumnos",
+        headers={"Authorization": f"Bearer {token}"},
+        json={
+            "nombre": "Futuro", "apellidos": "Niño",
+            "fecha_nacimiento": "2099-01-01", "rut": "55.555.555-5", "nivel_id": 1,
+        },
+    )
+    assert r.status_code == 422
+
+
+def test_agregar_alumno_con_nivel_inexistente_da_404_no_500(client, session):
+    # Bug real encontrado probando la app: nivel_id tiene FK en la BD pero nada lo
+    # validaba antes — un nivel_id inexistente reventaba con un 500 crudo (IntegrityError).
+    token = _registrar(client, "nivelinexistente@test.cl").json()["access_token"]
+    r = client.post(
+        "/auth/alumnos",
+        headers={"Authorization": f"Bearer {token}"},
+        json={
+            "nombre": "Sofía", "apellidos": "Pérez",
+            "fecha_nacimiento": "2016-03-12", "rut": "21.345.678-4", "nivel_id": 999999,
+        },
+    )
+    assert r.status_code == 404
+
+
+def test_dos_apoderados_distintos_no_pueden_registrar_el_mismo_rut(client, session):
+    # Bug real encontrado probando la app: dos cuentas de Apoderado distintas podían
+    # registrar un PerfilAlumno con el mismo RUT sin ningún aviso — datos de un menor
+    # duplicados (o "robados" por otra cuenta) sin que nadie se enterara.
+    from app.infrastructure.persistence.orm_models import Nivel
+
+    session.add(
+        Nivel(
+            nombre="4° básico", regimen="A", decreto="439/2012", formato_examen="integrado",
+            num_preguntas_examen=20, duracion_examen_min=90,
+        )
+    )
+    session.commit()
+
+    token_a = _registrar(client, "apoderadoA@test.cl").json()["access_token"]
+    token_b = _registrar(client, "apoderadoB@test.cl").json()["access_token"]
+
+    datos = {
+        "nombre": "Niño", "apellidos": "Uno",
+        "fecha_nacimiento": "2016-01-01", "rut": "11.111.111-1", "nivel_id": 1,
+    }
+    r1 = client.post("/auth/alumnos", headers={"Authorization": f"Bearer {token_a}"}, json=datos)
+    assert r1.status_code == 201
+
+    datos_b = {**datos, "nombre": "Niño Robado", "rut": "11111111-1"}  # mismo RUT, sin puntos
+    r2 = client.post("/auth/alumnos", headers={"Authorization": f"Bearer {token_b}"}, json=datos_b)
+    assert r2.status_code == 400
 
 
 def test_agregar_alumno_con_rut_invalido_es_rechazado(client, session):

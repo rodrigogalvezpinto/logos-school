@@ -46,6 +46,21 @@ def test_crear_editar_y_desactivar_plan(client, session):
     assert len(r.json()) == 1
 
 
+def test_editar_plan_inexistente_da_404(client, session):
+    headers = _headers_admin(client, session)
+    r = client.patch(
+        "/admin/planes/99999", headers=headers,
+        json={"nombre": "X", "nivel_de_acceso": "completo", "precio_clp": 1000},
+    )
+    assert r.status_code == 404
+
+
+def test_activar_y_desactivar_plan_inexistente_dan_404(client, session):
+    headers = _headers_admin(client, session)
+    assert client.post("/admin/planes/99999/activar", headers=headers).status_code == 404
+    assert client.post("/admin/planes/99999/desactivar", headers=headers).status_code == 404
+
+
 def test_crear_plan_con_precio_negativo_falla(client, session):
     headers = _headers_admin(client, session)
     r = client.post("/admin/planes", headers=headers, json={"nombre": "Malo", "nivel_de_acceso": "completo", "precio_clp": -100})
@@ -70,6 +85,38 @@ def test_crear_y_desactivar_codigo_descuento(client, session):
     r = client.get("/admin/descuentos", headers=headers)
     assert len(r.json()) == 1
     assert r.json()[0]["vigente"] is False
+
+
+def test_crear_codigo_descuento_duplicado_da_400_no_500(client, session):
+    # Bug real encontrado probando la app: el código tiene constraint único en la BD pero
+    # nada lo validaba antes de insertar — el segundo POST reventaba con un 500 crudo
+    # (IntegrityError sin manejar) en vez de un error de negocio limpio.
+    headers = _headers_admin(client, session)
+    datos = {"codigo": "REPETIDO", "tipo": "porcentaje", "valor": 10}
+    r1 = client.post("/admin/descuentos", headers=headers, json=datos)
+    assert r1.status_code == 201
+
+    r2 = client.post("/admin/descuentos", headers=headers, json=datos)
+    assert r2.status_code == 400
+    assert "código" in r2.json()["detail"].lower()
+
+
+def test_crear_codigo_descuento_con_valor_negativo_falla(client, session):
+    headers = _headers_admin(client, session)
+    r = client.post(
+        "/admin/descuentos", headers=headers,
+        json={"codigo": "NEGATIVO", "tipo": "porcentaje", "valor": -50},
+    )
+    assert r.status_code == 422
+
+
+def test_crear_codigo_descuento_porcentaje_sobre_cien_falla(client, session):
+    headers = _headers_admin(client, session)
+    r = client.post(
+        "/admin/descuentos", headers=headers,
+        json={"codigo": "SOBRECIEN", "tipo": "porcentaje", "valor": 500},
+    )
+    assert r.status_code == 422
 
 
 def test_codigo_descuento_vencido_no_esta_vigente(client, session):

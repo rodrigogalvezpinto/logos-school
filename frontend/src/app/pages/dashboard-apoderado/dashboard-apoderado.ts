@@ -11,6 +11,9 @@ import { SesionService } from '../../core/sesion.service';
     <h1>Hola, {{ nombreApoderado() }} 👋</h1>
     <p class="subtitulo">Así va tu familia en Logos School.</p>
 
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="grid">
       @for (alumno of alumnos(); track alumno.id) {
         <div class="tarjeta alumno-card">
@@ -98,17 +101,24 @@ import { SesionService } from '../../core/sesion.service';
         font-size: 1.8rem;
         color: var(--color-primario);
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class DashboardApoderado {
   alumnos = signal<PerfilAlumnoRespuesta[]>([]);
+  error = signal('');
 
   private auth = inject(AuthService);
   private sesion = inject(SesionService);
 
   constructor() {
-    this.auth.listarAlumnos().subscribe((alumnos) => this.alumnos.set(alumnos));
+    this.auth.listarAlumnos().subscribe({
+      next: (alumnos) => this.alumnos.set(alumnos),
+      error: () => this.error.set('No se pudo cargar la lista de alumnos. Intenta recargar la página.'),
+    });
   }
 
   nombreApoderado(): string {

@@ -104,6 +104,8 @@ interface FilaHistorial {
           <p class="vacio">Tu historial de estudio va a aparecer acá.</p>
         }
       </div>
+    } @else if (error()) {
+      <p class="error-carga">{{ error() }}</p>
     } @else {
       <p>Cargando…</p>
     }
@@ -195,6 +197,9 @@ interface FilaHistorial {
       .vacio {
         color: var(--texto-secundario);
       }
+      .error-carga {
+        color: var(--color-error);
+      }
       .faltantes {
         margin-bottom: 2rem;
       }
@@ -225,6 +230,7 @@ export class Notas {
   @Input() perfilAlumnoId = '';
   historial = signal<Historial | null>(null);
   faltantes = signal<Faltantes | null>(null);
+  error = signal('');
 
   private progreso = inject(ProgresoService);
   private evaluaciones = inject(EvaluacionesService);
@@ -235,13 +241,19 @@ export class Notas {
     const perfilActivo = this.sesion.perfilActivo();
     const id = this.perfilAlumnoId ? Number(this.perfilAlumnoId) : perfilActivo?.id;
     if (!id) return;
-    this.progreso.obtenerHistorial(id).subscribe((h) => this.historial.set(h));
+    this.progreso.obtenerHistorial(id).subscribe({
+      next: (h) => this.historial.set(h),
+      error: () => this.error.set('No se pudo cargar tu historial. Intenta recargar la página.'),
+    });
 
     // La sección de faltantes/simulacro parcial es una acción que solo el propio alumno
     // puede iniciar (necesita rendir la prueba) — no se muestra en la vista del apoderado,
     // que no tiene un `perfilActivo` (nivel_id) propio para esta consulta.
     if (!this.perfilAlumnoId && perfilActivo) {
-      this.progreso.obtenerFaltantes(id, perfilActivo.nivel_id).subscribe((f) => this.faltantes.set(f));
+      this.progreso.obtenerFaltantes(id, perfilActivo.nivel_id).subscribe({
+        next: (f) => this.faltantes.set(f),
+        error: () => {}, // sección secundaria: si falla, simplemente no se muestra
+      });
     }
   }
 

@@ -8,6 +8,7 @@ from sqlmodel import Session
 
 from app.application.auth.casos_de_uso import (
     AgregarPerfilAlumno,
+    CerrarSesion,
     IniciarSesion,
     IniciarSesionConGoogle,
     ListarPerfilesAlumno,
@@ -106,6 +107,12 @@ def get_iniciar_sesion_uc(
     return IniciarSesion(repositorio, hasheador, servicio_token)
 
 
+def get_cerrar_sesion_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+) -> CerrarSesion:
+    return CerrarSesion(repositorio)
+
+
 def get_iniciar_sesion_google_uc(
     repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
     verificador_google: VerificadorTokenGoogleAdapter = Depends(get_verificador_google),
@@ -114,20 +121,26 @@ def get_iniciar_sesion_google_uc(
     return IniciarSesionConGoogle(repositorio, verificador_google, servicio_token)
 
 
+def get_repositorio_contenido(session: Session = Depends(get_session)) -> RepositorioContenidoSQLModel:
+    return RepositorioContenidoSQLModel(session)
+
+
+def get_reloj() -> RelojSistema:
+    return RelojSistema()
+
+
 def get_agregar_perfil_alumno_uc(
     repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+    reloj: RelojSistema = Depends(get_reloj),
 ) -> AgregarPerfilAlumno:
-    return AgregarPerfilAlumno(repositorio)
+    return AgregarPerfilAlumno(repositorio, repositorio_contenido, reloj)
 
 
 def get_listar_perfiles_alumno_uc(
     repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
 ) -> ListarPerfilesAlumno:
     return ListarPerfilesAlumno(repositorio)
-
-
-def get_repositorio_contenido(session: Session = Depends(get_session)) -> RepositorioContenidoSQLModel:
-    return RepositorioContenidoSQLModel(session)
 
 
 def get_repositorio_intentos(session: Session = Depends(get_session)) -> RepositorioIntentosSQLModel:
@@ -140,10 +153,6 @@ def get_repositorio_conjuntos(session: Session = Depends(get_session)) -> Reposi
 
 def get_repositorio_preguntas(session: Session = Depends(get_session)) -> RepositorioPreguntasSQLModel:
     return RepositorioPreguntasSQLModel(session)
-
-
-def get_reloj() -> RelojSistema:
-    return RelojSistema()
 
 
 def get_iniciar_intento_uc(
@@ -201,12 +210,17 @@ def get_cuenta_actual(
     servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
     repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
 ) -> Cuenta:
-    cuenta_id = servicio_token.decodificar(credenciales.credentials)
-    if cuenta_id is None:
+    resultado = servicio_token.decodificar_con_version(credenciales.credentials)
+    if resultado is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Sesión inválida o expirada")
+    cuenta_id, version_token = resultado
     cuenta = repositorio.buscar_por_id(cuenta_id)
     if cuenta is None:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Cuenta no encontrada")
+    if version_token != cuenta.sesion_version:
+        # El token es de una sesión ya cerrada (ver CerrarSesion) — aunque no haya
+        # expirado, no sirve más como credencial.
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Sesión inválida o expirada")
     return cuenta
 
 

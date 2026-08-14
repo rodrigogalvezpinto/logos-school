@@ -1,14 +1,13 @@
-from datetime import date
+from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Nivel, Pregunta
 
-from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Cuenta, Nivel, PerfilAlumno, Pregunta
+_CONTADOR_EMAILS = iter(range(1, 100_000))
 
 
-def _preparar(session):
-    cuenta = Cuenta(email="apoderado@test.cl", password_hash="x", nombre="Apoderado Test")
-    session.add(cuenta)
-    session.commit()
-    session.refresh(cuenta)
-
+def _preparar(client, session):
+    """Devuelve (conjunto, perfil, preguntas, headers) — `headers` trae el token real del
+    Apoderado dueño de `perfil`, necesario desde que /evaluaciones/* exige sesión (bug de
+    seguridad real: antes cualquiera sin login podía iniciar/responder/entregar la
+    evaluación de cualquier alumno adivinando su id)."""
     nivel = Nivel(
         nombre="4° básico", regimen="A", decreto="439/2012", formato_examen="integrado",
         num_preguntas_examen=20, duracion_examen_min=90,
@@ -37,32 +36,46 @@ def _preparar(session):
     session.commit()
     session.refresh(conjunto)
 
-    perfil = PerfilAlumno(
-        cuenta_apoderado_id=cuenta.id, nombre="Test", apellidos="Test",
-        fecha_nacimiento=date(2016, 1, 1), rut="1-9", nivel_id=nivel.id,
-    )
-    session.add(perfil)
-    session.commit()
-    session.refresh(perfil)
+    email = f"apoderado.intentos.{next(_CONTADOR_EMAILS)}@test.cl"
+    token = client.post(
+        "/auth/registro", json={"email": email, "password": "ClaveSegura123", "nombre": "Apoderado Test"}
+    ).json()["access_token"]
+    headers = {"Authorization": f"Bearer {token}"}
+    perfil_id = client.post(
+        "/auth/alumnos", headers=headers,
+        json={"nombre": "Test", "apellidos": "Test", "fecha_nacimiento": "2016-01-01", "rut": "1-9", "nivel_id": nivel.id},
+    ).json()["id"]
 
-    return conjunto, perfil, (p1, p2, p3)
+    class _Perfil:
+        id = perfil_id
+
+    return conjunto, _Perfil(), (p1, p2, p3), headers
 
 
 def test_ciclo_completo_iniciar_responder_entregar(client, session):
-    conjunto, perfil, (p1, p2, p3) = _preparar(session)
+    conjunto, perfil, (p1, p2, p3), headers = _preparar(client, session)
 
-    r = client.post("/evaluaciones/intentos", json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id})
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
     assert r.status_code == 201
     intento_id = r.json()["id"]
     assert r.json()["nota"] is None
 
-    r = client.patch(f"/evaluaciones/intentos/{intento_id}/responder", json={"pregunta_id": p1.id, "respuesta": "4"})
+    r = client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p1.id, "respuesta": "4"},
+    )
     assert r.status_code == 200
     assert r.json()["respuestas"] == {str(p1.id): "4"}
 
-    client.patch(f"/evaluaciones/intentos/{intento_id}/responder", json={"pregunta_id": p2.id, "respuesta": "5"})  # incorrecta
+    client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p2.id, "respuesta": "5"},
+    )  # incorrecta
 
-    r = client.post(f"/evaluaciones/intentos/{intento_id}/entregar")
+    r = client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers)
     assert r.status_code == 200
     datos = r.json()
     # 1 de 2 preguntas autocorregibles correcta (la de desarrollo no cuenta)
@@ -72,35 +85,160 @@ def test_ciclo_completo_iniciar_responder_entregar(client, session):
 
 
 def test_entregar_es_idempotente(client, session):
-    conjunto, perfil, (p1, p2, p3) = _preparar(session)
-    r = client.post("/evaluaciones/intentos", json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id})
+    conjunto, perfil, (p1, p2, p3), headers = _preparar(client, session)
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
     intento_id = r.json()["id"]
-    client.patch(f"/evaluaciones/intentos/{intento_id}/responder", json={"pregunta_id": p1.id, "respuesta": "4"})
+    client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p1.id, "respuesta": "4"},
+    )
 
-    primera = client.post(f"/evaluaciones/intentos/{intento_id}/entregar").json()
-    segunda = client.post(f"/evaluaciones/intentos/{intento_id}/entregar").json()
+    primera = client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers).json()
+    segunda = client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers).json()
     assert primera == segunda
 
 
 def test_iniciar_dos_veces_reanuda_el_mismo_intento(client, session):
-    conjunto, perfil, _ = _preparar(session)
-    r1 = client.post("/evaluaciones/intentos", json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id})
-    r2 = client.post("/evaluaciones/intentos", json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id})
+    conjunto, perfil, _, headers = _preparar(client, session)
+    r1 = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
+    r2 = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
     assert r1.json()["id"] == r2.json()["id"]
 
 
 def test_no_se_puede_responder_un_intento_ya_entregado(client, session):
-    conjunto, perfil, (p1, _, _) = _preparar(session)
-    r = client.post("/evaluaciones/intentos", json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id})
+    conjunto, perfil, (p1, _, _), headers = _preparar(client, session)
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
     intento_id = r.json()["id"]
-    client.post(f"/evaluaciones/intentos/{intento_id}/entregar")
+    client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers)
 
-    r = client.patch(f"/evaluaciones/intentos/{intento_id}/responder", json={"pregunta_id": p1.id, "respuesta": "4"})
+    r = client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p1.id, "respuesta": "4"},
+    )
     assert r.status_code == 400
 
 
+def test_iniciar_intento_con_conjunto_inexistente_da_404(client, session):
+    _, perfil, _, headers = _preparar(client, session)
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": 99999},
+    )
+    assert r.status_code == 404
+
+
+def test_obtener_intento_inexistente_da_404(client, session):
+    _, _, _, headers = _preparar(client, session)
+    r = client.get("/evaluaciones/intentos/99999", headers=headers)
+    assert r.status_code == 404
+
+
+def test_obtener_conjunto_inexistente_da_404(client, session):
+    r = client.get("/evaluaciones/conjuntos/99999")
+    assert r.status_code == 404
+
+
+def test_iniciar_intento_con_perfil_inexistente_da_404(client, session):
+    conjunto, _, _, headers = _preparar(client, session)
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": 99999, "conjunto_evaluacion_id": conjunto.id},
+    )
+    assert r.status_code == 404
+
+
+def test_no_se_puede_iniciar_intento_de_un_alumno_ajeno(client, session):
+    # Bug de seguridad real encontrado con una matriz de permisos automática (2026-08-14):
+    # /evaluaciones/* no exigía sesión — cualquiera podía iniciar/responder/entregar la
+    # evaluación de cualquier alumno adivinando su id. Ahora exige que el perfil pertenezca
+    # a la cuenta autenticada.
+    conjunto, perfil_de_otro, _, _ = _preparar(client, session)
+
+    token_ajeno = client.post(
+        "/auth/registro", json={"email": "ajeno@test.cl", "password": "ClaveSegura123", "nombre": "Ajeno"}
+    ).json()["access_token"]
+    headers_ajenos = {"Authorization": f"Bearer {token_ajeno}"}
+
+    r = client.post(
+        "/evaluaciones/intentos", headers=headers_ajenos,
+        json={"perfil_alumno_id": perfil_de_otro.id, "conjunto_evaluacion_id": conjunto.id},
+    )
+    assert r.status_code == 403
+
+
+def test_evaluaciones_sin_sesion_da_401(client, session):
+    conjunto, perfil, _, headers = _preparar(client, session)
+    r = client.post(
+        "/evaluaciones/intentos",
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    )
+    assert r.status_code in (401, 403)
+
+
+def test_iniciar_intento_concurrente_no_crea_duplicados(client, session):
+    # Bug real encontrado con un test de concurrencia contra el servidor real: 10
+    # requests simultáneos a "iniciar intento" (ej. doble clic, dos pestañas cargando a
+    # la vez) creaban hasta 3 intentos activos distintos para la misma prueba, en vez de
+    # reanudar el mismo. Corregido con un índice único parcial en la BD + manejo de la
+    # condición de carrera en el repositorio (ver IntentoEvaluacion.__table_args__).
+    #
+    # La sesión de SQLAlchemy no es thread-safe, así que este test no puede reusar la
+    # sesión compartida del fixture `client`/`session` (usada para aislar tests por
+    # transacción) — necesita una sesión nueva por hilo, igual que en producción real.
+    import threading
+
+    from sqlmodel import Session as SQLSession, create_engine
+
+    from app.infrastructure.persistence.db import get_session
+    from app.main import app
+
+    conjunto, perfil, _, headers = _preparar(client, session)
+    # Misma URL que tests/conftest.py::TEST_DATABASE_URL — se repite acá porque "tests"
+    # no es un paquete importable (sin __init__.py) en esta configuración de pytest.
+    engine_hilos = create_engine("postgresql://logos_dev:logos_dev_local@localhost:5432/logos_test")
+
+    def _sesion_fresca_por_llamada():
+        with SQLSession(engine_hilos) as s:
+            yield s
+
+    app.dependency_overrides[get_session] = _sesion_fresca_por_llamada
+    try:
+        resultados: list[int] = []
+        barrera = threading.Barrier(10)
+
+        def iniciar():
+            barrera.wait()  # todos los hilos disparan el request lo más juntos posible
+            r = client.post(
+                "/evaluaciones/intentos", headers=headers,
+                json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+            )
+            resultados.append(r.json()["id"])
+
+        hilos = [threading.Thread(target=iniciar) for _ in range(10)]
+        for h in hilos:
+            h.start()
+        for h in hilos:
+            h.join()
+
+        assert len(set(resultados)) == 1
+    finally:
+        app.dependency_overrides[get_session] = lambda: (yield session)
+
+
 def test_conjunto_no_expone_respuesta_correcta(client, session):
-    conjunto, _, _ = _preparar(session)
+    conjunto, _, _, _ = _preparar(client, session)
     r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}")
     assert r.status_code == 200
     for p in r.json()["preguntas"]:
@@ -108,13 +246,13 @@ def test_conjunto_no_expone_respuesta_correcta(client, session):
 
 
 def test_conjunto_sin_perfil_alumno_id_devuelve_orden_original(client, session):
-    conjunto, _, (p1, p2, p3) = _preparar(session)
+    conjunto, _, (p1, p2, p3), _ = _preparar(client, session)
     r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}")
     assert [p["id"] for p in r.json()["preguntas"]] == [p1.id, p2.id, p3.id]
 
 
 def test_conjunto_con_perfil_alumno_id_es_estable_entre_llamadas(client, session):
-    conjunto, perfil, _ = _preparar(session)
+    conjunto, perfil, _, _ = _preparar(client, session)
     r1 = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
     r2 = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
     orden1 = [p["id"] for p in r1.json()["preguntas"]]
@@ -123,7 +261,7 @@ def test_conjunto_con_perfil_alumno_id_es_estable_entre_llamadas(client, session
 
 
 def test_conjunto_con_perfil_alumno_id_conserva_todas_las_preguntas(client, session):
-    conjunto, perfil, (p1, p2, p3) = _preparar(session)
+    conjunto, perfil, (p1, p2, p3), _ = _preparar(client, session)
     r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
     orden = [p["id"] for p in r.json()["preguntas"]]
     assert sorted(orden) == sorted([p1.id, p2.id, p3.id])

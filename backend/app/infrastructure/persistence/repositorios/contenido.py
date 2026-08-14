@@ -10,6 +10,9 @@ class RepositorioContenidoSQLModel:
     def __init__(self, session: Session):
         self._session = session
 
+    def existe_nivel(self, nivel_id: int) -> bool:
+        return self._session.get(NivelORM, nivel_id) is not None
+
     def listar_niveles(self) -> list[NivelLectura]:
         filas = self._session.exec(select(NivelORM)).all()
         return [

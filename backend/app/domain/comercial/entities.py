@@ -48,6 +48,10 @@ class CodigoDescuento:
         cls, codigo: str, tipo: str, valor: int,
         fecha_vencimiento: date | None = None, usos_maximos: int | None = None,
     ) -> "CodigoDescuento":
+        if valor <= 0:
+            raise ValueError("valor debe ser mayor que 0")
+        if tipo == "porcentaje" and valor > 100:
+            raise ValueError("valor de un descuento porcentaje no puede superar 100")
         return cls(
             id=None, codigo=codigo, tipo=tipo, valor=valor,
             fecha_vencimiento=fecha_vencimiento, usos_maximos=usos_maximos, usos_actuales=0,

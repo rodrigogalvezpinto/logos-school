@@ -40,6 +40,9 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
     }
 
     <h2 class="seccion-titulo">Tus asignaturas</h2>
+    @if (error()) {
+      <p class="error-carga">{{ error() }}</p>
+    }
     <div class="grid-asignaturas">
       @for (asig of asignaturas(); track asig.id) {
         <a class="asignatura-card tarjeta" [routerLink]="['/alumno/asignaturas', asig.id]">
@@ -122,12 +125,16 @@ const ICONOS_POR_NOMBRE: Record<string, string> = {
           grid-template-columns: 1fr;
         }
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class AlumnoInicio {
   asignaturas = signal<AsignaturaRespuesta[]>([]);
   miCurso = signal<MiCurso | null>(null);
+  error = signal('');
   private colores = ['#5B4FE9', '#FF6B4A', '#22C55E', '#F59E0B', '#8B5CF6'];
 
   private contenido = inject(ContenidoService);
@@ -137,10 +144,17 @@ export class AlumnoInicio {
   constructor() {
     const perfil = this.sesion.perfilActivo();
     if (perfil) {
-      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe((asigs) => this.asignaturas.set(asigs));
+      this.contenido.listarAsignaturas(perfil.nivel_id).subscribe({
+        next: (asigs) => this.asignaturas.set(asigs),
+        error: () => this.error.set('No se pudieron cargar tus asignaturas. Intenta recargar la página.'),
+      });
       // Autoestudio puro (sin curso asignado) es el caso normal — el backend devuelve
-      // null y esta sección simplemente no se muestra.
-      this.cursoSeccion.obtenerMiCurso(perfil.id).subscribe((curso) => this.miCurso.set(curso));
+      // null y esta sección simplemente no se muestra. Si la llamada falla, se trata
+      // igual que "sin curso" (sección secundaria, no bloquea la página del alumno).
+      this.cursoSeccion.obtenerMiCurso(perfil.id).subscribe({
+        next: (curso) => this.miCurso.set(curso),
+        error: () => this.miCurso.set(null),
+      });
     }
   }
 

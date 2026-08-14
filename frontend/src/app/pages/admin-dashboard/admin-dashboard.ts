@@ -41,6 +41,8 @@ import { ComercialService, Metricas } from '../../core/comercial.service';
       } @else {
         <p class="vacio">Todavía no hay suscripciones activas.</p>
       }
+    } @else if (error()) {
+      <p class="error-carga">{{ error() }}</p>
     } @else {
       <p>Cargando…</p>
     }
@@ -102,16 +104,23 @@ import { ComercialService, Metricas } from '../../core/comercial.service';
       .vacio {
         color: var(--texto-secundario);
       }
+      .error-carga {
+        color: var(--color-error);
+      }
     `,
   ],
 })
 export class AdminDashboard {
   metricas = signal<Metricas | null>(null);
+  error = signal('');
 
   private comercial = inject(ComercialService);
 
   constructor() {
-    this.comercial.obtenerMetricas().subscribe((m) => this.metricas.set(m));
+    this.comercial.obtenerMetricas().subscribe({
+      next: (m) => this.metricas.set(m),
+      error: () => this.error.set('No se pudieron cargar las métricas.'),
+    });
   }
 
   formatearClp(valor: number): string {

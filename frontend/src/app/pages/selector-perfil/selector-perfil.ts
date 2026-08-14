@@ -13,6 +13,9 @@ import { SesionService } from '../../core/sesion.service';
       <div class="pagina__logo"><app-logo /></div>
       <h1>¿Quién va a estudiar hoy?</h1>
 
+      @if (error()) {
+        <p class="error-carga">{{ error() }}</p>
+      }
       <div class="perfiles">
         @for (perfil of perfiles(); track perfil.id) {
           <button class="perfil" (click)="entrarComoAlumno(perfil)">
@@ -99,11 +102,16 @@ import { SesionService } from '../../core/sesion.service';
         color: var(--texto-secundario);
         border: 2px dashed var(--borde);
       }
+      .error-carga {
+        color: var(--color-error);
+        margin-bottom: 1.5rem;
+      }
     `,
   ],
 })
 export class SelectorPerfil {
   perfiles = signal<PerfilAlumnoRespuesta[]>([]);
+  error = signal('');
   private colores = ['#5B4FE9', '#22C55E', '#F59E0B', '#EF4444'];
 
   private auth = inject(AuthService);
@@ -111,7 +119,10 @@ export class SelectorPerfil {
   private router = inject(Router);
 
   constructor() {
-    this.auth.listarAlumnos().subscribe((perfiles) => this.perfiles.set(perfiles));
+    this.auth.listarAlumnos().subscribe({
+      next: (perfiles) => this.perfiles.set(perfiles),
+      error: () => this.error.set('No se pudieron cargar tus alumnos. Intenta recargar la página.'),
+    });
   }
 
   colorPara(id: number): string {

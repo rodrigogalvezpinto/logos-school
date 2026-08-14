@@ -38,7 +38,7 @@ def _crear_contenido(session):
     return nivel, asignatura, prueba, examen, (p1, p2)
 
 
-def _crear_apoderado_con_alumno(client, session, nivel, email="familia.progreso@test.cl"):
+def _crear_apoderado_con_alumno(client, session, nivel, email="familia.progreso@test.cl", rut="21.345.678-4"):
     token = client.post(
         "/auth/registro",
         json={"email": email, "password": "ClaveSegura123", "nombre": "Apoderado Test"},
@@ -49,7 +49,7 @@ def _crear_apoderado_con_alumno(client, session, nivel, email="familia.progreso@
         headers={"Authorization": f"Bearer {token}"},
         json={
             "nombre": "Sofía", "apellidos": "Pérez",
-            "fecha_nacimiento": "2016-03-12", "rut": "21.345.678-4", "nivel_id": nivel.id,
+            "fecha_nacimiento": "2016-03-12", "rut": rut, "nivel_id": nivel.id,
         },
     )
     perfil_id = r.json()["id"]
@@ -59,16 +59,16 @@ def _crear_apoderado_con_alumno(client, session, nivel, email="familia.progreso@
 def _rendir(client, token, perfil_id, conjunto_id, respuestas: dict[int, str]):
     headers = {"Authorization": f"Bearer {token}"}
     r = client.post(
-        "/evaluaciones/intentos",
+        "/evaluaciones/intentos", headers=headers,
         json={"perfil_alumno_id": perfil_id, "conjunto_evaluacion_id": conjunto_id},
     )
     intento_id = r.json()["id"]
     for pregunta_id, respuesta in respuestas.items():
         client.patch(
-            f"/evaluaciones/intentos/{intento_id}/responder",
+            f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
             json={"pregunta_id": pregunta_id, "respuesta": respuesta},
         )
-    return client.post(f"/evaluaciones/intentos/{intento_id}/entregar").json()
+    return client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers).json()
 
 
 def test_historial_incluye_pruebas_examenes_y_separa_notas_por_tipo(client, session):
@@ -142,7 +142,7 @@ def test_marcar_guia_revisada_dos_veces_no_duplica(client, session):
 def test_un_apoderado_no_puede_ver_el_progreso_de_un_perfil_ajeno(client, session):
     nivel, *_ = _crear_contenido(session)
     _, perfil_id_de_a = _crear_apoderado_con_alumno(client, session, nivel, email="a@test.cl")
-    token_b, _ = _crear_apoderado_con_alumno(client, session, nivel, email="b@test.cl")
+    token_b, _ = _crear_apoderado_con_alumno(client, session, nivel, email="b@test.cl", rut="22.222.222-2")
 
     r = client.get(f"/progreso/{perfil_id_de_a}", headers={"Authorization": f"Bearer {token_b}"})
     assert r.status_code == 403
