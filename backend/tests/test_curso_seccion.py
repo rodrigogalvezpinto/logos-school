@@ -84,6 +84,30 @@ def test_quitar_alumno_del_curso(client, session):
     assert r.json() is None
 
 
+def test_no_se_puede_agregar_un_alumno_de_otro_nivel(client, session):
+    nivel_4basico = _crear_nivel(session)
+    nivel_8basico = Nivel(
+        nombre="8° básico", regimen="B", decreto="614/2013", formato_examen="separado",
+        num_preguntas_examen=25, duracion_examen_min=90,
+    )
+    session.add(nivel_8basico)
+    session.commit()
+    session.refresh(nivel_8basico)
+
+    headers_profesor = _profesor_aprobado(client, session)
+    _, perfil_id = _alumno_de_apoderado(client, nivel_4basico.id)
+
+    curso_id = client.post(
+        "/profesor/cursos", headers=headers_profesor, json={"nivel_id": nivel_8basico.id, "nombre": "8° básico A"}
+    ).json()["id"]
+
+    r = client.post(f"/profesor/cursos/{curso_id}/alumnos/{perfil_id}", headers=headers_profesor)
+    assert r.status_code == 400
+
+    r = client.get(f"/profesor/cursos/{curso_id}/progreso", headers=headers_profesor)
+    assert r.json()["alumnos"] == []
+
+
 def test_un_profesor_no_puede_tocar_el_curso_de_otro(client, session):
     nivel = _crear_nivel(session)
     headers_profesor_1 = _profesor_aprobado(client, session, email="profe1@test.cl")

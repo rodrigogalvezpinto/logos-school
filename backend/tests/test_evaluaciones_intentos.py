@@ -105,3 +105,25 @@ def test_conjunto_no_expone_respuesta_correcta(client, session):
     assert r.status_code == 200
     for p in r.json()["preguntas"]:
         assert "respuesta_correcta" not in p
+
+
+def test_conjunto_sin_perfil_alumno_id_devuelve_orden_original(client, session):
+    conjunto, _, (p1, p2, p3) = _preparar(session)
+    r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}")
+    assert [p["id"] for p in r.json()["preguntas"]] == [p1.id, p2.id, p3.id]
+
+
+def test_conjunto_con_perfil_alumno_id_es_estable_entre_llamadas(client, session):
+    conjunto, perfil, _ = _preparar(session)
+    r1 = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
+    r2 = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
+    orden1 = [p["id"] for p in r1.json()["preguntas"]]
+    orden2 = [p["id"] for p in r2.json()["preguntas"]]
+    assert orden1 == orden2  # mismo alumno, mismo conjunto → mismo orden en cada carga/recarga
+
+
+def test_conjunto_con_perfil_alumno_id_conserva_todas_las_preguntas(client, session):
+    conjunto, perfil, (p1, p2, p3) = _preparar(session)
+    r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
+    orden = [p["id"] for p in r.json()["preguntas"]]
+    assert sorted(orden) == sorted([p1.id, p2.id, p3.id])

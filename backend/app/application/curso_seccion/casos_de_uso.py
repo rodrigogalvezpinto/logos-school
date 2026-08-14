@@ -1,6 +1,11 @@
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.curso_seccion.entities import Comunicado, CursoSeccion
-from app.domain.curso_seccion.exceptions import AlumnoNoEncontrado, CursoAjeno, CursoSeccionNoEncontrado
+from app.domain.curso_seccion.exceptions import (
+    AlumnoNoEncontrado,
+    CursoAjeno,
+    CursoSeccionNoEncontrado,
+    NivelIncompatible,
+)
 from app.domain.curso_seccion.ports import RepositorioComunicados, RepositorioCursosSeccion
 from app.domain.shared.reloj import Reloj
 
@@ -29,8 +34,11 @@ class AgregarAlumnoACurso:
 
     def ejecutar(self, profesor_id: int, curso_id: int, perfil_alumno_id: int) -> None:
         curso = verificar_dueno(self._repositorio_cursos.buscar_por_id(curso_id), profesor_id)
-        if not self._repositorio_perfiles.buscar_por_id(perfil_alumno_id):
+        alumno = self._repositorio_perfiles.buscar_por_id(perfil_alumno_id)
+        if not alumno:
             raise AlumnoNoEncontrado()
+        if alumno.nivel_id != curso.nivel_id:
+            raise NivelIncompatible()
         self._repositorio_cursos.agregar_alumno(curso.id, perfil_alumno_id)
 
 

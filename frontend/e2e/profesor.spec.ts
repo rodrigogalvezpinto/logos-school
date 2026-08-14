@@ -88,6 +88,54 @@ test.describe('Rol Profesor', () => {
     await expect(page.locator('tbody tr', { hasText: 'Sofía' })).toHaveCount(0);
   });
 
+  test('no se puede agregar a Sofía a un curso de un nivel distinto al suyo', async ({ page }) => {
+    const emailProfesor2 = `profesor.e2e.nivel.${sufijo}@logos.cl`;
+
+    await page.goto('/profesor/login');
+    await page.getByText('Crear cuenta').click();
+    await page.fill('input[name=nombre]', 'Profesora Nivel E2E');
+    await page.fill('input[name=email]', emailProfesor2);
+    await page.fill('input[name=password]', passwordProfesor);
+    await page.click('button[type=submit]');
+    await expect(page).toHaveURL(/profesor\/dashboard/);
+
+    await page.goto('/admin/login');
+    await page.fill('input[type=email]', CREDENCIALES_ADMIN.email);
+    await page.fill('input[type=password]', CREDENCIALES_ADMIN.password);
+    await page.click('button[type=submit]');
+    await expect(page).toHaveURL(/admin\/dashboard/);
+    await page.goto('/admin/profesores');
+    await page.locator('tr', { hasText: emailProfesor2 }).getByRole('button', { name: 'Aprobar' }).click();
+
+    await page.goto('/profesor/login');
+    await page.fill('input[name=email]', emailProfesor2);
+    await page.fill('input[name=password]', passwordProfesor);
+    await page.click('button[type=submit]');
+    await expect(page).toHaveURL(/profesor\/dashboard/);
+
+    // Elige explícitamente un nivel que NO es el de Sofía (4° básico, la cuenta de
+    // prueba) — cualquier otro nivel de la lista sirve para probar el bloqueo.
+    const selectNivel = page.locator('select[name=nivelId]');
+    const opciones = await selectNivel.locator('option').allTextContents();
+    const otroNivel = opciones.find((o) => !o.includes('4° básico'));
+    if (otroNivel) await selectNivel.selectOption({ label: otroNivel });
+
+    const nombreCursoOtroNivel = `Otro nivel E2E ${sufijo}`;
+    await page.fill('input[name=nombreCurso]', nombreCursoOtroNivel);
+    await page.click('button:has-text("Crear curso")');
+    await page.locator('.curso-card', { hasText: nombreCursoOtroNivel }).click();
+
+    await page.fill('input[name=consulta]', 'Sofía');
+    await page.click('button:has-text("Buscar")');
+    await page.locator('tr', { hasText: 'Sofía' }).first().getByRole('button', { name: 'Agregar' }).click();
+
+    await expect(page.locator('.aviso-error')).toContainText('nivel distinto');
+    // El roster (primera tabla, antes de "Agregar alumno") debe seguir vacío — la
+    // tabla de resultados de búsqueda (segunda tabla) sí sigue mostrando a Sofía,
+    // eso es esperado, el usuario puede reintentar la búsqueda.
+    await expect(page.locator('.tabla-envoltorio').first().locator('tbody tr', { hasText: 'Sofía' })).toHaveCount(0);
+  });
+
   test('login con credenciales incorrectas muestra error', async ({ page }) => {
     await page.goto('/profesor/login');
     await page.fill('input[name=email]', emailProfesor);

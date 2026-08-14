@@ -1,6 +1,10 @@
 """Value Objects del contexto Evaluaciones."""
 
+import random
 from dataclasses import dataclass
+from typing import TypeVar
+
+T = TypeVar("T")
 
 
 def calcular_nota(puntaje_obtenido: float, puntaje_total: float, exigencia: float = 0.6) -> float:
@@ -64,3 +68,23 @@ TIPOS_AUTOCORREGIBLES = {"alternativas", "verdadero_falso"}
 # asignatura, con hasta 20 preguntas autocorregibles de las OA ya cubiertas.
 UMBRAL_SIMULACRO_PARCIAL = 0.5
 MAX_PREGUNTAS_SIMULACRO_PARCIAL = 20
+
+
+def mezclar_orden_estable(items: list[T], semilla: int) -> list[T]:
+    """Reordena `items` de forma pseudoaleatoria pero determinística: la misma `semilla`
+    siempre produce el mismo orden. Se usa para que una prueba/examen no muestre las
+    preguntas en el mismo orden fijo cada vez (impresión repetitiva), pero un alumno vea
+    el mismo orden si recarga o retoma su mismo intento (la semilla se deriva de
+    perfil_alumno_id + conjunto_evaluacion_id, no cambia entre llamadas de un mismo intento).
+    """
+    barajados = list(items)
+    random.Random(semilla).shuffle(barajados)
+    return barajados
+
+
+def mezclar_orden_al_azar(items: list[T]) -> list[T]:
+    """Reordena `items` al azar, sin semilla — se usa donde no existe un intento que
+    retomar (banco de autoevaluación), así cada sesión de práctica se siente distinta."""
+    barajados = list(items)
+    random.shuffle(barajados)
+    return barajados

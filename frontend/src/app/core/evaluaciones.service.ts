@@ -59,8 +59,10 @@ export class EvaluacionesService {
     return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/nivel/${nivelId}`);
   }
 
-  obtenerConjunto(conjuntoId: number): Observable<ConjuntoDetalle> {
-    return this.http.get<ConjuntoDetalle>(`${this.base}/evaluaciones/conjuntos/${conjuntoId}`);
+  obtenerConjunto(conjuntoId: number, perfilAlumnoId?: number): Observable<ConjuntoDetalle> {
+    return this.http.get<ConjuntoDetalle>(`${this.base}/evaluaciones/conjuntos/${conjuntoId}`, {
+      params: perfilAlumnoId ? { perfil_alumno_id: perfilAlumnoId } : {},
+    });
   }
 
   iniciarIntento(perfilAlumnoId: number, conjuntoEvaluacionId: number): Observable<IntentoEvaluacion> {

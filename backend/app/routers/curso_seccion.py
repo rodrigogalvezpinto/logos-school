@@ -28,7 +28,12 @@ from app.core.deps import (
     get_repositorio_cursos_seccion,
     verificar_perfil_propio,
 )
-from app.domain.curso_seccion.exceptions import AlumnoNoEncontrado, CursoAjeno, CursoSeccionNoEncontrado
+from app.domain.curso_seccion.exceptions import (
+    AlumnoNoEncontrado,
+    CursoAjeno,
+    CursoSeccionNoEncontrado,
+    NivelIncompatible,
+)
 from app.domain.curso_seccion.ports import RepositorioCursosSeccion
 from app.domain.profesor.entities import CuentaProfesor
 
@@ -101,6 +106,11 @@ def agregar_alumno(
         raise HTTPException(status_code=403, detail="Ese curso no es tuyo")
     except AlumnoNoEncontrado:
         raise HTTPException(status_code=404, detail="Alumno no encontrado")
+    except NivelIncompatible:
+        raise HTTPException(
+            status_code=400,
+            detail="El alumno cursa un nivel distinto al de este Curso/Sección",
+        )
 
 
 @router.delete("/profesor/cursos/{curso_id}/alumnos/{perfil_alumno_id}", status_code=status.HTTP_204_NO_CONTENT)

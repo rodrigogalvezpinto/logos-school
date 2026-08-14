@@ -41,7 +41,7 @@ export class ExamenSimulacro {
     const perfil = this.sesion.perfilActivo();
     if (!perfil) return;
 
-    this.evaluaciones.obtenerConjunto(Number(this.id)).subscribe((c) => {
+    this.evaluaciones.obtenerConjunto(Number(this.id), perfil.id).subscribe((c) => {
       this.conjunto.set(c);
       this.preguntas.set(c.preguntas);
     });

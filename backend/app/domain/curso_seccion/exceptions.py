@@ -12,3 +12,7 @@ class AlumnoNoEncontrado(ErrorDominioCursoSeccion):
 
 class CursoAjeno(ErrorDominioCursoSeccion):
     """El profesor autenticado no es dueño de este curso."""
+
+
+class NivelIncompatible(ErrorDominioCursoSeccion):
+    """El alumno cursa un nivel distinto al del Curso/Sección — no se puede agregar."""

@@ -93,6 +93,11 @@ export const routes: Routes = [
         path: 'plan-estudio',
         loadComponent: () => import('./pages/plan-estudio/plan-estudio').then((m) => m.PlanEstudio),
       },
+      {
+        path: 'configuracion',
+        data: { contexto: 'alumno' },
+        loadComponent: () => import('./pages/configuracion/configuracion').then((m) => m.Configuracion),
+      },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
     ],
   },
@@ -121,6 +126,11 @@ export const routes: Routes = [
       {
         path: 'progreso/:perfilAlumnoId',
         loadComponent: () => import('./pages/notas/notas').then((m) => m.Notas),
+      },
+      {
+        path: 'configuracion',
+        data: { contexto: 'apoderado' },
+        loadComponent: () => import('./pages/configuracion/configuracion').then((m) => m.Configuracion),
       },
       { path: '', redirectTo: 'inicio', pathMatch: 'full' },
     ],
@@ -176,15 +186,6 @@ export const routes: Routes = [
           import('./pages/profesor-curso-detalle/profesor-curso-detalle').then((m) => m.ProfesorCursoDetalle),
       },
       { path: '', redirectTo: 'dashboard', pathMatch: 'full' },
-    ],
-  },
-  {
-    path: 'configuracion',
-    component: Shell,
-    data: { modo: 'alumno' },
-    canActivate: [authGuard],
-    children: [
-      { path: '', loadComponent: () => import('./pages/configuracion/configuracion').then((m) => m.Configuracion) },
     ],
   },
   { path: '**', redirectTo: '' },

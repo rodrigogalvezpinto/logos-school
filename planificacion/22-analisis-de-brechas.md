@@ -29,21 +29,70 @@ tiene relación con la numeración oficial del temario), no el código oficial d
 (ahora hace join contra `ObjetivoAprendizaje`/`Asignatura`) hasta el frontend — ahora muestra
 "Inglés — OA 5". Nuevo test de regresión en `test_progreso.py`.
 
-**Decisión de producto pendiente, no corregida (dejada para que la decida el usuario)**: al
-agregar un alumno a un Curso/Sección, el Profesor **no tiene ninguna validación de que el
-nivel del alumno coincida con el nivel del curso** — se pudo agregar a Sofía (4° básico) a un
-curso creado como "8° básico" sin ningún aviso. Puede ser intencional (flexibilidad para
-grupos mixtos/extracurriculares) o un descuido de la especificación original de Etapa 2
-(que explícitamente no exigía este chequeo "para simplificar"). Si se decide que debe
-bloquearse, es un cambio acotado en `AgregarAlumnoACurso` (application/curso_seccion/casos_de_uso.py).
+~~**Decisión de producto pendiente**: nivel del alumno vs. nivel del curso.~~ **Resuelta y
+corregida (2026-08-14)** — ver la nueva sección más abajo: ahora se bloquea con un error
+claro.
 
-**Observación de UX, no bug**: la página `/configuracion` vista desde el perfil de un Alumno
-(ej. Sofía) muestra el nombre y correo del **Apoderado** (dueño de la cuenta), no del alumno
-— es correcto según el modelo de datos (el alumno no tiene cuenta propia, solo un perfil
-dentro de la cuenta del apoderado), pero podría confundir a un niño que explora esa pantalla
-sin entender por qué ve el nombre de su papá/mamá ahí. Vale la pena considerar un aviso
-("Esta es la cuenta de tu apoderado") o simplemente no mostrar el ítem "Configuración" en el
-sidebar del Alumno.
+~~**Observación de UX, no bug**: `/configuracion` mostraba los datos del Apoderado en el
+perfil del Alumno.~~ **Corregida (2026-08-14)** — ver la nueva sección más abajo.
+
+## ✅ Tres correcciones de experiencia de usuario a pedido del usuario (2026-08-14)
+
+Simulando el uso real de la app, el usuario encontró y pidió corregir tres casos borde de
+experiencia de usuario:
+
+1. **Un Profesor podía agregar cualquier alumno a un Curso/Sección de un nivel distinto**
+   (ej. Sofía, 4° básico, a un curso "8° básico") sin ningún aviso — quedaba como la decisión
+   pendiente documentada arriba. **Ahora bloqueado**: nueva excepción de dominio
+   `NivelIncompatible` en `domain/curso_seccion/exceptions.py`, verificada en
+   `AgregarAlumnoACurso.ejecutar()` (`application/curso_seccion/casos_de_uso.py`) comparando
+   `alumno.nivel_id` contra `curso.nivel_id` antes de agregar. El router traduce esto a
+   `400 Bad Request` con un mensaje claro; el frontend (`profesor-curso-detalle.ts`) lo
+   muestra como aviso de error bajo el buscador. Test backend
+   (`test_no_se_puede_agregar_un_alumno_de_otro_nivel`) y E2E (`profesor.spec.ts`) nuevos.
+
+2. **Las preguntas de pruebas/exámenes/autoevaluación siempre aparecían en el mismo orden**,
+   dando una impresión repetitiva en usos repetidos. Se agregaron dos funciones puras en
+   `domain/evaluaciones/value_objects.py`: `mezclar_orden_estable(items, semilla)` (semilla
+   determinística) y `mezclar_orden_al_azar(items)` (sin semilla). `GET
+   /evaluaciones/conjuntos/{id}` ahora acepta un `perfil_alumno_id` opcional y, si viene,
+   mezcla las preguntas con una semilla derivada de `(perfil_alumno_id, conjunto_id)` — el
+   orden es distinto entre alumnos y entre pruebas/exámenes distintos, pero **estable para el
+   mismo alumno en el mismo conjunto** (no cambia si recarga la página o retoma un intento a
+   medio hacer). `GET /evaluaciones/autoevaluacion/{oa_id}` mezcla sin semilla en cada
+   llamada (no hay un intento que proteger, y que la práctica se sienta distinta cada vez es
+   el objetivo). El frontend (`prueba-unidad.ts`, `examen-simulacro.ts`) ahora pasa
+   `perfil.id` al pedir el conjunto.
+
+   **Nota de diseño, para que quede explícito**: el usuario pidió que en el "examen
+   integrado" (Régimen A, 1°-4° básico, una sola prueba con 4 asignaturas) las preguntas se
+   mezclaran *por bloque de asignatura* (ej. de la 1 a la 5 solo varía dentro de Matemática),
+   no mezcladas entre materias. Se optó por **mezcla completa** en vez de por bloques, porque
+   el formato real de Mineduc para este examen **interlea las asignaturas pregunta a
+   pregunta**, no las agrupa en bloques — así lo indica explícitamente el propio archivo de
+   contenido (`contenido/04-basico/examenes/examen-integrado-forma-a.md`: "Las preguntas no
+   están agrupadas por asignatura, tal como en el examen real"). Agrupar por bloques haría
+   el simulacro *menos* fiel al examen real que imita, contradiciendo el objetivo explícito
+   del proyecto (que el simulacro sea indistinguible del examen real en formato). Si el
+   usuario prefiere de todas formas la agrupación por bloques a pesar de esto, es un cambio
+   acotado (mezclar sub-listas por `asignatura_id` en vez de la lista completa).
+
+3. **La página `/configuracion` mostraba los datos de la cuenta del Apoderado incluso viendo
+   el perfil de un Alumno** (ej. Sofía veía "Rodrigo Galvez" / "rodrigo@ejemplo.com"),
+   pudiendo confundir a un niño sobre de quién es la cuenta. Se separó la ruta compartida
+   `/configuracion` en dos rutas propias — `/alumno/configuracion` (`contexto: 'alumno'`) y
+   `/apoderado/configuracion` (`contexto: 'apoderado'`) — cada una con su propio `data` de
+   ruta bindeado como `@Input` (mismo patrón ya usado por `Notas` con `perfilAlumnoId`). La
+   vista de Alumno ahora solo muestra "Mi perfil" (su propio nombre) y nunca los datos de la
+   cuenta del Apoderado; la vista de Apoderado sigue mostrando sus propios datos de cuenta.
+   El link "Configuración" del sidebar ahora apunta a la ruta correcta según `modo`. Nuevo
+   E2E `configuracion.spec.ts` (2 tests) que verifica ambas vistas por separado.
+
+**Verificación final**: 143/143 tests backend (`uv run pytest -q`), 46/46 E2E
+(`npx playwright test --workers=1`; un test de `faltantes-simulacro-parcial.spec.ts` mostró
+un falso negativo corriendo el suite completo por contaminación de estado entre tests contra
+la misma base de datos de desarrollo compartida —no un problema de estos tres cambios—,
+confirmado pasando limpio en aislamiento).
 
 ## ✅ Los 12 cursos importados y validados (2026-08-13)
 

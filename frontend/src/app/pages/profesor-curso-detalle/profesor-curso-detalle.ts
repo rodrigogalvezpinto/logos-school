@@ -51,6 +51,9 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
         <input [(ngModel)]="consulta" name="consulta" placeholder="Busca por nombre, apellido o RUT…" />
         <button type="submit" class="btn btn--primario">Buscar</button>
       </form>
+      @if (errorAgregar()) {
+        <p class="aviso-error">{{ errorAgregar() }}</p>
+      }
       @if (resultados().length) {
         <div class="tarjeta tabla-envoltorio">
           <table>
@@ -148,6 +151,11 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
       .form-comunicado {
         max-width: 480px;
       }
+      .aviso-error {
+        color: var(--color-error, #d64545);
+        font-size: 0.85rem;
+        max-width: 560px;
+      }
       textarea {
         width: 100%;
         font-family: inherit;
@@ -159,6 +167,7 @@ export class ProfesorCursoDetalle {
   @Input() id = '';
   progreso = signal<ProgresoDeCurso | null>(null);
   resultados = signal<AlumnoEncontrado[]>([]);
+  errorAgregar = signal('');
   consulta = '';
   tituloComunicado = '';
   cuerpoComunicado = '';
@@ -178,10 +187,20 @@ export class ProfesorCursoDetalle {
   }
 
   agregar(perfilAlumnoId: number) {
-    this.cursoSeccion.agregarAlumno(Number(this.id), perfilAlumnoId).subscribe(() => {
-      this.resultados.set([]);
-      this.consulta = '';
-      this.cargar();
+    this.errorAgregar.set('');
+    this.cursoSeccion.agregarAlumno(Number(this.id), perfilAlumnoId).subscribe({
+      next: () => {
+        this.resultados.set([]);
+        this.consulta = '';
+        this.cargar();
+      },
+      error: (err) => {
+        this.errorAgregar.set(
+          err.status === 400
+            ? 'Ese alumno cursa un nivel distinto al de este Curso/Sección — no se puede agregar.'
+            : 'No se pudo agregar al alumno.',
+        );
+      },
     });
   }
 

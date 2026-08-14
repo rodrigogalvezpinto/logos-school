@@ -54,7 +54,7 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
         }
       </nav>
       <div class="sidebar__pie">
-        <a class="sidebar__item" routerLink="/configuracion" (click)="cerrar.emit()">
+        <a class="sidebar__item" [routerLink]="modo === 'alumno' ? '/alumno/configuracion' : '/apoderado/configuracion'" (click)="cerrar.emit()">
           <span class="sidebar__icono">⚙️</span><span>Configuración</span>
         </a>
         <a class="sidebar__item" routerLink="/selector-perfil" (click)="cerrar.emit()">

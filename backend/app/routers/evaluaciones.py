@@ -43,6 +43,7 @@ from app.domain.evaluaciones.exceptions import (
     SinPreguntasDisponibles,
 )
 from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioPreguntas
+from app.domain.evaluaciones.value_objects import mezclar_orden_al_azar, mezclar_orden_estable
 
 router = APIRouter(prefix="/evaluaciones", tags=["evaluaciones"])
 
@@ -60,7 +61,9 @@ class PreguntaAutoevaluacion(BaseModel):
 def obtener_autoevaluacion(oa_id: int, repositorio: RepositorioPreguntas = Depends(get_repositorio_preguntas)):
     if not repositorio.existe_objetivo(oa_id):
         raise HTTPException(status_code=404, detail="Objetivo de Aprendizaje no encontrado")
-    return repositorio.buscar_por_oa(oa_id)
+    # Al azar en cada llamada: no hay un intento que retomar que proteger, y que la
+    # práctica se sienta distinta cada vez es justamente el objetivo.
+    return mezclar_orden_al_azar(repositorio.buscar_por_oa(oa_id))
 
 
 class ConjuntoRespuesta(BaseModel):
@@ -120,6 +123,7 @@ class ConjuntoDetalle(BaseModel):
 @router.get("/conjuntos/{conjunto_id}", response_model=ConjuntoDetalle)
 def obtener_conjunto(
     conjunto_id: int,
+    perfil_alumno_id: int | None = None,
     repositorio_conjuntos: RepositorioConjuntos = Depends(get_repositorio_conjuntos),
     repositorio_preguntas: RepositorioPreguntas = Depends(get_repositorio_preguntas),
 ):
@@ -127,6 +131,11 @@ def obtener_conjunto(
     if not conjunto:
         raise HTTPException(status_code=404, detail="Prueba/examen no encontrado")
     preguntas = repositorio_preguntas.listar_por_ids(conjunto.pregunta_ids)
+    if perfil_alumno_id is not None:
+        # Semilla estable por (alumno, conjunto): el orden varía entre alumnos y entre
+        # pruebas/exámenes distintos, pero no cambia si el mismo alumno recarga o retoma
+        # el mismo intento — evita que "la pregunta 5" cambie de contenido a mitad de camino.
+        preguntas = mezclar_orden_estable(preguntas, semilla=perfil_alumno_id * 1_000_003 + conjunto_id)
     return ConjuntoDetalle(
         id=conjunto.id,
         tipo=conjunto.tipo,
