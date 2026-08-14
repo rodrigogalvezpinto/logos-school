@@ -15,13 +15,17 @@ import re
 from dataclasses import dataclass
 
 RE_Q_START = re.compile(
-    r"(?m)^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?\*{0,2}\s*(?:\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*)?"
+    # El "**" inicial es obligatorio (no "\*{0,2}"): toda pregunta real empieza en negrita
+    # ("**1.**" o "**Pregunta 1 (alternativas).**"). Sin esto, las instrucciones numeradas
+    # al inicio de los exámenes ("1. Este examen contiene 25 preguntas...") se colaban como
+    # preguntas falsas, desalineando la pauta de respuestas con las preguntas reales.
+    r"(?m)^\s*\*\*(?:Pregunta\s+)?(\d+)\.?\*{0,2}\s*(?:\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*)?"
 )
 RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_PAUTA_HEADING = re.compile(r"^#{1,2}\s*.*pauta.*$", re.IGNORECASE)
 RE_PAUTA_ENTRADA = re.compile(r"(?m)^\s*\*{0,2}(\d+)\.\*{0,2}\s*")
 RE_TABLA_FILA = re.compile(r"^\|\s*(\d+)\s*\|(.*)\|\s*$")
-RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])\)")
+RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])[\.\)]")
 
 
 @dataclass
@@ -147,4 +151,18 @@ def parsear_prueba_o_examen(texto: str) -> list[tuple[PreguntaSinRespuesta, Resp
     if not pautas:
         pautas = _extraer_pauta_lista(texto_pauta)
 
-    return [(p, pautas.get(p.numero)) for p in preguntas]
+    resultado = []
+    for p in preguntas:
+        pauta = pautas.get(p.numero)
+        if pauta and p.opciones and len(pauta.respuesta_correcta) == 1 and pauta.respuesta_correcta.lower() in "abcd":
+            # La pauta trae solo la letra ("a", "b"...) — IntentoEvaluacion.entregar()
+            # compara la respuesta del alumno (el TEXTO de la opción que clickeó, nunca
+            # la letra) contra `respuesta_correcta`, así que hay que resolver la letra al
+            # texto real de esa opción acá, una sola vez, en la fuente de verdad — si no,
+            # ninguna pregunta de alternativas se puede corregir bien jamás (encontrado
+            # simulando un examen completo con las respuestas correctas reales).
+            idx = ord(pauta.respuesta_correcta.lower()) - ord("a")
+            if 0 <= idx < len(p.opciones):
+                pauta.respuesta_correcta = p.opciones[idx]
+        resultado.append((p, pauta))
+    return resultado

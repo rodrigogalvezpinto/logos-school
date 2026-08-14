@@ -29,7 +29,10 @@ cuenta primero.
 
 **1.** *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a
 bike."* What can't Pedro do?
-a) Swim  b) Ride a bike  c) Run  d) Read
+a) Swim
+b) Ride a bike
+c) Run
+d) Read
 
 **2.** *(Verdadero o falso)* Read: *"The pharmacy is in front of the school, next
 to the bank."* Statement: *The pharmacy is behind the school.*

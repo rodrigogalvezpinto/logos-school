@@ -35,7 +35,10 @@ grandparents in the countryside."* (usa el verbo en presente simple)
 
 **3.** *(Alternativas)* ¿Qué frase se usa para cerrar (despedirse) en un email
 informal?
-a) Once upon a time  b) See you soon  c) Where is it?  d) How many?
+a) Once upon a time
+b) See you soon
+c) Where is it?
+d) How many?
 
 **4.** *(Verdadero o falso)* En una tira cómica (*comic strip*) con animales que
 hablan, es apropiado usar la frase *"Once upon a time"* para comenzar.
@@ -53,7 +56,10 @@ en la playa)
 now."* (usa el presente continuo)
 
 **8.** *(Alternativas)* ¿Qué plural es correcto para "sheep" (oveja)?
-a) sheeps  b) sheep  c) sheepes  d) sheeps'
+a) sheeps
+b) sheep
+c) sheepes
+d) sheeps'
 
 **9.** *(Completar con contraste)* Complete: *"A dolphin can swim fast, ___ it
 can't walk on land."* (but / and)

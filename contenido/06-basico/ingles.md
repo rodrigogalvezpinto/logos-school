@@ -91,7 +91,10 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 
 1. *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a bike."*
    What can't Pedro do?
-   a) Swim  b) Ride a bike  c) Run  d) Read
+   a) Swim
+   b) Ride a bike
+   c) Run
+   d) Read
    **Respuesta correcta:** b) Ride a bike.
    **Retroalimentación:** *Can't* señala la habilidad que NO tiene; el texto lo dice
    directamente después de *but* (pero).
@@ -394,7 +397,10 @@ interés o de tu país, siguiendo el modelo dado.
 
 3. *(Alternativas)* ¿Qué frase se usa para cerrar (despedirse) en un email
    informal?
-   a) Once upon a time  b) See you soon  c) Where is it?  d) How many?
+   a) Once upon a time
+   b) See you soon
+   c) Where is it?
+   d) How many?
    **Respuesta correcta:** b) See you soon.
    **Retroalimentación:** *See you soon* (nos vemos pronto) es una despedida
    típica de correos y notas informales entre amigos.
@@ -483,7 +489,10 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
    + verbo-ing*; con *children* (plural) corresponde *are*.
 
 2. *(Alternativas)* ¿Qué plural es correcto para "sheep" (oveja)?
-   a) sheeps  b) sheep  c) sheepes  d) sheeps'
+   a) sheeps
+   b) sheep
+   c) sheepes
+   d) sheeps'
    **Respuesta correcta:** b) sheep.
    **Retroalimentación:** *Sheep* es un sustantivo irregular que no cambia en
    plural: se escribe igual en singular y plural.

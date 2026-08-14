@@ -8,6 +8,54 @@ Este documento se generó revisando el estado real del repositorio y de la base 
 (no de memoria) — cada punto está verificado con un comando concreto, no es una lista
 genérica.
 
+## 🔴 CRÍTICO — encontrado y corregido (2026-08-13): la corrección de alternativas estaba rota en TODO el proyecto
+
+El hallazgo más grave de todo el proyecto hasta ahora, encontrado a pedido explícito del
+usuario ("pruebas más complejas"): se rindió un examen simulacro completo con las
+**respuestas correctas reales** (no al azar) y dio **0 de 12 correctas**. Investigado a
+fondo, la causa era doble, en los dos parsers de importación de contenido
+(`parser_contenido.py` para el banco de autoevaluación de las guías, `parser_prueba_examen.py`
+para pruebas de unidad y exámenes):
+
+1. **La pauta de respuestas a veces solo trae la letra** ("Respuesta correcta: b.") y a veces
+   la letra + el texto repetido ("Respuesta correcta: d) Unidad de mil.") — pero el alumno
+   siempre responde con el **texto completo** de la opción que clickeó, nunca con la letra.
+   `IntentoEvaluacion.entregar()` comparaba ambos con `==` directo — nunca podían calzar.
+   Esto afectaba **todas** las preguntas de alternativas de **todo** el proyecto: banco de
+   autoevaluación (2.917 preguntas), pruebas de unidad y exámenes simulacro, en los 3 cursos
+   importados. Es decir: ningún alumno podía obtener nunca una respuesta de alternativas
+   marcada como correcta, sin importar qué elegiera.
+2. Bug relacionado, encontrado primero: las instrucciones numeradas al inicio de cada examen
+   ("1. Este examen contiene 25 preguntas...", "2. Se permite calculadora...") se parseaban
+   como preguntas falsas (`RE_Q_START` no exigía que la línea empezara en negrita, que es lo
+   único que distingue una pregunta real de una instrucción) — desalineaba el conteo de
+   preguntas (31 en vez de 25) y toda la pauta de respuestas quedaba corrida. Corregido
+   exigiendo "**" obligatorio al inicio; reimportados los 9 exámenes afectados.
+
+**Corrección**: ambos parsers ahora resuelven la letra al texto real de la opción en el
+momento de parsear (fuente de verdad única), con normalización adicional para emojis de
+viñeta que contaminaban la respuesta ("Falso 💬") y para respuestas bilingües del contenido
+de Inglés ("True (Verdadero)" → "Verdadero"). Nuevos tests unitarios
+(`test_parser_contenido.py`, `test_parser_prueba_examen.py`) fijan esto como regresión
+permanente. Se corrigieron in-place las preguntas ya importadas
+(`scripts/backfill_respuestas_correctas.py`, emparejando por enunciado exacto — no se
+borraron ni recrearon filas, para no tocar IDs referenciados por intentos ya guardados): de
+562 preguntas de alternativas/verdadero-falso en los 3 cursos importados, 534 quedaron
+correctamente resueltas (el texto de `respuesta_correcta` calza exactamente con una opción).
+
+**Verificado end-to-end**: se repitió la simulación del examen de Matemática 6° básico
+respondiendo con las 12 respuestas correctas reales — pasó de "Nota: 1, 0/12 correctas" a
+"Nota: 7, 12/12 correctas".
+
+**Queda un residuo documentado, no bloqueante**: ~28 preguntas (de ~850 con alternativas)
+siguen sin calzar exactamente. La mayoría son preguntas de **"emparejar"** ("Une cada
+autoridad con..." / "Clasifica cada elemento como...") — un formato de pregunta que la UI
+actual (opción única) no soporta bien; requieren o un tipo de pregunta nuevo en el frontend,
+o reescribirse como alternativas simples. El resto es contenido en la base de datos que ya no
+coincide exactamente con el archivo `.md` fuente actual (fue editado después de la
+importación original) — se resolverá con una reimportación completa controlada cuando se
+retome el trabajo de contenido, no con otro backfill puntual.
+
 ## ✅ Resuelto en esta sesión (ya no son brechas)
 
 1. ~~El Front no está conectado al backend~~ — conectado con `HttpClient` real, JWT,

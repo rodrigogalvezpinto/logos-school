@@ -31,10 +31,19 @@ RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_RESPUESTA_MARCA = re.compile(
     r"(?i)Respuesta\s+(?:correcta|esperada)\**:?\**\s*"
 )
-RE_RETRO_MARCA = re.compile(r"(?i)Retroalimentaci[oó]n:?\s*")
+## Algunos archivos anteponen un emoji de viñeta ("💬 Retroalimentación:") en su propia
+# línea, justo después de la respuesta — sin el `[^\w\s]{0,2}\s*` inicial, ese emoji queda
+# pegado dentro de `respuesta_correcta` (ej. "Falso 💬") y ya no calza con ninguna opción.
+RE_RETRO_MARCA = re.compile(r"(?i)[^\w\s]{0,2}\s*Retroalimentaci[oó]n:?\s*")
 # Variante encontrada en preguntas de desarrollo sin "Respuesta correcta/esperada"
 # explícita — una única pauta combinada que sirve de respuesta y de retroalimentación.
-RE_PAUTA_MARCA = re.compile(r"(?i)Pauta\s+de\s+retroalimentaci[oó]n:?\s*")
+RE_PAUTA_MARCA = re.compile(r"(?i)[^\w\s]{0,2}\s*Pauta\s+de\s+retroalimentaci[oó]n:?\s*")
+# El texto fuente es inconsistente: a veces "Respuesta correcta: b." (solo la letra), a
+# veces "Respuesta correcta: d) Unidad de mil." (letra + texto repetido). En ambos casos
+# hay que resolver por la letra al texto real de la opción — nunca confiar en lo que la
+# sigue — porque IntentoEvaluacion.entregar()/esCorrectaEnAutoevaluacion() comparan la
+# respuesta del alumno (el texto de la opción que clickeó) contra este campo tal cual.
+RE_LETRA_RESPUESTA = re.compile(r"^\(?([a-dA-D])(?:\)|\.|\s|$)")
 
 
 @dataclass
@@ -112,10 +121,25 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
 
         if tipo == "verdadero_falso":
             opciones_finales = ["Verdadero", "Falso"]
+            # El contenido de Inglés a veces escribe la respuesta en inglés o bilingüe
+            # ("True (Verdadero)", "False (Falso)") — se normaliza a las opciones reales
+            # en español, que es lo único que el alumno puede clickear.
+            respuesta_baja = respuesta_correcta.lower()
+            if "verdadero" in respuesta_baja or respuesta_baja.startswith("true"):
+                respuesta_correcta = "Verdadero"
+            elif "falso" in respuesta_baja or respuesta_baja.startswith("false"):
+                respuesta_correcta = "Falso"
         elif tipo == "alternativas" and opciones:
             opciones_finales = opciones
         else:
             opciones_finales = None
+
+        if opciones_finales:
+            letra_m = RE_LETRA_RESPUESTA.match(respuesta_correcta)
+            if letra_m:
+                idx = ord(letra_m.group(1).lower()) - ord("a")
+                if 0 <= idx < len(opciones_finales):
+                    respuesta_correcta = opciones_finales[idx]
 
         preguntas.append(
             PreguntaParseada(
