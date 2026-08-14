@@ -96,3 +96,37 @@ def test_verdadero_falso_bilingue_se_normaliza_al_espanol():
     preguntas = objetivos[0].preguntas
     assert preguntas[0].respuesta_correcta == "Verdadero"
     assert preguntas[1].respuesta_correcta == "Falso"
+
+
+TEXTO_OPCION_CON_WORD_WRAP = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (Alternativas)** ¿Cuál de las siguientes NO corresponde a una de ellas?
+
+a) Superar la ignorancia.
+b) Predecir con exactitud eventos futuros mediante experimentos
+   controlados.
+c) Enfrentar problemas complejos.
+d) Liberarnos de prejuicios y costumbres.
+
+**Respuesta correcta:** b.
+**Retroalimentación:** predecir es propio del método científico.
+"""
+
+
+def test_opcion_que_se_ajusta_a_dos_lineas_no_contamina_el_enunciado():
+    """Bug real (2026-08-13, simulando 4° medio): una opción larga que se ajusta
+    ("word-wrap") a la línea siguiente sin repetir "b)" hacía que esa segunda línea se
+    pegara al ENUNCIADO en vez de a la opción — el alumno veía "¿cuál de las siguientes NO
+    corresponde a una de ellas? controlados." como pregunta, con una opción "b" truncada."""
+    objetivos = parsear_guia(TEXTO_OPCION_CON_WORD_WRAP)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.enunciado == "¿Cuál de las siguientes NO corresponde a una de ellas?"
+    assert pregunta.opciones[1] == "Predecir con exactitud eventos futuros mediante experimentos controlados."
+    assert pregunta.respuesta_correcta == pregunta.opciones[1]

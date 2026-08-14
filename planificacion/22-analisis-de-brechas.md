@@ -8,6 +8,34 @@ Este documento se generó revisando el estado real del repositorio y de la base 
 (no de memoria) — cada punto está verificado con un comando concreto, no es una lista
 genérica.
 
+## ✅ Los 12 cursos importados y validados (2026-08-13)
+
+A pedido explícito del usuario ("necesito que pruebes todos los cursos de primero básico a
+cuarto medio"), se importaron los 9 cursos que faltaban (antes solo 4°/6° básico y 1° básico
+estaban en la base de datos) y se corrió una validación de contenido automatizada sobre los
+12 completos, más simulaciones reales con Playwright en 1° básico (Régimen A) y 4° medio
+(Régimen C) respondiendo con las respuestas correctas reales.
+
+Encontró 3 bugs de parsing adicionales (más allá de los ya documentados el mismo día en la
+sección de arriba) que solo aparecían en cursos que todavía no se habían probado:
+1. Un tercer formato válido de pregunta usado en 3°-4° medio ("1. *(Alternativas)*", en
+   cursiva) que el fix de "negrita obligatoria" rechazaba por error, dejando 0 preguntas
+   importadas en varias pruebas de 4° medio.
+2. Verdadero/Falso con la explicación pegada a la respuesta en pruebas/exámenes (mismo
+   problema ya visto en el banco de autoevaluación, pero en un parser distinto).
+3. **Opciones que se ajustan a dos líneas ("word-wrap")** sin repetir la letra — la línea de
+   continuación se pegaba al enunciado en vez de a la opción, contaminando la pregunta con
+   texto suelto y truncando la opción real.
+
+**Estado final**: 6.114 preguntas en la base de datos (los 12 cursos), 2.491 de
+alternativas/verdadero-falso, 97.4% con la respuesta correctamente resuelta. El 2.6%
+restante son preguntas de tipo "emparejar" (ver más abajo, sección de calidad/pulido) — un
+formato de pregunta distinto, no un bug de parsing. 133/133 tests backend, 43/43 E2E, ambos
+verificados después de cada fix. Scripts nuevos y reutilizables:
+`scripts/reimportar_pruebas_y_examenes.py` y `scripts/reimportar_banco_autoevaluacion.py`
+(reconstruyen ese contenido desde los `.md` fuente con el parser vigente — útiles si el
+contenido se sigue editando).
+
 ## 🔴 CRÍTICO — encontrado y corregido (2026-08-13): la corrección de alternativas estaba rota en TODO el proyecto
 
 El hallazgo más grave de todo el proyecto hasta ahora, encontrado a pedido explícito del

@@ -33,8 +33,10 @@ gusta la playa".
 
 **3.** *(Alternativas)* ¿Qué palabra falta para completar correctamente: *"Dear
 Mom, ___ Diego."* (modelo de despedida en una postal)
-a) Hello,  b) From,  c) Where,  d) And
-
+a) Hello,
+b) From,
+c) Where,
+d) And
 **4.** *(Verdadero o falso)* En una lista de compras (*shopping list*), es
 correcto escribir: *"I need a dog and a cat."*
 
@@ -51,8 +53,10 @@ ___. I am ___ years old. I like ___."* Escribe tu propia versión.
 **7.** *(Completar)* Complete: *"___ is a ball on the chair."* (There / They / It)
 
 **8.** *(Alternativas)* ¿Qué palabra indica que un objeto está **debajo** de otro?
-a) on  b) in  c) under  d) and
-
+a) on
+b) in
+c) under
+d) and
 **9.** *(Completar con número)* Complete: *"There are ___ pencils in my pencil
 case."* (usa el número 7 en inglés)
 

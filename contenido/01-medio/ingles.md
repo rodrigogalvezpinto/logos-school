@@ -267,7 +267,10 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
 
 1. *(Alternativas)* Read: *"Save water! Take shorter showers and turn off the
    tap while brushing your teeth."* ¿Cuál es el propósito de este texto?
-   a) To entertain  b) To persuade/instruct  c) To tell a story  d) To sell a product
+   a) To entertain
+   b) To persuade/instruct
+   c) To tell a story
+   d) To sell a product
    **Respuesta correcta:** b) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización buscan persuadir al
    lector para que cambie un comportamiento (ahorrar agua).
@@ -309,7 +312,10 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
 7. *(Alternativas — desafiante)* Read: *"Although she was tired, she finished
    her homework so that she could go to the concert."* ¿Qué función cumple
    *"so that"* en la oración?
-   a) Expresa contraste  b) Expresa propósito  c) Expresa secuencia  d) Expresa cantidad
+   a) Expresa contraste
+   b) Expresa propósito
+   c) Expresa secuencia
+   d) Expresa cantidad
    **Respuesta correcta:** b) Expresa propósito.
    **Retroalimentación:** *So that* introduce el propósito de una acción (para
    poder ir al concierto); *although*, en cambio, expresa contraste.

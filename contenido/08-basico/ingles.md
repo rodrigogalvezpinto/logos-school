@@ -253,7 +253,10 @@ discussion*).
 
 1. *(Alternativas)* Read: *"Warning! Do not swim here. Strong currents can be
    dangerous."* ¿Cuál es el propósito de este texto?
-   a) To entertain  b) To warn/instruct  c) To describe a person  d) To tell a story
+   a) To entertain
+   b) To warn/instruct
+   c) To describe a person
+   d) To tell a story
    **Respuesta correcta:** b) To warn/instruct.
    **Retroalimentación:** Los avisos de seguridad tienen la finalidad de advertir
    o instruir al lector para evitar un peligro.
@@ -292,7 +295,10 @@ discussion*).
 7. *(Alternativas — desafiante)* Read: *"The concert was cancelled, so many
    fans were disappointed. Maybe they will reschedule it for next month."* ¿Qué
    función cumple la palabra *"so"* en la oración?
-   a) Añade información  b) Expresa una consecuencia  c) Expresa una condición  d) Expresa posibilidad
+   a) Añade información
+   b) Expresa una consecuencia
+   c) Expresa una condición
+   d) Expresa posibilidad
    **Respuesta correcta:** b) Expresa una consecuencia.
    **Retroalimentación:** *So* conecta una causa (se canceló el concierto) con su
    consecuencia (los fans quedaron decepcionados); *maybe*, en cambio, expresa

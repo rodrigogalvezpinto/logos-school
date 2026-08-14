@@ -15,17 +15,34 @@ import re
 from dataclasses import dataclass
 
 RE_Q_START = re.compile(
-    # El "**" inicial es obligatorio (no "\*{0,2}"): toda pregunta real empieza en negrita
-    # ("**1.**" o "**Pregunta 1 (alternativas).**"). Sin esto, las instrucciones numeradas
-    # al inicio de los exámenes ("1. Este examen contiene 25 preguntas...") se colaban como
-    # preguntas falsas, desalineando la pauta de respuestas con las preguntas reales.
-    r"(?m)^\s*\*\*(?:Pregunta\s+)?(\d+)\.?\*{0,2}\s*(?:\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*)?"
+    # Toda pregunta real cumple AL MENOS UNO de dos rasgos: (a) el número está en negrita
+    # ("**1.**", "**Pregunta 1 (alternativas).**") o (b) trae una etiqueta de tipo entre
+    # paréntesis justo después, en cursiva o negrita ("1. *(Alternativas)*", usado en 3°-4°
+    # medio). Las instrucciones numeradas al inicio de los exámenes ("1. Este examen
+    # contiene 25 preguntas...") no cumplen ninguno de los dos — sin exigir esto, se colaban
+    # como preguntas falsas y desalineaban la pauta de respuestas con las preguntas reales.
+    r"(?m)^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?"
+    r"(?:\*{0,2}\s*\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*|\*\*\s*)"
 )
 RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_PAUTA_HEADING = re.compile(r"^#{1,2}\s*.*pauta.*$", re.IGNORECASE)
 RE_PAUTA_ENTRADA = re.compile(r"(?m)^\s*\*{0,2}(\d+)\.\*{0,2}\s*")
 RE_TABLA_FILA = re.compile(r"^\|\s*(\d+)\s*\|(.*)\|\s*$")
 RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])[\.\)]")
+# La pauta de Verdadero/Falso a veces trae la explicación pegada en la misma entrada
+# ("Verdadero. Es una consecuencia porque...") — sin esto, el texto completo (truncado a
+# 60 caracteres) quedaba como respuesta_correcta y nunca calzaba con la opción real.
+RE_VF_INICIAL = re.compile(r"(?i)^(verdadero|falso)\b")
+
+
+def _resolver_respuesta_pauta(cuerpo: str) -> str:
+    letra = RE_LETRA_INICIAL.match(cuerpo)
+    if letra:
+        return letra.group(1).lower()
+    vf = RE_VF_INICIAL.match(cuerpo)
+    if vf:
+        return vf.group(1).capitalize()
+    return cuerpo[:60]
 
 
 @dataclass
@@ -65,7 +82,13 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
             if op:
                 opciones.append(_limpiar(op.group(1)))
             elif linea.strip():
-                enunciado_partes.append(linea.strip())
+                # Ver el mismo fix y comentario en parser_contenido.py: una opción larga
+                # puede ajustarse a la línea siguiente sin repetir "b)" — esa continuación
+                # pertenece a la última opción, no al enunciado.
+                if opciones:
+                    opciones[-1] = _limpiar(opciones[-1] + " " + linea.strip())
+                else:
+                    enunciado_partes.append(linea.strip())
 
         if opciones:
             tipo = "verdadero_falso" if set(o.lower() for o in opciones) <= {"verdadero", "falso"} else "alternativas"
@@ -91,8 +114,7 @@ def _extraer_pauta_lista(texto_pauta: str) -> dict[int, RespuestaPauta]:
         inicio = m.end()
         fin = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto_pauta)
         cuerpo = _limpiar(texto_pauta[inicio:fin])
-        letra = RE_LETRA_INICIAL.match(cuerpo)
-        respuesta = letra.group(1).lower() if letra else cuerpo[:60]
+        respuesta = _resolver_respuesta_pauta(cuerpo)
         resultado[numero] = RespuestaPauta(respuesta_correcta=respuesta, retroalimentacion=cuerpo)
     return resultado
 
@@ -119,8 +141,7 @@ def _extraer_pauta_tabla(texto_pauta: str) -> dict[int, RespuestaPauta]:
         if idx_ajustado < 0 or idx_ajustado >= len(columnas):
             continue
         cuerpo = _limpiar(columnas[idx_ajustado])
-        letra = RE_LETRA_INICIAL.match(cuerpo)
-        respuesta = letra.group(1).lower() if letra else cuerpo[:60]
+        respuesta = _resolver_respuesta_pauta(cuerpo)
 
         codigo_oa = None
         if idx_oa is not None:

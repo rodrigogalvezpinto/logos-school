@@ -53,3 +53,26 @@ def test_las_instrucciones_numeradas_no_se_cuelan_como_preguntas():
     pregunta_2, pauta_2 = resultado[1]
     assert pauta_2 is not None
     assert pauta_2.respuesta_correcta.lower().startswith("verdadero")
+
+
+TEXTO_OPCION_CON_WORD_WRAP = """
+**Pregunta 1 (alternativas).** ¿Cuál de las siguientes NO corresponde?
+
+a) Superar la ignorancia.
+b) Predecir con exactitud eventos futuros mediante experimentos
+   controlados.
+c) Enfrentar problemas complejos.
+d) Liberarnos de prejuicios y costumbres.
+
+## Pauta de respuestas
+
+**1.** b) Predecir con exactitud eventos futuros mediante experimentos controlados.
+"""
+
+
+def test_opcion_con_word_wrap_no_contamina_el_enunciado():
+    """Mismo bug que en parser_contenido.py, encontrado en pruebas/exámenes también."""
+    resultado = parsear_prueba_o_examen(TEXTO_OPCION_CON_WORD_WRAP)
+    pregunta, pauta = resultado[0]
+    assert pregunta.enunciado == "¿Cuál de las siguientes NO corresponde?"
+    assert pregunta.opciones[1] == "Predecir con exactitud eventos futuros mediante experimentos controlados."

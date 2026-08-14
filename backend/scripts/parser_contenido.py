@@ -105,7 +105,14 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
             if op:
                 opciones.append(_limpiar(op.group(1)))
             elif linea.strip():
-                enunciado_partes.append(linea.strip())
+                # Una opción larga a veces se ajusta ("word-wrap") a la línea siguiente sin
+                # repetir "b)" — si ya vimos al menos una opción, cualquier línea siguiente
+                # que no sea una opción nueva es continuación de la ÚLTIMA opción, no del
+                # enunciado (que siempre va completo antes de la primera opción).
+                if opciones:
+                    opciones[-1] = _limpiar(opciones[-1] + " " + linea.strip())
+                else:
+                    enunciado_partes.append(linea.strip())
         enunciado = _limpiar(" ".join(enunciado_partes))
 
         # respuesta + retroalimentación (después de la marca "Respuesta ...:")

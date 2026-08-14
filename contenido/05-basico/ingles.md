@@ -84,7 +84,10 @@ palabras que se parecen al español (cognados), como *family*, *chocolate* o *an
 
 1. *(Alternativas)* Read: *"Hi! I am Pedro. I am eleven years old."* What is his
    name?
-   a) Ana  b) Pedro  c) Diego  d) Sofía
+   a) Ana
+   b) Pedro
+   c) Diego
+   d) Sofía
    **Respuesta correcta:** b) Pedro.
    **Retroalimentación:** La pregunta pide el nombre; el texto lo dice directamente
    con "I am Pedro" (información explícita).
@@ -191,7 +194,10 @@ parecen al español (cognados), como *chocolate*, *hospital* o *radio*.
    *birthday party* muestran que el propósito es invitar.
 
 2. *(Completar)* Complete: *"___, I don't have a pencil. Can I borrow yours?"*
-   a) Thank you  b) Excuse me  c) Goodbye  d) Happy birthday
+   a) Thank you
+   b) Excuse me
+   c) Goodbye
+   d) Happy birthday
    **Respuesta correcta:** b) Excuse me.
    **Retroalimentación:** *Excuse me* se usa para pedir algo con cortesía o llamar
    la atención de alguien, como pedir prestado un lápiz.
@@ -376,7 +382,10 @@ apoyo de dibujos.
 
 3. *(Alternativas)* ¿Qué palabra falta para completar correctamente: *"Dear Mom, ___
    Diego."* (modelo de despedida en una postal)
-   a) Hello,  b) From,  c) Where,  d) And
+   a) Hello,
+   b) From,
+   c) Where,
+   d) And
    **Respuesta correcta:** b) From,.
    **Retroalimentación:** *From* (de parte de) se usa para firmar cartas y postales
    antes del nombre de quien escribe.
@@ -451,7 +460,10 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
    un lugar, en singular (un objeto).
 
 2. *(Alternativas)* ¿Qué palabra indica que un objeto está **debajo** de otro?
-   a) on  b) in  c) under  d) and
+   a) on
+   b) in
+   c) under
+   d) and
    **Respuesta correcta:** c) under.
    **Retroalimentación:** *Under* significa "debajo de"; *on* es "sobre/encima" y
    *in* es "dentro de".

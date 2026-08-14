@@ -26,7 +26,6 @@ no solo el significado de palabras sueltas.
    b) Greta Thunberg started a school strike in 2018 that inspired millions.
    c) Greta Thunberg only inspired adults.
    d) Greta Thunberg stopped caring about climate change.
-
 2. *(Completar)* Complete: *"This text is ___ the effects of social media on
    teenagers. It explains ___ too much screen time can affect sleep."*
    (about / how)
@@ -63,8 +62,10 @@ no solo el significado de palabras sueltas.
 8. *(Alternativas)* Read: *"Reduce your carbon footprint! Walk or bike
    instead of driving, and turn off lights when you leave a room."* ¿Cuál es
    el propósito de este texto?
-   a) To entertain  b) To persuade/instruct  c) To tell a story  d) To sell a product
-
+   a) To entertain
+   b) To persuade/instruct
+   c) To tell a story
+   d) To sell a product
 9. *(Completar)* Complete with the correct connector: *"___ you recycle at
    home, plastic waste will keep polluting the ocean."* (Unless / As a
    result)
@@ -93,8 +94,10 @@ no solo el significado de palabras sueltas.
 14. *(Alternativas — desafiante)* Read a news article that ends with:
     *"...as soon as new regulations are approved, companies will have to
     reduce their emissions."* ¿Qué relación establece *"as soon as"*?
-    a) Contraste  b) Tiempo inmediato/condición temporal  c) Cantidad  d) Propósito
-
+    a) Contraste
+    b) Tiempo inmediato/condición temporal
+    c) Cantidad
+    d) Propósito
 ---
 
 ## Pauta de respuestas

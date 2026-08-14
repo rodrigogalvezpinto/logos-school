@@ -281,7 +281,10 @@ illogical*).
 1. *(Alternativas)* Read: *"Reduce your carbon footprint! Walk or bike
    instead of driving, and turn off lights when you leave a room."* ¿Cuál es
    el propósito de este texto?
-   a) To entertain  b) To persuade/instruct  c) To tell a story  d) To sell a product
+   a) To entertain
+   b) To persuade/instruct
+   c) To tell a story
+   d) To sell a product
    **Respuesta correcta:** b) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización ambiental buscan
    persuadir al lector para que cambie un comportamiento (reducir su huella
@@ -349,7 +352,10 @@ illogical*).
 9. *(Alternativas — desafiante)* Read a news article that ends with:
    *"...as soon as new regulations are approved, companies will have to
    reduce their emissions."* ¿Qué relación establece *"as soon as"*?
-   a) Contraste  b) Tiempo inmediato/condición temporal  c) Cantidad  d) Propósito
+   a) Contraste
+   b) Tiempo inmediato/condición temporal
+   c) Cantidad
+   d) Propósito
    **Respuesta correcta:** b.
    **Retroalimentación:** *As soon as* (tan pronto como) marca que una
    acción ocurrirá inmediatamente después de que se cumpla otra.

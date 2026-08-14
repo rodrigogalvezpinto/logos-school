@@ -27,11 +27,12 @@ CONTENIDO_DIR = Path(__file__).parent.parent.parent / "contenido"
 
 # Configuración de los cursos a importar — se agregan más a medida que el roadmap
 # avance a más niveles (ver planificacion/03-roadmap-etapas.md).
-CURSOS = [
-    {
-        "carpeta": "01-basico",
+def _curso_regimen_a(carpeta: str, nombre_nivel: str) -> dict:
+    """1°-4° básico — prueba integrada única, 20 preguntas, decreto 439/2012."""
+    return {
+        "carpeta": carpeta,
         "nivel": {
-            "nombre": "1° básico",
+            "nombre": nombre_nivel,
             "regimen": "A",
             "decreto": "439/2012",
             "formato_examen": "integrado",
@@ -45,44 +46,72 @@ CURSOS = [
             ("ciencias-naturales", "Ciencias Naturales"),
             ("historia-geografia-y-cs-sociales", "Historia, Geografía y Cs. Sociales"),
         ],
-    },
-    {
-        "carpeta": "04-basico",
+    }
+
+
+def _curso_regimen_b(carpeta: str, nombre_nivel: str, decreto: str, slug_lengua: str, nombre_lengua: str) -> dict:
+    """5° básico - 2° medio — prueba separada por asignatura, 25 preguntas c/u, se agrega
+    Inglés. Decreto 439/2012 hasta 6° básico, 614/2013 desde 7° básico (cambia también el
+    nombre de la asignatura: "Lenguaje y Comunicación" -> "Lengua y Literatura")."""
+    return {
+        "carpeta": carpeta,
         "nivel": {
-            "nombre": "4° básico",
-            "regimen": "A",
-            "decreto": "439/2012",
-            "formato_examen": "integrado",
-            "num_preguntas_examen": 20,
-            "duracion_examen_min": 90,
-            "materiales_permitidos": "Ninguno",
-        },
-        "asignaturas": [
-            ("lenguaje-y-comunicacion", "Lenguaje y Comunicación"),
-            ("matematica", "Matemática"),
-            ("ciencias-naturales", "Ciencias Naturales"),
-            ("historia-geografia-y-cs-sociales", "Historia, Geografía y Cs. Sociales"),
-        ],
-    },
-    {
-        "carpeta": "06-basico",
-        "nivel": {
-            "nombre": "6° básico",
+            "nombre": nombre_nivel,
             "regimen": "B",
-            "decreto": "439/2012",
+            "decreto": decreto,
             "formato_examen": "separado_por_asignatura",
             "num_preguntas_examen": 25,
             "duracion_examen_min": 90,
             "materiales_permitidos": "Calculadora, diccionario de inglés",
         },
         "asignaturas": [
-            ("lenguaje-y-comunicacion", "Lenguaje y Comunicación"),
+            (slug_lengua, nombre_lengua),
             ("matematica", "Matemática"),
             ("ciencias-naturales", "Ciencias Naturales"),
             ("historia-geografia-y-cs-sociales", "Historia, Geografía y Cs. Sociales"),
             ("ingles", "Inglés"),
         ],
-    },
+    }
+
+
+def _curso_regimen_c(carpeta: str, nombre_nivel: str) -> dict:
+    """3°-4° medio — currículum de decreto 193/2019, asignaturas propias (Ciencias para la
+    Ciudadanía, Filosofía, Educación Ciudadana en vez de Cs. Naturales e Historia)."""
+    return {
+        "carpeta": carpeta,
+        "nivel": {
+            "nombre": nombre_nivel,
+            "regimen": "C",
+            "decreto": "193/2019",
+            "formato_examen": "separado_por_asignatura",
+            "num_preguntas_examen": 25,
+            "duracion_examen_min": 90,
+            "materiales_permitidos": "Calculadora, diccionario de inglés",
+        },
+        "asignaturas": [
+            ("lengua-y-literatura", "Lengua y Literatura"),
+            ("matematica", "Matemática"),
+            ("ciencias-para-la-ciudadania", "Ciencias para la Ciudadanía"),
+            ("filosofia", "Filosofía"),
+            ("ingles", "Inglés"),
+            ("educacion-ciudadana", "Educación Ciudadana"),
+        ],
+    }
+
+
+CURSOS = [
+    _curso_regimen_a("01-basico", "1° básico"),
+    _curso_regimen_a("02-basico", "2° básico"),
+    _curso_regimen_a("03-basico", "3° básico"),
+    _curso_regimen_a("04-basico", "4° básico"),
+    _curso_regimen_b("05-basico", "5° básico", "439/2012", "lenguaje-y-comunicacion", "Lenguaje y Comunicación"),
+    _curso_regimen_b("06-basico", "6° básico", "439/2012", "lenguaje-y-comunicacion", "Lenguaje y Comunicación"),
+    _curso_regimen_b("07-basico", "7° básico", "614/2013", "lengua-y-literatura", "Lengua y Literatura"),
+    _curso_regimen_b("08-basico", "8° básico", "614/2013", "lengua-y-literatura", "Lengua y Literatura"),
+    _curso_regimen_b("01-medio", "1° medio", "614/2013", "lengua-y-literatura", "Lengua y Literatura"),
+    _curso_regimen_b("02-medio", "2° medio", "614/2013", "lengua-y-literatura", "Lengua y Literatura"),
+    _curso_regimen_c("03-medio", "3° medio"),
+    _curso_regimen_c("04-medio", "4° medio"),
 ]
 
 

@@ -25,7 +25,6 @@ texto con calma antes de responder.
    b) Leonardo da Vinci was Italian and painted the Mona Lisa.
    c) Leonardo da Vinci only painted portraits.
    d) Leonardo da Vinci never studied science.
-
 2. *(Completar)* Complete: *"This text is ___ the history of chocolate. It
    explains ___ cacao was used by ancient civilizations."* (about / how)
 
@@ -59,8 +58,10 @@ texto con calma antes de responder.
 
 8. *(Alternativas)* Read: *"Save water! Take shorter showers and turn off the
    tap while brushing your teeth."* ¿Cuál es el propósito de este texto?
-   a) To entertain  b) To persuade/instruct  c) To tell a story  d) To sell a product
-
+   a) To entertain
+   b) To persuade/instruct
+   c) To tell a story
+   d) To sell a product
 9. *(Completar)* Complete with the correct connector: *"The concert started
    late. ___, most people stayed until the end."* (However / So that)
 

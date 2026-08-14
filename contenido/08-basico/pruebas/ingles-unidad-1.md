@@ -25,7 +25,6 @@ texto con calma antes de responder.
    b) Smartphones changed how teenagers communicate; now they text more than they call.
    c) Apps are difficult to use.
    d) Phone calls are more popular than apps.
-
 2. *(Completar)* Complete the summary: *"This text is ___ recycling. It explains
    why it is important ___ protect the environment."* (about / to)
 
@@ -48,7 +47,6 @@ texto con calma antes de responder.
    b) Why is solar energy popular in some countries but not others?
    c) Is solar energy renewable?
    d) Does wind power exist?
-
 7. *(Escribir un resumen — desafiante)* Read: *"Learning a second language helps
    your brain. Studies show bilingual people can solve problems faster and
    remember things better. It can also help you find a job in the future."*
@@ -56,8 +54,10 @@ texto con calma antes de responder.
 
 8. *(Alternativas)* Read: *"Warning! Do not swim here. Strong currents can be
    dangerous."* ¿Cuál es el propósito de este texto?
-   a) To entertain  b) To warn/instruct  c) To describe a person  d) To tell a story
-
+   a) To entertain
+   b) To warn/instruct
+   c) To describe a person
+   d) To tell a story
 9. *(Completar)* Complete with the correct connector: *"I did my homework.
    ___, I watched a movie."* (Then / Until)
 
@@ -73,8 +73,10 @@ texto con calma antes de responder.
 13. *(Alternativas — desafiante)* Read: *"The concert was cancelled, so many
     fans were disappointed. Maybe they will reschedule it for next month."* ¿Qué
     función cumple la palabra *"so"* en la oración?
-    a) Añade información  b) Expresa una consecuencia  c) Expresa una condición  d) Expresa posibilidad
-
+    a) Añade información
+    b) Expresa una consecuencia
+    c) Expresa una condición
+    d) Expresa posibilidad
 14. *(Alternativas — desafiante)* Read a diagram with two graphs comparing
     internet use in 2010 and 2024. ¿Qué habilidad se necesita para responder
     preguntas sobre este texto?
@@ -82,7 +84,6 @@ texto con calma antes de responder.
     b) Memorizar todo el vocabulario
     c) Ignorar los gráficos
     d) Escribir una biografía
-
 ---
 
 ## Pauta de respuestas

@@ -115,11 +115,9 @@ motor de contenido/evaluación sin cambios de fondo.
 oficiales cubiertos en las 4 asignaturas de cada curso. Ver `contenido/00-estado-contenido.md`
 para el detalle.
 
-**Importado a la base de datos (distinto de "escrito"):** solo 4° básico (piloto) y 6°
-básico. **1° básico se importó el 2026-08-13** como parte de una simulación real de un
-alumno de ese curso (ver hallazgo #15 en `22-analisis-de-brechas.md`) — quedan 2° y 3°
-básico por importar cuando se retome esta etapa (mismo procedimiento: agregar la entrada en
-`scripts/importar_contenido.py` y correrlo, es idempotente por Nivel).
+**Importado a la base de datos: ✅ los 4 cursos (2026-08-13).** Régimen A completo también
+en base de datos, no solo en archivos — ver Etapa 6 para el detalle de la importación e
+validación de los 12 cursos completos.
 
 ## Etapa 4 — Extender al Régimen B (5° básico en adelante)
 
@@ -150,9 +148,34 @@ de cada curso, incluyendo las 3 asignaturas nuevas del Plan Común.
 
 - Los 12 niveles disponibles, cubriendo los 3 regímenes de examen.
 
-**Estado: ✅ COMPLETA (2026-08-10).** Los 12 cursos (1° básico a 4° medio) tienen contenido
-de estudio íntegro: **2.917 preguntas de autoevaluación, 408/408 Objetivos de Aprendizaje
-oficiales cubiertos** — el 100% de lo extraído de los 12 temarios UCE/Mineduc. Ver
+**Estado: ✅ COMPLETA (2026-08-10) en contenido escrito, ✅ IMPORTADA A LA BASE DE DATOS
+(2026-08-13).** Los 12 cursos (1° básico a 4° medio) tienen contenido de estudio íntegro:
+**2.917 preguntas de autoevaluación, 408/408 Objetivos de Aprendizaje oficiales cubiertos**
+— el 100% de lo extraído de los 12 temarios UCE/Mineduc. Ver `contenido/00-estado-contenido.md`
+para el detalle curso por curso y asignatura por asignatura.
+
+**Importación y validación completa (2026-08-13)**: a pedido del usuario ("necesito que
+pruebes todos los cursos"), se importaron los 12 niveles a la base de datos local (antes
+solo 3 estaban importados) y se corrió una validación automatizada + simulaciones reales con
+Playwright (1° básico y 4° medio, cubriendo Régimen A y C) sobre el contenido completo. Esto
+expuso y corrigió 3 bugs de parsing adicionales que no aparecían en los 3 cursos ya probados:
+- Un tercer formato válido de pregunta ("1. *(Alternativas)*", cursiva, usado en 3°-4°
+  medio) que el fix anterior de "negrita obligatoria" rechazaba por error.
+- Verdadero/Falso con la explicación pegada a la respuesta en pruebas/exámenes
+  ("Verdadero. Es una consecuencia porque...") — mismo problema que el ya corregido en el
+  banco de autoevaluación, encontrado también acá.
+- **Opciones de alternativas que se ajustan a dos líneas ("word-wrap")** sin repetir la
+  letra — la línea de continuación se pegaba al ENUNCIADO en vez de a la opción, dejando
+  preguntas con texto contaminado (ej. "...¿cuál de las siguientes NO corresponde? controlados.")
+  y una opción truncada. Afectaba ambos parsers.
+
+**Resultado tras corregir y reimportar los 12 cursos**: 2.491 preguntas de
+alternativas/verdadero-falso en total, 2.427 (97.4%) con la respuesta ya correctamente
+resuelta al texto real de la opción. El 2.6% restante son preguntas de tipo "emparejar"
+("Une cada... con...") — mismo formato no soportado por la UI actual, documentado en
+`22-analisis-de-brechas.md`, no un bug nuevo. Verificado en vivo con Playwright respondiendo
+un examen completo de Filosofía (4° medio, Régimen C) con las respuestas correctas reales:
+Nota 7, 16/16 correctas. 133/133 tests backend, 43/43 E2E.
 `contenido/00-estado-contenido.md` para el detalle curso por curso y asignatura por
 asignatura. Con esto se cumple la condición del usuario de tener "toda la materia lista
 antes de comenzar" el desarrollo de la aplicación.

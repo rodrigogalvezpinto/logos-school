@@ -27,8 +27,10 @@ cada palabra — apóyate en las imágenes descritas, los cognados y el contexto
 
 **1.** *(Alternativas)* Read: *"Hi! I am Pedro. I am eleven years old."* What is his
 name?
-a) Ana  b) Pedro  c) Diego  d) Sofía
-
+a) Ana
+b) Pedro
+c) Diego
+d) Sofía
 **2.** *(Verdadero o falso)* Read: *"My mother is a doctor. My father is a
 teacher."* Statement: *His father is a doctor.*
 
@@ -51,8 +53,10 @@ c) Pedir disculpas
 d) Describir el clima
 
 **6.** *(Completar)* Complete: *"___, I don't have a pencil. Can I borrow yours?"*
-a) Thank you  b) Excuse me  c) Goodbye  d) Happy birthday
-
+a) Thank you
+b) Excuse me
+c) Goodbye
+d) Happy birthday
 **7.** *(Emparejar palabra-imagen descrita)* Imagina una tarjeta con un pastel,
 globos y velas. ¿Qué tipo de texto es más probable: *a menu* o *a birthday card*?
 

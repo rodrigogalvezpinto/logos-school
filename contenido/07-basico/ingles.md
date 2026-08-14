@@ -98,7 +98,10 @@ culturas.
 1. *(Alternativas)* Read: *"Volcanoes are common in Chile because the country is
    located between two tectonic plates. There are more than 500 volcanoes in the
    country."* What is the text mainly about?
-   a) Chilean food  b) Volcanoes in Chile  c) Tectonic games  d) Chilean history
+   a) Chilean food
+   b) Volcanoes in Chile
+   c) Tectonic games
+   d) Chilean history
    **Respuesta correcta:** b) Volcanoes in Chile.
    **Retroalimentación:** El texto completo gira en torno a los volcanes; los
    detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.
@@ -221,7 +224,10 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
 1. *(Alternativas)* Read the instructions: *"First, turn on the computer. Next,
    open the browser. Finally, type the website address."* ¿Qué tipo de texto es
    este?
-   a) A biography  b) An opinion column  c) A set of instructions  d) A poem
+   a) A biography
+   b) An opinion column
+   c) A set of instructions
+   d) A poem
    **Respuesta correcta:** c) A set of instructions.
    **Retroalimentación:** Los conectores de secuencia (*first, next, finally*) y
    los pasos ordenados son típicos de un texto de instrucciones.
@@ -260,7 +266,10 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
 
 7. *(Alternativas — desafiante)* Read: *"The ice melted because the sun was very
    hot."* ¿Qué relación expresa esta oración?
-   a) Secuencia  b) Causa y efecto  c) Comparación  d) Opinión
+   a) Secuencia
+   b) Causa y efecto
+   c) Comparación
+   d) Opinión
    **Respuesta correcta:** b) Causa y efecto.
    **Retroalimentación:** *Because* introduce la causa (el sol estaba caliente)
    que explica el efecto (el hielo se derritió).
