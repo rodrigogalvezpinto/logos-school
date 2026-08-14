@@ -35,6 +35,8 @@ class ItemHistorialRespuesta(BaseModel):
 class GuiaRevisadaRespuesta(BaseModel):
     oa_id: int
     fecha: datetime
+    codigo_oficial: str
+    asignatura_nombre: str
 
 
 class NotaPorAsignaturaRespuesta(BaseModel):
@@ -66,7 +68,11 @@ def obtener_historial(
             for i in resultado.historial
         ],
         guias_revisadas=[
-            GuiaRevisadaRespuesta(oa_id=g.oa_id, fecha=g.fecha) for g in resultado.guias_revisadas
+            GuiaRevisadaRespuesta(
+                oa_id=g.oa_id, fecha=g.fecha,
+                codigo_oficial=g.codigo_oficial, asignatura_nombre=g.asignatura_nombre,
+            )
+            for g in resultado.guias_revisadas
         ],
         notas_por_asignatura=[
             NotaPorAsignaturaRespuesta(

@@ -265,7 +265,7 @@ export class Notas {
     }));
     const guias: FilaHistorial[] = h.guias_revisadas.map((g) => ({
       etiqueta: 'Guía revisada',
-      detalle: `OA ${g.oa_id}`,
+      detalle: `${g.asignatura_nombre} — ${g.codigo_oficial}`,
       nota: null,
       fecha: g.fecha,
       tipo: 'guia' as const,

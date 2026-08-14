@@ -11,6 +11,8 @@ from typing import Protocol
 class GuiaRevisada:
     oa_id: int
     fecha: datetime
+    codigo_oficial: str
+    asignatura_nombre: str
 
 
 class RepositorioProgreso(Protocol):

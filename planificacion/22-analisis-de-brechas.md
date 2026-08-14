@@ -8,6 +8,43 @@ Este documento se generó revisando el estado real del repositorio y de la base 
 (no de memoria) — cada punto está verificado con un comando concreto, no es una lista
 genérica.
 
+## ✅ Panel de Administrador y Rol Profesor probados a fondo (2026-08-13)
+
+Hasta ahora Admin y Profesor solo tenían cobertura E2E (la página carga, el flujo no tira
+error) sin la misma revisión visual/de datos que ya se le había hecho al panel del Alumno.
+Se probaron ambos en vivo con Playwright:
+
+- **Panel de Administrador**: Dashboard, Planes (crear/desactivar), Descuentos (crear),
+  Cortesías (buscar/asignar), Profesores (lista de pendientes) — todo funciona, sin errores
+  de consola, sin bugs encontrados.
+- **Rol Profesor**: registro → aprobación por Admin → login → crear curso → buscar y agregar
+  alumno real (Sofía) → publicar comunicado → confirmado que Sofía lo ve en su "Mi Curso" —
+  todo funciona, sin errores de consola.
+
+**Bug real encontrado (y corregido) durante esta prueba**: el historial de "Mis Notas"
+mostraba **"OA 72"** en vez de **"OA 5"** para las guías revisadas — `oa_id` es el ID
+autoincremental interno de la fila en la base de datos (crece con cada curso importado, no
+tiene relación con la numeración oficial del temario), no el código oficial del OA
+(`codigo_oficial`, ej. "OA 5"). Corregido en `RepositorioProgresoSQLModel.listar_guias_revisadas`
+(ahora hace join contra `ObjetivoAprendizaje`/`Asignatura`) hasta el frontend — ahora muestra
+"Inglés — OA 5". Nuevo test de regresión en `test_progreso.py`.
+
+**Decisión de producto pendiente, no corregida (dejada para que la decida el usuario)**: al
+agregar un alumno a un Curso/Sección, el Profesor **no tiene ninguna validación de que el
+nivel del alumno coincida con el nivel del curso** — se pudo agregar a Sofía (4° básico) a un
+curso creado como "8° básico" sin ningún aviso. Puede ser intencional (flexibilidad para
+grupos mixtos/extracurriculares) o un descuido de la especificación original de Etapa 2
+(que explícitamente no exigía este chequeo "para simplificar"). Si se decide que debe
+bloquearse, es un cambio acotado en `AgregarAlumnoACurso` (application/curso_seccion/casos_de_uso.py).
+
+**Observación de UX, no bug**: la página `/configuracion` vista desde el perfil de un Alumno
+(ej. Sofía) muestra el nombre y correo del **Apoderado** (dueño de la cuenta), no del alumno
+— es correcto según el modelo de datos (el alumno no tiene cuenta propia, solo un perfil
+dentro de la cuenta del apoderado), pero podría confundir a un niño que explora esa pantalla
+sin entender por qué ve el nombre de su papá/mamá ahí. Vale la pena considerar un aviso
+("Esta es la cuenta de tu apoderado") o simplemente no mostrar el ítem "Configuración" en el
+sidebar del Alumno.
+
 ## ✅ Los 12 cursos importados y validados (2026-08-13)
 
 A pedido explícito del usuario ("necesito que pruebes todos los cursos de primero básico a

@@ -17,6 +17,8 @@ export interface ItemHistorial {
 export interface GuiaRevisada {
   oa_id: number;
   fecha: string;
+  codigo_oficial: string;
+  asignatura_nombre: string;
 }
 
 export interface NotaPorAsignatura {

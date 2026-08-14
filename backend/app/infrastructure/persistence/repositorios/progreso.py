@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from sqlmodel import Session, select
 
 from app.domain.progreso.ports import GuiaRevisada
+from app.infrastructure.persistence.orm_models import Asignatura, ObjetivoAprendizaje
 from app.infrastructure.persistence.orm_models import ProgresoOA as ProgresoORM
 
 
@@ -37,11 +38,19 @@ class RepositorioProgresoSQLModel:
 
     def listar_guias_revisadas(self, perfil_alumno_id: int) -> list[GuiaRevisada]:
         filas = self._session.exec(
-            select(ProgresoORM).where(ProgresoORM.perfil_alumno_id == perfil_alumno_id)
+            select(ProgresoORM, ObjetivoAprendizaje, Asignatura)
+            .join(ObjetivoAprendizaje, ProgresoORM.oa_id == ObjetivoAprendizaje.id)
+            .join(Asignatura, ObjetivoAprendizaje.asignatura_id == Asignatura.id)
+            .where(ProgresoORM.perfil_alumno_id == perfil_alumno_id)
         ).all()
         return [
-            GuiaRevisada(oa_id=f.oa_id, fecha=self._con_tz(f.ultimo_intento_fecha))
-            for f in filas
+            GuiaRevisada(
+                oa_id=f.oa_id,
+                fecha=self._con_tz(f.ultimo_intento_fecha),
+                codigo_oficial=oa.codigo_oficial,
+                asignatura_nombre=asignatura.nombre,
+            )
+            for f, oa, asignatura in filas
             if f.ultimo_intento_fecha is not None
         ]
 

@@ -111,7 +111,13 @@ def test_marcar_guia_revisada_aparece_en_el_historial(client, session):
 
     r = client.get(f"/progreso/{perfil_id}", headers=headers)
     assert len(r.json()["guias_revisadas"]) == 1
-    assert r.json()["guias_revisadas"][0]["oa_id"] == oa.id
+    guia = r.json()["guias_revisadas"][0]
+    assert guia["oa_id"] == oa.id
+    # El historial debe mostrar el código oficial del temario ("OA 1"), no el id interno de
+    # base de datos — bug real encontrado simulando el panel del Apoderado (mostraba "OA 72",
+    # un id autoincremental sin relación con la numeración oficial del OA).
+    assert guia["codigo_oficial"] == "OA 1"
+    assert guia["asignatura_nombre"] == asignatura.nombre
 
 
 def test_marcar_guia_revisada_dos_veces_no_duplica(client, session):
