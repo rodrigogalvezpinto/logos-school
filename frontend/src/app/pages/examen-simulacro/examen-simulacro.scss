@@ -10,6 +10,15 @@
   --color-primario-suave: #2a2559;
   --color-exito-suave: rgba(34, 197, 94, 0.18);
   --color-alerta-suave: rgba(245, 158, 11, 0.18);
+  --color-error-suave: rgba(239, 68, 68, 0.18);
+  // Las variantes "-texto" (--color-exito-texto y hermanas) son tonos oscurecidos
+  // pensados para texto sobre fondo CLARO (ver styles.scss) — sobre la tarjeta oscura
+  // de este modo (--fondo-tarjeta más arriba) quedarían casi ilegibles (verde oscuro
+  // sobre morado oscuro). Acá se redefinen a un tono claro con buen contraste sobre
+  // fondo oscuro en su lugar.
+  --color-exito-texto: #4ade80;
+  --color-alerta-texto: #fbbf24;
+  --color-error-texto: #f87171;
   --sombra-tarjeta: none;
 
   min-height: 100vh;

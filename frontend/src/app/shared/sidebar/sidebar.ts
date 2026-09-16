@@ -15,6 +15,14 @@ const SIDEBAR_ALUMNO: ItemSidebar[] = [
   { etiqueta: 'Pruebas y Exámenes', icono: '📝', ruta: '/alumno/evaluaciones' },
   { etiqueta: 'Mis Notas', icono: '📊', ruta: '/alumno/notas' },
   { etiqueta: 'Plan de Estudio', icono: '📅', ruta: '/alumno/plan-estudio' },
+  { etiqueta: 'Mis Logros', icono: '🏆', ruta: '/alumno/logros' },
+  { etiqueta: 'Plan Lector', icono: '📖', ruta: '/alumno/plan-lector' },
+  { etiqueta: 'Útiles Escolares', icono: '🎒', ruta: '/alumno/utiles-escolares' },
+  // Fuera de alcance de esta etapa a propósito (ver planificacion/27-plan-incorporacion-hallazgos-brincus.md)
+  // — marcadores de roadmap, no funcionalidad rota ni oculta sin avisar.
+  { etiqueta: 'Profesor IA', icono: '🤖', ruta: '/alumno/proximamente/profesor-ia', proximamente: true },
+  { etiqueta: 'Juegos', icono: '🎮', ruta: '/alumno/proximamente/juegos', proximamente: true },
+  { etiqueta: 'Videos', icono: '🎬', ruta: '/alumno/proximamente/videos', proximamente: true },
 ];
 
 const SIDEBAR_APODERADO: ItemSidebar[] = [
@@ -23,6 +31,10 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
   { etiqueta: 'Progreso por Alumno', icono: '📊', ruta: '/apoderado/progreso' },
   { etiqueta: 'Plan y Pagos', icono: '💳', ruta: '/apoderado/plan' },
 ];
+
+// Idea propia (no un hallazgo de Brincus): con un solo alumno, "Mis Notas" ya cumple ese rol
+// — una pantalla aparte que resume "un solo alumno" sería una pantalla de más.
+const ITEM_ESTADISTICAS: ItemSidebar = { etiqueta: 'Estadísticas', icono: '📈', ruta: '/apoderado/estadisticas' };
 
 @Component({
   selector: 'app-sidebar',
@@ -135,8 +147,16 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
         font-weight: 600;
       }
       .sidebar__item--proximamente {
-        opacity: 0.55;
+        /* Antes usaba opacity para "verse apagado" — pero opacity diluye también el
+           color del badge "pronto" (ya elegido para cumplir contraste AA por sí solo,
+           ver --color-alerta-texto), bajándolo por debajo del mínimo (bug real
+           encontrado por axe-core al agregar los primeros ítems "próximamente" fijos).
+           Ahora la distinción visual es sin tocar contraste: sin negrita al activarse,
+           sin hover, y el ícono sí puede opacarse porque no es texto. */
         cursor: default;
+      }
+      .sidebar__item--proximamente .sidebar__icono {
+        opacity: 0.55;
       }
       .sidebar__item--proximamente:hover {
         background: none;
@@ -149,7 +169,7 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
         margin-left: auto;
         font-size: 0.65rem;
         background: var(--color-alerta-suave);
-        color: var(--color-alerta);
+        color: var(--color-alerta-texto);
         padding: 0.1rem 0.4rem;
         border-radius: 999px;
       }
@@ -166,9 +186,15 @@ const SIDEBAR_APODERADO: ItemSidebar[] = [
 export class Sidebar {
   @Input() modo: 'alumno' | 'apoderado' = 'alumno';
   @Input() abierto = false;
+  @Input() mostrarEstadisticas = false;
   @Output() cerrar = new EventEmitter<void>();
 
   get items(): ItemSidebar[] {
-    return this.modo === 'alumno' ? SIDEBAR_ALUMNO : SIDEBAR_APODERADO;
+    if (this.modo === 'alumno') return SIDEBAR_ALUMNO;
+    if (this.mostrarEstadisticas) {
+      const [inicio, ...resto] = SIDEBAR_APODERADO;
+      return [inicio, ITEM_ESTADISTICAS, ...resto];
+    }
+    return SIDEBAR_APODERADO;
   }
 }

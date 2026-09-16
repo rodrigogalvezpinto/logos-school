@@ -1,3 +1,4 @@
+import { AxeBuilder } from '@axe-core/playwright';
 import { test, expect } from '@playwright/test';
 import { capturarErroresConsola } from './helpers';
 
@@ -40,13 +41,26 @@ test('flujo completo de registro: crear cuenta → agregar alumno → plan → p
   // El nombre del alumno recién creado debe reflejarse, no un valor hardcodeado.
   await expect(page.locator('h1')).toContainText('Alumno QA');
 
-  await page.click('button:has-text("Comenzar mis 7 días gratis")');
+  await page.click('button:has-text("Comenzar mis 5 días gratis")');
   await expect(page).toHaveURL(/selector-perfil/);
   await expect(page.getByText('Alumno QA')).toBeVisible();
 
   await page.getByText('Alumno QA').click();
   await expect(page).toHaveURL(/alumno\/inicio/);
   await expect(page.locator('h1')).toContainText('Alumno QA');
+
+  // Countdown de prueba gratuita (hallazgo comparando en vivo contra Brincus — ver
+  // planificacion/27-plan-incorporacion-hallazgos-brincus.md): recién activada, debe
+  // mostrar "5 días".
+  await expect(page.locator('.aviso-prueba')).toContainText('5 días');
+
+  // Tarjeta de onboarding con degradado de marca (cuenta recién creada = 0 pasos
+  // completados, es el único momento en que este componente se ve con datos reales sin
+  // manipular la base a mano) — verificación de accesibilidad sobre el degradado nuevo.
+  await expect(page.locator('.onboarding')).toBeVisible();
+  const resultadosAxe = await new AxeBuilder({ page }).analyze();
+  const graves = resultadosAxe.violations.filter((v) => v.impact === 'serious' || v.impact === 'critical');
+  expect(graves, JSON.stringify(graves, null, 2)).toEqual([]);
 
   expect(errores, `Errores de consola: ${errores.join(', ')}`).toEqual([]);
 });

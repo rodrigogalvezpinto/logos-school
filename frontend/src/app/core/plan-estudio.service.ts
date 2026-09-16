@@ -11,6 +11,8 @@ export interface SesionEstudio {
   incluye_prueba_unidad: boolean;
   minutos_estimados: number;
   cumplida: boolean;
+  es_repaso: boolean;
+  atrasada: boolean;
 }
 
 export interface PlanDeEstudio {
@@ -37,5 +39,11 @@ export class PlanEstudioService {
 
   obtenerPlan(perfilAlumnoId: number): Observable<PlanDeEstudio> {
     return this.http.get<PlanDeEstudio>(`${this.base}/plan-estudio/${perfilAlumnoId}`);
+  }
+
+  agregarRepaso(perfilAlumnoId: number, asignaturaId: number, oaIds: number[]): Observable<SesionEstudio> {
+    return this.http.post<SesionEstudio>(`${this.base}/plan-estudio/${perfilAlumnoId}/repaso`, {
+      asignatura_id: asignaturaId, oa_ids: oaIds,
+    });
   }
 }

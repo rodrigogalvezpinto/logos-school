@@ -11,7 +11,7 @@ from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes,
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.shared.reloj import Reloj
 
-DURACION_PRUEBA_GRATIS_DIAS = 7
+DURACION_PRUEBA_GRATIS_DIAS = 5
 
 
 class CrearPlan:

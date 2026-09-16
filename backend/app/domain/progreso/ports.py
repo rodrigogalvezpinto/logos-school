@@ -47,6 +47,10 @@ class ItemFaltante:
     nombre: str
     asignatura_id: int | None
     habilitado: bool
+    fecha_programada: datetime | None = None
+    """Si tiene valor y todavía no llega esa fecha, el ítem queda "próximamente" —
+    `habilitado` ya viene en `False` en ese caso, esto es solo para que la UI muestre
+    cuándo, en vez de un simple "no disponible" (Fase 1, ítem 2.1)."""
 
 
 @dataclass(frozen=True)

@@ -9,14 +9,18 @@ from datetime import datetime
 from fastapi import APIRouter, Depends, status
 from pydantic import BaseModel
 
+from app.application.gamificacion.casos_de_uso import SumarXp
 from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
 from app.core.deps import (
     get_marcar_guia_revisada_uc,
     get_obtener_faltantes_uc,
     get_obtener_historial_y_notas_uc,
+    get_repositorio_progreso,
+    get_sumar_xp_uc,
     verificar_perfil_propio,
 )
+from app.infrastructure.persistence.repositorios.progreso import RepositorioProgresoSQLModel
 
 router = APIRouter(prefix="/progreso", tags=["progreso"])
 
@@ -84,13 +88,23 @@ def obtener_historial(
     )
 
 
+XP_POR_GUIA_REVISADA = 2
+
+
 @router.post("/{perfil_alumno_id}/guias/{oa_id}/revisada", status_code=status.HTTP_204_NO_CONTENT)
 def marcar_guia_revisada(
     oa_id: int,
     perfil_alumno_id: int = Depends(verificar_perfil_propio),
     uc: MarcarGuiaRevisada = Depends(get_marcar_guia_revisada_uc),
+    repo_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+    sumar_xp_uc: SumarXp = Depends(get_sumar_xp_uc),
 ):
+    # Gamificación (Fase 1, ítem 2.2): solo la primera vez que se revisa esta guía da XP
+    # — `marcar_guia_revisada` es idempotente (solo actualiza la fecha en repeticiones).
+    ya_revisada = any(g.oa_id == oa_id for g in repo_progreso.listar_guias_revisadas(perfil_alumno_id))
     uc.ejecutar(perfil_alumno_id, oa_id)
+    if not ya_revisada:
+        sumar_xp_uc.ejecutar(perfil_alumno_id, XP_POR_GUIA_REVISADA, tipo_actividad="guia")
 
 
 class ItemFaltanteRespuesta(BaseModel):
@@ -99,6 +113,7 @@ class ItemFaltanteRespuesta(BaseModel):
     nombre: str
     asignatura_id: int | None
     habilitado: bool
+    fecha_programada: datetime | None = None
 
 
 class CoberturaAsignaturaRespuesta(BaseModel):
@@ -125,6 +140,7 @@ def obtener_faltantes(
             ItemFaltanteRespuesta(
                 conjunto_id=f.conjunto_id, tipo=f.tipo, nombre=f.nombre,
                 asignatura_id=f.asignatura_id, habilitado=f.habilitado,
+                fecha_programada=f.fecha_programada,
             )
             for f in resultado.faltantes
         ],

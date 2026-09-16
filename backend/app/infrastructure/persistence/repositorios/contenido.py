@@ -13,19 +13,29 @@ class RepositorioContenidoSQLModel:
     def existe_nivel(self, nivel_id: int) -> bool:
         return self._session.get(NivelORM, nivel_id) is not None
 
+    def obtener_nivel(self, nivel_id: int) -> NivelLectura | None:
+        fila = self._session.get(NivelORM, nivel_id)
+        return self._nivel_a_lectura(fila) if fila else None
+
     def listar_niveles(self) -> list[NivelLectura]:
-        filas = self._session.exec(select(NivelORM)).all()
-        return [
-            NivelLectura(
-                id=f.id, nombre=f.nombre, regimen=f.regimen,
-                num_preguntas_examen=f.num_preguntas_examen, duracion_examen_min=f.duracion_examen_min,
-            )
-            for f in filas
-        ]
+        # `order_by(orden)` es obligatorio acá: sin él, Postgres no garantiza ningún
+        # orden en particular (ver Nivel.orden en orm_models.py) — un <select> de nivel
+        # en el frontend que asume "el primero es el más bajo" (ej. profesor-dashboard.ts
+        # al crear un Curso/Sección) quedaba a merced del orden físico de la tabla.
+        filas = self._session.exec(select(NivelORM).order_by(NivelORM.orden)).all()
+        return [self._nivel_a_lectura(f) for f in filas]
+
+    @staticmethod
+    def _nivel_a_lectura(fila: NivelORM) -> NivelLectura:
+        return NivelLectura(
+            id=fila.id, nombre=fila.nombre, regimen=fila.regimen,
+            num_preguntas_examen=fila.num_preguntas_examen, duracion_examen_min=fila.duracion_examen_min,
+            orden=fila.orden,
+        )
 
     def listar_asignaturas(self, nivel_id: int) -> list[AsignaturaLectura]:
         filas = self._session.exec(select(AsignaturaORM).where(AsignaturaORM.nivel_id == nivel_id)).all()
-        return [AsignaturaLectura(id=f.id, nombre=f.nombre) for f in filas]
+        return [AsignaturaLectura(id=f.id, nombre=f.nombre, nivel_id=f.nivel_id) for f in filas]
 
     def listar_objetivos(self, asignatura_id: int) -> list[ObjetivoLectura]:
         filas = self._session.exec(
@@ -39,7 +49,7 @@ class RepositorioContenidoSQLModel:
 
     def obtener_asignatura(self, asignatura_id: int) -> AsignaturaLectura | None:
         fila = self._session.get(AsignaturaORM, asignatura_id)
-        return AsignaturaLectura(id=fila.id, nombre=fila.nombre) if fila else None
+        return AsignaturaLectura(id=fila.id, nombre=fila.nombre, nivel_id=fila.nivel_id) if fila else None
 
     @staticmethod
     def _a_lectura(fila: ObjetivoORM) -> ObjetivoLectura:

@@ -265,3 +265,83 @@ def test_conjunto_con_perfil_alumno_id_conserva_todas_las_preguntas(client, sess
     r = client.get(f"/evaluaciones/conjuntos/{conjunto.id}", params={"perfil_alumno_id": perfil.id})
     orden = [p["id"] for p in r.json()["preguntas"]]
     assert sorted(orden) == sorted([p1.id, p2.id, p3.id])
+
+
+def test_responder_con_texto_demasiado_largo_da_422(client, session):
+    """Auditoría de seguridad (Fase 1, ver
+    planificacion/27-plan-incorporacion-hallazgos-brincus.md): sin límite, un request
+    directo a la API (sin pasar por el frontend) podía guardar una respuesta de
+    desarrollo de tamaño arbitrario."""
+    conjunto, perfil, (p1, p2, p3), headers = _preparar(client, session)
+    intento_id = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    ).json()["id"]
+    r = client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p3.id, "respuesta": "x" * 4001},
+    )
+    assert r.status_code == 422
+
+
+def test_listar_conjuntos_de_asignatura_sin_perfil_no_trae_historial(client, session):
+    """Comparado en vivo contra Brincus (que muestra "Ver intentos" junto a cada
+    cuestionario del temario, sin obligar al alumno a ir a una sección de notas aparte):
+    sin `perfil_alumno_id`, la lista de pruebas/exámenes sigue funcionando igual que
+    antes (retrocompatible), solo que sin datos de historial."""
+    conjunto, _, _, headers = _preparar(client, session)
+    r = client.get(f"/evaluaciones/conjuntos/asignatura/{conjunto.asignatura_id}", headers=headers)
+    assert r.status_code == 200
+    fila = next(c for c in r.json() if c["id"] == conjunto.id)
+    assert fila["intentos_entregados"] == 0
+    assert fila["ultima_nota"] is None
+
+
+def test_listar_conjuntos_de_asignatura_con_perfil_trae_la_ultima_nota(client, session):
+    conjunto, perfil, (p1, p2, p3), headers = _preparar(client, session)
+    intento_id = client.post(
+        "/evaluaciones/intentos", headers=headers,
+        json={"perfil_alumno_id": perfil.id, "conjunto_evaluacion_id": conjunto.id},
+    ).json()["id"]
+    client.patch(
+        f"/evaluaciones/intentos/{intento_id}/responder", headers=headers,
+        json={"pregunta_id": p1.id, "respuesta": "4"},
+    )
+    client.post(f"/evaluaciones/intentos/{intento_id}/entregar", headers=headers)
+
+    r = client.get(
+        f"/evaluaciones/conjuntos/asignatura/{conjunto.asignatura_id}",
+        params={"perfil_alumno_id": perfil.id}, headers=headers,
+    )
+    assert r.status_code == 200
+    fila = next(c for c in r.json() if c["id"] == conjunto.id)
+    assert fila["intentos_entregados"] == 1
+    assert fila["ultima_nota"] is not None
+
+
+def test_listar_conjuntos_de_asignatura_con_perfil_ajeno_da_403(client, session):
+    """Mismo bug de seguridad que ya se corrigió en otros endpoints (ej.
+    reportar-error): sin verificar dueño, cualquiera con sesión podía leer la nota de un
+    alumno ajeno con solo adivinar su perfil_alumno_id."""
+    conjunto, _, _, headers = _preparar(client, session)
+    email_b = f"apoderado.intentos.ajeno.{next(_CONTADOR_EMAILS)}@test.cl"
+    token_b = client.post(
+        "/auth/registro", json={"email": email_b, "password": "ClaveSegura123", "nombre": "Otro"}
+    ).json()["access_token"]
+    headers_b = {"Authorization": f"Bearer {token_b}"}
+    perfil_b_id = client.post(
+        "/auth/alumnos", headers=headers_b,
+        json={"nombre": "Otro", "apellidos": "Alumno", "fecha_nacimiento": "2016-01-01", "rut": "2-7", "nivel_id": 1},
+    ).json()["id"]
+
+    r = client.get(
+        f"/evaluaciones/conjuntos/asignatura/{conjunto.asignatura_id}",
+        params={"perfil_alumno_id": perfil_b_id}, headers=headers,
+    )
+    assert r.status_code == 403
+
+
+def test_listar_conjuntos_de_asignatura_sin_sesion_da_401(client, session):
+    conjunto, _, _, _ = _preparar(client, session)
+    r = client.get(f"/evaluaciones/conjuntos/asignatura/{conjunto.asignatura_id}")
+    assert r.status_code == 401

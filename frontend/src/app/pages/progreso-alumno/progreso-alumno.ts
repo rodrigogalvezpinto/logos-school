@@ -65,7 +65,7 @@ import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
         margin: 0;
       }
       .error-carga {
-        color: var(--color-error);
+        color: var(--color-error-texto);
       }
     `,
   ],

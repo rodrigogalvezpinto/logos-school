@@ -11,10 +11,17 @@ from app.domain.evaluaciones.exceptions import (
     ConjuntoNoEncontrado,
     CoberturaInsuficiente,
     IntentoNoEncontrado,
+    IntentoNoEntregado,
     PerfilAlumnoNoEncontrado,
     SinPreguntasDisponibles,
 )
-from app.domain.evaluaciones.ports import ConjuntoLectura, RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
+from app.domain.evaluaciones.ports import (
+    ConjuntoLectura,
+    DetallePregunta,
+    RepositorioConjuntos,
+    RepositorioIntentos,
+    RepositorioPreguntas,
+)
 from app.domain.evaluaciones.value_objects import (
     MAX_PREGUNTAS_SIMULACRO_PARCIAL,
     TIPOS_AUTOCORREGIBLES,
@@ -101,6 +108,71 @@ class EntregarIntento:
         preguntas = self._repositorio_preguntas.listar_para_correccion(conjunto.pregunta_ids)
         intento.entregar(preguntas, self._reloj)
         return self._repositorio_intentos.guardar(intento)
+
+
+class ObtenerDetalleIntento:
+    """Arma el desglose pregunta-por-pregunta de un intento ya entregado (Fase 1, ítem
+    2.1 del plan de incorporación de hallazgos de Brincus — resumen final con detalle por
+    pregunta, en vez de solo la nota agregada que ya calculaba `entregar()`). No toca el
+    agregado `IntentoEvaluacion`: es una consulta de solo lectura que compara
+    `intento.respuestas` contra el enunciado/respuesta_correcta real de cada pregunta."""
+
+    def __init__(
+        self,
+        repositorio_intentos: RepositorioIntentos,
+        repositorio_conjuntos: RepositorioConjuntos,
+        repositorio_preguntas: RepositorioPreguntas,
+    ):
+        self._repositorio_intentos = repositorio_intentos
+        self._repositorio_conjuntos = repositorio_conjuntos
+        self._repositorio_preguntas = repositorio_preguntas
+
+    def ejecutar(self, intento_id: int) -> list[DetallePregunta]:
+        intento = self._repositorio_intentos.buscar_por_id(intento_id)
+        if not intento:
+            raise IntentoNoEncontrado()
+        if not intento.esta_entregado:
+            raise IntentoNoEntregado()
+
+        conjunto = self._repositorio_conjuntos.buscar_por_id(intento.conjunto_evaluacion_id)
+        preguntas = self._repositorio_preguntas.listar_por_ids(conjunto.pregunta_ids)
+
+        detalle: list[DetallePregunta] = []
+        for p in preguntas:
+            respuesta_alumno = intento.respuestas.get(str(p.id))
+            es_autocorregible = p.tipo in TIPOS_AUTOCORREGIBLES
+            es_correcta = None
+            if es_autocorregible:
+                es_correcta = bool(
+                    respuesta_alumno and respuesta_alumno.strip().lower() == p.respuesta_correcta.strip().lower()
+                )
+            detalle.append(
+                DetallePregunta(
+                    pregunta_id=p.id,
+                    enunciado=p.enunciado,
+                    tipo=p.tipo,
+                    opciones=p.opciones,
+                    respuesta_alumno=respuesta_alumno,
+                    respuesta_correcta=p.respuesta_correcta if es_autocorregible else None,
+                    es_correcta=es_correcta,
+                )
+            )
+        return detalle
+
+
+class ProgramarFechaSimulacro:
+    """Uso exclusivo del Admin (Fase 1, ítem 2.1 — simulacro con fecha programada, ver
+    planificacion/27-plan-incorporacion-hallazgos-brincus.md). No pertenece a un rol
+    Profesor todavía (ese plan sigue aparte) — el Admin programa la fecha desde su panel
+    ya existente, igual que ya administra Planes/Descuentos/Cortesías."""
+
+    def __init__(self, repositorio_conjuntos: RepositorioConjuntos):
+        self._repositorio_conjuntos = repositorio_conjuntos
+
+    def ejecutar(self, conjunto_id: int, fecha_programada) -> ConjuntoLectura:
+        if not self._repositorio_conjuntos.buscar_por_id(conjunto_id):
+            raise ConjuntoNoEncontrado()
+        return self._repositorio_conjuntos.programar_fecha(conjunto_id, fecha_programada)
 
 
 class GenerarSimulacroParcial:

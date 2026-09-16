@@ -5,8 +5,8 @@ contraparte para el Alumno/Apoderado, protegida con `verificar_perfil_propio` ya
 
 from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException, status
-from pydantic import BaseModel
+from fastapi import APIRouter, Depends, HTTPException, Request, status
+from pydantic import BaseModel, Field
 
 from app.application.curso_seccion.casos_de_uso import (
     AgregarAlumnoACurso,
@@ -16,6 +16,7 @@ from app.application.curso_seccion.casos_de_uso import (
 )
 from app.application.comercial.consultas import BuscarAlumnos
 from app.application.curso_seccion.consultas import ObtenerMiCurso, ObtenerProgresoDeCurso
+from app.core.config import settings
 from app.core.deps import (
     get_agregar_alumno_a_curso_uc,
     get_buscar_alumnos_para_profesor_uc,
@@ -28,6 +29,7 @@ from app.core.deps import (
     get_repositorio_cursos_seccion,
     verificar_perfil_propio,
 )
+from app.core.limiter import limiter
 from app.domain.curso_seccion.exceptions import (
     AlumnoNoEncontrado,
     CursoAjeno,
@@ -129,8 +131,12 @@ def quitar_alumno(
 
 
 class ComunicadoRequest(BaseModel):
-    titulo: str
-    cuerpo: str
+    # Auditoría de seguridad (2026-08-17): sin límite antes de esto — un profesor
+    # comprometido (o de mala fe) podía publicar un blob de texto arbitrariamente grande,
+    # visible para todos los alumnos/apoderados del curso. Mismos topes que sugerencias
+    # (2000) y comentario de reporte (1000) — un comunicado real no necesita más.
+    titulo: str = Field(min_length=1, max_length=200)
+    cuerpo: str = Field(min_length=1, max_length=2000)
 
 
 class ComunicadoRespuesta(BaseModel):
@@ -141,7 +147,9 @@ class ComunicadoRespuesta(BaseModel):
 
 
 @router.post("/profesor/cursos/{curso_id}/comunicados", response_model=ComunicadoRespuesta, status_code=201)
+@limiter.limit(f"{settings.limite_comunicado_por_minuto}/minute")
 def publicar_comunicado(
+    request: Request,
     curso_id: int,
     datos: ComunicadoRequest,
     profesor: CuentaProfesor = Depends(get_profesor_aprobado_actual),

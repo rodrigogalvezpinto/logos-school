@@ -1,22 +1,29 @@
 import { Component, Input, inject, computed, signal } from '@angular/core';
 import { RouterOutlet, NavigationStart, Router } from '@angular/router';
+import { AyudaContextual } from '../../shared/ayuda-contextual/ayuda-contextual';
 import { Sidebar } from '../../shared/sidebar/sidebar';
 import { Topbar } from '../../shared/topbar/topbar';
+import { AuthService } from '../../core/auth.service';
 import { SesionService } from '../../core/sesion.service';
 
 @Component({
   selector: 'app-shell',
   standalone: true,
-  imports: [RouterOutlet, Sidebar, Topbar],
+  imports: [RouterOutlet, Sidebar, Topbar, AyudaContextual],
   template: `
     <div class="shell">
-      <app-sidebar [modo]="modo" [abierto]="menuAbierto()" (cerrar)="menuAbierto.set(false)" />
+      <app-sidebar [modo]="modo" [abierto]="menuAbierto()" [mostrarEstadisticas]="cantidadAlumnos() >= 2" (cerrar)="menuAbierto.set(false)" />
       <div class="shell__contenido">
-        <app-topbar [nombre]="nombreMostrado()" (alternarMenu)="menuAbierto.set(!menuAbierto())" />
+        <app-topbar
+          [nombre]="nombreMostrado()"
+          [mostrarBusqueda]="modo === 'alumno'"
+          (alternarMenu)="menuAbierto.set(!menuAbierto())"
+        />
         <main class="shell__main">
           <router-outlet />
         </main>
       </div>
+      <app-ayuda-contextual />
     </div>
   `,
   styles: [
@@ -51,14 +58,22 @@ export class Shell {
   @Input() modo: 'alumno' | 'apoderado' = 'alumno';
 
   menuAbierto = signal(false);
+  cantidadAlumnos = signal(0);
 
   private sesion = inject(SesionService);
+  private auth = inject(AuthService);
   private router = inject(Router);
 
   constructor() {
     this.router.events.subscribe((evento) => {
       if (evento instanceof NavigationStart) this.menuAbierto.set(false);
     });
+  }
+
+  ngOnInit() {
+    if (this.modo === 'apoderado') {
+      this.auth.listarAlumnos().subscribe((alumnos) => this.cantidadAlumnos.set(alumnos.length));
+    }
   }
 
   nombreMostrado = computed(() => {

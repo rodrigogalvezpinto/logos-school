@@ -32,3 +32,12 @@ class CoberturaInsuficiente(ErrorDominioEvaluaciones):
 
 class SinPreguntasDisponibles(ErrorDominioEvaluaciones):
     """Hay cobertura suficiente pero ninguna pregunta autocorregible de esas OA."""
+
+
+class IntentoNoEntregado(ErrorDominioEvaluaciones):
+    """El detalle por pregunta solo existe una vez entregado — antes de eso mostrar la
+    respuesta correcta filtraría la solución de un intento en curso."""
+
+
+class PreguntaNoEncontrada(ErrorDominioEvaluaciones):
+    pass

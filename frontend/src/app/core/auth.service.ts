@@ -39,6 +39,15 @@ export interface PruebaGratisRespuesta {
   fecha_termino: string;
 }
 
+export interface SuscripcionRespuesta {
+  plan_id: number;
+  plan_nombre: string;
+  fecha_inicio: string;
+  fecha_termino: string | null;
+  estado: string;
+  origen: string;
+}
+
 @Injectable({ providedIn: 'root' })
 export class AuthService {
   private http = inject(HttpClient);
@@ -64,6 +73,10 @@ export class AuthService {
     return this.http.get<PerfilAlumnoRespuesta[]>(`${this.base}/auth/alumnos`);
   }
 
+  eliminarAlumno(perfilAlumnoId: number): Observable<void> {
+    return this.http.delete<void>(`${this.base}/auth/alumnos/${perfilAlumnoId}`);
+  }
+
   listarPlanes(): Observable<PlanRespuesta[]> {
     return this.http.get<PlanRespuesta[]>(`${this.base}/auth/planes`);
   }
@@ -72,5 +85,19 @@ export class AuthService {
     return this.http.post<PruebaGratisRespuesta>(`${this.base}/auth/alumnos/${perfilAlumnoId}/prueba-gratis`, {
       plan_id: planId,
     });
+  }
+
+  obtenerSuscripcion(perfilAlumnoId: number): Observable<SuscripcionRespuesta | null> {
+    return this.http.get<SuscripcionRespuesta | null>(`${this.base}/auth/alumnos/${perfilAlumnoId}/suscripcion`);
+  }
+
+  descargarCertificado(perfilAlumnoId: number): Observable<Blob> {
+    // Blob, no un <a href> directo: el endpoint exige sesión (Bearer token vía
+    // auth-interceptor), y una navegación de navegador normal no manda ese header.
+    return this.http.get(`${this.base}/auth/alumnos/${perfilAlumnoId}/certificado.pdf`, { responseType: 'blob' });
+  }
+
+  descargarInformeAvance(perfilAlumnoId: number): Observable<Blob> {
+    return this.http.get(`${this.base}/auth/alumnos/${perfilAlumnoId}/informe-avance.pdf`, { responseType: 'blob' });
   }
 }

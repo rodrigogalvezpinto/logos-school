@@ -112,7 +112,7 @@ import { ComercialService, Descuento } from '../../core/comercial.service';
       }
       .chip--activo {
         background: var(--color-exito-suave);
-        color: var(--color-exito);
+        color: var(--color-exito-texto);
       }
       .vacio {
         color: var(--texto-secundario);
@@ -129,7 +129,7 @@ import { ComercialService, Descuento } from '../../core/comercial.service';
         max-width: 420px;
       }
       .error {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         font-size: 0.85rem;
       }
       input, select {

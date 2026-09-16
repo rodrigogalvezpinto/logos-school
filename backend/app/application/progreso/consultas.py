@@ -16,6 +16,7 @@ from app.domain.progreso.ports import (
     NotaPorAsignatura,
     RepositorioProgreso,
 )
+from app.domain.shared.reloj import Reloj
 
 TIPO_PRUEBA_UNIDAD = "prueba_unidad"
 TIPO_EXAMEN_SIMULACRO = "examen_simulacro"
@@ -127,12 +128,14 @@ class ObtenerFaltantes:
         repositorio_preguntas: RepositorioPreguntas,
         repositorio_contenido: RepositorioContenido,
         repositorio_progreso: RepositorioProgreso,
+        reloj: Reloj,
     ):
         self._repositorio_conjuntos = repositorio_conjuntos
         self._repositorio_intentos = repositorio_intentos
         self._repositorio_preguntas = repositorio_preguntas
         self._repositorio_contenido = repositorio_contenido
         self._repositorio_progreso = repositorio_progreso
+        self._reloj = reloj
 
     def ejecutar(self, perfil_alumno_id: int, nivel_id: int) -> ResultadoFaltantes:
         entregados_ids = {
@@ -160,10 +163,16 @@ class ObtenerFaltantes:
                 else:
                     habilitado = cobertura >= 1.0
 
+                # Simulacro con fecha programada por el Admin (Fase 1, ítem 2.1): si tiene
+                # fecha y todavía no llega, queda "próximamente" sin importar la cobertura.
+                if conjunto.fecha_programada is not None and self._reloj.ahora() < conjunto.fecha_programada:
+                    habilitado = False
+
                 faltantes.append(
                     ItemFaltante(
                         conjunto_id=conjunto.id, tipo=conjunto.tipo, nombre=conjunto.nombre,
                         asignatura_id=asignatura.id, habilitado=habilitado,
+                        fecha_programada=conjunto.fecha_programada,
                     )
                 )
 

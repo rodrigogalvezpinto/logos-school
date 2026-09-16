@@ -1,3 +1,4 @@
+from app.core.config import settings
 from app.infrastructure.persistence.orm_models import CuentaAdmin, Nivel
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 
@@ -185,6 +186,73 @@ def test_alumno_sin_curso_mi_curso_devuelve_null(client, session):
     r = client.get(f"/curso-seccion/mi-curso/{perfil_id}", headers=headers_apoderado)
     assert r.status_code == 200
     assert r.json() is None
+
+
+def test_comunicado_con_payload_adversarial_se_guarda_como_texto_literal(client, session):
+    """P0 del plan de pruebas exhaustivo — mismo criterio que sugerencias y reportar-error:
+    un comunicado con un payload de XSS/inyección se guarda y se devuelve literal, sin
+    ejecutarse. El apoderado lo ve vía `mi-curso`, que ya expone el texto en la respuesta."""
+    nivel = _crear_nivel(session)
+    headers_profesor = _profesor_aprobado(client, session)
+    headers_apoderado, perfil_id = _alumno_de_apoderado(client, nivel.id)
+
+    curso_id = client.post("/profesor/cursos", headers=headers_profesor, json={"nivel_id": nivel.id, "nombre": "4° básico A"}).json()["id"]
+    client.post(f"/profesor/cursos/{curso_id}/alumnos/{perfil_id}", headers=headers_profesor)
+
+    titulo_payload = "<script>alert(1)</script>"
+    cuerpo_payload = "'; DROP TABLE comunicado;--"
+    r = client.post(
+        f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor,
+        json={"titulo": titulo_payload, "cuerpo": cuerpo_payload},
+    )
+    assert r.status_code == 201
+
+    r = client.get(f"/curso-seccion/mi-curso/{perfil_id}", headers=headers_apoderado)
+    comunicado = r.json()["comunicados"][0]
+    assert comunicado["titulo"] == titulo_payload
+    assert comunicado["cuerpo"] == cuerpo_payload
+
+
+def test_comunicado_con_titulo_o_cuerpo_demasiado_largo_da_422(client, session):
+    """Auditoría de seguridad (2026-08-17): sin límite antes de esto, un profesor
+    comprometido (o de mala fe) podía publicar un blob de texto arbitrariamente grande,
+    visible para todos los alumnos/apoderados del curso — mismo criterio ya aplicado a
+    sugerencias (2000) y comentario de reporte (1000)."""
+    nivel = _crear_nivel(session)
+    headers_profesor = _profesor_aprobado(client, session)
+    curso_id = client.post("/profesor/cursos", headers=headers_profesor, json={"nivel_id": nivel.id, "nombre": "4° básico A"}).json()["id"]
+
+    r = client.post(
+        f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor,
+        json={"titulo": "x" * 201, "cuerpo": "Cuerpo válido"},
+    )
+    assert r.status_code == 422
+
+    r = client.post(
+        f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor,
+        json={"titulo": "Título válido", "cuerpo": "x" * 2001},
+    )
+    assert r.status_code == 422
+
+
+def test_comunicado_da_429_al_pasar_el_limite_configurado(client, session):
+    nivel = _crear_nivel(session)
+    headers_profesor = _profesor_aprobado(client, session)
+    curso_id = client.post("/profesor/cursos", headers=headers_profesor, json={"nivel_id": nivel.id, "nombre": "4° básico A"}).json()["id"]
+
+    limite = settings.limite_comunicado_por_minuto
+    for _ in range(limite):
+        r = client.post(
+            f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor,
+            json={"titulo": "Aviso", "cuerpo": "Contenido válido"},
+        )
+        assert r.status_code == 201
+
+    r = client.post(
+        f"/profesor/cursos/{curso_id}/comunicados", headers=headers_profesor,
+        json={"titulo": "Excedido", "cuerpo": "Contenido válido"},
+    )
+    assert r.status_code == 429
 
 
 def test_profesor_puede_buscar_alumnos_para_agregar(client, session):

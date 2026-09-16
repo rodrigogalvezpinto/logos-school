@@ -16,7 +16,10 @@ import { SesionService } from '../../core/sesion.service';
           [nombreEvaluacion]="conjunto()!.nombre"
           [preguntas]="preguntas()"
           [intentoId]="intentoId()"
+          [perfilAlumnoId]="perfilAlumnoId()"
           [resultadoPrevio]="resultadoPrevio()"
+          [respuestasIniciales]="respuestasIniciales()"
+          [fechaInicioIntento]="fechaInicioIntento()"
           [tiempoLimiteMin]="conjunto()!.tiempo_sugerido_min || 90"
           [rutaSalida]="['/alumno/evaluaciones']"
         />
@@ -34,7 +37,10 @@ export class ExamenSimulacro {
   conjunto = signal<ConjuntoDetalle | null>(null);
   preguntas = signal<PreguntaRunner[]>([]);
   intentoId = signal<number | null>(null);
+  perfilAlumnoId = signal<number | null>(null);
   resultadoPrevio = signal<{ puntaje: number | null; nota: number | null } | null>(null);
+  respuestasIniciales = signal<Record<number, string>>({});
+  fechaInicioIntento = signal<string | null>(null);
   error = signal('');
 
   private evaluaciones = inject(EvaluacionesService);
@@ -43,6 +49,7 @@ export class ExamenSimulacro {
   ngOnInit() {
     const perfil = this.sesion.perfilActivo();
     if (!perfil) return;
+    this.perfilAlumnoId.set(perfil.id);
 
     this.evaluaciones.obtenerConjunto(Number(this.id), perfil.id).subscribe({
       next: (c) => {
@@ -56,6 +63,11 @@ export class ExamenSimulacro {
         this.intentoId.set(intento.id);
         if (intento.fecha_termino) {
           this.resultadoPrevio.set({ puntaje: intento.puntaje, nota: intento.nota });
+        } else {
+          this.respuestasIniciales.set(
+            Object.fromEntries(Object.entries(intento.respuestas).map(([id, valor]) => [Number(id), valor])),
+          );
+          this.fechaInicioIntento.set(intento.fecha_inicio);
         }
       },
       error: () => this.error.set('No se pudo iniciar tu intento. Intenta recargar la página.'),

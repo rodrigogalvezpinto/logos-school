@@ -15,24 +15,34 @@ rendirán los **Exámenes Libres de Validación de Estudios** del Ministerio de 
 Chile, de 1° a 8° básico y de 1° a 4° medio. Objetivo: accesible para todos, gratuita o de
 muy bajo costo.
 
-**Estado actual: 🚧 Etapa 1 (MVP) + Etapa 2 (Rol Profesor) construidas y verificadas
-localmente (2026-08-13), todavía sin desplegar.** Los 12 cursos (1° básico a 4° medio) tienen
-contenido de estudio 100% completo: guía de estudio (explicación + ejemplos por OA), banco de
-preguntas de autoevaluación (2.917 preguntas, 408/408 OA oficiales), **156 pruebas de
-unidad** calibradas por edad (6-15 preguntas según ciclo, ver `planificacion/
-08-diseno-pruebas-vs-examenes.md`) y **exámenes tipo simulacro** que imitan exactamente el
-formato real de Mineduc (20 preguntas integradas en 1°-4° básico, 25 por asignatura desde 5°
-básico — confirmado en los 12 temarios oficiales, 2 formas por curso/asignatura).
+**Estado actual: 🚧 Etapa 1 (MVP) + Etapa 2 (Rol Profesor) + Fase 1 del plan de
+incorporación de hallazgos de Brincus construidas y verificadas localmente (2026-08-14),
+todavía sin desplegar.** Los 12 cursos (1° básico a 4° medio) tienen contenido de estudio
+100% completo: guía de estudio (explicación + ejemplos por OA), banco de preguntas de
+autoevaluación (2.917 preguntas, 408/408 OA oficiales), **156 pruebas de unidad** calibradas
+por edad (6-15 preguntas según ciclo, ver `planificacion/08-diseno-pruebas-vs-examenes.md`) y
+**exámenes tipo simulacro** que imitan exactamente el formato real de Mineduc (20 preguntas
+integradas en 1°-4° básico, 25 por asignatura desde 5° básico — confirmado en los 12 temarios
+oficiales, 2 formas por curso/asignatura).
 
 Sobre ese contenido ya se construyó la aplicación completa para el curso piloto (4° básico):
 backend FastAPI en arquitectura hexagonal + frontend Angular, cubriendo estudiar y rendir
 evaluaciones (Fase 1.1), historial y notas por materia (Fase 1.2), Panel de Administrador
 comercial (Planes, Descuentos, Cortesías, Métricas), plan de estudio con horario y
-habilitación progresiva (Fase 1.3), y el rol Profesor con Curso/Sección (Etapa 2) — ver
+habilitación progresiva (Fase 1.3), el rol Profesor con Curso/Sección (Etapa 2), y los 10
+ítems de Fase 1 del análisis de competencia de Brincus — ver
+`planificacion/27-plan-incorporacion-hallazgos-brincus.md` para el detalle: resumen final con
+detalle por pregunta y "Reportar error", simulacro con fecha programada por el Admin,
+gamificación (XP/nivel/avatar, página "Mis Logros"), onboarding con checklist de primera
+sesión, check-in emocional diario, descarga de guía en PDF, control de calidad de contenido
+(`scripts/validar_calidad_contenido.py`, corrió sobre los 407 OA reales), certificado de
+alumno regular en PDF, historial de pagos del Apoderado, agregar alumno inline, y vista
+semanal/mensual del plan de estudio. Todo sin dependencias externas (Fase 1 se acotó a propósito
+a eso), con backend 326/326 tests y frontend 69/69 Playwright en verde. Ver
 `planificacion/03-roadmap-etapas.md` y `planificacion/22-analisis-de-brechas.md` para el
-detalle verificado de qué está hecho y qué falta (sobre todo: desplegar a Neon/Render/
-Cloudflare Pages, credenciales reales de Google/Resend, pasarela de pago, Turnstile — nada de
-esto bloquea seguir desarrollando funcionalidad en local).
+detalle verificado de qué falta (sobre todo: desplegar a Neon/Render/Cloudflare Pages,
+credenciales reales de Google/Resend, pasarela de pago, Turnstile — nada de esto bloquea
+seguir desarrollando funcionalidad en local).
 
 **Nota de proceso:** el usuario dio feedback explícito (2026-08-10, ver memoria global
 `feedback_no_pedir_confirmaciones`) de no pedir confirmaciones sí/no — actuar con criterio
@@ -112,6 +122,14 @@ propio e informar después. Aplica en todo este proyecto.
     profesores, inspirado en wited.com/cl/reforzamiento — preguntas de negocio abiertas
     (marketplace abierto vs. curado, pagos, seguridad del menor en videollamada 1-a-1) antes
     de diseñar nada.
+  - `25-analisis-competencia-brincus.md` — análisis exhaustivo y verificado de primera mano
+    (cuenta de prueba real, Playwright + PDFs de capturas del usuario en
+    `25-brincus-capturas-originales/`) del competidor directo Brincus: registro, onboarding,
+    motor de evaluación, gamificación, Profesor Virtual con IA, facsímiles, biblioteca, etc.
+  - `27-plan-incorporacion-hallazgos-brincus.md` — plan de qué incorporar del análisis
+    anterior a Logos, en dos fases (Fase 1 sin dependencias externas, ya construida y
+    verificada 2026-08-14; Fase 2 con Profesores IA, Juegos, Biblioteca y Plan Lector,
+    pendiente). Es la fuente de verdad de qué se construyó y por qué en esa sesión.
   - `17-infraestructura-y-entornos.md` — **regla no negociable: ambientes Desarrollo y
     Producción separados desde el día uno**, cada uno con su propia base de datos (Neon,
     Postgres con branches). Backend en Render, frontend Angular en Cloudflare Pages, correo

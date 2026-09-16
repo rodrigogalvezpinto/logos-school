@@ -40,12 +40,12 @@ import { ProfesorAuthService } from '../../core/profesor-auth.service';
       <h2>Crear curso</h2>
       <form class="tarjeta form-crear" (submit)="$event.preventDefault(); crear()">
         <div class="campo">
-          <label>Nombre del curso</label>
-          <input [(ngModel)]="nombreCurso" name="nombreCurso" placeholder="6° básico A" />
+          <label for="nombreCurso">Nombre del curso</label>
+          <input id="nombreCurso" [(ngModel)]="nombreCurso" name="nombreCurso" placeholder="6° básico A" />
         </div>
         <div class="campo">
-          <label>Nivel</label>
-          <select [(ngModel)]="nivelId" name="nivelId">
+          <label for="nivelId">Nivel</label>
+          <select id="nivelId" [(ngModel)]="nivelId" name="nivelId">
             @for (n of niveles(); track n.id) {
               <option [value]="n.id">{{ n.nombre }}</option>
             }
@@ -94,7 +94,7 @@ import { ProfesorAuthService } from '../../core/profesor-auth.service';
         max-width: 420px;
       }
       .error {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         font-size: 0.85rem;
       }
     `,

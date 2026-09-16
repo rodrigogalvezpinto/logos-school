@@ -9,9 +9,10 @@ import { SesionService } from '../../core/sesion.service';
   standalone: true,
   imports: [Logo, RouterLink],
   template: `
-    <div class="pagina">
-      <div class="pagina__logo"><app-logo /></div>
-      <h1>¿Quién va a estudiar hoy?</h1>
+    <div class="fondo">
+      <div class="pagina">
+        <div class="pagina__logo"><app-logo /></div>
+        <h1>¿Quién va a estudiar hoy?</h1>
 
       @if (error()) {
         <p class="error-carga">{{ error() }}</p>
@@ -35,15 +36,33 @@ import { SesionService } from '../../core/sesion.service';
           <span>Agregar alumno</span>
         </a>
       </div>
+      </div>
     </div>
   `,
   styles: [
     `
+      /* Degradado de marca (índigo + coral) para dar más energía a este momento de
+         bienvenida — hallazgo comparando en vivo contra Brincus (ver
+         planificacion/27-plan-incorporacion-hallazgos-brincus.md): usa la paleta propia de
+         Logos, no los colores literales de Brincus, para que se sienta más vivo sin dejar
+         de sentirse "Logos School". */
+      .fondo {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+        background: linear-gradient(135deg, var(--color-primario) 0%, var(--color-primario-oscuro) 45%, var(--color-secundario) 100%);
+      }
       .pagina {
         max-width: 700px;
+        width: 100%;
         margin: 0 auto;
-        padding: 4rem 2rem;
+        padding: 3.5rem 2.5rem;
         text-align: center;
+        background: var(--fondo-tarjeta, #fff);
+        border-radius: var(--radio-basica);
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
       }
       .pagina__logo {
         display: flex;
@@ -103,7 +122,7 @@ import { SesionService } from '../../core/sesion.service';
         border: 2px dashed var(--borde);
       }
       .error-carga {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         margin-bottom: 1.5rem;
       }
     `,

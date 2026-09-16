@@ -83,7 +83,7 @@ test.describe('Panel del Alumno — contenido real', () => {
     await expect(page.locator('.contenido-guia').locator('h1, h2, h3, p')).not.toHaveCount(0);
     await expect(page.locator('.contenido-guia')).not.toContainText('###');
 
-    await page.getByRole('link', { name: 'Practicar este tema' }).click();
+    await page.getByRole('link', { name: 'Ya entendí, quiero practicar' }).click();
     await expect(page).toHaveURL(/autoevaluacion\/\d+/);
     await page.getByRole('button', { name: 'Comenzar' }).click();
     await expect(page.locator('.pregunta__enunciado')).not.toBeEmpty();

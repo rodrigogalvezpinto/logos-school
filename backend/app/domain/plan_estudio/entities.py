@@ -25,6 +25,13 @@ class SesionEstudio:
     asignatura_id: int
     oa_ids: list[int]
     incluye_prueba_unidad: bool
+    # Repaso de contenido de un nivel anterior, agregado explícitamente por el alumno —
+    # distinto de una sesión normal del nivel actual (hallazgo comparando en vivo contra
+    # Brincus, ver planificacion/25-analisis-competencia-brincus.md: "permite agregar
+    # contenido de años anteriores para repasar, no solo del año actual"). La asignatura
+    # de una sesión de repaso pertenece a un nivel distinto al del propio plan — se marca
+    # con este flag para que la UI la distinga, en vez de inferirlo comparando nivel_id.
+    es_repaso: bool = False
 
     def esta_cumplida(self, oa_revisados: set[int]) -> bool:
         return bool(self.oa_ids) and set(self.oa_ids).issubset(oa_revisados)
@@ -79,6 +86,18 @@ def _fechas_disponibles(dias_elegidos: list[str], fecha_inicio: date, fecha_obje
             fechas.append(cursor)
         cursor += timedelta(days=1)
     return fechas
+
+
+def siguiente_fecha_disponible(dias_elegidos: list[str], desde: date) -> date:
+    """Primer día, empezando por `desde` inclusive, que calza con alguno de los
+    `dias_elegidos` del plan — usado para agregar una sesión de repaso al final del plan
+    existente, respetando el mismo horario que el alumno ya eligió."""
+    cursor = desde
+    for _ in range(14):  # cota de seguridad — a lo más 2 semanas para encontrar un día válido
+        if _NOMBRE_POR_INDICE[cursor.weekday()] in dias_elegidos:
+            return cursor
+        cursor += timedelta(days=1)
+    return desde
 
 
 def generar_sesiones(

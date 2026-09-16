@@ -236,3 +236,123 @@ def test_etiqueta_no_alternativas_con_opciones_reales_se_reclasifica_como_altern
     assert pregunta.tipo == "alternativas"
     assert pregunta.opciones == ["Adición", "Sustracción", "Multiplicación", "División"]
     assert pregunta.respuesta_correcta == "Sustracción"
+
+
+TEXTO_PREGUNTA_DE_EMPAREJAMIENTO = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (Relacionar / emparejar)** Une cada concepto con su definición:
+
+1) Sedentarización — 2) Excedente — 3) Domesticación
+
+a) Adaptación de plantas o animales silvestres para el uso humano — b) Establecerse de forma
+permanente en un lugar — c) Cantidad de alimento producida por sobre lo necesario para
+sobrevivir
+
+✅ Respuesta correcta: 1-b, 2-c, 3-a
+💬 *Retroalimentación:* la sedentarización llevó a un excedente gracias a la domesticación.
+"""
+
+
+def test_pregunta_de_emparejamiento_no_se_reclasifica_como_alternativas_rota():
+    """Bug real de contenido (153 preguntas, concentradas en Historia/Geografía):
+    las preguntas de "Relacionar / emparejar" escriben sus dos listas ("1) X — 2) Y") y
+    ("a) A — b) B") en línea, separadas por em-dash. RE_OPCION matcheaba el primer "a)" de
+    esa línea y se tragaba el resto como una sola opción pegada; como `opciones` quedaba
+    no-vacío, el fallback de la etiqueta no-alternativas las reclasificaba como
+    "alternativas" con una única alternativa ilegible y una respuesta ("1-b, 2-c, 3-a") que
+    nunca calzaba con ninguna opción clickeable — quedaban permanentemente sin poder
+    responderse bien. Deben quedar como desarrollo_breve, con el enunciado completo
+    (incluyendo ambas listas) y la pauta "1-b, 2-c, 3-a" intacta."""
+    objetivos = parsear_guia(TEXTO_PREGUNTA_DE_EMPAREJAMIENTO)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert pregunta.respuesta_correcta == "1-b, 2-c, 3-a"
+    assert "Sedentarización" in pregunta.enunciado
+    assert "Adaptación de plantas" in pregunta.enunciado
+
+
+def test_emoji_separado_por_espacio_del_asterisco_no_contamina_la_respuesta():
+    """Bug real relacionado: cuando el emoji de viñeta va separado del "*" de negrita por
+    un espacio ("💬 *Retroalimentación:*"), el `[^\\w\\s]{0,2}` original de RE_RETRO_MARCA
+    no lo cubría (el espacio corta la racha de símbolos) y el emoji quedaba pegado al final
+    de `respuesta_correcta` (ej. "1-b, 2-c, 3-a 💬")."""
+    objetivos = parsear_guia(TEXTO_PREGUNTA_DE_EMPAREJAMIENTO)
+    pregunta = objetivos[0].preguntas[0]
+    assert "💬" not in pregunta.respuesta_correcta
+
+
+TEXTO_EMPAREJAMIENTO_CON_ETIQUETA_ATIPICA = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**1. (Une los conceptos)** Une cada concepto con su definición:
+
+1) Sedentarización — 2) Excedente
+
+a) Adaptación de plantas o animales silvestres — b) Establecerse de forma permanente en un
+lugar
+
+✅ Respuesta correcta: 1-b, 2-a
+"""
+
+
+def test_pregunta_de_emparejamiento_se_detecta_por_estructura_aunque_la_etiqueta_no_diga_relacionar():
+    """La detección por etiqueta ("relacionar"/"emparejar") no cubre toda la variedad real
+    de rótulos que usan los autores (ej. "Une los conceptos") — por eso hay también una
+    detección estructural (una línea "a) ... — b) ..." con más de un marcador de letra
+    pegado nunca ocurre en una alternativa real) que debe bastar por sí sola."""
+    objetivos = parsear_guia(TEXTO_EMPAREJAMIENTO_CON_ETIQUETA_ATIPICA)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert "Adaptación de plantas" in pregunta.enunciado
+
+
+TEXTO_TERMINOS_PAREADOS_OPCIONES_EN_LINEAS_SEPARADAS = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**3. (Términos pareados)** Une cada perspectiva con su idea central:
+
+1) Republicanismo — 2) Liberalismo — 3) Comunitarismo
+
+a) La libertad individual y los derechos de cada persona
+b) Las comunidades, tradiciones y lazos compartidos
+c) La participación cívica activa como virtud ciudadana
+
+✅ Respuesta correcta: 1-c, 2-a, 3-b
+"""
+
+
+def test_terminos_pareados_con_opciones_en_lineas_separadas_no_es_alternativas():
+    """Bug real (25 preguntas restantes tras los dos fixes anteriores): la etiqueta
+    "(Términos pareados)" no contiene "relacionar" ni "emparejar", y en este formato las
+    definiciones SÍ van en líneas separadas (a, b, c cada una en su línea) — así que
+    RE_OPCION_FUSIONADA tampoco detecta nada raro estructuralmente, porque en efecto se
+    parsean como 3 opciones reales y distintas. El problema es que igual son términos
+    pareados: la pauta "1-c, 2-a, 3-b" nunca puede calzar con ninguna de esas 3 opciones
+    (siempre compara contra el texto completo de una opción). Hay que reconocerlas por la
+    etiqueta ampliada (incluye "parea") y tratarlas como desarrollo_breve de todas formas."""
+    objetivos = parsear_guia(TEXTO_TERMINOS_PAREADOS_OPCIONES_EN_LINEAS_SEPARADAS)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert pregunta.respuesta_correcta == "1-c, 2-a, 3-b"

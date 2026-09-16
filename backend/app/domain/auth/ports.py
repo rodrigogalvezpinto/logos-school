@@ -23,6 +23,13 @@ class RepositorioPerfilesAlumno(Protocol):
     def buscar_por_rut(self, rut: str) -> PerfilAlumno | None: ...
     def buscar_por_texto(self, consulta: str) -> list[PerfilAlumno]: ...
     def contar(self) -> int: ...
+    def eliminar_en_cascada(self, perfil_id: int) -> None:
+        """Borra el perfil y TODO lo asociado (evaluaciones, progreso, plan de estudio,
+        gamificación, ánimo, sugerencias, calificaciones, reportes) — ver
+        planificacion/27-plan-incorporacion-hallazgos-brincus.md, auditoría de seguridad
+        2026-08-17: no existía forma de que un apoderado pidiera borrar los datos de un
+        hijo, brecha real de privacidad para una app que maneja datos de menores."""
+        ...
 
 
 class HasheadorPassword(Protocol):

@@ -12,7 +12,7 @@ import { AuthService, PlanRespuesta } from '../../core/auth.service';
       <div class="pagina__logo"><app-logo /></div>
       <h1>Elige el plan para {{ nombreAlumno }}</h1>
       <p class="pagina__subtitulo">
-        Prueba <strong>7 días completamente gratis</strong> — no se te cobra nada hoy, y puedes cambiar de
+        Prueba <strong>5 días completamente gratis</strong> — no se te cobra nada hoy, y puedes cambiar de
         plan cuando quieras.
       </p>
 
@@ -43,7 +43,7 @@ import { AuthService, PlanRespuesta } from '../../core/auth.service';
         <p class="error">{{ error() }}</p>
       }
       <button class="btn btn--primario btn--grande" [disabled]="cargando()" (click)="continuar()">
-        {{ cargando() ? 'Activando…' : 'Comenzar mis 7 días gratis' }}
+        {{ cargando() ? 'Activando…' : 'Comenzar mis 5 días gratis' }}
       </button>
       <p class="pagina__nota">Sin tarjeta de crédito. Te avisaremos antes de que termine tu prueba.</p>
     </div>
@@ -133,7 +133,7 @@ import { AuthService, PlanRespuesta } from '../../core/auth.service';
         font-size: 0.85rem;
       }
       .error {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         font-size: 0.9rem;
         margin-bottom: 1rem;
       }

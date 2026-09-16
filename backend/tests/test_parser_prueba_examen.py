@@ -76,3 +76,89 @@ def test_opcion_con_word_wrap_no_contamina_el_enunciado():
     pregunta, pauta = resultado[0]
     assert pregunta.enunciado == "¿Cuál de las siguientes NO corresponde?"
     assert pregunta.opciones[1] == "Predecir con exactitud eventos futuros mediante experimentos controlados."
+
+
+TEXTO_PREGUNTA_DE_EMPAREJAMIENTO = """
+**3. (Relacionar / emparejar)** Une cada situación con la norma que corresponde:
+
+1) Cruzar una calle con autos — 2) Hablar en clases mientras el profesor explica — 3) Visitar
+un monumento histórico
+
+a) No rayarlo ni dañarlo — b) Levantar la mano y esperar mi turno — c) Mirar hacia ambos lados
+
+## Pauta de respuestas
+
+**3.** 1-c, 2-b, 3-a. Cada situación tiene una norma distinta según el contexto.
+"""
+
+
+def test_pregunta_de_emparejamiento_no_se_reclasifica_como_alternativas_rota():
+    """Bug real de contenido (73 preguntas en pruebas/exámenes, mismo bug que en
+    parser_contenido.py): RE_OPCION confunde la línea en línea de definiciones
+    ("a) A — b) B — c) C") con una alternativa real, dejando una sola opción ilegible y
+    una pauta ("1-c, 2-b, 3-a") que nunca calza con ninguna opción clickeable — deben
+    quedar como desarrollo_breve con el enunciado completo."""
+    resultado = parsear_prueba_o_examen(TEXTO_PREGUNTA_DE_EMPAREJAMIENTO)
+    pregunta, pauta = resultado[0]
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert "No rayarlo ni dañarlo" in pregunta.enunciado
+    assert pauta is not None
+    assert pauta.respuesta_correcta.startswith("1-c, 2-b, 3-a")
+
+
+TEXTO_PAUTA_LETRA_CON_EM_DASH = """
+**1. (Alternativas)** ¿Qué figura literaria usa "las manos del reloj corrían"?
+
+a) Personificación
+b) Metáfora
+c) Hipérbole
+d) Pregunta retórica
+
+## Pauta de respuestas
+
+**1.** b — se identifican directamente dos términos (las manos = manecillas), sin usar
+"como" ni verbos de acción atribuidos a un objeto inanimado.
+"""
+
+
+def test_pauta_con_letra_y_em_dash_se_resuelve_al_texto_de_la_opcion():
+    """Bug real (7 preguntas de 3°-4° medio): la pauta a veces escribe la letra seguida de
+    un em-dash y la explicación ("b — se identifican...") en vez de "b." o "b)" — sin
+    tolerar esa forma, RE_LETRA_INICIAL no reconocía la letra y el texto completo
+    (truncado a 60 caracteres) quedaba como respuesta_correcta, sin calzar nunca con
+    ninguna opción real."""
+    resultado = parsear_prueba_o_examen(TEXTO_PAUTA_LETRA_CON_EM_DASH)
+    pregunta, pauta = resultado[0]
+    assert pauta is not None
+    assert pauta.respuesta_correcta == "Metáfora"
+
+
+TEXTO_EMPAREJAMIENTO_SIN_ETIQUETA = """
+**4.** Une cada derecho del niño con un ejemplo de cómo se garantiza en Chile:
+
+1) Derecho a la educación — 2) Derecho a la alimentación — 3) Derecho a la protección frente al trabajo infantil
+
+a) Prohibición legal de que los niños trabajen antes de cierta edad — b) Educación gratuita y obligatoria — c) Programas de alimentación escolar, como los de JUNAEB
+
+1) ___  2) ___  3) ___
+
+## Pauta de respuestas
+
+| N° | Respuesta correcta |
+|----|---------------------|
+| 4  | 1-b (educación — educación gratuita y obligatoria), 2-c (alimentación — programas como JUNAEB), 3-a (protección frente al trabajo infantil — prohibición legal) |
+"""
+
+
+def test_pregunta_de_emparejamiento_sin_etiqueta_se_detecta_por_estructura():
+    """Bug real (30 preguntas restantes tras el fix por etiqueta): las pruebas de unidad a
+    veces no traen ninguna etiqueta entre paréntesis (solo "**4.**"), así que detectar por
+    la palabra "relacionar/emparejar" en la etiqueta no basta — hay que reconocer también
+    la forma "a) ... — b) ..." (una línea con más de un marcador de letra pegado), que
+    estructuralmente nunca ocurre en una alternativa real."""
+    resultado = parsear_prueba_o_examen(TEXTO_EMPAREJAMIENTO_SIN_ETIQUETA)
+    pregunta, pauta = resultado[0]
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert "Prohibición legal" in pregunta.enunciado

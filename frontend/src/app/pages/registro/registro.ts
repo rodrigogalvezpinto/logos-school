@@ -59,7 +59,7 @@ import { SesionService } from '../../core/sesion.service';
         }
       }
       .error {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         font-size: 0.85rem;
         margin: -0.5rem 0 1rem;
       }

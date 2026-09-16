@@ -97,10 +97,32 @@ Un solo comando que corre, en orden, todo lo que antes había que acordarse de c
 1. Backend: `pytest` completo (incluye la matriz de permisos).
 2. Frontend: build de producción (atrapa errores de compilación/tipos).
 3. Frontend: suite Playwright E2E completa, contra el backend real.
+4. Contenido: `scripts/validar_calidad_contenido.py` (agregado 2026-08-14, Fase 1 ítem
+   2.5.1 del plan de incorporación de hallazgos de Brincus) — control de calidad
+   estructural del banco de preguntas real. Ver sección 4 más abajo.
 
 Requiere que `uvicorn` (puerto 8000) y `ng serve` (puerto 4300) ya estén corriendo — no los
 levanta él mismo, para no cortar el flujo de desarrollo normal con `--reload`. Termina con un
 resumen de una línea por etapa y código de salida 0/1 (listo para un futuro pipeline de CI).
+
+### 4. Control de calidad de contenido — `backend/scripts/validar_calidad_contenido.py`
+
+Nace de un bug real encontrado en Brincus (el competidor, no en Logos — ver
+`planificacion/25-analisis-competencia-brincus.md`, Paso 11): una guía etiquetada "Números
+hasta 10.000" contenía ejercicios con números de cientos de miles de millones. Valida
+mecánicamente y en segundos, sobre TODO el banco real (no solo una muestra): que toda
+pregunta de alternativas tenga su `respuesta_correcta` entre sus `opciones`, que toda
+verdadero/falso tenga una respuesta válida, que ninguna guía esté vacía, y que ninguna
+pregunta esté filed bajo la asignatura equivocada de su conjunto de evaluación.
+
+**Corrida real (2026-08-14): 153 hallazgos**, todos el mismo patrón — preguntas de
+emparejamiento ("1-b, 2-c, 3-a") etiquetadas como tipo `alternativas`, mayormente en
+Historia. Como el frontend las renderiza como alternativas de opción única, **son
+imposibles de responder correctamente hoy** — es un bug real de contenido/parser, no
+solo un hallazgo teórico. Queda como trabajo pendiente aparte (no se corrigió en la misma
+sesión que construyó el validador — corregir 153 preguntas es una tarea de contenido
+distinta a construir la herramienta que las encontró). El detalle completo de cada
+hallazgo lo imprime el propio script.
 
 ## Qué NO resuelve este sistema (alcance honesto)
 

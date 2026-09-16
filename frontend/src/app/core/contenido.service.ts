@@ -9,6 +9,7 @@ export interface NivelRespuesta {
   regimen: string;
   num_preguntas_examen: number;
   duracion_examen_min: number;
+  orden: number | null;
 }
 
 export interface AsignaturaRespuesta {

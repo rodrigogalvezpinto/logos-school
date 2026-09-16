@@ -1,3 +1,6 @@
+from app.core.config import settings
+
+
 def _registrar(client, email="familia@test.cl", password="ClaveSegura123"):
     return client.post(
         "/auth/registro",
@@ -7,6 +10,29 @@ def _registrar(client, email="familia@test.cl", password="ClaveSegura123"):
 
 def test_registro_exitoso_devuelve_token(client):
     r = _registrar(client)
+    assert r.status_code == 201
+    assert "access_token" in r.json()
+
+
+def test_registro_no_falla_aunque_el_envio_de_correo_falle(client, monkeypatch):
+    """Bug real evitado a propósito: al conectar Resend, se encontró que
+    `resend.Emails.send(...)` no tenía manejo de errores — con el dominio remitente sin
+    verificar en Resend (`logos.cl`, confirmado a mano contra la API real), CADA registro
+    real habría reventado con un 500 en cuanto se configurara la API key. Este test simula
+    esa falla explícitamente y confirma que el registro sigue devolviendo 201 (el correo es
+    una notificación secundaria, nunca una condición para que la cuenta se cree)."""
+    import resend
+
+    from app.core.config import settings as settings_reales
+
+    monkeypatch.setattr(settings_reales, "resend_api_key", "re_clave_de_prueba")
+
+    def _falla(*args, **kwargs):
+        raise Exception("The logos.cl domain is not verified.")
+
+    monkeypatch.setattr(resend.Emails, "send", _falla)
+
+    r = _registrar(client, "correo.falla@test.cl")
     assert r.status_code == 201
     assert "access_token" in r.json()
 
@@ -310,7 +336,7 @@ def test_listar_planes_solo_devuelve_los_activos(client, session):
     assert "Descontinuado" not in nombres
 
 
-def test_iniciar_prueba_gratis_activa_suscripcion_de_7_dias(client, session):
+def test_iniciar_prueba_gratis_activa_suscripcion_de_5_dias(client, session):
     from datetime import datetime
 
     from sqlmodel import select
@@ -328,7 +354,7 @@ def test_iniciar_prueba_gratis_activa_suscripcion_de_7_dias(client, session):
     )
     assert r.status_code == 200
     fecha_termino = datetime.fromisoformat(r.json()["fecha_termino"])
-    assert (fecha_termino - datetime.now(fecha_termino.tzinfo)).days in (6, 7)
+    assert (fecha_termino - datetime.now(fecha_termino.tzinfo)).days in (4, 5)
 
     suscripcion = session.exec(select(Suscripcion).where(Suscripcion.perfil_alumno_id == alumno["id"])).first()
     assert suscripcion.origen == "prueba_gratis"
@@ -348,3 +374,76 @@ def test_iniciar_prueba_gratis_no_permite_activar_alumno_ajeno(client, session):
         json={"plan_id": plan.id},
     )
     assert r.status_code == 403
+
+
+def test_registro_da_429_al_pasar_el_limite_configurado(client):
+    """/auth/registro está limitado por IP (slowapi) — protección real contra fuerza
+    bruta/creación masiva de cuentas, nunca verificada hasta ahora (P0 del plan de pruebas
+    exhaustivo, planificacion/28-plan-de-pruebas-exhaustivo.md). El límite se lee de
+    `settings.limite_registro_por_minuto` en vez de un número fijo: en Desarrollo se
+    configura más alto (ver `.env` local) para que la suite Playwright completa —que
+    registra muchas cuentas de prueba en corridas rápidas— no choque con un valor pensado
+    para tráfico real; acá se verifica el mecanismo en sí, no un número mágico."""
+    limite = settings.limite_registro_por_minuto
+    for i in range(limite):
+        r = _registrar(client, f"rate.registro.{i}@test.cl")
+        assert r.status_code == 201
+
+    r = _registrar(client, "rate.registro.excedido@test.cl")
+    assert r.status_code == 429
+
+
+def test_login_da_429_al_pasar_el_limite_configurado(client):
+    """/auth/login está limitado por IP — mismo motivo que el registro, pero con un umbral
+    más alto por defecto porque un usuario legítimo puede equivocarse la contraseña varias
+    veces seguidas."""
+    _registrar(client, "rate.login@test.cl")
+
+    limite = settings.limite_login_por_minuto
+    for _ in range(limite):
+        r = client.post("/auth/login", json={"email": "rate.login@test.cl", "password": "clave-mala"})
+        assert r.status_code == 401
+
+    r = client.post("/auth/login", json={"email": "rate.login@test.cl", "password": "clave-mala"})
+    assert r.status_code == 429
+
+
+def _rut_valido(cuerpo: int) -> str:
+    cuerpo_str = str(cuerpo)
+    suma = 0
+    multiplicador = 2
+    for c in reversed(cuerpo_str):
+        suma += int(c) * multiplicador
+        multiplicador = multiplicador + 1 if multiplicador < 7 else 2
+    resto = 11 - (suma % 11)
+    dv = "0" if resto == 11 else "K" if resto == 10 else str(resto)
+    return f"{cuerpo_str}-{dv}"
+
+
+def test_agregar_alumno_da_429_al_pasar_el_limite_configurado(client, session):
+    """Auditoría de seguridad (2026-08-17): sin límite, una cuenta autenticada podía
+    inundar la base de datos con miles de filas de `PerfilAlumno` en minutos — el rate
+    limit no reemplaza la lógica de negocio (un apoderado real agrega pocos hijos), es una
+    protección contra abuso directo del endpoint."""
+    _crear_nivel_y_plan(session)
+    token = _registrar(client, "rate.alumnos@test.cl").json()["access_token"]
+
+    limite = settings.limite_agregar_alumno_por_minuto
+    for i in range(limite):
+        r = client.post(
+            "/auth/alumnos", headers={"Authorization": f"Bearer {token}"},
+            json={
+                "nombre": "Alumno Prueba", "apellidos": "Test", "fecha_nacimiento": "2016-01-01",
+                "rut": _rut_valido(30_000_000 + i), "nivel_id": 1,
+            },
+        )
+        assert r.status_code == 201
+
+    r = client.post(
+        "/auth/alumnos", headers={"Authorization": f"Bearer {token}"},
+        json={
+            "nombre": "Alumno Excedido", "apellidos": "Test", "fecha_nacimiento": "2016-01-01",
+            "rut": _rut_valido(30_000_000 + limite), "nivel_id": 1,
+        },
+    )
+    assert r.status_code == 429

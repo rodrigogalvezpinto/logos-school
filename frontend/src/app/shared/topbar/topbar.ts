@@ -1,17 +1,27 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { BusquedaGlobal } from '../busqueda-global/busqueda-global';
+import { CampanaNotificaciones } from '../campana-notificaciones/campana-notificaciones';
 
 @Component({
   selector: 'app-topbar',
   standalone: true,
-  imports: [RouterLink],
+  imports: [RouterLink, BusquedaGlobal, CampanaNotificaciones],
   template: `
     <header class="topbar">
       <button type="button" class="topbar__hamburguesa" (click)="alternarMenu.emit()" aria-label="Abrir menú">☰</button>
-      <a class="topbar__usuario" routerLink="/selector-perfil">
-        <div class="topbar__avatar">{{ inicial }}</div>
-        <span>{{ nombre }}</span>
-      </a>
+      @if (mostrarBusqueda) {
+        <app-busqueda-global />
+      }
+      <div class="topbar__acciones">
+        @if (mostrarBusqueda) {
+          <app-campana-notificaciones />
+        }
+        <a class="topbar__usuario" routerLink="/selector-perfil">
+          <div class="topbar__avatar">{{ inicial }}</div>
+          <span>{{ nombre }}</span>
+        </a>
+      </div>
     </header>
   `,
   styles: [
@@ -20,9 +30,20 @@ import { RouterLink } from '@angular/router';
         display: flex;
         justify-content: space-between;
         align-items: center;
+        gap: 1rem;
         padding: 1.25rem 2rem;
         border-bottom: 1px solid var(--borde);
         background: var(--fondo-tarjeta);
+      }
+      .topbar > app-busqueda-global {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+      }
+      @media (max-width: 640px) {
+        .topbar > app-busqueda-global {
+          display: none;
+        }
       }
       .topbar__hamburguesa {
         display: none;
@@ -40,6 +61,11 @@ import { RouterLink } from '@angular/router';
         .topbar {
           padding: 1rem 1.25rem;
         }
+      }
+      .topbar__acciones {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
       }
       .topbar__usuario {
         display: flex;
@@ -66,6 +92,7 @@ import { RouterLink } from '@angular/router';
 })
 export class Topbar {
   @Input() nombre = 'Sofía';
+  @Input() mostrarBusqueda = false;
   @Output() alternarMenu = new EventEmitter<void>();
 
   get inicial(): string {

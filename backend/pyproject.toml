@@ -17,6 +17,7 @@ dependencies = [
     "google-auth>=2.35",
     "resend>=2.4",
     "slowapi>=0.1.9",
+    "fpdf2>=2.8.8",
 ]
 
 [project.optional-dependencies]
@@ -27,3 +28,8 @@ dev = [
 
 [tool.setuptools.packages.find]
 include = ["app*"]
+
+[dependency-groups]
+dev = [
+    "pypdf>=6.16.1",
+]

@@ -2,11 +2,13 @@
 auto-registro, pero la cuenta nace `estado="pendiente"` y no puede crear/gestionar cursos
 hasta que un Administrador la aprueba desde /admin/profesores."""
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, EmailStr
 
 from app.application.profesor.casos_de_uso import IniciarSesionProfesor, RegistrarProfesor
+from app.core.config import settings
 from app.core.deps import get_cuenta_profesor_actual, get_iniciar_sesion_profesor_uc, get_registrar_profesor_uc
+from app.core.limiter import limiter
 from app.domain.profesor.entities import CuentaProfesor
 from app.domain.profesor.exceptions import CorreoYaRegistrado, CredencialesProfesorInvalidas
 
@@ -37,7 +39,8 @@ class CuentaProfesorRespuesta(BaseModel):
 
 
 @router.post("/registro", response_model=TokenProfesorRespuesta, status_code=201)
-def registrar(datos: RegistroProfesor, uc: RegistrarProfesor = Depends(get_registrar_profesor_uc)):
+@limiter.limit(f"{settings.limite_registro_profesor_por_minuto}/minute")
+def registrar(request: Request, datos: RegistroProfesor, uc: RegistrarProfesor = Depends(get_registrar_profesor_uc)):
     try:
         token = uc.ejecutar(datos.email, datos.password, datos.nombre)
     except CorreoYaRegistrado:
@@ -46,7 +49,8 @@ def registrar(datos: RegistroProfesor, uc: RegistrarProfesor = Depends(get_regis
 
 
 @router.post("/login", response_model=TokenProfesorRespuesta)
-def login(datos: LoginProfesor, uc: IniciarSesionProfesor = Depends(get_iniciar_sesion_profesor_uc)):
+@limiter.limit(f"{settings.limite_login_profesor_por_minuto}/minute")
+def login(request: Request, datos: LoginProfesor, uc: IniciarSesionProfesor = Depends(get_iniciar_sesion_profesor_uc)):
     try:
         token = uc.ejecutar(datos.email, datos.password)
     except CredencialesProfesorInvalidas:

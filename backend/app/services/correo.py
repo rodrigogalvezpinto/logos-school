@@ -26,14 +26,20 @@ def _enviar(destinatario: str, asunto: str, html: str) -> None:
         return
 
     resend.api_key = settings.resend_api_key
-    resend.Emails.send(
-        {
-            "from": settings.resend_remitente,
-            "to": [destinatario],
-            "subject": asunto,
-            "html": html,
-        }
-    )
+    try:
+        resend.Emails.send(
+            {
+                "from": settings.resend_remitente,
+                "to": [destinatario],
+                "subject": asunto,
+                "html": html,
+            }
+        )
+    except Exception:
+        # Nunca debe romper el flujo real (registro, activar plan) por un problema de
+        # correo (dominio sin verificar en Resend, corte de red, etc.) — el correo es una
+        # notificación secundaria, no una condición para que la acción principal funcione.
+        logger.exception("Falló el envío de correo — no se interrumpe el flujo. Para: %s | Asunto: %s", destinatario, asunto)
 
 
 def enviar_bienvenida(destinatario: str, nombre_apoderado: str) -> None:

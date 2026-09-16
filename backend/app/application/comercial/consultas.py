@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from datetime import datetime
 
 from app.domain.auth.ports import RepositorioCuentas, RepositorioPerfilesAlumno
-from app.domain.comercial.ports import AlumnoEncontrado, RepositorioPlanes, RepositorioSuscripciones
+from app.domain.comercial.ports import AlumnoEncontrado, RepositorioPlanes, RepositorioSuscripciones, SuscripcionLectura
 
 
 class BuscarAlumnos:
@@ -80,3 +80,17 @@ class ObtenerMetricas:
             ],
             ingresos_mes_aprox_clp=ingresos_mes_aprox,
         )
+
+
+class ObtenerSuscripcionDeAlumno:
+    """Fase 1, ítem 2.8 — historial de pagos para el Apoderado (ver
+    planificacion/27-plan-incorporacion-hallazgos-brincus.md). Pass-through simple: no
+    hay agregación real que hacer, es la misma consulta directa que ya usa el patrón de
+    `contenido.py` (router → repositorio), pero se mantiene acá para no romper la
+    convención del módulo `comercial` (todo lo de aplicación vive en `consultas.py`)."""
+
+    def __init__(self, repositorio_suscripciones: RepositorioSuscripciones):
+        self._repositorio_suscripciones = repositorio_suscripciones
+
+    def ejecutar(self, perfil_alumno_id: int) -> SuscripcionLectura | None:
+        return self._repositorio_suscripciones.buscar_por_perfil(perfil_alumno_id)

@@ -9,6 +9,7 @@ from sqlmodel import Session
 from app.application.auth.casos_de_uso import (
     AgregarPerfilAlumno,
     CerrarSesion,
+    EliminarAlumno,
     IniciarSesion,
     IniciarSesionConGoogle,
     ListarPerfilesAlumno,
@@ -18,10 +19,34 @@ from app.application.evaluaciones.casos_de_uso import (
     EntregarIntento,
     GenerarSimulacroParcial,
     IniciarIntento,
+    ObtenerDetalleIntento,
     ObtenerIntento,
+    ProgramarFechaSimulacro,
     ResponderPregunta,
 )
-from app.application.plan_estudio.casos_de_uso import CrearPlanDeEstudio, ObtenerPlanActivo
+from app.application.bienestar.casos_de_uso import ObtenerAnimoDeHoy, RegistrarAnimoDeHoy
+from app.application.gamificacion.casos_de_uso import CambiarAvatar, ObtenerPerfilGamificacion, SumarXp
+from app.application.onboarding.casos_de_uso import CompletarPasoOnboarding, ObtenerProgresoOnboarding
+from app.application.plan_estudio.casos_de_uso import AgregarSesionDeRepaso, CrearPlanDeEstudio, ObtenerPlanActivo
+from app.application.reportes.casos_de_uso import ListarReportesNoResueltos, ReportarErrorPregunta
+from app.application.sugerencias.casos_de_uso import EnviarSugerencia, ListarMisSugerencias
+from app.infrastructure.persistence.repositorios.sugerencias import RepositorioSugerenciasSQLModel
+from app.application.calificaciones.casos_de_uso import CalificarGuia, ObtenerMiCalificacion
+from app.infrastructure.persistence.repositorios.calificaciones import RepositorioCalificacionesSQLModel
+from app.application.apoderado.casos_de_uso import MarcarAgendaFamiliarConversada
+from app.application.apoderado.consultas import (
+    ObtenerAgendaFamiliar,
+    ObtenerEstadisticasFamiliares,
+    ObtenerMetaFamiliar,
+)
+from app.infrastructure.persistence.repositorios.agenda_familiar import RepositorioAgendaFamiliarSQLModel
+from app.application.prediccion.consultas import (
+    EstimarNotaExamen,
+    EvaluarRitmoDeEstudio,
+    ObservarHorarioDeEstudio,
+    ObtenerJardinSemanal,
+    ObtenerMapaDeCalorPorEje,
+)
 from app.application.admin.casos_de_uso import IniciarSesionAdmin
 from app.application.admin.casos_de_uso_profesores import AprobarProfesor, ListarProfesoresPendientes, RechazarProfesor
 from app.application.comercial.casos_de_uso import (
@@ -33,7 +58,7 @@ from app.application.comercial.casos_de_uso import (
     EditarPlan,
     IniciarPruebaGratis,
 )
-from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas
+from app.application.comercial.consultas import BuscarAlumnos, ObtenerMetricas, ObtenerSuscripcionDeAlumno
 from app.application.curso_seccion.casos_de_uso import (
     AgregarAlumnoACurso,
     CrearCursoSeccion,
@@ -41,6 +66,7 @@ from app.application.curso_seccion.casos_de_uso import (
     QuitarAlumnoDeCurso,
 )
 from app.application.curso_seccion.consultas import ObtenerMiCurso, ObtenerProgresoDeCurso
+from app.application.notificaciones.consultas import ObtenerNotificaciones
 from app.application.profesor.casos_de_uso import IniciarSesionProfesor, RegistrarProfesor
 from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.application.progreso.marcar_guia_revisada import MarcarGuiaRevisada
@@ -52,6 +78,8 @@ from app.infrastructure.auth_externa.google_oauth import VerificadorTokenGoogleA
 from app.infrastructure.persistence.repositorios.comunicados import RepositorioComunicadosSQLModel
 from app.infrastructure.persistence.repositorios.conjuntos import RepositorioConjuntosSQLModel
 from app.infrastructure.persistence.repositorios.contenido import RepositorioContenidoSQLModel
+from app.infrastructure.persistence.repositorios.plan_lector import RepositorioPlanLectorSQLModel
+from app.infrastructure.persistence.repositorios.utiles_escolares import RepositorioUtilesEscolaresSQLModel
 from app.infrastructure.persistence.repositorios.cuentas import RepositorioCuentasSQLModel
 from app.infrastructure.persistence.repositorios.cuentas_admin import RepositorioCuentasAdminSQLModel
 from app.infrastructure.persistence.repositorios.cuentas_profesor import RepositorioCuentasProfesorSQLModel
@@ -62,7 +90,11 @@ from app.infrastructure.persistence.repositorios.perfiles_alumno import Reposito
 from app.infrastructure.persistence.repositorios.plan_estudio import RepositorioPlanEstudioSQLModel
 from app.infrastructure.persistence.repositorios.planes import RepositorioPlanesSQLModel
 from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
+from app.infrastructure.persistence.repositorios.bienestar import RepositorioBienestarSQLModel
+from app.infrastructure.persistence.repositorios.gamificacion import RepositorioGamificacionSQLModel
+from app.infrastructure.persistence.repositorios.onboarding import RepositorioOnboardingSQLModel
 from app.infrastructure.persistence.repositorios.progreso import RepositorioProgresoSQLModel
+from app.infrastructure.persistence.repositorios.reportes import RepositorioReportesErrorSQLModel
 from app.infrastructure.persistence.repositorios.suscripciones import RepositorioSuscripcionesSQLModel
 from app.infrastructure.reloj_sistema import RelojSistema
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
@@ -125,6 +157,14 @@ def get_repositorio_contenido(session: Session = Depends(get_session)) -> Reposi
     return RepositorioContenidoSQLModel(session)
 
 
+def get_repositorio_plan_lector(session: Session = Depends(get_session)) -> RepositorioPlanLectorSQLModel:
+    return RepositorioPlanLectorSQLModel(session)
+
+
+def get_repositorio_utiles_escolares(session: Session = Depends(get_session)) -> RepositorioUtilesEscolaresSQLModel:
+    return RepositorioUtilesEscolaresSQLModel(session)
+
+
 def get_reloj() -> RelojSistema:
     return RelojSistema()
 
@@ -141,6 +181,12 @@ def get_listar_perfiles_alumno_uc(
     repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
 ) -> ListarPerfilesAlumno:
     return ListarPerfilesAlumno(repositorio)
+
+
+def get_eliminar_alumno_uc(
+    repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+) -> EliminarAlumno:
+    return EliminarAlumno(repositorio)
 
 
 def get_repositorio_intentos(session: Session = Depends(get_session)) -> RepositorioIntentosSQLModel:
@@ -183,6 +229,69 @@ def get_entregar_intento_uc(
     reloj: RelojSistema = Depends(get_reloj),
 ) -> EntregarIntento:
     return EntregarIntento(repositorio_intentos, repositorio_conjuntos, repositorio_preguntas, reloj)
+
+
+def get_obtener_detalle_intento_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+) -> ObtenerDetalleIntento:
+    return ObtenerDetalleIntento(repositorio_intentos, repositorio_conjuntos, repositorio_preguntas)
+
+
+def get_repositorio_reportes_error(session: Session = Depends(get_session)) -> RepositorioReportesErrorSQLModel:
+    return RepositorioReportesErrorSQLModel(session)
+
+
+def get_reportar_error_pregunta_uc(
+    repositorio_reportes: RepositorioReportesErrorSQLModel = Depends(get_repositorio_reportes_error),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> ReportarErrorPregunta:
+    return ReportarErrorPregunta(repositorio_reportes, repositorio_preguntas, repositorio_perfiles, reloj)
+
+
+def get_listar_reportes_no_resueltos_uc(
+    repositorio_reportes: RepositorioReportesErrorSQLModel = Depends(get_repositorio_reportes_error),
+) -> ListarReportesNoResueltos:
+    return ListarReportesNoResueltos(repositorio_reportes)
+
+
+def get_repositorio_sugerencias(session: Session = Depends(get_session)) -> RepositorioSugerenciasSQLModel:
+    return RepositorioSugerenciasSQLModel(session)
+
+
+def get_enviar_sugerencia_uc(
+    repositorio_sugerencias: RepositorioSugerenciasSQLModel = Depends(get_repositorio_sugerencias),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> EnviarSugerencia:
+    return EnviarSugerencia(repositorio_sugerencias, repositorio_perfiles, reloj)
+
+
+def get_listar_mis_sugerencias_uc(
+    repositorio_sugerencias: RepositorioSugerenciasSQLModel = Depends(get_repositorio_sugerencias),
+) -> ListarMisSugerencias:
+    return ListarMisSugerencias(repositorio_sugerencias)
+
+
+def get_repositorio_calificaciones(session: Session = Depends(get_session)) -> RepositorioCalificacionesSQLModel:
+    return RepositorioCalificacionesSQLModel(session)
+
+
+def get_calificar_guia_uc(
+    repositorio_calificaciones: RepositorioCalificacionesSQLModel = Depends(get_repositorio_calificaciones),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> CalificarGuia:
+    return CalificarGuia(repositorio_calificaciones, repositorio_perfiles, reloj)
+
+
+def get_obtener_mi_calificacion_uc(
+    repositorio_calificaciones: RepositorioCalificacionesSQLModel = Depends(get_repositorio_calificaciones),
+) -> ObtenerMiCalificacion:
+    return ObtenerMiCalificacion(repositorio_calificaciones)
 
 
 def get_repositorio_progreso(session: Session = Depends(get_session)) -> RepositorioProgresoSQLModel:
@@ -289,6 +398,12 @@ def get_desactivar_codigo_descuento_uc(
     return DesactivarCodigoDescuento(repositorio, reloj)
 
 
+def get_obtener_suscripcion_de_alumno_uc(
+    repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
+) -> ObtenerSuscripcionDeAlumno:
+    return ObtenerSuscripcionDeAlumno(repositorio_suscripciones)
+
+
 def get_asignar_suscripcion_cortesia_uc(
     repositorio_suscripciones: RepositorioSuscripcionesSQLModel = Depends(get_repositorio_suscripciones),
     repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
@@ -338,14 +453,58 @@ def get_obtener_faltantes_uc(
     repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
     repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
     repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+    reloj: RelojSistema = Depends(get_reloj),
 ) -> ObtenerFaltantes:
     return ObtenerFaltantes(
-        repositorio_conjuntos, repositorio_intentos, repositorio_preguntas, repositorio_contenido, repositorio_progreso
+        repositorio_conjuntos, repositorio_intentos, repositorio_preguntas, repositorio_contenido,
+        repositorio_progreso, reloj,
     )
+
+
+def get_estimar_nota_examen_uc(
+    obtener_historial_y_notas: ObtenerHistorialYNotas = Depends(get_obtener_historial_y_notas_uc),
+    obtener_faltantes: ObtenerFaltantes = Depends(get_obtener_faltantes_uc),
+) -> EstimarNotaExamen:
+    return EstimarNotaExamen(obtener_historial_y_notas, obtener_faltantes)
+
+
+def get_programar_fecha_simulacro_uc(
+    repositorio_conjuntos: RepositorioConjuntosSQLModel = Depends(get_repositorio_conjuntos),
+) -> ProgramarFechaSimulacro:
+    return ProgramarFechaSimulacro(repositorio_conjuntos)
 
 
 def get_repositorio_plan_estudio(session: Session = Depends(get_session)) -> RepositorioPlanEstudioSQLModel:
     return RepositorioPlanEstudioSQLModel(session)
+
+
+def get_evaluar_ritmo_de_estudio_uc(
+    repositorio_plan_estudio: RepositorioPlanEstudioSQLModel = Depends(get_repositorio_plan_estudio),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> EvaluarRitmoDeEstudio:
+    return EvaluarRitmoDeEstudio(repositorio_plan_estudio, repositorio_progreso)
+
+
+def get_obtener_mapa_de_calor_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_preguntas: RepositorioPreguntasSQLModel = Depends(get_repositorio_preguntas),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+) -> ObtenerMapaDeCalorPorEje:
+    return ObtenerMapaDeCalorPorEje(repositorio_intentos, repositorio_preguntas, repositorio_contenido)
+
+
+def get_observar_horario_de_estudio_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObservarHorarioDeEstudio:
+    return ObservarHorarioDeEstudio(repositorio_intentos, repositorio_progreso)
+
+
+def get_obtener_jardin_semanal_uc(
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObtenerJardinSemanal:
+    return ObtenerJardinSemanal(repositorio_intentos, repositorio_progreso)
 
 
 def get_crear_plan_de_estudio_uc(
@@ -365,6 +524,14 @@ def get_obtener_plan_activo_uc(
     repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
 ) -> ObtenerPlanActivo:
     return ObtenerPlanActivo(repositorio_plan_estudio, repositorio_progreso)
+
+
+def get_agregar_sesion_de_repaso_uc(
+    repositorio_plan_estudio: RepositorioPlanEstudioSQLModel = Depends(get_repositorio_plan_estudio),
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_contenido: RepositorioContenidoSQLModel = Depends(get_repositorio_contenido),
+) -> AgregarSesionDeRepaso:
+    return AgregarSesionDeRepaso(repositorio_plan_estudio, repositorio_perfiles, repositorio_contenido)
 
 
 def get_repositorio_cuentas_profesor(session: Session = Depends(get_session)) -> RepositorioCuentasProfesorSQLModel:
@@ -487,6 +654,14 @@ def get_obtener_mi_curso_uc(
     return ObtenerMiCurso(repositorio_cursos, repositorio_comunicados, repositorio_cuentas_profesor)
 
 
+def get_obtener_notificaciones_uc(
+    obtener_mi_curso: ObtenerMiCurso = Depends(get_obtener_mi_curso_uc),
+    obtener_plan_activo: ObtenerPlanActivo = Depends(get_obtener_plan_activo_uc),
+    repositorio_reportes: RepositorioReportesErrorSQLModel = Depends(get_repositorio_reportes_error),
+) -> ObtenerNotificaciones:
+    return ObtenerNotificaciones(obtener_mi_curso, obtener_plan_activo, repositorio_reportes)
+
+
 def verificar_perfil_propio(
     perfil_alumno_id: int,
     cuenta: Cuenta = Depends(get_cuenta_actual),
@@ -500,3 +675,96 @@ def verificar_perfil_propio(
     if perfil.cuenta_apoderado_id != cuenta.id:
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Ese perfil no pertenece a tu cuenta")
     return perfil_alumno_id
+
+
+def get_repositorio_gamificacion(session: Session = Depends(get_session)) -> RepositorioGamificacionSQLModel:
+    return RepositorioGamificacionSQLModel(session)
+
+
+def get_obtener_perfil_gamificacion_uc(
+    repositorio: RepositorioGamificacionSQLModel = Depends(get_repositorio_gamificacion),
+) -> ObtenerPerfilGamificacion:
+    return ObtenerPerfilGamificacion(repositorio)
+
+
+def get_obtener_estadisticas_familiares_uc(
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_gamificacion: RepositorioGamificacionSQLModel = Depends(get_repositorio_gamificacion),
+    obtener_faltantes: ObtenerFaltantes = Depends(get_obtener_faltantes_uc),
+    evaluar_ritmo: EvaluarRitmoDeEstudio = Depends(get_evaluar_ritmo_de_estudio_uc),
+) -> ObtenerEstadisticasFamiliares:
+    return ObtenerEstadisticasFamiliares(repositorio_perfiles, repositorio_gamificacion, obtener_faltantes, evaluar_ritmo)
+
+
+def get_obtener_meta_familiar_uc(
+    repositorio_perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    repositorio_intentos: RepositorioIntentosSQLModel = Depends(get_repositorio_intentos),
+    repositorio_progreso: RepositorioProgresoSQLModel = Depends(get_repositorio_progreso),
+) -> ObtenerMetaFamiliar:
+    return ObtenerMetaFamiliar(repositorio_perfiles, repositorio_intentos, repositorio_progreso)
+
+
+def get_repositorio_agenda_familiar(session: Session = Depends(get_session)) -> RepositorioAgendaFamiliarSQLModel:
+    return RepositorioAgendaFamiliarSQLModel(session)
+
+
+def get_obtener_agenda_familiar_uc(
+    obtener_mapa_calor: ObtenerMapaDeCalorPorEje = Depends(get_obtener_mapa_de_calor_uc),
+    repositorio_gamificacion: RepositorioGamificacionSQLModel = Depends(get_repositorio_gamificacion),
+    evaluar_ritmo: EvaluarRitmoDeEstudio = Depends(get_evaluar_ritmo_de_estudio_uc),
+    repositorio_agenda: RepositorioAgendaFamiliarSQLModel = Depends(get_repositorio_agenda_familiar),
+) -> ObtenerAgendaFamiliar:
+    return ObtenerAgendaFamiliar(obtener_mapa_calor, repositorio_gamificacion, evaluar_ritmo, repositorio_agenda)
+
+
+def get_marcar_agenda_familiar_conversada_uc(
+    repositorio_agenda: RepositorioAgendaFamiliarSQLModel = Depends(get_repositorio_agenda_familiar),
+) -> MarcarAgendaFamiliarConversada:
+    return MarcarAgendaFamiliarConversada(repositorio_agenda)
+
+
+def get_sumar_xp_uc(
+    repositorio: RepositorioGamificacionSQLModel = Depends(get_repositorio_gamificacion),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> SumarXp:
+    return SumarXp(repositorio, reloj)
+
+
+def get_cambiar_avatar_uc(
+    repositorio: RepositorioGamificacionSQLModel = Depends(get_repositorio_gamificacion),
+) -> CambiarAvatar:
+    return CambiarAvatar(repositorio)
+
+
+def get_repositorio_onboarding(session: Session = Depends(get_session)) -> RepositorioOnboardingSQLModel:
+    return RepositorioOnboardingSQLModel(session)
+
+
+def get_obtener_progreso_onboarding_uc(
+    repositorio: RepositorioOnboardingSQLModel = Depends(get_repositorio_onboarding),
+) -> ObtenerProgresoOnboarding:
+    return ObtenerProgresoOnboarding(repositorio)
+
+
+def get_completar_paso_onboarding_uc(
+    repositorio: RepositorioOnboardingSQLModel = Depends(get_repositorio_onboarding),
+) -> CompletarPasoOnboarding:
+    return CompletarPasoOnboarding(repositorio)
+
+
+def get_repositorio_bienestar(session: Session = Depends(get_session)) -> RepositorioBienestarSQLModel:
+    return RepositorioBienestarSQLModel(session)
+
+
+def get_obtener_animo_de_hoy_uc(
+    repositorio: RepositorioBienestarSQLModel = Depends(get_repositorio_bienestar),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> ObtenerAnimoDeHoy:
+    return ObtenerAnimoDeHoy(repositorio, reloj)
+
+
+def get_registrar_animo_de_hoy_uc(
+    repositorio: RepositorioBienestarSQLModel = Depends(get_repositorio_bienestar),
+    reloj: RelojSistema = Depends(get_reloj),
+) -> RegistrarAnimoDeHoy:
+    return RegistrarAnimoDeHoy(repositorio, reloj)
