@@ -1,15 +1,12 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 
 @Pipe({
   name: 'emoji',
   standalone: true,
 })
 export class EmojiPipe implements PipeTransform {
-  constructor(private sanitizer: DomSanitizer) {}
-
-  transform(value: string): SafeHtml {
-    if (!value) return this.sanitizer.bypassSecurityTrustHtml(value);
+  transform(value: string): string {
+    if (!value) return value;
 
     // Patrón: ::emoji::🦋::una mariposa de colores volando::
     const patron = /::emoji::([^:]+)::([^:]+)::/g;
@@ -24,6 +21,6 @@ export class EmojiPipe implements PipeTransform {
       `;
     });
 
-    return this.sanitizer.bypassSecurityTrustHtml(html);
+    return html;
   }
 }

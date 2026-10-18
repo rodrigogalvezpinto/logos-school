@@ -20,9 +20,11 @@ const RE_EJEMPLO = /<p><strong>(?:Ejemplo|Actividad) (\d+)\s*—\s*([^<]*)<\/str
 // tal cual, entre corchetes, lo que confunde más que ayuda a un lector de 6-7 años. Se
 // convierte en una tarjeta de marcador de posición mientras no haya ilustración real.
 const RE_IMAGEN = /\[Imagen:\s*([^\]]+)\]/g;
+// Nuevo: Convertir marcadores de emoji ::emoji::🦋::descripcion:: en HTML visual
+const RE_EMOJI = /::emoji::([^:]+)::([^:]+)::/g;
 
 function realzarGuia(html: string): string {
-  return html
+  let resultado = html
     .replace(
       RE_POR_QUE_IMPORTA,
       '<div class="callout callout--importa"><p class="callout__titulo">¿Por qué importa?</p><p>$1</p></div>',
@@ -30,6 +32,18 @@ function realzarGuia(html: string): string {
     .replace(RE_TITULO_EJEMPLOS, '<h$1 class="titulo-ejemplos">Ejemplos resueltos</h$1>')
     .replace(RE_EJEMPLO, '<p class="ejemplo-titulo"><span class="ejemplo-num">$1</span>$2</p>')
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
+
+  // Procesar emoji: ::emoji::🦋::descripcion:: -> HTML visual
+  resultado = resultado.replace(RE_EMOJI, (match, emoji, descripcion) => {
+    return `
+      <div class="emoji-educativo-inline">
+        <span class="emoji-educativo-inline__icono">${emoji}</span>
+        <span class="emoji-educativo-inline__descripcion">${descripcion}</span>
+      </div>
+    `;
+  });
+
+  return resultado;
 }
 
 /** Contenido de estudio (guías) se escribe en Markdown — ver `contenido/`. Confiable (propio
