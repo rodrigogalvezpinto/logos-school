@@ -43,7 +43,7 @@ Vamos a practicar tres cosas:
 
 **Actividad 1 — Contar sílabas dando palmadas**
 
-[Imagen: una mariposa de colores volando]
+::emoji::🦋::una mariposa de colores volando::
 
 Palabra: "**mariposa**"
 
@@ -53,7 +53,7 @@ Palabra: "**mariposa**"
 
 **Actividad 2 — Escuchar el sonido inicial**
 
-[Imagen: una pelota roja y un pescado]
+::emoji::🐟::una pelota roja y un pescado::
 
 - La palabra "**pelota**" empieza con el sonido /p/.
 - La palabra "**pescado**" también empieza con el sonido /p/.
@@ -67,7 +67,7 @@ Palabra: "**mariposa**"
 
 ### Banco de preguntas de autoevaluación — OA N°3
 
-**1. (Contar sílabas)** [Imagen: un gato sentado] ¿Cuántas sílabas tiene la palabra "**gato**"?
+**1. (Contar sílabas)** ::emoji::🐱::un gato sentado:: ¿Cuántas sílabas tiene la palabra "**gato**"?
 
 a) 1
 b) 2
@@ -75,7 +75,7 @@ c) 3
 
 *Respuesta correcta: b.* Retroalimentación: ¡Muy bien! "Ga-to" se separa en dos partes: da dos palmadas y lo comprobarás.
 
-**2. (Sonido inicial)** [Imagen: un sapo verde] ¿Con qué sonido empieza la palabra "**sapo**"?
+**2. (Sonido inicial)** ::emoji::🐸::un sapo verde:: ¿Con qué sonido empieza la palabra "**sapo**"?
 
 a) /s/
 b) /m/
@@ -98,7 +98,7 @@ b) "luna"
 
 *Respuesta correcta: a.* Retroalimentación: exacto, "casa" y "cama" empiezan las dos con el sonido /k/.
 
-**5. (Contar sílabas — más difícil)** [Imagen: una mariposa] ¿Cuántas sílabas tiene la palabra "**mariposa**"?
+**5. (Contar sílabas — más difícil)** ::emoji::🦋::una mariposa:: ¿Cuántas sílabas tiene la palabra "**mariposa**"?
 
 a) 2
 b) 3
@@ -135,7 +135,7 @@ Algunas cosas importantes:
 
 **Actividad 1 — Leer palabras con dígrafos (rr, ll, ch, qu)**
 
-[Imagen: un perro, un pollo, un chancho y un queso]
+::emoji::🐕::un perro, un pollo, un chancho y un queso::
 
 - "**perro**" → se lee con el sonido fuerte de "rr" (distinto de "pero").
 - "**pollo**" → las letras "ll" suenan como un solo sonido.
@@ -220,7 +220,7 @@ Cuando escuchas o lees un cuento, puedes entender más de lo que parece:
 
 > Pepa vive en Curicó. Un día llovía fuerte. Pepa vio un gato debajo de un auto. El gato estaba mojado y temblaba de frío. Pepa lo llevó a su casa. Le dio leche tibia. El gato se quedó dormido en una caja. Pepa lo llamó Michi.
 
-[Imagen: una niña con impermeable amarillo cargando a un gato gris, con lluvia cayendo alrededor]
+::emoji::🐱::una niña con impermeable amarillo cargando a un gato gris, con lluvia cayendo alrededor::
 
 ### Actividades resueltas
 
@@ -265,7 +265,7 @@ c) Porque tomó mucha agua
 
 *Respuesta correcta: "Michi".* Retroalimentación: ¡exacto! Pepa le puso ese nombre al final del cuento.
 
-**5. (Relacionar dibujo con el cuento)** [Imagen: una niña cargando a un gato gris bajo la lluvia] ¿Qué momento del cuento muestra este dibujo?
+**5. (Relacionar dibujo con el cuento)** ::emoji::🐱::una niña cargando a un gato gris bajo la lluvia:: ¿Qué momento del cuento muestra este dibujo?
 
 a) Cuando Pepa encuentra al gato
 b) Cuando el gato duerme en la caja
@@ -306,7 +306,7 @@ No solo leemos cuentos: también leemos textos que nos dan información, como **
 > 4. Enjuaga con agua.
 > 5. Sécate con una toalla.
 
-[Imagen: una secuencia de dibujos mostrando manos mojándose, con jabón, frotándose y secándose]
+::emoji::👋::una secuencia de dibujos mostrando manos mojándose, con jabón, frotándose y secándose::
 
 ### Actividades resueltas
 
@@ -384,7 +384,7 @@ Ahora es tu turno de escribir. Vamos a practicar:
 
 **Actividad 1 — Escribir una palabra a partir de un dibujo**
 
-[Imagen: una luna en el cielo]
+::emoji::🌙::una luna en el cielo::
 
 - Pensamos en los sonidos de la palabra: /l/ - /u/ - /n/ - /a/.
 - Escribimos una letra por cada sonido: **l - u - n - a**.
@@ -406,7 +406,7 @@ Frase mal escrita, sin espacios: "**elpajarocanta**"
 
 ### Banco de preguntas de autoevaluación — OA N°13
 
-**1. (Escribir palabra desde un dibujo)** [Imagen: un sol] Escribe la palabra para este dibujo.
+**1. (Escribir palabra desde un dibujo)** ::emoji::☀️::un sol:: Escribe la palabra para este dibujo.
 
 *Respuesta esperada*: "sol". Retroalimentación: ¡muy bien! Fíjate que cada sonido de la palabra tenga su letra: /s/-/o/-/l/.
 
@@ -430,7 +430,7 @@ c) "lacasa esgrande"
 
 *Respuesta esperada*: cualquier frase corta y con sentido, por ejemplo "Me gusta comer pan" o "Me gustan las empanadas". Retroalimentación: ¡muy bien! Revisa que tu frase tenga las palabras separadas por espacio y que responda la pregunta.
 
-**6. (Escribir palabra cuidando letra-sonido)** [Imagen: un pez] Escribe la palabra para este dibujo, pensando en cada sonido.
+**6. (Escribir palabra cuidando letra-sonido)** ::emoji::🐟::un pez:: Escribe la palabra para este dibujo, pensando en cada sonido.
 
 *Respuesta esperada*: "pez". Retroalimentación: ¡bien hecho! Los sonidos son /p/-/e/-/z/: revisa que hayas puesto una letra para cada sonido.
 

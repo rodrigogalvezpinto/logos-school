@@ -103,9 +103,9 @@ aprovechar la tierra en la montaña.
 
 **Ejemplo 1 — Ubicando pueblos en el mapa de Chile**
 
-[Imagen: mapa de Chile dividido en tres franjas de color — norte, centro y sur — con
+::emoji::🗺️::mapa de Chile dividido en tres franjas de color — norte, centro y sur — con
 pequeños íconos: en el norte, una llama y una vasija de greda; en el centro-sur, una ruka de
-paja; en el extremo sur, una canoa]
+paja; en el extremo sur, una canoa::
 
 *Paso a paso:* miramos el mapa de norte a sur. En el norte, cerca del desierto y el altiplano,
 ubicamos a los aymara, atacameños y diaguitas. En el centro-sur, ubicamos a los mapuche. En el
@@ -231,9 +231,9 @@ Otras cosas han **cambiado**:
 
 **Ejemplo 1 — We Tripantu, ayer y hoy**
 
-[Imagen: una familia mapuche reunida de noche alrededor de un fogón, celebrando el año nuevo,
+::emoji::👦::una familia mapuche reunida de noche alrededor de un fogón, celebrando el año nuevo,
 algunos con vestimenta tradicional y otros con ropa de calle, mientras un niño mira su
-celular]
+celular::
 
 En el periodo precolombino, los mapuche celebraban el ciclo de la naturaleza con ceremonias
 como el We Tripantu. *Paso a paso:* comparamos: **se mantiene** la celebración y su
@@ -249,8 +249,8 @@ la crianza de llamas) y qué ha cambiado (la escuela moderna, el transporte).
 
 **Ejemplo 3 — El pueblo rapa nui en la actualidad**
 
-[Imagen: dos escenas lado a lado — a la izquierda, moáis antiguos de piedra; a la derecha, un
-grupo de bailarines rapa nui actuales, con vestimenta tradicional, en un festival]
+::emoji::🎨::dos escenas lado a lado — a la izquierda, moáis antiguos de piedra; a la derecha, un
+grupo de bailarines rapa nui actuales, con vestimenta tradicional, en un festival::
 
 *Paso a paso:* observamos ambas imágenes y notamos que, aunque cambió el contexto (hoy existe
 un festival con público y luces), se mantiene el elemento cultural: la danza y vestimenta
@@ -366,8 +366,8 @@ americanos.
 
 **Ejemplo 1 — Palabras de origen indígena en nuestro español**
 
-[Imagen: una niña hablando con globos de diálogo que contienen las palabras "guagua",
-"poncho" y "palta"]
+::emoji::👧::una niña hablando con globos de diálogo que contienen las palabras "guagua",
+"poncho" y "palta"::
 
 *Paso a paso:* reconocemos que estas palabras, que usamos todos los días en Chile, no vienen
 del español de España, sino de idiomas indígenas americanos, y hoy forman parte de nuestro
@@ -496,8 +496,8 @@ Universidad de Chile y a redactar el Código Civil chileno.
 
 **Ejemplo 1 — Un pueblo del sur con huellas alemanas**
 
-[Imagen: una calle de un pueblo del sur de Chile con casas de madera de estilo alemán, un
-letrero de "Casa de Té - Kuchen" y el lago y volcanes al fondo]
+::emoji::🏠::una calle de un pueblo del sur de Chile con casas de madera de estilo alemán, un
+letrero de "Casa de Té - Kuchen" y el lago y volcanes al fondo::
 
 *Paso a paso:* observamos elementos como la arquitectura de madera y el letrero "kuchen"
 (palabra alemana para pastel), y los relacionamos con la inmigración alemana que llegó al sur
@@ -629,9 +629,9 @@ regional** y **Santiago**, que es la capital de todo el país.
 
 **Ejemplo 1 — Los vecinos de Chile en el mapa**
 
-[Imagen: mapa de América del Sur con Chile pintado de un color, y con flechas que muestran:
+::emoji::🗺️::mapa de América del Sur con Chile pintado de un color, y con flechas que muestran:
 una flecha hacia arriba (norte) apuntando a Perú, una flecha hacia arriba-derecha
-(noreste) apuntando a Bolivia, y una flecha hacia la derecha (este) apuntando a Argentina]
+(noreste) apuntando a Bolivia, y una flecha hacia la derecha (este) apuntando a Argentina::
 
 *Paso a paso:* ubicamos primero Chile en el mapa por su forma larga y angosta. Luego seguimos
 cada flecha: hacia el norte está Perú, hacia el noreste está Bolivia, y hacia el este,
@@ -639,8 +639,8 @@ cruzando la Cordillera de los Andes, está Argentina.
 
 **Ejemplo 2 — Usando el globo terráqueo**
 
-[Imagen: un globo terráqueo mostrando el continente americano, con Chile señalado con una
-flecha en el extremo suroeste de Sudamérica]
+::emoji::🎨::un globo terráqueo mostrando el continente americano, con Chile señalado con una
+flecha en el extremo suroeste de Sudamérica::
 
 *Paso a paso:* en el globo terráqueo, primero ubicamos el continente americano, luego América
 del Sur, y finalmente Chile, reconociéndolo por su forma alargada junto al océano Pacífico, en
@@ -755,9 +755,9 @@ menor tamaño).
 
 **Ejemplo 1 — Comparando tres paisajes de Chile**
 
-[Imagen: tres fotografías en fila — a la izquierda, un desierto seco con volcanes y una
+::emoji::🏞️::tres fotografías en fila — a la izquierda, un desierto seco con volcanes y una
 llama; al centro, un valle verde con viñedos, un río y cerros a lo lejos; a la derecha, un
-paisaje de bosque, un lago azul y un volcán nevado]
+paisaje de bosque, un lago azul y un volcán nevado::
 
 *Paso a paso:* observamos cada imagen y buscamos las pistas del paisaje: poca vegetación y
 mucha sequedad indica **desierto** (zona norte); viñedos y valles fértiles indican **zona
@@ -765,9 +765,9 @@ centro**; bosques, lagos y abundante agua indican **zona sur**.
 
 **Ejemplo 2 — Reconociendo un fiordo y un archipiélago**
 
-[Imagen: vista aérea del sur de Chile mostrando el mar entrando profundamente entre montañas
+::emoji::⛰️::vista aérea del sur de Chile mostrando el mar entrando profundamente entre montañas
 (fiordo) y, más al norte en la misma imagen, un conjunto de islas pequeñas cercanas entre sí
-(archipiélago)]
+(archipiélago)::
 
 *Paso a paso:* identificamos el fiordo por el mar que se mete entre montañas, formando un
 canal angosto y profundo. Identificamos el archipiélago por el grupo de varias islas juntas.
@@ -888,8 +888,8 @@ Existen normas para distintos propósitos, todas importantes para vivir mejor en
 
 **Ejemplo 1 — Practicando un simulacro de sismo**
 
-[Imagen: niños agachados junto a sus mesas, cubriéndose la cabeza, mientras el profesor
-señala la ruta de evacuación marcada con una flecha verde hacia la salida]
+::emoji::👦::niños agachados junto a sus mesas, cubriéndose la cabeza, mientras el profesor
+señala la ruta de evacuación marcada con una flecha verde hacia la salida::
 
 *Paso a paso:* durante un simulacro, primero nos protegemos (agacharse y cubrirse), y luego,
 cuando se indica, salimos ordenadamente por la **vía de evacuación** señalada, sin correr ni
@@ -897,8 +897,8 @@ empujar, hasta la zona de seguridad.
 
 **Ejemplo 2 — Adaptaciones para todos**
 
-[Imagen: la entrada de un edificio con una rampa junto a las escaleras, y un semáforo
-peatonal con un altavoz para personas con discapacidad visual]
+::emoji::🏢::la entrada de un edificio con una rampa junto a las escaleras, y un semáforo
+peatonal con un altavoz para personas con discapacidad visual::
 
 *Paso a paso:* observamos la rampa, que permite el paso de sillas de ruedas o coches, y el
 semáforo con sonido, que ayuda a las personas con discapacidad visual a cruzar con seguridad.
@@ -1019,8 +1019,8 @@ Además de las instituciones que ya conocimos (como la escuela o el hospital), e
 
 **Ejemplo 1 — De la chacra a la feria**
 
-[Imagen: un camión cargado de frutas y verduras viajando por un camino, y luego las mismas
-frutas y verduras siendo vendidas en los puestos de una feria libre]
+::emoji::🎨::un camión cargado de frutas y verduras viajando por un camino, y luego las mismas
+frutas y verduras siendo vendidas en los puestos de una feria libre::
 
 *Paso a paso:* seguimos el recorrido: primero, los alimentos se cultivan en el campo; luego,
 un **medio de transporte** (el camión) los traslada hasta la ciudad; finalmente, se venden en
@@ -1035,8 +1035,8 @@ gente para que pueda protegerse.
 
 **Ejemplo 3 — Un museo cuida nuestra historia**
 
-[Imagen: una sala de museo con vitrinas que muestran cerámica diaguita, herramientas mapuche y
-un moái en miniatura, junto a un guía explicando a un grupo de niños]
+::emoji::👦::una sala de museo con vitrinas que muestran cerámica diaguita, herramientas mapuche y
+un moái en miniatura, junto a un guía explicando a un grupo de niños::
 
 *Paso a paso:* identificamos que el museo guarda y protege objetos importantes de nuestra
 historia (como cerámica y herramientas de los pueblos originarios) para que las personas

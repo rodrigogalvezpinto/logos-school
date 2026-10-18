@@ -89,8 +89,8 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    rana necesita una laguna o un charco de agua limpia para poder reproducirse.
 
 2. **Comparar el ciclo de un ave y el de un mamífero.**
-   [Imagen: un nido con huevos de queltehue junto a una guanaca con su cría recién
-   nacida]
+   ::emoji::🎨::un nido con huevos de queltehue junto a una guanaca con su cría recién
+   nacida::
    El queltehue (un ave típica de Chile) pone huevos en un nido; de ahí nace un
    polluelo cubierto de plumón que aún no puede volar. El guanaco, en cambio, no
    pone huevos: la cría crece dentro del cuerpo de la madre y nace ya con cuatro
@@ -139,7 +139,7 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
 
 5. *(Observación/secuencia)* Mira esta imagen: un nido con un huevo, un polluelo con
    plumón y un ave adulta volando.
-   [Imagen: las tres etapas de un ave, sin estar en orden]
+   ::emoji::🐦::las tres etapas de un ave, sin estar en orden::
    Ordena las tres etapas desde la más temprana hasta la más tardía.
    **Respuesta correcta:** Huevo → polluelo → ave adulta.
    **Retroalimentación:** ¡Bien hecho! Así se desarrolla la mayoría de las aves,
@@ -187,22 +187,22 @@ bosques, ríos y humedales donde viven.
 **Ejemplos resueltos**
 
 1. **El huemul, símbolo de Chile en peligro.**
-   [Imagen: un huemul entre árboles nativos, con montañas nevadas al fondo]
+   ::emoji::🌳::un huemul entre árboles nativos, con montañas nevadas al fondo::
    El huemul aparece en el escudo nacional de Chile, junto al cóndor. Vive en
    bosques y montañas del sur. Está en peligro de extinción porque se han destruido
    partes de su hábitat y porque animales introducidos, como vacas y ovejas, le
    quitan alimento.
 
 2. **El picaflor de Arica y su humedal.**
-   [Imagen: un picaflor pequeño volando cerca de un humedal en el desierto del
-   norte de Chile]
+   ::emoji::🌸::un picaflor pequeño volando cerca de un humedal en el desierto del
+   norte de Chile::
    El picaflor de Arica vive solo en algunos humedales del extremo norte de Chile.
    Como esos humedales son escasos y se han visto afectados por la construcción y
    la contaminación, este pajarito está en peligro crítico de extinción.
 
 3. **Proponer medidas de protección.**
-   [Imagen: un cartel de "Parque Nacional" en la entrada de un área protegida con
-   bosque nativo]
+   ::emoji::🎨::un cartel de "Parque Nacional" en la entrada de un área protegida con
+   bosque nativo::
    Una forma de proteger a los animales en peligro es crear parques nacionales
    donde su hábitat esté cuidado y protegido por ley, sin caza ni construcción.
    Otra medida es que las personas eviten comprar animales silvestres o productos
@@ -244,7 +244,7 @@ bosques, ríos y humedales donde viven.
 
 5. *(Observación/análisis)* Mira esta imagen: un bosque nativo siendo talado para
    construir casas.
-   [Imagen: máquinas talando árboles en un bosque, con animales huyendo del lugar]
+   ::emoji::🌳::máquinas talando árboles en un bosque, con animales huyendo del lugar::
    ¿Qué le puede pasar a los animales que vivían en ese bosque?
    **Respuesta correcta:** Pueden quedarse sin alimento ni refugio, tener que
    desplazarse a otro lugar o, si no encuentran un hábitat adecuado, disminuir su
@@ -291,19 +291,19 @@ los huesos: cuando se contraen (se acortan), tiran de los huesos y así producen
 **Ejemplos resueltos**
 
 1. **Ubicar los órganos en una silueta del cuerpo.**
-   [Imagen: la silueta de un niño con el corazón, los pulmones y el estómago
-   dibujados en su ubicación aproximada dentro del torso]
+   ::emoji::👦::la silueta de un niño con el corazón, los pulmones y el estómago
+   dibujados en su ubicación aproximada dentro del torso::
    Corazón → centro del pecho, un poco a la izquierda. Pulmones → a ambos lados del
    corazón, dentro del pecho. Estómago → parte de arriba del abdomen.
 
 2. **Sentir el corazón después de correr.**
-   [Imagen: un niño corriendo en el patio y luego con la mano en el pecho]
+   ::emoji::👦::un niño corriendo en el patio y luego con la mano en el pecho::
    Después de correr, el corazón late más rápido porque el cuerpo necesita que la
    sangre lleve más oxígeno a los músculos que están trabajando.
 
 3. **Los huesos y las articulaciones al saltar.**
-   [Imagen: una niña saltando la cuerda, con líneas que muestran el movimiento de
-   sus rodillas y codos]
+   ::emoji::👧::una niña saltando la cuerda, con líneas que muestran el movimiento de
+   sus rodillas y codos::
    Al saltar, las rodillas y los codos se doblan gracias a las articulaciones, y los
    músculos de las piernas se contraen para impulsar el cuerpo hacia arriba.
 
@@ -383,21 +383,21 @@ ejercicio de manera extrema: lo importante es moverse con regularidad.
 **Ejemplos resueltos**
 
 1. **Comparar a dos niños después del recreo.**
-   [Imagen: un niño que jugó fútbol en el recreo, agitado y sudando, junto a otro
-   que estuvo sentado leyendo]
+   ::emoji::👦::un niño que jugó fútbol en el recreo, agitado y sudando, junto a otro
+   que estuvo sentado leyendo::
    El niño que jugó fútbol tiene el corazón latiendo más rápido y respira más
    fuerte: su cuerpo trabajó y se ejercitó. El niño que estuvo sentado no tuvo ese
    mismo trabajo muscular ni cardíaco durante el recreo.
 
 2. **Formas de moverse en la semana.**
-   [Imagen: un calendario semanal con dibujos de un niño andando en bicicleta,
-   jugando a la pelota, bailando y caminando al colegio]
+   ::emoji::👦::un calendario semanal con dibujos de un niño andando en bicicleta,
+   jugando a la pelota, bailando y caminando al colegio::
    Se puede incorporar actividad física de muchas formas distintas durante la
    semana: no es necesario hacer siempre el mismo deporte, lo importante es moverse
    varios días.
 
 3. **Consecuencias de estar mucho tiempo sentado.**
-   [Imagen: un niño viendo pantallas por muchas horas seguidas, sin moverse]
+   ::emoji::👦::un niño viendo pantallas por muchas horas seguidas, sin moverse::
    Pasar demasiado tiempo sentado, sin actividad física, puede hacer que el cuerpo
    pierda agilidad, aumente de peso más fácilmente y que el corazón se entrene
    menos. Por eso conviene alternar momentos de pantalla con momentos de juego
@@ -492,16 +492,16 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
 **Ejemplos resueltos**
 
 1. **Experimento: el agua toma la forma del recipiente.**
-   [Imagen: la misma cantidad de agua vertida en un vaso alto y angosto, y luego en
-   un plato ancho y bajo]
+   ::emoji::💧::la misma cantidad de agua vertida en un vaso alto y angosto, y luego en
+   un plato ancho y bajo::
    Al verter la misma cantidad de agua en recipientes distintos, el agua cambia de
    forma según el recipiente, pero la cantidad de agua sigue siendo la misma. Esto
    demuestra que el agua no tiene una forma propia.
 
 2. **Experimento: ¿qué se disuelve en agua?**
-   [Imagen: tres vasos con agua: en uno se agrega azúcar y se revuelve hasta que
+   ::emoji::💧::tres vasos con agua: en uno se agrega azúcar y se revuelve hasta que
    desaparece, en otro se agrega arena que queda visible en el fondo, y en otro se
-   agrega sal que también desaparece]
+   agrega sal que también desaparece::
    El azúcar y la sal se disuelven en el agua: después de revolver, ya no se ven
    como sólidos separados. La arena, en cambio, no se disuelve: aunque se revuelva,
    sigue siendo visible como partículas sólidas en el agua.
@@ -549,7 +549,7 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
 5. *(Observación simple)* Mira esta imagen: un charco de agua en el patio del
    colegio en la mañana, y el mismo lugar en la tarde de un día muy caluroso, ya sin
    agua.
-   [Imagen: un charco de agua por la mañana, y el mismo lugar seco por la tarde]
+   ::emoji::💧::un charco de agua por la mañana, y el mismo lugar seco por la tarde::
    ¿Qué le pasó al agua del charco durante el día?
    **Respuesta correcta:** Se evaporó: el calor hizo que el agua líquida se
    transformara en vapor de agua, que subió al aire y ya no se ve.
@@ -610,15 +610,15 @@ agua cuando sea posible, y no contaminar ríos ni lagos con basura o químicos.
    forma ríos que vuelven a llevarla hacia el mar. Y el ciclo se repite sin parar.
 
 2. **¿Dónde se encuentra el agua en Chile?**
-   [Imagen: un mapa simple de Chile mostrando el océano Pacífico, glaciares en el
-   sur, ríos y lagos en el centro y sur, y algo de nieve en la cordillera]
+   ::emoji::🗺️::un mapa simple de Chile mostrando el océano Pacífico, glaciares en el
+   sur, ríos y lagos en el centro y sur, y algo de nieve en la cordillera::
    En Chile hay agua salada en el océano Pacífico, agua dulce en ríos y lagos, y
    agua congelada en los glaciares del sur y en la nieve de la cordillera de los
    Andes.
 
 3. **Acciones para cuidar el agua en la casa.**
-   [Imagen: un niño cerrando la llave del lavamanos mientras se cepilla los
-   dientes]
+   ::emoji::🐦::un niño cerrando la llave del lavamanos mientras se cepilla los
+   dientes::
    Cerrar la llave mientras te cepillas los dientes o te jabonas las manos ayuda a
    no desperdiciar agua dulce, que es un recurso limitado y necesario para todos los
    seres vivos.
@@ -702,21 +702,21 @@ temperatura.
 **Ejemplos resueltos**
 
 1. **Relacionar la nieve con el frío.**
-   [Imagen: un cerro nevado en la cordillera, con niños abrigados jugando con
-   nieve]
+   ::emoji::👦::un cerro nevado en la cordillera, con niños abrigados jugando con
+   nieve::
    Cuando la temperatura baja mucho, el agua que cae se congela y llega al suelo
    como nieve. Por eso, cuando vemos nieve, sabemos que hace bastante frío.
 
 2. **Los efectos del viento.**
-   [Imagen: árboles con las ramas inclinadas por el viento y una cometa volando
-   alto en el cielo]
+   ::emoji::🌳::árboles con las ramas inclinadas por el viento y una cometa volando
+   alto en el cielo::
    El viento es aire en movimiento y produce efectos que podemos ver: mueve las
    ramas y hojas de los árboles, hace volar papeles y cometas, y puede formar olas
    más grandes en el mar o en un lago.
 
 3. **Registrar el tiempo atmosférico de la semana.**
-   [Imagen: una tabla con los días de la semana y dibujos de sol, nubes, lluvia y
-   viento para cada día]
+   ::emoji::☀️::una tabla con los días de la semana y dibujos de sol, nubes, lluvia y
+   viento para cada día::
    Registrar el tiempo atmosférico cada día, usando dibujos simples, nos ayuda a
    observar patrones: por ejemplo, notar que llovió varios días seguidos o que hizo
    mucho viento en una semana determinada.
@@ -748,7 +748,7 @@ temperatura.
 
 4. *(Observación simple)* Mira esta imagen: un cielo cubierto de nubes grises y
    personas caminando con paraguas.
-   [Imagen: una calle con nubes grises y personas con paraguas abiertos]
+   ::emoji::☁️::una calle con nubes grises y personas con paraguas abiertos::
    ¿Qué tipo de tiempo atmosférico está ocurriendo en esta imagen?
    **Respuesta correcta:** Está lloviendo (o va a llover), ya que el cielo está
    nublado y las personas usan paraguas para protegerse del agua.
@@ -808,15 +808,15 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
    nieve en la cordillera. Primavera → clima templado y flores.
 
 2. **Los animales y el invierno.**
-   [Imagen: una ardilla juntando semillas en otoño, y la misma ardilla en su
-   madriguera durante el invierno]
+   ::emoji::🎨::una ardilla juntando semillas en otoño, y la misma ardilla en su
+   madriguera durante el invierno::
    Algunos animales cambian su comportamiento antes del invierno: juntan y guardan
    alimento durante el otoño, cuando todavía hay comida disponible, para poder
    sobrevivir cuando escasea en los meses más fríos.
 
 3. **Ubicar las estaciones en un calendario.**
-   [Imagen: un calendario anual dividido en cuatro colores distintos, cada uno
-   representando una estación]
+   ::emoji::🌊::un calendario anual dividido en cuatro colores distintos, cada uno
+   representando una estación::
    En Chile, el verano ocurre aproximadamente entre diciembre y marzo, el otoño
    entre marzo y junio, el invierno entre junio y septiembre, y la primavera entre
    septiembre y diciembre.
@@ -857,7 +857,7 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
 
 5. *(Observación/aplicación)* Mira esta imagen: un árbol con muchas flores rosadas
    y el pasto verde y fresco.
-   [Imagen: un árbol florecido en un parque, con clima templado]
+   ::emoji::🌸::un árbol florecido en un parque, con clima templado::
    ¿A qué estación del año corresponde probablemente esta imagen?
    **Respuesta correcta:** A la primavera, porque es la estación en que florecen
    muchas plantas y el clima es templado.
