@@ -57,17 +57,86 @@ def buscar_imagen_unsplash(descripcion: str) -> str | None:
     Retorna la URL de la imagen o None si no se encuentra.
     """
     try:
-        # Limpiar descripción para búsqueda
+        # Limpiar descripción para búsqueda - traducir a inglés para mejores resultados
         terminos_busqueda = descripcion.lower()
-        # Reemplazar palabras comunes por términos más efectivos
-        terminos_busqueda = terminos_busqueda.replace("de colores", "colorful")
-        terminos_busqueda = terminos_busqueda.replace("dibujadas", "illustration")
-        terminos_busqueda = terminos_busqueda.replace("dibujado", "illustration")
-        terminos_busqueda = terminos_busqueda.replace("alineados", "arranged")
+
+        # Reemplazar palabras comunes por términos más efectivos en inglés
+        reemplazos = {
+            "mariposa": "butterfly",
+            "gato": "cat",
+            "sapo": "frog",
+            "perro": "dog",
+            "pollo": "chicken",
+            "chancho": "pig",
+            "queso": "cheese",
+            "niña": "girl",
+            "niño": "boy",
+            "luna": "moon",
+            "sol": "sun",
+            "pez": "fish",
+            "flor": "flower",
+            "árbol": "tree",
+            "mesa": "table",
+            "estuche": "pencil case",
+            "lápices": "pencils",
+            "pelota": "ball",
+            "estrellas": "stars",
+            "cielo": "sky",
+            "copihue": "flower red",
+            "enredadera": "vine",
+            "pecera": "fishbowl",
+            "guanaco": "llama",
+            "pudú": "deer",
+            "araucaria": "pine tree",
+            "cactus": "cactus",
+            "mochila": "backpack",
+            "goma": "eraser",
+            "regla": "ruler",
+            "tijeras": "scissors",
+            "cuchara": "spoon",
+            "cubo de hielo": "ice cube",
+            "hoja de papel": "paper",
+            "alambre": "wire",
+            "galleta": "cookie",
+            "chincol": "bird",
+            "búho": "owl",
+            "cueca": "dance chile",
+            "poncho": "poncho",
+            "mapa": "map",
+            "cordillera": "mountains",
+            "valle": "valley",
+            "plaza": "square",
+            "hospital": "hospital",
+            "escuela": "school",
+            "doctora": "doctor",
+            "enfermera": "nurse",
+            "de colores": "colorful",
+            "dibujadas": "illustration",
+            "dibujado": "illustration",
+            "alineados": "arranged",
+            "volando": "flying",
+            "sentado": "sitting",
+            "verde": "green",
+            "rojo": "red",
+            "azul": "blue",
+            "amarillo": "yellow",
+        }
+
+        for espanol, ingles in reemplazos.items():
+            terminos_busqueda = terminos_busqueda.replace(espanol, ingles)
+
+        # Eliminar palabras muy comunes que no ayudan
+        palabras_ignorar = ["de", "la", "el", "un", "una", "con", "y", "en", "para", "que", "del", "al", "los", "las", "por", "como", "muestra", "dibujada", "dibujado", "dibujadas", "colgando", "junto", "derecha", "izquierda", "arriba", "abajo", "adelante", "detras"]
+
+        terminos_busqueda = " ".join([palabra for palabra in terminos_busqueda.split() if palabra not in palabras_ignorar])
+
+        # Limitar a 3-4 palabras clave
+        palabras = terminos_busqueda.split()[:4]
+        terminos_busqueda = " ".join(palabras)
 
         params = {
             "query": terminos_busqueda,
-            "per_page": 1,
+            "per_page": 3,  # Buscar 3 opciones y tomar la primera
             "orientation": "landscape" if "fila" in terminos_busqueda or "horizontal" in terminos_busqueda else "all",
         }
 

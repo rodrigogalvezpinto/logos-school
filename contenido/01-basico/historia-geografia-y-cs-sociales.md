@@ -65,8 +65,10 @@ pequeño (un día) hasta lo más grande (los años de nuestra vida).
 
 **Ejemplo 1 — Ordenando mi mañana**
 
+
 ::emoji::👦::cuatro dibujos en fila — un niño durmiendo, el mismo niño desayunando, el niño
 caminando al colegio, y el niño sentado en la sala de clases::
+
 
 *Paso a paso:* Miramos las cuatro escenas y nos preguntamos "¿qué pasa primero?". Dormir pasa
 **antes** de desayunar. Desayunar pasa **antes** de ir al colegio. Ir al colegio pasa
@@ -182,7 +184,9 @@ plaza, un cerro o un edificio histórico que representa a esa ciudad.
 
 **Ejemplo 1 — Reconociendo el copihue**
 
+
 ::emoji::🌸::una flor roja con forma de campana colgando de una enredadera verde::
+
 
 El copihue es la flor nacional de Chile. Es roja (a veces rosada o blanca), tiene forma de
 campanita y crece en el sur del país. *Paso a paso:* cuando vemos una imagen de esta flor
@@ -190,8 +194,10 @@ roja y en forma de campana, la reconocemos como el copihue, símbolo de nuestro 
 
 **Ejemplo 2 — La cueca en Fiestas Patrias**
 
-::emoji::👫::una pareja bailando cueca, la mujer con vestido y el hombre con poncho, ambos
+
+::emoji::::una pareja bailando cueca, la mujer con vestido y el hombre con poncho, ambos
 agitando un pañuelo::
+
 
 Cada 18 de septiembre, en las Fiestas Patrias, muchas familias chilenas bailan la **cueca**,
 el baile nacional, y comen empanadas y asado. *Paso a paso:* asociamos la fecha (18 de
@@ -300,17 +306,21 @@ ellas, en una **localidad** (ciudad o pueblo) específica.
 
 **Ejemplo 1 — Ubicando Chile en el mapa de Sudamérica**
 
+
 ::emoji::🗺️::un mapa simple de Sudamérica con Chile pintado de un color, mostrando que es angosto
 y muy largo, pegado al océano Pacífico por un lado y a la Cordillera de los Andes por el
 otro::
+
 
 *Paso a paso:* buscamos primero el continente de Sudamérica, luego identificamos a Chile por
 su forma larga y angosta, junto al mar.
 
 **Ejemplo 2 — Cordillera y océano**
 
+
 ::emoji::🏔️::un corte del territorio chileno mostrando, de derecha a izquierda, montañas nevadas
 (cordillera), luego un valle con una ciudad, y al final el mar::
+
 
 En Chile, si miras hacia el este (hacia la derecha del mapa) generalmente ves la Cordillera
 de los Andes. Si miras hacia el oeste (hacia la izquierda del mapa) generalmente está el
@@ -413,8 +423,10 @@ izquierda, delante, detrás**.
 
 **Ejemplo 1 — Describiendo un paisaje de campo**
 
+
 ::emoji::🌳::un paisaje con una cordillera al fondo, un camino de tierra, un pueblo pequeño con
 casas, árboles y un río::
+
 
 *Paso a paso:* miramos la imagen y nombramos lo que vemos usando vocabulario geográfico: al
 fondo hay una **cordillera**; en el medio hay un **camino** y un **pueblo** con
@@ -422,8 +434,10 @@ fondo hay una **cordillera**; en el medio hay un **camino** y un **pueblo** con
 
 **Ejemplo 2 — Un paisaje de desierto**
 
+
 ::emoji::🌱::un paisaje muy seco, con arena, pocas plantas, y montañas secas al fondo, sin
 vegetación::
+
 
 En el norte de Chile hay paisajes de **desierto**: lugares muy secos, con poca vegetación.
 *Paso a paso:* observamos que casi no hay plantas ni agua, y por eso lo identificamos como un
@@ -431,8 +445,10 @@ paisaje desértico.
 
 **Ejemplo 3 — Ubicando objetos con derecha, izquierda, delante y detrás**
 
+
 ::emoji::🌳::una plaza con un árbol a la izquierda, un juego infantil a la derecha, una banca
 delante de un edificio, y el edificio detrás de la banca::
+
 
 En la plaza, el árbol está a la **izquierda** y el juego infantil está a la **derecha**. La
 banca está **delante** del edificio, y el edificio está **detrás** de la banca. *Paso a
@@ -532,16 +548,20 @@ cuidar la buena convivencia con las personas que nos rodean.
 
 **Ejemplo 1 — Cruzando la calle de forma segura**
 
+
 ::emoji::👦::un niño tomado de la mano de un adulto, mirando primero hacia la izquierda y luego
 hacia la derecha antes de cruzar en un paso de cebra, con el semáforo en rojo para los autos::
+
 
 *Paso a paso:* antes de cruzar, miramos hacia ambos lados de la calle, esperamos que el
 semáforo esté en rojo para los autos, y cruzamos tomados de la mano de un adulto.
 
 **Ejemplo 2 — Normas en la sala de clases**
 
+
 ::emoji::👦::niños sentados en sus puestos, uno de ellos levantando la mano para hablar, mientras
 el profesor explica en la pizarra::
+
 
 En la escuela seguimos normas como levantar la mano para hablar, escuchar cuando otra persona
 habla, y guardar silencio cuando el profesor está explicando. *Paso a paso:* identificamos la
@@ -647,8 +667,10 @@ acudir según la situación.
 
 **Ejemplo 1 — ¿A quién le pido ayuda?**
 
+
 ::emoji::🏢::cuatro edificios distintos con su letrero — Escuela, Municipalidad, Hospital,
 Comisaría de Carabineros::
+
 
 Si te sientes muy enfermo, vas al **hospital o posta**. Si necesitas aprender a leer, vas a la
 **escuela**. Si en tu calle falta una luminaria o hay un hoyo, se le avisa a la
@@ -658,7 +680,9 @@ correspondiente.
 
 **Ejemplo 2 — Las personas que trabajan en el hospital**
 
+
 ::emoji::👦::una doctora revisando a un niño con un estetoscopio, y una enfermera al lado::
+
 
 En el hospital trabajan médicos y médicas, enfermeros y enfermeras, que revisan a las
 personas, las curan y les dan remedios cuando lo necesitan. *Paso a paso:* identificamos la

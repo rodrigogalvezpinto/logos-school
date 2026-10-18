@@ -62,19 +62,25 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
 **Ejemplos resueltos**
 
 1. **Comparar un perro y una piedra.**
-   ::emoji::🐕::un perro quiltro junto a una piedra, en un patio chileno::
+   
+::emoji::🐕::un perro quiltro junto a una piedra, en un patio chileno::
+
    El perro respira, come, bebe agua, puede tener cachorros y se mueve solo cuando
    algo lo asusta. La piedra no respira, no come, no crece y no se mueve por sí sola.
    Por eso el perro es un ser vivo y la piedra es una cosa no viva.
 
 2. **Comparar una planta de copihue y una silla de madera.**
-   ::emoji::🌸::una enredadera de copihue con flores rojas, junto a una silla de madera::
+   
+::emoji::🌸::una enredadera de copihue con flores rojas, junto a una silla de madera::
+
    El copihue crece, necesita agua y luz del sol, y da flores nuevas cada año. La
    silla está hecha de madera (que alguna vez fue parte de un árbol vivo), pero ya
    no crece ni necesita agua: es una cosa no viva.
 
 3. **Observar las necesidades de un pez en una pecera.**
-   ::emoji::🐟::una pecera con un pez, agua y una lamparita encima::
+   
+::emoji::🐟::una pecera con un pez, agua y una lamparita encima::
+
    El pez necesita agua limpia para vivir, alimento (comida para peces) y el aire
    disuelto en el agua para respirar. Si le faltara agua o alimento, el pez se
    enfermaría o moriría. Esto demuestra que es un ser vivo con necesidades básicas.
@@ -104,7 +110,9 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
    Si no, es una cosa no viva.
 
 4. *(Observación simple)* Mira esta imagen: un charco de agua con un sapito adentro.
-   ::emoji::🐸::un charco de agua con un sapo pequeño::
+   
+::emoji::🐸::un charco de agua con un sapo pequeño::
+
    ¿Qué elemento de la imagen es un ser vivo?
    **Respuesta correcta:** El sapo.
    **Retroalimentación:** ¡Correcto! El sapo es un ser vivo porque respira, se mueve
@@ -156,20 +164,26 @@ que no se dañe.
 **Ejemplos resueltos**
 
 1. **Comparar un animal del norte y uno del sur.**
-   ::emoji::🦙::un guanaco en el desierto junto a un pudú en el bosque::
+   
+::emoji::🦙::un guanaco en el desierto junto a un pudú en el bosque::
+
    El guanaco tiene el cuello largo y vive en lugares secos y fríos de noche. El
    pudú es pequeño, de patas cortas, y vive escondido entre árboles del bosque
    lluvioso del sur. Los dos son animales chilenos, pero viven en lugares muy
    distintos.
 
 2. **La flor nacional de Chile: el copihue.**
-   ::emoji::🌸::una flor de copihue roja, colgando de una enredadera::
+   
+::emoji::🌸::una flor de copihue roja, colgando de una enredadera::
+
    El copihue crece en los bosques del sur de Chile. Es una planta protegida: no se
    debe arrancar de la naturaleza, porque así se cuida para que sigan existiendo
    copihues en el futuro.
 
 3. **Cuidar a los animales de mi entorno.**
-   ::emoji::🐕::una niña dándole agua limpia a su perro en un patio::
+   
+::emoji::🐕::una niña dándole agua limpia a su perro en un patio::
+
    Si tengo una mascota, debo darle agua limpia, alimento y un lugar donde
    descansar. Si veo un animal silvestre, como un chincol (un pajarito común en
    Chile), no debo tocarlo ni asustarlo: lo mejor es observarlo de lejos.
@@ -212,7 +226,9 @@ que no se dañe.
 
 5. *(Observación/comparación)* Mira estas dos imágenes: una araucaria (árbol muy
    alto y antiguo del sur de Chile) y un cactus (planta con espinas del desierto).
-   ::emoji::🌲::una araucaria alta junto a un cactus pequeño con espinas::
+   
+::emoji::🌲::una araucaria alta junto a un cactus pequeño con espinas::
+
    ¿En qué se parecen y en qué se diferencian estas dos plantas?
    **Respuesta esperada:** Las dos son plantas de Chile y ambas necesitan luz del
    sol. Se diferencian en que la araucaria es muy alta y vive donde llueve mucho,
@@ -254,17 +270,23 @@ lavarnos las manos antes de tocarnos los ojos.
 **Ejemplos resueltos**
 
 1. **Identificar el sentido y su ubicación.**
-   ::emoji::👦::la cara de un niño con flechas que apuntan a los ojos, oídos, nariz,
+   
+::emoji::👦::la cara de un niño con flechas que apuntan a los ojos, oídos, nariz,
    lengua y manos::
+
    Ojos → vista. Oídos → oído. Nariz → olfato. Lengua → gusto. Piel/manos → tacto.
 
 2. **Usar los sentidos para prevenir un riesgo en la calle.**
-   ::emoji::👧::una niña mirando hacia ambos lados antes de cruzar una calle::
+   
+::emoji::👧::una niña mirando hacia ambos lados antes de cruzar una calle::
+
    Antes de cruzar la calle, uso la vista para mirar si vienen autos y el oído para
    escuchar si se acerca alguno. Así uso mis sentidos para cuidarme.
 
 3. **Cuidar mis sentidos.**
-   ::emoji::👦::un niño con música en volumen bajo usando audífonos::
+   
+::emoji::👦::un niño con música en volumen bajo usando audífonos::
+
    Si escucho música muy fuerte todos los días, puedo dañar mis oídos con el
    tiempo. Por eso es mejor escuchar música con un volumen moderado y descansar
    los oídos.
@@ -312,8 +334,10 @@ lavarnos las manos antes de tocarnos los ojos.
 
 6. *(Observación simple)* Mira esta imagen: un niño oliendo una empanada recién
    horneada.
-   ::emoji::👦::un niño cerca de una bandeja de empanadas, con líneas de "olorcito"
+   
+::emoji::👦::un niño cerca de una bandeja de empanadas, con líneas de "olorcito"
    saliendo de ellas::
+
    ¿Qué sentido está usando principalmente el niño?
    **Respuesta correcta:** El olfato.
    **Retroalimentación:** ¡Correcto! El olfato, ubicado en la nariz, nos permite
@@ -358,21 +382,27 @@ usan para hacer ciertos objetos y no otros.
 **Ejemplos resueltos**
 
 1. **Explorar una mochila escolar.**
-   ::emoji::🎒::una mochila con género, cierres de metal y una base de plástico::
+   
+::emoji::🎒::una mochila con género, cierres de metal y una base de plástico::
+
    La parte de tela (género) es suave y flexible. Los cierres son de metal, duros y
    resistentes. La base puede ser de plástico, que es impermeable y protege del
    agua.
 
 2. **Comparar una pelota de goma y una regla de madera.**
-   ::emoji::🧹::una pelota de goma y una regla de madera sobre una mesa::
+   
+::emoji::🧹::una pelota de goma y una regla de madera sobre una mesa::
+
    La pelota de goma es flexible: si la aprietas, vuelve a su forma. La regla de
    madera es dura y no cambia de forma al apretarla suavemente. Por eso la goma se
    usa para pelotas (que rebotan) y la madera para reglas (que necesitan ser
    rígidas).
 
 3. **Clasificar objetos del estuche.**
-   ::emoji::🎒::un estuche escolar con lápiz de madera, goma de borrar, regla de
+   
+::emoji::🎒::un estuche escolar con lápiz de madera, goma de borrar, regla de
    plástico y tijeras de metal::
+
    Lápiz → madera (dura). Goma de borrar → goma (flexible). Regla → plástico
    (liviano y duro). Tijeras → metal (duro, resistente, filoso).
 
@@ -419,7 +449,9 @@ usan para hacer ciertos objetos y no otros.
 
 6. *(Observación simple)* Mira estos tres objetos: una cuchara de metal, una
    cuchara de madera y una cuchara de plástico.
-   ::emoji::🥄::tres cucharas iguales en forma pero de distinto material::
+   
+::emoji::🥄::tres cucharas iguales en forma pero de distinto material::
+
    ¿Cuál de las tres se sentiría más fría al tocarla apenas sale del cajón?
    **Respuesta correcta:** La cuchara de metal.
    **Retroalimentación:** ¡Bien observado! El metal es un material que se siente
@@ -458,17 +490,23 @@ de cada material.
 **Ejemplos resueltos**
 
 1. **El hielo y el calor.**
-   ::emoji::☀️::un cubo de hielo derritiéndose al sol, convirtiéndose en agua::
+   
+::emoji::☀️::un cubo de hielo derritiéndose al sol, convirtiéndose en agua::
+
    Cuando el hielo (sólido) recibe calor del sol o de la mano, se derrite y se
    convierte en agua líquida. El calor cambió el estado del material.
 
 2. **El papel y el agua.**
-   ::emoji::🍃::una hoja de papel seca y otra mojada, arrugada::
+   
+::emoji::🍃::una hoja de papel seca y otra mojada, arrugada::
+
    Cuando mojamos un papel, este absorbe el agua, se ablanda y se puede romper con
    más facilidad que cuando está seco.
 
 3. **Un alambre y la fuerza.**
-   ::emoji::🧵::un alambre recto y el mismo alambre doblado en forma de círculo::
+   
+::emoji::🧵::un alambre recto y el mismo alambre doblado en forma de círculo::
+
    Si aplico fuerza sobre un alambre, doblándolo con las manos, cambia de forma y
    se queda doblado. En cambio, si aplico mucha fuerza sobre una galleta, esta se
    rompe en pedazos.
@@ -524,8 +562,10 @@ de cada material.
 
 7. *(Observación simple)* Mira esta imagen: dos galletas iguales, una seca y otra
    que estuvo un rato en un vaso de leche.
-   ::emoji::🍪::una galleta seca y entera, junto a otra galleta mojada y deshecha en
+   
+::emoji::::una galleta seca y entera, junto a otra galleta mojada y deshecha en
    un plato::
+
    ¿Qué material provocó el cambio en la segunda galleta?
    **Respuesta correcta:** El agua (de la leche).
    **Retroalimentación:** ¡Exacto! El líquido ablandó la galleta hasta hacer que se
@@ -575,7 +615,9 @@ animales, como el búho, están más activos de noche.
    estrellas, generalmente hace más frío, y las personas duermen.
 
 3. **Animales de día y de noche.**
-   ::emoji::🐦::un chincol buscando semillas de día, junto a un búho volando de noche::
+   
+::emoji::🐦::un chincol buscando semillas de día, junto a un búho volando de noche::
+
    El chincol, un pájaro común en Chile, busca su alimento durante el día. El
    búho, en cambio, es un animal que caza y está más activo durante la noche.
 
@@ -610,7 +652,9 @@ animales, como el búho, están más activos de noche.
    astros que se ven en cada momento.
 
 5. *(Observación simple)* Mira esta imagen del cielo.
-   ::emoji::🌙::un cielo oscuro con la Luna y varias estrellas::
+   
+::emoji::🌙::un cielo oscuro con la Luna y varias estrellas::
+
    ¿Este cielo corresponde al día o a la noche? ¿Por qué?
    **Respuesta correcta:** A la noche, porque se ve la Luna y las estrellas, y el
    cielo está oscuro (no se ve el Sol).
