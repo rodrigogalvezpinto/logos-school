@@ -73,10 +73,10 @@ CURSOS = [
     "06-basico",
     "07-basico",
     "08-basico",
-    "1-medio",
-    "2-medio",
-    "3-medio",
-    "4-medio",
+    "01-medio",
+    "02-medio",
+    "03-medio",
+    "04-medio",
 ]
 
 print("\n" + "=" * 60)
