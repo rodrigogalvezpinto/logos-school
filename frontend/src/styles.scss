@@ -12,9 +12,24 @@
   --color-secundario-texto: #ae3818;
   --color-exito: #22c55e;
   --color-exito-suave: #e7f9ee;
+  /* Variante oscurecida para texto sobre fondos claros/blancos — el verde de marca
+     (#22c55e) da 2.27:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo
+     problema que ya documentó --color-secundario-texto). */
+  --color-exito-texto: #166534;
   --color-alerta: #f59e0b;
   --color-alerta-suave: #fef3e0;
+  /* Variante oscurecida para texto sobre --color-alerta-suave — el ámbar de marca
+     (#f59e0b) da 1.95:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo problema
+     que ya documentó --color-secundario-texto/--color-exito-texto, encontrado acá con
+     axe-core sobre el chip "Pendiente" de Plan de Estudio). */
+  --color-alerta-texto: #976106;
   --color-error: #ef4444;
+  --color-error-suave: #fde8e8;
+  /* Variante oscurecida para texto sobre fondos claros/blancos — el rojo de marca (#ef4444)
+     da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo problema que
+     --color-secundario-texto/--color-exito-texto/--color-alerta-texto). Todos los usos de
+     `color: var(--color-error)` como texto en el proyecto se migraron a esta variante. */
+  --color-error-texto: #d73d3d;
 
   --fondo: #fafafa;
   --fondo-tarjeta: #ffffff;

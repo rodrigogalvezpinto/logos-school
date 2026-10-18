@@ -1,3 +1,4 @@
+from app.core.config import settings
 from app.infrastructure.persistence.orm_models import CuentaAdmin
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 
@@ -88,3 +89,28 @@ def test_token_admin_no_sirve_en_endpoints_de_profesor(client, session):
     token_admin = _token_admin(client, session)
     r = client.get("/profesor/auth/yo", headers={"Authorization": f"Bearer {token_admin}"})
     assert r.status_code == 401
+
+
+def test_registro_profesor_da_429_al_pasar_el_limite_configurado(client):
+    """Auditoría de seguridad (2026-08-17): el auto-registro de Profesor no tenía ninguna
+    protección contra creación masiva de cuentas, igual que /auth/registro antes de
+    corregirlo (ver test_auth.py)."""
+    limite = settings.limite_registro_profesor_por_minuto
+    for i in range(limite):
+        r = client.post("/profesor/auth/registro", json={"email": f"rate.profesor.{i}@test.cl", "password": "ClaveProfe123", "nombre": "Profe"})
+        assert r.status_code == 201
+
+    r = client.post("/profesor/auth/registro", json={"email": "rate.profesor.exceso@test.cl", "password": "ClaveProfe123", "nombre": "Profe"})
+    assert r.status_code == 429
+
+
+def test_login_profesor_da_429_al_pasar_el_limite_configurado(client):
+    client.post("/profesor/auth/registro", json={"email": "rate.login.profesor@test.cl", "password": "ClaveProfe123", "nombre": "Profe"})
+
+    limite = settings.limite_login_profesor_por_minuto
+    for _ in range(limite):
+        r = client.post("/profesor/auth/login", json={"email": "rate.login.profesor@test.cl", "password": "clave-mala"})
+        assert r.status_code == 401
+
+    r = client.post("/profesor/auth/login", json={"email": "rate.login.profesor@test.cl", "password": "clave-mala"})
+    assert r.status_code == 429

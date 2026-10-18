@@ -66,6 +66,14 @@ else
   falla "Frontend: Playwright E2E — revisa el detalle arriba o 'npx playwright show-report'"
 fi
 
+# --- 4. Control de calidad de contenido (Fase 1, ítem 2.5.1) ---
+paso "Contenido: control de calidad estructural (rango/dificultad/asignatura)"
+if (cd backend && uv run python scripts/validar_calidad_contenido.py); then
+  ok "Contenido: control de calidad"
+else
+  falla "Contenido: control de calidad — hallazgos reales en el banco de preguntas, no bloquean el resto del QA (ver planificacion/27-plan-incorporacion-hallazgos-brincus.md, ítem 2.5.1)"
+fi
+
 # --- Resumen ---
 echo ""
 echo "═══════════════════════════════════════════"

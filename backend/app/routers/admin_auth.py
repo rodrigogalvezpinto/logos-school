@@ -2,11 +2,13 @@
 endpoint de auto-registro (planificacion/18-panel-administrador.md: "solo para el usuario
 dueño del proyecto y quien él autorice"). Las cuentas se crean con scripts/crear_admin.py."""
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from pydantic import BaseModel, EmailStr
 
 from app.application.admin.casos_de_uso import IniciarSesionAdmin
+from app.core.config import settings
 from app.core.deps import get_cuenta_admin_actual, get_iniciar_sesion_admin_uc
+from app.core.limiter import limiter
 from app.domain.admin.entities import CuentaAdmin
 from app.domain.admin.exceptions import CredencialesAdminInvalidas
 
@@ -30,7 +32,8 @@ class CuentaAdminRespuesta(BaseModel):
 
 
 @router.post("/login", response_model=TokenAdminRespuesta)
-def login(datos: LoginAdmin, uc: IniciarSesionAdmin = Depends(get_iniciar_sesion_admin_uc)):
+@limiter.limit(f"{settings.limite_admin_login_por_minuto}/minute")
+def login(request: Request, datos: LoginAdmin, uc: IniciarSesionAdmin = Depends(get_iniciar_sesion_admin_uc)):
     try:
         token = uc.ejecutar(datos.email, datos.password)
     except CredencialesAdminInvalidas:

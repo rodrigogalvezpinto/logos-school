@@ -45,8 +45,21 @@ class RepositorioConjuntosSQLModel:
         self._session.refresh(fila)
         return self._a_lectura(fila)
 
+    def programar_fecha(self, conjunto_id: int, fecha_programada) -> ConjuntoLectura:
+        fila = self._session.get(ConjuntoORM, conjunto_id)
+        fila.fecha_programada = fecha_programada
+        self._session.add(fila)
+        self._session.commit()
+        self._session.refresh(fila)
+        return self._a_lectura(fila)
+
     @staticmethod
     def _a_lectura(fila: ConjuntoORM) -> ConjuntoLectura:
+        fecha_programada = fila.fecha_programada
+        if fecha_programada is not None and fecha_programada.tzinfo is None:
+            from datetime import timezone
+
+            fecha_programada = fecha_programada.replace(tzinfo=timezone.utc)
         return ConjuntoLectura(
             id=fila.id,
             tipo=fila.tipo,
@@ -56,4 +69,5 @@ class RepositorioConjuntosSQLModel:
             pregunta_ids=list(fila.pregunta_ids),
             asignatura_id=fila.asignatura_id,
             nivel_id=fila.nivel_id,
+            fecha_programada=fecha_programada,
         )

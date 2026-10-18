@@ -29,9 +29,11 @@ const NIVELES = [
 
       <main>
       <section class="landing__hero">
+        <div class="landing__hero-blob landing__hero-blob--uno"></div>
+        <div class="landing__hero-blob landing__hero-blob--dos"></div>
         <div class="landing__hero-texto">
-          <span class="landing__pill">Preparación para Exámenes Libres · Mineduc</span>
-          <h1>Prepárate para tu Examen Libre, con la materia completa y a tu ritmo.</h1>
+          <span class="landing__pill">✨ Preparación para Exámenes Libres · Mineduc</span>
+          <h1>Prepárate para tu <span class="landing__resaltado">Examen Libre</span>, con la materia completa y a tu ritmo.</h1>
           <p>
             Guías, práctica, pruebas cortas y un examen de ensayo idéntico al real —
             cubriendo exactamente el temario oficial de tu curso, de 1° básico a 4° medio.
@@ -40,8 +42,14 @@ const NIVELES = [
             <a routerLink="/registro" class="btn btn--primario btn--grande">Crear cuenta gratis</a>
             <a routerLink="/login" class="btn btn--secundario btn--grande">Ya tengo cuenta</a>
           </div>
+          <div class="landing__hero-confianza">
+            <span>🎓 408 Objetivos de Aprendizaje</span>
+            <span>📚 12 niveles completos</span>
+            <span>🔒 Sin publicidad a menores</span>
+          </div>
         </div>
         <div class="landing__hero-ilustracion">
+          <div class="landing__hero-ilustracion-glow"></div>
           <svg viewBox="0 0 320 260" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect x="20" y="40" width="280" height="180" rx="18" fill="#EEECFD" />
             <rect x="50" y="70" width="120" height="14" rx="7" fill="#5B4FE9" />
@@ -58,14 +66,36 @@ const NIVELES = [
             <rect x="50" y="150" width="150" height="10" rx="5" fill="#C9C4F7" />
             <rect x="50" y="170" width="110" height="10" rx="5" fill="#C9C4F7" />
           </svg>
+          <span class="landing__hero-chip landing__hero-chip--nota">Nota 6.8 🎉</span>
+          <span class="landing__hero-chip landing__hero-chip--racha">🔥 12 días seguidos</span>
+        </div>
+      </section>
+
+      <section class="landing__stats">
+        <div class="stat">
+          <span class="stat__numero">2.917</span>
+          <span class="stat__etiqueta">preguntas de práctica</span>
+        </div>
+        <div class="stat">
+          <span class="stat__numero">408</span>
+          <span class="stat__etiqueta">Objetivos de Aprendizaje</span>
+        </div>
+        <div class="stat">
+          <span class="stat__numero">156</span>
+          <span class="stat__etiqueta">pruebas de unidad</span>
+        </div>
+        <div class="stat">
+          <span class="stat__numero">12</span>
+          <span class="stat__etiqueta">niveles, 1° básico a 4° medio</span>
         </div>
       </section>
 
       <section class="landing__diferenciadores">
+        <span class="landing__eyebrow">Por qué Logos School</span>
         <h2>Qué mirar al elegir cómo preparar tu examen libre</h2>
         <div class="landing__diferenciadores-grid">
           <div class="diferenciador">
-            <span class="diferenciador__icono">📘</span>
+            <span class="diferenciador__icono diferenciador__icono--indigo">📘</span>
             <h3>100% alineado al temario oficial</h3>
             <p>
               Cada guía y cada pregunta viene de los 12 temarios UCE/Mineduc reales — no material
@@ -73,7 +103,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono">💸</span>
+            <span class="diferenciador__icono diferenciador__icono--coral">💸</span>
             <h3>Gratis o de muy bajo costo</h3>
             <p>
               El contenido de estudio (guías, práctica, pruebas y exámenes de ensayo) es y
@@ -81,7 +111,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono">🗓️</span>
+            <span class="diferenciador__icono diferenciador__icono--verde">🗓️</span>
             <h3>A tu ritmo, con horario si lo necesitas</h3>
             <p>
               Estudia libremente o arma un plan de estudio con la frecuencia que elijas —
@@ -89,7 +119,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono">📊</span>
+            <span class="diferenciador__icono diferenciador__icono--amarillo">📊</span>
             <h3>Sabes si estás realmente preparado</h3>
             <p>
               Notas por asignatura, historial completo y un examen de práctica idéntico al real
@@ -100,6 +130,7 @@ const NIVELES = [
       </section>
 
       <section class="landing__como">
+        <span class="landing__eyebrow">El camino</span>
         <h2>Cómo funciona</h2>
         <div class="landing__pasos">
           <div class="paso">
@@ -121,6 +152,7 @@ const NIVELES = [
       </section>
 
       <section class="landing__niveles">
+        <span class="landing__eyebrow">Cobertura completa</span>
         <h2>Cubrimos los 12 niveles, de 1° básico a 4° medio</h2>
         <p class="landing__niveles-sub">
           408 Objetivos de Aprendizaje oficiales, con guía, banco de preguntas, pruebas de
@@ -134,9 +166,11 @@ const NIVELES = [
       </section>
 
       <section class="landing__modos">
+        <span class="landing__eyebrow">Flexible</span>
         <h2>Dos formas de estudiar en Logos</h2>
         <div class="landing__modos-grid">
           <div class="modo-card">
+            <span class="modo-card__icono">🧑‍🎓</span>
             <h3>Autoestudio</h3>
             <p>
               Tú eliges tu curso, estudias cuando quieras y avanzas a tu ritmo. Es la forma más
@@ -144,6 +178,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="modo-card">
+            <span class="modo-card__icono">🧑‍🏫</span>
             <h3>Con un profesor</h3>
             <p>
               Si tu profesor te agrega a un Curso/Sección, además ves su progreso agregado y
@@ -155,9 +190,10 @@ const NIVELES = [
       </section>
 
       <section class="landing__planes">
+        <span class="landing__eyebrow">Precio</span>
         <h2>Planes simples, sin letra chica</h2>
         <p class="landing__planes-sub">
-          Prueba <strong>7 días completamente gratis</strong> en cualquier plan — sin tarjeta de crédito.
+          Prueba <strong>5 días completamente gratis</strong> en cualquier plan — sin tarjeta de crédito.
         </p>
         <div class="landing__planes-grid">
           <div class="plan-card">
@@ -166,7 +202,7 @@ const NIVELES = [
             <p>Acceso completo a todas las asignaturas de tu curso.</p>
           </div>
           <div class="plan-card plan-card--destacado">
-            <span class="plan-card__badge">Recomendado</span>
+            <span class="plan-card__badge">⭐ Recomendado</span>
             <h3>Por periodo de examinación</h3>
             <p class="plan-card__precio">$89.900<span>pago único</span></p>
             <p>Cubre un periodo completo de examinación Mineduc (~5 meses).</p>
@@ -176,6 +212,14 @@ const NIVELES = [
             <p class="plan-card__precio">$159.900<span>pago único</span></p>
             <p>El de mejor precio por mes si ya sabes que vas a estar todo el año.</p>
           </div>
+        </div>
+      </section>
+
+      <section class="landing__cta-final">
+        <div class="landing__cta-final-contenido">
+          <h2>¿Listo para empezar a prepararte?</h2>
+          <p>Crea tu cuenta gratis hoy — sin tarjeta de crédito, sin compromiso.</p>
+          <a routerLink="/registro" class="btn btn--blanco btn--grande">Crear cuenta gratis →</a>
         </div>
       </section>
       </main>

@@ -93,6 +93,13 @@ const DIAS: { valor: string; etiqueta: string }[] = [
 
         .campo {
           flex: 1;
+          min-width: 0;
+        }
+      }
+      @media (max-width: 480px) {
+        .campo-fila {
+          flex-direction: column;
+          gap: 0;
         }
       }
       .dias {
@@ -116,7 +123,7 @@ const DIAS: { valor: string; etiqueta: string }[] = [
         color: var(--color-primario);
       }
       .error {
-        color: var(--color-error);
+        color: var(--color-error-texto);
         font-size: 0.85rem;
         margin: -0.5rem 0 1rem;
       }

@@ -53,6 +53,7 @@ class RepositorioPlanEstudioSQLModel:
                 asignatura_id=sesion.asignatura_id,
                 oa_ids=sesion.oa_ids,
                 incluye_prueba_unidad=sesion.incluye_prueba_unidad,
+                es_repaso=sesion.es_repaso,
             )
             self._session.add(fila_sesion)
             filas_sesiones.append(fila_sesion)
@@ -62,13 +63,32 @@ class RepositorioPlanEstudioSQLModel:
 
         return self._a_dominio(fila_plan, filas_sesiones)
 
+    def agregar_sesion(self, plan_estudio_id: int, sesion: SesionDominio) -> SesionDominio:
+        fila_sesion = SesionORM(
+            plan_estudio_id=plan_estudio_id,
+            fecha_programada=sesion.fecha_programada,
+            asignatura_id=sesion.asignatura_id,
+            oa_ids=sesion.oa_ids,
+            incluye_prueba_unidad=sesion.incluye_prueba_unidad,
+            es_repaso=sesion.es_repaso,
+        )
+        self._session.add(fila_sesion)
+        self._session.commit()
+        self._session.refresh(fila_sesion)
+        return SesionDominio(
+            id=fila_sesion.id, plan_estudio_id=fila_sesion.plan_estudio_id,
+            fecha_programada=fila_sesion.fecha_programada, asignatura_id=fila_sesion.asignatura_id,
+            oa_ids=list(fila_sesion.oa_ids), incluye_prueba_unidad=fila_sesion.incluye_prueba_unidad,
+            es_repaso=fila_sesion.es_repaso,
+        )
+
     @staticmethod
     def _a_dominio(fila_plan: PlanORM, filas_sesiones: list[SesionORM]) -> PlanDominio:
         sesiones = [
             SesionDominio(
                 id=f.id, plan_estudio_id=f.plan_estudio_id, fecha_programada=f.fecha_programada,
                 asignatura_id=f.asignatura_id, oa_ids=list(f.oa_ids),
-                incluye_prueba_unidad=f.incluye_prueba_unidad,
+                incluye_prueba_unidad=f.incluye_prueba_unidad, es_repaso=f.es_repaso,
             )
             for f in filas_sesiones
         ]

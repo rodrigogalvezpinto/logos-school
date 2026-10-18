@@ -76,7 +76,7 @@ import { AdminProfesoresService, CuentaProfesor } from '../../core/admin-profeso
         color: var(--texto-secundario);
       }
       .error-carga {
-        color: var(--color-error);
+        color: var(--color-error-texto);
       }
     `,
   ],

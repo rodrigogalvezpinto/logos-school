@@ -11,7 +11,7 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
       <h1>{{ p.curso.nombre }}</h1>
 
       <h2>Alumnos y progreso</h2>
-      <div class="tarjeta tabla-envoltorio">
+      <div class="tarjeta tabla-envoltorio tabla-roster">
         <table>
           <thead>
             <tr><th>Alumno</th><th>Notas por asignatura</th><th></th></tr>
@@ -48,14 +48,14 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
 
       <h2>Agregar alumno</h2>
       <form class="tarjeta buscador" (submit)="$event.preventDefault(); buscar()">
-        <input [(ngModel)]="consulta" name="consulta" placeholder="Busca por nombre, apellido o RUT…" />
+        <input [(ngModel)]="consulta" name="consulta" placeholder="Busca por nombre, apellido o RUT…" aria-label="Buscar alumno por nombre, apellido o RUT" />
         <button type="submit" class="btn btn--primario">Buscar</button>
       </form>
       @if (errorAgregar()) {
         <p class="aviso-error">{{ errorAgregar() }}</p>
       }
       @if (resultados().length) {
-        <div class="tarjeta tabla-envoltorio">
+        <div class="tarjeta tabla-envoltorio tabla-resultados-busqueda">
           <table>
             <thead><tr><th>Alumno</th><th>RUT</th><th></th></tr></thead>
             <tbody>
@@ -74,12 +74,12 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
       <h2>Comunicados</h2>
       <form class="tarjeta form-comunicado" (submit)="$event.preventDefault(); publicar()">
         <div class="campo">
-          <label>Título</label>
-          <input [(ngModel)]="tituloComunicado" name="tituloComunicado" placeholder="Bienvenida al curso" />
+          <label for="tituloComunicado">Título</label>
+          <input id="tituloComunicado" [(ngModel)]="tituloComunicado" name="tituloComunicado" placeholder="Bienvenida al curso" />
         </div>
         <div class="campo">
-          <label>Mensaje</label>
-          <textarea [(ngModel)]="cuerpoComunicado" name="cuerpoComunicado" rows="3" placeholder="Escribe el comunicado…"></textarea>
+          <label for="cuerpoComunicado">Mensaje</label>
+          <textarea id="cuerpoComunicado" [(ngModel)]="cuerpoComunicado" name="cuerpoComunicado" rows="3" placeholder="Escribe el comunicado…"></textarea>
         </div>
         <button type="submit" class="btn btn--primario">Publicar comunicado</button>
       </form>

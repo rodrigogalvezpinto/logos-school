@@ -90,6 +90,20 @@ def test_cobertura_suficiente_genera_y_permite_rendir_ciclo_completo(client, ses
     assert r.json()["nota"] is not None
 
 
+def test_cobertura_justo_bajo_el_umbral_sigue_rechazando(client, session):
+    """P2 del plan de pruebas exhaustivo (planificacion/28-plan-de-pruebas-exhaustivo.md):
+    el umbral es `cobertura >= UMBRAL_SIMULACRO_PARCIAL` (0.5) — ya había un caso en exactamente
+    50% (`test_cobertura_suficiente_genera_y_permite_rendir_ciclo_completo`, 2/4), pero nunca
+    se había probado el borde justo por DEBAJO del umbral, donde un `>` en vez de `>=` (o un
+    error de redondeo) recién se notaría. Con 100 OA, 49/100 = 49% debe seguir rechazando."""
+    nivel, asignatura, oas = _preparar_contenido(session, num_oa=100)
+    headers, perfil_id = _crear_apoderado_con_alumno(client, nivel.id)
+    _marcar_revisadas(client, headers, perfil_id, oas[:49])  # 49% — justo bajo el 50%
+
+    r = client.post(f"/evaluaciones/simulacro-parcial/{asignatura.id}", json={"perfil_alumno_id": perfil_id}, headers=headers)
+    assert r.status_code == 400
+
+
 def test_simulacro_parcial_no_incluye_preguntas_de_oa_no_cubiertas(client, session):
     nivel, asignatura, oas = _preparar_contenido(session, num_oa=4)
     headers, perfil_id = _crear_apoderado_con_alumno(client, nivel.id)

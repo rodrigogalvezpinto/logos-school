@@ -81,7 +81,7 @@ justo por ese tramo:
 
 | Plan | Precio | Equivale a | Pensado para |
 |---|---|---|---|
-| **Prueba gratuita** ✅ implementada (2026-08-13) | $0, 7 días | — | Probar la plataforma completa antes de pagar, sin tarjeta de crédito de entrada (reduce fricción de conversión) |
+| **Prueba gratuita** ✅ implementada (2026-08-13, ajustada a 5 días el 2026-08-14) | $0, 5 días | — | Probar la plataforma completa antes de pagar, sin tarjeta de crédito de entrada (reduce fricción de conversión) |
 | **Mensual** | $19.990 CLP/mes | — | Familias que quieren empezar ya y decidir mes a mes |
 | **Por periodo de examinación** | $89.900 CLP (pago único, ~5 meses de cobertura) | ~$17.980/mes (10% descuento vs. mensual) | La opción recomendada: cubre un periodo de examinación completo (ej. de mayo a septiembre, para el Periodo 3 de octubre) |
 | **Anual** | $159.900 CLP (pago único) | ~$13.325/mes (33% descuento vs. mensual) | Familias que ya saben que su hijo rendirá en más de un periodo en el año, o quieren asegurar precio |
@@ -102,7 +102,7 @@ está diseñada de forma agnóstica al proveedor de pago).
 
 **Prueba gratuita — implementada (2026-08-13):** al elegir un plan en `/seleccion-plan`, se
 activa una `Suscripcion` real (`origen="prueba_gratis"`, `estado="activa"`,
-`fecha_termino` = ahora + 7 días) para el plan elegido, sin pedir tarjeta ni cobrar nada —
+`fecha_termino` = ahora + 5 días) para el plan elegido, sin pedir tarjeta ni cobrar nada —
 nuevo endpoint `POST /auth/alumnos/{id}/prueba-gratis`. **Todavía no bloquea el acceso al
 vencer** (no existe hoy ningún gate que revise `Suscripcion.estado`/`fecha_termino` antes de
 servir contenido — ver `22-analisis-de-brechas.md`); eso queda pendiente para cuando se

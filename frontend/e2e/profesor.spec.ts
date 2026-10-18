@@ -48,6 +48,12 @@ test.describe('Rol Profesor', () => {
     await expect(page.locator('.aviso-pendiente')).toHaveCount(0);
 
     await page.fill('input[name=nombreCurso]', nombreCurso);
+    // El <select> de nivel no tiene garantía de traer "4° básico" preseleccionado — el
+    // orden que devuelve el backend no sigue el orden curricular (mismo bug de fondo que
+    // Nivel.orden en Plan de Estudio). Se elige explícito para que coincida con el nivel
+    // real de Sofía (bug de test real encontrado: sin esto, "Agregar" fallaba con 400
+    // "nivel distinto" de forma intermitente según qué nivel quedara primero en la lista).
+    await page.selectOption('select[name=nivelId]', { label: '4° básico' });
     await page.click('button:has-text("Crear curso")');
     const tarjetaCurso = page.locator('.curso-card', { hasText: nombreCurso });
     await expect(tarjetaCurso).toBeVisible();
@@ -57,11 +63,16 @@ test.describe('Rol Profesor', () => {
     // 4. Busca y agrega a Sofía (cuenta de prueba) al curso.
     await page.fill('input[name=consulta]', 'Sofía');
     await page.click('button:has-text("Buscar")');
-    const filaResultado = page.locator('tr', { hasText: 'Sofía' }).first();
+    const filaResultado = page.locator('.tabla-resultados-busqueda tbody tr', { hasText: 'Sofía' }).first();
     await expect(filaResultado).toBeVisible();
     await filaResultado.getByRole('button', { name: 'Agregar' }).click();
 
-    const filaRoster = page.locator('tbody tr', { hasText: 'Sofía' }).first();
+    // Distinto de `filaResultado`: la tabla de resultados de búsqueda y la del roster
+    // coexisten en el DOM y ambas contienen "Sofía" — sin distinguirlas, esta
+    // aserción podía pasar en falso con la fila de resultados aunque el POST de
+    // agregar hubiese fallado (bug real de test encontrado al investigar un fallo
+    // intermitente de este spec).
+    const filaRoster = page.locator('.tabla-roster tbody tr', { hasText: 'Sofía' }).first();
     await expect(filaRoster).toBeVisible();
 
     // 5. Publica un comunicado.
@@ -85,7 +96,7 @@ test.describe('Rol Profesor', () => {
 
     // 7. Quitar al alumno del curso lo saca del roster.
     await filaRoster.getByRole('button', { name: 'Quitar' }).click();
-    await expect(page.locator('tbody tr', { hasText: 'Sofía' })).toHaveCount(0);
+    await expect(page.locator('.tabla-roster tbody tr', { hasText: 'Sofía' })).toHaveCount(0);
   });
 
   test('no se puede agregar a Sofía a un curso de un nivel distinto al suyo', async ({ page }) => {

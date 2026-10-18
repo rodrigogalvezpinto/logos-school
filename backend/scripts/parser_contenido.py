@@ -39,7 +39,26 @@ RE_RESPUESTA_MARCA = re.compile(
 ## Algunos archivos anteponen un emoji de viñeta ("💬 Retroalimentación:") en su propia
 # línea, justo después de la respuesta — sin el `[^\w\s]{0,2}\s*` inicial, ese emoji queda
 # pegado dentro de `respuesta_correcta` (ej. "Falso 💬") y ya no calza con ninguna opción.
-RE_RETRO_MARCA = re.compile(r"(?i)[^\w\s]{0,2}\s*Retroalimentaci[oó]n:?\s*")
+# El emoji y el "*" de negrita a veces van separados por un espacio ("💬 *Retroalimentación:*")
+# — con un solo grupo `[^\w\s]{0,2}` eso no calzaba (el espacio corta la racha de símbolos)
+# y el emoji quedaba pegado al final de `respuesta_correcta` (ej. "1-b, 2-c, 3-a 💬"). Se
+# repite el grupo símbolo+espacio hasta 2 veces para tolerar ambos símbolos por separado.
+RE_RETRO_MARCA = re.compile(r"(?i)(?:[^\w\s]\s*){0,2}Retroalimentaci[oó]n:?\s*")
+# Preguntas de "relacionar / emparejar" (unir concepto con definición): el autor escribe dos
+# listas en línea separadas por em-dash, ej. "a) Adaptación... — b) Establecerse... — c)
+# Cantidad...". RE_OPCION las confunde con alternativas reales (matchea el primer "a)" y se
+# traga el resto de la línea como una sola opción pegada) — sin este detector, el fallback de
+# abajo las reclasificaba como "alternativas" con una única opción ilegible y una respuesta
+# tipo "1-b, 2-c, 3-a" que nunca calza con ninguna opción clickeable (bug real: 153 preguntas
+# quedaban permanentemente sin poder responderse bien).
+RE_EMPAREJAR = re.compile(r"relacion|emparej|parea", re.IGNORECASE)
+# Algunos archivos de PRUEBAS (no de guías) escriben la misma pregunta de emparejamiento sin
+# ninguna etiqueta entre paréntesis (ej. "**4.** Une cada derecho..."), así que RE_EMPAREJAR
+# sobre la etiqueta no basta — se detecta también por la forma: una línea "a) ... — b) ..."
+# con un segundo marcador de letra pegado en la misma línea es, estructuralmente, siempre la
+# fusión de dos listas en línea, nunca una alternativa real (esas nunca traen "— b)" dentro
+# de la opción "a)").
+RE_OPCION_FUSIONADA = re.compile(r"^\s*a\)\s.*—\s*[b-d]\)\s", re.IGNORECASE)
 # Variante encontrada en preguntas de desarrollo sin "Respuesta correcta/esperada"
 # explícita — una única pauta combinada que sirve de respuesta y de retroalimentación.
 RE_PAUTA_MARCA = re.compile(r"(?i)[^\w\s]{0,2}\s*Pauta\s+de\s+retroalimentaci[oó]n:?\s*")
@@ -102,11 +121,17 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
         antes = cuerpo[: resp_m.start()] if resp_m else cuerpo
         despues = cuerpo[resp_m.end() :] if resp_m else ""
 
+        es_emparejamiento = bool(RE_EMPAREJAR.search(etiqueta)) or any(
+            RE_OPCION_FUSIONADA.match(linea) for linea in antes.splitlines()
+        )
+
         # enunciado + opciones (antes de la respuesta)
         opciones: list[str] = []
         enunciado_partes: list[str] = []
         for linea in antes.splitlines():
-            op = RE_OPCION.match(linea)
+            # En preguntas de relacionar/emparejar, las líneas "a) ... — b) ... — c) ..."
+            # no son alternativas clickeables — se dejan como parte del enunciado completo.
+            op = None if es_emparejamiento else RE_OPCION.match(linea)
             if op:
                 opciones.append(_limpiar(op.group(1)))
             elif linea.strip():

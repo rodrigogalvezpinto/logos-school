@@ -28,11 +28,25 @@ RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_PAUTA_HEADING = re.compile(r"^#{1,2}\s*.*pauta.*$", re.IGNORECASE)
 RE_PAUTA_ENTRADA = re.compile(r"(?m)^\s*\*{0,2}(\d+)\.\*{0,2}\s*")
 RE_TABLA_FILA = re.compile(r"^\|\s*(\d+)\s*\|(.*)\|\s*$")
-RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])[\.\)]")
+## Variante encontrada en 3°-4° medio: la pauta a veces escribe la letra seguida de un
+# em-dash y la explicación ("b — se identifican directamente dos términos...") en vez de
+# "b." o "b)" — sin tolerar el em-dash, la letra no se resolvía y el texto completo
+# (truncado a 60 caracteres) quedaba como respuesta_correcta, sin calzar nunca con
+# ninguna opción real.
+RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])(?:[\.\)]|\s*—)")
 # La pauta de Verdadero/Falso a veces trae la explicación pegada en la misma entrada
 # ("Verdadero. Es una consecuencia porque...") — sin esto, el texto completo (truncado a
 # 60 caracteres) quedaba como respuesta_correcta y nunca calzaba con la opción real.
 RE_VF_INICIAL = re.compile(r"(?i)^(verdadero|falso)\b")
+# Ver el mismo bug y comentario en parser_contenido.py: preguntas de "Relacionar / emparejar"
+# escriben sus dos listas en línea ("a) A — b) B — c) C"), RE_OPCION las confunde con
+# alternativas reales (una sola opción pegada e ilegible) y la pauta ("1-b, 2-c, 3-a") nunca
+# calza con ninguna opción — quedan permanentemente sin poder responderse bien.
+RE_EMPAREJAR = re.compile(r"relacion|emparej|parea", re.IGNORECASE)
+# Ver el mismo comentario en parser_contenido.py: algunas pruebas escriben la pregunta de
+# emparejamiento sin ninguna etiqueta entre paréntesis (ej. "**4.** Une cada derecho..."),
+# así que además de la etiqueta se detecta la fusión estructuralmente.
+RE_OPCION_FUSIONADA = re.compile(r"^\s*a\)\s.*—\s*[b-d]\)\s", re.IGNORECASE)
 
 
 def _resolver_respuesta_pauta(cuerpo: str) -> str:
@@ -73,12 +87,16 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
         inicio = m.end()
         fin = matches[idx + 1].start() if idx + 1 < len(matches) else len(texto_preguntas)
         numero = int(m.group(1))
+        etiqueta = m.group(2) or ""
         cuerpo = texto_preguntas[inicio:fin]
+        es_emparejamiento = bool(RE_EMPAREJAR.search(etiqueta)) or any(
+            RE_OPCION_FUSIONADA.match(linea) for linea in cuerpo.splitlines()
+        )
 
         opciones: list[str] = []
         enunciado_partes: list[str] = []
         for linea in cuerpo.splitlines():
-            op = RE_OPCION.match(linea)
+            op = None if es_emparejamiento else RE_OPCION.match(linea)
             if op:
                 opciones.append(_limpiar(op.group(1)))
             elif linea.strip():

@@ -203,7 +203,12 @@ def importar_curso(session: Session, curso: dict) -> None:
         print(f"  {nombre_nivel}: ya estaba importado, se omite.")
         return
 
-    nivel = Nivel(**curso["nivel"])
+    # `orden` es la posición curricular real (1=1° básico...12=4° medio) — NUNCA el `id`
+    # autoincremental, que depende del orden en que se haya importado cada curso, no del
+    # orden en que se cursan (bug real: en Desarrollo, 4° básico se importó primero como
+    # piloto y quedó con id=1). Ver Nivel.orden en orm_models.py.
+    orden = [c["nivel"]["nombre"] for c in CURSOS].index(nombre_nivel) + 1
+    nivel = Nivel(**curso["nivel"], orden=orden)
     session.add(nivel)
     session.commit()
     session.refresh(nivel)

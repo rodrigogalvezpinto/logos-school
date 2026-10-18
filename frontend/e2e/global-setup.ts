@@ -19,6 +19,19 @@ export default async function globalSetup(config: FullConfig) {
   await page.getByText('Sofía').click();
   await page.waitForURL('**/alumno/inicio');
 
+  // Check-in emocional diario (Fase 1, ítem 2.4): resuelve el modal "¿Cómo te sientes
+  // hoy?" acá, una sola vez, para que el resto del suite no lo vea bloqueando clics en
+  // el resto de la página (el mismo problema que resuelve loguearse una sola vez arriba).
+  // El modal tarda un instante en aparecer (espera la respuesta de /bienestar/.../hoy),
+  // así que se espera de verdad en vez de un chequeo instantáneo sin esperar.
+  const checkin = page.locator('.checkin__opcion', { hasText: 'Tranquilo' });
+  try {
+    await checkin.waitFor({ state: 'visible', timeout: 5000 });
+    await checkin.click();
+  } catch {
+    // Ya estaba registrado hoy (corridas repetidas el mismo día) — no hay nada que hacer.
+  }
+
   await page.context().storageState({ path: 'e2e/.storage-sofia.json' });
   await browser.close();
 }

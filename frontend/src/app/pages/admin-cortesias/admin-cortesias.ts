@@ -101,12 +101,12 @@ import { AlumnoEncontrado, ComercialService, Plan } from '../../core/comercial.s
       }
       .mensaje {
         margin-top: 1rem;
-        color: var(--color-exito);
+        color: var(--color-exito-texto);
         font-weight: 600;
       }
       .error-carga {
         margin-top: 1rem;
-        color: var(--color-error);
+        color: var(--color-error-texto);
       }
     `,
   ],

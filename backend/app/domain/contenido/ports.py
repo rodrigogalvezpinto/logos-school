@@ -12,12 +12,14 @@ class NivelLectura:
     regimen: str
     num_preguntas_examen: int
     duracion_examen_min: int
+    orden: int | None
 
 
 @dataclass(frozen=True)
 class AsignaturaLectura:
     id: int
     nombre: str
+    nivel_id: int
 
 
 @dataclass(frozen=True)
@@ -32,6 +34,7 @@ class ObjetivoLectura:
 
 class RepositorioContenido(Protocol):
     def existe_nivel(self, nivel_id: int) -> bool: ...
+    def obtener_nivel(self, nivel_id: int) -> NivelLectura | None: ...
     def listar_niveles(self) -> list[NivelLectura]: ...
     def listar_asignaturas(self, nivel_id: int) -> list[AsignaturaLectura]: ...
     def listar_objetivos(self, asignatura_id: int) -> list[ObjetivoLectura]: ...

@@ -1,7 +1,7 @@
 import { Component, Input, OnInit, signal, computed, inject } from '@angular/core';
 import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
-import { EvaluacionesService } from '../../core/evaluaciones.service';
+import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.service';
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
@@ -53,11 +53,12 @@ export interface PreguntaRunner {
             <span></span>
           }
           <div class="runner__progreso">Pregunta {{ indiceActual() + 1 }} de {{ preguntas.length }}</div>
-          @if (modo === 'examen') {
-            <div class="runner__cronometro">⏱ {{ tiempoRestanteTexto() }}</div>
-          } @else {
-            <span></span>
-          }
+          <div class="runner__acciones-barra">
+            @if (modo === 'examen') {
+              <span class="runner__cronometro">⏱ {{ tiempoRestanteTexto() }}</span>
+            }
+            <button class="runner__finalizar" (click)="intentarEnviar()">Finalizar intento</button>
+          </div>
         </div>
 
         <div class="runner__mapa">
@@ -131,6 +132,27 @@ export interface PreguntaRunner {
             <input type="checkbox" [checked]="marcadas().has(preguntaActual.id)" (change)="marcarRevisar(preguntaActual.id)" />
             Marcar para revisar después
           </label>
+
+          @if (mostrandoFormularioError() === preguntaActual.id) {
+            <div class="reportar-error__form">
+              <textarea
+                rows="2"
+                placeholder="¿Qué está mal en esta pregunta? (opcional)"
+                [value]="comentarioError()"
+                (input)="comentarioError.set($any($event.target).value)"
+              ></textarea>
+              <div class="reportar-error__acciones">
+                <button class="btn btn--secundario" (click)="cancelarReportarError()">Cancelar</button>
+                <button class="btn btn--primario" (click)="enviarReporteError(preguntaActual.id)">Enviar reporte</button>
+              </div>
+            </div>
+          } @else if (preguntasReportadas().has(preguntaActual.id)) {
+            <p class="reportar-error__confirmacion">✓ Gracias, revisaremos esta pregunta.</p>
+          } @else {
+            <button class="reportar-error__link" (click)="mostrandoFormularioError.set(preguntaActual.id)">
+              ⚠ Reportar error en esta pregunta
+            </button>
+          }
         </div>
 
         <div class="runner__nav">
@@ -172,10 +194,57 @@ export interface PreguntaRunner {
         <p>
           @if (modo === 'autoevaluacion') {
             Practica completada. Puedes repetirla cuando quieras.
+          } @else if (notaFinal() !== null && notaFinal()! < 4) {
+            Todavía no — revisa el detalle de abajo para ver justo qué te faltó, y vuelve a intentarlo cuando quieras.
           } @else {
             Tu nota se calculó según la escala chilena de exigencia 60%.
           }
         </p>
+
+        @if (detalle().length > 0) {
+          <table class="resultado__detalle">
+            <thead>
+              <tr>
+                <th>Pregunta</th>
+                <th>Resultado</th>
+                <th>Revisión</th>
+              </tr>
+            </thead>
+            <tbody>
+              @for (d of detalle(); track d.pregunta_id; let i = $index) {
+                <tr>
+                  <td>{{ i + 1 }}</td>
+                  <td>
+                    @if (d.es_correcta === true) {
+                      <span class="resultado__ok">✓ Correcta</span>
+                    } @else if (d.es_correcta === false) {
+                      <span class="resultado__mal">✗ Incorrecta</span>
+                    } @else {
+                      <span class="resultado__sin-corregir">— Sin corrección automática</span>
+                    }
+                  </td>
+                  <td>
+                    <button class="resultado__revisar" (click)="revisionAbierta.set(revisionAbierta() === d.pregunta_id ? null : d.pregunta_id)">
+                      {{ revisionAbierta() === d.pregunta_id ? 'Ocultar' : 'Revisar' }}
+                    </button>
+                  </td>
+                </tr>
+                @if (revisionAbierta() === d.pregunta_id) {
+                  <tr class="resultado__revision-detalle">
+                    <td colspan="3">
+                      <p class="resultado__enunciado">{{ d.enunciado }}</p>
+                      <p>Tu respuesta: <strong>{{ d.respuesta_alumno || '(en blanco)' }}</strong></p>
+                      @if (d.respuesta_correcta) {
+                        <p>Respuesta correcta: <strong>{{ d.respuesta_correcta }}</strong></p>
+                      }
+                    </td>
+                  </tr>
+                }
+              }
+            </tbody>
+          </table>
+        }
+
         <button class="btn btn--primario btn--grande" (click)="volver()">Volver</button>
       </div>
     }
@@ -189,9 +258,23 @@ export class EvaluacionRunner implements OnInit {
   @Input() preguntas: PreguntaRunner[] = [];
   @Input() intentoId: number | null = null;
   @Input() tiempoLimiteMin = 90;
+  /** Necesario para "Reportar error" (identifica quién reporta) — ver
+   * planificacion/27-plan-incorporacion-hallazgos-brincus.md, ítems 2.1/2.6. */
+  @Input() perfilAlumnoId: number | null = null;
   /** Si el intento ya fue entregado antes (reanudación de una prueba/examen ya
    * rendido), salta directo al resultado en vez de mostrar las preguntas de nuevo. */
   @Input() resultadoPrevio: { puntaje: number | null; nota: number | null } | null = null;
+  /** Si el alumno abandonó un intento a medio hacer y vuelve, el backend ya reanuda el
+   * mismo intento en vez de crear uno nuevo (ver IniciarIntento.ejecutar) y devuelve las
+   * respuestas ya guardadas — sin esto, el runner las descartaba y el alumno veía todas
+   * las preguntas como "sin responder" en el mapa aunque ya estuvieran guardadas (hallazgo
+   * real comparando con Brincus, que sí retoma el intento visualmente donde quedó). */
+  @Input() respuestasIniciales: Record<number, string> = {};
+  /** Fecha real de inicio del intento (ISO), del backend — si el alumno recarga la
+   * página a mitad de un examen y `empezar()` se llama de nuevo, el cronómetro debe
+   * seguir contando desde el inicio real, no reiniciarse al tiempo completo (bug real:
+   * recargar la página "regalaba" tiempo extra, contradiciendo el aviso "Sin pausas"). */
+  @Input() fechaInicioIntento: string | null = null;
 
   private router = inject(Router);
   private evaluacionesService = inject(EvaluacionesService);
@@ -206,6 +289,11 @@ export class EvaluacionRunner implements OnInit {
   tiempoRestanteSeg = signal(0);
   puntajeFinal = signal<number | null>(null);
   notaFinal = signal<number | null>(null);
+  detalle = signal<DetallePregunta[]>([]);
+  revisionAbierta = signal<number | null>(null);
+  mostrandoFormularioError = signal<number | null>(null);
+  comentarioError = signal('');
+  preguntasReportadas = signal<Set<number>>(new Set());
   private cronometroId?: ReturnType<typeof setInterval>;
 
   ngOnInit() {
@@ -214,11 +302,40 @@ export class EvaluacionRunner implements OnInit {
       this.enviada.set(true);
       this.puntajeFinal.set(this.resultadoPrevio.puntaje);
       this.notaFinal.set(this.resultadoPrevio.nota);
+      this.cargarDetalle();
       return;
     }
-    if (this.modo === 'examen') {
-      this.tiempoRestanteSeg.set(this.tiempoLimiteMin * 60);
+    if (Object.keys(this.respuestasIniciales).length > 0) {
+      this.respuestas.set({ ...this.respuestasIniciales });
     }
+    if (this.modo === 'examen') {
+      if (this.fechaInicioIntento) {
+        const transcurridoSeg = Math.floor((Date.now() - new Date(this.fechaInicioIntento).getTime()) / 1000);
+        this.tiempoRestanteSeg.set(Math.max(0, this.tiempoLimiteMin * 60 - transcurridoSeg));
+      } else {
+        this.tiempoRestanteSeg.set(this.tiempoLimiteMin * 60);
+      }
+    }
+  }
+
+  private cargarDetalle() {
+    if (this.intentoId && this.modo !== 'autoevaluacion') {
+      this.evaluacionesService.obtenerDetalle(this.intentoId).subscribe((d) => this.detalle.set(d));
+    }
+  }
+
+  cancelarReportarError() {
+    this.mostrandoFormularioError.set(null);
+    this.comentarioError.set('');
+  }
+
+  enviarReporteError(preguntaId: number) {
+    if (!this.perfilAlumnoId) return;
+    this.evaluacionesService.reportarErrorPregunta(preguntaId, this.perfilAlumnoId, this.comentarioError()).subscribe(() => {
+      this.preguntasReportadas.update((set) => new Set(set).add(preguntaId));
+      this.mostrandoFormularioError.set(null);
+      this.comentarioError.set('');
+    });
   }
 
   get preguntaActual(): PreguntaRunner {
@@ -318,6 +435,7 @@ export class EvaluacionRunner implements OnInit {
         this.notaFinal.set(intento.nota);
         this.cargando.set(false);
         this.enviada.set(true);
+        this.cargarDetalle();
       });
     } else {
       this.enviada.set(true);

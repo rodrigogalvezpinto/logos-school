@@ -1,0 +1,18 @@
+# Encabezados de seguridad para Cloudflare Pages (auditoría de seguridad, 2026-08-17) —
+# convención de archivo que Cloudflare Pages lee automáticamente desde la raíz del build
+# (ver planificacion/17-infraestructura-y-entornos.md, frontend en Cloudflare Pages).
+#
+# El backend (FastAPI) ya envía X-Frame-Options/X-Content-Type-Options/Referrer-Policy/
+# Permissions-Policy en cada respuesta (ver app/core/security_headers.py) — esto es lo
+# mismo, pero para el frontend Angular, que es quien sirve HTML/JS al navegador.
+#
+# IMPORTANTE al desplegar: verificar el Content-Security-Policy contra el build real de
+# producción antes de confirmar que todo sigue funcionando — un CSP mal calibrado puede
+# romper la app en silencio (un script bloqueado no siempre es obvio en pantalla). No se
+# pudo verificar acá porque el proyecto todavía no está desplegado.
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=()
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self' https://api.logos.cl; frame-ancestors 'none'; base-uri 'self'; form-action 'self'

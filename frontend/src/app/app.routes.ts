@@ -94,6 +94,19 @@ export const routes: Routes = [
         loadComponent: () => import('./pages/plan-estudio/plan-estudio').then((m) => m.PlanEstudio),
       },
       {
+        path: 'logros',
+        loadComponent: () => import('./pages/logros/logros').then((m) => m.Logros),
+      },
+      {
+        path: 'plan-lector',
+        loadComponent: () => import('./pages/plan-lector/plan-lector').then((m) => m.PlanLector),
+      },
+      {
+        path: 'utiles-escolares',
+        loadComponent: () =>
+          import('./pages/utiles-escolares/utiles-escolares').then((m) => m.UtilesEscolares),
+      },
+      {
         path: 'configuracion',
         data: { contexto: 'alumno' },
         loadComponent: () => import('./pages/configuracion/configuracion').then((m) => m.Configuracion),
@@ -117,11 +130,15 @@ export const routes: Routes = [
       },
       {
         path: 'plan',
-        loadComponent: () => import('./pages/seleccion-plan/seleccion-plan').then((m) => m.SeleccionPlan),
+        loadComponent: () => import('./pages/historial-pagos/historial-pagos').then((m) => m.HistorialPagos),
       },
       {
         path: 'progreso',
         loadComponent: () => import('./pages/progreso-alumno/progreso-alumno').then((m) => m.ProgresoAlumno),
+      },
+      {
+        path: 'estadisticas',
+        loadComponent: () => import('./pages/estadisticas-familiares/estadisticas-familiares').then((m) => m.EstadisticasFamiliares),
       },
       {
         path: 'progreso/:perfilAlumnoId',

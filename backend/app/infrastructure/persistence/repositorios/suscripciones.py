@@ -1,8 +1,8 @@
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 from sqlmodel import Session, select
 
-from app.domain.comercial.ports import ActivasPorPlan
+from app.domain.comercial.ports import ActivasPorPlan, SuscripcionLectura
 from app.infrastructure.persistence.orm_models import Plan as PlanORM
 from app.infrastructure.persistence.orm_models import Suscripcion as SuscripcionORM
 
@@ -78,3 +78,26 @@ class RepositorioSuscripcionesSQLModel:
             if inicio_mes <= fecha < inicio_mes_siguiente:
                 total += plan.precio_clp
         return total
+
+    def buscar_por_perfil(self, perfil_alumno_id: int) -> SuscripcionLectura | None:
+        fila = self._session.exec(
+            select(SuscripcionORM, PlanORM)
+            .join(PlanORM, SuscripcionORM.plan_id == PlanORM.id)
+            .where(SuscripcionORM.perfil_alumno_id == perfil_alumno_id)
+            .order_by(SuscripcionORM.fecha_inicio.desc())
+        ).first()
+        if not fila:
+            return None
+        suscripcion, plan = fila
+        return SuscripcionLectura(
+            plan_id=plan.id,
+            plan_nombre=plan.nombre,
+            fecha_inicio=self._con_tz(suscripcion.fecha_inicio),
+            fecha_termino=self._con_tz(suscripcion.fecha_termino) if suscripcion.fecha_termino else None,
+            estado=suscripcion.estado,
+            origen=suscripcion.origen,
+        )
+
+    @staticmethod
+    def _con_tz(valor: datetime) -> datetime:
+        return valor if valor.tzinfo is not None else valor.replace(tzinfo=timezone.utc)

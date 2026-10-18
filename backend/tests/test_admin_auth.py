@@ -1,3 +1,4 @@
+from app.core.config import settings
 from app.infrastructure.persistence.orm_models import CuentaAdmin
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 
@@ -65,3 +66,19 @@ def test_token_admin_no_sirve_para_endpoints_de_apoderado(client, session):
 
     r = client.get("/auth/alumnos", headers={"Authorization": f"Bearer {token_admin}"})
     assert r.status_code == 401
+
+
+def test_login_admin_da_429_al_pasar_el_limite_configurado(client, session):
+    """Auditoría de seguridad (2026-08-17): el login de Admin —la cuenta de mayor
+    privilegio de todo el sistema— no tenía NINGUNA protección contra fuerza bruta antes de
+    esto. El límite se lee de `settings.limite_admin_login_por_minuto`, mismo criterio que
+    el resto de endpoints de auth (ver `test_auth.py`)."""
+    _crear_cuenta_admin(session)
+
+    limite = settings.limite_admin_login_por_minuto
+    for _ in range(limite):
+        r = client.post("/admin/auth/login", json={"email": "admin@logos.cl", "password": "clave-mala"})
+        assert r.status_code == 401
+
+    r = client.post("/admin/auth/login", json={"email": "admin@logos.cl", "password": "clave-mala"})
+    assert r.status_code == 429

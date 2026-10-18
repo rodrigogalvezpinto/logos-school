@@ -165,3 +165,18 @@ class ListarPerfilesAlumno:
 
     def ejecutar(self, cuenta_apoderado_id: int) -> list[PerfilAlumno]:
         return self._repositorio_perfiles.listar_por_cuenta(cuenta_apoderado_id)
+
+
+class EliminarAlumno:
+    """Auditoría de seguridad (2026-08-17): no existía forma de que un apoderado pidiera
+    borrar los datos de un hijo — brecha real de privacidad para una app que maneja datos
+    de menores (RUT, fecha de nacimiento, historial completo de evaluaciones). La
+    verificación de que el perfil pertenece a la cuenta que pide el borrado ya la hace
+    `verificar_perfil_propio` en el router, antes de llegar acá — este caso de uso solo
+    ejecuta el borrado en cascada."""
+
+    def __init__(self, repositorio_perfiles: RepositorioPerfilesAlumno):
+        self._repositorio_perfiles = repositorio_perfiles
+
+    def ejecutar(self, perfil_alumno_id: int) -> None:
+        self._repositorio_perfiles.eliminar_en_cascada(perfil_alumno_id)

@@ -5,6 +5,10 @@ const ICONOS: Record<string, string> = {
   regla: '📐',
   hoja: '🌱',
   mapa: '🗺️',
+  ingles: '🌐',
+  filosofia: '🧠',
+  balanza: '⚖️',
+  examen: '📋',
 };
 
 @Component({

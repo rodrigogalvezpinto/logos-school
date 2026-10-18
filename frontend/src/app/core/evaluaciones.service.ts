@@ -26,6 +26,8 @@ export interface ConjuntoResumen {
   forma: string | null;
   tiempo_sugerido_min: number | null;
   num_preguntas: number;
+  intentos_entregados: number;
+  ultima_nota: number | null;
 }
 
 export interface ConjuntoDetalle extends ConjuntoResumen {
@@ -42,6 +44,16 @@ export interface IntentoEvaluacion {
   nota: number | null;
 }
 
+export interface DetallePregunta {
+  pregunta_id: number;
+  enunciado: string;
+  tipo: string;
+  opciones: string[] | null;
+  respuesta_alumno: string | null;
+  respuesta_correcta: string | null;
+  es_correcta: boolean | null;
+}
+
 @Injectable({ providedIn: 'root' })
 export class EvaluacionesService {
   private http = inject(HttpClient);
@@ -51,12 +63,16 @@ export class EvaluacionesService {
     return this.http.get<PreguntaAutoevaluacion[]>(`${this.base}/evaluaciones/autoevaluacion/${oaId}`);
   }
 
-  listarConjuntosDeAsignatura(asignaturaId: number): Observable<ConjuntoResumen[]> {
-    return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/asignatura/${asignaturaId}`);
+  listarConjuntosDeAsignatura(asignaturaId: number, perfilAlumnoId?: number): Observable<ConjuntoResumen[]> {
+    return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/asignatura/${asignaturaId}`, {
+      params: perfilAlumnoId ? { perfil_alumno_id: perfilAlumnoId } : {},
+    });
   }
 
-  listarConjuntosDeNivel(nivelId: number): Observable<ConjuntoResumen[]> {
-    return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/nivel/${nivelId}`);
+  listarConjuntosDeNivel(nivelId: number, perfilAlumnoId?: number): Observable<ConjuntoResumen[]> {
+    return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/nivel/${nivelId}`, {
+      params: perfilAlumnoId ? { perfil_alumno_id: perfilAlumnoId } : {},
+    });
   }
 
   obtenerConjunto(conjuntoId: number, perfilAlumnoId?: number): Observable<ConjuntoDetalle> {
@@ -81,6 +97,17 @@ export class EvaluacionesService {
 
   entregar(intentoId: number): Observable<IntentoEvaluacion> {
     return this.http.post<IntentoEvaluacion>(`${this.base}/evaluaciones/intentos/${intentoId}/entregar`, {});
+  }
+
+  obtenerDetalle(intentoId: number): Observable<DetallePregunta[]> {
+    return this.http.get<DetallePregunta[]>(`${this.base}/evaluaciones/intentos/${intentoId}/detalle`);
+  }
+
+  reportarErrorPregunta(preguntaId: number, perfilAlumnoId: number, comentario: string): Observable<unknown> {
+    return this.http.post(`${this.base}/evaluaciones/preguntas/${preguntaId}/reportar-error`, {
+      perfil_alumno_id: perfilAlumnoId,
+      comentario,
+    });
   }
 
   generarSimulacroParcial(asignaturaId: number, perfilAlumnoId: number): Observable<IntentoEvaluacion> {
