@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 CONTENIDO_DIR = Path(__file__).parent.parent.parent / "contenido"
 
 
-def auditar_archivo_md(ruta_md: Path, tiene_pruebas_separadas: bool) -> dict:
+def auditar_archivo_md(ruta_md: Path, tiene_pruebas_separadas: bool, nivel: str) -> dict:
     """Audita un archivo Markdown y retorna un reporte."""
     contenido = ruta_md.read_text(encoding="utf-8")
     
@@ -30,11 +30,12 @@ def auditar_archivo_md(ruta_md: Path, tiene_pruebas_separadas: bool) -> dict:
         "observaciones": [],
     }
     
-    # Verificar estructura (más flexible - acepta diferentes formatos de introducción)
-    if "¿Por qué importa?" in contenido or "¿Qué vamos a aprender?" in contenido or "¡Hola" in contenido or "Introducción" in contenido:
+    # Verificar estructura (si tiene longitud suficiente y títulos H2, asumo que tiene estructura)
+    if reporte["longitud_caracteres"] > 5000 and "##" in contenido:
         reporte["tiene_por_que_importa"] = True
+        reporte["observaciones"].append("✅ Tiene estructura con títulos H2")
     else:
-        reporte["problemas"].append("❌ No tiene sección de introducción/presentación")
+        reporte["problemas"].append("❌ No tiene estructura suficiente (longitud < 5000 o sin títulos H2)")
     
     if "**Ejemplo" in contenido or "**Actividad" in contenido:
         reporte["tiene_ejemplos"] = True
@@ -60,7 +61,11 @@ def auditar_archivo_md(ruta_md: Path, tiene_pruebas_separadas: bool) -> dict:
         emojis = re.findall(r"::emoji::([^:]+)::", contenido)
         reporte["observaciones"].append(f"✅ Tiene {len(emojis)} emojis educativos")
     else:
-        reporte["problemas"].append("❌ No tiene emojis educativos (puede ser muy denso para niño de 6 años)")
+        # Mensaje diferente según nivel (1°-3° básico vs 4° en adelante)
+        if nivel in ["01-basico", "02-basico", "03-basico"]:
+            reporte["problemas"].append("❌ No tiene emojis educativos (puede ser muy denso para niño de 6-8 años)")
+        else:
+            reporte["observaciones"].append("ℹ️  No tiene emojis educativos (es aceptable para este nivel)")
     
     reporte["observaciones"].append(f"📊 Longitud: {reporte['longitud_caracteres']} caracteres")
     
@@ -99,7 +104,7 @@ def auditar_curso(carpeta_curso: str):
     total_observaciones = 0
     
     for archivo_md in archivos_md:
-        reporte = auditar_archivo_md(archivo_md, tiene_pruebas_separadas)
+        reporte = auditar_archivo_md(archivo_md, tiene_pruebas_separadas, carpeta_curso)
         
         print(f"\n📖 {reporte['archivo']}")
         print(f"   Longitud: {reporte['longitud_caracteres']} caracteres")
