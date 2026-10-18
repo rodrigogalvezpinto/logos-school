@@ -72,7 +72,7 @@ const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
         position: absolute;
         top: -2px;
         right: -2px;
-        background: var(--color-secundario);
+        background: var(--color-secundario-badge);
         color: white;
         font-size: 0.65rem;
         font-weight: 700;
@@ -83,6 +83,7 @@ const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
         align-items: center;
         justify-content: center;
         padding: 0 3px;
+        border: 2px solid white;
       }
       .campana__panel {
         position: absolute;

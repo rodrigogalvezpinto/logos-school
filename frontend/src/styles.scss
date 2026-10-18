@@ -10,6 +10,8 @@
   /* Variante oscurecida para texto sobre --color-secundario-suave — el coral de marca
      (#ff6b4a) da 2.38:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. */
   --color-secundario-texto: #ae3818;
+  /* Variante para badge de campana (necesita mejor contraste con blanco - WCAG AA 4.5:1) */
+  --color-secundario-badge: #d62674;
   --color-exito: #22c55e;
   --color-exito-suave: #e7f9ee;
   /* Variante oscurecida para texto sobre fondos claros/blancos — el verde de marca
@@ -29,7 +31,7 @@
      da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo problema que
      --color-secundario-texto/--color-exito-texto/--color-alerta-texto). Todos los usos de
      `color: var(--color-error)` como texto en el proyecto se migraron a esta variante. */
-  --color-error-texto: #d73d3d;
+  --color-error-texto: #b91c1c;
 
   --fondo: #fafafa;
   --fondo-tarjeta: #ffffff;
