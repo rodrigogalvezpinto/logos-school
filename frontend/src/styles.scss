@@ -305,3 +305,29 @@ button {
   height: 120px;
   margin: 0 auto;
 }
+
+/* Mensaje vacío para cuando no hay pruebas disponibles */
+.mensaje-vacio {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: var(--fondo-tarjeta);
+  border-radius: var(--radio-basica);
+  box-shadow: var(--sombra-tarjeta);
+  margin-top: 2rem;
+}
+
+.mensaje-vacio__icono {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.mensaje-vacio h3 {
+  margin: 0 0 0.5rem;
+  color: var(--texto-principal);
+}
+
+.mensaje-vacio p {
+  margin: 0;
+  color: var(--texto-secundario);
+}
