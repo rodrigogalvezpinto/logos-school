@@ -9,13 +9,12 @@ import { ProgresoService } from '../../core/progreso.service';
 import { SesionService } from '../../core/sesion.service';
 import { BotonEscuchar } from '../../shared/boton-escuchar/boton-escuchar';
 import { MarkdownPipe } from '../../shared/markdown.pipe';
-import { EmojiPipe } from '../../shared/emoji-pipe';
 import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendizaje';
 
 @Component({
   selector: 'app-estudiar-oa',
   standalone: true,
-  imports: [RouterLink, BotonEscuchar, MarkdownPipe, EmojiPipe, PasosAprendizaje],
+  imports: [RouterLink, BotonEscuchar, MarkdownPipe, PasosAprendizaje],
   template: `
     @if (objetivo(); as oa) {
       <a href="#" (click)="volver($event)" class="volver">← Volver</a>
@@ -27,7 +26,7 @@ import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendiza
         <app-boton-escuchar class="boton-guia" [texto]="oa.contenido_guia" />
         <a [href]="urlPdf(oa.id)" target="_blank" rel="noopener" class="descargar-pdf">⬇ Descargar guía en PDF</a>
       </div>
-      <div class="tarjeta bloque contenido-guia" [innerHTML]="oa.contenido_guia | emoji | markdown"></div>
+      <div class="tarjeta bloque contenido-guia" [innerHTML]="oa.contenido_guia | markdown"></div>
 
       <div class="tarjeta bloque calificar-guia">
         <p class="calificar-guia__pregunta">¿Qué te pareció esta guía?</p>

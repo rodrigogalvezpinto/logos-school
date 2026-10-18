@@ -22,6 +22,10 @@ const RE_EJEMPLO = /<p><strong>(?:Ejemplo|Actividad) (\d+)\s*—\s*([^<]*)<\/str
 const RE_IMAGEN = /\[Imagen:\s*([^\]]+)\]/g;
 // Nuevo: Convertir marcadores de emoji ::emoji::🦋::descripcion:: en HTML visual
 const RE_EMOJI = /::emoji::([^:]+)::([^:]+)::/g;
+// Componentes matemáticos: [recta: inicio-fin: valor] para recta numérica
+const RE_RECTA = /\[recta:\s*(\d+)-(\d+):\s*(\d+)\]/g;
+// Componentes matemáticos: [fraccion: numerador/denominador] para modelo de fracciones
+const RE_FRACCION = /\[fraccion:\s*(\d+)\/(\d+)\]/g;
 
 function realzarGuia(html: string): string {
   let resultado = html
@@ -39,6 +43,45 @@ function realzarGuia(html: string): string {
       <div class="emoji-educativo-inline">
         <span class="emoji-educativo-inline__icono">${emoji}</span>
         <span class="emoji-educativo-inline__descripcion">${descripcion}</span>
+      </div>
+    `;
+  });
+
+  // Procesar recta numérica: [recta: 0-100: 50] -> SVG visual
+  resultado = resultado.replace(RE_RECTA, (match, inicio, fin, valor) => {
+    const inicioNum = parseInt(inicio);
+    const finNum = parseInt(fin);
+    const valorNum = parseInt(valor);
+    const porcentaje = ((valorNum - inicioNum) / (finNum - inicioNum)) * 100;
+    return `
+      <div class="componente-matematico componente-recta">
+        <svg viewBox="0 0 300 60" class="recta-svg">
+          <line x1="20" y1="30" x2="280" y2="30" stroke="#5B4FE9" stroke-width="3" />
+          <circle cx="20" cy="30" r="5" fill="#5B4FE9" />
+          <circle cx="280" cy="30" r="5" fill="#5B4FE9" />
+          <circle cx="${20 + porcentaje * 2.6}" cy="30" r="8" fill="#FF6B4A" />
+          <text x="20" y="50" text-anchor="middle" font-size="12" fill="#6B7280">${inicio}</text>
+          <text x="280" y="50" text-anchor="middle" font-size="12" fill="#6B7280">${fin}</text>
+          <text x="${20 + porcentaje * 2.6}" y="15" text-anchor="middle" font-size="14" font-weight="bold" fill="#FF6B4A">${valor}</text>
+        </svg>
+      </div>
+    `;
+  });
+
+  // Procesar modelo de fracciones: [fraccion: 1/4] -> SVG visual
+  resultado = resultado.replace(RE_FRACCION, (match, numerador, denominador) => {
+    const num = parseInt(numerador);
+    const den = parseInt(denominador);
+    const angulo = (num / den) * 360;
+    return `
+      <div class="componente-matematico componente-fraccion">
+        <svg viewBox="0 0 100 100" class="fraccion-svg">
+          <circle cx="50" cy="50" r="45" fill="none" stroke="#E5E7EB" stroke-width="2" />
+          <circle cx="50" cy="50" r="45" fill="none" stroke="#5B4FE9" stroke-width="2"
+                  stroke-dasharray="${angulo * 0.785} 282.6"
+                  transform="rotate(-90 50 50)" />
+          <text x="50" y="55" text-anchor="middle" font-size="20" font-weight="bold" fill="#1F2937">${num}/${den}</text>
+        </svg>
       </div>
     `;
   });

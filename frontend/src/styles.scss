@@ -283,3 +283,25 @@ button {
     transform: translateY(-5px);
   }
 }
+
+/* Componentes matemáticos integrados en Markdown */
+.componente-matematico {
+  display: block;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--color-primario-suave);
+  border-radius: var(--radio-media);
+  text-align: center;
+}
+
+.componente-recta .recta-svg {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.componente-fraccion .fraccion-svg {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+}
