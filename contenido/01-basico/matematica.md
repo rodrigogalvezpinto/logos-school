@@ -49,7 +49,9 @@ Contamos uno por uno: 1, 2, 3, 4, 5, 6, 7, 8. Ese número se escribe **8** y se 
 
 **Ejemplo 2 — De lo pictórico a lo simbólico**
 
-::emoji::⚽::14 pelotas de fútbol dibujadas, agrupadas en una fila::
+
+![14 pelotas de fútbol dibujadas, agrupadas en una fila](/assets/imagenes/1-basico/002-14-pelotas-de-fútbol-dibujadas-agrupadas-en-una-fi.jpg)
+
 
 Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantidad se escribe **14** y se lee "catorce".
 
@@ -57,7 +59,9 @@ Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantid
 
 El número **19** se lee "diecinueve". Para representarlo con dibujos, podemos dibujar 19 estrellitas:
 
-::emoji::🎨::19 estrellitas dibujadas en fila, para representar el número 19::
+
+![19 estrellitas dibujadas en fila, para representar el número 19](/assets/imagenes/1-basico/003-19-estrellitas-dibujadas-en-fila-para-representar-.jpg)
+
 
 #### Preguntas de autoevaluación
 
@@ -503,7 +507,9 @@ El gato está **debajo** de la mesa, y el florero está **encima** (arriba) de l
 
 **Ejemplo 3 — Posición entre dos personas**
 
-::emoji::🎨::Camila está delante de Mateo, y Mateo está detrás de Camila, formando una fila::
+
+![Camila está delante de Mateo, y Mateo está detrás de Camila, formando una fila](/assets/imagenes/1-basico/026-camila-está-delante-de-mateo-y-mateo-está-detrás-d.jpg)
+
 
 Camila está **delante** de Mateo, y Mateo está **detrás** de Camila.
 
@@ -546,7 +552,9 @@ d) Dentro del árbol
 **Respuesta correcta: b) A la izquierda del árbol.**
 *Retroalimentación:* observando la imagen, la niña se encuentra ubicada en el lado izquierdo del árbol, por eso decimos que está "a la izquierda" de él.
 
-**Pregunta 6 (aplicación).** ::emoji::🎨::en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora:: ¿Quién está entre Antonia e Isidora?
+**Pregunta 6 (aplicación).** 
+![en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora](/assets/imagenes/1-basico/029-en-una-fila-antonia-está-delante-de-benjamín-y-ben.jpg)
+ ¿Quién está entre Antonia e Isidora?
 
 **Respuesta correcta: Benjamín.**
 *Retroalimentación:* si Antonia va primero, luego Benjamín, y luego Isidora, entonces Benjamín queda en el medio de los otros dos, es decir, entre Antonia e Isidora.
@@ -699,7 +707,9 @@ Perro: 🐶🐶🐶🐶🐶 (5)
 Gato: 🐱🐱🐱 (3)
 Pez: 🐟🐟 (2)
 
-::emoji::🐱::pictograma con filas de perros, gatos y peces representando la cantidad de niños que tiene cada mascota::
+
+![pictograma con filas de perros, gatos y peces representando la cantidad de niños que tiene cada mascota](/assets/imagenes/1-basico/033-pictograma-con-filas-de-perros-gatos-y-peces-repre.jpg)
+
 
 ¿Cuántos niños tienen gato? Contamos los dibujos de gato: **3 niños**.
 
@@ -716,7 +726,9 @@ En una sala hay 5 mochilas azules y 7 mochilas rojas. Construimos un pictograma 
 Mochila azul: 🎒🎒🎒🎒🎒 (5)
 Mochila roja: 🎒🎒🎒🎒🎒🎒🎒 (7)
 
-::emoji::🎒::pictograma con 5 mochilas dibujadas en la fila azul y 7 mochilas dibujadas en la fila roja::
+
+![pictograma con 5 mochilas dibujadas en la fila azul y 7 mochilas dibujadas en la fila roja](/assets/imagenes/1-basico/034-pictograma-con-5-mochilas-dibujadas-en-la-fila-azu.jpg)
+
 
 #### Preguntas de autoevaluación
 

@@ -20,7 +20,7 @@ from typing import Dict, List, Tuple
 import requests
 
 # Configuración
-UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY", "demo")  # Demo key para desarrollo
+UNSPLASH_ACCESS_KEY = os.getenv("UNSPLASH_ACCESS_KEY", "FaS9looUxptNJfjX-s0TDwZ6NUAM20qlg6PB0neWRME")
 UNSPLASH_API_URL = "https://api.unsplash.com/search/photos"
 FRONTEND_ASSETS_DIR = Path(__file__).parent.parent / "frontend" / "public" / "assets" / "imagenes"
 
