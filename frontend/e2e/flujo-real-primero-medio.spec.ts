@@ -188,13 +188,17 @@ test.describe.serial('Validación de flujo real: Apoderado y Alumno de 1° Medio
     await expect(page.locator('.pregunta__enunciado')).not.toBeEmpty();
     await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
 
-    // Responder una alternativa para validar feedback pedagógico inmediato
-    const primeraOpcion = page.locator('.opcion').first();
-    await expect(primeraOpcion).toBeVisible();
-    await primeraOpcion.click();
-
-    // Validar que se genera retroalimentación pedagógica instantánea
-    await expect(page.locator('.feedback')).toBeVisible();
+    // Responder la primera pregunta (en 1° medio puede ser de desarrollo o alternativas)
+    const textarea = page.locator('textarea.respuesta-abierta');
+    if (await textarea.isVisible()) {
+      await textarea.fill('El padre busca estabilidad económica mientras el abuelo apoya su vocación artística.');
+      await expect(textarea).toHaveValue(/estabilidad/);
+    } else {
+      const primeraOpcion = page.locator('.opcion').first();
+      await expect(primeraOpcion).toBeVisible();
+      await primeraOpcion.click();
+      await expect(page.locator('.feedback')).toBeVisible();
+    }
   });
 
   test('5. Plan de Estudio y Evaluaciones Oficiales de 1° Medio', async ({ page }) => {
