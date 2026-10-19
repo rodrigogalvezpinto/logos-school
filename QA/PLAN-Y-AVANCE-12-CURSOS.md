@@ -42,7 +42,7 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 
 ---
 
-## 📊 Matriz de Avance de los 12 Cursos
+## 📊 Matriz de Avance de los 12 Cursos (100% COMPLETADA)
 
 | # | Curso | Régimen | Decreto | Asignaturas | Formato Examen | Archivo de Prueba Playwright | Tests | Estado |
 |---|---|---|---|---|---|---|---|---|
@@ -55,29 +55,27 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 | 7 | **7° Básico** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-7-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
 | 8 | **8° Básico** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-8-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
 | 9 | **1° Medio** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-real-primero-medio.spec.ts` | 5/5 | ✅ **COMPLETO** |
-| 10 | **2° Medio** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-2-medio.spec.ts` | - | ⏳ **EN CURSO** |
-| 11 | **3° Medio** | C | 193/2019 | 6 (Ciencias Ciudad.) | Separado (25 preg.) | `e2e/flujo-completo-3-medio.spec.ts` | - | ⏳ PENDIENTE |
-| 12 | **4° Medio** | C | 193/2019 | 6 (Ciencias Ciudad.) | Separado (25 preg.) | `e2e/flujo-completo-4-medio.spec.ts` | - | ⏳ PENDIENTE |
+| 10 | **2° Medio** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-2-medio.spec.ts` | 7/7 | ✅ **COMPLETO** |
+| 11 | **3° Medio** | C | 193/2019 | 6 (Ciencias Ciudad.) | Separado (25 preg.) | `e2e/flujo-completo-3-medio.spec.ts` | 7/7 | ✅ **COMPLETO** |
+| 12 | **4° Medio** | C | 193/2019 | 6 (Ciencias Ciudad.) | Separado (25 preg.) | `e2e/flujo-completo-4-medio.spec.ts` | 7/7 | ✅ **COMPLETO** |
 
 ---
 
-## 📌 Progreso Global
-- **Toda la Enseñanza Básica (1° a 8° Básico):** 8 / 8 Cursos ✅ **100% COMPLETADO**
-- **Cursos Completados en Total:** 9 / 12 (1° a 8° Básico y 1° Medio)
-- **Tests Playwright Ejecutados y Pasados:** 61 / 61 tests (100% pasando)
-- **Tiempo de ejecución global acumulado:** ~1m 47s
-
----
-
-## 🔄 Instrucciones de Reanudación (Si se agota el contexto o tokens)
-
-1. Verificar el último commit en git: `git log -n 5 --oneline`.
-2. Consultar la tabla de arriba en este archivo (`QA/PLAN-Y-AVANCE-12-CURSOS.md`) para ver cuál es el curso que está marcado como **EN CURSO** o siguiente **PENDIENTE**.
-3. Tomar como plantilla `frontend/e2e/flujo-completo-1-basico.spec.ts` o `flujo-completo-2-basico.spec.ts` adaptando:
-   - Nombre de nivel en `select[name=nivelId]` (ej. `3° básico`, `4° básico`, etc.).
-   - Asignaturas oficiales según el Régimen (A: 4 asignaturas; B: 5 asignaturas; C: 6 asignaturas).
-   - Tipo de examen (Integrado 20 preguntas o Separado 25 preguntas).
-4. Ejecutar la prueba con:
-   `npx playwright test e2e/<nombre-del-archivo>.spec.ts --project=chromium`
-5. Actualizar la tabla en este archivo marcando el curso como ✅ **COMPLETO**.
-6. Hacer commit y push a GitHub.
+## 📌 Progreso Global Final
+- **Enseñanza Básica (1° a 8° Básico):** 8 / 8 Cursos (56/56 tests) ✅ **100% COMPLETADO**
+- **Enseñanza Media (1° a 4° Medio):** 4 / 4 Cursos (26/26 tests) ✅ **100% COMPLETADO**
+- **Total Cursos del Sistema Escolar Chileno:** 12 / 12 Cursos ✅ **100% COBERTURA TOTAL**
+- **Total de Tests Playwright Pasando:** 82 / 82 tests (100% éxito)
+- **Todas las Secciones Probadas:**
+  - Onboarding familiar y RUT chileno con Módulo 11
+  - Panel y supervisión de apoderados (métricas, plan, pagos)
+  - Dashboard del alumno con check-in socioemocional
+  - Catálogo de asignaturas oficiales por decreto ministerial (439/2012, 614/2013, 193/2019)
+  - Estudio pedagógico con síntesis curricular, lectura por voz sintetizada, descarga PDF y rating de comprensión
+  - Autoevaluaciones formativas con preguntas de selección múltiple y de desarrollo
+  - Pruebas de unidad evaluadas y calificadas en vivo por el backend en escala chilena 1.0 a 7.0
+  - Exámenes simulacros oficiales con cronómetro activo y formato de 20 o 25 preguntas según régimen
+  - Plan de estudio personalizado y horario semanal
+  - Proyección académica y registro histórico de notas
+  - Gamificación: acumulación de XP y personalización de avatar
+  - Plan lector y lista de útiles escolares
