@@ -16,7 +16,7 @@ test.describe('QA Crítico - Seguridad y Validaciones', () => {
     
     const btn = page.locator('button[type="submit"]');
     await btn.click();
-    await page.waitForTimeout(2000);
+    await page.waitForLoadState('networkidle');
     
     // Verificar que muestra error o que no se redirige
     const url = page.url();
@@ -50,7 +50,7 @@ test.describe('QA Crítico - Seguridad y Validaciones', () => {
     await page.fill('input[name="rut"]', '12.345.678-5');
     
     await page.click('button[type="submit"]');
-    await page.waitForTimeout(2000);
+    await page.waitForLoadState('networkidle');
     
     const url = page.url();
     if (url.includes('/registro') || url.includes('/error')) {
@@ -70,7 +70,7 @@ test.describe('QA Crítico - Seguridad y Validaciones', () => {
     await page.fill('input[name="rut"]', '12.345.678-5');
     
     await page.click('button[type="submit"]');
-    await page.waitForTimeout(2000);
+    await page.waitForLoadState('networkidle');
     
     const url = page.url();
     if (url.includes('/registro') || url.includes('/error')) {
@@ -90,7 +90,7 @@ test.describe('QA Crítico - Seguridad y Validaciones', () => {
     await page.fill('input[name="rut"]', '12.345.678-5');
     
     await page.click('button[type="submit"]');
-    await page.waitForTimeout(2000);
+    await page.waitForLoadState('networkidle');
     
     const url = page.url();
     if (url.includes('/registro') || url.includes('/error')) {
