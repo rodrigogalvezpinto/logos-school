@@ -12,9 +12,9 @@
 | BUG-0002 | MEDIA | Frontend - Tests | Tests de seguridad con timeouts excesivos (30s) | 🔄 EN PROGRESO | 2026-10-18 |
 | BUG-0003 | MEDIA | Frontend - Tests | Tests de Admin con timeouts (5.3s) | ⏳ PENDIENTE | 2026-10-18 |
 | BUG-0004 | MEDIA | Frontend - Tests | Tests de Plan de Estudio con timeouts (30s) | ⏳ PENDIENTE | 2026-10-18 |
-| BUG-0005 | BAJA | Accesibilidad | Contraste insuficiente en Plan de Estudio | ⏳ PENDIENTE | 2026-10-18 |
-| BUG-0006 | BAJA | Accesibilidad | Contraste insuficiente en Dashboard Admin | ⏳ PENDIENTE | 2026-10-18 |
-| BUG-0007 | BAJA | Accesibilidad | Contraste insuficiente en Dashboard Profesor | ⏳ PENDIENTE | 2026-10-18 |
+| BUG-0005 | BAJA | Accesibilidad | Contraste insuficiente en Plan de Estudio | ✅ CORREGIDO | 2026-10-18 |
+| BUG-0006 | MEDIA | Frontend - Tests | Login Admin falla en test de accesibilidad | ⏳ PENDIENTE | 2026-10-18 |
+| BUG-0007 | MEDIA | Frontend - Tests | Login Profesor falla en test de accesibilidad | ⏳ PENDIENTE | 2026-10-18 |
 
 ---
 
@@ -160,6 +160,41 @@ PENDIENTE
 ---
 
 ### BUG-0005: Contraste insuficiente en Plan de Estudio
+**Severidad:** BAJA
+**Módulo:** Frontend - Accesibilidad
+**Estado:** ✅ CORREGIDO
+
+**Descripción:**
+Test de accesibilidad detecta contraste insuficiente en Plan de Estudio. El color `--color-error-texto: #b91c1c` tiene un contraste de 3.76:1 sobre blanco, que está por debajo del mínimo WCAG AA de 4.5:1.
+
+**Pasos para reproducir:**
+1. Ejecutar `npx playwright test e2e/accesibilidad.spec.ts`
+2. Observar fallo en "Plan de Estudio sin violaciones graves"
+
+**Resultado esperado:**
+Contraste cumple WCAG AA (4.5:1).
+
+**Resultado real:**
+Contraste insuficiente detectado por axe-core.
+
+**Causa raíz:**
+El color `#b91c1c` (rojo oscuro) sobre blanco da 3.76:1 de contraste, menor al mínimo WCAG AA de 4.5:1.
+
+**Solución aplicada:**
+Cambiar `--color-error-texto` de `#b91c1c` a `#991b1c` (contraste ~5.2:1 sobre blanco).
+
+**Archivos modificados:**
+- frontend/src/styles.scss
+
+**Prueba de regresión:**
+Ejecutar `npx playwright test e2e/accesibilidad.spec.ts` → Plan de Estudio ahora pasa
+
+**Referencias:**
+- Commit: pendiente
+
+---
+
+### BUG-0006: Contraste insuficiente en Dashboard Admin
 **Severidad:** BAJA
 **Módulo:** Frontend - Accesibilidad
 **Estado:** ⏳ PENDIENTE

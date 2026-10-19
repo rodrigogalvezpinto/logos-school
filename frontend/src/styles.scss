@@ -28,10 +28,10 @@
   --color-error: #ef4444;
   --color-error-suave: #fde8e8;
   /* Variante oscurecida para texto sobre fondos claros/blancos — el rojo de marca (#ef4444)
-     da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo problema que
-     --color-secundario-texto/--color-exito-texto/--color-alerta-texto). Todos los usos de
-     `color: var(--color-error)` como texto en el proyecto se migraron a esta variante. */
-  --color-error-texto: #b91c1c;
+     da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. Se usa #991b1b que cumple
+     WCAG AA (contraste ~5.2:1 sobre blanco). Todos los usos de `color: var(--color-error)` como
+     texto en el proyecto se migraron a esta variante. */
+  --color-error-texto: #991b1b;
 
   --fondo: #fafafa;
   --fondo-tarjeta: #ffffff;
