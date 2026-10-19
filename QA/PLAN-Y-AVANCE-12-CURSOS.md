@@ -50,9 +50,9 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 | 2 | **2° Básico** | A | 439/2012 | 4 | Integrado (20 preg.) | `e2e/flujo-completo-2-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
 | 3 | **3° Básico** | A | 439/2012 | 4 | Integrado (20 preg.) | `e2e/flujo-completo-3-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
 | 4 | **4° Básico** | A | 439/2012 | 4 | Integrado (20 preg.) | `e2e/flujo-completo-4-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
-| 5 | **5° Básico** | B | 439/2012 | 5 (+Inglés) | Separado (25 preg.) | `e2e/flujo-completo-5-basico.spec.ts` | - | ⏳ **EN CURSO** |
-| 6 | **6° Básico** | B | 439/2012 | 5 (+Inglés) | Separado (25 preg.) | `e2e/flujo-completo-6-basico.spec.ts` | - | ⏳ PENDIENTE |
-| 7 | **7° Básico** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-7-basico.spec.ts` | - | ⏳ PENDIENTE |
+| 5 | **5° Básico** | B | 439/2012 | 5 (+Inglés) | Separado (25 preg.) | `e2e/flujo-completo-5-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
+| 6 | **6° Básico** | B | 439/2012 | 5 (+Inglés) | Separado (25 preg.) | `e2e/flujo-completo-6-basico.spec.ts` | 7/7 | ✅ **COMPLETO** |
+| 7 | **7° Básico** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-7-basico.spec.ts` | - | ⏳ **EN CURSO** |
 | 8 | **8° Básico** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-8-basico.spec.ts` | - | ⏳ PENDIENTE |
 | 9 | **1° Medio** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-real-primero-medio.spec.ts` | 5/5 | ✅ **COMPLETO** |
 | 10 | **2° Medio** | B | 614/2013 | 5 (Lengua y Lit.) | Separado (25 preg.) | `e2e/flujo-completo-2-medio.spec.ts` | - | ⏳ PENDIENTE |
@@ -63,9 +63,10 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 
 ## 📌 Progreso Global
 - **Régimen A (1° a 4° Básico):** 4 / 4 Cursos ✅ **100% COMPLETADO**
-- **Cursos Completados en Total:** 5 / 12 (1° Básico, 2° Básico, 3° Básico, 4° Básico, 1° Medio)
-- **Tests Playwright Ejecutados y Pasados:** 33 / 33 tests (100% pasando)
-- **Tiempo de ejecución global acumulado:** ~58 segundos
+- **Régimen B Básica (5° y 6° Básico):** 2 / 2 Cursos ✅ **100% COMPLETADO**
+- **Cursos Completados en Total:** 7 / 12 (1° Básico, 2° Básico, 3° Básico, 4° Básico, 5° Básico, 6° Básico, 1° Medio)
+- **Tests Playwright Ejecutados y Pasados:** 47 / 47 tests (100% pasando)
+- **Tiempo de ejecución global acumulado:** ~1m 23s
 
 ---
 
