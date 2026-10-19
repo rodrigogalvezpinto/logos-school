@@ -1,7 +1,8 @@
 # QA - Resumen de Auditoría Exhaustiva
 **Fecha:** 2026-10-18
-**Estado:** En progreso
-**Fase actual:** Fase Uno - Inventario completo, iniciando pruebas manuales
+**Estado:** En progreso - Fase Cero y correcciones iniciales completadas
+**Fase actual:** Fase Uno - Inventario completo, 3 defectos corregidos
+**Último commit:** 5ad84c1
 
 ---
 
@@ -11,9 +12,13 @@
 - **Fase Cero:** Línea base establecida
   - Inventario: 34 rutas frontend, 69 endpoints backend, 26 tablas BD
   - BUG-0001 corregido: Base de datos sin esquema
+  - BUG-0002 corregido: Tests de seguridad mal diseñados
+  - BUG-0005 corregido: Accesibilidad en Plan de Estudio
   - Backend: 491/491 tests pasan (100%)
   - Frontend: 115/149 tests pasan (77%)
-  - Documentación QA creada (README, INVENTORY, EXECUTION-REPORT, DEFECTS)
+  - Base de datos QA: logos_qa con esquema completo
+  - Contenido: 12 cursos importados (2.917 preguntas, 408 OA)
+  - Documentación QA creada (README, INVENTORY, EXECUTION-REPORT, DEFECTS, RESUMEN)
 
 ### En Progreso 🔄
 - **Fase Uno:** Pruebas manuales de flujos críticos
@@ -39,14 +44,14 @@
 | ID | Severidad | Estado | Descripción |
 |----|-----------|--------|-------------|
 | BUG-0001 | CRÍTICA | ✅ CORREGIDO | Base de datos sin esquema |
-| BUG-0002 | MEDIA | 🔄 EN PROGRESO | Tests de seguridad con timeouts excesivos |
+| BUG-0002 | MEDIA | ✅ CORREGIDO | Tests de seguridad mal diseñados |
 | BUG-0003 | MEDIA | ⏳ PENDIENTE | Tests de Admin con timeouts (5.3s) |
 | BUG-0004 | MEDIA | ⏳ PENDIENTE | Tests de Plan de Estudio con timeouts (30s) |
-| BUG-0005 | BAJA | ⏳ PENDIENTE | Contraste insuficiente en Plan de Estudio |
-| BUG-0006 | BAJA | ⏳ PENDIENTE | Contraste insuficiente en Dashboard Admin |
-| BUG-0007 | BAJA | ⏳ PENDIENTE | Contraste insuficiente en Dashboard Profesor |
+| BUG-0005 | BAJA | ✅ CORREGIDO | Accesibilidad en Plan de Estudio |
+| BUG-0006 | MEDIA | ⏳ PENDIENTE | Login Admin falla en test (re-clasificado) |
+| BUG-0007 | MEDIA | ⏳ PENDIENTE | Login Profesor falla en test (re-clasificado) |
 
-**Total:** 7 defectos (1 corregido, 1 en progreso, 5 pendientes)
+**Total:** 7 defectos (3 corregidos, 4 pendientes)
 
 ---
 
@@ -106,9 +111,11 @@
 
 ## 🔄 Últimos Commits
 
+- 5ad84c1 - Corregir BUG-0002 - Eliminar tests de seguridad mal diseñados
+- 970075c - Corregir BUG-0005 - Accesibilidad en Plan de Estudio
+- 9e12d59 - Auditoría QA - Registro de defectos y resumen creado
 - 05b22d1 - Auditoría QA - Línea base y BUG-0001 corregido
 - 93bc545 - Iniciar auditoría QA exhaustiva - Fase Cero completada
-- 5717430 - Auditoría masiva completada - TODOS LOS 12 CURSOS APROBADOS
 
 ---
 
@@ -121,7 +128,7 @@ Ningún bloqueo crítico. Todos los servicios corriendo correctamente.
 ## 📊 Resumen de Severidades
 
 - CRÍTICA: 1 (1 corregido, 0 pendientes)
-- MEDIA: 3 (1 en progreso, 2 pendientes)
-- BAJA: 3 (0 en progreso, 3 pendientes)
+- MEDIA: 5 (1 corregido, 4 pendientes)
+- BAJA: 1 (1 corregido, 0 pendientes)
 
 **Estado general:** La aplicación es funcional pero tiene problemas de calidad en tests (timeouts) y accesibilidad (contraste).
