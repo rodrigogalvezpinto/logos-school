@@ -16,18 +16,32 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from sqlmodel import Session, select
 
 from app.infrastructure.persistence.db import engine
-from app.infrastructure.persistence.orm_models import Cuenta, Nivel, PerfilAlumno, Plan, Suscripcion
+from app.infrastructure.persistence.orm_models import Cuenta, CuentaAdmin, Nivel, PerfilAlumno, Plan, Suscripcion
 from app.infrastructure.seguridad.bcrypt_hasheador import HasheadorPasswordBcrypt
 
 EMAIL_PRUEBA = "apoderado.prueba@logos.cl"
 PASSWORD_PRUEBA = "Logos2026!"
+ADMIN_EMAIL_PRUEBA = "admin.prueba@logos.cl"
+ADMIN_PASSWORD_PRUEBA = "AdminLogos2026!"
 
 
 def main() -> None:
     with Session(engine) as session:
+        # Cuenta Admin de prueba (usada por suite E2E e2e/admin.spec.ts y accesibilidad)
+        admin_existente = session.exec(select(CuentaAdmin).where(CuentaAdmin.email == ADMIN_EMAIL_PRUEBA)).first()
+        if not admin_existente:
+            admin = CuentaAdmin(
+                email=ADMIN_EMAIL_PRUEBA,
+                nombre="Administrador de Prueba",
+                password_hash=HasheadorPasswordBcrypt().hashear(ADMIN_PASSWORD_PRUEBA),
+            )
+            session.add(admin)
+            session.commit()
+            print(f"Cuenta admin de prueba creada: {ADMIN_EMAIL_PRUEBA}")
+
         existente = session.exec(select(Cuenta).where(Cuenta.email == EMAIL_PRUEBA)).first()
         if existente:
-            print(f"La cuenta de prueba ya existe: {EMAIL_PRUEBA}")
+            print(f"La cuenta de apoderado de prueba ya existe: {EMAIL_PRUEBA}")
             return
 
         # Usa el plan real "Por periodo de examinación" (ver scripts/sembrar_planes.py y

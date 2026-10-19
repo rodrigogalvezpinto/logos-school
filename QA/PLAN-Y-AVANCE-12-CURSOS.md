@@ -79,3 +79,19 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
   - Proyección académica y registro histórico de notas
   - Gamificación: acumulación de XP y personalización de avatar
   - Plan lector y lista de útiles escolares
+
+---
+
+## 🏛️ Pirámide de Pruebas Integral del Proyecto (652 Tests en Verde)
+
+| Capa de Prueba | Herramienta | Ámbito de Cobertura | Total Tests | Estado | Comando de Ejecución |
+|---|---|---|---|---|---|
+| **Unitarias Frontend** | Vitest / Angular CLI | Validación de RUT chileno, Guards de navegación (Auth, Admin, Profesor), Servicios de sesión/storage y Pipes de accesibilidad | 33 / 33 | ✅ 100% | `cd frontend && npm test -- --watch=false` |
+| **Unitarias / Integración Backend** | Pytest / SQLModel | Lógica de negocio, límites de tasa (rate limiting), valoraciones de nota 1.0-7.0, parsers de guías y exámenes, modelos ORM | 491 / 491 | ✅ 100% | `cd backend && .venv/bin/pytest -q` |
+| **E2E Flujos 12 Cursos** | Playwright (Chromium) | 1° Básico a 4° Medio: onboarding, asignaturas por decreto, estudio, pruebas, simulacros y notas | 82 / 82 | ✅ 100% | `cd frontend && npx playwright test e2e/flujo-completo-*.spec.ts` |
+| **E2E Roles Adicionales** | Playwright (Chromium) | Panel de Administrador (`admin.spec.ts`) y Panel de Profesor (`profesor.spec.ts`) | 12 / 12 | ✅ 100% | `cd frontend && npx playwright test e2e/admin.spec.ts e2e/profesor.spec.ts` |
+| **Accesibilidad (a11y)** | @axe-core / Playwright | Cumplimiento WCAG 2.1 AA en páginas públicas, selector de perfiles y vistas de alumnos | 17 / 17 | ✅ 100% | `cd frontend && npx playwright test e2e/accesibilidad.spec.ts` |
+| **Diseño Adaptable (Mobile)** | Playwright Viewports | Vista responsive en teléfonos móviles (375x667, 390x844), colapso de sidebars y tablas | 7 / 7 | ✅ 100% | `cd frontend && npx playwright test e2e/responsive.spec.ts` |
+| **Casos Borde y Resiliencia** | Playwright (Chromium) | Respuestas en blanco, modales de confirmación, recarga de página a mitad de examen | 10 / 10 | ✅ 100% | `cd frontend && npx playwright test e2e/casos-borde.spec.ts` |
+| **TOTAL CONSOLIDADO** | | **Cobertura 360° del Sistema Logos School** | **652 / 652** | ✅ **100% ÉXITO** | |
+

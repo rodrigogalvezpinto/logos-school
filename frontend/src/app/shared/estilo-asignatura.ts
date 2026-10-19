@@ -23,7 +23,7 @@ const REGLAS: Array<{ patron: RegExp; estilo: EstiloAsignatura }> = [
   { patron: /historia|geograf[ií]a/i, estilo: { icono: 'mapa', color: '#C4490A' } },
   { patron: /ingl[eé]s/i, estilo: { icono: 'ingles', color: '#2563EB' } },
   { patron: /filosof[ií]a/i, estilo: { icono: 'filosofia', color: '#4338CA' } },
-  { patron: /ciudadan[ií]a/i, estilo: { icono: 'balanza', color: '#0B7F74' } },
+  { patron: /ciudadan/i, estilo: { icono: 'balanza', color: '#0B7F74' } },
 ];
 
 const POR_DEFECTO: EstiloAsignatura = { icono: 'libro', color: '#5B4FE9' };
