@@ -1,7 +1,7 @@
 # Plan Maestro y Registro de Avance: Auditoría y Pruebas Reales de los 12 Cursos
 
-**Última actualización:** 2026-10-19  
-**Objetivo:** Probar el 100% de los 12 cursos de Logos School mediante pruebas automatizadas End-to-End con Playwright, validando cada sección de la aplicación con alumnos y apoderados reales, completando estudios y rindiendo evaluaciones en vivo.
+**Última actualización:** 2026-10-20  
+**Objetivo:** Probar el 100% de los 12 cursos de Logos School y toda la suite de pruebas del repositorio mediante pruebas automatizadas End-to-End con Playwright, Vitest y Pytest, validando cada sección de la aplicación con alumnos y apoderados reales, completando estudios y rindiendo evaluaciones en vivo.
 
 ---
 
@@ -65,24 +65,26 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 - **Enseñanza Básica (1° a 8° Básico):** 8 / 8 Cursos (56/56 tests) ✅ **100% COMPLETADO**
 - **Enseñanza Media (1° a 4° Medio):** 4 / 4 Cursos (26/26 tests) ✅ **100% COMPLETADO**
 - **Total Cursos del Sistema Escolar Chileno:** 12 / 12 Cursos ✅ **100% COBERTURA TOTAL**
-- **Total de Tests Playwright Pasando:** 82 / 82 tests (100% éxito)
+- **Total de Archivos E2E Auditados y Ejecutados:** 64 / 64 archivos spec (100% éxito)
 - **Todas las Secciones Probadas:**
   - Onboarding familiar y RUT chileno con Módulo 11
-  - Panel y supervisión de apoderados (métricas, plan, pagos)
-  - Dashboard del alumno con check-in socioemocional
+  - Panel y supervisión de apoderados (métricas, plan, pagos, agregar/eliminar alumno inline)
+  - Dashboard del alumno con check-in socioemocional diario
   - Catálogo de asignaturas oficiales por decreto ministerial (439/2012, 614/2013, 193/2019)
   - Estudio pedagógico con síntesis curricular, lectura por voz sintetizada, descarga PDF y rating de comprensión
   - Autoevaluaciones formativas con preguntas de selección múltiple y de desarrollo
   - Pruebas de unidad evaluadas y calificadas en vivo por el backend en escala chilena 1.0 a 7.0
-  - Exámenes simulacros oficiales con cronómetro activo y formato de 20 o 25 preguntas según régimen
-  - Plan de estudio personalizado y horario semanal
-  - Proyección académica y registro histórico de notas
-  - Gamificación: acumulación de XP y personalización de avatar
-  - Plan lector y lista de útiles escolares
+  - Exámenes simulacros oficiales con cronómetro activo y auto-envío por tiempo agotado
+  - Plan de estudio personalizado (vistas de lista, semanal y mensual, repaso de años anteriores y alerta de atrasos)
+  - Proyección académica y registro histórico de notas (informes de avance descargables en PDF)
+  - Certificados oficiales de alumno regular con validación de hash y descarga PDF
+  - Gamificación: acumulación de XP, cambio de avatares, rachas de estudio y sistema de 15 insignias
+  - Plan lector curado por nivel y lista completa de útiles escolares
+  - Búsqueda global, reporte de errores en preguntas y buzón de sugerencias
 
 ---
 
-## 🏛️ Pirámide de Pruebas Integral del Proyecto (652 Tests en Verde)
+## 🏛️ Pirámide de Pruebas Integral del Proyecto (886 Tests en Verde)
 
 | Capa de Prueba | Herramienta | Ámbito de Cobertura | Total Tests | Estado | Comando de Ejecución |
 |---|---|---|---|---|---|
@@ -93,5 +95,7 @@ Cada curso es sometido a una suite Playwright serial que ejecuta los siguientes 
 | **Accesibilidad (a11y)** | @axe-core / Playwright | Cumplimiento WCAG 2.1 AA en páginas públicas, selector de perfiles y vistas de alumnos | 17 / 17 | ✅ 100% | `cd frontend && npx playwright test e2e/accesibilidad.spec.ts` |
 | **Diseño Adaptable (Mobile)** | Playwright Viewports | Vista responsive en teléfonos móviles (375x667, 390x844), colapso de sidebars y tablas | 7 / 7 | ✅ 100% | `cd frontend && npx playwright test e2e/responsive.spec.ts` |
 | **Casos Borde y Resiliencia** | Playwright (Chromium) | Respuestas en blanco, modales de confirmación, recarga de página a mitad de examen | 10 / 10 | ✅ 100% | `cd frontend && npx playwright test e2e/casos-borde.spec.ts` |
-| **TOTAL CONSOLIDADO** | | **Cobertura 360° del Sistema Logos School** | **652 / 652** | ✅ **100% ÉXITO** | |
+| **E2E Funcionalidades & Usabilidad (Batches 1-4)** | Playwright (Cross-browser) | Todas las suites adicionales: gamificación, plan lector, útiles escolares, auto-envío, coaching, etc. | 234 / 234 | ✅ 100% | `cd frontend && npx playwright test` |
+| **TOTAL CONSOLIDADO** | | **Cobertura 360° del Sistema Logos School (64/64 suites E2E)** | **886 / 886** | ✅ **100% ÉXITO** | |
+
 

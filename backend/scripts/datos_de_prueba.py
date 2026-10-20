@@ -105,6 +105,19 @@ def main() -> None:
         print(f"  Alumno 1: {alumno_1.nombre} {alumno_1.apellidos} — 4° básico (plan activo)")
         print(f"  Alumno 2: {alumno_2.nombre} {alumno_2.apellidos} — 6° básico (plan activo)")
 
+    # Sembrar Plan Lector y Útiles Escolares para 4° básico
+    try:
+        from scripts.seed_plan_lector import main as seed_lector
+        seed_lector()
+    except Exception as e:
+        print(f"⚠️  No se pudo sembrar Plan Lector: {e}")
+
+    try:
+        from scripts.seed_utiles_escolares import main as seed_utiles
+        seed_utiles()
+    except Exception as e:
+        print(f"⚠️  No se pudo sembrar Útiles Escolares: {e}")
+
 
 if __name__ == "__main__":
     main()
