@@ -86,7 +86,7 @@ test('el apoderado ve una observación cuando el alumno estudia tarde en la noch
   // 23:00 hora de Chile = 02:00 UTC del día siguiente (offset fijo -3 que usa el backend).
   for (const id of idsIntentos) {
     execSync(
-      `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_dev" -c "UPDATE intento_evaluacion SET fecha_termino = '2026-08-10 02:00:00' WHERE id = ${id}"`,
+      `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_qa" -c "UPDATE intento_evaluacion SET fecha_termino = '2026-08-10 02:00:00' WHERE id = ${id}"`,
     );
   }
 

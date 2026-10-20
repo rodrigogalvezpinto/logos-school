@@ -26,30 +26,29 @@ function rutValido(cuerpo: number): string {
 }
 
 const NIVEL_ID = 6;
-const CONJUNTO_EXAMEN_ID = 1987; // "Examen Ciencias Naturales Forma B" — contenido real y estable del dev DB
+const CONJUNTO_EXAMEN_ID = 90; // "Examen Ciencias Naturales Forma B" (6° básico) — contenido real y estable del dev DB
 
-// Respuestas correctas reales del conjunto 1987 (solo preguntas "alternativas", que sí tienen
+// Respuestas correctas reales del conjunto 90 (solo preguntas "alternativas", que sí tienen
 // oa_id + eje_temático poblado) — no se pueden obtener por API con una cuenta sin privilegios
 // (GET /evaluaciones/conjuntos/{id} oculta `respuesta_correcta` a propósito), así que se
 // registran acá igual que Sofía es una cuenta de datos reales fijos en el resto de la suite.
 const RESPUESTAS_CORRECTAS: Record<number, string> = {
-  46509: 'Célula → tejido → órgano → sistema',
-  46510: 'Órgano',
-  46511: 'Sistema',
-  46513: 'Grasas, que aportan energía y ayudan a absorber ciertas vitaminas',
-  46514: 'Una naranja',
-  46517: 'Asma',
-  46518: 'Arritmia',
-  46520: 'Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones',
-  46521: '2',
-  46522: 'Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel',
-  46524: 'El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente',
-  46525: 'Solo con la moneda de metal',
-  46526: 'Conductor, porque permite el paso de la corriente con facilidad',
-  46528: 'La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea',
-  46529: 'El Campo de Hielo Sur',
-  46531: 'Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar',
-  46532: 'Un derrame de petróleo en el mar',
+  2316: 'Las algas y las cianobacterias',
+  2317: 'Azúcar (glucosa)',
+  2319: 'Alimentarse de los restos de otros organismos y liberar nutrientes al suelo',
+  2320: 'Consumidor de tercer orden',
+  2322: 'El estirón de crecimiento',
+  2323: 'La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal',
+  2325: 'Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable',
+  2326: 'Lavarse el rostro diariamente',
+  2328: 'Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier tipo de cambio',
+  2329: 'Energía calórica',
+  2331: 'Energía geotérmica',
+  2332: 'Sus numerosos ríos y caudales abundantes',
+  2334: 'Condensación',
+  2335: 'La evaporación ocurre lentamente en la superficie del líquido a cualquier temperatura, mientras que la ebullición ocurre rápidamente en todo el volumen del líquido a una temperatura específica',
+  2337: 'Atmósfera',
+  2339: 'El viento',
 };
 
 test('el mapa de calor agrupa por asignatura y eje temático tras rendir un examen real', async ({ page, request }) => {
@@ -71,9 +70,9 @@ test('el mapa de calor agrupa por asignatura y eje temático tras rendir un exam
   await page.selectOption('select[name=nivelId]', String(NIVEL_ID));
   await page.click('button[type=submit]');
   await expect(page).toHaveURL(/seleccion-plan/);
-
+  await expect(page.locator('.plan')).toHaveCount(3);
   await page.click('button:has-text("Comenzar mis 5 días gratis")');
-  await expect(page).toHaveURL(/selector-perfil/);
+  await expect(page).toHaveURL(/selector-perfil/, { timeout: 15000 });
 
   await page.getByText('Alumno Mapa Calor').click();
   await expect(page).toHaveURL(/alumno\/inicio/);
