@@ -160,3 +160,23 @@ El resumen de lectura podrá incluir tres dimensiones diferenciadas:
 - **Comprensión:** respuestas correctas de las tres preguntas, con indicación de que es una muestra breve.
 
 El objetivo es que Logos School identifique oportunidades concretas de práctica, no etiquetar al estudiante a partir de una única sesión.
+
+
+## 1.3 Robustez ante errores de reconocimiento de voz y tildes
+
+**Aporte del usuario:** en las pruebas de la aplicación anterior, el reconocimiento no siempre conservaba tildes y, en ocasiones, interpretaba como correcta una palabra pronunciada incorrectamente, como si un autocorrector normalizara la lectura. Esto puede producir falsos positivos y falsos errores.
+
+### Principio de diseño
+**La transcripción automática no debe tratarse como una transcripción perfecta ni como evidencia definitiva de que una palabra se leyó bien o mal.** Hay que distinguir entre lo que el estudiante pronunció, lo que el reconocedor transcribió y lo que la comparación automática puede concluir con suficiente confianza.
+
+### Medidas candidatas para el MVP
+1. **Normalización limitada para comparar:** ignorar diferencias puramente ortográficas como mayúsculas, espacios y tildes en una comparación auxiliar, para evitar marcar una lectura como error solo porque el reconocedor omitió un acento gráfico. La forma original del texto debe conservarse y la normalización no debe borrar información útil para evaluar la pronunciación.
+2. **Alineación por palabras:** comparar la secuencia reconocida con el texto esperado para detectar posibles omisiones, sustituciones y adiciones, sin asumir que cada diferencia proviene del niño.
+3. **Confianza e incertidumbre:** cuando el motor no esté seguro, la palabra debe quedar como «incierta / revisar», no clasificarse automáticamente como correcta o incorrecta. Si el proveedor no ofrece confianza fiable por palabra, no simularla: usar indicadores alternativos y revisión.
+4. **No depender del autocorrector:** comprobar si el proveedor usa normalización lingüística o corrección contextual que pueda convertir una pronunciación incorrecta en la palabra esperada. Si ocurre y no puede desactivarse o medirse, registrar esa limitación y no prometer detección precisa de errores fonéticos.
+5. **Audio y revisión humana en validación:** construir una muestra consentida de lecturas, anotada por personas, y comparar palabra por palabra los resultados automáticos. Revisar falsos positivos y falsos negativos por curso, acento chileno, ruido y dispositivo antes de fijar umbrales.
+6. **Salida prudente:** comunicar «posible palabra para revisar» cuando la evidencia no sea concluyente y permitir repetir la lectura si hay problemas de audio. No presentar una puntuación automática como definitiva sin validación.
+7. **Tildes y pronunciación son problemas distintos:** en español, la tilde escrita representa reglas ortográficas y prosódicas; que el ASR omita la tilde en su texto no prueba que el estudiante haya pronunciado mal. Por otro lado, una comparación de texto por sí sola no puede confirmar con fiabilidad todos los errores de pronunciación.
+
+### Criterio de salida del MVP
+Antes de utilizar la precisión como nota o evaluación formal, medirla contra anotaciones humanas y acordar con docentes qué errores se pueden identificar de forma fiable. Mientras tanto, mostrar las métricas como estimaciones, separar la comprensión lectora de la transcripción oral y mantener la opción de revisión/repetición. La evaluación de las tres preguntas de comprensión no sustituye esta validación de pronunciación.
