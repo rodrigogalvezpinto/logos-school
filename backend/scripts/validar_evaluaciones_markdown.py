@@ -6,11 +6,11 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-OPTION_RE = re.compile(r"^\\s*([a-d])\\)\\s*(.*?)\\s*$", re.IGNORECASE)
-TOTAL_RE = re.compile(r"(?i)puntaje\\s+total\\s*:\\s*(\\d+)\\s*puntos?")
-QUESTION_RE = re.compile(r"^\\s*\\*{0,2}(?:Pregunta\\s+)?(\\d+)\\.?(?:\\s*\\([^)]*\\))?\\*{0,2}")
-INLINE_KEY_RE = re.compile(r"(?i)respuesta\\s+correcta\\s*:\\s*\\*{0,2}([a-d])\\)\\s*(.+?)\\*{0,2}\\s*$")
-TABLE_KEY_RE = re.compile(r"(?i)\\*{0,2}([a-d])\\)\\s*(.+?)\\*{0,2}[.]?\\s*$")
+OPTION_RE = re.compile(r"^\s*([a-d])\)\s*(.*?)\s*$", re.IGNORECASE)
+TOTAL_RE = re.compile(r"(?i)puntaje\s+total\s*:\s*(\d+)\s*puntos?")
+QUESTION_RE = re.compile(r"^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?")
+INLINE_KEY_RE = re.compile(r"(?i)respuesta\s+correcta\s*:\s*\*{0,2}([a-d])\)\s*(.+?)\*{0,2}\s*$")
+TABLE_KEY_RE = re.compile(r"(?i)\*{0,2}([a-d])\)\s*(.+?)\*{0,2}[.]?\s*$")
 
 
 def _question_options(markdown: str) -> dict[int, dict[str, str]]:
@@ -33,7 +33,7 @@ def _question_options(markdown: str) -> dict[int, dict[str, str]]:
 
 def _normalise(value: str) -> str:
     value = re.sub(r"[*_]", "", value)
-    return re.sub(r"\\s+", " ", value).strip().casefold().rstrip(".").strip()
+    return re.sub(r"\s+", " ", value).strip().casefold().rstrip(".").strip()
 
 
 def _compare(question_no: int, letter: str, answer: str,
@@ -102,8 +102,8 @@ def main() -> int:
     files = sorted((root / "contenido").rglob("*.md"))
     findings = [finding for path in files for finding in audit_file(path)]
     if findings:
-        print("\\n".join(findings))
-        print(f"\\nHallazgos estructurales: {len(findings)}")
+        print("\n".join(findings))
+        print(f"\nHallazgos estructurales: {len(findings)}")
         return 1
     print(f"Sin discrepancias detectadas por estos controles en {len(files)} archivos Markdown.")
     return 0
