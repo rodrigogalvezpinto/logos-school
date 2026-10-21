@@ -54,7 +54,14 @@ def _compare(question_no: int, letter: str, answer: str,
     if letter not in options:
         return [f"{path}:{line_no}: pregunta {question_no}: la clave refiere a {letter}), "
                 f"pero las opciones disponibles son {', '.join(sorted(options))}"]
-    if _normalise(answer) != _normalise(options[letter]):
+    normalised_answer = _normalise(answer)
+    normalised_option = _normalise(options[letter])
+    # Markdown puede partir una alternativa en varias líneas o aplicar negrita
+    # solo a una parte. Si un texto es prefijo del otro, la comparación textual
+    # no es concluyente y se evita generar un falso positivo.
+    if (normalised_answer != normalised_option and
+            not normalised_answer.startswith(normalised_option) and
+            not normalised_option.startswith(normalised_answer)):
         return [f"{path}:{line_no}: pregunta {question_no}: la clave {letter}) {answer} "
                 f"no coincide con la alternativa {letter}) {options[letter]}"]
     return []
