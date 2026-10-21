@@ -98,3 +98,37 @@ El currículo chileno trata la fluidez como precisión, velocidad y prosodia, y 
 ## Limitaciones
 
 La idea de evaluación de lectura se ha registrado como candidata; no se ha inspeccionado la aplicación anterior ni se ha verificado aún la arquitectura exacta que utilizaba. Las métricas descritas son opciones de diseño, no capacidades implementadas ni validadas. La precisión del reconocimiento de voz con niños y español chileno debe medirse antes de usar resultados con fines evaluativos.
+
+
+## 1.1 Flujo de práctica propuesto: texto aleatorio por curso
+
+**Aporte del usuario:** en la aplicación anterior, el estudiante pulsaba «Practicar» y podía escoger entre tres textos o recibir uno aleatorio. Para reducir la memorización o la selección del texto más fácil, se propone que Logos School priorice un texto aleatorio apropiado para el curso, manteniendo una opción de práctica libre separada si se desea.
+
+### Flujo funcional candidato
+1. El estudiante pulsa **«Practicar lectura»**.
+2. Logos School identifica su curso configurado y selecciona un texto de un banco previamente revisado para ese nivel.
+3. El texto se presenta en pantalla y se explica que debe leerlo en voz alta durante el tiempo definido por la evaluación.
+4. Se captura la lectura mediante micrófono, con aviso claro sobre el uso del audio y los consentimientos aplicables.
+5. El sistema compara la transcripción con el texto esperado e identifica posibles omisiones, sustituciones, adiciones y autocorrecciones, indicando incertidumbre cuando corresponda.
+6. Se calculan métricas candidatas: palabras intentadas/leídas en el intervalo, precisión estimada, tipos de error y pausas observables.
+7. Se realizan preguntas breves de comprensión, idealmente después de la lectura y sin pistas que alteren la medición inicial.
+8. Se muestra una devolución comprensible y respetuosa, con una recomendación concreta para practicar.
+9. Se registra el resultado mínimo necesario para observar evolución, respetando las políticas de privacidad y retención de datos.
+
+### Criterios curriculares y de evaluación
+- Cada texto y rúbrica debe asociarse a curso, objetivo de aprendizaje, dificultad y versión de la pauta.
+- Los umbrales de palabras por minuto, tiempo y errores **no deben inventarse ni extrapolarse entre cursos**: se deben confirmar con fuentes oficiales vigentes del MINEDUC y validar con docentes especialistas antes de presentarlos como criterios curriculares.
+- Si las fuentes oficiales no establecen un único umbral aplicable al contexto, el sistema debe mostrar métricas descriptivas y usar una rúbrica pedagógica validada, sin etiquetar automáticamente al niño como «bajo» o «deficiente».
+- El texto aleatorio debe provenir de un conjunto de textos equivalentes en dificultad, no de una selección completamente libre que haga incomparables los resultados.
+- Mantener una opción separada de lectura libre puede ser útil para practicar textos elegidos por el estudiante; no debería mezclarse con los resultados de evaluaciones comparables.
+- Debe existir una forma de revisar o repetir una evaluación si hay mala calidad de audio, interrupciones o errores evidentes de reconocimiento.
+
+### Decisión de diseño pendiente
+Confirmar si la primera versión utilizará exclusivamente asignación aleatoria para evaluación comparable, o si ofrecerá dos modos: **Evaluación (texto aleatorio)** y **Práctica libre (texto elegido)**. La recomendación inicial es separar ambos modos para evitar que la elección del texto sesgue la medición.
+
+### Validación específica
+- Reunir textos y rúbricas por curso y revisar derechos de uso.
+- Construir ejemplos de referencia anotados por evaluadores humanos.
+- Medir precisión de transcripción y de detección de errores en español chileno, con distintos micrófonos y condiciones acústicas.
+- Comparar métricas automáticas con la evaluación humana antes de mostrar resultados como puntuaciones.
+- Probar si las recomendaciones ayudan a mejorar en lecturas nuevas, no solo en textos ya practicados.
