@@ -1,0 +1,100 @@
+# Handoff y bitácora maestra de auditoría — Logos School
+
+**Última actualización:** 2026-10-21  
+**Rama de trabajo:** `qa/fase-2-matriz-trazabilidad`  
+**Repositorio:** `rodrigogalvezpinto/logos-school`  
+**Propósito:** permitir que cualquier agente humano o de IA retome la auditoría con el contexto, las evidencias, las decisiones y los pendientes sin depender de la memoria de una conversación.
+
+## 1. Estado ejecutivo
+
+La auditoría integral está **en curso**. No se ha certificado la calidad curricular ni pedagógica de todos los cursos. El inventario de archivos es una descripción del repositorio, no una prueba de cobertura curricular.
+
+Objetivo: revisar los 12 niveles (1.º básico a 4.º medio) y todas las asignaturas que efectivamente estén presentes o que el producto declare ofrecer, con criterios apropiados para el nivel escolar chileno. Mantener separadas estas dimensiones:
+- alineación con Bases Curriculares y Objetivos de Aprendizaje oficiales;
+- exactitud disciplinar;
+- progresión didáctica y adecuación etaria;
+- calidad de preguntas, claves, explicaciones y retroalimentación;
+- experiencia de usuario, accesibilidad, carga cognitiva y seguridad emocional;
+- funcionamiento técnico, trazabilidad y persistencia de resultados.
+
+No presentar la revisión automatizada como evaluación clínica ni como sustituto de una validación docente especializada.
+
+## 2. Documentos de referencia existentes
+
+1. [Plan maestro de auditoría integral](auditoria-integral-educativa-plan-maestro.md): marco, dimensiones y criterios.
+2. [Inventario reproducible inicial](inventario-reproducible-contenido-educativo.md): inventario estático del árbol Git; el documento registra 891 archivos, 12 carpetas de curso y 13 documentos de análisis curricular, cifras que no demuestran cobertura.
+3. [Hallazgos preliminares de 1.º básico](hallazgos-preliminares-1-basico.md): primeras observaciones en materiales de Lenguaje, Matemática, Ciencias e Historia.
+4. [Segunda pasada de pruebas de 1.º básico](segunda-pasada-pruebas-1-basico.md): revisión parcial de pruebas y simulacros.
+5. [Revisión ampliada de pruebas de 1.º y lectura inicial de 2.º](revision-ampliada-pruebas-1-y-lectura-2-basico.md): incluye, entre otros, una pregunta de longitud sin medidas/imagen suficiente y una pregunta sobre rutina matinal que presupone una respuesta universal.
+6. [Informe paralelo curricular de Matemática de 2.º básico](informe-paralelo-curricular-2-basico-matematica.md): revisión inicial de brechas y de materiales de 2.º básico.
+7. [Matriz de trazabilidad de Fase 2](../fase-2-matriz-trazabilidad.md): consultar si existe en la rama; verificar su ruta antes de depender de ella.
+
+Los informes parciales no deben describirse como auditorías completas ni como certificados.
+
+## 3. Hallazgos iniciales que requieren seguimiento
+
+- En material de Matemática de 1.º básico se detectó una regla verbal engañosa sobre los nombres de los números del 11 al 19: solo 16–19 empiezan con «dieci-».
+- En Lenguaje de 1.º básico hay una definición de fonema que requiere precisión conceptual.
+- En Ciencias e Historia se identificaron formulaciones para contrastar con fuentes disciplinares y curriculares.
+- En una prueba de Matemática de 1.º básico se pide ordenar objetos por longitud sin proporcionar dimensiones ni una representación que determine el orden.
+- En otra pregunta se presupone una rutina matinal universal.
+- En un cuento de simulacro, un personaje da leche a un gato encontrado en la calle; se recomendó reformular la acción para priorizar agua, seguridad y ayuda adulta.
+- En Ciencias de 2.º básico se observó una afirmación demasiado absoluta sobre mamíferos y nacimiento de crías, pendiente de contraste contextual.
+
+Antes de convertir una observación preliminar en defecto confirmado, volver al archivo y contexto exactos, contrastar fuentes confiables y registrar la evidencia literal y la propuesta.
+
+## 4. Protocolo obligatorio para cada hallazgo
+
+Cada hallazgo nuevo debe registrar:
+- ID estable y único;
+- curso, asignatura, recurso y ubicación (ruta + pregunta/sección);
+- evidencia textual breve o descripción exacta;
+- tipo: error confirmado, riesgo/ambigüedad, brecha curricular, mejora sugerida o pendiente de validar;
+- fundamento y fuente oficial/disciplina cuando corresponda;
+- impacto educativo y adecuación a la edad;
+- severidad y justificación;
+- corrección recomendada;
+- estado: por revisar, validado, corregido, revalidado o descartado;
+- prueba de regresión o criterio para comprobar la corrección;
+- agente/fecha/commit de revisión.
+
+No modificar el contenido educativo de producción durante la fase de auditoría sin registrar la autorización y el cambio por separado. Evitar cambiar `main`; trabajar en la rama indicada y preferir commits pequeños, revisables y con mensajes claros.
+
+## 5. Plan de continuación
+
+1. Verificar el estado actual de la rama y los documentos; no asumir que una afirmación de la conversación equivale a una acción confirmada en GitHub.
+2. Cerrar de manera sistemática la revisión de pruebas de 1.º básico: enunciado, clave, justificación, objetivo curricular, ambigüedad y retroalimentación.
+3. Completar 2.º básico por asignatura, ampliando más allá de los cuatro ramos principales cuando existan materiales adicionales.
+4. Generar un inventario estructurado por cada uno de los 12 niveles y todas las asignaturas que estén en el repositorio; distinguir “no existe material” de “no se ha revisado”.
+5. Contrastar cada asignatura/nivel con el currículum chileno vigente aplicable y documentar la fuente y el OA específico.
+6. Revisar por lotes paralelos cuando sea posible, pero mantener una matriz central de cobertura para evitar omisiones o duplicaciones.
+7. Después de los primeros niveles, ampliar a los demás cursos y mantener el estado global actualizado.
+8. Solo cuando el contenido esté revisado y las pruebas correspondientes existan, preparar un resumen de riesgos y un plan de corrección priorizado. La auditoría no queda cerrada por terminar un lote.
+
+## 6. Criterios de estado
+
+- **No iniciado:** recurso identificado, aún sin revisión.
+- **En revisión:** lectura y contraste incompletos.
+- **Revisado con hallazgos:** revisión documentada, con pendientes explícitos.
+- **Validado sin hallazgos conocidos:** se aplicó el protocolo y no se detectaron problemas en el alcance revisado; no implica garantía absoluta.
+- **Corregido pendiente de revalidación:** cambio aplicado, aún no verificado.
+- **Revalidado:** cambio y regresión comprobados con evidencia.
+- **No evaluable:** falta material, fuente, contexto o herramienta; indicar qué falta.
+
+Nunca usar “aprobado” o “certificado” si la evidencia solo cubre una muestra o una comprobación sintáctica.
+
+## 7. Decisión de alcance pendiente
+
+Hay que confirmar si Logos School busca:
+- preparar a estudiantes para exámenes libres con una selección de asignaturas, o
+- cubrir el plan de estudios chileno integral.
+
+Hasta resolverlo, auditar todas las asignaturas presentes en el repositorio y registrar como brecha cualquier área oficial que no tenga material, sin asumir que el producto ya prometió cubrirla.
+
+## 8. Cómo retomar desde otra IA
+
+Leer primero este archivo y el plan maestro; después revisar el estado real de la rama y el último commit. Leer la matriz de cobertura y los informes enlazados antes de empezar una tarea nueva. Actualizar este handoff al cerrar cada lote, con fecha, commit, archivos revisados, hallazgos nuevos, pruebas ejecutadas y siguiente acción. No confiar únicamente en resúmenes de chat; las rutas, commits y resultados del repositorio son la fuente de verdad.
+
+## 9. Limitaciones y transparencia
+
+Una sesión conversacional no implica ejecución continua en segundo plano. Todo avance que deba sobrevivir a la sesión tiene que quedar registrado en GitHub. No afirmar que se ejecutaron pruebas, se leyeron archivos o se publicó un documento si no hay resultado verificable. La revisión educativa automatizada apoya el trabajo, pero los casos de alto impacto deben recibir validación de especialistas humanos.
