@@ -15,11 +15,14 @@ TABLE_KEY_RE = re.compile(r"(?i)^\*{0,2}([a-d])\)\s*([^*|]+?)(?:\.\*{0,2}|\*)?(?
 
 def _question_options(markdown: str) -> dict[int, dict[str, str]]:
     questions: dict[int, dict[str, str]] = {}
+    duplicate_numbers: set[int] = set()
     current: int | None = None
     for line in markdown.splitlines():
         qmatch = QUESTION_RE.match(line)
         if qmatch:
             current = int(qmatch.group(1))
+            if current in questions:
+                duplicate_numbers.add(current)
             questions.setdefault(current, {})
             continue
         if current is not None:
@@ -28,6 +31,10 @@ def _question_options(markdown: str) -> dict[int, dict[str, str]]:
                 questions[current][option.group(1).lower()] = option.group(2).strip()
             elif line.strip() in {"---", "***"} or line.lstrip().startswith("# "):
                 current = None
+    # Cuando un archivo reutiliza numeración por unidad/actividad, no se puede
+    # asociar una pauta de forma segura solo por número: se omite ese número.
+    for number in duplicate_numbers:
+        questions.pop(number, None)
     return questions
 
 
