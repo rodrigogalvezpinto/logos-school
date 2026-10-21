@@ -38,14 +38,14 @@
 
 Todos los documentos requeridos se generaron en la carpeta `Auditoria/` con datos reales, verificables y trazables:
 
-1. [`Auditoria/01-inventario-auditoria.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/01-inventario-auditoria.md): Estructura del proyecto, conteo exacto de líneas, palabras, OA y tipos de pregunta en los 12 cursos.
-2. [`Auditoria/02-hallazgos-consolidados.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/02-hallazgos-consolidados.md): Fichas de detalle de los 11 hallazgos clasificados por severidad (P0 a P3).
-3. [`Auditoria/03-matriz-curricular.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/03-matriz-curricular.md): Contraste exhaustivo de los 116 OAs oficiales MINEDUC vs guías de Logos School.
-4. [`Auditoria/04-auditoria-matematica.csv`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/04-auditoria-matematica.csv): Registro estructurado de las 857 preguntas de Matemática con sus estados y observaciones.
-5. [`Auditoria/05-especificacion-correcciones.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/05-especificacion-correcciones.md): Especificación técnica drop-in para componentes, modelos, parser y templates.
-6. [`Auditoria/06-plan-pruebas-regresion.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/06-plan-pruebas-regresion.md): Nuevos casos de prueba unitarios y E2E requeridos y matriz de no-regresión.
-7. [`Auditoria/07-prompt-agente-ejecucion.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/07-prompt-agente-ejecucion.md): Instrucción autónoma y blindada para el agente de programación de bajo costo.
-8. [`Auditoria/08-resumen-ejecutivo.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/08-resumen-ejecutivo.md): Este dictamen ejecutivo.
+1. [`01-inventario-auditoria.md`](01-inventario-auditoria.md): Estructura del proyecto, conteo exacto de líneas, palabras, OA y tipos de pregunta en los 12 cursos.
+2. [`02-hallazgos-consolidados.md`](02-hallazgos-consolidados.md): Fichas de detalle de los 11 hallazgos clasificados por severidad (P0 a P3).
+3. [`03-matriz-curricular.md`](03-matriz-curricular.md): Contraste exhaustivo de los 116 OAs oficiales MINEDUC vs guías de Logos School.
+4. [`04-auditoria-matematica.csv`](04-auditoria-matematica.csv): Registro estructurado de las 857 preguntas de Matemática con sus estados y observaciones (inventario sintáctico, sin certificación aritmética aún).
+5. [`05-especificacion-correcciones.md`](../../planes/05-especificacion-correcciones.md): Especificación técnica drop-in para componentes, modelos, parser y templates.
+6. [`06-plan-pruebas-regresion.md`](../../qa/06-plan-pruebas-regresion.md): Nuevos casos de prueba unitarios y E2E requeridos y matriz de no-regresión.
+7. [`07-prompt-agente-ejecucion.md`](../../planes/07-prompt-agente-ejecucion.md): Instrucción autónoma y blindada para el agente de programación de bajo costo.
+8. [`08-resumen-ejecutivo.md`](08-resumen-ejecutivo.md): Este dictamen ejecutivo.
 
 ---
 
@@ -54,7 +54,7 @@ Todos los documentos requeridos se generaron en la carpeta `Auditoria/` con dato
 1. **Logo Corporativo Oficial:**  
    Proporcionar el archivo oficial de imagen (preferentemente `logo.svg` o `logo.png` transparente en alta resolución) para colocarlo en `frontend/src/assets/branding/logo.svg`.
 2. **Aprobación de la Especificación de Implementación:**  
-   Validar si se autoriza a transferir el prompt de ejecución ([`07-prompt-agente-ejecucion.md`](file:///Users/rodrigogalvez/Documents/Logos/Auditoria/07-prompt-agente-ejecucion.md)) al agente de ejecución para iniciar los cambios de código.
+   Validar si se autoriza a transferir el prompt de ejecución ([`07-prompt-agente-ejecucion.md`](../../planes/07-prompt-agente-ejecucion.md)) al agente de ejecución para iniciar los cambios de código.
 
 ---
 
