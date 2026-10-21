@@ -82,3 +82,12 @@ d) 15
 | 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados. | OA 14 |
 """
     assert check_key_option_consistency(markdown) == []
+
+
+
+def test_detecta_totales_con_negrita_markdown():
+    markdown = "**Puntaje total:** 30 puntos\n...\n**Puntaje total: 35 puntos**"
+    findings = check_conflicting_total_declarations(markdown, "historia.md")
+    assert len(findings) == 1
+    assert "30 puntos" in findings[0]
+    assert "35 puntos" in findings[0]
