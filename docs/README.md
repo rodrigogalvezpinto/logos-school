@@ -59,3 +59,8 @@ docs/
 - [`planificacion/`](../planificacion/): Fichas fundacionales de producto, arquitectura, modelo de negocio y capturas originales de Brincus. Se preservan intactas en su ubicación raíz original.
 - [`Temarios/`](../Temarios/): Decretos y temarios oficiales de la Unidad de Currículum y Evaluación (UCE) de MINEDUC.
 - [`contenido/`](../contenido/): Banco de guías pedagógicas en Markdown para los 12 niveles escolares.
+
+
+## Pendientes tecnológicos
+
+La evaluación inicial de voz natural, videos educativos y juegos interactivos está registrada en [`planes/pendientes-voz-videos-juegos.md`](planes/pendientes-voz-videos-juegos.md). Es una propuesta por validar, no una decisión de arquitectura ni una implementación. No se ha elegido proveedor de voz hasta completar pruebas con ejercicios reales.
