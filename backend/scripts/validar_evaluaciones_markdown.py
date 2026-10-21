@@ -58,6 +58,7 @@ def check_key_option_consistency(markdown: str, path: str = "<memoria>") -> list
     options_by_question = _question_options(markdown)
     findings: list[str] = []
     current_question: int | None = None
+    in_key_section = False
     for line_no, line in enumerate(markdown.splitlines(), start=1):
         qmatch = QUESTION_RE.match(line)
         if qmatch:
@@ -66,7 +67,9 @@ def check_key_option_consistency(markdown: str, path: str = "<memoria>") -> list
         if inline and current_question is not None:
             findings.extend(_compare(current_question, inline.group(1), inline.group(2),
                                      options_by_question, path, line_no))
-        if not line.lstrip().startswith("|"):
+        if re.search(r"(?i)pauta de correcci[oó]n|clave de respuestas|respuestas correctas|solucionario|answer key", line):
+            in_key_section = True
+        if not in_key_section or not line.lstrip().startswith("|"):
             continue
         cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
         if len(cells) < 3 or not cells[0].isdigit():
