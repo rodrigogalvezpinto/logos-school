@@ -1,0 +1,858 @@
+Curso,Carpeta,OA,NroPregunta,Tipo,EnunciadoResumen,RespuestaEsperada,NumOpciones,EstadoVerificacion,Observaciones
+1° básico,01-basico,OA 3,1,alternativas,"¿Cuál número corresponde a la palabra ""trece""?",13,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 3,2,desarrollo_breve,"Escribe con número la palabra ""diecinueve"": ___",19,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 3,3,alternativas,::emoji::⭐::6 estrellas dibujadas:: ¿Qué número representa esta cantidad de estrellas?,6,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 3,4,verdadero_falso,"El número 20 se lee ""doce"".",Falso,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 3,5,desarrollo_breve,::emoji::🎨::14 globos de colores flotando:: Cuenta los globos y escribe el número que representan.,14,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 3,6,alternativas,¿Cuál de estas opciones muestra el número 9 representado con dibujos?,::emoji::::9 manzanas dibujadas::,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,1,alternativas,¿Cuál número es mayor: 14 o 9?,14,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,2,desarrollo_breve,"Ordena de menor a mayor: 16, 4, 10 → ___, ___, ___","4, 10, 16",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,3,verdadero_falso,18 es menor que 15.,Falso,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,4,desarrollo_breve,::emoji::::una canasta con 8 duraznos:: y ::emoji::::otra canasta con 13 duraznos:: . ¿Cuál canasta tiene más duraznos?,la canasta con 13 duraznos,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,5,desarrollo_breve,"Ordena estos números de mayor a menor: 6, 20, 1 → ___, ___, ___","20, 6, 1",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 4,6,alternativas,¿Qué palabra completa correctamente la comparación? 12 es ___ que 9.,mayor,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,1,alternativas,¿Cuál descomposición es correcta para el número 9?,9 = 4 + 5,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,2,desarrollo_breve,14 = 10 + ___,4,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,3,desarrollo_breve,Da dos formas distintas de descomponer el número 16 en dos partes.,"(ejemplos válidos): 16 = 10 + 6, o 16 = 8 + 8, o 16 = 9 + 7, entre otras",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,4,desarrollo_breve,::emoji::::6 fichas rojas y 4 fichas azules juntas:: ¿Qué número forman en total? Escribe la suma que representa esta...,6 + 4 = 10,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,5,verdadero_falso,El número 20 se puede descomponer como 15 + 5.,Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 6,6,desarrollo_breve,Sofía tiene 8 caramelos en total. 3 son de menta y el resto son de fruta. ¿Cuántos caramelos son de fruta?,8 = 3 + ___ → 5 caramelos de fruta,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,1,alternativas,¿Cuántas decenas y unidades tiene el número 16?,1 decena y 6 unidades,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,2,desarrollo_breve,1 decena y 3 unidades forman el número ___,13,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,3,verdadero_falso,El número 20 tiene 2 decenas y 0 unidades.,Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,4,desarrollo_breve,::emoji::::1 grupo de 10 bloques agrupados y 5 bloques sueltos:: ¿Qué número representa esta imagen?,15,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,5,desarrollo_breve,Agustín tiene 18 fichas y las agrupa de a 10. ¿Cuántos grupos de 10 se forman y cuántas fichas quedan sueltas?,se forma 1 grupo de 10 (1 decena) y quedan 8 fichas sueltas (8 unidades),0,Verificado OK,Ninguna
+1° básico,01-basico,OA 8,6,desarrollo_breve,¿Cuántas decenas y unidades tiene el número 11?,1 decena y 1 unidad,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,1,alternativas,Calcula: 4 + 3 = ?,7,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,2,verdadero_falso,9 − 5 = 4.,Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,3,desarrollo_breve,"::emoji::::6 pollitos juntos, y 2 de ellos se alejan caminando:: ¿Cuántos pollitos quedan?",6 − 2 = 4 pollitos,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,4,desarrollo_breve,Joaquín tiene 8 canicas y su abuelo le regala 5 canicas más. ¿Cuántas canicas tiene ahora?,8 + 5 = 13 canicas,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,5,alternativas,Camila tenía 15 stickers y le regaló 6 a su amiga. ¿Qué operación permite saber cuántos stickers le quedan?,Sustracción (resta),2,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,6,alternativas,Hay 9 patitos nadando en el estanque y llegan 7 patitos más. ¿Cuál expresión numérica resuelve cuántos patitos hay en...,9 + 7,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,7,desarrollo_breve,Calcula: 18 − 9 = ?,9,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 9,8,desarrollo_breve,"Inventa tu propio problema de suma usando el número 10 (por ejemplo, con animales o juguetes), y resuélvelo.","(ejemplo): ""Tengo 6 autitos y me regalan 4 más. ¿Cuántos autitos tengo en tot...",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,1,alternativas,"Continúa el patrón: círculo, triángulo, círculo, triángulo, círculo, ___",Triángulo,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,2,desarrollo_breve,"Completa la secuencia: 3, 6, 9, ___, 15",12,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,3,verdadero_falso,"El patrón 20, 17, 14, 11 es decreciente.",Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,4,alternativas,"En la secuencia 1, 3, 5, 7, 9, ¿cuál es la regla que se repite?",Sumar 2,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,5,alternativas,"Un patrón de aplausos sigue así: palmada, palmada, pisada, palmada, palmada, pisada, palmada, palmada, ___. ¿Qué sigue?",Pisada,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 11,6,desarrollo_breve,"Crea tu propio patrón repetitivo usando 3 frutas distintas (por ejemplo, plátano, manzana, uva), y escríbelo repitién...","(ejemplo): plátano, manzana, uva, plátano, manzana, uva",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,1,alternativas,"Si levantas la mano con la que normalmente escribes y es tu mano derecha, ¿cómo se llama esa posición?",Derecha,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,2,alternativas,::emoji::🐱::un gato está debajo de una mesa:: El gato está ___ de la mesa.,debajo,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,3,verdadero_falso,"Las palabras ""arriba"" y ""abajo"" sirven para describir la posición de un objeto.",Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,4,desarrollo_breve,"Describe dónde está tu estuche en relación a tu mochila, usando una palabra de posición (por ejemplo, dentro, encima,...","(ejemplo): ""Mi estuche está dentro de mi mochila",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,5,alternativas,::emoji::👧::una niña está parada a la izquierda de un árbol:: ¿Dónde está la niña respecto al árbol?,A la izquierda del árbol,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 13,6,desarrollo_breve,"![en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora](/assets/imagenes/1-basico/029-en...",Benjamín,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 18,1,alternativas,"::emoji::✏️::un lápiz corto y un lápiz largo puestos juntos, alineados desde el mismo punto:: ¿Cuál lápiz es más largo?",El lápiz largo,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 18,2,verdadero_falso,"Para comparar el largo de dos objetos, es importante alinearlos desde el mismo punto de partida.",Verdadero,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 18,3,desarrollo_breve,"Ordena estos tres objetos de más corto a más largo: una goma de borrar, un lápiz, y una regla.","goma de borrar (más corta), lápiz, regla (más larga)",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 18,4,desarrollo_breve,"Mide el largo de tu mesa usando tus manos, una tras otra sin dejar espacios. ¿Cuántas manos mide aproximadamente?","(variable): cualquier número razonable de manos, según el tamaño real de la m...",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 18,5,desarrollo_breve,"La cuerda A mide 8 pasos de largo, y la cuerda B mide 5 pasos de largo. ¿Cuál cuerda es más larga?",la cuerda A,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 19,1,alternativas,"Según la tabla del Ejemplo 1, ¿cuántos niños prefieren el gato?",3,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 19,2,verdadero_falso,"Según la tabla del Ejemplo 1, más niños prefieren el pez que el perro.",Falso,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 19,3,desarrollo_breve,"Según la tabla del Ejemplo 1, ¿cuántos niños en total participaron respondiendo sobre su mascota favorita?",4 + 3 + 2 = 9 niños,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 19,4,desarrollo_breve,"Valentina contó 7 fichas rojas, pero en su tabla de conteo dibujó solo 5 marcas. ¿Está bien hecho su registro? ¿Por qué?","no está bien hecho, porque si contó 7 fichas, debería haber dibujado 7 marcas...",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 19,5,desarrollo_breve,"Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\| (6), plátano \|\|\| (3), uva \|\|\|\|...","el plátano (con 3 marcas, la menor cantidad)",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 20,1,alternativas,"Según el pictograma del Ejemplo 1, ¿cuántos niños tienen perro?",5,4,Verificado OK,Ninguna
+1° básico,01-basico,OA 20,2,desarrollo_breve,"Según el pictograma del Ejemplo 1, ¿cuántos niños tienen pez o gato en total?",2 + 3 = 5 niños,0,Verificado OK,Ninguna
+1° básico,01-basico,OA 20,3,verdadero_falso,"En un pictograma, cada dibujo puede representar una cantidad distinta según la fila que le corresponda.",Falso,2,Verificado OK,Ninguna
+1° básico,01-basico,OA 20,4,desarrollo_breve,"En una sala hay 6 niños con delantal azul y 4 niños con delantal amarillo. Describe cómo se vería el pictograma, usan...","delantal azul: 6 dibujos (por ejemplo, 6 caritas o 6 delantales); delantal am...",0,Verificado OK,Ninguna
+1° básico,01-basico,OA 20,5,desarrollo_breve,"Usando el pictograma de la Pregunta 4 (6 delantales azules y 4 amarillos), ¿qué color de delantal tienen más niños?",el azul,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,1,alternativas,"¿Cuál número corresponde a la palabra ""setenta y cuatro""?",74,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,2,desarrollo_breve,Escribe en palabras el número 56: ___,cincuenta y seis,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,3,alternativas,"::emoji::🎨::8 grupos de 10 fichas cada uno, y 3 fichas sueltas:: ¿Qué número representa esta cantidad?",83,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,4,verdadero_falso,"El número 100 se lee ""diez y diez"".",Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,5,desarrollo_breve,"Escribe en cifras la palabra ""treinta y uno"": ___",31,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 2,6,desarrollo_breve,"En una feria libre, los puestos están numerados. Manuel busca el puesto ""sesenta y cinco"". ¿Qué número debe buscar en...",65,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,1,alternativas,¿Cuál número es mayor: 84 o 79?,84,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,2,desarrollo_breve,"Ordena de menor a mayor: 45, 12, 78, 6 → ___, ___, ___, ___","6, 12, 45, 78",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,3,verdadero_falso,91 es menor que 89.,Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,4,desarrollo_breve,Camila tiene 2 monedas de $50 y Diego tiene 1 moneda de $100. ::emoji::🎨::2 monedas de $50 a la izquierda; 1 moneda d...,tienen la misma cantidad,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,5,desarrollo_breve,"Ordena de mayor a menor: 33, 90, 8, 61 → ___, ___, ___, ___","90, 61, 33, 8",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 3,6,alternativas,¿Qué palabra completa correctamente la comparación? 47 es ___ que 74.,menor,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,1,alternativas,¿Cuál descomposición es correcta para el número 76?,76 = 70 + 6,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,2,desarrollo_breve,58 = 50 + ___,8,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,3,desarrollo_breve,Da dos formas distintas de descomponer el número 84 en dos partes.,"(ejemplos válidos): 84 = 80 + 4, o 84 = 70 + 14, o 84 = 50 + 34, entre otras",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,4,desarrollo_breve,::emoji::🎨::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué número forman en total? Escribe la suma que representa es...,50 + 7 = 57,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,5,verdadero_falso,El número 90 se puede descomponer como 70 + 20.,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 5,6,desarrollo_breve,En una caja hay 52 huevos en total. 30 son blancos y el resto son de color. ¿Cuántos huevos son de color?,52 = 30 + ___ → 22 huevos de color,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,1,alternativas,¿Cuántas decenas y unidades tiene el número 68?,6 decenas y 8 unidades,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,2,desarrollo_breve,4 decenas y 7 unidades forman el número ___,47,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,3,verdadero_falso,En el número 100 hay 10 decenas y 0 unidades.,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,4,desarrollo_breve,"::emoji::🎨::3 bloques que representan decenas, y 8 cubitos sueltos:: ¿Qué número representa esta imagen?",38,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,5,alternativas,"En el número 52, ¿cuánto vale el dígito 5?",50,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,6,desarrollo_breve,¿En cuál de estos dos números el dígito 4 vale 40: en 47 o en 74?,en 47,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 7,7,desarrollo_breve,Nicolás tiene 89 láminas y las agrupa de a 10. ¿Cuántos grupos de 10 se forman y cuántas láminas quedan sueltas?,se forman 8 grupos de 10 (8 decenas) y quedan 9 láminas sueltas (9 unidades),0,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,1,alternativas,Calcula: 34 + 52 = ?,86,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,2,verdadero_falso,68 − 24 = 44.,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,3,alternativas,Francisca tenía 45 caramelos y le regaló 12 a su hermano. ¿Qué operación permite saber cuántos caramelos le quedan?,Sustracción,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,4,alternativas,En un estadio hay 52 personas y llegan 36 personas más. ¿Cuál expresión numérica resuelve cuántas personas hay en total?,52 + 36,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,5,desarrollo_breve,En la biblioteca del colegio hay 63 libros de cuentos y 25 libros de ciencias. ¿Cuántos libros hay en total?,63+25=88 libros,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,6,desarrollo_breve,Un kiosko tenía 96 bebidas y vendió 34 durante el día. ¿Cuántas bebidas le quedan?,96-34=62 bebidas,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,7,desarrollo_breve,"Sin hacer cálculos largos, resuelve de memoria: 8 + 6 = ?",14,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 9,8,desarrollo_breve,"Inventa tu propio problema de resta usando el número 70 (por ejemplo, con dinero o con objetos de tu casa), y resuélv...","(ejemplo): ""Tenía $70 y gasté $40 en dulces. ¿Cuánto dinero me queda?"" → 70-4...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,1,desarrollo_breve,La suma 4+4+4+4+4 tiene 5 sumandos iguales a 4. Escríbela como una multiplicación: ___ × ___ = ___,5 × 4 = 20,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,2,desarrollo_breve,"::emoji::⭐::5 grupos de 2 estrellas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?",5×2=10,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,3,desarrollo_breve,Calcula: 6 × 2 = ?,12,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,4,desarrollo_breve,Calcula: 8 × 10 = ?,80,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,5,alternativas,"En un gallinero hay 7 gallinas, y cada una pone 2 huevos en un día. ¿Qué operación permite saber cuántos huevos hay e...",Multiplicación,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,6,desarrollo_breve,"En una feria, cada puesto de frutas tiene 5 canastos. Si hay 4 puestos, ¿cuántos canastos hay en total?",4×5=20 canastos,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 11,7,verdadero_falso,3×10 es lo mismo que sumar 10+10+10.,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,1,alternativas,"¿Cuál es la regla de la secuencia 10, 20, 30, 40?",sumar 10,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,2,desarrollo_breve,"Completa la secuencia: 45, 50, 55, ___, 65",60,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,3,verdadero_falso,"El patrón 88, 77, 66, 55 es creciente.",Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,4,desarrollo_breve,"Completa: 6, 12, 18, ___, 30",24,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,5,alternativas,"En la secuencia 95, 85, 75, 65, ¿cuál es la regla que se repite?",restar 10,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 12,6,desarrollo_breve,"Crea tu propia secuencia numérica creciente que empiece en 5 y use la regla ""sumar 5"", escribiendo al menos 5 números.","(ejemplo): 5, 10, 15, 20, 25",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,1,desarrollo_breve,9+4 ___ 15,<,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,2,alternativas,¿Qué símbolo hace verdadera la comparación? 6+6 ___ 12,=,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,3,verdadero_falso,La expresión 8+5 = 14 es verdadera.,Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,4,desarrollo_breve,"::emoji::🎨::una balanza equilibrada, con ""4+7"" en un platillo y ""5+6"" en el otro:: ¿Está equilibrada esta balanza? ¿P...","sí está equilibrada, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,5,desarrollo_breve,Compara: 10+9 ___ 7+7,>,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 13,6,alternativas,¿Cuál balanza representa correctamente la expresión 6+3=9?,"::emoji::🎨::balanza equilibrada, con ""6+3"" en un platillo y ""9"" en el otro::",2,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,1,alternativas,¿Cuántos lados tiene un triángulo?,3,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,2,desarrollo_breve,"Un cuadrado tiene ___ lados, todos de igual medida.",4,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,3,verdadero_falso,El círculo tiene 4 vértices.,Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,4,desarrollo_breve,"¿En qué se diferencian un cuadrado y un rectángulo, si ambos tienen 4 lados y 4 vértices?","en el cuadrado, los 4 lados miden lo mismo; en el rectángulo, solo los lados ...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,5,alternativas,¿Qué figura tiene 3 lados y 3 vértices?,Triángulo,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 15,6,desarrollo_breve,"Usando palitos de helado, ¿cuántos palitos necesitas como mínimo para construir un rectángulo? Descríbelo.","4 palitos: 2 más largos (los lados largos) y 2 más cortos (los lados cortos),...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,1,alternativas,¿Qué figura 3D tiene forma de pelota?,Esfera,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,2,desarrollo_breve,"Un dado tiene forma de ___, con 6 caras cuadradas.",cubo,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,3,verdadero_falso,El cono tiene una cara circular y una superficie curva.,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,4,alternativas,¿Qué objeto de la vida diaria tiene forma de paralelepípedo?,Una caja de zapatos,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,5,desarrollo_breve,::emoji::🎨::una lata de bebida (cilindro) y un cucurucho de helado (cono):: ¿En qué se parecen y en qué se diferencia...,ambas tienen una superficie curva y al menos una cara circular; se diferencia...,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 16,6,desarrollo_breve,"Nombra un objeto de tu casa que tenga forma de cubo, y explica cómo lo sabes.","(ejemplo): ""Un cubo mágico tiene forma de cubo, porque sus 6 caras son cuadra...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,1,alternativas,¿Qué unidad es más adecuada para medir el largo de una sala de clases?,Metros,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,2,desarrollo_breve,::emoji::🧹::una goma de borrar junto a una regla marcada en cm; la goma va desde el 0 hasta el 5:: ¿Cuánto mide la go...,5 cm,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,3,verdadero_falso,El metro (m) es una unidad más grande que el centímetro (cm).,Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,4,desarrollo_breve,Un lápiz mide 14 cm y una regla mide 30 cm. ¿Cuál objeto es más largo?,la regla,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,5,desarrollo_breve,¿Con qué unidad medirías la distancia entre tu casa y la plaza de tu barrio: con centímetros o con metros?,metros,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,6,desarrollo_breve,Antes usabas tus manos para medir el largo de una mesa. ¿Por qué es mejor usar una regla marcada en centímetros en ve...,"porque el centímetro es una unidad estandarizada: mide siempre lo mismo, sin ...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 19,7,desarrollo_breve,Una cuerda mide 40 cm y se corta un pedazo de 15 cm. ¿Cuánto mide el pedazo que queda?,40-15=25 cm,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,1,alternativas,"Según la tabla del Ejemplo 1, ¿cuántas veces salió sello?",3,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,2,verdadero_falso,"Según la tabla del Ejemplo 2, el número que salió más veces fue el 3.",Falso,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,3,desarrollo_breve,"Según la tabla del Ejemplo 2, ¿cuántas veces se lanzó el dado en total?",2+1+3+2+4+0=12 veces,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,4,desarrollo_breve,"Un niño lanzó un dado 15 veces, pero al sumar su tabla de conteo obtuvo un total de 13. ¿Está bien hecho su registro?...","no está bien hecho, porque el total de la tabla (13) no coincide con la canti...",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,5,desarrollo_breve,"Según la tabla del Ejemplo 1 (cara: 7, sello: 3), ¿salió más veces cara o sello?","cara (7 veces, más que las 3 de sello)",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 20,6,desarrollo_breve,"Un grupo de niños lanzó un dado y registró: número par (2, 4, 6): 8 veces; número impar (1, 3, 5): 5 veces. ¿Cuántas ...",8+5=13 veces,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,1,alternativas,"Según el pictograma del Ejemplo 1 (1 pelota = 2 goles), ¿cuántos goles anotó el Equipo Azul?",4,4,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,2,desarrollo_breve,"Según el pictograma del Ejemplo 1, ¿cuántos goles anotaron entre el Equipo Rojo y el Equipo Verde en total?",Rojo (6) + Verde (8) = 14 goles,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,3,verdadero_falso,"En un pictograma con escala, cada dibujo puede representar más de 1 unidad.",Verdadero,2,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,4,desarrollo_breve,"Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos llegan al colegio en bicicleta?",5 alumnos,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,5,desarrollo_breve,"Según el gráfico de barras del Ejemplo 3, ¿qué medio de transporte usan más alumnos para llegar al colegio?","a pie (12 alumnos, la barra más alta)",0,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,6,desarrollo_breve,"En una plaza hay 12 perros y 6 gatos. Si construyes un pictograma donde cada dibujo representa 2 animales, ¿cuántos d...",perros: 12÷2=6 dibujos; gatos: 6÷2=3 dibujos,0,Verificado OK,Ninguna
+2° básico,02-basico,OA 22,7,desarrollo_breve,"Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos más llegan a pie que en auto?",12-8=4 alumnos más,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,1,alternativas,"¿Cuál número corresponde a la palabra ""cuatrocientos quince""?",415,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,2,desarrollo_breve,Escribe en palabras el número 709: ___,setecientos nueve,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,3,alternativas,"::emoji::🎨::4 planchas de 100, 5 barras de 10 y 2 cubitos sueltos:: ¿Qué número representa esta cantidad?",452,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,4,verdadero_falso,"El número 1 000 se lee ""cien mil"".",Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,5,desarrollo_breve,"Escribe en cifras la palabra ""seiscientos treinta"": ___",630,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 2,6,desarrollo_breve,"En el estadio municipal de un pueblo, el marcador digital muestra la asistencia del partido: ""ochocientos catorce per...",814,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,1,alternativas,¿Cuál número es mayor: 674 o 647?,674,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,2,desarrollo_breve,"Ordena de menor a mayor: 305, 99, 720, 158 → ___, ___, ___, ___","99, 158, 305, 720",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,3,verdadero_falso,910 es menor que 890.,Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,4,desarrollo_breve,"::emoji::🌊::recta numérica del 0 al 1000 con marcas cada 100, con los puntos 340 y 780 ubicados:: ¿Cuál número está m...",780,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,5,desarrollo_breve,"Ordena de mayor a menor: 233, 890, 68, 610 → ___, ___, ___, ___","890, 610, 233, 68",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 3,6,alternativas,¿Qué palabra completa correctamente la comparación? 407 es ___ que 470.,menor,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,1,alternativas,"¿Cuántas centenas, decenas y unidades tiene el número 683?","6 centenas, 8 decenas y 3 unidades",4,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,2,desarrollo_breve,"3 centenas, 0 decenas y 9 unidades forman el número ___",309,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,3,verdadero_falso,En el número 1 000 hay 10 centenas y 0 unidades.,Verdadero,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,4,desarrollo_breve,"::emoji::🎨::2 planchas de 100, 9 barras de 10 y 4 cubitos sueltos:: ¿Qué número representa esta imagen?",294,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,5,alternativas,"En el número 852, ¿cuánto vale el dígito 5?",50,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,6,desarrollo_breve,::emoji::🎨::7 grupos de 10 fichas y 4 fichas sueltas:: Escribe la composición que representa esta imagen: ___ + ___ =...,70 + 4 = 74,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 5,7,desarrollo_breve,"Constanza tiene 946 estampillas guardadas en álbumes. ¿Cuántas centenas, decenas y unidades tiene ese número?","9 centenas, 4 decenas y 6 unidades",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,1,alternativas,Calcula: 347 + 265 = ?,612,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,2,verdadero_falso,604 − 258 = 346.,Verdadero,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,3,alternativas,Rodrigo tenía $850 ahorrados y le regalaron $120 más para su cumpleaños. ¿Qué operación permite saber cuánto dinero t...,Adición,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,4,alternativas,En una biblioteca municipal hay 683 libros y se donan 147 libros más. ¿Cuál expresión numérica resuelve cuántos libro...,683 + 147,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,5,desarrollo_breve,Una fábrica de Rancagua produjo 725 empanadas y vendió 358 durante la mañana. ¿Cuántas empanadas le quedan?,725-358=367 empanadas,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,6,desarrollo_breve,"En una semana, un almacén vendió $120, $95, $180 y $65 en distintos días. ¿Cuánto vendió en total?",120+95+180+65=$460,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 6,7,desarrollo_breve,En un colegio hay 468 estudiantes en la jornada de la mañana y 295 en la jornada de la tarde. ¿Cuántos estudiantes ha...,468+295=763 estudiantes,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,1,desarrollo_breve,La suma 8+8+8+8 tiene 4 sumandos iguales a 8. Escríbela como una multiplicación: ___ × ___ = ___,4 × 8 = 32,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,2,desarrollo_breve,"::emoji::🎨::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?",7×6=42,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,3,desarrollo_breve,Calcula: 9 × 4 = ?,36,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,4,alternativas,"Para calcular 8×6, Fernanda separó el 8 en 5+3 y usó tablas conocidas. ¿Cuál es el cálculo correcto que hizo?",(5×6) + (3×6) = 30+18=48,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,5,alternativas,"En un gallinero hay 8 gallinas, y cada una puso 7 huevos en una semana. ¿Qué operación permite saber cuántos huevos h...",Multiplicación,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,6,desarrollo_breve,"En un edificio hay 9 pisos, y en cada piso hay 6 departamentos. ¿Cuántos departamentos hay en total?",9×6=54 departamentos,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 8,7,desarrollo_breve,"Sin hacer cálculos largos, resuelve de memoria: 10×8=?",80,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,1,alternativas,Calcula: 45 ÷ 9 = ?,5,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,2,alternativas,En una sala de clases hay 28 estudiantes y se quieren formar 4 grupos con la misma cantidad de estudiantes cada uno. ...,División,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,3,alternativas,Un kiosko tiene 36 chocolates y los quiere ordenar en cajas de 6 chocolates cada una. ¿Cuál expresión numérica indica...,36÷6,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,4,desarrollo_breve,"Si sabes que 6×9=54, ¿cuál es el resultado de 54÷9?",6,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,5,desarrollo_breve,"::emoji::🎨::20 fichas repartidas en 5 grupos iguales, cada grupo con 4 fichas:: ¿Qué división representa esta imagen?",20÷5=4,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,6,desarrollo_breve,"En una feria de artesanías de Pomaire, hay 42 cántaros que se quieren repartir en partes iguales entre 7 puestos. ¿Cu...",42÷7=6 cántaros por puesto,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 9,7,verdadero_falso,"32÷8 es lo mismo que preguntarse ""¿por cuánto hay que multiplicar 8 para obtener 32?"".",Verdadero,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,1,alternativas,Valentina tiene $600 y su abuela le regala $250 más. ¿Qué operación permite saber cuánto dinero tiene ahora?,Adición,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,2,alternativas,Cada entrada al cine cuesta $2 500. ¿Cuál expresión numérica permite saber cuánto cuestan 4 entradas?,2 500×4,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,3,desarrollo_breve,Un abuelo le dio $1 000 a su nieto para el kiosko. El nieto gastó $650 en golosinas. ¿Cuánto dinero le queda?,1000-650=$350,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,4,desarrollo_breve,"En una feria libre, un kilo de manzanas cuesta $890. ¿Cuánto cuestan 5 kilos?",890×5=$4 450,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,5,desarrollo_breve,"Tres hermanos vendieron completos en una jornada y ganaron $1 500 en total, que quieren repartir en partes iguales. ¿...",1500÷3=$500 cada uno,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 10,6,desarrollo_breve,"Diego ahorró $320 en enero, $180 en febrero y $250 en marzo. ¿Cuánto ahorró en total durante esos tres meses?",320+180+250=$750,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,1,alternativas,"::emoji::🎨::un círculo dividido en 2 partes iguales, con 1 parte pintada:: ¿Qué fracción representa la parte pintada?",1/2,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,2,desarrollo_breve,"Si una pizza se divide en 4 partes iguales y te comes 3 de ellas, comiste ___ de la pizza.",3/4 (tres cuartos),0,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,3,desarrollo_breve,"::emoji::🎨::un rectángulo dividido en 3 partes iguales, con 2 partes pintadas:: ¿Qué fracción representa la parte pin...",2/3,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,4,desarrollo_breve,¿Cuál fracción es mayor: 2/4 o 3/4?,3/4,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,5,desarrollo_breve,"Describe una situación de tu vida diaria en la que hayas usado la fracción 1/2 (por ejemplo, con comida, dinero o tie...","(ejemplo): ""Compartí medio kilo de pan con mi hermano"" o ""vi la mitad de una ...",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,6,verdadero_falso,"La fracción 1/3 representa una parte más grande que la fracción 1/2, si ambas provienen del mismo todo.",Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 11,7,desarrollo_breve,"En una jarra de jugo dividida en 4 partes iguales, Pedro se sirvió 1 parte y Sofía se sirvió 2 partes. ¿Qué fracción ...",Pedro tomó 1/4 y Sofía tomó 2/4 de la jarra,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,1,alternativas,"¿Cuál es la regla de la secuencia 4, 14, 24, 34?",sumar 10,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,2,desarrollo_breve,"Completa la secuencia: 215, 225, 235, ___, 255",245,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,3,verdadero_falso,"El patrón 630, 530, 430, 330 es creciente.",Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,4,desarrollo_breve,"Completa: 12, 24, 36, ___, 60",48,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,5,alternativas,"En la secuencia 400, 350, 300, 250, ¿cuál es la regla que se repite?",restar 50,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,6,desarrollo_breve,"Crea tu propia secuencia numérica creciente que empiece en 20 y use la regla ""sumar 20"", escribiendo al menos 5 números.","(ejemplo): 20, 40, 60, 80, 100",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 12,7,desarrollo_breve,"::emoji::🎨::tabla del 100 con el número 27 destacado:: Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué nú...",47,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,1,alternativas,¿Qué figura 3D se forma al doblar una red compuesta por 6 cuadrados iguales unidos en forma de cruz?,Cubo,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,2,desarrollo_breve,La red de un paralelepípedo (como una caja de zapatos) está formada por ___ rectángulos.,6,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,3,verdadero_falso,"Al desplegar un cono, se obtienen 2 figuras 2D: un círculo y una figura curva (llamada sector circular).",Verdadero,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,4,desarrollo_breve,::emoji::☀️::dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértice...,la red A,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,5,desarrollo_breve,¿Qué figura 3D se forma con una red compuesta por 2 círculos y 1 rectángulo (que se enrolla para unir los círculos)?,un cilindro (como una lata de bebida),0,Verificado OK,Ninguna
+3° básico,03-basico,OA 15,6,desarrollo_breve,"Si tuvieras que construir la red de un cubo usando cartulina, ¿cuántos cuadrados necesitarías dibujar y recortar?","6 cuadrados, todos del mismo tamaño",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,1,alternativas,Un rectángulo mide 6 cm de largo y 3 cm de ancho. ¿Cuál es su perímetro?,18 cm,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,2,desarrollo_breve,Un cuadrado tiene lados de 9 m cada uno. Su perímetro es ___ m.,36,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,3,verdadero_falso,El perímetro de una figura es la medida de todo su contorno.,Verdadero,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,4,desarrollo_breve,Un patio cuadrado tiene un perímetro de 28 m. ¿Cuánto mide cada lado?,7 m,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,5,desarrollo_breve,"::emoji::🎨::una figura irregular con lados de 4 cm, 6 cm, 3 cm y 5 cm:: ¿Cuál es el perímetro de esta figura?",18 cm,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,6,desarrollo_breve,Un profesor quiere poner cinta de papel alrededor de una pizarra rectangular que mide 2 m de largo y 1 m de ancho. ¿C...,2+1+2+1=6 m de cinta,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 21,7,desarrollo_breve,"¿Cuál figura tiene mayor perímetro: un cuadrado de lado 10 cm, o un rectángulo de 12 cm de largo y 6 cm de ancho?",el cuadrado tiene perímetro 4×10=40 cm; el rectángulo tiene perímetro 12+6+12...,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,1,alternativas,¿Cuántos gramos equivalen a 1 kilogramo?,1 000 g,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,2,desarrollo_breve,¿Qué pesa más: un objeto de 700 g o un objeto de 1 kg?,el objeto de 1 kg,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,3,verdadero_falso,Un elefante se pesa más fácilmente en gramos que en kilogramos.,Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,4,desarrollo_breve,"Si un paquete de arroz pesa aproximadamente 1 kg, ¿cuál es una buena estimación del peso de 3 paquetes iguales?",aproximadamente 3 kg,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,5,desarrollo_breve,"Ordena de más liviano a más pesado: una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g).","manzana (150 g), paquete de galletas (300 g), sandía (4 kg = 4 000 g)",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,6,desarrollo_breve,"En la feria, Ignacio compra 2 kg de papas y 500 g de cebollas. ¿Cuántos gramos en total está llevando?",2 kg = 2 000 g; 2 000+500=2 500 g en total,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 22,7,desarrollo_breve,Un paquete de mantequilla pesa medio kilogramo (1/2 kg). ¿Cuántos gramos son?,500 g,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,1,alternativas,"Según el pictograma del Ejemplo 1 (1 huella = 5 mascotas), ¿cuántos conejos hay registrados?",5,4,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,2,desarrollo_breve,"Según el pictograma del Ejemplo 1, ¿cuántas mascotas hay registradas en total (perros, gatos y conejos)?",20+10+5=35 mascotas,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,3,verdadero_falso,"En un pictograma con escala, siempre 1 dibujo representa exactamente 1 unidad.",Falso,2,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,4,desarrollo_breve,"Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes eligieron natación como su deporte favorito?",8 estudiantes,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,5,desarrollo_breve,"Según el gráfico de barras del Ejemplo 2, ¿qué deporte fue elegido por más estudiantes?","fútbol (10 estudiantes, la barra más alta)",0,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,6,desarrollo_breve,"En una plaza se contaron 30 palomas y 15 gorriones. Si construyes un pictograma donde cada dibujo representa 5 aves, ...",palomas: 30÷5=6 dibujos; gorriones: 15÷5=3 dibujos,0,Verificado OK,Ninguna
+3° básico,03-basico,OA 25,7,desarrollo_breve,"Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes más eligieron fútbol que básquetbol?",10-6=4 estudiantes más,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,1,alternativas,¿Cuál es el valor posicional del dígito 7 en el número 7.352?,Unidad de mil,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,2,verdadero_falso,"En el número 3.084, el dígito 8 representa 8 decenas.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,3,desarrollo_breve,Descompón en forma aditiva el número 9.207 según su valor posicional.,"9.207 = 9.000 + 200 + 0 + 7, es decir, 9.000 + 200 + 7",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,4,alternativas,¿Cuál de los siguientes números es mayor?,6.824,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,5,desarrollo_breve,Matías tiene 3 billetes de $2.000 y 5 monedas de $100. ¿Cuánto dinero tiene en total?,3 × $2.000 = $6.000; 5 × $100 = $500; $6.000 + $500 = $6.500,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 1,6,desarrollo_breve,"Completa la secuencia contando de 100 en 100: 2.400, 2.500, ___, ___, 2.800.",2.600 y 2.700,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,1,alternativas,Resuelve: 428 + 357 = ?,785,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,2,verdadero_falso,"Para estimar el resultado de 493 + 208, se puede redondear a 500 + 200 = 700.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,3,desarrollo_breve,Calcula 612 − 345 mostrando el procedimiento (algoritmo).,612 − 345 = 267. (Comprobación: 267 + 345 = 612 ✓,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,4,desarrollo_breve,En una feria escolar se vendieron 145 empanadas el sábado y 98 el domingo. ¿Cuántas empanadas se vendieron en total?,145 + 98 = 243 empanadas,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,5,alternativas,Pedro tenía $850 y gastó $320 en útiles escolares. ¿Qué operación permite saber cuánto dinero le queda?,Sustracción,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 3,6,desarrollo_breve,"Una biblioteca recibió donaciones de libros durante la semana: 45 el lunes, 60 el martes, 38 el miércoles y 52 el jue...",45 + 60 + 38 + 52 = 195 libros,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,1,alternativas,Calcula 214 × 3 = ?,642,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,2,verdadero_falso,"Usando la propiedad distributiva, 325 × 4 se puede calcular como (300×4) + (20×4) + (5×4).",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,3,desarrollo_breve,Resuelve 456 × 2 aplicando el algoritmo de la multiplicación.,912,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,4,alternativas,En un estadio hay 8 galerías y cada una tiene 145 asientos. ¿Qué operación permite saber cuántos asientos hay en total?,Multiplicación,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,5,desarrollo_breve,Una imprenta produce 216 cuadernos por día. ¿Cuántos cuadernos produce en 3 días?,216 × 3 = 648 cuadernos,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 5,6,alternativas,Estima el resultado de 189 × 4 redondeando 189 a la centena más cercana. ¿Cuál es la mejor estimación?,800,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,1,alternativas,Calcula 84 ÷ 4 = ?,21,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,2,verdadero_falso,"63 ÷ 7 = 9, porque 9 × 7 = 63.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,3,desarrollo_breve,Calcula 91 ÷ 7 usando la estrategia de descomposición del dividendo.,91 = 70 + 21; 70÷7=10 y 21÷7=3; 10+3 = 13,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,4,alternativas,Se repartieron 48 lápices en partes iguales entre 6 estudiantes. ¿Qué operación permite saber cuántos lápices recibió...,División,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,5,desarrollo_breve,Una profesora tiene 78 stickers y los reparte en partes iguales entre 6 estudiantes. ¿Cuántos stickers recibe cada uno?,78 ÷ 6 = 13 stickers,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 6,6,alternativas,"Estima el cociente de 79 ÷ 4, redondeando el dividendo a 80.",20,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,1,alternativas,Camila compró un cuaderno de $1.200 y un lápiz de $350. ¿Cuánto gastó en total?,$1.550,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,2,alternativas,Diego tenía $3.000 y gastó $1.250 en un jugo y una colación. ¿Qué operación permite saber cuánto dinero le queda?,Sustracción,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,3,desarrollo_breve,Un boleto de micro cuesta $260. ¿Cuánto pagarán en total 3 amigos que viajan juntos?,260 × 3 = $780,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,4,desarrollo_breve,"Valentina quiere comprar una pelota de $4.500. Ya ahorró $1.800 vendiendo dulces, y su papá le va a dar $1.200 más. ¿...",1.800 + 1.200 = 3.000 (lo que tendrá); 4.500 − 3.000 = $1.500 le faltan,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,5,verdadero_falso,"Si compras 5 completos a $1.000 cada uno y pagas con un billete de $10.000, el vuelto es $5.000.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 7,6,alternativas,Se repartieron $960 en partes iguales entre 4 hermanos. ¿Cuál expresión numérica resuelve el problema?,960 ÷ 4,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,1,alternativas,Una torta se dividió en 6 partes iguales y Martina comió 2. ¿Qué fracción representa lo que comió?,2/6,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,2,verdadero_falso,"En la fracción 5/8, el número 8 indica en cuántas partes iguales se dividió el entero.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,3,desarrollo_breve,"Ordena de menor a mayor las siguientes fracciones, considerando que todas se refieren al mismo entero: 1/2, 1/8, 1/4.",1/8 < 1/4 < 1/2,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,4,desarrollo_breve,"En un curso de 10 estudiantes, 3 tienen una mascota gato. ¿Qué fracción de los estudiantes del curso tiene gato?",3/10,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,5,alternativas,"¿Cuál fracción es mayor, si ambas se refieren al mismo entero?",1/3,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 8,6,alternativas,¿Qué fracción corresponde al punto medio entre 0 y 1 en la recta numérica?,1/2,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,1,alternativas,Calcula: 3/10 + 4/10 = ?,7/10,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,2,verdadero_falso,"Para sumar 2/5 + 1/5, se suman los denominadores y se mantiene el numerador.",Falso,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,3,desarrollo_breve,Calcula 7/8 − 3/8 mostrando tu procedimiento.,7/8 − 3/8 = 4/8,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,4,desarrollo_breve,Agustín pintó 2/6 de una pared el sábado y 3/6 el domingo. ¿Qué fracción de la pared lleva pintada en total?,2/6 + 3/6 = 5/6 de la pared,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,5,alternativas,De una cinta de género se usaron 3/12 para un disfraz y luego 4/12 para otro disfraz. ¿Cuál expresión numérica resuel...,3/12 + 4/12,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 9,6,desarrollo_breve,"Un bidón contenía 9/10 de aceite. Después de cocinar, quedan 4/10. ¿Qué fracción de aceite se usó?",9/10 − 4/10 = 5/10 de aceite se usó,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,1,alternativas,"¿Cuál es la regla de la secuencia 5, 10, 15, 20...?",Sumar 5,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,2,desarrollo_breve,"Completa la tabla según el patrón ""multiplicar por 4"": 1 → 4, 2 → 8, 3 → ___, 4 → ___.","3 → 12, 4 → 16",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,3,verdadero_falso,"En la secuencia 2, 6, 10, 14, 18, el patrón es ""sumar 4"".",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,4,desarrollo_breve,"La secuencia 3, 6, 9, 13, 15 tiene un error. ¿Cuál número está incorrecto y cuál debería ser?","el patrón es ""sumar 3"" (3, 6, 9, 12, 15). El número incorrecto es 13; debería...",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,5,alternativas,"En la siguiente tabla, ¿cuál es la regla que relaciona la cantidad de cajas con la cantidad de manzanas? | Cajas | 1 ...",Multiplicar por 6,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 13,6,desarrollo_breve,"Usando la tabla de la pregunta anterior, ¿cuántas manzanas habrá en 5 cajas?",5 × 6 = 30 manzanas,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,1,alternativas,Resuelve: x + 6 = 14. ¿Cuál es el valor de x?,8,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,2,verdadero_falso,"En la ecuación x − 9 = 11, el valor de x es 20.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,3,desarrollo_breve,Resuelve y comprueba: x + 15 = 32.,x = 32 − 15 = 17. Comprobación: 17 + 15 = 32,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,4,desarrollo_breve,"En una balanza equilibrada hay una caja de valor desconocido (x) y una pesa de 3 kg de un lado, y una pesa de 10 kg d...",la ecuación es x + 3 = 10; x = 10 − 3 = 7,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,5,alternativas,¿Cuál de los siguientes valores de x cumple la inecuación x + 5 < 12?,6,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 14,6,desarrollo_breve,"Camila tenía cierta cantidad de dinero. Después de gastar $25 en una colación, le quedaron $60. ¿Cuánto dinero tenía ...",la ecuación es x − 25 = 60; x = 60 + 25 = $85,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,1,alternativas,¿Cuántas líneas de simetría tiene un círculo?,Infinitas,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,2,verdadero_falso,"La letra ""M"" mayúscula tiene una línea de simetría vertical.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,3,verdadero_falso,"La letra ""P"" mayúscula tiene una línea de simetría.",Falso,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,4,desarrollo_breve,"Da un ejemplo de un objeto de la naturaleza que presente simetría, y explica brevemente por qué.","(ejemplo): una hoja de árbol, una mariposa o un copo de nieve. Por ejemplo, u...",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,5,desarrollo_breve,¿Cuántas líneas de simetría tiene un triángulo equilátero (con sus 3 lados iguales)?,3 líneas de simetría (una desde cada vértice hasta el punto medio del lado op...,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 17,6,alternativas,¿Cuál de las siguientes figuras NO tiene ninguna línea de simetría?,Triángulo escaleno (con sus 3 lados de distinta medida),4,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,1,alternativas,"Cuando una figura se desliza en línea recta sin girar ni voltearse, se llama:",Traslación,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,2,verdadero_falso,Una reflexión es como ver la imagen de una figura en un espejo.,Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,3,alternativas,"Si una figura gira 180° alrededor de un punto, queda:",En la posición opuesta (al revés),4,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,4,desarrollo_breve,"Camila observa que la sombra de un árbol reflejada en el agua de un lago se ve ""al revés"", como en un espejo. ¿Qué tr...",reflexión,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,5,desarrollo_breve,Un ajedrecista mueve una pieza 3 casillas hacia la derecha sin girarla ni voltearla. ¿Qué transformación geométrica r...,traslación,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 18,6,desarrollo_breve,"Describe cómo se vería la letra ""b"" minúscula si se refleja verticalmente (como en un espejo colocado a su derecha).","se vería como la letra ""d""",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,1,alternativas,¿Qué unidad usarías para medir el largo de un lápiz?,Centímetro,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,2,desarrollo_breve,Transforma 5 metros a centímetros.,5 × 100 = 500 centímetros,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,3,desarrollo_breve,Transforma 250 centímetros a metros.,"250 ÷ 100 = 2,5 metros (2 metros y 50 centímetros)",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,4,verdadero_falso,1 metro equivale a 100 centímetros.,Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,5,desarrollo_breve,Un pasillo del colegio mide 8 metros de largo. Vicente ya recorrió 350 cm caminando. ¿Cuántos centímetros le faltan p...,8 m = 800 cm; 800 − 350 = 450 cm,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 22,6,desarrollo_breve,"Una cinta mide 120 cm y otra mide 1 metro. ¿Cuál cinta es más larga, y por cuántos centímetros?","1 metro = 100 cm; 120 cm > 100 cm, por lo tanto la primera cinta es más larga...",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,1,alternativas,Un rectángulo mide 7 cm de largo y 3 cm de ancho. ¿Cuál es su área?,21 cm²,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,2,desarrollo_breve,Calcula el área de un cuadrado cuyo lado mide 6 metros.,6 × 6 = 36 m²,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,3,verdadero_falso,"El área se mide en unidades cuadradas, como cm² o m².",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,4,desarrollo_breve,Un rectángulo tiene un área de 20 cm² y su largo mide 5 cm. ¿Cuánto mide su ancho?,20 ÷ 5 = 4 cm,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,5,alternativas,¿Cuál de los siguientes rectángulos tiene un área de 18 cm²?,3 cm × 6 cm,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 23,6,desarrollo_breve,El patio rectangular de la casa de Fernanda mide 8 metros de largo por 5 metros de ancho. ¿Cuál es el área del patio?,8 × 5 = 40 m²,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,1,alternativas,"Según el pictograma, ¿cuántos perros hay en la clase de Mateo?",6,4,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,2,verdadero_falso,"Según el pictograma, hay más aves que perros en la clase de Mateo.",Verdadero,2,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,3,desarrollo_breve,"Según el gráfico, ¿qué día se vendieron más helados?","el martes (6 cuadritos × 5 = 30 helados, la cantidad más alta de la semana)",0,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,4,desarrollo_breve,¿Cuántos helados se vendieron en total durante los cuatro días que muestra el gráfico?,lunes 20 + martes 30 + miércoles 10 + jueves 25 = 85 helados,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,5,desarrollo_breve,¿Cuántos helados más se vendieron el lunes que el miércoles?,lunes = 20 helados; miércoles = 10 helados; 20 − 10 = 10 helados más,0,Verificado OK,Ninguna
+4° básico,04-basico,OA 27,6,alternativas,"Si cada símbolo de un pictograma representa 3 mascotas y la categoría ""Gato"" tiene 4 símbolos, ¿cuántos gatos hay?",12,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,1,alternativas,¿Cuál es el valor posicional del dígito 6 en el número 6.412.098?,Unidad de millón,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,2,verdadero_falso,"En el número 705.340, el dígito 5 representa 5.000.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,3,desarrollo_breve,Descompón en forma aditiva (expandida) el número 3.204.056.,3.204.056 = 3.000.000 + 200.000 + 4.000 + 50 + 6,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,4,alternativas,¿Cuál de los siguientes números es el mayor?,5.879.100,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,5,desarrollo_breve,Aproxima el número 127.480 a la decena de mil más cercana.,130.000,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 1,6,desarrollo_breve,Ordena de menor a mayor: 980.500 — 89.500 — 908.005 — 980.050.,89.500 < 908.005 < 980.050 < 980.500,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,1,alternativas,Calcula 23 × 15 = ?,345,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,2,verdadero_falso,Una buena estimación de 39 × 21 es 40 × 20 = 800.,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,3,desarrollo_breve,Resuelve 47 × 36 aplicando el algoritmo de la multiplicación (puedes comprobar con calculadora).,1.692,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,4,alternativas,Un camión reparte 18 cajas a cada una de 25 tiendas. ¿Cuál expresión numérica permite calcular el total de cajas repa...,18 × 25,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,5,desarrollo_breve,"Una feria de artesanías tiene 15 puestos, y cada puesto exhibe 24 productos distintos. ¿Cuántos productos hay en tota...",15 × 24 = 360 productos,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 3,6,alternativas,Estima el resultado de 62 × 19 redondeando ambos números a la decena más cercana.,1.200,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,1,alternativas,Calcula 156 ÷ 7. ¿Cuál es el cociente y el resto?,"Cociente 22, resto 2",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,2,verdadero_falso,"Si se reparten 92 lápices en partes iguales entre 6 estudiantes, a cada uno le tocan 15 lápices y sobran 2.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,3,desarrollo_breve,Se quieren envasar 275 huevos en bandejas de 6 huevos cada una. ¿Cuántas bandejas se necesitan como mínimo para envas...,"275 ÷ 6 = 45, resto 5. Como sobran 5 huevos que también necesitan bandeja, se...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,4,desarrollo_breve,"Se reparten 190 caramelos en partes iguales entre 8 niños, dando a cada uno la mayor cantidad posible. ¿Cuántos caram...","190 ÷ 8 = 23, resto 6. Cada niño recibe 23 caramelos, y sobran 6 que no se pu...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,5,alternativas,Un pastelero preparó 324 cupcakes para vender en cajas de 9 unidades cada una. ¿Cuál expresión numérica permite saber...,324 ÷ 9,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 4,6,desarrollo_breve,Un club deportivo recibió $438 en monedas de $5 para contar cuántas monedas hay. Usa una calculadora para dividir y r...,"438 ÷ 5 = 87, resto 3 (87 × 5 = 435; 438 − 435 = 3). Hay 87 monedas de $5, y ...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,1,alternativas,"Un supermercado vende 5 kilos de manzanas a $1.290 el kilo. Si Camila paga con un billete de $10.000, ¿cuánto es su v...",$3.550,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,2,verdadero_falso,Para calcular cuánto paga cada uno de 4 amigos que se reparten en partes iguales el costo de una pizza de $12.000 más...,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,3,desarrollo_breve,Un colegio compró 18 balones de fútbol a $8.500 cada uno y 12 balones de básquetbol a $9.200 cada uno. ¿Cuánto gastó ...,18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = $263.400,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,4,alternativas,Una tienda tenía 240 cuadernos. Vendió la mitad en la mañana y luego recibió una caja con 90 cuadernos más. ¿Qué oper...,"División, luego suma",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,5,desarrollo_breve,Un evento deportivo vendió 3.250 entradas a $7.500 cada una. Usa una calculadora si lo necesitas: ¿cuánto dinero se r...,3.250 × 7.500 = $24.375.000,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 6,6,desarrollo_breve,Valentina ahorra $3.500 cada semana. Quiere comprar una bicicleta de $52.000. Ya tiene ahorrados $10.000. ¿Cuántas se...,le faltan 52.000 − 10.000 = 42.000; 42.000 ÷ 3.500 = 12 semanas exactas,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,1,alternativas,¿Cuál de las siguientes fracciones es equivalente a 1/2?,4/8,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,2,verdadero_falso,La fracción 9/12 simplificada es 3/4.,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,3,desarrollo_breve,"Amplifica la fracción 3/5 multiplicando por 3, y escribe la fracción equivalente resultante.",3/5 = (3×3)/(5×3) = 9/15,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,4,desarrollo_breve,"¿Cuál fracción es mayor, 2/3 o 3/5?",amplificando a un denominador común (15): 2/3 = 10/15 y 3/5 = 9/15. Como 10 >...,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,5,alternativas,¿Cuál de estos pares de fracciones NO es equivalente?,2/5 y 3/8,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 7,6,desarrollo_breve,"En una fiesta, se sirvió pizza y quedó 6/8 de una pizza sin comer, mientras que de otra pizza igual quedó 3/4 sin com...","6/8 se simplifica a 3/4, por lo tanto ambas pizzas tienen la misma cantidad s...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,1,alternativas,¿Cuál es el decimal correspondiente a la fracción 3/10?,"0,3",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,2,verdadero_falso,"La fracción 1/4 es igual al decimal 0,25.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,3,desarrollo_breve,"Transforma la fracción 1/5 a decimal, mostrando tu procedimiento.","1/5 = 2/10 (amplificando ×2) = 0,2",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,4,desarrollo_breve,"Une mentalmente: ¿qué fracción corresponde al decimal 0,5? a) 1/5 b) 5/100 c) 1/2 d) 1/10",c) 1/2,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,5,desarrollo_breve,Transforma 3/4 a decimal.,"3/4 = 75/100 = 0,75",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 10,6,desarrollo_breve,Un litro de bebida se repartió y quedan 2/5 del contenido. Expresa esa cantidad como decimal.,"2/5 = 4/10 = 0,4 litros",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,1,alternativas,"¿Cuál número es mayor, 0,8 o 0,75?","0,8",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,2,verdadero_falso,"El número 3,099 es mayor que 3,1.",Falso,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,3,desarrollo_breve,"Ordena de menor a mayor: 4,2 — 4,25 — 4,205 — 4,02.","4,02 < 4,2 < 4,205 < 4,25",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,4,desarrollo_breve,"En una carrera, Joaquín corrió los 100 metros en 15,82 segundos y Martín en 15,79 segundos. ¿Quién fue más rápido?","Martín, porque 15,79 < 15,82 (un menor tiempo significa mayor rapidez)",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,5,alternativas,¿Cuál de los siguientes números decimales es el mayor?,"6,19",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 11,6,desarrollo_breve,"Dos productos cuestan $1.250,5 y $1.250,05 respectivamente (en miles de pesos, por ejemplo, escrito como decimal). ¿C...","$1.250,5, porque 1.250,50 > 1.250,05 (comparando los décimos: 5 contra 0)",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,1,alternativas,Calcula: 1/3 + 1/6 = ?,1/2,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,2,verdadero_falso,"Para sumar 2,3 + 1,45, se puede escribir 2,30 + 1,45 para alinear las cifras decimales, obteniendo 3,75.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,3,desarrollo_breve,"Calcula 3/4 − 1/2, mostrando tu procedimiento.",1/2 = 2/4; 3/4 − 2/4 = 1/4,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,4,desarrollo_breve,"Andrea compró un cuaderno de $2,50 (en miles) y un lápiz de $0,75 (en miles). ¿Cuánto gastó en total?","2,50 + 0,75 = $3,25 (en miles, es decir, $3.250)",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,5,desarrollo_breve,"Una receta necesita 2/3 de taza de harina, pero Sofía ya puso 1/3 de taza. ¿Cuánta harina le falta agregar?",2/3 − 1/3 = 1/3 de taza,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 13,6,desarrollo_breve,"Diego recorrió 1,25 km caminando y luego 0,8 km más en bicicleta. ¿Cuántos kilómetros recorrió en total?","1,25 + 0,80 = 2,05 km",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,1,alternativas,"¿Cuál es la regla de la secuencia 7, 12, 17, 22, 27...?",Sumar 5,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,2,desarrollo_breve,"Extiende la secuencia siguiendo la regla ""comenzar en 5 y multiplicar por 2 cada vez"": 5, 10, 20, ___, ___.",40 y 80,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,3,verdadero_falso,"En la secuencia 100, 91, 82, 73, la regla de formación es ""restar 9"".",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,4,desarrollo_breve,"En la secuencia 2, 5, 8, 11, ... (que suma 3 cada vez), ¿cuál es el término número 15?",el primer término es 2; para llegar al término 15 se suma 3 un total de 14 ve...,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,5,desarrollo_breve,"Describe con tus propias palabras la regla de formación de la secuencia: 81, 27, 9, 3, 1.","cada término se obtiene dividiendo el anterior por 3 (o, equivalentemente, es...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 14,6,desarrollo_breve,"Camila ahorra $2.000 la primera semana, y cada semana siguiente ahorra $500 más que la semana anterior (2.000, 2.500,...","2.000, 2.500, 3.000, 3.500, 4.000 (quinta semana)",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,1,alternativas,Resuelve: x + 128 = 350. ¿Cuál es el valor de x?,222,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,2,verdadero_falso,"En la ecuación x − 340 = 560, el valor de x es 900.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,3,desarrollo_breve,Resuelve y comprueba: x + 1.250 = 3.000.,x = 3.000 − 1.250 = 1.750. Comprobación: 1.750 + 1.250 = 3.000,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,4,alternativas,Un estanque tenía cierta cantidad de agua. Se agregaron 850 litros y ahora tiene 2.100 litros. ¿Cuál ecuación represe...,x + 850 = 2.100,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,5,desarrollo_breve,"Para poder subir a un juego mecánico, un niño debe pesar más de 25 kg. Si x representa el peso del niño, ¿cuál inecua...","la inecuación es x > 25. Cumplen la condición solo los pesos mayores que 25, ...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 15,6,desarrollo_breve,"En una balanza equilibrada hay una caja de peso desconocido (x) de un lado, y del otro lado hay 12 kg. Si se quita un...",x = 75 − 30 = 45,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,1,alternativas,¿Cuántos pares de lados paralelos tiene un rectángulo?,2,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,2,verdadero_falso,Dos líneas perpendiculares siempre se cruzan formando un ángulo de 90°.,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,3,desarrollo_breve,"Explica la diferencia entre dos líneas que ""se intersecan"" y dos líneas ""perpendiculares"".","dos líneas que se intersecan simplemente se cruzan en algún punto, formando c...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,4,alternativas,"En un prisma rectangular (como una caja de zapatos), ¿qué relación tienen las dos caras opuestas más grandes (la de a...",Son paralelas,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,5,desarrollo_breve,Dibuja mentalmente un trapecio (una figura de 4 lados donde solo un par de lados es paralelo). ¿Cuántos pares de lado...,"un trapecio tiene 4 lados en total, pero solo 1 par de lados paralelos (los o...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 17,6,desarrollo_breve,"Observa las paredes de una sala de clases: la pared del pizarrón y el piso, ¿qué relación geométrica representan gene...",son perpendiculares (forman un ángulo de 90° donde la pared se encuentra con ...,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,1,alternativas,Dos figuras son congruentes cuando:,Tienen la misma forma y el mismo tamaño,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,2,verdadero_falso,"Una traslación, una rotación y una reflexión siempre producen una figura congruente con la original.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,3,desarrollo_breve,"Un rombo se dibuja en una cuadrícula y luego se dibuja el mismo rombo ""al revés"" (como girado media vuelta) en otra p...",una rotación (de 180°),0,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,4,desarrollo_breve,"Explica con tus propias palabras por qué dos figuras congruentes pueden verse ""distintas"" a simple vista aunque sean ...","(ejemplo): porque pueden estar en distinta posición, orientación (rotadas) o ...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,5,alternativas,¿Cuál de las siguientes transformaciones NO conserva la congruencia de una figura?,Agrandarla al doble de su tamaño,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 18,6,desarrollo_breve,"En una cuadrícula, un triángulo A está ubicado en la esquina inferior izquierda. Un triángulo B, de la misma forma y ...","la transformación es una traslación (5 cuadros arriba y 3 a la derecha), y sí...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,1,alternativas,¿Cuántos milímetros hay en 1 centímetro?,10,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,2,desarrollo_breve,Transforma 7 centímetros a milímetros.,7 × 10 = 70 mm,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,3,desarrollo_breve,Transforma 3.500 milímetros a metros.,"3.500 mm = 350 cm (dividiendo por 10) = 3,5 metros (dividiendo por 100)",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,4,verdadero_falso,1 metro equivale a 1.000 milímetros.,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,5,alternativas,¿Qué unidad usarías para medir el grosor de una moneda?,Milímetro,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 19,6,desarrollo_breve,"Una regla mide 300 mm de largo y otra mide 28 cm. ¿Cuál regla es más larga, y por cuántos milímetros?","28 cm = 280 mm; 300 mm > 280 mm, por lo tanto la primera regla es más larga p...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,1,alternativas,¿Cuál es el área de un triángulo con base 10 cm y altura 6 cm?,30 cm²,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,2,verdadero_falso,El área de un paralelogramo con base 9 cm y altura 4 cm es 36 cm².,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,3,desarrollo_breve,"Calcula el área de un trapecio con base mayor de 14 cm, base menor de 8 cm y altura de 5 cm.",((14+8) × 5) ÷ 2 = (22 × 5) ÷ 2 = 110 ÷ 2 = 55 cm²,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,4,desarrollo_breve,"Un terreno de forma irregular se dibuja sobre una cuadrícula donde cada cuadrito representa 1 m². Al contar, hay 18 c...","18 cuadritos completos (18 m²) + 6 medios cuadritos (6 × 0,5 = 3 m²) = 21 m² ...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,5,desarrollo_breve,"Un techo tiene forma de triángulo, con una base de 12 metros y una altura de 4 metros. ¿Cuántos metros cuadrados de t...",(12 × 4) ÷ 2 = 48 ÷ 2 = 24 m²,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 22,6,alternativas,¿Qué fórmula usarías para calcular el área de un paralelogramo con base b y altura h?,b × h,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,1,alternativas,"¿Cuál es el promedio de los siguientes datos: 8, 10, 12, 6, 9?",9,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,2,verdadero_falso,"Para calcular el promedio de un conjunto de datos, se suman todos los datos y se multiplica por la cantidad de datos.",Falso,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,3,desarrollo_breve,"Un vendedor registró estas ventas diarias durante 5 días: $12.000, $15.000, $9.000, $18.000, $11.000. Calcula el prom...",12.000+15.000+9.000+18.000+11.000 = 65.000; 65.000 ÷ 5 = $13.000 promedio diario,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,4,alternativas,El promedio de estatura de 4 estudiantes es 145 cm. ¿Qué significa esto?,"Si se sumaran las 4 estaturas y se repartieran en partes iguales, cada una se...",4,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,5,desarrollo_breve,"El promedio de 3 números es 20. Si dos de ellos son 15 y 22, ¿cuál es el tercer número?",suma total = 20 × 3 = 60; 15 + 22 = 37; tercer número = 60 − 37 = 23,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 23,6,desarrollo_breve,"Matías anotó su tiempo en 4 carreras de 100 metros: 16 seg, 15 seg, 17 seg y 16 seg. ¿Cuál es su tiempo promedio?",16+15+17+16 = 64; 64 ÷ 4 = 16 segundos promedio,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,1,alternativas,En una bolsa hay 6 bolitas rojas y 1 bolita verde. ¿Cómo describirías la posibilidad de sacar la bolita verde?,Poco posible,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,2,verdadero_falso,"Si en una bolsa solo hay bolitas amarillas, sacar una bolita azul es imposible.",Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,3,desarrollo_breve,"Al lanzar un dado común de 6 caras (numerado 1 al 6), describe con una palabra (seguro, posible, poco posible o impos...",a) seguro (todos los números del dado son menores que 7); b) imposible (el da...,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,4,desarrollo_breve,Una ruleta tiene 10 espacios iguales: 7 son rojos y 3 son azules. ¿Qué color es más probable que salga al girar la ru...,"el color rojo, porque hay más espacios rojos (7) que azules (3), por lo tanto...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,5,alternativas,"Si lanzas una moneda normal (con cara y sello), ¿cómo describirías la posibilidad de obtener sello?",Posible,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 24,6,desarrollo_breve,"En una caja hay 9 pelotas: 8 son de básquetbol y 1 es de fútbol. Sin mirar, se saca una pelota al azar. Describe la p...","es poco posible, porque solo hay 1 pelota de fútbol entre las 9 totales, así ...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,1,alternativas,"Según la tabla del Ejemplo 1 (Ana: 5, Beto: 3, Carla: 7, Diego: 4 libros), ¿cuántos libros leyeron entre todos?",19,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,2,verdadero_falso,Un gráfico de línea es especialmente útil para mostrar cómo cambia un valor a lo largo del tiempo.,Verdadero,2,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,3,desarrollo_breve,"Usando los datos de temperatura del Ejemplo 2 (8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C), ¿en qué in...","entre las 14:00 y las 16:00, la temperatura bajó de 22°C a 18°C, es decir, ba...",0,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,4,alternativas,"Un gráfico de barras muestra las ventas de una tienda en 4 días: lunes 20, martes 35, miércoles 15, jueves 30 (en uni...",Miércoles,4,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,5,desarrollo_breve,"Se sabe que un club deportivo tuvo estas inscripciones nuevas cada mes: marzo 12, abril 18, mayo 9. Completa la tabla...",12 + 18 + 9 = 39 inscripciones en total,0,Verificado OK,Ninguna
+5° básico,05-basico,OA 26,6,desarrollo_breve,"Un gráfico de línea muestra el peso de un cachorro medido cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6...","entre el mes 1 y el mes 2, aumentó 1,5 kg (de 2 a 3,5 kg); entre el mes 2 y e...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 2,1,alternativas,Una empresa vendió 3.420 productos a $12.500 cada uno. ¿Cuánto recaudó en total?,$42.750.000,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 2,2,verdadero_falso,"Para repartir $156.000 en partes iguales entre 12 personas, cada una recibe $13.000.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 2,3,desarrollo_breve,Un colegio compra 45 notebooks a $185.000 cada uno y recibe un descuento total de $350.000 por la compra al por mayor...,45 × 185.000 = 8.325.000; 8.325.000 − 350.000 = $7.975.000,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 2,4,alternativas,Una fábrica produce 24.600 botellas al día. Las reparte en cajas de 12 botellas cada una para vender a 3 distribuidor...,"División, luego división",4,Ajuste Editorial,MAT-CONT-001: división con reparto sin explicitar resto (sobra 1 caja)
+6° básico,06-basico,OA 2,5,desarrollo_breve,Una feria vendió entradas: 1.240 adultos a $6.500 cada uno y 890 niños a $3.200 cada uno. Usa calculadora: ¿cuánto se...,(1.240 × 6.500) + (890 × 3.200) = 8.060.000 + 2.848.000 = $10.908.000,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 2,6,desarrollo_breve,"Se calculó que 28.400 ÷ 40 = 710. Sin usar calculadora, explica cómo podrías comprobar rápidamente si ese resultado e...","se puede estimar redondeando: 28.000 ÷ 40 = 700, muy cerca de 710, por lo tan...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 3,1,alternativas,En una fiesta hay 15 mujeres y 10 hombres. ¿Cuál es la razón simplificada entre mujeres y hombres?,3:2,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 3,2,verdadero_falso,La razón 4:6 es equivalente a la razón 2:3.,Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 3,3,desarrollo_breve,"En una granja hay vacas y gallinas en razón 3:7. Si hay 9 vacas, ¿cuántas gallinas hay?","9 ÷ 3 = 3, por lo tanto la razón se amplificó por 3: 3×3 : 7×3 = 9:21. Hay 21...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 3,4,alternativas,Un jugo concentrado se prepara mezclando 1 parte de concentrado por cada 4 partes de agua. ¿Cuál es la razón entre co...,1:4,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 3,5,desarrollo_breve,"En una biblioteca, la razón entre libros de cuentos y libros de ciencia es 5:3. Si hay 15 libros de cuentos, ¿cuántos...","15 ÷ 5 = 3, por lo tanto 3×3 : 5×3... cuidado con el orden: 5:3 amplificado p...",0,Ajuste Editorial,MAT-CONT-002: nota interna editorial en respuesta esperada
+6° básico,06-basico,OA 3,6,desarrollo_breve,"Dibuja o describe una representación pictórica para la razón 3:1 entre triángulos y cuadrados, usando un total de 12 ...","como 3:1 amplificado por 3 es 9:3 (9+3=12 figuras), la representación debe mo...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,1,alternativas,¿Cuál fracción representa el 40%?,2/5,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,2,verdadero_falso,"El 75% es equivalente al decimal 0,75.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,3,desarrollo_breve,"Calcula el 10% de 480, y luego usa ese resultado para calcular el 30% de 480.","10% de 480 = 48 (dividiendo por 10). Como 30% es el triple de 10%, 30% de 480...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,4,alternativas,Una polera cuesta $12.000 y tiene un descuento del 25%. ¿Cuánto dinero se descuenta?,$3.000,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,5,desarrollo_breve,"En una encuesta a 200 estudiantes, el 45% prefiere fútbol. ¿Cuántos estudiantes prefieren fútbol?","45% de 200 = 0,45 × 200 = 90 estudiantes",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 4,6,desarrollo_breve,"En una cuadrícula de 10×10 casillas (100 en total), se colorean 65 casillas. ¿Qué porcentaje, fracción y decimal repr...","65%, que equivale a la fracción 65/100 (o simplificada, 13/20) y al decimal 0,65",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,1,alternativas,¿Cuál número mixto es equivalente a la fracción 13/5?,2 3/5,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,2,verdadero_falso,El número mixto 4 1/2 es equivalente a la fracción impropia 9/2.,Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,3,desarrollo_breve,"Transforma la fracción impropia 22/6 en número mixto, y simplifica la fracción resultante si es posible.","22 ÷ 6 = 3, con resto 4, entonces 22/6 = 3 4/6, que simplificado es 3 2/3",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,4,alternativas,¿Entre qué dos números enteros se ubica la fracción impropia 17/5 en la recta numérica?,Entre 3 y 4,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,5,alternativas,"En la recta numérica, el punto que representa 1 3/4 también se puede escribir como la fracción impropia:",7/4,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 5,6,desarrollo_breve,"Para una fiesta se compraron 3 pizzas iguales, cada una cortada en 6 pedazos. Al final quedaron 8 pedazos sin comer. ...","8/6 se simplifica a 4/3; transformando a número mixto: 4 ÷ 3 = 1, resto 1, en...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,1,alternativas,Calcula: 3 1/3 + 2 1/6 = ?,5 1/2,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,2,verdadero_falso,"Para calcular 4,5 − 2,375, es correcto escribir 4,500 − 2,375 para igualar las cifras decimales, obteniendo 2,125.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,3,desarrollo_breve,"Calcula 8/3 − 1/6, expresando el resultado como número mixto si corresponde.","8/3 = 16/6; 16/6 − 1/6 = 15/6, que simplificado es 5/2, y como número mixto e...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,4,desarrollo_breve,"Un corredor registró un tiempo de 12,846 segundos en una carrera, y otro corredor fue 0,097 segundos más lento. ¿Cuál...","12,846 + 0,097 = 12,943 segundos",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,5,desarrollo_breve,Una receta necesita 2 3/4 tazas de harina. Camila ya puso 1 1/2 tazas. ¿Cuánta harina le falta agregar?,2 3/4 − 1 1/2 = 2 3/4 − 1 2/4 = 1 1/4 tazas,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 8,6,desarrollo_breve,"Un tonel contiene 15,5 litros de agua. Se sacan 8,750 litros para regar un jardín. Un estudiante calculó que quedan 6...","15,500 − 8,750 = 6,750 litros, no 6,25. El resultado del estudiante es incorr...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,1,alternativas,Resuelve: x + 34 = 90. ¿Cuál es el valor de x?,56,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,2,verdadero_falso,"En la ecuación 6x = 48, el valor de x es 8.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,3,desarrollo_breve,"Una balanza está equilibrada con una caja de peso desconocido (x) y una pesa de 12 kg de un lado, y 35 kg del otro la...",la ecuación es x + 12 = 35. Resolviendo: x = 35 − 12 = 23 kg,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,4,alternativas,"Un jardinero plantó una cierta cantidad de árboles. Luego plantó 3 veces esa cantidad en un segundo terreno, sumando ...",x + 3x = 48,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,5,desarrollo_breve,Resuelve: 2x − 7 = 15.,2x = 15 + 7 = 22; x = 22 ÷ 2 = 11,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 11,6,desarrollo_breve,Fernanda tenía cierta cantidad de dinero ahorrado. Gastó $8.500 en un libro y le quedaron $17.300. Plantea la ecuació...,la ecuación es x − 8.500 = 17.300. Resolviendo: x = 17.300 + 8.500 = $25.800,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,1,alternativas,Dos rectas se cortan y uno de los ángulos formados mide 40°. ¿Cuánto mide el ángulo opuesto por el vértice a ese ángulo?,40°,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,2,verdadero_falso,"Si dos rectas se cortan y uno de los ángulos mide 65°, el ángulo adyacente a él mide 115°.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,3,desarrollo_breve,Dos rectas se cortan formando un ángulo de 32°. Calcula la medida de los otros tres ángulos que se forman.,el opuesto por el vértice mide 32°; los otros dos (adyacentes) miden 180° − 3...,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,4,alternativas,"En una intersección de calles, dos calles rectas se cruzan formando un ángulo de 118° en una esquina. ¿Cuánto mide el...",62°,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,5,desarrollo_breve,"Dos rectas se cortan formando los ángulos A, B, C y D en orden alrededor del punto de intersección. Si A y C son opue...","B es adyacente a A, por lo tanto A + B = 180°: B = 180° − 84° = 96°",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 16,6,desarrollo_breve,Dos vigas de una estructura se cruzan formando cuatro ángulos. Un arquitecto midió uno de ellos y anotó 103°. Un ayud...,"sí es coherente, porque 103° + 87° = 180°, que es justamente lo que deben sum...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,1,alternativas,¿Cuál es el área total de un cubo cuyas aristas miden 4 cm?,96 cm²,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,2,verdadero_falso,"Un paralelepípedo tiene siempre 6 caras, agrupadas en 3 pares de caras iguales entre sí.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,3,desarrollo_breve,"Calcula el área total de un paralelepípedo de 6 cm de largo, 4 cm de ancho y 3 cm de alto.",2×(6×4) + 2×(6×3) + 2×(4×3) = 2×24 + 2×18 + 2×12 = 48+36+24 = 108 cm²,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,4,desarrollo_breve,Se quiere pintar todas las caras de una caja cúbica de madera de 50 cm de arista. ¿Cuántos cm² de superficie hay que ...,área de una cara: 50×50=2.500 cm²; área total: 6×2.500 = 15.000 cm²,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,5,desarrollo_breve,"Una caja de embalaje mide 2 m de largo, 1 m de ancho y 1,5 m de alto. ¿Cuál es su área total en m²?","2×(2×1) + 2×(2×1,5) + 2×(1×1,5) = 4 + 6 + 3 = 13 m²",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 18,6,desarrollo_breve,"La red de un paralelepípedo muestra 2 rectángulos de 8×5 cm, 2 rectángulos de 8×3 cm y 2 rectángulos de 5×3 cm. ¿Cuál...",(2×40) + (2×24) + (2×15) = 80+48+30 = 158 cm²,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,1,alternativas,¿Cuál es el volumen de un cubo cuyas aristas miden 3 cm?,27 cm³,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,2,verdadero_falso,"El volumen de un paralelepípedo de 10 cm de largo, 4 cm de ancho y 2 cm de alto es 80 cm³.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,3,desarrollo_breve,"Calcula el volumen de un paralelepípedo de 7 cm de largo, 5 cm de ancho y 4 cm de alto.",7 × 5 × 4 = 140 cm³,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,4,desarrollo_breve,Un dado (cubo pequeño) tiene aristas de 10 mm. ¿Cuál es su volumen en mm³?,10 × 10 × 10 = 1.000 mm³,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,5,desarrollo_breve,"Una piscina tiene forma de paralelepípedo, con 8 m de largo, 4 m de ancho y 1,5 m de profundidad. ¿Cuántos metros cúb...","8 × 4 × 1,5 = 48 m³",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 19,6,desarrollo_breve,Un paralelepípedo tiene una cara de 24 cm² de área (que sirve de base) y una altura de 5 cm. ¿Cuál es su volumen?,24 × 5 = 120 cm³,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,1,alternativas,"Si lanzas un dado de 6 caras 300 veces, ¿aproximadamente cuántas veces esperarías que salga el número 4?",50,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,2,verdadero_falso,"Al lanzar 2 monedas, el resultado ""una cara y un sello"" (en cualquier orden) es más probable que el resultado ""dos ca...",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,3,desarrollo_breve,"Dibuja o describe el diagrama de árbol para lanzar una moneda 3 veces, y cuenta cuántos resultados posibles hay en to...","en cada lanzamiento hay 2 posibilidades, y se repite 3 veces: 2×2×2=8 resulta...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,4,desarrollo_breve,Un estudiante lanzó una moneda 20 veces y obtuvo 18 caras y 2 sellos. ¿Es este resultado lo que esperarías en base a ...,"no es lo esperado; en una moneda justa, se espera que aproximadamente la mita...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,5,desarrollo_breve,"Al lanzar dos dados de 6 caras, ¿cuántos resultados posibles hay en total (considerando el orden, por ejemplo 1-2 es ...",6 × 6 = 36 resultados posibles,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 23,6,desarrollo_breve,"En una bolsa hay solo bolitas rojas y azules. Al sacar una bolita, devolverla y repetir esto 50 veces, se registraron...",como salieron rojas aproximadamente el 70% de las veces (35 de 50) y azules e...,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,1,alternativas,"Un gráfico circular muestra que el 40% de una encuesta prefiere el color azul. Si se encuestó a 150 personas, ¿cuánta...",60,4,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,2,verdadero_falso,"En un gráfico circular, la suma de todos los porcentajes de las distintas categorías siempre debe dar 100%.",Verdadero,2,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,3,desarrollo_breve,Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo...,"6ºB leyó más en abril (35 libros), superando a 6ºA por 35−18=17 libros",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,4,desarrollo_breve,"Un gráfico circular sobre el uso del tiempo libre de un grupo de estudiantes muestra: pantallas 45%, deporte 30%, lec...",pantallas: 45% de 60 = 27; deporte: 30% de 60 = 18. Diferencia: 27−18=9 estud...,0,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,5,desarrollo_breve,Un gráfico de barras dobles compara la temperatura máxima y mínima de una semana. Todos los días la barra de la tempe...,"(ejemplo): ""durante esa semana, la diferencia entre la temperatura máxima y l...",0,Verificado OK,Ninguna
+6° básico,06-basico,OA 24,6,desarrollo_breve,"En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, ...",un cuarto del círculo equivale a 25%. Cantidad de estudiantes: 25% de 320 = 0...,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,1,alternativas,"¿Cuál número entero representa ""un déficit (pérdida) de $15.000 en las cuentas de un club deportivo""?",−15.000,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,2,verdadero_falso,"En la recta numérica, el número −7 está más cerca del 0 que el número −3.",Falso,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,3,alternativas,Calcula: −12 + 20.,8,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,4,desarrollo_breve,Calcula: 4 − 9.,4 − 9 = −5,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,5,desarrollo_breve,Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al fi...,−4 + 11 = 7°C,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,6,desarrollo_breve,La cuenta corriente de Marcela tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?,−32.000 + 50.000 = $18.000,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,7,alternativas,Un avión vuela a 9.000 metros de altura y desciende 2.500 metros. Un submarino está a −300 metros (bajo el nivel del ...,−300 − 150 = −450,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 1,8,desarrollo_breve,Un cerro tiene su cima a 1.200 m sobre el nivel del mar y su base junto a una mina cuyo túnel más profundo llega a −8...,1.200 − (−85) = 1.200 + 85 = 1.285 metros,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,1,alternativas,Calcula: 1/2 × 2/7.,1/7,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,2,verdadero_falso,"Para dividir 3/4 ÷ 1/2, es correcto multiplicar 3/4 × 2/1, obteniendo 6/4 = 1 1/2.",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,3,alternativas,"Calcula: 4,2 × 0,5.","2,1",4,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,4,desarrollo_breve,"Calcula: 9,6 ÷ 0,4.","9,6 ÷ 0,4 = 24",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,5,desarrollo_breve,"Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agu...",3/4 × 5 = 15/4 = 3 3/4 litros,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,6,desarrollo_breve,Se tienen 5/6 de kilo de queso y se quiere repartir en porciones de 1/12 de kilo cada una. ¿Cuántas porciones se obti...,5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = 10 porciones,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,7,desarrollo_breve,"Un litro de bencina cuesta $980,5. Si un auto necesita 32,4 litros para llenar el estanque, ¿cuánto se debe pagar apr...","980,5 × 32,4 = 31.768,2 ≈ $31.768",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 3,8,desarrollo_breve,"Un panadero tiene 8,4 kg de masa y hace panes que pesan 0,15 kg cada uno. ¿Cuántos panes completos puede hacer?","8,4 ÷ 0,15 = 56 panes exactos, por lo tanto puede hacer 56 panes",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,1,alternativas,"Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?",$7.000,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,2,verdadero_falso,Calcular el 75% de un valor es lo mismo que dividirlo por 4 y multiplicar el resultado por 3.,Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,3,desarrollo_breve,Un notebook cuesta $320.000 sin IVA. Calcula el valor del IVA (19%) y el precio final con IVA incluido.,"IVA: 0,19 × 320.000 = 60.800. Precio final: 320.000 + 60.800 = $380.800",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,4,alternativas,Una tienda tiene una oferta de 40% de descuento en zapatillas que cuestan $45.000. ¿Cuál es el precio final?,$27.000,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,5,desarrollo_breve,Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más in...,"interés: 0,08 × 500.000 = 40.000. Total a devolver: 500.000 + 40.000 = $540.000",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,6,desarrollo_breve,"En una cuadrícula de 10×10 casillas se colorean 42 casillas. ¿Qué porcentaje representa, y cuál sería el 50% de una c...","las 42 casillas representan 42%. El 50% de 42.000 personas es 0,5 × 42.000 = ...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,7,desarrollo_breve,"Explica dos formas distintas de calcular el 10% de $72.000, y comprueba que ambas dan el mismo resultado.",forma 1: dividir por 10: 72.000 ÷ 10 = 7.200. Forma 2: multiplicar por el dec...,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 4,8,desarrollo_breve,"Un producto tenía un precio de $60.000, subió un 15% y luego, sobre el nuevo precio, se aplicó un descuento del 15%. ...","precio tras el alza: 60.000 + (0,15×60.000) = 69.000. Precio tras el descuent...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,1,alternativas,"¿Cuál expresión algebraica representa ""el doble de un número, más 7""?",2x + 7,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,2,verdadero_falso,"La expresión ""la mitad de un número, aumentada en 3"" se traduce como x/2 + 3.",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,3,alternativas,"Una secuencia de figuras tiene 5 cuadrados en la figura 1, 9 en la figura 2, y 13 en la figura 3. ¿Cuál expresión alg...",4n + 1,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,4,desarrollo_breve,"El doble de la cantidad de estampillas que tiene Joaquín, más 6, es igual a 40. Escribe la ecuación y encuentra cuánt...",ecuación: 2x + 6 = 40. Resolviendo: 2x = 34; x = 17 estampillas,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,5,desarrollo_breve,Observa: 3+5=8 y 5+3=8; 7+2=9 y 2+7=9. ¿Qué propiedad de la adición se generaliza con la expresión algebraica a + b =...,se generaliza la propiedad conmutativa de la adición: el orden de los sumando...,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,6,desarrollo_breve,En un estacionamiento se cobra una tarifa fija de $500 más $300 por cada hora de estacionamiento. Si x representa la ...,500 + 300x (o 300x + 500),0,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,7,desarrollo_breve,"Usando la situación del estacionamiento anterior (costo = 500 + 300x), si una persona pagó $2.300 en total, ¿cuántas ...",500 + 300x = 2.300; 300x = 1.800; x = 6 horas,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 6,8,desarrollo_breve,"La suma de dos números consecutivos es 45. Si x representa el menor de los números, plantea la ecuación y encuentra a...",ecuación: x + (x+1) = 45; 2x + 1 = 45; 2x = 44; x = 22. El segundo número es ...,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,1,alternativas,"Si 3 entradas al cine cuestan $9.000, ¿cuánto cuestan 5 entradas (misma proporción)?",$15.000,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,2,verdadero_falso,"Si 4 obreros construyen un muro en 12 días, entonces 8 obreros (trabajando al mismo ritmo) demorarían 6 días — esto c...",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,3,desarrollo_breve,Completa la tabla si la relación entre litros de bencina y su costo es proporcional directa: 1 litro cuesta $980. | l...,2 litros: 1.960; 5 litros: 4.900; 10 litros: 9.800,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,4,alternativas,Un estanque de agua se llena en 10 horas si se usa 1 llave. ¿Qué tipo de proporción describe la relación entre la can...,Inversa,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,5,desarrollo_breve,"Si 5 pintores pintan una casa completa en 8 días, ¿cuántos días demorarían 10 pintores trabajando al mismo ritmo?",el producto pintores×días es constante: 5×8=40. Con 10 pintores: 40÷10=4 días,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,6,desarrollo_breve,"Se grafican los puntos de la tabla del kilo de manzanas del Ejemplo 1 (1kg-$1.200, 2kg-$2.400, 3kg-$3.600, 4kg-$4.800...","los puntos formarán una línea recta que pasa por el origen (0,0), característ...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,7,desarrollo_breve,Una receta para 4 personas usa 320 gramos de arroz. Si se quiere preparar la misma receta para 7 personas (manteniend...,320÷4=80 gramos por persona; para 7 personas: 80×7=560 gramos,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 8,8,desarrollo_breve,"Un vehículo recorre una distancia fija dependiendo de su velocidad: a mayor velocidad, menos tiempo demora en recorre...",velocidad-tiempo (para una distancia fija) es una proporción inversa (a mayor...,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,1,alternativas,"Si el diámetro de un círculo es 14 cm, ¿cuál es su radio?",7 cm,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,2,verdadero_falso,"El perímetro de un círculo con diámetro 8 cm es aproximadamente 25,12 cm.",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,3,desarrollo_breve,Calcula el perímetro de un círculo cuyo radio mide 9 cm.,"diámetro = 2×9=18 cm; P = 3,14 × 18 = 56,52 cm",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,4,alternativas,¿Cuál es el área de un círculo de radio 10 cm?,314 cm²,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,5,desarrollo_breve,La línea del ecuador terrestre tiene aproximadamente 12.756 km de diámetro. Estima su perímetro (la longitud del ecua...,"P = 3,14 × 12.756 ≈ 40.053,84 km",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,6,desarrollo_breve,Un agricultor tiene un cultivo circular de riego con 15 m de radio. Calcula el área que ocupa el cultivo.,"A = 3,14 × 15² = 3,14 × 225 = 706,5 m²",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,7,desarrollo_breve,"Dos círculos, A y B, tienen radios de 4 cm y 8 cm respectivamente (el radio de B es el doble del de A). ¿El área de B...","área de A: 3,14×4²=3,14×16=50,24 cm². Área de B: 3,14×8²=3,14×64=200,96 cm². ...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 11,8,desarrollo_breve,"Sin calcular con la fórmula exacta, estima si el perímetro de un círculo de radio 3 cm es mayor, menor o aproximadame...","intuitivamente, el perímetro debería ser un poco más de 6 veces el radio (por...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,1,alternativas,"¿En qué cuadrante se ubica el punto B(−5, −2)?",Cuadrante III,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,2,verdadero_falso,"El punto (0, −6) se ubica sobre el eje y, no dentro de ningún cuadrante.",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,3,alternativas,¿Cuáles son las coordenadas de un punto ubicado 3 unidades a la derecha del origen y 5 unidades hacia abajo?,"(3, −5)",4,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,4,desarrollo_breve,"Determina en qué cuadrante se encuentra el punto C(7, −3), y explica cómo lo determinaste.","se ubica en el Cuadrante IV, porque su coordenada x es positiva (7) y su coor...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,5,desarrollo_breve,"Un punto P está en (2, −3). Se traslada 4 unidades hacia arriba y 6 unidades hacia la izquierda. ¿Cuáles son las nuev...","nuevo x: 2−6=−4; nuevo y: −3+4=1. El nuevo punto es (−4, 1)",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,6,desarrollo_breve,"Un rectángulo tiene vértices en (−3, 2), (2, 2), (2, −1) y (−3, −1). ¿En cuántos cuadrantes distintos tiene vértices ...","(−3,2) está en el Cuadrante II; (2,2) está en el Cuadrante I; (2,−1) está en ...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,7,desarrollo_breve,"En un videojuego, el personaje empieza en el origen (0,0) y se mueve 8 unidades al este (derecha) y 5 unidades al sur...","(8, −5)",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 14,8,desarrollo_breve,"Un cuadrado tiene vértices en (1,1), (4,1), (4,4) y (1,4). Se traslada de modo que uno de sus vértices queda en (−2,−...","no, el tamaño y la forma del cuadrado se mantienen exactamente iguales; solo ...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,1,alternativas,"En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10. ¿Cuál es su frecuencia relativa?",25%,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,2,verdadero_falso,La suma de todas las frecuencias relativas de una tabla siempre debe ser igual a 1 (o 100%).,Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,3,desarrollo_breve,"En una encuesta a 25 personas sobre su medio de transporte preferido, 8 eligieron bus, 10 eligieron auto, 5 eligieron...","10/25 = 0,4 = 40%",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,4,desarrollo_breve,"Los siguientes son los resultados de lanzar un dado 15 veces: 3,5,2,6,3,1,4,3,5,2,6,3,4,1,3. Construye una tabla de f...",1→2; 2→2; 3→5; 4→2; 5→2; 6→2. (Total: 2+2+5+2+2+2=15 ✓,0,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,5,alternativas,"Un profesor quiere comparar las estaturas de los estudiantes de 7°A con las de 7°B, dato por dato, para ver si un cur...",Gráfico de tallo y hojas,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,6,desarrollo_breve,"En el gráfico de tallo y hojas del Ejemplo 2, ¿cuántos tíos tienen entre 40 y 49 años?","en el tallo ""4"" hay tres hojas del lado de los tíos (8, 2, 0), lo que corresp...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,7,desarrollo_breve,"En una tienda se registraron las ventas diarias durante una semana: 12, 15, 12, 18, 20, 15, 12 (en unidades vendidas)...","12→3 (3/7≈42,9%); 15→2 (2/7≈28,6%); 18→1 (1/7≈14,3%); 20→1 (1/7≈14,3%). El va...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 16,8,desarrollo_breve,"Un club deportivo registró la cantidad de goles anotados por dos equipos (A y B) durante 6 partidos, y quiere comunic...","el más apropiado es el gráfico de barras dobles, porque permite comparar, par...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,1,alternativas,"En una ruleta dividida en 8 sectores iguales, numerados del 1 al 8, ¿cuál es la probabilidad de que caiga en el númer...",1/8,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,2,verdadero_falso,"Si se lanza un dado 60 veces y el número 2 sale 9 veces, la frecuencia relativa experimental de obtener un 2 es 15%.",Verdadero,2,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,3,desarrollo_breve,"En una bolsa hay 5 bolitas amarillas y 15 bolitas moradas. ¿Cuál es la probabilidad de sacar una bolita amarilla, exp...","total de bolitas: 5+15=20. Probabilidad: 5/20 = 0,25 = 25%",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,4,desarrollo_breve,"Un jugador de básquetbol lanzó 40 tiros libres y anotó 32. Estima, a partir de esta frecuencia relativa, la probabili...","32/40 = 0,8 = 80%",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,5,desarrollo_breve,La probabilidad de un evento se expresa como la razón 3:20. Exprésala también como fracción y como porcentaje.,"como fracción: 3/20. Como porcentaje: 3÷20=0,15=15%",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,6,alternativas,"Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número par (2, 4 o 6)?",1/2,4,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,7,desarrollo_breve,"Una moneda ""justa"" debería tener probabilidad teórica de 50% de salir cara. Un estudiante la lanzó 200 veces y obtuvo...","probabilidad experimental: 112/200 = 0,56 = 56%. Es un poco más alta que el 5...",0,Verificado OK,Ninguna
+7° básico,07-basico,OA 18,8,desarrollo_breve,"En una encuesta a 80 estudiantes sobre su color favorito, 20 eligieron azul, 24 eligieron verde, 16 eligieron rojo y ...","24/80, que simplificado (dividiendo por 8) es 3/10",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,1,alternativas,Calcula: (−6) × (−7).,42,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,2,verdadero_falso,El resultado de (−8) × 5 es positivo.,Falso,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,3,alternativas,Calcula: (−45) ÷ (−9).,5,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,4,desarrollo_breve,Calcula: 63 ÷ (−7).,63 ÷ (−7) = −9,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,5,desarrollo_breve,Diego debe $84.000 y decide pagarlos en 4 cuotas mensuales iguales. Representa su deuda como un número entero negativ...,deuda: −84.000. Cada cuota: −84.000 ÷ 4 = −$21.000,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,6,desarrollo_breve,El nivel de un pozo de agua ha estado descendiendo 3 cm por día durante la última semana. Si hoy el nivel está en 0 c...,(−5) × (−3) = 15. Hace 5 días el nivel estaba 15 cm más alto (en +15 cm respe...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,7,desarrollo_breve,"Sin calcular el resultado exacto, determina si el resultado de (−4) × (−3) × (−2) es positivo o negativo, y luego ver...","hay tres factores negativos (cantidad impar), por lo tanto el resultado es ne...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 1,8,desarrollo_breve,Una tienda registró estos cambios en su inventario durante 3 semanas: perdió 8 unidades por semana debido a productos...,3 × (−8) = −24. El inventario disminuyó en 24 unidades en total,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,1,alternativas,Calcula: −2/3 × 3/4.,−1/2,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,2,verdadero_falso,"El resultado de (−0,6) ÷ (−0,3) es positivo.",Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,3,alternativas,"Calcula: −4,5 × 2,4.","−10,8",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,4,desarrollo_breve,Calcula: −5/6 ÷ (−1/3).,"−5/6 × (−3/1) = 15/6, que simplificado es 5/2 = 2 1/2",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,5,desarrollo_breve,"Un ascensor de mina desciende desde la superficie (0 m) a un ritmo constante de −2,5 metros por segundo. Representa e...","posición = 6 × (−2,5) = −15 metros. En la recta numérica, se ubica 15 unidade...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,6,desarrollo_breve,Una fábrica reduce su producción en 3/4 de tonelada cada semana durante 4 semanas seguidas. Expresa la reducción tota...,"reducción total = 4 × (−3/4) = −3 toneladas (número mixto: −3, ya es entero; ...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,7,desarrollo_breve,"Una deuda de −5,25 (en millones de pesos) se reparte en partes iguales entre 3 socios de un negocio. ¿Cuánto le corre...","−5,25 ÷ 3 = −1,75 millones de pesos por socio",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 2,8,desarrollo_breve,"Calcula el resultado de (−2/5) × (−1,5) × 4, expresando el resultado final como fracción simplificada.","primero (−2/5) × (−1,5): 1,5 = 3/2, entonces (−2/5)×(−3/2) = 6/10 = 3/5 (posi...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,1,alternativas,¿Cuál es el valor de 4³?,64,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,2,verdadero_falso,2³ × 2² es igual a 2⁵.,Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,3,alternativas,Calcula: 5⁴ ÷ 5².,5²,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,4,desarrollo_breve,Una caja cúbica tiene una arista de 6 cm. Calcula su volumen usando una potencia.,volumen = 6³ = 6×6×6 = 216 cm³,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,5,desarrollo_breve,Escribe como una sola potencia: 7² × 7³. Luego calcula su valor.,7² × 7³ = 7^(2+3) = 7⁵. Calculando: 7⁵ = 16.807,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,6,desarrollo_breve,Un estudiante calculó 2³ × 3² y obtuvo 6⁵ (sumando exponentes y multiplicando bases). ¿Es correcto este procedimiento...,No es correcto. La regla de sumar exponentes solo aplica cuando las bases son...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,7,desarrollo_breve,"Una clave de acceso a un sistema usa 3 dígitos, cada uno con 10 posibilidades (0 al 9). ¿Cuántas claves distintas se ...",10³ = 1.000 claves distintas,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 3,8,desarrollo_breve,"Calcula (2²)³, desarrollando paso a paso, y compara el resultado con 2⁶. ¿Qué relación observas entre los exponentes?",(2²)³ = 2²×2²×2² = 4×4×4 = 64. Comparando: 2⁶ = 64 también. Se observa que (2...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,1,alternativas,¿Cuál es el valor de √81?,9,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,2,verdadero_falso,√30 está entre 5 y 6.,Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,3,alternativas,"¿Entre qué dos números enteros se encuentra √95, y a cuál está más cerca?","Entre 9 y 10, más cerca de 10",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,4,desarrollo_breve,Un terreno cuadrado tiene un área de 121 m². ¿Cuánto mide cada uno de sus lados?,√121 = 11 metros,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,5,desarrollo_breve,Un patio rectangular mide 20 m de largo por 5 m de ancho. Se quiere construir un patio cuadrado con la misma área. ¿C...,área del rectángulo: 20×5=100 m². Lado del cuadrado: √100 = 10 metros,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,6,desarrollo_breve,Una plaza cuadrada tiene un área de 64 m². Calcula el perímetro de la plaza.,lado = √64 = 8 m. Perímetro = 4 × 8 = 32 metros,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,7,desarrollo_breve,"Sin usar calculadora, estima el valor de √70, indicando entre qué dos números enteros se encuentra. Luego, verifica s...","8²=64 y 9²=81; como 70 está entre 64 y 81 (más cerca de 64), √70 está entre 8...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 4,8,desarrollo_breve,Un agricultor tiene un terreno rectangular de 45 m de largo por 20 m de ancho y quiere cercarlo con la misma cantidad...,área: 45×20=900 m². Lado del cuadrado: √900=30 m. Perímetro del cuadrado: 4×3...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,1,alternativas,Resuelve: 7x = 84.,x = 12,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,2,verdadero_falso,La solución de x/5 = 9 es x = 45.,Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,3,alternativas,Resuelve: 4x + 10 = 42.,x = 8,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,4,desarrollo_breve,Resuelve: x/6 + 5 = 11.,x/6 = 11−5 = 6; x = 6×6 = 36,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,5,desarrollo_breve,=c). El doble de la suma entre un número y 7 es igual a 30. Plantea la ecuación y encuentra el número.,ecuación: 2(x+7)=30. Resolviendo: x+7=15; x=8,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,6,desarrollo_breve,Una empresa de arriendo de bicicletas cobra $1.000 fijos más $200 por hora. Otra empresa cobra $400 fijos más $350 po...,ecuación: 1.000 + 200x = 400 + 350x. Resolviendo: 1.000−400 = 350x−200x; 600 ...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,7,desarrollo_breve,"Un estanque de agua se llena a razón de 15 litros por minuto (x minutos), mientras otro estanque, que ya tiene 40 lit...",ecuación: 15x = 40 + 5x. Resolviendo: 15x−5x=40; 10x=40; x=4 minutos,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 8,8,desarrollo_breve,"La edad de Matías es el doble de la edad de su hermana menos 3 años. Si la suma de ambas edades es 33 años, plantea u...",sea x la edad de la hermana; la edad de Matías es 2x−3. Ecuación: x + (2x−3) ...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,1,alternativas,"En la función f(x) = 4x − 2, ¿cuál es el valor de f(3)?",10,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,2,verdadero_falso,"El gráfico de una función afín f(x)=ax+b siempre pasa por el origen (0,0).",Falso,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,3,alternativas,"En la función f(x) = −3x + 7, indica el valor de la pendiente y el punto donde la recta corta al eje y.","pendiente −3, corta en (0,7)",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,4,desarrollo_breve,Completa la tabla para f(x)=5x+1 y calcula la pendiente usando dos puntos cualquiera. | x | 0 | 1 | 2 | |---|---|---|...,f(0)=1; f(1)=6; f(2)=11. Pendiente = (6−1)/(1−0) = 5,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,5,desarrollo_breve,Un depósito de $200.000 genera un interés simple mensual de $8.000. Escribe la función afín S(x) que representa el sa...,S(x) = 8.000x + 200.000. S(6) = 8.000×6 + 200.000 = 48.000+200.000 = $248.000,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,6,desarrollo_breve,Un auto parte con 20 litros de bencina en el estanque y consume 2 litros por cada 20 km recorridos. Escribe la funció...,"consumo por km: 2/20=0,1 litros por km. Función: L(x) = 20 − 0,1x. Después de...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,7,desarrollo_breve,"La altura de una planta aumenta de manera constante cada semana: en la semana 1 mide 12 cm, y en la semana 2 mide 15 ...",f(x+1)−f(x) = 15−12 = 3 cm (crecimiento semanal constante). En la semana 5: 1...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 10,8,desarrollo_breve,Dos plantas se miden semana a semana: la Planta A sigue la función A(x)=4x+10 (cm) y la Planta B sigue B(x)=6x+2 (cm)...,ecuación: 4x+10 = 6x+2; 10−2=6x−4x; 8=2x; x=4 semanas. Altura en ese momento:...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,1,alternativas,Un triángulo rectángulo tiene catetos de 9 cm y 12 cm. ¿Cuánto mide la hipotenusa?,15 cm,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,2,verdadero_falso,"El teorema de Pitágoras se puede aplicar a cualquier triángulo, sin importar si tiene o no un ángulo recto.",Falso,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,3,alternativas,Un triángulo rectángulo tiene hipotenusa de 13 cm y un cateto de 5 cm. ¿Cuánto mide el otro cateto?,12 cm,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,4,desarrollo_breve,"A partir de c²=a²+b², despeja algebraicamente la fórmula para calcular el cateto a.","a² = c² − b², por lo tanto a = √(c² − b²)",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,5,desarrollo_breve,"Una escalera de 10 m está apoyada en un muro, con su base a 6 m de distancia del muro. ¿A qué altura del muro llega l...",b²=10²−6²=100−36=64; b=√64=8 metros,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,6,desarrollo_breve,Un televisor tiene una pantalla rectangular de 80 cm de ancho por 45 cm de alto. Calcula la medida de su diagonal (qu...,"diagonal² = 80²+45² = 6.400+2.025 = 8.425; diagonal = √8.425 ≈ 91,8 cm",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,7,desarrollo_breve,Un terreno rectangular mide 18 m de largo por 24 m de ancho. Calcula cuánto se ahorra una persona al cruzar en diagon...,diagonal: √(18²+24²)=√(324+576)=√900=30 m. Bordeando: 18+24=42 m. Ahorro: 42−...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 12,8,desarrollo_breve,"Un triángulo tiene lados de 7 cm, 24 cm y 25 cm. Verifica, usando el teorema de Pitágoras, si este triángulo es un tr...","el lado más largo (25) sería la hipotenusa. Se verifica: 25²=625, y 7²+24²=49...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,1,alternativas,"El punto P(3, −2) se traslada según el vector (−4, 6). ¿Cuáles son las coordenadas de P'?","(−1, 4)",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,2,verdadero_falso,"Al reflejar un punto respecto al eje y, la coordenada x cambia de signo y la coordenada y se mantiene igual.",Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,3,alternativas,"El punto A(1, 2) se trasladó al punto A'(6, −1). ¿Cuál es el vector de traslación?","(5, −3)",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,4,desarrollo_breve,"El punto C(−3, 5) se refleja respecto al eje x. Indica las coordenadas de su imagen C', y explica qué componente cambió.","C' = (−3, −5). La coordenada y cambió de signo; la coordenada x se mantuvo igual",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,5,desarrollo_breve,"Un punto se traslada primero según el vector (3, 2) y luego según el vector (−1, 4). ¿Cuál es el vector de la traslac...","se suman los vectores componente a componente: (3+(−1), 2+4) = (2, 6)",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,6,desarrollo_breve,"Un cuadrado con vértices en (2,1), (5,1), (5,4) y (2,4) se transforma en un cuadrado con vértices en (−2,1), (−5,1), ...",todas las coordenadas x cambiaron de signo y las coordenadas y se mantuvieron...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,7,desarrollo_breve,"Un punto D(4, 0) se rota 90° en torno al origen (0,0), en sentido contrario a las manecillas del reloj, resultando en...","al rotar D'(0,4) otros 90° en el mismo sentido, el punto queda en (−4, 0), so...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 13,8,desarrollo_breve,"Un diseñador traslada un logo según el vector (6, −2) y luego lo refleja respecto al eje x. Si el vértice original de...","primero la traslación: (1+6, 3+(−2)) = (7, 1). Luego la reflexión respecto al...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,1,alternativas,"Si un estudiante se ubica en el percentil 40 de una prueba, ¿qué significa?",Su resultado es igual o mejor que aproximadamente el 40% de los estudiantes.,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,2,verdadero_falso,La mediana de un conjunto de datos es lo mismo que el segundo cuartil (Q2).,Verdadero,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,3,alternativas,"Ordena y calcula la mediana (Q2) de este conjunto de datos: 12, 8, 15, 10, 20, 9.",11,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,4,desarrollo_breve,"Los siguientes son los tiempos (en minutos) que 8 estudiantes demoraron en llegar al colegio, ya ordenados: 5, 8, 10,...","primera mitad (5,8,10,12): Q1=(8+10)/2=9. Segunda mitad (15,18,20,25): Q3=(18...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,5,desarrollo_breve,"En un diagrama de cajón de las notas de un curso, la mediana está marcada en 5,5, Q1 en 4,8 y Q3 en 6,2. ¿Qué porcent...","el rango entre Q1 y Q3 (la ""caja"") siempre representa el 50% central de los d...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,6,desarrollo_breve,"En un diagrama de cajón que compara las notas de 8°A y 8°B, la mediana de 8°A es 5,8 y la de 8°B es 5,2, pero el ""big...","en general, 8°A tiene un rendimiento típico más alto (mediana mayor), pero 8°...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,7,desarrollo_breve,"En un control médico, la estatura de un adolescente lo ubica en el percentil 75 según la tabla de crecimiento para su...",significa que su estatura es igual o mayor que aproximadamente el 75% de los ...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 15,8,desarrollo_breve,"Un conjunto de 12 datos ordenados tiene mínimo 2, Q1=5, mediana=8, Q3=11 y máximo=20. Al dibujar el diagrama de cajón...","el ""bigote"" superior, entre Q3 (11) y el máximo (20), sería el más largo (9 u...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,1,alternativas,¿Cuál de las siguientes es una forma común de manipular un gráfico de barras para exagerar una diferencia pequeña?,"Truncar el eje vertical, es decir, no comenzarlo en 0.",4,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,2,verdadero_falso,Un gráfico circular es apropiado para mostrar cómo cambia una cantidad a lo largo de 12 meses.,Falso,2,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,3,alternativas,"Un gráfico de barras 3D muestra el mismo valor en dos barras, pero por el efecto de la perspectiva (una barra parece ...",Distorsión visual por efecto de perspectiva/3D,4,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,4,desarrollo_breve,Un profesor quiere mostrar qué porcentaje de un curso de 30 estudiantes prefiere cada una de 4 actividades extraescol...,"un gráfico circular, porque permite visualizar cómo un total (el 100% del cur...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,5,desarrollo_breve,"Un gráfico de barras compara las ventas de dos años: 2024 con una barra que llega a ""50"" y 2025 con una barra que lle...","al truncar el eje entre 48 y 53, la diferencia real (solo 2 unidades, un 4% d...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,6,desarrollo_breve,Se quiere comunicar tanto el total de ventas de una tienda en el año como el aporte de cada uno de sus 4 vendedores a...,"un gráfico circular, porque el objetivo es mostrar cómo cada vendedor contrib...",0,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,7,desarrollo_breve,Los resultados de una encuesta a 200 personas sobre su medio de transporte preferido se pueden mostrar en un gráfico ...,el gráfico de barras permite comparar fácilmente valores exactos entre catego...,0,Verificado OK,Ninguna
+8° básico,08-basico,OA 16,8,desarrollo_breve,"Un aviso publicitario muestra un gráfico donde la venta de un producto ""creció"" de $10.000 a $12.000 en un año, pero ...",es probable que se haya usado un eje truncado o una escala no proporcional (d...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,1,alternativas,Calcula: 2 + 3 × (−4).,−10,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,2,verdadero_falso,"En la expresión (5+3)×2, el resultado es el mismo si se calcula 5+3×2.",Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,3,alternativas,Calcula: 4 − 2² + 6 ÷ 3.,2,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,4,desarrollo_breve,Calcula: 1/3 − (1/2 − 3/4) × 2/5.,paréntesis: 1/2−3/4 = 2/4−3/4 = −1/4. Multiplicación: (−1/4)×2/5 = −2/20 = −1...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,5,desarrollo_breve,Un estudiante escribe: 7 × 12 = 7 × (10+2) = 7×10 + 7×2 = 70+14 = 84. ¿Qué propiedad está aplicando para descomponer ...,"la propiedad distributiva, ya que reparte el factor 7 sobre la suma (10+2)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,6,desarrollo_breve,"Traduce a una expresión matemática: ""el triple de un número, menos la mitad del mismo número"".","si el número es x, la expresión es 3x − x/2 (que se puede reducir a 5x/2)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,7,desarrollo_breve,"Camila tiene $12.000 y gasta la mitad en un libro. Con lo que le queda, gasta 1/3 en un cuaderno. Plantea una expresi...",después del libro: 12.000 × (1 − 1/2) = 12.000×1/2 = 6.000. Después del cuade...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 1,8,desarrollo_breve,"Sin calcular cada término por separado, reduce la expresión: 25 × 4 + 25 × 6 − 25 × 2, aplicando una propiedad para s...",25×(4+6−2) = 25×8 = 200,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,1,alternativas,¿Cuál es el valor de 2⁻³?,1/8,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,2,verdadero_falso,(1/4)⁻¹ es igual a 4.,Verdadero,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,3,alternativas,"Calcula, expresando el resultado como una potencia: 3⁻² × 3⁵.",3³,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,4,desarrollo_breve,Calcula: (3/5)⁻².,"(3/5)⁻² = (5/3)² = 25/9 = 2,77... (aproximadamente)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,5,desarrollo_breve,"Simplifica, dejando el resultado como una sola potencia: 2⁻⁴ ÷ 2⁻¹.",se restan los exponentes: −4−(−1) = −3. Resultado: 2⁻³ = 1/8,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,6,desarrollo_breve,"Un automóvil pierde el 20% de su valor cada año, es decir, cada año conserva el 80% (0,8) de su valor anterior. Si co...","valor = 10.000.000 × (0,8)⁴ = 10.000.000 × 0,4096 = $4.096.000",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,7,desarrollo_breve,Una población de bacterias se reduce a la mitad cada hora debido a un tratamiento. Si inicialmente hay 4.000 bacteria...,4.000 × (1/2)⁵ = 4.000 × 1/32 = 125 bacterias. (Equivalente a 4.000 × 2⁻⁵,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 2,8,desarrollo_breve,"Compara las expresiones (3/2)⁴ y (2/3)⁴. Sin calcular el valor exacto de ambas, explica cuál es mayor que 1 y cuál es...","(3/2)⁴ es mayor que 1, porque la base (3/2) es mayor que 1, y al elevarla a u...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,1,alternativas,Desarrolla: (x+4)².,x² + 8x + 16,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,2,verdadero_falso,(x−7)² es igual a x² − 49.,Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,3,alternativas,Desarrolla: (3x+2)(3x−2).,9x² − 4,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,4,desarrollo_breve,Desarrolla: (x+5)(x+2).,x² + (5+2)x + (5×2) = x² + 7x + 10,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,5,desarrollo_breve,Factoriza: 9x² − 25.,"a²=9x² (a=3x), b²=25 (b=5). Factorización: (3x+5)(3x−5)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,6,desarrollo_breve,"Un terreno cuadrado tiene lado (x+6) metros. Escribe una expresión que represente su área, desarrollada como un trino...",área = (x+6)² = x² + 12x + 36 (metros cuadrados),0,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,7,desarrollo_breve,"Determina qué número se debe sumar a la expresión x² + 10x para que se transforme en un cuadrado de binomio perfecto,...",se necesita sumar (10/2)² = 5² = 25. La expresión x²+10x+25 corresponde al cu...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 3,8,desarrollo_breve,"Usa el producto notable de suma por su diferencia para calcular mentalmente 52 × 48, sin multiplicar directamente.",52×48 = (50+2)(50−2) = 50² − 2² = 2.500 − 4 = 2.496,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,1,alternativas,¿Cuál es la solución del sistema x+y=10; x−y=2?,"x=6, y=4",4,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,2,verdadero_falso,Un sistema cuyas dos rectas son paralelas y distintas tiene infinitas soluciones.,Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,3,alternativas,"Resuelve el sistema y=2x+1; y=−x+7, e indica el valor de x.",x=2,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,4,desarrollo_breve,Resuelve el sistema: x=3y; 2x+y=21.,se sustituye x=3y en la segunda ecuación: 2(3y)+y=21; 6y+y=21; 7y=21; y=3. En...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,5,desarrollo_breve,Resuelve el sistema: 4x+3y=18; 2x+3y=12.,se restan las ecuaciones para eliminar y: (4x−2x)+(3y−3y)=18−12; 2x=6; x=3. R...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,6,desarrollo_breve,La suma de las edades de dos hermanos es 24 años. La diferencia entre la edad del mayor y el menor es 6 años. Plantea...,sea x la edad del mayor e y la del menor. Sistema: x+y=24; x−y=6. Sumando: 2x...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,7,desarrollo_breve,"En un cine se vendieron 150 entradas entre adultos y niños, recaudando $975.000 en total. La entrada de adulto cuesta...","sea a=adultos, n=niños. Sistema: a+n=150; 8.000a+5.000n=975.000. Despejando n...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 4,8,desarrollo_breve,"Sin resolver el sistema, determina si tiene una solución, ninguna o infinitas: 2x+4y=8; x+2y=5.","si se multiplica la segunda ecuación por 2, se obtiene 2x+4y=10, que tiene el...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,1,alternativas,"El punto B(4, −2) se transforma con una homotecia de centro O(0,0) y factor k=2. ¿Cuáles son las coordenadas de B'?","(8, −4)",4,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,2,verdadero_falso,"Si el factor de homotecia es k=0,5, la figura resultante es más grande que la original.",Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,3,alternativas,"Un segmento OC mide 6 cm, y su imagen OC' (tras una homotecia de centro O) mide 18 cm. ¿Cuál es el factor de homotecia?",k=3,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,4,desarrollo_breve,"El punto D(9, 6) se transforma mediante una homotecia de centro O(0,0) y factor k=1/3. Calcula las coordenadas de D'.","D' = (9×1/3, 6×1/3) = (3, 2)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,5,desarrollo_breve,"El punto E(2, 5) se transforma mediante una homotecia de centro O(0,0) y factor k=−2. Calcula las coordenadas de E' y...","E' = (2×(−2), 5×(−2)) = (−4, −10). Como el factor es negativo, la imagen qued...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,6,desarrollo_breve,Una maqueta de un edificio se construye con una homotecia de reducción de factor k=1/200 respecto al edificio real. S...,2 m = 200 cm. Altura en la maqueta: 200 × 1/200 = 1 cm,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,7,desarrollo_breve,"El ojo humano forma en la retina una imagen invertida y reducida de los objetos que observa, un proceso que se modela...","1,8 m = 180 cm. Factor: k = 0,9/180 = 1/200 (o 0,005)",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 8,8,desarrollo_breve,"Un triángulo con vértices A(1,1), B(3,1) y C(1,4) se transforma mediante una homotecia de centro O(0,0) y factor k=2,...","A'=(2,2), B'=(6,2), C'=(2,8). El área del triángulo original: base=2 (de A a ...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,1,alternativas,"En un mapa con escala 1:20.000, una distancia real de 4 km, ¿cuánto mide en el mapa (en cm)?",20 cm,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,2,verdadero_falso,"En una escala 1:500, si el modelo aumenta su tamaño, también debe aumentar proporcionalmente el objeto real que repre...",Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,3,alternativas,"En un triángulo rectángulo, las proyecciones de los catetos sobre la hipotenusa miden 3 cm y 12 cm. ¿Cuánto mide la a...",6 cm,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,4,desarrollo_breve,"Una maqueta de un puente se construye a escala 1:250. Si la maqueta mide 60 cm de largo, ¿cuánto mide el puente real,...",60 cm × 250 = 15.000 cm = 150 metros,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,5,desarrollo_breve,"En un triángulo rectángulo, la hipotenusa mide 20 cm y la proyección de un cateto sobre la hipotenusa mide 5 cm. Calc...",cateto² = proyección × hipotenusa = 5×20 = 100; cateto = √100 = 10 cm,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,6,desarrollo_breve,"Un plano de una casa muestra un dormitorio de 4 cm × 3 cm, que en la realidad mide 4 m × 3 m. Determina la escala del...",4 m=400 cm; escala=4:400=1:100 (verificado también con el ancho: 3 m=300 cm; ...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,7,desarrollo_breve,Una fotografía digital de un insecto de 8 mm de largo se amplía en pantalla hasta que se ve de 16 cm de largo. ¿Cuál ...,"8 mm = 0,8 cm. Factor de aumento = 16 ÷ 0,8 = 20 veces (la imagen se amplió 2...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 10,8,desarrollo_breve,"En un triángulo rectángulo, la altura sobre la hipotenusa mide 12 cm y una de las proyecciones mide 9 cm. Calcula: (a...",(a) h²=m×n → 144=9×n → n=16 cm. (b) hipotenusa = 9+16 = 25 cm. (c) cateto² = ...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,1,alternativas,"Al lanzar un dado, ¿cuál es la probabilidad de obtener un número par o un 5?",2/3,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,2,verdadero_falso,"Si dos eventos son independientes, la probabilidad de que ambos ocurran se calcula sumando sus probabilidades individ...",Falso,2,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,3,alternativas,Se lanzan dos monedas. ¿Cuál es la probabilidad de obtener cara en ambas?,1/4,4,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,4,desarrollo_breve,"En un curso de 40 estudiantes, 18 practican fútbol, 15 practican básquetbol, y 6 practican ambos deportes. Si se elig...",P(fútbol o básquetbol) = P(fútbol)+P(básquetbol)−P(ambos) = 18/40 + 15/40 − 6...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,5,desarrollo_breve,"De una bolsa con 5 bolitas rojas y 3 azules, se sacan dos bolitas sin reposición (sin devolver la primera). ¿Cuál es ...","P(1ª roja)=5/8. Como no hay reposición, quedan 4 rojas de 7 en total para la ...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,6,desarrollo_breve,"Un estudiante tiene 70% de probabilidad de aprobar Matemática y 60% de probabilidad de aprobar Lenguaje, de manera in...","P(Mat o Leng) = P(Mat)+P(Leng)−P(Mat y Leng) = 0,7+0,6−(0,7×0,6) = 1,3−0,42 =...",0,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,7,desarrollo_breve,Se lanzan dos dados de 6 caras. ¿Cuál es la probabilidad de obtener un 6 en el primer dado y un número par en el segu...,P(6 en el primero)=1/6. P(par en el segundo)=3/6=1/2. Como son eventos indepe...,0,Verificado OK,Ninguna
+1° medio,01-medio,OA 14,8,desarrollo_breve,"De una baraja de 10 cartas numeradas del 1 al 10, se saca una carta al azar. ¿Cuál es la probabilidad de obtener un n...","múltiplos de 2: {2,4,6,8,10}, 5 cartas, P=5/10. Múltiplos de 3: {3,6,9}, 3 ca...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,1,alternativas,Simplifica √200.,10√2,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,2,verdadero_falso,√8 × √2 = √16 = 4.,Verdadero,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,3,alternativas,Simplifica: √5 × √20.,10,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,4,desarrollo_breve,Racionaliza la expresión: 5/√2.,multiplicando numerador y denominador por √2: (5×√2)/(√2×√2) = 5√2/2,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,5,desarrollo_breve,Reduce: √75 − √12.,√75 = √(25×3) = 5√3; √12 = √(4×3) = 2√3. Entonces 5√3 − 2√3 = 3√3,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,6,desarrollo_breve,"Un terreno cuadrado tiene un área de 245 m². Determina la medida exacta de su lado, expresada como una raíz simplific...","lado = √245. Como 245 = 49×5, √245 = √49×√5 = 7√5 m ≈ 15,65 m",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,7,desarrollo_breve,"El pH de una solución se calcula como pH = −log[H⁺], donde [H⁺] es la concentración de iones hidrógeno. Si una muestr...",pH = −log(10⁻⁷) = −(−7) = 7 (agua neutra),0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,8,desarrollo_breve,Escribe la potencia 5^(3/4) como una raíz.,⁴√(5³) = ⁴√125,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,9,desarrollo_breve,"Calcula, sin usar calculadora y aplicando propiedades: log₂(16) − log₂(4).",log₂(16) − log₂(4) = log₂(16/4) = log₂(4) = 2,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 1,10,desarrollo_breve,"Sin calcular el valor decimal exacto, determina cuál es mayor: √50 o 6. Explica tu razonamiento.","√50 es mayor que 6, porque 6² = 36, y como 50 > 36, entonces √50 > √36 = 6",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,1,alternativas,¿Cuál es el valor de log₄(64)?,3,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,2,verdadero_falso,9^(1/2) es igual a √9.,Verdadero,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,3,alternativas,Expresa ⁵√(7³) como una potencia de exponente racional.,7^(3/5),4,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,4,desarrollo_breve,Convierte 10^(2/5) a su forma de raíz.,⁵√(10²) = ⁵√100,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,5,desarrollo_breve,"Ubica aproximadamente 2^(1/3) en la recta numérica, indicando entre qué dos números enteros consecutivos se encuentra.","2^(1/3) = ∛2 ≈ 1,26, por lo tanto se encuentra entre 1 y 2",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,6,desarrollo_breve,"Sin calcular el valor decimal exacto, determina cuál es mayor: 3^(1/2) o 3^(1/3). Explica usando lo que sabes sobre e...","3^(1/2) es mayor, porque la base (3) es mayor que 1, y 1/2 (0,5) es un expone...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,7,desarrollo_breve,"Usando el modelo M = log₁₀(A/A₀), si un sismo tiene una razón A/A₀ = 1.000.000, ¿cuál es su magnitud M?","M = log₁₀(1.000.000) = 6, porque 10⁶=1.000.000",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,8,desarrollo_breve,"Si se sabe que log₁₀(x) = 3, ¿cuál es el valor de x?","por definición de logaritmo, 10³=x, entonces x = 1.000",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,9,desarrollo_breve,"Sabiendo que log₂(5) ≈ 2,32, determina aproximadamente el valor de log₂(20), usando que 20 = 4×5 y las propiedades de...","log₂(20) = log₂(4×5) = log₂(4) + log₂(5) = 2 + 2,32 = 4,32",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 2,10,desarrollo_breve,Escribe la igualdad 7²=49 en su forma logarítmica equivalente.,log₇(49) = 2,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,1,alternativas,"Para f(x) = x² + 2x − 8, ¿cuál es la coordenada x del vértice?",−1,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,2,verdadero_falso,"Si a<0 en f(x)=ax²+bx+c, la parábola abre hacia arriba y tiene un mínimo.",Falso,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,3,alternativas,Determina el eje de simetría de f(x) = −3x² + 6x + 1.,x = 1,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,4,desarrollo_breve,Encuentra el vértice y la concavidad de f(x) = 2x² − 8x + 5.,"x = −(−8)/(2×2) = 2; f(2) = 2(4)−16+5 = 8−16+5 = −3. Vértice (2, −3), concavi...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,5,desarrollo_breve,Determina los puntos donde f(x) = x² − x − 6 corta al eje x.,"se factoriza: x²−x−6 = (x−3)(x+2) = 0, por lo tanto x=3 y x=−2 (puntos (3,0) ...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,6,desarrollo_breve,"Se entrega la siguiente tabla de valores de f(x)=x²: x=−2,−1,0,1,2 → f(x)=4,1,0,1,4. Según la tabla, ¿cuál es el eje ...","x = 0, porque los valores de f(x) son simétricos alrededor de x=0 (f(−2)=f(2)...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,7,desarrollo_breve,"Un agricultor determina que la producción de papas P (en toneladas), según la cantidad x (en kg) de fertilizante apli...","x = −2/(2×(−0,01)) = −2/−0,02 = 100 kg. P(100) = −0,01(10.000)+200+5 = −100+2...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,8,desarrollo_breve,"Determina si el punto (2, 10) pertenece a la región de soluciones de la inecuación y > x² + 1.","x²+1 en x=2 es 5; como 10>5, la desigualdad se cumple, por lo tanto el punto ...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 3,9,desarrollo_breve,"Compara las gráficas de f(x) = x² − 4 y g(x) = −x² + 4. Sin graficar, describe en qué se parecen y en qué se diferenc...","ambas tienen vértice sobre el eje y (f en (0,−4), g en (0,4)) y el mismo eje ...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,1,alternativas,¿Cuál es la inversa de f(x) = x + 5?,f⁻¹(x) = x − 5,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,2,verdadero_falso,La gráfica de la función inversa es siempre la reflexión de la gráfica de la función original respecto a la recta y=x.,Verdadero,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,3,alternativas,Determina la inversa de f(x) = 4x.,f⁻¹(x) = x/4,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,4,desarrollo_breve,Encuentra la función inversa de f(x) = 2x − 10.,y=2x−10; se intercambia: x=2y−10; se despeja: y=(x+10)/2. f⁻¹(x) = (x+10)/2,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,5,desarrollo_breve,"Encuentra la inversa de f(x) = x² − 3, considerando solo x≥0.","y=x²−3; se intercambia: x=y²−3; se despeja: y²=x+3, y=√(x+3) (raíz positiva, ...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,6,desarrollo_breve,"Una función lineal pasa por los puntos (0, 2) y (2, 6). ¿Qué punto pertenece con seguridad a su función inversa?","como la inversa intercambia las coordenadas de cada punto, si (2,6) pertenece...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,7,desarrollo_breve,"Usando la función inversa C = (5/9)(F−32), determina a cuántos grados Celsius corresponde una temperatura de 86°F.",C = (5/9)(86−32) = (5/9)(54) = 30°C,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,8,desarrollo_breve,"Usando la metáfora de una máquina, explica qué hace la función inversa de f(x) = x/3 + 1, y determina su regla.","f toma un número, lo divide en 3 y luego le suma 1. La inversa debe deshacer ...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 5,9,desarrollo_breve,"Explica por qué la función f(x) = x², considerando todos los números reales como dominio, no tiene una inversa que se...","porque f no es inyectiva: por ejemplo, f(2)=4 y f(−2)=4, es decir, dos valore...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,1,alternativas,"En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 6 cm y la hipotenusa mide 10 cm. ¿Cuál es sen θ?","0,6",4,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,2,verdadero_falso,La tangente de un ángulo se calcula como el cateto opuesto dividido por la hipotenusa.,Falso,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,3,alternativas,Un triángulo rectángulo tiene un ángulo de 45° y cateto adyacente de 8 cm. Calcula el cateto opuesto.,8 cm,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,4,desarrollo_breve,"En un triángulo rectángulo, la hipotenusa mide 15 cm y uno de sus ángulos agudos mide 50°. Calcula el cateto opuesto ...","cateto opuesto = 15 × sen(50°) ≈ 15 × 0,766 ≈ 11,49 cm",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,5,desarrollo_breve,"En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 7 cm y el cateto adyacente mide 24 cm. Calcula θ usa...","tan θ = 7/24 ≈ 0,2917; θ = tan⁻¹(0,2917) ≈ 16,26°",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,6,desarrollo_breve,"Un triángulo rectángulo tiene hipotenusa c=13 cm y catetos a=5 cm y b=12 cm. Calcula cos θ, donde θ es el ángulo opue...","si θ es opuesto al cateto de 5 cm, entonces el cateto adyacente a θ es 12 cm....",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,7,desarrollo_breve,Una rampa de acceso para sillas de ruedas debe tener un ángulo de inclinación de 6° respecto al suelo. Si la rampa de...,"sen(6°) = 0,9 ÷ L → L = 0,9 ÷ sen(6°) ≈ 0,9 ÷ 0,1045 ≈ 8,61 m",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,8,desarrollo_breve,"Desde la terraza de un edificio de 40 m de altura, un observador ve un auto estacionado en la calle con un ángulo de ...","tan(25°) = 40 ÷ d → d = 40 ÷ tan(25°) ≈ 40 ÷ 0,4663 ≈ 85,79 m",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 8,9,desarrollo_breve,Resuelve completamente un triángulo rectángulo donde un cateto mide 9 cm y el ángulo opuesto a ese cateto es 40°: det...,"hipotenusa: sen(40°)=9/hip → hip = 9÷sen(40°) ≈ 9÷0,643 ≈ 14,0 cm. Otro catet...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,1,alternativas,Un menú de almuerzo tiene 3 entradas y 5 platos de fondo. ¿De cuántas formas distintas se puede elegir una entrada y ...,15,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,2,verdadero_falso,El número de formas de ordenar 4 personas distintas en una fila es 4×3=12.,Falso,2,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,3,alternativas,Calcula 6!/4!.,30,4,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,4,desarrollo_breve,"¿De cuántas formas se pueden ordenar las 4 letras de la palabra ""AMOR"" (todas distintas)?",4! = 4×3×2×1 = 24 formas,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,5,desarrollo_breve,En una rifa se venden 200 números (del 1 al 200) y se sortea un único número ganador al azar. Si una persona compró 5...,"P = 5/200 = 1/40 = 0,025 (2,5%)",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,6,desarrollo_breve,"Una clave de acceso a un casillero está compuesta por 3 dígitos distintos (sin repetir ningún dígito), elegidos entre...","por el principio multiplicativo, con las opciones reduciéndose en cada paso (...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,7,desarrollo_breve,"Un profesor debe elegir, entre 6 estudiantes, a 2 para representar al curso en una feria científica, con el mismo rol...","C(6,2) = 6!/(2!×4!) = (6×5)/(2×1) = 15 formas",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,8,desarrollo_breve,"En una carrera de atletismo participan 8 corredores, todos con las mismas posibilidades de ganar. ¿Cuál es la probabi...",P = 1/8. (También se puede razonar contando ordenamientos: el número de forma...,0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,9,desarrollo_breve,"Un local de completos ofrece 3 tipos de pan y 4 tipos de salsa, además de la opción de agregar o no agregar palta. ¿D...","3 × 4 × 2 = 24 combinaciones (el factor 2 corresponde a la opción ""con palta""...",0,Verificado OK,Ninguna
+2° medio,02-medio,OA 11,10,desarrollo_breve,"Sin calcular el valor exacto de cada expresión por separado, determina si 5! es mayor, menor o igual a 4!×5. Explica ...","son iguales, porque 5! = 5×4×3×2×1 = 5×(4×3×2×1) = 5×4!. Por lo tanto, 5! y 4...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,1,alternativas,"El modelo f(x) = 500×(0,85)ˣ representa una situación de:","decrecimiento, porque 0 < 0,85 < 1",4,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,2,verdadero_falso,"En un modelo exponencial f(x) = a·bˣ con b>1, mientras mayor es b, más rápido crece la función.",Verdadero,2,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,3,alternativas,"Si el factor de crecimiento de un modelo exponencial es b = 1,08, ¿cuál es la tasa de crecimiento porcentual?",8%,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,4,desarrollo_breve,"La fórmula de interés compuesto es A(t) = P×(1+r)ᵗ, donde P es el ______, r es la ______ (como decimal) y t es el ___...",P es el capital inicial (monto depositado); r es la tasa de interés por perío...,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,5,desarrollo_breve,"Un auto nuevo cuesta $12.000.000 y se deprecia un 12% anual, según el modelo V(t) = 12.000.000×(0,88)ᵗ. Calcula su va...","(0,88)⁴ ≈ 0,5997. V(4) = 12.000.000×0,5997 ≈ $7.196.160",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,6,desarrollo_breve,"El carbono-14 tiene una vida media aproximada de 5.730 años. Si una muestra tiene inicialmente 80 g, ¿cuánto quedará ...",11.460 ÷ 5.730 = 2 vidas medias. N = 80×(1/2)² = 80×(1/4) = 20 g,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,7,desarrollo_breve,"Un rumor se difunde en redes sociales según M(t) = 50×(1,6)ᵗ (t en horas, M = número de personas que lo han visto). ¿...","se plantea 50×(1,6)ᵗ = 800, es decir (1,6)ᵗ = 16. t = log(16)/log(1,6) ≈ 1,20...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,8,desarrollo_breve,"Un estanque de riego tiene capacidad máxima de 5.000 litros y se llena según V(t) = 200×(1,25)ᵗ (litros, t en horas)....",el modelo deja de tener sentido cuando V(t) supera 5.000 L. Resolviendo 200×(...,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,9,desarrollo_breve,"Compara los modelos f(x) = 100×(1,1)ˣ y g(x) = 100×(1,05)ˣ. ¿Cuál crece más rápido, y por qué?","f crece más rápido, porque ambos parten del mismo valor inicial (100), pero e...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,10,desarrollo_breve,Una colonia de pingüinos en la costa registra la siguiente población: t=0 → 80; t=1 → 96; t=2 → 115; t=3 → 138. ¿Corr...,"96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. Como la razón entre términos co...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,11,alternativas,"El nivel de un sonido, en decibeles, se calcula como L = 10·log₁₀(I/I₀). Si la razón I/I₀ = 1.000, ¿cuál es el nivel L?",30 dB,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,12,desarrollo_breve,"Un medicamento se elimina del organismo según C(t) = 250×(0,8)ᵗ (mg, t en horas). ¿Cuánto queda después de 3 horas, y...","(0,8)³ = 0,512. C(3) = 250×0,512 = 128 mg. Eliminado: 250−128 = 122 mg, que c...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,13,verdadero_falso,"Si b=1 en un modelo f(x)=a·bˣ, el modelo representa una situación de crecimiento.",Falso,2,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,14,desarrollo_breve,"La población de peces de una laguna disminuye según N(t) = 3.000×(0,9)ᵗ. ¿En cuántos años aproximadamente la població...","(0,9)ᵗ = 0,5. t = log(0,5)/log(0,9) ≈ (−0,3010)/(−0,0458) ≈ 6,6 años",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,15,desarrollo_breve,Una aplicación chilena de transporte compartido tiene 2.000 usuarios el día de su lanzamiento y crece un 30% diario. ...,"U(t) = 2.000×(1,3)ᵗ. (1,3)¹⁰ ≈ 13,786. U(10) ≈ 2.000×13,786 ≈ 27.572 usuarios",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,16,desarrollo_breve,"Una población de conejos era de 50 individuos y, tras 3 años de crecimiento exponencial constante, llegó a 135. Deter...","135 = 50×(1+r)³, entonces (1+r)³ = 2,7, y 1+r = ∛2,7 ≈ 1,392. Por lo tanto, r...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,17,desarrollo_breve,"Dos modelos parten del mismo valor, 1.000: f crece un 10% anual, g decrece un 10% anual. Después de 5 años, ¿cuál de ...","f(5) = 1.000×(1,1)⁵ ≈ 1.610,5 (610,5 sobre 1.000). g(5) = 1.000×(0,9)⁵ ≈ 590,...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 3,18,desarrollo_breve,Una tabla registra el valor de un bien en el tiempo: t=0 → 100; t=1 → 150; t=2 → 200; t=3 → 250. ¿Corresponde este co...,"No, porque las diferencias entre términos consecutivos son constantes (siempr...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,1,alternativas,Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?,130°,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,2,verdadero_falso,El ángulo inscrito que subtiende el mismo arco que un ángulo central de 90° mide 45°.,Verdadero,2,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,3,alternativas,Un ángulo inscrito mide 35°. ¿Cuánto mide el arco que subtiende?,70°,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,4,desarrollo_breve,El ángulo ______ tiene su vértice en el centro de la circunferencia y es igual a la medida del arco que subtiende; el...,central; inscrito,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,5,desarrollo_breve,"Dos cuerdas se cortan dentro de una circunferencia, formando un ángulo. Los arcos que abarcan (el arco opuesto y su a...",½(100°+40°) = 140°÷2 = 70°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,6,desarrollo_breve,Dos cuerdas se cortan dentro de un círculo. Los segmentos de una cuerda miden 5 cm y 8 cm. Si uno de los segmentos de...,5×8 = 4×x → 40 = 4x → x = 10 cm,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,7,desarrollo_breve,Desde un punto exterior a una circunferencia se trazan dos secantes que interceptan arcos de 150° y 50°. Calcula la m...,½(150°−50°) = 100°÷2 = 50°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,8,desarrollo_breve,"Desde un punto exterior a una circunferencia, una secante tiene parte externa de 5 cm y longitud total de 20 cm. Otra...",5×20 = 4×x → 100 = 4x → x = 25 cm,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,9,desarrollo_breve,Desde un punto exterior se traza una tangente de 12 cm y una secante cuya parte externa mide 8 cm. Calcula la longitu...,(tangente)² = externa×completa: 12² = 8×x → 144 = 8x → x = 18 cm,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,10,desarrollo_breve,"En una circunferencia de centro O, el arco AB (menor) mide 76°. Un ángulo inscrito ACB que subtiende ese mismo arco, ...",½×76° = 38°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,11,alternativas,"Una tangente y una cuerda se cortan en el punto de tangencia, formando un ángulo semiinscrito que abarca un arco de 9...",48°,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,12,verdadero_falso,"En un triángulo inscrito en una circunferencia donde uno de sus lados es un diámetro, el ángulo opuesto a ese diámetr...",Verdadero,2,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,13,desarrollo_breve,"En la rueda de la fortuna de un parque de diversiones, dos cabinas A y B están ubicadas de modo que el ángulo central...",½×60° = 30°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,14,desarrollo_breve,"En una plaza circular, dos caminos rectos (secantes) parten desde un mismo punto exterior a la plaza y cruzan la circ...",½(120°−40°) = 80°÷2 = 40°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,15,desarrollo_breve,"Dos cables tensores de un puente colgante se cruzan, actuando como cuerdas dentro del arco circular de un soporte. Lo...",6×10 = 5×x → 60 = 5x → x = 12 m,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,16,desarrollo_breve,La trayectoria de un barco pesquero (una secante) cruza cerca de una reserva marina circular. La parte de su trayecto...,"(tangente)² = externa×completa = 6×15 = 90. tangente = √90 ≈ 9,49 millas náut...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,17,desarrollo_breve,Compara un ángulo central y un ángulo inscrito que subtienden el mismo arco de una circunferencia. ¿Qué relación se c...,el ángulo inscrito siempre mide la mitad del ángulo central que subtiende el ...,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,18,desarrollo_breve,"Un electricista debe ubicar un poste de modo que, desde su base, dos cables tensores lleguen tangentes a una tubería ...","desde un mismo punto exterior, cualquier segmento tangente trazado hacia la c...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,19,desarrollo_breve,Un arco corresponde a 1/6 de la circunferencia completa. ¿Cuántos grados mide el ángulo central que lo subtiene?,360°÷6 = 60°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 4,20,desarrollo_breve,"En una circunferencia, cuatro arcos consecutivos que la completan miden 90°, 70°, x° y 110°. Determina el valor de x,...",90°+70°+110° = 270°. x = 360°−270° = 90°,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,1,alternativas,"Calcula el rango del conjunto de datos {12, 15, 9, 20, 14}.",11,4,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,2,verdadero_falso,"La desviación estándar siempre se expresa en las mismas unidades que los datos originales, a diferencia de la varianza.",Verdadero,2,Aclaración Contextual,MAT-CONT-003: convención de varianza poblacional vs muestral no explicitada
+3° medio,03-medio,OA 2,3,alternativas,"Calcula la varianza del conjunto de datos {2, 4, 6}.","2,67",4,Aclaración Contextual,MAT-CONT-003: convención de varianza poblacional vs muestral no explicitada
+3° medio,03-medio,OA 2,4,desarrollo_breve,"La varianza es el promedio de las ______ de las desviaciones respecto a la media, y la desviación estándar es su ______.",cuadrados; raíz cuadrada,0,Aclaración Contextual,MAT-CONT-003: convención de varianza poblacional vs muestral no explicitada
+3° medio,03-medio,OA 2,5,desarrollo_breve,"Dos cursos rindieron la misma prueba, con el mismo promedio: 5,5. El curso A tiene una desviación estándar de 0,4; el...","el curso A, porque una menor desviación estándar indica que las notas están m...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,6,desarrollo_breve,"Un puesto de la Vega Central registra las siguientes ventas diarias de kilos de tomate durante una semana: 40, 45, 38...","máximo=50, mínimo=35, rango = 50−35 = 15 kg",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,7,desarrollo_breve,"Los tiempos (en minutos) que demoran 4 trámites en una municipalidad son: 10, 12, 14, 16. Calcula la varianza y la de...","media=13; desviaciones (−3,−1,1,3), al cuadrado (9,1,1,9), suma=20; varianza=...",0,Aclaración Contextual,MAT-CONT-003: convención de varianza poblacional vs muestral no explicitada
+3° medio,03-medio,OA 2,8,desarrollo_breve,"Dos rutas de transporte al aeropuerto tienen el mismo tiempo promedio de viaje (45 minutos), pero la Ruta 1 tiene des...","la Ruta 1, porque su menor desviación estándar indica tiempos de viaje más pr...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,9,alternativas,¿Cuál es la fórmula correcta de la probabilidad condicional P(A|B)?,P(A∩B) / P(B),4,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,10,verdadero_falso,"Si dos eventos A y B son independientes, entonces P(A|B) = P(A).",Verdadero,2,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,11,desarrollo_breve,"En una bolsa hay 5 bolitas rojas y 3 azules. Se extraen dos bolitas al azar, sin reposición. Usando un diagrama de ár...",P(1ª roja)=5/8; P(2ª roja|1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = 5/...,0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,12,desarrollo_breve,"Repite el cálculo de la pregunta anterior, pero esta vez con reposición (se devuelve la bolita extraída antes de saca...","con reposición: P = 5/8×5/8 = 25/64 ≈ 0,391 (39,1%), un valor mayor que sin r...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,13,desarrollo_breve,Se encuesta a 150 personas sobre si practican deporte y si fuman: | | Fuma | No fuma | Total | |---|---|---|---| | Pr...,"dentro de la fila ""no practica deporte"" (70 personas), 25 fuman: P = 25/70 ≈ ...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,14,desarrollo_breve,"Usando la tabla de la pregunta 13, calcula P(practica deporte | no fuma).","dentro de la columna ""no fuma"" (115 personas), 70 practican deporte: P = 70/1...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,15,desarrollo_breve,Un examen médico tiene una sensibilidad del 95% (detecta correctamente a una persona enferma el 95% de las veces) y s...,"P(enfermo y positivo) = P(enfermo)×P(positivo|enfermo) = 0,05×0,95 = 0,0475 (...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,16,desarrollo_breve,"Una empresa de delivery en Santiago analiza sus pedidos: el 30% llega tarde cuando llueve, y solo el 8% llega tarde c...","se usa la regla de la probabilidad total, sumando cada probabilidad condicion...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,17,desarrollo_breve,"Se presentan dos evaluaciones de un mismo curso, ambas con promedio 5,0. En la evaluación 1, casi todas las notas est...","la evaluación 2, porque sus notas están mucho más alejadas del promedio (más ...",0,Verificado OK,Ninguna
+3° medio,03-medio,OA 2,18,desarrollo_breve,Se encuesta a 100 personas sobre su preferencia musical (Cumbia o Rock) según edad (Joven o Adulto). Se sabe que hay ...,"de los 40 adultos, 15 prefieren Cumbia, por lo tanto 40−15=25 prefieren Rock....",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,1,alternativas,¿Cuál es la diferencia clave entre interés simple e interés compuesto?,el interés compuesto se calcula sobre el capital más los intereses ya acumula...,4,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,2,verdadero_falso,"A igual tasa nominal anual, mientras más veces al año se capitalice el interés, mayor es la tasa efectiva anual (TEA).",Verdadero,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,3,alternativas,Calcula el monto final de un depósito de $800.000 a interés simple del 5% anual durante 4 años.,$960.000,4,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,4,desarrollo_breve,"La UF es una unidad de cuenta que se reajusta según la variación del ______, y se usa principalmente en contratos de ...",IPC (índice de precios al consumidor); largo plazo,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,5,desarrollo_breve,Un ahorro de $2.000.000 se deposita a una tasa de interés compuesto del 4% anual. Calcula el monto acumulado después ...,"M = 2.000.000×(1,04)⁶ ≈ 2.000.000×1,2653 ≈ $2.530.600",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,6,desarrollo_breve,"Una cuenta de ahorro ofrece una tasa nominal anual del 12%, capitalizada trimestralmente (n=4). Calcula la tasa efect...","TEA = (1+0,12/4)⁴−1 = (1,03)⁴−1 ≈ 1,1255−1 = 0,1255 ≈ 12,55%",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,7,desarrollo_breve,"En enero, un kilo de pan cuesta $1.200. Si el IPC acumulado en el año fue de 5%, ¿cuál es el precio estimado del mism...","1.200×(1,05) = $1.260",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,8,desarrollo_breve,"Un arriendo se pacta en 15 UF mensuales. Si el valor de la UF ese día es $38.500, ¿cuánto se debe pagar ese mes en pe...",15×38.500 = $577.500,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,9,desarrollo_breve,Un estudiante compara dos créditos de igual monto y plazo: el Crédito X tiene una tasa de interés anunciada del 10% p...,"conviene el Crédito Y, porque su CAE (13%) es menor que el del Crédito X (15%...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,10,alternativas,Un joven tiene $300.000 para ahorrar durante 2 años y debe elegir entre la Opción A (interés simple del 8% anual) y l...,"A: M = 300.000×(1+0,08×2) = 300.000×1,16 = $348.000. B: M = 300.000×(1,07)² =...",0,Defecto Estructural,ERROR: alternativas sin opciones suficientes
+4° medio,04-medio,OA 1,11,desarrollo_breve,Un estudiante recibe esta información de tres créditos para financiar un curso de $1.500.000: | Crédito | Tasa anunci...,"conviene el Crédito Q, porque tiene el menor CAE (10,5%), aunque no tenga la ...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,12,desarrollo_breve,Un capital de $600.000 se invierte a interés compuesto del 5% anual. ¿Cuánto tiempo aproximado (en años enteros) se n...,probando: t=1 → 630.000; t=2 → 661.500; t=3 → 694.575; t=4 → 729.304. Se nece...,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,13,verdadero_falso,"El CAE permite comparar el costo real de dos créditos, incluso si tienen plazos distintos, porque expresa el costo co...",Verdadero,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,14,desarrollo_breve,"El sueldo de una persona era de $500.000 mensuales hace un año y hoy es de $520.000. En ese mismo período, el IPC acu...","el sueldo aumentó un 520.000/500.000 − 1 = 4%, mientras que los precios (IPC)...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,15,desarrollo_breve,Dos bancos ofrecen depósitos a plazo con tasa nominal anual de 10%: el Banco A capitaliza mensualmente (n=12) y el Ba...,"Banco A: TEA = (1+0,10/12)¹²−1 ≈ 10,47%. Banco B: TEA = (1+0,10/2)²−1 = (1,05...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,16,desarrollo_breve,"Una familia evalúa un crédito hipotecario en UF, con una tasa de interés anual de 4,5% sobre un monto de 2.000 UF a 2...","porque la deuda está expresada en UF, que se reajusta automáticamente según e...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,17,desarrollo_breve,"Repite el cálculo del Ejemplo 1 (capital $500.000, tasa 6% anual) pero para un plazo de 15 años. Calcula ambos montos...","Simple: M = 500.000×(1+0,06×15) = 500.000×1,9 = $950.000. Compuesto: M = 500....",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 1,18,desarrollo_breve,"Un joven de 18 años recibe $1.000.000 y debe decidir entre: (A) gastarlo ahora, (B) ahorrarlo 5 años a interés compue...","(abierta, ejemplo de buena respuesta): además de las tasas, se necesitaría sa...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,1,alternativas,¿Cuál de las siguientes es una función potencia con exponente entero negativo?,f(x) = 5/x³,4,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,2,verdadero_falso,"En una función potencia f(x)=a·xⁿ con n negativo, el valor de f(x) nunca puede ser igual a 0.",Verdadero,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,3,alternativas,"Si f(x) = 4x³, ¿cuál es el valor de f(3)?",108,4,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,4,desarrollo_breve,"En el modelo f(x) = A·sen(B(x−C))+D, el parámetro A se llama ______ y determina cuánto se aleja el valor de la funció...",amplitud; valor medio (o valor central),0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,5,desarrollo_breve,Un modelo periódico está dado por f(x) = 5·sen(2x). Calcula su período.,"T = 2π/B = 2π/2 = π (aproximadamente 3,14 unidades de x por ciclo)",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,6,desarrollo_breve,"La fuerza de atracción gravitacional entre dos objetos sigue aproximadamente F(d) = k/d², donde d es la distancia ent...","al duplicar la distancia, la fuerza se divide por 2²=4 (por el exponente −2):...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,7,desarrollo_breve,"La altura de la marea en una caleta chilena se modela como h(t) = 1,5·sen((π/6)t) + 3 (metros, t en horas desde la me...","altura máxima = D+A = 3+1,5 = 4,5 m; altura mínima = D−A = 3−1,5 = 1,5 m; per...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,8,desarrollo_breve,"Un péndulo oscila de modo que su posición horizontal x(t) (cm) varía entre −10 cm y 10 cm, completando un ciclo cada ...","amplitud A=10; valor medio D=0 (oscila simétricamente); período T=4, por lo t...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,9,desarrollo_breve,"Compara los modelos f(x)=x² y g(x)=x³ para valores de x mayores que 1. ¿Cuál crece más rápido a medida que x aumenta,...","para x>1, g(x)=x³ crece más rápido que f(x)=x² (por ejemplo, en x=4: f=16, g=...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,10,desarrollo_breve,Una tabla muestra cómo varía el volumen V de una serie de cubos según la longitud L de su arista: L=1→V=1; L=2→V=8; L...,"los valores corresponden exactamente a L³ (1³=1, 2³=8, 3³=27, 4³=64), por lo ...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,11,alternativas,"¿Cuál es la diferencia principal entre los modelos f(x)=A·sen(Bx) y g(x)=A·cos(Bx), ambos con el mismo valor medio D=0?","representan el mismo tipo de oscilación, pero con distinto punto de partida (...",4,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,12,verdadero_falso,Un modelo de potencia f(x)=a·xⁿ y un modelo exponencial g(x)=a·bˣ pueden dar el mismo valor en algunos puntos específ...,Verdadero,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,13,desarrollo_breve,"Un modelo de temperatura diaria es T(h) = 6·sen((π/12)(h−9)) + 18 (°C, h=hora del día, 0 a 24). ¿A qué hora ocurre ap...","el máximo de sen ocurre cuando su argumento es π/2, es decir cuando (π/12)(h−...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,14,desarrollo_breve,El costo de fabricar una plancha de metal cuadrada de lado L sigue el modelo C(L) = 25·L² (en miles de pesos). Si se ...,"el costo aumenta en un factor de 4, porque C(2L) = 25×(2L)² = 25×4L² = 4×(25L...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,15,desarrollo_breve,Un analista debe elegir un modelo para dos situaciones: (1) el número de horas de luz solar en Santiago a lo largo de...,"para (1), horas de luz solar a lo largo del año, corresponde un modelo trigon...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,16,desarrollo_breve,"Compara los modelos f(x)=2·sen(x)+10 y g(x)=5·sen(x)+10. Sin graficar, indica entre qué valores oscila cada uno y cuá...",f(x) oscila entre 10−2=8 y 10+2=12. g(x) oscila entre 10−5=5 y 10+5=15. g(x) ...,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,17,desarrollo_breve,"Un estudiante registra la profundidad del agua en un muelle cada 3 horas durante un día: 0h→2,0 m; 3h→3,2 m; 6h→2,0 m...","sí es razonable, porque los valores suben y bajan de forma simétrica alrededo...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 3,18,desarrollo_breve,"La intensidad de un sonido sigue I(d) = 500/d² (unidades relativas), donde d es la distancia en metros. ¿A qué distan...",500/d² = 5 → d² = 500/5 = 100 → d = 10 metros,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,1,alternativas,¿Cuál de las siguientes situaciones se modela mejor con una distribución binomial?,"el número de veces que sale ""6"" al lanzar un dado 10 veces",4,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,2,verdadero_falso,"En una distribución normal, aproximadamente el 95% de los datos se encuentra dentro de 2 desviaciones estándar de la ...",Verdadero,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,3,alternativas,"En un modelo binomial con n=8 y p=0,5, ¿cuál es el valor esperado (media) del número de éxitos?",4,4,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,4,desarrollo_breve,"El modelo binomial se aplica a variables ______ (que se cuentan), mientras que el modelo normal se aplica a variables...",discretas; continuas,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,5,desarrollo_breve,"Un vendedor tiene una probabilidad de 0,3 de cerrar una venta en cada visita a un cliente. Si realiza 4 visitas, calc...","n=4, p=0,3, k=2. C(4,2)=6. P(X=2)=6×(0,3)²×(0,7)²=6×0,09×0,49≈0,2646 (26,46%)",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,6,desarrollo_breve,"En un proceso de control de calidad, la probabilidad de que un producto tenga un defecto es 0,05. Se revisan 200 prod...","μ = n×p = 200×0,05 = 10 productos defectuosos esperados. σ² = n×p×(1−p) = 200...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,7,desarrollo_breve,"El tiempo de reacción de los conductores ante una señal de alerta se distribuye normalmente con media μ=0,8 segundos ...","μ±2σ = 0,8±0,2, es decir, entre 0,6 y 1,0 segundos",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,8,desarrollo_breve,Una farmacéutica estudia dos variables: (1) si cada paciente de un ensayo clínico presenta o no un efecto secundario ...,"(1) corresponde a un modelo binomial, porque cada paciente tiene un resultado...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,9,desarrollo_breve,"En un examen de alternativas con 5 preguntas de verdadero/falso, un estudiante responde al azar (p=0,5 de acertar cad...","n=5, p=0,5, k=5. C(5,5)=1. P(X=5) = 1×(0,5)⁵×(0,5)⁰ = (0,5)⁵ = 0,03125 (3,125%)",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,10,verdadero_falso,"Una encuesta a 30 personas en un centro comercial de un solo barrio de Santiago concluye que ""el 70% de los chilenos ...",Falso,2,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,11,desarrollo_breve,"Un estudio encuentra que, en distintas ciudades, existe una fuerte correlación entre el número de heladerías y el núm...",No. Ambas variables están relacionadas con una tercera: la temperatura (en me...,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,12,desarrollo_breve,Un analista quiere modelar el número de artículos defectuosos en lotes de 20 unidades producidas en una fábrica (con ...,"No es la elección más pertinente, al menos no directamente: se trata de una v...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,13,desarrollo_breve,Dos tratamientos médicos se prueban en grupos de 10 pacientes cada uno. El Tratamiento A tiene probabilidad de éxito ...,"el Tratamiento B, porque tiene mayor p. En promedio: A: μ=10×0,6=6 pacientes;...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,14,desarrollo_breve,"Antes de una elección, una encuesta telefónica solo logra contactar a personas mayores de 60 años, y concluye una pre...",el límite es un sesgo de muestra (o sesgo de selección): al contactar solo a ...,0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,15,desarrollo_breve,"La probabilidad de que un vuelo se retrase es 0,1. Se analizan 3 vuelos independientes. Calcula la probabilidad de qu...","es más simple calcular el complemento: P(ninguno se retrasa) = (0,9)³ = 0,729...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,16,desarrollo_breve,Dos máquinas envasadoras llenan bolsas de arroz con un peso medio de 1.000 g. La Máquina 1 tiene σ=5 g y la Máquina 2...,"970 g está a 30 g bajo la media. Para la Máquina 1 (σ=5), eso equivale a 30/5...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,17,desarrollo_breve,"Un titular de prensa afirma: ""Un estudio de 15 personas demuestra que el suplemento X mejora la memoria"". ¿Qué pregun...","(abierta, ejemplo de buena respuesta): ¿el tamaño de la muestra (15 personas)...",0,Verificado OK,Ninguna
+4° medio,04-medio,OA 2,18,desarrollo_breve,"En una línea de producción, cada artículo tiene una probabilidad de 0,02 de salir defectuoso. Se revisa una muestra d...","P(ninguno defectuoso) = (0,98)⁵ ≈ 0,9039 (90,39%). P(al menos uno defectuoso)...",0,Verificado OK,Ninguna

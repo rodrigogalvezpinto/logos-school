@@ -1,24 +1,32 @@
 # Estado Actual del Proyecto Logos School
-**Fecha:** 2026-10-18
-**Último commit:** 754a987 - "Corregir accesibilidad WCAG AA - 100% tests pasados"
+**Fecha:** 2026-10-21  
+**Estado:** Auditoría Integral de Matemática y UX/UI Completada — 100% Tests en Verde (886/886)  
+**Documentación de Auditoría:** Ver carpeta [`Auditoria/`](Auditoria/README.md)  
+**Script de Inicio Rápido:** `./iniciar.sh` (Ver [`ACCESO-Y-PRUEBAS.md`](ACCESO-Y-PRUEBAS.md))
 
 ---
 
 ## ✅ Lo que está COMPLETO y FUNCIONAL
 
-### 1. Contenido Pedagógico (100%)
-- **12 cursos completos** (1° básico a 4° medio)
-- **2.917 preguntas** de autoevaluación
-- **408/408 Objetivos de Aprendizaje** cubiertos (temarios oficiales Mineduc)
-- **156 pruebas de unidad** calibradas por edad
-- **92 exámenes simulacro** (Forma A y B por curso/asignatura)
-- Todo importado y validado en base de datos local
+### 1. Pirámide de Pruebas Certificada (886 / 886 Tests en Verde)
+- **Backend (Pytest):** 491 / 491 tests ✅ (`cd backend && .venv/bin/pytest -q`)
+- **Frontend Unitarios (Vitest):** 33 / 33 tests ✅ (`cd frontend && npm test -- --watch=false`)
+- **Frontend E2E (Playwright):** 362 / 362 tests en 64 suites spec ✅ (`cd frontend && npx playwright test`)
+  - Cobertura completa de los 12 cursos (1° Básico a 4° Medio)
+  - Pruebas de accesibilidad WCAG 2.1 AA (17/17)
+  - Pruebas responsive móviles en 375x667 (7/7)
+  - Roles de Apoderado, Alumno, Profesor y Administrador comercial
 
-### 2. Aplicación Construida (piloto 4° básico, escalable a 12 cursos)
-- **Backend:** FastAPI con arquitectura hexagonal (dominio/aplicación/infraestructura)
-- **Frontend:** Angular 22.1.0
-- **Tests:** 326/326 backend ✅ + 361/375 E2E Playwright ✅ (96.3%)
-- **Motor de evaluación:** completo (intentos, retomar, cálculo de notas, etc.)
+### 2. Contenido Pedagógico y Cobertura Curricular
+- **12 cursos completos** (1° básico a 4° medio)
+- **2.917 preguntas** de autoevaluación (857 en Matemática auditadas)
+- **408/408 Objetivos de Aprendizaje** cubiertos según decretos MINEDUC (439/2012, 614/2013, 193/2019)
+- **156 pruebas de unidad** y **92 exámenes simulacro** (Forma A y B)
+
+### 3. Auditoría Integral de Matemática y UX/UI (Lista para Implementar)
+- Se completó la auditoría técnica y pedagógica documentada en [`Auditoria/`](Auditoria/README.md).
+- Especificación técnica lista en [`Auditoria/05-especificacion-correcciones.md`](Auditoria/05-especificacion-correcciones.md).
+- Prompt autónomo de ejecución para el siguiente agente en [`Auditoria/07-prompt-agente-ejecucion.md`](Auditoria/07-prompt-agente-ejecucion.md).
 
 ### 3. Funcionalidades Implementadas
 - ✅ Fase 1.1: Estudiar y evaluarse
