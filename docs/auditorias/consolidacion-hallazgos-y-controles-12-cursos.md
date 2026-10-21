@@ -113,3 +113,17 @@ No marcar como «cerrado» un hallazgo solo porque se haya redactado una recomen
 - No se ha demostrado aún cobertura oficial del currículo completo de cada nivel.
 - Las cantidades históricas de archivos, preguntas y pruebas requieren regeneración desde el HEAD vigente.
 - No se modificó contenido educativo, lógica de la aplicación ni base de datos.
+
+## 8. Evidencia de control automático — 2026-10-21
+
+Se ejecutó el workflow de GitHub Actions sobre la rama `qa/fase-2-matriz-trazabilidad`.
+
+- Ejecución: https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39690768987
+- Pruebas unitarias del validador: **7 aprobadas** en esa ejecución.
+- Control estructural: **2 hallazgos detectados**; el job termina en fallo intencional para impedir que las inconsistencias pasen inadvertidas.
+- Hallazgo 1: `contenido/04-basico/examenes/examen-integrado-forma-b.md`, pregunta 16. La pauta declara `c) 14`, mientras que la alternativa c es 13 y la alternativa b es 14.
+- Hallazgo 2: `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`. Se declaran 30 puntos al inicio y 35 puntos en la pauta final.
+
+La mejora del patrón de lectura de puntajes permite reconocer declaraciones que incluyen negrita Markdown. La detección automática aporta evidencia estructural, pero no cierra los hallazgos: ambos requieren corrección propuesta, aprobación y regresión. La prueba unitaria adicional para puntajes con formato Markdown se añadió en el commit `531e696eeadd2cbd6c88ab0086c8301c1d899608`; en esa ejecución, las pruebas unitarias pasaron, mientras el control estructural volvió a fallar al detectar los dos hallazgos esperados.
+
+**Estado de certificación:** no certificado al 100 %. No se ha completado la revisión manual de todos los materiales, el cotejo curricular oficial ni la verificación integral del render e importación en la aplicación.
