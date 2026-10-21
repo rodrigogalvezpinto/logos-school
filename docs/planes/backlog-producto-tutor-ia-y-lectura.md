@@ -132,3 +132,31 @@ Confirmar si la primera versión utilizará exclusivamente asignación aleatoria
 - Medir precisión de transcripción y de detección de errores en español chileno, con distintos micrófonos y condiciones acústicas.
 - Comparar métricas automáticas con la evaluación humana antes de mostrar resultados como puntuaciones.
 - Probar si las recomendaciones ayudan a mejorar en lecturas nuevas, no solo en textos ya practicados.
+
+
+## 1.2 Comprensión lectora: tres preguntas de alternativas
+
+**Aporte del usuario:** después de leer el texto, la aplicación anterior presentaba tres preguntas de selección múltiple para evaluar la comprensión lectora. Se incorpora este paso al flujo propuesto.
+
+### Flujo candidato
+1. El estudiante termina la lectura asignada.
+2. La aplicación presenta **tres preguntas de alternativas** relacionadas con el texto leído.
+3. Las preguntas se responden después de la lectura, sin mostrar las respuestas correctas durante la evaluación.
+4. El sistema registra las respuestas y calcula el resultado de comprensión por separado de las métricas de precisión y fluidez lectora.
+5. Se ofrece retroalimentación apropiada para la edad y, cuando sea pedagógicamente útil, se invita al estudiante a volver al texto para encontrar evidencia que respalde la respuesta.
+
+### Diseño y validación
+- Las preguntas deben estar vinculadas al texto concreto y tener una clave de respuesta revisada por una persona.
+- Cuando el banco lo permita, conviene variar las preguntas o generar versiones equivalentes para reducir la memorización; cualquier pregunta generada automáticamente debe validarse antes de utilizarse como evaluación.
+- La selección de preguntas debe cubrir habilidades de comprensión apropiadas al curso, por ejemplo, recuperar información explícita, realizar inferencias sencillas e interpretar vocabulario o ideas según el nivel.
+- Tres preguntas ofrecen una comprobación breve, pero **no bastan por sí solas para diagnosticar una dificultad lectora** ni necesariamente representan de manera exhaustiva la comprensión del estudiante. El resultado debe interpretarse como evidencia puntual y combinarse con observaciones a lo largo del tiempo.
+- La puntuación de comprensión se informa separada de palabras por minuto y precisión. No se debe inferir comprensión únicamente a partir de la fluidez oral.
+- Las preguntas, respuestas correctas, habilidades evaluadas y criterios de puntuación deben revisarse con docentes y alinearse con los objetivos curriculares vigentes del MINEDUC antes de presentarse como evaluación curricular oficial.
+
+### Resultado por sesión
+El resumen de lectura podrá incluir tres dimensiones diferenciadas:
+- **Precisión:** estimación de palabras leídas de acuerdo con el texto.
+- **Fluidez:** métricas observables de ritmo y pausas, interpretadas según una pauta validada.
+- **Comprensión:** respuestas correctas de las tres preguntas, con indicación de que es una muestra breve.
+
+El objetivo es que Logos School identifique oportunidades concretas de práctica, no etiquetar al estudiante a partir de una única sesión.
