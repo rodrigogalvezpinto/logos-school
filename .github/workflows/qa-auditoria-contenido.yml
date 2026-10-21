@@ -1,0 +1,32 @@
+name: QA auditoría de contenido
+
+on:
+  push:
+    branches:
+      - qa/fase-2-matriz-trazabilidad
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-evaluaciones-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar pytest
+        run: python -m pip install --upgrade pytest
+      - name: Ejecutar pruebas unitarias del validador
+        working-directory: backend
+        run: python -m pytest -q tests/test_validar_evaluaciones_markdown.py
+      - name: Ejecutar control estructural sobre contenido
+        working-directory: backend
+        run: python scripts/validar_evaluaciones_markdown.py
