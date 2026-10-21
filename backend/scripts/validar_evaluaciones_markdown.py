@@ -10,7 +10,7 @@ OPTION_RE = re.compile(r"^\s*([a-d])\)\s*(.*?)\s*$", re.IGNORECASE)
 TOTAL_RE = re.compile(r"(?i)puntaje\s+total\s*:\s*(\d+)\s*puntos?")
 QUESTION_RE = re.compile(r"^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?")
 INLINE_KEY_RE = re.compile(r"(?i)respuesta\s+correcta\s*:\s*\*{0,2}([a-d])\)\s*(.+?)\*{0,2}\s*$")
-TABLE_KEY_RE = re.compile(r"(?i)\*{0,2}([a-d])\)\s*(.+?)\*{0,2}[.]?\s*$")
+TABLE_KEY_RE = re.compile(r"(?i)^\*{0,2}([a-d])\)\s*([^*|]+?)(?:\.\*{0,2}|\*)?(?:\s|$)")
 
 
 def _question_options(markdown: str) -> dict[int, dict[str, str]]:
