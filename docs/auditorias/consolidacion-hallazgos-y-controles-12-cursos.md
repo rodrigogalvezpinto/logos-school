@@ -141,3 +141,13 @@ Se volvieron a abrir los archivos vigentes de la rama QA y se contrastaron los s
 No se ha comprobado todavía el render real de la prueba de 1.º básico. En 5.º básico, la suma documental de los 25 ítems y de la pauta se reprodujo en 35 puntos, pero la corrección del encabezado requiere aprobación. Estos casos permanecen abiertos y no deben contarse como cerrados.
 
 **Estado de certificación:** no certificado al 100 %. No se ha completado la revisión manual de todos los materiales, el cotejo curricular oficial ni la verificación integral del render e importación en la aplicación.
+
+
+## 10. Informes de lotes documentales
+
+Se crearon informes separados para conservar el alcance, la evidencia y las limitaciones de cada revisión:
+
+- [Lote 4.º básico — examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md): discrepancia confirmada entre la letra de la clave y la alternativa que contiene 14; revisión disciplinar de las 20 preguntas y render aún pendientes.
+- [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): se reprodujo que los 25 ítems, la pauta y la distribución por eje suman 35 puntos, mientras el encabezado declara 30; revisión curricular, de contenido y de aplicación aún pendientes.
+
+Estos informes no cambian materiales educativos ni cierran los hallazgos. Se mantienen en la rama de QA.
