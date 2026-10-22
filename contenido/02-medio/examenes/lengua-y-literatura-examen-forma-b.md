@@ -145,7 +145,7 @@ d) Antítesis
 
 **16. (Desarrollo breve)** Identifica la falla en la argumentación presente en el segundo párrafo del texto, y explica por qué corresponde a ese tipo de falla.
 
-**17. (Desarrollo extenso)** Da tu propia postura frente a la tesis del autor, fundamentando con al menos un argumento propio. Luego, explica por qué el uso de palabras valorativas como "simplista" y la expresión "ya no hay welcome de vuelta" —usada como si fuera una certeza absoluta— pueden debilitar, y no solo fortalecer, la fuerza argumentativa del texto ante un lector crítico.
+**17. (Desarrollo extenso)** Da tu propia postura frente a la tesis del autor, fundamentando con al menos un argumento propio. Luego, explica por qué el uso de palabras valorativas como "simplista" y la expresión "ya no hay vuelta atrás" —usada como si fuera una certeza absoluta— pueden debilitar, y no solo fortalecer, la fuerza argumentativa del texto ante un lector crítico.
 
 ---
 
