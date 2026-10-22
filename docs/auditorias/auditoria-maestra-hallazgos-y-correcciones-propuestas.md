@@ -113,6 +113,21 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Validación requerida:** prueba algebraica independiente, revisión de opciones y prueba de regresión de importación/calificación.
 - **Archivo fuente modificado en fase 1:** no.
 
+## H-010 — La Forma B de 2.º básico reutiliza un texto de la Forma A pese a prometer preguntas distintas
+
+- **Estado:** confirmado
+- **Prioridad:** P2 (subir a P1 si el criterio de producto exige formas completamente independientes)
+- **Curso:** 2.º básico
+- **Asignatura:** Lenguaje y Comunicación
+- **Archivos:** [Forma A](../../contenido/02-basico/examenes/examen-integrado-forma-a.md) y [Forma B](../../contenido/02-basico/examenes/examen-integrado-forma-b.md)
+- **Ubicación exacta:** Forma A, pregunta 6; Forma B, pregunta 8.
+- **Evidencia:** ambas formas incluyen el mismo texto «La fiesta sorpresa de Emilia», con la misma descripción de Emilia, sus amigos Benjamín y Constanza, la preparación de la fiesta, el queque de manzana y la reacción de Emilia. La Forma B declara que utiliza un banco de preguntas distinto y que permite practicar dos veces con contenido diferente.
+- **Problema:** el estímulo de lectura se repite literalmente aunque las preguntas vinculadas no sean idénticas.
+- **Por qué importa:** quien ya practicó la Forma A puede recordar el texto y responder la Forma B sin realizar una lectura nueva; esto reduce la independencia de las formas y contradice parcialmente la promesa de contenido diferente.
+- **Corrección propuesta para fase 2:** reemplazar el texto de una de las formas por un estímulo nuevo de dificultad y extensión comparables, revisar sus preguntas y pauta, o ajustar la promesa si la reutilización deliberada está permitida.
+- **Validación requerida:** comparar estímulos y preguntas de A/B semánticamente, no solo por igualdad de enunciados; comprobar clave, pauta, dificultad aproximada y renderizado del texto sustituto.
+- **Archivo fuente modificado en fase 1:** no.
+
 ## H-008 — Enunciado de estado de la materia contiene la expresión «información líquida»
 
 - **Estado:** confirmado
