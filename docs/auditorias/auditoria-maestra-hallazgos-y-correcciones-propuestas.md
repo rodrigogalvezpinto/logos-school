@@ -16,7 +16,8 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 | Prioridad | Cantidad registrada en esta versión | Interpretación |
 |---|---:|---|
 | P1 confirmado | 5 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación (H-001, H-007, H-009, H-012 y H-013) |
-| P1 provisional | 1 | Hallazgo pendiente de comprobar en el renderizado de la aplicación (H-006) |\n| P2 | 7 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
+| P1 provisional | 1 | Hallazgo pendiente de comprobar en el renderizado de la aplicación (H-006) |
+| P2 | 7 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
 Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos. Conteo verificado en la rama actual: 5 P1 confirmados (H-001, H-007, H-009, H-012 y H-013), 1 P1 provisional (H-006) y 7 P2 (H-002 a H-005, H-008, H-010 y H-011): 13 hallazgos en total. Nota de continuidad: el contexto de traspaso mencionaba 12 hallazgos, pero el archivo real de esta rama ya contiene H-013, un hallazgo documental distinto sobre la escala de conversión. Se conserva para no eliminar evidencia; por ello el resumen refleja 13.
