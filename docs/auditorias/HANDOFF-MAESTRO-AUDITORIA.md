@@ -196,7 +196,14 @@ Este handoff se actualiza para que la continuidad no dependa de la conversación
 2. Actualizar la matriz maestra por archivo y conciliarla con `auditoria-maestra-hallazgos-y-correcciones-propuestas.md`, los IDs LGS y los issues. No sumar el mismo hallazgo varias veces por aparecer en documentos distintos.
 3. No crear un informe nuevo si el archivo/pregunta ya está cubierto: ampliar el existente y enlazarlo en el índice y el centro de control.
 4. Separar estado por dimensiones: documental, disciplinar, curricular, didáctico, accesibilidad/recursos, render/importación, calificación y regresión.
-5. Antes de seguir ampliando cribados, regenerar la matriz desde el HEAD actual (rutas, tamaños, blob SHA y estado heredado revisado), actualizar cifras de línea base y definir un lote único con denominador explícito.
+5. La matriz ya tiene rutas, tamaños y blob SHA sincronizados para las 290 rutas del árbol inspeccionado. Ahora reconciliar los estados heredados y definir un lote único con denominador explícito.
 6. Mantener las correcciones ya autorizadas en QA; cada una sigue `corregido_pendiente_regresion` hasta evidencia verificable. No modificar `main` ni bases de datos de producción.
 
-**Próxima acción única:** regenerar y reconciliar la matriz maestra contra el HEAD actual, sin abrir un nuevo lote sustantivo hasta que las rutas, estados, IDs y referencias queden alineados.
+**Próxima acción única:** reconciliar los IDs H-###, LGS y los hallazgos de informes/Issues; después sincronizar el estado de los 11 cambios aplicados en QA con evidencia de regresión. No abrir un nuevo lote sustantivo hasta dejar esa trazabilidad alineada.
+
+
+### Confirmación de sincronización de matriz — 2026-10-22
+
+- Se regeneraron los campos `bytes` y `blob_sha` para las 290 rutas de `contenido/` y `Temarios/` en `matriz-maestra-estado-por-archivo.csv`, commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`.
+- Se actualizaron el centro de control, el inventario y este índice/handoff para dejar claro el nuevo corte y los límites de la matriz.
+- Los estados de auditoría fueron preservados, no recalculados automáticamente: requieren reconciliación manual con `registro-implementacion-correcciones-2026-10-22.md` y `auditoria-maestra-hallazgos-y-correcciones-propuestas.md`.
