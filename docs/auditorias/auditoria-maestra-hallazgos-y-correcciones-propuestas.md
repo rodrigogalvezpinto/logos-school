@@ -113,6 +113,21 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Validación requerida:** prueba algebraica independiente, revisión de opciones y prueba de regresión de importación/calificación.
 - **Archivo fuente modificado en fase 1:** no.
 
+## H-011 — Pregunta de rutina diaria tiene una alternativa que no responde al momento indicado
+
+- **Estado:** confirmado
+- **Prioridad:** P2
+- **Curso:** 1.º básico
+- **Asignatura:** Historia, Geografía y Ciencias Sociales
+- **Archivo:** [examen-integrado-forma-a.md](../../contenido/01-basico/examenes/examen-integrado-forma-a.md)
+- **Ubicación exacta:** pregunta 3; pauta de corrección, fila 3.
+- **Evidencia:** el enunciado pregunta «¿Qué haces primero en la mañana?»; la clave indica «a) Dormir toda la noche».
+- **Problema:** dormir toda la noche ocurre antes de la mañana y no es una acción que se haga primero durante ella. La respuesta no corresponde al marco temporal literal de la pregunta.
+- **Por qué importa:** para un estudiante de 1.º básico, el desajuste entre «en la mañana» y «dormir toda la noche» puede convertir una pregunta de secuencia temporal en una adivinanza sobre la intención del autor.
+- **Corrección propuesta para fase 2:** cambiar el enunciado a «¿Qué haces durante la noche, antes de comenzar un nuevo día?» o sustituir la alternativa correcta por una acción matutina clara y ajustar la pauta.
+- **Validación requerida:** verificar que haya una única respuesta defendible, acorde con el OA de secuencia temporal y con la edad del curso.
+- **Archivo fuente modificado en fase 1:** no.
+
 ## H-010 — La Forma B de 2.º básico reutiliza un texto de la Forma A pese a prometer preguntas distintas
 
 - **Estado:** confirmado
