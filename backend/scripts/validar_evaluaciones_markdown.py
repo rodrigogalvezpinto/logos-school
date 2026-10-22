@@ -89,7 +89,15 @@ def check_key_option_consistency(markdown: str, path: str = "<memoria>") -> list
         if len(cells) < 3 or not cells[0].isdigit():
             continue
         question_no = int(cells[0])
-        match = TABLE_KEY_RE.match(cells[2].strip().strip("*_ "))
+        # La columna de clave cambia entre formatos de pauta. Buscar una clave
+        # explícita en cualquier celda posterior al número, no asumir que siempre
+        # ocupa cells[2] (en algunas pautas está en cells[1]).
+        match = None
+        for cell in cells[1:]:
+            candidate = TABLE_KEY_RE.match(cell.strip().strip("*_ "))
+            if candidate:
+                match = candidate
+                break
         if match:
             findings.extend(_compare(question_no, match.group(1), match.group(2),
                                      options_by_question, path, line_no))
