@@ -193,3 +193,13 @@ Se creó [Lote transversal — cribado de exámenes de Matemática de 3.º medio
 El hallazgo P1 nuevo de la pauta de Matemática de 2.º medio (pregunta 14, inversa de `x+10`) sigue confirmado y documentado en su informe de lote. El cribado transversal no encontró otra discrepancia numérica inequívoca dentro de los ítems recalculados; no se debe interpretar como validación de los ítems restantes.
 
 CI continúa con conclusión de fallo en los runs recientes; el validador estructural aún tiene que señalar los problemas conocidos de 4.º y 5.º básico, y todavía no está configurado para detectar el conflicto semántico de la pregunta 14 de 2.º medio. No se modificaron materiales educativos ni `main`.
+
+
+## 13. Ciencias Naturales de 1.º medio — Forma B
+
+Se creó [Lote 1.º medio — revisión conceptual y aritmética de Ciencias Naturales Forma B](lote-01-medio-ciencias-naturales-forma-b.md).
+
+- **P2 conceptual, pregunta 9:** la pauta usa “bioacumulación (o biomagnificación)” como si fueran equivalentes; la explicación describe principalmente biomagnificación (aumento entre niveles tróficos). Debe verificarse el enunciado exacto y diferenciar los términos.
+- **Puntaje consistente:** 15 preguntas de alternativas (15 puntos), 4 desarrollos breves (8 puntos) y 6 desarrollos extensos (18 puntos), total 41 puntos para 25 preguntas.
+- Los cálculos seleccionados de energía trófica, sonar y estequiometría fueron consistentes con los supuestos del enunciado. Esto no valida todos los ítems ni los OA.
+- El archivo fuente no se modificó. Pendientes: cotejo de OA oficiales, comparación Forma A/B y QA de app.
