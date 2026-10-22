@@ -1,5 +1,8 @@
 # Consolidación de hallazgos preliminares — auditoría de 12 cursos
 
+> **Referencia de estado vigente (2026-10-22):** consultar primero el [Centro de control único de auditoría](00-CENTRO-DE-CONTROL-AUDITORIA.md). Esta consolidación acumula hallazgos por fecha/lote y contiene secciones históricas; la numeración repetida y los alcances distintos son motivos para usar el centro de control como índice, no para asumir que cada sección equivale a un cierre.
+
+
 **Fecha de corte:** 21 de octubre de 2026  
 **Repositorio:** rodrigogalvezpinto/logos-school  
 **Rama:** qa/fase-2-matriz-trazabilidad  
