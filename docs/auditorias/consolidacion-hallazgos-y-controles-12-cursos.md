@@ -114,16 +114,30 @@ No marcar como «cerrado» un hallazgo solo porque se haya redactado una recomen
 - Las cantidades históricas de archivos, preguntas y pruebas requieren regeneración desde el HEAD vigente.
 - No se modificó contenido educativo, lógica de la aplicación ni base de datos.
 
-## 8. Evidencia de control automático — 2026-10-21
+## 8. Evidencia de control automático y reproducción documental — 2026-10-21
 
 Se ejecutó el workflow de GitHub Actions sobre la rama `qa/fase-2-matriz-trazabilidad`.
 
-- Ejecución: https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39690768987
-- Pruebas unitarias del validador: **7 aprobadas** en esa ejecución.
+- Última ejecución verificada: https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39690867855
+- Pruebas unitarias del validador: **8 aprobadas** en esa ejecución.
 - Control estructural: **2 hallazgos detectados**; el job termina en fallo intencional para impedir que las inconsistencias pasen inadvertidas.
 - Hallazgo 1: `contenido/04-basico/examenes/examen-integrado-forma-b.md`, pregunta 16. La pauta declara `c) 14`, mientras que la alternativa c es 13 y la alternativa b es 14.
 - Hallazgo 2: `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`. Se declaran 30 puntos al inicio y 35 puntos en la pauta final.
 
-La mejora del patrón de lectura de puntajes permite reconocer declaraciones que incluyen negrita Markdown. La detección automática aporta evidencia estructural, pero no cierra los hallazgos: ambos requieren corrección propuesta, aprobación y regresión. La prueba unitaria adicional para puntajes con formato Markdown se añadió en el commit `531e696eeadd2cbd6c88ab0086c8301c1d899608`; en esa ejecución, las pruebas unitarias pasaron, mientras el control estructural volvió a fallar al detectar los dos hallazgos esperados.
+La mejora del patrón de lectura de puntajes permite reconocer declaraciones que incluyen negrita Markdown. La detección automática aporta evidencia estructural, pero no cierra los hallazgos: ambos requieren corrección propuesta, aprobación y regresión. La prueba unitaria adicional para puntajes con formato Markdown se añadió en el commit `531e696eeadd2cbd6c88ab0086c8301c1d899608`; en la ejecución más reciente, las ocho pruebas unitarias pasaron, mientras el control estructural volvió a fallar al detectar los dos hallazgos esperados.
+
+
+## 9. Reproducción documental adicional — 2026-10-21
+
+Se volvieron a abrir los archivos vigentes de la rama QA y se contrastaron los siguientes casos. Esta comprobación es de fuente Markdown; no sustituye la inspección del render ni la verificación de recursos externos.
+
+| Caso | Evidencia reproducida | Estado | Siguiente paso |
+|---|---|---|---|
+| LGS-1B-MAT-001 | En `contenido/01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md`, la pregunta 2 pide ordenar goma, lápiz y regla por longitud, pero el enunciado no proporciona medidas ni declara una imagen. La pauta presupone un orden único. | Confirmado en la fuente; pendiente verificar render y recursos externos. | Inspeccionar la prueba en QA y comprobar si existe una ilustración asociada fuera del Markdown. No modificar hasta autorización. |
+| LGS-4B-EVAL-001 | En `contenido/04-basico/examenes/examen-integrado-forma-b.md`, el control automático reproduce que la pauta de la pregunta 16 dice `c) 14`, mientras la alternativa c es 13 y la b es 14. | Confirmado documental y automáticamente. | Proponer corrección de la letra de la clave, solicitar aprobación y añadir regresión antes de editar contenido. |
+| LGS-5B-EVAL-001 | En `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`, el encabezado declara 30 puntos; el control detecta otra declaración de 35 puntos. La suma real de todos los ítems aún debe recalcularse manualmente. | Discrepancia de declaraciones confirmada; total correcto pendiente. | Sumar todos los puntajes de preguntas y rúbricas y contrastarlos con el total declarado. |
+| LGS-6B-MAT-001 | En `contenido/06-basico/matematica.md`, 24.600 ÷ 12 = 2.050 cajas y 2.050 ÷ 3 = 683 cajas por distribuidor con resto 1. La retroalimentación usa `≈ 683` pero no explica el resto. | Confirmado en la fuente; la gravedad depende de la intención didáctica y del contexto de reparto. | Determinar si se esperan cajas enteras y cómo se distribuye la caja restante; revisar la solución pedagógica. |
+
+No se ha comprobado todavía el render real de la prueba de 1.º básico, ni se ha recalculado por completo el puntaje del examen de 5.º básico. Estos casos permanecen abiertos y no deben contarse como cerrados.
 
 **Estado de certificación:** no certificado al 100 %. No se ha completado la revisión manual de todos los materiales, el cotejo curricular oficial ni la verificación integral del render e importación en la aplicación.
