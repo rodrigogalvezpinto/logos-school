@@ -213,7 +213,7 @@ d) 28
 | 11 | factorizando: x²+x−12=(x+4)(x−3)=0 → raíces **x=−4 y x=3**; vértice: x=−1/(2)=−0,5, f(−0,5)=0,25−0,5−12=−12,25 → vértice **(−0,5; −12,25)** | OA 3 | Álgebra y Funciones |
 | 12 | vértice: x=−24/(2×(−2))=6; G(6)=−2(36)+144−40=**32**. Precio óptimo $600 (x=6), ganancia máxima **$32.000** | OA 3 | Álgebra y Funciones |
 | 13 | x²+2x−1 en x=1: 1+2−1=2; como 3>2, la desigualdad se cumple → **el punto sí pertenece** a la región de soluciones | OA 3 | Álgebra y Funciones |
-| 14 | a) f⁻¹(x) = x + 10 (deshace la resta de... suma de 10) | OA 5 | Álgebra y Funciones |
+| 14 | **a) f⁻¹(x) = x − 10.** La función inversa deshace la suma de 10 restando 10: si y = x + 10, entonces x = y − 10. | OA 5 | Álgebra y Funciones |
 | 15 | a) f⁻¹(x) = x/7 (deshace la multiplicación por 7) | OA 5 | Álgebra y Funciones |
 | 16 | y=3x−9; se intercambia: x=3y−9; se despeja: **f⁻¹(x) = (x+9)/3** | OA 5 | Álgebra y Funciones |
 | 17 | y=x²−5; se intercambia: x=y²−5; y²=x+5; **f⁻¹(x) = √(x+5)** (raíz positiva, pues x≥0 en la función original) | OA 5 | Álgebra y Funciones |
