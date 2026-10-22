@@ -56,7 +56,7 @@ def _compare(question_no: int, letter: str, answer: str,
                 f"pero las opciones disponibles son {', '.join(sorted(options))}"]
     # Algunas pautas añaden el desarrollo entre paréntesis después de la respuesta.
     # Separarlo evita comparar "36x² − 25 (desarrollo...)" con la alternativa.
-    answer_core = re.sub(r"\\s*\\([^()]*\\)\\s*$", "", answer.strip())
+    answer_core = re.sub(r"\s*\([^()]*\)\s*$", "", answer.strip())
     normalised_answer = _normalise(answer_core)
     normalised_option = _normalise(options[letter])
     # Las claves breves (números/expresiones) se pueden comparar literalmente.
