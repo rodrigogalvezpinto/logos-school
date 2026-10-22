@@ -24,6 +24,18 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 
 ---
 
+## Registro de ejecución — lote Historia 5.º básico (2026-10-22)
+
+- **Árbol inspeccionado:** `contenido/05-basico/examenes/` en `qa/fase-2-matriz-trazabilidad`.
+- **Archivo encontrado y leído:** `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`.
+- **Forma A:** no aparece en el árbol de esta rama; por tanto, no es posible afirmar una comparación A/B de este examen en el estado actual del repositorio. No se infiere que el archivo no exista en otras ramas o en otra fuente.
+- **Comprobación de Forma B:** se cotejaron los 25 enunciados con las 25 filas de pauta, las claves visibles, los puntajes individuales, la distribución por eje/OA y el total declarado.
+- **Resultado verificable:** se mantienen H-009 (encabezado 30 puntos frente a 35 en pauta/distribución), H-012 (pregunta 5 con dos consecuencias defendibles según el enunciado amplio) y H-013 (escala referencial rotulada con exigencia 60%, pero incluye 18–20 puntos en el rango que comienza en nota 4,0; 60% de 35 equivale a 21).
+- **Hallazgos nuevos confirmados en este lote:** ninguno añadido. Las discrepancias encontradas ya estaban registradas como H-009, H-012 y H-013.
+- **Pendiente:** localizar una Forma A en la rama o confirmar una ruta/fuente alternativa; luego comparar equivalencia de OA, estímulos, dificultad, claves y pauta. La revisión documental no verifica todavía el renderizado ni la calificación en la aplicación.
+
+---
+
 ## H-001 — Clave de respuesta inconsistente con la alternativa correcta
 
 - **Estado:** confirmado
