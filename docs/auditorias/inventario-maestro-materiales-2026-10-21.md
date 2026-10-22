@@ -1,9 +1,9 @@
 # Inventario maestro de materiales curriculares — Logos School
 
-**Corte del inventario:** 21 de octubre de 2026  
+**Corte de sincronización del inventario:** 22 de octubre de 2026  
 **Rama:** qa/fase-2-matriz-trazabilidad  
-**Commit inspeccionado:** 41b278339b339c34a4adba73090965ac526fe162  
-**Estado:** inventario estructural inicial; no significa que los materiales hayan sido auditados.
+**Commit del árbol inspeccionado:** c87604c3b9879d208c132bc5bd810a9c518c05f1  
+**Estado:** inventario estructural sincronizado en rutas; no significa que los materiales hayan sido auditados. Tamaños y SHA de blob están actualizados en `matriz-maestra-estado-por-archivo.csv` desde el árbol indicado.
 
 ## Resumen de alcance detectado
 
