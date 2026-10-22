@@ -46,3 +46,8 @@ Cuando abras este proyecto en otra máquina o con otra IA:
 2. Lee este archivo [`docs/auditorias/matematica/README.md`](README.md) y [`08-resumen-ejecutivo.md`](08-resumen-ejecutivo.md).
 3. Para iniciar la implementación de código aprobada en Fase 2, utiliza directamente el prompt contenido en:  
    👉 **[`07-prompt-agente-ejecucion.md`](../../planes/07-prompt-agente-ejecucion.md)**
+
+
+## Informes de revisión
+
+- [09 — Segunda revisión de auditoría de Matemática (20 oct 2026)](09-segunda-revision-20-oct.md): inventario corregido, hallazgos H-01 a H-06, muestras aritméticas y límites de cobertura.
