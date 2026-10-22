@@ -15,6 +15,8 @@
 
 ## Documentos por función
 
+| Implementación / bitácora | [registro de implementación de correcciones 2026-10-22](registro-implementacion-correcciones-2026-10-22.md) | Correcciones en rama QA; todas pendientes de regresión y revalidación. |
+
 | Función | Documento | Uso / precaución |
 |---|---|---|
 | Control vigente | [00 CENTRO DE CONTROL AUDITORIA](00-CENTRO-DE-CONTROL-AUDITORIA.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
