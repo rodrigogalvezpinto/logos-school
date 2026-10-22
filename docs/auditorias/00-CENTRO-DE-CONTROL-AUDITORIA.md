@@ -186,3 +186,19 @@ La matriz por archivo ya etiqueta estos 11 recursos como `corregido_pendiente_re
 5. No iniciar nuevos lotes sustantivos hasta completar esta reconciliación; después, continuar por prioridad P1 y con trazabilidad por archivo/pregunta/OA.
 
 **Estado de organización:** inventario por archivo sincronizado; conciliación de cambios y sus IDs documentada; regresiones y revisión de app aún pendientes. La auditoría sigue en curso y no está certificada al 100 %.
+
+
+## 14. Cierre de la reconciliación de IDs — 2026-10-22
+
+La reconciliación documental de los 11 cambios de la bitácora ya se completó en [el registro maestro de hallazgos](auditoria-maestra-hallazgos-y-correcciones-propuestas.md): los cambios que no tenían encabezado H-### recibieron H-014 a H-021, y se conservaron H-001/H-003/H-007/H-009 para los problemas preexistentes correspondientes. Los identificadores operativos `LGS-*` y `MAT-*` se tratan como alias, no como defectos adicionales.
+
+- La matriz por archivo sigue teniendo 290 filas; sus etiquetas de línea base apuntan al árbol inspeccionado `e9d3dd5`, y los 11 archivos cambiados conservan el estado `corregido_pendiente_revalidacion`.
+- La última ejecución completada antes de la actualización del registro maestro fue [39871840806](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871840806), con éxito. La ejecución de la actualización de IDs está en cola: [39871932321](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871932321). No declarar esa ejecución como aprobada hasta consultar su resultado final.
+- **La organización documental queda consolidada; la validación no.** Ninguno de los 11 cambios debe marcarse como cerrado hasta comprobar la fuente actual, ejecutar la regresión pertinente y registrar la evidencia.
+
+### Próximo trabajo autorizado
+
+1. Verificar el resultado de CI para el commit que añade H-014–H-021.
+2. Diseñar y ejecutar regresiones específicas para los cambios cuantitativos y de clave (4B, 5B Historia, 2M Matemática, 6B Matemática, 7B Matemática) y revisiones lingüísticas/conceptuales para los restantes.
+3. Actualizar los estados de la matriz solo cuando exista evidencia de revalidación.
+4. Retomar auditoría sustantiva nueva únicamente después de cerrar esta etapa de regresión o registrar explícitamente qué no puede ejecutarse por falta de entorno QA.
