@@ -15,11 +15,11 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 
 | Prioridad | Cantidad registrada en esta versión | Interpretación |
 |---|---:|---|
-| P1 | 2 | Errores que pueden invalidar una respuesta o reducir la validez de una evaluación |
+| P1 | 4 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación |
 | P2 | 3 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
-Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos. H-007 se suma a la lista como hallazgo P1; por tanto, la cantidad P1 registrada en este archivo pasa a 3.
+Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos.
 
 ---
 
@@ -111,6 +111,36 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Por qué importa:** puede calificar mal una respuesta correcta y enseñar una regla algebraica equivocada.
 - **Corrección propuesta para fase 2:** cambiar la clave/explicación a (f^{-1}(x)=x-10), verificando que las alternativas contengan esa respuesta y que la letra coincida.
 - **Validación requerida:** prueba algebraica independiente, revisión de opciones y prueba de regresión de importación/calificación.
+- **Archivo fuente modificado en fase 1:** no.
+
+## H-008 — Enunciado de estado de la materia contiene la expresión «información líquida»
+
+- **Estado:** confirmado
+- **Prioridad:** P2
+- **Curso:** 4.º básico
+- **Asignatura:** Ciencias Naturales
+- **Archivo:** [examen-integrado-forma-a.md](../../contenido/04-basico/examenes/examen-integrado-forma-a.md)
+- **Ubicación exacta:** pregunta 15.
+- **Evidencia:** el enunciado pregunta «¿Cuál de las siguientes es información líquida entre los siguientes materiales...?», mientras la pauta identifica el jugo de frutilla como respuesta.
+- **Problema:** «información líquida» no corresponde al concepto evaluado y hace que el enunciado sea semánticamente incoherente.
+- **Por qué importa:** el estudiante puede confundirse por un error de redacción en lugar de demostrar si reconoce un material en estado líquido.
+- **Corrección propuesta para fase 2:** confirmar la intención y sustituir la expresión por una formulación directa, por ejemplo: «¿Cuál de los siguientes materiales se encuentra en estado líquido?». Conservar la clave solo tras volver a cotejar todas las opciones.
+- **Validación requerida:** revisar el enunciado completo, las alternativas y la renderización en la aplicación.
+- **Archivo fuente modificado en fase 1:** no.
+
+## H-009 — Puntaje total declarado no coincide con la pauta del examen
+
+- **Estado:** confirmado
+- **Prioridad:** P1
+- **Curso:** 5.º básico
+- **Asignatura:** Historia, Geografía y Ciencias Sociales
+- **Archivo:** [historia-geografia-y-cs-sociales-examen-forma-b.md](../../contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md)
+- **Ubicación exacta:** encabezado del examen y cierre de la pauta de corrección.
+- **Evidencia:** el encabezado declara **30 puntos**; la suma de los 25 ítems, la tabla de pauta y la distribución por eje totalizan **35 puntos**.
+- **Problema:** hay una diferencia de 5 puntos entre el total anunciado y la puntuación efectiva.
+- **Por qué importa:** la aplicación podría calcular porcentajes, resultados o notas sobre un denominador incorrecto.
+- **Corrección propuesta para fase 2:** si se confirma que los puntajes individuales y la distribución por eje son los aprobados, actualizar el encabezado a **35 puntos**; verificar además cualquier regla de conversión a nota.
+- **Validación requerida:** automatizar la suma de puntos de ítems, pauta, encabezado y distribución por eje; probar importación y calificación en QA.
 - **Archivo fuente modificado en fase 1:** no.
 
 ## H-006 — Estímulo visual descrito en Markdown, renderizado aún no comprobado
