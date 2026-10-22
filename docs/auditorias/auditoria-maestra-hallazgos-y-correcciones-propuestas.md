@@ -15,7 +15,7 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 
 | Prioridad | Cantidad registrada en esta versión | Interpretación |
 |---|---:|---|
-| P1 confirmado | 3 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación |
+| P1 confirmado | 4 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación |
 | P1 provisional | 1 | Hallazgo pendiente de comprobar en el renderizado de la aplicación (H-006) |\n| P2 | 7 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
