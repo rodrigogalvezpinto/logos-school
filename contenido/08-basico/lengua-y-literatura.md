@@ -218,7 +218,7 @@ En 8° básico sigues formulando interpretaciones de obras literarias, pero con 
 
 ### Texto de práctica: "La noche del río"
 
-> Corría la madrugada del 22 de mayo de 1960 en Valdivia. Marisol, de catorce años, sintió que la tierra se sacudía con una fuerza que nunca había vivido: era el terremoto más grande jamás registrado en el mundo. Su casa, cerca del río Calle-Calle, comenzó a agrietarse, y su madre le gritó que corrieran hacia el cerro, lejos de la posible crecida del agua.
+> Era la tarde del 22 de mayo de 1960 en Valdivia. Marisol, de catorce años, sintió que la tierra se sacudía con una fuerza que nunca había vivido: era el terremoto más grande jamás registrado en el mundo. Su casa, cerca del río Calle-Calle, comenzó a agrietarse, y su madre le gritó que corrieran hacia el cerro, lejos de la posible crecida del agua.
 >
 > A medio camino, Marisol escuchó los gritos de un vecino anciano, don Aurelio, atrapado bajo una viga caída en el patio de su casa. Su madre tiraba de su brazo, desesperada: "¡No hay tiempo, el río puede subir en cualquier momento, tenemos que llegar al cerro!". Marisol sabía que detenerse a ayudar a don Aurelio podía costarles minutos preciosos, quizás los mismos que necesitaban para ponerse a salvo de una eventual ola; pero también sabía que, si lo dejaban, el anciano probablemente no sobreviviría solo.
 >
@@ -271,7 +271,7 @@ b) El terremoto y maremoto de Valdivia de 1960
 c) El terremoto del Maule de 2010
 d) La erupción del volcán Chaitén de 2008
 
-*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente los hechos en la madrugada del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden directamente al terremoto de mayor magnitud jamás registrado en el mundo.
+*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden al terremoto de mayor magnitud jamás registrado en el mundo.
 
 **6. (Desarrollo breve — experiencia personal)** Relaciona el dilema de Marisol con alguna situación, aunque sea a menor escala, en la que tú o alguien que conozcas haya tenido que elegir entre la seguridad propia y ayudar a otra persona en un momento de urgencia.
 
