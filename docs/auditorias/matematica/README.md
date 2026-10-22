@@ -1,12 +1,12 @@
-# 🧭 Índice y Guía de Handover: Auditoría Integral y Próximos Pasos
+# Índice y guía de handover — línea de auditoría de Matemática
 
-> **Para el próximo desarrollador o Agente IA:**  
-> Este directorio contiene la auditoría completa (técnica, curricular y de UX/UI) realizada sobre el repositorio `Logos School` al 21 de octubre de 2026.  
-> La fase de auditoría concluyó exitosamente **sin modificar el código de la aplicación**, analizando sintácticamente los 116 OAs y las 857 preguntas de Matemática (sin certificación aritmética aún), diagnosticando los problemas de experiencia de usuario y dejando lista la especificación técnica para su implementación.
+> **Alcance y estado, actualizado 2026-10-22:** este directorio reúne un análisis especializado de Matemática y documentación técnica/UX relacionada. **No equivale a la auditoría integral completa de Logos School ni certifica por sí solo el contenido de los 12 cursos.** Para el estado global, la cobertura y las prioridades vigentes, consultar el [Centro de control único de auditoría](../00-CENTRO-DE-CONTROL-AUDITORIA.md).
+
+> Las cifras de pruebas, preguntas, OA y cobertura indicadas en este documento son las del corte/commit señalado por cada artefacto. No se deben presentar como estado actual sin regenerar los conteos y comprobar las ejecuciones correspondientes. Las pruebas verdes documentadas aquí son evidencia histórica o de un alcance específico; no certifican exactitud pedagógica.
 
 ---
 
-## 📌 Estado de la Plataforma al Momento del Handover
+## Estado técnico documentado en el corte de este informe
 
 - **Rama:** `docs/centralizacion-gobernanza` (base `main`)
 - **Línea base de pruebas activas (100% en verde):**
