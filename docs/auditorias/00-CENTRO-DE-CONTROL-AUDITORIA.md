@@ -31,11 +31,11 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En la rama QA, el árbol consultado en el commit previo contenía **933 archivos versionados**; el siguiente corte detectó 934 antes de añadir el índice documental, por lo que se debe regenerar el conteo al actualizar la matriz. La carpeta `docs/auditorias/` incluye numerosos informes de diferentes fechas, pasadas y ámbitos. Por ello, los recuentos de documentos no son una métrica de cobertura educativa.
+En el corte reproducible del commit `2fe43486d58431e34851ce0d91d8933ffb561cfe`, el árbol contenía **936 archivos versionados**. Se generó la matriz por archivo usando ese HEAD como base. La creación de la propia matriz añade un archivo documental posterior, por lo que el conteo del repositorio cambia a 937 hasta la próxima regeneración.
 
-El inventario maestro anterior identificó **290 archivos** dentro de `contenido/` y `Temarios/` (265 y 25 respectivamente) en su corte. Esa cifra es una línea base histórica que debe regenerarse desde el commit actual y reconciliarse con bancos de datos, importador, recursos externos y contenido mostrado por la aplicación.
+La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **271 están pendientes de auditoría sistemática, 8 tienen revisión parcial documentada y 11 figuran como corregidas pendientes de revalidación**. Estas categorías son de seguimiento y no equivalen a certificación. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
-**Revisión completa registrada en la matriz de ese inventario: 0 al momento de su corte.** Esto no invalida los lotes parciales posteriores; significa que no se ha demostrado el cierre sistemático de cada fila del inventario.
+La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA del blob, estado, informe de referencia y dimensiones pendientes. Los estados preliminares deben actualizarse con evidencia, no inferirse del nombre del archivo.
 
 ## 4. Matriz de estado global por dimensión
 
@@ -120,7 +120,8 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 
 ## 10. Orden documental aplicado — 2026-10-22
 
-- Se añadió el [índice y registro de informes existentes](INDICE-REGISTRO-INFORMES.md), que clasifica 48 documentos Markdown bajo `docs/auditorias/` por función y advierte que el número de informes no es cobertura auditada.
-- Se reafirma la jerarquía: este centro de control > matriz de cobertura por archivo/ítem (pendiente de generar) > registro maestro de hallazgos > informes de evidencia por lote. El índice y el handoff facilitan navegación, pero no sustituyen esas fuentes.
-- **Regla de no proliferación:** antes de crear un nuevo informe, revisar el índice y ampliar el documento existente si ya cubre el mismo archivo/ítem.
-- **Próxima tarea de orden:** generar una matriz reproducible del árbol vigente, con estado por archivo y dimensiones; reconciliar sus filas con hallazgos H-###, issues y evidencias existentes. Hasta entonces, la cobertura total continúa sin calcularse.
+- Se creó el [índice y registro de informes existentes](INDICE-REGISTRO-INFORMES.md), que clasifica los documentos de auditoría por función y advierte que el número de informes no es cobertura auditada.
+- Se generó la [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) con 290 filas de `contenido/` y `Temarios/`, ancladas al commit `2fe43486d58431e34851ce0d91d8933ffb561cfe`.
+- Jerarquía vigente: **centro de control → matriz por archivo → registro maestro de hallazgos/bitácora de correcciones → informes de evidencia**. El índice y el handoff facilitan navegación; no sustituyen la matriz.
+- **Regla de no proliferación:** antes de crear un informe, consultar el índice y ampliar el informe existente si cubre el mismo archivo/ítem.
+- La matriz ya permite conocer un denominador de rutas versionadas educativas, pero aún falta expandirla a cada pregunta, OA y recurso visual y reconciliarla con la aplicación. Por tanto, todavía no hay porcentaje global de auditoría integral.
