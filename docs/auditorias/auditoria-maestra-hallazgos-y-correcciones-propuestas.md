@@ -19,7 +19,7 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 | P1 provisional | 1 | Hallazgo pendiente de comprobar en el renderizado de la aplicación (H-006) |\n| P2 | 7 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
-Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos.
+Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos. El conteo actualizado es: 5 P1 confirmados (H-001, H-007, H-009, H-012 y H-013), 1 P1 provisional (H-006) y 7 P2 (H-002 a H-005, H-008, H-010 y H-011): 13 hallazgos en total.
 
 ---
 
@@ -186,6 +186,23 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Por qué importa:** la aplicación podría calcular porcentajes, resultados o notas sobre un denominador incorrecto.
 - **Corrección propuesta para fase 2:** si se confirma que los puntajes individuales y la distribución por eje son los aprobados, actualizar el encabezado a **35 puntos**; verificar además cualquier regla de conversión a nota.
 - **Validación requerida:** automatizar la suma de puntos de ítems, pauta, encabezado y distribución por eje; probar importación y calificación en QA.
+- **Archivo fuente modificado en fase 1:** no.
+
+
+
+## H-013 — Escala de conversión sugerida contradice el umbral de exigencia declarado
+
+- **Estado:** confirmado documentalmente; confirmar la escala aprobada por el producto antes de cambiarla.
+- **Prioridad:** P1
+- **Curso:** 5.º básico
+- **Asignatura:** Historia, Geografía y Ciencias Sociales
+- **Archivo:** [historia-geografia-y-cs-sociales-examen-forma-b.md](../../contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md)
+- **Ubicación exacta:** sección «Escala de conversión sugerida (referencial)» al final de la pauta.
+- **Evidencia:** la escala se describe como «exigencia 60%», pero asigna el rango «18-23 pts» a notas 4,0–5,2. Sobre 35 puntos, el 60% equivale a 21 puntos; por tanto, valores como 18, 19 y 20 puntos quedan bajo el umbral declarado y aun así aparecen dentro del rango que empieza en nota 4,0.
+- **Problema:** el rango de aprobación no es coherente con la exigencia del 60% que declara la propia escala.
+- **Por qué importa:** si la aplicación usa esta tabla, podría aprobar estudiantes que no alcanzan el umbral indicado o producir notas inconsistentes.
+- **Corrección propuesta para fase 2:** confirmar la política de evaluación aprobada; después recalcular todos los intervalos para 35 puntos de modo que la nota 4,0 corresponda exactamente al umbral establecido y no haya huecos ni solapamientos. No asumir una conversión oficial de Mineduc a partir de esta tabla referencial.
+- **Validación requerida:** prueba de límites (20/21/22 puntos), cobertura de 0 a 35 puntos, monotonicidad de notas y coincidencia entre tabla documental y función de conversión de la aplicación.
 - **Archivo fuente modificado en fase 1:** no.
 
 ## H-006 — Estímulo visual descrito en Markdown, renderizado aún no comprobado
