@@ -13,7 +13,7 @@
 2. **No duplicar informes:** antes de crear uno nuevo, buscar si ya existe un informe del mismo curso, asignatura, archivo y pregunta. Si existe, ampliar ese informe o añadir una referencia cruzada.
 3. **Separar los estados:** inventariado ≠ leído ≠ auditado por dimensión ≠ corregido ≠ revalidado.
 4. **No mezclar ramas:** este tablero describe la rama QA indicada arriba. Los documentos de otras ramas son evidencia relacionada, no se asume que estén incorporados aquí hasta comprobarlo.
-5. **No modificar contenido educativo durante el diagnóstico** ni cambiar `main`. Las propuestas de corrección se mantienen separadas hasta su autorización.
+5. **Durante el diagnóstico no se modifica contenido educativo.** La auditoría consolidada aportada el 22-10-2026 autoriza iniciar correcciones en esta rama QA. No cambiar `main`; cada cambio debe quedar en la bitácora de implementación y permanecer pendiente hasta revalidación.
 6. **Cada hallazgo tiene un ID estable** y debe tener ruta, ubicación, evidencia, tipo, severidad, recomendación, prueba de regresión y estado.
 7. **Una ejecución CI verde no certifica el contenido educativo.** Solo demuestra que los trabajos configurados para ese commit pasaron.
 
@@ -49,7 +49,7 @@ El inventario maestro anterior identificó **290 archivos** dentro de `contenido
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |
 | Recursos visuales y accesibilidad | No certificada | Falta cotejar referencias y render de la aplicación. |
 | Importación, puntuación y persistencia en app | No certificada | Se requiere entorno QA, pruebas reproducibles y contraste fuente/salida. |
-| Correcciones educativas | No iniciadas como campaña aprobada | Se registran propuestas; no aplicar hasta autorización específica. |
+| Correcciones educativas | Primera tanda aplicada en rama QA | 11 cambios de contenido/documentación de ítems aplicados; todos pendientes de regresión y revalidación. Ver [bitácora de implementación](registro-implementacion-correcciones-2026-10-22.md). |
 | Certificación final | No iniciada | Requiere denominadores conocidos, estados por unidad, hallazgos cerrados/aceptados y pruebas relevantes. |
 
 ## 5. Hallazgos de alto impacto conocidos
@@ -59,10 +59,10 @@ Estos son puntos de seguimiento conocidos, no la lista completa de todos los def
 | ID de seguimiento | Curso / recurso | Hallazgo | Estado |
 |---|---|---|---|
 | LGS-1B-MAT-001 | 1.º básico, prueba de medición, pregunta 2 | Orden de objetos por longitud sin medidas ni estímulo visual inequívoco en el Markdown | Documentado; verificar render |
-| LGS-4B-EVAL-001 | 4.º básico, examen integrado Forma B, pregunta 16 | La pauta indica c) 14; el 14 está en b) | Confirmado; corrección y regresión pendientes |
-| LGS-5B-EVAL-001 | 5.º básico, Historia Forma B | Encabezado 30 puntos frente a pauta/distribución de 35 | Confirmado; corrección y regresión pendientes |
-| LGS-6B-MAT-001* | 6.º básico, guía de Matemática, pregunta 4 | Retroalimentación sobre 2.050 botellas en cajas de 12 y reparto entre 3 distribuidores no explica el residuo | Mejora/ambigüedad documentada; validar alcance |
-| LGS-2M-MAT-014* | 2.º medio, Matemática Forma B, pregunta 14 | Pauta da x+10 como inversa de f(x)=x+10; la inversa correcta es x−10 | Confirmado en informe de recálculo; añadir al control automático |
+| LGS-4B-EVAL-001 | 4.º básico, examen integrado Forma B, pregunta 16 | La pauta indicaba c) 14; el 14 está en b) | Corregido en QA; regresión pendiente |
+| LGS-5B-EVAL-001 | 5.º básico, Historia Forma B | Encabezado declaraba 30 puntos frente a pauta/distribución de 35 | Corregido encabezado a 35 en QA; revisar escala de nota y regresión |
+| LGS-6B-MAT-001* | 6.º básico, guía de Matemática, pregunta 4 | Retroalimentación sobre 2.050 botellas en cajas de 12 y reparto entre 3 distribuidores no explicaba el residuo | Aclarado en QA; regresión pendiente |
+| LGS-2M-MAT-014* | 2.º medio, Matemática Forma B, pregunta 14 | Pauta daba x+10 como inversa de f(x)=x+10; la inversa correcta es x−10 | Corregido en QA; regresión pendiente |
 
 `*` IDs de seguimiento internos para este tablero; si el informe fuente usa otra identificación, conservarla y reconciliarla en la matriz de hallazgos antes de asignar IDs definitivos.
 
@@ -81,7 +81,11 @@ Estos son puntos de seguimiento conocidos, no la lista completa de todos los def
 
 También existen informes de primera, segunda, tercera y cuarta pasada. No deben interpretarse como lotes completados integralmente si su propio alcance indica cribado o revisión parcial.
 
-## 7. Próxima secuencia obligatoria
+## 7. Bitácora de correcciones autorizadas — 2026-10-22
+
+Se aplicó la primera tanda de correcciones basada en la auditoría consolidada. Ver [registro de implementación](registro-implementacion-correcciones-2026-10-22.md) para IDs, rutas y commits. Se corrigieron tres hallazgos P1 confirmados (clave 4B, puntaje 5B, inversa 2M) y ocho defectos de contenido/erratas verificadas. **Ninguno se considera cerrado** hasta ejecutar regresión, comprobar importación/render y actualizar el registro de hallazgos. No se modificó `main` ni la base de datos.
+
+## 8. Próxima secuencia obligatoria
 
 ### Fase A — Orden y línea base reproducible
 - [ ] Regenerar el inventario desde el HEAD actual con rutas, tamaños/tipos y hash de commit.
@@ -107,14 +111,14 @@ También existen informes de primera, segunda, tercera y cuarta pasada. No deben
 - [ ] Publicar cobertura por dimensión y curso, riesgos residuales y excepciones.
 - [ ] Certificar solo cuando los criterios del protocolo estén satisfechos.
 
-## 8. Regla de cierre del 100 %
+## 9. Regla de cierre del 100 %
 
 No declarar 100 % por el número de archivos leídos, por contar informes o porque CI pase. Cada unidad del inventario debe tener estado y evidencia: revisada y revalidada, o excepción justificada. Deben conocerse los denominadores de archivos, ítems, claves, rúbricas, OA y recursos. Los hallazgos P0/P1 deben estar resueltos o tener una decisión explícita de bloqueo/no publicación; los cambios deben contar con regresión. Las dimensiones que requieran especialistas humanos deben identificarse como tales.
 
 **Conclusión vigente:** el trabajo previo es aprovechable y contiene hallazgos reales, pero está distribuido en informes de diferentes pasadas y todavía no prueba cobertura integral. A partir de este tablero, toda continuación debe actualizar el registro maestro y evitar crear documentos paralelos innecesarios.
 
 
-## 9. Orden documental aplicado — 2026-10-22
+## 10. Orden documental aplicado — 2026-10-22
 
 - Se añadió el [índice y registro de informes existentes](INDICE-REGISTRO-INFORMES.md), que clasifica 48 documentos Markdown bajo `docs/auditorias/` por función y advierte que el número de informes no es cobertura auditada.
 - Se reafirma la jerarquía: este centro de control > matriz de cobertura por archivo/ítem (pendiente de generar) > registro maestro de hallazgos > informes de evidencia por lote. El índice y el handoff facilitan navegación, pero no sustituyen esas fuentes.
