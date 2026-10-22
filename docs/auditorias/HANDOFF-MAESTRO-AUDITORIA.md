@@ -167,3 +167,36 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - La última ejecución de CI para el commit `f3d8721d275776309b7365c7cdd6f30840485f55` terminó correctamente: [ejecución 39860484879](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39860484879). Las ejecuciones disparadas por las actualizaciones documentales posteriores estaban aún en curso al último chequeo. CI verde valida solo los pasos configurados, no certifica la calidad educativa.
 - Las correcciones educativas registradas en `registro-implementacion-correcciones-2026-10-22.md` ya están aplicadas en la rama QA, pero siguen pendientes de regresión y revalidación. `main` permanece separado.
 - Próxima acción exacta: verificar el CI más reciente; actualizar la matriz por archivo tras los cambios de contenido ya aplicados; reconciliar IDs H-###, IDs LGS y issues; después avanzar por lote sin duplicar informes, con evidencia por ítem y por OA.
+
+
+## 12. Normalización y punto de reanudación — 2026-10-22 tarde
+
+Este handoff se actualiza para que la continuidad no dependa de la conversación y no se multipliquen informes paralelos.
+
+### Estado comprobado del repositorio
+
+- Rama de trabajo: `qa/fase-2-matriz-trazabilidad`.
+- HEAD verificado al actualizar: `a8a3e78f26818a39682a67cbc3c06d2262f01ba9`.
+- Árbol remoto inspeccionado: **937 archivos versionados**, de los cuales **52 están bajo `docs/auditorias/`**. Estas cifras describen el árbol, no el avance pedagógico.
+- La matriz CSV contiene 290 rutas educativas del corte de origen anterior (265 `contenido/` y 25 `Temarios/`), pero sus hashes y estados necesitan regeneración contra el HEAD vigente antes de usarla como línea base actual.
+- El último workflow asociado al HEAD verificado terminó en **success**: [run 39860574779](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39860574779). Esto valida solo los pasos configurados en CI; no significa que el contenido esté auditado al 100 %.
+- La bitácora de correcciones registra 11 cambios aplicados en QA; siguen pendientes de revalidación. No cambiar `main` ni declarar los P1 cerrados hasta completar regresión.
+
+### Informes recientes que deben integrarse, no duplicarse
+
+- [Lote 1.º básico — Matemática, medición y datos](lote-01-basico-matematica-medicion-datos.md): estímulo insuficiente en pregunta 2; comprobar render.
+- [Lote 4.º básico — examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md): hallazgo histórico de clave pregunta 16. La bitácora indica que la clave ya fue corregida en QA; actualizar el estado del hallazgo después de verificar la versión vigente y la regresión.
+- [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): discrepancia histórica de puntaje. La bitácora indica que el encabezado ya fue corregido a 35; comprobar escala de nota y regresión.
+- [Control mecánico de claves 2.º–3.º básico](control-mecanico-claves-simulacros-2b-3b.md): 60 filas con letra explícita comparadas con opciones detectadas; no certifica la semántica de las respuestas.
+- [Lote transversal de Matemática](lote-transversal-matematica-3medio-8basico-cribado.md), [Ciencias Naturales 1.º medio](lote-01-medio-ciencias-naturales-forma-b.md), [Ciencias Naturales 2.º medio](lote-02-medio-ciencias-naturales-forma-b.md) y [comparación A/B de 3.º–4.º básico](lote-comparativo-formas-a-b-3b-4b.md): usar los alcances y límites de cada informe; no contarlos como cursos completos.
+
+### Fuente de verdad y reglas de trabajo
+
+1. Abrir primero `00-CENTRO-DE-CONTROL-AUDITORIA.md` y `INDICE-REGISTRO-INFORMES.md`.
+2. Actualizar la matriz maestra por archivo y conciliarla con `auditoria-maestra-hallazgos-y-correcciones-propuestas.md`, los IDs LGS y los issues. No sumar el mismo hallazgo varias veces por aparecer en documentos distintos.
+3. No crear un informe nuevo si el archivo/pregunta ya está cubierto: ampliar el existente y enlazarlo en el índice y el centro de control.
+4. Separar estado por dimensiones: documental, disciplinar, curricular, didáctico, accesibilidad/recursos, render/importación, calificación y regresión.
+5. Antes de seguir ampliando cribados, regenerar la matriz desde el HEAD actual (rutas, tamaños, blob SHA y estado heredado revisado), actualizar cifras de línea base y definir un lote único con denominador explícito.
+6. Mantener las correcciones ya autorizadas en QA; cada una sigue `corregido_pendiente_regresion` hasta evidencia verificable. No modificar `main` ni bases de datos de producción.
+
+**Próxima acción única:** regenerar y reconciliar la matriz maestra contra el HEAD actual, sin abrir un nuevo lote sustantivo hasta que las rutas, estados, IDs y referencias queden alineados.
