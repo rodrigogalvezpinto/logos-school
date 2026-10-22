@@ -109,3 +109,14 @@ Una sesión conversacional no implica ejecución continua en segundo plano. Todo
 
 ### Siguiente acción
 Continuar con recálculo de exámenes por curso y asignatura, extendiendo controles estructurales para clave, puntaje total y formas paralelas. Mantener una matriz de cobertura que distinga revisión documental, revisión pedagógica, contraste curricular y verificación técnica.
+
+
+### Avance — revisión de Matemática de 2.º medio Forma B (2026-10-21)
+
+- Se creó `docs/auditorias/lote-02-medio-matematica-examen-forma-b-recalculo.md`.
+- Se revisaron los 25 ítems de `contenido/02-medio/examenes/matematica-examen-forma-b.md`: se encontró una contradicción P1 en la pregunta 14. La alternativa a) da la inversa correcta `x-10`, mientras la pauta escribe `x+10`.
+- Los otros 24 ítems no presentaron discrepancias de cálculo en esta pasada. Aún faltan cotejo oficial de OA, rúbricas de desarrollo, comparación Forma A y QA de importación/render/puntuación.
+- CI run [39710128188](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710128188) terminó en `failure`; los dos hallazgos estructurales anteriores de 4.º y 5.º básico siguen abiertos. No interpretar el fallo como fallo de pruebas unitarias sin inspeccionar los logs del job correspondiente.
+- No se modificó el contenido educativo ni `main`.
+
+**Siguiente paso:** continuar con otro examen de curso distinto y ampliar después el validador para detectar contradicciones entre la respuesta de la alternativa y la respuesta explicada en la pauta, sin falsos positivos en preguntas abiertas.
