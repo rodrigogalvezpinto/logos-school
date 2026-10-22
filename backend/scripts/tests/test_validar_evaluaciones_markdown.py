@@ -91,3 +91,24 @@ def test_detecta_totales_con_negrita_markdown():
     assert len(findings) == 1
     assert "30 puntos" in findings[0]
     assert "35 puntos" in findings[0]
+
+
+def test_detecta_clave_en_segunda_columna_de_tabla():
+    markdown = """**Pregunta 14.** ¿Cuál es la inversa de f(x) = x + 10?
+a) f⁻¹(x) = x − 10
+b) f⁻¹(x) = x + 10
+c) f⁻¹(x) = 10 − x
+d) f⁻¹(x) = −x − 10
+
+---
+
+## PAUTA DE CORRECCIÓN
+| N° | Clave / Respuesta esperada | OA | Eje |
+|---|---|---|---|
+| 14 | **a) f⁻¹(x) = x + 10** (explicación contradictoria) | OA 5 | Álgebra |
+"""
+    findings = check_key_option_consistency(markdown, "matematica-2m.md")
+    assert len(findings) == 1
+    assert "pregunta 14" in findings[0]
+    assert "clave a)" in findings[0]
+    assert "alternativa a)" in findings[0]
