@@ -98,3 +98,14 @@ Leer primero este archivo y el plan maestro; después revisar el estado real de 
 ## 9. Limitaciones y transparencia
 
 Una sesión conversacional no implica ejecución continua en segundo plano. Todo avance que deba sobrevivir a la sesión tiene que quedar registrado en GitHub. No afirmar que se ejecutaron pruebas, se leyeron archivos o se publicó un documento si no hay resultado verificable. La revisión educativa automatizada apoya el trabajo, pero los casos de alto impacto deben recibir validación de especialistas humanos.
+
+
+## 10. Bitácora — avance del 21 de octubre de 2026
+
+- Añadido `docs/auditorias/lote-01-medio-matematica-examen-forma-b-recalculo.md`: recálculo independiente de los 25 ítems del examen de Matemática de 1.º medio, Forma B. Se cotejaron las 12 claves de alternativa; no se encontraron discrepancias numéricas/de letra en esta pasada. OA oficiales, rúbricas de desarrollo, comparación con Forma A y QA siguen pendientes.
+- Añadido `docs/auditorias/lote-01-basico-matematica-medicion-datos.md`: suficiencia del estímulo en el ítem de longitud de 1.º básico, pendiente de render QA.
+- La ejecución de CI `39708460420` terminó con pruebas unitarias del validador aprobadas (8 passed) y el control estructural falló por dos hallazgos de contenido conocidos: clave de 4.º básico Forma B y total de 30/35 puntos en Historia de 5.º básico. No es un fallo de las pruebas unitarias.
+- La auditoría global sigue abierta; no se editó contenido educativo ni `main`.
+
+### Siguiente acción
+Continuar con recálculo de exámenes por curso y asignatura, extendiendo controles estructurales para clave, puntaje total y formas paralelas. Mantener una matriz de cobertura que distinga revisión documental, revisión pedagógica, contraste curricular y verificación técnica.
