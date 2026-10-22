@@ -94,7 +94,8 @@ def check_key_option_consistency(markdown: str, path: str = "<memoria>") -> list
         # ocupa cells[2] (en algunas pautas está en cells[1]).
         match = None
         for cell in cells[1:]:
-            candidate = TABLE_KEY_RE.match(cell.strip().strip("*_ "))
+            cleaned = cell.strip().strip("*_ ")
+            candidate = re.match(r"(?i)^([a-d])\\)\\s*(.+?)\\s*\\*{0,2}(?:\\s|$)", cleaned)
             if candidate:
                 match = candidate
                 break
