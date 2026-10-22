@@ -156,3 +156,8 @@ Estos informes no cambian materiales educativos ni cierran los hallazgos. Se man
 ## 11. Control mecánico adicional de claves — 2.º y 3.º básico
 
 Se registró una comprobación auxiliar de las cuatro Formas A/B de los exámenes integrados de 2.º y 3.º básico: [informe del control mecánico](control-mecanico-claves-simulacros-2b-3b.md). El control detectó 60 filas de pauta con letra explícita y pudo compararlas con las alternativas detectadas; no encontró letras que estuvieran ausentes de esas opciones. Este resultado no certifica la corrección semántica de las respuestas y no reemplaza la revisión de los 80 ítems, los desarrollos, los recursos visuales, la alineación OA ni el render. Los hallazgos previos sobre duplicación entre Formas A/B y precisión de contenido siguen abiertos.
+
+
+## 12. Lote adicional — 1.º básico, Matemática: medición y datos
+
+Se documentó [el lote de auditoría de la prueba de medición, datos y probabilidades](lote-01-basico-matematica-medicion-datos.md). El ítem 2 pide ordenar una goma, un lápiz y una regla, pero la fuente Markdown no entrega longitudes ni un estímulo visual que permita establecer un orden único; la pauta asume que la goma es más corta y la regla más larga. Se registra como hallazgo provisional P1 sujeto a comprobar si la aplicación aporta un recurso visual adicional. No se cambió la prueba; render, corrección, OA oficial y regresión siguen pendientes.
