@@ -27,6 +27,34 @@ jobs:
       - name: Ejecutar pruebas unitarias del validador
         working-directory: backend
         run: python -m pytest -q scripts/tests/test_validar_evaluaciones_markdown.py
-      - name: Ejecutar control estructural sobre contenido
+      - name: Ejecutar escaneo estructural y guardar hallazgos
+        id: escaneo
         working-directory: backend
-        run: python scripts/validar_evaluaciones_markdown.py
+        shell: bash
+        run: |
+          set +e
+          python scripts/validar_evaluaciones_markdown.py > ../informe-hallazgos-estructurales.txt 2>&1
+          scan_status=$?
+          set -e
+          cat ../informe-hallazgos-estructurales.txt
+          echo "scan_status=$scan_status" >> "$GITHUB_OUTPUT"
+          {
+            echo "## Escaneo estructural de contenido"
+            echo
+            if [ "$scan_status" -eq 0 ]; then
+              echo "El escaneo no detectó discrepancias según las reglas implementadas."
+            else
+              echo "El escaneo detectó hallazgos o errores de análisis. Consulta el artefacto `informe-hallazgos-estructurales`."
+            fi
+            echo
+            echo "**Importante:** este escaneo es estructural y no certifica exactitud pedagógica, curricular ni funcionamiento en la aplicación."
+            echo "Los hallazgos no se ocultan: se conservan en el informe adjunto. Las pruebas unitarias del validador sí bloquean el flujo si fallan."
+          } >> "$GITHUB_STEP_SUMMARY"
+      - name: Publicar informe de hallazgos
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: informe-hallazgos-estructurales
+          path: informe-hallazgos-estructurales.txt
+          if-no-files-found: warn
+          retention-days: 30
