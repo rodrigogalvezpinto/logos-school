@@ -18,7 +18,7 @@
 | Función | Documento | Uso / precaución |
 |---|---|---|
 | Control vigente | [00 CENTRO DE CONTROL AUDITORIA](00-CENTRO-DE-CONTROL-AUDITORIA.md) | Fuente única de prioridades, estado y siguiente acción. |
-| Matriz de cobertura por archivo | [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) | 290 rutas de contenido/temarios del corte; estados preliminares y dimensiones pendientes. No certifica ítems. |
+| Matriz de cobertura por archivo | [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) | 290 rutas de contenido/temarios; rutas, tamaños y SHA regenerados desde el árbol inspeccionado el 22-10-2026. Estados heredados requieren reconciliación. No certifica ítems. |
 | Implementación / bitácora | [registro de implementación de correcciones 2026-10-22](registro-implementacion-correcciones-2026-10-22.md) | 11 archivos/cambios con revalidación pendiente; consultar la bitácora para detalle y commits. |
 | Continuidad / bitácora | [HANDOFF MAESTRO AUDITORIA](HANDOFF-MAESTRO-AUDITORIA.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
 | Gobernanza / criterios | [auditoria integral educativa plan maestro](auditoria-integral-educativa-plan-maestro.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
@@ -73,7 +73,7 @@
 - **Control único:** `00-CENTRO-DE-CONTROL-AUDITORIA.md`.
 - **Continuidad:** `HANDOFF-MAESTRO-AUDITORIA.md`.
 - **Criterios:** `auditoria-integral-educativa-plan-maestro.md` y `protocolo-auditoria-integral-100.md`.
-- **Inventario:** `inventario-maestro-materiales-2026-10-21.md`, pendiente de regenerar desde el HEAD actual.
+- **Inventario:** `inventario-maestro-materiales-2026-10-21.md`, sincronizado en rutas/tamaños/hashes; pendiente reconciliar estados de auditoría y recursos consumidos por la app.
 - **Cobertura por curso/asignatura:** `matriz-maestra-asignaturas-12-cursos.md`; no sustituye una matriz de estado por archivo/ítem.
 - **Hallazgos:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` más los issues existentes. Reconciliar IDs antes de declarar un único total.
 - **Evidencia de lote:** conservar los informes existentes y enlazarlos desde el control central. No crear variantes nuevas para el mismo hallazgo.
@@ -88,3 +88,8 @@
 5. Falta una matriz reproducible que relacione cada archivo e ítem con dimensiones revisadas, evidencia, hallazgos y pruebas.
 
 **Siguiente paso de orden obligatorio:** generar desde el árbol actual una matriz maestra por archivo y conciliarla con este registro y con el registro de hallazgos antes de continuar ampliando la auditoría sustantiva.
+
+
+## Actualización de línea base — 2026-10-22
+
+La matriz CSV se regeneró con los tamaños y SHA de blob de las 290 rutas educativas del árbol inspeccionado en el commit `c87604c3b9879d208c132bc5bd810a9c518c05f1`. El CSV fue actualizado en el commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`. Los estados de auditoría se conservaron como estados de seguimiento y deben conciliarse con la bitácora de correcciones y el registro maestro de hallazgos; no se infiere cierre por tener hashes actuales.
