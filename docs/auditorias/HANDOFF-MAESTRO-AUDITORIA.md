@@ -5,6 +5,9 @@
 **Repositorio:** `rodrigogalvezpinto/logos-school`  
 **Propósito:** permitir que cualquier agente humano o de IA retome la auditoría con el contexto, las evidencias, las decisiones y los pendientes sin depender de la memoria de una conversación.
 
+> **PUNTO DE ENTRADA OBLIGATORIO (actualizado 2026-10-22):** empezar por el [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md). Es la referencia vigente para estado, prioridades y siguientes pasos. Este handoff conserva contexto histórico y decisiones; no usar sus recuentos antiguos como métricas actuales sin regenerarlos desde el HEAD.
+
+
 ## 1. Estado ejecutivo
 
 La auditoría integral está **en curso**. No se ha certificado la calidad curricular ni pedagógica de todos los cursos. El inventario de archivos es una descripción del repositorio, no una prueba de cobertura curricular.
