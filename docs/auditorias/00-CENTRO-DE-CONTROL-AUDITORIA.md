@@ -31,7 +31,7 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En el corte reproducible del commit `2fe43486d58431e34851ce0d91d8933ffb561cfe`, el árbol contenía **936 archivos versionados**. Se generó la matriz por archivo usando ese HEAD como base. La creación de la propia matriz añade un archivo documental posterior, por lo que el conteo del repositorio cambia a 937 hasta la próxima regeneración.
+En la línea base actualizada del commit `c87604c3b9879d208c132bc5bd810a9c518c05f1`, el árbol contiene **937 archivos versionados** y 290 rutas de alcance educativo. La matriz CSV se regeneró después, en el commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`, actualizando tamaño y SHA de blob para las 290 rutas. El inventario de rutas ya está sincronizado con el árbol inspeccionado; falta reconciliar estados de auditoría y recursos consumidos por la aplicación.
 
 La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **271 están pendientes de auditoría sistemática, 8 tienen revisión parcial documentada y 11 figuran como corregidas pendientes de revalidación**. Estas categorías son de seguimiento y no equivalen a certificación. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
@@ -41,7 +41,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 
 | Dimensión | Estado actual | Evidencia / brecha |
 |---|---|---|
-| Inventario de archivos | Parcial / requiere regeneración | Hay inventarios con cortes distintos; falta una única exportación del HEAD actual y reconciliación con recursos consumidos por la app. |
+| Inventario de archivos | Parcial / reconciliación pendiente | Las rutas, tamaños y SHA del CSV se regeneraron; falta reconciliar estados heredados y recursos consumidos por la app. |
 | Catálogo de cursos y asignaturas | Parcial | Hay una matriz de 12 cursos, pero debe cotejarse con alcance del producto y fuentes oficiales vigentes. |
 | Exactitud disciplinar | Parcial, por lotes | Existen recálculos y hallazgos específicos; no hay revisión completa de todos los ítems. |
 | Claves y puntajes | Parcial + validador estructural | Se conocen discrepancias P1; el control no detecta todos los errores semánticos. |
@@ -121,7 +121,16 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 ## 10. Orden documental aplicado — 2026-10-22
 
 - Se creó el [índice y registro de informes existentes](INDICE-REGISTRO-INFORMES.md), que clasifica los documentos de auditoría por función y advierte que el número de informes no es cobertura auditada.
-- Se generó la [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) con 290 filas de `contenido/` y `Temarios/`, ancladas al commit `2fe43486d58431e34851ce0d91d8933ffb561cfe`.
+- Se generó la [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) con 290 filas de `contenido/` y `Temarios/`, con hashes actualizados desde el árbol del commit `c87604c3b9879d208c132bc5bd810a9c518c05f1`.
 - Jerarquía vigente: **centro de control → matriz por archivo → registro maestro de hallazgos/bitácora de correcciones → informes de evidencia**. El índice y el handoff facilitan navegación; no sustituyen la matriz.
 - **Regla de no proliferación:** antes de crear un informe, consultar el índice y ampliar el informe existente si cubre el mismo archivo/ítem.
 - La matriz ya permite conocer un denominador de rutas versionadas educativas, pero aún falta expandirla a cada pregunta, OA y recurso visual y reconciliarla con la aplicación. Por tanto, todavía no hay porcentaje global de auditoría integral.
+
+
+## 11. Reconciliación de inventario completada — 2026-10-22
+
+- Se inspeccionó el árbol remoto actual: 937 archivos versionados y exactamente 290 rutas bajo `contenido/` y `Temarios/` (265 y 25, respectivamente).
+- Se regeneraron las columnas de tamaño y SHA de blob del CSV [matriz maestra de estado por archivo](matriz-maestra-estado-por-archivo.csv) para las 290 rutas; commit de la matriz: `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`.
+- **Límite importante:** se conservaron los estados heredados de seguimiento; actualizar hashes no significa que el archivo haya sido re-auditado. Las categorías 271 pendientes, 8 parciales y 11 corregidas pendientes de revalidación deben reconciliarse con la bitácora vigente, porque reflejan decisiones anteriores.
+- El último workflow verificado para el HEAD anterior de documentación fue verde; debe consultarse el run asociado al nuevo HEAD después de esta actualización. CI verde no certifica la calidad pedagógica.
+- Próximo paso: reconciliar los 13 hallazgos H-### con IDs LGS y otros identificadores de lote, y sincronizar estados de corrección/regresión antes de abrir otro lote sustantivo.
