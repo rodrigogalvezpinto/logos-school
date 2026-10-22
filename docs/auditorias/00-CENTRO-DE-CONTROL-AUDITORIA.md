@@ -20,17 +20,18 @@
 ## 2. Entrada recomendada — leer en este orden
 
 1. **Este tablero:** alcance, estado y siguiente acción.
-2. [Handoff y bitácora maestra](HANDOFF-MAESTRO-AUDITORIA.md): contexto, decisiones, continuidad.
-3. [Plan maestro educativo](auditoria-integral-educativa-plan-maestro.md): dimensiones, severidades y protocolo.
-4. [Matriz maestra de asignaturas de 12 cursos](matriz-maestra-asignaturas-12-cursos.md): mapa por curso y asignatura.
-5. [Inventario maestro de materiales](inventario-maestro-materiales-2026-10-21.md): listado de rutas de `contenido/` y `Temarios/`.
-6. [Inventario reproducible histórico](inventario-reproducible-contenido-educativo.md): referencia histórica; sus cifras deben regenerarse antes de usarlas como estado actual.
-7. [Consolidación de hallazgos](consolidacion-hallazgos-y-controles-12-cursos.md): resumen de hallazgos conocidos y enlaces a lotes.
-8. [Issue de seguimiento #7](https://github.com/rodrigogalvezpinto/logos-school/issues/7): checklist de fases y criterio de cierre.
+2. [Índice y registro de informes](INDICE-REGISTRO-INFORMES.md): catálogo de los documentos existentes; consultar antes de crear informes nuevos.
+3. [Handoff y bitácora maestra](HANDOFF-MAESTRO-AUDITORIA.md): contexto, decisiones, continuidad.
+4. [Plan maestro educativo](auditoria-integral-educativa-plan-maestro.md): dimensiones, severidades y protocolo.
+5. [Matriz maestra de asignaturas de 12 cursos](matriz-maestra-asignaturas-12-cursos.md): mapa por curso y asignatura.
+6. [Inventario maestro de materiales](inventario-maestro-materiales-2026-10-21.md): listado de rutas de `contenido/` y `Temarios/`.
+7. [Inventario reproducible histórico](inventario-reproducible-contenido-educativo.md): referencia histórica; sus cifras deben regenerarse antes de usarlas como estado actual.
+8. [Consolidación de hallazgos](consolidacion-hallazgos-y-controles-12-cursos.md): resumen de hallazgos conocidos y enlaces a lotes.
+9. [Issue de seguimiento #7](https://github.com/rodrigogalvezpinto/logos-school/issues/7): checklist de fases y criterio de cierre.
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En la rama QA, el árbol consultado contiene **933 archivos versionados**. La carpeta `docs/auditorias/` incluye numerosos informes de diferentes fechas, pasadas y ámbitos. Por ello, los recuentos de documentos no son una métrica de cobertura educativa.
+En la rama QA, el árbol consultado en el commit previo contenía **933 archivos versionados**; el siguiente corte detectó 934 antes de añadir el índice documental, por lo que se debe regenerar el conteo al actualizar la matriz. La carpeta `docs/auditorias/` incluye numerosos informes de diferentes fechas, pasadas y ámbitos. Por ello, los recuentos de documentos no son una métrica de cobertura educativa.
 
 El inventario maestro anterior identificó **290 archivos** dentro de `contenido/` y `Temarios/` (265 y 25 respectivamente) en su corte. Esa cifra es una línea base histórica que debe regenerarse desde el commit actual y reconciliarse con bancos de datos, importador, recursos externos y contenido mostrado por la aplicación.
 
@@ -111,3 +112,11 @@ También existen informes de primera, segunda, tercera y cuarta pasada. No deben
 No declarar 100 % por el número de archivos leídos, por contar informes o porque CI pase. Cada unidad del inventario debe tener estado y evidencia: revisada y revalidada, o excepción justificada. Deben conocerse los denominadores de archivos, ítems, claves, rúbricas, OA y recursos. Los hallazgos P0/P1 deben estar resueltos o tener una decisión explícita de bloqueo/no publicación; los cambios deben contar con regresión. Las dimensiones que requieran especialistas humanos deben identificarse como tales.
 
 **Conclusión vigente:** el trabajo previo es aprovechable y contiene hallazgos reales, pero está distribuido en informes de diferentes pasadas y todavía no prueba cobertura integral. A partir de este tablero, toda continuación debe actualizar el registro maestro y evitar crear documentos paralelos innecesarios.
+
+
+## 9. Orden documental aplicado — 2026-10-22
+
+- Se añadió el [índice y registro de informes existentes](INDICE-REGISTRO-INFORMES.md), que clasifica 48 documentos Markdown bajo `docs/auditorias/` por función y advierte que el número de informes no es cobertura auditada.
+- Se reafirma la jerarquía: este centro de control > matriz de cobertura por archivo/ítem (pendiente de generar) > registro maestro de hallazgos > informes de evidencia por lote. El índice y el handoff facilitan navegación, pero no sustituyen esas fuentes.
+- **Regla de no proliferación:** antes de crear un nuevo informe, revisar el índice y ampliar el documento existente si ya cubre el mismo archivo/ítem.
+- **Próxima tarea de orden:** generar una matriz reproducible del árbol vigente, con estado por archivo y dimensiones; reconciliar sus filas con hallazgos H-###, issues y evidencias existentes. Hasta entonces, la cobertura total continúa sin calcularse.
