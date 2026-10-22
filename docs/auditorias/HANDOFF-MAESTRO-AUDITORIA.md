@@ -1,6 +1,6 @@
 # Handoff y bitácora maestra de auditoría — Logos School
 
-**Última actualización:** 2026-10-21  
+**Última actualización:** 2026-10-22  
 **Rama de trabajo:** `qa/fase-2-matriz-trazabilidad`  
 **Repositorio:** `rodrigogalvezpinto/logos-school`  
 **Propósito:** permitir que cualquier agente humano o de IA retome la auditoría con el contexto, las evidencias, las decisiones y los pendientes sin depender de la memoria de una conversación.
@@ -153,3 +153,14 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - P3: mejorar la explicación del soluto en la pregunta 20; la clave es correcta para agua con azúcar, pero la menor cantidad no es por sí sola la definición del soluto.
 - Cálculos seleccionados de aceleración, fuerza neta y concentración %m/m coinciden.
 - Pendiente cotejo curricular oficial, comparación Forma A/B y QA de app. No se modificó contenido educativo ni `main`.
+
+
+## 11. Orden y continuidad — 22 de octubre de 2026
+
+- Punto de entrada vigente: [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md).
+- Nuevo índice para navegar los informes ya existentes: [Índice y registro de informes](INDICE-REGISTRO-INFORMES.md), que lista y clasifica los documentos bajo `docs/auditorias/` en el corte actual.
+- Antes de abrir otro informe, consultar el índice y ampliar un documento existente si el curso/archivo/pregunta coincide. No multiplicar documentos para el mismo hallazgo.
+- El árbol consultado antes del índice tenía 934 archivos versionados y 290 rutas en `contenido/` y `Temarios/`; esos conteos deben regenerarse desde el HEAD actual tras los commits de orden documental. No usar los conteos históricos como métricas vigentes.
+- La matriz maestra por asignatura no es la matriz de cobertura por archivo/ítem. Sigue pendiente generar esta última desde el árbol actual y reconciliarla con informes, hallazgos H-### e issues.
+- No se corrigió ningún material educativo ni se cambió `main`. Este avance solo ordena documentación y jerarquía de fuentes.
+- Próxima acción exacta: regenerar inventario actual, generar matriz de cobertura por archivo, asociar evidencia parcial sin declarar cierre, normalizar IDs y después continuar la auditoría sustantiva.
