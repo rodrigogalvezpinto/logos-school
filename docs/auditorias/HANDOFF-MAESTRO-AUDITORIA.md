@@ -132,3 +132,12 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - No se modificaron preguntas originales ni `main`.
 
 **Siguiente paso:** ampliar la revisión disciplinar a Ciencias, Historia, Inglés y Lengua y Literatura y mejorar el validador para detectar discrepancias entre la alternativa y su explicación en la pauta.
+
+
+### Avance — Ciencias Naturales 1.º medio Forma B (2026-10-22)
+
+- Nuevo informe: `docs/auditorias/lote-01-medio-ciencias-naturales-forma-b.md`.
+- Hallazgo P2: pregunta 9 confunde bioacumulación y biomagnificación en la pauta; la explicación corresponde principalmente a biomagnificación. Verificar enunciado antes de corregir.
+- Reconciliación de puntaje confirmada: 15×1 + 4×2 + 6×3 = 41 puntos, 25 preguntas.
+- Los cálculos seleccionados de transferencia energética, sonar y estequiometría coinciden con la pauta bajo los supuestos declarados.
+- Pendiente cotejar OA oficiales, comparar Forma A/B y probar importación/render/puntuación. No se modificó contenido educativo ni `main`.
