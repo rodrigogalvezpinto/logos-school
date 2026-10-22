@@ -161,3 +161,11 @@ Se registró una comprobación auxiliar de las cuatro Formas A/B de los exámene
 ## 12. Lote adicional — 1.º básico, Matemática: medición y datos
 
 Se documentó [el lote de auditoría de la prueba de medición, datos y probabilidades](lote-01-basico-matematica-medicion-datos.md). El ítem 2 pide ordenar una goma, un lápiz y una regla, pero la fuente Markdown no entrega longitudes ni un estímulo visual que permita establecer un orden único; la pauta asume que la goma es más corta y la regla más larga. Se registra como hallazgo provisional P1 sujeto a comprobar si la aplicación aporta un recurso visual adicional. No se cambió la prueba; render, corrección, OA oficial y regresión siguen pendientes.
+
+
+## 13. Lote de recálculo — Matemática, 1.º medio, Forma B
+
+Se documentó el recálculo independiente de los 25 ítems del examen `contenido/01-medio/examenes/matematica-examen-forma-b.md`, incluyendo el cotejo de las 12 claves de selección múltiple con sus alternativas. En esta pasada no se detectaron discrepancias numéricas ni de letra. El informe deja explícito que siguen pendientes la verificación de OA oficiales, la calidad de distractores, la rúbrica de desarrollo, la equivalencia con Forma A y las pruebas de importación/render/calificación.
+
+- [Informe de recálculo 1.º medio Matemática Forma B](lote-01-medio-matematica-examen-forma-b-recalculo.md)
+- **Estado del lote:** revisión numérica y de clave documentada; no equivale a certificación integral del examen.
