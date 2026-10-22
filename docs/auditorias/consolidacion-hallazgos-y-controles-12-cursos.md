@@ -184,3 +184,12 @@ Se revisó el archivo `contenido/02-medio/examenes/matematica-examen-forma-b.md`
 La última ejecución consultada de CI fue el run [39710128188](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710128188), con conclusión `failure`. El validador estructural sigue señalando los hallazgos previos de clave en 4.º básico y puntaje 30/35 en 5.º básico; el nuevo hallazgo de 2.º medio debe incorporarse al control automático en una etapa posterior.
 
 **Estado de certificación:** sigue abierto y no certificado al 100 %.
+
+
+## 12. Cribado transversal adicional de Matemática — 2026-10-22
+
+Se creó [Lote transversal — cribado de exámenes de Matemática de 3.º medio a 8.º básico](lote-transversal-matematica-3medio-8basico-cribado.md). Se relevaron y recalcularon operaciones de los exámenes Forma B de 3.º y 4.º medio y 5.º, 6.º, 7.º y 8.º básico; las operaciones revisadas coincidieron con sus pautas. Es un cribado acotado, no una auditoría pedagógica completa. En 6.º básico, pregunta 2, se comprobó que 9 buses completos cuestan $38.700.000 y dejan $800.000 del presupuesto de $39.500.000; el enunciado no pide transportar una cantidad de pasajeros, por lo que no se registra como defecto.
+
+El hallazgo P1 nuevo de la pauta de Matemática de 2.º medio (pregunta 14, inversa de `x+10`) sigue confirmado y documentado en su informe de lote. El cribado transversal no encontró otra discrepancia numérica inequívoca dentro de los ítems recalculados; no se debe interpretar como validación de los ítems restantes.
+
+CI continúa con conclusión de fallo en los runs recientes; el validador estructural aún tiene que señalar los problemas conocidos de 4.º y 5.º básico, y todavía no está configurado para detectar el conflicto semántico de la pregunta 14 de 2.º medio. No se modificaron materiales educativos ni `main`.
