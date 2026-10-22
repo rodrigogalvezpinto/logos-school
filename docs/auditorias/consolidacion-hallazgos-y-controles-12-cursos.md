@@ -169,3 +169,18 @@ Se documentó el recálculo independiente de los 25 ítems del examen `contenido
 
 - [Informe de recálculo 1.º medio Matemática Forma B](lote-01-medio-matematica-examen-forma-b-recalculo.md)
 - **Estado del lote:** revisión numérica y de clave documentada; no equivale a certificación integral del examen.
+
+
+## 11. Revisión adicional — Matemática de 2.º medio, Forma B
+
+Se revisó el archivo `contenido/02-medio/examenes/matematica-examen-forma-b.md` y se registró el detalle en [Lote 2.º medio — recálculo de examen de Matemática Forma B](lote-02-medio-matematica-examen-forma-b-recalculo.md).
+
+- **Hallazgo P1 confirmado:** pregunta 14. La alternativa a) indica correctamente que la inversa de `f(x)=x+10` es `x-10`, pero la pauta copia `x+10` como respuesta esperada. La pauta contradice la alternativa y el cálculo.
+- En esta pasada, los cálculos de los otros 24 ítems coincidieron con sus respuestas esperadas; esto no certifica currículo, dificultad, rúbricas, equivalencia con Forma A ni comportamiento de la app.
+- La distribución declarada (12 alternativas, 13 desarrollo; 25 en total) es aritméticamente consistente.
+- La afirmación de originalidad y de replicar una distribución habitual de Mineduc queda sin verificar.
+- El contenido educativo no se modificó; la corrección queda pendiente de autorización y regresión.
+
+La última ejecución consultada de CI fue el run [39710128188](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710128188), con conclusión `failure`. El validador estructural sigue señalando los hallazgos previos de clave en 4.º básico y puntaje 30/35 en 5.º básico; el nuevo hallazgo de 2.º medio debe incorporarse al control automático en una etapa posterior.
+
+**Estado de certificación:** sigue abierto y no certificado al 100 %.
