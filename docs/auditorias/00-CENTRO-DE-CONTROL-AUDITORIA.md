@@ -31,7 +31,7 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En la línea base actualizada del commit `c87604c3b9879d208c132bc5bd810a9c518c05f1`, el árbol contiene **937 archivos versionados** y 290 rutas de alcance educativo. La matriz CSV se regeneró después, en el commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`, actualizando tamaño y SHA de blob para las 290 rutas. El inventario de rutas ya está sincronizado con el árbol inspeccionado; falta reconciliar estados de auditoría y recursos consumidos por la aplicación.
+En el HEAD vigente `a462ebef452b730628b0832c700f3e53a066489c`, el árbol contiene **937 archivos versionados** y 290 rutas de alcance educativo. La matriz CSV se regeneró en el commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: 271 pendientes de auditoría sistemática, 8 con revisión parcial documentada y 11 corregidas pendientes de revalidación. El inventario de rutas está sincronizado; falta reconciliar recursos consumidos por la aplicación y expandir cobertura a preguntas/OA/recursos.
 
 La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **271 están pendientes de auditoría sistemática, 8 tienen revisión parcial documentada y 11 figuran como corregidas pendientes de revalidación**. Estas categorías son de seguimiento y no equivalen a certificación. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
@@ -88,15 +88,15 @@ Se aplicó la primera tanda de correcciones basada en la auditoría consolidada.
 ## 8. Próxima secuencia obligatoria
 
 ### Fase A — Orden y línea base reproducible
-- [ ] Regenerar el inventario desde el HEAD actual con rutas, tamaños/tipos y hash de commit.
-- [ ] Identificar y etiquetar informes históricos, duplicados, pasadas parciales y fuentes vigentes.
-- [ ] Crear una matriz única por recurso/ítem que vincule el informe de evidencia y el estado por dimensión.
-- [ ] Reconciliar IDs de hallazgos y enlaces a issues.
+- [x] Regenerar el inventario de rutas, tamaños y SHA de blob para las 290 rutas de alcance educativo; HEAD actual: `a462ebef452b730628b0832c700f3e53a066489c`.
+- [x] Crear el índice de informes y establecer el centro de control como punto único de entrada; los informes parciales/históricos quedan identificados para navegación.
+- [ ] Crear una matriz por recurso/ítem/OA que vincule evidencia, dimensiones revisadas, hallazgos y regresiones. La matriz CSV actual solo cubre estado por archivo.
+- [ ] Reconciliar IDs H-###, LGS-*, MAT-* y los issues, evitando contar el mismo defecto más de una vez.
 
 ### Fase B — Controles técnicos
-- [ ] Revisar las ejecuciones recientes de CI y documentar qué pasos ejecutan realmente.
-- [ ] Ampliar el validador para detectar los formatos de clave/puntaje reales sin introducir falsos positivos.
-- [ ] Añadir regresiones específicas para los hallazgos confirmados, sin corregir contenido fuente todavía.
+- [x] Revisar las ejecuciones recientes de CI: el workflow de auditoría de contenido pasó en el HEAD `a462ebef452b730628b0832c700f3e53a066489c`.
+- [ ] Documentar la cobertura y limitaciones exactas de cada control automatizado; CI verde no equivale a validación pedagógica.
+- [ ] Añadir/confirmar regresiones específicas para las 11 correcciones aplicadas en QA y verificar importación/render cuando el entorno esté disponible.
 
 ### Fase C — Auditoría sustantiva completa
 - [ ] Auditar todas las evaluaciones ítem por ítem.
@@ -134,3 +134,17 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 - **Límite importante:** se conservaron los estados heredados de seguimiento; actualizar hashes no significa que el archivo haya sido re-auditado. Las categorías 271 pendientes, 8 parciales y 11 corregidas pendientes de revalidación deben reconciliarse con la bitácora vigente, porque reflejan decisiones anteriores.
 - El último workflow verificado para el HEAD anterior de documentación fue verde; debe consultarse el run asociado al nuevo HEAD después de esta actualización. CI verde no certifica la calidad pedagógica.
 - Próximo paso: reconciliar los 13 hallazgos H-### con IDs LGS y otros identificadores de lote, y sincronizar estados de corrección/regresión antes de abrir otro lote sustantivo.
+
+
+## 12. Reordenamiento y estado verificado — 2026-10-22, 20:22 CLT
+
+Esta sección sustituye las instrucciones históricas que hayan quedado desactualizadas en otras secciones. Para continuar, usar este orden operativo:
+
+1. **Punto de entrada:** este centro de control.
+2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estados recalculados: 271 pendientes, 8 revisión parcial, 11 corregidos pendientes de revalidación).
+3. **Hallazgos y correcciones:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` y `registro-implementacion-correcciones-2026-10-22.md`; reconciliar IDs antes de contar hallazgos únicos.
+4. **Evidencia:** ampliar informes existentes antes de crear otro informe para el mismo archivo/ítem.
+5. **Validación técnica:** el workflow asociado al HEAD `a462ebef452b730628b0832c700f3e53a066489c` terminó en éxito: [run 39861590737](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39861590737). Esto valida solo los pasos configurados.
+6. **Siguiente tarea obligatoria:** reconciliar las 11 correcciones con la matriz CSV y el registro de hallazgos, y definir las regresiones que faltan. No abrir un lote nuevo hasta dejar esa reconciliación registrada.
+
+**Advertencia de coherencia:** las secciones anteriores son el historial de decisiones. Si un checklist histórico contradice esta sección 12, prevalece el estado verificado de esta sección hasta la próxima actualización documentada.
