@@ -141,3 +141,12 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - Reconciliación de puntaje confirmada: 15×1 + 4×2 + 6×3 = 41 puntos, 25 preguntas.
 - Los cálculos seleccionados de transferencia energética, sonar y estequiometría coinciden con la pauta bajo los supuestos declarados.
 - Pendiente cotejar OA oficiales, comparar Forma A/B y probar importación/render/puntuación. No se modificó contenido educativo ni `main`.
+
+
+### Avance — Ciencias Naturales 2.º medio Forma B (2026-10-22)
+
+- Nuevo informe: `docs/auditorias/lote-02-medio-ciencias-naturales-forma-b.md`.
+- Puntaje verificado: 16×1 + 5×2 + 4×3 = 38 puntos para 25 preguntas.
+- P3: mejorar la explicación del soluto en la pregunta 20; la clave es correcta para agua con azúcar, pero la menor cantidad no es por sí sola la definición del soluto.
+- Cálculos seleccionados de aceleración, fuerza neta y concentración %m/m coinciden.
+- Pendiente cotejo curricular oficial, comparación Forma A/B y QA de app. No se modificó contenido educativo ni `main`.
