@@ -15,8 +15,8 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 
 | Prioridad | Cantidad registrada en esta versión | Interpretación |
 |---|---:|---|
-| P1 | 4 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación |
-| P2 | 3 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
+| P1 confirmado | 3 | Errores confirmados que pueden afectar claves, puntajes o interpretación de una evaluación |
+| P1 provisional | 1 | Hallazgo pendiente de comprobar en el renderizado de la aplicación (H-006) |\n| P2 | 7 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
 Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos.
@@ -111,6 +111,21 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Por qué importa:** puede calificar mal una respuesta correcta y enseñar una regla algebraica equivocada.
 - **Corrección propuesta para fase 2:** cambiar la clave/explicación a (f^{-1}(x)=x-10), verificando que las alternativas contengan esa respuesta y que la letra coincida.
 - **Validación requerida:** prueba algebraica independiente, revisión de opciones y prueba de regresión de importación/calificación.
+- **Archivo fuente modificado en fase 1:** no.
+
+## H-012 — Pregunta de Historia presenta dos alternativas defendibles como consecuencia de la conquista en América
+
+- **Estado:** confirmado
+- **Prioridad:** P1
+- **Curso:** 5.º básico
+- **Asignatura:** Historia, Geografía y Ciencias Sociales
+- **Archivo:** [historia-geografia-y-cs-sociales-examen-forma-b.md](../../contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md)
+- **Ubicación exacta:** pregunta 5 y fila 5 de la pauta de corrección.
+- **Evidencia:** pregunta: «¿Cuál de las siguientes consecuencias de la conquista corresponde principalmente a América?». La alternativa **b)** es «La incorporación de nuevos alimentos como la papa y el tomate»; la alternativa **c)** es «La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas». La pauta elige c).
+- **Problema:** ambas alternativas describen consecuencias históricas relacionadas con América. La pregunta no precisa si busca un impacto demográfico/político o un intercambio alimentario, por lo que la opción b también puede defenderse como correcta en el marco literal del enunciado.
+- **Por qué importa:** un estudiante puede seleccionar una consecuencia válida y aun así ser marcado incorrecto; la ambigüedad afecta la validez de la evaluación.
+- **Corrección propuesta para fase 2:** acotar el enunciado al ámbito que se quiere evaluar —por ejemplo, «¿Cuál alternativa describe principalmente una consecuencia demográfica y política de la conquista para los pueblos originarios de América?»— y revisar distractores para que solo una opción responda a ese foco.
+- **Validación requerida:** revisar el OA y el propósito de la pregunta; comprobar que solo una alternativa sea defendible y actualizar pauta, importación y calificación.
 - **Archivo fuente modificado en fase 1:** no.
 
 ## H-011 — Pregunta de rutina diaria tiene una alternativa que no responde al momento indicado
