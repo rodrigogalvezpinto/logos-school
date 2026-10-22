@@ -56,12 +56,16 @@ def _compare(question_no: int, letter: str, answer: str,
                 f"pero las opciones disponibles son {', '.join(sorted(options))}"]
     normalised_answer = _normalise(answer)
     normalised_option = _normalise(options[letter])
-    # Markdown puede partir una alternativa en varias líneas o aplicar negrita
-    # solo a una parte. Si un texto es prefijo del otro, la comparación textual
-    # no es concluyente y se evita generar un falso positivo.
-    if (normalised_answer != normalised_option and
-            not normalised_answer.startswith(normalised_option) and
-            not normalised_option.startswith(normalised_answer)):
+    # La comparación literal solo es fiable para respuestas compactas como
+    # números y expresiones algebraicas. Las claves redactadas pueden ser
+    # paráfrasis válidas de alternativas largas y requieren revisión semántica.
+    compact_answer = len(normalised_answer) <= 32 and bool(
+        re.fullmatch(r"[\w\s.+−*/=()^⁻₀₁₂₃₄₅₆₇₈₉,%:-]+", normalised_answer)
+    )
+    compact_option = len(normalised_option) <= 32 and bool(
+        re.fullmatch(r"[\w\s.+−*/=()^⁻₀₁₂₃₄₅₆₇₈₉,%:-]+", normalised_option)
+    )
+    if compact_answer and compact_option and normalised_answer != normalised_option:
         return [f"{path}:{line_no}: pregunta {question_no}: la clave {letter}) {answer} "
                 f"no coincide con la alternativa {letter}) {options[letter]}"]
     return []
