@@ -268,3 +268,88 @@ Copiar esta estructura por cada problema nuevo:
 5. No comenzar la corrección masiva hasta que el diagnóstico esté suficientemente completo y se haya acordado el corte de fase 2.
 
 **Importante:** este archivo es el registro maestro de hallazgos conocidos, no la certificación de que el resto del contenido está correcto. Todo elemento no revisado en profundidad permanece pendiente.
+
+
+---
+
+## Reconciliación de correcciones registradas — 2026-10-22
+
+Las siguientes entradas dan un ID estable a cambios de la bitácora que aún no estaban vinculados a un encabezado H-###. Son **correcciones aplicadas pendientes de revalidación**, no hallazgos cerrados. La evidencia de implementación está en [registro de implementación](registro-implementacion-correcciones-2026-10-22.md); los commits citados allí son el rastro del cambio, no una prueba de regresión.
+
+## H-014 — Tabla de frecuencias de Matemática 7.º básico corregida
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P1 provisional hasta validar los datos y la tabla; la bitácora reporta la corrección aritmética.
+- **Archivo:** `contenido/07-basico/matematica.md`.
+- **Evidencia de la corrección registrada:** para 20 datos, la tabla quedó como 0 → 4 (20 %), 1 → 9 (45 %), 2 → 5 (25 %), 3 → 2 (10 %).
+- **Validación requerida:** recalcular las frecuencias desde la lista original de datos; verificar suma de frecuencias = 20 y suma de porcentajes = 100 %; revisar explicación y render.
+- **Commit de implementación:** `5034c79130eecbb950ecc070bf2e352db2255e8a`.
+
+## H-015 — Cita de Lengua y Literatura 2.º medio restaurada
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P3, errata textual/contextual salvo que la cita cambie la interpretación o la clave.
+- **Archivo:** `contenido/02-medio/examenes/lengua-y-literatura-examen-forma-b.md`, pregunta 17.
+- **Evidencia de la corrección registrada:** se restauró la cita «ya no hay vuelta atrás».
+- **Validación requerida:** cotejar la cita con el texto fuente del instrumento, revisar que no altere la interpretación de la pregunta y confirmar pauta/alternativas.
+- **Commit de implementación:** `9dea1fc2992c94b98612ad1e3ade9a3ae6f039e7`.
+
+## H-016 — Diálogo de Inglés 5.º básico corregido
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P2, coherencia pragmática y lingüística.
+- **Archivo:** `contenido/05-basico/examenes/ingles-examen-forma-b.md`.
+- **Evidencia de la corrección registrada:** se reordenó el diálogo para que quien rompe el lápiz se disculpe y la otra persona responda «That's OK, don't worry».
+- **Validación requerida:** revisar la secuencia completa, los turnos, la naturalidad del inglés y que la clave siga correspondiendo al diálogo corregido.
+- **ID operativo previo:** `LGS-5B-ING-001`.
+- **Commit de implementación:** `e2f31eb49221cf718da346564d73fe5801c1a022`.
+
+## H-017 — Explicación del efecto Doppler en Ciencias 1.º medio precisada
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P2, precisión conceptual.
+- **Archivo:** `contenido/01-medio/ciencias-naturales.md`.
+- **Evidencia de la corrección registrada:** se separó el efecto Doppler del sonido (más agudo al acercarse y más grave al alejarse) del corrimiento de la luz (azul al acercarse y rojo al alejarse).
+- **Validación requerida:** revisión disciplinar independiente, comprobar que el contexto del material no introduzca condiciones adicionales omitidas y revisar la explicación completa.
+- **ID operativo previo:** `LGS-1M-CNT-011`.
+- **Commit de implementación:** `50ac8feeec312f5533086d9e622a92e4255dd7b9`.
+
+## H-018 — Errata en Historia 8.º básico corregida
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P3, errata editorial.
+- **Archivo:** `contenido/08-basico/historia-geografia-y-cs-sociales.md`.
+- **Evidencia de la corrección registrada:** se cambió «population» por «población».
+- **Validación requerida:** revisar contexto de la oración y hacer una búsqueda de erratas cercanas; el cambio aislado no equivale a una revisión integral del archivo.
+- **Commit de implementación:** `4c64599d8227167741aa8cc1f67309715e288518`.
+
+## H-019 — Errata en Lengua y Literatura 1.º medio corregida
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P3, errata editorial.
+- **Archivo:** `contenido/01-medio/lengua-y-literatura.md`.
+- **Evidencia de la corrección registrada:** se cambió «information implícita» por «información implícita».
+- **Validación requerida:** revisar contexto y buscar erratas similares; no implica revisión integral del material.
+- **Commit de implementación:** `b1c48933cedecc8c1044a01ffc1b48eeb2e3af7f`.
+
+## H-020 — Referencia temporal en Lengua y Literatura 8.º básico ajustada
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P2 provisional, porque el cambio modifica contexto factual/histórico y retroalimentación.
+- **Archivo:** `contenido/08-basico/lengua-y-literatura.md`.
+- **Evidencia de la corrección registrada:** se cambió «madrugada» por «tarde» y se actualizó la retroalimentación sobre el terremoto de Valdivia del 22-05-1960.
+- **Validación requerida:** contrastar el momento del sismo con fuente histórica fiable, releer el ítem completo y confirmar que la clave/retroalimentación siga siendo coherente.
+- **ID operativo previo:** `LGS-8B-LEM-001`.
+- **Commit de implementación:** `4bdf9c38fe97d9ff2abdd36fe40157b94fea101d`.
+
+## H-021 — Nota editorial sobre razón en Matemática 6.º básico retirada
+
+- **Estado:** corregido pendiente de revalidación.
+- **Prioridad:** P3, claridad editorial.
+- **Archivo:** `contenido/06-basico/matematica.md`.
+- **Evidencia de la corrección registrada:** se retiró la nota «cuidado con el orden» y se mantuvo la explicación de amplificación de razón 5:3 a 15:9.
+- **Validación requerida:** confirmar que el ejemplo y la explicación enseñen correctamente la equivalencia de razones, y que no se haya eliminado una advertencia necesaria para el estudiante.
+- **ID operativo previo:** `MAT-CONT-002`.
+- **Commit de implementación:** `739892d18df593fdf1bbf0232a0066cb34951923`.
+
+**Nota de conteo:** estas entradas amplían el registro para que los cambios de la bitácora tengan IDs estables. No sumar cada alias operativo como un hallazgo independiente: conservar un único H-### canónico por problema y enlazar `LGS-*`/`MAT-*` como alias. H-001, H-003, H-007 y H-009 ya existían y siguen siendo los IDs canónicos para los tres problemas principales y la explicación del resto; esta adición no los duplica.
