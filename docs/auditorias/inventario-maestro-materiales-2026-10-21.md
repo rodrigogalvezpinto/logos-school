@@ -12,7 +12,7 @@
 - **Archivos bajo `Temarios/`:** 25
 - **Archivos de imagen en todo el repositorio (PNG/JPEG/GIF/SVG/WebP/AVIF):** 0; deben vincularse a los materiales que los usan.
 - **PDF en todo el repositorio:** 0; la lista curricular de abajo incluye los PDF de `Temarios/`.
-- **Archivos con revisión completa registrada en esta matriz:** 0.
+- **Archivos con revisión integral certificada:** 0. La matriz registra estados de seguimiento: 271 pendientes de auditoría sistemática, 8 con revisión parcial documentada y 11 corregidos pendientes de revalidación.
 - **Distribución de archivos de contenido por curso:** Transversal: 1; 1º basico: 18; 1º medio: 24; 2º basico: 18; 2º medio: 24; 3º basico: 18; 3º medio: 25; 4º basico: 18; 4º medio: 23; 5º basico: 24; 6º basico: 24; 7º basico: 24; 8º basico: 24.
 
 ## Cómo usar la matriz
@@ -325,3 +325,8 @@ No marcar un archivo como `cerrado_verificado` solo porque fue abierto, se gener
 3. Debe cotejarse con el importador, la base de datos QA y la aplicación para descubrir contenido no representado en archivos fuente o archivos que no se estén utilizando.
 4. No representa una auditoría de exactitud disciplinar, pedagógica ni curricular.
 5. El universo puede cambiar; regenerar el inventario tras cambios relevantes del repositorio.
+
+
+## Nota de sincronización y estado — 2026-10-22
+
+La matriz CSV se contrastó con el árbol remoto del commit `e9d3dd5ffbeb9f6beb469476440202e6f2a100c2`: sus 290 rutas, tamaños y SHA de blob coinciden con el árbol inspeccionado. La etiqueta `estado_inventario` de las filas identifica ese corte. La distribución de seguimiento es 271 `pendiente_auditoria_sistematica`, 8 `revision_parcial_documentada` y 11 `corregido_pendiente_revalidacion`. Ninguna de estas categorías significa revisión integral cerrada. Los recursos que consume la app y las preguntas/OA/recursos individuales aún no tienen denominadores completos.
