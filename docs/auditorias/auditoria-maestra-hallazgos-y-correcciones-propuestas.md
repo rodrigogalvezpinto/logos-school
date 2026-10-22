@@ -19,7 +19,7 @@ Cada hallazgo debe identificar curso, asignatura, archivo, pregunta/sección, pr
 | P2 | 3 | Problemas de explicación, precisión conceptual o presentación que requieren mejora |
 | Pendiente/provisional | Varios | No son errores confirmados; requieren revisar renderizado, fuentes oficiales o material completo |
 
-Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos.
+Estos números corresponden solo a los hallazgos consignados aquí, no a todos los problemas que puedan existir en los 12 cursos. H-007 se suma a la lista como hallazgo P1; por tanto, la cantidad P1 registrada en este archivo pasa a 3.
 
 ---
 
@@ -96,6 +96,21 @@ Estos números corresponden solo a los hallazgos consignados aquí, no a todos l
 - **Por qué importa:** puede consolidar una regla conceptual simplificada que falla en otros ejemplos.
 - **Corrección propuesta para fase 2:** definir el soluto como la sustancia que se disuelve en el solvente; explicar el ejemplo azúcar/agua sin presentar «menor cantidad» como criterio universal.
 - **Validación requerida:** revisar coherencia con el currículo del nivel y con los otros ejemplos de soluciones del material.
+- **Archivo fuente modificado en fase 1:** no.
+
+## H-007 — Clave de función inversa contradice la transformación algebraica
+
+- **Estado:** confirmado en revisión previa; verificar la línea exacta antes de modificar
+- **Prioridad:** P1
+- **Curso:** 2.º medio
+- **Asignatura:** Matemática
+- **Archivo:** [matematica-examen-forma-b.md](../../contenido/02-medio/examenes/matematica-examen-forma-b.md)
+- **Ubicación exacta:** pregunta 14 y pauta de corrección.
+- **Evidencia:** el ítem pide la función inversa de (f(x)=x+10). La inversa se obtiene despejando (x): (y=x+10) implica (x=y-10), por tanto (f^{-1}(x)=x-10). La pauta consignada previamente indicaba (x+10).
+- **Problema:** la clave propone la función original en lugar de la inversa.
+- **Por qué importa:** puede calificar mal una respuesta correcta y enseñar una regla algebraica equivocada.
+- **Corrección propuesta para fase 2:** cambiar la clave/explicación a (f^{-1}(x)=x-10), verificando que las alternativas contengan esa respuesta y que la letra coincida.
+- **Validación requerida:** prueba algebraica independiente, revisión de opciones y prueba de regresión de importación/calificación.
 - **Archivo fuente modificado en fase 1:** no.
 
 ## H-006 — Estímulo visual descrito en Markdown, renderizado aún no comprobado
