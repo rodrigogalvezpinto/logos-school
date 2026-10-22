@@ -910,8 +910,8 @@ iluminación.
    efecto Doppler), señalando una semejanza y una diferencia entre ambos.
    **Respuesta esperada:** Por ejemplo, en el efecto Doppler: semejanza, en ambos
    casos el movimiento relativo entre la fuente y el observador provoca un cambio
-   aparente en la frecuencia percibida (más agudo/rojo al acercarse, más grave/rojo al
-   alejarse). Diferencia: el sonido necesita un medio material para propagarse,
+   aparente en la frecuencia percibida. En el sonido, el efecto se percibe como un tono
+   más agudo al acercarse y más grave al alejarse; en la luz, el acercamiento produce
    mientras que la luz puede propagarse también en el vacío, como ocurre entre
    galaxias.
    **Retroalimentación:** Comparar fenómenos ondulatorios del sonido y de la luz
