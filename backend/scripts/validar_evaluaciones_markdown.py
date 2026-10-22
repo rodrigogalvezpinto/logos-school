@@ -54,17 +54,16 @@ def _compare(question_no: int, letter: str, answer: str,
     if letter not in options:
         return [f"{path}:{line_no}: pregunta {question_no}: la clave refiere a {letter}), "
                 f"pero las opciones disponibles son {', '.join(sorted(options))}"]
-    normalised_answer = _normalise(answer)
+    # Algunas pautas añaden el desarrollo entre paréntesis después de la respuesta.
+    # Separarlo evita comparar "36x² − 25 (desarrollo...)" con la alternativa.
+    answer_core = re.sub(r"\\s*\\([^()]*\\)\\s*$", "", answer.strip())
+    normalised_answer = _normalise(answer_core)
     normalised_option = _normalise(options[letter])
-    # La comparación literal solo es fiable para respuestas compactas como
-    # números y expresiones algebraicas. Las claves redactadas pueden ser
-    # paráfrasis válidas de alternativas largas y requieren revisión semántica.
-    compact_answer = len(normalised_answer) <= 32 and bool(
-        re.fullmatch(r"[\w\s.+−*/=()^⁻₀₁₂₃₄₅₆₇₈₉,%:-]+", normalised_answer)
-    )
-    compact_option = len(normalised_option) <= 32 and bool(
-        re.fullmatch(r"[\w\s.+−*/=()^⁻₀₁₂₃₄₅₆₇₈₉,%:-]+", normalised_option)
-    )
+    # Las claves breves (números/expresiones) se pueden comparar literalmente.
+    # Las respuestas redactadas largas pueden ser paráfrasis válidas y se reservan
+    # para revisión semántica humana, no se marcan como discrepancia automática.
+    compact_answer = len(normalised_answer) <= 32
+    compact_option = len(normalised_option) <= 32
     if compact_answer and compact_option and normalised_answer != normalised_option:
         return [f"{path}:{line_no}: pregunta {question_no}: la clave {letter}) {answer} "
                 f"no coincide con la alternativa {letter}) {options[letter]}"]
