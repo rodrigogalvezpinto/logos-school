@@ -65,8 +65,15 @@ def _compare(question_no: int, letter: str, answer: str,
     compact_answer = len(normalised_answer) <= 32
     compact_option = len(normalised_option) <= 32
     if compact_answer and compact_option and normalised_answer != normalised_option:
-        return [f"{path}:{line_no}: pregunta {question_no}: la clave {letter}) {answer} "
-                f"no coincide con la alternativa {letter}) {options[letter]}"]
+        # Permitir que la clave contenga una respuesta seguida de una aclaración
+        # no parentética; se considera equivalente si la alternativa completa
+        # coincide con el inicio de la clave y hay un separador después.
+        same_answer_with_explanation = normalised_answer.startswith(
+            normalised_option + " "
+        )
+        if not same_answer_with_explanation:
+            return [f"{path}:{line_no}: pregunta {question_no}: la clave {letter}) {answer} "
+                    f"no coincide con la alternativa {letter}) {options[letter]}"]
     return []
 
 
