@@ -151,3 +151,8 @@ Se crearon informes separados para conservar el alcance, la evidencia y las limi
 - [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): se reprodujo que los 25 ítems, la pauta y la distribución por eje suman 35 puntos, mientras el encabezado declara 30; revisión curricular, de contenido y de aplicación aún pendientes.
 
 Estos informes no cambian materiales educativos ni cierran los hallazgos. Se mantienen en la rama de QA.
+
+
+## 11. Control mecánico adicional de claves — 2.º y 3.º básico
+
+Se registró una comprobación auxiliar de las cuatro Formas A/B de los exámenes integrados de 2.º y 3.º básico: [informe del control mecánico](control-mecanico-claves-simulacros-2b-3b.md). El control detectó 60 filas de pauta con letra explícita y pudo compararlas con las alternativas detectadas; no encontró letras que estuvieran ausentes de esas opciones. Este resultado no certifica la corrección semántica de las respuestas y no reemplaza la revisión de los 80 ítems, los desarrollos, los recursos visuales, la alineación OA ni el render. Los hallazgos previos sobre duplicación entre Formas A/B y precisión de contenido siguen abiertos.
