@@ -278,7 +278,7 @@ ________________________________________________________________________________
 | 13 | Lenguaje | Respuesta que use correctamente el conector, por ejemplo: "Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada." | OA N°17 — uso de conectores |
 | 14 | Lenguaje | El texto reescrito debe tener al menos dos párrafos separados por punto aparte, cada uno agrupando una idea principal distinta, con oraciones de sentido completo. | OA N°17 — organización en párrafos y punto aparte |
 | 15 | Ciencias Naturales | Cáscara = corteza (la más rígida y externa); pulpa = manto (semi-líquida, intermedia); carozo = núcleo (el más interno y caliente). | OA 15 — Capas de la Tierra |
-| 16 | Matemática | **c) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
+| 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. La alternativa b) contiene el valor 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
 | 17 | Historia | Respuesta correcta si identifica una característica real del paisaje de la propia región y describe una adaptación o transformación coherente con ella. | OA 10 — Adaptación y transformación del paisaje |
 | 18 | Ciencias Naturales | Debe explicar que un sismo submarino puede desplazar una gran masa de agua y generar olas de gran tamaño (tsunami) que llegan a la costa, por lo que alejarse del borde costero y subir a zonas altas reduce el riesgo. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
 | 19 | Matemática | **b) Metro.** Unidad adecuada para medir distancias grandes, como el largo de una cancha. | OA 22 — Medir longitudes con metros y centímetros |
