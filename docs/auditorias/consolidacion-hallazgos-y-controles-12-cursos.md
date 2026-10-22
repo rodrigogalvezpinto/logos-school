@@ -203,3 +203,13 @@ Se creó [Lote 1.º medio — revisión conceptual y aritmética de Ciencias Nat
 - **Puntaje consistente:** 15 preguntas de alternativas (15 puntos), 4 desarrollos breves (8 puntos) y 6 desarrollos extensos (18 puntos), total 41 puntos para 25 preguntas.
 - Los cálculos seleccionados de energía trófica, sonar y estequiometría fueron consistentes con los supuestos del enunciado. Esto no valida todos los ítems ni los OA.
 - El archivo fuente no se modificó. Pendientes: cotejo de OA oficiales, comparación Forma A/B y QA de app.
+
+
+## 14. Ciencias Naturales de 2.º medio — Forma B
+
+Informe: [Lote 2.º medio — Ciencias Naturales Forma B](lote-02-medio-ciencias-naturales-forma-b.md).
+
+- Puntaje conciliado: 16 alternativas (16 puntos) + 5 desarrollos breves (10) + 4 desarrollos extensos (12) = 38 puntos; 25 preguntas.
+- P3: pregunta 20, la clave (azúcar como soluto) es adecuada, pero la justificación da demasiado peso a “estar en menor cantidad”; conviene definir el soluto como la sustancia disuelta.
+- Los cálculos seleccionados de aceleración, fuerza neta/aceleración y concentración %m/m son consistentes.
+- OA oficiales, comparación Forma A/B y QA en aplicación pendientes. Fuente educativa intacta.
