@@ -15,11 +15,11 @@
 
 ## Documentos por función
 
-| Implementación / bitácora | [registro de implementación de correcciones 2026-10-22](registro-implementacion-correcciones-2026-10-22.md) | Correcciones en rama QA; todas pendientes de regresión y revalidación. |
-
 | Función | Documento | Uso / precaución |
 |---|---|---|
-| Control vigente | [00 CENTRO DE CONTROL AUDITORIA](00-CENTRO-DE-CONTROL-AUDITORIA.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
+| Control vigente | [00 CENTRO DE CONTROL AUDITORIA](00-CENTRO-DE-CONTROL-AUDITORIA.md) | Fuente única de prioridades, estado y siguiente acción. |
+| Matriz de cobertura por archivo | [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) | 290 rutas de contenido/temarios del corte; estados preliminares y dimensiones pendientes. No certifica ítems. |
+| Implementación / bitácora | [registro de implementación de correcciones 2026-10-22](registro-implementacion-correcciones-2026-10-22.md) | 11 archivos/cambios con revalidación pendiente; consultar la bitácora para detalle y commits. |
 | Continuidad / bitácora | [HANDOFF MAESTRO AUDITORIA](HANDOFF-MAESTRO-AUDITORIA.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
 | Gobernanza / criterios | [auditoria integral educativa plan maestro](auditoria-integral-educativa-plan-maestro.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
 | Registro de hallazgos | [auditoria maestra hallazgos y correcciones propuestas](auditoria-maestra-hallazgos-y-correcciones-propuestas.md) | Índice por nombre; verificar el alcance, fecha y estado dentro del documento. |
