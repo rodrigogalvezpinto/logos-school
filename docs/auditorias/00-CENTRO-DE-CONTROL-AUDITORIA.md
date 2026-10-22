@@ -144,7 +144,7 @@ Esta sección sustituye las instrucciones históricas que hayan quedado desactua
 2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estados recalculados: 271 pendientes, 8 revisión parcial, 11 corregidos pendientes de revalidación).
 3. **Hallazgos y correcciones:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` y `registro-implementacion-correcciones-2026-10-22.md`; reconciliar IDs antes de contar hallazgos únicos.
 4. **Evidencia:** ampliar informes existentes antes de crear otro informe para el mismo archivo/ítem.
-5. **Validación técnica:** el workflow asociado al HEAD `a462ebef452b730628b0832c700f3e53a066489c` terminó en éxito: [run 39861590737](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39861590737). Esto valida solo los pasos configurados.
+5. **Validación técnica:** el workflow asociado al HEAD `77b9c15bb0f5bd29568d19d6e21702c000e3b9c9` terminó en éxito: [run 39871505287](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871505287). Esto valida solo los pasos configurados.
 6. **Siguiente tarea obligatoria:** reconciliar las 11 correcciones con la matriz CSV y el registro de hallazgos, y definir las regresiones que faltan. No abrir un lote nuevo hasta dejar esa reconciliación registrada.
 
 **Advertencia de coherencia:** las secciones anteriores son el historial de decisiones. Si un checklist histórico contradice esta sección 12, prevalece el estado verificado de esta sección hasta la próxima actualización documentada.
