@@ -12,7 +12,7 @@ basado_en: Banco de autoevaluación 05-basico/historia-geografia-y-cs-sociales.m
 
 **N° de preguntas:** 25
 **Tiempo estimado:** 90 minutos
-**Puntaje total:** 30 puntos
+**Puntaje total:** 35 puntos
 
 ### Instrucciones para el estudiante
 
