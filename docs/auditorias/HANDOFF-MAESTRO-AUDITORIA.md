@@ -120,3 +120,15 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - No se modificó el contenido educativo ni `main`.
 
 **Siguiente paso:** continuar con otro examen de curso distinto y ampliar después el validador para detectar contradicciones entre la respuesta de la alternativa y la respuesta explicada en la pauta, sin falsos positivos en preguntas abiertas.
+
+
+### Avance adicional — cribado transversal de Matemática (2026-10-22)
+
+- Se creó `docs/auditorias/lote-transversal-matematica-3medio-8basico-cribado.md`.
+- Se revisaron cálculos seleccionados de las pautas de Matemática Forma B de 3.º y 4.º medio y 5.º–8.º básico. Los ítems efectivamente recalculados coincidieron con sus respuestas esperadas. No afirmar que todos los ítems o el currículo estén validados.
+- Se comprobó la pregunta 2 de 6.º básico: $39.500.000 / $4.300.000 permite 9 buses completos y deja $800.000; es coherente con el enunciado presupuestario, así que no se registra como error.
+- Hallazgo P1 confirmado en 2.º medio: la pregunta 14 presenta una contradicción entre la alternativa correcta `x-10` y la pauta `x+10`. El validador actual aún no detecta este tipo de contradicción semántica.
+- CI runs recientes consultados: [39710761424](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710761424), [39710756829](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710756829), ambos con conclusión `failure`. Antes de afirmar qué job falló, revisar los logs; los fallos estructurales conocidos siguen pendientes.
+- No se modificaron preguntas originales ni `main`.
+
+**Siguiente paso:** ampliar la revisión disciplinar a Ciencias, Historia, Inglés y Lengua y Literatura y mejorar el validador para detectar discrepancias entre la alternativa y su explicación en la pauta.
