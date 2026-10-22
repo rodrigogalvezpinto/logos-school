@@ -148,3 +148,41 @@ Esta sección sustituye las instrucciones históricas que hayan quedado desactua
 6. **Siguiente tarea obligatoria:** reconciliar las 11 correcciones con la matriz CSV y el registro de hallazgos, y definir las regresiones que faltan. No abrir un lote nuevo hasta dejar esa reconciliación registrada.
 
 **Advertencia de coherencia:** las secciones anteriores son el historial de decisiones. Si un checklist histórico contradice esta sección 12, prevalece el estado verificado de esta sección hasta la próxima actualización documentada.
+
+
+## 13. Reconciliación de correcciones y línea base — 2026-10-22
+
+### Línea base comprobada
+
+- HEAD de código y contenido verificado antes de esta actualización: `e9d3dd5ffbeb9f6beb469476440202e6f2a100c2`.
+- Árbol remoto: 937 archivos versionados; 290 rutas educativas bajo `contenido/` y `Temarios/`.
+- La matriz CSV conserva 290 filas y sus tamaños/SHA de blob coinciden con el árbol remoto inspeccionado. Se actualizó la etiqueta `estado_inventario` de todas las filas para referir al HEAD `e9d3dd5`; esto identifica la línea base, no certifica revisión de contenido.
+- CI: el run [39871558848](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871558848) terminó en éxito para el HEAD `e9d3dd5`. Solo demuestra que los controles configurados pasaron.
+
+### Conciliación de las 11 correcciones de la bitácora
+
+| Archivo | Cambio registrado | ID maestro asociado | Estado correcto de seguimiento |
+|---|---|---|---|
+| `contenido/04-basico/examenes/examen-integrado-forma-b.md` | Clave P16: `c) 14` → `b) 14` | H-001 / LGS-4B-EVAL-001 | Corregido; regresión y QA de app pendientes |
+| `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md` | Total de encabezado: 30 → 35 puntos | H-009 / LGS-5B-EVAL-001 | Corregido; escala de notas y regresión pendientes |
+| `contenido/02-medio/examenes/matematica-examen-forma-b.md` | Inversa de `x+10` corregida a `x-10` | H-007 / LGS-2M-MAT-014 | Corregido; regresión y QA pendientes |
+| `contenido/06-basico/matematica.md` | Explicación del resto y limpieza editorial de razón | H-003 / LGS-6B-MAT-001 y MAT-CONT-002 | Corregido; relectura y regresión pendientes |
+| `contenido/07-basico/matematica.md` | Tabla de frecuencias corregida | LGS-7B-MAT-001 | Corregido; falta asignar/reconciliar ID H y ejecutar regresión |
+| `contenido/02-medio/examenes/lengua-y-literatura-examen-forma-b.md` | Cita restaurada en P17 | Sin H-### identificado en el registro actual | Cambio de texto registrado; crear vínculo de hallazgo o clasificar como errata de baja severidad y validar |
+| `contenido/05-basico/examenes/ingles-examen-forma-b.md` | Diálogo y turnos de disculpa corregidos | LGS-5B-ING-001; sin H-### identificado | Cambio registrado; revisar inglés y regresión |
+| `contenido/01-medio/ciencias-naturales.md` | Distinción Doppler sonoro/luminoso | LGS-1M-CNT-011; sin H-### identificado | Cambio registrado; contraste disciplinar y regresión pendientes |
+| `contenido/08-basico/historia-geografia-y-cs-sociales.md` | Errata «population» → «población» | Sin H-### identificado | Errata registrada; relectura pendiente |
+| `contenido/01-medio/lengua-y-literatura.md` | Errata «information implícita» → «información implícita» | Sin H-### identificado | Errata registrada; relectura pendiente |
+| `contenido/08-basico/lengua-y-literatura.md` | Contexto temporal «madrugada» → «tarde» y retroalimentación ajustada | LGS-8B-LEM-001; sin H-### identificado | Cambio registrado; verificación factual y regresión pendientes |
+
+La matriz por archivo ya etiqueta estos 11 recursos como `corregido_pendiente_revalidacion` y enlaza la bitácora o el lote correspondiente. **No se deben contar las referencias H-###, LGS-* y MAT-* como defectos distintos cuando describen el mismo cambio.** A su vez, los cambios sin ID H-### deben incorporarse o vincularse en el registro maestro; no se inventa un ID retrospectivo sin actualizar dicho registro.
+
+### Bloqueadores para continuar con nuevos lotes
+
+1. Añadir o documentar las pruebas de regresión para las 11 correcciones, distinguiendo las pruebas automatizables de la revisión disciplinar.
+2. Actualizar el registro maestro para vincular los 11 cambios con sus IDs estables, sin duplicar los hallazgos existentes.
+3. Verificar el estado de los 11 fragmentos contra la versión remota actual; la bitácora de commits es evidencia de cambios, no evidencia suficiente de cierre.
+4. Mantener la matriz en `corregido_pendiente_revalidacion` hasta que la prueba correspondiente pase y la revisión aplicable quede documentada.
+5. No iniciar nuevos lotes sustantivos hasta completar esta reconciliación; después, continuar por prioridad P1 y con trazabilidad por archivo/pregunta/OA.
+
+**Estado de organización:** inventario por archivo sincronizado; conciliación de cambios y sus IDs documentada; regresiones y revisión de app aún pendientes. La auditoría sigue en curso y no está certificada al 100 %.
