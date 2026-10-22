@@ -213,3 +213,13 @@ Informe: [Lote 2.º medio — Ciencias Naturales Forma B](lote-02-medio-ciencias
 - P3: pregunta 20, la clave (azúcar como soluto) es adecuada, pero la justificación da demasiado peso a “estar en menor cantidad”; conviene definir el soluto como la sustancia disuelta.
 - Los cálculos seleccionados de aceleración, fuerza neta/aceleración y concentración %m/m son consistentes.
 - OA oficiales, comparación Forma A/B y QA en aplicación pendientes. Fuente educativa intacta.
+
+
+## 15. Pruebas integradas de 3.º y 4.º básico — comparación Forma A/B
+
+Informe de evidencia: [Lote comparativo de formas A/B de 3.º y 4.º básico](lote-comparativo-formas-a-b-3b-4b.md).
+
+- Ambas formas de ambos cursos tienen 20 preguntas y 20 filas de pauta.
+- **3.º básico:** el texto «El cometa de Joaquín» aparece en ambas formas (Forma A, preguntas 4–5; Forma B, pregunta 4). Esto contradice la afirmación de que la Forma B usa preguntas distintas en sentido estricto. Hallazgo registrado; no se modificó el material fuente.
+- **4.º básico Forma B, pregunta 16 — P1:** para (x+9=23), la respuesta correcta es 14, que corresponde a la alternativa **b)**; la pauta indica **c) 14**. La explicación calcula correctamente 23−9=14, pero la letra es inconsistente. Requiere corrección y prueba de regresión.
+- Sigue pendiente la revisión curricular oficial, equivalencia de dificultad A/B, renderizado de estímulos y QA de importación/calificación en la aplicación.
