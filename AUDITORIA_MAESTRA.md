@@ -68,7 +68,7 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 | Exámenes medidos (todos los formatos de pauta) | **50** |
 | Exámenes que superaban el 45 % antes del rebalanceo | **39 / 50** |
 | Exámenes con una letra > 45 % después | **0 / 50** |
-| Intercambios de alternativas aplicados y verificados | **150 / 150** |
+| Intercambios de alternativas aplicados y verificados | **188 / 188** |
 | Claves con texto citable que coinciden con su alternativa | **492 / 492** |
 | Explicaciones de pauta que citan letras de alternativa | **0** |
 | Exámenes con problemas estructurales de pauta | **0** |
@@ -172,7 +172,7 @@ se puede aprobar sin saber la materia.
 
 | Acción | Alcance |
 |---|---|
-| Intercambios de alternativas con actualización de la clave | **150** en **42 exámenes** |
+| Intercambios de alternativas con actualización de la clave | **188** en **50 exámenes** (33 en la primera pasada, 150 en la pasada general, 5 manuales en Filosofía) |
 | Intercambios manuales en Filosofía 3° y 4° medio (pauta compacta) | **5** |
 | Pregunta 13 de 3° básico Forma B (no tenía clave y citaba una sección inexistente) | **1** reparada |
 
@@ -191,7 +191,7 @@ intento anterior (§0.2).
 | Comprobación | Resultado |
 |---|---|
 | `validador_claves.py` — exámenes con una letra > 45 % | **0 / 50** |
-| Intercambios con el texto correcto en la nueva letra | **150 / 150** |
+| Intercambios con el texto correcto en la nueva letra | **188 / 188** |
 | Claves con texto citable que coinciden con su alternativa | **492 / 492** |
 | Explicaciones que citan letras de alternativa (`opción a)`, etc.) | **0** |
 | `validador_formato_pauta.py` — problemas estructurales | **0 / 50** |
