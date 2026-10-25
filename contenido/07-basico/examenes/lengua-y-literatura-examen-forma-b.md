@@ -40,17 +40,17 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto?
 
-a) La tristeza de Camila por la muerte de su abuela
-b) La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años
+a) La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años
+b) La tristeza de Camila por la muerte de su abuela
 c) El mal estado del altillo de la casa de los abuelos
 d) La discusión entre la abuela y Camila por ordenar las pertenencias
 
 **2. (Alternativas)** ¿Qué rol cumple la abuela en el desarrollo del conflicto entre Camila y Tomás?
 
 a) Ninguno, porque no estaba presente cuando ocurrió la pelea
-b) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
+b) Es la narradora que cuenta toda la historia en primera persona
 c) Es quien obliga a los hermanos a pedirse perdón de inmediato
-d) Es la narradora que cuenta toda la historia en primera persona
+d) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
 
 **3. (Verdadero o Falso, con justificación)** "El relato comienza mostrando la pelea entre los hermanos y luego avanza en orden cronológico hasta el presente." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
 
@@ -76,8 +76,8 @@ d) Es la narradora que cuenta toda la historia en primera persona
 
 **6. (Alternativas)** ¿A qué sentido apela principalmente la expresión "redes que huelen a noche y a frío"?
 
-a) Al oído
-b) Al olfato
+a) Al olfato
+b) Al oído
 c) Al gusto
 d) A la vista
 
@@ -202,12 +202,12 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
-| 2 | **b)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
+| 1 | **a)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
+| 2 | **d)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
 | 3 | **Falso.** El relato comienza en el presente (Camila adulta en el altillo), salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; no comienza con la pelea ni avanza en orden estrictamente cronológico. | OA N°3 — disposición temporal |
 | 4 | Voz del narrador, por ejemplo: "Camila dobló la carta despacio, sintió que los ojos se le llenaban de lágrimas"; voz de un personaje, por ejemplo: "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella". Se distinguen porque el narrador describe desde fuera, sin raya de diálogo, mientras que los personajes hablan en primera persona, tras una raya o entre comillas. | OA N°3 — narrador versus personajes |
 | 5 | Debe explicar que el flashback genera intriga al mostrar primero las consecuencias del conflicto (el violín agrietado, la distancia entre los hermanos) antes de revelar su causa, reforzando el impacto emocional; y mencionar otra obra donde dos personajes se distancien por un malentendido y logren o no reconciliarse, con una semejanza explicada. | OA N°3 — análisis integrado del tiempo narrativo y relación entre obras |
-| 6 | **b)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
+| 6 | **a)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
 | 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
 | 8 | Debe explicar que la metáfora sugiere que el mar acumula, simbólicamente, el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella conservada en sus olas. | OA N°4 — interpretación de lenguaje figurado |
 | 9 | Debe identificar la aliteración del sonido "z" (zumba, zigzagueante) y explicar que imita el sonido del viento moviéndose entre las velas; y comparar el poema con otra obra que describa un paisaje costero o marino chileno, señalando un elemento en común (por ejemplo, personificación del mar o del viento). | OA N°4 — ritmo, sonoridad y relación entre obras |

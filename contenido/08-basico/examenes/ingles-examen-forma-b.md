@@ -43,8 +43,8 @@ popular way to learn new skills. Many teenagers watch cooking, coding or music
 videos instead of reading books, because videos show every step visually."*
 What is the text mainly about?
 
-a) Why teenagers dislike reading
-b) How video tutorials help teenagers learn new skills
+a) How video tutorials help teenagers learn new skills
+b) Why teenagers dislike reading
 c) The history of cooking shows
 d) The price of learning apps
 
@@ -72,9 +72,9 @@ updated easily."* Which question best expands on the information in the text
 (instead of just repeating it)?
 
 a) What is a tablet?
-b) How could using tablets change the way students learn in the future?
+b) Are books heavy?
 c) Do schools have tablets?
-d) Are books heavy?
+d) How could using tablets change the way students learn in the future?
 
 ---
 
@@ -84,8 +84,8 @@ d) Are books heavy?
 Free entry for students every Sunday. Discover amazing objects from the
 past."* What is the purpose of this text?
 
-a) To entertain readers with a story
-b) To persuade readers to visit the museum
+a) To persuade readers to visit the museum
+b) To entertain readers with a story
 c) To describe a person's life
 d) To warn readers about a danger
 
@@ -184,13 +184,13 @@ then ___ the train station."* (get off / arrive at)
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) How video tutorials help teenagers learn new skills | OA9 |
+| 1 | a) How video tutorials help teenagers learn new skills | OA9 |
 | 2 | about / by | OA9 |
 | 3 | False (Falso) — un buen resumen es más breve que el texto original y usa palabras propias; no incluye todos los detalles. | OA9 |
 | 4 | Respuesta personal coherente, p. ej.: *Yes, in Chile we celebrate Fiestas Patrias with empanadas and dancing.* | OA9 |
 | 5 | Italy / 13 / painting | OA9 |
-| 6 | b) How could using tablets change the way students learn in the future? | OA9 |
-| 7 | b) To persuade readers to visit the museum | OA10 |
+| 6 | d) How could using tablets change the way students learn in the future? | OA9 |
+| 7 | a) To persuade readers to visit the museum | OA10 |
 | 8 | so | OA10 |
 | 9 | True (Verdadero) — la estructura *if... will...* expresa que proteger el océano depende de una condición (reciclar botellas). | OA10 |
 | 10 | lighter | OA10 |

@@ -51,9 +51,9 @@ de Corrección final) busca acercarte a la experiencia del examen real.
 occidental, conocido como la Reforma protestante?
 
 a) Erasmo de Róterdam
-b) Martín Lutero
+b) Juan Calvino
 c) Nicolás Copérnico
-d) Juan Calvino
+d) Martín Lutero
 
 ---
 
@@ -61,8 +61,8 @@ d) Juan Calvino
 ¿Qué episodio ilustra bien la tensión entre la nueva ciencia moderna, basada en la observación y
 la experimentación, y la autoridad tradicional de la Iglesia?
 
-a) La publicación de las 95 tesis de Lutero
-b) El proceso a Galileo Galilei por defender el modelo heliocéntrico
+a) El proceso a Galileo Galilei por defender el modelo heliocéntrico
+b) La publicación de las 95 tesis de Lutero
 c) La firma de un tratado comercial entre reinos europeos
 d) La celebración del Concilio de Trento
 
@@ -79,8 +79,8 @@ d) La celebración del Concilio de Trento
 ¿Qué rasgo del Estado moderno describe mejor el estímulo?
 
 a) El monopolio del comercio internacional
-b) El desarrollo de una burocracia dependiente directamente del rey
-c) La fragmentación feudal del poder
+b) La fragmentación feudal del poder
+c) El desarrollo de una burocracia dependiente directamente del rey
 d) La autonomía absoluta de las ciudades frente al rey
 
 ---
@@ -104,9 +104,9 @@ surgimiento y fortalecimiento del Estado moderno.
 extranjeros, para proteger su propia producción?
 
 a) El monopolio colonial
-b) El proteccionismo estatal
+b) La libre circulación de mercancías con cualquier potencia
 c) Una balanza comercial deficitaria
-d) La libre circulación de mercancías con cualquier potencia
+d) El proteccionismo estatal
 
 ---
 
@@ -114,8 +114,8 @@ d) La libre circulación de mercancías con cualquier potencia
 ¿Qué describe el "monopolio comercial" que una metrópoli europea ejercía sobre sus colonias
 americanas durante el mercantilismo?
 
-a) La libertad de las colonias para comerciar con cualquier potencia extranjera
-b) La restricción del comercio colonial a un único socio: la metrópoli
+a) La restricción del comercio colonial a un único socio: la metrópoli
+b) La libertad de las colonias para comerciar con cualquier potencia extranjera
 c) La prohibición total de todo comercio en las colonias
 d) El reparto igualitario de las rutas comerciales entre todas las potencias europeas
 
@@ -127,8 +127,8 @@ d) El reparto igualitario de las rutas comerciales entre todas las potencias eur
 ¿Qué postura defendió Bartolomé de las Casas en el debate de Valladolid (1550-1551)?
 
 a) Que el sometimiento de los indígenas estaba justificado por su condición inferior
-b) Que los indígenas eran seres humanos racionales, con plenos derechos
-c) Que el continente americano no debía seguir siendo explorado
+b) Que el continente americano no debía seguir siendo explorado
+c) Que los indígenas eran seres humanos racionales, con plenos derechos
 d) Que los indígenas debían gobernar sin ninguna relación con la Corona española
 
 ---
@@ -156,18 +156,18 @@ allá de ser solo una discusión filosófica.
 ¿Qué era la "encomienda" en la sociedad colonial americana?
 
 a) Un tributo que pagaban únicamente los peninsulares
-b) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a
+b) Un tribunal encargado exclusivamente de juzgar a los mestizos
    cambio de "protección" y evangelización
 c) Un sistema de elecciones populares practicado en las colonias
-d) Un tribunal encargado exclusivamente de juzgar a los mestizos
+d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a
 
 ---
 
 **Pregunta 10.** (1 punto)
 ¿Qué se entiende por "transculturación" en el contexto de la sociedad colonial americana?
 
-a) La imposición exclusiva de la cultura europea, sin ningún intercambio
-b) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos
+a) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos
+b) La imposición exclusiva de la cultura europea, sin ningún intercambio
 c) La prohibición total del mestizaje biológico entre los distintos grupos
 d) La organización política interna de las colonias en cabildos
 
@@ -385,16 +385,16 @@ ciertos grupos de la población.
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) Martín Lutero | OA 2 | Historia | 1 |
-| 2  | Alternativas | b) El proceso a Galileo Galilei por defender el modelo heliocéntrico | OA 2 | Historia | 1 |
-| 3  | Alternativas | b) El desarrollo de una burocracia dependiente directamente del rey | OA 3 | Historia | 1 |
+| 1  | Alternativas | d) Martín Lutero | OA 2 | Historia | 1 |
+| 2  | Alternativas | a) El proceso a Galileo Galilei por defender el modelo heliocéntrico | OA 2 | Historia | 1 |
+| 3  | Alternativas | c) El desarrollo de una burocracia dependiente directamente del rey | OA 3 | Historia | 1 |
 | 4  | Desarrollo breve | La expansión territorial unificó regiones antes separadas bajo una misma administración (por ejemplo, la unión de las coronas de Castilla y Aragón), mientras que el monopolio del comercio internacional generó ingresos que el Estado usó para financiar su burocracia y su ejército, fortaleciendo así el poder centralizado del rey | OA 3 | Historia | 2 |
-| 5  | Alternativas | b) El proteccionismo estatal | OA 4 | Historia | 1 |
-| 6  | Alternativas | b) La restricción del comercio colonial a un único socio: la metrópoli | OA 4 | Historia | 1 |
-| 7  | Alternativas | b) Que los indígenas eran seres humanos racionales, con plenos derechos | OA 7 | Historia | 1 |
+| 5  | Alternativas | d) El proteccionismo estatal | OA 4 | Historia | 1 |
+| 6  | Alternativas | a) La restricción del comercio colonial a un único socio: la metrópoli | OA 4 | Historia | 1 |
+| 7  | Alternativas | c) Que los indígenas eran seres humanos racionales, con plenos derechos | OA 7 | Historia | 1 |
 | 8  | Desarrollo breve | El debate de Valladolid, al discutir públicamente la condición humana de los indígenas, influyó en la legislación española sobre su trato, como las Leyes Nuevas de 1542, que buscaron limitar abusos como la encomienda excesiva; esto muestra que el debate tuvo consecuencias políticas y legales concretas, aunque su aplicación efectiva en América fue limitada | OA 7 | Historia | 2 |
-| 9  | Alternativas | b) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización | OA 11 | Historia | 1 |
-| 10 | Alternativas | b) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos | OA 11 | Historia | 1 |
+| 9  | Alternativas | d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización | OA 11 | Historia | 1 |
+| 10 | Alternativas | a) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos | OA 11 | Historia | 1 |
 | 11 | Alternativas | c) Los malones y las expediciones militares entre mapuches y españoles | OA 12 | Historia | 1 |
 | 12 | Desarrollo breve | En la mayoría de los territorios americanos los pueblos indígenas fueron sometidos militar y políticamente durante la Conquista; en cambio, la resistencia mapuche obligó a la Corona a reconocer, de facto y luego mediante parlamentos como el de Quilín, un territorio autónomo al sur del Biobío, algo poco común en el resto de la América española | OA 12 | Historia | 2 |
 | 13 | Alternativas | b) Jean-Jacques Rousseau | OA 14 | Historia | 1 |

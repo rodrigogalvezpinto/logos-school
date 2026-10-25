@@ -60,16 +60,16 @@ puntual de estrés, se asocia principalmente a:
 
 a) Solo consecuencias inmediatas como el insomnio ocasional, sin ningún efecto
    posterior
-b) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y
+b) Una mejora en el sistema inmune con el tiempo
    trastornos de ansiedad, además de sus efectos inmediatos
 c) Ninguna consecuencia medible en la salud física
-d) Una mejora en el sistema inmune con el tiempo
+d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y
 
 **3.** *(Alternativas)* Según el consenso científico internacional (incluida la OMS),
 el consumo de alimentos transgénicos aprobados para consumo humano:
 
-a) Está demostrado como causa directa de cáncer en humanos
-b) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia
+a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia
+b) Está demostrado como causa directa de cáncer en humanos
    disponible
 c) Está prohibido en todo el mundo por su peligrosidad
 d) Elimina por completo el riesgo de enfermedades crónicas
@@ -77,8 +77,8 @@ d) Elimina por completo el riesgo de enfermedades crónicas
 **4.** *(Alternativas)* La actividad física regular impacta principalmente:
 
 a) Solo la dimensión física de la salud, como la salud cardiovascular
-b) Las dimensiones física, psíquica y social de la salud de forma integrada
-c) Únicamente el rendimiento académico
+b) Únicamente el rendimiento académico
+c) Las dimensiones física, psíquica y social de la salud de forma integrada
 d) Ninguna dimensión relacionada con el estrés o la ansiedad
 
 **5.** *(Desarrollo breve, 2 puntos)* Explica por qué la exposición a un mismo
@@ -102,14 +102,14 @@ biológicos (metabolismo aún en desarrollo).
 transmisión de varios agentes infecciosos respiratorios en la escuela es:
 
 a) Compartir vasos y utensilios con compañeros
-b) Lavado frecuente de manos y ventilación de las salas
+b) Usar el mismo pañuelo desechable durante todo el día
 c) Evitar toda actividad física
-d) Usar el mismo pañuelo desechable durante todo el día
+d) Lavado frecuente de manos y ventilación de las salas
 
 **8.** *(Alternativas)* Usar mascarilla es una medida de prevención eficaz frente a:
 
-a) Tanto la influenza como el VIH-sida, por igual
-b) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al
+a) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al
+b) Tanto la influenza como el VIH-sida, por igual
    VIH, que se transmite por vía sanguínea o sexual
 c) Solo el VIH-sida
 d) Ninguna enfermedad infecciosa
@@ -153,8 +153,8 @@ un caso médico individual?
 evaluar su riesgo potencial porque:
 
 a) Determina únicamente el precio del producto
-b) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad
-c) No tiene relación con la seguridad de su uso
+b) No tiene relación con la seguridad de su uso
+c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad
 d) Solo afecta el color del envase
 
 **14.** *(Alternativas)* Tomar el doble de la dosis indicada de un medicamento de
@@ -255,18 +255,18 @@ menos dos fortalezas y dos aspectos a mejorar.
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
 | 1 | Alternativas | c) Elegir hacer actividad física regularmente puede compensar parcialmente otros factores de riesgo ambientales o sociales | OA 1 (Mód. 1) |
-| 2 | Alternativas | b) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad, además de sus efectos inmediatos | OA 1 (Mód. 1) |
-| 3 | Alternativas | b) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
-| 4 | Alternativas | b) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
+| 2 | Alternativas | d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad, además de sus efectos inmediatos | OA 1 (Mód. 1) |
+| 3 | Alternativas | a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
+| 4 | Alternativas | c) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
 | 5 | Desarrollo breve | Es un factor ambiental en cuanto a la presencia del patógeno en el entorno (aire, superficies, contacto con otras personas); es un factor biológico en cuanto a la respuesta del sistema inmune de cada persona ante ese mismo patógeno (por qué unas personas se enferman gravemente y otras no). | OA 1 (Mód. 1) |
 | 6 | Desarrollo extenso | Corto plazo: intoxicación aguda, pérdida de juicio, riesgo de accidentes. Largo plazo: mayor riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años. La decisión personal de consumir no ocurre en el vacío: la presión social del grupo (factor social) interactúa con la vulnerabilidad biológica propia de la adolescencia. | OA 1 (Mód. 1) |
-| 7 | Alternativas | b) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
-| 8 | Alternativas | b) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al VIH, que se transmite por vía sanguínea o sexual | OA 3 (Mód. 1) |
+| 7 | Alternativas | d) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
+| 8 | Alternativas | a) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al VIH, que se transmite por vía sanguínea o sexual | OA 3 (Mód. 1) |
 | 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica), por lo que la inmunidad de temporadas anteriores no siempre protege contra las nuevas variantes | OA 3 (Mód. 1) |
 | 10 | Desarrollo breve | El control del hantavirus se relaciona con el manejo del entorno: evitar la acumulación de basura orgánica que atraiga roedores, mantener despejados los alrededores de las viviendas y considerar que la deforestación o el abandono de terrenos agrícolas puede alterar las poblaciones de ratón colilargo, afectando el riesgo de contagio; la prevención no es solo doméstica, sino también ambiental y territorial. | OA 3 (Mód. 1) |
 | 11 | Desarrollo breve | Se debe priorizar la publicación científica revisada por pares, porque fue evaluada por otros expertos, entrega datos concretos (40%) y sigue un método verificable; la afirmación del influencer no presenta evidencia ni metodología, por lo que no es una fuente confiable para tomar decisiones de salud pública. | OA 3 (Mód. 1) |
 | 12 | Desarrollo extenso | Porque la transmisión de agentes infecciosos no respeta fronteras: un caso importado puede iniciar una cadena de contagio local si la cobertura de vacunación no es suficiente, por lo que la vigilancia epidemiológica y la coordinación entre países (por ejemplo, mediante la OMS) son parte necesaria de la prevención, no solo la atención al paciente individual. | OA 3 (Mód. 1) |
-| 13 | Alternativas | b) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad | OA 1 (Mód. 2) |
+| 13 | Alternativas | c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad | OA 1 (Mód. 2) |
 | 14 | Alternativas | b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo de toxicidad | OA 1 (Mód. 2) |
 | 15 | Alternativas | b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el riesgo de somnolencia extrema o dificultad respiratoria | OA 1 (Mód. 2) |
 | 16 | Desarrollo breve | La reacción entre bicarbonato de sodio y vinagre produce dióxido de carbono y agua, una reacción común y utilizada incluso en experimentos escolares seguros; no genera un gas tóxico o mortal en condiciones domésticas habituales. La afirmación es incorrecta y debería contrastarse con fuentes confiables antes de difundirla. | OA 1 (Mód. 2) |

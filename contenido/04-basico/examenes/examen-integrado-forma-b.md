@@ -56,8 +56,8 @@ d) Un edificio de departamentos en Santiago
 
 **2. (Ciencias Naturales)** Una lagartija que vive entre las rocas de la cordillera tiene un color de piel muy parecido al de las piedras que la rodean, lo que le permite pasar desapercibida ante sus depredadores. Esta característica corresponde a una adaptación:
 
-a) Conductual
-b) Estructural
+a) Estructural
+b) Conductual
 c) Alimentaria
 d) Reproductiva
 
@@ -102,9 +102,9 @@ Lee el siguiente poema:
 ¿Cuál de los siguientes versos es un ejemplo de **personificación**?
 
 a) "Corre veloz como un caballo desbocado"
-b) "A la hora de la siesta se recuesta en los cerros"
+b) "El trigo dorado"
 c) "Sopla fuerte hasta que sale la luna"
-d) "El trigo dorado"
+d) "A la hora de la siesta se recuesta en los cerros"
 
 ---
 
@@ -264,10 +264,10 @@ ________________________________________________________________________________
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------|------------------------------------------|-----------------------------------|
 | 1 | Lenguaje | **b)** El texto describe el lugar donde vive Benjamín como un campo cercano a Chillán, con parronales y un gallinero. | OA N°4 — descripción de ambientes |
-| 2 | Ciencias Naturales | **b) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
+| 2 | Ciencias Naturales | **a) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
 | 3 | Matemática | **c) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
 | 4 | Historia | **c) Ambas tenían gobierno monárquico y economía basada en la agricultura.** Característica común a mayas e incas. | OA 4 — Civilizaciones americanas |
-| 5 | Lenguaje | **b)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
+| 5 | Lenguaje | **d)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
 | 6 | Ciencias Naturales | **c) La columna vertebral.** Protege la médula espinal. | OA 7 — Sistema nervioso |
 | 7 | Matemática | **a) 9/24.** De los 24 estudiantes del curso (denominador), 9 llevan colación de fruta (numerador). | OA 8 — Comprender las fracciones |
 | 8 | Historia | **b) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |

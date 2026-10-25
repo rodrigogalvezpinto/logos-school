@@ -51,10 +51,10 @@ Corrección final) busca acercarte a la experiencia del examen real.
 
 a) Ocurrió en un único lugar del planeta (Medio Oriente) y luego se difundió hacia todas las
    demás regiones
-b) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
+b) Solo ocurrió en el continente americano
    Oriente, China y América— en momentos diferentes
 c) Ocurrió de manera simultánea y de la misma forma en todos los continentes
-d) Solo ocurrió en el continente americano
+d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
 
 ---
 
@@ -75,8 +75,8 @@ d) El intercambio de bienes entre distintas aldeas
 ¿Cuál de las siguientes afirmaciones sobre los sistemas religiosos de las primeras
 civilizaciones, como Mesopotamia o Egipto, es correcta?
 
-a) Los sistemas religiosos estaban completamente separados del poder político
-b) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
+a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
+b) Los sistemas religiosos estaban completamente separados del poder político
    político, legitimando la autoridad del gobernante
 c) Las primeras civilizaciones no desarrollaron ningún tipo de religión organizada
 d) Los sacerdotes no tenían ninguna influencia social ni política
@@ -103,9 +103,9 @@ religiosos, escritura y contabilidad)?
 era ejercido por un grupo reducido de personas, generalmente las más ricas?
 
 a) Monarquía
-b) Oligarquía
+b) Ninguna forma de gobierno del mundo antiguo funcionaba así
 c) Democracia ateniense
-d) Ninguna forma de gobierno del mundo antiguo funcionaba así
+d) Oligarquía
 
 ---
 
@@ -396,11 +396,11 @@ convivencia entre distintos pueblos y culturas.
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio Oriente, China y América— en momentos diferentes | OA 2 | Historia | 1 |
+| 1  | Alternativas | d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio Oriente, China y América— en momentos diferentes | OA 2 | Historia | 1 |
 | 2  | Alternativas | c) La cantidad de alimento producida por sobre lo necesario para sobrevivir día a día | OA 2 | Historia | 1 |
-| 3  | Alternativas | b) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder político, legitimando la autoridad del gobernante | OA 3 | Historia | 1 |
+| 3  | Alternativas | a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder político, legitimando la autoridad del gobernante | OA 3 | Historia | 1 |
 | 4  | Desarrollo breve | Las ciudades concentraron población, recursos y poder en un mismo lugar, lo que facilitó la administración centralizada, la diferenciación de roles sociales, la construcción de templos y la necesidad de registrar información de forma sistemática (escritura y contabilidad) | OA 3 | Historia | 2 |
-| 5  | Alternativas | b) Oligarquía | OA 6 | Historia | 1 |
+| 5  | Alternativas | d) Oligarquía | OA 6 | Historia | 1 |
 | 6  | Alternativas | b) Fue fundamental: la economía romana dependió en gran medida del trabajo de personas esclavizadas, muchas de ellas obtenidas mediante las conquistas militares | OA 7 | Historia | 1 |
 | 7  | Desarrollo breve | Al convertirse en el culto oficial del imperio, el cristianismo se difundió ampliamente por todo el territorio romano, lo que permitió que sobreviviera y se expandiera incluso después de la caída del imperio, transformándose en uno de los elementos que darían forma a la civilización europea medieval | OA 7 | Historia | 2 |
 | 8  | Alternativas | c) Germana | OA 9 | Historia | 1 |

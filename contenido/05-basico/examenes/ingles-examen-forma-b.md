@@ -37,8 +37,8 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 **1.** *(Selección múltiple)* Read: *"Hi! I am Pedro. I am eleven years old."*
 What is his name?
 
-a) Ana
-b) Pedro
+a) Pedro
+b) Ana
 c) Diego
 d) Sofía
 
@@ -69,9 +69,9 @@ father is a doctor" is correct.*
 What is the purpose of this text?
 
 a) To give a recipe
-b) To invite someone to a celebration
+b) To describe the weather
 c) To apologize
-d) To describe the weather
+d) To invite someone to a celebration
 
 **7.** *(Selección múltiple)* Imagine a card with a cake, balloons and
 candles. What type of text is more likely?
@@ -191,12 +191,12 @@ chair."* (There / They / It)
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Pedro | OA5 |
+| 1 | a) Pedro | OA5 |
 | 2 | d) Painting the sun brown | OA5 |
 | 3 | and | OA5 |
 | 4 | She lives in Santiago. | OA5 |
 | 5 | False (Falso) — el texto dice que la mamá es *doctor* y el papá es *teacher*, no al revés. | OA5 |
-| 6 | b) To invite someone to a celebration | OA6 |
+| 6 | d) To invite someone to a celebration | OA6 |
 | 7 | c) A birthday card | OA6 |
 | 8 | I'm sorry | OA6 |
 | 9 | The party is on Saturday. | OA6 |

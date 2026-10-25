@@ -32,9 +32,9 @@ relación con otras formas: segunda versión (Forma B), con preguntas distintas 
 
 **Pregunta 1 (alternativas).** Calcula: (−9) × 6.
 
-a) −54
+a) −15
 b) 54
-c) −15
+c) −54
 d) 15
 
 ---
@@ -45,10 +45,10 @@ d) 15
 
 **Pregunta 3 (alternativas).** Calcula: (−0,72) ÷ (−0,8).
 
-a) 0,9
+a) −9
 b) −0,9
 c) 9
-d) −9
+d) 0,9
 
 ---
 
@@ -58,8 +58,8 @@ d) −9
 
 **Pregunta 5 (alternativas).** ¿Cuál es el resultado de expresar 5⁴ ÷ 5² como una sola potencia?
 
-a) 5²
-b) 5⁶
+a) 5⁶
+b) 5²
 c) 5⁸
 d) 25²
 
@@ -71,9 +71,9 @@ d) 25²
 
 **Pregunta 7 (alternativas).** ¿Cuál es el valor de √169?
 
-a) 13
+a) 84,5
 b) 14
-c) 84,5
+c) 13
 d) 26
 
 ---
@@ -90,10 +90,10 @@ d) 26
 
 **Pregunta 10 (alternativas).** Resuelve: 8x = 96.
 
-a) x = 12
+a) x = 88
 b) x = 8
 c) x = 768
-d) x = 88
+d) x = 12
 
 ---
 
@@ -195,16 +195,16 @@ d) Ninguno de los anteriores
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
+| 1 | c) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
 | 2 | 4 × (−8.500) = **−$34.000** | OA 1 | Números y Operaciones |
-| 3 | a) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
+| 3 | d) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
 | 4 | −9,6 ÷ 1,6 = **−6 metros por minuto** | OA 2 | Números y Operaciones |
-| 5 | a) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
+| 5 | b) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
 | 6 | 10⁴ = **10.000 claves distintas** | OA 3 | Números y Operaciones |
-| 7 | a) 13 (13×13=169) | OA 4 | Números y Operaciones |
+| 7 | c) 13 (13×13=169) | OA 4 | Números y Operaciones |
 | 8 | 10²=100 y 11²=121; 110 está entre 100 y 121, aproximadamente a mitad de camino, algo **más cerca de 10** (valor real ≈10,49) | OA 4 | Números y Operaciones |
 | 9 | área: 32×2=64 m²; lado: √64=**8 m**; perímetro: 4×8=**32 m** | OA 4 | Números y Operaciones |
-| 10 | a) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
+| 10 | d) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
 | 11 | 6x=61−7=54; x=**9** | OA 8 | Patrones y Álgebra |
 | 12 | 10.000+400x=4.000+700x; 6.000=300x; x=**20 gigas** | OA 8 | Patrones y Álgebra |
 | 13 | a) −4 (f(5)=−3×5+11=−15+11=−4) | OA 10 | Patrones y Álgebra |

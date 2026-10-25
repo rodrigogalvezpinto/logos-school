@@ -32,8 +32,8 @@ versión: Forma B (preguntas distintas a Forma A)
 
 **Pregunta 1 (alternativas).** Simplifica √300.
 
-a) 10√3
-b) 15√2
+a) 15√2
+b) 10√3
 c) 3√100
 d) 100√3
 
@@ -41,9 +41,9 @@ d) 100√3
 
 **Pregunta 2 (alternativas).** Racionaliza la expresión 12/√6.
 
-a) 2√6
+a) √6/2
 b) 12√6
-c) √6/2
+c) 2√6
 d) 6/√6
 
 ---
@@ -58,17 +58,17 @@ d) 6/√6
 
 **Pregunta 5 (alternativas).** ¿Cuál es el valor de log₃(81)?
 
-a) 4
+a) 9
 b) 3
 c) 27
-d) 9
+d) 4
 
 ---
 
 **Pregunta 6 (alternativas).** Expresa ⁵√(2⁷) como una potencia de exponente racional.
 
-a) 2^(7/5)
-b) 2^(5/7)
+a) 2^(5/7)
+b) 2^(7/5)
 c) 2^35
 d) 2^12
 
@@ -86,19 +86,19 @@ d) 2^12
 
 **Pregunta 9 (alternativas).** Para f(x) = x² + 4x − 5, ¿cuál es la coordenada x del vértice?
 
-a) −2
+a) 4
 b) 2
-c) 4
+c) −2
 d) −4
 
 ---
 
 **Pregunta 10 (alternativas).** Para f(x) = 2x² − 8x + 3, ¿cuál es su concavidad y qué tipo de punto extremo tiene?
 
-a) Hacia arriba, con un mínimo
+a) Hacia abajo, con un mínimo
 b) Hacia abajo, con un máximo
 c) Hacia arriba, con un máximo
-d) Hacia abajo, con un mínimo
+d) Hacia arriba, con un mínimo
 
 ---
 
@@ -116,8 +116,8 @@ d) Hacia abajo, con un mínimo
 
 **Pregunta 14 (alternativas).** ¿Cuál es la inversa de f(x) = x + 10?
 
-a) f⁻¹(x) = x − 10
-b) f⁻¹(x) = x + 10
+a) f⁻¹(x) = x + 10
+b) f⁻¹(x) = x − 10
 c) f⁻¹(x) = 10 − x
 d) f⁻¹(x) = −x − 10
 
@@ -200,20 +200,20 @@ d) 28
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) 10√3 (300=100×3, y 100 es cuadrado perfecto: √300=√100×√3=10√3) | OA 1 | Números y Operaciones |
-| 2 | a) 2√6 (12/√6=12√6/6=2√6 ≈ 4,90) | OA 1 | Números y Operaciones |
+| 1 | b) 10√3 (300=100×3, y 100 es cuadrado perfecto: √300=√100×√3=10√3) | OA 1 | Números y Operaciones |
+| 2 | c) 2√6 (12/√6=12√6/6=2√6 ≈ 4,90) | OA 1 | Números y Operaciones |
 | 3 | log₂(64)−log₂(4)=log₂(64/4)=log₂(16)=**4** | OA 1 | Números y Operaciones |
 | 4 | lado=√363; 363=121×3, √363=√121×√3=**11√3 m ≈ 19,05 m** | OA 1 | Números y Operaciones |
-| 5 | a) 4 (log₃81=4 porque 3⁴=81) | OA 2 | Números y Operaciones |
-| 6 | a) 2^(7/5) (el índice de la raíz, 5, pasa al denominador; la potencia, 7, al numerador) | OA 2 | Números y Operaciones |
+| 5 | d) 4 (log₃81=4 porque 3⁴=81) | OA 2 | Números y Operaciones |
+| 6 | b) 2^(7/5) (el índice de la raíz, 5, pasa al denominador; la potencia, 7, al numerador) | OA 2 | Números y Operaciones |
 | 7 | 27^(2/3)=(∛27)²=3²=**9** | OA 2 | Números y Operaciones |
 | 8 | pH=−log(10⁻⁴)=−(−4)=**4** | OA 2 | Números y Operaciones |
-| 9 | a) −2 (x=−b/2a=−4/2=−2) | OA 3 | Álgebra y Funciones |
-| 10 | a) Hacia arriba, con un mínimo (a=2>0) | OA 3 | Álgebra y Funciones |
+| 9 | c) −2 (x=−b/2a=−4/2=−2) | OA 3 | Álgebra y Funciones |
+| 10 | d) Hacia arriba, con un mínimo (a=2>0) | OA 3 | Álgebra y Funciones |
 | 11 | factorizando: x²+x−12=(x+4)(x−3)=0 → raíces **x=−4 y x=3**; vértice: x=−1/(2)=−0,5, f(−0,5)=0,25−0,5−12=−12,25 → vértice **(−0,5; −12,25)** | OA 3 | Álgebra y Funciones |
 | 12 | vértice: x=−24/(2×(−2))=6; G(6)=−2(36)+144−40=**32**. Precio óptimo $600 (x=6), ganancia máxima **$32.000** | OA 3 | Álgebra y Funciones |
 | 13 | x²+2x−1 en x=1: 1+2−1=2; como 3>2, la desigualdad se cumple → **el punto sí pertenece** a la región de soluciones | OA 3 | Álgebra y Funciones |
-| 14 | a) f⁻¹(x) = x − 10 (deshace la suma de 10: se resta 10 a ambos lados) | OA 5 | Álgebra y Funciones |
+| 14 | b) f⁻¹(x) = x − 10 (deshace la suma de 10: se resta 10 a ambos lados) | OA 5 | Álgebra y Funciones |
 | 15 | a) f⁻¹(x) = x/7 (deshace la multiplicación por 7) | OA 5 | Álgebra y Funciones |
 | 16 | y=3x−9; se intercambia: x=3y−9; se despeja: **f⁻¹(x) = (x+9)/3** | OA 5 | Álgebra y Funciones |
 | 17 | y=x²−5; se intercambia: x=y²−5; y²=x+5; **f⁻¹(x) = √(x+5)** (raíz positiva, pues x≥0 en la función original) | OA 5 | Álgebra y Funciones |

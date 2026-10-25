@@ -47,8 +47,8 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 **1.** *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a un ejemplo de
 **estructuras homólogas**?
 
-a) Las alas de una mosca y las alas de un ave
-b) El brazo humano y el ala de un murciélago
+a) El brazo humano y el ala de un murciélago
+b) Las alas de una mosca y las alas de un ave
 c) La aleta de un tiburón y la aleta de un delfín
 d) El caparazón de una tortuga y el de un escarabajo
 
@@ -57,9 +57,9 @@ semejanzas observadas entre embriones de especies muy distintas (como peces, ave
 mamíferos) durante etapas tempranas de su desarrollo?
 
 a) El registro fósil
-b) La embriología
+b) La selección artificial
 c) Las estructuras análogas
-d) La selección artificial
+d) La embriología
 
 **3.** *(Desarrollo extenso, 3 puntos)* Una población de bacterias expuesta
 repetidamente a un antibiótico termina, tras varias generaciones, compuesta casi en su
@@ -105,8 +105,8 @@ usando los conceptos de depredación e interacciones biológicas.
 transformar el nitrógeno atmosférico en compuestos que las plantas sí pueden
 utilizar?
 
-a) La fotosíntesis
-b) La fijación de nitrógeno por bacterias
+a) La fijación de nitrógeno por bacterias
+b) La fotosíntesis
 c) La bioacumulación
 d) La respiración celular
 
@@ -153,9 +153,9 @@ almacenar agua durante la temporada de lluvias y usarla durante los periodos sec
 sonido original?
 
 a) La superficie debe estar muy cerca de la persona
-b) La superficie debe estar suficientemente lejos de la persona
+b) La superficie debe absorber todo el sonido
 c) La superficie debe ser transparente al sonido
-d) La superficie debe absorber todo el sonido
+d) La superficie debe estar suficientemente lejos de la persona
 
 **13.** *(Desarrollo extenso, 3 puntos)* Un barco emite un pulso de sonar hacia el
 fondo marino y recibe de vuelta el eco de ese pulso 4 segundos después de haberlo
@@ -171,8 +171,8 @@ veces.
 **14.** *(Alternativas)* ¿Cuál de los dos modelos históricos de la luz permite
 explicar adecuadamente fenómenos como la interferencia y la difracción?
 
-a) El modelo corpuscular
-b) El modelo ondulatorio
+a) El modelo ondulatorio
+b) El modelo corpuscular
 c) El modelo geométrico
 d) El modelo atómico
 
@@ -279,20 +279,20 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) El brazo humano y el ala de un murciélago | OA 2 |
-| 2 | Alternativas | b) La embriología | OA 2 |
+| 1 | Alternativas | a) El brazo humano y el ala de un murciélago | OA 2 |
+| 2 | Alternativas | d) La embriología | OA 2 |
 | 3 | Desarrollo extenso | En la población original existía variación (algunas bacterias ya eran resistentes al antibiótico por azar); al aplicar el antibiótico, las bacterias no resistentes murieron y las resistentes sobrevivieron y se reprodujeron (adaptación y selección); dado que las bacterias se reproducen en gran cantidad (sobreproducción), la proporción de bacterias resistentes aumentó rápidamente en la población. | OA 2 |
 | 4 | Alternativas | c) Parasitismo | OA 4 |
 | 5 | Alternativas | c) Una comunidad | OA 4 |
 | 6 | Desarrollo extenso | Al eliminar al depredador, disminuye la presión de depredación sobre la presa, por lo que su población crece sin control; al haber más individuos de esa presa, aumenta el consumo de la vegetación de la que se alimenta, lo que reduce su disponibilidad en el ecosistema. Este tipo de efecto en cadena, donde la pérdida de un depredador altera indirectamente a otros niveles del ecosistema, se conoce como cascada trófica. | OA 4 |
-| 7 | Alternativas | b) La fijación de nitrógeno por bacterias | OA 6 |
+| 7 | Alternativas | a) La fijación de nitrógeno por bacterias | OA 6 |
 | 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
 | 9 | Desarrollo breve | Este fenómeno corresponde a la bioacumulación (o biomagnificación): el pesticida ingresa al ecosistema en baja concentración, pero al pasar de un nivel trófico a otro, la concentración del contaminante aumenta, porque cada depredador consume gran cantidad de biomasa de niveles inferiores, acumulando en su propio cuerpo el contaminante presente en todas esas presas. Los depredadores tope, como las aves rapaces, suelen ser los más afectados por estar en los niveles tróficos más altos. | OA 6 |
 | 10 | Alternativas | c) El petróleo | OA 8 |
 | 11 | Desarrollo extenso | Ventaja: permite disponer de agua durante los periodos de sequía, reduciendo el impacto sobre la agricultura y el consumo humano. Limitación: requiere que exista suficiente agua durante la temporada de lluvias para llenar el embalse (lo que puede no ocurrir si la sequía es muy prolongada), además de un costo de construcción y mantención, y posibles efectos sobre el ecosistema del río intervenido. | OA 8 |
-| 12 | Alternativas | b) La superficie debe estar suficientemente lejos de la persona | OA 10 |
+| 12 | Alternativas | d) La superficie debe estar suficientemente lejos de la persona | OA 10 |
 | 13 | Desarrollo extenso | Distancia recorrida total = 1.500 m/s × 4 s = 6.000 m. Como el sonido recorre esa distancia dos veces (ida hasta el fondo marino y vuelta hasta el barco), la profundidad es 6.000 m ÷ 2 = 3.000 m. Es necesario considerar el recorrido de ida y vuelta porque el tiempo medido corresponde al viaje completo del pulso de sonar, no solo al trayecto de ida. | OA 10 |
-| 14 | Alternativas | b) El modelo ondulatorio | OA 11 |
+| 14 | Alternativas | a) El modelo ondulatorio | OA 11 |
 | 15 | Alternativas | b) Espejo cóncavo | OA 11 |
 | 16 | Desarrollo breve | Si la mayoría de las galaxias lejanas muestran un corrimiento de su luz hacia el rojo (menor frecuencia), esto indica, por efecto Doppler, que se están alejando de la Tierra; que esto ocurra de forma generalizada en todas direcciones sugiere que el espacio entre las galaxias se está expandiendo, lo que constituye evidencia observacional a favor de la expansión del universo. | OA 11 |
 | 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra | OA 14 |

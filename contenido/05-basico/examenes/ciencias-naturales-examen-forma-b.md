@@ -48,8 +48,8 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 vivos y responde: ¿cuál es la secuencia correcta, desde el nivel más simple al más
 complejo?
 
-a) Órgano → tejido → célula → sistema
-b) Célula → tejido → órgano → sistema
+a) Célula → tejido → órgano → sistema
+b) Órgano → tejido → célula → sistema
 c) Sistema → órgano → tejido → célula
 d) Tejido → célula → sistema → órgano
 
@@ -91,9 +91,9 @@ d) Fibra, que facilita la digestión
 vitaminas y minerales al organismo?
 
 a) Un huevo
-b) Una naranja
+b) Un trozo de palta
 c) Un plato de fideos
-d) Un trozo de palta
+d) Una naranja
 
 **7.** *(Desarrollo breve, 2 puntos)* Explica por qué se recomienda el consumo de
 carne o legumbres para los procesos de reparación y crecimiento del cuerpo.
@@ -119,8 +119,8 @@ d) Ninguna de las anteriores
 **10.** *(Alternativas)* La alteración del ritmo normal de los latidos del corazón,
 asociada al consumo de tabaco, se conoce como:
 
-a) Asma
-b) Arritmia
+a) Arritmia
+b) Asma
 c) Infección respiratoria
 d) Cáncer pulmonar
 
@@ -136,9 +136,9 @@ pasiva).
 correcta?
 
 a) Todos los hongos son dañinos para la salud
-b) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones
+b) Los hongos nunca se relacionan con enfermedades
 c) Ningún hongo afecta la salud humana
-d) Los hongos nunca se relacionan con enfermedades
+d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones
 
 **13.** *(Alternativas)* Observa la siguiente tabla:
 
@@ -266,18 +266,18 @@ ayuda a conservar el agua.
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) Célula → tejido → órgano → sistema | OA 1 |
+| 1 | Alternativas | a) Célula → tejido → órgano → sistema | OA 1 |
 | 2 | Alternativas | c) Órgano | OA 1 |
 | 3 | Alternativas | c) Sistema | OA 1 |
 | 4 | Desarrollo breve | Respuesta abierta: debe nombrar un sistema distinto del digestivo (p. ej. respiratorio: nariz filtra el aire, tráquea lo conduce, pulmones realizan el intercambio de gases) y describir la coordinación de al menos dos órganos dentro de ese sistema. | OA 1 |
 | 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas | OA 5 |
-| 6 | Alternativas | b) Una naranja | OA 5 |
+| 6 | Alternativas | d) Una naranja | OA 5 |
 | 7 | Desarrollo breve | Porque la carne y las legumbres son ricas en proteínas, el nutriente principal que el cuerpo utiliza para construir y reparar tejidos, como músculos y piel. | OA 5 |
 | 8 | Desarrollo extenso | Comer siempre un solo grupo de nutrientes es dañino porque el cuerpo necesita variedad de nutrientes para cumplir distintas funciones (reparación, energía, desarrollo general); en este caso, arroz con papas fritas aporta principalmente carbohidratos y grasas, pero faltan proteínas (reparación y crecimiento) y vitaminas y minerales (desarrollo general, presentes en frutas y verduras). | OA 5 |
 | 9 | Alternativas | c) Asma | OA 6 |
-| 10 | Alternativas | b) Arritmia | OA 6 |
+| 10 | Alternativas | a) Arritmia | OA 6 |
 | 11 | Desarrollo breve | Respuesta abierta: por ejemplo, evitar espacios cerrados donde se fuma, pedir que no se fume dentro de la casa o el auto, promover espacios libres de humo. | OA 6 |
-| 12 | Alternativas | b) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones | OA 7 |
+| 12 | Alternativas | d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones | OA 7 |
 | 13 | Alternativas | b) 2 (la levadura y el champiñón son beneficiosos; la bacteria de la infección intestinal y el virus del resfriado son dañinos) | OA 7 |
 | 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel | OA 7 |
 | 15 | Desarrollo breve | Una enfermedad infectocontagiosa es causada por un microorganismo (bacteria, virus u hongo) y puede transmitirse de una persona a otra. Ejemplo válido (distinto de la gripe): el pie de atleta (hongo), una infección intestinal (bacteria), un resfriado común (virus), entre otros. | OA 7 |

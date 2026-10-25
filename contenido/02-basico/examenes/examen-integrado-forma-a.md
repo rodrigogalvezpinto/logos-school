@@ -50,16 +50,16 @@ d) "sapo"
 **2. (Matemática — Alternativas)** ¿Cuál número corresponde a la palabra "ochenta y tres"?
 
 a) 38
-b) 83
+b) 380
 c) 803
-d) 380
+d) 83
 
 ---
 
 **3. (Historia — Alternativas)** Un pueblo originario vivía siempre en el mismo lugar, cultivaba la tierra y criaba llamas. ¿Cómo se llama este modo de vida?
 
-a) Nómade
-b) Sedentario
+a) Sedentario
+b) Nómade
 c) Migrante
 d) Colonial
 
@@ -68,9 +68,9 @@ d) Colonial
 **4. (Ciencias Naturales — Alternativas)** ¿Cuál es el orden correcto del ciclo de vida de una rana?
 
 a) Rana adulta → huevo → renacuajo
-b) Huevo → renacuajo → rana adulta
+b) Huevo → rana adulta → renacuajo
 c) Renacuajo → rana adulta → huevo
-d) Huevo → rana adulta → renacuajo
+d) Huevo → renacuajo → rana adulta
 
 ---
 
@@ -246,9 +246,9 @@ d) Para decorar los pasillos
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
 | 1 | Lenguaje y Comunicación | **a) "cielo".** Las letras "i" y "e" forman un diptongo: se lee "cie-lo", en una sola sílaba. | OA N°1 |
-| 2 | Matemática | **b) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
-| 3 | Historia, Geografía y Cs. Sociales | **b) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
-| 4 | Ciencias Naturales | **b) Huevo → renacuajo → rana adulta.** | OA 3 |
+| 2 | Matemática | **d) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
+| 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
+| 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** | OA 3 |
 | 5 | Matemática | **b) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
 | 6 | Lenguaje y Comunicación | **b) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
 | 7 | Ciencias Naturales | **c) El huemul.** | OA 5 |

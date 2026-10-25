@@ -47,8 +47,8 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 **1.** *(Alternativas)* ¿Qué estructura celular contiene la mayor parte del material
 genético (ADN) de la célula y controla su diferenciación?
 
-a) La mitocondria
-b) El núcleo
+a) El núcleo
+b) La mitocondria
 c) La membrana celular
 d) El citoplasma
 
@@ -56,9 +56,9 @@ d) El citoplasma
 procariontes es correcta?
 
 a) Tienen un núcleo definido, rodeado por una membrana nuclear
-b) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido
+b) No poseen citoplasma
 c) Son exclusivas de las plantas
-d) No poseen citoplasma
+d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido
 
 **3.** *(Desarrollo breve, 2 puntos)* Un estudiante observa al microscopio dos tipos de
 células humanas: una con múltiples prolongaciones largas y otra de forma alargada, con
@@ -99,8 +99,8 @@ relacionando tu respuesta con la cantidad de estomas presentes en cada una.
 **7.** *(Alternativas)* ¿Cuál es la unidad funcional del riñón, encargada de filtrar la
 sangre y regular la cantidad de agua del cuerpo?
 
-a) El alvéolo
-b) El nefrón
+a) El nefrón
+b) El alvéolo
 c) La vellosidad intestinal
 d) El eritrocito
 
@@ -261,13 +261,13 @@ aceptar electrones.
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) El núcleo | OA 2 |
-| 2 | Alternativas | b) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido | OA 2 |
+| 1 | Alternativas | a) El núcleo | OA 2 |
+| 2 | Alternativas | d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido | OA 2 |
 | 3 | Desarrollo breve | La célula con múltiples prolongaciones largas es una neurona, adaptada para transmitir impulsos eléctricos a distancia; la célula alargada con fibras internas es una fibra muscular, adaptada para contraerse y generar movimiento. En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
 | 4 | Alternativas | c) La ósmosis | OA 4 |
 | 5 | Alternativas | c) La fotosíntesis | OA 4 |
 | 6 | Desarrollo extenso | La planta A (con más hojas) transpirará más agua, porque los estomas se ubican principalmente en las hojas; a mayor número de hojas, mayor cantidad de estomas y, por lo tanto, mayor superficie disponible para la salida de vapor de agua durante la transpiración. | OA 4 |
-| 7 | Alternativas | b) El nefrón | OA 5 |
+| 7 | Alternativas | a) El nefrón | OA 5 |
 | 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos | OA 5 |
 | 9 | Desarrollo breve | Las enzimas digestivas descomponen químicamente los alimentos en moléculas más simples (nutrientes) que pueden ser absorbidas; la bilis emulsiona las grasas (las fragmenta en gotas más pequeñas), facilitando que las enzimas actúen sobre ellas de forma más eficiente. | OA 5 |
 | 10 | Desarrollo extenso | El humo del tabaco daña el tejido de los alvéolos pulmonares, reduciendo la superficie disponible para el intercambio gaseoso por difusión entre el aire y la sangre, lo que disminuye la cantidad de oxígeno que puede pasar a la sangre en cada respiración, explicando la menor capacidad de intercambio gaseoso observada en fumadores. | OA 5 |

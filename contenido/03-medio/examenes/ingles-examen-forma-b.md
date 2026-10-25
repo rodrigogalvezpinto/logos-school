@@ -86,10 +86,10 @@ conditions, as a way to maintain physical and mental well-being."* ¿Cuál es
 la información central del texto?
 
 a) Norway has cold weather.
-b) Friluftsliv is a lifestyle that promotes spending time outdoors for
+b) Friluftsliv is a type of winter sport.
    well-being.
 c) Norwegians never stay indoors.
-d) Friluftsliv is a type of winter sport.
+d) Friluftsliv is a lifestyle that promotes spending time outdoors for
 
 ---
 
@@ -208,7 +208,7 @@ relativo**.
 | 5 | *The Day of the Dead is a Mexican celebration where families build colorful altars with photos, food, and flowers. Its purpose is to celebrate the lives of loved ones instead of mourning their deaths.* | OA1 |
 | 6 | dates back to. | OA1 |
 | 7 | False (Falso) — el texto dice que es una "common practice" (práctica común), justo lo opuesto de "unusual" (inusual). | OA1 |
-| 8 | b) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
+| 8 | d) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
 | 9 | fast fashion. | OA3 |
 | 10 | On the other hand. | OA3 |
 | 11 | True (Verdadero) — el OA pide explícitamente comparar información sobre un tema entre distintos textos, contrastando más de una fuente. | OA3 |

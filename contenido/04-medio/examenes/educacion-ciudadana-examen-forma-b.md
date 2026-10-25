@@ -36,8 +36,8 @@ forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/prueb
 **1.** La brecha salarial entre hombres y mujeres que desempeñan funciones de similar responsabilidad es un desafío democrático que se relaciona principalmente con:
 
 a) La diversidad étnica y cultural
-b) La equidad de género
-c) La libertad de expresión
+b) La libertad de expresión
+c) La equidad de género
 d) La concentración de medios de comunicación
 
 ---
@@ -70,9 +70,9 @@ ___ Tras una catástrofe natural, cientos de voluntarios y voluntarias de distin
 **4.** Una empresa descarta sistemáticamente, sin relación con el desempeño del cargo, a postulantes mayores de 55 años en sus procesos de selección. ¿Con qué concepto de este OA se relaciona principalmente esta situación?
 
 a) Diversidad étnica y cultural
-b) Igualdad de trato
+b) Concentración de medios
 c) Libertad de expresión
-d) Concentración de medios
+d) Igualdad de trato
 
 ---
 
@@ -91,8 +91,8 @@ Explica, en un desarrollo breve, cómo se relaciona esta acción con el principi
 **7.** ¿Cuál de las siguientes opciones es un ejemplo de "libertad positiva"?
 
 a) Que ninguna ley te obligue a afiliarte a un sindicato
-b) Que el Estado entregue prótesis y ayudas técnicas gratuitas a personas con discapacidad para que puedan estudiar y trabajar
-c) Que la Constitución prohíba la censura previa a la prensa
+b) Que la Constitución prohíba la censura previa a la prensa
+c) Que el Estado entregue prótesis y ayudas técnicas gratuitas a personas con discapacidad para que puedan estudiar y trabajar
 d) Que nadie pueda impedirte postular a un cargo de elección popular
 
 ---
@@ -113,9 +113,9 @@ ___ Reconocer la diversidad cultural de un país contradice necesariamente la id
 **10.** Un municipio destina fondos a un programa de becas de alimentación y útiles escolares para estudiantes de familias de escasos recursos de la comuna. ¿Con qué valores de este OA se relaciona mejor esta política?
 
 a) Libertad de expresión y diversidad sexual
-b) Solidaridad e igualdad de oportunidades
+b) Concentración de medios y alfabetización mediática
 c) Igualdad ante la ley y libertad negativa
-d) Concentración de medios y alfabetización mediática
+d) Solidaridad e igualdad de oportunidades
 
 ---
 
@@ -252,16 +252,16 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 
 | N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
 |----|------|----|---------------------------------|---------|
-| 1 | Selección múltiple | Democracia y sus desafíos | b) Equidad de género | 1 |
+| 1 | Selección múltiple | Democracia y sus desafíos | c) Equidad de género | 1 |
 | 2 | V/F (4 afirmaciones) | Democracia y sus desafíos | V – F – V – V | 4 |
 | 3 | Términos pareados | Democracia y sus desafíos | 1 – 2 – 3 – 4 | 4 |
-| 4 | Selección múltiple | Democracia y sus desafíos | b) Igualdad de trato | 1 |
+| 4 | Selección múltiple | Democracia y sus desafíos | d) Igualdad de trato | 1 |
 | 5 | Desarrollo breve | Democracia y sus desafíos | Reconoce la organización sindical como forma de **participación** que busca incidir en decisiones que afectan a las trabajadoras, y conecta el contenido de la demanda (sala cuna, horarios) con la **equidad de género**, por recaer históricamente el cuidado sobre las mujeres | 2 |
 | 6 | Desarrollo breve | Democracia y sus desafíos | Reconoce que ambas posturas priorizan valores democráticos legítimos (libertad económica/empresarial vs. solidaridad hacia quienes ganan menos) y que el desacuerdo sobre el nivel de salario mínimo es distinto de desconocer la dignidad laboral de las personas trabajadoras | 2 |
-| 7 | Selección múltiple | Democracia y sus desafíos | b) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
+| 7 | Selección múltiple | Democracia y sus desafíos | c) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
 | 8 | Desarrollo breve | Democracia y sus desafíos | Identifica **igualdad de trato** o **inclusión** (discriminación salarial por condición migrante) y **diversidad cultural** (o vulnerabilidad frente a desconocimiento del sistema local); explica que la diferencia de trato no tiene fundamento legítimo | 2 |
 | 9 | V/F (4 afirmaciones) | Democracia y sus desafíos | V - F - V - F | 4 |
-| 10 | Selección múltiple | Democracia y sus desafíos | b) Solidaridad e igualdad de oportunidades | 1 |
+| 10 | Selección múltiple | Democracia y sus desafíos | d) Solidaridad e igualdad de oportunidades | 1 |
 | 11 | Desarrollo extenso | Democracia y sus desafíos | Relaciona el caso con diversidad cultural (condición y organización propia de trabajadores migrantes) y con el principio de participación (derecho a ser consultados en decisiones que afectan sus condiciones laborales y de vivienda); admite que existen posturas legítimas distintas sobre cómo regular el trabajo migrante temporal | 3 |
 | 12 | Desarrollo breve | Democracia y sus desafíos | Relaciona con **inclusión** y/o **solidaridad**; explica la diferencia entre libertad negativa (no prohibir el acceso) y libertad positiva (condiciones reales —formatos, infraestructura— para ejercerlo) | 2 |
 | 13 | Selección múltiple | Democracia y sus desafíos | b) Ambas posturas pueden ser igualmente legítimas | 1 |

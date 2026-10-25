@@ -28,7 +28,7 @@ b) Volcanoes in Chile
 c) Tectonic games
 d) Chilean history
 
-**2. (Verdadero o Falso)** Read: *"The Amazon rainforest produces about 20% of the world's oxygen. It is home to millions of species of plants and animals."* Statement: *The text says the Amazon produces 50% of the world's oxygen.*
+**2. (Verdadero o Falso)** Read: *"The Amazon rainforest produces about 6% to 9% of the world's oxygen. It is home to millions of species of plants and animals."* Statement: *The text says the Amazon produces 50% of the world's oxygen.*
 
 **3. (Completar)** Complete: *"The first sentence of a paragraph usually gives you the ___ idea of the text."* (main / explicit / false)
 
@@ -79,7 +79,7 @@ d) Opinión
 
 **1.** b) Volcanoes in Chile. *Retroalimentación: el texto completo gira en torno a los volcanes; los detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.*
 
-**2.** False (Falso). *Retroalimentación: el texto dice explícitamente 20%, no 50%; hay que leer con atención los números exactos.*
+**2.** False (Falso). *Retroalimentación: el texto dice explícitamente 6% al 9%, no 50%; hay que leer con atención los números exactos.*
 
 **3.** main. *Retroalimentación: main idea (idea principal/general) es el concepto que resume de qué trata todo el texto.*
 

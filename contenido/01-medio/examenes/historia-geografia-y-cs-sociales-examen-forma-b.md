@@ -82,9 +82,9 @@ d) La censura estatal de las organizaciones civiles
 fenómeno del surgimiento del Estado-nación en Europa?
 
 a) La fragmentación de un imperio en numerosos reinos independientes
-b) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano
+b) La ocupación militar de Italia por parte de una potencia extranjera
 c) La disolución de una unión territorial en varios países separados
-d) La ocupación militar de Italia por parte de una potencia extranjera
+d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano
 
 ---
 
@@ -100,9 +100,9 @@ d) La ocupación militar de Italia por parte de una potencia extranjera
 ¿Qué consecuencia de la Primera Guerra Mundial ilustra mejor este estímulo?
 
 a) El fortalecimiento inmediato de la idea de progreso indefinido
-b) La crisis de la idea de progreso propia del siglo XIX
+b) El regreso al comercio colonial exclusivo
 c) La disminución del número de víctimas respecto de guerras anteriores
-d) El regreso al comercio colonial exclusivo
+d) La crisis de la idea de progreso propia del siglo XIX
 
 ---
 
@@ -113,8 +113,8 @@ d) El regreso al comercio colonial exclusivo
 condición para alcanzar la estabilidad del nuevo Estado chileno?
 
 a) Los pipiolos
-b) Los pelucones y estanqueros
-c) Las comunidades mapuches
+b) Las comunidades mapuches
+c) Los pelucones y estanqueros
 d) Los obreros salitreros
 
 ---
@@ -138,9 +138,9 @@ constitucionales" e inestabilidad política en Chile.
 mediados del siglo XIX, aprovechando la demanda generada por la fiebre del oro?
 
 a) Gran Bretaña y Francia
-b) California y Australia
+b) España y Portugal
 c) Perú y Bolivia
-d) España y Portugal
+d) California y Australia
 
 ---
 
@@ -405,11 +405,11 @@ debate sobre desarrollo sostenible que busque responder a este tipo de problema.
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas | a) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) La libre asociación | OA 1 | Historia | 1 |
-| 3  | Alternativas | b) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
-| 4  | Alternativas | b) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
-| 5  | Alternativas | b) Los pelucones y estanqueros | OA 8 | Historia | 1 |
+| 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
+| 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
+| 5  | Alternativas | c) Los pelucones y estanqueros | OA 8 | Historia | 1 |
 | 6  | Desarrollo breve | Tras la independencia, Chile debió construir un nuevo orden político desde cero, lo que llevó a la sucesión de distintas constituciones y gobiernos de corta duración, en medio del enfrentamiento entre grupos con visiones muy distintas —pipiolos (liberal-federalista) y pelucones/estanqueros (conservador)— sobre cómo organizar el país; ese conflicto solo se resolvió, al menos temporalmente, tras la batalla de Lircay (1830) y la posterior redacción de la Constitución de 1833 | OA 8 | Historia | 2 |
-| 7  | Alternativas | b) California y Australia | OA 10 | Historia | 1 |
+| 7  | Alternativas | d) California y Australia | OA 10 | Historia | 1 |
 | 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje | OA 10 | Historia | 1 |
 | 9  | Alternativas | b) Temuco | OA 14 | Historia | 1 |
 | 10 | Desarrollo breve | La ocupación significó la pérdida de la mayor parte del territorio ancestral mapuche, el empobrecimiento de sus comunidades, la pérdida de autonomía política y cambios forzados en su forma de vida y organización económica; estas transformaciones estructurales explican en buena medida demandas territoriales que continúan hasta el presente, por lo que sus efectos no se limitaron al siglo XIX sino que se proyectan hasta hoy | OA 14 | Historia | 2 |

@@ -46,8 +46,8 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 **1.** *(Alternativas)* Además de las plantas, ¿qué otro grupo de organismos es capaz
 de realizar fotosíntesis?
 
-a) Los hongos
-b) Las algas y las cianobacterias
+a) Las algas y las cianobacterias
+b) Los hongos
 c) Los animales herbívoros
 d) Las bacterias descomponedoras
 
@@ -74,8 +74,8 @@ para otros seres vivos.
 **4.** *(Alternativas)* ¿Cuál es la función principal de los descomponedores (como
 hongos y bacterias) dentro de un ecosistema?
 
-a) Producir su propio alimento mediante fotosíntesis
-b) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo
+a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo
+b) Producir su propio alimento mediante fotosíntesis
 c) Cazar directamente a los consumidores de tercer orden
 d) Absorber energía solar de forma directa
 
@@ -100,8 +100,8 @@ la caza excesiva.
 **7.** *(Alternativas)* ¿Cuál de los siguientes cambios es **común tanto en hombres
 como en mujeres** durante la pubertad?
 
-a) La menarquia
-b) El estirón de crecimiento
+a) El estirón de crecimiento
+b) La menarquia
 c) El cambio de voz hacia un tono más grave
 d) El crecimiento de vello facial
 
@@ -261,13 +261,13 @@ podrían ayudar a reducir esa erosión.
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) Las algas y las cianobacterias | OA 1 |
+| 1 | Alternativas | a) Las algas y las cianobacterias | OA 1 |
 | 2 | Alternativas | d) Azúcar (glucosa) | OA 1 |
 | 3 | Desarrollo extenso | La planta se debilitará o morirá, porque aunque recibe agua, le falta energía lumínica y no puede realizar la fotosíntesis ni producir el azúcar que necesita para vivir. La fotosíntesis es importante para otros seres vivos porque libera oxígeno (necesario para la respiración) y porque el azúcar producido es la base del alimento de los organismos que se alimentan de la planta. | OA 1 |
-| 4 | Alternativas | b) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo | OA 2 |
+| 4 | Alternativas | a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo | OA 2 |
 | 5 | Alternativas | d) Consumidor de tercer orden | OA 2 |
 | 6 | Desarrollo extenso | Ejemplo válido de cadena de cuatro eslabones con nivel trófico correcto (p. ej. pasto —productor— → conejo —consumidor 1° orden— → zorro culpeo —consumidor 2° orden— → águila —consumidor 3° orden—). Si desaparece el consumidor de tercer orden, la población del nivel inferior (consumidor 2° orden) podría aumentar sin control, reduciendo a su vez la población de consumidores de primer orden y alterando el flujo de materia y energía de todo el ecosistema. | OA 2 |
-| 7 | Alternativas | b) El estirón de crecimiento | OA 5 |
+| 7 | Alternativas | a) El estirón de crecimiento | OA 5 |
 | 8 | Alternativas | b) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal | OA 5 |
 | 9 | Desarrollo breve | Es importante porque ayuda a evitar la vergüenza, la burla o la comparación negativa entre compañeros y compañeras que experimentan los cambios en momentos distintos; comprenderlo con naturalidad favorece el bienestar emocional durante esta etapa. | OA 5 |
 | 10 | Alternativas | b) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable | OA 6 |

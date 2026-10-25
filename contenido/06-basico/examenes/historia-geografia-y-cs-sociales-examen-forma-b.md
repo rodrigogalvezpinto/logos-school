@@ -78,9 +78,9 @@ d) Al plebiscito de 1988
 ¿Qué se decidió en el cabildo abierto realizado en Santiago el 18 de septiembre de 1810?
 
 a) Declarar la independencia total de Chile
-b) Formar la Primera Junta Nacional de Gobierno
+b) Firmar la paz definitiva con España
 c) Abolir la esclavitud en el territorio
-d) Firmar la paz definitiva con España
+d) Formar la Primera Junta Nacional de Gobierno
 
 ---
 
@@ -114,9 +114,9 @@ d) Los patriotas
 ¿Qué característica tuvo la Constitución de 1833?
 
 a) Fortaleció al Congreso por sobre el Presidente
-b) Concentró el poder en la figura del Presidente de la República
+b) Estableció el voto universal para hombres y mujeres
 c) Eliminó por completo a la Iglesia católica del país
-d) Estableció el voto universal para hombres y mujeres
+d) Concentró el poder en la figura del Presidente de la República
 
 ---
 
@@ -386,10 +386,10 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas | a) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) A la independencia de Estados Unidos (1776) | OA 1 | Historia | 1 |
-| 3  | Alternativas | b) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
+| 3  | Alternativas | d) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
 | 4  | Desarrollo breve | Se enfrentaron los **patriotas** (que buscaban la autonomía o independencia de España) y los **realistas** (fieles a la Corona, que buscaban mantener el dominio colonial); se espera además mencionar el aporte de una mujer destacada, como Javiera Carrera (apoyo activo a la causa patriota) o Paula Jaraquemada (protección de tropas patriotas arriesgando su hacienda) | OA 2 | Historia | 2 |
 | 5  | Alternativas | a) Los liberales | OA 3 | Historia | 1 |
-| 6  | Alternativas | b) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
+| 6  | Alternativas | d) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
 | 7  | Alternativas | a) Valdivia y Llanquihue | OA 5 | Historia | 1 |
 | 8  | Desarrollo breve | Se espera que la respuesta reconozca la importancia estratégica de la zona austral, especialmente por su cercanía al Estrecho de Magallanes —ruta clave para la navegación entre los océanos Atlántico y Pacífico antes del Canal de Panamá— y el interés de asegurar la soberanía chilena en un territorio poco poblado | OA 5 | Historia | 2 |
 | 9  | Alternativas | b) 1935 | OA 7 | Historia | 1 |

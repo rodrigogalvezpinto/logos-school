@@ -58,8 +58,8 @@ d) Económico
 presenta cambios físicos de la pubertad que otros compañeros ya tienen. ¿Qué valor
 debería primar, dentro del aspecto social de la sexualidad, para evitar esta actitud?
 
-a) La competencia entre compañeros
-b) El respeto por los tiempos y el cuerpo de cada persona
+a) El respeto por los tiempos y el cuerpo de cada persona
+b) La competencia entre compañeros
 c) La indiferencia frente a la situación
 d) La comparación constante entre compañeros
 
@@ -67,9 +67,9 @@ d) La comparación constante entre compañeros
 sexualidad humana es correcta?
 
 a) Los cambios físicos de la pubertad son el único aspecto relevante de la sexualidad
-b) Los aspectos afectivo y social son tan importantes como el aspecto biológico
+b) El aspecto social no influye en las decisiones personales
 c) La sexualidad se reduce únicamente al aspecto biológico
-d) El aspecto social no influye en las decisiones personales
+d) Los aspectos afectivo y social son tan importantes como el aspecto biológico
 
 **4.** *(Desarrollo breve, 2 puntos)* Compara los cambios físicos que ocurren en
 hombres y mujeres durante la pubertad, dando al menos un ejemplo de cada uno.
@@ -89,8 +89,8 @@ d) Ninguno de los anteriores
 **6.** *(Alternativas)* Si el primer día de menstruación de un ciclo de 28 días
 corresponde al día 1, ¿en qué rango aproximado se ubican los días fértiles?
 
-a) Del día 1 al día 3
-b) Del día 11 al día 16
+a) Del día 11 al día 16
+b) Del día 1 al día 3
 c) Del día 20 al día 25
 d) Del día 26 al día 28
 
@@ -118,9 +118,9 @@ d) Ninguno de los anteriores
 positivo de los hongos para la salud humana?
 
 a) Pie de atleta
-b) Producción de penicilina
+b) Gripe
 c) Tuberculosis
-d) Gripe
+d) Producción de penicilina
 
 **11.** *(Desarrollo breve, 2 puntos)* Compara una bacteria y un hongo en términos de
 sus características estructurales (tamaño y tipo de célula).
@@ -134,8 +134,8 @@ sus características estructurales (tamaño y tipo de célula).
 **12.** *(Alternativas)* ¿Qué tipo de fuerza actúa principalmente cuando una manzana
 cae de un árbol?
 
-a) Fuerza elástica
-b) Fuerza gravitacional
+a) Fuerza gravitacional
+b) Fuerza elástica
 c) Roce estático
 d) Roce cinético
 
@@ -242,17 +242,17 @@ Chile, como la minería o el tratamiento de aguas.
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
 | 1 | Alternativas | c) Social | OA 1 |
-| 2 | Alternativas | b) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
-| 3 | Alternativas | b) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
+| 2 | Alternativas | a) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
+| 3 | Alternativas | d) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
 | 4 | Desarrollo breve | En los hombres: crecimiento de testículos y pene, cambio de voz. En las mujeres: desarrollo de mamas, inicio de la menstruación. Ambos ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
 | 5 | Alternativas | b) Preservativo | OA 2 |
-| 6 | Alternativas | b) Del día 11 al día 16 | OA 2 |
+| 6 | Alternativas | a) Del día 11 al día 16 | OA 2 |
 | 7 | Desarrollo breve | Conocer estos procesos permite tomar decisiones informadas y responsables sobre la propia sexualidad y salud reproductiva, prevenir embarazos no planificados, y comprender mejor el propio cuerpo y el de la pareja, favoreciendo el autocuidado. | OA 2 |
 | 8 | Desarrollo extenso | El preservativo es un método de barrera que impide físicamente el contacto entre el espermatozoide y el ovocito; la píldora anticonceptiva es un método hormonal que impide que ocurra la ovulación, por lo que no hay ovocito disponible para ser fecundado. Se diferencian en que uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal. | OA 2 |
 | 9 | Alternativas | c) *Penicillium* | OA 5 |
-| 10 | Alternativas | b) Producción de penicilina | OA 5 |
+| 10 | Alternativas | d) Producción de penicilina | OA 5 |
 | 11 | Desarrollo breve | Las bacterias son procariontes, generalmente más pequeñas y de estructura celular más simple (sin núcleo definido); los hongos son eucariontes, con una estructura celular más compleja (con núcleo y organelos definidos), y pueden ser unicelulares o multicelulares. | OA 5 |
-| 12 | Alternativas | b) Fuerza gravitacional | OA 7 |
+| 12 | Alternativas | a) Fuerza gravitacional | OA 7 |
 | 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
 | 14 | Desarrollo breve | El hielo es una superficie mucho más lisa que el cemento, lo que genera menor fuerza de roce entre la caja y la superficie, facilitando el deslizamiento; el cemento, al ser más rugoso, genera mayor roce y dificulta el movimiento. | OA 7 |
 | 15 | Desarrollo extenso | La fuerza gravitacional (el peso del ciclista y la bicicleta) es la principal responsable de la aceleración cuesta abajo; el roce con el aire y el roce entre los neumáticos y el pavimento actúan oponiéndose a ese movimiento, frenándolo parcialmente. | OA 7 |

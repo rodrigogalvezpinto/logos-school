@@ -44,8 +44,8 @@ scientist whose X-ray images were essential to discovering the structure of
 DNA. She died before receiving the recognition she deserved."* What
 information is explicit in the text?
 
-a) Rosalind Franklin discovered DNA completely on her own.
-b) Rosalind Franklin's X-ray images were essential to the discovery of the
+a) Rosalind Franklin's X-ray images were essential to the discovery of the
+b) Rosalind Franklin discovered DNA completely on her own.
    structure of DNA.
 c) Rosalind Franklin worked only in mathematics.
 d) Rosalind Franklin received a Nobel Prize during her lifetime.
@@ -73,9 +73,9 @@ includes unfamiliar vocabulary (*magma, seismic activity*). What is the most
 useful strategy to understand the text without translating every word?
 
 a) Stop at every unknown word and look it up immediately.
-b) Use context and known words to infer the general meaning before using a
+b) Ignore the whole text if a difficult word appears.
    dictionary.
-c) Ignore the whole text if a difficult word appears.
+c) Use context and known words to infer the general meaning before using a
 d) Memorize the text without understanding it.
 
 ---
@@ -87,9 +87,9 @@ glass and plastic before throwing them away."* What is the purpose of this
 text?
 
 a) To entertain readers with a story
-b) To persuade/instruct readers to change a behavior
+b) To sell a product
 c) To describe a person's life
-d) To sell a product
+d) To persuade/instruct readers to change a behavior
 
 **8.** *(Pregunta abierta — completar)* Complete with the correct connector:
 *"The store was closed when we arrived. ___, we found another one nearby
@@ -111,8 +111,8 @@ sustantivo de ocupación: *"art"* → ¿"artist" o "arter"?
 educational and entertaining for the students."* ¿Qué indica la estructura
 *"both...and"* en esta oración?
 
-a) Que el museo no fue ni una cosa ni la otra.
-b) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido.
+a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido.
+b) Que el museo no fue ni una cosa ni la otra.
 c) Que el museo solo fue entretenido.
 d) Que los estudiantes no visitaron el museo.
 
@@ -128,9 +128,9 @@ today."* (In / At)
 justificada sobre un problema global?
 
 a) There are trees in the forest.
-b) In my opinion, governments should protect forests because deforestation
+b) Forests exist in many countries.
    harms the whole planet.
-c) Forests exist in many countries.
+c) In my opinion, governments should protect forests because deforestation
 d) Trees produce oxygen.
 
 **15.** *(Pregunta abierta — completar)* Complete a text about a school
@@ -202,20 +202,20 @@ d) He fight fires.
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
+| 1 | a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
 | 2 | about / how | OA9 |
 | 3 | False (Falso) — el texto afirma que las abejas transportan polen entre plantas, lo que permite su reproducción; lo contrario a la afirmación. | OA9 |
 | 4 | *It was held in 1930, in Uruguay.* | OA9 |
 | 5 | Chilean / 1889 / Nobel Prize in Literature (1945) | OA9 |
-| 6 | b) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | b) To persuade/instruct readers to change a behavior | OA10 |
+| 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
+| 7 | d) To persuade/instruct readers to change a behavior | OA10 |
 | 8 | However | OA10 |
 | 9 | True (Verdadero) — se plantea un problema (exceso de tareas) y una solución (reducir la carga), conectados por *so*. | OA10 |
 | 10 | irresponsible | OA10 |
 | 11 | artist | OA10 |
-| 12 | b) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
+| 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
 | 13 | In | OA13 |
-| 14 | b) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
+| 14 | c) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
 | 15 | studied / enjoyed | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
 | 17 | Respuesta personal coherente, p. ej.: *"This picture shows a beach full of plastic waste. In my opinion, this is a serious problem because it harms marine animals."* | OA13 |

@@ -52,8 +52,8 @@ función de los receptores sensoriales dentro del sistema nervioso?
 
 a) Almacenan la memoria a largo plazo
 b) Transmiten órdenes hacia los músculos y las glándulas
-c) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica
-d) Conectan a las neuronas sensoriales con las neuronas motoras
+c) Conectan a las neuronas sensoriales con las neuronas motoras
+d) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica
 
 **2.** *(Alternativas)* Dentro de un circuito nervioso, ¿qué tipo de neurona conecta a
 las neuronas sensoriales con las neuronas motoras, principalmente dentro de la médula
@@ -86,8 +86,8 @@ d) Psicológica
 sobre métodos de regulación de la fecundidad es relevante para prevenir un embarazo
 adolescente no planificado?
 
-a) Porque garantiza que los adolescentes no inicien su vida sexual
-b) Porque permite tomar decisiones informadas sobre la propia sexualidad
+a) Porque permite tomar decisiones informadas sobre la propia sexualidad
+b) Porque garantiza que los adolescentes no inicien su vida sexual
 c) Porque reemplaza la necesidad de comunicación dentro de la pareja
 d) Porque elimina por completo el riesgo de contraer una ITS
 
@@ -267,11 +267,11 @@ covalentes.
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | c) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica | OA 1 |
+| 1 | Alternativas | d) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica | OA 1 |
 | 2 | Alternativas | c) La interneurona | OA 1 |
 | 3 | Desarrollo breve | El sueño es necesario para la consolidación de la memoria y la recuperación de las neuronas tras la actividad diaria; dormir pocas horas de forma sostenida interfiere con estos procesos, lo que puede afectar la atención, la memoria, el estado de ánimo y la capacidad de tomar decisiones, disminuyendo el desempeño cognitivo en un examen. | OA 1 |
 | 4 | Alternativas | c) Biológica | OA 3 |
-| 5 | Alternativas | b) Porque permite tomar decisiones informadas sobre la propia sexualidad | OA 3 |
+| 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad | OA 3 |
 | 6 | Desarrollo extenso | El consentimiento asegura que ambas personas participan en la relación de forma libre e informada, respetando su autonomía; la comunicación permite acordar aspectos como el uso de métodos de protección y expresar límites personales, lo que reduce riesgos tanto físicos (embarazo no planificado, ITS) como emocionales dentro de la relación. | OA 3 |
 | 7 | Alternativas | b) La mitosis | OA 6 |
 | 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células que produce, mientras que la mitosis mantiene el número original | OA 6 |

@@ -54,8 +54,8 @@ térmico de sus muros y ventanas, logrando mantener una temperatura interior sim
 con un menor consumo de leña o gas para calefacción. Esta medida corresponde
 principalmente al criterio de:
 
-a) Gestión de residuos
-b) Eficiencia energética
+a) Eficiencia energética
+b) Gestión de residuos
 c) Tratamiento de recursos hídricos
 d) Conservación de ecosistemas
 
@@ -77,9 +77,9 @@ parte de sus residuos. Desde el criterio de gestión de residuos, la medida más
 adecuada es:
 
 a) Mezclarlos con los residuos domiciliarios comunes para reducir costos de transporte
-b) Entregarlos a un gestor autorizado para su disposición final segura como residuos
+b) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
    peligrosos
-c) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
+c) Entregarlos a un gestor autorizado para su disposición final segura como residuos
 d) Almacenarlos indefinidamente en el mismo lugar sin ningún tratamiento
 
 **5.** *(Desarrollo breve, 2 puntos)* Un colegio quiere reducir su consumo eléctrico,
@@ -112,9 +112,9 @@ nativo. ¿Cuál de las siguientes medidas responde mejor al criterio de conserva
 ecosistemas?
 
 a) Aumentar la velocidad máxima permitida en el tramo
-b) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
+b) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
 c) Eliminar toda la vegetación cercana a la carretera para mejorar la visibilidad
-d) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
+d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
 
 **9.** *(Desarrollo breve, 2 puntos)* Un vertedero municipal instala un sistema para
 capturar el metano que se genera por la descomposición de los residuos orgánicos y
@@ -135,8 +135,8 @@ qué un proyecto puede ser "sostenible" aunque permita actividad humana.
 tecnificado por goteo es relevante para la sostenibilidad hídrica de la agricultura
 chilena porque:
 
-a) Aumenta el volumen total de agua utilizada por hectárea
-b) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
+a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
+b) Aumenta el volumen total de agua utilizada por hectárea
    de forma más eficiente
 c) Elimina por completo la necesidad de agua para el cultivo
 d) Solo puede aplicarse en zonas con abundante lluvia
@@ -260,17 +260,17 @@ económica.
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) Eficiencia energética | OA 2 |
+| 1 | Alternativas | a) Eficiencia energética | OA 2 |
 | 2 | Verdadero o falso | Falso. Un proyecto técnicamente correcto puede fracasar si es demasiado costoso o si la comunidad no lo comprende ni lo apoya; la evidencia científica debe complementarse con viabilidad económica y aceptación social. | OA 2 |
 | 3 | Desarrollo breve | Proteger totalmente implica no permitir ninguna extracción ni actividad sobre el recurso (por ejemplo, la zona núcleo de la reserva); utilizar de forma sostenible implica permitir una actividad regulada (pesca artesanal con cuotas y control técnico) que no compromete la capacidad del recurso de regenerarse. Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
-| 4 | Alternativas | b) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
+| 4 | Alternativas | c) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
 | 5 | Desarrollo breve | Debe medir el consumo real (lecturas del medidor por sala u horario), identificar los focos de mayor gasto y comparar con un período anterior o un estándar de referencia, para diseñar una solución dirigida al problema real y poder medir su efectividad después de implementada; un proyecto "basado en evidencia" comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
 | 6 | Desarrollo extenso | Respuesta abierta; por ejemplo, instalar un sistema solar o híbrido para generar electricidad en tierra (eficiencia energética / reducción de emisiones) junto con una planta de compostaje o valorización de los desechos de pesca (gestión de residuos); debe evaluar el costo de inversión inicial, la posibilidad de subsidios estatales (por ejemplo, del Ministerio de Energía) y la necesidad de comprometer a la organización de pescadores para asegurar el uso y mantención del proyecto en el tiempo. | OA 2 |
 | 7 | Verdadero o falso | Falso. En el relleno sanitario, los residuos orgánicos se descomponen sin oxígeno y generan metano, un potente gas de efecto invernadero; reducir lo que llega al relleno (por ejemplo, mediante compostaje) también reduce esas emisiones. | OA 2 |
-| 8 | Alternativas | b) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
+| 8 | Alternativas | d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
 | 9 | Desarrollo breve | Debe explicar que el proyecto gestiona el residuo evitando que se acumule sin control, y que al capturar el metano en vez de dejarlo escapar a la atmósfera reduce directamente las emisiones de un gas de efecto invernadero potente, transformando además ese gas en una fuente útil de energía. | OA 2 |
 | 10 | Desarrollo extenso | La opción (a) destruye directamente parte del humedal (hábitat de aves, filtración de agua, protección costera frente a marejadas); la opción (b) permite el uso turístico y educativo del humedal sin destruirlo, siendo compatible con su conservación. Un proyecto es sostenible cuando compatibiliza el uso humano con el mantenimiento de la capacidad del ecosistema de regenerarse y seguir prestando sus servicios, no cuando maximiza el uso a corto plazo sin considerar el impacto. | OA 2 |
-| 11 | Alternativas | b) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
+| 11 | Alternativas | a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
 | 12 | Desarrollo breve | Debe señalar que al usar especies nativas se restablece hábitat y biodiversidad propia del lugar (conservación de ecosistemas) y que, al mismo tiempo, el bosque en crecimiento captura y almacena CO₂ atmosférico, funcionando como sumidero de carbono, lo que contribuye además a la mitigación del cambio climático. | OA 2 |
 | 13 | Desarrollo extenso | Debe exigir estudios hidrogeológicos independientes sobre la capacidad de recarga del acuífero y el impacto de la extracción minera sobre su disponibilidad futura; evaluar si el costo y plazo de la planta desalinizadora realmente compensa el agua extraída (viabilidad económica y técnica); y asegurar consulta y participación real de la comunidad afectada en la decisión, no solo la oferta de compensación de la empresa. | OA 2 |
 | 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |

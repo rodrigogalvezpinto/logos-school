@@ -40,8 +40,8 @@ basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preg
 
 **Pregunta 1.** *(Selección múltiple)* ¿Cuál de las siguientes situaciones ejemplifica mejor la característica del quehacer filosófico de "partir de la experiencia cotidiana"?
 
-a) Memorizar una lista de filósofos griegos y sus fechas de nacimiento.
-b) A partir de la extrañeza de no reconocerse en una foto de la infancia, preguntarse qué hace que alguien siga "siendo la misma persona" con el paso del tiempo.
+a) A partir de la extrañeza de no reconocerse en una foto de la infancia, preguntarse qué hace que alguien siga "siendo la misma persona" con el paso del tiempo.
+b) Memorizar una lista de filósofos griegos y sus fechas de nacimiento.
 c) Aceptar sin discusión lo que dice un libro de historia sobre la fotografía antigua.
 d) Calcular cuántos años han pasado desde que se tomó la fotografía.
 
@@ -64,9 +64,9 @@ d) La diferencia es que el filósofo siempre llega a una respuesta definitiva y 
 **Pregunta 5.** *(Selección múltiple)* ¿Cuál de las siguientes preguntas corresponde a una de las "grandes preguntas" propias del quehacer filosófico?
 
 a) "¿Cuántas fotografías tiene guardadas esta familia?"
-b) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un propósito o una función?"
+b) "¿Qué marca de cámara era más común hace diez años?"
 c) "¿A qué edad se tomó exactamente la fotografía?"
-d) "¿Qué marca de cámara era más común hace diez años?"
+d) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un propósito o una función?"
 
 **Pregunta 6.** *(Desarrollo extenso — análisis de argumento/dilema, 5 pts)* Evalúa la respuesta del hermano menor: "da lo mismo, una foto es solo una foto, no hay nada que pensar ahí". Considera en tu respuesta la idea del **asombro** como origen de la filosofía y el papel de la **clarificación de conceptos** (en este caso, el concepto de "identidad personal") en el quehacer filosófico.
 
@@ -78,8 +78,8 @@ d) "¿Qué marca de cámara era más común hace diez años?"
 
 **Pregunta 7.** *(Selección múltiple)* ¿Cuál de las siguientes formulaciones expresa mejor la **pregunta ontológica general** que plantea el caso del club de fútbol?
 
-a) ¿Cuántos hinchas asisten en promedio a los partidos del club?
-b) ¿Qué hace que algo siga siendo "lo mismo" a lo largo del tiempo, incluso cuando han cambiado todas o casi todas sus partes y personas?
+a) ¿Qué hace que algo siga siendo "lo mismo" a lo largo del tiempo, incluso cuando han cambiado todas o casi todas sus partes y personas?
+b) ¿Cuántos hinchas asisten en promedio a los partidos del club?
 c) ¿En qué año se fundó exactamente el club?
 d) ¿Cuál es el reglamento oficial de cambio de nombre de un club deportivo?
 
@@ -93,9 +93,9 @@ d) Nada de lo que percibimos es real; todo es una ilusión total sin ningún fun
 **Pregunta 9.** *(Selección múltiple)* Clasifica la siguiente afirmación según la teoría ontológica que representa: "El cariño que los hinchas sienten por el club no es más que actividad química y eléctrica en el cerebro; no hay ningún 'algo más' aparte de esos procesos físicos."
 
 a) Idealismo.
-b) Materialismo.
+b) Escepticismo.
 c) Dualismo.
-d) Escepticismo.
+d) Materialismo.
 
 **Pregunta 10.** *(Desarrollo breve — 3 pts)* Muchas personas sostienen que los números y las verdades matemáticas (por ejemplo, que 2+2=4) "existen" de alguna manera, aunque no se puedan tocar ni ver como una silla. Explica, en tus palabras, por qué esta es una pregunta ontológica legítima y no una pregunta sin sentido, y da tu propia postura fundamentada.
 
@@ -199,13 +199,13 @@ d) Experimento mental y fenomenología.
 
 | N° | Clave | OA | Puntaje |
 |:---:|:---:|:---:|:---:|
-| 1 | b | OA1 | 1 |
+| 1 | a | OA1 | 1 |
 | 2 | c | OA1 | 1 |
 | 3 | c | OA1 | 1 |
-| 5 | b | OA1 | 1 |
-| 7 | b | OA3 | 1 |
+| 5 | d | OA1 | 1 |
+| 7 | a | OA3 | 1 |
 | 8 | c | OA3 | 1 |
-| 9 | b | OA3 | 1 |
+| 9 | d | OA3 | 1 |
 | 11 | b | OA3 | 1 |
 | 13 | b | OA4 | 1 |
 | 14 | c | OA4 | 1 |

@@ -42,17 +42,17 @@ birds are now in danger because factories pollute the water where they
 live."* What is the text mainly about?
 
 a) Family summer vacations
-b) Humboldt penguins and the danger they face
+b) Chilean beaches
 c) Types of birds in Peru
-d) Chilean beaches
+d) Humboldt penguins and the danger they face
 
 **2.** *(Selección múltiple)* Read: *"Sofía is from Colombia, but her family
 moved to Chile when she was ten years old. She has lived in La Serena for
 three years and she loves the ocean."* According to the text, how long has
 Sofía lived in La Serena?
 
-a) Ten years
-b) Three years
+a) Three years
+b) Ten years
 c) Thirteen years
 d) Since she was born
 
@@ -60,8 +60,8 @@ d) Since she was born
 repeat many times in a text usually show you its ___ idea."* (main / false /
 explicit)
 
-**4.** *(Pregunta abierta — verdadero o falso)* Read: *"The Amazon
-rainforest produces about 20% of the world's oxygen. It is home to millions
+**4.** *(Pregunta abierta - verdadero o falso)* Read: *"The Amazon
+rainforest produces about 6% to 9% of the world's oxygen. It is home to millions
 of species of plants and animals."* Write True or False: *The text says the
 Amazon produces 50% of the world's oxygen.*
 
@@ -188,10 +188,10 @@ plastic bottles on the beach today."* (is / are)
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Humboldt penguins and the danger they face | OA9 |
-| 2 | b) Three years | OA9 |
+| 1 | d) Humboldt penguins and the danger they face | OA9 |
+| 2 | a) Three years | OA9 |
 | 3 | main | OA9 |
-| 4 | False (Falso) — el texto dice explícitamente *20%*, no 50%. | OA9 |
+| 4 | False (Falso) - el texto dice explícitamente *6% al 9%*, no 50%. | OA9 |
 | 5 | Expresar una postura personal — *I disagree because...* introduce una opinión justificada, no un dato del texto. | OA9 |
 | 6 | Respuesta personal coherente, p. ej.: *"In my opinion, protecting the environment is important because we need clean water and air to live."* | OA9 |
 | 7 | c) A set of instructions | OA10 |

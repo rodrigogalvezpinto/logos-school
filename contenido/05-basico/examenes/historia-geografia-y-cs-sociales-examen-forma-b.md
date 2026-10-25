@@ -76,10 +76,10 @@ d) Desastre de Curalaba – fundación de Santiago – expedición de Valdivia �
 ¿Qué tendencia general sobre el avance de la conquista española se observa en este mapa?
 
 a) La conquista fue un hecho instantáneo, ocurrido en un solo año
-b) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el
+b) Las ciudades se fundaron únicamente en el extremo sur de Chile
    norte y el sur del territorio
 c) Todas las ciudades fueron fundadas simultáneamente por Diego de Almagro
-d) Las ciudades se fundaron únicamente en el extremo sur de Chile
+d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el
 
 ---
 
@@ -375,7 +375,7 @@ equilibrio entre los derechos de las personas y sus deberes en una sociedad.
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas      | d) Establecer un sistema democrático de elecciones | OA 2 | Historia | 1 |
 | 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
-| 3  | Alternativas      | b) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
+| 3  | Alternativas      | d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
 | 4  | Desarrollo breve  | La sociedad surgida no era ni completamente española ni completamente indígena, sino una mezcla; el mestizaje es el elemento central. También son válidas menciones a las nuevas ciudades fundadas o a los conflictos bélicos de esta nueva etapa | OA 2 | Historia | 2 |
 | 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
 | 6  | Alternativas      | b) Las enfermedades traídas por los europeos, como la viruela | OA 3 | Historia | 1 |

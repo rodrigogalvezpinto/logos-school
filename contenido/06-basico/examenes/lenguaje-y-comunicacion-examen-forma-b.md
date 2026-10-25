@@ -45,8 +45,8 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **1. (Alternativas)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
 a) Chile actual, en una ciudad grande
-b) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-c) La época de la colonia española
+b) La época de la colonia española
+c) El auge del salitre en el norte de Chile, a comienzos del siglo XX
 d) El sur de Chile en el presente
 
 **2. (Desarrollo breve)** Explica cómo el ambiente descrito en el Texto 1 (el calor extremo, la maquinaria pesada, el peligro constante) influye en las reglas de seguridad y en la reacción del padre de Manuel cuando lo ve en peligro.
@@ -76,15 +76,15 @@ d) El sur de Chile en el presente
 **5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "**como un viajero que nunca descansa**"?
 
 a) Metáfora
-b) Comparación (símil)
+b) Hipérbole
 c) Onomatopeya
-d) Hipérbole
+d) Comparación (símil)
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **explícita** (dicha directamente en el texto)?
 
 a) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-b) El tren viaja de noche, hacia el sur
-c) El paisaje parece estar vivo y acompañar el viaje
+b) El paisaje parece estar vivo y acompañar el viaje
+c) El tren viaja de noche, hacia el sur
 d) El tiempo pareciera detenerse durante el trayecto
 
 **7. (Desarrollo breve)** Interpreta con tus propias palabras qué ocurre en la **primera estrofa** del poema. Explica también qué sonido de la realidad imita la onomatopeya "traquetea".
@@ -214,12 +214,12 @@ d) Para que el texto parezca más extenso de lo que es
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
+| 1 | **c)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
 | 2 | El ambiente extremo de la pampa (calor intenso, maquinaria pesada en movimiento, poca tolerancia al error) explica por qué las reglas de seguridad son tan estrictas y por qué el padre reacciona corriendo desesperadamente al ver a Manuel en peligro: en ese entorno, un descuido puede tener consecuencias graves o fatales. | OA N°4 — influencia del ambiente en las acciones |
 | 3 | **Falso.** El texto indica que Antonia actúa motivada por la preocupación que siente al ver a su abuelo triste y silencioso por el problema del galpón; no menciona en ningún momento un interés por demostrar habilidades de organización. | OA N°4 — motivaciones de los personajes |
 | 4 | Debe incluir una opinión fundamentada sobre la actitud de Antonia (por ejemplo, valorando su iniciativa y empatía) apoyada en información del texto, y una conclusión sustentada que explique cómo costumbres comunitarias como la minga permiten resolver colectivamente problemas que una persona sola no podría enfrentar. | OA N°4 — opinión fundamentada y conclusión sustentada |
-| 5 | **b) Comparación (símil).** Usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa. | OA N°5 — lenguaje figurado (comparación) |
-| 6 | **b)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
+| 5 | **d) Comparación (símil).** Usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa. | OA N°5 — lenguaje figurado (comparación) |
+| 6 | **c)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
 | 7 | En la primera estrofa, el tren avanza haciendo un ruido rítmico y constante sobre rieles mojados, y silba varias veces como si llevara mucho tiempo viajando. La onomatopeya "traquetea" imita el sonido repetitivo y mecánico de un tren moviéndose sobre los rieles. | OA N°5 — interpretación y onomatopeya |
 | 8 | La comparación "**como un viajero que nunca descansa**" transmite que el trayecto se siente larguísimo y agotador, casi interminable, para quien narra. En la segunda estrofa, el paisaje (los pinos) parece observar el paso del tren mientras quien viaja, vencido por el cansancio, finalmente se queda dormido antes de llegar. El verso propio debe usar una exageración evidente e intencionada sobre el hambre (por ejemplo, "tenía tanta hambre que me habría comido una vaca entera"). | OA N°5 — comparación, interpretación y creación de hipérbole |
 | 9 | **a)** Década de 1980, Región de Antofagasta. | OA N°6 — información explícita |

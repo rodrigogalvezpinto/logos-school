@@ -62,9 +62,9 @@ electoral, y prohíbe por ley la existencia de partidos de oposición.
 vulnerado en Nortea?
 
 a) La igualdad de voto
-b) La soberanía popular
+b) El Estado de Derecho
 c) El control de la agenda
-d) El Estado de Derecho
+d) La soberanía popular
 
 **2.** (Desarrollo breve — 6 puntos) Explica por qué la afirmación del gobierno de Nortea —que
 dice "representar el verdadero interés del pueblo"— no reemplaza la exigencia de que el poder
@@ -75,17 +75,17 @@ real.
 **atributo** de la democracia, y no a un fundamento?
 
 a) La dignidad de la persona
-b) La igualdad de voto
+b) El respeto a los Derechos Humanos
 c) La soberanía popular
-d) El respeto a los Derechos Humanos
+d) La igualdad de voto
 
 **4.** (Selección múltiple — 4 puntos) Un grupo de estudiantes recolecta firmas para que el
 Congreso ponga en discusión un proyecto de ley sobre salud mental, tema que hasta entonces no
 figuraba en la agenda pública. Esta acción ilustra principalmente el atributo de:
 
 a) Igualdad de voto
-b) Control de la agenda
-c) Estado de Derecho
+b) Estado de Derecho
+c) Control de la agenda
 d) Participación efectiva
 
 **5.** (Desarrollo extenso — 8 puntos) Elige **dos atributos** de la democracia estudiados en
@@ -125,9 +125,9 @@ d) El Ministerio Público
 justicia, como la CAJ o la Defensoría Penal Pública, es relevante principalmente porque:
 
 a) Garantizan que solo las personas con recursos accedan a tribunales
-b) Permiten que el acceso a la justicia no dependa de la capacidad de pago
+b) Solo se aplican a causas penales
 c) Reemplazan por completo la necesidad de tribunales
-d) Solo se aplican a causas penales
+d) Permiten que el acceso a la justicia no dependa de la capacidad de pago
 
 ---
 
@@ -291,15 +291,15 @@ Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
 
 | N° | Tipo | Clave / Elementos esperados en la respuesta | OA |
 |----|------|-----------------------------------------------|:---:|
-| 1 | Selección múltiple | **b)** La soberanía popular | OA 1 |
+| 1 | Selección múltiple | **d)** La soberanía popular | OA 1 |
 | 2 | Desarrollo breve | Debe explicar que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres y con opciones reales (pluralismo); que un gobierno *afirme* representar al pueblo, sin elecciones ni oposición legal, no sustituye ese requisito. | OA 1 |
-| 3 | Selección múltiple | **b)** La igualdad de voto | OA 1 |
-| 4 | Selección múltiple | **b)** Control de la agenda | OA 1 |
+| 3 | Selección múltiple | **d)** La igualdad de voto | OA 1 |
+| 4 | Selección múltiple | **c)** Control de la agenda | OA 1 |
 | 5 | Desarrollo extenso | Debe elegir dos atributos distintos (de: participación efectiva, igualdad de voto, control de la agenda, Estado de Derecho, respeto a libertades fundamentales), dar un ejemplo propio y coherente de cada uno (no reutilizado de esta prueba), y explicar que una democracia real requiere el cumplimiento **simultáneo** de todos sus atributos, no de uno solo de forma aislada. | OA 1 |
 | 6 | Selección múltiple | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
 | 7 | Desarrollo breve | Debe explicar que una demanda de pensión de alimentos es una materia **de familia, no penal**, por lo que corresponde a la CAJ; la Defensoría Penal Pública solo entrega defensa gratuita en causas penales. | OA 2 |
 | 8 | Selección múltiple | **c)** La Corte Suprema | OA 2 |
-| 9 | Selección múltiple | **b)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
+| 9 | Selección múltiple | **d)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
 | 10 | Selección múltiple | **b)** El sueldo justo | OA 4 |
 | 11 | Desarrollo extenso | Debe reconocer que no hay una única respuesta correcta. Postura de mercado: los sueldos deben reflejar productividad y la oferta y demanda de trabajo. Postura del mínimo garantizado: el Estado debe asegurar condiciones de vida digna independiente de lo que determine el mercado. Ambas deben presentarse como legítimas, sin calificar una como "la correcta". | OA 4 |
 | 12 | Selección múltiple | **b)** Proveedora de bienes y servicios | OA 4 |

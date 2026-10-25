@@ -60,9 +60,9 @@ Estado liberal decimonónico, al demostrar que un Estado de intervención mínim
 para enfrentar una crisis de esa magnitud?
 
 a) La Revolución Rusa
-b) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York
+b) La fundación de la Sociedad de las Naciones
 c) La firma del Tratado de Versalles
-d) La fundación de la Sociedad de las Naciones
+d) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York
 
 ---
 
@@ -89,9 +89,9 @@ chilena, al crear por primera vez experiencias culturales compartidas por person
 niveles socioeconómicos?
 
 a) La reforma agraria
-b) La difusión de la radio, el cine y el creciente interés popular por el deporte
+b) La creación del Instituto Nacional de Derechos Humanos
 c) La proscripción de los partidos políticos
-d) La creación del Instituto Nacional de Derechos Humanos
+d) La difusión de la radio, el cine y el creciente interés popular por el deporte
 
 ---
 
@@ -106,9 +106,9 @@ d) La creación del Instituto Nacional de Derechos Humanos
 ¿Qué hito de la Guerra Fría representa mejor este estímulo?
 
 a) La crisis de los misiles de Cuba
-b) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
+b) El fin de la división de Alemania
 dos bloques
-c) El fin de la división de Alemania
+c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
 d) La fundación de la ONU
 
 ---
@@ -425,10 +425,10 @@ tipo de riesgos.
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York | OA 2 | Historia | 1 |
+| 1  | Alternativas | d) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York | OA 2 | Historia | 1 |
 | 2  | Alternativas | c) La Declaración Universal de los Derechos Humanos | OA 4 | Historia | 1 |
-| 3  | Alternativas | b) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
-| 4  | Alternativas | b) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
+| 3  | Alternativas | d) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
+| 4  | Alternativas | c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
 | 5  | Desarrollo breve | Fue una confrontación principalmente ideológica porque, evitando un choque militar directo que arriesgara una guerra nuclear, ambas superpotencias compitieron por demostrar la superioridad de su sistema político y económico a través de otras vías. Esferas válidas (dos): la cultura (propaganda, cine, literatura), el deporte (Juegos Olímpicos, boicots mutuos) o las ciencias (la carrera espacial) | OA 8 | Historia | 2 |
 | 6  | Alternativas | a) La Revolución Cubana | OA 10 | Historia | 1 |
 | 7  | Desarrollo breve | La Doctrina de la Seguridad Nacional promovía el fortalecimiento de las Fuerzas Armadas latinoamericanas como garantes del orden interno frente a la amenaza comunista percibida durante la Guerra Fría; esta doctrina fue utilizada para legitimar, en varios países de la región, la intervención militar en la política y la instauración de dictaduras que violaron sistemáticamente los Derechos Humanos | OA 10 | Historia | 2 |

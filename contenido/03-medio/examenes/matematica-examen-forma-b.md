@@ -32,10 +32,10 @@ relación con otras formas: segunda versión del examen (Forma B), con preguntas
 
 **Pregunta 1 (alternativas).** El nivel de un sonido, en decibeles, se calcula como L = 10·log₁₀(I/I₀). Si la razón I/I₀ = 100, ¿cuál es el nivel L?
 
-a) 20 dB
+a) 200 dB
 b) 2 dB
 c) 100 dB
-d) 200 dB
+d) 20 dB
 
 ---
 
@@ -86,19 +86,19 @@ d) no se puede determinar con estos datos
 
 **Pregunta 9 (alternativas).** Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?
 
-a) 130°
+a) 260°
 b) 65°
-c) 260°
+c) 130°
 d) 50°
 
 ---
 
 **Pregunta 10 (alternativas).** Un ángulo inscrito mide 35°. ¿Cuánto mide el arco que subtiende?
 
-a) 70°
+a) 140°
 b) 35°
 c) 17,5°
-d) 140°
+d) 70°
 
 ---
 
@@ -201,7 +201,7 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
+| 1 | d) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
 | 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
 | 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero | OA 3 | Álgebra y Funciones |
 | 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
@@ -209,8 +209,8 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 | 6 | Razones: 96/80=1,20; 115/96≈1,198; 138/115≈1,20. Como la razón es aprox. constante, **sí es crecimiento exponencial**, con b≈1,2 (**20% de crecimiento por período**) | OA 3 | Álgebra y Funciones |
 | 7 | (0,75)⁴ = 0,31640625. C(4) = 180×0,3164 ≈ **56,95 ≈ 57 mg**. Eliminado: 180−57=123 mg → 123/180 ≈ **68,3%** | OA 3 | Álgebra y Funciones |
 | 8 | (0,88)ᵗ=0,5 → t = log(0,5)/log(0,88) ≈ (−0,3010)/(−0,0555) ≈ **5,4 años** | OA 3 | Álgebra y Funciones |
-| 9 | a) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
-| 10 | a) 70° (35°×2) | OA 4 | Geometría |
+| 9 | c) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
+| 10 | d) 70° (35°×2) | OA 4 | Geometría |
 | 11 | a) 48° (96°÷2) | OA 4 | Geometría |
 | 12 | a) 60° (360°÷6) | OA 4 | Geometría |
 | 13 | ½(100°+40°) = 140°÷2 = **70°** | OA 4 | Geometría |

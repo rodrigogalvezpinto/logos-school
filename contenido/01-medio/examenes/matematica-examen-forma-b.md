@@ -32,8 +32,8 @@ versión: Forma B (segunda versión, preguntas distintas a la Forma A)
 
 **Pregunta 1 (alternativas).** Calcula: 15 − 4 × (−3).
 
-a) 27
-b) −27
+a) −27
+b) 27
 c) 3
 d) −3
 
@@ -41,10 +41,10 @@ d) −3
 
 **Pregunta 2 (alternativas).** Calcula: 12 − 4² + 10 ÷ 5.
 
-a) −2
+a) −8
 b) 2
 c) 8
-d) −8
+d) −2
 
 ---
 
@@ -58,8 +58,8 @@ d) −8
 
 **Pregunta 5 (alternativas).** ¿Cuál es el valor de 5⁻²?
 
-a) 1/25
-b) −1/25
+a) −1/25
+b) 1/25
 c) 25
 d) −25
 
@@ -86,9 +86,9 @@ d) 2x + 16
 
 **Pregunta 9 (alternativas).** Desarrolla: (6x+5)(6x−5).
 
-a) 36x² − 25
+a) 36x² − 10
 b) 6x² − 25
-c) 36x² − 10
+c) 36x² − 25
 d) 12x² − 25
 
 ---
@@ -103,10 +103,10 @@ d) 12x² − 25
 
 **Pregunta 12 (alternativas).** ¿Cuál es la solución del sistema x+y=20; x−y=6?
 
-a) x=13, y=7
+a) x=16, y=4
 b) x=7, y=13
 c) x=10, y=10
-d) x=16, y=4
+d) x=13, y=7
 
 ---
 
@@ -122,8 +122,8 @@ d) x=16, y=4
 
 **Pregunta 15 (alternativas).** El punto E(4, −6) se transforma mediante una homotecia de centro O(0,0) y factor k=3. ¿Cuáles son las coordenadas de E'?
 
-a) (12, −18)
-b) (7, −3)
+a) (7, −3)
+b) (12, −18)
 c) (12, 18)
 d) (1,33, −2)
 
@@ -200,21 +200,21 @@ d) 1/12
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) 27 (15 − 4×(−3) = 15+12 = 27) | OA 1 | Números y Operaciones |
-| 2 | a) −2 (12 − 16 + 2 = −2, potencia y división antes que suma/resta) | OA 1 | Números y Operaciones |
+| 1 | b) 27 (15 − 4×(−3) = 15+12 = 27) | OA 1 | Números y Operaciones |
+| 2 | d) −2 (12 − 16 + 2 = −2, potencia y división antes que suma/resta) | OA 1 | Números y Operaciones |
 | 3 | paréntesis: 1/3+1/6=1/2; ×3/4=3/8; 3/5−3/8=24/40−15/40=**9/40** | OA 1 | Números y Operaciones |
 | 4 | después de arriendo: 24.000.000×3/4=18.000.000; después de insumos: 18.000.000×3/5=**$10.800.000** | OA 1 | Números y Operaciones |
-| 5 | a) 1/25 (5⁻²=1/5²=1/25) | OA 2 | Números y Operaciones |
+| 5 | b) 1/25 (5⁻²=1/5²=1/25) | OA 2 | Números y Operaciones |
 | 6 | 6⁻²×6⁵=6^(−2+5)=6³=**216** | OA 2 | Números y Operaciones |
 | 7 | 6.400×(1/2)⁴=6.400×1/16=**400 insectos** | OA 2 | Números y Operaciones |
 | 8 | c) x² + 16x + 64 ((x+8)²=x²+2(x)(8)+64) | OA 3 | Álgebra y Funciones |
-| 9 | a) 36x² − 25 ((6x)²−5²=36x²−25) | OA 3 | Álgebra y Funciones |
+| 9 | c) 36x² − 25 ((6x)²−5²=36x²−25) | OA 3 | Álgebra y Funciones |
 | 10 | (x+9)(x+4)=x²+(9+4)x+(9×4)=**x²+13x+36** | OA 3 | Álgebra y Funciones |
 | 11 | a²=25x² (a=5x), b²=64 (b=8): **(5x+8)(5x−8)** | OA 3 | Álgebra y Funciones |
-| 12 | a) x=13, y=7 (sumando: 2x=26, x=13; y=20−13=7) | OA 4 | Álgebra y Funciones |
+| 12 | d) x=13, y=7 (sumando: 2x=26, x=13; y=20−13=7) | OA 4 | Álgebra y Funciones |
 | 13 | restando: (4x−2x)+(3y−3y)=25−17; 2x=8; x=**4**; reemplazando: 2(4)+3y=17; 3y=9; y=**3** | OA 4 | Álgebra y Funciones |
 | 14 | sea a=adulto, i=infantil. Sistema: 2a+i=19.000; a+i=12.000. Restando: a=**$7.000**; reemplazando: 7.000+i=12.000; i=**$5.000** | OA 4 | Álgebra y Funciones |
-| 15 | a) (12, −18) (4×3, −6×3) | OA 8 | Geometría |
+| 15 | b) (12, −18) (4×3, −6×3) | OA 8 | Geometría |
 | 16 | a) 1/3 (k=OP'/OP=3/9=1/3) | OA 8 | Geometría |
 | 17 | F'=(−8×(−1/4), 12×(−1/4))=**(2, −3)**; como el factor es negativo, la imagen queda al **lado opuesto** del centro respecto a la posición original | OA 8 | Geometría |
 | 18 | a) 4 cm (20 km=2.000.000 cm; 2.000.000÷500.000=4 cm) | OA 10 | Geometría |

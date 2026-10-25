@@ -33,8 +33,8 @@ fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/U
 
 **Pregunta 1 (alternativas).** ¿Cuál afirmación describe correctamente el interés simple?
 
-a) los intereses se calculan sobre el capital más los intereses ya acumulados
-b) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal
+a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal
+b) los intereses se calculan sobre el capital más los intereses ya acumulados
 c) el monto crece de forma exponencial en el tiempo
 d) no se puede calcular sin conocer la tasa efectiva anual
 
@@ -43,16 +43,16 @@ d) no se puede calcular sin conocer la tasa efectiva anual
 **Pregunta 2 (alternativas).** Dos bancos ofrecen la misma tasa nominal anual para un depósito: el Banco X capitaliza mensualmente y el Banco Y capitaliza semestralmente. ¿Cuál de los dos tendrá una tasa efectiva anual (TEA) mayor?
 
 a) el Banco Y, porque capitaliza menos veces al año
-b) el Banco X, porque capitaliza más veces al año
+b) no se puede determinar sin conocer el capital depositado
 c) ambos tendrán exactamente la misma TEA
-d) no se puede determinar sin conocer el capital depositado
+d) el Banco X, porque capitaliza más veces al año
 
 ---
 
 **Pregunta 3 (alternativas).** El IPC (Índice de Precios al Consumidor) mide directamente:
 
-a) el valor de la UF cada día
-b) la variación porcentual promedio de los precios de una canasta de bienes y servicios
+a) la variación porcentual promedio de los precios de una canasta de bienes y servicios
+b) el valor de la UF cada día
 c) la tasa de interés que cobran los bancos por sus créditos
 d) el tipo de cambio del dólar respecto al peso
 
@@ -61,9 +61,9 @@ d) el tipo de cambio del dólar respecto al peso
 **Pregunta 4 (alternativas).** Al comparar dos créditos de igual monto y plazo, el indicador más confiable para decidir cuál conviene más es:
 
 a) la tasa de interés anunciada, porque siempre refleja el costo total
-b) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable
+b) el nombre o prestigio de la institución que lo ofrece
 c) el monto total del crédito, sin considerar ninguna tasa
-d) el nombre o prestigio de la institución que lo ofrece
+d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable
 
 ---
 
@@ -199,10 +199,10 @@ d) no es posible calcular porcentajes a partir de una encuesta
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | b) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
-| 2 | b) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
-| 3 | b) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
-| 4 | b) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
+| 1 | a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
+| 2 | d) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
+| 3 | a) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
+| 4 | d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
 | 5 | M = 900.000×(1,04)⁵ ≈ 900.000×1,21665 ≈ **$1.094.990** | OA 1 | Álgebra y Funciones |
 | 6 | TEA = (1+0,20/12)¹²−1 = (1,016667)¹²−1 ≈ 1,2194−1 = **0,2194 ≈ 21,94% efectivo anual** | OA 1 | Álgebra y Funciones |
 | 7 | conviene el **Crédito Q**, porque su CAE (11%) es menor que el del Crédito P (13%); la tasa anunciada por sí sola no incluye comisiones u otros cargos, por lo que no refleja el costo real del crédito | OA 1 | Álgebra y Funciones |

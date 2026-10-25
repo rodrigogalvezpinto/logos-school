@@ -38,17 +38,17 @@ basado_en: >
 **1. (Historia, Geografía y Cs. Sociales — Alternativas)** En la antigua Roma existían dos tipos de vivienda: la **domus**, casa de una familia acomodada, y la **ínsula**, un edificio de varios pisos donde vivían familias más humildes. ¿Con qué tipo de vivienda actual se parece más una ínsula romana?
 
 a) Con una casa de un piso en el campo
-b) Con un edificio de departamentos
+b) Con un templo
 c) Con una carpa de camping
-d) Con un templo
+d) Con un edificio de departamentos
 
 ---
 
 **2. (Matemática — Alternativas)** ¿Cuál número es mayor: 519 o 591?
 
 a) 519
-b) 591
-c) Son iguales
+b) Son iguales
+c) 591
 d) No se puede saber
 
 ---
@@ -78,16 +78,16 @@ El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 **5. (Matemática — Alternativas)** En el número 743, ¿cuánto vale el dígito 4?
 
 a) 4
-b) 40
+b) 743
 c) 400
-d) 743
+d) 40
 
 ---
 
 **6. (Historia, Geografía y Cs. Sociales — Alternativas)** Los **Juegos Olímpicos** nacieron en la antigua Grecia como una competencia deportiva y hoy se siguen realizando cada cuatro años en distintos países del mundo. ¿Qué nos muestra este ejemplo?
 
-a) Que todas las costumbres de la Antigüedad han desaparecido por completo
-b) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma
+a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma
+b) Que todas las costumbres de la Antigüedad han desaparecido por completo
 c) Que los Juegos Olímpicos se inventaron el siglo pasado
 d) Que solo Grecia puede organizar los Juegos Olímpicos
 
@@ -177,7 +177,7 @@ Si quisieras saber rápidamente por qué este animal es importante para el ecosi
 
 a) "¿Dónde vive?"
 b) "¿De qué se alimenta?"
-c) "Una especie en peligro"
+c) "Una especie a proteger"
 d) "Glosario"
 
 ---
@@ -238,19 +238,19 @@ d) El derecho a la nacionalidad
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Historia, Geografía y Cs. Sociales | **b) Con un edificio de departamentos.** | OA 3 |
-| 2 | Matemática | **b) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
+| 1 | Historia, Geografía y Cs. Sociales | **d) Con un edificio de departamentos.** | OA 3 |
+| 2 | Matemática | **c) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
 | 3 | Ciencias Naturales | Cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte; la araucaria necesita el clima frío y lluvioso del sur. | OA 2 |
 | 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
-| 5 | Matemática | **b) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
-| 6 | Historia, Geografía y Cs. Sociales | **b) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
+| 5 | Matemática | **d) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
+| 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
 | 7 | Ciencias Naturales | Reutilizar es volver a usar un objeto para el mismo fin u otro distinto, sin procesarlo; se acepta cualquier ejemplo razonable. | OA 5 |
 | 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
 | 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
 | 10 | Matemática | 9×6=**54 botellas**. | OA 8 |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
 | 12 | Ciencias Naturales | Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos reguladores como frutas o verduras. | OA 6 |
-| 13 | Lenguaje y Comunicación | **La sección "Un animal muy adaptable" (o similar que describa su rol ecológico/dieta variada) permite entender su importancia como controlador de roedores sin leer todo el texto.** | OA 6 |
+| 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
 | 14 | Matemática | 2350÷5=**$470 cada uno**. | OA 10 |
 | 15 | Historia, Geografía y Cs. Sociales | Cualquier estrategia real y coherente con la zona fría (vivienda muy aislada como el iglú, ropa abrigada de pieles, alimentación basada en caza y pesca, entre otras). | OA 8 |
 | 16 | Ciencias Naturales | El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. Se acepta cualquier ejemplo coherente. | OA 10 |

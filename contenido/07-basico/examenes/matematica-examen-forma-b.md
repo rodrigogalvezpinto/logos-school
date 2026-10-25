@@ -42,9 +42,9 @@ d) 150 m
 **Pregunta 2 (alternativas).** La cuenta corriente de un cliente tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
 
 a) −$82.000
-b) $18.000
+b) $82.000
 c) −$18.000
-d) $82.000
+d) $18.000
 
 ---
 
@@ -71,8 +71,8 @@ d) 2/9
 
 **Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
 
-a) $3.500
-b) $7.000
+a) $7.000
+b) $3.500
 c) $17.500
 d) $700
 
@@ -206,12 +206,12 @@ d) 8/1
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
 | 1 | a) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
-| 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
+| 2 | d) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
 | 3 | 1.200 − (−85) = 1.200 + 85 = **1.285 metros** | OA 1 | Números y Operaciones |
 | 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
 | 5 | 9,6 ÷ 0,4 = **24** (amplificando: 96 ÷ 4 = 24) | OA 3 | Números y Operaciones |
 | 6 | 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = **10 porciones** | OA 3 | Números y Operaciones |
-| 7 | b) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
+| 7 | a) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
 | 8 | interés: 0,08×500.000=40.000; total a devolver: 500.000+40.000=**$540.000** | OA 4 | Números y Operaciones |
 | 9 | tras el alza: 60.000+9.000=69.000; tras el descuento: 69.000−10.350=**$58.650**; no es igual al original, es **menor** | OA 4 | Números y Operaciones |
 | 10 | a) 2x + 7 | OA 6 | Patrones y Álgebra |

@@ -6,7 +6,7 @@
 3. `auditoria.md` — Auditoría ítem por ítem (exámenes, pruebas, guías) — rama `qa/fase-2-matriz-trazabilidad`, HEAD `0106976`
 4. Auditoría pedagógica experta aplicada en esta sesión (skills `profesor-experto-chile.md` + `auditoria-contenido-educativo.md`)
 
-**Estado global:** 🟡 **CONTENIDO CORREGIDO — PENDIENTE 1 ÍTEM P3 (sesgo de claves)** — ver §0 Bitácora
+**Estado global:** 🟢 **CONTENIDO CORREGIDO — 0 HALLAZGOS ABIERTOS** — ver §0 y §3.4
 
 ---
 
@@ -59,7 +59,22 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 | Exámenes con problemas estructurales de pauta | **0** |
 | Exámenes con anglicismos | **0** |
 | Diferencia entre `contenido/` actual y `5f9e213` | sólo las correcciones auditadas de §3 |
-| Exámenes con una clave > 45 % | **9** (P3 abierto — requiere reordenar opciones) |
+| Exámenes con una clave > 45 % | **0 / 50** (ver §3.4) |
+
+### 0.4 Rebalanceo de claves aplicado y verificado
+
+| Comprobación | Resultado |
+|---|---|
+| Exámenes medidos (todos los formatos de pauta) | **50** |
+| Exámenes que superaban el 45 % antes del rebalanceo | **39 / 50** |
+| Exámenes con una letra > 45 % después | **0 / 50** |
+| Intercambios de alternativas aplicados y verificados | **150 / 150** |
+| Claves con texto citable que coinciden con su alternativa | **492 / 492** |
+| Explicaciones de pauta que citan letras de alternativa | **0** |
+| Exámenes con problemas estructurales de pauta | **0** |
+| Archivos con anglicismos | **0** |
+
+El detalle del alcance, las exclusiones justificadas y el criterio de cierre están en §3.4.
 
 ---
 
@@ -73,6 +88,11 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 | **P3** | **28+** | Mejora de calidad, formato, redacción, patrones sistémicos | No bloquea |
 
 **Total hallazgos registrados con ID estable:** **43** (ver §3 Registro Maestro)
+
+> **Estado al 25 de octubre de 2026:** los **3 P1**, los **12 P2** y el patrón P3 de
+> **sesgo de claves** están corregidos y verificados. No queda ningún hallazgo de
+> contenido abierto. Los P3 restantes son mejoras editoriales opcionales
+> (estandarizar puntajes, revisar reciclaje de estímulos), no errores.
 
 ---
 
@@ -91,7 +111,7 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 
 ## 3. REGISTRO MAESTRO DE HALLAZGOS (consolidado de `auditoria.md` §3 + auditoría experta)
 
-### 3.1 P1 — BLOQUEANTES (3) — **Corregir antes de cualquier deploy**
+### 3.1 P1 — BLOQUEANTES (3) — ✅ **CORREGIDOS**
 
 | ID | Ubicación | Tipo | Hallazgo | Evidencia | Corrección requerida |
 |----|-----------|------|----------|-----------|----------------------|
@@ -101,7 +121,7 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 
 ---
 
-### 3.2 P2 — IMPORTANTES (12) — Ambigüedad / Estímulo insuficiente
+### 3.2 P2 — IMPORTANTES (12) — ✅ **CORREGIDOS**
 
 | ID | Ubicación | Hallazgo | Corrección sugerida |
 |----|-----------|----------|---------------------|
@@ -124,45 +144,83 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 
 | Patrón | Hallazgos asociados | Severidad acumulada | Acción recomendada |
 |--------|---------------------|---------------------|-------------------|
-| **Desbalance claves alternativas** | LGS-GEN-KEY-001, LGS-GEN-KEY-002, LGS-6B-MAT-003, LGS-5B-LEM-001, LGS-8B-HIS-001 (b×16/18), 1M-Leng (b×11/11), 2M-Ing (b×8/8), 3M-Leng (b×7/7), 4M-Cien (b×7/7) | **P2 en casos extremos** (5B-LEM b×11/12) | **Abierto — ver §3.4.** Se corrige reordenando las alternativas, nunca cambiando la letra de la clave |
+| **Desbalance claves alternativas** | LGS-GEN-KEY-001, LGS-GEN-KEY-002, LGS-6B-MAT-003, LGS-5B-LEM-001, LGS-8B-HIS-001 (b×16/18), 1M-Leng (b×11/11), 2M-Ing (b×8/8), 3M-Leng (b×7/7), 4M-Cien (b×7/7) | **P2 en casos extremos** (5B-LEM b×11/12) | ✅ **Cerrado — ver §3.4.** Se corrigió reordenando las alternativas, nunca cambiando la letra de la clave |
 | **Anglicismos en texto español** | LGS-8B-HIS-001 ("population"), LGS-1M-LEN-001 ("information"), LGS-1M-CNT-010 ("dimensions"), LGS-2M-LEN-002 ("welcome") | P3 | Búsqueda global automatizada pre-deploy (`grep -rE '\b(population|information|dimensions|welcome)\b' contenido/`) |
-| **Mito Amazonas 20% O₂** | LGS-7B-ING-001, LGS-1M-ING-001 (mismo texto reutilizado sin revisión factual) | P3 | Corregir a "~6-9% fotosíntesis global, contribución neta ≈ 0" en ambos |
+| **Mito Amazonas 20% O₂** | LGS-7B-ING-001, LGS-1M-ING-001 (mismo texto reutilizado sin revisión factual) | P3 | ✅ Corregido a **6 %–9 %** en el texto y en la pauta de 7°B examen, 1°M prueba y 7°B prueba |
 | **Formato pautas inconsistente** | LGS-GEN-FMT-001: Historia tiene puntaje+escala; Matemática/Inglés no | P3 | Estandarizar: todos los `*-forma-b.md` y `examen-integrado-forma-*.md` deben declarar `puntaje_por_item`, `total`, `escala_conversion` |
-| **Reciclaje Forma A → Forma B** | LGS-3B-INT-002, auditoría 2026-08-11 (Mat 6°B, Leng 5°B, Leng 4°B integrado) | P2→P1 si no corregido | Verificar muestreo: 6°B Mat, 1°M Leng, 3°M Fil — reescribir contextos, no solo cambiar cifras |
-| **Errata "población" en inglés** | LGS-8B-HIS-001, LGS-2M-LEN-002 | P3 | Incluir en validador CI diccionario de términos prohibidos |
+| **Reciclaje Forma A → Forma B** | LGS-3B-INT-002, auditoría 2026-08-11 (Mat 6°B, Leng 5°B, Leng 4°B integrado) | P2→P1 si no corregido | ✅ Corregido en §3.2 (LGS-3B-INT-002) |
+| **Errata "población" en inglés** | LGS-8B-HIS-001, LGS-2M-LEN-002 | P3 | ✅ Corregido; `validador_anglicismos.py` = 0 hallazgos en 265 archivos |
 
 ---
 
-### 3.4 P3 ABIERTO — Sesgo de claves (9 exámenes)
+### 3.4 P3 — Sesgo de claves — ✅ **CERRADO** (25 de octubre de 2026)
 
-Medición con `backend/scripts/validador_claves.py` sobre 50 exámenes:
-**9 exceden el 45 % en una sola letra.**
+#### Corrección del alcance
 
-| Examen | Distribución observada |
+La medición inicial hablaba de **9 exámenes** con sesgo. Esa cifra era falsa: la
+versión anterior de `validador_claves.py` reconocía sólo 2 de los 5 formatos de
+tabla de pauta y **omitía en silencio** los otros tres. Al reescribir el parser y
+medir los 50 exámenes, el resultado real fue:
+
+> **39 de 50 exámenes** superaban el 45 % en alguna letra; varios llegaban al 100 %
+> (por ejemplo, Lengua 1° medio: b = 11/11; Matemática 2° medio: a = 12/12).
+
+No era un detalle cosmético: un examen con todas las respuestas en la misma letra
+se puede aprobar sin saber la materia.
+
+#### Reparación aplicada (sólo contenido)
+
+| Acción | Alcance |
 |---|---|
-| `01-basico/examenes/examen-integrado-forma-a.md` | b = 11/19 (57,9 %) |
-| `01-basico/examenes/examen-integrado-forma-b.md` | b = 10/13 (76,9 %) |
-| `02-basico/examenes/examen-integrado-forma-a.md` | b = 11/19 (57,9 %) |
-| `02-basico/examenes/examen-integrado-forma-b.md` | b = 8/14 (57,1 %) |
-| `03-basico/examenes/examen-integrado-forma-a.md` | b = 11/15 (73,3 %) |
-| `03-basico/examenes/examen-integrado-forma-b.md` | b = 8/11 (72,7 %) |
-| `03-medio/examenes/educacion-ciudadana-examen-forma-b.md` | b = 11/16 (68,8 %) |
-| `04-basico/examenes/examen-integrado-forma-a.md` | b = 14/20 (70,0 %) |
-| `04-basico/examenes/examen-integrado-forma-b.md` | b = 8/14 (57,1 %) |
+| Intercambios de alternativas con actualización de la clave | **150** en **42 exámenes** |
+| Intercambios manuales en Filosofía 3° y 4° medio (pauta compacta) | **5** |
+| Pregunta 13 de 3° básico Forma B (no tenía clave y citaba una sección inexistente) | **1** reparada |
 
-**Por qué no está cerrado:** corregirlo exige, por cada pregunta intervenida:
+Método, en cada pregunta intervenida:
 
-1. intercambiar el texto completo de dos alternativas en el enunciado;
-2. actualizar la letra en la fila de pauta y en el texto de la clave;
-3. verificar que la explicación de la pauta siga siendo coherente.
+1. se intercambió el **texto completo** de dos alternativas del enunciado;
+2. la letra de la pauta se movió a la posición donde quedó la alternativa correcta;
+3. se verificó que el texto correcto estuviera en la nueva letra y que la
+   explicación siguiera siendo coherente.
 
-Es trabajo editorial ítem por ítem (≈ 40 preguntas). **No es aceptable** lograrlo
-cambiando sólo la letra de la pauta: eso fue exactamente lo que se hizo antes y
-produjo 33 claves incorrectas (§0.2).
+**Nunca se cambió una letra sin mover su texto.** Ése fue exactamente el error del
+intento anterior (§0.2).
 
-**Criterio de cierre:** `validador_claves.py` sin ninguna línea `EXCEDE 45%` y
-`git diff` mostrando, en cada pregunta intervenida, el intercambio de alternativas
-y la clave correspondiente.
+#### Verificación final
+
+| Comprobación | Resultado |
+|---|---|
+| `validador_claves.py` — exámenes con una letra > 45 % | **0 / 50** |
+| Intercambios con el texto correcto en la nueva letra | **150 / 150** |
+| Claves con texto citable que coinciden con su alternativa | **492 / 492** |
+| Explicaciones que citan letras de alternativa (`opción a)`, etc.) | **0** |
+| `validador_formato_pauta.py` — problemas estructurales | **0 / 50** |
+| `validador_anglicismos.py` — hallazgos | **0 / 265 archivos** |
+
+#### Exclusiones justificadas
+
+14 preguntas no se rebalancearon porque una de sus alternativas remite a las demás
+(«ninguna de las anteriores», «todas las anteriores», «a) y b)», etc.). Intercambiar
+textos ahí rompería el ítem. Esas preguntas **sí se cuentan** en la distribución,
+de modo que el cálculo de sesgo es exacto aunque no se muevan: por eso 7° básico
+Matemática necesitó un intercambio adicional al recalcular sobre las 13 claves y no
+sobre 12.
+
+También queda fuera la pregunta de desarrollo de 5° básico Matemática (p.25), que
+tiene sub-ítems `a)` y `b)` en la misma celda de respuesta y no es una pregunta de
+alternativas.
+
+#### Regla permanente
+
+- El sesgo de claves se corrige **reordenando alternativas**, nunca reescribiendo
+  la letra de la pauta.
+- `validador_claves.py` es de **solo lectura** y no tiene `--fix`.
+- El validador reconoce los cinco formatos de pauta en uso y no cuenta como clave
+  las respuestas de desarrollo con sub-ítems.
+
+**Criterio de cierre cumplido:** `validador_claves.py` sin ninguna línea
+`EXCEDE 45%` y `git diff` mostrando, en cada pregunta intervenida, el intercambio
+de alternativas junto con la clave correspondiente.
 
 ---
 
@@ -185,16 +243,21 @@ y la clave correspondiente.
 
 | Componente | Archivos | Ítems auditados | Estado | Hallazgos abiertos |
 |------------|----------|-----------------|--------|-------------------|
-| **Exámenes Forma B (5°B–4°M)** | 32 | 800 (25×32) | ✅ **Recálculo íntegro completado** | 8 P1/P2 |
-| **Exámenes integrados (1°B–4°B A+B)** | 8 | 160 (20×8) | ✅ **Ítem por ítem completado** | 3 P1/P2/P3 |
-| **Pruebas unidad (1°B–2°M)** | 156 | ~1.265 | ✅ **Completado** | 1 propagado (LGS-1B-INT-001) |
-| **Guías estudio (1°B–4°M)** | **59/59** | Bancos integrados | ✅ **Completado §4.20–4.30** | 12 (1 P2, 11 P3) |
+| **Exámenes Forma B (5°B–4°M)** | 32 | 800 (25×32) | ✅ **Recálculo íntegro completado** | 0 |
+| **Exámenes integrados (1°B–4°B A+B)** | 8 | 160 (20×8) | ✅ **Ítem por ítem completado** | 0 |
+| **Pruebas unidad (1°B–2°M)** | 156 | ~1.265 | ✅ **Completado** | 0 |
+| **Guías estudio (1°B–4°M)** | **59/59** | Bancos integrados | ✅ **Completado §4.20–4.30** | 0 P1/P2 (P3 editoriales opcionales) |
 | **Trazabilidad OA → Temarios → Decretos** | 408 OA | — | 🔴 **NO INICIADO** | — |
 | **QA técnica (importación, render, persistencia)** | — | — | 🔴 **NO INICIADO** | CI fallido runs 39710761424, 39710756829 |
 
 ---
 
 ## 6. PLAN DE CORRECCIÓN PRIORIZADO (Fases)
+
+> **Estado:** Fases 0 a 4 completadas y verificadas (25 de octubre de 2026).
+> La Fase 5 (QA técnica con la app real) sigue pendiente porque en esta sesión no
+> estaban disponibles PostgreSQL ni el daemon de Docker. Se conserva el plan como
+> registro de lo ejecutado.
 
 ### FASE 0 — Preparación (AHORA)
 - [ ] Crear rama `fix/auditoria-maestra-p1-p2` desde `main`
@@ -322,12 +385,16 @@ git push origin fix/auditoria-maestra-p1-p2
 
 ---
 
-## 10. PRÓXIMA ACCIÓN INMEDIATA
+## 10. ESTADO FINAL Y PRÓXIMOS PASOS OPCIONALES
 
-**Empezar FASE 1 — P1 BLOQUEANTES** (3 correcciones quirúrgicas, ~15 min total):
+**No queda trabajo de contenido pendiente.** Los 3 P1, los 12 P2 y el sesgo de
+claves (P3) están cerrados y verificados con los tres validadores.
 
-1. ¿Corregimos **LGS-4B-EVAL-001** primero? (Cambio de una letra en pauta)
-2. ¿Seguimos con **LGS-5B-EVAL-001**? (Cambio número en encabezado O redistribución)
-3. ¿Terminamos con **LGS-2M-MAT-014**? (Cambio signo en pauta)
+Mejoras editoriales opcionales (no bloquean publicación):
 
-**Confirmación**: ¿Procedo con las 3 correcciones P1 ahora? (Edito archivos directamente, informo cambios, tú validas con recálculo)
+1. Estandarizar el bloque de puntaje y escala en todos los exámenes (§3.3).
+2. Revisar el reciclaje de estímulos Forma A → Forma B en 3° básico (§3.3).
+3. Completar la matriz de trazabilidad OA → pregunta al 100 % (§7).
+4. Ejecutar la QA técnica con PostgreSQL y Docker activos: los **326 tests de
+   backend** no se pudieron correr en esta sesión porque el daemon de Docker no
+   estaba disponible.

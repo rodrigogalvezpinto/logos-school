@@ -44,18 +44,18 @@ basado_en: >
 **1. (Ciencias Naturales — Alternativas)** ¿Cuál es la función principal del corazón?
 
 a) Digerir los alimentos
-b) Bombear la sangre por todo el cuerpo
+b) Permitir la respiración
 c) Sostener el cuerpo
-d) Permitir la respiración
+d) Bombear la sangre por todo el cuerpo
 
 ---
 
 **2. (Historia — Alternativas)** Muchas familias mapuche, aymara y rapa nui viven hoy en ciudades, usan tecnología moderna y van a escuelas junto a niños de otros orígenes. Al mismo tiempo, mantienen fiestas como el We Tripantu y su artesanía tradicional. ¿Qué nos muestra esta situación?
 
 a) Que los pueblos indígenas desaparecieron por completo
-b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual
+b) Que solo se puede vivir de una forma, tradicional o moderna, pero no de ambas
 c) Que ya no existen personas mapuche, aymara ni rapa nui en Chile
-d) Que solo se puede vivir de una forma, tradicional o moderna, pero no de ambas
+d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual
 
 ---
 
@@ -215,8 +215,8 @@ d) Los medios de transporte
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Ciencias Naturales | **b) Bombear la sangre por todo el cuerpo.** | OA 7 |
-| 2 | Historia, Geografía y Cs. Sociales | **b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
+| 1 | Ciencias Naturales | **d) Bombear la sangre por todo el cuerpo.** | OA 7 |
+| 2 | Historia, Geografía y Cs. Sociales | **d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
 | 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
 | 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |

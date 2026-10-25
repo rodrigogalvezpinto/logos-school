@@ -32,10 +32,10 @@ observación: Forma B — versión alternativa a la Forma A (/05-basico/pruebas/
 
 **Pregunta 1 (alternativas).** En el número **5.847.900**, ¿cuál es el valor posicional del dígito 8?
 
-a) Centena de mil
+a) Decena de millón
 b) Decena de mil
 c) Unidad de millón
-d) Decena de millón
+d) Centena de mil
 
 ---
 
@@ -45,9 +45,9 @@ d) Decena de millón
 
 **Pregunta 3 (alternativas).** Calcula: 52 × 38 = ?
 
-a) 1.976
+a) 2.016
 b) 1.896
-c) 2.016
+c) 1.976
 d) 1.886
 
 ---
@@ -209,9 +209,9 @@ Muestra tu desarrollo para la parte b).
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) Centena de mil | OA 1 | Números y Operaciones |
+| 1 | d) Centena de mil | OA 1 | Números y Operaciones |
 | 2 | 89.500 < 908.005 < 980.050 < 980.500; el mayor (980.500) = 900.000 + 80.000 + 500 | OA 1 | Números y Operaciones |
-| 3 | a) 1.976 | OA 3 | Números y Operaciones |
+| 3 | c) 1.976 | OA 3 | Números y Operaciones |
 | 4 | 18 × 26 = 468 productos | OA 3 | Números y Operaciones |
 | 5 | a) Cociente 37, resto 2 | OA 4 | Números y Operaciones |
 | 6 | 245 ÷ 9 = 27, resto 2 → se necesita un bus más: 28 buses | OA 4 | Números y Operaciones |

@@ -37,8 +37,8 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 **1.** *(Selección múltiple)* Read: *"Sofía can ride a bike, but she can't swim."*
 What can't Sofía do?
 
-a) Ride a bike
-b) Swim
+a) Swim
+b) Ride a bike
 c) Cook
 d) Dance
 
@@ -68,16 +68,16 @@ English: eight ___."*
 flour. Bake for 30 minutes."* What kind of text is this?
 
 a) A postcard
-b) A recipe
+b) A menu
 c) An advertisement
-d) A menu
+d) A recipe
 
 **7.** *(Selección múltiple)* Read: *"Hi Camila, I can't go to school today. I
 have a cough and a fever. See you soon, Valentina."* Why can't Valentina go to
 school?
 
-a) She is on vacation
-b) She is sick
+a) She is sick
+b) She is on vacation
 c) She has to work
 d) It is a holiday
 
@@ -191,13 +191,13 @@ apples?*
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Swim | OA5 |
+| 1 | a) Swim | OA5 |
 | 2 | c) Between the museum and the bank | OA5 |
 | 3 | can / can't | OA5 |
 | 4 | She had lunch at school. | OA5 |
 | 5 | o'clock | OA5 |
-| 6 | b) A recipe | OA6 |
-| 7 | b) She is sick | OA6 |
+| 6 | d) A recipe | OA6 |
+| 7 | a) She is sick | OA6 |
 | 8 | have | OA6 |
 | 9 | It is $3.000. / The chicken with rice is $3.000. | OA6 |
 | 10 | True (Verdadero) — el texto ofrece productos y horario de un lugar, es un aviso publicitario. | OA6 |

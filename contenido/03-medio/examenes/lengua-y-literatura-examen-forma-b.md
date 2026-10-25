@@ -35,8 +35,8 @@ relacionado_con: contenido/03-medio/pruebas/lengua-y-literatura-prueba.md (Forma
 
 **1. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
 
-a) Símil
-b) Personificación
+a) Personificación
+b) Símil
 c) Hipérbaton
 d) Anáfora
 
@@ -47,8 +47,8 @@ d) Anáfora
 **4. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
 
 a) Porque el autor no logró desarrollar mejor al personaje
-b) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor
-c) Porque el padre es un personaje secundario sin relevancia en la trama
+b) Porque el padre es un personaje secundario sin relevancia en la trama
+c) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor
 d) Porque el relato está escrito en tercera persona omnisciente
 
 **5. (Desarrollo breve — aplicación)** Elige otra obra literaria o película que conozcas en la que el trabajo o el sacrificio de una generación se transmita, se transforme o se herede en la siguiente, y establece una relación de sentido con "Las manos de mi padre": explica tanto una semejanza como una diferencia entre ambas obras.
@@ -70,9 +70,9 @@ d) Porque el relato está escrito en tercera persona omnisciente
 **7. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
 
 a) Profundizar en un tema combinando testimonio, datos y contraste de versiones
-b) Informar un hecho puntual en pocas líneas, sin desarrollo posterior
+b) Presentar el testimonio de una persona afectada por el fenómeno descrito
 c) Incluir cifras de fuentes institucionales
-d) Presentar el testimonio de una persona afectada por el fenómeno descrito
+d) Informar un hecho puntual en pocas líneas, sin desarrollo posterior
 
 **8. (Verdadero o Falso, con justificación)** "El reportaje afirma de manera explícita y categórica que las empresas de delivery mienten sobre la flexibilidad que ofrecen a sus trabajadores." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
 
@@ -80,8 +80,8 @@ d) Presentar el testimonio de una persona afectada por el fenómeno descrito
 
 **10. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
 
-a) Porque no tiene ninguna relevancia para el tema del reportaje
-b) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
+a) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
+b) Porque no tiene ninguna relevancia para el tema del reportaje
 c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores
 d) Porque todos los repartidores en Chile son extranjeros
 
@@ -162,16 +162,16 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** Personificación: atribuir a la montaña la acción humana de "devorar" le otorga un poder casi mítico sobre la vida de los trabajadores. | OA N°1 — figura literaria |
+| 1 | **a)** Personificación: atribuir a la montaña la acción humana de "devorar" le otorga un poder casi mítico sobre la vida de los trabajadores. | OA N°1 — figura literaria |
 | 2 | **Falso.** Formular una hipótesis de sentido exige relacionar los recursos literarios entre sí y usarlos como evidencia de una interpretación propia sobre el sentido global de la obra, no solo enumerarlos por separado. | OA N°1 — hipótesis de sentido |
 | 3 | El contraste entre el habla cotidiana del padre y la prosa elaborada de la narradora al describirlo acerca el relato a la experiencia familiar concreta, sin renunciar a la densidad simbólica necesaria para transmitir la magnitud del sacrificio paterno; ese doble registro refleja también la distancia entre la voz sobria del padre y la mirada interpretativa de la hija. | OA N°1 — características del lenguaje |
-| 4 | **b)** Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor. | OA N°1 — narrador y personajes |
+| 4 | **c)** Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor. | OA N°1 — narrador y personajes |
 | 5 | Cualquier obra pertinente relacionada explicando un punto de encuentro y una diferencia de sentido con "Las manos de mi padre" (siguiendo el mismo tipo de análisis usado en clase con *Sub terra* o *Nostalgia de la luz*). | OA N°1 — relaciones intertextuales (aplicación) |
 | 6 | Debe explicar que la lectura del compañero es incompleta porque el final no es un dato anecdótico, sino el cierre de un paralelismo construido a lo largo de todo el relato (manos del padre / manos de la hija); la estructura circular —abrir y cerrar con la imagen de las manos— es evidencia textual concreta que sustenta una hipótesis de sentido más profunda: que el sacrificio físico del padre se transforma en una herencia simbólica distinta. | OA N°1 — hipótesis de sentido y estructura (integrada) |
-| 7 | **b)** Informar un hecho puntual en pocas líneas, sin desarrollo posterior, es propio de la noticia breve; el reportaje se distingue por profundizar con mayor variedad de fuentes. | OA N°3 — género discursivo |
+| 7 | **d)** Informar un hecho puntual en pocas líneas, sin desarrollo posterior, es propio de la noticia breve; el reportaje se distingue por profundizar con mayor variedad de fuentes. | OA N°3 — género discursivo |
 | 8 | **Falso.** El reportaje no hace esa afirmación directa; construye su crítica a través de la yuxtaposición de datos, la declaración de las empresas y el testimonio de Ronald, dejando que el lector llegue a esa conclusión por sí mismo. | OA N°3 — razonamiento del discurso |
 | 9 | Las cifras de la Subsecretaría del Trabajo y del estudio de la Universidad de Chile son verificables porque provienen de fuentes institucionales identificables; en cambio, la afirmación de las empresas sobre el 78% depende únicamente de sus propios comunicados, sin que el reportaje pueda contrastarla de forma independiente. | OA N°3 — veracidad de la información |
-| 10 | **b)** Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile. | OA N°3 — contexto sociocultural |
+| 10 | **a)** Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile. | OA N°3 — contexto sociocultural |
 | 11 | Se seleccionó la versión oficial de las empresas (flexibilidad horaria, 78%) para contrastarla con la experiencia concreta de Ronald, quien muestra que esa flexibilidad convive con factores que escapan a su control; el contraste cumple el propósito de cuestionar, sin afirmarlo directamente, qué tan real es el beneficio que las empresas destacan. | OA N°3 — función de la información seleccionada |
 | 12 | Debe explicar que cambiaría el modo de presentar la información (imágenes, sonido ambiente, voz en off, propio de las convenciones del género audiovisual), mientras que se mantendría la relevancia del tema para la misma audiencia chilena preocupada por la precariedad laboral y las plataformas digitales, independientemente del soporte elegido. | OA N°3 — género y contexto sociocultural (integrada) |
 | 13 | **b)** Par que valida la organización estudiantil desde su propia experiencia como docente de otro establecimiento. | OA N°4 — rol del enunciador |
