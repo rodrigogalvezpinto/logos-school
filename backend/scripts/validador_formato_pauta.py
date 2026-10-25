@@ -69,8 +69,8 @@ Esta versión evalúa exactamente los mismos OA y la misma distribución por eje
 
 def parsear_pauta_existente(contenido: str) -> Optional[Dict]:
     """Intenta extraer información de una pauta existente (heurística)."""
-    # Buscar sección de pauta
-    match_pauta = re.search(r'## PAUTA DE CORRECCI[OÓ]N.*?(?=## |\Z)', contenido, re.DOTALL | re.IGNORECASE)
+    # Buscar sección de pauta (acepta # o ##)
+    match_pauta = re.search(r'#{1,2}\s*PAUTA DE CORRECCI[OÓ]N.*?(?=#{1,2} |\Z)', contenido, re.DOTALL | re.IGNORECASE)
     if not match_pauta:
         return None
     
@@ -84,7 +84,7 @@ def parsear_pauta_existente(contenido: str) -> Optional[Dict]:
     
     # Analizar tipos de pregunta desde el contenido del examen
     # Buscar patrón de preguntas en el examen
-    exam_match = re.search(r'## PREGUNTAS.*?(?=## |\Z)', contenido, re.DOTALL)
+    exam_match = re.search(r'#{1,2}\s*PREGUNTAS.*?(?=#{1,2} |\Z)', contenido, re.DOTALL)
     exam_texto = exam_match.group(0) if exam_match else contenido
     
     # Contar tipos
@@ -292,8 +292,8 @@ def estandarizar_archivo(ruta: Path, dry_run: bool = False) -> Tuple[int, str]:
     pauta_nueva = generar_pauta_estandar(info, contenido)
     
     # Reemplazar sección de pauta existente
-    # Buscar desde "## PAUTA DE CORRECCIÓN" hasta final o próximo "## "
-    patron_pauta = re.compile(r'(## PAUTA DE CORRECCI[OÓ]N.*?)(?=## |\Z)', re.DOTALL | re.IGNORECASE)
+    # Buscar desde "# PAUTA DE CORRECCIÓN" o "## PAUTA DE CORRECCIÓN" hasta final o próximo "## " o "# "
+    patron_pauta = re.compile(r'(#{1,2}\s*PAUTA DE CORRECCI[OÓ]N.*?)(?=#{1,2} |\Z)', re.DOTALL | re.IGNORECASE)
     
     def reemplazo(match):
         return pauta_nueva

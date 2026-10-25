@@ -204,37 +204,59 @@ d) Usar únicamente evidencia no literaria, evitando cualquier cita literaria
 
 ---
 
-# PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Lengua y Literatura — 2° medio — Forma B
 
-| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
-|----|------------------------------------------|-----------------------------------|
-| 1 | **b)** La curiosidad por entender el silencio de su padre frente a un objeto heredado. | OA N°3 — conflicto central |
-| 2 | **Falso.** El papel incluye dos escrituras distintas, de dos personas y momentos diferentes: la nota original de R. Ordóñez fechada en 1968, y un agregado posterior, con "otra tinta y una letra más temblorosa", escrito "mucho después". | OA N°3 — extracción de información explícita e implícita |
-| 3 | R. Ordóñez le advierte a Waldo que suba solo, sin esperar a los demás, porque sentía que la mina "crujía distinto"; Waldo no le hace caso y muere en el derrumbe. La advertencia no escuchada se convierte en la causa directa del desenlace trágico, y en la razón por la que R. Ordóñez conserva el reloj como una carga de la que no pudo desprenderse. | OA N°3 — análisis de personajes (dichos y consecuencias) |
-| 4 | El indicio es que el padre de Tomás guarda un reloj que "nunca usaba" y que se negó a arreglar "a propósito", además de decir que "algún día" le contaría la historia; estos detalles anticipan, antes de leer la nota, que el reloj esconde algo doloroso no resuelto, generando expectativa en el lector. | OA N°3 — efecto del indicio |
-| 5 | Debe explicar que presentar la historia de la mina como una nota intercalada, escrita por otra persona (R. Ordóñez) y descubierta por Tomás al mismo tiempo que el lector, produce un efecto de revelación progresiva y mayor verosimilitud que si un narrador omnisciente contara de entrada lo ocurrido con Waldo; y relacionar el relato con una obra pertinente sobre memoria del trabajo minero (por ejemplo, *Sub Terra* de Baldomero Lillo), explicando que ambos textos comparten la idea de que la muerte de un trabajador queda como una deuda moral que alguien de otra generación debe finalmente reconocer. | OA N°3 — narrador/recurso narrativo y relación intertextual (integrada) |
-| 6 | **b)** La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia. | OA N°5 — conflicto central |
-| 7 | **b)** El manzano. | OA N°5 — símbolo |
-| 8 | La luz que se apaga hasta quedar solo un resplandor sobre las manzanas más altas concentra visualmente la atención en el fruto del árbol —resultado de décadas de esfuerzo familiar— justo en el momento en que la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida inminente sin necesidad de palabras adicionales. | OA N°5 — elementos de la puesta en escena |
-| 9 | Debe explicar que don Segundo cuestiona la idea de que el valor de la tierra se mide únicamente por su rendimiento productivo en metros cúbicos de madera, tensión vigente en zonas rurales chilenas afectadas por la expansión de plantaciones forestales de pino y eucalipto; y señalar que la escena dialoga con obras de la narrativa rural chilena que abordan el desplazamiento del campesinado frente a la industria forestal (por ejemplo, cuentos de tradición realista sobre el mundo campesino del sur de Chile), compartiendo la idea de la tierra como memoria familiar amenazada por una lógica puramente comercial. | OA N°5 — creencias/época y relación intertextual (integrada) |
-| 10 | **b)** El Wetripantu o Año Nuevo mapuche. | OA N°8 — antecedente cultural |
-| 11 | **Falso.** El texto indica lo contrario: aun en la ciudad, el tío "buscaba siempre un patio, una plaza, algún lugar con tierra donde encender un fuego pequeño esa noche, aunque fuera a escondidas de los vecinos", mostrando que mantuvo la ceremonia adaptada al nuevo contexto urbano. | OA N°8 — antecedente cultural y visión de mundo |
-| 12 | Por ejemplo: "no sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia", o bien "seguramente fue solo el frío y el sueño", frases que reconocen la incertidumbre sin restarle valor emocional a la ceremonia. | OA N°8 — hipótesis fundamentada con citas |
-| 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente, y la relación explícita entre el Wetripantu y el proceso histórico de migración de comunidades mapuche desde el campo hacia ciudades como Temuco. | OA N°8 — interpretación literaria integrada |
-| 14 | **b)** El uso libre del celular durante el recreo debilita el vínculo presencial entre estudiantes, por lo que se deben promover espacios y actividades que no dependan de una pantalla. | OA N°9 — tesis del autor |
-| 15 | **a)** Metáfora e hipérbole combinadas. | OA N°9 — figura retórica |
-| 16 | Corresponde a una pendiente resbaladiza (generalización apresurada): el autor pasa de un hecho puntual (mirar el celular en el recreo) a una consecuencia extrema y no demostrada (perder para siempre la capacidad de sostener una comunidad presencial sana), sin evidencia que sustente esa cadena de consecuencias. | OA N°9 — fallas de argumentación |
-| 17 | Debe presentar una postura propia razonada con al menos un argumento; y explicar que calificar la comparación con el libro como "simplista", junto con presentar como certeza absoluta que "ya no hay vuelta atrás", puede hacer que un lector crítico perciba el texto como parcial, generando desconfianza en vez de persuadirlo, especialmente si esas expresiones reemplazan evidencia concreta. | OA N°9 — postura personal y evaluación de recursos léxicos (integrada) |
-| 18 | **b)** Que el intervalo real entre buses sería casi el doble del anunciado y que los buses han llegado completos varios días. | OA N°10 — evidencias entregadas/omitidas |
-| 19 | **b)** Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera. | OA N°10 — comparación de fuentes |
-| 20 | La infografía verde con ícono de bus y flecha ascendente del Texto A transmite progreso y control institucional del proyecto; las capturas de la app de seguimiento del Texto B funcionan como evidencia cuantitativa verificable, transmitiendo una sensación de registro objetivo y sistemático por parte de los vecinos. | OA N°10 — recursos no lingüísticos |
-| 21 | Debe explicar que los datos cronometrados y las capturas de pantalla dan al Texto B un respaldo cuantitativo difícil de refutar, más fuerte que una simple queja general; y señalar el riesgo de evaluar un servicio nuevo a partir de una sola semana de funcionamiento, que podría no reflejar su desempeño una vez resueltos los ajustes iniciales. Luego, formular una reflexión personal razonada sobre qué elemento del Texto B influiría más en su percepción, reconociendo que los datos concretos suelen pesar más que una afirmación institucional sin cifras. | OA N°10 — recursos emocionales, evidencia e influencia en las propias opiniones (integrada) |
-| 22 | **b)** Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento. | OA N°14 — recursos variados y coherencia temática |
-| 23 | La referencia se usa como evidencia no literaria de apoyo, mostrando que existen mecanismos institucionales reales que permiten compatibilizar la producción agrícola con la conservación de la tierra familiar, reforzando la hipótesis de que no es necesario elegir de forma excluyente entre producir y conservar. | OA N°14 — evidencia no literaria y citas |
-| 24 | Debe presentar una hipótesis clara sobre el tema propuesto y un recurso variado pertinente (anécdota, cita, síntesis o infografía), señalando de dónde lo extraería, de forma coherente entre sí. | OA N°14 — planificación (hipótesis y recursos) |
-| 25 | Debe presentar una introducción que plantee con claridad una hipótesis y reconozca al menos un contraargumento, y una conclusión que retome explícitamente esa misma hipótesis a la luz de argumentos ya desarrollados, sin introducir ideas nuevas no mencionadas antes. | OA N°14 — hipótesis, contraargumento, coherencia temática y conclusión (integrada) |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 11 × 1 punto = 11 puntos
+- **Total preguntas desarrollo breve:** 7 × 2 puntos = 14 puntos  
+- **Total preguntas desarrollo extenso:** 6 × 3 puntos = 18 puntos
+- **Puntaje total de la prueba: 43 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 11 | 1, 6, 7, 10, 14, 15, 18, 19, 22 |
+| Verdadero o Falso (con justificación) | 2 | 2, 11 |
+| Desarrollo breve | 7 | 3, 8, 12, 16, 20, 23, 24 |
+| Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
+| **Total** | **24** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 43 (100%) | 7,0 |
+| 39 (90%) | 6,3 |
+| 34 (80%) | 5,6 |
+| 30 (70%) | 4,9 |
+| 26 (60% — exigencia mínima) | **4,0** |
+| 22 (50%) | 3,5 |
+| 17 (40%) | 3,0 |
+| 13 (30%) | 2,5 |
+| 9 (20%) | 2,0 |
+| 4 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

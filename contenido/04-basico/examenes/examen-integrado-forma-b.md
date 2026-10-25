@@ -259,32 +259,59 @@ ________________________________________________________________________________
 
 ---
 
-# PAUTA DE CORRECCIÓN — FORMA B
+## PAUTA DE CORRECCIÓN — Examen integrado (Lenguaje, Matemática, Ciencias Naturales, Historia) — 4° Básico — curso piloto de la plataforma — Forma B
 
-| N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
-|----|------------|------------------------------------------|-----------------------------------|
-| 1 | Lenguaje | **a)** El texto describe el lugar donde vive Benjamín como un campo cercano a Chillán, con parronales y un gallinero. | OA N°4 — descripción de ambientes |
-| 2 | Ciencias Naturales | **a) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
-| 3 | Matemática | **c) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
-| 4 | Historia | **c) Ambas tenían gobierno monárquico y economía basada en la agricultura.** Característica común a mayas e incas. | OA 4 — Civilizaciones americanas |
-| 5 | Lenguaje | **b)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
-| 6 | Ciencias Naturales | **c) La columna vertebral.** Protege la médula espinal. | OA 7 — Sistema nervioso |
-| 7 | Matemática | **a) 9/24.** De los 24 estudiantes del curso (denominador), 9 llevan colación de fruta (numerador). | OA 8 — Comprender las fracciones |
-| 8 | Historia | **b) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |
-| 9 | Lenguaje | **d)** Es la única idea que se deduce a partir de lo que el texto cuenta sobre la dieta carroñera del cóndor; a, b y c están explícitas. | OA N°6 — información implícita en textos no literarios |
-| 10 | Ciencias Naturales | **b) Subducción.** La placa de Nazca se introduce bajo la placa Sudamericana, explicando la intensa actividad sísmica de Chile. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
-| 11 | Matemática | **b) Multiplicar por 4.** Cada mesa tiene 4 sillas asociadas (1×4=4, 2×4=8, 3×4=12, 4×4=16). | OA 13 — Patrones numéricos en tablas |
-| 12 | Historia | **c) Recibir educación, alimentación y servicios médicos adecuados.** Derecho reconocido para todos los niños y niñas. | OA 12 — Derechos del niño |
-| 13 | Lenguaje | Respuesta que use correctamente el conector, por ejemplo: "Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada." | OA N°17 — uso de conectores |
-| 14 | Lenguaje | El texto reescrito debe tener al menos dos párrafos separados por punto aparte, cada uno agrupando una idea principal distinta, con oraciones de sentido completo. | OA N°17 — organización en párrafos y punto aparte |
-| 15 | Ciencias Naturales | Cáscara = corteza (la más rígida y externa); pulpa = manto (semi-líquida, intermedia); carozo = núcleo (el más interno y caliente). | OA 15 — Capas de la Tierra |
-| 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
-| 17 | Historia | Respuesta correcta si identifica una característica real del paisaje de la propia región y describe una adaptación o transformación coherente con ella. | OA 10 — Adaptación y transformación del paisaje |
-| 18 | Ciencias Naturales | Debe explicar que un sismo submarino puede desplazar una gran masa de agua y generar olas de gran tamaño (tsunami) que llegan a la costa, por lo que alejarse del borde costero y subir a zonas altas reduce el riesgo. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
-| 19 | Matemática | **b) Metro.** Unidad adecuada para medir distancias grandes, como el largo de una cancha. | OA 22 — Medir longitudes con metros y centímetros |
-| 20 | Historia | Respuesta correcta si explica que la veda da tiempo a que la especie se reproduzca y su población se recupere, evitando que un recurso renovable se agote por sobreexplotación. | OA 9 — Recursos naturales |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Distribución por asignatura
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 10 × 1 punto = 10 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 10 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 10 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **10** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 10 (100%) | 7,0 |
+| 9 (90%) | 6,3 |
+| 8 (80%) | 5,6 |
+| 7 (70%) | 4,9 |
+| 6 (60% — exigencia mínima) | **4,0** |
+| 5 (50%) | 3,5 |
+| 4 (40%) | 3,0 |
+| 3 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por asignatura
 
 | Asignatura | N° de preguntas | Preguntas |
 |---|---|---|

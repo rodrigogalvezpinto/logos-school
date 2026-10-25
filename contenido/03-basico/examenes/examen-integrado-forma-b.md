@@ -234,32 +234,59 @@ d) El derecho a la nacionalidad
 
 ---
 
-# PAUTA DE CORRECCIÓN — FORMA B
+## PAUTA DE CORRECCIÓN — Asignatura — 3° Básico — Forma B
 
-| N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
-|----|------------|------------------------------------------|-------------|
-| 1 | Historia, Geografía y Cs. Sociales | **a) Con un edificio de departamentos.** | OA 3 |
-| 2 | Matemática | **a) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
-| 3 | Ciencias Naturales | Cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte; la araucaria necesita el clima frío y lluvioso del sur. | OA 2 |
-| 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
-| 5 | Matemática | **c) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
-| 6 | Historia, Geografía y Cs. Sociales | **c) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
-| 7 | Ciencias Naturales | Reutilizar es volver a usar un objeto para el mismo fin u otro distinto, sin procesarlo; se acepta cualquier ejemplo razonable. | OA 5 |
-| 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
-| 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
-| 10 | Matemática | 9×6=**54 botellas**. | OA 8 |
-| 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
-| 12 | Ciencias Naturales | Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos reguladores como frutas o verduras. | OA 6 |
-| 13 | Lenguaje y Comunicación | **La sección "Un animal muy adaptable" (o similar que describa su rol ecológico/dieta variada) permite entender su importancia como controlador de roedores sin leer todo el texto.** | OA 6 |
-| 14 | Matemática | 2350÷5=**$470 cada uno**. | OA 10 |
-| 15 | Historia, Geografía y Cs. Sociales | Cualquier estrategia real y coherente con la zona fría (vivienda muy aislada como el iglú, ropa abrigada de pieles, alimentación basada en caza y pesca, entre otras). | OA 8 |
-| 16 | Ciencias Naturales | El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. Se acepta cualquier ejemplo coherente. | OA 10 |
-| 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** | OA 17 |
-| 18 | Matemática | **c) Pirámide de base cuadrada.** | OA 15 |
-| 19 | Ciencias Naturales | **b) La rotación.** | OA 12 |
-| 20 | Historia, Geografía y Cs. Sociales | **a) El derecho a la alimentación.** | OA 14 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de la prueba
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 3 × 1 punto = 3 puntos
+- **Total preguntas desarrollo breve:** 1 × 2 puntos = 2 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 5 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 3 | 1, 2 |
+| Verdadero o Falso (con justificación) | 1 | 4 |
+| Desarrollo breve | 1 | 3 |
+| Desarrollo extenso | 0 | — |
+| **Total** | **4** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 5 (100%) | 7,0 |
+| 4 (90%) | 6,3 |
+| 4 (80%) | 5,6 |
+| 4 (70%) | 4,9 |
+| 3 (60% — exigencia mínima) | **4,0** |
+| 2 (50%) | 3,5 |
+| 2 (40%) | 3,0 |
+| 2 (30%) | 2,5 |
+| 1 (20%) | 2,0 |
+| 0 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de la prueba
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas de esta **Forma B** son distintas de las de la **Forma A**: ambas formas permiten practicar el examen integrado completo sin repetir las mismas preguntas.

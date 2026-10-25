@@ -130,12 +130,11 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    **Retroalimentación:** *About* introduce el tema general; *how* introduce
    la explicación de un proceso o modo.
 
-3. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 20% of
+3. *(Verdadero o falso)* Read: *"The Amazon rainforest is often said to produce about 20% of
    the world's oxygen and is home to millions of species."* Statement: *The
-   Amazon rainforest has no impact on the world's oxygen.*
+   Amazon rainforest produces a net surplus of 20% of the world's oxygen.*
    **Respuesta correcta:** False (Falso).
-   **Retroalimentación:** El texto afirma explícitamente que produce
-   aproximadamente el 20% del oxígeno mundial, lo contrario a la afirmación.
+   **Retroalimentación:** El Amazonas **no produce un 20% neto** de oxígeno. Su ecosistema consume casi todo el oxígeno que genera (contribución neta ≈ 0%). La cifra del 20% se refiere a la fotosíntesis bruta, pero la respiración del propio bosque consume la mayor parte. La contribución bruta real es ~6-9% de la fotosíntesis global.
 
 4. *(Responder en inglés)* Read: *"In 1969, astronauts landed on the Moon for
    the first time. Millions of people watched the event on television."*

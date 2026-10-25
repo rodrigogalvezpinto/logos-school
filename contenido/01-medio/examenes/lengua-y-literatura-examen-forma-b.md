@@ -211,37 +211,59 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 
 ---
 
-# PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Lengua y Literatura — 1° medio — Forma B
 
-| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
-|----|------------------------------------------|-----------------------------------|
-| 1 | **b)** El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago. | OA N°3 — conflicto central |
-| 2 | **b)** El sabio o mentor. | OA N°3 — personaje tipo |
-| 3 | **Falso.** La narración en tercera persona permite mostrar detalles —como la insistencia semanal del padre sobre el horno— que la propia Antonia no necesariamente interpreta o cuestiona; en primera persona, el lector solo accedería a lo que Antonia percibe y elige contar. | OA N°3 — efecto de la narración en primera o tercera persona |
-| 4 | Debe explicar que el horno no es solo un objeto de trabajo, sino que representa la herencia familiar y la continuidad del oficio a través de generaciones; el hecho de que nunca se apague del todo refuerza simbólicamente la idea de una tradición que se mantiene viva y que Antonia debe decidir si continúa. | OA N°3 — símbolo |
-| 5 | Debe identificar que en el pueblo se cree que quienes se van a estudiar fuera "se les olvidan sus raíces", relacionándolo con una visión de mundo rural donde el oficio familiar y el arraigo territorial definían la identidad; y explicar que la mención de la Calchona conecta el relato con la mitología y tradición oral del Norte Chico, reforzando el mensaje de la abuela de que la tierra exige cuidado, no solo provecho, lo que enriquece el sentido de la conversación entre abuela y nieta. | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
-| 6 | **b)** La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias. | OA N°5 — conflicto central |
-| 7 | **b)** El pañuelo de baile. | OA N°5 — símbolo |
-| 8 | Debe explicar que la luz decreciente y el crujido de las tablas, que pasa de intermitente a continuo, refuerzan visualmente y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando en el lector o espectador la sensación de que algo grave está por ocurrir, sin que los personajes lo digan explícitamente. | OA N°5 — elementos de la puesta en escena |
-| 9 | Debe identificar que el comentario del doctor sobre la rodilla y la recomendación de la Organizadora de esperar hasta el día siguiente funcionan como presagios, que Doña Rosa ignora porque su identidad como bailarina experimentada la lleva a confiar en su propio juicio del riesgo; y describir el problema humano de reconocer el propio límite o peligro real cuando la identidad de una persona está profundamente ligada a su oficio o disciplina, incluso a costa de su salud. | OA N°5 — presagios, comportamiento del personaje y problema humano (integrada) |
-| 10 | **b)** El mito chilote de la Pincoya. | OA N°8 — relación intertextual/alusión a un mito |
-| 11 | **Falso.** El texto pone ambas visiones en diálogo, no en competencia; la creencia del abuelo se actualiza con el lenguaje de los biólogos marinos ("la Pincoya lleva años bailando de espaldas al mar"), sin que una invalide a la otra. | OA N°8 — visión de mundo de la obra |
-| 12 | **b)** La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas. | OA N°8 — contexto histórico |
-| 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente (por ejemplo, "Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar, y que hace tiempo dejamos de sacar solo lo necesario"), y la relación explícita entre la alusión al mito de la Pincoya y el contexto de la sobreexplotación pesquera. | OA N°8 — interpretación literaria coherente e integrada |
-| 14 | **b)** Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio. | OA N°9 — tesis del autor |
-| 15 | **b)** Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la prohibición antes de presentar evidencia. | OA N°9 — intención de la pregunta retórica |
-| 16 | Debe explicar que el dato es pertinente pero insuficiente por sí solo, ya que mide entregas detectadas según la evaluación docente y no un resultado objetivo de aprendizaje, y que el propio texto reconoce que otros factores (tareas rediseñadas) podrían explicar la disminución. | OA N°9 — suficiencia y pertinencia de la información |
-| 17 | Cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente con la postura elegida. | OA N°9 — postura personal |
-| 18 | **b)** Proyectar una imagen positiva de la gestión municipal a través de la obra inaugurada. | OA N°10 — propósito implícito |
-| 19 | **b)** Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera. | OA N°10 — comparación de fuentes |
-| 20 | Debe explicar que la fotografía refuerza una sensación de orden, éxito y beneficio directo hacia la comunidad, mostrando un momento controlado y positivo que puede no representar el uso cotidiano de la ciclovía, generando una impresión más idealizada de la obra. | OA N°10 — efecto de recursos no lingüísticos |
-| 21 | Debe comparar que el Texto A usa cifras precisas para transmitir rigor institucional y el Texto B usa humor y apelación a la experiencia directa para cuestionar la versión oficial; reconocer que ambos textos podrían ser parcialmente ciertos a la vez; y formular una reflexión personal razonada sobre qué elemento influiría más en su propia opinión, considerando que la sensación de "autenticidad" también puede ser una estrategia de persuasión. | OA N°10 — estrategias de persuasión, veracidad e influencia en las propias opiniones (integrada) |
-| 22 | **b)** Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin desviarse hacia ideas no conectadas con el tema central. | OA N°14 — coherencia temática |
-| 23 | Debe explicar que citar la fuente permite que el lector evalúe la confiabilidad del dato y distinga entre una afirmación respaldada por evidencia verificable y una opinión sin sustento, y que es una práctica de honestidad intelectual que reconoce el origen de la información. | OA N°14 — citas y referencias |
-| 24 | Debe presentar una hipótesis clara sobre el tema propuesto y un tipo de evidencia (literaria o no literaria) pertinente, señalando de qué texto la extraería, de forma coherente entre sí. | OA N°14 — planificación (hipótesis y evidencia) |
-| 25 | Debe presentar una introducción que plantee con claridad una hipótesis, y una conclusión que retome explícitamente esa misma hipótesis a la luz de argumentos ya desarrollados, sin introducir ideas nuevas no mencionadas antes. | OA N°14 — hipótesis, coherencia temática y conclusión (integrada) |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 13 × 1 punto = 13 puntos
+- **Total preguntas desarrollo breve:** 7 × 2 puntos = 14 puntos  
+- **Total preguntas desarrollo extenso:** 5 × 3 puntos = 15 puntos
+- **Puntaje total de la prueba: 42 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 13 | 1, 2, 6, 7, 10, 12, 14, 15, 18, 19, 22 |
+| Verdadero o Falso (con justificación) | 2 | 3, 11 |
+| Desarrollo breve | 7 | 4, 8, 16, 17, 20, 23, 24 |
+| Desarrollo extenso | 5 | 5, 9, 13, 21, 25 |
+| **Total** | **25** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 42 (100%) | 7,0 |
+| 38 (90%) | 6,3 |
+| 34 (80%) | 5,6 |
+| 29 (70%) | 4,9 |
+| 25 (60% — exigencia mínima) | **4,0** |
+| 21 (50%) | 3,5 |
+| 17 (40%) | 3,0 |
+| 13 (30%) | 2,5 |
+| 8 (20%) | 2,0 |
+| 4 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

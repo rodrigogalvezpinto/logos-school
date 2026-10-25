@@ -241,32 +241,59 @@ d) Para decorar los pasillos
 
 ---
 
-# PAUTA DE CORRECCIÓN — FORMA A
+## PAUTA DE CORRECCIÓN — Asignatura — 2° Básico — Forma A
 
-| N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
-|----|------------|------------------------------------------|-------------|
-| 1 | Lenguaje y Comunicación | **a) "cielo".** Las letras "i" y "e" forman un diptongo: se lee "cie-lo", en una sola sílaba. | OA N°1 |
-| 2 | Matemática | **a) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
-| 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
-| 4 | Ciencias Naturales | **a) Huevo → renacuajo → rana adulta.** | OA 3 |
-| 5 | Matemática | **b) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
-| 6 | Lenguaje y Comunicación | **b) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
-| 7 | Ciencias Naturales | **c) El huemul.** | OA 5 |
-| 8 | Historia, Geografía y Cs. Sociales | **c) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
-| 9 | Matemática | **c) sumar 8.** La diferencia entre cada número y el anterior es siempre 8. | OA 12 |
-| 10 | Lenguaje y Comunicación | Respuesta que indique sorpresa y alegría, apoyada en el texto: "se quedó inmóvil un segundo, con los ojos muy abiertos" y "se rió y se puso a llorar de alegría al mismo tiempo". | OA N°5 |
-| 11 | Historia, Geografía y Cs. Sociales | **c) Argentina.** Se ubica al este de Chile y comparte con nuestro país la frontera más larga. | OA 7 |
-| 12 | Ciencias Naturales | **b) Se adapta a la forma del recipiente.** | OA 9 |
-| 13 | Lenguaje y Comunicación | **b) Rancagua.** La carta dice "Te escribo desde Rancagua". | OA N°7 |
-| 14 | Matemática | **b) 4 lados y 4 vértices.** | OA 15 |
-| 15 | Historia, Geografía y Cs. Sociales | **b) Fiordo.** Es una entrada de mar entre montañas, típica del paisaje del sur de Chile. | OA 8 |
-| 16 | Ciencias Naturales | **c) Evaporación → condensación → precipitación.** | OA 11 |
-| 17 | Lenguaje y Comunicación | **b) "El perro corre por el parque."** Empieza con mayúscula y termina con punto. | OA N°17 |
-| 18 | Matemática | **c) 12.** El Equipo A tiene 4 pelotas dibujadas, y cada pelota vale 3 goles: 4×3=12. | OA 22 |
-| 19 | Ciencias Naturales | **c) El granizo.** | OA 12 |
-| 20 | Historia, Geografía y Cs. Sociales | **b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia, como un sismo.** | OA 14 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Distribución de preguntas por asignatura
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 19 × 1 punto = 19 puntos
+- **Total preguntas desarrollo breve:** 1 × 2 puntos = 2 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 21 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 19 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 1 | 10 |
+| Desarrollo extenso | 0 | — |
+| **Total** | **20** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 21 (100%) | 7,0 |
+| 19 (90%) | 6,3 |
+| 17 (80%) | 5,6 |
+| 15 (70%) | 4,9 |
+| 13 (60% — exigencia mínima) | **4,0** |
+| 10 (50%) | 3,5 |
+| 8 (40%) | 3,0 |
+| 6 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta A**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la B (contenido/{curso}/{asignatura}-examen-forma-B.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de preguntas por asignatura
 
 | Asignatura | N° de preguntas | Preguntas |
 |---|---|---|

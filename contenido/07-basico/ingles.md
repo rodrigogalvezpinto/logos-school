@@ -106,12 +106,11 @@ culturas.
    **Retroalimentación:** El texto completo gira en torno a los volcanes; los
    detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.
 
-2. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 20% of the
+2. *(Verdadero o falso)* Read: *"The Amazon rainforest is often called 'the lungs of the Earth' because it produces about 20% of the
    world's oxygen. It is home to millions of species of plants and animals."*
-   Statement: *The text says the Amazon produces 50% of the world's oxygen.*
+   Statement: *The Amazon rainforest produces a net surplus of 20% of the world's oxygen.*
    **Respuesta correcta:** False (Falso).
-   **Retroalimentación:** El texto dice explícitamente *20%*, no 50%; hay que leer
-   con atención los números exactos.
+   **Retroalimentación:** El Amazonas **no produce un 20% neto** de oxígeno. Su ecosistema consume casi todo el oxígeno que genera (contribución neta ≈ 0%). La cifra del 20% se refiere a la fotosíntesis bruta, pero la respiración del propio bosque consume la mayor parte. La contribución bruta real es ~6-9% de la fotosíntesis global.
 
 3. *(Completar)* Complete: *"The first sentence of a paragraph usually gives you
    the ___ idea of the text."* (main / explicit / false)
