@@ -1,5 +1,7 @@
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # Backend (Python)
 backend/.venv/
@@ -11,5 +13,34 @@ backend/.env
 backend/.env.*
 !backend/.env.example
 backend/logs/
+backend/uv.lock
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
 
 # Frontend (Angular) — ya tiene su propio .gitignore en frontend/.gitignore
+frontend/dist/
+frontend/.angular/
+frontend/node_modules/
+frontend/test-results/
+frontend/playwright-report/
+frontend/playwright/.cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Database local files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp

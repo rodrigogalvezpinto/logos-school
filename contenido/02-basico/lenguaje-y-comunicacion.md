@@ -42,7 +42,7 @@ Ya sabes leer sílabas simples y palabras con dígrafos como "rr", "ll", "ch" y 
 
 **Actividad 1 — Diptongos y grupos consonánticos en palabras**
 
-[Imagen: un tren cruzando un puente, con nubes en el cielo]
+::emoji::🌤️::un tren cruzando un puente, con nubes en el cielo::
 
 - "**tren**" → tiene un grupo consonántico: "tr" son dos consonantes juntas antes de la vocal "e".
 - "**cielo**" → tiene el diptongo "ie": se pronuncia en una sola sílaba, "cie-lo".
@@ -55,7 +55,7 @@ Ya sabes leer sílabas simples y palabras con dígrafos como "rr", "ll", "ch" y 
 
 **Actividad 3 — ce-ci, que-qui, ge-gi, gue-gui, güe-güi**
 
-[Imagen: una cena con velas, un queso, un gigante amable tocando una guitarra, y un pingüino]
+::emoji::🧀::una cena con velas, un queso, un gigante amable tocando una guitarra, y un pingüino::
 
 - "**cena**" → el sonido /s/ antes de "e" se escribe con "c".
 - "**queso**" → el sonido /k/ antes de "e" se escribe con "qu" (la "u" no se pronuncia).
@@ -65,7 +65,7 @@ Ya sabes leer sílabas simples y palabras con dígrafos como "rr", "ll", "ch" y 
 
 ### Banco de preguntas de autoevaluación — OA N°1
 
-**1. (Alternativas)** [Imagen: un avión volando entre nubes] ¿Cuál de estas palabras tiene un **diptongo** (dos vocales juntas en una sola sílaba)?
+**1. (Alternativas)** ::emoji::☁️::un avión volando entre nubes:: ¿Cuál de estas palabras tiene un **diptongo** (dos vocales juntas en una sola sílaba)?
 
 a) "aire"
 b) "camino"
@@ -101,7 +101,7 @@ c) "gigante"
 
 *Respuesta correcta: a.* Retroalimentación: ¡muy bien! En "guitarra" la "u" no se pronuncia, solo sirve para que la "g" suene fuerte, como en "gato". En "pingüino" la "u" sí se pronuncia (por eso lleva diéresis), y en "gigante" el sonido es distinto, como el de la "j".
 
-**6. (Desarrollo breve)** [Imagen: un pingüino y una cigüeña] Escribe una palabra que lleve "**güe**" o "**güi**" (con los dos puntitos sobre la "u").
+**6. (Desarrollo breve)** ::emoji::🎨::un pingüino y una cigüeña:: Escribe una palabra que lleve "**güe**" o "**güi**" (con los dos puntitos sobre la "u").
 
 *Respuesta esperada*: "pingüino", "cigüeña", "güiro" u otra palabra válida. Retroalimentación: ¡muy bien! Esas palabras necesitan los dos puntitos (diéresis) sobre la "u" para indicar que sí se pronuncia.
 
@@ -131,7 +131,7 @@ Ahora que lees cuentos más largos, vamos a fijarnos en más detalles:
 
 > Emilia tiene ocho años y vive en un pueblo cerca de Puerto Montt, frente al mar. Tiene el pelo negro y rizado, y siempre anda con un gorro de lana que le tejió su abuela. Un sábado, sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa para su cumpleaños. Benjamín es un niño alto y muy risueño; Constanza es más bien callada, pero le encanta dibujar. Primero, los dos amigos escribieron invitaciones a escondidas de Emilia. Después, decoraron el patio de la casa con globos de colores y un cartel que decía "¡Feliz cumpleaños, Emilia!". Luego, escondieron un queque de manzana debajo de la mesa para que Emilia no lo viera al llegar. Cuando Emilia entró al patio, todos gritaron "¡sorpresa!". Ella se quedó inmóvil un segundo, con los ojos muy abiertos, y después se rió y se puso a llorar de alegría al mismo tiempo. Esa tarde, Emilia sopló las velas, comió queque y agradeció a sus amigos por acordarse de un día tan importante para ella.
 
-[Imagen: una niña de pelo negro y rizado, con gorro de lana, sorprendida frente a un patio decorado con globos]
+::emoji::👧::una niña de pelo negro y rizado, con gorro de lana, sorprendida frente a un patio decorado con globos::
 
 ### Actividades resueltas
 
@@ -232,7 +232,7 @@ Además de cuentos, leemos textos que informan o comunican algo práctico, como 
 >
 > En muchas escuelas de Chile hay contenedores de distintos colores para separar la basura. El contenedor azul es para el papel y el cartón. El contenedor amarillo es para los plásticos y las latas. El contenedor café es para los restos de comida, como cáscaras de fruta. Cada contenedor tiene un dibujo que ayuda a reconocer qué se debe botar ahí, incluso para las personas que todavía no saben leer bien.
 
-[Imagen: tres contenedores de reciclaje — uno azul con el dibujo de una hoja de papel, uno amarillo con el dibujo de una botella y una lata, y uno café con el dibujo de una cáscara de plátano]
+::emoji::🍃::tres contenedores de reciclaje — uno azul con el dibujo de una hoja de papel, uno amarillo con el dibujo de una botella y una lata, y uno café con el dibujo de una cáscara de plátano::
 
 ### Actividades resueltas
 

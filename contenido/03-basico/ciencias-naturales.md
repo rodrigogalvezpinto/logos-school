@@ -84,23 +84,23 @@ además de servir de alimento, tienen **uso medicinal**, como el boldo y el mati
 **Ejemplos resueltos**
 
 1. **Un mapa de la flora chilena por zonas.**
-   [Imagen: un mapa de Chile dividido en norte, centro y sur, con dibujos de un
+   ::emoji::🌺::un mapa de Chile dividido en norte, centro y sur, con dibujos de un
    cactus candelabro en el norte, un copihue en el centro-sur y una araucaria en el
-   sur]
+   sur::
    Cada zona de Chile tiene plantas nativas adaptadas a su clima: el cactus resiste
    la sequía del desierto, mientras que la araucaria necesita el clima más frío y
    lluvioso del sur.
 
 2. **El copihue, flor nacional de Chile.**
-   [Imagen: una enredadera de copihue con flores rojas colgando entre ramas de un
-   bosque]
+   ::emoji::🌸::una enredadera de copihue con flores rojas colgando entre ramas de un
+   bosque::
    El copihue es una planta trepadora que crece de forma silvestre en los bosques del
    centro-sur de Chile. Fue declarada flor nacional porque es una especie única de
    nuestro país.
 
 3. **De la planta a la mesa: los cultivos de Chile.**
-   [Imagen: una tabla con tres columnas — "Valle Central" con uvas y manzanas,
-   "Norte" con aceitunas, "Sur/Chiloé" con papas]
+   ::emoji::🏞️::una tabla con tres columnas — "Valle Central" con uvas y manzanas,
+   "Norte" con aceitunas, "Sur/Chiloé" con papas::
    Los cultivos agrícolas cambian según el clima de cada zona: el valle central,
    templado y con riego, es ideal para frutales y viñas; el sur, más lluvioso y
    fresco, es ideal para el cultivo de papas.
@@ -141,7 +141,7 @@ además de servir de alimento, tienen **uso medicinal**, como el boldo y el mati
 
 5. *(Observación/relación)* Mira esta imagen: hojas de boldo junto a una taza de
    infusión.
-   [Imagen: ramas de boldo con hojas ovaladas junto a una taza humeante]
+   ::emoji::🍃::ramas de boldo con hojas ovaladas junto a una taza humeante::
    ¿Para qué se usa tradicionalmente esta planta chilena?
    **Respuesta correcta:** El boldo es una planta de uso medicinal, tradicionalmente
    usada para problemas digestivos, en infusiones.
@@ -192,23 +192,23 @@ verdes de nuestro entorno.
 **Ejemplos resueltos**
 
 1. **La cadena de dependencia entre plantas y animales.**
-   [Imagen: un árbol con un nido de aves, un insecto comiendo una hoja y un guanaco
-   comiendo pasto cerca del árbol]
+   ::emoji::🦙::un árbol con un nido de aves, un insecto comiendo una hoja y un guanaco
+   comiendo pasto cerca del árbol::
    Muchos animales dependen directamente de las plantas: las aves anidan en los
    árboles, los insectos comen hojas, y herbívoros como el guanaco se alimentan de
    pastizales. Si esas plantas desaparecen, todos esos animales pierden su fuente de
    alimento o refugio.
 
 2. **Qué pasa cuando se destruye un bosque.**
-   [Imagen: comparación entre un cerro con bosque nativo y el mismo cerro talado, con
-   tierra suelta deslizándose por la lluvia]
+   ::emoji::🌧️::comparación entre un cerro con bosque nativo y el mismo cerro talado, con
+   tierra suelta deslizándose por la lluvia::
    Cuando se destruye un bosque, además de que los animales pierden su hábitat, el
    suelo queda sin las raíces que lo sostenían, por lo que se erosiona más fácilmente
    con la lluvia y el viento.
 
 3. **De la planta al producto.**
-   [Imagen: un árbol junto a dibujos de una silla de madera, una hoja de papel y un
-   frasco de aceite]
+   ::emoji::🌳::un árbol junto a dibujos de una silla de madera, una hoja de papel y un
+   frasco de aceite::
    Muchos productos que usamos todos los días provienen de las plantas: la madera
    para muebles y construcción, el papel, aceites vegetales y fibras para telas.
 
@@ -298,22 +298,22 @@ recursos del planeta y a generar menos contaminación.
 **Ejemplos resueltos**
 
 1. **Clasificar la basura de la casa.**
-   [Imagen: cuatro contenedores de distintos colores rotulados como "orgánico",
-   "papel/cartón", "plástico" y "vidrio", con desechos siendo depositados en cada uno]
+   ::emoji::📄::cuatro contenedores de distintos colores rotulados como "orgánico",
+   "papel/cartón", "plástico" y "vidrio", con desechos siendo depositados en cada uno::
    Separar los desechos según el material del que están hechos facilita que puedan
    reutilizarse o reciclarse correctamente, en vez de mezclarse todos como basura.
 
 2. **¿Cuánto tarda en degradarse?**
-   [Imagen: una línea de tiempo comparando una cáscara de fruta (semanas), una hoja
+   ::emoji::🍃::una línea de tiempo comparando una cáscara de fruta (semanas), una hoja
    de papel (meses), una bolsa plástica (cientos de años) y una botella de vidrio
-   (miles de años)]
+   (miles de años)::
    No todos los materiales se degradan al mismo tiempo: los restos orgánicos
    desaparecen relativamente rápido, mientras que el plástico y el vidrio permanecen
    en el ambiente durante muchísimo tiempo si no se reciclan.
 
 3. **Aplicar las tres erres en el colegio.**
-   [Imagen: estudiantes usando ambos lados de una hoja de papel, un frasco de vidrio
-   reutilizado como lápicero, y contenedores de reciclaje en el patio]
+   ::emoji::🍃::estudiantes usando ambos lados de una hoja de papel, un frasco de vidrio
+   reutilizado como lápicero, y contenedores de reciclaje en el patio::
    En el colegio se pueden aplicar las tres erres: reducir usando ambos lados de las
    hojas, reutilizar frascos y envases para otros fines, y reciclar el papel, el
    plástico y el vidrio en contenedores separados.
@@ -355,7 +355,7 @@ recursos del planeta y a generar menos contaminación.
 
 5. *(Observación/análisis)* Mira esta imagen: un basurero con restos de comida,
    botellas de plástico y hojas de papel usado, todos mezclados.
-   [Imagen: un basurero desordenado con distintos tipos de desechos mezclados]
+   ::emoji::🎨::un basurero desordenado con distintos tipos de desechos mezclados::
    ¿Por qué es un problema que estos desechos estén todos mezclados?
    **Respuesta correcta:** Porque al estar mezclados es más difícil separarlos para
    reutilizarlos o reciclarlos correctamente, y muchos materiales que podrían
@@ -404,23 +404,23 @@ obesidad o la desnutrición.
 **Ejemplos resueltos**
 
 1. **Un plato de comida equilibrado.**
-   [Imagen: un plato dividido en tres partes — arroz (energía), pescado (proteínas)
-   y una ensalada de verduras variadas (reguladores) — junto a un vaso de agua]
+   ::emoji::🐟::un plato dividido en tres partes — arroz (energía), pescado (proteínas)
+   y una ensalada de verduras variadas (reguladores) — junto a un vaso de agua::
    Un plato equilibrado combina alimentos de distintos grupos: energéticos,
    constructores y reguladores, además de preferir agua para acompañar la comida.
 
 2. **Comparar dos meriendas.**
-   [Imagen: una manzana y un yogur natural junto a una bebida azucarada y un paquete
-   de golosinas]
+   ::emoji::🎨::una manzana y un yogur natural junto a una bebida azucarada y un paquete
+   de golosinas::
    La manzana y el yogur natural son opciones saludables para la merienda, porque
    aportan vitaminas, minerales y proteínas. La bebida azucarada y las golosinas, en
    cambio, aportan mucha azúcar y pocos nutrientes, por lo que conviene consumirlas
    solo ocasionalmente.
 
 3. **Agrupar alimentos según su función.**
-   [Imagen: una tabla con tres columnas — "Energía" (pan, papas, fideos),
+   ::emoji::🐟::una tabla con tres columnas — "Energía" (pan, papas, fideos),
    "Constructores" (huevo, pescado, leche), "Reguladores" (zanahoria, naranja,
-   lechuga)]
+   lechuga)::
    Cada grupo de alimentos cumple una función distinta en el cuerpo, y por eso una
    alimentación saludable debe incluir alimentos de los tres grupos.
 
@@ -461,8 +461,8 @@ obesidad o la desnutrición.
 
 5. *(Observación/análisis)* Mira esta imagen: una colación con papas fritas de
    paquete, una bebida azucarada y golosinas.
-   [Imagen: una mesa con snacks envasados, papas fritas y una bebida de color muy
-   llamativo]
+   ::emoji::🪑::una mesa con snacks envasados, papas fritas y una bebida de color muy
+   llamativo::
    ¿Por qué esta colación no es la opción más saludable para comer todos los días?
    **Respuesta correcta:** Porque tiene alimentos altos en grasas, azúcar y sal, y no
    incluye alimentos reguladores como frutas o verduras; consumirla en exceso y con
@@ -522,23 +522,23 @@ escucharlo.
 **Ejemplos resueltos**
 
 1. **Experimento: el sonido viaja en todas direcciones.**
-   [Imagen: un niño con los ojos vendados en el centro de un círculo, mientras otros
-   niños hacen sonar una campana desde distintos puntos alrededor]
+   ::emoji::👦::un niño con los ojos vendados en el centro de un círculo, mientras otros
+   niños hacen sonar una campana desde distintos puntos alrededor::
    Aunque el niño no puede ver de dónde viene el sonido, puede escucharlo desde
    cualquier dirección en la que se encuentre quien produce el sonido, porque el
    sonido se propaga hacia todos lados.
 
 2. **Experimento: reflexión y absorción del sonido.**
-   [Imagen: dos habitaciones — una vacía con paredes de baldosa donde el sonido
-   rebota, y otra con cortinas y alfombras donde el sonido se siente más apagado]
+   ::emoji::🎨::dos habitaciones — una vacía con paredes de baldosa donde el sonido
+   rebota, y otra con cortinas y alfombras donde el sonido se siente más apagado::
    En una habitación vacía y con superficies duras, el sonido se refleja mucho y se
    escuchan ecos o resonancia. En una habitación con telas, cortinas o alfombras, el
    sonido se absorbe más y se escucha más apagado.
 
 3. **Clasificar sonidos según tono e intensidad.**
-   [Imagen: cuatro instrumentos o fuentes de sonido — un tambor grande (grave y
+   ::emoji::🐦::cuatro instrumentos o fuentes de sonido — un tambor grande (grave y
    fuerte), un silbato (agudo y fuerte), una campanita pequeña (agudo y débil) y un
-   susurro (grave y débil)]
+   susurro (grave y débil)::
    Un mismo sonido se puede describir usando dos características a la vez: su tono
    (agudo o grave) y su intensidad (fuerte o débil), que son independientes entre sí.
 
@@ -639,9 +639,9 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
 **Ejemplos resueltos**
 
 1. **Ordenar los planetas según su distancia al Sol.**
-   [Imagen: el Sol a la izquierda y los ocho planetas en fila hacia la derecha, en
+   ::emoji::☀️::el Sol a la izquierda y los ocho planetas en fila hacia la derecha, en
    orden de cercanía: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano,
-   Neptuno]
+   Neptuno::
    Los planetas más cercanos al Sol son más pequeños y rocosos (Mercurio, Venus,
    Tierra, Marte); los más lejanos son mucho más grandes y gaseosos (Júpiter,
    Saturno, Urano, Neptuno).
@@ -655,8 +655,8 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
    la Tierra.
 
 3. **Comparar el tamaño del Sol, la Tierra y la Luna.**
-   [Imagen: tres círculos de tamaños muy distintos — un Sol enorme, una Tierra mucho
-   más pequeña, y una Luna todavía más pequeña junto a la Tierra]
+   ::emoji::🌙::tres círculos de tamaños muy distintos — un Sol enorme, una Tierra mucho
+   más pequeña, y una Luna todavía más pequeña junto a la Tierra::
    El Sol es enormemente más grande que la Tierra, y la Tierra, a su vez, es mucho
    más grande que la Luna. Comparar tamaños nos ayuda a entender las proporciones
    reales del Sistema Solar.
@@ -696,7 +696,7 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
 
 5. *(Observación)* Mira esta imagen: la Luna se ve completamente iluminada, como un
    círculo brillante y completo en el cielo nocturno.
-   [Imagen: la Luna llena, totalmente redonda e iluminada]
+   ::emoji::🌙::la Luna llena, totalmente redonda e iluminada::
    ¿Qué fase de la Luna corresponde a esta imagen?
    **Respuesta correcta:** Luna llena, porque se observa toda su superficie
    iluminada desde la Tierra.
@@ -746,22 +746,22 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
 **Ejemplos resueltos**
 
 1. **Modelo del día y la noche.**
-   [Imagen: un globo terráqueo iluminado por una linterna desde un costado, mostrando
-   una mitad iluminada (día) y una mitad en sombra (noche)]
+   ::emoji::🎨::un globo terráqueo iluminado por una linterna desde un costado, mostrando
+   una mitad iluminada (día) y una mitad en sombra (noche)::
    Al hacer girar el globo terráqueo frente a una linterna fija, se observa que
    distintas zonas del globo van pasando de la luz a la sombra, tal como ocurre en la
    Tierra real por efecto de la rotación.
 
 2. **Comparar rotación y traslación.**
-   [Imagen: un dibujo del Sol en el centro con la Tierra girando sobre su propio eje
+   ::emoji::☀️::un dibujo del Sol en el centro con la Tierra girando sobre su propio eje
    (flecha curva pequeña) mientras recorre una órbita alrededor del Sol (flecha
-   curva grande)]
+   curva grande)::
    La Tierra gira sobre sí misma (rotación) mientras al mismo tiempo recorre una
    órbita alrededor del Sol (traslación); son dos movimientos distintos que ocurren
    de forma simultánea.
 
 3. **Duración de cada movimiento.**
-   [Imagen: un reloj junto a un calendario anual]
+   ::emoji::🌊::un reloj junto a un calendario anual::
    La rotación de la Tierra tarda aproximadamente 24 horas (un día), mientras que la
    traslación alrededor del Sol tarda aproximadamente 365 días (un año).
 

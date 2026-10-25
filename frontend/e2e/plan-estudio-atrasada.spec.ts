@@ -72,7 +72,7 @@ async function sembrarSesionAtrasada(page: Page, request: APIRequestContext): Pr
   const primeraSesionId = plan.sesiones[0].id;
 
   execSync(
-    `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_dev" -c "UPDATE sesion_estudio SET fecha_programada = current_date - interval '1 day' WHERE id = ${primeraSesionId}"`,
+    `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_qa" -c "UPDATE sesion_estudio SET fecha_programada = current_date - interval '1 day' WHERE id = ${primeraSesionId}"`,
   );
 }
 
@@ -110,9 +110,12 @@ test.describe('Sesión atrasada del Plan de Estudio — reflejo en pantalla', ()
     await page.goto('/alumno/inicio');
     // El check-in emocional diario ya se contestó implícitamente si el test anterior
     // navegó por /alumno/inicio antes — por si no, se descarta si aparece.
-    const checkin = page.locator('.checkin__opcion').first();
-    if (await checkin.isVisible().catch(() => false)) {
+    const checkin = page.locator('.checkin__opcion', { hasText: 'Tranquilo' });
+    try {
+      await checkin.waitFor({ state: 'visible', timeout: 3000 });
       await checkin.click();
+    } catch {
+      // Ignorar si no aparece
     }
     await page.locator('.campana__boton').click();
     await expect(page.locator('.campana__badge')).toHaveText('1');

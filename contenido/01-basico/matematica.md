@@ -43,13 +43,17 @@ Vas a aprender a leer y escribir los números del 0 al 20, y a reconocerlos de t
 
 En el estuche de Camila hay 8 lápices de colores.
 
-[Imagen: un estuche abierto con 8 lápices de colores adentro, alineados]
+
+::emoji::🎒::un estuche abierto con 8 lápices de colores adentro, alineados::
+
 
 Contamos uno por uno: 1, 2, 3, 4, 5, 6, 7, 8. Ese número se escribe **8** y se lee "ocho".
 
 **Ejemplo 2 — De lo pictórico a lo simbólico**
 
-[Imagen: 14 pelotas de fútbol dibujadas, agrupadas en una fila]
+
+![14 pelotas de fútbol dibujadas, agrupadas en una fila](/assets/imagenes/1-basico/002-14-pelotas-de-fútbol-dibujadas-agrupadas-en-una-fi.jpg)
+
 
 Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantidad se escribe **14** y se lee "catorce".
 
@@ -57,7 +61,9 @@ Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantid
 
 El número **19** se lee "diecinueve". Para representarlo con dibujos, podemos dibujar 19 estrellitas:
 
-[Imagen: 19 estrellitas dibujadas en fila, para representar el número 19]
+
+![19 estrellitas dibujadas en fila, para representar el número 19](/assets/imagenes/1-basico/003-19-estrellitas-dibujadas-en-fila-para-representar-.jpg)
+
 
 #### Preguntas de autoevaluación
 
@@ -75,7 +81,9 @@ d) 31
 **Respuesta correcta: 19.**
 *Retroalimentación:* "diecinueve" es "diez y nueve" juntos, por eso se escribe 19. Recuerda que los números del 11 al 19 casi siempre empiezan sonando como "dieci-".
 
-**Pregunta 3 (alternativas — representación pictórica).** [Imagen: 6 estrellas dibujadas] ¿Qué número representa esta cantidad de estrellas?
+**Pregunta 3 (alternativas — representación pictórica).** 
+::emoji::⭐::6 estrellas dibujadas::
+ ¿Qué número representa esta cantidad de estrellas?
 a) 5
 b) 6
 c) 7
@@ -89,16 +97,26 @@ d) 9
 **Respuesta correcta: Falso.**
 *Retroalimentación:* el número 20 se lee "veinte". "Doce" es el número 12. Son números distintos, aunque suenan parecido: hay que tener cuidado de no confundirlos.
 
-**Pregunta 5 (contar y escribir).** [Imagen: 14 globos de colores flotando] Cuenta los globos y escribe el número que representan.
+**Pregunta 5 (contar y escribir).** 
+::emoji::🎨::14 globos de colores flotando::
+ Cuenta los globos y escribe el número que representan.
 
 **Respuesta esperada:** **14**.
 *Retroalimentación:* contar despacio y de a uno ayuda a no saltarse ni repetir ningún globo. Puedes ir tocando cada globo con el dedo mientras dices el número en voz alta.
 
 **Pregunta 6 (alternativas).** ¿Cuál de estas opciones muestra el número 9 representado con dibujos?
-a) [Imagen: 9 manzanas dibujadas]
-b) [Imagen: 6 manzanas dibujadas]
-c) [Imagen: 12 manzanas dibujadas]
-d) [Imagen: 19 manzanas dibujadas]
+a) 
+::emoji::::9 manzanas dibujadas::
+
+b) 
+::emoji::::6 manzanas dibujadas::
+
+c) 
+::emoji::::12 manzanas dibujadas::
+
+d) 
+::emoji::::19 manzanas dibujadas::
+
 
 **Respuesta correcta: a) 9 manzanas.**
 *Retroalimentación:* para reconocer el número 9 en una imagen, hay que contar los elementos uno por uno hasta llegar a nueve, sin saltarse ninguno.
@@ -117,7 +135,9 @@ Vas a comparar dos números usando las palabras **"mayor que"** y **"menor que"*
 
 Mateo tiene 7 figuritas y Antonia tiene 11 figuritas.
 
-[Imagen: a la izquierda 7 figuritas, a la derecha 11 figuritas]
+
+::emoji::🎨::a la izquierda 7 figuritas, a la derecha 11 figuritas::
+
 
 Comparamos: 11 es mayor que 7, porque al contar hasta 11 pasamos por el 7 y seguimos contando más. Entonces: **11 es mayor que 7**, y **7 es menor que 11**.
 
@@ -158,7 +178,11 @@ d) No se puede saber
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 18 es mayor que 15, no menor. Al contar del 1 al 20, el 18 aparece después del 15, por lo tanto es un número más grande.
 
-**Pregunta 4 (comparar dibujos).** [Imagen: una canasta con 8 duraznos] y [Imagen: otra canasta con 13 duraznos]. ¿Cuál canasta tiene más duraznos?
+**Pregunta 4 (comparar dibujos).** 
+::emoji::::una canasta con 8 duraznos::
+ y 
+::emoji::::otra canasta con 13 duraznos::
+. ¿Cuál canasta tiene más duraznos?
 
 **Respuesta correcta: la canasta con 13 duraznos.**
 *Retroalimentación:* 13 es mayor que 8, así que la canasta que tiene 13 duraznos tiene más cantidad que la que tiene 8.
@@ -191,7 +215,9 @@ Vas a aprender que un número se puede formar juntando dos partes más chicas (*
 
 Diego tiene 5 globos rojos y 3 globos azules.
 
-[Imagen: 5 globos rojos y 3 globos azules juntos]
+
+::emoji::👀::5 globos rojos y 3 globos azules juntos::
+
 
 Si juntamos ambos grupos: 5 y 3 forman el número **8**. Escrito de forma simbólica: 8 = 5 + 3
 
@@ -207,7 +233,9 @@ Todas estas descomposiciones son correctas, porque en cada una, al sumar las dos
 
 **Ejemplo 3 — Descomponer de forma pictórica**
 
-[Imagen: 12 dulces, 7 son rojos y 5 son amarillos]
+
+::emoji::🌊::12 dulces, 7 son rojos y 5 son amarillos::
+
 
 En este grupo de 12 dulces hay 7 rojos y 5 amarillos. Entonces: 12 = 7 + 5
 
@@ -232,7 +260,9 @@ d) 9 = 3 + 5
 **Respuesta esperada (ejemplos válidos):** 16 = 10 + 6, o 16 = 8 + 8, o 16 = 9 + 7, entre otras.
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes que elegiste, el resultado sea exactamente 16.
 
-**Pregunta 4 (pictórico).** [Imagen: 6 fichas rojas y 4 fichas azules juntas] ¿Qué número forman en total? Escribe la suma que representa esta composición.
+**Pregunta 4 (pictórico).** 
+::emoji::::6 fichas rojas y 4 fichas azules juntas::
+ ¿Qué número forman en total? Escribe la suma que representa esta composición.
 
 **Respuesta esperada:** 6 + 4 = **10**.
 *Retroalimentación:* al juntar las 6 fichas rojas con las 4 fichas azules, contamos un total de 10 fichas, por eso decimos que 10 = 6 + 4.
@@ -261,13 +291,17 @@ Vas a aprender que, al agrupar 10 elementos, se forma **1 decena**, y que los el
 
 Benjamín tiene 14 cubos. Los agrupa de a 10.
 
-[Imagen: un grupo de 10 cubos amarrados juntos, y 4 cubos sueltos al lado]
+
+::emoji::🌊::un grupo de 10 cubos amarrados juntos, y 4 cubos sueltos al lado::
+
 
 Se forma **1 grupo de 10** (1 decena) y quedan **4 cubos sueltos** (4 unidades). Por eso decimos que 14 tiene **1 decena y 4 unidades**.
 
 **Ejemplo 2 — De bloques multibase al número**
 
-[Imagen: 1 bloque largo que representa 10, y 7 cubitos sueltos]
+
+::emoji::::1 bloque largo que representa 10, y 7 cubitos sueltos::
+
 
 El bloque largo vale 10 (1 decena) y hay 7 cubitos sueltos (7 unidades). Entonces el número representado es: 10 + 7 = **17**
 
@@ -275,7 +309,9 @@ El bloque largo vale 10 (1 decena) y hay 7 cubitos sueltos (7 unidades). Entonce
 
 Isidora tiene 20 lápices. Los agrupa de a 10.
 
-[Imagen: 2 grupos de 10 lápices cada uno]
+
+::emoji::✏️::2 grupos de 10 lápices cada uno::
+
 
 Se forman exactamente **2 grupos de 10** y no sobra ningún lápiz suelto. Por eso decimos que el número 20 tiene **2 decenas y 0 unidades**.
 
@@ -300,7 +336,9 @@ d) 0 decenas y 16 unidades
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* el 20 se forma exactamente con 2 grupos de 10, sin que sobre ningún elemento suelto, por eso tiene 0 unidades.
 
-**Pregunta 4 (pictórico).** [Imagen: 1 grupo de 10 bloques agrupados y 5 bloques sueltos] ¿Qué número representa esta imagen?
+**Pregunta 4 (pictórico).** 
+::emoji::::1 grupo de 10 bloques agrupados y 5 bloques sueltos::
+ ¿Qué número representa esta imagen?
 
 **Respuesta correcta: 15.**
 *Retroalimentación:* el grupo de 10 bloques forma 1 decena (vale 10), y le sumamos los 5 bloques sueltos (5 unidades): 10 + 5 = 15.
@@ -329,7 +367,9 @@ Vas a comprender la **adición** (suma) y la **sustracción** (resta) con númer
 
 En el patio hay 2 perritos jugando y llegan 3 perritos más.
 
-[Imagen: 2 perritos, y llegando desde el costado, 3 perritos más]
+
+::emoji::::2 perritos, y llegando desde el costado, 3 perritos más::
+
 
 2 + 3 = **5 perritos** en total.
 
@@ -337,7 +377,9 @@ En el patio hay 2 perritos jugando y llegan 3 perritos más.
 
 Valentina tenía 9 manzanas y se comió 4.
 
-[Imagen: 9 manzanas, 4 de ellas tachadas o comidas]
+
+::emoji::🎨::9 manzanas, 4 de ellas tachadas o comidas::
+
 
 9 − 4 = **5 manzanas** le quedan.
 
@@ -363,7 +405,9 @@ d) 12
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* si a 9 le quitamos 5, quedan 4. Puedes comprobarlo pensando al revés: 4 + 5 = 9. ✓
 
-**Pregunta 3 (pictórico).** [Imagen: 6 pollitos juntos, y 2 de ellos se alejan caminando] ¿Cuántos pollitos quedan?
+**Pregunta 3 (pictórico).** 
+::emoji::::6 pollitos juntos, y 2 de ellos se alejan caminando::
+ ¿Cuántos pollitos quedan?
 
 **Respuesta esperada:** 6 − 2 = **4 pollitos**.
 *Retroalimentación:* como 2 pollitos se van, hay que restar: empezamos con 6 y quitamos 2, quedando 4.
@@ -415,7 +459,9 @@ Vas a reconocer **patrones repetitivos** (que se repiten siempre igual, como col
 
 **Ejemplo 1 — Patrón repetitivo con figuras**
 
-[Imagen: círculo, triángulo, círculo, triángulo, círculo, ___]
+
+::emoji::🎨::círculo, triángulo, círculo, triángulo, círculo, ___::
+
 
 La secuencia se repite: círculo, triángulo, círculo, triángulo... Como el patrón se repite de dos en dos, después del quinto elemento (círculo) sigue un **triángulo**.
 
@@ -491,19 +537,25 @@ Vas a describir dónde está un objeto o una persona en relación a ti mismo o a
 
 **Ejemplo 1 — Derecha e izquierda**
 
-[Imagen: un niño con una mochila a su lado derecho y una pelota a su lado izquierdo]
+
+::emoji::👦::un niño con una mochila a su lado derecho y una pelota a su lado izquierdo::
+
 
 La mochila está a la **derecha** del niño, y la pelota está a su **izquierda**.
 
 **Ejemplo 2 — Arriba y abajo**
 
-[Imagen: un gato debajo de una mesa, y un florero encima de la misma mesa]
+
+::emoji::🐱::un gato debajo de una mesa, y un florero encima de la misma mesa::
+
 
 El gato está **debajo** de la mesa, y el florero está **encima** (arriba) de la mesa.
 
 **Ejemplo 3 — Posición entre dos personas**
 
-[Imagen: Camila está delante de Mateo, y Mateo está detrás de Camila, formando una fila]
+
+![Camila está delante de Mateo, y Mateo está detrás de Camila, formando una fila](/assets/imagenes/1-basico/026-camila-está-delante-de-mateo-y-mateo-está-detrás-d.jpg)
+
 
 Camila está **delante** de Mateo, y Mateo está **detrás** de Camila.
 
@@ -518,7 +570,9 @@ d) Abajo
 **Respuesta correcta: b) Derecha.**
 *Retroalimentación:* cada persona tiene un lado derecho y un lado izquierdo. Es normal confundirlos al principio; practicar levantando siempre la misma mano ayuda a recordarlo.
 
-**Pregunta 2 (completar).** [Imagen: un gato está debajo de una mesa] El gato está ___ de la mesa.
+**Pregunta 2 (completar).** 
+::emoji::🐱::un gato está debajo de una mesa::
+ El gato está ___ de la mesa.
 a) encima
 b) debajo
 c) al lado
@@ -537,7 +591,9 @@ d) dentro
 **Respuesta esperada (ejemplo):** "Mi estuche está dentro de mi mochila."
 *Retroalimentación:* lo importante es que uses una palabra de posición que describa correctamente dónde está un objeto respecto al otro.
 
-**Pregunta 5 (alternativas).** [Imagen: una niña está parada a la izquierda de un árbol] ¿Dónde está la niña respecto al árbol?
+**Pregunta 5 (alternativas).** 
+::emoji::👧::una niña está parada a la izquierda de un árbol::
+ ¿Dónde está la niña respecto al árbol?
 a) A la derecha del árbol
 b) A la izquierda del árbol
 c) Detrás del árbol
@@ -546,7 +602,9 @@ d) Dentro del árbol
 **Respuesta correcta: b) A la izquierda del árbol.**
 *Retroalimentación:* observando la imagen, la niña se encuentra ubicada en el lado izquierdo del árbol, por eso decimos que está "a la izquierda" de él.
 
-**Pregunta 6 (aplicación).** [Imagen: en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora] ¿Quién está entre Antonia e Isidora?
+**Pregunta 6 (aplicación).** 
+![en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora](/assets/imagenes/1-basico/029-en-una-fila-antonia-está-delante-de-benjamín-y-ben.jpg)
+ ¿Quién está entre Antonia e Isidora?
 
 **Respuesta correcta: Benjamín.**
 *Retroalimentación:* si Antonia va primero, luego Benjamín, y luego Isidora, entonces Benjamín queda en el medio de los otros dos, es decir, entre Antonia e Isidora.
@@ -567,7 +625,9 @@ Vas a identificar y comparar el **largo** (longitud) de dos o más objetos, usan
 
 **Ejemplo 1 — Comparar dos objetos**
 
-[Imagen: dos lápices puestos uno al lado del otro; el lápiz A es más largo que el lápiz B]
+
+::emoji::✏️::dos lápices puestos uno al lado del otro; el lápiz A es más largo que el lápiz B::
+
 
 Al poner los dos lápices juntos, uno al lado del otro y alineados desde el mismo punto, vemos que el lápiz A sobresale más. Decimos que el **lápiz A es más largo** y el **lápiz B es más corto**.
 
@@ -575,7 +635,9 @@ Al poner los dos lápices juntos, uno al lado del otro y alineados desde el mism
 
 Mateo mide el largo de su mesa usando sus manos, poniéndolas una tras otra sin dejar espacios.
 
-[Imagen: una mesa con varias manos dibujadas a lo largo de ella]
+
+::emoji::🪑::una mesa con varias manos dibujadas a lo largo de ella::
+
 
 La mesa mide **7 manos** de largo.
 
@@ -587,7 +649,9 @@ Ordenadas de la más corta a la más larga: **cinta B (5 pasos), cinta A (8 paso
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (alternativas).** [Imagen: un lápiz corto y un lápiz largo puestos juntos, alineados desde el mismo punto] ¿Cuál lápiz es más largo?
+**Pregunta 1 (alternativas).** 
+::emoji::✏️::un lápiz corto y un lápiz largo puestos juntos, alineados desde el mismo punto::
+ ¿Cuál lápiz es más largo?
 a) El lápiz corto
 b) El lápiz largo
 c) Miden lo mismo
@@ -699,7 +763,9 @@ Perro: 🐶🐶🐶🐶🐶 (5)
 Gato: 🐱🐱🐱 (3)
 Pez: 🐟🐟 (2)
 
-[Imagen: pictograma con filas de perros, gatos y peces representando la cantidad de niños que tiene cada mascota]
+
+![pictograma con filas de perros, gatos y peces representando la cantidad de niños que tiene cada mascota](/assets/imagenes/1-basico/033-pictograma-con-filas-de-perros-gatos-y-peces-repre.jpg)
+
 
 ¿Cuántos niños tienen gato? Contamos los dibujos de gato: **3 niños**.
 
@@ -716,7 +782,9 @@ En una sala hay 5 mochilas azules y 7 mochilas rojas. Construimos un pictograma 
 Mochila azul: 🎒🎒🎒🎒🎒 (5)
 Mochila roja: 🎒🎒🎒🎒🎒🎒🎒 (7)
 
-[Imagen: pictograma con 5 mochilas dibujadas en la fila azul y 7 mochilas dibujadas en la fila roja]
+
+![pictograma con 5 mochilas dibujadas en la fila azul y 7 mochilas dibujadas en la fila roja](/assets/imagenes/1-basico/034-pictograma-con-5-mochilas-dibujadas-en-la-fila-azu.jpg)
+
 
 #### Preguntas de autoevaluación
 

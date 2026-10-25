@@ -77,13 +77,16 @@ test.describe('Mis Logros — gamificación (Fase 1, ítem 2.2)', () => {
     await expect(page.locator('.resumen__racha-num')).toContainText('🔥');
   });
 
-  test('la grilla de insignias muestra las 15, con las de nivel desbloqueadas (Sofía ya tiene XP de sobra)', async ({ page }) => {
+  test('la grilla de insignias muestra las 15, con insignias desbloqueadas y bloqueadas', async ({ page }) => {
     await page.goto('/alumno/logros');
     await page.waitForSelector('.logro-card');
     await expect(page.locator('.logro-card')).toHaveCount(15);
-    // Sofía acumuló XP de sobra en otros tests — el logro de nivel más bajo (nivel_5)
-    // debería estar desbloqueado (sin el candado ni el estilo bloqueado).
-    const nivel5 = page.locator('.logro-card', { hasText: 'Nivel 5' });
-    await expect(nivel5).not.toHaveClass(/logro-card--bloqueado/);
+    // Sofía entregó al menos una evaluación en el test anterior — "Primer intento" debe
+    // estar desbloqueado (sin el candado ni el estilo bloqueado).
+    const primerIntento = page.locator('.logro-card', { hasText: 'Primer intento' });
+    await expect(primerIntento).not.toHaveClass(/logro-card--bloqueado/);
+    // Logros avanzados que aún no alcanza (Nivel 20) deben mostrarse bloqueados.
+    const nivel20 = page.locator('.logro-card', { hasText: 'Nivel 20' });
+    await expect(nivel20).toHaveClass(/logro-card--bloqueado/);
   });
 });

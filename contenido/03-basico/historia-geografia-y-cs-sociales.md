@@ -105,8 +105,8 @@ los países, incluido Chile, son **democracias** donde votan tanto hombres como 
 
 **Ejemplo 1 — Comparando cómo se vestían y cómo nos vestimos**
 
-[Imagen: a la izquierda, una persona griega con quitón y una persona romana con toga; a la
-derecha, un niño y una niña chilenos con ropa actual, como jeans y polerón]
+::emoji::👧::a la izquierda, una persona griega con quitón y una persona romana con toga; a la
+derecha, un niño y una niña chilenos con ropa actual, como jeans y polerón::
 
 *Paso a paso:* observamos que el quitón y la toga eran prendas hechas de una sola pieza de
 tela, sin costuras complejas, mientras que la ropa actual está cosida con distintas piezas de
@@ -124,8 +124,8 @@ detalles del lugar.
 
 **Ejemplo 3 — De los caminos romanos a las carreteras chilenas**
 
-[Imagen: a la izquierda, un camino romano empedrado y recto atravesando el campo; a la
-derecha, una carretera asfaltada chilena con autos y camiones]
+::emoji::🐦::a la izquierda, un camino romano empedrado y recto atravesando el campo; a la
+derecha, una carretera asfaltada chilena con autos y camiones::
 
 *Paso a paso:* identificamos que ambos, el camino romano y la carretera chilena, cumplen la
 misma función de conectar ciudades y permitir el transporte de personas y mercancías. La
@@ -274,9 +274,9 @@ animales, hoy están prohibidos.
 
 **Ejemplo 1 — Los Juegos Olímpicos, una tradición de miles de años**
 
-[Imagen: a la izquierda, atletas griegos antiguos compitiendo sin ropa en una pista de tierra,
+::emoji::🎨::a la izquierda, atletas griegos antiguos compitiendo sin ropa en una pista de tierra,
 con espectadores en gradas de piedra; a la derecha, atletas actuales en un estadio moderno con
-la bandera olímpica]
+la bandera olímpica::
 
 *Paso a paso:* comparamos ambas imágenes: **se mantiene** la idea de una competencia deportiva
 internacional que reúne a distintos pueblos, pero **ha cambiado** la forma —hoy hay muchos
@@ -293,8 +293,8 @@ manteniendo viva una tradición muy antigua, aunque con diseños propios de nues
 
 **Ejemplo 3 — El Coliseo de Roma y un estadio chileno**
 
-[Imagen: a la izquierda, el Coliseo de Roma, un gran anfiteatro ovalado de piedra; a la
-derecha, un estadio de fútbol chileno moderno, con gradas y techo]
+::emoji::🎨::a la izquierda, el Coliseo de Roma, un gran anfiteatro ovalado de piedra; a la
+derecha, un estadio de fútbol chileno moderno, con gradas y techo::
 
 *Paso a paso:* identificamos que ambos edificios cumplen una función parecida: reunir a mucha
 gente para presenciar un espectáculo. **Ha cambiado** el tipo de espectáculo (en el Coliseo a
@@ -439,9 +439,9 @@ que su costa está bañada por el océano Pacífico.
 
 **Ejemplo 1 — Dividiendo el globo terráqueo por la mitad**
 
-[Imagen: un globo terráqueo con una línea roja horizontal que lo rodea justo por el medio, con
+::emoji::🌊::un globo terráqueo con una línea roja horizontal que lo rodea justo por el medio, con
 la etiqueta "línea del Ecuador", y flechas que señalan "hemisferio norte" arriba de la línea y
-"hemisferio sur" debajo]
+"hemisferio sur" debajo::
 
 *Paso a paso:* ubicamos primero la línea del Ecuador, que divide el planeta en dos mitades
 iguales. Luego identificamos que todo lo que queda por encima de esa línea es el hemisferio
@@ -449,9 +449,9 @@ norte, y todo lo que queda por debajo es el hemisferio sur, donde se encuentra C
 
 **Ejemplo 2 — Los seis continentes en el mapa**
 
-[Imagen: un mapamundi con los seis continentes pintados de colores distintos y etiquetados:
+::emoji::🗺️::un mapamundi con los seis continentes pintados de colores distintos y etiquetados:
 América, Europa, Asia, África, Oceanía y Antártica, y los cinco océanos en azul con sus
-nombres]
+nombres::
 
 *Paso a paso:* recorremos el mapa nombrando cada continente y cada océano, y ubicamos a Chile
 dentro del continente americano, en la costa del océano Pacífico, en la zona sur del
@@ -603,9 +603,9 @@ vivir bien en ella:
 
 **Ejemplo 1 — Tres paisajes, tres climas**
 
-[Imagen: tres fotografías en fila — a la izquierda, una selva tropical densa y muy verde con
+::emoji::🌳::tres fotografías en fila — a la izquierda, una selva tropical densa y muy verde con
 lluvia; al centro, un paisaje con árboles que cambian de color en otoño, típico de una zona
-templada; a la derecha, un paisaje helado con hielo, nieve y un iglú]
+templada; a la derecha, un paisaje helado con hielo, nieve y un iglú::
 
 *Paso a paso:* observamos las pistas de cada paisaje: mucha vegetación y lluvia constante
 indica **zona cálida**; árboles que cambian según la estación indica **zona templada**; hielo
@@ -622,9 +622,9 @@ lluvia y el calor húmedo.
 
 **Ejemplo 3 — Chile, un país mayormente de zona templada**
 
-[Imagen: un mapa de Chile con la mayor parte del territorio pintado de un color que representa
+::emoji::🗺️::un mapa de Chile con la mayor parte del territorio pintado de un color que representa
 "zona templada", y una pequeña franja en el extremo sur pintada de otro color que representa
-"zona fría"]
+"zona fría"::
 
 *Paso a paso:* observamos que la mayor parte de Chile —incluyendo la zona centro y sur del
 país, donde vive la mayoría de la población— se ubica en la zona templada, con sus cuatro
@@ -777,8 +777,8 @@ garantizar estos derechos:
 
 **Ejemplo 1 — La alimentación escolar de JUNAEB**
 
-[Imagen: un comedor escolar donde estudiantes reciben una bandeja con almuerzo, y un cartel en
-la pared que dice "JUNAEB - Programa de Alimentación Escolar"]
+::emoji::🎨::un comedor escolar donde estudiantes reciben una bandeja con almuerzo, y un cartel en
+la pared que dice "JUNAEB - Programa de Alimentación Escolar"::
 
 *Paso a paso:* identificamos que este programa concreto garantiza el **derecho a la
 alimentación** de muchos niños y niñas en Chile, entregando comida gratuita en la escuela,

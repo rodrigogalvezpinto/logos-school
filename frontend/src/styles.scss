@@ -10,6 +10,8 @@
   /* Variante oscurecida para texto sobre --color-secundario-suave — el coral de marca
      (#ff6b4a) da 2.38:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. */
   --color-secundario-texto: #ae3818;
+  /* Variante para badge de campana (necesita mejor contraste con blanco - WCAG AA 4.5:1) */
+  --color-secundario-badge: #d62674;
   --color-exito: #22c55e;
   --color-exito-suave: #e7f9ee;
   /* Variante oscurecida para texto sobre fondos claros/blancos — el verde de marca
@@ -26,10 +28,10 @@
   --color-error: #ef4444;
   --color-error-suave: #fde8e8;
   /* Variante oscurecida para texto sobre fondos claros/blancos — el rojo de marca (#ef4444)
-     da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1 (mismo problema que
-     --color-secundario-texto/--color-exito-texto/--color-alerta-texto). Todos los usos de
-     `color: var(--color-error)` como texto en el proyecto se migraron a esta variante. */
-  --color-error-texto: #d73d3d;
+     da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. Se usa #991b1b que cumple
+     WCAG AA (contraste ~5.2:1 sobre blanco). Todos los usos de `color: var(--color-error)` como
+     texto en el proyecto se migraron a esta variante. */
+  --color-error-texto: #991b1b;
 
   --fondo: #fafafa;
   --fondo-tarjeta: #ffffff;
@@ -201,4 +203,131 @@ button {
   font-size: 0.95rem;
   cursor: pointer;
   color: var(--texto-principal);
+}
+
+/* Emoji educativo inline - generado por EmojiPipe */
+.emoji-educativo-inline {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  background: linear-gradient(135deg, var(--color-primario-suave) 0%, #f0f0ff 100%);
+  border-radius: var(--radio-basica);
+  border-left: 4px solid var(--color-primario);
+  box-shadow: var(--sombra-tarjeta);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeIn 0.5s ease-in;
+}
+
+.emoji-educativo-inline:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(91, 79, 233, 0.15);
+}
+
+.emoji-educativo-inline__icono {
+  font-size: 5rem;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  animation: bounce 2s ease-in-out infinite;
+  animation-play-state: paused;
+}
+
+.emoji-educativo-inline:hover .emoji-educativo-inline__icono {
+  animation-play-state: running;
+}
+
+.emoji-educativo-inline__descripcion {
+  font-size: 0.9rem;
+  color: var(--texto-secundario);
+  text-align: center;
+  font-style: italic;
+  max-width: 300px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .emoji-educativo-inline {
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+
+  .emoji-educativo-inline__icono {
+    font-size: 3.5rem;
+  }
+
+  .emoji-educativo-inline__descripcion {
+    font-size: 0.8rem;
+    max-width: 250px;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Componentes matemáticos integrados en Markdown */
+.componente-matematico {
+  display: block;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--color-primario-suave);
+  border-radius: var(--radio-media);
+  text-align: center;
+}
+
+.componente-recta .recta-svg {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.componente-fraccion .fraccion-svg {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+}
+
+/* Mensaje vacío para cuando no hay pruebas disponibles */
+.mensaje-vacio {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: var(--fondo-tarjeta);
+  border-radius: var(--radio-basica);
+  box-shadow: var(--sombra-tarjeta);
+  margin-top: 2rem;
+}
+
+.mensaje-vacio__icono {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.mensaje-vacio h3 {
+  margin: 0 0 0.5rem;
+  color: var(--texto-principal);
+}
+
+.mensaje-vacio p {
+  margin: 0;
+  color: var(--texto-secundario);
 }

@@ -10,7 +10,7 @@ export default defineConfig({
   reporter: [['list']],
   globalSetup: './e2e/global-setup.ts',
   use: {
-    baseURL: 'http://localhost:4300',
+    baseURL: 'http://localhost:4200',
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
   },

@@ -117,6 +117,14 @@ interface GrupoAsignatura {
         </div>
       </div>
     }
+
+    @if (!grupos().length && !examenIntegrado()) {
+      <div class="mensaje-vacio">
+        <span class="mensaje-vacio__icono">🎉</span>
+        <h3>¡Buen trabajo!</h3>
+        <p>Has completado todas las prácticas disponibles. Sigue estudiando las guías para aprender más.</p>
+      </div>
+    }
   `,
   styles: [
     `

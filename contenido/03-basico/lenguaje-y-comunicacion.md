@@ -53,7 +53,7 @@ Ya sabías reconocer información explícita e implícita y ordenar la secuencia
 >
 > Como agradecimiento, el señor Osvaldo le ofreció a Valentina el billete de diez mil pesos, pero ella lo rechazó amablemente y solo aceptó una manzana que él tenía en la cocina. Esa noche, Valentina le contó la historia completa a su familia durante la cena, y todos coincidieron en que había hecho lo correcto.
 
-[Imagen: una niña con mochila celeste llena de parches, tocando el timbre de un edificio, mientras un señor mayor con bastón abre la puerta]
+::emoji::👧::una niña con mochila celeste llena de parches, tocando el timbre de un edificio, mientras un señor mayor con bastón abre la puerta::
 
 ### Actividades resueltas
 
@@ -158,7 +158,7 @@ Los poemas son textos literarios que se organizan en **versos** (cada línea) y 
 > mi abuelo y yo, en silencio,
 > escuchamos lo que el mar cuenta.
 
-[Imagen: un abuelo y su nieta sentados en un banco frente al mar de Valparaíso, al atardecer, con gaviotas volando]
+::emoji::🌊::un abuelo y su nieta sentados en un banco frente al mar de Valparaíso, al atardecer, con gaviotas volando::
 
 ### Actividades resueltas
 
@@ -259,7 +259,7 @@ Ahora vamos a leer textos no literarios más variados: cartas, biografías, rela
 > - *Ladera*: la parte inclinada de un cerro o volcán, desde la base hasta la cima.
 > - *Magma*: roca derretida que se encuentra bajo la superficie de la Tierra.
 
-[Imagen: un volcán nevado de forma cónica, con una pequeña columna de humo blanco saliendo de su cima, y una señal de advertencia amarilla con el símbolo de una montaña y ondas]
+::emoji::⛰️::un volcán nevado de forma cónica, con una pequeña columna de humo blanco saliendo de su cima, y una señal de advertencia amarilla con el símbolo de una montaña y ondas::
 
 **Índice de un libro (para practicar cómo se usa)**
 
