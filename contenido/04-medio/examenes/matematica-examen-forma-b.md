@@ -195,37 +195,59 @@ d) no es posible calcular porcentajes a partir de una encuesta
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Matemática — 4° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA | Eje |
-|---|---|---|---|
-| 1 | b) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
-| 2 | b) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
-| 3 | b) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
-| 4 | b) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
-| 5 | M = 900.000×(1,04)⁵ ≈ 900.000×1,21665 ≈ **$1.094.990** | OA 1 | Álgebra y Funciones |
-| 6 | TEA = (1+0,20/12)¹²−1 = (1,016667)¹²−1 ≈ 1,2194−1 = **0,2194 ≈ 21,94% efectivo anual** | OA 1 | Álgebra y Funciones |
-| 7 | conviene el **Crédito Q**, porque su CAE (11%) es menor que el del Crédito P (13%); la tasa anunciada por sí sola no incluye comisiones u otros cargos, por lo que no refleja el costo real del crédito | OA 1 | Álgebra y Funciones |
-| 8 | el sueldo aumentó 624.000/600.000−1 = **4%**, mientras el IPC aumentó **6%**. Como el aumento del sueldo (4%) fue menor que la inflación (6%), el poder adquisitivo real **disminuyó** | OA 1 | Álgebra y Funciones |
-| 9 | b) f(x) = 5x³ (exponente entero positivo mayor que 1; en 5/x² el exponente es negativo, en 5ˣ la variable está en el exponente) | OA 3 | Álgebra y Funciones |
-| 10 | c) el valor medio (central) alrededor del cual oscila la función | OA 3 | Álgebra y Funciones |
-| 11 | c) representan el mismo tipo de oscilación, pero con distinto punto de partida (desfase) | OA 3 | Álgebra y Funciones |
-| 12 | b) se multiplica por 4 (al reducir a la mitad la distancia, d² se divide por 4, y como está en el denominador, F se multiplica por 4) | OA 3 | Álgebra y Funciones |
-| 13 | f(1)=5×1=5; f(3)=5×81=**405**; 405/5=**81**, es decir, al triplicar x el resultado aumenta en un factor de 3⁴=**81** | OA 3 | Álgebra y Funciones |
-| 14 | I(2)=1.200/4=**300**; I(8)=1.200/64=**18,75**; al cuadruplicar la distancia (de 2 a 8 m), la intensidad se reduce a un **dieciseisavo** (de 300 a 18,75), no a un cuarto | OA 3 | Álgebra y Funciones |
-| 15 | temperatura máxima = D+A = 27+3 = **30°C**; temperatura mínima = D−A = 27−3 = **24°C**; período T = 2π/(π/12) = **24 horas** | OA 3 | Álgebra y Funciones |
-| 16 | (1) nivel de un río según las mareas: modelo **trigonométrico periódico**, porque se repite en ciclos regulares (diarios); (2) sustancia radiactiva que se reduce a la mitad cada cierto tiempo: modelo **exponencial decreciente**, porque decae de forma acelerada y no vuelve a repetirse, no oscila | OA 3 | Álgebra y Funciones |
-| 17 | b) el peso en gramos de 300 sandías cosechadas en un campo (variable continua que se distribuye simétricamente en torno a un promedio) | OA 2 | Probabilidad y Estadística |
-| 18 | b) 95% | OA 2 | Probabilidad y Estadística |
-| 19 | c) 5 (μ = n×p = 20×0,25 = 5) | OA 2 | Probabilidad y Estadística |
-| 20 | b) la muestra tiene sesgo de selección: son seguidores del producto, no representan a toda la población | OA 2 | Probabilidad y Estadística |
-| 21 | n=8, p=0,5, k=6. C(8,6)=28. P(X=6) = 28×(0,5)⁶×(0,5)² = 28×(0,5)⁸ = 28/256 ≈ **0,109375 (10,94%)** | OA 2 | Probabilidad y Estadística |
-| 22 | μ = n×p = 300×0,03 = **9 piezas defectuosas esperadas**; σ² = n×p×(1−p) = 300×0,03×0,97 = 8,73; σ = √8,73 ≈ **2,95** | OA 2 | Probabilidad y Estadística |
-| 23 | μ±3σ = 60±24, es decir, entre **36 y 84 minutos** | OA 2 | Probabilidad y Estadística |
-| 24 | **No**, ambas variables probablemente están asociadas a una tercera variable (por ejemplo, el tamaño o densidad poblacional de la comuna); es un caso de **correlación sin causalidad**, no de que las canchas de fútbol causen directamente la apertura de farmacias | OA 2 | Probabilidad y Estadística |
-| 25 | se usa la **regla de la probabilidad total**: P(retraso) = P(Norte)×P(retraso\|Norte) + P(Sur)×P(retraso\|Sur) = 0,60×0,05 + 0,40×0,12 = 0,03+0,048 = **0,078 (7,8%)** | OA 2 | Probabilidad y Estadística |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de cobertura curricular
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 13 × 1 punto = 13 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 13 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 13 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **13** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 13 (100%) | 7,0 |
+| 12 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 9 (70%) | 4,9 |
+| 8 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 3 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
 
 | OA | N° de preguntas | Eje |
 |---|---|---|

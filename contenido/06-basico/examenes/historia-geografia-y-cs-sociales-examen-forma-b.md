@@ -380,39 +380,59 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 6° Básico — Forma B
 
-| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
-|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | a) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
-| 2  | Alternativas | a) A la independencia de Estados Unidos (1776) | OA 1 | Historia | 1 |
-| 3  | Alternativas | b) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
-| 4  | Desarrollo breve | Se enfrentaron los **patriotas** (que buscaban la autonomía o independencia de España) y los **realistas** (fieles a la Corona, que buscaban mantener el dominio colonial); se espera además mencionar el aporte de una mujer destacada, como Javiera Carrera (apoyo activo a la causa patriota) o Paula Jaraquemada (protección de tropas patriotas arriesgando su hacienda) | OA 2 | Historia | 2 |
-| 5  | Alternativas | a) Los liberales | OA 3 | Historia | 1 |
-| 6  | Alternativas | b) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
-| 7  | Alternativas | a) Valdivia y Llanquihue | OA 5 | Historia | 1 |
-| 8  | Desarrollo breve | Se espera que la respuesta reconozca la importancia estratégica de la zona austral, especialmente por su cercanía al Estrecho de Magallanes —ruta clave para la navegación entre los océanos Atlántico y Pacífico antes del Canal de Panamá— y el interés de asegurar la soberanía chilena en un territorio poco poblado | OA 5 | Historia | 2 |
-| 9  | Alternativas | b) 1935 | OA 7 | Historia | 1 |
-| 10 | Alternativas | b) Un mayor acceso a la educación permitió a más personas acceder a empleos calificados, fortaleciendo a la clase media | OA 7 | Historia | 1 |
-| 11 | Alternativas | b) El plebiscito de 1988 | OA 8 | Historia | 1 |
-| 12 | Desarrollo extenso | Comparar testimonios distintos permite comprender que las personas vivieron el período de forma muy diferente según su posición y experiencia, evitando explicaciones simplificadas de un solo punto de vista; no obstante, hoy existe un amplio consenso en Chile respecto al valor de la democracia como forma de gobierno y al rechazo de las violaciones a los derechos humanos ocurridas durante la dictadura, hechos ampliamente reconocidos y documentados | OA 8 | Historia | 3 |
-| 13 | Alternativas | b) El éxodo rural y la creciente urbanización del país | OA 9 | Historia | 1 |
-| 14 | Alternativas | c) El clima y el relieve | OA 11 | Geografía | 1 |
-| 15 | Alternativas | a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con otras regiones | OA 11 | Geografía | 1 |
-| 16 | Alternativas | b) Escasez de agua | OA 12 | Geografía | 1 |
-| 17 | Desarrollo breve | Se espera que la respuesta reconozca que la enorme extensión de Chile de norte a sur genera climas y relieves muy distintos, y que mencione correctamente al menos dos ambientes naturales reales (por ejemplo, altiplánico — frío y baja disponibilidad de oxígeno / ganadería de camélidos y agricultura en terrazas; andino — relieve abrupto / recursos hídricos y turismo de montaña) | OA 12 | Geografía | 2 |
-| 18 | Alternativas | a) Poder Ejecutivo | OA 15 | Formación Ciudadana | 1 |
-| 19 | Alternativas | c) Alcalde | OA 15 | Formación Ciudadana | 1 |
-| 20 | Alternativas | b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la Constitución | OA 16 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | Se espera que la respuesta reconozca que, sin una norma fundamental que limite el poder de las autoridades y proteja los derechos de las personas, existiría un mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos y libertades individuales | OA 16 | Formación Ciudadana | 2 |
-| 22 | Alternativas | b) 1948 | OA 17 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Cualquier acción concreta y pertinente del Estado (por ejemplo, construcción de hospitales y consultorios públicos, atención de salud gratuita o subsidiada, construcción de escuelas públicas, becas o programas de alimentación escolar) que se relacione correctamente con garantizar el derecho a la salud o a la educación sin depender de la capacidad económica de las personas | OA 17 | Formación Ciudadana | 2 |
-| 24 | Alternativas | a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión de los demás, sin discriminar ni difamar | OA 18 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | El derecho al descanso y a un entorno limpio de unos vecinos puede entrar en tensión con el derecho a la recreación de otros; el equilibrio entre derechos y deberes es importante porque el ejercicio de un derecho no puede pasar a llevar los derechos de los demás, lo que permite la convivencia social y el bien común; el Estado, mediante leyes y normas (por ejemplo, ordenanzas municipales sobre uso de espacios públicos), crea las condiciones para que ese equilibrio pueda respetarse y, si es necesario, hacerse cumplir | OA 18 | Formación Ciudadana | 3 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-**Puntaje total: 34 puntos**
+### Resumen de puntaje
 
-### Distribución por eje y OA
+- **Total preguntas de alternativas:** 18 × 1 punto = 18 puntos
+- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 34 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 18 | 1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20, 22, 24 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 5 | 4, 8, 17, 21, 23 |
+| Desarrollo extenso | 2 | 12, 25 |
+| **Total** | **25** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 34 (100%) | 7,0 |
+| 31 (90%) | 6,3 |
+| 27 (80%) | 5,6 |
+| 24 (70%) | 4,9 |
+| 20 (60% — exigencia mínima) | **4,0** |
+| 17 (50%) | 3,5 |
+| 14 (40%) | 3,0 |
+| 10 (30%) | 2,5 |
+| 7 (20%) | 2,0 |
+| 3 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

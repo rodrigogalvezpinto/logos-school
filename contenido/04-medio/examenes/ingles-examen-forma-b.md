@@ -212,37 +212,59 @@ relativo o tercer condicional).
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 4° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | b) A society where the government controls information and punishes independent thought. | OA1 |
-| 2 | entertaining / informative. | OA1 |
-| 3 | A space station in 2200 / Nadia / the AI has been hiding information from the crew. | OA1 |
-| 4 | da una opinión evaluativa sobre una obra. | OA1 |
-| 5 | True (Verdadero) — el medio (revista para desarrolladores) y el contenido técnico indican audiencia especializada. | OA1 |
-| 6 | True (Verdadero) — *skimming* (idea general) y *scanning* (dato puntual) son estrategias de lectura distintas. | OA1 |
-| 7 | b) Time travel and its unexpected consequences. | OA1 |
-| 8 | Respuesta personal coherente, p. ej.: *"A government website would use formal, precise language to explain regulations, while a personal blog about the same science-fiction topic would use informal, humorous language to entertain readers."* | OA1 |
-| 9 | he had been. | OA3 |
-| 10 | a) He must have walked through a sprinkler or spilled water on himself. | OA3 |
-| 11 | True (Verdadero) — *might have* expresa posibilidad, no certeza absoluta. | OA3 |
-| 12 | collecting vintage vinyl records / since age twelve / jazz. | OA3 |
-| 13 | una posibilidad no confirmada sobre el pasado. | OA3 |
-| 14 | *They said that they were going to travel to Japan the following year.* | OA3 |
-| 15 | b) She might have been asleep, or her phone might have been off. | OA3 |
-| 16 | Respuesta personal coherente, p. ej.: *"My friend told me that she had stopped using plastic bags last year. I think this must have been a difficult change at first, because plastic is so common. In my opinion, small individual choices like this can still make a difference."* | OA3 |
-| 17 | b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions." | OA4 |
-| 18 | identity. | OA4 |
-| 19 | True (Verdadero) — una buena síntesis también puede señalar en qué difieren las fuentes, no solo en qué coinciden. | OA4 |
-| 20 | According to / Meanwhile / suggest. | OA4 |
-| 21 | introducir una conclusión general al cierre de un texto. | OA4 |
-| 22 | *It means valuing family, sharing good food, and being proud of where they come from, even when they disagree with some things about their country.* | OA4 |
-| 23 | b) "If I hadn't grown up speaking the language that is still spoken at home every day, I wouldn't have felt as connected to my grandparents' culture." | OA4 |
-| 24 | is supported. | OA4 |
-| 25 | Respuesta personal coherente, p. ej.: *"Having grown up in a coastal town, I've realized that the ocean is a big part of who I am. My older brother once told me that he had learned to sail before he could ride a bike. If I hadn't grown up so close to the sea, I wouldn't feel as calm as I do whenever I'm near it."* | OA4 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 2, 4, 5, 7, 8, 9, 11, 12 |
+| Verdadero o Falso (con justificación) | 3 | 3, 6, 10 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

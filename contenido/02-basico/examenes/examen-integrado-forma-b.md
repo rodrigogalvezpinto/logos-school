@@ -215,8 +215,8 @@ d) Los medios de transporte
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Ciencias Naturales | **b) Bombear la sangre por todo el cuerpo.** | OA 7 |
-| 2 | Historia, Geografía y Cs. Sociales | **b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
+| 1 | Ciencias Naturales | **a) Bombear la sangre por todo el cuerpo.** | OA 7 |
+| 2 | Historia, Geografía y Cs. Sociales | **a) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
 | 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
 | 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |

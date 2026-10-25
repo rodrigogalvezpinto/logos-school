@@ -602,9 +602,9 @@ Se preguntó a 20 estudiantes cuántas mascotas tienen, obteniendo estos datos: 
 | N° mascotas | Frecuencia absoluta | Frecuencia relativa |
 |---|---|---|
 | 0 | 4 | 4/20 = 0,20 (20%) |
-| 1 | 8 | 8/20 = 0,40 (40%) |
+| 1 | 9 | 9/20 = 0,45 (45%) |
 | 2 | 5 | 5/20 = 0,25 (25%) |
-| 3 | 3 | 3/20 = 0,15 (15%) |
+| 3 | 2 | 2/20 = 0,10 (10%) |
 
 La **frecuencia absoluta** es la cantidad de veces que aparece cada valor; la **frecuencia relativa** es esa cantidad dividida por el total (y se puede expresar como decimal o porcentaje).
 

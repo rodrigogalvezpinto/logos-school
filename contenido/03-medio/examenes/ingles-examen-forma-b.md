@@ -197,37 +197,59 @@ relativo**.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 3° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | True (Verdadero) — *it is common* indica que la práctica está extendida (widespread) entre los estudiantes. | OA1 |
-| 2 | marcar una diferencia. | OA1 |
-| 3 | a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food. | OA1 |
-| 4 | although. | OA1 |
-| 5 | *The Day of the Dead is a Mexican celebration where families build colorful altars with photos, food, and flowers. Its purpose is to celebrate the lives of loved ones instead of mourning their deaths.* | OA1 |
-| 6 | dates back to. | OA1 |
-| 7 | False (Falso) — el texto dice que es una "common practice" (práctica común), justo lo opuesto de "unusual" (inusual). | OA1 |
-| 8 | b) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
-| 9 | fast fashion. | OA3 |
-| 10 | On the other hand. | OA3 |
-| 11 | True (Verdadero) — el OA pide explícitamente comparar información sobre un tema entre distintos textos, contrastando más de una fuente. | OA3 |
-| 12 | Respuesta personal coherente, p. ej.: *"The article discusses the benefits of remote work for teenagers with part-time jobs. In my view, this argument is not fully convincing because it does not consider students without reliable internet access."* | OA3 |
-| 13 | studying (o "homework"). | OA3 |
-| 14 | True (Verdadero) — este OA exige adecuar cómo comunicas un mismo contenido según quién te lee y para qué escribes. | OA3 |
-| 15 | agregar una idea en la misma dirección. | OA3 |
-| 16 | b) This article explores how artificial intelligence is changing the way students learn and complete assignments. | OA3 |
-| 17 | Respuesta coherente usando conectores variados, p. ej.: *Firstly / In addition* o *First of all / Moreover*. | OA4 |
-| 18 | True (Verdadero) — el OA pide explícitamente evaluar la coherencia entre forma y propósito de un texto. | OA4 |
-| 19 | Respuesta personal coherente y gramaticalmente correcta, p. ej.: *"One tradition that is important to me is 'once' (afternoon tea). It is celebrated every day with my family. If I hadn't grown up with this tradition, I wouldn't have learned how much conversation matters to my family."* | OA4 |
-| 20 | are organized. | OA4 |
-| 21 | that (o "which"). | OA4 |
-| 22 | True (Verdadero) — este OA pide no solo escribir el texto, sino también revisar si su forma corresponde a su función comunicativa. | OA4 |
-| 23 | b) This is a recipe that has been in my family for years. | OA4 |
-| 24 | c) This festival is celebrated by my family every year with a big dinner. | OA4 |
-| 25 | Respuesta personal coherente, p. ej.: *"Hi! In my family, we have a tradition that is celebrated every Christmas Eve. A big dinner is prepared, and we share stories about our relatives. If I hadn't grown up with this custom, I wouldn't have felt so connected to my family."* | OA4 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 2, 3, 5, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 3 | 1, 4, 6 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

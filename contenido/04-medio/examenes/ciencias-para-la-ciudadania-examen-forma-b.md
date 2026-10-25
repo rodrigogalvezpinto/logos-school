@@ -256,37 +256,59 @@ económica.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias para la Ciudadanía — 4° Medio — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | b) Eficiencia energética | OA 2 |
-| 2 | Verdadero o falso | Falso. Un proyecto técnicamente correcto puede fracasar si es demasiado costoso o si la comunidad no lo comprende ni lo apoya; la evidencia científica debe complementarse con viabilidad económica y aceptación social. | OA 2 |
-| 3 | Desarrollo breve | Proteger totalmente implica no permitir ninguna extracción ni actividad sobre el recurso (por ejemplo, la zona núcleo de la reserva); utilizar de forma sostenible implica permitir una actividad regulada (pesca artesanal con cuotas y control técnico) que no compromete la capacidad del recurso de regenerarse. Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
-| 4 | Alternativas | b) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
-| 5 | Desarrollo breve | Debe medir el consumo real (lecturas del medidor por sala u horario), identificar los focos de mayor gasto y comparar con un período anterior o un estándar de referencia, para diseñar una solución dirigida al problema real y poder medir su efectividad después de implementada; un proyecto "basado en evidencia" comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
-| 6 | Desarrollo extenso | Respuesta abierta; por ejemplo, instalar un sistema solar o híbrido para generar electricidad en tierra (eficiencia energética / reducción de emisiones) junto con una planta de compostaje o valorización de los desechos de pesca (gestión de residuos); debe evaluar el costo de inversión inicial, la posibilidad de subsidios estatales (por ejemplo, del Ministerio de Energía) y la necesidad de comprometer a la organización de pescadores para asegurar el uso y mantención del proyecto en el tiempo. | OA 2 |
-| 7 | Verdadero o falso | Falso. En el relleno sanitario, los residuos orgánicos se descomponen sin oxígeno y generan metano, un potente gas de efecto invernadero; reducir lo que llega al relleno (por ejemplo, mediante compostaje) también reduce esas emisiones. | OA 2 |
-| 8 | Alternativas | b) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
-| 9 | Desarrollo breve | Debe explicar que el proyecto gestiona el residuo evitando que se acumule sin control, y que al capturar el metano en vez de dejarlo escapar a la atmósfera reduce directamente las emisiones de un gas de efecto invernadero potente, transformando además ese gas en una fuente útil de energía. | OA 2 |
-| 10 | Desarrollo extenso | La opción (a) destruye directamente parte del humedal (hábitat de aves, filtración de agua, protección costera frente a marejadas); la opción (b) permite el uso turístico y educativo del humedal sin destruirlo, siendo compatible con su conservación. Un proyecto es sostenible cuando compatibiliza el uso humano con el mantenimiento de la capacidad del ecosistema de regenerarse y seguir prestando sus servicios, no cuando maximiza el uso a corto plazo sin considerar el impacto. | OA 2 |
-| 11 | Alternativas | b) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
-| 12 | Desarrollo breve | Debe señalar que al usar especies nativas se restablece hábitat y biodiversidad propia del lugar (conservación de ecosistemas) y que, al mismo tiempo, el bosque en crecimiento captura y almacena CO₂ atmosférico, funcionando como sumidero de carbono, lo que contribuye además a la mitigación del cambio climático. | OA 2 |
-| 13 | Desarrollo extenso | Debe exigir estudios hidrogeológicos independientes sobre la capacidad de recarga del acuífero y el impacto de la extracción minera sobre su disponibilidad futura; evaluar si el costo y plazo de la planta desalinizadora realmente compensa el agua extraída (viabilidad económica y técnica); y asegurar consulta y participación real de la comunidad afectada en la decisión, no solo la oferta de compensación de la empresa. | OA 2 |
-| 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |
-| 15 | Verdadero o falso | Falso. Los modelos climáticos manejan rangos de proyección según distintos escenarios de emisiones futuras, pero esa incertidumbre en la magnitud exacta no cuestiona la tendencia general de calentamiento, bien establecida por múltiples líneas de evidencia. | OA 3 |
-| 16 | Desarrollo breve | Debe revisar si el modelo ha sido validado comparando proyecciones pasadas con lo efectivamente ocurrido, si está respaldado por instituciones científicas reconocidas, si considera distintos escenarios de emisiones (no solo uno), y si sus resultados son consistentes con otros modelos independientes sobre la misma región. | OA 3 |
-| 17 | Alternativas | b) Muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente a la velocidad de los cambios ambientales actuales | OA 3 |
-| 18 | Desarrollo extenso | La opción (a) captura carbono más rápido y a menor costo inicial, pero genera un ecosistema poco diverso, con menor valor de hábitat para fauna nativa; la opción (b) captura carbono más lento, pero restaura hábitat, biodiversidad y servicios ecosistémicos propios del lugar, siendo más resiliente a largo plazo. Debe sopesar la velocidad de mitigación climática frente al valor ecológico y la resiliencia del ecosistema restaurado. | OA 3 |
-| 19 | Verdadero o falso | Falso. El OA pide explícitamente analizar controversias considerando implicancias sociales, económicas, éticas y ambientales en conjunto, ya que las decisiones sobre cambio climático rara vez tienen una sola dimensión relevante. | OA 3 |
-| 20 | Desarrollo breve | El metano es un gas de efecto invernadero con una capacidad de retener calor mucho mayor que el CO₂ en el corto plazo; al reducir su liberación (por ejemplo, mediante cambios en la alimentación del ganado, mejor manejo de estiércol o captura de biogás en planteles ganaderos) se reduce directamente una de las causas del calentamiento global, por lo que corresponde a mitigación, no a adaptación. | OA 3 |
-| 21 | Desarrollo extenso | El aumento de temperatura media (componente físico) incrementa la frecuencia de olas de calor y seca la vegetación, aumentando el material combustible disponible para incendios forestales (efecto en el ecosistema); en el norte, lluvias más intensas y esporádicas sobre suelos áridos con poca vegetación facilitan aluviones. Medida de adaptación aceptable: por ejemplo, sistemas de alerta temprana y planes de evacuación en zonas de riesgo de aluvión, o cortafuegos y ordenamiento territorial que limiten la construcción en zonas de alto riesgo de incendio. | OA 3 |
-| 22 | Alternativas | b) Las actividades humanas han intensificado el efecto invernadero al aumentar la concentración atmosférica de gases como el CO₂, elevando la temperatura media del planeta más allá de su variabilidad natural | OA 3 |
-| 23 | Desarrollo breve | Debe señalar que los bosques actúan como sumideros de carbono, capturando y almacenando CO₂ mediante fotosíntesis; al eliminarlos se pierde esa capacidad de captura y, además, gran parte del carbono almacenado en la biomasa puede liberarse a la atmósfera (por ejemplo, si se queman los árboles talados), por lo que la deforestación contribuye directamente al aumento de gases de efecto invernadero. | OA 3 |
-| 24 | Desarrollo extenso | El adelanto de las temperaturas primaverales (efecto físico del cambio climático) puede estar induciendo estos cambios de comportamiento (efecto biológico); el riesgo es un desacople temporal entre especies interdependientes: si la planta o el insecto del que un ave se alimenta no adelanta su ciclo al mismo ritmo, el ave podría llegar a un momento en que no hay suficiente alimento disponible, afectando su reproducción y supervivencia. | OA 3 |
-| 25 | Desarrollo extenso | Respuesta abierta; por ejemplo, ventaja: reduce las emisiones directas de gases de efecto invernadero y de contaminantes locales asociadas al transporte a combustión, mejorando también la calidad del aire urbano; limitación: el beneficio climático depende de que la electricidad usada provenga de fuentes renovables, y el costo inicial de renovar flotas o comprar vehículos eléctricos es alto, lo que puede requerir subsidios estatales o financiamiento a largo plazo para ser viable a gran escala. | OA 3 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 6 × 1 punto = 6 puntos
+- **Total preguntas desarrollo breve:** 4 × 2 puntos = 8 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 20 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 6 | 1, 6, 9 |
+| Verdadero o Falso (con justificación) | 3 | 4, 8, 10 |
+| Desarrollo breve | 4 | 2, 3, 5, 12 |
+| Desarrollo extenso | 2 | 7, 11 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 20 (100%) | 7,0 |
+| 18 (90%) | 6,3 |
+| 16 (80%) | 5,6 |
+| 14 (70%) | 4,9 |
+| 12 (60% — exigencia mínima) | **4,0** |
+| 10 (50%) | 3,5 |
+| 8 (40%) | 3,0 |
+| 6 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **7 preguntas de alternativas** (N° 1, 4, 8, 11, 14, 17, 22) × 1 punto = 7 puntos
 - **4 preguntas de verdadero o falso** (N° 2, 7, 15, 19) × 1 punto = 4 puntos

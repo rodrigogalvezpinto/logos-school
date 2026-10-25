@@ -291,15 +291,15 @@ Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
 
 | N° | Tipo | Clave / Elementos esperados en la respuesta | OA |
 |----|------|-----------------------------------------------|:---:|
-| 1 | Selección múltiple | **b)** La soberanía popular | OA 1 |
+| 1 | Selección múltiple | **a)** La soberanía popular | OA 1 |
 | 2 | Desarrollo breve | Debe explicar que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres y con opciones reales (pluralismo); que un gobierno *afirme* representar al pueblo, sin elecciones ni oposición legal, no sustituye ese requisito. | OA 1 |
-| 3 | Selección múltiple | **b)** La igualdad de voto | OA 1 |
-| 4 | Selección múltiple | **b)** Control de la agenda | OA 1 |
+| 3 | Selección múltiple | **a)** La igualdad de voto | OA 1 |
+| 4 | Selección múltiple | **a)** Control de la agenda | OA 1 |
 | 5 | Desarrollo extenso | Debe elegir dos atributos distintos (de: participación efectiva, igualdad de voto, control de la agenda, Estado de Derecho, respeto a libertades fundamentales), dar un ejemplo propio y coherente de cada uno (no reutilizado de esta prueba), y explicar que una democracia real requiere el cumplimiento **simultáneo** de todos sus atributos, no de uno solo de forma aislada. | OA 1 |
 | 6 | Selección múltiple | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
 | 7 | Desarrollo breve | Debe explicar que una demanda de pensión de alimentos es una materia **de familia, no penal**, por lo que corresponde a la CAJ; la Defensoría Penal Pública solo entrega defensa gratuita en causas penales. | OA 2 |
 | 8 | Selección múltiple | **c)** La Corte Suprema | OA 2 |
-| 9 | Selección múltiple | **b)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
+| 9 | Selección múltiple | **a)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
 | 10 | Selección múltiple | **b)** El sueldo justo | OA 4 |
 | 11 | Desarrollo extenso | Debe reconocer que no hay una única respuesta correcta. Postura de mercado: los sueldos deben reflejar productividad y la oferta y demanda de trabajo. Postura del mínimo garantizado: el Estado debe asegurar condiciones de vida digna independiente de lo que determine el mercado. Ambas deben presentarse como legítimas, sin calificar una como "la correcta". | OA 4 |
 | 12 | Selección múltiple | **b)** Proveedora de bienes y servicios | OA 4 |

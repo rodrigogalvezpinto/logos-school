@@ -61,19 +61,17 @@ Explica por qué el cactus crece de forma nativa en el norte de Chile y la arauc
 
 **4. (Lenguaje y Comunicación — Verdadero o falso)** Lee el siguiente texto y responde.
 
-### "El cometa de Joaquín"
+### "El viaje en bote de Mateo"
 
-> Una tarde de septiembre, con mucho viento y el cielo despejado, Joaquín salió con su hermana Antonia a volar cometa a un cerro cerca de su casa, en Vallenar. Joaquín tenía nueve años, era flaco y ágil, y le encantaba trepar árboles y cerros sin miedo. Antonia, en cambio, era más cautelosa y prefería quedarse mirando desde abajo.
+> Un domingo de verano, Mateo y su primo Lucas salieron a remar en un bote pequeño por el río Maipo, cerca de Talagante. El agua estaba tranquila y el cielo, despejado. Mateo, que tenía ocho años, se sentía seguro porque su papá les había enseñado a usar chaleco salvavidas y a remar sincronizados. Lucas, más tranquilo, prefería solo disfrutar el paisaje y ver los pájaros en la orilla.
 >
-> El cometa, hecho de papel volantín rojo y una cola de retazos de tela, subió muy alto entre las ráfagas de viento. De pronto, una racha fuerte lo hizo bajar en picada y quedó enredado en las ramas más altas de un espino. Joaquín, sin pensarlo mucho, empezó a trepar el árbol para rescatarlo, mientras Antonia le gritaba que tuviera cuidado.
+> De pronto, una corriente más fuerte hizo girar el bote. Mateo no se asustó: recordó lo que su papá le dijo ("si el bote gira, remen los dos hacia el mismo lado") y, junto con Lucas, lograron enderezar el rumbo. Cuando volvieron a la orilla, su mamá les tenía preparada una merienda con sándwiches de palta y jugo de naranja.
 >
-> A mitad de camino, una rama se quebró bajo su pie y Joaquín resbaló un poco, raspándose la rodilla contra el tronco. Asustada, Antonia corrió a pedir ayuda a don Ramiro, un vecino que arreglaba una reja cerca de ahí. Don Ramiro trajo una escalera y, entre los dos, bajaron a Joaquín y también el cometa, que solo tenía la cola un poco rota.
->
-> Esa noche, mientras su mamá le limpiaba la raspadura en la rodilla, Joaquín prometió que la próxima vez pediría ayuda a un adulto antes de trepar tan alto. Antonia, orgullosa de haber pensado rápido, le arregló la cola del cometa con cinta adhesiva para poder volarlo de nuevo el fin de semana siguiente.
+> Esa tarde, Mateo le contó a su papá lo ocurrido y éste le dijo: "Bien hecho, Mateo. Recordaste la regla y trabajaron en equipo".
 
-[Imagen: un niño trepando un espino para rescatar un cometa rojo, mientras una niña lo mira preocupada desde el suelo, y un señor con una escalera se acerca]
+[Imagen: dos niños remando un bote en un río tranquilo, con chalecos salvavidas, y un adulto en la orilla saludándolos]
 
-El cometa de Joaquín quedó enredado en las ramas de un espino. ¿Verdadero o falso?
+El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 
 ---
 
@@ -101,38 +99,38 @@ d) Que solo Grecia puede organizar los Juegos Olímpicos
 
 **8 y 9. (Lenguaje y Comunicación)** Lee el siguiente poema y responde las preguntas 8 y 9.
 
-### "La huerta de mi tía"
+### "El huerto del abuelo"
 
-> Mi tía tiene una huerta
-> detrás de su casa en Chillán.
-> El sol pinta de oro las hojas
-> y las abejas bailan sin parar.
+> Mi abuelo tiene un huerto
+> al pie del cerro en Curicó.
+> El sol despierta temprano
+> y las abejas zumban sin parar.
 >
-> Los tomates duermen colorados
-> bajo un techo de hojas verdes.
-> Las lechugas, monedas frescas,
-> se guardan el rocío de la mañana.
+> Los zapallos crecen despacio
+> bajo un manto de hojas anchas.
+> Las zanahorias, naranjas dulces,
+> guardan la frescura de la tierra.
 >
-> Cuando llega la tarde cansada
-> y las sombras se estiran despacio,
-> mi tía y yo, con las manos sucias,
-> guardamos la huerta hasta mañana.
+> Cuando cae la tarde tranquila
+> y las sombras se alargan lentas,
+> mi abuelo y yo, con las botas sucias,
+> cerramos el huerto hasta mañana.
 
-[Imagen: una tía y su sobrino trabajando en una huerta con tomates y lechugas, al atardecer, con abejas volando entre las plantas]
+[Imagen: un abuelo y su nieto cosechando zapallos y zanahorias en un huerto al atardecer, con abejas volando entre las plantas]
 
-**8. (Alternativas)** ¿En qué ciudad está la huerta de la tía?
+**8. (Alternativas)** ¿En qué ciudad está el huerto del abuelo?
 
-a) Chillán
+a) Curicó
 b) Temuco
 c) Copiapó
 d) Osorno
 
-**9. (Alternativas)** ¿Qué quiere decir la expresión "los tomates duermen colorados"?
+**9. (Alternativas)** ¿Qué quiere decir la expresión "los zapallos crecen despacio"?
 
-a) Que los tomates literalmente se quedan dormidos como las personas
-b) Que los tomates están quietos, colgando entre las hojas, de color rojo
-c) Que los tomates cambian de color mientras duermen
-d) Que los tomates hacen ruido durante la noche
+a) Que los zapallos literalmente se mueven lentos como personas
+b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas
+c) Que los zapallos cambian de tamaño mientras duermen
+d) Que los zapallos hacen ruido mientras crecen
 
 ---
 
@@ -157,25 +155,25 @@ d) Continente africano, océano Ártico
 
 **13. (Lenguaje y Comunicación — Alternativas)** Lee el siguiente texto y responde.
 
-### "Los pingüinos de Humboldt"
+### "El zorro culpeo"
 
-> El pingüino de Humboldt es un ave marina que vive en las costas de Chile y Perú. A diferencia de otras aves, no puede volar, pero es un excelente nadador.
+> El zorro culpeo, también llamado zorro colorado, es un cánido nativo de Sudamérica que habita en Chile, Argentina, Bolivia, Perú y Ecuador. Es el segundo zorro más grande del continente, después del zorro de monte.
 >
 > **¿Dónde vive?**
 >
-> En Chile, uno de los lugares más conocidos para observarlos es la Reserva Nacional Pingüino de Humboldt, frente a las costas de la Región de Coquimbo. Ahí forman colonias en islas rocosas, alejadas de los depredadores terrestres.
+> En Chile, se le encuentra desde la Región de Coquimbo hasta Tierra del Fuego, en hábitats muy diversos: matorrales, estepas, bosques y hasta zonas andinas por encima de los 3.000 metros. Es un animal muy adaptable.
 >
 > **¿De qué se alimenta?**
 >
-> Se alimenta principalmente de peces pequeños, como anchovetas y sardinas, que caza nadando bajo el agua a gran velocidad gracias a sus alas transformadas en aletas.
+> Es omnívoro y oportunista: come roedores pequeños (como el laucha), aves, reptiles, insectos, frutos nativos (como el maqui y la murta) y, en zonas cercanas a poblados, a veces carroña o desperdicios. Su dieta varía según la estación y la disponibilidad.
 >
-> **Una especie en peligro**
+> **Una especie a proteger**
 >
-> Actualmente, el pingüino de Humboldt está clasificado como una especie vulnerable, principalmente por la contaminación del mar y la escasez de peces para alimentarse. Por eso existen reservas naturales que buscan proteger su hábitat.
+> Aunque no está en peligro crítico, el zorro culpeo enfrenta amenazas como la caza por considerarlo dañino para el ganado, la fragmentación de su hábitat y los atropellos en rutas. En Chile, la Ley de Caza lo protege parcialmente, pero la educación sobre su rol ecológico (controlador de roedores) es clave para su conservación.
 
-[Imagen: un grupo de pingüinos de Humboldt sobre rocas frente al mar, con un letrero de reserva natural cerca]
+[Imagen: un zorro culpeo de pie en una estepa patagónica, con su pelaje rojizo-grisáceo y cola espesa, al atardecer]
 
-Si quisieras saber rápidamente por qué esta especie está en peligro, sin leer todo el texto, ¿qué subtítulo deberías buscar?
+Si quisieras saber rápidamente por qué este animal es importante para el ecosistema, sin leer todo el texto, ¿qué parte deberías buscar?
 
 a) "¿Dónde vive?"
 b) "¿De qué se alimenta?"
@@ -240,19 +238,19 @@ d) El derecho a la nacionalidad
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Historia, Geografía y Cs. Sociales | **b) Con un edificio de departamentos.** | OA 3 |
-| 2 | Matemática | **b) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
+| 1 | Historia, Geografía y Cs. Sociales | **a) Con un edificio de departamentos.** | OA 3 |
+| 2 | Matemática | **a) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
 | 3 | Ciencias Naturales | Cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte; la araucaria necesita el clima frío y lluvioso del sur. | OA 2 |
-| 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que el cometa "quedó enredado en las ramas más altas de un espino". | OA 4 |
-| 5 | Matemática | **b) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
-| 6 | Historia, Geografía y Cs. Sociales | **b) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
+| 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
+| 5 | Matemática | **c) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
+| 6 | Historia, Geografía y Cs. Sociales | **c) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
 | 7 | Ciencias Naturales | Reutilizar es volver a usar un objeto para el mismo fin u otro distinto, sin procesarlo; se acepta cualquier ejemplo razonable. | OA 5 |
-| 8 | Lenguaje y Comunicación | **a) Chillán.** El poema dice "detrás de su casa en Chillán". | OA 5 |
-| 9 | Lenguaje y Comunicación | **b) Que los tomates están quietos, colgando entre las hojas, de color rojo.** Uso de lenguaje figurado. | OA 5 |
+| 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
+| 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
 | 10 | Matemática | 9×6=**54 botellas**. | OA 8 |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
 | 12 | Ciencias Naturales | Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos reguladores como frutas o verduras. | OA 6 |
-| 13 | Lenguaje y Comunicación | **c) "Una especie en peligro".** Los subtítulos permiten encontrar información específica sin leer todo el texto. | OA 6 |
+| 13 | Lenguaje y Comunicación | **La sección "Un animal muy adaptable" (o similar que describa su rol ecológico/dieta variada) permite entender su importancia como controlador de roedores sin leer todo el texto.** | OA 6 |
 | 14 | Matemática | 2350÷5=**$470 cada uno**. | OA 10 |
 | 15 | Historia, Geografía y Cs. Sociales | Cualquier estrategia real y coherente con la zona fría (vivienda muy aislada como el iglú, ropa abrigada de pieles, alimentación basada en caza y pesca, entre otras). | OA 8 |
 | 16 | Ciencias Naturales | El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. Se acepta cualquier ejemplo coherente. | OA 10 |

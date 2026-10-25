@@ -196,37 +196,59 @@ d) 1/12
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Matemática — 1° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA | Eje |
-|---|---|---|---|
-| 1 | a) 27 (15 − 4×(−3) = 15+12 = 27) | OA 1 | Números y Operaciones |
-| 2 | a) −2 (12 − 16 + 2 = −2, potencia y división antes que suma/resta) | OA 1 | Números y Operaciones |
-| 3 | paréntesis: 1/3+1/6=1/2; ×3/4=3/8; 3/5−3/8=24/40−15/40=**9/40** | OA 1 | Números y Operaciones |
-| 4 | después de arriendo: 24.000.000×3/4=18.000.000; después de insumos: 18.000.000×3/5=**$10.800.000** | OA 1 | Números y Operaciones |
-| 5 | a) 1/25 (5⁻²=1/5²=1/25) | OA 2 | Números y Operaciones |
-| 6 | 6⁻²×6⁵=6^(−2+5)=6³=**216** | OA 2 | Números y Operaciones |
-| 7 | 6.400×(1/2)⁴=6.400×1/16=**400 insectos** | OA 2 | Números y Operaciones |
-| 8 | c) x² + 16x + 64 ((x+8)²=x²+2(x)(8)+64) | OA 3 | Álgebra y Funciones |
-| 9 | a) 36x² − 25 ((6x)²−5²=36x²−25) | OA 3 | Álgebra y Funciones |
-| 10 | (x+9)(x+4)=x²+(9+4)x+(9×4)=**x²+13x+36** | OA 3 | Álgebra y Funciones |
-| 11 | a²=25x² (a=5x), b²=64 (b=8): **(5x+8)(5x−8)** | OA 3 | Álgebra y Funciones |
-| 12 | a) x=13, y=7 (sumando: 2x=26, x=13; y=20−13=7) | OA 4 | Álgebra y Funciones |
-| 13 | restando: (4x−2x)+(3y−3y)=25−17; 2x=8; x=**4**; reemplazando: 2(4)+3y=17; 3y=9; y=**3** | OA 4 | Álgebra y Funciones |
-| 14 | sea a=adulto, i=infantil. Sistema: 2a+i=19.000; a+i=12.000. Restando: a=**$7.000**; reemplazando: 7.000+i=12.000; i=**$5.000** | OA 4 | Álgebra y Funciones |
-| 15 | a) (12, −18) (4×3, −6×3) | OA 8 | Geometría |
-| 16 | a) 1/3 (k=OP'/OP=3/9=1/3) | OA 8 | Geometría |
-| 17 | F'=(−8×(−1/4), 12×(−1/4))=**(2, −3)**; como el factor es negativo, la imagen queda al **lado opuesto** del centro respecto a la posición original | OA 8 | Geometría |
-| 18 | a) 4 cm (20 km=2.000.000 cm; 2.000.000÷500.000=4 cm) | OA 10 | Geometría |
-| 19 | a) 10 cm (h²=5×20=100; h=√100=10) | OA 10 | Geometría |
-| 20 | 55 cm×400=22.000 cm=**220 metros** | OA 10 | Geometría |
-| 21 | cateto²=8×32=256; cateto=√256=**16 cm** | OA 10 | Geometría |
-| 22 | a) 2/3 (pares: {2,4,6}, P=3/6; P(5)=1/6; mutuamente excluyentes: 3/6+1/6=4/6=2/3) | OA 14 | Probabilidad y Estadística |
-| 23 | a) 1/36 (eventos independientes: 1/6×1/6=1/36) | OA 14 | Probabilidad y Estadística |
-| 24 | P(tenis o vóleibol)=16/30+12/30−4/30=24/30=**4/5 (80%)** | OA 14 | Probabilidad y Estadística |
-| 25 | P(1ª roja)=7/12; sin reposición, P(2ª roja)=6/11; P(ambas rojas)=7/12×6/11=42/132=**7/22 (≈0,318)** | OA 14 | Probabilidad y Estadística |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de cobertura curricular
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

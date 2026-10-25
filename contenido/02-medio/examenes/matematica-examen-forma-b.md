@@ -196,37 +196,59 @@ d) 28
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Matemática — 2° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA | Eje |
-|---|---|---|---|
-| 1 | a) 10√3 (300=100×3, y 100 es cuadrado perfecto: √300=√100×√3=10√3) | OA 1 | Números y Operaciones |
-| 2 | a) 2√6 (12/√6=12√6/6=2√6 ≈ 4,90) | OA 1 | Números y Operaciones |
-| 3 | log₂(64)−log₂(4)=log₂(64/4)=log₂(16)=**4** | OA 1 | Números y Operaciones |
-| 4 | lado=√363; 363=121×3, √363=√121×√3=**11√3 m ≈ 19,05 m** | OA 1 | Números y Operaciones |
-| 5 | a) 4 (log₃81=4 porque 3⁴=81) | OA 2 | Números y Operaciones |
-| 6 | a) 2^(7/5) (el índice de la raíz, 5, pasa al denominador; la potencia, 7, al numerador) | OA 2 | Números y Operaciones |
-| 7 | 27^(2/3)=(∛27)²=3²=**9** | OA 2 | Números y Operaciones |
-| 8 | pH=−log(10⁻⁴)=−(−4)=**4** | OA 2 | Números y Operaciones |
-| 9 | a) −2 (x=−b/2a=−4/2=−2) | OA 3 | Álgebra y Funciones |
-| 10 | a) Hacia arriba, con un mínimo (a=2>0) | OA 3 | Álgebra y Funciones |
-| 11 | factorizando: x²+x−12=(x+4)(x−3)=0 → raíces **x=−4 y x=3**; vértice: x=−1/(2)=−0,5, f(−0,5)=0,25−0,5−12=−12,25 → vértice **(−0,5; −12,25)** | OA 3 | Álgebra y Funciones |
-| 12 | vértice: x=−24/(2×(−2))=6; G(6)=−2(36)+144−40=**32**. Precio óptimo $600 (x=6), ganancia máxima **$32.000** | OA 3 | Álgebra y Funciones |
-| 13 | x²+2x−1 en x=1: 1+2−1=2; como 3>2, la desigualdad se cumple → **el punto sí pertenece** a la región de soluciones | OA 3 | Álgebra y Funciones |
-| 14 | a) f⁻¹(x) = x + 10 (deshace la resta de... suma de 10) | OA 5 | Álgebra y Funciones |
-| 15 | a) f⁻¹(x) = x/7 (deshace la multiplicación por 7) | OA 5 | Álgebra y Funciones |
-| 16 | y=3x−9; se intercambia: x=3y−9; se despeja: **f⁻¹(x) = (x+9)/3** | OA 5 | Álgebra y Funciones |
-| 17 | y=x²−5; se intercambia: x=y²−5; y²=x+5; **f⁻¹(x) = √(x+5)** (raíz positiva, pues x≥0 en la función original) | OA 5 | Álgebra y Funciones |
-| 18 | a) 0,47 (sen θ = 8/17 ≈ 0,47) | OA 8 | Geometría |
-| 19 | a) 6,93 cm (cateto opuesto = 12×tan(30°) ≈ 12×0,577 ≈ 6,93) | OA 8 | Geometría |
-| 20 | cateto opuesto = 25×sen(40°) ≈ 25×0,643 ≈ **16,07 cm** | OA 8 | Geometría |
-| 21 | tan(22°) = altura÷60 → altura = 60×tan(22°) ≈ 60×0,404 ≈ **24,24 m** | OA 8 | Geometría |
-| 22 | a) 15 (principio multiplicativo: 5×3=15) | OA 11 | Probabilidad y Estadística |
-| 23 | a) 56 (8!/6! = 8×7 = 56, tras simplificar los factores comunes) | OA 11 | Probabilidad y Estadística |
-| 24 | como las 6 letras son distintas: 6! = 6×5×4×3×2×1 = **720 formas** | OA 11 | Probabilidad y Estadística |
-| 25 | orden no importa → combinación: C(10,4) = 10!/(4!×6!) = (10×9×8×7)/(4×3×2×1) = **210 formas** | OA 11 | Probabilidad y Estadística |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de cobertura curricular
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

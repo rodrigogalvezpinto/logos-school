@@ -201,37 +201,59 @@ d) He taught his to play guitar.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 2° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | b) 3D printing allows hospitals to produce affordable prosthetic limbs. | OA9 |
-| 2 | about / how | OA9 |
-| 3 | False (Falso) — el texto afirma que las turbinas eólicas son más silenciosas de lo que la gente asume cuando se instalan a una distancia segura, lo contrario a la afirmación. | OA9 |
-| 4 | *It was sent in 1971.* | OA9 |
-| 5 | British / 1934 / became famous for her research on chimpanzee behavior (in Tanzania) | OA9 |
-| 6 | b) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | b) To persuade/instruct readers to change a behavior | OA10 |
-| 8 | Unless | OA10 |
-| 9 | True (Verdadero) — se plantea un problema (botellas de plástico acumulándose) y una solución (estaciones de recarga de agua); identificar otras soluciones posibles (prohibir el plástico) va más allá del texto, tal como pide este OA. | OA10 |
-| 10 | inconvenient | OA10 |
-| 11 | illegal | OA10 |
-| 12 | b) Que ninguno de los dos actores asistió a la reunión. | OA10 |
-| 13 | In | OA13 |
-| 14 | b) I'd rather carry a reusable bag than use plastic ones, because it reduces waste in the ocean. | OA13 |
-| 15 | studied / found | OA13 |
-| 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural (el equilibrio entre trabajo y vida personal en Suecia). | OA13 |
-| 17 | Respuesta personal coherente, p. ej.: *"One global leader I admire is Jane Goodall. I believe she is a role model because she has dedicated her life to protecting animals and the environment."* | OA13 |
-| 18 | b) The text I read was about a teenage engineer who has been designing affordable prosthetic hands for children since 2019. | OA13 |
-| 19 | few | OA16 |
-| 20 | b) They have been volunteering at the shelter for several months. | OA16 |
-| 21 | impatient | OA16 |
-| 22 | True (Verdadero) — el pasado perfecto (*had already eaten*) se usa para la acción más antigua de las dos: primero cenó, después llegaron los invitados. | OA16 |
-| 23 | Every weekend | OA16 |
-| 24 | had painted | OA16 |
-| 25 | b) He taught himself to play guitar. | OA16 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 3, 4, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 2 | 2, 5 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

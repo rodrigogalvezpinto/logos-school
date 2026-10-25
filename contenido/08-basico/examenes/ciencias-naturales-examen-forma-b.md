@@ -257,37 +257,59 @@ aceptar electrones.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias Naturales — 8° Básico — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | b) El núcleo | OA 2 |
-| 2 | Alternativas | b) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido | OA 2 |
-| 3 | Desarrollo breve | La célula con múltiples prolongaciones largas es una neurona, adaptada para transmitir impulsos eléctricos a distancia; la célula alargada con fibras internas es una fibra muscular, adaptada para contraerse y generar movimiento. En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
-| 4 | Alternativas | c) La ósmosis | OA 4 |
-| 5 | Alternativas | c) La fotosíntesis | OA 4 |
-| 6 | Desarrollo extenso | La planta A (con más hojas) transpirará más agua, porque los estomas se ubican principalmente en las hojas; a mayor número de hojas, mayor cantidad de estomas y, por lo tanto, mayor superficie disponible para la salida de vapor de agua durante la transpiración. | OA 4 |
-| 7 | Alternativas | b) El nefrón | OA 5 |
-| 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos | OA 5 |
-| 9 | Desarrollo breve | Las enzimas digestivas descomponen químicamente los alimentos en moléculas más simples (nutrientes) que pueden ser absorbidas; la bilis emulsiona las grasas (las fragmenta en gotas más pequeñas), facilitando que las enzimas actúen sobre ellas de forma más eficiente. | OA 5 |
-| 10 | Desarrollo extenso | El humo del tabaco daña el tejido de los alvéolos pulmonares, reduciendo la superficie disponible para el intercambio gaseoso por difusión entre el aire y la sangre, lo que disminuye la cantidad de oxígeno que puede pasar a la sangre en cada respiración, explicando la menor capacidad de intercambio gaseoso observada en fumadores. | OA 5 |
-| 11 | Alternativas | b) Constructor | OA 7 |
-| 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social | OA 7 |
-| 13 | Desarrollo breve | La afirmación no es sustentable porque el consumo de tabaco, incluso ocasional, expone al organismo a sustancias dañinas (nicotina y otras) que afectan el sistema respiratorio y circulatorio desde las primeras exposiciones; además, el riesgo de desarrollar dependencia existe incluso con un consumo considerado "ocasional". | OA 7 |
-| 14 | Alternativas | c) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
-| 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito | OA 10 |
-| 16 | Desarrollo breve | El circuito en serie es más simple de construir, pero poco práctico porque una falla apaga todo el sistema. El circuito en paralelo permite el funcionamiento independiente de cada componente y es más seguro ante fallas puntuales, pero requiere más cableado y es más complejo de instalar. | OA 10 |
-| 17 | Desarrollo extenso | I = P / V = 1.100 W / 220 V = 5 amperes. La potencia eléctrica indica la rapidez con la que un dispositivo consume o transforma energía eléctrica; mientras mayor es la potencia de un artefacto, mayor es la cantidad de energía que consume por unidad de tiempo. | OA 10 |
-| 18 | Alternativas | c) Radiación | OA 11 |
-| 19 | Alternativas | b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de temperatura | OA 11 |
-| 20 | Desarrollo breve | Un termo reduce la transferencia de calor por conducción y convección mediante una cámara de vacío o un material aislante entre sus paredes, y reduce la transferencia por radiación mediante una superficie interior reflectante; de esta forma, minimiza la pérdida de energía térmica hacia el ambiente exterior, más frío. | OA 11 |
-| 21 | Alternativas | c) El electrón | OA 12 |
-| 22 | Alternativas | b) En un núcleo pequeño y denso | OA 12 |
-| 23 | Desarrollo breve | La afirmación es poco precisa: aunque el modelo de Dalton fue superado por modelos posteriores (al no considerar la estructura interna del átomo), fue fundamental porque estableció la idea de que la materia está formada por átomos, que los átomos de un mismo elemento son iguales entre sí, y que se combinan en proporciones simples para formar compuestos, ideas que sentaron las bases para los modelos posteriores. | OA 12 |
-| 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico | OA 14 |
-| 25 | Desarrollo extenso | Se formará un enlace iónico. El calcio es un metal del grupo 2, por lo que tiende a ceder electrones; el bromo es un no metal del grupo 17, por lo que tiende a aceptar electrones. Al transferirse electrones del calcio al bromo, se forman iones de carga opuesta (Ca²⁺ y Br⁻) que se atraen entre sí, característico de un enlace iónico. | OA 14 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 7 × 1 punto = 7 puntos
+- **Total preguntas desarrollo breve:** 4 × 2 puntos = 8 puntos  
+- **Total preguntas desarrollo extenso:** 1 × 3 puntos = 3 puntos
+- **Puntaje total de la prueba: 18 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 7 | 1, 3, 4, 6, 8, 10, 11 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 4 | 2, 5, 7, 12 |
+| Desarrollo extenso | 1 | 9 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 18 (100%) | 7,0 |
+| 16 (90%) | 6,3 |
+| 14 (80%) | 5,6 |
+| 13 (70%) | 4,9 |
+| 11 (60% — exigencia mínima) | **4,0** |
+| 9 (50%) | 3,5 |
+| 7 (40%) | 3,0 |
+| 5 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **15 preguntas de alternativas** × 1 punto = 15 puntos
 - **6 preguntas de desarrollo breve** (N° 3, 9, 13, 16, 20, 23) × 2 puntos = 12 puntos

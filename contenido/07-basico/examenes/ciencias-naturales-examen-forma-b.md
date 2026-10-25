@@ -237,37 +237,59 @@ Chile, como la minería o el tratamiento de aguas.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias Naturales — 7° Básico — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | c) Social | OA 1 |
-| 2 | Alternativas | b) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
-| 3 | Alternativas | b) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
-| 4 | Desarrollo breve | En los hombres: crecimiento de testículos y pene, cambio de voz. En las mujeres: desarrollo de mamas, inicio de la menstruación. Ambos ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
-| 5 | Alternativas | b) Preservativo | OA 2 |
-| 6 | Alternativas | b) Del día 11 al día 16 | OA 2 |
-| 7 | Desarrollo breve | Conocer estos procesos permite tomar decisiones informadas y responsables sobre la propia sexualidad y salud reproductiva, prevenir embarazos no planificados, y comprender mejor el propio cuerpo y el de la pareja, favoreciendo el autocuidado. | OA 2 |
-| 8 | Desarrollo extenso | El preservativo es un método de barrera que impide físicamente el contacto entre el espermatozoide y el ovocito; la píldora anticonceptiva es un método hormonal que impide que ocurra la ovulación, por lo que no hay ovocito disponible para ser fecundado. Se diferencian en que uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal. | OA 2 |
-| 9 | Alternativas | c) *Penicillium* | OA 5 |
-| 10 | Alternativas | b) Producción de penicilina | OA 5 |
-| 11 | Desarrollo breve | Las bacterias son procariontes, generalmente más pequeñas y de estructura celular más simple (sin núcleo definido); los hongos son eucariontes, con una estructura celular más compleja (con núcleo y organelos definidos), y pueden ser unicelulares o multicelulares. | OA 5 |
-| 12 | Alternativas | b) Fuerza gravitacional | OA 7 |
-| 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
-| 14 | Desarrollo breve | El hielo es una superficie mucho más lisa que el cemento, lo que genera menor fuerza de roce entre la caja y la superficie, facilitando el deslizamiento; el cemento, al ser más rugoso, genera mayor roce y dificulta el movimiento. | OA 7 |
-| 15 | Desarrollo extenso | La fuerza gravitacional (el peso del ciclista y la bicicleta) es la principal responsable de la aceleración cuesta abajo; el roce con el aire y el roce entre los neumáticos y el pavimento actúan oponiéndose a ese movimiento, frenándolo parcialmente. | OA 7 |
-| 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza | OA 9 |
-| 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes propuesto por Wegener | OA 9 |
-| 18 | Desarrollo breve | Porque en la costa de Chile converge la placa de Nazca con la placa Sudamericana (y en el extremo sur, también con la placa Antártica); la subducción de la placa de Nazca bajo la Sudamericana libera gran cantidad de energía en forma de sismos y favorece la formación de volcanes a lo largo de la cordillera. | OA 9 |
-| 19 | Alternativas | b) Aumenta | OA 13 |
-| 20 | Alternativas | c) Ley de Gay-Lussac | OA 13 |
-| 21 | Desarrollo extenso | Por ejemplo: colocar un globo poco inflado sobre la boca de una botella vacía y calentar la botella suavemente (con las manos o en agua tibia); se esperaría que el globo se infle un poco más, porque el aire dentro de la botella se expande al aumentar su temperatura. | OA 13 |
-| 22 | Alternativas | c) Sustancia pura | OA 14 |
-| 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista | OA 14 |
-| 24 | Desarrollo breve | El agua y el aceite son líquidos no miscibles (no se mezclan entre sí) y tienen distinta densidad: el aceite, al ser menos denso, flota sobre el agua; esto permite separarlos dejando que se asienten en capas y vertiendo cuidadosamente una de ellas. | OA 14 |
-| 25 | Desarrollo extenso | Por ejemplo, en la minería del cobre se usan procesos de separación para extraer el mineral de la roca; en el tratamiento de aguas servidas se combinan la filtración y la decantación para retirar sólidos e impurezas del agua antes de devolverla al ambiente o reutilizarla. | OA 14 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 8 × 1 punto = 8 puntos
+- **Total preguntas desarrollo breve:** 2 × 2 puntos = 4 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 18 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 8 | 1, 2, 3, 5, 7, 9, 10, 12 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 2 | 4, 6 |
+| Desarrollo extenso | 2 | 8, 11 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 18 (100%) | 7,0 |
+| 16 (90%) | 6,3 |
+| 14 (80%) | 5,6 |
+| 13 (70%) | 4,9 |
+| 11 (60% — exigencia mínima) | **4,0** |
+| 9 (50%) | 3,5 |
+| 7 (40%) | 3,0 |
+| 5 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **15 preguntas de alternativas** × 1 punto = 15 puntos
 - **6 preguntas de desarrollo breve** (N° 4, 7, 11, 14, 18, 24) × 2 puntos = 12 puntos

@@ -126,8 +126,8 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    mariposa. Grupos: "crece dentro de la madre" y "sale de un huevo".
    **Respuesta correcta:** Crece dentro de la madre: guanaco. Sale de un huevo:
    chincol, rana, mariposa.
-   **Retroalimentación:** ¡Muy bien! Recuerda que solo los mamíferos crecen dentro
-   del cuerpo de su madre; las aves, los anfibios y los insectos nacen de huevos.
+   **Retroalimentación:** ¡Muy bien! Recuerda que **la gran mayoría de los mamíferos** crecen dentro
+   del cuerpo de su madre; (salvo los monotremas como el ornitorrinco y la equidna, que ponen huevos); las aves, los anfibios y los insectos nacen de huevos.
 
 4. *(Relacionar con el hábitat)* ¿Por qué una rana necesita que exista una laguna o
    un charco de agua cerca para poder reproducirse?

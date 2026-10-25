@@ -257,37 +257,59 @@ podrían ayudar a reducir esa erosión.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias Naturales — 6° Básico — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | b) Las algas y las cianobacterias | OA 1 |
-| 2 | Alternativas | d) Azúcar (glucosa) | OA 1 |
-| 3 | Desarrollo extenso | La planta se debilitará o morirá, porque aunque recibe agua, le falta energía lumínica y no puede realizar la fotosíntesis ni producir el azúcar que necesita para vivir. La fotosíntesis es importante para otros seres vivos porque libera oxígeno (necesario para la respiración) y porque el azúcar producido es la base del alimento de los organismos que se alimentan de la planta. | OA 1 |
-| 4 | Alternativas | b) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo | OA 2 |
-| 5 | Alternativas | d) Consumidor de tercer orden | OA 2 |
-| 6 | Desarrollo extenso | Ejemplo válido de cadena de cuatro eslabones con nivel trófico correcto (p. ej. pasto —productor— → conejo —consumidor 1° orden— → zorro culpeo —consumidor 2° orden— → águila —consumidor 3° orden—). Si desaparece el consumidor de tercer orden, la población del nivel inferior (consumidor 2° orden) podría aumentar sin control, reduciendo a su vez la población de consumidores de primer orden y alterando el flujo de materia y energía de todo el ecosistema. | OA 2 |
-| 7 | Alternativas | b) El estirón de crecimiento | OA 5 |
-| 8 | Alternativas | b) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal | OA 5 |
-| 9 | Desarrollo breve | Es importante porque ayuda a evitar la vergüenza, la burla o la comparación negativa entre compañeros y compañeras que experimentan los cambios en momentos distintos; comprenderlo con naturalidad favorece el bienestar emocional durante esta etapa. | OA 5 |
-| 10 | Alternativas | b) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable | OA 6 |
-| 11 | Alternativas | c) Lavarse el rostro diariamente | OA 6 |
-| 12 | Desarrollo breve | Por ejemplo: no lavarse el rostro con regularidad puede favorecer la obstrucción de los poros con grasa y células muertas, agravando el acné o generando infecciones en la piel. | OA 6 |
-| 13 | Alternativas | b) Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier tipo de cambio | OA 8 |
-| 14 | Alternativas | c) Energía calórica | OA 8 |
-| 15 | Desarrollo extenso | Respuesta abierta según el aparato elegido (por ejemplo, una licuadora: energía eléctrica que ingresa, energía cinética en las aspas y energía sonora al funcionar). Ejemplo de proceso vital: un pez necesita energía para nadar, bombear sangre a través de su corazón y mantener sus funciones internas; sin un aporte constante de energía obtenida del alimento, estos procesos se detendrían. | OA 8 |
-| 16 | Alternativas | c) Energía geotérmica | OA 11 |
-| 17 | Alternativas | b) Sus numerosos ríos y caudales abundantes | OA 11 |
-| 18 | Desarrollo breve | Por ejemplo: energía solar en el norte (desierto de Atacama), por su alta radiación solar; energía hidroeléctrica en el sur, por sus numerosos ríos y caudales abundantes. | OA 11 |
-| 19 | Alternativas | b) Condensación | OA 13 |
-| 20 | Alternativas | b) La evaporación ocurre lentamente en la superficie del líquido a cualquier temperatura, mientras que la ebullición ocurre rápidamente en todo el volumen del líquido a una temperatura específica | OA 13 |
-| 21 | Desarrollo extenso | En el estado gaseoso, las partículas están muy separadas y se mueven de forma libre y desordenada; en el estado sólido, las partículas están muy juntas, ordenadas, y solo vibran en una posición fija. Al colocar hielo seco a temperatura ambiente, se observaría cómo desprende directamente un gas visible (tipo "niebla"), sin que aparezca líquido en ningún momento del proceso; esto corresponde a una sublimación porque la materia pasa de sólido a gas sin pasar por el estado líquido. | OA 13 |
-| 22 | Alternativas | c) Atmósfera | OA 16 |
-| 23 | Desarrollo breve | La quema de combustibles en autos e industrias libera gases contaminantes que se acumulan en la atmósfera, afectando la calidad del aire y la salud de las personas; una medida sería fomentar el uso de transporte público, bicicletas o vehículos eléctricos. | OA 16 |
-| 24 | Alternativas | b) El viento | OA 18 |
-| 25 | Desarrollo breve | Por ejemplo: mantener cobertura vegetal o rotar cultivos para proteger el suelo, evitar el sobrepastoreo, y realizar prácticas agrícolas que no dejen el suelo expuesto por largos períodos. | OA 18 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 7 × 1 punto = 7 puntos
+- **Total preguntas desarrollo breve:** 2 × 2 puntos = 4 puntos  
+- **Total preguntas desarrollo extenso:** 3 × 3 puntos = 9 puntos
+- **Puntaje total de la prueba: 20 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 7 | 1, 3, 4, 6, 7, 9, 10 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 2 | 5, 12 |
+| Desarrollo extenso | 3 | 2, 8, 11 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 20 (100%) | 7,0 |
+| 18 (90%) | 6,3 |
+| 16 (80%) | 5,6 |
+| 14 (70%) | 4,9 |
+| 12 (60% — exigencia mínima) | **4,0** |
+| 10 (50%) | 3,5 |
+| 8 (40%) | 3,0 |
+| 6 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **16 preguntas de alternativas** × 1 punto = 16 puntos
 - **5 preguntas de desarrollo breve** (N° 9, 12, 18, 23, 25) × 2 puntos = 10 puntos

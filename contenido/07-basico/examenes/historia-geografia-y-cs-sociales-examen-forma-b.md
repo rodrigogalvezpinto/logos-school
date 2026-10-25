@@ -392,39 +392,59 @@ convivencia entre distintos pueblos y culturas.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 7° Básico — Forma B
 
-| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
-|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio Oriente, China y América— en momentos diferentes | OA 2 | Historia | 1 |
-| 2  | Alternativas | c) La cantidad de alimento producida por sobre lo necesario para sobrevivir día a día | OA 2 | Historia | 1 |
-| 3  | Alternativas | b) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder político, legitimando la autoridad del gobernante | OA 3 | Historia | 1 |
-| 4  | Desarrollo breve | Las ciudades concentraron población, recursos y poder en un mismo lugar, lo que facilitó la administración centralizada, la diferenciación de roles sociales, la construcción de templos y la necesidad de registrar información de forma sistemática (escritura y contabilidad) | OA 3 | Historia | 2 |
-| 5  | Alternativas | b) Oligarquía | OA 6 | Historia | 1 |
-| 6  | Alternativas | b) Fue fundamental: la economía romana dependió en gran medida del trabajo de personas esclavizadas, muchas de ellas obtenidas mediante las conquistas militares | OA 7 | Historia | 1 |
-| 7  | Desarrollo breve | Al convertirse en el culto oficial del imperio, el cristianismo se difundió ampliamente por todo el territorio romano, lo que permitió que sobreviviera y se expandiera incluso después de la caída del imperio, transformándose en uno de los elementos que darían forma a la civilización europea medieval | OA 7 | Historia | 2 |
-| 8  | Alternativas | c) Germana | OA 9 | Historia | 1 |
-| 9  | Alternativas | b) Mejoras en el arado y el uso de molinos de agua y de viento | OA 12 | Historia | 1 |
-| 10 | Desarrollo breve | Las universidades sentaron las bases institucionales para la producción, conservación y difusión del conocimiento en Europa, un modelo que se ha mantenido y desarrollado hasta la actualidad, y que fue clave para movimientos culturales posteriores | OA 12 | Historia | 2 |
-| 11 | Alternativas | b) Canales | OA 13 | Historia | 1 |
-| 12 | Alternativas | a) Porque permitieron adaptar entornos naturales desafiantes (selva tropical, zona lacustre) para producir suficiente alimento y sostener a poblaciones numerosas en ciudades | OA 13 | Historia | 1 |
-| 13 | Alternativas | c) Civilización europea medieval | OA 16 | Historia | 1 |
-| 14 | Desarrollo extenso | Este tipo de reconocimientos muestra que el patrimonio cultural (sitios arqueológicos, arquitectura colonial, tradiciones) forma parte de la identidad histórica de los pueblos latinoamericanos y debe protegerse; su pérdida significaría perder una fuente importante de conocimiento sobre el pasado. Ejemplos válidos de legado distinto al del estímulo: alimentos como el maíz, la papa o el cacao (maya/azteca), derecho o arquitectura de plazas (romano), ideas sobre ciudadanía y república (grecorromano), catedrales e instituciones (europeo medieval), entre otros, correctamente ejemplificados | OA 16 | Historia | 3 |
-| 15 | Alternativas | c) Vulnerabilidad de la población ante amenazas del entorno | OA 21 | Geografía | 1 |
-| 16 | Alternativas | b) Fragilidad del medio ante la acción humana | OA 21 | Geografía | 1 |
-| 17 | Desarrollo breve | Algunos entornos naturales pueden dañarse de forma severa o incluso irreversible por la actividad humana (por ejemplo, la deforestación o el agotamiento de recursos), por lo que comprender esta fragilidad permite tomar decisiones más responsables sobre cómo habitar y transformar el territorio, tanto en el pasado como hoy | OA 21 | Geografía | 2 |
-| 18 | Alternativas | b) Generó impactos importantes, como la tala de bosques para cultivar y la modificación de cursos de agua para el riego | OA 22 | Geografía | 1 |
-| 19 | Desarrollo breve | Continuidad: en ambos casos, los seres humanos transforman el medio natural (tala de bosques) con fines agrícolas. Cambio: la escala del impacto y la tecnología empleada son muy distintas, siendo mucho mayor y más rápida la transformación actual gracias a la maquinaria industrial | OA 22 | Geografía | 2 |
-| 20 | Alternativas | b) "La cosa pública": un gobierno en el que el poder no pertenece a un solo individuo, sino que se ejerce a través de instituciones y magistrados | OA 18 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | Se puede comparar con un sindicato o un colegio profesional actual, ya que ambos agrupan a personas de un mismo oficio o profesión para regular su actividad y representar sus intereses comunes | OA 18 | Formación Ciudadana | 2 |
-| 22 | Alternativas | c) La conservación y transmisión del legado cultural griego y romano | OA 19 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Muestra que el contacto e intercambio entre culturas distintas —en este caso, árabe y europea cristiana— permitió la circulación y difusión de conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas | OA 19 | Formación Ciudadana | 2 |
-| 24 | Alternativas | b) La tolerancia religiosa, permitiendo que los pueblos conquistados mantuvieran sus propias creencias | OA 20 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | Argumento válido: aunque Roma de Occidente y Oriente compartían una misma tradición cultural, mantuvieron a la vez vínculos de colaboración y episodios de tensión y conflicto, mostrando que convivencia y conflicto pueden coexistir incluso entre partes de una misma civilización. Razón válida sobre la importancia actual: el respeto, la tolerancia y la resolución pacífica de conflictos siguen siendo fundamentales hoy para prevenir conflictos y construir relaciones de respeto mutuo entre personas y culturas distintas | OA 20 | Formación Ciudadana | 3 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-**Puntaje total: 36 puntos**
+### Resumen de puntaje
 
-### Distribución por eje y OA
+- **Total preguntas de alternativas:** 16 × 1 punto = 16 puntos
+- **Total preguntas desarrollo breve:** 7 × 2 puntos = 14 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 36 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 16 | 1, 2, 3, 5, 6, 8, 9, 11, 12, 13, 15, 16, 18, 20, 22, 24 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 7 | 4, 7, 10, 17, 19, 21, 23 |
+| Desarrollo extenso | 2 | 14, 25 |
+| **Total** | **25** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 36 (100%) | 7,0 |
+| 32 (90%) | 6,3 |
+| 29 (80%) | 5,6 |
+| 25 (70%) | 4,9 |
+| 22 (60% — exigencia mínima) | **4,0** |
+| 18 (50%) | 3,5 |
+| 14 (40%) | 3,0 |
+| 11 (30%) | 2,5 |
+| 7 (20%) | 2,0 |
+| 4 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

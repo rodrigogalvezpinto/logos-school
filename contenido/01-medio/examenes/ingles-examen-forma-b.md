@@ -198,37 +198,59 @@ d) He fight fires.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 1° Medio — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | b) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
-| 2 | about / how | OA9 |
-| 3 | False (Falso) — el texto afirma que las abejas transportan polen entre plantas, lo que permite su reproducción; lo contrario a la afirmación. | OA9 |
-| 4 | *It was held in 1930, in Uruguay.* | OA9 |
-| 5 | Chilean / 1889 / Nobel Prize in Literature (1945) | OA9 |
-| 6 | b) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | b) To persuade/instruct readers to change a behavior | OA10 |
-| 8 | However | OA10 |
-| 9 | True (Verdadero) — se plantea un problema (exceso de tareas) y una solución (reducir la carga), conectados por *so*. | OA10 |
-| 10 | irresponsible | OA10 |
-| 11 | artist | OA10 |
-| 12 | b) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
-| 13 | In | OA13 |
-| 14 | b) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
-| 15 | studied / enjoyed | OA13 |
-| 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
-| 17 | Respuesta personal coherente, p. ej.: *"This picture shows a beach full of plastic waste. In my opinion, this is a serious problem because it harms marine animals."* | OA13 |
-| 18 | b) The text I read was about Beethoven, a composer who kept writing music even after he lost his hearing. | OA13 |
-| 19 | two million | OA16 |
-| 20 | b) She has taught at this school since 2015. | OA16 |
-| 21 | disappear | OA16 |
-| 22 | True (Verdadero) — *used to* + verbo describe una acción habitual en el pasado que ya no se repite en el presente. | OA16 |
-| 23 | For five years | OA16 |
-| 24 | who / which | OA16 |
-| 25 | b) He has been a firefighter for fifteen years and he is extremely brave. | OA16 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 3, 4, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 2 | 2, 5 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

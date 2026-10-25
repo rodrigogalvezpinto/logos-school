@@ -187,37 +187,59 @@ chair."* (There / They / It)
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 5° Básico — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | b) Pedro | OA5 |
-| 2 | d) Painting the sun brown | OA5 |
-| 3 | and | OA5 |
-| 4 | She lives in Santiago. | OA5 |
-| 5 | False (Falso) — el texto dice que la mamá es *doctor* y el papá es *teacher*, no al revés. | OA5 |
-| 6 | b) To invite someone to a celebration | OA6 |
-| 7 | c) A birthday card | OA6 |
-| 8 | I'm sorry | OA6 |
-| 9 | The party is on Saturday. | OA6 |
-| 10 | True (Verdadero) — las palabras *cut* y *mix* son típicas de una receta de cocina. | OA6 |
-| 11 | b) I prefer summer. | OA8 |
-| 12 | b) Tomás is different from Sofía. | OA8 |
-| 13 | like | OA8 |
-| 14 | Respuesta personal con estructura correcta, p. ej.: *My favorite ice cream flavor is vanilla.* | OA8 |
-| 15 | False (Falso) — el texto dice explícitamente que a Diego le gustan los días *rainy*, no los *sunny*. | OA8 |
-| 16 | b) I need a dog and a cat. | OA14 |
-| 17 | a) banana | OA14 |
-| 18 | sunny | OA14 |
-| 19 | slow | OA14 |
-| 20 | Respuesta personal, p. ej.: *Dear Mom, I like the beach. From, Ana.* | OA14 |
-| 21 | c) under | OA15 |
-| 22 | b) This is my house. | OA15 |
-| 23 | seven | OA15 |
-| 24 | it is | OA15 |
-| 25 | There | OA15 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 2, 4, 5, 6, 7, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 2 | 3, 8 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

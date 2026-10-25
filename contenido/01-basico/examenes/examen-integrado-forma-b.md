@@ -214,13 +214,13 @@ ________________________________________________________________________________
 |---|---|---|---|
 | 1 | Ciencias Naturales | **a) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
 | 2 | Matemática | **a) 16.** Al contar, el 16 viene después del 12, por lo tanto 16 es mayor que 12. | OA 4 — Comparar y ordenar números del 0 al 20 |
-| 3 | Lenguaje y Comunicación | **b) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
-| 4 | Historia, Geografía y Cs. Sociales | **b) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
+| 3 | Lenguaje y Comunicación | **a) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
+| 4 | Historia, Geografía y Cs. Sociales | **a) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
 | 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
-| 6 | Lenguaje y Comunicación | **b) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
-| 7 | Historia, Geografía y Cs. Sociales | **b) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
+| 6 | Lenguaje y Comunicación | **a) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
+| 7 | Historia, Geografía y Cs. Sociales | **c) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
 | 8 | Ciencias Naturales | Cualquier combinación correcta, por ejemplo: guanaco (norte), zorro chilla (centro), pudú (sur), cactus (norte), palma chilena (centro), araucaria (sur). | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **b) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 9 | Lenguaje y Comunicación | **c) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **b) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
 | 11 | Ciencias Naturales | Menciona correctamente al menos 2 materiales de la mochila (género/suave, metal/duro, plástico/impermeable) con una propiedad de cada uno. | OA 8 — Los materiales y sus propiedades |
 | 12 | Historia, Geografía y Cs. Sociales | Respuesta correcta si describe el entorno real del estudiante usando al menos dos palabras geográficas correctas (camino, construcciones, vegetación, cordillera, mar, pueblo, ciudad, entre otras). | OA 10 — Paisajes de mi entorno |

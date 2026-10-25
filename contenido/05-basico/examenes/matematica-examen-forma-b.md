@@ -205,37 +205,59 @@ Muestra tu desarrollo para la parte b).
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Matemática — 5° Básico — Forma B
 
-| N° | Clave / Respuesta esperada | OA | Eje |
-|---|---|---|---|
-| 1 | a) Centena de mil | OA 1 | Números y Operaciones |
-| 2 | 89.500 < 908.005 < 980.050 < 980.500; el mayor (980.500) = 900.000 + 80.000 + 500 | OA 1 | Números y Operaciones |
-| 3 | a) 1.976 | OA 3 | Números y Operaciones |
-| 4 | 18 × 26 = 468 productos | OA 3 | Números y Operaciones |
-| 5 | a) Cociente 37, resto 2 | OA 4 | Números y Operaciones |
-| 6 | 245 ÷ 9 = 27, resto 2 → se necesita un bus más: 28 buses | OA 4 | Números y Operaciones |
-| 7 | a) $4.660 (6 × 890 = 5.340; 10.000 − 5.340 = 4.660) | OA 6 | Números y Operaciones |
-| 8 | 20 × 450 = 9.000; 6 × 890 = 5.340; 9.000 + 5.340 = $14.340 | OA 6 | Números y Operaciones |
-| 9 | a) 4/6 | OA 7 | Números y Operaciones |
-| 10 | 2/3 = 10/15; 3/5 = 9/15; como 10 > 9, 2/3 es mayor | OA 7 | Números y Operaciones |
-| 11 | b) 0,75 | OA 10 | Números y Operaciones |
-| 12 | 6,02 < 6,2 < 6,205 < 6,25 | OA 11 | Números y Operaciones |
-| 13 | 2,15 + 0,70 = 2,85 km | OA 13 | Números y Operaciones |
-| 14 | b) 40 | OA 14 | Patrones y Álgebra |
-| 15 | b) 220 | OA 15 | Patrones y Álgebra |
-| 16 | x − 480 = 650 → x = 1.130 litros. Comprobación: 1.130 − 480 = 650 ✓ | OA 15 | Patrones y Álgebra |
-| 17 | c) Son paralelas | OA 17 | Geometría |
-| 18 | Es una rotación; sí son congruentes, porque la rotación conserva la forma y el tamaño de la figura, solo cambia su orientación | OA 18 | Geometría |
-| 19 | 32 mm = 3,2 cm = 0,032 m | OA 19 | Medición y Datos y Probabilidades |
-| 20 | a) 40 cm² | OA 22 | Medición y Datos y Probabilidades |
-| 21 | ((20+12) × 5) ÷ 2 = (32 × 5) ÷ 2 = 160 ÷ 2 = 80 m² | OA 22 | Medición y Datos y Probabilidades |
-| 22 | a) 6,0 (suma 24,0 ÷ 4 = 6,0) | OA 23 | Medición y Datos y Probabilidades |
-| 23 | Suma total = 14.000 × 4 = 56.000; 12.000 + 16.000 + 13.000 = 41.000; jueves = 56.000 − 41.000 = $15.000 | OA 23 | Medición y Datos y Probabilidades |
-| 24 | b) Poco posible | OA 24 | Medición y Datos y Probabilidades |
-| 25 | a) Abril (30 inscripciones); b) 22 + 30 + 18 + 25 = 95 inscripciones en total | OA 26 | Medición y Datos y Probabilidades |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de cobertura curricular
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

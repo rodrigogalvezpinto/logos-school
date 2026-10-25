@@ -271,13 +271,13 @@ d) Atmósfera
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------|------------------------------------------|-----------------------------------|
 | 1 | Matemática | **d) Unidad de mil.** El 6 es el primer dígito de un número de 4 cifras, por lo tanto vale 6.000. | OA 1 — Representar y describir números hasta el 10.000 |
-| 2 | Historia | **b) Mayas y aztecas.** La Zona A corresponde al espacio mesoamericano (México y Centroamérica). | OA 4 — Civilizaciones americanas |
+| 2 | Historia | **a) Mayas y aztecas.** La Zona A corresponde al espacio mesoamericano (México y Centroamérica). | OA 4 — Civilizaciones americanas |
 | 3 | Ciencias Naturales | **c) Piedras.** Es el único elemento no vivo entre los observados. | OA 1 — Ecosistemas: elementos vivos y no vivos |
-| 4 | Lenguaje | **b)** El texto dice explícitamente que le pidió a Matías "que recorriera la orilla para buscarlas". | OA N°4 — información explícita en narraciones |
-| 5 | Matemática | **b) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
+| 4 | Lenguaje | **a)** El texto dice explícitamente que le pidió a Matías "que recorriera la orilla para buscarlas". | OA N°4 — información explícita en narraciones |
+| 5 | Matemática | **a) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
 | 6 | Historia | **c) Tropical.** Altas temperaturas y lluvias abundantes todo el año. | OA 8 — Paisajes de América |
-| 7 | Ciencias Naturales | **b) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
-| 8 | Lenguaje | **b)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
+| 7 | Ciencias Naturales | **a) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
+| 8 | Lenguaje | **a)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
 | 9 | Matemática | **b) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
 | 10 | Historia | **c) El cobre.** Es un recurso mineral que, una vez extraído, no se regenera. | OA 9 — Recursos naturales |
 | 11 | Ciencias Naturales | **b) Tendón.** Conecta un músculo con un hueso y transmite la fuerza para el movimiento. | OA 6 — Sistema músculo-esquelético |

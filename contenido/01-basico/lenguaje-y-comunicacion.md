@@ -441,7 +441,7 @@ c) "lacasa esgrande"
 - **Consonante**: letra que no es vocal (a, e, i, o, u); necesita una vocal para formar una sílaba (por ejemplo, "m" en "mano").
 - **Decodificación**: proceso de transformar las letras escritas en sonidos, para poder leer una palabra.
 - **Dígrafo**: dos letras que juntas representan un solo sonido, como **rr**, **ll**, **ch** y **qu**.
-- **Fonema**: el sonido que representa una letra o un grupo de letras al hablar.
+- **Fonema**: la unidad mínima de sonido del habla que distingue significado (por ejemplo, el sonido /p/ en "pato" vs /b/ en "bato"); se representa con una letra o grupo de letras (grafema).
 - **Grafema**: la letra escrita que representa un sonido (fonema).
 - **Información explícita**: información que el texto dice directamente, "con todas sus letras".
 - **Información implícita**: información que el texto no dice directamente, pero que se puede deducir usando pistas del texto.

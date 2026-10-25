@@ -250,37 +250,59 @@ menos dos fortalezas y dos aspectos a mejorar.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias para la Ciudadanía — 3° Medio — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | c) Elegir hacer actividad física regularmente puede compensar parcialmente otros factores de riesgo ambientales o sociales | OA 1 (Mód. 1) |
-| 2 | Alternativas | b) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad, además de sus efectos inmediatos | OA 1 (Mód. 1) |
-| 3 | Alternativas | b) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
-| 4 | Alternativas | b) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
-| 5 | Desarrollo breve | Es un factor ambiental en cuanto a la presencia del patógeno en el entorno (aire, superficies, contacto con otras personas); es un factor biológico en cuanto a la respuesta del sistema inmune de cada persona ante ese mismo patógeno (por qué unas personas se enferman gravemente y otras no). | OA 1 (Mód. 1) |
-| 6 | Desarrollo extenso | Corto plazo: intoxicación aguda, pérdida de juicio, riesgo de accidentes. Largo plazo: mayor riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años. La decisión personal de consumir no ocurre en el vacío: la presión social del grupo (factor social) interactúa con la vulnerabilidad biológica propia de la adolescencia. | OA 1 (Mód. 1) |
-| 7 | Alternativas | b) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
-| 8 | Alternativas | b) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al VIH, que se transmite por vía sanguínea o sexual | OA 3 (Mód. 1) |
-| 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica), por lo que la inmunidad de temporadas anteriores no siempre protege contra las nuevas variantes | OA 3 (Mód. 1) |
-| 10 | Desarrollo breve | El control del hantavirus se relaciona con el manejo del entorno: evitar la acumulación de basura orgánica que atraiga roedores, mantener despejados los alrededores de las viviendas y considerar que la deforestación o el abandono de terrenos agrícolas puede alterar las poblaciones de ratón colilargo, afectando el riesgo de contagio; la prevención no es solo doméstica, sino también ambiental y territorial. | OA 3 (Mód. 1) |
-| 11 | Desarrollo breve | Se debe priorizar la publicación científica revisada por pares, porque fue evaluada por otros expertos, entrega datos concretos (40%) y sigue un método verificable; la afirmación del influencer no presenta evidencia ni metodología, por lo que no es una fuente confiable para tomar decisiones de salud pública. | OA 3 (Mód. 1) |
-| 12 | Desarrollo extenso | Porque la transmisión de agentes infecciosos no respeta fronteras: un caso importado puede iniciar una cadena de contagio local si la cobertura de vacunación no es suficiente, por lo que la vigilancia epidemiológica y la coordinación entre países (por ejemplo, mediante la OMS) son parte necesaria de la prevención, no solo la atención al paciente individual. | OA 3 (Mód. 1) |
-| 13 | Alternativas | b) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad | OA 1 (Mód. 2) |
-| 14 | Alternativas | b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo de toxicidad | OA 1 (Mód. 2) |
-| 15 | Alternativas | b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el riesgo de somnolencia extrema o dificultad respiratoria | OA 1 (Mód. 2) |
-| 16 | Desarrollo breve | La reacción entre bicarbonato de sodio y vinagre produce dióxido de carbono y agua, una reacción común y utilizada incluso en experimentos escolares seguros; no genera un gas tóxico o mortal en condiciones domésticas habituales. La afirmación es incorrecta y debería contrastarse con fuentes confiables antes de difundirla. | OA 1 (Mód. 2) |
-| 17 | Desarrollo extenso | Riesgo: si algún envase gotea o se derrama, ambas sustancias podrían entrar en contacto y reaccionar peligrosamente, generando gases tóxicos o reacciones corrosivas. Medida: separar físicamente sustancias incompatibles según su ficha de seguridad, en estantes distintos y con buena ventilación, siguiendo las normas de almacenamiento de sustancias peligrosas. | OA 1 (Mód. 2) |
-| 18 | Desarrollo breve | Debe considerarse que los productos concentrados tienen mayor cantidad de principio activo por unidad de volumen y, en el caso de las cápsulas, su apariencia colorida y textura pueden confundirse con dulces, lo que ha generado un aumento real de intoxicaciones infantiles reportadas por centros de toxicología; la marca no determina el riesgo, sino la concentración, la presentación y el acceso del producto a los niños. | OA 1 (Mód. 2) |
-| 19 | Alternativas | b) Mitigación de las consecuencias de una emergencia | OA 3 (Mód. 2) |
-| 20 | Alternativas | b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal controladas o intencionalidad | OA 3 (Mód. 2) |
-| 21 | Alternativas | b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención, mitigación, preparación, respuesta y recuperación) | OA 3 (Mód. 2) |
-| 22 | Desarrollo breve | Los modelos científicos integran múltiples variables (magnitud posible del sismo, topografía, batimetría, datos históricos de distintos eventos) y no dependen de un solo caso anecdótico; la experiencia de un evento pasado puede no representar el peor escenario posible, mientras que el modelo busca cubrir un rango más amplio de posibilidades. | OA 3 (Mód. 2) |
-| 23 | Desarrollo extenso | Es una medida de adaptación (y también de prevención), porque implica ajustar la planificación urbana a largo plazo para no exponer a la población al riesgo, en lugar de solo responder cuando el evento ya ocurre. | OA 3 (Mód. 2) |
-| 24 | Desarrollo breve | Se puede afirmar que Chile tiene una alta exposición histórica y recurrente a sismos de gran magnitud debido a su ubicación en el Cinturón de Fuego del Pacífico, lo que justifica mantener y reforzar medidas de prevención y mitigación permanentes. No se puede afirmar con precisión cuándo, dónde ni de qué magnitud exacta será el próximo sismo; los modelos estiman probabilidades y zonas de mayor riesgo (como "brechas sísmicas"), pero no predicen fechas exactas. | OA 3 (Mód. 2) |
-| 25 | Desarrollo extenso | Respuesta abierta y personal; debe mencionar elementos concretos como señalización de vías de evacuación, frecuencia de simulacros, existencia de un plan de emergencia escolar, estado de la infraestructura, o coordinación con organismos como SENAPRED o Bomberos, distinguiendo con criterio qué corresponde a prevención, qué a mitigación y qué a adaptación. | OA 3 (Mód. 2) |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 8 × 1 punto = 8 puntos
+- **Total preguntas desarrollo breve:** 2 × 2 puntos = 4 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 18 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 8 | 1, 2, 4, 5, 7, 8, 10, 11 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 2 | 3, 6 |
+| Desarrollo extenso | 2 | 9, 12 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 18 (100%) | 7,0 |
+| 16 (90%) | 6,3 |
+| 14 (80%) | 5,6 |
+| 13 (70%) | 4,9 |
+| 11 (60% — exigencia mínima) | **4,0** |
+| 9 (50%) | 3,5 |
+| 7 (40%) | 3,0 |
+| 5 (30%) | 2,5 |
+| 4 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **13 preguntas de alternativas** (N° 1, 2, 3, 4, 7, 8, 9, 13, 14, 15, 19, 20, 21) × 1 punto = 13 puntos
 - **7 preguntas de desarrollo breve** (N° 5, 10, 11, 16, 18, 22, 24) × 2 puntos = 14 puntos

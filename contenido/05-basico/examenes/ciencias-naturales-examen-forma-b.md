@@ -262,37 +262,59 @@ ayuda a conservar el agua.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Ciencias Naturales — 5° Básico — Forma B
 
-| N° | Tipo | Clave / respuesta esperada | OA |
-|----|------|------------------------------|----|
-| 1 | Alternativas | b) Célula → tejido → órgano → sistema | OA 1 |
-| 2 | Alternativas | c) Órgano | OA 1 |
-| 3 | Alternativas | c) Sistema | OA 1 |
-| 4 | Desarrollo breve | Respuesta abierta: debe nombrar un sistema distinto del digestivo (p. ej. respiratorio: nariz filtra el aire, tráquea lo conduce, pulmones realizan el intercambio de gases) y describir la coordinación de al menos dos órganos dentro de ese sistema. | OA 1 |
-| 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas | OA 5 |
-| 6 | Alternativas | b) Una naranja | OA 5 |
-| 7 | Desarrollo breve | Porque la carne y las legumbres son ricas en proteínas, el nutriente principal que el cuerpo utiliza para construir y reparar tejidos, como músculos y piel. | OA 5 |
-| 8 | Desarrollo extenso | Comer siempre un solo grupo de nutrientes es dañino porque el cuerpo necesita variedad de nutrientes para cumplir distintas funciones (reparación, energía, desarrollo general); en este caso, arroz con papas fritas aporta principalmente carbohidratos y grasas, pero faltan proteínas (reparación y crecimiento) y vitaminas y minerales (desarrollo general, presentes en frutas y verduras). | OA 5 |
-| 9 | Alternativas | c) Asma | OA 6 |
-| 10 | Alternativas | b) Arritmia | OA 6 |
-| 11 | Desarrollo breve | Respuesta abierta: por ejemplo, evitar espacios cerrados donde se fuma, pedir que no se fume dentro de la casa o el auto, promover espacios libres de humo. | OA 6 |
-| 12 | Alternativas | b) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones | OA 7 |
-| 13 | Alternativas | b) 2 (la levadura y el champiñón son beneficiosos; la bacteria de la infección intestinal y el virus del resfriado son dañinos) | OA 7 |
-| 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel | OA 7 |
-| 15 | Desarrollo breve | Una enfermedad infectocontagiosa es causada por un microorganismo (bacteria, virus u hongo) y puede transmitirse de una persona a otra. Ejemplo válido (distinto de la gripe): el pie de atleta (hongo), una infección intestinal (bacteria), un resfriado común (virus), entre otros. | OA 7 |
-| 16 | Alternativas | b) El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente | OA 10 |
-| 17 | Alternativas | c) Solo con la moneda de metal | OA 10 |
-| 18 | Alternativas | b) Conductor, porque permite el paso de la corriente con facilidad | OA 10 |
-| 19 | Desarrollo extenso | El material conductor (cobre) en el interior permite que la corriente eléctrica circule hacia donde se necesita; el material aislador (plástico) en el exterior evita que la corriente entre en contacto con las personas, previniendo descargas eléctricas. Ambos materiales cumplen funciones complementarias y necesarias en un mismo cable. | OA 10 |
-| 20 | Alternativas | b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea | OA 12 |
-| 21 | Alternativas | c) El Campo de Hielo Sur | OA 12 |
-| 22 | Desarrollo breve | Los glaciares almacenan agua dulce congelada que se libera lentamente hacia ríos y lagos; las nubes transportan el agua evaporada (proveniente en gran parte del océano) y la devuelven a la superficie como lluvia o nieve, alimentando los depósitos de agua dulce. Ambos forman parte del ciclo continuo del agua. | OA 12 |
-| 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar | OA 14 |
-| 24 | Alternativas | b) Un derrame de petróleo en el mar | OA 14 |
-| 25 | Desarrollo extenso | Respuesta abierta: acciones válidas incluyen no botar basura ni químicos en ríos o canales (evita la contaminación del agua y protege a los seres vivos que dependen de ella), reducir el consumo innecesario de agua en la casa (ayuda a conservar un recurso escaso), participar en limpiezas de playas o riberas, o apoyar campañas de cuidado del agua. Se debe explicar por qué cada acción ayuda a conservar el recurso hídrico. | OA 14 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
 ### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 8 × 1 punto = 8 puntos
+- **Total preguntas desarrollo breve:** 3 × 2 puntos = 6 puntos  
+- **Total preguntas desarrollo extenso:** 1 × 3 puntos = 3 puntos
+- **Puntaje total de la prueba: 17 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 8 | 1, 2, 3, 5, 7, 9, 11, 12 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 3 | 4, 6, 8 |
+| Desarrollo extenso | 1 | 10 |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 17 (100%) | 7,0 |
+| 15 (90%) | 6,3 |
+| 14 (80%) | 5,6 |
+| 12 (70%) | 4,9 |
+| 10 (60% — exigencia mínima) | **4,0** |
+| 8 (50%) | 3,5 |
+| 7 (40%) | 3,0 |
+| 5 (30%) | 2,5 |
+| 3 (20%) | 2,0 |
+| 2 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **17 preguntas de alternativas** × 1 punto = 17 puntos
 - **5 preguntas de desarrollo breve** (N° 4, 7, 11, 15, 22) × 2 puntos = 10 puntos

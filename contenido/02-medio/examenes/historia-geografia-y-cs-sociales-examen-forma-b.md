@@ -421,39 +421,59 @@ tipo de riesgos.
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 2° Medio — Forma B
 
-| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
-|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York | OA 2 | Historia | 1 |
-| 2  | Alternativas | c) La Declaración Universal de los Derechos Humanos | OA 4 | Historia | 1 |
-| 3  | Alternativas | b) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
-| 4  | Alternativas | b) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
-| 5  | Desarrollo breve | Fue una confrontación principalmente ideológica porque, evitando un choque militar directo que arriesgara una guerra nuclear, ambas superpotencias compitieron por demostrar la superioridad de su sistema político y económico a través de otras vías. Esferas válidas (dos): la cultura (propaganda, cine, literatura), el deporte (Juegos Olímpicos, boicots mutuos) o las ciencias (la carrera espacial) | OA 8 | Historia | 2 |
-| 6  | Alternativas | a) La Revolución Cubana | OA 10 | Historia | 1 |
-| 7  | Desarrollo breve | La Doctrina de la Seguridad Nacional promovía el fortalecimiento de las Fuerzas Armadas latinoamericanas como garantes del orden interno frente a la amenaza comunista percibida durante la Guerra Fría; esta doctrina fue utilizada para legitimar, en varios países de la región, la intervención militar en la política y la instauración de dictaduras que violaron sistemáticamente los Derechos Humanos | OA 10 | Historia | 2 |
-| 8  | Alternativas | b) Perestroika y Glasnost | OA 11 | Historia | 1 |
-| 9  | Alternativas | b) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos y militares chilenos | OA 15 | Historia | 1 |
-| 10 | Desarrollo breve | En temas históricos con fuerte carga política y emocional, es común que circulen versiones basadas solo en posturas personales o partidistas; el trabajo historiográfico riguroso exige sustentar cualquier interpretación en evidencia verificable (archivos, testimonios, documentos), lo que permite distinguir entre visiones que amplían la comprensión del pasado y afirmaciones sin sustento, sin que esto implique que exista una única interpretación correcta | OA 15 | Historia | 2 |
-| 11 | Alternativas | b) La desaparición forzada | OA 16 | Historia | 1 |
-| 12 | Desarrollo extenso | Ejemplos válidos de supresión del Estado de Derecho (al menos dos): el cierre del Congreso Nacional (elimina el control legislativo), la proscripción de los partidos políticos (elimina la oposición organizada), la concentración del poder en la Junta Militar (elimina la separación de poderes), o el estado de sitio y el toque de queda (restringen libertades básicas). Relevancia de reconocer a la Vicaría de la Solidaridad: muestra que, aun en un contexto de represión estatal sistemática, la sociedad civil no permaneció pasiva, y que instituciones civiles y religiosas, con considerable riesgo personal para quienes las integraban, contribuyeron a documentar y defender a las víctimas, lo que hoy resulta clave para el derecho a la verdad y la justicia | OA 16 | Historia | 3 |
-| 13 | Alternativas | b) El Plan Laboral | OA 17 | Historia | 1 |
-| 14 | Desarrollo breve | Significa que el mercado —y no el Estado ni la planificación central— se estableció como el principal mecanismo para asignar recursos, fijar precios y orientar la producción. Ejemplo válido: la privatización de empresas estatales, la rebaja arancelaria que abrió la economía a la competencia internacional, o la reducción de la intervención estatal directa en sectores productivos | OA 17 | Historia | 2 |
-| 15 | Alternativas | b) Una severa crisis económica, con desempleo masivo | OA 19 | Historia | 1 |
-| 16 | Alternativas | a) La Comisión Nacional de Verdad y Reconciliación (Informe Rettig) | OA 20 | Historia | 1 |
-| 17 | Desarrollo breve | Las reformas constitucionales negociadas entre el gobierno saliente y la naciente coalición de gobierno buscaron hacer más democrática la Constitución de 1980. Elementos de continuidad: la propia Constitución de 1980 —con esas reformas parciales— se mantuvo vigente por años, y Augusto Pinochet permaneció como Comandante en Jefe del Ejército hasta 1998, lo que generó tensiones cívico-militares y obligó al nuevo gobierno a negociar cambios de manera gradual, en lugar de imponerlos unilateralmente | OA 20 | Historia | 2 |
-| 18 | Alternativas | b) Una alta mortalidad infantil y desnutrición extendida en sectores populares | OA 12 | Geografía | 1 |
-| 19 | Desarrollo breve | Las ciudades chilenas, especialmente Santiago, crecieron a un ritmo mucho más rápido que su capacidad de planificación e infraestructura debido a la intensa migración campo-ciudad. Consecuencia concreta válida: la escasez de vivienda formal, que llevó a la ocupación irregular de terrenos y a la formación de poblaciones callampas en la periferia urbana, o la segregación urbana resultante | OA 12 | Geografía | 2 |
-| 20 | Alternativas | a) Universalidad | OA 22 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | Los grupos de especial protección son personas o colectivos que, por su situación de mayor vulnerabilidad (niños, niñas y adolescentes; personas con discapacidad; pueblos indígenas; personas migrantes; adultos mayores, entre otros), requieren garantías específicas para poder ejercer sus derechos en igualdad de condiciones. Esto es compatible con la universalidad porque no implica darles "más" derechos que al resto, sino generar las condiciones concretas para que puedan ejercer, en igualdad real, los mismos derechos universales que corresponden a todas las personas | OA 22 | Formación Ciudadana | 2 |
-| 22 | Alternativas | a) Un caso de discriminación arbitraria por nacionalidad | OA 25 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Oportunidad: mayor visibilidad internacional de casos de discriminación, intercambio cultural y avance de estándares internacionales de Derechos Humanos. Desafío: persistencia de prejuicios y estereotipos culturales, o discriminación hacia comunidades migrantes, especialmente cuando el mayor contacto entre culturas no viene acompañado de educación e inclusión efectiva | OA 25 | Formación Ciudadana | 2 |
-| 24 | Alternativas | c) Nuevos canales de participación ciudadana y mayor control sobre las autoridades | OA 6 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | Riesgo: la exposición no autorizada de datos personales y los riesgos para el resguardo de la vida privada (ilustrado por la recopilación de ubicación sin consentimiento informado). Oportunidad: nuevos canales de participación ciudadana que permiten organizar campañas y ejercer presión efectiva sobre las autoridades (ilustrado por la campaña de firmas que logra que el Congreso discuta un proyecto de ley). Medidas válidas: revisar y limitar los permisos de las aplicaciones, informarse sobre el uso que se da a los propios datos, y promover colectivamente estándares de transparencia y protección de datos por parte de las plataformas | OA 6 | Formación Ciudadana | 3 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-**Puntaje total: 37 puntos**
+### Resumen de puntaje
 
-### Distribución por eje y OA
+- **Total preguntas de alternativas:** 15 × 1 punto = 15 puntos
+- **Total preguntas desarrollo breve:** 8 × 2 puntos = 16 puntos  
+- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
+- **Puntaje total de la prueba: 37 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 15 | 1, 2, 3, 4, 6, 8, 9, 11, 13, 15, 16, 18, 20, 22, 24 |
+| Verdadero o Falso (con justificación) | 0 | — |
+| Desarrollo breve | 8 | 5, 7, 10, 14, 17, 19, 21, 23 |
+| Desarrollo extenso | 2 | 12, 25 |
+| **Total** | **25** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 37 (100%) | 7,0 |
+| 33 (90%) | 6,3 |
+| 30 (80%) | 5,6 |
+| 26 (70%) | 4,9 |
+| 22 (60% — exigencia mínima) | **4,0** |
+| 18 (50%) | 3,5 |
+| 15 (40%) | 3,0 |
+| 11 (30%) | 2,5 |
+| 7 (20%) | 2,0 |
+| 4 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

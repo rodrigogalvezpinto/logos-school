@@ -180,37 +180,59 @@ then ___ the train station."* (get off / arrive at)
 
 ---
 
-## PAUTA DE CORRECCIÓN
+## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 8° Básico — Forma B
 
-| N° | Clave / Respuesta esperada | OA |
-|---|---|---|
-| 1 | b) How video tutorials help teenagers learn new skills | OA9 |
-| 2 | about / by | OA9 |
-| 3 | False (Falso) — un buen resumen es más breve que el texto original y usa palabras propias; no incluye todos los detalles. | OA9 |
-| 4 | Respuesta personal coherente, p. ej.: *Yes, in Chile we celebrate Fiestas Patrias with empanadas and dancing.* | OA9 |
-| 5 | Italy / 13 / painting | OA9 |
-| 6 | b) How could using tablets change the way students learn in the future? | OA9 |
-| 7 | b) To persuade readers to visit the museum | OA10 |
-| 8 | so | OA10 |
-| 9 | True (Verdadero) — la estructura *if... will...* expresa que proteger el océano depende de una condición (reciclar botellas). | OA10 |
-| 10 | lighter | OA10 |
-| 11 | discussion | OA10 |
-| 12 | c) Adds extra information | OA10 |
-| 13 | prefer / to | OA13 |
-| 14 | b) I prefer Italian pasta because it's delicious and has so much variety. | OA13 |
-| 15 | traveled (o travelled) / was | OA13 |
-| 16 | True (Verdadero) — *in my opinion* introduce una valoración personal apropiada sobre el tema de las culturas. | OA13 |
-| 17 | expresar una preferencia | OA13 |
-| 18 | Respuesta personal coherente, p. ej.: *"...because I love bright colors and traditional music."* | OA13 |
-| 19 | a lot of | OA16 |
-| 20 | Respuesta con estructura correcta, p. ej.: *It's on Friday, at 7 o'clock.* | OA16 |
-| 21 | is going to rain | OA16 |
-| 22 | b) The castle is a huge, ancient building near the river. | OA16 |
-| 23 | always / Then | OA16 |
-| 24 | Respuesta personal con *prefer... because*, p. ej.: *I prefer going to the beach because I love swimming and the hot weather.* | OA16 |
-| 25 | get off / arrive at | OA16 |
+| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
+|----|------|----------------------------|-----|---------|
+[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
 
-### Resumen de puntaje por OA
+### Resumen de puntaje
+
+- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
+- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
+- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
+- **Puntaje total de la prueba: 12 puntos**
+
+### Distribución por OA
+
+| OA | N° de preguntas | Preguntas |
+|----|----------------|-----------|
+| OA 1 | 5 | 1, 2, 3, 4, 5 |
+| OA 2 | 5 | 6, 7, 8, 9, 10 |}
+
+### Distribución por tipo de pregunta
+
+| Tipo de pregunta | Cantidad | Preguntas |
+|------------------|----------|-----------|
+| Alternativas (4 opciones) | 12 | 1, 3, 4, 6, 7, 8, 9, 10, 11, 12 |
+| Verdadero o Falso (con justificación) | 2 | 2, 5 |
+| Desarrollo breve | 0 | — |
+| Desarrollo extenso | 0 | — |
+| **Total** | **12** | |
+
+### Escala de conversión a nota (referencial)
+
+| Puntaje | Nota (escala 1,0–7,0) |
+|---------|------------------------|
+| 12 (100%) | 7,0 |
+| 11 (90%) | 6,3 |
+| 10 (80%) | 5,6 |
+| 8 (70%) | 4,9 |
+| 7 (60% — exigencia mínima) | **4,0** |
+| 6 (50%) | 3,5 |
+| 5 (40%) | 3,0 |
+| 4 (30%) | 2,5 |
+| 2 (20%) | 2,0 |
+| 1 (10%) | 1,5 |
+| 0 | 1,0 |
+
+> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
+
+---
+
+> **Nota sobre esta B**
+
+Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|
