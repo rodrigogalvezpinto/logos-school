@@ -205,59 +205,32 @@ ________________________________________________________________________________
 
 ---
 
-## PAUTA DE CORRECCIÓN — Asignatura — 1° Básico — Forma A
+# PAUTA DE CORRECCIÓN — FORMA A
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
+|---|---|---|---|
+| 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
+| 2 | Lenguaje y Comunicación | **b) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
+| 3 | Historia, Geografía y Cs. Sociales | **a) Dormir toda la noche.** Antes de empezar el día dormimos toda la noche; después viene el desayuno y el resto de las actividades. | OA 2 — Secuencia temporal |
+| 4 | Ciencias Naturales | **c) Un pájaro.** Es un ser vivo porque nace, crece, se reproduce y muere; la silla y el lápiz son objetos, no seres vivos. | OA 1 — Seres vivos y cosas no vivas |
+| 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
+| 6 | Matemática | **b) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
+| 7 | Ciencias Naturales | **b) Tacto.** El tacto de las manos permite sentir si algo está caliente o frío. | OA 6 — Los cinco sentidos |
+| 8 | Historia, Geografía y Cs. Sociales | **b) Santiago.** Es la capital de Chile. | OA 9 — Chile en el mapa |
+| 9 | Matemática | **b) 8.** Contando desde 5, tres números más (6, 7, 8), se llega a 8. | OA 9 — Sumar y restar números del 0 al 20 |
+| 10 | Lenguaje y Comunicación | **b) Pan.** La frase dice claramente "El perro come pan". | OA N°4 — Lectura y comprensión de frases cortas |
+| 11 | Historia, Geografía y Cs. Sociales | **b) Océano Pacífico.** Está junto a todo el territorio chileno, de norte a sur. | OA 9 — Chile en el mapa |
+| 12 | Ciencias Naturales | **b) Corcho.** Es un material liviano que flota en el agua, por eso se usa en tapones de botella. | OA 8 — Los materiales y sus propiedades |
+| 13 | Lenguaje y Comunicación | **a) Debajo de un auto.** El texto dice "Pepa vio un gato debajo de un auto". | OA N°8 — Información explícita en cuentos |
+| 14 | Matemática | **b) Círculo.** El patrón se repite de dos en dos: cuadrado-círculo, cuadrado-círculo... Después de un cuadrado siempre sigue un círculo. | OA 11 — Reconocer, describir, crear y continuar patrones |
+| 15 | Ciencias Naturales | **a) Se derrite y se vuelve agua.** El calor hace que el hielo cambie de estado sólido a líquido. | OA 9 — Cambios en los materiales |
+| 16 | Historia, Geografía y Cs. Sociales | **b) Mirar hacia ambos lados.** Nos ayuda a asegurarnos de que no vienen autos antes de cruzar. | OA 14 — Normas de convivencia y autocuidado |
+| 17 | Matemática | **c) Uva.** La uva tiene 7 marcas, más que la manzana (5) y el plátano (3), por lo tanto es la fruta preferida por más niños. | OA 19 — Recolectar y registrar datos |
+| 18 | Ciencias Naturales | **c) El Sol.** Es el astro que vemos de día y que nos da luz y calor. | OA 11 — El día y la noche |
+| 19 | Historia, Geografía y Cs. Sociales | **b) El hospital o la posta.** Ahí médicos y enfermeras atienden a las personas enfermas. | OA 15 — Instituciones de la comunidad |
+| 20 | Lenguaje y Comunicación | **"luna".** Debe tener una letra por cada sonido: /l/-/u/-/n/-/a/. | OA N°13 — Relación letra-sonido al escribir |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 10 × 1 punto = 10 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 10 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 10 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **10** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 10 (100%) | 7,0 |
-| 9 (90%) | 6,3 |
-| 8 (80%) | 5,6 |
-| 7 (70%) | 4,9 |
-| 6 (60% — exigencia mínima) | **4,0** |
-| 5 (50%) | 3,5 |
-| 4 (40%) | 3,0 |
-| 3 (30%) | 2,5 |
-| 2 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta A**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la B (contenido/{curso}/{asignatura}-examen-forma-B.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje por asignatura
+### Distribución de puntaje por asignatura
 
 | Asignatura | N° de preguntas | Preguntas |
 |---|---|---|

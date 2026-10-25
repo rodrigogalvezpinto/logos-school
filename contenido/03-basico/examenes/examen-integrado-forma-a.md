@@ -260,59 +260,32 @@ d) La Declaración de Independencia
 
 ---
 
-## PAUTA DE CORRECCIÓN — Asignatura — 3° Básico — Forma A
+# PAUTA DE CORRECCIÓN — FORMA A
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
+|----|------------|------------------------------------------|-------------|
+| 1 | Matemática | **b) 628.** "Seiscientos" es 600 y "veintiocho" es 28: 600+28=628. | OA 2 |
+| 2 | Ciencias Naturales | **c) El copihue.** | OA 2 |
+| 3 | Historia, Geografía y Cs. Sociales | **b) El ágora.** Plaza pública de una ciudad griega donde las personas comerciaban y conversaban. | OA 3 |
+| 4 | Lenguaje y Comunicación | **a) Vallenar.** El texto dice que Joaquín "salió... a volar cometa... en Vallenar". | OA 4 |
+| 5 | Lenguaje y Comunicación | **b) Cautelosa y prefiere mirar desde abajo.** | OA 4 |
+| 6 | Matemática | **Verdadero.** Al aplicar el algoritmo con reserva, 604−237=367. | OA 6 |
+| 7 | Ciencias Naturales | **c) Oxígeno.** | OA 4 |
+| 8 | Historia, Geografía y Cs. Sociales | **b) La democracia.** Nació en la antigua Atenas. | OA 3 |
+| 9 | Lenguaje y Comunicación | **Verdadero.** El poema dice "y las abejas bailan sin parar". | OA 5 |
+| 10 | Matemática | 48÷8=**6 tejidos por puesto**. | OA 9 |
+| 11 | Ciencias Naturales | **b) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** | OA 6 |
+| 12 | Historia, Geografía y Cs. Sociales | **b) El hemisferio norte y el hemisferio sur.** | OA 7 |
+| 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
+| 14 | Matemática | Falta el **354**. La regla es "sumar 10" en cada paso. | OA 12 |
+| 15 | Ciencias Naturales | **c) Reflexión (eco).** | OA 10 |
+| 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** | OA 8 |
+| 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** | OA 17 |
+| 18 | Matemática | **b) El objeto de 1 kg.** 1 kg equivale a 1 000 g, que es más que 850 g. | OA 22 |
+| 19 | Ciencias Naturales | **Luna llena**, porque se observa toda su superficie iluminada desde la Tierra. | OA 11 |
+| 20 | Historia, Geografía y Cs. Sociales | **b) La Convención sobre los Derechos del Niño.** | OA 14 |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 3 × 1 punto = 3 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 3 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 3 | 1, 2, 3 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **3** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 3 (100%) | 7,0 |
-| 3 (90%) | 6,3 |
-| 2 (80%) | 5,6 |
-| 2 (70%) | 4,9 |
-| 2 (60% — exigencia mínima) | **4,0** |
-| 2 (50%) | 3,5 |
-| 1 (40%) | 3,0 |
-| 1 (30%) | 2,5 |
-| 1 (20%) | 2,0 |
-| 0 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta A**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la B (contenido/{curso}/{asignatura}-examen-forma-B.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de la prueba
+### Resumen de la prueba
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas fueron seleccionadas y adaptadas de las pruebas de práctica por asignatura de 3° básico. Esta es la **Forma A** del examen integrado; existe una **Forma B** con preguntas distintas, para practicar el examen dos veces sin repetir contenido.

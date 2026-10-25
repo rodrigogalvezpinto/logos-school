@@ -284,59 +284,40 @@ d) El consejo regional
 
 ---
 
-## PAUTA DE CORRECCIÓN — Educación Ciudadana — 3° Medio — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+**Puntaje total: 124 puntos** &nbsp;|&nbsp; Selección múltiple: 4 puntos c/u &nbsp;|&nbsp;
+Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
 
-### Resumen de puntaje
+| N° | Tipo | Clave / Elementos esperados en la respuesta | OA |
+|----|------|-----------------------------------------------|:---:|
+| 1 | Selección múltiple | **b)** La soberanía popular | OA 1 |
+| 2 | Desarrollo breve | Debe explicar que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres y con opciones reales (pluralismo); que un gobierno *afirme* representar al pueblo, sin elecciones ni oposición legal, no sustituye ese requisito. | OA 1 |
+| 3 | Selección múltiple | **b)** La igualdad de voto | OA 1 |
+| 4 | Selección múltiple | **b)** Control de la agenda | OA 1 |
+| 5 | Desarrollo extenso | Debe elegir dos atributos distintos (de: participación efectiva, igualdad de voto, control de la agenda, Estado de Derecho, respeto a libertades fundamentales), dar un ejemplo propio y coherente de cada uno (no reutilizado de esta prueba), y explicar que una democracia real requiere el cumplimiento **simultáneo** de todos sus atributos, no de uno solo de forma aislada. | OA 1 |
+| 6 | Selección múltiple | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
+| 7 | Desarrollo breve | Debe explicar que una demanda de pensión de alimentos es una materia **de familia, no penal**, por lo que corresponde a la CAJ; la Defensoría Penal Pública solo entrega defensa gratuita en causas penales. | OA 2 |
+| 8 | Selección múltiple | **c)** La Corte Suprema | OA 2 |
+| 9 | Selección múltiple | **b)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
+| 10 | Selección múltiple | **b)** El sueldo justo | OA 4 |
+| 11 | Desarrollo extenso | Debe reconocer que no hay una única respuesta correcta. Postura de mercado: los sueldos deben reflejar productividad y la oferta y demanda de trabajo. Postura del mínimo garantizado: el Estado debe asegurar condiciones de vida digna independiente de lo que determine el mercado. Ambas deben presentarse como legítimas, sin calificar una como "la correcta". | OA 4 |
+| 12 | Selección múltiple | **b)** Proveedora de bienes y servicios | OA 4 |
+| 13 | Desarrollo breve | Debe relacionar la propuesta con el **desarrollo sustentable**: equilibrar el desarrollo económico (ingresos, empleo) con la protección ambiental y el bienestar de generaciones futuras, sin que esto se oponga al crecimiento económico. | OA 4 |
+| 14 | Selección múltiple | **b)** Indivisibilidad | OA 5 |
+| 15 | Desarrollo breve | Debe explicar que la indivisibilidad establece que los derechos civiles/políticos y los económicos/sociales tienen la misma jerarquía; respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos. | OA 5 |
+| 16 | Selección múltiple | **b)** 1948 | OA 5 |
+| 17 | Selección múltiple | **b)** El deber de proteger | OA 5 |
+| 18 | Selección múltiple | **a)** Liberal | OA 6 |
+| 19 | Desarrollo extenso | Valentina: **comunitarismo** (énfasis en comunidad, tradiciones e identidad compartida como fuente del compromiso). Tomás: **republicanismo** (énfasis en el deber cívico de participar activamente en las decisiones públicas). Debe justificar cada relación con un argumento coherente, no solo nombrar la corriente. | OA 6 |
+| 20 | Selección múltiple | **b)** Difundir información falsa deliberadamente para influir en una votación | OA 6 |
+| 21 | Desarrollo breve | Ambas perspectivas valoran lo colectivo por sobre una visión puramente individualista del bien común. Se diferencian en que el republicanismo enfatiza la **participación cívica activa** como deber ciudadano, mientras que el comunitarismo enfatiza los **lazos, tradiciones e identidades compartidas** de la comunidad, sin exigir necesariamente participación política activa. | OA 6 |
+| 22 | Selección múltiple | **a)** Plan regulador comunal | OA 7 |
+| 23 | Desarrollo breve | Debe explicar que el acceso a un recurso valioso del territorio (el borde costero) queda restringido a quienes puedan pagar por proyectos inmobiliarios privados, excluyendo el acceso público general; las decisiones de uso de suelo no son neutras, definen quién accede a qué recursos. | OA 7 |
+| 24 | Selección múltiple | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
+| 25 | Selección múltiple | **a)** El censo | OA 7 |
 
-- **Total preguntas de alternativas:** 4 × 1 punto = 4 puntos
-- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
-- **Total preguntas desarrollo extenso:** 3 × 3 puntos = 9 puntos
-- **Puntaje total de la prueba: 23 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 4 | 1, 2, 5, 9 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 5 | 4, 7, 8, 11, 12 |
-| Desarrollo extenso | 3 | 3, 6, 10 |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 23 (100%) | 7,0 |
-| 21 (90%) | 6,3 |
-| 18 (80%) | 5,6 |
-| 16 (70%) | 4,9 |
-| 14 (60% — exigencia mínima) | **4,0** |
-| 12 (50%) | 3,5 |
-| 9 (40%) | 3,0 |
-| 7 (30%) | 2,5 |
-| 5 (20%) | 2,0 |
-| 2 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Escala de referencia sugerida
+### Escala de referencia sugerida
 
 | Puntaje obtenido | Nivel de logro |
 |---|---|

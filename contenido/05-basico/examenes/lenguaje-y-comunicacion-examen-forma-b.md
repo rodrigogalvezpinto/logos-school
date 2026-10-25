@@ -237,59 +237,37 @@ d) "La energía energía energía se debe cuidar cuidar cuidar."
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lenguaje y Comunicación — 5° Básico — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **b)** "Manos ásperas y siempre manchadas de greda seca" sugiere años de trabajo y experiencia en la alfarería; esta característica física es relevante porque explica su paciencia y maestría al enseñar. | OA N°4 — características físicas relevantes |
+| 2 | Significa que las cosas que valen la pena requieren tiempo y no se pueden apurar, o se "quiebran" (se echan a perder). Es una **metáfora**, porque compara la vida con la greda sin usar la palabra "como". | OA N°4 — lenguaje figurado en narraciones |
+| 3 | **b)** Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía. | OA N°4 — inferencia sobre personajes |
+| 4 | Debe explicar que la alegría de Tomás es distinta porque proviene de haber ayudado a un ser vivo a recuperarse y volver a ser libre, un proceso que tomó tiempo, cuidado y paciencia (dos semanas de recuperación), a diferencia de otras alegrías más inmediatas. Debe relacionar esta idea con el mensaje de tata Segundo: que las cosas que realmente valen la pena requieren tiempo y paciencia, no apuro. | OA N°4 — interpretación profunda y relación entre textos |
+| 5 | **b)** Rima asonante, porque solo coinciden los sonidos vocálicos (a-a) entre "casa" y "cama", no todos los sonidos (las consonantes "s" y "m" son distintas). | OA N°5 — elementos formales del poema (rima) |
+| 6 | **b)** "El cielo es un lienzo pintado de aurora" nombra directamente al cielo como "lienzo", sin usar "como" ni "parece"; es una metáfora. Las opciones c) y d) son personificaciones (el sol "se asoma", el mar "responde"), y la opción a) es una descripción literal. | OA N°5 — lenguaje figurado (metáfora) |
+| 7 | Es una **personificación**: se le da al sol una actitud humana (asomarse con cautela). Transmite una imagen delicada del amanecer, como si el sol observara con curiosidad la caleta antes de aparecer del todo. | OA N°5 — personificación explicada |
+| 8 | "Quietas" y "curtidas" no forman rima, porque sus sonidos vocálicos desde la sílaba acentuada no coinciden (quietas: e-a; curtidas: i-a). El verso "y el mar responde con un suave murmullo" apela principalmente al **oído** (sugiere el sonido suave de las olas) y ayuda a construir una atmósfera de calma en el amanecer costero. | OA N°5 — rima y sentidos/atmósfera |
+| 9 | **b)** Porque las aguas frías del Pacífico se llenan de kril, su alimento principal (primer párrafo del texto). | OA N°6 — información explícita |
+| 10 | El texto explica que en esos meses se concentran muchas ballenas en el golfo de Corcovado y que una de las amenazas son las colisiones con barcos; combinando esto con el conocimiento de que reducir el tránsito o cambiar las rutas en zonas de alta concentración de animales disminuye el riesgo de choques, se puede inferir que es más importante ajustar las rutas justamente durante esos meses de mayor presencia de ballenas, aunque el texto no lo diga con esas palabras. | OA N°6 — inferencia |
+| 11 | **c)** Ballena franca, en la Región del Biobío (las demás están en el sur austral) y entre julio y octubre (las demás se observan entre diciembre y abril). | OA N°6 — lectura de textos discontinuos (tabla) |
+| 12 | **b)** Que la zona de Aysén es relevante para la alimentación de más de una especie de ballena, al combinar la información del texto (golfo de Corcovado, ballena azul) con la de la tabla (ballena sei). | OA N°6 — relación entre texto y tabla |
+| 13 | Debe relacionar que el segundo párrafo explica por qué el golfo de Corcovado es un sitio clave de alimentación (más de 400 ballenas azules identificadas) con el tercer párrafo, que explica los riesgos de colisiones y enredos en redes; entendiendo que, al ser una zona tan importante para la especie, la colaboración entre ciencia y Armada permite reducir esos riesgos justo donde más ballenas se concentran. La opinión fundamentada debe apoyarse en información del texto o en conocimientos propios razonables. | OA N°6 — relación entre párrafos y opinión fundamentada |
+| 14 | **b)** Invitar a la comunidad a participar de un encuentro de juegos y cueca, y recaudar fondos para el curso de 6° básico. | OA N°7 — propósito del texto |
+| 15 | No, el afiche no entrega esa información, ya que solo menciona que habrá venta de anticuchos y mote con huesillo a beneficio del curso, sin indicar precios. Para conocerlos, debería consultarse directamente al Centro de Padres y Apoderados (el emisor del texto). | OA N°7 — suficiencia de la información |
+| 16 | **b)** El destinatario de un texto depende de su propósito y del contexto en que fue producido. | OA N°7 — destinatario de los textos en general |
+| 17 | Debe identificar al menos dos expresiones (por ejemplo, "te invita", "para todas las edades", "entrada liberada para toda la comunidad") que muestran un lenguaje inclusivo y amplio, explicando que reflejan que el destinatario es la comunidad escolar y familiar en general. La evaluación del cumplimiento del propósito debe estar fundamentada (por ejemplo, que sí cumple bien su propósito porque entrega fecha, horario, lugar y actividades con claridad). | OA N°7 — destinatario y evaluación del propósito |
+| 18 | **b)** Ayudan a quien lee a imaginar el lugar y el momento en que ocurre la historia, y pueden reforzar la atmósfera del relato. | OA N°14 — función de las descripciones de ambiente |
+| 19 | Debe incluir al menos dos detalles sensoriales concretos (algo que se vea, se escuche, se huela o se sienta), por ejemplo: "La lluvia caía suave sobre los toldos de la feria costumbrista, mientras el humo de las cocinerías se mezclaba con el olor a sopaipillas recién fritas. Se escuchaba el chisporroteo del aceite y las risas de la gente que se refugiaba bajo los paraguas." | OA N°14 — descripción del ambiente |
+| 20 | Debe ser un diálogo coherente de 3 a 4 líneas donde uno de los personajes revele información relevante para una posible trama, por ejemplo: "—Necesito contarte algo antes de que empiece el ensayo —dijo Valentina, nerviosa—. No voy a poder cantar el sábado. / —¿Por qué? —preguntó Rodrigo, sorprendido. / —Perdí la voz por un resfrío, y todavía no le he avisado a la profesora —respondió Valentina, mirando al suelo." | OA N°14 — diálogo que aporta a la trama |
+| 21 | El relato debe tener inicio, desarrollo y desenlace reconocibles; un conflicto evidente relacionado con una presentación artística que se resuelva a lo largo de la historia; al menos una descripción del ambiente con detalles concretos; y el uso de al menos tres conectores distintos que muestren orden temporal y un cambio inesperado (por ejemplo, "al principio", "después", "sin embargo", "finalmente"). | OA N°14 — escritura de una narración completa |
+| 22 | **b)** Cada párrafo debe organizarse en torno a una idea central, y los párrafos deben relacionarse entre sí mediante conectores. | OA N°15 — organización en párrafos |
+| 23 | La idea central del segundo párrafo son las principales causas de la disminución del picaflor de Arica (pérdida de hábitat, plaguicidas, competencia con otra especie de picaflor) y los programas de reforestación creados para protegerlo. | OA N°15 — idea central de un párrafo |
+| 24 | **b)** Usa sinónimos y expresiones variadas ("reduce", "disminuye", "contribuye a cuidar") en lugar de repetir siempre la misma palabra. | OA N°15 — vocabulario variado |
+| 25 | La oración inicial debe presentar claramente el tema de la alimentación saludable en el colegio; las dos ideas centrales deben ser distintas entre sí (por ejemplo, "los alimentos que ofrece el kiosco o casino escolar" y "los beneficios de una alimentación balanceada para el rendimiento en clases"), debe mencionarse el uso de al menos un conector, y deben mencionarse dos fuentes razonables (por ejemplo, páginas de instituciones oficiales de salud o entrevistas a un nutricionista). | OA N°15 — planificación de un artículo informativo y uso de fuentes |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 7 × 2 puntos = 14 puntos  
-- **Total preguntas desarrollo extenso:** 6 × 3 puntos = 18 puntos
-- **Puntaje total de la prueba: 44 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 3, 5, 6, 9, 11, 12, 14, 16, 18, 22, 24 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 7 | 2, 7, 10, 15, 19, 20, 23 |
-| Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 44 (100%) | 7,0 |
-| 40 (90%) | 6,3 |
-| 35 (80%) | 5,6 |
-| 31 (70%) | 4,9 |
-| 26 (60% — exigencia mínima) | **4,0** |
-| 22 (50%) | 3,5 |
-| 18 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 9 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

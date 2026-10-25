@@ -208,59 +208,32 @@ ________________________________________________________________________________
 
 ---
 
-## PAUTA DE CORRECCIÓN — Asignatura — 1° Básico — Forma B
+# PAUTA DE CORRECCIÓN — FORMA B
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
+|---|---|---|---|
+| 1 | Ciencias Naturales | **a) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
+| 2 | Matemática | **a) 16.** Al contar, el 16 viene después del 12, por lo tanto 16 es mayor que 12. | OA 4 — Comparar y ordenar números del 0 al 20 |
+| 3 | Lenguaje y Comunicación | **b) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
+| 4 | Historia, Geografía y Cs. Sociales | **b) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
+| 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
+| 6 | Lenguaje y Comunicación | **b) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
+| 7 | Historia, Geografía y Cs. Sociales | **b) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
+| 8 | Ciencias Naturales | Cualquier combinación correcta, por ejemplo: guanaco (norte), zorro chilla (centro), pudú (sur), cactus (norte), palma chilena (centro), araucaria (sur). | OA 5 — Animales y plantas de Chile |
+| 9 | Lenguaje y Comunicación | **b) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 10 | Matemática | **b) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
+| 11 | Ciencias Naturales | Menciona correctamente al menos 2 materiales de la mochila (género/suave, metal/duro, plástico/impermeable) con una propiedad de cada uno. | OA 8 — Los materiales y sus propiedades |
+| 12 | Historia, Geografía y Cs. Sociales | Respuesta correcta si describe el entorno real del estudiante usando al menos dos palabras geográficas correctas (camino, construcciones, vegetación, cordillera, mar, pueblo, ciudad, entre otras). | OA 10 — Paisajes de mi entorno |
+| 13 | Matemática | **8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
+| 14 | Lenguaje y Comunicación | **b) Mojar las manos con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Información explícita en instrucciones |
+| 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |
+| 16 | Historia, Geografía y Cs. Sociales | **b) Levantar la mano y esperar mi turno.** Es la norma que ayuda a que todos puedan hablar y ser escuchados en orden. | OA 14 — Normas de convivencia y autocuidado |
+| 17 | Matemática | **b) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
+| 18 | Ciencias Naturales | Día: ir a la escuela, jugar en el patio, andar en bicicleta. Noche: dormir, cenar con la familia, ver las estrellas (cualquier respuesta razonable). | OA 11 — El día y la noche |
+| 19 | Lenguaje y Comunicación | Cualquier frase corta y con sentido que responda la pregunta, por ejemplo "Me gusta jugar a la pelota" o "Me gusta saltar la cuerda", con las palabras separadas por espacio. | OA N°13 — Escribir una frase corta para responder |
+| 20 | Historia, Geografía y Cs. Sociales | Respuesta correcta si nombra una institución válida (escuela, municipalidad, hospital o posta, Carabineros) y explica de forma coherente qué labor cumple para la comunidad. | OA 15 — Instituciones de la comunidad |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 10 × 1 punto = 10 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 10 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 10 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **10** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 10 (100%) | 7,0 |
-| 9 (90%) | 6,3 |
-| 8 (80%) | 5,6 |
-| 7 (70%) | 4,9 |
-| 6 (60% — exigencia mínima) | **4,0** |
-| 5 (50%) | 3,5 |
-| 4 (40%) | 3,0 |
-| 3 (30%) | 2,5 |
-| 2 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje por asignatura
+### Distribución de puntaje por asignatura
 
 | Asignatura | N° de preguntas | Preguntas |
 |---|---|---|

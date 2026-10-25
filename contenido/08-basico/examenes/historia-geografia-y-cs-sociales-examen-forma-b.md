@@ -381,59 +381,39 @@ ciertos grupos de la población.
 
 ---
 
-## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 8° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
+|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
+| 1  | Alternativas | b) Martín Lutero | OA 2 | Historia | 1 |
+| 2  | Alternativas | b) El proceso a Galileo Galilei por defender el modelo heliocéntrico | OA 2 | Historia | 1 |
+| 3  | Alternativas | b) El desarrollo de una burocracia dependiente directamente del rey | OA 3 | Historia | 1 |
+| 4  | Desarrollo breve | La expansión territorial unificó regiones antes separadas bajo una misma administración (por ejemplo, la unión de las coronas de Castilla y Aragón), mientras que el monopolio del comercio internacional generó ingresos que el Estado usó para financiar su burocracia y su ejército, fortaleciendo así el poder centralizado del rey | OA 3 | Historia | 2 |
+| 5  | Alternativas | b) El proteccionismo estatal | OA 4 | Historia | 1 |
+| 6  | Alternativas | b) La restricción del comercio colonial a un único socio: la metrópoli | OA 4 | Historia | 1 |
+| 7  | Alternativas | b) Que los indígenas eran seres humanos racionales, con plenos derechos | OA 7 | Historia | 1 |
+| 8  | Desarrollo breve | El debate de Valladolid, al discutir públicamente la condición humana de los indígenas, influyó en la legislación española sobre su trato, como las Leyes Nuevas de 1542, que buscaron limitar abusos como la encomienda excesiva; esto muestra que el debate tuvo consecuencias políticas y legales concretas, aunque su aplicación efectiva en América fue limitada | OA 7 | Historia | 2 |
+| 9  | Alternativas | b) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización | OA 11 | Historia | 1 |
+| 10 | Alternativas | b) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos | OA 11 | Historia | 1 |
+| 11 | Alternativas | c) Los malones y las expediciones militares entre mapuches y españoles | OA 12 | Historia | 1 |
+| 12 | Desarrollo breve | En la mayoría de los territorios americanos los pueblos indígenas fueron sometidos militar y políticamente durante la Conquista; en cambio, la resistencia mapuche obligó a la Corona a reconocer, de facto y luego mediante parlamentos como el de Quilín, un territorio autónomo al sur del Biobío, algo poco común en el resto de la América española | OA 12 | Historia | 2 |
+| 13 | Alternativas | b) Jean-Jacques Rousseau | OA 14 | Historia | 1 |
+| 14 | Alternativas | a) La secularización | OA 14 | Historia | 1 |
+| 15 | Alternativas | b) Su acceso limitado a los cargos políticos más altos, reservados generalmente a los peninsulares | OA 16 | Historia | 1 |
+| 16 | Alternativas | b) José de San Martín | OA 16 | Historia | 1 |
+| 17 | Desarrollo extenso | Fue un proceso continental porque se desarrolló de forma más o menos simultánea en distintos territorios de América, entre 1808 y 1825, con causas comunes (crisis de la monarquía española, apropiación de ideas ilustradas, aspiraciones criollas). Elementos en común con el proceso chileno: la crisis de la monarquía española de 1808 y la apropiación de ideas ilustradas/republicanas. Particularidad chilena: la Reconquista española (1814-1817), un retroceso temporal antes de consolidarse la independencia en 1818, que no tuvo un equivalente exacto en el proceso liderado por Bolívar | OA 16 | Historia | 3 |
+| 18 | Alternativas | b) La región de la Patagonia, definida por su clima frío y su geografía particular | OA 20 | Geografía | 1 |
+| 19 | Desarrollo breve | Cada tipo de región se define con criterios distintos (físicos, culturales, económicos o administrativos), por lo que una misma zona puede pertenecer a la vez a distintos tipos de región con límites diferentes; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que cada región político-administrativa chilena tiene límites definidos solo dentro del territorio nacional | OA 20 | Geografía | 2 |
+| 20 | Alternativas | b) Escasez de mano de obra joven y mayor demanda de servicios orientados a la población adulta mayor | OA 21 | Geografía | 1 |
+| 21 | Alternativas | b) Puede dificultar seriamente el acceso oportuno a atención médica especializada | OA 21 | Geografía | 1 |
+| 22 | Alternativas | b) Que puede producir cierto bien de forma relativamente más eficiente que otras regiones, dadas sus condiciones naturales, humanas o tecnológicas | OA 22 | Geografía | 1 |
+| 23 | Desarrollo breve | Una fuerte inserción en los mercados internacionales implica que la región participa activamente, mediante sus exportaciones, en el comercio con otros países, lo que puede generar oportunidades económicas; sin embargo, si su economía depende de un solo producto, queda muy expuesta a la variación de la demanda o el precio internacional de ese bien, lo que representa un riesgo económico importante | OA 22 | Geografía | 2 |
+| 24 | Alternativas | b) En la nación | OA 18 | Formación Ciudadana | 1 |
+| 25 | Desarrollo extenso | El principio se relaciona con la idea ilustrada de soberanía popular (defendida por Rousseau), según la cual la autoridad y las leyes deben emanar de la voluntad del pueblo, y no de un rey. Limitación reconocible: pese a proclamar la igualdad ante la ley, la declaración de 1789 no otorgó en la práctica los mismos derechos políticos a las mujeres ni a otros grupos, lo que muestra que el reconocimiento formal de un derecho no siempre garantizó su aplicación real e igualitaria | OA 18 | Formación Ciudadana | 3 |
 
-### Resumen de puntaje
+**Puntaje total: 34 puntos**
 
-- **Total preguntas de alternativas:** 18 × 1 punto = 18 puntos
-- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
-- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
-- **Puntaje total de la prueba: 34 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 18 | 1, 2, 3, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 18, 20, 21, 22, 24 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 5 | 4, 8, 12, 19, 23 |
-| Desarrollo extenso | 2 | 17, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 34 (100%) | 7,0 |
-| 31 (90%) | 6,3 |
-| 27 (80%) | 5,6 |
-| 24 (70%) | 4,9 |
-| 20 (60% — exigencia mínima) | **4,0** |
-| 17 (50%) | 3,5 |
-| 14 (40%) | 3,0 |
-| 10 (30%) | 2,5 |
-| 7 (20%) | 2,0 |
-| 3 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
+### Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

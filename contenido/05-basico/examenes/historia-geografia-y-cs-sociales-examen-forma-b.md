@@ -369,59 +369,39 @@ equilibrio entre los derechos de las personas y sus deberes en una sociedad.
 
 ---
 
-## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 5° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
+|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
+| 1  | Alternativas      | d) Establecer un sistema democrático de elecciones | OA 2 | Historia | 1 |
+| 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
+| 3  | Alternativas      | b) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
+| 4  | Desarrollo breve  | La sociedad surgida no era ni completamente española ni completamente indígena, sino una mezcla; el mestizaje es el elemento central. También son válidas menciones a las nuevas ciudades fundadas o a los conflictos bélicos de esta nueva etapa | OA 2 | Historia | 2 |
+| 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
+| 6  | Alternativas      | b) Las enfermedades traídas por los europeos, como la viruela | OA 3 | Historia | 1 |
+| 7  | Desarrollo breve  | Europa vivió principalmente consecuencias de enriquecimiento (oro, nuevos alimentos, expansión de poder); América vivió consecuencias mucho más dolorosas (pérdida de población, de autonomía política y cultural), por ser el territorio conquistado | OA 3 | Historia | 2 |
+| 8  | Alternativas      | b) La educación, fundando escuelas y los primeros colegios | OA 6 | Historia | 1 |
+| 9  | Alternativas      | b) Sincretismo | OA 6 | Historia | 1 |
+| 10 | Desarrollo breve  | Al depender de la metrópoli, Chile no podía comerciar libremente con otros países ni tomar decisiones económicas propias, ya que el comercio debía orientarse principalmente hacia España, lo que restringía el crecimiento independiente de la colonia | OA 6 | Historia | 2 |
+| 11 | Alternativas      | b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de paz y comercio | OA 7 | Historia | 1 |
+| 12 | Alternativas      | b) La guerra defensiva | OA 7 | Historia | 1 |
+| 13 | Desarrollo extenso | El texto ilustra la **encomienda**, una forma de trabajo forzado. Otras dos formas válidas, con explicación breve: Guerra de Arauco (conflicto bélico prolongado), sistema de parlamentos (negociación de acuerdos como Quillín), vida fronteriza (convivencia e intercambio en torno al Biobío), evangelización (misiones, pueblos de indios) o mestizaje | OA 7 | Historia | 3 |
+| 14 | Alternativas      | c) Zona Austral | OA 9 | Geografía | 1 |
+| 15 | Alternativas      | b) Norte Chico | OA 9 | Geografía | 1 |
+| 16 | Alternativas      | c) Zona Austral – Zona Central – Norte Grande (orden invertido, es incorrecto) | OA 9 | Geografía | 1 |
+| 17 | Desarrollo breve  | La población se concentra en la Zona Central por su clima mediterráneo favorable y la disponibilidad de tierras agrícolas y actividad económica, en comparación con zonas más extremas como el desierto del Norte Grande o el frío de la Zona Austral | OA 9 | Geografía | 2 |
+| 18 | Alternativas      | c) El bosque nativo de la Zona Sur | OA 10 | Geografía | 1 |
+| 19 | Alternativas      | a) Cobre y hierro | OA 10 | Geografía | 1 |
+| 20 | Desarrollo breve  | Los recursos no renovables deben usarse con especial cuidado porque, una vez agotados, no vuelven a existir, mientras que los renovables pueden mantenerse en el tiempo si se gestionan de forma responsable, evitando la sobreexplotación | OA 10 | Geografía | 2 |
+| 21 | Alternativas      | c) Los pares, la comunidad y el Estado | OA 13 | Formación Ciudadana | 1 |
+| 22 | Alternativas      | b) Universales | OA 13 | Formación Ciudadana | 1 |
+| 23 | Desarrollo breve  | Si los derechos dependieran de esas características, se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección y oportunidades que otras solo por características que no eligieron ni pueden cambiar | OA 13 | Formación Ciudadana | 2 |
+| 24 | Alternativas      | a) El derecho a sufragio | OA 14 | Formación Ciudadana | 1 |
+| 25 | Desarrollo extenso | El estudiante ejerce su derecho a la libertad de expresión; el deber correspondiente es respetar la opinión y los derechos de los demás, sin ofender ni dañar a otras personas. El equilibrio entre derechos y deberes es importante porque, si las personas solo exigieran derechos sin cumplir deberes, la convivencia social se volvería desordenada e injusta, ya que ejercer un derecho no puede significar pasar a llevar los derechos de otra persona | OA 14 | Formación Ciudadana | 3 |
 
-### Resumen de puntaje
+**Puntaje total: 35 puntos**
 
-- **Total preguntas de alternativas:** 17 × 1 punto = 17 puntos
-- **Total preguntas desarrollo breve:** 6 × 2 puntos = 12 puntos  
-- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
-- **Puntaje total de la prueba: 35 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 17 | 1, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15, 16, 18, 19, 21, 22, 24 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 6 | 4, 7, 10, 17, 20, 23 |
-| Desarrollo extenso | 2 | 13, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 35 (100%) | 7,0 |
-| 32 (90%) | 6,3 |
-| 28 (80%) | 5,6 |
-| 24 (70%) | 4,9 |
-| 21 (60% — exigencia mínima) | **4,0** |
-| 18 (50%) | 3,5 |
-| 14 (40%) | 3,0 |
-| 10 (30%) | 2,5 |
-| 7 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
+### Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

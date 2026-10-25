@@ -148,59 +148,37 @@ d) Porque los videos cortos no tienen convenciones propias de género
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lengua y Literatura — 4° medio — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **a)** La crisis del salitre y el sistema de pulperías del norte de Chile a comienzos del siglo XX: el pago en fichas solo canjeables en la pulpería y la ausencia de otro trabajo cercano solo se explican en ese contexto histórico. | OA N°1 — contexto de producción |
+| 2 | **a)** Desde la mirada de un nieto o nieta que reconstruye la experiencia de su abuelo a partir del relato familiar: el narrador transmite una memoria heredada, no vivida directamente. | OA N°1 — perspectiva adoptada |
+| 3 | **b)** Ambos abordan la tensión entre la libertad de elegir un oficio y las condiciones impuestas por quien controla ese trabajo. | OA N°1 — comparación de tratamiento del tema |
+| 4 | **Falso.** Aunque Camila eligió el trabajo, el algoritmo y las calificaciones de los clientes controlan buena parte de sus condiciones ("la app decide casi todo lo demás"), por lo que su libertad es solo parcial, igual que en el Texto 1 la dependencia de la pulpería limitaba la del abuelo. | OA N°1 — perspectiva adoptada |
+| 5 | La ficha simboliza que el salario no es libre ni completo: solo puede gastarse dentro del mismo sistema que lo entrega, ilustrando una dependencia total del trabajador respecto de la empresa; si el trabajador hubiera recibido dinero canjeable en cualquier parte, esa dependencia se debilitaría. | OA N°1 — contexto de producción y recursos literarios |
+| 6 | En el Texto 1 el control es visible y humano —el dueño de la oficina salitrera y el sistema de pulpería ("no había otro trabajo en cien kilómetros a la redonda")—; en el Texto 2 el control es difuso y automatizado —el algoritmo y las calificaciones de clientes anónimos ("la app decide casi todo lo demás")—. | OA N°1 — comparación de tratamiento del tema (aplicación) |
+| 7 | La tercera persona cercana permite mostrar el contraste entre lo que Camila cree (tener control sobre su trabajo) y lo que en realidad ocurre (el control del algoritmo), generando cierta ironía; el Texto 1, en cambio, transmite la experiencia como memoria familiar heredada, con la autoridad emocional de un testimonio transmitido de generación en generación. | OA N°1 — perspectiva y su efecto |
+| 8 | La lectura es incompleta, porque iguala ambas situaciones ignorando diferencias relevantes: el Texto 1 trata un trabajo impuesto por la falta absoluta de alternativas, narrado como memoria heredada, con efecto estético de denuncia y duelo; el Texto 2 trata un trabajo elegido que esconde un control algorítmico menos visible, narrado con distancia irónica. Una comparación más precisa explica tanto lo compartido (la tensión entre libertad y control) como lo que distingue a cada época en contexto, perspectiva y tono. | OA N°1 — comparación integrada de contexto, perspectiva y efecto estético |
+| 9 | **b)** Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes: el propio texto declara y sostiene esa postura con un dato a lo largo del párrafo. | OA N°3 — intención explícita |
+| 10 | **b)** Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración: esta cifra se atribuye a una fuente identificable, lo que permite, en principio, contrastarla con otras fuentes. | OA N°3 — veracidad de la información |
+| 11 | **b)** Fuente neutral que expone en igual medida todas las posturas: el texto no presenta con el mismo peso los argumentos de los apoderados que se oponen a la medida. | OA N°3 — posicionamiento y rol del enunciador |
+| 12 | **Falso.** Esa frase presenta solo dos opciones posibles (apoyar la restricción o "priorizar la comodidad momentánea"), cerrando la discusión en vez de invitar a evaluar los argumentos contrarios. | OA N°3 — intención implícita |
+| 13 | El enunciador asume el rol de defensor del derecho colectivo del curso a aprender sin distracciones; esto se sostiene en que no presenta en igual medida los argumentos de los apoderados que se oponen, y en que el cierre interpela directamente a quien se opone, atribuyéndole una motivación (la comodidad) sin dejarla argumentar por sí misma. | OA N°3 — posicionamiento y rol del enunciador |
+| 14 | La columna se sostiene en una visión que prioriza el bien colectivo del aprendizaje en el aula por sobre la conveniencia individual de estar siempre disponible; reconocer esa ideología no invalida el argumento, porque puede sostenerse igual en evidencia verificable (el estudio citado) y en un razonamiento coherente. | OA N°3 — ideología, creencias y puntos de vista |
+| 15 | La intención explícita es la que el texto declara y argumenta abiertamente, como pedir que se valore la restricción del celular por su efecto en la concentración; la intención implícita es la que persigue sin decirla directamente, como desacreditar de antemano a quien se opone mediante el cierre que reduce el desacuerdo a "priorizar la comodidad". | OA N°3 — intenciones explícitas e implícitas |
+| 16 | Como argumentos con respaldo verificable: la cifra del estudio de la Universidad de Chile citado por el Mineduc y el hecho constatable de que existe una restricción vigente al uso del celular en el aula. Como recursos retóricos sin evidencia concreta: la expresión "cuarenta años de cambio tecnológico" sin cifra ni estudio específico, y el cierre que reduce la discusión a dos opciones, funcionando como simplificación persuasiva más que como argumento verificable. | OA N°3 — evaluación crítica integrada (intenciones, veracidad e ideología) |
+| 17 | **b)** La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y audiovisual. | OA N°5 — propósito, género y audiencia |
+| 18 | **b)** Porque en un guion de video corto dirigido a compañeros de curso, un ritmo breve y directo es una convención de género válida y esperada. | OA N°5 — adecuación al género y a la audiencia |
+| 19 | **Falso.** La oración "Las apps tienen algoritmo" generaliza sin conectarse explícitamente con la comparación entre ambos personajes o textos, interrumpiendo la progresión temática central. | OA N°5 — progresión temática |
+| 20 | **Falso.** Revisar un texto también sirve para mejorar su coherencia (que las ideas se organicen con sentido y mantengan el tema), su cohesión (que los conectores muestren bien las relaciones entre ideas) y su adecuación al género y a la audiencia, no solo la ortografía. | OA N°5 — proceso de escritura |
+| 21 | "Mientras que" contrasta el tratamiento del trabajo en cada texto dentro de una misma oración; "en cambio" contrasta el efecto estético resultante de cada uno; "por lo tanto" marca que la oración final es una conclusión que se desprende de la comparación anterior. | OA N°5 — cohesión (conectores) |
+| 22 | Cualquier reescritura que incorpore un conector adecuado y muestre la relación entre las ideas; por ejemplo: "Una historia ocurre en el norte, en tiempos del salitre, mientras que la otra sigue a Camila, que reparte pedidos en bicicleta." | OA N°5 — cohesión (aplicación) |
+| 23 | Ambas versiones comunican la misma comparación interpretativa central —que la libertad laboral ha cambiado de forma sin eliminar del todo el control externo sobre quien trabaja—, aunque con distinto registro, extensión y recursos; lo que cambia es la forma de comunicar la interpretación, no necesariamente su profundidad. | OA N°5 — adecuación al género y a la audiencia |
+| 24 | Debe presentar una planificación coherente entre sus cuatro elementos (por ejemplo: (a) evaluar si los argumentos de la columna están respaldados en evidencia, (b) comentario audiovisual breve para redes sociales, (c) otros estudiantes y sus familias, (d) lenguaje directo, evitando tecnicismos); y un párrafo propio que mantenga un mismo tema comparativo, agregue información nueva en cada oración y use al menos dos conectores adecuados. | OA N°5 — planificación y producción de texto propio (integrada) |
+| 25 | Cualquier reflexión razonada y fundamentada con un ejemplo concreto de esta prueba; por ejemplo, que comparar obras exige sostener dos análisis a la vez sin perder ninguno de vista, o que evaluar la ideología de un texto exige distinguir entre estar de acuerdo con un argumento y reconocer que está bien construido, como corresponde al cierre del ciclo escolar. | OA N°5 — producción de texto propio (integrada, cierre de ciclo) |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 9 × 2 puntos = 18 puntos  
-- **Total preguntas desarrollo extenso:** 4 × 3 puntos = 12 puntos
-- **Puntaje total de la prueba: 42 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 2, 3, 9, 10, 11, 17, 18 |
-| Verdadero o Falso (con justificación) | 4 | 4, 12, 19, 20 |
-| Desarrollo breve | 9 | 5, 6, 7, 13, 14, 15, 21, 22, 23 |
-| Desarrollo extenso | 4 | 8, 16, 24, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 42 (100%) | 7,0 |
-| 38 (90%) | 6,3 |
-| 34 (80%) | 5,6 |
-| 29 (70%) | 4,9 |
-| 25 (60% — exigencia mínima) | **4,0** |
-| 21 (50%) | 3,5 |
-| 17 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 8 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de preguntas por Objetivo de Aprendizaje
+### Distribución de preguntas por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

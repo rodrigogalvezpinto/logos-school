@@ -408,7 +408,7 @@ reino?
 a) Por la cantidad de tierras cultivadas
 b) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
 c) Por el número de universidades que poseía
-d) Por la cantidad de population que vivía en sus ciudades
+d) Por la cantidad de población que vivía en sus ciudades
 
 ✅ Respuesta correcta: **b) Por la cantidad de metales preciosos (oro y plata) que lograba
 acumular**

@@ -263,59 +263,37 @@ covalentes.
 
 ---
 
-## PAUTA DE CORRECCIÓN — Ciencias Naturales — 2° Medio — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Tipo | Clave / respuesta esperada | OA |
+|----|------|------------------------------|----|
+| 1 | Alternativas | c) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica | OA 1 |
+| 2 | Alternativas | c) La interneurona | OA 1 |
+| 3 | Desarrollo breve | El sueño es necesario para la consolidación de la memoria y la recuperación de las neuronas tras la actividad diaria; dormir pocas horas de forma sostenida interfiere con estos procesos, lo que puede afectar la atención, la memoria, el estado de ánimo y la capacidad de tomar decisiones, disminuyendo el desempeño cognitivo en un examen. | OA 1 |
+| 4 | Alternativas | c) Biológica | OA 3 |
+| 5 | Alternativas | b) Porque permite tomar decisiones informadas sobre la propia sexualidad | OA 3 |
+| 6 | Desarrollo extenso | El consentimiento asegura que ambas personas participan en la relación de forma libre e informada, respetando su autonomía; la comunicación permite acordar aspectos como el uso de métodos de protección y expresar límites personales, lo que reduce riesgos tanto físicos (embarazo no planificado, ITS) como emocionales dentro de la relación. | OA 3 |
+| 7 | Alternativas | b) La mitosis | OA 6 |
+| 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células que produce, mientras que la mitosis mantiene el número original | OA 6 |
+| 9 | Desarrollo breve | La meiosis produce gametos genéticamente distintos entre sí (a diferencia de la mitosis, que produce células idénticas), y al combinarse el material genético de dos progenitores distintos durante la fecundación, se genera una nueva combinación genética única en cada descendiente, lo que explica la variación genética entre generaciones. | OA 6 |
+| 10 | Alternativas | b) Un organismo al que se le ha insertado uno o más genes provenientes de otra especie | OA 8 |
+| 11 | Desarrollo breve | Ventajas: puede reducir el uso de pesticidas (menor impacto ambiental y menor costo para el agricultor) y aumentar el rendimiento del cultivo. Preocupaciones: puede generar dependencia de empresas que poseen las patentes de las semillas transgénicas, y existen interrogantes sobre los efectos a largo plazo de estos cultivos sobre la biodiversidad y los ecosistemas locales. | OA 8 |
+| 12 | Alternativas | b) La velocidad | OA 9 |
+| 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo | OA 9 |
+| 14 | Desarrollo extenso | Aceleración = (velocidad final − velocidad inicial) / tiempo = (15 m/s − 0 m/s) / 5 s = 3 m/s². Esto significa que la velocidad del ciclista aumenta en 3 m/s durante cada segundo transcurrido. | OA 9 |
+| 15 | Alternativas | c) Tercera ley (acción y reacción) | OA 10 |
+| 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí | OA 10 |
+| 17 | Desarrollo extenso | Fuerza neta = 25 N − 5 N = 20 N (en el sentido de la fuerza aplicada). Aceleración = fuerza neta / masa = 20 N / 10 kg = 2 m/s². | OA 10 |
+| 18 | Alternativas | c) Claudio Ptolomeo | OA 13 |
+| 19 | Desarrollo breve | El conocimiento científico no es estático: los modelos se proponen a partir de la evidencia disponible en un momento dado, y cambian o se reemplazan cuando surge nueva evidencia que los contradice, o cuando un nuevo modelo explica las mismas observaciones de forma más simple y precisa, como ocurrió cuando el modelo heliocéntrico, apoyado por las observaciones de Galileo y la física de Newton, reemplazó al modelo geocéntrico. | OA 13 |
+| 20 | Alternativas | b) El azúcar, porque está en menor cantidad y es la que se disuelve | OA 15 |
+| 21 | Alternativas | c) Solución sólida (aleación) | OA 15 |
+| 22 | Desarrollo breve | Concentración %m/m = (18 g de soluto ÷ 300 g de solución) × 100 = 6% m/m. | OA 15 |
+| 23 | Alternativas | b) Al menos un enlace doble | OA 17 |
+| 24 | Alternativas | b) Alqueno | OA 17 |
+| 25 | Desarrollo extenso | El carbono puede formar hasta cuatro enlaces covalentes estables, incluyendo enlaces consigo mismo, lo que le permite construir cadenas largas, ramificadas y cíclicas de gran diversidad estructural; esta versatilidad es la que permite formar las moléculas grandes y complejas necesarias para la vida, como los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos, algo que ningún otro elemento de la tabla periódica logra con la misma capacidad. | OA 17 |
 
 ### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 7 × 1 punto = 7 puntos
-- **Total preguntas desarrollo breve:** 4 × 2 puntos = 8 puntos  
-- **Total preguntas desarrollo extenso:** 1 × 3 puntos = 3 puntos
-- **Puntaje total de la prueba: 18 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 7 | 1, 3, 4, 7, 8, 11, 12 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 4 | 2, 5, 6, 10 |
-| Desarrollo extenso | 1 | 9 |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 18 (100%) | 7,0 |
-| 16 (90%) | 6,3 |
-| 14 (80%) | 5,6 |
-| 13 (70%) | 4,9 |
-| 11 (60% — exigencia mínima) | **4,0** |
-| 9 (50%) | 3,5 |
-| 7 (40%) | 3,0 |
-| 5 (30%) | 2,5 |
-| 4 (20%) | 2,0 |
-| 2 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **16 preguntas de alternativas** × 1 punto = 16 puntos
 - **5 preguntas de desarrollo breve** (N° 3, 9, 11, 19, 22) × 2 puntos = 10 puntos

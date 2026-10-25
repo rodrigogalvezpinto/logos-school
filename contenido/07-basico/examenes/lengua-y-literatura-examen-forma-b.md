@@ -198,59 +198,37 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lengua y Literatura — 7° básico — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **b)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
+| 2 | **b)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
+| 3 | **Falso.** El relato comienza en el presente (Camila adulta en el altillo), salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; no comienza con la pelea ni avanza en orden estrictamente cronológico. | OA N°3 — disposición temporal |
+| 4 | Voz del narrador, por ejemplo: "Camila dobló la carta despacio, sintió que los ojos se le llenaban de lágrimas"; voz de un personaje, por ejemplo: "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella". Se distinguen porque el narrador describe desde fuera, sin raya de diálogo, mientras que los personajes hablan en primera persona, tras una raya o entre comillas. | OA N°3 — narrador versus personajes |
+| 5 | Debe explicar que el flashback genera intriga al mostrar primero las consecuencias del conflicto (el violín agrietado, la distancia entre los hermanos) antes de revelar su causa, reforzando el impacto emocional; y mencionar otra obra donde dos personajes se distancien por un malentendido y logren o no reconciliarse, con una semejanza explicada. | OA N°3 — análisis integrado del tiempo narrativo y relación entre obras |
+| 6 | **b)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
+| 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
+| 8 | Debe explicar que la metáfora sugiere que el mar acumula, simbólicamente, el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella conservada en sus olas. | OA N°4 — interpretación de lenguaje figurado |
+| 9 | Debe identificar la aliteración del sonido "z" (zumba, zigzagueante) y explicar que imita el sonido del viento moviéndose entre las velas; y comparar el poema con otra obra que describa un paisaje costero o marino chileno, señalando un elemento en común (por ejemplo, personificación del mar o del viento). | OA N°4 — ritmo, sonoridad y relación entre obras |
+| 10 | **b)** Decidir si corre a un lugar seguro de inmediato o vuelve al local en riesgo para salvar los documentos que aseguran la subsistencia de su familia. | OA N°7 — identificación del dilema |
+| 11 | **c)** El terremoto y maremoto de Valdivia de 1960. | OA N°7 — contexto histórico |
+| 12 | Cualquier postura razonada y fundamentada, a favor o en contra de la decisión de Rosa, apoyada en argumentos relacionados con el texto. | OA N°7 — postura personal frente a un dilema |
+| 13 | Debe integrar el dilema de Rosa, una postura personal fundamentada frente a él, una relación explícita con el contexto histórico real del terremoto de 1960, y una explicación de la visión de mundo (solidaridad, resiliencia y preocupación por el sustento de la comunidad frente a la catástrofe) que transmite el relato. | OA N°7 — interpretación integrada |
+| 14 | **b)** El problema de los perros callejeros se resuelve mejor si los propios vecinos se organizan para esterilizar, vacunar y dar en adopción, además de la labor municipal. | OA N°8 — postura del autor |
+| 15 | **Verdadero.** Es un hecho, porque se apoya en una fuente de datos concreta (el Servicio Nacional de Salud Animal), a diferencia de una valoración personal del autor. | OA N°8 — hecho versus opinión |
+| 16 | Por ejemplo, el argumento de que muchas juntas de vecinos se quejan pero no organizan campañas de esterilización o alimentación controlada; se relaciona con la idea principal porque muestra por qué el problema empeora, apoyando la postura de que se necesita organización vecinal y no solo acción municipal. | OA N°8 — argumentos que sostienen una postura |
+| 17 | Debe dar una postura personal razonada con al menos un argumento propio, y explicar que distinguir hechos de opiniones permite evaluar si la postura del autor está bien fundamentada, ayudando a formarse un juicio crítico propio. | OA N°8 — postura personal y evaluación crítica |
+| 18 | **b)** Cuestionar la capacidad de las personas jóvenes para ejercer cargos de responsabilidad, basándose en un prejuicio etario. | OA N°9 — propósito implícito |
+| 19 | **360 visitas más** (780 − 420 = 360). | OA N°9 — interpretación de un gráfico (texto discontinuo) |
+| 20 | Debe identificar el prejuicio etario de que una persona joven "no tiene la madurez" para un cargo, sin evidencia relacionada con la trayectoria real de Constanza Millapán, y explicar que un prejuicio generaliza sobre un grupo (las personas jóvenes) sin considerar la evidencia del caso particular. | OA N°9 — estereotipos y prejuicios |
+| 21 | Debe explicar que el Texto A busca informar con un tono cercano y favorable sobre la nueva directora, mientras que el Texto B busca expresar una opinión crítica basada en un prejuicio etario; y explicar que identificar estereotipos y prejuicios permite no dejarse influir por juicios injustos hacia una persona, distinguiendo críticas basadas en hechos de descalificaciones basadas en generalizaciones. | OA N°9 — comparación de propósitos y pensamiento crítico |
+| 22 | **b)** Unir ideas y secciones del texto de manera clara, aportando coherencia y cohesión. | OA N°15 — función de los conectores |
+| 23 | "**Los** niño**s les** devolvió**vieron** a las profesor**as** el libro que había**n** **escrito**, porque las hoja**s** estaban **rotas**." (o variante equivalente que corrija concordancia plural, pronombre plural y participio irregular). | OA N°15 — concordancia, pronombres y participios irregulares |
+| 24 | Debe explicar que planificar permite organizar las ideas centrales y el orden en que se presentarán antes de escribir, evitando que el texto resulte desordenado o incoherente, y facilitando el uso adecuado de conectores entre las ideas. | OA N°15 — planificación de la escritura |
+| 25 | Debe presentar una planificación con dos ideas centrales distintas y un conector; y un párrafo con registro formal adecuado (fórmulas de cortesía, vocabulario formal), al menos un conector, y sin errores de concordancia entre sustantivos, artículos y verbos. | OA N°15 — planificación, registro y corrección gramatical |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 11 × 1 punto = 11 puntos
-- **Total preguntas desarrollo breve:** 7 × 2 puntos = 14 puntos  
-- **Total preguntas desarrollo extenso:** 6 × 3 puntos = 18 puntos
-- **Puntaje total de la prueba: 43 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 11 | 1, 2, 6, 7, 10, 11, 14, 18, 22 |
-| Verdadero o Falso (con justificación) | 2 | 3, 15 |
-| Desarrollo breve | 7 | 4, 8, 12, 16, 19, 20, 24 |
-| Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
-| **Total** | **24** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 43 (100%) | 7,0 |
-| 39 (90%) | 6,3 |
-| 34 (80%) | 5,6 |
-| 30 (70%) | 4,9 |
-| 26 (60% — exigencia mínima) | **4,0** |
-| 22 (50%) | 3,5 |
-| 17 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 9 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

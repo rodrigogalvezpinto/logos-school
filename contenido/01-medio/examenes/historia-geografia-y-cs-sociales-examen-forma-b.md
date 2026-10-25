@@ -399,59 +399,39 @@ debate sobre desarrollo sostenible que busque responder a este tipo de problema.
 
 ---
 
-## PAUTA DE CORRECCIÓN — Historia, Geografía y Ciencias Sociales — 1° Medio — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
+|----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
+| 1  | Alternativas | a) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
+| 2  | Alternativas | a) La libre asociación | OA 1 | Historia | 1 |
+| 3  | Alternativas | b) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
+| 4  | Alternativas | b) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
+| 5  | Alternativas | b) Los pelucones y estanqueros | OA 8 | Historia | 1 |
+| 6  | Desarrollo breve | Tras la independencia, Chile debió construir un nuevo orden político desde cero, lo que llevó a la sucesión de distintas constituciones y gobiernos de corta duración, en medio del enfrentamiento entre grupos con visiones muy distintas —pipiolos (liberal-federalista) y pelucones/estanqueros (conservador)— sobre cómo organizar el país; ese conflicto solo se resolvió, al menos temporalmente, tras la batalla de Lircay (1830) y la posterior redacción de la Constitución de 1833 | OA 8 | Historia | 2 |
+| 7  | Alternativas | b) California y Australia | OA 10 | Historia | 1 |
+| 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje | OA 10 | Historia | 1 |
+| 9  | Alternativas | b) Temuco | OA 14 | Historia | 1 |
+| 10 | Desarrollo breve | La ocupación significó la pérdida de la mayor parte del territorio ancestral mapuche, el empobrecimiento de sus comunidades, la pérdida de autonomía política y cambios forzados en su forma de vida y organización económica; estas transformaciones estructurales explican en buena medida demandas territoriales que continúan hasta el presente, por lo que sus efectos no se limitaron al siglo XIX sino que se proyectan hasta hoy | OA 14 | Historia | 2 |
+| 11 | Alternativas | b) A la pérdida del acceso soberano al mar por parte de Bolivia | OA 15 | Historia | 1 |
+| 12 | Alternativas | a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano | OA 15 | Historia | 1 |
+| 13 | Alternativas | b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad | OA 18 | Historia | 1 |
+| 14 | Alternativas | b) La matanza de la Escuela Santa María de Iquique | OA 18 | Historia | 1 |
+| 15 | Desarrollo extenso | Formas de lucha obrera válidas: las huelgas (como la descrita en el estímulo) y la organización de mutuales de socorro y sindicatos. Relación con el cambio de siglo: junto a los partidos tradicionales (conservador, liberal) surgieron o se fortalecieron partidos que incorporaban ideas como el socialismo para representar las demandas populares, mientras crecía el protagonismo de los sectores medios (profesionales, empleados, pequeños comerciantes), que comenzaron a exigir mayor participación política en un escenario antes dominado por la élite terrateniente | OA 18 | Historia | 3 |
+| 16 | Alternativas | b) Documentar la geografía, flora, fauna y geología del territorio nacional | OA 12 | Geografía | 1 |
+| 17 | Desarrollo breve | Reunir información mediante censos o misiones científicas no bastaba por sí solo: se necesitaba un aparato burocrático —funcionarios y oficinas— capaz de procesar esa información y aplicar políticas concretas de administración; las redes de transporte y comunicación, por su parte, integraban física y administrativamente distintas zonas del territorio, permitiendo que la presencia y las decisiones del Estado llegaran a lugares antes aislados, complementando así el conocimiento científico con una administración efectiva | OA 12 | Geografía | 2 |
+| 18 | Alternativas | b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo | OA 20 | Formación Ciudadana | 1 |
+| 19 | Alternativas | c) La inflación | OA 20 | Formación Ciudadana | 1 |
+| 20 | Alternativas | c) El socialcristianismo | OA 23 | Formación Ciudadana | 1 |
+| 21 | Desarrollo breve | El liberalismo aceptaba de forma gradual y limitada cierta intervención estatal en materia laboral y social, pero sin cuestionar la economía de mercado ni la propiedad privada como base del sistema; el socialismo, en cambio, proponía que el Estado o la sociedad en su conjunto controlaran los principales medios de producción, con el objetivo de lograr una distribución más igualitaria de la riqueza y organizando a los trabajadores en función de ese cambio | OA 23 | Formación Ciudadana | 2 |
+| 22 | Alternativas | a) Rapa Nui | OA 24 | Formación Ciudadana | 1 |
+| 23 | Desarrollo breve | Ejemplo de conflicto: la anexión de Isla de Pascua al Estado chileno en 1888, que trajo consigo décadas de restricciones a la libertad de movimiento y a la propiedad de la tierra para el pueblo Rapa Nui. Ejemplo de convivencia: los avances legales actuales de reconocimiento y protección de los pueblos indígenas, o el intercambio cultural y comercial. Estos ejemplos muestran que la relación entre los pueblos indígenas y el Estado de Chile no ha sido uniforme: distintos pueblos y períodos combinan episodios de conflicto y de convivencia o negociación | OA 24 | Formación Ciudadana | 2 |
+| 24 | Alternativas | b) La lluvia ácida generada por la contaminación atmosférica industrial | OA 25 | Formación Ciudadana | 1 |
+| 25 | Desarrollo extenso | La industrialización de los siglos XIX y XX generó, junto con el calentamiento global, otros impactos ambientales de largo plazo: los residuos industriales y mineros, muchas veces vertidos sin tratamiento, contaminaron de forma acumulativa ríos, suelos y zonas costeras, un daño que en muchos casos persiste hasta hoy en las cercanías de antiguos centros industriales y mineros. Medida válida: regulaciones ambientales más estrictas para el tratamiento de residuos industriales, remediación de suelos y cuerpos de agua contaminados, u otra política orientada al desarrollo sostenible que equilibre crecimiento económico, equidad social y cuidado ambiental | OA 25 | Formación Ciudadana | 3 |
 
-### Resumen de puntaje
+**Puntaje total: 34 puntos**
 
-- **Total preguntas de alternativas:** 18 × 1 punto = 18 puntos
-- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
-- **Total preguntas desarrollo extenso:** 2 × 3 puntos = 6 puntos
-- **Puntaje total de la prueba: 34 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 18 | 1, 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 14, 16, 18, 19, 20, 22, 24 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 5 | 6, 10, 17, 21, 23 |
-| Desarrollo extenso | 2 | 15, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 34 (100%) | 7,0 |
-| 31 (90%) | 6,3 |
-| 27 (80%) | 5,6 |
-| 24 (70%) | 4,9 |
-| 20 (60% — exigencia mínima) | **4,0** |
-| 17 (50%) | 3,5 |
-| 14 (40%) | 3,0 |
-| 10 (30%) | 2,5 |
-| 7 (20%) | 2,0 |
-| 3 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución por eje y OA
+### Distribución por eje y OA
 
 | Eje | OA | N° de preguntas | Puntaje |
 |-----|----|-----------------|---------|

@@ -187,59 +187,37 @@ apples?*
 
 ---
 
-## PAUTA DE CORRECCIÓN — Idioma Extranjero - Inglés — 6° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / Respuesta esperada | OA |
+|---|---|---|
+| 1 | b) Swim | OA5 |
+| 2 | c) Between the museum and the bank | OA5 |
+| 3 | can / can't | OA5 |
+| 4 | She had lunch at school. | OA5 |
+| 5 | o'clock | OA5 |
+| 6 | b) A recipe | OA6 |
+| 7 | b) She is sick | OA6 |
+| 8 | have | OA6 |
+| 9 | It is $3.000. / The chicken with rice is $3.000. | OA6 |
+| 10 | True (Verdadero) — el texto ofrece productos y horario de un lugar, es un aviso publicitario. | OA6 |
+| 11 | b) I think the zoo is interesting. | OA8 |
+| 12 | b) He thinks it is exciting. | OA8 |
+| 13 | think | OA8 |
+| 14 | Respuesta personal breve, p. ej.: *Yes, I would like to be a pilot because I like to travel. / No, I wouldn't, because I am afraid of flying.* | OA8 |
+| 15 | Respuesta personal breve, p. ej.: *Yes, I am like Diego, I think the desert is boring too. / No, I am different from Diego, I like the desert because it is quiet.* | OA8 |
+| 16 | c) at | OA14 |
+| 17 | b) Once upon a time | OA14 |
+| 18 | call | OA14 |
+| 19 | Respuesta personal coherente, p. ej.: *sunny / beach*. | OA14 |
+| 20 | Respuesta personal, p. ej.: *"Hi Camila, I would like to invite you to my birthday party on Saturday. See you soon, Martina."* | OA14 |
+| 21 | c) are playing | OA15 |
+| 22 | b) geese | OA15 |
+| 23 | but | OA15 |
+| 24 | eighteen | OA15 |
+| 25 | Respuesta personal con sujeto y pasado, p. ej.: *My sister ate the apples.* | OA15 |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 11 × 1 punto = 11 puntos
-- **Total preguntas desarrollo breve:** 1 × 2 puntos = 2 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 13 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 11 | 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 1 | 8 |
-| Desarrollo extenso | 0 | — |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 13 (100%) | 7,0 |
-| 12 (90%) | 6,3 |
-| 10 (80%) | 5,6 |
-| 9 (70%) | 4,9 |
-| 8 (60% — exigencia mínima) | **4,0** |
-| 6 (50%) | 3,5 |
-| 5 (40%) | 3,0 |
-| 4 (30%) | 2,5 |
-| 3 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje por OA
+### Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|

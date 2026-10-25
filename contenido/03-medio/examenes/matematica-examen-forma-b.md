@@ -197,59 +197,37 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 
 ---
 
-## PAUTA DE CORRECCIÓN — Matemática — 3° Medio — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / Respuesta esperada | OA | Eje |
+|---|---|---|---|
+| 1 | a) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
+| 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
+| 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero | OA 3 | Álgebra y Funciones |
+| 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
+| 5 | ambos parten del mismo valor inicial (200), pero **f crece más rápido**, porque su factor 1,12 (12% por período) es mayor que el de g, 1,04 (4% por período) | OA 3 | Álgebra y Funciones |
+| 6 | Razones: 96/80=1,20; 115/96≈1,198; 138/115≈1,20. Como la razón es aprox. constante, **sí es crecimiento exponencial**, con b≈1,2 (**20% de crecimiento por período**) | OA 3 | Álgebra y Funciones |
+| 7 | (0,75)⁴ = 0,31640625. C(4) = 180×0,3164 ≈ **56,95 ≈ 57 mg**. Eliminado: 180−57=123 mg → 123/180 ≈ **68,3%** | OA 3 | Álgebra y Funciones |
+| 8 | (0,88)ᵗ=0,5 → t = log(0,5)/log(0,88) ≈ (−0,3010)/(−0,0555) ≈ **5,4 años** | OA 3 | Álgebra y Funciones |
+| 9 | a) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
+| 10 | a) 70° (35°×2) | OA 4 | Geometría |
+| 11 | a) 48° (96°÷2) | OA 4 | Geometría |
+| 12 | a) 60° (360°÷6) | OA 4 | Geometría |
+| 13 | ½(100°+40°) = 140°÷2 = **70°** | OA 4 | Geometría |
+| 14 | 5×8 = 4×x → 40 = 4x → x = **10 cm** | OA 4 | Geometría |
+| 15 | ½(150°−50°) = 100°÷2 = **50°** | OA 4 | Geometría |
+| 16 | 12² = 8×x → 144 = 8x → x = **18 cm** | OA 4 | Geometría |
+| 17 | (tangente)² = externa×completa = 6×15 = 90 → tangente = √90 ≈ **9,49 millas náuticas** | OA 4 | Geometría |
+| 18 | a) 11 (20−9=11) | OA 2 | Probabilidad y Estadística |
+| 19 | a) 2,67 (media=4; desviaciones al cuadrado 4,0,4; suma=8; varianza=8/3≈2,67) | OA 2 | Probabilidad y Estadística |
+| 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado | OA 2 | Probabilidad y Estadística |
+| 21 | media=13; desviaciones (−3,−1,1,3), al cuadrado (9,1,1,9), suma=20; varianza=20/4=**5**; desviación estándar=√5≈**2,24 minutos** | OA 2 | Probabilidad y Estadística |
+| 22 | la **Ruta 1**, porque su menor desviación estándar (5 min) indica tiempos de viaje más predecibles y consistentes que la Ruta 2 (20 min), reduciendo el riesgo de una demora inesperada, aunque ambas rutas compartan el mismo promedio | OA 2 | Probabilidad y Estadística |
+| 23 | P(1ª roja)=5/8; P(2ª roja\|1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈ 35,7%** | OA 2 | Probabilidad y Estadística |
+| 24 | dentro de la columna "no fuma" (115 personas), 70 practican deporte: P = 70/115 ≈ **0,609 (60,9%)** | OA 2 | Probabilidad y Estadística |
+| 25 | se usa la **regla de la probabilidad total**: P(tarde) = P(lluvia)×P(tarde\|lluvia) + P(no lluvia)×P(tarde\|no lluvia) = 0,20×0,30 + 0,80×0,08 = 0,06+0,064 = **0,124 (12,4%)** | OA 2 | Probabilidad y Estadística |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 13 × 1 punto = 13 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 13 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 13 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **13** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 13 (100%) | 7,0 |
-| 12 (90%) | 6,3 |
-| 10 (80%) | 5,6 |
-| 9 (70%) | 4,9 |
-| 8 (60% — exigencia mínima) | **4,0** |
-| 6 (50%) | 3,5 |
-| 5 (40%) | 3,0 |
-| 4 (30%) | 2,5 |
-| 3 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
+### Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubierto |
 |---|---|---|

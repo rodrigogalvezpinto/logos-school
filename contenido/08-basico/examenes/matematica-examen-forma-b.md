@@ -191,59 +191,37 @@ d) Ninguno de los anteriores
 
 ---
 
-## PAUTA DE CORRECCIÓN — Matemática — 8° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / Respuesta esperada | OA | Eje |
+|---|---|---|---|
+| 1 | a) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
+| 2 | 4 × (−8.500) = **−$34.000** | OA 1 | Números y Operaciones |
+| 3 | a) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
+| 4 | −9,6 ÷ 1,6 = **−6 metros por minuto** | OA 2 | Números y Operaciones |
+| 5 | a) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
+| 6 | 10⁴ = **10.000 claves distintas** | OA 3 | Números y Operaciones |
+| 7 | a) 13 (13×13=169) | OA 4 | Números y Operaciones |
+| 8 | 10²=100 y 11²=121; 110 está entre 100 y 121, aproximadamente a mitad de camino, algo **más cerca de 10** (valor real ≈10,49) | OA 4 | Números y Operaciones |
+| 9 | área: 32×2=64 m²; lado: √64=**8 m**; perímetro: 4×8=**32 m** | OA 4 | Números y Operaciones |
+| 10 | a) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
+| 11 | 6x=61−7=54; x=**9** | OA 8 | Patrones y Álgebra |
+| 12 | 10.000+400x=4.000+700x; 6.000=300x; x=**20 gigas** | OA 8 | Patrones y Álgebra |
+| 13 | a) −4 (f(5)=−3×5+11=−15+11=−4) | OA 10 | Patrones y Álgebra |
+| 14 | a) pendiente 4, corta en (0, −7) | OA 10 | Patrones y Álgebra |
+| 15 | S(x)=4.500x+120.000; S(7)=31.500+120.000=**$151.500** | OA 10 | Patrones y Álgebra |
+| 16 | a) 17 cm (c²=8²+15²=64+225=289; c=√289=17) | OA 12 | Geometría |
+| 17 | b²=15²−9²=225−81=144; b=√144=**12 metros** | OA 12 | Geometría |
+| 18 | 26²=676; 10²+24²=100+576=676; como coinciden, **sí es un triángulo rectángulo** | OA 12 | Geometría |
+| 19 | a) (−2, −2) (3+(−5), −4+2 = −2, −2) | OA 13 | Geometría |
+| 20 | S' = **(−6, −2)**; la coordenada y cambió de signo, la x se mantuvo igual | OA 13 | Geometría |
+| 21 | b) Su resultado es igual o mejor que aproximadamente el 80% de los estudiantes | OA 15 | Datos y Probabilidades |
+| 22 | primera mitad (18,22,26,30): Q1=(22+26)/2=**24**; segunda mitad (34,38,42,50): Q3=(38+42)/2=**40** | OA 15 | Datos y Probabilidades |
+| 23 | el **Grupo C** tiene un rendimiento típico mejor (mediana menor), pero muestra mayor dispersión/un caso más lento que el Grupo D (bigote superior más alto: 30 min vs 24 min); el Grupo D es más lento en su mediana pero más homogéneo | OA 15 | Datos y Probabilidades |
+| 24 | b) Gráfico circular | OA 16 | Datos y Probabilidades |
+| 25 | la diferencia real (6 unidades, cerca de un 3% de aumento) se ve visualmente **mucho mayor** por el truncamiento del eje (200 a 210); se corrige haciendo que el eje vertical **comience en 0** | OA 16 | Datos y Probabilidades |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 12 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 12 (100%) | 7,0 |
-| 11 (90%) | 6,3 |
-| 10 (80%) | 5,6 |
-| 8 (70%) | 4,9 |
-| 7 (60% — exigencia mínima) | **4,0** |
-| 6 (50%) | 3,5 |
-| 5 (40%) | 3,0 |
-| 4 (30%) | 2,5 |
-| 2 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
+### Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

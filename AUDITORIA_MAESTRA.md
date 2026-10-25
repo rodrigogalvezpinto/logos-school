@@ -6,7 +6,60 @@
 3. `auditoria.md` — Auditoría ítem por ítem (exámenes, pruebas, guías) — rama `qa/fase-2-matriz-trazabilidad`, HEAD `0106976`
 4. Auditoría pedagógica experta aplicada en esta sesión (skills `profesor-experto-chile.md` + `auditoria-contenido-educativo.md`)
 
-**Estado global:** 🔴 **EN CURSO — NO CERTIFICADA AL 100%** — P1 abiertos bloquean publicación
+**Estado global:** 🟡 **CONTENIDO CORREGIDO — PENDIENTE 1 ÍTEM P3 (sesgo de claves)** — ver §0 Bitácora
+
+---
+
+## 0. BITÁCORA DE REPARACIÓN (25 de octubre de 2026)
+
+### 0.1 Incidente: pautas destruidas por el validador
+
+`backend/scripts/validador_formato_pauta.py` tenía un modo `--fix` que reconstruía la
+tabla de pauta a partir de una plantilla. La plantilla emitía el texto
+`[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]` en lugar de las filas
+reales, de modo que **cada archivo procesado perdía su clave de corrección**.
+
+Alcance: **48 exámenes**.
+
+| Commit | Exámenes afectados |
+|---|---|
+| `edab5ca` | 31 (exámenes por asignatura de 5° básico a 4° medio, Forma B) |
+| `5421485` | 17 (exámenes integrados de 1° a 4° básico y Lengua/Lenguaje de 1° medio a 7° básico) |
+
+**Reparación aplicada:** se restauraron las tablas reales desde `5f9e213` (último
+commit con pautas íntegras) y se re-aplicaron, una por una, las correcciones de
+contenido documentadas en §3 (P1 y P2). Verificado: **0 marcadores de plantilla** y
+**0 exámenes sin fila de pauta para sus preguntas**.
+
+**Medida preventiva:** `validador_formato_pauta.py` fue reescrito como validador de
+**solo lectura**. No escribe archivos y ya no existe modo `--fix`. La pauta es
+contenido editorial: se edita a mano.
+
+### 0.2 Incidente: "rebalanceo" de claves incorrecto
+
+El intento anterior de bajar la concentración de una letra reescribió **33 claves**
+cambiando sólo la letra de la pauta (`b→a`, `c→b`), **sin reordenar las opciones**
+del examen. Eso convirtió respuestas correctas en incorrectas. Ejemplo: 1° básico
+Forma A, pregunta 2 ("pe-lo-ta" = 3 sílabas) tiene la respuesta en **b)**, pero la
+pauta quedó en **a)**.
+
+**Reparación aplicada:** las 33 claves se revirtieron a su valor original verificado.
+Se conservó la única corrección de clave legítima (LGS-4B-EVAL-001, p.16: `c → b`).
+
+**Regla adoptada:** la distribución de claves **no se corrige cambiando la clave**.
+Se corrige reordenando las alternativas del enunciado y actualizando la clave en
+consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un error.
+
+### 0.3 Estado verificado tras la reparación
+
+| Comprobación | Resultado |
+|---|---|
+| Marcadores de plantilla en `contenido/` | 0 |
+| Exámenes analizados por `validador_formato_pauta.py` | 50 |
+| Exámenes con problemas estructurales de pauta | **0** |
+| Exámenes con anglicismos | **0** |
+| Diferencia entre `contenido/` actual y `5f9e213` | sólo las correcciones auditadas de §3 |
+| Exámenes con una clave > 45 % | **9** (P3 abierto — requiere reordenar opciones) |
 
 ---
 
@@ -71,12 +124,45 @@
 
 | Patrón | Hallazgos asociados | Severidad acumulada | Acción recomendada |
 |--------|---------------------|---------------------|-------------------|
-| **Desbalance claves alternativas** | LGS-GEN-KEY-001, LGS-GEN-KEY-002, LGS-6B-MAT-003, LGS-5B-LEM-001, LGS-8B-HIS-001 (b×16/18), 1M-Leng (b×11/11), 2M-Ing (b×8/8), 3M-Leng (b×7/7), 4M-Cien (b×7/7) | **P2 en casos extremos** (5B-LEM b×11/12) | Rebalanceo autorizado + regla CI: `max_freq(letra) ≤ 45%` |
+| **Desbalance claves alternativas** | LGS-GEN-KEY-001, LGS-GEN-KEY-002, LGS-6B-MAT-003, LGS-5B-LEM-001, LGS-8B-HIS-001 (b×16/18), 1M-Leng (b×11/11), 2M-Ing (b×8/8), 3M-Leng (b×7/7), 4M-Cien (b×7/7) | **P2 en casos extremos** (5B-LEM b×11/12) | **Abierto — ver §3.4.** Se corrige reordenando las alternativas, nunca cambiando la letra de la clave |
 | **Anglicismos en texto español** | LGS-8B-HIS-001 ("population"), LGS-1M-LEN-001 ("information"), LGS-1M-CNT-010 ("dimensions"), LGS-2M-LEN-002 ("welcome") | P3 | Búsqueda global automatizada pre-deploy (`grep -rE '\b(population|information|dimensions|welcome)\b' contenido/`) |
 | **Mito Amazonas 20% O₂** | LGS-7B-ING-001, LGS-1M-ING-001 (mismo texto reutilizado sin revisión factual) | P3 | Corregir a "~6-9% fotosíntesis global, contribución neta ≈ 0" en ambos |
 | **Formato pautas inconsistente** | LGS-GEN-FMT-001: Historia tiene puntaje+escala; Matemática/Inglés no | P3 | Estandarizar: todos los `*-forma-b.md` y `examen-integrado-forma-*.md` deben declarar `puntaje_por_item`, `total`, `escala_conversion` |
 | **Reciclaje Forma A → Forma B** | LGS-3B-INT-002, auditoría 2026-08-11 (Mat 6°B, Leng 5°B, Leng 4°B integrado) | P2→P1 si no corregido | Verificar muestreo: 6°B Mat, 1°M Leng, 3°M Fil — reescribir contextos, no solo cambiar cifras |
 | **Errata "población" en inglés** | LGS-8B-HIS-001, LGS-2M-LEN-002 | P3 | Incluir en validador CI diccionario de términos prohibidos |
+
+---
+
+### 3.4 P3 ABIERTO — Sesgo de claves (9 exámenes)
+
+Medición con `backend/scripts/validador_claves.py` sobre 50 exámenes:
+**9 exceden el 45 % en una sola letra.**
+
+| Examen | Distribución observada |
+|---|---|
+| `01-basico/examenes/examen-integrado-forma-a.md` | b = 11/19 (57,9 %) |
+| `01-basico/examenes/examen-integrado-forma-b.md` | b = 10/13 (76,9 %) |
+| `02-basico/examenes/examen-integrado-forma-a.md` | b = 11/19 (57,9 %) |
+| `02-basico/examenes/examen-integrado-forma-b.md` | b = 8/14 (57,1 %) |
+| `03-basico/examenes/examen-integrado-forma-a.md` | b = 11/15 (73,3 %) |
+| `03-basico/examenes/examen-integrado-forma-b.md` | b = 8/11 (72,7 %) |
+| `03-medio/examenes/educacion-ciudadana-examen-forma-b.md` | b = 11/16 (68,8 %) |
+| `04-basico/examenes/examen-integrado-forma-a.md` | b = 14/20 (70,0 %) |
+| `04-basico/examenes/examen-integrado-forma-b.md` | b = 8/14 (57,1 %) |
+
+**Por qué no está cerrado:** corregirlo exige, por cada pregunta intervenida:
+
+1. intercambiar el texto completo de dos alternativas en el enunciado;
+2. actualizar la letra en la fila de pauta y en el texto de la clave;
+3. verificar que la explicación de la pauta siga siendo coherente.
+
+Es trabajo editorial ítem por ítem (≈ 40 preguntas). **No es aceptable** lograrlo
+cambiando sólo la letra de la pauta: eso fue exactamente lo que se hizo antes y
+produjo 33 claves incorrectas (§0.2).
+
+**Criterio de cierre:** `validador_claves.py` sin ninguna línea `EXCEDE 45%` y
+`git diff` mostrando, en cada pregunta intervenida, el intercambio de alternativas
+y la clave correspondiente.
 
 ---
 

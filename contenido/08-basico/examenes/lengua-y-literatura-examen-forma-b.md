@@ -200,59 +200,37 @@ d) Porque los compañeros no entenderían el significado de esas palabras
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lengua y Literatura — 8° Básico — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **b)** La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento. | OA N°3 — conflicto central |
+| 2 | **c)** El sabio. | OA N°3 — personaje tipo |
+| 3 | **Falso.** El narrador es una voz construida dentro del relato (quien recuerda su infancia y participa en la historia), mientras que el autor es la persona real que escribió la novela; ambos pueden pensar distinto y no deben confundirse. | OA N°3 — narrador versus autor |
+| 4 | Debe explicar que el cuaderno no es un objeto cualquiera: representa el esfuerzo de don Servando por preservar y ordenar un conocimiento que él mismo no podía leer directamente, y simboliza que la sabiduría puede construirse sin pasar por la lectura o la escritura formal. | OA N°3 — símbolo |
+| 5 | Debe describir la evolución del narrador desde asumir, sin cuestionarlo, que don Servando "sabía" porque leía mucho, hasta comprender —tras la revelación final— que su saber venía de la memoria y la escucha; debe identificar el prejuicio de asociar la falta de estudios formales con la falta de sabiduría; y explicar el uso del pretérito pluscuamperfecto ("había memorizado", "había ido ordenando") y de expresiones temporales explícitas ("durante más de cuarenta años", "hoy") para marcar los saltos entre presente y pasado. | OA N°3 — evolución de personajes, prejuicios y disposición temporal (integrada) |
+| 6 | **b)** Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante. | OA N°4 — efecto de las repeticiones |
+| 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
+| 8 | Debe explicar que la comparación sugiere que tejer es, para la hablante, una actividad tan constante, paciente y casi instintiva como la que realiza una araña al construir su tela, transmitiendo la idea de una labor incansable y casi automática, sostenida a pesar del cansancio o las dificultades. | OA N°4 — interpretación de una comparación |
+| 9 | Debe identificar la repetición de estructura ("tejo el...", "tejo aunque...") y explicar que produce un efecto de cadencia rítmica y de insistencia, coherente con el título "Tejo, abuela, tejo"; y explicar que, sin la repetición de "tejo", el poema perdería el efecto de constancia y ritmo, sintiéndose como una afirmación aislada en vez de una actividad sostenida en el tiempo. | OA N°4 — repeticiones y efecto de su ausencia |
+| 10 | **b)** Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote. | OA N°8 — identificación del dilema |
+| 11 | **Falso.** La erupción del volcán Chaitén en mayo de 2008 es un hecho histórico real que obligó a evacuar por completo la localidad de Chaitén; conocer este contexto es clave para dimensionar el peligro real que enfrenta Tomás. | OA N°8 — contexto histórico |
+| 12 | Cualquier posicionamiento razonado, a favor o en contra, que reconozca explícitamente el riesgo real de la situación (perder el último bote disponible durante una erupción) y no lo ignore al fundamentar la postura. | OA N°8 — posicionamiento frente a un dilema |
+| 13 | Debe integrar el dilema de Tomás, un posicionamiento fundamentado frente a él, y una relación explícita y coherente con el contexto histórico real de la erupción de 2008 y con la visión de mundo sobre el valor de cumplir una promesa que transmite el relato. | OA N°8 — interpretación coherente e integrada |
+| 14 | **b)** El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura. | OA N°9 — postura del autor |
+| 15 | **b)** "Los accidentes que involucran a ciclistas aumentaron en más de un 40% en la última década", según cifras de Conaset. | OA N°9 — hecho versus opinión |
+| 16 | Debe explicar que el autor o autora usa el imperativo en primera persona plural para involucrar directamente al lector en una acción colectiva y urgente, transmitiendo que el cambio depende también de la ciudadanía y no solo de las autoridades. | OA N°9 — intención en el uso de modos verbales |
+| 17 | Debe explicar que el subjuntivo expresa un deseo sobre algo que actualmente no ocurre (la desigual inversión municipal en ciclovías frente a la vialidad automotriz), transmitiendo una crítica indirecta sin acusar directamente a una autoridad; y dar una postura personal fundamentada con al menos un argumento propio. | OA N°9 — modos verbales y postura personal |
+| 18 | **b)** Presionar públicamente a la empresa sanitaria para que entregue información oficial más precisa, usando la exposición en redes sociales. | OA N°10 — propósito implícito |
+| 19 | **b)** Que la fuente desde la que se presenta un hecho puede influir en el énfasis, el tono y la sensación de suficiencia de la información entregada. | OA N°10 — comparación de fuentes |
+| 20 | **24.000 habitantes en total** (15.000 + 9.000). La tabla no entrega información sobre, por ejemplo, la ubicación exacta y los horarios de los camiones aljibe, dato relevante para que las familias sepan cuándo y dónde abastecerse de agua. | OA N°10 — interpretación de una tabla (texto discontinuo) |
+| 21 | Debe explicar que el Texto A tiene un tono informativo y neutro con el propósito de informar, apoyado en una fuente oficial (la empresa sanitaria), mientras que el Texto B tiene un tono crítico y urgente con el propósito de exigir información más clara; y evaluar que el Texto A, aunque informa la causa, el plazo estimado y la existencia de camiones aljibe, no aclara la ubicación exacta ni los horarios de estos, aspectos que las familias necesitan para poder abastecerse. | OA N°10 — comparación de fuentes y suficiencia de la información |
+| 22 | **b)** Porque el registro formal y las fórmulas de cortesía propias de una carta o correo no se adecuan al destinatario ni al canal informal de un chat entre pares. | OA N°16 — adecuación del registro |
+| 23 | "Las alumnas **se maquillaron a sí mismas** antes de la presentación. El profesor **nos** explicó que **las tareas estaban mal hechas**, así que tuvimos que rehacer**las** entre todos." (o variante equivalente que corrija concordancia plural, pronombre reflejo y participio irregular). | OA N°16 — pronombres reflejos, conjugaciones, participios y concordancia |
+| 24 | Debe presentar una planificación razonable, por ejemplo: (a) por qué es importante reciclar en el liceo y qué materiales concretos se podrían reciclar; (b) conectores como "por esta razón", "además", "sin embargo" o "en síntesis". | OA N°16 — planificación de un texto |
+| 25 | Debe presentar dos versiones del texto con un contraste real de registro (vocabulario de redes sociales y tono cercano en la informal, fórmulas de cortesía y vocabulario preciso en la formal), sin errores de concordancia ni de pronombres en ninguna de las dos. | OA N°16 — registro y corrección gramatical |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 6 × 2 puntos = 12 puntos  
-- **Total preguntas desarrollo extenso:** 6 × 3 puntos = 18 puntos
-- **Puntaje total de la prueba: 42 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 2, 6, 7, 10, 14, 15, 18, 19, 22 |
-| Verdadero o Falso (con justificación) | 2 | 3, 11 |
-| Desarrollo breve | 6 | 4, 8, 12, 16, 20, 24 |
-| Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
-| **Total** | **24** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 42 (100%) | 7,0 |
-| 38 (90%) | 6,3 |
-| 34 (80%) | 5,6 |
-| 29 (70%) | 4,9 |
-| 25 (60% — exigencia mínima) | **4,0** |
-| 21 (50%) | 3,5 |
-| 17 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 8 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

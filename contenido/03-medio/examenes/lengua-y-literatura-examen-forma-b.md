@@ -158,59 +158,37 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lengua y Literatura — 3° medio — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **b)** Personificación: atribuir a la montaña la acción humana de "devorar" le otorga un poder casi mítico sobre la vida de los trabajadores. | OA N°1 — figura literaria |
+| 2 | **Falso.** Formular una hipótesis de sentido exige relacionar los recursos literarios entre sí y usarlos como evidencia de una interpretación propia sobre el sentido global de la obra, no solo enumerarlos por separado. | OA N°1 — hipótesis de sentido |
+| 3 | El contraste entre el habla cotidiana del padre y la prosa elaborada de la narradora al describirlo acerca el relato a la experiencia familiar concreta, sin renunciar a la densidad simbólica necesaria para transmitir la magnitud del sacrificio paterno; ese doble registro refleja también la distancia entre la voz sobria del padre y la mirada interpretativa de la hija. | OA N°1 — características del lenguaje |
+| 4 | **b)** Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor. | OA N°1 — narrador y personajes |
+| 5 | Cualquier obra pertinente relacionada explicando un punto de encuentro y una diferencia de sentido con "Las manos de mi padre" (siguiendo el mismo tipo de análisis usado en clase con *Sub terra* o *Nostalgia de la luz*). | OA N°1 — relaciones intertextuales (aplicación) |
+| 6 | Debe explicar que la lectura del compañero es incompleta porque el final no es un dato anecdótico, sino el cierre de un paralelismo construido a lo largo de todo el relato (manos del padre / manos de la hija); la estructura circular —abrir y cerrar con la imagen de las manos— es evidencia textual concreta que sustenta una hipótesis de sentido más profunda: que el sacrificio físico del padre se transforma en una herencia simbólica distinta. | OA N°1 — hipótesis de sentido y estructura (integrada) |
+| 7 | **b)** Informar un hecho puntual en pocas líneas, sin desarrollo posterior, es propio de la noticia breve; el reportaje se distingue por profundizar con mayor variedad de fuentes. | OA N°3 — género discursivo |
+| 8 | **Falso.** El reportaje no hace esa afirmación directa; construye su crítica a través de la yuxtaposición de datos, la declaración de las empresas y el testimonio de Ronald, dejando que el lector llegue a esa conclusión por sí mismo. | OA N°3 — razonamiento del discurso |
+| 9 | Las cifras de la Subsecretaría del Trabajo y del estudio de la Universidad de Chile son verificables porque provienen de fuentes institucionales identificables; en cambio, la afirmación de las empresas sobre el 78% depende únicamente de sus propios comunicados, sin que el reportaje pueda contrastarla de forma independiente. | OA N°3 — veracidad de la información |
+| 10 | **b)** Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile. | OA N°3 — contexto sociocultural |
+| 11 | Se seleccionó la versión oficial de las empresas (flexibilidad horaria, 78%) para contrastarla con la experiencia concreta de Ronald, quien muestra que esa flexibilidad convive con factores que escapan a su control; el contraste cumple el propósito de cuestionar, sin afirmarlo directamente, qué tan real es el beneficio que las empresas destacan. | OA N°3 — función de la información seleccionada |
+| 12 | Debe explicar que cambiaría el modo de presentar la información (imágenes, sonido ambiente, voz en off, propio de las convenciones del género audiovisual), mientras que se mantendría la relevancia del tema para la misma audiencia chilena preocupada por la precariedad laboral y las plataformas digitales, independientemente del soporte elegido. | OA N°3 — género y contexto sociocultural (integrada) |
+| 13 | **b)** Par que valida la organización estudiantil desde su propia experiencia como docente de otro establecimiento. | OA N°4 — rol del enunciador |
+| 14 | **Falso.** Ese contexto sociocultural sí influye: explica por qué algunos usuarios reconocen y validan rápidamente esta forma de organización, mientras otros la descalifican apelando a estereotipos generacionales que también forman parte de un debate social más amplio en Chile. | OA N°4 — contexto sociocultural |
+| 15 | Esta intervención cumple una función correctiva y protectora: desmiente el rumor sin confirmar ni negar detalles sobre personas específicas, y establece explícitamente un límite ético para la audiencia, ejerciendo su rol de vocera no solo informando, sino regulando el comportamiento de la comunidad digital frente a un riesgo de acoso. | OA N°4 — rol del enunciador ante la audiencia |
+| 16 | **b)** Su propia experiencia comparativa como docente que vive una situación similar en otro establecimiento. | OA N°4 — modos de razonamiento |
+| 17 | Cualquier postura razonada; por ejemplo, que este tipo de comentarios debería señalarse públicamente como una descalificación sin sustento, porque normalizar el prejuicio generacional desvía la conversación del problema real hacia un ataque genérico que no aporta evidencia ni contribuye a resolver el conflicto. | OA N°4 — postura ética fundamentada |
+| 18 | Cualquier evaluación razonada que priorice la evidencia verificable (fotos y petitorio firmado por 340 estudiantes; testimonio directo de @vecina_ñuñoa como exfuncionaria) por sobre afirmaciones sin sustento (el rumor de @anonimo_2024 y la generalización estereotipada de @troll123), explicando por qué estas últimas no aportan información verificable sobre el caso. | OA N°4 — calidad de la evidencia (integrada) |
+| 19 | **b)** La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa un registro cercano propio de una publicación de red social. | OA N°6 — adecuación al género |
+| 20 | **Falso.** El proceso de escritura considera al menos tres etapas —planificar, escribir y revisar—; saltarse la planificación o la revisión suele producir textos menos coherentes o poco adecuados a quien los va a leer o escuchar. | OA N°6 — proceso de escritura |
+| 21 | **Falso.** Esa oración interrumpe la progresión temática, al igual que la mención de que "Chuquicamata es una ciudad del norte"; ambas aportan datos que no se conectan directamente con el argumento central sobre el paralelismo de las manos. | OA N°6 — progresión temática |
+| 22 | Cualquier planificación razonable y coherente entre sus cuatro elementos; por ejemplo, (a) argumentar que la regulación laboral de las plataformas de delivery es urgente, (b) columna de opinión escrita, (c) lectores adultos de un medio de actualidad, (d) registro formal y uso de datos verificables para dar credibilidad al argumento. | OA N°6 — planificación (propósito, género, tema, audiencia) |
+| 23 | Ambas versiones del ejemplo comunican el mismo hallazgo interpretativo central —el paralelismo entre las manos del padre y las de la hija—, aunque con distinto registro, extensión y recursos; lo que cambia es la forma de comunicar la idea, no necesariamente su profundidad, siempre que se elija con cuidado qué información breve puede transmitir el núcleo de la interpretación. | OA N°6 — adecuación al género y a la audiencia |
+| 24 | La revisión es la etapa en la que se relee el texto ya escrito para evaluar su coherencia (organización lógica en torno a un tema central), su cohesión (si los conectores muestran adecuadamente la relación entre las ideas) y su adecuación al género y a la audiencia (registro, extensión y recursos esperados por quien recibe el texto). | OA N°6 — proceso de escritura (revisión) |
+| 25 | Cualquier reescritura que use al menos dos conectores adecuados para mostrar las relaciones lógicas entre las ideas; por ejemplo: "Los repartidores de delivery trabajan muchas horas y, sin embargo, las empresas insisten en que existe flexibilidad horaria. En la práctica, esta flexibilidad es relativa: Ronald, por ejemplo, debe subir dieciocho pisos a pie cuando el ascensor no funciona, y su ingreso, descontando gastos, casi no supera el sueldo mínimo." Debe explicar la relación (contraste, ejemplificación, consecuencia) que expresa cada conector agregado. | OA N°6 — cohesión (aplicación) |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 9 × 2 puntos = 18 puntos  
-- **Total preguntas desarrollo extenso:** 4 × 3 puntos = 12 puntos
-- **Puntaje total de la prueba: 42 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 4, 7, 10, 13, 16, 19 |
-| Verdadero o Falso (con justificación) | 5 | 2, 8, 14, 20, 21 |
-| Desarrollo breve | 9 | 3, 5, 9, 11, 15, 17, 22, 23, 24 |
-| Desarrollo extenso | 4 | 6, 12, 18, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 42 (100%) | 7,0 |
-| 38 (90%) | 6,3 |
-| 34 (80%) | 5,6 |
-| 29 (70%) | 4,9 |
-| 25 (60% — exigencia mínima) | **4,0** |
-| 21 (50%) | 3,5 |
-| 17 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 8 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de preguntas por Objetivo de Aprendizaje
+### Distribución de preguntas por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

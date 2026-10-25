@@ -201,59 +201,37 @@ d) 8/1
 
 ---
 
-## PAUTA DE CORRECCIÓN — Matemática — 7° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / Respuesta esperada | OA | Eje |
+|---|---|---|---|
+| 1 | a) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
+| 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
+| 3 | 1.200 − (−85) = 1.200 + 85 = **1.285 metros** | OA 1 | Números y Operaciones |
+| 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
+| 5 | 9,6 ÷ 0,4 = **24** (amplificando: 96 ÷ 4 = 24) | OA 3 | Números y Operaciones |
+| 6 | 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = **10 porciones** | OA 3 | Números y Operaciones |
+| 7 | b) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
+| 8 | interés: 0,08×500.000=40.000; total a devolver: 500.000+40.000=**$540.000** | OA 4 | Números y Operaciones |
+| 9 | tras el alza: 60.000+9.000=69.000; tras el descuento: 69.000−10.350=**$58.650**; no es igual al original, es **menor** | OA 4 | Números y Operaciones |
+| 10 | a) 2x + 7 | OA 6 | Patrones y Álgebra |
+| 11 | la secuencia aumenta de 4 en 4: **4n + 1** (comprobación n=3: 4×3+1=13 ✓) | OA 6 | Patrones y Álgebra |
+| 12 | ecuación: x + (x+1) = 45; 2x + 1 = 45; 2x = 44; x = **22**; el segundo número es **23** | OA 6 | Patrones y Álgebra |
+| 13 | b) $15.000 (9.000÷3=3.000 por entrada; 3.000×5=15.000) | OA 8 | Patrones y Álgebra |
+| 14 | b) Inversa | OA 8 | Patrones y Álgebra |
+| 15 | 5×8=40 (constante); 40÷10=**4 días** | OA 8 | Patrones y Álgebra |
+| 16 | b) 7 cm (radio = diámetro ÷ 2) | OA 11 | Geometría |
+| 17 | d) 314 cm² (A=3,14×10²=3,14×100=314) | OA 11 | Geometría |
+| 18 | A = 3,14×15² = 3,14×225 = **706,5 m²** | OA 11 | Geometría |
+| 19 | c) Cuadrante III (x negativo, y negativo) | OA 14 | Geometría |
+| 20 | nuevo x: 2−6=−4; nuevo y: −3+4=1 → **(−4, 1)** | OA 14 | Geometría |
+| 21 | b) 25% (10/40=0,25) | OA 16 | Datos y Probabilidades |
+| 22 | b) Gráfico de tallo y hojas | OA 16 | Datos y Probabilidades |
+| 23 | 12→3 (42,9%); 15→2 (28,6%); 18→1 (14,3%); 20→1 (14,3%) — suma 7 datos, 100%; valor más frecuente: **12 unidades** | OA 16 | Datos y Probabilidades |
+| 24 | c) 1/8 (1 caso favorable de 8 posibles) | OA 18 | Datos y Probabilidades |
+| 25 | 32/40 = 0,8 = **80%** | OA 18 | Datos y Probabilidades |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 12 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 12 (100%) | 7,0 |
-| 11 (90%) | 6,3 |
-| 10 (80%) | 5,6 |
-| 8 (70%) | 4,9 |
-| 7 (60% — exigencia mínima) | **4,0** |
-| 6 (50%) | 3,5 |
-| 5 (40%) | 3,0 |
-| 4 (30%) | 2,5 |
-| 2 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
+### Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

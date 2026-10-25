@@ -246,56 +246,40 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 
 ---
 
-## PAUTA DE CORRECCIÓN — Educación Ciudadana — 4° Medio — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+**Puntaje:** las preguntas de selección múltiple, verdadero/falso y términos pareados valen 1 punto por respuesta correcta (los ítems de V/F y pareados otorgan 1 punto por cada afirmación/par correctamente resuelto). Las preguntas de desarrollo breve valen 2 puntos; las de desarrollo extenso valen 3 puntos, según el criterio de corrección indicado.
 
-### Resumen de puntaje
+| N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
+|----|------|----|---------------------------------|---------|
+| 1 | Selección múltiple | Democracia y sus desafíos | b) Equidad de género | 1 |
+| 2 | V/F (4 afirmaciones) | Democracia y sus desafíos | V – F – V – V | 4 |
+| 3 | Términos pareados | Democracia y sus desafíos | 1 – 2 – 3 – 4 | 4 |
+| 4 | Selección múltiple | Democracia y sus desafíos | b) Igualdad de trato | 1 |
+| 5 | Desarrollo breve | Democracia y sus desafíos | Reconoce la organización sindical como forma de **participación** que busca incidir en decisiones que afectan a las trabajadoras, y conecta el contenido de la demanda (sala cuna, horarios) con la **equidad de género**, por recaer históricamente el cuidado sobre las mujeres | 2 |
+| 6 | Desarrollo breve | Democracia y sus desafíos | Reconoce que ambas posturas priorizan valores democráticos legítimos (libertad económica/empresarial vs. solidaridad hacia quienes ganan menos) y que el desacuerdo sobre el nivel de salario mínimo es distinto de desconocer la dignidad laboral de las personas trabajadoras | 2 |
+| 7 | Selección múltiple | Democracia y sus desafíos | b) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
+| 8 | Desarrollo breve | Democracia y sus desafíos | Identifica **igualdad de trato** o **inclusión** (discriminación salarial por condición migrante) y **diversidad cultural** (o vulnerabilidad frente a desconocimiento del sistema local); explica que la diferencia de trato no tiene fundamento legítimo | 2 |
+| 9 | V/F (4 afirmaciones) | Democracia y sus desafíos | V - F - V - F | 4 |
+| 10 | Selección múltiple | Democracia y sus desafíos | b) Solidaridad e igualdad de oportunidades | 1 |
+| 11 | Desarrollo extenso | Democracia y sus desafíos | Relaciona el caso con diversidad cultural (condición y organización propia de trabajadores migrantes) y con el principio de participación (derecho a ser consultados en decisiones que afectan sus condiciones laborales y de vivienda); admite que existen posturas legítimas distintas sobre cómo regular el trabajo migrante temporal | 3 |
+| 12 | Desarrollo breve | Democracia y sus desafíos | Relaciona con **inclusión** y/o **solidaridad**; explica la diferencia entre libertad negativa (no prohibir el acceso) y libertad positiva (condiciones reales —formatos, infraestructura— para ejercerlo) | 2 |
+| 13 | Selección múltiple | Democracia y sus desafíos | b) Ambas posturas pueden ser igualmente legítimas | 1 |
+| 14 | Selección múltiple | Medios y TIC | b) Uso de datos personales para mensajes de campaña distintos según perfil de votante | 1 |
+| 15 | V/F (4 afirmaciones) | Medios y TIC | V – F – V – V | 4 |
+| 16 | Términos pareados | Medios y TIC | 4 – 1 – 3 – 2 | 4 |
+| 17 | Selección múltiple | Medios y TIC | a) Derecho a un consentimiento verdaderamente informado | 1 |
+| 18 | Desarrollo extenso | Medios y TIC | Identifica el riesgo de **desinformación** (posiblemente coordinada, por el patrón de publicaciones idénticas y masivas en poco tiempo); explica que es grave en período electoral porque puede influir en el voto antes de que exista tiempo real de verificar o desmentir | 3 |
+| 19 | Selección múltiple | Medios y TIC | a) Revisar quién financia o publica una noticia antes de darla por verdadera | 1 |
+| 20 | Desarrollo breve | Medios y TIC | Identifica el riesgo de **concentración de medios**, que reduce el pluralismo de voces disponibles para la ciudadanía; menciona como mitigación posible la regulación, el fortalecimiento de medios independientes o el consumo de fuentes diversas | 2 |
+| 21 | Selección múltiple | Medios y TIC | b) El resguardo de la vida privada | 1 |
+| 22 | Desarrollo extenso | Medios y TIC | Riesgo: propagación de desinformación sin verificación previa entre jóvenes que se informan mayoritariamente por redes; responsabilidad ciudadana: alfabetización mediática / contrastar fuentes antes de compartir | 3 |
+| 23 | V/F (4 afirmaciones) | Medios y TIC | V – F – F – V | 4 |
+| 24 | Desarrollo extenso | Medios y TIC | Participación: la propaganda no identificada como publicitaria y dirigida algorítmicamente dificulta que la ciudadanía reconozca y evalúe de forma informada el contenido político que recibe; vida privada: el uso del historial de visualización para segmentar personas sin advertencia compromete su control sobre su propia información; reconoce la conexión entre ambos problemas | 3 |
+| 25 | Selección múltiple | Medios y TIC | b) Oportunidades y riesgos a la vez, mitigados con alfabetización mediática | 1 |
 
-- **Total preguntas de alternativas:** 16 × 1 punto = 16 puntos
-- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
-- **Total preguntas desarrollo extenso:** 4 × 3 puntos = 12 puntos
-- **Puntaje total de la prueba: 38 puntos**
+**Puntaje total de la prueba: 56 puntos.**
+**Distribución por OA:** 13 preguntas — Democracia y sus desafíos (preguntas 1 a 13) · 12 preguntas — Medios y TIC (preguntas 14 a 25).
+**Distribución por tipo de pregunta:** 15 preguntas cerradas (selección múltiple, verdadero/falso y términos pareados) · 10 preguntas de desarrollo (6 breves, 4 extensas).
 
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 16 | 1, 2, 3, 4, 7, 9, 10, 13, 14, 15, 16, 17, 19, 21, 23, 25 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 5 | 5, 6, 8, 12, 20 |
-| Desarrollo extenso | 4 | 11, 18, 22, 24 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 38 (100%) | 7,0 |
-| 34 (90%) | 6,3 |
-| 30 (80%) | 5,6 |
-| 27 (70%) | 4,9 |
-| 23 (60% — exigencia mínima) | **4,0** |
-| 19 (50%) | 3,5 |
-| 15 (40%) | 3,0 |
-| 11 (30%) | 2,5 |
-| 8 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.
+> **Tabla de conversión sugerida (referencial):** exigencia de 60% para la nota mínima de aprobación (4,0), en línea con el criterio general de corrección de los Exámenes Libres Mineduc. Ajustar según la escala oficial vigente al momento de rendir el examen real.

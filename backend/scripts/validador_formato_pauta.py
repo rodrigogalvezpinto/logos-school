@@ -1,382 +1,252 @@
 #!/usr/bin/env python3
 """
-Validador y estandarizador de formato de pautas de corrección en exámenes.
-Asegura que TODOS los exámenes tengan: puntaje_por_item, total, escala_conversion.
-Uso: python validador_formato_pauta.py [--fix] [ruta_archivo_o_directorio]
+Validador (solo lectura) de pautas de corrección en exámenes.
+
+Comprueba, sin modificar jamás el archivo:
+  - que exista una sección de pauta;
+  - que no queden marcadores de plantilla sin reemplazar;
+  - que haya una fila de pauta por cada pregunta del examen;
+  - que el puntaje total declarado coincida con la suma de la columna Puntaje;
+  - la distribución de claves (letra a/b/c/d) para detectar sesgos.
+
+Uso: python validador_formato_pauta.py [ruta_archivo_o_directorio]
+
+IMPORTANTE: este script NO escribe archivos. La versión anterior reescribía la
+tabla de pauta con una plantilla y destruyó las claves de 48 exámenes
+(commit 5421485 + corridas locales). No volver a agregar un modo --fix que
+reconstruya la tabla: la pauta es contenido editorial y debe editarse a mano.
 """
 
 import re
 import sys
 import argparse
 from pathlib import Path
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Optional
+
+MARCADOR_PLANTILLA = "MANTENER FILAS ORIGINALES"
+LIMITE_SESGO = 0.45
 
 
-# Template estándar de pauta de corrección
-TEMPLATE_PAUTA = """## PAUTA DE CORRECCIÓN — {{TIPO_EXAMEN}}
-
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-{{FILAS_PAUTA}}
-
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** {{TOTAL_ALT}} × 1 punto = {{PTS_ALT}} puntos
-- **Total preguntas desarrollo breve:** {{TOTAL_BREVE}} × 2 puntos = {{PTS_BREVE}} puntos  
-- **Total preguntas desarrollo extenso:** {{TOTAL_EXTENSO}} × 3 puntos = {{PTS_EXTENSO}} puntos
-- **Puntaje total de la prueba: {{PUNTAJE_TOTAL}} puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-{{FILAS_OA}}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | {{TOTAL_ALT}} | {{LISTA_ALT}} |
-| Verdadero o Falso (con justificación) | {{TOTAL_VF}} | {{LISTA_VF}} |
-| Desarrollo breve | {{TOTAL_BREVE}} | {{LISTA_BREVE}} |
-| Desarrollo extenso | {{TOTAL_EXTENSO}} | {{LISTA_EXTENSO}} |
-| **Total** | **{{TOTAL_PREGUNTAS}}** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| {{PUNTAJE_TOTAL}} (100%) | 7,0 |
-| {{PTS_90}} (90%) | 6,3 |
-| {{PTS_80}} (80%) | 5,6 |
-| {{PTS_70}} (70%) | 4,9 |
-| {{PTS_60}} (60% — exigencia mínima) | **4,0** |
-| {{PTS_50}} (50%) | 3,5 |
-| {{PTS_40}} (40%) | 3,0 |
-| {{PTS_30}} (30%) | 2,5 |
-| {{PTS_20}} (20%) | 2,0 |
-| {{PTS_10}} (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta {{FORMA}}**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la {{FORMA_OTRA}} ({{RUTA_FORMA_OTRA}}), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela."""
+def extraer_numeros_preguntas(contenido: str) -> List[int]:
+    """Números de pregunta del enunciado del examen."""
+    patrones = [
+        r"^\*\*(\d{1,2})\.\*\*",
+        r"^\*\*(\d{1,2})\.\s*\(",
+        r"^\*\*(\d{1,2})\.\s",
+        r"^\*\*Pregunta\s+(\d{1,2})\b",
+        r"^###\s+(\d{1,2})\.\s",
+        r"^(\d{1,2})\.\s*\*\(",
+    ]
+    numeros = set()
+    for patron in patrones:
+        for m in re.finditer(patron, contenido, re.MULTILINE):
+            numeros.add(int(m.group(1)))
+    return sorted(n for n in numeros if 1 <= n <= 60)
 
 
-def parsear_pauta_existente(contenido: str) -> Optional[Dict]:
-    """Intenta extraer información de una pauta existente (heurística)."""
-    # Buscar sección de pauta (acepta # o ##)
-    match_pauta = re.search(r'#{1,2}\s*PAUTA DE CORRECCI[OÓ]N.*?(?=#{1,2} |\Z)', contenido, re.DOTALL | re.IGNORECASE)
-    if not match_pauta:
+def bloque_pauta(contenido: str) -> Optional[str]:
+    """Sección de pauta: desde su heading hasta el siguiente heading de nivel
+    igual o superior (los subheadings ### sí pertenecen a la pauta)."""
+    lineas = contenido.split("\n")
+    inicio = nivel = None
+    for i, linea in enumerate(lineas):
+        m = re.match(r"^(#{1,6})\s+PAUTA DE CORRECCI", linea, re.IGNORECASE)
+        if m:
+            inicio, nivel = i, len(m.group(1))
+            break
+    if inicio is None:
         return None
-    
-    pauta_texto = match_pauta.group(0)
-    
-    # Extraer filas de tabla
-    filas = re.findall(r'\|\s*(\d+)\s*\|\s*([^|]*)\|\s*([^|]*)\|\s*([^|]*)\|\s*([^|]*)\|', pauta_texto)
-    
+    fin = len(lineas)
+    for i in range(inicio + 1, len(lineas)):
+        m = re.match(r"^(#{1,6})\s+\S", lineas[i])
+        if m and len(m.group(1)) <= nivel:
+            fin = i
+            break
+    return "\n".join(lineas[inicio:fin])
+
+
+def filas_pauta(texto_pauta: str) -> List[List[str]]:
+    filas = []
+    for linea in texto_pauta.split("\n"):
+        linea = linea.strip()
+        if not linea.startswith("|"):
+            continue
+        if re.match(r"^\|[\s:|-]+\|$", linea):
+            continue
+        celdas = [c.strip() for c in linea.strip("|").split("|")]
+        if celdas and re.fullmatch(r"\d{1,2}", celdas[0]):
+            filas.append(celdas)
+    return filas
+
+
+def suma_puntajes(filas: List[List[str]]) -> Optional[int]:
+    """Suma la última columna si es numérica (columna 'Puntaje')."""
+    total = 0
+    encontrado = False
+    for celdas in filas:
+        ultimo = celdas[-1]
+        m = re.fullmatch(r"\**(\d{1,3})\**", ultimo)
+        if m:
+            total += int(m.group(1))
+            encontrado = True
+    return total if encontrado else None
+
+
+def total_declarado(contenido: str) -> Optional[int]:
+    patrones = [
+        r"\*\*Puntaje total(?: de la prueba)?:\s*(\d{1,3})\s*puntos",
+        r"Puntaje total[:\s*]*\**(\d{1,3})\**\s*puntos",
+        r"\*\*Puntaje total:\*\*\s*(\d{1,3})",
+    ]
+    for patron in patrones:
+        m = re.search(patron, contenido, re.IGNORECASE)
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def distribucion_claves(filas: List[List[str]]) -> Dict[str, int]:
+    conteo: Dict[str, int] = {}
+    for celdas in filas:
+        texto = " ".join(celdas)
+        m = re.search(r"\*\*([a-d])\)", texto)
+        if not m:
+            m = re.search(r"\b([a-d])\)", texto)
+        if not m:
+            # Formato compacto: la clave es una celda que sólo contiene la letra
+            for celda in celdas[1:]:
+                if re.fullmatch(r"[a-d]", celda.strip()):
+                    m = re.match(r"([a-d])", celda.strip())
+                    break
+        if m:
+            clave = m.group(1)
+            conteo[clave] = conteo.get(clave, 0) + 1
+    return conteo
+
+
+def validar_archivo(ruta: Path) -> Dict:
+    contenido = ruta.read_text(encoding="utf-8")
+    resultado = {
+        "archivo": str(ruta),
+        "problemas": [],
+        "avisos": [],
+    }
+
+    texto_pauta = bloque_pauta(contenido)
+    if texto_pauta is None:
+        resultado["problemas"].append("sin sección 'PAUTA DE CORRECCIÓN'")
+        return resultado
+
+    if MARCADOR_PLANTILLA in contenido:
+        resultado["problemas"].append("contiene marcador de plantilla sin reemplazar")
+
+    filas = filas_pauta(texto_pauta)
     if not filas:
-        return None
-    
-    # Analizar tipos de pregunta desde el contenido del examen
-    # Buscar patrón de preguntas en el examen
-    exam_match = re.search(r'#{1,2}\s*PREGUNTAS.*?(?=#{1,2} |\Z)', contenido, re.DOTALL)
-    exam_texto = exam_match.group(0) if exam_match else contenido
-    
-    # Contar tipos
-    alt_count = len(re.findall(r'\(Alternativas\)', exam_texto, re.IGNORECASE))
-    vf_count = len(re.findall(r'\(Verdadero o Falso\)', exam_texto, re.IGNORECASE))
-    breve_count = len(re.findall(r'\(Desarrollo breve\)', exam_texto, re.IGNORECASE))
-    extenso_count = len(re.findall(r'\(Desarrollo extenso\)', exam_texto, re.IGNORECASE))
-    
-    # Si no encuentra patrones, inferir de filas de pauta
-    if alt_count + vf_count + breve_count + extenso_count == 0 and filas:
-        for f in filas:
-            tipo = f[1].strip().lower()
-            if 'alternativa' in tipo:
-                alt_count += 1
-            elif 'verdadero' in tipo or 'falso' in tipo:
-                vf_count += 1
-            elif 'breve' in tipo:
-                breve_count += 1
-            elif 'extenso' in tipo:
-                extenso_count += 1
-            else:
-                alt_count += 1  # default
-    
-    total = alt_count + vf_count + breve_count + extenso_count
-    if total == 0:
-        total = len(filas)
-    
-    # Puntaje estándar
-    pts_alt = alt_count * 1
-    pts_breve = breve_count * 2
-    pts_extenso = extenso_count * 3
-    pts_vf = vf_count * 1  # V/F cuenta como alternativa
-    total_pts = pts_alt + pts_vf + pts_breve + pts_extenso
-    
-    # Detectar forma (A/B)
-    forma_match = re.search(r'(FORMA|Forma)\s+([AB])', contenido, re.IGNORECASE)
-    forma = forma_match.group(2).upper() if forma_match else 'B'
-    
-    # Detectar curso y asignatura
-    curso_match = re.search(r'curso:\s*([^\n]+)', contenido, re.IGNORECASE)
-    asignatura_match = re.search(r'asignatura:\s*([^\n]+)', contenido, re.IGNORECASE)
-    
-    return {
-        'filas_raw': filas,
-        'alt_count': alt_count,
-        'vf_count': vf_count,
-        'breve_count': breve_count,
-        'extenso_count': extenso_count,
-        'total_pts': total_pts,
-        'forma': forma,
-        'curso': curso_match.group(1).strip() if curso_match else 'Curso',
-        'asignatura': asignatura_match.group(1).strip() if asignatura_match else 'Asignatura',
-        'tiene_puntaje_explicito': 'Puntaje total' in contenido or 'Puntaje:' in pauta_texto,
-        'tiene_escala': 'Escala de conversión' in contenido or 'Tabla de conversión' in contenido,
-        'tiene_distribucion_oa': 'Distribución por OA' in contenido,
-        'tiene_distribucion_tipo': 'Distribución por tipo' in contenido,
+        resultado["problemas"].append("la tabla de pauta no tiene filas numeradas")
+        return resultado
+
+    preguntas = extraer_numeros_preguntas(contenido)
+    filas_num = [int(c[0]) for c in filas]
+    # Las preguntas de desarrollo suelen tener criterio en prosa ("**Pregunta 4 (OA1, 3 pts).**")
+    cubiertas_prosa = {
+        int(m.group(1))
+        for m in re.finditer(r"Pregunta\s+(\d{1,2})\b", texto_pauta, re.IGNORECASE)
     }
+    cubiertas = set(filas_num) | cubiertas_prosa
 
+    if preguntas:
+        faltan = sorted(set(preguntas) - cubiertas)
+        sobran = sorted(set(filas_num) - set(preguntas))
+        if faltan:
+            resultado["problemas"].append(f"preguntas sin fila de pauta: {faltan}")
+        if sobran:
+            resultado["avisos"].append(f"filas de pauta sin pregunta asociada: {sobran}")
 
-def generar_pauta_estandar(info: Dict, contenido_original: str) -> str:
-    """Genera pauta estandarizada usando template."""
-    
-    # Extraer lista de preguntas por tipo desde el contenido
-    exam_match = re.search(r'## PREGUNTAS.*?(?=## |\Z)', contenido_original, re.DOTALL)
-    exam_texto = exam_match.group(0) if exam_match else contenido_original
-    
-    # Listas de números de pregunta por tipo
-    listas = {'alt': [], 'vf': [], 'breve': [], 'extenso': []}
-    
-    # Buscar preguntas numeradas con tipo
-    preg_matches = re.finditer(r'\*\*(\d+)\.\s*\(([^)]+)\)', exam_texto)
-    for m in preg_matches:
-        num = m.group(1)
-        tipo = m.group(2).lower()
-        if 'alternativa' in tipo:
-            listas['alt'].append(num)
-        elif 'verdadero' in tipo or 'falso' in tipo:
-            listas['vf'].append(num)
-        elif 'breve' in tipo:
-            listas['breve'].append(num)
-        elif 'extenso' in tipo:
-            listas['extenso'].append(num)
-    
-    # Si no encuentra, usar filas de pauta original
-    if not any(listas.values()):
-        filas_raw = info.get('filas_raw', [])
-        for i, fila in enumerate(filas_raw):
-            num = str(i + 1)
-            tipo = fila[1].strip().lower() if len(fila) > 1 else ''
-            if 'alternativa' in tipo:
-                listas['alt'].append(num)
-            elif 'verdadero' in tipo or 'falso' in tipo:
-                listas['vf'].append(num)
-            elif 'breve' in tipo:
-                listas['breve'].append(num)
-            elif 'extenso' in tipo:
-                listas['extenso'].append(num)
-            else:
-                listas['alt'].append(num)
-    
-    # Calcular puntajes
-    alt = len(listas['alt'])
-    vf = len(listas['vf'])
-    breve = len(listas['breve'])
-    extenso = len(listas['extenso'])
-    total_preg = alt + vf + breve + extenso
-    
-    pts_alt = alt * 1
-    pts_vf = vf * 1
-    pts_breve = breve * 2
-    pts_extenso = extenso * 3
-    total_pts = pts_alt + pts_vf + pts_breve + pts_extenso
-    
-    # Helper para formatear listas
-    def fmt_lista(lst):
-        return ', '.join(lst) if lst else '—'
-    
-    # Calcular puntos porcentuales para escala
-    def pct(p):
-        return round(total_pts * p / 100)
-    
-    # Determinar forma otra
-    forma_actual = info.get('forma', 'B')
-    forma_otra = 'A' if forma_actual == 'B' else 'B'
-    
-    # Generar filas OA (simplificado - idealmente parsear de pauta original)
-    filas_oa = "| OA 1 | 5 | 1, 2, 3, 4, 5 |\n| OA 2 | 5 | 6, 7, 8, 9, 10 |"
-    
-    template = TEMPLATE_PAUTA.replace('{{TIPO_EXAMEN}}', f"{info.get('asignatura', 'Asignatura')} — {info.get('curso', 'Curso')} — Forma {forma_actual}")
-    template = template.replace('{{FORMA}}', forma_actual)
-    template = template.replace('{{FORMA_OTRA}}', forma_otra)
-    template = template.replace('{{RUTA_FORMA_OTRA}}', f"contenido/{{curso}}/{{asignatura}}-examen-forma-{forma_otra}.md")
-    
-    template = template.replace('{{FILAS_PAUTA}}', '[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]')
-    template = template.replace('{{TOTAL_ALT}}', str(alt + vf))
-    template = template.replace('{{PTS_ALT}}', str(alt + vf))
-    template = template.replace('{{TOTAL_BREVE}}', str(breve))
-    template = template.replace('{{PTS_BREVE}}', str(breve * 2))
-    template = template.replace('{{TOTAL_EXTENSO}}', str(extenso))
-    template = template.replace('{{PTS_EXTENSO}}', str(extenso * 3))
-    template = template.replace('{{PUNTAJE_TOTAL}}', str(sum([alt, vf, breve * 2, extenso * 3])))
-    
-    template = template.replace('{{TOTAL_VF}}', str(vf))
-    template = template.replace('{{TOTAL_PREGUNTAS}}', str(total_preg))
-    template = template.replace('{{LISTA_ALT}}', ', '.join(listas['alt']) if listas['alt'] else '—')
-    template = template.replace('{{LISTA_VF}}', ', '.join(listas['vf']) if listas['vf'] else '—')
-    template = template.replace('{{LISTA_BREVE}}', ', '.join(listas['breve']) if listas['breve'] else '—')
-    template = template.replace('{{LISTA_EXTENSO}}', ', '.join(listas['extenso']) if listas['extenso'] else '—')
-    
-    template = template.replace('{{FILAS_OA}', filas_oa)
-    
-    # Escala
-    total = alt + vf + breve * 2 + extenso * 3
-    template = template.replace('{{PTS_90}}', str(round(total * 0.9)))
-    template = template.replace('{{PTS_80}}', str(round(total * 0.8)))
-    template = template.replace('{{PTS_70}}', str(round(total * 0.7)))
-    template = template.replace('{{PTS_60}}', str(round(total * 0.6)))
-    template = template.replace('{{PTS_50}}', str(round(total * 0.5)))
-    template = template.replace('{{PTS_40}}', str(round(total * 0.4)))
-    template = template.replace('{{PTS_30}}', str(round(total * 0.3)))
-    template = template.replace('{{PTS_20}}', str(round(total * 0.2)))
-    template = template.replace('{{PTS_10}}', str(round(total * 0.1)))
-    
-    return template
+    duplicados = sorted({n for n in filas_num if filas_num.count(n) > 1})
+    if duplicados:
+        resultado["problemas"].append(f"números de fila duplicados: {duplicados}")
 
+    suma = suma_puntajes(filas)
+    declarado = total_declarado(contenido)
+    if suma is not None and declarado is not None:
+        if suma > declarado:
+            resultado["problemas"].append(
+                f"la suma de la pauta ({suma}) supera el puntaje declarado ({declarado})"
+            )
+        elif suma < declarado:
+            resultado["avisos"].append(
+                f"la tabla suma {suma} de {declarado} pts declarados "
+                f"(el resto se corrige con criterios en prosa)"
+            )
 
-def analizar_archivo(ruta: Path) -> Dict:
-    """Analiza si un archivo de examen tiene pauta estandarizada."""
-    contenido = ruta.read_text(encoding='utf-8')
-    info = parsear_pauta_existente(contenido)
-    
-    if not info:
-        return {
-            'archivo': str(ruta),
-            'tiene_pauta': False,
-            'tiene_puntaje_explicito': False,
-            'tiene_escala': False,
-            'tiene_distribucion_oa': False,
-            'tiene_distribucion_tipo': False,
-            'necesita_estandarizacion': True,
-            'info_extraida': None
-        }
-    
-    return {
-        'archivo': str(ruta),
-        'tiene_pauta': True,
-        'tiene_puntaje_explicito': info['tiene_puntaje_explicito'],
-        'tiene_escala': info['tiene_escala'],
-        'tiene_distribucion_oa': info['tiene_distribucion_oa'],
-        'tiene_distribucion_tipo': info['tiene_distribucion_tipo'],
-        'necesita_estandarizacion': not (info['tiene_puntaje_explicito'] and info['tiene_escala'] and info['tiene_distribucion_oa'] and info['tiene_distribucion_tipo']),
-        'info_extraida': info
-    }
+    claves = distribucion_claves(filas)
+    total_claves = sum(claves.values())
+    # El indicador de sesgo sólo es interpretable si casi todas las preguntas
+    # son de alternativas (en exámenes con V/F, pareados o desarrollo mezclados
+    # la proporción de letras no representa la dificultad real).
+    if total_claves >= 8 and total_claves / len(filas) >= 0.8:
+        for letra, n in sorted(claves.items()):
+            if n / total_claves > LIMITE_SESGO:
+                resultado["avisos"].append(
+                    f"clave '{letra}' concentra {n}/{total_claves} "
+                    f"({n / total_claves:.0%} > {LIMITE_SESGO:.0%})"
+                )
 
-
-def estandarizar_archivo(ruta: Path, dry_run: bool = False) -> Tuple[int, str]:
-    """Estandariza la pauta de un archivo de examen."""
-    contenido = ruta.read_text(encoding='utf-8')
-    info = parsear_pauta_existente(contenido)
-    
-    if not info:
-        return 0, contenido
-    
-    # Generar pauta estandarizada
-    pauta_nueva = generar_pauta_estandar(info, contenido)
-    
-    # Reemplazar sección de pauta existente
-    # Buscar desde "# PAUTA DE CORRECCIÓN" o "## PAUTA DE CORRECCIÓN" hasta final o próximo "## " o "# "
-    patron_pauta = re.compile(r'(#{1,2}\s*PAUTA DE CORRECCI[OÓ]N.*?)(?=#{1,2} |\Z)', re.DOTALL | re.IGNORECASE)
-    
-    def reemplazo(match):
-        return pauta_nueva
-    
-    nuevo_contenido = patron_pauta.sub(reemplazo, contenido, count=1)
-    
-    if not dry_run and nuevo_contenido != contenido:
-        ruta.write_text(nuevo_contenido, encoding='utf-8')
-    
-    return 1 if nuevo_contenido != contenido else 0, nuevo_contenido
+    return resultado
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Estandarizador de formato de pautas de corrección')
-    parser.add_argument('ruta', nargs='?', default='contenido', help='Archivo o directorio')
-    parser.add_argument('--fix', action='store_true', help='Aplicar estandarización')
-    parser.add_argument('--dry-run', action='store_true', help='Simular sin guardar')
-    parser.add_argument('--ext', nargs='*', default=['.md'], help='Extensiones')
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+    parser = argparse.ArgumentParser(
+        description="Validador de pautas de corrección (solo lectura)"
+    )
+    parser.add_argument("ruta", nargs="?", default="contenido", help="Archivo o directorio")
     args = parser.parse_args()
-    
+
     ruta = Path(args.ruta)
     if not ruta.exists():
         print(f"[ERROR] Ruta no existe: {ruta}")
         sys.exit(1)
-    
-    extensiones = set(args.ext)
-    
+
     if ruta.is_file():
         archivos = [ruta]
     else:
-        archivos = []
-        for ext in extensiones:
-            archivos.extend(ruta.rglob(f'*{ext}'))
-        # Filtrar solo exámenes
-        archivos = [a for a in archivos if 'examen' in a.name.lower() or 'forma' in a.name.lower()]
-    
+        archivos = [
+            a for a in ruta.rglob("*.md")
+            if "examen" in a.name.lower()
+            or re.search(r"forma-[ab]\b", a.name.lower())
+        ]
+
     print(f"[SCAN] Analizando {len(archivos)} archivos de examen...")
-    
-    total_con_pauta = 0
-    total_sin_estandarizar = 0
-    total_estandarizados = 0
-    
+
+    con_problemas = 0
+    con_avisos = 0
+
     for archivo in sorted(archivos):
-        resultado = analizar_archivo(archivo)
-        
-        # Debug: ensure all required keys exist
-        if 'necesita_estandarizar' not in resultado:
-            resultado['necesita_estandarizar'] = True
-        
-        if not resultado['tiene_pauta']:
-            print(f"[WARN] SIN PAUTA: {archivo}")
-            continue
-        
-        total_con_pauta += 1
-        
-        if resultado['necesita_estandarizar']:
-            total_sin_estandarizar += 1
-            faltantes = []
-            if not resultado['tiene_puntaje_explicito']: faltantes.append('puntaje total')
-            if not resultado['tiene_escala']: faltantes.append('escala de conversión')
-            if not resultado['tiene_distribucion_oa']: faltantes.append('distribución por OA')
-            if not resultado['tiene_distribucion_tipo']: faltantes.append('distribución por tipo')
-            
-            print(f"[FIX] SIN ESTANDARIZAR: {archivo}")
-            print(f"   Falta: {', '.join(faltantes)}")
-            
-            if args.fix or args.dry_run:
-                cambios, _ = estandarizar_archivo(archivo, dry_run=args.dry_run)
-                if cambios:
-                    total_estandarizados += 1
-                    accion = "Simulada" if args.dry_run else "Aplicada"
-                    print(f"   [OK] Estandarización {accion.lower()}")
-        else:
-            print(f"[OK] YA ESTANDARIZADO: {archivo}")
-    
-    print(f"[RESUMEN]")
+        r = validar_archivo(archivo)
+        if r["problemas"]:
+            con_problemas += 1
+            print(f"\n[ERROR] {archivo}")
+            for p in r["problemas"]:
+                print(f"   - {p}")
+        if r["avisos"]:
+            con_avisos += 1
+            print(f"\n[AVISO] {archivo}")
+            for a in r["avisos"]:
+                print(f"   - {a}")
+
+    print("\n[RESUMEN]")
     print(f"   Archivos de examen: {len(archivos)}")
-    print(f"   Con pauta: {total_con_pauta}")
-    print(f"   Sin estandarizar: {total_sin_estandarizar}")
-    if args.fix or args.dry_run:
-        accion = "Simuladas" if args.dry_run else "Aplicadas"
-        print(f"   Estandarizaciones {accion.lower()}: {total_estandarizados}")
+    print(f"   Con problemas: {con_problemas}")
+    print(f"   Con avisos: {con_avisos}")
+
+    if con_problemas:
+        sys.exit(1)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

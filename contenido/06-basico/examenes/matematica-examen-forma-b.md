@@ -196,59 +196,37 @@ d) 140
 
 ---
 
-## PAUTA DE CORRECCIÓN — Matemática — 6° Básico — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / Respuesta esperada | OA | Eje |
+|---|---|---|---|
+| 1 | a) $5.460.000 (1.560 × 3.500 = 5.460.000) | OA 2 | Números y Operaciones |
+| 2 | 39.500.000 ÷ 4.300.000 = 9,18... → 9 buses; 9 × 4.300.000 = 38.700.000; sobran $800.000 | OA 2 | Números y Operaciones |
+| 3 | b) 5:3 (20:12 dividido por 4) | OA 3 | Números y Operaciones |
+| 4 | 8 ÷ 2 = 4, factor de amplificación; 2:5 × 4 = 8:20 → 20 botones | OA 3 | Números y Operaciones |
+| 5 | c) 3/4 (75/100 simplificado dividiendo por 25) | OA 4 | Números y Operaciones |
+| 6 | a) $1.600 (20% = 0,2 × 8.000 = 1.600) | OA 4 | Números y Operaciones |
+| 7 | 55% de 180 = 0,55 × 180 = 99 participantes | OA 4 | Números y Operaciones |
+| 8 | a) 4 3/4 (19 ÷ 4 = 4, resto 3) | OA 5 | Números y Operaciones |
+| 9 | 33 ÷ 9 = 3, resto 6 → 3 6/9, simplificado 3 2/3 | OA 5 | Números y Operaciones |
+| 10 | a) 7 1/2 (5+1=6; 2/3=4/6; 4/6+5/6=9/6=1 1/2; 6+1 1/2=7 1/2) | OA 8 | Números y Operaciones |
+| 11 | 32,400 − 14,650 = 17,750 kg; el resultado del encargado (18,750) es incorrecto | OA 8 | Números y Operaciones |
+| 12 | a) 54 (x = 100 − 46) | OA 11 | Patrones y Álgebra |
+| 13 | x + 15 = 52 → x = 52 − 15 = 37 estampillas. Comprobación: 37 + 15 = 52 ✓ | OA 11 | Patrones y Álgebra |
+| 14 | b) 118° (180° − 62°) | OA 16 | Geometría |
+| 15 | opuesto por el vértice: 58°; los otros dos (adyacentes): 180° − 58° = 122° cada uno | OA 16 | Geometría |
+| 16 | a) 486 cm² (área de una cara: 9×9=81; total: 6×81=486) | OA 18 | Medición y Datos y Probabilidades |
+| 17 | 2×(10×6) + 2×(10×4) + 2×(6×4) = 120+80+48 = 248 cm² | OA 18 | Medición y Datos y Probabilidades |
+| 18 | área de una cara: 15×15=225 cm²; área total: 6×225 = 1.350 cm² | OA 18 | Medición y Datos y Probabilidades |
+| 19 | a) 125 cm³ (5×5×5) | OA 19 | Medición y Datos y Probabilidades |
+| 20 | 5 × 3,5 × 2 = 35 m³ | OA 19 | Medición y Datos y Probabilidades |
+| 21 | a) 40 (los 4 sectores son igualmente probables: 160 ÷ 4 = 40) | OA 23 | Medición y Datos y Probabilidades |
+| 22 | 3 × 2 = 6 combinaciones posibles (por cada polera hay 2 pantalones posibles) | OA 23 | Medición y Datos y Probabilidades |
+| 23 | a) 110 (44% de 250 = 0,44 × 250 = 110) | OA 24 | Medición y Datos y Probabilidades |
+| 24 | Música tuvo más asistentes en el trimestre 2 (52), superando a Teatro por 52 − 30 = 22 asistentes | OA 24 | Medición y Datos y Probabilidades |
+| 25 | materiales: 40% de 1.800.000 = $720.000; transporte: 35% = $630.000; premios: 25% = $450.000 | OA 24 | Medición y Datos y Probabilidades |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 12 × 1 punto = 12 puntos
-- **Total preguntas desarrollo breve:** 0 × 2 puntos = 0 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 12 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 12 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 0 | — |
-| Desarrollo extenso | 0 | — |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 12 (100%) | 7,0 |
-| 11 (90%) | 6,3 |
-| 10 (80%) | 5,6 |
-| 8 (70%) | 4,9 |
-| 7 (60% — exigencia mínima) | **4,0** |
-| 6 (50%) | 3,5 |
-| 5 (40%) | 3,0 |
-| 4 (30%) | 2,5 |
-| 2 (20%) | 2,0 |
-| 1 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de cobertura curricular
+### Resumen de cobertura curricular
 
 | Eje | N° de preguntas | OA cubiertos |
 |---|---|---|

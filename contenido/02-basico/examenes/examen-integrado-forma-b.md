@@ -211,59 +211,32 @@ d) Los medios de transporte
 
 ---
 
-## PAUTA DE CORRECCIÓN — Asignatura — 2° Básico — Forma B
+# PAUTA DE CORRECCIÓN — FORMA B
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
+|----|------------|------------------------------------------|-------------|
+| 1 | Ciencias Naturales | **b) Bombear la sangre por todo el cuerpo.** | OA 7 |
+| 2 | Historia, Geografía y Cs. Sociales | **b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
+| 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
+| 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
+| 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |
+| 6 | Ciencias Naturales | **b) Se fortalece.** | OA 8 |
+| 7 | Matemática | 96-42=**54 stickers**. Como Camila regala stickers (su cantidad disminuye), corresponde una resta. | OA 9 |
+| 8 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa". | OA N°5 |
+| 9 | Historia, Geografía y Cs. Sociales | **b) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** | OA 4 |
+| 10 | Ciencias Naturales | El azúcar se disuelve y desaparece a la vista; la arena no se disuelve y sigue siendo visible en el agua. | OA 9 |
+| 11 | Matemática | **b) <.** 8+5=13, y como 13 es menor que 14, el símbolo correcto es < (menor que). | OA 13 |
+| 12 | Lenguaje y Comunicación | **c) Azul.** El artículo dice "El contenedor azul es para el papel y el cartón". | OA N°7 |
+| 13 | Ciencias Naturales | Cualquier combinación razonable, por ejemplo: cerrar la llave al lavarse los dientes, reportar llaves que gotean, reutilizar el agua, no contaminar ríos ni lagos. | OA 11 |
+| 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
+| 15 | Lenguaje y Comunicación | Respuesta que indique que los dibujos ayudan a reconocer qué basura va en cada contenedor, incluso para quienes todavía no saben leer bien. | OA N°7 |
+| 16 | Historia, Geografía y Cs. Sociales | **b) Zona centro.** Los valles fértiles con viñedos y ríos, entre las dos cordilleras, son característicos del centro de Chile. | OA 8 |
+| 17 | Matemática | 15-6=**9 alumnos más**. Comparamos las alturas de las barras "a pie" (15) y "en bicicleta" (6), y restamos. | OA 22 |
+| 18 | Ciencias Naturales | **c) Verano.** | OA 14 |
+| 19 | Lenguaje y Comunicación | **c) "Las niño jugaban en el patio."** "Las" (plural, femenino) no concuerda con "niño" (singular, masculino). | OA N°17 |
+| 20 | Historia, Geografía y Cs. Sociales | **b) Los medios de comunicación.** Transmiten información importante, como alertas de emergencia, a toda la comunidad. | OA 15 |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 15 × 1 punto = 15 puntos
-- **Total preguntas desarrollo breve:** 5 × 2 puntos = 10 puntos  
-- **Total preguntas desarrollo extenso:** 0 × 3 puntos = 0 puntos
-- **Puntaje total de la prueba: 25 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 15 | 1, 2, 3, 4, 5, 6, 9, 11, 12, 14, 16, 18, 19, 20 |
-| Verdadero o Falso (con justificación) | 1 | 8 |
-| Desarrollo breve | 5 | 7, 10, 13, 15, 17 |
-| Desarrollo extenso | 0 | — |
-| **Total** | **20** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 25 (100%) | 7,0 |
-| 22 (90%) | 6,3 |
-| 20 (80%) | 5,6 |
-| 18 (70%) | 4,9 |
-| 15 (60% — exigencia mínima) | **4,0** |
-| 12 (50%) | 3,5 |
-| 10 (40%) | 3,0 |
-| 8 (30%) | 2,5 |
-| 5 (20%) | 2,0 |
-| 2 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de preguntas por asignatura
+### Distribución de preguntas por asignatura
 
 | Asignatura | N° de preguntas | Preguntas |
 |---|---|---|

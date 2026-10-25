@@ -210,59 +210,37 @@ d) Para que el texto parezca más extenso de lo que es
 
 ---
 
-## PAUTA DE CORRECCIÓN — Lenguaje y Comunicación — 6° básico — Forma B
+# PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
+|----|------------------------------------------|-----------------------------------|
+| 1 | **b)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
+| 2 | El ambiente extremo de la pampa (calor intenso, maquinaria pesada en movimiento, poca tolerancia al error) explica por qué las reglas de seguridad son tan estrictas y por qué el padre reacciona corriendo desesperadamente al ver a Manuel en peligro: en ese entorno, un descuido puede tener consecuencias graves o fatales. | OA N°4 — influencia del ambiente en las acciones |
+| 3 | **Falso.** El texto indica que Antonia actúa motivada por la preocupación que siente al ver a su abuelo triste y silencioso por el problema del galpón; no menciona en ningún momento un interés por demostrar habilidades de organización. | OA N°4 — motivaciones de los personajes |
+| 4 | Debe incluir una opinión fundamentada sobre la actitud de Antonia (por ejemplo, valorando su iniciativa y empatía) apoyada en información del texto, y una conclusión sustentada que explique cómo costumbres comunitarias como la minga permiten resolver colectivamente problemas que una persona sola no podría enfrentar. | OA N°4 — opinión fundamentada y conclusión sustentada |
+| 5 | **b) Comparación (símil).** Usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa. | OA N°5 — lenguaje figurado (comparación) |
+| 6 | **b)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
+| 7 | En la primera estrofa, el tren avanza haciendo un ruido rítmico y constante sobre rieles mojados, y silba varias veces como si llevara mucho tiempo viajando. La onomatopeya "traquetea" imita el sonido repetitivo y mecánico de un tren moviéndose sobre los rieles. | OA N°5 — interpretación y onomatopeya |
+| 8 | La comparación "**como un viajero que nunca descansa**" transmite que el trayecto se siente larguísimo y agotador, casi interminable, para quien narra. En la segunda estrofa, el paisaje (los pinos) parece observar el paso del tren mientras quien viaja, vencido por el cansancio, finalmente se queda dormido antes de llegar. El verso propio debe usar una exageración evidente e intencionada sobre el hambre (por ejemplo, "tenía tanta hambre que me habría comido una vaca entera"). | OA N°5 — comparación, interpretación y creación de hipérbole |
+| 9 | **a)** Década de 1980, Región de Antofagasta. | OA N°6 — información explícita |
+| 10 | **a)** Que es una tecnología reconocida y utilizada en distintas partes del mundo. | OA N°6 — inferencia a partir de información implícita |
+| 11 | (120 + 310 + 280 + 90) ÷ 4 = 800 ÷ 4 = **200 litros** promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
+| 12 | **Falso.** Es al revés: el Texto B explica el principio físico de los atrapanieblas, y el Texto A describe el impacto social en la comunidad de Alto Hospicio. | OA N°6 — comparación de información entre dos textos |
+| 13 | Ambos textos comparten el tema de los atrapanieblas, mencionan la camanchaca como fuente de agua y coinciden en que es una tecnología valiosa pero no reemplaza completamente el agua potable. La opinión fundamentada debe apoyarse en al menos un dato de cada texto (por ejemplo, el beneficio social comprobado del Texto A y el respaldo científico e histórico del Texto B) para argumentar si convendría aplicar la tecnología en otras zonas costeras con niebla frecuente. | OA N°6 — comparación de fuentes y opinión fundamentada |
+| 14 | **b)** La Municipalidad de Ñuñoa (Departamento de Movilidad), tal como se indica al final del comunicado. | OA N°7 — emisor |
+| 15 | **b)** Los comerciantes y los ciclistas tienen opiniones distintas sobre la obra. | OA N°7 — información explícita en textos comparados |
+| 16 | Ninguna de las dos fuentes entrega una cifra exacta o verificable sobre cuántos comerciantes vieron bajar sus ventas; la Fuente 2 solo menciona que "varios comerciantes" se quejan, sin precisar un número. Para conseguir esa información habría que consultar directamente a la asociación de comerciantes o hacer una encuesta en el sector. | OA N°7 — suficiencia de la información |
+| 17 | La Fuente 1 tiene el propósito de informar destacando positivamente una obra realizada por la propia Municipalidad, mientras que la Fuente 2 tiene el propósito de informar sobre las distintas reacciones de la comunidad, incluyendo posturas críticas. Debe concluir que conocer el propósito del emisor ayuda a entender por qué un texto puede mostrar solo una parte de la realidad, y por eso es importante no aceptar automáticamente su información como completa u objetiva. | OA N°7 — propósito del emisor |
+| 18 | **a)** Debe resolverse de alguna manera a lo largo de la historia. | OA N°14 — estructura del conflicto en una narración |
+| 19 | **a)** No se sabe con claridad si "ella" se refiere a Camila o a Fernanda, porque ambas son mencionadas y el pronombre se repite sin distinción. | OA N°14 — identificación de referentes ambiguos |
+| 20 | Cualquier inicio bien construido, sin ambigüedad y con al menos un conector, por ejemplo: "Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola." | OA N°14 — escritura del inicio de una narración |
+| 21 | El diálogo debe plantear un conflicto evidente al inicio y mostrar cómo se resuelve a lo largo de las líneas; debe quedar explícito en todo momento quién habla (por nombre o descripción clara, sin pronombres ambiguos); y debe incluir al menos una descripción breve del ambiente o de un personaje. | OA N°14 — diálogo con conflicto resuelto y referentes claros |
+| 22 | **b)** El impacto social de los atrapanieblas en la comunidad de Alto Hospicio (familias que antes dependían de camiones aljibe hoy riegan huertos comunitarios). | OA N°15 — idea central por párrafo |
+| 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. | OA N°15 — función de las fuentes |
+| 24 | Desarrollar una idea central por párrafo ayuda a que el lector siga con claridad el hilo del texto y distinga fácilmente los distintos aspectos del tema; mezclar varias ideas en un mismo párrafo puede confundir al lector y hacer que la información parezca desordenada o difícil de resumir. | OA N°15 — estructura y organización del artículo informativo |
+| 25 | La oración inicial debe presentar con claridad el tema de separar la basura en el hogar; las dos ideas centrales deben ser distintas entre sí (por ejemplo, "los distintos tipos de contenedores según el material" y "el beneficio ambiental de reducir la basura que llega a los vertederos"), cada una con al menos un conector; y debe incluir al menos dos fuentes razonables (por ejemplo, páginas web de instituciones oficiales como el Ministerio del Medio Ambiente, o material educativo de la municipalidad). | OA N°15 — planificación de un artículo informativo con fuentes |
 
-### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 13 × 1 punto = 13 puntos
-- **Total preguntas desarrollo breve:** 6 × 2 puntos = 12 puntos  
-- **Total preguntas desarrollo extenso:** 6 × 3 puntos = 18 puntos
-- **Puntaje total de la prueba: 43 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 13 | 1, 5, 6, 9, 10, 14, 15, 18, 19, 22, 23 |
-| Verdadero o Falso (con justificación) | 2 | 3, 12 |
-| Desarrollo breve | 6 | 2, 7, 11, 16, 20, 24 |
-| Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
-| **Total** | **25** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 43 (100%) | 7,0 |
-| 39 (90%) | 6,3 |
-| 34 (80%) | 5,6 |
-| 30 (70%) | 4,9 |
-| 26 (60% — exigencia mínima) | **4,0** |
-| 22 (50%) | 3,5 |
-| 17 (40%) | 3,0 |
-| 13 (30%) | 2,5 |
-| 9 (20%) | 2,0 |
-| 4 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Distribución de puntaje sugerida por Objetivo de Aprendizaje
+### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
 | Objetivo de Aprendizaje | N° de preguntas | Preguntas |
 |---|---|---|

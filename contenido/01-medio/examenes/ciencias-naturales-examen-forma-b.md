@@ -275,59 +275,37 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 
 ---
 
-## PAUTA DE CORRECCIÓN — Ciencias Naturales — 1° Medio — Forma B
+## PAUTA DE CORRECCIÓN
 
-| N° | Tipo | Clave / Respuesta esperada | OA | Puntaje |
-|----|------|----------------------------|-----|---------|
-[MANTENER FILAS ORIGINALES DE PAUTA — REVISAR MANUALMENTE]
+| N° | Tipo | Clave / respuesta esperada | OA |
+|----|------|------------------------------|----|
+| 1 | Alternativas | b) El brazo humano y el ala de un murciélago | OA 2 |
+| 2 | Alternativas | b) La embriología | OA 2 |
+| 3 | Desarrollo extenso | En la población original existía variación (algunas bacterias ya eran resistentes al antibiótico por azar); al aplicar el antibiótico, las bacterias no resistentes murieron y las resistentes sobrevivieron y se reprodujeron (adaptación y selección); dado que las bacterias se reproducen en gran cantidad (sobreproducción), la proporción de bacterias resistentes aumentó rápidamente en la población. | OA 2 |
+| 4 | Alternativas | c) Parasitismo | OA 4 |
+| 5 | Alternativas | c) Una comunidad | OA 4 |
+| 6 | Desarrollo extenso | Al eliminar al depredador, disminuye la presión de depredación sobre la presa, por lo que su población crece sin control; al haber más individuos de esa presa, aumenta el consumo de la vegetación de la que se alimenta, lo que reduce su disponibilidad en el ecosistema. Este tipo de efecto en cadena, donde la pérdida de un depredador altera indirectamente a otros niveles del ecosistema, se conoce como cascada trófica. | OA 4 |
+| 7 | Alternativas | b) La fijación de nitrógeno por bacterias | OA 6 |
+| 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
+| 9 | Desarrollo breve | Este fenómeno corresponde a la bioacumulación (o biomagnificación): el pesticida ingresa al ecosistema en baja concentración, pero al pasar de un nivel trófico a otro, la concentración del contaminante aumenta, porque cada depredador consume gran cantidad de biomasa de niveles inferiores, acumulando en su propio cuerpo el contaminante presente en todas esas presas. Los depredadores tope, como las aves rapaces, suelen ser los más afectados por estar en los niveles tróficos más altos. | OA 6 |
+| 10 | Alternativas | c) El petróleo | OA 8 |
+| 11 | Desarrollo extenso | Ventaja: permite disponer de agua durante los periodos de sequía, reduciendo el impacto sobre la agricultura y el consumo humano. Limitación: requiere que exista suficiente agua durante la temporada de lluvias para llenar el embalse (lo que puede no ocurrir si la sequía es muy prolongada), además de un costo de construcción y mantención, y posibles efectos sobre el ecosistema del río intervenido. | OA 8 |
+| 12 | Alternativas | b) La superficie debe estar suficientemente lejos de la persona | OA 10 |
+| 13 | Desarrollo extenso | Distancia recorrida total = 1.500 m/s × 4 s = 6.000 m. Como el sonido recorre esa distancia dos veces (ida hasta el fondo marino y vuelta hasta el barco), la profundidad es 6.000 m ÷ 2 = 3.000 m. Es necesario considerar el recorrido de ida y vuelta porque el tiempo medido corresponde al viaje completo del pulso de sonar, no solo al trayecto de ida. | OA 10 |
+| 14 | Alternativas | b) El modelo ondulatorio | OA 11 |
+| 15 | Alternativas | b) Espejo cóncavo | OA 11 |
+| 16 | Desarrollo breve | Si la mayoría de las galaxias lejanas muestran un corrimiento de su luz hacia el rojo (menor frecuencia), esto indica, por efecto Doppler, que se están alejando de la Tierra; que esto ocurra de forma generalizada en todas direcciones sugiere que el espacio entre las galaxias se está expandiendo, lo que constituye evidencia observacional a favor de la expansión del universo. | OA 11 |
+| 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra | OA 14 |
+| 18 | Desarrollo breve | Marte se encuentra más lejos del Sol que la Tierra, por lo que su período orbital es mayor (aproximadamente 687 días terrestres, frente a los 365 días de la Tierra); en general, mientras mayor es la distancia de un planeta al Sol, mayor es su período orbital, ya que debe recorrer una órbita más grande y, además, se mueve más lentamente. | OA 14 |
+| 19 | Alternativas | b) El radiotelescopio | OA 16 |
+| 20 | Desarrollo breve | Los pueblos originarios desarrollaron, mediante la observación sistemática del cielo a lo largo de generaciones y sin instrumentos modernos, conocimientos astronómicos que les permitieron establecer calendarios agrícolas y ceremoniales; estudiar estos saberes permite valorar formas de conocimiento distintas a la ciencia occidental y reconocer el aporte cultural de estos pueblos a la comprensión del cielo. | OA 16 |
+| 21 | Alternativas | b) Descomposición | OA 17 |
+| 22 | Alternativas | b) Absorbe calor del entorno (es endotérmica) | OA 17 |
+| 23 | Desarrollo extenso | El enunciado es incorrecto: aunque la combustión es un tipo de reacción química natural, la combustión de combustibles fósiles a gran escala (en vehículos, industrias, centrales termoeléctricas) libera grandes cantidades de dióxido de carbono y otros contaminantes a la atmósfera, contribuyendo al efecto invernadero, al cambio climático y a la contaminación del aire, con consecuencias negativas para los ecosistemas y la salud humana. | OA 17 |
+| 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia | OA 20 |
+| 25 | Desarrollo extenso | Se consumieron 18 moles de CO₂ (3 × 6) y se liberaron 18 moles de O₂ (3 × 6). Según la ecuación balanceada, por cada molécula (o mol) de glucosa producida se consumen 6 moléculas (o moles) de dióxido de carbono atmosférico; esto significa que, a mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema, mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica. | OA 20 |
 
 ### Resumen de puntaje
-
-- **Total preguntas de alternativas:** 7 × 1 punto = 7 puntos
-- **Total preguntas desarrollo breve:** 1 × 2 puntos = 2 puntos  
-- **Total preguntas desarrollo extenso:** 4 × 3 puntos = 12 puntos
-- **Puntaje total de la prueba: 21 puntos**
-
-### Distribución por OA
-
-| OA | N° de preguntas | Preguntas |
-|----|----------------|-----------|
-| OA 1 | 5 | 1, 2, 3, 4, 5 |
-| OA 2 | 5 | 6, 7, 8, 9, 10 |}
-
-### Distribución por tipo de pregunta
-
-| Tipo de pregunta | Cantidad | Preguntas |
-|------------------|----------|-----------|
-| Alternativas (4 opciones) | 7 | 1, 3, 4, 8, 9, 10, 11 |
-| Verdadero o Falso (con justificación) | 0 | — |
-| Desarrollo breve | 1 | 5 |
-| Desarrollo extenso | 4 | 2, 6, 7, 12 |
-| **Total** | **12** | |
-
-### Escala de conversión a nota (referencial)
-
-| Puntaje | Nota (escala 1,0–7,0) |
-|---------|------------------------|
-| 21 (100%) | 7,0 |
-| 19 (90%) | 6,3 |
-| 17 (80%) | 5,6 |
-| 15 (70%) | 4,9 |
-| 13 (60% — exigencia mínima) | **4,0** |
-| 10 (50%) | 3,5 |
-| 8 (40%) | 3,0 |
-| 6 (30%) | 2,5 |
-| 4 (20%) | 2,0 |
-| 2 (10%) | 1,5 |
-| 0 | 1,0 |
-
-> **Nota:** Exigencia de aprobación 60% (nota 4,0), en línea con criterio Mineduc para Exámenes Libres. Ajustar según escala oficial vigente al momento de rendir.
-
----
-
-> **Nota sobre esta B**
-
-Esta versión evalúa exactamente los mismos OA y la misma distribución por eje que la A (contenido/{curso}/{asignatura}-examen-forma-A.md), pero con preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos, para permitir su uso como segunda instancia de evaluación o como prueba de rendición paralela.## Resumen de puntaje
 
 - **15 preguntas de alternativas** (N° 1, 2, 4, 5, 7, 8, 10, 12, 14, 15, 17, 19, 21, 22, 24) × 1 punto = 15 puntos
 - **4 preguntas de desarrollo breve** (N° 9, 16, 18, 20) × 2 puntos = 8 puntos
