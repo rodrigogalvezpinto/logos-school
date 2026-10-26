@@ -1,6 +1,47 @@
 import { Pipe, PipeTransform, inject } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { marked } from 'marked';
+import katex from 'katex';
+
+// Delimitadores matemáticos para KaTeX (compatibles con precios en pesos chilenos $15.000 sin colisión)
+const RE_MATH_BLOCK_DOLLAR = /\$\$([\s\S]+?)\$\$/g;
+const RE_MATH_BLOCK_BRACKET = /\\\[([\s\S]+?)\\\]/g;
+const RE_MATH_BLOCK_TAG = /\[math:block\]([\s\S]+?)\[\/math:block\]/g;
+
+const RE_MATH_INLINE_PAREN = /\\\(([\s\S]+?)\\\)/g;
+const RE_MATH_INLINE_TAG = /\[math\]([\s\S]+?)\[\/math\]/g;
+const RE_MATH_FRAC_TAG = /\[frac:\s*([^/\]]+)\s*\/\s*([^\]]+)\]/g;
+
+function renderizarMatematica(texto: string): string {
+  // 1. Fórmulas en bloque (display mode)
+  let res = texto.replace(RE_MATH_BLOCK_DOLLAR, (_, formula) => {
+    return katex.renderToString(formula.trim(), { displayMode: true, throwOnError: false });
+  });
+  res = res.replace(RE_MATH_BLOCK_BRACKET, (_, formula) => {
+    return katex.renderToString(formula.trim(), { displayMode: true, throwOnError: false });
+  });
+  res = res.replace(RE_MATH_BLOCK_TAG, (_, formula) => {
+    return katex.renderToString(formula.trim(), { displayMode: true, throwOnError: false });
+  });
+
+  // 2. Fórmulas en línea (inline mode)
+  res = res.replace(RE_MATH_INLINE_PAREN, (_, formula) => {
+    return katex.renderToString(formula.trim(), { displayMode: false, throwOnError: false });
+  });
+  res = res.replace(RE_MATH_INLINE_TAG, (_, formula) => {
+    return katex.renderToString(formula.trim(), { displayMode: false, throwOnError: false });
+  });
+
+  // 3. Shorthand accesible para fracciones: [frac: numerador / denominador]
+  res = res.replace(RE_MATH_FRAC_TAG, (_, num, den) => {
+    return katex.renderToString(`\\frac{${num.trim()}}{${den.trim()}}`, {
+      displayMode: false,
+      throwOnError: false,
+    });
+  });
+
+  return res;
+}
 
 // El contenido de las guías sigue siempre el mismo patrón de autoría (ver
 // planificacion/04-modo-de-operacion.md y contenido/*.md): un párrafo en negrita
@@ -97,7 +138,8 @@ export class MarkdownPipe implements PipeTransform {
 
   transform(texto: string | null | undefined): SafeHtml {
     if (!texto) return '';
-    const html = marked.parse(texto, { async: false }) as string;
+    const conMatematica = renderizarMatematica(texto);
+    const html = marked.parse(conMatematica, { async: false }) as string;
     return this.sanitizer.bypassSecurityTrustHtml(realzarGuia(html));
   }
 }

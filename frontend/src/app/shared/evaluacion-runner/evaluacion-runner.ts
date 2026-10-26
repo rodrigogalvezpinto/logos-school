@@ -132,19 +132,28 @@ export interface PreguntaRunner {
               <div class="feedback feedback--revelado">
                 @if (preguntaActual.tipo === 'alternativas' || preguntaActual.tipo === 'verdadero_falso') {
                   @if (esCorrectaEnAutoevaluacion(preguntaActual)) {
-                    <p class="feedback__exito">✓ ¡Correcto! {{ preguntaActual.retroalimentacion }}</p>
+                    <div class="feedback__exito">
+                      <p class="feedback__tag-ok">✓ ¡Correcto!</p>
+                      @if (preguntaActual.retroalimentacion) {
+                        <div class="feedback__cuerpo" [innerHTML]="preguntaActual.retroalimentacion | markdown"></div>
+                      }
+                    </div>
                   } @else {
-                    <p class="feedback__atencion">
-                      <strong>Respuesta correcta: {{ preguntaActual.respuesta_correcta }}.</strong>
-                      {{ preguntaActual.retroalimentacion }}
-                    </p>
+                    <div class="feedback__atencion">
+                      <p><strong>Respuesta correcta: {{ preguntaActual.respuesta_correcta }}.</strong></p>
+                      @if (preguntaActual.retroalimentacion) {
+                        <div class="feedback__cuerpo" [innerHTML]="preguntaActual.retroalimentacion | markdown"></div>
+                      }
+                    </div>
                   }
                 } @else {
                   <!-- Pregunta abierta / desarrollo: No juzga como incorrecta; ofrece solución orientativa -->
                   <div class="feedback__orientativo">
                     <p class="feedback__titulo">Pauta de autoevaluación:</p>
                     <p><strong>Idea clave esperada:</strong> {{ preguntaActual.respuesta_correcta }}</p>
-                    <p class="feedback__retro">{{ preguntaActual.retroalimentacion }}</p>
+                    @if (preguntaActual.retroalimentacion) {
+                      <div class="feedback__retro" [innerHTML]="preguntaActual.retroalimentacion | markdown"></div>
+                    }
                   </div>
                 }
               </div>
@@ -267,7 +276,7 @@ export interface PreguntaRunner {
                 @if (revisionAbierta() === d.pregunta_id) {
                   <tr class="resultado__revision-detalle">
                     <td colspan="3">
-                      <p class="resultado__enunciado">{{ d.enunciado }}</p>
+                      <div class="resultado__enunciado" [innerHTML]="d.enunciado | markdown"></div>
                       <p>Tu respuesta: <strong>{{ d.respuesta_alumno || '(en blanco)' }}</strong></p>
                       @if (d.respuesta_correcta) {
                         <p>Respuesta correcta: <strong>{{ d.respuesta_correcta }}</strong></p>
