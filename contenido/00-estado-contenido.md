@@ -1,7 +1,27 @@
 ---
 título: Estado de avance del contenido de estudio
-última actualización: 2026-08-10
+última actualización: 2026-10-26
 ---
+
+> **Estado real verificado en base de datos (2026-10-26, `logos_qa`):** 12 cursos con
+> guía de estudio y banco de autoevaluación; **408 OA** oficiales; **6.130 preguntas**;
+> **156 pruebas de unidad**; **50 conjuntos de examen simulacro**. La auditoría maestra
+> de octubre 2026 (ver `../AUDITORIA_MAESTRA.md`) corrigió claves, pautas, sesgos y
+> erratas en los 50 exámenes; los validadores de contenido dan 0 hallazgos.
+>
+> **Exámenes simulacro — estado real:** Régimen A (1°-4° básico) tiene **Forma A y B**
+> integradas (8 archivos, 2 por curso). Régimen B y C (5° básico-4° medio) tienen
+> **solo Forma B** por asignatura (42 archivos); la **Forma A de esos regímenes no está
+> construida**.
+>
+> **Nota de diseño:** las pruebas de unidad se guardan con `nivel_id = NULL` y
+> `asignatura_id` asignada; el frontend las lista por asignatura
+> (`conjuntos/asignatura/:id`). Los exámenes integrados de Régimen A se listan por nivel
+> (`conjuntos/nivel/:id`). No "normalizar" ese `nivel_id`: rompería el contrato de
+> listados.
+>
+> La sección "Pruebas por materia" de más abajo es **histórica**: esas 58 pruebas fueron
+> reemplazadas por las 156 pruebas de unidad el 2026-08-11 (ver el rediseño siguiente).
 
 Ver criterio de "materia lista" en `../planificacion/04-modo-de-operacion.md`.
 
@@ -71,7 +91,11 @@ por asignatura, requieren más cobertura). Se engrosaron todas a **15 preguntas 
 total de preguntas del Régimen C subió de 449 a aproximadamente 555 (pendiente de recalcular
 el total exacto consolidado).
 
-## Pruebas por materia (formato real Mineduc: alternativas + preguntas abiertas + pauta de corrección)
+## Pruebas por materia (formato real Mineduc: alternativas + preguntas abiertas + pauta de corrección) — HISTÓRICO
+
+> **Histórico:** esta sección describe las 58 "pruebas por materia" originales, que fueron
+> reemplazadas por las 156 pruebas de unidad el 2026-08-11. Se conserva como registro; el
+> estado vigente es el de la sección de rediseño al inicio del documento.
 
 Investigación en mineduc.cl confirmó el formato real: mezcla de alternativas (4 opciones) y
 preguntas abiertas, con estímulo/contexto y una Pauta de Corrección final. Se está
@@ -123,12 +147,13 @@ asignaturas, tal como especifica el temario oficial), 2 formas por curso para va
 | 3° básico | ✅ listo — Forma A y B (20 preg. c/u) |
 | 4° básico (piloto) | ✅ listo — Forma A y B (20 preg. c/u) |
 
-**✅ Régimen B y C:** el examen real de estos cursos ya es separado por asignatura (25
-preguntas c/u) — exactamente el formato de las 42 pruebas por materia ya construidas
-(Régimen B: 30, Régimen C: 12), reclasificadas como **"Forma A"**. **✅ Forma B completa
-(2026-08-10):** 42 archivos adicionales (Régimen B: 30, Régimen C: 12), cada uno con 25
-preguntas nuevas (sin repetir ninguna de la Forma A), mismo formato y distribución por OA,
-en `contenido/{curso}/examenes/{asignatura}-examen-forma-b.md`.
+**⚠️ Régimen B y C — estado real:** el examen real de estos cursos es separado por
+asignatura (25 preguntas c/u). En el producto existe **solo la Forma B** por asignatura:
+42 archivos (Régimen B: 30, Régimen C: 12) en
+`contenido/{curso}/examenes/{asignatura}-examen-forma-b.md`. Las antiguas "pruebas por
+materia" que se habían pensado como Forma A fueron **reemplazadas por las pruebas de
+unidad** (2026-08-11) y ese reemplazo no generó una Forma A de examen: **la Forma A de
+Régimen B y C sigue pendiente de construir**.
 
 ## Auditoría pedagógica (2026-08-11) — ¿el material prepara realmente para aprobar?
 
@@ -156,14 +181,14 @@ por régimen: **sí prepara**, con hallazgos concretos ya corregidos y algunos p
 ---
 
 # 🎓 PROYECTO COMPLETO: los 12 cursos tienen contenido de estudio íntegro (guía + banco de
-preguntas + pruebas por materia + exámenes simulacro, 2 formas por asignatura/curso)
+preguntas + pruebas de unidad + exámenes simulacro)
 
-| Régimen | Cursos | Preguntas (banco) | OA cubiertos | Exámenes simulacro (Forma A + B) |
+| Régimen | Cursos | Preguntas (banco) | OA cubiertos | Exámenes simulacro |
 |---|---|---|---|---|
 | A — prueba integrada | 1°-4° básico | 771 | 121/121 | 8 (2 formas × 4 cursos, integrado) |
-| B — prueba separada + Inglés | 5° básico - 2° medio | 1.697 | 246/246 | 60 (30 Forma A + 30 Forma B) |
-| C — Plan Común 193/2019 | 3°-4° medio | 449 | 41/41 | 24 (12 Forma A + 12 Forma B) |
-| **Total** | **12/12 cursos** | **2.917** | **408/408** | **92 archivos de examen** |
+| B — prueba separada + Inglés | 5° básico - 2° medio | 1.697 | 246/246 | 30 (solo Forma B) |
+| C — Plan Común 193/2019 | 3°-4° medio | 449 | 41/41 | 12 (solo Forma B) |
+| **Total** | **12/12 cursos** | **2.917** | **408/408** | **50 archivos de examen** |
 
 Los 408 OA cubiertos coinciden exactamente con el total de Objetivos de Aprendizaje extraídos
 en el análisis inicial de los 12 temarios oficiales (`Temarios/analisis/00-resumen-general.md`)

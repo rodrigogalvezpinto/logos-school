@@ -23,7 +23,14 @@ autoevaluación (2.917 preguntas, 408/408 OA oficiales), **156 pruebas de unidad
 por edad (6-15 preguntas según ciclo, ver `planificacion/08-diseno-pruebas-vs-examenes.md`) y
 **exámenes tipo simulacro** que imitan exactamente el formato real de Mineduc (20 preguntas
 integradas en 1°-4° básico, 25 por asignatura desde 5° básico — confirmado en los 12 temarios
-oficiales, 2 formas por curso/asignatura).
+oficiales). **Formas:** 1°-4° básico tienen Forma A y B integradas; desde 5° básico existe
+hoy **solo la Forma B** por asignatura — la Forma A de Régimen B/C está pendiente de construir.
+
+> **Actualización 2026-10-26:** se integró la auditoría maestra (`AUDITORIA_MAESTRA.md`) en
+> la rama QA — claves, pautas, sesgos y erratas de los 50 exámenes corregidos, validadores
+> de contenido en 0 hallazgos — y se recuperó el OA sin número oficial de 4° medio
+> Educación Ciudadana (fix del parser + `backend/scripts/backfill_oas_faltantes.py`),
+> dejando la base en **408/408 OA**.
 
 Sobre ese contenido ya se construyó la aplicación completa para el curso piloto (4° básico):
 backend FastAPI en arquitectura hexagonal + frontend Angular, cubriendo estudiar y rendir
@@ -35,10 +42,12 @@ habilitación progresiva (Fase 1.3), el rol Profesor con Curso/Sección (Etapa 2
 detalle por pregunta y "Reportar error", simulacro con fecha programada por el Admin,
 gamificación (XP/nivel/avatar, página "Mis Logros"), onboarding con checklist de primera
 sesión, check-in emocional diario, descarga de guía en PDF, control de calidad de contenido
-(`scripts/validar_calidad_contenido.py`, corrió sobre los 407 OA reales), certificado de
+(`scripts/validar_calidad_contenido.py`, corrió sobre los 408 OA reales), certificado de
 alumno regular en PDF, historial de pagos del Apoderado, agregar alumno inline, y vista
 semanal/mensual del plan de estudio. Todo sin dependencias externas (Fase 1 se acotó a propósito
-a eso), con backend 326/326 tests y frontend 69/69 Playwright en verde. Ver
+a eso), con **501 tests de backend** (500 + regresión del parser) y **672 pruebas E2E** en
+verde más el spec del Profesor re-ejecutado 12/12 en los 3 navegadores (medido 2026-10-26).
+Ver
 `planificacion/03-roadmap-etapas.md` y `planificacion/22-analisis-de-brechas.md` para el
 detalle verificado de qué falta (sobre todo: desplegar a Neon/Render/Cloudflare Pages,
 credenciales reales de Google/Resend, pasarela de pago, Turnstile — nada de esto bloquea
