@@ -5,7 +5,7 @@ tipo: Examen de práctica (formato Examen Libre Mineduc) — Forma B
 duración: 90 minutos
 n_preguntas: 25
 oa_evaluados: OA N°1, OA N°3, OA N°4, OA N°6
-basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Segunda forma (Forma B), distinta de /contenido/03-medio/pruebas/filosofia-prueba.md (Forma A)
+basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Segunda forma (Forma B), distinta de contenido/03-medio/filosofia.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -30,7 +30,7 @@ basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preg
 3. En las preguntas de desarrollo, fundamenta tu respuesta con argumentos: una afirmación sin razones no obtiene puntaje completo, aunque la conclusión sea razonable.
 4. Algunas preguntas se organizan en torno a un **texto o situación de estímulo**: léelo antes de responder las preguntas asociadas.
 5. Dispones de 90 minutos. No se permite el uso de materiales de apoyo.
-6. No está permitido copiar preguntas ni respuestas de otros exámenes; este instrumento es de práctica y sus contenidos son originales. Esta es la **Forma B**: un segundo instrumento equivalente en formato pero con preguntas distintas a la Forma A.
+6. No está permitido copiar preguntas ni respuestas de otros exámenes; este instrumento es de práctica y sus contenidos son originales. Esta es la **Forma B**: un segundo instrumento equivalente en formato pero con preguntas propias.
 
 ---
 
@@ -40,8 +40,8 @@ basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preg
 
 **Pregunta 1.** *(Selección múltiple)* ¿Cuál de las siguientes situaciones ejemplifica mejor la característica del quehacer filosófico de "partir de la experiencia cotidiana"?
 
-a) Memorizar una lista de filósofos griegos y sus fechas de nacimiento.
-b) A partir de la extrañeza de no reconocerse en una foto de la infancia, preguntarse qué hace que alguien siga "siendo la misma persona" con el paso del tiempo.
+a) A partir de la extrañeza de no reconocerse en una foto de la infancia, preguntarse qué hace que alguien siga "siendo la misma persona" con el paso del tiempo.
+b) Memorizar una lista de filósofos griegos y sus fechas de nacimiento.
 c) Aceptar sin discusión lo que dice un libro de historia sobre la fotografía antigua.
 d) Calcular cuántos años han pasado desde que se tomó la fotografía.
 
@@ -64,9 +64,9 @@ d) La diferencia es que el filósofo siempre llega a una respuesta definitiva y 
 **Pregunta 5.** *(Selección múltiple)* ¿Cuál de las siguientes preguntas corresponde a una de las "grandes preguntas" propias del quehacer filosófico?
 
 a) "¿Cuántas fotografías tiene guardadas esta familia?"
-b) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un propósito o una función?"
+b) "¿Qué marca de cámara era más común hace diez años?"
 c) "¿A qué edad se tomó exactamente la fotografía?"
-d) "¿Qué marca de cámara era más común hace diez años?"
+d) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un propósito o una función?"
 
 **Pregunta 6.** *(Desarrollo extenso — análisis de argumento/dilema, 5 pts)* Evalúa la respuesta del hermano menor: "da lo mismo, una foto es solo una foto, no hay nada que pensar ahí". Considera en tu respuesta la idea del **asombro** como origen de la filosofía y el papel de la **clarificación de conceptos** (en este caso, el concepto de "identidad personal") en el quehacer filosófico.
 
@@ -78,8 +78,8 @@ d) "¿Qué marca de cámara era más común hace diez años?"
 
 **Pregunta 7.** *(Selección múltiple)* ¿Cuál de las siguientes formulaciones expresa mejor la **pregunta ontológica general** que plantea el caso del club de fútbol?
 
-a) ¿Cuántos hinchas asisten en promedio a los partidos del club?
-b) ¿Qué hace que algo siga siendo "lo mismo" a lo largo del tiempo, incluso cuando han cambiado todas o casi todas sus partes y personas?
+a) ¿Qué hace que algo siga siendo "lo mismo" a lo largo del tiempo, incluso cuando han cambiado todas o casi todas sus partes y personas?
+b) ¿Cuántos hinchas asisten en promedio a los partidos del club?
 c) ¿En qué año se fundó exactamente el club?
 d) ¿Cuál es el reglamento oficial de cambio de nombre de un club deportivo?
 
@@ -93,9 +93,9 @@ d) Nada de lo que percibimos es real; todo es una ilusión total sin ningún fun
 **Pregunta 9.** *(Selección múltiple)* Clasifica la siguiente afirmación según la teoría ontológica que representa: "El cariño que los hinchas sienten por el club no es más que actividad química y eléctrica en el cerebro; no hay ningún 'algo más' aparte de esos procesos físicos."
 
 a) Idealismo.
-b) Materialismo.
+b) Escepticismo.
 c) Dualismo.
-d) Escepticismo.
+d) Materialismo.
 
 **Pregunta 10.** *(Desarrollo breve — 3 pts)* Muchas personas sostienen que los números y las verdades matemáticas (por ejemplo, que 2+2=4) "existen" de alguna manera, aunque no se puedan tocar ni ver como una silla. Explica, en tus palabras, por qué esta es una pregunta ontológica legítima y no una pregunta sin sentido, y da tu propia postura fundamentada.
 
@@ -193,19 +193,29 @@ d) Experimento mental y fenomenología.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 ## Tabla de claves — preguntas de selección múltiple
 
 | N° | Clave | OA | Puntaje |
 |:---:|:---:|:---:|:---:|
-| 1 | b | OA1 | 1 |
+| 1 | a | OA1 | 1 |
 | 2 | c | OA1 | 1 |
 | 3 | c | OA1 | 1 |
-| 5 | b | OA1 | 1 |
-| 7 | b | OA3 | 1 |
+| 5 | d | OA1 | 1 |
+| 7 | a | OA3 | 1 |
 | 8 | c | OA3 | 1 |
-| 9 | b | OA3 | 1 |
+| 9 | d | OA3 | 1 |
 | 11 | b | OA3 | 1 |
 | 13 | b | OA4 | 1 |
 | 14 | c | OA4 | 1 |
@@ -249,3 +259,17 @@ d) Experimento mental y fenomenología.
 | **Total** | **49 pts** |
 
 > Como referencia interna de práctica (no corresponde a la escala oficial de logro del Mineduc, que usa niveles de desempeño y no nota): 60% de exigencia equivale a 29/49 puntos para el logro mínimo satisfactorio.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6 | 4 | 2 |
+| OA 3 | 7, 8, 9, 10, 11, 12 | 4 | 2 |
+| OA 4 | 13, 14, 15, 16, 17, 18 | 4 | 2 |
+| OA 6 | 19, 20, 21, 22, 23, 24, 25 | 4 | 3 |
+| **Total** | **25 preguntas** | **16** | **9** |

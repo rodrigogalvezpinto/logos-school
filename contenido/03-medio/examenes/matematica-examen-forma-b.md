@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/UCE) — basado en el banco de preguntas de /03-medio/matematica.md
-relación con otras formas: segunda versión del examen (Forma B), con preguntas distintas a la Forma A (/03-medio/pruebas/matematica-prueba.md), misma estructura y nivel de exigencia
+relación con otras formas: segunda versión del examen (Forma B), con preguntas propias, misma estructura y nivel de exigencia
 última actualización: 2026-08-11
 ---
 
@@ -32,10 +32,10 @@ relación con otras formas: segunda versión del examen (Forma B), con preguntas
 
 **Pregunta 1 (alternativas).** El nivel de un sonido, en decibeles, se calcula como L = 10·log₁₀(I/I₀). Si la razón I/I₀ = 100, ¿cuál es el nivel L?
 
-a) 20 dB
+a) 200 dB
 b) 2 dB
 c) 100 dB
-d) 200 dB
+d) 20 dB
 
 ---
 
@@ -57,7 +57,13 @@ d) no se puede determinar sin conocer el valor inicial
 
 ---
 
-**Pregunta 4 (alternativas).** Una tabla registra el valor de un bien en el tiempo: t=0 → 100; t=1 → 150; t=2 → 200; t=3 → 250. ¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
+**Pregunta 4 (alternativas).** Una tabla registra el valor de un bien en el tiempo:
+
+| Tiempo (t) | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Valor | 100 | 150 | 200 | 250 |
+
+¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
 
 a) exponencial, porque los valores van en aumento
 b) lineal, porque la diferencia entre términos consecutivos es constante (siempre +50)
@@ -70,7 +76,13 @@ d) no se puede determinar con estos datos
 
 ---
 
-**Pregunta 6 (desarrollo).** Una colonia de pingüinos en la costa registra la siguiente población: t=0 → 80; t=1 → 96; t=2 → 115; t=3 → 138. ¿Corresponde este crecimiento a un modelo exponencial? Justifica calculando las razones entre términos consecutivos y, si corresponde, estima la tasa de crecimiento.
+**Pregunta 6 (desarrollo).** Una colonia de pingüinos en la costa registra la siguiente población:
+
+| Tiempo (t) | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Población | 80 | 96 | 115 | 138 |
+
+¿Corresponde este crecimiento a un modelo exponencial? Justifica calculando las razones entre términos consecutivos y, si corresponde, estima la tasa de crecimiento.
 
 ---
 
@@ -86,19 +98,19 @@ d) no se puede determinar con estos datos
 
 **Pregunta 9 (alternativas).** Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?
 
-a) 130°
+a) 260°
 b) 65°
-c) 260°
+c) 130°
 d) 50°
 
 ---
 
 **Pregunta 10 (alternativas).** Un ángulo inscrito mide 35°. ¿Cuánto mide el arco que subtiende?
 
-a) 70°
+a) 140°
 b) 35°
 c) 17,5°
-d) 140°
+d) 70°
 
 ---
 
@@ -197,11 +209,21 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
+| 1 | d) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
 | 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
 | 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero | OA 3 | Álgebra y Funciones |
 | 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
@@ -209,8 +231,8 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 | 6 | Razones: 96/80=1,20; 115/96≈1,198; 138/115≈1,20. Como la razón es aprox. constante, **sí es crecimiento exponencial**, con b≈1,2 (**20% de crecimiento por período**) | OA 3 | Álgebra y Funciones |
 | 7 | (0,75)⁴ = 0,31640625. C(4) = 180×0,3164 ≈ **56,95 ≈ 57 mg**. Eliminado: 180−57=123 mg → 123/180 ≈ **68,3%** | OA 3 | Álgebra y Funciones |
 | 8 | (0,88)ᵗ=0,5 → t = log(0,5)/log(0,88) ≈ (−0,3010)/(−0,0555) ≈ **5,4 años** | OA 3 | Álgebra y Funciones |
-| 9 | a) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
-| 10 | a) 70° (35°×2) | OA 4 | Geometría |
+| 9 | c) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
+| 10 | d) 70° (35°×2) | OA 4 | Geometría |
 | 11 | a) 48° (96°÷2) | OA 4 | Geometría |
 | 12 | a) 60° (360°÷6) | OA 4 | Geometría |
 | 13 | ½(100°+40°) = 140°÷2 = **70°** | OA 4 | Geometría |
@@ -236,4 +258,19 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 | Probabilidad y Estadística | 8 | OA 2 |
 | **Total** | **25** | **3 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción de la Forma A y del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite el enunciado, los datos numéricos ni el contexto de la Forma A (/03-medio/pruebas/matematica-prueba.md); ambas formas evalúan los mismos 3 OA con situaciones distintas.
+**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite enunciados, datos numéricos ni contextos de otro instrumento del mismo curso; todas evalúan los mismos 3 OA con situaciones distintas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 18, 19, 20, 21, 22, 24 | 3 | 3 |
+| OA 3 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
+| OA 4 | 9, 10, 11, 12, 13, 14, 15, 16, 17 | 4 | 5 |
+| 1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈ 35,7%** | 23 | 0 | 1 |
+| lluvia) + P(no lluvia)×P(tarde\ | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **11** | **14** |

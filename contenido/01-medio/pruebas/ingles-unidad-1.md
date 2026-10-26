@@ -28,7 +28,7 @@ texto con calma antes de responder.
 2. *(Completar)* Complete: *"This text is ___ the history of chocolate. It
    explains ___ cacao was used by ancient civilizations."* (about / how)
 
-3. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 20% of
+3. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 6% to 9% of
    the world's oxygen and is home to millions of species."* Statement: *The
    Amazon rainforest has no impact on the world's oxygen.*
 
@@ -95,7 +95,7 @@ texto con calma antes de responder.
    proceso o modo.
 
 3. **False (Falso).**
-   El texto afirma explícitamente que produce aproximadamente el 20% del
+   El texto afirma explícitamente que produce aproximadamente el 6% al 9% del
    oxígeno mundial, lo contrario a la afirmación.
 
 4. **They landed on the Moon in 1969.**

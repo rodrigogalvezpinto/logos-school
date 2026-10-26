@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — basado en el banco de preguntas de /05-basico/matematica.md
-observación: Forma B — versión alternativa a la Forma A (/05-basico/pruebas/matematica-prueba.md), con preguntas distintas que cubren los mismos 17 OA
+observación: Forma B — versión alternativa del examen de práctica, con preguntas propias que cubren los mismos 17 OA
 última actualización: 2026-08-10
 ---
 
@@ -32,10 +32,10 @@ observación: Forma B — versión alternativa a la Forma A (/05-basico/pruebas/
 
 **Pregunta 1 (alternativas).** En el número **5.847.900**, ¿cuál es el valor posicional del dígito 8?
 
-a) Centena de mil
+a) Decena de millón
 b) Decena de mil
 c) Unidad de millón
-d) Decena de millón
+d) Centena de mil
 
 ---
 
@@ -45,9 +45,9 @@ d) Decena de millón
 
 **Pregunta 3 (alternativas).** Calcula: 52 × 38 = ?
 
-a) 1.976
+a) 2.016
 b) 1.896
-c) 2.016
+c) 1.976
 d) 1.886
 
 ---
@@ -179,7 +179,17 @@ d) 24,0
 
 ---
 
-**Pregunta 23 (desarrollo).** El promedio de ventas diarias de una feria fue $14.000 durante 4 días. Si el lunes vendió $12.000, el martes $16.000 y el miércoles $13.000, ¿cuánto vendió el jueves? Muestra tu desarrollo.
+**Pregunta 23 (desarrollo).** El promedio de ventas diarias de una feria fue $14.000 durante 4 días:
+
+| Día | Venta |
+|---|---|
+| Lunes | $12.000 |
+| Martes | $16.000 |
+| Miércoles | $13.000 |
+| Jueves | ? |
+| Promedio diario | $14.000 |
+
+¿Cuánto vendió el jueves? Muestra tu desarrollo.
 
 ---
 
@@ -205,13 +215,23 @@ Muestra tu desarrollo para la parte b).
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) Centena de mil | OA 1 | Números y Operaciones |
+| 1 | d) Centena de mil | OA 1 | Números y Operaciones |
 | 2 | 89.500 < 908.005 < 980.050 < 980.500; el mayor (980.500) = 900.000 + 80.000 + 500 | OA 1 | Números y Operaciones |
-| 3 | a) 1.976 | OA 3 | Números y Operaciones |
+| 3 | c) 1.976 | OA 3 | Números y Operaciones |
 | 4 | 18 × 26 = 468 productos | OA 3 | Números y Operaciones |
 | 5 | a) Cociente 37, resto 2 | OA 4 | Números y Operaciones |
 | 6 | 245 ÷ 9 = 27, resto 2 → se necesita un bus más: 28 buses | OA 4 | Números y Operaciones |
@@ -245,4 +265,31 @@ Muestra tu desarrollo para la parte b).
 | Medición y Datos y Probabilidades | 7 | OA 19, 22, 23, 24, 26 |
 | **Total** | **25** | **17 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la misma proporción y estructura curricular que la Forma A, con preguntas, contextos y valores numéricos completamente distintos.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la misma proporción y estructura curricular que el banco de contenido, con preguntas, contextos y valores numéricos completamente distintos.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 1 | 1 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 4 | 5, 6 | 1 | 1 |
+| OA 6 | 7, 8 | 1 | 1 |
+| OA 7 | 9, 10 | 1 | 1 |
+| OA 10 | 11 | 1 | 0 |
+| OA 11 | 12 | 0 | 1 |
+| OA 13 | 13 | 0 | 1 |
+| OA 14 | 14 | 1 | 0 |
+| OA 15 | 15, 16 | 1 | 1 |
+| OA 17 | 17 | 1 | 0 |
+| OA 18 | 18 | 0 | 1 |
+| OA 19 | 19 | 0 | 1 |
+| OA 22 | 20, 21 | 1 | 1 |
+| OA 23 | 22, 23 | 1 | 1 |
+| OA 24 | 24 | 1 | 0 |
+| OA 26 | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **12** | **13** |

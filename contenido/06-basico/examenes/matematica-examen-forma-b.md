@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — basado en el banco de preguntas de /06-basico/matematica.md
-relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y estructura de pregunta genuinamente distintos, no clones numéricos) de /06-basico/pruebas/matematica-prueba.md (Forma A)
+relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y estructura de pregunta genuinamente distintos, no clones numéricos) de /contenido/06-basico/matematica.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -32,10 +32,10 @@ relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y
 
 **Pregunta 1 (alternativas).** Una feria de emprendimiento escolar vendió 1.560 entradas a $3.500 cada una. Usando calculadora, ¿cuánto se recaudó en total?
 
-a) $5.460.000
+a) $5.460
 b) $546.000
 c) $54.600.000
-d) $5.460
+d) $5.460.000
 
 ---
 
@@ -67,9 +67,9 @@ d) 75/10
 
 **Pregunta 6 (alternativas).** Una entrada al museo cuesta $8.000 y los estudiantes tienen un descuento del 20%. ¿Cuánto dinero se descuenta?
 
-a) $1.600
+a) $2.000
 b) $800
-c) $2.000
+c) $1.600
 d) $400
 
 ---
@@ -80,10 +80,10 @@ d) $400
 
 **Pregunta 8 (alternativas).** ¿Cuál número mixto es equivalente a la fracción impropia 19/4?
 
-a) 4 3/4
+a) 4 1/4
 b) 5 1/4
 c) 3 3/4
-d) 4 1/4
+d) 4 3/4
 
 ---
 
@@ -93,8 +93,8 @@ d) 4 1/4
 
 **Pregunta 10 (alternativas).** Calcula: 5 2/3 + 1 5/6 = ?
 
-a) 7 1/2
-b) 6 7/9
+a) 6 7/9
+b) 7 1/2
 c) 7 1/9
 d) 6 1/2
 
@@ -179,7 +179,14 @@ d) 20
 
 ---
 
-**Pregunta 23 (alternativas).** Un gráfico circular muestra que el 44% de una encuesta a 250 personas prefiere como mascota al perro. ¿Cuántas personas prefieren al perro?
+**Pregunta 23 (alternativas).** Un gráfico circular muestra los resultados de una encuesta a 250 personas sobre su mascota preferida:
+
+| Preferencia | Porcentaje |
+|---|---|
+| Perro | 44% |
+| Otras mascotas | 56% |
+
+¿Cuántas personas prefieren al perro?
 
 a) 110
 b) 44
@@ -188,7 +195,14 @@ d) 140
 
 ---
 
-**Pregunta 24 (desarrollo).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) durante 4 trimestres. En el trimestre 1, Teatro tuvo 45 asistentes y Música 38. En el trimestre 2, Teatro tuvo 30 asistentes y Música 52. ¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre? Muestra tu desarrollo.
+**Pregunta 24 (desarrollo).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
+
+| Taller | Trimestre 1 | Trimestre 2 |
+|---|---|---|
+| Teatro | 45 | 30 |
+| Música | 38 | 52 |
+
+¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre? Muestra tu desarrollo.
 
 ---
 
@@ -196,20 +210,30 @@ d) 140
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) $5.460.000 (1.560 × 3.500 = 5.460.000) | OA 2 | Números y Operaciones |
+| 1 | d) $5.460.000 (1.560 × 3.500 = 5.460.000) | OA 2 | Números y Operaciones |
 | 2 | 39.500.000 ÷ 4.300.000 = 9,18... → 9 buses; 9 × 4.300.000 = 38.700.000; sobran $800.000 | OA 2 | Números y Operaciones |
 | 3 | b) 5:3 (20:12 dividido por 4) | OA 3 | Números y Operaciones |
 | 4 | 8 ÷ 2 = 4, factor de amplificación; 2:5 × 4 = 8:20 → 20 botones | OA 3 | Números y Operaciones |
 | 5 | c) 3/4 (75/100 simplificado dividiendo por 25) | OA 4 | Números y Operaciones |
-| 6 | a) $1.600 (20% = 0,2 × 8.000 = 1.600) | OA 4 | Números y Operaciones |
+| 6 | c) $1.600 (20% = 0,2 × 8.000 = 1.600) | OA 4 | Números y Operaciones |
 | 7 | 55% de 180 = 0,55 × 180 = 99 participantes | OA 4 | Números y Operaciones |
-| 8 | a) 4 3/4 (19 ÷ 4 = 4, resto 3) | OA 5 | Números y Operaciones |
+| 8 | d) 4 3/4 (19 ÷ 4 = 4, resto 3) | OA 5 | Números y Operaciones |
 | 9 | 33 ÷ 9 = 3, resto 6 → 3 6/9, simplificado 3 2/3 | OA 5 | Números y Operaciones |
-| 10 | a) 7 1/2 (5+1=6; 2/3=4/6; 4/6+5/6=9/6=1 1/2; 6+1 1/2=7 1/2) | OA 8 | Números y Operaciones |
+| 10 | b) 7 1/2 (5+1=6; 2/3=4/6; 4/6+5/6=9/6=1 1/2; 6+1 1/2=7 1/2) | OA 8 | Números y Operaciones |
 | 11 | 32,400 − 14,650 = 17,750 kg; el resultado del encargado (18,750) es incorrecto | OA 8 | Números y Operaciones |
 | 12 | a) 54 (x = 100 − 46) | OA 11 | Patrones y Álgebra |
 | 13 | x + 15 = 52 → x = 52 − 15 = 37 estampillas. Comprobación: 37 + 15 = 52 ✓ | OA 11 | Patrones y Álgebra |
@@ -236,4 +260,25 @@ d) 140
 | Medición y Datos y Probabilidades | 10 | OA 18, 19, 23, 24 |
 | **Total** | **25** | **11 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que la Forma A. Cada pregunta usa un contexto y una historia distintos de su equivalente en la Forma A (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que el banco de contenido. Cada pregunta usa un contexto y una historia distintos de su equivalente en el banco de contenido (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 1 | 1 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 4 | 5, 6, 7 | 2 | 1 |
+| OA 5 | 8, 9 | 1 | 1 |
+| OA 8 | 10, 11 | 1 | 1 |
+| OA 11 | 12, 13 | 1 | 1 |
+| OA 16 | 14, 15 | 1 | 1 |
+| OA 18 | 16, 17, 18 | 1 | 2 |
+| OA 19 | 19, 20 | 1 | 1 |
+| OA 23 | 21, 22 | 1 | 1 |
+| OA 24 | 23, 24, 25 | 1 | 2 |
+| **Total** | **25 preguntas** | **12** | **13** |

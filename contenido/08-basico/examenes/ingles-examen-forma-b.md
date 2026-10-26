@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 8° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/08-basico/ingles.md (4 OA)
-relacionado: Forma A en /contenido/08-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/08-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -32,7 +32,7 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
    incorrectas: si no estás seguro/a, responde de todas formas.
 5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 6. Esta es la **Forma B** de la prueba: cubre los mismos Objetivos de Aprendizaje
-   que la Forma A, pero con preguntas y textos distintos.
+   que el banco de contenido, pero con preguntas y textos distintos.
 
 ---
 
@@ -43,8 +43,8 @@ popular way to learn new skills. Many teenagers watch cooking, coding or music
 videos instead of reading books, because videos show every step visually."*
 What is the text mainly about?
 
-a) Why teenagers dislike reading
-b) How video tutorials help teenagers learn new skills
+a) How video tutorials help teenagers learn new skills
+b) Why teenagers dislike reading
 c) The history of cooking shows
 d) The price of learning apps
 
@@ -72,9 +72,9 @@ updated easily."* Which question best expands on the information in the text
 (instead of just repeating it)?
 
 a) What is a tablet?
-b) How could using tablets change the way students learn in the future?
+b) Are books heavy?
 c) Do schools have tablets?
-d) Are books heavy?
+d) How could using tablets change the way students learn in the future?
 
 ---
 
@@ -84,8 +84,8 @@ d) Are books heavy?
 Free entry for students every Sunday. Discover amazing objects from the
 past."* What is the purpose of this text?
 
-a) To entertain readers with a story
-b) To persuade readers to visit the museum
+a) To persuade readers to visit the museum
+b) To entertain readers with a story
 c) To describe a person's life
 d) To warn readers about a danger
 
@@ -180,17 +180,27 @@ then ___ the train station."* (get off / arrive at)
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) How video tutorials help teenagers learn new skills | OA9 |
+| 1 | a) How video tutorials help teenagers learn new skills | OA9 |
 | 2 | about / by | OA9 |
 | 3 | False (Falso) — un buen resumen es más breve que el texto original y usa palabras propias; no incluye todos los detalles. | OA9 |
 | 4 | Respuesta personal coherente, p. ej.: *Yes, in Chile we celebrate Fiestas Patrias with empanadas and dancing.* | OA9 |
 | 5 | Italy / 13 / painting | OA9 |
-| 6 | b) How could using tablets change the way students learn in the future? | OA9 |
-| 7 | b) To persuade readers to visit the museum | OA10 |
+| 6 | d) How could using tablets change the way students learn in the future? | OA9 |
+| 7 | a) To persuade readers to visit the museum | OA10 |
 | 8 | so | OA10 |
 | 9 | True (Verdadero) — la estructura *if... will...* expresa que proteger el océano depende de una condición (reciclar botellas). | OA10 |
 | 10 | lighter | OA10 |
@@ -226,5 +236,19 @@ inglés, completar tabla, emparejar y escribir según modelo), en línea con el
 formato mixto del Examen Libre real de Inglés.
 
 **Nota:** Esta Forma B evalúa los mismos 4 OA y las mismas habilidades que la
-Forma A, con textos, contextos y preguntas distintas, para permitir una
+banco de contenido, con textos, contextos y preguntas distintas, para permitir una
 segunda instancia de práctica sin memorización de respuestas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 9 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 10 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 13 | 13, 14, 15, 16, 17, 18 | 1 | 5 |
+| OA 16 | 19, 20, 21, 22, 23, 24, 25 | 1 | 6 |
+| **Total** | **25 preguntas** | **6** | **19** |

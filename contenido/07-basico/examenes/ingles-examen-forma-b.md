@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 7° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/07-basico/ingles.md (4 OA)
-relacionado: Forma A en /contenido/07-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/07-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -42,17 +42,17 @@ birds are now in danger because factories pollute the water where they
 live."* What is the text mainly about?
 
 a) Family summer vacations
-b) Humboldt penguins and the danger they face
+b) Chilean beaches
 c) Types of birds in Peru
-d) Chilean beaches
+d) Humboldt penguins and the danger they face
 
 **2.** *(Selección múltiple)* Read: *"Sofía is from Colombia, but her family
 moved to Chile when she was ten years old. She has lived in La Serena for
 three years and she loves the ocean."* According to the text, how long has
 Sofía lived in La Serena?
 
-a) Ten years
-b) Three years
+a) Three years
+b) Ten years
 c) Thirteen years
 d) Since she was born
 
@@ -60,8 +60,8 @@ d) Since she was born
 repeat many times in a text usually show you its ___ idea."* (main / false /
 explicit)
 
-**4.** *(Pregunta abierta — verdadero o falso)* Read: *"The Amazon
-rainforest produces about 20% of the world's oxygen. It is home to millions
+**4.** *(Pregunta abierta - verdadero o falso)* Read: *"The Amazon
+rainforest produces about 6% to 9% of the world's oxygen. It is home to millions
 of species of plants and animals."* Write True or False: *The text says the
 Amazon produces 50% of the world's oxygen.*
 
@@ -184,14 +184,24 @@ plastic bottles on the beach today."* (is / are)
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Humboldt penguins and the danger they face | OA9 |
-| 2 | b) Three years | OA9 |
+| 1 | d) Humboldt penguins and the danger they face | OA9 |
+| 2 | a) Three years | OA9 |
 | 3 | main | OA9 |
-| 4 | False (Falso) — el texto dice explícitamente *20%*, no 50%. | OA9 |
+| 4 | False (Falso) - el texto dice explícitamente *6% al 9%*, no 50%. | OA9 |
 | 5 | Expresar una postura personal — *I disagree because...* introduce una opinión justificada, no un dato del texto. | OA9 |
 | 6 | Respuesta personal coherente, p. ej.: *"In my opinion, protecting the environment is important because we need clean water and air to live."* | OA9 |
 | 7 | c) A set of instructions | OA10 |
@@ -227,9 +237,22 @@ plastic bottles on the beach today."* (is / are)
 **Distribución por tipo de pregunta:** 8 de selección múltiple (alternativas)
 y 17 de respuesta abierta breve (completar, verdadero/falso, emparejar,
 responder en inglés y escribir según modelo), en línea con el formato mixto
-del Examen Libre real de Inglés e idéntica proporción a la Forma A.
+del Examen Libre real de Inglés e idéntica proporción que el banco de contenido.
 
-**Nota sobre independencia con la Forma A:** todas las preguntas de esta
-Forma B usan textos, nombres, datos y contextos distintos a los de la Forma A
-(/contenido/07-basico/pruebas/ingles-prueba.md), aunque evalúan los mismos 4
+**Nota sobre independencia entre formas:** todas las preguntas de esta
+Forma B usan textos, nombres, datos y contextos propios, aunque evalúan los mismos 4
 OA con proporciones equivalentes.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 9 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 10 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 13 | 13, 14, 15, 16, 17, 18 | 2 | 4 |
+| OA 16 | 19, 20, 21, 22, 23, 24, 25 | 2 | 5 |
+| **Total** | **25 preguntas** | **8** | **17** |

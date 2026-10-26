@@ -44,18 +44,18 @@ basado_en: >
 **1. (Ciencias Naturales — Alternativas)** ¿Cuál es la función principal del corazón?
 
 a) Digerir los alimentos
-b) Bombear la sangre por todo el cuerpo
+b) Permitir la respiración
 c) Sostener el cuerpo
-d) Permitir la respiración
+d) Bombear la sangre por todo el cuerpo
 
 ---
 
 **2. (Historia — Alternativas)** Muchas familias mapuche, aymara y rapa nui viven hoy en ciudades, usan tecnología moderna y van a escuelas junto a niños de otros orígenes. Al mismo tiempo, mantienen fiestas como el We Tripantu y su artesanía tradicional. ¿Qué nos muestra esta situación?
 
 a) Que los pueblos indígenas desaparecieron por completo
-b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual
+b) Que solo se puede vivir de una forma, tradicional o moderna, pero no de ambas
 c) Que ya no existen personas mapuche, aymara ni rapa nui en Chile
-d) Que solo se puede vivir de una forma, tradicional o moderna, pero no de ambas
+d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual
 
 ---
 
@@ -176,7 +176,15 @@ d) Zona austral
 
 ---
 
-**17. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio: a pie llegan 15 alumnos, en auto llegan 9 alumnos y en bicicleta llegan 6 alumnos. ¿Cuántos alumnos más llegan a pie que en bicicleta?
+**17. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
+
+| Medio de transporte | Alumnos |
+|---|---|
+| A pie | 15 |
+| Auto | 9 |
+| Bicicleta | 6 |
+
+¿Cuántos alumnos más llegan a pie que en bicicleta?
 
 ---
 
@@ -211,12 +219,22 @@ d) Los medios de transporte
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Ciencias Naturales | **b) Bombear la sangre por todo el cuerpo.** | OA 7 |
-| 2 | Historia, Geografía y Cs. Sociales | **b) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
+| 1 | Ciencias Naturales | **d) Bombear la sangre por todo el cuerpo.** | OA 7 |
+| 2 | Historia, Geografía y Cs. Sociales | **d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
 | 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
 | 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |
@@ -245,3 +263,28 @@ d) Los medios de transporte
 | Historia, Geografía y Cs. Sociales | 5 | 2, 5, 9, 16, 20 |
 | Ciencias Naturales | 5 | 1, 6, 10, 13, 18 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 3 | 1 | 0 |
+| OA 2 | 2 | 1 | 0 |
+| OA 3 | 4, 5 | 2 | 0 |
+| OA 4 | 9 | 1 | 0 |
+| OA 5 | 8 | 0 | 1 |
+| OA 7 | 1, 12, 15 | 2 | 1 |
+| OA 8 | 6, 16 | 2 | 0 |
+| OA 9 | 7, 10 | 0 | 2 |
+| OA 11 | 13 | 0 | 1 |
+| OA 13 | 11 | 1 | 0 |
+| OA 14 | 18 | 1 | 0 |
+| OA 15 | 20 | 1 | 0 |
+| OA 17 | 19 | 1 | 0 |
+| OA 19 | 14 | 1 | 0 |
+| OA 22 | 17 | 0 | 1 |
+| **Total** | **20 preguntas** | **14** | **6** |

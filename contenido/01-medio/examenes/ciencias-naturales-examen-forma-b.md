@@ -5,7 +5,7 @@ tipo: Prueba de práctica (Examen Libre Mineduc) — Forma B
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/01-medio/ciencias-naturales.md
-relacionado_con: contenido/01-medio/pruebas/ciencias-naturales-prueba.md (Forma A)
+relacionado_con: contenido/01-medio/ciencias-naturales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -35,7 +35,7 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
    errónea y marca con una X la opción correcta.
 7. Todas las preguntas son de elaboración propia, inspiradas en el temario oficial de
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto N°614 de 2013. Esta
-   es la **Forma B** de esta prueba: contiene preguntas distintas a las de la Forma A,
+   es la **Forma B** de esta prueba: contiene preguntas propias,
    pero evalúa los mismos Objetivos de Aprendizaje.
 
 ---
@@ -47,8 +47,8 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 **1.** *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a un ejemplo de
 **estructuras homólogas**?
 
-a) Las alas de una mosca y las alas de un ave
-b) El brazo humano y el ala de un murciélago
+a) El brazo humano y el ala de un murciélago
+b) Las alas de una mosca y las alas de un ave
 c) La aleta de un tiburón y la aleta de un delfín
 d) El caparazón de una tortuga y el de un escarabajo
 
@@ -57,9 +57,9 @@ semejanzas observadas entre embriones de especies muy distintas (como peces, ave
 mamíferos) durante etapas tempranas de su desarrollo?
 
 a) El registro fósil
-b) La embriología
+b) La selección artificial
 c) Las estructuras análogas
-d) La selección artificial
+d) La embriología
 
 **3.** *(Desarrollo extenso, 3 puntos)* Una población de bacterias expuesta
 repetidamente a un antibiótico termina, tras varias generaciones, compuesta casi en su
@@ -105,8 +105,8 @@ usando los conceptos de depredación e interacciones biológicas.
 transformar el nitrógeno atmosférico en compuestos que las plantas sí pueden
 utilizar?
 
-a) La fotosíntesis
-b) La fijación de nitrógeno por bacterias
+a) La fijación de nitrógeno por bacterias
+b) La fotosíntesis
 c) La bioacumulación
 d) La respiración celular
 
@@ -153,14 +153,20 @@ almacenar agua durante la temporada de lluvias y usarla durante los periodos sec
 sonido original?
 
 a) La superficie debe estar muy cerca de la persona
-b) La superficie debe estar suficientemente lejos de la persona
+b) La superficie debe absorber todo el sonido
 c) La superficie debe ser transparente al sonido
-d) La superficie debe absorber todo el sonido
+d) La superficie debe estar suficientemente lejos de la persona
 
 **13.** *(Desarrollo extenso, 3 puntos)* Un barco emite un pulso de sonar hacia el
 fondo marino y recibe de vuelta el eco de ese pulso 4 segundos después de haberlo
-emitido. Si la rapidez del sonido en el agua es de aproximadamente 1.500 m/s,
-calcula la profundidad del mar en ese punto, mostrando el desarrollo de tu cálculo, y
+emitido:
+
+| Dato | Valor |
+|---|---|
+| Tiempo de ida y vuelta del eco | 4 s |
+| Rapidez del sonido en el agua | 1.500 m/s |
+
+Calcula la profundidad del mar en ese punto, mostrando el desarrollo de tu cálculo, y
 explica por qué es necesario considerar que el sonido recorre esa distancia dos
 veces.
 
@@ -171,8 +177,8 @@ veces.
 **14.** *(Alternativas)* ¿Cuál de los dos modelos históricos de la luz permite
 explicar adecuadamente fenómenos como la interferencia y la difracción?
 
-a) El modelo corpuscular
-b) El modelo ondulatorio
+a) El modelo ondulatorio
+b) El modelo corpuscular
 c) El modelo geométrico
 d) El modelo atómico
 
@@ -275,24 +281,34 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) El brazo humano y el ala de un murciélago | OA 2 |
-| 2 | Alternativas | b) La embriología | OA 2 |
+| 1 | Alternativas | a) El brazo humano y el ala de un murciélago | OA 2 |
+| 2 | Alternativas | d) La embriología | OA 2 |
 | 3 | Desarrollo extenso | En la población original existía variación (algunas bacterias ya eran resistentes al antibiótico por azar); al aplicar el antibiótico, las bacterias no resistentes murieron y las resistentes sobrevivieron y se reprodujeron (adaptación y selección); dado que las bacterias se reproducen en gran cantidad (sobreproducción), la proporción de bacterias resistentes aumentó rápidamente en la población. | OA 2 |
 | 4 | Alternativas | c) Parasitismo | OA 4 |
 | 5 | Alternativas | c) Una comunidad | OA 4 |
 | 6 | Desarrollo extenso | Al eliminar al depredador, disminuye la presión de depredación sobre la presa, por lo que su población crece sin control; al haber más individuos de esa presa, aumenta el consumo de la vegetación de la que se alimenta, lo que reduce su disponibilidad en el ecosistema. Este tipo de efecto en cadena, donde la pérdida de un depredador altera indirectamente a otros niveles del ecosistema, se conoce como cascada trófica. | OA 4 |
-| 7 | Alternativas | b) La fijación de nitrógeno por bacterias | OA 6 |
+| 7 | Alternativas | a) La fijación de nitrógeno por bacterias | OA 6 |
 | 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
 | 9 | Desarrollo breve | Este fenómeno corresponde a la bioacumulación (o biomagnificación): el pesticida ingresa al ecosistema en baja concentración, pero al pasar de un nivel trófico a otro, la concentración del contaminante aumenta, porque cada depredador consume gran cantidad de biomasa de niveles inferiores, acumulando en su propio cuerpo el contaminante presente en todas esas presas. Los depredadores tope, como las aves rapaces, suelen ser los más afectados por estar en los niveles tróficos más altos. | OA 6 |
 | 10 | Alternativas | c) El petróleo | OA 8 |
 | 11 | Desarrollo extenso | Ventaja: permite disponer de agua durante los periodos de sequía, reduciendo el impacto sobre la agricultura y el consumo humano. Limitación: requiere que exista suficiente agua durante la temporada de lluvias para llenar el embalse (lo que puede no ocurrir si la sequía es muy prolongada), además de un costo de construcción y mantención, y posibles efectos sobre el ecosistema del río intervenido. | OA 8 |
-| 12 | Alternativas | b) La superficie debe estar suficientemente lejos de la persona | OA 10 |
+| 12 | Alternativas | d) La superficie debe estar suficientemente lejos de la persona | OA 10 |
 | 13 | Desarrollo extenso | Distancia recorrida total = 1.500 m/s × 4 s = 6.000 m. Como el sonido recorre esa distancia dos veces (ida hasta el fondo marino y vuelta hasta el barco), la profundidad es 6.000 m ÷ 2 = 3.000 m. Es necesario considerar el recorrido de ida y vuelta porque el tiempo medido corresponde al viaje completo del pulso de sonar, no solo al trayecto de ida. | OA 10 |
-| 14 | Alternativas | b) El modelo ondulatorio | OA 11 |
+| 14 | Alternativas | a) El modelo ondulatorio | OA 11 |
 | 15 | Alternativas | b) Espejo cóncavo | OA 11 |
 | 16 | Desarrollo breve | Si la mayoría de las galaxias lejanas muestran un corrimiento de su luz hacia el rojo (menor frecuencia), esto indica, por efecto Doppler, que se están alejando de la Tierra; que esto ocurra de forma generalizada en todas direcciones sugiere que el espacio entre las galaxias se está expandiendo, lo que constituye evidencia observacional a favor de la expansión del universo. | OA 11 |
 | 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra | OA 14 |
@@ -304,6 +320,70 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 | 23 | Desarrollo extenso | El enunciado es incorrecto: aunque la combustión es un tipo de reacción química natural, la combustión de combustibles fósiles a gran escala (en vehículos, industrias, centrales termoeléctricas) libera grandes cantidades de dióxido de carbono y otros contaminantes a la atmósfera, contribuyendo al efecto invernadero, al cambio climático y a la contaminación del aire, con consecuencias negativas para los ecosistemas y la salud humana. | OA 17 |
 | 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia | OA 20 |
 | 25 | Desarrollo extenso | Se consumieron 18 moles de CO₂ (3 × 6) y se liberaron 18 moles de O₂ (3 × 6). Según la ecuación balanceada, por cada molécula (o mol) de glucosa producida se consumen 6 moléculas (o moles) de dióxido de carbono atmosférico; esto significa que, a mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema, mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica. | OA 20 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (3 puntos)
+
+- Identifica que en la población original ya existía variación: algunas bacterias eran resistentes antes de aplicar el antibiótico — **1 punto**
+- Explica la selección: el antibiótico elimina a las no resistentes y las resistentes sobreviven y se reproducen — **1 punto**
+- Relaciona la sobreproducción con el rápido aumento de la proporción de bacterias resistentes en la población — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Explica que al eliminar al depredador tope disminuye la presión de depredación y la población de la presa crece — **1 punto**
+- Explica que el aumento de la presa incrementa el consumo de vegetación y reduce su disponibilidad — **1 punto**
+- Identifica el fenómeno como cascada trófica o efecto indirecto en cadena sobre otros niveles del ecosistema — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Nombra el fenómeno como bioacumulación o biomagnificación — **1 punto**
+- Explica que la concentración aumenta al pasar de un nivel trófico al siguiente y que los depredadores tope acumulan más — **1 punto**
+
+### Pregunta 11 (3 puntos)
+
+- Señala la ventaja: permite disponer de agua durante la sequía y reduce el impacto en agricultura y consumo humano — **1 punto**
+- Señala una limitación: depende de que haya suficiente agua en la temporada de lluvias, o su costo de construcción y mantención — **1 punto**
+- Señala una segunda limitación o advierte efectos sobre el ecosistema del río intervenido — **1 punto**
+
+### Pregunta 13 (3 puntos)
+
+- Calcula la distancia total recorrida: 1.500 m/s × 4 s = 6.000 m — **1 punto**
+- Divide por 2 y obtiene la profundidad: 3.000 m — **1 punto**
+- Explica que el tiempo medido corresponde al recorrido de ida y vuelta del pulso — **1 punto**
+
+### Pregunta 16 (2 puntos)
+
+- Explica que el corrimiento al rojo indica, por efecto Doppler, que las galaxias se alejan — **1 punto**
+- Señala que el patrón generalizado en todas direcciones evidencia la expansión del universo — **1 punto**
+
+### Pregunta 18 (2 puntos)
+
+- Indica que Marte está más lejos del Sol que la Tierra y tiene un período orbital mayor — **1 punto**
+- Explica la relación: a mayor distancia la órbita es más grande y la velocidad orbital menor, por lo que el período aumenta — **1 punto**
+
+### Pregunta 20 (2 puntos)
+
+- Reconoce que los pueblos originarios obtuvieron conocimiento astronómico por observación sistemática y lo usaron en calendarios agrícolas y ceremoniales — **1 punto**
+- Valora el aporte cultural de esos saberes y la importancia de estudiar formas de conocimiento distintas a la ciencia occidental — **1 punto**
+
+### Pregunta 23 (3 puntos)
+
+- Identifica que el enunciado es incorrecto — **1 punto**
+- Explica que la combustión a gran escala libera CO₂ y otros contaminantes a la atmósfera — **1 punto**
+- Relaciona esas emisiones con el efecto invernadero, el cambio climático o la salud humana — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Calcula los moles de CO₂ consumidos: 3 × 6 = 18 moles — **1 punto**
+- Calcula los moles de O₂ liberados: 3 × 6 = 18 moles — **1 punto**
+- Explica que a mayor fotosíntesis mayor incorporación de CO₂ atmosférico a la materia orgánica — **1 punto**
+
+---
 
 ### Resumen de puntaje
 
@@ -331,7 +411,27 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 ### Nota sobre esta Forma B
 
 Esta versión evalúa exactamente los mismos 10 OA y la misma distribución por eje que
-la Forma A (contenido/01-medio/pruebas/ciencias-naturales-prueba.md), pero con
+el banco de contenido (contenido/01-medio/ciencias-naturales.md), pero con
 preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos,
 para permitir su uso como segunda instancia de evaluación o como prueba de rendición
 paralela.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2, 3 | 2 | 1 |
+| OA 4 | 4, 5, 6 | 2 | 1 |
+| OA 6 | 7, 8, 9 | 2 | 1 |
+| OA 8 | 10, 11 | 1 | 1 |
+| OA 10 | 12, 13 | 1 | 1 |
+| OA 11 | 14, 15, 16 | 2 | 1 |
+| OA 14 | 17, 18 | 1 | 1 |
+| OA 16 | 19, 20 | 1 | 1 |
+| OA 17 | 21, 22, 23 | 2 | 1 |
+| OA 20 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **15** | **10** |

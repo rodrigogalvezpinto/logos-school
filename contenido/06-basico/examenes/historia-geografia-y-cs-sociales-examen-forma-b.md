@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 06-basico/historia-geografia-y-cs-sociales.md (13 OA, Decreto 439/2012)
-relacionado: 06-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A — misma asignatura, preguntas distintas)
+relacionado: contenido/06-basico/historia-geografia-y-cs-sociales.md (misma asignatura, preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -35,7 +35,7 @@ relacionado: 06-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma
 Esta prueba es un **material de práctica 100% original**, elaborado a partir de los
 Objetivos de Aprendizaje (OA) oficiales del Decreto 439/2012 para 6° básico. No reproduce
 preguntas reales del Examen Libre de Mineduc. Corresponde a la **Forma B**: una segunda
-versión con preguntas distintas a la Forma A, pensada para practicar dos veces sin memorizar
+versión con preguntas propias, pensada para practicar dos veces sin memorizar
 respuestas de un solo set de preguntas.
 
 ---
@@ -78,9 +78,9 @@ d) Al plebiscito de 1988
 ¿Qué se decidió en el cabildo abierto realizado en Santiago el 18 de septiembre de 1810?
 
 a) Declarar la independencia total de Chile
-b) Formar la Primera Junta Nacional de Gobierno
+b) Firmar la paz definitiva con España
 c) Abolir la esclavitud en el territorio
-d) Firmar la paz definitiva con España
+d) Formar la Primera Junta Nacional de Gobierno
 
 ---
 
@@ -114,9 +114,9 @@ d) Los patriotas
 ¿Qué característica tuvo la Constitución de 1833?
 
 a) Fortaleció al Congreso por sobre el Presidente
-b) Concentró el poder en la figura del Presidente de la República
+b) Estableció el voto universal para hombres y mujeres
 c) Eliminó por completo a la Iglesia católica del país
-d) Estableció el voto universal para hombres y mujeres
+d) Concentró el poder en la figura del Presidente de la República
 
 ---
 
@@ -380,16 +380,26 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas | a) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) A la independencia de Estados Unidos (1776) | OA 1 | Historia | 1 |
-| 3  | Alternativas | b) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
+| 3  | Alternativas | d) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
 | 4  | Desarrollo breve | Se enfrentaron los **patriotas** (que buscaban la autonomía o independencia de España) y los **realistas** (fieles a la Corona, que buscaban mantener el dominio colonial); se espera además mencionar el aporte de una mujer destacada, como Javiera Carrera (apoyo activo a la causa patriota) o Paula Jaraquemada (protección de tropas patriotas arriesgando su hacienda) | OA 2 | Historia | 2 |
 | 5  | Alternativas | a) Los liberales | OA 3 | Historia | 1 |
-| 6  | Alternativas | b) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
+| 6  | Alternativas | d) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
 | 7  | Alternativas | a) Valdivia y Llanquihue | OA 5 | Historia | 1 |
 | 8  | Desarrollo breve | Se espera que la respuesta reconozca la importancia estratégica de la zona austral, especialmente por su cercanía al Estrecho de Magallanes —ruta clave para la navegación entre los océanos Atlántico y Pacífico antes del Canal de Panamá— y el interés de asegurar la soberanía chilena en un territorio poco poblado | OA 5 | Historia | 2 |
 | 9  | Alternativas | b) 1935 | OA 7 | Historia | 1 |
@@ -443,3 +453,26 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 2 | 0 |
+| OA 2 | 3, 4 | 1 | 1 |
+| OA 3 | 5, 6 | 2 | 0 |
+| OA 5 | 7, 8 | 1 | 1 |
+| OA 7 | 9, 10 | 2 | 0 |
+| OA 8 | 11, 12 | 1 | 1 |
+| OA 9 | 13 | 1 | 0 |
+| OA 11 | 14, 15 | 2 | 0 |
+| OA 12 | 16, 17 | 1 | 1 |
+| OA 15 | 18, 19 | 2 | 0 |
+| OA 16 | 20, 21 | 1 | 1 |
+| OA 17 | 22, 23 | 1 | 1 |
+| OA 18 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **18** | **7** |

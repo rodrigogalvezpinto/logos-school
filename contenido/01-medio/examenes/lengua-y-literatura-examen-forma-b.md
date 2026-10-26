@@ -8,7 +8,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 1° medio (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos de la Forma A, pero que evalúa los mismos Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos del banco de contenido, pero que evalúa los mismos Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -38,16 +38,16 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento?
 
-a) La rivalidad entre Antonia y su primo Cristóbal por el negocio familiar
-b) El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago
+a) El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago
+b) La rivalidad entre Antonia y su primo Cristóbal por el negocio familiar
 c) La escasez de trigo durante la sequía de 1968
 d) La decisión del padre de vender el horno de barro
 
 **2. (Alternativas)** ¿A qué **personaje tipo** corresponde la abuela Herminia?
 
 a) El pícaro
-b) El sabio o mentor
-c) El antagonista
+b) El antagonista
+c) El sabio o mentor
 d) El avaro
 
 **3. (Verdadero o Falso, con justificación)** "Si el relato estuviera narrado en primera persona por Antonia, el lector tendría el mismo acceso a la insistencia semanal del padre sobre el horno que Antonia misma no llega a cuestionar del todo." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
@@ -86,14 +86,14 @@ d) El avaro
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El ensayo de las siete"?
 
 a) La rivalidad entre Doña Rosa y la Organizadora por el control del festival
-b) La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias
+b) La decisión de Javiera de dejar de bailar en el conjunto
 c) La falta de financiamiento para el festival de cueca brava
-d) La decisión de Javiera de dejar de bailar en el conjunto
+d) La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias
 
 **7. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Doña Rosa como bailarina?
 
-a) El tubo fluorescente
-b) El pañuelo de baile
+a) El pañuelo de baile
+b) El tubo fluorescente
 c) El escenario
 d) El parlante de música
 
@@ -112,8 +112,8 @@ d) El parlante de música
 **10. (Alternativas)** ¿A qué mito alude explícitamente el microcuento "Cara al mar"?
 
 a) El mito griego de las sirenas
-b) El mito chilote de la Pincoya
-c) La leyenda del Caleuche
+b) La leyenda del Caleuche
+c) El mito chilote de la Pincoya
 d) El mito mapuche de Kai Kai Vilu
 
 **11. (Verdadero o Falso, con justificación)** "El microcuento presenta la creencia sobre la Pincoya y los reportes de los biólogos marinos como visiones opuestas, donde una desmiente por completo a la otra." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
@@ -121,9 +121,9 @@ d) El mito mapuche de Kai Kai Vilu
 **12. (Alternativas)** ¿Con qué contexto se relaciona directamente el microcuento "Cara al mar"?
 
 a) La fundación de las caletas de pescadores en el sur de Chile
-b) La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas
+b) La colonización española del sur de Chile
 c) La Guerra del Pacífico
-d) La colonización española del sur de Chile
+d) La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas
 
 **13. (Desarrollo extenso)** Formula tu propia interpretación del sentido general de "Cara al mar", integrando un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que la sustente, y la relación entre el mito de la Pincoya mencionado y el contexto de la sobreexplotación pesquera.
 
@@ -139,8 +139,8 @@ d) La colonización española del sur de Chile
 
 **14. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna?
 
-a) La inteligencia artificial nunca debería usarse, ni dentro ni fuera del colegio
-b) Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio
+a) Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio
+b) La inteligencia artificial nunca debería usarse, ni dentro ni fuera del colegio
 c) La prohibición del uso de IA no tiene ningún efecto en las entregas copiadas
 d) Los informes sobre uso de IA en tareas no son confiables y deberían ignorarse
 
@@ -211,24 +211,34 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago. | OA N°3 — conflicto central |
-| 2 | **b)** El sabio o mentor. | OA N°3 — personaje tipo |
+| 1 | **a)** El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago. | OA N°3 — conflicto central |
+| 2 | **c)** El sabio o mentor. | OA N°3 — personaje tipo |
 | 3 | **Falso.** La narración en tercera persona permite mostrar detalles —como la insistencia semanal del padre sobre el horno— que la propia Antonia no necesariamente interpreta o cuestiona; en primera persona, el lector solo accedería a lo que Antonia percibe y elige contar. | OA N°3 — efecto de la narración en primera o tercera persona |
 | 4 | Debe explicar que el horno no es solo un objeto de trabajo, sino que representa la herencia familiar y la continuidad del oficio a través de generaciones; el hecho de que nunca se apague del todo refuerza simbólicamente la idea de una tradición que se mantiene viva y que Antonia debe decidir si continúa. | OA N°3 — símbolo |
 | 5 | Debe identificar que en el pueblo se cree que quienes se van a estudiar fuera "se les olvidan sus raíces", relacionándolo con una visión de mundo rural donde el oficio familiar y el arraigo territorial definían la identidad; y explicar que la mención de la Calchona conecta el relato con la mitología y tradición oral del Norte Chico, reforzando el mensaje de la abuela de que la tierra exige cuidado, no solo provecho, lo que enriquece el sentido de la conversación entre abuela y nieta. | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
-| 6 | **b)** La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias. | OA N°5 — conflicto central |
-| 7 | **b)** El pañuelo de baile. | OA N°5 — símbolo |
+| 6 | **d)** La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias. | OA N°5 — conflicto central |
+| 7 | **a)** El pañuelo de baile. | OA N°5 — símbolo |
 | 8 | Debe explicar que la luz decreciente y el crujido de las tablas, que pasa de intermitente a continuo, refuerzan visualmente y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando en el lector o espectador la sensación de que algo grave está por ocurrir, sin que los personajes lo digan explícitamente. | OA N°5 — elementos de la puesta en escena |
 | 9 | Debe identificar que el comentario del doctor sobre la rodilla y la recomendación de la Organizadora de esperar hasta el día siguiente funcionan como presagios, que Doña Rosa ignora porque su identidad como bailarina experimentada la lleva a confiar en su propio juicio del riesgo; y describir el problema humano de reconocer el propio límite o peligro real cuando la identidad de una persona está profundamente ligada a su oficio o disciplina, incluso a costa de su salud. | OA N°5 — presagios, comportamiento del personaje y problema humano (integrada) |
-| 10 | **b)** El mito chilote de la Pincoya. | OA N°8 — relación intertextual/alusión a un mito |
+| 10 | **c)** El mito chilote de la Pincoya. | OA N°8 — relación intertextual/alusión a un mito |
 | 11 | **Falso.** El texto pone ambas visiones en diálogo, no en competencia; la creencia del abuelo se actualiza con el lenguaje de los biólogos marinos ("la Pincoya lleva años bailando de espaldas al mar"), sin que una invalide a la otra. | OA N°8 — visión de mundo de la obra |
-| 12 | **b)** La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas. | OA N°8 — contexto histórico |
+| 12 | **d)** La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas. | OA N°8 — contexto histórico |
 | 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente (por ejemplo, "Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar, y que hace tiempo dejamos de sacar solo lo necesario"), y la relación explícita entre la alusión al mito de la Pincoya y el contexto de la sobreexplotación pesquera. | OA N°8 — interpretación literaria coherente e integrada |
-| 14 | **b)** Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio. | OA N°9 — tesis del autor |
+| 14 | **a)** Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio. | OA N°9 — tesis del autor |
 | 15 | **b)** Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la prohibición antes de presentar evidencia. | OA N°9 — intención de la pregunta retórica |
 | 16 | Debe explicar que el dato es pertinente pero insuficiente por sí solo, ya que mide entregas detectadas según la evaluación docente y no un resultado objetivo de aprendizaje, y que el propio texto reconoce que otros factores (tareas rediseñadas) podrían explicar la disminución. | OA N°9 — suficiencia y pertinencia de la información |
 | 17 | Cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente con la postura elegida. | OA N°9 — postura personal |
@@ -262,3 +272,19 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 | Desarrollo breve (incluye aplicación) | 7 | 4, 8, 16, 17, 20, 23, 24 |
 | Desarrollo extenso | 5 | 5, 9, 13, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
+| OA 5 | 6, 7, 8, 9 | 1 | 3 |
+| OA 8 | 10, 11, 12, 13 | 2 | 2 |
+| OA 9 | 14, 15, 16, 17 | 2 | 2 |
+| OA 10 | 18, 19, 20, 21 | 2 | 2 |
+| OA 14 | 22, 23, 24, 25 | 0 | 4 |
+| **Total** | **25 preguntas** | **9** | **16** |

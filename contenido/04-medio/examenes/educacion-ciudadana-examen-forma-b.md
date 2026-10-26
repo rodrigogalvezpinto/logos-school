@@ -3,7 +3,7 @@ asignatura: Educación Ciudadana
 curso: 4° Medio
 tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/educacion-ciudadana.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/pruebas/educacion-ciudadana-prueba.md (Forma A)
+forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/educacion-ciudadana.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -24,7 +24,7 @@ forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/prueb
 3. En las preguntas de **desarrollo**, responde en el espacio asignado, con letra clara. Las preguntas de "desarrollo breve" esperan 2 a 4 líneas; las de "desarrollo extenso" esperan un párrafo completo y argumentado.
 4. No se permite el uso de celulares, apuntes ni material de apoyo.
 5. Administra tu tiempo: se recomienda no destinar más de 3 a 4 minutos por pregunta.
-6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc. Esta es la **Forma B** del examen, con preguntas distintas a la Forma A, pensada para practicar dos veces sin memorizar respuestas.
+6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc. Esta es la **Forma B** del examen, con preguntas propias, pensada para practicar dos veces sin memorizar respuestas.
 
 > **Nota sobre neutralidad:** algunas preguntas presentan posturas en tensión dentro del debate democrático (por ejemplo, sobre impuestos, regulación de medios o rol del Estado). En esos casos no existe una "postura correcta" a evaluar, sino tu capacidad de identificar y argumentar con los conceptos estudiados. Estas preguntas se corrigen según la calidad del razonamiento, no según la opinión política expresada.
 
@@ -36,8 +36,8 @@ forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/prueb
 **1.** La brecha salarial entre hombres y mujeres que desempeñan funciones de similar responsabilidad es un desafío democrático que se relaciona principalmente con:
 
 a) La diversidad étnica y cultural
-b) La equidad de género
-c) La libertad de expresión
+b) La libertad de expresión
+c) La equidad de género
 d) La concentración de medios de comunicación
 
 ---
@@ -70,9 +70,9 @@ ___ Tras una catástrofe natural, cientos de voluntarios y voluntarias de distin
 **4.** Una empresa descarta sistemáticamente, sin relación con el desempeño del cargo, a postulantes mayores de 55 años en sus procesos de selección. ¿Con qué concepto de este OA se relaciona principalmente esta situación?
 
 a) Diversidad étnica y cultural
-b) Igualdad de trato
+b) Concentración de medios
 c) Libertad de expresión
-d) Concentración de medios
+d) Igualdad de trato
 
 ---
 
@@ -91,8 +91,8 @@ Explica, en un desarrollo breve, cómo se relaciona esta acción con el principi
 **7.** ¿Cuál de las siguientes opciones es un ejemplo de "libertad positiva"?
 
 a) Que ninguna ley te obligue a afiliarte a un sindicato
-b) Que el Estado entregue prótesis y ayudas técnicas gratuitas a personas con discapacidad para que puedan estudiar y trabajar
-c) Que la Constitución prohíba la censura previa a la prensa
+b) Que la Constitución prohíba la censura previa a la prensa
+c) Que el Estado entregue prótesis y ayudas técnicas gratuitas a personas con discapacidad para que puedan estudiar y trabajar
 d) Que nadie pueda impedirte postular a un cargo de elección popular
 
 ---
@@ -113,9 +113,9 @@ ___ Reconocer la diversidad cultural de un país contradice necesariamente la id
 **10.** Un municipio destina fondos a un programa de becas de alimentación y útiles escolares para estudiantes de familias de escasos recursos de la comuna. ¿Con qué valores de este OA se relaciona mejor esta política?
 
 a) Libertad de expresión y diversidad sexual
-b) Solidaridad e igualdad de oportunidades
+b) Concentración de medios y alfabetización mediática
 c) Igualdad ante la ley y libertad negativa
-d) Concentración de medios y alfabetización mediática
+d) Solidaridad e igualdad de oportunidades
 
 ---
 
@@ -246,22 +246,32 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 **Puntaje:** las preguntas de selección múltiple, verdadero/falso y términos pareados valen 1 punto por respuesta correcta (los ítems de V/F y pareados otorgan 1 punto por cada afirmación/par correctamente resuelto). Las preguntas de desarrollo breve valen 2 puntos; las de desarrollo extenso valen 3 puntos, según el criterio de corrección indicado.
 
 | N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
 |----|------|----|---------------------------------|---------|
-| 1 | Selección múltiple | Democracia y sus desafíos | b) Equidad de género | 1 |
+| 1 | Selección múltiple | Democracia y sus desafíos | c) Equidad de género | 1 |
 | 2 | V/F (4 afirmaciones) | Democracia y sus desafíos | V – F – V – V | 4 |
 | 3 | Términos pareados | Democracia y sus desafíos | 1 – 2 – 3 – 4 | 4 |
-| 4 | Selección múltiple | Democracia y sus desafíos | b) Igualdad de trato | 1 |
+| 4 | Selección múltiple | Democracia y sus desafíos | d) Igualdad de trato | 1 |
 | 5 | Desarrollo breve | Democracia y sus desafíos | Reconoce la organización sindical como forma de **participación** que busca incidir en decisiones que afectan a las trabajadoras, y conecta el contenido de la demanda (sala cuna, horarios) con la **equidad de género**, por recaer históricamente el cuidado sobre las mujeres | 2 |
 | 6 | Desarrollo breve | Democracia y sus desafíos | Reconoce que ambas posturas priorizan valores democráticos legítimos (libertad económica/empresarial vs. solidaridad hacia quienes ganan menos) y que el desacuerdo sobre el nivel de salario mínimo es distinto de desconocer la dignidad laboral de las personas trabajadoras | 2 |
-| 7 | Selección múltiple | Democracia y sus desafíos | b) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
+| 7 | Selección múltiple | Democracia y sus desafíos | c) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
 | 8 | Desarrollo breve | Democracia y sus desafíos | Identifica **igualdad de trato** o **inclusión** (discriminación salarial por condición migrante) y **diversidad cultural** (o vulnerabilidad frente a desconocimiento del sistema local); explica que la diferencia de trato no tiene fundamento legítimo | 2 |
-| 9 | V/F (4 afirmaciones) | Democracia y sus desafíos | V – F – F – F | 4 |
-| 10 | Selección múltiple | Democracia y sus desafíos | b) Solidaridad e igualdad de oportunidades | 1 |
+| 9 | V/F (4 afirmaciones) | Democracia y sus desafíos | V - F - V - F | 4 |
+| 10 | Selección múltiple | Democracia y sus desafíos | d) Solidaridad e igualdad de oportunidades | 1 |
 | 11 | Desarrollo extenso | Democracia y sus desafíos | Relaciona el caso con diversidad cultural (condición y organización propia de trabajadores migrantes) y con el principio de participación (derecho a ser consultados en decisiones que afectan sus condiciones laborales y de vivienda); admite que existen posturas legítimas distintas sobre cómo regular el trabajo migrante temporal | 3 |
 | 12 | Desarrollo breve | Democracia y sus desafíos | Relaciona con **inclusión** y/o **solidaridad**; explica la diferencia entre libertad negativa (no prohibir el acceso) y libertad positiva (condiciones reales —formatos, infraestructura— para ejercerlo) | 2 |
 | 13 | Selección múltiple | Democracia y sus desafíos | b) Ambas posturas pueden ser igualmente legítimas | 1 |
@@ -278,8 +288,20 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 | 24 | Desarrollo extenso | Medios y TIC | Participación: la propaganda no identificada como publicitaria y dirigida algorítmicamente dificulta que la ciudadanía reconozca y evalúe de forma informada el contenido político que recibe; vida privada: el uso del historial de visualización para segmentar personas sin advertencia compromete su control sobre su propia información; reconoce la conexión entre ambos problemas | 3 |
 | 25 | Selección múltiple | Medios y TIC | b) Oportunidades y riesgos a la vez, mitigados con alfabetización mediática | 1 |
 
-**Puntaje total de la prueba: 55 puntos.**
+**Puntaje total de la prueba: 56 puntos.**
 **Distribución por OA:** 13 preguntas — Democracia y sus desafíos (preguntas 1 a 13) · 12 preguntas — Medios y TIC (preguntas 14 a 25).
 **Distribución por tipo de pregunta:** 15 preguntas cerradas (selección múltiple, verdadero/falso y términos pareados) · 10 preguntas de desarrollo (6 breves, 4 extensas).
 
 > **Tabla de conversión sugerida (referencial):** exigencia de 60% para la nota mínima de aprobación (4,0), en línea con el criterio general de corrección de los Exámenes Libres Mineduc. Ajustar según la escala oficial vigente al momento de rendir el examen real.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| Democracia y sus desafíos | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 8 | 5 |
+| Medios y TIC | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 8 | 4 |
+| **Total** | **25 preguntas** | **16** | **9** |

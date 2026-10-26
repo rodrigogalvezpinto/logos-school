@@ -7,7 +7,7 @@ n° de preguntas: 25
 duración: 90 minutos
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /08-basico/matematica.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A, misma cobertura de OA
+relación con otras formas: segunda versión (Forma B), con preguntas propias, misma cobertura de OA
 última actualización: 2026-08-10
 ---
 
@@ -32,9 +32,9 @@ relación con otras formas: segunda versión (Forma B), con preguntas distintas 
 
 **Pregunta 1 (alternativas).** Calcula: (−9) × 6.
 
-a) −54
+a) −15
 b) 54
-c) −15
+c) −54
 d) 15
 
 ---
@@ -45,10 +45,10 @@ d) 15
 
 **Pregunta 3 (alternativas).** Calcula: (−0,72) ÷ (−0,8).
 
-a) 0,9
+a) −9
 b) −0,9
 c) 9
-d) −9
+d) 0,9
 
 ---
 
@@ -58,8 +58,8 @@ d) −9
 
 **Pregunta 5 (alternativas).** ¿Cuál es el resultado de expresar 5⁴ ÷ 5² como una sola potencia?
 
-a) 5²
-b) 5⁶
+a) 5⁶
+b) 5²
 c) 5⁸
 d) 25²
 
@@ -71,9 +71,9 @@ d) 25²
 
 **Pregunta 7 (alternativas).** ¿Cuál es el valor de √169?
 
-a) 13
+a) 84,5
 b) 14
-c) 84,5
+c) 13
 d) 26
 
 ---
@@ -90,10 +90,10 @@ d) 26
 
 **Pregunta 10 (alternativas).** Resuelve: 8x = 96.
 
-a) x = 12
+a) x = 88
 b) x = 8
 c) x = 768
-d) x = 88
+d) x = 12
 
 ---
 
@@ -101,7 +101,14 @@ d) x = 88
 
 ---
 
-**Pregunta 12 (desarrollo).** Dos planes de telefonía cobran así: el Plan A cobra $10.000 fijos más $400 por giga de datos usados; el Plan B cobra $4.000 fijos más $700 por giga. ¿Para cuántos gigas de datos ambos planes cobran lo mismo? Muestra tu desarrollo.
+**Pregunta 12 (desarrollo).** Dos planes de telefonía cobran así:
+
+| Plan | Cargo fijo mensual | Costo por giga de datos |
+|---|---|---|
+| Plan A | $10.000 | $400 |
+| Plan B | $4.000 | $700 |
+
+¿Para cuántos gigas de datos ambos planes cobran lo mismo? Muestra tu desarrollo.
 
 ---
 
@@ -191,20 +198,30 @@ d) Ninguno de los anteriores
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
+| 1 | c) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
 | 2 | 4 × (−8.500) = **−$34.000** | OA 1 | Números y Operaciones |
-| 3 | a) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
+| 3 | d) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
 | 4 | −9,6 ÷ 1,6 = **−6 metros por minuto** | OA 2 | Números y Operaciones |
-| 5 | a) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
+| 5 | b) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
 | 6 | 10⁴ = **10.000 claves distintas** | OA 3 | Números y Operaciones |
-| 7 | a) 13 (13×13=169) | OA 4 | Números y Operaciones |
+| 7 | c) 13 (13×13=169) | OA 4 | Números y Operaciones |
 | 8 | 10²=100 y 11²=121; 110 está entre 100 y 121, aproximadamente a mitad de camino, algo **más cerca de 10** (valor real ≈10,49) | OA 4 | Números y Operaciones |
 | 9 | área: 32×2=64 m²; lado: √64=**8 m**; perímetro: 4×8=**32 m** | OA 4 | Números y Operaciones |
-| 10 | a) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
+| 10 | d) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
 | 11 | 6x=61−7=54; x=**9** | OA 8 | Patrones y Álgebra |
 | 12 | 10.000+400x=4.000+700x; 6.000=300x; x=**20 gigas** | OA 8 | Patrones y Álgebra |
 | 13 | a) −4 (f(5)=−3×5+11=−15+11=−4) | OA 10 | Patrones y Álgebra |
@@ -231,4 +248,24 @@ d) Ninguno de los anteriores
 | Datos y Probabilidades | 5 | OA 15, 16 |
 | **Total** | **25** | **10 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que la Forma A, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite entre ambas formas.
+**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que el banco de contenido, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite respecto de otro instrumento del mismo curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 1 | 1 |
+| OA 2 | 3, 4 | 1 | 1 |
+| OA 3 | 5, 6 | 1 | 1 |
+| OA 4 | 7, 8, 9 | 1 | 2 |
+| OA 8 | 10, 11, 12 | 1 | 2 |
+| OA 10 | 13, 14, 15 | 2 | 1 |
+| OA 12 | 16, 17, 18 | 1 | 2 |
+| OA 13 | 19, 20 | 1 | 1 |
+| OA 15 | 21, 22, 23 | 1 | 2 |
+| OA 16 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **11** | **14** |

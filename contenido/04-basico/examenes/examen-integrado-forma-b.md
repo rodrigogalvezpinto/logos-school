@@ -56,8 +56,8 @@ d) Un edificio de departamentos en Santiago
 
 **2. (Ciencias Naturales)** Una lagartija que vive entre las rocas de la cordillera tiene un color de piel muy parecido al de las piedras que la rodean, lo que le permite pasar desapercibida ante sus depredadores. Esta característica corresponde a una adaptación:
 
-a) Conductual
-b) Estructural
+a) Estructural
+b) Conductual
 c) Alimentaria
 d) Reproductiva
 
@@ -102,9 +102,9 @@ Lee el siguiente poema:
 ¿Cuál de los siguientes versos es un ejemplo de **personificación**?
 
 a) "Corre veloz como un caballo desbocado"
-b) "A la hora de la siesta se recuesta en los cerros"
+b) "El trigo dorado"
 c) "Sopla fuerte hasta que sale la luna"
-d) "El trigo dorado"
+d) "A la hora de la siesta se recuesta en los cerros"
 
 ---
 
@@ -259,15 +259,25 @@ ________________________________________________________________________________
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------|------------------------------------------|-----------------------------------|
 | 1 | Lenguaje | **b)** El texto describe el lugar donde vive Benjamín como un campo cercano a Chillán, con parronales y un gallinero. | OA N°4 — descripción de ambientes |
-| 2 | Ciencias Naturales | **b) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
+| 2 | Ciencias Naturales | **a) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
 | 3 | Matemática | **c) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
 | 4 | Historia | **c) Ambas tenían gobierno monárquico y economía basada en la agricultura.** Característica común a mayas e incas. | OA 4 — Civilizaciones americanas |
-| 5 | Lenguaje | **b)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
+| 5 | Lenguaje | **d)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
 | 6 | Ciencias Naturales | **c) La columna vertebral.** Protege la médula espinal. | OA 7 — Sistema nervioso |
 | 7 | Matemática | **a) 9/24.** De los 24 estudiantes del curso (denominador), 9 llevan colación de fruta (numerador). | OA 8 — Comprender las fracciones |
 | 8 | Historia | **b) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |
@@ -278,7 +288,7 @@ ________________________________________________________________________________
 | 13 | Lenguaje | Respuesta que use correctamente el conector, por ejemplo: "Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada." | OA N°17 — uso de conectores |
 | 14 | Lenguaje | El texto reescrito debe tener al menos dos párrafos separados por punto aparte, cada uno agrupando una idea principal distinta, con oraciones de sentido completo. | OA N°17 — organización en párrafos y punto aparte |
 | 15 | Ciencias Naturales | Cáscara = corteza (la más rígida y externa); pulpa = manto (semi-líquida, intermedia); carozo = núcleo (el más interno y caliente). | OA 15 — Capas de la Tierra |
-| 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. La alternativa b) contiene el valor 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
+| 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
 | 17 | Historia | Respuesta correcta si identifica una característica real del paisaje de la propia región y describe una adaptación o transformación coherente con ella. | OA 10 — Adaptación y transformación del paisaje |
 | 18 | Ciencias Naturales | Debe explicar que un sismo submarino puede desplazar una gran masa de agua y generar olas de gran tamaño (tsunami) que llegan a la costa, por lo que alejarse del borde costero y subir a zonas altas reduce el riesgo. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
 | 19 | Matemática | **b) Metro.** Unidad adecuada para medir distancias grandes, como el largo de una cancha. | OA 22 — Medir longitudes con metros y centímetros |
@@ -293,3 +303,28 @@ ________________________________________________________________________________
 | Ciencias Naturales | 5 | 2, 6, 10, 15, 18 |
 | Historia, Geografía y Cs. Sociales | 5 | 4, 8, 12, 17, 20 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 2 | 1 | 0 |
+| OA 4 | 1, 4 | 2 | 0 |
+| OA 5 | 3, 5 | 2 | 0 |
+| OA 6 | 9 | 1 | 0 |
+| OA 7 | 6 | 1 | 0 |
+| OA 8 | 7 | 1 | 0 |
+| OA 9 | 8, 20 | 1 | 1 |
+| OA 10 | 17 | 0 | 1 |
+| OA 12 | 12 | 1 | 0 |
+| OA 13 | 11 | 1 | 0 |
+| OA 14 | 16 | 1 | 0 |
+| OA 15 | 15 | 0 | 1 |
+| OA 16 | 10, 18 | 1 | 1 |
+| OA 17 | 13, 14 | 0 | 2 |
+| OA 22 | 19 | 1 | 0 |
+| **Total** | **20 preguntas** | **14** | **6** |

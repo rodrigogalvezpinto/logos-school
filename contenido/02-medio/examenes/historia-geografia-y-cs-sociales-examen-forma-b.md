@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 02-medio/historia-geografia-y-cs-sociales.md (15 OA, Decreto 614/2013)
-relacionado_con: pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A) — mismas 15 OA, preguntas distintas
+relacionado_con: contenido/02-medio/historia-geografia-y-cs-sociales.md (banco de contenido) — mismas 15 OA, preguntas distintas
 última actualización: 2026-08-10
 ---
 
@@ -42,7 +42,7 @@ relacionado_con: pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A) �
 
 Esta es la **Forma B** de este examen de práctica: una segunda versión, **100% original**,
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013
-que la Forma A, pero con preguntas distintas, para que puedas practicar más de una vez sin
+que el banco de contenido, pero con preguntas distintas, para que puedas practicar más de una vez sin
 memorizar respuestas. No reproduce preguntas reales del Examen Libre de Mineduc; su formato
 (mezcla de alternativas y preguntas abiertas, uso de estímulos como fuentes históricas y
 descripciones de mapas adaptadas, y Pauta de Corrección final) busca acercarte a la experiencia
@@ -60,9 +60,9 @@ Estado liberal decimonónico, al demostrar que un Estado de intervención mínim
 para enfrentar una crisis de esa magnitud?
 
 a) La Revolución Rusa
-b) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York
+b) La fundación de la Sociedad de las Naciones
 c) La firma del Tratado de Versalles
-d) La fundación de la Sociedad de las Naciones
+d) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York
 
 ---
 
@@ -89,9 +89,9 @@ chilena, al crear por primera vez experiencias culturales compartidas por person
 niveles socioeconómicos?
 
 a) La reforma agraria
-b) La difusión de la radio, el cine y el creciente interés popular por el deporte
+b) La creación del Instituto Nacional de Derechos Humanos
 c) La proscripción de los partidos políticos
-d) La creación del Instituto Nacional de Derechos Humanos
+d) La difusión de la radio, el cine y el creciente interés popular por el deporte
 
 ---
 
@@ -106,9 +106,9 @@ d) La creación del Instituto Nacional de Derechos Humanos
 ¿Qué hito de la Guerra Fría representa mejor este estímulo?
 
 a) La crisis de los misiles de Cuba
-b) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
+b) El fin de la división de Alemania
 dos bloques
-c) El fin de la división de Alemania
+c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
 d) La fundación de la ONU
 
 ---
@@ -421,14 +421,24 @@ tipo de riesgos.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York | OA 2 | Historia | 1 |
+| 1  | Alternativas | d) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York | OA 2 | Historia | 1 |
 | 2  | Alternativas | c) La Declaración Universal de los Derechos Humanos | OA 4 | Historia | 1 |
-| 3  | Alternativas | b) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
-| 4  | Alternativas | b) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
+| 3  | Alternativas | d) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
+| 4  | Alternativas | c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
 | 5  | Desarrollo breve | Fue una confrontación principalmente ideológica porque, evitando un choque militar directo que arriesgara una guerra nuclear, ambas superpotencias compitieron por demostrar la superioridad de su sistema político y económico a través de otras vías. Esferas válidas (dos): la cultura (propaganda, cine, literatura), el deporte (Juegos Olímpicos, boicots mutuos) o las ciencias (la carrera espacial) | OA 8 | Historia | 2 |
 | 6  | Alternativas | a) La Revolución Cubana | OA 10 | Historia | 1 |
 | 7  | Desarrollo breve | La Doctrina de la Seguridad Nacional promovía el fortalecimiento de las Fuerzas Armadas latinoamericanas como garantes del orden interno frente a la amenaza comunista percibida durante la Guerra Fría; esta doctrina fue utilizada para legitimar, en varios países de la región, la intervención militar en la política y la instauración de dictaduras que violaron sistemáticamente los Derechos Humanos | OA 10 | Historia | 2 |
@@ -486,3 +496,28 @@ tipo de riesgos.
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1 | 1 | 0 |
+| OA 4 | 2 | 1 | 0 |
+| OA 6 | 24, 25 | 1 | 1 |
+| OA 7 | 3 | 1 | 0 |
+| OA 8 | 4, 5 | 1 | 1 |
+| OA 10 | 6, 7 | 1 | 1 |
+| OA 11 | 8 | 1 | 0 |
+| OA 12 | 18, 19 | 1 | 1 |
+| OA 15 | 9, 10 | 1 | 1 |
+| OA 16 | 11, 12 | 1 | 1 |
+| OA 17 | 13, 14 | 1 | 1 |
+| OA 19 | 15 | 1 | 0 |
+| OA 20 | 16, 17 | 1 | 1 |
+| OA 22 | 20, 21 | 1 | 1 |
+| OA 25 | 22, 23 | 1 | 1 |
+| **Total** | **25 preguntas** | **15** | **10** |

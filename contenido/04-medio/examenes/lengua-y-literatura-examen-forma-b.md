@@ -8,7 +8,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193,
 
 # Examen de práctica — Lengua y Literatura — 4° medio (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Esta es la **Forma B** de este examen de práctica: una segunda versión, con textos y preguntas distintos a los de la Forma A, mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en dos textos literarios comparados, una columna de opinión y una sección de producción escrita, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Esta es la **Forma B** de este examen de práctica: una segunda versión, con textos y preguntas distintos a los del banco de contenido, mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en dos textos literarios comparados, una columna de opinión y una sección de producción escrita, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 > **Último curso del ciclo escolar.** Esta prueba corresponde al Plan Común de 4° medio, el último curso de tu paso por la educación media, y evalúa los tres Objetivos de Aprendizaje de la asignatura: comparar el tratamiento de un tema entre obras (OA N°1), evaluar críticamente textos no literarios (OA N°3), y producir textos propios coherentes, cohesionados y adecuados a género y audiencia (OA N°5).
 
@@ -55,8 +55,8 @@ d) Desde la mirada de un sindicato
 **3. (Alternativas)** ¿Qué elemento comparten ambos textos, a pesar de tratar el tema del trabajo desde contextos de producción distintos?
 
 a) Ambos ocurren en la misma región de Chile
-b) Ambos abordan la tensión entre la libertad de elegir un oficio y las condiciones impuestas por quien controla ese trabajo
-c) Ambos critican al mismo empleador
+b) Ambos critican al mismo empleador
+c) Ambos abordan la tensión entre la libertad de elegir un oficio y las condiciones impuestas por quien controla ese trabajo
 d) Ambos están narrados en primera persona por quien vive el trabajo directamente
 
 **4. (Verdadero o Falso, con justificación)** "El Texto 2 presenta el trabajo de reparto como una elección completamente libre, sin ninguna forma de control externo, a diferencia del Texto 1." Indica si es verdadero o falso y justifica tu respuesta con información de ambos textos.
@@ -80,15 +80,15 @@ d) Ambos están narrados en primera persona por quien vive el trabajo directamen
 **9. (Alternativas)** ¿Cuál es la intención explícita de la columna sobre el celular en el aula?
 
 a) Informar de manera neutral sobre la historia de los celulares
-b) Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes
+b) Explicar el funcionamiento técnico de una red móvil
 c) Proponer prohibir los celulares también fuera del colegio
-d) Explicar el funcionamiento técnico de una red móvil
+d) Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes
 
 **10. (Alternativas)** ¿Qué dato del texto es más fácilmente verificable por el lector?
 
 a) Que "cuarenta años de cambio tecnológico" alteraron la forma de relacionarse con la atención
-b) Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración reportada por los profesores
-c) Que oponerse a la restricción equivale a priorizar la comodidad por sobre el aprendizaje del curso
+b) Que oponerse a la restricción equivale a priorizar la comodidad por sobre el aprendizaje del curso
+c) Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración reportada por los profesores
 d) Que los apoderados consideran la medida "excesiva"
 
 **11. (Alternativas)** ¿Qué rol NO asume el enunciador de la columna frente a su audiencia?
@@ -148,20 +148,30 @@ d) Porque los videos cortos no tienen convenciones propias de género
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
 | 1 | **a)** La crisis del salitre y el sistema de pulperías del norte de Chile a comienzos del siglo XX: el pago en fichas solo canjeables en la pulpería y la ausencia de otro trabajo cercano solo se explican en ese contexto histórico. | OA N°1 — contexto de producción |
 | 2 | **a)** Desde la mirada de un nieto o nieta que reconstruye la experiencia de su abuelo a partir del relato familiar: el narrador transmite una memoria heredada, no vivida directamente. | OA N°1 — perspectiva adoptada |
-| 3 | **b)** Ambos abordan la tensión entre la libertad de elegir un oficio y las condiciones impuestas por quien controla ese trabajo. | OA N°1 — comparación de tratamiento del tema |
+| 3 | **c)** Ambos abordan la tensión entre la libertad de elegir un oficio y las condiciones impuestas por quien controla ese trabajo. | OA N°1 — comparación de tratamiento del tema |
 | 4 | **Falso.** Aunque Camila eligió el trabajo, el algoritmo y las calificaciones de los clientes controlan buena parte de sus condiciones ("la app decide casi todo lo demás"), por lo que su libertad es solo parcial, igual que en el Texto 1 la dependencia de la pulpería limitaba la del abuelo. | OA N°1 — perspectiva adoptada |
 | 5 | La ficha simboliza que el salario no es libre ni completo: solo puede gastarse dentro del mismo sistema que lo entrega, ilustrando una dependencia total del trabajador respecto de la empresa; si el trabajador hubiera recibido dinero canjeable en cualquier parte, esa dependencia se debilitaría. | OA N°1 — contexto de producción y recursos literarios |
 | 6 | En el Texto 1 el control es visible y humano —el dueño de la oficina salitrera y el sistema de pulpería ("no había otro trabajo en cien kilómetros a la redonda")—; en el Texto 2 el control es difuso y automatizado —el algoritmo y las calificaciones de clientes anónimos ("la app decide casi todo lo demás")—. | OA N°1 — comparación de tratamiento del tema (aplicación) |
 | 7 | La tercera persona cercana permite mostrar el contraste entre lo que Camila cree (tener control sobre su trabajo) y lo que en realidad ocurre (el control del algoritmo), generando cierta ironía; el Texto 1, en cambio, transmite la experiencia como memoria familiar heredada, con la autoridad emocional de un testimonio transmitido de generación en generación. | OA N°1 — perspectiva y su efecto |
 | 8 | La lectura es incompleta, porque iguala ambas situaciones ignorando diferencias relevantes: el Texto 1 trata un trabajo impuesto por la falta absoluta de alternativas, narrado como memoria heredada, con efecto estético de denuncia y duelo; el Texto 2 trata un trabajo elegido que esconde un control algorítmico menos visible, narrado con distancia irónica. Una comparación más precisa explica tanto lo compartido (la tensión entre libertad y control) como lo que distingue a cada época en contexto, perspectiva y tono. | OA N°1 — comparación integrada de contexto, perspectiva y efecto estético |
-| 9 | **b)** Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes: el propio texto declara y sostiene esa postura con un dato a lo largo del párrafo. | OA N°3 — intención explícita |
-| 10 | **b)** Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración: esta cifra se atribuye a una fuente identificable, lo que permite, en principio, contrastarla con otras fuentes. | OA N°3 — veracidad de la información |
+| 9 | **d)** Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes: el propio texto declara y sostiene esa postura con un dato a lo largo del párrafo. | OA N°3 — intención explícita |
+| 10 | **c)** Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración: esta cifra se atribuye a una fuente identificable, lo que permite, en principio, contrastarla con otras fuentes. | OA N°3 — veracidad de la información |
 | 11 | **b)** Fuente neutral que expone en igual medida todas las posturas: el texto no presenta con el mismo peso los argumentos de los apoderados que se oponen a la medida. | OA N°3 — posicionamiento y rol del enunciador |
 | 12 | **Falso.** Esa frase presenta solo dos opciones posibles (apoyar la restricción o "priorizar la comodidad momentánea"), cerrando la discusión en vez de invitar a evaluar los argumentos contrarios. | OA N°3 — intención implícita |
 | 13 | El enunciador asume el rol de defensor del derecho colectivo del curso a aprender sin distracciones; esto se sostiene en que no presenta en igual medida los argumentos de los apoderados que se oponen, y en que el cierre interpela directamente a quien se opone, atribuyéndole una motivación (la comodidad) sin dejarla argumentar por sí misma. | OA N°3 — posicionamiento y rol del enunciador |
@@ -196,3 +206,16 @@ d) Porque los videos cortos no tienen convenciones propias de género
 | Desarrollo breve (incluye aplicación) | 9 | 5, 6, 7, 13, 14, 15, 21, 22, 23 |
 | Desarrollo extenso | 4 | 8, 16, 24, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 3 | 5 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 3 | 5 |
+| OA 5 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
+| **Total** | **25 preguntas** | **8** | **17** |

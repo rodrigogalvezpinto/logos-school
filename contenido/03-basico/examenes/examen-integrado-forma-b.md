@@ -38,17 +38,17 @@ basado_en: >
 **1. (Historia, Geografía y Cs. Sociales — Alternativas)** En la antigua Roma existían dos tipos de vivienda: la **domus**, casa de una familia acomodada, y la **ínsula**, un edificio de varios pisos donde vivían familias más humildes. ¿Con qué tipo de vivienda actual se parece más una ínsula romana?
 
 a) Con una casa de un piso en el campo
-b) Con un edificio de departamentos
+b) Con un templo
 c) Con una carpa de camping
-d) Con un templo
+d) Con un edificio de departamentos
 
 ---
 
 **2. (Matemática — Alternativas)** ¿Cuál número es mayor: 519 o 591?
 
 a) 519
-b) 591
-c) Son iguales
+b) Son iguales
+c) 591
 d) No se puede saber
 
 ---
@@ -61,35 +61,33 @@ Explica por qué el cactus crece de forma nativa en el norte de Chile y la arauc
 
 **4. (Lenguaje y Comunicación — Verdadero o falso)** Lee el siguiente texto y responde.
 
-### "El cometa de Joaquín"
+### "El viaje en bote de Mateo"
 
-> Una tarde de septiembre, con mucho viento y el cielo despejado, Joaquín salió con su hermana Antonia a volar cometa a un cerro cerca de su casa, en Vallenar. Joaquín tenía nueve años, era flaco y ágil, y le encantaba trepar árboles y cerros sin miedo. Antonia, en cambio, era más cautelosa y prefería quedarse mirando desde abajo.
+> Un domingo de verano, Mateo y su primo Lucas salieron a remar en un bote pequeño por el río Maipo, cerca de Talagante. El agua estaba tranquila y el cielo, despejado. Mateo, que tenía ocho años, se sentía seguro porque su papá les había enseñado a usar chaleco salvavidas y a remar sincronizados. Lucas, más tranquilo, prefería solo disfrutar el paisaje y ver los pájaros en la orilla.
 >
-> El cometa, hecho de papel volantín rojo y una cola de retazos de tela, subió muy alto entre las ráfagas de viento. De pronto, una racha fuerte lo hizo bajar en picada y quedó enredado en las ramas más altas de un espino. Joaquín, sin pensarlo mucho, empezó a trepar el árbol para rescatarlo, mientras Antonia le gritaba que tuviera cuidado.
+> De pronto, una corriente más fuerte hizo girar el bote. Mateo no se asustó: recordó lo que su papá le dijo ("si el bote gira, remen los dos hacia el mismo lado") y, junto con Lucas, lograron enderezar el rumbo. Cuando volvieron a la orilla, su mamá les tenía preparada una merienda con sándwiches de palta y jugo de naranja.
 >
-> A mitad de camino, una rama se quebró bajo su pie y Joaquín resbaló un poco, raspándose la rodilla contra el tronco. Asustada, Antonia corrió a pedir ayuda a don Ramiro, un vecino que arreglaba una reja cerca de ahí. Don Ramiro trajo una escalera y, entre los dos, bajaron a Joaquín y también el cometa, que solo tenía la cola un poco rota.
->
-> Esa noche, mientras su mamá le limpiaba la raspadura en la rodilla, Joaquín prometió que la próxima vez pediría ayuda a un adulto antes de trepar tan alto. Antonia, orgullosa de haber pensado rápido, le arregló la cola del cometa con cinta adhesiva para poder volarlo de nuevo el fin de semana siguiente.
+> Esa tarde, Mateo le contó a su papá lo ocurrido y éste le dijo: "Bien hecho, Mateo. Recordaste la regla y trabajaron en equipo".
 
-[Imagen: un niño trepando un espino para rescatar un cometa rojo, mientras una niña lo mira preocupada desde el suelo, y un señor con una escalera se acerca]
+[Imagen: dos niños remando un bote en un río tranquilo, con chalecos salvavidas, y un adulto en la orilla saludándolos]
 
-El cometa de Joaquín quedó enredado en las ramas de un espino. ¿Verdadero o falso?
+El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 
 ---
 
 **5. (Matemática — Alternativas)** En el número 743, ¿cuánto vale el dígito 4?
 
 a) 4
-b) 40
+b) 743
 c) 400
-d) 743
+d) 40
 
 ---
 
 **6. (Historia, Geografía y Cs. Sociales — Alternativas)** Los **Juegos Olímpicos** nacieron en la antigua Grecia como una competencia deportiva y hoy se siguen realizando cada cuatro años en distintos países del mundo. ¿Qué nos muestra este ejemplo?
 
-a) Que todas las costumbres de la Antigüedad han desaparecido por completo
-b) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma
+a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma
+b) Que todas las costumbres de la Antigüedad han desaparecido por completo
 c) Que los Juegos Olímpicos se inventaron el siglo pasado
 d) Que solo Grecia puede organizar los Juegos Olímpicos
 
@@ -101,38 +99,38 @@ d) Que solo Grecia puede organizar los Juegos Olímpicos
 
 **8 y 9. (Lenguaje y Comunicación)** Lee el siguiente poema y responde las preguntas 8 y 9.
 
-### "La huerta de mi tía"
+### "El huerto del abuelo"
 
-> Mi tía tiene una huerta
-> detrás de su casa en Chillán.
-> El sol pinta de oro las hojas
-> y las abejas bailan sin parar.
+> Mi abuelo tiene un huerto
+> al pie del cerro en Curicó.
+> El sol despierta temprano
+> y las abejas zumban sin parar.
 >
-> Los tomates duermen colorados
-> bajo un techo de hojas verdes.
-> Las lechugas, monedas frescas,
-> se guardan el rocío de la mañana.
+> Los zapallos crecen despacio
+> bajo un manto de hojas anchas.
+> Las zanahorias, naranjas dulces,
+> guardan la frescura de la tierra.
 >
-> Cuando llega la tarde cansada
-> y las sombras se estiran despacio,
-> mi tía y yo, con las manos sucias,
-> guardamos la huerta hasta mañana.
+> Cuando cae la tarde tranquila
+> y las sombras se alargan lentas,
+> mi abuelo y yo, con las botas sucias,
+> cerramos el huerto hasta mañana.
 
-[Imagen: una tía y su sobrino trabajando en una huerta con tomates y lechugas, al atardecer, con abejas volando entre las plantas]
+[Imagen: un abuelo y su nieto cosechando zapallos y zanahorias en un huerto al atardecer, con abejas volando entre las plantas]
 
-**8. (Alternativas)** ¿En qué ciudad está la huerta de la tía?
+**8. (Alternativas)** ¿En qué ciudad está el huerto del abuelo?
 
-a) Chillán
+a) Curicó
 b) Temuco
 c) Copiapó
 d) Osorno
 
-**9. (Alternativas)** ¿Qué quiere decir la expresión "los tomates duermen colorados"?
+**9. (Alternativas)** ¿Qué quiere decir la expresión "los zapallos crecen despacio"?
 
-a) Que los tomates literalmente se quedan dormidos como las personas
-b) Que los tomates están quietos, colgando entre las hojas, de color rojo
-c) Que los tomates cambian de color mientras duermen
-d) Que los tomates hacen ruido durante la noche
+a) Que los zapallos literalmente se mueven lentos como personas
+b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas
+c) Que los zapallos cambian de tamaño mientras duermen
+d) Que los zapallos hacen ruido mientras crecen
 
 ---
 
@@ -157,29 +155,29 @@ d) Continente africano, océano Ártico
 
 **13. (Lenguaje y Comunicación — Alternativas)** Lee el siguiente texto y responde.
 
-### "Los pingüinos de Humboldt"
+### "El zorro culpeo"
 
-> El pingüino de Humboldt es un ave marina que vive en las costas de Chile y Perú. A diferencia de otras aves, no puede volar, pero es un excelente nadador.
+> El zorro culpeo, también llamado zorro colorado, es un cánido nativo de Sudamérica que habita en Chile, Argentina, Bolivia, Perú y Ecuador. Es el segundo zorro más grande del continente, después del zorro de monte.
 >
 > **¿Dónde vive?**
 >
-> En Chile, uno de los lugares más conocidos para observarlos es la Reserva Nacional Pingüino de Humboldt, frente a las costas de la Región de Coquimbo. Ahí forman colonias en islas rocosas, alejadas de los depredadores terrestres.
+> En Chile, se le encuentra desde la Región de Coquimbo hasta Tierra del Fuego, en hábitats muy diversos: matorrales, estepas, bosques y hasta zonas andinas por encima de los 3.000 metros. Es un animal muy adaptable.
 >
 > **¿De qué se alimenta?**
 >
-> Se alimenta principalmente de peces pequeños, como anchovetas y sardinas, que caza nadando bajo el agua a gran velocidad gracias a sus alas transformadas en aletas.
+> Es omnívoro y oportunista: come roedores pequeños (como el laucha), aves, reptiles, insectos, frutos nativos (como el maqui y la murta) y, en zonas cercanas a poblados, a veces carroña o desperdicios. Su dieta varía según la estación y la disponibilidad.
 >
-> **Una especie en peligro**
+> **Una especie a proteger**
 >
-> Actualmente, el pingüino de Humboldt está clasificado como una especie vulnerable, principalmente por la contaminación del mar y la escasez de peces para alimentarse. Por eso existen reservas naturales que buscan proteger su hábitat.
+> Aunque no está en peligro crítico, el zorro culpeo enfrenta amenazas como la caza por considerarlo dañino para el ganado, la fragmentación de su hábitat y los atropellos en rutas. En Chile, la Ley de Caza lo protege parcialmente, pero la educación sobre su rol ecológico (controlador de roedores) es clave para su conservación.
 
-[Imagen: un grupo de pingüinos de Humboldt sobre rocas frente al mar, con un letrero de reserva natural cerca]
+[Imagen: un zorro culpeo de pie en una estepa patagónica, con su pelaje rojizo-grisáceo y cola espesa, al atardecer]
 
-Si quisieras saber rápidamente por qué esta especie está en peligro, sin leer todo el texto, ¿qué subtítulo deberías buscar?
+Si quisieras saber rápidamente por qué este animal es importante para el ecosistema, sin leer todo el texto, ¿qué parte deberías buscar?
 
 a) "¿Dónde vive?"
 b) "¿De qué se alimenta?"
-c) "Una especie en peligro"
+c) "Una especie a proteger"
 d) "Glosario"
 
 ---
@@ -236,23 +234,33 @@ d) El derecho a la nacionalidad
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Historia, Geografía y Cs. Sociales | **b) Con un edificio de departamentos.** | OA 3 |
-| 2 | Matemática | **b) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
+| 1 | Historia, Geografía y Cs. Sociales | **d) Con un edificio de departamentos.** | OA 3 |
+| 2 | Matemática | **c) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
 | 3 | Ciencias Naturales | Cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte; la araucaria necesita el clima frío y lluvioso del sur. | OA 2 |
-| 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que el cometa "quedó enredado en las ramas más altas de un espino". | OA 4 |
-| 5 | Matemática | **b) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
-| 6 | Historia, Geografía y Cs. Sociales | **b) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
+| 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
+| 5 | Matemática | **d) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
+| 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
 | 7 | Ciencias Naturales | Reutilizar es volver a usar un objeto para el mismo fin u otro distinto, sin procesarlo; se acepta cualquier ejemplo razonable. | OA 5 |
-| 8 | Lenguaje y Comunicación | **a) Chillán.** El poema dice "detrás de su casa en Chillán". | OA 5 |
-| 9 | Lenguaje y Comunicación | **b) Que los tomates están quietos, colgando entre las hojas, de color rojo.** Uso de lenguaje figurado. | OA 5 |
+| 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
+| 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
 | 10 | Matemática | 9×6=**54 botellas**. | OA 8 |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
 | 12 | Ciencias Naturales | Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos reguladores como frutas o verduras. | OA 6 |
-| 13 | Lenguaje y Comunicación | **c) "Una especie en peligro".** Los subtítulos permiten encontrar información específica sin leer todo el texto. | OA 6 |
+| 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
 | 14 | Matemática | 2350÷5=**$470 cada uno**. | OA 10 |
 | 15 | Historia, Geografía y Cs. Sociales | Cualquier estrategia real y coherente con la zona fría (vivienda muy aislada como el iglú, ropa abrigada de pieles, alimentación basada en caza y pesca, entre otras). | OA 8 |
 | 16 | Ciencias Naturales | El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. Se acepta cualquier ejemplo coherente. | OA 10 |
@@ -265,3 +273,25 @@ d) El derecho a la nacionalidad
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas de esta **Forma B** son distintas de las de la **Forma A**: ambas formas permiten practicar el examen integrado completo sin repetir las mismas preguntas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 3 | 0 | 1 |
+| OA 3 | 1, 2 | 2 | 0 |
+| OA 4 | 4, 6 | 1 | 1 |
+| OA 5 | 5, 7, 8, 9 | 3 | 1 |
+| OA 6 | 12, 13 | 1 | 1 |
+| OA 7 | 11 | 1 | 0 |
+| OA 8 | 10, 15 | 0 | 2 |
+| OA 10 | 14, 16 | 0 | 2 |
+| OA 12 | 19 | 1 | 0 |
+| OA 14 | 20 | 1 | 0 |
+| OA 15 | 18 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| **Total** | **20 preguntas** | **12** | **8** |

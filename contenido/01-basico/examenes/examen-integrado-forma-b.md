@@ -56,15 +56,15 @@ c) Son iguales
 **3.** Si juntamos los sonidos "**ca**" + "**sa**", ¿qué palabra se forma?
 
 a) "saca"
-b) "casa"
-c) "seca"
+b) "seca"
+c) "casa"
 
 ---
 
 **4.** Hoy es viernes. ¿Qué día fue ayer?
 
-a) Sábado
-b) Jueves
+a) Jueves
+b) Sábado
 c) Domingo
 
 ---
@@ -80,15 +80,15 @@ c) 16
 **6.** Completa la palabra para que se lea "pollo": "po _ _ o"
 
 a) l
-b) ll
-c) rr
+b) rr
+c) ll
 
 ---
 
 **7.** [Imagen: un paisaje con una cordillera al fondo, un camino de tierra, un pueblo pequeño con casas y árboles] ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
 
-a) Camino pavimentado
-b) Cordillera
+a) Cordillera
+b) Camino pavimentado
 c) Edificio
 
 ---
@@ -109,8 +109,8 @@ ________________________________________________________________________________
 Según la nota, ¿a qué hora dice Camila que va a volver?
 
 a) A las 5
-b) A las 6
-c) A las 7
+b) A las 7
+c) A las 6
 
 ---
 
@@ -170,9 +170,9 @@ c) No se puede saber
 
 **16.** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el profesor está explicando?
 
-a) Gritar mi idea
+a) Gritar mi idea para que todos la escuchen
 b) Levantar la mano y esperar mi turno
-c) Interrumpir sin avisar
+c) Interrumpir al profesor sin pedir la palabra
 
 ---
 
@@ -208,19 +208,29 @@ ________________________________________________________________________________
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
 | 1 | Ciencias Naturales | **a) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
 | 2 | Matemática | **a) 16.** Al contar, el 16 viene después del 12, por lo tanto 16 es mayor que 12. | OA 4 — Comparar y ordenar números del 0 al 20 |
-| 3 | Lenguaje y Comunicación | **b) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
-| 4 | Historia, Geografía y Cs. Sociales | **b) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
+| 3 | Lenguaje y Comunicación | **c) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
+| 4 | Historia, Geografía y Cs. Sociales | **a) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
 | 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
-| 6 | Lenguaje y Comunicación | **b) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
-| 7 | Historia, Geografía y Cs. Sociales | **b) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
+| 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
+| 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
 | 8 | Ciencias Naturales | Cualquier combinación correcta, por ejemplo: guanaco (norte), zorro chilla (centro), pudú (sur), cactus (norte), palma chilena (centro), araucaria (sur). | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **b) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 9 | Lenguaje y Comunicación | **c) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **b) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
 | 11 | Ciencias Naturales | Menciona correctamente al menos 2 materiales de la mochila (género/suave, metal/duro, plástico/impermeable) con una propiedad de cada uno. | OA 8 — Los materiales y sus propiedades |
 | 12 | Historia, Geografía y Cs. Sociales | Respuesta correcta si describe el entorno real del estudiante usando al menos dos palabras geográficas correctas (camino, construcciones, vegetación, cordillera, mar, pueblo, ciudad, entre otras). | OA 10 — Paisajes de mi entorno |
@@ -242,3 +252,25 @@ ________________________________________________________________________________
 | Ciencias Naturales | 5 | 1, 8, 11, 15, 18 |
 | Historia, Geografía y Cs. Sociales | 5 | 4, 7, 12, 16, 20 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 4 | 1 | 0 |
+| OA 3 | 3 | 1 | 0 |
+| OA 4 | 2, 6 | 2 | 0 |
+| OA 5 | 1, 8 | 1 | 1 |
+| OA 8 | 5, 11 | 1 | 1 |
+| OA 9 | 10 | 1 | 0 |
+| OA 10 | 7, 9, 12, 14 | 3 | 1 |
+| OA 11 | 13, 15, 18 | 1 | 2 |
+| OA 13 | 19 | 0 | 1 |
+| OA 14 | 16 | 1 | 0 |
+| OA 15 | 20 | 0 | 1 |
+| OA 20 | 17 | 1 | 0 |
+| **Total** | **20 preguntas** | **13** | **7** |

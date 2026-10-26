@@ -27,7 +27,7 @@ b) El lápiz largo
 c) Miden lo mismo
 d) No se puede saber
 
-**2.** Ordena estos tres objetos de más corto a más largo: una goma de borrar, un lápiz, y una regla.
+**2.** Ordena estos tres objetos de más corto a más largo: una goma de borrar (**3 cm**), un lápiz (**18 cm**), y una regla (**30 cm**).
 
 **3.** La cuerda A mide 8 pasos de largo, y la cuerda B mide 5 pasos de largo. ¿Cuál cuerda es más larga?
 
@@ -56,7 +56,7 @@ d) 10
 ## Pauta de respuestas
 
 1. b) El lápiz largo
-2. Goma de borrar (más corta), lápiz, regla (más larga)
+2. Goma de borrar (3 cm, más corta), lápiz (18 cm), regla (30 cm, más larga)
 3. La cuerda A
 4. b) 3
 5. Falso (el pez tiene 2, el perro tiene 4)

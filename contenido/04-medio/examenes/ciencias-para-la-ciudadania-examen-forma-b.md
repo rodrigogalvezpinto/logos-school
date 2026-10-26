@@ -5,7 +5,7 @@ tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/ciencias-para-la-ciudadania.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/pruebas/ciencias-para-la-ciudadania-prueba.md (Forma A)
+forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/ciencias-para-la-ciudadania.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -40,7 +40,7 @@ puntos por pregunta de desarrollo breve; 3 puntos por pregunta de desarrollo ext
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto de Bases
    Curriculares N°193 de 2019 (Plan Común). Ninguna pregunta reproduce preguntas
    reales de un examen oficial de Mineduc. Esta es la **Forma B** del examen, con
-   preguntas distintas a la Forma A, pensada para poder practicar dos veces sin
+   preguntas propias, pensada para poder practicar dos veces sin
    memorizar respuestas.
 
 ---
@@ -54,8 +54,8 @@ térmico de sus muros y ventanas, logrando mantener una temperatura interior sim
 con un menor consumo de leña o gas para calefacción. Esta medida corresponde
 principalmente al criterio de:
 
-a) Gestión de residuos
-b) Eficiencia energética
+a) Eficiencia energética
+b) Gestión de residuos
 c) Tratamiento de recursos hídricos
 d) Conservación de ecosistemas
 
@@ -77,9 +77,9 @@ parte de sus residuos. Desde el criterio de gestión de residuos, la medida más
 adecuada es:
 
 a) Mezclarlos con los residuos domiciliarios comunes para reducir costos de transporte
-b) Entregarlos a un gestor autorizado para su disposición final segura como residuos
+b) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
    peligrosos
-c) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
+c) Entregarlos a un gestor autorizado para su disposición final segura como residuos
 d) Almacenarlos indefinidamente en el mismo lugar sin ningún tratamiento
 
 **5.** *(Desarrollo breve, 2 puntos)* Un colegio quiere reducir su consumo eléctrico,
@@ -112,9 +112,9 @@ nativo. ¿Cuál de las siguientes medidas responde mejor al criterio de conserva
 ecosistemas?
 
 a) Aumentar la velocidad máxima permitida en el tramo
-b) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
+b) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
 c) Eliminar toda la vegetación cercana a la carretera para mejorar la visibilidad
-d) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
+d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
 
 **9.** *(Desarrollo breve, 2 puntos)* Un vertedero municipal instala un sistema para
 capturar el metano que se genera por la descomposición de los residuos orgánicos y
@@ -135,8 +135,8 @@ qué un proyecto puede ser "sostenible" aunque permita actividad humana.
 tecnificado por goteo es relevante para la sostenibilidad hídrica de la agricultura
 chilena porque:
 
-a) Aumenta el volumen total de agua utilizada por hectárea
-b) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
+a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
+b) Aumenta el volumen total de agua utilizada por hectárea
    de forma más eficiente
 c) Elimina por completo la necesidad de agua para el cultivo
 d) Solo puede aplicarse en zonas con abundante lluvia
@@ -256,21 +256,31 @@ económica.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | b) Eficiencia energética | OA 2 |
+| 1 | Alternativas | a) Eficiencia energética | OA 2 |
 | 2 | Verdadero o falso | Falso. Un proyecto técnicamente correcto puede fracasar si es demasiado costoso o si la comunidad no lo comprende ni lo apoya; la evidencia científica debe complementarse con viabilidad económica y aceptación social. | OA 2 |
 | 3 | Desarrollo breve | Proteger totalmente implica no permitir ninguna extracción ni actividad sobre el recurso (por ejemplo, la zona núcleo de la reserva); utilizar de forma sostenible implica permitir una actividad regulada (pesca artesanal con cuotas y control técnico) que no compromete la capacidad del recurso de regenerarse. Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
-| 4 | Alternativas | b) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
+| 4 | Alternativas | c) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
 | 5 | Desarrollo breve | Debe medir el consumo real (lecturas del medidor por sala u horario), identificar los focos de mayor gasto y comparar con un período anterior o un estándar de referencia, para diseñar una solución dirigida al problema real y poder medir su efectividad después de implementada; un proyecto "basado en evidencia" comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
 | 6 | Desarrollo extenso | Respuesta abierta; por ejemplo, instalar un sistema solar o híbrido para generar electricidad en tierra (eficiencia energética / reducción de emisiones) junto con una planta de compostaje o valorización de los desechos de pesca (gestión de residuos); debe evaluar el costo de inversión inicial, la posibilidad de subsidios estatales (por ejemplo, del Ministerio de Energía) y la necesidad de comprometer a la organización de pescadores para asegurar el uso y mantención del proyecto en el tiempo. | OA 2 |
 | 7 | Verdadero o falso | Falso. En el relleno sanitario, los residuos orgánicos se descomponen sin oxígeno y generan metano, un potente gas de efecto invernadero; reducir lo que llega al relleno (por ejemplo, mediante compostaje) también reduce esas emisiones. | OA 2 |
-| 8 | Alternativas | b) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
+| 8 | Alternativas | d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
 | 9 | Desarrollo breve | Debe explicar que el proyecto gestiona el residuo evitando que se acumule sin control, y que al capturar el metano en vez de dejarlo escapar a la atmósfera reduce directamente las emisiones de un gas de efecto invernadero potente, transformando además ese gas en una fuente útil de energía. | OA 2 |
 | 10 | Desarrollo extenso | La opción (a) destruye directamente parte del humedal (hábitat de aves, filtración de agua, protección costera frente a marejadas); la opción (b) permite el uso turístico y educativo del humedal sin destruirlo, siendo compatible con su conservación. Un proyecto es sostenible cuando compatibiliza el uso humano con el mantenimiento de la capacidad del ecosistema de regenerarse y seguir prestando sus servicios, no cuando maximiza el uso a corto plazo sin considerar el impacto. | OA 2 |
-| 11 | Alternativas | b) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
+| 11 | Alternativas | a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
 | 12 | Desarrollo breve | Debe señalar que al usar especies nativas se restablece hábitat y biodiversidad propia del lugar (conservación de ecosistemas) y que, al mismo tiempo, el bosque en crecimiento captura y almacena CO₂ atmosférico, funcionando como sumidero de carbono, lo que contribuye además a la mitigación del cambio climático. | OA 2 |
 | 13 | Desarrollo extenso | Debe exigir estudios hidrogeológicos independientes sobre la capacidad de recarga del acuífero y el impacto de la extracción minera sobre su disponibilidad futura; evaluar si el costo y plazo de la planta desalinizadora realmente compensa el agua extraída (viabilidad económica y técnica); y asegurar consulta y participación real de la comunidad afectada en la decisión, no solo la oferta de compensación de la empresa. | OA 2 |
 | 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |
@@ -285,6 +295,91 @@ económica.
 | 23 | Desarrollo breve | Debe señalar que los bosques actúan como sumideros de carbono, capturando y almacenando CO₂ mediante fotosíntesis; al eliminarlos se pierde esa capacidad de captura y, además, gran parte del carbono almacenado en la biomasa puede liberarse a la atmósfera (por ejemplo, si se queman los árboles talados), por lo que la deforestación contribuye directamente al aumento de gases de efecto invernadero. | OA 3 |
 | 24 | Desarrollo extenso | El adelanto de las temperaturas primaverales (efecto físico del cambio climático) puede estar induciendo estos cambios de comportamiento (efecto biológico); el riesgo es un desacople temporal entre especies interdependientes: si la planta o el insecto del que un ave se alimenta no adelanta su ciclo al mismo ritmo, el ave podría llegar a un momento en que no hay suficiente alimento disponible, afectando su reproducción y supervivencia. | OA 3 |
 | 25 | Desarrollo extenso | Respuesta abierta; por ejemplo, ventaja: reduce las emisiones directas de gases de efecto invernadero y de contaminantes locales asociadas al transporte a combustión, mejorando también la calidad del aire urbano; limitación: el beneficio climático depende de que la electricidad usada provenga de fuentes renovables, y el costo inicial de renovar flotas o comprar vehículos eléctricos es alto, lo que puede requerir subsidios estatales o financiamiento a largo plazo para ser viable a gran escala. | OA 3 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (2 puntos)
+
+- Distingue la protección total: zona núcleo sin ninguna extracción ni actividad — **1 punto**
+- Distingue el uso sostenible: pesca regulada con cuotas que no compromete la capacidad de regeneración — **1 punto**
+
+### Pregunta 5 (2 puntos)
+
+- Propone medir el consumo real por sala u horario y compararlo con un período anterior o un estándar, para identificar los focos de mayor gasto — **1 punto**
+- Justifica el diagnóstico cuantificado como base para dirigir el proyecto y poder medir su efectividad después — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Propone al menos dos medidas pertinentes: generación solar o híbrida y compostaje o valorización de desechos de pesca — **1 punto**
+- Evalúa el costo de inversión inicial y la posibilidad de subsidios estatales — **1 punto**
+- Considera el compromiso de la organización de pescadores para el uso y la mantención en el tiempo — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Explica que el proyecto gestiona el residuo y evita su acumulación sin control — **1 punto**
+- Explica que capturar el metano reduce un gas de efecto invernadero potente y lo convierte en energía útil — **1 punto**
+
+### Pregunta 10 (3 puntos)
+
+- Evalúa la opción (a) como destructiva del humedal y de sus servicios ecosistémicos — **1 punto**
+- Evalúa la opción (b) como compatible con la conservación del humedal — **1 punto**
+- Explica que un proyecto es sostenible cuando compatibiliza el uso humano con la capacidad de regeneración del ecosistema — **1 punto**
+
+### Pregunta 12 (2 puntos)
+
+- Relaciona las especies nativas con la conservación del hábitat y la biodiversidad local — **1 punto**
+- Señala el beneficio climático: el bosque en crecimiento captura y almacena CO₂ como sumidero de carbono — **1 punto**
+
+### Pregunta 13 (3 puntos)
+
+- Exige estudios hidrogeológicos independientes sobre la recarga del acuífero y el impacto de la extracción — **1 punto**
+- Evalúa la viabilidad económica y técnica de la planta desalinizadora frente al agua extraída — **1 punto**
+- Exige consulta y participación real de la comunidad afectada, no solo una compensación — **1 punto**
+
+### Pregunta 16 (2 puntos)
+
+- Menciona la validación del modelo con proyecciones pasadas y el uso de distintos escenarios de emisiones — **1 punto**
+- Menciona el respaldo de instituciones científicas y la consistencia con otros modelos independientes — **1 punto**
+
+### Pregunta 18 (3 puntos)
+
+- Evalúa la opción (a): captura carbono más rápido y a menor costo, pero genera un ecosistema poco diverso — **1 punto**
+- Evalúa la opción (b): captura más lenta, pero restaura hábitat, biodiversidad y resiliencia — **1 punto**
+- Sopesa explícitamente velocidad de mitigación frente a valor ecológico del ecosistema restaurado — **1 punto**
+
+### Pregunta 20 (2 puntos)
+
+- Explica que el metano es un gas de efecto invernadero con alto potencial de retener calor en el corto plazo — **1 punto**
+- Menciona una forma concreta de reducirlo: cambios en la alimentación del ganado, manejo de estiércol o captura de biogás — **1 punto**
+
+### Pregunta 21 (3 puntos)
+
+- Explica un componente físico: el aumento de temperatura incrementa olas de calor y seca la vegetación — **1 punto**
+- Relaciona ese efecto con el ecosistema: más material combustible para incendios, o lluvias intensas y aluviones en zonas áridas — **1 punto**
+- Propone una medida de adaptación, no de mitigación: alerta temprana, cortafuegos u ordenamiento territorial — **1 punto**
+
+### Pregunta 23 (2 puntos)
+
+- Explica que los bosques actúan como sumideros de carbono mediante la fotosíntesis — **1 punto**
+- Explica que al eliminarlos se pierde esa captura y se libera el carbono almacenado en la biomasa — **1 punto**
+
+### Pregunta 24 (3 puntos)
+
+- Relaciona el adelanto de las temperaturas primaverales con el cambio climático — **1 punto**
+- Explica el desacople temporal entre especies interdependientes — **1 punto**
+- Explica el riesgo para la alimentación, la reproducción o la supervivencia del ave — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Menciona una ventaja: menos emisiones directas y mejor calidad del aire urbano — **1 punto**
+- Menciona una limitación: el beneficio depende de una matriz eléctrica renovable, o el alto costo de renovar flotas — **1 punto**
+- Incorpora la dimensión económica: subsidios o financiamiento de largo plazo para ser viable a gran escala — **1 punto**
+
+---
 
 ### Resumen de puntaje
 
@@ -306,3 +401,15 @@ económica.
 | Módulo 3: Ambiente y Sostenibilidad | OA N°2 — Proyectos locales de protección y uso sostenible de recursos naturales | 1 a 13 | 13 |
 | Módulo 3: Ambiente y Sostenibilidad | OA N°3 — Cambio climático: efectos en los ecosistemas y mitigación | 14 a 25 | 12 |
 | **Total** | **2 OA** | | **25** |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 4 | 9 |
+| OA 3 | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 3 | 9 |
+| **Total** | **25 preguntas** | **7** | **18** |

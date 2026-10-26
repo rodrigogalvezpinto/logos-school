@@ -8,7 +8,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 2° medio — FORMA B
 
-*Segunda versión del examen de ensayo de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con textos y preguntas distintos a los de la Forma A. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Segunda versión del examen de ensayo de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con textos y preguntas distintos a los del banco de contenido. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -37,8 +37,8 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 **1. (Alternativas)** ¿Qué situación motiva, en el presente del relato, la decisión de Tomás de abrir la tapa trasera del reloj?
 
 a) Un mandato explícito de su abuelo antes de morir
-b) La curiosidad por entender el silencio de su padre frente a un objeto heredado
-c) La necesidad de vender el reloj para pagar una deuda familiar
+b) La necesidad de vender el reloj para pagar una deuda familiar
+c) La curiosidad por entender el silencio de su padre frente a un objeto heredado
 d) Un descubrimiento accidental durante una mudanza
 
 **2. (Verdadero o Falso, con justificación)** "El papel encontrado dentro del reloj está escrito por la misma persona a lo largo de todo el fragmento, en un solo momento." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
@@ -79,14 +79,14 @@ d) Un descubrimiento accidental durante una mudanza
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El manzano de don Segundo"?
 
 a) La rivalidad entre Paulina y la empresa forestal por el precio del terreno
-b) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia
+b) La disputa legal entre Paulina y su padre por la herencia de la tierra
 c) La decisión de don Segundo de mudarse a la ciudad de Talca
-d) La disputa legal entre Paulina y su padre por la herencia de la tierra
+d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia
 
 **7. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria familiar y el esfuerzo de varias generaciones en la escena?
 
-a) La camioneta forestal
-b) El manzano
+a) El manzano
+b) La camioneta forestal
 c) El papel que dobla y desdobla don Segundo
 d) El techo de la casa
 
@@ -107,8 +107,8 @@ d) El techo de la casa
 **10. (Alternativas)** ¿A qué celebración cultural alude explícitamente el microcuento "El primer humo"?
 
 a) El Día de Muertos mexicano
-b) El Wetripantu o Año Nuevo mapuche
-c) La Fiesta de La Tirana
+b) La Fiesta de La Tirana
+c) El Wetripantu o Año Nuevo mapuche
 d) El Día de las Ánimas de la cultura chilota
 
 **11. (Verdadero o Falso, con justificación)** "La ceremonia del tío Melipán pierde por completo su sentido mientras vive en Temuco, porque en la ciudad no puede realizarla de ninguna forma." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
@@ -204,20 +204,30 @@ d) Usar únicamente evidencia no literaria, evitando cualquier cita literaria
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** La curiosidad por entender el silencio de su padre frente a un objeto heredado. | OA N°3 — conflicto central |
+| 1 | **c)** La curiosidad por entender el silencio de su padre frente a un objeto heredado. | OA N°3 — conflicto central |
 | 2 | **Falso.** El papel incluye dos escrituras distintas, de dos personas y momentos diferentes: la nota original de R. Ordóñez fechada en 1968, y un agregado posterior, con "otra tinta y una letra más temblorosa", escrito "mucho después". | OA N°3 — extracción de información explícita e implícita |
 | 3 | R. Ordóñez le advierte a Waldo que suba solo, sin esperar a los demás, porque sentía que la mina "crujía distinto"; Waldo no le hace caso y muere en el derrumbe. La advertencia no escuchada se convierte en la causa directa del desenlace trágico, y en la razón por la que R. Ordóñez conserva el reloj como una carga de la que no pudo desprenderse. | OA N°3 — análisis de personajes (dichos y consecuencias) |
 | 4 | El indicio es que el padre de Tomás guarda un reloj que "nunca usaba" y que se negó a arreglar "a propósito", además de decir que "algún día" le contaría la historia; estos detalles anticipan, antes de leer la nota, que el reloj esconde algo doloroso no resuelto, generando expectativa en el lector. | OA N°3 — efecto del indicio |
 | 5 | Debe explicar que presentar la historia de la mina como una nota intercalada, escrita por otra persona (R. Ordóñez) y descubierta por Tomás al mismo tiempo que el lector, produce un efecto de revelación progresiva y mayor verosimilitud que si un narrador omnisciente contara de entrada lo ocurrido con Waldo; y relacionar el relato con una obra pertinente sobre memoria del trabajo minero (por ejemplo, *Sub Terra* de Baldomero Lillo), explicando que ambos textos comparten la idea de que la muerte de un trabajador queda como una deuda moral que alguien de otra generación debe finalmente reconocer. | OA N°3 — narrador/recurso narrativo y relación intertextual (integrada) |
-| 6 | **b)** La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia. | OA N°5 — conflicto central |
-| 7 | **b)** El manzano. | OA N°5 — símbolo |
+| 6 | **d)** La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia. | OA N°5 — conflicto central |
+| 7 | **a)** El manzano. | OA N°5 — símbolo |
 | 8 | La luz que se apaga hasta quedar solo un resplandor sobre las manzanas más altas concentra visualmente la atención en el fruto del árbol —resultado de décadas de esfuerzo familiar— justo en el momento en que la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida inminente sin necesidad de palabras adicionales. | OA N°5 — elementos de la puesta en escena |
 | 9 | Debe explicar que don Segundo cuestiona la idea de que el valor de la tierra se mide únicamente por su rendimiento productivo en metros cúbicos de madera, tensión vigente en zonas rurales chilenas afectadas por la expansión de plantaciones forestales de pino y eucalipto; y señalar que la escena dialoga con obras de la narrativa rural chilena que abordan el desplazamiento del campesinado frente a la industria forestal (por ejemplo, cuentos de tradición realista sobre el mundo campesino del sur de Chile), compartiendo la idea de la tierra como memoria familiar amenazada por una lógica puramente comercial. | OA N°5 — creencias/época y relación intertextual (integrada) |
-| 10 | **b)** El Wetripantu o Año Nuevo mapuche. | OA N°8 — antecedente cultural |
+| 10 | **c)** El Wetripantu o Año Nuevo mapuche. | OA N°8 — antecedente cultural |
 | 11 | **Falso.** El texto indica lo contrario: aun en la ciudad, el tío "buscaba siempre un patio, una plaza, algún lugar con tierra donde encender un fuego pequeño esa noche, aunque fuera a escondidas de los vecinos", mostrando que mantuvo la ceremonia adaptada al nuevo contexto urbano. | OA N°8 — antecedente cultural y visión de mundo |
 | 12 | Por ejemplo: "no sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia", o bien "seguramente fue solo el frío y el sueño", frases que reconocen la incertidumbre sin restarle valor emocional a la ceremonia. | OA N°8 — hipótesis fundamentada con citas |
 | 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente, y la relación explícita entre el Wetripantu y el proceso histórico de migración de comunidades mapuche desde el campo hacia ciudades como Temuco. | OA N°8 — interpretación literaria integrada |
@@ -255,3 +265,19 @@ d) Usar únicamente evidencia no literaria, evitando cualquier cita literaria
 | Desarrollo breve (incluye aplicación) | 8 | 3, 4, 8, 12, 16, 20, 23, 24 |
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 1 | 4 |
+| OA 5 | 6, 7, 8, 9 | 2 | 2 |
+| OA 8 | 10, 11, 12, 13 | 1 | 3 |
+| OA 9 | 14, 15, 16, 17 | 2 | 2 |
+| OA 10 | 18, 19, 20, 21 | 2 | 2 |
+| OA 14 | 22, 23, 24, 25 | 0 | 4 |
+| **Total** | **25 preguntas** | **8** | **17** |

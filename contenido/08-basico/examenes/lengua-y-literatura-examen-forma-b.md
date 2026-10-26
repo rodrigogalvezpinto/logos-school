@@ -7,7 +7,7 @@ n° de preguntas: 25
 duración: 90 minutos
 materiales permitidos: lápiz, goma, hoja de respuesta
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /08-basico/lengua-y-literatura.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A, misma cobertura de Objetivos de Aprendizaje
+relación con otras formas: segunda versión (Forma B), con preguntas propias, misma cobertura de Objetivos de Aprendizaje
 última actualización: 2026-08-10
 ---
 
@@ -15,7 +15,7 @@ relación con otras formas: segunda versión (Forma B), con preguntas distintas 
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-*Segunda versión (Forma B) del examen de práctica de la asignatura, construida a partir del mismo banco de preguntas de estudio (`lengua-y-literatura.md`) que la Forma A, pero con textos y preguntas distintos. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con tabla) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas y todos los textos son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Segunda versión (Forma B) del examen de práctica de la asignatura, construida a partir del mismo banco de preguntas de estudio (`lengua-y-literatura.md`) que el banco de contenido, pero con textos y preguntas distintos. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con tabla) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas y todos los textos son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 **Instrucciones para el estudiante:**
 
@@ -41,8 +41,8 @@ relación con otras formas: segunda versión (Forma B), con preguntas distintas 
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento?
 
-a) La competencia entre don Servando y el profesor del liceo
-b) La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento
+a) La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento
+b) La competencia entre don Servando y el profesor del liceo
 c) La pelea de don Servando con su esposa por los cuadernos
 d) La decisión del narrador de dejar de visitar el kiosco
 
@@ -78,9 +78,9 @@ d) La madrastra
 **6. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "tejo" a lo largo del poema?
 
 a) Confunde al lector sobre el tema del poema
-b) Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante
+b) Indica que el poema tiene errores de redacción
 c) No produce ningún efecto relevante
-d) Indica que el poema tiene errores de redacción
+d) Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante
 
 **7. (Alternativas)** ¿Qué figura de lenguaje figurado se reconoce en "el frío que muerde los dedos cansados"?
 
@@ -105,8 +105,8 @@ d) Aliteración
 
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Tomás en el relato?
 
-a) Elegir entre subir al bote solo o esperar a sus padres
-b) Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote
+a) Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote
+b) Elegir entre subir al bote solo o esperar a sus padres
 c) Decidir si le cuenta o no a doña Nelly sobre el volcán
 d) Elegir entre dos botes distintos para evacuar
 
@@ -129,9 +129,9 @@ d) Elegir entre dos botes distintos para evacuar
 **14. (Alternativas)** ¿Cuál es la postura principal del autor o autora de la columna?
 
 a) La bicicleta es un medio de transporte demasiado peligroso y debería desincentivarse
-b) El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura
+b) El Estado no tiene ningún rol que cumplir en la seguridad vial
 c) Los ciclistas son los únicos responsables de los accidentes que sufren
-d) El Estado no tiene ningún rol que cumplir en la seguridad vial
+d) El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura
 
 **15. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
@@ -200,24 +200,34 @@ d) Porque los compañeros no entenderían el significado de esas palabras
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento. | OA N°3 — conflicto central |
+| 1 | **a)** La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento. | OA N°3 — conflicto central |
 | 2 | **c)** El sabio. | OA N°3 — personaje tipo |
 | 3 | **Falso.** El narrador es una voz construida dentro del relato (quien recuerda su infancia y participa en la historia), mientras que el autor es la persona real que escribió la novela; ambos pueden pensar distinto y no deben confundirse. | OA N°3 — narrador versus autor |
 | 4 | Debe explicar que el cuaderno no es un objeto cualquiera: representa el esfuerzo de don Servando por preservar y ordenar un conocimiento que él mismo no podía leer directamente, y simboliza que la sabiduría puede construirse sin pasar por la lectura o la escritura formal. | OA N°3 — símbolo |
 | 5 | Debe describir la evolución del narrador desde asumir, sin cuestionarlo, que don Servando "sabía" porque leía mucho, hasta comprender —tras la revelación final— que su saber venía de la memoria y la escucha; debe identificar el prejuicio de asociar la falta de estudios formales con la falta de sabiduría; y explicar el uso del pretérito pluscuamperfecto ("había memorizado", "había ido ordenando") y de expresiones temporales explícitas ("durante más de cuarenta años", "hoy") para marcar los saltos entre presente y pasado. | OA N°3 — evolución de personajes, prejuicios y disposición temporal (integrada) |
-| 6 | **b)** Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante. | OA N°4 — efecto de las repeticiones |
+| 6 | **d)** Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante. | OA N°4 — efecto de las repeticiones |
 | 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
 | 8 | Debe explicar que la comparación sugiere que tejer es, para la hablante, una actividad tan constante, paciente y casi instintiva como la que realiza una araña al construir su tela, transmitiendo la idea de una labor incansable y casi automática, sostenida a pesar del cansancio o las dificultades. | OA N°4 — interpretación de una comparación |
 | 9 | Debe identificar la repetición de estructura ("tejo el...", "tejo aunque...") y explicar que produce un efecto de cadencia rítmica y de insistencia, coherente con el título "Tejo, abuela, tejo"; y explicar que, sin la repetición de "tejo", el poema perdería el efecto de constancia y ritmo, sintiéndose como una afirmación aislada en vez de una actividad sostenida en el tiempo. | OA N°4 — repeticiones y efecto de su ausencia |
-| 10 | **b)** Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote. | OA N°8 — identificación del dilema |
+| 10 | **a)** Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote. | OA N°8 — identificación del dilema |
 | 11 | **Falso.** La erupción del volcán Chaitén en mayo de 2008 es un hecho histórico real que obligó a evacuar por completo la localidad de Chaitén; conocer este contexto es clave para dimensionar el peligro real que enfrenta Tomás. | OA N°8 — contexto histórico |
 | 12 | Cualquier posicionamiento razonado, a favor o en contra, que reconozca explícitamente el riesgo real de la situación (perder el último bote disponible durante una erupción) y no lo ignore al fundamentar la postura. | OA N°8 — posicionamiento frente a un dilema |
 | 13 | Debe integrar el dilema de Tomás, un posicionamiento fundamentado frente a él, y una relación explícita y coherente con el contexto histórico real de la erupción de 2008 y con la visión de mundo sobre el valor de cumplir una promesa que transmite el relato. | OA N°8 — interpretación coherente e integrada |
-| 14 | **b)** El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura. | OA N°9 — postura del autor |
+| 14 | **d)** El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura. | OA N°9 — postura del autor |
 | 15 | **b)** "Los accidentes que involucran a ciclistas aumentaron en más de un 40% en la última década", según cifras de Conaset. | OA N°9 — hecho versus opinión |
 | 16 | Debe explicar que el autor o autora usa el imperativo en primera persona plural para involucrar directamente al lector en una acción colectiva y urgente, transmitiendo que el cambio depende también de la ciudadanía y no solo de las autoridades. | OA N°9 — intención en el uso de modos verbales |
 | 17 | Debe explicar que el subjuntivo expresa un deseo sobre algo que actualmente no ocurre (la desigual inversión municipal en ciclovías frente a la vialidad automotriz), transmitiendo una crítica indirecta sin acusar directamente a una autoridad; y dar una postura personal fundamentada con al menos un argumento propio. | OA N°9 — modos verbales y postura personal |
@@ -252,3 +262,19 @@ d) Porque los compañeros no entenderían el significado de esas palabras
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
+| OA 4 | 6, 7, 8, 9 | 2 | 2 |
+| OA 8 | 10, 11, 12, 13 | 1 | 3 |
+| OA 9 | 14, 15, 16, 17 | 2 | 2 |
+| OA 10 | 18, 19, 20, 21 | 2 | 2 |
+| OA 16 | 22, 23, 24, 25 | 1 | 3 |
+| **Total** | **25 preguntas** | **10** | **15** |

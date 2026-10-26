@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 07-basico/historia-geografia-y-cs-sociales.md (13 OA, Decreto 614/2013)
-relacionado_con: 07-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A)
+relacionado_con: contenido/07-basico/historia-geografia-y-cs-sociales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -33,7 +33,7 @@ relacionado_con: 07-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (F
 7. Al finalizar, revisa que hayas respondido todas las preguntas.
 
 Esta es la **Forma B** de esta prueba de práctica: un segundo set de 25 preguntas, distintas de
-las de la Forma A, pero que cubre los mismos 13 Objetivos de Aprendizaje (OA) oficiales del
+las del banco de contenido, pero que cubre los mismos 13 Objetivos de Aprendizaje (OA) oficiales del
 Decreto 614/2013 para 7° básico, con una distribución equivalente entre los tres ejes
 (Historia, Geografía y Formación Ciudadana). Es un **material de práctica 100% original**, que
 no reproduce preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y
@@ -51,10 +51,10 @@ Corrección final) busca acercarte a la experiencia del examen real.
 
 a) Ocurrió en un único lugar del planeta (Medio Oriente) y luego se difundió hacia todas las
    demás regiones
-b) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
+b) Solo ocurrió en el continente americano
    Oriente, China y América— en momentos diferentes
 c) Ocurrió de manera simultánea y de la misma forma en todos los continentes
-d) Solo ocurrió en el continente americano
+d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
 
 ---
 
@@ -75,8 +75,8 @@ d) El intercambio de bienes entre distintas aldeas
 ¿Cuál de las siguientes afirmaciones sobre los sistemas religiosos de las primeras
 civilizaciones, como Mesopotamia o Egipto, es correcta?
 
-a) Los sistemas religiosos estaban completamente separados del poder político
-b) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
+a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
+b) Los sistemas religiosos estaban completamente separados del poder político
    político, legitimando la autoridad del gobernante
 c) Las primeras civilizaciones no desarrollaron ningún tipo de religión organizada
 d) Los sacerdotes no tenían ninguna influencia social ni política
@@ -103,9 +103,9 @@ religiosos, escritura y contabilidad)?
 era ejercido por un grupo reducido de personas, generalmente las más ricas?
 
 a) Monarquía
-b) Oligarquía
+b) Ninguna forma de gobierno del mundo antiguo funcionaba así
 c) Democracia ateniense
-d) Ninguna forma de gobierno del mundo antiguo funcionaba así
+d) Oligarquía
 
 ---
 
@@ -392,15 +392,25 @@ convivencia entre distintos pueblos y culturas.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | b) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio Oriente, China y América— en momentos diferentes | OA 2 | Historia | 1 |
+| 1  | Alternativas | d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio Oriente, China y América— en momentos diferentes | OA 2 | Historia | 1 |
 | 2  | Alternativas | c) La cantidad de alimento producida por sobre lo necesario para sobrevivir día a día | OA 2 | Historia | 1 |
-| 3  | Alternativas | b) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder político, legitimando la autoridad del gobernante | OA 3 | Historia | 1 |
+| 3  | Alternativas | a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder político, legitimando la autoridad del gobernante | OA 3 | Historia | 1 |
 | 4  | Desarrollo breve | Las ciudades concentraron población, recursos y poder en un mismo lugar, lo que facilitó la administración centralizada, la diferenciación de roles sociales, la construcción de templos y la necesidad de registrar información de forma sistemática (escritura y contabilidad) | OA 3 | Historia | 2 |
-| 5  | Alternativas | b) Oligarquía | OA 6 | Historia | 1 |
+| 5  | Alternativas | d) Oligarquía | OA 6 | Historia | 1 |
 | 6  | Alternativas | b) Fue fundamental: la economía romana dependió en gran medida del trabajo de personas esclavizadas, muchas de ellas obtenidas mediante las conquistas militares | OA 7 | Historia | 1 |
 | 7  | Desarrollo breve | Al convertirse en el culto oficial del imperio, el cristianismo se difundió ampliamente por todo el territorio romano, lo que permitió que sobreviviera y se expandiera incluso después de la caída del imperio, transformándose en uno de los elementos que darían forma a la civilización europea medieval | OA 7 | Historia | 2 |
 | 8  | Alternativas | c) Germana | OA 9 | Historia | 1 |
@@ -458,8 +468,31 @@ otros criterios de conversión.)*
 
 ### Nota sobre esta Forma B
 
-Esta Forma B cubre los mismos 13 OA que la Forma A, con la misma distribución de preguntas y
+Esta Forma B cubre los mismos 13 OA que el banco de contenido, con la misma distribución de preguntas y
 puntaje por eje y OA, pero usa preguntas, estímulos y distractores distintos a los de la Forma
 A, de modo que ambas formas puedan aplicarse de manera independiente (por ejemplo, a distintos
 estudiantes en una misma sala, o como dos instancias de práctica separadas para un mismo
 estudiante).
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 2 | 0 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 6 | 5 | 1 | 0 |
+| OA 7 | 6, 7 | 1 | 1 |
+| OA 9 | 8 | 1 | 0 |
+| OA 12 | 9, 10 | 1 | 1 |
+| OA 13 | 11, 12 | 2 | 0 |
+| OA 16 | 13, 14 | 1 | 1 |
+| OA 18 | 20, 21 | 1 | 1 |
+| OA 19 | 22, 23 | 1 | 1 |
+| OA 20 | 24, 25 | 1 | 1 |
+| OA 21 | 15, 16, 17 | 2 | 1 |
+| OA 22 | 18, 19 | 1 | 1 |
+| **Total** | **25 preguntas** | **16** | **9** |

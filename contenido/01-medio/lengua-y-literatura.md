@@ -67,7 +67,7 @@ En 1° medio tu análisis de personajes se vuelve más completo que en el ciclo 
 **Ejemplo 1 — Conflicto, análisis de personajes (relaciones, dichos, motivaciones, convicciones y dilemas)**
 
 - **Conflicto central**: el dilema de Tomás entre heredar el bote y la tradición familiar de pesca, o irse a estudiar mecánica naval a Puerto Montt; un conflicto tanto externo (la expectativa del padre) como interno (qué es lo que Tomás realmente desea).
-- **El padre**: lo que **dice** ("Este bote lo hizo tu abuelo... es lo que somos") revela su **convicción** de que la identidad familiar está ligada al oficio y al bote; su **acción** de "reparar redes con fuerza innecesaria" ante el tema —información implícita— muestra su ansiedad sin que lo diga directamente.
+- **El padre**: lo que **dice** ("Este bote lo hizo tu abuelo... es lo que somos") revela su **convicción** de que la identidad familiar está ligada al oficio y al bote; su **acción** de "reparar redes con fuerza innecesaria" ante el tema — **información implícita** — muestra su ansiedad sin que lo diga directamente.
 - **El abuelo Wenceslao**: a diferencia del padre, no presiona; su **motivación** no es que Tomás se quede, sino que decida "porque lo respeta, no porque le teme a lo que diga la gente". Esto lo distingue como personaje que valora la autonomía por sobre la tradición impuesta.
 - **Dilema de Tomás**: no es solo práctico (qué carrera seguir), sino también identitario: teme que irse signifique "dejar de ser" quien es, tal como —según el pueblo— le pasó a Marcela.
 

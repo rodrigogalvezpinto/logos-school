@@ -37,9 +37,9 @@ basado_en: >
 **1. (Matemática — Alternativas)** ¿Cuál número corresponde a la palabra "seiscientos veintiocho"?
 
 a) 6028
-b) 628
+b) 268
 c) 682
-d) 268
+d) 628
 
 ---
 
@@ -58,8 +58,8 @@ d) La araucaria
 
 ¿Cómo se llamaba este espacio público de una ciudad griega, donde las personas se reunían a comerciar y conversar?
 
-a) La acrópolis
-b) El ágora
+a) El ágora
+b) La acrópolis
 c) La toga
 d) El acueducto
 
@@ -89,9 +89,9 @@ d) Iquique
 **5. (Alternativas)** ¿Cómo es Antonia, según el texto?
 
 a) Flaca, ágil y sin miedo a trepar
-b) Cautelosa y prefiere mirar desde abajo
+b) Mayor que Joaquín y muy conversadora
 c) Descuidada y poco atenta a lo que pasa
-d) Mayor que Joaquín y muy conversadora
+d) Cautelosa y prefiere mirar desde abajo
 
 ---
 
@@ -110,8 +110,8 @@ d) Tierra
 
 **8. (Historia, Geografía y Cs. Sociales — Alternativas)** ¿Qué sistema de gobierno nació en la antigua ciudad griega de Atenas, en el cual los ciudadanos podían votar las leyes?
 
-a) La monarquía
-b) La democracia
+a) La democracia
+b) La monarquía
 c) La esclavitud
 d) El imperio
 
@@ -149,9 +149,9 @@ Según el poema, las abejas bailan sin parar. ¿Verdadero o falso?
 **11. (Ciencias Naturales — Alternativas)** ¿Qué función cumplen principalmente las frutas y las verduras en tu organismo?
 
 a) Dar energía para moverte y jugar
-b) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
+b) Ninguna función especial
 c) Ayudar a que crezcan los músculos
-d) Ninguna función especial
+d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
 
 ---
 
@@ -260,21 +260,31 @@ d) La Declaración de Independencia
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Matemática | **b) 628.** "Seiscientos" es 600 y "veintiocho" es 28: 600+28=628. | OA 2 |
+| 1 | Matemática | **d) 628.** "Seiscientos" es 600 y "veintiocho" es 28: 600+28=628. | OA 2 |
 | 2 | Ciencias Naturales | **c) El copihue.** | OA 2 |
-| 3 | Historia, Geografía y Cs. Sociales | **b) El ágora.** Plaza pública de una ciudad griega donde las personas comerciaban y conversaban. | OA 3 |
+| 3 | Historia, Geografía y Cs. Sociales | **a) El ágora.** Plaza pública de una ciudad griega donde las personas comerciaban y conversaban. | OA 3 |
 | 4 | Lenguaje y Comunicación | **a) Vallenar.** El texto dice que Joaquín "salió... a volar cometa... en Vallenar". | OA 4 |
-| 5 | Lenguaje y Comunicación | **b) Cautelosa y prefiere mirar desde abajo.** | OA 4 |
+| 5 | Lenguaje y Comunicación | **d) Cautelosa y prefiere mirar desde abajo.** | OA 4 |
 | 6 | Matemática | **Verdadero.** Al aplicar el algoritmo con reserva, 604−237=367. | OA 6 |
 | 7 | Ciencias Naturales | **c) Oxígeno.** | OA 4 |
-| 8 | Historia, Geografía y Cs. Sociales | **b) La democracia.** Nació en la antigua Atenas. | OA 3 |
+| 8 | Historia, Geografía y Cs. Sociales | **a) La democracia.** Nació en la antigua Atenas. | OA 3 |
 | 9 | Lenguaje y Comunicación | **Verdadero.** El poema dice "y las abejas bailan sin parar". | OA 5 |
 | 10 | Matemática | 48÷8=**6 tejidos por puesto**. | OA 9 |
-| 11 | Ciencias Naturales | **b) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** | OA 6 |
+| 11 | Ciencias Naturales | **d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** | OA 6 |
 | 12 | Historia, Geografía y Cs. Sociales | **b) El hemisferio norte y el hemisferio sur.** | OA 7 |
 | 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
 | 14 | Matemática | Falta el **354**. La regla es "sumar 10" en cada paso. | OA 12 |
@@ -289,3 +299,27 @@ d) La Declaración de Independencia
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas fueron seleccionadas y adaptadas de las pruebas de práctica por asignatura de 3° básico. Esta es la **Forma A** del examen integrado; existe una **Forma B** con preguntas distintas, para practicar el examen dos veces sin repetir contenido.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 2 | 0 |
+| OA 3 | 3, 8 | 2 | 0 |
+| OA 4 | 4, 5, 7 | 3 | 0 |
+| OA 5 | 9 | 0 | 1 |
+| OA 6 | 6, 11, 13 | 2 | 1 |
+| OA 7 | 12 | 1 | 0 |
+| OA 8 | 16 | 1 | 0 |
+| OA 9 | 10 | 0 | 1 |
+| OA 10 | 15 | 1 | 0 |
+| OA 11 | 19 | 0 | 1 |
+| OA 12 | 14 | 0 | 1 |
+| OA 14 | 20 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| OA 22 | 18 | 1 | 0 |
+| **Total** | **20 preguntas** | **15** | **5** |

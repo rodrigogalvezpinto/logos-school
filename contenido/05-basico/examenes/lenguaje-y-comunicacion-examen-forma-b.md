@@ -6,8 +6,8 @@ tipo: Examen de práctica (formato Examen Libre de Validación de Estudios, Mine
 duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: lápiz, goma, hoja de respuesta
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — mismos OA que /05-basico/lenguaje-y-comunicacion.md y que la Forma A (/05-basico/pruebas/lenguaje-y-comunicacion-prueba.md)
-observación: Forma B — versión alternativa a la Forma A, que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con la Forma A ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
+fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — mismos OA que /05-basico/lenguaje-y-comunicacion.md
+observación: Forma B — versión alternativa del examen de práctica, que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con el banco de contenido ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
 última actualización: 2026-08-11
 ---
 
@@ -15,7 +15,7 @@ observación: Forma B — versión alternativa a la Forma A, que evalúa los mis
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-*Esta es la **Forma B** del examen de ensayo de la asignatura. Evalúa los mismos Objetivos de Aprendizaje que la Forma A y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Esta es la **Forma B** del examen de ensayo de la asignatura. Evalúa los mismos Objetivos de Aprendizaje que el banco de contenido y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -51,8 +51,8 @@ observación: Forma B — versión alternativa a la Forma A, que evalúa los mis
 
 **1. (Alternativas)** ¿Qué característica física de tata Segundo es relevante en el Texto 1 y qué sugiere sobre él?
 
-a) Es un hombre bajo y de barba blanca, lo que sugiere que es mayor
-b) Tiene "manos ásperas y siempre manchadas de greda seca", lo que sugiere años de trabajo y experiencia en la alfarería
+a) Tiene "manos ásperas y siempre manchadas de greda seca", lo que sugiere años de trabajo y experiencia en la alfarería
+b) Es un hombre bajo y de barba blanca, lo que sugiere que es mayor
 c) Usa un sombrero de paja, lo que sugiere que trabaja al aire libre
 d) Tiene el pelo canoso, lo que sugiere que es sabio
 
@@ -61,9 +61,9 @@ d) Tiene el pelo canoso, lo que sugiere que es sabio
 **3. (Alternativas)** En el Texto 2, cuando Rosario le dice a Tomás "Hiciste bien en traerlo rápido y no intentar alimentarlo tú mismo", ¿qué se puede inferir sobre su actitud hacia lo que hizo Tomás?
 
 a) Que está molesta porque Tomás tocó a un animal silvestre sin permiso
-b) Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía
+b) Que no le interesa lo que le pasó al quique
 c) Que prefiere que los niños nunca se acerquen a los animales silvestres
-d) Que no le interesa lo que le pasó al quique
+d) Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía
 
 **4. (Desarrollo extenso)** Vuelve a leer el Texto 2 completo. Según el relato, ¿por qué la alegría que siente Tomás al ver al quique alejarse libre es distinta a cualquier otra que hubiera sentido antes? Luego, explica qué relación existe entre esa idea y el mensaje de tata Segundo en el Texto 1 sobre que "las cosas que valen la pena... no se hacen con apuro". Fundamenta tu respuesta con información de ambos textos.
 
@@ -87,16 +87,16 @@ d) Que no le interesa lo que le pasó al quique
 
 **5. (Alternativas)** ¿Qué tipo de rima forman las palabras "casa" y "cama"?
 
-a) Rima consonante, porque coinciden todos los sonidos finales
-b) Rima asonante, porque solo coinciden los sonidos vocálicos
+a) Rima asonante, porque solo coinciden los sonidos vocálicos
+b) Rima consonante, porque coinciden todos los sonidos finales
 c) No es rima, porque son palabras sin relación de significado
 d) Rima libre, porque no sigue ningún patrón de sonido
 
 **6. (Alternativas)** ¿Cuál de los siguientes versos del poema es una **metáfora** (y no una personificación)?
 
 a) "Los pescadores salen con manos curtidas"
-b) "El cielo es un lienzo pintado de aurora"
-c) "El sol se asoma detrás del muelle"
+b) "El sol se asoma detrás del muelle"
+c) "El cielo es un lienzo pintado de aurora"
 d) "y el mar responde con un suave murmullo"
 
 **7. (Desarrollo breve)** El primer verso del poema dice "El sol se asoma detrás del muelle". Identifica la figura de lenguaje figurado presente en este verso y explica qué imagen o sensación transmite.
@@ -131,9 +131,9 @@ Ballena sei          Aysén                       Febrero - Marzo
 **9. (Alternativas)** Según el texto, ¿por qué llegan las ballenas a las costas del sur de Chile entre diciembre y abril?
 
 a) Porque buscan aguas más cálidas para reproducirse
-b) Porque las aguas frías del Pacífico se llenan de kril, su alimento principal
+b) Porque siguen las corrientes cálidas del norte
 c) Porque escapan de barcos pesqueros de otras zonas
-d) Porque siguen las corrientes cálidas del norte
+d) Porque las aguas frías del Pacífico se llenan de kril, su alimento principal
 
 **10. (Desarrollo breve)** El texto no explica directamente por qué es importante proponer nuevas rutas de navegación para los barcos en el golfo de Corcovado durante el verano y el otoño. ¿Qué información del texto y qué conocimiento previo te permiten inferir esto, aunque no esté escrito de forma explícita?
 
@@ -146,8 +146,8 @@ d) Ballena sei, en Aysén, febrero-marzo
 
 **12. (Alternativas)** La tabla indica que la ballena sei se observa en la Región de Aysén, la misma región mencionada en el texto para el golfo de Corcovado. ¿Qué se puede concluir de esta coincidencia?
 
-a) Que la ballena sei y la ballena azul son en realidad la misma especie
-b) Que la zona de Aysén es relevante para la alimentación de más de una especie de ballena
+a) Que la zona de Aysén es relevante para la alimentación de más de una especie de ballena
+b) Que la ballena sei y la ballena azul son en realidad la misma especie
 c) Que en Aysén no se han observado otras especies de ballenas
 d) Que la ballena sei no necesita ningún tipo de protección
 
@@ -237,22 +237,32 @@ d) "La energía energía energía se debe cuidar cuidar cuidar."
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** "Manos ásperas y siempre manchadas de greda seca" sugiere años de trabajo y experiencia en la alfarería; esta característica física es relevante porque explica su paciencia y maestría al enseñar. | OA N°4 — características físicas relevantes |
+| 1 | **a)** "Manos ásperas y siempre manchadas de greda seca" sugiere años de trabajo y experiencia en la alfarería; esta característica física es relevante porque explica su paciencia y maestría al enseñar. | OA N°4 — características físicas relevantes |
 | 2 | Significa que las cosas que valen la pena requieren tiempo y no se pueden apurar, o se "quiebran" (se echan a perder). Es una **metáfora**, porque compara la vida con la greda sin usar la palabra "como". | OA N°4 — lenguaje figurado en narraciones |
-| 3 | **b)** Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía. | OA N°4 — inferencia sobre personajes |
+| 3 | **d)** Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía. | OA N°4 — inferencia sobre personajes |
 | 4 | Debe explicar que la alegría de Tomás es distinta porque proviene de haber ayudado a un ser vivo a recuperarse y volver a ser libre, un proceso que tomó tiempo, cuidado y paciencia (dos semanas de recuperación), a diferencia de otras alegrías más inmediatas. Debe relacionar esta idea con el mensaje de tata Segundo: que las cosas que realmente valen la pena requieren tiempo y paciencia, no apuro. | OA N°4 — interpretación profunda y relación entre textos |
-| 5 | **b)** Rima asonante, porque solo coinciden los sonidos vocálicos (a-a) entre "casa" y "cama", no todos los sonidos (las consonantes "s" y "m" son distintas). | OA N°5 — elementos formales del poema (rima) |
-| 6 | **b)** "El cielo es un lienzo pintado de aurora" nombra directamente al cielo como "lienzo", sin usar "como" ni "parece"; es una metáfora. Las opciones c) y d) son personificaciones (el sol "se asoma", el mar "responde"), y la opción a) es una descripción literal. | OA N°5 — lenguaje figurado (metáfora) |
+| 5 | **a)** Rima asonante, porque solo coinciden los sonidos vocálicos (a-a) entre "casa" y "cama", no todos los sonidos (las consonantes "s" y "m" son distintas). | OA N°5 — elementos formales del poema (rima) |
+| 6 | **c)** "El cielo es un lienzo pintado de aurora" nombra directamente al cielo como "lienzo", sin usar "como" ni "parece"; es una metáfora. Los versos del sol que "se asoma" y del mar que "responde" son personificaciones, y "Los pescadores salen con manos curtidas" es una descripción literal. | OA N°5 — lenguaje figurado (metáfora) |
 | 7 | Es una **personificación**: se le da al sol una actitud humana (asomarse con cautela). Transmite una imagen delicada del amanecer, como si el sol observara con curiosidad la caleta antes de aparecer del todo. | OA N°5 — personificación explicada |
 | 8 | "Quietas" y "curtidas" no forman rima, porque sus sonidos vocálicos desde la sílaba acentuada no coinciden (quietas: e-a; curtidas: i-a). El verso "y el mar responde con un suave murmullo" apela principalmente al **oído** (sugiere el sonido suave de las olas) y ayuda a construir una atmósfera de calma en el amanecer costero. | OA N°5 — rima y sentidos/atmósfera |
-| 9 | **b)** Porque las aguas frías del Pacífico se llenan de kril, su alimento principal (primer párrafo del texto). | OA N°6 — información explícita |
+| 9 | **d)** Porque las aguas frías del Pacífico se llenan de kril, su alimento principal (primer párrafo del texto). | OA N°6 — información explícita |
 | 10 | El texto explica que en esos meses se concentran muchas ballenas en el golfo de Corcovado y que una de las amenazas son las colisiones con barcos; combinando esto con el conocimiento de que reducir el tránsito o cambiar las rutas en zonas de alta concentración de animales disminuye el riesgo de choques, se puede inferir que es más importante ajustar las rutas justamente durante esos meses de mayor presencia de ballenas, aunque el texto no lo diga con esas palabras. | OA N°6 — inferencia |
 | 11 | **c)** Ballena franca, en la Región del Biobío (las demás están en el sur austral) y entre julio y octubre (las demás se observan entre diciembre y abril). | OA N°6 — lectura de textos discontinuos (tabla) |
-| 12 | **b)** Que la zona de Aysén es relevante para la alimentación de más de una especie de ballena, al combinar la información del texto (golfo de Corcovado, ballena azul) con la de la tabla (ballena sei). | OA N°6 — relación entre texto y tabla |
+| 12 | **a)** Que la zona de Aysén es relevante para la alimentación de más de una especie de ballena, al combinar la información del texto (golfo de Corcovado, ballena azul) con la de la tabla (ballena sei). | OA N°6 — relación entre texto y tabla |
 | 13 | Debe relacionar que el segundo párrafo explica por qué el golfo de Corcovado es un sitio clave de alimentación (más de 400 ballenas azules identificadas) con el tercer párrafo, que explica los riesgos de colisiones y enredos en redes; entendiendo que, al ser una zona tan importante para la especie, la colaboración entre ciencia y Armada permite reducir esos riesgos justo donde más ballenas se concentran. La opinión fundamentada debe apoyarse en información del texto o en conocimientos propios razonables. | OA N°6 — relación entre párrafos y opinión fundamentada |
 | 14 | **b)** Invitar a la comunidad a participar de un encuentro de juegos y cueca, y recaudar fondos para el curso de 6° básico. | OA N°7 — propósito del texto |
 | 15 | No, el afiche no entrega esa información, ya que solo menciona que habrá venta de anticuchos y mote con huesillo a beneficio del curso, sin indicar precios. Para conocerlos, debería consultarse directamente al Centro de Padres y Apoderados (el emisor del texto). | OA N°7 — suficiencia de la información |
@@ -287,3 +297,19 @@ d) "La energía energía energía se debe cuidar cuidar cuidar."
 | Desarrollo breve | 7 | 2, 7, 10, 15, 19, 20, 23 |
 | Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 4 | 1, 2, 3, 4 | 2 | 2 |
+| OA 5 | 5, 6, 7, 8 | 2 | 2 |
+| OA 6 | 9, 10, 11, 12, 13 | 3 | 2 |
+| OA 7 | 14, 15, 16, 17 | 2 | 2 |
+| OA 14 | 18, 19, 20, 21 | 1 | 3 |
+| OA 15 | 22, 23, 24, 25 | 2 | 2 |
+| **Total** | **25 preguntas** | **12** | **13** |

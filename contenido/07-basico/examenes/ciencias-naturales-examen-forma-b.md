@@ -5,7 +5,7 @@ tipo: Prueba de práctica (Examen Libre Mineduc) — Forma B
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/07-basico/ciencias-naturales.md
-relacionado_con: contenido/07-basico/pruebas/ciencias-naturales-prueba.md (Forma A)
+relacionado_con: contenido/07-basico/ciencias-naturales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -15,7 +15,7 @@ relacionado_con: contenido/07-basico/pruebas/ciencias-naturales-prueba.md (Forma
 
 **Asignatura:** Ciencias Naturales
 **Curso:** 7° Básico
-**Forma:** B (versión alternativa a la Forma A)
+**Forma:** B (versión alternativa del examen de práctica)
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
 **Puntaje total:** 39 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
@@ -36,7 +36,7 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
    errónea y marca con una X la opción correcta.
 7. Todas las preguntas son de elaboración propia, inspiradas en el temario oficial de
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto N°614 de 2013. Esta
-   es la **Forma B** de la prueba: cubre los mismos 7 OA que la Forma A, con preguntas
+   es la **Forma B** de la prueba: cubre los mismos 7 OA que el banco de contenido, con preguntas
    distintas.
 
 ---
@@ -58,18 +58,18 @@ d) Económico
 presenta cambios físicos de la pubertad que otros compañeros ya tienen. ¿Qué valor
 debería primar, dentro del aspecto social de la sexualidad, para evitar esta actitud?
 
-a) La competencia entre compañeros
-b) El respeto por los tiempos y el cuerpo de cada persona
-c) La indiferencia frente a la situación
-d) La comparación constante entre compañeros
+a) El respeto por los tiempos y el cuerpo de cada persona
+b) La competencia entre compañeros para ver quién cambia primero
+c) La indiferencia frente a la situación del compañero
+d) La comparación constante entre los compañeros del curso
 
 **3.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre los aspectos de la
 sexualidad humana es correcta?
 
 a) Los cambios físicos de la pubertad son el único aspecto relevante de la sexualidad
-b) Los aspectos afectivo y social son tan importantes como el aspecto biológico
+b) El aspecto social no influye en las decisiones personales
 c) La sexualidad se reduce únicamente al aspecto biológico
-d) El aspecto social no influye en las decisiones personales
+d) Los aspectos afectivo y social son tan importantes como el aspecto biológico
 
 **4.** *(Desarrollo breve, 2 puntos)* Compara los cambios físicos que ocurren en
 hombres y mujeres durante la pubertad, dando al menos un ejemplo de cada uno.
@@ -89,8 +89,8 @@ d) Ninguno de los anteriores
 **6.** *(Alternativas)* Si el primer día de menstruación de un ciclo de 28 días
 corresponde al día 1, ¿en qué rango aproximado se ubican los días fértiles?
 
-a) Del día 1 al día 3
-b) Del día 11 al día 16
+a) Del día 11 al día 16
+b) Del día 1 al día 3
 c) Del día 20 al día 25
 d) Del día 26 al día 28
 
@@ -118,9 +118,9 @@ d) Ninguno de los anteriores
 positivo de los hongos para la salud humana?
 
 a) Pie de atleta
-b) Producción de penicilina
+b) Gripe
 c) Tuberculosis
-d) Gripe
+d) Producción de penicilina
 
 **11.** *(Desarrollo breve, 2 puntos)* Compara una bacteria y un hongo en términos de
 sus características estructurales (tamaño y tipo de célula).
@@ -134,18 +134,18 @@ sus características estructurales (tamaño y tipo de célula).
 **12.** *(Alternativas)* ¿Qué tipo de fuerza actúa principalmente cuando una manzana
 cae de un árbol?
 
-a) Fuerza elástica
-b) Fuerza gravitacional
+a) Fuerza gravitacional
+b) Fuerza elástica
 c) Roce estático
 d) Roce cinético
 
 **13.** *(Alternativas)* ¿De qué factor depende principalmente la magnitud de la
 fuerza de roce entre dos superficies en contacto?
 
-a) Del color de las superficies
+a) Del color y de la textura visual de las superficies
 b) De la rugosidad de las superficies en contacto
-c) De la temperatura ambiente
-d) Del tipo de material elástico usado
+c) De la temperatura ambiente y de la humedad del aire
+d) Del tipo de material elástico que se usa para unir las superficies
 
 **14.** *(Desarrollo breve, 2 puntos)* Explica por qué es más fácil deslizar una caja
 pesada sobre hielo que sobre cemento, relacionándolo con la fuerza de roce.
@@ -169,12 +169,10 @@ d) No existe movimiento entre las placas
 **17.** *(Alternativas)* ¿Cómo apoya el modelo de la tectónica de placas a la teoría
 de la deriva continental propuesta por Wegener?
 
-a) Wegener ya había explicado el mecanismo, por lo que la tectónica de placas no
-   aporta nada nuevo
-b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa
-   el movimiento de los continentes propuesto por Wegener
-c) Ambas teorías son contradictorias entre sí
-d) La deriva continental fue completamente refutada por la tectónica de placas
+a) Wegener ya había explicado el mecanismo, por lo que la tectónica de placas no aporta información nueva
+b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes
+c) Ambas teorías son contradictorias entre sí y no pueden sostenerse al mismo tiempo
+d) La deriva continental fue refutada por la tectónica de placas y hoy se considera inválida
 
 **18.** *(Desarrollo breve, 2 puntos)* Explica por qué Chile es un país con alta
 actividad sísmica y volcánica, relacionándolo con las placas tectónicas que
@@ -221,11 +219,11 @@ d) Compuesto y mezcla a la vez
 **23.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre las mezclas
 homogéneas es correcta?
 
-a) Sus componentes se distinguen fácilmente a simple vista
+a) Sus componentes se distinguen con facilidad a simple vista en cualquier momento
 b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple
    vista
-c) Siempre corresponden a sustancias puras
-d) No pueden separarse por ningún método
+c) Corresponden a sustancias puras, porque no pueden separarse
+d) No pueden separarse mediante ningún método físico conocido
 
 **24.** *(Desarrollo breve, 2 puntos)* Explica por qué la decantación es un método
 adecuado para separar agua y aceite, relacionándolo con una propiedad física de estos
@@ -237,27 +235,37 @@ Chile, como la minería o el tratamiento de aguas.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
 | 1 | Alternativas | c) Social | OA 1 |
-| 2 | Alternativas | b) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
-| 3 | Alternativas | b) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
+| 2 | Alternativas | a) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
+| 3 | Alternativas | d) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
 | 4 | Desarrollo breve | En los hombres: crecimiento de testículos y pene, cambio de voz. En las mujeres: desarrollo de mamas, inicio de la menstruación. Ambos ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
 | 5 | Alternativas | b) Preservativo | OA 2 |
-| 6 | Alternativas | b) Del día 11 al día 16 | OA 2 |
+| 6 | Alternativas | a) Del día 11 al día 16 | OA 2 |
 | 7 | Desarrollo breve | Conocer estos procesos permite tomar decisiones informadas y responsables sobre la propia sexualidad y salud reproductiva, prevenir embarazos no planificados, y comprender mejor el propio cuerpo y el de la pareja, favoreciendo el autocuidado. | OA 2 |
 | 8 | Desarrollo extenso | El preservativo es un método de barrera que impide físicamente el contacto entre el espermatozoide y el ovocito; la píldora anticonceptiva es un método hormonal que impide que ocurra la ovulación, por lo que no hay ovocito disponible para ser fecundado. Se diferencian en que uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal. | OA 2 |
 | 9 | Alternativas | c) *Penicillium* | OA 5 |
-| 10 | Alternativas | b) Producción de penicilina | OA 5 |
+| 10 | Alternativas | d) Producción de penicilina | OA 5 |
 | 11 | Desarrollo breve | Las bacterias son procariontes, generalmente más pequeñas y de estructura celular más simple (sin núcleo definido); los hongos son eucariontes, con una estructura celular más compleja (con núcleo y organelos definidos), y pueden ser unicelulares o multicelulares. | OA 5 |
-| 12 | Alternativas | b) Fuerza gravitacional | OA 7 |
+| 12 | Alternativas | a) Fuerza gravitacional | OA 7 |
 | 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
 | 14 | Desarrollo breve | El hielo es una superficie mucho más lisa que el cemento, lo que genera menor fuerza de roce entre la caja y la superficie, facilitando el deslizamiento; el cemento, al ser más rugoso, genera mayor roce y dificulta el movimiento. | OA 7 |
 | 15 | Desarrollo extenso | La fuerza gravitacional (el peso del ciclista y la bicicleta) es la principal responsable de la aceleración cuesta abajo; el roce con el aire y el roce entre los neumáticos y el pavimento actúan oponiéndose a ese movimiento, frenándolo parcialmente. | OA 7 |
 | 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza | OA 9 |
-| 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes propuesto por Wegener | OA 9 |
+| 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes | OA 9 |
 | 18 | Desarrollo breve | Porque en la costa de Chile converge la placa de Nazca con la placa Sudamericana (y en el extremo sur, también con la placa Antártica); la subducción de la placa de Nazca bajo la Sudamericana libera gran cantidad de energía en forma de sismos y favorece la formación de volcanes a lo largo de la cordillera. | OA 9 |
 | 19 | Alternativas | b) Aumenta | OA 13 |
 | 20 | Alternativas | c) Ley de Gay-Lussac | OA 13 |
@@ -266,6 +274,68 @@ Chile, como la minería o el tratamiento de aguas.
 | 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista | OA 14 |
 | 24 | Desarrollo breve | El agua y el aceite son líquidos no miscibles (no se mezclan entre sí) y tienen distinta densidad: el aceite, al ser menos denso, flota sobre el agua; esto permite separarlos dejando que se asienten en capas y vertiendo cuidadosamente una de ellas. | OA 14 |
 | 25 | Desarrollo extenso | Por ejemplo, en la minería del cobre se usan procesos de separación para extraer el mineral de la roca; en el tratamiento de aguas servidas se combinan la filtración y la decantación para retirar sólidos e impurezas del agua antes de devolverla al ambiente o reutilizarla. | OA 14 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 4 (2 puntos)
+
+- Menciona al menos un cambio físico de la pubertad masculina — **1 punto**
+- Menciona al menos un cambio físico de la pubertad femenina — **1 punto**
+
+### Pregunta 7 (2 puntos)
+
+- Explica que permite tomar decisiones informadas y prevenir embarazos no planificados — **1 punto**
+- Relaciona el conocimiento con el autocuidado y la comprensión del propio cuerpo y del de la pareja — **1 punto**
+
+### Pregunta 8 (3 puntos)
+
+- Explica el preservativo como método de barrera que impide el contacto entre espermatozoide y ovocito — **1 punto**
+- Explica la píldora como método hormonal que impide la ovulación — **1 punto**
+- Señala la diferencia: uno bloquea el contacto y el otro altera el ciclo hormonal — **1 punto**
+
+### Pregunta 11 (2 puntos)
+
+- Caracteriza a las bacterias como procariontes, más pequeñas y de estructura simple — **1 punto**
+- Caracteriza a los hongos como eucariontes, con núcleo y organelos definidos — **1 punto**
+
+### Pregunta 14 (2 puntos)
+
+- Explica que el hielo es más liso y genera menor fuerza de roce — **1 punto**
+- Explica que el cemento es más rugoso y genera mayor fuerza de roce — **1 punto**
+
+### Pregunta 15 (3 puntos)
+
+- Identifica la fuerza gravitacional como la principal responsable de la aceleración — **1 punto**
+- Explica que el peso tiene una componente en el sentido de la bajada — **1 punto**
+- Identifica el roce con el aire y con el pavimento como la fuerza que se opone — **1 punto**
+
+### Pregunta 18 (2 puntos)
+
+- Menciona la convergencia de la placa de Nazca con la Sudamericana y, en el extremo sur, con la Antártica — **1 punto**
+- Relaciona la subducción con la liberación de energía sísmica y la formación de volcanes — **1 punto**
+
+### Pregunta 21 (3 puntos)
+
+- Describe un experimento simple indicando los materiales — **1 punto**
+- Indica qué esperaría observar (el globo se infla más) — **1 punto**
+- Explica la relación con la Ley de Charles: el gas se expande al aumentar la temperatura — **1 punto**
+
+### Pregunta 24 (2 puntos)
+
+- Señala que el agua y el aceite son líquidos no miscibles — **1 punto**
+- Señala la diferencia de densidad: el aceite es menos denso y flota — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Menciona un proceso industrial relevante para Chile, como la minería o el tratamiento de aguas — **1 punto**
+- Describe el método de separación utilizado en ese proceso — **1 punto**
+- Explica para qué sirve ese método dentro del proceso — **1 punto**
+
+---
 
 ### Resumen de puntaje
 
@@ -287,3 +357,20 @@ Chile, como la minería o el tratamiento de aguas.
 | Eje 3: Química | OA 14 | 22, 23, 24, 25 | 4 |
 | **Total** | **7 OA** | | **25** |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 3 | 1 |
+| OA 2 | 5, 6, 7, 8 | 2 | 2 |
+| OA 5 | 9, 10, 11 | 2 | 1 |
+| OA 7 | 12, 13, 14, 15 | 2 | 2 |
+| OA 9 | 16, 17, 18 | 2 | 1 |
+| OA 13 | 19, 20, 21 | 2 | 1 |
+| OA 14 | 22, 23, 24, 25 | 2 | 2 |
+| **Total** | **25 preguntas** | **15** | **10** |

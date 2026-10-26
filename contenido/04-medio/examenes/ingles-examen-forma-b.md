@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/04-medio/ingles.md (3 OA)
-relación_con: Forma A (/contenido/04-medio/pruebas/ingles-prueba.md) — misma estructura, preguntas distintas
+relación_con: examen de práctica del mismo curso — misma estructura, preguntas distintas
 última actualización: 2026-08-11
 ---
 
@@ -48,9 +48,9 @@ thought is punished."* ¿Cuál es el elemento principal del tema tratado en
 el texto?
 
 a) A government that promotes free speech.
-b) A society where the government controls information and punishes
+b) A story about space exploration.
    independent thought.
-c) A story about space exploration.
+c) A society where the government controls information and punishes
 d) A romantic comedy set in the future.
 
 **2.** *(Pregunta abierta — completar)* Complete: *"A comic strip written
@@ -85,9 +85,9 @@ consequences."* ¿Qué combinación de elementos de ciencia ficción aparece
 en el texto?
 
 a) Space exploration and robots.
-b) Time travel and its unexpected consequences.
+b) Virtual reality and artificial intelligence.
 c) Genetic engineering and dystopia.
-d) Virtual reality and artificial intelligence.
+d) Time travel and its unexpected consequences.
 
 **8.** *(Pregunta abierta — producción breve)* Explica en 1-2 oraciones
 cómo el contexto de publicación de un texto (por ejemplo, un sitio web de
@@ -135,8 +135,8 @@ teléfono anoche, pero sabes que ella siempre lo tiene encendido. ¿Qué
 oración expresa mejor esta situación de **duda razonable**, no de certeza
 total?
 
-a) She must have lost her phone.
-b) She might have been asleep, or her phone might have been off.
+a) She might have been asleep, or her phone might have been off.
+b) She must have lost her phone.
 c) She can't have a phone.
 d) She has must forgotten her phone.
 
@@ -212,17 +212,27 @@ relativo o tercer condicional).
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) A society where the government controls information and punishes independent thought. | OA1 |
+| 1 | c) A society where the government controls information and punishes independent thought. | OA1 |
 | 2 | entertaining / informative. | OA1 |
 | 3 | A space station in 2200 / Nadia / the AI has been hiding information from the crew. | OA1 |
 | 4 | da una opinión evaluativa sobre una obra. | OA1 |
 | 5 | True (Verdadero) — el medio (revista para desarrolladores) y el contenido técnico indican audiencia especializada. | OA1 |
 | 6 | True (Verdadero) — *skimming* (idea general) y *scanning* (dato puntual) son estrategias de lectura distintas. | OA1 |
-| 7 | b) Time travel and its unexpected consequences. | OA1 |
+| 7 | d) Time travel and its unexpected consequences. | OA1 |
 | 8 | Respuesta personal coherente, p. ej.: *"A government website would use formal, precise language to explain regulations, while a personal blog about the same science-fiction topic would use informal, humorous language to entertain readers."* | OA1 |
 | 9 | he had been. | OA3 |
 | 10 | a) He must have walked through a sprinkler or spilled water on himself. | OA3 |
@@ -230,7 +240,7 @@ relativo o tercer condicional).
 | 12 | collecting vintage vinyl records / since age twelve / jazz. | OA3 |
 | 13 | una posibilidad no confirmada sobre el pasado. | OA3 |
 | 14 | *They said that they were going to travel to Japan the following year.* | OA3 |
-| 15 | b) She might have been asleep, or her phone might have been off. | OA3 |
+| 15 | a) She might have been asleep, or her phone might have been off. | OA3 |
 | 16 | Respuesta personal coherente, p. ej.: *"My friend told me that she had stopped using plastic bags last year. I think this must have been a difficult change at first, because plastic is so common. In my opinion, small individual choices like this can still make a difference."* | OA3 |
 | 17 | b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions." | OA4 |
 | 18 | identity. | OA4 |
@@ -255,4 +265,17 @@ relativo o tercer condicional).
 preguntas 1, 7, 10, 15, 17 y 23) y 19 de respuesta abierta breve (completar,
 verdadero/falso, responder en inglés, completar organizador gráfico,
 emparejar y producción breve), en línea con el formato mixto del Examen
-Libre real de Inglés y con la Forma A de esta misma prueba.
+Libre real de Inglés y con el banco de contenido de esta misma prueba.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 2 | 6 |
+| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
+| **Total** | **25 preguntas** | **6** | **19** |

@@ -49,8 +49,8 @@ Observa la siguiente descripción de un mapa de América: en la **Zona A**, ubic
 
 ¿A qué civilización(es) corresponde principalmente la **Zona A** del mapa?
 
-a) Incas
-b) Mayas y aztecas
+a) Mayas y aztecas
+b) Incas
 c) Solo los incas y los mayas
 d) Ninguna civilización americana se desarrolló ahí
 
@@ -78,8 +78,8 @@ Lee el siguiente texto:
 Según el texto, ¿qué le pidió el papá de Matías que hiciera?
 
 a) Que fuera a comprar una red nueva
-b) Que recorriera la orilla para buscar las redes de pesca
-c) Que visitara a doña Herminia
+b) Que visitara a doña Herminia
+c) Que recorriera la orilla para buscar las redes de pesca
 d) Que guardara las langostas en un canasto
 
 ---
@@ -87,9 +87,9 @@ d) Que guardara las langostas en un canasto
 **5. (Matemática)** Resuelve: 347 + 486 = ?
 
 a) 823
-b) 833
+b) 843
 c) 733
-d) 843
+d) 833
 
 ---
 
@@ -108,8 +108,8 @@ d) Polar
 
 En esta cadena, la oruga cumple el rol de:
 
-a) Productor
-b) Consumidor primario
+a) Consumidor primario
+b) Productor
 c) Consumidor secundario
 d) Descomponedor
 
@@ -141,9 +141,9 @@ d) No es lenguaje figurado, es información explícita
 **9. (Matemática)** Se van a repartir 96 chocolates en partes iguales entre 8 cajas para un evento. ¿Cuántos chocolates va en cada caja?
 
 a) 11
-b) 12
+b) 14
 c) 13
-d) 14
+d) 12
 
 ---
 
@@ -158,8 +158,8 @@ d) Los peces del mar
 
 **11. (Ciencias Naturales)** ¿Cuál de las siguientes estructuras del cuerpo humano conecta un músculo con un hueso y transmite la fuerza necesaria para el movimiento?
 
-a) Articulación
-b) Tendón
+a) Tendón
+b) Articulación
 c) Cartílago
 d) Vértebra
 
@@ -266,21 +266,31 @@ d) Atmósfera
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------|------------------------------------------|-----------------------------------|
 | 1 | Matemática | **d) Unidad de mil.** El 6 es el primer dígito de un número de 4 cifras, por lo tanto vale 6.000. | OA 1 — Representar y describir números hasta el 10.000 |
-| 2 | Historia | **b) Mayas y aztecas.** La Zona A corresponde al espacio mesoamericano (México y Centroamérica). | OA 4 — Civilizaciones americanas |
+| 2 | Historia | **a) Mayas y aztecas.** La Zona A corresponde al espacio mesoamericano (México y Centroamérica). | OA 4 — Civilizaciones americanas |
 | 3 | Ciencias Naturales | **c) Piedras.** Es el único elemento no vivo entre los observados. | OA 1 — Ecosistemas: elementos vivos y no vivos |
-| 4 | Lenguaje | **b)** El texto dice explícitamente que le pidió a Matías "que recorriera la orilla para buscarlas". | OA N°4 — información explícita en narraciones |
-| 5 | Matemática | **b) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
+| 4 | Lenguaje | **c)** El texto dice explícitamente que le pidió a Matías "que recorriera la orilla para buscarlas". | OA N°4 — información explícita en narraciones |
+| 5 | Matemática | **d) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
 | 6 | Historia | **c) Tropical.** Altas temperaturas y lluvias abundantes todo el año. | OA 8 — Paisajes de América |
-| 7 | Ciencias Naturales | **b) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
+| 7 | Ciencias Naturales | **a) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
 | 8 | Lenguaje | **b)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
-| 9 | Matemática | **b) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
+| 9 | Matemática | **d) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
 | 10 | Historia | **c) El cobre.** Es un recurso mineral que, una vez extraído, no se regenera. | OA 9 — Recursos naturales |
-| 11 | Ciencias Naturales | **b) Tendón.** Conecta un músculo con un hueso y transmite la fuerza para el movimiento. | OA 6 — Sistema músculo-esquelético |
+| 11 | Ciencias Naturales | **a) Tendón.** Conecta un músculo con un hueso y transmite la fuerza para el movimiento. | OA 6 — Sistema músculo-esquelético |
 | 12 | Lenguaje | **b)** El subtítulo "¿Qué come?" permite ubicar rápidamente esa información sin releer todo el texto. | OA N°6 — uso de organizadores del texto |
 | 13 | Matemática | **b) $360.** Total de la compra: 1.350 + 290 = 1.640; vuelto: 2.000 − 1.640 = 360. | OA 7 — Resolver problemas con dinero |
 | 14 | Historia | **a) Construir atrapanieblas para obtener agua de la neblina costera.** Adaptación correcta a la escasez de agua en el desierto. | OA 10 — Adaptación y transformación del paisaje |
@@ -300,3 +310,25 @@ d) Atmósfera
 | Ciencias Naturales | 5 | 3, 7, 11, 15, 20 |
 | Historia, Geografía y Cs. Sociales | 5 | 2, 6, 10, 14, 19 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 3 | 2 | 0 |
+| OA 3 | 5, 7 | 2 | 0 |
+| OA 4 | 2, 4 | 2 | 0 |
+| OA 5 | 8 | 1 | 0 |
+| OA 6 | 9, 11, 12 | 3 | 0 |
+| OA 7 | 13 | 1 | 0 |
+| OA 8 | 6 | 1 | 0 |
+| OA 9 | 10 | 1 | 0 |
+| OA 10 | 14, 15 | 2 | 0 |
+| OA 11 | 19 | 1 | 0 |
+| OA 15 | 20 | 1 | 0 |
+| OA 17 | 16, 17, 18 | 3 | 0 |
+| **Total** | **20 preguntas** | **20** | **0** |

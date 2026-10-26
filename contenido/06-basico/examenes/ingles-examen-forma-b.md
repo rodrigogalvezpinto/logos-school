@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/06-basico/ingles.md (5 OA)
-relacionado: Forma A en /contenido/06-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/06-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -37,8 +37,8 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 **1.** *(Selección múltiple)* Read: *"Sofía can ride a bike, but she can't swim."*
 What can't Sofía do?
 
-a) Ride a bike
-b) Swim
+a) Swim
+b) Ride a bike
 c) Cook
 d) Dance
 
@@ -68,16 +68,16 @@ English: eight ___."*
 flour. Bake for 30 minutes."* What kind of text is this?
 
 a) A postcard
-b) A recipe
+b) A menu
 c) An advertisement
-d) A menu
+d) A recipe
 
 **7.** *(Selección múltiple)* Read: *"Hi Camila, I can't go to school today. I
 have a cough and a fever. See you soon, Valentina."* Why can't Valentina go to
 school?
 
-a) She is on vacation
-b) She is sick
+a) She is sick
+b) She is on vacation
 c) She has to work
 d) It is a holiday
 
@@ -187,17 +187,27 @@ apples?*
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Swim | OA5 |
+| 1 | a) Swim | OA5 |
 | 2 | c) Between the museum and the bank | OA5 |
 | 3 | can / can't | OA5 |
 | 4 | She had lunch at school. | OA5 |
 | 5 | o'clock | OA5 |
-| 6 | b) A recipe | OA6 |
-| 7 | b) She is sick | OA6 |
+| 6 | d) A recipe | OA6 |
+| 7 | a) She is sick | OA6 |
 | 8 | have | OA6 |
 | 9 | It is $3.000. / The chicken with rice is $3.000. | OA6 |
 | 10 | True (Verdadero) — el texto ofrece productos y horario de un lugar, es un aviso publicitario. | OA6 |
@@ -231,6 +241,21 @@ apples?*
 **Distribución por tipo de pregunta:** 10 de selección múltiple (alternativas)
 y 15 de respuesta abierta breve (completar, verdadero/falso, responder en
 inglés y escribir según modelo), en línea con el formato mixto del Examen
-Libre real de Inglés. Todas las preguntas son distintas de las de la Forma A
+Libre real de Inglés. Todas las preguntas son distintas de las del banco de contenido
 (distinto vocabulario, personajes, escenarios y datos numéricos), aunque
 evalúan los mismos 5 OA del temario.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 5 | 1, 2, 3, 4, 5 | 2 | 3 |
+| OA 6 | 6, 7, 8, 9, 10 | 2 | 3 |
+| OA 8 | 11, 12, 13, 14, 15 | 2 | 3 |
+| OA 14 | 16, 17, 18, 19, 20 | 2 | 3 |
+| OA 15 | 21, 22, 23, 24, 25 | 2 | 3 |
+| **Total** | **25 preguntas** | **10** | **15** |

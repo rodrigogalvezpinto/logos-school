@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 1° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/01-medio/ingles.md (4 OA)
-relacionado: /contenido/01-medio/pruebas/ingles-prueba.md (Forma A) — preguntas distintas
+relacionado: contenido/01-medio/ingles.md (banco de contenido) — preguntas distintas
 última actualización: 2026-08-10
 ---
 
@@ -33,7 +33,7 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
    incorrectas: si no estás seguro/a, responde de todas formas.
 5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 6. Esta es la **Forma B** de la prueba: cubre los mismos 4 Objetivos de Aprendizaje
-   que la Forma A, pero con preguntas y textos distintos.
+   que el banco de contenido, pero con preguntas y textos distintos.
 
 ---
 
@@ -44,8 +44,8 @@ scientist whose X-ray images were essential to discovering the structure of
 DNA. She died before receiving the recognition she deserved."* What
 information is explicit in the text?
 
-a) Rosalind Franklin discovered DNA completely on her own.
-b) Rosalind Franklin's X-ray images were essential to the discovery of the
+a) Rosalind Franklin's X-ray images were essential to the discovery of the
+b) Rosalind Franklin discovered DNA completely on her own.
    structure of DNA.
 c) Rosalind Franklin worked only in mathematics.
 d) Rosalind Franklin received a Nobel Prize during her lifetime.
@@ -73,9 +73,9 @@ includes unfamiliar vocabulary (*magma, seismic activity*). What is the most
 useful strategy to understand the text without translating every word?
 
 a) Stop at every unknown word and look it up immediately.
-b) Use context and known words to infer the general meaning before using a
+b) Ignore the whole text if a difficult word appears.
    dictionary.
-c) Ignore the whole text if a difficult word appears.
+c) Use context and known words to infer the general meaning before using a
 d) Memorize the text without understanding it.
 
 ---
@@ -87,9 +87,9 @@ glass and plastic before throwing them away."* What is the purpose of this
 text?
 
 a) To entertain readers with a story
-b) To persuade/instruct readers to change a behavior
+b) To sell a product
 c) To describe a person's life
-d) To sell a product
+d) To persuade/instruct readers to change a behavior
 
 **8.** *(Pregunta abierta — completar)* Complete with the correct connector:
 *"The store was closed when we arrived. ___, we found another one nearby
@@ -111,8 +111,8 @@ sustantivo de ocupación: *"art"* → ¿"artist" o "arter"?
 educational and entertaining for the students."* ¿Qué indica la estructura
 *"both...and"* en esta oración?
 
-a) Que el museo no fue ni una cosa ni la otra.
-b) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido.
+a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido.
+b) Que el museo no fue ni una cosa ni la otra.
 c) Que el museo solo fue entretenido.
 d) Que los estudiantes no visitaron el museo.
 
@@ -128,9 +128,9 @@ today."* (In / At)
 justificada sobre un problema global?
 
 a) There are trees in the forest.
-b) In my opinion, governments should protect forests because deforestation
+b) Forests exist in many countries.
    harms the whole planet.
-c) Forests exist in many countries.
+c) In my opinion, governments should protect forests because deforestation
 d) Trees produce oxygen.
 
 **15.** *(Pregunta abierta — completar)* Complete a text about a school
@@ -198,24 +198,34 @@ d) He fight fires.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
+| 1 | a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
 | 2 | about / how | OA9 |
 | 3 | False (Falso) — el texto afirma que las abejas transportan polen entre plantas, lo que permite su reproducción; lo contrario a la afirmación. | OA9 |
 | 4 | *It was held in 1930, in Uruguay.* | OA9 |
 | 5 | Chilean / 1889 / Nobel Prize in Literature (1945) | OA9 |
-| 6 | b) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | b) To persuade/instruct readers to change a behavior | OA10 |
+| 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
+| 7 | d) To persuade/instruct readers to change a behavior | OA10 |
 | 8 | However | OA10 |
 | 9 | True (Verdadero) — se plantea un problema (exceso de tareas) y una solución (reducir la carga), conectados por *so*. | OA10 |
 | 10 | irresponsible | OA10 |
 | 11 | artist | OA10 |
-| 12 | b) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
+| 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
 | 13 | In | OA13 |
-| 14 | b) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
+| 14 | c) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
 | 15 | studied / enjoyed | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
 | 17 | Respuesta personal coherente, p. ej.: *"This picture shows a beach full of plastic waste. In my opinion, this is a serious problem because it harms marine animals."* | OA13 |
@@ -242,5 +252,19 @@ d) He fight fires.
 y 16 de respuesta abierta breve (completar, verdadero/falso, responder en
 inglés, completar esquema, emparejar y escribir según modelo), en línea con
 el formato mixto del Examen Libre real de Inglés. Esta Forma B utiliza textos,
-ejemplos y contextos distintos a los de la Forma A, cubriendo los mismos 4 OA
+ejemplos y contextos distintos a los del banco de contenido, cubriendo los mismos 4 OA
 en la misma proporción.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 9 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 10 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 13 | 13, 14, 15, 16, 17, 18 | 2 | 4 |
+| OA 16 | 19, 20, 21, 22, 23, 24, 25 | 2 | 5 |
+| **Total** | **25 preguntas** | **8** | **17** |

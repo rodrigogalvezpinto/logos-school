@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 3° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/03-medio/ingles.md (3 OA)
-relacionado: /contenido/03-medio/pruebas/ingles-prueba.md (Forma A — preguntas distintas)
+relacionado: contenido/03-medio/ingles.md (preguntas propias)
 última actualización: 2026-08-11
 ---
 
@@ -86,10 +86,10 @@ conditions, as a way to maintain physical and mental well-being."* ¿Cuál es
 la información central del texto?
 
 a) Norway has cold weather.
-b) Friluftsliv is a lifestyle that promotes spending time outdoors for
+b) Friluftsliv is a type of winter sport.
    well-being.
 c) Norwegians never stay indoors.
-d) Friluftsliv is a type of winter sport.
+d) Friluftsliv is a lifestyle that promotes spending time outdoors for
 
 ---
 
@@ -197,6 +197,16 @@ relativo**.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
@@ -208,7 +218,7 @@ relativo**.
 | 5 | *The Day of the Dead is a Mexican celebration where families build colorful altars with photos, food, and flowers. Its purpose is to celebrate the lives of loved ones instead of mourning their deaths.* | OA1 |
 | 6 | dates back to. | OA1 |
 | 7 | False (Falso) — el texto dice que es una "common practice" (práctica común), justo lo opuesto de "unusual" (inusual). | OA1 |
-| 8 | b) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
+| 8 | d) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
 | 9 | fast fashion. | OA3 |
 | 10 | On the other hand. | OA3 |
 | 11 | True (Verdadero) — el OA pide explícitamente comparar información sobre un tema entre distintos textos, contrastando más de una fuente. | OA3 |
@@ -243,9 +253,22 @@ producción breve), en línea con el formato mixto del Examen Libre real de
 Inglés.
 
 **Nota sobre esta Forma:** todas las preguntas de esta Forma B son distintas
-a las de la Forma A (`/contenido/03-medio/pruebas/ingles-prueba.md`). Siete
+a las del banco de contenido (`contenido/03-medio/ingles.md`). Siete
 preguntas por OA1 y OA3, y seis preguntas del OA4, provienen de ítems del
 banco de autoevaluación (`/contenido/03-medio/ingles.md`) que **no** fueron
-usados en la Forma A; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
+usados en el banco de contenido; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
 nuevas, construidas con el mismo vocabulario y las mismas estructuras
 gramaticales del glosario del curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 1 | 7 |
+| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
+| **Total** | **25 preguntas** | **5** | **20** |

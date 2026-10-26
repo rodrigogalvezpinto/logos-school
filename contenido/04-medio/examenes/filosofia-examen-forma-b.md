@@ -5,7 +5,7 @@ tipo: Examen tipo simulacro — Forma B (formato Examen Libre Mineduc)
 duración: 90 minutos
 n_preguntas: 25
 oa_evaluados: OA N°1, OA N°2, OA N°4, OA N°5
-basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Forma B: preguntas distintas a la Forma A (/contenido/04-medio/pruebas/filosofia-prueba.md), mismo formato y ponderación.
+basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Forma B: preguntas propias, mismo formato y ponderación.
 última actualización: 2026-08-11
 ---
 
@@ -41,16 +41,16 @@ basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preg
 **Pregunta 1.** *(Selección múltiple)* Según las distintas perspectivas sobre la finalidad del quehacer filosófico, ¿cuál describe mejor el aporte que defiende la profesora?
 
 a) Predecir con exactitud el comportamiento humano mediante algoritmos.
-b) Liberarnos de prejuicios heredados sin examen y desarrollar conceptos para evaluar la legitimidad de las normas.
+b) Garantizar que todos los estudiantes obtengan la misma nota en el examen.
 c) Reemplazar completamente el aprendizaje de la programación.
-d) Garantizar que todos los estudiantes obtengan la misma nota en el examen.
+d) Liberarnos de prejuicios heredados sin examen y desarrollar conceptos para evaluar la legitimidad de las normas.
 
 **Pregunta 2.** *(Selección múltiple)* El primer concejal sostiene que "discutir sobre la justicia no cambia nada en la práctica, así que no sirve de nada". ¿Cuál de las siguientes identifica mejor un límite genuino —y no una exageración injustificada— del quehacer filosófico?
 
 a) La filosofía no puede aportar absolutamente nada a ninguna decisión concreta.
-b) La filosofía generalmente no produce, por sí sola, un procedimiento técnico verificable que resuelva de inmediato un problema práctico, aunque sí aporte los criterios para decidir entre alternativas.
+b) La filosofía no puede argumentar con rigor sobre cuestiones de justicia.
 c) La filosofía jamás ha influido en ninguna ley ni política pública.
-d) La filosofía no puede argumentar con rigor sobre cuestiones de justicia.
+d) La filosofía generalmente no produce, por sí sola, un procedimiento técnico verificable que resuelva de inmediato un problema práctico, aunque sí aporte los criterios para decidir entre alternativas.
 
 **Pregunta 3.** *(Selección múltiple)* ¿Qué característica de la relación entre filosofía y derecho contradice mejor la afirmación del segundo concejal ("la filosofía no tiene ninguna relación con las leyes")?
 
@@ -188,14 +188,24 @@ d) Exclusivamente de gustos personales sobre la tecnología usada por los tribun
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 ## Tabla de claves — preguntas de selección múltiple
 
 | N° | Clave | OA | Puntaje |
 |:---:|:---:|:---:|:---:|
-| 1 | b | OA1 | 1 |
-| 2 | b | OA1 | 1 |
+| 1 | d | OA1 | 1 |
+| 2 | d | OA1 | 1 |
 | 3 | a | OA1 | 1 |
 | 5 | d | OA1 | 1 |
 | 7 | b | OA2 | 1 |
@@ -245,3 +255,17 @@ d) Exclusivamente de gustos personales sobre la tecnología usada por los tribun
 | **Total** | **51 pts** |
 
 > Como referencia interna de práctica (no corresponde a la escala oficial de logro del Mineduc, que usa niveles de desempeño y no nota): 60% de exigencia equivale a 31/51 puntos para el logro mínimo satisfactorio.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6 | 4 | 2 |
+| OA 2 | 7, 8, 9, 10, 11, 12, 13 | 5 | 2 |
+| OA 4 | 14, 15, 16, 17, 18, 19, 23 | 4 | 3 |
+| OA 5 | 20, 21, 22, 24, 25 | 3 | 2 |
+| **Total** | **25 preguntas** | **16** | **9** |

@@ -8,7 +8,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 
 # Prueba de práctica — Lenguaje y Comunicación — 6° básico (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lenguaje-y-comunicacion.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), apoyadas en textos narrativos, un poema y textos no literarios (uno con tabla de datos, otro con dos fuentes que cuentan una misma noticia), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc. Esta es la **Forma B**: usa los mismos textos base que la Forma A, pero con preguntas distintas, para practicar otros ángulos de análisis.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lenguaje-y-comunicacion.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), apoyadas en textos narrativos, un poema y textos no literarios (uno con tabla de datos, otro con dos fuentes que cuentan una misma noticia), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc. Esta es la **Forma B**: usa los mismos textos base que el banco de contenido, pero con preguntas distintas, para practicar otros ángulos de análisis.*
 
 ## Instrucciones generales
 
@@ -45,8 +45,8 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **1. (Alternativas)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
 a) Chile actual, en una ciudad grande
-b) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-c) La época de la colonia española
+b) La época de la colonia española
+c) El auge del salitre en el norte de Chile, a comienzos del siglo XX
 d) El sur de Chile en el presente
 
 **2. (Desarrollo breve)** Explica cómo el ambiente descrito en el Texto 1 (el calor extremo, la maquinaria pesada, el peligro constante) influye en las reglas de seguridad y en la reacción del padre de Manuel cuando lo ve en peligro.
@@ -65,7 +65,7 @@ d) El sur de Chile en el presente
 > El tren traquetea, traquetea, traquetea,          (verso 1)
 > tragando kilómetros de rieles mojados.            (verso 2)
 > Silba una vez, dos veces, tres veces,              (verso 3)
-> como si tuviera mil años de viaje.                 (verso 4)
+> **como un viajero que nunca descansa.**             (verso 4)
 >
 > Estrofa 2
 > Los pinos se inclinan para verlo pasar,             (verso 1)
@@ -73,23 +73,23 @@ d) El sur de Chile en el presente
 > Mis ojos pesan más que una montaña                  (verso 3)
 > y el sueño me vence antes de llegar.                (verso 4)
 
-**5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "como si tuviera mil años de viaje"?
+**5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "**como un viajero que nunca descansa**"?
 
 a) Metáfora
-b) Comparación (símil)
+b) Hipérbole
 c) Onomatopeya
-d) Hipérbole
+d) Comparación (símil)
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **explícita** (dicha directamente en el texto)?
 
 a) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-b) El tren viaja de noche, hacia el sur
-c) El paisaje parece estar vivo y acompañar el viaje
+b) El paisaje parece estar vivo y acompañar el viaje
+c) El tren viaja de noche, hacia el sur
 d) El tiempo pareciera detenerse durante el trayecto
 
 **7. (Desarrollo breve)** Interpreta con tus propias palabras qué ocurre en la **primera estrofa** del poema. Explica también qué sonido de la realidad imita la onomatopeya "traquetea".
 
-**8. (Desarrollo extenso)** Explica el significado de la comparación "como si tuviera mil años de viaje": ¿qué transmite sobre la duración del viaje y el estado de quien lo narra? Luego, interpreta con tus propias palabras qué ocurre en la **segunda estrofa**, y escribe un verso propio que use una **hipérbole** para describir lo hambriento o hambrienta que estuviste un día después de hacer deporte.
+**8. (Desarrollo extenso)** Explica el significado de la comparación "**como un viajero que nunca descansa**": ¿qué transmite sobre la duración del viaje y el estado de quien lo narra? Luego, interpreta con tus propias palabras qué ocurre en la **segunda estrofa**, y escribe un verso propio que use una **hipérbole** para describir lo hambriento o hambrienta que estuviste un día después de hacer deporte.
 
 ---
 
@@ -190,11 +190,11 @@ d) No hay ninguna descripción del ambiente
 
 ## Sección de Escritura informativa (para las preguntas 22 a 25)
 
-**22. (Alternativas)** Según el artículo "El pudú, el ciervo más pequeño del mundo" (visto en clases), ¿cuál es la idea central del **segundo párrafo**?
+**22. (Alternativas)** Según el **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **segundo párrafo del Texto A** ("Atrapando agua del aire en Alto Hospicio")?
 
-a) Las características físicas del pudú
-b) Las amenazas que enfrenta el pudú y los programas de protección
-c) El rol ecológico del pudú al dispersar semillas
+a) El principio físico de los atrapanieblas
+b) El impacto social de los atrapanieblas en la comunidad de Alto Hospicio
+c) La replicación de la tecnología en otros países
 d) Las fuentes utilizadas para escribir el artículo
 
 **23. (Alternativas)** ¿Cuál de las siguientes es una razón para **agregar las fuentes** al final de un artículo informativo?
@@ -210,18 +210,28 @@ d) Para que el texto parezca más extenso de lo que es
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
+| 1 | **c)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
 | 2 | El ambiente extremo de la pampa (calor intenso, maquinaria pesada en movimiento, poca tolerancia al error) explica por qué las reglas de seguridad son tan estrictas y por qué el padre reacciona corriendo desesperadamente al ver a Manuel en peligro: en ese entorno, un descuido puede tener consecuencias graves o fatales. | OA N°4 — influencia del ambiente en las acciones |
 | 3 | **Falso.** El texto indica que Antonia actúa motivada por la preocupación que siente al ver a su abuelo triste y silencioso por el problema del galpón; no menciona en ningún momento un interés por demostrar habilidades de organización. | OA N°4 — motivaciones de los personajes |
 | 4 | Debe incluir una opinión fundamentada sobre la actitud de Antonia (por ejemplo, valorando su iniciativa y empatía) apoyada en información del texto, y una conclusión sustentada que explique cómo costumbres comunitarias como la minga permiten resolver colectivamente problemas que una persona sola no podría enfrentar. | OA N°4 — opinión fundamentada y conclusión sustentada |
-| 5 | **b) Comparación (símil).** Usa la palabra "como" para comparar el silbido del tren con la idea de un viaje antiguo e interminable. | OA N°5 — lenguaje figurado (comparación) |
-| 6 | **b)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
+| 5 | **d) Comparación (símil).** Usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa. | OA N°5 — lenguaje figurado (comparación) |
+| 6 | **c)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
 | 7 | En la primera estrofa, el tren avanza haciendo un ruido rítmico y constante sobre rieles mojados, y silba varias veces como si llevara mucho tiempo viajando. La onomatopeya "traquetea" imita el sonido repetitivo y mecánico de un tren moviéndose sobre los rieles. | OA N°5 — interpretación y onomatopeya |
-| 8 | La comparación "como si tuviera mil años de viaje" transmite que el trayecto se siente larguísimo y agotador, casi interminable, para quien narra. En la segunda estrofa, el paisaje (los pinos) parece observar el paso del tren mientras quien viaja, vencido por el cansancio, finalmente se queda dormido antes de llegar. El verso propio debe usar una exageración evidente e intencionada sobre el hambre (por ejemplo, "tenía tanta hambre que me habría comido una vaca entera"). | OA N°5 — comparación, interpretación y creación de hipérbole |
+| 8 | La comparación "**como un viajero que nunca descansa**" transmite que el trayecto se siente larguísimo y agotador, casi interminable, para quien narra. En la segunda estrofa, el paisaje (los pinos) parece observar el paso del tren mientras quien viaja, vencido por el cansancio, finalmente se queda dormido antes de llegar. El verso propio debe usar una exageración evidente e intencionada sobre el hambre (por ejemplo, "tenía tanta hambre que me habría comido una vaca entera"). | OA N°5 — comparación, interpretación y creación de hipérbole |
 | 9 | **a)** Década de 1980, Región de Antofagasta. | OA N°6 — información explícita |
 | 10 | **a)** Que es una tecnología reconocida y utilizada en distintas partes del mundo. | OA N°6 — inferencia a partir de información implícita |
 | 11 | (120 + 310 + 280 + 90) ÷ 4 = 800 ÷ 4 = **200 litros** promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
@@ -235,7 +245,7 @@ d) Para que el texto parezca más extenso de lo que es
 | 19 | **a)** No se sabe con claridad si "ella" se refiere a Camila o a Fernanda, porque ambas son mencionadas y el pronombre se repite sin distinción. | OA N°14 — identificación de referentes ambiguos |
 | 20 | Cualquier inicio bien construido, sin ambigüedad y con al menos un conector, por ejemplo: "Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola." | OA N°14 — escritura del inicio de una narración |
 | 21 | El diálogo debe plantear un conflicto evidente al inicio y mostrar cómo se resuelve a lo largo de las líneas; debe quedar explícito en todo momento quién habla (por nombre o descripción clara, sin pronombres ambiguos); y debe incluir al menos una descripción breve del ambiente o de un personaje. | OA N°14 — diálogo con conflicto resuelto y referentes claros |
-| 22 | **b)** Las amenazas que enfrenta el pudú (destrucción de hábitat, perros domésticos, atropellos) y los programas de protección que se han implementado. | OA N°15 — idea central por párrafo |
+| 22 | **b)** El impacto social de los atrapanieblas en la comunidad de Alto Hospicio (familias que antes dependían de camiones aljibe hoy riegan huertos comunitarios). | OA N°15 — idea central por párrafo |
 | 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. | OA N°15 — función de las fuentes |
 | 24 | Desarrollar una idea central por párrafo ayuda a que el lector siga con claridad el hilo del texto y distinga fácilmente los distintos aspectos del tema; mezclar varias ideas en un mismo párrafo puede confundir al lector y hacer que la información parezca desordenada o difícil de resumir. | OA N°15 — estructura y organización del artículo informativo |
 | 25 | La oración inicial debe presentar con claridad el tema de separar la basura en el hogar; las dos ideas centrales deben ser distintas entre sí (por ejemplo, "los distintos tipos de contenedores según el material" y "el beneficio ambiental de reducir la basura que llega a los vertederos"), cada una con al menos un conector; y debe incluir al menos dos fuentes razonables (por ejemplo, páginas web de instituciones oficiales como el Ministerio del Medio Ambiente, o material educativo de la municipalidad). | OA N°15 — planificación de un artículo informativo con fuentes |
@@ -261,3 +271,19 @@ d) Para que el texto parezca más extenso de lo que es
 | Desarrollo breve | 6 | 2, 7, 11, 16, 20, 24 |
 | Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 4 | 1, 2, 3, 4 | 1 | 3 |
+| OA 5 | 5, 6, 7, 8 | 2 | 2 |
+| OA 6 | 9, 10, 11, 12, 13 | 2 | 3 |
+| OA 7 | 14, 15, 16, 17 | 2 | 2 |
+| OA 14 | 18, 19, 20, 21 | 2 | 2 |
+| OA 15 | 22, 23, 24, 25 | 2 | 2 |
+| **Total** | **25 preguntas** | **11** | **14** |

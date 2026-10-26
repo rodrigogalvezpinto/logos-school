@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 01-medio/historia-geografia-y-cs-sociales.md (13 OA, Decreto 614/2013)
-relacionado: Forma A — 01-medio/pruebas/historia-geografia-y-cs-sociales-prueba.md
+relacionado: contenido/01-medio/historia-geografia-y-cs-sociales.md
 última actualización: 2026-08-10
 ---
 
@@ -40,7 +40,7 @@ Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013 para 1° medio. No 
 preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas
 abiertas, uso de estímulos como fuentes históricas y descripciones de mapas adaptadas, y Pauta
 de Corrección final) busca acercarte a la experiencia del examen real. Esta es la **Forma B**:
-una segunda versión de la prueba, con preguntas distintas a las de la Forma A, pensada para que
+una segunda versión de la prueba, con preguntas propias, pensada para que
 puedas practicar más de una vez sin memorizar respuestas.
 
 ---
@@ -82,9 +82,9 @@ d) La censura estatal de las organizaciones civiles
 fenómeno del surgimiento del Estado-nación en Europa?
 
 a) La fragmentación de un imperio en numerosos reinos independientes
-b) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano
+b) La ocupación militar de Italia por parte de una potencia extranjera
 c) La disolución de una unión territorial en varios países separados
-d) La ocupación militar de Italia por parte de una potencia extranjera
+d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano
 
 ---
 
@@ -100,9 +100,9 @@ d) La ocupación militar de Italia por parte de una potencia extranjera
 ¿Qué consecuencia de la Primera Guerra Mundial ilustra mejor este estímulo?
 
 a) El fortalecimiento inmediato de la idea de progreso indefinido
-b) La crisis de la idea de progreso propia del siglo XIX
+b) El regreso al comercio colonial exclusivo
 c) La disminución del número de víctimas respecto de guerras anteriores
-d) El regreso al comercio colonial exclusivo
+d) La crisis de la idea de progreso propia del siglo XIX
 
 ---
 
@@ -113,8 +113,8 @@ d) El regreso al comercio colonial exclusivo
 condición para alcanzar la estabilidad del nuevo Estado chileno?
 
 a) Los pipiolos
-b) Los pelucones y estanqueros
-c) Las comunidades mapuches
+b) Las comunidades mapuches
+c) Los pelucones y estanqueros
 d) Los obreros salitreros
 
 ---
@@ -138,9 +138,9 @@ constitucionales" e inestabilidad política en Chile.
 mediados del siglo XIX, aprovechando la demanda generada por la fiebre del oro?
 
 a) Gran Bretaña y Francia
-b) California y Australia
+b) España y Portugal
 c) Perú y Bolivia
-d) España y Portugal
+d) California y Australia
 
 ---
 
@@ -399,17 +399,27 @@ debate sobre desarrollo sostenible que busque responder a este tipo de problema.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas | a) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) La libre asociación | OA 1 | Historia | 1 |
-| 3  | Alternativas | b) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
-| 4  | Alternativas | b) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
-| 5  | Alternativas | b) Los pelucones y estanqueros | OA 8 | Historia | 1 |
+| 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
+| 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
+| 5  | Alternativas | c) Los pelucones y estanqueros | OA 8 | Historia | 1 |
 | 6  | Desarrollo breve | Tras la independencia, Chile debió construir un nuevo orden político desde cero, lo que llevó a la sucesión de distintas constituciones y gobiernos de corta duración, en medio del enfrentamiento entre grupos con visiones muy distintas —pipiolos (liberal-federalista) y pelucones/estanqueros (conservador)— sobre cómo organizar el país; ese conflicto solo se resolvió, al menos temporalmente, tras la batalla de Lircay (1830) y la posterior redacción de la Constitución de 1833 | OA 8 | Historia | 2 |
-| 7  | Alternativas | b) California y Australia | OA 10 | Historia | 1 |
+| 7  | Alternativas | d) California y Australia | OA 10 | Historia | 1 |
 | 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje | OA 10 | Historia | 1 |
 | 9  | Alternativas | b) Temuco | OA 14 | Historia | 1 |
 | 10 | Desarrollo breve | La ocupación significó la pérdida de la mayor parte del territorio ancestral mapuche, el empobrecimiento de sus comunidades, la pérdida de autonomía política y cambios forzados en su forma de vida y organización económica; estas transformaciones estructurales explican en buena medida demandas territoriales que continúan hasta el presente, por lo que sus efectos no se limitaron al siglo XIX sino que se proyectan hasta hoy | OA 14 | Historia | 2 |
@@ -462,3 +472,26 @@ debate sobre desarrollo sostenible que busque responder a este tipo de problema.
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 2 | 0 |
+| OA 3 | 3 | 1 | 0 |
+| OA 7 | 4 | 1 | 0 |
+| OA 8 | 5, 6 | 1 | 1 |
+| OA 10 | 7, 8 | 2 | 0 |
+| OA 12 | 16, 17 | 1 | 1 |
+| OA 14 | 9, 10 | 1 | 1 |
+| OA 15 | 11, 12 | 2 | 0 |
+| OA 18 | 13, 14, 15 | 2 | 1 |
+| OA 20 | 18, 19 | 2 | 0 |
+| OA 23 | 20, 21 | 1 | 1 |
+| OA 24 | 22, 23 | 1 | 1 |
+| OA 25 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **18** | **7** |

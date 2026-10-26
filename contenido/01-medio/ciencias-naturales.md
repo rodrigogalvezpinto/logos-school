@@ -594,7 +594,7 @@ interconectados.
    servicios ecosistémicos valiosos a largo plazo (como la regulación del clima o del
    agua). Sociales: puede afectar a comunidades que dependían del bosque para su
    subsistencia o su cultura.
-   **Retroalimentación:** Evaluar una acción humana desde sus tres dimensions
+   **Retroalimentación:** Evaluar una acción humana desde sus tres dimensiones
    (ambiental, económica y social) es central para el concepto de desarrollo
    sustentable.
 

@@ -14,7 +14,7 @@ fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/U
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-> 4° medio es el **último curso del ciclo escolar**: este es un segundo simulacro, con preguntas distintas a la Forma A, para que sigas practicando antes de tomar en tus propias manos las decisiones financieras, laborales y ciudadanas que vienen después de la escuela.
+> 4° medio es el **último curso del ciclo escolar**: este es un segundo simulacro, con preguntas propias, para que sigas practicando antes de tomar en tus propias manos las decisiones financieras, laborales y ciudadanas que vienen después de la escuela.
 
 **Instrucciones para el estudiante:**
 
@@ -33,8 +33,8 @@ fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/U
 
 **Pregunta 1 (alternativas).** ¿Cuál afirmación describe correctamente el interés simple?
 
-a) los intereses se calculan sobre el capital más los intereses ya acumulados
-b) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal
+a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal
+b) los intereses se calculan sobre el capital más los intereses ya acumulados
 c) el monto crece de forma exponencial en el tiempo
 d) no se puede calcular sin conocer la tasa efectiva anual
 
@@ -43,16 +43,16 @@ d) no se puede calcular sin conocer la tasa efectiva anual
 **Pregunta 2 (alternativas).** Dos bancos ofrecen la misma tasa nominal anual para un depósito: el Banco X capitaliza mensualmente y el Banco Y capitaliza semestralmente. ¿Cuál de los dos tendrá una tasa efectiva anual (TEA) mayor?
 
 a) el Banco Y, porque capitaliza menos veces al año
-b) el Banco X, porque capitaliza más veces al año
+b) no se puede determinar sin conocer el capital depositado
 c) ambos tendrán exactamente la misma TEA
-d) no se puede determinar sin conocer el capital depositado
+d) el Banco X, porque capitaliza más veces al año
 
 ---
 
 **Pregunta 3 (alternativas).** El IPC (Índice de Precios al Consumidor) mide directamente:
 
-a) el valor de la UF cada día
-b) la variación porcentual promedio de los precios de una canasta de bienes y servicios
+a) la variación porcentual promedio de los precios de una canasta de bienes y servicios
+b) el valor de la UF cada día
 c) la tasa de interés que cobran los bancos por sus créditos
 d) el tipo de cambio del dólar respecto al peso
 
@@ -61,9 +61,9 @@ d) el tipo de cambio del dólar respecto al peso
 **Pregunta 4 (alternativas).** Al comparar dos créditos de igual monto y plazo, el indicador más confiable para decidir cuál conviene más es:
 
 a) la tasa de interés anunciada, porque siempre refleja el costo total
-b) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable
+b) el nombre o prestigio de la institución que lo ofrece
 c) el monto total del crédito, sin considerar ninguna tasa
-d) el nombre o prestigio de la institución que lo ofrece
+d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable
 
 ---
 
@@ -195,14 +195,24 @@ d) no es posible calcular porcentajes a partir de una encuesta
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | b) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
-| 2 | b) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
-| 3 | b) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
-| 4 | b) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
+| 1 | a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
+| 2 | d) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
+| 3 | a) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
+| 4 | d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
 | 5 | M = 900.000×(1,04)⁵ ≈ 900.000×1,21665 ≈ **$1.094.990** | OA 1 | Álgebra y Funciones |
 | 6 | TEA = (1+0,20/12)¹²−1 = (1,016667)¹²−1 ≈ 1,2194−1 = **0,2194 ≈ 21,94% efectivo anual** | OA 1 | Álgebra y Funciones |
 | 7 | conviene el **Crédito Q**, porque su CAE (11%) es menor que el del Crédito P (13%); la tasa anunciada por sí sola no incluye comisiones u otros cargos, por lo que no refleja el costo real del crédito | OA 1 | Álgebra y Funciones |
@@ -234,4 +244,18 @@ d) no es posible calcular porcentajes a partir de una encuesta
 | OA2 — Modelos binomial y normal | 9 | Probabilidad y Estadística |
 | **Total** | **25** | **3 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática, igual que en la Forma A. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /04-medio/matematica.md, con escenarios, cifras y enunciados distintos a los usados en la Forma A (matematica-prueba.md), sin copiar preguntas reales de Mineduc.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática, igual que en el banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /04-medio/matematica.md, con escenarios, cifras y enunciados distintos a los usados en el banco de contenido, sin copiar preguntas reales de Mineduc.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
+| OA 2 | 17, 18, 19, 20, 21, 22, 23, 24 | 4 | 4 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 4 | 4 |
+| Norte) + P(Sur)×P(retraso\ | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **12** | **13** |

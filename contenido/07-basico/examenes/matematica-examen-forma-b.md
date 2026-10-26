@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /07-basico/matematica.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A (/07-basico/pruebas/matematica-prueba.md)
+relación con otras formas: segunda versión (Forma B), con preguntas propias
 última actualización: 2026-08-10
 ---
 
@@ -42,9 +42,9 @@ d) 150 m
 **Pregunta 2 (alternativas).** La cuenta corriente de un cliente tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
 
 a) −$82.000
-b) $18.000
+b) $82.000
 c) −$18.000
-d) $82.000
+d) $18.000
 
 ---
 
@@ -71,8 +71,8 @@ d) 2/9
 
 **Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
 
-a) $3.500
-b) $7.000
+a) $7.000
+b) $3.500
 c) $17.500
 d) $700
 
@@ -166,7 +166,14 @@ d) Cuadrante IV
 
 ## Eje 4: Datos y Probabilidades
 
-**Pregunta 21 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10. ¿Cuál es su frecuencia relativa?
+**Pregunta 21 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10:
+
+| Valor | Frecuencia absoluta |
+|---|---|
+| x | 10 |
+| Total de datos | 40 |
+
+¿Cuál es su frecuencia relativa?
 
 a) 10%
 b) 25%
@@ -201,17 +208,27 @@ d) 8/1
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
 | 1 | a) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
-| 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
+| 2 | d) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
 | 3 | 1.200 − (−85) = 1.200 + 85 = **1.285 metros** | OA 1 | Números y Operaciones |
 | 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
 | 5 | 9,6 ÷ 0,4 = **24** (amplificando: 96 ÷ 4 = 24) | OA 3 | Números y Operaciones |
 | 6 | 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = **10 porciones** | OA 3 | Números y Operaciones |
-| 7 | b) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
+| 7 | a) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
 | 8 | interés: 0,08×500.000=40.000; total a devolver: 500.000+40.000=**$540.000** | OA 4 | Números y Operaciones |
 | 9 | tras el alza: 60.000+9.000=69.000; tras el descuento: 69.000−10.350=**$58.650**; no es igual al original, es **menor** | OA 4 | Números y Operaciones |
 | 10 | a) 2x + 7 | OA 6 | Patrones y Álgebra |
@@ -241,6 +258,25 @@ d) 8/1
 | Datos y Probabilidades | 5 | OA 16, 18 |
 | **Total** | **25** | **9 OA** |
 
-**Tipo de preguntas:** 13 de alternativas (4 opciones) y 12 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de la Forma A.
+**Tipo de preguntas:** 13 de alternativas (4 opciones) y 12 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución del banco de contenido.
 
-**Relación con la Forma A:** esta Forma B cubre los mismos 9 OA y la misma distribución por eje que la Forma A (/07-basico/pruebas/matematica-prueba.md), pero con contextos, cifras y enunciados distintos en las 25 preguntas (por ejemplo: submarino en vez de buzo, cuenta corriente en vez de deuda de empresa, cine en vez de arroz, ruleta en vez de bolsa de fichas, básquetbol en vez de tenis), de modo que ningún estudiante recibe la misma pregunta en ambas formas. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /07-basico/matematica.md, sin copiar preguntas reales de Mineduc.
+**Relación con el examen de práctica:** esta Forma B cubre los mismos 9 OA y la misma distribución por eje que el banco de contenido, pero con contextos, cifras y enunciados propios en las 25 preguntas (por ejemplo: submarino, cuenta corriente, cine, ruleta y básquetbol), de modo que no repite preguntas de otro instrumento del mismo curso. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /07-basico/matematica.md, sin copiar preguntas reales de Mineduc.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3 | 2 | 1 |
+| OA 3 | 4, 5, 6 | 1 | 2 |
+| OA 4 | 7, 8, 9 | 1 | 2 |
+| OA 6 | 10, 11, 12 | 1 | 2 |
+| OA 8 | 13, 14, 15 | 2 | 1 |
+| OA 11 | 16, 17, 18 | 2 | 1 |
+| OA 14 | 19, 20 | 1 | 1 |
+| OA 16 | 21, 22, 23 | 2 | 1 |
+| OA 18 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **13** | **12** |

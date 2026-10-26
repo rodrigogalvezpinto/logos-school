@@ -29,7 +29,7 @@ basado_en: Banco de autoevaluación 05-basico/historia-geografia-y-cs-sociales.m
 
 Esta es la **Forma B** de este examen de práctica: una segunda versión, 100% original,
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 439/2012
-para 5° básico, pero con preguntas distintas a la Forma A. No reproduce preguntas reales del
+para 5° básico, pero con preguntas propias. No reproduce preguntas reales del
 Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas abiertas, uso de
 estímulos como mapas y fuentes históricas adaptadas, y Pauta de Corrección final) busca
 acercarte a la experiencia del examen real.
@@ -76,10 +76,10 @@ d) Desastre de Curalaba – fundación de Santiago – expedición de Valdivia �
 ¿Qué tendencia general sobre el avance de la conquista española se observa en este mapa?
 
 a) La conquista fue un hecho instantáneo, ocurrido en un solo año
-b) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el
+b) Las ciudades se fundaron únicamente en el extremo sur de Chile
    norte y el sur del territorio
 c) Todas las ciudades fueron fundadas simultáneamente por Diego de Almagro
-d) Las ciudades se fundaron únicamente en el extremo sur de Chile
+d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el
 
 ---
 
@@ -369,13 +369,23 @@ equilibrio entre los derechos de las personas y sus deberes en una sociedad.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas      | d) Establecer un sistema democrático de elecciones | OA 2 | Historia | 1 |
 | 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
-| 3  | Alternativas      | b) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
+| 3  | Alternativas      | d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
 | 4  | Desarrollo breve  | La sociedad surgida no era ni completamente española ni completamente indígena, sino una mezcla; el mestizaje es el elemento central. También son válidas menciones a las nuevas ciudades fundadas o a los conflictos bélicos de esta nueva etapa | OA 2 | Historia | 2 |
 | 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
 | 6  | Alternativas      | b) Las enfermedades traídas por los europeos, como la viruela | OA 3 | Historia | 1 |
@@ -432,3 +442,21 @@ preguntas.*
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2, 3, 4 | 3 | 1 |
+| OA 3 | 5, 6, 7 | 2 | 1 |
+| OA 6 | 8, 9, 10 | 2 | 1 |
+| OA 7 | 11, 12, 13 | 2 | 1 |
+| OA 9 | 14, 15, 16, 17 | 3 | 1 |
+| OA 10 | 18, 19, 20 | 2 | 1 |
+| OA 13 | 21, 22, 23 | 2 | 1 |
+| OA 14 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **17** | **8** |

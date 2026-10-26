@@ -8,7 +8,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 7° básico (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos a los de la Forma A, pero que evalúa los mismos seis Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con gráfico) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos a los del banco de contenido, pero que evalúa los mismos seis Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con gráfico) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -40,17 +40,17 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto?
 
-a) La tristeza de Camila por la muerte de su abuela
-b) La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años
+a) La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años
+b) La tristeza de Camila por la muerte de su abuela
 c) El mal estado del altillo de la casa de los abuelos
 d) La discusión entre la abuela y Camila por ordenar las pertenencias
 
 **2. (Alternativas)** ¿Qué rol cumple la abuela en el desarrollo del conflicto entre Camila y Tomás?
 
 a) Ninguno, porque no estaba presente cuando ocurrió la pelea
-b) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
+b) Es la narradora que cuenta toda la historia en primera persona
 c) Es quien obliga a los hermanos a pedirse perdón de inmediato
-d) Es la narradora que cuenta toda la historia en primera persona
+d) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
 
 **3. (Verdadero o Falso, con justificación)** "El relato comienza mostrando la pelea entre los hermanos y luego avanza en orden cronológico hasta el presente." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
 
@@ -76,8 +76,8 @@ d) Es la narradora que cuenta toda la historia en primera persona
 
 **6. (Alternativas)** ¿A qué sentido apela principalmente la expresión "redes que huelen a noche y a frío"?
 
-a) Al oído
-b) Al olfato
+a) Al olfato
+b) Al oído
 c) Al gusto
 d) A la vista
 
@@ -198,16 +198,26 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **b)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
-| 2 | **b)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
+| 1 | **a)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
+| 2 | **d)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
 | 3 | **Falso.** El relato comienza en el presente (Camila adulta en el altillo), salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; no comienza con la pelea ni avanza en orden estrictamente cronológico. | OA N°3 — disposición temporal |
 | 4 | Voz del narrador, por ejemplo: "Camila dobló la carta despacio, sintió que los ojos se le llenaban de lágrimas"; voz de un personaje, por ejemplo: "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella". Se distinguen porque el narrador describe desde fuera, sin raya de diálogo, mientras que los personajes hablan en primera persona, tras una raya o entre comillas. | OA N°3 — narrador versus personajes |
 | 5 | Debe explicar que el flashback genera intriga al mostrar primero las consecuencias del conflicto (el violín agrietado, la distancia entre los hermanos) antes de revelar su causa, reforzando el impacto emocional; y mencionar otra obra donde dos personajes se distancien por un malentendido y logren o no reconciliarse, con una semejanza explicada. | OA N°3 — análisis integrado del tiempo narrativo y relación entre obras |
-| 6 | **b)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
+| 6 | **a)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
 | 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
 | 8 | Debe explicar que la metáfora sugiere que el mar acumula, simbólicamente, el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella conservada en sus olas. | OA N°4 — interpretación de lenguaje figurado |
 | 9 | Debe identificar la aliteración del sonido "z" (zumba, zigzagueante) y explicar que imita el sonido del viento moviéndose entre las velas; y comparar el poema con otra obra que describa un paisaje costero o marino chileno, señalando un elemento en común (por ejemplo, personificación del mar o del viento). | OA N°4 — ritmo, sonoridad y relación entre obras |
@@ -249,3 +259,19 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 | Desarrollo breve (incluye aplicación) | 8 | 4, 8, 12, 16, 19, 20, 23, 24 |
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 1 | 4 |
+| OA 4 | 6, 7, 8, 9 | 2 | 2 |
+| OA 7 | 10, 11, 12, 13 | 2 | 2 |
+| OA 8 | 14, 15, 16, 17 | 1 | 3 |
+| OA 9 | 18, 19, 20, 21 | 1 | 3 |
+| OA 15 | 22, 23, 24, 25 | 1 | 3 |
+| **Total** | **25 preguntas** | **8** | **17** |

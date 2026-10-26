@@ -50,16 +50,16 @@ d) "sapo"
 **2. (Matemática — Alternativas)** ¿Cuál número corresponde a la palabra "ochenta y tres"?
 
 a) 38
-b) 83
+b) 380
 c) 803
-d) 380
+d) 83
 
 ---
 
 **3. (Historia — Alternativas)** Un pueblo originario vivía siempre en el mismo lugar, cultivaba la tierra y criaba llamas. ¿Cómo se llama este modo de vida?
 
-a) Nómade
-b) Sedentario
+a) Sedentario
+b) Nómade
 c) Migrante
 d) Colonial
 
@@ -68,9 +68,9 @@ d) Colonial
 **4. (Ciencias Naturales — Alternativas)** ¿Cuál es el orden correcto del ciclo de vida de una rana?
 
 a) Rana adulta → huevo → renacuajo
-b) Huevo → renacuajo → rana adulta
+b) Huevo → rana adulta → renacuajo
 c) Renacuajo → rana adulta → huevo
-d) Huevo → rana adulta → renacuajo
+d) Huevo → renacuajo → rana adulta
 
 ---
 
@@ -241,14 +241,24 @@ d) Para decorar los pasillos
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
 | 1 | Lenguaje y Comunicación | **a) "cielo".** Las letras "i" y "e" forman un diptongo: se lee "cie-lo", en una sola sílaba. | OA N°1 |
-| 2 | Matemática | **b) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
-| 3 | Historia, Geografía y Cs. Sociales | **b) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
-| 4 | Ciencias Naturales | **b) Huevo → renacuajo → rana adulta.** | OA 3 |
+| 2 | Matemática | **d) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
+| 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
+| 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** | OA 3 |
 | 5 | Matemática | **b) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
 | 6 | Lenguaje y Comunicación | **b) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
 | 7 | Ciencias Naturales | **c) El huemul.** | OA 5 |
@@ -275,3 +285,26 @@ d) Para decorar los pasillos
 | Historia, Geografía y Cs. Sociales | 5 | 3, 8, 11, 15, 20 |
 | Ciencias Naturales | 5 | 4, 7, 12, 16, 19 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 3, 8 | 3 | 0 |
+| OA 2 | 2 | 1 | 0 |
+| OA 3 | 4 | 1 | 0 |
+| OA 5 | 6, 7, 10 | 2 | 1 |
+| OA 7 | 11, 13 | 2 | 0 |
+| OA 8 | 15 | 1 | 0 |
+| OA 9 | 5, 12 | 2 | 0 |
+| OA 11 | 16 | 1 | 0 |
+| OA 12 | 9, 19 | 2 | 0 |
+| OA 14 | 20 | 1 | 0 |
+| OA 15 | 14 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| OA 22 | 18 | 1 | 0 |
+| **Total** | **20 preguntas** | **19** | **1** |

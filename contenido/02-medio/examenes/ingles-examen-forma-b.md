@@ -43,8 +43,8 @@ produce affordable prosthetic limbs for patients around the world."*
 
 What information is explicit in the text?
 
-a) 3D printing is only used to make toys.
-b) 3D printing allows hospitals to produce affordable prosthetic limbs.
+a) 3D printing allows hospitals to produce affordable prosthetic limbs.
+b) 3D printing is only used to make toys.
 c) 3D printing cannot be used to create physical objects.
 d) 3D printing has never been used in medicine.
 
@@ -74,9 +74,9 @@ is the most useful strategy to understand the text without translating
 every word?
 
 a) Stop at every unknown word and look it up immediately.
-b) Use context and known words to infer the general meaning before using a
+b) Ignore the whole text if a difficult word appears.
    dictionary.
-c) Ignore the whole text if a difficult word appears.
+c) Use context and known words to infer the general meaning before using a
 d) Memorize the text without understanding it.
 
 ---
@@ -88,9 +88,9 @@ devices you are not using and switch to LED light bulbs."* What is the
 purpose of this text?
 
 a) To entertain readers with a story
-b) To persuade/instruct readers to change a behavior
+b) To sell a product
 c) To describe a historical event
-d) To sell a product
+d) To persuade/instruct readers to change a behavior
 
 **8.** *(Pregunta abierta — completar)* Complete with the correct connector:
 *"___ people reduce food waste at home, landfills will keep producing
@@ -113,8 +113,8 @@ antónimo correcto: *"legal"* → ¿"illegal" o "inlegal"?
 the parents' association attended the emergency meeting about the schedule
 change."* ¿Qué indica esta oración?
 
-a) Que ambos actores asistieron a la reunión.
-b) Que ninguno de los dos actores asistió a la reunión.
+a) Que ninguno de los dos actores asistió a la reunión.
+b) Que ambos actores asistieron a la reunión.
 c) Que solo la escuela asistió.
 d) Que no hubo ninguna reunión.
 
@@ -129,9 +129,9 @@ neighborhood should have a recycling program."* (In / At)
 justificada sobre un problema global?
 
 a) Plastic bags are common.
-b) I'd rather carry a reusable bag than use plastic ones, because it
+b) Bags are useful for shopping.
    reduces waste in the ocean.
-c) Bags are useful for shopping.
+c) I'd rather carry a reusable bag than use plastic ones, because it
 d) There is a store near my house.
 
 **15.** *(Pregunta abierta — completar)* Complete a text about a school
@@ -201,24 +201,34 @@ d) He taught his to play guitar.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) 3D printing allows hospitals to produce affordable prosthetic limbs. | OA9 |
+| 1 | a) 3D printing allows hospitals to produce affordable prosthetic limbs. | OA9 |
 | 2 | about / how | OA9 |
 | 3 | False (Falso) — el texto afirma que las turbinas eólicas son más silenciosas de lo que la gente asume cuando se instalan a una distancia segura, lo contrario a la afirmación. | OA9 |
 | 4 | *It was sent in 1971.* | OA9 |
 | 5 | British / 1934 / became famous for her research on chimpanzee behavior (in Tanzania) | OA9 |
-| 6 | b) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | b) To persuade/instruct readers to change a behavior | OA10 |
+| 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
+| 7 | d) To persuade/instruct readers to change a behavior | OA10 |
 | 8 | Unless | OA10 |
 | 9 | True (Verdadero) — se plantea un problema (botellas de plástico acumulándose) y una solución (estaciones de recarga de agua); identificar otras soluciones posibles (prohibir el plástico) va más allá del texto, tal como pide este OA. | OA10 |
 | 10 | inconvenient | OA10 |
 | 11 | illegal | OA10 |
-| 12 | b) Que ninguno de los dos actores asistió a la reunión. | OA10 |
+| 12 | a) Que ninguno de los dos actores asistió a la reunión. | OA10 |
 | 13 | In | OA13 |
-| 14 | b) I'd rather carry a reusable bag than use plastic ones, because it reduces waste in the ocean. | OA13 |
+| 14 | c) I'd rather carry a reusable bag than use plastic ones, because it reduces waste in the ocean. | OA13 |
 | 15 | studied / found | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural (el equilibrio entre trabajo y vida personal en Suecia). | OA13 |
 | 17 | Respuesta personal coherente, p. ej.: *"One global leader I admire is Jane Goodall. I believe she is a role model because she has dedicated her life to protecting animals and the environment."* | OA13 |
@@ -246,6 +256,20 @@ preguntas 1, 6, 7, 12, 14, 18, 20 y 25) y 17 de respuesta abierta breve
 (completar, verdadero/falso, responder en inglés, completar esquema,
 emparejar y escribir según modelo), en línea con el formato mixto del Examen
 Libre real de Inglés. Esta Forma B usa la misma distribución por OA y tipo de
-pregunta que la Forma A, pero con textos, temas y contextos distintos, para
+pregunta que el banco de contenido, pero con textos, temas y contextos distintos, para
 que ambas formas sean intercambiables como instancias independientes de
 evaluación.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 9 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 10 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 13 | 13, 14, 15, 16, 17, 18 | 2 | 4 |
+| OA 16 | 19, 20, 21, 22, 23, 24, 25 | 2 | 5 |
+| **Total** | **25 preguntas** | **8** | **17** |
