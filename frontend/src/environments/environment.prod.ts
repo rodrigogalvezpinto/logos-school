@@ -4,4 +4,5 @@ export const environment = {
   // planificacion/17-infraestructura-y-entornos.md. Placeholder hasta que exista el
   // dominio real.
   apiUrl: 'https://api.logos.cl',
+  googleClientId: '',
 };

@@ -62,6 +62,10 @@ export class AuthService {
     return this.http.post<TokenRespuesta>(`${this.base}/auth/login`, { email, password });
   }
 
+  loginConGoogle(idToken: string): Observable<TokenRespuesta> {
+    return this.http.post<TokenRespuesta>(`${this.base}/auth/login-google`, { id_token: idToken });
+  }
+
   yo(): Observable<CuentaRespuesta> {
     return this.http.get<CuentaRespuesta>(`${this.base}/auth/yo`);
   }
