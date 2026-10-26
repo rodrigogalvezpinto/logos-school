@@ -220,7 +220,7 @@ export interface PreguntaRunner {
 
             <div class="modal__acciones">
               <button class="btn btn--secundario" (click)="irARevisarPendientes()">Ir a revisar</button>
-              <button class="btn btn--peligro" (click)="confirmarEnvio()">Entregar de todas formas</button>
+              <button class="btn btn--peligro" (click)="confirmarEnvio()">Enviar de todas formas</button>
             </div>
           </div>
         </div>
