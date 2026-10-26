@@ -6,7 +6,7 @@
 3. `auditoria.md` — Auditoría ítem por ítem (exámenes, pruebas, guías) — rama `qa/fase-2-matriz-trazabilidad`, HEAD `0106976`
 4. Auditoría pedagógica experta aplicada en esta sesión (skills `profesor-experto-chile.md` + `auditoria-contenido-educativo.md`)
 
-**Estado global:** 🟢 **CONTENIDO CORREGIDO — 0 HALLAZGOS ABIERTOS** — ver §0 y §3.4
+**Estado global:** 🟢 **CONTENIDO CORREGIDO — 0 HALLAZGOS ABIERTOS** — ver §0.3, §0.4 y §0.5
 
 ---
 
@@ -75,6 +75,103 @@ consecuencia. Cualquier cambio de letra sin reordenamiento de opciones es un err
 | Archivos con anglicismos | **0** |
 
 El detalle del alcance, las exclusiones justificadas y el criterio de cierre están en §3.4.
+
+### 0.5 Paquete de calidad editorial (25 de octubre de 2026)
+
+Cinco frentes cerrados, todos dentro de `contenido/` y verificados con los
+validadores de producción.
+
+#### 1. Enlaces y referencias a "Forma A"
+
+| Comprobación | Antes | Después |
+|---|---|---|
+| Enlaces a archivos de contenido inexistentes | 12 | **0** |
+| Menciones a una "Forma A" que no existe | 88 (en 40 exámenes) | **0** |
+| Rutas `.md` de `contenido/` citadas y existentes | — | **102 / 102** |
+
+Las 25 menciones restantes a "Forma A" son legítimas: corresponden a los
+exámenes integrados de 1° a 4° básico, que sí tienen Forma A y Forma B
+separadas. Las 2 rutas no resueltas son plantillas `contenido/{curso}/...` del
+documento de inventario, no enlaces.
+
+#### 2. Rúbricas de las preguntas de desarrollo
+
+| Comprobación | Resultado |
+|---|---|
+| Rúbricas agregadas | **91** |
+| Exámenes con rúbricas | **9** |
+| Rúbricas cuya suma de criterios iguala el puntaje del enunciado | **91 / 91** |
+
+Cobertura: Ciencias Naturales de 5° a 8° básico y 1° a 2° medio, Ciencias para
+la Ciudadanía de 3° y 4° medio, y Educación Ciudadana de 3° medio. Se escribieron
+como listas con guiones —no como tablas— para no interferir con
+`_extraer_pauta_tabla` / `_extraer_pauta_lista` de `parser_prueba_examen.py`, y
+bajo un encabezado de nivel 1 para que `bloque_pauta` cierre antes de la tabla
+de especificaciones.
+
+#### 3. Sesgos de forma
+
+| Comprobación | Antes | Después |
+|---|---|---|
+| Clave ≥ 1,25× la segunda alternativa y ≥ 30 caracteres | 18 | **0** |
+| Distractores con absolutos duros ("ninguno", "siempre", "nunca") | 10 | **1** legítimo |
+| Absolutos suaves | 6 | **0** |
+
+El único absoluto duro que queda es un distractor de 5° básico Ciencias
+Naturales (P17, opción `d`); reescribirlo rompería la lógica del ítem. El método
+fue alargar los distractores; solo cuando fue imprescindible se acortó la clave,
+actualizando en el mismo cambio su fila de pauta. Quedan excluidos del cálculo
+los bancos de opciones compartidos de Inglés y las pautas sin letra.
+
+#### 4. Hoja de respuestas y tabla de especificaciones
+
+| Comprobación | Resultado |
+|---|---|
+| Exámenes con hoja de respuestas | **50 / 50** |
+| Exámenes con tabla de especificaciones | **50 / 50** |
+| Estructura correcta (hoja → pauta → especificaciones) | **50 / 50** |
+| Totales de la tabla iguales a las preguntas del instrumento | **50 / 50** |
+
+La hoja lleva casillas numeradas 1..N y se ubica antes de la pauta. La tabla de
+especificaciones va al final, agrupada por OA —o por eje temático cuando la
+pauta no usa códigos OA, como en 4° medio Educación Ciudadana— e indica
+preguntas, cantidad de ítems cerrados y de desarrollo. Ambas se insertan como
+encabezado de nivel 1 para que `bloque_pauta` corte antes y no las confunda con
+la pauta.
+
+#### 5. Apoyos de datos
+
+| Comprobación | Resultado |
+|---|---|
+| Preguntas con tabla de datos | **13** |
+| Exámenes intervenidos | **11** |
+| Cifras o respuestas alteradas | **0** |
+
+Las tablas reformulan datos que el enunciado ya entregaba en prosa (valores en
+el tiempo, frecuencias, ventas, asistencia, planes de telefonía, deportes,
+transporte escolar, datos de sonar, aceleración, sismos y observación de
+células). No se inventó ninguna cifra ni se cambió ninguna clave.
+
+Matemática: 3° medio P4 y P6; 6° básico P23 y P24; 7° básico P21;
+8° básico P12; 1° medio P24; 5° básico P23; 2° básico P17.
+Ciencias: 1° medio P13; 2° medio P14; 3° medio P24; 8° básico P3.
+
+#### 6. Verificación final del paquete
+
+| Comprobación | Resultado |
+|---|---|
+| Parser de producción | **50 exámenes, 1.210 preguntas, 635 alternativas, 0 problemas de alineación** |
+| Numeración contigua 1..N | **50 / 50** |
+| `validador_formato_pauta.py` | **0 problemas** / 2 avisos esperados (Filosofía 3° y 4° medio) |
+| `validador_claves.py` | **0 / 50** sobre 45 % |
+| `validador_anglicismos.py` | **0** hallazgos |
+| `validador_factual.py` | **0** imprecisiones |
+| Coherencia opción ↔ pauta | **162 claves, 0 desalineadas** |
+| `detectar_sesgos2.py` | **0** sesgos de longitud / **1** absoluto duro legítimo |
+
+Los dos avisos de `validador_formato_pauta.py` no son problemas: Filosofía de
+3° y 4° medio usan una tabla parcial para las alternativas y corrigen el resto
+con criterios en prosa.
 
 ---
 
@@ -387,8 +484,14 @@ git push origin fix/auditoria-maestra-p1-p2
 
 ## 10. ESTADO FINAL Y PRÓXIMOS PASOS OPCIONALES
 
-**No queda trabajo de contenido pendiente.** Los 3 P1, los 12 P2 y el sesgo de
-claves (P3) están cerrados y verificados con los tres validadores.
+**No queda trabajo de contenido pendiente.** Los 3 P1, los 12 P2, el sesgo de
+claves (P3) y el paquete de calidad editorial de §0.5 están cerrados y
+verificados con los validadores de producción.
+
+El paquete de §0.5 dejó, en los 50 exámenes: **0 enlaces rotos**, **91
+rúbricas** con puntaje consistente, **0 sesgos de longitud**, **hoja de
+respuestas y tabla de especificaciones en 50/50** y **13 preguntas con tablas
+de datos** que no alteran cifras ni claves.
 
 Mejoras editoriales opcionales (no bloquean publicación):
 
