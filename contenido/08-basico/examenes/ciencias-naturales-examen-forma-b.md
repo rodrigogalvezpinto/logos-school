@@ -61,8 +61,14 @@ c) Son exclusivas de las plantas y de otros organismos con cloroplastos
 d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido
 
 **3.** *(Desarrollo breve, 2 puntos)* Un estudiante observa al microscopio dos tipos de
-células humanas: una con múltiples prolongaciones largas y otra de forma alargada, con
-fibras internas visibles. Identifica qué tipo celular corresponde a cada una (neurona o
+células humanas y registra lo siguiente:
+
+| Célula | Forma | Prolongaciones | Fibras internas |
+|---|---|---|---|
+| Célula 1 | Estrellada, con múltiples prolongaciones largas | Sí | No visibles |
+| Célula 2 | Alargada | No | Sí, visibles |
+
+Identifica qué tipo celular corresponde a cada una (neurona o
 fibra muscular) y justifica tu respuesta relacionando su forma con la función que
 cumple.
 

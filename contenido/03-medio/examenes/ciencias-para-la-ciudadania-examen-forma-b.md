@@ -234,9 +234,15 @@ Clasifica esta decisión como medida de prevención, mitigación o adaptación, 
 justifica tu respuesta.
 
 **24.** *(Desarrollo breve, 2 puntos)* Un gráfico histórico de sismos de gran
-magnitud en Chile muestra eventos como el terremoto de Valdivia de 1960 (magnitud
-9.5), el terremoto del Maule de 2010 (magnitud 8.8) y el terremoto de Iquique de
-2014 (magnitud 8.2). A partir de este registro histórico, ¿qué se puede y qué no se
+magnitud en Chile registra los siguientes eventos:
+
+| Año | Terremoto | Magnitud |
+|---|---|---|
+| 1960 | Valdivia | 9,5 |
+| 2010 | Maule | 8,8 |
+| 2014 | Iquique | 8,2 |
+
+A partir de este registro histórico, ¿qué se puede y qué no se
 puede afirmar con evidencia científica sobre el riesgo sísmico futuro de Chile?
 
 **25.** *(Desarrollo extenso, 3 puntos)* Evalúa las capacidades de prevención,

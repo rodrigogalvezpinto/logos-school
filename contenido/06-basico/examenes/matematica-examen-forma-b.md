@@ -179,7 +179,14 @@ d) 20
 
 ---
 
-**Pregunta 23 (alternativas).** Un gráfico circular muestra que el 44% de una encuesta a 250 personas prefiere como mascota al perro. ¿Cuántas personas prefieren al perro?
+**Pregunta 23 (alternativas).** Un gráfico circular muestra los resultados de una encuesta a 250 personas sobre su mascota preferida:
+
+| Preferencia | Porcentaje |
+|---|---|
+| Perro | 44% |
+| Otras mascotas | 56% |
+
+¿Cuántas personas prefieren al perro?
 
 a) 110
 b) 44
@@ -188,7 +195,14 @@ d) 140
 
 ---
 
-**Pregunta 24 (desarrollo).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres. En el trimestre 1, Teatro tuvo 45 asistentes y Música 38. En el trimestre 2, Teatro tuvo 30 asistentes y Música 52. ¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre? Muestra tu desarrollo.
+**Pregunta 24 (desarrollo).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
+
+| Taller | Trimestre 1 | Trimestre 2 |
+|---|---|---|
+| Teatro | 45 | 30 |
+| Música | 38 | 52 |
+
+¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre? Muestra tu desarrollo.
 
 ---
 

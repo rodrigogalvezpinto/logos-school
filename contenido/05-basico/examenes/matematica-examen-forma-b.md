@@ -179,7 +179,17 @@ d) 24,0
 
 ---
 
-**Pregunta 23 (desarrollo).** El promedio de ventas diarias de una feria fue $14.000 durante 4 días. Si el lunes vendió $12.000, el martes $16.000 y el miércoles $13.000, ¿cuánto vendió el jueves? Muestra tu desarrollo.
+**Pregunta 23 (desarrollo).** El promedio de ventas diarias de una feria fue $14.000 durante 4 días:
+
+| Día | Venta |
+|---|---|
+| Lunes | $12.000 |
+| Martes | $16.000 |
+| Miércoles | $13.000 |
+| Jueves | ? |
+| Promedio diario | $14.000 |
+
+¿Cuánto vendió el jueves? Muestra tu desarrollo.
 
 ---
 

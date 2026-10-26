@@ -166,7 +166,14 @@ d) Cuadrante IV
 
 ## Eje 4: Datos y Probabilidades
 
-**Pregunta 21 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10. ¿Cuál es su frecuencia relativa?
+**Pregunta 21 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10:
+
+| Valor | Frecuencia absoluta |
+|---|---|
+| x | 10 |
+| Total de datos | 40 |
+
+¿Cuál es su frecuencia relativa?
 
 a) 10%
 b) 25%

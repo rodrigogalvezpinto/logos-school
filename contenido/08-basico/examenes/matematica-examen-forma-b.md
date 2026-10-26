@@ -101,7 +101,14 @@ d) x = 12
 
 ---
 
-**Pregunta 12 (desarrollo).** Dos planes de telefonía cobran así: el Plan A cobra $10.000 fijos más $400 por giga de datos usados; el Plan B cobra $4.000 fijos más $700 por giga. ¿Para cuántos gigas de datos ambos planes cobran lo mismo? Muestra tu desarrollo.
+**Pregunta 12 (desarrollo).** Dos planes de telefonía cobran así:
+
+| Plan | Cargo fijo mensual | Costo por giga de datos |
+|---|---|---|
+| Plan A | $10.000 | $400 |
+| Plan B | $4.000 | $700 |
+
+¿Para cuántos gigas de datos ambos planes cobran lo mismo? Muestra tu desarrollo.
 
 ---
 

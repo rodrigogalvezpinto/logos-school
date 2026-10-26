@@ -176,7 +176,15 @@ d) Zona austral
 
 ---
 
-**17. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio: a pie llegan 15 alumnos, en auto llegan 9 alumnos y en bicicleta llegan 6 alumnos. ¿Cuántos alumnos más llegan a pie que en bicicleta?
+**17. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
+
+| Medio de transporte | Alumnos |
+|---|---|
+| A pie | 15 |
+| Auto | 9 |
+| Bicicleta | 6 |
+
+¿Cuántos alumnos más llegan a pie que en bicicleta?
 
 ---
 

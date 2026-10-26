@@ -57,7 +57,13 @@ d) no se puede determinar sin conocer el valor inicial
 
 ---
 
-**Pregunta 4 (alternativas).** Una tabla registra el valor de un bien en el tiempo: t=0 → 100; t=1 → 150; t=2 → 200; t=3 → 250. ¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
+**Pregunta 4 (alternativas).** Una tabla registra el valor de un bien en el tiempo:
+
+| Tiempo (t) | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Valor | 100 | 150 | 200 | 250 |
+
+¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
 
 a) exponencial, porque los valores van en aumento
 b) lineal, porque la diferencia entre términos consecutivos es constante (siempre +50)
@@ -70,7 +76,13 @@ d) no se puede determinar con estos datos
 
 ---
 
-**Pregunta 6 (desarrollo).** Una colonia de pingüinos en la costa registra la siguiente población: t=0 → 80; t=1 → 96; t=2 → 115; t=3 → 138. ¿Corresponde este crecimiento a un modelo exponencial? Justifica calculando las razones entre términos consecutivos y, si corresponde, estima la tasa de crecimiento.
+**Pregunta 6 (desarrollo).** Una colonia de pingüinos en la costa registra la siguiente población:
+
+| Tiempo (t) | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Población | 80 | 96 | 115 | 138 |
+
+¿Corresponde este crecimiento a un modelo exponencial? Justifica calculando las razones entre términos consecutivos y, si corresponde, estima la tasa de crecimiento.
 
 ---
 

@@ -159,8 +159,14 @@ d) La superficie debe estar suficientemente lejos de la persona
 
 **13.** *(Desarrollo extenso, 3 puntos)* Un barco emite un pulso de sonar hacia el
 fondo marino y recibe de vuelta el eco de ese pulso 4 segundos después de haberlo
-emitido. Si la rapidez del sonido en el agua es de aproximadamente 1.500 m/s,
-calcula la profundidad del mar en ese punto, mostrando el desarrollo de tu cálculo, y
+emitido:
+
+| Dato | Valor |
+|---|---|
+| Tiempo de ida y vuelta del eco | 4 s |
+| Rapidez del sonido en el agua | 1.500 m/s |
+
+Calcula la profundidad del mar en ese punto, mostrando el desarrollo de tu cálculo, y
 explica por qué es necesario considerar que el sonido recorre esa distancia dos
 veces.
 

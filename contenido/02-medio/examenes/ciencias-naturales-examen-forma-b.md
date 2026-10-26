@@ -160,7 +160,15 @@ d) Movimiento con aceleración variable, porque la gravedad aumenta al caer
 
 **14.** *(Desarrollo extenso, 3 puntos)* Un ciclista parte del reposo y acelera de
 manera constante en línea recta, alcanzando una velocidad de 15 m/s luego de 5
-segundos. Calcula la aceleración del ciclista, mostrando el desarrollo de tu cálculo,
+segundos:
+
+| Magnitud | Valor |
+|---|---|
+| Velocidad inicial | 0 m/s |
+| Velocidad final | 15 m/s |
+| Tiempo | 5 s |
+
+Calcula la aceleración del ciclista, mostrando el desarrollo de tu cálculo,
 y explica qué significa físicamente el valor que obtuviste.
 
 ---

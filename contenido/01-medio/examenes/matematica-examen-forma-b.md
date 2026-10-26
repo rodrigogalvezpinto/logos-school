@@ -188,7 +188,16 @@ d) 1/12
 
 ---
 
-**Pregunta 24 (desarrollo).** En un curso de 30 estudiantes, 16 practican tenis, 12 practican vóleibol, y 4 practican ambos deportes. Si se elige un estudiante al azar, ¿cuál es la probabilidad de que practique tenis o vóleibol? Muestra tu desarrollo.
+**Pregunta 24 (desarrollo).** En un curso de 30 estudiantes se registraron los deportes que practican:
+
+| Deporte | Estudiantes |
+|---|---|
+| Tenis | 16 |
+| Vóleibol | 12 |
+| Tenis y vóleibol | 4 |
+| Total del curso | 30 |
+
+Si se elige un estudiante al azar, ¿cuál es la probabilidad de que practique tenis o vóleibol? Muestra tu desarrollo.
 
 ---
 
