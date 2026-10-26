@@ -19,7 +19,12 @@ import { CampanaNotificaciones } from '../campana-notificaciones/campana-notific
         }
         <a class="topbar__usuario" routerLink="/selector-perfil">
           <div class="topbar__avatar">{{ inicial }}</div>
-          <span>{{ nombre }}</span>
+          <div class="topbar__info-usuario">
+            <span class="topbar__nombre">{{ nombre }}</span>
+            @if (curso) {
+              <span class="topbar__curso">({{ curso }})</span>
+            }
+          </div>
         </a>
       </div>
     </header>
@@ -75,6 +80,19 @@ import { CampanaNotificaciones } from '../campana-notificaciones/campana-notific
         text-decoration: none;
         color: var(--texto-principal);
       }
+      .topbar__info-usuario {
+        display: flex;
+        align-items: baseline;
+        gap: 0.35rem;
+      }
+      .topbar__nombre {
+        font-weight: 600;
+      }
+      .topbar__curso {
+        font-size: 0.85rem;
+        color: var(--texto-secundario);
+        font-weight: 500;
+      }
       .topbar__avatar {
         width: 38px;
         height: 38px;
@@ -92,6 +110,7 @@ import { CampanaNotificaciones } from '../campana-notificaciones/campana-notific
 })
 export class Topbar {
   @Input() nombre = 'Sofía';
+  @Input() curso = '';
   @Input() mostrarBusqueda = false;
   @Output() alternarMenu = new EventEmitter<void>();
 

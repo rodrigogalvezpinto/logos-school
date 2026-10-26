@@ -3,6 +3,7 @@ import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.service';
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
+import { MarkdownPipe } from '../markdown.pipe';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
 
@@ -18,7 +19,7 @@ export interface PreguntaRunner {
 @Component({
   selector: 'app-evaluacion-runner',
   standalone: true,
-  imports: [FormsModule, BotonEscuchar],
+  imports: [FormsModule, BotonEscuchar, MarkdownPipe],
   template: `
     @if (cargando()) {
       <p class="cargando">Cargando…</p>
@@ -33,7 +34,7 @@ export interface PreguntaRunner {
           } @else if (modo === 'prueba') {
             <li>Sin límite de tiempo — respóndela a tu ritmo</li>
           } @else {
-            <li>Feedback inmediato en cada pregunta</li>
+            <li>Feedback bajo demanda en cada pregunta</li>
           }
         </ul>
         @if (modo === 'examen') {
@@ -77,7 +78,7 @@ export interface PreguntaRunner {
 
         <div class="tarjeta pregunta">
           <app-boton-escuchar class="pregunta__escuchar" [texto]="preguntaActual.enunciado" />
-          <p class="pregunta__enunciado">{{ preguntaActual.enunciado }}</p>
+          <div class="pregunta__enunciado" [innerHTML]="preguntaActual.enunciado | markdown"></div>
 
           @if (preguntaActual.tipo === 'alternativas' && preguntaActual.opciones) {
             <div class="opciones">
@@ -117,15 +118,37 @@ export interface PreguntaRunner {
             </div>
           }
 
-          @if (modo === 'autoevaluacion' && respuestas()[preguntaActual.id]) {
-            <div class="feedback">
-              @if (esCorrectaEnAutoevaluacion(preguntaActual)) {
-                ✓ ¡Correcto! {{ preguntaActual.retroalimentacion }}
-              } @else {
-                <strong>Respuesta esperada: {{ preguntaActual.respuesta_correcta }}.</strong>
-                {{ preguntaActual.retroalimentacion }}
-              }
-            </div>
+          @if (modo === 'autoevaluacion') {
+            @if (!ayudasReveladas().has(preguntaActual.id)) {
+              <button
+                type="button"
+                class="btn btn--secundario btn-ayuda-practica"
+                [disabled]="!respuestas()[preguntaActual.id]"
+                (click)="solicitarAyuda(preguntaActual.id)"
+              >
+                💡 Comprobar respuesta / Ver explicación
+              </button>
+            } @else {
+              <div class="feedback feedback--revelado">
+                @if (preguntaActual.tipo === 'alternativas' || preguntaActual.tipo === 'verdadero_falso') {
+                  @if (esCorrectaEnAutoevaluacion(preguntaActual)) {
+                    <p class="feedback__exito">✓ ¡Correcto! {{ preguntaActual.retroalimentacion }}</p>
+                  } @else {
+                    <p class="feedback__atencion">
+                      <strong>Respuesta correcta: {{ preguntaActual.respuesta_correcta }}.</strong>
+                      {{ preguntaActual.retroalimentacion }}
+                    </p>
+                  }
+                } @else {
+                  <!-- Pregunta abierta / desarrollo: No juzga como incorrecta; ofrece solución orientativa -->
+                  <div class="feedback__orientativo">
+                    <p class="feedback__titulo">Pauta de autoevaluación:</p>
+                    <p><strong>Idea clave esperada:</strong> {{ preguntaActual.respuesta_correcta }}</p>
+                    <p class="feedback__retro">{{ preguntaActual.retroalimentacion }}</p>
+                  </div>
+                }
+              </div>
+            }
           }
 
           <label class="marcar-revisar">
@@ -168,15 +191,27 @@ export interface PreguntaRunner {
       @if (mostrarAvisoIncompleto()) {
         <div class="modal-fondo">
           <div class="modal tarjeta">
-            <h3>Te falta responder {{ faltantes().length }} pregunta{{ faltantes().length > 1 ? 's' : '' }}</h3>
-            <p>
-              Pregunta{{ faltantes().length > 1 ? 's' : '' }}
-              {{ faltantesTexto() }} — si envías ahora, quedará{{ faltantes().length > 1 ? 'n' : '' }} en
-              blanco.
-            </p>
+            <h3>Aviso antes de entregar</h3>
+            
+            @if (faltantes().length > 0) {
+              <p class="aviso-faltantes">
+                ⚠️ Te falta responder <strong>{{ faltantes().length }}</strong> pregunta{{ faltantes().length > 1 ? 's' : '' }}
+                (Pregunta{{ faltantes().length > 1 ? 's' : '' }} {{ faltantesTexto() }}).
+              </p>
+            }
+            
+            @if (marcadas().size > 0) {
+              <p class="aviso-marcadas">
+                📌 Dejaste <strong>{{ marcadas().size }}</strong> pregunta{{ marcadas().size > 1 ? 's' : '' }} marcada{{ marcadas().size > 1 ? 's' : '' }} para revisar
+                (Pregunta{{ marcadas().size > 1 ? 's' : '' }} {{ marcadasTexto() }}).
+              </p>
+            }
+
+            <p class="aviso-confirmacion">¿Deseas revisarlas antes de finalizar?</p>
+
             <div class="modal__acciones">
-              <button class="btn btn--secundario" (click)="irARevisarFaltantes()">Ir a revisar</button>
-              <button class="btn btn--peligro" (click)="confirmarEnvio()">Enviar de todas formas</button>
+              <button class="btn btn--secundario" (click)="irARevisarPendientes()">Ir a revisar</button>
+              <button class="btn btn--peligro" (click)="confirmarEnvio()">Entregar de todas formas</button>
             </div>
           </div>
         </div>
@@ -285,6 +320,7 @@ export class EvaluacionRunner implements OnInit {
   indiceActual = signal(0);
   respuestas = signal<Record<number, string>>({});
   marcadas = signal<Set<number>>(new Set());
+  ayudasReveladas = signal<Set<number>>(new Set());
   mostrarAvisoIncompleto = signal(false);
   tiempoRestanteSeg = signal(0);
   puntajeFinal = signal<number | null>(null);
@@ -364,6 +400,13 @@ export class EvaluacionRunner implements OnInit {
     return nums.join(', ');
   }
 
+  marcadasTexto(): string {
+    const indices = this.preguntas
+      .map((p, idx) => (this.marcadas().has(p.id) ? idx + 1 : null))
+      .filter((idx): idx is number => idx !== null);
+    return indices.join(', ');
+  }
+
   empezar() {
     this.empezada.set(true);
     if (this.modo === 'examen') {
@@ -398,6 +441,10 @@ export class EvaluacionRunner implements OnInit {
     });
   }
 
+  solicitarAyuda(preguntaId: number) {
+    this.ayudasReveladas.update((set) => new Set(set).add(preguntaId));
+  }
+
   irA(i: number) {
     this.indiceActual.set(i);
   }
@@ -411,16 +458,23 @@ export class EvaluacionRunner implements OnInit {
   }
 
   intentarEnviar() {
-    if (this.faltantes().length > 0) {
+    if (this.faltantes().length > 0 || this.marcadas().size > 0) {
       this.mostrarAvisoIncompleto.set(true);
     } else {
       this.confirmarEnvio();
     }
   }
 
-  irARevisarFaltantes() {
+  irARevisarPendientes() {
     const primeraFaltante = this.preguntas.findIndex((p) => this.respuestas()[p.id] === undefined);
-    this.indiceActual.set(primeraFaltante);
+    if (primeraFaltante !== -1) {
+      this.indiceActual.set(primeraFaltante);
+    } else {
+      const primeraMarcada = this.preguntas.findIndex((p) => this.marcadas().has(p.id));
+      if (primeraMarcada !== -1) {
+        this.indiceActual.set(primeraMarcada);
+      }
+    }
     this.mostrarAvisoIncompleto.set(false);
   }
 

@@ -417,6 +417,7 @@ d) 4
 
 **Respuesta correcta: a) 2,67.**
 *Retroalimentación:* la media es 4; las desviaciones son (−2,0,2), al cuadrado (4,0,4), suma=8, y varianza=8/3≈2,67.
+**Nota conceptual:** en este nivel escolar se calcula la varianza poblacional, dividiendo la suma de desviaciones cuadráticas entre el número total de observaciones N.
 
 **Pregunta 4 (completar).** La varianza es el promedio de las ______ de las desviaciones respecto a la media, y la desviación estándar es su ______.
 

@@ -182,6 +182,9 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
             tipo = "alternativas"
             opciones_finales = opciones
         else:
+            # Si no hay opciones, la pregunta es de desarrollo_breve aunque la etiqueta
+            # diga "alternativas" (ej. "alternativas de ahorro" en 4° medio)
+            tipo = "desarrollo_breve"
             opciones_finales = None
 
         if opciones_finales:

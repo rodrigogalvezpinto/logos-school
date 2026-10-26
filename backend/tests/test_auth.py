@@ -160,6 +160,7 @@ def test_agregar_alumno_requiere_nivel_existente(client, session):
     )
     assert r.status_code == 201
     assert r.json()["nombre"] == "Sofía"
+    assert r.json()["nombre_nivel"] == "4° básico"
 
 
 def test_agregar_alumno_con_fecha_de_nacimiento_futura_es_rechazado(client, session):
@@ -289,6 +290,7 @@ def test_listar_alumnos_solo_devuelve_los_propios(client, session):
 
     r_a = client.get("/auth/alumnos", headers={"Authorization": f"Bearer {token_a}"})
     assert len(r_a.json()) == 1
+    assert r_a.json()[0]["nombre_nivel"] == "4° básico"
 
 
 def _crear_alumno(client, token, nivel_id=1, rut="1-9"):

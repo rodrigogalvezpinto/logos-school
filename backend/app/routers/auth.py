@@ -105,6 +105,7 @@ class PerfilAlumnoRespuesta(BaseModel):
     nombre: str
     apellidos: str
     nivel_id: int
+    nombre_nivel: str | None = None
 
 
 @router.post("/registro", response_model=TokenRespuesta, status_code=status.HTTP_201_CREATED)
@@ -171,6 +172,7 @@ def agregar_alumno(
     datos: CrearPerfilAlumno,
     cuenta: Cuenta = Depends(get_cuenta_actual),
     uc: AgregarPerfilAlumno = Depends(get_agregar_perfil_alumno_uc),
+    repositorio_contenido: RepositorioContenido = Depends(get_repositorio_contenido),
 ):
     try:
         perfil = uc.ejecutar(
@@ -187,17 +189,32 @@ def agregar_alumno(
         raise HTTPException(status_code=400, detail="Ya existe un alumno registrado con ese RUT")
     except ValueError as e:
         raise HTTPException(status_code=422, detail=str(e))
-    return PerfilAlumnoRespuesta(id=perfil.id, nombre=perfil.nombre, apellidos=perfil.apellidos, nivel_id=perfil.nivel_id)
+    nivel = repositorio_contenido.obtener_nivel(perfil.nivel_id)
+    return PerfilAlumnoRespuesta(
+        id=perfil.id,
+        nombre=perfil.nombre,
+        apellidos=perfil.apellidos,
+        nivel_id=perfil.nivel_id,
+        nombre_nivel=nivel.nombre if nivel else None,
+    )
 
 
 @router.get("/alumnos", response_model=list[PerfilAlumnoRespuesta])
 def listar_mis_alumnos(
     cuenta: Cuenta = Depends(get_cuenta_actual),
     uc: ListarPerfilesAlumno = Depends(get_listar_perfiles_alumno_uc),
+    repositorio_contenido: RepositorioContenido = Depends(get_repositorio_contenido),
 ):
     perfiles = uc.ejecutar(cuenta.id)
+    niveles = {n.id: n.nombre for n in repositorio_contenido.listar_niveles()}
     return [
-        PerfilAlumnoRespuesta(id=p.id, nombre=p.nombre, apellidos=p.apellidos, nivel_id=p.nivel_id)
+        PerfilAlumnoRespuesta(
+            id=p.id,
+            nombre=p.nombre,
+            apellidos=p.apellidos,
+            nivel_id=p.nivel_id,
+            nombre_nivel=niveles.get(p.nivel_id),
+        )
         for p in perfiles
     ]
 

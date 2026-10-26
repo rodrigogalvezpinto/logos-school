@@ -24,6 +24,9 @@ import { SesionService } from '../../core/sesion.service';
               {{ perfil.nombre.charAt(0) }}
             </div>
             <span>{{ perfil.nombre }}</span>
+            @if (perfil.nombre_nivel) {
+              <small>{{ perfil.nombre_nivel }}</small>
+            }
           </button>
         }
         <button class="perfil" (click)="entrarComoApoderado()">

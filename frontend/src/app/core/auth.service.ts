@@ -27,6 +27,7 @@ export interface PerfilAlumnoRespuesta {
   nombre: string;
   apellidos: string;
   nivel_id: number;
+  nombre_nivel?: string;
 }
 
 export interface PlanRespuesta {

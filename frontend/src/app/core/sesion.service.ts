@@ -7,6 +7,7 @@ export interface PerfilAlumnoActivo {
   nombre: string;
   apellidos: string;
   nivel_id: number;
+  nombre_nivel?: string;
 }
 
 const CLAVE_TOKEN = 'logos_token';

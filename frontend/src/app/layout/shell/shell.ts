@@ -16,6 +16,7 @@ import { SesionService } from '../../core/sesion.service';
       <div class="shell__contenido">
         <app-topbar
           [nombre]="nombreMostrado()"
+          [curso]="cursoMostrado()"
           [mostrarBusqueda]="modo === 'alumno'"
           (alternarMenu)="menuAbierto.set(!menuAbierto())"
         />
@@ -79,5 +80,10 @@ export class Shell {
   nombreMostrado = computed(() => {
     if (this.modo === 'alumno') return this.sesion.perfilActivo()?.nombre || '';
     return this.sesion.nombreApoderado() || 'Apoderado';
+  });
+
+  cursoMostrado = computed(() => {
+    if (this.modo === 'alumno') return this.sesion.perfilActivo()?.nombre_nivel || '';
+    return '';
   });
 }
