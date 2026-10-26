@@ -259,6 +259,16 @@ ________________________________________________________________________________
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -293,3 +303,28 @@ ________________________________________________________________________________
 | Ciencias Naturales | 5 | 2, 6, 10, 15, 18 |
 | Historia, Geografía y Cs. Sociales | 5 | 4, 8, 12, 17, 20 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 2 | 1 | 0 |
+| OA 4 | 1, 4 | 2 | 0 |
+| OA 5 | 3, 5 | 2 | 0 |
+| OA 6 | 9 | 1 | 0 |
+| OA 7 | 6 | 1 | 0 |
+| OA 8 | 7 | 1 | 0 |
+| OA 9 | 8, 20 | 1 | 1 |
+| OA 10 | 17 | 0 | 1 |
+| OA 12 | 12 | 1 | 0 |
+| OA 13 | 11 | 1 | 0 |
+| OA 14 | 16 | 1 | 0 |
+| OA 15 | 15 | 0 | 1 |
+| OA 16 | 10, 18 | 1 | 1 |
+| OA 17 | 13, 14 | 0 | 2 |
+| OA 22 | 19 | 1 | 0 |
+| **Total** | **20 preguntas** | **14** | **6** |

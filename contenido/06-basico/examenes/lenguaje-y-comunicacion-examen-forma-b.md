@@ -210,6 +210,16 @@ d) Para que el texto parezca más extenso de lo que es
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -261,3 +271,19 @@ d) Para que el texto parezca más extenso de lo que es
 | Desarrollo breve | 6 | 2, 7, 11, 16, 20, 24 |
 | Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 4 | 1, 2, 3, 4 | 1 | 3 |
+| OA 5 | 5, 6, 7, 8 | 2 | 2 |
+| OA 6 | 9, 10, 11, 12, 13 | 2 | 3 |
+| OA 7 | 14, 15, 16, 17 | 2 | 2 |
+| OA 14 | 18, 19, 20, 21 | 2 | 2 |
+| OA 15 | 22, 23, 24, 25 | 2 | 2 |
+| **Total** | **25 preguntas** | **11** | **14** |

@@ -180,6 +180,16 @@ then ___ the train station."* (get off / arrive at)
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
@@ -228,3 +238,17 @@ formato mixto del Examen Libre real de Inglés.
 **Nota:** Esta Forma B evalúa los mismos 4 OA y las mismas habilidades que la
 banco de contenido, con textos, contextos y preguntas distintas, para permitir una
 segunda instancia de práctica sin memorización de respuestas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 9 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 10 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 13 | 13, 14, 15, 16, 17, 18 | 1 | 5 |
+| OA 16 | 19, 20, 21, 22, 23, 24, 25 | 1 | 6 |
+| **Total** | **25 preguntas** | **6** | **19** |

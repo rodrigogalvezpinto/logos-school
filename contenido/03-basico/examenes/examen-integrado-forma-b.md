@@ -234,6 +234,16 @@ d) El derecho a la nacionalidad
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
@@ -263,3 +273,25 @@ d) El derecho a la nacionalidad
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas de esta **Forma B** son distintas de las de la **Forma A**: ambas formas permiten practicar el examen integrado completo sin repetir las mismas preguntas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 3 | 0 | 1 |
+| OA 3 | 1, 2 | 2 | 0 |
+| OA 4 | 4, 6 | 1 | 1 |
+| OA 5 | 5, 7, 8, 9 | 3 | 1 |
+| OA 6 | 12, 13 | 1 | 1 |
+| OA 7 | 11 | 1 | 0 |
+| OA 8 | 10, 15 | 0 | 2 |
+| OA 10 | 14, 16 | 0 | 2 |
+| OA 12 | 19 | 1 | 0 |
+| OA 14 | 20 | 1 | 0 |
+| OA 15 | 18 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| **Total** | **20 preguntas** | **12** | **8** |

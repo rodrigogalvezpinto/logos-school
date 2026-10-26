@@ -191,6 +191,16 @@ d) Ninguno de los anteriores
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -232,3 +242,23 @@ d) Ninguno de los anteriores
 | **Total** | **25** | **10 OA** |
 
 **Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que el banco de contenido, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite respecto de otro instrumento del mismo curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 1 | 1 |
+| OA 2 | 3, 4 | 1 | 1 |
+| OA 3 | 5, 6 | 1 | 1 |
+| OA 4 | 7, 8, 9 | 1 | 2 |
+| OA 8 | 10, 11, 12 | 1 | 2 |
+| OA 10 | 13, 14, 15 | 2 | 1 |
+| OA 12 | 16, 17, 18 | 1 | 2 |
+| OA 13 | 19, 20 | 1 | 1 |
+| OA 15 | 21, 22, 23 | 1 | 2 |
+| OA 16 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **11** | **14** |

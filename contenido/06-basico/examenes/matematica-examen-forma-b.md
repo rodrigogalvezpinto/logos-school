@@ -196,6 +196,16 @@ d) 140
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -237,3 +247,24 @@ d) 140
 | **Total** | **25** | **11 OA** |
 
 **Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que el banco de contenido. Cada pregunta usa un contexto y una historia distintos de su equivalente en el banco de contenido (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 1 | 1 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 4 | 5, 6, 7 | 2 | 1 |
+| OA 5 | 8, 9 | 1 | 1 |
+| OA 8 | 10, 11 | 1 | 1 |
+| OA 11 | 12, 13 | 1 | 1 |
+| OA 16 | 14, 15 | 1 | 1 |
+| OA 18 | 16, 17, 18 | 1 | 2 |
+| OA 19 | 19, 20 | 1 | 1 |
+| OA 23 | 21, 22 | 1 | 1 |
+| OA 24 | 23, 24, 25 | 1 | 2 |
+| **Total** | **25 preguntas** | **12** | **13** |

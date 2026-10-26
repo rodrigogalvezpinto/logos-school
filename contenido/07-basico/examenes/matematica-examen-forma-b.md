@@ -201,6 +201,16 @@ d) 8/1
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -244,3 +254,22 @@ d) 8/1
 **Tipo de preguntas:** 13 de alternativas (4 opciones) y 12 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución del banco de contenido.
 
 **Relación con el examen de práctica:** esta Forma B cubre los mismos 9 OA y la misma distribución por eje que el banco de contenido, pero con contextos, cifras y enunciados propios en las 25 preguntas (por ejemplo: submarino, cuenta corriente, cine, ruleta y básquetbol), de modo que no repite preguntas de otro instrumento del mismo curso. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /07-basico/matematica.md, sin copiar preguntas reales de Mineduc.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3 | 2 | 1 |
+| OA 3 | 4, 5, 6 | 1 | 2 |
+| OA 4 | 7, 8, 9 | 1 | 2 |
+| OA 6 | 10, 11, 12 | 1 | 2 |
+| OA 8 | 13, 14, 15 | 2 | 1 |
+| OA 11 | 16, 17, 18 | 2 | 1 |
+| OA 14 | 19, 20 | 1 | 1 |
+| OA 16 | 21, 22, 23 | 2 | 1 |
+| OA 18 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **13** | **12** |

@@ -246,6 +246,16 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 **Puntaje:** las preguntas de selección múltiple, verdadero/falso y términos pareados valen 1 punto por respuesta correcta (los ítems de V/F y pareados otorgan 1 punto por cada afirmación/par correctamente resuelto). Las preguntas de desarrollo breve valen 2 puntos; las de desarrollo extenso valen 3 puntos, según el criterio de corrección indicado.
@@ -283,3 +293,15 @@ d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad
 **Distribución por tipo de pregunta:** 15 preguntas cerradas (selección múltiple, verdadero/falso y términos pareados) · 10 preguntas de desarrollo (6 breves, 4 extensas).
 
 > **Tabla de conversión sugerida (referencial):** exigencia de 60% para la nota mínima de aprobación (4,0), en línea con el criterio general de corrección de los Exámenes Libres Mineduc. Ajustar según la escala oficial vigente al momento de rendir el examen real.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| Democracia y sus desafíos | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 8 | 5 |
+| Medios y TIC | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 8 | 4 |
+| **Total** | **25 preguntas** | **16** | **9** |

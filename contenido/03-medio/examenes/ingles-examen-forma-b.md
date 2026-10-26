@@ -197,6 +197,16 @@ relativo**.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
@@ -249,3 +259,16 @@ banco de autoevaluación (`/contenido/03-medio/ingles.md`) que **no** fueron
 usados en el banco de contenido; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
 nuevas, construidas con el mismo vocabulario y las mismas estructuras
 gramaticales del glosario del curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 1 | 7 |
+| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
+| **Total** | **25 preguntas** | **5** | **20** |

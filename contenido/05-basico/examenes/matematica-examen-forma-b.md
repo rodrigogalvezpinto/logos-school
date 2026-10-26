@@ -205,6 +205,16 @@ Muestra tu desarrollo para la parte b).
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -246,3 +256,30 @@ Muestra tu desarrollo para la parte b).
 | **Total** | **25** | **17 OA** |
 
 **Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la misma proporción y estructura curricular que el banco de contenido, con preguntas, contextos y valores numéricos completamente distintos.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 1 | 1 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 4 | 5, 6 | 1 | 1 |
+| OA 6 | 7, 8 | 1 | 1 |
+| OA 7 | 9, 10 | 1 | 1 |
+| OA 10 | 11 | 1 | 0 |
+| OA 11 | 12 | 0 | 1 |
+| OA 13 | 13 | 0 | 1 |
+| OA 14 | 14 | 1 | 0 |
+| OA 15 | 15, 16 | 1 | 1 |
+| OA 17 | 17 | 1 | 0 |
+| OA 18 | 18 | 0 | 1 |
+| OA 19 | 19 | 0 | 1 |
+| OA 22 | 20, 21 | 1 | 1 |
+| OA 23 | 22, 23 | 1 | 1 |
+| OA 24 | 24 | 1 | 0 |
+| OA 26 | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **12** | **13** |

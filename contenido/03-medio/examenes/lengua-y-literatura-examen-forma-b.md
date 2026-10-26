@@ -158,6 +158,16 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -211,3 +221,17 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 ### Correspondencia con el banco de contenido
 
 Todas las preguntas de esta Forma B están construidas a partir de ángulos del banco de preguntas (`lengua-y-literatura.md`) que **no fueron usados** en el banco de contenido (`contenido/03-medio/lengua-y-literatura.md`): ninguna pregunta se repite respecto de otro instrumento del mismo curso, aunque ambas se apoyan en los mismos cuatro textos de referencia de la asignatura.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6 | 2 | 4 |
+| OA 3 | 7, 8, 9, 10, 11, 12 | 2 | 4 |
+| OA 4 | 13, 14, 15, 16, 17, 18 | 2 | 4 |
+| OA 6 | 19, 20, 21, 22, 23, 24, 25 | 1 | 6 |
+| **Total** | **25 preguntas** | **7** | **18** |

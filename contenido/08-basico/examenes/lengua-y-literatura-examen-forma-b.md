@@ -200,6 +200,16 @@ d) Porque los compañeros no entenderían el significado de esas palabras
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -252,3 +262,19 @@ d) Porque los compañeros no entenderían el significado de esas palabras
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
+| OA 4 | 6, 7, 8, 9 | 2 | 2 |
+| OA 8 | 10, 11, 12, 13 | 1 | 3 |
+| OA 9 | 14, 15, 16, 17 | 2 | 2 |
+| OA 10 | 18, 19, 20, 21 | 2 | 2 |
+| OA 16 | 22, 23, 24, 25 | 1 | 3 |
+| **Total** | **25 preguntas** | **10** | **15** |

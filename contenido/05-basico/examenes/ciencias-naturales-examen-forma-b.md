@@ -262,6 +262,16 @@ ayuda a conservar el agua.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -367,3 +377,20 @@ Esta distribución por Eje y OA replica exactamente la del banco de contenido, p
 las 25 preguntas de esta Forma B repite el enunciado, los datos del estímulo (tablas,
 listas, situaciones) ni las opciones de alternativas del banco de contenido** — se usaron
 ejemplos, materiales, escenarios y formulaciones distintos para cada OA.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 3 | 1 |
+| OA 5 | 5, 6, 7, 8 | 2 | 2 |
+| OA 6 | 9, 10, 11 | 2 | 1 |
+| OA 7 | 12, 13, 14, 15 | 3 | 1 |
+| OA 10 | 16, 17, 18, 19 | 3 | 1 |
+| OA 12 | 20, 21, 22 | 2 | 1 |
+| OA 14 | 23, 24, 25 | 2 | 1 |
+| **Total** | **25 preguntas** | **17** | **8** |

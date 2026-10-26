@@ -380,6 +380,16 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
@@ -443,3 +453,26 @@ ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2 | 2 | 0 |
+| OA 2 | 3, 4 | 1 | 1 |
+| OA 3 | 5, 6 | 2 | 0 |
+| OA 5 | 7, 8 | 1 | 1 |
+| OA 7 | 9, 10 | 2 | 0 |
+| OA 8 | 11, 12 | 1 | 1 |
+| OA 9 | 13 | 1 | 0 |
+| OA 11 | 14, 15 | 2 | 0 |
+| OA 12 | 16, 17 | 1 | 1 |
+| OA 15 | 18, 19 | 2 | 0 |
+| OA 16 | 20, 21 | 1 | 1 |
+| OA 17 | 22, 23 | 1 | 1 |
+| OA 18 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **18** | **7** |

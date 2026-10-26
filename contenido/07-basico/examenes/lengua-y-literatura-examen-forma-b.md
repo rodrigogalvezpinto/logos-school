@@ -198,6 +198,16 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -249,3 +259,19 @@ d) Cambiar automáticamente el registro de un texto de formal a informal
 | Desarrollo breve (incluye aplicación) | 8 | 4, 8, 12, 16, 19, 20, 23, 24 |
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 1 | 4 |
+| OA 4 | 6, 7, 8, 9 | 2 | 2 |
+| OA 7 | 10, 11, 12, 13 | 2 | 2 |
+| OA 8 | 14, 15, 16, 17 | 1 | 3 |
+| OA 9 | 18, 19, 20, 21 | 1 | 3 |
+| OA 15 | 22, 23, 24, 25 | 1 | 3 |
+| **Total** | **25 preguntas** | **8** | **17** |

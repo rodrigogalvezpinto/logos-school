@@ -392,6 +392,16 @@ convivencia entre distintos pueblos y culturas.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
@@ -463,3 +473,26 @@ puntaje por eje y OA, pero usa preguntas, estímulos y distractores distintos a 
 A, de modo que ambas formas puedan aplicarse de manera independiente (por ejemplo, a distintos
 estudiantes en una misma sala, o como dos instancias de práctica separadas para un mismo
 estudiante).
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 2 | 0 |
+| OA 3 | 3, 4 | 1 | 1 |
+| OA 6 | 5 | 1 | 0 |
+| OA 7 | 6, 7 | 1 | 1 |
+| OA 9 | 8 | 1 | 0 |
+| OA 12 | 9, 10 | 1 | 1 |
+| OA 13 | 11, 12 | 2 | 0 |
+| OA 16 | 13, 14 | 1 | 1 |
+| OA 18 | 20, 21 | 1 | 1 |
+| OA 19 | 22, 23 | 1 | 1 |
+| OA 20 | 24, 25 | 1 | 1 |
+| OA 21 | 15, 16, 17 | 2 | 1 |
+| OA 22 | 18, 19 | 1 | 1 |
+| **Total** | **25 preguntas** | **16** | **9** |

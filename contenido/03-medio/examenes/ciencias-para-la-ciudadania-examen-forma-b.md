@@ -58,11 +58,11 @@ d) La salud de cada persona está determinada por su carga genética desde el na
 **2.** *(Alternativas)* El estrés académico crónico, a diferencia de un episodio
 puntual de estrés, se asocia principalmente a:
 
-a) Consecuencias inmediatas como el insomnio ocasional, que desaparecen al dejar de consumir
-b) Una mejora del sistema inmune con el paso del tiempo
-c) Ninguna consecuencia medible en la salud física
+a) Consecuencias inmediatas, como el insomnio ocasional, que desaparecen al dejar de consumir
+b) Una mejora progresiva del sistema inmune con el paso del tiempo, por adaptación
+c) Ninguna consecuencia medible en la salud física ni en el estado de ánimo
 d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y
-   trastornos de ansiedad, además de sus efectos inmediatos
+   trastornos de ansiedad
 
 **3.** *(Alternativas)* Según el consenso científico internacional (incluida la OMS),
 el consumo de alimentos transgénicos aprobados para consumo humano:
@@ -107,11 +107,11 @@ d) Lavado frecuente de manos y ventilación de las salas
 
 **8.** *(Alternativas)* Usar mascarilla es una medida de prevención eficaz frente a:
 
-a) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al
-   VIH, que se transmite por vía sanguínea o sexual
-b) Tanto la influenza como el VIH-sida, por igual
-c) El VIH-sida, porque también se transmite por vía respiratoria
-d) Ninguna enfermedad infecciosa
+a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión
+   sanguínea o sexual
+b) Tanto la influenza como el VIH-sida, porque ambos se transmiten por vía respiratoria
+c) El VIH-sida, porque también se transmite por vía respiratoria en espacios cerrados
+d) Ninguna enfermedad infecciosa, porque la mascarilla solo protege del polvo
 
 **9.** *(Alternativas)* La vacuna contra la influenza debe actualizarse y aplicarse
 cada año, a diferencia de la vacuna contra el sarampión, principalmente porque:
@@ -246,18 +246,28 @@ menos dos fortalezas y dos aspectos a mejorar.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
 | 1 | Alternativas | c) Elegir hacer actividad física regularmente puede compensar parcialmente otros factores de riesgo ambientales o sociales | OA 1 (Mód. 1) |
-| 2 | Alternativas | d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad, además de sus efectos inmediatos | OA 1 (Mód. 1) |
+| 2 | Alternativas | d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad | OA 1 (Mód. 1) |
 | 3 | Alternativas | a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
 | 4 | Alternativas | c) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
 | 5 | Desarrollo breve | Es un factor ambiental en cuanto a la presencia del patógeno en el entorno (aire, superficies, contacto con otras personas); es un factor biológico en cuanto a la respuesta del sistema inmune de cada persona ante ese mismo patógeno (por qué unas personas se enferman gravemente y otras no). | OA 1 (Mód. 1) |
 | 6 | Desarrollo extenso | Corto plazo: intoxicación aguda, pérdida de juicio, riesgo de accidentes. Largo plazo: mayor riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años. La decisión personal de consumir no ocurre en el vacío: la presión social del grupo (factor social) interactúa con la vulnerabilidad biológica propia de la adolescencia. | OA 1 (Mód. 1) |
 | 7 | Alternativas | d) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
-| 8 | Alternativas | a) Enfermedades de transmisión respiratoria, como la influenza, pero no frente al VIH, que se transmite por vía sanguínea o sexual | OA 3 (Mód. 1) |
+| 8 | Alternativas | a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión sanguínea o sexual | OA 3 (Mód. 1) |
 | 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica) y la inmunidad de años anteriores no siempre protege de las nuevas variantes | OA 3 (Mód. 1) |
 | 10 | Desarrollo breve | El control del hantavirus se relaciona con el manejo del entorno: evitar la acumulación de basura orgánica que atraiga roedores, mantener despejados los alrededores de las viviendas y considerar que la deforestación o el abandono de terrenos agrícolas puede alterar las poblaciones de ratón colilargo, afectando el riesgo de contagio; la prevención no es solo doméstica, sino también ambiental y territorial. | OA 3 (Mód. 1) |
 | 11 | Desarrollo breve | Se debe priorizar la publicación científica revisada por pares, porque fue evaluada por otros expertos, entrega datos concretos (40%) y sigue un método verificable; la afirmación del influencer no presenta evidencia ni metodología, por lo que no es una fuente confiable para tomar decisiones de salud pública. | OA 3 (Mód. 1) |
@@ -374,3 +384,15 @@ Esta Forma B utiliza ítems distintos del mismo banco de preguntas
 misma estructura (25 preguntas, 13 alternativas / 7 desarrollo breve / 5 desarrollo
 extenso, 42 puntos) y la misma distribución por Módulo y OA, para ser comparable en
 dificultad y cobertura curricular, pero ninguna pregunta se repite respecto de otro instrumento del mismo curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 13, 14, 15, 16, 17, 18 | 7 | 5 |
+| OA 3 | 7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23, 24, 25 | 6 | 7 |
+| **Total** | **25 preguntas** | **13** | **12** |

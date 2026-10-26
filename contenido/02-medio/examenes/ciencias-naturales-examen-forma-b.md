@@ -262,6 +262,16 @@ covalentes.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -371,3 +381,22 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 | Eje 3: Química | OA 17 | 23, 24, 25 | 3 |
 | **Total** | **9 OA** | | **25** |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3 | 2 | 1 |
+| OA 3 | 4, 5, 6 | 2 | 1 |
+| OA 6 | 7, 8, 9 | 2 | 1 |
+| OA 8 | 10, 11 | 1 | 1 |
+| OA 9 | 12, 13, 14 | 2 | 1 |
+| OA 10 | 15, 16, 17 | 2 | 1 |
+| OA 13 | 18, 19 | 1 | 1 |
+| OA 15 | 20, 21, 22 | 2 | 1 |
+| OA 17 | 23, 24, 25 | 2 | 1 |
+| **Total** | **25 preguntas** | **16** | **9** |

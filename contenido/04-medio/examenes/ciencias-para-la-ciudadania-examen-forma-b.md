@@ -256,6 +256,16 @@ económica.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -391,3 +401,15 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 | Módulo 3: Ambiente y Sostenibilidad | OA N°2 — Proyectos locales de protección y uso sostenible de recursos naturales | 1 a 13 | 13 |
 | Módulo 3: Ambiente y Sostenibilidad | OA N°3 — Cambio climático: efectos en los ecosistemas y mitigación | 14 a 25 | 12 |
 | **Total** | **2 OA** | | **25** |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 4 | 9 |
+| OA 3 | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 3 | 9 |
+| **Total** | **25 preguntas** | **7** | **18** |

@@ -257,6 +257,16 @@ aceptar electrones.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -370,3 +380,21 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 | Eje 3: Química | OA 14 | 24, 25 | 2 |
 | **Total** | **8 OA** | | **25** |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2, 3 | 2 | 1 |
+| OA 4 | 4, 5, 6 | 2 | 1 |
+| OA 5 | 7, 8, 9, 10 | 2 | 2 |
+| OA 7 | 11, 12, 13 | 2 | 1 |
+| OA 10 | 14, 15, 16, 17 | 2 | 2 |
+| OA 11 | 18, 19, 20 | 2 | 1 |
+| OA 12 | 21, 22, 23 | 2 | 1 |
+| OA 14 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **15** | **10** |

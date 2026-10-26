@@ -211,6 +211,16 @@ d) Los medios de transporte
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA B
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
@@ -245,3 +255,28 @@ d) Los medios de transporte
 | Historia, Geografía y Cs. Sociales | 5 | 2, 5, 9, 16, 20 |
 | Ciencias Naturales | 5 | 1, 6, 10, 13, 18 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 3 | 1 | 0 |
+| OA 2 | 2 | 1 | 0 |
+| OA 3 | 4, 5 | 2 | 0 |
+| OA 4 | 9 | 1 | 0 |
+| OA 5 | 8 | 0 | 1 |
+| OA 7 | 1, 12, 15 | 2 | 1 |
+| OA 8 | 6, 16 | 2 | 0 |
+| OA 9 | 7, 10 | 0 | 2 |
+| OA 11 | 13 | 0 | 1 |
+| OA 13 | 11 | 1 | 0 |
+| OA 14 | 18 | 1 | 0 |
+| OA 15 | 20 | 1 | 0 |
+| OA 17 | 19 | 1 | 0 |
+| OA 19 | 14 | 1 | 0 |
+| OA 22 | 17 | 0 | 1 |
+| **Total** | **20 preguntas** | **14** | **6** |

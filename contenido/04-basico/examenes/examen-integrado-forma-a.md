@@ -266,6 +266,16 @@ d) Atmósfera
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
@@ -300,3 +310,25 @@ d) Atmósfera
 | Ciencias Naturales | 5 | 3, 7, 11, 15, 20 |
 | Historia, Geografía y Cs. Sociales | 5 | 2, 6, 10, 14, 19 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 3 | 2 | 0 |
+| OA 3 | 5, 7 | 2 | 0 |
+| OA 4 | 2, 4 | 2 | 0 |
+| OA 5 | 8 | 1 | 0 |
+| OA 6 | 9, 11, 12 | 3 | 0 |
+| OA 7 | 13 | 1 | 0 |
+| OA 8 | 6 | 1 | 0 |
+| OA 9 | 10 | 1 | 0 |
+| OA 10 | 14, 15 | 2 | 0 |
+| OA 11 | 19 | 1 | 0 |
+| OA 15 | 20 | 1 | 0 |
+| OA 17 | 16, 17, 18 | 3 | 0 |
+| **Total** | **20 preguntas** | **20** | **0** |

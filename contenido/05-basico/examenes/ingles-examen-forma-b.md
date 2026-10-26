@@ -187,6 +187,16 @@ chair."* (There / They / It)
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
@@ -235,3 +245,18 @@ Libre real de Inglés.
 
 **Nota:** Esta es la **Forma B**, con preguntas propias, aunque cubre los mismos 5 OA
 en la misma proporción, usando el vocabulario del glosario del curso.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 5 | 1, 2, 3, 4, 5 | 2 | 3 |
+| OA 6 | 6, 7, 8, 9, 10 | 2 | 3 |
+| OA 8 | 11, 12, 13, 14, 15 | 2 | 3 |
+| OA 14 | 16, 17, 18, 19, 20 | 2 | 3 |
+| OA 15 | 21, 22, 23, 24, 25 | 2 | 3 |
+| **Total** | **25 preguntas** | **10** | **15** |

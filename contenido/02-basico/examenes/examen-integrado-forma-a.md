@@ -241,6 +241,16 @@ d) Para decorar los pasillos
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
@@ -275,3 +285,26 @@ d) Para decorar los pasillos
 | Historia, Geografía y Cs. Sociales | 5 | 3, 8, 11, 15, 20 |
 | Ciencias Naturales | 5 | 4, 7, 12, 16, 19 |
 | **Total** | **20** | |
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 3, 8 | 3 | 0 |
+| OA 2 | 2 | 1 | 0 |
+| OA 3 | 4 | 1 | 0 |
+| OA 5 | 6, 7, 10 | 2 | 1 |
+| OA 7 | 11, 13 | 2 | 0 |
+| OA 8 | 15 | 1 | 0 |
+| OA 9 | 5, 12 | 2 | 0 |
+| OA 11 | 16 | 1 | 0 |
+| OA 12 | 9, 19 | 2 | 0 |
+| OA 14 | 20 | 1 | 0 |
+| OA 15 | 14 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| OA 22 | 18 | 1 | 0 |
+| **Total** | **20 preguntas** | **19** | **1** |

@@ -195,6 +195,16 @@ d) no es posible calcular porcentajes a partir de una encuesta
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -235,3 +245,17 @@ d) no es posible calcular porcentajes a partir de una encuesta
 | **Total** | **25** | **3 OA** |
 
 **Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática, igual que en el banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /04-medio/matematica.md, con escenarios, cifras y enunciados distintos a los usados en el banco de contenido, sin copiar preguntas reales de Mineduc.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
+| OA 2 | 17, 18, 19, 20, 21, 22, 23, 24 | 4 | 4 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 4 | 4 |
+| Norte) + P(Sur)×P(retraso\ | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **12** | **13** |

@@ -260,6 +260,16 @@ d) La Declaración de Independencia
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN — FORMA A
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
@@ -289,3 +299,27 @@ d) La Declaración de Independencia
 
 - **Total de preguntas:** 20 (5 de Lenguaje y Comunicación, 5 de Matemática, 5 de Ciencias Naturales, 5 de Historia, Geografía y Cs. Sociales), mezcladas en un solo orden, tal como en el examen real.
 - Las preguntas fueron seleccionadas y adaptadas de las pruebas de práctica por asignatura de 3° básico. Esta es la **Forma A** del examen integrado; existe una **Forma B** con preguntas distintas, para practicar el examen dos veces sin repetir contenido.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1, 2 | 2 | 0 |
+| OA 3 | 3, 8 | 2 | 0 |
+| OA 4 | 4, 5, 7 | 3 | 0 |
+| OA 5 | 9 | 0 | 1 |
+| OA 6 | 6, 11, 13 | 2 | 1 |
+| OA 7 | 12 | 1 | 0 |
+| OA 8 | 16 | 1 | 0 |
+| OA 9 | 10 | 0 | 1 |
+| OA 10 | 15 | 1 | 0 |
+| OA 11 | 19 | 0 | 1 |
+| OA 12 | 14 | 0 | 1 |
+| OA 14 | 20 | 1 | 0 |
+| OA 17 | 17 | 1 | 0 |
+| OA 22 | 18 | 1 | 0 |
+| **Total** | **20 preguntas** | **15** | **5** |

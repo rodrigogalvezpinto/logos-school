@@ -212,6 +212,16 @@ relativo o tercer condicional).
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA |
@@ -256,3 +266,16 @@ preguntas 1, 7, 10, 15, 17 y 23) y 19 de respuesta abierta breve (completar,
 verdadero/falso, responder en inglés, completar organizador gráfico,
 emparejar y producción breve), en línea con el formato mixto del Examen
 Libre real de Inglés y con el banco de contenido de esta misma prueba.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
+| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 2 | 6 |
+| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
+| **Total** | **25 preguntas** | **6** | **19** |

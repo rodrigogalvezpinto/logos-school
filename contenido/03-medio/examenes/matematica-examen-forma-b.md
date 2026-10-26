@@ -197,6 +197,16 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Clave / Respuesta esperada | OA | Eje |
@@ -237,3 +247,18 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 | **Total** | **25** | **3 OA** |
 
 **Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite enunciados, datos numéricos ni contextos de otro instrumento del mismo curso; todas evalúan los mismos 3 OA con situaciones distintas.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 18, 19, 20, 21, 22, 24 | 3 | 3 |
+| OA 3 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
+| OA 4 | 9, 10, 11, 12, 13, 14, 15, 16, 17 | 4 | 5 |
+| 1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈ 35,7%** | 23 | 0 | 1 |
+| lluvia) + P(no lluvia)×P(tarde\ | 25 | 0 | 1 |
+| **Total** | **25 preguntas** | **11** | **14** |

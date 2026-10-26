@@ -421,6 +421,16 @@ tipo de riesgos.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
@@ -486,3 +496,28 @@ tipo de riesgos.
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 2 | 1 | 1 | 0 |
+| OA 4 | 2 | 1 | 0 |
+| OA 6 | 24, 25 | 1 | 1 |
+| OA 7 | 3 | 1 | 0 |
+| OA 8 | 4, 5 | 1 | 1 |
+| OA 10 | 6, 7 | 1 | 1 |
+| OA 11 | 8 | 1 | 0 |
+| OA 12 | 18, 19 | 1 | 1 |
+| OA 15 | 9, 10 | 1 | 1 |
+| OA 16 | 11, 12 | 1 | 1 |
+| OA 17 | 13, 14 | 1 | 1 |
+| OA 19 | 15 | 1 | 0 |
+| OA 20 | 16, 17 | 1 | 1 |
+| OA 22 | 20, 21 | 1 | 1 |
+| OA 25 | 22, 23 | 1 | 1 |
+| **Total** | **25 preguntas** | **15** | **10** |

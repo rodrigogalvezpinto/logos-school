@@ -235,6 +235,16 @@ Chile, como la minería o el tratamiento de aguas.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -347,3 +357,20 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 | Eje 3: Química | OA 14 | 22, 23, 24, 25 | 4 |
 | **Total** | **7 OA** | | **25** |
 </content>
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 3 | 1 |
+| OA 2 | 5, 6, 7, 8 | 2 | 2 |
+| OA 5 | 9, 10, 11 | 2 | 1 |
+| OA 7 | 12, 13, 14, 15 | 2 | 2 |
+| OA 9 | 16, 17, 18 | 2 | 1 |
+| OA 13 | 19, 20, 21 | 2 | 1 |
+| OA 14 | 22, 23, 24, 25 | 2 | 2 |
+| **Total** | **25 preguntas** | **15** | **10** |

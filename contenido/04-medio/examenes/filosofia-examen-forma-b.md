@@ -188,6 +188,16 @@ d) Exclusivamente de gustos personales sobre la tecnología usada por los tribun
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 # PAUTA DE CORRECCIÓN
 
 ## Tabla de claves — preguntas de selección múltiple
@@ -245,3 +255,17 @@ d) Exclusivamente de gustos personales sobre la tecnología usada por los tribun
 | **Total** | **51 pts** |
 
 > Como referencia interna de práctica (no corresponde a la escala oficial de logro del Mineduc, que usa niveles de desempeño y no nota): 60% de exigencia equivale a 31/51 puntos para el logro mínimo satisfactorio.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6 | 4 | 2 |
+| OA 2 | 7, 8, 9, 10, 11, 12, 13 | 5 | 2 |
+| OA 4 | 14, 15, 16, 17, 18, 19, 23 | 4 | 3 |
+| OA 5 | 20, 21, 22, 24, 25 | 3 | 2 |
+| **Total** | **25 preguntas** | **16** | **9** |

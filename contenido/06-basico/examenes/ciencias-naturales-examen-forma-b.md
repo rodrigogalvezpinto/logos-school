@@ -255,6 +255,16 @@ podrían ayudar a reducir esa erosión.
 
 ---
 
+# HOJA DE RESPUESTAS
+
+Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+---
+
 ## PAUTA DE CORRECCIÓN
 
 | N° | Tipo | Clave / respuesta esperada | OA |
@@ -370,3 +380,22 @@ Esta Forma B evalúa los mismos 9 OA y mantiene la misma distribución de pregun
 eje que el banco de contenido (3-3-3-3 / 3-3-3 / 2-2), pero todas sus 25 preguntas usan
 situaciones, ejemplos y enunciados distintos a los del banco de contenido, de modo que ambas
 formas puedan aplicarse a grupos distintos sin riesgo de copia entre estudiantes.
+
+---
+
+# TABLA DE ESPECIFICACIONES
+
+Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
+|---|---|---|---|
+| OA 1 | 1, 2, 3 | 2 | 1 |
+| OA 2 | 4, 5, 6 | 2 | 1 |
+| OA 5 | 7, 8, 9 | 2 | 1 |
+| OA 6 | 10, 11, 12 | 2 | 1 |
+| OA 8 | 13, 14, 15 | 2 | 1 |
+| OA 11 | 16, 17, 18 | 2 | 1 |
+| OA 13 | 19, 20, 21 | 2 | 1 |
+| OA 16 | 22, 23 | 1 | 1 |
+| OA 18 | 24, 25 | 1 | 1 |
+| **Total** | **25 preguntas** | **16** | **9** |
