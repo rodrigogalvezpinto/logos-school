@@ -3,13 +3,13 @@ asignatura: Lengua y Literatura
 curso: 3° medio
 tipo: Examen de práctica (Forma B)
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
-relacionado_con: contenido/03-medio/pruebas/lengua-y-literatura-prueba.md (Forma A)
+relacionado_con: contenido/03-medio/lengua-y-literatura.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
 # Examen de práctica — Lengua y Literatura — 3° medio — Forma B
 
-*Segunda versión del examen de práctica de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con preguntas **distintas** a las de la Forma A (`pruebas/lengua-y-literatura-prueba.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en los mismos cuatro textos de referencia de la asignatura (un texto narrativo, un reportaje periodístico, un hilo de red social y una sección de producción escrita), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Segunda versión del examen de práctica de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con preguntas **propias** (`contenido/03-medio/lengua-y-literatura.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en los mismos cuatro textos de referencia de la asignatura (un texto narrativo, un reportaje periodístico, un hilo de red social y una sección de producción escrita), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -208,6 +208,6 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 | Desarrollo extenso | 4 | 6, 12, 18, 25 |
 | **Total** | **25** | |
 
-### Correspondencia con la Forma A
+### Correspondencia con el banco de contenido
 
-Todas las preguntas de esta Forma B están construidas a partir de ángulos del banco de preguntas (`lengua-y-literatura.md`) que **no fueron usados** en la Forma A (`pruebas/lengua-y-literatura-prueba.md`): ninguna pregunta se repite entre ambas formas, aunque ambas se apoyan en los mismos cuatro textos de referencia de la asignatura.
+Todas las preguntas de esta Forma B están construidas a partir de ángulos del banco de preguntas (`lengua-y-literatura.md`) que **no fueron usados** en el banco de contenido (`contenido/03-medio/lengua-y-literatura.md`): ninguna pregunta se repite respecto de otro instrumento del mismo curso, aunque ambas se apoyan en los mismos cuatro textos de referencia de la asignatura.

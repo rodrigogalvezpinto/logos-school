@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 07-basico/historia-geografia-y-cs-sociales.md (13 OA, Decreto 614/2013)
-relacionado_con: 07-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A)
+relacionado_con: contenido/07-basico/historia-geografia-y-cs-sociales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -33,7 +33,7 @@ relacionado_con: 07-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (F
 7. Al finalizar, revisa que hayas respondido todas las preguntas.
 
 Esta es la **Forma B** de esta prueba de práctica: un segundo set de 25 preguntas, distintas de
-las de la Forma A, pero que cubre los mismos 13 Objetivos de Aprendizaje (OA) oficiales del
+las del banco de contenido, pero que cubre los mismos 13 Objetivos de Aprendizaje (OA) oficiales del
 Decreto 614/2013 para 7° básico, con una distribución equivalente entre los tres ejes
 (Historia, Geografía y Formación Ciudadana). Es un **material de práctica 100% original**, que
 no reproduce preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y
@@ -458,7 +458,7 @@ otros criterios de conversión.)*
 
 ### Nota sobre esta Forma B
 
-Esta Forma B cubre los mismos 13 OA que la Forma A, con la misma distribución de preguntas y
+Esta Forma B cubre los mismos 13 OA que el banco de contenido, con la misma distribución de preguntas y
 puntaje por eje y OA, pero usa preguntas, estímulos y distractores distintos a los de la Forma
 A, de modo que ambas formas puedan aplicarse de manera independiente (por ejemplo, a distintos
 estudiantes en una misma sala, o como dos instancias de práctica separadas para un mismo

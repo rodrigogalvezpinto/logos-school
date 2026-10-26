@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 5° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/05-basico/ingles.md (5 OA)
-relacionado: Forma A en /contenido/05-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/05-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -233,6 +233,5 @@ y 15 de respuesta abierta breve (completar, verdadero/falso, responder en
 inglés y escribir según modelo), en línea con el formato mixto del Examen
 Libre real de Inglés.
 
-**Nota:** Esta es la **Forma B**, con preguntas distintas a las de la Forma A
-(/contenido/05-basico/pruebas/ingles-prueba.md), aunque cubre los mismos 5 OA
+**Nota:** Esta es la **Forma B**, con preguntas propias, aunque cubre los mismos 5 OA
 en la misma proporción, usando el vocabulario del glosario del curso.

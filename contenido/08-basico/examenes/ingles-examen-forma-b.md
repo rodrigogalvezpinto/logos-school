@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 8° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/08-basico/ingles.md (4 OA)
-relacionado: Forma A en /contenido/08-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/08-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -32,7 +32,7 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
    incorrectas: si no estás seguro/a, responde de todas formas.
 5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 6. Esta es la **Forma B** de la prueba: cubre los mismos Objetivos de Aprendizaje
-   que la Forma A, pero con preguntas y textos distintos.
+   que el banco de contenido, pero con preguntas y textos distintos.
 
 ---
 
@@ -226,5 +226,5 @@ inglés, completar tabla, emparejar y escribir según modelo), en línea con el
 formato mixto del Examen Libre real de Inglés.
 
 **Nota:** Esta Forma B evalúa los mismos 4 OA y las mismas habilidades que la
-Forma A, con textos, contextos y preguntas distintas, para permitir una
+banco de contenido, con textos, contextos y preguntas distintas, para permitir una
 segunda instancia de práctica sin memorización de respuestas.

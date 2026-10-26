@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /07-basico/matematica.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A (/07-basico/pruebas/matematica-prueba.md)
+relación con otras formas: segunda versión (Forma B), con preguntas propias
 última actualización: 2026-08-10
 ---
 
@@ -241,6 +241,6 @@ d) 8/1
 | Datos y Probabilidades | 5 | OA 16, 18 |
 | **Total** | **25** | **9 OA** |
 
-**Tipo de preguntas:** 13 de alternativas (4 opciones) y 12 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de la Forma A.
+**Tipo de preguntas:** 13 de alternativas (4 opciones) y 12 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución del banco de contenido.
 
-**Relación con la Forma A:** esta Forma B cubre los mismos 9 OA y la misma distribución por eje que la Forma A (/07-basico/pruebas/matematica-prueba.md), pero con contextos, cifras y enunciados distintos en las 25 preguntas (por ejemplo: submarino en vez de buzo, cuenta corriente en vez de deuda de empresa, cine en vez de arroz, ruleta en vez de bolsa de fichas, básquetbol en vez de tenis), de modo que ningún estudiante recibe la misma pregunta en ambas formas. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /07-basico/matematica.md, sin copiar preguntas reales de Mineduc.
+**Relación con el examen de práctica:** esta Forma B cubre los mismos 9 OA y la misma distribución por eje que el banco de contenido, pero con contextos, cifras y enunciados propios en las 25 preguntas (por ejemplo: submarino, cuenta corriente, cine, ruleta y básquetbol), de modo que no repite preguntas de otro instrumento del mismo curso. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /07-basico/matematica.md, sin copiar preguntas reales de Mineduc.

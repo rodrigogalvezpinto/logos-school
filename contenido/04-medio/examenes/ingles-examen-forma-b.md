@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/04-medio/ingles.md (3 OA)
-relación_con: Forma A (/contenido/04-medio/pruebas/ingles-prueba.md) — misma estructura, preguntas distintas
+relación_con: examen de práctica del mismo curso — misma estructura, preguntas distintas
 última actualización: 2026-08-11
 ---
 
@@ -255,4 +255,4 @@ relativo o tercer condicional).
 preguntas 1, 7, 10, 15, 17 y 23) y 19 de respuesta abierta breve (completar,
 verdadero/falso, responder en inglés, completar organizador gráfico,
 emparejar y producción breve), en línea con el formato mixto del Examen
-Libre real de Inglés y con la Forma A de esta misma prueba.
+Libre real de Inglés y con el banco de contenido de esta misma prueba.

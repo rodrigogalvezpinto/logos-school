@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/UCE) — basado en el banco de preguntas de /03-medio/matematica.md
-relación con otras formas: segunda versión del examen (Forma B), con preguntas distintas a la Forma A (/03-medio/pruebas/matematica-prueba.md), misma estructura y nivel de exigencia
+relación con otras formas: segunda versión del examen (Forma B), con preguntas propias, misma estructura y nivel de exigencia
 última actualización: 2026-08-11
 ---
 
@@ -236,4 +236,4 @@ Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
 | Probabilidad y Estadística | 8 | OA 2 |
 | **Total** | **25** | **3 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción de la Forma A y del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite el enunciado, los datos numéricos ni el contexto de la Forma A (/03-medio/pruebas/matematica-prueba.md); ambas formas evalúan los mismos 3 OA con situaciones distintas.
+**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite enunciados, datos numéricos ni contextos de otro instrumento del mismo curso; todas evalúan los mismos 3 OA con situaciones distintas.

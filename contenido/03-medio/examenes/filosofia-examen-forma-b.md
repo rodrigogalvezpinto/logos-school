@@ -5,7 +5,7 @@ tipo: Examen de práctica (formato Examen Libre Mineduc) — Forma B
 duración: 90 minutos
 n_preguntas: 25
 oa_evaluados: OA N°1, OA N°3, OA N°4, OA N°6
-basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Segunda forma (Forma B), distinta de /contenido/03-medio/pruebas/filosofia-prueba.md (Forma A)
+basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Segunda forma (Forma B), distinta de contenido/03-medio/filosofia.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -30,7 +30,7 @@ basado_en: Banco de autoevaluación de /contenido/03-medio/filosofia.md — preg
 3. En las preguntas de desarrollo, fundamenta tu respuesta con argumentos: una afirmación sin razones no obtiene puntaje completo, aunque la conclusión sea razonable.
 4. Algunas preguntas se organizan en torno a un **texto o situación de estímulo**: léelo antes de responder las preguntas asociadas.
 5. Dispones de 90 minutos. No se permite el uso de materiales de apoyo.
-6. No está permitido copiar preguntas ni respuestas de otros exámenes; este instrumento es de práctica y sus contenidos son originales. Esta es la **Forma B**: un segundo instrumento equivalente en formato pero con preguntas distintas a la Forma A.
+6. No está permitido copiar preguntas ni respuestas de otros exámenes; este instrumento es de práctica y sus contenidos son originales. Esta es la **Forma B**: un segundo instrumento equivalente en formato pero con preguntas propias.
 
 ---
 

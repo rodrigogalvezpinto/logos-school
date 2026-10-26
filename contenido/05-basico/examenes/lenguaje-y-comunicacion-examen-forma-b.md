@@ -6,8 +6,8 @@ tipo: Examen de práctica (formato Examen Libre de Validación de Estudios, Mine
 duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: lápiz, goma, hoja de respuesta
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — mismos OA que /05-basico/lenguaje-y-comunicacion.md y que la Forma A (/05-basico/pruebas/lenguaje-y-comunicacion-prueba.md)
-observación: Forma B — versión alternativa a la Forma A, que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con la Forma A ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
+fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — mismos OA que /05-basico/lenguaje-y-comunicacion.md
+observación: Forma B — versión alternativa del examen de práctica, que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con el banco de contenido ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
 última actualización: 2026-08-11
 ---
 
@@ -15,7 +15,7 @@ observación: Forma B — versión alternativa a la Forma A, que evalúa los mis
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-*Esta es la **Forma B** del examen de ensayo de la asignatura. Evalúa los mismos Objetivos de Aprendizaje que la Forma A y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Esta es la **Forma B** del examen de ensayo de la asignatura. Evalúa los mismos Objetivos de Aprendizaje que el banco de contenido y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 

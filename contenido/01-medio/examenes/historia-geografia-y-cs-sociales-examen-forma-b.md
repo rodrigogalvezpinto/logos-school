@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 01-medio/historia-geografia-y-cs-sociales.md (13 OA, Decreto 614/2013)
-relacionado: Forma A — 01-medio/pruebas/historia-geografia-y-cs-sociales-prueba.md
+relacionado: contenido/01-medio/historia-geografia-y-cs-sociales.md
 última actualización: 2026-08-10
 ---
 
@@ -40,7 +40,7 @@ Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013 para 1° medio. No 
 preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas
 abiertas, uso de estímulos como fuentes históricas y descripciones de mapas adaptadas, y Pauta
 de Corrección final) busca acercarte a la experiencia del examen real. Esta es la **Forma B**:
-una segunda versión de la prueba, con preguntas distintas a las de la Forma A, pensada para que
+una segunda versión de la prueba, con preguntas propias, pensada para que
 puedas practicar más de una vez sin memorizar respuestas.
 
 ---

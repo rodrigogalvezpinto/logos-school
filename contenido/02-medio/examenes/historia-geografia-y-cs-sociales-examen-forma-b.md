@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 02-medio/historia-geografia-y-cs-sociales.md (15 OA, Decreto 614/2013)
-relacionado_con: pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A) — mismas 15 OA, preguntas distintas
+relacionado_con: contenido/02-medio/historia-geografia-y-cs-sociales.md (banco de contenido) — mismas 15 OA, preguntas distintas
 última actualización: 2026-08-10
 ---
 
@@ -42,7 +42,7 @@ relacionado_con: pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A) �
 
 Esta es la **Forma B** de este examen de práctica: una segunda versión, **100% original**,
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013
-que la Forma A, pero con preguntas distintas, para que puedas practicar más de una vez sin
+que el banco de contenido, pero con preguntas distintas, para que puedas practicar más de una vez sin
 memorizar respuestas. No reproduce preguntas reales del Examen Libre de Mineduc; su formato
 (mezcla de alternativas y preguntas abiertas, uso de estímulos como fuentes históricas y
 descripciones de mapas adaptadas, y Pauta de Corrección final) busca acercarte a la experiencia

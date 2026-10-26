@@ -7,7 +7,7 @@ n° de preguntas: 25
 duración: 90 minutos
 materiales permitidos: lápiz, goma, hoja de respuesta
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /08-basico/lengua-y-literatura.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A, misma cobertura de Objetivos de Aprendizaje
+relación con otras formas: segunda versión (Forma B), con preguntas propias, misma cobertura de Objetivos de Aprendizaje
 última actualización: 2026-08-10
 ---
 
@@ -15,7 +15,7 @@ relación con otras formas: segunda versión (Forma B), con preguntas distintas 
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-*Segunda versión (Forma B) del examen de práctica de la asignatura, construida a partir del mismo banco de preguntas de estudio (`lengua-y-literatura.md`) que la Forma A, pero con textos y preguntas distintos. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con tabla) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas y todos los textos son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Segunda versión (Forma B) del examen de práctica de la asignatura, construida a partir del mismo banco de preguntas de estudio (`lengua-y-literatura.md`) que el banco de contenido, pero con textos y preguntas distintos. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con tabla) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas y todos los textos son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 **Instrucciones para el estudiante:**
 

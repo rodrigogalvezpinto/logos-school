@@ -5,7 +5,7 @@ tipo: Examen tipo simulacro — Forma B (formato Examen Libre Mineduc)
 duración: 90 minutos
 n_preguntas: 25
 oa_evaluados: OA N°1, OA N°2, OA N°4, OA N°5
-basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Forma B: preguntas distintas a la Forma A (/contenido/04-medio/pruebas/filosofia-prueba.md), mismo formato y ponderación.
+basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preguntas 100% originales, no corresponden a instrumentos reales del Mineduc. Forma B: preguntas propias, mismo formato y ponderación.
 última actualización: 2026-08-11
 ---
 

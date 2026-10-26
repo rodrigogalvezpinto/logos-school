@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — basado en el banco de preguntas de /06-basico/matematica.md
-relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y estructura de pregunta genuinamente distintos, no clones numéricos) de /06-basico/pruebas/matematica-prueba.md (Forma A)
+relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y estructura de pregunta genuinamente distintos, no clones numéricos) de /contenido/06-basico/matematica.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -236,4 +236,4 @@ d) 140
 | Medición y Datos y Probabilidades | 10 | OA 18, 19, 23, 24 |
 | **Total** | **25** | **11 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que la Forma A. Cada pregunta usa un contexto y una historia distintos de su equivalente en la Forma A (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que el banco de contenido. Cada pregunta usa un contexto y una historia distintos de su equivalente en el banco de contenido (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.

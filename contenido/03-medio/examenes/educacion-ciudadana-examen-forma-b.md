@@ -3,7 +3,7 @@ asignatura: Educación Ciudadana
 curso: 3° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc (Forma B)
 basado_en: contenido/03-medio/educacion-ciudadana.md (6 OA, Decreto 193/2019)
-forma_relacionada: contenido/03-medio/pruebas/educacion-ciudadana-prueba.md (Forma A) — preguntas distintas
+forma_relacionada: contenido/03-medio/educacion-ciudadana.md (banco de contenido) — preguntas distintas
 preguntas: 25
 duración: 90 minutos
 última actualización: 2026-08-11
@@ -23,7 +23,7 @@ duración: 90 minutos
 >    léelo con atención antes de responder las preguntas asociadas a él.
 > 3. No se descuentan puntos por respuestas incorrectas en las preguntas de selección múltiple:
 >    contesta todas, aunque no estés seguro/a.
-> 4. Esta prueba es un **ejercicio de práctica** (Forma B, con preguntas distintas a la Forma A),
+> 4. Esta prueba es un **ejercicio de práctica** (Forma B, con preguntas propias),
 >    elaborado a partir del material de estudio de la asignatura. No reproduce preguntas
 >    oficiales del Ministerio de Educación; su función es ayudarte a prepararte para el examen
 >    real, que evalúa los mismos Objetivos de Aprendizaje.
@@ -124,8 +124,8 @@ d) El Ministerio Público
 **9.** (Selección múltiple — 4 puntos) La existencia de mecanismos gratuitos de acceso a la
 justicia, como la CAJ o la Defensoría Penal Pública, es relevante principalmente porque:
 
-a) Garantizan que solo las personas con recursos accedan a tribunales
-b) Solo se aplican a causas penales
+a) Garantizan el acceso a tribunales a quienes pueden pagar un abogado particular
+b) Se aplican a las causas penales y también a las de familia
 c) Reemplazan por completo la necesidad de tribunales
 d) Permiten que el acceso a la justicia no dependa de la capacidad de pago
 
@@ -317,6 +317,71 @@ Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
 | 24 | Selección múltiple | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
 | 25 | Selección múltiple | **a)** El censo | OA 7 |
 
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 2 (6 puntos)
+
+- Explica que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres — **2 puntos**
+- Señala que un gobierno que solo afirma representar al pueblo, sin elecciones ni oposición, no cumple ese requisito — **2 puntos**
+- Distingue la representación declarada del ejercicio efectivo del poder, incluyendo el pluralismo y la oposición real — **2 puntos**
+
+### Pregunta 5 (8 puntos)
+
+- Elige dos atributos distintos y correctos de la democracia — **2 puntos**
+- Ejemplifica cada atributo con un ejemplo propio y coherente, no reutilizado de la prueba — **2 puntos**
+- Explica por qué ambos atributos deben cumplirse simultáneamente — **2 puntos**
+- Concluye que un solo atributo no basta para una democracia real y no solo nominal — **2 puntos**
+
+### Pregunta 7 (6 puntos)
+
+- Identifica que la pensión de alimentos es una materia de familia, no penal — **2 puntos**
+- Asigna la causa a la Corporación de Asistencia Judicial (CAJ) — **2 puntos**
+- Explica que la Defensoría Penal Pública solo entrega defensa en causas penales — **2 puntos**
+
+### Pregunta 11 (8 puntos)
+
+- Reconoce que no existe una única respuesta técnica correcta y que se trata de un debate político legítimo — **2 puntos**
+- Presenta el argumento de mercado: los sueldos reflejan productividad y oferta y demanda de trabajo — **2 puntos**
+- Presenta el argumento del mínimo garantizado: el Estado asegura condiciones de vida digna — **2 puntos**
+- Trata ambas posturas como legítimas, sin declarar una como la correcta — **2 puntos**
+
+### Pregunta 13 (6 puntos)
+
+- Define desarrollo sustentable como equilibrio entre lo económico, lo ambiental y el bienestar de las generaciones futuras — **2 puntos**
+- Relaciona la exigencia de tecnologías limpias con la protección ambiental — **2 puntos**
+- Reconoce la tensión con la rentabilidad sin oponer crecimiento económico y sustentabilidad — **2 puntos**
+
+### Pregunta 15 (6 puntos)
+
+- Explica el principio de indivisibilidad de los derechos humanos — **2 puntos**
+- Señala que los derechos civiles y políticos y los económicos y sociales tienen la misma jerarquía — **2 puntos**
+- Concluye que respetar unos sin garantizar los otros deja incompleto su cumplimiento — **2 puntos**
+
+### Pregunta 19 (8 puntos)
+
+- Asocia la postura de Valentina con el comunitarismo — **2 puntos**
+- Asocia la postura de Tomás con el republicanismo — **2 puntos**
+- Justifica cada relación con al menos un argumento coherente, no solo con el nombre de la corriente — **2 puntos**
+- Usa correctamente el rasgo distintivo de cada corriente: identidad compartida en el comunitarismo y deber cívico en el republicanismo — **2 puntos**
+
+### Pregunta 21 (6 puntos)
+
+- Señala que ambas perspectivas valoran lo colectivo por sobre una visión puramente individualista — **2 puntos**
+- Diferencia el republicanismo por su énfasis en la participación cívica activa como deber — **2 puntos**
+- Diferencia el comunitarismo por su énfasis en lazos, tradiciones e identidades compartidas — **2 puntos**
+
+### Pregunta 23 (6 puntos)
+
+- Identifica quién accede al borde costero: quienes pueden pagar por proyectos inmobiliarios privados — **2 puntos**
+- Identifica quién queda excluido: el acceso público general — **2 puntos**
+- Explica que las decisiones de uso de suelo no son neutras, porque definen quién accede a qué recursos — **2 puntos**
+
+---
+
 ### Escala de referencia sugerida
 
 | Puntaje obtenido | Nivel de logro |
@@ -328,5 +393,5 @@ Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
 ---
 
 *Prueba de práctica (Forma B) elaborada por Logos a partir del banco de preguntas de Educación
-Ciudadana de 3° Medio (`educacion-ciudadana.md`). Contiene preguntas distintas a la Forma A. No
+Ciudadana de 3° Medio (`educacion-ciudadana.md`). Contiene preguntas propias. No
 reproduce preguntas oficiales del Ministerio de Educación de Chile.*

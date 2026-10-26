@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 06-basico/historia-geografia-y-cs-sociales.md (13 OA, Decreto 439/2012)
-relacionado: 06-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A — misma asignatura, preguntas distintas)
+relacionado: contenido/06-basico/historia-geografia-y-cs-sociales.md (misma asignatura, preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -35,7 +35,7 @@ relacionado: 06-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma
 Esta prueba es un **material de práctica 100% original**, elaborado a partir de los
 Objetivos de Aprendizaje (OA) oficiales del Decreto 439/2012 para 6° básico. No reproduce
 preguntas reales del Examen Libre de Mineduc. Corresponde a la **Forma B**: una segunda
-versión con preguntas distintas a la Forma A, pensada para practicar dos veces sin memorizar
+versión con preguntas propias, pensada para practicar dos veces sin memorizar
 respuestas de un solo set de preguntas.
 
 ---

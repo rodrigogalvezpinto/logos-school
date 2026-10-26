@@ -5,7 +5,7 @@ tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/ciencias-para-la-ciudadania.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/pruebas/ciencias-para-la-ciudadania-prueba.md (Forma A)
+forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/ciencias-para-la-ciudadania.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -40,7 +40,7 @@ puntos por pregunta de desarrollo breve; 3 puntos por pregunta de desarrollo ext
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto de Bases
    Curriculares N°193 de 2019 (Plan Común). Ninguna pregunta reproduce preguntas
    reales de un examen oficial de Mineduc. Esta es la **Forma B** del examen, con
-   preguntas distintas a la Forma A, pensada para poder practicar dos veces sin
+   preguntas propias, pensada para poder practicar dos veces sin
    memorizar respuestas.
 
 ---
@@ -285,6 +285,91 @@ económica.
 | 23 | Desarrollo breve | Debe señalar que los bosques actúan como sumideros de carbono, capturando y almacenando CO₂ mediante fotosíntesis; al eliminarlos se pierde esa capacidad de captura y, además, gran parte del carbono almacenado en la biomasa puede liberarse a la atmósfera (por ejemplo, si se queman los árboles talados), por lo que la deforestación contribuye directamente al aumento de gases de efecto invernadero. | OA 3 |
 | 24 | Desarrollo extenso | El adelanto de las temperaturas primaverales (efecto físico del cambio climático) puede estar induciendo estos cambios de comportamiento (efecto biológico); el riesgo es un desacople temporal entre especies interdependientes: si la planta o el insecto del que un ave se alimenta no adelanta su ciclo al mismo ritmo, el ave podría llegar a un momento en que no hay suficiente alimento disponible, afectando su reproducción y supervivencia. | OA 3 |
 | 25 | Desarrollo extenso | Respuesta abierta; por ejemplo, ventaja: reduce las emisiones directas de gases de efecto invernadero y de contaminantes locales asociadas al transporte a combustión, mejorando también la calidad del aire urbano; limitación: el beneficio climático depende de que la electricidad usada provenga de fuentes renovables, y el costo inicial de renovar flotas o comprar vehículos eléctricos es alto, lo que puede requerir subsidios estatales o financiamiento a largo plazo para ser viable a gran escala. | OA 3 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (2 puntos)
+
+- Distingue la protección total: zona núcleo sin ninguna extracción ni actividad — **1 punto**
+- Distingue el uso sostenible: pesca regulada con cuotas que no compromete la capacidad de regeneración — **1 punto**
+
+### Pregunta 5 (2 puntos)
+
+- Propone medir el consumo real por sala u horario y compararlo con un período anterior o un estándar, para identificar los focos de mayor gasto — **1 punto**
+- Justifica el diagnóstico cuantificado como base para dirigir el proyecto y poder medir su efectividad después — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Propone al menos dos medidas pertinentes: generación solar o híbrida y compostaje o valorización de desechos de pesca — **1 punto**
+- Evalúa el costo de inversión inicial y la posibilidad de subsidios estatales — **1 punto**
+- Considera el compromiso de la organización de pescadores para el uso y la mantención en el tiempo — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Explica que el proyecto gestiona el residuo y evita su acumulación sin control — **1 punto**
+- Explica que capturar el metano reduce un gas de efecto invernadero potente y lo convierte en energía útil — **1 punto**
+
+### Pregunta 10 (3 puntos)
+
+- Evalúa la opción (a) como destructiva del humedal y de sus servicios ecosistémicos — **1 punto**
+- Evalúa la opción (b) como compatible con la conservación del humedal — **1 punto**
+- Explica que un proyecto es sostenible cuando compatibiliza el uso humano con la capacidad de regeneración del ecosistema — **1 punto**
+
+### Pregunta 12 (2 puntos)
+
+- Relaciona las especies nativas con la conservación del hábitat y la biodiversidad local — **1 punto**
+- Señala el beneficio climático: el bosque en crecimiento captura y almacena CO₂ como sumidero de carbono — **1 punto**
+
+### Pregunta 13 (3 puntos)
+
+- Exige estudios hidrogeológicos independientes sobre la recarga del acuífero y el impacto de la extracción — **1 punto**
+- Evalúa la viabilidad económica y técnica de la planta desalinizadora frente al agua extraída — **1 punto**
+- Exige consulta y participación real de la comunidad afectada, no solo una compensación — **1 punto**
+
+### Pregunta 16 (2 puntos)
+
+- Menciona la validación del modelo con proyecciones pasadas y el uso de distintos escenarios de emisiones — **1 punto**
+- Menciona el respaldo de instituciones científicas y la consistencia con otros modelos independientes — **1 punto**
+
+### Pregunta 18 (3 puntos)
+
+- Evalúa la opción (a): captura carbono más rápido y a menor costo, pero genera un ecosistema poco diverso — **1 punto**
+- Evalúa la opción (b): captura más lenta, pero restaura hábitat, biodiversidad y resiliencia — **1 punto**
+- Sopesa explícitamente velocidad de mitigación frente a valor ecológico del ecosistema restaurado — **1 punto**
+
+### Pregunta 20 (2 puntos)
+
+- Explica que el metano es un gas de efecto invernadero con alto potencial de retener calor en el corto plazo — **1 punto**
+- Menciona una forma concreta de reducirlo: cambios en la alimentación del ganado, manejo de estiércol o captura de biogás — **1 punto**
+
+### Pregunta 21 (3 puntos)
+
+- Explica un componente físico: el aumento de temperatura incrementa olas de calor y seca la vegetación — **1 punto**
+- Relaciona ese efecto con el ecosistema: más material combustible para incendios, o lluvias intensas y aluviones en zonas áridas — **1 punto**
+- Propone una medida de adaptación, no de mitigación: alerta temprana, cortafuegos u ordenamiento territorial — **1 punto**
+
+### Pregunta 23 (2 puntos)
+
+- Explica que los bosques actúan como sumideros de carbono mediante la fotosíntesis — **1 punto**
+- Explica que al eliminarlos se pierde esa captura y se libera el carbono almacenado en la biomasa — **1 punto**
+
+### Pregunta 24 (3 puntos)
+
+- Relaciona el adelanto de las temperaturas primaverales con el cambio climático — **1 punto**
+- Explica el desacople temporal entre especies interdependientes — **1 punto**
+- Explica el riesgo para la alimentación, la reproducción o la supervivencia del ave — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Menciona una ventaja: menos emisiones directas y mejor calidad del aire urbano — **1 punto**
+- Menciona una limitación: el beneficio depende de una matriz eléctrica renovable, o el alto costo de renovar flotas — **1 punto**
+- Incorpora la dimensión económica: subsidios o financiamiento de largo plazo para ser viable a gran escala — **1 punto**
+
+---
 
 ### Resumen de puntaje
 

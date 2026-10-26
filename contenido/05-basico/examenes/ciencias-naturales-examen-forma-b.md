@@ -6,7 +6,7 @@ tipo: Examen de práctica (formato Examen Libre de Validación de Estudios, Mine
 duración: 90 minutos
 n_preguntas: 25
 basado_en: Banco de preguntas de contenido/05-basico/ciencias-naturales.md
-observación: Forma B — versión alternativa a la Forma A (/05-basico/pruebas/ciencias-naturales-prueba.md), con preguntas distintas que cubren los mismos 7 OA
+observación: Forma B — versión alternativa del examen de práctica, con preguntas propias que cubren los mismos 7 OA
 última actualización: 2026-08-10
 ---
 
@@ -36,7 +36,7 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
    errónea y marca con una X la opción correcta.
 7. Todas las preguntas son de elaboración propia, inspiradas en el temario oficial de
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto N°439 de 2012. Esta
-   es la **Forma B** de la prueba, con preguntas distintas a la Forma A.
+   es la **Forma B** de la prueba, con preguntas propias.
 
 ---
 
@@ -160,11 +160,11 @@ d) 4
 tener representantes beneficiosos y dañinos. ¿Cuál de las siguientes opciones
 ilustra correctamente esta idea?
 
-a) Todas las bacterias causan las mismas enfermedades
+a) La mayoría de las bacterias causa las mismas enfermedades en las personas y en los animales
 b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede
    causar una infección en la piel
-c) Las bacterias nunca varían en su efecto sobre la salud
-d) Solo los virus pueden ser beneficiosos
+c) Las bacterias producen el mismo efecto sobre la salud, sin importar de qué tipo de bacteria se trate
+d) Los virus son los únicos microorganismos que pueden resultar beneficiosos
 
 **15.** *(Desarrollo breve, 2 puntos)* Explica qué es una enfermedad
 infectocontagiosa y da un ejemplo **distinto de la gripe**.
@@ -188,10 +188,10 @@ d) El cobre es un material aislador
 pila y una ampolleta, y prueba cerrar el circuito primero con una moneda de metal y
 luego con una goma de borrar. ¿En qué caso se espera que la ampolleta **encienda**?
 
-a) Solo con la goma de borrar
-b) Con ambos materiales por igual
-c) Solo con la moneda de metal
-d) Con ninguno de los dos materiales
+a) Con la goma de borrar, porque no conduce
+b) Con ambos materiales, porque los dos conducen
+c) Con la moneda de metal, porque es conductora
+d) Con ninguno de los dos, porque ambos son aislantes
 
 **18.** *(Alternativas)* El aluminio es un metal utilizado, entre otras cosas, en
 cables eléctricos y utensilios de cocina. Según sus propiedades, el aluminio es un
@@ -282,7 +282,7 @@ ayuda a conservar el agua.
 | 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel | OA 7 |
 | 15 | Desarrollo breve | Una enfermedad infectocontagiosa es causada por un microorganismo (bacteria, virus u hongo) y puede transmitirse de una persona a otra. Ejemplo válido (distinto de la gripe): el pie de atleta (hongo), una infección intestinal (bacteria), un resfriado común (virus), entre otros. | OA 7 |
 | 16 | Alternativas | b) El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente | OA 10 |
-| 17 | Alternativas | c) Solo con la moneda de metal | OA 10 |
+| 17 | Alternativas | c) Con la moneda de metal, porque es conductora | OA 10 |
 | 18 | Alternativas | b) Conductor, porque permite el paso de la corriente con facilidad | OA 10 |
 | 19 | Desarrollo extenso | El material conductor (cobre) en el interior permite que la corriente eléctrica circule hacia donde se necesita; el material aislador (plástico) en el exterior evita que la corriente entre en contacto con las personas, previniendo descargas eléctricas. Ambos materiales cumplen funciones complementarias y necesarias en un mismo cable. | OA 10 |
 | 20 | Alternativas | b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea | OA 12 |
@@ -291,6 +291,57 @@ ayuda a conservar el agua.
 | 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar | OA 14 |
 | 24 | Alternativas | b) Un derrame de petróleo en el mar | OA 14 |
 | 25 | Desarrollo extenso | Respuesta abierta: acciones válidas incluyen no botar basura ni químicos en ríos o canales (evita la contaminación del agua y protege a los seres vivos que dependen de ella), reducir el consumo innecesario de agua en la casa (ayuda a conservar un recurso escaso), participar en limpiezas de playas o riberas, o apoyar campañas de cuidado del agua. Se debe explicar por qué cada acción ayuda a conservar el recurso hídrico. | OA 14 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 4 (2 puntos)
+
+- Nombra un sistema del cuerpo humano distinto del digestivo — **1 punto**
+- Describe la coordinación de al menos dos órganos dentro de ese sistema — **1 punto**
+
+### Pregunta 7 (2 puntos)
+
+- Identifica las proteínas como el nutriente principal involucrado — **1 punto**
+- Relaciona las proteínas con la construcción y reparación de tejidos, como músculos y piel — **1 punto**
+
+### Pregunta 8 (3 puntos)
+
+- Explica que el cuerpo necesita variedad de nutrientes para funciones distintas — **1 punto**
+- Identifica que la dieta descrita aporta principalmente carbohidratos y grasas — **1 punto**
+- Señala que faltan proteínas y vitaminas y minerales — **1 punto**
+
+### Pregunta 11 (2 puntos)
+
+- Menciona una medida válida frente al humo de tabaco ajeno — **1 punto**
+- Menciona una segunda medida distinta y pertinente — **1 punto**
+
+### Pregunta 15 (2 puntos)
+
+- Define enfermedad infectocontagiosa como causada por un microorganismo y transmisible entre personas — **1 punto**
+- Da un ejemplo válido distinto de la gripe — **1 punto**
+
+### Pregunta 19 (3 puntos)
+
+- Explica la función del conductor: permite que la corriente circule hacia donde se necesita — **1 punto**
+- Explica la función del aislador: evita el contacto con las personas y previene descargas — **1 punto**
+- Concluye que ambos materiales cumplen funciones complementarias y necesarias en el mismo cable — **1 punto**
+
+### Pregunta 22 (2 puntos)
+
+- Explica el papel de los glaciares: almacenan agua dulce congelada que se libera hacia ríos y lagos — **1 punto**
+- Explica el papel de las nubes: transportan el agua evaporada y la devuelven como lluvia o nieve — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Propone dos acciones concretas y pertinentes — **1 punto**
+- Explica por qué la primera acción ayuda a conservar el recurso hídrico — **1 punto**
+- Explica por qué la segunda acción ayuda a conservar el recurso hídrico — **1 punto**
+
+---
 
 ### Resumen de puntaje
 
@@ -312,7 +363,7 @@ ayuda a conservar el agua.
 | Eje 3: Ciencias de la Tierra y el Universo | OA 14 | 23, 24, 25 | 3 |
 | **Total** | **7 OA** | | **25** |
 
-Esta distribución por Eje y OA replica exactamente la de la Forma A, pero **ninguna de
+Esta distribución por Eje y OA replica exactamente la del banco de contenido, pero **ninguna de
 las 25 preguntas de esta Forma B repite el enunciado, los datos del estímulo (tablas,
-listas, situaciones) ni las opciones de alternativas de la Forma A** — se usaron
+listas, situaciones) ni las opciones de alternativas del banco de contenido** — se usaron
 ejemplos, materiales, escenarios y formulaciones distintos para cada OA.

@@ -5,7 +5,7 @@ tipo: Prueba de práctica (Examen Libre Mineduc) — Forma B
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/01-medio/ciencias-naturales.md
-relacionado_con: contenido/01-medio/pruebas/ciencias-naturales-prueba.md (Forma A)
+relacionado_con: contenido/01-medio/ciencias-naturales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -35,7 +35,7 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
    errónea y marca con una X la opción correcta.
 7. Todas las preguntas son de elaboración propia, inspiradas en el temario oficial de
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto N°614 de 2013. Esta
-   es la **Forma B** de esta prueba: contiene preguntas distintas a las de la Forma A,
+   es la **Forma B** de esta prueba: contiene preguntas propias,
    pero evalúa los mismos Objetivos de Aprendizaje.
 
 ---
@@ -305,6 +305,70 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 | 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia | OA 20 |
 | 25 | Desarrollo extenso | Se consumieron 18 moles de CO₂ (3 × 6) y se liberaron 18 moles de O₂ (3 × 6). Según la ecuación balanceada, por cada molécula (o mol) de glucosa producida se consumen 6 moléculas (o moles) de dióxido de carbono atmosférico; esto significa que, a mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema, mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica. | OA 20 |
 
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (3 puntos)
+
+- Identifica que en la población original ya existía variación: algunas bacterias eran resistentes antes de aplicar el antibiótico — **1 punto**
+- Explica la selección: el antibiótico elimina a las no resistentes y las resistentes sobreviven y se reproducen — **1 punto**
+- Relaciona la sobreproducción con el rápido aumento de la proporción de bacterias resistentes en la población — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Explica que al eliminar al depredador tope disminuye la presión de depredación y la población de la presa crece — **1 punto**
+- Explica que el aumento de la presa incrementa el consumo de vegetación y reduce su disponibilidad — **1 punto**
+- Identifica el fenómeno como cascada trófica o efecto indirecto en cadena sobre otros niveles del ecosistema — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Nombra el fenómeno como bioacumulación o biomagnificación — **1 punto**
+- Explica que la concentración aumenta al pasar de un nivel trófico al siguiente y que los depredadores tope acumulan más — **1 punto**
+
+### Pregunta 11 (3 puntos)
+
+- Señala la ventaja: permite disponer de agua durante la sequía y reduce el impacto en agricultura y consumo humano — **1 punto**
+- Señala una limitación: depende de que haya suficiente agua en la temporada de lluvias, o su costo de construcción y mantención — **1 punto**
+- Señala una segunda limitación o advierte efectos sobre el ecosistema del río intervenido — **1 punto**
+
+### Pregunta 13 (3 puntos)
+
+- Calcula la distancia total recorrida: 1.500 m/s × 4 s = 6.000 m — **1 punto**
+- Divide por 2 y obtiene la profundidad: 3.000 m — **1 punto**
+- Explica que el tiempo medido corresponde al recorrido de ida y vuelta del pulso — **1 punto**
+
+### Pregunta 16 (2 puntos)
+
+- Explica que el corrimiento al rojo indica, por efecto Doppler, que las galaxias se alejan — **1 punto**
+- Señala que el patrón generalizado en todas direcciones evidencia la expansión del universo — **1 punto**
+
+### Pregunta 18 (2 puntos)
+
+- Indica que Marte está más lejos del Sol que la Tierra y tiene un período orbital mayor — **1 punto**
+- Explica la relación: a mayor distancia la órbita es más grande y la velocidad orbital menor, por lo que el período aumenta — **1 punto**
+
+### Pregunta 20 (2 puntos)
+
+- Reconoce que los pueblos originarios obtuvieron conocimiento astronómico por observación sistemática y lo usaron en calendarios agrícolas y ceremoniales — **1 punto**
+- Valora el aporte cultural de esos saberes y la importancia de estudiar formas de conocimiento distintas a la ciencia occidental — **1 punto**
+
+### Pregunta 23 (3 puntos)
+
+- Identifica que el enunciado es incorrecto — **1 punto**
+- Explica que la combustión a gran escala libera CO₂ y otros contaminantes a la atmósfera — **1 punto**
+- Relaciona esas emisiones con el efecto invernadero, el cambio climático o la salud humana — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Calcula los moles de CO₂ consumidos: 3 × 6 = 18 moles — **1 punto**
+- Calcula los moles de O₂ liberados: 3 × 6 = 18 moles — **1 punto**
+- Explica que a mayor fotosíntesis mayor incorporación de CO₂ atmosférico a la materia orgánica — **1 punto**
+
+---
+
 ### Resumen de puntaje
 
 - **15 preguntas de alternativas** (N° 1, 2, 4, 5, 7, 8, 10, 12, 14, 15, 17, 19, 21, 22, 24) × 1 punto = 15 puntos
@@ -331,7 +395,7 @@ relación entre la fotosíntesis y la captura de dióxido de carbono atmosféric
 ### Nota sobre esta Forma B
 
 Esta versión evalúa exactamente los mismos 10 OA y la misma distribución por eje que
-la Forma A (contenido/01-medio/pruebas/ciencias-naturales-prueba.md), pero con
+el banco de contenido (contenido/01-medio/ciencias-naturales.md), pero con
 preguntas de contenido, contexto y/o valores numéricos distintos en todos los casos,
 para permitir su uso como segunda instancia de evaluación o como prueba de rendición
 paralela.

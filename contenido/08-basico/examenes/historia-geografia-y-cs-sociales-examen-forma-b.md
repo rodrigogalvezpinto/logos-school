@@ -3,7 +3,7 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 08-basico/historia-geografia-y-cs-sociales.md (12 OA, Decreto 614/2013)
-relacionado_con: 08-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (Forma A) — mismas 12 OA, preguntas distintas
+relacionado_con: contenido/08-basico/historia-geografia-y-cs-sociales.md (banco de contenido) — mismas 12 OA, preguntas distintas
 última actualización: 2026-08-10
 ---
 
@@ -33,7 +33,7 @@ relacionado_con: 08-basico/pruebas/historia-geografia-y-cs-sociales-prueba.md (F
 7. Al finalizar, revisa que hayas respondido todas las preguntas.
 
 Esta es la **Forma B** de este examen de práctica: cubre los mismos 12 Objetivos de Aprendizaje
-(OA) que la Forma A, pero con preguntas **distintas**, útil para practicar una segunda vez sin
+(OA) que el banco de contenido, pero con preguntas **distintas**, útil para practicar una segunda vez sin
 memorizar respuestas. Es un **material de práctica 100% original**, elaborado a partir de los
 Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013 para 8° básico. No reproduce
 preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas

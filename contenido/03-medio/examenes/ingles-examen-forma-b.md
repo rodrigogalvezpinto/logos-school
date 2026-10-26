@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 3° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/03-medio/ingles.md (3 OA)
-relacionado: /contenido/03-medio/pruebas/ingles-prueba.md (Forma A — preguntas distintas)
+relacionado: contenido/03-medio/ingles.md (preguntas propias)
 última actualización: 2026-08-11
 ---
 
@@ -243,9 +243,9 @@ producción breve), en línea con el formato mixto del Examen Libre real de
 Inglés.
 
 **Nota sobre esta Forma:** todas las preguntas de esta Forma B son distintas
-a las de la Forma A (`/contenido/03-medio/pruebas/ingles-prueba.md`). Siete
+a las del banco de contenido (`contenido/03-medio/ingles.md`). Siete
 preguntas por OA1 y OA3, y seis preguntas del OA4, provienen de ítems del
 banco de autoevaluación (`/contenido/03-medio/ingles.md`) que **no** fueron
-usados en la Forma A; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
+usados en el banco de contenido; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
 nuevas, construidas con el mismo vocabulario y las mismas estructuras
 gramaticales del glosario del curso.

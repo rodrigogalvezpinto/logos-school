@@ -5,7 +5,7 @@ tipo: Prueba de práctica (Examen Libre Mineduc) — Forma B
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/08-basico/ciencias-naturales.md
-version: Forma B (preguntas distintas a la Forma A)
+version: Forma B (preguntas propias)
 última actualización: 2026-08-10
 ---
 
@@ -35,7 +35,7 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
    errónea y marca con una X la opción correcta.
 7. Todas las preguntas son de elaboración propia, inspiradas en el temario oficial de
    la Unidad de Currículum y Evaluación (UCE) del Mineduc, Decreto N°614 de 2013. Esta
-   es la **Forma B** de la prueba: contiene preguntas distintas a las de la Forma A,
+   es la **Forma B** de la prueba: contiene preguntas propias,
    sobre los mismos Objetivos de Aprendizaje.
 
 ---
@@ -55,9 +55,9 @@ d) El citoplasma
 **2.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre las células
 procariontes es correcta?
 
-a) Tienen un núcleo definido, rodeado por una membrana nuclear
-b) No poseen citoplasma
-c) Son exclusivas de las plantas
+a) Tienen un núcleo definido, rodeado por una membrana nuclear y por organelos
+b) No poseen citoplasma ni membrana celular que los delimite
+c) Son exclusivas de las plantas y de otros organismos con cloroplastos
 d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido
 
 **3.** *(Desarrollo breve, 2 puntos)* Un estudiante observa al microscopio dos tipos de
@@ -84,7 +84,7 @@ el día, cuando hay luz solar disponible?
 a) La respiración celular
 b) La absorción de agua por la raíz
 c) La fotosíntesis
-d) Todas las anteriores ocurren solo de día
+d) La respiración y la fotosíntesis ocurren durante el día, y la absorción de agua también
 
 **6.** *(Desarrollo extenso, 3 puntos)* La planta A tiene un follaje abundante (muchas
 hojas) y la planta B, de la misma especie y tamaño similar, tiene muy pocas hojas.
@@ -140,7 +140,7 @@ correcta, según lo estudiado en este eje?
 
 a) La salud se define únicamente como la ausencia de enfermedades físicas
 b) La salud es un estado de bienestar físico, mental y social
-c) Una persona sin síntomas de enfermedad siempre está completamente sana
+c) Una persona que no presenta síntomas de enfermedad está completamente sana
 d) La salud no depende de la alimentación ni de la actividad física
 
 **13.** *(Desarrollo breve, 2 puntos)* Un adolescente afirma: "Puedo fumar cigarrillos
@@ -167,7 +167,7 @@ componentes falla?
 
 a) El resto de los componentes sigue funcionando con normalidad
 b) Se interrumpe el funcionamiento de todo el circuito
-c) Solo aumenta el voltaje de los demás componentes
+c) Aumenta el voltaje que reciben los demás componentes del circuito
 d) No ocurre ningún cambio en el circuito
 
 **16.** *(Desarrollo breve, 2 puntos)* Compara los circuitos eléctricos conectados en
@@ -194,7 +194,7 @@ d) Todas requieren un medio material
 **19.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre el calor y la
 temperatura es correcta?
 
-a) Un objeto con mayor temperatura siempre "tiene" más calor almacenado
+a) Un objeto con mayor temperatura contiene más calor almacenado en su interior
 b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de
    temperatura
 c) El calor y la temperatura son exactamente el mismo concepto
@@ -286,6 +286,68 @@ aceptar electrones.
 | 23 | Desarrollo breve | La afirmación es poco precisa: aunque el modelo de Dalton fue superado por modelos posteriores (al no considerar la estructura interna del átomo), fue fundamental porque estableció la idea de que la materia está formada por átomos, que los átomos de un mismo elemento son iguales entre sí, y que se combinan en proporciones simples para formar compuestos, ideas que sentaron las bases para los modelos posteriores. | OA 12 |
 | 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico | OA 14 |
 | 25 | Desarrollo extenso | Se formará un enlace iónico. El calcio es un metal del grupo 2, por lo que tiende a ceder electrones; el bromo es un no metal del grupo 17, por lo que tiende a aceptar electrones. Al transferirse electrones del calcio al bromo, se forman iones de carga opuesta (Ca²⁺ y Br⁻) que se atraen entre sí, característico de un enlace iónico. | OA 14 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (2 puntos)
+
+- Identifica correctamente la neurona y la fibra muscular — **1 punto**
+- Justifica cada identificación relacionando la forma de la célula con su función — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Identifica que la planta A transpirará más agua — **1 punto**
+- Explica que a mayor cantidad de hojas hay más estomas — **1 punto**
+- Relaciona los estomas con la mayor superficie de salida de vapor de agua — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Explica que las enzimas descomponen los alimentos en nutrientes absorbibles — **1 punto**
+- Explica que la bilis emulsiona las grasas y facilita la acción de las enzimas — **1 punto**
+
+### Pregunta 10 (3 puntos)
+
+- Explica que el humo daña el tejido de los alvéolos pulmonares — **1 punto**
+- Relaciona el daño con la reducción de la superficie de intercambio gaseoso — **1 punto**
+- Concluye que pasa menos oxígeno a la sangre en cada respiración — **1 punto**
+
+### Pregunta 13 (2 puntos)
+
+- Explica que incluso el consumo ocasional expone a sustancias dañinas — **1 punto**
+- Señala que el riesgo de dependencia existe también con consumo ocasional — **1 punto**
+
+### Pregunta 16 (2 puntos)
+
+- Señala una ventaja y una desventaja del circuito en serie — **1 punto**
+- Señala una ventaja y una desventaja del circuito en paralelo — **1 punto**
+
+### Pregunta 17 (3 puntos)
+
+- Aplica la fórmula: I = P / V — **1 punto**
+- Obtiene el resultado correcto con unidades: 5 amperes — **1 punto**
+- Explica qué representa la potencia: rapidez con que se consume o transforma energía — **1 punto**
+
+### Pregunta 20 (2 puntos)
+
+- Explica que reduce la conducción y la convección mediante vacío o material aislante — **1 punto**
+- Explica que reduce la radiación mediante una superficie interior reflectante — **1 punto**
+
+### Pregunta 23 (2 puntos)
+
+- Reconoce que la afirmación es imprecisa o exagerada — **1 punto**
+- Reconoce el aporte de Dalton: la materia está formada por átomos que se combinan en proporciones simples — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Predice un enlace iónico entre el calcio y el bromo — **1 punto**
+- Explica que el calcio (grupo 2) cede electrones y el bromo (grupo 17) los acepta — **1 punto**
+- Explica la atracción entre los iones de carga opuesta que se forman (Ca²⁺ y Br⁻) — **1 punto**
+
+---
 
 ### Resumen de puntaje
 

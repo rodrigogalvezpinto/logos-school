@@ -170,9 +170,9 @@ c) No se puede saber
 
 **16.** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el profesor está explicando?
 
-a) Gritar mi idea
+a) Gritar mi idea para que todos la escuchen
 b) Levantar la mano y esperar mi turno
-c) Interrumpir sin avisar
+c) Interrumpir al profesor sin pedir la palabra
 
 ---
 

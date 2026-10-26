@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /02-medio/matematica.md
-versión: Forma B (preguntas distintas a Forma A)
+versión: Forma B (preguntas propias)
 última actualización: 2026-08-10
 ---
 
@@ -236,4 +236,4 @@ d) 28
 | Probabilidad y Estadística | 4 | OA 11 |
 | **Total** | **25** | **6 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de la Forma A. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /02-medio/matematica.md, sin copiar preguntas reales de Mineduc. **Ninguna pregunta de esta Forma B repite enunciado, cifras o contexto con la Forma A** (matematica-prueba.md): se usaron números, funciones y escenarios distintos en cada ítem equivalente.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución del banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /02-medio/matematica.md, sin copiar preguntas reales de Mineduc. **Ninguna pregunta de esta Forma B repite enunciado, cifras o contexto con el banco de contenido**: se usaron números, funciones y escenarios distintos en cada ítem equivalente.

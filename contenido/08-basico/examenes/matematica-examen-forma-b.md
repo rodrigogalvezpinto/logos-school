@@ -7,7 +7,7 @@ n° de preguntas: 25
 duración: 90 minutos
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — basado en el banco de preguntas de /08-basico/matematica.md
-relación con otras formas: segunda versión (Forma B), con preguntas distintas a la Forma A, misma cobertura de OA
+relación con otras formas: segunda versión (Forma B), con preguntas propias, misma cobertura de OA
 última actualización: 2026-08-10
 ---
 
@@ -231,4 +231,4 @@ d) Ninguno de los anteriores
 | Datos y Probabilidades | 5 | OA 15, 16 |
 | **Total** | **25** | **10 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que la Forma A, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite entre ambas formas.
+**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que el banco de contenido, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite respecto de otro instrumento del mismo curso.

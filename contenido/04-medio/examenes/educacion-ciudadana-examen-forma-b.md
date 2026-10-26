@@ -3,7 +3,7 @@ asignatura: Educación Ciudadana
 curso: 4° Medio
 tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/educacion-ciudadana.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/pruebas/educacion-ciudadana-prueba.md (Forma A)
+forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/educacion-ciudadana.md (banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -24,7 +24,7 @@ forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/prueb
 3. En las preguntas de **desarrollo**, responde en el espacio asignado, con letra clara. Las preguntas de "desarrollo breve" esperan 2 a 4 líneas; las de "desarrollo extenso" esperan un párrafo completo y argumentado.
 4. No se permite el uso de celulares, apuntes ni material de apoyo.
 5. Administra tu tiempo: se recomienda no destinar más de 3 a 4 minutos por pregunta.
-6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc. Esta es la **Forma B** del examen, con preguntas distintas a la Forma A, pensada para practicar dos veces sin memorizar respuestas.
+6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc. Esta es la **Forma B** del examen, con preguntas propias, pensada para practicar dos veces sin memorizar respuestas.
 
 > **Nota sobre neutralidad:** algunas preguntas presentan posturas en tensión dentro del debate democrático (por ejemplo, sobre impuestos, regulación de medios o rol del Estado). En esos casos no existe una "postura correcta" a evaluar, sino tu capacidad de identificar y argumentar con los conceptos estudiados. Estas preguntas se corrigen según la calidad del razonamiento, no según la opinión política expresada.
 

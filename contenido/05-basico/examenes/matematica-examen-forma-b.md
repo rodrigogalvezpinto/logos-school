@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: calculadora, lápiz, goma
 fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — basado en el banco de preguntas de /05-basico/matematica.md
-observación: Forma B — versión alternativa a la Forma A (/05-basico/pruebas/matematica-prueba.md), con preguntas distintas que cubren los mismos 17 OA
+observación: Forma B — versión alternativa del examen de práctica, con preguntas propias que cubren los mismos 17 OA
 última actualización: 2026-08-10
 ---
 
@@ -245,4 +245,4 @@ Muestra tu desarrollo para la parte b).
 | Medición y Datos y Probabilidades | 7 | OA 19, 22, 23, 24, 26 |
 | **Total** | **25** | **17 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la misma proporción y estructura curricular que la Forma A, con preguntas, contextos y valores numéricos completamente distintos.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la misma proporción y estructura curricular que el banco de contenido, con preguntas, contextos y valores numéricos completamente distintos.

@@ -3,7 +3,7 @@ asignatura: Idioma Extranjero - Inglés
 curso: 7° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/07-basico/ingles.md (4 OA)
-relacionado: Forma A en /contenido/07-basico/pruebas/ingles-prueba.md (preguntas distintas)
+relacionado: contenido/07-basico/ingles.md (preguntas distintas)
 última actualización: 2026-08-10
 ---
 
@@ -227,9 +227,8 @@ plastic bottles on the beach today."* (is / are)
 **Distribución por tipo de pregunta:** 8 de selección múltiple (alternativas)
 y 17 de respuesta abierta breve (completar, verdadero/falso, emparejar,
 responder en inglés y escribir según modelo), en línea con el formato mixto
-del Examen Libre real de Inglés e idéntica proporción a la Forma A.
+del Examen Libre real de Inglés e idéntica proporción que el banco de contenido.
 
-**Nota sobre independencia con la Forma A:** todas las preguntas de esta
-Forma B usan textos, nombres, datos y contextos distintos a los de la Forma A
-(/contenido/07-basico/pruebas/ingles-prueba.md), aunque evalúan los mismos 4
+**Nota sobre independencia entre formas:** todas las preguntas de esta
+Forma B usan textos, nombres, datos y contextos propios, aunque evalúan los mismos 4
 OA con proporciones equivalentes.

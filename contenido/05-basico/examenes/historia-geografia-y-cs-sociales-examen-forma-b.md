@@ -29,7 +29,7 @@ basado_en: Banco de autoevaluación 05-basico/historia-geografia-y-cs-sociales.m
 
 Esta es la **Forma B** de este examen de práctica: una segunda versión, 100% original,
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 439/2012
-para 5° básico, pero con preguntas distintas a la Forma A. No reproduce preguntas reales del
+para 5° básico, pero con preguntas propias. No reproduce preguntas reales del
 Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas abiertas, uso de
 estímulos como mapas y fuentes históricas adaptadas, y Pauta de Corrección final) busca
 acercarte a la experiencia del examen real.

@@ -5,7 +5,7 @@ tipo: Prueba de práctica (Examen Libre Mineduc) — Forma B
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/02-medio/ciencias-naturales.md
-relacionado: contenido/02-medio/pruebas/ciencias-naturales-prueba.md (Forma A)
+relacionado: contenido/02-medio/ciencias-naturales.md (banco de contenido)
 última actualización: 2026-08-10
 ---
 
@@ -21,9 +21,9 @@ relacionado: contenido/02-medio/pruebas/ciencias-naturales-prueba.md (Forma A)
 de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 
 > Esta es la **Forma B** de la prueba de práctica de Ciencias Naturales de 2° medio:
-> una segunda versión, con preguntas distintas a la Forma A, pero que cubre los mismos
+> una segunda versión, con preguntas propias, pero que cubre los mismos
 > 9 Objetivos de Aprendizaje (OA) en la misma proporción. Úsala para practicar de
-> nuevo sin memorizar las respuestas de la Forma A.
+> nuevo sin memorizar las respuestas del banco de contenido.
 
 ### Instrucciones para el postulante
 
@@ -50,9 +50,9 @@ de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
 **1.** *(Alternativas)* ¿Cuál de las siguientes opciones describe correctamente la
 función de los receptores sensoriales dentro del sistema nervioso?
 
-a) Almacenan la memoria a largo plazo
-b) Transmiten órdenes hacia los músculos y las glándulas
-c) Conectan a las neuronas sensoriales con las neuronas motoras
+a) Almacenan la memoria y los aprendizajes a largo plazo en el cerebro
+b) Transmiten las órdenes del sistema nervioso hacia músculos y glándulas
+c) Conectan las neuronas sensoriales con las neuronas motoras de la médula
 d) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica
 
 **2.** *(Alternativas)* Dentro de un circuito nervioso, ¿qué tipo de neurona conecta a
@@ -112,11 +112,10 @@ d) La fecundación
 **8.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones describe correctamente
 una diferencia entre la mitosis y la meiosis?
 
-a) La mitosis produce cuatro células hijas y la meiosis produce dos
-b) La meiosis produce células genéticamente idénticas entre sí, y la mitosis no
-c) La meiosis reduce a la mitad el número de cromosomas de las células que produce,
-   mientras que la mitosis mantiene el número original
-d) La mitosis es exclusiva de las células que producen gametos
+a) La mitosis produce cuatro células hijas y la meiosis produce dos células hijas iguales
+b) La meiosis produce células genéticamente idénticas entre sí, mientras que la mitosis no
+c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene
+d) La mitosis es exclusiva de las células que producen gametos, y no ocurre en otras células
 
 **9.** *(Desarrollo breve, 2 puntos)* Explica por qué la meiosis, y no la mitosis, es
 el proceso que permite la variación genética entre generaciones de una misma especie.
@@ -157,7 +156,7 @@ sin considerar el roce del aire, ¿qué tipo de movimiento describe?
 a) MRU, porque su rapidez se mantiene constante
 b) MRUA, porque su velocidad cambia de manera constante en el tiempo
 c) Movimiento circular, porque cae en línea curva
-d) Ninguno de los anteriores, porque no tiene sistema de referencia
+d) Movimiento con aceleración variable, porque la gravedad aumenta al caer
 
 **14.** *(Desarrollo extenso, 3 puntos)* Un ciclista parte del reposo y acelera de
 manera constante en línea recta, alcanzando una velocidad de 15 m/s luego de 5
@@ -183,9 +182,9 @@ actúa sobre él?
 
 a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan
    entre sí
-b) Es distinta de cero y en el mismo sentido del movimiento
-c) Es distinta de cero y en sentido contrario al movimiento
-d) No se puede determinar sin conocer la masa del objeto
+b) Es distinta de cero y apunta en el mismo sentido en que se mueve el objeto
+c) Es distinta de cero y apunta en sentido contrario al movimiento del objeto
+d) No se puede determinar si no se conoce la masa del objeto que se mueve
 
 **17.** *(Desarrollo extenso, 3 puntos)* Un objeto de 10 kg descansa sobre una
 superficie horizontal. Sobre él actúan una fuerza horizontal aplicada de 25 N y una
@@ -274,7 +273,7 @@ covalentes.
 | 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad | OA 3 |
 | 6 | Desarrollo extenso | El consentimiento asegura que ambas personas participan en la relación de forma libre e informada, respetando su autonomía; la comunicación permite acordar aspectos como el uso de métodos de protección y expresar límites personales, lo que reduce riesgos tanto físicos (embarazo no planificado, ITS) como emocionales dentro de la relación. | OA 3 |
 | 7 | Alternativas | b) La mitosis | OA 6 |
-| 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células que produce, mientras que la mitosis mantiene el número original | OA 6 |
+| 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene | OA 6 |
 | 9 | Desarrollo breve | La meiosis produce gametos genéticamente distintos entre sí (a diferencia de la mitosis, que produce células idénticas), y al combinarse el material genético de dos progenitores distintos durante la fecundación, se genera una nueva combinación genética única en cada descendiente, lo que explica la variación genética entre generaciones. | OA 6 |
 | 10 | Alternativas | b) Un organismo al que se le ha insertado uno o más genes provenientes de otra especie | OA 8 |
 | 11 | Desarrollo breve | Ventajas: puede reducir el uso de pesticidas (menor impacto ambiental y menor costo para el agricultor) y aumentar el rendimiento del cultivo. Preocupaciones: puede generar dependencia de empresas que poseen las patentes de las semillas transgénicas, y existen interrogantes sobre los efectos a largo plazo de estos cultivos sobre la biodiversidad y los ecosistemas locales. | OA 8 |
@@ -292,6 +291,63 @@ covalentes.
 | 23 | Alternativas | b) Al menos un enlace doble | OA 17 |
 | 24 | Alternativas | b) Alqueno | OA 17 |
 | 25 | Desarrollo extenso | El carbono puede formar hasta cuatro enlaces covalentes estables, incluyendo enlaces consigo mismo, lo que le permite construir cadenas largas, ramificadas y cíclicas de gran diversidad estructural; esta versatilidad es la que permite formar las moléculas grandes y complejas necesarias para la vida, como los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos, algo que ningún otro elemento de la tabla periódica logra con la misma capacidad. | OA 17 |
+
+
+# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+
+Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
+
+
+### Pregunta 3 (2 puntos)
+
+- Explica que el sueño consolida la memoria y permite la recuperación de las neuronas — **1 punto**
+- Relaciona la falta de sueño con menor atención, memoria, ánimo o toma de decisiones — **1 punto**
+
+### Pregunta 6 (3 puntos)
+
+- Explica el consentimiento como participación libre e informada que respeta la autonomía de ambas personas — **1 punto**
+- Explica la comunicación como acuerdos sobre métodos de protección y expresión de límites — **1 punto**
+- Relaciona estos elementos con riesgos físicos (ITS, embarazo no planificado) y emocionales — **1 punto**
+
+### Pregunta 9 (2 puntos)
+
+- Contrasta la meiosis, que produce gametos distintos, con la mitosis, que produce células idénticas — **1 punto**
+- Explica que la fecundación combina material genético de dos progenitores y genera una combinación única — **1 punto**
+
+### Pregunta 11 (2 puntos)
+
+- Menciona al menos una ventaja económica o ambiental (menor uso de pesticidas, mayor rendimiento) — **1 punto**
+- Menciona al menos una preocupación (dependencia de patentes, efectos sobre biodiversidad o largo plazo) — **1 punto**
+
+### Pregunta 14 (3 puntos)
+
+- Aplica la fórmula: a = (15 m/s − 0 m/s) / 5 s — **1 punto**
+- Obtiene el resultado correcto con unidades: 3 m/s² — **1 punto**
+- Interpreta el valor: la velocidad aumenta 3 m/s en cada segundo — **1 punto**
+
+### Pregunta 17 (3 puntos)
+
+- Calcula la fuerza neta: 25 N − 5 N = 20 N — **1 punto**
+- Aplica F = m·a y obtiene la aceleración: 2 m/s² — **1 punto**
+- Indica el sentido de la fuerza neta: el de la fuerza aplicada — **1 punto**
+
+### Pregunta 19 (2 puntos)
+
+- Explica que los modelos científicos se reemplazan cuando surge nueva evidencia o uno que explica mejor lo observado — **1 punto**
+- Menciona el respaldo de las observaciones de Galileo o de la física de Newton al modelo heliocéntrico — **1 punto**
+
+### Pregunta 22 (2 puntos)
+
+- Plantea el cálculo: (18 g / 300 g) × 100 — **1 punto**
+- Obtiene la concentración correcta: 6 % m/m — **1 punto**
+
+### Pregunta 25 (3 puntos)
+
+- Señala que el carbono forma hasta cuatro enlaces covalentes estables — **1 punto**
+- Explica que puede enlazarse consigo mismo formando cadenas, ramificaciones y ciclos — **1 punto**
+- Relaciona esa versatilidad con la diversidad de biomoléculas de los seres vivos — **1 punto**
+
+---
 
 ### Resumen de puntaje
 

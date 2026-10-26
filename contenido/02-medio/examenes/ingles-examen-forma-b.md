@@ -246,6 +246,6 @@ preguntas 1, 6, 7, 12, 14, 18, 20 y 25) y 17 de respuesta abierta breve
 (completar, verdadero/falso, responder en inglés, completar esquema,
 emparejar y escribir según modelo), en línea con el formato mixto del Examen
 Libre real de Inglés. Esta Forma B usa la misma distribución por OA y tipo de
-pregunta que la Forma A, pero con textos, temas y contextos distintos, para
+pregunta que el banco de contenido, pero con textos, temas y contextos distintos, para
 que ambas formas sean intercambiables como instancias independientes de
 evaluación.

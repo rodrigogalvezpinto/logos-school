@@ -14,7 +14,7 @@ fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/U
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-> 4° medio es el **último curso del ciclo escolar**: este es un segundo simulacro, con preguntas distintas a la Forma A, para que sigas practicando antes de tomar en tus propias manos las decisiones financieras, laborales y ciudadanas que vienen después de la escuela.
+> 4° medio es el **último curso del ciclo escolar**: este es un segundo simulacro, con preguntas propias, para que sigas practicando antes de tomar en tus propias manos las decisiones financieras, laborales y ciudadanas que vienen después de la escuela.
 
 **Instrucciones para el estudiante:**
 
@@ -234,4 +234,4 @@ d) no es posible calcular porcentajes a partir de una encuesta
 | OA2 — Modelos binomial y normal | 9 | Probabilidad y Estadística |
 | **Total** | **25** | **3 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática, igual que en la Forma A. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /04-medio/matematica.md, con escenarios, cifras y enunciados distintos a los usados en la Forma A (matematica-prueba.md), sin copiar preguntas reales de Mineduc.
+**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática, igual que en el banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /04-medio/matematica.md, con escenarios, cifras y enunciados distintos a los usados en el banco de contenido, sin copiar preguntas reales de Mineduc.
