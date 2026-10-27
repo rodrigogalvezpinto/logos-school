@@ -100,4 +100,15 @@ describe('MarkdownPipe - Renderizado con KaTeX y compatibilidad', () => {
 
     expect(html).toContain('katex');
   });
+
+  it('renderiza potencias y exponentes Unicode como números más pequeños elevados (sup)', () => {
+    const markdown = 'Como 7²=49 y 8²=64, el área es 25 m²';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('<sup class="exponente-matematico">2</sup>');
+    expect(html).toContain('7<sup');
+    expect(html).toContain('8<sup');
+    expect(html).toContain('m<sup');
+  });
 });

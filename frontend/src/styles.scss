@@ -332,3 +332,52 @@ button {
   margin: 0;
   color: var(--texto-secundario);
 }
+
+/* ==========================================================================
+   TIPOGRAFÍA Y ESPACIADO MATEMÁTICO DE ALTA PRECISIÓN (KaTeX)
+   - Separación holgada en fracciones: ni numerador ni denominador tocan la barra.
+   - Potencias y exponentes: visiblemente más pequeños (~70%) que la base.
+   ========================================================================== */
+
+.katex {
+  font-size: 1.1em; /* Legibilidad óptima para estudiantes */
+
+  /* Fracciones: separación vertical holgada que garantiza que los dígitos jamás toquen la barra */
+  .mfrac {
+    margin: 0 0.15em;
+
+    /* Aumentar holgura vertical en numerador y denominador */
+    > span > span {
+      padding-top: 0.22em !important;
+      padding-bottom: 0.22em !important;
+    }
+
+    /* Línea divisoria nítida con margen superior e inferior garantizado */
+    .frac-line {
+      border-bottom-width: 0.07em !important;
+      margin-top: 0.16em !important;
+      margin-bottom: 0.16em !important;
+    }
+  }
+
+  /* Potencias y exponentes: tipografía notablemente menor que el número base y elevada con holgura */
+  .msupsub {
+    font-size: 0.72em !important; /* ~72% del número base */
+
+    .vlist-t .vlist-r .vlist {
+      font-size: 0.75em !important;
+    }
+
+    .mtight {
+      font-size: 0.75em !important;
+    }
+  }
+}
+
+/* Superíndices estándar en HTML y texto educativo (ej: 7², m², 10²³) */
+sup, .exponente-matematico {
+  font-size: 0.7em !important; /* Visiblemente menor que el número base */
+  vertical-align: 0.45em !important; /* Elevado sobre la línea base sin tocarla */
+  line-height: 0 !important;
+  font-weight: 600;
+}

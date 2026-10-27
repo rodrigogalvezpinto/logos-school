@@ -116,6 +116,37 @@ test.describe.serial('Validación E2E: Matemática, KaTeX y Evaluaciones', () =>
 
     const panelElement = page.locator('#panel-demo-katex');
     await expect(panelElement).toBeVisible();
+
+    // Verificación tipográfica:
+    // 1. Fracción: numerador y denominador separados de la barra (.frac-line)
+    // 2. Potencia / Exponente: tipografía del exponente visiblemente menor que el número base
+    const medicionesTipograficas = await page.evaluate(() => {
+      const sups = Array.from(document.querySelectorAll('.msupsub, sup, .exponente-matematico'));
+      let exponenteMasPequeno = false;
+      for (const sup of sups) {
+        const parent = sup.parentElement;
+        if (parent) {
+          const sizeSup = parseFloat(window.getComputedStyle(sup).fontSize);
+          const sizeParent = parseFloat(window.getComputedStyle(parent).fontSize);
+          if (sizeSup < sizeParent) {
+            exponenteMasPequeno = true;
+            break;
+          }
+        }
+      }
+
+      const fracLine = document.querySelector('.frac-line');
+      const tieneBarraFraccion = fracLine !== null;
+
+      return {
+        exponenteMasPequeno,
+        tieneBarraFraccion
+      };
+    });
+
+    expect(medicionesTipograficas.tieneBarraFraccion).toBe(true);
+    expect(medicionesTipograficas.exponenteMasPequeno).toBe(true);
+
     await page.screenshot({ path: 'screenshots/e2e-matematica-katex-demo.png', fullPage: false });
 
     expect(errores, `Errores de consola: ${errores.join(', ')}`).toEqual([]);

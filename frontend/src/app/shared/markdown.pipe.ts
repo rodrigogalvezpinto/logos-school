@@ -17,6 +17,7 @@ const RE_CHEM_TAG = /\[chem\]([\s\S]+?)\[\/chem\]/g;
 // Patrones automáticos para contenido existente en texto plano
 const RE_UNICODE_SQRT = /(?<![a-zA-Z0-9\\])√\s*(\d+|\([a-zA-Z0-9+−\s\*\^/]+\))/g;
 const RE_NOTACION_CIENTIFICA = /(\d+(?:,\d+)?)\s*[×x]\s*10\^?([⁰¹²³⁴⁵⁶⁷⁸⁹\d]+|[−-]\d+)/g;
+const RE_UNICODE_EXPONENTES = /([a-zA-Z0-9\)])([²³⁴⁵⁶⁷⁸⁹]+)/g;
 
 const MAPA_SUPERSCRIPT: Record<string, string> = {
   '⁰': '0', '¹': '1', '²': '2', '³': '3', '⁴': '4',
@@ -92,6 +93,11 @@ function renderizarMatematica(texto: string): string {
       displayMode: false,
       throwOnError: false,
     });
+  });
+
+  // 8. Superíndices y potencias Unicode en texto plano (ej: 7², 8², m², cm³) -> <sup> más pequeños y elevados
+  res = res.replace(RE_UNICODE_EXPONENTES, (_, base, exp) => {
+    return `${base}<sup class="exponente-matematico">${normalizarExponentes(exp)}</sup>`;
   });
 
   return res;

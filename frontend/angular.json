@@ -28,9 +28,15 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "node_modules/katex/dist/fonts",
+                "output": "fonts"
               }
             ],
             "styles": [
+              "node_modules/katex/dist/katex.min.css",
               "src/styles.scss"
             ]
           },
