@@ -11,6 +11,32 @@ const RE_MATH_BLOCK_TAG = /\[math:block\]([\s\S]+?)\[\/math:block\]/g;
 const RE_MATH_INLINE_PAREN = /\\\(([\s\S]+?)\\\)/g;
 const RE_MATH_INLINE_TAG = /\[math\]([\s\S]+?)\[\/math\]/g;
 const RE_MATH_FRAC_TAG = /\[frac:\s*([^/\]]+)\s*\/\s*([^\]]+)\]/g;
+const RE_MATH_SQRT_TAG = /\[sqrt(?:\s*\[\s*([^\]]+)\s*\])?:\s*([^\]]+)\]/g;
+const RE_CHEM_TAG = /\[chem\]([\s\S]+?)\[\/chem\]/g;
+
+// Patrones automáticos para contenido existente en texto plano
+const RE_UNICODE_SQRT = /(?<![a-zA-Z0-9\\])√\s*(\d+|\([a-zA-Z0-9+−\s\*\^/]+\))/g;
+const RE_NOTACION_CIENTIFICA = /(\d+(?:,\d+)?)\s*[×x]\s*10\^?([⁰¹²³⁴⁵⁶⁷⁸⁹\d]+|[−-]\d+)/g;
+
+const MAPA_SUPERSCRIPT: Record<string, string> = {
+  '⁰': '0', '¹': '1', '²': '2', '³': '3', '⁴': '4',
+  '⁵': '5', '⁶': '6', '⁷': '7', '⁸': '8', '⁹': '9',
+  '⁻': '-', '⁺': '+',
+};
+
+function normalizarExponentes(s: string): string {
+  return s.split('').map((c) => MAPA_SUPERSCRIPT[c] || c).join('');
+}
+
+function formatearQuimica(formula: string): string {
+  let f = formula.trim().replace(/->|→/g, ' \\rightarrow ');
+  if (!f.includes('\\text{')) {
+    // Formatear fórmulas químicas simples como H2O -> \text{H}_2\text{O}, CO2 -> \text{CO}_2
+    f = f.replace(/([A-Z][a-z]?)(\d+)/g, '\\text{$1}_{$2}');
+    f = f.replace(/(?<![\\a-zA-Z])([A-Z][a-z]?)(?![a-zA-Z0-9_{])/g, '\\text{$1}');
+  }
+  return f;
+}
 
 function renderizarMatematica(texto: string): string {
   // 1. Fórmulas en bloque (display mode)
@@ -35,6 +61,34 @@ function renderizarMatematica(texto: string): string {
   // 3. Shorthand accesible para fracciones: [frac: numerador / denominador]
   res = res.replace(RE_MATH_FRAC_TAG, (_, num, den) => {
     return katex.renderToString(`\\frac{${num.trim()}}{${den.trim()}}`, {
+      displayMode: false,
+      throwOnError: false,
+    });
+  });
+
+  // 4. Shorthand para raíces: [sqrt: x] o [sqrt[n]: x]
+  res = res.replace(RE_MATH_SQRT_TAG, (_, idx, expr) => {
+    const formula = idx ? `\\sqrt[${idx.trim()}]{${expr.trim()}}` : `\\sqrt{${expr.trim()}}`;
+    return katex.renderToString(formula, { displayMode: false, throwOnError: false });
+  });
+
+  // 5. Shorthand para química: [chem] 2H2 + O2 -> 2H2O [/chem]
+  res = res.replace(RE_CHEM_TAG, (_, formula) => {
+    const fKatex = formatearQuimica(formula);
+    return katex.renderToString(fKatex, { displayMode: false, throwOnError: false });
+  });
+
+  // 6. Detección automática de raíces cuadradas Unicode existentes (ej: √49, √16, √(x+3))
+  res = res.replace(RE_UNICODE_SQRT, (_, radicando) => {
+    const limpio = radicando.startsWith('(') && radicando.endsWith(')') ? radicando.slice(1, -1) : radicando;
+    return katex.renderToString(`\\sqrt{${limpio.trim()}}`, { displayMode: false, throwOnError: false });
+  });
+
+  // 7. Detección automática de notación científica existente (ej: 6,02 × 10²³, 3 × 10^8)
+  res = res.replace(RE_NOTACION_CIENTIFICA, (_, base, exp) => {
+    const expNormal = normalizarExponentes(exp);
+    const baseNormal = base.replace(',', '{,}');
+    return katex.renderToString(`${baseNormal} \\times 10^{${expNormal}}`, {
       displayMode: false,
       throwOnError: false,
     });

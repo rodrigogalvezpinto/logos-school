@@ -56,4 +56,48 @@ describe('MarkdownPipe - Renderizado con KaTeX y compatibilidad', () => {
     expect(html).toContain('$10.500');
     expect(html).not.toContain('katex-error');
   });
+
+  it('renderiza raíces con helper [sqrt: x] y [sqrt[n]: x]', () => {
+    const markdown = 'Calcula [sqrt: 25] y la raíz cúbica [sqrt[3]: 8].';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('katex');
+    expect(html).toContain('sqrt');
+  });
+
+  it('renderiza automáticamente raíces cuadradas Unicode (ej: √49)', () => {
+    const markdown = 'Calcula √49 y simplifica √(x + 3).';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('katex');
+    expect(html).toContain('sqrt');
+  });
+
+  it('renderiza automáticamente notación científica (ej: 6,02 × 10²³)', () => {
+    const markdown = 'Un mol contiene 6,02 × 10²³ partículas.';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('katex');
+    expect(html).toContain('10');
+  });
+
+  it('renderiza ecuaciones químicas con helper [chem]', () => {
+    const markdown = 'La reacción de síntesis del agua es: [chem]2H2 + O2 -> 2H2O[/chem]';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('katex');
+    expect(html).toContain('rightarrow');
+  });
+
+  it('renderiza fórmulas de física con [math]', () => {
+    const markdown = 'La segunda ley de Newton es [math]F = m \\cdot a[/math]';
+    const resultado = pipe.transform(markdown);
+    const html = resultado.toString();
+
+    expect(html).toContain('katex');
+  });
 });

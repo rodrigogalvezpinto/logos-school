@@ -1404,21 +1404,19 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
 
 **Ejemplos resueltos**
 
-1. **Verificar que una ecuación química esté balanceada.** En la ecuación de la
-   formación de agua, 2H₂ + O₂ → 2H₂O, hay 4 átomos de hidrógeno y 2 átomos de
-   oxígeno tanto en los reactantes como en los productos, por lo que la ecuación está
-   correctamente balanceada, cumpliendo la ley de conservación de la materia.
+1. **Verificar que una ecuación química esté balanceada.** En la ecuación de la formación de agua:
 
-2. **Equivalencias con el mol.** Un mol de moléculas de agua (H₂O) contiene
-   aproximadamente 6,02 × 10²³ moléculas de agua; como cada molécula de agua tiene 2
-   átomos de hidrógeno y 1 de oxígeno, ese mismo mol de agua contiene el doble de
-   átomos de hidrógeno (aproximadamente 1,2 × 10²⁴) que de átomos de oxígeno
-   (aproximadamente 6,02 × 10²³).
+   $$ 2\text{H}_2 + \text{O}_2 \rightarrow 2\text{H}_2\text{O} $$
 
-3. **Estequiometría de la fotosíntesis.** La ecuación general simplificada de la
-   fotosíntesis es 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; esto indica que, en proporción, se
-   necesitan 6 moléculas de dióxido de carbono y 6 moléculas de agua para producir 1
-   molécula de glucosa y liberar 6 moléculas de oxígeno.
+   Hay 4 átomos de hidrógeno y 2 átomos de oxígeno tanto en los reactantes como en los productos, por lo que la ecuación está correctamente balanceada, cumpliendo la ley de conservación de la materia.
+
+2. **Equivalencias con el mol.** Un mol de moléculas de agua (\( \text{H}_2\text{O} \)) contiene aproximadamente \( 6{,}02 \times 10^{23} \) moléculas de agua; como cada molécula de agua tiene 2 átomos de hidrógeno y 1 de oxígeno, ese mismo mol de agua contiene el doble de átomos de hidrógeno (aproximadamente \( 1{,}2 \times 10^{24} \)) que de átomos de oxígeno (aproximadamente \( 6{,}02 \times 10^{23} \)).
+
+3. **Estequiometría de la fotosíntesis.** La ecuación general de la fotosíntesis es:
+
+   $$ 6\text{CO}_2 + 6\text{H}_2\text{O} \rightarrow \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2 $$
+
+   Esto indica que, en proporción estequiométrica, se necesitan 6 moléculas de dióxido de carbono y 6 moléculas de agua para producir 1 molécula de glucosa y liberar 6 moléculas de oxígeno.
 
 **Banco de preguntas de autoevaluación**
 

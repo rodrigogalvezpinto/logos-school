@@ -37,35 +37,39 @@ Vas a realizar **cálculos y estimaciones con números reales**: aplicando las p
 
 **Propiedades de las raíces** (para a, b ≥ 0):
 
-| Propiedad | Regla |
+| Propiedad | Regla en Notación Matemática |
 |---|---|
-| Raíz de un producto | ⁿ√(a×b) = ⁿ√a × ⁿ√b |
-| Raíz de un cuociente | ⁿ√(a/b) = ⁿ√a ÷ ⁿ√b |
-| Raíz de una potencia | ⁿ√(aᵐ) = (ⁿ√a)ᵐ = a^(m/n) |
+| Raíz de un producto | \( \sqrt[n]{a \cdot b} = \sqrt[n]{a} \cdot \sqrt[n]{b} \) |
+| Raíz de un cuociente | \( \sqrt[n]{\frac{a}{b}} = \frac{\sqrt[n]{a}}{\sqrt[n]{b}} \) |
+| Raíz de una potencia | \( \sqrt[n]{a^m} = (\sqrt[n]{a})^m = a^{m/n} \) |
 
 **Racionalizar** un denominador significa transformar una fracción con raíz en el denominador en una expresión equivalente sin raíces abajo, multiplicando numerador y denominador por la misma raíz.
 
-**Logaritmo:** el logaritmo en base a de un número b (con a>0, a≠1) es el exponente c al que hay que elevar a para obtener b: **log_a(b) = c ⟺ aᶜ = b**. Sus propiedades básicas son: log(a×b) = log(a) + log(b), y log(a/b) = log(a) − log(b).
+**Logaritmo:** el logaritmo en base a de un número b (con a>0, a≠1) es el exponente c al que hay que elevar a para obtener b: **\( \log_a(b) = c \iff a^c = b \)**. Sus propiedades básicas son: \( \log(a \cdot b) = \log(a) + \log(b) \), y \( \log(\frac{a}{b}) = \log(a) - \log(b) \).
 
 #### Ejemplos resueltos
 
 **Ejemplo 1 — Reducir términos semejantes con raíces**
 
-Calcula: √48 + √27.
+Calcula: \( \sqrt{48} + \sqrt{27} \).
 
-Primero se simplifica cada raíz por separado, buscando el mayor factor cuadrado perfecto: √48 = √(16×3) = 4√3; y √27 = √(9×3) = 3√3. Como ambas quedaron con la misma raíz (√3), son "semejantes" y se pueden sumar: 4√3 + 3√3 = **7√3**.
+Primero se simplifica cada raíz por separado, buscando el mayor factor cuadrado perfecto: \( \sqrt{48} = \sqrt{16 \cdot 3} = 4\sqrt{3} \); y \( \sqrt{27} = \sqrt{9 \cdot 3} = 3\sqrt{3} \). Como ambas quedaron con la misma raíz (\( \sqrt{3} \)), son "semejantes" y se pueden sumar: \( 4\sqrt{3} + 3\sqrt{3} = \mathbf{7\sqrt{3}} \).
 
 **Ejemplo 2 — Racionalizar un denominador**
 
-Racionaliza: 7/√5.
+Racionaliza: \( \frac{7}{\sqrt{5}} \).
 
-Se multiplica numerador y denominador por √5, para que el denominador deje de tener una raíz: (7×√5)/(√5×√5) = 7√5/5. El resultado, **7√5/5**, es equivalente al original pero sin raíz en el denominador.
+Se multiplica numerador y denominador por \( \sqrt{5} \), para que el denominador deje de tener una raíz:
+
+$$ \frac{7}{\sqrt{5}} = \frac{7 \cdot \sqrt{5}}{\sqrt{5} \cdot \sqrt{5}} = \frac{7\sqrt{5}}{5} $$
+
+El resultado, **\( \frac{7\sqrt{5}}{5} \)**, es equivalente al original pero sin raíz en el denominador.
 
 **Ejemplo 3 — Aplicar propiedades de logaritmos**
 
-Calcula, usando propiedades: log₃(9) + log₃(27).
+Calcula, usando propiedades: \( \log_3(9) + \log_3(27) \).
 
-Se aplica la propiedad de la suma de logaritmos: log₃(9) + log₃(27) = log₃(9×27) = log₃(243). Como 3⁵=243, el resultado es **5**. (Se puede verificar por separado: log₃9=2 porque 3²=9, y log₃27=3 porque 3³=27; y 2+3=5, coincide).
+Se aplica la propiedad de la suma de logaritmos: \( \log_3(9) + \log_3(27) = \log_3(9 \cdot 27) = \log_3(243) \). Como \( 3^5 = 243 \), el resultado es **5**. (Se puede verificar por separado: \( \log_3(9) = 2 \) porque \( 3^2 = 9 \), y \( \log_3(27) = 3 \) porque \( 3^3 = 27 \); y 2+3=5, coincide).
 
 #### Preguntas de autoevaluación
 
@@ -234,15 +238,15 @@ Vas a mostrar que comprendes la **función cuadrática f(x)=ax²+bx+c (con a≠0
 
 **¿Por qué importa?** El año pasado trabajaste principalmente con funciones lineales, cuya gráfica es una recta. La función cuadrática introduce un nuevo tipo de curva, la **parábola**, que aparece en trayectorias de proyectiles, en el diseño de antenas y puentes, y en modelos económicos de ganancia, costo o demanda, donde el resultado óptimo (máximo o mínimo) suele encontrarse en el vértice de la parábola.
 
-**Elementos de f(x)=ax²+bx+c:**
+**Elementos de \( f(x) = ax^2 + bx + c \) (con \( a \neq 0 \)):**
 
-| Elemento | Cómo se determina |
-|---|---|
-| Concavidad | Si a>0, la parábola abre hacia arriba (tiene un mínimo); si a<0, abre hacia abajo (tiene un máximo) |
-| Vértice | Coordenada x: −b/(2a). Coordenada y: se reemplaza ese valor de x en f(x) |
-| Eje de simetría | La recta vertical x = −b/(2a) (pasa por el vértice) |
-| Intersección con el eje y | El punto (0, c) |
-| Intersecciones con el eje x (raíces) | Los valores de x donde f(x)=0 (se obtienen factorizando o con la fórmula general) |
+| Elemento | Cómo se determina | Notación Matemática |
+|---|---|---|
+| Concavidad | Si \( a > 0 \), abre hacia arriba (mínimo); si \( a < 0 \), abre hacia abajo (máximo) | Signo de \( a \) |
+| Vértice | Coordenada \( x = -\frac{b}{2a} \). Coordenada \( y = f(x_v) \) | \( V = \left(-\frac{b}{2a}, f\left(-\frac{b}{2a}\right)\right) \) |
+| Eje de simetría | La recta vertical que pasa por el vértice | \( x = -\frac{b}{2a} \) |
+| Intersección con eje y | Se evalúa en \( x = 0 \) | Punto \( (0, c) \) |
+| Intersecciones con eje x (raíces) | Valores donde \( f(x) = 0 \) con fórmula cuadrática general | \( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \) |
 
 #### Ejemplos resueltos
 

@@ -282,21 +282,21 @@ Vas a mostrar que comprendes las **raíces cuadradas** de números naturales: es
 
 **Ejemplo 1 — Raíz cuadrada exacta**
 
-Calcula √49.
+Calcula \( \sqrt{49} \).
 
-Se busca un número que, multiplicado por sí mismo, dé 49: como 7×7=49, entonces √49 = **7**.
+Se busca un número que, multiplicado por sí mismo, dé 49: como \( 7 \times 7 = 49 \), entonces \( \sqrt{49} = \mathbf{7} \).
 
 **Ejemplo 2 — Estimar una raíz cuadrada no exacta**
 
-Estima √50 sin calculadora.
+Estima \( \sqrt{50} \) sin calculadora.
 
-Como 7²=49 y 8²=64, y 50 está entre 49 y 64 (más cerca de 49), entonces √50 está entre 7 y 8, más cerca de 7. Una buena estimación es **aproximadamente 7,1** (el valor real es 7,07…).
+Como \( 7^2 = 49 \) y \( 8^2 = 64 \), y 50 está entre 49 y 64 (más cerca de 49), entonces \( \sqrt{50} \) está entre 7 y 8, más cerca de 7. Una buena estimación es **aproximadamente 7,1** (el valor real es 7,07…).
 
 **Ejemplo 3 — Aplicación geométrica: transformar un rectángulo en cuadrado**
 
 Una cancha rectangular mide 12 m de largo por 3 m de ancho. Se quiere transformarla en una cancha cuadrada con la misma área. ¿Cuánto debe medir el lado del cuadrado, y cuál sería su perímetro?
 
-Área del rectángulo: 12 × 3 = 36 m². Lado del cuadrado equivalente: √36 = **6 m**. Perímetro del cuadrado: 4 × 6 = **24 m**.
+Área del rectángulo: \( 12 \times 3 = 36\text{ m}^2 \). Lado del cuadrado equivalente: \( \sqrt{36} = \mathbf{6\text{ m}} \). Perímetro del cuadrado: \( 4 \times 6 = \mathbf{24\text{ m}} \).
 
 #### Preguntas de autoevaluación
 
