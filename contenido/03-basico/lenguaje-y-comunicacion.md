@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 3° básico
+curso: 3° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA N°4, OA N°5, OA N°6, OA N°17
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 3° básico
@@ -93,7 +95,7 @@ a) Porque no le gustaba caminar mucho
 b) Porque llevaba tiempo buscándola y la necesitaba para hacer trámites
 c) Porque quería comprarse una manzana
 
-*Respuesta correcta: b.* Retroalimentación: el texto dice que "llevaba media hora buscando esta billetera" y que sin el carné no podría hacer trámites esa semana; eso explica su alivio, aunque el texto no use la palabra "alivio" para explicarlo.
+*Respuesta correcta: b.* Retroalimentación: el texto dice que "llevaba media hora buscando esta billetera" y que sin el carné no podría hacer trámites esa semana; menciona que sonrió "con alivio", pero no explica la razón: la deducimos de esas pistas.
 
 **4. (Ordenar secuencia)** Numera del 1 al 4 estas acciones según el orden en que ocurrieron en el cuento:
 

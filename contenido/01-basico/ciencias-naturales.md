@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 5, OA 6, OA 8, OA 9, OA 11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 1° Básico
@@ -441,7 +443,7 @@ usan para hacer ciertos objetos y no otros.
    pasar el agua fácilmente?
    a) Género de algodón
    b) Plástico
-   c) Corcho poroso
+   c) Madera
    d) Papel
    **Respuesta correcta:** b) Plástico.
    **Retroalimentación:** Correcto. Por eso muchas bolsas, cubiertas y ponchos de
@@ -548,7 +550,7 @@ de cada material.
    a) La luz del sol
    b) El calor
    c) Aplicar fuerza con las manos
-   d) El agua fría
+   d) El viento
    **Respuesta correcta:** c) Aplicar fuerza con las manos.
    **Retroalimentación:** Correcto. Al doblar o arrugar el papel con las manos, le
    estamos aplicando una fuerza que cambia su forma.
@@ -563,7 +565,7 @@ de cada material.
 7. *(Observación simple)* Mira esta imagen: dos galletas iguales, una seca y otra
    que estuvo un rato en un vaso de leche.
    
-::emoji::::una galleta seca y entera, junto a otra galleta mojada y deshecha en
+::emoji::🍪::una galleta seca y entera, junto a otra galleta mojada y deshecha en
    un plato::
 
    ¿Qué material provocó el cambio en la segunda galleta?

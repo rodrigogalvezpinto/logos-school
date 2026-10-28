@@ -2,8 +2,10 @@
 título: Matemática — 2° Básico
 asignatura: Matemática
 curso: 2° Básico
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 2, OA 3, OA 5, OA 7, OA 9, OA 11, OA 12, OA 13, OA 15, OA 16, OA 19, OA 20, OA 22
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 2° Básico
@@ -158,7 +160,7 @@ d) No se puede saber
 **Respuesta correcta: 90, 61, 33, 8.**
 *Retroalimentación:* parte con el número más grande de todos (90) y ve bajando hasta llegar al más chico (8).
 
-**Pregunta 6 (completar).** ¿Qué palabra completa correctamente la comparación? 47 es ___ que 74.
+**Pregunta 6 (alternativas).** ¿Qué palabra completa correctamente la comparación? 47 es ___ que 74.
 a) menor
 b) mayor
 c) igual
@@ -515,7 +517,7 @@ d) restar 10
 **Pregunta 3 (verdadero o falso).** El patrón 88, 77, 66, 55 es creciente.
 
 **Respuesta correcta: Falso.**
-*Retroalimentación:* cada número de la secuencia es menor que el anterior (88 es mayor que 77, y así sucesivamente), por lo tanto la secuencia es decreciente, no creciente.
+*Retroalimentación:* cada número es menor que el que viene antes (77 es menor que 88, 66 es menor que 77, y así sucesivamente), por lo tanto la secuencia es decreciente, no creciente.
 
 **Pregunta 4 (completar elemento en el medio).** Completa: 6, 12, 18, ___, 30
 
@@ -806,10 +808,10 @@ d) No se puede medir
 **Respuesta esperada:** porque el centímetro es una unidad estandarizada: mide siempre lo mismo, sin importar quién mida; en cambio, las manos de cada persona tienen un tamaño distinto, por lo que la medición no es exacta ni comparable.
 *Retroalimentación:* las unidades estandarizadas como el cm permiten que dos personas distintas midan el mismo objeto y obtengan el mismo resultado.
 
-**Pregunta 7 (problema).** Una cuerda mide 40 cm y se corta un pedazo de 15 cm. ¿Cuánto mide el pedazo que queda?
+**Pregunta 7 (problema).** Una cuerda mide 45 cm y se corta un pedazo de 15 cm. ¿Cuánto mide el pedazo que queda?
 
-**Respuesta correcta:** 40-15=**25 cm**.
-*Retroalimentación:* al restar el pedazo cortado (15 cm) del largo total (40 cm), obtenemos el largo que queda: 40-15=25 cm.
+**Respuesta correcta:** 45-15=**30 cm**.
+*Retroalimentación:* al restar el pedazo cortado (15 cm) del largo total (45 cm), obtenemos el largo que queda: 45-15=30 cm.
 
 ---
 

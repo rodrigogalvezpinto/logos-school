@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 6, OA 9, OA 10, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 1° Básico
@@ -90,7 +92,7 @@ Tomás estará en 2° Básico. *Paso a paso:* ordenamos los cursos según el añ
 
 #### Autoevaluación — OA 2
 
-**1. (Alternativas)** ¿Qué haces primero en la mañana?
+**1. (Alternativas)** ¿Qué haces antes del desayuno?
 a) Dormir toda la noche
 b) Ir a dormir la siesta
 c) Almorzar
@@ -195,7 +197,7 @@ roja y en forma de campana, la reconocemos como el copihue, símbolo de nuestro 
 **Ejemplo 2 — La cueca en Fiestas Patrias**
 
 
-::emoji::::una pareja bailando cueca, la mujer con vestido y el hombre con poncho, ambos
+::emoji::💃::una pareja bailando cueca, la mujer con vestido y el hombre con poncho, ambos
 agitando un pañuelo::
 
 
@@ -391,10 +393,10 @@ está muy al norte, cerca del desierto, y el Punto B está muy al sur, cerca de 
 pingüinos. Si Santiago está aproximadamente al medio del país, ¿el Punto A está más cerca o
 más lejos de Santiago que el Punto B?
 
-💬 *Pauta de retroalimentación:* No hay una única respuesta numérica exacta, pero se espera
-que el estudiante entienda que Chile es un país muy largo, por lo que el norte (Punto A) y el
-sur (Punto B) pueden estar ambos bastante lejos de Santiago, que está en la zona central del
-país.
+💬 *Pauta de retroalimentación:* Se espera que el estudiante reconozca que Chile es un país
+muy largo y que tanto el norte (Punto A) como el sur (Punto B) quedan lejos de Santiago, que
+está en la zona central. En general, el Punto B queda más lejos de Santiago que el Punto A,
+porque el territorio chileno se extiende mucho más hacia el sur.
 
 ---
 

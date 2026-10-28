@@ -2,8 +2,10 @@
 título: Matemática — 1° Básico
 asignatura: Matemática
 curso: 1° Básico
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 3, OA 4, OA 6, OA 8, OA 9, OA 11, OA 13, OA 18, OA 19, OA 20
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 1° Básico
@@ -106,16 +108,16 @@ d) 9
 
 **Pregunta 6 (alternativas).** ¿Cuál de estas opciones muestra el número 9 representado con dibujos?
 a) 
-::emoji::::9 manzanas dibujadas::
+::emoji::🍎::9 manzanas dibujadas::
 
 b) 
-::emoji::::6 manzanas dibujadas::
+::emoji::🍎::6 manzanas dibujadas::
 
 c) 
-::emoji::::12 manzanas dibujadas::
+::emoji::🍎::12 manzanas dibujadas::
 
 d) 
-::emoji::::19 manzanas dibujadas::
+::emoji::🍎::19 manzanas dibujadas::
 
 
 **Respuesta correcta: a) 9 manzanas.**
@@ -179,9 +181,9 @@ d) No se puede saber
 *Retroalimentación:* 18 es mayor que 15, no menor. Al contar del 1 al 20, el 18 aparece después del 15, por lo tanto es un número más grande.
 
 **Pregunta 4 (comparar dibujos).** 
-::emoji::::una canasta con 8 duraznos::
+::emoji::🍑::una canasta con 8 duraznos::
  y 
-::emoji::::otra canasta con 13 duraznos::
+::emoji::🍑::otra canasta con 13 duraznos::
 . ¿Cuál canasta tiene más duraznos?
 
 **Respuesta correcta: la canasta con 13 duraznos.**
@@ -261,7 +263,7 @@ d) 9 = 3 + 5
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes que elegiste, el resultado sea exactamente 16.
 
 **Pregunta 4 (pictórico).** 
-::emoji::::6 fichas rojas y 4 fichas azules juntas::
+::emoji::🔴::6 fichas rojas y 4 fichas azules juntas::
  ¿Qué número forman en total? Escribe la suma que representa esta composición.
 
 **Respuesta esperada:** 6 + 4 = **10**.
@@ -300,7 +302,7 @@ Se forma **1 grupo de 10** (1 decena) y quedan **4 cubos sueltos** (4 unidades).
 **Ejemplo 2 — De bloques multibase al número**
 
 
-::emoji::::1 bloque largo que representa 10, y 7 cubitos sueltos::
+::emoji::🧱::1 bloque largo que representa 10, y 7 cubitos sueltos::
 
 
 El bloque largo vale 10 (1 decena) y hay 7 cubitos sueltos (7 unidades). Entonces el número representado es: 10 + 7 = **17**
@@ -337,7 +339,7 @@ d) 0 decenas y 16 unidades
 *Retroalimentación:* el 20 se forma exactamente con 2 grupos de 10, sin que sobre ningún elemento suelto, por eso tiene 0 unidades.
 
 **Pregunta 4 (pictórico).** 
-::emoji::::1 grupo de 10 bloques agrupados y 5 bloques sueltos::
+::emoji::🧱::1 grupo de 10 bloques agrupados y 5 bloques sueltos::
  ¿Qué número representa esta imagen?
 
 **Respuesta correcta: 15.**
@@ -368,7 +370,7 @@ Vas a comprender la **adición** (suma) y la **sustracción** (resta) con númer
 En el patio hay 2 perritos jugando y llegan 3 perritos más.
 
 
-::emoji::::2 perritos, y llegando desde el costado, 3 perritos más::
+::emoji::🐶::2 perritos, y llegando desde el costado, 3 perritos más::
 
 
 2 + 3 = **5 perritos** en total.
@@ -406,7 +408,7 @@ d) 12
 *Retroalimentación:* si a 9 le quitamos 5, quedan 4. Puedes comprobarlo pensando al revés: 4 + 5 = 9. ✓
 
 **Pregunta 3 (pictórico).** 
-::emoji::::6 pollitos juntos, y 2 de ellos se alejan caminando::
+::emoji::🐤::6 pollitos juntos, y 2 de ellos se alejan caminando::
  ¿Cuántos pollitos quedan?
 
 **Respuesta esperada:** 6 − 2 = **4 pollitos**.

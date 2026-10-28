@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 3° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 3, OA 4, OA 7, OA 8, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 3° Básico
@@ -381,13 +383,13 @@ votar las leyes; las mujeres, las personas esclavizadas y los extranjeros no ten
 derecho. ¿Qué podemos concluir al comparar esto con una democracia actual como la chilena?
 
 a) Que la democracia no ha cambiado en nada desde la Antigüedad
-b) Que hoy las democracias, como la chilena, reconocen el derecho a voto de todas las personas
-adultas, ampliando mucho más la participación que en la antigua Atenas
+b) Que hoy las democracias, como la chilena, reconocen el derecho a voto de hombres y mujeres
+adultos, ampliando mucho más la participación que en la antigua Atenas
 c) Que en Chile actualmente solo pueden votar los hombres
 d) Que la democracia ateniense era exactamente igual a la actual
 
 ✅ Respuesta correcta: **b) Que hoy las democracias, como la chilena, reconocen el derecho a
-voto de todas las personas adultas, ampliando mucho más la participación que en la antigua
+voto de hombres y mujeres adultos, ampliando mucho más la participación que en la antigua
 Atenas**
 💬 *Retroalimentación:* ¡Correcto! La idea de democracia nació en Atenas, pero ha cambiado y
 se ha ampliado mucho a lo largo de la historia para incluir a más personas.
@@ -489,7 +491,8 @@ Ecuador, en el hemisferio sur.
 
 ---
 
-**3. (Alternativas)** ¿Cuántos continentes tiene el planeta Tierra?
+**3. (Alternativas)** Según lo estudiado en esta guía, ¿cuántos continentes tiene el planeta
+Tierra?
 
 a) Cuatro
 b) Cinco
@@ -746,7 +749,7 @@ derechos no hay que ganárselos ni pedirlos como favor: existen por el solo hech
 niña, y toda la sociedad —las familias, las escuelas, el Estado— tiene la responsabilidad de
 respetarlos y protegerlos.
 
-En 1989, los países del mundo, reunidos en las Naciones Unidas (ONU), firmaron la
+En 1989, los países del mundo, reunidos en las Naciones Unidas (ONU), aprobaron la
 **Convención sobre los Derechos del Niño**, un acuerdo internacional que reconoce estos
 derechos. Chile forma parte de este acuerdo.
 
@@ -810,9 +813,9 @@ d) Un reglamento interno de las escuelas
 
 ✅ Respuesta correcta: **b) Un acuerdo internacional, firmado por muchos países, que reconoce
 los derechos de los niños y niñas**
-💬 *Retroalimentación:* ¡Correcto! La Convención sobre los Derechos del Niño fue firmada en
-1989 por muchos países, incluido Chile, y reconoce los derechos de todos los niños y niñas del
-mundo.
+💬 *Retroalimentación:* ¡Correcto! La Convención sobre los Derechos del Niño fue aprobada por
+la ONU en 1989 y reconoce los derechos de todos los niños y niñas del mundo; Chile forma parte
+de ella desde 1990.
 
 ---
 
@@ -940,9 +943,9 @@ respetarlos.
   Ártico y Antártico.
 - **Zona climática**: gran franja del planeta con condiciones de temperatura y lluvia
   similares. Las tres principales son la zona cálida, la templada y la fría.
-- **Convención sobre los Derechos del Niño**: acuerdo internacional, firmado en 1989 por
-  numerosos países incluyendo Chile, que reconoce los derechos de todos los niños y niñas del
-  mundo.
+- **Convención sobre los Derechos del Niño**: acuerdo internacional aprobado por la ONU en
+  1989 y ratificado por numerosos países, incluyendo Chile, que reconoce los derechos de todos
+  los niños y niñas del mundo.
 - **Trabajo infantil**: trabajo realizado por niños o niñas, prohibido por la ley chilena para
   proteger sus derechos a la educación, el juego y el descanso.
 - **JUNAEB**: Junta Nacional de Auxilio Escolar y Becas, institución chilena que entrega

@@ -1,16 +1,19 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 3, OA 4, OA 7, OA 8, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 2° Básico
 
 > Este material se basa en el temario oficial de la Unidad de Currículum y Evaluación (UCE)
 > del Ministerio de Educación de Chile, Decreto 439/2012, para el Examen Libre de Validación
-> de Estudios de 2° Básico. Cubre los 8 Objetivos de Aprendizaje (OA) de la asignatura,
-> organizados en sus tres ejes: **Historia**, **Geografía** y **Formación Ciudadana**.
+> de Estudios de 2° Básico. Cubre los 8 Objetivos de Aprendizaje (OA) de la asignatura
+> exigidos para este examen, organizados en sus tres ejes: **Historia**, **Geografía** y
+> **Formación Ciudadana**.
 > Recuerda: el examen real es una prueba **integrada** de 20 preguntas (junto con Lenguaje,
 > Matemática y Ciencias Naturales), con 90 minutos de duración — por eso es importante
 > estudiar con calma todos los temas de este documento.
@@ -215,7 +218,7 @@ Algunas cosas se han **mantenido**:
 
 - Palabras de su idioma (mapudungun, aymara, rapa nui) que siguen usando en sus familias.
 - Artesanía tradicional, como tejidos mapuche o esculturas rapa nui.
-- Fiestas como el **We Tripantu** (año nuevo mapuche) o el **Wilkakuti** (año nuevo aymara).
+- Fiestas como el **We Tripantu** (año nuevo mapuche) o el **Willkakuti** (año nuevo aymara).
 - Alimentos y preparaciones tradicionales.
 
 Otras cosas han **cambiado**:
@@ -343,8 +346,8 @@ los españoles.
 Aportes de los **pueblos originarios**:
 
 - **Palabras**: muchas palabras que usamos todos los días en Chile vienen de idiomas
-  indígenas, como *poncho*, *guagua* (bebé), *pololo/a* (enamorado/a), *cahuín* y *malón*
-  (del mapudungun), o *callampa* y *cocaví* (del quechua).
+  indígenas, como *poncho*, *pololo/a* (enamorado/a), *cahuín* y *malón* (del
+  mapudungun), o *guagua* (bebé), *callampa* y *cocaví* (del quechua).
 - **Alimentos**: la papa, el choclo (maíz), la palta, la quínoa y el merkén son alimentos que
   los pueblos originarios ya cultivaban o preparaban antes de la llegada de los españoles.
 - **Juegos**: el **palín** (o chueca), un juego mapuche parecido al hockey, es de origen
@@ -359,7 +362,7 @@ Aportes de los **españoles**:
 - **Juegos**: la rayuela y el trompo llegaron con los españoles.
 
 Muchas comidas típicas de Chile mezclan ingredientes de ambos orígenes: por ejemplo, la
-empanada de pino combina masa de trigo (aporte español) con maíz y otros ingredientes
+empanada de pino combina masa de trigo (aporte español) con ají y otros ingredientes
 americanos.
 
 #### Ejemplos resueltos
@@ -447,13 +450,13 @@ Chile y explica qué significa.
 ---
 
 **6. (Alternativas — desafiante)** La empanada de pino se prepara con masa de trigo (que
-llegó con los españoles) y a veces se sirve junto con maíz, que ya cultivaban los pueblos
+llegó con los españoles) y a veces se sazona con ají, que ya usaban los pueblos
 originarios. ¿Qué nos muestra este ejemplo?
 
 a) Que la empanada es un plato exclusivamente español
 b) Que la empanada es un plato exclusivamente indígena
 c) Que la comida chilena puede combinar aportes de distintos orígenes, mostrando el mestizaje
-d) Que el maíz llegó a Chile recién en el último siglo
+d) Que el ají llegó a Chile recién en el último siglo
 
 ✅ Respuesta correcta: **c) Que la comida chilena puede combinar aportes de distintos
 orígenes, mostrando el mestizaje**
@@ -998,7 +1001,7 @@ encargadas de proteger nuestro patrimonio cultural y natural.
 
 #### Explicación
 
-Además de las instituciones que ya conocimos (como la escuela o el hospital), existen otros
+Además de instituciones como la escuela o el hospital, existen otros
 **servicios** muy importantes para la vida en comunidad:
 
 - **Medios de transporte**: como el bus, el metro, el tren, el avión y el barco, permiten

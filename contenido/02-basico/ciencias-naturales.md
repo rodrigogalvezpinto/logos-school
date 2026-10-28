@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 2° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 3, OA 5, OA 7, OA 8, OA 9, OA 11, OA 12, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 2° Básico
@@ -126,8 +128,9 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    mariposa. Grupos: "crece dentro de la madre" y "sale de un huevo".
    **Respuesta correcta:** Crece dentro de la madre: guanaco. Sale de un huevo:
    chincol, rana, mariposa.
-   **Retroalimentación:** ¡Muy bien! Recuerda que **la gran mayoría de los mamíferos** crecen dentro
-   del cuerpo de su madre; (salvo los monotremas como el ornitorrinco y la equidna, que ponen huevos); las aves, los anfibios y los insectos nacen de huevos.
+   **Retroalimentación:** ¡Muy bien! Recuerda que **la gran mayoría de los mamíferos** crece
+   dentro del cuerpo de su madre (salvo los monotremas, como el ornitorrinco y la equidna,
+   que ponen huevos). Las aves, los anfibios y los insectos nacen de huevos.
 
 4. *(Relacionar con el hábitat)* ¿Por qué una rana necesita que exista una laguna o
    un charco de agua cerca para poder reproducirse?
@@ -228,9 +231,10 @@ bosques, ríos y humedales donde viven.
 
 3. *(Clasificar/agrupar)* Junta cada animal en peligro con la zona de Chile donde
    vive: picaflor de Arica, huemul, rana de Darwin.
-   Zonas: norte, sur (bosque), sur (bosque y montaña).
-   **Respuesta correcta:** Picaflor de Arica → norte. Huemul → sur (bosque y
-   montaña). Rana de Darwin → sur (bosque).
+   Zonas: extremo norte (humedales), sur (bosques húmedos), sur austral (bosques y
+   montañas).
+   **Respuesta correcta:** Picaflor de Arica → extremo norte (humedales). Huemul → sur
+   austral (bosques y montañas). Rana de Darwin → sur (bosques húmedos).
    **Retroalimentación:** ¡Bien hecho! Cada animal en peligro necesita un hábitat
    particular, y por eso perder ese hábitat los afecta tanto.
 
@@ -277,7 +281,7 @@ puedes sentir sus latidos si pones la mano en el pecho. Los **pulmones** están
 también en el pecho, uno a cada lado del corazón, y sirven para **respirar**: cuando
 inhalas, entra aire con oxígeno a los pulmones, y ese oxígeno pasa a la sangre para
 que el cuerpo lo use. El **estómago** está en la parte de arriba del abdomen (la
-guatita) y es el órgano donde comienza a **digerirse** la comida que masticaste,
+guatita) y es el órgano donde se **digiere** la comida que masticaste,
 transformándola para que el cuerpo pueda aprovechar sus nutrientes. El
 **esqueleto** es el conjunto de todos los **huesos** de tu cuerpo: le da forma,
 sostiene todo el cuerpo (como el armazón de una casa) y protege órganos delicados,
@@ -478,7 +482,7 @@ de la olla; el agua no tiene una forma propia y fija, como sí la tiene una pied
 Tercero, el agua puede **disolver** algunas sustancias sólidas: si le echas azúcar
 o sal y revuelves, estos sólidos desaparecen a la vista porque se mezclan de forma
 tan uniforme con el agua que ya no se distinguen sus partículas; decimos que se
-**disolvieron**. Sin embargo, no todos los sólidos se disuelven en agua: si le
+**disolvieron**. Sin embargo, no todas las sustancias se disuelven en agua: si le
 echas arena o aceite, estos no se disuelven, sino que se mantienen separados del
 agua. Cuarto, el agua pura es **transparente** (se puede ver a través de ella) e
 **inodora** (no tiene olor). Por último, el agua **cambia de estado** según la
@@ -539,10 +543,10 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
    arena es un buen ejemplo de un sólido que no se disuelve.
 
 4. *(Clasificar/agrupar)* Junta cada estado del agua con su descripción: hielo, agua
-   líquida, vapor de agua. Descripciones: se puede tomar y escurre, es sólido y
+   líquida, vapor de agua. Descripciones: no tiene forma propia y escurre, es sólido y
    duro al tacto, es invisible y se mezcla con el aire.
-   **Respuesta correcta:** Hielo → es sólido y duro al tacto. Agua líquida → se
-   puede tomar y escurre. Vapor de agua → es invisible y se mezcla con el aire.
+   **Respuesta correcta:** Hielo → es sólido y duro al tacto. Agua líquida → no tiene
+   forma propia y escurre. Vapor de agua → es invisible y se mezcla con el aire.
    **Retroalimentación:** ¡Muy bien! El agua puede estar en tres estados distintos
    según la temperatura: sólido, líquido y gaseoso.
 

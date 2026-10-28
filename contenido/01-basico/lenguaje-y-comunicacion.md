@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 1° básico
+curso: 1° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 3, OA 4, OA 8, OA 10, OA 13
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 1° básico
@@ -244,7 +246,7 @@ Cuando escuchas o lees un cuento, puedes entender más de lo que parece:
 
 **Actividad 2 — Información implícita**
 
-- Pregunta: ¿Por qué el gato temblaba? → **Respuesta implícita**: porque tenía frío. El cuento no dice "tenía frío" con esas palabras, pero lo sabemos porque dice que llovía fuerte y que el gato estaba mojado.
+- Pregunta: ¿Por qué Pepa llevó al gato a su casa? → **Respuesta implícita**: porque quiso ayudarlo, ya que el gato estaba mojado y temblando de frío. El cuento no dice "quiso ayudarlo" con esas palabras, pero lo deducimos de lo que hizo Pepa.
 
 **Actividad 3 — Personajes, lugares y dibujo**
 
@@ -291,7 +293,7 @@ c) Cuando Pepa toma leche
 
 **6. (Opinión)** ¿Te parece bien lo que hizo Pepa con el gato? Cuenta por qué, con tus palabras.
 
-*Respuesta esperada*: cualquier opinión razonable, por ejemplo "Sí, me parece bien, porque ayudó a un animal que tenía frío y hambre." Retroalimentación: ¡muy bien! No hay una sola respuesta correcta: lo importante es que expliques tu opinión pensando en lo que pasó en el cuento.
+*Respuesta esperada*: cualquier opinión razonable, por ejemplo "Sí, me parece bien, porque ayudó a un gato que estaba mojado y tenía frío." Retroalimentación: ¡muy bien! No hay una sola respuesta correcta: lo importante es que expliques tu opinión pensando en lo que pasó en el cuento.
 
 ---
 
@@ -453,16 +455,16 @@ c) "lacasa esgrande"
 *Respuesta esperada*: cualquier frase corta y con sentido, por ejemplo "Me gusta comer pan" o "Me gustan las empanadas". Retroalimentación: ¡muy bien! Revisa que tu frase tenga las palabras separadas por espacio y que responda la pregunta.
 
 **6. (Escribir palabra cuidando letra-sonido)** 
-::emoji::::un pez::
+::emoji::🐟::un pez::
  Escribe la palabra para este dibujo, pensando en cada sonido.
 
-*Respuesta esperada*: "pez". Retroalimentación: ¡bien hecho! Los sonidos son /p/-/e/-/z/: revisa que hayas puesto una letra para cada sonido.
+*Respuesta esperada*: "pez". Retroalimentación: ¡bien hecho! La palabra "pez" se escribe con tres letras, p-e-z: revisa que hayas puesto una letra para cada sonido.
 
 ---
 
 ## Glosario
 
-- **Consonante**: letra que no es vocal (a, e, i, o, u); necesita una vocal para formar una sílaba (por ejemplo, "m" en "mano").
+- **Consonante**: letra que no es vocal (las vocales son a, e, i, o, u); necesita una vocal para formar una sílaba (por ejemplo, "m" en "mano").
 - **Decodificación**: proceso de transformar las letras escritas en sonidos, para poder leer una palabra.
 - **Dígrafo**: dos letras que juntas representan un solo sonido, como **rr**, **ll**, **ch** y **qu**.
 - **Fonema**: la unidad mínima de sonido del habla que distingue significado (por ejemplo, el sonido /p/ en "pato" vs /b/ en "bato"); se representa con una letra o grupo de letras (grafema).

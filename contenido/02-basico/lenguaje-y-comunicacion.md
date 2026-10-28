@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 2° básico
+curso: 2° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 5, OA 7, OA 17
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 2° básico
@@ -85,7 +87,7 @@ c) "sapo"
 
 *Respuesta correcta: a.* Retroalimentación: en "grande" las letras "g" y "r" están juntas antes de la vocal "a", eso es un grupo consonántico, igual que "tr" en "tren" o "bl" en "blanco".
 
-**4. (Completar)** ¿Con qué letra se escribe el sonido /s/ antes de las vocales "e" o "i", como en la palabra "**cena**"?
+**4. (Alternativas)** ¿Con qué letra se escribe el sonido /s/ antes de las vocales "e" o "i", como en la palabra "**cena**"?
 
 a) "s"
 b) "c"
@@ -168,7 +170,7 @@ c) En el centro de Santiago
 
 *Respuesta correcta: b.* Retroalimentación: el cuento dice directamente "vive en un pueblo cerca de Puerto Montt, frente al mar".
 
-**2. (Verdadero o Falso — explícita)** Constanza es un niño alto y muy risueño.
+**2. (Verdadero o Falso — explícita)** Constanza es alta y muy risueña.
 
 *Respuesta correcta: Falso.* Retroalimentación: el cuento dice que **Benjamín** es alto y risueño; Constanza es más bien callada y le encanta dibujar. Cuidado con confundir a los personajes.
 
@@ -368,9 +370,9 @@ c) "grande" (no tiene un significado parecido)
 
 *Respuesta correcta: a.* Retroalimentación: ¡muy bien! "Hermoso" tiene un significado parecido a "bonito", así el texto suena menos repetitivo.
 
-**6. (Desarrollo breve — propósito y destinatario)** Escribe una oración corta para invitar a un compañero o compañera a jugar contigo en el recreo. No olvides la mayúscula, el punto y que la oración tenga sentido completo.
+**6. (Desarrollo breve — propósito y destinatario)** Escribe una oración corta para invitar a un compañero o compañera a jugar contigo en el recreo. No olvides la mayúscula inicial y el signo de puntuación final (punto o signos de interrogación).
 
-*Respuesta esperada*: cualquier oración con sentido, con propósito de invitación, mayúscula inicial y punto final; por ejemplo, "¿Quieres jugar conmigo en el recreo?" o "Te invito a jugar a la pelota en el recreo." Retroalimentación: ¡bien hecho! Revisa que tu oración tenga mayúscula al inicio, punto al final y que se entienda claramente qué le estás pidiendo a tu compañero o compañera.
+*Respuesta esperada*: cualquier oración con sentido, con propósito de invitación, mayúscula inicial y signo de puntuación final (punto o signos de interrogación); por ejemplo, "¿Quieres jugar conmigo en el recreo?" o "Te invito a jugar a la pelota en el recreo." Retroalimentación: ¡bien hecho! Revisa que tu oración tenga mayúscula al inicio y termine con punto o con signos de interrogación, y que se entienda claramente qué le estás pidiendo a tu compañero o compañera.
 
 **7. (Ortografía)** ¿Cuál de estas palabras está bien escrita?
 

@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 3° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 4, OA 5, OA 6, OA 10, OA 11, OA 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 3° Básico
@@ -537,8 +539,8 @@ escucharlo.
 
 3. **Clasificar sonidos según tono e intensidad.**
    ::emoji::🐦::cuatro instrumentos o fuentes de sonido — un tambor grande (grave y
-   fuerte), un silbato (agudo y fuerte), una campanita pequeña (agudo y débil) y un
-   susurro (grave y débil)::
+   fuerte), un silbato (agudo y fuerte), una campanita pequeña (agudo y débil) y una
+   nota grave de piano (grave y débil)::
    Un mismo sonido se puede describir usando dos características a la vez: su tono
    (agudo o grave) y su intensidad (fuerte o débil), que son independientes entre sí.
 
@@ -663,8 +665,8 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
 
 **Banco de preguntas de autoevaluación**
 
-1. *(Alternativas)* ¿Cuál de los siguientes NO es un planeta, sino un cuerpo rocoso
-   más pequeño que suele agruparse entre Marte y Júpiter?
+1. *(Alternativas)* ¿Cuál de los siguientes es un cuerpo rocoso, más pequeño que
+   los planetas, que suele agruparse entre Marte y Júpiter?
    a) Un cometa
    b) Un asteroide
    c) Una luna
@@ -771,7 +773,7 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
    el día y la noche?
    a) La traslación
    b) La rotación
-   c) La órbita del Sol
+   c) La inclinación del eje terrestre
    d) Las fases de la Luna
    **Respuesta correcta:** b) La rotación.
    **Retroalimentación:** ¡Correcto! La rotación es el giro de la Tierra sobre su
