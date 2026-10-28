@@ -2,8 +2,12 @@
 asignatura: Lenguaje y Comunicación
 curso: 5° básico
 unidad: 1
-oa_cubiertos: OA N°4, OA N°5, OA N°6
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+oa_evaluados: OA N°4, OA N°5, OA N°6
 basado_en: contenido/05-basico/lenguaje-y-comunicacion.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lenguaje y Comunicación (5° básico)
@@ -23,7 +27,7 @@ N°6 (Comprendo textos no literarios para conocer el mundo).
 
 ## Parte A — OA N°4: Narraciones
 
-**1. (Alternativas)** En el Texto 1, ¿qué característica sicológica de Catalina es relevante para el desarrollo de la historia?
+**1. (Alternativas)** En el Texto 1, ¿qué característica psicológica de Catalina es relevante para el desarrollo de la historia?
 
 a) Es alta y de pelo largo
 b) Al principio es impaciente, pero luego aprende a tener paciencia

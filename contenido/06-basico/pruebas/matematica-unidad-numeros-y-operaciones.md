@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones
-curso: 6° Básico
 asignatura: Matemática
+curso: 6° Básico
 eje: Eje 1 — Números y Operaciones
+tipo: Prueba de unidad
+título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
 fuente: contenido/06-basico/matematica.md (banco de preguntas por OA)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática 6° Básico
@@ -40,7 +43,7 @@ d) 1:5
 a) 4/100
 b) 40/10
 c) 2/5
-d) 4/10 solamente
+d) 4/5
 
 **Pregunta 6 (problema en contexto — descuento).** Una polera cuesta $12.000 y tiene un descuento del 25%. ¿Cuánto dinero se descuenta?
 a) $2.500
@@ -62,7 +65,7 @@ d) 1 3/5
 a) 5 1/2
 b) 5 2/9
 c) 5 1/3
-d) 5 2/6 solamente
+d) 5 1/6
 
 **Pregunta 11 (problema de aplicación — decimales).** Un corredor registró un tiempo de 12,846 segundos en una carrera, y otro corredor fue 0,097 segundos más lento. ¿Cuál fue el tiempo del segundo corredor?
 

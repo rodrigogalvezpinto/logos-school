@@ -2,9 +2,11 @@
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
 eje: Historia (OA 2, OA 3, OA 6, OA 7)
-tipo: Prueba de unidad (NO es el examen simulacro)
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
 basado_en: contenido/05-basico/historia-geografia-y-cs-sociales.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de unidad — Eje Historia

@@ -2,9 +2,12 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 5° Básico
 unidad: 2 — Writing (Expresión escrita)
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
 oa_evaluados: OA 14, OA 15
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Inglés, 5° Básico
@@ -37,8 +40,8 @@ a) Hello,
 b) From,
 c) Where,
 d) And
-**4.** *(Verdadero o falso)* En una lista de compras (*shopping list*), es
-correcto escribir: *"I need a dog and a cat."*
+**4.** *(Verdadero o falso)* ¿Es un ejemplo adecuado para una lista de compras de
+alimentos escribir: *"I need a dog and a cat."*?
 
 **5.** *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"My name is
 ___. I am ___ years old. I like ___."* Escribe tu propia versión.
@@ -82,10 +85,10 @@ d) Where is the cat?
 2. **sunny.** Si el clima combina con ir a la playa, lo más coherente es un día
    soleado (aunque *rainy* o *cold* también serían gramaticalmente correctas en
    otro contexto).
-3. **b) From,.** Se usa para firmar cartas y postales antes del nombre de quien
+3. **b) From.** Se usa para firmar cartas y postales antes del nombre de quien
    escribe.
 4. **False (Falso).** Aunque esté bien escrito gramaticalmente, no corresponde a
-   una lista de compras típica de alimentos u objetos.
+   una lista de compras de alimentos.
 5. **Respuesta personal**, por ejemplo: *"My name is Juan. I am eleven years old.
    I like soccer."* Se evalúa que cada espacio tenga el tipo de información
    correcta: nombre, edad (número) y un gusto.

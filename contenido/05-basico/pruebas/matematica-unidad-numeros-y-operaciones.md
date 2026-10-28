@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Números y Operaciones
 asignatura: Matemática
 curso: 5° Básico
 eje: Números y Operaciones (OA 1, 3, 4, 6, 7, 10, 11, 13)
-tiempo sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Números y Operaciones (Matemática, 5° Básico)

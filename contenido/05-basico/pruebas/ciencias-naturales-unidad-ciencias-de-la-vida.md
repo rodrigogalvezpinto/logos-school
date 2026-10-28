@@ -1,10 +1,11 @@
 ---
-curso: 5° Básico
 asignatura: Ciencias Naturales
+curso: 5° Básico
 eje: Ciencias de la Vida (OA 1, 5, 6 y 7)
 tipo: Prueba de unidad
-tiempo_sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias de la Vida

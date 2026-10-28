@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Medición y Datos y Probabilidades
 asignatura: Matemática
 curso: 5° Básico
 eje: Medición y Datos y Probabilidades (OA 19, 22, 23, 24, 26)
-tiempo sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Medición y Datos y Probabilidades
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Medición y Datos y Probabilidades (Matemática, 5° Básico)

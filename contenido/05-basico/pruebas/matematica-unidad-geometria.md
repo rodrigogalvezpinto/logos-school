@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Geometría
 asignatura: Matemática
 curso: 5° Básico
 eje: Geometría (OA 17, 18)
-tiempo sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Geometría
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Geometría (Matemática, 5° Básico)

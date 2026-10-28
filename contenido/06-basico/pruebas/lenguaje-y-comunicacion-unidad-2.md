@@ -2,10 +2,12 @@
 asignatura: Lenguaje y Comunicación
 curso: 6° básico
 unidad: 2
-oa_evaluados: [7, 14, 15]
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
-tiempo_sugerido: 25-30 minutos
+oa_evaluados: [7, 14, 15]
 basado_en: contenido/06-basico/lenguaje-y-comunicacion.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lenguaje y Comunicación — 6° básico

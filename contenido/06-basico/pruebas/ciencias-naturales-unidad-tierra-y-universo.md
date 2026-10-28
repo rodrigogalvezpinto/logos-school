@@ -2,10 +2,12 @@
 asignatura: Ciencias Naturales
 curso: 6° básico
 unidad: Eje 3 — Ciencias de la Tierra y el Universo
-oa_evaluados: [16, 18]
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
-tiempo_sugerido: 25-30 minutos
+oa_evaluados: [16, 18]
 basado_en: contenido/06-basico/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias de la Tierra y el Universo — Ciencias Naturales — 6° básico

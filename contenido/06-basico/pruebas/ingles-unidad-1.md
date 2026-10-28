@@ -3,7 +3,9 @@ asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
 unidad: Unidad 1 — Reading (OA 5, 6 y 8)
 tipo: Prueba de unidad
-última actualización: 2026-08-11
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Inglés — Unidad 1: Reading

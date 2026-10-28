@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra
-curso: 6° Básico
 asignatura: Matemática
+curso: 6° Básico
 eje: Eje 2 — Patrones y Álgebra
+tipo: Prueba de unidad
+título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 12
 fuente: contenido/06-basico/matematica.md (banco de preguntas por OA)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática 6° Básico

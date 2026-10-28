@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 5° Básico
 eje: Patrones y Álgebra (OA 14, 15)
-tiempo sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Patrones y Álgebra (Matemática, 5° Básico)

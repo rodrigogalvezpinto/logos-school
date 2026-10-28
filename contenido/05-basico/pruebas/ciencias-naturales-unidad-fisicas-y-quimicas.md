@@ -1,10 +1,11 @@
 ---
-curso: 5° Básico
 asignatura: Ciencias Naturales
+curso: 5° Básico
 eje: Ciencias Físicas y Químicas (OA 10)
 tipo: Prueba de unidad
-tiempo_sugerido: 25-30 minutos
-última actualización: 2026-08-11
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias Físicas y Químicas

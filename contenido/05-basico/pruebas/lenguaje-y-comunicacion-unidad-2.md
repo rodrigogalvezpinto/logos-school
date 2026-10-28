@@ -2,8 +2,12 @@
 asignatura: Lenguaje y Comunicación
 curso: 5° básico
 unidad: 2
-oa_cubiertos: OA N°7, OA N°14, OA N°15
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
+oa_evaluados: OA N°7, OA N°14, OA N°15
 basado_en: contenido/05-basico/lenguaje-y-comunicacion.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lenguaje y Comunicación (5° básico)

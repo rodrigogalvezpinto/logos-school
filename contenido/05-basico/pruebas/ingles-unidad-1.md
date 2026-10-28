@@ -2,9 +2,12 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 5° Básico
 unidad: 1 — Reading (Comprensión de lectura)
+tipo: Prueba de unidad
+tiempo_sugerido: 25 a 30 minutos
+cantidad_preguntas: 12
 oa_evaluados: OA 5, OA 6, OA 8
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Inglés, 5° Básico
