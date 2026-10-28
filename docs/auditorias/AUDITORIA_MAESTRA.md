@@ -504,27 +504,28 @@ Mejoras editoriales opcionales (no bloquean publicación):
 
 ---
 
-## 11. PRUEBAS DE UNIDAD — 1.º A 6.º BÁSICO (2026-10-28)
+## 11. PRUEBAS DE UNIDAD — 1.º A 8.º BÁSICO (2026-10-28)
 
-Se auditaron las **76 pruebas de unidad** de 1.º a 6.º básico (12 por curso en
-1.º a 4.º y 14 en 5.º y 6.º, que incluyen Inglés). Cada archivo se leyó completo
+Se auditaron las **104 pruebas de unidad** de 1.º a 8.º básico (12 por curso en
+1.º a 4.º y 14 en 5.º a 8.º, que incluyen Inglés). Cada archivo se leyó completo
 y se contrastó pregunta por pregunta con su pauta.
 
 ### 11.1 Comprobaciones
 
 | Comprobación | Resultado |
 |---|---|
-| Archivos auditados | 76 / 76 |
-| Preguntas y respuestas de pauta coincidentes | 76 / 76 |
-| Alternativas coherentes con la clave | 76 / 76 |
-| Frontmatter normalizado | 76 / 76 |
-| Preguntas totales revisadas | 715 |
+| Archivos auditados | 104 / 104 |
+| Preguntas y respuestas de pauta coincidentes | 104 / 104 |
+| Alternativas coherentes con la clave | 104 / 104 |
+| Frontmatter normalizado | 104 / 104 |
+| Preguntas totales revisadas | 1.104 |
 
 Por curso: 1.º básico 85 preguntas, 2.º básico 88, 3.º básico 104, 4.º básico
-107, 5.º básico 166 y 6.º básico 165. En los 76 archivos el número de preguntas,
-el de respuestas de la pauta y el campo `cantidad_preguntas` coinciden.
+107, 5.º básico 166, 6.º básico 165, 7.º básico 192 y 8.º básico 197. En los 104
+archivos el número de preguntas, el de respuestas de la pauta y el campo
+`cantidad_preguntas` coinciden.
 
-### 11.2 Defectos corregidos
+### 11.2 Defectos corregidos en 1.º a 6.º básico
 
 1. **1.º básico, Historia, pregunta 1:** la alternativa marcada como correcta
    era «Dormir toda la noche», que no responde a «¿Qué haces primero en la
@@ -560,9 +561,23 @@ preguntas»: las dos pruebas de Lenguaje de 1.º básico y las tres de Historia 
 4.º básico ahora indican puntos (1 por pregunta). En 5.º básico se corrigió
 «sicológica» por «psicológica» (Lenguaje unidad 1, pregunta 1).
 
-### 11.3 Normalización de frontmatter
+### 11.3 Defectos corregidos en 7.º y 8.º básico
 
-Las 76 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
+1. **7.º básico, Matemática, Números y Operaciones, pregunta 6:** la alternativa
+   «2/14» era equivalente a la clave «1/7». Se reemplazó por «2/7».
+2. **8.º básico, Matemática, Números y Operaciones, pregunta 5:** la alternativa
+   «−6/12» era equivalente a la clave «−1/2». Se reemplazó por «−6/7», tanto en
+   la prueba como en la guía de Matemática del curso.
+3. **8.º básico, Lengua y Literatura unidad 1, pregunta 15:** la pauta situaba el
+   terremoto de Valdivia de 1960 en la «madrugada», pero el relato y el sismo real
+   corresponden a la tarde del 22 de mayo. Se corrigió a «tarde».
+4. **8.º básico, Lengua y Literatura unidad 1, pregunta 2:** la pauta decía
+   «curiosidad poco tactosa». Se reemplazó por «curiosidad poco discreta» en la
+   prueba y en la guía del curso.
+
+### 11.4 Normalización de frontmatter
+
+Las 104 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
 `eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en`, `fuente` u
 `oa_evaluados`, y `ultima_actualizacion`. Se eliminaron las variantes con espacio
 (`tiempo sugerido`, `cantidad de preguntas`, `OA evaluados`, `eje temático`,
@@ -570,12 +585,18 @@ Las 76 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
 agregaron `tipo` y `cantidad_preguntas` donde faltaban y se unificó el valor
 `tipo: Prueba de unidad`.
 
-Las **80 pruebas restantes** (7.º básico a 4.º medio) conservan esas variantes;
-se normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
+En 7.º y 8.º básico se agregó además `oa_evaluados` y `basado_en` a las pruebas
+de Historia, Matemática e Inglés que no tenían trazabilidad, tomando los OA de la
+guía del curso, y se corrigieron las rutas de `basado_en` de Ciencias Naturales
+(«Banco de autoevaluación…» pasó a `contenido/0X-basico/ciencias-naturales.md`).
+Los valores «1 de 2» y «2 de 2» del campo `unidad` se redujeron a «1» y «2».
 
-### 11.4 Estado
+Las **52 pruebas restantes** (1.º a 4.º medio) conservan esas variantes; se
+normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
 
-La matriz CSV marca las 76 filas como `revalidado`, con bytes y blob SHA del
-commit `60af602` y la evidencia en `observaciones`. El estado global queda en
-**158 pendientes y 132 revalidados**; ya no hay filas en
+### 11.5 Estado
+
+La matriz CSV marca las 104 filas como `revalidado`, con bytes y blob SHA del
+commit `ce3ec76` y la evidencia en `observaciones`. El estado global queda en
+**130 pendientes y 160 revalidados**; ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
