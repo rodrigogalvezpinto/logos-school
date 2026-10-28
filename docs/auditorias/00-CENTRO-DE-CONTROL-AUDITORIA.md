@@ -201,7 +201,7 @@ La reconciliación documental de los 11 cambios de la bitácora ya se completó 
 
 ## 15. Estado verificado al 28 de octubre de 2026 — rama `main`
 
-Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el HEAD `d6eca32`, después de integrar el PR #8 y de revalidar los 6 archivos no-examen.
+Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el commit de contenido `d6eca32` (commit documental `1788f5f`), después de integrar el PR #8 y de revalidar los 6 archivos no-examen.
 
 ### 15.1 Regla de trabajo
 
