@@ -91,7 +91,7 @@ d) La decisión del narrador de mudarse a Quirihue
 
 **2. (Desarrollo breve)** Describe cómo evoluciona el narrador (el sobrino) a lo largo del relato en su relación con su tío Custodio.
 
-*Respuesta esperada*: el narrador pasa de la incomprensión y la curiosidad poco tactosa de la adolescencia, compartiendo en parte el prejuicio del pueblo, a una mirada adulta, autocrítica y comprensiva, al descubrir después de la muerte de Custodio el verdadero motivo de su forma de vivir. Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio del relato con cómo termina, y no solo repetir lo que hizo.
+*Respuesta esperada*: el narrador pasa de la incomprensión y la curiosidad poco discreta de la adolescencia, compartiendo en parte el prejuicio del pueblo, a una mirada adulta, autocrítica y comprensiva, al descubrir después de la muerte de Custodio el verdadero motivo de su forma de vivir. Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio del relato con cómo termina, y no solo repetir lo que hizo.
 
 **3. (Verdadero o Falso)** El narrador del fragmento y el autor de la novela *Las llaves de la casa vieja* son necesariamente la misma persona, con las mismas ideas y experiencias.
 

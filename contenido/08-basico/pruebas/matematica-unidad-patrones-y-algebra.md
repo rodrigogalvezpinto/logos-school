@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra
-curso: 8° Básico
 asignatura: Matemática
+curso: 8° Básico
 eje: Patrones y Álgebra (OA 8, OA 10)
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 8, OA 10
+basado_en: contenido/08-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 2: Patrones y Álgebra

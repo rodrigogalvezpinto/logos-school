@@ -1,10 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 8° básico
-unidad: 1 de 2
-oa_cubiertos: N°3, N°4, N°8
+unidad: 1
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: N°3, N°4, N°8
 fuente: contenido/08-basico/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 8° básico
@@ -94,7 +97,7 @@ d) La erupción del volcán Chaitén de 2008
 
 **1.** b) La tensión entre la imagen de "tacaño" que el pueblo construye de Custodio y la verdadera razón, oculta, de su forma de vivir. *Retroalimentación: el conflicto central organiza toda la historia y explica tanto las acciones de Custodio como la evolución de la mirada del narrador hacia él.*
 
-**2.** *Respuesta esperada*: el narrador pasa de la incomprensión y la curiosidad poco tactosa de la adolescencia, compartiendo en parte el prejuicio del pueblo, a una mirada adulta, autocrítica y comprensiva, al descubrir después de la muerte de Custodio el verdadero motivo de su forma de vivir. *Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio del relato con cómo termina, y no solo repetir lo que hizo.*
+**2.** *Respuesta esperada*: el narrador pasa de la incomprensión y la curiosidad poco discreta de la adolescencia, compartiendo en parte el prejuicio del pueblo, a una mirada adulta, autocrítica y comprensiva, al descubrir después de la muerte de Custodio el verdadero motivo de su forma de vivir. *Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio del relato con cómo termina, y no solo repetir lo que hizo.*
 
 **3.** Falso. *Retroalimentación: el narrador es una voz construida dentro del relato (en este caso, un personaje que participa en la historia), mientras que el autor es la persona real que escribió la novela; ambos pueden pensar distinto y no deben confundirse.*
 
@@ -120,5 +123,5 @@ d) La erupción del volcán Chaitén de 2008
 
 **14.** *Respuesta esperada*: el relato transmite una visión de mundo donde la solidaridad y la ayuda mutua frente a una catástrofe se valoran incluso por sobre la seguridad individual inmediata; esta interpretación es coherente porque se sustenta directamente en la decisión de Marisol y su madre de detenerse a rescatar a don Aurelio, y no en una idea que el texto no muestre. *Retroalimentación: una interpretación es coherente con el análisis cuando puede respaldarse con hechos concretos del propio relato, y no solo con una impresión general del lector.*
 
-**15.** b) El terremoto y maremoto de Valdivia de 1960. *Retroalimentación: el texto sitúa explícitamente los hechos en la madrugada del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden directamente al terremoto de mayor magnitud jamás registrado en el mundo.*
+**15.** b) El terremoto y maremoto de Valdivia de 1960. *Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden directamente al terremoto de mayor magnitud jamás registrado en el mundo.*
 </content>

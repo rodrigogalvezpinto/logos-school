@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Números y Operaciones
 asignatura: Matemática
 curso: 7° Básico
 eje: Eje 1 — Números y Operaciones
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 1, OA 3, OA 4
+basado_en: contenido/07-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática 7° Básico
@@ -36,7 +40,7 @@ d) 32
 
 **Pregunta 6 (alternativas).** Calcula: 1/2 × 2/7.
 a) 3/9
-b) 2/14
+b) 2/7
 c) 1/7
 d) 2/9
 

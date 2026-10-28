@@ -2,10 +2,13 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 8° Básico
 unidad: Unidad 2 — Writing (OA 13, OA 16)
-tipo: prueba de unidad (no es examen simulacro)
-tiempo_sugerido: 30-35 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 13, OA 16
+fuente: contenido/08-basico/ingles.md
+ultima_actualizacion: 2026-10-28
 diccionario: permitido
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad 2 — Inglés, 8° Básico

@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Formación Ciudadana
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
 eje: Eje 3 — Formación Ciudadana
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Formación Ciudadana
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+oa_evaluados: OA 18, OA 19, OA 20
+basado_en: contenido/07-basico/historia-geografia-y-cs-sociales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Historia, Geografía y Ciencias Sociales 7° Básico

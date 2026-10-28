@@ -1,10 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 7° básico
-unidad: 2 de 2
-oa_cubiertos: N°8, N°9, N°15
+unidad: 2
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+oa_evaluados: N°8, N°9, N°15
 fuente: contenido/07-basico/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 7° básico

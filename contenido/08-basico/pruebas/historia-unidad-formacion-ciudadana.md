@@ -2,8 +2,12 @@
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
 eje: Formación Ciudadana
-tipo: prueba de unidad
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 12
+oa_evaluados: OA 18
+basado_en: contenido/08-basico/historia-geografia-y-cs-sociales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de unidad — Eje Formación Ciudadana (8° Básico)

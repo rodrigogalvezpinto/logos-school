@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 7° Básico
 eje: Eje 2 — Patrones y Álgebra
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 6, OA 8
+basado_en: contenido/07-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática 7° Básico

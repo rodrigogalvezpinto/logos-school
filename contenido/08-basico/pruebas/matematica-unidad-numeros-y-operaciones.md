@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones
-curso: 8° Básico
 asignatura: Matemática
+curso: 8° Básico
 eje: Números y Operaciones (OA 1, OA 2, OA 3, OA 4)
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 1, OA 2, OA 3, OA 4
+basado_en: contenido/08-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 1: Números y Operaciones
@@ -26,7 +30,7 @@ d) 13
 **Pregunta 5 (alternativas).** Calcula: −2/3 × 3/4.
 a) −1/2
 b) 1/2
-c) −6/12
+c) −6/7
 d) −5/7
 
 **Pregunta 6 (calcular — decimales).** Calcula: −4,5 × 2,4.

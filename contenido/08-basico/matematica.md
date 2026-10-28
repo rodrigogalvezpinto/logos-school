@@ -149,7 +149,7 @@ Como fracción: −3/2. Como decimal: **−1,5**. Si la variación total en 3 me
 **Pregunta 1 (alternativas).** Calcula: −2/3 × 3/4.
 a) −1/2
 b) 1/2
-c) −6/12
+c) -6/7
 d) −5/7
 
 **Respuesta correcta: a) −1/2.**

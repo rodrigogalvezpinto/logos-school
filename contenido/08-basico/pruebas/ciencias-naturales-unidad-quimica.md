@@ -1,10 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 8° Básico
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 3 — Química (OA 12, OA 14)
-basado_en: Banco de autoevaluación 08-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+basado_en: contenido/08-basico/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: QUÍMICA

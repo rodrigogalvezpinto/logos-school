@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Historia
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
 eje: Eje 1 — Historia
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Historia
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 2, OA 3, OA 6, OA 7, OA 9, OA 12, OA 13, OA 16
+basado_en: contenido/07-basico/historia-geografia-y-cs-sociales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Historia, Geografía y Ciencias Sociales 7° Básico

@@ -1,10 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 7° Básico
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 2 — Física (OA 7, OA 9)
-basado_en: Banco de autoevaluación 07-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 12
+basado_en: contenido/07-basico/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: FÍSICA

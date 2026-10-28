@@ -1,10 +1,13 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 7° básico
-unidad: 1 de 2
-oa_cubiertos: N°9, N°10
+unidad: 1
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: N°9, N°10
 fuente: contenido/07-basico/ingles.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Inglés (Reading), 7° básico

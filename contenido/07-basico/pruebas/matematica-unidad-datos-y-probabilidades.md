@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Datos y Probabilidades
 asignatura: Matemática
 curso: 7° Básico
 eje: Eje 4 — Datos y Probabilidades
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Datos y Probabilidades
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 16, OA 18
+basado_en: contenido/07-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática 7° Básico

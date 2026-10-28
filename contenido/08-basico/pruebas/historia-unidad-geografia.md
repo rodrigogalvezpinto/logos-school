@@ -2,8 +2,12 @@
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
 eje: Geografía
-tipo: prueba de unidad
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+oa_evaluados: OA 20, OA 21, OA 22
+basado_en: contenido/08-basico/historia-geografia-y-cs-sociales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de unidad — Eje Geografía (8° Básico)
