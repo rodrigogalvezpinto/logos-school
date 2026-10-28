@@ -29,7 +29,8 @@ texto con calma antes de responder.
    c) Leonardo da Vinci only painted portraits.
    d) Leonardo da Vinci never studied science.
 2. *(Completar)* Complete: *"This text is ___ the history of chocolate. It
-   explains ___ cacao was used by ancient civilizations."* (about / how)
+   explains ___ cacao was used by ancient civilizations."* Usa cada palabra del
+   banco una vez, en el orden que corresponda: (how / about).
 
 3. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 6% to 9% of
    the world's oxygen and is home to millions of species."* Statement: *The
@@ -39,7 +40,7 @@ texto con calma antes de responder.
    the first time. Millions of people watched the event on television."*
    Answer: *When did astronauts first land on the Moon?*
 
-5. *(Emparejar)* Relaciona la pregunta con el tipo de información que busca:
+5. *(Selección — dos opciones)* Relaciona la pregunta con el tipo de información que busca:
    *"How many people watched the event?"* → ¿"información específica (cifra)"
    o "idea general"?
 
@@ -73,9 +74,9 @@ texto con calma antes de responder.
     shows a problem-solution relationship.*
 
 11. *(Completar)* Complete with the correct antonym using a prefix: *"He was
-    very ___ (responsible) with his money and lost his job."* (use ir-)
+    very ___ (responsible) with his money and lost all his savings."* (use ir-)
 
-12. *(Emparejar)* Relaciona la palabra base con su sustantivo de ocupación:
+12. *(Selección — dos opciones)* Relaciona la palabra base con su sustantivo de ocupación:
     *"violin"* → ¿"violinist" o "violiner"?
 
 13. *(Responder en inglés)* Read: *"I need to make a decision about which

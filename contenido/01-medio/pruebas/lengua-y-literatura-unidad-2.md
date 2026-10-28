@@ -22,7 +22,7 @@ Antes de responder, lee con atención los textos de práctica de cada sección.
 
 ## Texto 1 (preguntas 1 a 5): columna de opinión "Celulares guardados, ¿mentes más despiertas?"
 
-> Desde que entró en vigencia, en varios establecimientos de Chile, la restricción al uso de celulares dentro de la sala de clases, el debate no ha parado. ¿De verdad guardar el celular en un casillero durante ocho horas mejora la concentración de un estudiante, o es solo una medida que da la sensación de estar "haciendo algo" frente a un problema mucho más complejo?
+> Desde que entró en vigencia en varios establecimientos de Chile la restricción al uso de celulares dentro de la sala de clases, el debate no ha parado. ¿De verdad guardar el celular en un casillero durante ocho horas mejora la concentración de un estudiante, o es solo una medida que da la sensación de estar "haciendo algo" frente a un problema mucho más complejo?
 >
 > Un estudio de la Universidad de Chile, citado por el Ministerio de Educación en 2024, mostró que los establecimientos que restringieron el uso del celular durante la jornada reportaron una mejora promedio del 15% en la percepción docente sobre la concentración de sus estudiantes. Es un dato relevante, pero conviene preguntarse: ¿esa mejora se debe únicamente a la ausencia del celular, o también influyen otros cambios que suelen acompañar este tipo de medidas, como mayor acompañamiento docente o cambios en la metodología de las clases?
 >
@@ -76,7 +76,7 @@ d) Explicar en detalle el proceso de licitación de la obra
 
 **8. (Aplicación)** Explica qué efecto produce la fotografía elegida para el Texto A (la alcaldesa sonriente junto a niños con cascos nuevos, con la pista vacía de fondo) en la percepción del lector sobre la obra.
 
-**9. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre la nueva pista de skate?
+**9. (Alternativas)** ¿Qué evidencia muestra principalmente la comparación entre el Texto A y el Texto B sobre la nueva pista de skate?
 
 a) Que uno de los dos textos miente completamente
 b) Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
@@ -93,7 +93,7 @@ d) Que los municipios nunca informan con cifras reales
 >
 > Existe evidencia de que la restricción produce efectos positivos: según un estudio de la Universidad de Chile citado por el Ministerio de Educación (2024), los establecimientos que implementaron esta medida reportaron "una mejora promedio del 15% en la percepción docente sobre la concentración de sus estudiantes". Sin embargo, este mismo estudio no permite descartar que otros factores —como un mayor acompañamiento docente durante la implementación— también hayan influido en ese resultado, lo que sugiere que el celular no es la única variable en juego.
 >
-> Alguien podría argumentar que basta con eliminar la tentación inmediata del celular para resolver el problema. No obstante, esta postura ignora que la concentración es también una habilidad que se aprende: así como el personaje de Wenceslao, en el relato "El bote de mi abuelo", le pide a su nieto que decida "porque lo respeta, no porque le teme a lo que diga la gente", una regulación tecnológica sostenible en el tiempo requiere que los propios estudiantes comprendan por qué es útil regular su uso del celular, y no solo que obedezcan una norma impuesta desde fuera del aula.
+> Alguien podría argumentar que basta con eliminar la tentación inmediata del celular para resolver el problema. No obstante, esta postura ignora que la concentración es también una habilidad que se aprende: así como el personaje de Wenceslao, en el relato "El bote de mi abuelo", le pide a su nieto que decida "porque lo respetás, no porque le tenís miedo a lo que diga la gente", una regulación tecnológica sostenible en el tiempo requiere que los propios estudiantes comprendan por qué es útil regular su uso del celular, y no solo que obedezcan una norma impuesta desde fuera del aula.
 >
 > En conclusión, la restricción del celular en la sala de clases es un primer paso razonable, pero su efecto real depende de que se acompañe de espacios formativos sobre el uso responsable de la tecnología, de manera que los y las estudiantes desarrollen una regulación propia que se sostenga incluso fuera del horario escolar.
 

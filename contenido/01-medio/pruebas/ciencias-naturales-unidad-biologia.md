@@ -162,7 +162,7 @@ limitaciones tiene esta medida?
 7. Como las especies de una comunidad están interconectadas mediante interacciones
    biológicas (como el mutualismo entre polinizadores y plantas), la desaparición de
    la población de un polinizador puede reducir la reproducción de las plantas que
-   dependía de él, afectando la disponibilidad de alimento o refugio para otras
+   dependían de él, afectando la disponibilidad de alimento o refugio para otras
    poblaciones de la comunidad, e incluso alterando el ecosistema completo.
 8. b) La fotosíntesis. Mediante la fotosíntesis, los productores capturan CO₂
    atmosférico y lo transforman en materia orgánica, iniciando el paso del carbono

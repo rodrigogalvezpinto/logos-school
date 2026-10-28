@@ -75,7 +75,7 @@ del año, no solo el vocabulario.
     years, but he ___ (retire) three years ago."* (usa presente perfecto y
     pasado simple)
 
-14. *(Completar — desafiante)* Complete with a compound word or collocation:
+14. *(Completar — desafiante)* Complete with the missing words:
     *"She decided to ___ for a ___ job at the local hospital to gain
     experience while studying."* (apply / part-time)
 
