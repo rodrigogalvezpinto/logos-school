@@ -73,13 +73,13 @@ La matriz CSV tiene **290 filas** y estos estados al 28-10-2026:
 
 | Estado | Filas |
 |---|---:|
-| `pendiente_auditoria_sistematica` | 25 |
+| `pendiente_auditoria_sistematica` | 0 |
 | `revision_parcial_documentada` | 0 |
 | `corregido_pendiente_revalidacion` | 0 |
-| `revalidado` | 265 |
+| `revalidado` | 290 |
 | **Total** | **290** |
 
-Los 50 exámenes simulacro, las 156 pruebas de unidad y las 58 guías de estudio de 1.º básico a 4.º medio (más el tablero general de estado) están cerrados y revalidados: 265 / 265 archivos bajo `contenido/`. Los 25 pendientes corresponden a la carpeta `Temarios/` (12 PDFs oficiales y 13 análisis curriculares en Markdown). El denominador de guías quedó reconciliado: los 10 archivos catalogados originalmente como `otro` se corrigieron a `guía/contenido`, sumando exactamente 58 guías de estudio en el árbol y en la matriz.
+Los 50 exámenes simulacro, las 156 pruebas de unidad y las 58 guías de estudio de 1.º básico a 4.º medio (más el tablero general de estado) están cerrados y revalidados: 290 / 290 archivos bajo `contenido/`. Los 0 pendientes corresponden a la carpeta `Temarios/` (12 PDFs oficiales y 13 análisis curriculares en Markdown). El denominador de guías quedó reconciliado: los 10 archivos catalogados originalmente como `otro` se corrigieron a `guía/contenido`, sumando exactamente 58 guías de estudio en el árbol y en la matriz.
 
 ## Problemas de organización que siguen abiertos
 

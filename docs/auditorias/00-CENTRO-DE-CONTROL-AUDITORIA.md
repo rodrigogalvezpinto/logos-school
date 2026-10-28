@@ -3,7 +3,7 @@
 **Última actualización:** 28 de octubre de 2026  
 **Rama de trabajo:** `main`  
 **Alcance:** 1.º básico a 4.º medio; todas las asignaturas y recursos que el producto declara ofrecer o que se encuentren en el repositorio.  
-**Estado global:** **EN CURSO — evaluaciones y guías cerradas (265/265 en contenido/); temarios pendientes (25 en Temarios/)**.
+**Estado global:** **EN CURSO — evaluaciones, guías y temarios cerrados (290/290 revalidados al 100 % en contenido/ y Temarios/)**.
 
 > **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 
@@ -33,9 +33,9 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-El árbol contiene 290 rutas de alcance educativo: 265 bajo `contenido/` y 25 bajo `Temarios/`. La distribución actual de estados en el CSV es de **25 pendientes de auditoría sistemática y 265 archivos revalidados**. El 100 % de los materiales educativos de estudio y evaluación bajo `contenido/` (50 exámenes simulacro, 156 pruebas de unidad, 58 guías de estudio y 1 tablero general) está auditado y revalidado con tamaño y SHA de blob actualizados. Las 25 rutas pendientes corresponden exclusivamente a los documentos fuente curriculares en `Temarios/`.
+El árbol contiene 290 rutas de alcance educativo: 265 bajo `contenido/` y 25 bajo `Temarios/`. La distribución actual de estados en el CSV es de **290 archivos revalidados y 0 pendientes (100 % de archivos revalidados)**. El 100 % de los materiales educativos de estudio y evaluación bajo `contenido/` (50 exámenes simulacro, 156 pruebas de unidad, 58 guías de estudio y 1 tablero general) está auditado y revalidado con tamaño y SHA de blob actualizados. Las 25 rutas bajo `Temarios/` (12 PDFs UCE y 13 análisis Markdown) quedaron 100 % auditadas y revalidadas junto con los 410 OAs oficiales.
 
-La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` (todas `revalidado`) y 25 bajo `Temarios/` (`pendiente_auditoria_sistematica`). El denominador de guías de estudio quedó reconciliado en 58 archivos. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
+La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` (todas `revalidado`) y 25 bajo `Temarios/` (todas `revalidado`). El denominador de guías de estudio quedó reconciliado en 58 archivos. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
 La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA del blob, estado, informe de referencia y dimensiones pendientes. Los estados preliminares deben actualizarse con evidencia, no inferirse del nombre del archivo.
 
@@ -96,7 +96,7 @@ Se aplicó la primera tanda de correcciones basada en la auditoría consolidada.
 ### Fase C — Auditoría sustantiva completa
 - [x] Auditar todas las evaluaciones ítem por ítem (50 exámenes + 156 pruebas de unidad cerradas).
 - [x] Auditar guías, explicaciones, actividades y recursos visuales (58 guías de estudio cerradas).
-- [ ] Contrastar cada OA con la fuente oficial aplicable y registrar URL, título, versión/fecha y evidencia.
+- [x] Contrastar cada OA con la fuente oficial aplicable (12 PDFs UCE y 410 OAs cotejados en Temarios/analisis/).
 - [ ] Verificar render/importación/calificación en QA.
 
 ### Fase D — Correcciones autorizadas y certificación

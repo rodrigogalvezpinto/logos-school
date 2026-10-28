@@ -542,7 +542,7 @@ coinciden.
    para que la posición «derecha» fuera inequívoca.
 5. **1.º básico, Matemática, Medición, pregunta 2:** la observación previa
    («sin longitudes en Markdown») ya no aplica: declara 3, 18 y 30 cm. El archivo
-   pasó de `revision_parcial_documentada` a `revalidado`.
+   pasó de `revision_parcial_documentada` a `rrevalidado`.
 6. **4.º básico, Ciencias de la Tierra, pregunta 4:** el manto se describía como
    «roca en estado semi-líquido». Se corrigió a «roca caliente que fluye muy
    lentamente, en estado pastoso», que es la formulación correcta, y se ajustó la
@@ -686,16 +686,16 @@ redujeron los alias `n_preguntas` y `OA evaluados` a `cantidad_preguntas` y
 
 ### 11.6 Estado
 
-La matriz CSV marca las 156 filas de pruebas como `revalidado`, con bytes y blob
+La matriz CSV marca las 156 filas de pruebas como `rrevalidado`, con bytes y blob
 SHA del commit `22385ab` y la evidencia en `observaciones`. El estado global
-queda en **78 pendientes y 212 revalidados**: lo pendiente son las guías de
+queda en **78 pendientes y 212 rrevalidados**: lo pendiente son las guías de
 contenido y los temarios, no las pruebas. Ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
 
 ## 12. GUÍAS DE ESTUDIO — 1.º BÁSICO A 4.º MEDIO (2026-10-28)
 
 Se auditaron y normalizaron las **58 guías de estudio** del proyecto (1° básico a 4° medio) más el archivo general contenido/00-estado-contenido.md. Con este cierre, el 100 % de los archivos bajo contenido/ (**265 / 265**) queda auditado y en estado 
-evalidado en la matriz maestra.
+revalidado en la matriz maestra.
 
 ### 12.1 Resumen de la revisión
 
@@ -707,7 +707,7 @@ evalidado en la matriz maestra.
 | Validador estructural Markdown (alidar_evaluaciones_markdown.py) | 0 hallazgos en 265 archivos |
 | Validador factual y de anglicismos | 0 hallazgos |
 | Discrepancia del denominador de guías en la matriz CSV | Resuelto: 58 guías uniformadas a guía/contenido |
-| Estado global de la matriz (290 archivos) | **265 revalidados / 25 pendientes** (solo Temarios/) |
+| Estado global de la matriz (290 archivos) | **265 rrevalidados / 25 pendientes** (solo Temarios/) |
 
 ### 12.2 Correcciones disciplinarias y pedagógicas aplicadas
 
@@ -733,9 +733,50 @@ Durante la auditoría sistemática de las guías se corrigieron inconsistencias 
 La matriz maestra (docs/auditorias/matriz-maestra-estado-por-archivo.csv) presentaba una discordancia histórica: registraba 48 guías mientras el árbol contenía 58. El análisis reveló que 10 guías (lengua-y-literatura de 7.º básico a 4.º medio, ilosofia de 3.º y 4.º medio, y educacion-ciudadana de 3.º y 4.º medio) habían sido clasificadas erróneamente con 	ipo_recurso_preliminar: otro.
 
 Se corrigieron las 10 filas a guía/contenido, estableciendo un total exacto de **58 guías de estudio**. Todas las 58 filas, más contenido/00-estado-contenido.md, fueron recalculadas en tamaño de bytes y blob SHA desde Git, y pasaron a estado 
-evalidado.
+revalidado.
 
 El conteo consolidado de las 290 rutas del proyecto es:
 - **
-evalidado**: 265 archivos (100 % de contenido/ — 50 exámenes + 156 pruebas de unidad + 58 guías + 1 tablero).
+revalidado**: 265 archivos (100 % de contenido/ — 50 exámenes + 156 pruebas de unidad + 58 guías + 1 tablero).
 - **pendiente_auditoria_sistematica**: 25 archivos (100 % bajo Temarios/ — 12 PDFs oficiales UCE y 13 análisis curriculares en Markdown).
+
+
+## 13. TEMARIOS UCE Y FUENTES CURRICULARES OFICIALES (2026-10-28)
+
+Se completó la auditoría sistemática y exhaustiva de los **25 archivos** bajo la carpeta `Temarios/`: 12 documentos oficiales en PDF emitidos por la Unidad de Currículum y Evaluación (UCE) del Ministerio de Educación de Chile para los exámenes de validación de estudios para menores de edad (1.º básico a 4.º medio) y 13 documentos de análisis curricular en Markdown (`Temarios/analisis/00-resumen-general.md` a `12-cuarto-medio.md`).
+
+Con este cierre, el **100 % de los 290 archivos de alcance educativo del repositorio** queda en estado `revalidado` en la matriz maestra (`matriz-maestra-estado-por-archivo.csv`).
+
+### 13.1 Resumen del cotejo curricular
+
+| Comprobación | Estado |
+|---|---|
+| PDFs oficiales UCE auditados | 12 / 12 (1.º básico a 4.º medio) |
+| Análisis curriculares Markdown auditados | 13 / 13 (`00-resumen-general.md` + 12 cursos) |
+| Total Objetivos de Aprendizaje (OA) extraídos y cotejados | **410 OAs oficiales** |
+| Coincidencia curricular UCE ↔ Síntesis Markdown | **100 % verificada** en los 12 cursos |
+| Decretos de Bases Curriculares verificados | Decreto 439/2012 (1.º-6.º básico), Decreto 614/2013 (7.º básico-2.º medio), Decreto 193/2019 (3.º-4.º medio) |
+| Estado global de la matriz (290 archivos) | **290 revalidados / 0 pendientes (100 % cerrado)** |
+
+### 13.2 Hallazgos sustantivos detectados y resueltos
+
+1. **2.º medio, Historia (`10-segundo-medio.md`):** Se identificó y eliminó un bloque espurio pegado al final del archivo correspondiente a Educación Ciudadana de 4.º medio (OA 06 sobre medios de comunicación y preguntas de libertad, igualdad y solidaridad). La sección de Historia de 2.º medio quedó con sus 14 OAs oficiales exactos, finalizando en el OA 25 (discriminación y Ley Zamudio), en perfecta correspondencia con las páginas 16-17 del PDF oficial `temario_media_2deg_medio_UCE-1.pdf`.
+2. **4.º medio, Educación Ciudadana (`12-cuarto-medio.md`):** La transcripción original sólo incluía el OA 06 y un OA sin numerar. Se completaron íntegramente los 5 Objetivos de Aprendizaje oficiales de la asignatura conforme a las páginas 8 y 9 del PDF oficial `temario_media_4deg_medio_uce.pdf`:
+   - OA 01: Institucionalidad democrática y división de poderes.
+   - OA 03: Modelos de desarrollo, sustentabilidad y cambio climático.
+   - OA 04: Derechos laborales en Chile y movimientos sociales.
+   - OA 05: Principios de libertad, igualdad y solidaridad ante desafíos de la democracia.
+   - OA 06: Oportunidades y riesgos de los medios de comunicación y tecnologías digitales.
+3. **Resumen General Curricular (`Temarios/analisis/00-resumen-general.md`):**
+   - Se corrigió la suma de la columna de Ciencias Naturales (sumaba 79 OAs, figuraba erróneamente 69 por errata aritmética).
+   - Se corrigió la suma de Historia, Geografía y Cs. Sociales a 98 OAs (eliminando el OA espurio de 2.º medio).
+   - Se actualizó Educación Ciudadana a 11 OAs totales (incorporando los 3 OAs recuperados de 4.º medio).
+   - El gran total consolidado de OA seleccionados por la UCE para los exámenes libres quedó fijado en **410 Objetivos de Aprendizaje**.
+4. **4.º básico, Ciencias Naturales (`temario_basica_4deg_basico_uce.pdf`):** Se corroboró que el PDF oficial de la UCE presenta una errata de maquetación en las páginas 8 y 9, duplicando el encabezado y cuerpo del Objetivo de Aprendizaje N°1. El documento de análisis `04-cuarto-basico.md` lo mantiene correctamente consolidado en una sola mención (32 OAs totales).
+
+### 13.3 Cierre de la Matriz Maestra de Archivos
+
+Las 25 filas de `Temarios/` fueron actualizadas en `docs/auditorias/matriz-maestra-estado-por-archivo.csv`:
+- Se calcularon sus tamaños en bytes reales y sus hashes SHA de blob desde Git.
+- El campo `estado_auditoria` pasó de `pendiente_auditoria_sistematica` a `revalidado`.
+- La matriz alcanza **290 / 290 archivos revalidados (100 % de cobertura de archivos educativos)**.

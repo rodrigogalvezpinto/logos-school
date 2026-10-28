@@ -86,11 +86,28 @@ Módulo temático de este nivel: Ambiente y Sostenibilidad.
 
 ## Educación Ciudadana
 
-Desarrolla e integra conocimientos, habilidades y actitudes de la política, las ciencias sociales, la geografía, la economía y la filosofía, con el objetivo de que los menores de edad conozcan el sistema democrático y se desenvuelvan en él.
+La asignatura Educación Ciudadana tiene por objetivo desarrollar un conjunto de conocimientos, habilidades y actitudes para que los menores de edad conozcan el sistema democrático y se desenvuelvan en él, participando en forma activa y corresponsable en la construcción de una sociedad orientada hacia el fortalecimiento del bien común, la justicia social y el desarrollo sustentable. Integra conocimientos, habilidades y actitudes de la política, las ciencias sociales, la geografía, la economía y la filosofía.
 
 ### Objetivos de Aprendizaje
 
-**OA N°(sin numerar explícitamente en el temario, sección de Democracia y desafíos):** Relacionar de manera fundamentada los conceptos libertad, igualdad y solidaridad, con desafíos y problemáticas de la democracia tales como la desigualdad y superación de la pobreza, la equidad de género, la inclusión, la diversidad étnica, cultural y sexual, entre otras.
+**OA N°01:** Evaluar las características y funcionamiento de la institucionalidad democrática, las formas de representación y su impacto en la distribución del poder en la sociedad, a la luz del bien común, la cohesión y justicia social.
+- Caracterizan el funcionamiento de la institucionalidad democrática, considerando las funciones de los tres poderes del Estado y sus principales autoridades, la contraloría y el tribunal constitucional.
+- Explican cómo funciona el sistema de partidos políticos, el rol del Servel y los mecanismos de participación para candidaturas independientes.
+- Describen los mecanismos electorales definidos para las elección parlamentarias, presidenciales y municipales en Chile.
+
+**OA N°03:** Analizar el impacto de diversos modelos de desarrollo y las políticas económicas en la vida cotidiana y en el cambio climático, en función de la sustentabilidad y del aseguramiento de una vida digna y justa para todos y todas con condiciones para el desarrollo personal y colectivo.
+- Explican cómo se expresan modelos de desarrollo y políticas económicas en la vida cotidiana, utilizando ejemplos relacionados con el aseguramiento de una vida digna y justa.
+- Identifican los efectos de modelos de desarrollo y políticas económicas en problemas y desafíos relacionados con el cambio climático y la sustentabilidad.
+- Identifican distintos modelos de desarrollo, su relación con la economía, la política y el impacto a escala territorial local en la vida de las personas.
+
+**OA N°04:** Comprender la importancia de los derechos laborales en Chile, considerando las principales tendencias globales y nacionales, la evolución de los mecanismos institucionales que buscan resguardarlos y los aportes de los movimientos y organizaciones sociales a su fortalecimiento.
+- Argumentan la importancia de que existan normas que establecen derechos laborales.
+- Identifican principales mecanismos de protección de los derechos laborales en Chile relacionados con la maternidad, el cuidado de niños y niñas, la inclusión de las diversidades, entre otros.
+- Reconocen la flexibilidad laboral, la disminución de la jornada laboral, la corresponsabilidad en el cuidado y el teletrabajo como algunos de los principales planteamientos presentes en demandas actuales sobre derechos laborales.
+- Explican, utilizando ejemplos, los aportes de los movimientos y organizaciones sociales al fortalecimiento de los derechos laborales.
+
+**OA N°05:** Relacionar de manera fundamentada los conceptos libertad, igualdad y solidaridad, con desafíos y problemáticas de la democracia tales como la desigualdad y superación de la pobreza, la equidad de género, la inclusión, la diversidad étnica, cultural y sexual, entre otras.
+- Argumentan la relación y distinciones entre los conceptos de libertad, igualdad y solidaridad.
 - Describen un fenómeno o caso actual relacionado con la desigualdad y superación de la pobreza, la equidad de género, la inclusión o la diversidad étnica, cultural y sexual, enfatizando los conceptos de libertad, igualdad y solidaridad.
 - Establecen relaciones entre libertad, igualdad y solidaridad con principios de la democracia como la participación y el respeto de los derechos humanos.
 

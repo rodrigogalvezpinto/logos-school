@@ -261,14 +261,6 @@ Ejes: Historia; Geografía; Formación Ciudadana.
 - Reconocen situaciones de discriminación por raza o etnia, nacionalidad, situación socioeconómica, idioma, ideología u opinión política, religión o creencia, sindicación o participación en organizaciones gremiales o la falta de ellas, sexo, orientación sexual, identidad de género, estado civil, edad, filiación, apariencia personal y enfermedad o discapacidad, demostrando empatía con las situaciones vividas por los actores discriminados.
 - Reconocen las oportunidades y desafíos que la progresiva consolidación de un ordenamiento jurídico internacional entrega para evitar toda forma de discriminación.
 - Explican y ejemplifican los principales aportes de la ley que establece medidas contra la discriminación (Ley Zamudio), a través de ejemplos concretos, reconociendo su importancia para avanzar en la construcción de una sociedad menos discriminadora.
-- Relacionan de manera fundamentada los conceptos libertad, igualdad y solidaridad, con desafíos y problemáticas de la democracia tales como la desigualdad y superación de la pobreza, la equidad de género, la inclusión, la diversidad étnica, cultural y sexual, entre otras.
-- Describen un fenómeno o caso actual relacionado con la desigualdad y superación de la pobreza, la equidad de género, la inclusión o la diversidad étnica, cultural y sexual, enfatizando los conceptos de libertad, igualdad y solidaridad.
-- Establecen relaciones entre libertad, igualdad y solidaridad con principios de la democracia como la participación y el respeto de los derechos humanos.
-
-**OA N°06:** Evaluar oportunidades y riesgos de los medios de comunicación masiva y del uso de las nuevas tecnologías de la información en el marco de una sociedad democrática, reflexionando personal y grupalmente sobre sus implicancias en la participación ciudadana y en el resguardo de la vida privada.
-- Identifican, a partir de un caso de interés público, las oportunidades y desafíos de los medios de comunicación masivos y las nuevas tecnologías de la información y comunicación para el fortalecimiento de la democracia.
-- Argumentan, utilizando ejemplos, las virtudes y amenazas que los medios de comunicación masivos y las nuevas tecnologías de la información y las comunicaciones representan para la vida en democracia.
-
 ---
 
 ## Idioma Extranjero: Inglés

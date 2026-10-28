@@ -58,13 +58,13 @@ Reglas comunes a los 12 cursos: la prueba es elaborada y corregida por el establ
 | 7° básico | 6 | 9 | 7 | 13 | 4 | — | — | — | **39** |
 | 8° básico | 6 | 10 | 8 | 12 | 4 | — | — | — | **40** |
 | 1° medio | 6 | 7 | 10 | 13 | 4 | — | — | — | **40** |
-| 2° medio | 6 | 6 | 9 | 15 | 4 | — | — | — | **40** |
+| 2° medio | 6 | 6 | 9 | 14 | 4 | — | — | — | **39** |
 | 3° medio | 4 | 3 | — | — | 3 | 4 | 4 | 6 | **24** |
-| 4° medio | 3 | 3 | — | — | 3 | 2 | 4 | 2 | **17** |
-| **Total** | **60** | **116** | **69** | **99** | **32** | **6** | **8** | **8** | **408** |
+| 4° medio | 3 | 3 | — | — | 3 | 2 | 4 | 5 | **20** |
+| **Total** | **60** | **116** | **79** | **98** | **32** | **6** | **8** | **11** | **410** |
 
 Notas sobre el conteo:
-- Matemática es, por lejos, la asignatura con más OA extraídos en general (116 de 408, ~28%), reflejando que en el currículum chileno Matemática tiene 4 ejes temáticos amplios (Números y Operaciones, Álgebra y Funciones/Patrones, Geometría, Probabilidad y Estadística/Datos) en todos los niveles.
+- Matemática es, por lejos, la asignatura con más OA extraídos en general (116 de 410, ~28%), reflejando que en el currículum chileno Matemática tiene 4 ejes temáticos amplios (Números y Operaciones, Álgebra y Funciones/Patrones, Geometría, Probabilidad y Estadística/Datos) en todos los niveles.
 - Historia/Geografía/Cs. Sociales concentra especialmente muchos OA en 6°-8° básico y 1°-2° medio (12-15 OA), coincidiendo con los niveles donde se cubre la mayor densidad de contenido histórico (Independencia, siglo XIX, siglo XX, Guerra Fría, dictadura).
 - 3° y 4° medio tienen notoriamente menos OA por asignatura porque cada asignatura del "Plan Común" 193/2019 es más acotada (varios PDF de estos niveles tienen solo 12 páginas vs. 17-20 páginas en 7°básico-2°medio), y porque Ciencias para la Ciudadanía se organiza en pocos módulos temáticos específicos en lugar de ejes disciplinares amplios.
 - Estos conteos son una aproximación basada en los OA efectivamente citados en los PDF (que ya son "una selección" hecha por el Mineduc, según indican los propios documentos); no representan el 100% de OA del currículum nacional regular.
