@@ -504,9 +504,9 @@ Mejoras editoriales opcionales (no bloquean publicación):
 
 ---
 
-## 11. PRUEBAS DE UNIDAD — 1.º Y 2.º BÁSICO (2026-10-28)
+## 11. PRUEBAS DE UNIDAD — 1.º A 4.º BÁSICO (2026-10-28)
 
-Se auditaron las **24 pruebas de unidad** de 1.º y 2.º básico (12 por curso:
+Se auditaron las **48 pruebas de unidad** de 1.º a 4.º básico (12 por curso:
 Ciencias Naturales ×3, Historia ×3, Lenguaje ×2, Matemática ×4). Cada archivo se
 leyó completo y se contrastó pregunta por pregunta con su pauta.
 
@@ -514,11 +514,15 @@ leyó completo y se contrastó pregunta por pregunta con su pauta.
 
 | Comprobación | Resultado |
 |---|---|
-| Archivos auditados | 24 / 24 |
-| Preguntas y respuestas de pauta coincidentes | 24 / 24 |
-| Alternativas coherentes con la clave | 24 / 24 |
-| Frontmatter normalizado | 24 / 24 |
-| Preguntas totales revisadas | 173 |
+| Archivos auditados | 48 / 48 |
+| Preguntas y respuestas de pauta coincidentes | 48 / 48 |
+| Alternativas coherentes con la clave | 48 / 48 |
+| Frontmatter normalizado | 48 / 48 |
+| Preguntas totales revisadas | 384 |
+
+Por curso: 1.º básico 85 preguntas, 2.º básico 88, 3.º básico 104 y 4.º básico
+107. En los 48 archivos el número de preguntas, el de respuestas de la pauta y el
+campo `cantidad_preguntas` coinciden.
 
 ### 11.2 Defectos corregidos
 
@@ -536,24 +540,30 @@ leyó completo y se contrastó pregunta por pregunta con su pauta.
 5. **1.º básico, Matemática, Medición, pregunta 2:** la observación previa
    («sin longitudes en Markdown») ya no aplica: declara 3, 18 y 30 cm. El archivo
    pasó de `revision_parcial_documentada` a `revalidado`.
+6. **4.º básico, Ciencias de la Tierra, pregunta 4:** el manto se describía como
+   «roca en estado semi-líquido». Se corrigió a «roca caliente que fluye muy
+   lentamente, en estado pastoso», que es la formulación correcta, y se ajustó la
+   pauta.
 
-También se corrigió el rótulo «Puntaje total: 7 preguntas» de las dos pruebas de
-Lenguaje de 1.º básico, que ahora indica 7 puntos (1 por pregunta).
+También se corrigieron los rótulos de puntaje que decían «Puntaje total: N
+preguntas»: las dos pruebas de Lenguaje de 1.º básico y las tres de Historia de
+4.º básico ahora indican puntos (1 por pregunta).
 
 ### 11.3 Normalización de frontmatter
 
-Las 24 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
-`eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en` o `fuente` y
-`ultima_actualizacion`. Se eliminaron las variantes con espacio (`tiempo
-sugerido`, `cantidad de preguntas`, `OA evaluados`, `última actualización`) y se
-agregaron `tipo` y `cantidad_preguntas` donde faltaban.
+Las 48 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
+`eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en`, `fuente` u
+`oa_evaluados`, y `ultima_actualizacion`. Se eliminaron las variantes con espacio
+(`tiempo sugerido`, `cantidad de preguntas`, `OA evaluados`, `eje temático`,
+`última actualización`) y los alias `cubre` y `n_preguntas`. Se agregaron `tipo`
+y `cantidad_preguntas` donde faltaban.
 
-Las **132 pruebas restantes** (3.º básico a 4.º medio) conservan esas variantes;
+Las **108 pruebas restantes** (5.º básico a 4.º medio) conservan esas variantes;
 se normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
 
 ### 11.4 Estado
 
-La matriz CSV marca las 24 filas como `revalidado`, con bytes y blob SHA del
-commit `7f1572f` y la evidencia en `observaciones`. El estado global queda en
-**210 pendientes y 80 revalidados**; ya no hay filas en
+La matriz CSV marca las 48 filas como `revalidado`, con bytes y blob SHA del
+commit `3f2a9f8` y la evidencia en `observaciones`. El estado global queda en
+**186 pendientes y 104 revalidados**; ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
