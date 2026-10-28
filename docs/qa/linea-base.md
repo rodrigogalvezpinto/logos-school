@@ -4,6 +4,8 @@
 **Fecha de Verificación en Vivo:** 21 de octubre de 2026  
 **Entorno de Ejecución:** macOS local, PostgreSQL `logos_qa` (puerto 5432), Python 3.14.5 (.venv), Node.js v25.1.0
 
+> **Actualización 2026-10-28:** sobre `main`, el frontend unitario se verificó en vivo: **46/46 pruebas en verde (10 archivos)**. Backend y E2E no se pudieron ejecutar porque el daemon de Docker estaba detenido y PostgreSQL no escuchaba en 5432. Las cifras de 491 / 33 / 362 de este documento son la línea base histórica del 21-10-2026, no el estado actual. El estado vigente está en `docs/auditorias/00-CENTRO-DE-CONTROL-AUDITORIA.md` §15.
+
 ---
 
 ## 1. Resumen Ejecutivo de la Línea Base
