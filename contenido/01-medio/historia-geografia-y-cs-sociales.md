@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 3, OA 7, OA 8, OA 10, OA 12, OA 14, OA 15, OA 18, OA 20, OA 23, OA 24, OA 25
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 1° Medio

@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 2° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 3, OA 6, OA 8, OA 9, OA 10, OA 13, OA 15, OA 17
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 2° Medio

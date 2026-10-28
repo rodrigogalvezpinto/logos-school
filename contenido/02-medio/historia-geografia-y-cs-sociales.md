@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 4, OA 6, OA 7, OA 8, OA 10, OA 11, OA 12, OA 15, OA 16, OA 17, OA 19, OA 20, OA 22, OA 25
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 2° Medio

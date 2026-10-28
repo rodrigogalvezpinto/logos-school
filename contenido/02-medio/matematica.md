@@ -2,8 +2,10 @@
 título: Matemática — 2° Medio
 asignatura: Matemática
 curso: 2° Medio
-fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 1, OA 2, OA 3, OA 5, OA 8, OA 11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 2° Medio
