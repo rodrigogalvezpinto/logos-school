@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 7° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 5, OA 7, OA 9, OA 13, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 7° Básico
@@ -716,7 +718,7 @@ con los gases.
    tapada que aumenta su presión al reducir volumen. Gay-Lussac: neumático que aumenta
    su presión con el calor.
    **Retroalimentación:** Identifica qué magnitud se mantiene constante en cada caso
-   (temperatura, temperatura o volumen) para reconocer la ley correspondiente.
+   (temperatura, presión o volumen) para reconocer la ley correspondiente.
 
 4. *(Desarrollo breve)* Explica, según la teoría cinético-molecular, por qué los gases
    son más compresibles que los líquidos.

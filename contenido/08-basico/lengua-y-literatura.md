@@ -1,8 +1,10 @@
 ---
 asignatura: Lengua y Literatura
-curso: 8° básico
+curso: 8° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-10
+oa_evaluados: OA 3, OA 4, OA 8, OA 9, OA 10, OA 16
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lengua y Literatura — 8° básico

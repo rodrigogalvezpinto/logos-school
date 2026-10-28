@@ -2,8 +2,10 @@
 título: Matemática — 7° Básico
 asignatura: Matemática
 curso: 7° Básico
-fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 1, OA 3, OA 4, OA 6, OA 8, OA 11, OA 14, OA 16, OA 18
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 7° Básico

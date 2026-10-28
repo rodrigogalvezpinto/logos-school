@@ -2,8 +2,10 @@
 título: Matemática — 8° Básico
 asignatura: Matemática
 curso: 8° Básico
-fuente curricular: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 614/2013 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 1, OA 2, OA 3, OA 4, OA 8, OA 10, OA 12, OA 13, OA 15, OA 16
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 8° Básico

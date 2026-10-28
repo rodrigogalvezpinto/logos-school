@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 3, OA 4, OA 7, OA 11, OA 12, OA 14, OA 16, OA 18, OA 20, OA 21, OA 22
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 8° Básico

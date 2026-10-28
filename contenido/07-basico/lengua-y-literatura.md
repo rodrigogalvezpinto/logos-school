@@ -1,8 +1,10 @@
 ---
 asignatura: Lengua y Literatura
-curso: 7° básico
+curso: 7° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-10
+oa_evaluados: OA 3, OA 4, OA 7, OA 8, OA 9, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lengua y Literatura — 7° básico

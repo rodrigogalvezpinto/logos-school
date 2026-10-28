@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 8° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 4, OA 5, OA 7, OA 10, OA 11, OA 12, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 8° Básico

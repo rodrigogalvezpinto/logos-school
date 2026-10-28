@@ -1,8 +1,10 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 8° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
-última actualización: 2026-08-10
+oa_evaluados: OA 9, OA 10, OA 13, OA 16
+ultima_actualizacion: 2026-10-28
 ---
 
 # Inglés – 8° Básico
