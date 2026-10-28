@@ -911,9 +911,11 @@ iluminación.
    **Respuesta esperada:** Por ejemplo, en el efecto Doppler: semejanza, en ambos
    casos el movimiento relativo entre la fuente y el observador provoca un cambio
    aparente en la frecuencia percibida. En el sonido, el efecto se percibe como un tono
-   más agudo al acercarse y más grave al alejarse; en la luz, el acercamiento produce
-   mientras que la luz puede propagarse también en el vacío, como ocurre entre
-   galaxias.
+   más agudo al acercarse y más grave al alejarse; en la luz, el acercamiento produce un
+   corrimiento hacia el azul (mayor frecuencia) y el alejamiento, un corrimiento hacia el
+   rojo (menor frecuencia). Una diferencia es que el sonido necesita un medio material
+   para propagarse, mientras que la luz puede propagarse también en el vacío, como ocurre
+   entre galaxias.
    **Retroalimentación:** Comparar fenómenos ondulatorios del sonido y de la luz
    ayuda a reconocer que ambos comparten el modelo ondulatorio, aunque se trate de
    tipos de onda distintos (mecánica y electromagnética).

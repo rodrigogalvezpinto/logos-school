@@ -222,7 +222,7 @@ En 8° básico sigues formulando interpretaciones de obras literarias, pero con 
 >
 > A medio camino, Marisol escuchó los gritos de un vecino anciano, don Aurelio, atrapado bajo una viga caída en el patio de su casa. Su madre tiraba de su brazo, desesperada: "¡No hay tiempo, el río puede subir en cualquier momento, tenemos que llegar al cerro!". Marisol sabía que detenerse a ayudar a don Aurelio podía costarles minutos preciosos, quizás los mismos que necesitaban para ponerse a salvo de una eventual ola; pero también sabía que, si lo dejaban, el anciano probablemente no sobreviviría solo.
 >
-> Marisol soltó la mano de su madre y corrió hacia el patio de don Aurelio. Entre las dos, madre e hija lograron levantar la viga lo suficiente para que el anciano se arrastrara fuera, y los tres alcanzaron el cerro minutos antes de que corrieran los primeros rumores de una posible ola en el río. Años después, ya adulta, Marisol solía decir que esa madrugada aprendió que el miedo y la ayuda a otros no son opuestos: a veces hay que sostener ambos al mismo tiempo para poder vivir con uno mismo después.
+> Marisol soltó la mano de su madre y corrió hacia el patio de don Aurelio. Entre las dos, madre e hija lograron levantar la viga lo suficiente para que el anciano se arrastrara fuera, y los tres alcanzaron el cerro minutos antes de que corrieran los primeros rumores de una posible ola en el río. Años después, ya adulta, Marisol solía decir que esa tarde aprendió que el miedo y la ayuda a otros no son opuestos: a veces hay que sostener ambos al mismo tiempo para poder vivir con uno mismo después.
 
 ### Ejemplos resueltos
 
