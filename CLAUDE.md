@@ -33,9 +33,11 @@ hoy **solo la Forma B** por asignatura — la Forma A de Régimen B/C está pend
 > **Actualización 2026-10-28:** la auditoría maestra
 > (`docs/auditorias/AUDITORIA_MAESTRA.md`) quedó integrada en `main` por el PR #8. Los 50
 > exámenes simulacro están revalidados: claves, pautas, rúbricas, sesgos y erratas
-> corregidos, con validadores de contenido en 0 hallazgos. También se recuperó el OA sin
-> número oficial de 4° medio Educación Ciudadana (fix del parser +
-> `backend/scripts/backfill_oas_faltantes.py`), dejando la base en **408/408 OA**.
+> corregidos, con validadores de contenido en 0 hallazgos. Las **156 pruebas de unidad**
+> (1.824 preguntas) también quedaron auditadas y revalidadas, con frontmatter
+> normalizado y coincidencia total entre preguntas, pauta y `cantidad_preguntas`.
+> También se recuperó el OA sin número oficial de 4° medio Educación Ciudadana (fix del
+> parser + `backend/scripts/backfill_oas_faltantes.py`), dejando la base en **408/408 OA**.
 
 Sobre ese contenido ya se construyó la aplicación completa para el curso piloto (4° básico):
 backend FastAPI en arquitectura hexagonal + frontend Angular, cubriendo estudiar y rendir

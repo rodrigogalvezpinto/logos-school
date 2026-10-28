@@ -504,26 +504,28 @@ Mejoras editoriales opcionales (no bloquean publicación):
 
 ---
 
-## 11. PRUEBAS DE UNIDAD — 1.º A 8.º BÁSICO (2026-10-28)
+## 11. PRUEBAS DE UNIDAD — 1.º BÁSICO A 4.º MEDIO (2026-10-28)
 
-Se auditaron las **104 pruebas de unidad** de 1.º a 8.º básico (12 por curso en
-1.º a 4.º y 14 en 5.º a 8.º, que incluyen Inglés). Cada archivo se leyó completo
-y se contrastó pregunta por pregunta con su pauta.
+Se auditaron las **156 pruebas de unidad** del proyecto: 104 de 1.º básico a
+8.º básico (12 por curso en 1.º a 4.º y 14 en 5.º a 8.º, que incluyen Inglés) y
+52 de 1.º a 4.º medio (14, 14, 13 y 11). Cada archivo se leyó completo y se
+contrastó pregunta por pregunta con su pauta.
 
 ### 11.1 Comprobaciones
 
 | Comprobación | Resultado |
 |---|---|
-| Archivos auditados | 104 / 104 |
-| Preguntas y respuestas de pauta coincidentes | 104 / 104 |
-| Alternativas coherentes con la clave | 104 / 104 |
-| Frontmatter normalizado | 104 / 104 |
-| Preguntas totales revisadas | 1.104 |
+| Archivos auditados | 156 / 156 |
+| Preguntas y respuestas de pauta coincidentes | 156 / 156 |
+| Alternativas coherentes con la clave | 156 / 156 |
+| Frontmatter normalizado | 156 / 156 |
+| Preguntas totales revisadas | 1.824 |
 
 Por curso: 1.º básico 85 preguntas, 2.º básico 88, 3.º básico 104, 4.º básico
-107, 5.º básico 166, 6.º básico 165, 7.º básico 192 y 8.º básico 197. En los 104
-archivos el número de preguntas, el de respuestas de la pauta y el campo
-`cantidad_preguntas` coinciden.
+107, 5.º básico 166, 6.º básico 165, 7.º básico 192, 8.º básico 197, 1.º medio
+190, 2.º medio 192, 3.º medio 184 y 4.º medio 154. En los 156 archivos el número
+de preguntas, el de respuestas de la pauta y el campo `cantidad_preguntas`
+coinciden.
 
 ### 11.2 Defectos corregidos en 1.º a 6.º básico
 
@@ -575,9 +577,93 @@ preguntas»: las dos pruebas de Lenguaje de 1.º básico y las tres de Historia 
    «curiosidad poco tactosa». Se reemplazó por «curiosidad poco discreta» en la
    prueba y en la guía del curso.
 
-### 11.4 Normalización de frontmatter
+### 11.4 Defectos corregidos en 1.º a 4.º medio
 
-Las 104 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
+1. **2.º medio, Lengua unidad 1, pregunta 1:** las alternativas nombraban a
+   «Camila», personaje que no aparece en el relato (la voz es una narradora en
+   primera persona). Se reemplazó por «la narradora» en el enunciado, las
+   alternativas y la pregunta 4. Además, «living» pasó a «sala de estar» en las
+   acotaciones del texto dramático.
+2. **2.º medio, Lengua unidad 2, pregunta 5:** la expresión «una herramienta le
+   hace el trabajo de pensar a toda una generación» admitía más de una figura.
+   Se acotó a la exageración («a toda una generación») para que la clave fuera
+   única.
+3. **2.º medio, Lengua unidad 2, preguntas 7 y 10:** se corrigieron dos
+   enunciados: «Recomendamos…» es presente de indicativo, no imperativo, y la
+   pregunta 10 había perdido el verbo («¿Qué evidencia principalmente…?»).
+4. **2.º medio, Historia, pregunta 8:** el orden pedido no tenía fechas y la
+   pauta ubicaba a Uruguay junto a Chile. Se agregaron los años al enunciado y la
+   pauta quedó 2 → 4 → 1 → 3 (Brasil 1964, Uruguay 27-06-1973, Chile 11-09-1973,
+   Argentina 1976).
+5. **2.º medio, Historia, pregunta 13:** el Plan Laboral es de 1979, no de
+   «comienzos de la década de 1980». Se ajustó el enunciado.
+6. **2.º medio, Matemática, Geometría, pregunta 10:** con 9 y 15 cm el coseno era
+   0,6 y las alternativas no eran plausibles. Se cambiaron los datos a 8 y 17 cm,
+   se recalcularon las alternativas (0,47 / 0,53 / 1,88 / 2,13) y la pauta.
+7. **2.º medio, Inglés unidad 1, preguntas 2, 4 y 10:** la pregunta 2 entregaba
+   el banco de palabras en el orden de la respuesta; la 4 estaba rotulada
+   «Emparejar» sin parejas; y la 10 tenía clave «True» cuando la segunda parte
+   del enunciado era falsa. Se corrigieron el banco, el rótulo y la clave.
+8. **2.º medio, Inglés unidad 2, pregunta 14:** el enunciado pedía un reflexivo
+   «para dar énfasis», pero la clave era un reflexivo como objeto directo. Se
+   corrigió el enunciado.
+9. **3.º medio, Matemática, Álgebra, pregunta 5:** la pauta decía $7.196.160;
+   el cálculo correcto es $7.196.344.
+10. **3.º medio, Matemática, Probabilidad, pregunta de completar:** «el promedio
+    de las ______» concordaba mal con «desviaciones». Quedó «de los ______».
+11. **3.º medio, Ciencias para la Ciudadanía, Bienestar y Salud:** el caso de
+    Camila no justificaba la pregunta sobre asma; se agregó el diagnóstico. Se
+    corrigió el puntaje a 7 + 14 = 21 (exigencia 12,6/21) y el tiempo a 45-50
+    minutos.
+12. **3.º medio, Ciencias para la Ciudadanía, Seguridad y Autocuidado:** las
+    preguntas 10 y 11 se contradecían (una misma medida era prevención y
+    mitigación). Se diferenciaron los casos y se ajustó la pauta; el puntaje
+    quedó 8 + 12 = 20 y el tiempo en 45-50 minutos.
+13. **3.º medio, Educación Ciudadana unidades 1 y 2:** los puntajes no cuadraban
+    con el número de preguntas (25 y 24 puntos). Quedaron 6 + 18 = 24 y
+    8 + 14 = 22, con tiempos de 50-60 minutos.
+14. **3.º medio, Inglés unidad 1, preguntas 2, 5, 12 y 13:** la pregunta 2 no
+    ofrecía un contraste real («lunch at home or at school» frente a «packed
+    lunch»), la 12 tenía alternativas solapadas con la idea central y dos
+    preguntas estaban rotuladas «Emparejar» sin parejas. Se corrigieron el
+    estímulo, las alternativas y los rótulos.
+15. **4.º medio, Matemática, Probabilidad, pregunta 8:** el enunciado pedía
+    «probabilidad de "al menos"» pero la pauta resolvía «acertar todas». Se acotó
+    el enunciado a lo que se corrige.
+16. **4.º medio, Lengua unidad 2, pregunta 11:** la instrucción decía «sin
+    corregir para mejorar su cohesión», que se contradecía. Quedó «sin corregir,
+    agregando un conector adecuado».
+17. **4.º medio, Inglés unidad 1, pregunta 5:** rótulo «Emparejar» sin parejas;
+    pasó a «Selección — dos opciones».
+18. **4.º medio, Inglés unidad 2, preguntas 4, 11 y 14:** dos rótulos
+    «Emparejar» sin parejas y una pregunta 14 cuya clave no era la mejor opción.
+    Se rotularon como selección y la 14 se reemplazó por un ítem de registro
+    formal en presentación oral, con clave c.
+19. **4.º medio, Filosofía, pregunta 11:** la alternativa de igualdad formal
+    agregaba «sin compensar desventajas de partida», que describía la igualdad
+    material. Se acotó a «Igualdad formal o de trato ante la ley».
+20. **4.º medio, Educación Ciudadana, Medios y participación, pregunta 14:** el
+    enunciado describía el OA en lugar de evaluarlo. Se reemplazó por una
+    afirmación verificable sobre alfabetización mediática, con pauta coherente.
+
+Además se corrigieron en 1.º medio la cita de Wenceslao (pasó a «lo respetás, no
+porque le tenís miedo…»), la coma de apertura de una oración, la concordancia
+«dependían» de la pauta de Biología, la clave de Inglés unidad 2 P13 (pasado
+simple, coherente con «three years ago»), los saltos de línea de Inglés unidad 1
+(P2 y P9 se fusionaban con el ítem anterior), los OA de Historia y Ciencias
+(trasladados a `oa_evaluados`) y dos duplicados: la P11 de Lengua unidad 2 repetía
+la P1 y la P9 de Geografía repetía la P3. También se corrigieron el anacronismo
+de «Estado» en 1810 y el distractor «Unión Europea» en Geografía.
+
+En los 50 exámenes se ampliaron cinco pautas que declaraban solo la letra y el
+texto de la alternativa, para que el validador estructural reconozca la clave y
+para dejar explícita la justificación. El escaneo
+`backend/scripts/validar_evaluaciones_markdown.py` queda en **0 hallazgos** sobre
+los 265 archivos Markdown.
+
+### 11.5 Normalización de frontmatter
+
+Las 156 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
 `eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en`, `fuente` u
 `oa_evaluados`, y `ultima_actualizacion`. Se eliminaron las variantes con espacio
 (`tiempo sugerido`, `cantidad de preguntas`, `OA evaluados`, `eje temático`,
@@ -591,12 +677,17 @@ guía del curso, y se corrigieron las rutas de `basado_en` de Ciencias Naturales
 («Banco de autoevaluación…» pasó a `contenido/0X-basico/ciencias-naturales.md`).
 Los valores «1 de 2» y «2 de 2» del campo `unidad` se redujeron a «1» y «2».
 
-Las **52 pruebas restantes** (1.º a 4.º medio) conservan esas variantes; se
-normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
+En media se completó `oa_evaluados` en Historia, Inglés y Matemática de 1.º y
+2.º medio y en Ciencias para la Ciudadanía, Educación Ciudadana, Filosofía,
+Inglés y Matemática de 3.º y 4.º medio, siempre con los OA de la guía del curso;
+se agregó `basado_en` con la ruta `contenido/0X-medio/<asignatura>.md` y se
+redujeron los alias `n_preguntas` y `OA evaluados` a `cantidad_preguntas` y
+`oa_evaluados`.
 
-### 11.5 Estado
+### 11.6 Estado
 
-La matriz CSV marca las 104 filas como `revalidado`, con bytes y blob SHA del
-commit `ce3ec76` y la evidencia en `observaciones`. El estado global queda en
-**130 pendientes y 160 revalidados**; ya no hay filas en
+La matriz CSV marca las 156 filas de pruebas como `revalidado`, con bytes y blob
+SHA del commit `22385ab` y la evidencia en `observaciones`. El estado global
+queda en **78 pendientes y 212 revalidados**: lo pendiente son las guías de
+contenido y los temarios, no las pruebas. Ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
