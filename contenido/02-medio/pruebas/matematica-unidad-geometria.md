@@ -1,11 +1,13 @@
 ---
 asignatura: Matemática
 curso: 2° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 3 — Geometría (OA 8)
-basado_en: Banco de autoevaluación 02-medio/matematica.md, complementada con preguntas
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+basado_en: contenido/02-medio/matematica.md, complementada con preguntas
   nuevas del mismo estilo (el eje solo tenía 9 preguntas en el banco original)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: GEOMETRÍA
@@ -81,13 +83,13 @@ opuesto a ese cateto es 40°: determina la hipotenusa, el otro cateto, y el otro
 agudo.
 
 **Pregunta 10.**
-En un triángulo rectángulo, el cateto adyacente a un ángulo θ mide 9 cm y la hipotenusa
-mide 15 cm. ¿Cuál es cos θ?
+En un triángulo rectángulo, el cateto adyacente a un ángulo θ mide 8 cm y la hipotenusa
+mide 17 cm. ¿Cuál es cos θ?
 
-a) 0,6
-b) 0,4
-c) 1,67
-d) 0,167
+a) 0,47
+b) 0,53
+c) 1,88
+d) 2,13
 
 **Pregunta 11.** (Verdadero o falso)
 sen(60°) es mayor que cos(60°). Justifica sin usar calculadora, pensando en cómo cambian
@@ -119,7 +121,7 @@ aproximada de la torre.
 8. tan(25°) = 40 ÷ d → d = 40 ÷ tan(25°) ≈ 40 ÷ 0,4663 ≈ **85,79 m**.
 9. Hipotenusa: sen(40°)=9/hip → hip = 9÷sen(40°) ≈ 9÷0,643 ≈ **14,0 cm**. Otro cateto:
    hip×cos(40°) ≈ 14,0×0,766 ≈ **10,72 cm**. Otro ángulo agudo: 90°−40° = **50°**.
-10. a) 0,6. cos θ = cateto adyacente ÷ hipotenusa = 9/15 = 0,6.
+10. a) 0,47. cos θ = cateto adyacente ÷ hipotenusa = 8/17 ≈ 0,47.
 11. Verdadero — entre 0° y 90°, el seno crece de 0 a 1 y el coseno decrece de 1 a 0; en
     60° el seno ya superó al coseno (sen60°≈0,866, cos60°=0,5), porque el punto de
     cruce (donde son iguales) ocurre en 45°.

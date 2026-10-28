@@ -2,18 +2,18 @@
 asignatura: Ciencias para la Ciudadanía
 curso: 3° Medio
 unidad: Módulo 1 — Bienestar y salud
-tipo: Prueba de unidad (formato corto)
-tiempo_sugerido: 30-35 minutos
-n_preguntas: 14
+tipo: Prueba de unidad
+tiempo_sugerido: 45 a 50 minutos
+cantidad_preguntas: 14
 oa_evaluados: OA N°1 (Módulo 1), OA N°3 (Módulo 1)
 basado_en: Banco de autoevaluación de /contenido/03-medio/ciencias-para-la-ciudadania.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — Ciencias para la Ciudadanía
 ## Módulo 1: Bienestar y salud — 3° Medio
 
-**Tiempo sugerido:** 30-35 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
+**Tiempo sugerido:** 45-50 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
 
 **Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
 sola respuesta correcta. Las preguntas de desarrollo requieren que fundamentes tu respuesta
@@ -34,9 +34,10 @@ d) Genético exclusivamente
 **Pregunta 2.** *(Verdadero o falso)* El estrés académico solo tiene efectos a corto plazo,
 como el insomnio ocasional, y no genera consecuencias a largo plazo en la salud.
 
-**Pregunta 3.** *(Análisis de caso)* Camila vive en una comuna con altos niveles de
-contaminación atmosférica (material particulado), su familia tiene bajos ingresos y ella
-practica poca actividad física porque no hay espacios públicos seguros cerca de su casa.
+**Pregunta 3.** *(Análisis de caso)* Camila tiene asma diagnosticada, vive en una comuna con
+altos niveles de contaminación atmosférica (material particulado), su familia tiene bajos
+ingresos y ella practica poca actividad física porque no hay espacios públicos seguros cerca
+de su casa.
 Identifica un factor biológico, uno ambiental y uno social en su situación, y explica cómo
 podrían combinarse para afectar su salud respiratoria.
 
@@ -122,6 +123,6 @@ temporadas anteriores no siempre proteja contra las nuevas variantes circulantes
 | 13 | El control del hantavirus se relaciona con el manejo del entorno: evitar acumulación de basura orgánica, mantener despejados los alrededores de viviendas; la deforestación o el abandono de terrenos agrícolas puede alterar poblaciones de roedores y el riesgo de contagio. |
 | 14 | Verdadero. |
 
-**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (8 pts), hasta 2 puntos por
-pregunta de desarrollo o análisis de caso completo y bien justificado (12 pts). Total: 20 pts.
-Exigencia de referencia: 60% (12/20 pts).
+**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (7 pts), hasta 2 puntos por
+pregunta de desarrollo o análisis de caso completo y bien justificado (14 pts). Total: 21 pts.
+Exigencia de referencia: 60% (12,6/21 pts).

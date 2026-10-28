@@ -385,8 +385,6 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 | Eje 3: Química | OA 12 | 21, 22, 23 | 3 |
 | Eje 3: Química | OA 14 | 24, 25 | 2 |
 | **Total** | **8 OA** | | **25** |
-</content>
-
 ---
 
 # TABLA DE ESPECIFICACIONES

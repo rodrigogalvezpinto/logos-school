@@ -3,7 +3,11 @@ asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 unidad: Unidad 1 — OA N°1 (Comprensión escrita: propósito, audiencia y contexto)
 tipo: Prueba de unidad
-última actualización: 2026-08-11
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 1
+basado_en: contenido/04-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Inglés, 4° Medio
@@ -46,7 +50,7 @@ reemplaza identificar el propósito, la audiencia y el contexto de un texto.
    has been hiding information from the crew."* Setting: ___ / Main
    character: ___ / Main conflict: ___
 
-5. *(Emparejar)* Relaciona el tipo de texto con su característica típica:
+5. *(Selección — dos opciones)* Relaciona el tipo de texto con su característica típica:
    *"a book review"* → ¿"da una opinión evaluativa sobre una obra" o
    "explica un proceso científico paso a paso"?
 

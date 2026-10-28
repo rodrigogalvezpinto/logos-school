@@ -124,4 +124,3 @@ d) La erupción del volcán Chaitén de 2008
 **14.** *Respuesta esperada*: el relato transmite una visión de mundo donde la solidaridad y la ayuda mutua frente a una catástrofe se valoran incluso por sobre la seguridad individual inmediata; esta interpretación es coherente porque se sustenta directamente en la decisión de Marisol y su madre de detenerse a rescatar a don Aurelio, y no en una idea que el texto no muestre. *Retroalimentación: una interpretación es coherente con el análisis cuando puede respaldarse con hechos concretos del propio relato, y no solo con una impresión general del lector.*
 
 **15.** b) El terremoto y maremoto de Valdivia de 1960. *Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden directamente al terremoto de mayor magnitud jamás registrado en el mundo.*
-</content>

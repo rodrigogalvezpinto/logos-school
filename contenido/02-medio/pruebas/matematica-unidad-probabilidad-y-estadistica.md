@@ -1,11 +1,13 @@
 ---
 asignatura: Matemática
 curso: 2° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 4 — Probabilidad y Estadística (OA 11)
-basado_en: Banco de autoevaluación 02-medio/matematica.md, complementada con preguntas
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+basado_en: contenido/02-medio/matematica.md, complementada con preguntas
   nuevas del mismo estilo (el eje solo tenía 10 preguntas en el banco original)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: PROBABILIDAD Y ESTADÍSTICA

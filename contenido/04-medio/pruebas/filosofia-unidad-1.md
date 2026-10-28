@@ -2,8 +2,11 @@
 asignatura: Filosofía
 curso: 4° Medio
 unidad: "Unidad 1 — OA N°1 (quehacer filosófico) y OA N°2 (ética: justicia, libertad, igualdad)"
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Filosofía, 4° medio
@@ -61,7 +64,7 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
 11. *(Alternativas)* Un país permite que cualquier persona compita por un puesto de trabajo sin discriminación legal, pero no corrige las desventajas de origen (acceso desigual a educación, salud, redes de contacto). ¿Qué concepción de igualdad se está aplicando aquí de forma limitada?
     a) Igualdad de resultados.
     b) Igualdad de oportunidades reales (sustantiva).
-    c) Igualdad formal o de trato ante la ley, sin compensar desventajas de partida.
+    c) Igualdad formal o de trato ante la ley.
     d) Ninguna: no existe ninguna forma de igualdad en ese escenario.
 
 12. *(Desarrollo breve)* Elige dos teorías éticas (de tu preferencia) y compáralas explicando al menos un concepto fundamental de cada una, aplicándolas a una decisión de tu vida cotidiana (por ejemplo, copiar en una prueba).

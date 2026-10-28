@@ -601,4 +601,3 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 - **Tesis**: idea central que un autor defiende y sostiene a lo largo de un texto argumentativo, ya sea de forma explícita o implícita.
 - **Veracidad y consistencia**: grado en que la información entregada por un texto es verdadera y se mantiene coherente, tanto internamente como al contrastarse con otras fuentes.
 - **Visión de mundo**: forma en que una obra literaria representa los valores, las creencias o las prioridades de sus personajes y de la sociedad que retrata.
-</content>

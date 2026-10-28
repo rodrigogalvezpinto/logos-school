@@ -2,8 +2,11 @@
 asignatura: Filosofía
 curso: 4° Medio
 unidad: "Unidad 2 — OA N°4 (evaluación de argumentos filosóficos) y OA N°5 (impacto de las ideas filosóficas en el mundo actual)"
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Filosofía, 4° medio

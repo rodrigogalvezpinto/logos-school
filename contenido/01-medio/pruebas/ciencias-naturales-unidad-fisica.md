@@ -1,10 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 2 — Física (OA 10, OA 11, OA 14, OA 16)
-basado_en: Banco de autoevaluación 01-medio/ciencias-naturales.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+basado_en: contenido/01-medio/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: FÍSICA
@@ -170,4 +172,3 @@ partir del análisis de la luz que emite.
     temperatura, y mediante el efecto Doppler (corrimiento hacia el rojo o hacia el
     azul de su espectro), si el astro se está alejando o acercando respecto al
     observador.
-</content>

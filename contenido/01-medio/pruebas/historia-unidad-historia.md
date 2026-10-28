@@ -1,10 +1,14 @@
 ---
-título: Prueba de Unidad — Historia
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
 eje: Eje 1 — Historia
-tiempo sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+título: Prueba de Unidad — Historia
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 1, OA 3, OA 8, OA 10, OA 18
+basado_en: contenido/01-medio/historia-geografia-y-cs-sociales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Historia, Geografía y Ciencias Sociales 1° Medio

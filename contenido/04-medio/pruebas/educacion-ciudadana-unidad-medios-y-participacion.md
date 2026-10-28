@@ -2,9 +2,12 @@
 asignatura: Educación Ciudadana
 curso: 4° Medio
 unidad: "OA N°6: Medios de comunicación, nuevas tecnologías y participación democrática"
-tipo: prueba de unidad
-tiempo_sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 6
+basado_en: contenido/04-medio/educacion-ciudadana.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Medios de comunicación y participación democrática
@@ -85,9 +88,8 @@ mitigarlo?
 13. **(Desarrollo breve)** Explica con un ejemplo cómo las nuevas tecnologías de la
 información pueden fortalecer la participación ciudadana más allá de las elecciones.
 
-14. **(Verdadero o Falso)** Argumentar con ejemplos tanto las virtudes como las amenazas de
-los medios y las TIC para la vida democrática es parte de lo que este OA espera que puedas
-hacer.
+14. **(Verdadero o Falso)** La alfabetización mediática consiste principalmente en contrastar
+fuentes y verificar la información antes de compartirla.
 
 15. **(Análisis de caso)** Un partido político utiliza datos recopilados de redes sociales
 para enviar mensajes de campaña distintos a distintos grupos de votantes, sin informar
@@ -148,9 +150,8 @@ fuentes diversas.
 proyectos de ley o presupuestos participativos, u organizar campañas de firmas para exigir a
 las autoridades que atiendan un problema específico.
 
-14. **Verdadero.** Uno de los indicadores centrales de este OA pide precisamente argumentar,
-con ejemplos, tanto las virtudes como las amenazas de los medios y las TIC para la vida
-democrática.
+14. **Verdadero.** Contrastar fuentes y verificar antes de compartir son las dos prácticas
+centrales de la alfabetización mediática, junto con distinguir hechos de opiniones.
 
 15. Desde la participación democrática: la falta de transparencia sobre financiamiento y
 criterios de segmentación dificulta que la ciudadanía evalúe informadamente los mensajes

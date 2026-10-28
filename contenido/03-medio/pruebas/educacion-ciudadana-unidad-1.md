@@ -2,18 +2,18 @@
 asignatura: Educación Ciudadana
 curso: 3° Medio
 unidad: Unidad 1 — OA 1, OA 2, OA 4
-tipo: Prueba de unidad (formato corto)
-tiempo_sugerido: 30-35 minutos
-n_preguntas: 15
+tipo: Prueba de unidad
+tiempo_sugerido: 50 a 60 minutos
+cantidad_preguntas: 15
 oa_evaluados: OA 1 (Fundamentos de la democracia y la ciudadanía), OA 2 (Acceso a la justicia y sistema judicial), OA 4 (Relaciones entre el Estado y el mercado)
 basado_en: Banco de autoevaluación de /contenido/03-medio/educacion-ciudadana.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — Educación Ciudadana
 ## Unidad 1 (OA 1, OA 2, OA 4) — 3° Medio
 
-**Tiempo sugerido:** 30-35 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
+**Tiempo sugerido:** 50-60 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
 
 **Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
 sola respuesta correcta. Las preguntas de desarrollo o análisis de caso requieren que
@@ -143,6 +143,6 @@ situación, y qué función del Estado podría intervenir?
 | 14 | Función estabilizadora: el Estado usa herramientas de política monetaria y fiscal para moderar los ciclos de crisis. |
 | 15 | Se relaciona con la falta de comercio justo hacia pequeños productores; el Estado podría intervenir con su función reguladora (normas de competencia) o fiscalizadora (prácticas comerciales abusivas). |
 
-**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (5 pts), hasta 2
-puntos por pregunta de análisis de caso o desarrollo bien justificada (20 pts). Total: 25 pts.
-Exigencia de referencia: 60% (15/25 pts).
+**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (6 pts), hasta 2
+puntos por pregunta de análisis de caso o desarrollo bien justificada (18 pts). Total: 24 pts.
+Exigencia de referencia: 60% (14,4/24 pts).

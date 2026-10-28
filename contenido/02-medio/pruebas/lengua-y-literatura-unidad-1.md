@@ -1,11 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 2° medio
-tipo: Prueba de unidad
 unidad: 1 — Análisis literario (narración, texto dramático e interpretación)
-OA evaluados: N°3, N°5, N°8
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: N°3, N°5, N°8
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 2° medio
@@ -33,18 +35,18 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 ### Preguntas 1 a 5 (OA N°3)
 
-**1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de Camila en el presente del relato?
+**1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de la narradora en el presente del relato?
 
-a) La rivalidad entre Camila y su abuela por la herencia de la casa
-b) El deseo de Camila de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
-c) La decisión de Camila de mudarse a Valparaíso
+a) La rivalidad entre la narradora y su abuela por la herencia de la casa
+b) El deseo de la narradora de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
+c) La decisión de la narradora de mudarse a Valparaíso
 d) La pelea entre Andrés y Marisol por motivos económicos
 
 **2. (Desarrollo breve)** Compara lo que dice Andrés sobre sus convicciones con lo que revela su comportamiento después de que Marisol se va. ¿Qué contradicción aparente hay entre ambos?
 
 **3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Andrés.
 
-**4. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión del diario de Andrés, citado textualmente, dentro del relato de Camila?
+**4. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión del diario de Andrés, citado textualmente, dentro del relato de la narradora?
 
 a) Historia paralela
 b) Caja china
@@ -58,7 +60,7 @@ d) Personaje tipo
 ## Texto 2: "Las llaves de la casa" (fragmento de obra teatral)
 
 > **Personajes**: DOÑA ROSA (68 años), NICOLÁS (35 años, su hijo), VOZ DE CONSTRUCTORA (grabación telefónica).
-> **Escenario**: living de una casa patrimonial en el Barrio Yungay, Santiago. Hay cajas a medio embalar. Se escuchan, de fondo, golpes de martillo de una obra vecina.
+> **Escenario**: sala de estar de una casa patrimonial en el Barrio Yungay, Santiago. Hay cajas a medio embalar. Se escuchan, de fondo, golpes de martillo de una obra vecina.
 >
 > *(Luz cálida y polvorienta que entra en franjas por la ventana. NICOLÁS revisa unos papeles.)*
 >

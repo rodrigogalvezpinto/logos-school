@@ -2,18 +2,18 @@
 asignatura: Educación Ciudadana
 curso: 3° Medio
 unidad: Unidad 2 — OA 5, OA 6, OA 7
-tipo: Prueba de unidad (formato corto)
-tiempo_sugerido: 30-35 minutos
-n_preguntas: 15
+tipo: Prueba de unidad
+tiempo_sugerido: 50 a 60 minutos
+cantidad_preguntas: 15
 oa_evaluados: OA 5 (Derechos Humanos), OA 6 (Formas de participación y bien común), OA 7 (Organización política del territorio)
 basado_en: Banco de autoevaluación de /contenido/03-medio/educacion-ciudadana.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — Educación Ciudadana
 ## Unidad 2 (OA 5, OA 6, OA 7) — 3° Medio
 
-**Tiempo sugerido:** 30-35 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
+**Tiempo sugerido:** 50-60 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
 
 **Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
 sola respuesta correcta. Las preguntas de desarrollo o análisis de caso requieren que
@@ -146,6 +146,6 @@ d) Reemplaza las funciones del municipio
 | 14 | "Zona de sacrificio": falta de justicia ambiental — la carga de contaminación no se distribuye equitativamente en el territorio. |
 | 15 | b) Interviene y configura el territorio. |
 
-**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (6 pts), hasta 2
-puntos por pregunta de análisis de caso o desarrollo bien justificada (18 pts). Total: 24 pts.
-Exigencia de referencia: 60% (~14/24 pts).
+**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (8 pts), hasta 2
+puntos por pregunta de análisis de caso o desarrollo bien justificada (14 pts). Total: 22 pts.
+Exigencia de referencia: 60% (~13/22 pts).

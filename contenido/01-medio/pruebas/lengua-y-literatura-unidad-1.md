@@ -2,9 +2,12 @@
 asignatura: Lengua y Literatura
 curso: 1° medio
 unidad: 1
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
 oa_evaluados: N°3, N°5, N°8
 basado_en: contenido/01-medio/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 1° medio
@@ -159,4 +162,3 @@ d) La fundación de las primeras caletas de pescadores en Chile
 **14.** b. El texto sitúa explícitamente los hechos en el contexto actual del cambio climático, mencionando el aumento del nivel del mar y la pérdida de terreno en caletas de pescadores.
 
 **15.** Cualquier crítica razonada y sustentada con una cita concreta del texto; por ejemplo, valorar que el relato evite presentar el mito como algo "supersticioso" frente a la ciencia, apoyándose en que ambas explicaciones se funden en la frase final del texto. Una crítica literaria válida no es solo una opinión, sino una valoración argumentada con evidencia textual.
-</content>

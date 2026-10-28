@@ -1552,4 +1552,3 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
   entre reactantes y productos de una reacción química.
 - **Mol y número de Avogadro:** unidad para contar partículas (átomos, moléculas o
   iones) en química; un mol equivale a aproximadamente 6,02 × 10²³ partículas.
-</content>

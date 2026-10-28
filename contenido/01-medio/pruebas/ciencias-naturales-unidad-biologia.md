@@ -1,10 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 1 — Biología (OA 2, OA 4, OA 6, OA 8)
-basado_en: Banco de autoevaluación 01-medio/ciencias-naturales.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+basado_en: contenido/01-medio/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: BIOLOGÍA
@@ -185,4 +187,3 @@ limitaciones tiene esta medida?
     (lo que puede no ocurrir si la sequía es muy prolongada), además de un costo de
     construcción y mantención, y posibles efectos sobre el ecosistema del río
     intervenido.
-</content>

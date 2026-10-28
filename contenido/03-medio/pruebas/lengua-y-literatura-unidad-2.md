@@ -1,11 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 3° medio
-tipo: Prueba de unidad
 unidad: 2 — Géneros discursivos digitales y producción de textos
-OA evaluados: N°4, N°6
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: N°4, N°6
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 3° medio
@@ -108,7 +110,7 @@ d) Porque las redes sociales no tienen convenciones propias
 **13. (Alternativas)** ¿Cuál de las siguientes diferencias entre la versión (a) y la versión (b) corresponde a una diferencia de género discursivo, y no solo de extensión?
 
 a) La versión (a) tiene más oraciones que la versión (b)
-b) La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa una pregunta directa y un registro cercano propio de una publicación de red social
+b) La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa un registro cercano y una recomendación directa ("léanlo"), propios de una publicación de red social
 c) Ambas versiones usan exactamente los mismos conectores
 d) La versión (b) no tiene ningún propósito comunicativo definido
 
@@ -132,4 +134,3 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 12. Falso — el proceso de escritura considera al menos planificar, escribir y revisar (coherencia, cohesión y adecuación).
 13. b
 14. *(desarrollo, ver pauta)* — la coherencia es la organización lógica de las ideas en torno a un tema central; la cohesión es el uso de recursos lingüísticos (conectores) que muestran esa relación explícitamente.
-</content>

@@ -1149,4 +1149,3 @@ ciertos tipos de enlaces, aunque no se conozca ese elemento específico en detal
   un metal y un no metal.
 - **Enlace covalente:** enlace químico formado por la compartición de electrones,
   generalmente entre no metales; puede ser polar o apolar.
-</content>

@@ -2,10 +2,13 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 2° Medio
 unidad: Unidad 1 — Reading (OA 9, OA 10)
-tipo: prueba de unidad (no es examen simulacro)
-tiempo_sugerido: 30-35 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 9, OA 10
+basado_en: contenido/02-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 diccionario: permitido
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad 1 — Inglés, 2° Medio
@@ -27,14 +30,14 @@ no solo el significado de palabras sueltas.
    c) Greta Thunberg only inspired adults.
    d) Greta Thunberg stopped caring about climate change.
 2. *(Completar)* Complete: *"This text is ___ the effects of social media on
-   teenagers. It explains ___ too much screen time can affect sleep."*
-   (about / how)
+   teenagers. It explains ___ too much screen time can affect sleep."* Usa
+   cada palabra del banco una vez, en el orden que corresponda: (how / about).
 
 3. *(Verdadero o falso)* Read: *"Solar panels convert sunlight into
    electricity and produce no greenhouse gases while operating."* Statement:
    *Solar panels release greenhouse gases when they work.*
 
-4. *(Emparejar)* Relaciona la pregunta con el tipo de información que busca:
+4. *(Selección — dos opciones)* Relaciona la pregunta con el tipo de información que busca:
    *"How much water shortage affects the region?"* → ¿"información
    específica (dato)" o "idea general"?
 
@@ -143,12 +146,10 @@ no solo el significado de palabras sueltas.
    *Unless* (a menos que) introduce la condición necesaria para evitar el
    problema; *as a result* expresa consecuencia, no condición.
 
-10. **True (Verdadero)** — el problema y la solución del texto son
-    explícitos; identificar otras soluciones posibles requiere ir más allá
-    del texto, lo que pide este OA.
-    Se plantea un problema (acceso limitado a internet) y una solución
-    (nuevas torres), y se espera reconocer que podrían existir otras
-    soluciones alternativas no mencionadas.
+10. **False (Falso).** La primera parte es correcta: el texto plantea un
+    problema (acceso limitado a internet) y una solución (nuevas torres). Pero
+    la segunda parte es falsa: el texto no menciona ni implica otras soluciones,
+    como el internet satelital.
 
 11. **impossible.**
     El prefijo *im-* se usa antes de adjetivos que comienzan con "p", "m" o

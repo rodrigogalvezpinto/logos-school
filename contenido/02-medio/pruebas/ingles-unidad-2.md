@@ -2,10 +2,13 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 2° Medio
 unidad: Unidad 2 — Writing (OA 13, OA 16)
-tipo: prueba de unidad (no es examen simulacro)
-tiempo_sugerido: 30-35 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 13, OA 16
+basado_en: contenido/02-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 diccionario: permitido
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad 2 — Inglés, 2° Medio
@@ -78,7 +81,7 @@ gramaticales avanzadas de este año, no solo el vocabulario.
     you do if you found a wallet full of money on the street?"*
 
 14. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre
-    reflexivo para dar énfasis?
+    reflexivo como objeto directo?
     a) He cut him with the knife.
     b) He cut himself with the knife.
     c) He cut he with the knife.

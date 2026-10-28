@@ -119,4 +119,3 @@ d) Porque la dirección del liceo no entiende ese tipo de expresiones
 **14.** *Respuesta esperada*: el corrector ortográfico permite detectar automáticamente errores de ortografía; la función de comentarios permite dejar observaciones o dudas sobre partes específicas del texto sin modificarlo directamente; y el control de cambios permite ver qué modificó cada integrante del grupo antes de aceptar una versión final del texto. *Retroalimentación: usar eficazmente las herramientas de un procesador de texto no reemplaza la revisión atenta del propio estudiante, pero facilita el proceso de reescritura y edición, especialmente en trabajos colaborativos.*
 
 **15.** "Los hermanos **se peinaron a sí mismos** antes de la ceremonia." *Retroalimentación: cuando el sujeto es plural (los hermanos), tanto el verbo como el pronombre reflejo y la expresión "a sí mismo" deben concordar en plural: "se peinaron... a sí mismos".*
-</content>

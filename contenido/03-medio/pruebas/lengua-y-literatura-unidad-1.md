@@ -1,11 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 3° medio
-tipo: Prueba de unidad
 unidad: 1 — Interpretación literaria y análisis crítico de textos no literarios
-OA evaluados: N°1, N°3
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: N°1, N°3
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 3° medio
@@ -61,7 +63,7 @@ d) Anáfora
 **7. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
 
 a) Porque el autor no logró desarrollar mejor al personaje
-b) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor
+b) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico
 c) Porque el padre es un personaje secundario sin relevancia en la trama
 d) Porque el relato está escrito en tercera persona omnisciente
 
@@ -131,4 +133,3 @@ d) Porque todos los repartidores en Chile son extranjeros
 12. b
 13. Verdadero — el texto atribuye la cifra explícitamente a la Subsecretaría del Trabajo, una fuente institucional identificable.
 14. b
-</content>

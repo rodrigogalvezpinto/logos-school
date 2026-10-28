@@ -157,4 +157,3 @@ entre dos átomos de hidrógeno (H₂) es polar o apolar, y justifica tu respues
 14. Es covalente apolar, porque al ser átomos idénticos, ambos tienen la misma
     capacidad de atraer los electrones compartidos, por lo que estos se distribuyen
     de manera equitativa entre ambos núcleos.
-</content>

@@ -2,8 +2,11 @@
 asignatura: Lengua y Literatura
 curso: 4° medio
 unidad: "Unidad 1 — OA N°1 (interpretaciones comparadas de obras sobre un mismo tema)"
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 12
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 4° medio

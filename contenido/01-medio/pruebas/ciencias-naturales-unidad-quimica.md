@@ -1,10 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 3 — Química (OA 17, OA 20)
-basado_en: Banco de autoevaluación 01-medio/ciencias-naturales.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 12
+basado_en: contenido/01-medio/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: QUÍMICA
@@ -146,4 +148,3 @@ dióxido de carbono atmosférico.
     consumen 6 moléculas de dióxido de carbono atmosférico; esto significa que, a
     mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema,
     mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica.
-</content>

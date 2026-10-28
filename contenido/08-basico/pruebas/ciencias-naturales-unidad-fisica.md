@@ -149,4 +149,3 @@ relacionándolo con las formas de propagación del calor.
     una cámara de vacío o un material aislante entre sus paredes, y reduce la
     transferencia por radiación mediante una superficie interior reflectante; así
     minimiza la pérdida de energía térmica hacia el ambiente exterior.
-</content>

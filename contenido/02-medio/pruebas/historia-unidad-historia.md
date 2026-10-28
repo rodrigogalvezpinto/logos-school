@@ -3,8 +3,11 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 eje: Historia
 tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: OA 2, OA 4, OA 7, OA 8, OA 10, OA 11, OA 15, OA 16, OA 17, OA 19, OA 20
 basado_en: Temario oficial UCE/Mineduc — Decreto 614/2013
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Historia (2° Medio)
@@ -80,7 +83,8 @@ d) La Declaración Universal de los Derechos Humanos
 ---
 
 **8. (Ordenar secuencia)** Ordena cronológicamente los siguientes golpes de Estado
-latinoamericanos: (1) Chile, (2) Brasil, (3) Argentina, (4) Uruguay.
+latinoamericanos: (1) Chile (1973), (2) Brasil (1964), (3) Argentina (1976), (4) Uruguay
+(1973).
 
 ---
 
@@ -120,8 +124,8 @@ el golpe de Estado de 1973 "suprimiera el Estado de Derecho" en Chile.
 
 ---
 
-**13. (Alternativas)** ¿Qué política laboral, implementada a comienzos de la década de 1980,
-restringió significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile?
+**13. (Alternativas)** ¿Qué política laboral, implementada en 1979, restringió
+significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile?
 
 a) La Alianza para el Progreso
 b) El Plan Laboral
@@ -159,7 +163,8 @@ d) Ninguna opción alcanzó la mayoría
    bloque capitalista y el comunista; su caída (1989) simbolizó el fin de esa división bipolar y
    anticipó la disolución de la URSS en 1991.
 7. **b)** La Alianza para el Progreso.
-8. **2 → 1 → 4 → 3** (Brasil 1964, Chile y Uruguay 1973, Argentina 1976).
+8. **2 → 4 → 1 → 3** (Brasil 1964, Uruguay 27-06-1973, Chile 11-09-1973,
+   Argentina 1976).
 9. **b)** Perestroika y Glasnost.
 10. **b)** Una lectura del proceso histórico, elaborada a partir de evidencia, que prioriza
     ciertos factores por sobre otros.

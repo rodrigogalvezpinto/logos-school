@@ -1,11 +1,13 @@
 ---
 asignatura: Filosofía
 curso: 3° medio
-tipo: Prueba de unidad
 unidad: 2 — Epistemología y lógica
-OA evaluados: N°4, N°6
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: N°4, N°6
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/filosofia.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Filosofía, 3° medio
@@ -101,4 +103,3 @@ d) Imaginar una situación hipotética para poner a prueba una intuición.
 12. 1-b, 2-c, 3-a.
 13. *(desarrollo, ver pauta)* — se evalúa que el argumento contenga los tres componentes (razón, garantía, evidencia) de forma coherente entre sí.
 14. b
-</content>

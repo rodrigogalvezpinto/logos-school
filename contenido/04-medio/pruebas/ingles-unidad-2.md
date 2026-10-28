@@ -3,7 +3,11 @@ asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 unidad: Unidad 2 — OA N°3 y OA N°4 (Conocimiento del inglés, producción e identidad)
 tipo: Prueba de unidad
-última actualización: 2026-08-11
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 3, OA 4
+basado_en: contenido/04-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Inglés, 4° Medio
@@ -34,7 +38,7 @@ especulación) con la producción y síntesis del OA N°4.
 3. *(Verdadero o falso)* *"She might have missed the bus"* expresa una
    **posibilidad**, no una certeza absoluta.
 
-4. *(Emparejar)* Relaciona el modal con su significado: *"can't have"* →
+4. *(Selección — dos opciones)* Relaciona el modal con su significado: *"can't have"* →
    ¿"imposibilidad" o "posibilidad"?
 
 5. *(Responder en inglés)* Read: *"My friend said, 'I finished the book
@@ -70,7 +74,7 @@ especulación) con la producción y síntesis del OA N°4.
     palabras del autor, sin copiar oraciones completas de ninguna de las
     dos.
 
-11. *(Emparejar)* Relaciona la expresión con su función: *"overall"* →
+11. *(Selección — dos opciones)* Relaciona la expresión con su función: *"overall"* →
     ¿"introducir una conclusión general" o "citar una fuente específica"?
 
 12. *(Responder en inglés)* Read this short transcript: *"Interviewer: What
@@ -83,13 +87,12 @@ especulación) con la producción y síntesis del OA N°4.
     leído y uno escuchado sobre un mismo tema puede incluir señalar tanto
     coincidencias como diferencias entre ambas fuentes.
 
-14. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
-    sobre el sentido de pertenencia a una comunidad?
-    a) "I know people."
-    b) "Being part of my local community has given me a strong sense of
-       belonging, especially through shared traditions."
-    c) "My town is fine."
-    d) "There are people near my house."
+14. *(Alternativas)* ¿Qué oración usa un registro adecuado para una presentación
+    oral formal sobre identidad cultural?
+    a) "Hey guys, today I wanna talk about identity."
+    b) "Identity is like, a big thing, you know."
+    c) "Good morning. Today I will discuss how heritage shapes identity."
+    d) "Identity stuff matters, right?"
 
 ---
 
@@ -113,5 +116,5 @@ especulación) con la producción y síntesis del OA N°4.
 12. **It means valuing family, sharing good food, and being proud of their
     country, even while disagreeing with some things about it.**
 13. **True (Verdadero).** Una buena síntesis también señala diferencias.
-14. **b.** Usa vocabulario específico (*sense of belonging, shared
-    traditions*).
+14. **c.** La opción c) mantiene un registro formal y una estructura completa, adecuados
+    para una presentación oral académica; las demás usan registro coloquial.

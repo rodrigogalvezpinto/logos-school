@@ -2,18 +2,18 @@
 asignatura: Ciencias para la Ciudadanía
 curso: 3° Medio
 unidad: Módulo 2 — Seguridad, prevención y autocuidado
-tipo: Prueba de unidad (formato corto)
-tiempo_sugerido: 30-35 minutos
-n_preguntas: 14
+tipo: Prueba de unidad
+tiempo_sugerido: 45 a 50 minutos
+cantidad_preguntas: 14
 oa_evaluados: OA N°1 (Módulo 2), OA N°3 (Módulo 2)
 basado_en: Banco de autoevaluación de /contenido/03-medio/ciencias-para-la-ciudadania.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — Ciencias para la Ciudadanía
 ## Módulo 2: Seguridad, prevención y autocuidado — 3° Medio
 
-**Tiempo sugerido:** 30-35 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
+**Tiempo sugerido:** 45-50 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
 
 **Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
 sola respuesta correcta. Las preguntas de desarrollo requieren que fundamentes tu respuesta
@@ -84,8 +84,8 @@ prevención, mitigación o adaptación, y justifica tu respuesta.
 construirse siguiendo la Norma Sísmica Chilena (NCh433), capaz de resistir sismos de alta
 magnitud sin colapsar, es un ejemplo de una medida de:
 
-a) Mitigación posterior al evento.
-b) Prevención, orientada a reducir el daño antes de que ocurra el sismo.
+a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra.
+b) Prevención, porque impide que el sismo ocurra.
 c) Adaptación exclusivamente cultural.
 d) Respuesta de emergencia inmediata.
 
@@ -120,12 +120,12 @@ d) Actividad geotérmica.
 | 7 | b) Fuera del alcance de niños, en su envase original y en lugar fresco y seco. |
 | 8 | b) Mitigación. |
 | 9 | Falso — la mayoría de los incendios forestales en Chile tienen origen humano (negligencia, quemas mal controladas, intencionalidad). |
-| 10 | Es una medida de adaptación (y también de prevención), porque implica ajustar la planificación urbana a largo plazo para no exponer a la población al riesgo. |
-| 11 | b) Prevención, orientada a reducir el daño antes de que ocurra el sismo. |
+| 10 | Es una medida de prevención, porque evita exponer nuevas viviendas a la amenaza de aluvión. |
+| 11 | a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra. |
 | 12 | Falso — también pueden generarse por erupciones volcánicas submarinas o costeras y por grandes deslizamientos de tierra o hielo. |
 | 13 | El riesgo es la posibilidad de que ocurra un evento dañino (amenaza + exposición + vulnerabilidad); el desastre ocurre cuando el evento se materializa y supera la capacidad de respuesta de la comunidad. |
 | 14 | b) Inundaciones urbanas. |
 
-**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (9 pts), hasta 2 puntos por
-pregunta de desarrollo, análisis de caso o etiqueta completo y bien justificado (10 pts).
-Total: 19 pts. Exigencia de referencia: 60% (~11/19 pts).
+**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (8 pts), hasta 2 puntos por
+pregunta de desarrollo, análisis de caso o etiqueta completo y bien justificado (12 pts).
+Total: 20 pts. Exigencia de referencia: 60% (12/20 pts).

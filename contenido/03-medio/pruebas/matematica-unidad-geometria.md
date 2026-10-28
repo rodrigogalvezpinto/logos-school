@@ -1,10 +1,12 @@
 ---
 asignatura: Matemática
 curso: 3° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje Geometría — relaciones métricas en la circunferencia (OA 4)
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Banco de autoevaluación 03-medio/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: GEOMETRÍA

@@ -2,9 +2,12 @@
 asignatura: Ciencias para la Ciudadanía
 curso: 4° Medio
 unidad: Módulo 3 — Ambiente y Sostenibilidad (OA N°2 y OA N°3)
-tipo: prueba de unidad
-tiempo_sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 2, OA 3
+basado_en: contenido/04-medio/ciencias-para-la-ciudadania.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ambiente y Sostenibilidad

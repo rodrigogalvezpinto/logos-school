@@ -2,9 +2,11 @@
 asignatura: Educación Ciudadana
 curso: 4° Medio
 unidad: "Democracia y sus desafíos: libertad, igualdad y solidaridad"
-tipo: prueba de unidad
-tiempo_sugerido: 30-35 minutos
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+basado_en: contenido/04-medio/educacion-ciudadana.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Democracia y sus desafíos

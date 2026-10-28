@@ -2,10 +2,13 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 3° Medio
 unidad: Unidad 1 — Reading & cultural comparison (OA N°1)
-tipo: prueba de unidad (no es examen simulacro)
-tiempo_sugerido: 30-35 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 1
+basado_en: contenido/03-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 diccionario: permitido
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad 1 — Inglés, 3° Medio
@@ -29,9 +32,8 @@ palabras sueltas.
    d) Diwali only happens once every ten years.
 
 2. *(Completar)* Complete using a comparison connector: *"Chilean teenagers
-   usually have lunch at home or at school. ___, in the United Kingdom, many
-   students bring a packed lunch called a 'packed lunch box'."* (Similarly /
-   In contrast)
+   usually go home for lunch. ___, in the United Kingdom, many
+   students bring a packed lunch from home."* (Similarly / In contrast)
 
 3. *(Verdadero o falso)* Read: *"In South Korea, it is common for students to
    bow slightly when greeting their teachers as a sign of respect."*
@@ -43,7 +45,7 @@ palabras sueltas.
    a reunion dinner, and children receive money in red envelopes called
    hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
 
-5. *(Emparejar)* Relaciona el conector con su función: *"whereas"* → ¿"marcar
+5. *(Selección — dos opciones)* Relaciona el conector con su función: *"whereas"* → ¿"marcar
    una semejanza" o "marcar una diferencia"?
 
 6. *(Responder en inglés)* Read: *"In Sweden, 'fika' is a daily coffee break
@@ -92,10 +94,10 @@ palabras sueltas.
     central del texto?
     a) Songkran is the Thai New Year.
     b) Many families use the holiday to clean their homes.
-    c) The celebration includes visiting temples.
-    d) Songkran is known for its water fights and temple visits.
+    c) Songkran is mainly known for its massive water fights.
+    d) Songkran combines water fights with temple rituals.
 
-13. *(Emparejar)* Relaciona cada palabra con su definición en español:
+13. *(Selección — dos opciones)* Relaciona cada palabra con su definición en español:
     *"widespread"* → ¿"extendido / practicado por muchos" o "poco
     frecuente / raro"?
 

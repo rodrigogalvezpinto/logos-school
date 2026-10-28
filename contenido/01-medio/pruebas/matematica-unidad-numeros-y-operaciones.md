@@ -1,9 +1,14 @@
 ---
-título: Prueba de Unidad — Números y Operaciones (Eje 1)
 asignatura: Matemática
 curso: 1° Medio
-tiempo sugerido: 30-35 minutos
-cantidad de preguntas: 13
+eje: Eje 1 — Números y Operaciones
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones (Eje 1)
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+oa_evaluados: OA 1, OA 2
+basado_en: contenido/01-medio/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 1: Números y Operaciones

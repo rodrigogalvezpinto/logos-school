@@ -3,8 +3,11 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 eje: Geografía
 tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 12
+oa_evaluados: OA 12
 basado_en: Temario oficial UCE/Mineduc — Decreto 614/2013
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Geografía (2° Medio)

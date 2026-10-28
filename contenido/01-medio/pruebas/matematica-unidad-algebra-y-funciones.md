@@ -1,9 +1,14 @@
 ---
-título: Prueba de Unidad — Álgebra y Funciones (Eje 2)
 asignatura: Matemática
 curso: 1° Medio
-tiempo sugerido: 30-35 minutos
-cantidad de preguntas: 13
+eje: Eje 2 — Álgebra y Funciones
+tipo: Prueba de unidad
+título: Prueba de Unidad — Álgebra y Funciones (Eje 2)
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+oa_evaluados: OA 3, OA 4
+basado_en: contenido/01-medio/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 2: Álgebra y Funciones

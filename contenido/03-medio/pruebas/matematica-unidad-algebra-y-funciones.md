@@ -1,10 +1,12 @@
 ---
 asignatura: Matemática
 curso: 3° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje Álgebra y Funciones — modelos exponenciales y logarítmicos (OA 3)
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Banco de autoevaluación 03-medio/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: ÁLGEBRA Y FUNCIONES
@@ -116,7 +118,7 @@ no son simétricos.
    ya había) más la tasa de cambio r.
 4. P es el **capital inicial** (monto depositado); r es la **tasa de interés** por período;
    t es el **tiempo transcurrido** (número de períodos).
-5. (0,88)⁴ ≈ 0,5997. V(4) = 12.000.000×0,5997 ≈ **$7.196.160**.
+5. (0,88)⁴ ≈ 0,5997. V(4) = 12.000.000×0,5997 ≈ **$7.196.344**.
 6. 11.460 ÷ 5.730 = 2 vidas medias. N = 80×(1/2)² = 80×(1/4) = **20 g**.
 7. Se plantea 50×(1,6)ᵗ = 800, es decir (1,6)ᵗ = 16. t = log(16)/log(1,6) ≈
    1,2041/0,2041 ≈ **5,9 ≈ 6 horas**.

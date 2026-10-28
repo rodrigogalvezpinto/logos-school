@@ -2,8 +2,11 @@
 asignatura: Lengua y Literatura
 curso: 4° medio
 unidad: "Unidad 2 — OA N°3 (evaluación crítica de textos no literarios) y OA N°5 (producción de textos coherentes y cohesionados)"
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 4° medio
@@ -52,7 +55,7 @@ Las preguntas 1 a 7 se basan en el texto de práctica **"Por qué Chile no puede
 
 10. *(Desarrollo breve)* Explica qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a).
 
-11. *(Aplicación)* Reescribe esta oración de la versión (b) sin corregir para mejorar su cohesión, agregando un conector adecuado: "Uno pasa en dictadura. La abuela vive en Maracaibo."
+11. *(Aplicación)* Reescribe esta oración de la versión (b) sin corregir, agregando un conector adecuado para mejorar su cohesión: "Uno pasa en dictadura. La abuela vive en Maracaibo."
 
 12. *(Alternativas)* ¿Por qué la pregunta retórica "¿se imaginan guardar la llave de tu casa durante diecisiete años...?" no representa un error de adecuación en la versión (b) corregida?
    a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto

@@ -261,8 +261,6 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Desarrollo breve (incluye aplicación) | 7 | 4, 8, 12, 16, 20, 23, 24 |
 | Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
-</content>
-
 ---
 
 # TABLA DE ESPECIFICACIONES

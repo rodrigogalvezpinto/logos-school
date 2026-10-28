@@ -2,9 +2,12 @@
 asignatura: Lengua y Literatura
 curso: 1° medio
 unidad: 2
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
 oa_evaluados: N°9, N°10, N°14
 basado_en: contenido/01-medio/lengua-y-literatura.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 1° medio
@@ -147,4 +150,3 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 **14.** b. La coherencia temática exige que todas las partes del ensayo —desde la hipótesis hasta la conclusión— se mantengan enfocadas en el mismo tema central, sin digresiones no justificadas.
 
 **15.** Citar la fuente permite que el lector evalúe la confiabilidad del dato y distinga entre una afirmación respaldada por evidencia verificable y una opinión sin sustento; además, es una práctica de honestidad intelectual que reconoce el origen de la información utilizada.
-</content>

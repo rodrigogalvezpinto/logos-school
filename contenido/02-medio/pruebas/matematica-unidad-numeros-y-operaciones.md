@@ -1,10 +1,12 @@
 ---
 asignatura: Matemática
 curso: 2° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje 1 — Números y Operaciones (OA 1, OA 2)
-basado_en: Banco de autoevaluación 02-medio/matematica.md
-última actualización: 2026-08-11
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 13
+basado_en: contenido/02-medio/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: NÚMEROS Y OPERACIONES

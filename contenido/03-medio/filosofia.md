@@ -1154,4 +1154,3 @@ resto del sistema, como en geometría).
   se vive, sin presuponer teorías previas.
 - **Axiomática:** método que parte de principios básicos aceptados sin
   demostración (axiomas) y deriva de ellos el resto de un sistema.
-</content>

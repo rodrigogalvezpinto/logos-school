@@ -3,7 +3,11 @@ asignatura: Matemática
 curso: 4° Medio
 unidad: Eje Álgebra y Funciones — OA1 (matemática financiera) y OA3 (funciones potencia y trigonométricas)
 tipo: Prueba de unidad
-última actualización: 2026-08-11
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 1, OA 3
+basado_en: contenido/04-medio/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática, 4° Medio

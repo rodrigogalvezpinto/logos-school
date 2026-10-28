@@ -1,11 +1,13 @@
 ---
 asignatura: Lengua y Literatura
 curso: 2° medio
-tipo: Prueba de unidad
 unidad: 2 — Textos argumentativos, textos de los medios y escritura persuasiva
-OA evaluados: N°9, N°10, N°14
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 15
+oa_evaluados: N°9, N°10, N°14
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 2° medio
@@ -44,7 +46,7 @@ d) La inteligencia artificial es idéntica a una calculadora y no representa nin
 
 **4. (Aplicación)** Explica qué recurso emocional utiliza el autor al llamar "cómplices" a quienes permiten el uso libre de la inteligencia artificial en la sala de clases, y qué efecto busca producir en el lector.
 
-**5. (Alternativas)** ¿Qué figura retórica corresponde a la expresión "una herramienta le hace el trabajo de pensar a toda una generación"?
+**5. (Alternativas)** ¿Qué figura retórica se refuerza con la exageración "a toda una generación", en la expresión "una herramienta le hace el trabajo de pensar a toda una generación"?
 
 a) Metáfora
 b) Hipérbole
@@ -76,13 +78,13 @@ b) Que este sería el cuarto corte del mes y que los avisos llegaron la noche an
 c) El nombre de la empresa sanitaria responsable
 d) La recomendación de almacenar agua con anticipación
 
-**7. (Verdadero o Falso)** El uso del imperativo en el Texto A ("Recomendamos almacenar agua con anticipación") tiene el mismo tono autoritario y directo que una orden estricta.
+**7. (Verdadero o Falso)** El uso del presente de indicativo en primera persona plural en el Texto A ("Recomendamos almacenar agua con anticipación") tiene el mismo tono autoritario y directo que una orden estricta.
 
 **8. (Desarrollo breve)** Compara los recursos no lingüísticos utilizados en el Texto A y el Texto B. ¿Qué efecto distinto produce cada uno en quien los recibe?
 
 **9. (Aplicación)** Explica por qué la ausencia, en el Texto A, de cualquier mención al historial de cortes recientes puede considerarse una omisión relevante de evidencia.
 
-**10. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre el corte de agua?
+**10. (Alternativas)** ¿Qué evidencia muestra principalmente la comparación entre el Texto A y el Texto B sobre el corte de agua?
 
 a) Que la empresa sanitaria miente completamente sobre la mantención
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera

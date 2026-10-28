@@ -586,4 +586,3 @@ d) Porque la dirección del liceo no entiende ese tipo de expresiones
 - **Suficiencia de la información**: grado en que un texto entrega los datos necesarios para cumplir su propósito informativo, sin dejar vacíos relevantes para el lector.
 - **Tópico literario**: tema o motivo recurrente en la tradición literaria (por ejemplo, el paso del tiempo, las apariencias engañosas o el "qué dirán"), que se repite en distintas obras y épocas.
 - **Visión de mundo**: forma en que una obra literaria representa los valores, las creencias o las prioridades de sus personajes y de la sociedad que retrata.
-</content>

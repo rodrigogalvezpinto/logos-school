@@ -2,10 +2,13 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 3° Medio
 unidad: Unidad 2 — Análisis, postura crítica y producción escrita sobre identidad (OA N°3, OA N°4)
-tipo: prueba de unidad (no es examen simulacro)
-tiempo_sugerido: 30-35 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 3, OA 4
+basado_en: contenido/03-medio/ingles.md
+ultima_actualizacion: 2026-10-28
 diccionario: permitido
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad 2 — Inglés, 3° Medio

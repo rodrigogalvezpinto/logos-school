@@ -176,4 +176,3 @@ un cuerpo saludable, considerando los tres factores estudiados en este OA.
     nutricional; 2) Realizar actividad física regular, adecuada a su edad y
     condición física; 3) Evitar el consumo de alcohol, tabaco y otras drogas,
     informándose sobre sus riesgos.
-</content>

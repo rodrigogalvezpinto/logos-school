@@ -3,7 +3,11 @@ asignatura: Matemática
 curso: 4° Medio
 unidad: Eje Probabilidad y Estadística — OA2 (modelos binomial y normal, evaluación crítica de argumentos estadísticos)
 tipo: Prueba de unidad
-última actualización: 2026-08-11
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: OA 2
+basado_en: contenido/04-medio/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Matemática, 4° Medio
@@ -58,8 +62,8 @@ y evaluación crítica de argumentos estadísticos.
    (2) la presión arterial sistólica (en mmHg) de esos mismos 50 pacientes.
    ¿Qué modelo es más adecuado para cada variable?
 
-8. *(Calcular — probabilidad de "al menos")* En un examen de alternativas
-   con 5 preguntas de verdadero/falso, un estudiante responde al azar
+8. *(Calcular — probabilidad de acertar todas)* En una prueba de 5
+   preguntas de verdadero/falso, un estudiante responde al azar
    (p=0,5 de acertar cada una). Calcula la probabilidad de que acierte las
    5 preguntas.
 

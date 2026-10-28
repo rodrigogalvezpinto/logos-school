@@ -1,11 +1,13 @@
 ---
 asignatura: Filosofía
 curso: 3° medio
-tipo: Prueba de unidad
 unidad: 1 — El quehacer filosófico y la ontología
-OA evaluados: N°1, N°3
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
+oa_evaluados: N°1, N°3
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/filosofia.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Filosofía, 3° medio
@@ -106,4 +108,3 @@ d) No existe ninguna realidad, todo es una ilusión total.
 12. *(desarrollo breve, ver pauta)* — ejemplo con materialismo: un sueño es un proceso cerebral real (actividad neuronal en fase REM), pero no corresponde a un objeto físico externo; es "real" como evento mental-cerebral, no como objeto tangible.
 13. c
 14. (i) M, (ii) D, (iii) I.
-</content>

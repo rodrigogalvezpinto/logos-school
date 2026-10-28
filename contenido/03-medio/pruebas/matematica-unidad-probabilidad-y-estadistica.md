@@ -1,10 +1,12 @@
 ---
 asignatura: Matemática
 curso: 3° Medio
-tipo: Prueba de unidad (eje temático) — material de práctica, NO es simulacro de examen
 eje: Eje Probabilidad y Estadística — dispersión y probabilidad condicional (OA 2)
+tipo: Prueba de unidad
+tiempo_sugerido: 30 a 35 minutos
+cantidad_preguntas: 14
 basado_en: Banco de autoevaluación 03-medio/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: PROBABILIDAD Y ESTADÍSTICA
@@ -50,7 +52,7 @@ c) 2
 d) 4
 
 **Pregunta 4.** (Completar)
-La varianza es el promedio de las ______ de las desviaciones respecto a la media, y la
+La varianza es el promedio de los ______ de las desviaciones respecto a la media, y la
 desviación estándar es su ______.
 
 **Pregunta 5.** (Desarrollo)
