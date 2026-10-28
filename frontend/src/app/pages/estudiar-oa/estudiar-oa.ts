@@ -203,6 +203,51 @@ import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendiza
         font-style: italic;
         font-size: 0.95rem;
       }
+      .contenido-guia ::ng-deep blockquote {
+        margin: 1.25rem 0;
+        padding: 0.9rem 1.25rem;
+        background: #f8fafc;
+        border-left: 4px solid var(--color-primario);
+        border-radius: 0 var(--radio-media) var(--radio-media) 0;
+        color: #334155;
+        font-style: italic;
+        line-height: 1.6;
+      }
+      .contenido-guia ::ng-deep blockquote::before {
+        content: '📜 ';
+        font-style: normal;
+        margin-right: 0.35rem;
+      }
+      .contenido-guia ::ng-deep blockquote p:last-child {
+        margin-bottom: 0;
+      }
+      .contenido-guia ::ng-deep table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        font-size: 0.92rem;
+        border-radius: var(--radio-media);
+        overflow: hidden;
+        border: 1px solid var(--borde);
+      }
+      .contenido-guia ::ng-deep table th,
+      .contenido-guia ::ng-deep table td {
+        padding: 0.75rem 1rem;
+        text-align: left;
+        border-bottom: 1px solid var(--borde);
+      }
+      .contenido-guia ::ng-deep table th {
+        background: var(--color-primario-suave);
+        color: var(--color-primario-oscuro);
+        font-weight: 700;
+        font-family: var(--fuente-titulos);
+      }
+      .contenido-guia ::ng-deep table tr:nth-child(even) td {
+        background: #fafafa;
+      }
+      .contenido-guia ::ng-deep table tr:hover td {
+        background: #f1f5f9;
+      }
       .error-carga {
         color: var(--color-error-texto);
       }
