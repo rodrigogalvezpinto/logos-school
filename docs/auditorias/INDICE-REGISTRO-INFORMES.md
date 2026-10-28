@@ -73,18 +73,18 @@ La matriz CSV tiene **290 filas** y estos estados al 28-10-2026:
 
 | Estado | Filas |
 |---|---:|
-| `pendiente_auditoria_sistematica` | 78 |
+| `pendiente_auditoria_sistematica` | 25 |
 | `revision_parcial_documentada` | 0 |
 | `corregido_pendiente_revalidacion` | 0 |
-| `revalidado` | 212 |
+| `revalidado` | 265 |
 | **Total** | **290** |
 
-Los 50 exámenes, los 6 archivos no-examen y las 156 pruebas de unidad de 1.º básico a 4.º medio están cerrados. Los 78 pendientes son guías de estudio y temarios. El denominador de guías debe reconciliarse: la matriz cuenta 48 y el árbol tiene 58 archivos de guía.
+Los 50 exámenes simulacro, las 156 pruebas de unidad y las 58 guías de estudio de 1.º básico a 4.º medio (más el tablero general de estado) están cerrados y revalidados: 265 / 265 archivos bajo `contenido/`. Los 25 pendientes corresponden a la carpeta `Temarios/` (12 PDFs oficiales y 13 análisis curriculares en Markdown). El denominador de guías quedó reconciliado: los 10 archivos catalogados originalmente como `otro` se corrigieron a `guía/contenido`, sumando exactamente 58 guías de estudio en el árbol y en la matriz.
 
 ## Problemas de organización que siguen abiertos
 
 1. Los documentos conservan cortes y fechas distintas; las cifras antiguas no deben presentarse como actuales.
-2. El denominador de guías no coincide entre la matriz (48) y el árbol (58).
+2. [CERRADO] El denominador de guías quedó reconciliado en 58 guías (revalidado 28-10-2026).
 3. Los IDs de seguimiento `LGS-*` y `MAT-*` son alias de los IDs H-###; no son defectos adicionales.
 4. Falta una matriz reproducible que relacione cada pregunta y cada OA con dimensiones revisadas, evidencia y pruebas.
 5. El issue #7 todavía enlaza a la rama `qa/...`; debe actualizarse a `main`.

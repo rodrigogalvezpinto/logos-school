@@ -691,3 +691,51 @@ SHA del commit `22385ab` y la evidencia en `observaciones`. El estado global
 queda en **78 pendientes y 212 revalidados**: lo pendiente son las guías de
 contenido y los temarios, no las pruebas. Ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
+
+## 12. GUÍAS DE ESTUDIO — 1.º BÁSICO A 4.º MEDIO (2026-10-28)
+
+Se auditaron y normalizaron las **58 guías de estudio** del proyecto (1° básico a 4° medio) más el archivo general contenido/00-estado-contenido.md. Con este cierre, el 100 % de los archivos bajo contenido/ (**265 / 265**) queda auditado y en estado 
+evalidado en la matriz maestra.
+
+### 12.1 Resumen de la revisión
+
+| Comprobación | Estado |
+|---|---|
+| Guías de estudio auditadas | 58 / 58 |
+| Frontmatter normalizado (	ipo: Guía de estudio, oa_evaluados, ultima_actualizacion, asado_en) | 58 / 58 |
+| Banco de autoevaluación revisado por guía | 58 / 58 |
+| Validador estructural Markdown (alidar_evaluaciones_markdown.py) | 0 hallazgos en 265 archivos |
+| Validador factual y de anglicismos | 0 hallazgos |
+| Discrepancia del denominador de guías en la matriz CSV | Resuelto: 58 guías uniformadas a guía/contenido |
+| Estado global de la matriz (290 archivos) | **265 revalidados / 25 pendientes** (solo Temarios/) |
+
+### 12.2 Correcciones disciplinarias y pedagógicas aplicadas
+
+Durante la auditoría sistemática de las guías se corrigieron inconsistencias pedagógicas, de redacción y de claves:
+
+1. **4.º básico, Matemática:** en Pregunta 1 de autoevaluación, se cambió «¿Cuál es el valor posicional del dígito 7 en el número 7.352?» por «¿En qué posición se ubica el dígito 7...?» para evitar la confusión conceptual entre posición (Unidad de mil) y valor posicional (7.000).
+2. **4.º básico, Historia:** se ajustó la clave de correspondencia de ríos (Amazonas, Mississippi, Biobío), eliminando una referencia duplicada errónea; se ajustó el ámbito geográfico inca («desde el sur de la actual Colombia») y se precisó la clasificación climática de Patagonia («Frío»).
+3. **4.º básico, Lenguaje:** se precisó la distinción entre metáfora y comparación (símil) en el modelamiento guiado de figuras literarias.
+4. **4.º básico, Ciencias:** se alineó el orden de las capas de la Tierra (rigidez, posición, temperatura) en la pauta de desarrollo breve.
+5. **5.º básico, Ciencias:** se distinguió con precisión entre microorganismos microscópicos (bacterias, virus, levaduras) y hongos multicelulares macroscópicos (champiñones); se corrigió la formulación del nivel de organización de la circulación sanguínea.
+6. **5.º básico, Historia:** se diferenció el componente cultural sincrético andino (La Tirana) de la tradición campesina huasa chilena (Cuasimodo).
+7. **5.º básico, Inglés:** se corrigió la redacción del sujeto en el ítem de lectura y se precisó el contexto en la lista de compras (*shopping list*).
+8. **5.º básico, Lenguaje:** se corrigió la identificación de versos y rima en el análisis poético guiado.
+9. **5.º básico, Matemática:** se reemplazó un distractor confuso en decimales («0,30 solamente...» por «0,003»); se explicitó la distancia exacta en redondeo y se simplificó el enunciado del problema de balanza para mantener rigor pedagógico.
+10. **6.º básico, Ciencias:** se aclaró que en la sublimación del hielo seco, la niebla visible es vapor de agua atmosférico condensado por el frío y no el gas dióxido de carbono en sí mismo; se eliminó redundancia en consumidores de segundo orden.
+11. **6.º básico, Inglés:** corrección de artículo faltante (*to the store*) y armonización de pronombres en pregunta de transporte.
+12. **6.º básico, Matemática:** se reemplazaron distractores con la fórmula «...solamente» por alternativas matemáticas válidas (4/40, 5 1/6).
+13. **7.º básico, Ciencias:** en la retroalimentación de leyes de los gases, se corrigió el desliz que repetía «temperatura, temperatura o volumen», dejándolo en «temperatura, presión o volumen» (Boyle, Charles, Gay-Lussac).
+14. **Media (3.º y 4.º medio):** normalización de decretos curriculares (Decreto 193/2019 Plan Común) e integración de trazabilidad completa por módulo en Ciencias para la Ciudadanía y Filosofía.
+
+### 12.3 Reconciliación del inventario en la matriz CSV
+
+La matriz maestra (docs/auditorias/matriz-maestra-estado-por-archivo.csv) presentaba una discordancia histórica: registraba 48 guías mientras el árbol contenía 58. El análisis reveló que 10 guías (lengua-y-literatura de 7.º básico a 4.º medio, ilosofia de 3.º y 4.º medio, y educacion-ciudadana de 3.º y 4.º medio) habían sido clasificadas erróneamente con 	ipo_recurso_preliminar: otro.
+
+Se corrigieron las 10 filas a guía/contenido, estableciendo un total exacto de **58 guías de estudio**. Todas las 58 filas, más contenido/00-estado-contenido.md, fueron recalculadas en tamaño de bytes y blob SHA desde Git, y pasaron a estado 
+evalidado.
+
+El conteo consolidado de las 290 rutas del proyecto es:
+- **
+evalidado**: 265 archivos (100 % de contenido/ — 50 exámenes + 156 pruebas de unidad + 58 guías + 1 tablero).
+- **pendiente_auditoria_sistematica**: 25 archivos (100 % bajo Temarios/ — 12 PDFs oficiales UCE y 13 análisis curriculares en Markdown).
