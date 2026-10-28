@@ -2,7 +2,7 @@
 
 **Corte del registro:** 28 de octubre de 2026  
 **Rama:** `main`  
-**HEAD de referencia:** `fbba513`  
+**HEAD de referencia:** `d6eca32`  
 **Estado:** índice documental; no certifica la calidad de los materiales.
 
 > **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y se conserva como referencia histórica.
@@ -21,7 +21,7 @@
 |---|---|---|
 | Control vigente | [00 — Centro de control de auditoría](00-CENTRO-DE-CONTROL-AUDITORIA.md) | Fuente única de prioridades, estado y siguiente acción. Leer primero. |
 | Auditoría consolidada | [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) | Cierre de contenido de los 50 exámenes, rúbricas, hojas de respuesta y evidencias. |
-| Cobertura por archivo | [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) | 290 rutas de `contenido/` y `Temarios/`; bytes y blob SHA al HEAD `fbba513`. Los 50 exámenes están `revalidado`. |
+| Cobertura por archivo | [matriz maestra de estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) | 290 rutas de `contenido/` y `Temarios/`; bytes y blob SHA al HEAD `d6eca32`. Los 50 exámenes y los 6 archivos no-examen están `revalidado`. |
 | Cobertura por curso/asignatura | [matriz maestra de asignaturas de 12 cursos](matriz-maestra-asignaturas-12-cursos.md) | Mapa curricular por curso y asignatura; no sustituye la matriz por archivo ni certifica ítems. |
 | Continuidad | [Handoff y bitácora maestra](HANDOFF-MAESTRO-AUDITORIA.md) | Contexto histórico y decisiones; sus recuentos antiguos no son métricas actuales. |
 | Gobernanza / criterios | [Plan maestro de auditoría integral](auditoria-integral-educativa-plan-maestro.md) | Dimensiones, severidades y protocolo de revisión. |
@@ -75,11 +75,11 @@ La matriz CSV tiene **290 filas** y estos estados al 28-10-2026:
 |---|---:|
 | `pendiente_auditoria_sistematica` | 233 |
 | `revision_parcial_documentada` | 1 |
-| `corregido_pendiente_revalidacion` | 6 |
-| `revalidado` | 50 |
+| `corregido_pendiente_revalidacion` | 0 |
+| `revalidado` | 56 |
 | **Total** | **290** |
 
-Los 50 exámenes simulacro están cerrados. Los 233 pendientes incluyen 156 pruebas de unidad y las guías de estudio. El denominador de guías debe reconciliarse: la matriz cuenta 48 y el árbol tiene 58 archivos de guía.
+Los 50 exámenes y los 6 archivos no-examen están cerrados. Los 233 pendientes incluyen 156 pruebas de unidad y las guías de estudio. El denominador de guías debe reconciliarse: la matriz cuenta 48 y el árbol tiene 58 archivos de guía.
 
 ## Problemas de organización que siguen abiertos
 

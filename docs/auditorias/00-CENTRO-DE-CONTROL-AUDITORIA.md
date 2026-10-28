@@ -3,7 +3,7 @@
 **Última actualización:** 28 de octubre de 2026  
 **Rama de trabajo:** `main`  
 **Alcance:** 1.º básico a 4.º medio; todas las asignaturas y recursos que el producto declara ofrecer o que se encuentren en el repositorio.  
-**Estado global:** **EN CURSO — exámenes cerrados; guías y pruebas de unidad pendientes**.
+**Estado global:** **EN CURSO — exámenes y correcciones cerrados; guías y pruebas de unidad pendientes**.
 
 > **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 
@@ -33,9 +33,9 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En el HEAD vigente `fbba513`, el árbol contiene 290 rutas de alcance educativo. La matriz CSV se regeneró en ese mismo HEAD, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: **233 pendientes de auditoría sistemática, 1 con revisión parcial documentada, 6 corregidas pendientes de revalidación y 50 exámenes revalidados**. El inventario de rutas está sincronizado; falta expandir la cobertura a preguntas, OA y recursos consumidos por la aplicación.
+En el HEAD vigente `d6eca32`, el árbol contiene 290 rutas de alcance educativo. La matriz CSV se regeneró en ese mismo HEAD, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: **233 pendientes de auditoría sistemática, 1 con revisión parcial documentada y 56 archivos revalidados**. El inventario de rutas está sincronizado; falta expandir la cobertura a preguntas, OA y recursos consumidos por la aplicación.
 
-La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **233 están pendientes de auditoría sistemática, 1 tiene revisión parcial documentada, 6 figuran como corregidas pendientes de revalidación y 50 exámenes están revalidados**. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
+La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **233 están pendientes de auditoría sistemática, 1 tiene revisión parcial documentada y 56 archivos están revalidados**. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
 La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA del blob, estado, informe de referencia y dimensiones pendientes. Los estados preliminares deben actualizarse con evidencia, no inferirse del nombre del archivo.
 
@@ -51,7 +51,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |
 | Recursos visuales y accesibilidad | No certificada | Falta cotejar referencias y render de la aplicación. |
 | Importación, puntuación y persistencia en app | No certificada | Se requiere entorno QA, pruebas reproducibles y contraste fuente/salida. |
-| Correcciones educativas | 50 exámenes revalidados; 6 cambios menores pendientes | Los 50 exámenes simulacro quedaron auditados y revalidados el 28-10-2026. Quedan 6 archivos no-examen en `corregido_pendiente_revalidacion`. La bitácora original fue retirada en la consolidación documental; su contenido se conserva en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y en el [registro de archivos eliminados](ARCHIVOS-ELIMINADOS.md). |
+| Correcciones educativas | 56 archivos revalidados | Los 50 exámenes y los 6 archivos no-examen quedaron auditados y revalidados el 28-10-2026. La matriz ya no tiene filas en `corregido_pendiente_revalidacion`. La bitácora original fue retirada en la consolidación documental; su contenido se conserva en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y en el [registro de archivos eliminados](ARCHIVOS-ELIMINADOS.md). |
 | Certificación final | No iniciada | Requiere denominadores conocidos, estados por unidad, hallazgos cerrados/aceptados y pruebas relevantes. |
 
 ## 5. Hallazgos de alto impacto conocidos
@@ -136,7 +136,7 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 Esta sección sustituye las instrucciones históricas que hayan quedado desactualizadas en otras secciones. Para continuar, usar este orden operativo:
 
 1. **Punto de entrada:** este centro de control.
-2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estado vigente al 28-10-2026: 233 pendientes, 1 revisión parcial, 6 corregidos pendientes de revalidación y 50 exámenes revalidados).
+2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estado vigente al 28-10-2026: 233 pendientes, 1 revisión parcial y 56 archivos revalidados).
 3. **Hallazgos y correcciones:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` y `registro-implementacion-correcciones-2026-10-22.md`; reconciliar IDs antes de contar hallazgos únicos.
 4. **Evidencia:** ampliar informes existentes antes de crear otro informe para el mismo archivo/ítem.
 5. **Validación técnica:** el workflow asociado al HEAD `77b9c15bb0f5bd29568d19d6e21702c000e3b9c9` terminó en éxito: [run 39871505287](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871505287). Esto valida solo los pasos configurados.
@@ -201,7 +201,7 @@ La reconciliación documental de los 11 cambios de la bitácora ya se completó 
 
 ## 15. Estado verificado al 28 de octubre de 2026 — rama `main`
 
-Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el HEAD `fbba513`, después de integrar el PR #8.
+Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el HEAD `d6eca32`, después de integrar el PR #8 y de revalidar los 6 archivos no-examen.
 
 ### 15.1 Regla de trabajo
 
@@ -214,6 +214,7 @@ Esta sección es la foto vigente y sustituye los recuentos de las secciones hist
 | Comprobación | Resultado |
 |---|---|
 | Exámenes auditados y revalidados | **50 / 50** |
+| Archivos no-examen revalidados | **6 / 6** |
 | Preguntas de examen | 1.210 |
 | Alternativas | 635 |
 | Desalineaciones enunciado ↔ alternativa ↔ pauta | 0 |
@@ -227,13 +228,13 @@ Esta sección es la foto vigente y sustituye los recuentos de las secciones hist
 | Enlaces rotos dentro de `contenido/` | 0 |
 | Menciones falsas a una «Forma A» inexistente | 0 (quedan 25 legítimas de 1.º–4.º básico) |
 
-La matriz CSV quedó reconciliada: los 50 exámenes pasaron a `revalidado`, con `estado_inventario` en `fbba513`, bytes y blob SHA regenerados, referencia a `AUDITORIA_MAESTRA.md` y observación con la evidencia de cierre.
+La matriz CSV quedó reconciliada: los 50 exámenes y los 6 archivos no-examen pasaron a `revalidado`, con `estado_inventario` en `d6eca32`, bytes y blob SHA regenerados, referencia a `AUDITORIA_MAESTRA.md` y observación con la evidencia de cierre.
 
 ### 15.3 Pendientes de contenido
 
 1. **Pruebas de unidad: 156 en total, 155 pendientes y 1 con revisión parcial.** Es el bloque grande que la auditoría de exámenes no cubrió.
 2. **Guías de estudio: la matriz cuenta 48 y el árbol tiene 58.** Hay que reconciliar el denominador antes de declarar porcentajes; hoy 44 de las 48 filas de la matriz figuran pendientes.
-3. **6 archivos no-examen** siguen en `corregido_pendiente_revalidacion` (guías y recursos varios).
+3. Los **6 archivos no-examen** que estaban en `corregido_pendiente_revalidacion` quedaron revalidados el 28-10-2026.
 4. **55 marcadores `[Imagen: ...]` en 23 archivos** siguen sin ser imágenes reales (issue #2). Falta decidir estrategia: IA, banco libre, SVG/emoji o reescribir sin imagen.
 5. **Componentes visuales de Matemática** (recta numérica, fracciones, figuras) siguen pendientes.
 6. **18 de 50 exámenes no declaran `Puntaje total` y 49 de 50 no declaran escala**; el importador no lee esos campos. Es cosmético y no fue solicitado, pero conviene unificarlo.
@@ -242,18 +243,17 @@ La matriz CSV quedó reconciliada: los 50 exámenes pasaron a `revalidado`, con 
 
 - **Backend y E2E no se pudieron ejecutar** en esta sesión: el daemon de Docker estaba detenido y PostgreSQL no escuchaba en 5432. Línea base documentada: 491 pytest / 33 Vitest / 362 E2E (21-10-2026). El frontend unitario sí se ejecutó: **46/46 en verde** (10 archivos).
 - **El CI solo valida contenido estructural** (`qa-auditoria-contenido.yml`). No ejecuta pytest, Vitest ni Playwright.
-- Los issues **#3, #4, #5 y #6** ya están corregidos en el contenido, pero siguen abiertos.
-- El issue **#7** sigue enlazando a la rama `qa/...`; conviene actualizarlo a `main`.
+- Los issues **#3, #4, #5 y #6** quedaron cerrados el 28-10-2026 con comentario y evidencia.
+- El issue **#7** quedó actualizado para apuntar a `main`; sigue abierto hasta cerrar la auditoría integral.
+- Queda pendiente borrar la rama remota `ai/roadmap-inteligencia-educativa`: su contenido ya está integrado en `main`.
 
 ### 15.5 Próximos pasos, en orden
 
-1. Reparar los enlaces relativos rotos y las referencias al informe movido (hecho en este mismo commit).
-2. Auditar las 156 pruebas de unidad, empezando por 1.º y 2.º básico.
-3. Reconciliar el denominador de guías (48 en matriz vs. 58 en árbol) y auditar las guías.
-4. Decidir y ejecutar la estrategia de imágenes del issue #2.
-5. Levantar PostgreSQL/Docker y correr backend + E2E.
-6. Ampliar el CI a pytest, Vitest y Playwright.
-7. Actualizar el issue #7 a `main` y cerrar los issues #3–#6.
-8. Preparar producción (issue #1): Neon, Render, Cloudflare Pages, Sentry, UptimeRobot y credenciales.
+1. Auditar las 156 pruebas de unidad, empezando por 1.º y 2.º básico.
+2. Reconciliar el denominador de guías (48 en matriz vs. 58 en árbol) y auditar las guías.
+3. Decidir y ejecutar la estrategia de imágenes del issue #2.
+4. Levantar PostgreSQL/Docker y correr backend + E2E.
+5. Ampliar el CI a pytest, Vitest y Playwright.
+6. Preparar producción (issue #1): Neon, Render, Cloudflare Pages, Sentry, UptimeRobot y credenciales.
 
 **Conclusión:** el contenido de exámenes está cerrado y la matriz ya refleja ese cierre. La auditoría integral **sigue en curso**: faltan pruebas de unidad, guías, recursos visuales y la verificación técnica en entorno completo. No se declara 100 %.
