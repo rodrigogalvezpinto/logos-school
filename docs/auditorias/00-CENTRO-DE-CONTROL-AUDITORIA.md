@@ -33,9 +33,9 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En el HEAD vigente `d6eca32`, el árbol contiene 290 rutas de alcance educativo. La matriz CSV se regeneró en ese mismo HEAD, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: **233 pendientes de auditoría sistemática, 1 con revisión parcial documentada y 56 archivos revalidados**. El inventario de rutas está sincronizado; falta expandir la cobertura a preguntas, OA y recursos consumidos por la aplicación.
+En el HEAD vigente `7f1572f`, el árbol contiene 290 rutas de alcance educativo. La matriz CSV se regeneró en ese mismo HEAD, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: **210 pendientes de auditoría sistemática y 80 archivos revalidados**. El inventario de rutas está sincronizado; falta expandir la cobertura a preguntas, OA y recursos consumidos por la aplicación.
 
-La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **233 están pendientes de auditoría sistemática, 1 tiene revisión parcial documentada y 56 archivos están revalidados**. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
+La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **210 están pendientes de auditoría sistemática y 80 archivos están revalidados**. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
 La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA del blob, estado, informe de referencia y dimensiones pendientes. Los estados preliminares deben actualizarse con evidencia, no inferirse del nombre del archivo.
 
@@ -51,7 +51,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |
 | Recursos visuales y accesibilidad | No certificada | Falta cotejar referencias y render de la aplicación. |
 | Importación, puntuación y persistencia en app | No certificada | Se requiere entorno QA, pruebas reproducibles y contraste fuente/salida. |
-| Correcciones educativas | 56 archivos revalidados | Los 50 exámenes y los 6 archivos no-examen quedaron auditados y revalidados el 28-10-2026. La matriz ya no tiene filas en `corregido_pendiente_revalidacion`. La bitácora original fue retirada en la consolidación documental; su contenido se conserva en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y en el [registro de archivos eliminados](ARCHIVOS-ELIMINADOS.md). |
+| Correcciones educativas | 80 archivos revalidados | Los 50 exámenes, los 6 archivos no-examen y las 24 pruebas de unidad de 1.º y 2.º básico quedaron auditados y revalidados el 28-10-2026. La matriz ya no tiene filas en `corregido_pendiente_revalidacion` ni en `revision_parcial_documentada`. La bitácora original fue retirada en la consolidación documental; su contenido se conserva en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y en el [registro de archivos eliminados](ARCHIVOS-ELIMINADOS.md). |
 | Certificación final | No iniciada | Requiere denominadores conocidos, estados por unidad, hallazgos cerrados/aceptados y pruebas relevantes. |
 
 ## 5. Hallazgos de alto impacto conocidos
@@ -136,7 +136,7 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 Esta sección sustituye las instrucciones históricas que hayan quedado desactualizadas en otras secciones. Para continuar, usar este orden operativo:
 
 1. **Punto de entrada:** este centro de control.
-2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estado vigente al 28-10-2026: 233 pendientes, 1 revisión parcial y 56 archivos revalidados).
+2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estado vigente al 28-10-2026: 210 pendientes y 80 archivos revalidados).
 3. **Hallazgos y correcciones:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` y `registro-implementacion-correcciones-2026-10-22.md`; reconciliar IDs antes de contar hallazgos únicos.
 4. **Evidencia:** ampliar informes existentes antes de crear otro informe para el mismo archivo/ítem.
 5. **Validación técnica:** el workflow asociado al HEAD `77b9c15bb0f5bd29568d19d6e21702c000e3b9c9` terminó en éxito: [run 39871505287](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871505287). Esto valida solo los pasos configurados.
@@ -201,7 +201,7 @@ La reconciliación documental de los 11 cambios de la bitácora ya se completó 
 
 ## 15. Estado verificado al 28 de octubre de 2026 — rama `main`
 
-Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el commit de contenido `d6eca32` (commit documental `1788f5f`), después de integrar el PR #8 y de revalidar los 6 archivos no-examen.
+Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el commit de contenido `7f1572f`, después de integrar el PR #8, revalidar los 6 archivos no-examen y auditar las 24 pruebas de unidad de 1.º y 2.º básico.
 
 ### 15.1 Regla de trabajo
 
@@ -215,6 +215,7 @@ Esta sección es la foto vigente y sustituye los recuentos de las secciones hist
 |---|---|
 | Exámenes auditados y revalidados | **50 / 50** |
 | Archivos no-examen revalidados | **6 / 6** |
+| Pruebas de unidad revalidadas (1.º y 2.º básico) | **24 / 156** |
 | Preguntas de examen | 1.210 |
 | Alternativas | 635 |
 | Desalineaciones enunciado ↔ alternativa ↔ pauta | 0 |
@@ -228,16 +229,17 @@ Esta sección es la foto vigente y sustituye los recuentos de las secciones hist
 | Enlaces rotos dentro de `contenido/` | 0 |
 | Menciones falsas a una «Forma A» inexistente | 0 (quedan 25 legítimas de 1.º–4.º básico) |
 
-La matriz CSV quedó reconciliada: los 50 exámenes y los 6 archivos no-examen pasaron a `revalidado`, con `estado_inventario` en `d6eca32`, bytes y blob SHA regenerados, referencia a `AUDITORIA_MAESTRA.md` y observación con la evidencia de cierre.
+La matriz CSV quedó reconciliada: los 50 exámenes, los 6 archivos no-examen y las 24 pruebas de unidad de 1.º y 2.º básico pasaron a `revalidado`, con `estado_inventario` en `7f1572f`, bytes y blob SHA regenerados, referencia a `AUDITORIA_MAESTRA.md` y observación con la evidencia de cierre.
 
 ### 15.3 Pendientes de contenido
 
-1. **Pruebas de unidad: 156 en total, 155 pendientes y 1 con revisión parcial.** Es el bloque grande que la auditoría de exámenes no cubrió.
-2. **Guías de estudio: la matriz cuenta 48 y el árbol tiene 58.** Hay que reconciliar el denominador antes de declarar porcentajes; hoy 44 de las 48 filas de la matriz figuran pendientes.
-3. Los **6 archivos no-examen** que estaban en `corregido_pendiente_revalidacion` quedaron revalidados el 28-10-2026.
-4. **55 marcadores `[Imagen: ...]` en 23 archivos** siguen sin ser imágenes reales (issue #2). Falta decidir estrategia: IA, banco libre, SVG/emoji o reescribir sin imagen.
-5. **Componentes visuales de Matemática** (recta numérica, fracciones, figuras) siguen pendientes.
-6. **18 de 50 exámenes no declaran `Puntaje total` y 49 de 50 no declaran escala**; el importador no lee esos campos. Es cosmético y no fue solicitado, pero conviene unificarlo.
+1. **Pruebas de unidad: 156 en total, 24 revalidadas y 132 pendientes.** Las de 1.º y 2.º básico se cerraron el 28-10-2026; faltan las de 3.º básico a 4.º medio.
+2. **Frontmatter de las 132 pruebas restantes:** conservan claves heterogéneas (`tiempo sugerido`, `cantidad de preguntas`, `OA evaluados`, etc.). Se normalizarán junto con la auditoría de cada archivo.
+3. **Guías de estudio: la matriz cuenta 48 y el árbol tiene 58.** Hay que reconciliar el denominador antes de declarar porcentajes; hoy 44 de las 48 filas de la matriz figuran pendientes.
+4. Los **6 archivos no-examen** que estaban en `corregido_pendiente_revalidacion` quedaron revalidados el 28-10-2026.
+5. **55 marcadores `[Imagen: ...]` en 23 archivos** siguen sin ser imágenes reales (issue #2). Falta decidir estrategia: IA, banco libre, SVG/emoji o reescribir sin imagen.
+6. **Componentes visuales de Matemática** (recta numérica, fracciones, figuras) siguen pendientes.
+7. **18 de 50 exámenes no declaran `Puntaje total` y 49 de 50 no declaran escala**; el importador no lee esos campos. Es cosmético y no fue solicitado, pero conviene unificarlo.
 
 ### 15.4 Pendientes técnicos
 
@@ -249,7 +251,7 @@ La matriz CSV quedó reconciliada: los 50 exámenes y los 6 archivos no-examen p
 
 ### 15.5 Próximos pasos, en orden
 
-1. Auditar las 156 pruebas de unidad, empezando por 1.º y 2.º básico.
+1. Continuar la auditoría de las 132 pruebas de unidad restantes, desde 3.º básico.
 2. Reconciliar el denominador de guías (48 en matriz vs. 58 en árbol) y auditar las guías.
 3. Decidir y ejecutar la estrategia de imágenes del issue #2.
 4. Levantar PostgreSQL/Docker y correr backend + E2E.

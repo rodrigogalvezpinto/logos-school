@@ -501,3 +501,59 @@ Mejoras editoriales opcionales (no bloquean publicación):
 4. Ejecutar la QA técnica con PostgreSQL y Docker activos: los **326 tests de
    backend** no se pudieron correr en esta sesión porque el daemon de Docker no
    estaba disponible.
+
+---
+
+## 11. PRUEBAS DE UNIDAD — 1.º Y 2.º BÁSICO (2026-10-28)
+
+Se auditaron las **24 pruebas de unidad** de 1.º y 2.º básico (12 por curso:
+Ciencias Naturales ×3, Historia ×3, Lenguaje ×2, Matemática ×4). Cada archivo se
+leyó completo y se contrastó pregunta por pregunta con su pauta.
+
+### 11.1 Comprobaciones
+
+| Comprobación | Resultado |
+|---|---|
+| Archivos auditados | 24 / 24 |
+| Preguntas y respuestas de pauta coincidentes | 24 / 24 |
+| Alternativas coherentes con la clave | 24 / 24 |
+| Frontmatter normalizado | 24 / 24 |
+| Preguntas totales revisadas | 173 |
+
+### 11.2 Defectos corregidos
+
+1. **1.º básico, Historia, pregunta 1:** la alternativa marcada como correcta
+   era «Dormir toda la noche», que no responde a «¿Qué haces primero en la
+   mañana?». Se reemplazó por «Despertarme y levantarme».
+2. **1.º básico, Lenguaje unidad 1, pregunta 4:** los dos espacios de «pe _ _ o»
+   admitían tanto «r» como «rr», así que había dos respuestas válidas. Quedó un
+   solo espacio con las opciones «r», «rr» y «ll».
+3. **1.º básico, Lenguaje unidad 2, pregunta 7:** la pauta describía los sonidos
+   de «pez» como /p/-/e/-/z/. Se corrigió a /p/-/e/-/s/, escrito con p, e, z.
+4. **1.º básico, Matemática, Geometría, pregunta 1:** el enunciado era ambiguo
+   («la mano con la que normalmente escribes y es tu mano derecha»). Se reformuló
+   para que la posición «derecha» fuera inequívoca.
+5. **1.º básico, Matemática, Medición, pregunta 2:** la observación previa
+   («sin longitudes en Markdown») ya no aplica: declara 3, 18 y 30 cm. El archivo
+   pasó de `revision_parcial_documentada` a `revalidado`.
+
+También se corrigió el rótulo «Puntaje total: 7 preguntas» de las dos pruebas de
+Lenguaje de 1.º básico, que ahora indica 7 puntos (1 por pregunta).
+
+### 11.3 Normalización de frontmatter
+
+Las 24 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
+`eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en` o `fuente` y
+`ultima_actualizacion`. Se eliminaron las variantes con espacio (`tiempo
+sugerido`, `cantidad de preguntas`, `OA evaluados`, `última actualización`) y se
+agregaron `tipo` y `cantidad_preguntas` donde faltaban.
+
+Las **132 pruebas restantes** (3.º básico a 4.º medio) conservan esas variantes;
+se normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
+
+### 11.4 Estado
+
+La matriz CSV marca las 24 filas como `revalidado`, con bytes y blob SHA del
+commit `7f1572f` y la evidencia en `observaciones`. El estado global queda en
+**210 pendientes y 80 revalidados**; ya no hay filas en
+`revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
