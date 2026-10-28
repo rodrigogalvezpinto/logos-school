@@ -81,8 +81,8 @@ b) A recipe
 c) A birthday card
 d) A weather report
 
-**8.** *(Pregunta abierta — completar)* Complete the dialogue: *"— I broke
-your pencil. — ___, don't worry."* (usa una expresión para disculparse)
+**8.** *(Pregunta abierta — completar)* Complete the dialogue: *"— ___, I broke
+your pencil. — That's OK, don't worry."* (usa una expresión para disculparte)
 
 **9.** *(Pregunta abierta — responder en inglés)* Read: *"Dear Sofía, the
 party is on Saturday at 3 pm. From, Martina."* Answer in English: *What day

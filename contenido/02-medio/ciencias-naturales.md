@@ -742,8 +742,7 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
 
 5. *(Análisis/cálculo)* Un ciclista parte del reposo y acelera de manera constante,
    alcanzando una velocidad de 12 m/s luego de 6 segundos. Calcula su aceleración.
-   **Respuesta correcta:** Aceleración = (velocidad final − velocidad inicial) /
-   tiempo = (12 m/s − 0 m/s) / 6 s = 2 m/s².
+   **Respuesta correcta:** \( a = \frac{v_f - v_i}{t} = \frac{12\text{ m/s} - 0\text{ m/s}}{6\text{ s}} = 2\text{ m/s}^2 \).
    **Retroalimentación:** Una aceleración de 2 m/s² significa que la velocidad del
    ciclista aumenta en 2 m/s durante cada segundo transcurrido.
 
@@ -818,8 +817,9 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    de una baranda) actúa sobre ellos para cambiar su estado de movimiento.
 
 2. **Segunda ley de Newton: cálculo de fuerza neta.** Un carrito de supermercado de 20
-   kg de masa se acelera a 0,5 m/s². La fuerza neta aplicada sobre el carrito es:
-   fuerza neta = masa × aceleración = 20 kg × 0,5 m/s² = 10 N.
+   kg de masa se acelera a 0,5 m/s². La fuerza neta aplicada sobre el carrito se calcula con la segunda ley de Newton:
+
+   $$ F_{\text{neta}} = m \cdot a = 20\text{ kg} \times 0{,}5\text{ m/s}^2 = 10\text{ N} $$
 
 3. **Tercera ley de Newton al nadar.** Al nadar, una persona empuja el agua hacia
    atrás con sus brazos y piernas (acción); en reacción, el agua empuja a la persona
@@ -1121,8 +1121,9 @@ electricidad, a diferencia del agua pura, que es un conductor eléctrico muy pob
    pierde su efervescencia más rápido.
 
 3. **Cálculo de concentración porcentual.** Si se disuelven 20 g de sal en agua hasta
-   obtener 200 g de solución total, la concentración porcentual masa/masa es: (20 g de
-   soluto ÷ 200 g de solución) × 100 = 10% m/m.
+   obtener 200 g de solución total, la concentración porcentual masa/masa es:
+
+   $$ \%m/m = \frac{m_{\text{soluto}}}{m_{\text{solución}}} \times 100 = \frac{20\text{ g}}{200\text{ g}} \times 100 = 10\% \text{ m/m} $$
 
 **Banco de preguntas de autoevaluación**
 

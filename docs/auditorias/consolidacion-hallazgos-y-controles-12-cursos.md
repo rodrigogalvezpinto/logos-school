@@ -1,0 +1,228 @@
+# Consolidación de hallazgos preliminares — auditoría de 12 cursos
+
+> **Referencia de estado vigente (2026-10-22):** consultar primero el [Centro de control único de auditoría](00-CENTRO-DE-CONTROL-AUDITORIA.md). Esta consolidación acumula hallazgos por fecha/lote y contiene secciones históricas; la numeración repetida y los alcances distintos son motivos para usar el centro de control como índice, no para asumir que cada sección equivale a un cierre.
+
+
+**Fecha de corte:** 21 de octubre de 2026  
+**Repositorio:** rodrigogalvezpinto/logos-school  
+**Rama:** qa/fase-2-matriz-trazabilidad  
+**Estado:** consolidación parcial de reportes existentes; no es certificación integral.  
+**Regla de alcance:** diagnóstico documental solamente. No se modifican guías, preguntas, aplicación ni base de datos.
+
+## 1. Cómo interpretar este informe
+
+Los hallazgos aquí listados se recogieron en revisiones parciales de archivos y muestras. La ausencia de un hallazgo para un curso o asignatura **no** significa que esté aprobada. Los niveles de prioridad son preliminares y deben confirmarse al reproducir el caso en la fuente y, cuando corresponda, en la aplicación.
+
+- **P1:** posible error que afecta respuesta correcta, puntaje o validez de una evaluación.
+- **P2:** posible imprecisión conceptual, factual, curricular o de diseño que puede inducir a error.
+- **P3:** claridad, contextualización, trazabilidad o mejora pedagógica.
+- **Pendiente de reproducir:** no debe tratarse como defecto confirmado hasta verificar la ruta y el contexto exactos.
+
+## 2. Hallazgos de mayor prioridad para reproducir primero
+
+| ID provisional | Curso / archivo | Prioridad | Hallazgo observado | Próxima verificación |
+|---|---|---:|---|---|
+| LGS-4B-EVAL-001 | 4.º básico, examen integrado Forma B | P1 | En pregunta con x + 9 = 23, el valor 14 aparece como alternativa b), pero la clave reportada indica c) 14. | Abrir archivo vigente, comprobar opciones y clave; agregar prueba de regresión de clave-opción. |
+| LGS-5B-EVAL-001 | 5.º básico, Historia Forma B | P1 | Encabezado declara 30 puntos, pero la distribución reportada suma 35. | Recalcular puntaje desde todas las preguntas y criterios de corrección. |
+| LGS-1B-MAT-001 | 1.º básico, prueba de medición/datos | P1 | Una pregunta pide ordenar objetos por longitud sin medidas ni imagen que permita comparar. | Confirmar enunciado completo y render de la prueba; determinar si falta un recurso visual. |
+| LGS-6B-MAT-001 | 6.º básico, guía de Matemática | P1 | 24.600 botellas en cajas de 12 dan 2.050 cajas; repartidas entre 3 distribuidores son 683 por distribuidor y sobra 1 caja. La retroalimentación reportada no explica el resto. | Confirmar si el contexto exige reparto entero, sobrante o distribución no uniforme; ajustar solo en fase de corrección autorizada. |
+| LGS-4B-EVAL-002 | 4.º básico, Ciencias Forma A | P2 | Aparece la expresión «información líquida» donde el sentido esperado parece ser materia/material en estado líquido. | Confirmar literalidad, contexto y posible efecto en la respuesta. |
+| LGS-5B-EVAL-002 | 5.º básico, Historia | P2 | La disminución de población indígena se atribuye principalmente a enfermedades introducidas por europeos sin suficiente contextualización multifactorial. | Revisar explicación, periodo y región; comprobar que no reduzca un proceso histórico complejo a una sola causa. |
+
+**Nota:** los IDs son identificadores de seguimiento usados en reportes parciales; no representan tickets creados en GitHub salvo que se indique expresamente.
+
+## 3. Resumen de cobertura documental por curso
+
+| Curso | Reportes parciales localizados | Hallazgos/áreas principales que requieren seguimiento | Estado real |
+|---|---|---|---|
+| 1.º básico | Hallazgos preliminares, segunda pasada y revisión ampliada | Números 11–19; fonema/grafema; pregunta de longitud sin medidas; clave de rutina diaria; instrucciones y contextualización | Parcial; no certificado |
+| 2.º básico | Tres pasadas, incluyendo evaluación | Forma A/B con ítems repetidos; claves de Historia/Ciencias; pupas/capullos; generalizaciones culturales; gráfico posiblemente externo | Parcial; no certificado |
+| 3.º básico | Guías principales y evaluación | Reutilización de textos/ilustraciones entre formas A/B; convención de seis/siete continentes; criterios de inferencias abiertas | Parcial; no certificado |
+| 4.º básico | Guías principales y evaluación | Posible desajuste clave-opción en Matemática; terminología científica; comparabilidad de formas; mapa geográfico insuficientemente especificado | Parcial; no certificado |
+| 5.º básico | Evaluaciones | Suma de puntaje inconsistente en Historia Forma B; contextualización histórica; trazabilidad pregunta-OA | Parcial; no certificado |
+| 6.º básico | Primera pasada | Reparto con resto omitido en Matemática; distinción entre estimación y cálculo exacto; ficción histórica y trabajo infantil | Parcial; no certificado |
+| 7.º básico | Guías principales | Encuentros culturales presentados como siempre beneficiosos; categorías de sexualidad que pueden solaparse; inferencias con evidencia textual | Parcial; no certificado |
+| 8.º básico | Guías principales | Procedencia de texto literario; simplificación de célula vegetal/animal; transición medieval-moderna no monocausal | Parcial; no certificado |
+| 1.º medio | Guías principales | Distinguir tradición cultural de hecho verificado; contextualizar límites históricos de ideales republicanos; ampliar evidencia curricular | Parcial; no certificado |
+| 2.º medio | Guías principales | Separar evidencia explícita de inferencia; matizar impacto internacional de crisis de 1929; completar verificación de Matemática | Parcial; no certificado |
+| 3.º medio | Guías principales | Varianza poblacional/muestral; argumentos basados en evidencia; procedencia textual; rúbrica para respuestas filosóficas abiertas | Parcial; no certificado |
+| 4.º medio | Guías principales y cuatro pasadas de evaluación/Matemática | Supuestos de tasas financieras; puntajes de Ciencias/Filosofía; rúbricas de Inglés; suma total de Educación Ciudadana; 10 cálculos de Matemática verificados, no el examen completo | Parcial; no certificado |
+
+## 4. Controles automatizables propuestos
+
+Estos controles son una propuesta de trabajo, no una afirmación de que ya estén implementados.
+
+### C1. Consistencia de puntajes
+- Extraer puntaje declarado en encabezado.
+- Sumar puntajes asignados a cada pregunta y rúbrica.
+- Marcar discrepancia entre total declarado y suma calculada.
+- Incluir casos de puntaje parcial y preguntas de desarrollo para evitar falsos positivos.
+
+### C2. Integridad de clave y alternativas
+- Para cada pregunta de selección múltiple, verificar que la clave coincida exactamente con una alternativa existente.
+- Marcar claves duplicadas, opciones ausentes, letra que no corresponde al texto de la respuesta y preguntas sin clave.
+- Para preguntas abiertas, no forzar una clave de opción múltiple: exigir rúbrica o criterios.
+
+### C3. Referencias a recursos
+- Detectar expresiones como «observa el gráfico», «según la imagen», «en el mapa» o «lee el texto» y comprobar que exista un recurso adjunto o una referencia explícita.
+- Clasificar el resultado como «recurso no encontrado en Markdown» hasta inspeccionar el render y los recursos externos.
+
+### C4. Comparación de Forma A/B
+- Normalizar espacios, signos y formato de Markdown para comparar enunciados.
+- Comparar también textos base, alternativas, datos numéricos e ilustraciones referenciadas.
+- Informar similitudes para revisión humana; no declarar duplicación inválida solo por coincidencia de formato.
+
+### C5. Trazabilidad OA
+- Generar tabla por pregunta: curso, asignatura, archivo, ID de pregunta, OA declarado y evidencia textual.
+- Comparar los OA declarados en el encabezado con los OA realmente vinculados a preguntas.
+- No inferir cobertura curricular completa a partir de una lista de OA.
+
+### C6. Coherencia de contenido fuente y parser
+- Ejecutar fixtures para patrones de opción múltiple, verdadero/falso, respuesta abierta, rúbricas, tablas y recursos multimedia.
+- Incluir una prueba negativa para la palabra «alternativas» usada en sentido ordinario (por ejemplo, «alternativas de ahorro»), para evitar falsos positivos del parser.
+- Comparar cantidad e IDs de preguntas antes y después de importar.
+
+### C7. Preguntas de Matemática con cálculo reproducible
+- Para cada ejercicio numérico, registrar fórmula, sustitución, resultado y unidad.
+- Separar resultado exacto, aproximación, estimación y redondeo.
+- No intentar validar semánticamente toda la matemática con regex; combinar pruebas automáticas con resolución independiente y revisión humana.
+
+## 5. Orden de ejecución recomendado
+
+1. **Reproducir P1** en 1.º, 4.º, 5.º y 6.º básico; documentar si cada uno se confirma o se descarta.
+2. Construir fixtures y pruebas de regresión para consistencia de puntajes y clave-opción.
+3. Auditar de forma sistemática las evaluaciones de los cursos restantes, no solo las guías principales.
+4. Completar la verificación de preguntas de Matemática de 4.º medio; los diez cálculos verificados hasta ahora no equivalen a validar las 25 preguntas.
+5. Regenerar inventario desde el HEAD vigente y resolver discrepancias históricas de conteos.
+6. Hacer cotejo curricular oficial por curso y asignatura, registrando versión/URL y evidencia.
+7. Solo después de cerrar diagnóstico, preparar una propuesta separada de correcciones y regresión.
+
+## 6. Criterios de salida para cada hallazgo
+
+Cada hallazgo debe terminar en uno de estos estados:
+
+- confirmado: reproducción en archivo vigente con evidencia precisa.
+- descartado: la lectura completa o el render demuestra que no hay defecto.
+- depende del render/recurso: requiere revisar la aplicación o un archivo externo.
+- requiere fuente curricular: requiere cotejo oficial o fuente primaria.
+- corregido pendiente de verificación: la corrección existe, pero falta comprobarla.
+- cerrado verificado: corrección y prueba de regresión confirmadas.
+
+No marcar como «cerrado» un hallazgo solo porque se haya redactado una recomendación.
+
+## 7. Limitaciones actuales
+
+- Esta consolidación utiliza reportes de auditoría parciales, no una lectura nueva y completa de los 52 archivos principales ni de todos los bancos y exámenes.
+- No se ha demostrado aún cobertura oficial del currículo completo de cada nivel.
+- Las cantidades históricas de archivos, preguntas y pruebas requieren regeneración desde el HEAD vigente.
+- No se modificó contenido educativo, lógica de la aplicación ni base de datos.
+
+## 8. Evidencia de control automático y reproducción documental — 2026-10-21
+
+Se ejecutó el workflow de GitHub Actions sobre la rama `qa/fase-2-matriz-trazabilidad`.
+
+- Última ejecución verificada: https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39690867855
+- Pruebas unitarias del validador: **8 aprobadas** en esa ejecución.
+- Control estructural: **2 hallazgos detectados**; el job termina en fallo intencional para impedir que las inconsistencias pasen inadvertidas.
+- Hallazgo 1: `contenido/04-basico/examenes/examen-integrado-forma-b.md`, pregunta 16. La pauta declara `c) 14`, mientras que la alternativa c es 13 y la alternativa b es 14.
+- Hallazgo 2: `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`. Se declaran 30 puntos al inicio y 35 puntos en la pauta final.
+
+La mejora del patrón de lectura de puntajes permite reconocer declaraciones que incluyen negrita Markdown. La detección automática aporta evidencia estructural, pero no cierra los hallazgos: ambos requieren corrección propuesta, aprobación y regresión. La prueba unitaria adicional para puntajes con formato Markdown se añadió en el commit `531e696eeadd2cbd6c88ab0086c8301c1d899608`; en la ejecución más reciente, las ocho pruebas unitarias pasaron, mientras el control estructural volvió a fallar al detectar los dos hallazgos esperados.
+
+
+## 9. Reproducción documental adicional — 2026-10-21
+
+Se volvieron a abrir los archivos vigentes de la rama QA y se contrastaron los siguientes casos. Esta comprobación es de fuente Markdown; no sustituye la inspección del render ni la verificación de recursos externos.
+
+| Caso | Evidencia reproducida | Estado | Siguiente paso |
+|---|---|---|---|
+| LGS-1B-MAT-001 | En `contenido/01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md`, la pregunta 2 pide ordenar goma, lápiz y regla por longitud, pero el enunciado no proporciona medidas ni declara una imagen. La pauta presupone un orden único. | Confirmado en la fuente; pendiente verificar render y recursos externos. | Inspeccionar la prueba en QA y comprobar si existe una ilustración asociada fuera del Markdown. No modificar hasta autorización. |
+| LGS-4B-EVAL-001 | En `contenido/04-basico/examenes/examen-integrado-forma-b.md`, el control automático reproduce que la pauta de la pregunta 16 dice `c) 14`, mientras la alternativa c es 13 y la b es 14. | Confirmado documental y automáticamente. | Proponer corrección de la letra de la clave, solicitar aprobación y añadir regresión antes de editar contenido. |
+| LGS-5B-EVAL-001 | En `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md`, el encabezado declara 30 puntos; el control detecta otra declaración de 35 puntos. La suma de los 25 puntajes declarados en los encabezados de pregunta da 35; la suma de los 25 puntajes de la tabla de pauta también da 35. El encabezado de 30 puntos es la declaración discrepante. | Discrepancia confirmada y suma de ítems/pauta reproducida en 35 puntos; pendiente aprobación para corregir el encabezado de 30. | Sumar todos los puntajes de preguntas y rúbricas y contrastarlos con el total declarado. |
+| LGS-6B-MAT-001 | En `contenido/06-basico/matematica.md`, 24.600 ÷ 12 = 2.050 cajas y 2.050 ÷ 3 = 683 cajas por distribuidor con resto 1. La retroalimentación usa `≈ 683` pero no explica el resto. | Confirmado en la fuente; la gravedad depende de la intención didáctica y del contexto de reparto. | Determinar si se esperan cajas enteras y cómo se distribuye la caja restante; revisar la solución pedagógica. |
+
+No se ha comprobado todavía el render real de la prueba de 1.º básico. En 5.º básico, la suma documental de los 25 ítems y de la pauta se reprodujo en 35 puntos, pero la corrección del encabezado requiere aprobación. Estos casos permanecen abiertos y no deben contarse como cerrados.
+
+**Estado de certificación:** no certificado al 100 %. No se ha completado la revisión manual de todos los materiales, el cotejo curricular oficial ni la verificación integral del render e importación en la aplicación.
+
+
+## 10. Informes de lotes documentales
+
+Se crearon informes separados para conservar el alcance, la evidencia y las limitaciones de cada revisión:
+
+- [Lote 4.º básico — examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md): discrepancia confirmada entre la letra de la clave y la alternativa que contiene 14; revisión disciplinar de las 20 preguntas y render aún pendientes.
+- [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): se reprodujo que los 25 ítems, la pauta y la distribución por eje suman 35 puntos, mientras el encabezado declara 30; revisión curricular, de contenido y de aplicación aún pendientes.
+
+Estos informes no cambian materiales educativos ni cierran los hallazgos. Se mantienen en la rama de QA.
+
+
+## 11. Control mecánico adicional de claves — 2.º y 3.º básico
+
+Se registró una comprobación auxiliar de las cuatro Formas A/B de los exámenes integrados de 2.º y 3.º básico: [informe del control mecánico](control-mecanico-claves-simulacros-2b-3b.md). El control detectó 60 filas de pauta con letra explícita y pudo compararlas con las alternativas detectadas; no encontró letras que estuvieran ausentes de esas opciones. Este resultado no certifica la corrección semántica de las respuestas y no reemplaza la revisión de los 80 ítems, los desarrollos, los recursos visuales, la alineación OA ni el render. Los hallazgos previos sobre duplicación entre Formas A/B y precisión de contenido siguen abiertos.
+
+
+## 12. Lote adicional — 1.º básico, Matemática: medición y datos
+
+Se documentó [el lote de auditoría de la prueba de medición, datos y probabilidades](lote-01-basico-matematica-medicion-datos.md). El ítem 2 pide ordenar una goma, un lápiz y una regla, pero la fuente Markdown no entrega longitudes ni un estímulo visual que permita establecer un orden único; la pauta asume que la goma es más corta y la regla más larga. Se registra como hallazgo provisional P1 sujeto a comprobar si la aplicación aporta un recurso visual adicional. No se cambió la prueba; render, corrección, OA oficial y regresión siguen pendientes.
+
+
+## 13. Lote de recálculo — Matemática, 1.º medio, Forma B
+
+Se documentó el recálculo independiente de los 25 ítems del examen `contenido/01-medio/examenes/matematica-examen-forma-b.md`, incluyendo el cotejo de las 12 claves de selección múltiple con sus alternativas. En esta pasada no se detectaron discrepancias numéricas ni de letra. El informe deja explícito que siguen pendientes la verificación de OA oficiales, la calidad de distractores, la rúbrica de desarrollo, la equivalencia con Forma A y las pruebas de importación/render/calificación.
+
+- [Informe de recálculo 1.º medio Matemática Forma B](lote-01-medio-matematica-examen-forma-b-recalculo.md)
+- **Estado del lote:** revisión numérica y de clave documentada; no equivale a certificación integral del examen.
+
+
+## 11. Revisión adicional — Matemática de 2.º medio, Forma B
+
+Se revisó el archivo `contenido/02-medio/examenes/matematica-examen-forma-b.md` y se registró el detalle en [Lote 2.º medio — recálculo de examen de Matemática Forma B](lote-02-medio-matematica-examen-forma-b-recalculo.md).
+
+- **Hallazgo P1 confirmado:** pregunta 14. La alternativa a) indica correctamente que la inversa de `f(x)=x+10` es `x-10`, pero la pauta copia `x+10` como respuesta esperada. La pauta contradice la alternativa y el cálculo.
+- En esta pasada, los cálculos de los otros 24 ítems coincidieron con sus respuestas esperadas; esto no certifica currículo, dificultad, rúbricas, equivalencia con Forma A ni comportamiento de la app.
+- La distribución declarada (12 alternativas, 13 desarrollo; 25 en total) es aritméticamente consistente.
+- La afirmación de originalidad y de replicar una distribución habitual de Mineduc queda sin verificar.
+- El contenido educativo no se modificó; la corrección queda pendiente de autorización y regresión.
+
+La última ejecución consultada de CI fue el run [39710128188](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39710128188), con conclusión `failure`. El validador estructural sigue señalando los hallazgos previos de clave en 4.º básico y puntaje 30/35 en 5.º básico; el nuevo hallazgo de 2.º medio debe incorporarse al control automático en una etapa posterior.
+
+**Estado de certificación:** sigue abierto y no certificado al 100 %.
+
+
+## 12. Cribado transversal adicional de Matemática — 2026-10-22
+
+Se creó [Lote transversal — cribado de exámenes de Matemática de 3.º medio a 8.º básico](lote-transversal-matematica-3medio-8basico-cribado.md). Se relevaron y recalcularon operaciones de los exámenes Forma B de 3.º y 4.º medio y 5.º, 6.º, 7.º y 8.º básico; las operaciones revisadas coincidieron con sus pautas. Es un cribado acotado, no una auditoría pedagógica completa. En 6.º básico, pregunta 2, se comprobó que 9 buses completos cuestan $38.700.000 y dejan $800.000 del presupuesto de $39.500.000; el enunciado no pide transportar una cantidad de pasajeros, por lo que no se registra como defecto.
+
+El hallazgo P1 nuevo de la pauta de Matemática de 2.º medio (pregunta 14, inversa de `x+10`) sigue confirmado y documentado en su informe de lote. El cribado transversal no encontró otra discrepancia numérica inequívoca dentro de los ítems recalculados; no se debe interpretar como validación de los ítems restantes.
+
+CI continúa con conclusión de fallo en los runs recientes; el validador estructural aún tiene que señalar los problemas conocidos de 4.º y 5.º básico, y todavía no está configurado para detectar el conflicto semántico de la pregunta 14 de 2.º medio. No se modificaron materiales educativos ni `main`.
+
+
+## 13. Ciencias Naturales de 1.º medio — Forma B
+
+Se creó [Lote 1.º medio — revisión conceptual y aritmética de Ciencias Naturales Forma B](lote-01-medio-ciencias-naturales-forma-b.md).
+
+- **P2 conceptual, pregunta 9:** la pauta usa “bioacumulación (o biomagnificación)” como si fueran equivalentes; la explicación describe principalmente biomagnificación (aumento entre niveles tróficos). Debe verificarse el enunciado exacto y diferenciar los términos.
+- **Puntaje consistente:** 15 preguntas de alternativas (15 puntos), 4 desarrollos breves (8 puntos) y 6 desarrollos extensos (18 puntos), total 41 puntos para 25 preguntas.
+- Los cálculos seleccionados de energía trófica, sonar y estequiometría fueron consistentes con los supuestos del enunciado. Esto no valida todos los ítems ni los OA.
+- El archivo fuente no se modificó. Pendientes: cotejo de OA oficiales, comparación Forma A/B y QA de app.
+
+
+## 14. Ciencias Naturales de 2.º medio — Forma B
+
+Informe: [Lote 2.º medio — Ciencias Naturales Forma B](lote-02-medio-ciencias-naturales-forma-b.md).
+
+- Puntaje conciliado: 16 alternativas (16 puntos) + 5 desarrollos breves (10) + 4 desarrollos extensos (12) = 38 puntos; 25 preguntas.
+- P3: pregunta 20, la clave (azúcar como soluto) es adecuada, pero la justificación da demasiado peso a “estar en menor cantidad”; conviene definir el soluto como la sustancia disuelta.
+- Los cálculos seleccionados de aceleración, fuerza neta/aceleración y concentración %m/m son consistentes.
+- OA oficiales, comparación Forma A/B y QA en aplicación pendientes. Fuente educativa intacta.
+
+
+## 15. Pruebas integradas de 3.º y 4.º básico — comparación Forma A/B
+
+Informe de evidencia: [Lote comparativo de formas A/B de 3.º y 4.º básico](lote-comparativo-formas-a-b-3b-4b.md).
+
+- Ambas formas de ambos cursos tienen 20 preguntas y 20 filas de pauta.
+- **3.º básico:** el texto «El cometa de Joaquín» aparece en ambas formas (Forma A, preguntas 4–5; Forma B, pregunta 4). Esto contradice la afirmación de que la Forma B usa preguntas distintas en sentido estricto. Hallazgo registrado; no se modificó el material fuente.
+- **4.º básico Forma B, pregunta 16 — P1:** para (x+9=23), la respuesta correcta es 14, que corresponde a la alternativa **b)**; la pauta indica **c) 14**. La explicación calcula correctamente 23−9=14, pero la letra es inconsistente. Requiere corrección y prueba de regresión.
+- Sigue pendiente la revisión curricular oficial, equivalencia de dificultad A/B, renderizado de estímulos y QA de importación/calificación en la aplicación.

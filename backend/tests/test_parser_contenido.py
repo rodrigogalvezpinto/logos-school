@@ -356,3 +356,32 @@ def test_terminos_pareados_con_opciones_en_lineas_separadas_no_es_alternativas()
     assert pregunta.tipo == "desarrollo_breve"
     assert pregunta.opciones is None
     assert pregunta.respuesta_correcta == "1-c, 2-a, 3-b"
+
+
+def test_oa_sin_numero_oficial_se_parsea_con_su_descriptor():
+    """Caso real (4° medio Educación Ciudadana): el temario oficial llega cortado y ese OA
+    no tiene número explícito; su heading es
+    '## OA (Democracia y sus desafíos): ...'. El regex anterior exigía un dígito después
+    de "OA" y lo descartaba en silencio, dejando la base con 407 de los 408 OA."""
+    texto = """
+# Educación Ciudadana
+
+## OA (Democracia y sus desafíos): Libertad, igualdad y solidaridad
+
+Contenido de la guía.
+
+### Autoevaluación — OA (Democracia y sus desafíos)
+
+**1. (Alternativas)** ¿Cuál de estos es un valor democrático?
+
+a) La solidaridad
+b) La indiferencia
+c) El autoritarismo
+d) La exclusión
+
+✅ Respuesta correcta: a)
+"""
+    objetivos = parsear_guia(texto)
+    assert len(objetivos) == 1
+    assert objetivos[0].codigo_oficial == "OA (Democracia y sus desafíos)"
+    assert objetivos[0].preguntas[0].respuesta_correcta == "La solidaridad"

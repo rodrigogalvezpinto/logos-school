@@ -23,7 +23,14 @@ RE_EJE = re.compile(r"^##\s+Eje\s+\d+\s*[:\-]?\s*(.+)$")
 # retroalimentación de la última pregunta del archivo (bug real encontrado con QA de
 # coherencia: la última pregunta de cada asignatura mostraba el glosario completo).
 RE_GLOSARIO_HEADING = re.compile(r"^##\s+Glosario\b", re.IGNORECASE)
-RE_OA_HEADING = re.compile(r"^(##|###)\s+OA\s*N?°?\s*(\d+)\s*[:\-—]*\s*(.*)$", re.IGNORECASE)
+RE_OA_HEADING = re.compile(
+    # Acepta "## OA 6: ...", "## OA N°6: ..." y, para el único caso del corpus sin
+    # número oficial (4° medio Educación Ciudadana, temario cortado en el PDF),
+    # "## OA (Democracia y sus desafíos): ...". Sin la rama del paréntesis, ese OA
+    # se descartaba silenciosamente y la BD quedaba con 407 de los 408 OA.
+    r"^(##|###)\s+OA\s*(?:N?°?\s*(\d+)|\(([^)]+)\))\s*[:\-—]*\s*(.*)$",
+    re.IGNORECASE,
+)
 RE_AUTOEVAL_HEADING = re.compile(r"^(##|###|####)\s+.*autoevaluaci[oó]n.*$", re.IGNORECASE)
 RE_AUTOEVAL_BOLD_PARRAFO = re.compile(r"^\*\*.*autoevaluaci[oó]n.*\*\*$", re.IGNORECASE)
 
@@ -175,6 +182,9 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
             tipo = "alternativas"
             opciones_finales = opciones
         else:
+            # Si no hay opciones, la pregunta es de desarrollo_breve aunque la etiqueta
+            # diga "alternativas" (ej. "alternativas de ahorro" en 4° medio)
+            tipo = "desarrollo_breve"
             opciones_finales = None
 
         if opciones_finales:
@@ -236,9 +246,13 @@ def parsear_guia(texto: str) -> list[ObjetivoParseado]:
         if oa_m:
             cerrar_oa()
             numero = oa_m.group(2)
-            titulo = oa_m.group(3).strip()
+            descriptor = oa_m.group(3)
+            titulo = oa_m.group(4).strip()
+            codigo_oficial = (
+                f"OA {numero}" if numero else f"OA ({descriptor.strip()})"
+            )
             oa_actual = ObjetivoParseado(
-                codigo_oficial=f"OA {numero}",
+                codigo_oficial=codigo_oficial,
                 descripcion=titulo,
                 eje_tematico=eje_actual,
             )

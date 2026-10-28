@@ -40,6 +40,9 @@ import { validarRut } from '../../core/rut.util';
           <div class="alumno-card__avatar">{{ alumno.nombre.charAt(0) }}</div>
           <div class="alumno-card__info">
             <h3>{{ alumno.nombre }} {{ alumno.apellidos }}</h3>
+            @if (alumno.nombre_nivel) {
+              <p class="alumno-card__curso">{{ alumno.nombre_nivel }}</p>
+            }
             <span class="chip chip--activo">Plan activo</span>
           </div>
           @if (confirmandoEliminar() === alumno.id) {
@@ -187,6 +190,12 @@ import { validarRut } from '../../core/rut.util';
 
         h3 {
           margin: 0 0 0.4rem;
+        }
+        .alumno-card__curso {
+          margin: 0 0 0.35rem;
+          font-size: 0.85rem;
+          color: var(--texto-secundario);
+          font-weight: 500;
         }
       }
       .chip {

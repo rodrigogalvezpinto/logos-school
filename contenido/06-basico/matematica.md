@@ -81,7 +81,7 @@ c) Multiplicación, luego resta
 d) Suma, luego multiplicación
 
 **Respuesta correcta: b) División, luego división.**
-*Retroalimentación:* primero se calculan las cajas totales (24.600 ÷ 12 = 2.050 cajas), y luego se reparten en partes iguales entre los 3 distribuidores (2.050 ÷ 3 ≈ 683 cajas cada uno).
+*Retroalimentación:* primero se calculan las cajas totales (24.600 ÷ 12 = 2.050 cajas). Al repartirlas entre 3 distribuidores, cada uno recibe 683 cajas y sobra 1 caja sin repartir (2.050 = 3 × 683 + 1).
 
 **Pregunta 5 (problema no rutinario con calculadora).** Una feria vendió entradas: 1.240 adultos a $6.500 cada uno y 890 niños a $3.200 cada uno. Usa calculadora: ¿cuánto se recaudó en total?
 
@@ -149,7 +149,7 @@ d) 4:5
 
 **Pregunta 5 (problema de aplicación).** En una biblioteca, la razón entre libros de cuentos y libros de ciencia es 5:3. Si hay 15 libros de cuentos, ¿cuántos libros de ciencia hay?
 
-**Respuesta esperada:** 15 ÷ 5 = 3, por lo tanto 3×3 : 5×3... cuidado con el orden: 5:3 amplificado por 3 es 15:9. Hay **9 libros de ciencia**.
+**Respuesta esperada:** 15 ÷ 5 = 3 (factor de amplificación); la razón 5:3 amplificada por 3 es 15:9. Hay **9 libros de ciencia**.
 *Retroalimentación:* el factor de amplificación (3) se calcula dividiendo la cantidad conocida (15 cuentos) por el término correspondiente de la razón (5), y luego se aplica el mismo factor al otro término (3×3=9).
 
 **Pregunta 6 (representar pictóricamente).** Dibuja o describe una representación pictórica para la razón 3:1 entre triángulos y cuadrados, usando un total de 12 figuras.

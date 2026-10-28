@@ -437,19 +437,19 @@ Una pizza se dividió en 8 porciones iguales. Sofía se comió 3 porciones. ¿Qu
 
 El denominador (8) indica en cuántas partes iguales se dividió el entero (la pizza completa). El numerador (3) indica cuántas partes se consideraron (las que comió Sofía).
 
-Sofía comió **3/8** de la pizza.
+Sofía comió **[frac: 3/8]** de la pizza.
 
 **Ejemplo 2 — Fracción de un grupo de elementos**
 
 Una bolsa tiene 12 canicas, y 4 de ellas son rojas. ¿Qué fracción de las canicas es roja?
 
-De las 12 canicas totales (denominador), 4 son rojas (numerador): **4/12** de las canicas son rojas.
+De las 12 canicas totales (denominador), 4 son rojas (numerador): **[frac: 4/12]** de las canicas son rojas.
 
 **Ejemplo 3 — Comparar fracciones de forma pictórica**
 
-¿Qué fracción es mayor, 1/4 o 1/2, si ambas se refieren al mismo entero (por ejemplo, la misma torta)?
+¿Qué fracción es mayor, [frac: 1/4] o [frac: 1/2], si ambas se refieren al mismo entero (por ejemplo, la misma torta)?
 
-Si divides una torta en 2 partes, cada parte es más grande que si la divides en 4 partes (mientras más partes iguales tenga el mismo entero, más pequeña es cada parte). Por lo tanto, **1/2 > 1/4**.
+Si divides una torta en 2 partes, cada parte es más grande que si la divides en 4 partes (mientras más partes iguales tenga el mismo entero, más pequeña es cada parte). Por lo tanto, **[frac: 1/2] > [frac: 1/4]**.
 
 #### Preguntas de autoevaluación
 

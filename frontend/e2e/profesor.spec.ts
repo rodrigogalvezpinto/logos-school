@@ -63,7 +63,14 @@ test.describe('Rol Profesor', () => {
     // 4. Busca y agrega a Sofía (cuenta de prueba) al curso.
     await page.fill('input[name=consulta]', 'Sofía');
     await page.click('button:has-text("Buscar")');
-    const filaResultado = page.locator('.tabla-resultados-busqueda tbody tr', { hasText: 'Sofía' }).first();
+    // La base de Desarrollo no se resetea entre corridas y otras pruebas/pasadas dejan
+    // varios perfiles llamados "Sofía" (en distintos niveles). Buscar por nombre y tomar
+    // la primera fila elegía a veces una Sofía de 2° medio, que el curso de 4° básico
+    // rechaza con "nivel distinto". Se desambigua por el RUT canónico de la Sofía demo
+    // (`datos_de_prueba.py`: 21.345.678-4, único en la base).
+    const filaResultado = page
+      .locator('.tabla-resultados-busqueda tbody tr', { hasText: '21.345.678-4' })
+      .first();
     await expect(filaResultado).toBeVisible();
     await filaResultado.getByRole('button', { name: 'Agregar' }).click();
 

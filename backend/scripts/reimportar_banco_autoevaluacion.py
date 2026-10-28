@@ -60,6 +60,10 @@ def main() -> None:
                     oa_id = oas_por_codigo.get(oa_parseado.codigo_oficial)
                     if not oa_id:
                         continue
+                    oa_obj = session.get(ObjetivoAprendizaje, oa_id)
+                    if oa_obj and oa_parseado.contenido_guia:
+                        oa_obj.contenido_guia = oa_parseado.contenido_guia
+                        session.add(oa_obj)
                     for p in oa_parseado.preguntas:
                         session.add(
                             Pregunta(

@@ -27,6 +27,7 @@ export interface PerfilAlumnoRespuesta {
   nombre: string;
   apellidos: string;
   nivel_id: number;
+  nombre_nivel?: string;
 }
 
 export interface PlanRespuesta {
@@ -59,6 +60,10 @@ export class AuthService {
 
   login(email: string, password: string): Observable<TokenRespuesta> {
     return this.http.post<TokenRespuesta>(`${this.base}/auth/login`, { email, password });
+  }
+
+  loginConGoogle(idToken: string): Observable<TokenRespuesta> {
+    return this.http.post<TokenRespuesta>(`${this.base}/auth/login-google`, { id_token: idToken });
   }
 
   yo(): Observable<CuentaRespuesta> {

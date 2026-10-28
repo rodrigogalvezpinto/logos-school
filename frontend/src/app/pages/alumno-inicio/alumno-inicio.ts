@@ -45,7 +45,12 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
   standalone: true,
   imports: [RouterLink, IconoAsignatura],
   template: `
-    <h1>¡Hola de nuevo, {{ nombreAlumno() }}! 👋</h1>
+    <div class="saludo-header">
+      <h1>¡Hola de nuevo, {{ nombreAlumno() }}! 👋</h1>
+      @if (cursoAlumno()) {
+        <span class="badge-curso">{{ cursoAlumno() }}</span>
+      }
+    </div>
     <p class="subtitulo">Sigamos avanzando en tu preparación.</p>
 
     @if (diasRestantesPrueba(); as dias) {
@@ -126,9 +131,28 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
   `,
   styles: [
     `
+      .saludo-header {
+        display: flex;
+        align-items: baseline;
+        gap: 0.85rem;
+        flex-wrap: wrap;
+        margin-bottom: 0.25rem;
+      }
+      .saludo-header h1 {
+        margin-bottom: 0;
+      }
+      .badge-curso {
+        display: inline-block;
+        background: var(--color-primario-suave);
+        color: var(--color-primario);
+        font-weight: 600;
+        font-size: 0.95rem;
+        padding: 0.25rem 0.75rem;
+        border-radius: 999px;
+      }
       .subtitulo {
         color: var(--texto-secundario);
-        margin-top: -0.5rem;
+        margin-top: 0;
         margin-bottom: 2rem;
       }
       .aviso-prueba {
@@ -398,6 +422,10 @@ export class AlumnoInicio {
 
   nombreAlumno(): string {
     return this.sesion.perfilActivo()?.nombre || '';
+  }
+
+  cursoAlumno(): string {
+    return this.sesion.perfilActivo()?.nombre_nivel || '';
   }
 
   iconoPara(nombre: string): string {

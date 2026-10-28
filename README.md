@@ -101,8 +101,9 @@ Los temarios oficiales están en la carpeta `Temarios/` y su análisis estructur
 
 ## 📖 Documentación
 
-La documentación del proyecto está en la carpeta `planificacion/`:
+### Estructura Principal
 
+**`planificacion/`** - Planificación del producto y decisiones tomadas
 - `00-vision-alcance.md` - Visión general y decisiones tomadas
 - `01-roles-y-permisos.md` - Perfiles de usuario y permisos
 - `02-modelo-de-datos-conceptual.md` - Entidades y relaciones
@@ -125,10 +126,42 @@ La documentación del proyecto está en la carpeta `planificacion/`:
 - `25-analisis-competencia-brincus.md` - Análisis de competencia
 - `27-plan-incorporacion-hallazgos-brincus.md` - Plan de incorporación
 
+**`docs/`** - Documentación técnica y auditorías
+- `docs/README.md` - Índice de documentación
+- `docs/auditorias/00-CENTRO-DE-CONTROL-AUDITORIA.md` - Centro de control de auditorías
+- `docs/auditorias/AUDITORIA_MAESTRA.md` - Auditoría consolidada del contenido
+- `docs/auditorias/matematica/` - Auditoría específica de Matemática
+- `docs/auditorias/ux-ui/` - Hallazgos UX/UI
+- `docs/planes/` - Planes y especificaciones técnicas
+- `docs/qa/` - Calidad, pruebas y línea base
+
+**Archivos de guía rápida**
+- `CLAUDE.md` - Memoria del proyecto (contexto para agentes IA)
+- `ACCESO-Y-PRUEBAS.md` - Guía de acceso rápido y credenciales
+- `DOCKER-SETUP.md` - Configuración Docker para desarrollo local
+
 ## 🛠️ Desarrollo Local
 
-### Backend
+### Opción 1: Con Docker (Recomendado)
 
+Requiere Docker Desktop instalado. Ejecuta un solo comando:
+
+```bash
+./iniciar-con-docker.sh
+```
+
+Este script:
+- Levanta PostgreSQL en Docker
+- Aplica migraciones
+- Importa contenido
+- Crea datos de prueba
+- Inicia backend (puerto 8000) y frontend (puerto 4200)
+
+Ver `DOCKER-SETUP.md` para más detalles.
+
+### Opción 2: Manual
+
+**Backend:**
 ```bash
 cd backend
 python -m venv .venv
@@ -139,16 +172,14 @@ uv run alembic upgrade head
 uv run uvicorn app.main:app --reload
 ```
 
-### Frontend
-
+**Frontend:**
 ```bash
 cd frontend
 npm install
 npm start
 ```
 
-### Tests
-
+**Tests:**
 ```bash
 # Backend
 cd backend
@@ -158,6 +189,10 @@ uv run pytest
 cd frontend
 npx playwright test
 ```
+
+### Credenciales de Prueba
+
+Ver `ACCESO-Y-PRUEBAS.md` para credenciales de prueba (apoderado, profesor, admin).
 
 ## 🗺️ Roadmap
 
