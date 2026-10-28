@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 6° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 5, OA 6, OA 8, OA 11, OA 13, OA 16, OA 18
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 6° Básico
@@ -160,8 +162,8 @@ propio alimento a partir de la energía del sol; por eso se les llama **producto
 A partir de ellos, la materia y la energía se transfieren a otros seres vivos a
 través de una **cadena alimentaria**: una secuencia en la que cada organismo se
 alimenta del anterior. Los **consumidores de primer orden** (herbívoros) se alimentan
-directamente de los productores; los **consumidores de segundo orden** (carnívoros o
-carnívoros pequeños) se alimentan de los consumidores de primer orden; y los
+directamente de los productores; los **consumidores de segundo orden** (carnívoros
+pequeños) se alimentan de los consumidores de primer orden; y los
 **consumidores de tercer orden** (grandes depredadores) se alimentan de los
 consumidores de segundo orden. Finalmente, los **descomponedores** (hongos y
 bacterias) se alimentan de los restos de todos los organismos anteriores, liberando
@@ -655,7 +657,7 @@ del líquido y a una temperatura específica (por ejemplo, el agua hirviendo a 1
 La **condensación** es el paso de gas a líquido (por ejemplo, el vapor de agua que se
 transforma en gotitas al tocar una superficie fría). Y la **sublimación** es el paso
 directo de sólido a gas, sin pasar por el estado líquido (por ejemplo, el hielo seco,
-que libera directamente un gas visible). A nivel **particulado**, estos cambios se
+que pasa directamente de sólido a gas). A nivel **particulado**, estos cambios se
 explican por la energía y el movimiento de las partículas que forman la materia: en
 un sólido, las partículas están muy unidas y ordenadas, vibrando en su lugar; al
 ganar energía (calor), las partículas se mueven más y se separan, pasando a líquido
@@ -731,8 +733,9 @@ inverso: las partículas se acercan y ordenan progresivamente.
    observar el proceso de sublimación usando hielo seco (o describe qué observarías si
    lo hicieras), y predice qué verías ocurrir.
    **Respuesta esperada:** Al colocar un trozo de hielo seco en un recipiente a
-   temperatura ambiente, se observaría cómo desprende directamente un gas visible
-   (una especie de "niebla" o "humo"), sin que aparezca nunca líquido en el proceso.
+   temperatura ambiente, se observaría cómo pasa directamente de sólido a gas, sin que
+   aparezca nunca líquido en el proceso; la "niebla" o "humo" que se ve es vapor de
+   agua del aire que se condensa por el frío del hielo seco.
    **Retroalimentación:** El punto clave de la sublimación es la ausencia del estado
    líquido intermedio, algo distinto a lo que ocurre con el hielo de agua común.
 

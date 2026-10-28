@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 2, OA 3, OA 6, OA 7, OA 9, OA 10, OA 13, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 5° Básico
@@ -28,7 +30,7 @@ Primero, viajarás al siglo XVI para conocer el proceso de **conquista de Améri
 Chile**: quiénes fueron los protagonistas, cómo se fundaron las primeras ciudades, qué
 conflictos surgieron y cómo nació una sociedad completamente nueva. Luego seguirás avanzando
 en el tiempo hacia el **período colonial**, entendiendo cómo se organizó la vida en Chile
-durante casi trescientos años, y cómo españoles y mapuches se relacionaron —a veces en
+durante cerca de 250 años, y cómo españoles y mapuches se relacionaron —a veces en
 guerra, a veces en acuerdo— a lo largo de ese tiempo. Esto es el eje de **Historia**.
 
 Después, recorrerás Chile de norte a sur para conocer sus **cinco grandes zonas naturales**:
@@ -382,9 +384,9 @@ tiempo, Chile fue una colonia dependiente de España.
 
 Un fenómeno importante de este período es el **sincretismo**: la mezcla entre elementos de
 la cultura española (principalmente católica) y elementos de las culturas originarias. Esto
-se observa hoy, por ejemplo, en festividades religiosas populares como la Fiesta de La
-Tirana o la Fiesta de Cuasimodo, que combinan tradiciones católicas con elementos de las
-culturas indígenas locales, y también en expresiones artísticas y artesanales.
+se observa hoy, por ejemplo, en la Fiesta de La Tirana, que combina tradiciones católicas con
+elementos de las culturas indígenas, o en la Fiesta de Cuasimodo, que mezcla la tradición
+católica con la cultura campesina chilena, y también en expresiones artísticas y artesanales.
 
 #### Ejemplos resueltos
 

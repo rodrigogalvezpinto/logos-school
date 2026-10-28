@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 4° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 3, OA 6, OA 7, OA 10, OA 15, OA 16
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 4° Básico
@@ -611,7 +613,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
 
 3. **Tabla comparativa.**
 
-   | Capa | Posición | Rigidez | Temperatura |
+   | Capa | Posición | Rigidez / composición | Temperatura |
    |---|---|---|---|
    | Corteza | Más externa | Sólida y rígida | La más baja |
    | Manto | Intermedia | Semi-líquida (fluye lentamente) | Alta |
@@ -639,12 +641,13 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    **Retroalimentación:** Este modelo ayuda a visualizar tanto la posición como el
    grosor relativo de cada capa.
 
-4. *(Desarrollo breve)* Ordena las capas de la Tierra desde la más rígida hasta la
-   que presenta roca fundida, explicando dónde se ubica cada una.
-   **Respuesta esperada:** Corteza (la más rígida, más externa) → manto (semi-líquido,
-   con roca fundida, capa intermedia) → núcleo (el más interno, compuesto por metales).
-   **Retroalimentación:** Comparar rigidez y posición al mismo tiempo ayuda a
-   entender cómo se relacionan las tres capas entre sí.
+4. *(Desarrollo breve)* Ordena las capas de la Tierra desde la más externa hasta la
+   más interna, indicando la rigidez y la temperatura de cada una.
+   **Respuesta esperada:** Corteza (la más rígida y la más externa, con la temperatura
+   más baja) → manto (semi-líquido, con roca fundida, capa intermedia) → núcleo (el más
+   interno, compuesto por metales y con la temperatura más alta).
+   **Retroalimentación:** Comparar rigidez, posición y temperatura al mismo tiempo
+   ayuda a entender cómo se relacionan las tres capas entre sí.
 
 5. *(Alternativas)* El manto terrestre se caracteriza por:
    a) Ser sólido y frío

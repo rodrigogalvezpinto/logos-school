@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias Naturales
 curso: 5° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 5, OA 6, OA 7, OA 10, OA 12, OA 14
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias Naturales – 5° Básico
@@ -101,9 +103,9 @@ plantas como a animales, incluidas las personas.
    **Retroalimentación:** Cada nivel agrupa varias unidades del nivel anterior: varias
    células forman un tejido, varios tejidos un órgano, y varios órganos un sistema.
 
-4. *(Relacionar/aplicación)* Relaciona cada estructura con su nivel de organización:
-   corazón — sangre bombeada por todo el cuerpo — célula muscular cardíaca — tejido
-   muscular cardíaco.
+4. *(Relacionar/aplicación)* Relaciona cada elemento con su nivel de organización:
+   corazón — circulación de la sangre por todo el cuerpo — célula muscular cardíaca —
+   tejido muscular cardíaco.
    **Respuesta correcta:** Célula muscular cardíaca = célula. Tejido muscular cardíaco
    = tejido. Corazón = órgano. Circulación de la sangre por todo el cuerpo = función
    del sistema circulatorio.
@@ -190,7 +192,7 @@ salud tanto como comer muy poco.
    naranja, huevo, palta, pan.
    **Respuesta correcta:** Proteínas: legumbres, huevo. Carbohidratos: arroz, pan.
    Vitaminas/minerales: naranja. Grasas: palta.
-   **Respuesta correcta detallada:** puede haber solapamientos (por ejemplo, las
+   **Aclaración:** puede haber solapamientos (por ejemplo, las
    legumbres también aportan carbohidratos), lo importante es identificar el aporte
    principal de cada alimento.
    **Retroalimentación:** Fíjate en la función principal de cada grupo: reparar
@@ -321,9 +323,10 @@ enfermedades.
 Los **microorganismos** son seres vivos tan pequeños que no se ven a simple vista, e
 incluyen bacterias, virus y hongos. No todos son dañinos: existen microorganismos
 **beneficiosos**, como algunas bacterias que ayudan a la digestión en nuestro
-intestino, o los hongos comestibles (como los champiñones), que aportan nutrientes a
-la alimentación. Sin embargo, también existen microorganismos **dañinos** o
-patógenos: ciertas bacterias, virus y hongos pueden causar enfermedades
+intestino o las levaduras, hongos microscópicos que se usan para hacer pan y otros
+alimentos. También hay hongos comestibles, como los champiñones, que aportan
+nutrientes a la alimentación. Sin embargo, también existen microorganismos
+**dañinos** o patógenos: ciertas bacterias, virus y hongos pueden causar enfermedades
 infectocontagiosas, es decir, enfermedades que se transmiten de una persona a otra.
 Para prevenir el contagio de estas enfermedades, existen medidas simples pero muy
 efectivas de higiene y cuidado del cuerpo: el lavado frecuente de manos, el uso de
@@ -711,7 +714,7 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
 - **Trombosis:** formación de coágulos que pueden obstruir los vasos sanguíneos.
 - **Arritmia:** alteración del ritmo normal de los latidos del corazón.
 - **Microorganismo:** ser vivo tan pequeño que no puede verse a simple vista (incluye
-  bacterias, virus y hongos).
+  bacterias, virus y hongos microscópicos, como las levaduras y los mohos).
 - **Enfermedad infectocontagiosa:** enfermedad causada por un microorganismo, que
   puede transmitirse de una persona a otra.
 - **Material conductor:** material que permite el paso de la corriente eléctrica con

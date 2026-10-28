@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 4° básico
+curso: 4° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 4, OA 5, OA 6, OA 17
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 4° básico
@@ -142,8 +144,11 @@ Además, vamos a practicar cómo **extraer información explícita e implícita*
 **Ejemplo 2 — Identificar las figuras del lenguaje figurado**
 
 - **Personificación**: "el volcán se puso su manto", "se acostó a dormir", "ronca", "despierta", "gruñe enojado" → el volcán actúa como si fuera una persona (se viste, duerme, se enoja).
-- **Metáfora**: "su manto blanco" (por la nieve) y "un poncho tejido con hilos de araucaria y bosque" (por la vegetación de las laderas) → se nombra la nieve y el bosque como si *fueran* otra cosa, sin usar "como".
-- **Comparación (símil)**: "ronca... como una tetera que hierve" → aquí sí se usa la palabra "como" para comparar el sonido del volcán con el de una tetera.
+- **Metáfora**: "su manto blanco" (por la nieve) → se nombra la nieve como si *fuera*
+  otra cosa, sin usar "como" ni "parece".
+- **Comparación (símil)**: "ronca... como una tetera que hierve" y "sus laderas verdes
+  parecen un poncho tejido con hilos de araucaria y bosque" → aquí sí se usan las palabras
+  "como" y "parecen" para comparar el volcán con una tetera y sus laderas con un poncho.
 
 **Ejemplo 3 — Explicar un verso con tus propias palabras**
 
@@ -337,7 +342,7 @@ Texto mejorado con conectores y vocabulario variado:
 
 > "Me encanta el fútbol. Los lunes practico este deporte junto a mis amigos en la plaza del barrio. Además, los fines de semana solemos organizar pequeños campeonatos, por lo que siempre termino la semana feliz."
 
-Se reemplazó la repetición de "juego fútbol" por sinónimos y expresiones distintas ("practico este deporte", "organizamos campeonatos"), y se usaron conectores como "además" y "por lo que" para unir las ideas.
+Se reemplazó la repetición de "juego fútbol" por sinónimos y expresiones distintas ("practico este deporte", "organizar pequeños campeonatos"), y se usaron conectores como "además" y "por lo que" para unir las ideas.
 
 ### Banco de preguntas de autoevaluación — OA N°17
 

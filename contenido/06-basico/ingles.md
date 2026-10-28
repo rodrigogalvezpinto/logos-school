@@ -1,8 +1,10 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 5, OA 6, OA 8, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Inglés – 6° Básico
@@ -52,7 +54,7 @@ can't swim*). Segundo, vas a seguir **instrucciones de ubicación** en un plano 
 mapa (*Walk two blocks. The drugstore is in front of the hospital*). Tercero, vas a
 **diferenciar el presente del pasado**: fíjate en palabras clave como *yesterday*
 (ayer) o en el cambio del verbo (*go* → *went*), como en *Yesterday I went to
-school, but today I go to store*. Cuarto, vas a reconocer cómo **preguntar y decir
+school, but today I go to the store*. Cuarto, vas a reconocer cómo **preguntar y decir
 la hora** (*What time is it? It's three o'clock*). Por último, vas a identificar
 descripciones de personas, sus **ocupaciones**, y expresiones de **cantidad y
 posesión**. La clave de este OA es leer con atención: muchas preguntas se
@@ -83,8 +85,8 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
    el banco está al lado del supermercado. *Next to* indica posición (al lado de).
 
 3. **Presente vs. pasado:** *"Every day I walk to school. Yesterday I went by bus
-   because it was raining."* Pregunta: *How did she go to school yesterday?*
-   Respuesta: *She went by bus.* La palabra *yesterday* y el verbo *went* (pasado
+   because it was raining."* Pregunta: *How did you go to school yesterday?*
+   Respuesta: *I went by bus.* La palabra *yesterday* y el verbo *went* (pasado
    de *go*) marcan que la acción ya ocurrió.
 
 **Banco de autoevaluación**
@@ -556,7 +558,7 @@ the matter? (¿qué te pasa?), How do you feel? (¿cómo te sientes?), empty-ful
 (vacío-lleno).
 
 **Lugares de la ciudad, ocupaciones:** vet (veterinario/a), doctor (doctor/a),
-mechanic (mecánico/a), teacher (profesor/a), driver (conductor/a), mailcarrier
+mechanic (mecánico/a), teacher (profesor/a), driver (conductor/a), mail carrier
 (cartero/a), police officer (policía), firefighter (bombero/a), nurse (enfermero/a),
 pilot (piloto), farmer (agricultor/a), dentist (dentista), builder (constructor/a),
 waiter/waitress (mesero/mesera), work (trabajar), fix (arreglar), help (ayudar),

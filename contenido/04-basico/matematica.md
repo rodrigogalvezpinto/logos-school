@@ -2,8 +2,10 @@
 título: Matemática — 4° Básico
 asignatura: Matemática
 curso: 4° Básico
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 1, OA 3, OA 5, OA 6, OA 7, OA 8, OA 9, OA 13, OA 14, OA 17, OA 18, OA 22, OA 23, OA 27
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 4° Básico
@@ -67,7 +69,7 @@ Comparamos dígito por dígito, de izquierda a derecha: ambas tienen un 4 en las
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (alternativas).** ¿Cuál es el valor posicional del dígito 7 en el número 7.352?
+**Pregunta 1 (alternativas).** ¿En qué posición se ubica el dígito 7 en el número 7.352?
 a) Unidad
 b) Decena
 c) Centena

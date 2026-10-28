@@ -1,8 +1,10 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 3, OA 5, OA 7, OA 8, OA 9, OA 11, OA 12, OA 15, OA 16, OA 17, OA 18
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 6° Básico
@@ -509,7 +511,7 @@ ambos expandieron el territorio, tuvieron causas y características distintas.
 
 **Ejemplo 3 — La importancia estratégica de Isla de Pascua**
 
-Isla de Pascua está a más de 3.700 km de la costa continental de Chile. Su incorporación en
+Isla de Pascua está a unos 3.500 km de la costa continental de Chile. Su incorporación en
 1888 permitió al país tener presencia en medio del océano Pacífico. *Paso a paso:*
 relacionamos la ubicación geográfica de la isla con su importancia estratégica para la
 proyección de Chile hacia el Pacífico.
@@ -1674,8 +1676,8 @@ derecho pueda ejercerse también por las demás personas de la comunidad.
 
 **Ejemplo 2 — El Estado y sus responsabilidades**
 
-El Estado tiene el derecho... y a la vez el deber de garantizar la educación de todas las
-personas: para eso, debe construir escuelas, contratar profesores y asegurar recursos.
+El Estado tiene el deber de garantizar la educación de todas las personas: para eso,
+debe construir escuelas, contratar profesores y asegurar recursos.
 *Paso a paso:* identificamos que las instituciones, y no solo las personas individuales,
 también tienen deberes derivados de los derechos que deben garantizar.
 

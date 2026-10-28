@@ -1,16 +1,19 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 4, OA 8, OA 9, OA 10, OA 11, OA 12
+ultima_actualizacion: 2026-10-28
 ---
 
 # Historia, Geografía y Ciencias Sociales — 4° Básico
 
 > Este material se basa en el temario oficial de la Unidad de Currículum y Evaluación (UCE)
 > del Ministerio de Educación de Chile, Decreto 439/2012, para el Examen Libre de Validación
-> de Estudios de 4° Básico. Cubre los 6 Objetivos de Aprendizaje (OA) de la asignatura,
-> organizados en sus tres ejes: **Historia**, **Geografía** y **Formación Ciudadana**.
+> de Estudios de 4° Básico. Cubre los 6 Objetivos de Aprendizaje (OA) de la asignatura
+> incluidos en el temario, organizados en sus tres ejes: **Historia**, **Geografía** y
+> **Formación Ciudadana**.
 > Recuerda: el examen real es una prueba **integrada** de 20 preguntas (junto con Lenguaje,
 > Matemática y Ciencias Naturales) que evalúa una selección de estos contenidos — por eso es
 > importante estudiar **todos** los temas, aunque el examen solo pregunte algunos.
@@ -61,7 +64,7 @@ habían construido civilizaciones enormes y sofisticadas. Tres de las más impor
 - **Los aztecas**, también en el espacio mesoamericano (centro de México), que construyeron
   la gran ciudad de Tenochtitlán sobre un lago.
 - **Los incas**, que se desarrollaron a lo largo de la cordillera de los Andes (espacio
-  **andino**), desde el actual Ecuador y Perú hasta el norte de Chile y Argentina.
+  **andino**), desde el sur de la actual Colombia hasta el norte de Chile y Argentina.
 
 Aunque vivieron en lugares distintos, estas tres civilizaciones comparten varias
 características en común:
@@ -207,8 +210,8 @@ del Ecuador. Por eso tiene una variedad enorme de paisajes:
 
 - **Tropicales**: cálidos y lluviosos todo el año, como la selva amazónica.
 - **Mediterráneos**: veranos secos e inviernos lluviosos, como la zona central de Chile.
-- **Polares**: muy fríos, con hielo y nieve gran parte del año, como el extremo sur de Chile
-  (Patagonia) o Alaska.
+- **Fríos y polares**: muy fríos, con hielo y nieve gran parte del año, como el extremo sur
+  de Chile (Patagonia) o Alaska.
 - **Costeros**: junto al mar, con influencia del clima marino.
 - **Desérticos**: muy secos, como el desierto de Atacama, considerado el más árido del
   mundo.
@@ -238,7 +241,7 @@ simbología (línea azul), seguimos su trazado y observamos por qué países o r
 
 Santiago (Chile), Ciudad de México (México), Nueva York (Estados Unidos), Buenos Aires
 (Argentina) y Lima (Perú) son algunas de las grandes ciudades de América. Cada una tiene
-distinto idioma predominante (español, inglés), población y ubicación geográfica.
+su propio idioma predominante (español o inglés), población y ubicación geográfica.
 
 #### Autoevaluación — OA 8
 
@@ -277,14 +280,13 @@ veranos calurosos y secos, e inviernos más fríos y lluviosos.
 
 ---
 
-**4. (Análisis de mapa)** Imagina un mapa de América con cuatro ríos marcados con números:
-(1) un río muy caudaloso que cruza la selva de Brasil; (2) un río largo que recorre el sur de
-Chile; (3) un río que atraviesa el centro de Estados Unidos; (4) un río que nace en la
-cordillera y desemboca en el Pacífico, cerca de Concepción. ¿Qué río corresponde a cada
-número: Amazonas, Mississippi o Biobío? (Nota: uno de los números puede repetir país).
+**4. (Análisis de mapa)** Imagina un mapa de América con tres ríos marcados con números:
+(1) un río muy caudaloso que cruza la selva de Brasil; (2) un río que atraviesa el centro de
+Estados Unidos; (3) un río que nace en la cordillera y desemboca en el Pacífico, cerca de
+Concepción. ¿Qué río corresponde a cada número: Amazonas, Mississippi o Biobío?
 
-✅ Respuesta correcta: (1) Amazonas — (2) y (4) Biobío — (3) Mississippi
-💬 *Retroalimentación:* El Biobío es uno de los ríos más importantes del sur de Chile y
+✅ Respuesta correcta: (1) Amazonas — (2) Mississippi — (3) Biobío
+💬 *Retroalimentación:* El Biobío es uno de los ríos más importantes de Chile y
 desemboca cerca de Concepción; el Amazonas es el más caudaloso del mundo y cruza Brasil; el
 Mississippi es uno de los ríos más largos de Estados Unidos.
 
@@ -467,7 +469,7 @@ la Patagonia, y comparar estos paisajes nos ayuda a entender mejor el propio.
 
 | | Norte Grande | Zona Central | Patagonia |
 |---|---|---|---|
-| Clima | Desértico | Mediterráneo | Frío/polar |
+| Clima | Desértico | Mediterráneo | Frío |
 | Adaptación | Atrapanieblas para obtener agua | Canales de regadío | Ganadería ovina, ropa de abrigo |
 | Actividad económica principal | Minería | Agricultura | Ganadería |
 

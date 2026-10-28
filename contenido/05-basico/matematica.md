@@ -2,8 +2,10 @@
 título: Matemática — 5° Básico
 asignatura: Matemática
 curso: 5° Básico
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 1, OA 3, OA 4, OA 6, OA 7, OA 10, OA 11, OA 13, OA 14, OA 15, OA 17, OA 18, OA 19, OA 22, OA 23, OA 24, OA 26
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 5° Básico
@@ -83,7 +85,7 @@ d) Decena de millón
 **Pregunta 3 (desarrollo).** Descompón en forma aditiva (expandida) el número 3.204.056.
 
 **Respuesta esperada:** 3.204.056 = 3.000.000 + 200.000 + 4.000 + 50 + 6.
-*Retroalimentación:* aunque algunos dígitos sean 0 (en este caso las centenas de mil y las decenas), igual debes tenerlos presentes al identificar la posición de cada dígito distinto de cero, aunque no aparezcan como sumandos.
+*Retroalimentación:* aunque algunos dígitos sean 0 (en este caso las decenas de mil y las centenas), igual debes tenerlos presentes al identificar la posición de cada dígito distinto de cero, aunque no aparezcan como sumandos.
 
 **Pregunta 4 (alternativas).** ¿Cuál de los siguientes números es el mayor?
 a) 5.874.200
@@ -97,7 +99,7 @@ d) 5.798.600
 **Pregunta 5 (aproximación).** Aproxima el número 127.480 a la decena de mil más cercana.
 
 **Respuesta esperada:** **130.000**.
-*Retroalimentación:* 127.480 está entre 120.000 y 130.000. Como 7.480 es más cercano a 10.000 que a 0, se aproxima hacia arriba, quedando en 130.000.
+*Retroalimentación:* 127.480 está entre 120.000 y 130.000: queda a 7.480 de 120.000 y a 2.520 de 130.000, por lo que se aproxima hacia arriba, quedando en 130.000.
 
 **Pregunta 6 (ordenar).** Ordena de menor a mayor: 980.500 — 89.500 — 908.005 — 980.050.
 
@@ -426,7 +428,7 @@ Transforma 3/4 a decimal. Como 4 no es 10 ni 100 directamente, primero la amplif
 a) 0,3
 b) 0,03
 c) 3,0
-d) 0,30 solamente si se agrega un cero
+d) 0,003
 
 **Respuesta correcta: a) 0,3.**
 *Retroalimentación:* con denominador 10, el numerador (3) se escribe directamente en el lugar de los décimos, después de la coma.
@@ -502,7 +504,7 @@ d) No se puede saber
 **Pregunta 2 (verdadero o falso).** El número 3,099 es mayor que 3,1.
 
 **Respuesta correcta: Falso.**
-*Retroalimentación:* 3,1 = 3,100. Comparando con 3,099: en los décimos ambos tienen 1, y en los centésimos ambos tienen 0; la diferencia está en las milésimas: 3,100 tiene 0 y 3,099 tiene 9. Como 0 < 9, en realidad 3,099 < 3,100. Por lo tanto, 3,099 NO es mayor que 3,1: la afirmación es falsa.
+*Retroalimentación:* 3,1 = 3,100. Al comparar 3,099 con 3,100, los décimos son distintos: 3,100 tiene 1 décimo y 3,099 tiene 0 décimos. Como 0 < 1, en realidad 3,099 < 3,100. Por lo tanto, 3,099 NO es mayor que 3,1: la afirmación es falsa.
 
 **Pregunta 3 (desarrollo).** Ordena de menor a mayor: 4,2 — 4,25 — 4,205 — 4,02.
 
@@ -521,7 +523,7 @@ c) 6,1
 d) 6,09
 
 **Respuesta correcta: b) 6,19.**
-*Retroalimentación:* igualando a centésimas: 6,099 (aprox 6,10 redondeado, pero comparemos exacto con 3 cifras: 6,099), 6,190, 6,100, 6,090. El mayor es 6,190.
+*Retroalimentación:* igualando todos los números a tres cifras decimales: 6,099 — 6,190 — 6,100 — 6,090. Comparando los décimos (0, 1, 1, 0), el mayor es 6,190, es decir, 6,19.
 
 **Pregunta 6 (desarrollo — dinero).** Dos productos cuestan $1.250,5 y $1.250,05 respectivamente (en miles de pesos, por ejemplo, escrito como decimal). ¿Cuál producto es más caro?
 
@@ -730,7 +732,7 @@ d) 2.100 + 850 = x
 **Respuesta esperada:** la inecuación es x > 25. Cumplen la condición solo los pesos **mayores** que 25, es decir, **26 kg** (24 kg y 25 kg no cumplen, porque no son mayores que 25).
 *Retroalimentación:* "más de" indica una desigualdad estricta (mayor que, sin incluir el valor exacto), por lo tanto 25 kg justo no cumple la condición.
 
-**Pregunta 6 (problema de aplicación con balanza).** En una balanza equilibrada hay una caja de peso desconocido (x) de un lado, y del otro lado hay 12 kg. Si se quita una pesa de 4 kg del lado de los 12 kg y la balanza se sigue equilibrando después de agregar la misma pesa de 4 kg al lado de la caja... En realidad, simplifiquemos: si x + 30 = 75, ¿cuál es el valor de x?
+**Pregunta 6 (problema de aplicación con balanza).** En una balanza equilibrada, en un platillo hay una caja de peso desconocido (x) junto a una pesa de 30 kg, y en el otro platillo hay una pesa de 75 kg. ¿Cuál es el valor de x?
 
 **Respuesta esperada:** x = 75 − 30 = **45**.
 *Retroalimentación:* usando la operación inversa a la suma (la resta), se despeja x restando 30 a ambos lados de la ecuación.
@@ -1203,7 +1205,7 @@ d) Jueves
 **Respuesta esperada:** 12 + 18 + 9 = **39 inscripciones en total**.
 *Retroalimentación:* organizar los datos en una tabla facilita sumarlos o compararlos rápidamente, columna por columna.
 
-**Pregunta 6 (comparar información — gráfico de línea).** Un gráfico de línea muestra el peso de un cachorro medido cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6 kg. ¿Cuál fue el mes en que el cachorro aumentó más peso respecto al mes anterior?
+**Pregunta 6 (comparar información — gráfico de línea).** Un gráfico de línea muestra el peso de un cachorro medido cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6 kg. ¿En qué tramo de meses el cachorro aumentó más peso respecto al mes anterior?
 
 **Respuesta esperada:** entre el **mes 1 y el mes 2**, aumentó 1,5 kg (de 2 a 3,5 kg); entre el mes 2 y el 3, aumentó 1,5 kg también (de 3,5 a 5 kg); entre el mes 3 y el 4, aumentó 1 kg (de 5 a 6 kg). Por lo tanto, el mayor aumento (1,5 kg) ocurrió tanto entre el mes 1-2 como el 2-3, siendo estos los tramos de mayor crecimiento.
 *Retroalimentación:* para comparar aumentos en un gráfico de línea, se calcula la diferencia entre cada punto y el siguiente, y se identifica cuál diferencia es la mayor.

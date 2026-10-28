@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 5° básico
+curso: 5° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 4, OA 5, OA 6, OA 7, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 5° básico
@@ -164,7 +166,7 @@ En los poemas, el lenguaje no solo comunica ideas: también **apela a los sentid
 
 - El poema tiene **2 estrofas** de **4 versos** cada una.
 - Rima entre "sol" (verso 2, estrofa 2) y "volcán" (verso 4, estrofa 2): no coinciden los sonidos finales, así que **no hay rima** entre esos versos.
-- Rima entre "dormidos" (implícito en verso 2, estrofa 1: "valle") y "murmullo" (verso 4, estrofa 1): tampoco coinciden, este poema usa **verso libre** en varios versos (sin rima marcada), aunque en otros casos sí puede aparecer alguna rima asonante o consonante, como practicarás en las preguntas.
+- Rima entre "valle" (verso 2, estrofa 1) y "murmullo" (verso 4, estrofa 1): tampoco coinciden, este poema usa **verso libre** en varios versos (sin rima marcada), aunque en otros casos sí puede aparecer alguna rima asonante o consonante, como practicarás en las preguntas.
 
 ### Banco de preguntas de autoevaluación — OA N°5
 
@@ -192,7 +194,7 @@ b) "El cielo es un manto lleno de estrellas"
 c) "La luna se asoma tímida y curiosa"
 d) "Mañana amanece con manos morenas"
 
-*Respuesta correcta: b.* Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones a) y c) son personificaciones (dan acciones o actitudes humanas al viento y a la luna).
+*Respuesta correcta: b.* Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones a) y c) son personificaciones (dan acciones o actitudes humanas al viento y a la luna), y la opción d) nombra a los trabajadores a través de sus manos, sin nombrar algo como si fuera otra cosa.
 
 **5. (Aplicación)** Lee el verso "manos morenas que cortan racimos dorados de sol". ¿A qué sentido (vista, oído, olfato, gusto o tacto) apela principalmente esta imagen? Explica tu respuesta.
 

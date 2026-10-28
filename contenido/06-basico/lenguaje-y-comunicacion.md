@@ -1,8 +1,10 @@
 ---
 asignatura: Lenguaje y Comunicación
-curso: 6° básico
+curso: 6° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+oa_evaluados: OA 4, OA 5, OA 6, OA 7, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lenguaje y Comunicación — 6° básico
@@ -127,7 +129,7 @@ d) El sur de Chile en el presente
 
 ### ¿Qué vamos a aprender?
 
-En 6° básico sumas una nueva mirada a la poesía: además de fijarte en las imágenes y el lenguaje figurado, vas a analizar cómo **suenan** las palabras del poema y por qué el poeta o poeta eligió justamente esos sonidos. Vas a profundizar en:
+En 6° básico sumas una nueva mirada a la poesía: además de fijarte en las imágenes y el lenguaje figurado, vas a analizar cómo **suenan** las palabras del poema y por qué el poeta o la poeta eligió justamente esos sonidos. Vas a profundizar en:
 
 - Identificar información **explícita** e **implícita** en un poema.
 - Establecer relaciones entre las palabras del poema y las **emociones e imágenes** que evoca.

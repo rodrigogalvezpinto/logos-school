@@ -1,8 +1,10 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 5° Básico
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
-última actualización: 2026-08-10
+oa_evaluados: OA 5, OA 6, OA 8, OA 14, OA 15
+ultima_actualizacion: 2026-10-28
 ---
 
 # Inglés – 5° Básico
@@ -93,7 +95,7 @@ palabras que se parecen al español (cognados), como *family*, *chocolate* o *an
    con "I am Pedro" (información explícita).
 
 2. *(Verdadero o falso)* Read: *"My mother is a doctor. My father is a teacher."*
-   Statement: *His father is a doctor.*
+   Statement: *The father is a doctor.*
    **Respuesta correcta:** False (Falso).
    **Retroalimentación:** El texto dice que el papá es *teacher* (profesor) y la
    mamá es *doctor*; hay que leer con cuidado quién es quién.
@@ -222,8 +224,7 @@ parecen al español (cognados), como *chocolate*, *hospital* o *radio*.
 
 6. *(Alternativas — desafiante)* Read a short email: *"Hi Diego, Thank you for the
    present. I'm sorry I didn't call you. See you soon, Camila."* ¿Qué expresa
-   Camila en este email? (puede haber más de una idea correcta, elige la más
-   completa)
+   Camila en este email?
    a) Solo agradece
    b) Solo se disculpa
    c) Agradece y se disculpa
@@ -390,8 +391,8 @@ apoyo de dibujos.
    **Retroalimentación:** *From* (de parte de) se usa para firmar cartas y postales
    antes del nombre de quien escribe.
 
-4. *(Verdadero o falso)* En una lista de compras (*shopping list*), es correcto
-   escribir: *"I need a dog and a cat."*
+4. *(Verdadero o falso)* En una lista de compras de alimentos (*shopping list*),
+   sería típico escribir: *"I need a dog and a cat."*
    **Respuesta correcta:** False (Falso), aunque gramaticalmente esté bien escrito,
    no corresponde a una lista de compras típica de alimentos u objetos.
    **Retroalimentación:** Una *shopping list* normalmente incluye alimentos u

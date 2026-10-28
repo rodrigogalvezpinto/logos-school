@@ -2,8 +2,10 @@
 título: Matemática — 6° Básico
 asignatura: Matemática
 curso: 6° Básico
-fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 2, OA 3, OA 4, OA 5, OA 8, OA 11, OA 16, OA 18, OA 19, OA 23, OA 24
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 6° Básico
@@ -191,7 +193,7 @@ También se puede pensar así: 10% de 150 es 15 (dividiendo por 10); como 20% es
 a) 4/100
 b) 40/10
 c) 2/5
-d) 4/10 solamente
+d) 4/40
 
 **Respuesta correcta: c) 2/5.**
 *Retroalimentación:* 40% = 40/100, que simplificado (dividiendo por 20) es 2/5.
@@ -338,7 +340,7 @@ Un atleta corrió 7/2 km el lunes y 5/2 km el martes. ¿Cuántos kilómetros cor
 a) 5 1/2
 b) 5 2/9
 c) 5 1/3
-d) 5 2/6 solamente
+d) 5 1/6
 
 **Respuesta correcta: a) 5 1/2.**
 *Retroalimentación:* sumando enteros: 3+2=5. Sumando fracciones con denominador común: 1/3=2/6; 2/6+1/6=3/6=1/2. Resultado: 5 1/2.
