@@ -1,11 +1,11 @@
 # Centro de control único — Auditoría integral de Logos School
 
 **Última actualización:** 28 de octubre de 2026  
-**Rama de trabajo:** `main` (rama única)  
+**Rama de trabajo:** `main`  
 **Alcance:** 1.º básico a 4.º medio; todas las asignaturas y recursos que el producto declara ofrecer o que se encuentren en el repositorio.  
 **Estado global:** **EN CURSO — exámenes cerrados; guías y pruebas de unidad pendientes**.
 
-> **Regla de rama única:** todo cambio se hace directamente en `main`. **No crear ramas nuevas** ni ramas de trabajo paralelas. Cualquier persona o agente que retome el proyecto debe leer esta regla antes de tocar el repositorio.
+> **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 
 > Este documento es la fuente de verdad para orientarse y retomar el trabajo. Los informes de lotes fueron consolidados en `AUDITORIA_MAESTRA.md`; no son tableros independientes ni sustituyen la matriz maestra.
 
@@ -14,7 +14,7 @@
 1. **Una fuente de verdad:** actualizar este tablero y la matriz de cobertura al cerrar cada lote.
 2. **No duplicar informes:** antes de crear uno nuevo, buscar si ya existe un informe del mismo curso, asignatura, archivo y pregunta. Si existe, ampliar ese informe o añadir una referencia cruzada.
 3. **Separar los estados:** inventariado ≠ leído ≠ auditado por dimensión ≠ corregido ≠ revalidado.
-4. **Rama única:** trabajar solo en `main`. No crear ramas nuevas. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota.
+4. **Rama de trabajo:** trabajar sobre `main`, sincronizada con `origin/main`. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 5. **Durante el diagnóstico no se modifica contenido educativo sin registro.** Toda corrección se aplica en `main`, queda en la bitácora de implementación y permanece pendiente hasta su revalidación.
 6. **Cada hallazgo tiene un ID estable** y debe tener ruta, ubicación, evidencia, tipo, severidad, recomendación, prueba de regresión y estado.
 7. **Una ejecución CI verde no certifica el contenido educativo.** Solo demuestra que los trabajos configurados para ese commit pasaron.
@@ -205,7 +205,7 @@ Esta sección es la foto vigente y sustituye los recuentos de las secciones hist
 
 ### 15.1 Regla de trabajo
 
-- **Rama única:** todo cambio se hace en `main`. **No se crean ramas nuevas.**
+- **Rama de trabajo:** todo cambio se hace sobre `main`. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 - La rama `qa/fase-2-matriz-trazabilidad` quedó integrada y se conserva solo como referencia histórica remota. No se usa para trabajar.
 - Cada cambio se registra en un commit con mensaje claro y se empuja a `origin/main`.
 

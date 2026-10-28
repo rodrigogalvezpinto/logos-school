@@ -1,11 +1,11 @@
 # Registro maestro de documentos de auditoría — Logos School
 
 **Corte del registro:** 28 de octubre de 2026  
-**Rama:** `main` (rama única)  
+**Rama:** `main`  
 **HEAD de referencia:** `fbba513`  
 **Estado:** índice documental; no certifica la calidad de los materiales.
 
-> **Regla de rama única:** todo el trabajo se hace en `main`. **No crear ramas nuevas.** La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota.
+> **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y se conserva como referencia histórica.
 
 ## Reglas de uso
 

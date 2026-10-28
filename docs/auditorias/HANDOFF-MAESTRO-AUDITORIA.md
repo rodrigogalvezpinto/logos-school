@@ -1,11 +1,11 @@
 # Handoff y bitácora maestra de auditoría — Logos School
 
 **Última actualización:** 2026-10-28  
-**Rama de trabajo:** `main` (rama única)  
+**Rama de trabajo:** `main`  
 **Repositorio:** `rodrigogalvezpinto/logos-school`  
 **Propósito:** permitir que cualquier agente humano o de IA retome la auditoría con el contexto, las evidencias, las decisiones y los pendientes sin depender de la memoria de una conversación.
 
-> **Regla de rama única:** todo cambio se hace en `main`. **No crear ramas nuevas.** La rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota.
+> **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. La rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y se conserva como referencia histórica.
 
 > **PUNTO DE ENTRADA OBLIGATORIO (actualizado 2026-10-28):** empezar por el [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md). Es la referencia vigente para estado, prioridades y siguientes pasos. Este handoff conserva contexto histórico y decisiones; no usar sus recuentos antiguos como métricas actuales sin regenerarlos desde el HEAD.
 

@@ -2,7 +2,7 @@
 
 Plataforma web para apoyar el estudio y preparación de niños, niñas y adolescentes que rendirán los **Exámenes Libres de Validación de Estudios** del Ministerio de Educación de Chile, abarcando los 12 niveles: 1° a 8° básico y 1° a 4° medio.
 
-> **Regla de rama única:** todo el trabajo se hace en `main`. **No crear ramas nuevas.** La antigua rama `qa/fase-2-matriz-trazabilidad` se integró en `main` mediante el PR #8 y solo se conserva como referencia histórica remota.
+> **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y se conserva como referencia histórica. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 
 ## 🎯 Objetivo
 

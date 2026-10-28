@@ -8,9 +8,9 @@
 **Nombre oficial del producto: "Logos School"** (no solo "Logos") — usar este nombre en
 copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la marca.
 
-> **Regla de rama única (2026-10-28):** todo cambio se hace directamente en `main`.
-> **No crear ramas nuevas** ni ramas de trabajo paralelas. Cualquier persona o agente que
-> retome el proyecto debe trabajar sobre `main`, hacer commit ahí y empujar a `origin/main`.
+> **Rama de trabajo actual (2026-10-28):** `main`, sincronizada con `origin/main`.
+> Si un cambio necesita aislamiento, se puede crear una rama desde `main` y volver a
+> integrarla cuando esté lista.
 
 ## Qué es este proyecto
 

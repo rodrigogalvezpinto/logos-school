@@ -2,7 +2,7 @@
 
 Este directorio consolida auditorías, especificaciones técnicas, calidad y planes de trabajo.
 
-> **Regla de rama única:** todo cambio se hace en `main`. **No crear ramas nuevas.** La rama `qa/fase-2-matriz-trazabilidad` se integró en `main` (PR #8) y solo se conserva como referencia histórica remota.
+> **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. La rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y se conserva como referencia histórica. Se pueden crear ramas desde `main` si un cambio necesita aislamiento.
 
 ## Estructura
 
