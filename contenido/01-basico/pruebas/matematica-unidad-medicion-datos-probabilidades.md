@@ -1,11 +1,13 @@
 ---
-título: Prueba de Unidad — Medición y Datos y Probabilidades
 asignatura: Matemática
 curso: 1° Básico
 eje: Medición y Datos y Probabilidades
-tiempo sugerido: 15 minutos
-cantidad de preguntas: 8
+tipo: Prueba de unidad
+título: Prueba de Unidad — Medición y Datos y Probabilidades
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 8
 fuente: contenido/01-basico/matematica.md (OA 18, 19, 20)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Medición y Datos y Probabilidades

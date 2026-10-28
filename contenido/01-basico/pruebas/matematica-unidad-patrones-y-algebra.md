@@ -1,11 +1,13 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 1° Básico
 eje: Patrones y Álgebra
-tiempo sugerido: 15 minutos
-cantidad de preguntas: 6
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 11)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Patrones y Álgebra

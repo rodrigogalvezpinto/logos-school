@@ -1,11 +1,13 @@
 ---
-título: Prueba de Unidad — Números y Operaciones
 asignatura: Matemática
 curso: 1° Básico
 eje: Números y Operaciones
-tiempo sugerido: 15 minutos
-cantidad de preguntas: 8
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 8
 fuente: contenido/01-basico/matematica.md (OA 3, 4, 6, 8, 9)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Números y Operaciones

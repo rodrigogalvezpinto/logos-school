@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Ciencias de la Vida
 asignatura: Ciencias Naturales
 curso: 2° Básico
 eje: Ciencias de la Vida (OA 3, 5, 7, 8)
-tiempo sugerido: 15-20 minutos
+tipo: Prueba de unidad
+título: Prueba de Unidad — Ciencias de la Vida
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 8
 fuente: contenido/02-basico/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias de la Vida

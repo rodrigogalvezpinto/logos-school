@@ -4,7 +4,8 @@ curso: 1° Básico
 unidad: Eje 2 — Ciencias Físicas y Químicas (OA 8, OA 9)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
-última actualización: 2026-08-11
+cantidad_preguntas: 7
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias Físicas y Químicas

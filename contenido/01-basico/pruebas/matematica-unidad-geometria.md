@@ -1,11 +1,13 @@
 ---
-título: Prueba de Unidad — Geometría
 asignatura: Matemática
 curso: 1° Básico
 eje: Geometría
-tiempo sugerido: 15 minutos
-cantidad de preguntas: 6
+tipo: Prueba de unidad
+título: Prueba de Unidad — Geometría
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 13)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Geometría
@@ -20,7 +22,7 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 
 ---
 
-**1.** Si levantas la mano con la que normalmente escribes y es tu mano derecha, ¿cómo se llama esa posición?
+**1.** Levantas tu mano derecha para pedir la palabra. ¿Cómo se llama la posición de esa mano?
 
 a) Izquierda
 b) Derecha

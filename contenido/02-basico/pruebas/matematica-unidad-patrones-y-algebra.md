@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 2° Básico
 eje: Patrones y Álgebra (OA 12, 13)
-tiempo sugerido: 15-20 minutos
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 7
 fuente: contenido/02-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Patrones y Álgebra

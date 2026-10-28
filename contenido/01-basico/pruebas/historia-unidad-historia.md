@@ -4,8 +4,9 @@ curso: 1° Básico
 eje: Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
+cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Historia
@@ -17,12 +18,12 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 
 ---
 
-**1.** ¿Qué haces primero en la mañana?
+**1.** ¿Qué haces primero en la mañana, apenas te despiertas?
 
-a) Dormir toda la noche
-b) Ir a dormir la siesta
-c) Almorzar
-d) Cenar
+a) Despertarme y levantarme
+b) Almorzar
+c) Cenar
+d) Dormir la siesta
 
 ---
 
@@ -77,7 +78,7 @@ d) 1 de enero
 
 ## Pauta de respuestas
 
-1. a) Dormir toda la noche
+1. a) Despertarme y levantarme
 2. Falso
 3. 1) Desayunar, 2) Almorzar, 3) Cenar
 4. b) Jueves

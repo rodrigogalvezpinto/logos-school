@@ -2,8 +2,10 @@
 asignatura: Lenguaje y Comunicación
 curso: 1° Básico
 tipo: Prueba de unidad
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Escucho, leo y comprendo
@@ -12,7 +14,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **Temas:** Sonidos de las palabras (OA 3), lectura de palabras y frases cortas (OA 4) y
 comprensión de cuentos (OA 8)
 **Tiempo sugerido:** 15 minutos
-**Puntaje total:** 7 preguntas
+**Puntaje total:** 7 puntos (1 punto por pregunta)
 
 > Nombre: _______________________________  Fecha: _____________
 
@@ -42,7 +44,7 @@ c) /a/
 
 ---
 
-**4.** Completa la palabra para que se lea "perro": "pe _ _ o"
+**4.** Completa con la letra o las letras que faltan para que la palabra se lea "perro": "pe __ o"
 
 a) r
 b) rr

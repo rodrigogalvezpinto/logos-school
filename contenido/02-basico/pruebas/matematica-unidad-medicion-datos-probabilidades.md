@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Medición y Datos y Probabilidades
 asignatura: Matemática
 curso: 2° Básico
 eje: Medición y Datos y Probabilidades (OA 19, 20, 22)
-tiempo sugerido: 15-20 minutos
+tipo: Prueba de unidad
+título: Prueba de Unidad — Medición y Datos y Probabilidades
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 8
 fuente: contenido/02-basico/matematica.md
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Medición y Datos y Probabilidades

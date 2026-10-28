@@ -2,9 +2,12 @@
 asignatura: Lenguaje y Comunicación
 curso: 2° básico
 unidad: 1
+tipo: Prueba de unidad
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 8
 oa_evaluados: [1, 5]
-tiempo_sugerido: 15-20 minutos
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lenguaje y Comunicación (2° básico)

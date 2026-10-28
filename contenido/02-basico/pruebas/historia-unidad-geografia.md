@@ -2,8 +2,11 @@
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Básico
 eje: Geografía
+tipo: Prueba de unidad
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 8
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 7 y OA 8)
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje Geografía (2° Básico)

@@ -4,8 +4,9 @@ curso: 1° Básico
 eje: Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
+cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Geografía

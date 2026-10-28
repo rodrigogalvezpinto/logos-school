@@ -2,8 +2,10 @@
 asignatura: Lenguaje y Comunicación
 curso: 1° Básico
 tipo: Prueba de unidad
+tiempo_sugerido: 15 minutos
+cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 2 — Leo y escribo textos cortos
@@ -12,7 +14,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **Temas:** Lectura de notas e instrucciones (OA 10) y primeras palabras y frases escritas
 (OA 13)
 **Tiempo sugerido:** 15 minutos
-**Puntaje total:** 7 preguntas
+**Puntaje total:** 7 puntos (1 punto por pregunta)
 
 > Nombre: _______________________________  Fecha: _____________
 
@@ -91,4 +93,4 @@ c) "lacasa esgrande"
 5. **"el pájaro canta"** — Cada palabra debe ir separada por un espacio.
 6. **b) "la casa es grande"** — Cada palabra está separada por un espacio, por eso se lee
    con facilidad.
-7. **"pez"** — Los sonidos son /p/-/e/-/z/: una letra para cada sonido.
+7. **"pez"** — Los sonidos son /p/-/e/-/s/ y se escriben con las letras p, e, z.
