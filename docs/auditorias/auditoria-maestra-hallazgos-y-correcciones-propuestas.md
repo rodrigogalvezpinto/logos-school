@@ -274,7 +274,7 @@ Copiar esta estructura por cada problema nuevo:
 
 ## Reconciliación de correcciones registradas — 2026-10-22
 
-Las siguientes entradas dan un ID estable a cambios de la bitácora que aún no estaban vinculados a un encabezado H-###. Son **correcciones aplicadas pendientes de revalidación**, no hallazgos cerrados. La evidencia de implementación está en [registro de implementación](registro-implementacion-correcciones-2026-10-22.md); los commits citados allí son el rastro del cambio, no una prueba de regresión.
+Las siguientes entradas dan un ID estable a cambios de la bitácora que aún no estaban vinculados a un encabezado H-###. Son **correcciones aplicadas pendientes de revalidación**, no hallazgos cerrados. La evidencia de implementación estaba en el registro de implementación (retirado en la consolidación documental; ver [ARCHIVOS-ELIMINADOS.md](ARCHIVOS-ELIMINADOS.md)); los commits del historial de Git son el rastro del cambio, no una prueba de regresión.
 
 ## H-014 — Tabla de frecuencias de Matemática 7.º básico corregida
 

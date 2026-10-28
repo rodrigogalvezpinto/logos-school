@@ -1,19 +1,21 @@
 # Centro de control único — Auditoría integral de Logos School
 
-**Última actualización:** 22 de octubre de 2026  
-**Rama de trabajo:** `qa/fase-2-matriz-trazabilidad`  
+**Última actualización:** 28 de octubre de 2026  
+**Rama de trabajo:** `main` (rama única)  
 **Alcance:** 1.º básico a 4.º medio; todas las asignaturas y recursos que el producto declara ofrecer o que se encuentren en el repositorio.  
-**Estado global:** **EN CURSO — NO CERTIFICADA AL 100 %**.
+**Estado global:** **EN CURSO — exámenes cerrados; guías y pruebas de unidad pendientes**.
 
-> Este documento es la fuente de verdad para orientarse y retomar el trabajo. Los informes de lotes conservan la evidencia detallada; no son tableros independientes ni sustituyen la matriz maestra.
+> **Regla de rama única:** todo cambio se hace directamente en `main`. **No crear ramas nuevas** ni ramas de trabajo paralelas. Cualquier persona o agente que retome el proyecto debe leer esta regla antes de tocar el repositorio.
+
+> Este documento es la fuente de verdad para orientarse y retomar el trabajo. Los informes de lotes fueron consolidados en `AUDITORIA_MAESTRA.md`; no son tableros independientes ni sustituyen la matriz maestra.
 
 ## 1. Reglas para mantener orden
 
 1. **Una fuente de verdad:** actualizar este tablero y la matriz de cobertura al cerrar cada lote.
 2. **No duplicar informes:** antes de crear uno nuevo, buscar si ya existe un informe del mismo curso, asignatura, archivo y pregunta. Si existe, ampliar ese informe o añadir una referencia cruzada.
 3. **Separar los estados:** inventariado ≠ leído ≠ auditado por dimensión ≠ corregido ≠ revalidado.
-4. **No mezclar ramas:** este tablero describe la rama QA indicada arriba. Los documentos de otras ramas son evidencia relacionada, no se asume que estén incorporados aquí hasta comprobarlo.
-5. **Durante el diagnóstico no se modifica contenido educativo.** La auditoría consolidada aportada el 22-10-2026 autoriza iniciar correcciones en esta rama QA. No cambiar `main`; cada cambio debe quedar en la bitácora de implementación y permanecer pendiente hasta revalidación.
+4. **Rama única:** trabajar solo en `main`. No crear ramas nuevas. La antigua rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota.
+5. **Durante el diagnóstico no se modifica contenido educativo sin registro.** Toda corrección se aplica en `main`, queda en la bitácora de implementación y permanece pendiente hasta su revalidación.
 6. **Cada hallazgo tiene un ID estable** y debe tener ruta, ubicación, evidencia, tipo, severidad, recomendación, prueba de regresión y estado.
 7. **Una ejecución CI verde no certifica el contenido educativo.** Solo demuestra que los trabajos configurados para ese commit pasaron.
 
@@ -31,9 +33,9 @@
 
 ## 3. Estado de inventario — no confundir con cobertura de auditoría
 
-En el HEAD vigente `a462ebef452b730628b0832c700f3e53a066489c`, el árbol contiene **937 archivos versionados** y 290 rutas de alcance educativo. La matriz CSV se regeneró en el commit `40bb7ce172ec5a50c24d7256ef68a6d5e3d95827`, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: 271 pendientes de auditoría sistemática, 8 con revisión parcial documentada y 11 corregidas pendientes de revalidación. El inventario de rutas está sincronizado; falta reconciliar recursos consumidos por la aplicación y expandir cobertura a preguntas/OA/recursos.
+En el HEAD vigente `fbba513`, el árbol contiene 290 rutas de alcance educativo. La matriz CSV se regeneró en ese mismo HEAD, actualizando tamaño y SHA de blob para las 290 rutas. La distribución actual de estados se recalculó directamente desde el CSV: **233 pendientes de auditoría sistemática, 1 con revisión parcial documentada, 6 corregidas pendientes de revalidación y 50 exámenes revalidados**. El inventario de rutas está sincronizado; falta expandir la cobertura a preguntas, OA y recursos consumidos por la aplicación.
 
-La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **271 están pendientes de auditoría sistemática, 8 tienen revisión parcial documentada y 11 figuran como corregidas pendientes de revalidación**. Estas categorías son de seguimiento y no equivalen a certificación. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
+La matriz [estado por archivo (CSV)](matriz-maestra-estado-por-archivo.csv) contiene **290 rutas de alcance educativo**: 265 bajo `contenido/` y 25 bajo `Temarios/`. De esas filas, **233 están pendientes de auditoría sistemática, 1 tiene revisión parcial documentada, 6 figuran como corregidas pendientes de revalidación y 50 exámenes están revalidados**. Estas categorías son de seguimiento y no equivalen a certificación integral. Los recursos consumidos por la aplicación, bancos de datos, importador y recursos externos aún deben reconciliarse con el inventario.
 
 La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA del blob, estado, informe de referencia y dimensiones pendientes. Los estados preliminares deben actualizarse con evidencia, no inferirse del nombre del archivo.
 
@@ -49,7 +51,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |
 | Recursos visuales y accesibilidad | No certificada | Falta cotejar referencias y render de la aplicación. |
 | Importación, puntuación y persistencia en app | No certificada | Se requiere entorno QA, pruebas reproducibles y contraste fuente/salida. |
-| Correcciones educativas | Primera tanda aplicada en rama QA | 11 cambios de contenido/documentación de ítems aplicados; todos pendientes de regresión y revalidación. Ver [bitácora de implementación](registro-implementacion-correcciones-2026-10-22.md). |
+| Correcciones educativas | 50 exámenes revalidados; 6 cambios menores pendientes | Los 50 exámenes simulacro quedaron auditados y revalidados el 28-10-2026. Quedan 6 archivos no-examen en `corregido_pendiente_revalidacion`. La bitácora original fue retirada en la consolidación documental; su contenido se conserva en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y en el [registro de archivos eliminados](ARCHIVOS-ELIMINADOS.md). |
 | Certificación final | No iniciada | Requiere denominadores conocidos, estados por unidad, hallazgos cerrados/aceptados y pruebas relevantes. |
 
 ## 5. Hallazgos de alto impacto conocidos
@@ -66,24 +68,17 @@ Estos son puntos de seguimiento conocidos, no la lista completa de todos los def
 
 `*` IDs de seguimiento internos para este tablero; si el informe fuente usa otra identificación, conservarla y reconciliarla en la matriz de hallazgos antes de asignar IDs definitivos.
 
-## 6. Informes de lotes — usar los existentes
+## 6. Informes de lotes — consolidados
 
-- [1.º básico: medición, datos y probabilidades](lote-01-basico-matematica-medicion-datos.md)
-- [Control mecánico de claves: Formas A/B de 2.º y 3.º básico](control-mecanico-claves-simulacros-2b-3b.md)
-- [4.º básico: examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md)
-- [5.º básico: Historia Forma B](lote-05-basico-historia-examen-forma-b.md)
-- [1.º medio: Matemática Forma B, recálculo](lote-01-medio-matematica-examen-forma-b-recalculo.md)
-- [2.º medio: Matemática Forma B, recálculo](lote-02-medio-matematica-examen-forma-b-recalculo.md)
-- [1.º medio: Ciencias Naturales Forma B](lote-01-medio-ciencias-naturales-forma-b.md)
-- [2.º medio: Ciencias Naturales Forma B](lote-02-medio-ciencias-naturales-forma-b.md)
-- [Comparación Formas A/B de 3.º y 4.º básico](lote-comparativo-formas-a-b-3b-4b.md)
-- [Cribado transversal de Matemática](lote-transversal-matematica-3medio-8basico-cribado.md)
+Los informes de lote se consolidaron en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) durante la reorganización documental del 28-10-2026. Sus archivos individuales ya no existen en el repositorio; el detalle de qué se retiró y por qué está en [ARCHIVOS-ELIMINADOS.md](ARCHIVOS-ELIMINADOS.md).
 
-También existen informes de primera, segunda, tercera y cuarta pasada. No deben interpretarse como lotes completados integralmente si su propio alcance indica cribado o revisión parcial.
+Informes retirados (evidencia absorbida por la auditoría maestra): 1.º básico (medición, datos y probabilidades), 4.º básico (examen integrado Forma B), 5.º básico (Historia Forma B), 1.º y 2.º medio (Matemática Forma B, recálculo), 1.º y 2.º medio (Ciencias Naturales Forma B), comparación Formas A/B de 3.º y 4.º básico, cribado transversal de Matemática y las pasadas primera a cuarta.
+
+El único informe de lote que sigue existiendo como archivo independiente es el [control mecánico de claves de 2.º y 3.º básico](control-mecanico-claves-simulacros-2b-3b.md), que conserva su alcance acotado y no certifica la semántica de las respuestas.
 
 ## 7. Bitácora de correcciones autorizadas — 2026-10-22
 
-Se aplicó la primera tanda de correcciones basada en la auditoría consolidada. Ver [registro de implementación](registro-implementacion-correcciones-2026-10-22.md) para IDs, rutas y commits. Se corrigieron tres hallazgos P1 confirmados (clave 4B, puntaje 5B, inversa 2M) y ocho defectos de contenido/erratas verificadas. **Ninguno se considera cerrado** hasta ejecutar regresión, comprobar importación/render y actualizar el registro de hallazgos. No se modificó `main` ni la base de datos.
+Se aplicó la primera tanda de correcciones basada en la auditoría consolidada. La bitácora original (`registro-implementacion-correcciones-2026-10-22.md`) se retiró en la consolidación documental; su contenido quedó absorbido por [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y por [ARCHIVOS-ELIMINADOS.md](ARCHIVOS-ELIMINADOS.md). Se corrigieron tres hallazgos P1 confirmados (clave 4B, puntaje 5B, inversa 2M) y ocho defectos de contenido/erratas verificadas. Los 50 exámenes fueron revalidados el 28-10-2026; los 6 archivos no-examen que siguen en `corregido_pendiente_revalidacion` conservan su estado hasta nueva evidencia.
 
 ## 8. Próxima secuencia obligatoria
 
@@ -141,7 +136,7 @@ No declarar 100 % por el número de archivos leídos, por contar informes o porq
 Esta sección sustituye las instrucciones históricas que hayan quedado desactualizadas en otras secciones. Para continuar, usar este orden operativo:
 
 1. **Punto de entrada:** este centro de control.
-2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estados recalculados: 271 pendientes, 8 revisión parcial, 11 corregidos pendientes de revalidación).
+2. **Cobertura por archivo:** `matriz-maestra-estado-por-archivo.csv` (290 filas; estado vigente al 28-10-2026: 233 pendientes, 1 revisión parcial, 6 corregidos pendientes de revalidación y 50 exámenes revalidados).
 3. **Hallazgos y correcciones:** `auditoria-maestra-hallazgos-y-correcciones-propuestas.md` y `registro-implementacion-correcciones-2026-10-22.md`; reconciliar IDs antes de contar hallazgos únicos.
 4. **Evidencia:** ampliar informes existentes antes de crear otro informe para el mismo archivo/ítem.
 5. **Validación técnica:** el workflow asociado al HEAD `77b9c15bb0f5bd29568d19d6e21702c000e3b9c9` terminó en éxito: [run 39871505287](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39871505287). Esto valida solo los pasos configurados.
@@ -202,3 +197,63 @@ La reconciliación documental de los 11 cambios de la bitácora ya se completó 
 2. Diseñar y ejecutar regresiones específicas para los cambios cuantitativos y de clave (4B, 5B Historia, 2M Matemática, 6B Matemática, 7B Matemática) y revisiones lingüísticas/conceptuales para los restantes.
 3. Actualizar los estados de la matriz solo cuando exista evidencia de revalidación.
 4. Retomar auditoría sustantiva nueva únicamente después de cerrar esta etapa de regresión o registrar explícitamente qué no puede ejecutarse por falta de entorno QA.
+
+
+## 15. Estado verificado al 28 de octubre de 2026 — rama `main`
+
+Esta sección es la foto vigente y sustituye los recuentos de las secciones históricas anteriores. Se midió sobre `main` en el HEAD `fbba513`, después de integrar el PR #8.
+
+### 15.1 Regla de trabajo
+
+- **Rama única:** todo cambio se hace en `main`. **No se crean ramas nuevas.**
+- La rama `qa/fase-2-matriz-trazabilidad` quedó integrada y se conserva solo como referencia histórica remota. No se usa para trabajar.
+- Cada cambio se registra en un commit con mensaje claro y se empuja a `origin/main`.
+
+### 15.2 Contenido cerrado
+
+| Comprobación | Resultado |
+|---|---|
+| Exámenes auditados y revalidados | **50 / 50** |
+| Preguntas de examen | 1.210 |
+| Alternativas | 635 |
+| Desalineaciones enunciado ↔ alternativa ↔ pauta | 0 |
+| Problemas de formato de pauta | 0 (2 avisos esperados en Filosofía 3.º y 4.º medio) |
+| Claves con opción sobre 45 % | 0 |
+| Anglicismos | 0 |
+| Imprecisiones factuales | 0 |
+| Rúbricas con suma igual al puntaje | 91 / 91 |
+| Hoja de respuestas y tabla de especificaciones | 50 / 50 |
+| Preguntas con tablas de datos que reformulan cifras | 13, sin alterar respuestas |
+| Enlaces rotos dentro de `contenido/` | 0 |
+| Menciones falsas a una «Forma A» inexistente | 0 (quedan 25 legítimas de 1.º–4.º básico) |
+
+La matriz CSV quedó reconciliada: los 50 exámenes pasaron a `revalidado`, con `estado_inventario` en `fbba513`, bytes y blob SHA regenerados, referencia a `AUDITORIA_MAESTRA.md` y observación con la evidencia de cierre.
+
+### 15.3 Pendientes de contenido
+
+1. **Pruebas de unidad: 156 en total, 155 pendientes y 1 con revisión parcial.** Es el bloque grande que la auditoría de exámenes no cubrió.
+2. **Guías de estudio: la matriz cuenta 48 y el árbol tiene 58.** Hay que reconciliar el denominador antes de declarar porcentajes; hoy 44 de las 48 filas de la matriz figuran pendientes.
+3. **6 archivos no-examen** siguen en `corregido_pendiente_revalidacion` (guías y recursos varios).
+4. **55 marcadores `[Imagen: ...]` en 23 archivos** siguen sin ser imágenes reales (issue #2). Falta decidir estrategia: IA, banco libre, SVG/emoji o reescribir sin imagen.
+5. **Componentes visuales de Matemática** (recta numérica, fracciones, figuras) siguen pendientes.
+6. **18 de 50 exámenes no declaran `Puntaje total` y 49 de 50 no declaran escala**; el importador no lee esos campos. Es cosmético y no fue solicitado, pero conviene unificarlo.
+
+### 15.4 Pendientes técnicos
+
+- **Backend y E2E no se pudieron ejecutar** en esta sesión: el daemon de Docker estaba detenido y PostgreSQL no escuchaba en 5432. Línea base documentada: 491 pytest / 33 Vitest / 362 E2E (21-10-2026). El frontend unitario sí se ejecutó: **46/46 en verde** (10 archivos).
+- **El CI solo valida contenido estructural** (`qa-auditoria-contenido.yml`). No ejecuta pytest, Vitest ni Playwright.
+- Los issues **#3, #4, #5 y #6** ya están corregidos en el contenido, pero siguen abiertos.
+- El issue **#7** sigue enlazando a la rama `qa/...`; conviene actualizarlo a `main`.
+
+### 15.5 Próximos pasos, en orden
+
+1. Reparar los enlaces relativos rotos y las referencias al informe movido (hecho en este mismo commit).
+2. Auditar las 156 pruebas de unidad, empezando por 1.º y 2.º básico.
+3. Reconciliar el denominador de guías (48 en matriz vs. 58 en árbol) y auditar las guías.
+4. Decidir y ejecutar la estrategia de imágenes del issue #2.
+5. Levantar PostgreSQL/Docker y correr backend + E2E.
+6. Ampliar el CI a pytest, Vitest y Playwright.
+7. Actualizar el issue #7 a `main` y cerrar los issues #3–#6.
+8. Preparar producción (issue #1): Neon, Render, Cloudflare Pages, Sentry, UptimeRobot y credenciales.
+
+**Conclusión:** el contenido de exámenes está cerrado y la matriz ya refleja ese cierre. La auditoría integral **sigue en curso**: faltan pruebas de unidad, guías, recursos visuales y la verificación técnica en entorno completo. No se declara 100 %.

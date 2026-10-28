@@ -2,6 +2,8 @@
 
 Plataforma web para apoyar el estudio y preparación de niños, niñas y adolescentes que rendirán los **Exámenes Libres de Validación de Estudios** del Ministerio de Educación de Chile, abarcando los 12 niveles: 1° a 8° básico y 1° a 4° medio.
 
+> **Regla de rama única:** todo el trabajo se hace en `main`. **No crear ramas nuevas.** La antigua rama `qa/fase-2-matriz-trazabilidad` se integró en `main` mediante el PR #8 y solo se conserva como referencia histórica remota.
+
 ## 🎯 Objetivo
 
 Ser una plataforma accesible para todas las personas, con contenido de estudio 100% gratuito basado en los temarios oficiales de la Unidad de Currículum y Evaluación (UCE) del Mineduc.
@@ -12,7 +14,7 @@ Ser una plataforma accesible para todas las personas, con contenido de estudio 1
 - **2.917 preguntas** de autoevaluación
 - **408/408 Objetivos de Aprendizaje** cubiertos (temarios oficiales Mineduc)
 - **156 pruebas de unidad** calibradas por edad
-- **92 exámenes simulacro** (Forma A y B por curso/asignatura)
+- **50 exámenes simulacro** (Forma A y B en 1°–4° básico; Forma B por asignatura desde 5° básico)
 
 Los temarios oficiales están en la carpeta `Temarios/` y su análisis estructurado en `Temarios/analisis/`.
 
@@ -22,11 +24,11 @@ Los temarios oficiales están en la carpeta `Temarios/` y su análisis estructur
 - **Framework**: FastAPI (Python 3.12+)
 - **Arquitectura**: Hexagonal (dominio/aplicación/infraestructura)
 - **Base de datos**: PostgreSQL (Alembic para migraciones)
-- **Tests**: 326/326 tests pytest en verde
+- **Tests**: línea base y resultados en `docs/qa/linea-base.md`
 
 ### Frontend
 - **Framework**: Angular 22.1.0
-- **Tests**: 69/69 E2E Playwright en verde
+- **Tests**: suite unitaria (Vitest) y E2E (Playwright) documentada en `docs/qa/linea-base.md`
 - **Accesibilidad**: Auditoría con axe-core
 
 ## 🚀 Estado Actual

@@ -150,10 +150,10 @@ No se ha comprobado todavía el render real de la prueba de 1.º básico. En 5.�
 
 Se crearon informes separados para conservar el alcance, la evidencia y las limitaciones de cada revisión:
 
-- [Lote 4.º básico — examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md): discrepancia confirmada entre la letra de la clave y la alternativa que contiene 14; revisión disciplinar de las 20 preguntas y render aún pendientes.
-- [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): se reprodujo que los 25 ítems, la pauta y la distribución por eje suman 35 puntos, mientras el encabezado declara 30; revisión curricular, de contenido y de aplicación aún pendientes.
+- **Lote 4.º básico — examen integrado Forma B** (informe retirado): discrepancia confirmada entre la letra de la clave y la alternativa que contiene 14; ya corregida y revalidada.
+- **Lote 5.º básico — Historia Forma B** (informe retirado): se reprodujo que los 25 ítems, la pauta y la distribución por eje suman 35 puntos, mientras el encabezado declaraba 30; ya corregido y revalidado.
 
-Estos informes no cambian materiales educativos ni cierran los hallazgos. Se mantienen en la rama de QA.
+Estos informes no cambian materiales educativos ni cierran los hallazgos por sí solos. Fueron consolidados en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md) y retirados del repositorio; ver [ARCHIVOS-ELIMINADOS.md](ARCHIVOS-ELIMINADOS.md).
 
 
 ## 11. Control mecánico adicional de claves — 2.º y 3.º básico
@@ -163,20 +163,20 @@ Se registró una comprobación auxiliar de las cuatro Formas A/B de los exámene
 
 ## 12. Lote adicional — 1.º básico, Matemática: medición y datos
 
-Se documentó [el lote de auditoría de la prueba de medición, datos y probabilidades](lote-01-basico-matematica-medicion-datos.md). El ítem 2 pide ordenar una goma, un lápiz y una regla, pero la fuente Markdown no entrega longitudes ni un estímulo visual que permita establecer un orden único; la pauta asume que la goma es más corta y la regla más larga. Se registra como hallazgo provisional P1 sujeto a comprobar si la aplicación aporta un recurso visual adicional. No se cambió la prueba; render, corrección, OA oficial y regresión siguen pendientes.
+Se documentó el lote de auditoría de la prueba de medición, datos y probabilidades (informe retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)). El ítem 2 pide ordenar una goma, un lápiz y una regla, pero la fuente Markdown no entrega longitudes ni un estímulo visual que permita establecer un orden único; la pauta asume que la goma es más corta y la regla más larga. Se registra como hallazgo provisional P1 sujeto a comprobar si la aplicación aporta un recurso visual adicional. No se cambió la prueba; render, corrección, OA oficial y regresión siguen pendientes.
 
 
 ## 13. Lote de recálculo — Matemática, 1.º medio, Forma B
 
 Se documentó el recálculo independiente de los 25 ítems del examen `contenido/01-medio/examenes/matematica-examen-forma-b.md`, incluyendo el cotejo de las 12 claves de selección múltiple con sus alternativas. En esta pasada no se detectaron discrepancias numéricas ni de letra. El informe deja explícito que siguen pendientes la verificación de OA oficiales, la calidad de distractores, la rúbrica de desarrollo, la equivalencia con Forma A y las pruebas de importación/render/calificación.
 
-- [Informe de recálculo 1.º medio Matemática Forma B](lote-01-medio-matematica-examen-forma-b-recalculo.md)
+- **Informe de recálculo 1.º medio Matemática Forma B** (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md))
 - **Estado del lote:** revisión numérica y de clave documentada; no equivale a certificación integral del examen.
 
 
 ## 11. Revisión adicional — Matemática de 2.º medio, Forma B
 
-Se revisó el archivo `contenido/02-medio/examenes/matematica-examen-forma-b.md` y se registró el detalle en [Lote 2.º medio — recálculo de examen de Matemática Forma B](lote-02-medio-matematica-examen-forma-b-recalculo.md).
+Se revisó el archivo `contenido/02-medio/examenes/matematica-examen-forma-b.md` y se registró el detalle en el lote de 2.º medio — recálculo de examen de Matemática Forma B (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)).
 
 - **Hallazgo P1 confirmado:** pregunta 14. La alternativa a) indica correctamente que la inversa de `f(x)=x+10` es `x-10`, pero la pauta copia `x+10` como respuesta esperada. La pauta contradice la alternativa y el cálculo.
 - En esta pasada, los cálculos de los otros 24 ítems coincidieron con sus respuestas esperadas; esto no certifica currículo, dificultad, rúbricas, equivalencia con Forma A ni comportamiento de la app.
@@ -191,7 +191,7 @@ La última ejecución consultada de CI fue el run [39710128188](https://github.c
 
 ## 12. Cribado transversal adicional de Matemática — 2026-10-22
 
-Se creó [Lote transversal — cribado de exámenes de Matemática de 3.º medio a 8.º básico](lote-transversal-matematica-3medio-8basico-cribado.md). Se relevaron y recalcularon operaciones de los exámenes Forma B de 3.º y 4.º medio y 5.º, 6.º, 7.º y 8.º básico; las operaciones revisadas coincidieron con sus pautas. Es un cribado acotado, no una auditoría pedagógica completa. En 6.º básico, pregunta 2, se comprobó que 9 buses completos cuestan $38.700.000 y dejan $800.000 del presupuesto de $39.500.000; el enunciado no pide transportar una cantidad de pasajeros, por lo que no se registra como defecto.
+Se creó el lote transversal — cribado de exámenes de Matemática de 3.º medio a 8.º básico (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)). Se relevaron y recalcularon operaciones de los exámenes Forma B de 3.º y 4.º medio y 5.º, 6.º, 7.º y 8.º básico; las operaciones revisadas coincidieron con sus pautas. Es un cribado acotado, no una auditoría pedagógica completa. En 6.º básico, pregunta 2, se comprobó que 9 buses completos cuestan $38.700.000 y dejan $800.000 del presupuesto de $39.500.000; el enunciado no pide transportar una cantidad de pasajeros, por lo que no se registra como defecto.
 
 El hallazgo P1 nuevo de la pauta de Matemática de 2.º medio (pregunta 14, inversa de `x+10`) sigue confirmado y documentado en su informe de lote. El cribado transversal no encontró otra discrepancia numérica inequívoca dentro de los ítems recalculados; no se debe interpretar como validación de los ítems restantes.
 
@@ -200,7 +200,7 @@ CI continúa con conclusión de fallo en los runs recientes; el validador estruc
 
 ## 13. Ciencias Naturales de 1.º medio — Forma B
 
-Se creó [Lote 1.º medio — revisión conceptual y aritmética de Ciencias Naturales Forma B](lote-01-medio-ciencias-naturales-forma-b.md).
+Se creó el lote de 1.º medio — revisión conceptual y aritmética de Ciencias Naturales Forma B (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)).
 
 - **P2 conceptual, pregunta 9:** la pauta usa “bioacumulación (o biomagnificación)” como si fueran equivalentes; la explicación describe principalmente biomagnificación (aumento entre niveles tróficos). Debe verificarse el enunciado exacto y diferenciar los términos.
 - **Puntaje consistente:** 15 preguntas de alternativas (15 puntos), 4 desarrollos breves (8 puntos) y 6 desarrollos extensos (18 puntos), total 41 puntos para 25 preguntas.
@@ -210,7 +210,7 @@ Se creó [Lote 1.º medio — revisión conceptual y aritmética de Ciencias Nat
 
 ## 14. Ciencias Naturales de 2.º medio — Forma B
 
-Informe: [Lote 2.º medio — Ciencias Naturales Forma B](lote-02-medio-ciencias-naturales-forma-b.md).
+Informe: lote de 2.º medio — Ciencias Naturales Forma B (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)).
 
 - Puntaje conciliado: 16 alternativas (16 puntos) + 5 desarrollos breves (10) + 4 desarrollos extensos (12) = 38 puntos; 25 preguntas.
 - P3: pregunta 20, la clave (azúcar como soluto) es adecuada, pero la justificación da demasiado peso a “estar en menor cantidad”; conviene definir el soluto como la sustancia disuelta.
@@ -220,7 +220,7 @@ Informe: [Lote 2.º medio — Ciencias Naturales Forma B](lote-02-medio-ciencias
 
 ## 15. Pruebas integradas de 3.º y 4.º básico — comparación Forma A/B
 
-Informe de evidencia: [Lote comparativo de formas A/B de 3.º y 4.º básico](lote-comparativo-formas-a-b-3b-4b.md).
+Informe de evidencia: lote comparativo de formas A/B de 3.º y 4.º básico (retirado; consolidado en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md)).
 
 - Ambas formas de ambos cursos tienen 20 preguntas y 20 filas de pauta.
 - **3.º básico:** el texto «El cometa de Joaquín» aparece en ambas formas (Forma A, preguntas 4–5; Forma B, pregunta 4). Esto contradice la afirmación de que la Forma B usa preguntas distintas en sentido estricto. Hallazgo registrado; no se modificó el material fuente.

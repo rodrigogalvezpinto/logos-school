@@ -50,4 +50,4 @@ Cuando abras este proyecto en otra máquina o con otra IA:
 
 ## Informes de revisión
 
-- [09 — Segunda revisión de auditoría de Matemática (20 oct 2026)](09-segunda-revision-20-oct.md): inventario corregido, hallazgos H-01 a H-06, muestras aritméticas y límites de cobertura.
+- **Segunda revisión de auditoría de Matemática (20 oct 2026)** (informe retirado): inventario corregido, hallazgos H-01 a H-06, muestras aritméticas y límites de cobertura. Su contenido quedó en [02-hallazgos-consolidados.md](02-hallazgos-consolidados.md) y en [AUDITORIA_MAESTRA.md](../AUDITORIA_MAESTRA.md); ver también [ARCHIVOS-ELIMINADOS.md](../ARCHIVOS-ELIMINADOS.md).

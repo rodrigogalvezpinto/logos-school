@@ -1,11 +1,13 @@
 # Handoff y bitácora maestra de auditoría — Logos School
 
-**Última actualización:** 2026-10-22  
-**Rama de trabajo:** `qa/fase-2-matriz-trazabilidad`  
+**Última actualización:** 2026-10-28  
+**Rama de trabajo:** `main` (rama única)  
 **Repositorio:** `rodrigogalvezpinto/logos-school`  
 **Propósito:** permitir que cualquier agente humano o de IA retome la auditoría con el contexto, las evidencias, las decisiones y los pendientes sin depender de la memoria de una conversación.
 
-> **PUNTO DE ENTRADA OBLIGATORIO (actualizado 2026-10-22):** empezar por el [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md). Es la referencia vigente para estado, prioridades y siguientes pasos. Este handoff conserva contexto histórico y decisiones; no usar sus recuentos antiguos como métricas actuales sin regenerarlos desde el HEAD.
+> **Regla de rama única:** todo cambio se hace en `main`. **No crear ramas nuevas.** La rama `qa/fase-2-matriz-trazabilidad` se integró por el PR #8 y solo se conserva como referencia histórica remota.
+
+> **PUNTO DE ENTRADA OBLIGATORIO (actualizado 2026-10-28):** empezar por el [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md). Es la referencia vigente para estado, prioridades y siguientes pasos. Este handoff conserva contexto histórico y decisiones; no usar sus recuentos antiguos como métricas actuales sin regenerarlos desde el HEAD.
 
 
 ## 1. Estado ejecutivo
@@ -26,11 +28,11 @@ No presentar la revisión automatizada como evaluación clínica ni como sustitu
 
 1. [Plan maestro de auditoría integral](auditoria-integral-educativa-plan-maestro.md): marco, dimensiones y criterios.
 2. [Inventario reproducible inicial](inventario-reproducible-contenido-educativo.md): inventario estático del árbol Git; el documento registra 891 archivos, 12 carpetas de curso y 13 documentos de análisis curricular, cifras que no demuestran cobertura.
-3. [Hallazgos preliminares de 1.º básico](hallazgos-preliminares-1-basico.md): primeras observaciones en materiales de Lenguaje, Matemática, Ciencias e Historia.
-4. [Segunda pasada de pruebas de 1.º básico](segunda-pasada-pruebas-1-basico.md): revisión parcial de pruebas y simulacros.
-5. [Revisión ampliada de pruebas de 1.º y lectura inicial de 2.º](revision-ampliada-pruebas-1-y-lectura-2-basico.md): incluye, entre otros, una pregunta de longitud sin medidas/imagen suficiente y una pregunta sobre rutina matinal que presupone una respuesta universal.
-6. [Informe paralelo curricular de Matemática de 2.º básico](informe-paralelo-curricular-2-basico-matematica.md): revisión inicial de brechas y de materiales de 2.º básico.
-7. [Matriz de trazabilidad de Fase 2](../fase-2-matriz-trazabilidad.md): consultar si existe en la rama; verificar su ruta antes de depender de ella.
+3. **Hallazgos preliminares de 1.º básico** (informe retirado): primeras observaciones en Lenguaje, Matemática, Ciencias e Historia; consolidadas en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md).
+4. **Segunda pasada de pruebas de 1.º básico** (informe retirado): revisión parcial de pruebas y simulacros; consolidada en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md).
+5. **Revisión ampliada de pruebas de 1.º y lectura inicial de 2.º** (informe retirado): incluía una pregunta de longitud sin medidas/imagen suficiente y una rutina matinal que presuponía una respuesta universal.
+6. **Informe paralelo curricular de Matemática de 2.º básico** (informe retirado): revisión inicial de brechas y materiales de 2.º básico.
+7. **Matriz de trazabilidad de Fase 2** (retirada): la trazabilidad vigente es la [matriz maestra de estado por archivo](matriz-maestra-estado-por-archivo.csv).
 
 Los informes parciales no deben describirse como auditorías completas ni como certificados.
 
@@ -165,7 +167,7 @@ Continuar con recálculo de exámenes por curso y asignatura, extendiendo contro
 - En ese primer mapeo, 271 rutas quedaron pendientes de auditoría sistemática, 8 con revisión parcial documentada y 11 corregidas pendientes de revalidación. Los estados son provisionales y no certifican los ítems; cada fila debe actualizarse con evidencia.
 - El [Centro de control único](00-CENTRO-DE-CONTROL-AUDITORIA.md) se actualizó para enlazar la matriz y fijar la jerarquía documental. El índice ahora enlaza la matriz y el registro de correcciones.
 - La última ejecución de CI para el commit `f3d8721d275776309b7365c7cdd6f30840485f55` terminó correctamente: [ejecución 39860484879](https://github.com/rodrigogalvezpinto/logos-school/actions/runs/39860484879). Las ejecuciones disparadas por las actualizaciones documentales posteriores estaban aún en curso al último chequeo. CI verde valida solo los pasos configurados, no certifica la calidad educativa.
-- Las correcciones educativas registradas en `registro-implementacion-correcciones-2026-10-22.md` ya están aplicadas en la rama QA, pero siguen pendientes de regresión y revalidación. `main` permanece separado.
+- Las correcciones educativas registradas en la bitácora del 22-10-2026 ya están aplicadas en `main` (integradas desde la antigua rama QA). Los 50 exámenes quedaron revalidados el 28-10-2026; los 6 archivos no-examen siguen pendientes de revalidación.
 - Próxima acción exacta: verificar el CI más reciente; actualizar la matriz por archivo tras los cambios de contenido ya aplicados; reconciliar IDs H-###, IDs LGS y issues; después avanzar por lote sin duplicar informes, con evidencia por ítem y por OA.
 
 
@@ -175,7 +177,7 @@ Este handoff se actualiza para que la continuidad no dependa de la conversación
 
 ### Estado comprobado del repositorio
 
-- Rama de trabajo: `qa/fase-2-matriz-trazabilidad`.
+- Rama de trabajo en ese corte histórico: `qa/fase-2-matriz-trazabilidad`. Hoy todo el trabajo se hace en `main`.
 - HEAD verificado al actualizar: `a8a3e78f26818a39682a67cbc3c06d2262f01ba9`.
 - Árbol remoto inspeccionado: **937 archivos versionados**, de los cuales **52 están bajo `docs/auditorias/`**. Estas cifras describen el árbol, no el avance pedagógico.
 - La matriz CSV contiene 290 rutas educativas del corte de origen anterior (265 `contenido/` y 25 `Temarios/`), pero sus hashes y estados necesitan regeneración contra el HEAD vigente antes de usarla como línea base actual.
@@ -184,11 +186,11 @@ Este handoff se actualiza para que la continuidad no dependa de la conversación
 
 ### Informes recientes que deben integrarse, no duplicarse
 
-- [Lote 1.º básico — Matemática, medición y datos](lote-01-basico-matematica-medicion-datos.md): estímulo insuficiente en pregunta 2; comprobar render.
-- [Lote 4.º básico — examen integrado Forma B](lote-04-basico-examen-integrado-forma-b.md): hallazgo histórico de clave pregunta 16. La bitácora indica que la clave ya fue corregida en QA; actualizar el estado del hallazgo después de verificar la versión vigente y la regresión.
-- [Lote 5.º básico — Historia Forma B](lote-05-basico-historia-examen-forma-b.md): discrepancia histórica de puntaje. La bitácora indica que el encabezado ya fue corregido a 35; comprobar escala de nota y regresión.
+- **Lote 1.º básico — Matemática, medición y datos** (retirado): estímulo insuficiente en la pregunta 2; el detalle quedó en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md).
+- **Lote 4.º básico — examen integrado Forma B** (retirado): hallazgo histórico de clave en la pregunta 16, ya corregido y revalidado.
+- **Lote 5.º básico — Historia Forma B** (retirado): discrepancia histórica de puntaje, ya corregida y revalidada.
 - [Control mecánico de claves 2.º–3.º básico](control-mecanico-claves-simulacros-2b-3b.md): 60 filas con letra explícita comparadas con opciones detectadas; no certifica la semántica de las respuestas.
-- [Lote transversal de Matemática](lote-transversal-matematica-3medio-8basico-cribado.md), [Ciencias Naturales 1.º medio](lote-01-medio-ciencias-naturales-forma-b.md), [Ciencias Naturales 2.º medio](lote-02-medio-ciencias-naturales-forma-b.md) y [comparación A/B de 3.º–4.º básico](lote-comparativo-formas-a-b-3b-4b.md): usar los alcances y límites de cada informe; no contarlos como cursos completos.
+- **Lotes de Matemática, Ciencias Naturales 1.º y 2.º medio y comparación A/B de 3.º–4.º básico** (retirados): su evidencia se consolidó en [AUDITORIA_MAESTRA.md](AUDITORIA_MAESTRA.md); los 50 exámenes están revalidados al 28-10-2026.
 
 ### Fuente de verdad y reglas de trabajo
 

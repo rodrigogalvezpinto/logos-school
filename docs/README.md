@@ -2,6 +2,8 @@
 
 Este directorio consolida auditorías, especificaciones técnicas, calidad y planes de trabajo.
 
+> **Regla de rama única:** todo cambio se hace en `main`. **No crear ramas nuevas.** La rama `qa/fase-2-matriz-trazabilidad` se integró en `main` (PR #8) y solo se conserva como referencia histórica remota.
+
 ## Estructura
 
 ```text

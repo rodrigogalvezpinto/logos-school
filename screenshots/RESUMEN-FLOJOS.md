@@ -9,7 +9,7 @@ Todas las capturas están en la carpeta `frontend/screenshots/` y fueron generad
 ## 1. Landing Page
 **Archivo:** `01-landing.png`
 
-![Landing](01-landing.png)
+![Landing](../frontend/screenshots/01-landing.png)
 
 La página principal de Logos School con el concepto de la plataforma.
 
@@ -18,7 +18,7 @@ La página principal de Logos School con el concepto de la plataforma.
 ## 2. Login
 **Archivo:** `02-login.png`
 
-![Login](02-login.png)
+![Login](../frontend/screenshots/02-login.png)
 
 Formulario de inicio de sesión para alumnos y apoderados.
 
@@ -27,7 +27,7 @@ Formulario de inicio de sesión para alumnos y apoderados.
 ## 3. Registro
 **Archivo:** `03-registro.png`
 
-![Registro](03-registro.png)
+![Registro](../frontend/screenshots/03-registro.png)
 
 Formulario de registro para nuevos apoderados.
 
@@ -36,7 +36,7 @@ Formulario de registro para nuevos apoderados.
 ## 4. Panel del Alumno
 **Archivo:** `05-panel-alumno.png`
 
-![Panel del Alumno](05-panel-alumno.png)
+![Panel del Alumno](../frontend/screenshots/05-panel-alumno.png)
 
 Panel principal del alumno con acceso a todas las funcionalidades:
 - Mis Asignaturas
@@ -50,7 +50,7 @@ Panel principal del alumno con acceso a todas las funcionalidades:
 ## 5. Mis Asignaturas
 **Archivo:** `06-mis-asignaturas.png`
 
-![Mis Asignaturas](06-mis-asignaturas.png)
+![Mis Asignaturas](../frontend/screenshots/06-mis-asignaturas.png)
 
 Vista de todas las asignaturas del nivel del alumno (4° básico en este caso):
 - Lenguaje y Comunicación
@@ -63,7 +63,7 @@ Vista de todas las asignaturas del nivel del alumno (4° básico en este caso):
 ## 6. Pruebas y Exámenes
 **Archivo:** `07-pruebas-examenes.png`
 
-![Pruebas y Exámenes](07-pruebas-examenes.png)
+![Pruebas y Exámenes](../frontend/screenshots/07-pruebas-examenes.png)
 
 Vista de pruebas de unidad y exámenes simulacro disponibles por asignatura.
 
@@ -72,7 +72,7 @@ Vista de pruebas de unidad y exámenes simulacro disponibles por asignatura.
 ## 7. Mis Notas
 **Archivo:** `08-mis-notas.png`
 
-![Mis Notas](08-mis-notas.png)
+![Mis Notas](../frontend/screenshots/08-mis-notas.png)
 
 Historial de notas y progreso del alumno por asignatura.
 
@@ -81,7 +81,7 @@ Historial de notas y progreso del alumno por asignatura.
 ## 8. Mis Logros
 **Archivo:** `09-mis-logros.png`
 
-![Mis Logros](09-mis-logros.png)
+![Mis Logros](../frontend/screenshots/09-mis-logros.png)
 
 Sistema de gamificación con:
 - Nivel y XP
@@ -94,7 +94,7 @@ Sistema de gamificación con:
 ## 9. Plan de Estudio
 **Archivo:** `10-plan-estudio.png`
 
-![Plan de Estudio](10-plan-estudio.png)
+![Plan de Estudio](../frontend/screenshots/10-plan-estudio.png)
 
 Plan de estudio personalizado con sesiones programadas y progreso.
 

@@ -6,7 +6,7 @@ título: Estado de avance del contenido de estudio
 > **Estado real verificado en base de datos (2026-10-26, `logos_qa`):** 12 cursos con
 > guía de estudio y banco de autoevaluación; **408 OA** oficiales; **6.130 preguntas**;
 > **156 pruebas de unidad**; **50 conjuntos de examen simulacro**. La auditoría maestra
-> de octubre 2026 (ver `../AUDITORIA_MAESTRA.md`) corrigió claves, pautas, sesgos y
+> de octubre 2026 (ver `../docs/auditorias/AUDITORIA_MAESTRA.md`) corrigió claves, pautas, sesgos y
 > erratas en los 50 exámenes; los validadores de contenido dan 0 hallazgos.
 >
 > **Exámenes simulacro — estado real:** Régimen A (1°-4° básico) tiene **Forma A y B**

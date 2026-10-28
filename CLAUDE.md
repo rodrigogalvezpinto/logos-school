@@ -8,6 +8,10 @@
 **Nombre oficial del producto: "Logos School"** (no solo "Logos") — usar este nombre en
 copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la marca.
 
+> **Regla de rama única (2026-10-28):** todo cambio se hace directamente en `main`.
+> **No crear ramas nuevas** ni ramas de trabajo paralelas. Cualquier persona o agente que
+> retome el proyecto debe trabajar sobre `main`, hacer commit ahí y empujar a `origin/main`.
+
 ## Qué es este proyecto
 
 Aplicación web para apoyar el estudio y preparación de niños, niñas y adolescentes que
@@ -26,11 +30,12 @@ integradas en 1°-4° básico, 25 por asignatura desde 5° básico — confirmad
 oficiales). **Formas:** 1°-4° básico tienen Forma A y B integradas; desde 5° básico existe
 hoy **solo la Forma B** por asignatura — la Forma A de Régimen B/C está pendiente de construir.
 
-> **Actualización 2026-10-26:** se integró la auditoría maestra (`AUDITORIA_MAESTRA.md`) en
-> la rama QA — claves, pautas, sesgos y erratas de los 50 exámenes corregidos, validadores
-> de contenido en 0 hallazgos — y se recuperó el OA sin número oficial de 4° medio
-> Educación Ciudadana (fix del parser + `backend/scripts/backfill_oas_faltantes.py`),
-> dejando la base en **408/408 OA**.
+> **Actualización 2026-10-28:** la auditoría maestra
+> (`docs/auditorias/AUDITORIA_MAESTRA.md`) quedó integrada en `main` por el PR #8. Los 50
+> exámenes simulacro están revalidados: claves, pautas, rúbricas, sesgos y erratas
+> corregidos, con validadores de contenido en 0 hallazgos. También se recuperó el OA sin
+> número oficial de 4° medio Educación Ciudadana (fix del parser +
+> `backend/scripts/backfill_oas_faltantes.py`), dejando la base en **408/408 OA**.
 
 Sobre ese contenido ya se construyó la aplicación completa para el curso piloto (4° básico):
 backend FastAPI en arquitectura hexagonal + frontend Angular, cubriendo estudiar y rendir
