@@ -504,25 +504,25 @@ Mejoras editoriales opcionales (no bloquean publicación):
 
 ---
 
-## 11. PRUEBAS DE UNIDAD — 1.º A 4.º BÁSICO (2026-10-28)
+## 11. PRUEBAS DE UNIDAD — 1.º A 6.º BÁSICO (2026-10-28)
 
-Se auditaron las **48 pruebas de unidad** de 1.º a 4.º básico (12 por curso:
-Ciencias Naturales ×3, Historia ×3, Lenguaje ×2, Matemática ×4). Cada archivo se
-leyó completo y se contrastó pregunta por pregunta con su pauta.
+Se auditaron las **76 pruebas de unidad** de 1.º a 6.º básico (12 por curso en
+1.º a 4.º y 14 en 5.º y 6.º, que incluyen Inglés). Cada archivo se leyó completo
+y se contrastó pregunta por pregunta con su pauta.
 
 ### 11.1 Comprobaciones
 
 | Comprobación | Resultado |
 |---|---|
-| Archivos auditados | 48 / 48 |
-| Preguntas y respuestas de pauta coincidentes | 48 / 48 |
-| Alternativas coherentes con la clave | 48 / 48 |
-| Frontmatter normalizado | 48 / 48 |
-| Preguntas totales revisadas | 384 |
+| Archivos auditados | 76 / 76 |
+| Preguntas y respuestas de pauta coincidentes | 76 / 76 |
+| Alternativas coherentes con la clave | 76 / 76 |
+| Frontmatter normalizado | 76 / 76 |
+| Preguntas totales revisadas | 715 |
 
-Por curso: 1.º básico 85 preguntas, 2.º básico 88, 3.º básico 104 y 4.º básico
-107. En los 48 archivos el número de preguntas, el de respuestas de la pauta y el
-campo `cantidad_preguntas` coinciden.
+Por curso: 1.º básico 85 preguntas, 2.º básico 88, 3.º básico 104, 4.º básico
+107, 5.º básico 166 y 6.º básico 165. En los 76 archivos el número de preguntas,
+el de respuestas de la pauta y el campo `cantidad_preguntas` coinciden.
 
 ### 11.2 Defectos corregidos
 
@@ -544,26 +544,38 @@ campo `cantidad_preguntas` coinciden.
    «roca en estado semi-líquido». Se corrigió a «roca caliente que fluye muy
    lentamente, en estado pastoso», que es la formulación correcta, y se ajustó la
    pauta.
+7. **5.º básico, Inglés unidad 2, pregunta 3:** la pauta escribía «From,.»; se
+   corrigió a «From.».
+8. **5.º básico, Inglés unidad 2, pregunta 4:** el enunciado preguntaba si era
+   «correcto escribir» una lista con un perro y un gato, pero la clave era
+   «Falso». Se reformuló como «¿Es un ejemplo adecuado para una lista de compras
+   de alimentos…?», con lo que la clave queda coherente.
+9. **6.º básico, Matemática, Números y Operaciones, pregunta 5:** la alternativa
+   «4/10» era equivalente a la clave «2/5». Se reemplazó por «4/5».
+10. **6.º básico, Matemática, Números y Operaciones, pregunta 10:** la
+    alternativa «5 2/6» era equivalente a «5 1/3». Se reemplazó por «5 1/6».
 
 También se corrigieron los rótulos de puntaje que decían «Puntaje total: N
 preguntas»: las dos pruebas de Lenguaje de 1.º básico y las tres de Historia de
-4.º básico ahora indican puntos (1 por pregunta).
+4.º básico ahora indican puntos (1 por pregunta). En 5.º básico se corrigió
+«sicológica» por «psicológica» (Lenguaje unidad 1, pregunta 1).
 
 ### 11.3 Normalización de frontmatter
 
-Las 48 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
+Las 76 pruebas usan ahora las mismas claves: `asignatura`, `curso`, `unidad` o
 `eje`, `tipo`, `tiempo_sugerido`, `cantidad_preguntas`, `basado_en`, `fuente` u
 `oa_evaluados`, y `ultima_actualizacion`. Se eliminaron las variantes con espacio
 (`tiempo sugerido`, `cantidad de preguntas`, `OA evaluados`, `eje temático`,
-`última actualización`) y los alias `cubre` y `n_preguntas`. Se agregaron `tipo`
-y `cantidad_preguntas` donde faltaban.
+`última actualización`) y los alias `cubre`, `n_preguntas` y `oa_cubiertos`. Se
+agregaron `tipo` y `cantidad_preguntas` donde faltaban y se unificó el valor
+`tipo: Prueba de unidad`.
 
-Las **108 pruebas restantes** (5.º básico a 4.º medio) conservan esas variantes;
+Las **80 pruebas restantes** (7.º básico a 4.º medio) conservan esas variantes;
 se normalizarán al auditarlas, para no introducir cambios masivos sin revisión.
 
 ### 11.4 Estado
 
-La matriz CSV marca las 48 filas como `revalidado`, con bytes y blob SHA del
-commit `3f2a9f8` y la evidencia en `observaciones`. El estado global queda en
-**186 pendientes y 104 revalidados**; ya no hay filas en
+La matriz CSV marca las 76 filas como `revalidado`, con bytes y blob SHA del
+commit `60af602` y la evidencia en `observaciones`. El estado global queda en
+**158 pendientes y 132 revalidados**; ya no hay filas en
 `revision_parcial_documentada` ni en `corregido_pendiente_revalidacion`.
