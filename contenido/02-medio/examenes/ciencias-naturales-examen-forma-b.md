@@ -298,13 +298,13 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 12 | Alternativas | b) La velocidad | OA 9 |
 | 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo | OA 9 |
 | 14 | Desarrollo extenso | Aceleración = (velocidad final − velocidad inicial) / tiempo = (15 m/s − 0 m/s) / 5 s = 3 m/s². Esto significa que la velocidad del ciclista aumenta en 3 m/s durante cada segundo transcurrido. | OA 9 |
-| 15 | Alternativas | c) Tercera ley (acción y reacción) | OA 10 |
+| 15 | Alternativas | c) Tercera ley (acción y reacción) — el pie empuja el suelo hacia atrás y el suelo empuja el pie hacia adelante con la misma fuerza y en sentido opuesto | OA 10 |
 | 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí | OA 10 |
 | 17 | Desarrollo extenso | Fuerza neta = 25 N − 5 N = 20 N (en el sentido de la fuerza aplicada). Aceleración = fuerza neta / masa = 20 N / 10 kg = 2 m/s². | OA 10 |
 | 18 | Alternativas | c) Claudio Ptolomeo | OA 13 |
 | 19 | Desarrollo breve | El conocimiento científico no es estático: los modelos se proponen a partir de la evidencia disponible en un momento dado, y cambian o se reemplazan cuando surge nueva evidencia que los contradice, o cuando un nuevo modelo explica las mismas observaciones de forma más simple y precisa, como ocurrió cuando el modelo heliocéntrico, apoyado por las observaciones de Galileo y la física de Newton, reemplazó al modelo geocéntrico. | OA 13 |
 | 20 | Alternativas | b) El azúcar, porque está en menor cantidad y es la que se disuelve | OA 15 |
-| 21 | Alternativas | c) Solución sólida (aleación) | OA 15 |
+| 21 | Alternativas | c) Solución sólida (aleación) — el bronce es una mezcla homogénea de cobre y estaño, con propiedades distintas a las de sus componentes | OA 15 |
 | 22 | Desarrollo breve | Concentración %m/m = (18 g de soluto ÷ 300 g de solución) × 100 = 6% m/m. | OA 15 |
 | 23 | Alternativas | b) Al menos un enlace doble | OA 17 |
 | 24 | Alternativas | b) Alqueno | OA 17 |

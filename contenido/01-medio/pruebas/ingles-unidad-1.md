@@ -28,6 +28,7 @@ texto con calma antes de responder.
    b) Leonardo da Vinci was Italian and painted the Mona Lisa.
    c) Leonardo da Vinci only painted portraits.
    d) Leonardo da Vinci never studied science.
+
 2. *(Completar)* Complete: *"This text is ___ the history of chocolate. It
    explains ___ cacao was used by ancient civilizations."* Usa cada palabra del
    banco una vez, en el orden que corresponda: (how / about).
@@ -66,6 +67,7 @@ texto con calma antes de responder.
    b) To persuade/instruct
    c) To tell a story
    d) To sell a product
+
 9. *(Completar)* Complete with the correct connector: *"The concert started
    late. ___, most people stayed until the end."* (However / So that)
 

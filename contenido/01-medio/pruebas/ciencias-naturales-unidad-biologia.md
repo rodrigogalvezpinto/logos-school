@@ -1,8 +1,9 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-eje: Eje 1 — Biología (OA 2, OA 4, OA 6, OA 8)
+eje: Eje 1 — Biología
 tipo: Prueba de unidad
+oa_evaluados: OA 2, OA 4, OA 6, OA 8
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 basado_en: contenido/01-medio/ciencias-naturales.md

@@ -97,12 +97,12 @@ d) Que los municipios nunca informan con cifras reales
 >
 > En conclusión, la restricción del celular en la sala de clases es un primer paso razonable, pero su efecto real depende de que se acompañe de espacios formativos sobre el uso responsable de la tecnología, de manera que los y las estudiantes desarrollen una regulación propia que se sostenga incluso fuera del horario escolar.
 
-**11. (Alternativas)** ¿Cuál es la hipótesis principal del ensayo "¿Basta con guardar el celular?"?
+**11. (Alternativas)** En el segundo párrafo del ensayo modelo, ¿qué función cumple la oración que comienza con «Sin embargo, este mismo estudio no permite descartar…»?
 
-a) El celular nunca debería usarse dentro ni fuera del colegio
-b) Restringir el celular en la sala de clases es necesario, pero insuficiente sin educación sobre su uso responsable
-c) Los estudios sobre concentración y celulares no son confiables
-d) La restricción del celular no produce ningún efecto positivo
+a) Presentar una evidencia nueva que contradice por completo la hipótesis del ensayo
+b) Matizar el alcance del dato citado, reconociendo que pueden existir otros factores
+c) Repetir la hipótesis con otras palabras para cerrar el párrafo
+d) Introducir una cita de autoridad distinta de la del Ministerio de Educación
 
 **12. (Verdadero o Falso)** En el ensayo modelo, la conclusión introduce una idea completamente nueva que no había sido mencionada antes en el texto.
 
@@ -141,7 +141,7 @@ d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de
 
 **10.** Cada texto entrega información parcial y con un propósito distinto: el Texto A destaca cifras y el logro institucional sin mostrar el uso cotidiano de la pista, mientras que el Texto B destaca la experiencia directa de los usuarios desde una postura crítica que también podría exagerar ciertos defectos; comparar ambas fuentes permite formarse una opinión más completa.
 
-**11.** b. La hipótesis se plantea explícitamente en el primer párrafo y se sostiene, matizada, a lo largo de todo el ensayo hasta la conclusión.
+**11.** b. La oración reconoce que el dato citado no permite atribuir el efecto exclusivamente al celular, porque otros factores pudieron influir; así matiza el alcance de la evidencia y prepara la propuesta de educación complementaria.
 
 **12.** Falso. Una conclusión coherente retoma y reformula la hipótesis inicial a la luz de la evidencia ya presentada, sin agregar ideas nuevas no desarrolladas previamente.
 

@@ -288,7 +288,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 12 | Historia, Geografía y Cs. Sociales | **b) El hemisferio norte y el hemisferio sur.** | OA 7 |
 | 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
 | 14 | Matemática | Falta el **354**. La regla es "sumar 10" en cada paso. | OA 12 |
-| 15 | Ciencias Naturales | **c) Reflexión (eco).** | OA 10 |
+| 15 | Ciencias Naturales | c) Reflexión (eco) — el sonido rebota en una superficie y vuelve al oyente | OA 10 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** | OA 8 |
 | 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** | OA 17 |
 | 18 | Matemática | **b) El objeto de 1 kg.** 1 kg equivale a 1 000 g, que es más que 850 g. | OA 22 |

@@ -1,8 +1,9 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-eje: Eje 2 — Física (OA 10, OA 11, OA 14, OA 16)
+eje: Eje 2 — Física
 tipo: Prueba de unidad
+oa_evaluados: OA 10, OA 11, OA 14, OA 16
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 13
 basado_en: contenido/01-medio/ciencias-naturales.md

@@ -70,10 +70,9 @@ del año, no solo el vocabulario.
 12. *(Responder en inglés)* Answer the question: *"— How long have you and your
     best friend been friends? — ___"* (responde usando since o for)
 
-13. *(Completar — desafiante)* Complete the sentence with used to or the
-    present perfect: *"My grandfather ___ (work) as a fisherman for forty
-    years, but he ___ (retire) three years ago."* (usa presente perfecto y
-    pasado simple)
+13. *(Completar — desafiante)* Complete the sentence with the past simple:
+    *"My grandfather ___ (work) as a fisherman for forty years, but he ___
+    (retire) three years ago."* (usa pasado simple en ambas)
 
 14. *(Completar — desafiante)* Complete with the missing words:
     *"She decided to ___ for a ___ job at the local hospital to gain
@@ -136,10 +135,9 @@ del año, no solo el vocabulario.
     Se espera presente perfecto (*have been*) + *for* + duración, o *since* +
     punto en el tiempo.
 
-13. **has worked / retired.**
-    *For forty years* con una acción que llega hasta hoy o se enfatiza su
-    duración total usa presente perfecto; *three years ago* indica un momento
-    específico y terminado, por lo que se usa pasado simple.
+13. **worked / retired.**
+    *For forty years* describe un período cerrado por *three years ago*, un
+    momento específico y terminado; por eso ambas acciones van en pasado simple.
 
 14. **apply / part-time.**
     *Apply for a job* (postular a un trabajo) y *part-time job* (trabajo de

@@ -1,8 +1,9 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Medio
-eje: Eje 3 — Química (OA 17, OA 20)
+eje: Eje 3 — Química
 tipo: Prueba de unidad
+oa_evaluados: OA 17, OA 20
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 12
 basado_en: contenido/01-medio/ciencias-naturales.md

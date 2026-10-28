@@ -34,7 +34,7 @@ a) Documentar la geografía, flora, fauna y recursos del territorio
 b) Cuantificar y caracterizar a la población del país
 c) Integrar física y administrativamente distintas zonas del territorio
 
-**Pregunta 4 (análisis de mapa).** Imagina un mapa de Chile de 1810 que muestra los límites del territorio efectivamente controlado por el Estado, mucho más reducidos que los límites político-administrativos formales del país. ¿Qué proceso ayuda a explicar la expansión de ese control efectivo a lo largo del siglo XIX?
+**Pregunta 4 (análisis de mapa).** Imagina un mapa de Chile de 1810 que muestra los límites del territorio efectivamente controlado por el poder central, mucho más reducidos que los límites político-administrativos formales del país. ¿Qué proceso ayuda a explicar la expansión de ese control efectivo a lo largo del siglo XIX?
 
 **Pregunta 5 (desarrollo breve).** Explica por qué el rol de las ciencias (misiones científicas, universidades) fue tan relevante para el proceso de organización del territorio chileno en el siglo XIX.
 
@@ -48,11 +48,12 @@ d) Ramón Freire
 
 **Pregunta 8 (verdadero o falso).** Al momento de independizarse, el Estado chileno tenía un conocimiento muy completo y detallado de todo su territorio, incluidos los extremos norte y sur.
 
-**Pregunta 9 (relacionar).** Une cada objetivo del proceso de exploración estatal con un instrumento que ayudó a cumplirlo:
-1) Caracterizar a la población — 2) Delimitar fronteras — 3) Desarrollar los recursos del territorio
-a) Misiones científicas que estudiaron geología y recursos naturales
-b) Censos de población
-c) Expediciones y estudios geográficos en zonas fronterizas
+**Pregunta 9 (análisis de fuente).** Un mapa de 1850 muestra extensas zonas del territorio sin límites definidos y con escasa presencia de autoridades. ¿Qué conclusión se desprende de esa situación para el Estado chileno de la época?
+
+a) El territorio ya estaba completamente organizado y administrado
+b) El Estado debía explorar y conocer esas zonas antes de poder administrarlas
+c) La población de esas zonas no necesitaba servicios del Estado
+d) Los límites del país ya estaban fijados y no requerían revisión
 
 **Pregunta 10 (análisis de fuente).** Un informe de la Universidad de Chile de mediados del siglo XIX describe la formación de nuevos profesionales dedicados a estudiar la geografía y los recursos del país. ¿Qué función cumplía la Universidad de Chile en el proceso de organización del territorio?
 
@@ -60,7 +61,7 @@ c) Expediciones y estudios geográficos en zonas fronterizas
 a) Los censos de población
 b) La construcción de ferrocarriles y telégrafo
 c) La expansión de la burocracia estatal
-d) La firma de un tratado con la Unión Europea
+d) La realización de exposiciones agrícolas nacionales
 
 **Pregunta 12 (desarrollo breve).** Explica con tus propias palabras qué objetivos perseguía el Estado chileno al impulsar procesos de exploración y reconocimiento de su territorio durante el siglo XIX.
 
@@ -78,8 +79,8 @@ d) La firma de un tratado con la Unión Europea
 6. Una buena respuesta reconoce que reunir información no era suficiente por sí solo: se requería un aparato administrativo con funcionarios y oficinas capaces de procesar esa información, aplicar políticas públicas basadas en ella y ejercer presencia estatal efectiva en el territorio.
 7. b) Claudio Gay, naturalista francés contratado por el Estado, que recorrió el territorio chileno documentando su geografía, flora, fauna e historia.
 8. Falso. Gran parte del territorio, especialmente en los extremos norte y sur, era poco conocido o directamente ajeno al control efectivo del Estado al momento de la independencia.
-9. 1-b, 2-c, 3-a.
+9. b) El Estado debía explorar y conocer esas zonas antes de poder administrarlas. La ausencia de límites definidos y de autoridades muestra que el control efectivo era parcial: por eso el Estado impulsó misiones científicas, censos y redes de transporte antes de organizar y administrar esos territorios.
 10. La Universidad de Chile se convirtió en un centro clave para la producción de conocimiento científico sobre el territorio nacional y para la formación de los profesionales necesarios para explorarlo, medirlo y administrarlo.
-11. d) La firma de un tratado con la Unión Europea (la Unión Europea no existía en el siglo XIX; los instrumentos reales fueron censos, redes de transporte y comunicación, misiones científicas y expansión de la burocracia).
+11. d) La realización de exposiciones agrícolas nacionales. Las exposiciones difunden productos, pero no permitieron conocer ni administrar el territorio; los instrumentos reales fueron censos, redes de transporte y comunicación, misiones científicas y expansión de la burocracia.
 12. Una buena respuesta menciona que el Estado buscaba caracterizar a su población, desarrollar sus recursos, organizar su administración y delimitar sus fronteras, usando para ello misiones científicas, censos, universidades y la expansión de redes de transporte y burocracia.
 13. Una buena respuesta reconoce que ambos son instrumentos que el Estado usó para conocer su territorio y población, pero que las misiones científicas se enfocaban en describir la geografía, flora, fauna y recursos naturales, mientras que los censos se enfocaban en cuantificar y caracterizar a los habitantes del país; ambos resultados eran complementarios para la planificación y administración estatal.

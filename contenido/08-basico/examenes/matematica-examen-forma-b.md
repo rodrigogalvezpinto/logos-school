@@ -225,7 +225,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 11 | 6x=61−7=54; x=**9** | OA 8 | Patrones y Álgebra |
 | 12 | 10.000+400x=4.000+700x; 6.000=300x; x=**20 gigas** | OA 8 | Patrones y Álgebra |
 | 13 | a) −4 (f(5)=−3×5+11=−15+11=−4) | OA 10 | Patrones y Álgebra |
-| 14 | a) pendiente 4, corta en (0, −7) | OA 10 | Patrones y Álgebra |
+| 14 | a) pendiente 4, corta en (0, −7) — por cada unidad que avanza, la recta baja 4; su intersección con el eje y es −7 | OA 10 | Patrones y Álgebra |
 | 15 | S(x)=4.500x+120.000; S(7)=31.500+120.000=**$151.500** | OA 10 | Patrones y Álgebra |
 | 16 | a) 17 cm (c²=8²+15²=64+225=289; c=√289=17) | OA 12 | Geometría |
 | 17 | b²=15²−9²=225−81=144; b=√144=**12 metros** | OA 12 | Geometría |
