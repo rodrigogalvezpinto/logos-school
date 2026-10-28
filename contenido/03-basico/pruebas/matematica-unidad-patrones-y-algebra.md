@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 3° Básico
 eje: Patrones y Álgebra (OA 12)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 7
 fuente: contenido/03-basico/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Patrones y Álgebra

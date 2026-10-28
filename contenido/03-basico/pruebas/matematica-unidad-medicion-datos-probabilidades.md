@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Medición y Datos y Probabilidades
 asignatura: Matemática
 curso: 3° Básico
 eje: Medición y Datos y Probabilidades (OA 21, 22, 25)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Medición y Datos y Probabilidades
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
 fuente: contenido/03-basico/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Medición y Datos y Probabilidades

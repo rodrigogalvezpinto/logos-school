@@ -1,16 +1,17 @@
 ---
 asignatura: Ciencias Naturales
 curso: 4° Básico
-tipo: Prueba de unidad
 eje: Ciencias Físicas y Químicas (OA 10)
-tiempo_sugerido: 15-20 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 6
 basado_en: contenido/04-basico/ciencias-naturales.md
+ultima_actualizacion: 2026-10-28
 nota: |
   Este eje del temario de 4° básico incluye un único OA (OA 10, los estados de la
   materia), por lo que el banco de preguntas disponible para reutilizar tiene 6
   preguntas en total. Se incluyeron todas para mantener una prueba breve y a la vez
   cubrir el OA completo; no se inventaron preguntas nuevas.
-última actualización: 2026-08-11
 ---
 
 # Prueba de Unidad — Ciencias Físicas y Químicas

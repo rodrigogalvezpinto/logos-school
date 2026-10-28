@@ -1,11 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 4° Básico
-tipo: Prueba de unidad
 eje: Ciencias de la Tierra y el Universo (OA 15 y 16)
-tiempo_sugerido: 20-25 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 10
 basado_en: contenido/04-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias de la Tierra y el Universo
@@ -40,7 +41,7 @@ representa la corteza, cuál el manto y cuál el núcleo.
 **4.** El manto terrestre se caracteriza por:
 
 a) Ser sólido y frío
-b) Estar formado por roca en un estado semi-líquido y caliente
+b) Estar formado por roca caliente que fluye muy lentamente, en estado pastoso
 c) Ser la capa más externa
 d) Tener la temperatura más baja de las tres capas
 
@@ -93,8 +94,7 @@ producir en el paisaje durante una erupción.
    planeta.
 3. **Cáscara = corteza. Pulpa = manto. Carozo = núcleo.** Este modelo ayuda a
    visualizar la posición y el grosor relativo de cada capa.
-4. **b) Estar formado por roca en un estado semi-líquido y caliente.** El manto,
-   por la alta temperatura y presión, fluye muy lentamente como una masa espesa.
+4. **b) Estar formado por roca caliente que fluye muy lentamente, en estado pastoso.** El manto no es líquido: es roca sólida sometida a alta temperatura y presión que se deforma y fluye muy despacio, como una masa espesa.
 5. **Respuesta esperada:** Aunque es delgada, la corteza es sólida y rígida, y sus
    movimientos e interacciones con el manto (movimiento de placas) generan
    montañas, volcanes y otras formas del relieve.

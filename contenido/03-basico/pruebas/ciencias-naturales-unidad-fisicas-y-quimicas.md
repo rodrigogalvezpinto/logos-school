@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Ciencias Físicas y Químicas
 asignatura: Ciencias Naturales
 curso: 3° Básico
 eje: Ciencias Físicas y Químicas (OA 10)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Ciencias Físicas y Químicas
+tiempo_sugerido: 15 a 20 minutos
+cantidad_preguntas: 6
 fuente: contenido/03-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Ciencias Físicas y Químicas

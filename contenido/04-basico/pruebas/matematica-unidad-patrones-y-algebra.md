@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Patrones y Álgebra
 asignatura: Matemática
 curso: 4° Básico
-eje temático: Patrones y Álgebra (OA 13, 14)
-tiempo sugerido: 20-25 minutos
-última actualización: 2026-08-11
+eje: Patrones y Álgebra (OA 13, 14)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Patrones y Álgebra
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Patrones y Álgebra

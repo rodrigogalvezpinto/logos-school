@@ -2,8 +2,11 @@
 asignatura: Lenguaje y Comunicación
 curso: 3° básico
 unidad: 1
+tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 10
 oa_evaluados: [4, 5]
-tiempo_sugerido: 20-25 minutos
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lenguaje y Comunicación, 3° básico

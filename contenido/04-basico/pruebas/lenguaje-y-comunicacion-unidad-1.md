@@ -2,9 +2,11 @@
 asignatura: Lenguaje y Comunicación
 curso: 4° básico
 unidad: Unidad 1
-cubre: OA N°4 (comprensión de narraciones) y OA N°5 (lenguaje figurado en poemas)
-tiempo_sugerido: 20-25 minutos
-n_preguntas: 9
+tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
+oa_evaluados: OA N°4 (comprensión de narraciones) y OA N°5 (lenguaje figurado en poemas)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad 1 — Lenguaje y Comunicación, 4° básico

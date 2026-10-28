@@ -3,8 +3,10 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
 eje: Formación Ciudadana
 tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 3: Formación Ciudadana
@@ -12,7 +14,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **Asignatura:** Historia, Geografía y Ciencias Sociales — 4° Básico
 **Temas:** Autoridades y poderes del Estado (OA 11) y derechos del niño y la niña (OA 12)
 **Tiempo sugerido:** 20-25 minutos
-**Puntaje total:** 9 preguntas
+**Puntaje total:** 9 puntos (1 punto por pregunta)
 
 > Nombre: _______________________________  Fecha: _____________
 

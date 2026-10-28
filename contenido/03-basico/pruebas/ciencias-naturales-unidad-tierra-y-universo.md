@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Ciencias de la Tierra y el Universo
 asignatura: Ciencias Naturales
 curso: 3° Básico
 eje: Ciencias de la Tierra y el Universo (OA 11, OA 12)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Ciencias de la Tierra y el Universo
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
 fuente: contenido/03-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Ciencias de la Tierra y el Universo

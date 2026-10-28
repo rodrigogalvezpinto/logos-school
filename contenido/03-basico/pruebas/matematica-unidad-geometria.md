@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Geometría
 asignatura: Matemática
 curso: 3° Básico
 eje: Geometría (OA 15)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Geometría
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 6
 fuente: contenido/03-basico/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Geometría

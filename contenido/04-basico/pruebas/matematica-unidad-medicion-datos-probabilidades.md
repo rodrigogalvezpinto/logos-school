@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Medición y Datos y Probabilidades
 asignatura: Matemática
 curso: 4° Básico
-eje temático: Medición y Datos y Probabilidades (OA 22, 23, 27)
-tiempo sugerido: 20-25 minutos
-última actualización: 2026-08-11
+eje: Medición y Datos y Probabilidades (OA 22, 23, 27)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Medición y Datos y Probabilidades
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Medición y Datos y Probabilidades

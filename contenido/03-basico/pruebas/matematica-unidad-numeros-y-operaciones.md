@@ -1,10 +1,13 @@
 ---
-título: Prueba de Unidad — Números y Operaciones
 asignatura: Matemática
 curso: 3° Básico
 eje: Números y Operaciones (OA 2, 3, 5, 6, 8, 9, 10, 11)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 10
 fuente: contenido/03-basico/matematica.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad: Números y Operaciones

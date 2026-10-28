@@ -1,11 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 4° Básico
-tipo: Prueba de unidad
 eje: Ciencias de la Vida (OA 1, 2, 3, 6 y 7)
-tiempo_sugerido: 20-25 minutos
+tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 10
 basado_en: contenido/04-basico/ciencias-naturales.md
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Ciencias de la Vida

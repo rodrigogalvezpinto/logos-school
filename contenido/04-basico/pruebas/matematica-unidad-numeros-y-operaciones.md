@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Números y Operaciones
 asignatura: Matemática
 curso: 4° Básico
-eje temático: Números y Operaciones (OA 1, 3, 5, 6, 7, 8, 9)
-tiempo sugerido: 20-25 minutos
-última actualización: 2026-08-11
+eje: Números y Operaciones (OA 1, 3, 5, 6, 7, 8, 9)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Números y Operaciones
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Números y Operaciones

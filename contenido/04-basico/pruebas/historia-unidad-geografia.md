@@ -3,8 +3,10 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
 eje: Geografía
 tipo: Prueba de unidad
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Eje 2: Geografía
@@ -13,7 +15,7 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439,
 **Temas:** Paisajes de América (OA 8), recursos naturales (OA 9) y adaptación/transformación
 del paisaje (OA 10)
 **Tiempo sugerido:** 20-25 minutos
-**Puntaje total:** 9 preguntas
+**Puntaje total:** 9 puntos (1 punto por pregunta)
 
 > Nombre: _______________________________  Fecha: _____________
 

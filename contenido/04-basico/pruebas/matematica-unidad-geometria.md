@@ -1,10 +1,12 @@
 ---
-título: Prueba de Unidad — Geometría
 asignatura: Matemática
 curso: 4° Básico
-eje temático: Geometría (OA 17, 18)
-tiempo sugerido: 20-25 minutos
-última actualización: 2026-08-11
+eje: Geometría (OA 17, 18)
+tipo: Prueba de unidad
+título: Prueba de Unidad — Geometría
+tiempo_sugerido: 20 a 25 minutos
+cantidad_preguntas: 9
+ultima_actualizacion: 2026-10-28
 ---
 
 # Prueba de Unidad — Geometría
