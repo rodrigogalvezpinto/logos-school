@@ -1,8 +1,10 @@
 ---
 asignatura: Lengua y Literatura
-curso: 4° medio
+curso: 4° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 3, OA 5
+ultima_actualizacion: 2026-10-28
 ---
 
 # Lengua y Literatura — 4° medio

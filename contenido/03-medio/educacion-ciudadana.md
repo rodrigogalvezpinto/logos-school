@@ -1,8 +1,10 @@
 ---
 asignatura: Educación Ciudadana
 curso: 3° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 4, OA 5, OA 6, OA 7
+ultima_actualizacion: 2026-10-28
 ---
 
 # Educación Ciudadana — 3° Medio

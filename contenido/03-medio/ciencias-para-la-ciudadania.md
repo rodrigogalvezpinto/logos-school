@@ -1,8 +1,10 @@
 ---
 asignatura: Ciencias para la Ciudadanía
 curso: 3° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
-última actualización: 2026-08-10
+oa_evaluados: OA 1 (Módulo 1), OA 3 (Módulo 1), OA 1 (Módulo 2), OA 3 (Módulo 2)
+ultima_actualizacion: 2026-10-28
 ---
 
 # Ciencias para la Ciudadanía – 3° Medio

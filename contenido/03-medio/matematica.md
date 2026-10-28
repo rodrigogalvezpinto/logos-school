@@ -2,8 +2,10 @@
 título: Matemática — 3° Medio
 asignatura: Matemática
 curso: 3° Medio
-fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
-última actualización: 2026-08-10
+tipo: Guía de estudio
+basado_en: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/UCE) — temario oficial del Examen Libre de Validación de Estudios
+oa_evaluados: OA 2, OA 3, OA 4
+ultima_actualizacion: 2026-10-28
 ---
 
 # Matemática — 3° Medio

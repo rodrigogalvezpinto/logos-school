@@ -1,8 +1,10 @@
 ---
 asignatura: Filosofía
 curso: 4° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 2, OA 4, OA 5
+ultima_actualizacion: 2026-10-28
 ---
 
 # Filosofía – 4° Medio

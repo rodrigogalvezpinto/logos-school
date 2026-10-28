@@ -1,8 +1,10 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
+tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
-última actualización: 2026-08-10
+oa_evaluados: OA 1, OA 3, OA 4
+ultima_actualizacion: 2026-10-28
 ---
 
 # Inglés – 4° Medio
