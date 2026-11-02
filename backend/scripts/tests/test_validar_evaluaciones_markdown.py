@@ -1,7 +1,16 @@
+from pathlib import Path
+
 from scripts.validar_evaluaciones_markdown import (
     check_conflicting_total_declarations,
     check_key_option_consistency,
 )
+
+
+def test_guia_ingles_5b_no_conserva_puntuacion_residual_en_pauta_postal():
+    guia = Path(__file__).resolve().parents[3] / "contenido/05-basico/ingles.md"
+    texto = guia.read_text(encoding="utf-8")
+    assert "**Respuesta correcta:** b) From,." not in texto
+    assert "**Respuesta correcta:** b) From." in texto
 
 
 def test_detecta_clave_que_no_coincide_con_alternativa():

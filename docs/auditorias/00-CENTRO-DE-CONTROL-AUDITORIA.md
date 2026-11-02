@@ -1,9 +1,13 @@
 # Centro de control único — Auditoría integral de Logos School
 
-**Última actualización:** 28 de octubre de 2026  
+**Última actualización:** 1 de noviembre de 2026
 **Rama de trabajo:** `main`  
 **Alcance:** 1.º básico a 4.º medio; todas las asignaturas y recursos que el producto declara ofrecer o que se encuentren en el repositorio.  
-**Estado global:** **EN CURSO — evaluaciones, guías y temarios cerrados (290/290 revalidados al 100 % en contenido/ y Temarios/)**.
+**Estado vigente:** **EN CURSO — 289 recursos con revisión histórica revalidada y 1 examen reabierto a revisión parcial.** Las cifras de cierre de octubre en las secciones siguientes son históricas, no aprobación integral actual.
+
+> **Continuación vigente:** [Auditoría maestra §14](AUDITORIA_MAESTRA.md#14-piloto-de-especialistas--ingles-5-basico-2026-11-01). Cinco especialistas definidos en `.devin/agents/`, reconocidos por `devin doctor`; coordinación en `/logos-coordinacion`. Piloto de Inglés 5.º básico: 81 ítems revisados contra extracción curricular (PDF primario no releído), errata editorial corregida con regresión, simulacro reabierto por reutilización de preguntas bajo declaración de preguntas distintas. El audio sigue forzando español. Evidencia ejecutada: 46/46 unitarios frontend, 10/10 tests estructurales aislados y 1/1 E2E de identidad en Chromium; no son validación de Inglés en navegador ni de su importación. Suite backend completa pendiente: sus fixtures eliminan tablas de `logos_test`; confirmar que es descartable antes de ejecutar.
+>
+> **Próximo paso:** resolver independencia del simulacro de Inglés 5.º básico, revalidar con especialista y luego comprobar importación/calificación/experiencia real en QA. No publicar ni desplegar. Los otros siete niveles de Inglés quedan pendientes de este protocolo especializado. Las aprobaciones educativa, de datos, funcional/visual y de seguridad se registran por separado; leer `.devin/agent-protocol.md`.
 
 > **Rama de trabajo actual:** `main`, sincronizada con `origin/main`. Si un cambio necesita aislamiento, se puede crear una rama desde `main`.
 

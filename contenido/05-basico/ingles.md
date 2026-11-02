@@ -387,7 +387,7 @@ apoyo de dibujos.
    b) From,
    c) Where,
    d) And
-   **Respuesta correcta:** b) From,.
+   **Respuesta correcta:** b) From.
    **Retroalimentación:** *From* (de parte de) se usa para firmar cartas y postales
    antes del nombre de quien escribe.
 

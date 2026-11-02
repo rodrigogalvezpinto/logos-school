@@ -6,7 +6,7 @@
 3. `auditoria.md` — Auditoría ítem por ítem (exámenes, pruebas, guías) — rama `qa/fase-2-matriz-trazabilidad`, HEAD `0106976`
 4. Auditoría pedagógica experta aplicada en esta sesión (skills `profesor-experto-chile.md` + `auditoria-contenido-educativo.md`)
 
-**Estado global:** 🟢 **CONTENIDO CORREGIDO — 0 HALLAZGOS ABIERTOS** — ver §0.3, §0.4 y §0.5
+**Estado vigente:** auditoría en curso. El cierre editorial de octubre es histórico; el piloto de especialistas reabre observaciones de Inglés y pronunciación en §14. No equivale a aprobación integral de contenido, importación ni aplicación.
 
 ---
 
@@ -780,3 +780,58 @@ Las 25 filas de `Temarios/` fueron actualizadas en `docs/auditorias/matriz-maest
 - Se calcularon sus tamaños en bytes reales y sus hashes SHA de blob desde Git.
 - El campo `estado_auditoria` pasó de `pendiente_auditoria_sistematica` a `revalidado`.
 - La matriz alcanza **290 / 290 archivos revalidados (100 % de cobertura de archivos educativos)**.
+
+## 14. Piloto de especialistas — Ingles 5 basico (2026-11-01)
+
+### 14.1 Alcance, versión y responsabilidades
+
+Base `dd9a556` en `main`, más el diff local de esta sesión (sin commit/push). Los cierres de octubre se conservan como históricos; no sustituyen esta revisión por dimensiones. La fecha de sesión local es 2026-11-01; Vitest imprimió 2026-11-02T03:06:55Z, correspondiente a medianoche local.
+
+Se crearon cinco perfiles nativos en `.devin/agents/`: `logos-curricular` (solo lectura), `logos-qa-experiencia`, `logos-datos-evaluacion`, `logos-desarrollador` y `logos-seguridad-operacion`. El contrato común es `.devin/agent-protocol.md`; `/logos-coordinacion` distribuye encargos y exige aprobación separada por dimensión. No se reemplazó el agente de trámite administrativo existente ni se fijaron modelos no verificados. Los perfiles con `exec` pueden ejecutar comandos: sus restricciones de operación son instrucciones, no un sandbox adicional.
+
+`devin doctor --json` reconoció los cinco perfiles y devolvió `ok: true`. `devin skills list` reconoció la coordinación y su invocación funcionó. La herramienta de esta sesión todavía ofrecía solo perfiles integrados: el revisor curricular se ejecutó mediante `subagent_explore`, leyendo el protocolo y perfil nuevos. Esto comprueba el uso de sus instrucciones, no una invocación nativa del perfil personalizado desde esta conversación. No hubo ediciones paralelas.
+
+### 14.2 Revisión educativa y límites
+
+El revisor leyó los cuatro archivos de Inglés de 5.º básico y resolvió los ítems: guía (32 preguntas), unidad 1 (12), unidad 2 (12), simulacro B (25): **81 ítems**. Contrastó los OA 5, 6, 8, 14 y 15 contra `Temarios/analisis/05-quinto-basico.md`, sección Inglés, líneas 252–303. No pudo releer el PDF primario en esta ejecución: se mantiene ese límite, sin convertir el cotejo con extracción en certificación oficial.
+
+No detectó errores de claves en el alcance leído. Las respuestas abiertas/modelos no deben describirse como respuestas únicas ni como calificación automática validada. El dictamen no aprueba el parser, la base, la API ni la puntuación real. La aprobación educativa queda acotada al contraste realizado, con observaciones siguientes y revisión docente humana antes de publicación a menores.
+
+### 14.3 Hallazgos reconciliados
+
+Se conserva `LGS-5B-ING-001` para el diálogo/disculpa ya registrado; los IDs sugeridos inicialmente por el revisor se reasignaron para no colisionar.
+
+| ID | Evidencia y esperado/observado | Clasificación y estado | Criterio de cierre |
+|---|---|---|---|
+| LGS-5B-ING-002 | Examen B, metadato `relacionado` línea 6 y nota líneas 246–247 anuncian preguntas distintas/propias, pero reutiliza estímulos y consignas: P1 reproduce OA5.1 del banco (Pedro/edad); P6 reproduce OA6.1; P11 reproduce OA8.2. El revisor identificó reutilización extensa, sin establecer aquí un porcentaje exacto. | P2: afirmación editorial contradictoria y riesgo de sobreestimar transferencia a ítems nuevos. Abierto; examen sin modificar, matriz reabierta a revisión parcial. | Crear y resolver independientemente estímulos nuevos para el simulacro y revisar claves/rúbricas; o declarar explícitamente alcance de repaso y conservar pendiente una evaluación con ítems no vistos. No cambiar solo claves ni ocultar la limitación con un cambio de etiqueta. |
+| LGS-5B-ING-003 | Guía, OA14 P3, línea 390: `b) From,.` frente a la pauta de unidad 2 ya corregida a `From.`. | P3 editorial. Se retiró la coma residual de la pauta de la guía; no se cambiaron opciones ni la letra correcta. Regresión específica reproducida roja y luego verde. | Fuente corregida y prueba aprobada; importación/render de la corrección aún no comprobados. |
+| LGS-ING-AUDIO-001 | `frontend/src/app/core/lector-voz.service.ts:10–19` fuerza `utterance.lang = 'es-CL'`; `boton-escuchar.ts:9` solo entrega texto y `estudiar-oa.ts:26` entrega toda la guía bilingüe. | Brecha funcional confirmada por inspección: no hay selección de idioma/velocidad por fragmento para pronunciación inglesa. Impacto acústico pendiente de ejecución real. Abierto, sin cambio de código. | Selección explícita de fragmentos ingleses, idioma inglés, repetir/detener y velocidad; probar voces disponibles/no disponibles y navegador/dispositivo. No leer toda la guía bilingüe como si estuviera en un solo idioma ni prometer funcionamiento offline universal. |
+
+**Observaciones que no se convierten en defectos:** reutilizar el banco en pruebas de unidad es una decisión explícita de `planificacion/08-diseno-pruebas-vs-examenes.md:55–57`; la observación del revisor se descarta como incumplimiento. Las comas en instrucciones `Color ...` reproducen la extracción curricular y quedan como mejora opcional. El frontmatter no normalizado del examen es riesgo de consistencia, no fallo de importación demostrado. Las preferencias de clima/playa merecen revisión de ambigüedad contextual; no se declara que un gusto personal tenga una única respuesta universal.
+
+### 14.4 Ejecuciones reproducibles
+
+| Comando / comprobación | Resultado y alcance |
+|---|---|
+| `devin doctor --json` y `devin skills list` desde raíz | Configuración reconocida; cinco perfiles y coordinación. |
+| `cd frontend && npm test -- --watch=false` | **46/46**, 10 archivos, Vitest; previo a cualquier cambio de código frontend (no se modificó). Advertencia: Node 25 no LTS. |
+| `docker info --format '{{.ServerVersion}}'` | Falló: daemon Docker detenido. No se cambió infraestructura. |
+| `pg_isready -h 127.0.0.1 -p 5432` | PostgreSQL acepta conexiones. Lectura de configuración mediante Python imprimió solo nombre `logos_qa`, nunca la URL/secreto. Esto no prueba el entorno interno de un proceso API ya iniciado. |
+| `curl ... http://127.0.0.1:8000/health` / `/docs` | `/health` dio 404 (no se infiere caída); `/docs` respondió 200. |
+| `cd frontend && npm start -- --host localhost` | Frontend local iniciado para la comprobación E2E. |
+| `cd frontend && npx playwright test e2e/matematica-operaciones-katex.spec.ts --project=chromium --grep 'Identidad del estudiante' --timeout=20000` | **1/1 aprobado** (2,4 s): login demo, selección Sofía y nombre/curso en interfaz. El global setup usa la cuenta sintética existente y puede registrar su check-in emocional; no se sembró ni borró la base. No es prueba del flujo de Inglés ni de una evaluación completa. |
+| `cd backend && .venv/bin/python -m pytest -q scripts/tests/test_validar_evaluaciones_markdown.py -k guia_ingles_5b --confcutdir=scripts/tests` antes de corregir | **1 fallo esperado**, 9 omitidos por selección: reproduce `From,.`. Invocación previa mediante ejecutable pytest directo falló en colección por `ModuleNotFoundError: scripts`; se corrigió el comando, no las aserciones. |
+| `cd backend && .venv/bin/python -m pytest -q scripts/tests/test_validar_evaluaciones_markdown.py --confcutdir=scripts/tests` después | **10/10 aprobados**; comprueba fuente y regresiones estructurales, no exactitud completa ni DB. |
+
+No se ejecutó la suite bajo `backend/tests/`: su `conftest.py:14–20` elimina y recrea tablas de `logos_test` automáticamente. Hace falta confirmar expresamente que esa base es descartable antes de autorizar esa operación destructiva. La suite aislada `scripts/tests` no carga esas fixtures. No se confunde este bloqueo con un fallo del producto.
+
+### 14.5 Dictamen y siguiente lote
+
+- **Educativa:** revisión sustantiva de 81 ítems contra extracción, sin error de clave identificado; simulacro requiere resolver independencia de ítems; PDF primario no releído en este piloto.
+- **Datos/calificación:** no aprobado; importación y resultados persistidos pendientes. La errata de fuente se corrigió sin tocar DB.
+- **Funcional/visual:** un flujo de identidad aprobado solo en Chromium; Inglés, audio, móvil y flujo completo de evaluación pendientes.
+- **Seguridad:** no revisada en este lote; no hay dictamen de cumplimiento.
+
+Siguiente acción: resolver LGS-5B-ING-002 con nuevos estímulos y revisión independiente, después importar solo en QA autorizado y comprobar lectura/evaluación/progreso. Continuar Inglés de 6.º básico a 4.º medio por lotes; los otros 28 archivos no se consideran auditados por este piloto.
+
+Para recursos de pronunciación se propone inglés por fragmento y controles explícitos, conservando español para explicaciones. Para imágenes: ilustraciones individuales PNG 1024×1024, sin texto incrustado ni marcas, composición simple y consistente; optimizar a WebP al integrar, con texto alternativo en HTML. Primeros candidatos didácticos de 5.º básico: posiciones gato/mesa, ropa según clima y alimentos de compra. No usar imágenes que revelen la clave de un ítem evaluativo. La lista de prompts finales debe ligarse a los ítems aprobados; no se generaron ni integraron imágenes en esta sesión.

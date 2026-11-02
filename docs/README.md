@@ -44,6 +44,12 @@ docs/
 - [contenido/](../contenido/): guías pedagógicas de los cursos.
 - [CLAUDE.md](../CLAUDE.md): memoria del proyecto (contexto para agentes IA).
 
+## Especialistas de Logos School
+
+Invocar `/logos-coordinacion` para repartir un lote entre los cinco perfiles de [`.devin/agents/`](../.devin/agents/): curricular/disciplinar, QA de experiencia, datos/evaluación, desarrollo y seguridad/operación. El [protocolo compartido](../.devin/agent-protocol.md) define fuentes, evidencia, permisos y aprobaciones independientes. Se reconocen con `devin doctor --json`; los perfiles personalizados son experimentales y pueden requerir una sesión nueva para aparecer en las herramientas del agente.
+
+El [piloto de Inglés de 5.º básico](auditorias/AUDITORIA_MAESTRA.md#14-piloto-de-especialistas--ingles-5-basico-2026-11-01) registra revisión, hallazgos, corrección y pruebas reales. No confundir perfiles instalados con auditorías ejecutadas ni dictamen de un lote con certificación oficial o de toda la aplicación.
+
 ## Pendientes tecnológicos
 
 - [Voz, videos y juegos](planes/pendientes-voz-videos-juegos.md): opciones por validar.
