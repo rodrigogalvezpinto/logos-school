@@ -18,9 +18,9 @@ basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preg
 
 | OA | Descripción | N° de preguntas | Puntaje |
 |----|-------------|:---:|:---:|
-| OA N°1 | Alcances, límites y fines del quehacer filosófico | 6 | 11 pts |
-| OA N°2 | Ética: justicia, libertad e igualdad en la vida cotidiana | 7 | 15 pts |
-| OA N°4 | Evaluar argumentos filosóficos: validez, falacias y fundamentación | 6 | 11 pts |
+| OA N°1 | Alcances, límites y fines del quehacer filosófico | 6 | 12 pts |
+| OA N°2 | Ética: justicia, libertad e igualdad en la vida cotidiana | 7 | 13 pts |
+| OA N°4 | Evaluar argumentos filosóficos: validez, falacias y fundamentación | 6 | 12 pts |
 | OA N°5 | El impacto de las ideas filosóficas en el mundo actual | 6 | 14 pts |
 
 **Instrucciones para el examinado:**

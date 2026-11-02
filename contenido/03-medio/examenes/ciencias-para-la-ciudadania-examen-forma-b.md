@@ -68,8 +68,8 @@ d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmu
 el consumo de alimentos transgénicos aprobados para consumo humano:
 
 a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia
-b) Está demostrado como causa directa de cáncer en humanos
    disponible
+b) Está demostrado como causa directa de cáncer en humanos
 c) Está prohibido en todo el mundo por su peligrosidad
 d) Elimina por completo el riesgo de enfermedades crónicas
 

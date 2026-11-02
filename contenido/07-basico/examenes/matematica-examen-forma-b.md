@@ -55,7 +55,7 @@ d) $18.000
 **Pregunta 4 (alternativas).** Calcula: 1/2 × 2/7.
 
 a) 3/9
-b) 2/14 (sin simplificar)
+b) 3/14
 c) 1/7
 d) 2/9
 

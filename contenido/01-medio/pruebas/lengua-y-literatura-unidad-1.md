@@ -1,6 +1,7 @@
 ---
 asignatura: Lengua y Literatura
 curso: 1° medio
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 5","7":"OA 5","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 8","12":"OA 8","13":"OA 8","14":"OA 8","15":"OA 8"}
 unidad: 1
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -19,6 +20,8 @@ ultima_actualizacion: 2026-10-28
 Antes de responder, lee con atención los tres textos de práctica. Vas a necesitarlos para contestar las preguntas de las tres secciones.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 1 a 5:
 
 ## Texto 1 (preguntas 1 a 5): "El bote de mi abuelo" (fragmento)
 
@@ -55,6 +58,8 @@ d) El pícaro
 **5. (Desarrollo breve — relación intertextual)** Explica qué función cumple la mención del Caleuche dentro del relato, más allá de ser un dato folclórico.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 6 a 10:
 
 ## Texto 2 (preguntas 6 a 10): "El turno de las tres" (fragmento de obra teatral)
 
@@ -102,6 +107,8 @@ d) La lámpara del Capataz
 **10. (Desarrollo breve)** Identifica un hecho o comentario dentro de la escena que funcione como una señal temprana (un presagio) del posible desenlace trágico, y explica por qué Don Héctor decide ignorarlo.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 11 a 15:
 
 ## Texto 3 (preguntas 11 a 15): "Marejada" (microcuento)
 

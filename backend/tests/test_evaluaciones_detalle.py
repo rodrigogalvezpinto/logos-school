@@ -1,6 +1,10 @@
 """Fase 1, ítem 2.1 del plan de incorporación de hallazgos de Brincus — resumen final con
 detalle por pregunta. Ver planificacion/27-plan-incorporacion-hallazgos-brincus.md."""
 
+from types import SimpleNamespace
+
+import pytest
+
 from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Nivel, Pregunta
 
 _CONTADOR_EMAILS = iter(range(1, 100_000))
@@ -55,6 +59,43 @@ def _preparar(client, session):
     ).json()["id"]
 
     return conjunto, perfil_id, (p1, p2, p3), headers
+
+
+@pytest.mark.parametrize("respuesta", [
+    "Una parte de un todo dividido en partes iguales.",
+    "Representa partes iguales de una unidad completa.",
+    "Una parte de algo.",
+    "Es sumar dos números enteros.",
+    "",
+    "   ",
+    None,
+])
+def test_desarrollo_conserva_pauta_y_rubrica_sin_veredicto_automatico(respuesta):
+    from app.application.evaluaciones.casos_de_uso import ObtenerDetalleIntento
+    from app.domain.evaluaciones.ports import PreguntaLectura
+    from app.routers.evaluaciones import DetallePreguntaRespuesta
+
+    pregunta = PreguntaLectura(
+        id=1, tipo="desarrollo_breve", enunciado="Explica el concepto de fracción.",
+        opciones=None, respuesta_correcta="Una parte de un todo dividido en partes iguales.",
+        retroalimentacion="Rúbrica: mencionar partes iguales y la unidad completa.",
+    )
+    intento = SimpleNamespace(esta_entregado=True, conjunto_evaluacion_id=1,
+                             respuestas={} if respuesta is None else {"1": respuesta})
+    caso = ObtenerDetalleIntento(
+        SimpleNamespace(buscar_por_id=lambda _: intento),
+        SimpleNamespace(buscar_por_id=lambda _: SimpleNamespace(pregunta_ids=[1])),
+        SimpleNamespace(listar_por_ids=lambda _: [pregunta]),
+    )
+    detalle = caso.ejecutar(1)[0]
+    assert detalle.es_correcta is None
+    assert detalle.respuesta_correcta is None
+    assert detalle.respuesta_alumno == respuesta
+    assert detalle.pauta_orientativa == pregunta.respuesta_correcta
+    assert detalle.retroalimentacion == pregunta.retroalimentacion
+    salida = DetallePreguntaRespuesta.model_validate(detalle, from_attributes=True)
+    assert salida.pauta_orientativa == pregunta.respuesta_correcta
+    assert salida.retroalimentacion == pregunta.retroalimentacion
 
 
 def test_detalle_antes_de_entregar_da_400(client, session):

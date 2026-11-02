@@ -107,7 +107,7 @@ import { AlumnoEncontrado, CursoSeccionService, ProgresoDeCurso } from '../../co
         font-size: 0.9rem;
       }
       thead th {
-        color: var(--texto-secundario);
+        color: var(--color-primario-oscuro);
         font-weight: 600;
         font-size: 0.75rem;
         text-transform: uppercase;

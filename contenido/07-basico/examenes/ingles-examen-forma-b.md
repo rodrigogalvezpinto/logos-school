@@ -2,9 +2,9 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 7° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
-basado_en: Banco de autoevaluación /contenido/07-basico/ingles.md (4 OA)
-relacionado: contenido/07-basico/ingles.md (preguntas distintas)
-última actualización: 2026-08-10
+basado_en: Temarios/analisis/07-septimo-basico.md (OA 9, 10, 13 y 16)
+relacionado: contenido/07-basico/ingles.md (estímulos nuevos para los mismos OA)
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 7° Básico — FORMA B
@@ -19,174 +19,178 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 
 ### Instrucciones para el estudiante
 
-1. Lee cada pregunta con atención. Algunas preguntas incluyen un texto corto en
-   inglés (estímulo) que debes leer antes de responder.
-2. Hay dos tipos de preguntas:
-   - **Selección múltiple:** marca con una X la alternativa correcta (a, b, c o d).
-   - **Preguntas abiertas:** responde con una oración completa en inglés (o con la
-     palabra pedida), siguiendo el modelo que se te pide. La retroalimentación de
-     estas preguntas se entrega en español para que revises tu razonamiento.
+1. Lee cada pregunta y su texto antes de responder. No necesitas memorizar las
+   respuestas de la guía: aquí encontrarás situaciones nuevas sobre los mismos temas.
+2. En selección múltiple marca una alternativa (a, b, c o d). En las preguntas
+   abiertas sigue la consigna: puede pedir una palabra, True/False o una oración.
 3. Puedes usar diccionario para buscar palabras que no conozcas. El diccionario te
    ayuda con vocabulario puntual, pero no reemplaza el manejo de la gramática.
-4. Todas las preguntas valen el mismo puntaje. No hay descuento por respuestas
-   incorrectas: si no estás seguro/a, responde de todas formas.
-5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
+4. Cada pregunta vale un punto. No hay descuento por respuestas incorrectas.
+5. En las respuestas personales se aceptan distintas ideas si cumplen el modelo
+   y la función solicitada; no debes coincidir con el ejemplo de la pauta.
+6. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 
 ---
 
 ## OA N°9 — Comprender la idea general y la información explícita de un texto
 
-**1.** *(Selección múltiple)* Read: *"Humboldt penguins live along the coasts
-of Chile and Peru. Every summer, many families travel to see them, but the
-birds are now in danger because factories pollute the water where they
-live."* What is the text mainly about?
+**1.** *(Selección múltiple)* Read: *"Last Saturday, the students of a small
+school in Iquique cleaned their local beach. They collected bottles, plastic
+bags and cans. After that, they separated everything for recycling."* What is
+the text mainly about?
 
-a) Family summer vacations
-b) Chilean beaches
-c) Types of birds in Peru
-d) Humboldt penguins and the danger they face
+a) A sports competition on the beach
+b) A new school in Iquique
+c) How to swim safely
+d) Students cleaning a beach
 
-**2.** *(Selección múltiple)* Read: *"Sofía is from Colombia, but her family
-moved to Chile when she was ten years old. She has lived in La Serena for
-three years and she loves the ocean."* According to the text, how long has
-Sofía lived in La Serena?
+**2.** *(Selección múltiple)* Read: *"Hi! I'm Kenji. I live in Osaka, Japan,
+but my mother is Chilean. I started doing karate when I was six. Now I'm
+thirteen and I train four times a week."* According to the text, how often
+does Kenji train?
 
-a) Three years
-b) Ten years
-c) Thirteen years
-d) Since she was born
+a) Six times a week
+b) Four times a week
+c) Thirteen times a week
+d) Once a week
 
-**3.** *(Pregunta abierta — completar)* Complete: *"Words and ideas that
-repeat many times in a text usually show you its ___ idea."* (main / false /
-explicit)
+**3.** *(Pregunta abierta — completar)* Read: *"Rapa Nui is an island in the
+Pacific Ocean. It belongs to Chile and it is famous for its moai, big statues
+made of stone."* Complete with one word from the text: *"The moai are big
+statues made of ___."*
 
-**4.** *(Pregunta abierta - verdadero o falso)* Read: *"The Amazon
-rainforest produces about 6% to 9% of the world's oxygen. It is home to millions
-of species of plants and animals."* Write True or False: *The text says the
-Amazon produces 50% of the world's oxygen.*
+**4.** *(Pregunta abierta — verdadero o falso)* Read: *"Our school garden has
+tomatoes, lettuce and carrots. The students water the plants every morning
+before class."* Write True or False: *The students water the plants after
+school.*
 
-**5.** *(Pregunta abierta — emparejar)* Relaciona la frase con su función:
-*"I disagree because..."* → ¿"dar información explícita" o "expresar una
-postura personal"?
+**5.** *(Pregunta abierta — emparejar)* Relaciona la oración con su función:
+*"According to the text, the festival starts in March."* → ¿"dar información
+explícita del texto" o "expresar una postura personal"?
 
-**6.** *(Pregunta abierta — completar, desafiante)* Complete with your own
-opinion: *"In my opinion, protecting the environment is ___ because ___."*
+**6.** *(Pregunta abierta — completar, desafiante)* Read: *"Some families in our
+town want to close the main street to cars every Sunday, so people can walk
+and ride bikes there."* Complete with your own position: *"I ___ with this idea
+because ___."* (agree / disagree)
 
 ---
 
 ## OA N°10 — Comprender textos no literarios: secuencia, conectores y causa-efecto
 
-**7.** *(Selección múltiple)* Read: *"First, turn on the computer. Next,
-open the browser. Finally, type the website address."* What type of text is
+**7.** *(Selección múltiple)* Read: *"Lionel Messi was born in Rosario,
+Argentina, in 1987. When he was a child, he played for a small local team.
+Later, he moved to Spain and played for FC Barcelona."* What type of text is
 this?
 
-a) A biography
-b) An opinion column
-c) A set of instructions
-d) A poem
+a) A short biography
+b) A recipe
+c) An advertisement
+d) A set of instructions
 
-**8.** *(Pregunta abierta — completar)* Complete the sequence: *"___, mix
-the flour and sugar. Then, add the eggs. ___, bake for 30 minutes."* (First /
-Finally)
+**8.** *(Pregunta abierta — completar)* Complete with the correct connector:
+*"Put on your swimming cap ___ you get into the pool."* (before / after)
 
-**9.** *(Pregunta abierta — verdadero o falso)* Read: *"Football is the most
-popular sport in the world. I think it is more exciting than basketball."*
-Write True or False: *The whole text is a fact.*
+**9.** *(Pregunta abierta — verdadero o falso)* Read: *"Chess is a board game
+for two players. I think it is the most relaxing hobby."* Write True or False:
+*The second sentence is an opinion.*
 
-**10.** *(Pregunta abierta — emparejar)* Relaciona el prefijo con el
-significado correcto: *"unfair"* → ¿"justo" o "injusto"?
+**10.** *(Pregunta abierta — emparejar)* Relaciona la palabra con su
+significado: *"unhealthy"* → ¿"saludable" o "poco saludable"?
 
-**11.** *(Pregunta abierta — completar)* Complete: *"She walked ___ (slow)
-because she was tired."* (usa el sufijo *-ly*)
+**11.** *(Selección múltiple)* Read: *"First, the players shook hands. After
+that, the referee started the match."* What relationship do the connectors
+*First* and *After that* express?
 
-**12.** *(Selección múltiple)* Read: *"The ice melted because the sun was
-very hot."* What relationship does this sentence express?
+a) Cause and effect
+b) Opinion
+c) Sequence
+d) Comparison
 
-a) Sequence
-b) Cause and effect
-c) Comparison
-d) Opinion
+**12.** *(Pregunta abierta — completar)* Complete: *"Ride your bike ___ (safe)
+on the bike path."* (usa el sufijo *-ly*)
 
 ---
 
 ## OA N°13 — Escribir historias e información con apoyo de imágenes
 
-**13.** *(Selección múltiple)* Which sentence best completes the beginning of
-a personal-experience story? *"___, we went to the beach with my cousins for
-the first time."*
+**13.** *(Selección múltiple)* Which connector best completes this story? *"Last
+winter, I tried snowboarding for the first time. First, I fell down many
+times. ___, I could go down the hill without falling."*
 
-a) Last summer
-b) I believe that
-c) Mustn't
-d) Global problem
+a) Before
+b) Finally
+c) Because
+d) Too
 
-**14.** *(Selección múltiple)* Which sentence expresses an opinion about
-pollution?
+**14.** *(Selección múltiple)* You are writing about the culture of another
+country. Which sentence shares cultural information?
 
-a) Plastic takes hundreds of years to break down.
-b) I believe that pollution is one of the biggest problems of our time.
-c) There are many types of plastic.
-d) Rivers carry water to the sea.
+a) Mexican families decorate altars with flowers for the Day of the Dead.
+b) I am very tired today.
+c) My favorite color is blue.
+d) You mustn't run in the corridor.
 
-**15.** *(Pregunta abierta — completar)* Complete about a personal
-experience: *"Last summer, I ___ (learn) how to surf with my friends at the
-beach."* (usa el pasado simple)
+**15.** *(Pregunta abierta — completar)* Complete about a personal experience:
+*"Yesterday, my team ___ (win) the final match, and we ___ (feel) very
+proud."* (usa el pasado simple)
 
-**16.** *(Pregunta abierta — completar siguiendo modelo)* Complete a caption
-for a picture of a school sports day: *"This picture shows ___. It makes me
-feel ___."*
+**16.** *(Pregunta abierta — completar siguiendo modelo)* Imagine a helpful
+activity in your neighbourhood. Complete the model with an activity and a
+reason: *"My neighbours are ___. I think this helps our community because ___."*
 
-**17.** *(Pregunta abierta — escribir siguiendo modelo)* Complete following
-the model with your own information: *"My favorite food is ___. I usually
-eat it with ___."*
+**17.** *(Pregunta abierta — escribir siguiendo modelo)* Read the model: *"My
+favorite hobby is collecting stamps. I do it every weekend with my
+grandfather."* Write your own version: *"My favorite hobby is ___. I do it ___
+with ___."*
 
-**18.** *(Pregunta abierta — responder en inglés, desafiante)* You are
-writing about a Science topic (recycling) for a school project. Answer in
-English: *Write one sentence explaining why recycling is important for the
-environment.*
+**18.** *(Pregunta abierta — responder en inglés, desafiante)* You are writing a
+poster about earthquakes for a school project. Answer in English: *Write one
+sentence with must or mustn't giving advice about what to do during an
+earthquake.*
 
 ---
 
 ## OA N°16 — Usar estructuras gramaticales variadas al escribir
 
 **19.** *(Pregunta abierta — emparejar)* Relaciona la expresión con su
-significado: *"I'm fed up with homework"* → ¿"me encanta la tarea" o "estoy
-harto/a de la tarea"?
+significado: *"I'm afraid of spiders"* → ¿"tengo miedo de las arañas" o "me
+gustan mucho las arañas"?
 
-**20.** *(Pregunta abierta — completar)* Complete: *"Please talk ___
-(quiet). The baby is sleeping."* (usa el adverbio de modo)
+**20.** *(Pregunta abierta — completar)* Complete: *"The choir sang ___
+(beautiful) at the school concert."* (usa el adverbio de modo)
 
 **21.** *(Selección múltiple)* Which sentence correctly expresses cause and
 effect?
 
-a) The ice cream is very cold.
-b) The ice cream melts if you leave it in the sun.
-c) I like ice cream a lot.
-d) The ice cream is in the freezer.
+a) Plants are green.
+b) My grandmother has many plants.
+c) Plants dry up if you don't water them.
+d) This plant is in the kitchen.
 
-**22.** *(Pregunta abierta — completar)* Complete the sequence: *"___, warm
-up for five minutes. Second, run for twenty minutes. ___, stretch your
-legs."* (First / Finally)
+**22.** *(Pregunta abierta — completar)* Complete with past continuous and past
+simple: *"While we ___ (play) volleyball on the beach, a big wave ___ (take)
+our ball."*
 
-**23.** *(Pregunta abierta — responder en inglés, desafiante)* Answer
-justifying your opinion: *"Why do you study English?"*
+**23.** *(Pregunta abierta — responder en inglés)* Answer with a short answer
+(affirmative or negative): *"— Did you watch the match last night? — ___"*
 
-**24.** *(Selección múltiple)* ¿Qué oración usa correctamente
-*these/those*?
+**24.** *(Selección múltiple)* Complete: *"Look at ___ birds over there, near
+the lake!"*
 
-a) Those book are interesting.
-b) These books is interesting.
-c) Those books are interesting.
-d) This books are interesting.
+a) this
+b) that
+c) these
+d) those
 
-**25.** *(Pregunta abierta — completar)* Complete: *"There ___ too many
-plastic bottles on the beach today."* (is / are)
+**25.** *(Pregunta abierta — completar)* Complete: *"How ___ water do you drink
+every day?"* (much / many)
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe la letra elegida en las preguntas de alternativas. Responde los
+ítems abiertos en tu hoja o cuaderno, identificando el número de pregunta.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -196,58 +200,61 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## PAUTA DE CORRECCIÓN
 
+Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En ítems abiertos,
+asignar el punto si la respuesta cumple el criterio indicado. Mayúsculas y
+punto final no cambian el sentido; aceptar variantes equivalentes explícitas.
+Las respuestas personales no se califican por coincidencia literal con el ejemplo.
+En ítems con dos espacios, el punto exige ambos espacios correctos.
+
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | d) Humboldt penguins and the danger they face | OA9 |
-| 2 | a) Three years | OA9 |
-| 3 | main | OA9 |
-| 4 | False (Falso) - el texto dice explícitamente *6% al 9%*, no 50%. | OA9 |
-| 5 | Expresar una postura personal — *I disagree because...* introduce una opinión justificada, no un dato del texto. | OA9 |
-| 6 | Respuesta personal coherente, p. ej.: *"In my opinion, protecting the environment is important because we need clean water and air to live."* | OA9 |
-| 7 | c) A set of instructions | OA10 |
-| 8 | First / Finally | OA10 |
-| 9 | False (Falso) — la primera oración es un hecho, pero *"I think..."* introduce una opinión. | OA10 |
-| 10 | injusto | OA10 |
-| 11 | slowly | OA10 |
-| 12 | b) Cause and effect | OA10 |
-| 13 | a) Last summer | OA13 |
-| 14 | b) I believe that pollution is one of the biggest problems of our time. | OA13 |
-| 15 | learned | OA13 |
-| 16 | Respuesta personal coherente, p. ej.: *"This picture shows a school sports day. It makes me feel excited."* | OA13 |
-| 17 | Respuesta personal, p. ej.: *"My favorite food is pizza. I usually eat it with my family on Fridays."* | OA13 |
-| 18 | Respuesta personal coherente, p. ej.: *"Recycling is important because it reduces the amount of waste in landfills and protects natural resources."* | OA13 |
-| 19 | Estoy harto/a de la tarea | OA16 |
-| 20 | quietly | OA16 |
-| 21 | b) The ice cream melts if you leave it in the sun. | OA16 |
-| 22 | First / Finally | OA16 |
-| 23 | Respuesta personal con *because*, p. ej.: *"I study English because I want to travel to other countries."* | OA16 |
-| 24 | c) Those books are interesting. | OA16 |
-| 25 | are | OA16 |
+| 1 | d) Students cleaning a beach | OA9 |
+| 2 | b) Four times a week | OA9 |
+| 3 | stone (dato explícito del texto). | OA9 |
+| 4 | False (Falso): el texto dice every morning before class, no after school. | OA9 |
+| 5 | Dar información explícita del texto: According to the text introduce un dato del texto, no una opinión. | OA9 |
+| 6 | Respuesta personal: agree o disagree más una razón coherente. Ejemplo: I agree with this idea because people can walk safely and the air is cleaner. Ambas posturas son válidas. | OA9 |
+| 7 | a) A short biography | OA10 |
+| 8 | before (el gorro se pone antes de entrar a la piscina). | OA10 |
+| 9 | True (Verdadero): I think introduce una opinión; la primera oración es un hecho. | OA10 |
+| 10 | poco saludable (aceptar no saludable): el prefijo un- invierte el significado de healthy. | OA10 |
+| 11 | c) Sequence | OA10 |
+| 12 | safely | OA10 |
+| 13 | b) Finally | OA13 |
+| 14 | a) Mexican families decorate altars with flowers for the Day of the Dead. | OA13 |
+| 15 | won / felt (ambos verbos irregulares en pasado simple). | OA13 |
+| 16 | Respuesta personal: actividad útil con verbo en -ing tras are y una razón coherente tras because. Ejemplo: My neighbours are cleaning the playground. I think this helps our community because children can play safely. Aceptar otras actividades y razones pertinentes; no exigir coincidencia literal. | OA13 |
+| 17 | Respuesta personal con pasatiempo, frecuencia o momento y compañía. Ejemplo: My favorite hobby is playing board games. I do it on Fridays with my cousins. | OA13 |
+| 18 | Oración con must o mustn't y un consejo seguro. Ejemplo: During an earthquake, you must stay away from windows. / You mustn't use the elevator. | OA13 |
+| 19 | Tengo miedo de las arañas (afraid of = tener miedo de). | OA16 |
+| 20 | beautifully | OA16 |
+| 21 | c) Plants dry up if you don't water them. | OA16 |
+| 22 | were playing / took | OA16 |
+| 23 | Yes, I did. / No, I didn't. (aceptar No, I did not). | OA16 |
+| 24 | d) those (plural y lejano: over there). | OA16 |
+| 25 | much (water es incontable). | OA16 |
 
 ### Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|
-| OA N°9 — Idea general e información explícita | 6 | 1–6 |
-| OA N°10 — Secuencia, conectores y causa-efecto | 6 | 7–12 |
-| OA N°13 — Escribir historias e información con apoyo de imágenes | 6 | 13–18 |
-| OA N°16 — Estructuras gramaticales variadas | 7 | 19–25 |
+| OA9 | 6 | 1–6 |
+| OA10 | 6 | 7–12 |
+| OA13 | 6 | 13–18 |
+| OA16 | 7 | 19–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo de pregunta:** 8 de selección múltiple (alternativas)
-y 17 de respuesta abierta breve (completar, verdadero/falso, emparejar,
-responder en inglés y escribir según modelo), en línea con el formato mixto
-del Examen Libre real de Inglés e idéntica proporción que el banco de contenido.
-
-**Nota sobre independencia entre formas:** todas las preguntas de esta
-Forma B usan textos, nombres, datos y contextos propios, aunque evalúan los mismos 4
-OA con proporciones equivalentes.
+**Distribución por tipo:** 8 preguntas de alternativas y 17 abiertas (completar,
+verdadero/falso, emparejar, responder en inglés y escribir según modelo). Es una
+práctica propia alineada con los OA del curso; no es un instrumento oficial
+Mineduc. Se mantienen las funciones lingüísticas estudiadas, con nuevos textos y
+situaciones.
 
 ---
 
 # TABLA DE ESPECIFICACIONES
 
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+Cobertura curricular del instrumento, para uso del docente o del apoderado.
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|

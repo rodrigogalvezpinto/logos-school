@@ -279,12 +279,14 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
-| OA 5 | 6, 7, 8, 9 | 1 | 3 |
-| OA 8 | 10, 11, 12, 13 | 2 | 2 |
-| OA 9 | 14, 15, 16, 17 | 2 | 2 |
-| OA 10 | 18, 19, 20, 21 | 2 | 2 |
-| OA 14 | 22, 23, 24, 25 | 0 | 4 |
-| **Total** | **25 preguntas** | **9** | **16** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas | V/F con justificación | Desarrollo (breve o extenso) |
+|---|---|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 2 | 1 | 2 |
+| OA 5 | 6, 7, 8, 9 | 2 | 0 | 2 |
+| OA 8 | 10, 11, 12, 13 | 2 | 1 | 1 |
+| OA 9 | 14, 15, 16, 17 | 2 | 0 | 2 |
+| OA 10 | 18, 19, 20, 21 | 2 | 0 | 2 |
+| OA 14 | 22, 23, 24, 25 | 1 | 0 | 3 |
+| **Total** | **25 preguntas** | **11** | **2** | **12** |
+
+Cada pregunta se cuenta en un solo tipo: la justificación de V/F forma parte del mismo ítem y no se vuelve a contar como desarrollo.

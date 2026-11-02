@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","5":"OA 6","6":"OA 6"}
 eje: Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos

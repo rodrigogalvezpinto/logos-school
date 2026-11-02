@@ -4,7 +4,7 @@ curso: 1° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
 basado_en: Banco de autoevaluación /contenido/01-medio/ingles.md (4 OA)
 relacionado: contenido/01-medio/ingles.md (banco de contenido) — preguntas distintas
-última actualización: 2026-08-10
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 1° Medio — FORMA B
@@ -44,9 +44,8 @@ scientist whose X-ray images were essential to discovering the structure of
 DNA. She died before receiving the recognition she deserved."* What
 information is explicit in the text?
 
-a) Rosalind Franklin's X-ray images were essential to the discovery of the
+a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA.
 b) Rosalind Franklin discovered DNA completely on her own.
-   structure of DNA.
 c) Rosalind Franklin worked only in mathematics.
 d) Rosalind Franklin received a Nobel Prize during her lifetime.
 
@@ -54,10 +53,10 @@ d) Rosalind Franklin received a Nobel Prize during her lifetime.
 history of tea. It explains ___ this drink became popular around the
 world."* (about / how)
 
-**3.** *(Pregunta abierta — verdadero o falso)* Read: *"Bees visit flowers to
-collect nectar, and in doing so they carry pollen from one plant to another,
-which allows many plants to reproduce."* Statement: *According to the text,
-bees have no role in how plants reproduce.*
+**3.** *(Pregunta abierta — verdadero o falso)* Read: *"Penguins spend most
+of their lives at sea hunting for fish, but they return to the same
+coastline every year to raise their chicks."* Statement: *According to the
+text, penguins raise their chicks in the open ocean.*
 
 **4.** *(Pregunta abierta — responder en inglés)* Read: *"The first FIFA
 World Cup was held in Uruguay in 1930, with teams from thirteen countries
@@ -68,14 +67,14 @@ information from the text: *"Gabriela Mistral was a Chilean poet. She was
 born in 1889 and won the Nobel Prize in Literature in 1945."* Nationality:
 ___ / Year of birth: ___ / Award: ___
 
-**6.** *(Selección múltiple — desafiante)* Read a text about volcanoes that
-includes unfamiliar vocabulary (*magma, seismic activity*). What is the most
-useful strategy to understand the text without translating every word?
+**6.** *(Selección múltiple — desafiante)* Read a text about deep-sea
+creatures that includes unfamiliar vocabulary (*bioluminescence, pressure*).
+What is the most useful strategy to understand the text without translating
+every word?
 
 a) Stop at every unknown word and look it up immediately.
 b) Ignore the whole text if a difficult word appears.
-   dictionary.
-c) Use context and known words to infer the general meaning before using a
+c) Use context and known words to infer the general meaning before using a dictionary.
 d) Memorize the text without understanding it.
 
 ---
@@ -101,11 +100,11 @@ assigned each week."* Statement: *This sentence shows a problem-solution
 relationship.*
 
 **10.** *(Pregunta abierta — completar)* Complete with the correct antonym
-using a prefix: *"He was very ___ (responsible) with the money the club gave
-him, and he could not explain where it went."* (usa ir-)
+using a prefix: *"Her attendance was very ___ (regular): some weeks she came
+every day, and other weeks she missed almost every class."* (usa ir-)
 
 **11.** *(Pregunta abierta — emparejar)* Relaciona la palabra base con su
-sustantivo de ocupación: *"art"* → ¿"artist" o "arter"?
+sustantivo de ocupación: *"guitar"* → ¿"guitarist" o "guitarrer"?
 
 **12.** *(Selección múltiple — desafiante)* Read: *"The museum was both
 educational and entertaining for the students."* ¿Qué indica la estructura
@@ -129,22 +128,21 @@ justificada sobre un problema global?
 
 a) There are trees in the forest.
 b) Forests exist in many countries.
-   harms the whole planet.
-c) In my opinion, governments should protect forests because deforestation
+c) In my opinion, governments should protect forests because deforestation harms the whole planet.
 d) Trees produce oxygen.
 
 **15.** *(Pregunta abierta — completar)* Complete a text about a school
-subject: *"Yesterday, in Art class, we ___ (study) the Renaissance painters.
-I ___ (enjoy) it a lot."* (usa pasado simple)
+subject: *"Last Friday, in English class, we ___ (read) a short story from
+Canada. I ___ (like) its surprising ending."* (usa pasado simple)
 
 **16.** *(Pregunta abierta — verdadero o falso)* La oración *"For example, in
 Mexico people celebrate the Day of the Dead with colorful altars and
 flowers"* es un buen recurso para ilustrar una idea sobre otra cultura.
 
 **17.** *(Pregunta abierta — escribir siguiendo modelo)* Completa siguiendo
-el modelo: *"This picture shows ___. In my opinion, ___ because ___."*
-Escribe tu propia versión sobre una imagen relacionada con un problema
-global o una tradición cultural.
+el modelo: *"I believe ___ is an important global problem. For example,
+___."* Escribe tu propia versión sobre un problema global o una tradición
+cultural.
 
 **18.** *(Selección múltiple — desafiante)* Estás escribiendo sobre un texto
 que leíste acerca de un músico famoso. ¿Qué oración resume mejor la
@@ -160,41 +158,40 @@ d) I don't remember the text.
 
 ## OA N°16 — Usar estructuras gramaticales de presente perfecto, hábitos pasados, cualidades y oraciones subordinadas al escribir
 
-**19.** *(Pregunta abierta — completar)* Complete: *"There are ___
-inhabitants in that region."* (two million / two millions)
+**19.** *(Pregunta abierta — completar)* Complete: *"The stadium can hold
+___ spectators for the final match."* (four thousand / four thousands)
 
 **20.** *(Selección múltiple)* ¿Qué oración usa correctamente el presente
 perfecto para una acción que empezó en el pasado y continúa hoy?
 
-a) She teach at this school since 2015.
-b) She has taught at this school since 2015.
-c) She taught at this school since 2015.
-d) She is teaching at this school since 2015.
+a) My neighbour teach English at this school since 2016.
+b) My neighbour has taught English at this school since 2016.
+c) My neighbour taught English at this school since 2016.
+d) My neighbour is teaching English at this school since 2016.
 
-**21.** *(Pregunta abierta — completar)* Complete with the correct antonym:
-*"The magician made the rabbit ___ (appear) on stage, and the audience
-gasped."* (usa dis-)
+**21.** *(Pregunta abierta — completar)* Complete using the past simple
+passive: *"This mural ___ (paint) by our Art class last Friday."*
 
-**22.** *(Pregunta abierta — verdadero o falso)* La oración *"I used to be
-afraid of the dark, but now it doesn't bother me at all"* describe un hábito
+**22.** *(Pregunta abierta — verdadero o falso)* La oración *"My family used
+to live in a small town, but now we live in the capital"* describe un hábito
 pasado que ya no ocurre.
 
 **23.** *(Pregunta abierta — emparejar)* Relaciona la pregunta con la
-respuesta correcta sobre duración: *"How long have you lived in this
-city?"* → ¿"For five years" o "Five years ago"?
+respuesta correcta sobre duración: *"How long has she been a pilot?"* →
+¿"For ten years" o "Ten years ago"?
 
-**24.** *(Pregunta abierta — completar)* Complete with who or which: *"The
-scientist ___ discovered penicillin changed medicine forever. The bridge,
-___ was built in 1930, is a famous landmark in the city."*
+**24.** *(Pregunta abierta — completar)* Complete with who, which or where:
+*"The inventor ___ designed this solar lamp won a prize. The workshop,
+___ neighbours repair broken furniture together, is open on Tuesdays."*
 
 **25.** *(Selección múltiple — desafiante)* ¿Qué oración describe
 correctamente una ocupación y una cualidad de la persona, usando
 correctamente el presente perfecto?
 
-a) He firefighter fifteen years brave.
-b) He has been a firefighter for fifteen years and he is extremely brave.
-c) Firefighter brave fifteen years.
-d) He fight fires.
+a) She tourist guide ten years cheerful.
+b) She has worked as a tourist guide for ten years and she is really cheerful.
+c) Tourist guide cheerful ten years.
+d) She guide tourists.
 
 ---
 
@@ -214,29 +211,29 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |---|---|---|
 | 1 | a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
 | 2 | about / how | OA9 |
-| 3 | False (Falso) — el texto afirma que las abejas transportan polen entre plantas, lo que permite su reproducción; lo contrario a la afirmación. | OA9 |
-| 4 | *It was held in 1930, in Uruguay.* | OA9 |
+| 3 | False (Falso) — el texto afirma que los pingüinos crían a sus polluelos en la costa, no en mar abierto; lo contrario a la afirmación. | OA9 |
+| 4 | Respuesta que incluya año y lugar del texto, p. ej.: *It was held in 1930, in Uruguay.* | OA9 |
 | 5 | Chilean / 1889 / Nobel Prize in Literature (1945) | OA9 |
 | 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
 | 7 | d) To persuade/instruct readers to change a behavior | OA10 |
 | 8 | However | OA10 |
 | 9 | True (Verdadero) — se plantea un problema (exceso de tareas) y una solución (reducir la carga), conectados por *so*. | OA10 |
-| 10 | irresponsible | OA10 |
-| 11 | artist | OA10 |
+| 10 | irregular | OA10 |
+| 11 | guitarist | OA10 |
 | 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
 | 13 | In | OA13 |
 | 14 | c) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
-| 15 | studied / enjoyed | OA13 |
+| 15 | read / liked | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
-| 17 | Respuesta personal coherente, p. ej.: *"This picture shows a beach full of plastic waste. In my opinion, this is a serious problem because it harms marine animals."* | OA13 |
+| 17 | Respuesta personal coherente que nombre un problema global y dé un ejemplo con *for example*, p. ej.: *"I believe water pollution is an important global problem. For example, many rivers near cities are full of waste."* | OA13 |
 | 18 | b) The text I read was about Beethoven, a composer who kept writing music even after he lost his hearing. | OA13 |
-| 19 | two million | OA16 |
-| 20 | b) She has taught at this school since 2015. | OA16 |
-| 21 | disappear | OA16 |
-| 22 | True (Verdadero) — *used to* + verbo describe una acción habitual en el pasado que ya no se repite en el presente. | OA16 |
-| 23 | For five years | OA16 |
-| 24 | who / which | OA16 |
-| 25 | b) He has been a firefighter for fifteen years and he is extremely brave. | OA16 |
+| 19 | four thousand | OA16 |
+| 20 | b) My neighbour has taught English at this school since 2016. | OA16 |
+| 21 | was painted | OA16 |
+| 22 | True (Verdadero) — *used to* + verbo describe una acción habitual o estado en el pasado que ya no se repite en el presente. | OA16 |
+| 23 | For ten years | OA16 |
+| 24 | who / where | OA16 |
+| 25 | b) She has worked as a tourist guide for ten years and she is really cheerful. | OA16 |
 
 ### Resumen de puntaje por OA
 
@@ -248,8 +245,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | OA N°16 — Estructuras gramaticales: presente perfecto, hábitos pasados, subordinadas | 7 | 19–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo de pregunta:** 9 de selección múltiple (alternativas)
-y 16 de respuesta abierta breve (completar, verdadero/falso, responder en
+**Distribución por tipo de pregunta:** 8 de selección múltiple (alternativas:
+preguntas 1, 6, 7, 12, 14, 18, 20 y 25) y 17 de respuesta abierta breve (completar, verdadero/falso, responder en
 inglés, completar esquema, emparejar y escribir según modelo), en línea con
 el formato mixto del Examen Libre real de Inglés. Esta Forma B utiliza textos,
 ejemplos y contextos distintos a los del banco de contenido, cubriendo los mismos 4 OA

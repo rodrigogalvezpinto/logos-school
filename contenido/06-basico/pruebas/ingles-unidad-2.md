@@ -1,11 +1,12 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
+oa_por_pregunta: {"4":"OA 14","10":"OA 15"}
 unidad: Unidad 2 — Writing (OA 14 y 15)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Prueba de Inglés — Unidad 2: Writing
@@ -42,8 +43,9 @@ b) See you soon
 c) Where is it?
 d) How many?
 
-**4.** *(Verdadero o falso)* En una tira cómica (*comic strip*) con animales que
-hablan, es apropiado usar la frase *"Once upon a time"* para comenzar.
+**4.** *(Verdadero o falso)* Una tira cómica (*comic strip*) cuenta un cuento de
+fantasía sobre animales que hablan. Para comenzar ese cuento, es apropiado usar
+la frase *"Once upon a time"*.
 V ☐  F ☐
 
 **5.** *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"Dear ___, I
@@ -87,8 +89,8 @@ d) There is a fox near the river.
 1. on
 2. visit
 3. b) See you soon
-4. V (Verdadero) — especialmente si la tira cómica narra una historia como un
-   cuento.
+4. V (Verdadero) — *Once upon a time* es la fórmula típica para iniciar un
+   cuento, y esta tira cómica narra un cuento.
 5. Respuesta personal, por ejemplo: *"Dear Diary, I am going to visit the zoo
    next weekend. I feel excited about it."* Se evalúa que cada espacio tenga el
    tipo de información correcta.

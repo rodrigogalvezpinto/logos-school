@@ -5,7 +5,7 @@ tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
 n_preguntas: 25
 tiempo: 90 minutos
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/ciencias-para-la-ciudadania.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/ciencias-para-la-ciudadania.md (banco de contenido)
+forma_relacionada: contenido/04-medio/ciencias-para-la-ciudadania.md (guía de estudio y banco de contenido)
 última actualización: 2026-08-11
 ---
 
@@ -78,8 +78,8 @@ adecuada es:
 
 a) Mezclarlos con los residuos domiciliarios comunes para reducir costos de transporte
 b) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
-   peligrosos
 c) Entregarlos a un gestor autorizado para su disposición final segura como residuos
+   peligrosos
 d) Almacenarlos indefinidamente en el mismo lugar sin ningún tratamiento
 
 **5.** *(Desarrollo breve, 2 puntos)* Un colegio quiere reducir su consumo eléctrico,
@@ -136,8 +136,8 @@ tecnificado por goteo es relevante para la sostenibilidad hídrica de la agricul
 chilena porque:
 
 a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
-b) Aumenta el volumen total de agua utilizada por hectárea
    de forma más eficiente
+b) Aumenta el volumen total de agua utilizada por hectárea
 c) Elimina por completo la necesidad de agua para el cultivo
 d) Solo puede aplicarse en zonas con abundante lluvia
 

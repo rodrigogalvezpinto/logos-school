@@ -4,7 +4,7 @@ curso: 2° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
 oa_evaluados: OA 3, OA 5, OA 8, OA 9, OA 10, OA 14
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-02
 ---
 
 # Lengua y Literatura — 2° medio
@@ -451,7 +451,7 @@ En 2° medio profundizas el análisis de textos de los medios de comunicación i
 
 - **Recursos no lingüísticos en el Texto A**: la infografía en tonos azules y el ícono de reloj transmiten orden, profesionalismo y control técnico de la situación; el diseño corporativo refuerza la sensación de que el corte está bajo control institucional.
 - **Recursos no lingüísticos en el Texto B**: las capturas de pantalla con fecha y hora funcionan como evidencia visual directa, más difícil de refutar que una simple afirmación, y transmiten una sensación de investigación propia por parte de los vecinos.
-- **Recursos lingüísticos en el Texto A**: el uso del **imperativo mitigado** ("recomendamos almacenar agua") suaviza la orden, dándole un tono de sugerencia cortés más que de instrucción autoritaria.
+- **Recursos lingüísticos en el Texto A**: la **directiva atenuada** ("recomendamos almacenar agua") formula la instrucción como una afirmación en indicativo sobre una recomendación, en lugar de un imperativo directo ("almacenen agua"); así se suaviza la orden, dándole un tono de sugerencia cortés más que de instrucción autoritaria.
 - **Recursos lingüísticos en el Texto B**: el uso de **expresiones populares** ("no más", al final de una oración) y un tono coloquial y directo generan cercanía con la comunidad de vecinos, distinta del tono formal e institucional del Texto A.
 
 **Ejemplo 3 — Comparación de fuentes, y reflexión sobre la influencia en las propias opiniones**
@@ -470,9 +470,9 @@ d) La recomendación de almacenar agua con anticipación
 
 *Respuesta correcta: b.* Retroalimentación: el Texto A entrega información puntual sobre este corte, pero omite el patrón de cortes recurrentes y la falta de aviso oportuno, información que sí aparece respaldada con capturas de pantalla en el Texto B.
 
-**2. (Verdadero o Falso)** El uso del imperativo en el Texto A ("Recomendamos almacenar agua con anticipación") tiene el mismo tono autoritario y directo que una orden estricta.
+**2. (Verdadero o Falso)** En el Texto A, la instrucción de almacenar agua se formula como un imperativo directo ("Almacenen agua"), con el mismo tono autoritario de una orden estricta.
 
-*Respuesta correcta: Falso.* Retroalimentación: se trata de un imperativo mitigado por el verbo "recomendamos", que suaviza la instrucción y le da un tono de sugerencia cortés, propio de la comunicación institucional formal.
+*Respuesta correcta: Falso.* Retroalimentación: el comunicado usa una directiva atenuada —el indicativo "recomendamos" seguido del infinitivo "almacenar"—, que suaviza la instrucción dándole un tono de sugerencia cortés, propio de la comunicación institucional formal, y no un imperativo autoritario.
 
 **3. (Desarrollo breve)** Compara los recursos no lingüísticos utilizados en el Texto A y el Texto B. ¿Qué efecto distinto produce cada uno en quien los recibe?
 

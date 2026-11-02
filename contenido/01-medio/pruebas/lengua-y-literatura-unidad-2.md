@@ -1,6 +1,7 @@
 ---
 asignatura: Lengua y Literatura
 curso: 1° medio
+oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 10","7":"OA 10","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 14","12":"OA 14","13":"OA 14","14":"OA 14","15":"OA 14"}
 unidad: 2
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -19,6 +20,8 @@ ultima_actualizacion: 2026-10-28
 Antes de responder, lee con atención los textos de práctica de cada sección.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 1 a 5:
 
 ## Texto 1 (preguntas 1 a 5): columna de opinión "Celulares guardados, ¿mentes más despiertas?"
 
@@ -49,6 +52,8 @@ d) No tiene ninguna función argumentativa relevante
 **5. (Desarrollo breve)** Explica cómo organiza el autor su columna (en qué orden presenta sus ideas) y qué efecto produce esa organización en la fuerza persuasiva del texto.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 6 a 10:
 
 ## Texto 2 (preguntas 6 a 10): "Nueva pista de skate en la comuna"
 
@@ -86,6 +91,8 @@ d) Que los municipios nunca informan con cifras reales
 **10. (Desarrollo breve)** Explica por qué sería un error formarse una opinión completa sobre la calidad real de la nueva pista de skate leyendo solo uno de los dos textos.
 
 ---
+
+Lee el siguiente texto y responde las preguntas 11 a 15:
 
 ## Texto 3 (preguntas 11 a 15): ensayo modelo "¿Basta con guardar el celular?"
 

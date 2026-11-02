@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 4° Básico
+oa_por_pregunta: {"6":"OA 23","7":"OA 27","8":"OA 27","9":"OA 27"}
 eje: Medición y Datos y Probabilidades (OA 22, 23, 27)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

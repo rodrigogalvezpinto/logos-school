@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
+oa_por_pregunta: {"9":"OA 10"}
 eje: Números y Operaciones (OA 1, 3, 4, 6, 7, 10, 11, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
@@ -55,7 +56,7 @@ d) 2/5
 a) 0,3
 b) 0,03
 c) 3,0
-d) 0,30 solamente si se agrega un cero
+d) 0,33
 
 **Pregunta 10.** ¿Cuál número es mayor, 0,8 o 0,75?
 a) 0,8

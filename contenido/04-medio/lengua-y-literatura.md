@@ -39,9 +39,17 @@ Este es el año de mayor autonomía de todo tu paso por la educación media: com
 
 Hasta 3° medio, interpretar una obra significaba construir una hipótesis de sentido sostenida en sus propios recursos literarios. En 4° medio das un paso más: vas a **comparar dos o más obras que tratan un mismo tema o problema**, para entender que ese tema nunca se aborda "en el vacío", sino desde un **contexto de producción** específico —una época, una historia colectiva, un conjunto de valores e ideologías vigentes cuando la obra fue escrita— que influye directamente en **qué perspectiva** adopta cada obra sobre ese tema, y en el **efecto estético** que produce (qué sensación, qué tono, qué experiencia de lectura genera). Vas a profundizar en:
 
-- Establecer relaciones entre el tratamiento del tema de la obra y su contexto de producción.
+- Establecer relaciones entre el tratamiento del tema de la obra y sus contextos de producción y recepción.
 - Identificar perspectivas adoptadas sobre un tema o problema en una obra.
-- Comparar el tratamiento de un mismo tema o problema en diferentes obras, analizando sus contextos de producción, la perspectiva adoptada y el efecto estético que producen.
+- Comparar el tratamiento de un mismo tema o problema en diferentes obras, analizando sus contextos de producción y recepción, la perspectiva adoptada y el efecto estético que producen.
+
+### Producción y recepción: no son lo mismo
+
+El **contexto de producción** corresponde a las condiciones en que se escribe y circula inicialmente una obra; no se deduce solo de la época en que se ambienta. El **contexto de recepción** corresponde a quienes la leen, en qué época y desde qué experiencias, valores y creencias. Estos influyen en la interpretación y el efecto estético, sin que cualquier lectura sea igualmente sustentable.
+
+Los dos fragmentos siguientes son creaciones didácticas contemporáneas de Logos School: 1975 es la ambientación de A, no su fecha real de escritura. Para comparar producción histórica, usaremos esta **situación hipotética**, no una atribución bibliográfica: imaginemos A escrito en 1992 para recuperar memorias del exilio y B escrito en 2026 en un debate sobre migración y trabajo. Las referencias posteriores al contexto de producción deben entenderse dentro de esta simulación.
+
+**Ejemplo de recepción comparada:** lectores de A que vivieron el exilio podrían reconocer en la llave un duelo familiar; estudiantes de 2026 sin esa experiencia podrían necesitar información histórica para comprender la espera. Lectores de B con experiencia migrante podrían reconocer la soledad de Wilmer en la videollamada; una audiencia que cree que la tecnología elimina toda distancia podría revisar esa creencia al leer que aún no tiene amigos. Son hipótesis sobre audiencias, no reacciones universales. En A la memoria familiar y en B la adaptación actual adquieren matices según quién lee: comparar recepción exige relacionar audiencia, evidencia textual e interpretación o efecto, además de distinguirla de producción.
 
 ### Textos de práctica: dos miradas sobre el desarraigo
 
@@ -126,9 +134,9 @@ d) Ambos están narrados por el mismo tipo de narrador
 
 *Respuesta correcta: b.* Retroalimentación: aunque los contextos, las perspectivas y el efecto estético son distintos, ambos textos comparten el tema de fondo: qué significa reconstruir una identidad y sostener vínculos familiares después de dejar el lugar de origen.
 
-**9. (Desarrollo breve — comparación integrada)** Explica por qué comparar el contexto de producción, la perspectiva y el efecto estético de dos obras aporta una interpretación más completa que analizar cada obra por separado.
+**9. (Desarrollo breve — producción y recepción)** Usando la situación hipotética de producción (A en 1992 y B en 2026), compara cómo cada texto trata el desarraigo. Después compara cómo podrían recibir ambos textos una audiencia con experiencia de desplazamiento y estudiantes de 2026 sin ella. Fundamenta con un detalle de cada obra y explica un posible cambio de interpretación o efecto estético; no atribuyas reacciones idénticas a toda una audiencia.
 
-*Respuesta esperada*: analizar ambos textos por separado permite entender cada uno en sus propios términos, pero compararlos revela que un mismo tema —el desarraigo— puede tratarse de maneras muy distintas según el contexto histórico y la perspectiva adoptada, lo que enriquece la comprensión del tema mismo (sus múltiples caras) y no solo de cada obra individual; por ejemplo, solo al comparar se hace evidente que el "desarraigo impuesto" y el "desarraigo elegido" producen efectos estéticos casi opuestos. Retroalimentación: la comparación entre obras no es un ejercicio decorativo: permite ver matices del tema que el análisis de una sola obra, por sí solo, no podría mostrar.
+*Pauta manual*: Completo: distingue producción de recepción, compara memoria del exilio y adaptación migrante, relaciona ambas audiencias con detalles de A y B y propone efectos razonados sin generalizar. Parcial: comparación pertinente pero falta una audiencia, un texto o la justificación del efecto. Insuficiente: solo define términos o enumera épocas. Ejemplo: la llave puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió; la videollamada puede resultar agridulce para alguien migrante y cuestionar la idea de que conectarse equivale a pertenecer en otro lector. Aceptar hipótesis alternativas sustentadas en los textos.
 
 **10. (Análisis integrado)** Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre la migración, solo que en distintas épocas". Evalúa esta lectura y, si te parece incompleta, propón una comparación más precisa, sustentada en los contextos de producción, las perspectivas y el efecto estético de cada obra.
 
@@ -153,6 +161,8 @@ En 4° medio, tu análisis crítico de textos no literarios —orales, escritos 
 
 ### Texto de práctica: "Por qué Chile no puede seguir regalando su cobre" (columna de opinión)
 
+**Texto didáctico ficticio de Logos School.** La cifra y su atribución al Consejo Minero se simulan para analizar el discurso, no certifican información externa. La mención de una institución permite proponer una búsqueda, pero sin informe, fecha, método y enlace no verifica el dato. Cuestionar esa insuficiencia es una respuesta crítica válida.
+
 > Chile ha exportado cobre por más de un siglo, y sin embargo seguimos discutiendo si las empresas mineras pagan lo suficiente por extraer un recurso que no se puede recuperar. Según cifras del Consejo Minero, la tributación efectiva de la gran minería privada bordea el 40%, una cifra que las propias empresas repiten en cada debate legislativo como prueba de que "ya aportan demasiado". Pero esa cifra no cuenta toda la historia: no incluye el costo ambiental del agua que consumen en regiones donde la sequía ya es estructural, ni el hecho de que buena parte de las utilidades se gira a matrices en el extranjero, lejos de las comunidades que conviven con los tranques de relave.
 >
 > No se trata de expulsar a las mineras del país —serían necesarias décadas para reemplazar esos ingresos—, sino de exigir que retribuyan, en la misma proporción que se llevan, a las regiones que sostienen la industria. Cualquiera que se oponga a esto, en el fondo, está eligiendo el bolsillo de un puñado de accionistas por sobre el futuro de Atacama y Antofagasta.
@@ -172,7 +182,7 @@ En 4° medio, tu análisis crítico de textos no literarios —orales, escritos 
 
 **Ejemplo 3 — Veracidad de la información e ideología**
 
-- **Información verificable**: la cifra de que "la tributación efectiva de la gran minería privada bordea el 40%" se atribuye a una fuente identificable (el Consejo Minero), lo que permite, en principio, contrastarla con otras fuentes o estudios sobre el mismo dato.
+- **Información contrastable, no verificada**: la cifra del 40% ofrece una magnitud y nombra una institución, lo que orientaría una búsqueda; en este texto ficticio faltan documento, fecha, método y enlace. No se puede certificar la cifra ni la atribución. En los ítems de alternativas, «más fácilmente verificable» significa que ofrece una pista de búsqueda más concreta, no que ya sea verdadera.
 - **Información difícil de verificar**: la afirmación de que "buena parte de las utilidades se gira a matrices en el extranjero" no cita ninguna fuente ni cifra concreta; es una afirmación plausible dado que muchas empresas mineras en Chile tienen matrices extranjeras, pero tal como está presentada en el texto, no es posible verificar su magnitud exacta ("buena parte" es impreciso).
 - **Ideología presente**: la columna se sostiene sobre una visión que prioriza la **redistribución de la riqueza generada por recursos naturales hacia las comunidades y regiones locales**, por sobre la maximización de utilidades de las empresas privadas que explotan esos recursos; esta no es la única ideología posible frente al tema —otra columna, desde una visión más favorable a la inversión privada, podría argumentar que aumentar la tributación desincentiva la inversión extranjera— y reconocer esta ideología no significa que el argumento sea falso, sino que conviene leerlo sabiendo desde qué posición de valores está construido.
 
@@ -220,9 +230,9 @@ d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas
 
 *Respuesta correcta: Falso.* Retroalimentación: la columna de opinión es, por definición, un género que expresa un punto de vista argumentado; lo importante no es que sea neutral, sino que el lector sea capaz de identificar ese posicionamiento y evaluar la calidad de sus argumentos y evidencia.
 
-**9. (Análisis integrado)** Evalúa la columna en su conjunto: ¿qué elementos te parecen argumentos sólidos, respaldados en evidencia verificable, y cuáles te parecen recursos retóricos que buscan persuadir sin necesariamente aportar evidencia? Justifica con al menos dos ejemplos de cada tipo.
+**9. (Análisis integrado)** Evalúa la veracidad de la cifra tributaria y del consumo de agua mencionados: ¿qué falta para contrastarlos? Distingue dato contrastable de dato verificado e identifica dos recursos persuasivos sin respaldo suficiente. No debes inventar evidencia sólida si el texto no la ofrece.
 
-*Respuesta esperada*: como argumentos con respaldo verificable, se puede mencionar la cifra de tributación atribuida al Consejo Minero y el hecho constatable de que la actividad minera consume agua en regiones con sequía estructural; como recursos retóricos sin evidencia concreta, se puede mencionar la expresión imprecisa "buena parte de las utilidades" y el cierre que reduce la discusión a dos opciones ("elegir el bolsillo de los accionistas" versus apoyar la columna), que funciona como una simplificación persuasiva más que como un argumento verificable. Retroalimentación: evaluar críticamente un texto no literario exige distinguir, afirmación por afirmación, entre lo que se sostiene en evidencia identificable y lo que se sostiene solo en la fuerza retórica de cómo está dicho.
+*Pauta manual*: Completo: reconoce que la cifra y atribución son ficticias y no prueban un hecho externo, solicita informe, fecha y método de tributación y datos regionales de agua; identifica «buena parte» sin magnitud y el falso dilema del cierre. Parcial: crítica fundamentada pero incompleta. Insuficiente: acepta los datos solo por nombrar una institución o no justifica. Retroalimentación: contrastable no significa verificado; es válido concluir que el estímulo no aporta evidencia externa comprobada.
 
 **10. (Desarrollo breve)** Explica la diferencia entre "intención explícita" e "intención implícita", usando un ejemplo de cada una extraído directamente de la columna sobre el royalty minero.
 

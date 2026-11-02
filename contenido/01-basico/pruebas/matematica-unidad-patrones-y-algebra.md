@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 1° Básico
+oa_evaluados: OA 11
 eje: Patrones y Álgebra
 tipo: Prueba de unidad
 título: Prueba de Unidad — Patrones y Álgebra

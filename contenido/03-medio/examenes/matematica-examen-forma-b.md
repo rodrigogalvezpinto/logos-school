@@ -268,9 +268,7 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|
-| OA 2 | 18, 19, 20, 21, 22, 24 | 3 | 3 |
+| OA 2 | 18, 19, 20, 21, 22, 23, 24, 25 | 3 | 5 |
 | OA 3 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
 | OA 4 | 9, 10, 11, 12, 13, 14, 15, 16, 17 | 4 | 5 |
-| 1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈ 35,7%** | 23 | 0 | 1 |
-| lluvia) + P(no lluvia)×P(tarde\ | 25 | 0 | 1 |
 | **Total** | **25 preguntas** | **11** | **14** |

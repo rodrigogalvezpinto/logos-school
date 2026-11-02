@@ -668,7 +668,7 @@ y productos:
 
 - A mediados de siglo, Chile exportó **trigo y harina**, especialmente hacia California y
   Australia, aprovechando la demanda generada por la fiebre del oro en esos territorios.
-- También se exportó **plata**, extraída de yacimientos como Chañarcito y Caracoles, en el
+- También se exportó **plata**, extraída de yacimientos como Chañarcillo y Caracoles, en el
   norte del país.
 - Hacia fines de siglo, el **cobre** y sobre todo el **salitre** —usado como fertilizante y
   materia prima para explosivos— se convirtieron en los principales productos de exportación,
@@ -760,7 +760,7 @@ demanda:
 
 a) Fertilizante y materia prima de explosivos, de gran importancia mundial a fines del siglo XIX
 — b) Demanda generada por la fiebre del oro en California y Australia — c) Extracción en
-yacimientos del norte del país, como Chañarcito y Caracoles
+yacimientos del norte del país, como Chañarcillo y Caracoles
 
 ✅ Respuesta correcta: 1-b, 2-c, 3-a
 💬 *Retroalimentación:* Cada producto exportador estuvo asociado a un contexto internacional
@@ -1450,6 +1450,19 @@ mercado:
   oferta y demanda.
 - Los **aranceles**: impuestos que se cobran a productos importados, lo que encarece esos bienes
   y puede alterar la competencia entre productos nacionales e importados.
+
+También influye la **inestabilidad de los ciclos económicos**: la economía alterna etapas de
+expansión y contracción. Durante una recesión pueden caer la producción, el empleo y los ingresos;
+al disminuir la capacidad de compra de las familias, baja la demanda y algunos negocios venden
+menos, lo que puede profundizar la crisis. Las **externalidades ambientales** son efectos de una
+actividad económica sobre terceros que no se reflejan plenamente en el precio de mercado. Por
+ejemplo, si una fábrica contamina un río sin asumir los costos de limpieza ni los daños a la salud,
+las comunidades soportan parte del costo de producir, aunque no compren sus productos.
+
+**Aplicación breve:** si una comuna pierde empleos durante una recesión, sus comercios pueden
+vender menos por la caída de los ingresos familiares: es un efecto del ciclo económico. Si además
+una empresa contamina el agua que usan sus vecinos sin compensarlos, hay una externalidad
+ambiental negativa: el precio de lo que vende no incorpora todo el costo que impone a la comunidad.
 
 #### Ejemplos resueltos
 

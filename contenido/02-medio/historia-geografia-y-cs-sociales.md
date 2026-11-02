@@ -3,15 +3,15 @@ asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
-oa_evaluados: OA 2, OA 4, OA 6, OA 7, OA 8, OA 10, OA 11, OA 12, OA 15, OA 16, OA 17, OA 19, OA 20, OA 22, OA 25
-ultima_actualizacion: 2026-10-28
+oa_evaluados: OA 2, OA 4, OA 7, OA 8, OA 10, OA 11, OA 12, OA 15, OA 16, OA 17, OA 19, OA 20, OA 22, OA 25
+ultima_actualizacion: 2026-11-02
 ---
 
 # Historia, Geografía y Ciencias Sociales — 2° Medio
 
 > Este material se basa en el temario oficial de la Unidad de Currículum y Evaluación (UCE)
 > del Ministerio de Educación de Chile, **Decreto 614/2013**, para el Examen Libre de
-> Validación de Estudios de 2° Medio. Cubre los **15 Objetivos de Aprendizaje (OA)** de la
+> Validación de Estudios de 2° Medio. Cubre los **14 Objetivos de Aprendizaje (OA)** de la
 > asignatura, organizados en sus tres ejes: **Historia**, **Geografía** y **Formación
 > Ciudadana**. Historia, Geografía y Ciencias Sociales es la asignatura con más OA de este
 > curso — por eso este documento es más extenso que el resto.
@@ -59,9 +59,10 @@ ciudad transformaron el espacio urbano chileno de mediados de siglo XX: el creci
 ciudades, la segregación urbana y el surgimiento de nuevos barrios populares.
 
 En el eje de **Formación Ciudadana**, vas a estudiar en profundidad el concepto de **Derechos
-Humanos** y la institucionalidad creada para resguardarlos, el rol de los medios de comunicación
-y las nuevas tecnologías en la vida democrática, y el valor de la diversidad y la no
-discriminación como fundamento de una sociedad libre.
+Humanos** y la institucionalidad creada para resguardarlos a nivel nacional e internacional
+—incluido el **Estado de Derecho** como fundamento de nuestra vida en sociedad—, el
+reconocimiento de los derechos de los **grupos de especial protección**, y el valor de la
+diversidad y la no discriminación como fundamento de una sociedad libre.
 
 Vas a comprobar que buena parte del Chile de hoy —su sistema político, su modelo económico, sus
 debates sobre memoria y Derechos Humanos, sus ciudades— se explica directamente por los procesos
@@ -1819,8 +1820,9 @@ principales ciudades chilenas hoy en día.
 ## Eje 3: Formación Ciudadana
 
 En este eje profundizamos en el concepto de **Derechos Humanos** y en la institucionalidad
-creada para resguardarlos, en el valor de la diversidad y la no discriminación, y en el rol de
-los medios de comunicación y las nuevas tecnologías en la vida democrática.
+creada para resguardarlos a nivel nacional e internacional —con el **Estado de Derecho** como
+fundamento de nuestra vida en sociedad—, en los derechos de los **grupos de especial
+protección**, y en el valor de la diversidad y la no discriminación.
 
 ### OA 22: El concepto de Derechos Humanos y su institucionalidad
 
@@ -2118,151 +2120,6 @@ discriminación y el avance de estándares comunes de Derechos Humanos (oportuni
 tiempo puede intensificar tensiones culturales y generar nuevas formas de discriminación —por
 ejemplo, hacia comunidades migrantes— cuando el contacto entre culturas no viene acompañado de
 educación, inclusión efectiva y voluntad política de respetar la diversidad (desafío).
-
----
-
-### OA 6: Medios de comunicación, nuevas tecnologías y democracia
-
-**Enunciado oficial:** Evaluar oportunidades y riesgos de los medios de comunicación masiva y
-del uso de las nuevas tecnologías de la información en el marco de una sociedad democrática,
-reflexionando personal y grupalmente sobre sus implicancias en la participación ciudadana y en
-el resguardo de la vida privada.
-
-#### Explicación
-
-Los **medios de comunicación masiva** (prensa, radio, televisión) y, más recientemente, las
-**nuevas tecnologías de la información y comunicación** (internet, redes sociales) cumplen un rol
-central en el funcionamiento de una **sociedad democrática**, pero ese rol trae consigo tanto
-**oportunidades** como **riesgos** que es necesario evaluar de forma crítica.
-
-Entre las **oportunidades** destacan:
-
-- El acceso ampliado a información sobre asuntos públicos, que permite a la ciudadanía tomar
-  decisiones más informadas.
-- Nuevos canales de **participación ciudadana**, que facilitan la organización social, la
-  denuncia pública de irregularidades y el debate de ideas a una escala antes impensada.
-- Mayor transparencia y control ciudadano sobre las autoridades, gracias a la rapidez con que la
-  información puede difundirse.
-
-Entre los **riesgos** se cuentan:
-
-- La difusión de información falsa o poco verificada (**desinformación**), que puede distorsionar
-  el debate público.
-- Los riesgos para el **resguardo de la vida privada**, ya que las nuevas tecnologías permiten
-  recopilar, almacenar y a veces exponer datos personales de manera antes imposible.
-- La posibilidad de manipulación de la opinión pública mediante el uso concentrado o interesado
-  de estos medios y tecnologías.
-
-Evaluar estas oportunidades y riesgos —de forma **personal y grupal**, como pide explícitamente
-el OA— implica desarrollar un juicio crítico sobre las fuentes de información que se consumen y
-comparten, y reflexionar sobre el propio rol como ciudadano en el uso responsable de estos medios
-y tecnologías.
-
-#### Ejemplos resueltos
-
-**Ejemplo 1 — Oportunidades y riesgos en paralelo**
-
-| Oportunidad | Riesgo asociado |
-|---|---|
-| Acceso ampliado a información pública | Difusión de desinformación o noticias falsas |
-| Nuevos canales de participación ciudadana | Manipulación de la opinión pública |
-| Mayor transparencia sobre las autoridades | Riesgos para la privacidad de las personas |
-
-*Paso a paso:* presentamos cada oportunidad junto a un riesgo relacionado, para desarrollar una
-evaluación equilibrada en lugar de una postura unilateralmente optimista o pesimista sobre las
-nuevas tecnologías.
-
-**Ejemplo 2 — Un caso de interés público**
-
-Una denuncia ciudadana difundida en redes sociales sobre una irregularidad municipal obliga a las
-autoridades a responder públicamente en pocos días, algo que antes podía tardar meses por vías
-tradicionales. *Paso a paso:* usamos un caso concreto para ilustrar la oportunidad de mayor
-control ciudadano que ofrecen las nuevas tecnologías, sin perder de vista que la misma rapidez de
-difusión también puede propagar información no verificada.
-
-**Ejemplo 3 — Vida privada y nuevas tecnologías**
-
-Una aplicación de uso masivo recopila la ubicación de sus usuarios sin que estos comprendan
-claramente para qué se usarán esos datos. *Paso a paso:* identificamos este caso como un riesgo
-concreto para el resguardo de la vida privada asociado al uso de nuevas tecnologías de la
-información.
-
-#### Autoevaluación — OA 6
-
-**1. (Alternativas)** ¿Cuál de las siguientes se reconoce como una oportunidad —y no un riesgo—
-de las nuevas tecnologías de la información en una sociedad democrática?
-
-a) La difusión de información falsa sin verificación
-b) La exposición no autorizada de datos personales
-c) Nuevos canales de participación ciudadana y control sobre las autoridades
-d) La manipulación de la opinión pública
-
-✅ Respuesta correcta: **c) Nuevos canales de participación ciudadana y control sobre las
-autoridades**
-💬 *Retroalimentación:* Las nuevas tecnologías facilitan la organización social y la
-transparencia, aunque —como todo medio— también conllevan riesgos que deben evaluarse de forma
-crítica.
-
----
-
-**2. (Verdadero o Falso)** El resguardo de la vida privada no se ve afectado por el uso de nuevas
-tecnologías de la información, ya que estas solo tienen efectos positivos sobre la participación
-ciudadana.
-
-✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Las nuevas tecnologías permiten recopilar y almacenar datos personales de
-manera antes imposible, lo que representa un riesgo concreto para la vida privada de las
-personas, junto con sus evidentes oportunidades para la participación ciudadana.
-
----
-
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
-
-1) Desinformación — 2) Participación ciudadana — 3) Resguardo de la vida privada
-
-a) Protección de los datos e información personal frente a su uso indebido — b) Difusión de
-información falsa o poco verificada — c) Organización y participación de la ciudadanía en
-asuntos públicos, facilitada por nuevos canales tecnológicos
-
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Estos tres conceptos permiten evaluar de forma equilibrada el impacto de
-los medios y las nuevas tecnologías en la vida democrática.
-
----
-
-**4. (Análisis de caso)** Antes de una elección, circula por redes sociales una noticia sin
-fuente verificable que asegura, de forma falsa, que un candidato se retiró de la contienda. ¿Qué
-riesgo de las nuevas tecnologías ilustra mejor este caso?
-
-✅ Respuesta correcta: El riesgo de desinformación, es decir, la difusión de información falsa o
-poco verificada que puede distorsionar el debate público y la decisión informada de la
-ciudadanía.
-💬 *Retroalimentación:* Evaluar la fuente y la verificabilidad de una noticia antes de
-compartirla es una forma concreta de ejercer el rol ciudadano responsable que pide este OA.
-
----
-
-**5. (Desarrollo breve)** Explica, con un ejemplo, cómo los medios de comunicación masiva y las
-nuevas tecnologías pueden fortalecer la participación ciudadana en una sociedad democrática.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que estos medios amplían el acceso
-a información sobre asuntos públicos y ofrecen canales rápidos para organizarse, denunciar
-irregularidades o debatir ideas, e incluye un ejemplo concreto, como una denuncia ciudadana
-difundida en redes sociales que obliga a una autoridad a responder públicamente en un plazo
-mucho más corto que por vías tradicionales.
-
----
-
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que este OA pide una reflexión "personal y
-grupal" sobre los medios y las nuevas tecnologías, y no solo una descripción de sus
-características?
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que evaluar oportunidades y riesgos
-no es solo un ejercicio teórico, sino una habilidad que cada ciudadano debe ejercer activamente
-—al decidir qué información consumir, verificar y compartir, y al cuidar sus propios datos
-personales—, y que además conviene discutir en grupo, ya que la forma en que la información
-circula y afecta a la vida democrática depende del comportamiento colectivo de quienes usan estos
-medios, no solo de decisiones individuales aisladas.
 
 ---
 

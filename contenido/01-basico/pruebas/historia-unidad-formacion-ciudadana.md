@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
+oa_por_pregunta: {"2":"OA 14","5":"OA 15"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos

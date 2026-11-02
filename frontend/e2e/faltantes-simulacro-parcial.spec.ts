@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { API_URL } from './helpers';
 
 test.describe('Faltantes y simulacro parcial (Fase 1.3)', () => {
   test.use({ storageState: 'e2e/.storage-sofia.json' });
@@ -11,19 +12,19 @@ test.describe('Faltantes y simulacro parcial (Fase 1.3)', () => {
     const headers = { Authorization: `Bearer ${token}` };
 
     const asignaturas = await (
-      await request.get(`http://localhost:8000/contenido/niveles/${perfil.nivel_id}/asignaturas`, { headers })
+      await request.get(`${API_URL}/contenido/niveles/${perfil.nivel_id}/asignaturas`, { headers })
     ).json();
     const asignatura = asignaturas[0];
 
     const objetivos = await (
-      await request.get(`http://localhost:8000/contenido/asignaturas/${asignatura.id}/objetivos`, { headers })
+      await request.get(`${API_URL}/contenido/asignaturas/${asignatura.id}/objetivos`, { headers })
     ).json();
 
     // Revisa la mitad (redondeando hacia arriba) de las guías de esa asignatura — cumple
     // el umbral de 50% de cobertura que habilita el simulacro parcial.
     const mitad = Math.ceil(objetivos.length / 2);
     for (const oa of objetivos.slice(0, mitad)) {
-      await request.post(`http://localhost:8000/progreso/${perfil.id}/guias/${oa.id}/revisada`, { headers });
+      await request.post(`${API_URL}/progreso/${perfil.id}/guias/${oa.id}/revisada`, { headers });
     }
 
     await page.goto('/alumno/notas');

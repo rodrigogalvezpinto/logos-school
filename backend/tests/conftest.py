@@ -1,5 +1,8 @@
+import os
+
 import pytest
 from fastapi.testclient import TestClient
+from sqlalchemy.engine import make_url
 from sqlmodel import Session, SQLModel, create_engine
 
 from app.core.config import settings
@@ -7,7 +10,15 @@ from app.infrastructure.persistence.db import get_session
 from app.core.limiter import limiter
 from app.main import app
 
-TEST_DATABASE_URL = "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_test"
+TEST_DATABASE_URL = os.environ.get(
+    "LOGOS_TEST_DATABASE_URL",
+    "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_test",
+)
+_test_url = make_url(TEST_DATABASE_URL)
+if _test_url.host not in {"localhost", "127.0.0.1", "::1"} or _test_url.database not in {
+    "logos_test", "logos_auditoria_test"
+}:
+    raise RuntimeError("Las fixtures destructivas requieren una base local de pruebas autorizada.")
 engine_test = create_engine(TEST_DATABASE_URL)
 
 

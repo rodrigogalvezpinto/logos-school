@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 8° Básico
+oa_por_pregunta: {"7":"OA 8"}
 eje: Patrones y Álgebra (OA 8, OA 10)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra

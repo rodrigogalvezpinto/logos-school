@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° básico
+oa_por_pregunta: {"4":"OA 15","7":"OA 16","8":"OA 17","11":"OA 18"}
 unidad: Eje 3 — Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

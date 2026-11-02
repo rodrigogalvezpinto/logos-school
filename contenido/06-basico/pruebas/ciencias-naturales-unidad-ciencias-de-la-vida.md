@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 6° básico
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 2","5":"OA 2","7":"OA 2","9":"OA 5","11":"OA 6"}
 unidad: Eje 1 — Ciencias de la Vida
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -72,8 +73,9 @@ c) El cambio de voz hacia un tono más grave
 d) El ensanchamiento de las caderas
 
 **9. (Clasificar — OA5)** Clasifica estos cambios de la pubertad según si son
-comunes a ambos sexos, exclusivos de las mujeres o exclusivos de los hombres:
-menarquia, acné, crecimiento de vello facial, estirón de crecimiento.
+comunes a ambos sexos o más característicos de la pubertad femenina o masculina:
+menarquia, acné, aumento del vello facial, estirón de crecimiento.
+Considera que los cambios y su intensidad varían entre personas.
 
 **10. (Desarrollo breve — OA5)** ¿Por qué es importante comprender que la pubertad
 es una etapa normal del desarrollo humano y que cada persona la vive a su propio
@@ -112,8 +114,11 @@ pubertad hacen necesario un aseo higiénico diferente al de años anteriores.
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
 8. **c.** El cambio de voz hacia un tono más grave ocurre por el crecimiento de la
    laringe, un cambio biológico característico de la pubertad masculina.
-9. Comunes: acné, estirón de crecimiento. Exclusivo de mujeres: menarquia.
-   Exclusivo de hombres: crecimiento de vello facial.
+9. Comunes: acné y estirón de crecimiento. Característico de la pubertad
+   femenina: menarquia. Más característico de la pubertad masculina: aumento
+   marcado del vello facial; no es exclusivo de los hombres. La intensidad y
+   el momento de aparición varían entre personas; se aceptan respuestas que
+   reconozcan esa variación sin convertir estas tendencias en reglas absolutas.
 10. Porque ayuda a evitar la vergüenza, la burla o la comparación negativa entre
     compañeros y compañeras que experimentan los cambios en momentos distintos;
     comprenderlo con naturalidad favorece el bienestar emocional durante esta etapa.

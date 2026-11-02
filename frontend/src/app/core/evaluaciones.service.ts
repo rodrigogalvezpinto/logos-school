@@ -52,6 +52,8 @@ export interface DetallePregunta {
   respuesta_alumno: string | null;
   respuesta_correcta: string | null;
   es_correcta: boolean | null;
+  pauta_orientativa?: string | null;
+  retroalimentacion?: string;
 }
 
 @Injectable({ providedIn: 'root' })

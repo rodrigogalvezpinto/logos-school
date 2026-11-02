@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 3° Básico
+oa_por_pregunta: {"8":"OA 6"}
 eje: Ciencias de la Vida (OA 2, OA 4, OA 5, OA 6)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Ciencias de la Vida

@@ -2,9 +2,9 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 5° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
-basado_en: Banco de autoevaluación /contenido/05-basico/ingles.md (5 OA)
-relacionado: contenido/05-basico/ingles.md (preguntas distintas)
-última actualización: 2026-08-10
+basado_en: Temarios/analisis/05-quinto-basico.md (OA 5, 6, 8, 14 y 15)
+relacionado: contenido/05-basico/ingles.md (estímulos nuevos para los mismos OA)
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 5° Básico — FORMA B
@@ -19,177 +19,183 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 
 ### Instrucciones para el estudiante
 
-1. Lee cada pregunta con atención. Algunas preguntas incluyen un texto corto en
-   inglés (estímulo) que debes leer antes de responder.
-2. Hay dos tipos de preguntas:
-   - **Selección múltiple:** marca con una X la alternativa correcta (a, b, c o d).
-   - **Preguntas abiertas:** responde con una oración completa en inglés, siguiendo
-     el modelo que se te pide.
+1. Lee cada pregunta y su texto antes de responder. No necesitas memorizar las
+   respuestas de la guía: aquí encontrarás situaciones nuevas sobre los mismos temas.
+2. En selección múltiple marca una alternativa (a, b, c o d). En las preguntas
+   abiertas sigue la consigna: puede pedir una palabra, True/False o una oración.
 3. Puedes usar diccionario para buscar palabras que no conozcas.
-4. Todas las preguntas valen el mismo puntaje. No hay descuento por respuestas
-   incorrectas: si no estás seguro/a, responde de todas formas.
-5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
+4. Cada pregunta vale un punto. No hay descuento por respuestas incorrectas.
+5. En las respuestas personales se aceptan distintas ideas si cumplen el modelo
+   y la función solicitada; no debes coincidir con el ejemplo de la pauta.
+6. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 
 ---
 
 ## OA N°5 — Comprensión de textos cortos cotidianos
 
-**1.** *(Selección múltiple)* Read: *"Hi! I am Pedro. I am eleven years old."*
-What is his name?
+**1.** *(Selección múltiple)* Read: *"Good morning! My name is Elena. I am
+nine years old. My brother is twelve."* How old is Elena?
 
-a) Pedro
-b) Ana
-c) Diego
-d) Sofía
+a) Twelve
+b) Nine
+c) Ten
+d) Eleven
 
-**2.** *(Selección múltiple)* Read the instruction: *"Color the sun, yellow.
-Draw two birds in the sky."* Which action does NOT match the instruction?
+**2.** *(Selección múltiple)* Read: *"Draw a red book on the desk. Draw a
+blue pencil under the chair."* Which action does NOT follow the instructions?
 
-a) Painting the sun yellow
-b) Drawing two birds
-c) Drawing the birds in the sky
-d) Painting the sun brown
+a) Drawing the book on the desk
+b) Drawing a red book
+c) Drawing the pencil under the chair
+d) Drawing the blue pencil on the desk
 
-**3.** *(Pregunta abierta — completar)* Complete the sentence with the correct
-word: *"I have a dog ___ a cat."*
+**3.** *(Pregunta abierta — completar)* Read: *"My pencil case is small.
+It is green."* Join both descriptions with **and**: *"My pencil case is small
+___ green."*
 
-**4.** *(Pregunta abierta — responder en inglés)* Read: *"I am Camila. I am
-ten years old. I live in Santiago."* Answer in English: *Where does Camila
-live?*
+**4.** *(Pregunta abierta — responder en inglés)* Read: *"On Monday, Lucas
+has English in the classroom. On Tuesday, he has P.E. in the playground."*
+Where does Lucas have P.E.?
 
-**5.** *(Pregunta abierta — verdadero o falso)* Read: *"My mother is a
-doctor. My father is a teacher."* Write True or False: *The statement "His
-father is a doctor" is correct.*
+**5.** *(Pregunta abierta — verdadero o falso)* Read: *"My grandmother
+wears a blue coat. My grandfather wears a black sweater."* Write True or
+False: *The grandmother's coat is blue.*
 
 ---
 
 ## OA N°6 — Notas, postales, invitaciones y otros textos cotidianos
 
-**6.** *(Selección múltiple)* Read: *"You are invited to my birthday party!"*
-What is the purpose of this text?
+**6.** *(Selección múltiple)* Read: *"Art Day! Come to our classroom on
+Friday. Look at our pictures. You are welcome!"* What is the purpose of this text?
 
-a) To give a recipe
-b) To describe the weather
-c) To apologize
-d) To invite someone to a celebration
+a) To invite people to a school activity
+b) To explain how to cook rice
+c) To describe a bedroom
+d) To apologize for a mistake
 
-**7.** *(Selección múltiple)* Imagine a card with a cake, balloons and
-candles. What type of text is more likely?
+**7.** *(Selección múltiple)* Read: *"Breakfast: bread and eggs. Drinks:
+milk and tea."* What type of text is this?
 
-a) A menu
-b) A recipe
-c) A birthday card
+a) A birthday card
+b) A postcard
+c) A menu
 d) A weather report
 
-**8.** *(Pregunta abierta — completar)* Complete the dialogue: *"— ___, I broke
-your pencil. — That's OK, don't worry."* (usa una expresión para disculparte)
+**8.** *(Pregunta abierta — completar)* Read the dialogue: *"— Here is your
+book. — ___!"* Complete with an expression to thank someone.
 
-**9.** *(Pregunta abierta — responder en inglés)* Read: *"Dear Sofía, the
-party is on Saturday at 3 pm. From, Martina."* Answer in English: *What day
-is the party?*
+**9.** *(Pregunta abierta — responder en inglés)* Read: *"Dear Ben, come
+to my house on Sunday at four o'clock in the afternoon. We can play in the garden. From, Emma."*
+What time should Ben come?
 
-**10.** *(Pregunta abierta — verdadero o falso)* Read a recipe: *"Cut the
-fruit. Mix it in a bowl."* Write True or False: *This text gives
-instructions to prepare food.*
+**10.** *(Pregunta abierta — verdadero o falso)* Read: *"Wash the apples.
+Cut the apples and pears. Put the fruit in a dish."* Write True or False:
+*This text gives instructions to make a fruit dish.*
 
 ---
 
 ## OA N°8 — Reaccionar y opinar sobre lo leído
 
-**11.** *(Selección múltiple)* Which sentence expresses a preference (una
-preferencia)?
+**11.** *(Selección múltiple)* Read: *"At school we read books, draw
+pictures and play in the playground."* Which response expresses a personal
+preference about one of these activities?
 
-a) The cat is black.
-b) I prefer summer.
-c) The house is big.
-d) It is Monday.
+a) The school has a door.
+b) There are three books.
+c) The playground is big.
+d) I like drawing pictures.
 
-**12.** *(Selección múltiple)* Read: *"Tomás is short and likes soccer.
-Sofía is tall and likes basketball."* Which sentence compares the two
-characters correctly?
+**12.** *(Selección múltiple)* Read: *"Rosa likes Music. She likes to sing
+with her friends."* Tú también disfrutas cantar. Which response connects
+Rosa's experience with yours?
 
-a) Tomás and Sofía are the same.
-b) Tomás is different from Sofía.
-c) Tomás and Sofía don't like sports.
-d) Sofía is short.
+a) Her pencil is red.
+b) I like singing, too.
+c) It is cold today.
+d) There is a chair.
 
-**13.** *(Pregunta abierta — completar)* Complete: *"I ___ pizza, but I
-don't like fish."* (like / likes)
+**13.** *(Pregunta abierta — completar)* Read: *"At lunch, Nico eats rice
+and chicken."* Expresa que a ti te gusta el arroz completando con **like** o
+**likes**: *"I ___ rice."*
 
-**14.** *(Pregunta abierta — responder en inglés)* Read: *"Camila likes
-chocolate ice cream."* Answer in English: *What is your favorite ice cream
-flavor?*
+**14.** *(Pregunta abierta — responder en inglés)* Read: *"In the library,
+Sara likes to read with a friend."* Do you like reading? Answer with a sentence
+starting with *I like* or *I don't like*. Puedes tener una preferencia distinta
+de la de Sara.
 
-**15.** *(Pregunta abierta — verdadero o falso)* Read: *"Diego likes rainy
-days. He likes to read books inside."* Write True or False: *The statement
-"Diego prefers sunny days" is correct.*
+**15.** *(Pregunta abierta — verdadero o falso)* Read: *"Leo likes winter.
+He likes wearing his coat. I like summer and wearing sandals."* Write True
+or False: *Leo and the narrator prefer the same season.*
 
 ---
 
 ## OA N°14 — Completar y escribir textos siguiendo un modelo
 
-**16.** *(Selección múltiple)* Which of these is NOT a typical shopping
-list?
+**16.** *(Selección múltiple)* Model: *"Dear Dad, I am in the garden.
+From, Eva."* Complete the beginning of another postcard following the model:
+*"___ Grandma, I am at school. From, Eva."*
 
-a) I need milk, bread and eggs.
-b) I need a dog and a cat.
-c) I need apples and cheese.
-d) I need rice and chicken.
+a) Under
+b) Twelve
+c) Dear
+d) Rainy
 
-**17.** *(Selección múltiple)* Complete the shopping list: *"Shopping list:
-I need apples, oranges and ___."* Choose a food word.
+**17.** *(Selección múltiple)* Complete the classroom instruction with the
+opposite of **open**: *"The window is open. Keep the door ___."*
 
-a) banana
-b) Tuesday
-c) happy
-d) window
+a) shut
+b) happy
+c) young
+d) tall
 
-**18.** *(Pregunta abierta — completar)* Complete the postcard model: *"Dear
-Mom, I am on vacation. The weather is ___ (sunny/rainy/cold). I like the
-beach."* Choose the word that best matches "me gusta ir a la playa" (hint:
-warm, sunny weather).
+**18.** *(Pregunta abierta — completar)* Complete this postcard with
+**sunny**, **rainy** or **cold**: *"Dear Dad, it is warm here. The sun is in
+the sky and there are no clouds. Today is ___. From, Eva."*
 
-**19.** *(Pregunta abierta — completar)* Complete the rhyme using an
-opposite: *"The dog is fast, the turtle is ___."* (usa un opuesto de la
-lista de vocabulario)
+**19.** *(Pregunta abierta — completar)* Complete this school shopping list
+with an object for measuring, choosing **ruler**, **milk** or **socks**:
+*"I need a pencil, an eraser and a ___."*
 
-**20.** *(Pregunta abierta — escribir siguiendo modelo)* Complete following
-the model with your own information: *"Dear ___, I like ___. From, ___."*
+**20.** *(Pregunta abierta — escribir siguiendo modelo)* Model: *"Shopping
+list: I need milk and eggs."* Write your own shopping list with **two other
+foods**. Follow *Shopping list: I need ___ and ___.* Use food words from the
+course; do not repeat milk or eggs.
 
 ---
 
 ## OA N°15 — Escribir oraciones para describir, preguntar y contar
 
-**21.** *(Selección múltiple)* Which word indicates that an object is
-**under** another one?
+**21.** *(Selección múltiple)* El gato está dentro de una caja. Complete
+the sentence: *"The cat is ___ the box."*
 
 a) on
 b) in
 c) under
 d) and
 
-**22.** *(Selección múltiple)* Which sentence correctly describes a
-possession (una posesión)?
+**22.** *(Selección múltiple)* Hablas de tu propio lápiz. Which sentence
+expresses that the pencil is yours?
 
-a) The sky is blue.
-b) This is my house.
-c) It is raining.
-d) Where is the cat?
+a) This is my pencil.
+b) The pencil is green.
+c) Where is the pencil?
+d) There are two pencils.
 
-**23.** *(Pregunta abierta — completar con número)* Complete: *"There are
-___ pencils in my pencil case."* (usa el número 7 en inglés)
+**23.** *(Pregunta abierta — completar con número)* Escribe **11** en inglés
+para completar: *"There are ___ chairs in our classroom."*
 
-**24.** *(Pregunta abierta — completar diálogo)* Complete the dialogue: *"—
-Is this your dog? — Yes, ___."*
+**24.** *(Pregunta abierta — completar diálogo)* Complete the negative
+answer: *"— Is this your ruler? — No, ___."*
 
-**25.** *(Pregunta abierta — completar)* Complete: *"___ is a ball on the
-chair."* (There / They / It)
+**25.** *(Pregunta abierta — completar)* Complete with **There** or **They**:
+*"___ are three apples in the dish."*
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe la letra elegida en las preguntas de alternativas. Responde los
+ítems abiertos en tu hoja o cuaderno, identificando el número de pregunta.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -199,58 +205,59 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## PAUTA DE CORRECCIÓN
 
+Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En ítems abiertos,
+asignar el punto si la respuesta cumple el criterio indicado. Mayúsculas y
+punto final no cambian el sentido; aceptar variantes equivalentes explícitas.
+Las respuestas personales no se califican por coincidencia literal con el ejemplo.
+
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | a) Pedro | OA5 |
-| 2 | d) Painting the sun brown | OA5 |
+| 1 | b) Nine | OA5 |
+| 2 | d) Drawing the blue pencil on the desk | OA5 |
 | 3 | and | OA5 |
-| 4 | She lives in Santiago. | OA5 |
-| 5 | False (Falso) — el texto dice que la mamá es *doctor* y el papá es *teacher*, no al revés. | OA5 |
-| 6 | d) To invite someone to a celebration | OA6 |
-| 7 | c) A birthday card | OA6 |
-| 8 | I'm sorry | OA6 |
-| 9 | The party is on Saturday. | OA6 |
-| 10 | True (Verdadero) — las palabras *cut* y *mix* son típicas de una receta de cocina. | OA6 |
-| 11 | b) I prefer summer. | OA8 |
-| 12 | b) Tomás is different from Sofía. | OA8 |
+| 4 | He has P.E. in the playground. Aceptar In the playground. | OA5 |
+| 5 | True (Verdadero): el abrigo de la abuela es azul. | OA5 |
+| 6 | a) To invite people to a school activity | OA6 |
+| 7 | c) A menu | OA6 |
+| 8 | Thank you / Thanks. Se acepta cualquiera de las dos expresiones. | OA6 |
+| 9 | At four o'clock / At 4 pm / He should come at four o'clock. El texto dice four o'clock sin especificar am/pm; aceptar también At 4. | OA6 |
+| 10 | True (Verdadero): las acciones wash/cut/put explican cómo preparar el plato de fruta. | OA6 |
+| 11 | d) I like drawing pictures. | OA8 |
+| 12 | b) I like singing, too. | OA8 |
 | 13 | like | OA8 |
-| 14 | Respuesta personal con estructura correcta, p. ej.: *My favorite ice cream flavor is vanilla.* | OA8 |
-| 15 | False (Falso) — el texto dice explícitamente que a Diego le gustan los días *rainy*, no los *sunny*. | OA8 |
-| 16 | b) I need a dog and a cat. | OA14 |
-| 17 | a) banana | OA14 |
-| 18 | sunny | OA14 |
-| 19 | slow | OA14 |
-| 20 | Respuesta personal, p. ej.: *Dear Mom, I like the beach. From, Ana.* | OA14 |
-| 21 | c) under | OA15 |
-| 22 | b) This is my house. | OA15 |
-| 23 | seven | OA15 |
-| 24 | it is | OA15 |
+| 14 | I like reading / I don't like reading. Aceptar ampliaciones gramaticalmente coherentes; ambos gustos son válidos. | OA8 |
+| 15 | False (Falso): Leo prefiere invierno y el narrador verano. | OA8 |
+| 16 | c) Dear | OA14 |
+| 17 | a) shut | OA14 |
+| 18 | sunny: el texto menciona sol y ausencia de nubes, no una preferencia personal. | OA14 |
+| 19 | ruler | OA14 |
+| 20 | Respuesta personal que siga Shopping list: I need X and Y con dos alimentos distintos de milk y eggs. Ejemplo: Shopping list: I need bread and cheese. Aceptar otras parejas de alimentos del curso. | OA14 |
+| 21 | b) in | OA15 |
+| 22 | a) This is my pencil. | OA15 |
+| 23 | eleven | OA15 |
+| 24 | it isn't / it is not | OA15 |
 | 25 | There | OA15 |
 
 ### Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|
-| OA N°5 — Comprensión textos cortos | 5 | 1–5 |
-| OA N°6 — Notas, postales, invitaciones | 5 | 6–10 |
-| OA N°8 — Reaccionar y opinar | 5 | 11–15 |
-| OA N°14 — Completar textos según modelo | 5 | 16–20 |
-| OA N°15 — Escribir oraciones (describir/preguntar/contar) | 5 | 21–25 |
+| OA5 | 5 | 1–5 |
+| OA6 | 5 | 6–10 |
+| OA8 | 5 | 11–15 |
+| OA14 | 5 | 16–20 |
+| OA15 | 5 | 21–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo de pregunta:** 10 de selección múltiple (alternativas)
-y 15 de respuesta abierta breve (completar, verdadero/falso, responder en
-inglés y escribir según modelo), en línea con el formato mixto del Examen
-Libre real de Inglés.
-
-**Nota:** Esta es la **Forma B**, con preguntas propias, aunque cubre los mismos 5 OA
-en la misma proporción, usando el vocabulario del glosario del curso.
+**Distribución por tipo:** 10 preguntas de alternativas y 15 abiertas. Es una
+práctica propia alineada con los OA del curso; no es un instrumento oficial Mineduc.
+Se mantienen las funciones lingüísticas estudiadas, con nuevos textos y situaciones.
 
 ---
 
 # TABLA DE ESPECIFICACIONES
 
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+Cobertura curricular del instrumento, para uso del docente o del apoderado.
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|

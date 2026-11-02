@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 8° Básico
+oa_por_pregunta: {"7":"OA 15","10":"OA 16"}
 eje: Datos y Probabilidades (OA 15, OA 16)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 4: Datos y Probabilidades

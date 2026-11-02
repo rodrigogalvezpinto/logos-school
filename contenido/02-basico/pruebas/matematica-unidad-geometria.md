@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 2° Básico
+oa_por_pregunta: {"6":"OA 16"}
 eje: Geometría (OA 15, 16)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Geometría

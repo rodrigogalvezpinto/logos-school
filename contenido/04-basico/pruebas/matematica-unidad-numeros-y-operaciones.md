@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 4° Básico
+oa_por_pregunta: {"1":"OA 1"}
 eje: Números y Operaciones (OA 1, 3, 5, 6, 7, 8, 9)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones

@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 6° Básico
+oa_por_pregunta: {"7":"OA 16","8":"OA 16","9":"OA 16","10":"OA 16","11":"OA 16","12":"OA 16"}
 eje: Eje 3 — Geometría
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 3: Geometría

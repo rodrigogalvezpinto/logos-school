@@ -4,7 +4,7 @@ curso: 6° Básico
 tipo: Examen de práctica — Examen Libre Mineduc — Forma B
 basado_en: Banco de autoevaluación 06-basico/historia-geografia-y-cs-sociales.md (13 OA, Decreto 439/2012)
 relacionado: contenido/06-basico/historia-geografia-y-cs-sociales.md (misma asignatura, preguntas distintas)
-última actualización: 2026-08-10
+ultima_actualizacion: 2026-11-02
 ---
 
 # EXAMEN DE HISTORIA, GEOGRAFÍA Y CIENCIAS SOCIALES — 6° BÁSICO
@@ -445,14 +445,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | Puntaje obtenido | Nota aproximada (escala 1,0 a 7,0, exigencia 60%) |
 |-------------------|----------------------------------------------------|
-| 30-34 pts | 6,2 - 7,0 |
-| 24-29 pts | 5,2 - 6,1 |
-| 18-23 pts | 4,0 - 5,1 |
-| 12-17 pts | 3,0 - 3,9 |
-| 0-11 pts | 1,0 - 2,9 |
+| 30-34 pts | 6,1 - 7,0 |
+| 24-29 pts | 4,8 - 5,9 |
+| 21-23 pts | 4,1 - 4,6 |
+| 12-20 pts | 2,8 - 3,9 |
+| 0-11 pts | 1,0 - 2,6 |
 
-*(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
-otros criterios de conversión.)*
+*Notas calculadas con la fórmula estándar de exigencia 60% sobre 34 puntos: si el puntaje
+es menor al 60% (20,4 pts), nota = 1 + 3 × puntaje ÷ 20,4; si es igual o mayor, nota =
+4 + 3 × (puntaje − 20,4) ÷ 13,6, redondeada a un decimal. Con esta exigencia se aprueba
+desde **21 puntos**, que corresponde a una nota aproximada de **4,1** (no es 4,0 exacto:
+4 + 3 × 0,6 ÷ 13,6 ≈ 4,13). Escala referencial de práctica; la corrección oficial del
+Examen Libre Mineduc puede usar otros criterios de conversión.*
 
 ---
 

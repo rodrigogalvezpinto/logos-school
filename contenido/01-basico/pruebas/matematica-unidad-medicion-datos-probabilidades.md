@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 1° Básico
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","4":"OA 19","5":"OA 19","7":"OA 20","8":"OA 19"}
 eje: Medición y Datos y Probabilidades
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

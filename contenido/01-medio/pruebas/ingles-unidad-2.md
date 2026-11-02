@@ -1,13 +1,14 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 1° Medio
+oa_por_pregunta: {"13":"OA 16","14":"OA 16"}
 unidad: Unidad 2 — Writing (OA 13, OA 16)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 13, OA 16
 basado_en: contenido/01-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 

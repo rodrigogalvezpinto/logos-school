@@ -51,11 +51,11 @@ c) 4
 
 ---
 
-**3.** ¿Qué haces primero en la mañana?
+**3.** Ana se despierta, después desayuna y luego se viste. ¿Qué hace primero?
 
-a) Dormir toda la noche
-b) Ir a dormir la siesta
-c) Cenar
+a) Se despierta
+b) Desayuna
+c) Se viste
 
 ---
 
@@ -221,7 +221,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |---|---|---|---|
 | 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
 | 2 | Lenguaje y Comunicación | **a) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
-| 3 | Historia, Geografía y Cs. Sociales | **a) Dormir toda la noche.** Antes de empezar el día dormimos toda la noche; después viene el desayuno y el resto de las actividades. | OA 2 — Secuencia temporal |
+| 3 | Historia, Geografía y Cs. Sociales | **a) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
 | 4 | Ciencias Naturales | **c) Un pájaro.** Es un ser vivo porque nace, crece, se reproduce y muere; la silla y el lápiz son objetos, no seres vivos. | OA 1 — Seres vivos y cosas no vivas |
 | 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |

@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 1° Básico
+oa_evaluados: OA 13
 eje: Geometría
 tipo: Prueba de unidad
 título: Prueba de Unidad — Geometría

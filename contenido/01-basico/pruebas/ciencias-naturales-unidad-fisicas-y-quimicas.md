@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
+oa_por_pregunta: {"2":"OA 8","3":"OA 8","4":"OA 8","6":"OA 9","7":"OA 9"}
 unidad: Eje 2 — Ciencias Físicas y Químicas (OA 8, OA 9)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos

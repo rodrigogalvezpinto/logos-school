@@ -38,6 +38,20 @@ def _question_options(markdown: str) -> dict[int, dict[str, str]]:
     return questions
 
 
+def check_reused_exam_stimuli(exam: str, guide: str) -> list[str]:
+    def words(value: str) -> list[str]:
+        return re.findall(r"[a-z]+(?:'[a-z]+)?", value.casefold())
+
+    source = " " + " ".join(words(guide)) + " "
+    repeated = []
+    for quoted in re.findall(r'["“]([^"“”]+)["”]', exam):
+        tokens = words(quoted)
+        stimulus = " ".join(tokens)
+        if len(tokens) >= 6 and f" {stimulus} " in source and stimulus not in repeated:
+            repeated.append(stimulus)
+    return repeated
+
+
 def _normalise(value: str) -> str:
     value = re.sub(r"[*_]", "", value)
     return re.sub(r"\s+", " ", value).strip().casefold().rstrip(".").strip()
@@ -127,13 +141,58 @@ def check_conflicting_total_declarations(markdown: str, path: str = "<memoria>")
             ", ".join(f"{value} puntos" for value in distinct)]
 
 
+def check_grade_scale_consistency(markdown: str, path: str = "<memoria>") -> list[str]:
+    totals = {int(match.group(1)) for match in TOTAL_RE.finditer(markdown)}
+    findings = []
+    score_index = grade_index = None
+    number = r"\d+(?:[,.]\d+)?"
+    for line_no, line in enumerate(markdown.splitlines(), 1):
+        if not line.strip().startswith("|"):
+            score_index = grade_index = None
+            continue
+        cells = [re.sub(r"[*_]", "", cell).strip() for cell in line.strip().strip("|").split("|")]
+        if any("nota" in cell.casefold() for cell in cells):
+            score_index = next((i for i, cell in enumerate(cells) if "puntaje" in cell.casefold()), None)
+            grade_index = next((i for i, cell in enumerate(cells)
+                                if "nota" in cell.casefold() and re.search(r"exigencia\s*(?:del\s*)?60\s*%", cell, re.IGNORECASE)), None)
+            if score_index is not None and grade_index is not None and (len(totals) != 1 or min(totals) <= 0):
+                findings.append(f"{path}:{line_no}: escala 60% sin puntaje total único y positivo verificable")
+                score_index = grade_index = None
+            continue
+        if score_index is None or grade_index is None or max(score_index, grade_index) >= len(cells):
+            continue
+        score = re.fullmatch(rf"({number})\s*[-–]\s*({number})(?:\s*(?:pts?\.?|puntos?))?", cells[score_index], re.IGNORECASE)
+        if not score:
+            continue
+        grades = re.fullmatch(rf"({number})\s*[-–]\s*({number})", cells[grade_index])
+        if not grades:
+            findings.append(f"{path}:{line_no}: rango de notas no verificable: {cells[grade_index]}")
+            continue
+        low, high = (float(value.replace(",", ".")) for value in score.groups())
+        total = next(iter(totals))
+        if not 0 <= low <= high <= total:
+            findings.append(f"{path}:{line_no}: rango de puntajes fuera de 0–{total}")
+            continue
+        expected = []
+        threshold = total * 0.6
+        for points in (low, high):
+            grade = 1 + 3 * (points / threshold) if points <= threshold else 4 + 3 * ((points - threshold) / (total - threshold))
+            expected.append(round(grade, 1))
+        published = [float(value.replace(",", ".")) for value in grades.groups()]
+        if published != expected:
+            findings.append(f"{path}:{line_no}: escala 60% incompatible para {low:g}–{high:g}/{total}: "
+                            f"publica {published[0]:.1f}–{published[1]:.1f}; corresponde {expected[0]:.1f}–{expected[1]:.1f}")
+    return findings
+
+
 def audit_file(path: Path) -> list[str]:
     try:
         markdown = path.read_text(encoding="utf-8")
     except (OSError, UnicodeError) as exc:
         return [f"{path}: no se pudo leer: {exc}"]
     return (check_key_option_consistency(markdown, str(path)) +
-            check_conflicting_total_declarations(markdown, str(path)))
+            check_conflicting_total_declarations(markdown, str(path)) +
+            check_grade_scale_consistency(markdown, str(path)))
 
 
 def main() -> int:

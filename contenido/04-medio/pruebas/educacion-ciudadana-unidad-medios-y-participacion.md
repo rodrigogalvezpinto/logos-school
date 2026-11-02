@@ -1,20 +1,21 @@
 ---
 asignatura: Educación Ciudadana
 curso: 4° Medio
-unidad: "OA N°6: Medios de comunicación, nuevas tecnologías y participación democrática"
+unidad: "Desarrollo, derechos laborales y medios de comunicación: OA 3, OA 4 y OA 6"
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 15
-oa_evaluados: OA 6
+oa_evaluados: OA 3, OA 4, OA 6
 basado_en: contenido/04-medio/educacion-ciudadana.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
-# Prueba de Unidad — Medios de comunicación y participación democrática
+# Prueba de Unidad — Desarrollo, derechos laborales y medios de comunicación
 
 **Asignatura:** Educación Ciudadana — 4° Medio
-**Cobertura:** OA N°6 — oportunidades y riesgos de los medios de comunicación masiva y las
-nuevas tecnologías para la democracia y la vida privada.
+**Cobertura:** OA N°3 (modelos de desarrollo, políticas económicas y sustentabilidad), OA N°4
+(derechos laborales en Chile y su fortalecimiento) y OA N°6 (oportunidades y riesgos de los
+medios y las nuevas tecnologías para la democracia y la vida privada).
 **Tiempo sugerido:** 30-35 minutos
 **Instrucciones:** Responde todas las preguntas. Las de alternativas y verdadero/falso tienen
 una sola respuesta correcta; las de términos pareados, análisis de caso y desarrollo breve
@@ -22,51 +23,98 @@ requieren relacionar conceptos o explicar con tus palabras.
 
 ---
 
-1. **(Alternativas)** ¿Cuál de las siguientes opciones describe mejor una "cámara de eco" en
-redes sociales?
-a) Un espacio donde circulan solo noticias verificadas por periodistas profesionales
-b) Un entorno digital donde los algoritmos muestran principalmente contenido afín a lo que el
-usuario ya piensa
-c) Una función de las plataformas para denunciar contenido falso
-d) Un sistema legal que regula la propiedad de los medios de comunicación
+## Parte A — OA N°3: Modelos de desarrollo y sustentabilidad (preguntas 1 a 5)
 
-2. **(Verdadero o Falso)** El periodismo de investigación y la circulación de información en
-redes sociales han contribuido, en algunos casos, a destapar hechos de corrupción que de otro
-modo habrían permanecido ocultos.
+1. **(Alternativas)** ¿Cuál de las siguientes afirmaciones describe mejor el concepto de
+"desarrollo sustentable"?
+a) Un desarrollo que maximiza el crecimiento económico sin restricciones de ningún tipo
+b) Un desarrollo que prohíbe toda actividad económica que use recursos naturales
+c) Un desarrollo que satisface las necesidades del presente sin comprometer la capacidad de
+las futuras generaciones de satisfacer las suyas
+d) Un desarrollo centrado exclusivamente en la protección ambiental, sin considerar el
+bienestar de las personas
 
-3. **(Términos pareados)** Relaciona cada concepto con su definición:
+2. **(Verdadero o Falso)** El cambio climático es un problema exclusivamente ambiental, sin
+relación con los modelos de desarrollo ni con la vida digna de las personas.
+
+3. **(Términos pareados)** Relaciona cada dimensión del desarrollo sustentable con su
+ejemplo:
+1) Dimensión económica — 2) Dimensión social — 3) Dimensión ambiental
+a) Que las personas accedan a vivienda, salud, educación y trabajo digno
+b) Que las actividades productivas no destruyan los ecosistemas de los que depende la vida
+c) Que las actividades productivas sean viables y generen bienestar
+
+4. **(Alternativas)** Una economía que depende casi exclusivamente de exportar materias
+primas sin procesar se caracteriza principalmente por ser un modelo:
+a) Centrado en la producción con alto valor agregado
+b) Extractivo, con riesgos de dependencia de precios internacionales y presión sobre recursos
+naturales
+c) De economía del conocimiento y servicios tecnológicos
+d) Basado exclusivamente en el trabajo artesanal local
+
+5. **(Análisis de caso)** Una ciudad debe decidir entre dos políticas para reducir las
+emisiones del transporte: (A) subsidiar la renovación de la flota de buses públicos con
+vehículos eléctricos, o (B) establecer un impuesto a los combustibles fósiles. Compara ambas
+políticas evaluando sus posibles efectos en la vida cotidiana de las personas, en el cambio
+climático y en la sustentabilidad.
+
+## Parte B — OA N°4: Derechos laborales (preguntas 6 a 10)
+
+6. **(Alternativas)** ¿Cuál es la razón de fondo por la que las sociedades establecen normas
+de derechos laborales, según lo estudiado?
+a) Porque el Estado debe reemplazar completamente la negociación entre trabajadores y
+empleadores
+b) Porque en la relación laboral existe una asimetría de poder que sin normas mínimas puede
+traducirse en condiciones que vulneran la dignidad de quien trabaja
+c) Porque los derechos laborales solo benefician a los sindicatos
+d) Porque las empresas no tienen interés legítimo en definir las condiciones del trabajo que
+ofrecen
+
+7. **(Verdadero o Falso)** Cualquier grupo de personas trabajadoras puede exigir negociación
+colectiva sobre cualquier materia, sin límites ni procedimientos establecidos por la ley.
+
+8. **(Términos pareados)** Relaciona cada tendencia actual del debate laboral con su
+contenido:
+1) Teletrabajo — 2) Corresponsabilidad en el cuidado — 3) Disminución de la jornada
+a) Distribuir entre ambos progenitores —y apoyar desde la organización del trabajo— la
+responsabilidad por hijos e hijas
+b) Trabajo remoto que plantea nuevos desafíos, como el derecho a la desconexión
+c) Reducción del máximo legal de horas semanales de trabajo
+
+9. **(Alternativas)** La protección de la maternidad en la legislación laboral chilena
+incluye mecanismos como:
+a) La prohibición de contratar mujeres en edad fértil
+b) El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de sala
+cuna
+c) La obligación de las madres de renunciar al empleo tras el embarazo
+d) Un sistema que traslada todos los costos del cuidado a las familias
+
+10. **(Desarrollo breve)** Menciona un hito concreto de la evolución de la protección laboral
+en Chile (por ejemplo, el primer Código del Trabajo de 1931, el permiso paternal por nacimiento de 2005, el
+postnatal parental de 2011 o la reducción gradual de la jornada) y explica qué aporte
+tuvieron los movimientos u organizaciones sociales en que se concretara.
+
+## Parte C — OA N°6: Medios, nuevas tecnologías y democracia (preguntas 11 a 15)
+
+11. **(Alternativas)** ¿Cuál de las siguientes es una oportunidad que los medios y las nuevas
+tecnologías ofrecen para el fortalecimiento de la democracia?
+a) La concentración de la propiedad de los medios en pocos actores
+b) Que organizaciones sociales y vecinos puedan comunicar demandas e incidir en decisiones
+públicas sin depender de medios tradicionales
+c) La difusión de mensajes de campaña segmentados sin transparencia
+d) La circulación viral de contenido sin verificar
+
+12. **(Términos pareados)** Relaciona cada concepto con su definición:
 1) Desinformación — 2) Microsegmentación — 3) Concentración de medios
 a) Uso de datos personales para dirigir mensajes específicos a distintos perfiles de votantes
 b) Contenido falso o engañoso que circula, a veces de forma deliberada
 c) Situación en la que pocos actores controlan gran parte de los medios de un país
 
-4. **(Alternativas)** En Chile, la protección de los datos personales frente a su uso por
-empresas y plataformas está regulada, entre otras normas, por:
-a) El Código del Trabajo
-b) La Ley de Protección de la Vida Privada
-c) La Ley General de Educación
-d) El Código Penal exclusivamente
+13. **(Verdadero o Falso)** Informarse a través de redes sociales puede ser a la vez una
+oportunidad y un riesgo para la democracia, según cómo se use la herramienta y con qué
+criterio crítico.
 
-5. **(Verdadero o Falso)** La alfabetización mediática y digital consiste principalmente en
-dejar de usar redes sociales y medios digitales.
-
-6. **(Análisis de caso)** Durante una elección, una cuenta anónima en redes sociales difunde
-miles de publicaciones idénticas en pocas horas, atacando a un candidato con acusaciones sin
-fuente verificable. Identifica el riesgo principal que ilustra este caso y explica por qué es
-particularmente grave en contexto electoral.
-
-7. **(Desarrollo breve)** Explica, con tus palabras, de qué manera la concentración de la
-propiedad de los medios de comunicación puede afectar el pluralismo democrático.
-
-8. **(Análisis de fuente/dato)** Una encuesta señala que un porcentaje creciente de jóvenes
-chilenos se informa principalmente a través de redes sociales, y que un porcentaje menor
-contrasta esa información con otras fuentes antes de compartirla. ¿Qué riesgo y qué
-responsabilidad ciudadana se desprenden de este dato?
-
-9. **(Verdadero o Falso)** El anonimato que ofrecen algunas plataformas digitales puede
-facilitar la circulación de discurso de odio hacia personas o grupos.
-
-10. **(Alternativas)** Una aplicación solicita acceso a la ubicación en tiempo real del
+14. **(Alternativas)** Una aplicación solicita acceso a la ubicación en tiempo real del
 usuario sin explicar claramente para qué la usará. ¿Qué principio ciudadano estudiado en este
 OA se ve comprometido?
 a) La libertad de expresión
@@ -74,87 +122,79 @@ b) El resguardo de la vida privada
 c) La igualdad ante la ley
 d) La libertad de prensa
 
-11. **(Términos pareados)** Relaciona cada situación con la categoría a la que pertenece:
-1) Oportunidad — 2) Riesgo — 3) Ambas a la vez, según el caso
-a) Una campaña de firmas digitales que logra que una autoridad responda a una demanda vecinal
-b) La difusión masiva de un rumor falso sobre un proceso electoral
-c) El uso de redes sociales para informarse de política
-
-12. **(Análisis de caso)** Una plataforma de streaming de noticias es propiedad de un solo
-grupo económico que también controla dos canales de televisión y un periódico de circulación
-nacional en el mismo país. ¿Qué riesgo democrático ejemplifica esta situación y qué podría
-mitigarlo?
-
-13. **(Desarrollo breve)** Explica con un ejemplo cómo las nuevas tecnologías de la
-información pueden fortalecer la participación ciudadana más allá de las elecciones.
-
-14. **(Verdadero o Falso)** La alfabetización mediática consiste principalmente en contrastar
-fuentes y verificar la información antes de compartirla.
-
-15. **(Análisis de caso)** Un partido político utiliza datos recopilados de redes sociales
-para enviar mensajes de campaña distintos a distintos grupos de votantes, sin informar
-públicamente qué criterios usó para definir esos grupos ni quién financió los mensajes.
-Evalúa este caso considerando tanto la participación democrática como el resguardo de la vida
-privada.
+15. **(Reflexión personal y grupal)** Elige un caso reciente de interés público que hayas
+conocido por medios o redes sociales. Identifica una **oportunidad** y un **riesgo** que ese
+caso ilustra para la democracia, y propón una acción concreta que tú puedes aplicar
+personalmente (por ejemplo, contrastar antes de compartir) y una práctica que un grupo —tu
+curso, tu comunidad o tu familia— podría discutir y adoptar en conjunto.
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** Un entorno digital donde los algoritmos muestran principalmente contenido afín a lo
-que el usuario ya piensa. Surge porque los algoritmos priorizan contenido que genera más
-interacción, que suele confirmar las creencias previas.
+1. **c)** Un desarrollo que satisface las necesidades del presente sin comprometer la
+capacidad de las futuras generaciones. La sustentabilidad integra las dimensiones económica,
+social y ambiental; no es "cero actividad económica" ni "solo ambiente".
 
-2. **Verdadero.** Es una de las oportunidades más citadas: la fiscalización y la
-transparencia que permite el periodismo de investigación y la circulación de información en
-redes.
+2. **Falso.** El cambio climático está profundamente ligado a los modelos de desarrollo (uso
+intensivo de combustibles fósiles, degradación de ecosistemas) y afecta la vida digna de
+comunidades concretas —sequías, incendios, escasez hídrica—, muchas veces a quienes menos
+contribuyeron a causarlo.
 
-3. **1-b, 2-a, 3-c.** Cada concepto describe un riesgo distinto: la veracidad de la
+3. **1-c, 2-a, 3-b.** Un modelo de desarrollo sustentable debe dar cuenta de las tres
+dimensiones a la vez; sacrificar permanentemente una de ellas es lo que el concepto busca
+evitar.
+
+4. **b)** Extractivo, con riesgos de dependencia de precios internacionales y presión sobre
+recursos naturales. El modelo genera empleo e ingresos, pero el OA pide reconocer sus riesgos
+característicos.
+
+5. Una comparación válida identifica en (A) efectos directos sobre emisiones del transporte
+público, costo fiscal y posible mejora del servicio, y en (B) un incentivo de precio que
+reduce el consumo de combustibles pero puede encarecer el transporte privado o trasladar
+costos a las personas; en ambas se reconoce un efecto sobre el cambio climático y una tensión
+entre dimensiones económica, social y ambiental. No hay una "respuesta política correcta": se
+evalúa la calidad de la comparación.
+
+6. **b)** Por la asimetría de poder de la relación laboral. Las normas laborales fijan pisos
+mínimos —jornada, remuneración, seguridad, descanso— por debajo de los cuales no puede
+negociarse, equilibrando una relación desigual por naturaleza.
+
+7. **Falso.** La negociación colectiva es un derecho regulado: la ley define qué materias
+pueden negociarse, qué trabajadores y empleadores están comprendidos y qué procedimientos
+deben seguirse; no es un mecanismo universal disponible para cualquier grupo sobre cualquier
+tema.
+
+8. **1-b, 2-a, 3-c.** El temario identifica estas tendencias —junto con la flexibilidad
+laboral— como los principales planteamientos de las demandas actuales sobre derechos
+laborales.
+
+9. **b)** El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de
+sala cuna buscan que tener hijos e hijas no signifique perder el empleo ni los ingresos.
+
+10. Respuestas equivalentes aceptables: primer Código del Trabajo de 1931 como primer cuerpo
+sistemático; permiso paternal por nacimiento de 2005; postnatal parental de 2011; reforma de negociación
+colectiva de 2016-2017; o reducción gradual de la jornada (42 h desde 2026, 40 h desde 2028).
+En todos los casos se debe explicar el aporte de sindicatos, organizaciones de trabajadoras o
+movimientos sociales que sostuvieron la demanda hasta que se tradujo en norma.
+
+11. **b)** Que organizaciones sociales y vecinos puedan comunicar demandas e incidir en
+decisiones públicas sin depender de medios tradicionales. Las otras opciones describen riesgos
+(concentración, segmentación opaca, desinformación), no oportunidades.
+
+12. **1-b, 2-a, 3-c.** Cada concepto describe un riesgo distinto: la veracidad de la
 información, la transparencia de la propaganda política y el pluralismo de voces.
 
-4. **b)** La Ley de Protección de la Vida Privada. Junto con otras normas, regula cómo se
-recopilan, almacenan y usan los datos personales en Chile.
+13. **Verdadero.** Las mismas redes que amplían el acceso a información y facilitan la
+participación también exponen a desinformación y cámaras de eco; el resultado depende del uso
+y del criterio crítico con que se consuman.
 
-5. **Falso.** No busca el abandono de estas herramientas, sino desarrollar la capacidad de
-evaluarlas críticamente: contrastar fuentes, identificar sesgos e intereses, y proteger la
-información personal.
-
-6. Ilustra el riesgo de **desinformación** (posiblemente coordinada, dado el patrón de
-publicaciones idénticas en poco tiempo). Es grave en contexto electoral porque puede influir
-en la decisión de voto a partir de información falsa, con poco tiempo para verificar antes de
-que la persona vote.
-
-7. Cuando pocos grupos controlan gran parte de los medios de un país, disminuye la diversidad
-de perspectivas que llegan a la ciudadanía, limitando el debate público a los enfoques de
-quienes poseen esos medios y dificultando que otras voces alcancen una audiencia amplia.
-
-8. El riesgo es la propagación de desinformación sin verificación previa. La responsabilidad
-ciudadana es desarrollar hábitos de **alfabetización mediática**: verificar fuentes antes de
-compartir información.
-
-9. **Verdadero.** El anonimato reduce la percepción de consecuencias para quien publica
-contenido discriminatorio o de odio, lo que puede amplificar este tipo de discurso.
-
-10. **b)** El resguardo de la vida privada. La falta de información clara sobre el uso de
+14. **b)** El resguardo de la vida privada. La falta de información clara sobre el uso de
 datos personales es uno de los riesgos centrales de este OA.
 
-11. **1-a, 2-b, 3-c.** Informarse por redes sociales puede ser tanto una oportunidad como un
-riesgo, según cómo se use la herramienta y con qué criterio crítico.
-
-12. Ejemplifica el riesgo de **concentración de la propiedad de medios**, que reduce el
-pluralismo de voces. Podría mitigarse con regulación que promueva diversidad de propietarios,
-fortalecimiento de medios independientes o comunitarios, y hábitos ciudadanos de consumir
-fuentes diversas.
-
-13. Por ejemplo, plataformas de participación ciudadana permiten enviar propuestas, comentar
-proyectos de ley o presupuestos participativos, u organizar campañas de firmas para exigir a
-las autoridades que atiendan un problema específico.
-
-14. **Verdadero.** Contrastar fuentes y verificar antes de compartir son las dos prácticas
-centrales de la alfabetización mediática, junto con distinguir hechos de opiniones.
-
-15. Desde la participación democrática: la falta de transparencia sobre financiamiento y
-criterios de segmentación dificulta que la ciudadanía evalúe informadamente los mensajes
-políticos. Desde la vida privada: el uso de datos personales para segmentación política sin
-conocimiento claro de los usuarios compromete su derecho a controlar su información. Ambos
-problemas están relacionados.
+15. Respuesta modelo: identifica una **oportunidad** del caso (p. ej., visibilización de un
+problema, fiscalización, organización ciudadana) y un **riesgo** (p. ej., desinformación,
+discurso de odio, exposición de datos privados); propone una acción personal verificable
+(contrastar fuentes, revisar quién publica, proteger datos propios) y una práctica grupal
+discutible en comunidad (pautas de verificación compartidas, conversación crítica sobre
+contenido viral). Se evalúa la reflexión fundamentada, no el caso elegido.

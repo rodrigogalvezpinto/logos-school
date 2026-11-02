@@ -207,7 +207,7 @@ def test_iniciar_intento_concurrente_no_crea_duplicados(client, session):
     conjunto, perfil, _, headers = _preparar(client, session)
     # Misma URL que tests/conftest.py::TEST_DATABASE_URL — se repite acá porque "tests"
     # no es un paquete importable (sin __init__.py) en esta configuración de pytest.
-    engine_hilos = create_engine("postgresql://logos_dev:logos_dev_local@localhost:5432/logos_test")
+    engine_hilos = create_engine(session.get_bind().url)
 
     def _sesion_fresca_por_llamada():
         with SQLSession(engine_hilos) as s:
@@ -232,9 +232,11 @@ def test_iniciar_intento_concurrente_no_crea_duplicados(client, session):
         for h in hilos:
             h.join()
 
+        assert len(resultados) == len(hilos)
         assert len(set(resultados)) == 1
     finally:
         app.dependency_overrides[get_session] = lambda: (yield session)
+        engine_hilos.dispose()
 
 
 def test_conjunto_no_expone_respuesta_correcta(client, session):

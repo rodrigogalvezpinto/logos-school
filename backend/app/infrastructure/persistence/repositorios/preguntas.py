@@ -2,6 +2,7 @@ from sqlmodel import Session, select
 
 from app.domain.evaluaciones.ports import PreguntaLectura
 from app.domain.evaluaciones.value_objects import PreguntaParaCorreccion
+from app.infrastructure.persistence.orm_models import ConjuntoEvaluacion
 from app.infrastructure.persistence.orm_models import ObjetivoAprendizaje as ObjetivoAprendizajeORM
 from app.infrastructure.persistence.orm_models import Pregunta as PreguntaORM
 
@@ -15,7 +16,18 @@ class RepositorioPreguntasSQLModel:
 
     def buscar_por_oa(self, oa_id: int) -> list[PreguntaLectura]:
         filas = self._session.exec(select(PreguntaORM).where(PreguntaORM.oa_id == oa_id)).all()
-        return [self._a_lectura(f) for f in filas]
+        if not filas:
+            return []
+        ids_evaluaciones = {
+            pregunta_id
+            for ids in self._session.exec(
+                select(ConjuntoEvaluacion.pregunta_ids).where(
+                    ConjuntoEvaluacion.tipo.in_(("prueba_unidad", "examen_simulacro"))
+                )
+            ).all()
+            for pregunta_id in ids
+        }
+        return [self._a_lectura(f) for f in filas if f.id not in ids_evaluaciones]
 
     def listar_por_ids(self, ids: list[int]) -> list[PreguntaLectura]:
         filas = [self._session.get(PreguntaORM, pid) for pid in ids]

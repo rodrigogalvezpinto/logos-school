@@ -365,6 +365,11 @@
   color: var(--color-exito-texto);
   margin: 0.5rem 0 0;
 }
+.resultado__alcance-nota {
+  display: block;
+  font-size: 1rem;
+  font-weight: 500;
+}
 .resultado__nota--reprobada {
   color: var(--color-error-texto);
 }

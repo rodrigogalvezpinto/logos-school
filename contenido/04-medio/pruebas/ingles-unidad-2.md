@@ -1,13 +1,14 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
+oa_por_pregunta: {"6":"OA 3","14":"OA 4"}
 unidad: Unidad 2 — OA N°3 y OA N°4 (Conocimiento del inglés, producción e identidad)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 3, OA 4
 basado_en: contenido/04-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Prueba de Unidad — Inglés, 4° Medio
@@ -60,8 +61,7 @@ especulación) con la producción y síntesis del OA N°4.
 8. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
    sobre identidad cultural?
    a) "I have a culture."
-   b) "My heritage and upbringing have shaped my sense of belonging to my
-      community."
+   b) "My heritage and upbringing have shaped my sense of belonging to my community."
    c) "My country is nice."
    d) "I like things from my culture."
 

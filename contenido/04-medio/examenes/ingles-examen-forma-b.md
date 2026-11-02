@@ -2,280 +2,200 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
-basado_en: Banco de autoevaluación /contenido/04-medio/ingles.md (3 OA)
+basado_en: Temario oficial UCE/Mineduc; contenido/04-medio/ingles.md (3 OA)
 relación_con: examen de práctica del mismo curso — misma estructura, preguntas distintas
-última actualización: 2026-08-11
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 4° Medio — FORMA B
-## Examen de Práctica estilo Examen Libre de Validación de Estudios (Mineduc)
+## Examen de práctica estilo Examen Libre de Validación de Estudios (Mineduc)
 
-**Asignatura:** Idioma Extranjero — Inglés
-**Curso:** 4° Medio (último curso de Inglés de toda la enseñanza media)
-**N° de preguntas:** 25
-**Tiempo:** 90 minutos
-**Materiales permitidos:** Se permite el uso de **diccionario** (impreso) durante toda
-la prueba. No se permite el uso de calculadora, celular ni apuntes.
+**N° de preguntas:** 25 · **Tiempo:** 90 minutos · **Puntaje total:** 25 puntos.
+**Materiales permitidos:** diccionario impreso. Sin celular, calculadora ni apuntes.
 
-### Instrucciones para el estudiante
+### Instrucciones
 
-1. Lee cada pregunta con atención. Algunas preguntas incluyen un texto corto en
-   inglés (estímulo) que debes leer antes de responder.
-2. Hay dos tipos de preguntas:
-   - **Selección múltiple:** marca con una X la alternativa correcta (a, b, c o d).
-   - **Preguntas abiertas:** responde con una oración completa en inglés (o con la
-     palabra/estructura pedida), siguiendo el modelo que se te pide. La
-     retroalimentación de estas preguntas se entrega en español para que revises tu
-     razonamiento.
-3. Puedes usar diccionario para buscar palabras que no conozcas. El diccionario te
-   ayuda con vocabulario puntual, pero no reemplaza el manejo del discurso indirecto,
-   los modales de especulación sobre el pasado, ni la fluidez y precisión que exige
-   este último año — no vas a tener tiempo de buscar cada palabra.
-4. Todas las preguntas valen el mismo puntaje. No hay descuento por respuestas
-   incorrectas: si no estás seguro/a, responde de todas formas.
-5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
-6. Este es el cierre de tu ciclo escolar de inglés: la prueba integra comprensión de
-   textos, gramática avanzada (discurso indirecto, modales de especulación) y síntesis
-   de fuentes escritas y orales. Good luck — you've got this!
+- Lee todos los estímulos pertinentes. Son textos ficticios de práctica, no descripciones universales de culturas ni noticias reales.
+- Hay **6 preguntas de selección múltiple** (1, 7, 10, 15, 17, 23) y **19 abiertas**. Marca una sola letra en las cerradas y responde en inglés las abiertas según su consigna.
+- Cada ítem vale **1 punto**, sin descuento por error. Las abiertas admiten 0, 0,5 o 1 según rúbrica; las opiniones se evalúan por justificación y claridad, no por coincidir con una respuesta modelo.
+- Dedica unos 25 minutos a OA1, 25 a OA3 y 40 a OA4 y revisión.
+- Se incluye una transcripción para practicar síntesis de fuentes. Leerla no evalúa comprensión auditiva: no hay audio en este instrumento escrito.
 
 ---
 
-## OA N°1 — Comprender información relevante para un propósito específico en textos, para conocer cómo otras culturas los abordan
+## OA N°1 — Comprender información relevante para un propósito específico
 
-**1.** *(Selección múltiple)* Read: *"In this dystopian novel, the
-government controls all information citizens can access, and independent
-thought is punished."* ¿Cuál es el elemento principal del tema tratado en
-el texto?
+### Text A — Review in a Canadian youth library newsletter (preguntas 1–5)
 
-a) A government that promotes free speech.
-b) A story about space exploration.
-   independent thought.
-c) A society where the government controls information and punishes
-d) A romantic comedy set in the future.
+> **Borrowed Summers: a graphic novel worth discussing**
+> In a future city, residents can borrow recorded memories from a public archive. A young courier borrows a memory of a garden to understand why her grandmother misses a neighbourhood demolished before she was born. The archive labels the recording “complete”, but the courier notices that the gardeners' voices are missing. She collects their accounts and asks the archive to include them. The drawings make the absent speakers visible as blank spaces between colourful plants. Although the ending resolves the dispute too quickly, the novel asks a valuable question: who gets to decide what a community remembers? Recommended for readers aged fifteen and above who enjoy stories about technology and belonging.
 
-**2.** *(Pregunta abierta — completar)* Complete: *"A comic strip written
-to make readers laugh has an ___ purpose, while a user manual explaining
-how to set up a phone has an ___ purpose."* (entertaining / informative)
+**1.** *(Selección múltiple)* Which statement best expresses the central conflict?
 
-**3.** *(Pregunta abierta — completar organizador gráfico)* Complete the
-table with information from the text: *"The novel 'Silent Orbit' takes
-place on a space station in 2200. The main character, Nadia, discovers
-that the AI controlling the station has been hiding information from the
-crew."* Setting: ___ / Main character: ___ / Main conflict: ___
+a) A courier must win a gardening competition before summer ends.
+b) A grandmother refuses to let anyone visit a public archive.
+c) A memory archive presents an incomplete community history as complete.
+d) A city loses the ability to grow any plants at all.
 
-**4.** *(Pregunta abierta — emparejar)* Relaciona el tipo de texto con su
-característica típica: *"a book review"* → ¿"da una opinión evaluativa
-sobre una obra" o "explica un proceso científico paso a paso"?
+**2.** *(Abierta — propósito y audiencia)* Identify the review's purpose and intended audience. Support each with a detail from the text in two sentences.
 
-**5.** *(Pregunta abierta — verdadero o falso)* Read: *"This interview
-appeared in a magazine for video game developers. The questions focus on
-technical details of programming artificial intelligence for non-player
-characters."* Statement: *The target audience of this text is likely
-people interested in game development, not general readers.*
+**3.** *(Abierta — tabla)* Complete: Technology: ___ / Courier's discovery: ___ / Action she takes: ___. Use relevant information from the review.
 
-**6.** *(Pregunta abierta — verdadero o falso)* Localizar información
-específica en un texto (por ejemplo, una fecha, un nombre o un dato
-numérico) requiere una estrategia de lectura distinta a la de identificar
-la idea general del mismo texto.
+**4.** *(Abierta — análisis de género)* Quote or paraphrase one evaluation, rather than plot information, and explain how it helps identify the text as a review.
 
-**7.** *(Selección múltiple — desafiante)* Read: *"Set in a distant
-future, the story follows a group of scientists who travel back in time
-to prevent an environmental disaster, but their actions create unexpected
-consequences."* ¿Qué combinación de elementos de ciencia ficción aparece
-en el texto?
+**5.** *(Abierta — interpretación)* Explain in one or two sentences how the blank spaces in the drawings connect to the missing voices.
 
-a) Space exploration and robots.
-b) Virtual reality and artificial intelligence.
-c) Genetic engineering and dystopia.
-d) Time travel and its unexpected consequences.
+### Text B — Notice from a youth centre in Wellington, New Zealand (preguntas 6–8)
 
-**8.** *(Pregunta abierta — producción breve)* Explica en 1-2 oraciones
-cómo el contexto de publicación de un texto (por ejemplo, un sitio web de
-gobierno versus un blog personal) influye en el vocabulario y el tono
-usado, dando un ejemplo propio sobre un tema de ciencia ficción de tu
-elección.
+> **Whose stories are on our map?**
+> On 18 July, from 2 to 4 p.m., our youth centre will host a workshop about places that have changed. Bring a drawing of a public place you remember, or make one with our materials. You do not need to bring a photograph. We will ask permission before displaying anyone's story, and participants can withdraw it later. The workshop is free; book by 15 July so that we can arrange enough tables. Contact the centre if you need an accessible workstation.
+
+**6.** *(Abierta — localizar para actuar)* You have no photographs and need an accessible table. Explain what the notice allows you to bring or make and what action you should take about the workstation.
+
+**7.** *(Selección múltiple)* Which statement accurately compares the texts' treatment of community stories?
+
+a) The review questions whose voices are included; the notice gives contributors control over displaying their stories.
+b) Both texts require every resident to publish a private family photograph.
+c) The notice says archived memories are always complete.
+d) The review advertises a real workshop on 18 July.
+
+**8.** *(Abierta — organizador)* Complete a planning table for Text B: Event date and time: ___ / Booking deadline: ___ / Participation cost: ___ / Permission rule: ___.
 
 ---
 
-## OA N°3 — Usar el inglés para comprender y producir textos claros, construyendo una postura personal crítica
+## OA N°3 — Comprender y producir textos claros con postura personal crítica
 
-**9.** *(Pregunta abierta — completar)* Complete with reported speech:
-*"I've been practicing guitar for two years,"* said Ignacio. → Ignacio
-said that ___ practicing guitar for two years.
+### Text C — A proposal for a student media club (preguntas 9–16)
 
-**10.** *(Selección múltiple)* Tu compañero llegó tarde y tiene la ropa
-mojada, pero no ha llovido en tu ciudad. ¿Qué oración usa correctamente un
-modal de especulación para esta situación?
+> **Proposal: captions before special effects**
+> Our media club has one editing computer and a small equipment budget. At Tuesday's meeting, editor Lee said, “I have tested the caption tool.” Lee reported that automatic captions often confused speakers' names. Designer Sam proposed buying visual effects software to attract viewers. However, two viewers wrote that they had stopped watching our interviews because there were no readable captions. We recommend spending the first part of the budget on caption editing and asking viewers to test the results. Visual effects can wait until basic access has improved. This proposal does not prove that captions will increase our audience; it argues that existing viewers should be able to follow our work.
 
-a) He must have walked through a sprinkler or spilled water on himself.
-b) He must walking through a sprinkler.
-c) He has must walked through a sprinkler.
-d) He must to have walked through a sprinkler.
+**9.** *(Abierta — discurso indirecto)* Report Lee's quoted statement from Tuesday's meeting using past reporting and backshift: “Lee said that ___.”
 
-**11.** *(Pregunta abierta — verdadero o falso)* *"He might have lost his
-keys"* expresa una **posibilidad**, no una certeza absoluta sobre lo
-ocurrido.
+**10.** *(Selección múltiple)* The automatic captions contained a wrong name; the club has not investigated the cause. Which sentence expresses a possible explanation without presenting it as certain?
 
-**12.** *(Pregunta abierta — completar organizador gráfico)* Complete the
-table with relevant information about a personal interest topic: *"I
-collect vintage vinyl records. I have been doing it since I was twelve,
-and my favorite genre to collect is jazz."* Hobby: ___ / Time doing it:
-___ / Favorite genre: ___
+a) The tool must make mistakes tomorrow.
+b) The tool might have misidentified the speaker's name.
+c) The tool can't ever produce an incorrect name.
+d) The tool definitely changed the name deliberately.
 
-**13.** *(Pregunta abierta — emparejar)* Relaciona el modal con su
-significado: *"could have"* → ¿"una posibilidad no confirmada sobre el
-pasado" o "una certeza absoluta sobre el pasado"?
+**11.** *(Abierta — estructura)* Identify the recommendation and one supporting reason in Text C. Write two linked sentences.
 
-**14.** *(Pregunta abierta — responder en inglés)* Read: *"We are going to
-travel to Japan next year,"* they said. Answer: *Rewrite this sentence
-using reported speech, adjusting the verb tense and the time reference.*
+**12.** *(Abierta — tabla)* Complete: Available editing computers: ___ / Competing purchase: ___ / Evidence from viewers: ___ / Proposed way to evaluate captions: ___.
 
-**15.** *(Selección múltiple — desafiante)* Tu amiga no contestó el
-teléfono anoche, pero sabes que ella siempre lo tiene encendido. ¿Qué
-oración expresa mejor esta situación de **duda razonable**, no de certeza
-total?
+**13.** *(Abierta — articulación)* Combine the ideas into one grammatical sentence using “although”: “Visual effects may attract viewers. Readable captions are the club's first priority.” Preserve the contrast and meaning.
 
-a) She might have been asleep, or her phone might have been off.
-b) She must have lost her phone.
-c) She can't have a phone.
-d) She has must forgotten her phone.
+**14.** *(Abierta — crítica)* What does the proposal NOT establish about audience growth? Explain in one sentence why confusing access with guaranteed growth would overstate the evidence.
 
-**16.** *(Pregunta abierta — producción breve)* Escribe un texto breve
-(3-4 oraciones) sobre un tema de tu interés personal relacionado con el
-cuidado del medioambiente o la tecnología, integrando discurso indirecto,
-al menos un modal de especulación (*must have*, *might have*, *could
-have* o *can't have*) y una postura personal justificada con *in my
-opinion* o *from my point of view*.
+**15.** *(Selección múltiple)* Which outline matches the proposal's structure?
+
+a) Character description → imaginary dialogue → surprise ending
+b) Equipment advertisement → price list → order form
+c) Unrelated facts → no recommendation → personal greeting
+d) Resource problem → alternatives and evidence → justified recommendation
+
+**16.** *(Abierta — propuesta escrita)* Write a 4-sentence alternative or supporting proposal for the club: recommendation / evidence from C / one possible limitation / next step. Include one reported statement and one past modal of possibility. You may disagree if you justify your position.
 
 ---
 
-## OA N°4 — Producir y comprender con fluidez textos claros para interactuar y tomar conciencia de la propia identidad
+## OA N°4 — Producir y comprender textos para interactuar y explorar identidad
 
-**17.** *(Selección múltiple)* ¿Qué oración usa **léxico apropiado** para
-un texto sobre el sentido de pertenencia a una comunidad?
+### Text D — A student exhibition introduction (preguntas 17–25)
 
-a) "I know people."
-b) "Being part of my local community has given me a strong sense of
-   belonging, especially through shared traditions."
-c) "My town is fine."
-d) "There are people near my house."
+> Our exhibition, “Routes to Belonging”, presents maps made by students who have moved between neighbourhoods. A map may include a bus stop, a sports ground or a shop where someone first felt recognised. We do not claim that moving has the same meaning for everyone. Some contributors describe freedom; others describe loss. Each map includes a short reflection explaining how a place changed its maker's understanding of home.
 
-**18.** *(Pregunta abierta — completar)* Complete the sentence using
-appropriate lexicon about identity: *"Growing up speaking two languages
-has shaped my ___ (identity / thing) in ways I'm still discovering."*
+### Text E — Transcript of an exhibition interview
 
-**19.** *(Pregunta abierta — verdadero o falso)* Sintetizar información de
-un texto leído y uno escuchado sobre un mismo tema puede incluir señalar
-tanto coincidencias como diferencias entre ambas fuentes.
+> Interviewer: Your map centres on a bus stop rather than a house. Why?
+> Student: When I moved, I thought home was only the building I had left. At the bus stop I met people who remembered my name. One driver told me that she had once felt like a stranger too. Those conversations helped, although I still miss my old street. I don't think belonging means forgetting where you came from.
 
-**20.** *(Pregunta abierta — completar)* Complete the synthesis frame:
-*"___ the article, teenagers who volunteer report higher self-esteem.
-___, in the interview, a student mentioned that helping others made her
-feel more confident. Both sources ___ that volunteering has a positive
-effect on identity."* (According to / Meanwhile / suggest)
+**17.** *(Selección múltiple)* Which sentence best represents the student's understanding of belonging?
 
-**21.** *(Pregunta abierta — emparejar)* Relaciona la expresión con su
-función: *"overall"* → ¿"introducir una conclusión general al cierre de
-un texto" o "citar textualmente una fuente"?
+a) Feeling welcome requires erasing all memories of previous places.
+b) Only owning a house can give someone a sense of home.
+c) New relationships can create belonging without removing attachment to an earlier home.
+d) Public places can never contribute to personal identity.
 
-**22.** *(Pregunta abierta — responder en inglés)* Read this short
-transcript: *"Interviewer: What does being Chilean mean to you?
-Teenager: It means valuing family, sharing good food, and being proud of
-where I come from, even when I disagree with some things about my
-country."* Answer: *According to the teenager, what does being Chilean
-mean to them?*
+**18.** *(Abierta — léxico en contexto)* Write one sentence for an exhibition caption using “sense of belonging” and a concrete detail from E.
 
-**23.** *(Selección múltiple — desafiante)* Estás escribiendo el párrafo
-de cierre de un texto sobre tu propia identidad, integrando estructuras
-del ciclo escolar. ¿Qué oración logra esto de forma más completa?
+**19.** *(Abierta — síntesis)* In two sentences, explain a shared idea in D and E and a detail from E that gives that idea a personal perspective. Use a connector and attribute each source.
 
-a) "I speak two languages."
-b) "If I hadn't grown up speaking the language that is still spoken at
-   home every day, I wouldn't have felt as connected to my grandparents'
-   culture."
-c) "My family speaks a language."
-d) "Languages are spoken in many families."
+**20.** *(Abierta — comprensión y precisión)* Rewrite this inaccurate caption so that it is faithful to E: “The student no longer misses the old neighbourhood because the driver replaced all earlier relationships.” Write one or two sentences.
 
-**24.** *(Pregunta abierta — completar)* Complete the synthesis using the
-passive voice: *"The article claims that teenagers who travel abroad
-develop a broader worldview. This idea ___ (support) by the interview,
-where a student said that visiting another country had changed the way
-she saw her own identity."*
+**21.** *(Abierta — adaptar registro)* Write a polite two-sentence email to the exhibition organisers asking whether you may contribute a map and explaining one suitable theme. Use a formal greeting and closing outside the two sentences.
 
-**25.** *(Pregunta abierta — producción breve)* Escribe un párrafo de
-cierre (3-4 oraciones) reflexionando sobre tu propia identidad, a partir
-de un tema distinto al de las familias o tradiciones (por ejemplo, un
-lugar, una lengua o una actividad que te representa), integrando al menos
-una estructura gramatical trabajada este año (discurso indirecto o modal
-de especulación) y una del ciclo anterior (voz pasiva, oración de
-relativo o tercer condicional).
+**22.** *(Abierta — perspectiva personal)* In two or three sentences, explain whether an activity, rather than a place, could provide belonging. Include an example and relate it to one idea from D or E. Experiences may be invented.
+
+**23.** *(Selección múltiple)* Which conclusion avoids generalising beyond the two sources?
+
+a) Every student experiences moving as a completely positive event.
+b) These accounts suggest that belonging can involve both new connections and continuing attachments.
+c) Nobody can feel at home in more than one place.
+d) The interview proves that bus stops are the only welcoming public spaces.
+
+**24.** *(Abierta — oración y perspectiva)* Imagine a contributor says, “People welcomed me at the art club.” Write a new sentence using the passive and a relative clause to describe the club's effect on that contributor's identity.
+
+**25.** *(Abierta — reflexión de cierre)* Write a 4–5 sentence reflection for “Routes to Belonging”: introduce a place or activity, explain its effect on identity, connect it to BOTH D and E, and end with your own conclusion. Include one reported statement or past modal of possibility and one passive or relative clause. Use varied connectors. You may invent the experience; omit identifying personal details.
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Anota una letra para cada cerrada. Responde las abiertas en una hoja aparte con su número.
 
-| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
----
+| Pregunta | 1 | 7 | 10 | 15 | 17 | 23 |
+|---|---|---|---|---|---|---|
+| Respuesta | | | | | | |
 
 ## PAUTA DE CORRECCIÓN
 
-| N° | Clave / Respuesta esperada | OA |
+**Cerradas:** 1 punto por la única letra correcta, 0 por otra respuesta, omisión o marca múltiple.
+**Abiertas:** 1 punto si satisface todos los criterios de su fila; 0,5 si logra una parte sustantiva sin contradecir el sentido central; 0 si es irrelevante, contradice la fuente o está en blanco. Aceptar paráfrasis, variantes gramaticales válidas y posturas distintas con justificación. No descontar por errores menores si el significado es claro. Las producciones personales requieren rúbrica y revisión, nunca comparación literal automática con una frase modelo.
+
+| N° | Clave / criterios de logro para 1 punto | OA |
 |---|---|---|
-| 1 | c) A society where the government controls information and punishes independent thought. | OA1 |
-| 2 | entertaining / informative. | OA1 |
-| 3 | A space station in 2200 / Nadia / the AI has been hiding information from the crew. | OA1 |
-| 4 | da una opinión evaluativa sobre una obra. | OA1 |
-| 5 | True (Verdadero) — el medio (revista para desarrolladores) y el contenido técnico indican audiencia especializada. | OA1 |
-| 6 | True (Verdadero) — *skimming* (idea general) y *scanning* (dato puntual) son estrategias de lectura distintas. | OA1 |
-| 7 | d) Time travel and its unexpected consequences. | OA1 |
-| 8 | Respuesta personal coherente, p. ej.: *"A government website would use formal, precise language to explain regulations, while a personal blog about the same science-fiction topic would use informal, humorous language to entertain readers."* | OA1 |
-| 9 | he had been. | OA3 |
-| 10 | a) He must have walked through a sprinkler or spilled water on himself. | OA3 |
-| 11 | True (Verdadero) — *might have* expresa posibilidad, no certeza absoluta. | OA3 |
-| 12 | collecting vintage vinyl records / since age twelve / jazz. | OA3 |
-| 13 | una posibilidad no confirmada sobre el pasado. | OA3 |
-| 14 | *They said that they were going to travel to Japan the following year.* | OA3 |
-| 15 | a) She might have been asleep, or her phone might have been off. | OA3 |
-| 16 | Respuesta personal coherente, p. ej.: *"My friend told me that she had stopped using plastic bags last year. I think this must have been a difficult change at first, because plastic is so common. In my opinion, small individual choices like this can still make a difference."* | OA3 |
-| 17 | b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions." | OA4 |
-| 18 | identity. | OA4 |
-| 19 | True (Verdadero) — una buena síntesis también puede señalar en qué difieren las fuentes, no solo en qué coinciden. | OA4 |
-| 20 | According to / Meanwhile / suggest. | OA4 |
-| 21 | introducir una conclusión general al cierre de un texto. | OA4 |
-| 22 | *It means valuing family, sharing good food, and being proud of where they come from, even when they disagree with some things about their country.* | OA4 |
-| 23 | b) "If I hadn't grown up speaking the language that is still spoken at home every day, I wouldn't have felt as connected to my grandparents' culture." | OA4 |
-| 24 | is supported. | OA4 |
-| 25 | Respuesta personal coherente, p. ej.: *"Having grown up in a coastal town, I've realized that the ocean is a big part of who I am. My older brother once told me that he had learned to sail before he could ride a bike. If I hadn't grown up so close to the sea, I wouldn't feel as calm as I do whenever I'm near it."* | OA4 |
+| 1 | c) La memoria omite voces y se presenta como completa; los distractores inventan conflictos no narrados. | OA1 |
+| 2 | Evaluar/recomendar novela, respaldado por juicio de calidad; lectores desde 15 años interesados en tecnología/pertenencia, según recomendación final. | OA1 |
+| 3 | Préstamo de recuerdos grabados / faltan voces de jardineros / recopila relatos y pide incluirlos. Tres campos fieles. | OA1 |
+| 4 | Identifica un juicio como final demasiado rápido o pregunta valiosa y explica que evaluar calidad distingue la reseña del mero resumen. | OA1 |
+| 5 | Relaciona ausencia visual con personas excluidas del relato archivado; interpretación apoyada en el texto, sin exigir vocabulario literal. | OA1 |
+| 6 | Puede traer dibujo o hacerlo con materiales disponibles, sin foto; debe contactar al centro por puesto accesible. | OA1 |
+| 7 | a) Contrasta inclusión de voces y control de consentimiento. Las otras inventan obligaciones o confunden ficción y aviso. | OA1 |
+| 8 | 18 July, 2–4 p.m. / by 15 July / free / permiso previo y posibilidad de retirar relato. | OA1 |
+| 9 | Lee said that they had tested the caption tool. Aceptar he/she si se usa consistentemente; exige had tested y referencia clara a Lee. | OA3 |
+| 10 | b) Might have misidentified expresa posibilidad pasada; las otras no ofrecen explicación incierta fiel a los datos. | OA3 |
+| 11 | Priorizar edición de subtítulos; razón: espectadores no siguen entrevistas sin subtítulos legibles o errores de nombres. Dos ideas enlazadas. | OA3 |
+| 12 | One / visual effects software / dos espectadores dejaron de ver entrevistas por subtítulos ilegibles o ausentes / pedir prueba a espectadores. | OA3 |
+| 13 | Although visual effects may attract viewers, readable captions are the club's first priority. Aceptar orden inverso sin cambiar sentido. | OA3 |
+| 14 | No demuestra crecimiento futuro de audiencia; facilitar acceso existente no garantiza más espectadores. | OA3 |
+| 15 | d) Representa problema de recursos, alternativas/evidencia y recomendación razonada; los otros géneros no corresponden. | OA3 |
+| 16 | Cuatro oraciones con recomendación, evidencia fiel, límite plausible y siguiente paso; discurso indirecto correcto y might/could have + participio en explicación posible, no hecho inventado como probado. Aceptar desacuerdo fundamentado. | OA3 |
+| 17 | c) Integra relaciones nuevas con apego previo; las demás contradicen E o imponen requisitos inexistentes. | OA4 |
+| 18 | Oración completa con sense of belonging y detalle pertinente (p. ej., reconocimiento por nombre en paradero). | OA4 |
+| 19 | Atribuye a exposición e entrevista relación lugares/pertenencia o experiencia diversa; integra detalle personal del paradero, vínculos o añoranza, con conector. | OA4 |
+| 20 | Elimina falsa sustitución/olvido: nuevas conversaciones ayudaron y estudiante aún extraña calle anterior. | OA4 |
+| 21 | Saludo/cierre formales, dos oraciones corteses: consulta por aportar mapa y tema pertinente explicado, sin datos privados. | OA4 |
+| 22 | Posición clara, ejemplo de actividad y conexión explícita con lugar/relaciones/pertenencia en D o E. Aceptar postura afirmativa o negativa fundamentada. | OA4 |
+| 23 | b) Síntesis cauta de vínculos nuevos y anteriores; las demás universalizan o excluyen sin evidencia. | OA4 |
+| 24 | Oración coherente con was welcomed y relativo que conecta club/experiencia con identidad, p. ej., I was welcomed at an art club that helped me see myself as an artist. Admitir otras formulaciones equivalentes. | OA4 |
+| 25 | 4–5 oraciones con lugar/actividad y efecto identitario; integración fiel de ambas fuentes, conclusión propia; discurso indirecto o modal pasado, pasiva o relativo y conectores variados pertinentes. No exige experiencia ni opinión particular. | OA4 |
 
 ### Resumen de puntaje por OA
 
-| OA | N° de preguntas | Preguntas |
-|---|---|---|
-| OA N°1 — Comprender información relevante para un propósito específico en textos, para conocer cómo otras culturas los abordan | 8 | 1–8 |
-| OA N°3 — Usar el inglés para comprender y producir textos claros, construyendo una postura personal crítica | 8 | 9–16 |
-| OA N°4 — Producir y comprender con fluidez textos claros para interactuar y tomar conciencia de la propia identidad | 9 | 17–25 |
-| **Total** | **25** | — |
-
-**Distribución por tipo de pregunta:** 6 de selección múltiple (alternativas:
-preguntas 1, 7, 10, 15, 17 y 23) y 19 de respuesta abierta breve (completar,
-verdadero/falso, responder en inglés, completar organizador gráfico,
-emparejar y producción breve), en línea con el formato mixto del Examen
-Libre real de Inglés y con el banco de contenido de esta misma prueba.
-
----
+| OA | N° de preguntas | Preguntas | Puntaje máximo |
+|---|---|---|---|
+| OA 1 | 8 | 1–8 | 8 |
+| OA 3 | 8 | 9–16 | 8 |
+| OA 4 | 9 | 17–25 | 9 |
+| **Total** | **25** | **1–25** | **25** |
 
 # TABLA DE ESPECIFICACIONES
 
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo | Habilidades |
+|---|---|---|---|---|
+| OA 1 | 1–8 | 2 (1, 7) | 6 | Analizar ciencia ficción, propósito/audiencia/género, localizar y tabular para actuar. |
+| OA 3 | 9–16 | 2 (10, 15) | 6 | Reconocer propuesta, seleccionar datos, articular ideas y escribir postura con estructuras conocidas. |
+| OA 4 | 17–25 | 2 (17, 23) | 7 | Léxico identitario, síntesis de texto y transcripción, interacción y reflexión escrita. |
+| **Total** | **25 preguntas** | **6** | **19** | **25 puntos** |
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
-| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 2 | 6 |
-| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
-| **Total** | **25 preguntas** | **6** | **19** |
+**Procedencia y alcance:** textos e ítems nuevos para esta Forma B, no preguntas trasladadas de `contenido/04-medio/ingles.md`; esa guía conserva su función preparatoria. Fuente curricular: `Temarios/analisis/12-cuarto-medio.md`, sección Inglés, OA 1/3/4. La transcripción aproxima trabajo con dos fuentes, pero no acredita audición. La distribución cerradas/abiertas es de práctica, no una proporción oficial Mineduc.

@@ -268,10 +268,10 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|
-| OA 3 | 1, 2, 3, 4, 5 | 1 | 4 |
+| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
 | OA 4 | 6, 7, 8, 9 | 2 | 2 |
 | OA 7 | 10, 11, 12, 13 | 2 | 2 |
 | OA 8 | 14, 15, 16, 17 | 1 | 3 |
 | OA 9 | 18, 19, 20, 21 | 1 | 3 |
 | OA 15 | 22, 23, 24, 25 | 1 | 3 |
-| **Total** | **25 preguntas** | **8** | **17** |
+| **Total** | **25 preguntas** | **9** | **16** |

@@ -81,7 +81,7 @@ d) no se puede determinar sin más información
 **Respuesta correcta: b) decrecimiento, porque 0 < 0,85 < 1.**
 *Retroalimentación:* el signo de a solo indica que la cantidad inicial es positiva; lo que determina si el modelo crece o decrece es si el factor b es mayor o menor que 1.
 
-**Pregunta 2 (verdadero o falso).** En un modelo exponencial f(x) = a·bˣ con b>1, mientras mayor es b, más rápido crece la función.
+**Pregunta 2 (verdadero o falso).** En un modelo exponencial f(x) = a·bˣ con a>0 y b>1, la tasa de crecimiento porcentual por unidad de x aumenta cuando aumenta b.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* b representa el factor multiplicativo por unidad de x; un b más grande implica multiplicar por una cantidad mayor en cada período, acelerando el crecimiento.
@@ -102,7 +102,7 @@ d) 1,08%
 
 **Pregunta 5 (desarrollo — depreciación).** Un auto nuevo cuesta $12.000.000 y se deprecia un 12% anual, según el modelo V(t) = 12.000.000×(0,88)ᵗ. Calcula su valor aproximado después de 4 años.
 
-**Respuesta esperada:** (0,88)⁴ ≈ 0,5997. V(4) = 12.000.000×0,5997 ≈ **$7.196.160**.
+**Respuesta esperada:** (0,88)⁴ = 0,59969536. V(4) = 12.000.000×0,59969536 = $7.196.344,32 ≈ **$7.196.344**, redondeado al peso más cercano. Conviene conservar los decimales durante el cálculo y redondear solo al final: si se aproxima primero el factor a 0,5997, se obtiene $7.196.400, una aproximación menos precisa.
 *Retroalimentación:* en la depreciación, el valor no baja en una cantidad fija de pesos cada año, sino en un porcentaje del valor actual; por eso baja más rápido al principio (en pesos) que al final.
 
 **Pregunta 6 (desarrollo — vida media).** El carbono-14 tiene una vida media aproximada de 5.730 años. Si una muestra tiene inicialmente 80 g, ¿cuánto quedará después de 11.460 años?
@@ -455,7 +455,7 @@ d) P(A) + P(B) − P(A∩B)
 **Respuesta correcta: a) P(A∩B) / P(B).**
 *Retroalimentación:* la probabilidad condicional "reduce" el espacio muestral al evento que ya se sabe que ocurrió (B), por eso se divide por P(B).
 
-**Pregunta 10 (verdadero o falso).** Si dos eventos A y B son independientes, entonces P(A|B) = P(A).
+**Pregunta 10 (verdadero o falso).** Si dos eventos A y B son independientes y P(B)>0, entonces P(A|B) = P(A).
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* que dos eventos sean independientes significa exactamente eso: que saber que ocurrió B no cambia en nada la probabilidad de A.

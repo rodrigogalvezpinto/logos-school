@@ -83,7 +83,7 @@ c) P(A) × P(B)
 d) P(A) + P(B) − P(A∩B)
 
 **Pregunta 10.** (Verdadero o falso)
-Si dos eventos A y B son independientes, entonces P(A|B) = P(A).
+Si dos eventos A y B son independientes y P(B)>0, entonces P(A|B) = P(A).
 
 **Pregunta 11.** (Desarrollo — árbol sin reposición)
 En una bolsa hay 5 bolitas rojas y 3 azules. Se extraen dos bolitas al azar, sin reposición.

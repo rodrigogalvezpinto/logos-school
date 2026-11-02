@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { prepararAlumnoAislado, prepararIntentoReprobado } from './helpers';
 
 /** Coaching a la madre según el momento — idea propia (no un hallazgo de Brincus). Antes de
  * que el apoderado vea las notas de un hijo, si hay al menos una nota reprobada, un tip
@@ -9,8 +10,13 @@ import { test, expect } from '@playwright/test';
 test.describe('Coaching a la madre antes de ver una nota baja', () => {
   test.use({ storageState: 'e2e/.storage-sofia.json' });
 
+  test.beforeEach(async ({ page }) => {
+    await prepararAlumnoAislado(page);
+  });
+
   test('el apoderado ve el tip antes de las notas, y "Ver la nota" las revela', async ({ page }) => {
-    await page.goto('/apoderado/progreso/1');
+    const perfil = await prepararIntentoReprobado(page);
+    await page.goto(`/apoderado/progreso/${perfil.id}`);
     await expect(page.locator('h1')).toContainText('Mis Notas');
 
     const coaching = page.locator('.coaching-madre');
@@ -24,6 +30,7 @@ test.describe('Coaching a la madre antes de ver una nota baja', () => {
   });
 
   test('el propio alumno viendo sus notas no ve el coaching (es solo para el apoderado)', async ({ page }) => {
+    await prepararIntentoReprobado(page);
     await page.goto('/alumno/notas');
     await expect(page.locator('.coaching-madre')).toHaveCount(0);
     await expect(page.locator('.grid-notas')).toBeVisible();

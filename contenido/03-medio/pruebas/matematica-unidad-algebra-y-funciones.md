@@ -40,8 +40,8 @@ c) crecimiento, porque 0,85 es positivo
 d) no se puede determinar sin más información
 
 **Pregunta 2.** (Verdadero o falso)
-En un modelo exponencial f(x) = a·bˣ con b>1, mientras mayor es b, más rápido crece la
-función.
+En un modelo exponencial f(x) = a·bˣ con a>0 y b>1, la tasa de crecimiento porcentual
+por unidad de x aumenta cuando aumenta b.
 
 **Pregunta 3.**
 Si el factor de crecimiento de un modelo exponencial es b = 1,08, ¿cuál es la tasa de

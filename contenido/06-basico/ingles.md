@@ -4,7 +4,7 @@ curso: 6° Básico
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
 oa_evaluados: OA 5, OA 6, OA 8, OA 14, OA 15
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 6° Básico
@@ -203,11 +203,13 @@ porque aparece en muchos textos distintos.
    **Retroalimentación:** El texto ofrece productos y horarios de un lugar; esa
    estructura es típica de un aviso publicitario (*advertisement*).
 
-2. *(Completar)* Complete: *"I don't feel well. I think I ___ a cold."* (catch /
-   caught / catches)
+2. *(Completar)* Complete with the past simple: *"Yesterday I played in the rain
+   without a jacket. Today I don't feel well. I think I ___ a cold yesterday."*
+   (catch / caught / catches)
    **Respuesta correcta:** caught.
-   **Retroalimentación:** Como el síntoma ya ocurrió (ya está resfriado), se usa el
-   pasado de *catch*, que es *caught*.
+   **Retroalimentación:** La palabra *yesterday* indica que la acción de resfriarse
+   ocurrió en el pasado, por eso se usa el pasado simple de *catch*, que es
+   irregular: *caught*. *Catch* y *catches* son formas del presente.
 
 3. *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
    minutes."* Esto corresponde a instrucciones para preparar comida.
@@ -407,12 +409,13 @@ interés o de tu país, siguiendo el modelo dado.
    **Retroalimentación:** *See you soon* (nos vemos pronto) es una despedida
    típica de correos y notas informales entre amigos.
 
-4. *(Verdadero o falso)* En una tira cómica (*comic strip*) con animales que
-   hablan, es apropiado usar la frase *"Once upon a time"* para comenzar.
-   **Respuesta correcta:** True (Verdadero), especialmente si la tira cómica narra
-   una historia como un cuento.
-   **Retroalimentación:** *Once upon a time* (había una vez) es típico para iniciar
-   relatos o cuentos, incluso en formato de tira cómica.
+4. *(Verdadero o falso)* Una tira cómica (*comic strip*) cuenta un cuento de
+   fantasía sobre animales que hablan. Para comenzar ese cuento, es apropiado
+   usar la frase *"Once upon a time"*.
+   **Respuesta correcta:** True (Verdadero).
+   **Retroalimentación:** *Once upon a time* (había una vez) es la fórmula típica
+   para iniciar un cuento; como esta tira cómica narra un cuento, la frase es
+   adecuada también en ese formato.
 
 5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"Dear ___, I am
    going to visit ___ next weekend. I feel ___ about it."* Escribe tu propia

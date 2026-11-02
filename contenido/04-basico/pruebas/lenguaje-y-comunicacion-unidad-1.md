@@ -1,6 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 4° básico
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA 5","7":"OA 5","8":"OA 5","9":"OA 5"}
 unidad: Unidad 1
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
@@ -23,6 +24,8 @@ ultima_actualizacion: 2026-10-28
 
 ### Texto 1: "La sorpresa en Caleta Tortel"
 
+Lee este cuento y responde las preguntas 1 a 5:
+
 > Valentina vivía con su mamá y su abuela en Caleta Tortel, un pueblo de la Región de Aysén construido casi completamente sobre pasarelas de madera, porque ahí no hay calles de tierra: todo el pueblo se conecta caminando sobre puentes de ciprés. A Valentina le encantaba el olor a mar y a bosque que se sentía en las mañanas.
 >
 > Ese sábado, su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta. Valentina tomó su chaqueta amarilla y salió corriendo por las pasarelas. Cuando llegó al depósito de leña, se dio cuenta de que alguien ya había amontonado toda la leña en bolsas, lista para llevar. Se quedó mirando, sorprendida, sin saber quién lo había hecho.
@@ -30,6 +33,8 @@ ultima_actualizacion: 2026-10-28
 > Cuando volvió a la casa cargando las bolsas, encontró a su vecino Wladimir sentado en la entrada, con las manos llenas de astillas de madera. "Vi las nubes negras esta mañana y pensé que tu abuela iba a necesitar ayuda", le dijo con una sonrisa. Valentina sintió que el corazón se le llenaba de alegría: por fin entendía por qué la leña ya estaba lista. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera llovía fuerte, las tres —Valentina, su mamá y su abuela— comieron sopaipillas calentitas junto a la estufa, agradecidas de tener un vecino tan atento.
 
 ### Texto 2: "El volcán dormido" (poema)
+
+Lee este poema y responde las preguntas 6 a 9:
 
 > El volcán se puso su manto blanco
 > y se acostó a dormir en la montaña.

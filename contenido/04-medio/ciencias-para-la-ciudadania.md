@@ -398,11 +398,13 @@ el **calentamiento global** (aumento de la temperatura media del planeta),
 la **pérdida de biodiversidad** (especies que no pueden migrar o adaptarse
 a tiempo), la **acidificación de los océanos** (que afecta a organismos con
 conchas o esqueletos calcáreos, como moluscos y corales) y el
-**derretimiento de glaciares** (crítico en Chile, país con la mayor
-superficie de glaciares de Sudamérica fuera de la Patagonia Antártica: su
-retroceso reduce las reservas de agua dulce para ciudades, agricultura y
-minería en la zona central y norte, que dependen del deshielo cordillerano
-en época estival).
+**derretimiento de glaciares** (relevante en Chile por su papel como
+reservas de agua dulce: su retroceso reduce esas reservas y puede afectar
+el aporte de agua a ciudades, agricultura y minería en cuencas de la zona
+central y norte, especialmente durante veranos secos). El [Inventario
+Público de Glaciares de la DGA, actualización 2022](https://dga.mop.gob.cl/inventario-publico-glaciares/)
+registra la superficie glaciar del Chile continental; no debe confundirse
+la Patagonia con la Antártica ni el número de glaciares con su superficie.
 
 **4. Evaluación crítica de soluciones de mitigación.** Mitigar el cambio
 climático significa **reducir sus causas** (a diferencia de la adaptación,

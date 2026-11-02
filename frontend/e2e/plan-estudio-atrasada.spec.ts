@@ -1,4 +1,4 @@
-import { execSync } from 'node:child_process';
+import { API_URL, ejecutarSqlPrueba } from './helpers';
 import { test, expect, type APIRequestContext, type Browser, type Page } from '@playwright/test';
 
 /** Chip "Atrasada" del Plan de Estudio y su reflejo en la campana de notificaciones, ambos
@@ -64,15 +64,15 @@ async function sembrarSesionAtrasada(page: Page, request: APIRequestContext): Pr
   const headers = { Authorization: `Bearer ${token}` };
 
   const plan = await (
-    await request.post(`http://localhost:8000/plan-estudio/${perfil.id}`, {
+    await request.post(`${API_URL}/plan-estudio/${perfil.id}`, {
       headers,
       data: { dias_por_semana: 3, dias_elegidos: ['lunes', 'miercoles', 'viernes'] },
     })
   ).json();
   const primeraSesionId = plan.sesiones[0].id;
 
-  execSync(
-    `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_qa" -c "UPDATE sesion_estudio SET fecha_programada = current_date - interval '1 day' WHERE id = ${primeraSesionId}"`,
+  ejecutarSqlPrueba(
+    `UPDATE sesion_estudio SET fecha_programada = current_date - interval '1 day' WHERE id = ${primeraSesionId}`,
   );
 }
 

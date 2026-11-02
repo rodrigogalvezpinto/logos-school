@@ -1,4 +1,5 @@
 import { test, expect, type APIRequestContext, type Browser, type Page } from '@playwright/test';
+import { API_URL } from './helpers';
 
 /** Alerta temprana de ritmo de estudio — idea propia (no un hallazgo de la competencia, ver
  * planificacion/27-plan-incorporacion-hallazgos-brincus.md). Necesita una fecha objetivo en
@@ -82,7 +83,7 @@ test.describe('Alerta de ritmo de estudio', () => {
     const headers = { Authorization: `Bearer ${token}` };
     const fechaCercana = new Date();
     fechaCercana.setDate(fechaCercana.getDate() + 3);
-    await request.post(`http://localhost:8000/plan-estudio/${perfilId}`, {
+    await request.post(`${API_URL}/plan-estudio/${perfilId}`, {
       headers,
       data: {
         dias_por_semana: 3,
@@ -99,7 +100,7 @@ test.describe('Alerta de ritmo de estudio', () => {
 
   test('un plan sin fecha objetivo no muestra ninguna alerta', async () => {
     const headers = { Authorization: `Bearer ${token}` };
-    await request.post(`http://localhost:8000/plan-estudio/${perfilId}`, {
+    await request.post(`${API_URL}/plan-estudio/${perfilId}`, {
       headers,
       data: { dias_por_semana: 3, dias_elegidos: ['lunes', 'miercoles', 'viernes'] },
     });
@@ -114,7 +115,7 @@ test.describe('Alerta de ritmo de estudio', () => {
     const fechaCercana = new Date();
     fechaCercana.setDate(fechaCercana.getDate() + 10);
     const plan = await (
-      await request.post(`http://localhost:8000/plan-estudio/${perfilId}`, {
+      await request.post(`${API_URL}/plan-estudio/${perfilId}`, {
         headers,
         data: {
           dias_por_semana: 3, dias_elegidos: ['lunes', 'miercoles', 'viernes'],
@@ -126,7 +127,7 @@ test.describe('Alerta de ritmo de estudio', () => {
     const oaIds = new Set<number>();
     for (const sesion of plan.sesiones) for (const oaId of sesion.oa_ids) oaIds.add(oaId);
     for (const oaId of oaIds) {
-      await request.post(`http://localhost:8000/progreso/${perfilId}/guias/${oaId}/revisada`, { headers });
+      await request.post(`${API_URL}/progreso/${perfilId}/guias/${oaId}/revisada`, { headers });
     }
 
     await page.goto('/alumno/notas');

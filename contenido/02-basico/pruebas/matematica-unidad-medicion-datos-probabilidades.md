@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 2° Básico
+oa_por_pregunta: {"3":"OA 19","4":"OA 20","5":"OA 20","6":"OA 22","7":"OA 22","8":"OA 22"}
 eje: Medición y Datos y Probabilidades (OA 19, 20, 22)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

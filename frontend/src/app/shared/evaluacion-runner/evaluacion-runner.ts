@@ -1,11 +1,13 @@
 import { Component, Input, OnInit, signal, computed, inject } from '@angular/core';
 import { Router } from '@angular/router';
+import { NgTemplateOutlet } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.service';
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
 import { MarkdownPipe } from '../markdown.pipe';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
+type RevisionDesarrollo = 'correcta' | 'parcial' | 'incorrecta';
 
 export interface PreguntaRunner {
   id: number;
@@ -19,8 +21,20 @@ export interface PreguntaRunner {
 @Component({
   selector: 'app-evaluacion-runner',
   standalone: true,
-  imports: [FormsModule, BotonEscuchar, MarkdownPipe],
+  imports: [FormsModule, BotonEscuchar, MarkdownPipe, NgTemplateOutlet],
   template: `
+    <ng-template #revisionDesarrollo let-id>
+      <fieldset class="revision-desarrollo">
+        <legend>Compara tu respuesta con la pauta</legend>
+        @for (estado of estadosRevision; track estado.valor) {
+          <button type="button" class="btn btn--secundario"
+            [attr.aria-pressed]="revisionesDesarrollo()[id] === estado.valor"
+            [disabled]="!respuestaParaRevision(id)?.trim()"
+            (click)="revisarDesarrollo(id, estado.valor)">{{ estado.texto }}</button>
+        }
+        <p>Es tu revisión personal, no una corrección automática. No cambia la nota y no se guarda al salir.</p>
+      </fieldset>
+    </ng-template>
     @if (cargando()) {
       <p class="cargando">Cargando…</p>
     } @else if (!empezada()) {
@@ -47,6 +61,7 @@ export interface PreguntaRunner {
       </div>
     } @else if (!enviada()) {
       <div class="runner" [class.runner--examen]="modo === 'examen'">
+        <h1>{{ nombreEvaluacion }}</h1>
         <div class="runner__barra">
           @if (modo !== 'examen') {
             <button class="runner__salir" (click)="volver()">← Salir (guarda tu avance)</button>
@@ -123,7 +138,7 @@ export interface PreguntaRunner {
               <button
                 type="button"
                 class="btn btn--secundario btn-ayuda-practica"
-                [disabled]="!respuestas()[preguntaActual.id]"
+                [disabled]="!respuestas()[preguntaActual.id]?.trim()"
                 (click)="solicitarAyuda(preguntaActual.id)"
               >
                 💡 Comprobar respuesta / Ver explicación
@@ -150,10 +165,11 @@ export interface PreguntaRunner {
                   <!-- Pregunta abierta / desarrollo: No juzga como incorrecta; ofrece solución orientativa -->
                   <div class="feedback__orientativo">
                     <p class="feedback__titulo">Pauta de autoevaluación:</p>
-                    <p><strong>Idea clave esperada:</strong> {{ preguntaActual.respuesta_correcta }}</p>
+                    <div [innerHTML]="preguntaActual.respuesta_correcta | markdown"></div>
                     @if (preguntaActual.retroalimentacion) {
                       <div class="feedback__retro" [innerHTML]="preguntaActual.retroalimentacion | markdown"></div>
                     }
+                    <ng-container [ngTemplateOutlet]="revisionDesarrollo" [ngTemplateOutletContext]="{ $implicit: preguntaActual.id }" />
                   </div>
                 }
               </div>
@@ -228,13 +244,14 @@ export interface PreguntaRunner {
     } @else {
       <div class="resultado tarjeta">
         <span class="resultado__etiqueta">Resultado</span>
+        <h1>{{ nombreEvaluacion }}</h1>
         @if (modo !== 'autoevaluacion') {
           <p class="resultado__nota" [class.resultado__nota--reprobada]="notaFinal() !== null && notaFinal()! < 4">
-            Nota: {{ notaFinal() }}
+            <span class="resultado__alcance-nota">Nota de preguntas autocorregibles:</span> {{ notaFinal() }}
           </p>
           <p class="resultado__puntaje">{{ puntajeFinal() }} de {{ totalAutocorregible() }} correctas (autocorregibles)</p>
         }
-        <h3>Revisa tu resultado</h3>
+        <h2>Revisa tu resultado</h2>
         <p>
           @if (modo === 'autoevaluacion') {
             Practica completada. Puedes repetirla cuando quieras.
@@ -280,6 +297,19 @@ export interface PreguntaRunner {
                       <p>Tu respuesta: <strong>{{ d.respuesta_alumno || '(en blanco)' }}</strong></p>
                       @if (d.respuesta_correcta) {
                         <p>Respuesta correcta: <strong>{{ d.respuesta_correcta }}</strong></p>
+                      }
+                      @if (d.pauta_orientativa) {
+                        <p><strong>Pauta orientativa para revisar tu respuesta:</strong></p>
+                        <div [innerHTML]="d.pauta_orientativa | markdown"></div>
+                      }
+                      @if (d.retroalimentacion) {
+                        <div [innerHTML]="d.retroalimentacion | markdown"></div>
+                      }
+                      @if (d.es_correcta === null) {
+                        @if (!d.respuesta_alumno?.trim()) {
+                          <p>Dejaste esta respuesta en blanco. Puedes estudiar la pauta para intentarlo de nuevo.</p>
+                        }
+                        <ng-container [ngTemplateOutlet]="revisionDesarrollo" [ngTemplateOutletContext]="{ $implicit: d.pregunta_id }" />
                       }
                     </td>
                   </tr>
@@ -330,6 +360,12 @@ export class EvaluacionRunner implements OnInit {
   respuestas = signal<Record<number, string>>({});
   marcadas = signal<Set<number>>(new Set());
   ayudasReveladas = signal<Set<number>>(new Set());
+  revisionesDesarrollo = signal<Record<number, RevisionDesarrollo>>({});
+  readonly estadosRevision = [
+    { valor: 'correcta', texto: 'Correcta' },
+    { valor: 'parcial', texto: 'Parcial' },
+    { valor: 'incorrecta', texto: 'Incorrecta' },
+  ] as const;
   mostrarAvisoIncompleto = signal(false);
   tiempoRestanteSeg = signal(0);
   puntajeFinal = signal<number | null>(null);
@@ -399,10 +435,22 @@ export class EvaluacionRunner implements OnInit {
 
   esCorrectaEnAutoevaluacion(p: PreguntaRunner): boolean {
     const dada = (this.respuestas()[p.id] || '').trim().toLowerCase();
-    return dada === (p.respuesta_correcta || '').trim().toLowerCase();
+    return dada.length > 0 && (p.tipo === 'alternativas' || p.tipo === 'verdadero_falso')
+      && dada === (p.respuesta_correcta || '').trim().toLowerCase();
   }
 
-  faltantes = computed(() => this.preguntas.filter((p) => this.respuestas()[p.id] === undefined));
+  respuestaParaRevision(id: number): string | null | undefined {
+    return this.respuestas()[id] ?? this.detalle().find(d => d.pregunta_id === id)?.respuesta_alumno;
+  }
+
+  revisarDesarrollo(id: number, estado: RevisionDesarrollo) {
+    const tipo = this.preguntas.find(p => p.id === id)?.tipo ?? this.detalle().find(d => d.pregunta_id === id)?.tipo;
+    if (!tipo || tipo === 'alternativas' || tipo === 'verdadero_falso' || !this.respuestaParaRevision(id)?.trim()) return;
+    if (!this.enviada() && !this.ayudasReveladas().has(id)) return;
+    this.revisionesDesarrollo.update(r => ({ ...r, [id]: estado }));
+  }
+
+  faltantes = computed(() => this.preguntas.filter((p) => !this.respuestas()[p.id]?.trim()));
 
   faltantesTexto(): string {
     const nums = this.faltantes().map((f) => this.preguntas.findIndex((p) => p.id === f.id) + 1);
@@ -436,6 +484,13 @@ export class EvaluacionRunner implements OnInit {
   }
 
   responder(preguntaId: number, valor: string) {
+    if (this.respuestas()[preguntaId] !== valor) {
+      this.revisionesDesarrollo.update(r => {
+        const actualizadas = { ...r };
+        delete actualizadas[preguntaId];
+        return actualizadas;
+      });
+    }
     this.respuestas.update((r) => ({ ...r, [preguntaId]: valor }));
     if (this.intentoId) {
       this.evaluacionesService.responder(this.intentoId, preguntaId, valor).subscribe();

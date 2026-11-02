@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { API_URL } from './helpers';
 
 /** Mapa de calor por eje temático — idea propia (no un hallazgo de la competencia, ver
  * planificacion/27-plan-incorporacion-hallazgos-brincus.md).
@@ -83,19 +84,19 @@ test('el mapa de calor agrupa por asignatura y eje temático tras rendir un exam
   const headers = { Authorization: `Bearer ${token}` };
 
   const intento = await (
-    await request.post('http://localhost:8000/evaluaciones/intentos', {
+    await request.post(`${API_URL}/evaluaciones/intentos`, {
       headers,
       data: { perfil_alumno_id: perfil.id, conjunto_evaluacion_id: CONJUNTO_EXAMEN_ID },
     })
   ).json();
 
   for (const [preguntaId, respuesta] of Object.entries(RESPUESTAS_CORRECTAS)) {
-    await request.patch(`http://localhost:8000/evaluaciones/intentos/${intento.id}/responder`, {
+    await request.patch(`${API_URL}/evaluaciones/intentos/${intento.id}/responder`, {
       headers,
       data: { pregunta_id: Number(preguntaId), respuesta },
     });
   }
-  await request.post(`http://localhost:8000/evaluaciones/intentos/${intento.id}/entregar`, { headers });
+  await request.post(`${API_URL}/evaluaciones/intentos/${intento.id}/entregar`, { headers });
 
   await page.goto('/alumno/notas');
   await page.waitForSelector('.prediccion');

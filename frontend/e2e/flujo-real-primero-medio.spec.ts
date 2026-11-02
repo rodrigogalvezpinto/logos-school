@@ -197,6 +197,8 @@ test.describe.serial('Validación de flujo real: Apoderado y Alumno de 1° Medio
       const primeraOpcion = page.locator('.opcion').first();
       await expect(primeraOpcion).toBeVisible();
       await primeraOpcion.click();
+      await expect(page.locator('.feedback')).not.toBeVisible();
+      await page.getByRole('button', { name: /Comprobar respuesta \/ Ver explicación/ }).click();
       await expect(page.locator('.feedback')).toBeVisible();
     }
   });

@@ -91,5 +91,7 @@ class DetallePregunta:
     respuesta_alumno: str | None
     respuesta_correcta: str | None
     es_correcta: bool | None
+    pauta_orientativa: str | None = None
+    retroalimentacion: str = ""
     """`None` en los tres campos de corrección cuando la pregunta no es autocorregible
     (ej. desarrollo_breve) — no hay una "respuesta correcta" única que mostrar."""

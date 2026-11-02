@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 6° básico
+oa_por_pregunta: {"2":"OA 8","10":"OA 13","12":"OA 13"}
 unidad: Eje 2 — Ciencias Físicas y Químicas
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

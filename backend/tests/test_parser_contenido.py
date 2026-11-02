@@ -1,9 +1,41 @@
 import sys
 from pathlib import Path
 
+import pytest
+
 sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
 
 from parser_contenido import parsear_guia
+
+def test_modulo_del_encabezado_se_hereda_sin_contaminar_el_oa_anterior():
+    texto = """
+## Módulo 3: Ambiente y Sostenibilidad
+### OA N°2 — Proyectos locales
+#### Autoevaluación
+**1. (Desarrollo breve)** Explica un proyecto.
+**Pauta manual:** Explicación del proyecto.
+## Módulo 4: Tecnología y Sociedad
+### OA N°2 — Otro objetivo
+Otro contenido.
+"""
+    objetivos = parsear_guia(texto)
+    assert [(oa.modulo, oa.codigo_oficial) for oa in objetivos] == [("3", "OA 2"), ("4", "OA 2")]
+    assert "Módulo 4" not in objetivos[0].preguntas[0].respuesta_correcta
+    assert objetivos[0].descripcion.endswith("(Módulo 3)")
+
+
+def test_modulo_real_ciencias_cuarto_medio_se_conserva_en_la_identidad():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/04-medio/ciencias-para-la-ciudadania.md"
+    objetivos = parsear_guia(ruta.read_text(encoding="utf-8"))
+    assert [(oa.modulo, oa.codigo_oficial) for oa in objetivos] == [("3", "OA 2"), ("3", "OA 3")]
+    assert all("(Módulo 3)" in oa.descripcion for oa in objetivos)
+
+
+def test_modulo_explicito_incompatible_con_encabezado_se_rechaza():
+    texto = "## Módulo 3: Ambiente\n### OA N°2 — Proyectos (Módulo 4)\nContenido."
+    with pytest.raises(ValueError, match="contradict"):
+        parsear_guia(texto)
+
 
 TEXTO_BASE = """
 # Asignatura de prueba
@@ -65,6 +97,45 @@ def test_emoji_de_vineta_no_contamina_la_respuesta():
     objetivos = parsear_guia(TEXTO_BASE)
     preguntas = objetivos[0].preguntas
     assert preguntas[2].respuesta_correcta == "Verdadero"
+
+
+def test_anio_con_parentesis_no_divide_una_pregunta_de_evidencia():
+    texto = """
+## OA 3: Evidencia científica
+### Banco de preguntas de autoevaluación
+12. *(Evaluación de evidencia)* El terremoto de Valdivia de
+    1960 (magnitud 9.5, el mayor registrado) aparece en un gráfico.
+    ¿Qué permite afirmar ese registro?
+    **Respuesta esperada:** Hay exposición histórica, no predicción exacta.
+    **Retroalimentación:** El registro justifica medidas de mitigación.
+"""
+    preguntas = parsear_guia(texto)[0].preguntas
+    assert len(preguntas) == 1
+    assert "1960 (magnitud 9.5, el mayor registrado)" in preguntas[0].enunciado
+    assert preguntas[0].respuesta_correcta == "Hay exposición histórica, no predicción exacta"
+    assert preguntas[0].retroalimentacion == "El registro justifica medidas de mitigación."
+
+
+def test_pregunta_explicita_sin_punto_sigue_siendo_un_marcador_valido():
+    texto = """
+## OA 1: Evidencia
+### Banco de preguntas de autoevaluación
+**Pregunta 1 (Desarrollo breve).** Explica una conclusión.
+**Respuesta esperada:** Una conclusión respaldada por datos.
+**Retroalimentación:** Relaciona datos y conclusión.
+"""
+    preguntas = parsear_guia(texto)[0].preguntas
+    assert len(preguntas) == 1
+    assert preguntas[0].enunciado == "Explica una conclusión."
+    assert preguntas[0].respuesta_correcta == "Una conclusión respaldada por datos"
+
+
+def test_guia_real_ciencias_3m_no_crea_una_pregunta_para_el_anio_1960():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/03-medio/ciencias-para-la-ciudadania.md"
+    preguntas = [p for oa in parsear_guia(ruta.read_text(encoding="utf-8")) for p in oa.preguntas]
+    assert len(preguntas) == 60
+    assert all(p.respuesta_correcta for p in preguntas)
+    assert any("1960 (magnitud 9.5" in p.enunciado for p in preguntas)
 
 
 TEXTO_INGLES = """
@@ -356,6 +427,40 @@ def test_terminos_pareados_con_opciones_en_lineas_separadas_no_es_alternativas()
     assert pregunta.tipo == "desarrollo_breve"
     assert pregunta.opciones is None
     assert pregunta.respuesta_correcta == "1-c, 2-a, 3-b"
+
+
+TEXTO_PAUTA_MANUAL = """
+# Asignatura de prueba
+
+## OA N°1: Objetivo de ejemplo
+
+Contenido.
+
+### Banco de preguntas de autoevaluación — OA N°1
+
+**9. (Desarrollo breve)** Compara el efecto en dos audiencias distintas.
+
+*Pauta manual*: Completo: distingue producción de recepción con detalles de ambos
+textos. Parcial: comparación pertinente incompleta. Insuficiente: solo define términos.
+"""
+
+
+def test_pauta_manual_de_guia_se_reconoce_como_marca_de_respuesta():
+    """Bug real (04-medio/lengua-y-literatura.md, P9 de OA1 y OA3): las preguntas de
+    desarrollo más complejas traen "*Pauta manual*:" en vez de "Respuesta esperada:" ni
+    "Pauta de retroalimentación:" — sin esa variante, RE_RESPUESTA_MARCA/RE_PAUTA_MARCA
+    no encontraban ninguna marca y la respuesta quedaba vacía."""
+    objetivos = parsear_guia(TEXTO_PAUTA_MANUAL)
+    pregunta = objetivos[0].preguntas[0]
+    assert pregunta.respuesta_correcta.startswith("Completo: distingue producción")
+    assert pregunta.tipo == "desarrollo_breve"
+
+
+def test_guia_real_4medio_lengua_no_deja_respuestas_vacias():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/04-medio/lengua-y-literatura.md"
+    objetivos = parsear_guia(ruta.read_text(encoding="utf-8"))
+    preguntas = [p for oa in objetivos for p in oa.preguntas]
+    assert all(p.respuesta_correcta.strip() for p in preguntas)
 
 
 def test_oa_sin_numero_oficial_se_parsea_con_su_descriptor():

@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 6° Básico
+oa_por_pregunta: {"5":"OA 4"}
 eje: Eje 1 — Números y Operaciones
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones

@@ -1,6 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 1° Básico
+oa_por_pregunta: {"1":"OA 10","2":"OA 10","3":"OA 10","4":"OA 13","5":"OA 13","6":"OA 13","7":"OA 13"}
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7

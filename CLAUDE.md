@@ -8,9 +8,15 @@
 **Nombre oficial del producto: "Logos School"** (no solo "Logos") — usar este nombre en
 copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la marca.
 
-> **Rama de trabajo actual (2026-10-28):** `main`, sincronizada con `origin/main`.
-> Si un cambio necesita aislamiento, se puede crear una rama desde `main` y volver a
-> integrarla cuando esté lista.
+> **Estado vigente (2026-11-02): auditoría educativa EN CURSO, sin aprobación global.**
+> Se trabaja en `main`; el usuario solicita commit/push del avance como checkpoint, no cierre.
+> Alcance: material, temarios y funcionamiento de respuestas. No repetir lo ya aprobado en
+> su versión actual; cola de deltas y estado por curso en auditoría maestra §15.20–21. No desplegar.
+> Leer primero `docs/auditorias/00-CENTRO-DE-CONTROL-AUDITORIA.md` y las secciones vigentes
+> de `docs/auditorias/AUDITORIA_MAESTRA.md`. Las métricas y aprobaciones de agosto/octubre
+> que aparecen debajo son antecedentes históricos, no resultados del código actual.
+> En particular, no reutilizar 408 OA, 2.917 preguntas ni suites antiguas como evidencia
+> vigente. No confundir lectura completa, validez pedagógica e integridad funcional.
 
 ## Qué es este proyecto
 
@@ -19,16 +25,13 @@ rendirán los **Exámenes Libres de Validación de Estudios** del Ministerio de 
 Chile, de 1° a 8° básico y de 1° a 4° medio. Objetivo: accesible para todos, gratuita o de
 muy bajo costo.
 
-**Estado actual: 🚧 Etapa 1 (MVP) + Etapa 2 (Rol Profesor) + Fase 1 del plan de
-incorporación de hallazgos de Brincus construidas y verificadas localmente (2026-08-14),
-todavía sin desplegar.** Los 12 cursos (1° básico a 4° medio) tienen contenido de estudio
-100% completo: guía de estudio (explicación + ejemplos por OA), banco de preguntas de
-autoevaluación (2.917 preguntas, 408/408 OA oficiales), **156 pruebas de unidad** calibradas
-por edad (6-15 preguntas según ciclo, ver `planificacion/08-diseno-pruebas-vs-examenes.md`) y
-**exámenes tipo simulacro** que imitan exactamente el formato real de Mineduc (20 preguntas
-integradas en 1°-4° básico, 25 por asignatura desde 5° básico — confirmado en los 12 temarios
-oficiales). **Formas:** 1°-4° básico tienen Forma A y B integradas; desde 5° básico existe
-hoy **solo la Forma B** por asignatura — la Forma A de Régimen B/C está pendiente de construir.
+Hay implementaciones de MVP, Rol Profesor y Fase 1 de hallazgos de Brincus, pendientes de
+cierre integral sobre la versión actual. Existen **58 guías, 156 pruebas de unidad y
+50 simulacros** para los 12 cursos. La lectura disciplinar inicial alcanzó 264/264 recursos,
+pero aparecieron errores educativos, de importación y navegador: no están todos aprobados.
+Las cifras actuales, correcciones y pruebas ejecutadas se mantienen en los dos registros
+canónicos, evitando duplicarlas aquí. **Formas:** 1°-4° básico tienen A y B integradas;
+desde 5° básico existe solo Forma B por asignatura; Forma A de los regímenes B/C está pendiente.
 
 > **Actualización 2026-10-28:** la auditoría maestra
 > (`docs/auditorias/AUDITORIA_MAESTRA.md`) quedó integrada en `main` por el PR #8. Los 50

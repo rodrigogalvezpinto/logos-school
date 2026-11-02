@@ -59,6 +59,17 @@ test.describe('Accesibilidad (axe-core)', () => {
     await sinViolacionesGraves(page);
   });
 
+  test('Agregar Alumno (formulario del Apoderado) sin violaciones graves', async ({ page }) => {
+    await page.goto('/login');
+    await page.fill('input[type=email]', CREDENCIALES_PRUEBA.email);
+    await page.fill('input[type=password]', CREDENCIALES_PRUEBA.password);
+    await page.click('button[type=submit]');
+    await page.waitForURL('**/selector-perfil');
+    await page.goto('/agregar-alumno');
+    await page.waitForSelector('form');
+    await sinViolacionesGraves(page);
+  });
+
   test.describe('Páginas con identidad visual por asignatura', () => {
     test.use({ storageState: 'e2e/.storage-sofia.json' });
 

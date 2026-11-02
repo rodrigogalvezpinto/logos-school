@@ -2,9 +2,9 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
-basado_en: Banco de autoevaluación /contenido/06-basico/ingles.md (5 OA)
-relacionado: contenido/06-basico/ingles.md (preguntas distintas)
-última actualización: 2026-08-10
+basado_en: Temarios/analisis/06-sexto-basico.md (OA 5, 6, 8, 14 y 15)
+relacionado: contenido/06-basico/ingles.md (estímulos nuevos para los mismos OA)
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 6° Básico — FORMA B
@@ -19,177 +19,187 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 
 ### Instrucciones para el estudiante
 
-1. Lee cada pregunta con atención. Algunas preguntas incluyen un texto corto en
-   inglés (estímulo) que debes leer antes de responder.
-2. Hay dos tipos de preguntas:
-   - **Selección múltiple:** marca con una X la alternativa correcta (a, b, c o d).
-   - **Preguntas abiertas:** responde con una oración completa en inglés, siguiendo
-     el modelo que se te pide.
+1. Lee cada pregunta y su texto antes de responder. No necesitas memorizar las
+   respuestas de la guía: aquí encontrarás situaciones nuevas sobre los mismos temas.
+2. En selección múltiple marca una alternativa (a, b, c o d). En las preguntas
+   abiertas sigue la consigna: puede pedir una palabra, True/False o una oración.
 3. Puedes usar diccionario para buscar palabras que no conozcas.
-4. Todas las preguntas valen el mismo puntaje. No hay descuento por respuestas
-   incorrectas: si no estás seguro/a, responde de todas formas.
-5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
+4. Cada pregunta vale un punto. No hay descuento por respuestas incorrectas.
+5. En las respuestas personales se aceptan distintas ideas si cumplen el modelo
+   y la función solicitada; no debes coincidir con el ejemplo de la pauta.
+6. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 
 ---
 
 ## OA N°5 — Habilidades, direcciones, hora y presente vs. pasado
 
-**1.** *(Selección múltiple)* Read: *"Sofía can ride a bike, but she can't swim."*
-What can't Sofía do?
+**1.** *(Selección múltiple)* Read: *"My grandfather is a mechanic. He can fix
+cars and motorcycles, but he can't drive a bus."* What can't the grandfather do?
 
-a) Swim
-b) Ride a bike
-c) Cook
-d) Dance
+a) Drive a bus
+b) Fix cars
+c) Fix motorcycles
+d) Work as a mechanic
 
-**2.** *(Selección múltiple)* Read: *"Go straight three blocks. Turn right. The zoo
-is between the museum and the bank."* Where is the zoo?
+**2.** *(Selección múltiple)* Read: *"Get out of the subway station and walk to
+the traffic light. Cross the zebra crossing. The restaurant is behind the
+church."* Where is the restaurant?
 
-a) Next to the museum
-b) In front of the bank
-c) Between the museum and the bank
-d) Behind the hotel
+a) In front of the church
+b) Behind the church
+c) Next to the subway station
+d) Between the traffic light and the church
 
-**3.** *(Pregunta abierta — completar)* Complete with "can" or "can't": *A snake
-___ swim, but it ___ fly.*
+**3.** *(Pregunta abierta — completar)* The bus to Valparaíso leaves at 7:30.
+Complete with one word: *"The bus leaves at half ___ seven."*
 
-**4.** *(Pregunta abierta — responder en inglés)* Read: *"Every day Camila has
-lunch at home. Last year she had lunch at school because her house was far
-away."* Answer in English: *Where did Camila have lunch last year?*
+**4.** *(Pregunta abierta — responder en inglés)* Read: *"Now Florencia takes
+the subway to school. Last year she went to school by bicycle, because she
+lived near the school."* Answer in English: *How did Florencia go to school
+last year?*
 
-**5.** *(Pregunta abierta — completar)* Complete: *"It is 8:00. Write the time in
-English: eight ___."*
+**5.** *(Pregunta abierta — completar)* Read: *"This is Joaquín's farm. There
+are nine cows, fourteen hens and two horses."* Complete with the number in
+words: *"Joaquín has ___ hens."*
 
 ---
 
 ## OA N°6 — Notas, recetas, avisos y correos sobre temas cotidianos
 
-**6.** *(Selección múltiple)* Read: *"Mix the butter and the sugar. Add the
-flour. Bake for 30 minutes."* What kind of text is this?
+**6.** *(Selección múltiple)* Read: *"NEW! Happy Teeth Dental Clinic. Free
+check-up for children every Saturday morning. Call 22 555 0101."* What is the
+purpose of this text?
 
-a) A postcard
-b) A menu
-c) An advertisement
-d) A recipe
+a) To tell a story about a dentist
+b) To give a recipe
+c) To describe the weather
+d) To advertise a dental clinic
 
-**7.** *(Selección múltiple)* Read: *"Hi Camila, I can't go to school today. I
-have a cough and a fever. See you soon, Valentina."* Why can't Valentina go to
-school?
+**7.** *(Selección múltiple)* Read: *"Hello Ms. Castro, Benjamín can't come to
+the swimming class on Thursday. He caught a cold. He will be back next week.
+Thank you, Ana (Benjamín's mother)."* When will Benjamín come back to the
+swimming class?
 
-a) She is sick
-b) She is on vacation
-c) She has to work
-d) It is a holiday
+a) On Thursday
+b) Today
+c) Next week
+d) Tomorrow
 
-**8.** *(Pregunta abierta — completar)* Complete the dialogue: *"— What's the
-matter? — I ___ a headache."*
+**8.** *(Pregunta abierta — completar)* Complete the dialogue at a restaurant:
+*"— Can I ___ the chicken soup, please? — Here you are. — Thank you! — You're
+___."* (have / welcome)
 
-**9.** *(Pregunta abierta — responder en inglés)* Read a menu: *"Today's menu:
-chicken with rice — $3.000. Fruit juice — $1.000."* Answer in English: *How
-much is the chicken with rice?*
+**9.** *(Pregunta abierta — responder en inglés)* Read: *"Sandwich Corner.
+Cheese sandwich: $2.500. Egg sandwich: $2.200. Orange juice: $1.200. Open from
+8 am to 4 pm."* Answer in English: *What time does Sandwich Corner close?*
 
-**10.** *(Pregunta abierta — verdadero o falso)* Read: *"Fresh vegetables and
-fruit! Open every day from 9 am to 8 pm. Central Market."* Write True or
-False: *This text is an advertisement for a market.*
+**10.** *(Pregunta abierta — verdadero o falso)* Read the note: *"Mom, I'm at
+Grandma's house. We are having lunch together. I will be home at 6. Rocío."*
+Write True or False: *Rocío is having breakfast with her grandmother.*
 
 ---
 
 ## OA N°8 — Reaccionar y opinar sobre lo que leo en inglés
 
-**11.** *(Selección múltiple)* Which sentence expresses an opinion (una
-opinión)?
+**11.** *(Selección múltiple)* Read: *"On our boat trip, a huge whale swam next
+to us and jumped out of the water!"* Which sentence is a personal reaction
+(feeling) to this text?
 
-a) The zoo has many animals.
-b) I think the zoo is interesting.
-c) The zoo opens at 9 am.
-d) There are lions at the zoo.
+a) Whales live in the sea.
+b) There was one whale.
+c) The trip was on a boat.
+d) I feel excited when I read about the whale.
 
-**12.** *(Selección múltiple)* Read: *"Diego's mother is a firefighter. He
-thinks her job is exciting."* What does Diego think about his mother's job?
+**12.** *(Selección múltiple)* Read: *"Isidora visited the Atacama Desert with
+her class. At night she saw thousands of stars and she felt very happy."* How
+did Isidora feel at night?
 
-a) He thinks it is boring.
-b) He thinks it is exciting.
-c) He doesn't think about it.
-d) He thinks it is dangerous.
+a) Very happy
+b) Bored
+c) Tired
+d) Angry
 
-**13.** *(Pregunta abierta — completar)* Complete: *I ___ camping is fun,
-because you can see the stars at night.* (think / thinks)
+**13.** *(Pregunta abierta — completar)* Complete with the correct word: *"I
+like this story ___ the animals in it are very funny."* (because / but)
 
-**14.** *(Pregunta abierta — responder en inglés)* Read: *"Martina's uncle is a
-pilot. He travels to many countries."* Answer in English: *Would you like to
-be a pilot? Why or why not?*
+**14.** *(Pregunta abierta — responder en inglés)* Read: *"In the story, a
+small penguin gets lost and a friendly seal helps it find its family."*
+Answer in English: *Which character do you like more, the penguin or the
+seal? Why?*
 
-**15.** *(Pregunta abierta — responder en inglés)* Read: *"Diego doesn't like
-the desert; he thinks it's boring. He prefers the mountains."* Answer in
-English: *Are you like Diego? Why or why not?*
+**15.** *(Pregunta abierta — responder en inglés)* Read: *"Antonia traveled to
+the south by train. She thinks trains are fun because you can see lakes and
+forests from the window."* Answer in English: *Do you like traveling by train?
+Why or why not?*
 
 ---
 
 ## OA N°14 — Escribir textos siguiendo un modelo
 
-**16.** *(Selección múltiple)* Which word completes the invitation model
-correctly: *"I would like to invite you to my party ___ 5 pm."*
+**16.** *(Selección múltiple)* Which word completes the invitation correctly?
+*"Come to my pool party! It is ___ December 15th, from 3 to 6 pm."*
 
-a) on
-b) in
+a) in
+b) on
 c) at
-d) for
+d) under
 
-**17.** *(Selección múltiple)* Which phrase is used to begin (start) a short
-story in English?
+**17.** *(Selección múltiple)* Choose the word that rhymes and completes the
+rhyme: *"I have a little cat, / it sleeps on a ___."*
 
-a) See you soon
-b) Once upon a time
-c) How much is it?
-d) What's the matter?
+a) mat
+b) bed
+c) chair
+d) sofa
 
-**18.** *(Pregunta abierta — completar)* Complete the agenda entry:
-*"Wednesday: I ___ (call) my cousin after school."* (usa el verbo en presente
-simple, sujeto *I*)
+**18.** *(Pregunta abierta — completar)* Complete the email with the greeting
+and the closing: *"___ Grandpa, We are in Puerto Montt. It is cold and rainy,
+but we are having fun. ___, Ignacio."* (Dear / See you soon)
 
-**19.** *(Pregunta abierta — completar)* Complete the postcard: *"The weather
-here is ___. I am having a great time at the ___."* Elige palabras coherentes
-con unas vacaciones en la playa.
+**19.** *(Pregunta abierta — completar)* Complete the comic strip with one of
+the sentences given. Panel 1, Rabbit: *"I'm so hungry!"* Panel 2, Fox: *"___"*
+Panel 3, Rabbit: *"Thank you! These carrots are delicious."* (Here you are,
+some carrots! / It's very cold today. / I can't swim.)
 
-**20.** *(Pregunta abierta — escribir siguiendo modelo)* Complete following the
-model with your own information: *"Hi ___, I would like to invite you to ___
-on ___. See you soon, ___."*
+**20.** *(Pregunta abierta — escribir siguiendo modelo)* Complete the postcard
+with your own information: *"Hi ___! I'm on vacation in ___. Every day we
+travel by ___. See you soon, ___."*
 
 ---
 
 ## OA N°15 — Describir, contrastar, presente continuo y preguntar
 
-**21.** *(Selección múltiple)* Complete: *"Look! The children ___ (play) in the
-park right now."* (usa el presente continuo)
+**21.** *(Selección múltiple)* Complete the dialogue: *"— Is your sister
+sleeping? — No, ___. She is doing her homework."*
 
-a) play
-b) plays
-c) are playing
-d) was playing
+a) she is
+b) she isn't
+c) she doesn't
+d) she wasn't
 
-**22.** *(Selección múltiple)* What is the correct plural of "goose" (ganso)?
+**22.** *(Selección múltiple)* Choose the correct word: *"Five ___ are playing
+football in the park."*
 
-a) gooses
-b) geese
-c) goosies
-d) goose's
+a) childs
+b) childrens
+c) children
+d) child's
 
-**23.** *(Pregunta abierta — completar con contraste)* Complete: *"A dolphin
-can swim fast, ___ it can't walk on land."* (but / and)
+**23.** *(Pregunta abierta — completar)* Complete to express necessity: *"I ___
+to wear a helmet when I ride my bike."* (have / has)
 
-**24.** *(Pregunta abierta — completar con número)* Complete: *"There are ___
-students in my class."* (usa el número 18 en inglés)
+**24.** *(Pregunta abierta — completar con contraste)* Complete: *"The turtle
+walks very ___, but the rabbit runs ___."* (slowly / fast)
 
-**25.** *(Pregunta abierta — responder en inglés)* Read: *"— How many apples
-are there in the basket? There are twelve apples. — Who ate the apples?"*
-Answer with a complete sentence, inventing a coherent subject: *Who ate the
-apples?*
+**25.** *(Pregunta abierta — responder en inglés)* Write the question for this
+answer. Use *How many*: *"There are sixteen books on the desk."*
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe la letra elegida en las preguntas de alternativas. Responde los
+ítems abiertos en tu hoja o cuaderno, identificando el número de pregunta.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -199,57 +209,61 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## PAUTA DE CORRECCIÓN
 
+Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En ítems abiertos,
+asignar el punto si la respuesta cumple el criterio indicado. Mayúsculas y
+punto final no cambian el sentido; aceptar variantes equivalentes explícitas.
+Las respuestas personales no se califican por coincidencia literal con el ejemplo.
+En ítems con dos o más espacios, el punto exige todos los espacios correctos.
+
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | a) Swim | OA5 |
-| 2 | c) Between the museum and the bank | OA5 |
-| 3 | can / can't | OA5 |
-| 4 | She had lunch at school. | OA5 |
-| 5 | o'clock | OA5 |
-| 6 | d) A recipe | OA6 |
-| 7 | a) She is sick | OA6 |
-| 8 | have | OA6 |
-| 9 | It is $3.000. / The chicken with rice is $3.000. | OA6 |
-| 10 | True (Verdadero) — el texto ofrece productos y horario de un lugar, es un aviso publicitario. | OA6 |
-| 11 | b) I think the zoo is interesting. | OA8 |
-| 12 | b) He thinks it is exciting. | OA8 |
-| 13 | think | OA8 |
-| 14 | Respuesta personal breve, p. ej.: *Yes, I would like to be a pilot because I like to travel. / No, I wouldn't, because I am afraid of flying.* | OA8 |
-| 15 | Respuesta personal breve, p. ej.: *Yes, I am like Diego, I think the desert is boring too. / No, I am different from Diego, I like the desert because it is quiet.* | OA8 |
-| 16 | c) at | OA14 |
-| 17 | b) Once upon a time | OA14 |
-| 18 | call | OA14 |
-| 19 | Respuesta personal coherente, p. ej.: *sunny / beach*. | OA14 |
-| 20 | Respuesta personal, p. ej.: *"Hi Camila, I would like to invite you to my birthday party on Saturday. See you soon, Martina."* | OA14 |
-| 21 | c) are playing | OA15 |
-| 22 | b) geese | OA15 |
-| 23 | but | OA15 |
-| 24 | eighteen | OA15 |
-| 25 | Respuesta personal con sujeto y pasado, p. ej.: *My sister ate the apples.* | OA15 |
+| 1 | a) Drive a bus | OA5 |
+| 2 | b) Behind the church | OA5 |
+| 3 | past (half past seven = 7:30). | OA5 |
+| 4 | She went to school by bicycle. Aceptar By bicycle / By bike / She went by bike. | OA5 |
+| 5 | fourteen (no se acepta solo el número 14: la consigna pide palabras). | OA5 |
+| 6 | d) To advertise a dental clinic | OA6 |
+| 7 | c) Next week | OA6 |
+| 8 | have / welcome (Can I have...? / You're welcome). | OA6 |
+| 9 | It closes at 4 pm. Aceptar At 4 pm / At four o'clock / At four in the afternoon. | OA6 |
+| 10 | False (Falso): la nota dice having lunch (almorzar), no breakfast (desayunar). | OA6 |
+| 11 | d) I feel excited when I read about the whale. | OA8 |
+| 12 | a) Very happy | OA8 |
+| 13 | because: introduce la razón de la opinión; but contrastaría ideas. | OA8 |
+| 14 | Respuesta personal con un personaje y una razón con because. Ejemplo: I like the seal more because it is friendly and helps the penguin. Ambos personajes son válidos. | OA8 |
+| 15 | Respuesta personal Yes/No con una razón. Ejemplo: Yes, I do, because I like looking out of the window. / No, I don't, because trains are slow. | OA8 |
+| 16 | b) on | OA14 |
+| 17 | a) mat (rima con cat). | OA14 |
+| 18 | Dear / See you soon | OA14 |
+| 19 | Here you are, some carrots! (es la única opción coherente con la respuesta del conejo en el panel 3). | OA14 |
+| 20 | Respuesta personal que complete los cuatro espacios con nombre, lugar, medio de transporte y nombre. Ejemplo: Hi Martín! I'm on vacation in La Serena. Every day we travel by bus. See you soon, Paula. | OA14 |
+| 21 | b) she isn't | OA15 |
+| 22 | c) children | OA15 |
+| 23 | have (sujeto I: I have to). | OA15 |
+| 24 | slowly / fast | OA15 |
+| 25 | How many books are there on the desk? Aceptar How many books are on the desk? (signo de interrogación opcional). | OA15 |
 
 ### Resumen de puntaje por OA
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|
-| OA N°5 — Habilidades, direcciones, hora, presente/pasado | 5 | 1–5 |
-| OA N°6 — Notas, recetas, avisos, correos | 5 | 6–10 |
-| OA N°8 — Reaccionar y opinar | 5 | 11–15 |
-| OA N°14 — Completar textos según modelo | 5 | 16–20 |
-| OA N°15 — Describir, contrastar, presente continuo, preguntar | 5 | 21–25 |
+| OA5 | 5 | 1–5 |
+| OA6 | 5 | 6–10 |
+| OA8 | 5 | 11–15 |
+| OA14 | 5 | 16–20 |
+| OA15 | 5 | 21–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo de pregunta:** 10 de selección múltiple (alternativas)
-y 15 de respuesta abierta breve (completar, verdadero/falso, responder en
-inglés y escribir según modelo), en línea con el formato mixto del Examen
-Libre real de Inglés. Todas las preguntas son distintas de las del banco de contenido
-(distinto vocabulario, personajes, escenarios y datos numéricos), aunque
-evalúan los mismos 5 OA del temario.
+**Distribución por tipo:** 10 preguntas de alternativas y 15 abiertas (completar,
+verdadero/falso, responder en inglés y escribir según modelo). Es una práctica
+propia alineada con los OA del curso; no es un instrumento oficial Mineduc. Se
+mantienen las funciones lingüísticas estudiadas, con nuevos textos y situaciones.
 
 ---
 
 # TABLA DE ESPECIFICACIONES
 
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+Cobertura curricular del instrumento, para uso del docente o del apoderado.
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|

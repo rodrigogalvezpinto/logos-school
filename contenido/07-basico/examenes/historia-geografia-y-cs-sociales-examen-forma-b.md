@@ -52,9 +52,9 @@ Corrección final) busca acercarte a la experiencia del examen real.
 a) Ocurrió en un único lugar del planeta (Medio Oriente) y luego se difundió hacia todas las
    demás regiones
 b) Solo ocurrió en el continente americano
-   Oriente, China y América— en momentos diferentes
 c) Ocurrió de manera simultánea y de la misma forma en todos los continentes
 d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
+   Oriente, China y América— en momentos diferentes
 
 ---
 
@@ -76,8 +76,8 @@ d) El intercambio de bienes entre distintas aldeas
 civilizaciones, como Mesopotamia o Egipto, es correcta?
 
 a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
-b) Los sistemas religiosos estaban completamente separados del poder político
    político, legitimando la autoridad del gobernante
+b) Los sistemas religiosos estaban completamente separados del poder político
 c) Las primeras civilizaciones no desarrollaron ningún tipo de religión organizada
 d) Los sacerdotes no tenían ninguna influencia social ni política
 
@@ -458,10 +458,10 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Puntaje obtenido | Nota aproximada (escala 1,0 a 7,0, exigencia 60%) |
 |-------------------|----------------------------------------------------|
 | 32-36 pts | 6,2 - 7,0 |
-| 25-31 pts | 5,2 - 6,1 |
-| 19-24 pts | 4,0 - 5,1 |
-| 13-18 pts | 3,0 - 3,9 |
-| 0-12 pts | 1,0 - 2,9 |
+| 25-31 pts | 4,7 - 6,0 |
+| 19-24 pts | 3,6 - 4,5 |
+| 13-18 pts | 2,8 - 3,5 |
+| 0-12 pts | 1,0 - 2,7 |
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*

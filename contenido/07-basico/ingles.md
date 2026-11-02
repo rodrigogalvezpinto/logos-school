@@ -4,7 +4,7 @@ curso: 7° Básico
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
 oa_evaluados: OA 9, OA 10, OA 13, OA 16
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 7° Básico
@@ -108,11 +108,16 @@ culturas.
    **Retroalimentación:** El texto completo gira en torno a los volcanes; los
    detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.
 
-2. *(Verdadero o falso)* Read: *"The Amazon rainforest is often called 'the lungs of the Earth' because it produces about 20% of the
-   world's oxygen. It is home to millions of species of plants and animals."*
-   Statement: *The Amazon rainforest produces a net surplus of 20% of the world's oxygen.*
+2. *(Verdadero o falso)* Read: *"Many people say that the Amazon rainforest
+   produces 20% of the world's oxygen, but this number is a popular myth. The
+   Amazon rainforest produces about 6% to 9% of the world's oxygen. It is home
+   to millions of species of plants and animals."*
+   Statement: *The text says that the 20% number is a fact.*
    **Respuesta correcta:** False (Falso).
-   **Retroalimentación:** El Amazonas **no produce un 20% neto** de oxígeno. Su ecosistema consume casi todo el oxígeno que genera (contribución neta ≈ 0%). La cifra del 20% se refiere a la fotosíntesis bruta, pero la respiración del propio bosque consume la mayor parte. La contribución bruta real es ~6-9% de la fotosíntesis global.
+   **Retroalimentación:** El texto presenta la cifra del 20% como un mito popular
+   (*a popular myth*), no como un hecho; el dato que entrega explícitamente es
+   *about 6% to 9%*. Hay que distinguir lo que "mucha gente dice" de lo que el
+   texto afirma.
 
 3. *(Completar)* Complete: *"The first sentence of a paragraph usually gives you
    the ___ idea of the text."* (main / explicit / false)

@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° básico
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","5":"OA 3","10":"OA 8","11":"OA 9","12":"OA 9"}
 unidad: Eje 1 — Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

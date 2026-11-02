@@ -18,6 +18,7 @@ import re
 from dataclasses import dataclass, field
 
 RE_EJE = re.compile(r"^##\s+Eje\s+\d+\s*[:\-]?\s*(.+)$")
+RE_MODULO = re.compile(r"^##\s+M[oó]dulo\s+\d+\b", re.IGNORECASE)
 # El glosario, al final del archivo, no tiene un heading de Eje/OA después que cierre el
 # bloque de preguntas anterior — sin este marcador, todo su texto quedaba pegado a la
 # retroalimentación de la última pregunta del archivo (bug real encontrado con QA de
@@ -37,7 +38,7 @@ RE_AUTOEVAL_BOLD_PARRAFO = re.compile(r"^\*\*.*autoevaluaci[oó]n.*\*\*$", re.IG
 # Inicio de pregunta: tolera "**Pregunta 1 (alternativas).**", "**1. (Alternativas)**"
 # y "1. *(Alternativas)*" — con 0 a 2 asteriscos antes/después del número y del tipo.
 RE_Q_START = re.compile(
-    r"(?m)^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?\s*\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*"
+    r"(?m)^\s*\*{0,2}(?:Pregunta\s+|(?=\d+\.))(\d+)\.?\s*\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*"
 )
 RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
 RE_RESPUESTA_MARCA = re.compile(
@@ -68,13 +69,26 @@ RE_EMPAREJAR = re.compile(r"relacion|emparej|parea", re.IGNORECASE)
 RE_OPCION_FUSIONADA = re.compile(r"^\s*a\)\s.*—\s*[b-d]\)\s", re.IGNORECASE)
 # Variante encontrada en preguntas de desarrollo sin "Respuesta correcta/esperada"
 # explícita — una única pauta combinada que sirve de respuesta y de retroalimentación.
-RE_PAUTA_MARCA = re.compile(r"(?i)[^\w\s]{0,2}\s*Pauta\s+de\s+retroalimentaci[oó]n:?\s*")
+# Variante encontrada en 4° medio Lengua y Literatura: las preguntas abiertas más
+# complejas traen "*Pauta manual*:" (rúbrica Completo/Parcial/Insuficiente) en vez de
+# "Pauta de retroalimentación:" — sin esa rama, la marca no se reconocía y la
+# respuesta quedaba vacía (P9 de OA1 y OA3 del archivo real).
+RE_PAUTA_MARCA = re.compile(
+    r"(?i)[^\w\s]{0,2}\s*Pauta\s+(?:de\s+retroalimentaci[oó]n|manual)\**:?\**\s*"
+)
 # El texto fuente es inconsistente: a veces "Respuesta correcta: b." (solo la letra), a
 # veces "Respuesta correcta: d) Unidad de mil." (letra + texto repetido). En ambos casos
 # hay que resolver por la letra al texto real de la opción — nunca confiar en lo que la
 # sigue — porque IntentoEvaluacion.entregar()/esCorrectaEnAutoevaluacion() comparan la
 # respuesta del alumno (el texto de la opción que clickeó) contra este campo tal cual.
 RE_LETRA_RESPUESTA = re.compile(r"^\(?([a-dA-D])(?:\)|\.|\s|$)")
+
+
+def extraer_modulo(texto: str) -> str | None:
+    modulos = set(re.findall(r"\bm[oó]d(?:ulo|\.)\s*(\d+)\b", texto, re.IGNORECASE))
+    if len(modulos) > 1:
+        raise ValueError(f"Módulo ambiguo: {texto}")
+    return next(iter(modulos), None)
 
 
 @dataclass
@@ -93,6 +107,7 @@ class ObjetivoParseado:
     eje_tematico: str | None
     contenido_guia: str = ""
     preguntas: list[PreguntaParseada] = field(default_factory=list)
+    modulo: str | None = None
 
 
 def _clasificar_tipo(etiqueta: str) -> str:
@@ -213,6 +228,7 @@ def parsear_guia(texto: str) -> list[ObjetivoParseado]:
     lineas = texto.splitlines()
     objetivos: list[ObjetivoParseado] = []
     eje_actual: str | None = None
+    modulo_actual: str | None = None
     oa_actual: ObjetivoParseado | None = None
     guia_buffer: list[str] = []
     preguntas_buffer: list[str] = []
@@ -233,6 +249,15 @@ def parsear_guia(texto: str) -> list[ObjetivoParseado]:
             en_bloque_preguntas = False
             continue
 
+        if RE_MODULO.match(linea):
+            cerrar_oa()
+            oa_actual = None
+            guia_buffer, preguntas_buffer = [], []
+            en_bloque_preguntas = False
+            modulo_actual = extraer_modulo(linea)
+            eje_actual = None
+            continue
+
         eje_m = RE_EJE.match(linea)
         if eje_m:
             cerrar_oa()
@@ -251,10 +276,16 @@ def parsear_guia(texto: str) -> list[ObjetivoParseado]:
             codigo_oficial = (
                 f"OA {numero}" if numero else f"OA ({descriptor.strip()})"
             )
+            modulo_explicito = extraer_modulo(titulo)
+            if modulo_explicito and modulo_actual and modulo_explicito != modulo_actual:
+                raise ValueError(f"Módulo contradictorio en {codigo_oficial}")
+            modulo = modulo_explicito or modulo_actual
+            descripcion = f"{titulo} (Módulo {modulo})" if modulo and not modulo_explicito else titulo
             oa_actual = ObjetivoParseado(
                 codigo_oficial=codigo_oficial,
-                descripcion=titulo,
+                descripcion=descripcion,
                 eje_tematico=eje_actual,
+                modulo=modulo,
             )
             guia_buffer, preguntas_buffer = [], []
             en_bloque_preguntas = False

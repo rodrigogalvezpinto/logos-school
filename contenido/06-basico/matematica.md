@@ -735,7 +735,7 @@ d) 15
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* un gráfico circular representa el total de los datos (el "círculo completo"), por lo que todas sus porciones, expresadas como porcentaje, deben sumar exactamente 100%.
 
-**Pregunta 3 (interpretar gráfico de barras dobles).** Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo, 6ºA leyó 30 libros y 6ºB leyó 22 libros; en abril, 6ºA leyó 18 libros y 6ºB leyó 35 libros. ¿En qué mes leyó más libros el curso 6ºB, y cuántos más leyó que 6ºA ese mes?
+**Pregunta 3 (interpretar gráfico de barras dobles).** Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo, 6ºA leyó 30 libros y 6ºB leyó 22 libros; en abril, 6ºA leyó 18 libros y 6ºB leyó 35 libros; en mayo, 6ºA leyó 26 libros y 6ºB leyó 20 libros; en junio, 6ºA leyó 33 libros y 6ºB leyó 24 libros. ¿En qué mes leyó más libros el curso 6ºB, y cuántos más leyó que 6ºA ese mes?
 
 **Respuesta esperada:** 6ºB leyó más en **abril** (35 libros), superando a 6ºA por 35−18=**17 libros**.
 *Retroalimentación:* para comparar dos series en un gráfico de barras dobles, se debe fijar primero en qué mes (o categoría) ocurre lo que se pregunta, y luego comparar la altura de ambas barras en ese mismo punto.

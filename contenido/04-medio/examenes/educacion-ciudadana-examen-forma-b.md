@@ -2,20 +2,35 @@
 asignatura: Educación Ciudadana
 curso: 4° Medio
 tipo: Examen de práctica — Examen Libre Mineduc (Forma B)
+oa_evaluados: OA 1, OA 3, OA 4, OA 5, OA 6
 basado_en: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/educacion-ciudadana.md
-forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/educacion-ciudadana.md (banco de contenido)
-última actualización: 2026-08-11
+forma_relacionada: /Users/rodrigogalvez/Documents/Logos/contenido/04-medio/educacion-ciudadana.md (banco de contenido)
+ultima_actualizacion: 2026-11-01
 ---
 
 # EXAMEN DE PRÁCTICA — EDUCACIÓN CIUDADANA (FORMA B)
 ## 4° Medio — Examen Libre de Validación de Estudios (Mineduc)
 
 **Duración:** 90 minutos
-**N° de preguntas:** 25 (15 de selección múltiple/verdadero-falso/términos pareados, 10 de desarrollo)
-**Puntaje total:** ver Pauta de Corrección
+**N° de preguntas:** 25 (10 de selección múltiple, 5 bloques de V/F o términos pareados, 10 de desarrollo)
+**Puntaje total:** 55 puntos (ver Pauta de Corrección)
 **Objetivos de Aprendizaje evaluados:**
-- OA (Democracia y sus desafíos): Libertad, igualdad y solidaridad frente a los desafíos de la democracia
+- OA N°1: Institucionalidad democrática, representación y distribución del poder
+- OA N°3: Modelos de desarrollo, políticas económicas y sustentabilidad
+- OA N°4: Derechos laborales en Chile y su fortalecimiento
+- OA N°5: Libertad, igualdad y solidaridad frente a los desafíos de la democracia
 - OA N°6: Medios de comunicación, nuevas tecnologías y participación democrática
+
+### Tabla de especificaciones
+
+| OA | Preguntas | Puntaje |
+|----|-----------|---------|
+| OA N°1 — Institucionalidad democrática | 1 a 5 | 11 |
+| OA N°3 — Desarrollo y sustentabilidad | 6 a 10 | 11 |
+| OA N°4 — Derechos laborales | 11 a 15 | 11 |
+| OA N°5 — Libertad, igualdad y solidaridad | 16 a 20 | 11 |
+| OA N°6 — Medios y nuevas tecnologías | 21 a 25 | 11 |
+| **Total** | **25** | **55** |
 
 ### Instrucciones para la persona que rinde el examen
 
@@ -24,225 +39,240 @@ forma_relacionada: /Users/rodrigogalvez/Documents/Logoscontenido/04-medio/educac
 3. En las preguntas de **desarrollo**, responde en el espacio asignado, con letra clara. Las preguntas de "desarrollo breve" esperan 2 a 4 líneas; las de "desarrollo extenso" esperan un párrafo completo y argumentado.
 4. No se permite el uso de celulares, apuntes ni material de apoyo.
 5. Administra tu tiempo: se recomienda no destinar más de 3 a 4 minutos por pregunta.
-6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc. Esta es la **Forma B** del examen, con preguntas propias, pensada para practicar dos veces sin memorizar respuestas.
+6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc ni reutiliza las preguntas de la guía de estudio ni de las pruebas de unidad de este curso.
 
-> **Nota sobre neutralidad:** algunas preguntas presentan posturas en tensión dentro del debate democrático (por ejemplo, sobre impuestos, regulación de medios o rol del Estado). En esos casos no existe una "postura correcta" a evaluar, sino tu capacidad de identificar y argumentar con los conceptos estudiados. Estas preguntas se corrigen según la calidad del razonamiento, no según la opinión política expresada.
-
----
-
-## SECCIÓN I — Democracia y sus desafíos: libertad, igualdad y solidaridad
-### (Preguntas 1 a 13)
-
-**1.** La brecha salarial entre hombres y mujeres que desempeñan funciones de similar responsabilidad es un desafío democrático que se relaciona principalmente con:
-
-a) La diversidad étnica y cultural
-b) La libertad de expresión
-c) La equidad de género
-d) La concentración de medios de comunicación
+> **Nota sobre neutralidad:** algunas preguntas presentan posturas en tensión dentro del debate democrático (por ejemplo, sobre impuestos, políticas de transporte o rol del Estado). En esos casos no existe una "postura correcta" a evaluar, sino tu capacidad de identificar y argumentar con los conceptos estudiados. Estas preguntas se corrigen según la calidad del razonamiento, no según la opinión política expresada.
 
 ---
 
-**2.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+## SECCIÓN I — OA N°1: Institucionalidad democrática
+### (Preguntas 1 a 5)
 
-___ La libertad negativa consiste en que ninguna autoridad ni tercero te impida tomar una decisión.
-___ Que exista debate político sobre el nivel de impuestos que debe pagar cada persona es, por sí solo, una amenaza a la democracia.
-___ La solidaridad puede expresarse a través de trabajo comunitario o del financiamiento colectivo de bienes públicos.
-___ Reconocer la diversidad sexual como parte legítima de la sociedad es compatible con la igualdad ante la ley.
+**1.** Una vez contados los votos de una elección municipal, ¿qué órgano tiene a su cargo **calificar y proclamar** el resultado oficial?
 
----
-
-**3.** Relaciona cada concepto de la columna A con el ejemplo correspondiente de la columna B, escribiendo el número que corresponda.
-
-**Columna A**
-1) Igualdad ante la ley
-2) Libertad positiva
-3) Igualdad de trato
-4) Solidaridad
-
-**Columna B**
-___ Una ley de tránsito se aplica de la misma manera a cualquier persona que conduzca, sin excepciones.
-___ El Estado entrega ayudas técnicas y apoyos gratuitos a personas con discapacidad para que puedan trabajar en igualdad de condiciones.
-___ Un municipio prohíbe expresamente descartar postulantes a un empleo público solo por su edad.
-___ Tras una catástrofe natural, cientos de voluntarios y voluntarias de distintas comunas se organizan para reconstruir viviendas de familias damnificadas.
+a) El Servicio Electoral
+b) El Tribunal Calificador de Elecciones y los tribunales electorales regionales
+c) La Contraloría General de la República
+d) La Cámara de Diputadas y Diputados
 
 ---
 
-**4.** Una empresa descarta sistemáticamente, sin relación con el desempeño del cargo, a postulantes mayores de 55 años en sus procesos de selección. ¿Con qué concepto de este OA se relaciona principalmente esta situación?
+**2.** Los senadores y senadoras chilenos son elegidos por períodos de 8 años, pero no todos se eligen en la misma elección parlamentaria. ¿Cómo se denomina este mecanismo?
 
-a) Diversidad étnica y cultural
-b) Concentración de medios
-c) Libertad de expresión
-d) Igualdad de trato
+a) Segunda vuelta
+b) Mayoría relativa
+c) Renovación alternada
+d) Candidatura independiente
+
+---
+
+**3.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+
+___ El Congreso Nacional puede aumentar el gasto público por iniciativa propia, sin necesidad del Presidente.
+___ La fiscalización política de los actos del gobierno es atribución exclusiva de la Cámara de Diputadas y Diputados.
+___ Los alcaldes y alcaldesas se eligen por mayoría relativa: gana la candidatura más votada, sin segunda vuelta.
+___ El Servicio Electoral es el órgano que proclama oficialmente los resultados de las elecciones.
+
+---
+
+**4.** Explica, en un desarrollo breve, de qué manera la posibilidad de postular como **candidatura independiente** afecta la distribución del poder en la sociedad, y menciona al menos una condición que ese mecanismo exige.
 
 ---
 
 **5. (Estímulo)** Lee el siguiente caso:
 
-*"Un grupo de trabajadoras de una empresa forma un sindicato para negociar mejores condiciones de sala cuna y horarios compatibles con el cuidado de hijos e hijas, ya que esa carga recae históricamente sobre ellas más que sobre sus compañeros varones."*
+*"Una diputada presenta un proyecto de ley que aumenta el gasto fiscal destinado a hospitales rurales. En la tramitación, se objeta su admisibilidad porque la Constitución reserva al Presidente la iniciativa de ley en materia de aumento del gasto público. Tiempo después, el Ejecutivo presenta su propio proyecto sobre el tema, que el Congreso discute, modifica y finalmente aprueba."*
 
-Explica, en un desarrollo breve, cómo se relaciona esta acción con el principio de **participación** y con el desafío de la **equidad de género** estudiados en este OA.
-
----
-
-**6.** Ante un proyecto que propone subir el salario mínimo por ley, una parte de la ciudadanía sostiene que esto limita la libertad de las empresas para fijar remuneraciones según su propia situación; otra parte sostiene que expresa solidaridad hacia quienes reciben los ingresos más bajos. Explica, en un desarrollo breve, por qué ambas posturas pueden considerarse legítimas dentro del debate democrático, sin que eso signifique que da lo mismo el nivel de dignidad laboral que finalmente reciban las personas trabajadoras.
+Desarrolla, en un párrafo, cómo este caso ilustra que legislar en Chile es una tarea **compartida** entre el Congreso y el Presidente, identificando al menos dos reglas institucionales concretas que aparecen en el caso y explicando su función dentro de la distribución del poder.
 
 ---
 
-**7.** ¿Cuál de las siguientes opciones es un ejemplo de "libertad positiva"?
+## SECCIÓN II — OA N°3: Desarrollo, políticas económicas y sustentabilidad
+### (Preguntas 6 a 10)
 
-a) Que ninguna ley te obligue a afiliarte a un sindicato
-b) Que la Constitución prohíba la censura previa a la prensa
-c) Que el Estado entregue prótesis y ayudas técnicas gratuitas a personas con discapacidad para que puedan estudiar y trabajar
-d) Que nadie pueda impedirte postular a un cargo de elección popular
+**6.** ¿Cuál de las siguientes decisiones corresponde a una **política fiscal**?
 
----
-
-**8.** Una fábrica contrata a trabajadores migrantes pagándoles menos que a trabajadores chilenos por la misma función, aprovechando su desconocimiento de la legislación laboral local. Identifica **dos** conceptos de este OA que permiten analizar este caso y explica brevemente cómo se aplican.
-
----
-
-**9.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
-
-___ La inclusión de personas migrantes en la vida laboral y educativa debe entenderse como un derecho, no como una concesión.
-___ Existe pleno consenso democrático sobre exactamente cuánto debe crecer el gasto social cada año.
-___ El respeto a la igual dignidad de todas las personas no está sujeto al mismo tipo de debate que las políticas económicas.
-___ Reconocer la diversidad cultural de un país contradice necesariamente la idea de igualdad ante la ley.
+a) El Banco Central modifica la tasa de interés de referencia
+b) El Estado aumenta la recaudación de impuestos para financiar más salas de urgencias en hospitales públicos
+c) Una empresa privada decide subir los sueldos de sus trabajadores
+d) Un municipio organiza un campeonato deportivo vecinal
 
 ---
 
-**10.** Un municipio destina fondos a un programa de becas de alimentación y útiles escolares para estudiantes de familias de escasos recursos de la comuna. ¿Con qué valores de este OA se relaciona mejor esta política?
+**7.** Un país decide orientar su modelo de desarrollo hacia la **producción con mayor valor agregado**. ¿Cuál de las siguientes medidas es coherente con esa orientación?
 
-a) Libertad de expresión y diversidad sexual
-b) Concentración de medios y alfabetización mediática
-c) Igualdad ante la ley y libertad negativa
-d) Solidaridad e igualdad de oportunidades
-
----
-
-**11. (Estímulo)** Lee el siguiente caso:
-
-*"En una región del norte de Chile, un grupo de trabajadores migrantes agrícolas denuncia que no fue consultado sobre cambios en sus condiciones de contratación temporal, pese a que dichos cambios afectan directamente sus ingresos y su acceso a vivienda durante la temporada de cosecha."*
-
-Desarrolla, en un párrafo, cómo se relaciona este caso con el reconocimiento de la diversidad cultural y con el principio de participación en una democracia. Considera en tu respuesta que existe más de una postura legítima sobre cómo debe regularse el trabajo migrante temporal.
+a) Aumentar la exportación de materias primas sin procesar
+b) Fomentar que lo que se extrae del territorio se transforme localmente en productos elaborados y servicios complejos
+c) Reducir toda inversión en formación de capital humano
+d) Depender de una única actividad extractiva como fuente de empleo
 
 ---
 
-**12.** Una biblioteca pública municipal adapta parte de su catálogo a formato de audiolibro y lengua de señas, e instala rampas y señalética táctil en sus instalaciones. Explica, en un desarrollo breve, con qué valor(es) de este OA se relaciona esta política y por qué no basta con que "nadie le prohíba" a una persona con discapacidad visitar la biblioteca.
-
----
-
-**13.** ¿Cuál de las siguientes afirmaciones describe mejor la relación entre libertad y solidaridad cuando la ciudadanía debate sobre el nivel de gasto social que debe financiar el Estado?
-
-a) Toda propuesta que aumente el gasto social es, por definición, antidemocrática
-b) Priorizar la libertad individual o la solidaridad colectiva frente al gasto social son posturas que pueden ser igualmente legítimas en democracia, y el desacuerdo entre ellas es parte normal del debate público
-c) Solo la solidaridad es un valor democrático; la libertad individual no tiene cabida en las políticas públicas
-d) Libertad y solidaridad son sinónimos, por lo que no puede haber desacuerdo real entre ambas posturas
-
----
-
-## SECCIÓN II — Medios de comunicación, nuevas tecnologías y participación democrática
-### (Preguntas 14 a 25)
-
-**14.** ¿Cuál de las siguientes opciones describe mejor la "microsegmentación política"?
-
-a) La división del país en distritos electorales de distinto tamaño
-b) El uso de datos personales para enviar mensajes de campaña distintos a diferentes perfiles de votantes
-c) Una ley que obliga a los candidatos a debatir públicamente antes de una elección
-d) Un sistema de conteo de votos por mesa electoral
-
----
-
-**15.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
-
-___ El anonimato en algunas plataformas digitales puede facilitar la circulación de discurso de odio hacia personas o grupos.
-___ Toda información que circula viralmente en redes sociales ha sido previamente verificada por un medio de comunicación.
-___ Las plataformas digitales pueden facilitar formas de participación ciudadana más allá del voto, como campañas de firmas o comentarios a proyectos de ley.
-___ Evaluar a la vez oportunidades y riesgos de los medios y las TIC para la democracia es parte de lo que este OA espera que la persona pueda argumentar.
-
----
-
-**16.** Relaciona cada concepto de la columna A con su definición en la columna B.
+**8.** Relaciona cada concepto de la columna A con su definición en la columna B, escribiendo el número que corresponda.
 
 **Columna A**
-1) Cámara de eco
-2) Concentración de medios
-3) Alfabetización mediática y digital
-4) Discurso de odio
+1) Modelo extractivo
+2) Desarrollo sustentable
+3) Política fiscal
+4) Escala territorial local
 
 **Columna B**
-___ Contenido que incita a la discriminación o al odio hacia personas o grupos, amplificado a veces por el anonimato digital.
-___ Entorno digital en el que los algoritmos muestran principalmente contenido afín a lo que el usuario ya piensa.
-___ Capacidad de evaluar críticamente la información recibida, contrastando fuentes e identificando sesgos.
-___ Situación en que pocos actores controlan gran parte de los medios de comunicación de un país.
+___ Nivel de análisis que mira el impacto concreto del desarrollo en la vida de las personas de cada lugar.
+___ Modelo centrado en la extracción y exportación de recursos naturales.
+___ Desarrollo que satisface necesidades del presente sin comprometer a las generaciones futuras.
+___ Decisiones del Estado sobre recaudación de impuestos y gasto público.
 
 ---
 
-**17.** Una aplicación notifica a sus usuarios que actualizó su política de datos, pero no explica con lenguaje claro qué información nueva recopilará ni con qué fines. ¿Qué principio ciudadano estudiado en este OA se ve comprometido por esa falta de claridad?
-
-a) El derecho a un consentimiento verdaderamente informado sobre el uso de datos personales
-b) La libertad de prensa
-c) La igualdad ante la ley
-d) El pluralismo de medios
+**9.** Explica, en un desarrollo breve, cómo el cambio climático evidencia límites de un modelo de desarrollo basado en el uso intensivo de combustibles fósiles, considerando su impacto en la vida digna de las personas.
 
 ---
 
-**18. (Estímulo)** Lee el siguiente caso:
+**10. (Estímulo)** Lee el siguiente caso:
 
-*"Durante una elección municipal, una cuenta anónima en redes sociales publica, en pocas horas, miles de mensajes idénticos que acusan a una candidata de hechos sin ninguna fuente verificable."*
+*"Una región minera de Chile evalúa dos caminos para los próximos veinte años: (A) ampliar la extracción del mineral que hoy sostiene la mayoría del empleo local, o (B) invertir en diversificar la economía regional hacia turismo sustentable y servicios vinculados a la minería con mayor valor agregado. Ambas opciones tienen defensores y detractores entre los habitantes."*
 
-Explica, en un párrafo, qué riesgo de los medios y las nuevas tecnologías para la democracia ilustra este caso y por qué es particularmente grave que ocurra en período electoral.
-
----
-
-**19.** ¿Cuál de las siguientes acciones corresponde mejor a una práctica de alfabetización mediática y digital?
-
-a) Revisar quién financia o publica una noticia antes de darla por verdadera
-b) Compartir una noticia apenas provoca indignación, sin revisar la fuente
-c) Bloquear a cualquier cuenta que publique una opinión distinta a la propia
-d) Aceptar automáticamente todos los permisos que solicita una aplicación nueva
+Desarrolla, en un párrafo, una comparación de ambas opciones usando las **tres dimensiones de la sustentabilidad** (económica, social y ambiental) y explicando por qué el análisis a **escala territorial local** puede llevar a una conclusión distinta de la que daría el ingreso promedio nacional.
 
 ---
 
-**20.** Un mismo grupo económico es propietario de dos canales de televisión, una plataforma de streaming de noticias y el periódico de mayor circulación de un país. Explica, en un desarrollo breve, qué riesgo democrático ilustra esta situación y qué podría contribuir a mitigarlo.
+## SECCIÓN III — OA N°4: Derechos laborales
+### (Preguntas 11 a 15)
+
+**11.** Una persona trabajadora sospecha que su empleador no cumple la normativa sobre jornada y descanso. ¿A qué institución chilena corresponde **fiscalizar** ese cumplimiento?
+
+a) Al Servicio Electoral
+b) A la Contraloría General de la República
+c) A la Dirección del Trabajo y su servicio de inspección
+d) Al Tribunal Constitucional
 
 ---
 
-**21.** Una aplicación de actividad física gratuita solicita acceso permanente a la ubicación en tiempo real y a los contactos del teléfono del usuario, sin indicar con claridad para qué se usarán esos datos. ¿Qué principio estudiado en este OA se ve comprometido en este caso?
+**12.** Según el calendario vigente de reducción gradual de la jornada ordinaria general en Chile ("ley de 40 horas"), la jornada máxima semanal llega a **40 horas** a partir de:
 
-a) La libertad de prensa
-b) El resguardo de la vida privada
-c) La igualdad ante la ley
-d) El pluralismo de medios
-
----
-
-**22. (Estímulo)** Lee el siguiente dato:
-
-*"Un estudio señala que la mayoría de los y las jóvenes de un país se informa principalmente a través de redes sociales, y que menos de un tercio de ellos contrasta esa información con otra fuente antes de compartirla."*
-
-Desarrolla, en un párrafo, qué riesgo democrático se desprende de este dato y qué responsabilidad ciudadana concreta —de las estudiadas en este OA— podría ayudar a mitigarlo.
+a) 2024
+b) 2026
+c) 2028
+d) 2030
 
 ---
 
-**23.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+**13.** Relaciona cada mecanismo de protección laboral de la columna A con su contenido en la columna B, escribiendo el número que corresponda.
 
-___ El pluralismo de voces se fortalece cuando organizaciones con poco acceso a medios tradicionales pueden comunicar directamente a través de plataformas digitales.
-___ Todas las nuevas tecnologías de la información representan, sin excepción, una amenaza para la democracia.
-___ La existencia de algoritmos de recomendación no tiene ninguna relación con la formación de cámaras de eco.
-___ El periodismo de investigación puede contribuir a destapar irregularidades que de otro modo permanecerían ocultas.
+**Columna A**
+1) Permiso postnatal
+2) Postnatal parental
+3) Derecho a la desconexión
+4) Sala cuna
+
+**Columna B**
+___ Mecanismo que vincula el cuidado infantil con la organización del trabajo, para que tener hijos o hijas no obligue a abandonar el empleo.
+___ Período remunerado garantizado a la madre trabajadora tras el nacimiento, hito de la protección de la maternidad.
+___ Derecho de las personas trabajadoras a no responder exigencias laborales por al menos 12 horas continuas, en los supuestos que la ley establece.
+___ Posibilidad de compartir entre ambos progenitores el período de cuidado del recién nacido.
 
 ---
 
-**24.** Una plataforma de streaming de contenido político utiliza el historial de visualización de sus usuarios para mostrarles, de forma automática y sin advertencia, propaganda de un solo sector político antes de una elección, sin identificar ese contenido como publicidad pagada. Explica, en un desarrollo extenso, cómo este caso compromete a la vez la participación democrática informada y el resguardo de la vida privada de las personas usuarias.
+**14.** Un taller no entrega los equipos de protección necesarios y pide a sus trabajadores firmar un documento que los hace responsables de cualquier accidente. Una trabajadora teme perder su empleo si se niega. Explica por qué la firma no elimina la obligación del empleador de proteger la salud y seguridad, e identifica la asimetría de poder presente en el caso.
 
 ---
 
-**25.** ¿Cuál de las siguientes alternativas resume mejor la postura de este OA frente a los medios de comunicación y las nuevas tecnologías?
+**15. (Estímulo)** Lee el siguiente caso:
 
-a) Deben eliminarse del debate público porque su único efecto es debilitar la democracia
-b) Representan a la vez oportunidades y riesgos para la democracia, y corresponde a la ciudadanía evaluarlos críticamente y desarrollar alfabetización mediática para aprovechar unos y reducir los otros
-c) Su regulación no debe ser tema de discusión ciudadana, sino una decisión exclusivamente técnica
-d) Solo representan riesgos para la vida privada; no ofrecen ninguna oportunidad real de participación
+*"Durante más de una década, organizaciones de trabajadoras documentaron que la distribución desigual del cuidado de hijos e hijas expulsaba a muchas mujeres del empleo remunerado. Presentaron la demanda ante autoridades, la sostuvieron en el debate público y, años después, se reconocieron mecanismos de cuidado vinculados al trabajo y períodos de cuidado compartibles entre ambos progenitores."*
+
+Desarrolla, en un párrafo, qué muestra este caso sobre el **aporte de los movimientos y organizaciones sociales** al fortalecimiento de los derechos laborales, y nombra al menos un hito concreto de la evolución institucional chilena relacionado con la protección de la maternidad o la corresponsabilidad en el cuidado.
+
+---
+
+## SECCIÓN IV — OA N°5: Libertad, igualdad y solidaridad
+### (Preguntas 16 a 20)
+
+**16.** Un joven tiene el derecho formal de acceder a la educación superior —nadie se lo prohíbe—, pero no puede pagarla y no existen becas a las que pueda optar. ¿Qué concepto de este OA describe mejor lo que falta para que pueda ejercer ese derecho?
+
+a) Libertad negativa
+b) Libertad positiva
+c) Igualdad ante la ley
+d) Concentración de medios
+
+---
+
+**17.** En un proceso de selección de personal, una empresa exige a las postulantes mujeres declarar si están embarazadas o planean estarlo, requisito que no aplica a postulantes hombres. ¿Con qué desafío democrático se relaciona principalmente esta práctica?
+
+a) La diversidad étnica y cultural
+b) La equidad de género y la igualdad de trato
+c) La libertad de expresión
+d) La desinformación
+
+---
+
+**18.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+
+___ El reconocimiento de la diversidad étnica y cultural puede convivir con la igualdad ante la ley en una democracia.
+___ La libertad positiva se refiere a las condiciones reales que permiten ejercer efectivamente una decisión, no solo a la ausencia de prohibiciones.
+___ Disentir sobre qué políticas aplicar para superar la pobreza es parte del debate legítimo en una democracia.
+___ La solidaridad obliga a todas las personas a pensar políticamente de la misma manera.
+
+---
+
+**19.** Una empresa anuncia una reorganización interna que cambiará los horarios y condiciones de un grupo de trabajadores de distintas nacionalidades, sin que existiera ningún mecanismo por el que esos trabajadores pudieran conocer anticipadamente ni opinar sobre los cambios. Explica, en un desarrollo breve, cómo se relaciona esta situación con la **inclusión**, la **igualdad de trato** o la **participación** en la vida laboral.
+
+---
+
+**20. (Estímulo)** Lee el siguiente caso:
+
+*"Un municipio entrega ayudas sociales —alimentación, materiales, vales— solo a las familias que asisten regularmente a los actos públicos del alcalde y se afilian a su movimiento local. Las familias que no participan de esas actividades, aunque tienen igual o mayor necesidad, no reciben el apoyo."*
+
+Desarrolla, en un párrafo, cómo este caso puede analizarse con los conceptos de **igualdad de trato**, **solidaridad** y **participación**, y por qué condicionar un beneficio público a la adhesión política es un problema democrático independientemente de qué alcalde lo haga.
+
+---
+
+## SECCIÓN V — OA N°6: Medios de comunicación y nuevas tecnologías
+### (Preguntas 21 a 25)
+
+**21.** ¿Cuál de los siguientes ejemplos ilustra una **virtud** de los medios y las nuevas tecnologías para la democracia?
+
+a) Una plataforma oculta quién financia sus mensajes políticos
+b) Vecinos de una comuna usan una plataforma de participación digital para presentar propuestas y hacer seguimiento a la respuesta de su municipio
+c) Un algoritmo muestra a cada usuario solo contenido que confirma lo que ya piensa
+d) Una cuenta anónima difunde rumores sin fuente durante una elección
+
+---
+
+**22.** Una aplicación comienza a usar los datos de ubicación de sus usuarios para un nuevo fin comercial. Para que ese tratamiento sea legítimo, la empresa debe contar con:
+
+a) El consentimiento informado de los usuarios u otra habilitación legal aplicable
+b) La aprobación del Servicio Electoral
+c) Un permiso de la Contraloría General de la República
+d) El patrocinio de un medio de comunicación nacional
+
+---
+
+**23.** Relaciona cada fenómeno de la columna A con su descripción en la columna B, escribiendo el número que corresponda.
+
+**Columna A**
+1) Desinformación coordinada
+2) Cámara de eco
+3) Microsegmentación política
+4) Alfabetización mediática y digital
+
+**Columna B**
+___ Práctica de verificar fuentes, identificar sesgos e intereses, y proteger los datos personales.
+___ Entorno digital en que los algoritmos refuerzan las creencias previas del usuario mostrándole contenido afín.
+___ Difusión organizada y masiva de contenido falso o engañoso, a menudo con fines de manipulación.
+___ Envío de mensajes de campaña diferenciados a perfiles de votantes definidos a partir de sus datos.
+
+---
+
+**24.** Reflexiona sobre tu propio uso de medios y redes sociales: identifica una **oportunidad** que estas herramientas te ofrecen para participar o informarte, un **riesgo** al que te expones, y una práctica que podrías discutir y adoptar junto a un grupo (tu curso, tu familia o tu comunidad) para aprovechar la primera y reducir el segundo. Desarrollo breve.
+
+---
+
+**25. (Estímulo)** Lee el siguiente caso:
+
+*"Un rumor falso sobre el presupuesto de una municipalidad se vuelve viral en redes sociales, amplificado por cientos de cuentas que publican el mismo texto en pocas horas. Un medio local investiga, verifica los documentos públicos y publica una información que corrige el rumor con evidencia."*
+
+Desarrolla, en un párrafo, qué **amenaza** y qué **virtud** de los medios y las nuevas tecnologías para la democracia ilustra cada parte de este caso, y qué rol tiene la alfabetización mediática de la ciudadanía frente a situaciones como esta.
 
 ---
 
@@ -258,50 +288,34 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## PAUTA DE CORRECCIÓN
 
-**Puntaje:** las preguntas de selección múltiple, verdadero/falso y términos pareados valen 1 punto por respuesta correcta (los ítems de V/F y pareados otorgan 1 punto por cada afirmación/par correctamente resuelto). Las preguntas de desarrollo breve valen 2 puntos; las de desarrollo extenso valen 3 puntos, según el criterio de corrección indicado.
+**Puntaje:** las preguntas de selección múltiple valen 1 punto; los bloques de V/F y de términos pareados otorgan 1 punto por cada afirmación/par correctamente resuelto (4 puntos en total por bloque); las preguntas de desarrollo breve valen 2 puntos y las de desarrollo extenso valen 3 puntos, repartidos por componentes según el criterio indicado. En todas las preguntas de desarrollo se aceptan formulaciones equivalentes: se corrige el razonamiento y los conceptos, no la redacción literal.
 
 | N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
 |----|------|----|---------------------------------|---------|
-| 1 | Selección múltiple | Democracia y sus desafíos | c) Equidad de género | 1 |
-| 2 | V/F (4 afirmaciones) | Democracia y sus desafíos | V – F – V – V | 4 |
-| 3 | Términos pareados | Democracia y sus desafíos | 1 – 2 – 3 – 4 | 4 |
-| 4 | Selección múltiple | Democracia y sus desafíos | d) Igualdad de trato | 1 |
-| 5 | Desarrollo breve | Democracia y sus desafíos | Reconoce la organización sindical como forma de **participación** que busca incidir en decisiones que afectan a las trabajadoras, y conecta el contenido de la demanda (sala cuna, horarios) con la **equidad de género**, por recaer históricamente el cuidado sobre las mujeres | 2 |
-| 6 | Desarrollo breve | Democracia y sus desafíos | Reconoce que ambas posturas priorizan valores democráticos legítimos (libertad económica/empresarial vs. solidaridad hacia quienes ganan menos) y que el desacuerdo sobre el nivel de salario mínimo es distinto de desconocer la dignidad laboral de las personas trabajadoras | 2 |
-| 7 | Selección múltiple | Democracia y sus desafíos | c) Ayudas técnicas gratuitas para estudiar y trabajar | 1 |
-| 8 | Desarrollo breve | Democracia y sus desafíos | Identifica **igualdad de trato** o **inclusión** (discriminación salarial por condición migrante) y **diversidad cultural** (o vulnerabilidad frente a desconocimiento del sistema local); explica que la diferencia de trato no tiene fundamento legítimo | 2 |
-| 9 | V/F (4 afirmaciones) | Democracia y sus desafíos | V - F - V - F | 4 |
-| 10 | Selección múltiple | Democracia y sus desafíos | d) Solidaridad e igualdad de oportunidades | 1 |
-| 11 | Desarrollo extenso | Democracia y sus desafíos | Relaciona el caso con diversidad cultural (condición y organización propia de trabajadores migrantes) y con el principio de participación (derecho a ser consultados en decisiones que afectan sus condiciones laborales y de vivienda); admite que existen posturas legítimas distintas sobre cómo regular el trabajo migrante temporal | 3 |
-| 12 | Desarrollo breve | Democracia y sus desafíos | Relaciona con **inclusión** y/o **solidaridad**; explica la diferencia entre libertad negativa (no prohibir el acceso) y libertad positiva (condiciones reales —formatos, infraestructura— para ejercerlo) | 2 |
-| 13 | Selección múltiple | Democracia y sus desafíos | b) Ambas posturas pueden ser igualmente legítimas | 1 |
-| 14 | Selección múltiple | Medios y TIC | b) Uso de datos personales para mensajes de campaña distintos según perfil de votante | 1 |
-| 15 | V/F (4 afirmaciones) | Medios y TIC | V – F – V – V | 4 |
-| 16 | Términos pareados | Medios y TIC | 4 – 1 – 3 – 2 | 4 |
-| 17 | Selección múltiple | Medios y TIC | a) Derecho a un consentimiento verdaderamente informado | 1 |
-| 18 | Desarrollo extenso | Medios y TIC | Identifica el riesgo de **desinformación** (posiblemente coordinada, por el patrón de publicaciones idénticas y masivas en poco tiempo); explica que es grave en período electoral porque puede influir en el voto antes de que exista tiempo real de verificar o desmentir | 3 |
-| 19 | Selección múltiple | Medios y TIC | a) Revisar quién financia o publica una noticia antes de darla por verdadera | 1 |
-| 20 | Desarrollo breve | Medios y TIC | Identifica el riesgo de **concentración de medios**, que reduce el pluralismo de voces disponibles para la ciudadanía; menciona como mitigación posible la regulación, el fortalecimiento de medios independientes o el consumo de fuentes diversas | 2 |
-| 21 | Selección múltiple | Medios y TIC | b) El resguardo de la vida privada | 1 |
-| 22 | Desarrollo extenso | Medios y TIC | Riesgo: propagación de desinformación sin verificación previa entre jóvenes que se informan mayoritariamente por redes; responsabilidad ciudadana: alfabetización mediática / contrastar fuentes antes de compartir | 3 |
-| 23 | V/F (4 afirmaciones) | Medios y TIC | V – F – F – V | 4 |
-| 24 | Desarrollo extenso | Medios y TIC | Participación: la propaganda no identificada como publicitaria y dirigida algorítmicamente dificulta que la ciudadanía reconozca y evalúe de forma informada el contenido político que recibe; vida privada: el uso del historial de visualización para segmentar personas sin advertencia compromete su control sobre su propia información; reconoce la conexión entre ambos problemas | 3 |
-| 25 | Selección múltiple | Medios y TIC | b) Oportunidades y riesgos a la vez, mitigados con alfabetización mediática | 1 |
+| 1 | Selección múltiple | OA 1 | b) Tribunal Calificador de Elecciones y tribunales electorales regionales (el Servel administra el proceso; no proclama resultados) | 1 |
+| 2 | Selección múltiple | OA 1 | c) Renovación alternada | 1 |
+| 3 | V/F (4 afirmaciones) | OA 1 | F – V – V – F | 4 |
+| 4 | Desarrollo breve | OA 1 | 2 pts: (1) explica que las candidaturas independientes amplían quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; (1) menciona una condición del mecanismo (reunir firmas/patrocinios de respaldo u otra exigencia legal equivalente) | 2 |
+| 5 | Desarrollo extenso | OA 1 | 3 pts: (1) identifica la colegislación Congreso–Presidente; (1) reconoce la iniciativa exclusiva del Presidente para aumentar el gasto público; (1) explica la función de esas reglas como distribución y limitación del poder (ningún órgano legisla solo sobre el gasto). Formulaciones equivalentes aceptadas | 3 |
+| 6 | Selección múltiple | OA 3 | b) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
+| 7 | Selección múltiple | OA 3 | b) Transformar localmente lo extraído en productos y servicios complejos | 1 |
+| 8 | Términos pareados | OA 3 | 4 – 1 – 2 – 3 | 4 |
+| 9 | Desarrollo breve | OA 3 | 2 pts: (1) relaciona el uso intensivo de combustibles fósiles como motor del modelo con la generación del cambio climático; (1) conecta sus efectos (sequías, incendios, escasez hídrica u otros) con la pérdida de condiciones de vida digna de comunidades concretas, incluidas generaciones futuras | 2 |
+| 10 | Desarrollo extenso | OA 3 | 3 pts: (1) compara ambas opciones en la dimensión económica (empleo, dependencia de precios internacionales, diversificación); (1) compara en dimensiones social y ambiental (vida digna, permanencia territorial, impactos ecológicos); (1) explica que a escala local se ve quién recibe beneficios y quién soporta costos, lo que el promedio nacional oculta. No se evalúa la opción preferida sino la calidad de la comparación | 3 |
+| 11 | Selección múltiple | OA 4 | c) Dirección del Trabajo y su servicio de inspección | 1 |
+| 12 | Selección múltiple | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
+| 13 | Términos pareados | OA 4 | 4 – 1 – 3 – 2 | 4 |
+| 14 | Desarrollo breve | OA 4 | 2 pts: (1) explica que la firma no libera al empleador de sus obligaciones de prevención y protección de la salud y seguridad; (1) identifica la dependencia económica y el temor a perder el empleo como asimetría que limita una decisión libre. Aceptar formulaciones equivalentes; no exigir que atribuya automáticamente toda responsabilidad por cualquier accidente al empleador | 2 |
+| 15 | Desarrollo extenso | OA 4 | 3 pts: (1) reconoce que la demanda sostenida y documentada por organizaciones sociales precedió a la norma (los derechos como conquista colectiva, no concesión); (1) nombra un hito concreto verificable (permiso paternal por nacimiento de 2005, postnatal parental 2011, sala cuna, reforma de negociación colectiva 2016-2017, reducción de jornada u otro correcto); (1) conecta el caso con el fortalecimiento institucional de derechos laborales | 3 |
+| 16 | Selección múltiple | OA 5 | b) Libertad positiva | 1 |
+| 17 | Selección múltiple | OA 5 | b) Equidad de género e igualdad de trato | 1 |
+| 18 | V/F (4 afirmaciones) | OA 5 | V – V – V – F | 4 |
+| 19 | Desarrollo breve | OA 5 | 2 pts: (1) identifica correctamente el concepto aplicado: inclusión/participación (ausencia de mecanismo para conocer y opinar) o igualdad de trato/oportunidades o libertad positiva si la argumenta coherentemente —se aceptan conceptos alternativos según la fundamentación; (1) explica que el problema es la falta de mecanismos participativos y de trato igualitario, no afirmar un derecho jurídico universal a ser consultado | 2 |
+| 20 | Desarrollo extenso | OA 5 | 3 pts: (1) identifica vulneración de la igualdad de trato (beneficio condicionado por adhesión política y no por necesidad); (1) relaciona la solidaridad con el fin del beneficio público (debe servir a quienes más lo necesitan, no a la lealtad partidista); (1) explica que la participación condicionada deja de ser libre, dañando un principio democrático con independencia de quién lo ejerza | 3 |
+| 21 | Selección múltiple | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |
+| 22 | Selección múltiple | OA 6 | a) Consentimiento informado u otra habilitación legal aplicable | 1 |
+| 23 | Términos pareados | OA 6 | 4 – 2 – 1 – 3 | 4 |
+| 24 | Desarrollo breve | OA 6 | 2 pts: (1) identifica una oportunidad y un riesgo concretos y correctamente clasificados (p. ej., acceso a información/participación vs. desinformación/exposición de datos); (1) propone una práctica grupal plausible de alfabetización mediática (verificación compartida, conversación crítica, pautas de consumo). Reflexión personal o grupal válida en formato de autoestudio | 2 |
+| 25 | Desarrollo extenso | OA 6 | 3 pts: (1) identifica la amenaza (desinformación coordinada, amplificada por patrón masivo simultáneo); (1) identifica la virtud (fiscalización/verificación periodística con evidencia que corrige el debate público); (1) explica el rol de la alfabetización mediática ciudadana (contrastar fuentes, identificar intereses, no amplificar sin verificar) | 3 |
 
-**Puntaje total de la prueba: 56 puntos.**
-**Distribución por OA:** 13 preguntas — Democracia y sus desafíos (preguntas 1 a 13) · 12 preguntas — Medios y TIC (preguntas 14 a 25).
-**Distribución por tipo de pregunta:** 15 preguntas cerradas (selección múltiple, verdadero/falso y términos pareados) · 10 preguntas de desarrollo (6 breves, 4 extensas).
-
-> **Tabla de conversión sugerida (referencial):** exigencia de 60% para la nota mínima de aprobación (4,0), en línea con el criterio general de corrección de los Exámenes Libres Mineduc. Ajustar según la escala oficial vigente al momento de rendir el examen real.
-
----
-
-# TABLA DE ESPECIFICACIONES
-
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
-
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| Democracia y sus desafíos | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 8 | 5 |
-| Medios y TIC | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 8 | 4 |
-| **Total** | **25 preguntas** | **16** | **9** |
+**Puntaje total de la prueba: 55 puntos.**

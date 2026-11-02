@@ -11,6 +11,7 @@ por completo (no duplica datos si se corre más de una vez).
 
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -148,6 +149,62 @@ def _asignatura_por_archivo(nombre_archivo: str, slugs: list[str]) -> str | None
     return None
 
 
+def _clave_asignatura(nombre: str) -> str:
+    texto = unicodedata.normalize("NFKD", nombre).encode("ascii", "ignore").decode().casefold()
+    slug = "-".join(re.findall(r"[a-z0-9]+", texto))
+    alias = {
+        "lenguaje": "lenguaje-y-comunicacion",
+        "ciencias": "ciencias-naturales",
+        "historia-geografia-y-ciencias-sociales": "historia-geografia-y-cs-sociales",
+    }
+    return ALIAS_SLUG.get(slug, alias.get(slug, slug))
+
+
+def _resolver_oa(
+    mapa: dict[tuple[str | None, str], int], codigo: str, modulo: str | None
+) -> int | None:
+    if modulo is not None:
+        if (modulo, codigo) in mapa:
+            return mapa[(modulo, codigo)]
+        if any(c == codigo for _, c in mapa):
+            raise ValueError(f"Módulo {modulo} inexistente para {codigo}")
+        return None
+    candidatos = [oa_id for (_, c), oa_id in mapa.items() if c == codigo]
+    if len(candidatos) > 1:
+        raise ValueError(f"OA ambiguo sin módulo: {codigo}")
+    return candidatos[0] if candidatos else None
+
+
+def _huella_pregunta(pregunta) -> tuple[str, str, tuple[str, ...]]:
+    def normalizar(texto: str) -> str:
+        return " ".join(unicodedata.normalize("NFC", texto).split())
+
+    return (pregunta.tipo, normalizar(pregunta.enunciado),
+            tuple(normalizar(opcion) for opcion in pregunta.opciones or []))
+
+
+def _indexar_banco(objetivos) -> dict:
+    indice = {}
+    for objetivo in objetivos:
+        for pregunta in objetivo.preguntas:
+            indice.setdefault(_huella_pregunta(pregunta), set()).add((objetivo.modulo, objetivo.codigo_oficial))
+    return indice
+
+
+def _resolver_oa_pregunta(pregunta, pauta, mapa: dict, banco: dict | None = None) -> int | None:
+    if pauta is None:
+        return None
+    if pauta.codigo_oa:
+        return _resolver_oa(mapa, pauta.codigo_oa, pauta.modulo)
+    candidatos = (banco or {}).get(_huella_pregunta(pregunta), set())
+    candidatos = {
+        identidad for identidad in candidatos if identidad in mapa
+        and (pauta.modulo is None or identidad[0] == pauta.modulo)
+        and (not pauta.codigos_oa or identidad[1] in pauta.codigos_oa)
+    }
+    return mapa[next(iter(candidatos))] if len(candidatos) == 1 else None
+
+
 def _importar_conjunto(
     session: Session,
     ruta: Path,
@@ -157,20 +214,37 @@ def _importar_conjunto(
     asignatura_id: int | None,
     nivel_id: int | None,
     tiempo_sugerido_min: int | None,
-    oas_por_codigo: dict[str, int],
+    oas_por_codigo: dict[tuple[str | None, str], int],
+    asignaturas_integradas: dict[str, tuple[int, dict[tuple[str | None, str], int]]] | None = None,
+    banco_preguntas: dict | None = None,
 ) -> int:
     resultado = parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
     if not resultado:
         return 0
 
-    pregunta_ids = []
+    referencias = []
     for pregunta, pauta in resultado:
-        oa_id = None
-        if pauta and pauta.codigo_oa:
-            oa_id = oas_por_codigo.get(pauta.codigo_oa)
+        if not pauta or not pauta.respuesta_correcta.strip():
+            raise ValueError(f"{ruta.name}: pauta ausente o vacía para pregunta {pregunta.numero}")
+        if pregunta.opciones and pauta.respuesta_correcta not in pregunta.opciones:
+            raise ValueError(f"{ruta.name}: clave inválida para pregunta {pregunta.numero}")
+        asignatura_pregunta_id, mapa = asignatura_id, oas_por_codigo
+        if asignaturas_integradas is not None:
+            if not pauta or not pauta.asignatura or not pauta.codigo_oa:
+                raise ValueError(f"{ruta.name}: falta asignatura u OA en pregunta {pregunta.numero}")
+            clave = _clave_asignatura(pauta.asignatura)
+            if clave not in asignaturas_integradas:
+                raise ValueError(f"{ruta.name}: asignatura desconocida {pauta.asignatura}")
+            asignatura_pregunta_id, mapa = asignaturas_integradas[clave]
+        oa_id = _resolver_oa_pregunta(pregunta, pauta, mapa, banco_preguntas)
+        if asignaturas_integradas is not None and oa_id is None:
+            raise ValueError(f"{ruta.name}: OA desconocido {pauta.codigo_oa} en {pauta.asignatura}")
+        referencias.append((asignatura_pregunta_id, oa_id))
+    pregunta_ids = []
+    for (pregunta, pauta), (asignatura_pregunta_id, oa_id) in zip(resultado, referencias):
         p = Pregunta(
             oa_id=oa_id,
-            asignatura_id=asignatura_id,
+            asignatura_id=asignatura_pregunta_id,
             tipo=pregunta.tipo,
             enunciado=pregunta.enunciado,
             opciones=pregunta.opciones,
@@ -216,7 +290,8 @@ def importar_curso(session: Session, curso: dict) -> None:
     total_oa = 0
     total_preguntas = 0
     asignaturas_por_slug: dict[str, Asignatura] = {}
-    oas_por_asignatura: dict[int, dict[str, int]] = {}  # asignatura_id -> {codigo_oficial: oa_id}
+    oas_por_asignatura: dict[int, dict[tuple[str | None, str], int]] = {}
+    bancos_por_asignatura: dict[int, dict] = {}
 
     # 1) Guías + banco de autoevaluación
     for archivo, nombre_asignatura in curso["asignaturas"]:
@@ -233,6 +308,7 @@ def importar_curso(session: Session, curso: dict) -> None:
         oas_por_asignatura[asignatura.id] = {}
 
         objetivos = parsear_guia(ruta.read_text(encoding="utf-8"))
+        bancos_por_asignatura[asignatura.id] = _indexar_banco(objetivos)
         for oa_parseado in objetivos:
             oa = ObjetivoAprendizaje(
                 asignatura_id=asignatura.id,
@@ -245,7 +321,11 @@ def importar_curso(session: Session, curso: dict) -> None:
             session.commit()
             session.refresh(oa)
             total_oa += 1
-            oas_por_asignatura[asignatura.id][oa_parseado.codigo_oficial] = oa.id
+            # La descripción ya conserva «(Módulo N)»; no se requiere migración.
+            clave = (oa_parseado.modulo, oa_parseado.codigo_oficial)
+            if clave in oas_por_asignatura[asignatura.id]:
+                raise ValueError(f"Identidad OA duplicada: {asignatura.nombre}, {clave}")
+            oas_por_asignatura[asignatura.id][clave] = oa.id
 
             for p in oa_parseado.preguntas:
                 session.add(
@@ -287,6 +367,7 @@ def importar_curso(session: Session, curso: dict) -> None:
                 nivel_id=None,
                 tiempo_sugerido_min=None,
                 oas_por_codigo=oas_por_asignatura.get(asignatura.id, {}),
+                banco_preguntas=bancos_por_asignatura[asignatura.id],
             )
             if n:
                 total_pruebas += 1
@@ -313,6 +394,10 @@ def importar_curso(session: Session, curso: dict) -> None:
                     nivel_id=nivel.id,
                     tiempo_sugerido_min=nivel.duracion_examen_min,
                     oas_por_codigo={},  # OA de asignaturas mezcladas — no hay un único mapa
+                    asignaturas_integradas={
+                        slug: (asignatura.id, oas_por_asignatura[asignatura.id])
+                        for slug, asignatura in asignaturas_por_slug.items()
+                    },
                 )
             else:
                 slug = _asignatura_por_archivo(ruta.stem, slugs)
@@ -330,6 +415,7 @@ def importar_curso(session: Session, curso: dict) -> None:
                     nivel_id=None,
                     tiempo_sugerido_min=nivel.duracion_examen_min,
                     oas_por_codigo=oas_por_asignatura.get(asignatura.id, {}),
+                    banco_preguntas=bancos_por_asignatura[asignatura.id],
                 )
             if n:
                 total_examenes += 1

@@ -4,7 +4,7 @@ curso: 2° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
 oa_evaluados: OA 9, OA 10, OA 13, OA 16
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 2° Medio
@@ -424,10 +424,10 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
 3. **Líder admirado con recurso multimodal:** modelo con una foto de un
    activista: *"This picture shows a young environmental activist who has
    been working to protect forests since 2019. In my opinion, she is a true
-   role model because she has achieved real change unless the government
+   role model because she will achieve real change unless the government
    ignores her proposals."* (Esta foto muestra a un joven activista
    ambiental que ha estado trabajando para proteger los bosques desde 2019.
-   En mi opinión, ella es un verdadero modelo a seguir porque ha logrado un
+   En mi opinión, ella es un verdadero modelo a seguir porque logrará un
    cambio real, a menos que el gobierno ignore sus propuestas.)
 
 **Banco de autoevaluación**

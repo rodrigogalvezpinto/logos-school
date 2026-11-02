@@ -137,8 +137,8 @@ const DIAS: { valor: string; etiqueta: string }[] = [
               tocar el resto.
             </p>
             <div class="campo">
-              <label>¿Qué curso quieres repasar?</label>
-              <select [(ngModel)]="nivelRepasoId" name="nivelRepaso" (ngModelChange)="alElegirNivelRepaso($event)">
+              <label for="nivelRepaso">¿Qué curso quieres repasar?</label>
+              <select id="nivelRepaso" [(ngModel)]="nivelRepasoId" name="nivelRepaso" (ngModelChange)="alElegirNivelRepaso($event)">
                 <option [ngValue]="null">Elige un curso anterior…</option>
                 @for (n of nivelesAnteriores(); track n.id) {
                   <option [ngValue]="n.id">{{ n.nombre }}</option>
@@ -147,8 +147,8 @@ const DIAS: { valor: string; etiqueta: string }[] = [
             </div>
             @if (asignaturasRepaso().length) {
               <div class="campo">
-                <label>Asignatura</label>
-                <select [(ngModel)]="asignaturaRepasoId" name="asignaturaRepaso" (ngModelChange)="alElegirAsignaturaRepaso($event)">
+                <label for="asignaturaRepaso">Asignatura</label>
+                <select id="asignaturaRepaso" [(ngModel)]="asignaturaRepasoId" name="asignaturaRepaso" (ngModelChange)="alElegirAsignaturaRepaso($event)">
                   <option [ngValue]="null">Elige una asignatura…</option>
                   @for (a of asignaturasRepaso(); track a.id) {
                     <option [ngValue]="a.id">{{ a.nombre }}</option>
@@ -206,8 +206,8 @@ const DIAS: { valor: string; etiqueta: string }[] = [
           </div>
         </div>
         <div class="campo">
-          <label>Fecha del examen (si la sabes — opcional)</label>
-          <input type="date" [(ngModel)]="fechaObjetivo" name="fechaObjetivo" />
+          <label for="fechaObjetivo">Fecha del examen (si la sabes — opcional)</label>
+          <input id="fechaObjetivo" type="date" [(ngModel)]="fechaObjetivo" name="fechaObjetivo" />
         </div>
         @if (error()) {
           <p class="error">{{ error() }}</p>

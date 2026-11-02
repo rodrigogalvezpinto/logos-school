@@ -145,7 +145,7 @@ Si en total tiene 12,6 litros de agua y quiere repartirlos en partes iguales ent
 
 **Pregunta 1 (alternativas).** Calcula: 1/2 × 2/7.
 a) 3/9
-b) 2/14
+b) 3/14
 c) 1/7
 d) 2/9
 

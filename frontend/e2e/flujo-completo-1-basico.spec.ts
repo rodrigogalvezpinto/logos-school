@@ -161,6 +161,8 @@ test.describe.serial('Auditoría Integral y Flujo Real: 1° Básico (Apoderado y
     const opcion = page.locator('.opcion').first();
     await expect(opcion).toBeVisible();
     await opcion.click();
+    await expect(page.locator('.feedback')).not.toBeVisible();
+    await page.getByRole('button', { name: /Comprobar respuesta \/ Ver explicación/ }).click();
     await expect(page.locator('.feedback')).toBeVisible();
 
     // 4.2 Entrar a Matemática de 1° Básico

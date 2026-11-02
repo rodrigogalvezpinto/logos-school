@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
+oa_por_pregunta: {"3":"OA 18","4":"OA 18","7":"OA 19","11":"OA 20","12":"OA 20"}
 eje: Eje 3 — Formación Ciudadana
 tipo: Prueba de unidad
 título: Prueba de Unidad — Formación Ciudadana

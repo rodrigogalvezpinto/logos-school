@@ -29,27 +29,27 @@ const DIAS: { valor: string; etiqueta: string }[] = [
       <form (submit)="$event.preventDefault(); continuar()">
         <div class="campo-fila">
           <div class="campo">
-            <label>Nombre</label>
-            <input type="text" [(ngModel)]="nombre" name="nombre" placeholder="Sofía" />
+            <label for="nombreAlumno">Nombre</label>
+            <input id="nombreAlumno" type="text" [(ngModel)]="nombre" name="nombre" placeholder="Sofía" />
           </div>
           <div class="campo">
-            <label>Apellidos</label>
-            <input type="text" [(ngModel)]="apellidos" name="apellidos" placeholder="Pérez González" />
+            <label for="apellidosAlumno">Apellidos</label>
+            <input id="apellidosAlumno" type="text" [(ngModel)]="apellidos" name="apellidos" placeholder="Pérez González" />
           </div>
         </div>
         <div class="campo-fila">
           <div class="campo">
-            <label>Fecha de nacimiento</label>
-            <input type="date" [(ngModel)]="fechaNacimiento" name="fechaNacimiento" />
+            <label for="fechaNacimientoAlumno">Fecha de nacimiento</label>
+            <input id="fechaNacimientoAlumno" type="date" [(ngModel)]="fechaNacimiento" name="fechaNacimiento" />
           </div>
           <div class="campo">
-            <label>RUT</label>
-            <input type="text" [(ngModel)]="rut" name="rut" placeholder="12.345.678-9" />
+            <label for="rutAlumno">RUT</label>
+            <input id="rutAlumno" type="text" [(ngModel)]="rut" name="rut" placeholder="12.345.678-9" />
           </div>
         </div>
         <div class="campo">
-          <label>Curso</label>
-          <select [(ngModel)]="nivelId" name="nivelId">
+          <label for="nivelAlumno">Curso</label>
+          <select id="nivelAlumno" [(ngModel)]="nivelId" name="nivelId">
             @for (n of niveles(); track n.id) {
               <option [value]="n.id">{{ n.nombre }}</option>
             }
@@ -72,8 +72,8 @@ const DIAS: { valor: string; etiqueta: string }[] = [
           </div>
         </div>
         <div class="campo">
-          <label>Fecha del examen (si la sabes — opcional)</label>
-          <input type="date" [(ngModel)]="fechaObjetivo" name="fechaObjetivo" />
+          <label for="fechaObjetivoAlumno">Fecha del examen (si la sabes — opcional)</label>
+          <input id="fechaObjetivoAlumno" type="date" [(ngModel)]="fechaObjetivo" name="fechaObjetivo" />
         </div>
 
         @if (error()) {

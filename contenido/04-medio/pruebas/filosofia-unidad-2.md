@@ -1,6 +1,7 @@
 ---
 asignatura: Filosofía
 curso: 4° Medio
+oa_por_pregunta: {"2":"OA 4","7":"OA 4"}
 unidad: "Unidad 2 — OA N°4 (evaluación de argumentos filosóficos) y OA N°5 (impacto de las ideas filosóficas en el mundo actual)"
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -25,7 +26,7 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
    c) Una falacia que el autor comete sin darse cuenta.
    d) Una cita de otro filósofo.
 
-2. *(Verdadero o falso)* Un argumento con estructura deductiva válida es automáticamente un buen argumento filosófico, sin necesidad de examinar si sus premisas están bien fundamentadas.
+2. *(Análisis estructural)* Lee estos argumentos ficticios: A: «Toda norma justa respeta la igual dignidad; esta norma es justa; por tanto, respeta la igual dignidad». B: «En tres reuniones del curso los turnos aumentaron la participación; conviene mantenerlos porque amplían la participación». Clasifica A y B como deductivos o inductivos y evalúa su fuerza. Reconstruye en B tesis, razón, evidencia y una garantía normativa que conecte razón y tesis. Formula una objeción pertinente.
 
 3. *(Identificar falacia)* "No hay que escuchar la crítica de ese columnista al sistema educativo, si ni siquiera terminó la universidad." ¿Qué falacia se comete?
    a) Falsa dicotomía.
@@ -73,7 +74,7 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
 
 1. **b.** La tesis es el núcleo de la posición defendida; los argumentos, razones, garantías y evidencia existen para sostenerla.
 
-2. **Falso.** La validez lógica es necesaria pero no suficiente: también hay que evaluar si las premisas están bien fundamentadas con referentes teóricos, empíricos o de sentido común razonado.
+2. **Revisión manual:** A es deductivo válido por su forma, aunque aún se deben justificar sus premisas. B es inductivo: tres casos apoyan una recomendación probable, no una conclusión necesaria; se debe examinar representatividad y posibles factores alternativos. Tesis: mantener turnos; razón: amplían participación; evidencia: tres reuniones; garantía reconstruida: una medida que amplía la participación sin excluir merece mantenerse por razones democráticas. Objeción posible: los turnos podrían dificultar intervenciones urgentes. Completo: clasifica y evalúa ambos, distingue los cuatro elementos y plantea una objeción relevante; parcial: reconstrucción o evaluación pertinente pero incompleta; insuficiente: etiquetas sin razones o confusión central entre dato y garantía. Se aceptan argumentos y garantías equivalentes consistentes, no solo esta formulación.
 
 3. **b.** Se ataca la credibilidad de la persona en vez de examinar la calidad de sus argumentos; ambas cosas son lógicamente independientes.
 

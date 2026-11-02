@@ -804,10 +804,11 @@ especialmente en la zona centro-sur en verano. Este OA distingue riesgos de
 antropogénico o mixto** (incendios forestales provocados por negligencia o
 intencionalidad, inundaciones agravadas por urbanización sin planificación
 o deforestación). Un concepto central es diferenciar tres tipos de
-medidas: **prevención** (evitar que el riesgo se materialice o reducir su
-probabilidad, como normas de construcción antisísmica o cortafuegos),
-**mitigación** (reducir el impacto cuando el evento ya ocurre, como
-sistemas de alerta temprana de tsunami o simulacros escolares) y
+medidas: **prevención** (evitar nuevos riesgos o la exposición a una
+amenaza, como impedir nuevas viviendas en una quebrada con riesgo de aluvión),
+**mitigación** (reducir los daños de un evento sin impedir que ocurra;
+puede prepararse antes, como el diseño antisísmico de edificios,
+los sistemas de alerta temprana de tsunami o los simulacros escolares) y
 **adaptación** (ajustar la forma de vivir y construir a largo plazo frente
 al riesgo, como no construir viviendas en zonas de inundación o quebradas).
 En Chile, instituciones como **SENAPRED** (Servicio Nacional de Prevención
@@ -823,9 +824,9 @@ practican simulacros?, ¿hay planes de emergencia comunal?
 **Ejemplos resueltos**
 
 1. **Distinguir prevención, mitigación y adaptación (sismos):**
-   Prevención/mitigación: la Norma Sísmica Chilena (NCh433) exige que los
-   edificios se diseñen para resistir sismos de alta magnitud sin
-   colapsar. Mitigación adicional: simulacros de evacuación como "Chile
+   Mitigación: el diseño de edificios según la Norma Sísmica Chilena
+   (NCh433) busca reducir los daños y el riesgo de colapso durante un
+   sismo; no impide que este ocurra. Mitigación adicional: simulacros de evacuación como "Chile
    Preparado". Adaptación: en zonas de alto riesgo sísmico costero, no
    construir infraestructura crítica (hospitales, colegios) en la primera
    línea de costa expuesta a tsunami.
@@ -949,20 +950,18 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    dimensiones a la vez, sin quedarse en una sola perspectiva, es
    justamente lo que pide este indicador.
 
-9. *(Alternativas)* Que los nuevos edificios en Chile deban diseñarse y
-   construirse siguiendo la Norma Sísmica Chilena (NCh433), capaz de
-   resistir sismos de alta magnitud sin colapsar, es un ejemplo de una
-   medida de:
-   a) Mitigación posterior al evento.
-   b) Prevención, orientada a reducir el daño antes de que ocurra el
-      sismo.
+9. *(Alternativas)* El diseño de nuevos edificios según la Norma Sísmica
+   Chilena (NCh433) busca reducir los daños y el riesgo de colapso durante
+   un sismo, sin impedir que el fenómeno ocurra. Según ese propósito,
+   corresponde a una medida de:
+   a) Mitigación, porque reduce los daños sin evitar el sismo.
+   b) Prevención del sismo, porque impide que ocurra.
    c) Adaptación exclusivamente cultural.
    d) Respuesta de emergencia inmediata.
-   **Respuesta correcta:** b.
-   **Retroalimentación:** Diseñar la infraestructura para resistir el
-   evento antes de que ocurra es una medida de prevención (con elementos
-   de adaptación), distinta de las medidas que actúan una vez que el
-   sismo ya está en curso.
+   **Respuesta correcta:** a.
+   **Retroalimentación:** La mitigación reduce las consecuencias de una
+   amenaza y puede prepararse antes del evento. El diseño antisísmico
+   reduce la vulnerabilidad de los edificios, no la ocurrencia del sismo.
 
 10. *(Verdadero o falso)* Los tsunamis solo pueden ser generados por
     sismos submarinos de gran magnitud, por lo que un sistema de alerta

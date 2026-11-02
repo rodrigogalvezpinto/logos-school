@@ -2,273 +2,195 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 3° Medio
 tipo: Prueba de práctica (formato Examen Libre Mineduc) — Forma B
-basado_en: Banco de autoevaluación /contenido/03-medio/ingles.md (3 OA)
-relacionado: contenido/03-medio/ingles.md (preguntas propias)
-última actualización: 2026-08-11
+basado_en: Temario oficial UCE/Mineduc; contenido/03-medio/ingles.md (3 OA)
+relacionado: contenido/03-medio/ingles.md (habilidades y modelos de escritura)
+ultima_actualizacion: 2026-11-01
 ---
 
 # PRUEBA DE INGLÉS — 3° Medio (Forma B)
-## Examen de Práctica estilo Examen Libre de Validación de Estudios (Mineduc)
+## Examen de práctica estilo Examen Libre de Validación de Estudios (Mineduc)
 
-**Asignatura:** Idioma Extranjero — Inglés
-**Curso:** 3° Medio
-**N° de preguntas:** 25
-**Tiempo:** 90 minutos
-**Materiales permitidos:** Se permite el uso de **diccionario** (impreso) durante toda
-la prueba. No se permite el uso de calculadora, celular ni apuntes.
+**N° de preguntas:** 25 · **Tiempo:** 90 minutos · **Puntaje total:** 25 puntos.
+**Materiales permitidos:** diccionario impreso. Sin celular, apuntes ni calculadora.
 
-### Instrucciones para el estudiante
+### Instrucciones
 
-1. Lee cada pregunta con atención. Algunas preguntas incluyen un texto corto en
-   inglés (estímulo) que debes leer antes de responder.
-2. Hay dos tipos de preguntas:
-   - **Selección múltiple:** marca con una X la alternativa correcta (a, b, c o d).
-   - **Preguntas abiertas:** responde con una oración completa en inglés (o con la
-     palabra/estructura pedida), siguiendo el modelo que se te pide. La
-     retroalimentación de estas preguntas se entrega en español para que revises tu
-     razonamiento.
-3. Puedes usar diccionario para buscar palabras que no conozcas. El diccionario te
-   ayuda con vocabulario puntual, pero no reemplaza el manejo de los conectores,
-   las estructuras gramaticales (voz pasiva, oraciones de relativo, tercer
-   condicional) ni la fluidez del año — no vas a tener tiempo de buscar cada palabra.
-4. Todas las preguntas valen el mismo puntaje. No hay descuento por respuestas
-   incorrectas: si no estás seguro/a, responde de todas formas.
-5. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
+- Lee los estímulos antes de responder. Son situaciones ficticias creadas para practicar; no representan a todas las personas de un país.
+- Hay **5 preguntas de selección múltiple** (3, 8, 16, 23, 24) y **20 abiertas**. Marca una sola letra en las cerradas; responde en inglés las abiertas según la extensión solicitada.
+- Cada pregunta vale **1 punto**, sin descuento por error. Las rúbricas abiertas permiten 0, 0,5 o 1 punto. No necesitas reproducir literalmente los ejemplos de la guía ni compartir una opinión determinada.
+- Distribuye unos 25 minutos en OA1, 25 en OA3 y 40 en OA4 y revisión.
 
 ---
 
-## OA N°1 — Comprender información central de textos escritos sobre temas de interés, para conocer cómo otras culturas los abordan
+## OA N°1 — Comprender, organizar y comparar información central sobre otras culturas
 
-**1.** *(Pregunta abierta — verdadero o falso)* Read: *"In South Korea, it is
-common for students to bow slightly when greeting their teachers as a sign
-of respect."* Statement: *This sentence describes a widespread custom in
-South Korean schools.*
+### Texts A and B — Making things last (preguntas 1–8)
 
-**2.** *(Pregunta abierta — emparejar)* Relaciona el conector con su
-función: *"whereas"* → ¿"marcar una semejanza" o "marcar una diferencia"?
+**A — A youth newsletter in Bristol, England**
+> Our Saturday repair table began when a student's backpack zip broke. Instead of buying a new bag, she asked a neighbour to show her how to replace it. Now volunteers bring tools to the library once a month. Visitors work beside them: nobody simply drops an object off and leaves. There is no fee, but learners are asked to explain one repair to the next visitor. The organisers say that passing on skills matters more than counting repaired objects.
 
-**3.** *(Selección múltiple)* Read two short texts: Text A says Brazilian
-Carnival lasts about a week and centers on street parades and music. Text
-B says Chilean Fiestas Patrias last about a week too and center on
-traditional dances and food. ¿Qué oración compara correctamente ambos
-textos?
+**B — A school bulletin in Valdivia, Chile**
+> Our class runs a clothing exchange before the rainy season. Students bring clean jackets that no longer fit and choose another jacket without paying. Nobody has to donate something to receive one. We label sizes rather than owners' names, because asking for a coat should not embarrass anyone. Unlike the Bristol table, we do not teach repairs during the event. However, both projects help people use existing things instead of immediately buying replacements.
 
-a) Both celebrations last about a week, but Carnival focuses on parades
-   and music, whereas Fiestas Patrias focuses on dances and food.
-b) Carnival and Fiestas Patrias have nothing in common.
-c) Only Fiestas Patrias lasts a week.
-d) Carnival is about food, and Fiestas Patrias is about music.
+**1.** *(Abierta — organizador)* Complete in English: Bristol / Main activity: ___ / What learners pass on: ___. Valdivia / Main activity: ___ / Why owners' names are omitted: ___.
 
-**4.** *(Pregunta abierta — completar)* Complete with the correct
-connector: *"Both Japan and Chile value family celebrations, ___ the
-specific traditions are very different."* (although / similarly)
+**2.** *(Abierta — comprensión)* In one sentence, explain why the Bristol project is more than a repair service.
 
-**5.** *(Pregunta abierta — responder en inglés)* Read: *"In Mexico, the
-Day of the Dead (Día de Muertos) is not a sad occasion. Families build
-colorful altars with photos, food, and flowers to remember loved ones who
-have passed away, celebrating their lives instead of mourning their
-deaths."* Answer the guiding questions to summarize: *What is the Day of
-the Dead? How do families celebrate it? What is the purpose?*
+**3.** *(Selección múltiple)* Which comparison captures the main difference?
 
-**6.** *(Pregunta abierta — completar)* Complete the sentence reusing a
-structure from the text: *"The Scottish tradition of Hogmanay dates back to
-old Viking celebrations of the winter solstice."* Complete: *"This custom
-___ (remontarse a) hundreds of years, according to the article."*
+a) Both projects require visitors to donate clothing.
+b) Bristol teaches repairs, whereas Valdivia redistributes usable clothing.
+c) Valdivia charges for jackets, whereas Bristol charges for tools.
+d) Bristol replaces all broken objects, whereas Valdivia teaches sewing.
 
-**7.** *(Pregunta abierta — verdadero o falso)* Read: *"In Morocco, sharing
-mint tea with guests is a common practice that reflects hospitality; it is
-rare for a host not to offer it."* Statement: *According to the text,
-offering mint tea to guests is an unusual custom in Morocco.*
+**4.** *(Abierta — completar)* Reuse a three-word structure from Text A: “Volunteers bring tools. At the repair table, visitors ___ rather than leaving their belongings there.”
 
-**8.** *(Selección múltiple)* Read: *"In Norway, 'friluftsliv' is a
-lifestyle that encourages spending time outdoors in nature, in all weather
-conditions, as a way to maintain physical and mental well-being."* ¿Cuál es
-la información central del texto?
+**5.** *(Abierta — resumen)* Write two sentences for a friend who needs a jacket. Explain what the Valdivia exchange offers and whether a donation is required.
 
-a) Norway has cold weather.
-b) Friluftsliv is a type of winter sport.
-   well-being.
-c) Norwegians never stay indoors.
-d) Friluftsliv is a lifestyle that promotes spending time outdoors for
+**6.** *(Abierta — comparación)* Write one sentence with “both” describing the shared aim and another with “whereas” describing a difference. Use evidence from both texts.
+
+**7.** *(Abierta — inferencia)* Why might publishing owners' names undermine the Valdivia project's purpose? Answer in one sentence using a detail from Text B.
+
+**8.** *(Selección múltiple)* Which heading best fits both texts?
+
+a) Why every student needs new equipment
+b) A competition to repair the most objects
+c) Learning to sell used clothes online
+d) Community projects that extend the life of useful things
 
 ---
 
-## OA N°3 — Usar el inglés para comprender y producir textos breves, construyendo una postura personal crítica
+## OA N°3 — Analizar textos y construir una postura personal crítica
 
-**9.** *(Pregunta abierta — completar)* Complete the summary structure:
-*Topic sentence: "The article discusses the impact of fast fashion on the
-environment." Supporting detail: "It explains that ___ produces large
-amounts of textile waste."* (fast fashion)
+### Texts C and D — A quieter lunch? (preguntas 9–16)
 
-**10.** *(Pregunta abierta — completar)* Complete with an appropriate
-connector: *"Some experts believe screen time should be limited for
-teenagers. ___, others argue that the quality of content matters more than
-the amount of time spent."* (In addition / On the other hand)
+**C — Student newspaper editorial**
+> The dining hall is so loud that some students eat outside even in winter. We propose a quiet lunch room twice a week. Students could choose it without giving a medical explanation. A room with fewer conversations would give people a break before afternoon lessons. We are not asking the entire school to stop talking: choice is the point.
 
-**11.** *(Pregunta abierta — verdadero o falso)* Comparar dos artículos
-sobre el mismo tema (por ejemplo, el uso de inteligencia artificial en el
-colegio) y señalar en qué coinciden y en qué difieren es parte de lo que
-exige este OA.
+**D — School council response**
+> We support offering a calmer space. However, the only spare room is upstairs and has no lift. Opening it as the sole quiet option would exclude some students. We suggest reserving a corner of the ground-floor hall first, then asking users whether it is quiet enough. A trial could reveal problems before a permanent decision is made.
 
-**12.** *(Pregunta abierta — escribir siguiendo modelo)* Completa un
-resumen crítico breve siguiendo el modelo: *"The article discusses ___. In
-my view, this argument is convincing/not fully convincing because ___."*
-(tema: los beneficios del trabajo remoto para adolescentes con empleos de
-tiempo parcial)
+**9.** *(Abierta — análisis)* In Text C, what does “choice” refer to? Explain using the proposal, not a dictionary definition.
 
-**13.** *(Pregunta abierta — completar)* Complete the summary structure
-with a supporting detail that matches the topic sentence: *Topic sentence:
-"The article explains why many teenagers struggle to balance school and
-part-time jobs." Supporting detail: "It mentions that working late often
-reduces the time available for ___."* (studying / homework)
+**10.** *(Abierta — resumen guiado)* Write three sentences following this model: proposal / reason / clarification about what is NOT being requested. Summarise Text C in your own words.
 
-**14.** *(Pregunta abierta — verdadero o falso)* Adaptar el mismo resumen
-de un artículo con lenguaje más simple para un compañero de curso, y con
-lenguaje más formal para un profesor, es un ejemplo de "comunicar las
-ideas principales considerando el público, el contexto y el propósito".
+**11.** *(Abierta — comparación)* State one point of agreement and one difference between C and D in two connected sentences.
 
-**15.** *(Pregunta abierta — emparejar)* Relaciona el conector con su
-función: *"moreover"* → ¿"agregar una idea en la misma dirección" o
-"introducir un contraste"?
+**12.** *(Abierta — postura crítica)* Should the school use the upstairs room or test the ground-floor corner? Write two sentences giving your position and a reason grounded in the texts. You may propose another justified solution.
 
-**16.** *(Selección múltiple)* ¿Qué oración funciona mejor como **oración
-temática** para un resumen sobre un artículo de inteligencia artificial y
-educación?
+**13.** *(Abierta — lenguaje en contexto)* In “A trial could reveal problems”, explain what “could” tells us about the certainty of the result. Answer in one sentence.
 
-a) AI is everywhere nowadays.
-b) This article explores how artificial intelligence is changing the way
-   students learn and complete assignments.
-c) I really like using AI tools.
-d) Technology is important.
+**14.** *(Abierta — audiencia y propósito)* Write a two-sentence notice for younger students explaining the council's proposed trial and inviting feedback. Use clear, friendly language rather than copying the council's response.
+
+**15.** *(Abierta — límite de la evidencia)* The council has not yet tested its suggestion. Write one question it should ask users and explain how the answer would help assess the proposal.
+
+**16.** *(Selección múltiple)* Which concluding sentence fairly represents both texts?
+
+a) A calmer lunch option is worth exploring, but its location and effectiveness need attention.
+b) Both writers want to ban conversation everywhere at lunchtime.
+c) The trial has already proved that every student prefers silence.
+d) The council rejects any calmer space for students.
 
 ---
 
-## OA N°4 — Producir y comprender textos escritos breves y claros para interactuar y tomar conciencia de la propia identidad
+## OA N°4 — Producir textos claros para interactuar y reflexionar sobre la identidad
 
-**17.** *(Pregunta abierta — completar)* Complete the paragraph using
-appropriate connectors to maintain fluency: *"My identity has been shaped
-by many things. ___, my family's traditions have taught me the value of
-community. ___, living in a globalized world has made me curious about
-other cultures."*
+### Model email (preguntas 17–24)
 
-**18.** *(Pregunta abierta — verdadero o falso)* Evaluar si un texto
-cumple su función —por ejemplo, revisar si un correo formal realmente
-mantiene un registro formal de principio a fin— es parte de las
-habilidades que exige este OA.
+> Hi Alex,
+> Our class is creating a map of places where we feel welcome. I chose the public basketball court, although I rarely play. I help record scores, and the players have taught me that being part of a group does not require having the same skills. Visitors are invited to suggest new places for the map. Could you tell us about a place that matters to you?
+> Best,
+> Robin
 
-**19.** *(Pregunta abierta — escribir siguiendo modelo)* Completa un
-párrafo breve siguiendo el modelo: *"One tradition that is important to me
-is ___. It is practiced/celebrated ___ (voz pasiva). If I hadn't grown up
-with this tradition, I ___ (tercer condicional)."*
+Puedes usar experiencias reales o inventadas; no incluyas datos privados ni direcciones.
 
-**20.** *(Pregunta abierta — completar)* Complete with the passive voice:
-*"Many festivals around the world ___ (organize) to celebrate cultural
-diversity and bring communities together."*
+**17.** *(Abierta — planificación)* Plan your reply in English: Audience: ___ / Purpose: ___ / One place or activity to describe: ___.
 
-**21.** *(Pregunta abierta — completar)* Complete using a relative clause:
-*"My grandmother taught me a recipe ___ has been passed down in my family
-for generations."* (that / which)
+**18.** *(Abierta — producción)* Write two connected sentences explaining how a place or activity can shape your sense of belonging. Include a specific example, real or invented.
 
-**22.** *(Pregunta abierta — verdadero o falso)* Escribir un correo formal
-a un programa de intercambio estudiantil y luego revisar si realmente
-mantuvo un tono formal de principio a fin es un ejemplo de "evaluar el
-cumplimiento de la estructura de un texto según su función".
+**19.** *(Abierta — voz pasiva)* Write a sentence for the map invitation using these notes: “visitors / welcome / by the group / every Saturday”. Use the present simple passive.
 
-**23.** *(Selección múltiple)* ¿Qué oración usa correctamente una
-**oración de relativo** para describir una receta familiar?
+**20.** *(Abierta — oración de relativo)* Combine without repeating “place”: “This is a place. People with different skills meet here.” Use “where”.
 
-a) This is a recipe it has been in my family for years.
-b) This is a recipe that has been in my family for years.
-c) This is a recipe has been in my family for years it.
-d) This recipe, has been in my family for years.
+**21.** *(Abierta — reflexión)* Write one third-conditional sentence about an imagined past experience that changed how you saw yourself. Use the frame “If I had not ___, I would not have ___.”
 
-**24.** *(Selección múltiple)* ¿Qué oración usa correctamente la **voz
-pasiva** para describir una tradición familiar?
+**22.** *(Abierta — revisión de registro)* A reply to Robin ends “Send me the map NOW.” Rewrite it as a polite request and explain in one English sentence why the change suits this exchange.
 
-a) My family celebrates this festival every year with a big dinner.
-b) This festival celebrated by my family every year with a big dinner.
-c) This festival is celebrated by my family every year with a big dinner.
-d) This festival celebrating by my family every year with a big dinner.
+**23.** *(Selección múltiple)* Which sentence would best connect to “I used to think only strong players belonged on the court” and show a change in self-perception?
 
-**25.** *(Pregunta abierta — producción breve)* Escribe un correo breve (3
-a 4 oraciones) a un/a nuevo/a compañero/a de intercambio, describiendo una
-costumbre de tu familia. Usa al menos la **voz pasiva** y una **oración de
-relativo**.
+a) The court opens at nine every morning.
+b) Basketball requires a ball and two baskets.
+c) However, keeping scores helped me recognise that my contribution also matters.
+d) Therefore, I have never contributed to the group in any way.
+
+**24.** *(Selección múltiple)* Which closing best fulfils Robin's invitation to exchange experiences?
+
+a) This email contains exactly six sentences.
+b) I refuse to mention any place or ask you anything.
+c) Basketball courts usually have painted lines.
+d) The reading club helps me feel included; what makes your court welcoming to newcomers?
+
+**25.** *(Abierta — correo)* Reply to Robin in 4–5 sentences, with a greeting and closing. Describe a place or activity, explain its effect on your identity, and ask a relevant question. Include a relative clause and two different connectors. You may invent the experience.
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Marca una letra en las cinco cerradas; escribe las abiertas junto a su número en una hoja aparte.
 
-| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Respuesta |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
----
+| Pregunta | 3 | 8 | 16 | 23 | 24 |
+|---|---|---|---|---|---|
+| Respuesta | | | | | |
 
 ## PAUTA DE CORRECCIÓN
 
-| N° | Clave / Respuesta esperada | OA |
+**Cerradas:** 1 punto por la única alternativa correcta; 0 por otra, omitida o múltiple.
+**Abiertas:** 1 punto si cumple todos los criterios de su fila; 0,5 si cumple parte sustantiva sin contradecir el sentido central; 0 si no aporta evidencia pertinente, contradice el texto o está en blanco. Admitir paráfrasis y soluciones personales justificadas. Errores menores no anulan una respuesta comprensible. Las respuestas personales requieren revisión con rúbrica, nunca comparación literal automática.
+
+| N° | Clave / criterios de logro para 1 punto | OA |
 |---|---|---|
-| 1 | True (Verdadero) — *it is common* indica que la práctica está extendida (widespread) entre los estudiantes. | OA1 |
-| 2 | marcar una diferencia. | OA1 |
-| 3 | a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food. | OA1 |
-| 4 | although. | OA1 |
-| 5 | *The Day of the Dead is a Mexican celebration where families build colorful altars with photos, food, and flowers. Its purpose is to celebrate the lives of loved ones instead of mourning their deaths.* | OA1 |
-| 6 | dates back to. | OA1 |
-| 7 | False (Falso) — el texto dice que es una "common practice" (práctica común), justo lo opuesto de "unusual" (inusual). | OA1 |
-| 8 | d) Friluftsliv is a lifestyle that promotes spending time outdoors for well-being. | OA1 |
-| 9 | fast fashion. | OA3 |
-| 10 | On the other hand. | OA3 |
-| 11 | True (Verdadero) — el OA pide explícitamente comparar información sobre un tema entre distintos textos, contrastando más de una fuente. | OA3 |
-| 12 | Respuesta personal coherente, p. ej.: *"The article discusses the benefits of remote work for teenagers with part-time jobs. In my view, this argument is not fully convincing because it does not consider students without reliable internet access."* | OA3 |
-| 13 | studying (o "homework"). | OA3 |
-| 14 | True (Verdadero) — este OA exige adecuar cómo comunicas un mismo contenido según quién te lee y para qué escribes. | OA3 |
-| 15 | agregar una idea en la misma dirección. | OA3 |
-| 16 | b) This article explores how artificial intelligence is changing the way students learn and complete assignments. | OA3 |
-| 17 | Respuesta coherente usando conectores variados, p. ej.: *Firstly / In addition* o *First of all / Moreover*. | OA4 |
-| 18 | True (Verdadero) — el OA pide explícitamente evaluar la coherencia entre forma y propósito de un texto. | OA4 |
-| 19 | Respuesta personal coherente y gramaticalmente correcta, p. ej.: *"One tradition that is important to me is 'once' (afternoon tea). It is celebrated every day with my family. If I hadn't grown up with this tradition, I wouldn't have learned how much conversation matters to my family."* | OA4 |
-| 20 | are organized. | OA4 |
-| 21 | that (o "which"). | OA4 |
-| 22 | True (Verdadero) — este OA pide no solo escribir el texto, sino también revisar si su forma corresponde a su función comunicativa. | OA4 |
-| 23 | b) This is a recipe that has been in my family for years. | OA4 |
-| 24 | c) This festival is celebrated by my family every year with a big dinner. | OA4 |
-| 25 | Respuesta personal coherente, p. ej.: *"Hi! In my family, we have a tradition that is celebrated every Christmas Eve. A big dinner is prepared, and we share stories about our relatives. If I hadn't grown up with this custom, I wouldn't have felt so connected to my family."* | OA4 |
+| 1 | Bristol: reparación participativa / enseñar una reparación al siguiente visitante. Valdivia: intercambio de chaquetas / evitar vergüenza. Cuatro campos correctos. | OA1 |
+| 2 | Explica que visitantes aprenden y transmiten habilidades, en vez de limitarse a encargar un arreglo. | OA1 |
+| 3 | b) Bristol enseña reparación; Valdivia redistribuye ropa. Las otras alternativas añaden condiciones inexistentes o invierten actividades. | OA1 |
+| 4 | work beside them. Reutiliza la estructura del texto y conserva el sentido colaborativo. | OA1 |
+| 5 | Dos oraciones comprensibles: ofrece chaquetas limpias de otra talla sin pago y no exige donar para recibir. | OA1 |
+| 6 | Expresa la reutilización compartida con both y una diferencia fiel con whereas, en dos oraciones. | OA1 |
+| 7 | Relaciona identificar a los propietarios con posible vergüenza al pedir ropa, contraria al acceso digno. No exige una predicción literal. | OA1 |
+| 8 | d) Integra reutilización y colaboración en ambos; las otras opciones describen compra, competición o ventas no mencionadas. | OA1 |
+| 9 | Explica poder elegir un lugar más tranquilo sin imponer silencio en todo el colegio ni exigir explicación médica. | OA3 |
+| 10 | Tres oraciones: sala tranquila dos veces por semana; descanso frente al ruido; no se pide callar a todo el colegio. | OA3 |
+| 11 | Coinciden en ofrecer calma; difieren en propuesta de espacio/prioridad de accesibilidad, con conector pertinente. | OA3 |
+| 12 | Posición clara y razón vinculada al ruido, acceso o comprobación de resultados. Aceptar cualquier opción argumentada, incluso solución alternativa. | OA3 |
+| 13 | Could expresa posibilidad de detectar problemas, no garantía de que se detecten. | OA3 |
+| 14 | Aviso de dos oraciones claro para menores: prueba de rincón en planta baja e invitación a comentar su utilidad o nivel de ruido. | OA3 |
+| 15 | Pregunta pertinente (p. ej., si permite descansar o es accesible) y explicación de cómo informa la evaluación del ensayo. | OA3 |
+| 16 | a) Integra apoyo a una opción tranquila y las reservas de acceso/eficacia; las demás contradicen las fuentes o inventan resultados. | OA3 |
+| 17 | Identifica a Robin/compañero, responder y compartir experiencia, y un lugar o actividad pertinente. | OA4 |
+| 18 | Dos oraciones conectadas, ejemplo concreto y relación explícita con pertenencia/identidad. Sin exigir una experiencia determinada. | OA4 |
+| 19 | Visitors are welcomed by the group every Saturday. Aceptar otro orden gramatical de los complementos. | OA4 |
+| 20 | This is a place where people with different skills meet. Conserva significado sin duplicar place. | OA4 |
+| 21 | Experiencia coherente con if + past perfect negativo y would not have + participio; consecuencia sobre autopercepción. | OA4 |
+| 22 | Petición cortés del mapa (p. ej., Could you send me the map, please?) y explicación de adecuación a intercambio amistoso, no orden. | OA4 |
+| 23 | c) Contrasta creencia previa con reconocimiento de un aporte propio; las demás no muestran ese cambio o lo niegan. | OA4 |
+| 24 | d) Comparte experiencia y formula pregunta pertinente; las demás no cumplen el intercambio solicitado. | OA4 |
+| 25 | Correo con saludo/cierre y 4–5 oraciones: lugar/actividad, efecto en identidad, pregunta; relativo correcto y dos conectores distintos pertinentes; fluidez y tono amistoso. No se exige copiar el modelo. | OA4 |
 
 ### Resumen de puntaje por OA
 
-| OA | N° de preguntas | Preguntas |
-|---|---|---|
-| OA N°1 — Comprender información central de textos sobre otras culturas | 8 | 1–8 |
-| OA N°3 — Usar el inglés para comprender y producir textos breves, construyendo una postura personal crítica | 8 | 9–16 |
-| OA N°4 — Producir y comprender textos breves y claros para interactuar y tomar conciencia de la propia identidad | 9 | 17–25 |
-| **Total** | **25** | — |
-
-**Distribución por tipo de pregunta:** 5 de selección múltiple (alternativas:
-preguntas 3, 8, 16, 23 y 24) y 20 de respuesta abierta breve (completar,
-verdadero/falso, responder en inglés, emparejar, escribir siguiendo modelo y
-producción breve), en línea con el formato mixto del Examen Libre real de
-Inglés.
-
-**Nota sobre esta Forma:** todas las preguntas de esta Forma B son distintas
-a las del banco de contenido (`contenido/03-medio/ingles.md`). Siete
-preguntas por OA1 y OA3, y seis preguntas del OA4, provienen de ítems del
-banco de autoevaluación (`/contenido/03-medio/ingles.md`) que **no** fueron
-usados en el banco de contenido; el resto (preguntas 8, 16, 23, 24 y 25) son preguntas
-nuevas, construidas con el mismo vocabulario y las mismas estructuras
-gramaticales del glosario del curso.
-
----
+| OA | N° de preguntas | Preguntas | Puntaje máximo |
+|---|---|---|---|
+| OA 1 | 8 | 1–8 | 8 |
+| OA 3 | 8 | 9–16 | 8 |
+| OA 4 | 9 | 17–25 | 9 |
+| **Total** | **25** | **1–25** | **25** |
 
 # TABLA DE ESPECIFICACIONES
 
-Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
+| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo | Habilidades |
+|---|---|---|---|---|
+| OA 1 | 1–8 | 2 (3, 8) | 6 | Organizar, reutilizar estructura, resumir y comparar textos culturales. |
+| OA 3 | 9–16 | 1 (16) | 7 | Analizar vocabulario/modal, resumir con modelo, adaptar audiencia, contrastar y argumentar. |
+| OA 4 | 17–25 | 2 (23, 24) | 7 | Planificar, escribir, conectar ideas, revisar registro y reflexionar sobre identidad. |
+| **Total** | **25 preguntas** | **5** | **20** | **25 puntos** |
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 2 | 6 |
-| OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 1 | 7 |
-| OA 4 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 2 | 7 |
-| **Total** | **25 preguntas** | **5** | **20** |
+**Procedencia y alcance:** estímulos e ítems nuevos para este simulacro; la guía `contenido/03-medio/ingles.md` aporta habilidades, no preguntas copiadas. Fuente curricular: `Temarios/analisis/11-tercero-medio.md`, sección Inglés, OA 1/3/4. Esta distribución es una decisión de práctica, no una proporción oficial de tipos de pregunta Mineduc.

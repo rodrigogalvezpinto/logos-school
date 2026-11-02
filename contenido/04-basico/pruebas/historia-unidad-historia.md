@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
+oa_evaluados: OA 4
 eje: Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

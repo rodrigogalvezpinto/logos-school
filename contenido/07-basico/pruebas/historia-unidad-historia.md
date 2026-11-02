@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
+oa_por_pregunta: {"3":"OA 3","4":"OA 3","8":"OA 7","9":"OA 9","12":"OA 12","15":"OA 16"}
 eje: Eje 1 — Historia
 tipo: Prueba de unidad
 título: Prueba de Unidad — Historia

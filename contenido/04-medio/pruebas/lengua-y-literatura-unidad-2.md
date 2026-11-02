@@ -1,6 +1,7 @@
 ---
 asignatura: Lengua y Literatura
 curso: 4° medio
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 3","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 5","12":"OA 5","13":"OA 5","14":"OA 5"}
 unidad: "Unidad 2 — OA N°3 (evaluación crítica de textos no literarios) y OA N°5 (producción de textos coherentes y cohesionados)"
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -15,7 +16,29 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 30-35 minutos. **Preguntas:** 14.
 
-Las preguntas 1 a 7 se basan en el texto de práctica **"Por qué Chile no puede seguir regalando su cobre"** (columna de opinión). Las preguntas 8 a 14 se basan en el ejercicio de escritura comparado entre una versión (a) de ensayo comparativo y una versión (b) de guion de podcast estudiantil, trabajados en clase.
+Lee los estímulos incluidos a continuación. Las preguntas 1 a 7 se basan en la columna; las preguntas 8 a 14, en las versiones (a) y (b). No se requiere estudio previo de la guía.
+
+**Columna de opinión — «Por qué Chile no puede seguir regalando su cobre»**
+
+Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo Minero se simulan para analizar el discurso; no certifican un dato externo. Nombrar una institución no basta para verificar una afirmación: faltan informe, fecha, método y enlace.
+
+> Chile ha exportado cobre por más de un siglo, y sin embargo seguimos discutiendo si las empresas mineras pagan lo suficiente por extraer un recurso que no se puede recuperar. Según cifras del Consejo Minero, la tributación efectiva de la gran minería privada bordea el 40%, una cifra que las propias empresas repiten en cada debate legislativo como prueba de que "ya aportan demasiado". Pero esa cifra no cuenta toda la historia: no incluye el costo ambiental del agua que consumen en regiones donde la sequía ya es estructural, ni el hecho de que buena parte de las utilidades se gira a matrices en el extranjero, lejos de las comunidades que conviven con los tranques de relave.
+>
+> No se trata de expulsar a las mineras del país —serían necesarias décadas para reemplazar esos ingresos—, sino de exigir que retribuyan, en la misma proporción que se llevan, a las regiones que sostienen la industria. Cualquiera que se oponga a esto, en el fondo, está eligiendo el bolsillo de un puñado de accionistas por sobre el futuro de Atacama y Antofagasta.
+
+**Situación de escritura:** comunicar una comparación de dos fragmentos ficticios sobre el desarraigo: A narra desde la memoria de un hijo el exilio de una familia chilena en Suecia, con una madre que guarda la llave de su casa durante diecisiete años; B narra en tercera persona la adaptación de Wilmer en Antofagasta y sus videollamadas a su abuela en Maracaibo. Para producción, se simula A escrito en 1992 para recuperar memorias del exilio y B en 2026 en un debate sobre migración; no son fechas bibliográficas reales.
+
+**Versión (a) — párrafo de ensayo comparativo, dirigido a un profesor evaluador**
+
+> Ambos textos abordan el desarraigo, pero desde contextos de producción opuestos. Por un lado, "El baúl que no llegó" trata el exilio forzado por la dictadura como una pérdida heredada por la generación hija, lo que produce un efecto estético elegíaco. Por otro lado, "Data para llamar a la abuela" trata la migración económica contemporánea como un proceso de adaptación activa, lo que produce un efecto estético agridulce y esperanzador. En consecuencia, comparar ambos textos permite comprender que un mismo tema —el desarraigo— admite tratamientos radicalmente distintos según el contexto histórico en que la obra se produce.
+
+**Versión (b) — guion de podcast estudiantil para compañeros, borrador sin corregir**
+
+> Hoy leímos dos cuentos. Uno pasa en dictadura. Antofagasta queda en el norte de Chile. La abuela vive en Maracaibo. Los dos cuentos son buenos, escúchenlos.
+
+**Versión (b) corregida — ejemplo de adecuación oral y cohesión**
+
+> Hoy comparamos dos relatos sobre dejar el hogar: uno ambientado en el exilio de la dictadura, y el otro en la migración de hoy. ¿Se imaginan guardar la llave de tu casa durante diecisiete años, o llamar todas las noches a tu abuela desde el otro lado del continente? Los dos textos duelen distinto, pero los dos duelen. Los dejamos en la descripción.
 
 ---
 
@@ -37,7 +60,7 @@ Las preguntas 1 a 7 se basan en el texto de práctica **"Por qué Chile no puede
 
 5. *(Aplicación)* Identifica la ideología o visión de fondo que sostiene los argumentos de la columna, y explica por qué reconocer esa ideología no implica automáticamente que el argumento sea falso.
 
-6. *(Análisis integrado)* Evalúa la columna en su conjunto: ¿qué elementos te parecen argumentos sólidos, respaldados en evidencia verificable, y cuáles te parecen recursos retóricos que buscan persuadir sin necesariamente aportar evidencia? Justifica con al menos dos ejemplos de cada tipo.
+6. *(Análisis integrado)* Evalúa la veracidad de dos afirmaciones de la columna: la cifra tributaria y el consumo de agua. ¿Qué información falta para contrastarlas? Distingue dato contrastable de dato verificado e identifica dos recursos persuasivos sin respaldo suficiente. No es obligatorio encontrar evidencia sólida si el texto no la ofrece.
 
 7. *(Alternativas)* ¿Qué rol NO asume el enunciador de la columna frente a su audiencia?
    a) Defensor del interés regional y ambiental
@@ -77,11 +100,11 @@ Las preguntas 1 a 7 se basan en el texto de práctica **"Por qué Chile no puede
 
 3. **Respuesta esperada:** el enunciador asume el rol de defensor del interés regional y ambiental frente a un poder económico concentrado; esto se sostiene en que no presenta el tema de forma neutral, y en que el cierre del texto interpela directamente al lector apelando a su responsabilidad moral sobre "el futuro de Atacama y Antofagasta".
 
-4. **b.** Esta cifra se atribuye a una fuente identificable (el Consejo Minero), lo que permite, en principio, contrastarla con otras fuentes; las demás opciones son afirmaciones sin cifra concreta o formulaciones retóricas.
+4. **b.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
 
 5. **Respuesta esperada:** la columna se sostiene en una visión que prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones y comunidades locales, por sobre la maximización de utilidades privadas; reconocer esa ideología no invalida el argumento, porque un texto puede estar construido desde una posición de valores explícita y, al mismo tiempo, usar datos verificables y un razonamiento coherente.
 
-6. **Respuesta esperada:** como argumentos con respaldo verificable, se puede mencionar la cifra de tributación atribuida al Consejo Minero y el hecho constatable de que la actividad minera consume agua en regiones con sequía estructural; como recursos retóricos sin evidencia concreta, se puede mencionar la expresión imprecisa "buena parte de las utilidades" y el cierre que reduce la discusión a dos opciones, funcionando como una simplificación persuasiva más que como un argumento verificable.
+6. **Pauta manual:** Completo: distingue contrastabilidad de verificación y reconoce que la atribución ficticia no acredita el 40%; solicita informe, fecha y método para la tributación y datos regionales de consumo y disponibilidad de agua; identifica dos recursos como «buena parte» sin magnitud y el falso dilema final. Parcial: crítica pertinente pero incompleta en afirmaciones, fuentes o recursos. Insuficiente: acepta los datos por el solo prestigio institucional o no justifica. Se acepta concluir que no hay evidencia externa comprobada en el estímulo.
 
 7. **b.** El texto no busca exponer en igual medida los argumentos de las empresas mineras y los de quienes piden mayor retribución; adopta explícitamente una postura, lo que lo aleja del rol de fuente neutral.
 

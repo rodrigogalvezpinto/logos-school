@@ -1,11 +1,12 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
+oa_por_pregunta: {"2":"OA 5","7":"OA 6","10":"OA 8"}
 unidad: Unidad 1 — Reading (OA 5, 6 y 8)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Prueba de Inglés — Unidad 1: Reading
@@ -53,8 +54,9 @@ b) Anunciar una tienda (aviso publicitario)
 c) Pedir disculpas
 d) Describir el clima
 
-**6.** *(Completar)* Complete: *"I don't feel well. I think I ___ a cold."*
-(catch / caught / catches)
+**6.** *(Completar)* Complete with the past simple: *"Yesterday I played in the
+rain without a jacket. Today I don't feel well. I think I ___ a cold
+yesterday."* (catch / caught / catches)
 
 **7.** *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
 minutes."* Esto corresponde a instrucciones para preparar comida.
@@ -94,7 +96,7 @@ d) Sofía is quiet.
 3. can / can't
 4. *She visited her grandmother.*
 5. b) Anunciar una tienda (aviso publicitario)
-6. caught
+6. caught — *yesterday* indica pasado; *caught* es el pasado irregular de *catch*.
 7. V (Verdadero)
 8. *The pizza is $4.000. / It is $4.000.*
 9. b) I think the zoo is interesting.

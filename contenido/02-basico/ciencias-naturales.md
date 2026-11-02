@@ -63,7 +63,7 @@ viven (su hábitat).
 
 Todos los animales pasan por un **ciclo de vida**: un conjunto de etapas que se
 repiten generación tras generación, desde que nacen hasta que tienen sus propias
-crías. Pero ese ciclo no es igual en todos los animales. Los **mamíferos** (como el
+crías. Pero ese ciclo no es igual en todos los animales. La gran mayoría de los **mamíferos** (como el
 guanaco o el zorro chilla) crecen **dentro** del cuerpo de la madre y nacen ya
 pareciéndose a sus padres, solo que más pequeños; luego crecen alimentándose de
 leche materna. Las **aves** (como el chincol o el queltehue) nacen de un **huevo**
@@ -120,9 +120,9 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
 2. *(Verdadero o falso)* Los mamíferos, como el guanaco o el zorro chilla, nacen de
    un huevo que la madre pone fuera de su cuerpo.
    **Respuesta correcta:** Falso.
-   **Retroalimentación:** Los mamíferos crecen dentro del cuerpo de la madre y nacen
-   ya formados; no salen de un huevo. Eso sí ocurre en las aves, los anfibios y
-   muchos insectos.
+   **Retroalimentación:** La gran mayoría de los mamíferos, como el guanaco y el zorro
+   chilla, crece dentro del cuerpo de la madre y no nace de huevos puestos fuera de ella.
+   Algunos mamíferos, como el ornitorrinco y la equidna, sí ponen huevos.
 
 3. *(Clasificar/agrupar)* Junta cada animal según cómo nace: guanaco, chincol, rana,
    mariposa. Grupos: "crece dentro de la madre" y "sale de un huevo".

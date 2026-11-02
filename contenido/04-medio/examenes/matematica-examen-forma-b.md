@@ -255,7 +255,6 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|
 | OA 1 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
-| OA 2 | 17, 18, 19, 20, 21, 22, 23, 24 | 4 | 4 |
+| OA 2 | 17, 18, 19, 20, 21, 22, 23, 24, 25 | 4 | 5 |
 | OA 3 | 9, 10, 11, 12, 13, 14, 15, 16 | 4 | 4 |
-| Norte) + P(Sur)×P(retraso\ | 25 | 0 | 1 |
 | **Total** | **25 preguntas** | **12** | **13** |

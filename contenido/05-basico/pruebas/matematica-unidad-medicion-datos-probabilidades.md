@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
+oa_por_pregunta: {"11":"OA 26","12":"OA 26"}
 eje: Medición y Datos y Probabilidades (OA 19, 22, 23, 24, 26)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

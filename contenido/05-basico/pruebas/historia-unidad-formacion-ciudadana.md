@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
+oa_por_pregunta: {"3":"OA 13","5":"OA 13","7":"OA 14","11":"OA 14"}
 eje: Formación Ciudadana (OA 13, OA 14)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

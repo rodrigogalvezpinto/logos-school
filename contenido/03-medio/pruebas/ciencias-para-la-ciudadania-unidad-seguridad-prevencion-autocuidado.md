@@ -120,7 +120,7 @@ d) Actividad geotérmica.
 | 7 | b) Fuera del alcance de niños, en su envase original y en lugar fresco y seco. |
 | 8 | b) Mitigación. |
 | 9 | Falso — la mayoría de los incendios forestales en Chile tienen origen humano (negligencia, quemas mal controladas, intencionalidad). |
-| 10 | Es una medida de prevención, porque evita exponer nuevas viviendas a la amenaza de aluvión. |
+| 10 | Se acepta prevención si se justifica que evita exponer nuevas viviendas a la amenaza de aluvión; también adaptación si se explica que ajusta a largo plazo el uso del territorio a una amenaza persistente. Evaluar la coherencia de la justificación, no solo la etiqueta: la decisión no impide que ocurra el aluvión. |
 | 11 | a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra. |
 | 12 | Falso — también pueden generarse por erupciones volcánicas submarinas o costeras y por grandes deslizamientos de tierra o hielo. |
 | 13 | El riesgo es la posibilidad de que ocurra un evento dañino (amenaza + exposición + vulnerabilidad); el desastre ocurre cuando el evento se materializa y supera la capacidad de respuesta de la comunidad. |

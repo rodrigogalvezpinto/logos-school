@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 6° Básico
+oa_por_pregunta: {"7":"OA 11","8":"OA 11","9":"OA 11","10":"OA 11","11":"OA 11","12":"OA 11"}
 eje: Eje 2 — Patrones y Álgebra
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 2: Patrones y Álgebra

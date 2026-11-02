@@ -373,6 +373,8 @@ class DetallePreguntaRespuesta(BaseModel):
     respuesta_alumno: str | None
     respuesta_correcta: str | None
     es_correcta: bool | None
+    pauta_orientativa: str | None = None
+    retroalimentacion: str = ""
 
 
 @router.get("/intentos/{intento_id}/detalle", response_model=list[DetallePreguntaRespuesta])
@@ -402,6 +404,8 @@ def obtener_detalle_intento(
             respuesta_alumno=d.respuesta_alumno,
             respuesta_correcta=d.respuesta_correcta,
             es_correcta=d.es_correcta,
+            pauta_orientativa=d.pauta_orientativa,
+            retroalimentacion=d.retroalimentacion,
         )
         for d in detalle
     ]

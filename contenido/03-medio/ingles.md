@@ -4,7 +4,7 @@ curso: 3° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
 oa_evaluados: OA 1, OA 3, OA 4
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 3° Medio
@@ -154,7 +154,7 @@ se parecen y en qué se diferencian?
    Esta actividad también puedes verla en las secciones de "Comprensión
    escrita" del examen.
 
-5. *(Emparejar)* Relaciona el conector con su función: *"whereas"* → ¿"marcar
+5. *(Selección — dos opciones)* Relaciona el conector con su función: *"whereas"* → ¿"marcar
    una semejanza" o "marcar una diferencia"?
    **Respuesta correcta:** marcar una diferencia.
    **Retroalimentación:** *Whereas* (mientras que) se usa para contrastar dos
@@ -174,8 +174,7 @@ se parecen y en qué se diferencian?
    B says Chilean Fiestas Patrias last about a week too and center on
    traditional dances and food. ¿Qué oración compara correctamente ambos
    textos?
-   a) Both celebrations last about a week, but Carnival focuses on parades
-      and music, whereas Fiestas Patrias focuses on dances and food.
+   a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food.
    b) Carnival and Fiestas Patrias have nothing in common.
    c) Only Fiestas Patrias lasts a week.
    d) Carnival is about food, and Fiestas Patrias is about music.
@@ -238,7 +237,7 @@ se parecen y en qué se diferencian?
     peleas de agua y las visitas a los templos); limpiar la casa es un
     detalle adicional, no el foco principal.
 
-13. *(Emparejar)* Relaciona cada palabra con su definición en español:
+13. *(Selección — dos opciones)* Relaciona cada palabra con su definición en español:
     *"widespread"* → ¿"extendido / practicado por muchos" o "poco
     frecuente / raro"?
     **Respuesta correcta:** extendido / practicado por muchos.
@@ -251,7 +250,7 @@ se parecen y en qué se diferencian?
     not to offer it."* Statement: *According to the text, offering mint tea
     to guests is an unusual custom in Morocco.*
     **Respuesta correcta:** False (Falso).
-    **Retroalimentación:** El texto dice que es una "común practice"
+    **Retroalimentación:** El texto dice que es una "common practice"
     (práctica común), justo lo opuesto de "unusual" (inusual); hay que
     leer con atención antes de responder.
 
@@ -336,8 +335,7 @@ that*.
 1. *(Alternativas)* ¿Qué oración funciona mejor como **oración temática**
    para un resumen sobre un artículo de videojuegos y salud mental?
    a) Video games are fun.
-   b) This article examines both the positive and negative effects of video
-      games on teenagers' mental health.
+   b) This article examines both the positive and negative effects of video games on teenagers' mental health.
    c) I like video games a lot.
    d) There are many video games available today.
    **Respuesta correcta:** b.
@@ -367,7 +365,7 @@ that*.
    **Retroalimentación:** El detalle de apoyo debe mantener el mismo tema
    presentado en la oración temática, sin desviarse hacia otro asunto.
 
-5. *(Emparejar)* Relaciona la expresión con su función: *"I would argue
+5. *(Selección — dos opciones)* Relaciona la expresión con su función: *"I would argue
    that..."* → ¿"dar una opinión fundamentada" o "citar un dato textual"?
    **Respuesta correcta:** dar una opinión fundamentada.
    **Retroalimentación:** *I would argue that* introduce una postura
@@ -388,11 +386,8 @@ that*.
 7. *(Alternativas — desafiante)* Estás resumiendo un artículo para publicarlo
    en el blog del colegio (audiencia: otros estudiantes). ¿Qué versión es más
    apropiada según el público, contexto y propósito?
-   a) "This study, published in a peer-reviewed academic journal, presents
-      statistically significant findings regarding adolescent sleep
-      patterns."
-   b) "A new study shows that teens who don't get enough sleep do worse on
-      tests — so maybe it's time to prioritize sleep!"
+   a) "This study, published in a peer-reviewed academic journal, presents statistically significant findings regarding adolescent sleep patterns."
+   b) "A new study shows that teens who don't get enough sleep do worse on tests — so maybe it's time to prioritize sleep!"
    c) "Sleep."
    d) "According to the aforementioned longitudinal research..."
    **Respuesta correcta:** b.
@@ -457,7 +452,7 @@ that*.
     **Retroalimentación:** Este OA exige explícitamente adecuar cómo
     comunicas un mismo contenido según quién te lee y para qué escribes.
 
-14. *(Emparejar)* Relaciona el conector con su función: *"moreover"* → ¿"agregar
+14. *(Selección — dos opciones)* Relaciona el conector con su función: *"moreover"* → ¿"agregar
     una idea en la misma dirección" o "introducir un contraste"?
     **Respuesta correcta:** agregar una idea en la misma dirección.
     **Retroalimentación:** *Moreover* (además) suma información que refuerza
@@ -579,7 +574,7 @@ formal? ¿un resumen realmente resume?).
    correo formal exige un registro más cuidado que un mensaje informal entre
    amigos.
 
-5. *(Emparejar)* Relaciona el tipo de texto con su característica principal:
+5. *(Selección — dos opciones)* Relaciona el tipo de texto con su característica principal:
    *"a blog post for classmates"* → ¿"tono informal y cercano" o "tono
    formal y protocolar"?
    **Respuesta correcta:** tono informal y cercano.
@@ -608,9 +603,7 @@ formal? ¿un resumen realmente resume?).
    esperada de un texto que "toma conciencia de la propia identidad",
    combinando reflexión personal y una estructura gramatical específica?
    a) "Chile is a country in South America."
-   b) "Growing up in a small town that values close family ties, I've
-      realized that if I hadn't experienced this closeness, I wouldn't
-      value community as much as I do today."
+   b) "Growing up in a small town that values close family ties, I've realized that if I hadn't experienced this closeness, I wouldn't value community as much as I do today."
    c) "I like pizza and video games."
    d) "Traditions are celebrated in many countries."
    **Respuesta correcta:** b.
@@ -659,8 +652,7 @@ formal? ¿un resumen realmente resume?).
 13. *(Alternativas)* ¿Qué oración usa correctamente el **tercer condicional**
     para reflexionar sobre la propia identidad?
     a) If I don't visit my grandparents, I don't learn about our traditions.
-    b) If I hadn't visited my grandparents every summer, I wouldn't have
-       learned so much about our family traditions.
+    b) If I hadn't visited my grandparents every summer, I wouldn't have learned so much about our family traditions.
     c) If I will visit my grandparents, I will learn about traditions.
     d) If I visited my grandparents, I would learn about traditions.
     **Respuesta correcta:** b.

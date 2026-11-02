@@ -59,7 +59,7 @@ b) 60
 c) 4
 d) 15
 
-**Pregunta 11 (interpretar gráfico de barras dobles).** Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo, 6ºA leyó 30 libros y 6ºB leyó 22 libros; en abril, 6ºA leyó 18 libros y 6ºB leyó 35 libros. ¿En qué mes leyó más libros el curso 6ºB, y cuántos más leyó que 6ºA ese mes?
+**Pregunta 11 (interpretar gráfico de barras dobles).** Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo, 6ºA leyó 30 libros y 6ºB leyó 22 libros; en abril, 6ºA leyó 18 libros y 6ºB leyó 35 libros; en mayo, 6ºA leyó 26 libros y 6ºB leyó 20 libros; en junio, 6ºA leyó 33 libros y 6ºB leyó 24 libros. ¿En qué mes leyó más libros el curso 6ºB, y cuántos más leyó que 6ºA ese mes?
 
 **Pregunta 12 (problema no rutinario — gráfico circular).** En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, la porción de "caminando" ocupa exactamente un cuarto del círculo. ¿Qué porcentaje de estudiantes camina para llegar al colegio, y si el colegio tiene 320 estudiantes, cuántos de ellos caminan?
 

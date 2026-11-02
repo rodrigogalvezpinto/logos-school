@@ -112,9 +112,10 @@ pero enfrenta graves problemas de contaminación ambiental. Un grupo propone que
 exija mayor inversión en tecnologías limpias a las empresas, aunque eso reduzca su
 rentabilidad. Relaciona esta propuesta con el concepto de desarrollo sustentable.
 
-**Pregunta 14.** *(Análisis de caso)* Durante una crisis económica, el gobierno reduce la tasa
-de interés y aumenta el gasto público en obras para reactivar el empleo. ¿Qué función
-económica del Estado se ilustra en este caso?
+**Pregunta 14.** *(Análisis de caso)* Durante una crisis económica en Chile, el Banco Central
+autónomo reduce la tasa de política monetaria y el gobierno aumenta el gasto público en obras
+para reactivar el empleo. ¿Qué función económica del Estado se ilustra en este caso y qué
+herramienta corresponde a cada institución?
 
 **Pregunta 15.** *(Análisis de caso)* Una empresa exportadora paga a sus proveedores agrícolas
 precios muy por debajo del promedio de mercado, aprovechando su posición dominante en la
@@ -140,7 +141,7 @@ situación, y qué función del Estado podría intervenir?
 | 11 | b) Proveedora de bienes y servicios. |
 | 12 | 1-b, 2-a, 3-c. |
 | 13 | Busca equilibrar el desarrollo económico con la protección ambiental y el bienestar de futuras generaciones: crecer sin comprometer la capacidad del medioambiente de satisfacer necesidades futuras. |
-| 14 | Función estabilizadora: el Estado usa herramientas de política monetaria y fiscal para moderar los ciclos de crisis. |
+| 14 | Función estabilizadora: se busca moderar la crisis y favorecer la actividad y el empleo. La reducción de la tasa de política monetaria corresponde al Banco Central autónomo (política monetaria), no al gobierno; el aumento del gasto público corresponde al gobierno (política fiscal). Para el puntaje completo, identificar la función y distinguir ambas herramientas e instituciones; reconocer solo la función permite puntaje parcial. |
 | 15 | Se relaciona con la falta de comercio justo hacia pequeños productores; el Estado podría intervenir con su función reguladora (normas de competencia) o fiscalizadora (prácticas comerciales abusivas). |
 
 **Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (6 pts), hasta 2

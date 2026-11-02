@@ -3,7 +3,41 @@ from pathlib import Path
 from scripts.validar_evaluaciones_markdown import (
     check_conflicting_total_declarations,
     check_key_option_consistency,
+    check_reused_exam_stimuli,
 )
+
+
+def test_detecta_escala_de_notas_incompatible_con_exigencia_declarada():
+    from scripts.validar_evaluaciones_markdown import check_grade_scale_consistency
+
+    texto = """**Puntaje total:** 37 puntos
+| Puntaje obtenido | Nota aproximada (exigencia 60%) |
+|---|---|
+| 26-32 pts | 5,2 - 6,1 |
+"""
+    hallazgos = check_grade_scale_consistency(texto, "historia.md")
+    assert len(hallazgos) == 1
+    assert "4.8" in hallazgos[0] and "6.0" in hallazgos[0]
+    assert "historia.md:4" in hallazgos[0]
+
+
+def test_acepta_escalas_de_notas_concordantes_con_motor():
+    from app.domain.evaluaciones.value_objects import calcular_nota
+    from scripts.validar_evaluaciones_markdown import check_grade_scale_consistency
+
+    for total in (34, 35, 37):
+        filas = [f"| {p}-{p} pts | {calcular_nota(p, total):.1f} - {calcular_nota(p, total):.1f} |"
+                 for p in range(total + 1)]
+        texto = f"Puntaje total: {total} puntos\n| Puntaje obtenido | Nota (exigencia 60%) |\n|---|---|\n" + "\n".join(filas)
+        assert check_grade_scale_consistency(texto) == []
+    assert check_grade_scale_consistency("Una nota al pie sin escala numérica.") == []
+
+
+def test_escala_sin_total_verificable_se_informa():
+    from scripts.validar_evaluaciones_markdown import check_grade_scale_consistency
+
+    texto = "| Puntaje obtenido | Nota (exigencia 60%) |\n|---|---|\n| 0-10 pts | 1,0 - 3,0 |"
+    assert len(check_grade_scale_consistency(texto)) == 1
 
 
 def test_guia_ingles_5b_no_conserva_puntuacion_residual_en_pauta_postal():
@@ -11,6 +45,30 @@ def test_guia_ingles_5b_no_conserva_puntuacion_residual_en_pauta_postal():
     texto = guia.read_text(encoding="utf-8")
     assert "**Respuesta correcta:** b) From,." not in texto
     assert "**Respuesta correcta:** b) From." in texto
+
+
+def test_detecta_estimulo_largo_reutilizado_con_saltos_de_linea():
+    guia = 'Read: *"My sister has a new blue pencil case."*'
+    examen = 'Read: "My sister has a new\nblue pencil case."'
+    assert check_reused_exam_stimuli(examen, guia) == [
+        "my sister has a new blue pencil case"
+    ]
+
+
+def test_no_confunde_formula_breve_con_estimulo_reutilizado():
+    assert check_reused_exam_stimuli('"Thank you."', '"Thank you."') == []
+    assert check_reused_exam_stimuli(
+        '"My sister has a new blue pencil case."',
+        '"My brother has a new red pencil case."',
+    ) == []
+
+
+def test_simulacro_ingles_5b_no_copia_estimulos_largos_de_la_guia():
+    curso = Path(__file__).resolve().parents[3] / "contenido/05-basico"
+    guia = (curso / "ingles.md").read_text(encoding="utf-8")
+    examen = (curso / "examenes/ingles-examen-forma-b.md").read_text(encoding="utf-8")
+    assert check_reused_exam_stimuli(examen, guia) == []
+    assert check_key_option_consistency(examen) == []
 
 
 def test_detecta_clave_que_no_coincide_con_alternativa():

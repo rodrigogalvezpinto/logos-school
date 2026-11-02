@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { prepararPlanAislado } from './helpers';
 
 /** Fase 1, ítem 2.10 del plan de incorporación de hallazgos de Brincus — vista
  * semanal/mensual del plan de estudio (agrupación de UI sobre datos que ya existen). Ver
@@ -8,6 +9,7 @@ test.describe('Plan de estudio — vista semanal/mensual (Fase 1, ítem 2.10)', 
   test.use({ storageState: 'e2e/.storage-sofia.json' });
 
   test('el selector Lista/Semanal/Mensual existe y cambia la agrupación', async ({ page }) => {
+    await prepararPlanAislado(page);
     await page.goto('/alumno/plan-estudio');
     await page.waitForSelector('.selector-vista');
 

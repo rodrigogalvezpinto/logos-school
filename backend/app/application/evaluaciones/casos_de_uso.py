@@ -155,6 +155,8 @@ class ObtenerDetalleIntento:
                     respuesta_alumno=respuesta_alumno,
                     respuesta_correcta=p.respuesta_correcta if es_autocorregible else None,
                     es_correcta=es_correcta,
+                    pauta_orientativa=p.respuesta_correcta if not es_autocorregible else None,
+                    retroalimentacion=p.retroalimentacion,
                 )
             )
         return detalle

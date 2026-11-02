@@ -164,6 +164,8 @@ test.describe.serial('Auditoría Integral y Flujo Real: 3° Medio (Apoderado y A
       const opcion = page.locator('.opcion').first();
       await expect(opcion).toBeVisible();
       await opcion.click();
+      await expect(page.locator('.feedback')).not.toBeVisible();
+      await page.getByRole('button', { name: /Comprobar respuesta \/ Ver explicación/ }).click();
       await expect(page.locator('.feedback')).toBeVisible();
     }
 

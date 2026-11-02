@@ -7,7 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 15
 oa_evaluados: OA 1
 basado_en: contenido/04-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Prueba de Unidad — Inglés, 4° Medio
@@ -29,8 +29,7 @@ reemplaza identificar el propósito, la audiencia y el contexto de un texto.
    all information citizens can access, and independent thought is
    punished."* ¿Cuál es el elemento principal del tema tratado?
    a) A government that promotes free speech.
-   b) A society where the government controls information and punishes
-      independent thought.
+   b) A society where the government controls information and punishes independent thought.
    c) A story about space exploration.
    d) A romantic comedy set in the future.
 

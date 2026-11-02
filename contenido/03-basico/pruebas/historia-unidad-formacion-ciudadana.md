@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 3° básico
+oa_evaluados: OA 14
 unidad: Eje 3 — Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

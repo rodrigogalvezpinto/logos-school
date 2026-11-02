@@ -1,6 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 2° básico
+oa_por_pregunta: {"1":"OA 1","5":"OA 5"}
 unidad: 1
 tipo: Prueba de unidad
 tiempo_sugerido: 15 a 20 minutos

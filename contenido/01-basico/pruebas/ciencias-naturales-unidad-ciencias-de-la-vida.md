@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
+oa_por_pregunta: {"2":"OA 1","3":"OA 1","7":"OA 6","8":"OA 6"}
 unidad: Eje 1 — Ciencias de la Vida (OA 1, OA 5, OA 6)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos

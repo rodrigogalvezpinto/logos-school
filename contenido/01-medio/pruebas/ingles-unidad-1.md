@@ -1,13 +1,14 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 1° Medio
+oa_por_pregunta: {"2":"OA 9","3":"OA 9","11":"OA 10"}
 unidad: Unidad 1 — Reading (OA 9, OA 10)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 9, OA 10
 basado_en: contenido/01-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 
@@ -33,9 +34,9 @@ texto con calma antes de responder.
    explains ___ cacao was used by ancient civilizations."* Usa cada palabra del
    banco una vez, en el orden que corresponda: (how / about).
 
-3. *(Verdadero o falso)* Read: *"The Amazon rainforest produces about 6% to 9% of
-   the world's oxygen and is home to millions of species."* Statement: *The
-   Amazon rainforest has no impact on the world's oxygen.*
+3. *(Verdadero o falso)* Read: *"The Amazon rainforest helps regulate the climate
+   and is home to many species."* Statement: *The Amazon rainforest
+   has no role in regulating the climate.*
 
 4. *(Responder en inglés)* Read: *"In 1969, astronauts landed on the Moon for
    the first time. Millions of people watched the event on television."*
@@ -101,8 +102,8 @@ texto con calma antes de responder.
    proceso o modo.
 
 3. **False (Falso).**
-   El texto afirma explícitamente que produce aproximadamente el 6% al 9% del
-   oxígeno mundial, lo contrario a la afirmación.
+   El texto afirma que el Amazonas ayuda a regular el clima; la afirmación
+   niega ese papel. La respuesta se obtiene de la información explícita.
 
 4. **They landed on the Moon in 1969.**
    La respuesta usa la fecha exacta mencionada en el texto (información

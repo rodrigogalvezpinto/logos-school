@@ -464,11 +464,11 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | Puntaje obtenido | Nota aproximada (escala 1,0 a 7,0, exigencia 60%) |
 |-------------------|----------------------------------------------------|
-| 30-34 pts | 6,2 - 7,0 |
-| 24-29 pts | 5,2 - 6,1 |
-| 18-23 pts | 4,0 - 5,1 |
-| 12-17 pts | 3,0 - 3,9 |
-| 0-11 pts | 1,0 - 2,9 |
+| 30-34 pts | 6,1 - 7,0 |
+| 24-29 pts | 4,8 - 5,9 |
+| 18-23 pts | 3,6 - 4,6 |
+| 12-17 pts | 2,8 - 3,5 |
+| 0-11 pts | 1,0 - 2,6 |
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*

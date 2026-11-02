@@ -4,7 +4,7 @@ curso: 1° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°614/2013
 oa_evaluados: OA 9, OA 10, OA 13, OA 16
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 1° Medio
@@ -132,11 +132,13 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    **Retroalimentación:** *About* introduce el tema general; *how* introduce
    la explicación de un proceso o modo.
 
-3. *(Verdadero o falso)* Read: *"The Amazon rainforest is often said to produce about 20% of
-   the world's oxygen and is home to millions of species."* Statement: *The
-   Amazon rainforest produces a net surplus of 20% of the world's oxygen.*
+3. *(Verdadero o falso)* Read: *"The Amazon rainforest helps regulate the climate
+   and is home to many species."* Statement: *The Amazon rainforest
+   has no role in regulating the climate.*
    **Respuesta correcta:** False (Falso).
-   **Retroalimentación:** El Amazonas **no produce un 20% neto** de oxígeno. Su ecosistema consume casi todo el oxígeno que genera (contribución neta ≈ 0%). La cifra del 20% se refiere a la fotosíntesis bruta, pero la respiración del propio bosque consume la mayor parte. La contribución bruta real es ~6-9% de la fotosíntesis global.
+   **Retroalimentación:** El texto afirma que el Amazonas ayuda a regular el clima;
+   la afirmación lo niega. Se responde usando esa información explícita, sin
+   necesitar conocimientos externos ni porcentajes de producción de oxígeno.
 
 4. *(Responder en inglés)* Read: *"In 1969, astronauts landed on the Moon for
    the first time. Millions of people watched the event on television."*
@@ -509,11 +511,17 @@ the airport but now I work at a school*) y **acciones pasadas que continúan
 en el presente** con el presente perfecto (*I have saved money to buy a
 bike*). También vas a **solicitar y dar información sobre duración** (*How
 long have you been friends? For 2 years/Since 2010*) y **entregar información
-esencial o adicional** con oraciones subordinadas usando ***who*** y
-***which*** (*Simon is the boy who lives next door; the science book, which I
-borrowed from the library, is very interesting*). Por último, vas a **unir
-ideas** con conectores más complejos (*although, so that, both...and, and
-last*).
+esencial o adicional** con oraciones subordinadas usando ***who***,
+***which*** y ***where*** (*Simon is the boy who lives next door; the science
+book, which I borrowed from the library, is very interesting; this is the
+place where we can see people dance in the streets*). Además, vas a
+**describir procesos y obras** con la **voz pasiva** (*This picture was
+painted by a famous artist; the piece was composed by a young musician*) — la
+pasiva se forma con *be* + participio pasado y se usa cuando importa la obra o
+el resultado, no quién la hizo — y a **describir necesidades** con ***need
+to*** (es necesario) y ***needn't*** (no hace falta): *You needn't play
+tonight; you need to practice more*. Por último, vas a **unir ideas** con
+conectores más complejos (*although, so that, both...and, and last*).
 
 **Vocabulario clave**
 
@@ -533,7 +541,9 @@ last*).
 | once/twice a month, quite shy | una/dos veces al mes, bastante tímido |
 | used to (I used to work as a waiter) | solía (trabajaba como mesero, ya no) |
 | How long have you...? For.../Since... | ¿Cuánto tiempo llevas...? Por.../Desde... |
-| who / which (oraciones subordinadas) | que, quien / que, el cual |
+| who / which / where (oraciones subordinadas) | que, quien / que, el cual / donde |
+| was painted/composed by... (voz pasiva) | fue pintado/compuesto por... |
+| need to / needn't | es necesario / no hace falta |
 | although, so that, both...and, and last | aunque, para que, tanto...como, y por último |
 
 **Ejemplos resueltos**
@@ -555,6 +565,16 @@ last*).
    improve faster."* (Mi profesora, que ha enseñado inglés por veinte años,
    dice que la práctica es la clave para aprender un idioma. Según ella, los
    estudiantes que leen todos los días mejoran más rápido.)
+
+4. **Procesos, necesidades e información adicional:** *"This is the small
+   theatre where local musicians perform every month. This piece was
+   composed by a student of the school, and the posters were designed by an
+   art class. You need to arrive early to get a seat, but you needn't buy a
+   ticket — entry is free."* (Este es el pequeño teatro donde músicos
+   locales se presentan cada mes. Esta pieza fue compuesta por un
+   estudiante de la escuela, y los afiches fueron diseñados por un curso de
+   arte. Necesitas llegar temprano para conseguir asiento, pero no hace
+   falta que compres entrada — es gratis.)
 
 **Banco de autoevaluación**
 
@@ -629,15 +649,15 @@ last*).
    teacher*) con una cualidad personal (*very patient*) en una oración
    completa.
 
-10. *(Completar — desafiante)* Complete the sentence with used to or the
-    present perfect: *"My grandfather ___ (work) as a fisherman for forty
-    years, but he ___ (retire) three years ago."* (usa presente perfecto y
-    pasado simple)
-    **Respuesta correcta:** has worked / retired.
-    **Retroalimentación:** *For forty years* con una acción que llega hasta
-    hoy o se enfatiza su duración total usa presente perfecto; *three years
-    ago* indica un momento específico y terminado, por lo que se usa pasado
-    simple.
+10. *(Completar — desafiante)* Complete the sentence with the present
+    perfect or the past simple: *"My aunt ___ (work) as a nurse for forty
+    years — she still works at the hospital today — but she ___ (start)
+    that job in 1985."*
+    **Respuesta correcta:** has worked / started.
+    **Retroalimentación:** *For forty years* describe una acción que sigue
+    vigente ("she still works"), por lo que exige presente perfecto (*has
+    worked*); *in 1985* es un momento específico y terminado, por lo que se
+    usa pasado simple (*started*).
 
 11. *(Responder en inglés — desafiante)* Answer citing someone else's
     opinion: *"According to your teacher, why is it important to read every
@@ -655,6 +675,31 @@ last*).
     **Retroalimentación:** *Apply for a job* (postular a un trabajo) y
     *part-time job* (trabajo de media jornada) son combinaciones frecuentes
     de palabras (collocations) del ámbito laboral.
+
+13. *(Completar)* Complete with the correct passive form: *"This famous song
+    ___ (compose) by a Chilean musician in the 1980s, and it is still
+    performed today."*
+    **Respuesta correcta:** was composed.
+    **Retroalimentación:** La voz pasiva (*be* + participio pasado) describe
+    procesos u obras cuando importa el resultado, no quién lo hizo: *was
+    composed by...* (fue compuesta por...). En pasado: *was/were* +
+    participio.
+
+14. *(Completar)* Complete with need to or needn't: *"You ___ rehearse more
+    before the concert — practice is essential — but you ___ bring your own
+    instrument; the school lends you one."*
+    **Respuesta correcta:** need to / needn't.
+    **Retroalimentación:** *Need to* expresa una necesidad real (es necesario
+    ensayar); *needn't* significa que no hace falta (no es necesario traer el
+    instrumento).
+
+15. *(Completar)* Complete with who, which or where: *"This is the square
+    ___ families gather to see street performers every weekend. The artists
+    ___ perform there are mostly students."*
+    **Respuesta correcta:** where / who.
+    **Retroalimentación:** *Where* introduce información adicional sobre un
+    lugar (*the square where families gather*); *who* se usa para personas
+    (*the artists who perform*); *which* se reserva para cosas.
 
 ---
 
@@ -737,5 +782,8 @@ once/twice a month; quite shy (frecuencia, grado y tiempo); I used to work
 as a waiter (hábitos pasados); I have saved money to buy a bike (acciones
 pasadas que continúan en el presente); How long have you...? For.../Since...
 (duración); Simon is the boy who lives next door; the book, which I
-borrowed, is interesting (información esencial/adicional con who/which);
+borrowed, is interesting; this is the place where people dance in the
+streets (información esencial/adicional con who/which/where); this picture
+was painted by..., the piece was composed by... (voz pasiva para procesos);
+you need to practice; you needn't play tonight (necesidades);
 although, so that, both...and, and last (conectores para unir ideas).

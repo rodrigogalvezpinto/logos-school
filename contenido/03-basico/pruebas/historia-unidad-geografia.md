@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 3° básico
+oa_por_pregunta: {"2":"OA 7","3":"OA 7","4":"OA 7","7":"OA 8","8":"OA 8","9":"OA 8"}
 unidad: Eje 2 — Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
@@ -32,7 +33,7 @@ Verdadero ___ Falso ___
 
 ---
 
-**3.** ¿Cuántos continentes tiene el planeta Tierra?
+**3.** Según el modelo estudiado en la guía, que considera a América como un solo continente, ¿cuántos continentes tiene el planeta Tierra?
 
 a) Cuatro
 b) Cinco

@@ -4,7 +4,7 @@ curso: 4° Medio
 tipo: Guía de estudio
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común)
 oa_evaluados: OA 1, OA 3, OA 4
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 ---
 
 # Inglés – 4° Medio
@@ -127,8 +127,7 @@ forma ordenada.
    all information citizens can access, and independent thought is
    punished."* ¿Cuál es el elemento principal del tema tratado?
    a) A government that promotes free speech.
-   b) A society where the government controls information and punishes
-      independent thought.
+   b) A society where the government controls information and punishes independent thought.
    c) A story about space exploration.
    d) A romantic comedy set in the future.
    **Respuesta correcta:** b.
@@ -164,7 +163,7 @@ forma ordenada.
    localizar datos específicos (dónde, quién, qué problema) y clasificarlos
    por categoría.
 
-5. *(Emparejar)* Relaciona el tipo de texto con su característica típica:
+5. *(Selección — dos opciones)* Relaciona el tipo de texto con su característica típica:
    *"a book review"* → ¿"da una opinión evaluativa sobre una obra" o
    "explica un proceso científico paso a paso"?
    **Respuesta correcta:** da una opinión evaluativa sobre una obra.
@@ -378,7 +377,7 @@ estas estructuras con una postura personal crítica.
    seleccionar solo los datos que responden a las categorías pedidas, sin
    agregar detalles innecesarios.
 
-5. *(Emparejar)* Relaciona el modal con su significado: *"can't have"* →
+5. *(Selección — dos opciones)* Relaciona el modal con su significado: *"can't have"* →
    ¿"imposibilidad" o "posibilidad"?
    **Respuesta correcta:** imposibilidad.
    **Retroalimentación:** *Can't have* + participio expresa que algo es
@@ -437,9 +436,7 @@ estas estructuras con una postura personal crítica.
     de texto ya trabajado) sobre una serie de ciencia ficción. ¿Qué oración
     se ajusta mejor a la estructura de una reseña con postura crítica?
     a) "The series has robots."
-    b) "In my opinion, the series' exploration of artificial intelligence
-       raises questions that most viewers might have never considered
-       before."
+    b) "In my opinion, the series' exploration of artificial intelligence raises questions that most viewers might have never considered before."
     c) "I watched a series."
     d) "Robots are in movies."
     **Respuesta correcta:** b.
@@ -562,8 +559,7 @@ sobre otras visiones de mundo y la tuya propia.
 1. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
    sobre identidad cultural?
    a) "I have a culture."
-   b) "My heritage and upbringing have shaped my sense of belonging to my
-      community."
+   b) "My heritage and upbringing have shaped my sense of belonging to my community."
    c) "My country is nice."
    d) "I like things from my culture."
    **Respuesta correcta:** b.
@@ -594,7 +590,7 @@ sobre otras visiones de mundo y la tuya propia.
    sources suggest...*) es una estructura útil para organizar una síntesis
    clara.
 
-5. *(Emparejar)* Relaciona la expresión con su función: *"overall"* →
+5. *(Selección — dos opciones)* Relaciona la expresión con su función: *"overall"* →
    ¿"introducir una conclusión general" o "citar una fuente específica"?
    **Respuesta correcta:** introducir una conclusión general.
    **Retroalimentación:** *Overall* se usa para resumir una idea general
@@ -615,9 +611,7 @@ sobre otras visiones de mundo y la tuya propia.
    propia identidad, integrando estructuras de todo el ciclo escolar. ¿Qué
    oración logra esto de forma más completa?
    a) "I am Chilean."
-   b) "If I hadn't grown up surrounded by traditions that are still
-      celebrated today, I wouldn't have understood how much my roots have
-      shaped who I am."
+   b) "If I hadn't grown up surrounded by traditions that are still celebrated today, I wouldn't have understood how much my roots have shaped who I am."
    c) "My family likes traditions."
    d) "Chile has many traditions."
    **Respuesta correcta:** b.
@@ -667,8 +661,7 @@ sobre otras visiones de mundo y la tuya propia.
 12. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
     sobre el sentido de pertenencia a una comunidad?
     a) "I know people."
-    b) "Being part of my local community has given me a strong sense of
-       belonging, especially through shared traditions."
+    b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions."
     c) "My town is fine."
     d) "There are people near my house."
     **Respuesta correcta:** b.

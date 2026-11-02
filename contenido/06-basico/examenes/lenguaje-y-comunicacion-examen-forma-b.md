@@ -3,7 +3,7 @@ asignatura: Lenguaje y Comunicación
 curso: 6° básico
 tipo: Prueba de práctica (examen de ensayo) — Forma B
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-última actualización: 2026-08-10
+ultima_actualizacion: 2026-11-02
 ---
 
 # Prueba de práctica — Lenguaje y Comunicación — 6° básico (Forma B)
@@ -190,7 +190,7 @@ d) No hay ninguna descripción del ambiente
 
 ## Sección de Escritura informativa (para las preguntas 22 a 25)
 
-**22. (Alternativas)** Según el **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **segundo párrafo del Texto A** ("Atrapando agua del aire en Alto Hospicio")?
+**22. (Alternativas)** Según el **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **Texto A** ("Atrapando agua del aire en Alto Hospicio")?
 
 a) El principio físico de los atrapanieblas
 b) El impacto social de los atrapanieblas en la comunidad de Alto Hospicio

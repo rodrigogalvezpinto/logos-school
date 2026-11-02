@@ -1,13 +1,14 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 2° Medio
+oa_por_pregunta: {"2":"OA 9"}
 unidad: Unidad 1 — Reading (OA 9, OA 10)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 9, OA 10
 basado_en: contenido/02-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 

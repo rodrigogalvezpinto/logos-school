@@ -1,4 +1,4 @@
-import { execSync } from 'node:child_process';
+import { API_URL, ejecutarSqlPrueba } from './helpers';
 import { test, expect } from '@playwright/test';
 
 /** Cruce sueño / horario de estudio — idea propia (no un hallazgo de Brincus, ver
@@ -59,13 +59,13 @@ test('el apoderado ve una observación cuando el alumno estudia tarde en la noch
   // integradas por nivel (esa es otra ruta, /conjuntos/nivel/{id}, solo para Régimen A) —
   // hay que recorrer las asignaturas del nivel hasta juntar suficientes.
   const asignaturas = await (
-    await request.get(`http://localhost:8000/contenido/niveles/${NIVEL_ID}/asignaturas`, { headers })
+    await request.get(`${API_URL}/contenido/niveles/${NIVEL_ID}/asignaturas`, { headers })
   ).json();
   const pruebas: { id: number }[] = [];
   for (const asignatura of asignaturas) {
     if (pruebas.length >= 3) break;
     const conjuntos = await (
-      await request.get(`http://localhost:8000/evaluaciones/conjuntos/asignatura/${asignatura.id}`, { headers })
+      await request.get(`${API_URL}/evaluaciones/conjuntos/asignatura/${asignatura.id}`, { headers })
     ).json();
     pruebas.push(...conjuntos.filter((c: { tipo: string }) => c.tipo === 'prueba_unidad'));
   }
@@ -74,19 +74,19 @@ test('el apoderado ve una observación cuando el alumno estudia tarde en la noch
   const idsIntentos: number[] = [];
   for (const prueba of pruebas.slice(0, 3)) {
     const intento = await (
-      await request.post('http://localhost:8000/evaluaciones/intentos', {
+      await request.post(`${API_URL}/evaluaciones/intentos`, {
         headers,
         data: { perfil_alumno_id: perfil.id, conjunto_evaluacion_id: prueba.id },
       })
     ).json();
-    await request.post(`http://localhost:8000/evaluaciones/intentos/${intento.id}/entregar`, { headers });
+    await request.post(`${API_URL}/evaluaciones/intentos/${intento.id}/entregar`, { headers });
     idsIntentos.push(intento.id);
   }
 
   // 23:00 hora de Chile = 02:00 UTC del día siguiente (offset fijo -3 que usa el backend).
   for (const id of idsIntentos) {
-    execSync(
-      `psql "postgresql://logos_dev:logos_dev_local@localhost:5432/logos_qa" -c "UPDATE intento_evaluacion SET fecha_termino = '2026-08-10 02:00:00' WHERE id = ${id}"`,
+    ejecutarSqlPrueba(
+      `UPDATE intento_evaluacion SET fecha_termino = '2026-08-10 02:00:00' WHERE id = ${id}`,
     );
   }
 

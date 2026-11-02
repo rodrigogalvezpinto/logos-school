@@ -1,4 +1,8 @@
-from app.infrastructure.persistence.orm_models import Asignatura, Nivel, ObjetivoAprendizaje, Pregunta
+import pytest
+from sqlmodel import Session, SQLModel, create_engine
+
+from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Nivel, ObjetivoAprendizaje, Pregunta
+from app.infrastructure.persistence.repositorios.preguntas import RepositorioPreguntasSQLModel
 
 
 def _crear_nivel_con_pregunta(session):
@@ -87,3 +91,54 @@ def test_autoevaluacion_de_oa_inexistente_da_404(client, session):
     _crear_nivel_con_pregunta(session)
     r = client.get("/evaluaciones/autoevaluacion/999")
     assert r.status_code == 404
+
+
+@pytest.fixture
+def banco_y_conjuntos_en_memoria():
+    engine = create_engine("sqlite://")
+    SQLModel.metadata.create_all(engine)
+    with Session(engine) as session:
+        session.add(Nivel(id=1, nombre="Nivel de prueba", regimen="A", decreto="439/2012",
+                          formato_examen="integrado", num_preguntas_examen=20, duracion_examen_min=60))
+        session.add(Asignatura(id=1, nivel_id=1, nombre="Matemática"))
+        session.add_all([
+            ObjetivoAprendizaje(id=i, asignatura_id=1, codigo_oficial=f"OA {i}", descripcion="Objetivo de prueba")
+            for i in (1, 2)
+        ])
+        session.add_all([
+            Pregunta(id=i, oa_id=2 if i == 5 else 1, asignatura_id=1,
+                     tipo="desarrollo_breve" if i in (3, 4) else "alternativas",
+                     enunciado=f"Pregunta {i}", opciones=None if i in (3, 4) else ["1", "2"],
+                     respuesta_correcta="Justificación" if i in (3, 4) else "2")
+            for i in range(1, 6)
+        ])
+        session.add_all([
+            ConjuntoEvaluacion(tipo="prueba_unidad", asignatura_id=1, nombre="Unidad", pregunta_ids=[2]),
+            ConjuntoEvaluacion(tipo="examen_simulacro", nivel_id=1, nombre="Examen", pregunta_ids=[2, 3]),
+            ConjuntoEvaluacion(tipo="prueba_unidad", asignatura_id=1, nombre="Vacío", pregunta_ids=[]),
+        ])
+        session.commit()
+        yield session
+    engine.dispose()
+
+
+def test_autoevaluacion_excluye_conjuntos_sin_perder_banco_abierto(banco_y_conjuntos_en_memoria):
+    repositorio = RepositorioPreguntasSQLModel(banco_y_conjuntos_en_memoria)
+    assert {p.id for p in repositorio.buscar_por_oa(1)} == {1, 4}
+    assert {p.id for p in repositorio.buscar_por_oa(2)} == {5}
+    assert repositorio.buscar_por_oa(999) == []
+
+
+def test_simulacro_parcial_no_consume_el_banco_de_autoevaluacion(banco_y_conjuntos_en_memoria):
+    session = banco_y_conjuntos_en_memoria
+    session.add(ConjuntoEvaluacion(tipo="examen_simulacro_parcial", asignatura_id=1,
+                                  nombre="Parcial", pregunta_ids=[1]))
+    session.commit()
+    repositorio = RepositorioPreguntasSQLModel(session)
+    assert {p.id for p in repositorio.buscar_por_oa(1)} == {1, 4}
+
+
+def test_busqueda_por_ids_conserva_preguntas_de_evaluaciones(banco_y_conjuntos_en_memoria):
+    repositorio = RepositorioPreguntasSQLModel(banco_y_conjuntos_en_memoria)
+    assert [p.id for p in repositorio.listar_por_ids([2, 3, 999])] == [2, 3]
+    assert [p.id for p in repositorio.listar_para_correccion([2, 3, 999])] == [2, 3]

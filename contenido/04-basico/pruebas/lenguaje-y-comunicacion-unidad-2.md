@@ -1,6 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 4° básico
+oa_por_pregunta: {"1":"OA 6","2":"OA 6","3":"OA 6","4":"OA 6","5":"OA 6","6":"OA 17","7":"OA 17","8":"OA 17","9":"OA 17"}
 unidad: Unidad 2
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
@@ -20,6 +21,8 @@ ultima_actualizacion: 2026-10-28
 ---
 
 ## Texto para esta prueba: "El puma, el gran felino de los Andes chilenos"
+
+Lee este artículo y responde las preguntas 1 a 5:
 
 > **¿Dónde vive?**
 > El puma (*Puma concolor*) vive a lo largo de casi todo Chile, desde el desierto de Atacama hasta los bosques de la Patagonia. Es uno de los animales que puede vivir en más ambientes distintos de nuestro país, porque se adapta fácilmente a climas fríos y calurosos.

@@ -7,7 +7,7 @@ duración: 90 minutos
 n° de preguntas: 25
 materiales permitidos: lápiz, goma, hoja de respuesta
 fuente curricular: Bases Curriculares, Decreto 439/2012 (Mineduc/UCE) — mismos OA que /05-basico/lenguaje-y-comunicacion.md
-observación: Forma B — versión alternativa del examen de práctica, que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con el banco de contenido ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
+observación: forma de práctica denominada "Forma B", que evalúa los mismos 6 Objetivos de Aprendizaje (N°4, N°5, N°6, N°7, N°14, N°15) pero con textos de estímulo 100% nuevos (ningún cuento, poema, texto informativo ni afiche se repite con el banco de contenido ni con la guía de estudio), para entrenar comprensión lectora real sobre material inédito.
 última actualización: 2026-08-11
 ---
 
@@ -15,7 +15,7 @@ observación: Forma B — versión alternativa del examen de práctica, que eval
 
 ## Examen de práctica — Examen Libre de Validación de Estudios
 
-*Esta es la **Forma B** del examen de ensayo de la asignatura. Evalúa los mismos Objetivos de Aprendizaje que el banco de contenido y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Esta es una forma de práctica de la asignatura, denominada **Forma B**. Evalúa los mismos Objetivos de Aprendizaje que el banco de contenido y que la guía de estudio (`lenguaje-y-comunicacion.md`), pero con **textos de estímulo completamente nuevos** —distintos cuentos, un poema distinto, un texto informativo distinto con su propia tabla de datos, un afiche distinto y un texto adicional distinto—, para que puedas practicar la comprensión lectora sobre material que nunca has visto, tal como ocurrirá en el examen real. Desde 5° básico, el Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
@@ -252,7 +252,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
 | 1 | **a)** "Manos ásperas y siempre manchadas de greda seca" sugiere años de trabajo y experiencia en la alfarería; esta característica física es relevante porque explica su paciencia y maestría al enseñar. | OA N°4 — características físicas relevantes |
-| 2 | Significa que las cosas que valen la pena requieren tiempo y no se pueden apurar, o se "quiebran" (se echan a perder). Es una **metáfora**, porque compara la vida con la greda sin usar la palabra "como". | OA N°4 — lenguaje figurado en narraciones |
+| 2 | Significa que las cosas que valen la pena requieren tiempo y no se pueden apurar, o se "quiebran" (se echan a perder). La figura esperada es la **metáfora**, porque compara la vida con la greda sin usar la palabra "como". También se acepta **personificación** si el estudiante la fundamenta expresamente en "la greda no miente", es decir, en que se atribuye a un objeto la capacidad humana de decir la verdad o mentir. | OA N°4 — lenguaje figurado en narraciones |
 | 3 | **d)** Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía. | OA N°4 — inferencia sobre personajes |
 | 4 | Debe explicar que la alegría de Tomás es distinta porque proviene de haber ayudado a un ser vivo a recuperarse y volver a ser libre, un proceso que tomó tiempo, cuidado y paciencia (dos semanas de recuperación), a diferencia de otras alegrías más inmediatas. Debe relacionar esta idea con el mensaje de tata Segundo: que las cosas que realmente valen la pena requieren tiempo y paciencia, no apuro. | OA N°4 — interpretación profunda y relación entre textos |
 | 5 | **a)** Rima asonante, porque solo coinciden los sonidos vocálicos (a-a) entre "casa" y "cama", no todos los sonidos (las consonantes "s" y "m" son distintas). | OA N°5 — elementos formales del poema (rima) |

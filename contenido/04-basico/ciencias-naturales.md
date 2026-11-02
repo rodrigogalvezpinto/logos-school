@@ -593,8 +593,8 @@ Aunque la Tierra se ve como una gran esfera sólida desde afuera, por dentro est
 formada por distintas **capas**, cada una con características propias. La **corteza**
 es la capa más externa y delgada: es donde vivimos, y es sólida y rígida (en ella
 están los continentes y el fondo de los océanos). Debajo está el **manto**, una capa
-mucho más gruesa formada por roca que, debido a las altas temperaturas y presiones, se
-comporta de forma semi-líquida (fluye muy lentamente, como una masa espesa). En el
+mucho más gruesa formada por roca predominantemente sólida que puede fluir muy
+lentamente durante millones de años. En algunas zonas, parte de la roca está fundida. En el
 centro está el **núcleo**, la capa más caliente de todas, compuesta principalmente por
 hierro y níquel. Una forma sencilla de imaginarlo es pensar en un damasco (durazno):
 la cáscara sería la corteza, la pulpa sería el manto, y el carozo sería el núcleo. En
@@ -603,12 +603,12 @@ general, mientras más profunda es una capa, mayor es su temperatura.
 **Ejemplos resueltos**
 
 1. **Modelo del damasco.** Cáscara = corteza (delgada, rígida, donde vivimos). Pulpa =
-   manto (gruesa, caliente, semi-líquida). Carozo = núcleo (el centro, la parte más
+   manto (gruesa, caliente, predominantemente sólida). Carozo = núcleo (el centro, la parte más
    caliente).
 
 2. **Comparar temperaturas.** La corteza, donde vivimos, tiene temperaturas
    relativamente frías (comparadas con el resto del planeta). El manto contiene roca
-   fundida (magma) a temperaturas muy altas. El núcleo alcanza las temperaturas más
+   muy caliente, mayormente sólida, con algunas zonas parcialmente fundidas. El núcleo alcanza las temperaturas más
    extremas de todo el planeta.
 
 3. **Tabla comparativa.**
@@ -616,7 +616,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    | Capa | Posición | Rigidez / composición | Temperatura |
    |---|---|---|---|
    | Corteza | Más externa | Sólida y rígida | La más baja |
-   | Manto | Intermedia | Semi-líquida (fluye lentamente) | Alta |
+   | Manto | Intermedia | Predominantemente sólida (fluye muy lentamente) | Alta |
    | Núcleo | Más interna (centro) | Compuesta por metales | La más alta |
 
 **Banco de preguntas de autoevaluación**
@@ -644,19 +644,19 @@ general, mientras más profunda es una capa, mayor es su temperatura.
 4. *(Desarrollo breve)* Ordena las capas de la Tierra desde la más externa hasta la
    más interna, indicando la rigidez y la temperatura de cada una.
    **Respuesta esperada:** Corteza (la más rígida y la más externa, con la temperatura
-   más baja) → manto (semi-líquido, con roca fundida, capa intermedia) → núcleo (el más
+   más baja) → manto (predominantemente sólido, fluye muy lentamente, capa intermedia) → núcleo (el más
    interno, compuesto por metales y con la temperatura más alta).
    **Retroalimentación:** Comparar rigidez, posición y temperatura al mismo tiempo
    ayuda a entender cómo se relacionan las tres capas entre sí.
 
 5. *(Alternativas)* El manto terrestre se caracteriza por:
    a) Ser sólido y frío
-   b) Estar formado por roca en un estado semi-líquido y caliente
+   b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente
    c) Ser la capa más externa
    d) Tener la temperatura más baja de las tres capas
-   **Respuesta correcta:** b) Estar formado por roca en un estado semi-líquido y caliente.
-   **Retroalimentación:** El manto, debido a la alta temperatura y presión, se
-   comporta como una masa espesa que fluye muy lentamente.
+   **Respuesta correcta:** b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente.
+   **Retroalimentación:** Aunque es mayormente sólido, el manto puede deformarse y
+   fluir muy lentamente durante millones de años; solo algunas zonas están parcialmente fundidas.
 
 6. *(Aplicación)* ¿Por qué crees que la corteza terrestre, siendo tan delgada en
    comparación con las otras capas, puede tener montañas, volcanes y océanos?
@@ -676,8 +676,9 @@ paisaje de Chile.
 
 **Explicación pedagógica**
 
-La corteza terrestre no es una sola pieza continua: está dividida en grandes bloques
-llamados **placas tectónicas**, que se mueven muy lentamente sobre el manto. Chile se
+La **litosfera** es la capa rígida formada por la corteza y la parte superior del manto.
+Está dividida en grandes bloques llamados **placas tectónicas**, que se mueven muy
+lentamente sobre una zona del manto que puede deformarse. Chile se
 ubica en el límite entre la **placa de Nazca** (bajo el océano Pacífico) y la **placa
 Sudamericana** (donde vivimos). En este límite ocurre un proceso llamado
 **subducción**: la placa de Nazca, al ser más densa, se introduce lentamente bajo la
@@ -789,10 +790,11 @@ volcanes muy conocidos, como el Villarrica, el Llaima y el Osorno.
 - **Materia:** todo aquello que ocupa un lugar en el espacio y tiene masa; puede
   encontrarse en estado sólido, líquido o gaseoso.
 - **Corteza terrestre:** capa más externa y delgada de la Tierra.
-- **Manto:** capa intermedia de la Tierra, formada por roca en estado semi-líquido.
+- **Manto:** capa intermedia de la Tierra, formada por roca predominantemente sólida
+  que fluye muy lentamente; algunas zonas están parcialmente fundidas.
 - **Núcleo:** capa más interna y caliente de la Tierra.
-- **Placa tectónica:** gran bloque de la corteza terrestre que se desplaza lentamente
-  sobre el manto.
+- **Placa tectónica:** gran bloque de la litosfera (corteza y parte superior rígida
+  del manto) que se desplaza lentamente sobre una zona del manto que puede deformarse.
 - **Subducción:** proceso en el que una placa tectónica se introduce bajo otra.
 - **Sismo (terremoto):** liberación repentina de energía acumulada entre placas
   tectónicas, que provoca un movimiento de la superficie terrestre.

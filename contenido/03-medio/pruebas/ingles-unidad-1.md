@@ -7,7 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 1
 basado_en: contenido/03-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 
@@ -58,8 +58,7 @@ palabras sueltas.
    B says Chilean Fiestas Patrias last about a week too and center on
    traditional dances and food. ¿Qué oración compara correctamente ambos
    textos?
-   a) Both celebrations last about a week, but Carnival focuses on parades
-      and music, whereas Fiestas Patrias focuses on dances and food.
+   a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food.
    b) Carnival and Fiestas Patrias have nothing in common.
    c) Only Fiestas Patrias lasts a week.
    d) Carnival is about food, and Fiestas Patrias is about music.

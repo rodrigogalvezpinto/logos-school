@@ -1,6 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 3° Básico
+oa_por_pregunta: {"1":"OA 11","4":"OA 11","5":"OA 12"}
 eje: Ciencias de la Tierra y el Universo (OA 11, OA 12)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Ciencias de la Tierra y el Universo

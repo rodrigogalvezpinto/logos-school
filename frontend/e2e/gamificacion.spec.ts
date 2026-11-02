@@ -1,10 +1,12 @@
 import { test, expect } from '@playwright/test';
+import { prepararAlumnoAislado, prepararIntentoReprobado } from './helpers';
 
 /** Fase 1, ítem 2.2 del plan de incorporación de hallazgos de Brincus — gamificación
  * (XP, nivel, avatar). Ver planificacion/27-plan-incorporacion-hallazgos-brincus.md. */
 
 test.describe('Mis Logros — gamificación (Fase 1, ítem 2.2)', () => {
   test.use({ storageState: 'e2e/.storage-sofia.json' });
+
 
   test('la página muestra nivel, XP y la grilla de avatares', async ({ page }) => {
     await page.goto('/alumno/logros');
@@ -29,7 +31,10 @@ test.describe('Mis Logros — gamificación (Fase 1, ítem 2.2)', () => {
 
   test('el sidebar tiene un link a Mis Logros', async ({ page }) => {
     await page.goto('/alumno/inicio');
-    await page.getByRole('link', { name: 'Mis Logros' }).click();
+    const enlace = page.getByRole('navigation').getByRole('link', { name: 'Mis Logros' });
+    await expect(enlace).toHaveCount(1);
+    await expect(enlace).toHaveAttribute('href', '/alumno/logros');
+    await enlace.click();
     await expect(page).toHaveURL(/alumno\/logros/);
   });
 
@@ -78,6 +83,8 @@ test.describe('Mis Logros — gamificación (Fase 1, ítem 2.2)', () => {
   });
 
   test('la grilla de insignias muestra las 15, con insignias desbloqueadas y bloqueadas', async ({ page }) => {
+    await prepararAlumnoAislado(page);
+    await prepararIntentoReprobado(page);
     await page.goto('/alumno/logros');
     await page.waitForSelector('.logro-card');
     await expect(page.locator('.logro-card')).toHaveCount(15);

@@ -7,7 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 15
 oa_evaluados: OA 13, OA 16
 fuente: contenido/08-basico/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 
@@ -21,7 +21,7 @@ no solo el vocabulario.
 
 ---
 
-1. *(Completar)* Complete: *"I ___ soccer ___ basketball because it's more
+1. *(Completar)* Complete: *"I ___ soccer ___ basketball because soccer is more
    popular in my school."* (prefer / than or to)
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada

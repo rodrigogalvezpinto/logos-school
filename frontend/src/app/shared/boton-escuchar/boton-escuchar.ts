@@ -6,7 +6,7 @@ import { LectorVozService } from '../../core/lector-voz.service';
   standalone: true,
   template: `
     @if (lector.disponible) {
-      <button type="button" class="boton-escuchar" (click)="lector.alternar(texto)">
+      <button type="button" class="boton-escuchar" (click)="alternar()">
         {{ lector.hablando() ? '⏸ Detener' : '🔊 Escuchar' }}
       </button>
     }
@@ -34,6 +34,12 @@ import { LectorVozService } from '../../core/lector-voz.service';
 })
 export class BotonEscuchar {
   @Input({ required: true }) texto = '';
+  @Input() idioma?: string;
+  @Input() velocidad?: number;
 
   lector = inject(LectorVozService);
+
+  alternar() {
+    this.lector.alternar(this.texto, { idioma: this.idioma, velocidad: this.velocidad });
+  }
 }

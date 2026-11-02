@@ -1,19 +1,20 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
+oa_por_pregunta: {"4":"OA 22","5":"OA 22","9":"OA 25","10":"OA 22","11":"OA 22","12":"OA 25","13":"OA 22"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 13
-oa_evaluados: OA 6, OA 22, OA 25
+oa_evaluados: OA 22, OA 25
 basado_en: Temario oficial UCE/Mineduc — Decreto 614/2013
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-02
 ---
 
 # Prueba de Unidad — Formación Ciudadana (2° Medio)
 
-**Eje:** Formación Ciudadana — Derechos Humanos, diversidad y no discriminación, medios de
-comunicación y nuevas tecnologías
+**Eje:** Formación Ciudadana — Derechos Humanos y Estado de Derecho, diversidad y no
+discriminación (Ley Zamudio)
 **Tiempo sugerido:** 30-35 minutos
 **Preguntas:** 13
 **Instrucciones:** Lee cada pregunta con atención. En las preguntas de alternativas, marca solo
@@ -89,31 +90,32 @@ del puesto. ¿Qué concepto describe esta situación?
 
 ---
 
-**10. (Alternativas)** ¿Cuál de las siguientes se reconoce como una oportunidad —y no un
-riesgo— de las nuevas tecnologías de la información en una sociedad democrática?
+**10. (Alternativas)** ¿Qué principio establece que todo poder —incluido el del propio
+gobierno— debe ejercerse dentro de los límites que fija la ley, respetando los derechos de las
+personas?
 
-a) La difusión de información falsa sin verificación
-b) La exposición no autorizada de datos personales
-c) Nuevos canales de participación ciudadana y control sobre las autoridades
-d) La manipulación de la opinión pública
-
----
-
-**11. (Verdadero o Falso)** El resguardo de la vida privada no se ve afectado por el uso de
-nuevas tecnologías de la información, ya que estas solo tienen efectos positivos sobre la
-participación ciudadana.
+a) El Estado de Sitio
+b) El Estado de Derecho
+c) El plebiscito
+d) La soberanía popular
 
 ---
 
-**12. (Análisis de caso)** Antes de una elección, circula por redes sociales una noticia sin
-fuente verificable que asegura, de forma falsa, que un candidato se retiró de la contienda. ¿Qué
-riesgo de las nuevas tecnologías ilustra mejor este caso?
+**11. (Verdadero o Falso)** Bajo un Estado de Derecho, una autoridad puede suspender
+indefinidamente los derechos de las personas si considera que existen razones de emergencia.
 
 ---
 
-**13. (Desarrollo breve — desafiante)** ¿Por qué crees que evaluar los medios de comunicación y
-las nuevas tecnologías requiere una reflexión "personal y grupal", y no solo conocer sus
-características en teoría?
+**12. (Análisis de caso)** Una persona es despedida de su empleo únicamente por su orientación
+sexual y decide acudir a la justicia amparándose en la ley que establece medidas contra la
+discriminación. ¿Qué aporte concreto de la Ley Zamudio hace posible este paso?
+
+---
+
+**13. (Desarrollo breve — desafiante)** Los Derechos Humanos se declaran universales, pero su
+protección real requiere institucionalidad: un Estado de Derecho, tribunales y leyes concretas
+como la Ley Zamudio. ¿Por qué crees que no basta con declarar los derechos para que estos se
+respeten?
 
 ---
 
@@ -138,14 +140,16 @@ características en teoría?
 9. Un caso de discriminación por nacionalidad: un trato desigual e injustificado por una
    característica —el origen nacional— que no tiene relación con la capacidad para desempeñar el
    cargo.
-10. **c)** Nuevos canales de participación ciudadana y control sobre las autoridades.
-11. **Falso.** Las nuevas tecnologías permiten recopilar y almacenar datos personales de manera
-    antes imposible, lo que representa un riesgo concreto para la vida privada, junto con sus
-    evidentes oportunidades para la participación ciudadana.
-12. El riesgo de **desinformación**: la difusión de información falsa o poco verificada que puede
-    distorsionar el debate público y la decisión informada de la ciudadanía.
-13. Evaluar oportunidades y riesgos no es solo un ejercicio teórico, sino una habilidad que cada
-    ciudadano debe ejercer activamente al decidir qué información consumir, verificar y
-    compartir, y al cuidar sus propios datos personales; además conviene discutirlo en grupo, ya
-    que el efecto de estos medios sobre la vida democrática depende del comportamiento colectivo
-    de quienes los usan, no solo de decisiones individuales aisladas.
+10. **b)** El Estado de Derecho.
+11. **Falso.** El Estado de Derecho exige que todo poder se ejerza dentro de los límites de la
+    ley; suspender indefinidamente los derechos de las personas contradice ese principio —y fue
+    precisamente lo que ocurrió cuando se suprimió el Estado de Derecho durante la dictadura.
+12. La Ley Zamudio tipifica la **discriminación arbitraria** y entrega herramientas jurídicas
+    concretas para enfrentarla: permite a la persona afectada acudir a los tribunales y exigir la
+    reparación del daño y el cese del trato discriminatorio, convirtiendo el derecho a la no
+    discriminación en algo exigible por vía legal y no solo en un principio declarado.
+13. Declarar los derechos no garantiza por sí solo que se respeten: hace falta un **Estado de
+    Derecho** que someta al propio poder a la ley, e instituciones concretas —tribunales,
+    organismos de protección, leyes como la Zamudio— que permitan a las personas exigir su
+    resguardo, juzgar las violaciones y obtener reparación. Sin esa institucionalidad, los
+    derechos quedan como una declaración sin mecanismos efectivos de cumplimiento.

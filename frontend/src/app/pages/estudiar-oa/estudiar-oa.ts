@@ -9,12 +9,17 @@ import { ProgresoService } from '../../core/progreso.service';
 import { SesionService } from '../../core/sesion.service';
 import { BotonEscuchar } from '../../shared/boton-escuchar/boton-escuchar';
 import { MarkdownPipe } from '../../shared/markdown.pipe';
+import { PronunciacionIngles } from '../../shared/pronunciacion-ingles/pronunciacion-ingles';
 import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendizaje';
+
+export function esNombreIngles(nombre: string): boolean {
+  return nombre.normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim().toLowerCase() === 'ingles';
+}
 
 @Component({
   selector: 'app-estudiar-oa',
   standalone: true,
-  imports: [RouterLink, BotonEscuchar, MarkdownPipe, PasosAprendizaje],
+  imports: [RouterLink, BotonEscuchar, MarkdownPipe, PasosAprendizaje, PronunciacionIngles],
   template: `
     @if (objetivo(); as oa) {
       <a href="#" (click)="volver($event)" class="volver">← Volver</a>
@@ -26,6 +31,9 @@ import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendiza
         <app-boton-escuchar class="boton-guia" [texto]="oa.contenido_guia" />
         <a [href]="urlPdf(oa.id)" target="_blank" rel="noopener" class="descargar-pdf">⬇ Descargar guía en PDF</a>
       </div>
+      @if (esIngles()) {
+        <app-pronunciacion-ingles />
+      }
       <div class="tarjeta bloque contenido-guia" [innerHTML]="oa.contenido_guia | markdown"></div>
 
       <div class="tarjeta bloque calificar-guia">
@@ -293,6 +301,7 @@ export class EstudiarOa {
    * (tab "Evaluar Sección" separado de "Reportar error", ver
    * planificacion/27-plan-incorporacion-hallazgos-brincus.md, cuarta pasada). */
   miCalificacion = signal<number | null>(null);
+  esIngles = signal(false);
 
   private contenido = inject(ContenidoService);
   private progreso = inject(ProgresoService);
@@ -314,6 +323,7 @@ export class EstudiarOa {
         if (perfil) {
           this.progreso.marcarGuiaRevisada(perfil.id, Number(this.oaId)).subscribe();
           this.onboarding.completarPaso(perfil.id, 'ver_guia').subscribe();
+          this.detectarAsignaturaIngles(perfil.nivel_id, oa.id);
           this.calificaciones.obtenerMiCalificacion(perfil.id, Number(this.oaId)).subscribe({
             next: (c) => this.miCalificacion.set(c?.estrellas ?? null),
             error: () => {},
@@ -321,6 +331,20 @@ export class EstudiarOa {
         }
       },
       error: () => this.error.set('No se pudo cargar la guía. Intenta recargar la página.'),
+    });
+  }
+
+  private detectarAsignaturaIngles(nivelId: number, oaId: number) {
+    this.contenido.listarAsignaturas(nivelId).subscribe({
+      next: (asignaturas) => {
+        const ingles = asignaturas.find((a) => esNombreIngles(a.nombre));
+        if (!ingles) return;
+        this.contenido.listarObjetivos(ingles.id).subscribe({
+          next: (objetivos) => this.esIngles.set(objetivos.some((o) => o.id === oaId)),
+          error: () => {},
+        });
+      },
+      error: () => {},
     });
   }
 

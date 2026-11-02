@@ -7,7 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 oa_evaluados: OA 3, OA 4
 basado_en: contenido/03-medio/ingles.md
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-01
 diccionario: permitido
 ---
 
@@ -27,8 +27,7 @@ relativo y tercer condicional, no solo el significado de palabras sueltas.
 1. *(Alternativas)* ¿Qué oración funciona mejor como **oración temática**
    para un resumen sobre un artículo de videojuegos y salud mental?
    a) Video games are fun.
-   b) This article examines both the positive and negative effects of video
-      games on teenagers' mental health.
+   b) This article examines both the positive and negative effects of video games on teenagers' mental health.
    c) I like video games a lot.
    d) There are many video games available today.
 
@@ -45,7 +44,7 @@ relativo y tercer condicional, no solo el significado de palabras sueltas.
    Supporting detail: "It explains that ___ produces large amounts of
    textile waste."* (fast fashion)
 
-5. *(Emparejar)* Relaciona la expresión con su función: *"I would argue
+5. *(Selección — dos opciones)* Relaciona la expresión con su función: *"I would argue
    that..."* → ¿"dar una opinión fundamentada" o "citar un dato textual"?
 
 6. *(Responder en inglés)* Read: *"A recent study found that teenagers who
@@ -56,11 +55,8 @@ relativo y tercer condicional, no solo el significado de palabras sueltas.
 7. *(Alternativas — desafiante)* Estás resumiendo un artículo para
    publicarlo en el blog del colegio (audiencia: otros estudiantes). ¿Qué
    versión es más apropiada según el público, contexto y propósito?
-   a) "This study, published in a peer-reviewed academic journal, presents
-      statistically significant findings regarding adolescent sleep
-      patterns."
-   b) "A new study shows that teens who don't get enough sleep do worse on
-      tests — so maybe it's time to prioritize sleep!"
+   a) "This study, published in a peer-reviewed academic journal, presents statistically significant findings regarding adolescent sleep patterns."
+   b) "A new study shows that teens who don't get enough sleep do worse on tests — so maybe it's time to prioritize sleep!"
    c) "Sleep."
    d) "According to the aforementioned longitudinal research..."
 
@@ -84,7 +80,7 @@ relativo y tercer condicional, no solo el significado de palabras sueltas.
     intercambio estudiantil debería usar un tono similar al de un mensaje de
     texto a un amigo.
 
-12. *(Emparejar)* Relaciona el tipo de texto con su característica
+12. *(Selección — dos opciones)* Relaciona el tipo de texto con su característica
     principal: *"a blog post for classmates"* → ¿"tono informal y cercano" o
     "tono formal y protocolar"?
 

@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
+oa_por_pregunta: {"9":"OA 6","12":"OA 7"}
 eje: Historia (OA 2, OA 3, OA 6, OA 7)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { prepararPlanAislado } from './helpers';
 
 /** Fase 1 del plan de incorporación de hallazgos de Brincus — repaso de contenido de años
  * anteriores dentro del Plan de Estudio (Sofía cursa 4° básico, así que 1°-3° básico deben
@@ -8,6 +9,7 @@ test.describe('Plan de estudio — repaso de años anteriores', () => {
   test.use({ storageState: 'e2e/.storage-sofia.json' });
 
   test('el formulario de repaso ofrece cursos anteriores y agrega una sesión al final del plan', async ({ page }) => {
+    await prepararPlanAislado(page);
     await page.goto('/alumno/plan-estudio');
     await page.waitForSelector('.lista-sesiones');
 

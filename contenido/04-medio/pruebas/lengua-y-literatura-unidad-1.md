@@ -6,16 +6,28 @@ tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 12
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-02
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 4° medio
 
-**Objetivo de Aprendizaje evaluado:** OA N°1 — Formulo interpretaciones comparadas de obras sobre un mismo tema o problema (relación con el contexto de producción, perspectivas adoptadas, efecto estético).
+**Objetivo de Aprendizaje evaluado:** OA N°1 — Formulo interpretaciones comparadas de obras sobre un mismo tema o problema (relación con los contextos de producción y recepción, perspectivas adoptadas, efecto estético).
 
 **Tiempo sugerido:** 30-35 minutos. **Preguntas:** 12.
 
-Las preguntas 1 a 12 se basan en los textos de práctica trabajados en clase: **Texto A — "El baúl que no llegó"** (fragmento de novela ambientada en el exilio de 1975) y **Texto B — "Data para llamar a la abuela"** (fragmento de cuento ambientado en la migración económica actual). Responde todas las preguntas.
+Lee los textos completos incluidos aquí y responde las preguntas 1 a 12. Son creaciones didácticas contemporáneas de Logos School. La ambientación no es la fecha de escritura. Para las preguntas sobre producción se propone una simulación: imagina A escrito en 1992 para recuperar memorias del exilio y B escrito en 2026 en un debate sobre migración y trabajo. Para recepción, considera dos audiencias posibles: personas con experiencia de desplazamiento y estudiantes de 2026 sin esa experiencia. Sus reacciones no son universales.
+
+**Texto A — «El baúl que no llegó» (fragmento de novela, ambientada en 1975)**
+
+> Mi madre guardó la llave de la casa de Valparaíso durante diecisiete años, aunque sabía —todos lo sabíamos— que otra familia dormía ya en esas piezas con vista al mar. La llevaba en una bolsita de género cosida al forro de su abrigo, como quien carga un hueso que se niega a enterrar. En Estocolmo nevaba distinto a como llovía en el cerro Alegre, y ella aprendía sueco de noche, después del turno en la fábrica, mientras nosotros, los hijos, empezábamos a soñar en un idioma que no era el suyo.
+>
+> "Cuando volvamos", decía, y ese "cuando" se fue estirando año tras año hasta que dejó de tener fecha y se convirtió en una forma de nombrar la espera misma. El exilio no llegó con una explicación clara para los más chicos: llegó como un país que un día simplemente dejamos de habitar, sin que nadie nos preguntara si queríamos partir.
+
+**Texto B — «Data para llamar a la abuela» (fragmento de cuento, ambientado en la actualidad)**
+
+> Wilmer llegó a Antofagasta con dos maletas y el número de teléfono de un primo que, según le habían dicho, "siempre contestaba". El primo contestó la primera semana, después cada vez menos. Wilmer aprendió rápido que la ciudad tenía un idioma propio dentro del español: cachai, la firme, fome, al tiro. Lo fue incorporando como quien se prueba una chaqueta ajena, sin estar seguro todavía de que le quedara bien.
+>
+> Todas las noches, apenas terminaba su turno en el supermercado, compraba data para videollamar a su abuela en Maracaibo. Le mostraba el cielo nortino, tan distinto al de allá, y ella le preguntaba si ya había hecho amigos. Él decía que sí, aunque los únicos nombres que tenía para dar eran los de sus compañeros de turno. No era mentira, pensaba, era una forma de creer que pronto sería cierto.
 
 ---
 
@@ -47,7 +59,7 @@ Las preguntas 1 a 12 se basan en los textos de práctica trabajados en clase: **
    c) Ambos critican explícitamente al gobierno de turno
    d) Ambos están narrados por el mismo tipo de narrador
 
-9. *(Desarrollo breve — comparación integrada)* Explica por qué comparar el contexto de producción, la perspectiva y el efecto estético de dos obras aporta una interpretación más completa que analizar cada obra por separado.
+9. *(Desarrollo breve — producción y recepción)* Compara el tratamiento del desarraigo en A y B según sus contextos hipotéticos de producción. Luego compara cómo podrían recibir ambos textos las dos audiencias descritas al inicio: vincula un detalle de cada obra con una posible interpretación o efecto estético y explica por qué puede cambiar según la experiencia de quien lee.
 
 10. *(Análisis integrado)* Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre la migración, solo que en distintas épocas". Evalúa esta lectura y, si te parece incompleta, propón una comparación más precisa, sustentada en los contextos de producción, las perspectivas y el efecto estético de cada obra.
 
@@ -79,7 +91,7 @@ Las preguntas 1 a 12 se basan en los textos de práctica trabajados en clase: **
 
 8. **b.** Aunque los contextos, las perspectivas y el efecto estético son distintos, ambos textos comparten el tema de fondo: qué significa reconstruir una identidad y sostener vínculos familiares después de dejar el lugar de origen.
 
-9. **Respuesta esperada:** analizar ambos textos por separado permite entender cada uno en sus propios términos, pero compararlos revela que un mismo tema puede tratarse de maneras muy distintas según el contexto histórico y la perspectiva adoptada, lo que enriquece la comprensión del tema mismo; por ejemplo, solo al comparar se hace evidente que el "desarraigo impuesto" y el "desarraigo elegido" producen efectos estéticos casi opuestos.
+9. **Pauta manual:** Completo: diferencia producción y recepción, compara memoria del exilio (A) y adaptación actual (B), relaciona ambas audiencias con un detalle de cada obra y justifica efectos posibles sin universalizarlos. Parcial: comparación correcta pero falta una audiencia, detalle o explicación del efecto. Insuficiente: solo menciona contextos o define recepción. Ejemplo: la llave puede suscitar reconocimiento doloroso en personas desplazadas y preguntas históricas en otros estudiantes; la videollamada puede evocar soledad familiar o cuestionar la creencia de que la conexión digital elimina el desarraigo. Aceptar otras interpretaciones fundamentadas.
 
 10. **Respuesta esperada:** la lectura es incompleta, porque reduce ambos textos a un mismo mensaje ignorando diferencias relevantes: el Texto A trata un desplazamiento forzado por motivos políticos, narrado desde una perspectiva de pérdida heredada y con un efecto estético elegíaco; el Texto B trata un desplazamiento voluntario por motivos económicos, narrado desde una perspectiva de adaptación activa y con un efecto estético agridulce y esperanzador.
 

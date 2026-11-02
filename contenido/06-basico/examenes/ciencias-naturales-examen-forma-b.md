@@ -6,7 +6,7 @@ n_preguntas: 25
 tiempo: 90 minutos
 basado_en: Banco de preguntas de contenido/06-basico/ciencias-naturales.md
 relacionado: contenido/06-basico/ciencias-naturales.md (banco de contenido) — preguntas distintas
-última actualización: 2026-08-10
+ultima_actualizacion: 2026-11-02
 ---
 
 # PRUEBA DE CIENCIAS NATURALES — 6° BÁSICO — FORMA B
@@ -289,7 +289,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 18 | Desarrollo breve | Por ejemplo: energía solar en el norte (desierto de Atacama), por su alta radiación solar; energía hidroeléctrica en el sur, por sus numerosos ríos y caudales abundantes. | OA 11 |
 | 19 | Alternativas | b) Condensación | OA 13 |
 | 20 | Alternativas | b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullición, en todo el volumen a una temperatura fija | OA 13 |
-| 21 | Desarrollo extenso | En el estado gaseoso, las partículas están muy separadas y se mueven de forma libre y desordenada; en el estado sólido, las partículas están muy juntas, ordenadas, y solo vibran en una posición fija. Al colocar hielo seco a temperatura ambiente, se observaría cómo desprende directamente un gas visible (tipo "niebla"), sin que aparezca líquido en ningún momento del proceso; esto corresponde a una sublimación porque la materia pasa de sólido a gas sin pasar por el estado líquido. | OA 13 |
+| 21 | Desarrollo extenso | En el estado gaseoso, las partículas están muy separadas y se mueven de forma libre y desordenada; en el estado sólido, las partículas están muy juntas, ordenadas, y solo vibran en una posición fija. Al colocar hielo seco a temperatura ambiente, se observaría cómo el trozo disminuye de tamaño desprendiendo gas dióxido de carbono (invisible) y formando a su alrededor una "niebla" blanca, que corresponde a pequeñas gotitas de agua del aire que se condensan por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. Esto corresponde a una sublimación porque la materia pasa de sólido a gas sin pasar por el estado líquido. | OA 13 |
 | 22 | Alternativas | c) Atmósfera | OA 16 |
 | 23 | Desarrollo breve | La quema de combustibles en autos e industrias libera gases contaminantes que se acumulan en la atmósfera, afectando la calidad del aire y la salud de las personas; una medida sería fomentar el uso de transporte público, bicicletas o vehículos eléctricos. | OA 16 |
 | 24 | Alternativas | b) El viento | OA 18 |

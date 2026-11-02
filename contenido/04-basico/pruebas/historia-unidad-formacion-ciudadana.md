@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
+oa_por_pregunta: {"9":"OA 12"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

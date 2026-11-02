@@ -2,9 +2,9 @@
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
 tipo: Prueba de práctica — Examen Libre Mineduc — Forma B
-basado_en: Banco de autoevaluación 02-medio/historia-geografia-y-cs-sociales.md (15 OA, Decreto 614/2013)
-relacionado_con: contenido/02-medio/historia-geografia-y-cs-sociales.md (banco de contenido) — mismas 15 OA, preguntas distintas
-última actualización: 2026-08-10
+basado_en: Banco de autoevaluación 02-medio/historia-geografia-y-cs-sociales.md (14 OA, Decreto 614/2013)
+relacionado_con: contenido/02-medio/historia-geografia-y-cs-sociales.md (banco de contenido) — mismos 14 OA, preguntas distintas
+ultima_actualizacion: 2026-11-02
 ---
 
 # PRUEBA DE HISTORIA, GEOGRAFÍA Y CIENCIAS SOCIALES — 2° MEDIO
@@ -32,7 +32,7 @@ relacionado_con: contenido/02-medio/historia-geografia-y-cs-sociales.md (banco d
    el golpe de Estado de 1973, la dictadura militar y sus violaciones a los Derechos Humanos, el
    modelo económico neoliberal, y la recuperación de la democracia; además de la migración
    campo-ciudad y la transformación del espacio urbano, y los Derechos Humanos, la diversidad y
-   los medios de comunicación en la vida democrática. Repasa bien los conceptos clave de cada eje
+   la no discriminación en un mundo globalizado. Repasa bien los conceptos clave de cada eje
    antes de responder.
 7. Las preguntas de este examen que abordan la dictadura militar (1973-1990) y las violaciones a
    los Derechos Humanos se basan en hechos históricos documentados y evaluados con el mismo rigor
@@ -107,8 +107,8 @@ d) La difusión de la radio, el cine y el creciente interés popular por el depo
 
 a) La crisis de los misiles de Cuba
 b) El fin de la división de Alemania
-dos bloques
 c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
+   dos bloques
 d) La fundación de la ONU
 
 ---
@@ -179,7 +179,7 @@ d) Plan Laboral y Plan Marshall
 
 a) Una interpretación centrada exclusivamente en el contexto internacional de la Guerra Fría
 b) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos
-y militares chilenos
+   y militares chilenos
 c) Una interpretación que niega que el golpe de Estado haya ocurrido
 d) Una interpretación basada únicamente en fuentes extranjeras
 
@@ -387,30 +387,35 @@ sociedades menos discriminadoras.
 
 ---
 
-### Medios de comunicación, nuevas tecnologías y democracia (OA 6)
+### Diversidad y no discriminación en un mundo globalizado (OA 25)
 
 **Pregunta 24.** (1 punto)
-¿Cuál de las siguientes se reconoce como una **oportunidad** —y no un riesgo— del uso de medios
-de comunicación masiva y nuevas tecnologías de la información en una sociedad democrática?
+Un liceo recibe estudiantes que han llegado desde distintos países. ¿Qué medida permite
+aprovechar el intercambio cultural y enfrentar barreras de participación sin negar la libertad
+y la dignidad de estos estudiantes?
 
-a) La difusión de información falsa sin verificación
-b) La exposición no autorizada de datos personales
-c) Nuevos canales de participación ciudadana y mayor control sobre las autoridades
-d) La manipulación interesada de la opinión pública
+a) Exigir que adopten exclusivamente las costumbres locales para asegurar una identidad común
+b) Ofrecer toda la información solo en español, porque cualquier diferencia de apoyo sería un privilegio
+c) Ofrecer apoyos lingüísticos según las necesidades y facilitar el intercambio cultural sin exigir renunciar a la propia identidad
+d) Separar permanentemente a los estudiantes por país de origen para evitar conflictos
 
 ---
 
 **Pregunta 25.** (3 puntos) — *Desarrollo extenso*
 
-> **Estímulo:** "Una aplicación de uso masivo recopila la ubicación de sus usuarios sin que estos
-> comprendan claramente para qué se usarán esos datos. En el mismo período, una organización
-> social utiliza esa misma red social para coordinar una campaña de recolección de firmas que
-> logra que el Congreso discuta un proyecto de ley."
+> **Caso hipotético:** Una comuna organiza una feria de emprendimientos con personas nacidas en
+> distintos países. Todas cumplen los mismos requisitos de residencia y las autorizaciones
+> exigidas para participar. Un grupo pide excluir a quienes nacieron fuera de Chile, argumentando
+> que la diversidad de costumbres haría perder la identidad local.
 
-A partir del estímulo, explica **un riesgo** y **una oportunidad** de las nuevas tecnologías de
-la información para la vida democrática. Luego, reflexiona brevemente sobre qué medidas —tanto
-personales como grupales— puede adoptar la ciudadanía para proteger su vida privada frente a este
-tipo de riesgos.
+Desarrolla una respuesta que aborde estos tres aspectos:
+
+1. Identifica la discriminación presente en la propuesta y relaciónala con la libertad y la
+   dignidad de las personas.
+2. Explica una oportunidad del intercambio entre culturas y propone una medida concreta para
+   aprovecharla sin excluir por nacionalidad.
+3. Explica un aporte de la ley chilena que establece medidas contra la discriminación
+   (Ley Zamudio) para enfrentar situaciones de discriminación arbitraria.
 
 ```
 
@@ -458,8 +463,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 21 | Desarrollo breve | Los grupos de especial protección son personas o colectivos que, por su situación de mayor vulnerabilidad (niños, niñas y adolescentes; personas con discapacidad; pueblos indígenas; personas migrantes; adultos mayores, entre otros), requieren garantías específicas para poder ejercer sus derechos en igualdad de condiciones. Esto es compatible con la universalidad porque no implica darles "más" derechos que al resto, sino generar las condiciones concretas para que puedan ejercer, en igualdad real, los mismos derechos universales que corresponden a todas las personas | OA 22 | Formación Ciudadana | 2 |
 | 22 | Alternativas | a) Un caso de discriminación arbitraria por nacionalidad | OA 25 | Formación Ciudadana | 1 |
 | 23 | Desarrollo breve | Oportunidad: mayor visibilidad internacional de casos de discriminación, intercambio cultural y avance de estándares internacionales de Derechos Humanos. Desafío: persistencia de prejuicios y estereotipos culturales, o discriminación hacia comunidades migrantes, especialmente cuando el mayor contacto entre culturas no viene acompañado de educación e inclusión efectiva | OA 25 | Formación Ciudadana | 2 |
-| 24 | Alternativas | c) Nuevos canales de participación ciudadana y mayor control sobre las autoridades | OA 6 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | Riesgo: la exposición no autorizada de datos personales y los riesgos para el resguardo de la vida privada (ilustrado por la recopilación de ubicación sin consentimiento informado). Oportunidad: nuevos canales de participación ciudadana que permiten organizar campañas y ejercer presión efectiva sobre las autoridades (ilustrado por la campaña de firmas que logra que el Congreso discuta un proyecto de ley). Medidas válidas: revisar y limitar los permisos de las aplicaciones, informarse sobre el uso que se da a los propios datos, y promover colectivamente estándares de transparencia y protección de datos por parte de las plataformas | OA 6 | Formación Ciudadana | 3 |
+| 24 | Alternativas | c) Ofrecer apoyos lingüísticos según las necesidades y facilitar el intercambio cultural sin exigir renunciar a la propia identidad. Reconoce igual dignidad y atiende barreras concretas sin imponer asimilación ni segregación | OA 25 | Formación Ciudadana | 1 |
+| 25 | Desarrollo extenso | 1 pt: identifica la exclusión por nacionalidad sin justificación razonable y la relaciona con la igual dignidad o la libertad. 1 pt: explica una oportunidad del intercambio cultural y propone una medida inclusiva concreta, como participación en igualdad de condiciones o espacios de colaboración. 1 pt: explica un aporte de la Ley Zamudio, como la acción judicial frente a discriminación arbitraria o la definición de esta como distinción, exclusión o restricción sin justificación razonable que afecta derechos. Aceptar explicaciones equivalentes; no exigir el número de la ley ni afirmar un resultado judicial garantizado | OA 25 | Formación Ciudadana | 3 |
 
 **Puntaje total: 37 puntos**
 
@@ -480,19 +485,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Historia | OA 20 | 2 (preguntas 16-17) | 3 |
 | Geografía | OA 12 | 2 (preguntas 18-19) | 3 |
 | Formación Ciudadana | OA 22 | 2 (preguntas 20-21) | 3 |
-| Formación Ciudadana | OA 25 | 2 (preguntas 22-23) | 3 |
-| Formación Ciudadana | OA 6 | 2 (preguntas 24-25) | 4 |
-| **Total** | **15 OA** | **25** | **37** |
+| Formación Ciudadana | OA 25 | 4 (preguntas 22-25) | 7 |
+| **Total** | **14 OA** | **25** | **37** |
 
 ### Escala de conversión sugerida (referencial)
 
 | Puntaje obtenido | Nota aproximada (escala 1,0 a 7,0, exigencia 60%) |
 |-------------------|----------------------------------------------------|
 | 33-37 pts | 6,2 - 7,0 |
-| 26-32 pts | 5,2 - 6,1 |
-| 20-25 pts | 4,0 - 5,1 |
-| 13-19 pts | 3,0 - 3,9 |
-| 0-12 pts | 1,0 - 2,9 |
+| 26-32 pts | 4,8 - 6,0 |
+| 20-25 pts | 3,7 - 4,6 |
+| 13-19 pts | 2,8 - 3,6 |
+| 0-12 pts | 1,0 - 2,6 |
 
 *(Escala referencial de práctica; la corrección oficial del Examen Libre Mineduc puede usar
 otros criterios de conversión.)*
@@ -507,7 +511,6 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 |---|---|---|---|
 | OA 2 | 1 | 1 | 0 |
 | OA 4 | 2 | 1 | 0 |
-| OA 6 | 24, 25 | 1 | 1 |
 | OA 7 | 3 | 1 | 0 |
 | OA 8 | 4, 5 | 1 | 1 |
 | OA 10 | 6, 7 | 1 | 1 |
@@ -519,5 +522,5 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 | OA 19 | 15 | 1 | 0 |
 | OA 20 | 16, 17 | 1 | 1 |
 | OA 22 | 20, 21 | 1 | 1 |
-| OA 25 | 22, 23 | 1 | 1 |
+| OA 25 | 22, 23, 24, 25 | 2 | 2 |
 | **Total** | **25 preguntas** | **15** | **10** |

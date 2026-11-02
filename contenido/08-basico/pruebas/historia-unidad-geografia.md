@@ -1,6 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
+oa_por_pregunta: {"3":"OA 20","8":"OA 21","13":"OA 22"}
 eje: Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

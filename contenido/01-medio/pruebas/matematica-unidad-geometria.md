@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 1° Medio
+oa_por_pregunta: {"7":"OA 8"}
 eje: Eje 3 — Geometría
 tipo: Prueba de unidad
 título: Prueba de Unidad — Geometría (Eje 3)

@@ -115,7 +115,7 @@ La asignatura Educación Ciudadana tiene por objetivo desarrollar un conjunto de
 - Identifican, a partir de un caso de interés público, las oportunidades y desafíos de los medios de comunicación masivos y las nuevas tecnologías de la información y comunicación para el fortalecimiento de la democracia.
 - Argumentan, utilizando ejemplos, las virtudes y amenazas que los medios de comunicación masivos y las nuevas tecnologías de la información y las comunicaciones representan para la vida en democracia.
 
-*Nota: el extracto del temario de 4° medio disponible para Educación Ciudadana comienza a mitad de un objetivo de aprendizaje (continuación de la página anterior, cortada en el PDF), por lo que el número de OA de la primera entrada no quedó explícito en el documento fuente; su contenido corresponde al eje de "Democracia y sus desafíos".*
+*Cotejo con el PDF primario, páginas 8–9: la selección de Educación Ciudadana incluye OA 01, 03, 04, 05 y 06. El objetivo sobre libertad, igualdad y solidaridad es el OA 05; su indicador continúa en la página siguiente, sin perder su numeración oficial.*
 
 ---
 

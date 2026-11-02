@@ -363,6 +363,8 @@ ante la ley?). No existe una única respuesta correcta a estos dilemas: el
 objetivo es que puedas manejar varias perspectivas legítimas y usarlas para
 pensar tu propia vida y la sociedad en la que vives.
 
+**Formular una pregunta propia sobre la praxis.** Parte de una decisión significativa, identifica una tensión de valores y formula una pregunta abierta que permita dar razones y objeciones; no basta pedir un dato ni expresar una preferencia. Ejemplo: ante repartir tareas familiares, «¿Es justo repartirlas por igual si tenemos tiempos y necesidades distintos?». Es filosófica porque examina el criterio de justicia; puede discutirse desde la igualdad y desde el utilitarismo (bienestar de la familia), y sirve para decidir un reparto concreto. No exige una respuesta única.
+
 **Ejemplos resueltos**
 
 1. **Distinguir ética de moral:** Un país tuvo, hasta hace pocas décadas,
@@ -401,12 +403,9 @@ pensar tu propia vida y la sociedad en la que vives.
    la corrección o incorrección de las acciones y las razones que la
    fundamentan, a diferencia de la ontología (a) o la lógica (c).
 
-2. *(Verdadero o falso — simple)* Ética y moral son exactamente lo mismo:
-   dos palabras distintas para referirse a idéntico contenido.
-   **Respuesta correcta:** Falso.
-   **Retroalimentación:** La moral es el conjunto concreto de normas y
-   costumbres que una persona o cultura efectivamente sigue; la ética es la
-   reflexión filosófica que examina y evalúa críticamente esas normas.
+2. *(Producción de pregunta — intermedio)* Formula una pregunta filosófica propia sobre una decisión de tu vida cotidiana. Explica la tensión entre justicia, libertad o igualdad, relaciónala con una teoría ética y señala para qué decisión práctica serviría discutirla. Distingue cuestionar una norma moral de describirla.
+   **Respuesta esperada (ejemplo, no para copiar):** «¿Debo decir siempre la verdad si hacerlo daña a un amigo?». Cuestiona el deber moral de sinceridad; contrapone el deber deontológico de honestidad y la valoración utilitarista de consecuencias. Discutirla ayuda a decidir cómo comunicar una verdad difícil.
+   **Criterios de revisión manual:** Completo: pregunta propia abierta y fundamentable, tensión ética y teoría pertinentes, distinción ética/moral y utilidad práctica explicadas. Parcial: pregunta pertinente pero justificación o aplicación incompletas. Insuficiente: solo dato, preferencia o pregunta sin reflexión ética. Se aceptan otras preguntas y posiciones razonadas.
 
 3. *(Emparejar — simple)* Empareja cada teoría ética con su idea central:
    (1) Consecuencialismo/utilitarismo, (2) Ética deontológica — (a) lo
@@ -649,6 +648,12 @@ justificación que un primer paso llevará inevitablemente a una cadena de
 consecuencias extremas) y **generalización apresurada** (concluir algo
 general a partir de muy pocos casos).
 
+### Modelo de análisis: deducción, inducción y Toulmin
+
+Una **deducción válida** hace necesaria la conclusión si se aceptan las premisas: «Todas las decisiones justas respetan la igual dignidad; esta decisión es justa; por tanto, respeta la igual dignidad». Su forma es válida, pero aún debemos justificar sus premisas. Una **inducción** amplía lo observado hacia una conclusión probable, no necesaria: «En tres reuniones, dar turnos permitió oír a más participantes; probablemente conviene mantener los turnos». Se evalúan cantidad, diversidad y representatividad de casos, explicaciones alternativas y alcance de la conclusión; no se exige certeza deductiva.
+
+En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, el motivo ofrecido; la **evidencia**, los datos o casos que sustentan esa razón; y la **garantía**, la regla que permite pasar de ella a la tesis. Modelo ficticio: tesis: «Conviene mantener turnos de palabra»; razón: «amplían la participación»; evidencia: «en tres reuniones del curso hablaron más participantes al usarlos»; garantía: «si una medida amplía la participación sin excluir a nadie, hay una razón democrática para mantenerla». Es inductivo y provisional: tres reuniones no bastan para asegurar que funcionará siempre. Objeción: los turnos pueden excluir intervenciones urgentes; respuesta: admitir excepciones justificadas. La garantía no es otro dato: debe discutirse también su pertinencia normativa.
+
 **Ejemplos resueltos**
 
 1. **Identificar tesis, argumento y contraargumento:** Texto: "La eutanasia
@@ -691,15 +696,9 @@ general a partir de muy pocos casos).
    los contraargumentos son las objeciones que un interlocutor podría
    oponerle.
 
-2. *(Verdadero o falso — simple)* Un argumento con estructura deductiva
-   válida es automáticamente un buen argumento filosófico, sin necesidad de
-   examinar si sus premisas están bien fundamentadas.
-   **Respuesta correcta:** Falso.
-   **Retroalimentación:** La validez lógica es necesaria pero no
-   suficiente: también hay que evaluar si las premisas están bien
-   fundamentadas con referentes teóricos, empíricos o de sentido común
-   razonado; un argumento válido con premisas mal fundamentadas no es
-   convincente.
+2. *(Análisis estructural — intermedio)* Analiza estos argumentos ficticios: A: «Toda norma justa respeta la igual dignidad; esta norma es justa; por tanto, respeta la igual dignidad». B: «En tres reuniones del curso, los turnos aumentaron la participación; conviene mantenerlos porque amplían la participación». Clasifica cada uno como deductivo o inductivo y evalúa su fuerza. Reconstruye en B tesis, razón, evidencia y una garantía normativa; propone una objeción.
+   **Respuesta esperada:** A es deductivo válido por su forma, sin que ello pruebe la verdad de sus premisas. B es inductivo: los tres casos apoyan una conclusión provisional, pero pueden no representar otras reuniones. Tesis: mantener turnos; razón: amplían participación; evidencia: las tres reuniones; garantía reconstruida: favorecer participación sin exclusión es una razón democrática para mantener una medida. Objeción: habría que comprobar que no impidan intervenciones urgentes.
+   **Criterios manuales:** Completo: distingue ambos tipos, evalúa necesidad/probabilidad y premisas/muestra, identifica los cuatro elementos y una objeción pertinente. Parcial: análisis correcto pero incompleto. Insuficiente: solo etiquetas sin sustento o confunde garantía con dato. Aceptar reconstrucciones equivalentes consistentes; no exigir las palabras del modelo.
 
 3. *(Identificar falacia — simple)* "No hay que escuchar la crítica de ese
    columnista al sistema educativo, si ni siquiera terminó la universidad."

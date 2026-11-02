@@ -1,6 +1,7 @@
 ---
 asignatura: Filosofía
 curso: 4° Medio
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","9":"OA 2","11":"OA 2"}
 unidad: "Unidad 1 — OA N°1 (quehacer filosófico) y OA N°2 (ética: justicia, libertad, igualdad)"
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -56,7 +57,7 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
    c) Establecer las reglas de la lógica formal.
    d) Describir cómo funciona la percepción sensorial.
 
-9. *(Verdadero o falso)* Ética y moral son exactamente lo mismo: dos palabras distintas para referirse a idéntico contenido.
+9. *(Producción de pregunta)* Formula una pregunta filosófica propia sobre una decisión cotidiana significativa para ti. Explica por qué es abierta y admite argumentos; vincúlala con justicia, libertad o igualdad y una teoría ética. Indica qué decisión práctica orientaría discutirla y distingue examinar una norma moral de simplemente describirla.
 
 10. *(Emparejar)* Empareja cada teoría ética con su idea central:
     (1) Consecuencialismo/utilitarismo, (2) Ética deontológica — (a) lo correcto se determina por el cumplimiento de deberes y principios, independientemente de las consecuencias; (b) lo correcto se determina evaluando los resultados de la acción, buscando maximizar el bienestar general.
@@ -93,7 +94,7 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
 
 8. **b.** La ética es la rama de la filosofía que examina la corrección o incorrección de las acciones y las razones que la fundamentan.
 
-9. **Falso.** La moral es el conjunto concreto de normas y costumbres que una persona o cultura efectivamente sigue; la ética es la reflexión filosófica que examina y evalúa críticamente esas normas.
+9. **Revisión manual:** Completo: produce una pregunta propia abierta y fundamentable, explica la tensión conceptual y una teoría pertinente, diferencia reflexión ética y norma moral y muestra utilidad para decidir. Parcial: pregunta filosófica pertinente con explicación incompleta de teoría, distinción o uso práctico. Insuficiente: solo solicita un dato, expresa un gusto o no plantea una pregunta ética. Ejemplo posible: «¿Es justo dedicar el mismo tiempo a cuidar a cada familiar si sus necesidades son distintas?», discutiendo igualdad y bienestar utilitarista para organizar cuidados. No se exige esta pregunta ni una postura única.
 
 10. **1-b, 2-a.** Ambas teorías responden distinto a "qué hace correcta una acción": el resultado que produce, o el principio que respeta, con independencia del resultado.
 

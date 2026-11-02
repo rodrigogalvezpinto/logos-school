@@ -1,6 +1,7 @@
 ---
 asignatura: Matemática
 curso: 8° Básico
+oa_por_pregunta: {"6":"OA 12"}
 eje: Geometría (OA 12, OA 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 3: Geometría
