@@ -43,8 +43,8 @@ acercarte a la experiencia del examen real.
 **Pregunta 1.** (1 punto)
 
 > **Estímulo — caso:** Pedro de Valdivia llegó al valle del Mapocho y, antes de seguir
-> avanzando, organizó la fundación de Santiago. Años después, otros capitanes españoles
-> repitieron lo mismo en Concepción, La Serena y Valdivia.
+> avanzando, organizó la fundación de Santiago. En los años siguientes se fundaron también
+> La Serena, Concepción y Valdivia.
 
 De acuerdo con el estímulo, ¿qué buscaban principalmente los conquistadores españoles al
 fundar ciudades en los territorios que ocupaban?
@@ -75,17 +75,17 @@ d) Desastre de Curalaba – fundación de Santiago – expedición de Valdivia �
 
 **Pregunta 3.** (1 punto)
 
-> **Estímulo — descripción de mapa:** Imagina un mapa de Chile donde se marcan con una
-> estrella los lugares y años de fundación de cuatro ciudades: Santiago (1541), La Serena
-> (1544), Concepción (1550) y Valdivia (1552).
+> **Estímulo — registro de fundaciones:** Santiago (1541, punto de referencia);
+> La Serena (1544, al norte de Santiago); Concepción (1550, al sur de Santiago);
+> Valdivia (1552, al sur de Santiago).
 
-¿Qué tendencia general sobre el avance de la conquista española se observa en este mapa?
+Un estudiante afirma: "Todas estas ciudades se fundaron el mismo año y solo en el centro
+ del territorio". ¿Qué respuesta refuta esa afirmación usando el registro?
 
 a) La conquista fue un hecho instantáneo, ocurrido en un solo año
 b) Las ciudades se fundaron únicamente en el extremo sur de Chile
 c) Todas las ciudades fueron fundadas simultáneamente por Diego de Almagro
-d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el
-   norte y el sur del territorio
+d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago
 
 ---
 
@@ -418,7 +418,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas      | b) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse y expandirse. Las ciudades fundadas eran la forma concreta de ejercer dominio y organizar la vida colonial; las demás opciones son incorrectas porque las ciudades dependían de la Corona, no eran refugios temporales ni espacios de negociación entre iguales | OA 2 | Historia | 1 |
 | 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
-| 3  | Alternativas      | d) La conquista avanzó progresivamente durante varias décadas, fundando ciudades hacia el norte y el sur | OA 2 | Historia | 1 |
+| 3  | Alternativas      | d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago. El registro abarca 11 años (1541–1552) y distintas ubicaciones, por lo que contradice la afirmación del estudiante | OA 2 | Historia | 1 |
 | 4  | Desarrollo breve  | La sociedad surgida no era ni completamente española ni completamente indígena, sino una mezcla; el mestizaje es el elemento central. También son válidas menciones a las nuevas ciudades fundadas o a los conflictos bélicos de esta nueva etapa | OA 2 | Historia | 2 |
 | 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
 | 6  | Alternativas      | b) Político. El reemplazo de las autoridades de los pueblos originarios por autoridades nombradas por el rey es una pérdida de gobierno propio, es decir, una consecuencia en el ámbito político; no se refiere directamente a comida, población ni economía | OA 3 | Historia | 1 |

@@ -93,13 +93,15 @@ ___."* (have / welcome)
 Cheese sandwich: $2.500. Egg sandwich: $2.200. Orange juice: $1.200. Open from
 8 am to 4 pm."* Answer in English: *What time does Sandwich Corner close?*
 
-**10.** *(Pregunta abierta — verdadero o falso)* Read the note: *"Mom, I'm at
+**10.** *(Verdadero o falso)* Read the note: *"Mom, I'm at
 Grandma's house. We are having lunch together. I will be home at 6. Rocío."*
 Write True or False: *Rocío is having breakfast with her grandmother.*
 
 ---
 
 ## OA N°8 — Reaccionar y opinar sobre lo que leo en inglés
+
+La pregunta 12 comprueba comprensión literal (OA 5) como apoyo; las demás preguntas de este apartado evalúan la reacción a lo leído (OA 8).
 
 **11.** *(Selección múltiple)* Read: *"On our boat trip, a huge whale swam next
 to us and jumped out of the water!"* Which sentence is a personal reaction
@@ -228,9 +230,9 @@ En ítems con dos o más espacios, el punto exige todos los espacios correctos.
 | 9 | It closes at 4 pm. Aceptar At 4 pm / At four o'clock / At four in the afternoon. | OA6 |
 | 10 | False (Falso): la nota dice having lunch (almorzar), no breakfast (desayunar). | OA6 |
 | 11 | d) I feel excited when I read about the whale. | OA8 |
-| 12 | a) Very happy | OA8 |
+| 12 | a) Very happy | OA5 |
 | 13 | because: introduce la razón de la opinión; but contrastaría ideas. | OA8 |
-| 14 | Respuesta personal con un personaje y una razón con because. Ejemplo: I like the seal more because it is friendly and helps the penguin. Ambos personajes son válidos. | OA8 |
+| 14 | Respuesta personal con un personaje y una razón coherente en inglés. No exigir literalmente because: aceptar, por ejemplo, I like the seal. It helps the penguin. Ejemplo con because: I like the seal more because it is friendly and helps the penguin. Ambos personajes son válidos. | OA8 |
 | 15 | Respuesta personal Yes/No con una razón. Ejemplo: Yes, I do, because I like looking out of the window. / No, I don't, because trains are slow. | OA8 |
 | 16 | b) on | OA14 |
 | 17 | a) mat (rima con cat). | OA14 |
@@ -247,15 +249,15 @@ En ítems con dos o más espacios, el punto exige todos los espacios correctos.
 
 | OA | N° de preguntas | Preguntas |
 |---|---|---|
-| OA5 | 5 | 1–5 |
+| OA5 | 6 | 1–5, 12 |
 | OA6 | 5 | 6–10 |
-| OA8 | 5 | 11–15 |
+| OA8 | 4 | 11, 13–15 |
 | OA14 | 5 | 16–20 |
 | OA15 | 5 | 21–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo:** 10 preguntas de alternativas y 15 abiertas (completar,
-verdadero/falso, responder en inglés y escribir según modelo). Es una práctica
+**Distribución por tipo:** 10 preguntas de alternativas, 1 de verdadero/falso
+sin justificación y 14 abiertas (completar, responder en inglés y escribir según modelo). Es una práctica
 propia alineada con los OA del curso; no es un instrumento oficial Mineduc. Se
 mantienen las funciones lingüísticas estudiadas, con nuevos textos y situaciones.
 
@@ -267,9 +269,9 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado.
 
 | Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
 |---|---|---|---|
-| OA 5 | 1, 2, 3, 4, 5 | 2 | 3 |
-| OA 6 | 6, 7, 8, 9, 10 | 2 | 3 |
-| OA 8 | 11, 12, 13, 14, 15 | 2 | 3 |
+| OA 5 | 1, 2, 3, 4, 5, 12 | 3 | 3 |
+| OA 6 | 6, 7, 8, 9, 10 | 3 | 2 |
+| OA 8 | 11, 13, 14, 15 | 1 | 3 |
 | OA 14 | 16, 17, 18, 19, 20 | 2 | 3 |
 | OA 15 | 21, 22, 23, 24, 25 | 2 | 3 |
-| **Total** | **25 preguntas** | **10** | **15** |
+| **Total** | **25 preguntas** | **11** | **14** |

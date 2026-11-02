@@ -26,6 +26,208 @@ def test_matematica_5b_p9_tiene_una_sola_alternativa_decimal_equivalente():
     assert Fraction(pregunta.opciones[3].replace(",", ".")) != Fraction(3, 10)
 
 
+def test_ingles_5b_simulacro_p9_pauta_respeta_horario_de_tarde():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/05-basico/examenes/ingles-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
+        if p.numero == 9
+    )
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert "four o'clock in the afternoon" in pregunta.enunciado
+    assert pauta.codigo_oa == "OA 6"
+    assert "At 4 pm" in pauta.respuesta_correcta
+    assert "sin especificar am/pm" not in pauta.retroalimentacion
+    assert "No aceptar 4 am" in pauta.retroalimentacion
+    assert "aceptar también At 4 por el contexto" in pauta.retroalimentacion
+
+
+def test_ingles_5b_simulacro_p17_completa_instruccion_sin_pista_de_rima():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/05-basico/examenes/ingles-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
+        if p.numero == 17
+    )
+    assert pregunta.tipo == "alternativas"
+    assert "opposite of open" in pregunta.enunciado
+    assert "Keep the door ___." in pregunta.enunciado
+    assert pregunta.opciones == ["shut", "happy", "young", "tall"]
+    assert pauta.respuesta_correcta == "shut"
+    assert pauta.codigo_oa == "OA 14"
+
+
+@pytest.mark.parametrize("numero,oa,fragmento", [
+    (1, "OA 2", "Afirmar su presencia"),
+    (3, "OA 2", "Se fundaron en años distintos"),
+    (6, "OA 3", "Político"),
+    (12, "OA 7", "La vida fronteriza"),
+    (14, "OA 9", "Zona Sur"),
+    (17, "OA 9", "Zona Central"),
+    (20, "OA 10", "renovable"),
+    (21, "OA 13", "Todas las personas"),
+    (24, "OA 14", "Todas las personas"),
+])
+def test_historia_5b_simulacro_deltas_conservan_claves_y_pautas(numero, oa, fragmento):
+    ruta = Path(__file__).resolve().parents[2] / "contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
+        if p.numero == numero
+    )
+    assert pauta.codigo_oa == oa
+    assert fragmento in pauta.respuesta_correcta
+    if numero in (17, 20):
+        assert pregunta.tipo == "desarrollo_breve"
+        assert pregunta.opciones is None
+        assert "1 punto" in pauta.retroalimentacion
+    else:
+        assert pregunta.tipo == "alternativas"
+        assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
+
+
+def test_historia_5b_p1_no_atribuye_todas_las_fundaciones_a_otros_capitanes():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md"
+    pregunta, _ = parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))[0]
+    assert "otros capitanes" not in pregunta.enunciado
+    assert "La Serena, Concepción y Valdivia" in pregunta.enunciado
+
+
+def test_historia_5b_p3_y_guia_no_confunden_once_anos_con_varias_decadas():
+    from parser_contenido import parsear_guia
+
+    raiz = Path(__file__).resolve().parents[2]
+    examen = raiz / "contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(examen.read_text(encoding="utf-8"))
+        if p.numero == 3
+    )
+    assert "al norte de Santiago" in pregunta.enunciado
+    assert "al sur de Santiago" in pregunta.enunciado
+    assert "varias décadas" not in pauta.respuesta_correcta
+    assert pauta.respuesta_correcta == pregunta.opciones[3]
+    assert 1552 - 1541 == 11
+    guia = raiz / "contenido/05-basico/historia-geografia-y-cs-sociales.md"
+    objetivo = next(oa for oa in parsear_guia(guia.read_text(encoding="utf-8")) if oa.codigo_oficial == "OA 2")
+    item = next(p for p in objetivo.preguntas if "Santiago (1541" in p.enunciado)
+    assert "al norte de Santiago" in item.enunciado
+    assert "al sur de Santiago" in item.enunciado
+    assert "varias décadas" not in " ".join(item.respuesta_correcta.split())
+    assert "11 años" in item.respuesta_correcta
+
+
+def test_lenguaje_5b_p2_admite_personificacion_fundamentada_sin_autocorreccion():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/05-basico/examenes/lenguaje-y-comunicacion-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
+        if p.numero == 2
+    )
+    assert pregunta.tipo == "desarrollo_breve"
+    assert pregunta.opciones is None
+    assert pauta.codigo_oa == "OA 4"
+    assert "metáfora" in pauta.respuesta_correcta
+    assert "También se acepta personificación si el estudiante la fundamenta" in pauta.retroalimentacion
+    assert "la greda no miente" in pauta.retroalimentacion
+    assert "requieren tiempo" in pauta.retroalimentacion
+
+
+def test_encabezados_texto_con_rangos_adjuntan_solo_el_estimulo_correspondiente():
+    texto = '''## Texto 1 (para las preguntas 1 a 2): Semillas
+Clara guardó las semillas.
+**1.** ¿Quién guardó las semillas?
+a) Clara
+b) Eva
+**2.** ¿Qué guardó Clara?
+a) Semillas
+b) Piedras
+## Texto 2 (para la pregunta 3): Lluvia
+Eva recogió agua de lluvia.
+**3.** ¿Qué recogió Eva?
+a) Agua
+b) Tierra
+## Pauta de respuestas
+1. a)
+2. a)
+3. a)
+'''
+    preguntas = parsear_prueba_o_examen(texto)
+    for pregunta, _ in preguntas[:2]:
+        assert "Clara guardó las semillas." in pregunta.enunciado
+        assert "Eva recogió agua" not in pregunta.enunciado
+    assert "Eva recogió agua de lluvia." in preguntas[2][0].enunciado
+    assert "Clara guardó las semillas" not in preguntas[2][0].enunciado
+    assert preguntas[1][0].opciones == ["Semillas", "Piedras"]
+
+
+def test_lenguaje_6b_p22_recibe_textos_compartidos_sin_contaminar_p8():
+    ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/examenes/lenguaje-y-comunicacion-examen-forma-b.md"
+    preguntas = {p.numero: (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))}
+    for numero in (9, 10, 11, 12, 13, 22):
+        assert "En Alto Hospicio" in preguntas[numero][0].enunciado
+        assert "camanchaca" in preguntas[numero][0].enunciado
+    assert "En Alto Hospicio" not in preguntas[8][0].enunciado
+    assert preguntas[22][1].respuesta_correcta == preguntas[22][0].opciones[1]
+    assert "Texto A" in preguntas[22][0].enunciado
+
+
+@pytest.mark.parametrize("numero,fragmento,oa,tipo", [
+    (1, "Drive a bus", "OA 5", "alternativas"),
+    (2, "Behind the church", "OA 5", "alternativas"),
+    (3, "past", "OA 5", "desarrollo_breve"),
+    (4, "By bike", "OA 5", "desarrollo_breve"),
+    (5, "fourteen", "OA 5", "desarrollo_breve"),
+    (6, "To advertise a dental clinic", "OA 6", "alternativas"),
+    (7, "Next week", "OA 6", "alternativas"),
+    (8, "have / welcome", "OA 6", "desarrollo_breve"),
+    (9, "4 pm", "OA 6", "desarrollo_breve"),
+    (10, "Falso", "OA 6", "verdadero_falso"),
+    (11, "I feel excited", "OA 8", "alternativas"),
+    (12, "Very happy", "OA 5", "alternativas"),
+    (13, "because", "OA 8", "desarrollo_breve"),
+    (14, "Ambos personajes son válidos", "OA 8", "desarrollo_breve"),
+    (15, "Respuesta personal", "OA 8", "desarrollo_breve"),
+    (16, "on", "OA 14", "alternativas"),
+    (17, "mat", "OA 14", "alternativas"),
+    (18, "Dear / See you soon", "OA 14", "desarrollo_breve"),
+    (19, "Here you are, some carrots!", "OA 14", "desarrollo_breve"),
+    (20, "cuatro espacios", "OA 14", "desarrollo_breve"),
+    (21, "she isn't", "OA 15", "alternativas"),
+    (22, "children", "OA 15", "alternativas"),
+    (23, "have", "OA 15", "desarrollo_breve"),
+    (24, "slowly / fast", "OA 15", "desarrollo_breve"),
+    (25, "How many books are there on the desk?", "OA 15", "desarrollo_breve"),
+])
+def test_ingles_6b_simulacro_claves_pautas_y_objetivos(numero, fragmento, oa, tipo):
+    ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/examenes/ingles-examen-forma-b.md"
+    pregunta, pauta = next(
+        (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
+        if p.numero == numero
+    )
+    assert pregunta.tipo == tipo
+    assert pauta.codigo_oa == oa
+    assert fragmento in pauta.respuesta_correcta
+    if pregunta.opciones:
+        assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
+    else:
+        assert tipo == "desarrollo_breve"
+    if numero == 14:
+        assert "No exigir literalmente because" in pauta.retroalimentacion
+        assert "I like the seal. It helps the penguin." in pauta.retroalimentacion
+
+
+def test_ingles_6b_recuentos_reflejan_vf_cerrado_y_lectura_literal_p12():
+    from collections import Counter
+
+    ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/examenes/ingles-examen-forma-b.md"
+    texto = ruta.read_text(encoding="utf-8")
+    preguntas = parsear_prueba_o_examen(texto)
+    assert [p.numero for p, r in preguntas] == list(range(1, 26))
+    assert Counter(p.tipo for p, r in preguntas) == {"alternativas": 10, "verdadero_falso": 1, "desarrollo_breve": 14}
+    assert Counter(r.codigo_oa for p, r in preguntas) == {"OA 5": 6, "OA 6": 5, "OA 8": 4, "OA 14": 5, "OA 15": 5}
+    assert "| OA 5 | 1, 2, 3, 4, 5, 12 | 3 | 3 |" in texto
+    assert "| OA 6 | 6, 7, 8, 9, 10 | 3 | 2 |" in texto
+    assert "| OA 8 | 11, 13, 14, 15 | 1 | 3 |" in texto
+    assert "| **Total** | **25 preguntas** | **11** | **14** |" in texto
+
+
 @pytest.mark.parametrize("etiqueta", ["Verdadero o falso", "V/F"])
 def test_vf_sin_justificacion_ofrece_opciones_autocorregibles(etiqueta):
     texto = f"**1. ({etiqueta})** Dos más dos son cuatro.\n## Pauta de respuestas\n1. Verdadero. La suma es cuatro."

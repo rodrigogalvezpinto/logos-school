@@ -102,7 +102,7 @@ def _limpiar(texto: str) -> str:
 def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
     matches = list(RE_Q_START.finditer(texto_preguntas))
     declaraciones = list(re.finditer(
-        r"(?mi)^(?:#{1,6}[ \t]+)?\*{0,2}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa)\b[^\n]*\bpreguntas?\s+\d[^\n]*$", texto_preguntas,
+        r"(?mi)^(?:#{1,6}[ \t]+)?\*{0,2}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa|Textos?\s+\d+)\b[^\n]*\bpreguntas?\s+\d[^\n]*$", texto_preguntas,
     ))
     contextos: dict[int, list[str]] = {}
     numeros = {int(m.group(1)) for m in matches}

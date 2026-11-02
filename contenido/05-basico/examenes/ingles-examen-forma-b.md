@@ -220,7 +220,7 @@ Las respuestas personales no se califican por coincidencia literal con el ejempl
 | 6 | a) To invite people to a school activity | OA6 |
 | 7 | c) A menu | OA6 |
 | 8 | Thank you / Thanks. Se acepta cualquiera de las dos expresiones. | OA6 |
-| 9 | At four o'clock / At 4 pm / He should come at four o'clock. El texto dice four o'clock sin especificar am/pm; aceptar también At 4. | OA6 |
+| 9 | At four o'clock / At 4 pm / At 4 p.m. / At 16:00 / He should come at four o'clock in the afternoon. La invitación especifica las cuatro de la tarde; aceptar también At 4 por el contexto. No aceptar 4 am. | OA6 |
 | 10 | True (Verdadero): las acciones wash/cut/put explican cómo preparar el plato de fruta. | OA6 |
 | 11 | d) I like drawing pictures. | OA8 |
 | 12 | b) I like singing, too. | OA8 |

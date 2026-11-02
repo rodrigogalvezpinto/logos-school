@@ -194,14 +194,14 @@ zona conquistada.
 
 ---
 
-**6. (Análisis de fuente histórica)** Imagina un mapa de Chile donde se marcan con una
-estrella los lugares y años de fundación de cuatro ciudades: Santiago (1541), La Serena
-(1544), Concepción (1550) y Valdivia (1552). ¿Qué tendencia general observas en este mapa
-sobre el avance de la conquista española en Chile?
+**6. (Análisis de fuente histórica)** Lee este registro de fundaciones: Santiago (1541,
+punto de referencia), La Serena (1544, al norte de Santiago), Concepción (1550, al sur de
+Santiago) y Valdivia (1552, al sur de Santiago). ¿Qué tendencia general observas sobre el
+avance de la conquista española en Chile?
 
 ✅ Respuesta correcta: Se observa que la conquista avanzó progresivamente desde el centro
-hacia el norte y el sur del territorio, fundando nuevas ciudades a lo largo de varias
-décadas, no de una sola vez.
+hacia el norte y el sur del territorio, fundando nuevas ciudades a lo largo de los años,
+no de una sola vez. El registro mostrado abarca 11 años (1541–1552).
 💬 *Retroalimentación:* Las fechas de fundación muestran que la conquista fue un proceso
 gradual y prolongado en el tiempo, no un hecho instantáneo, y que buscó expandirse en varias
 direcciones desde el valle central.

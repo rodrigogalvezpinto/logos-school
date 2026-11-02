@@ -93,7 +93,7 @@ d) El tiempo pareciera detenerse durante el trayecto
 
 ---
 
-## Texto 4 (para las preguntas 9 a 13): "El agua que viene de la niebla"
+## Texto 4 (para las preguntas 9 a 13 y 22): "El agua que viene de la niebla"
 
 **Texto A — "Atrapando agua del aire en Alto Hospicio"**
 
