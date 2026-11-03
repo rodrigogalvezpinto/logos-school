@@ -166,6 +166,8 @@ def _resolver_oa(
     if modulo is not None:
         if (modulo, codigo) in mapa:
             return mapa[(modulo, codigo)]
+        if (None, codigo) in mapa:
+            return mapa[(None, codigo)]
         if any(c == codigo for _, c in mapa):
             raise ValueError(f"Módulo {modulo} inexistente para {codigo}")
         return None

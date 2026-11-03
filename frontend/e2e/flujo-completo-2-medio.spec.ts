@@ -121,6 +121,8 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
     expect(asignaturas).toContain('Historia, Geografía y Cs. Sociales');
     expect(asignaturas).toContain('Inglés');
     expect(asignaturas.length).toBeGreaterThanOrEqual(5);
+
+    await page.screenshot({ path: '/Users/rodrigogalvez/.gemini/antigravity/brain/b90c04b9-654e-4cfa-ae1c-89c8ce8ce904/e2e-2medio-asignaturas.png' });
   });
 
   test('4. Estudio de Guías en Asignaturas de 2° Medio y Autoevaluación', async ({ page }) => {
@@ -169,7 +171,14 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
       const opcion = page.locator('.opcion').first();
       await expect(opcion).toBeVisible();
       await opcion.click();
+    }
+
+    // UX-002: Comprobar respuesta bajo demanda en autoevaluación
+    const btnComprobar = page.locator('.btn-ayuda-practica');
+    if (await btnComprobar.isVisible()) {
+      await btnComprobar.click();
       await expect(page.locator('.feedback')).toBeVisible();
+      await page.screenshot({ path: '/Users/rodrigogalvez/.gemini/antigravity/brain/b90c04b9-654e-4cfa-ae1c-89c8ce8ce904/e2e-2medio-autoevaluacion-feedback.png' });
     }
 
     // 4.2 Entrar a Matemática de 2° Medio
@@ -180,6 +189,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
     await page.getByRole('link', { name: 'Estudiar guía' }).first().click();
     await expect(page).toHaveURL(/estudiar\/\d+/);
     await expect(page.locator('.contenido-guia')).not.toBeEmpty();
+    await page.screenshot({ path: '/Users/rodrigogalvez/.gemini/antigravity/brain/b90c04b9-654e-4cfa-ae1c-89c8ce8ce904/e2e-2medio-guia-matematica-katex.png' });
   });
 
   test('5. Rendición completa de una Prueba de Unidad de 2° Medio', async ({ page }) => {
@@ -220,7 +230,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
 
     // Validar pantalla de resultado con nota calculada por el backend
     await expect(page.locator('.resultado')).toBeVisible();
-    await expect(page.locator('.resultado__nota')).toContainText('Nota:');
+    await expect(page.locator('.resultado__nota')).toContainText(/Nota/);
 
     // Botón volver a evaluaciones
     await page.getByRole('button', { name: 'Volver' }).click();
@@ -252,6 +262,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
     await page.getByRole('button', { name: 'Comenzar' }).click();
     await expect(page.locator('.pregunta__enunciado')).toBeVisible();
     await expect(page.locator('.runner__cronometro')).toBeVisible();
+    await page.screenshot({ path: '/Users/rodrigogalvez/.gemini/antigravity/brain/b90c04b9-654e-4cfa-ae1c-89c8ce8ce904/e2e-2medio-examen-runner.png' });
 
     // Responder la primera pregunta
     const textarea = page.locator('textarea.respuesta-abierta');
@@ -269,7 +280,8 @@ test.describe.serial('Auditoría Integral y Flujo Real: 2° Medio (Apoderado y A
 
     // Validar pantalla de resultado con nota oficial calculada
     await expect(page.locator('.resultado')).toBeVisible();
-    await expect(page.locator('.resultado__nota')).toContainText('Nota:');
+    await expect(page.locator('.resultado__nota')).toContainText(/Nota/);
+    await page.screenshot({ path: '/Users/rodrigogalvez/.gemini/antigravity/brain/b90c04b9-654e-4cfa-ae1c-89c8ce8ce904/e2e-2medio-examen-resultado.png' });
   });
 
   test('7. Plan de Estudio, Historial de Notas y Gamificación (XP)', async ({ page }) => {

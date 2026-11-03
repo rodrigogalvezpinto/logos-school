@@ -30,7 +30,15 @@ from app.infrastructure.persistence.orm_models import (
     ObjetivoAprendizaje,
     Pregunta,
 )
-from importar_contenido import CONTENIDO_DIR, CURSOS, _asignatura_por_archivo, _importar_conjunto, _titulo_desde_encabezado
+from importar_contenido import (
+    CONTENIDO_DIR,
+    CURSOS,
+    _asignatura_por_archivo,
+    _importar_conjunto,
+    _indexar_banco,
+    _titulo_desde_encabezado,
+)
+from parser_contenido import extraer_modulo, parsear_guia
 
 
 def main() -> None:
@@ -63,6 +71,7 @@ def main() -> None:
 
             asignaturas_por_slug = {}
             oas_por_asignatura = {}
+            bancos_por_asignatura = {}
             for slug, nombre in curso["asignaturas"]:
                 a = session.exec(
                     select(Asignatura).where(Asignatura.nivel_id == nivel.id, Asignatura.nombre == nombre)
@@ -70,7 +79,24 @@ def main() -> None:
                 if a:
                     asignaturas_por_slug[slug] = a
                     oas = session.exec(select(ObjetivoAprendizaje).where(ObjetivoAprendizaje.asignatura_id == a.id)).all()
-                    oas_por_asignatura[a.id] = {oa.codigo_oficial: oa.id for oa in oas}
+                    oa_por_codigo = {oa.codigo_oficial: oa.id for oa in oas}
+                    oas_mapa = {}
+                    ruta_guia = CONTENIDO_DIR / curso["carpeta"] / f"{slug}.md"
+                    if ruta_guia.exists():
+                        objetivos = parsear_guia(ruta_guia.read_text(encoding="utf-8"))
+                        bancos_por_asignatura[a.id] = _indexar_banco(objetivos)
+                        for oap in objetivos:
+                            if oap.codigo_oficial in oa_por_codigo:
+                                oas_mapa[(oap.modulo, oap.codigo_oficial)] = oa_por_codigo[oap.codigo_oficial]
+                    else:
+                        bancos_por_asignatura[a.id] = {}
+                    for oa in oas:
+                        if (None, oa.codigo_oficial) not in oas_mapa:
+                            oas_mapa[(None, oa.codigo_oficial)] = oa.id
+                        mod = extraer_modulo(oa.descripcion)
+                        if mod and (mod, oa.codigo_oficial) not in oas_mapa:
+                            oas_mapa[(mod, oa.codigo_oficial)] = oa.id
+                    oas_por_asignatura[a.id] = oas_mapa
             slugs = list(asignaturas_por_slug.keys())
 
             dir_pruebas = CONTENIDO_DIR / curso["carpeta"] / "pruebas"
@@ -86,6 +112,7 @@ def main() -> None:
                         nombre=_titulo_desde_encabezado(ruta) or ruta.stem.replace("-", " ").title(),
                         forma=None, asignatura_id=asignatura.id, nivel_id=None,
                         tiempo_sugerido_min=None, oas_por_codigo=oas_por_asignatura.get(asignatura.id, {}),
+                        banco_preguntas=bancos_por_asignatura.get(asignatura.id, {}),
                     )
                     if n:
                         n_pruebas += 1
@@ -103,6 +130,10 @@ def main() -> None:
                             nombre=f"Examen integrado Forma {forma}", forma=forma,
                             asignatura_id=None, nivel_id=nivel.id,
                             tiempo_sugerido_min=nivel.duracion_examen_min, oas_por_codigo={},
+                            asignaturas_integradas={
+                                slug: (asignatura.id, oas_por_asignatura[asignatura.id])
+                                for slug, asignatura in asignaturas_por_slug.items()
+                            },
                         )
                     else:
                         slug = _asignatura_por_archivo(ruta.stem, slugs)
@@ -115,6 +146,7 @@ def main() -> None:
                             asignatura_id=asignatura.id, nivel_id=None,
                             tiempo_sugerido_min=nivel.duracion_examen_min,
                             oas_por_codigo=oas_por_asignatura.get(asignatura.id, {}),
+                            banco_preguntas=bancos_por_asignatura.get(asignatura.id, {}),
                         )
                     if n:
                         n_examenes += 1

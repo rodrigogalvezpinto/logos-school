@@ -52,7 +52,12 @@ app.add_middleware(
     CORSMiddleware,
     # En Desarrollo, el frontend corre en localhost:4300 (ver planificacion/17-...).
     # En Producción se restringe al dominio real cuando exista.
-    allow_origins=["http://localhost:4300", "http://localhost:4200"],
+    allow_origins=[
+        "http://localhost:4300",
+        "http://localhost:4200",
+        "http://127.0.0.1:4300",
+        "http://127.0.0.1:4200",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
