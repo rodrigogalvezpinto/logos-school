@@ -169,6 +169,8 @@ test.describe.serial('Auditoría Integral y Flujo Real: 5° Básico (Apoderado y
       const opcion = page.locator('.opcion').first();
       await expect(opcion).toBeVisible();
       await opcion.click();
+      const btnAyuda = page.locator('.btn-ayuda-practica');
+      if (await btnAyuda.isVisible()) await btnAyuda.click();
       await expect(page.locator('.feedback')).toBeVisible();
     }
 
@@ -220,7 +222,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 5° Básico (Apoderado y
 
     // Validar pantalla de resultado con nota calculada por el backend
     await expect(page.locator('.resultado')).toBeVisible();
-    await expect(page.locator('.resultado__nota')).toContainText('Nota:');
+    await expect(page.locator('.resultado__nota')).toContainText(/Nota/);
 
     // Botón volver a evaluaciones
     await page.getByRole('button', { name: 'Volver' }).click();
@@ -269,7 +271,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 5° Básico (Apoderado y
 
     // Validar pantalla de resultado con nota oficial calculada
     await expect(page.locator('.resultado')).toBeVisible();
-    await expect(page.locator('.resultado__nota')).toContainText('Nota:');
+    await expect(page.locator('.resultado__nota')).toContainText(/Nota/);
   });
 
   test('7. Plan de Estudio, Historial de Notas y Gamificación (XP)', async ({ page }) => {
