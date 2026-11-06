@@ -2,6 +2,7 @@
 asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
 unidad: Unidad 1 — OA N°1 (Comprensión escrita: propósito, audiencia y contexto)
+título: Prueba de Unidad — Inglés, Unidad 1: Comprender información para un propósito específico
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 15

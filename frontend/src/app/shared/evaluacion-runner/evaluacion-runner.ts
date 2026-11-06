@@ -2,6 +2,7 @@ import { Component, Input, OnInit, signal, computed, inject } from '@angular/cor
 import { Router } from '@angular/router';
 import { NgTemplateOutlet } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { firstValueFrom } from 'rxjs';
 import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.service';
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
 import { MarkdownPipe } from '../markdown.pipe';
@@ -128,11 +129,11 @@ export interface PreguntaRunner {
           } @else if (preguntaActual.tipo === 'verdadero_falso') {
             <div class="opciones">
               <label class="opcion" [class.opcion--elegida]="respuestas()[preguntaActual.id] === 'Verdadero'">
-                <input type="radio" [name]="preguntaActual.id" (change)="responder(preguntaActual.id, 'Verdadero')" />
+                <input type="radio" [name]="preguntaActual.id" value="Verdadero" [checked]="respuestas()[preguntaActual.id] === 'Verdadero'" (change)="responder(preguntaActual.id, 'Verdadero')" />
                 Verdadero
               </label>
               <label class="opcion" [class.opcion--elegida]="respuestas()[preguntaActual.id] === 'Falso'">
-                <input type="radio" [name]="preguntaActual.id" (change)="responder(preguntaActual.id, 'Falso')" />
+                <input type="radio" [name]="preguntaActual.id" value="Falso" [checked]="respuestas()[preguntaActual.id] === 'Falso'" (change)="responder(preguntaActual.id, 'Falso')" />
                 Falso
               </label>
             </div>
@@ -547,9 +548,21 @@ export class EvaluacionRunner implements OnInit {
     }
     this.respuestas.update((r) => ({ ...r, [preguntaId]: valor }));
     if (this.intentoId) {
-      this.evaluacionesService.responder(this.intentoId, preguntaId, valor).subscribe();
+      const intentoId = this.intentoId;
+      // Los autosaves van en cola, uno tras otro: enviados en paralelo (varias casillas
+      // seguidas, o la última respuesta y «Entregar» casi juntos) llegaban desordenados al
+      // backend y uno podía pisar al otro (hallazgo E2E 2026-11-06).
+      this.guardadosPendientes = this.guardadosPendientes.then(() =>
+        firstValueFrom(this.evaluacionesService.responder(intentoId, preguntaId, valor)).then(
+          () => undefined,
+          () => undefined,
+        ),
+      );
     }
   }
+
+  /** Cadena de autosaves en curso; `confirmarEnvio` espera a que termine antes de entregar. */
+  private guardadosPendientes: Promise<void> = Promise.resolve();
 
   marcarRevisar(id: number) {
     this.marcadas.update((set) => {
@@ -602,13 +615,14 @@ export class EvaluacionRunner implements OnInit {
 
     if (this.intentoId && this.modo !== 'autoevaluacion') {
       this.cargando.set(true);
-      this.evaluacionesService.entregar(this.intentoId).subscribe((intento) => {
+      const intentoId = this.intentoId;
+      this.guardadosPendientes.then(() => this.evaluacionesService.entregar(intentoId).subscribe((intento) => {
         this.puntajeFinal.set(intento.puntaje);
         this.notaFinal.set(intento.nota);
         this.cargando.set(false);
         this.enviada.set(true);
         this.cargarDetalle();
-      });
+      }));
     } else {
       this.enviada.set(true);
     }

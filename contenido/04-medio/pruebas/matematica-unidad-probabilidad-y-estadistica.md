@@ -2,6 +2,7 @@
 asignatura: Matemática
 curso: 4° Medio
 unidad: Eje Probabilidad y Estadística — OA2 (modelos binomial y normal, evaluación crítica de argumentos estadísticos)
+título: Prueba de Unidad — Matemática, Eje Probabilidad y Estadística
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14

@@ -2,6 +2,7 @@
 asignatura: Ciencias para la Ciudadanía
 curso: 3° Medio
 unidad: Módulo 1 — Bienestar y salud
+título: Prueba de Unidad — Ciencias para la Ciudadanía, Módulo 1: Bienestar y salud
 tipo: Prueba de unidad
 tiempo_sugerido: 45 a 50 minutos
 cantidad_preguntas: 14

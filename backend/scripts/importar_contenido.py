@@ -128,8 +128,18 @@ def _titulo_desde_encabezado(ruta: Path) -> str | None:
     """El nombre de una prueba de unidad se toma del primer encabezado `# ...` del archivo
     (ya escrito con tildes y mayúsculas correctas) en vez de derivarlo del slug del nombre
     de archivo — `"matematica-unidad-geometria".title()` da "Matematica Unidad Geometria",
-    sin tildes y con "Unidad" en mayúscula donde no corresponde."""
-    for linea in ruta.read_text(encoding="utf-8").splitlines():
+    sin tildes y con "Unidad" en mayúscula donde no corresponde.
+
+    Si el frontmatter declara `título:`, ese manda: varios archivos comparten el mismo
+    `# ...` («Prueba de Unidad — Matemática 6° Básico» en sus 4 ejes) y el alumno no podía
+    distinguir qué unidad rendía (hallazgo E2E 2026-11-06)."""
+    texto = ruta.read_text(encoding="utf-8")
+    frontmatter = re.match(r"---\n(.*?)\n---", texto, re.S)
+    if frontmatter:
+        titulo = re.search(r"^t[ií]tulo:\s*(.+)$", frontmatter.group(1), re.M)
+        if titulo:
+            return titulo.group(1).strip()
+    for linea in texto.splitlines():
         linea = linea.strip()
         if linea.startswith("# "):
             return linea[2:].strip()

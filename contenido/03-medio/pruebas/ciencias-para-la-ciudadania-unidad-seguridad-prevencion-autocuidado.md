@@ -2,6 +2,7 @@
 asignatura: Ciencias para la Ciudadanía
 curso: 3° Medio
 unidad: Módulo 2 — Seguridad, prevención y autocuidado
+título: Prueba de Unidad — Ciencias para la Ciudadanía, Módulo 2: Seguridad, prevención y autocuidado
 tipo: Prueba de unidad
 tiempo_sugerido: 45 a 50 minutos
 cantidad_preguntas: 14

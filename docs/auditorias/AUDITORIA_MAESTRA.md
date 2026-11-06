@@ -1215,3 +1215,33 @@ Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conse
   - Lectura humana de muestra: las retroalimentaciones que describen un distractor por su contenido pueden haber quedado desalineadas.
   - Revisión en navegador de «varias correctas».
   - Segunda validación del usuario.
+
+### 15.25 Validación integral en navegador con Playwright (2026-11-06)
+
+- **Entorno aislado.**
+  - Base nueva `logos_e2e_alternativas`, importada desde las fuentes actuales; no se tocaron `logos_qa` ni las demás bases.
+  - API en el puerto 8001 y frontend en el 4300.
+  - Fixture de claves exportada desde la misma base (`backend/scripts/exportar_fixture_validacion_e2e.py`), fuera del control de versiones.
+- **Spec `frontend/e2e/validacion-integral-material.spec.ts`.** Recorre los 12 cursos, todas las asignaturas, las 410 guías (estudio y autoevaluación) y las 206 pruebas y simulacros: 264 casos y 6.150 preguntas por navegador. Para cada pregunta exige:
+  - enunciado sin restos de Markdown ni de la pauta;
+  - control correcto según el tipo, con exactamente las opciones de la base;
+  - respuesta registrada en pantalla;
+  - en la autoevaluación, «¡Correcto!» al marcar la clave;
+  - en pruebas y simulacros, «N de N correctas» y nota 7.0, sin aviso de preguntas faltantes.
+- **Defectos reales encontrados y corregidos.**
+  1. *Respuestas perdidas por concurrencia.* El autosave hacía leer-modificar-escribir sin bloqueo. Al marcar varias casillas seguidas, o al entregar justo después de responder, se perdía una respuesta o se reabría un intento entregado. Corrección:
+     - backend: `buscar_por_id_para_actualizar` con `SELECT … FOR UPDATE` en Responder y Entregar;
+     - frontend: guardados en cola, y la entrega espera a que terminen;
+     - prueba unitaria `evaluacion-runner-guardado.spec.ts`.
+  2. *V/F marcada sin estar registrada.* Los radios de V/F no tenían `[checked]` ni `value`. Al pasar de una V/F a otra se veía marcada la respuesta anterior, pero no se registraba. Corregido en `evaluacion-runner.ts`.
+  3. *22 pruebas con nombre repetido en 8 ramos* (6B/7B Matemática, 7B/1M Historia, 3M CpC y Educación Ciudadana, 4M Inglés y Matemática). El importador usa ahora el `título:` del frontmatter; se agregó un título a 8 archivos y una guarda `test_nombres_pruebas_unicos.py`.
+- **Resultado.**
+  - Chromium: **264/264 aprobados**.
+  - Firefox (corrida en curso al escribir esto): 242 aprobados y 3 bloqueos de infraestructura, ya aprobados en Chromium: «408 Request Timeout» del servidor de desarrollo y un clic que Firefox no terminó de procesar. Se re-ejecutarán.
+  - WebKit: pendiente.
+- **Suites.**
+  - Backend: 718 pasados (+1 omitido).
+  - Scripts: 58 pasados (+1 omitido).
+  - Frontend: 96 pasados.
+- **Revisión de retroalimentaciones.** Las 26 que mencionan la letra de un distractor siguen coherentes con sus opciones.
+- **Observación menor.** Angular avisa NG0956: `track op` recrea las opciones al cambiar de pregunta. No afecta la corrección.

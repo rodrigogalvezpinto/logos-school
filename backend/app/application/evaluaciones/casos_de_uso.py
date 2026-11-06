@@ -78,7 +78,7 @@ class ResponderPregunta:
         self._repositorio_intentos = repositorio_intentos
 
     def ejecutar(self, intento_id: int, pregunta_id: int, respuesta: str) -> IntentoEvaluacion:
-        intento = self._repositorio_intentos.buscar_por_id(intento_id)
+        intento = self._repositorio_intentos.buscar_por_id_para_actualizar(intento_id)
         if not intento:
             raise IntentoNoEncontrado()
         intento.responder(pregunta_id, respuesta)  # lanza IntentoYaEntregado si corresponde
@@ -99,10 +99,11 @@ class EntregarIntento:
         self._reloj = reloj
 
     def ejecutar(self, intento_id: int) -> IntentoEvaluacion:
-        intento = self._repositorio_intentos.buscar_por_id(intento_id)
+        intento = self._repositorio_intentos.buscar_por_id_para_actualizar(intento_id)
         if not intento:
             raise IntentoNoEncontrado()
         if intento.esta_entregado:
+            self._repositorio_intentos.guardar(intento)  # libera el bloqueo de la fila
             return intento  # idempotente — no vuelve a consultar preguntas ni recalcula
 
         conjunto = self._repositorio_conjuntos.buscar_por_id(intento.conjunto_evaluacion_id)

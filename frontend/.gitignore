@@ -48,3 +48,4 @@ Thumbs.db
 /test-results/
 /blob-report/
 e2e/.storage-*.json
+e2e/fixtures/material-validacion.json

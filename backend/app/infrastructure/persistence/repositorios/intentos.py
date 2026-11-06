@@ -19,6 +19,20 @@ class RepositorioIntentosSQLModel:
         fila = self._session.get(IntentoORM, intento_id)
         return self._a_dominio(fila) if fila else None
 
+    def buscar_por_id_para_actualizar(self, intento_id: int) -> IntentoDominio | None:
+        """Lee el intento bloqueando su fila hasta el commit de `guardar` (SELECT ... FOR
+        UPDATE). Sin esto, dos autosaves simultáneos (varias casillas marcadas seguido, o la
+        última respuesta y «Entregar» casi juntos) hacían leer-modificar-escribir sobre el
+        mismo JSON y uno pisaba al otro: se perdía una respuesta o se reabría un intento ya
+        entregado (hallazgo E2E 2026-11-06). SQLite ignora el FOR UPDATE."""
+        fila = self._session.exec(
+            select(IntentoORM)
+            .where(IntentoORM.id == intento_id)
+            .with_for_update()
+            .execution_options(populate_existing=True)
+        ).first()
+        return self._a_dominio(fila) if fila else None
+
     def buscar_activo(self, perfil_alumno_id: int, conjunto_evaluacion_id: int) -> IntentoDominio | None:
         fila = self._session.exec(
             select(IntentoORM).where(

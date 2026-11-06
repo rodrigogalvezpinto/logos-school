@@ -2,6 +2,7 @@
 asignatura: Educación Ciudadana
 curso: 3° Medio
 unidad: Unidad 1 — OA 1, OA 2, OA 4
+título: Prueba de Unidad — Educación Ciudadana, Unidad 1 (OA 1, OA 2, OA 4)
 tipo: Prueba de unidad
 tiempo_sugerido: 50 a 60 minutos
 cantidad_preguntas: 15
