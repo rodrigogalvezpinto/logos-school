@@ -1,10 +1,19 @@
 ---
 título: Estado de avance del contenido de estudio
 tipo: Estado de contenido
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-06
 ---
 
-> **Estado real verificado en base de datos (2026-10-28, logos_qa):** 12 cursos con
+> **Estado vigente (2026-11-06, medido con el código actual en una importación aislada):**
+> 12 cursos, **410 bloques OA**, **206 evaluaciones** (156 pruebas de unidad y 50 simulacros) y
+> **6.150 preguntas**, **todas cerradas**: 5.031 de alternativas, 850 de verdadero/falso y 269 de
+> «varias correctas» (marca todas; corrección todo o nada). **0 preguntas abiertas.** Por decisión del
+> 2026-11-06 se convirtieron las 3.299 preguntas abiertas (respaldadas en
+> `docs/banco-preguntas-abiertas/`). Los ítems nuevos tienen pendiente una segunda auditoría
+> independiente (auditoría maestra §15.23). Las cifras de abajo (408 OA, 6.130 preguntas,
+> 2.917 del banco de autoevaluación, «preguntas abiertas + pauta») son **históricas**.
+>
+> **Estado histórico verificado en base de datos (2026-10-28, logos_qa):** 12 cursos con
 > guía de estudio y banco de autoevaluación; **408 OA** oficiales; **6.130 preguntas**;
 > **156 pruebas de unidad**; **50 conjuntos de examen simulacro**. La auditoría maestra
 > de octubre 2026 (ver ../docs/auditorias/AUDITORIA_MAESTRA.md) corrigió claves, pautas, sesgos y

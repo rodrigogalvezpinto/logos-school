@@ -1,7 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 6° básico
-oa_por_pregunta: {"12":"OA 6"}
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","4":"OA 4","7":"OA 5","8":"OA 5","9":"OA 6","10":"OA 6","12":"OA 6"}
 unidad: 1
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -17,7 +17,7 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 25-30 minutos · **N° de preguntas:** 12
 
-**Instrucciones:** lee con atención los textos antes de responder. Las preguntas de alternativas tienen una sola respuesta correcta. Las preguntas de desarrollo se responden con oraciones completas.
+**Instrucciones:** lee con atención los textos antes de responder. Las preguntas de alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
@@ -73,48 +73,63 @@ Diciembre     90
 
 **1. (Alternativas — OA4)** ¿Cuál es la relación de causa-consecuencia correcta en el Texto 1?
 
-a) Manuel se acercó solo a los rieles → su padre lo felicitó
-b) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
-c) El padre de Manuel trabajaba en la pampa → Manuel dejó de estudiar
-d) Hubo una tormenta → se organizó una minga
+a) Manuel se acercó solo a los rieles para ayudar a los cargadores → su padre lo felicitó frente a todos
+b) El padre de Manuel trabajaba en la pampa salitrera → Manuel dejó de estudiar para trabajar con él
+c) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
+d) Hubo una tormenta muy fuerte en la pampa → los vecinos organizaron una minga para reparar las casas
 
-**2. (Desarrollo breve — OA4)** Explica por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato. ¿Qué motivación tenía?
+**2. (Alternativas — OA4)** ¿Por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato?
+
+a) Porque quería demostrar que era tan valiente y veloz como los cargadores mayores, y creía que las reglas eran para los "torpes"
+b) Porque no escuchaba bien a su padre por el ruido de las máquinas de la oficina salitrera
+c) Porque su padre le pidió ignorarlas cuando estuviera acompañado por los cargadores mayores, que sabían cuidarlo en los rieles
+d) Porque en la pampa no había reglas de seguridad y cada trabajador decidía cómo cuidarse
 
 **3. (Verdadero o Falso — OA4)** En el Texto 2, la costumbre de la minga influye directamente en la decisión de Antonia de pedir ayuda a la comunidad en vez de buscar dinero prestado.
 
 **4. (Alternativas — OA4)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
-a) Chile actual, en una ciudad grande
-b) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-c) La época de la colonia española
-d) El sur de Chile en el presente
+a) Chile actual, en una ciudad grande con fábricas y mucho tráfico
+b) El sur de Chile en el presente, en un pueblo de pescadores y bosques
+c) La época de la Colonia española, en las minas de plata del centro
+d) El auge del salitre en el norte de Chile, a comienzos del siglo XX
 
 **5. (Alternativas — OA5)** ¿Qué figura del lenguaje figurado se usa en "mis ojos pesan más que una montaña"?
 
 a) Onomatopeya
-b) Hipérbole
-c) Rima consonante
+b) Rima consonante
+c) Hipérbole
 d) Aliteración
 
 **6. (Verdadero o Falso — OA5)** La palabra "traquetea" es un ejemplo de onomatopeya, porque su sonido imita el ruido real de un tren en movimiento.
 
-**7. (Aplicación — OA5)** Identifica un ejemplo de **aliteración** en el poema y explica qué sonido se repite y qué efecto produce.
+**7. (Alternativas — OA5)** ¿Qué ejemplo de **aliteración** hay en el poema, y qué efecto produce?
+
+a) "los pinos se inclinan para verlo pasar": compara los pinos con personas
+b) El poema no tiene aliteraciones: ningún sonido se repite de forma intencionada en sus versos
+c) "tres veces": es una hipérbole, porque exagera la cantidad de veces que silba el tren en la noche para mostrar que el viaje es eterno
+d) "silba una vez, dos veces, tres veces": se repite el sonido "s" y refuerza la sensación de un silbido agudo y prolongado
 
 **8. (Alternativas — OA5)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **implícita** (no explícita)?
 
-a) El tren viaja de noche
-b) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-c) Los pinos se inclinan
-d) El poema tiene dos estrofas
+a) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
+b) El tren viaja de noche, como indica el título del poema
+c) Los pinos se inclinan al paso del tren, según el texto
+d) El poema tiene dos estrofas, como se ve al leerlo
 
 **9. (Alternativas — OA6)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas familias de Alto Hospicio gracias a los atrapanieblas?
 
-a) Dejaron de necesitar electricidad
+a) Dejaron de necesitar electricidad para sus casas y escuelas
 b) Pudieron regar huertos comunitarios sin depender de camiones aljibe
-c) Consiguieron trabajo en la ciudad
-d) Mejoraron el acceso a internet
+c) Consiguieron trabajo en la ciudad instalando nuevas mallas
+d) Mejoraron el acceso a internet en los cerros de la comuna
 
-**10. (Aplicación — OA6)** Según la tabla del Texto A, ¿en qué mes se registró la menor cantidad de litros captados por malla, y cuántos fueron?
+**10. (Alternativas — OA6)** Según la tabla del Texto A, ¿en qué mes se registró la menor cantidad de litros captados por malla, y cuántos fueron?
+
+a) En marzo, con 120 litros
+b) En diciembre, con 90 litros
+c) En junio, con 310 litros
+d) En septiembre, con 280 litros
 
 **11. (Verdadero o Falso — OA6)** Según el Texto B, la tecnología de los atrapanieblas fue desarrollada originalmente en Marruecos y luego se replicó en Chile.
 
@@ -122,22 +137,22 @@ d) Mejoraron el acceso a internet
 
 a) "Ambos textos afirman que los atrapanieblas reemplazan completamente el agua potable de una ciudad"
 b) "El Texto A muestra el impacto social de los atrapanieblas en una comunidad, y el Texto B explica el principio científico detrás de esta tecnología"
-c) "El Texto B dice que los atrapanieblas se inventaron en Alto Hospicio"
-d) "Ninguno de los dos textos menciona la camanchaca"
+c) "El Texto B dice que los atrapanieblas se inventaron en Alto Hospicio y que desde ahí se llevaron a otros países del mundo con climas similares"
+d) "Ninguno de los dos textos menciona la camanchaca ni explica de dónde proviene el agua que capturan las mallas"
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** Manuel desobedeció la advertencia (causa) y su pie quedó atrapado, casi sufriendo un accidente (consecuencia).
-2. Manuel quería demostrar que era tan valiente y veloz como los cargadores mayores, por eso sentía que las reglas eran solo para quienes eran "torpes".
+1. **c.** Manuel desobedeció la advertencia (causa) y su pie quedó atrapado, casi sufriendo un accidente (consecuencia).
+2. a) Porque quería demostrar que era tan valiente y veloz como los cargadores mayores, y creía que las reglas eran para los "torpes"
 3. **Verdadero.** La minga es la costumbre que orienta directamente la decisión de Antonia de organizar ayuda comunitaria en vez de buscar dinero.
-4. **b.** El texto menciona la Oficina Salitrera Humberstone y el año 1920, situando la historia en el auge del salitre a comienzos del siglo XX.
-5. **b.** Es una hipérbole porque exagera deliberadamente (los ojos no pesan literalmente como una montaña) para transmitir cansancio.
+4. **d.** El texto menciona la Oficina Salitrera Humberstone y el año 1920, situando la historia en el auge del salitre a comienzos del siglo XX.
+5. **c.** Es una hipérbole porque exagera deliberadamente (los ojos no pesan literalmente como una montaña) para transmitir cansancio.
 6. **Verdadero.** El sonido de "traquetea" imita el ruido rítmico de un tren sobre los rieles.
-7. En "silba una vez, dos veces, tres veces" se repite el sonido "s", reforzando la sensación de un silbido agudo y prolongado.
-8. **b.** Se deduce combinando pistas del poema (el sueño, "kilómetros", "mil años de viaje"), pero no se dice directamente con esas palabras.
+7. d) "silba una vez, dos veces, tres veces": se repite el sonido "s" y refuerza la sensación de un silbido agudo y prolongado
+8. **a.** Se deduce combinando pistas del poema (el sueño, "kilómetros", "mil años de viaje"), pero no se dice directamente con esas palabras.
 9. **b.** El texto indica explícitamente que algunas familias que antes dependían de camiones aljibe hoy pueden regar huertos comunitarios.
-10. En diciembre, con 90 litros — el valor más bajo de la tabla.
+10. b) En diciembre, con 90 litros. Es el valor más bajo de la tabla.
 11. **Falso.** El texto indica lo contrario: se desarrolló inicialmente en Chile (Región de Antofagasta) y luego se replicó en otros países, incluido Marruecos.
 12. **b.** Integra correctamente el enfoque de cada texto (impacto social en A, explicación científica en B) sin contradecir la información entregada.

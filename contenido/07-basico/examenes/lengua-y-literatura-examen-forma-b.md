@@ -8,14 +8,14 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 7° básico (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos a los del banco de contenido, pero que evalúa los mismos seis Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con gráfico) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos a los del banco de contenido, pero que evalúa los mismos seis Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: preguntas de alternativas (4 opciones) y de verdadero o falso, apoyadas en un texto narrativo, un poema, un texto de interpretación literaria, un texto argumentativo, textos de medios de comunicación (con gráfico) y una sección de escritura, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
-- Esta prueba contiene **25 preguntas**: 9 de alternativas (4 opciones), 2 de verdadero o falso con justificación, 8 de respuesta breve (incluye preguntas de aplicación) y 6 de respuesta extensa.
+- Esta prueba contiene **25 preguntas**: 23 de alternativas (4 opciones) y 2 de verdadero o falso.
 - Tiempo total: **90 minutos**.
 - Lee con atención cada texto antes de responder las preguntas asociadas a él. Puedes volver a leerlo cuantas veces necesites.
-- En las preguntas de alternativas, marca solo una opción. En las preguntas abiertas, responde con oraciones completas y ordena tus ideas.
+- En las preguntas de alternativas, marca solo una opción. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una.
 - No se permite el uso de libros, apuntes, celular u otro dispositivo electrónico. Puedes usar lápiz, goma y hoja de respuesta.
 - Administra bien tu tiempo: no te quedes pegado o pegada en una sola pregunta. Si te complicas con una, sigue adelante y vuelve a ella al final.
 - Al terminar, revisa tus respuestas antes de entregar. Al final de este documento encontrarás la **Pauta de Corrección** para autoevaluarte.
@@ -41,22 +41,32 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto?
 
 a) La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años
-b) La tristeza de Camila por la muerte de su abuela
-c) El mal estado del altillo de la casa de los abuelos
-d) La discusión entre la abuela y Camila por ordenar las pertenencias
+b) La tristeza de Camila por la muerte de su abuela, que la obliga a vender la casa familiar
+c) El mal estado del altillo de la casa de los abuelos, donde se perdieron los recuerdos de la familia
+d) La discusión entre la abuela y Camila por ordenar las pertenencias del altillo antes de la mudanza
 
 **2. (Alternativas)** ¿Qué rol cumple la abuela en el desarrollo del conflicto entre Camila y Tomás?
 
-a) Ninguno, porque no estaba presente cuando ocurrió la pelea
-b) Es la narradora que cuenta toda la historia en primera persona
-c) Es quien obliga a los hermanos a pedirse perdón de inmediato
+a) Ninguno importante, porque no estaba presente cuando ocurrió la pelea entre los hermanos y solo se entera años después
+b) Es la narradora que cuenta toda la historia en primera persona, desde el día del violín hasta la carta final
+c) Es quien obliga a los hermanos a pedirse perdón de inmediato, el mismo día en que se rompe el violín del altillo
 d) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
 
-**3. (Verdadero o Falso, con justificación)** "El relato comienza mostrando la pelea entre los hermanos y luego avanza en orden cronológico hasta el presente." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+**3. (Verdadero o Falso)** "El relato comienza mostrando la pelea entre los hermanos y luego avanza en orden cronológico hasta el presente."
 
-**4. (Desarrollo breve)** Identifica un fragmento del texto que corresponda a la **voz del narrador** y uno que corresponda a la **voz de un personaje**, y explica cómo los distingues.
+**4. (Alternativas)** ¿Cuál de estos fragmentos corresponde a la **voz de un personaje** y no a la del narrador?
 
-**5. (Desarrollo extenso)** Explica cómo el salto temporal (flashback) del relato ayuda a construir mejor el conflicto de la historia, en comparación con si se hubiera contado en orden estrictamente cronológico. Luego, menciona otro cuento, película o serie que conozcas donde dos personajes se distancien por un malentendido y luego logren (o no) reconciliarse, como podría ocurrir con Camila y Tomás, y explica brevemente la semejanza.
+a) "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella"
+b) "Camila dobló la carta despacio, sintió que los ojos se le llenaban de lágrimas"
+c) "En el altillo, entre cajas de fotografías amarillentas, encontró el viejo violín familiar"
+d) "Ninguno de los dos dio su brazo a torcer"
+
+**5. (Alternativas)** ¿Qué efecto produce el salto temporal (flashback) en la construcción del conflicto, en comparación con un relato en orden estrictamente cronológico?
+
+a) Hace que la historia sea más corta y fácil de seguir, sin cambiar su efecto, porque el orden de los hechos no influye en cómo se lee
+b) Elimina la intriga, porque el lector conoce desde la primera línea quién dejó mal apoyado el violín y por qué los hermanos se distanciaron
+c) No produce ningún efecto en la lectura: es solo un detalle técnico que la autora usa para separar las partes del cuento en el papel
+d) Al mostrar primero las consecuencias (el violín agrietado, la distancia entre los hermanos) antes de revelar la causa, genera intriga y refuerza el impacto emocional
 
 ---
 
@@ -88,9 +98,19 @@ b) Onomatopeya
 c) Personificación
 d) Aliteración
 
-**8. (Desarrollo breve)** Interpreta el significado de la metáfora "el mar guarda en sus olas el cansancio de todos los amaneceres vividos". ¿Qué idea transmite?
+**8. (Alternativas)** ¿Qué idea transmite la metáfora "el mar guarda en sus olas el cansancio de todos los amaneceres vividos"?
 
-**9. (Desarrollo extenso)** Identifica un recurso de sonoridad presente en el verso "El viento zumba, zigzagueante, entre las velas" y explica qué efecto produce al leerlo en voz alta. Luego, compara este poema con algún otro poema o canción que conozcas que describa un paisaje costero o marino chileno, señalando qué elementos tienen en común en la forma de describir el entorno.
+a) Que el mar está literalmente cansado después de cada tormenta del invierno, y por eso sus olas se mueven cada vez más lento al llegar al puerto
+b) Que las olas se detienen cada mañana, cuando los pescadores salen del puerto a trabajar con sus redes
+c) Que en el puerto nunca amanece del todo, porque la niebla y el frío cubren el mar durante todo el día
+d) Que el mar acumula simbólicamente el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella en sus olas
+
+**9. (Alternativas)** ¿Qué recurso de sonoridad hay en "El viento zumba, zigzagueante, entre las velas" y qué efecto produce?
+
+a) Una rima consonante entre los versos, que marca un ritmo rápido y alegre
+b) Una enumeración de colores del puerto, que crea una imagen visual del amanecer
+c) Una aliteración del sonido "z", que imita el sonido del viento moviéndose entre las velas
+d) Una pregunta retórica, que interpela al lector sobre el trabajo de los pescadores
 
 ---
 
@@ -106,10 +126,10 @@ d) Aliteración
 
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Rosa en el relato?
 
-a) Elegir entre ayudar a su madre o a su padre
+a) Elegir entre ayudar a su madre, que estaba en la casa con sus hermanos, o a su padre, que trabajaba en el puerto cuando comenzó el terremoto
 b) Decidir si corre a un lugar seguro de inmediato o vuelve al local en riesgo para salvar los documentos que aseguran la subsistencia de su familia
-c) Decidir si sigue trabajando en la tienda o estudia
-d) Elegir entre dos vecinos que se pelearon por una deuda
+c) Decidir si sigue trabajando en la tienda de su familia o se va a estudiar a Santiago después del terremoto
+d) Elegir entre dos vecinos que se pelearon por una deuda y que le pidieron que los ayudara a resolverla
 
 **11. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el desenlace del relato?
 
@@ -118,9 +138,19 @@ b) La Matanza de la Escuela Santa María de Iquique
 c) El terremoto y maremoto de Valdivia de 1960
 d) La llegada del ferrocarril a Chile
 
-**12. (Desarrollo breve)** Da tu postura personal frente al dilema de Rosa: ¿crees que tomó la decisión correcta al volver al local en riesgo para salvar la caja con los documentos? Fundamenta tu respuesta.
+**12. (Alternativas — postura fundamentada)** Frente al dilema de Rosa, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
-**13. (Desarrollo extenso)** Formula tu propia interpretación sobre el sentido general del relato, considerando el dilema de Rosa, tu postura personal frente a él, y el contexto histórico en que ocurre la historia. Explica además qué visión de mundo transmite el relato sobre la comunidad frente a una catástrofe natural.
+a) "Creo que acertó, porque sin esos ahorros y el registro de deudas su familia no habría tenido cómo sobrevivir el invierno, aunque arriesgó mucho"
+b) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto y no tienen que pensar en los riesgos antes de actuar"
+c) "No me gustó el cuento, porque los terremotos me dan miedo y prefiero las historias con finales felices"
+d) "Rosa es un nombre bonito y el relato está bien escrito, así que su decisión me parece buena"
+
+**13. (Alternativas)** ¿Qué interpretación del sentido general del relato integra mejor el dilema de Rosa, el contexto histórico y la visión de mundo?
+
+a) El relato es solo una historia de aventuras inventada para entretener, sin vínculo con ningún hecho real de la historia de Chile; Rosa actúa por impulso y el cuento no transmite ninguna visión sobre la comunidad
+b) El relato muestra que los bienes materiales nunca importan frente a una catástrofe: en el terremoto de Valdivia de 1960, Rosa se equivoca al volver por la caja, porque arriesgó su vida por algo que no tenía valor
+c) El relato trata sobre una tienda que cerró por malas ventas antes del terremoto de 1960; Rosa vuelve al local para despedirse, y el cuento transmite nostalgia por los negocios familiares
+d) En el terremoto y maremoto de Valdivia de 1960, Rosa arriesga su seguridad para proteger el sustento de su familia; el relato transmite una visión de solidaridad y resiliencia de la comunidad frente a la catástrofe
 
 ---
 
@@ -134,16 +164,26 @@ d) La llegada del ferrocarril a Chile
 
 **14. (Alternativas)** ¿Cuál es la postura principal del autor de la columna?
 
-a) La municipalidad debe encargarse sola de recoger a todos los perros callejeros
+a) La municipalidad debe encargarse sola de recoger a todos los perros callejeros, porque los vecinos no tienen la responsabilidad ni los recursos para hacerlo
 b) El problema de los perros callejeros se resuelve mejor si los propios vecinos se organizan para esterilizar, vacunar y dar en adopción, además de la labor municipal
-c) Los perros callejeros no representan ningún problema para la comunidad
-d) Las juntas de vecinos no deberían involucrarse en este tema
+c) Los perros callejeros no representan ningún problema para la comunidad, porque la mayoría son tranquilos y los vecinos ya los alimentan
+d) Las juntas de vecinos no deberían involucrarse en este tema, porque las campañas de esterilización solo empeoran el problema
 
-**15. (Verdadero o Falso, con justificación)** "La frase 'según cifras del Servicio Nacional de Salud Animal, Chile tiene una de las poblaciones de perros callejeros más altas de Sudamérica' corresponde a un hecho verificable, y no a una opinión del autor." Indica si es verdadero o falso y justifica tu respuesta.
+**15. (Verdadero o Falso)** "La frase 'según cifras del Servicio Nacional de Salud Animal, Chile tiene una de las poblaciones de perros callejeros más altas de Sudamérica' corresponde a un hecho verificable, y no a una opinión del autor."
 
-**16. (Desarrollo breve)** Menciona uno de los **argumentos** que el autor usa para sostener su postura, y explica cómo se relaciona con la idea principal del texto.
+**16. (Alternativas)** ¿Cuál de estos es un **argumento** que usa el autor para sostener su postura?
 
-**17. (Desarrollo extenso)** Da tu propia postura frente al problema planteado en la columna, fundamentando con al menos un argumento propio. Luego, explica por qué es importante, al leer un texto argumentativo como este, distinguir entre los hechos que presenta el autor y sus opiniones.
+a) Que el autor vive en un barrio con plazas donde suele haber muchos perros callejeros durante el día, y que los vecinos los alimentan
+b) Que muchas juntas de vecinos se quejan, pero pocas organizan campañas de esterilización o alimentación controlada, por lo que el problema empeora
+c) Que los perros son animales domésticos que necesitan cuidados, vacunas y alimentación de sus dueños
+d) Que la columna se publicó en redes sociales y recibió muchos comentarios de vecinos de la comuna
+
+**17. (Alternativas)** ¿Por qué es importante distinguir entre los hechos y las opiniones al leer una columna como esta?
+
+a) Porque las opiniones siempre son falsas y deben rechazarse, mientras que los hechos son siempre verdaderos
+b) Porque los hechos no sirven en un texto argumentativo, ya que lo que convence al lector son solo las opiniones
+c) Porque permite evaluar si la postura del autor está bien fundamentada y formarse un juicio crítico propio
+d) No es importante: todo lo que dice una columna publicada es un hecho, porque fue revisada antes de publicarse
 
 ---
 
@@ -168,16 +208,31 @@ Agosto    780
 
 **18. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto B?
 
-a) Informar objetivamente sobre la gestión de la nueva biblioteca
+a) Informar objetivamente sobre la gestión de la nueva biblioteca y sus horarios de atención al público
 b) Cuestionar la capacidad de las personas jóvenes para ejercer cargos de responsabilidad, basándose en un prejuicio etario
-c) Felicitar a Constanza Millapán por su nombramiento
-d) Explicar el funcionamiento de las bibliotecas comunitarias
+c) Felicitar a Constanza Millapán por su nombramiento y desearle éxito en su nuevo cargo en la biblioteca
+d) Explicar el funcionamiento de las bibliotecas comunitarias y cómo se elige a quienes las dirigen
 
-**19. (Desarrollo breve — texto discontinuo)** Según el gráfico del Texto A, ¿cuántas visitas más tuvo la biblioteca en agosto en comparación con mayo? Muestra cómo lo calculaste.
+**19. (Alternativas — texto discontinuo)** Según el gráfico del Texto A, ¿cuántas visitas más tuvo la biblioteca en agosto que en mayo?
 
-**20. (Desarrollo breve)** Identifica el estereotipo o prejuicio presente en el Texto B y explica por qué es un prejuicio y no una crítica basada en información real.
+a) 1.200 visitas
+b) 780 visitas
+c) 360 visitas
+d) 170 visitas
 
-**21. (Desarrollo extenso)** Compara el propósito explícito del Texto A y el propósito explícito del Texto B. ¿En qué se diferencian? Luego, explica por qué es importante que un lector o lectora sepa identificar estereotipos y prejuicios al leer comentarios en redes sociales sobre figuras públicas.
+**20. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
+
+a) Una crítica fundada en los resultados de la gestión anterior de Constanza Millapán, que habría cerrado otra biblioteca
+b) Un dato verificable sobre la cantidad de visitas que ha recibido la biblioteca desde que asumió la nueva directora
+c) Una felicitación a la nueva directora, expresada con ironía para destacar lo joven que es para un cargo tan importante
+d) Un prejuicio etario: supone que una persona joven "no tiene la madurez" para el cargo, sin considerar la trayectoria real de Constanza Millapán
+
+**21. (Alternativas)** ¿En qué se diferencian los propósitos del Texto A y del Texto B, y por qué importa reconocer prejuicios en redes sociales?
+
+a) Ambos informan de manera objetiva sobre el nombramiento; los prejuicios no influyen en nadie que lea con atención, así que no es necesario reconocerlos
+b) El A informa con tono favorable sobre la nueva directora y el B expresa una crítica basada en un prejuicio etario; reconocerlo evita dejarse influir por juicios injustos
+c) El A expresa una opinión sobre la directora y el B entrega datos verificables sobre su gestión; los prejuicios son ciertos cuando muchas personas los comparten
+d) Ninguno de los dos tiene un propósito definido; las publicaciones en redes sociales no necesitan leerse críticamente, porque son solo comentarios personales
 
 ---
 
@@ -190,17 +245,32 @@ b) Unir ideas y secciones del texto de manera clara, aportando coherencia y cohe
 c) Sustituir la necesidad de planificar el texto antes de escribirlo
 d) Cambiar automáticamente el registro de un texto de formal a informal
 
-**23. (Aplicación)** Corrige los errores de concordancia, pronombre y participio en la siguiente oración: "Los niño le devolvió a las profesor el libro que había escribido, porque las hoja estaban rompido."
+**23. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Los niño le devolvió a las profesor el libro que había escribido, porque las hoja estaban rompido"?
 
-**24. (Desarrollo breve)** Explica por qué es importante planificar (organizar tus ideas) antes de escribir un texto, en vez de comenzar a escribir directamente sin ese paso previo.
+a) Los niños le devolvieron a las profesoras el libro que habían escribido, porque las hojas estaban rompidas.
+b) Los niño les devolvió a la profesora el libro que había escrito, porque la hoja estaba rota.
+c) Los niños les devolvieron a las profesoras el libro que habían escrito, porque las hojas estaban rotas.
+d) Los niños les devolvieron a las profesoras el libro que habían escribido, porque las hojas estaban rotas.
 
-**25. (Desarrollo extenso)** Imagina que debes escribir una carta breve a la junta de vecinos de tu barrio para proponer la organización de una feria de intercambio de libros en la plaza. Planifica primero (a) dos ideas centrales que incluirías y (b) un conector que usarías para unirlas. Luego, escribe el párrafo, cuidando un registro formal adecuado al destinatario, al menos un conector, y la concordancia correcta entre sustantivos, artículos y verbos.
+**24. (Alternativas)** ¿Por qué es importante planificar antes de escribir un texto?
+
+a) Porque permite organizar las ideas centrales y su orden, evitando un texto desordenado y facilitando el uso de conectores
+b) Porque así el texto queda más largo y cumple con la cantidad de palabras que pide el profesor
+c) Porque planificar reemplaza la revisión final, de modo que ya no es necesario releer el texto escrito
+d) No es importante: es mejor escribir de corrido y ordenar las ideas solo si al final sobra tiempo
+
+**25. (Alternativas)** Para una carta a la junta de vecinos proponiendo una feria de intercambio de libros en la plaza, ¿qué párrafo cuida un registro formal, usa un conector y no tiene errores de concordancia?
+
+a) "Hola cabros: les proponemos organizar una feria de intercambio de libros en la plaza. Además, sería bacán para que los vecinos lean más y se conozcan."
+b) "Estimados vecinos: les proponemos organizar una feria de intercambio de libro en la plaza. Además, esta actividades permitiría fomentar la lectura."
+c) "Estimados vecinos: les proponemos organizar una feria de intercambio de libros en la plaza. Esta actividad permitiría fomentar la lectura. Fortalecer la convivencia del barrio."
+d) "Estimados vecinos: les proponemos organizar una feria de intercambio de libros en la plaza. Además, esta actividad permitiría fomentar la lectura y fortalecer la convivencia del barrio."
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -215,28 +285,28 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 1 | **a)** La culpa cruzada entre Camila y Tomás por el violín roto, que distanció su relación durante años. | OA N°3 — conflicto central |
 | 2 | **d)** Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue. | OA N°3 — efecto de las acciones de un personaje |
 | 3 | **Falso.** El relato comienza en el presente (Camila adulta en el altillo), salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; no comienza con la pelea ni avanza en orden estrictamente cronológico. | OA N°3 — disposición temporal |
-| 4 | Voz del narrador, por ejemplo: "Camila dobló la carta despacio, sintió que los ojos se le llenaban de lágrimas"; voz de un personaje, por ejemplo: "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella". Se distinguen porque el narrador describe desde fuera, sin raya de diálogo, mientras que los personajes hablan en primera persona, tras una raya o entre comillas. | OA N°3 — narrador versus personajes |
-| 5 | Debe explicar que el flashback genera intriga al mostrar primero las consecuencias del conflicto (el violín agrietado, la distancia entre los hermanos) antes de revelar su causa, reforzando el impacto emocional; y mencionar otra obra donde dos personajes se distancien por un malentendido y logren o no reconciliarse, con una semejanza explicada. | OA N°3 — análisis integrado del tiempo narrativo y relación entre obras |
+| 4 | **a) "—¡Yo ni siquiera lo toqué esa tarde! —respondió ella".** El narrador describe desde fuera, sin raya de diálogo; los personajes hablan en primera persona, tras una raya o entre comillas. | OA N°3 — narrador versus personajes |
+| 5 | **d) Al mostrar primero las consecuencias (el violín agrietado, la distancia entre los hermanos) antes de revelar la causa, genera intriga y refuerza el impacto emocional.** Los autores ordenan los hechos fuera de la cronología para producir intriga, sorpresa o tensión en quien lee. | OA N°3 — análisis integrado del tiempo narrativo y relación entre obras |
 | 6 | **a)** Al olfato. | OA N°4 — lenguaje poético y sentidos |
 | 7 | **c)** Personificación. | OA N°4 — lenguaje figurado |
-| 8 | Debe explicar que la metáfora sugiere que el mar acumula, simbólicamente, el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella conservada en sus olas. | OA N°4 — interpretación de lenguaje figurado |
-| 9 | Debe identificar la aliteración del sonido "z" (zumba, zigzagueante) y explicar que imita el sonido del viento moviéndose entre las velas; y comparar el poema con otra obra que describa un paisaje costero o marino chileno, señalando un elemento en común (por ejemplo, personificación del mar o del viento). | OA N°4 — ritmo, sonoridad y relación entre obras |
+| 8 | **d) Que el mar acumula simbólicamente el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella en sus olas.** | OA N°4 — interpretación de lenguaje figurado |
+| 9 | **c) Una aliteración del sonido "z", que imita el sonido del viento moviéndose entre las velas.** | OA N°4 — ritmo, sonoridad y relación entre obras |
 | 10 | **b)** Decidir si corre a un lugar seguro de inmediato o vuelve al local en riesgo para salvar los documentos que aseguran la subsistencia de su familia. | OA N°7 — identificación del dilema |
 | 11 | **c)** El terremoto y maremoto de Valdivia de 1960. | OA N°7 — contexto histórico |
-| 12 | Cualquier postura razonada y fundamentada, a favor o en contra de la decisión de Rosa, apoyada en argumentos relacionados con el texto. | OA N°7 — postura personal frente a un dilema |
-| 13 | Debe integrar el dilema de Rosa, una postura personal fundamentada frente a él, una relación explícita con el contexto histórico real del terremoto de 1960, y una explicación de la visión de mundo (solidaridad, resiliencia y preocupación por el sustento de la comunidad frente a la catástrofe) que transmite el relato. | OA N°7 — interpretación integrada |
+| 12 | **a) "Creo que acertó, porque sin esos ahorros y el registro de deudas su familia no habría tenido cómo sobrevivir el invierno, aunque arriesgó mucho".** También podría fundamentarse la postura contraria (por el riesgo para su vida); lo que se evalúa es que la opinión se apoye en razones vinculadas al texto. | OA N°7 — postura personal frente a un dilema |
+| 13 | **d) En el terremoto y maremoto de Valdivia de 1960, Rosa arriesga su seguridad para proteger el sustento de su familia; el relato transmite una visión de solidaridad y resiliencia de la comunidad frente a la catástrofe.** | OA N°7 — interpretación integrada |
 | 14 | **b)** El problema de los perros callejeros se resuelve mejor si los propios vecinos se organizan para esterilizar, vacunar y dar en adopción, además de la labor municipal. | OA N°8 — postura del autor |
 | 15 | **Verdadero.** Es un hecho, porque se apoya en una fuente de datos concreta (el Servicio Nacional de Salud Animal), a diferencia de una valoración personal del autor. | OA N°8 — hecho versus opinión |
-| 16 | Por ejemplo, el argumento de que muchas juntas de vecinos se quejan pero no organizan campañas de esterilización o alimentación controlada; se relaciona con la idea principal porque muestra por qué el problema empeora, apoyando la postura de que se necesita organización vecinal y no solo acción municipal. | OA N°8 — argumentos que sostienen una postura |
-| 17 | Debe dar una postura personal razonada con al menos un argumento propio, y explicar que distinguir hechos de opiniones permite evaluar si la postura del autor está bien fundamentada, ayudando a formarse un juicio crítico propio. | OA N°8 — postura personal y evaluación crítica |
+| 16 | **b) Que muchas juntas de vecinos se quejan, pero pocas organizan campañas de esterilización o alimentación controlada, por lo que el problema empeora.** Un argumento es una razón que sostiene directamente la postura central: se necesita organización vecinal y no solo acción municipal. | OA N°8 — argumentos que sostienen una postura |
+| 17 | **c) Porque permite evaluar si la postura del autor está bien fundamentada y formarse un juicio crítico propio.** | OA N°8 — postura personal y evaluación crítica |
 | 18 | **b)** Cuestionar la capacidad de las personas jóvenes para ejercer cargos de responsabilidad, basándose en un prejuicio etario. | OA N°9 — propósito implícito |
-| 19 | **360 visitas más** (780 − 420 = 360). | OA N°9 — interpretación de un gráfico (texto discontinuo) |
-| 20 | Debe identificar el prejuicio etario de que una persona joven "no tiene la madurez" para un cargo, sin evidencia relacionada con la trayectoria real de Constanza Millapán, y explicar que un prejuicio generaliza sobre un grupo (las personas jóvenes) sin considerar la evidencia del caso particular. | OA N°9 — estereotipos y prejuicios |
-| 21 | Debe explicar que el Texto A busca informar con un tono cercano y favorable sobre la nueva directora, mientras que el Texto B busca expresar una opinión crítica basada en un prejuicio etario; y explicar que identificar estereotipos y prejuicios permite no dejarse influir por juicios injustos hacia una persona, distinguiendo críticas basadas en hechos de descalificaciones basadas en generalizaciones. | OA N°9 — comparación de propósitos y pensamiento crítico |
+| 19 | **c) 360 visitas.** 780 − 420 = 360. | OA N°9 — interpretación de un gráfico (texto discontinuo) |
+| 20 | **d) Un prejuicio etario: supone que una persona joven "no tiene la madurez" para el cargo, sin considerar la trayectoria real de Constanza Millapán.** Un prejuicio generaliza sobre un grupo (las personas jóvenes) sin considerar la evidencia del caso particular. | OA N°9 — estereotipos y prejuicios |
+| 21 | **b) El A informa con tono favorable sobre la nueva directora y el B expresa una crítica basada en un prejuicio etario; reconocerlo evita dejarse influir por juicios injustos.** | OA N°9 — comparación de propósitos y pensamiento crítico |
 | 22 | **b)** Unir ideas y secciones del texto de manera clara, aportando coherencia y cohesión. | OA N°15 — función de los conectores |
-| 23 | "**Los** niño**s les** devolvió**vieron** a las profesor**as** el libro que había**n** **escrito**, porque las hoja**s** estaban **rotas**." (o variante equivalente que corrija concordancia plural, pronombre plural y participio irregular). | OA N°15 — concordancia, pronombres y participios irregulares |
-| 24 | Debe explicar que planificar permite organizar las ideas centrales y el orden en que se presentarán antes de escribir, evitando que el texto resulte desordenado o incoherente, y facilitando el uso adecuado de conectores entre las ideas. | OA N°15 — planificación de la escritura |
-| 25 | Debe presentar una planificación con dos ideas centrales distintas y un conector; y un párrafo con registro formal adecuado (fórmulas de cortesía, vocabulario formal), al menos un conector, y sin errores de concordancia entre sustantivos, artículos y verbos. | OA N°15 — planificación, registro y corrección gramatical |
+| 23 | **c) Los niños les devolvieron a las profesoras el libro que habían escrito, porque las hojas estaban rotas.** Se corrige la concordancia plural, el pronombre plural (les) y los participios irregulares (escrito, rotas). | OA N°15 — concordancia, pronombres y participios irregulares |
+| 24 | **a) Porque permite organizar las ideas centrales y su orden, evitando un texto desordenado y facilitando el uso de conectores.** | OA N°15 — planificación de la escritura |
+| 25 | **d) "Estimados vecinos: les proponemos organizar una feria de intercambio de libros en la plaza. Además, esta actividad permitiría fomentar la lectura y fortalecer la convivencia del barrio."** El destinatario exige registro formal (fórmula de saludo, vocabulario cuidado), al menos un conector ("además") y concordancia correcta. | OA N°15 — planificación, registro y corrección gramatical |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
@@ -254,10 +324,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | Tipo de pregunta | Cantidad | Preguntas |
 |---|---|---|
-| Alternativas (4 opciones) | 9 | 1, 2, 6, 7, 10, 11, 14, 18, 22 |
-| Verdadero o Falso (con justificación) | 2 | 3, 15 |
-| Desarrollo breve (incluye aplicación) | 8 | 4, 8, 12, 16, 19, 20, 23, 24 |
-| Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
+| Alternativas (4 opciones) | 23 | 1, 2, 4–14, 16–25 |
+| Verdadero o Falso | 2 | 3, 15 |
 | **Total** | **25** | |
 
 ---
@@ -266,12 +334,12 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 3 | 1, 2, 3, 4, 5 | 2 | 3 |
-| OA 4 | 6, 7, 8, 9 | 2 | 2 |
-| OA 7 | 10, 11, 12, 13 | 2 | 2 |
-| OA 8 | 14, 15, 16, 17 | 1 | 3 |
-| OA 9 | 18, 19, 20, 21 | 1 | 3 |
-| OA 15 | 22, 23, 24, 25 | 1 | 3 |
-| **Total** | **25 preguntas** | **9** | **16** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 5 |
+| OA 4 | 6, 7, 8, 9 | 4 |
+| OA 7 | 10, 11, 12, 13 | 4 |
+| OA 8 | 14, 15, 16, 17 | 4 |
+| OA 9 | 18, 19, 20, 21 | 4 |
+| OA 15 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

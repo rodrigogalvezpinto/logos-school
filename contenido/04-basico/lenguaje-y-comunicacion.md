@@ -73,40 +73,60 @@ Esto es importante porque la mayoría de lo que lees en la vida —cuentos, pel�
 **1. (Alternativas)** Según el texto, ¿qué le pidió la abuela a Valentina que hiciera?
 
 a) Que preparara sopaipillas
-b) Que fuera a buscar leña para la estufa
+b) Que cerrara las ventanas por la tormenta
 c) Que visitara a Wladimir
-d) Que cerrara las ventanas por la tormenta
+d) Que fuera a buscar leña para la estufa
 
-*Respuesta correcta: b.* Retroalimentación: el texto dice explícitamente "su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta". Las otras opciones no aparecen como el pedido de la abuela.
+*Respuesta correcta: d.* Retroalimentación: el texto dice explícitamente "su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta". Las otras opciones no aparecen como el pedido de la abuela.
 
-**2. (Desarrollo breve)** ¿Por qué crees que Wladimir juntó la leña antes de que se lo pidieran? Explica usando pistas del texto (no está escrito directamente, tienes que deducirlo).
+**2. (Alternativas — información implícita)** ¿Por qué Wladimir juntó la leña antes de que se lo pidieran? (No está escrito directamente: tienes que deducirlo con pistas del texto).
 
-*Respuesta esperada*: algo como "porque vio las nubes negras y pensó que la familia de Valentina necesitaría ayuda; es una persona atenta con sus vecinos". Retroalimentación: esto es información **implícita**: el texto no dice "Wladimir es solidario", pero sus acciones (observar el cielo, juntar leña sin que se lo pidan) nos permiten deducirlo.
+a) Porque vio las nubes negras y pensó que la familia de Valentina necesitaría ayuda: es un vecino atento
+b) Porque quería vender la leña a la abuela de Valentina antes de que empezara el invierno
+c) Porque la abuela le pagó para hacerlo, aunque el texto no lo dice directamente
+d) Porque a él le gustaba ensuciarse las manos y estar afuera, aunque estuviera lloviendo
+
+*Respuesta correcta: a.* Retroalimentación: esto es información **implícita**: el texto no dice "Wladimir es solidario", pero sus acciones (observar el cielo, juntar leña sin que se lo pidan) nos permiten deducirlo. Nada en el texto habla de vender ni de pagar.
 
 **3. (Verdadero o Falso)** "Gracias a que Wladimir juntó la leña, la familia pudo estar calentita esa noche mientras afuera llovía." — Esta afirmación describe una **consecuencia** de una acción del texto.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: es una consecuencia porque muestra el resultado de una acción anterior (Wladimir juntó la leña) sobre lo que pasó después (la familia estuvo cómoda y a salvo del frío).
 
-**4. (Aplicación)** Compara a Valentina y a Wladimir: menciona una característica de cada uno y explica en qué se parecen o se diferencian.
+**4. (Alternativas — comparar personajes)** ¿Qué comparación entre Valentina y Wladimir se apoya en lo que muestra el texto?
 
-*Respuesta esperada*: por ejemplo, "Valentina es curiosa y agradecida; Wladimir es observador y generoso. Se parecen en que ambos se preocupan por el bienestar de la familia (Valentina cuidando a su abuela, Wladimir cuidando a sus vecinas)". Retroalimentación: comparar personajes significa identificar tanto semejanzas como diferencias en su forma de ser o de actuar, apoyándose siempre en lo que el texto muestra.
+a) Valentina es egoísta y Wladimir es descuidado con sus vecinos; no se parecen en nada, porque cada uno piensa solo en sí mismo
+b) Los dos son personajes que no ayudan a nadie durante la tormenta, porque se quedan en sus casas mirando la lluvia
+c) Wladimir es tímido y no habla con nadie, y Valentina nunca agradece nada de lo que hacen por ella y su familia
+d) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
+
+*Respuesta correcta: d.* Retroalimentación: comparar personajes significa identificar tanto semejanzas como diferencias en su forma de ser o de actuar, apoyándose siempre en lo que el texto muestra (Valentina abraza a Wladimir en agradecimiento; él junta la leña sin que se lo pidan).
 
 **5. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor el **ambiente** donde ocurre la historia?
 
-a) Una ciudad grande con muchos edificios y autos
-b) Un pueblo del sur de Chile conectado por pasarelas de madera, cerca del mar y el bosque
-c) Un colegio en el centro de Santiago
-d) Una playa del norte de Chile
+a) Una ciudad grande con muchos edificios, autos y semáforos, lejos del mar
+b) Una playa del norte de Chile, con desierto y mucho sol durante todo el año
+c) Un colegio en el centro de Santiago, con pasillos largos y un patio de cemento
+d) Un pueblo del sur de Chile conectado por pasarelas de madera, cerca del mar y el bosque
 
-*Respuesta correcta: b.* Retroalimentación: el texto describe Caleta Tortel como un pueblo construido sobre pasarelas de madera, con olor a mar y bosque. Las otras opciones no coinciden con esa descripción.
+*Respuesta correcta: d.* Retroalimentación: el texto describe Caleta Tortel como un pueblo construido sobre pasarelas de madera, con olor a mar y bosque. Las otras opciones no coinciden con esa descripción.
 
-**6. (Desarrollo breve)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
+**6. (Alternativas — problema y solución)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
 
-*Respuesta esperada*: "El problema es que se acerca una tormenta y necesitan leña para la estufa. Se soluciona porque Wladimir ya había juntado la leña antes de que se lo pidieran." Retroalimentación: reconocer la estructura problema-solución te ayuda a entender el "hilo" de cualquier historia, no solo de este cuento.
+a) Valentina se pierde en las pasarelas durante la tormenta; la encuentra su mamá con una linterna
+b) No hay comida en la casa para la tormenta; compran sopaipillas en el almacén del pueblo
+c) La estufa se rompe con el frío; la arregla la abuela con las herramientas de Wladimir
+d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
 
-**7. (Aplicación — opinión fundamentada)** ¿Estás de acuerdo con la forma en que actuó Wladimir? Da tu opinión y fundaméntala con al menos un dato del texto.
+*Respuesta correcta: d.* Retroalimentación: reconocer la estructura problema-solución te ayuda a entender el "hilo" de cualquier historia, no solo de este cuento.
 
-*Respuesta esperada*: cualquier opinión (a favor o en contra) siempre que se apoye en información del texto, por ejemplo: "Sí, estoy de acuerdo, porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta." Retroalimentación: una buena opinión no es solo decir "me gustó" o "no me gustó": debe explicar el *porqué* usando información concreta del texto leído.
+**7. (Alternativas — opinión fundamentada)** Martín dice: "Estoy de acuerdo con la forma en que actuó Wladimir". ¿Qué fundamento usa **información del texto**?
+
+a) Porque me cae bien la gente que se llama Wladimir, y él tiene un nombre muy bonito
+b) Porque en mi casa también hay una estufa a leña y nos gusta mucho calentarnos junto a ella cuando llueve fuerte
+c) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta
+d) Porque las sopaipillas son ricas y a mí también me gusta comerlas cuando llueve
+
+*Respuesta correcta: c.* Retroalimentación: una buena opinión no es solo decir "me gustó" o "no me gustó": debe explicar el *porqué* usando información concreta del texto leído. Tú también podrías opinar distinto, siempre que te apoyes en el texto.
 
 ---
 
@@ -166,30 +186,45 @@ d) Café
 
 *Respuesta correcta: c.* Retroalimentación: el poema dice "El volcán se puso su manto blanco", que es una metáfora de la nieve. El gris corresponde al humo, no al manto.
 
-**2. (Desarrollo breve)** El poema no dice directamente que el volcán está en el sur de Chile. ¿Qué pistas del poema te permiten deducirlo (información implícita)?
+**2. (Alternativas — información implícita)** El poema no dice directamente que el volcán está en el sur de Chile. ¿Qué pista del poema permite deducirlo?
 
-*Respuesta esperada*: menciona las araucarias y el bosque, elementos típicos del sur de Chile (por ejemplo, cerca de La Araucanía o Los Ríos). Retroalimentación: cuando un texto no dice algo directamente pero podemos deducirlo a partir de detalles (como el tipo de árboles mencionados), estamos extrayendo información **implícita**.
+a) Menciona araucarias y bosque, elementos típicos del sur de Chile
+b) Dice que el volcán ronca despacito, como una persona
+c) Dice que el volcán se acuesta a dormir con un manto blanco
+d) Menciona una tetera que hierve en la mañana, como en el sur
+
+*Respuesta correcta: a.* Retroalimentación: cuando un texto no dice algo directamente pero podemos deducirlo a partir de detalles (como el tipo de árboles mencionados, propios de zonas como La Araucanía o Los Ríos), estamos extrayendo información **implícita**.
 
 **3. (Verdadero o Falso)** La expresión "el volcán se puso su manto blanco" es un ejemplo de **comparación**, porque usa la palabra "como".
 
 *Respuesta correcta: Falso.* Retroalimentación: esta expresión es una **metáfora**, porque nombra la nieve directamente como "manto", sin usar la palabra "como". Si dijera "la nieve parece un manto", ahí sí sería una comparación.
 
-**4. (Aplicación)** Lee el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana" e identifica qué figura del lenguaje figurado se usa. Explica tu respuesta.
+**4. (Alternativas — lenguaje figurado)** En el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana", ¿qué figura del lenguaje se usa y por qué?
 
-*Respuesta esperada*: es una **comparación (símil)**, porque usa la palabra "como" para comparar el sonido y el humo del volcán con una tetera hirviendo. Retroalimentación: la palabra "como" es la pista más clara para reconocer una comparación.
+a) Una rima, porque todas las palabras del verso terminan con el mismo sonido
+b) Una pregunta, porque tiene signos de interrogación y espera una respuesta
+c) Una instrucción, porque dice qué hacer cuando el volcán ronca en la mañana
+d) Una comparación (símil), porque usa la palabra "como" para comparar el volcán con una tetera
+
+*Respuesta correcta: d.* Retroalimentación: la palabra "como" es la pista más clara para reconocer una comparación. ("Ronca" también le da al volcán una acción humana, pero la figura que se pregunta aquí es la que usa "como").
 
 **5. (Alternativas)** ¿Cuál de los siguientes versos es un ejemplo de **personificación**?
 
 a) "Sus laderas verdes parecen un poncho"
-b) "El volcán se puso su manto blanco y se acostó a dormir"
-c) "Como una tetera que hierve en la mañana"
+b) "Como una tetera que hierve en la mañana"
+c) "El volcán se puso su manto blanco y se acostó a dormir"
 d) "El pueblo entero mira hacia el monte"
 
-*Respuesta correcta: b.* Retroalimentación: "ponerse un manto" y "acostarse a dormir" son acciones humanas que aquí se le atribuyen al volcán, por eso es personificación. La opción a) es una comparación (usa "parecen"), y la c) también es comparación (usa "como").
+*Respuesta correcta: c.* Retroalimentación: "ponerse un manto" y "acostarse a dormir" son acciones humanas que aquí se le atribuyen al volcán, por eso es personificación. La opción a) es una comparación (usa "parecen"), y la b) también es comparación (usa "como").
 
-**6. (Desarrollo breve)** Explica con tus propias palabras qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque".
+**6. (Alternativas — explicar un verso)** ¿Qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque"?
 
-*Respuesta esperada*: algo como "las partes de la montaña cerca de la base están cubiertas de vegetación (árboles y bosque), y esa vegetación es tan tupida y colorida que parece un poncho tejido". Retroalimentación: explicar un verso con tus propias palabras demuestra que entendiste la imagen que el poeta quiso crear, más allá de las palabras exactas del poema.
+a) Que alguien del pueblo tejió un poncho gigante de lana para abrigar al volcán en invierno
+b) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido
+c) Que en las laderas del volcán hay ferias donde se venden ponchos tejidos a mano
+d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no congelarse
+
+*Respuesta correcta: b.* Retroalimentación: explicar un verso con tus propias palabras demuestra que entendiste la imagen que el poeta quiso crear, más allá de las palabras exactas del poema.
 
 ---
 
@@ -260,17 +295,27 @@ d) Preguntarle a un compañero
 
 *Respuesta correcta: b.* Retroalimentación: los subtítulos son organizadores del texto que permiten encontrar información específica sin tener que releer todo. El gráfico (opción c) no tiene información sobre la caza del puma.
 
-**2. (Aplicación — texto discontinuo)** Observa el gráfico de animales favoritos. ¿Cuántos estudiantes en total votaron por el cóndor o el zorro?
+**2. (Alternativas — texto discontinuo)** Observa el gráfico de animales favoritos. ¿Cuántos estudiantes en total votaron por el cóndor o el zorro?
 
-*Respuesta correcta: 5 + 4 = 9 estudiantes.* Retroalimentación: para leer un gráfico de barras hay que fijarse en el largo de cada barra y el número que la acompaña; luego se puede sumar o comparar esos datos según lo que pregunten.
+a) 5
+b) 4
+c) 9
+d) 1
+
+*Respuesta correcta: c.* Retroalimentación: el cóndor tiene 5 votos y el zorro 4: 5 + 4 = 9 estudiantes. Para leer un gráfico de barras hay que fijarse en el largo de cada barra y el número que la acompaña; luego se puede sumar o comparar.
 
 **3. (Verdadero o Falso)** Según el texto, si desaparecieran todos los pumas de un ecosistema, algunas especies de presas podrían multiplicarse demasiado y quedarse sin suficiente alimento.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: el texto explica esta relación de causa-consecuencia directamente: "Sin depredadores como el puma, algunas especies podrían multiplicarse demasiado y agotar los alimentos disponibles."
 
-**4. (Desarrollo breve)** ¿Qué significa la expresión "se acerca a su presa... como una sombra entre las rocas"? ¿Qué tipo de lenguaje figurado es?
+**4. (Alternativas — lenguaje figurado)** ¿Qué significa la expresión "se acerca a su presa... como una sombra entre las rocas", y qué tipo de lenguaje figurado es?
 
-*Respuesta esperada*: significa que el puma se mueve de forma muy silenciosa y difícil de notar. Es una **comparación**, porque usa la palabra "como". Retroalimentación: aunque este es un texto informativo (no un poema), también puede usar lenguaje figurado para ayudarnos a imaginar mejor lo que describe.
+a) Que el puma se mueve en silencio y casi sin ser notado; es una comparación, porque usa "como"
+b) Que el puma es de color negro y brilla de noche; es una rima, porque las palabras terminan igual
+c) Que el puma caza solo de noche y duerme de día; es una pregunta, porque tiene signos de interrogación
+d) Que el puma se esconde bajo las rocas para dormir; es una instrucción, porque dice qué hacer
+
+*Respuesta correcta: a.* Retroalimentación: aunque este es un texto informativo (no un poema), también puede usar lenguaje figurado para ayudarnos a imaginar mejor lo que describe.
 
 **5. (Alternativas)** ¿Cuál de las siguientes es información **implícita** (no está escrita directamente, pero se puede deducir) del texto sobre el puma?
 
@@ -281,13 +326,23 @@ d) Está prohibido cazar pumas en Chile.
 
 *Respuesta correcta: b.* Retroalimentación: las opciones a, c y d están escritas directamente en el texto (información explícita). La idea de que el puma es "muy adaptable" se deduce a partir de que vive en ambientes tan distintos, pero el texto no usa esa palabra exacta.
 
-**6. (Aplicación — comparar información)** Compara la información de los dos primeros párrafos del texto: ¿en qué se relacionan el lugar donde vive el puma y lo que come?
+**6. (Alternativas — comparar información)** Compara los dos primeros párrafos del texto. ¿Cómo se relacionan el lugar donde vive el puma y lo que come?
 
-*Respuesta esperada*: algo como "como el puma vive en zonas muy distintas (desierto, bosque, cerca de zonas ganaderas), su alimentación también varía: come guanacos y liebres en la naturaleza, pero a veces también ovejas de crianza cuando vive cerca de zonas agrícolas." Retroalimentación: comparar información de distintos fragmentos de un texto te permite encontrar relaciones que no están dichas en una sola oración.
+a) Como vive solo en el desierto de Atacama, come únicamente cactus y otras plantas que guardan agua en sus hojas gruesas
+b) No hay ninguna relación entre dónde vive y lo que come: en todas partes se alimenta de lo mismo, sin importar si hay guanacos u ovejas cerca
+c) Como vive en la ciudad, cerca de las casas, come basura y la comida que le dan las personas
+d) Como vive en zonas muy distintas, su alimentación varía: guanacos y liebres en la naturaleza, y a veces ovejas cerca de zonas ganaderas
 
-**7. (Desarrollo breve — opinión fundamentada)** ¿Te parece bien que esté prohibido cazar pumas en Chile? Da tu opinión y fundaméntala con información del texto.
+*Respuesta correcta: d.* Retroalimentación: comparar información de distintos fragmentos de un texto te permite encontrar relaciones que no están dichas en una sola oración.
 
-*Respuesta esperada*: cualquier opinión razonada apoyada en el texto, por ejemplo: "Sí, me parece bien, porque el texto explica que el puma ayuda a mantener el equilibrio de su ecosistema al cazar a los animales más débiles; si desapareciera, otras especies podrían multiplicarse demasiado." Retroalimentación: una opinión fundamentada siempre se apoya en datos concretos del texto (o en conocimientos previos), no solo en gustos personales.
+**7. (Alternativas — opinión fundamentada)** Sofía opina: "Me parece bien que esté prohibido cazar pumas en Chile". ¿Qué fundamento se apoya en el texto?
+
+a) Porque los pumas son bonitos y a mucha gente le gusta verlos en fotos
+b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los animales más débiles
+c) Porque los pumas viven en el zoológico y ahí no se pueden cazar
+d) Porque a Sofía no le gusta la caza de peces ni de otros animales del mar, y prefiere que los cuiden
+
+*Respuesta correcta: b.* Retroalimentación: una opinión fundamentada siempre se apoya en datos concretos del texto (o en conocimientos previos), no solo en gustos personales. El texto explica que sin depredadores como el puma, otras especies podrían multiplicarse demasiado.
 
 ---
 
@@ -359,27 +414,37 @@ d) Igual que le escribirías a un desconocido por internet
 
 *Respuesta correcta: Falso.* Retroalimentación: "Corriendo por el patio" no dice quién corre ni qué pasa con esa acción; le falta información para tener sentido completo. Por ejemplo, "Matías corría por el patio" sí es una oración completa.
 
-**3. (Aplicación)** Lee este párrafo y reescríbelo separándolo en dos párrafos distintos usando punto aparte, agrupando las ideas relacionadas: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."
+**3. (Alternativas — párrafos)** Este párrafo no tiene puntos: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado cerca del zoológico estaba delicioso". ¿Cuál es la **mejor** forma de separarlo en dos párrafos, agrupando las ideas relacionadas?
 
-*Respuesta esperada*: por ejemplo: "El domingo fuimos con mi familia al cerro San Cristóbal. Subimos en el funicular y vimos toda la ciudad desde arriba. // Después bajamos y comimos helado cerca del zoológico. Estaba delicioso." Retroalimentación: cada párrafo debe agrupar una idea principal distinta (la subida al cerro / lo que hicieron después de bajar), separadas con punto aparte.
+a) Párrafo 1: solo las palabras "El domingo". Párrafo 2: todo lo demás que ocurrió en el paseo
+b) Párrafo 1: el helado que comieron después de bajar. Párrafo 2: el funicular y el cerro, aunque ocurrieron antes
+c) Párrafo 1: la subida al cerro en funicular y la vista de la ciudad. Párrafo 2: lo que hicieron después de bajar (comer helado)
+d) No se puede separar en párrafos, porque todo el texto habla del mismo paseo familiar del domingo
+
+*Respuesta correcta: c.* Retroalimentación: cada párrafo debe agrupar una idea principal distinta (la subida al cerro / lo que hicieron después de bajar), separadas con punto aparte: "El domingo fuimos con mi familia al cerro San Cristóbal. Subimos en el funicular y vimos toda la ciudad desde arriba. // Después bajamos y comimos helado cerca del zoológico. Estaba delicioso."
 
 **4. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** para evitar repetir la misma palabra?
 
 a) "Mi perro es bonito. Mi perro juega conmigo. Mi perro come mucho."
 b) "Mi perro es cariñoso. Además, le encanta jugar conmigo y siempre tiene mucho apetito."
-c) "Mi perro, mi perro, mi perro es lo mejor."
-d) "Perro bonito perro juega perro come."
+c) "Mi perro, mi perro, mi perro es lo mejor. Mi perro juega y mi perro come."
+d) "Perro bonito perro juega perro come. Perro cariñoso perro apetito."
 
 *Respuesta correcta: b.* Retroalimentación: la opción b) evita repetir la palabra "perro" en cada oración y usa sinónimos y expresiones distintas ("cariñoso", "le encanta", "tiene apetito"), lo que hace el texto más agradable de leer.
 
-**5. (Desarrollo breve)** Escribe una oración que use el conector "sin embargo" para unir estas dos ideas: "Quería ir a la playa" y "estaba lloviendo".
+**5. (Alternativas — conectores)** ¿Qué oración usa **correctamente** el conector "sin embargo" para unir las ideas "Quería ir a la playa" y "estaba lloviendo"?
 
-*Respuesta esperada*: por ejemplo, "Quería ir a la playa; sin embargo, estaba lloviendo." Retroalimentación: "sin embargo" es un conector que indica una idea contraria u opuesta a la anterior; ayuda a que el lector entienda la relación lógica entre ambas ideas.
+a) Quería ir a la playa; sin embargo, estaba lloviendo.
+b) Quería ir a la playa sin embargo; estaba lloviendo sin embargo.
+c) Sin embargo quería, ir a la playa estaba lloviendo.
+d) Quería ir a la playa, sin embargo porque estaba lloviendo.
+
+*Respuesta correcta: a.* Retroalimentación: "sin embargo" es un conector que indica una idea contraria u opuesta a la anterior; se escribe entre las dos ideas, con punto y coma (o punto) antes y coma después.
 
 **6. (Aplicación)** Imagina que escribiste una noticia para el diario mural de tu curso y tu profesora te sugiere: "Falta que digas quién dio la información y en qué fecha ocurrió el hecho". ¿Qué estás practicando al aplicar esta sugerencia?
 
 a) Revisar y mejorar el texto a partir de la retroalimentación de otra persona
-b) Cambiar completamente el propósito del texto
+b) Cambiar completamente el propósito del texto para que sea un cuento
 c) Ignorar la sugerencia porque tu primera versión ya era perfecta
 d) Escribir un texto completamente distinto sobre otro tema
 

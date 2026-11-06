@@ -87,41 +87,61 @@ En 7° básico, analizar un cuento significa mirarlo con herramientas más finas
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto "La libreta de don Segundo"?
 
-a) La decisión de Valentina de mudarse a Tomé
-b) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompió su relación durante años
-c) La falta de dinero para reparar el bote
-d) La discusión entre don Segundo y su nieta
+a) La decisión de Valentina de mudarse a Tomé para estudiar, lo que la alejó de su abuelo y de su primo
+b) La discusión entre don Segundo y su nieta por la venta del bote familiar, que él se negaba a aceptar
+c) La falta de dinero de la familia para reparar el bote después de que una tormenta lo dejó a la deriva
+d) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompió su relación durante años
 
-*Respuesta correcta: b.* Retroalimentación: inferir el conflicto central implica identificar el problema que organiza toda la historia y explica las acciones y emociones de los personajes a lo largo del relato, no un detalle secundario.
+*Respuesta correcta: d.* Retroalimentación: inferir el conflicto central implica identificar el problema que organiza toda la historia y explica las acciones y emociones de los personajes a lo largo del relato, no un detalle secundario.
 
-**2. (Desarrollo breve)** Describe el rol de don Segundo en el conflicto de la historia. ¿Cómo afecta su acción (o falta de acción) a Valentina e Ignacio?
+**2. (Alternativas)** ¿Qué rol cumple don Segundo en el conflicto de la historia?
 
-*Respuesta esperada*: don Segundo no participa directamente en la pelea, pero su decisión de ocultar que él fue quien dejó mal amarrada la cuerda tiene un efecto decisivo: permite que la culpa cruzada entre los primos se mantenga sin resolverse durante diez años. Retroalimentación: describir el rol de un personaje en el conflicto no es solo decir qué hace, sino explicar cómo esa acción afecta el desarrollo de la historia y a los demás personajes.
+a) No participa en la pelea, pero al ocultar que él dejó mal amarrada la cuerda permite que la culpa cruzada entre los primos se mantenga durante diez años
+b) Es quien provoca la pelea entre los primos al insultar a Valentina por haber dejado mal amarrado el bote aquella tarde
+c) Resuelve el conflicto al comienzo del relato, cuando cuenta toda la verdad sobre la cuerda y los primos se reconcilian de inmediato
+d) No tiene ninguna relación con el conflicto entre los primos, porque estaba fuera del pueblo el día en que el bote quedó a la deriva
+
+*Respuesta correcta: a.* Retroalimentación: describir el rol de un personaje en el conflicto no es solo decir qué hace, sino explicar cómo esa acción (u omisión) afecta el desarrollo de la historia y a los demás personajes.
 
 **3. (Verdadero o Falso)** El relato "La libreta de don Segundo" está narrado en estricto orden cronológico, sin ningún salto temporal.
 
 *Respuesta correcta: Falso.* Retroalimentación: el relato comienza en el presente, salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; esta disposición temporal no es cronológica.
 
-**4. (Aplicación)** Identifica un fragmento del texto que corresponda a la **voz del narrador** y uno que corresponda a la **voz de un personaje**. Explica cómo los distingues.
+**4. (Alternativas — Aplicación)** ¿Cuál de estos fragmentos corresponde a la **voz de un personaje** y no a la del narrador?
 
-*Respuesta esperada*: voz del narrador, por ejemplo: "Valentina cerró la libreta, sintió que se le apretaba la garganta"; voz de un personaje, por ejemplo: "—¡Yo lo amarré bien! —respondió ella". Se distinguen porque la voz del narrador describe desde fuera lo que ocurre, sin usar guion de diálogo, mientras que la voz de los personajes aparece entre comillas o después de una raya de diálogo, en primera persona. Retroalimentación: distinguir ambas voces es clave para no confundir lo que "opina" o "hace" un personaje con lo que el narrador describe objetivamente.
+a) "Valentina cerró la libreta, sintió que se le apretaba la garganta"
+b) Una descripción del bote varado en la orilla, sin diálogo
+c) Un resumen de lo ocurrido diez años antes, contado en tercera persona
+d) "—¡Yo lo amarré bien! —respondió ella"
+
+*Respuesta correcta: d.* Retroalimentación: la voz del narrador describe desde fuera lo que ocurre, sin guion de diálogo; la voz de los personajes aparece entre comillas o después de una raya de diálogo, en primera persona.
 
 **5. (Alternativas)** ¿Qué efecto tiene la acción de don Segundo de callar la verdad sobre quién dejó mal amarrado el bote?
 
-a) Ninguno, porque los primos lo habrían descubierto de todas formas
-b) Provoca que la relación entre Valentina e Ignacio se rompa durante diez años
-c) Hace que Valentina deje de pescar para siempre
-d) Provoca que Ignacio se mude a otra ciudad
+a) Provoca que la relación entre Valentina e Ignacio se rompa durante diez años
+b) Ninguno, porque los primos lo habrían descubierto de todas formas al revisar la cuerda del bote
+c) Hace que Valentina deje de pescar para siempre y venda el bote que le había regalado su abuelo
+d) Provoca que Ignacio se mude a otra ciudad y deje de pescar con su abuelo para siempre
 
-*Respuesta correcta: b.* Retroalimentación: el efecto de una acción de un personaje sobre otros personajes debe rastrearse en la historia; en este caso, el silencio del abuelo es la causa directa de que el conflicto entre los primos se prolongue tanto tiempo.
+*Respuesta correcta: a.* Retroalimentación: el efecto de una acción de un personaje sobre otros personajes debe rastrearse en la historia; en este caso, el silencio del abuelo es la causa directa de que el conflicto entre los primos se prolongue tanto tiempo.
 
-**6. (Desarrollo breve — relación entre obras)** Piensa en otro cuento, película o serie que conozcas donde un secreto guardado por un adulto afecte el conflicto entre otros personajes, como ocurre con don Segundo. Explica brevemente la semejanza.
+**6. (Alternativas — vínculo entre obras)** ¿Qué otra historia tendría un elemento en común válido con el conflicto de este cuento?
 
-*Respuesta esperada*: cualquier ejemplo razonado que identifique un elemento en común válido, por ejemplo: una historia donde un personaje adulto oculta información y esto agrava un conflicto entre otros personajes, hasta que la verdad se revela más adelante. Retroalimentación: establecer relaciones entre obras distintas basadas en elementos en común (como este tipo de conflicto) profundiza tu comprensión de los recursos que usan los autores para construir historias.
+a) Una en que dos amigos ganan juntos un campeonato sin ningún conflicto, celebrando con toda su familia
+b) Una en que no hay ningún secreto ni malentendido, y los personajes conversan con calma desde el principio
+c) Una en que el protagonista viaja al espacio para explorar un planeta y descubre una nueva forma de vida
+d) Una en que un adulto oculta información y eso agrava un conflicto entre otros personajes, hasta que la verdad se revela
 
-**7. (Desarrollo breve — análisis integrado)** Explica cómo el salto temporal (flashback) del relato ayuda a construir mejor el conflicto de la historia, en comparación con si el autor hubiera contado los hechos en orden estrictamente cronológico.
+*Respuesta correcta: d.* Retroalimentación: establecer vínculos entre obras distintas basadas en un elemento en común (como un secreto que alimenta el conflicto) profundiza tu comprensión de los recursos que usan los autores.
 
-*Respuesta esperada*: cualquier análisis razonado, por ejemplo: al empezar mostrando las consecuencias del conflicto (el bote varado, la distancia entre los primos, la libreta encontrada) antes de revelar su causa, el flashback genera intriga y hace que el lector se pregunte qué ocurrió, reforzando el impacto emocional cuando finalmente se conoce el origen de la pelea. Retroalimentación: la disposición temporal de un relato no es un detalle técnico neutro: los autores eligen contar los hechos fuera de orden para producir efectos específicos en quien lee, como intriga, sorpresa o tensión.
+**7. (Alternativas — análisis integrado)** ¿Qué efecto produce el salto temporal (flashback) en la construcción del conflicto, en comparación con un relato en orden estrictamente cronológico?
+
+a) Hace que la historia sea más corta y fácil de leer, sin cambiar su efecto, porque el lector recibe los mismos hechos en menos páginas y en el mismo orden en que ocurrieron
+b) Elimina la intriga, porque el lector conoce la causa de la pelea desde la primera línea, y por eso las consecuencias (el bote varado, la distancia entre los primos) pierden impacto
+c) Al mostrar primero las consecuencias (el bote varado, la distancia entre los primos) antes de revelar la causa, genera intriga y refuerza el impacto cuando se conoce el origen de la pelea
+d) No produce ningún efecto: es solo un detalle técnico
+
+*Respuesta correcta: c.* Retroalimentación: los autores eligen contar los hechos fuera de orden para producir efectos específicos en quien lee, como intriga, sorpresa o tensión.
 
 ---
 
@@ -175,23 +195,33 @@ En 7° básico, tu análisis de poesía se enfoca en el **efecto** que el poema 
 **1. (Alternativas)** ¿A qué sentido apela principalmente la expresión "el viento... silba, sigiloso"?
 
 a) Al gusto
-b) Al oído
-c) Al tacto
+b) Al tacto
+c) Al oído
 d) Al olfato
 
-*Respuesta correcta: b.* Retroalimentación: la palabra "silba" describe un sonido, por lo que esta expresión apela principalmente al sentido auditivo del lector.
+*Respuesta correcta: c.* Retroalimentación: la palabra "silba" describe un sonido, por lo que esta expresión apela principalmente al sentido auditivo del lector.
 
-**2. (Desarrollo breve)** Interpreta el significado de la metáfora "la nieve es la memoria de todos los inviernos que la tierra ha atravesado". ¿Qué idea transmite?
+**2. (Alternativas)** ¿Qué idea transmite la metáfora "la nieve es la memoria de todos los inviernos que la tierra ha atravesado"?
 
-*Respuesta esperada*: la metáfora sugiere que la nieve acumulada representa, de alguna forma simbólica, el paso del tiempo y la historia natural del lugar, como si cada invierno dejara una huella que se conserva. Retroalimentación: interpretar una metáfora implica explicar qué otra idea (más allá del significado literal) sugiere la comparación implícita que hace el poeta.
+a) Que la nieve acumulada representa simbólicamente el paso del tiempo y la historia del lugar, como si cada invierno dejara una huella
+b) Que la nieve es literalmente un recuerdo guardado por las personas del pueblo, que la recogen cada invierno para no olvidar
+c) Que en ese lugar nunca nieva, y que las personas solo recuerdan la nieve de los inviernos que vivieron en otras tierras
+d) Que la tierra olvida cada invierno apenas termina, porque la nieve se derrite sin dejar ninguna huella en el paisaje
+
+*Respuesta correcta: a.* Retroalimentación: interpretar una metáfora implica explicar qué otra idea, más allá del significado literal, sugiere la comparación implícita.
 
 **3. (Verdadero o Falso)** El poema "Cordillera de invierno" sugiere un estado de ánimo de agitación y urgencia.
 
 *Respuesta correcta: Falso.* Retroalimentación: el poema construye, mediante palabras como "silencio", "sigiloso" y la comparación con "un anciano que medita", un estado de ánimo de calma, quietud y solemnidad, no de agitación.
 
-**4. (Aplicación)** Identifica el recurso de sonoridad presente en "y silba, sigiloso, un secreto sin final" y explica qué efecto produce al leerlo en voz alta.
+**4. (Alternativas — Aplicación)** ¿Qué recurso de sonoridad hay en "y silba, sigiloso, un secreto sin final" y qué efecto produce?
 
-*Respuesta esperada*: se trata de una aliteración del sonido "s" (silba, sigiloso, secreto, sin), que al leerse en voz alta imita el sonido suave y prolongado del viento, reforzando la imagen sonora que describe el verso. Retroalimentación: reconocer un efecto sonoro exige leer el verso en voz alta y notar qué sonido se repite y qué sensación auditiva produce esa repetición.
+a) Una rima consonante entre los versos, que marca un ritmo rápido y alegre
+b) Una enumeración de colores y formas, que crea una imagen visual del paisaje
+c) Una pregunta retórica sobre el viento, que interpela directamente al lector
+d) Una aliteración del sonido "s", que imita el sonido suave y prolongado del viento
+
+*Respuesta correcta: d.* Retroalimentación: reconocer un efecto sonoro exige leer el verso en voz alta y notar qué sonido se repite y qué sensación auditiva produce.
 
 **5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en "la cordillera se pone su manto blanco y guarda silencio"?
 
@@ -202,13 +232,23 @@ d) Aliteración
 
 *Respuesta correcta: c.* Retroalimentación: se le atribuyen a la cordillera acciones propias de un ser humano (vestirse, guardar silencio), lo que corresponde a una personificación.
 
-**6. (Desarrollo breve)** Explica qué efecto produce, al leer el poema completo en voz alta, el hecho de que tenga versos largos y sin rima marcada.
+**6. (Alternativas)** ¿Qué efecto produce, al leer el poema en voz alta, que tenga versos largos y sin rima marcada?
 
-*Respuesta esperada*: cualquier respuesta razonada que mencione que esto genera una lectura pausada y de cadencia lenta, coherente con la atmósfera de calma, silencio y reflexión que transmite el poema, a diferencia de un ritmo marcado por una rima insistente. Retroalimentación: el ritmo de un poema no depende solo de la rima; la extensión de los versos y las pausas naturales al leer también producen efectos sonoros y emocionales.
+a) Una lectura pausada y de cadencia lenta, coherente con la atmósfera de calma, silencio y reflexión del poema
+b) Un ritmo rápido y saltado, como el de una canción infantil, que contrasta con la calma del poema
+c) Que el poema deje de ser un poema y se transforme en un texto informativo sobre el paisaje
+d) Ningún efecto: el ritmo de un poema solo depende de la rima, no del largo de los versos
 
-**7. (Desarrollo breve — relación entre obras)** Compara este poema con algún otro poema o canción que conozcas que describa un paisaje natural chileno. ¿Qué elementos tienen en común en la forma de describir el entorno?
+*Respuesta correcta: a.* Retroalimentación: el ritmo de un poema no depende solo de la rima; la extensión de los versos y las pausas naturales también producen efectos sonoros y emocionales.
 
-*Respuesta esperada*: cualquier comparación razonada que identifique un elemento en común válido, por ejemplo: el uso de personificaciones para dar vida al paisaje, o la relación entre un elemento natural y una emoción o memoria humana. Retroalimentación: relacionar distintas obras entre sí te ayuda a reconocer que ciertos recursos poéticos (como personificar el paisaje) se repiten en distintos autores porque son herramientas efectivas para transmitir sensaciones.
+**7. (Varias correctas — vínculo entre obras)** ¿Qué recursos podría compartir este poema con otro poema o canción que describa un paisaje natural chileno? Marca **todas** las correctas.
+
+a) El uso de personificaciones para dar vida al paisaje
+b) La vinculación entre un elemento natural y una emoción o memoria humana
+c) El uso de imágenes sensoriales para describir el entorno
+d) Una lista de precios de productos
+
+*Respuesta correcta: a, b y c.* Retroalimentación: ciertos recursos poéticos (como personificar el paisaje o asociarlo a emociones) se repiten en distintos autores porque son herramientas efectivas para transmitir sensaciones.
 
 ---
 
@@ -251,41 +291,61 @@ En 7° básico das un paso más allá del análisis: vas a **interpretar** una o
 
 **1. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Elena en el relato?
 
-a) Elegir entre estudiar o trabajar en la salitrera
-b) Decidir si cruza calles vigiladas para entregar un mensaje urgente, arriesgando su seguridad, o quedarse a salvo sin entregarlo
-c) Decidir si se une o no a la huelga como obrera
-d) Elegir entre dos amigas que se pelearon
+a) Elegir entre estudiar en el pueblo o trabajar en la salitrera para ayudar a su familia
+b) Elegir entre dos amigas que se pelearon por un malentendido durante la huelga de la oficina
+c) Decidir si se une o no a la huelga como obrera de la oficina salitrera, aunque su padre le pidió que no lo hiciera por miedo a los despidos
+d) Decidir si cruza calles vigiladas para entregar un mensaje urgente, arriesgando su seguridad, o quedarse a salvo sin entregarlo
 
-*Respuesta correcta: b.* Retroalimentación: un dilema es una situación en la que un personaje debe elegir entre dos opciones difíciles; en este caso, Elena debe decidir entre su seguridad personal y su responsabilidad hacia la comunidad obrera.
+*Respuesta correcta: d.* Retroalimentación: un dilema es una situación en la que un personaje debe elegir entre dos opciones difíciles; en este caso, Elena debe decidir entre su seguridad personal y su responsabilidad hacia la comunidad obrera.
 
-**2. (Desarrollo breve)** Da tu postura personal frente al dilema de Elena: ¿crees que tomó la decisión correcta al cruzar sola las calles vigiladas? Fundamenta tu respuesta.
+**2. (Alternativas — postura fundamentada)** Frente al dilema de Elena, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
-*Respuesta esperada*: cualquier postura razonada y fundamentada, ya sea a favor o en contra de la decisión de Elena, siempre que se apoye en argumentos relacionados con el texto (el riesgo, la urgencia del mensaje, las consecuencias para otras familias). Retroalimentación: no existe una única postura "correcta" frente a un dilema; lo que se evalúa es que tu opinión esté fundamentada y considere las distintas caras del problema.
+a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto sin pensar en los riesgos"
+b) "No me gustó el cuento, porque tiene un final triste y prefiero las historias donde a nadie le pasa nada"
+c) "Creo que acertó, porque el mensaje era urgente y de él dependía la seguridad de otras familias, aunque el riesgo era muy alto"
+d) "Elena es un nombre bonito y el relato está bien escrito, así que cualquier decisión que tome me parece bien"
+
+*Respuesta correcta: c.* Retroalimentación: no existe una única postura correcta frente a un dilema (también podría fundamentarse lo contrario); lo que se evalúa es que la opinión se apoye en razones vinculadas al texto, como el riesgo, la urgencia o las consecuencias.
 
 **3. (Verdadero o Falso)** Para interpretar correctamente el relato "El último turno", no es necesario conocer nada sobre el contexto histórico de las huelgas obreras del salitre en Chile.
 
 *Respuesta correcta: Falso.* Retroalimentación: comprender el contexto histórico real (las huelgas salitreras y la represión de la época, que culminaron en la Matanza de la Escuela Santa María de Iquique) es fundamental para interpretar con profundidad las decisiones y el miedo de los personajes del relato.
 
-**4. (Aplicación)** Explica con tus palabras qué **visión de mundo** transmite el relato sobre la comunidad obrera de la época.
+**4. (Alternativas — Aplicación)** ¿Qué **visión de mundo** transmite el relato sobre la comunidad obrera de la época?
 
-*Respuesta esperada*: el relato transmite una visión de mundo donde la solidaridad, el coraje frente al miedo y el compromiso con la comunidad se valoran profundamente, incluso cuando implican un riesgo personal muy alto. Retroalimentación: la "visión de mundo" de una obra es la forma en que esta representa los valores, las creencias o las prioridades de los personajes y de la sociedad que describe.
+a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con la comunidad se valoran, aun con alto riesgo personal
+b) Una en que cada persona de la comunidad obrera solo se preocupa de sí misma y de su propia familia, sin ayudar a nadie
+c) Una en que el trabajo en la pampa era fácil y sin conflictos, porque los obreros tenían buenos sueldos y condiciones
+d) Una en que la comunidad obrera no tenía ningún valor compartido y cada familia enfrentaba sola los problemas de la época
+
+*Respuesta correcta: a.* Retroalimentación: la visión de mundo de una obra es la forma en que representa los valores, creencias o prioridades de los personajes y de la sociedad que describe.
 
 **5. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el desenlace del relato "El último turno"?
 
-a) La Guerra del Pacífico
-b) La Matanza de la Escuela Santa María de Iquique (1907)
-c) El terremoto de Valdivia de 1960
-d) La llegada del ferrocarril a Chile
+a) La Guerra del Pacífico y la ocupación de Antofagasta
+b) El terremoto de Valdivia de 1960, el más fuerte registrado
+c) La Matanza de la Escuela Santa María de Iquique (1907)
+d) La llegada del ferrocarril a Chile en el siglo XIX
 
-*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente la historia en 1907 en Iquique y menciona el desenlace trágico de la huelga, elementos que corresponden directamente al hecho histórico real de la Matanza de la Escuela Santa María.
+*Respuesta correcta: c.* Retroalimentación: el texto sitúa explícitamente la historia en 1907 en Iquique y menciona el desenlace trágico de la huelga, elementos que corresponden directamente al hecho histórico real de la Matanza de la Escuela Santa María.
 
-**6. (Desarrollo breve — experiencia personal)** Relaciona el dilema de Elena con alguna situación (aunque sea a menor escala) en la que tú, o alguien que conozcas, haya tenido que elegir entre la seguridad personal y ayudar a otros. Explica brevemente la relación.
+**6. (Alternativas — experiencia personal)** ¿Qué situación cotidiana se parece **mejor** al tipo de dilema que vive Elena?
 
-*Respuesta esperada*: cualquier relación razonable entre el dilema del texto y una experiencia personal o cercana, que muestre comprensión del tipo de disyuntiva que vive Elena (seguridad propia versus responsabilidad hacia otros). Retroalimentación: conectar un dilema literario con tu propia experiencia es una forma legítima y valiosa de interpretar un texto, siempre que la relación esté bien explicada y no sea forzada.
+a) Elegir qué color de polera ponerse para ir al colegio, aunque a tu mamá no le guste el que elegiste
+b) Decidir qué ver en la televisión con tu hermano, aunque eso signifique perderte tu programa favorito
+c) Escoger entre dos sabores de helado en la heladería, sabiendo que no podrás probar el otro hasta mañana
+d) Decidir si acompañar a un compañero que se siente mal hasta la enfermería, aunque eso te haga llegar tarde a una prueba
 
-**7. (Desarrollo breve — interpretación integrada)** Formula tu propia interpretación sobre el sentido general del relato "El último turno", considerando el dilema de Elena, tu postura personal frente a él, y el contexto histórico en que ocurre la historia.
+*Respuesta correcta: d.* Retroalimentación: el dilema de Elena es entre la seguridad o el interés propio y la responsabilidad hacia otros; conectar un dilema literario con la propia experiencia es valioso si la semejanza está bien fundada.
 
-*Respuesta esperada*: cualquier interpretación coherente que integre los tres elementos: el dilema (seguridad personal versus ayuda comunitaria), una postura personal fundamentada frente a él, y una relación explícita con el contexto histórico real de la represión a los movimientos obreros del salitre. Retroalimentación: una buena interpretación literaria no se queda en un solo aspecto del texto, sino que conecta el dilema del personaje, tu propia mirada, y el marco histórico o cultural en el que la obra se sitúa.
+**7. (Alternativas — interpretación integrada)** ¿Qué interpretación del sentido general de "El último turno" integra mejor el dilema, una postura y el contexto histórico?
+
+a) El relato es solo una historia de aventuras en la pampa, sin relación con ningún contexto histórico, y Elena actúa por curiosidad más que por convicción
+b) El relato muestra que, en el contexto de la represión a los movimientos obreros del salitre, arriesgarse por la comunidad fue un acto de solidaridad valioso, aunque tuviera un costo personal
+c) El relato demuestra que nunca vale la pena ayudar a otros, porque en el contexto de la represión obrera la solidaridad solo trajo consecuencias negativas
+d) El relato trata sobre la vida en una ciudad moderna, donde los trabajadores ya no enfrentan dilemas sobre su comunidad ni sobre su seguridad personal
+
+*Respuesta correcta: b.* Retroalimentación: una buena interpretación conecta el dilema del personaje, una mirada propia y el marco histórico o cultural en el que la obra se sitúa.
 
 ---
 
@@ -329,10 +389,10 @@ En 7° básico vas a analizar textos cuya finalidad es **argumentar**, es decir,
 
 **1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Menos pantallas, más patio"?
 
-a) Los celulares deben prohibirse completamente en los colegios
+a) Los celulares deben prohibirse completamente en los colegios, porque son la única causa del problema
 b) El problema del uso excesivo de pantallas se resuelve mejorando los espacios recreativos de los colegios, no solo prohibiendo el celular
-c) Los patios de los colegios no necesitan ninguna mejora
-d) Los niños deberían pasar más horas frente a la pantalla, no menos
+c) Los patios de los colegios no necesitan ninguna mejora, porque los estudiantes prefieren quedarse en las salas usando el celular durante los recreos
+d) Los niños deberían pasar más horas frente a la pantalla, no menos, porque así aprenden más rápido
 
 *Respuesta correcta: b.* Retroalimentación: identificar la postura del autor implica encontrar la idea central que defiende a lo largo de todo el texto, no un detalle aislado.
 
@@ -340,13 +400,23 @@ d) Los niños deberían pasar más horas frente a la pantalla, no menos
 
 *Respuesta correcta: Verdadero.* Retroalimentación: esta frase cita una fuente de datos concreta (una encuesta), lo que la convierte en información verificable, a diferencia de una valoración personal del autor.
 
-**3. (Desarrollo breve)** Extrae un ejemplo de **opinión** (no de hecho) del texto y explica por qué corresponde a una opinión y no a un hecho verificable.
+**3. (Alternativas)** ¿Cuál de estos enunciados de la columna es una **opinión** y no un hecho verificable?
 
-*Respuesta esperada*: por ejemplo, "en mi opinión, el problema no es el celular en sí mismo, sino la falta de espacios seguros y atractivos"; corresponde a una opinión porque es una interpretación personal del autor sobre la causa del problema, que otra persona podría cuestionar o discutir con los mismos datos disponibles. Retroalimentación: una opinión se reconoce porque expresa una valoración, interpretación o juicio personal, y no un dato que pueda comprobarse objetivamente.
+a) Un dato sobre el número de horas diarias que los niños y niñas usan pantallas, citado de un estudio nacional
+b) La fecha en que se publicó la columna en el diario de la comuna
+c) "En mi opinión, el problema no es el celular en sí mismo, sino la falta de espacios seguros y atractivos"
+d) El nombre de la comuna donde se ubica uno de los colegios mencionados
 
-**4. (Aplicación)** Menciona uno de los **argumentos** que el autor usa para sostener su postura, y explica cómo se relaciona con la idea principal del texto.
+*Respuesta correcta: c.* Retroalimentación: una opinión expresa una valoración, interpretación o juicio personal que otra persona podría discutir; un hecho puede comprobarse objetivamente.
 
-*Respuesta esperada*: por ejemplo, el argumento de que muchos colegios tienen patios poco atractivos (de cemento, sin sombra ni juegos); se relaciona con la idea principal porque muestra por qué los estudiantes prefieren quedarse con el celular, apoyando la postura de que el problema no es solo la tecnología, sino la falta de espacios recreativos adecuados. Retroalimentación: un argumento no es cualquier frase del texto, sino una razón que sostiene directamente la postura central del autor.
+**4. (Alternativas — Aplicación)** ¿Cuál de estos es un **argumento** que usa el autor para sostener su postura?
+
+a) Que muchos colegios tienen patios poco atractivos (de cemento, sin sombra ni juegos), por lo que los estudiantes prefieren el celular
+b) Que el celular fue inventado en el siglo XX y que, por eso, no debería usarse en los colegios actuales, donde se enseñan otras habilidades
+c) Que el autor tiene un hijo que usa el celular en los recreos y que no sabe jugar con sus compañeros
+d) Que los recreos duran quince minutos en todos los colegios del mundo, lo que no alcanza para jugar
+
+*Respuesta correcta: a.* Retroalimentación: un argumento no es cualquier frase del texto, sino una razón que sostiene directamente la postura central del autor.
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
@@ -357,13 +427,23 @@ d) "El costo de no hacerlo... es mucho más alto a largo plazo"
 
 *Respuesta correcta: b.* Retroalimentación: aunque parte de la oración podría matizarse, la afirmación sobre las características físicas de los patios (de cemento, sin sombra) es una descripción verificable de la realidad, más cercana a un hecho que las otras opciones, que expresan claramente valoraciones o llamados del autor.
 
-**6. (Desarrollo breve — postura personal)** Da tu propia postura frente al problema planteado en la columna: ¿crees que mejorar los patios de los colegios reduciría el uso excesivo de pantallas en niños y niñas? Fundamenta con al menos un argumento propio.
+**6. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura personal **con un argumento propio**?
 
-*Respuesta esperada*: cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente, por ejemplo: "Creo que ayudaría, pero no sería suficiente por sí solo, porque muchos niños usan el celular también en sus casas, no solo en el colegio." Retroalimentación: formular una postura personal fundamentada implica ir más allá de decir si "estás de acuerdo o no": debes explicar por qué, aportando al menos una razón propia.
+a) "Estoy de acuerdo con el autor, porque lo que dice en la columna me parece bien y tiene razón"
+b) "No sé si ayudaría o no, porque cada persona tiene su propia opinión sobre el tema"
+c) "El autor dice que los patios son de cemento y que los niños no tienen espacio para jugar"
+d) "Creo que ayudaría, pero no bastaría por sí solo, porque muchos niños también usan el celular en sus casas"
 
-**7. (Desarrollo breve — análisis integrado)** Explica por qué es importante, al leer un texto argumentativo como esta columna, distinguir entre los hechos que presenta el autor y sus opiniones.
+*Respuesta correcta: d.* Retroalimentación: formular una postura fundamentada implica ir más allá de decir si estás de acuerdo o no: debes aportar al menos una razón propia; repetir lo que dice el autor no es argumentar.
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: distinguir hechos de opiniones permite evaluar si la postura del autor está bien fundamentada con datos verificables, o si se basa principalmente en su interpretación personal, lo que ayuda al lector a formarse su propio juicio crítico en vez de aceptar la postura del autor sin cuestionarla. Retroalimentación: un lector crítico no rechaza automáticamente las opiniones de un autor, pero sí las identifica como tales, para poder evaluarlas con criterio propio en vez de confundirlas con datos objetivos.
+**7. (Alternativas — análisis integrado)** ¿Por qué es importante distinguir entre hechos y opiniones al leer una columna de opinión?
+
+a) Porque las opiniones siempre son falsas y deben rechazarse, aunque el autor las respalde con datos
+b) Porque permite evaluar si la postura del autor está fundamentada en datos verificables y formarse un juicio crítico propio
+c) Porque los hechos no sirven en un texto argumentativo, ya que solo importa la postura del autor
+d) No es importante: todo lo que dice una columna es un hecho, porque fue publicada en un medio de prensa
+
+*Respuesta correcta: b.* Retroalimentación: un lector crítico no rechaza automáticamente las opiniones, pero las identifica como tales para evaluarlas con criterio propio en vez de confundirlas con datos objetivos.
 
 ---
 
@@ -421,10 +501,10 @@ Candidatura C                15%
 
 **1. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto B (el comentario en redes sociales)?
 
-a) Informar objetivamente sobre los resultados de la elección
+a) Informar objetivamente sobre los resultados de la elección municipal en la comuna
 b) Cuestionar la capacidad de las mujeres para ejercer cargos de autoridad, basándose en un prejuicio de género
-c) Felicitar a la nueva alcaldesa por su triunfo
-d) Explicar el funcionamiento del sistema electoral chileno
+c) Felicitar a la nueva alcaldesa por su triunfo y desearle éxito en su gestión
+d) Explicar el funcionamiento del sistema electoral chileno y cómo se cuentan los votos en cada mesa
 
 *Respuesta correcta: b.* Retroalimentación: aunque el texto se presenta como una opinión sobre la elección, su propósito implícito es cuestionar la capacidad de la alcaldesa por el solo hecho de ser mujer, lo que corresponde a un prejuicio de género y no a un argumento basado en su trayectoria real.
 
@@ -432,30 +512,50 @@ d) Explicar el funcionamiento del sistema electoral chileno
 
 *Respuesta correcta: Falso.* Retroalimentación: es una opinión sin fundamento sobre algo que aún no ha ocurrido (el desempeño futuro de la alcaldesa); presentarla con la palabra "seguro" no la convierte en un hecho verificable.
 
-**3. (Desarrollo breve)** Identifica el estereotipo o prejuicio presente en el Texto B y explica por qué es un prejuicio y no una crítica basada en información real.
+**3. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
 
-*Respuesta esperada*: el texto presenta el prejuicio de género de que una mujer "no va a poder" con un cargo de autoridad, sin ninguna evidencia relacionada con la trayectoria real de Huenumán; además, minimiza su experiencia de veinte años de trabajo comunitario llamándola solo "profesora de barrio". Es un prejuicio porque se basa en una idea generalizada y no comprobada sobre las mujeres, ignorando la información concreta disponible sobre esta candidata en particular. Retroalimentación: un prejuicio se reconoce porque generaliza sobre un grupo de personas (en este caso, las mujeres en cargos de autoridad) sin considerar la evidencia específica del caso.
+a) Una crítica fundada en los resultados de la gestión anterior de Huenumán, que habría tenido malos resultados en otro cargo
+b) Un dato verificable sobre el porcentaje de votos que obtuvo cada candidatura en la elección municipal
+c) El prejuicio de género de que una mujer "no va a poder" con un cargo de autoridad, sin considerar la trayectoria real de Huenumán
+d) Una felicitación a la nueva alcaldesa, expresada con ironía para destacar que es la primera mujer en el cargo
 
-**4. (Aplicación — texto discontinuo)** Según el gráfico del Texto A, ¿qué porcentaje de diferencia hay entre la candidatura ganadora (Huenumán) y la segunda candidatura más votada?
+*Respuesta correcta: c.* Retroalimentación: un prejuicio generaliza sobre un grupo de personas (aquí, las mujeres en cargos de autoridad) sin considerar la evidencia del caso; además, el texto minimiza sus veinte años de trabajo comunitario.
 
-*Respuesta correcta: 23 puntos porcentuales (54% − 31% = 23%).* Retroalimentación: interpretar un gráfico insertado en una noticia implica poder extraer y comparar los datos que presenta, relacionándolos con la información del texto.
+**4. (Alternativas — Aplicación — texto discontinuo)** Según el gráfico del Texto A, ¿qué diferencia hay entre la candidatura ganadora (Huenumán, 54%) y la segunda más votada (31%)?
+
+a) 23 puntos porcentuales
+b) 85 puntos porcentuales
+c) 31 puntos porcentuales
+d) 13 puntos porcentuales
+
+*Respuesta correcta: a.* Retroalimentación: 54% − 31% = 23 puntos porcentuales; interpretar un gráfico insertado en una noticia implica extraer y comparar sus datos.
 
 **5. (Alternativas)** ¿Qué efecto podría tener la publicación pública del comentario del Texto B sobre Javiera Huenumán?
 
-a) Ningún efecto, porque las redes sociales no influyen en la opinión pública
+a) Ningún efecto, porque las redes sociales no influyen en la opinión pública y los comentarios se olvidan al día siguiente
 b) Podría generar desconfianza injustificada hacia su gestión, antes incluso de que esta comience, basada en un prejuicio y no en su desempeño real
-c) Aumentaría automáticamente su popularidad
-d) Cambiaría el resultado oficial de la elección
+c) Aumentaría automáticamente su popularidad, porque cualquier comentario en redes sociales le da más visibilidad
+d) Cambiaría el resultado oficial de la elección, porque el Servel revisa los comentarios publicados en redes
 
 *Respuesta correcta: b.* Retroalimentación: inferir el efecto de un texto sobre la persona aludida implica pensar en las consecuencias reales que puede tener la información (o el prejuicio) divulgado públicamente sobre la reputación o percepción de esa persona.
 
-**6. (Desarrollo breve)** Compara el propósito explícito del Texto A y el propósito explícito del Texto B. ¿En qué se diferencian?
+**6. (Alternativas)** ¿En qué se diferencian los propósitos explícitos del Texto A y del Texto B?
 
-*Respuesta esperada*: el Texto A tiene como propósito explícito informar sobre la asunción de la nueva alcaldesa, sus compromisos y los resultados de la elección, con un tono informativo; el Texto B tiene como propósito explícito expresar una opinión personal crítica sobre la elección de una mujer para el cargo, con un tono valorativo y no informativo. Retroalimentación: comparar propósitos explícitos entre dos textos de distinto tipo (noticia versus comentario en redes sociales) ayuda a entender que no todos los textos sobre un mismo hecho buscan lo mismo.
+a) Ambos textos buscan informar de manera objetiva sobre la asunción de la alcaldesa, sin expresar ninguna opinión personal
+b) El Texto A expresa una opinión personal crítica sobre la alcaldesa y el Texto B entrega datos verificables sobre los resultados
+c) Ninguno de los dos tiene un propósito
+d) El Texto A informa sobre la asunción de la alcaldesa y los resultados; el Texto B expresa una opinión personal crítica, con tono valorativo
 
-**7. (Desarrollo breve — análisis integrado)** Explica por qué es importante que un lector o lectora sepa identificar estereotipos y prejuicios al leer comentarios en redes sociales sobre figuras públicas.
+*Respuesta correcta: d.* Retroalimentación: comparar propósitos entre una noticia y un comentario en redes sociales ayuda a entender que no todos los textos sobre un mismo hecho buscan lo mismo.
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: identificar estereotipos y prejuicios permite al lector no dejarse influir por juicios injustos o infundados hacia una persona, y evaluar la información con criterio propio, distinguiendo entre críticas basadas en hechos y descalificaciones basadas en generalizaciones sobre un grupo (como el género, la edad, el origen, etc.). Retroalimentación: un lector crítico de medios de comunicación y redes sociales no solo identifica hechos y opiniones, sino que también reconoce cuándo una opinión esconde un prejuicio que puede dañar injustamente a las personas aludidas en el texto.
+**7. (Alternativas — análisis integrado)** ¿Por qué es importante identificar estereotipos y prejuicios en comentarios de redes sociales sobre figuras públicas?
+
+a) Porque todos los comentarios en redes sociales son prejuicios, y por eso conviene no leer ninguno sobre figuras públicas
+b) Porque permite no dejarse influir por juicios injustos y distinguir críticas basadas en hechos de descalificaciones basadas en generalizaciones
+c) Porque así se puede responder con insultos
+d) No es importante, porque las redes sociales no influyen en nadie y las opiniones sobre figuras públicas no tienen ninguna consecuencia
+
+*Respuesta correcta: b.* Retroalimentación: un lector crítico reconoce cuándo una opinión esconde un prejuicio que puede dañar injustamente a las personas aludidas.
 
 ---
 
@@ -523,36 +623,61 @@ Aquí, los conectores ("debido a", "por esta razón", "además", "en síntesis")
 
 **1. (Alternativas)** ¿Qué significa "adecuar el registro" de un texto?
 
-a) Escribir siempre con el mismo vocabulario, sin importar quién lo lea
+a) Escribir siempre con el mismo vocabulario y la misma estructura, sin importar quién vaya a leer el texto
 b) Ajustar el vocabulario, la persona gramatical y la estructura del texto según el destinatario, el contexto y el propósito
-c) Usar solo palabras técnicas en cualquier texto
-d) Evitar por completo el uso de conectores
+c) Usar solo palabras técnicas y formales en cualquier texto, para que se vea más serio y completo
+d) Evitar por completo el uso de conectores, para que las oraciones sean más cortas y fáciles de leer
 
 *Respuesta correcta: b.* Retroalimentación: adecuar el registro significa tomar decisiones conscientes sobre el vocabulario y la estructura de un texto según a quién está dirigido y para qué se escribe, ya que no es lo mismo escribir a un amigo que a una autoridad.
 
-**2. (Aplicación)** Corrige los errores de concordancia y conjugación en la siguiente oración: "Las estudiante ha entregado su tareas atrasado."
+**2. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Las estudiante ha entregado su tareas atrasado"?
 
-*Respuesta correcta*: "Las estudiante**s** ha**n** entregado su**s** tarea**s** atrasada**s**." Retroalimentación: hay que revisar la concordancia entre artículo y sustantivo ("las estudiantes"), entre sujeto y verbo ("han entregado"), y entre sustantivo y adjetivo ("tareas atrasadas").
+a) La estudiantes ha entregado sus tarea atrasado.
+b) Las estudiantes ha entregado su tareas atrasadas.
+c) Las estudiantes han entregado sus tareas atrasadas.
+d) Las estudiante han entregado sus tareas atrasado.
+
+*Respuesta correcta: c.* Retroalimentación: hay que revisar la concordancia entre artículo y sustantivo ("las estudiantes"), entre sujeto y verbo ("han entregado") y entre sustantivo y adjetivo ("tareas atrasadas").
 
 **3. (Verdadero o Falso)** El participio del verbo "resolver" es "resolvido".
 
 *Respuesta correcta: Falso.* Retroalimentación: "resolver" tiene un participio irregular, que es "resuelto" (o "resuelta/resueltos/resueltas" según concordancia), no "resolvido".
 
-**4. (Desarrollo breve)** Explica por qué no sería adecuado escribir una carta formal a la directora de tu colegio usando el mismo registro (vocabulario y tono) que usarías en un mensaje de texto a un amigo o amiga.
+**4. (Alternativas)** ¿Por qué no es adecuado escribir una carta formal a la directora con el mismo registro de un mensaje de texto a un amigo?
 
-*Respuesta esperada*: porque el destinatario (una autoridad) y el propósito (una solicitud formal) exigen un vocabulario y un tono más formal, con fórmulas de cortesía y una estructura ordenada, mientras que un mensaje a un amigo permite un registro coloquial y cercano; usar el registro equivocado puede hacer que el texto parezca poco respetuoso o poco serio para el contexto. Retroalimentación: elegir el registro adecuado es una decisión que depende directamente de quién va a leer el texto y para qué se está escribiendo, no una regla fija e igual para todos los textos.
+a) Porque el destinatario (una autoridad) y el propósito (una solicitud formal) exigen vocabulario y tono formales, con fórmulas de cortesía
+b) Porque las cartas formales deben ser siempre más largas y usar palabras difíciles, aunque la directora no las entienda bien al leerlas
+c) Porque a las autoridades no se les puede escribir
+d) Porque el registro coloquial está prohibido en todos los textos escritos, incluso en los mensajes de texto entre amigos
 
-**5. (Aplicación)** Identifica y corrige el error de pronombre en la siguiente oración: "Le dije a mis papás y a mi hermana que se apuraran, porque el bus le esperaba."
+*Respuesta correcta: a.* Retroalimentación: elegir el registro adecuado depende de quién va a leer el texto y para qué se escribe; usar el registro equivocado puede parecer poco respetuoso o poco serio.
 
-*Respuesta correcta*: "**Les** dije a mis papás y a mi hermana que se apuraran, porque el bus **los/las** esperaba." Retroalimentación: cuando el destinatario o el objeto al que se refiere el pronombre es plural (mis papás y mi hermana, tres personas), se debe usar el pronombre plural correspondiente, no el singular "le".
+**5. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Le dije a mis papás y a mi hermana que se apuraran, porque el bus le esperaba"?
 
-**6. (Desarrollo breve — planificación)** Antes de escribir un artículo breve sobre "la importancia del agua potable en tu comuna", planifica: (a) dos ideas centrales que desarrollarías, y (b) dos conectores que usarías para unirlas.
+a) Le dije a mis papás y a mi hermana que se apuraran, porque el bus los esperaba.
+b) Les dije a mis papás y a mi hermana que se apuraran, porque el bus le esperaba.
+c) Le dije a mis papás y a mi hermana que se apurara, porque el bus lo esperaba.
+d) Les dije a mis papás y a mi hermana que se apuraran, porque el bus los esperaba.
 
-*Respuesta esperada*: cualquier planificación razonable, por ejemplo: (a) el origen del agua potable en la comuna y los desafíos de sequía que enfrenta la zona; (b) conectores como "sin embargo", "por esta razón", "además" o "en síntesis". Retroalimentación: planificar antes de escribir —organizando las ideas centrales y pensando en los conectores que las unirán— facilita que el texto final resulte coherente y bien estructurado, en vez de escribir "de corrido" sin un orden previo.
+*Respuesta correcta: d.* Retroalimentación: cuando el pronombre se refiere a varias personas (mis papás y mi hermana) se usa la forma plural: "les" como complemento indirecto y "los" como complemento directo.
 
-**7. (Desarrollo breve — texto integrado)** Escribe un breve párrafo (3 a 4 oraciones) dirigido a un compañero o compañera de curso, invitándolo a participar en un trabajo grupal, cuidando: un registro adecuado para ese destinatario, al menos un conector, y la concordancia correcta entre sustantivos, artículos y verbos.
+**6. (Alternativas — planificación)** Para planificar un artículo breve sobre "la importancia del agua potable en tu comuna", ¿qué opción es una planificación adecuada?
 
-*Respuesta esperada*: cualquier párrafo coherente y bien escrito, con registro informal-cercano adecuado a un compañero de curso, que incluya al menos un conector y no presente errores de concordancia, por ejemplo: "Hola, ¿te gustaría trabajar conmigo en el proyecto de ciencias? Como los dos sacamos buenas notas en la última prueba, creo que podríamos armar un buen trabajo juntos. Además, así terminamos más rápido y nos queda tiempo para revisarlo con calma. Avísame si te acomoda." Retroalimentación: escribir con un destinatario real en mente (aunque sea un ejercicio) ayuda a practicar de forma concreta la adecuación del registro, el uso de conectores y la corrección gramatical al mismo tiempo.
+a) Ideas: mi película favorita y el clima de Europa en invierno; conectores: "hola", "chao", "nos vemos" y "bueno"
+b) Ideas: el origen del agua potable en la comuna y los desafíos de sequía; conectores: "sin embargo" y "por esta razón"
+c) Escribir de corrido sin pensar en ideas ni conectores
+d) Ideas: el agua potable; conectores: ninguno, porque no se necesitan
+
+*Respuesta correcta: b.* Retroalimentación: planificar organizando las ideas centrales y los conectores que las unirán facilita que el texto final resulte coherente y bien estructurado.
+
+**7. (Alternativas — texto integrado)** ¿Cuál de estos párrafos, dirigido a un compañero de curso para invitarlo a un trabajo grupal, cuida el registro, usa un conector y no tiene errores de concordancia?
+
+a) "Estimado señor compañero: por medio de la presente solicito formalmente a usted su participación en el proyecto de ciencias. Sin otro particular, se despide atentamente su seguro servidor."
+b) "Hola, ¿te gustaría trabajar conmigo en el proyecto de ciencias? Los dos sacamos buena notas en la última prueba y podríamos armar un buen trabajos. Además, así terminamos más rápido."
+c) "Hola, ¿te gustaría trabajar conmigo en el proyecto de ciencias? Como los dos sacamos buenas notas en la última prueba, creo que podríamos armar un buen trabajo. Además, así terminamos más rápido."
+d) "Trabajo. Ciencias. Tú y yo."
+
+*Respuesta correcta: c.* Retroalimentación: el registro debe ser cercano para un compañero (no excesivamente formal), con al menos un conector ("como", "además") y concordancia correcta ("buenas notas", "un buen trabajo").
 
 ---
 

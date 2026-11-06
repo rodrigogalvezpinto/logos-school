@@ -17,14 +17,11 @@ relacionado_con: contenido/01-medio/ciencias-naturales.md (banco de contenido)
 **Curso:** 1° Medio
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 41 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 41 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen 2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, tabla o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -61,11 +58,12 @@ b) La selección artificial
 c) Las estructuras análogas
 d) La embriología
 
-**3.** *(Desarrollo extenso, 3 puntos)* Una población de bacterias expuesta
-repetidamente a un antibiótico termina, tras varias generaciones, compuesta casi en su
-totalidad por bacterias resistentes a ese antibiótico. Explica este fenómeno usando
-los cuatro postulados de la selección natural: sobreproducción, variación, adaptación
-y selección.
+**3.** *(Alternativas, 3 puntos)* Una población de bacterias expuesta repetidamente a un antibiótico termina, tras varias generaciones, compuesta casi en su totalidad por bacterias resistentes. ¿Qué explicación aplica correctamente los postulados de la selección natural?
+
+a) Había variación (algunas ya eran resistentes por azar); el antibiótico eliminó a las no resistentes (selección) y las resistentes, que se reproducen en gran cantidad (sobreproducción), aumentaron su proporción
+b) El antibiótico transformó a las bacterias en resistentes para protegerlas: cada bacteria expuesta modificó su material genético durante el tratamiento y transmitió esa resistencia adquirida a todas sus descendientes
+c) Las bacterias decidieron volverse resistentes después de cada dosis, porque necesitaban sobrevivir; con cada exposición se esforzaron más por adaptarse, hasta que toda la población logró resistir el antibiótico
+d) El antibiótico aumentó la cantidad de bacterias no resistentes, que se reprodujeron más rápido que las resistentes; por eso, tras varias generaciones, la población quedó formada principalmente por bacterias sensibles
 
 ---
 
@@ -90,11 +88,12 @@ b) Una población
 c) Una comunidad
 d) Un ecosistema
 
-**6.** *(Desarrollo extenso, 3 puntos)* En un estudio realizado en un bosque nativo
-chileno, se observó que al eliminar experimentalmente un depredador tope de la zona,
-la población de su presa principal aumentó rápidamente, y la vegetación de la que se
-alimentaba esa presa disminuyó de forma notoria. Explica esta cadena de efectos,
-usando los conceptos de depredación e interacciones biológicas.
+**6.** *(Alternativas, 3 puntos)* Al eliminar experimentalmente un depredador tope de un bosque nativo chileno, la población de su presa aumentó y la vegetación que esta consumía disminuyó. ¿Qué explica esta cadena de efectos?
+
+a) La vegetación disminuyó porque el depredador también la consumía, y al eliminarlo nadie la controló
+b) El depredador y la presa tenían una relación de mutualismo, y al romperse ambas poblaciones aumentaron
+c) Fue un efecto del clima de ese año, sin relación con las interacciones biológicas entre las especies
+d) Sin depredación, la presa crece sin control y consume más vegetación: una cascada trófica
 
 ---
 
@@ -106,9 +105,9 @@ transformar el nitrógeno atmosférico en compuestos que las plantas sí pueden
 utilizar?
 
 a) La fijación de nitrógeno por bacterias
-b) La fotosíntesis
-c) La bioacumulación
-d) La respiración celular
+b) La fotosíntesis en las hojas de las plantas
+c) La bioacumulación en las cadenas tróficas
+d) La respiración celular de los descomponedores
 
 **8.** *(Alternativas)* En una red trófica, los productores de un ecosistema
 almacenan 50.000 kcal de energía. Si la eficiencia de transferencia entre niveles
@@ -120,10 +119,12 @@ b) 5.000 kcal
 c) 500 kcal
 d) 50 kcal
 
-**9.** *(Desarrollo breve, 2 puntos)* Estudios en aves rapaces de distintos
-ecosistemas han mostrado concentraciones muy altas de ciertos pesticidas en sus
-tejidos, a pesar de que esos pesticidas se aplicaron en concentraciones bajas en
-cultivos alejados de donde viven las aves. Explica este fenómeno.
+**9.** *(Alternativas, 2 puntos)* Aves rapaces presentan concentraciones muy altas de pesticidas aplicados en baja concentración en cultivos lejanos. ¿Qué fenómeno lo explica?
+
+a) La fotosíntesis de las aves, que transforman los pesticidas en energía
+b) La competencia intraespecífica entre las aves por los mismos alimentos
+c) La resonancia de los pesticidas en el cuerpo de los animales de mayor tamaño
+d) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico
 
 ---
 
@@ -137,10 +138,12 @@ b) El agua dulce de una cuenca
 c) El petróleo
 d) La madera de un bosque manejado sustentablemente
 
-**11.** *(Desarrollo extenso, 3 puntos)* Evalúa la siguiente estrategia frente al
-riesgo de sequías prolongadas en una zona agrícola de Chile: "construir embalses para
-almacenar agua durante la temporada de lluvias y usarla durante los periodos secos."
-¿Qué ventajas y qué posibles limitaciones tiene esta medida?
+**11.** *(Alternativas, 3 puntos)* Frente a sequías prolongadas en una zona agrícola, se propone "construir embalses para almacenar agua durante la temporada de lluvias y usarla durante los periodos secos". ¿Qué evaluación es correcta?
+
+a) Solo tiene ventajas y ninguna limitación: un embalse asegura agua para la agricultura en cualquier circunstancia, sin costos relevantes ni efectos sobre los ecosistemas del río
+b) Solo tiene limitaciones y ninguna ventaja: los embalses no permiten almacenar agua por más de unos días, así que no sirven para enfrentar periodos secos prolongados
+c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes, tiene costos de construcción y mantención y puede afectar el ecosistema del río
+d) Garantiza agua aunque no llueva durante años, porque los embalses generan agua propia a partir de la humedad del aire, por lo que no depende de las lluvias de la temporada
 
 ---
 
@@ -152,23 +155,24 @@ almacenar agua durante la temporada de lluvias y usarla durante los periodos sec
 **eco** al gritar frente a una superficie reflectante, y no solo un refuerzo del
 sonido original?
 
-a) La superficie debe estar muy cerca de la persona
-b) La superficie debe absorber todo el sonido
-c) La superficie debe ser transparente al sonido
+a) La superficie debe estar muy cerca de la persona, para que el sonido vuelva rápido
+b) La superficie debe absorber todo el sonido, para que no se mezcle con el grito
+c) La superficie debe ser transparente al sonido, para que lo deje pasar sin reflejarlo
 d) La superficie debe estar suficientemente lejos de la persona
 
-**13.** *(Desarrollo extenso, 3 puntos)* Un barco emite un pulso de sonar hacia el
-fondo marino y recibe de vuelta el eco de ese pulso 4 segundos después de haberlo
-emitido:
+**13.** *(Alternativas, 3 puntos)* Un barco emite un pulso de sonar hacia el fondo marino y recibe el eco 4 segundos después:
 
 | Dato | Valor |
 |---|---|
 | Tiempo de ida y vuelta del eco | 4 s |
 | Rapidez del sonido en el agua | 1.500 m/s |
 
-Calcula la profundidad del mar en ese punto, mostrando el desarrollo de tu cálculo, y
-explica por qué es necesario considerar que el sonido recorre esa distancia dos
-veces.
+¿Cuál es la profundidad del mar en ese punto y por qué?
+
+a) 3.000 m, porque el tiempo medido corresponde a la ida y la vuelta del pulso
+b) 6.000 m, porque el sonido recorre 1.500 × 4 metros hasta el fondo
+c) 375 m, porque se divide la rapidez del sonido en el agua por el tiempo medido
+d) 1.500 m, porque es la distancia que recorre el sonido en un segundo en el agua
 
 ---
 
@@ -191,9 +195,12 @@ b) Espejo cóncavo
 c) Espejo convexo
 d) Lente divergente
 
-**16.** *(Desarrollo breve, 2 puntos)* Explica por qué el efecto Doppler de la luz, y
-en particular el "corrimiento al rojo" observado en galaxias lejanas, es considerado
-una evidencia importante para la teoría de la expansión del universo.
+**16.** *(Alternativas, 2 puntos)* ¿Por qué el "corrimiento al rojo" de galaxias lejanas es evidencia de la expansión del universo?
+
+a) Porque indica que las galaxias se acercan a la Tierra, y que ocurra en todas direcciones sugiere que el universo se contrae
+b) Porque demuestra que las galaxias lejanas son de color rojo, ya que están formadas por estrellas más viejas y frías
+c) Porque prueba que el universo está detenido, ya que el color de las galaxias no cambia con el paso de los años
+d) Porque indica, por efecto Doppler, que se alejan, y que ocurra en todas direcciones sugiere que el espacio se expande
 
 ---
 
@@ -204,12 +211,15 @@ una evidencia importante para la teoría de la expansión del universo.
 a) La Tierra se ubica entre el Sol y la Luna, proyectando su sombra sobre esta última
 b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas
    zonas de la Tierra
-c) El Sol se ubica entre la Tierra y la Luna
-d) Ocurre siempre en fase de luna llena
+c) El Sol se ubica entre la Tierra y la Luna, iluminando la cara oculta de la Luna durante el día
+d) Ocurre siempre en fase de luna llena, cuando la Luna refleja toda la luz del Sol hacia la Tierra
 
-**18.** *(Desarrollo breve, 2 puntos)* Compara la Tierra con Marte en cuanto a su
-distancia al Sol y su período orbital, y explica la relación que existe entre ambas
-variables.
+**18.** *(Alternativas, 2 puntos)* Comparada con la Tierra, Marte está más lejos del Sol. ¿Qué relación hay entre esa distancia y su período orbital?
+
+a) Su período es menor, porque al estar más lejos del Sol se mueve más rápido en su órbita
+b) Su período es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento
+c) Su período es igual al de la Tierra, porque todos los planetas tardan un año en dar la vuelta
+d) La distancia no tiene relación con el período orbital, que depende solo del tamaño del planeta
 
 ---
 
@@ -224,10 +234,12 @@ b) El radiotelescopio
 c) Los prismáticos
 d) El espectroscopio solar
 
-**20.** *(Desarrollo breve, 2 puntos)* Explica por qué se considera relevante estudiar
-los conocimientos astronómicos desarrollados por los pueblos originarios de Chile
-(como los usados para determinar calendarios agrícolas y ceremoniales), además de la
-astronomía moderna desarrollada con telescopios.
+**20.** *(Alternativas, 2 puntos)* ¿Por qué es relevante estudiar los conocimientos astronómicos de los pueblos originarios de Chile?
+
+a) Porque usaban telescopios modernos similares a los de los observatorios del norte de Chile, lo que les permitía estudiar galaxias lejanas
+b) Porque sus conocimientos reemplazan a la astronomía actual, ya que sus calendarios son más exactos que los de la ciencia moderna
+c) Porque, mediante observación sistemática por generaciones, establecieron calendarios agrícolas y ceremoniales, un saber que permite valorar otras formas de conocimiento
+d) No es relevante: solo importa la astronomía hecha con telescopios e instrumentos modernos, porque el resto son creencias sin observación
 
 ---
 
@@ -251,10 +263,12 @@ b) Absorbe calor del entorno (es endotérmica)
 c) No involucra ningún cambio de energía
 d) Produce luz en vez de calor
 
-**23.** *(Desarrollo extenso, 3 puntos)* Evalúa el siguiente enunciado: "las
-reacciones de combustión son procesos completamente naturales y, por lo tanto, no
-representan ningún riesgo para el ambiente." Justifica tu evaluación, considerando el
-impacto de la combustión a gran escala (por ejemplo, en vehículos e industrias).
+**23.** *(Alternativas, 3 puntos)* "Las reacciones de combustión son procesos completamente naturales y, por lo tanto, no representan ningún riesgo para el ambiente." ¿Qué evaluación es correcta?
+
+a) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire
+b) Es correcta: lo natural nunca es dañino, y la combustión ocurre en la naturaleza desde siempre, por lo que el ambiente se adapta a sus efectos
+c) Es correcta: la combustión no libera gases a la atmósfera, solo produce calor y luz, por lo que no puede afectar el aire ni el clima
+d) Es incorrecta: la combustión no es una reacción química sino un cambio físico, y por eso no puede calificarse como un proceso natural
 
 ---
 
@@ -263,27 +277,28 @@ impacto de la combustión a gran escala (por ejemplo, en vehículos e industrias
 **24.** *(Alternativas)* Respecto al **mol** como unidad química, ¿cuál de las
 siguientes afirmaciones es correcta?
 
-a) Un mol de distintas sustancias contiene distinta cantidad de partículas
+a) Un mol de distintas sustancias contiene distinta cantidad de partículas, según su masa
 b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la
    sustancia
-c) El mol solo puede usarse para medir cantidades de gases
+c) El mol solo puede usarse para medir cantidades de gases en condiciones normales
 d) Un mol equivale a la masa atómica en gramos únicamente en el caso del hidrógeno
 
-**25.** *(Desarrollo extenso, 3 puntos)* Observa la siguiente ecuación química
-balanceada, correspondiente a la fotosíntesis:
+**25.** *(Alternativas, 3 puntos)* Observa la ecuación balanceada de la fotosíntesis:
 
 > 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂
 
-Si una planta produce 3 moles de glucosa (C₆H₁₂O₆), calcula cuántos moles de CO₂
-fueron consumidos y cuántos moles de O₂ se liberaron, manteniendo la proporción
-indicada por la ecuación balanceada. Muestra el desarrollo de tu cálculo y explica la
-relación entre la fotosíntesis y la captura de dióxido de carbono atmosférico.
+Si una planta produce 3 moles de glucosa, ¿cuántos moles de CO₂ se consumieron y cuántos de O₂ se liberaron?
+
+a) 6 moles de CO₂ y 6 moles de O₂
+b) 3 moles de CO₂ y 18 moles de O₂
+c) 18 moles de CO₂ y 3 moles de O₂
+d) 18 moles de CO₂ y 18 moles de O₂
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -297,99 +312,42 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------|------------------------------|----|
 | 1 | Alternativas | a) El brazo humano y el ala de un murciélago | OA 2 |
 | 2 | Alternativas | d) La embriología | OA 2 |
-| 3 | Desarrollo extenso | En la población original existía variación (algunas bacterias ya eran resistentes al antibiótico por azar); al aplicar el antibiótico, las bacterias no resistentes murieron y las resistentes sobrevivieron y se reprodujeron (adaptación y selección); dado que las bacterias se reproducen en gran cantidad (sobreproducción), la proporción de bacterias resistentes aumentó rápidamente en la población. | OA 2 |
+| 3 | Alternativas | **a) Había variación (algunas ya eran resistentes por azar); el antibiótico eliminó a las no resistentes (selección) y las resistentes, que se reproducen en gran cantidad (sobreproducción), aumentaron su proporción.** | OA 2 |
 | 4 | Alternativas | c) Parasitismo | OA 4 |
 | 5 | Alternativas | c) Una comunidad | OA 4 |
-| 6 | Desarrollo extenso | Al eliminar al depredador, disminuye la presión de depredación sobre la presa, por lo que su población crece sin control; al haber más individuos de esa presa, aumenta el consumo de la vegetación de la que se alimenta, lo que reduce su disponibilidad en el ecosistema. Este tipo de efecto en cadena, donde la pérdida de un depredador altera indirectamente a otros niveles del ecosistema, se conoce como cascada trófica. | OA 4 |
+| 6 | Alternativas | **d) Sin depredación, la presa crece sin control y consume más vegetación: una cascada trófica.** La pérdida de un depredador altera indirectamente otros niveles del ecosistema. | OA 4 |
 | 7 | Alternativas | a) La fijación de nitrógeno por bacterias | OA 6 |
 | 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
-| 9 | Desarrollo breve | Este fenómeno corresponde a la bioacumulación (o biomagnificación): el pesticida ingresa al ecosistema en baja concentración, pero al pasar de un nivel trófico a otro, la concentración del contaminante aumenta, porque cada depredador consume gran cantidad de biomasa de niveles inferiores, acumulando en su propio cuerpo el contaminante presente en todas esas presas. Los depredadores tope, como las aves rapaces, suelen ser los más afectados por estar en los niveles tróficos más altos. | OA 6 |
+| 9 | Alternativas | **d) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico.** Los depredadores tope consumen gran biomasa de niveles inferiores y acumulan el contaminante presente en sus presas. | OA 6 |
 | 10 | Alternativas | c) El petróleo | OA 8 |
-| 11 | Desarrollo extenso | Ventaja: permite disponer de agua durante los periodos de sequía, reduciendo el impacto sobre la agricultura y el consumo humano. Limitación: requiere que exista suficiente agua durante la temporada de lluvias para llenar el embalse (lo que puede no ocurrir si la sequía es muy prolongada), además de un costo de construcción y mantención, y posibles efectos sobre el ecosistema del río intervenido. | OA 8 |
+| 11 | Alternativas | **c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes, tiene costos de construcción y mantención y puede afectar el ecosistema del río.** | OA 8 |
 | 12 | Alternativas | d) La superficie debe estar suficientemente lejos de la persona | OA 10 |
-| 13 | Desarrollo extenso | Distancia recorrida total = 1.500 m/s × 4 s = 6.000 m. Como el sonido recorre esa distancia dos veces (ida hasta el fondo marino y vuelta hasta el barco), la profundidad es 6.000 m ÷ 2 = 3.000 m. Es necesario considerar el recorrido de ida y vuelta porque el tiempo medido corresponde al viaje completo del pulso de sonar, no solo al trayecto de ida. | OA 10 |
+| 13 | Alternativas | **a) 3.000 m, porque el tiempo medido corresponde a la ida y la vuelta del pulso.** 1.500 m/s × 4 s = 6.000 m de recorrido total; la profundidad es la mitad: 3.000 m. | OA 10 |
 | 14 | Alternativas | a) El modelo ondulatorio | OA 11 |
 | 15 | Alternativas | b) Espejo cóncavo | OA 11 |
-| 16 | Desarrollo breve | Si la mayoría de las galaxias lejanas muestran un corrimiento de su luz hacia el rojo (menor frecuencia), esto indica, por efecto Doppler, que se están alejando de la Tierra; que esto ocurra de forma generalizada en todas direcciones sugiere que el espacio entre las galaxias se está expandiendo, lo que constituye evidencia observacional a favor de la expansión del universo. | OA 11 |
+| 16 | Alternativas | **d) Porque indica, por efecto Doppler, que se alejan, y que ocurra en todas direcciones sugiere que el espacio se expande.** | OA 11 |
 | 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra | OA 14 |
-| 18 | Desarrollo breve | Marte se encuentra más lejos del Sol que la Tierra, por lo que su período orbital es mayor (aproximadamente 687 días terrestres, frente a los 365 días de la Tierra); en general, mientras mayor es la distancia de un planeta al Sol, mayor es su período orbital, ya que debe recorrer una órbita más grande y, además, se mueve más lentamente. | OA 14 |
+| 18 | Alternativas | **b) Su período es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento.** A mayor distancia al Sol, mayor período orbital. | OA 14 |
 | 19 | Alternativas | b) El radiotelescopio | OA 16 |
-| 20 | Desarrollo breve | Los pueblos originarios desarrollaron, mediante la observación sistemática del cielo a lo largo de generaciones y sin instrumentos modernos, conocimientos astronómicos que les permitieron establecer calendarios agrícolas y ceremoniales; estudiar estos saberes permite valorar formas de conocimiento distintas a la ciencia occidental y reconocer el aporte cultural de estos pueblos a la comprensión del cielo. | OA 16 |
+| 20 | Alternativas | **c) Porque, mediante observación sistemática por generaciones, establecieron calendarios agrícolas y ceremoniales, un saber que permite valorar otras formas de conocimiento.** | OA 16 |
 | 21 | Alternativas | b) Descomposición | OA 17 |
 | 22 | Alternativas | b) Absorbe calor del entorno (es endotérmica) | OA 17 |
-| 23 | Desarrollo extenso | El enunciado es incorrecto: aunque la combustión es un tipo de reacción química natural, la combustión de combustibles fósiles a gran escala (en vehículos, industrias, centrales termoeléctricas) libera grandes cantidades de dióxido de carbono y otros contaminantes a la atmósfera, contribuyendo al efecto invernadero, al cambio climático y a la contaminación del aire, con consecuencias negativas para los ecosistemas y la salud humana. | OA 17 |
+| 23 | Alternativas | **a) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire.** La magnitud y frecuencia de un proceso también determinan su impacto. | OA 17 |
 | 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia | OA 20 |
-| 25 | Desarrollo extenso | Se consumieron 18 moles de CO₂ (3 × 6) y se liberaron 18 moles de O₂ (3 × 6). Según la ecuación balanceada, por cada molécula (o mol) de glucosa producida se consumen 6 moléculas (o moles) de dióxido de carbono atmosférico; esto significa que, a mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema, mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica. | OA 20 |
+| 25 | Alternativas | **d) 18 moles de CO₂ y 18 moles de O₂.** Por cada mol de glucosa se consumen 6 de CO₂ y se liberan 6 de O₂: 3 × 6 = 18; así, más fotosíntesis implica más CO₂ atmosférico incorporado a materia orgánica. | OA 20 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 3 (3 puntos)
-
-- Identifica que en la población original ya existía variación: algunas bacterias eran resistentes antes de aplicar el antibiótico — **1 punto**
-- Explica la selección: el antibiótico elimina a las no resistentes y las resistentes sobreviven y se reproducen — **1 punto**
-- Relaciona la sobreproducción con el rápido aumento de la proporción de bacterias resistentes en la población — **1 punto**
-
-### Pregunta 6 (3 puntos)
-
-- Explica que al eliminar al depredador tope disminuye la presión de depredación y la población de la presa crece — **1 punto**
-- Explica que el aumento de la presa incrementa el consumo de vegetación y reduce su disponibilidad — **1 punto**
-- Identifica el fenómeno como cascada trófica o efecto indirecto en cadena sobre otros niveles del ecosistema — **1 punto**
-
-### Pregunta 9 (2 puntos)
-
-- Nombra el fenómeno como bioacumulación o biomagnificación — **1 punto**
-- Explica que la concentración aumenta al pasar de un nivel trófico al siguiente y que los depredadores tope acumulan más — **1 punto**
-
-### Pregunta 11 (3 puntos)
-
-- Señala la ventaja: permite disponer de agua durante la sequía y reduce el impacto en agricultura y consumo humano — **1 punto**
-- Señala una limitación: depende de que haya suficiente agua en la temporada de lluvias, o su costo de construcción y mantención — **1 punto**
-- Señala una segunda limitación o advierte efectos sobre el ecosistema del río intervenido — **1 punto**
-
-### Pregunta 13 (3 puntos)
-
-- Calcula la distancia total recorrida: 1.500 m/s × 4 s = 6.000 m — **1 punto**
-- Divide por 2 y obtiene la profundidad: 3.000 m — **1 punto**
-- Explica que el tiempo medido corresponde al recorrido de ida y vuelta del pulso — **1 punto**
-
-### Pregunta 16 (2 puntos)
-
-- Explica que el corrimiento al rojo indica, por efecto Doppler, que las galaxias se alejan — **1 punto**
-- Señala que el patrón generalizado en todas direcciones evidencia la expansión del universo — **1 punto**
-
-### Pregunta 18 (2 puntos)
-
-- Indica que Marte está más lejos del Sol que la Tierra y tiene un período orbital mayor — **1 punto**
-- Explica la relación: a mayor distancia la órbita es más grande y la velocidad orbital menor, por lo que el período aumenta — **1 punto**
-
-### Pregunta 20 (2 puntos)
-
-- Reconoce que los pueblos originarios obtuvieron conocimiento astronómico por observación sistemática y lo usaron en calendarios agrícolas y ceremoniales — **1 punto**
-- Valora el aporte cultural de esos saberes y la importancia de estudiar formas de conocimiento distintas a la ciencia occidental — **1 punto**
-
-### Pregunta 23 (3 puntos)
-
-- Identifica que el enunciado es incorrecto — **1 punto**
-- Explica que la combustión a gran escala libera CO₂ y otros contaminantes a la atmósfera — **1 punto**
-- Relaciona esas emisiones con el efecto invernadero, el cambio climático o la salud humana — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Calcula los moles de CO₂ consumidos: 3 × 6 = 18 moles — **1 punto**
-- Calcula los moles de O₂ liberados: 3 × 6 = 18 moles — **1 punto**
-- Explica que a mayor fotosíntesis mayor incorporación de CO₂ atmosférico a la materia orgánica — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
 - **15 preguntas de alternativas** (N° 1, 2, 4, 5, 7, 8, 10, 12, 14, 15, 17, 19, 21, 22, 24) × 1 punto = 15 puntos
-- **4 preguntas de desarrollo breve** (N° 9, 16, 18, 20) × 2 puntos = 8 puntos
-- **6 preguntas de desarrollo extenso** (N° 3, 6, 11, 13, 23, 25) × 3 puntos = 18 puntos
+- **4 preguntas de mayor complejidad** (N° 9, 16, 18, 20) × 2 puntos = 8 puntos
+- **6 preguntas de mayor complejidad** (N° 3, 6, 11, 13, 23, 25) × 3 puntos = 18 puntos
 - **Puntaje total de la prueba: 41 puntos**
 
 ### Distribución de preguntas por Eje y OA
@@ -422,16 +380,16 @@ paralela.
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2, 3 | 2 | 1 |
-| OA 4 | 4, 5, 6 | 2 | 1 |
-| OA 6 | 7, 8, 9 | 2 | 1 |
-| OA 8 | 10, 11 | 1 | 1 |
-| OA 10 | 12, 13 | 1 | 1 |
-| OA 11 | 14, 15, 16 | 2 | 1 |
-| OA 14 | 17, 18 | 1 | 1 |
-| OA 16 | 19, 20 | 1 | 1 |
-| OA 17 | 21, 22, 23 | 2 | 1 |
-| OA 20 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **15** | **10** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2, 3 | 3 |
+| OA 4 | 4, 5, 6 | 3 |
+| OA 6 | 7, 8, 9 | 3 |
+| OA 8 | 10, 11 | 2 |
+| OA 10 | 12, 13 | 2 |
+| OA 11 | 14, 15, 16 | 3 |
+| OA 14 | 17, 18 | 2 |
+| OA 16 | 19, 20 | 2 |
+| OA 17 | 21, 22, 23 | 3 |
+| OA 20 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

@@ -1,7 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
-oa_por_pregunta: {"2":"OA 8","3":"OA 8","4":"OA 8","6":"OA 9","7":"OA 9"}
+oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","6":"OA 9","7":"OA 9"}
 unidad: Eje 2 — Ciencias Físicas y Químicas (OA 8, OA 9)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
@@ -21,30 +21,27 @@ Nombre: ________________________  Fecha: ____________
 **1.** ¿Qué material es liviano y flota en el agua, por lo que se usa para
 hacer tapones de botella?
 
-a) Metal
-b) Corcho
+a) Corcho
+b) Metal
 c) Vidrio
 d) Piedra
 
 ---
 
-**2.** Verdadero o falso: La goma es un material rígido que no cambia de
+**2.** *(Verdadero o falso)* La goma es un material rígido que no cambia de
 forma.
 
-Verdadero ⬜   Falso ⬜
+a) Verdadero
+b) Falso
 
 ---
 
-**3.** Junta cada objeto con su material principal.
+**3.** ¿Qué objeto está bien unido con su **material principal**?
 
-| Objeto | Material |
-|---|---|
-| Silla | |
-| Botella | |
-| Pelota | |
-| Llave | |
-
-Materiales para usar: madera, plástico, goma, metal.
+a) Silla → goma
+b) Llave → plástico
+c) Pelota → metal
+d) Botella → plástico
 
 ---
 
@@ -69,27 +66,28 @@ d) No le pasa nada
 
 ---
 
-**6.** Verdadero o falso: El papel, cuando se moja con agua, se ablanda y se
+**6.** *(Verdadero o falso)* El papel, cuando se moja con agua, se ablanda y se
 puede romper más fácilmente.
 
-Verdadero ⬜   Falso ⬜
+a) Verdadero
+b) Falso
 
 ---
 
 **7.** ¿Qué acción produce que una hoja de papel se doble o se arrugue?
 
-a) La luz del sol
-b) El calor
+a) Dejarla un rato a la luz del sol
+b) Calentarla cerca de una estufa
 c) Aplicar fuerza con las manos
-d) El agua fría
+d) Ponerla junto a un vaso de agua fría
 
 ---
 
 ## Pauta de respuestas
 
-1. b) Corcho
+1. a) Corcho
 2. Falso
-3. Silla → madera. Botella → plástico. Pelota → goma. Llave → metal.
+3. d) Botella → plástico. La silla suele ser de madera, la pelota de goma y la llave de metal.
 4. b) La cuchara de metal
 5. b) Se derrite y se vuelve agua
 6. Verdadero

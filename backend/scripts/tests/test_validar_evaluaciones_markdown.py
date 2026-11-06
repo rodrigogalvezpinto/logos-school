@@ -179,3 +179,51 @@ d) f⁻¹(x) = −x − 10
     assert "pregunta 14" in findings[0]
     assert "clave a)" in findings[0]
     assert "alternativa a)" in findings[0]
+
+
+def test_clave_que_es_un_par_ordenado_no_se_descarta_como_aclaracion():
+    markdown = """**20. ¿Cuáles son las nuevas coordenadas?**
+a) (8, 1)
+b) (−4, 1)
+c) (6, −9)
+d) (−4, −7)
+
+## Pauta de corrección
+
+| N° | Clave | OA |
+|---|---|---|
+| 20 | **b) (−4, 1).** Se suma 4 a y y se resta 6 a x. | OA 14 |
+"""
+    assert check_key_option_consistency(markdown) == []
+
+
+def test_clave_algebraica_con_parentesis_finales_se_compara_completa():
+    markdown = """**11. Factoriza 25x² − 64.**
+a) (5x − 8)²
+b) (5x + 8)(5x − 8)
+c) (25x + 8)(x − 8)
+d) (5x + 32)(5x − 2)
+
+## Pauta de corrección
+
+| N° | Clave | OA |
+|---|---|---|
+| 11 | **b) (5x + 8)(5x − 8).** Diferencia de cuadrados. | OA 3 |
+| 11 | **c) (5x + 8)(5x − 8).** Clave mal ubicada. | OA 3 |
+"""
+    hallazgos = check_key_option_consistency(markdown)
+    assert len(hallazgos) == 1 and "clave c)" in hallazgos[0]
+
+
+def test_aclaracion_parentetica_con_palabras_sigue_separandose():
+    markdown = """**5. ¿Cuánto mide el lado?**
+a) 8 m
+b) 10 m
+
+## Pauta de corrección
+
+| N° | Clave | OA |
+|---|---|---|
+| 5 | **b) 10 m (raíz de 100).** | OA 4 |
+"""
+    assert check_key_option_consistency(markdown) == []

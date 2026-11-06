@@ -36,9 +36,9 @@ ultima_actualizacion: 2026-10-28
 **Pregunta 1.**
 Simplifica √200.
 
-a) 10√2
+a) 2√100
 b) 20√5
-c) 2√100
+c) 10√2
 d) 100√2
 
 **Pregunta 2.** (Verdadero o falso)
@@ -47,22 +47,34 @@ d) 100√2
 **Pregunta 3.**
 Simplifica: √5 × √20.
 
-a) 10
+a) 100
 b) 25
 c) √25
-d) 100
+d) 10
 
-**Pregunta 4.** (Desarrollo)
+**Pregunta 4.** (Alternativas — reducir términos semejantes)
 Reduce: √75 − √12.
 
-**Pregunta 5.** (Problema en contexto)
-Un terreno cuadrado tiene un área de 245 m². Determina la medida exacta de su lado,
-expresada como una raíz simplificada, y su valor aproximado con calculadora.
+a) 7√3
+b) √63
+c) 3√3
+d) 3
 
-**Pregunta 6.** (Problema en contexto)
-El pH de una solución se calcula como pH = −log[H⁺], donde [H⁺] es la concentración de
-iones hidrógeno. Si una muestra de agua tiene [H⁺] = 10⁻⁷, calcula su pH usando la
-definición de logaritmo.
+**Pregunta 5.** (Alternativas — terreno cuadrado)
+Un terreno cuadrado tiene un área de 245 m². ¿Cuánto mide su lado, como raíz simplificada y aproximadamente?
+
+a) 5√7 m ≈ 13,23 m
+b) 49√5 m ≈ 109,6 m
+c) √245 m ≈ 122,5 m
+d) 7√5 m ≈ 15,65 m
+
+**Pregunta 6.** (Alternativas — pH)
+Si pH = −log[H⁺] y una muestra de agua tiene [H⁺] = 10⁻⁷, ¿cuál es su pH?
+
+a) −7
+b) 7
+c) 10⁷
+d) 0,7
 
 ---
 
@@ -71,9 +83,9 @@ definición de logaritmo.
 **Pregunta 7.**
 ¿Cuál es el valor de log₄(64)?
 
-a) 3
+a) 16
 b) 4
-c) 16
+c) 3
 d) 2
 
 **Pregunta 8.** (Verdadero o falso)
@@ -87,39 +99,56 @@ b) 7^(5/3)
 c) 7^15
 d) 7^8
 
-**Pregunta 10.** (Desarrollo)
-Convierte 10^(2/5) a su forma de raíz.
+**Pregunta 10.** (Alternativas — potencia a raíz)
+¿Cuál es la forma de raíz de 10^(2/5)?
 
-**Pregunta 11.** (Problema en contexto)
-Usando el modelo M = log₁₀(A/A₀), si un sismo tiene una razón A/A₀ = 1.000.000, ¿cuál es
-su magnitud M?
+a) √(10⁵)
+b) ²√(10⁵)
+c) ⁵√(10²) = ⁵√100
+d) 10 · ⁵√2
 
-**Pregunta 12.** (Problema en contexto)
-Si se sabe que log₁₀(x) = 3, ¿cuál es el valor de x?
+**Pregunta 11.** (Alternativas — escala de Richter)
+Con M = log₁₀(A/A₀), si A/A₀ = 1.000.000, ¿cuál es la magnitud?
 
-**Pregunta 13.** (Problema no rutinario)
-Sabiendo que log₂(5) ≈ 2,32, determina aproximadamente el valor de log₂(20), usando que
-20 = 4×5 y las propiedades de los logaritmos.
+a) 6
+b) 10
+c) 60
+d) 1.000.000
+
+**Pregunta 12.** (Alternativas — convertir registro)
+Si log₁₀(x) = 3, ¿cuánto vale x?
+
+a) 0,001
+b) 3
+c) 30
+d) 1.000
+
+**Pregunta 13.** (Alternativas — propiedades combinadas)
+Si log₂(5) ≈ 2,32, ¿cuánto vale aproximadamente log₂(20)?
+
+a) 9,28
+b) 4,32
+c) 46,4
+d) 2,32
 
 ---
 
 ## Pauta de corrección
 
-1. a) 10√2. 200 = 100×2, y 100 es un cuadrado perfecto (10²), por lo tanto
+1. c) 10√2. 200 = 100×2, y 100 es un cuadrado perfecto (10²), por lo tanto
    √200 = √100×√2 = 10√2.
 2. Verdadero — al multiplicar raíces de igual índice, se multiplican las cantidades
    subradicales: √8×√2 = √16 = 4.
-3. a) 10. √5×√20 = √(5×20) = √100 = 10.
-4. √75 = √(25×3) = 5√3; √12 = √(4×3) = 2√3. Entonces 5√3 − 2√3 = **3√3**.
-5. Lado = √245. Como 245 = 49×5, √245 = √49×√5 = **7√5 m ≈ 15,65 m**.
-6. pH = −log(10⁻⁷) = −(−7) = **7** (agua neutra).
-7. a) 3. log₄(64)=3 porque 4³=64.
+3. d) 10. √5×√20 = √(5×20) = √100 = 10.
+4. c) 3√3. √75 = 5√3 y √12 = 2√3; solo se restan raíces semejantes: 5√3 − 2√3 = 3√3 (√63 resulta de restar los radicandos, un error frecuente).
+5. d) 7√5 m ≈ 15,65 m. 245 = 49 · 5, así que √245 = 7√5 ≈ 15,65 m.
+6. b) 7. −log(10⁻⁷) = −(−7) = 7, el pH del agua neutra.
+7. c) 3. log₄(64)=3 porque 4³=64.
 8. Verdadero — por definición, un exponente 1/2 equivale exactamente a la raíz cuadrada:
    a^(1/2) = √a.
 9. a) 7^(3/5). El índice de la raíz (5) pasa al denominador del exponente, y la potencia
    de la cantidad subradical (3) pasa al numerador.
-10. **⁵√(10²) = ⁵√100**. El numerador del exponente racional (2) es la potencia dentro de
-    la raíz, y el denominador (5) es el índice de la raíz.
-11. M = log₁₀(1.000.000) = **6**, porque 10⁶=1.000.000.
-12. Por definición de logaritmo, 10³=x, entonces **x = 1.000**.
-13. log₂(20) = log₂(4×5) = log₂(4) + log₂(5) = 2 + 2,32 = **4,32**.
+10. c) ⁵√(10²) = ⁵√100. Índice 5 (denominador) y potencia 2 (numerador).
+11. a) 6. Log₁₀(10⁶) = 6.
+12. d) 1.000. Por definición, 10³ = x.
+13. b) 4,32. Log₂(20) = log₂(4 · 5) = log₂(4) + log₂(5) = 2 + 2,32.

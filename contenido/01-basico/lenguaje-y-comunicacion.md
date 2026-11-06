@@ -96,10 +96,10 @@ c) /t/
 **3. (Sonido final)** ¿Con qué sonido termina la palabra "**pan**"?
 
 a) /p/
-b) /n/
-c) /a/
+b) /a/
+c) /n/
 
-*Respuesta correcta: b.* Retroalimentación: bien hecho. Di la palabra "pan" despacio: el último sonido que escuchas es /n/.
+*Respuesta correcta: c.* Retroalimentación: bien hecho. Di la palabra "pan" despacio: el último sonido que escuchas es /n/.
 
 **4. (Comparar sonido inicial)** ¿Cuál de estas dos palabras empieza con el **mismo sonido** que "**casa**"?
 
@@ -175,10 +175,10 @@ Frase: "**La niña juega con la pelota.**"
 **1. (Completar palabra)** Completa la palabra para que se lea "perro": "pe _ _ o"
 
 a) r
-b) rr
-c) ll
+b) ll
+c) rr
 
-*Respuesta correcta: b.* Retroalimentación: ¡bien! Con una sola "r" entre vocales se lee "pero". Con "rr" se lee "perro", con el sonido fuerte.
+*Respuesta correcta: c.* Retroalimentación: ¡bien! Con una sola "r" entre vocales se lee "pero". Con "rr" se lee "perro", con el sonido fuerte.
 
 **2. (Reconocer dígrafo)** ¿Cuál de estas palabras tiene el sonido "**ch**"?
 
@@ -203,18 +203,18 @@ c) 3
 **5. (Leer frase y responder)** Lee la frase: "**La niña juega con la pelota.**" ¿Con qué juega la niña?
 
 a) Con un perro
-b) Con la pelota
-c) Con un libro
+b) Con un libro
+c) Con la pelota
 
-*Respuesta correcta: b.* Retroalimentación: ¡correcto! La frase dice claramente "juega con la pelota".
+*Respuesta correcta: c.* Retroalimentación: ¡correcto! La frase dice claramente "juega con la pelota".
 
 **6. (Elegir la palabra bien escrita)** ¿Cuál de estas palabras está bien escrita?
 
-a) "keso"
-b) "queso"
+a) "queso"
+b) "keso"
 c) "cheso"
 
-*Respuesta correcta: b.* Retroalimentación: ¡bien hecho! El sonido /k/ antes de "e" o "i" se escribe con "qu", como en "queso" y "quince".
+*Respuesta correcta: a.* Retroalimentación: ¡bien hecho! El sonido /k/ antes de "e" o "i" se escribe con "qu", como en "queso" y "quince".
 
 ---
 
@@ -277,11 +277,16 @@ c) Porque tomó mucha agua
 
 *Respuesta correcta: b.* Retroalimentación: ¡muy bien! El cuento dice que "llovía fuerte" antes de contar que el gato estaba mojado. Esa es la pista.
 
-**4. (Pregunta corta — personajes)** ¿Cómo se llama el gato al final del cuento?
+**4. (Alternativas — personajes)** ¿Cómo se llama el gato al final del cuento?
 
-*Respuesta correcta: "Michi".* Retroalimentación: ¡exacto! Pepa le puso ese nombre al final del cuento.
+a) Pepa
+b) Lluvia
+c) Rocky
+d) Michi
 
-**5. (Relacionar dibujo con el cuento)** 
+*Respuesta correcta: d.* Retroalimentación: ¡exacto! Pepa le puso "Michi" al final del cuento. Pepa es la niña que lo encontró.
+
+**5. (Alternativas — dibujo y cuento)**
 ::emoji::🐱::una niña cargando a un gato gris bajo la lluvia::
  ¿Qué momento del cuento muestra este dibujo?
 
@@ -291,9 +296,14 @@ c) Cuando Pepa toma leche
 
 *Respuesta correcta: a.* Retroalimentación: ¡bien hecho! El dibujo muestra la lluvia y a Pepa cargando al gato, que es el momento en que lo encuentra.
 
-**6. (Opinión)** ¿Te parece bien lo que hizo Pepa con el gato? Cuenta por qué, con tus palabras.
+**6. (Alternativas — opinión)** Tomás dice: "Me parece bien lo que hizo Pepa". ¿Cuál es la **mejor razón** para explicar esa opinión, pensando en el cuento?
 
-*Respuesta esperada*: cualquier opinión razonable, por ejemplo "Sí, me parece bien, porque ayudó a un gato que estaba mojado y tenía frío." Retroalimentación: ¡muy bien! No hay una sola respuesta correcta: lo importante es que expliques tu opinión pensando en lo que pasó en el cuento.
+a) Porque el gato era de color gris y tenía la cola larga.
+b) Porque a Tomás le gustan mucho los perros y los gatos.
+c) Porque estaba lloviendo y hacía frío en la calle.
+d) Porque ayudó a un gato que estaba mojado y tenía frío.
+
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Una buena opinión se explica con lo que pasó en el cuento: Pepa ayudó a un gato mojado y con frío. El color del gato o la lluvia no explican por qué lo que hizo Pepa estuvo bien. Tú puedes tener otra opinión, siempre que la expliques con lo que pasó en el cuento.
 
 ---
 
@@ -382,9 +392,9 @@ c) A las 7
 
 **6. (Alternativas — implícito, más difícil)** Imagina una nota que dice: "Fui donde la abuela. Vuelvo pronto." ¿Qué información **no** te da esta nota?
 
-a) A dónde fue
+a) A dónde fue la persona
 b) A qué hora exacta va a volver
-c) Que fue a un lugar
+c) Que fue a un lugar y que vuelve
 
 *Respuesta correcta: b.* Retroalimentación: ¡exacto! La nota dice "vuelvo pronto", pero no dice una hora exacta. Por eso esa información no está.
 
@@ -428,19 +438,34 @@ Frase mal escrita, sin espacios: "**elpajarocanta**"
 
 ### Banco de preguntas de autoevaluación — OA N°13
 
-**1. (Escribir palabra desde un dibujo)** 
+**1. (Alternativas — escribir palabra desde un dibujo)**
 ::emoji::☀️::un sol::
- Escribe la palabra para este dibujo.
+ ¿Cuál es la palabra **bien escrita** para este dibujo?
 
-*Respuesta esperada*: "sol". Retroalimentación: ¡muy bien! Fíjate que cada sonido de la palabra tenga su letra: /s/-/o/-/l/.
+a) sl
+b) sool
+c) zol
+d) sol
 
-**2. (Responder con palabra o frase corta)** ¿Cómo se llama tu mascota, o qué animal te gustaría tener? Escribe una palabra o una frase corta.
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! "Sol" tiene un sonido para cada letra: /s/-/o/-/l/. En "sl" falta la o, en "sool" sobra una o y "zol" no se escribe con z.
 
-*Respuesta esperada*: cualquier palabra o frase corta, por ejemplo "Mi perro se llama Rocky" o "Quiero un gato". Retroalimentación: ¡bien hecho! Lo importante es que tu respuesta tenga relación con la pregunta.
+**2. (Alternativas — responder con una frase corta)** La pregunta es: "¿Qué animal te gustaría tener?". ¿Cuál de estas frases **responde** la pregunta?
 
-**3. (Separar palabras)** Esta frase está mal escrita porque no tiene espacios: "**elpajarocanta**". Escríbela separando las palabras.
+a) Mi casa es grande.
+b) Hoy es lunes.
+c) Me gusta el color azul.
+d) Quiero un gato.
 
-*Respuesta correcta: "el pájaro canta".* Retroalimentación: ¡excelente! Cada palabra debe ir separada por un espacio para que se pueda leer bien.
+*Respuesta correcta: d.* Retroalimentación: ¡bien hecho! "Quiero un gato" dice qué animal te gustaría tener. Las otras frases están bien escritas, pero no tienen relación con la pregunta.
+
+**3. (Alternativas — separar palabras)** Esta frase está mal escrita porque no tiene espacios: "**elpajarocanta**". ¿Cómo se escribe separando bien las palabras?
+
+a) elpá jaro canta
+b) elpájaro canta
+c) el pája rocanta
+d) el pájaro canta
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente! Son tres palabras: "el", "pájaro" y "canta". Cada palabra debe ir separada por un espacio para que se pueda leer bien.
 
 **4. (Alternativas)** ¿Cuál de estas frases está bien escrita, con espacios entre las palabras?
 
@@ -450,15 +475,25 @@ c) "lacasa esgrande"
 
 *Respuesta correcta: b.* Retroalimentación: ¡correcto! En la opción b) cada palabra está separada por un espacio, por eso se lee con facilidad.
 
-**5. (Escribir frase corta)** Responde por escrito con una frase corta: "¿Qué te gusta comer?"
+**5. (Alternativas — escribir frase corta)** La pregunta es: "¿Qué te gusta comer?". ¿Cuál respuesta está **bien escrita**, con las palabras separadas y con sentido?
 
-*Respuesta esperada*: cualquier frase corta y con sentido, por ejemplo "Me gusta comer pan" o "Me gustan las empanadas". Retroalimentación: ¡muy bien! Revisa que tu frase tenga las palabras separadas por espacio y que responda la pregunta.
+a) Megusta comerpan.
+b) Me gusta comer pan.
+c) Me gus ta co mer pan.
+d) Pan pan pan.
 
-**6. (Escribir palabra cuidando letra-sonido)** 
+*Respuesta correcta: b.* Retroalimentación: ¡muy bien! "Me gusta comer pan" responde la pregunta y tiene cada palabra separada por un espacio. Ahora escribe tú, en tu cuaderno, qué te gusta comer.
+
+**6. (Alternativas — letra y sonido)**
 ::emoji::🐟::un pez::
- Escribe la palabra para este dibujo, pensando en cada sonido.
+ ¿Cuál es la palabra **bien escrita** para este dibujo, pensando en cada sonido?
 
-*Respuesta esperada*: "pez". Retroalimentación: ¡bien hecho! La palabra "pez" se escribe con tres letras, p-e-z: revisa que hayas puesto una letra para cada sonido.
+a) pes
+b) ps
+c) pez
+d) pezz
+
+*Respuesta correcta: c.* Retroalimentación: ¡bien hecho! La palabra "pez" se escribe con tres letras, p-e-z, y termina en z. En "ps" falta la e y en "pezz" sobra una z.
 
 ---
 

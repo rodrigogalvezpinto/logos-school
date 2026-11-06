@@ -6,11 +6,11 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-OPTION_RE = re.compile(r"^\s*([a-d])\)\s*(.*?)\s*$", re.IGNORECASE)
+OPTION_RE = re.compile(r"^\s*([a-e])\)\s*(.*?)\s*$", re.IGNORECASE)
 TOTAL_RE = re.compile(r"(?i)puntaje\s+total\*{0,2}\s*:\*{0,2}\s*(\d+)\s*puntos?")
 QUESTION_RE = re.compile(r"^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?")
-INLINE_KEY_RE = re.compile(r"(?i)respuesta\s+correcta\s*:\s*\*{0,2}([a-d])\)\s*(.+?)\*{0,2}\s*$")
-TABLE_KEY_RE = re.compile(r"(?i)^\*{0,2}([a-d])\)\s*([^*|]+?)(?:\.\*{0,2}|\*)?(?:\s|$)")
+INLINE_KEY_RE = re.compile(r"(?i)respuesta\s+correcta\s*:\s*\*{0,2}([a-e])\)\s*(.+?)\*{0,2}\s*$")
+TABLE_KEY_RE = re.compile(r"(?i)^\*{0,2}([a-e])\)\s*([^*|]+?)(?:\.\*{0,2}|\*)?(?:\s|$)")
 
 
 def _question_options(markdown: str) -> dict[int, dict[str, str]]:
@@ -70,7 +70,12 @@ def _compare(question_no: int, letter: str, answer: str,
                 f"pero las opciones disponibles son {', '.join(sorted(options))}"]
     # Algunas pautas añaden el desarrollo entre paréntesis después de la respuesta.
     # Separarlo evita comparar "36x² − 25 (desarrollo...)" con la alternativa.
-    answer_core = re.sub(r"\s*\([^()]*\)\s*$", "", answer.strip())
+    # Solo se separa un paréntesis final con texto aclaratorio (palabras), no uno que forme
+    # parte de una expresión matemática como «(5x + 8)(5x − 8)».
+    answer_core = re.sub(r"\s*\(([^()]*[A-Za-zÁÉÍÓÚáéíóúñÑ]{3,}[^()]*)\)\s*$", "", answer.strip())
+    if not answer_core:
+        # La respuesta completa es un paréntesis, p. ej. un par ordenado «(−4, 1)».
+        answer_core = answer.strip()
     normalised_answer = _normalise(answer_core)
     normalised_option = _normalise(options[letter])
     # Las claves breves (números/expresiones) se pueden comparar literalmente.
@@ -120,9 +125,9 @@ def check_key_option_consistency(markdown: str, path: str = "<memoria>") -> list
         for cell in cells[1:]:
             # Si la clave está en negrita, extraer solo ese tramo evita incluir
             # aclaraciones posteriores entre paréntesis como parte de la respuesta.
-            bold_key = re.search(r"\*{2}\s*([a-d]\)\s*.*?)\*{2}", cell, re.IGNORECASE)
+            bold_key = re.search(r"\*{2}\s*([a-e]\)\s*.*?)\*{2}", cell, re.IGNORECASE)
             cleaned = bold_key.group(1).strip() if bold_key else re.sub(r"[*_]", "", cell).strip()
-            candidate = re.match(r"(?i)^([a-d])\)\s*(.+?)\s*$", cleaned)
+            candidate = re.match(r"(?i)^([a-e])\)\s*(.+?)\s*$", cleaned)
             if candidate:
                 match = candidate
                 break

@@ -87,10 +87,10 @@ palabras que se parecen al español (cognados), como *family*, *chocolate* o *an
 1. *(Alternativas)* Read: *"Hi! I am Pedro. I am eleven years old."* What is his
    name?
    a) Ana
-   b) Pedro
+   b) Sofía
    c) Diego
-   d) Sofía
-   **Respuesta correcta:** b) Pedro.
+   d) Pedro
+   **Respuesta correcta:** d) Pedro.
    **Retroalimentación:** La pregunta pide el nombre; el texto lo dice directamente
    con "I am Pedro" (información explícita).
 
@@ -100,23 +100,29 @@ palabras que se parecen al español (cognados), como *family*, *chocolate* o *an
    **Retroalimentación:** El texto dice que el papá es *teacher* (profesor) y la
    mamá es *doctor*; hay que leer con cuidado quién es quién.
 
-3. *(Completar)* Complete with "and": *I have a dog ___ a cat.*
-   **Respuesta correcta:** and.
-   **Retroalimentación:** *And* conecta dos ideas o elementos, en este caso dos
-   mascotas (perro y gato).
+3. *(Alternativas — completar)* Complete with the correct word: *I have a dog ___ a cat.*
+   a) and
+   b) but
+   c) or
+   d) the
+   **Respuesta correcta:** a) and.
+   **Retroalimentación:** *And* conecta dos ideas o elementos, en este caso dos mascotas (perro y gato). *But* indica contraste y *or* una elección.
 
-4. *(Emparejar palabra-imagen descrita)* Imagina un dibujo de un niño feliz saltando
-   bajo el sol. ¿Qué palabra en inglés describe mejor su estado de ánimo: *sad* o
-   *happy*?
-   **Respuesta correcta:** happy.
-   **Retroalimentación:** *Happy* significa feliz/contento, que corresponde a un
-   niño sonriendo y saltando.
+4. *(Alternativas — palabra e imagen)* Imagina un dibujo de un niño feliz saltando bajo el sol. ¿Qué palabra en inglés describe mejor su estado de ánimo?
+   a) sad
+   b) angry
+   c) tired
+   d) happy
+   **Respuesta correcta:** d) happy.
+   **Retroalimentación:** *Happy* significa feliz/contento, que corresponde a un niño sonriendo y saltando; *sad* es triste, *angry* enojado y *tired* cansado.
 
-5. *(Responder en inglés)* Read: *"I am Camila. I am ten years old. I live in
-   Santiago."* Answer: *Where does Camila live?*
-   **Respuesta esperada:** *She lives in Santiago.*
-   **Retroalimentación:** La pregunta usa *where* (dónde); hay que ubicar el lugar
-   mencionado en el texto (Santiago).
+5. *(Alternativas — comprensión)* Read: *"I am Camila. I am ten years old. I live in Santiago."* Answer: *Where does Camila live?*
+   a) She lives in Santiago.
+   b) She is ten years old.
+   c) She is Camila.
+   d) She lives in a house.
+   **Respuesta correcta:** a) She lives in Santiago.
+   **Retroalimentación:** La pregunta usa *where* (dónde); hay que ubicar el lugar mencionado en el texto (Santiago). La edad y el nombre responden otras preguntas.
 
 6. *(Alternativas — desafiante)* Read: *"Color the sun, yellow. Draw two birds in
    the sky."* ¿Cuál de estas acciones NO corresponde a la instrucción?
@@ -128,11 +134,13 @@ palabras que se parecen al español (cognados), como *family*, *chocolate* o *an
    **Retroalimentación:** El texto indica *yellow* (amarillo) para el sol, no
    *brown* (café); hay que seguir la instrucción exacta.
 
-7. *(Responder en inglés)* Read: *"There are three apples and two bananas on the
-   table."* Answer: *How many apples are there?*
-   **Respuesta esperada:** *There are three apples.*
-   **Retroalimentación:** Se debe localizar la cantidad exacta asociada a *apples*
-   en el texto (información sobre cantidades).
+7. *(Alternativas — comprensión)* Read: *"There are three apples and two bananas on the table."* Answer: *How many apples are there?*
+   a) There are two apples.
+   b) There are five apples.
+   c) There are three apples.
+   d) The apples are on the table.
+   **Respuesta correcta:** c) There are three apples.
+   **Retroalimentación:** Se debe localizar la cantidad exacta asociada a *apples* en el texto (información sobre cantidades); *two* corresponde a los plátanos.
 
 ---
 
@@ -188,19 +196,19 @@ parecen al español (cognados), como *chocolate*, *hospital* o *radio*.
 1. *(Alternativas)* Read: *"You are invited to my birthday party!"* ¿Cuál es el
    propósito de este texto?
    a) Dar una receta
-   b) Invitar a una celebración
+   b) Describir el clima
    c) Pedir disculpas
-   d) Describir el clima
-   **Respuesta correcta:** b) Invitar a una celebración.
+   d) Invitar a una celebración
+   **Respuesta correcta:** d) Invitar a una celebración.
    **Retroalimentación:** La palabra *invited* (invitado/a) y la mención de
    *birthday party* muestran que el propósito es invitar.
 
 2. *(Completar)* Complete: *"___, I don't have a pencil. Can I borrow yours?"*
    a) Thank you
-   b) Excuse me
-   c) Goodbye
+   b) Goodbye
+   c) Excuse me
    d) Happy birthday
-   **Respuesta correcta:** b) Excuse me.
+   **Respuesta correcta:** c) Excuse me.
    **Retroalimentación:** *Excuse me* se usa para pedir algo con cortesía o llamar
    la atención de alguien, como pedir prestado un lápiz.
 
@@ -210,17 +218,21 @@ parecen al español (cognados), como *chocolate*, *hospital* o *radio*.
    **Retroalimentación:** Las palabras *cut* (cortar) y *mix* (mezclar) son típicas
    de una receta de cocina.
 
-4. *(Emparejar palabra-imagen descrita)* Imagina una tarjeta con un pastel, globos y
-   velas. ¿Qué tipo de texto es más probable: *a menu* o *a birthday card*?
-   **Respuesta correcta:** a birthday card.
-   **Retroalimentación:** Un pastel con velas y globos son elementos típicos de una
-   tarjeta de cumpleaños (*birthday card*), no de un menú.
+4. *(Alternativas — palabra e imagen)* Imagina una tarjeta con un pastel, globos y velas. ¿Qué tipo de texto es más probable?
+   a) a birthday card
+   b) a menu
+   c) a shopping list
+   d) a weather report
+   **Respuesta correcta:** a) a birthday card.
+   **Retroalimentación:** Un pastel con velas y globos son elementos típicos de una tarjeta de cumpleaños (*birthday card*), no de un menú ni de una lista de compras.
 
-5. *(Responder en inglés)* Read: *"Dear Sofía, the party is on Saturday at 3 pm.
-   From, Martina."* Answer: *What day is the party?*
-   **Respuesta esperada:** *The party is on Saturday.*
-   **Retroalimentación:** Hay que ubicar la información explícita: el día
-   mencionado es *Saturday* (sábado).
+5. *(Alternativas — comprensión)* Read: *"Dear Sofía, the party is on Saturday at 3 pm. From, Martina."* Answer: *What day is the party?*
+   a) The party is at 3 pm.
+   b) The party is on Sunday.
+   c) The party is for Martina.
+   d) The party is on Saturday.
+   **Respuesta correcta:** d) The party is on Saturday.
+   **Retroalimentación:** Hay que ubicar la información explícita: el día mencionado es *Saturday* (sábado). *At 3 pm* es la hora, no el día.
 
 6. *(Alternativas — desafiante)* Read a short email: *"Hi Diego, Thank you for the
    present. I'm sorry I didn't call you. See you soon, Camila."* ¿Qué expresa
@@ -278,12 +290,13 @@ tu opinión o conexión personal.
 
 **Banco de autoevaluación**
 
-1. *(Responder en inglés)* Read: *"Camila likes chocolate ice cream."* Answer:
-   *What is your favorite ice cream flavor?*
-   **Respuesta esperada:** Cualquier respuesta con estructura correcta, por
-   ejemplo: *My favorite ice cream flavor is vanilla.*
-   **Retroalimentación:** Lo importante es usar *my favorite* seguido del sabor,
-   siguiendo el modelo de la pregunta.
+1. *(Alternativas — responder con modelo)* Read: *"Camila likes chocolate ice cream."* Which answer to *What is your favorite ice cream flavor?* uses the correct structure?
+   a) My favorite is ice cream flavor vanilla.
+   b) My favorite ice cream flavor is vanilla.
+   c) Favorite my ice cream flavor vanilla.
+   d) I favorite vanilla ice cream flavor.
+   **Respuesta correcta:** b) My favorite ice cream flavor is vanilla.
+   **Retroalimentación:** Lo importante es usar *my favorite* seguido del sabor, siguiendo el modelo de la pregunta. Tú puedes responder con tu sabor favorito.
 
 2. *(Alternativas)* Which sentence expresses a preference (una preferencia)?
    a) The cat is black.
@@ -300,17 +313,21 @@ tu opinión o conexión personal.
    **Retroalimentación:** El texto dice explícitamente que a Diego le gustan los
    días lluviosos (*rainy days*), no los soleados.
 
-4. *(Completar)* Complete: *I ___ pizza, but I don't like fish.* (like / likes)
-   **Respuesta correcta:** like.
-   **Retroalimentación:** Con el sujeto *I*, el verbo se usa en su forma simple:
-   *I like*, no *I likes* (esa forma es solo para *he/she/it*).
+4. *(Alternativas — completar)* Complete: *I ___ pizza, but I don't like fish.*
+   a) likes
+   b) liking
+   c) like
+   d) to like
+   **Respuesta correcta:** c) like.
+   **Retroalimentación:** Con el sujeto *I*, el verbo se usa en su forma simple: *I like*, no *I likes* (esa forma es solo para *he/she/it*).
 
-5. *(Responder en inglés)* Read: *"Martina has a big family: two sisters and one
-   brother."* Answer: *Do you have a big family?*
-   **Respuesta esperada:** Respuesta personal breve, por ejemplo: *Yes, I have a
-   big family. / No, I have a small family.*
-   **Retroalimentación:** Se evalúa que la respuesta tenga sentido y conecte con la
-   pregunta, usando *yes/no* + información personal.
+5. *(Alternativas — respuesta personal)* Read: *"Martina has a big family: two sisters and one brother."* Which is a correct answer to *Do you have a big family?*
+   a) Yes, I have a big family.
+   b) Yes, she has two sisters.
+   c) Big family I yes.
+   d) No, I has a small family.
+   **Respuesta correcta:** a) Yes, I have a big family.
+   **Retroalimentación:** La respuesta debe tener sentido y conectar con la pregunta, usando *yes/no* + información personal (*No, I have a small family* también sería correcta). *I has* es incorrecto y la b) habla de Martina, no de ti.
 
 6. *(Alternativas — desafiante)* Read: *"Tomás is short and likes soccer. Sofía is
    tall and likes basketball."* ¿Qué oración compara correctamente a los dos
@@ -367,19 +384,21 @@ apoyo de dibujos.
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete the shopping list: *"I need milk, eggs and ___."* (elige
-   un alimento de la lista de vocabulario: bread / chair / Monday)
-   **Respuesta correcta:** bread.
-   **Retroalimentación:** La lista de compras debe completarse con alimentos
-   (*bread* = pan), no con muebles ni días de la semana.
+1. *(Alternativas — completar)* Complete the shopping list: *"I need milk, eggs and ___."*
+   a) chair
+   b) Monday
+   c) blue
+   d) bread
+   **Respuesta correcta:** d) bread.
+   **Retroalimentación:** La lista de compras debe completarse con alimentos (*bread* = pan), no con muebles, días de la semana ni colores.
 
-2. *(Completar)* Complete the postcard model: *"Dear Ana, the weather is ___
-   (sunny/rainy/cold). I like the beach."* Elige la palabra que combine mejor con
-   "me gusta la playa".
-   **Respuesta correcta:** sunny.
-   **Retroalimentación:** Si el clima combina con ir a la playa, lo más coherente
-   es un día soleado (*sunny*), aunque *rainy* o *cold* también son gramaticalmente
-   correctas si el contexto cambiara.
+2. *(Alternativas — completar)* Complete the postcard: *"Dear Ana, the weather is ___. I like the beach."* Choose the word that goes best with "I like the beach".
+   a) rainy
+   b) sunny
+   c) cold
+   d) snowy
+   **Respuesta correcta:** b) sunny.
+   **Retroalimentación:** Si el clima combina con disfrutar la playa, lo más coherente es un día soleado (*sunny*), aunque las otras palabras también serían gramaticalmente correctas en otro contexto.
 
 3. *(Alternativas)* ¿Qué palabra falta para completar correctamente: *"Dear Mom, ___
    Diego."* (modelo de despedida en una postal)
@@ -398,18 +417,21 @@ apoyo de dibujos.
    **Retroalimentación:** Una *shopping list* normalmente incluye alimentos u
    objetos que se compran en una tienda, no mascotas.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"My name is ___. I
-   am ___ years old. I like ___."* Escribe tu propia versión.
-   **Respuesta esperada:** Respuesta personal, por ejemplo: *"My name is Juan. I am
-   eleven years old. I like soccer."*
-   **Retroalimentación:** Se evalúa que cada espacio se complete con el tipo de
-   información correcta: nombre, edad (número) y un gusto.
+5. *(Alternativas — escribir siguiendo un modelo)* Model: *"My name is ___. I am ___ years old. I like ___."* Which text completes the model correctly?
+   a) My name is eleven. I am Juan years old. I like soccer.
+   b) My name is Juan. I am soccer years old. I like eleven.
+   c) My name is Juan. I am eleven years old. I like soccer.
+   d) My name is soccer. I am Juan years old. I like eleven.
+   **Respuesta correcta:** c) My name is Juan. I am eleven years old. I like soccer.
+   **Retroalimentación:** Cada espacio se completa con el tipo de información correcta: nombre, edad (número) y un gusto. Ahora escribe tu propia versión.
 
-6. *(Completar)* Complete the rhyme: *"The sky is blue, the grass is ___."* (elige:
-   green / Monday / happy)
-   **Respuesta correcta:** green.
-   **Retroalimentación:** *Green* (verde) es un color, igual que *blue* (azul), y
-   describe correctamente el pasto en una rima simple.
+6. *(Alternativas — completar)* Complete the rhyme: *"The sky is blue, the grass is ___."*
+   a) green
+   b) Monday
+   c) happy
+   d) ten
+   **Respuesta correcta:** a) green.
+   **Retroalimentación:** *Green* (verde) es un color, igual que *blue* (azul), y describe correctamente el pasto en una rima simple.
 
 ---
 
@@ -455,10 +477,13 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"___ is a ball on the chair."* (There / They / It)
-   **Respuesta correcta:** There.
-   **Retroalimentación:** *There is* se usa para indicar que algo existe o está en
-   un lugar, en singular (un objeto).
+1. *(Alternativas — completar)* Complete: *"___ is a ball on the chair."*
+   a) They
+   b) It
+   c) We
+   d) There
+   **Respuesta correcta:** d) There.
+   **Retroalimentación:** *There is* se usa para indicar que algo existe o está en un lugar, en singular (un objeto).
 
 2. *(Alternativas)* ¿Qué palabra indica que un objeto está **debajo** de otro?
    a) on
@@ -469,11 +494,13 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
    **Retroalimentación:** *Under* significa "debajo de"; *on* es "sobre/encima" y
    *in* es "dentro de".
 
-3. *(Completar con número)* Complete: *"There are ___ pencils in my pencil case."*
-   (usa el número 7 en inglés)
-   **Respuesta correcta:** seven.
-   **Retroalimentación:** Los números del 1 al 12 deben poder escribirse en
-   palabras: seven = siete.
+3. *(Alternativas — número)* Complete with the number 7 in English: *"There are ___ pencils in my pencil case."*
+   a) six
+   b) seven
+   c) eight
+   d) seventy
+   **Respuesta correcta:** b) seven.
+   **Retroalimentación:** Los números del 1 al 12 deben poder escribirse en palabras: seven = siete; *seventy* es setenta.
 
 4. *(Verdadero o falso)* La oración *"The ball is on the table"* significa que la
    pelota está debajo de la mesa.
@@ -481,18 +508,21 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
    **Retroalimentación:** *On* significa "sobre/encima de", no "debajo de" (esa es
    *under*).
 
-5. *(Responder en inglés)* Answer with a complete sentence: *What is the weather
-   like today?* (usa una palabra del clima: sunny, cloudy, rainy, windy)
-   **Respuesta esperada:** Por ejemplo: *Today is sunny.*
-   **Retroalimentación:** La estructura correcta es *Today is + palabra de clima*,
-   sin necesidad de agregar más palabras.
+5. *(Alternativas — clima)* Choose the complete sentence that answers *What is the weather like today?*
+   a) Today sunny.
+   b) Is sunny today the weather.
+   c) Today is sunny.
+   d) Sunny is today like.
+   **Respuesta correcta:** c) Today is sunny.
+   **Retroalimentación:** La estructura que se usa en esta guía es *Today is + palabra de clima* (sunny, cloudy, rainy, windy); también se puede decir *It is sunny today*.
 
-6. *(Completar — pregunta y respuesta)* Complete the dialogue: *"— Is this your
-   dog? — Yes, ___."*
-   **Respuesta correcta:** it is.
-   **Retroalimentación:** La respuesta corta correcta a *Is this...?* es *Yes, it
-   is.* o *No, it isn't.*; no se debe responder solo "yes" en un texto escrito
-   formal de este tipo de ejercicio.
+6. *(Alternativas — pregunta y respuesta)* Complete the dialogue: *"— Is this your dog? — Yes, ___."*
+   a) it is
+   b) it isn't
+   c) I am
+   d) they are
+   **Respuesta correcta:** a) it is.
+   **Retroalimentación:** La respuesta corta correcta a *Is this...?* es *Yes, it is.* o *No, it isn't.*; *Yes, it isn't* se contradice.
 
 7. *(Alternativas — desafiante)* ¿Qué oración describe correctamente una posesión?
    a) The sky is blue.

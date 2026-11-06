@@ -18,14 +18,14 @@ observación: Forma B — versión alternativa del examen de práctica, con preg
 **Curso:** 5° Básico
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 36 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 36 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen
+2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción
+   marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber
+   más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, tabla o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -71,9 +71,13 @@ b) Órgano
 c) Sistema
 d) Célula
 
-**4.** *(Desarrollo breve, 2 puntos)* Elige un sistema del cuerpo humano —distinto
-del sistema digestivo— y describe brevemente cómo al menos dos órganos trabajan de
-forma coordinada dentro de él.
+**4.** *(Alternativas, 2 puntos)* ¿Qué descripción muestra correctamente cómo al menos dos órganos trabajan de forma
+coordinada dentro de un sistema distinto del digestivo?
+
+a) Sistema respiratorio: la nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases
+b) Sistema respiratorio: el estómago recibe el aire, lo digiere y el corazón lo bombea hacia los pulmones
+c) Sistema circulatorio: los pulmones digieren la sangre y el estómago la envía hacia el corazón
+d) Sistema respiratorio: solo la nariz trabaja, porque filtra y respira el aire sin ayuda de otros órganos
 
 ---
 
@@ -82,10 +86,10 @@ forma coordinada dentro de él.
 **5.** *(Alternativas)* Las paltas, los frutos secos y los aceites son alimentos
 ricos principalmente en:
 
-a) Proteínas, que reparan tejidos
-b) Carbohidratos, que aportan energía inmediata
+a) Proteínas, que reparan los tejidos del cuerpo
+b) Carbohidratos, que aportan energía inmediata y ayudan a crecer
 c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas
-d) Fibra, que facilita la digestión
+d) Fibra, que facilita la digestión de los alimentos
 
 **6.** *(Alternativas)* ¿Cuál de los siguientes alimentos aporta principalmente
 vitaminas y minerales al organismo?
@@ -95,13 +99,22 @@ b) Un trozo de palta
 c) Un plato de fideos
 d) Una naranja
 
-**7.** *(Desarrollo breve, 2 puntos)* Explica por qué se recomienda el consumo de
-carne o legumbres para los procesos de reparación y crecimiento del cuerpo.
+**7.** *(Alternativas, 2 puntos)* ¿Por qué se recomienda el consumo de
+carne o legumbres para los procesos de reparación y crecimiento del cuerpo?
 
-**8.** *(Desarrollo extenso, 3 puntos)* Un estudiante almuerza todos los días solo
-arroz con papas fritas, sin incluir otros alimentos. Explica por qué comer siempre
-un solo grupo de nutrientes, aunque sea en gran cantidad, puede afectar la salud, y
-señala qué grupos de nutrientes le faltan a esta dieta.
+a) Porque son ricos en azúcares, el nutriente que el cuerpo usa para reparar los huesos
+b) Porque aportan solo agua, que el cuerpo necesita para crecer y mantenerse hidratado
+c) Porque son ricos en grasas, el nutriente que el cuerpo usa para construir y reparar la piel y los músculos
+d) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos como músculos y piel
+
+**8.** *(Alternativas, 3 puntos)* Un estudiante almuerza todos los días solo
+arroz con papas fritas, sin incluir otros alimentos. ¿Por qué comer siempre un solo grupo de nutrientes, aunque sea en gran cantidad, puede
+afectar la salud, y qué le falta a esta dieta?
+
+a) Porque esa dieta tiene demasiadas proteínas y vitaminas, y el cuerpo no puede aprovecharlas todas a la vez, así que las elimina sin usarlas
+b) Porque a esa dieta solo le faltan grasas, que se encuentran en el aceite y en la mantequilla
+c) No puede afectarla: comer mucho de un solo grupo siempre es saludable, si la porción es grande y se come todos los días
+d) Porque el cuerpo necesita variedad de nutrientes; esa dieta aporta sobre todo carbohidratos y grasas, y le faltan proteínas y vitaminas y minerales
 
 ---
 
@@ -124,9 +137,15 @@ b) Asma
 c) Infección respiratoria
 d) Cáncer pulmonar
 
-**11.** *(Desarrollo breve, 2 puntos)* Menciona dos medidas que una persona podría
-tomar para reducir su exposición al humo de tabaco ajeno (como fumador o fumadora
-pasiva).
+**11.** *(Varias correctas, 2 puntos)* ¿Qué medidas puede tomar una persona para reducir su exposición al humo de tabaco ajeno (como fumador o fumadora
+pasiva)?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Evitar espacios cerrados donde se fuma
+b) Pedir que no se fume dentro de la casa o el auto
+c) Abrir la ventana mientras alguien fuma al lado
+d) Promover espacios libres de humo
 
 ---
 
@@ -135,9 +154,9 @@ pasiva).
 **12.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre los hongos es
 correcta?
 
-a) Todos los hongos son dañinos para la salud
-b) Los hongos nunca se relacionan con enfermedades
-c) Ningún hongo afecta la salud humana
+a) Todos los hongos son dañinos para la salud y nunca deben comerse
+b) Los hongos nunca se relacionan con enfermedades de las personas
+c) Ningún hongo afecta la salud humana, porque solo crecen en plantas
 d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones
 
 **13.** *(Alternativas)* Observa la siguiente tabla:
@@ -166,8 +185,13 @@ b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria pue
 c) Las bacterias producen el mismo efecto sobre la salud, sin importar de qué tipo de bacteria se trate
 d) Los virus son los únicos microorganismos que pueden resultar beneficiosos
 
-**15.** *(Desarrollo breve, 2 puntos)* Explica qué es una enfermedad
-infectocontagiosa y da un ejemplo **distinto de la gripe**.
+**15.** *(Alternativas, 2 puntos)* ¿Qué es una enfermedad
+infectocontagiosa? Elige la definición con un ejemplo correcto **distinto de la gripe**.
+
+a) Es causada por un golpe o un accidente y no se contagia; por ejemplo, una fractura en el brazo
+b) Se hereda de los padres a los hijos; por ejemplo, el color de ojos o de pelo
+c) Es causada por un microorganismo y se transmite entre personas; por ejemplo, el resfriado común (virus)
+d) Es causada por la falta de sueño o de ejercicio; por ejemplo, el cansancio
 
 ---
 
@@ -178,11 +202,11 @@ infectocontagiosa y da un ejemplo **distinto de la gripe**.
 **16.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre los materiales
 conductores y aisladores es correcta?
 
-a) La goma y el plástico son buenos conductores de electricidad
+a) La goma y el plástico son buenos conductores, por eso se usan dentro de los cables
 b) El plástico y la goma son materiales aisladores, que dificultan el paso de la
    corriente
-c) Todos los materiales conducen la electricidad de la misma forma
-d) El cobre es un material aislador
+c) Todos los materiales conducen la electricidad de la misma forma, sin diferencias
+d) El cobre es un material aislador, por eso se usa para cubrir los cables por fuera
 
 **17.** *(Alternativas)* Un grupo de estudiantes arma un circuito simple con una
 pila y una ampolleta, y prueba cerrar el circuito primero con una moneda de metal y
@@ -197,15 +221,19 @@ d) Con ninguno de los dos, porque ambos son aislantes
 cables eléctricos y utensilios de cocina. Según sus propiedades, el aluminio es un
 material:
 
-a) Aislador, porque impide el paso de la corriente
+a) Aislador, porque impide el paso de la corriente eléctrica
 b) Conductor, porque permite el paso de la corriente con facilidad
-c) Neutro, porque no participa en circuitos eléctricos
-d) Orgánico, por lo que no conduce electricidad
+c) Neutro, porque no participa en los circuitos eléctricos
+d) Orgánico, por lo que no conduce bien la electricidad
 
-**19.** *(Desarrollo extenso, 3 puntos)* Explica por qué los cables eléctricos
+**19.** *(Alternativas, 3 puntos)* ¿Por qué los cables eléctricos
 combinan un material conductor (como el cobre) en su interior con un material
-aislador (como el plástico) en su exterior. En tu respuesta, describe la función
-específica de cada uno de los dos materiales.
+aislador (como el plástico) en su exterior?
+
+a) El conductor permite que la corriente circule hacia donde se necesita y el aislador evita que llegue a las personas: cumplen funciones complementarias
+b) El conductor evita las descargas eléctricas a las personas y el aislador permite que la corriente circule hacia los aparatos que la necesitan
+c) Los dos materiales cumplen la misma función: ambos conducen la corriente, y usar dos materiales solo hace que el cable sea más resistente
+d) El plástico conduce la corriente hacia los aparatos y el cobre solo le da color al cable, para distinguir los distintos tipos de cables
 
 ---
 
@@ -219,8 +247,8 @@ del agua dulce en la Tierra es correcta?
 a) La mayor parte del agua dulce está disponible en forma líquida en ríos y lagos
 b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como
    agua subterránea
-c) No existe agua dulce en estado sólido
-d) El agua dulce representa cerca del 97% del agua del planeta
+c) No existe agua dulce en estado sólido: toda el agua congelada del planeta es salada
+d) El agua dulce representa cerca del 97 % del agua del planeta, y el resto es agua salada
 
 **21.** *(Alternativas)* ¿Cuál de los siguientes lugares de Chile es reconocido por
 concentrar una de las principales reservas de agua dulce del país?
@@ -230,9 +258,14 @@ b) El océano Pacífico frente a Valparaíso
 c) El Campo de Hielo Sur
 d) La bahía de Antofagasta
 
-**22.** *(Desarrollo breve, 2 puntos)* Describe el papel que juegan los glaciares y
-las nubes en el ciclo del agua, y explica cómo se relacionan con la disponibilidad
-de agua dulce.
+**22.** *(Alternativas, 2 puntos)* ¿Qué papel juegan los glaciares y
+las nubes en el ciclo del agua y en la disponibilidad
+de agua dulce?
+
+a) Los glaciares producen agua salada al derretirse, y las nubes la guardan durante el verano para devolverla al mar
+b) Las nubes congelan el agua de los ríos en invierno y los glaciares la evaporan, formando nuevas nubes cada día
+c) No participan en el ciclo del agua: los glaciares y las nubes no se relacionan con los ríos ni con el agua dulce
+d) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve
 
 ---
 
@@ -241,11 +274,11 @@ de agua dulce.
 **23.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre la actividad
 humana y los cuerpos de agua es correcta?
 
-a) Todas las actividades humanas relacionadas con el agua son negativas
+a) Todas las actividades humanas relacionadas con el agua son negativas, porque siempre la contaminan
 b) Existen también acciones humanas positivas, como el tratamiento de aguas
    servidas antes de devolverlas a un río o al mar
-c) La actividad humana nunca afecta a ríos, lagos u océanos
-d) Solo las fábricas afectan a los cuerpos de agua
+c) La actividad humana nunca afecta a ríos, lagos u océanos, porque el agua se limpia sola
+d) Solo las fábricas afectan a los cuerpos de agua; las casas, la agricultura y las plantas de tratamiento no los afectan
 
 **24.** *(Alternativas)* ¿Cuál de las siguientes formas de contaminación afecta
 principalmente a la costa y al océano, y no directamente a un río?
@@ -255,16 +288,22 @@ b) Un derrame de petróleo en el mar
 c) La sobreexplotación de aguas subterráneas de un valle
 d) El retroceso de un glaciar cordillerano
 
-**25.** *(Desarrollo extenso, 3 puntos)* Propón **dos acciones concretas** que tú,
-tu familia o tu comunidad podrían realizar para proteger las reservas hídricas de
-Chile (ríos, lagos, glaciares u océanos), y explica brevemente por qué cada una
-ayuda a conservar el agua.
+**25.** *(Varias correctas, 3 puntos)* ¿Qué acciones concretas podrían realizar tú,
+tu familia o tu comunidad para proteger las reservas hídricas de
+Chile (ríos, lagos, glaciares u océanos), con una razón correcta?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) No botar basura ni químicos en ríos o canales, porque evita contaminar el agua
+b) Reducir el consumo innecesario de agua en la casa, porque conserva un recurso escaso
+c) Lavar el auto con la manguera abierta, porque así se limpia mejor
+d) Participar en limpiezas de playas o riberas, porque protege los ecosistemas acuáticos
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -279,85 +318,41 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 1 | Alternativas | a) Célula → tejido → órgano → sistema | OA 1 |
 | 2 | Alternativas | c) Órgano | OA 1 |
 | 3 | Alternativas | c) Sistema | OA 1 |
-| 4 | Desarrollo breve | Respuesta abierta: debe nombrar un sistema distinto del digestivo (p. ej. respiratorio: nariz filtra el aire, tráquea lo conduce, pulmones realizan el intercambio de gases) y describir la coordinación de al menos dos órganos dentro de ese sistema. | OA 1 |
+| 4 | Alternativas | **a) Sistema respiratorio: la nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases.** Un sistema coordina varios órganos para cumplir una función común; en el respiratorio, nariz, tráquea y pulmones trabajan juntos. | OA 1 |
 | 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas | OA 5 |
 | 6 | Alternativas | d) Una naranja | OA 5 |
-| 7 | Desarrollo breve | Porque la carne y las legumbres son ricas en proteínas, el nutriente principal que el cuerpo utiliza para construir y reparar tejidos, como músculos y piel. | OA 5 |
-| 8 | Desarrollo extenso | Comer siempre un solo grupo de nutrientes es dañino porque el cuerpo necesita variedad de nutrientes para cumplir distintas funciones (reparación, energía, desarrollo general); en este caso, arroz con papas fritas aporta principalmente carbohidratos y grasas, pero faltan proteínas (reparación y crecimiento) y vitaminas y minerales (desarrollo general, presentes en frutas y verduras). | OA 5 |
+| 7 | Alternativas | **d) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos como músculos y piel.** | OA 5 |
+| 8 | Alternativas | **d) Porque el cuerpo necesita variedad de nutrientes; esa dieta aporta sobre todo carbohidratos y grasas, y le faltan proteínas y vitaminas y minerales.** Cada grupo de nutrientes cumple funciones distintas (reparación, energía, desarrollo general); faltan proteínas para la reparación y vitaminas y minerales, presentes en frutas y verduras. | OA 5 |
 | 9 | Alternativas | c) Asma | OA 6 |
 | 10 | Alternativas | a) Arritmia | OA 6 |
-| 11 | Desarrollo breve | Respuesta abierta: por ejemplo, evitar espacios cerrados donde se fuma, pedir que no se fume dentro de la casa o el auto, promover espacios libres de humo. | OA 6 |
+| 11 | Varias correctas | **a, b y d.** Abrir una ventana no impide respirar el humo de quien fuma cerca; las otras medidas sí reducen la exposición. | OA 6 |
 | 12 | Alternativas | d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones | OA 7 |
 | 13 | Alternativas | b) 2 (la levadura y el champiñón son beneficiosos; la bacteria de la infección intestinal y el virus del resfriado son dañinos) | OA 7 |
 | 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel | OA 7 |
-| 15 | Desarrollo breve | Una enfermedad infectocontagiosa es causada por un microorganismo (bacteria, virus u hongo) y puede transmitirse de una persona a otra. Ejemplo válido (distinto de la gripe): el pie de atleta (hongo), una infección intestinal (bacteria), un resfriado común (virus), entre otros. | OA 7 |
+| 15 | Alternativas | **c) Es causada por un microorganismo y se transmite entre personas; por ejemplo, el resfriado común (virus).** Otros ejemplos válidos distintos de la gripe: el pie de atleta (hongo) o una infección intestinal (bacteria). | OA 7 |
 | 16 | Alternativas | b) El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente | OA 10 |
 | 17 | Alternativas | c) Con la moneda de metal, porque es conductora | OA 10 |
 | 18 | Alternativas | b) Conductor, porque permite el paso de la corriente con facilidad | OA 10 |
-| 19 | Desarrollo extenso | El material conductor (cobre) en el interior permite que la corriente eléctrica circule hacia donde se necesita; el material aislador (plástico) en el exterior evita que la corriente entre en contacto con las personas, previniendo descargas eléctricas. Ambos materiales cumplen funciones complementarias y necesarias en un mismo cable. | OA 10 |
+| 19 | Alternativas | **a) El conductor permite que la corriente circule hacia donde se necesita y el aislador evita que llegue a las personas: cumplen funciones complementarias.** El cobre del interior conduce la corriente; el plástico del exterior aísla y previene descargas eléctricas. | OA 10 |
 | 20 | Alternativas | b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea | OA 12 |
 | 21 | Alternativas | c) El Campo de Hielo Sur | OA 12 |
-| 22 | Desarrollo breve | Los glaciares almacenan agua dulce congelada que se libera lentamente hacia ríos y lagos; las nubes transportan el agua evaporada (proveniente en gran parte del océano) y la devuelven a la superficie como lluvia o nieve, alimentando los depósitos de agua dulce. Ambos forman parte del ciclo continuo del agua. | OA 12 |
+| 22 | Alternativas | **d) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.** Ambos forman parte del ciclo continuo del agua y alimentan los depósitos de agua dulce. | OA 12 |
 | 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar | OA 14 |
 | 24 | Alternativas | b) Un derrame de petróleo en el mar | OA 14 |
-| 25 | Desarrollo extenso | Respuesta abierta: acciones válidas incluyen no botar basura ni químicos en ríos o canales (evita la contaminación del agua y protege a los seres vivos que dependen de ella), reducir el consumo innecesario de agua en la casa (ayuda a conservar un recurso escaso), participar en limpiezas de playas o riberas, o apoyar campañas de cuidado del agua. Se debe explicar por qué cada acción ayuda a conservar el recurso hídrico. | OA 14 |
+| 25 | Varias correctas | **a, b y d.** Cada acción correcta protege el agua por una razón distinta; dejar la manguera abierta la desperdicia. | OA 14 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 4 (2 puntos)
-
-- Nombra un sistema del cuerpo humano distinto del digestivo — **1 punto**
-- Describe la coordinación de al menos dos órganos dentro de ese sistema — **1 punto**
-
-### Pregunta 7 (2 puntos)
-
-- Identifica las proteínas como el nutriente principal involucrado — **1 punto**
-- Relaciona las proteínas con la construcción y reparación de tejidos, como músculos y piel — **1 punto**
-
-### Pregunta 8 (3 puntos)
-
-- Explica que el cuerpo necesita variedad de nutrientes para funciones distintas — **1 punto**
-- Identifica que la dieta descrita aporta principalmente carbohidratos y grasas — **1 punto**
-- Señala que faltan proteínas y vitaminas y minerales — **1 punto**
-
-### Pregunta 11 (2 puntos)
-
-- Menciona una medida válida frente al humo de tabaco ajeno — **1 punto**
-- Menciona una segunda medida distinta y pertinente — **1 punto**
-
-### Pregunta 15 (2 puntos)
-
-- Define enfermedad infectocontagiosa como causada por un microorganismo y transmisible entre personas — **1 punto**
-- Da un ejemplo válido distinto de la gripe — **1 punto**
-
-### Pregunta 19 (3 puntos)
-
-- Explica la función del conductor: permite que la corriente circule hacia donde se necesita — **1 punto**
-- Explica la función del aislador: evita el contacto con las personas y previene descargas — **1 punto**
-- Concluye que ambos materiales cumplen funciones complementarias y necesarias en el mismo cable — **1 punto**
-
-### Pregunta 22 (2 puntos)
-
-- Explica el papel de los glaciares: almacenan agua dulce congelada que se libera hacia ríos y lagos — **1 punto**
-- Explica el papel de las nubes: transportan el agua evaporada y la devuelven como lluvia o nieve — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Propone dos acciones concretas y pertinentes — **1 punto**
-- Explica por qué la primera acción ayuda a conservar el recurso hídrico — **1 punto**
-- Explica por qué la segunda acción ayuda a conservar el recurso hídrico — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
-- **17 preguntas de alternativas** × 1 punto = 17 puntos
-- **5 preguntas de desarrollo breve** (N° 4, 7, 11, 15, 22) × 2 puntos = 10 puntos
-- **3 preguntas de desarrollo extenso** (N° 8, 19, 25) × 3 puntos = 9 puntos
+- **17 preguntas** × 1 punto = 17 puntos
+- **5 preguntas de mayor complejidad** (N° 4, 7, 11, 15, 22) × 2 puntos = 10 puntos
+- **3 preguntas de mayor complejidad** (N° 8, 19, 25) × 3 puntos = 9 puntos
 - **Puntaje total de la prueba: 36 puntos**
 
 ### Distribución de preguntas por Eje y OA
@@ -384,13 +379,13 @@ ejemplos, materiales, escenarios y formulaciones distintos para cada OA.
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4 | 3 | 1 |
-| OA 5 | 5, 6, 7, 8 | 2 | 2 |
-| OA 6 | 9, 10, 11 | 2 | 1 |
-| OA 7 | 12, 13, 14, 15 | 3 | 1 |
-| OA 10 | 16, 17, 18, 19 | 3 | 1 |
-| OA 12 | 20, 21, 22 | 2 | 1 |
-| OA 14 | 23, 24, 25 | 2 | 1 |
-| **Total** | **25 preguntas** | **17** | **8** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 4 |
+| OA 5 | 5, 6, 7, 8 | 4 |
+| OA 6 | 9, 10, 11 | 3 |
+| OA 7 | 12, 13, 14, 15 | 4 |
+| OA 10 | 16, 17, 18, 19 | 4 |
+| OA 12 | 20, 21, 22 | 3 |
+| OA 14 | 23, 24, 25 | 3 |
+| **Total** | **25 preguntas** | **25** |

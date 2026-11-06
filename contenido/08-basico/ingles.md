@@ -114,19 +114,21 @@ frente a lo leído.
 1. *(Alternativas)* Read: *"Smartphones changed the way teenagers communicate.
    Today, most messages are sent through apps instead of phone calls."* ¿Cuál
    resumen es más adecuado?
-   a) Teenagers never use phones.
-   b) Smartphones changed how teenagers communicate; now they text more than they call.
-   c) Apps are difficult to use.
-   d) Phone calls are more popular than apps.
-   **Respuesta correcta:** b.
+   a) Teenagers never use phones to communicate with their friends or their families.
+   b) Apps are difficult to use, so teenagers prefer phone calls.
+   c) Smartphones changed how teenagers communicate; now they text more than they call.
+   d) Phone calls are more popular than apps among teenagers today.
+   **Respuesta correcta:** c.
    **Retroalimentación:** Un buen resumen recoge la idea general con palabras
    propias, sin copiar el texto ni inventar datos.
 
-2. *(Completar)* Complete the summary: *"This text is ___ recycling. It explains
-   why it is important ___ protect the environment."* (about / to)
-   **Respuesta correcta:** about / to.
-   **Retroalimentación:** *About* introduce el tema del resumen; *to protect*
-   expresa el propósito (infinitivo de finalidad).
+2. *(Alternativas — Completar)* Complete the summary: *"This text is ___ recycling. It explains why it is important ___ protect the environment."*
+   a) about / to
+   b) of / for
+   c) to / about
+   d) in / at
+   **Respuesta correcta:** a) about / to.
+   **Retroalimentación:** *About* introduce el tema del resumen; *to protect* expresa el propósito (infinitivo de finalidad).
 
 3. *(Verdadero o falso)* Read: *"Chile has many festivals, like Fiestas Patrias
    in September."* Statement: *A summary should copy full sentences from the
@@ -135,59 +137,56 @@ frente a lo leído.
    **Retroalimentación:** Un resumen usa palabras propias y es más breve que el
    texto original; copiar oraciones completas no es resumir.
 
-4. *(Responder en inglés)* Read: *"In Peru, people celebrate Inti Raymi, a
-   festival that honors the sun."* Answer: *Does your country have a festival
-   that celebrates nature? What is it?*
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *Yes, in
-   Chile we celebrate We Tripantu, the Mapuche new year, which celebrates
-   nature.*
-   **Retroalimentación:** Se evalúa la conexión entre el texto leído y el
-   contexto propio o cultural del estudiante.
+4. *(Alternativas — Conectar con el propio contexto)* Read: *"In Peru, people celebrate Inti Raymi, a festival that honors the sun."* *Does your country have a festival that celebrates nature?* Which answer connects the text with the Chilean context correctly?
+   a) Yes, in Peru we celebrate Inti Raymi, a festival that honors the sun.
+   b) No, because the sun is very hot in summer and we don't have any festivals in my country.
+   c) Yes, I like pizza and I eat it with my family on Sundays.
+   d) Yes, in Chile we celebrate We Tripantu, the Mapuche new year, which celebrates nature.
+   **Respuesta correcta:** d) Yes, in Chile we celebrate We Tripantu, the Mapuche new year, which celebrates nature.
+   **Retroalimentación:** Se espera conectar el texto leído con el contexto propio: We Tripantu es una celebración mapuche vinculada a la naturaleza y al ciclo del sol.
 
-5. *(Emparejar)* Relaciona la acción con la habilidad que representa:
-   *"Writing three questions about a text you just read"* → ¿"resumir" o
-   "generar preguntas"?
-   **Respuesta correcta:** generar preguntas.
-   **Retroalimentación:** Formular preguntas propias sobre un texto amplía la
-   comprensión; resumir consiste en sintetizar lo leído, no en preguntar.
+5. *(Alternativas — Habilidades)* ¿Qué habilidad representa *"Writing three questions about a text you just read"*?
+   a) Resumir
+   b) Memorizar
+   c) Traducir
+   d) Generar preguntas
+   **Respuesta correcta:** d) Generar preguntas.
+   **Retroalimentación:** Formular preguntas propias sobre un texto amplía la comprensión; resumir consiste en sintetizar lo leído, no en preguntar.
 
-6. *(Completar)* Complete a table with information from the text: *"Marco is
-   from Argentina. He is 14 years old and he loves playing the guitar."*
-   Country: ___ / Age: ___ / Hobby: ___
-   **Respuesta correcta:** Argentina / 14 / playing the guitar.
-   **Retroalimentación:** Completar tablas exige extraer datos específicos y
-   ordenarlos según la categoría pedida.
+6. *(Alternativas — Completar)* Read: *"Marco is from Argentina. He is 14 years old and he loves playing the guitar."* Complete: Country: ___ / Age: ___ / Hobby: ___
+   a) Chile / 14 / playing soccer
+   b) Argentina / 41 / playing the guitar
+   c) Argentina / 14 / playing the guitar
+   d) 14 / Argentina / guitar
+   **Respuesta correcta:** c) Argentina / 14 / playing the guitar.
+   **Retroalimentación:** Completar tablas exige extraer datos específicos y ordenarlos según la categoría pedida.
 
 7. *(Alternativas — desafiante)* Read: *"Renewable energy, like solar and wind
    power, is becoming more common because it doesn't pollute the air."* ¿Qué
    pregunta amplía mejor la información del texto (en vez de repetirla)?
-   a) What is renewable energy?
-   b) Why is solar energy popular in some countries but not others?
-   c) Is solar energy renewable?
-   d) Does wind power exist?
-   **Respuesta correcta:** b.
+   a) What is renewable energy and how is it produced in factories?
+   b) Is solar energy renewable, like wind power?
+   c) Why is solar energy popular in some countries but not others?
+   d) Does wind power exist in other countries too?
+   **Respuesta correcta:** c.
    **Retroalimentación:** Las preguntas que amplían información buscan razones o
    consecuencias no mencionadas directamente, no solo repiten datos del texto.
 
-8. *(Escribir un resumen — desafiante)* Read: *"Learning a second language helps
-   your brain. Studies show bilingual people can solve problems faster and
-   remember things better. It can also help you find a job in the future."*
-   Write a summary in 3 sentences.
-   **Respuesta esperada:** Respuesta personal breve y fiel al texto, por
-   ejemplo: *"This text is about the benefits of learning a second language. It
-   helps your brain solve problems and remember better. It can also help you get
-   a job."*
-   **Retroalimentación:** Se evalúa que el resumen tenga 3-4 oraciones propias,
-   cubra las ideas principales (beneficios cognitivos y laborales) y no copie el
-   texto literalmente.
+8. *(Alternativas — Resumen — desafiante)* Read: *"Learning a second language helps your brain. Studies show bilingual people can solve problems faster and remember things better. It can also help you find a job in the future."* Which is the best summary?
+   a) This text is about the benefits of learning a second language. It helps your brain solve problems and remember better. It can also help you get a job.
+   b) Learning a second language helps your brain. Bilingual people can solve problems faster.
+   c) This text is about how to find a job in another country and how to write a good CV in English.
+   d) This text is about bilingual people. They are faster runners and better singers than other people, and they find jobs more easily in sports and music.
+   **Respuesta correcta:** a) This text is about the benefits of learning a second language. It helps your brain solve problems and remember better. It can also help you get a job.
+   **Retroalimentación:** Un buen resumen cubre las ideas principales (beneficios cognitivos y laborales) con palabras propias; una sola oración es incompleta y las otras cambian el sentido del texto.
 
-9. *(Responder en inglés — desafiante)* Read: *"Some cities are building more
-   bike lanes to reduce traffic and pollution."* Answer with your opinion: *Do
-   you agree with this idea? Why?*
-   **Respuesta esperada:** Respuesta personal con *because*, por ejemplo: *I
-   agree because bike lanes reduce pollution and are healthier for people.*
-   **Retroalimentación:** Se evalúa la postura (*I agree/disagree*) más una
-   razón coherente, siguiendo el modelo de años anteriores.
+9. *(Varias correctas — Opinión — desafiante)* Read: *"Some cities are building more bike lanes to reduce traffic and pollution."* Which answers express an opinion with a coherent reason? Marca **todas** las correctas.
+   a) I agree because bike lanes reduce pollution and are healthier for people.
+   b) I disagree because some streets are too narrow for cars and bikes.
+   c) I agree because bikes are purple.
+   d) Bike lanes.
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Se espera la postura (*I agree/disagree*) más una razón coherente; ambas posturas son válidas si están bien fundamentadas.
 
 ---
 
@@ -256,18 +255,20 @@ discussion*).
 1. *(Alternativas)* Read: *"Warning! Do not swim here. Strong currents can be
    dangerous."* ¿Cuál es el propósito de este texto?
    a) To entertain
-   b) To warn/instruct
+   b) To tell a story
    c) To describe a person
-   d) To tell a story
-   **Respuesta correcta:** b) To warn/instruct.
+   d) To warn/instruct
+   **Respuesta correcta:** d) To warn/instruct.
    **Retroalimentación:** Los avisos de seguridad tienen la finalidad de advertir
    o instruir al lector para evitar un peligro.
 
-2. *(Completar)* Complete with the correct connector: *"I did my homework.
-   ___, I watched a movie."* (Then / Until)
-   **Respuesta correcta:** Then.
-   **Retroalimentación:** *Then* (luego/entonces) indica lo que ocurrió después
-   en una secuencia; *until* marca un límite de tiempo, no un siguiente paso.
+2. *(Alternativas — Completar)* Complete with the correct connector: *"I did my homework. ___, I watched a movie."*
+   a) Until
+   b) Because
+   c) Although
+   d) Then
+   **Respuesta correcta:** d) Then.
+   **Retroalimentación:** *Then* indica lo que ocurrió después en una secuencia; *until* marca un límite de tiempo, no un siguiente paso.
 
 3. *(Verdadero o falso)* Read: *"If the weather is good, we will go to the
    beach."* Statement: *This sentence expresses a condition.*
@@ -275,51 +276,57 @@ discussion*).
    **Retroalimentación:** La estructura *if... will...* expresa que el viaje a
    la playa depende de una condición (el buen tiempo).
 
-4. *(Completar)* Complete with the comparative form: *"This laptop is ___
-   (cheap) than that one."*
-   **Respuesta correcta:** cheaper.
-   **Retroalimentación:** Para adjetivos cortos, el comparativo se forma
-   agregando *-er*: *cheap → cheaper*.
+4. *(Alternativas — Completar)* Complete: *"This laptop is ___ than that one."* (cheap, comparative)
+   a) more cheap
+   b) cheapest
+   c) cheaper
+   d) the cheapest
+   **Respuesta correcta:** c) cheaper.
+   **Retroalimentación:** Para adjetivos cortos, el comparativo se forma agregando *-er*: *cheap → cheaper*.
 
-5. *(Emparejar)* Relaciona el verbo con su sustantivo derivado: *"create"* → ¿
-   "creation" o "creater"?
-   **Respuesta correcta:** creation.
-   **Retroalimentación:** El sufijo *-ion* transforma el verbo *create* en el
-   sustantivo *creation* (creación); no existe la palabra "creater" en inglés.
+5. *(Alternativas — Vocabulario)* What is the noun derived from the verb *"create"*?
+   a) creater
+   b) createment
+   c) creation
+   d) creatly
+   **Respuesta correcta:** c) creation.
+   **Retroalimentación:** El sufijo *-ion* transforma el verbo *create* en el sustantivo *creation*; "creater" no existe en inglés.
 
-6. *(Responder en inglés)* Read: *"Wait until the light turns green before you
-   cross the street."* Answer: *When should you cross the street?*
-   **Respuesta esperada:** *You should cross when the light turns green.* /
-   *After the light turns green.*
-   **Retroalimentación:** *Until* marca el momento límite: hay que esperar hasta
-   que ocurra ese evento (la luz se pone verde).
+6. *(Alternativas — Comprensión)* Read: *"Wait until the light turns green before you cross the street."* *When should you cross the street?*
+   a) When the light turns green.
+   b) Before the light turns green.
+   c) When the light is red.
+   d) Never.
+   **Respuesta correcta:** a) When the light turns green.
+   **Retroalimentación:** *Until* marca el momento límite: hay que esperar hasta que la luz se ponga verde.
 
 7. *(Alternativas — desafiante)* Read: *"The concert was cancelled, so many
    fans were disappointed. Maybe they will reschedule it for next month."* ¿Qué
    función cumple la palabra *"so"* en la oración?
-   a) Añade información
-   b) Expresa una consecuencia
+   a) Expresa una consecuencia
+   b) Añade información
    c) Expresa una condición
    d) Expresa posibilidad
-   **Respuesta correcta:** b) Expresa una consecuencia.
+   **Respuesta correcta:** a) Expresa una consecuencia.
    **Retroalimentación:** *So* conecta una causa (se canceló el concierto) con su
    consecuencia (los fans quedaron decepcionados); *maybe*, en cambio, expresa
    posibilidad.
 
-8. *(Completar — desafiante)* Complete: *"This app is very useful. It ___
-   (also) helps you practice English."* (Choose: also / until)
-   **Respuesta correcta:** also.
-   **Retroalimentación:** *Also* (también) agrega información nueva relacionada;
-   *until* no tiene sentido en este contexto porque no marca un límite de
-   tiempo.
+8. *(Alternativas — Completar — desafiante)* Complete: *"This app is very useful. It ___ helps you practice English."*
+   a) until
+   b) before
+   c) then
+   d) also
+   **Respuesta correcta:** d) also.
+   **Retroalimentación:** *Also* (también) agrega información nueva; *until* no tiene sentido aquí porque no marca un límite de tiempo.
 
 9. *(Alternativas — desafiante)* Read a diagram with two graphs comparing
    internet use in 2010 and 2024. ¿Qué habilidad se necesita para responder
    preguntas sobre este texto?
    a) Interpretar información visual junto con el texto
-   b) Memorizar todo el vocabulario
-   c) Ignorar los gráficos
-   d) Escribir una biografía
+   b) Memorizar todo el vocabulario del texto
+   c) Ignorar los gráficos y leer solo el texto
+   d) Escribir una biografía de quien hizo el gráfico
    **Respuesta correcta:** a) Interpretar información visual junto con el texto.
    **Retroalimentación:** Los textos con gráficos exigen relacionar la
    información visual (números, tendencias) con las ideas expresadas en el
@@ -384,28 +391,31 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"I ___ soccer ___ basketball because soccer is more
-   popular in my school."* (prefer / than or to)
-   **Respuesta correcta:** prefer / to.
-   **Retroalimentación:** La estructura es *prefer + [algo] + to + [algo]* para
-   comparar dos opciones y justificar la elección.
+1. *(Alternativas — Completar)* Complete: *"I ___ soccer ___ basketball because soccer is more popular in my school."*
+   a) prefer / than
+   b) prefer / to
+   c) rather / to
+   d) like / then
+   **Respuesta correcta:** b) prefer / to.
+   **Retroalimentación:** La estructura es *prefer + [algo] + to + [algo]* para comparar dos opciones.
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada
    sobre otra cultura?
-   a) Japan has many people.
+   a) Japan has many people and many big cities.
    b) I prefer Japanese food because I love sushi and rice dishes.
-   c) There are many countries in Asia.
-   d) Tokyo is a city.
+   c) There are many countries in Asia, like Japan and China.
+   d) Tokyo is a city in Japan with tall buildings.
    **Respuesta correcta:** b.
    **Retroalimentación:** Solo la opción b) combina una preferencia (*I
    prefer*) con una razón (*because*); las demás solo describen datos.
 
-3. *(Completar)* Complete about a trip: *"Last year, we ___ (visit) a small
-   town in the south of Chile. It ___ (be) an unforgettable trip."* (usa el
-   pasado simple)
-   **Respuesta correcta:** visited / was.
-   **Retroalimentación:** *Last year* indica una acción terminada en el pasado,
-   por lo que ambos verbos van en pasado simple.
+3. *(Alternativas — Completar)* Complete about a trip: *"Last year, we ___ a small town in the south of Chile. It ___ an unforgettable trip."* (visit / be, simple past)
+   a) visit / is
+   b) visited / were
+   c) visited / was
+   d) visiting / was
+   **Respuesta correcta:** c) visited / was.
+   **Retroalimentación:** *Last year* indica una acción terminada: ambos verbos van en pasado simple (*it* → *was*).
 
 4. *(Verdadero o falso)* La oración *"In my opinion, learning about other
    cultures makes us more open-minded"* es apropiada para expresar una opinión
@@ -414,37 +424,38 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    **Retroalimentación:** *In my opinion* introduce una valoración personal
    sobre el tema de la diversidad cultural, tal como pide este OA.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"I would like
-   to visit ___ because ___."* Escribe tu propia versión.
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"I would
-   like to visit Italy because I love pizza and I'm interested in Roman
-   history."*
-   **Retroalimentación:** Se evalúa que el país y la razón estén conectados de
-   forma lógica y usen la estructura *because*.
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"I would like to visit ___ because ___."* with a logical connection?
+   a) Italy / I love pizza and I'm interested in Roman history
+   b) Italy / I don't know where it is or what people eat there
+   c) pizza / Italy, because I love Roman history and pizza
+   d) because / Italy, I would like to visit pizza and history
+   **Respuesta correcta:** a) Italy / I love pizza and I'm interested in Roman history.
+   **Retroalimentación:** El lugar y la razón deben estar conectados de forma lógica mediante *because*.
 
-6. *(Emparejar)* Relaciona la expresión con su función: *"I'd rather stay
-   home"* → ¿"expresar una preferencia" o "dar información explícita"?
-   **Respuesta correcta:** expresar una preferencia.
-   **Retroalimentación:** *I'd rather* (preferiría) es una forma de expresar
-   preferencia, similar a *I prefer*, no de entregar datos objetivos.
+6. *(Alternativas — Función)* ¿Qué función cumple la expresión *"I'd rather stay home"*?
+   a) Dar información explícita
+   b) Dar una orden
+   c) Describir un lugar
+   d) Expresar una preferencia
+   **Respuesta correcta:** d) Expresar una preferencia.
+   **Retroalimentación:** *I'd rather* (preferiría) expresa preferencia, como *I prefer*.
 
-7. *(Completar — desafiante)* Complete a caption for a picture of a market in
-   Mexico: *"This picture shows ___. I would love to visit this place because
-   ___."*
-   **Respuesta esperada:** Respuesta coherente, por ejemplo: *"This picture
-   shows a colorful market in Mexico. I would love to visit this place because
-   I want to try the local food and see the traditional crafts."*
-   **Retroalimentación:** Un buen pie de foto describe la imagen y agrega una
-   reflexión o preferencia personal relacionada con recursos multimodales.
+7. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a market in Mexico: *"This picture shows ___. I would love to visit this place because ___."*
+   a) a beach in Chile / I want to try the local food and see the traditional crafts
+   b) a colorful market in Mexico / I want to try the local food and see the traditional crafts
+   c) a colorful market in Mexico / it is Tuesday and I don't have school today, so I can go
+   d) a market / Mexico
+   **Respuesta correcta:** b) a colorful market in Mexico / I want to try the local food and see the traditional crafts.
+   **Retroalimentación:** Un buen pie de foto describe la imagen y agrega una preferencia personal coherente con ella.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un problema global
    (contaminación por plástico) y debes expresar tu preferencia entre dos
    soluciones. ¿Qué oración es la más adecuada?
-   a) Plastic is a material.
+   a) Plastic is a material that people use to make bottles, bags and many other things.
    b) I prefer using reusable bottles to buying plastic ones because they
       reduce waste in the ocean.
-   c) The ocean is big.
-   d) I don't like plastic.
+   c) The ocean is very big, and many animals live in it, like whales, fish and turtles.
+   d) I don't like plastic, and I don't like reusable bottles either, because they are heavy.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración combina preferencia (*I prefer*),
    comparación (*to buying plastic ones*) y una razón (*because*), cumpliendo
@@ -524,27 +535,31 @@ adverbios y conectores (*never/always/sometimes*; *first/next/then*).
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"There are ___ people at the concert tonight."*
-   (a lot of / a lot)
-   **Respuesta correcta:** a lot of.
-   **Retroalimentación:** *A lot of* se usa antes de un sustantivo (*people*);
-   *a lot* se usa solo, sin sustantivo después.
+1. *(Alternativas — Completar)* Complete: *"There are ___ people at the concert tonight."*
+   a) a lot
+   b) much
+   c) a lot of
+   d) a few of
+   **Respuesta correcta:** c) a lot of.
+   **Retroalimentación:** *A lot of* se usa antes de un sustantivo (*people*); *a lot* se usa solo, sin sustantivo después.
 
 2. *(Alternativas)* ¿Qué oración expresa correctamente un plan futuro ya
    decidido?
-   a) I go to Brazil last year.
+   a) I go to Brazil last year with my family.
    b) I'm going to visit Brazil next summer.
-   c) I visit Brazil sometimes.
-   d) I visited Brazil yesterday.
+   c) I visit Brazil sometimes in the summer.
+   d) I visited Brazil yesterday with my friends.
    **Respuesta correcta:** b.
    **Retroalimentación:** *Going to* se usa para planes futuros que ya están
    decididos, a diferencia del pasado simple o el presente simple.
 
-3. *(Completar)* Complete with the superlative: *"This is ___ (expensive)
-   restaurant in the city."*
-   **Respuesta correcta:** the most expensive.
-   **Retroalimentación:** Los adjetivos largos forman el superlativo con *the
-   most + adjetivo*, no agregando *-est*.
+3. *(Alternativas — Completar)* Complete with the superlative: *"This is ___ restaurant in the city."* (expensive)
+   a) the most expensive
+   b) the expensivest
+   c) more expensive
+   d) most expensive than
+   **Respuesta correcta:** a) the most expensive.
+   **Retroalimentación:** Los adjetivos largos forman el superlativo con *the most + adjetivo*.
 
 4. *(Verdadero o falso)* La oración *"I think robots will do many jobs in the
    future"* es una predicción.
@@ -552,65 +567,71 @@ adverbios y conectores (*never/always/sometimes*; *first/next/then*).
    **Retroalimentación:** *Will* se usa para hacer predicciones sobre el
    futuro, especialmente con expresiones como *I think*.
 
-5. *(Emparejar)* Relaciona la preposición con su uso: *"in December"* → ¿"un
-   momento exacto" o "un mes o período más largo"?
-   **Respuesta correcta:** un mes o período más largo.
-   **Retroalimentación:** *In* se usa con meses, años y períodos largos; *at*
-   se usa con horas exactas (*at 5 o'clock*) y *on* con días (*on Monday*).
+5. *(Alternativas — Preposiciones)* ¿Para qué se usa *in* en *"in December"*?
+   a) Para una hora exacta
+   b) Para un día de la semana
+   c) Para un lugar exacto
+   d) Para un mes o período más largo
+   **Respuesta correcta:** d) Para un mes o período más largo.
+   **Retroalimentación:** *In* se usa con meses, años y períodos largos; *at* con horas exactas y *on* con días.
 
-6. *(Completar)* Complete: *"I don't mind ___ (wait) for the bus, but I hate
-   ___ (arrive) late."* (usa gerundio)
-   **Respuesta correcta:** waiting / arriving.
-   **Retroalimentación:** Después de *don't mind* y *hate* (cuando expresan
-   gusto o disgusto general) se usa el verbo en gerundio (*-ing*).
+6. *(Alternativas — Completar)* Complete: *"I don't mind ___ for the bus, but I hate ___ late."* (wait / arrive)
+   a) wait / arrive
+   b) waiting / arriving
+   c) to waiting / arrived
+   d) waited / arrive
+   **Respuesta correcta:** b) waiting / arriving.
+   **Retroalimentación:** Después de *don't mind* y *hate* (gusto o disgusto general) se usa el gerundio.
 
-7. *(Responder en inglés)* Answer the question: *"— When is your birthday
-   party? — ___"* (responde con día y hora)
-   **Respuesta esperada:** Respuesta con estructura correcta, por ejemplo: *It's
-   on Saturday, at 6 o'clock.*
-   **Retroalimentación:** Se espera *on* + día y *at* + hora, siguiendo el
-   modelo de dar información sobre tiempo.
+7. *(Alternativas — Respuesta)* *"— When is your birthday party? — ___"* Which answer uses the prepositions correctly?
+   a) It's in Saturday, on 6 o'clock.
+   b) It's at Saturday, in 6 o'clock.
+   c) It's on Saturday, at 6 o'clock.
+   d) It's on Saturday, in 6 o'clock.
+   **Respuesta correcta:** c) It's on Saturday, at 6 o'clock.
+   **Retroalimentación:** Se usa *on* + día y *at* + hora.
 
-8. *(Completar — desafiante)* Complete with going to or will: *"Look at those
-   clouds! It ___ (rain) soon."* (decisión espontánea/predicción con evidencia)
-   **Respuesta correcta:** is going to rain.
-   **Retroalimentación:** Cuando hay evidencia visible en el momento (nubes
-   oscuras), se usa *going to* para predecir; *will* se reserva para
-   predicciones sin evidencia inmediata o decisiones espontáneas.
+8. *(Alternativas — Completar — desafiante)* Complete: *"Look at those clouds! It ___ soon."* (rain)
+   a) is going to rain
+   b) will raining
+   c) rains
+   d) is raining yesterday
+   **Respuesta correcta:** a) is going to rain.
+   **Retroalimentación:** Con evidencia visible en el momento (nubes oscuras) se usa *going to* para predecir.
 
 9. *(Alternativas — desafiante)* ¿Qué oración describe correctamente un lugar
    usando adjetivos?
-   a) The museum is.
+   a) The museum is. It is downtown, in the city.
    b) The museum is an old, beautiful building downtown.
-   c) Museum old beautiful.
-   d) I go to the museum.
+   c) Museum old beautiful building downtown city.
+   d) I go to the museum downtown every Sunday.
    **Respuesta correcta:** b.
    **Retroalimentación:** Una buena descripción combina varios adjetivos
    (*old, beautiful*) y ubicación (*downtown*) en una oración completa.
 
-10. *(Completar — desafiante)* Complete the sequence with frequency and
-    connectors: *"I ___ (always) check my phone in the morning. ___, I have
-    breakfast."* (usa un adverbio de frecuencia y luego un conector de
-    secuencia)
-    **Respuesta correcta:** always / Then.
-    **Retroalimentación:** *Always* señala frecuencia (siempre) y *then*
-    conecta con la siguiente acción en la secuencia diaria.
+10. *(Alternativas — Completar — desafiante)* Complete: *"I ___ check my phone in the morning. ___, I have breakfast."* (frequency adverb + sequence connector)
+    a) then / Always
+    b) always / Until
+    c) until / Then
+    d) always / Then
+    **Respuesta correcta:** d) always / Then.
+    **Retroalimentación:** *Always* señala frecuencia y *then* conecta con la siguiente acción de la rutina.
 
-11. *(Responder en inglés — desafiante)* Answer justifying your preference:
-    *"Which do you prefer, going to the beach or going to the mountains? Why?"*
-    **Respuesta esperada:** Respuesta personal con *prefer... because*, por
-    ejemplo: *I prefer going to the beach because I love swimming and the hot
-    weather.*
-    **Retroalimentación:** Se evalúa la estructura *prefer + gerundio +
-    because* + razón coherente con la preferencia elegida.
+11. *(Varias correctas — Preferencia — desafiante)* *"Which do you prefer, going to the beach or going to the mountains? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
+    a) I prefer going to the beach because I love swimming and the hot weather.
+    b) I prefer going to the mountains because I enjoy hiking and the fresh air.
+    c) I prefer go to the beach because.
+    d) Beach mountains.
+    **Respuesta correcta:** a y b.
+    **Retroalimentación:** Se espera *prefer + gerundio + because* + una razón coherente; ambas preferencias son válidas.
 
-12. *(Completar — desafiante)* Complete with the correct compound expression:
-    *"We need to ___ the bus at the next stop and then ___ the train station."*
-    (get off / arrive at)
-    **Respuesta correcta:** get off / arrive at.
-    **Retroalimentación:** *Get off* (bajarse de) se usa para transportes, y
-    *arrive at* (llegar a) se usa antes de un lugar específico como una
-    estación.
+12. *(Alternativas — Completar — desafiante)* Complete: *"We need to ___ the bus at the next stop and then ___ the train station."*
+    a) get on / arrive in
+    b) get off / arrive at
+    c) get off / arrive
+    d) go off / arrive to
+    **Respuesta correcta:** b) get off / arrive at.
+    **Retroalimentación:** *Get off* (bajarse de) se usa con transportes y *arrive at* (llegar a) antes de un lugar específico.
 
 ---
 

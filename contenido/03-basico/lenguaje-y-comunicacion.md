@@ -80,10 +80,10 @@ Ya sabías reconocer información explícita e implícita y ordenar la secuencia
 **1. (Alternativas — explícita)** ¿En qué ciudad ocurre la historia de Valentina?
 
 a) Puerto Montt
-b) Coquimbo
-c) Rancagua
+b) Rancagua
+c) Coquimbo
 
-*Respuesta correcta: b.* Retroalimentación: el texto dice que Valentina caminaba "en un barrio de Coquimbo cercano al mar".
+*Respuesta correcta: c.* Retroalimentación: el texto dice que Valentina caminaba "en un barrio de Coquimbo cercano al mar".
 
 **2. (Verdadero o Falso — explícita)** Valentina encontró la billetera cerca del quiosco de la esquina.
 
@@ -91,20 +91,25 @@ c) Rancagua
 
 **3. (Alternativas — implícita)** ¿Por qué el señor Osvaldo se sintió aliviado al recibir la billetera?
 
-a) Porque no le gustaba caminar mucho
-b) Porque llevaba tiempo buscándola y la necesitaba para hacer trámites
-c) Porque quería comprarse una manzana
+a) Porque no le gustaba caminar mucho y ya estaba cansado de buscar
+b) Porque quería comprarse una manzana y no tenía con qué pagarla
+c) Porque llevaba tiempo buscándola y la necesitaba para hacer trámites
 
-*Respuesta correcta: b.* Retroalimentación: el texto dice que "llevaba media hora buscando esta billetera" y que sin el carné no podría hacer trámites esa semana; menciona que sonrió "con alivio", pero no explica la razón: la deducimos de esas pistas.
+*Respuesta correcta: c.* Retroalimentación: el texto dice que "llevaba media hora buscando esta billetera" y que sin el carné no podría hacer trámites esa semana; menciona que sonrió "con alivio", pero no explica la razón: la deducimos de esas pistas.
 
-**4. (Ordenar secuencia)** Numera del 1 al 4 estas acciones según el orden en que ocurrieron en el cuento:
+**4. (Alternativas — ordenar secuencia)** ¿En qué orden ocurrieron estas acciones en el cuento?
 
-___ El señor Osvaldo le ofrece dinero a Valentina y ella solo acepta una manzana.
-___ Valentina encuentra la billetera cerca del quiosco.
-___ Valentina cuenta la historia a su familia durante la cena.
-___ Valentina toca el timbre del edificio del señor Osvaldo.
+1) Valentina encuentra la billetera cerca del quiosco.
+2) Valentina toca el timbre del edificio del señor Osvaldo.
+3) El señor Osvaldo le ofrece dinero a Valentina y ella solo acepta una manzana.
+4) Valentina cuenta la historia a su familia durante la cena.
 
-*Respuesta correcta: 3 - 1 - 4 - 2.* Retroalimentación: primero Valentina encuentra la billetera, después toca el timbre, luego el señor Osvaldo le ofrece dinero, y al final ella cuenta lo sucedido en la cena.
+a) 1 → 2 → 3 → 4
+b) 2 → 1 → 3 → 4
+c) 1 → 3 → 2 → 4
+d) 4 → 1 → 2 → 3
+
+*Respuesta correcta: a.* Retroalimentación: primero Valentina encuentra la billetera, después toca el timbre, luego el señor Osvaldo le ofrece dinero, y al final ella cuenta lo sucedido en la cena.
 
 **5. (Alternativas — descripción de personajes)** ¿Cómo es Valentina, según el cuento?
 
@@ -114,21 +119,31 @@ c) Muy conversadora con los desconocidos
 
 *Respuesta correcta: a.* Retroalimentación: el texto dice que "era una niña curiosa y muy honesta, aunque a veces algo tímida para hablar con desconocidos".
 
-**6. (Desarrollo breve — ambiente)** Describe con tus palabras cómo es el ambiente en que ocurre la historia (el lugar, el clima y el momento del día).
+**6. (Alternativas — ambiente)** ¿Cómo es el ambiente en que ocurre la historia (el lugar, el clima y el momento del día)?
 
-*Respuesta esperada*: una tarde de otoño, con el cielo gris y hojas amarillas cayendo, en un barrio de Coquimbo cerca del mar. Retroalimentación: ¡muy bien! Fíjate cómo el cuento describe el lugar, el clima y la estación del año para ayudarte a imaginar la escena.
+a) Una mañana de verano muy calurosa, con el cielo azul y gaviotas volando, en una playa del sur de Chile
+b) Una noche de invierno con nieve y mucho viento, en un barrio de Santiago
+c) Un mediodía de primavera, con flores y sol, en el campo cerca de un río
+d) Una tarde de otoño, con el cielo gris y hojas amarillas cayendo, en un barrio de Coquimbo cerca del mar
+
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Fíjate cómo el cuento describe el lugar, el clima y la estación del año para ayudarte a imaginar la escena.
 
 **7. (Alternativas — consecuencias)** ¿Qué consecuencia tuvo que Valentina devolviera la billetera?
 
-a) Se quedó sin dinero para el resto del mes
-b) El señor Osvaldo pudo recuperar su carné y hacer sus trámites
-c) Perdió su mochila celeste
+a) Valentina se quedó sin dinero para el resto del mes
+b) Valentina perdió su mochila celeste en la plaza
+c) El señor Osvaldo pudo recuperar su carné y hacer sus trámites
 
-*Respuesta correcta: b.* Retroalimentación: como consecuencia de la acción honesta de Valentina, el señor Osvaldo recuperó su carné y pudo hacer los trámites de esa semana.
+*Respuesta correcta: c.* Retroalimentación: como consecuencia de la acción honesta de Valentina, el señor Osvaldo recuperó su carné y pudo hacer los trámites de esa semana.
 
-**8. (Desarrollo breve — opinión sobre un hecho y sobre un personaje)** ¿Te parece correcta la decisión de Valentina de devolver la billetera en vez de quedarse con el dinero? ¿Qué opinas de cómo actuó ella como personaje? Fundamenta tu opinión.
+**8. (Alternativas — opinión fundamentada)** Una compañera opina: "Me parece correcta la decisión de Valentina de devolver la billetera". ¿Qué fundamento se apoya **mejor** en los hechos del texto?
 
-*Respuesta esperada*: cualquier opinión razonada, apoyada en hechos del texto; por ejemplo, "Sí, me parece correcto, porque el dinero no era de ella y devolverlo ayudó a otra persona. Creo que Valentina fue muy valiente porque, aunque era tímida, se atrevió a hablar con un desconocido para hacer lo correcto." Retroalimentación: ¡excelente! Una buena opinión fundamentada explica claramente el "por qué", apoyándose en lo que ocurrió en el texto.
+a) Porque Valentina tenía una mochila celeste y le gusta ese color
+b) Porque en otoño las hojas son amarillas y caen de los árboles del barrio
+c) Porque el señor Osvaldo vivía en un edificio cerca de la casa de Valentina y ella lo saludaba todos los días al pasar
+d) Porque el dinero no era de ella, devolverlo ayudó a otra persona y, aunque era tímida, se atrevió a hablar con un desconocido
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente! Una buena opinión fundamentada explica claramente el "por qué", apoyándose en lo que ocurrió en el texto. Las otras opciones mencionan detalles del cuento que no explican por qué la decisión fue correcta.
 
 ---
 
@@ -206,27 +221,37 @@ c) Al atardecer
 
 **4. (Alternativas — lenguaje figurado)** ¿Qué quiere decir la expresión "un mar que nunca duerme"?
 
-a) Que el mar literalmente puede dormir como una persona
-b) Que el mar siempre se mueve, sin parar, de día y de noche
+a) Que el mar siempre se mueve, sin parar, de día y de noche
+b) Que el mar literalmente puede dormir como una persona
 c) Que el mar está siempre en silencio
 
-*Respuesta correcta: b.* Retroalimentación: ¡muy bien! Esta expresión no se entiende al pie de la letra: el mar no duerme como las personas, sino que la frase da la idea de que sus olas se mueven constantemente.
+*Respuesta correcta: a.* Retroalimentación: ¡muy bien! Esta expresión no se entiende al pie de la letra: el mar no duerme como las personas, sino que la frase da la idea de que sus olas se mueven constantemente.
 
 **5. (Alternativas — lenguaje figurado)** ¿Por qué el poema compara a las gaviotas con "cartas blancas"?
 
 a) Porque las gaviotas son de color blanco y "viajan" de un lugar a otro, como si llevaran un mensaje
-b) Porque las gaviotas literalmente llevan cartas de papel
-c) Porque las cartas y las gaviotas pesan lo mismo
+b) Porque las gaviotas literalmente llevan cartas de papel en el pico, como el correo
+c) Porque las cartas y las gaviotas pesan lo mismo y el viento las lleva a las dos por el cielo
 
 *Respuesta correcta: a.* Retroalimentación: es una comparación poética: las gaviotas se parecen a las cartas en su color blanco y en que ambas "van" de un lugar a otro, aunque las gaviotas no llevan cartas de verdad.
 
-**6. (Desarrollo breve — explicar un verso con propias palabras)** Explica con tus propias palabras qué significa el verso "el mar peina espuma entre las piedras".
+**6. (Alternativas — explicar un verso)** ¿Qué significa el verso "el mar peina espuma entre las piedras"?
 
-*Respuesta esperada*: que la espuma del mar se mueve suavemente entre las piedras de la orilla, como si el mar la estuviera "peinando" u ordenando con cuidado. Retroalimentación: ¡bien hecho! No hay que explicarlo palabra por palabra, sino contar la idea general con tus propias palabras.
+a) Que el mar usa un peine de verdad para ordenar las piedras de la playa cuando sube y baja la marea
+b) Que las piedras se peinan el pelo con la espuma cuando sube la marea, igual que las personas en la mañana
+c) Que la espuma del mar se mueve suavemente entre las piedras de la orilla, como si el mar la ordenara con cuidado
+d) Que hay una peluquería junto al mar donde peinan a los pescadores
 
-**7. (Desarrollo breve — más desafiante)** El poema dice que "mi abuelo dice que el mar guarda historias en su pecho". Explica con tus palabras qué crees que significa este verso.
+*Respuesta correcta: c.* Retroalimentación: ¡bien hecho! No hay que explicarlo palabra por palabra, sino contar la idea general: el verso usa lenguaje figurado para describir el movimiento de la espuma.
 
-*Respuesta esperada*: que el mar ha "vivido" o presenciado muchas cosas a lo largo del tiempo, como si guardara esos recuerdos dentro de él, igual que una persona guarda sus propias historias. Retroalimentación: ¡excelente! Este verso usa lenguaje figurado porque el mar no tiene pecho ni memoria como las personas, pero la imagen ayuda a expresar que el mar ha "presenciado" mucho tiempo y muchas cosas.
+**7. (Alternativas — más desafiante)** El poema dice que "mi abuelo dice que el mar guarda historias en su pecho". ¿Qué significa este verso?
+
+a) Que el mar ha presenciado muchas cosas a lo largo del tiempo, como si guardara recuerdos igual que una persona
+b) Que el mar tiene un cofre con libros de historia guardado en el fondo, y el abuelo sabe dónde encontrarlo
+c) Que el abuelo vive dentro del mar y desde ahí cuenta historias
+d) Que el mar está enfermo del pecho y por eso hace tanto ruido
+
+*Respuesta correcta: a.* Retroalimentación: ¡excelente! Este verso usa lenguaje figurado porque el mar no tiene pecho ni memoria como las personas, pero la imagen ayuda a expresar que ha "presenciado" mucho tiempo y muchas cosas.
 
 ---
 
@@ -296,10 +321,10 @@ Ahora vamos a leer textos no literarios más variados: cartas, biografías, rela
 **1. (Alternativas — explícita)** Según el texto, ¿en qué región se ubica el volcán Villarrica?
 
 a) Región de Los Lagos
-b) Región de la Araucanía
-c) Región de Valparaíso
+b) Región de Valparaíso
+c) Región de la Araucanía
 
-*Respuesta correcta: b.* Retroalimentación: el texto dice "El volcán Villarrica, en la Región de la Araucanía".
+*Respuesta correcta: c.* Retroalimentación: el texto dice "El volcán Villarrica, en la Región de la Araucanía".
 
 **2. (Verdadero o Falso — explícita)** Según el texto, todos los volcanes de Chile están activos.
 
@@ -329,17 +354,32 @@ c) Página 26
 
 *Respuesta correcta: b.* Retroalimentación: el índice indica "Capítulo 3: La vizcacha .......................... página 20".
 
-**6. (Uso del glosario — desarrollo breve)** ¿Qué significa la palabra "magma", según el glosario del texto?
+**6. (Alternativas — uso del glosario)** ¿Qué significa la palabra "magma", según el glosario del texto?
 
-*Respuesta esperada*: roca derretida que se encuentra bajo la superficie de la Tierra. Retroalimentación: ¡bien! El glosario sirve justamente para eso: explicar el significado de palabras que podrían ser difíciles de entender dentro del texto.
+a) Nieve que cubre la cima de un volcán durante el invierno
+b) Un tipo de nube muy oscura que anuncia una erupción
+c) Agua caliente que sale de las termas cerca de los volcanes
+d) Roca derretida que se encuentra bajo la superficie de la Tierra
 
-**7. (Desarrollo breve — función de ilustraciones y símbolos)** ¿Para qué sirve la señal amarilla con el símbolo de una montaña y ondas que acompaña al texto sobre volcanes?
+*Respuesta correcta: d.* Retroalimentación: ¡bien! El glosario sirve justamente para explicar el significado de palabras que podrían ser difíciles de entender dentro del texto.
 
-*Respuesta esperada*: para advertir de manera rápida y visual que ese volcán representa un peligro o está activo, sin necesidad de leer un texto largo. Retroalimentación: ¡muy bien! Los símbolos entregan información de forma rápida, incluso antes de leer las palabras.
+**7. (Alternativas — ilustraciones y símbolos)** ¿Para qué sirve la señal amarilla con el símbolo de una montaña y ondas que acompaña al texto sobre volcanes?
 
-**8. (Opinión fundamentada — desarrollo breve)** ¿Te parece interesante que Chile tenga tantos volcanes? Da tu opinión y fundaméntala con información del texto.
+a) Para decorar el texto con colores y que se vea más bonito
+b) Para mostrar que el volcán está apagado para siempre y se puede visitar sin cuidado
+c) Para indicar dónde venden helados y bebidas a los turistas
+d) Para advertir de forma rápida y visual que el volcán representa un peligro o está activo
 
-*Respuesta esperada*: cualquier opinión razonable, apoyada en información del texto; por ejemplo, "Sí, me parece interesante, porque el texto dice que Chile tiene más de 500 volcanes, y algunos como el Osorno son tan bonitos que la gente los visita para hacer turismo." Retroalimentación: ¡excelente! Una buena opinión fundamentada no solo dice lo que piensas, sino que lo apoya con datos del texto que leíste.
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Los símbolos entregan información de forma rápida, incluso antes de leer las palabras.
+
+**8. (Alternativas — opinión fundamentada)** Tomás opina: "Me parece interesante que Chile tenga tantos volcanes". ¿Qué fundamento usa **información del texto**?
+
+a) Porque a Tomás le gustan mucho las montañas y la nieve
+b) Porque los volcanes son de color café y tienen forma de cono
+c) Porque su primo vive en el norte, cerca de la cordillera, y le contó que desde su casa se ven varios volcanes
+d) Porque el texto dice que Chile tiene más de 500 volcanes, y algunos, como el Osorno, atraen a turistas
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente! Una buena opinión fundamentada no solo dice lo que piensas, sino que lo apoya con datos del texto que leíste.
 
 ---
 
@@ -402,17 +442,17 @@ c) Camila misma
 
 **2. (Alternativas — oración con sentido completo)** ¿Cuál de estas opciones es una oración con sentido completo?
 
-a) "Corriendo por el parque muy rápido"
+a) "Corriendo por el parque muy rápido con el perro"
 b) "El perro corrió por el parque muy rápido."
-c) "Por el parque el"
+c) "Por el parque el perro muy rápido"
 
 *Respuesta correcta: b.* Retroalimentación: la oración b) tiene sujeto (el perro), acción (corrió) y se entiende completamente por sí sola.
 
 **3. (Organizar en párrafos)** Un texto habla primero sobre los animales de la granja y después, en otro tema, sobre los animales de la selva. ¿Qué deberías hacer para organizar bien esas dos ideas?
 
-a) Escribir todo junto, sin separar las ideas
+a) Escribir todo junto en una sola oración larga, sin separar las ideas
 b) Escribir cada idea en un párrafo distinto, separados por punto aparte
-c) Repetir la misma idea dos veces
+c) Repetir la misma idea dos veces para que se entienda mejor
 
 *Respuesta correcta: b.* Retroalimentación: ¡muy bien! Cuando cambiamos de tema o idea principal, conviene comenzar un párrafo nuevo, separado con punto aparte.
 
@@ -436,13 +476,29 @@ c) "Los niño corrieron por el patio."
 
 *Respuesta correcta: c.* Retroalimentación: "los" (plural) no concuerda con "niño" (singular). Debería decir "Los niños corrieron..." o "El niño corrió...".
 
-**7. (Desarrollo breve — letra legible)** ¿Por qué es importante escribir con letra legible cuando escribes un texto para otra persona?
+**7. (Alternativas — letra legible)** ¿Por qué es importante escribir con letra legible cuando escribes un texto para otra persona?
 
-*Respuesta esperada*: porque si la letra no se entiende, el destinatario no podrá leer ni comprender el mensaje que quisimos comunicar. Retroalimentación: ¡bien! Escribir con letra legible es tan importante como organizar bien las ideas, porque de nada sirve un texto bien pensado si no se puede leer.
+a) Porque si la letra no se entiende, el destinatario no podrá leer ni comprender el mensaje
+b) Porque la letra legible es más rápida de escribir y así se termina antes
+c) Porque así se gasta menos tinta y menos papel al escribir, y la hoja queda más limpia
+d) No es importante si las ideas están bien pensadas, porque el lector adivina
 
-**8. (Desarrollo breve — más desafiante)** Escribe un texto breve de dos párrafos, contándole a un compañero o compañera qué hiciste el fin de semana pasado. Usa al menos un conector, cuida la concordancia y separa las ideas con punto aparte cuando cambies de tema.
+*Respuesta correcta: a.* Retroalimentación: ¡bien! Escribir con letra legible es tan importante como organizar bien las ideas, porque de nada sirve un texto bien pensado si no se puede leer.
 
-*Respuesta esperada*: cualquier texto de dos párrafos con sentido, que use al menos un conector, mantenga la concordancia y separe correctamente las ideas; por ejemplo: "El sábado fui con mi familia a andar en bicicleta por el parque. Después almorzamos juntos en la casa de mi abuela. // El domingo, en cambio, me quedé en casa dibujando y viendo películas con mi hermano." Retroalimentación: ¡excelente trabajo! Revisa que tu texto tenga al menos dos párrafos, que las palabras concuerden entre sí y que hayas usado algún conector para unir tus ideas.
+**8. (Alternativas — más desafiante)** Lee este texto que escribió Martina para contar su fin de semana:
+
+> El sábado fui con mi familia a andar en bicicleta por el parque. Después almorzamos juntos en la casa de mi abuela.
+>
+> El domingo, en cambio, me quedé en casa dibujando y viendo películas con mi hermano.
+
+¿Qué hizo **bien** Martina al escribir su texto?
+
+a) Escribió todo en un solo párrafo, sin separar las ideas
+b) No usó ningún conector, y por eso las ideas quedan más claras y ordenadas en el texto
+c) Cambió de tema en medio de una oración, sin usar punto aparte
+d) Usó conectores ("después", "en cambio") y separó en párrafos cuando cambió de tema
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente trabajo! Un buen texto usa conectores para unir ideas, mantiene la concordancia y usa punto aparte para empezar un nuevo párrafo al cambiar de tema. Ahora escribe tú dos párrafos sobre tu fin de semana.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 6° básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","5":"OA 3","10":"OA 8","11":"OA 9","12":"OA 9"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","4":"OA 2","5":"OA 3","8":"OA 7","10":"OA 8","11":"OA 9","12":"OA 9"}
 unidad: Eje 1 — Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -22,8 +22,7 @@ sociedad en el siglo XX), OA N°8 (quiebre y recuperación de la democracia) y O
 **Tiempo sugerido:** 25-30 minutos · **N° de preguntas:** 12
 
 **Instrucciones:** lee con atención cada pregunta antes de responder. Las preguntas de
-alternativas tienen una sola respuesta correcta. Las preguntas de desarrollo se responden con
-oraciones completas.
+alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
@@ -32,34 +31,44 @@ oraciones completas.
 **1. (Alternativas — OA1)** ¿Qué hecho ocurrido en Europa precipitó, en 1810, la formación de
 juntas de gobierno en América?
 
-a) La independencia de Estados Unidos
-b) El cautiverio del rey Fernando VII tras la invasión de Napoleón a España
-c) La abolición de la esclavitud en España
-d) El fin de la Revolución Francesa
+a) La independencia de Estados Unidos y la creación de su nueva república federal
+b) El fin de la Revolución Francesa y la llegada de los reyes Borbones al poder
+c) La abolición de la esclavitud en España y en todas sus colonias americanas
+d) El cautiverio del rey Fernando VII tras la invasión de Napoleón a España
 
 **2. (Verdadero o Falso — OA1)** El malestar de los criollos se debía, entre otras cosas, a que
 no podían acceder a los cargos políticos más altos, reservados para los españoles peninsulares.
 
-**3. (Ordenar secuencia — OA2)** Ordena cronológicamente estos hitos del proceso de
+**3. (Alternativas — OA2)** ¿Cuál es el orden cronológico de estos hitos del proceso de
 Independencia: (1) batalla de Rancagua, (2) cabildo abierto de 1810, (3) batalla de Maipú, (4)
-batalla de Chacabuco.
+batalla de Chacabuco?
+
+a) 2 → 1 → 4 → 3
+b) 2 → 4 → 1 → 3
+c) 1 → 2 → 3 → 4
+d) 2 → 1 → 3 → 4
 
 **4. (Alternativas — OA2)** ¿Qué se decidió en el cabildo abierto del 18 de septiembre de 1810?
 
 a) Declarar la independencia total de Chile
-b) Formar la Primera Junta Nacional de Gobierno
-c) Abolir la esclavitud en Chile
+b) Abolir la esclavitud en Chile
+c) Formar la Primera Junta Nacional de Gobierno
 d) Firmar la paz con España
 
-**5. (Desarrollo breve — OA3)** Explica qué diferencias existían entre conservadores y
+**5. (Alternativas — OA3)** ¿Qué diferencias existían entre conservadores y
 liberales en el Chile del siglo XIX, considerando al menos el rol del Presidente/Congreso y la
-relación con la Iglesia católica.
+relación con la Iglesia católica?
+
+a) Los conservadores defendían un Congreso fuerte y las leyes laicas; los liberales, un Presidente fuerte y un rol mayor de la Iglesia en la educación y el matrimonio
+b) Los dos grupos pensaban exactamente lo mismo sobre el Presidente, el Congreso y la Iglesia, y solo se diferenciaban por los nombres de sus líderes
+c) Los liberales querían volver a ser colonia de España para recuperar el orden, y los conservadores defendían la independencia y un gobierno federal
+d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas
 
 **6. (Alternativas — OA5)** ¿Qué territorios incorporó Chile como consecuencia de su triunfo en
 la Guerra del Pacífico?
 
-a) Isla de Pascua y Chiloé
-b) Tarapacá y Antofagasta
+a) Tarapacá y Antofagasta
+b) Isla de Pascua y Chiloé
 c) La Araucanía y Valdivia
 d) Punta Arenas y el Estrecho de Magallanes
 
@@ -76,41 +85,46 @@ d) 1988
 
 **9. (Alternativas — OA8)** ¿Qué ocurrió el 11 de septiembre de 1973 en Chile?
 
-a) Se realizó el plebiscito que devolvió la democracia al país
+a) Se realizó el plebiscito que devolvió la democracia al país después de la dictadura
 b) Un golpe de Estado derrocó al gobierno del presidente Salvador Allende
-c) Las mujeres obtuvieron el derecho a voto
-d) Se promulgó la Constitución de 1833
+c) Las mujeres obtuvieron por primera vez el derecho a voto en las elecciones presidenciales
+d) Se promulgó una nueva Constitución que reemplazó a la de 1925 de forma inmediata
 
-**10. (Desarrollo breve — OA8)** ¿Qué hito marcó el inicio del retorno a la democracia en Chile
+**10. (Alternativas — OA8)** ¿Qué hito marcó el inicio del retorno a la democracia en Chile
 y en qué año ocurrió?
 
-**11. (Relacionar / emparejar — OA9)** Clasifica cada elemento como "cambio" o "continuidad" en
-la sociedad chilena a lo largo de su historia:
+a) El cabildo abierto de 1810, que formó la Primera Junta Nacional de Gobierno en Santiago
+b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990
+c) La batalla de Maipú de 1818, que aseguró la independencia de Chile frente a las tropas realistas
+d) La elección presidencial de 1970, que llevó a Salvador Allende a la presidencia de la República
 
-1) Llegada de la electricidad — 2) El idioma español — 3) Ampliación del derecho a voto — 4)
-Fiestas tradicionales
+**11. (Varias correctas — OA9)** ¿Cuáles de estos elementos representan una **continuidad** en la sociedad chilena a lo largo de su historia? Marca todas las correctas.
 
-a) Cambio — b) Continuidad
+a) Llegada de la electricidad
+b) El idioma español
+c) Ampliación del derecho a voto
+d) Fiestas tradicionales
 
-**12. (Desarrollo breve — OA9)** Da un ejemplo de un aspecto que ha cambiado y uno que se ha
-mantenido en la sociedad chilena a lo largo de su historia.
+**12. (Alternativas — OA9)** ¿Qué pareja muestra correctamente un cambio y una continuidad en la sociedad chilena?
+
+a) Cambio: el idioma español que se habla en Chile. Continuidad: la ampliación progresiva del derecho a voto
+b) Cambio: las fiestas tradicionales como el 18 de septiembre. Continuidad: el crecimiento de las ciudades
+c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español
+d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chilena se mantiene igual
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** El cautiverio de Fernando VII generó un vacío de poder que llevó a los criollos a
+1. **d.** El cautiverio de Fernando VII generó un vacío de poder que llevó a los criollos a
    formar juntas de gobierno propias.
 2. **Verdadero.** Los cargos políticos de mayor jerarquía estaban reservados casi
    exclusivamente para españoles nacidos en la península.
-3. **2 → 1 → 4 → 3.** El cabildo abierto (1810) inicia la Patria Vieja; Rancagua (1814) la
-   termina; Chacabuco (1817) abre la Patria Nueva; y Maipú (1818) la consolida.
-4. **b.** El cabildo abierto formó la Primera Junta Nacional de Gobierno, que gobernaría "en
+3. a) 2 → 1 → 4 → 3. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817), Maipú (1818).
+4. **c.** El cabildo abierto formó la Primera Junta Nacional de Gobierno, que gobernaría "en
    nombre" del rey cautivo.
-5. Los conservadores defendían un gobierno con un Presidente fuerte y un rol importante de la
-   Iglesia católica; los liberales defendían un Congreso más fuerte y reformas como las leyes
-   laicas, que separaron ciertas funciones del Estado de la Iglesia.
-6. **b.** El triunfo de Chile en la Guerra del Pacífico (1879-1883) permitió incorporar
+5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas
+6. **a.** El triunfo de Chile en la Guerra del Pacífico (1879-1883) permitió incorporar
    Tarapacá y Antofagasta, ricas en salitre.
 7. **Verdadero.** El Estado de Chile promovió activamente la llegada de colonos alemanes a
    Valdivia y Llanquihue a mediados del siglo XIX.
@@ -118,9 +132,6 @@ mantenido en la sociedad chilena a lo largo de su historia.
    voto presidencial y parlamentario.
 9. **b.** Un golpe de Estado derrocó al gobierno del presidente Salvador Allende, dando inicio
    a una dictadura militar que se extendió hasta 1990.
-10. El plebiscito de 1988, en el que el triunfo de la opción "No" abrió el camino al retorno de
-    un gobierno democrático, concretado en 1990.
-11. **1-a, 2-b, 3-a, 4-b.** La electricidad y la ampliación del voto son cambios; el idioma y
-    las fiestas tradicionales son continuidades.
-12. Ejemplo de cambio: la ampliación progresiva del derecho a voto o la urbanización del país.
-    Ejemplo de continuidad: el idioma español, las comidas o fiestas tradicionales.
+10. b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990
+11. b y d — La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales son continuidades.
+12. c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español

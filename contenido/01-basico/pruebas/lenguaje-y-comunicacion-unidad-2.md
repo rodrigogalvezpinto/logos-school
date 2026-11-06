@@ -59,17 +59,27 @@ secándose]
 **3.** ¿Qué se hace después de mojarse las manos?
 
 a) Secarse
-b) Ponerse jabón
-c) Enjuagar
+b) Enjuagar
+c) Ponerse jabón
 
 ---
 
-**4.** [Imagen: un sol] Escribe la palabra para este dibujo.
+**4.** [Imagen: un sol] ¿Cuál es la palabra bien escrita para este dibujo?
+
+a) sl
+b) sool
+c) zol
+d) sol
 
 ---
 
-**5.** Esta frase está mal escrita porque no tiene espacios: "**elpajarocanta**". Escríbela
-separando las palabras.
+**5.** Esta frase está mal escrita porque no tiene espacios: "**elpajarocanta**". ¿Cómo
+se escribe separando bien las palabras?
+
+a) el pájaro canta
+b) elpájaro canta
+c) el pája rocanta
+d) elpá jaro canta
 
 ---
 
@@ -81,7 +91,13 @@ c) "lacasa esgrande"
 
 ---
 
-**7.** [Imagen: un pez] Escribe la palabra para este dibujo, pensando en cada sonido.
+**7.** [Imagen: un pez] ¿Cuál es la palabra bien escrita para este dibujo, pensando en
+cada sonido?
+
+a) ps
+b) pez
+c) pezz
+d) pe
 
 ---
 
@@ -89,9 +105,9 @@ c) "lacasa esgrande"
 
 1. **a) Con Tomás** — La nota dice "Fui a jugar a la plaza con Tomás".
 2. **b) A las 6** — La nota dice "Vuelvo a las 6".
-3. **b) Ponerse jabón** — Es el paso 2, justo después de mojarse las manos (paso 1).
-4. **"sol"** — Cada sonido de la palabra tiene su letra: /s/-/o/-/l/.
-5. **"el pájaro canta"** — Cada palabra debe ir separada por un espacio.
+3. **c) Ponerse jabón** — Es el paso 2, justo después de mojarse las manos (paso 1).
+4. d) sol — Cada sonido de la palabra tiene su letra: /s/-/o/-/l/. En «sl» falta la o, en «sool» sobra una o y «zol» no se escribe con z.
+5. a) el pájaro canta — Son tres palabras y cada palabra debe ir separada por un espacio.
 6. **b) "la casa es grande"** — Cada palabra está separada por un espacio, por eso se lee
    con facilidad.
-7. **"pez"** — Los sonidos son /p/-/e/-/s/ y se escriben con las letras p, e, z.
+7. b) pez — Los sonidos son /p/-/e/-/s/ y se escriben con las letras p, e, z. En «ps» y «pe» falta una letra y en «pezz» sobra una z.

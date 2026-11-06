@@ -90,26 +90,31 @@ Los dos fragmentos siguientes son creaciones didácticas contemporáneas de Logo
 **1. (Alternativas)** ¿Qué contexto de producción histórico explica el tratamiento del desarraigo en el Texto A?
 
 a) La migración económica reciente hacia el norte de Chile
-b) El exilio político posterior al golpe de Estado de 1973
+b) La pandemia de 2020
 c) La colonización europea del siglo XIX
-d) La pandemia de 2020
+d) El exilio político posterior al golpe de Estado de 1973
 
-*Respuesta correcta: b.* Retroalimentación: la llave guardada por diecisiete años y el "cuando volvamos" sin fecha solo cobran sentido si el regreso depende de una situación política ajena a la voluntad de la familia, propia del exilio posterior a 1973.
+*Respuesta correcta: d.* Retroalimentación: la llave guardada por diecisiete años y el "cuando volvamos" sin fecha solo cobran sentido si el regreso depende de una situación política ajena a la voluntad de la familia, propia del exilio posterior a 1973.
 
 **2. (Verdadero o Falso)** El Texto B trata el desarraigo como una pérdida impuesta, sin ninguna decisión propia de por medio, igual que el Texto A.
 
 *Respuesta correcta: Falso.* Retroalimentación: a diferencia del Texto A, Wilmer migra con un propósito propio (trabajar, rehacer su vida), lo que instala una perspectiva de mayor agencia personal, aunque el proceso siga siendo incierto.
 
-**3. (Desarrollo breve)** Explica cómo el contexto de producción del Texto A —el exilio forzado— influye en la elección de la llave como objeto central del fragmento.
+**3. (Alternativas)** ¿Cómo influye el contexto de producción del Texto A —el exilio forzado— en la elección de la llave como objeto central del fragmento?
 
-*Respuesta esperada*: la llave solo funciona como símbolo de espera indefinida porque el regreso no depende de la voluntad de la madre, sino de una situación política externa (la dictadura); si el desarraigo fuera voluntario, guardar la llave durante diecisiete años perdería parte de su carga dramática, porque el personaje podría simplemente decidir volver. Retroalimentación: relacionar un recurso literario con el contexto de producción exige preguntarse si ese recurso tendría el mismo efecto en un contexto histórico distinto.
+a) El contexto no influye en la elección: la llave podría representar cualquier cosa, porque lo importante del fragmento es la relación entre la madre y su hija
+b) La llave solo indica que la familia era ordenada con sus objetos y que guardaba con cuidado todo lo que había traído de la casa de Valparaíso
+c) La llave funciona como símbolo de espera indefinida porque el regreso no depende de la voluntad de la madre, sino de una situación política externa
+d) La llave muestra que la familia podía volver cuando quisiera, porque conservaba la casa de Valparaíso esperando el momento más conveniente
+
+*Respuesta correcta: c.* Retroalimentación: Si el desarraigo fuera voluntario, guardar la llave durante diecisiete años perdería carga dramática, porque el personaje podría simplemente decidir volver. Relacionar un recurso con el contexto exige preguntarse si tendría el mismo efecto en otro contexto histórico.
 
 **4. (Alternativas)** ¿Desde qué perspectiva se narra principalmente el desarraigo en el Texto A?
 
 a) Desde la mirada de un hijo o hija que observa el desarraigo de su madre
-b) Desde la mirada de un historiador que narra hechos objetivos
-c) Desde la mirada de la comunidad que recibe a los exiliados
-d) Desde la mirada del gobierno de la época
+b) Desde la mirada de un historiador que narra con objetividad los hechos del exilio
+c) Desde la mirada de la comunidad extranjera que recibe a los exiliados chilenos
+d) Desde la mirada del gobierno de la época, que justifica la salida de la familia
 
 *Respuesta correcta: a.* Retroalimentación: el narrador es parte de la generación hija, que hereda el desarraigo sin haberlo decidido, lo que instala una perspectiva de "pérdida heredada" distinta a la de quien vive el exilio como adulto que decide o resiste.
 
@@ -117,30 +122,50 @@ d) Desde la mirada del gobierno de la época
 
 *Respuesta correcta: Falso.* Retroalimentación: el Texto B produce un efecto agridulce, con humor contenido y una sensación de incertidumbre esperanzada (por ejemplo, en la imagen de "probarse una chaqueta ajena"), distinto del tono elegíaco y de duelo prolongado del Texto A.
 
-**6. (Aplicación)** Compara el tratamiento del tiempo en ambos textos: ¿el desarraigo se mira principalmente hacia el pasado o hacia el futuro en cada uno?
+**6. (Alternativas)** ¿Cómo se orienta temporalmente el desarraigo en cada texto?
 
-*Respuesta esperada*: el Texto A mira principalmente hacia el pasado que se perdió (la casa de Valparaíso, el idioma materno de la madre); el Texto B mira principalmente hacia el futuro que se está construyendo (los amigos que "pronto" serán reales, la vida que Wilmer arma turno a turno). Retroalimentación: comparar el tratamiento de un tema entre obras exige fijarse en detalles concretos, como hacia dónde se orienta la mirada temporal de cada relato.
+a) Ambos textos miran solo hacia el futuro: la madre del Texto A planea volver a Valparaíso y Wilmer, en el Texto B, construye nuevas amistades en la ciudad
+b) El Texto A mira hacia el futuro que se construye (la nueva vida de la madre en el exilio y los amigos que hace allí); el Texto B, hacia el pasado perdido (la casa de su abuela y la ciudad que Wilmer dejó en Maracaibo)
+c) Ninguno de los dos trata el tiempo: ambos describen solo el presente de los personajes, sin referencias a lo que perdieron ni a lo que esperan construir
+d) El Texto A mira principalmente hacia el pasado perdido (la casa de Valparaíso, el idioma de la madre); el Texto B, hacia el futuro que se construye (amigos que "pronto" serán reales, la vida armada turno a turno)
 
-**7. (Desarrollo breve — perspectiva)** ¿Qué efecto produce que el Texto B esté narrado en tercera persona pero muy cercana a la experiencia interior de Wilmer, en vez de en primera persona como el Texto A?
+*Respuesta correcta: d.* Retroalimentación: Comparar el tratamiento de un tema entre obras exige fijarse en detalles concretos, como hacia dónde se orienta la mirada temporal de cada relato.
 
-*Respuesta esperada*: la tercera persona cercana permite mostrar tanto lo que Wilmer siente como cierta distancia irónica sobre sus propias estrategias de adaptación (como la mentira piadosa a su abuela), algo que sería más difícil de lograr con la misma sutileza en primera persona; de todas formas, ambas perspectivas —la primera persona del Texto A y la tercera persona cercana del Texto B— logran instalar al lector "dentro" de la experiencia del desarraigo. Retroalimentación: identificar una perspectiva no es solo notar la persona gramatical del narrador, sino evaluar qué efecto produce esa elección sobre la cercanía o distancia del lector con el personaje.
+**7. (Alternativas)** ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Wilmer, en vez de en primera persona como el Texto A?
+
+a) Hace imposible conocer lo que siente Wilmer, porque la tercera persona solo describe sus acciones desde fuera, como lo haría un testigo
+b) Permite mostrar lo que Wilmer siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela
+c) Convierte el relato en una noticia objetiva sin emociones, que informa sobre la migración venezolana a partir de un caso particular
+d) No produce ningún efecto distinto de la primera persona, porque en ambos casos el lector conoce exactamente lo mismo sobre el personaje
+
+*Respuesta correcta: b.* Retroalimentación: Identificar una perspectiva no es solo notar la persona gramatical, sino evaluar qué efecto produce sobre la cercanía o distancia del lector con el personaje; ambas perspectivas instalan al lector dentro de la experiencia del desarraigo.
 
 **8. (Alternativas)** ¿Qué elemento comparten ambos textos, a pesar de tratar el desarraigo desde contextos de producción distintos?
 
-a) Ambos ocurren en el mismo año histórico
+a) Ambos ocurren en el mismo año histórico y en la misma ciudad de Chile
 b) Ambos abordan la reconstrucción de una identidad y de vínculos familiares tras dejar el hogar de origen
-c) Ambos critican explícitamente al gobierno de turno
-d) Ambos están narrados por el mismo tipo de narrador
+c) Ambos critican explícitamente al gobierno de turno de su país de origen y piden que se reconozcan los derechos de los migrantes
+d) Ambos están narrados por el mismo tipo de narrador, en primera persona
 
 *Respuesta correcta: b.* Retroalimentación: aunque los contextos, las perspectivas y el efecto estético son distintos, ambos textos comparten el tema de fondo: qué significa reconstruir una identidad y sostener vínculos familiares después de dejar el lugar de origen.
 
-**9. (Desarrollo breve — producción y recepción)** Usando la situación hipotética de producción (A en 1992 y B en 2026), compara cómo cada texto trata el desarraigo. Después compara cómo podrían recibir ambos textos una audiencia con experiencia de desplazamiento y estudiantes de 2026 sin ella. Fundamenta con un detalle de cada obra y explica un posible cambio de interpretación o efecto estético; no atribuyas reacciones idénticas a toda una audiencia.
+**9. (Varias correctas)** Considerando la situación hipotética de producción (A en 1992 y B en 2026) y distintas audiencias de recepción, ¿qué afirmaciones son pertinentes y no atribuyen reacciones idénticas a toda una audiencia? Marca **todas** las correctas.
 
-*Pauta manual*: Completo: distingue producción de recepción, compara memoria del exilio y adaptación migrante, relaciona ambas audiencias con detalles de A y B y propone efectos razonados sin generalizar. Parcial: comparación pertinente pero falta una audiencia, un texto o la justificación del efecto. Insuficiente: solo define términos o enumera épocas. Ejemplo: la llave puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió; la videollamada puede resultar agridulce para alguien migrante y cuestionar la idea de que conectarse equivale a pertenecer en otro lector. Aceptar hipótesis alternativas sustentadas en los textos.
+a) Producción y recepción son distintas: A trata la memoria del exilio y B la adaptación migrante
+b) La llave puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió
+c) La videollamada puede resultar agridulce para alguien migrante y llevar a otro lector a cuestionar que conectarse equivalga a pertenecer
+d) Todos los estudiantes de 2026 interpretarán ambos textos exactamente igual
 
-**10. (Análisis integrado)** Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre la migración, solo que en distintas épocas". Evalúa esta lectura y, si te parece incompleta, propón una comparación más precisa, sustentada en los contextos de producción, las perspectivas y el efecto estético de cada obra.
+*Respuesta correcta: a, b y c.* Retroalimentación: Se distingue producción de recepción y se proponen efectos razonados a partir de detalles de cada obra, sin generalizar; hay otras hipótesis válidas si se sustentan en los textos.
 
-*Respuesta esperada*: la lectura es incompleta, porque reduce ambos textos a un mismo mensaje ignorando diferencias relevantes: el Texto A trata un desplazamiento forzado por motivos políticos, narrado desde una perspectiva de pérdida heredada y con un efecto estético elegíaco; el Texto B trata un desplazamiento voluntario por motivos económicos, narrado desde una perspectiva de adaptación activa y con un efecto estético agridulce y esperanzador; una comparación más precisa debe explicar tanto lo que ambos textos comparten (el tema del desarraigo y la reconstrucción de vínculos) como lo que los distingue en contexto, perspectiva y tono. Retroalimentación: comparar dos obras exige identificar semejanzas y diferencias con la misma precisión, evitando tanto la afirmación de que "son iguales" como la de que "no tienen nada en común".
+**10. (Alternativas)** Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre la migración, solo que en distintas épocas". ¿Qué evaluación es más precisa?
+
+a) Es correcta: los dos textos tratan la migración del mismo modo, con el mismo tono y la misma perspectiva, y lo único que cambia es la época en que ocurren
+b) Es incorrecta porque los textos no tienen nada en común: uno trata sobre el exilio político y el otro sobre el trabajo, sin ninguna relación con el desarraigo
+c) Es incompleta: comparten el tema del desarraigo, pero A trata un desplazamiento forzado por motivos políticos con tono elegíaco, y B uno voluntario por motivos económicos con tono agridulce y esperanzador
+d) Es correcta porque ambos están narrados en primera persona por quien vive el desplazamiento, de modo que transmiten la misma experiencia con distintas palabras
+
+*Respuesta correcta: c.* Retroalimentación: Comparar dos obras exige identificar semejanzas y diferencias con la misma precisión, evitando tanto "son iguales" como "no tienen nada en común".
 
 **11. (Verdadero o Falso)** Formular una interpretación comparada en 4° medio consiste en elegir cuál de las dos obras es "mejor" desde un punto de vista literario.
 
@@ -190,10 +215,10 @@ En 4° medio, tu análisis crítico de textos no literarios —orales, escritos 
 
 **1. (Alternativas)** ¿Cuál es la intención explícita de la columna sobre el royalty minero?
 
-a) Informar de manera neutral sobre la historia de la minería en Chile
+a) Informar de manera neutral sobre la historia de la minería del cobre en Chile
 b) Argumentar que las empresas mineras deberían retribuir más a las regiones donde operan
-c) Proponer la expulsión de todas las mineras del país
-d) Explicar el funcionamiento técnico de un tranque de relave
+c) Proponer la expulsión de todas las empresas mineras extranjeras del país
+d) Explicar el funcionamiento técnico de un tranque de relave y sus riesgos
 
 *Respuesta correcta: b.* Retroalimentación: el propio texto declara y sostiene con datos y ejemplos esa postura a lo largo de todo el párrafo, por lo que corresponde a una intención explícita, no oculta.
 
@@ -201,9 +226,14 @@ d) Explicar el funcionamiento técnico de un tranque de relave
 
 *Respuesta correcta: Falso.* Retroalimentación: esa frase cumple una función implícita distinta: presenta solo dos opciones posibles (apoyar la columna o "elegir el bolsillo de los accionistas"), cerrando la discusión en vez de invitar a evaluar otros argumentos.
 
-**3. (Desarrollo breve)** Explica qué rol asume el enunciador de la columna frente a su audiencia, y qué recursos del texto sostienen esa identificación.
+**3. (Alternativas)** ¿Qué rol asume el enunciador de la columna frente a su audiencia, y qué recurso sostiene esa identificación?
 
-*Respuesta esperada*: el enunciador asume el rol de defensor del interés regional y ambiental frente a un poder económico concentrado; esto se sostiene en que no presenta el tema de forma neutral (no expone en igual medida los argumentos de las empresas mineras), y en que el cierre del texto interpela directamente al lector apelando a su responsabilidad moral sobre "el futuro de Atacama y Antofagasta". Retroalimentación: identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
+a) Defensor del interés regional y ambiental frente a un poder económico concentrado; no expone en igual medida los argumentos de las mineras y su cierre interpela la responsabilidad moral del lector
+b) Periodista neutral que presenta en igual medida las posturas de las regiones y de las empresas mineras, cita a ambas partes y deja que el lector decida sin interpelarlo en el cierre
+c) Vocero de las empresas mineras, que defiende sus utilidades frente a las regiones y descalifica a quienes proponen aumentar la tributación
+d) Científico que solo expone datos técnicos sobre la minería y el agua, sin tomar ninguna postura sobre la distribución de la riqueza
+
+*Respuesta correcta: a.* Retroalimentación: Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
 
 **4. (Alternativas)** ¿Qué dato del texto es más fácilmente verificable por el lector?
 
@@ -218,25 +248,45 @@ d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas
 
 *Respuesta correcta: Falso.* Retroalimentación: la expresión "buena parte" es imprecisa y el texto no cita ninguna fuente ni porcentaje concreto, por lo que la afirmación es plausible pero no verificable tal como está formulada.
 
-**6. (Aplicación)** Identifica la ideología o visión de fondo que sostiene los argumentos de la columna, y explica por qué reconocer esa ideología no implica automáticamente que el argumento sea falso.
+**6. (Alternativas)** ¿Qué visión de fondo sostiene la columna y qué implica reconocerla?
 
-*Respuesta esperada*: la columna se sostiene en una visión que prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones y comunidades locales, por sobre la maximización de utilidades privadas; reconocer esa ideología no invalida el argumento, porque un texto puede estar construido desde una posición de valores explícita y, al mismo tiempo, usar datos verificables y un razonamiento coherente; lo importante es que el lector identifique desde qué visión se argumenta, para poder evaluarla con criterio propio. Retroalimentación: identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
+a) Prioriza la maximización de utilidades privadas de las mineras; reconocerla prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
+b) No tiene ninguna visión de fondo: es totalmente neutral, porque se limita a citar cifras de instituciones y no hay valores en juego que el lector deba reconocer
+c) Prioriza la redistribución hacia las regiones; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector solo acepta textos sin ninguna postura
+d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes
 
-**7. (Desarrollo breve — ideología alternativa)** Describe brevemente qué argumento podría dar una columna con una ideología distinta, más favorable a la inversión privada minera, frente al mismo tema.
+*Respuesta correcta: d.* Retroalimentación: Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
 
-*Respuesta esperada*: cualquier argumento razonable; por ejemplo, que aumentar la tributación a la gran minería podría desincentivar la inversión extranjera y reducir el empleo asociado a la industria, o que la actual carga tributaria ya es competitiva a nivel internacional y elevarla pondría en riesgo la estabilidad del sector. Retroalimentación: reconocer que un mismo tema admite argumentos desde ideologías distintas es clave para no confundir "la única postura razonable" con "la postura que leí primero".
+**7. (Varias correctas)** ¿Qué argumentos podría dar una columna con una ideología más favorable a la inversión privada minera frente al mismo tema? Marca **todas** las correctas.
+
+a) Aumentar la tributación podría desincentivar la inversión extranjera y reducir el empleo asociado a la industria
+b) La carga tributaria actual ya es competitiva internacionalmente y elevarla pondría en riesgo la estabilidad del sector
+c) Las regiones mineras deberían recibir todas las utilidades de las empresas
+d) Hay que cerrar todas las mineras para proteger el agua
+
+*Respuesta correcta: a y b.* Retroalimentación: Reconocer que un mismo tema admite argumentos desde ideologías distintas evita confundir "la única postura razonable" con "la postura que leí primero".
 
 **8. (Verdadero o Falso)** Toda columna de opinión debe presentarse como un texto neutral, sin ningún posicionamiento del enunciador frente al tema que trata.
 
 *Respuesta correcta: Falso.* Retroalimentación: la columna de opinión es, por definición, un género que expresa un punto de vista argumentado; lo importante no es que sea neutral, sino que el lector sea capaz de identificar ese posicionamiento y evaluar la calidad de sus argumentos y evidencia.
 
-**9. (Análisis integrado)** Evalúa la veracidad de la cifra tributaria y del consumo de agua mencionados: ¿qué falta para contrastarlos? Distingue dato contrastable de dato verificado e identifica dos recursos persuasivos sin respaldo suficiente. No debes inventar evidencia sólida si el texto no la ofrece.
+**9. (Varias correctas)** Sobre la cifra tributaria y el consumo de agua que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
 
-*Pauta manual*: Completo: reconoce que la cifra y atribución son ficticias y no prueban un hecho externo, solicita informe, fecha y método de tributación y datos regionales de agua; identifica «buena parte» sin magnitud y el falso dilema del cierre. Parcial: crítica fundamentada pero incompleta. Insuficiente: acepta los datos solo por nombrar una institución o no justifica. Retroalimentación: contrastable no significa verificado; es válido concluir que el estímulo no aporta evidencia externa comprobada.
+a) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
+b) Para contrastarlas haría falta el informe, su fecha, el método de cálculo tributario y datos regionales de agua
+c) «Buena parte», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
+d) Basta con que el texto nombre una institución para considerar verificados los datos
 
-**10. (Desarrollo breve)** Explica la diferencia entre "intención explícita" e "intención implícita", usando un ejemplo de cada una extraído directamente de la columna sobre el royalty minero.
+*Respuesta correcta: a, b y c.* Retroalimentación: Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
 
-*Respuesta esperada*: la intención explícita es la que el texto declara y argumenta abiertamente, como pedir que las mineras retribuyan más a las regiones donde operan; la intención implícita es la que el texto persigue sin decirla directamente, como desacreditar de antemano cualquier postura contraria mediante el cierre que reduce el desacuerdo a "elegir el bolsillo de los accionistas". Retroalimentación: distinguir intenciones explícitas de implícitas exige leer no solo lo que el texto afirma directamente, sino también el efecto que produce su forma de argumentar sobre el lector.
+**10. (Alternativas)** ¿Qué par ejemplifica correctamente la intención explícita y la implícita de la columna sobre el royalty minero?
+
+a) Explícita: desacreditar a los accionistas de las mineras y a quienes se oponen al royalty. Implícita: informar de manera neutral sobre la historia minera de las regiones donde operan
+b) Explícita: pedir que las mineras retribuyan más a las regiones donde operan. Implícita: desacreditar de antemano la postura contraria reduciendo el desacuerdo a "elegir el bolsillo de los accionistas"
+c) Ambas intenciones son exactamente la misma
+d) Explícita: explicar cómo funciona un tranque de relave y sus riesgos. Implícita: convencer al lector de que conviene vender más cobre al extranjero, sin pedir retribución a las regiones
+
+*Respuesta correcta: b.* Retroalimentación: La intención explícita se declara y argumenta abiertamente; la implícita se persigue sin decirla, a través del efecto que produce la forma de argumentar.
 
 **11. (Alternativas)** ¿Qué rol NO asume el enunciador de la columna frente a su audiencia?
 
@@ -301,10 +351,10 @@ Como cierre del ciclo escolar, en 4° medio vas a producir tus propios textos �
 
 **1. (Alternativas)** ¿Cuál es la principal diferencia de propósito entre la versión (a) y la versión (b) del ejemplo trabajado?
 
-a) Ambas buscan exactamente lo mismo, solo cambia el idioma
+a) Ambas buscan exactamente lo mismo, argumentar una comparación; solo cambia el idioma en que se presentan
 b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y oral
-c) La versión (a) es oral y la versión (b) es escrita
-d) La versión (b) no tiene ningún propósito comunicativo
+c) La versión (a) es oral y busca despertar interés; la versión (b) es escrita y argumenta una comparación
+d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen más corto de la versión (a)
 
 *Respuesta correcta: b.* Retroalimentación: aunque ambas versiones comunican la misma comparación interpretativa central, sus propósitos comunicativos son distintos, lo que justifica que se escriban de forma diferente.
 
@@ -312,34 +362,59 @@ d) La versión (b) no tiene ningún propósito comunicativo
 
 *Respuesta correcta: Falso.* Retroalimentación: la oración "Antofagasta queda en el norte de Chile" interrumpe la progresión temática sobre la comparación entre ambos textos, aportando un dato que no se conecta con el argumento central.
 
-**3. (Desarrollo breve)** Explica qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a).
+**3. (Alternativas)** ¿Qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a)?
 
-*Respuesta esperada*: "por un lado" y "por otro lado" organizan la comparación de forma simétrica, presentando primero el tratamiento del tema en un texto y luego en el otro, mientras que "en consecuencia" marca que la última oración es una conclusión que se desprende de la comparación anterior, dando cierre argumentativo al párrafo. Retroalimentación: en un texto comparativo, los conectores cumplen una función especialmente importante: le muestran al lector cuándo se está hablando de una obra, cuándo de la otra, y cuándo se está sacando una conclusión conjunta.
+a) Todos introducen ejemplos de cada texto, sin relación entre ellos
+b) Todos expresan contraste entre el Texto A y el Texto B por igual
+c) "Por un lado" y "por otro lado" organizan la comparación de forma simétrica; "en consecuencia" marca la conclusión que se desprende de ella
+d) "En consecuencia" introduce el primer texto; "por un lado", el segundo; y "por otro lado", la conclusión que se desprende de la comparación
 
-**4. (Aplicación)** Reescribe esta oración de la versión (b) para mejorar su cohesión, agregando un conector adecuado: "Uno pasa en dictadura. La abuela vive en Maracaibo."
+*Respuesta correcta: c.* Retroalimentación: En un texto comparativo, los conectores muestran al lector cuándo se habla de una obra, cuándo de la otra y cuándo se saca una conclusión conjunta.
 
-*Respuesta esperada*: cualquier reescritura que incorpore un conector adecuado y muestre la relación entre ambas ideas; por ejemplo: "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo." Retroalimentación: mejorar la cohesión de un guion breve no requiere alargarlo innecesariamente, sino elegir un conector que muestre con precisión la relación (de contraste, en este caso) entre las ideas.
+**4. (Alternativas)** ¿Qué reescritura mejora la cohesión de "Uno pasa en dictadura. La abuela vive en Maracaibo." mediante un conector adecuado?
+
+a) "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+b) "Uno pasa en dictadura, porque el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+c) "Uno pasa en dictadura. Además. El otro cuenta la historia de un joven. La abuela vive en Maracaibo."
+d) "Uno pasa en dictadura, por lo tanto el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+
+*Respuesta correcta: a.* Retroalimentación: Mejorar la cohesión no requiere alargar el texto, sino elegir un conector que muestre con precisión la relación (aquí, de contraste) entre las ideas; causa o consecuencia serían relaciones falsas.
 
 **5. (Alternativas)** ¿Por qué la pregunta retórica "¿se imaginan guardar la llave de tu casa durante diecisiete años...?" no representa un error de adecuación en la versión (b)?
 
-a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto
+a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto, aunque en un podcast se toleran por ser oral
 b) Porque en un guion de podcast dirigido a compañeros de curso, involucrar directamente al oyente es una convención de género válida y esperada
-c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido
-d) Porque los podcasts no tienen convenciones propias de género
+c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido en un guion breve para compañeros
+d) Porque los podcasts no tienen convenciones propias de género, así que cualquier recurso resulta igualmente adecuado
 
 *Respuesta correcta: b.* Retroalimentación: adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es una convención habitual y efectiva, que resultaría fuera de lugar en un párrafo de ensayo formal.
 
-**6. (Desarrollo breve — planificación)** Planifica brevemente un texto breve (oral, escrito o audiovisual) que comunique tu evaluación crítica de la columna sobre el royalty minero (OA N°3), definiendo: (a) propósito, (b) género, (c) audiencia y (d) al menos una convención que adecuarías a esa audiencia.
+**6. (Alternativas)** Para comunicar tu evaluación crítica de la columna sobre el royalty minero, ¿qué planificación es coherente entre propósito, género, audiencia y convención?
 
-*Respuesta esperada*: cualquier planificación razonable y coherente entre sus cuatro elementos; por ejemplo, (a) evaluar si los argumentos de la columna están suficientemente respaldados en evidencia, (b) comentario audiovisual breve para redes sociales, (c) otros estudiantes interesados en temas de actualidad, (d) uso de un lenguaje directo y ejemplos concretos, evitando tecnicismos económicos que la audiencia podría no manejar. Retroalimentación: planificar antes de producir un texto, definiendo con claridad el propósito, el género, la audiencia y sus convenciones, evita que el resultado final pierda coherencia o resulte inadecuado para quien lo va a leer, ver o escuchar.
+a) Propósito: entretener al público con anécdotas de la minería. Género: informe técnico de 40 páginas con anexos. Audiencia: niños de 5 años. Convención: tecnicismos económicos y fórmulas tributarias sin explicar, para mostrar rigor
+b) Propósito: evaluar la columna sobre el royalty. Género: poema épico en versos rimados. Audiencia: ninguna en particular, porque cualquiera puede leerlo. Convención: rima consonante y lenguaje figurado sin datos ni ejemplos concretos
+c) No es necesario planificar antes de producir un texto
+d) Propósito: evaluar si los argumentos están respaldados. Género: comentario audiovisual breve para redes sociales. Audiencia: estudiantes interesados en actualidad. Convención: lenguaje directo y ejemplos concretos, sin tecnicismos económicos
 
-**7. (Desarrollo breve)** Explica por qué adecuar un texto a una audiencia distinta (por ejemplo, de un ensayo comparativo a un guion de podcast) no significa necesariamente perder profundidad interpretativa.
+*Respuesta correcta: d.* Retroalimentación: Definir con claridad propósito, género, audiencia y convenciones evita que el resultado pierda coherencia o resulte inadecuado para quien lo recibe.
 
-*Respuesta esperada*: ambas versiones del ejemplo (a y b) comunican la misma comparación interpretativa central —que el contexto de producción y la perspectiva adoptada explican efectos estéticos distintos frente a un mismo tema—, aunque lo hagan con distinto registro, extensión y recursos (estructura comparativa formal versus pregunta retórica oral); lo que cambia es la forma de comunicar la interpretación, no necesariamente su profundidad, siempre que se seleccione con cuidado qué información breve puede transmitir igualmente el núcleo de la comparación. Retroalimentación: adecuar un texto a una audiencia y un género distintos es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
+**7. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia (de un ensayo comparativo a un guion de podcast) no significa necesariamente perder profundidad interpretativa?
 
-**8. (Análisis integrado — texto propio)** Escribe un párrafo breve (4 a 6 oraciones), coherente y cohesionado, dirigido a un profesor o profesora, que comunique tu propia comparación entre dos textos trabajados este año (pueden ser los del OA N°1, u otros dos textos que hayas leído sobre un mismo tema), cuidando la progresión temática, la mantención del tema y el uso adecuado de al menos dos conectores.
+a) Porque el podcast siempre es más profundo que el ensayo, ya que llega a más oyentes y permite usar la voz para transmitir emociones
+b) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad
+c) Porque adecuar un texto consiste en copiar el mismo ensayo y leerlo en voz alta, sin cambiar su registro, su extensión ni sus recursos
+d) Sí significa perderla siempre: adaptar un ensayo a un podcast es simplificarlo, porque un formato oral no admite interpretaciones complejas
 
-*Respuesta esperada*: cualquier párrafo coherente que mantenga un mismo tema comparativo a lo largo de todas sus oraciones, agregue información nueva en cada una (progresión temática) y use al menos dos conectores de forma adecuada (por ejemplo, "por un lado... por otro lado", o "mientras que... en cambio"). Retroalimentación: producir un texto comparativo propio, coherente y cohesionado, y adecuado a una audiencia específica, es la culminación práctica de todo lo trabajado en este objetivo de aprendizaje y en el ciclo de 3° y 4° medio.
+*Respuesta correcta: b.* Retroalimentación: Adecuar un texto a otra audiencia y género es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
+
+**8. (Alternativas)** ¿Qué párrafo comparativo, dirigido a un profesor, mantiene el tema, tiene progresión temática y usa adecuadamente al menos dos conectores?
+
+a) "El Texto A tiene una llave de la casa de Valparaíso. Me gusta el fútbol y también el mar. El Texto B es largo y habla de Wilmer. Por un lado, la llave. Por otro lado, el fútbol. En consecuencia, ambos textos son buenos y me gustaron mucho. Fin."
+b) "Por un lado, por otro lado, en consecuencia, además, sin embargo. Ambos textos tratan el desarraigo. Por un lado, por otro lado. El Texto A. El Texto B. Sin embargo, además, en consecuencia, por lo tanto, finalmente, en conclusión, para terminar."
+c) "Ambos textos tratan el desarraigo, pero lo miran desde lugares distintos. Por un lado, el Texto A se vuelve hacia la casa perdida de Valparaíso. Por otro lado, el Texto B se orienta a la vida que Wilmer construye. En consecuencia, uno es elegíaco y el otro esperanzador."
+d) "Los textos son buenos y los textos son buenos."
+
+*Respuesta correcta: c.* Retroalimentación: Un párrafo coherente mantiene un mismo tema comparativo, agrega información nueva en cada oración y usa conectores con su función correcta.
 
 **9. (Verdadero o Falso)** El proceso de escritura en 4° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior, porque ya se domina la escritura desde 3° medio.
 
@@ -354,9 +429,14 @@ d) Ninguna, todo el guion cumple únicamente una función informativa
 
 *Respuesta correcta: a.* Retroalimentación: esa frase no solo informa, sino que sintetiza de forma memorable y emocional la comparación interpretativa central del guion, una estrategia propia de géneros orales breves donde se busca que una idea quede resonando en el oyente.
 
-**11. (Desarrollo breve — cierre del ciclo)** Reflexiona brevemente: ¿qué diferencia principal notas entre producir un texto propio en 3° medio y hacerlo en 4° medio, considerando lo trabajado en los tres Objetivos de Aprendizaje de este año?
+**11. (Alternativas)** ¿Qué diferencia principal hay entre producir un texto propio en 3° medio y en 4° medio, según los tres OA de este año?
 
-*Respuesta esperada*: cualquier reflexión razonada; por ejemplo, que en 4° medio la producción de textos exige un nivel mayor de autonomía y de síntesis, porque ya no se trata solo de interpretar una obra o analizar un texto de forma aislada, sino de comparar obras entre sí, evaluar críticamente la veracidad e ideología de discursos no literarios, y comunicar todo eso con dominio de distintos géneros y audiencias, como corresponde al cierre de un ciclo formativo completo. Retroalimentación: este objetivo de aprendizaje no se trabaja de forma aislada: la calidad de un texto propio en 4° medio depende directamente de la profundidad del análisis y la evaluación crítica desarrollados en los otros dos objetivos de aprendizaje del año.
+a) En 4° medio se exige más autonomía y síntesis: comparar obras entre sí, evaluar críticamente la veracidad e ideología de discursos y comunicarlo con dominio de distintos géneros y audiencias
+b) En 4° medio ya no se producen textos propios: el trabajo se centra en leer obras y responder preguntas de comprensión, sin comunicar evaluaciones a ninguna audiencia
+c) No hay diferencia: se repiten exactamente los mismos objetivos de 3° medio, con los mismos géneros, audiencias y textos, para reforzar lo aprendido el año anterior en clases del año
+d) En 4° medio solo se memorizan definiciones
+
+*Respuesta correcta: a.* Retroalimentación: La calidad de un texto propio en 4° medio depende directamente de la profundidad del análisis y de la evaluación crítica desarrollados en los otros OA del año.
 
 ---
 

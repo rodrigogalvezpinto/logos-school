@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"9":"OA 10"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 3","4":"OA 4","6":"OA 6","7":"OA 6","9":"OA 10","11":"OA 11"}
 eje: Números y Operaciones (OA 1, 3, 4, 6, 7, 10, 11, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
@@ -12,7 +12,7 @@ ultima_actualizacion: 2026-10-28
 
 # Prueba de Unidad — Números y Operaciones (Matemática, 5° Básico)
 
-**Instrucciones:** Lee cada pregunta con atención. Marca la alternativa correcta o desarrolla tu respuesta en el espacio correspondiente. Puedes usar calculadora en las preguntas que lo permitan. Tiempo sugerido: 25-30 minutos.
+**Instrucciones:** Lee cada pregunta con atención. Marca la alternativa correcta. Puedes usar calculadora en las preguntas que lo permitan. Tiempo sugerido: 25-30 minutos.
 
 ---
 
@@ -22,29 +22,44 @@ b) Centena de mil
 c) Unidad de millón
 d) Decena de millón
 
-**Pregunta 2.** Aproxima el número 127.480 a la decena de mil más cercana.
+**Pregunta 2.** ¿Cuál es la aproximación de 127.480 a la decena de mil más cercana?
+
+a) 128.000
+b) 120.000
+c) 127.000
+d) 130.000
 
 **Pregunta 3.** Calcula 23 × 15 = ?
 a) 335
-b) 345
+b) 355
 c) 315
-d) 355
+d) 345
 
 **Pregunta 4.** Calcula 156 ÷ 7. ¿Cuál es el cociente y el resto?
-a) Cociente 22, resto 2
+a) Cociente 22, resto 1
 b) Cociente 21, resto 9
-c) Cociente 22, resto 1
+c) Cociente 22, resto 2
 d) Cociente 20, resto 16
 
 **Pregunta 5.** Se quieren envasar 275 huevos en bandejas de 6 huevos cada una. ¿Cuántas bandejas se necesitan como mínimo para envasar todos los huevos?
 
+a) 45
+b) 45 y sobran 5
+c) 44
+d) 46
+
 **Pregunta 6.** Un supermercado vende 5 kilos de manzanas a $1.290 el kilo. Si Camila paga con un billete de $10.000, ¿cuánto es su vuelto?
-a) $3.450
+a) $4.550
 b) $3.550
-c) $4.550
+c) $3.450
 d) $2.450
 
 **Pregunta 7.** Un colegio compró 18 balones de fútbol a $8.500 cada uno y 12 balones de básquetbol a $9.200 cada uno. ¿Cuánto gastó en total?
+
+a) $153.000
+b) $263.400
+c) $17.700
+d) $531.000
 
 **Pregunta 8.** ¿Cuál de las siguientes fracciones es equivalente a 1/2?
 a) 2/6
@@ -66,6 +81,10 @@ d) No se puede saber
 
 **Pregunta 11.** En una carrera, Joaquín corrió los 100 metros en 15,82 segundos y Martín en 15,79 segundos. ¿Quién fue más rápido?
 
+a) Martín
+b) Joaquín
+c) Llegaron empatados
+
 **Pregunta 12.** Calcula: 1/3 + 1/6 = ?
 a) 2/9
 b) 1/2
@@ -77,14 +96,14 @@ d) 1/9
 ## Pauta de respuestas
 
 1. **c) Unidad de millón** — el 6 es el primer dígito de un número de 7 cifras, por lo tanto vale 6.000.000.
-2. **130.000** — 127.480 está entre 120.000 y 130.000; como 7.480 es más cercano a 10.000 que a 0, se aproxima hacia arriba.
-3. **b) 345** — 23 × 5 = 115; 23 × 10 = 230; 115 + 230 = 345.
-4. **a) Cociente 22, resto 2** — 22 × 7 = 154; 156 − 154 = 2.
-5. **46 bandejas** — 275 ÷ 6 = 45, resto 5; como sobran 5 huevos que también necesitan bandeja, se requiere una bandeja más.
+2. d) 130.000 — 127.480 está entre 120.000 y 130.000 y queda más cerca de 130.000 (a 2.520) que de 120.000 (a 7.480).
+3. **d) 345** — 23 × 5 = 115; 23 × 10 = 230; 115 + 230 = 345.
+4. **c) Cociente 22, resto 2** — 22 × 7 = 154; 156 − 154 = 2.
+5. d) 46 — 275 ÷ 6 = 45, resto 5; los 5 huevos que sobran también necesitan bandeja.
 6. **b) $3.550** — costo total: 5 × 1.290 = 6.450; vuelto: 10.000 − 6.450 = 3.550.
-7. **$263.400** — 18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = 263.400.
+7. b) $263.400 — 18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = 263.400.
 8. **c) 4/8** — 1/2 = (1×4)/(2×4) = 4/8.
 9. **a) 0,3** — con denominador 10, el numerador se escribe directamente en el lugar de los décimos.
 10. **a) 0,8** — 0,8 = 0,80; comparando con 0,75, en los décimos 8 > 7.
-11. **Martín**, porque 15,79 < 15,82 (menor tiempo significa mayor rapidez).
+11. a) Martín. 15,79 < 15,82: menor tiempo significa mayor rapidez.
 12. **b) 1/2** — 1/3 = 2/6; 2/6 + 1/6 = 3/6, que simplificado es 1/2.

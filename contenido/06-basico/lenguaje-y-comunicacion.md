@@ -87,41 +87,61 @@ En 6° básico, analizar un cuento significa ir más allá de "qué pasó" y pre
 
 **1. (Alternativas)** ¿Cuál es la relación de causa-consecuencia correcta en el Texto 1?
 
-a) Manuel se acercó solo a los rieles → su padre lo felicitó
-b) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
-c) El padre de Manuel trabajaba en la pampa → Manuel dejó de estudiar
-d) Hubo una tormenta → se organizó una minga
+a) Manuel se acercó solo a los rieles para ayudar a los cargadores → su padre lo felicitó frente a todos
+b) Hubo una tormenta muy fuerte en la pampa → los vecinos organizaron una minga para reparar las casas
+c) El padre de Manuel trabajaba en la pampa salitrera → Manuel dejó de estudiar para trabajar con él
+d) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
 
-*Respuesta correcta: b.* Retroalimentación: identificar causa-consecuencia significa reconocer qué acción (causa) provoca directamente qué resultado (consecuencia) dentro del relato.
+*Respuesta correcta: d.* Retroalimentación: identificar causa-consecuencia significa reconocer qué acción (causa) provoca directamente qué resultado (consecuencia) dentro del relato.
 
-**2. (Desarrollo breve)** Explica por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato. ¿Qué motivación tenía?
+**2. (Alternativas — motivación del personaje)** ¿Por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato?
 
-*Respuesta esperada*: Manuel quería demostrar que era tan valiente y veloz como los cargadores mayores, por eso sentía que las reglas eran solo para quienes eran "torpes". Retroalimentación: relacionar una actitud con su motivación implica explicar el *porqué* detrás del comportamiento del personaje, no solo describir lo que hace.
+a) Porque quería demostrar que era tan valiente y veloz como los cargadores mayores, y creía que las reglas eran para los "torpes"
+b) Porque no escuchaba bien a su padre, ya que el ruido de la maquinaria de la oficina salitrera tapaba sus palabras
+c) Porque su padre le había pedido que las ignorara cuando estuviera con los cargadores mayores, para aprender más rápido
+d) Porque las reglas no existían en la pampa, y cada trabajador decidía por su cuenta cómo cuidarse de los carros
+
+*Respuesta correcta: a.* Retroalimentación: relacionar una actitud con su motivación implica explicar el *porqué* detrás del comportamiento del personaje, no solo describir lo que hace.
 
 **3. (Verdadero o Falso)** En el Texto 2, la costumbre de la minga influye directamente en la decisión de Antonia de pedir ayuda a la comunidad en vez de buscar dinero prestado.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: el texto explica que en Chiloé la minga es una costumbre para resolver colaborativamente problemas grandes, y esa costumbre es justamente lo que orienta la acción de Antonia.
 
-**4. (Aplicación)** Explica cómo el ambiente descrito en el Texto 1 (el desierto, el calor, la maquinaria) influye en las acciones y reglas de los personajes.
+**4. (Alternativas — ambiente)** ¿Cómo influye el ambiente del Texto 1 (el desierto, el calor, la maquinaria) en las acciones y reglas de los personajes?
 
-*Respuesta esperada*: el ambiente extremo y peligroso de la pampa salitrera explica por qué existen reglas de seguridad tan estrictas y por qué un descuido puede tener consecuencias graves; esto también explica la reacción desesperada del padre al ver a Manuel en peligro. Retroalimentación: el ambiente no es solo un "escenario decorativo": muchas veces condiciona directamente las decisiones y reacciones de los personajes.
+a) El ambiente es solo decorativo y no influye en nada: los personajes actuarían igual en cualquier otro lugar, con o sin maquinaria
+b) El calor hace que los personajes no tengan reglas, porque en la pampa nadie puede preocuparse de la seguridad mientras trabaja bajo el sol
+c) El ambiente provoca que todos sean descuidados, y por eso el padre de Manuel tampoco respeta las reglas de seguridad que le repite a su hijo
+d) El ambiente extremo y peligroso de la pampa explica las reglas de seguridad estrictas, las consecuencias graves de un descuido y la reacción desesperada del padre
+
+*Respuesta correcta: d.* Retroalimentación: el ambiente no es solo un "escenario decorativo": muchas veces condiciona directamente las decisiones y reacciones de los personajes.
 
 **5. (Alternativas)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
-a) Chile actual, en una ciudad grande
-b) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-c) La época de la colonia española
-d) El sur de Chile en el presente
+a) Chile actual, en una ciudad grande con fábricas y mucho tráfico
+b) La época de la Colonia española, en las minas de plata del centro
+c) El auge del salitre en el norte de Chile, a comienzos del siglo XX
+d) El sur de Chile en el presente, en un pueblo de pescadores y bosques
 
-*Respuesta correcta: b.* Retroalimentación: el texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920, elementos que sitúan la historia en el período del auge salitrero en el desierto de Atacama.
+*Respuesta correcta: c.* Retroalimentación: el texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920, elementos que sitúan la historia en el período del auge salitrero en el desierto de Atacama.
 
-**6. (Desarrollo breve — comparación de autores)** Compara el Texto 1 y el Texto 2: menciona una semejanza y una diferencia entre ambas historias, y explica cuál prefieres, fundamentando tu respuesta.
+**6. (Alternativas — comparación de textos)** ¿Qué comparación entre el Texto 1 y el Texto 2 es **correcta**?
 
-*Respuesta esperada*: cualquier respuesta razonada, por ejemplo: semejanza —ambos relatos muestran cómo el entorno (la pampa, la isla) impone reglas o costumbres que los personajes deben respetar para bien de la comunidad o de sí mismos—; diferencia —en el Texto 1 el conflicto nace de desobedecer una regla y casi termina en tragedia, mientras que en el Texto 2 el conflicto se resuelve gracias a la colaboración comunitaria—, junto con una preferencia justificada. Retroalimentación: comparar autores distintos implica fijarse en cómo cada uno construye el conflicto y lo resuelve, no solo en si "gustó" el texto.
+a) Semejanza: los dos ocurren en la pampa salitrera, en el norte de Chile. Diferencia: solo en el Texto 1 hay personajes que enfrentan un conflicto; en el Texto 2 solo se describe una costumbre sin ningún personaje
+b) No tienen ninguna semejanza ni diferencia
+c) Semejanza: en los dos hay una minga en que la comunidad colabora sin cobrar. Diferencia: el Texto 1 es un poema escrito en estrofas y el Texto 2 es un cuento escrito en párrafos
+d) Semejanza: en ambos el entorno impone reglas o costumbres que los personajes deben respetar. Diferencia: en el Texto 1 el conflicto nace de desobedecer una regla; en el Texto 2 se resuelve con colaboración comunitaria
 
-**7. (Desarrollo breve — conclusión sustentada)** A partir de la información de ambos textos, ¿qué conclusión puedes sacar sobre la relación entre el lugar donde vive una persona y la forma en que enfrenta los problemas? Fundamenta con información de los textos.
+*Respuesta correcta: d.* Retroalimentación: comparar autores implica identificar semejanzas y diferencias reales; al elegir cuál prefieres, fundamenta con elementos de los textos.
 
-*Respuesta esperada*: se puede concluir que el lugar y sus condiciones (peligro extremo en la pampa, tradición de ayuda mutua en Chiloé) moldean fuertemente las reglas, costumbres y decisiones de quienes viven ahí; en el Texto 1 esto se traduce en normas estrictas de seguridad, y en el Texto 2, en la costumbre de la minga como forma de resolver dificultades. Retroalimentación: una conclusión sustentada no es una opinión libre, sino una idea general que se apoya directamente en evidencia extraída de los textos leídos.
+**7. (Alternativas — conclusión sustentada)** A partir de ambos textos, ¿qué conclusión se apoya en la evidencia sobre la relación entre el lugar donde vive una persona y la forma en que enfrenta los problemas?
+
+a) El lugar no influye en nada en la forma de enfrentar problemas: Manuel y Antonia habrían actuado igual si vivieran en otra parte de Chile
+b) Todas las personas enfrentan los problemas igual, vivan donde vivan: en la pampa y en Chiloé se resuelven pidiendo dinero prestado a los vecinos
+c) El lugar y sus condiciones moldean las reglas y decisiones: en la pampa, normas estrictas de seguridad; en Chiloé, la minga como forma de resolver dificultades
+d) Solo las personas de la ciudad tienen problemas
+
+*Respuesta correcta: c.* Retroalimentación: una conclusión sustentada no es una opinión libre, sino una idea general que se apoya directamente en evidencia extraída de los textos.
 
 ---
 
@@ -177,40 +197,60 @@ En 6° básico sumas una nueva mirada a la poesía: además de fijarte en las im
 **1. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en "mis ojos pesan más que una montaña"?
 
 a) Onomatopeya
-b) Hipérbole
-c) Rima consonante
+b) Rima consonante
+c) Hipérbole
 d) Aliteración
 
-*Respuesta correcta: b.* Retroalimentación: es una hipérbole porque exagera deliberadamente (los ojos no pesan literalmente como una montaña) para transmitir con fuerza la sensación de cansancio.
+*Respuesta correcta: c.* Retroalimentación: es una hipérbole porque exagera deliberadamente (los ojos no pesan literalmente como una montaña) para transmitir con fuerza la sensación de cansancio.
 
 **2. (Verdadero o Falso)** La palabra "traquetea" es un ejemplo de onomatopeya, porque su sonido imita el ruido real de un tren en movimiento.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: una onomatopeya es una palabra cuyo sonido imita o recuerda el sonido de la realidad que describe, como en este caso el ruido del tren sobre los rieles.
 
-**3. (Desarrollo breve)** Explica el significado de la personificación "los pinos se inclinan para verlo pasar, susurrando secretos". ¿Qué sensación transmite?
+**3. (Alternativas — personificación)** ¿Qué sensación transmite la personificación "los pinos se inclinan para verlo pasar, susurrando secretos"?
 
-*Respuesta esperada*: se les da a los pinos una actitud humana de curiosidad e intimidad (inclinarse, susurrar), lo que transmite la sensación de que el paisaje nocturno acompaña y observa el viaje, como si estuviera vivo. Retroalimentación: explicar una personificación implica decir qué sensación o efecto produce en el poema, no solo identificarla.
+a) Que el paisaje nocturno acompaña y observa el viaje, como si estuviera vivo
+b) Que hay un temporal nocturno que derriba los pinos sobre la vía
+c) Que los pinos están enfermos y se doblan porque se están secando
+d) Que el tren choca con los árboles al pasar demasiado cerca de ellos
 
-**4. (Aplicación)** Identifica un ejemplo de **aliteración** en el poema y explica qué sonido se repite y qué efecto produce.
+*Respuesta correcta: a.* Retroalimentación: se les da a los pinos una actitud humana de curiosidad e intimidad (inclinarse, susurrar). Explicar una personificación implica decir qué sensación produce, no solo identificarla.
 
-*Respuesta esperada*: en el verso "silba una vez, dos veces, tres veces" se repite el sonido "s", lo que refuerza auditivamente la sensación de un silbido agudo y prolongado. Retroalimentación: la aliteración es la repetición cercana de un mismo sonido; identificarla exige fijarse en cómo suenan las palabras, no solo en su significado.
+**4. (Alternativas — aliteración)** ¿Qué ejemplo de **aliteración** hay en el poema, y qué efecto produce?
+
+a) "los pinos se inclinan para verlo pasar": la repetición del sonido "p" compara los pinos con personas que miran el tren
+b) El poema no tiene aliteraciones, porque ninguna estrofa repite sonidos consonánticos de manera intencional
+c) "tres veces": es una hipérbole que exagera la cantidad de veces que silba el tren durante el viaje
+d) "silba una vez, dos veces, tres veces": la repetición del sonido "s" refuerza la sensación de un silbido agudo y prolongado
+
+*Respuesta correcta: d.* Retroalimentación: la aliteración es la repetición cercana de un mismo sonido; identificarla exige fijarse en cómo suenan las palabras, no solo en su significado.
 
 **5. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **implícita** (no explícita)?
 
-a) El tren viaja de noche
-b) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-c) Los pinos se inclinan
-d) El poema tiene dos estrofas
+a) El tren viaja de noche, como indica el título del poema
+b) El poema tiene dos estrofas, como se ve al leerlo
+c) Los pinos se inclinan al paso del tren, según el texto
+d) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
 
-*Respuesta correcta: b.* Retroalimentación: esta idea se deduce combinando varias pistas del poema (el sueño acumulado, "kilómetros", "mil años de viaje"), pero no aparece dicha directamente con esas palabras; por eso es información implícita.
+*Respuesta correcta: d.* Retroalimentación: esta idea se deduce combinando varias pistas del poema (el sueño acumulado, "kilómetros", "mil años de viaje"), pero no aparece dicha directamente con esas palabras; por eso es información implícita.
 
-**6. (Desarrollo breve)** Interpreta con tus propias palabras qué ocurre en la segunda estrofa del poema.
+**6. (Alternativas — interpretar)** ¿Qué ocurre en la segunda estrofa del poema?
 
-*Respuesta esperada*: cualquier interpretación razonable que mencione que el paisaje (los pinos) parece observar el paso del tren, y que quien viaja está tan cansado que finalmente se queda dormido antes de llegar a su destino. Retroalimentación: interpretar con tus propias palabras significa explicar el sentido general de una parte del poema sin simplemente repetir los versos tal cual están escritos.
+a) El tren se detiene en una estación del sur y todos los pasajeros bajan a caminar entre los pinos
+b) Los pinos caen sobre la vía por el viento y el tren tiene que esperar hasta el amanecer
+c) El paisaje (los pinos) parece observar el paso del tren, y quien viaja, cansado, se queda dormido antes de llegar
+d) Es de día y el pasajero, muy despierto, toma fotos de los pinos y del paisaje por la ventana
 
-**7. (Aplicación)** Escribe un verso propio que use una **hipérbole** para describir lo hambriento/a que estabas después de un día de colegio.
+*Respuesta correcta: c.* Retroalimentación: interpretar con tus propias palabras significa explicar el sentido general de una parte del poema sin simplemente repetir los versos.
 
-*Respuesta esperada*: cualquier verso con una exageración evidente e intencionada, por ejemplo: "Tenía tanta hambre que me habría comido una vaca entera" o "Mi estómago rugía más fuerte que un temporal". Retroalimentación: una buena hipérbole es una exageración que se nota como tal (nadie la cree literalmente), pero que comunica con fuerza una emoción o sensación.
+**7. (Alternativas — hipérbole)** ¿Cuál de estos versos usa una **hipérbole** para describir el hambre después de un día de colegio?
+
+a) Tenía mucha hambre después del colegio y almorcé rápido
+b) Mi estómago estaba vacío y sonaba como un tambor de fiesta
+c) Tenía tanta hambre que me habría comido una vaca entera
+d) Almorcé porotos con mi familia
+
+*Respuesta correcta: c.* Retroalimentación: una hipérbole es una exageración evidente e intencionada (nadie la cree literalmente) que comunica con fuerza una sensación; "vacío como un tambor" es una comparación. Intenta escribir tu propia hipérbole.
 
 ---
 
@@ -267,41 +307,61 @@ Diciembre     90
 
 **1. (Alternativas)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas familias de Alto Hospicio gracias a los atrapanieblas?
 
-a) Dejaron de necesitar electricidad
-b) Pudieron regar huertos comunitarios sin depender de camiones aljibe
-c) Consiguieron trabajo en la ciudad
-d) Mejoraron el acceso a internet
+a) Pudieron regar huertos comunitarios sin depender de camiones aljibe
+b) Dejaron de necesitar electricidad para sus casas y escuelas
+c) Consiguieron trabajo en la ciudad instalando nuevas mallas
+d) Mejoraron el acceso a internet en los cerros de la comuna
 
-*Respuesta correcta: b.* Retroalimentación: el texto explica explícitamente que algunas familias que antes dependían de camiones aljibe hoy pueden regar huertos comunitarios gracias a los atrapanieblas.
+*Respuesta correcta: a.* Retroalimentación: el texto explica explícitamente que algunas familias que antes dependían de camiones aljibe hoy pueden regar huertos comunitarios gracias a los atrapanieblas.
 
-**2. (Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿en qué mes se registró la menor cantidad de litros captados por malla, y cuántos fueron?
+**2. (Alternativas — texto discontinuo)** Según la tabla del Texto A, ¿en qué mes se registró la menor cantidad de litros captados por malla, y cuántos fueron?
 
-*Respuesta correcta: en diciembre, con 90 litros.* Retroalimentación: para responder hay que revisar la columna de litros captados y encontrar el valor más bajo entre los meses presentados.
+a) En diciembre, con 90 litros
+b) En marzo, con 120 litros
+c) En septiembre, con 280 litros
+d) En junio, con 310 litros
 
-**3. (Desarrollo breve)** Explica qué diferencia principal existe entre el enfoque del Texto A y el enfoque del Texto B, aunque ambos traten sobre atrapanieblas.
+*Respuesta correcta: a.* Retroalimentación: hay que revisar la columna de litros captados y encontrar el valor más bajo; junio es el mayor, no el menor.
 
-*Respuesta esperada*: el Texto A se enfoca en el impacto social y comunitario de los atrapanieblas en Alto Hospicio, mientras que el Texto B se enfoca en explicar el principio científico detrás de la tecnología y su origen histórico en Chile. Retroalimentación: comparar dos textos del mismo tema implica identificar qué aspecto particular destaca cada uno, aunque compartan el tema general.
+**3. (Alternativas — comparar textos)** ¿Qué diferencia principal hay entre el enfoque del Texto A y el del Texto B, aunque ambos traten sobre atrapanieblas?
+
+a) El Texto A es un poema sobre la camanchaca de Alto Hospicio y el Texto B es un cuento sobre una familia que instala atrapanieblas
+b) Los dos se enfocan exactamente en lo mismo: el impacto social de los atrapanieblas en las familias de Alto Hospicio
+c) El Texto A habla del principio científico y del origen histórico de los atrapanieblas; el Texto B, del impacto en la comunidad
+d) El Texto A se enfoca en el impacto social y comunitario en Alto Hospicio; el Texto B, en el principio científico y su origen histórico en Chile
+
+*Respuesta correcta: d.* Retroalimentación: comparar dos textos del mismo tema implica identificar qué aspecto particular destaca cada uno.
 
 **4. (Verdadero o Falso)** Según el Texto B, la tecnología de los atrapanieblas fue desarrollada originalmente en Marruecos y luego se replicó en Chile.
 
 *Respuesta correcta: Falso.* Retroalimentación: el texto indica lo contrario: la tecnología fue desarrollada inicialmente en Chile, en la Región de Antofagasta, y luego se replicó en países como Perú, Marruecos y Sudáfrica.
 
-**5. (Aplicación — inferencia)** A partir de los datos de la tabla del Texto A, ¿qué se puede inferir sobre la cantidad de camanchaca a lo largo del año? Fundamenta tu respuesta.
+**5. (Alternativas — inferencia)** A partir de la tabla del Texto A, ¿qué se puede inferir sobre la camanchaca a lo largo del año?
 
-*Respuesta esperada*: se puede inferir que la cantidad de camanchaca varía según la época del año, ya que la cantidad de litros captados cambia notoriamente entre meses (por ejemplo, mucho más en junio que en diciembre); esto sugiere que hay meses con más niebla costera que otros. Retroalimentación: una inferencia a partir de una tabla combina los datos numéricos con un razonamiento lógico sobre lo que esos datos podrían significar.
+a) Que es igual todo el año, porque los litros captados son casi los mismos en todos los meses de la tabla
+b) Que no se puede inferir nada de una tabla, porque las tablas solo muestran números y no explican nada
+c) Que solo hay camanchaca en diciembre, porque es el único mes en que la tabla muestra litros captados
+d) Que su cantidad varía según la época del año, porque los litros captados cambian mucho entre meses (más en junio que en diciembre)
+
+*Respuesta correcta: d.* Retroalimentación: una inferencia a partir de una tabla combina los datos numéricos con un razonamiento lógico sobre lo que esos datos podrían significar.
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones compara correctamente información de ambos textos?
 
 a) "Ambos textos afirman que los atrapanieblas reemplazan completamente el agua potable de una ciudad"
-b) "El Texto A muestra el impacto social de los atrapanieblas en una comunidad, y el Texto B explica el principio científico detrás de esta tecnología"
-c) "El Texto B dice que los atrapanieblas se inventaron en Alto Hospicio"
-d) "Ninguno de los dos textos menciona la camanchaca"
+b) "El Texto B dice que los atrapanieblas se inventaron en Alto Hospicio y que desde ahí se llevaron a otros países del mundo con climas similares"
+c) "El Texto A muestra el impacto social de los atrapanieblas en una comunidad, y el Texto B explica el principio científico detrás de esta tecnología"
+d) "Ninguno de los dos textos menciona la camanchaca ni explica de dónde proviene el agua que capturan las mallas"
 
-*Respuesta correcta: b.* Retroalimentación: esta opción integra correctamente el enfoque de cada texto sin contradecir la información entregada por ninguno de los dos.
+*Respuesta correcta: c.* Retroalimentación: esta opción integra correctamente el enfoque de cada texto sin contradecir la información entregada por ninguno de los dos.
 
-**7. (Desarrollo breve — opinión fundamentada)** ¿Crees que se debería invertir más dinero público en proyectos de atrapanieblas en el norte de Chile? Da tu opinión y fundaméntala con información de los textos o tus propios conocimientos.
+**7. (Alternativas — opinión fundamentada)** Alguien opina: "Se debería invertir más dinero público en atrapanieblas en el norte". ¿Qué fundamento combina evidencia de **ambos** textos?
 
-*Respuesta esperada*: cualquier opinión razonada, por ejemplo: "Me parece que sí se debería invertir más, porque el Texto A muestra un beneficio concreto para las familias y el Texto B explica que es una tecnología ya probada científicamente y usada en otros países con climas similares." Retroalimentación: una opinión fundamentada en dos textos combina evidencia de ambos, no solo de uno, para construir un argumento más completo.
+a) Porque los atrapanieblas son bonitos y decoran los cerros del norte, según muestran las fotos de ambos textos
+b) Porque en el norte llueve mucho, y los dos textos dicen que el agua de lluvia se pierde si no se capta con mallas
+c) El Texto A muestra un beneficio concreto para las familias, y el Texto B explica que es una tecnología probada científicamente
+d) Porque el Texto A dice que los atrapanieblas no funcionan, y el Texto B explica cómo arreglarlos con dinero público
+
+*Respuesta correcta: c.* Retroalimentación: una opinión fundamentada en dos textos combina evidencia de ambos, no solo de uno, para construir un argumento más completo.
 
 ---
 
@@ -350,10 +410,10 @@ En 6° básico das un paso importante como lector o lectora crítica: además de
 
 **1. (Alternativas)** ¿Cuál es el **propósito** principal de la Fuente 1 (comunicado municipal)?
 
-a) Informar de manera equilibrada incluyendo críticas de los vecinos
+a) Informar de manera equilibrada, incluyendo también las críticas de los vecinos
 b) Informar y destacar positivamente una obra realizada por la propia Municipalidad
-c) Vender espacios publicitarios en la ciclovía
-d) Entretener con una historia ficticia
+c) Vender espacios publicitarios a los comercios ubicados junto a la ciclovía
+d) Entretener a los vecinos con una historia ficticia sobre ciclistas del barrio
 
 *Respuesta correcta: b.* Retroalimentación: al ser un comunicado del propio emisor de la obra, su propósito es informar resaltando los aspectos positivos de su gestión, sin incluir las críticas que sí aparecen en la Fuente 2.
 
@@ -361,30 +421,45 @@ d) Entretener con una historia ficticia
 
 *Respuesta correcta: Falso.* Retroalimentación: la Fuente 2 menciona que los comerciantes afirman que sus ventas han bajado, pero no entrega ninguna cifra concreta ni verificable sobre esa disminución.
 
-**3. (Desarrollo breve)** Compara cómo la Fuente 1 y la Fuente 2 presentan la misma noticia (la nueva ciclovía). ¿En qué se diferencian principalmente?
+**3. (Alternativas — comparar fuentes)** ¿En qué se diferencian principalmente la Fuente 1 y la Fuente 2 al presentar la noticia de la nueva ciclovía?
 
-*Respuesta esperada*: la Fuente 1 presenta la noticia de forma completamente positiva, sin mencionar problemas, mientras que la Fuente 2 incluye tanto opiniones favorables como las quejas de los comerciantes, mostrando una visión más equilibrada de la situación. Retroalimentación: comparar dos fuentes sobre una misma noticia permite detectar qué aspectos cada una decide resaltar u omitir, según quién sea el emisor.
+a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y quejas de comerciantes, con una visión más equilibrada
+b) Las dos dicen exactamente lo mismo sobre la ciclovía, con las mismas opiniones de vecinos y comerciantes, aunque una es más corta que la otra
+c) La Fuente 1 critica la ciclovía por los problemas que causó a los comerciantes, y la Fuente 2 no la menciona, porque habla de otro tema de la comuna
+d) La Fuente 2 es un poema sobre las bicicletas y la ciudad, por lo que no entrega información sobre la ciclovía ni sobre la opinión de los vecinos
+
+*Respuesta correcta: a.* Retroalimentación: comparar dos fuentes sobre una misma noticia permite detectar qué aspectos cada una decide resaltar u omitir, según quién sea el emisor.
 
 **4. (Alternativas)** ¿Cuál es el **destinatario** más probable de la Fuente 2?
 
-a) Solo los funcionarios de la Municipalidad
+a) Solo los funcionarios de la Municipalidad que construyeron la ciclovía
 b) Lectores interesados en la actualidad de la comuna de Ñuñoa
-c) Únicamente los ciclistas profesionales
-d) Turistas extranjeros
+c) Únicamente los ciclistas profesionales que entrenan en la comuna
+d) Turistas extranjeros que visitan Santiago durante el verano
 
 *Respuesta correcta: b.* Retroalimentación: al tratarse de un reportaje de un medio de noticias local, su destinatario natural son los lectores interesados en lo que ocurre en su comuna.
 
-**5. (Aplicación)** Si quisieras saber "cuántos accidentes de tránsito ha habido en la avenida Irarrázaval desde que se construyó la ciclovía", ¿alguna de las dos fuentes entrega esa información? ¿Qué deberías hacer para conseguirla?
+**5. (Alternativas — buscar información)** Si quisieras saber cuántos accidentes de tránsito ha habido en la avenida Irarrázaval desde que se construyó la ciclovía, ¿qué deberías hacer?
 
-*Respuesta esperada*: ninguna de las dos fuentes entrega esa información específica; para conseguirla, se podría consultar directamente a Carabineros, a la Municipalidad, o buscar estadísticas oficiales de tránsito. Retroalimentación: reconocer que ninguna fuente disponible responde tu pregunta es el primer paso para buscar información adicional en una fuente más adecuada.
+a) Leer la Fuente 1, que tiene todas las cifras de accidentes de la avenida desde que se construyó la ciclovía
+b) Asumir que no hubo accidentes, porque ninguna de las dos fuentes menciona choques en la avenida Irarrázaval
+c) Preguntar a cualquier persona en redes sociales y usar la respuesta con más "me gusta" como dato confiable
+d) Consultar a Carabineros, a la Municipalidad o estadísticas oficiales, porque ninguna de las dos fuentes entrega ese dato
+
+*Respuesta correcta: d.* Retroalimentación: reconocer que ninguna fuente disponible responde tu pregunta es el primer paso para buscar información en una fuente más adecuada.
 
 **6. (Verdadero o Falso)** Comparar distintas fuentes sobre una misma noticia es útil porque cada fuente puede resaltar información distinta según su punto de vista o quién la produce.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: por eso es importante no quedarse con una sola fuente al informarse sobre un tema, especialmente si esa fuente es también la protagonista de la noticia (como la Municipalidad en este caso).
 
-**7. (Desarrollo breve)** Piensa en una noticia reciente que hayas visto contada por más de un medio (televisión, redes sociales, diario). ¿Notaste diferencias entre cómo la contaba cada uno? Explica con un ejemplo.
+**7. (Alternativas — comparar fuentes en la vida real)** Dos medios cuentan la misma noticia: uno destaca solo los beneficios de una nueva ley y otro incluye también las críticas de algunos grupos. ¿Qué diferencia identificas?
 
-*Respuesta esperada*: cualquier ejemplo razonado que muestre que el estudiante identifica diferencias de énfasis, tono o datos entre distintas fuentes de una misma noticia. Retroalimentación: comparar fuentes en la vida real, y no solo en ejercicios de clase, es una habilidad clave para formarse una opinión informada y no depender de una sola versión de los hechos.
+a) Ninguna: los dos cuentan exactamente lo mismo, solo con distintas palabras
+b) Una diferencia de énfasis: cada medio decide qué aspectos resaltar u omitir
+c) Que uno de los medios inventó la ley y la otra noticia la desmiente
+d) Que la noticia no existe
+
+*Respuesta correcta: b.* Retroalimentación: comparar fuentes en la vida real es clave para formarse una opinión informada y no depender de una sola versión de los hechos. Piensa en una noticia reciente que hayas visto en más de un medio.
 
 ---
 
@@ -433,41 +508,61 @@ En este diálogo se mantiene claro en todo momento quién habla ("la profesora J
 
 **1. (Alternativas)** ¿Qué significa "mantener los referentes" en una narración?
 
-a) Repetir siempre el mismo conector en cada oración
+a) Repetir siempre el mismo conector en cada oración, para que quien lee no se pierda en la historia
 b) Asegurarse de que quien lee siempre sepa con claridad a quién o a qué se refiere cada pronombre o expresión
-c) Usar solo diálogos, sin ninguna descripción
-d) Escribir la historia sin ningún personaje
+c) Usar solo diálogos entre los personajes, sin ninguna descripción del narrador ni del ambiente
+d) Escribir la historia sin ningún personaje, para que no haya confusión sobre a quién se refiere cada palabra
 
 *Respuesta correcta: b.* Retroalimentación: mantener los referentes significa evitar la ambigüedad, para que expresiones como "él", "ella" o "esta última" siempre se entiendan sin confusión sobre a quién se refieren.
 
-**2. (Aplicación)** Corrige el siguiente fragmento para que los referentes queden claros: "Sofía y Valentina fueron al museo. Ella se quedó mirando los cuadros mientras ella tomaba fotos."
+**2. (Alternativas — referentes)** Fragmento: "Sofía y Valentina fueron al museo. Ella se quedó mirando los cuadros mientras ella tomaba fotos." ¿Qué corrección deja **claros** los referentes?
 
-*Respuesta esperada*: cualquier corrección que elimine la ambigüedad, por ejemplo: "Sofía y Valentina fueron al museo. Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos." Retroalimentación: cuando hay dos personajes del mismo género en una oración, es preferible usar sus nombres o expresiones como "la primera"/"la segunda" en vez de repetir un pronombre ambiguo.
+a) Ella se quedó mirando los cuadros mientras ella tomaba fotos.
+b) Ellas se quedó mirando los cuadros mientras tomaba fotos.
+c) Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos.
+d) Se quedó mirando los cuadros mientras ella tomaba fotos.
+
+*Respuesta correcta: c.* Retroalimentación: cuando hay dos personajes del mismo género, es preferible usar sus nombres o expresiones como "la primera"/"la segunda" en vez de repetir un pronombre ambiguo.
 
 **3. (Verdadero o Falso)** Un relato puede tener conflicto evidente aunque nunca se resuelva ni se mencione cómo el personaje lo enfrenta.
 
 *Respuesta correcta: Falso.* Retroalimentación: para que una narración esté bien construida, el conflicto evidente debe resolverse (de alguna manera) a lo largo del relato; dejarlo completamente sin resolución ni desarrollo debilita la historia.
 
-**4. (Desarrollo breve)** Escribe dos oraciones que muestren el inicio de un relato, presentando a un personaje y el ambiente, usando al menos un conector y evitando cualquier ambigüedad en los referentes.
+**4. (Alternativas — inicio de un relato)** ¿Qué inicio de relato presenta personaje y ambiente, usa un conector y no tiene ambigüedad en los referentes?
 
-*Respuesta esperada*: cualquier inicio bien construido y sin ambigüedad, por ejemplo: "Matías bajó del bus en Puerto Varas, con el frío calando su chaqueta liviana. Apenas llegó, se dio cuenta de que había olvidado la dirección de la cabaña donde se hospedaría." Retroalimentación: un buen inicio presenta con claridad quién es el personaje y dónde ocurre la historia, sin dejar dudas sobre a quién se refiere cada oración.
+a) Matías bajó del bus en Puerto Varas, con el frío calando su chaqueta liviana. Apenas llegó, se dio cuenta de que había olvidado la dirección de la cabaña.
+b) Él bajó del bus y ella también. Ahí se dio cuenta de que lo había olvidado, y entonces él le dijo que ella lo tenía, pero ella no sabía.
+c) Puerto Varas es una ciudad del sur de Chile, ubicada a orillas del lago Llanquihue. Tiene muchas cabañas y recibe turistas durante todo el año.
+d) Y finalmente todos volvieron a casa. Matías se despidió de la cabaña, del lago y del frío de Puerto Varas, y nunca más olvidó una dirección.
+
+*Respuesta correcta: a.* Retroalimentación: un buen inicio presenta con claridad quién es el personaje y dónde ocurre la historia, sin dejar dudas sobre a quién se refiere cada oración.
 
 **5. (Alternativas)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar una consecuencia?
 
-a) "Y, y, y, y"
+a) "Sin embargo, aunque, en cambio, por el contrario"
 b) "Primero, después, como resultado, finalmente"
-c) "Manzana, pera, plátano, uva"
-d) "Rápido, lento, alto, bajo"
+c) "Además, también, asimismo, igualmente"
+d) "Por ejemplo, es decir, o sea, como"
 
 *Respuesta correcta: b.* Retroalimentación: "primero" y "después" ordenan los sucesos en el tiempo, "como resultado" marca una relación de causa-consecuencia, y "finalmente" cierra el relato; juntos ayudan a que la historia se entienda con claridad y orden.
 
-**6. (Aplicación — texto largo)** Relee el "Ejemplo 2" sobre Diego y la maqueta del sistema solar. Identifica: (a) el conflicto evidente, y (b) cómo se resuelve, explicando también si los referentes ("él", "sus", "su profesora") se mantienen claros a lo largo del fragmento.
+**6. (Alternativas — conflicto, resolución y referentes)** En el "Ejemplo 2" sobre Diego y la maqueta del sistema solar, ¿qué afirmación es correcta?
 
-*Respuesta esperada*: (a) el conflicto es que Diego debe presentar una maqueta que no logró terminar a tiempo; (b) se resuelve cuando decide presentar con honestidad y humor lo que sí logró hacer, en vez de esconder el problema; los referentes se mantienen claros porque siempre queda explícito que se habla de Diego y sus acciones, sin confundirlo con otro personaje. Retroalimentación: revisar los referentes de un texto ajeno entrena tu ojo crítico para cuidar los propios cuando escribas.
+a) Conflicto: la profesora pierde la maqueta de Diego antes de la presentación. Resolución: la encuentra Diego en la sala
+b) No hay conflicto, porque Diego termina la maqueta a tiempo, y los referentes son ambiguos: no se sabe quién habla
+c) Conflicto: Diego gana un premio por su maqueta del sistema solar. Resolución: lo comparte con todo su curso
+d) Conflicto: Diego no terminó la maqueta a tiempo. Resolución: la presenta con honestidad y humor. Los referentes se mantienen claros
 
-**7. (Desarrollo breve)** Escribe un breve diálogo (3 a 4 líneas) entre dos personajes, dejando explícito quién dice cada línea (por nombre o por una descripción clara), de modo que no haya ninguna ambigüedad sobre los referentes.
+*Respuesta correcta: d.* Retroalimentación: revisar los referentes de un texto ajeno entrena tu ojo crítico para cuidar los propios cuando escribas.
 
-*Respuesta esperada*: cualquier diálogo coherente donde se identifique con claridad quién habla en cada línea, por ejemplo: "—No puedo creer que perdiéramos la final —dijo Josefa, mirando el marcador—. / —Jugamos bien, eso es lo que importa —respondió su hermano Tomás, tratando de animarla—. / —Tienes razón —admitió Josefa, esbozando una sonrisa pequeña." Retroalimentación: identificar claramente quién habla (con el nombre o una descripción) evita que el lector se pierda o confunda a los personajes durante el diálogo.
+**7. (Alternativas — diálogo sin ambigüedad)** ¿Qué diálogo deja explícito quién dice cada línea?
+
+a) —No puedo creer que perdiéramos la final. / —Jugamos bien, eso importa. / —Tienes razón. / —Sí, la próxima vez ganaremos, ya verás.
+b) —No puedo creer que perdiéramos la final —dijo Josefa—. / —Jugamos bien, eso importa —respondió su hermano Tomás—. / —Tienes razón —admitió Josefa.
+c) —Ella dijo que él dijo que perdimos —dijo ella—. / —Él respondió a ella que jugamos bien —respondió él—. / —Tiene razón —dijo ella otra vez.
+d) —¿Quién habla? / —No sé.
+
+*Respuesta correcta: b.* Retroalimentación: identificar claramente quién habla (con el nombre o una descripción) evita que el lector se pierda o confunda a los personajes.
 
 ---
 
@@ -503,10 +598,10 @@ Observa cómo el texto: presenta el tema en el primer párrafo; desarrolla una i
 
 **1. (Alternativas)** ¿Qué elemento nuevo debe incluir la estructura de un artículo informativo en 6° básico, que no era exigido de la misma forma en 5° básico?
 
-a) Un título llamativo
+a) Un título llamativo y una imagen que atraigan al lector desde el inicio
 b) Un párrafo de síntesis final que retome las ideas principales
-c) Solo un párrafo de extensión
-d) Dibujos obligatorios
+c) Solo un párrafo de extensión, sin subtítulos
+d) Dibujos obligatorios en cada uno de los párrafos
 
 *Respuesta correcta: b.* Retroalimentación: la estructura ahora exige explícitamente presentación, desarrollo y una síntesis final de las principales ideas, algo que refuerza la comprensión del lector antes de terminar el texto.
 
@@ -514,30 +609,50 @@ d) Dibujos obligatorios
 
 *Respuesta correcta: Falso.* Retroalimentación: el párrafo de síntesis debe retomar y resumir las ideas principales ya desarrolladas en el texto, no introducir información nueva no mencionada antes.
 
-**3. (Aplicación)** Según el artículo "El pudú, el ciervo más pequeño del mundo", ¿cuál es la idea central del tercer párrafo?
+**3. (Alternativas — idea central)** Según el artículo "El pudú, el ciervo más pequeño del mundo", ¿cuál es la idea central del tercer párrafo?
 
-*Respuesta correcta: el rol ecológico del pudú, ya que ayuda a dispersar semillas de plantas nativas y contribuye a mantener la diversidad del bosque templado chileno.* Retroalimentación: identificar la idea central de cada párrafo, incluidos los que explican la importancia de un tema, te ayuda a comprender la organización completa de un artículo informativo.
+a) El tamaño del pudú: es el ciervo más pequeño del mundo y un adulto mide entre 35 y 45 centímetros de altura
+b) Las amenazas que enfrenta el pudú: la tala del bosque nativo, los ataques de perros y los atropellos en carreteras
+c) El rol ecológico del pudú: ayuda a dispersar semillas de plantas nativas y mantiene la diversidad del bosque templado
+d) La síntesis de todo el artículo
 
-**4. (Desarrollo breve)** ¿Por qué es útil para el lector que un artículo informativo termine con un párrafo de síntesis?
+*Respuesta correcta: c.* Retroalimentación: identificar la idea central de cada párrafo te ayuda a comprender la organización completa de un artículo informativo.
 
-*Respuesta esperada*: porque le permite recordar y ordenar las ideas principales del texto sin tener que releerlo completo, reforzando su comprensión general del tema. Retroalimentación: la síntesis final funciona como un resumen que conecta todas las ideas centrales desarrolladas a lo largo del artículo.
+**4. (Alternativas — párrafo de síntesis)** ¿Por qué es útil que un artículo informativo termine con un párrafo de síntesis?
+
+a) Porque permite recordar y ordenar las ideas principales sin releer todo el texto
+b) Porque así el artículo es más largo y cumple con la extensión pedida
+c) Porque agrega información nueva que no se mencionó antes en el artículo
+d) No es útil, porque el lector ya leyó toda la información en los párrafos anteriores
+
+*Respuesta correcta: a.* Retroalimentación: la síntesis final funciona como un resumen que conecta todas las ideas centrales desarrolladas en el artículo.
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el ahorro de agua?
 
-a) "Ahorrar agua es bueno. Ahorrar agua ayuda. Ahorrar agua es importante."
+a) "Ahorrar agua es bueno. Ahorrar agua ayuda. Ahorrar agua es importante. Ahorrar agua sirve para el hogar y ahorrar agua es necesario."
 b) "Ahorrar agua contribuye a proteger este recurso escaso, disminuye el gasto en las cuentas del hogar y beneficia a los ecosistemas."
-c) "Agua agua agua es lo mejor lo mejor."
-d) "El agua agua agua ayuda ayuda ayuda."
+c) "Agua agua agua es lo mejor lo mejor, y el agua agua ayuda a todos los que ahorran agua agua."
+d) "El agua agua agua ayuda ayuda ayuda, porque el agua es agua y ahorrar agua ayuda a ahorrar agua."
 
 *Respuesta correcta: b.* Retroalimentación: la opción b) evita repetir la misma expresión en cada oración, usando sinónimos y frases distintas, lo que hace el texto más claro y agradable de leer.
 
-**6. (Aplicación — texto largo)** Imagina que debes escribir un artículo informativo breve sobre "el reciclaje de pilas en tu comuna". Escribe la oración inicial que presente el tema, menciona dos ideas centrales para los párrafos de desarrollo, y redacta una oración que podría formar parte del párrafo de síntesis final.
+**6. (Alternativas — planificar un artículo)** Debes escribir un artículo sobre "el reciclaje de pilas en tu comuna". ¿Qué planificación es más adecuada?
 
-*Respuesta esperada*: cualquier oración inicial que presente claramente el tema (por ejemplo, "El reciclaje de pilas se ha vuelto una práctica cada vez más necesaria debido a los materiales tóxicos que contienen"), dos ideas centrales razonables (por ejemplo, "los puntos limpios disponibles en la comuna" y "el daño ambiental que provocan las pilas mal desechadas"), y una oración de síntesis que retome ambas ideas (por ejemplo, "En síntesis, reciclar pilas en los puntos limpios de la comuna evita la contaminación del suelo y protege la salud de la comunidad"). Retroalimentación: planificar tanto el inicio como el cierre del artículo antes de escribir ayuda a que todo el texto quede bien conectado.
+a) Inicio: "Me gustan las pilas porque hacen funcionar mis juguetes". Ideas: los colores y tamaños de las pilas, y las marcas que más duran. Síntesis: una opinión personal sobre mis juguetes favoritos
+b) Escribir todo en un solo párrafo sin síntesis, mezclando los puntos limpios de la comuna con opiniones sobre las pilas, sin presentar el tema ni agregar las fuentes consultadas
+c) Empezar por la síntesis y no presentar el tema
+d) Inicio: "El reciclaje de pilas es cada vez más necesario por los materiales tóxicos que contienen". Ideas: los puntos limpios de la comuna y el daño de las pilas mal desechadas. Síntesis que retome ambas ideas
 
-**7. (Desarrollo breve)** Menciona dos tipos de fuentes que podrías usar para investigar y escribir un artículo informativo sobre una especie nativa de Chile en peligro de extinción.
+*Respuesta correcta: d.* Retroalimentación: planificar la presentación, las ideas centrales y la síntesis ayuda a organizar mejor un artículo informativo.
 
-*Respuesta esperada*: cualquier par de fuentes razonables y confiables, por ejemplo: páginas web de instituciones oficiales (CONAF, Ministerio del Medio Ambiente), libros o enciclopedias sobre fauna chilena, entrevistas a especialistas, o documentales confiables. Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas en el tema.
+**7. (Varias correctas — fuentes)** ¿Cuáles de estas son fuentes confiables para investigar sobre una especie nativa de Chile en peligro de extinción? Marca **todas** las correctas.
+
+a) Páginas web de CONAF o del Ministerio del Medio Ambiente
+b) Libros o enciclopedias sobre fauna chilena
+c) Un rumor que escuchaste en el recreo
+d) Entrevistas a especialistas
+
+*Respuesta correcta: a, b y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas.
 
 ---
 

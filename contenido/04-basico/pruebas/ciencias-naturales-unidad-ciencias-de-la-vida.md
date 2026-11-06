@@ -7,6 +7,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 10
 basado_en: contenido/04-basico/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"4":"OA 2","5":"OA 3","6":"OA 3","7":"OA 6","8":"OA 6"}
 ---
 
 # Prueba de Unidad — Ciencias de la Vida
@@ -14,8 +15,7 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 20 a 25 minutos
 **Instrucciones:** Lee cada pregunta con calma. En las preguntas de alternativas,
-marca solo una opción. En las preguntas de desarrollo, responde con tus propias
-palabras en 1 a 3 oraciones.
+marca solo una opción. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
@@ -35,29 +35,39 @@ d) Copihue
 **3.** ¿Por qué el cactus tiene espinas en vez de hojas anchas?
 
 a) Solo para defenderse de otros animales
-b) Para reducir la pérdida de agua
+b) Para crecer más rápido
 c) Para atraer más lluvia
-d) Para crecer más rápido
+d) Para reducir la pérdida de agua
 
 ---
 
-**4.** *(Desarrollo breve)* Explica una adaptación conductual y una adaptación
-estructural del guanaco para vivir en la Patagonia.
+**4.** *(Alternativas)* ¿Qué pareja muestra correctamente una adaptación estructural y una conductual
+del guanaco para vivir en la Patagonia?
+
+a) Estructural: lana gruesa y patas con almohadillas. Conductual: vivir en manadas para protegerse
+b) Estructural: vivir en manadas para protegerse. Conductual: tener lana gruesa contra el frío
+c) Estructural: dormir de día para ahorrar energía. Conductual: tener patas largas para correr
+d) Estructural: comer pasto de la estepa. Conductual: tener pelaje café para camuflarse
 
 ---
 
 **5.** En la cadena alimentaria "pasto → guanaco → puma", el guanaco cumple el rol de:
 
-a) Productor
-b) Consumidor primario
+a) Consumidor primario
+b) Productor
 c) Consumidor secundario
 d) Descomponedor
 
 ---
 
-**6.** *(Aplicación — ordenar)* Ordena esta cadena alimentaria marina chilena, desde
+**6.** *(Alternativas — ordenar)* ¿Cuál es el orden de esta cadena alimentaria marina chilena, desde
 el productor hasta el consumidor de mayor nivel: lobo marino — fitoplancton —
 pingüino de Humboldt — anchoveta.
+
+a) Lobo marino → pingüino de Humboldt → anchoveta → fitoplancton
+b) Anchoveta → fitoplancton → lobo marino → pingüino de Humboldt
+c) Fitoplancton → pingüino de Humboldt → anchoveta → lobo marino
+d) Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino
 
 ---
 
@@ -70,8 +80,13 @@ d) Piel
 
 ---
 
-**8.** *(Desarrollo breve)* Explica, usando el ejemplo del brazo, cómo actúan juntos
-los huesos, músculos y tendones para doblar el codo.
+**8.** *(Alternativas)* Usando el ejemplo del brazo, ¿cómo actúan juntos
+los huesos, músculos y tendones para doblar el codo?
+
+a) El hueso del brazo se contrae y se acorta, mientras el músculo se queda quieto y el tendón lo empuja
+b) El bíceps se contrae, el tendón transmite la fuerza al hueso del antebrazo y la articulación del codo permite el giro
+c) El tendón da la orden de moverse al cerebro, y el hueso del antebrazo se dobla solo por la mitad
+d) La articulación del codo empuja al músculo hacia el hombro, y el hueso se estira para alcanzar la mano
 
 ---
 
@@ -99,20 +114,15 @@ d) El fémur
    son un elemento no vivo (abiótico), aunque sean importantes como refugio.
 2. **Falso.** El aire y el agua son elementos no vivos (abióticos), pero son
    esenciales para que los seres vivos del ecosistema sobrevivan.
-3. **b) Para reducir la pérdida de agua.** Las espinas tienen menos superficie que
+3. **d) Para reducir la pérdida de agua.** Las espinas tienen menos superficie que
    las hojas anchas, lo que ayuda a la planta a conservar agua en ambientes secos.
-4. **Respuesta esperada:** Estructural: patas largas con almohadillas y lana gruesa.
-   Conductual: vivir en manadas para protegerse de depredadores.
-5. **b) Consumidor primario.** El guanaco se alimenta directamente del pasto (un
+4. a) Estructural: lana gruesa y patas con almohadillas. Conductual: vivir en manadas para protegerse. "Estructural" se refiere al cuerpo y "conductual" a la forma de comportarse.
+5. **a) Consumidor primario.** El guanaco se alimenta directamente del pasto (un
    productor), por lo que es un consumidor primario.
-6. **Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino.** El
-   fitoplancton es el productor porque realiza fotosíntesis; desde ahí, cada
-   organismo se alimenta del anterior.
+6. d) Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino. El fitoplancton es el productor porque realiza fotosíntesis; desde ahí, cada organismo se alimenta del anterior.
 7. **b) Tendón.** El tendón conecta el músculo con el hueso y transmite la fuerza
    necesaria para el movimiento.
-8. **Respuesta esperada:** El músculo bíceps se contrae, el tendón transmite esa
-   fuerza al hueso del antebrazo, y la articulación del codo permite que el hueso
-   gire.
+8. b) El bíceps se contrae, el tendón transmite la fuerza al hueso del antebrazo y la articulación del codo permite el giro. El músculo genera la fuerza, el tendón la transmite y el hueso con la articulación permiten el movimiento.
 9. **b) Elaborar y controlar la información.** El cerebro es el centro de control
    del sistema nervioso.
 10. **c) La columna vertebral.** Protege la médula espinal, estructura delicada y

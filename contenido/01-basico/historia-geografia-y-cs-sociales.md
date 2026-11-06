@@ -113,10 +113,14 @@ cuando hay sol y hacemos nuestras actividades.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena estos momentos del día del 1 (primero) al 3 (último):
-___ Almorzar — ___ Desayunar — ___ Cenar
+**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden correcto de las comidas
+del día, de la primera a la última?
+a) Almorzar → Desayunar → Cenar
+b) Cenar → Almorzar → Desayunar
+c) Desayunar → Almorzar → Cenar
+d) Desayunar → Cenar → Almorzar
 
-✅ Respuesta correcta: 1) Desayunar, 2) Almorzar, 3) Cenar
+✅ Respuesta correcta: **c) Desayunar → Almorzar → Cenar**
 💬 *Retroalimentación:* ¡Excelente! El desayuno es en la mañana, el almuerzo al mediodía, y la
 cena en la noche.
 
@@ -124,22 +128,26 @@ cena en la noche.
 
 **4. (Alternativas)** Hoy es viernes. ¿Qué día fue ayer?
 a) Sábado
-b) Jueves
+b) Lunes
 c) Domingo
-d) Lunes
+d) Jueves
 
-✅ Respuesta correcta: **b) Jueves**
+✅ Respuesta correcta: **d) Jueves**
 💬 *Retroalimentación:* Correcto. "Ayer" siempre es el día que pasó justo antes de hoy.
 
 ---
 
-**5. (Ordenar secuencia)** Ordena estos momentos de la vida de Sofía del 1 (primero) al 3
-(último): ___ Este año está en 1° Básico — ___ El año pasado estaba en Kínder — ___ El año
-próximo estará en 2° Básico
+**5. (Alternativas — ordenar secuencia)** ¿Cuál es el orden correcto de estos momentos
+de la vida de Sofía, del primero al último?
+a) El año pasado estaba en Kínder → Este año está en 1° Básico → El año próximo estará en 2° Básico
+b) Este año está en 1° Básico → El año pasado estaba en Kínder → El año próximo estará en 2° Básico
+c) El año próximo estará en 2° Básico → Este año está en 1° Básico → El año pasado estaba en Kínder
+d) Este año está en 1° Básico → El año próximo estará en 2° Básico → El año pasado estaba en Kínder
 
-✅ Respuesta correcta: 1) El año pasado estaba en Kínder, 2) Este año está en 1° Básico, 3)
-El año próximo estará en 2° Básico
-💬 *Retroalimentación:* ¡Muy bien! Vamos creciendo de curso en curso, año tras año.
+✅ Respuesta correcta: **a) El año pasado estaba en Kínder → Este año está en 1° Básico → El año próximo estará en 2° Básico**
+💬 *Retroalimentación:* ¡Muy bien! Primero viene lo que pasó (el año pasado), luego lo que pasa
+ahora (este año) y al final lo que pasará (el año próximo). Vamos creciendo de curso en curso,
+año tras año.
 
 ---
 
@@ -218,11 +226,11 @@ cada fiesta con el tipo de lugar donde ocurre: desierto (La Tirana), costa (San 
 
 **1. (Alternativas)** ¿Cuál es la flor nacional de Chile?
 a) La rosa
-b) El copihue
+b) El tulipán
 c) El girasol
-d) El tulipán
+d) El copihue
 
-✅ Respuesta correcta: **b) El copihue**
+✅ Respuesta correcta: **d) El copihue**
 💬 *Retroalimentación:* ¡Correcto! El copihue es una flor roja en forma de campanita, típica
 del sur de Chile, y es el símbolo floral de nuestro país.
 
@@ -237,8 +245,8 @@ septiembre.
 ---
 
 **3. (Alternativas)** ¿En qué fecha se celebran las Fiestas Patrias en Chile?
-a) 21 de mayo
-b) 25 de diciembre
+a) 25 de diciembre
+b) 21 de mayo
 c) 18 de septiembre
 d) 1 de enero
 
@@ -248,37 +256,44 @@ cueca, empanadas y banderas chilenas.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada fiesta con el lugar donde ocurre principalmente:
+**4. (Alternativas — unir)** ¿Dónde se celebra principalmente la **Fiesta de San Pedro**,
+patrono de los pescadores?
+a) En el campo, con caballos, huasos y rodeos
+b) En el norte, en los pueblos del desierto
+c) En la cordillera, cuando cae la nieve
+d) En las caletas de pescadores, junto al mar
 
-1) Fiesta de San Pedro — 2) Rodeo — 3) Fiesta de La Tirana
-
-a) Norte, en el desierto — b) Caleta de pescadores — c) Campo
-
-✅ Respuesta correcta: 1-b, 2-c, 3-a
+✅ Respuesta correcta: **d) En las caletas de pescadores, junto al mar**
 💬 *Retroalimentación:* ¡Bien hecho! Cada fiesta se relaciona con el lugar y las personas que
-la celebran: los pescadores, la gente del campo, y las comunidades del norte.
+la celebran: la Fiesta de San Pedro en las caletas de pescadores, el rodeo en el campo y la
+Fiesta de La Tirana en el norte.
 
 ---
 
 **5. (Alternativas)** ¿Cuál de estas comidas es típica de Chile?
-a) La pizza
-b) La empanada
+a) La empanada
+b) La pizza
 c) El sushi
 d) Los tacos
 
-✅ Respuesta correcta: **b) La empanada**
+✅ Respuesta correcta: **a) La empanada**
 💬 *Retroalimentación:* ¡Correcto! La empanada es una comida muy típica en Chile,
 especialmente en las Fiestas Patrias.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** Nombra una fiesta o costumbre típica de tu ciudad o
-región y cuenta con tus palabras en qué consiste.
+**6. (Varias correctas — desafiante)** ¿Cuáles de estas son fiestas o costumbres
+típicas de Chile? Marca **todas** las correctas.
+a) Bailar cueca en Fiestas Patrias
+b) Celebrar la Fiesta de La Tirana en el norte
+c) Hacer un rodeo en el campo
+d) Patinar sobre hielo en la Antártica cada domingo
 
-💬 *Pauta de retroalimentación:* Cualquier fiesta o costumbre real de la localidad del
-estudiante es una buena respuesta (por ejemplo, la fiesta de fundación del pueblo, una feria,
-una celebración religiosa local). Lo importante es que el estudiante logre nombrarla y
-describir brevemente qué se hace en ella.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* ¡Muy bien! La cueca en Fiestas Patrias, La Tirana y el rodeo son
+costumbres chilenas que se celebran en distintas zonas del país. Patinar en la Antártica cada
+domingo no es una costumbre de las familias chilenas. Pregunta en tu casa qué fiesta típica se
+celebra en tu ciudad o región.
 
 ---
 
@@ -340,11 +355,11 @@ localidad (mi ciudad o pueblo).
 
 **1. (Alternativas)** ¿Cuál es la capital de Chile?
 a) Valparaíso
-b) Santiago
+b) Arica
 c) Concepción
-d) Arica
+d) Santiago
 
-✅ Respuesta correcta: **b) Santiago**
+✅ Respuesta correcta: **d) Santiago**
 💬 *Retroalimentación:* ¡Correcto! Santiago es la capital de Chile.
 
 ---
@@ -357,46 +372,59 @@ altas que recorre gran parte de Chile.
 
 ---
 
-**3. (Análisis de mapa)** Imagina un mapa de Chile donde a un lado se dibujaron montañas
-nevadas y al otro lado se dibujó un mar celeste con olas. ¿Qué representa cada dibujo?
+**3. (Alternativas — análisis de mapa)** Imagina un mapa de Chile donde a un lado se
+dibujaron montañas nevadas y al otro lado se dibujó un mar celeste con olas. ¿Qué representa
+cada dibujo?
+a) Las montañas son el desierto de Atacama y el mar es un lago del sur.
+b) Las montañas son las nubes del cielo y el mar es un río muy largo.
+c) Las montañas son la Cordillera de los Andes y el mar es el océano Pacífico.
+d) Las montañas son la Antártica y el mar es una piscina muy grande.
 
-✅ Respuesta correcta: Las montañas nevadas representan la Cordillera de los Andes, y el mar
-celeste representa el océano Pacífico.
+✅ Respuesta correcta: **c) Las montañas son la Cordillera de los Andes y el mar es el océano Pacífico.**
 💬 *Retroalimentación:* ¡Bien hecho! En los mapas usamos dibujos y colores para representar
 elementos reales, como montañas o el mar.
 
 ---
 
 **4. (Alternativas)** ¿Qué océano se encuentra junto a Chile?
-a) Océano Atlántico
-b) Océano Pacífico
+a) Océano Pacífico
+b) Océano Atlántico
 c) Océano Índico
 d) Océano Ártico
 
-✅ Respuesta correcta: **b) Océano Pacífico**
+✅ Respuesta correcta: **a) Océano Pacífico**
 💬 *Retroalimentación:* ¡Correcto! El océano Pacífico está junto a todo el territorio chileno,
 de norte a sur.
 
 ---
 
-**5. (Desarrollo breve)** Escribe el nombre de tu región y el nombre de tu localidad (tu
-ciudad o pueblo).
+**5. (Alternativas)** Chile se divide en **regiones**, y cada región tiene ciudades y
+pueblos (localidades). ¿Cuál de estas es una región de Chile?
+a) Región de Valparaíso
+b) Región del Amazonas
+c) Región de Madrid
+d) Región de la Luna
 
-💬 *Pauta de retroalimentación:* Cualquier respuesta correcta con el nombre real de la región
-y la localidad donde vive el estudiante es válida. Esto ayuda a entender que Chile se divide
-en regiones y que cada una tiene distintas ciudades y pueblos.
+✅ Respuesta correcta: **a) Región de Valparaíso**
+💬 *Retroalimentación:* ¡Muy bien! Valparaíso es una de las regiones de Chile. El Amazonas está
+en otros países de Sudamérica, Madrid está en España y la Luna no es un lugar de Chile. Pregunta
+en tu casa el nombre de tu región y de tu localidad (tu ciudad o pueblo).
 
 ---
 
-**6. (Análisis de mapa — desafiante)** En un mapa de Chile se marcaron dos puntos: el Punto A
-está muy al norte, cerca del desierto, y el Punto B está muy al sur, cerca de hielos y
-pingüinos. Si Santiago está aproximadamente al medio del país, ¿el Punto A está más cerca o
-más lejos de Santiago que el Punto B?
+**6. (Alternativas — análisis de mapa, desafiante)** En un mapa de Chile se marcaron dos
+puntos: el Punto A está muy al norte, cerca del desierto, y el Punto B está muy al sur, cerca de
+hielos y pingüinos. Si Santiago está aproximadamente al medio del país, ¿cuál punto queda **más
+lejos** de Santiago?
+a) El Punto A, porque el desierto está al lado de Santiago.
+b) Los dos quedan igual de cerca de Santiago.
+c) El Punto B, porque Chile se extiende mucho más hacia el sur.
+d) Ninguno, porque Chile es un país muy corto.
 
-💬 *Pauta de retroalimentación:* Se espera que el estudiante reconozca que Chile es un país
-muy largo y que tanto el norte (Punto A) como el sur (Punto B) quedan lejos de Santiago, que
-está en la zona central. En general, el Punto B queda más lejos de Santiago que el Punto A,
-porque el territorio chileno se extiende mucho más hacia el sur.
+✅ Respuesta correcta: **c) El Punto B, porque Chile se extiende mucho más hacia el sur.**
+💬 *Retroalimentación:* ¡Excelente! Chile es un país muy largo: tanto el norte (Punto A) como el
+sur (Punto B) quedan lejos de Santiago, que está en la zona central. Pero el Punto B queda más
+lejos, porque el territorio chileno se extiende mucho más hacia el sur.
 
 ---
 
@@ -462,11 +490,11 @@ está cada cosa en relación a ese punto.
 **1. (Alternativas)** ¿Cuál de estas palabras describe un elemento natural del paisaje (no
 hecho por las personas)?
 a) Camino pavimentado
-b) Cordillera
+b) Puente
 c) Edificio
-d) Puente
+d) Cordillera
 
-✅ Respuesta correcta: **b) Cordillera**
+✅ Respuesta correcta: **d) Cordillera**
 💬 *Retroalimentación:* ¡Correcto! La cordillera es un elemento natural. Los caminos,
 edificios y puentes son construcciones hechas por las personas.
 
@@ -479,13 +507,17 @@ edificios y puentes son construcciones hechas por las personas.
 
 ---
 
-**3. (Análisis de imagen)** Imagina un dibujo de tu sala de clases: la pizarra está delante
-de las mesas de los estudiantes, y la puerta está detrás de ellos. Si estás sentado mirando la
-pizarra, ¿qué hay delante de ti y qué hay detrás de ti?
+**3. (Alternativas — análisis de imagen)** Imagina un dibujo de tu sala de clases: la
+pizarra está delante de las mesas de los estudiantes, y la puerta está detrás de ellos. Si estás
+sentado mirando la pizarra, ¿qué hay **detrás** de ti?
+a) La pizarra
+b) La puerta
+c) El techo
+d) Nada
 
-✅ Respuesta correcta: Delante de mí está la pizarra; detrás de mí está la puerta.
-💬 *Retroalimentación:* ¡Muy bien! "Delante" es lo que está hacia donde miramos, y "detrás" es
-lo que queda al otro lado, a nuestra espalda.
+✅ Respuesta correcta: **b) La puerta**
+💬 *Retroalimentación:* ¡Muy bien! "Delante" es lo que está hacia donde miramos (la pizarra), y
+"detrás" es lo que queda al otro lado, a nuestra espalda (la puerta).
 
 ---
 
@@ -502,24 +534,34 @@ a un río, que es agua dulce.
 
 ---
 
-**5. (Desarrollo breve)** Describe el paisaje de tu barrio o localidad usando al menos dos
-palabras geográficas (por ejemplo: camino, construcciones, vegetación, cordillera, mar).
+**5. (Varias correctas)** ¿Cuáles de estas palabras sirven para describir un
+**paisaje**? Marca **todas** las correctas.
+a) Cordillera
+b) Construcciones
+c) Cumpleaños
+d) Vegetación
 
-💬 *Pauta de retroalimentación:* Cualquier descripción real del entorno del estudiante que
-use correctamente al menos dos palabras de vocabulario geográfico es una buena respuesta, por
-ejemplo: "En mi barrio hay muchas construcciones y un camino grande donde pasan los autos".
+✅ Respuesta correcta: **a, b y d**
+💬 *Retroalimentación:* ¡Muy bien! Cordillera, construcciones y vegetación son palabras
+geográficas que nos ayudan a describir un paisaje, por ejemplo: "En mi barrio hay muchas
+construcciones y al fondo se ve la cordillera". Un cumpleaños es una celebración, no una parte
+del paisaje.
 
 ---
 
-**6. (Análisis de imagen — desafiante)** Imagina una fotografía de una plaza: a la izquierda
-hay un juego infantil, a la derecha hay árboles, y al fondo, detrás de todo, se ve la
-cordillera. Si te paras en el centro de la plaza mirando hacia la cordillera, ¿qué tienes a tu
-izquierda y qué tienes a tu derecha?
+**6. (Alternativas — análisis de imagen, desafiante)** Imagina una fotografía de una
+plaza: a la izquierda hay un juego infantil, a la derecha hay árboles, y al fondo, detrás de
+todo, se ve la cordillera. Si te paras en el centro de la plaza mirando hacia la cordillera,
+¿qué tienes a tu izquierda y qué tienes a tu derecha?
+a) A la izquierda los árboles y a la derecha el juego infantil
+b) A la izquierda la cordillera y a la derecha los árboles
+c) A la izquierda y a la derecha solo hay cordillera
+d) A la izquierda el juego infantil y a la derecha los árboles
 
-✅ Respuesta correcta: A la izquierda tengo el juego infantil, y a la derecha tengo los
-árboles.
+✅ Respuesta correcta: **d) A la izquierda el juego infantil y a la derecha los árboles**
 💬 *Retroalimentación:* ¡Excelente! Para usar bien "izquierda" y "derecha" siempre debemos
-pensar hacia dónde está mirando la persona.
+pensar hacia dónde está mirando la persona: si miras la cordillera, igual que en la foto, el
+juego queda a tu izquierda y los árboles a tu derecha.
 
 ---
 
@@ -601,9 +643,9 @@ nosotros y a los demás, incluso si en ese momento no vemos autos cerca.
 
 **3. (Alternativas)** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el
 profesor está explicando?
-a) Gritar mi idea
+a) Decir mi idea en voz muy alta
 b) Levantar la mano y esperar mi turno
-c) Interrumpir sin avisar
+c) Hablar al mismo tiempo que el profesor
 d) Pararme y caminar por la sala
 
 ✅ Respuesta correcta: **b) Levantar la mano y esperar mi turno**
@@ -612,34 +654,45 @@ hablar y ser escuchados en orden.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada norma con el lugar donde se aplica principalmente:
+**4. (Alternativas — unir)** ¿En qué lugar se aplica principalmente la norma
+"**levantar la mano para hablar**"?
+a) En la calle, al cruzar
+b) En la escuela, durante la clase
+c) En el barrio, de noche
+d) En la playa, al bañarse
 
-1) Mirar hacia ambos lados antes de cruzar — 2) Levantar la mano para hablar — 3) No hacer
-ruidos molestos de noche
-
-a) La escuela — b) El barrio (vecindario) — c) La vía pública (la calle)
-
-✅ Respuesta correcta: 1-c, 2-a, 3-b
-💬 *Retroalimentación:* ¡Excelente! Cada norma nos ayuda a cuidarnos y a convivir mejor en un
-lugar específico: la calle, la escuela o el barrio.
-
----
-
-**5. (Desarrollo breve)** Nombra una norma que sigues en tu casa para ayudar a la buena
-convivencia con tu familia.
-
-💬 *Pauta de retroalimentación:* Cualquier norma real y razonable de convivencia familiar es
-una buena respuesta, por ejemplo: ordenar mis juguetes, no gritar dentro de la casa, pedir las
-cosas por favor.
+✅ Respuesta correcta: **b) En la escuela, durante la clase**
+💬 *Retroalimentación:* ¡Excelente! Cada norma nos ayuda a convivir mejor en un lugar
+específico: levantar la mano para hablar en la escuela, mirar hacia ambos lados antes de cruzar
+en la calle, y no hacer ruidos molestos de noche en el barrio.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que es importante seguir las normas de
+**5. (Varias correctas)** ¿Cuáles de estas normas ayudan a la buena convivencia en tu
+casa? Marca **todas** las correctas.
+a) Ordenar mis juguetes
+b) Gritar dentro de la casa
+c) Pedir las cosas por favor
+d) Esconder las cosas de mis hermanos
+
+✅ Respuesta correcta: **a y c**
+💬 *Retroalimentación:* ¡Muy bien! Ordenar tus juguetes y pedir las cosas por favor ayudan a que
+todos en la familia vivan mejor. Gritar o esconder las cosas de otros molesta y genera
+problemas.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué es importante seguir las normas de
 seguridad en la calle, aunque a veces parezca que "no pasa nada" si no las sigues?
+a) Porque así nos felicitan los vecinos y nos dan un premio por portarnos bien.
+b) Porque solo hay que seguirlas cuando un adulto nos mira, y si no, da lo mismo.
+c) Porque siempre existe el riesgo de un accidente, y las normas nos ayudan a evitarlo.
+d) Porque las normas sirven solo para los autos, y los peatones pueden cruzar por donde quieran.
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona que las normas de seguridad
-existen para evitar accidentes, y que aunque muchas veces no pase nada, siempre existe el
-riesgo de que ocurra un accidente si no se respetan, por eso es mejor seguirlas siempre.
+✅ Respuesta correcta: **c) Porque siempre existe el riesgo de un accidente, y las normas nos ayudan a evitarlo.**
+💬 *Retroalimentación:* ¡Muy bien pensado! Aunque muchas veces no pase nada, siempre existe el
+riesgo de que ocurra un accidente si no se respetan las normas. Por eso es mejor seguirlas
+siempre, nos mire alguien o no.
 
 ---
 
@@ -720,16 +773,16 @@ emergencias en la comunidad.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada institución con la ayuda que entrega principalmente:
+**3. (Alternativas — unir)** ¿Qué institución **cuida la salud** de las personas?
+a) La escuela
+b) La municipalidad
+c) El supermercado
+d) El hospital
 
-1) Escuela — 2) Municipalidad — 3) Hospital
-
-a) Cuida la salud de las personas — b) Enseña y ayuda a aprender — c) Cuida las calles y
-plazas de la comuna
-
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* ¡Excelente! Cada institución cumple una labor distinta, pero todas
-ayudan a la comunidad.
+✅ Respuesta correcta: **d) El hospital**
+💬 *Retroalimentación:* ¡Excelente! El hospital cuida la salud, la escuela enseña y ayuda a
+aprender, y la municipalidad cuida las calles y plazas de la comuna. Cada institución cumple
+una labor distinta, pero todas ayudan a la comunidad.
 
 ---
 
@@ -746,12 +799,15 @@ común como plazas y calles.
 
 ---
 
-**5. (Desarrollo breve)** Nombra una institución que ayuda a tu comunidad y explica con tus
-palabras qué hace.
+**5. (Alternativas)** ¿Qué institución está **bien unida** con lo que hace?
+a) Carabineros: cuidan la seguridad de las personas
+b) Escuela: arregla las calles y las veredas
+c) Hospital: enseña a leer y a escribir
+d) Municipalidad: cura a los enfermos en su casa
 
-💬 *Pauta de retroalimentación:* Cualquier institución válida (escuela, municipalidad,
-hospital o posta, Carabineros) con una explicación coherente de su labor es una buena
-respuesta.
+✅ Respuesta correcta: **a) Carabineros: cuidan la seguridad de las personas**
+💬 *Retroalimentación:* ¡Muy bien! Carabineros cuida la seguridad. La escuela enseña, el hospital
+cuida la salud y la municipalidad se preocupa de las calles, plazas y servicios de la comuna.
 
 ---
 

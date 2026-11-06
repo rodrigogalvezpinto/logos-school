@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
-oa_por_pregunta: {"6":"OA 9","12":"OA 10"}
+oa_por_pregunta: {"3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 9","9":"OA 10","12":"OA 10"}
 eje: Geografía (OA 9, OA 10)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -42,30 +42,44 @@ población del país.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena estas zonas naturales de Chile de norte a sur: Zona Sur,
-Norte Grande, Zona Austral, Zona Central, Norte Chico.
+**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden de norte a sur de estas zonas naturales de Chile: Zona Sur,
+Norte Grande, Zona Austral, Zona Central, Norte Chico?
+
+a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
+b) Norte Chico → Norte Grande → Zona Central → Zona Austral → Zona Sur
+c) Zona Central → Norte Grande → Norte Chico → Zona Sur → Zona Austral
+d) Norte Grande → Zona Central → Norte Chico → Zona Sur → Zona Austral
 
 ---
 
-**4. (Análisis de mapa)** Imagina un mapa de Chile donde una zona está marcada con símbolos
+**4. (Alternativas — análisis de mapa)** Imagina un mapa de Chile donde una zona está marcada con símbolos
 de fiordos, glaciares y ovejas, y tiene muy baja densidad de población. ¿A qué zona natural
 corresponde esta descripción?
+
+a) Norte Grande
+b) Zona Central
+c) Norte Chico
+d) Zona Austral
 
 ---
 
 **5. (Alternativas)** ¿Cuál de las siguientes es una macroforma de relieve presente con mayor
 claridad en la Zona Central de Chile?
 
-a) Solo el altiplano
+a) Altiplano, desierto costero, fiordos y canales australes, y campos de hielo patagónicos
 b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies
 litorales
-c) Solo fiordos y canales
-d) Solo el desierto costero
+c) Solo fiordos y canales, con islas y glaciares
+d) Solo el desierto costero, con dunas y quebradas
 
 ---
 
-**6. (Desarrollo breve)** Elige dos zonas naturales de Chile y compáralas en al menos dos
-aspectos: clima, relieve, población o recursos naturales.
+**6. (Alternativas)** ¿Qué comparación entre dos zonas naturales de Chile es correcta?
+
+a) El Norte Grande es lluvioso y tiene bosques; la Zona Sur es desértica y su recurso principal es la minería
+b) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques
+c) La Zona Central y la Zona Austral tienen el mismo clima, la misma población y los mismos recursos naturales
+d) La Zona Austral es la más poblada de Chile y tiene un clima desértico, ideal para la agricultura
 
 ---
 
@@ -84,10 +98,15 @@ renovables.
 
 ---
 
-**9. (Análisis de mapa)** Imagina un mapa de Chile con tres símbolos: un árbol sobre la Zona
+**9. (Alternativas — análisis de mapa)** Imagina un mapa de Chile con tres símbolos: un árbol sobre la Zona
 Sur, un pez sobre gran parte de la costa del país, y un casco de minero sobre el Norte Grande
 y Norte Chico. ¿Qué relación existe entre la geografía de cada zona y el recurso natural que
 se representa?
+
+a) Los símbolos se ubicaron al azar en el mapa, porque todos los recursos se encuentran por igual en cualquier zona del país, sin depender del clima ni del relieve
+b) Todos los recursos están en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos solo muestran dónde se venden los productos
+c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
+d) La pesca se concentra en el desierto del Norte Grande, los bosques en la costa y la minería en el sur, porque así se reparten los recursos en Chile
 
 ---
 
@@ -101,16 +120,22 @@ d) Extraer cobre sin ninguna regulación ambiental
 
 ---
 
-**11. (Relacionar / emparejar)** Une cada recurso natural con su clasificación:
+**11. (Varias correctas — clasificar)** ¿Cuáles de estos recursos naturales son **renovables**? Marca todas las correctas.
 
-1) Cobre — 2) Bosque nativo — 3) Hierro — 4) Recursos marítimos (peces)
-
-a) Renovable — b) No renovable
+a) Cobre
+b) Bosque nativo
+c) Hierro
+d) Recursos marítimos (peces)
 
 ---
 
-**12. (Desarrollo breve)** ¿Por qué es importante diferenciar entre recursos renovables y no
+**12. (Alternativas)** ¿Por qué es importante diferenciar entre recursos renovables y no
 renovables al pensar en el desarrollo sostenible de un país?
+
+a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si no se sobreexplotan
+b) Porque los renovables se acaban más rápido que los no renovables y hay que usarlos primero
+c) Porque los no renovables se pueden usar sin límite, ya que siempre se encuentran nuevos yacimientos
+d) No es importante: todos los recursos son iguales y se recuperan con el tiempo si se dejan de usar
 
 ---
 
@@ -122,18 +147,15 @@ parte de la producción de cobre del país.
 **2.** Verdadero. La Zona Central, que incluye la Región Metropolitana, concentra la mayor
 densidad y cantidad de población de Chile.
 
-**3.** Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral.
+**3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
 
-**4.** Zona Austral. Se caracteriza por su clima frío, fiordos, glaciares, ganadería ovina y
-muy baja densidad de población.
+**4.** d) Zona Austral. Clima frío, fiordos, glaciares, ganadería ovina y muy baja densidad de población.
 
 **5.** b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies
 litorales. La Zona Central presenta con mayor claridad las cuatro macroformas de relieve de
 Chile continental.
 
-**6.** Buena respuesta: elige dos zonas reales (por ejemplo, Norte Grande y Zona Sur) y las
-compara correctamente en al menos dos aspectos, como el clima (desértico versus lluvioso) o
-el recurso principal (minería versus bosques).
+**6.** b) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques
 
 **7.** b) Norte Grande. Especialmente la Región de Antofagasta concentra la mayor parte de la
 producción de cobre de Chile.
@@ -141,17 +163,11 @@ producción de cobre de Chile.
 **8.** Falso. Ambos son minerales y, por lo tanto, recursos no renovables: una vez extraídos,
 no se regeneran en una escala de tiempo humana.
 
-**9.** Cada recurso se relaciona con las condiciones naturales de su zona: los bosques
-abundan en el sur por su clima lluvioso, la pesca es posible a lo largo de la costa gracias
-al mar y la Corriente de Humboldt, y los minerales se concentran en el norte por las
-características geológicas de esa zona.
+**9.** c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
 
 **10.** c) Establecer vedas pesqueras y reforestar zonas taladas. Son ejemplos concretos de
 cómo cuidar recursos renovables en el marco del desarrollo sostenible.
 
-**11.** 1-b, 2-a, 3-b, 4-a. Los minerales (cobre, hierro) son no renovables, mientras que los
-bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
+**11.** b y d — Los minerales (cobre, hierro) son no renovables; los bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
 
-**12.** Buena respuesta: explica que los recursos no renovables deben usarse con especial
-cuidado porque, una vez agotados, no vuelven a existir, mientras que los renovables pueden
-mantenerse en el tiempo si se gestionan de forma responsable, evitando la sobreexplotación.
+**12.** a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si no se sobreexplotan

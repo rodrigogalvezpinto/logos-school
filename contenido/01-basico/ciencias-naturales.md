@@ -92,9 +92,9 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
 1. *(Alternativas)* ¿Cuál de estos es un ser vivo?
    a) Una piedra
    b) Un lápiz
-   c) Un gato
-   d) Una silla
-   **Respuesta correcta:** c) Un gato.
+   c) Una silla
+   d) Un gato
+   **Respuesta correcta:** d) Un gato.
    **Retroalimentación:** ¡Muy bien! El gato nace, crece, come, bebe agua y se mueve
    solo. Por eso es un ser vivo.
 
@@ -104,38 +104,47 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
    **Retroalimentación:** Así es. Todos los seres vivos —plantas, animales y
    personas— necesitan agua, aire y alimento para vivir.
 
-3. *(Clasificar/agrupar)* Junta en dos grupos estas palabras: perro, mesa, araucaria,
-   piedra, mariposa, lápiz.
-   **Respuesta correcta:** Seres vivos: perro, araucaria, mariposa. Cosas no vivas:
-   mesa, piedra, lápiz.
+3. *(Alternativas — clasificar)* ¿Qué grupo tiene **solo seres vivos**?
+   a) Perro, mesa, piedra
+   b) Piedra, mariposa, lápiz
+   c) Lápiz, araucaria, mesa
+   d) Perro, araucaria, mariposa
+   **Respuesta correcta:** d) Perro, araucaria, mariposa.
    **Retroalimentación:** Recuerda: si crece, respira o tiene crías, es un ser vivo.
-   Si no, es una cosa no viva.
+   La mesa, la piedra y el lápiz son cosas no vivas: no crecen ni se alimentan.
 
-4. *(Observación simple)* Mira esta imagen: un charco de agua con un sapito adentro.
-   
+4. *(Alternativas — observación)* Mira esta imagen: un charco de agua con un sapito adentro.
+
 ::emoji::🐸::un charco de agua con un sapo pequeño::
 
    ¿Qué elemento de la imagen es un ser vivo?
-   **Respuesta correcta:** El sapo.
+   a) El agua del charco
+   b) La tierra del borde
+   c) El sapo
+   **Respuesta correcta:** c) El sapo.
    **Retroalimentación:** ¡Correcto! El sapo es un ser vivo porque respira, se mueve
    y necesita alimento. El agua del charco es un elemento no vivo, aunque el sapo la
    necesite para vivir.
 
 5. *(Alternativas)* ¿Qué necesitan TODOS los seres vivos para vivir?
    a) Un juguete
-   b) Agua, aire y alimento
+   b) Un libro
    c) Una casa de ladrillo
-   d) Un libro
-   **Respuesta correcta:** b) Agua, aire y alimento.
+   d) Agua, aire y alimento
+   **Respuesta correcta:** d) Agua, aire y alimento.
    **Retroalimentación:** Exacto. Sin agua, aire y alimento, ningún ser vivo puede
    mantenerse con vida.
 
-6. *(Desarrollo breve — con apoyo de dibujo)* Dibuja o describe con tus palabras qué
-   necesita una planta de tu casa o tu escuela para poder crecer sana.
-   **Respuesta esperada:** Agua, luz del sol y tierra (de donde saca alimento y
-   aire para sus raíces).
-   **Retroalimentación:** ¡Buen trabajo observando! Las plantas también son seres
-   vivos y tienen necesidades, aunque no se muevan como los animales.
+6. *(Varias correctas)* ¿Qué necesita una planta para crecer sana? Marca **todas**
+   las correctas.
+   a) Agua
+   b) Luz del sol
+   c) Juguetes
+   d) Tierra
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** ¡Buen trabajo observando! La planta necesita agua, luz del
+   sol y tierra (de donde saca alimento). Los juguetes no le sirven: las plantas
+   también son seres vivos y tienen necesidades, aunque no se muevan como los animales.
 
 7. *(Verdadero o falso)* Un ser vivo responde cuando pasa algo a su alrededor, por
    ejemplo, un perro se asusta con un ruido fuerte.
@@ -209,12 +218,15 @@ que no se dañe.
    ejemplo, el guanaco vive en lugares secos del norte y el pudú en el bosque
    lluvioso del sur.
 
-3. *(Clasificar/agrupar)* Junta cada animal con su zona: guanaco, pudú, zorro chilla.
-   Zonas: desierto del norte, bosque del sur, zona central.
-   **Respuesta correcta:** Guanaco → desierto del norte. Pudú → bosque del sur.
-   Zorro chilla → zona central.
-   **Retroalimentación:** ¡Bien hecho! Cada animal está adaptado para vivir en un
-   lugar distinto de nuestro país.
+3. *(Alternativas — unir)* ¿Dónde vive el **pudú**?
+   a) En el desierto del norte
+   b) En la zona central
+   c) En el bosque del sur
+   d) En el fondo del mar
+   **Respuesta correcta:** c) En el bosque del sur.
+   **Retroalimentación:** ¡Bien hecho! El pudú vive en los bosques húmedos del sur. El
+   guanaco vive en el desierto del norte y el zorro chilla en la zona central: cada
+   animal está adaptado para vivir en un lugar distinto de nuestro país.
 
 4. *(Alternativas)* ¿Cuál de estas acciones ayuda a proteger a las plantas y
    animales de Chile?
@@ -226,25 +238,32 @@ que no se dañe.
    **Retroalimentación:** Exacto. Cuidar la naturaleza también significa respetar el
    espacio de los animales silvestres.
 
-5. *(Observación/comparación)* Mira estas dos imágenes: una araucaria (árbol muy
+5. *(Alternativas — comparar)* Mira estas dos imágenes: una araucaria (árbol muy
    alto y antiguo del sur de Chile) y un cactus (planta con espinas del desierto).
-   
+
 ::emoji::🌲::una araucaria alta junto a un cactus pequeño con espinas::
 
-   ¿En qué se parecen y en qué se diferencian estas dos plantas?
-   **Respuesta esperada:** Las dos son plantas de Chile y ambas necesitan luz del
-   sol. Se diferencian en que la araucaria es muy alta y vive donde llueve mucho,
-   mientras que el cactus es pequeño, tiene espinas y vive donde casi no llueve.
-   **Retroalimentación:** Muy buena observación. Comparar plantas de distintas
-   zonas te ayuda a entender que Chile tiene una naturaleza muy variada.
+   ¿En qué se **diferencian** estas dos plantas?
+   a) La araucaria es muy alta y vive donde llueve mucho; el cactus tiene espinas y
+   vive donde casi no llueve.
+   b) La araucaria tiene espinas y vive en el desierto; el cactus es un árbol muy alto que vive donde llueve mucho.
+   c) Solo el cactus necesita luz del sol y agua; la araucaria puede vivir sin luz en lugares oscuros.
+   d) No se diferencian en nada: las dos son igual de altas y las dos tienen espinas.
+   **Respuesta correcta:** a) La araucaria es muy alta y vive donde llueve mucho; el cactus tiene espinas y vive donde casi no llueve.
+   **Retroalimentación:** Muy buena observación. Las dos son plantas de Chile y ambas
+   necesitan luz del sol, pero viven en lugares muy distintos. Comparar plantas de
+   distintas zonas te ayuda a entender que Chile tiene una naturaleza muy variada.
 
-6. *(Desarrollo breve)* Nombra un animal y una planta típicos de Chile, y di en qué
-   parte del país (norte, centro o sur) los podrías encontrar.
-   **Respuesta esperada:** Cualquier combinación correcta, por ejemplo: guanaco
-   (norte), zorro chilla (centro), pudú (sur), cactus (norte), palma chilena
-   (centro), copihue o araucaria (sur).
-   **Retroalimentación:** ¡Bien! Conocer los animales y plantas de tu país es el
-   primer paso para aprender a cuidarlos.
+6. *(Alternativas)* ¿Cuál de estas parejas está **bien unida** con la zona de Chile
+   donde se encuentra?
+   a) Guanaco → sur lluvioso
+   b) Copihue → bosque del sur
+   c) Pudú → desierto del norte
+   d) Cactus → bosque del sur
+   **Respuesta correcta:** b) Copihue → bosque del sur.
+   **Retroalimentación:** ¡Bien! El copihue crece en los bosques del sur. El guanaco y
+   el cactus son del norte, y el pudú vive en el sur. Conocer los animales y plantas de
+   tu país es el primer paso para aprender a cuidarlos.
 
 ---
 
@@ -305,12 +324,14 @@ lavarnos las manos antes de tocarnos los ojos.
    **Retroalimentación:** ¡Correcto! El tacto, que sentimos con la piel, nos permite
    reconocer el calor, el frío y las texturas.
 
-2. *(Emparejar)* Une cada sentido con su órgano: vista, oído, olfato, gusto, tacto.
-   Órganos: nariz, lengua, ojos, oídos, piel.
-   **Respuesta correcta:** Vista → ojos. Oído → oídos. Olfato → nariz. Gusto →
-   lengua. Tacto → piel.
-   **Retroalimentación:** ¡Muy bien! Cada sentido tiene un órgano del cuerpo donde
-   se ubica principalmente.
+2. *(Alternativas — unir)* ¿Con qué órgano sentimos los **olores**?
+   a) Con los ojos
+   b) Con la piel
+   c) Con la lengua
+   d) Con la nariz
+   **Respuesta correcta:** d) Con la nariz.
+   **Retroalimentación:** ¡Muy bien! El olfato está en la nariz. Cada sentido tiene su
+   órgano: vista → ojos, oído → oídos, olfato → nariz, gusto → lengua y tacto → piel.
 
 3. *(Verdadero o falso)* Está bien mirar directamente al sol porque ayuda a
    nuestros ojos a ver mejor.
@@ -318,40 +339,50 @@ lavarnos las manos antes de tocarnos los ojos.
    **Retroalimentación:** Mirar directamente al sol puede dañar nuestros ojos.
    Debemos protegerlos, por ejemplo, usando gorro o lentes de sol.
 
-4. *(Aplicación/riesgo)* Antes de cruzar la calle, ¿qué dos sentidos te ayudan a
-   estar seguro/a?
-   **Respuesta correcta:** La vista (para mirar los autos y el semáforo) y el oído
-   (para escuchar si se acerca un vehículo).
-   **Retroalimentación:** Exacto, usar tus sentidos con atención te ayuda a
-   prevenir accidentes en la calle.
+4. *(Varias correctas)* Antes de cruzar la calle, ¿qué sentidos te ayudan a estar
+   seguro/a? Marca **todas** las correctas.
+   a) La vista, para mirar los autos y el semáforo
+   b) El gusto, para probar el aire
+   c) El oído, para escuchar si se acerca un vehículo
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** Exacto, la vista y el oído te ayudan a darte cuenta de si
+   viene un vehículo. Usar tus sentidos con atención te ayuda a prevenir accidentes en
+   la calle.
 
 5. *(Alternativas)* ¿Cuál de estas acciones puede dañar el sentido del oído?
    a) Escuchar música con volumen muy alto todos los días
-   b) Escuchar un cuento en voz normal
+   b) Escuchar un cuento leído en voz normal
    c) Tapar tus oídos con las manos por un momento
-   d) Escuchar el canto de un chincol
+   d) Escuchar el canto de un chincol en el jardín
    **Respuesta correcta:** a) Escuchar música con volumen muy alto todos los días.
    **Retroalimentación:** Así es. El volumen muy alto y constante puede dañar
    nuestros oídos con el tiempo.
 
-6. *(Observación simple)* Mira esta imagen: un niño oliendo una empanada recién
-   horneada.
-   
+6. *(Alternativas — observación)* Mira esta imagen: un niño oliendo una empanada
+   recién horneada.
+
 ::emoji::👦::un niño cerca de una bandeja de empanadas, con líneas de "olorcito"
    saliendo de ellas::
 
    ¿Qué sentido está usando principalmente el niño?
-   **Respuesta correcta:** El olfato.
+   a) El oído
+   b) El tacto
+   c) La vista
+   d) El olfato
+   **Respuesta correcta:** d) El olfato.
    **Retroalimentación:** ¡Correcto! El olfato, ubicado en la nariz, nos permite
    reconocer olores como el de la comida recién hecha.
 
-7. *(Desarrollo breve)* Nombra una medida de cuidado para proteger tus ojos y otra
-   para proteger tus oídos.
-   **Respuesta esperada:** Ojos: no mirar directamente al sol, usar lentes de sol,
-   no frotarlos con las manos sucias. Oídos: no escuchar música muy fuerte, no
-   introducir objetos en los oídos.
-   **Retroalimentación:** ¡Muy bien! Cuidar nuestros sentidos todos los días evita
-   problemas en el futuro.
+7. *(Varias correctas)* ¿Cuáles de estas acciones **cuidan** tus ojos o tus oídos?
+   Marca **todas** las correctas.
+   a) No mirar directamente al sol
+   b) Escuchar música muy fuerte con audífonos
+   c) No meter objetos en los oídos
+   d) Frotarse los ojos con las manos sucias
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** ¡Muy bien! No mirar el sol y no meter objetos en los oídos
+   los protegen. La música muy fuerte daña los oídos y las manos sucias pueden
+   irritar los ojos. Cuidar nuestros sentidos todos los días evita problemas en el futuro.
 
 ---
 
@@ -425,19 +456,26 @@ usan para hacer ciertos objetos y no otros.
    **Retroalimentación:** La goma es flexible y elástica: cuando la aprietas o la
    estiras, vuelve a su forma original.
 
-3. *(Clasificar/agrupar)* Junta estos objetos según su material principal: silla de
-   madera, botella de plástico, pelota de goma, llave de metal, polera de género.
-   **Respuesta correcta:** Madera: silla. Plástico: botella. Goma: pelota. Metal:
-   llave. Género: polera.
-   **Retroalimentación:** ¡Muy bien! Cada objeto tiene un material principal según
-   la función que cumple.
+3. *(Alternativas — clasificar)* ¿De qué material está hecha principalmente una
+   **llave**?
+   a) De metal
+   b) De madera
+   c) De género
+   d) De goma
+   **Respuesta correcta:** a) De metal.
+   **Retroalimentación:** ¡Muy bien! La llave es de metal, porque necesita ser dura y
+   resistente. Cada objeto tiene un material principal según la función que cumple:
+   la silla puede ser de madera, la pelota de goma y la polera de género.
 
-4. *(Aplicación)* ¿Por qué crees que las mochilas escolares se hacen de género y no
-   de metal?
-   **Respuesta esperada:** Porque el género es suave, flexible y liviano, cómodo
-   para llevar en la espalda; el metal sería duro, pesado y poco cómodo.
-   **Retroalimentación:** ¡Exacto! Elegimos los materiales según las propiedades que
-   necesitamos para cada objeto.
+4. *(Alternativas — aplicación)* ¿Por qué las mochilas escolares se hacen de género
+   y no de metal?
+   a) Porque el género es suave, flexible y liviano, cómodo para la espalda.
+   b) Porque el género es más duro y pesado que el metal, y así la mochila dura más.
+   c) Porque el metal no existe en Chile y hay que traerlo desde otros países.
+   d) Porque el género brilla más que el metal y se ve mejor en el colegio.
+   **Respuesta correcta:** a) Porque el género es suave, flexible y liviano, cómodo para la espalda.
+   **Retroalimentación:** ¡Exacto! El metal sería duro, pesado y poco cómodo. Elegimos
+   los materiales según las propiedades que necesitamos para cada objeto.
 
 5. *(Alternativas)* ¿Cuál de estos materiales es impermeable, es decir, no deja
    pasar el agua fácilmente?
@@ -449,22 +487,28 @@ usan para hacer ciertos objetos y no otros.
    **Retroalimentación:** Correcto. Por eso muchas bolsas, cubiertas y ponchos de
    lluvia están hechos de plástico.
 
-6. *(Observación simple)* Mira estos tres objetos: una cuchara de metal, una
+6. *(Alternativas — observación)* Mira estos tres objetos: una cuchara de metal, una
    cuchara de madera y una cuchara de plástico.
-   
+
 ::emoji::🥄::tres cucharas iguales en forma pero de distinto material::
 
    ¿Cuál de las tres se sentiría más fría al tocarla apenas sale del cajón?
-   **Respuesta correcta:** La cuchara de metal.
+   a) La cuchara de madera
+   b) La cuchara de plástico
+   c) La cuchara de metal
+   **Respuesta correcta:** c) La cuchara de metal.
    **Retroalimentación:** ¡Bien observado! El metal es un material que se siente
    frío al tacto, a diferencia de la madera o el plástico.
 
-7. *(Desarrollo breve)* Elige un objeto de tu casa y describe de qué material está
-   hecho y una propiedad de ese material (por ejemplo, si es duro, blando, flexible
-   o liviano).
-   **Respuesta esperada:** Cualquier objeto real con su material y una propiedad
-   correcta, por ejemplo: una taza de vidrio, dura y transparente.
-   **Retroalimentación:** ¡Buen trabajo observando tu entorno! Fijarte en los
+7. *(Alternativas)* ¿Qué objeto está **bien descrito** con su material y una
+   propiedad?
+   a) Una taza de vidrio: dura y transparente
+   b) Una almohada de piedra: blanda y liviana
+   c) Una ventana de madera transparente: se ve a través de ella
+   d) Una pelota de metal: blanda y flexible
+   **Respuesta correcta:** a) Una taza de vidrio: dura y transparente.
+   **Retroalimentación:** ¡Buen trabajo! El vidrio es duro y transparente. La piedra no
+   es blanda, la madera no es transparente y el metal no es blando. Fijarte en los
    materiales te ayuda a entender por qué cada objeto está hecho de esa manera.
 
 ---
@@ -530,46 +574,57 @@ de cada material.
    **Retroalimentación:** Así es. El agua es absorbida por el papel, lo que lo
    debilita y ablanda.
 
-3. *(Clasificar/agrupar)* Junta cada cambio con su causa: el hielo se derrite, la
-   ropa mojada se seca al sol y el viento, un alambre se dobla, una galleta se
-   rompe al apretarla.
-   Causas: calor, luz y aire, fuerza, fuerza.
-   **Respuesta correcta:** Hielo se derrite → calor. Ropa se seca → luz y aire (o
-   calor del sol). Alambre se dobla → fuerza. Galleta se rompe → fuerza.
-   **Retroalimentación:** ¡Muy bien! Cada cambio en el material tiene una causa
-   distinta: fuerza, calor, luz o agua.
+3. *(Alternativas — causa)* ¿Qué causa que un **alambre se doble**?
+   a) El calor del sol en un día de verano
+   b) Una fuerza, como empujarlo con las manos
+   c) El agua de la lluvia que cae encima
+   d) La luz de una lámpara encendida cerca
+   **Respuesta correcta:** b) Una fuerza, como empujarlo con las manos.
+   **Retroalimentación:** ¡Muy bien! Cada cambio tiene su causa: el hielo se derrite
+   por el calor, la ropa se seca con el sol y el viento, y el alambre se dobla o la
+   galleta se rompe por una fuerza.
 
-4. *(Observación/predicción)* Si dejo una prenda de ropa de color oscuro muchos
-   días bajo el sol fuerte, ¿qué crees que le puede pasar?
-   **Respuesta esperada:** El color puede decolorarse o aclararse por efecto de la
-   luz del sol.
+4. *(Alternativas — predicción)* Si dejo una prenda de ropa de color oscuro muchos
+   días bajo el sol fuerte, ¿qué le puede pasar?
+   a) Se vuelve más oscura.
+   b) Se convierte en agua.
+   c) No le pasa nada nunca.
+   d) Su color se aclara o se destiñe.
+   **Respuesta correcta:** d) Su color se aclara o se destiñe.
    **Retroalimentación:** ¡Buena predicción! La luz del sol, con el tiempo, puede
    cambiar el color de algunos materiales.
 
 5. *(Alternativas)* ¿Qué acción produce que una hoja de papel se doble o se arrugue?
-   a) La luz del sol
-   b) El calor
+   a) Dejarla a la luz del sol
+   b) Calentarla junto a la estufa
    c) Aplicar fuerza con las manos
-   d) El viento
+   d) Dejarla cerca de la ventana
    **Respuesta correcta:** c) Aplicar fuerza con las manos.
    **Retroalimentación:** Correcto. Al doblar o arrugar el papel con las manos, le
    estamos aplicando una fuerza que cambia su forma.
 
-6. *(Desarrollo breve)* Piensa en la masa de un pan antes y después de hornearla.
+6. *(Alternativas)* Piensa en la masa de un pan antes y después de hornearla.
    ¿Qué cambio le produjo el calor?
-   **Respuesta esperada:** El calor hace que la masa, que estaba blanda, se
-   endurezca y se dore al hornearse.
+   a) La masa se derritió como hielo.
+   b) La masa se mojó.
+   c) La masa se endureció y se doró.
+   d) La masa no cambió.
+   **Respuesta correcta:** c) La masa se endureció y se doró.
    **Retroalimentación:** ¡Muy bien! El calor no siempre derrite los materiales: en
-   este caso, hace que la masa se endurezca.
+   este caso, hace que la masa blanda se endurezca y se dore.
 
-7. *(Observación simple)* Mira esta imagen: dos galletas iguales, una seca y otra
-   que estuvo un rato en un vaso de leche.
-   
+7. *(Alternativas — observación)* Mira esta imagen: dos galletas iguales, una seca y
+   otra que estuvo un rato en un vaso de leche.
+
 ::emoji::🍪::una galleta seca y entera, junto a otra galleta mojada y deshecha en
    un plato::
 
-   ¿Qué material provocó el cambio en la segunda galleta?
-   **Respuesta correcta:** El agua (de la leche).
+   ¿Qué provocó el cambio en la segunda galleta?
+   a) El líquido de la leche
+   b) El calor de un horno
+   c) La luz del sol
+   d) Un golpe con un martillo
+   **Respuesta correcta:** a) El líquido de la leche.
    **Retroalimentación:** ¡Exacto! El líquido ablandó la galleta hasta hacer que se
    deshiciera.
 
@@ -641,34 +696,49 @@ animales, como el búho, están más activos de noche.
    **Retroalimentación:** Así es. Cuando el Sol se esconde, el cielo se oscurece y
    comienza la noche.
 
-3. *(Ordenar secuencia)* Ordena estos momentos del día, desde el que ocurre primero
-   en la mañana: atardecer, amanecer, mediodía, noche.
-   **Respuesta correcta:** Amanecer → mediodía → atardecer → noche.
+3. *(Alternativas — ordenar)* ¿Cuál es el orden correcto de los momentos del día,
+   empezando por la mañana?
+   a) Noche → amanecer → atardecer → mediodía
+   b) Mediodía → amanecer → noche → atardecer
+   c) Atardecer → mediodía → amanecer → noche
+   d) Amanecer → mediodía → atardecer → noche
+   **Respuesta correcta:** d) Amanecer → mediodía → atardecer → noche.
    **Retroalimentación:** ¡Muy bien! Así se repite el ciclo del día una y otra vez.
 
-4. *(Clasificar/agrupar)* Junta estas palabras según correspondan al día o a la
-   noche: Sol visible, estrellas, más calor, Luna, más frío, cielo muy iluminado.
-   **Respuesta correcta:** Día: Sol visible, más calor, cielo muy iluminado. Noche:
-   estrellas, Luna, más frío.
-   **Retroalimentación:** ¡Bien hecho! Fíjate en la luz, la temperatura y los
-   astros que se ven en cada momento.
+4. *(Varias correctas)* ¿Qué cosas corresponden a la **noche**? Marca **todas** las
+   correctas.
+   a) Se ven estrellas
+   b) El Sol está visible
+   c) Se ve la Luna
+   d) Hace más frío
+   e) El cielo está muy iluminado
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Bien hecho! De noche se ven las estrellas y la Luna, y
+   hace más frío. El Sol visible y el cielo muy iluminado son del día. Fíjate en la
+   luz, la temperatura y los astros que se ven en cada momento.
 
-5. *(Observación simple)* Mira esta imagen del cielo.
-   
+5. *(Alternativas — observación)* Mira esta imagen del cielo.
+
 ::emoji::🌙::un cielo oscuro con la Luna y varias estrellas::
 
-   ¿Este cielo corresponde al día o a la noche? ¿Por qué?
-   **Respuesta correcta:** A la noche, porque se ve la Luna y las estrellas, y el
-   cielo está oscuro (no se ve el Sol).
+   ¿Este cielo corresponde al día o a la noche?
+   a) A la noche, porque se ven la Luna y las estrellas y el cielo está oscuro.
+   b) Al día, porque hay estrellas y en el día brillan más.
+   c) Al día, porque se ve la Luna y la Luna sale solo de día.
+   d) A la noche, porque el Sol brilla mucho y el cielo está muy azul.
+   **Respuesta correcta:** a) A la noche, porque se ven la Luna y las estrellas y el cielo está oscuro.
    **Retroalimentación:** ¡Exacto! Cuando vemos la Luna y las estrellas y el cielo
-   está oscuro, sabemos que es de noche.
+   está oscuro (no se ve el Sol), sabemos que es de noche.
 
-6. *(Desarrollo breve)* Nombra una actividad que hagas durante el día y otra que
-   hagas durante la noche.
-   **Respuesta esperada:** Día: ir a la escuela, jugar en el patio, andar en
-   bicicleta. Noche: dormir, cenar con la familia, ver las estrellas.
-   **Retroalimentación:** ¡Muy bien! Las personas, igual que muchos animales,
-   organizamos nuestras actividades según el ciclo de día y noche.
+6. *(Alternativas)* ¿Qué actividad hacemos normalmente durante la **noche**?
+   a) Ir a la escuela
+   b) Jugar en el patio del colegio en el recreo
+   c) Dormir
+   d) Almorzar en el colegio
+   **Respuesta correcta:** c) Dormir.
+   **Retroalimentación:** ¡Muy bien! Ir a la escuela, el recreo y el almuerzo en el
+   colegio ocurren de día. Las personas, igual que muchos animales, organizamos
+   nuestras actividades según el ciclo de día y noche.
 
 7. *(Alternativas)* ¿Cuál de estos animales está más activo durante la noche?
    a) El chincol

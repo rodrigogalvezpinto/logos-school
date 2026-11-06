@@ -109,11 +109,11 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál es el orden correcto del ciclo de vida de una mariposa?
-   a) Mariposa → crisálida → oruga → huevo
-   b) Huevo → oruga → crisálida → mariposa
+   a) Huevo → oruga → crisálida → mariposa
+   b) Mariposa → crisálida → oruga → huevo
    c) Oruga → huevo → mariposa → crisálida
    d) Crisálida → huevo → oruga → mariposa
-   **Respuesta correcta:** b) Huevo → oruga → crisálida → mariposa.
+   **Respuesta correcta:** a) Huevo → oruga → crisálida → mariposa.
    **Retroalimentación:** ¡Correcto! Ese cambio de forma tan grande, de oruga a
    mariposa, se llama metamorfosis.
 
@@ -124,38 +124,53 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    chilla, crece dentro del cuerpo de la madre y no nace de huevos puestos fuera de ella.
    Algunos mamíferos, como el ornitorrinco y la equidna, sí ponen huevos.
 
-3. *(Clasificar/agrupar)* Junta cada animal según cómo nace: guanaco, chincol, rana,
-   mariposa. Grupos: "crece dentro de la madre" y "sale de un huevo".
-   **Respuesta correcta:** Crece dentro de la madre: guanaco. Sale de un huevo:
-   chincol, rana, mariposa.
-   **Retroalimentación:** ¡Muy bien! Recuerda que **la gran mayoría de los mamíferos** crece
-   dentro del cuerpo de su madre (salvo los monotremas, como el ornitorrinco y la equidna,
-   que ponen huevos). Las aves, los anfibios y los insectos nacen de huevos.
+3. *(Alternativas — clasificar)* ¿Cuál de estos animales **crece dentro de la madre**
+   antes de nacer?
+   a) El chincol
+   b) La rana
+   c) El guanaco
+   d) La mariposa
+   **Respuesta correcta:** c) El guanaco.
+   **Retroalimentación:** ¡Muy bien! El guanaco es un mamífero, y **la gran mayoría de los
+   mamíferos** crece dentro del cuerpo de su madre (salvo los monotremas, como el
+   ornitorrinco y la equidna, que ponen huevos). El chincol (ave), la rana (anfibio) y la
+   mariposa (insecto) nacen de huevos.
 
-4. *(Relacionar con el hábitat)* ¿Por qué una rana necesita que exista una laguna o
-   un charco de agua cerca para poder reproducirse?
-   **Respuesta esperada:** Porque pone sus huevos en el agua, y de esos huevos nacen
-   los renacuajos, que viven en el agua y respiran por branquias hasta que les
-   crecen patas y pulmones.
-   **Retroalimentación:** ¡Exacto! El hábitat acuático es fundamental para las
+4. *(Alternativas — hábitat)* ¿Por qué una rana necesita que exista una laguna o un
+   charco de agua cerca para poder reproducirse?
+   a) Porque pone sus huevos en el agua y de ellos nacen renacuajos que viven en el agua.
+   b) Porque la rana adulta no puede salir nunca del agua y se seca si llega a la tierra.
+   c) Porque necesita beber mucha agua antes de poner sus huevos en la tierra seca.
+   d) Porque sus crías nacen con pulmones y patas, listas para nadar igual que sus padres.
+   **Respuesta correcta:** a) Porque pone sus huevos en el agua y de ellos nacen renacuajos que viven en el agua.
+   **Retroalimentación:** ¡Exacto! Los renacuajos viven en el agua y respiran por branquias
+   hasta que les crecen patas y pulmones. El hábitat acuático es fundamental para las
    primeras etapas de vida de un anfibio, aunque de adulto pueda vivir en tierra.
 
-5. *(Observación/secuencia)* Mira esta imagen: un nido con un huevo, un polluelo con
+5. *(Alternativas — secuencia)* Mira esta imagen: un nido con un huevo, un polluelo con
    plumón y un ave adulta volando.
    ::emoji::🐦::las tres etapas de un ave, sin estar en orden::
-   Ordena las tres etapas desde la más temprana hasta la más tardía.
-   **Respuesta correcta:** Huevo → polluelo → ave adulta.
+   ¿Cuál es el orden de las etapas, desde la más temprana hasta la más tardía?
+   a) Polluelo → huevo → ave adulta
+   b) Ave adulta → polluelo → huevo
+   c) Huevo → ave adulta → polluelo
+   d) Huevo → polluelo → ave adulta
+   **Respuesta correcta:** d) Huevo → polluelo → ave adulta.
    **Retroalimentación:** ¡Bien hecho! Así se desarrolla la mayoría de las aves,
    como el chincol o el queltehue.
 
-6. *(Comparación/desarrollo breve)* Compara el ciclo de vida de una rana con el de
-   un guanaco: ¿en qué se parecen y en qué se diferencian?
-   **Respuesta esperada:** Se parecen en que ambos crecen y cambian con el tiempo
-   hasta llegar a ser adultos. Se diferencian en que la rana nace de un huevo en el
-   agua y pasa por una etapa de renacuajo muy distinta al adulto, mientras que el
-   guanaco crece dentro de la madre y nace pareciéndose ya a sus padres.
-   **Retroalimentación:** ¡Muy buena comparación! Observar semejanzas y diferencias
-   entre ciclos de vida te ayuda a entender mejor la diversidad de los animales.
+6. *(Alternativas — comparar)* Compara el ciclo de vida de una rana con el de un
+   guanaco. ¿Qué afirmación es correcta?
+   a) Los dos nacen de huevos puestos en el agua y viven como renacuajos antes de salir a tierra.
+   b) Ninguno de los dos cambia con el tiempo: nacen iguales a sus padres, solo que más pequeños.
+   c) El guanaco pasa por una etapa de renacuajo muy distinta al adulto; la rana nace pareciéndose a sus padres.
+   d) La rana pasa por una etapa de renacuajo muy distinta al adulto; el guanaco nace
+   pareciéndose a sus padres.
+   **Respuesta correcta:** d) La rana pasa por una etapa de renacuajo muy distinta al adulto; el guanaco nace pareciéndose a sus padres.
+   **Retroalimentación:** ¡Muy buena comparación! Se parecen en que ambos crecen y cambian
+   hasta llegar a ser adultos; se diferencian en que la rana nace de un huevo en el agua y
+   el guanaco crece dentro de la madre. Observar semejanzas y diferencias entre ciclos de
+   vida te ayuda a entender mejor la diversidad de los animales.
 
 ---
 
@@ -215,11 +230,11 @@ bosques, ríos y humedales donde viven.
 
 1. *(Alternativas)* ¿Cuál de estos animales nativos de Chile está en peligro de
    extinción y aparece en el escudo nacional?
-   a) El perro
-   b) El huemul
+   a) El huemul
+   b) El perro
    c) La gallina
    d) El caballo
-   **Respuesta correcta:** b) El huemul.
+   **Respuesta correcta:** a) El huemul.
    **Retroalimentación:** ¡Correcto! El huemul es un símbolo de Chile que hoy está
    en peligro de extinción por la pérdida de su hábitat.
 
@@ -229,40 +244,51 @@ bosques, ríos y humedales donde viven.
    **Retroalimentación:** Así es. Cuando se destruye el lugar donde vive un animal
    (su hábitat), este pierde alimento y refugio, y su población disminuye.
 
-3. *(Clasificar/agrupar)* Junta cada animal en peligro con la zona de Chile donde
-   vive: picaflor de Arica, huemul, rana de Darwin.
-   Zonas: extremo norte (humedales), sur (bosques húmedos), sur austral (bosques y
-   montañas).
-   **Respuesta correcta:** Picaflor de Arica → extremo norte (humedales). Huemul → sur
-   austral (bosques y montañas). Rana de Darwin → sur (bosques húmedos).
-   **Retroalimentación:** ¡Bien hecho! Cada animal en peligro necesita un hábitat
-   particular, y por eso perder ese hábitat los afecta tanto.
+3. *(Alternativas — unir)* ¿Dónde vive el **picaflor de Arica**, un animal en peligro
+   de extinción?
+   a) En el sur austral, entre bosques y montañas
+   b) En los bosques húmedos del sur
+   c) En la Antártica
+   d) En los humedales del extremo norte
+   **Respuesta correcta:** d) En los humedales del extremo norte.
+   **Retroalimentación:** ¡Bien hecho! El picaflor de Arica vive en el extremo norte, el
+   huemul en el sur austral y la rana de Darwin en los bosques húmedos del sur. Cada animal
+   en peligro necesita un hábitat particular, y por eso perder ese hábitat los afecta tanto.
 
-4. *(Aplicación)* Nombra una medida concreta que ayude a proteger a los animales
-   nativos en peligro de extinción.
-   **Respuesta esperada:** Cualquier medida razonable, por ejemplo: cuidar los
-   parques nacionales, no comprar animales silvestres, no botar basura en su
-   hábitat, respetar las leyes de protección de la fauna.
-   **Retroalimentación:** ¡Muy bien! Proteger el hábitat y no capturar animales
-   silvestres son las medidas más importantes para evitar su extinción.
+4. *(Varias correctas)* ¿Cuáles de estas medidas ayudan a proteger a los animales
+   nativos en peligro de extinción? Marca **todas** las correctas.
+   a) Cuidar los parques nacionales
+   b) Comprar animales silvestres como mascota
+   c) No botar basura en su hábitat
+   d) Respetar las leyes de protección de la fauna
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Muy bien! Proteger el hábitat y no capturar animales silvestres
+   son las medidas más importantes para evitar su extinción. Comprar animales silvestres
+   los saca de su hábitat y los pone en riesgo.
 
-5. *(Observación/análisis)* Mira esta imagen: un bosque nativo siendo talado para
+5. *(Alternativas — análisis)* Mira esta imagen: un bosque nativo siendo talado para
    construir casas.
    ::emoji::🌳::máquinas talando árboles en un bosque, con animales huyendo del lugar::
    ¿Qué le puede pasar a los animales que vivían en ese bosque?
-   **Respuesta correcta:** Pueden quedarse sin alimento ni refugio, tener que
-   desplazarse a otro lugar o, si no encuentran un hábitat adecuado, disminuir su
-   población hasta estar en peligro de extinción.
-   **Retroalimentación:** ¡Exacto! Por eso decimos que el deterioro del hábitat es
-   una amenaza tan grande para la fauna nativa.
+   a) Nada, porque los animales no necesitan el bosque para vivir ni para comer.
+   b) Se convertirán en animales domésticos.
+   c) Tendrán más comida, porque hay más espacio libre y entra más luz al lugar.
+   d) Pueden quedarse sin alimento ni refugio y su población puede disminuir.
+   **Respuesta correcta:** d) Pueden quedarse sin alimento ni refugio y su población puede disminuir.
+   **Retroalimentación:** ¡Exacto! Pueden tener que desplazarse a otro lugar o, si no
+   encuentran un hábitat adecuado, disminuir hasta estar en peligro de extinción. Por eso
+   decimos que el deterioro del hábitat es una amenaza tan grande para la fauna nativa.
 
-6. *(Desarrollo breve)* Elige un animal nativo en peligro de extinción que
-   aprendiste y explica en una frase por qué está en esa situación.
-   **Respuesta esperada:** Cualquier combinación correcta, por ejemplo: "El picaflor
-   de Arica está en peligro porque sus humedales del norte se han reducido" o "La
-   chinchilla chilena casi desapareció por la caza para obtener su piel".
-   **Retroalimentación:** ¡Buen trabajo! Conocer las causas es el primer paso para
-   saber cómo proteger a estos animales.
+6. *(Alternativas)* ¿Qué frase explica **correctamente** por qué un animal nativo está en
+   peligro de extinción?
+   a) La chinchilla chilena casi desapareció porque la cazaron para obtener su piel.
+   b) El picaflor de Arica está en peligro porque come demasiadas flores.
+   c) El huemul está en peligro porque hay demasiados bosques en el sur.
+   d) La rana de Darwin está en peligro porque llueve en su hábitat.
+   **Respuesta correcta:** a) La chinchilla chilena casi desapareció porque la cazaron para obtener su piel.
+   **Retroalimentación:** ¡Buen trabajo! La caza de la chinchilla por su piel y la
+   reducción de los humedales del picaflor de Arica son causas reales. Conocer las causas
+   es el primer paso para saber cómo proteger a estos animales.
 
 ---
 
@@ -314,21 +340,23 @@ los huesos: cuando se contraen (se acortan), tiran de los huesos y así producen
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál es la función principal de los pulmones?
-   a) Bombear la sangre
-   b) Digerir los alimentos
+   a) Bombear la sangre, llevándola a todo el cuerpo
+   b) Digerir los alimentos que comemos cada día
    c) Permitir la respiración, llevando oxígeno a la sangre
-   d) Sostener el cuerpo
+   d) Sostener el cuerpo y protegerlo de los golpes
    **Respuesta correcta:** c) Permitir la respiración, llevando oxígeno a la sangre.
    **Retroalimentación:** ¡Correcto! Los pulmones toman el oxígeno del aire que
    respiramos y lo pasan a la sangre.
 
-2. *(Emparejar)* Une cada órgano con su función: corazón, pulmones, estómago,
-   esqueleto. Funciones: bombear la sangre, digerir alimentos, respirar, sostener y
-   proteger el cuerpo.
-   **Respuesta correcta:** Corazón → bombear la sangre. Pulmones → respirar.
-   Estómago → digerir alimentos. Esqueleto → sostener y proteger el cuerpo.
-   **Retroalimentación:** ¡Muy bien! Cada órgano cumple una función distinta y todos
-   trabajan juntos para mantenerte con vida.
+2. *(Alternativas — unir)* ¿Qué órgano está **bien unido** con su función?
+   a) Estómago → bombear la sangre
+   b) Pulmones → digerir los alimentos
+   c) Corazón → bombear la sangre
+   d) Esqueleto → respirar
+   **Respuesta correcta:** c) Corazón → bombear la sangre.
+   **Retroalimentación:** ¡Muy bien! El corazón bombea la sangre, los pulmones nos
+   permiten respirar, el estómago digiere los alimentos y el esqueleto sostiene y protege
+   el cuerpo. Todos trabajan juntos para mantenerte con vida.
 
 3. *(Verdadero o falso)* Los músculos son órganos que se mueven por sí solos, sin
    relación con los huesos.
@@ -336,28 +364,37 @@ los huesos: cuando se contraen (se acortan), tiran de los huesos y así producen
    **Retroalimentación:** Los músculos están unidos a los huesos y, al contraerse,
    tiran de ellos para producir el movimiento del cuerpo.
 
-4. *(Aplicación/observación)* ¿Qué parte de tu cuerpo te permite doblar el codo y la
+4. *(Alternativas — aplicación)* ¿Qué parte de tu cuerpo te permite doblar el codo y la
    rodilla?
-   **Respuesta correcta:** Las articulaciones, que son los puntos donde se unen dos
-   huesos.
+   a) Las articulaciones, donde se unen dos huesos
+   b) Los músculos del estómago, que guardan la comida
+   c) Los pulmones, donde entra el aire al respirar
+   d) El cráneo, que protege el cerebro
+   **Respuesta correcta:** a) Las articulaciones, donde se unen dos huesos.
    **Retroalimentación:** ¡Exacto! Sin las articulaciones, nuestro esqueleto sería
    rígido y no podríamos movernos.
 
-5. *(Clasificar/agrupar)* Junta cada función con el órgano correspondiente: proteger
-   el cerebro y el corazón, digerir la comida, bombear sangre por todo el cuerpo.
-   Órganos: esqueleto (costillas y cráneo), estómago, corazón.
-   **Respuesta correcta:** Proteger el cerebro y el corazón → esqueleto (cráneo y
-   costillas). Digerir la comida → estómago. Bombear sangre → corazón.
-   **Retroalimentación:** ¡Bien hecho! El esqueleto no solo sostiene el cuerpo,
-   también protege a otros órganos importantes.
+5. *(Alternativas — clasificar)* ¿Qué parte del cuerpo **protege el cerebro y el
+   corazón**?
+   a) El esqueleto: el cráneo y las costillas
+   b) El estómago y los intestinos
+   c) La piel de las manos y los pies
+   d) Los pulmones y la tráquea
+   **Respuesta correcta:** a) El esqueleto: el cráneo y las costillas.
+   **Retroalimentación:** ¡Bien hecho! El esqueleto no solo sostiene el cuerpo, también
+   protege a otros órganos importantes: el cráneo protege el cerebro y las costillas el
+   corazón. El estómago digiere la comida y el corazón bombea la sangre.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué después de hacer ejercicio
-   sientes que tu corazón late más rápido y respiras más fuerte.
-   **Respuesta esperada:** Porque los músculos que están trabajando necesitan más
-   oxígeno, entonces el corazón bombea sangre más rápido y los pulmones respiran más
-   fuerte para llevar ese oxígeno al cuerpo.
-   **Retroalimentación:** ¡Muy buena explicación! El corazón, los pulmones y los
-   músculos trabajan en equipo cuando haces actividad física.
+6. *(Alternativas)* ¿Por qué después de hacer ejercicio sientes que tu corazón late más
+   rápido y respiras más fuerte?
+   a) Porque el cuerpo se queda sin huesos y los músculos tienen que sostenerlo con más fuerza.
+   b) Porque el estómago necesita más comida, y el corazón y los pulmones le avisan que tiene hambre.
+   c) Porque el corazón se cansa y quiere descansar, y por eso late rápido para terminar luego.
+   d) Porque los músculos necesitan más oxígeno, y el corazón y los pulmones trabajan más para llevarlo.
+   **Respuesta correcta:** d) Porque los músculos necesitan más oxígeno, y el corazón y los pulmones trabajan más para llevarlo.
+   **Retroalimentación:** ¡Muy buena explicación! El corazón bombea sangre más rápido y los
+   pulmones respiran más fuerte para llevar oxígeno a los músculos. Trabajan en equipo
+   cuando haces actividad física.
 
 ---
 
@@ -425,36 +462,52 @@ ejercicio de manera extrema: lo importante es moverse con regularidad.
    **Retroalimentación:** El sedentarismo puede provocar aumento de peso, menor
    agilidad, peor coordinación y un corazón menos entrenado.
 
-3. *(Clasificar/agrupar)* Junta estas actividades según sean actividad física o
-   sedentarismo: andar en bicicleta, ver televisión muchas horas, bailar, estar
-   sentado todo el recreo, jugar a la pelota.
-   **Respuesta correcta:** Actividad física: andar en bicicleta, bailar, jugar a la
-   pelota. Sedentarismo: ver televisión muchas horas, estar sentado todo el recreo.
-   **Retroalimentación:** ¡Muy bien! Cualquier actividad que implique mover el
-   cuerpo cuenta como actividad física.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas son **actividad física**? Marca
+   **todas** las correctas.
+   a) Andar en bicicleta
+   b) Ver televisión muchas horas
+   c) Bailar
+   d) Jugar a la pelota
+   e) Estar sentado todo el recreo
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Muy bien! Cualquier actividad que implique mover el cuerpo
+   cuenta como actividad física. Ver televisión muchas horas y estar sentado todo el
+   recreo son sedentarismo.
 
-4. *(Aplicación)* Propón dos formas distintas de incorporar actividad física en tu
-   semana.
-   **Respuesta esperada:** Cualquier combinación razonable, por ejemplo: jugar en
-   la plaza, andar en bicicleta, bailar, practicar un deporte, caminar al colegio.
-   **Retroalimentación:** ¡Excelente! Mientras más variadas sean tus actividades,
-   más divertido es mantenerte activo.
+4. *(Varias correctas)* ¿Cuáles de estas son formas de **incorporar actividad física**
+   en tu semana? Marca **todas** las correctas.
+   a) Caminar al colegio
+   b) Jugar videojuegos acostado
+   c) Practicar un deporte
+   d) Jugar en la plaza
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Excelente! Caminar, practicar un deporte o jugar en la plaza
+   mueven el cuerpo. Mientras más variadas sean tus actividades, más divertido es
+   mantenerte activo.
 
-5. *(Predicción)* Si dos niños hacen el mismo ejercicio, pero uno de ellos practica
-   deporte todas las semanas y el otro casi nunca se mueve, ¿cuál de los dos crees
-   que se cansará menos y tendrá más agilidad?
-   **Respuesta correcta:** El niño que practica deporte todas las semanas, porque
-   sus músculos y su corazón están más entrenados.
-   **Retroalimentación:** ¡Exacto! La actividad física constante mejora la
-   resistencia, la agilidad y la coordinación del cuerpo.
+5. *(Alternativas — predicción)* Si dos niños hacen el mismo ejercicio, pero uno de
+   ellos practica deporte todas las semanas y el otro casi nunca se mueve, ¿cuál de los
+   dos se cansará menos y tendrá más agilidad?
+   a) El que casi nunca se mueve, porque está más descansado y guarda toda su energía para ese día.
+   b) Los dos se cansarán igual, porque están haciendo exactamente el mismo ejercicio.
+   c) El que practica deporte todas las semanas, porque sus músculos y su corazón están
+   más entrenados.
+   d) Ninguno, porque el ejercicio no cansa si se hace una sola vez en la semana.
+   **Respuesta correcta:** c) El que practica deporte todas las semanas, porque sus músculos y su corazón están más entrenados.
+   **Retroalimentación:** ¡Exacto! La actividad física constante mejora la resistencia, la
+   agilidad y la coordinación del cuerpo.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué hacer ejercicio ayuda a
-   tener músculos fuertes y un corazón sano.
-   **Respuesta esperada:** Porque al moverse, los músculos y el corazón trabajan más
-   de lo normal, y ese trabajo repetido los va fortaleciendo con el tiempo, igual
-   que entrenar cualquier otra parte del cuerpo.
-   **Retroalimentación:** ¡Muy buena explicación! Cuidar tu cuerpo con actividad
-   física es un hábito que te acompañará toda la vida.
+6. *(Alternativas)* ¿Por qué hacer ejercicio ayuda a tener músculos fuertes y un corazón
+   sano?
+   a) Porque el ejercicio hace que los músculos dejen de trabajar y descansen, y así crecen más fuertes.
+   b) Porque los músculos y el corazón trabajan más de lo normal y ese trabajo repetido los
+   fortalece.
+   c) Porque el ejercicio reemplaza la comida, y el corazón ya no necesita alimentos para funcionar.
+   d) Porque el corazón se hace más pequeño y liviano, y así puede latir con menos esfuerzo.
+   **Respuesta correcta:** b) Porque los músculos y el corazón trabajan más de lo normal y ese trabajo repetido los fortalece.
+   **Retroalimentación:** ¡Muy buena explicación! Es igual que entrenar cualquier otra
+   parte del cuerpo. Cuidar tu cuerpo con actividad física es un hábito que te acompañará
+   toda la vida.
 
 ---
 
@@ -521,10 +574,10 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
 
 1. *(Alternativas)* ¿Qué le ocurre al agua cuando la viertes en distintos
    recipientes, como un vaso y un plato?
-   a) Cambia de color
+   a) Cambia de color según el recipiente
    b) Se adapta a la forma del recipiente
-   c) Se convierte en hielo
-   d) Desaparece
+   c) Se convierte en hielo dentro del plato
+   d) Desaparece al cambiarla de recipiente
    **Respuesta correcta:** b) Se adapta a la forma del recipiente.
    **Retroalimentación:** ¡Correcto! El agua no tiene una forma propia: toma la
    forma del recipiente que la contiene.
@@ -535,39 +588,49 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
    **Retroalimentación:** Así es. Tanto la sal como el azúcar son sólidos que se
    disuelven fácilmente en el agua.
 
-3. *(Predicción/experimento)* Si le echas un puñado de arena a un vaso con agua y
-   revuelves, ¿qué crees que va a pasar?
-   **Respuesta correcta:** La arena no se disuelve: seguirá siendo visible, ya sea
-   flotando o depositándose en el fondo del vaso.
-   **Retroalimentación:** ¡Exacto! No todos los sólidos se disuelven en el agua; la
-   arena es un buen ejemplo de un sólido que no se disuelve.
+3. *(Alternativas — predicción)* Si le echas un puñado de arena a un vaso con agua y
+   revuelves, ¿qué va a pasar?
+   a) La arena desaparece porque se disuelve en el agua, igual que el azúcar.
+   b) El agua se convierte en arena y el vaso queda lleno de barro seco.
+   c) El agua se congela alrededor de la arena y se forma hielo.
+   d) La arena no se disuelve: se sigue viendo, flotando o en el fondo del vaso.
+   **Respuesta correcta:** d) La arena no se disuelve: se sigue viendo, flotando o en el fondo del vaso.
+   **Retroalimentación:** ¡Exacto! No todos los sólidos se disuelven en el agua; la arena
+   es un buen ejemplo de un sólido que no se disuelve.
 
-4. *(Clasificar/agrupar)* Junta cada estado del agua con su descripción: hielo, agua
-   líquida, vapor de agua. Descripciones: no tiene forma propia y escurre, es sólido y
-   duro al tacto, es invisible y se mezcla con el aire.
-   **Respuesta correcta:** Hielo → es sólido y duro al tacto. Agua líquida → no tiene
-   forma propia y escurre. Vapor de agua → es invisible y se mezcla con el aire.
-   **Retroalimentación:** ¡Muy bien! El agua puede estar en tres estados distintos
-   según la temperatura: sólido, líquido y gaseoso.
+4. *(Alternativas — clasificar)* ¿Qué descripción corresponde al **vapor de agua**?
+   a) Es invisible y se mezcla con el aire.
+   b) Es sólido y duro al tacto.
+   c) No tiene forma propia y escurre.
+   d) Es blanco y se puede tomar con la mano.
+   **Respuesta correcta:** a) Es invisible y se mezcla con el aire.
+   **Retroalimentación:** ¡Muy bien! El hielo es sólido y duro, el agua líquida escurre y
+   no tiene forma propia, y el vapor es invisible y se mezcla con el aire. El agua puede
+   estar en tres estados distintos según la temperatura: sólido, líquido y gaseoso.
 
-5. *(Observación simple)* Mira esta imagen: un charco de agua en el patio del
+5. *(Alternativas — observación)* Mira esta imagen: un charco de agua en el patio del
    colegio en la mañana, y el mismo lugar en la tarde de un día muy caluroso, ya sin
    agua.
    ::emoji::💧::un charco de agua por la mañana, y el mismo lugar seco por la tarde::
    ¿Qué le pasó al agua del charco durante el día?
-   **Respuesta correcta:** Se evaporó: el calor hizo que el agua líquida se
-   transformara en vapor de agua, que subió al aire y ya no se ve.
-   **Retroalimentación:** ¡Correcto! El calor del sol es suficiente para evaporar el
-   agua de un charco poco profundo en un día caluroso.
+   a) Se congeló con el frío de la mañana y quedó escondido como hielo.
+   b) Se evaporó: el calor la transformó en vapor de agua que subió al aire.
+   c) Se transformó en arena y tierra seca del patio del colegio.
+   d) Alguien la guardó en una botella para regar las plantas.
+   **Respuesta correcta:** b) Se evaporó: el calor la transformó en vapor de agua que subió al aire.
+   **Retroalimentación:** ¡Correcto! El calor del sol es suficiente para evaporar el agua de
+   un charco poco profundo en un día caluroso; el vapor ya no se ve.
 
-6. *(Desarrollo breve)* Describe con tus palabras dos características del agua pura
-   que puedes comprobar con tus sentidos, como su color, su olor o si se puede ver
-   a través de ella.
-   **Respuesta esperada:** El agua pura es transparente, es decir, se puede ver a
-   través de ella, y es inodora, es decir, no tiene olor.
-   **Retroalimentación:** ¡Muy bien! Estas dos características te ayudan a
-   reconocer el agua pura y a notar cuando el agua está sucia o contaminada, porque
-   pierde su transparencia o gana olor.
+6. *(Varias correctas)* ¿Cuáles son características del **agua pura** que puedes
+   comprobar con tus sentidos? Marca **todas** las correctas.
+   a) Es transparente: se puede ver a través de ella
+   b) Tiene un olor fuerte
+   c) Es inodora: no tiene olor
+   d) Es de color café
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** ¡Muy bien! El agua pura es transparente e inodora. Estas
+   características te ayudan a notar cuando el agua está sucia o contaminada, porque pierde
+   su transparencia o gana olor.
 
 ---
 
@@ -645,36 +708,49 @@ agua cuando sea posible, y no contaminar ríos ni lagos con basura o químicos.
    **Retroalimentación:** Así es. Ese proceso se llama condensación y es una de las
    etapas del ciclo del agua.
 
-3. *(Ordenar secuencia)* Ordena las etapas del ciclo del agua: precipitación
-   (lluvia), condensación (nubes), evaporación.
-   **Respuesta correcta:** Evaporación → condensación (nubes) → precipitación
-   (lluvia).
-   **Retroalimentación:** ¡Muy bien! Este ciclo se repite una y otra vez en la
-   naturaleza, sin que el agua se acabe nunca del todo.
+3. *(Alternativas — ordenar)* ¿Cuál es el orden de las etapas del ciclo del agua?
+   a) Precipitación (lluvia) → evaporación → condensación (nubes)
+   b) Condensación (nubes) → evaporación → precipitación (lluvia)
+   c) Evaporación → condensación (nubes) → precipitación (lluvia)
+   d) Evaporación → precipitación (lluvia) → condensación (nubes)
+   **Respuesta correcta:** c) Evaporación → condensación (nubes) → precipitación (lluvia).
+   **Retroalimentación:** ¡Muy bien! El agua se evapora, forma nubes y cae como lluvia.
+   Este ciclo se repite una y otra vez en la naturaleza, sin que el agua se acabe nunca
+   del todo.
 
-4. *(Clasificar/agrupar)* Junta cada lugar según el tipo de agua que contiene:
-   océano, glaciar, río. Tipos: agua dulce, agua salada, agua congelada.
-   **Respuesta correcta:** Océano → agua salada. Glaciar → agua congelada. Río →
-   agua dulce.
-   **Retroalimentación:** ¡Bien hecho! El agua se encuentra en distintos lugares del
-   planeta y en distintos estados.
+4. *(Alternativas — clasificar)* ¿Qué lugar está **bien unido** con el tipo de agua que
+   contiene?
+   a) Océano → agua dulce
+   b) Glaciar → agua salada
+   c) Río → agua congelada
+   d) Océano → agua salada
+   **Respuesta correcta:** d) Océano → agua salada.
+   **Retroalimentación:** ¡Bien hecho! El océano tiene agua salada, el glaciar agua
+   congelada y el río agua dulce. El agua se encuentra en distintos lugares del planeta y
+   en distintos estados.
 
-5. *(Aplicación)* Propón dos acciones cotidianas para cuidar el agua en tu casa o
-   en tu colegio.
-   **Respuesta esperada:** Cualquier combinación razonable, por ejemplo: cerrar la
-   llave mientras te lavas los dientes, reportar llaves que gotean, no dejar la
-   manguera corriendo sin necesidad, reutilizar el agua de la lluvia para regar
-   plantas.
-   **Retroalimentación:** ¡Excelente! Aunque parezcan acciones pequeñas, cuidar el
-   agua todos los días ayuda a que este recurso alcance para todos.
+5. *(Varias correctas)* ¿Cuáles de estas acciones cuidan el agua en tu casa o en tu
+   colegio? Marca **todas** las correctas.
+   a) Cerrar la llave mientras te lavas los dientes
+   b) Dejar la manguera corriendo sin necesidad
+   c) Avisar a un adulto cuando una llave gotea
+   d) Reutilizar el agua de la lluvia para regar plantas
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Excelente! Aunque parezcan acciones pequeñas, cuidar el agua
+   todos los días ayuda a que este recurso alcance para todos. Dejar la manguera corriendo
+   desperdicia agua.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué decimos que el agua dulce
-   es un "recurso preciado" que debemos cuidar.
-   **Respuesta esperada:** Porque, aunque en el planeta hay mucha agua, la mayor
-   parte es agua salada de los océanos; el agua dulce que podemos beber y usar es
-   limitada, y todos los seres vivos la necesitan para vivir.
-   **Retroalimentación:** ¡Muy buena reflexión! Cuidar el agua es responsabilidad de
-   todos, porque es un recurso necesario y no infinito.
+6. *(Alternativas)* ¿Por qué decimos que el agua dulce es un "recurso preciado" que
+   debemos cuidar?
+   a) Porque en el planeta no hay nada de agua, y toda el agua que usamos se fabrica en las casas.
+   b) Porque la mayor parte del agua del planeta es salada, y el agua dulce que podemos
+   beber y usar es limitada.
+   c) Porque el agua dulce solo la usan las plantas, y las personas y los animales toman agua de mar.
+   d) Porque el agua dulce es más cara que el agua de mar, aunque en el planeta hay muchísima de las dos.
+   **Respuesta correcta:** b) Porque la mayor parte del agua del planeta es salada, y el agua dulce que podemos beber y usar es limitada.
+   **Retroalimentación:** ¡Muy buena reflexión! Todos los seres vivos necesitan agua dulce
+   para vivir. Cuidar el agua es responsabilidad de todos, porque es un recurso necesario
+   y no infinito.
 
 ---
 
@@ -743,36 +819,52 @@ temperatura.
    **Retroalimentación:** Así es. La nieve se forma cuando la temperatura es lo
    suficientemente baja para que el agua se congele antes de llegar al suelo.
 
-3. *(Clasificar/agrupar)* Junta estos fenómenos según correspondan a precipitación
-   o a viento: lluvia, ramas moviéndose, granizo, cometa volando, nieve.
-   **Respuesta correcta:** Precipitación: lluvia, granizo, nieve. Viento: ramas
-   moviéndose, cometa volando.
-   **Retroalimentación:** ¡Muy bien! La precipitación es agua que cae del cielo; el
-   viento es aire en movimiento.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos fenómenos son
+   **precipitación**? Marca **todas** las correctas.
+   a) Lluvia
+   b) Ramas moviéndose
+   c) Granizo
+   d) Nieve
+   e) Cometa volando
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Muy bien! La precipitación es agua que cae del cielo (lluvia,
+   granizo, nieve); las ramas moviéndose y la cometa volando muestran el viento, que es
+   aire en movimiento.
 
-4. *(Observación simple)* Mira esta imagen: un cielo cubierto de nubes grises y
+4. *(Alternativas — observación)* Mira esta imagen: un cielo cubierto de nubes grises y
    personas caminando con paraguas.
    ::emoji::☁️::una calle con nubes grises y personas con paraguas abiertos::
    ¿Qué tipo de tiempo atmosférico está ocurriendo en esta imagen?
-   **Respuesta correcta:** Está lloviendo (o va a llover), ya que el cielo está
-   nublado y las personas usan paraguas para protegerse del agua.
-   **Retroalimentación:** ¡Correcto! Las nubes grises suelen estar relacionadas con
-   los días de lluvia.
+   a) Un día soleado y caluroso
+   b) Un día despejado de verano
+   c) Está nevando en la playa
+   d) Está lloviendo (o va a llover)
+   **Respuesta correcta:** d) Está lloviendo (o va a llover).
+   **Retroalimentación:** ¡Correcto! El cielo está nublado y las personas usan paraguas para
+   protegerse del agua. Las nubes grises suelen estar relacionadas con los días de lluvia.
 
-5. *(Relacionar causa-efecto)* Explica por qué los días nublados suelen estar
-   relacionados con la lluvia.
-   **Respuesta esperada:** Porque las nubes están formadas por pequeñas gotas de
-   agua condensada; cuando esas gotas se juntan y se hacen más pesadas, caen como
-   lluvia.
-   **Retroalimentación:** ¡Muy buena explicación! Las nubes son una parte visible
-   del ciclo del agua, y muchas veces anuncian que puede llover.
+5. *(Alternativas — causa y efecto)* ¿Por qué los días nublados suelen estar
+   relacionados con la lluvia?
+   a) Porque las nubes están formadas por gotas de agua que, al juntarse y hacerse más
+   pesadas, caen como lluvia.
+   b) Porque las nubes tapan el sol, y por eso el agua de los ríos sube al cielo y vuelve a caer.
+   c) Porque las nubes están hechas de algodón que se moja y deja caer el agua que recoge.
+   d) Porque el viento fabrica el agua dentro de las nubes y después la empuja hacia abajo.
+   **Respuesta correcta:** a) Porque las nubes están formadas por gotas de agua que, al juntarse y hacerse más pesadas, caen como lluvia.
+   **Retroalimentación:** ¡Muy buena explicación! Las nubes son gotas de agua condensada,
+   una parte visible del ciclo del agua, y muchas veces anuncian que puede llover.
 
-6. *(Desarrollo breve)* Describe cómo estuvo el tiempo atmosférico hoy en tu
-   ciudad: ¿hizo calor o frío?, ¿hubo viento?, ¿llovió o estuvo despejado?
-   **Respuesta esperada:** Cualquier descripción coherente con la observación real
-   del estudiante ese día.
-   **Retroalimentación:** ¡Buen trabajo observando! Fijarte en el tiempo atmosférico
-   todos los días te ayuda a entender mejor cómo funciona el clima.
+6. *(Alternativas — registrar el tiempo)* Martín anotó el tiempo atmosférico de hoy.
+   ¿Qué anotación describe **el tiempo atmosférico**?
+   a) "Hoy almorcé porotos con mi familia en la casa."
+   b) "Hoy hizo frío, hubo viento y el cielo estuvo nublado."
+   c) "Hoy fui al colegio en bus con mis compañeros."
+   d) "Hoy es martes 5 de mayo y mañana es miércoles."
+   **Respuesta correcta:** b) "Hoy hizo frío, hubo viento y el cielo estuvo nublado."
+   **Retroalimentación:** ¡Buen trabajo! El tiempo atmosférico se describe con la
+   temperatura (calor o frío), el viento y si llueve o está despejado. Observa cómo está
+   el tiempo hoy en tu ciudad: fijarte todos los días te ayuda a entender mejor cómo
+   funciona el clima.
 
 ---
 
@@ -843,38 +935,51 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
    **Retroalimentación:** Así es. El otoño es una estación de transición: los días
    se acortan y el clima se vuelve más ventoso y fresco.
 
-3. *(Clasificar/agrupar)* Junta cada característica con la estación que le
-   corresponde: nieve y frío, flores y clima templado, calor y sol fuerte, hojas
-   cayendo y viento. Estaciones: invierno, primavera, verano, otoño.
-   **Respuesta correcta:** Nieve y frío → invierno. Flores y clima templado →
-   primavera. Calor y sol fuerte → verano. Hojas cayendo y viento → otoño.
-   **Retroalimentación:** ¡Muy bien! Cada estación tiene un conjunto de
-   características que se repiten cada año.
+3. *(Alternativas — clasificar)* ¿Qué característica corresponde al **otoño**?
+   a) Nieve y frío
+   b) Hojas cayendo y viento
+   c) Flores y clima templado
+   d) Calor y sol fuerte
+   **Respuesta correcta:** b) Hojas cayendo y viento.
+   **Retroalimentación:** ¡Muy bien! Nieve y frío → invierno; flores y clima templado →
+   primavera; calor y sol fuerte → verano; hojas cayendo y viento → otoño. Cada estación
+   tiene un conjunto de características que se repiten cada año.
 
-4. *(Relacionar con seres vivos)* ¿Por qué algunos animales guardan alimento
-   durante el otoño?
-   **Respuesta correcta:** Porque se preparan para el invierno, cuando la comida
-   suele ser más escasa, así que guardan reservas mientras todavía hay alimento
-   disponible.
-   **Retroalimentación:** ¡Exacto! Este comportamiento ayuda a algunos animales a
-   sobrevivir durante los meses más fríos del año.
+4. *(Alternativas — seres vivos)* ¿Por qué algunos animales guardan alimento durante el
+   otoño?
+   a) Porque en otoño no tienen hambre y prefieren guardar la comida para jugar.
+   b) Porque quieren regalarlo a otros animales en verano, cuando hace calor.
+   c) Porque se preparan para el invierno, cuando la comida suele ser más escasa.
+   d) Porque en otoño la comida se pone fea y prefieren comerla cuando está vieja.
+   **Respuesta correcta:** c) Porque se preparan para el invierno, cuando la comida suele ser más escasa.
+   **Retroalimentación:** ¡Exacto! Guardan reservas mientras todavía hay alimento disponible.
+   Este comportamiento ayuda a algunos animales a sobrevivir durante los meses más fríos
+   del año.
 
-5. *(Observación/aplicación)* Mira esta imagen: un árbol con muchas flores rosadas
-   y el pasto verde y fresco.
+5. *(Alternativas — observación)* Mira esta imagen: un árbol con muchas flores rosadas y
+   el pasto verde y fresco.
    ::emoji::🌸::un árbol florecido en un parque, con clima templado::
    ¿A qué estación del año corresponde probablemente esta imagen?
-   **Respuesta correcta:** A la primavera, porque es la estación en que florecen
-   muchas plantas y el clima es templado.
-   **Retroalimentación:** ¡Correcto! La primavera es fácil de reconocer por la
-   floración de árboles y plantas.
+   a) Al invierno
+   b) Al otoño
+   c) A la primavera
+   d) Al verano
+   **Respuesta correcta:** c) A la primavera.
+   **Retroalimentación:** ¡Correcto! La primavera es la estación en que florecen muchas
+   plantas y el clima es templado; es fácil de reconocer por la floración de árboles y
+   plantas.
 
-6. *(Desarrollo breve)* Elige tu estación favorita del año y describe dos cambios
-   que observas en el clima o en las plantas y animales durante esa estación.
-   **Respuesta esperada:** Cualquier descripción coherente con la estación elegida,
-   por ejemplo: "Mi estación favorita es el invierno, porque hace frío, a veces
-   nieva en la cordillera y los árboles no tienen hojas".
-   **Retroalimentación:** ¡Buen trabajo observando la naturaleza! Reconocer los
-   cambios de estación te ayuda a entender mejor el ciclo anual del clima.
+6. *(Varias correctas)* ¿Cuáles de estos cambios se observan en el **invierno**? Marca
+   **todas** las correctas.
+   a) Hace frío
+   b) A veces nieva en la cordillera
+   c) Muchos árboles se llenan de flores
+   d) Algunos árboles no tienen hojas
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** ¡Buen trabajo observando la naturaleza! En invierno hace frío, a
+   veces nieva en la cordillera y algunos árboles pierden sus hojas; los árboles se llenan
+   de flores en primavera. Reconocer los cambios de estación te ayuda a entender mejor el
+   ciclo anual del clima.
 
 ---
 

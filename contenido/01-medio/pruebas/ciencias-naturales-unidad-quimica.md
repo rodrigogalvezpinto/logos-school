@@ -25,8 +25,7 @@ ultima_actualizacion: 2026-10-28
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **clasificar**, **desarrollo breve** y **análisis** se responden
-   con tus propias palabras.
+4. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
 
@@ -38,36 +37,46 @@ ultima_actualizacion: 2026-10-28
 ¿Cuál de las siguientes NO es una evidencia típica de que ha ocurrido una reacción
 química?
 
-a) Producción de gas
-b) Cambio de color
+a) Producción de un gas, como burbujas o espuma
+b) Cambio de color de las sustancias que se mezclan
 c) Cambio en la forma de un objeto sin alterar su composición
-d) Cambio de temperatura
+d) Cambio de temperatura, como calentamiento o enfriamiento
 
 **Pregunta 2.** (Verdadero o falso)
 La fermentación es un proceso químico que requiere necesariamente oxígeno para
 producirse.
 
-**Pregunta 3.** (Clasificar)
-Clasifica cada reacción según su tipo (descomposición, síntesis, sustitución u
-oxidación): la formación de herrumbre en un clavo de hierro; la combinación de
-hidrógeno y oxígeno para formar agua; la descomposición del agua oxigenada en agua y
-oxígeno al exponerla a la luz.
+**Pregunta 3.** (Alternativas — Clasificar)
+¿Qué tipo de reacción corresponde a: (1) herrumbre en un clavo; (2) hidrógeno + oxígeno → agua; (3) agua oxigenada → agua + oxígeno al exponerla a la luz?
 
-**Pregunta 4.** (Desarrollo breve)
-Explica la diferencia entre una reacción exotérmica y una endotérmica, dando un
-ejemplo cotidiano de cada una.
+a) 1: oxidación; 2: síntesis; 3: descomposición
+b) 1: síntesis; 2: descomposición; 3: oxidación
+c) 1: descomposición; 2: oxidación; 3: síntesis
+d) 1: sustitución; 2: síntesis; 3: oxidación
 
-**Pregunta 5.** (Análisis experimental)
-Un estudiante realiza el siguiente experimento: coloca levadura, azúcar y agua tibia
-en un frasco cerrado con un globo en la boca del frasco, y observa que, después de
-un tiempo, el globo comienza a inflarse. Explica qué está ocurriendo y qué evidencia
-de reacción química se observa.
+**Pregunta 4.** (Alternativas)
+¿Qué diferencia hay entre una reacción exotérmica y una endotérmica?
 
-**Pregunta 6.** (Evaluación/impacto ambiental)
-Evalúa el siguiente enunciado: "las reacciones de combustión son procesos
-completamente naturales y, por lo tanto, no representan ningún riesgo para el
-ambiente." Justifica tu evaluación, considerando el impacto de la combustión a gran
-escala.
+a) La exotérmica absorbe calor del entorno (compresa fría instantánea); la endotérmica libera calor (combustión de gas)
+b) Ambas liberan calor al entorno, pero la exotérmica lo hace más rápido que la endotérmica
+c) Ninguna intercambia energía con el entorno: la diferencia está solo en el color de los productos
+d) La exotérmica libera calor (combustión de gas); la endotérmica absorbe calor del entorno (compresa fría instantánea)
+
+**Pregunta 5.** (Alternativas — Análisis experimental)
+Un frasco con levadura, azúcar y agua tibia, cerrado con un globo, infla el globo después de un tiempo. ¿Qué ocurre?
+
+a) El agua tibia se evapora con el calor y el vapor llena el globo, sin que ocurra ninguna reacción química
+b) No ocurre ninguna reacción química: el globo se infla solo por la diferencia de temperatura del frasco
+c) El azúcar se derrite con el agua tibia y produce aire, que sube al globo porque es más liviano
+d) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química
+
+**Pregunta 6.** (Alternativas — Evaluación)
+"Las reacciones de combustión son procesos completamente naturales y, por lo tanto, no representan ningún riesgo para el ambiente." ¿Qué evaluación es correcta?
+
+a) Es correcta: todo lo natural es inofensivo, y la combustión ocurre en la naturaleza desde siempre, por lo que el ambiente se adapta a sus efectos
+b) Es correcta: la combustión no libera gases a la atmósfera, solo produce calor y luz, por lo que no puede afectar el aire ni el clima
+c) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire
+d) Es incorrecta: la combustión no es una reacción química sino un cambio físico, y por eso no puede calificarse como un proceso natural
 
 ---
 
@@ -77,33 +86,46 @@ escala.
 ¿Qué ley química establece que la masa total de los reactantes debe ser igual a la
 masa total de los productos en una reacción química?
 
-a) La ley de Avogadro
+a) La ley de Avogadro sobre volúmenes de gases
 b) La ley de conservación de la materia
-c) La ley de Ohm
-d) La ley de los gases ideales
+c) La ley de Ohm sobre la corriente eléctrica
+d) La ley de los gases ideales y la presión
 
 **Pregunta 8.** (Verdadero o falso)
 Un mol de cualquier sustancia contiene siempre la misma cantidad de partículas,
 independientemente de la sustancia de la que se trate.
 
-**Pregunta 9.** (Clasificar/verificar)
-Determina si las siguientes ecuaciones químicas están correctamente balanceadas o
-no: H₂ + O₂ → H₂O; 2H₂ + O₂ → 2H₂O; N₂ + 3H₂ → 2NH₃.
+**Pregunta 9.** (Varias correctas — Verificar)
+¿Cuáles de estas ecuaciones están correctamente balanceadas? Marca **todas** las correctas.
 
-**Pregunta 10.** (Desarrollo breve)
-Explica por qué es necesario balancear una ecuación química antes de realizar
-cálculos estequiométricos con ella.
+a) 2H₂ + O₂ → 2H₂O
+b) N₂ + 3H₂ → 2NH₃
+c) H₂ + O₂ → H₂O
+d) N₂ + H₂ → NH₃
 
-**Pregunta 11.** (Análisis/cálculo)
-Según la ecuación balanceada N₂ + 3H₂ → 2NH₃ (formación de amoníaco), si se hacen
-reaccionar completamente 2 moles de N₂, ¿cuántos moles de H₂ se necesitan y cuántos
-moles de NH₃ se producen, manteniendo la proporción de la ecuación?
+**Pregunta 10.** (Alternativas)
+¿Por qué es necesario balancear una ecuación antes de hacer cálculos estequiométricos?
 
-**Pregunta 12.** (Aplicación/análisis)
-Usando la ecuación simplificada de la fotosíntesis (6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂),
-explica por qué se dice que la fotosíntesis, además de producir glucosa (un
-compuesto útil como fuente de energía para los seres vivos), contribuye a capturar
-dióxido de carbono atmosférico.
+a) Porque solo así refleja la proporción real en que reaccionan las sustancias, según la conservación de la materia
+b) Porque las ecuaciones balanceadas son más cortas y fáciles de escribir en los cálculos
+c) Porque balancear cambia los productos de la reacción y permite obtener más cantidad de ellos
+d) No es necesario balancearla, porque los coeficientes no influyen en los cálculos estequiométricos
+
+**Pregunta 11.** (Alternativas — Cálculo)
+Según N₂ + 3H₂ → 2NH₃, si reaccionan completamente 2 moles de N₂, ¿cuántos moles de H₂ se necesitan y cuántos de NH₃ se producen?
+
+a) 3 moles de H₂ y 2 moles de NH₃
+b) 6 moles de H₂ y 2 moles de NH₃
+c) 5 moles de H₂ y 4 moles de NH₃
+d) 6 moles de H₂ y 4 moles de NH₃
+
+**Pregunta 12.** (Alternativas — Aplicación)
+Según 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, ¿por qué la fotosíntesis contribuye a capturar CO₂ atmosférico?
+
+a) Porque libera CO₂ a la atmósfera, que luego las plantas vuelven a absorber
+b) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂
+c) Porque por cada molécula de glucosa se consume solo 1 molécula de agua
+d) Porque no tiene relación con el CO₂: solo produce oxígeno para respirar
 
 ---
 
@@ -115,37 +137,17 @@ dióxido de carbono atmosférico.
 2. Falso — la fermentación es un proceso que los microorganismos realizan en
    ausencia de oxígeno, transformando sustancias como los azúcares para obtener
    energía.
-3. Oxidación: formación de herrumbre. Síntesis: formación de agua a partir de
-   hidrógeno y oxígeno. Descomposición: descomposición del agua oxigenada.
-4. Una reacción exotérmica libera calor hacia el entorno (por ejemplo, la
-   combustión de gas en una cocina, que calienta el ambiente cercano); una reacción
-   endotérmica absorbe calor del entorno (por ejemplo, algunas reacciones que se
-   usan en compresas frías instantáneas, que se sienten frías porque absorben calor
-   del entorno al reaccionar).
-5. La levadura realiza fermentación, transformando el azúcar y liberando dióxido de
-   carbono como uno de los productos de la reacción; ese gas se acumula dentro del
-   frasco y comienza a inflar el globo, lo que constituye la evidencia observable
-   (producción de gas) de que está ocurriendo una reacción química.
-6. El enunciado es incorrecto: aunque la combustión es un tipo de reacción química
-   natural, la combustión de combustibles fósiles a gran escala (en vehículos,
-   industrias, centrales termoeléctricas) libera grandes cantidades de dióxido de
-   carbono y otros contaminantes a la atmósfera, contribuyendo al efecto
-   invernadero, al cambio climático y a la contaminación del aire.
+3. a) 1: oxidación; 2: síntesis; 3: descomposición. Reconocer si los reactantes se combinan, se separan o intercambian elementos permite clasificar la reacción.
+4. d) La exotérmica libera calor (combustión de gas); la endotérmica absorbe calor del entorno (compresa fría instantánea). El cambio de temperatura observado es evidencia directa de si el proceso libera o absorbe energía.
+5. d) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química. Este proceso es el mismo que ocurre en la elaboración del pan.
+6. c) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire. La magnitud y frecuencia de un proceso también determinan su impacto.
 7. b) La ley de conservación de la materia. Es la base de la estequiometría: en una
    reacción química, los átomos se reorganizan pero no se crean ni se destruyen, por
    lo que la masa se conserva.
 8. Verdadero — un mol equivale siempre al número de Avogadro (aproximadamente
    6,02 × 10²³ partículas), sin importar de qué sustancia se trate; lo que sí varía
    entre sustancias es la masa que corresponde a un mol.
-9. H₂ + O₂ → H₂O: no está balanceada (2 átomos de oxígeno en reactantes, 1 en
-   productos). 2H₂ + O₂ → 2H₂O: sí está balanceada. N₂ + 3H₂ → 2NH₃: sí está
-   balanceada.
-10. Porque una ecuación balanceada refleja correctamente la proporción real en que
-    reaccionan los átomos y moléculas, de acuerdo con la ley de conservación de la
-    materia; si la ecuación no está balanceada, los cálculos de cantidades de
-    reactantes o productos realizados a partir de ella serán incorrectos.
-11. Se necesitan 6 moles de H₂ (2 × 3) y se producen 4 moles de NH₃ (2 × 2).
-12. Según la ecuación balanceada, por cada molécula de glucosa producida se
-    consumen 6 moléculas de dióxido de carbono atmosférico; esto significa que, a
-    mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema,
-    mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica.
+9. a y b — Se cuentan los átomos de cada elemento a ambos lados: H₂ + O₂ → H₂O tiene 2 oxígenos a la izquierda y 1 a la derecha.
+10. a) Porque solo así refleja la proporción real en que reaccionan las sustancias, según la conservación de la materia. Balancear es siempre el primer paso antes de cualquier cálculo estequiométrico.
+11. d) 6 moles de H₂ y 4 moles de NH₃. Los coeficientes indican la proporción: 2 × 3 = 6 de H₂ y 2 × 2 = 4 de NH₃.
+12. b) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂. La estequiometría permite pasar de una explicación cualitativa a una comprensión cuantitativa.

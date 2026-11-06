@@ -19,27 +19,35 @@ Nombre: _______________________________ Fecha: ____________
 
 Tiempo sugerido: **15 minutos**
 
-Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa correcta o escribe tu respuesta en el espacio.
+Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa correcta.
 
 ---
 
 **1.** Levantas tu mano derecha para pedir la palabra. ¿Cómo se llama la posición de esa mano?
 
 a) Izquierda
-b) Derecha
+b) Abajo
 c) Arriba
-d) Abajo
+d) Derecha
 
 **2.** [Imagen: un gato está debajo de una mesa] El gato está ___ de la mesa.
 
-a) encima
-b) debajo
+a) debajo
+b) encima
 c) al lado
 d) dentro
 
 **3.** Las palabras "arriba" y "abajo" sirven para describir la posición de un objeto. ¿Verdadero o falso?
 
-**4.** Describe dónde está tu estuche en relación a tu mochila, usando una palabra de posición (por ejemplo, dentro, encima, al lado).
+a) Verdadero
+b) Falso
+
+**4.** [Imagen: un estuche guardado adentro de una mochila abierta] ¿Qué frase describe bien dónde está el estuche?
+
+a) El estuche está debajo de la mochila.
+b) El estuche está al lado de la mochila.
+c) El estuche está dentro de la mochila.
+d) El estuche está encima de la mochila.
 
 **5.** [Imagen: una niña está parada a la izquierda de un árbol] ¿Dónde está la niña respecto al árbol?
 
@@ -50,13 +58,18 @@ d) Dentro del árbol
 
 **6.** [Imagen: en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora] ¿Quién está entre Antonia e Isidora?
 
+a) Antonia
+b) Benjamín
+c) Isidora
+d) Nadie
+
 ---
 
 ## Pauta de respuestas
 
-1. b) Derecha
-2. b) debajo
+1. d) Derecha
+2. a) debajo
 3. Verdadero
-4. Respuesta abierta — se acepta cualquier palabra de posición correcta (ejemplo: "Mi estuche está dentro de mi mochila").
+4. c) El estuche está dentro de la mochila. «Dentro» es la palabra de posición que describe un objeto guardado adentro de otro.
 5. b) A la izquierda del árbol
-6. Benjamín
+6. b) Benjamín — Antonia va primero, luego Benjamín y luego Isidora, así que Benjamín queda en el medio.

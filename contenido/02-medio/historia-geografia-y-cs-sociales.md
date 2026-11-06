@@ -153,11 +153,11 @@ homogéneo sin espacio para el disenso o el pluralismo político.
 del Estado liberal decimonónico en el siglo XX?
 
 a) La Revolución Francesa
-b) La Gran Depresión de 1929
+b) El Concilio Vaticano II
 c) La independencia de las colonias americanas
-d) El Concilio Vaticano II
+d) La Gran Depresión de 1929
 
-✅ Respuesta correcta: **b) La Gran Depresión de 1929**
+✅ Respuesta correcta: **d) La Gran Depresión de 1929**
 💬 *Retroalimentación:* El colapso económico de 1929 puso en duda la capacidad del Estado
 liberal mínimo para enfrentar crisis de gran escala, abriendo paso a modelos políticos y
 económicos alternativos.
@@ -174,56 +174,53 @@ democracia liberal.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada modelo con su característica principal:
+**3. (Alternativas — unir)** Une cada modelo con su característica principal:
 
 1) Estado de Bienestar — 2) Populismo latinoamericano — 3) Totalitarismo
 
-a) Concentra todo el poder en un partido único, sin elecciones libres — b) Amplía el rol del
-Estado en protección social, dentro del marco democrático — c) Líderes carismáticos que apelan a
-las masas, con debilitamiento de instituciones representativas
+Características: (A) Concentra todo el poder en un partido único, sin elecciones libres — (B) Amplía el rol del Estado en protección social, dentro del marco democrático — (C) Líderes carismáticos que apelan a las masas, con debilitamiento de instituciones representativas
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Los tres modelos surgen como respuesta a la crisis del liberalismo
-clásico, pero con relaciones muy distintas con la democracia.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de fuente)** Un discurso de un líder populista latinoamericano de la década de
-1940 promete "industrializar el país, dar voz a los trabajadores y terminar con el dominio de
-las oligarquías tradicionales", apelando directamente a las masas en grandes actos públicos.
-¿Qué modelo político describe mejor este discurso?
-
-✅ Respuesta correcta: El populismo latinoamericano, caracterizado por un liderazgo carismático
-que apela directamente a las masas populares e impulsa la industrialización y la ampliación de
-derechos sociales.
-💬 *Retroalimentación:* El populismo se distingue del totalitarismo porque no elimina
-formalmente las elecciones, aunque tiende a debilitar el equilibrio entre poderes y las
-instituciones representativas tradicionales.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Los tres modelos ampliaron el rol del Estado frente al liberalismo clásico, pero con vínculos muy distintos con la democracia.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué la Gran Depresión de 1929 puso en crisis al Estado
-liberal decimonónico, y no solo a las finanzas de algunos países.
+**4. (Alternativas — análisis de fuente)** Un líder latinoamericano de la década de 1940 promete "industrializar el país, dar voz a los trabajadores y terminar con el dominio de las oligarquías tradicionales", apelando a las masas en grandes actos públicos. ¿Qué modelo describe mejor este discurso?
+a) El totalitarismo soviético
+b) El liberalismo clásico del siglo XIX
+c) El Estado de Bienestar europeo
+d) El populismo latinoamericano
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que el Estado liberal clásico
-defendía una intervención mínima en la economía, y la magnitud de la crisis de 1929 —desempleo
-masivo, quiebras en cadena, contracción del comercio mundial— demostró que ese modelo era
-insuficiente para enfrentar crisis de esa escala, lo que abrió la puerta a modelos con mayor
-intervención estatal, ya fuera dentro de la democracia (Estado de Bienestar) o fuera de ella
-(totalitarismos).
+✅ Respuesta correcta: **d) El populismo latinoamericano**
+💬 *Retroalimentación:* El populismo se caracteriza por un liderazgo carismático que apela a las masas; mantiene formalmente las elecciones, aunque tiende a debilitar el equilibrio de poderes.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** Compara el Estado de Bienestar y el totalitarismo:
-¿en qué se parecen y en qué se diferencian fundamentalmente como respuestas a la crisis del
-liberalismo?
+**5. (Alternativas)** ¿Por qué la Gran Depresión de 1929 puso en crisis al Estado liberal decimonónico?
+a) Porque fortaleció la confianza en el libre mercado sin intervención, ya que la economía se recuperó sola en pocos meses gracias a la baja de salarios y de precios
+b) Porque eliminó para siempre la intervención estatal: los gobiernos comprendieron que cualquier gasto público agravaba el desempleo, las quiebras y la contracción del comercio
+c) Porque solo afectó a las finanzas de algunos bancos
+d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que ambos modelos comparten un
-mayor rol del Estado en la economía y la vida social frente al liberalismo mínimo del siglo
-XIX, pero se diferencian radicalmente en su relación con la democracia: el Estado de Bienestar
-amplía la protección social sin eliminar el pluralismo político ni las elecciones libres,
-mientras el totalitarismo elimina por completo esas libertades y concentra el poder en un
-partido único.
+✅ Respuesta correcta: **d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención**
+💬 *Retroalimentación:* La mayor intervención estatal se dio dentro de la democracia (Estado de Bienestar) o fuera de ella (totalitarismos).
+
+---
+
+**6. (Alternativas — desafiante)** ¿En qué se parecen y en qué se diferencian el Estado de Bienestar y el totalitarismo?
+a) Ambos eliminan las elecciones libres y el pluralismo político, y se diferencian solo en el tamaño de su gasto social
+b) Ninguno amplía el rol del Estado
+c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el pluralismo y las elecciones libres, mientras el totalitarismo los elimina y concentra el poder en un partido único
+d) El Estado de Bienestar elimina los partidos y las elecciones libres para concentrar el poder en el gobierno, mientras el totalitarismo garantiza el pluralismo y reduce el rol del Estado
+
+✅ Respuesta correcta: **c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el pluralismo y las elecciones libres, mientras el totalitarismo los elimina y concentra el poder en un partido único**
+💬 *Retroalimentación:* La diferencia fundamental está en su vínculo con la democracia.
 
 ---
 
@@ -292,12 +289,12 @@ la Segunda Guerra Mundial.
 **1. (Alternativas)** ¿Qué dos países emergieron como superpotencias tras la Segunda Guerra
 Mundial?
 
-a) Francia y Alemania
-b) Estados Unidos y la Unión Soviética
-c) Gran Bretaña y Japón
-d) Italia y España
+a) Francia y Alemania, vencedoras en Europa
+b) Italia y España, que se mantuvieron neutrales
+c) Gran Bretaña y Japón, potencias navales
+d) Estados Unidos y la Unión Soviética
 
-✅ Respuesta correcta: **b) Estados Unidos y la Unión Soviética**
+✅ Respuesta correcta: **d) Estados Unidos y la Unión Soviética**
 💬 *Retroalimentación:* Ambos países emergieron con un poderío militar, económico e ideológico
 muy superior al de las antiguas potencias europeas, que perdieron su hegemonía mundial.
 
@@ -313,52 +310,47 @@ derecho internacional posterior.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente: (1) fundación de la ONU, (2) fin de la
-Segunda Guerra Mundial, (3) Declaración Universal de los Derechos Humanos, (4) inicio acelerado
-de la descolonización de África y Asia.
+**3. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) fundación de la ONU, (2) fin de la Segunda Guerra Mundial, (3) Declaración Universal de los Derechos Humanos, (4) inicio acelerado de la descolonización de África y Asia.
+a) 2 → 1 → 3 → 4
+b) 1 → 2 → 3 → 4
+c) 2 → 3 → 1 → 4
+d) 4 → 2 → 1 → 3
 
-✅ Respuesta correcta: **2 → 1 → 3 → 4**
-💬 *Retroalimentación:* La guerra terminó en 1945, el mismo año se fundó la ONU, en 1948 se
-aprobó la Declaración de Derechos Humanos, y la descolonización se aceleró especialmente en las
-décadas de 1950 y 1960.
-
----
-
-**4. (Análisis de fuente)** Un discurso de un líder independentista africano de 1957 declara:
-"Nuestra independencia carece de sentido a menos que esté vinculada a la total liberación del
-continente". ¿Con qué consecuencia de la Segunda Guerra Mundial se relaciona directamente este
-discurso?
-
-✅ Respuesta correcta: Con el proceso de descolonización, iniciado tras el debilitamiento de las
-potencias coloniales europeas y el fortalecimiento de los movimientos independentistas en Asia y
-África.
-💬 *Retroalimentación:* Este tipo de fuentes permite conectar el discurso político de la época
-con el proceso histórico de fondo: la pérdida de hegemonía europea abrió espacio real a las
-independencias.
+✅ Respuesta correcta: **a) 2 → 1 → 3 → 4**
+💬 *Retroalimentación:* La guerra terminó en 1945, la ONU se fundó ese mismo año, la Declaración se aprobó en 1948 y la descolonización se aceleró en las décadas de 1950 y 1960.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué se afirma que la Segunda Guerra Mundial significó la
-"pérdida de hegemonía de Europa" en el orden mundial.
+**4. (Alternativas — análisis de fuente)** Un líder independentista africano declara en 1957: "Nuestra independencia carece de sentido a menos que esté vinculada a la total liberación del continente". ¿Con qué consecuencia de la Segunda Guerra Mundial se vincula?
+a) Con la Gran Depresión de 1929, que arruinó a las colonias exportadoras
+b) Con la caída del Muro de Berlín y el fin del bloque soviético en Europa durante la Guerra Fría
+c) Con la Revolución rusa de 1917 y la expansión del comunismo en Europa
+d) Con la descolonización, favorecida por el debilitamiento de las potencias coloniales europeas
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, antes de la guerra, las
-potencias europeas dominaban gran parte del comercio, la política y los territorios coloniales
-del mundo; la destrucción material y humana de la guerra, sumada al ascenso simultáneo de
-Estados Unidos y la URSS como superpotencias, hizo que Europa dejara de ser el centro
-indiscutido del poder mundial que había sido durante siglos.
+✅ Respuesta correcta: **d) Con la descolonización, favorecida por el debilitamiento de las potencias coloniales europeas**
+💬 *Retroalimentación:* La pérdida de hegemonía europea abrió espacio real a las independencias.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la comunidad internacional decidió
-crear, tras la guerra, tanto un organismo político permanente (la ONU) como una declaración de
-derechos (la Declaración Universal de los Derechos Humanos), y no solo uno de los dos?
+**5. (Alternativas)** ¿Por qué la Segunda Guerra Mundial significó la "pérdida de hegemonía de Europa"?
+a) Porque Europa salió más poderosa que antes y consolidó su dominio colonial, mientras Estados Unidos y la URSS quedaron debilitados por la destrucción material y humana
+b) Porque Europa conquistó nuevas colonias
+c) Porque la destrucción material y humana, sumada al ascenso de Estados Unidos y la URSS como superpotencias, hizo que Europa dejara de ser el centro indiscutido del poder mundial
+d) Porque Estados Unidos y la URSS se debilitaron con la guerra, y Europa tuvo que asumir sola la reconstrucción y la defensa del orden mundial durante las décadas siguientes
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que ambas instituciones cumplen
-funciones complementarias: la ONU ofrece un espacio permanente de diálogo y resolución de
-conflictos entre Estados, mientras que la Declaración establece un estándar común sobre cómo
-deben ser tratadas todas las personas, independientemente de las decisiones de sus propios
-Estados; juntas buscan evitar tanto nuevas guerras entre países como nuevas atrocidades contra
-las personas dentro de ellos.
+✅ Respuesta correcta: **c) Porque la destrucción material y humana, sumada al ascenso de Estados Unidos y la URSS como superpotencias, hizo que Europa dejara de ser el centro indiscutido del poder mundial**
+💬 *Retroalimentación:* Antes de la guerra, las potencias europeas dominaban gran parte del comercio, la política y los territorios coloniales.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué tras la guerra se crearon tanto la ONU como la Declaración Universal de los Derechos Humanos?
+a) Porque ambas cumplen exactamente la misma función: la ONU y la Declaración son dos nombres para un mismo tratado que obliga a los Estados a evitar la guerra y castigar a los infractores
+b) Porque la Declaración reemplazó a la ONU como espacio de diálogo entre Estados, y desde entonces los conflictos internacionales se resuelven aplicando directamente sus artículos
+c) Porque cumplen funciones complementarias: la ONU es un espacio permanente de diálogo entre Estados y la Declaración fija un estándar común sobre cómo tratar a todas las personas
+d) Porque la ONU se creó para declarar guerras
+
+✅ Respuesta correcta: **c) Porque cumplen funciones complementarias: la ONU es un espacio permanente de diálogo entre Estados y la Declaración fija un estándar común sobre cómo tratar a todas las personas**
+💬 *Retroalimentación:* Juntas buscan evitar nuevas guerras entre países y nuevas atrocidades contra las personas dentro de ellos.
 
 ---
 
@@ -453,52 +445,53 @@ la cultura de masas (radio, cine, deporte).
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada actor social con la forma en que se empoderó a mediados
-de siglo:
+**3. (Alternativas — unir)** Une cada actor social con la forma en que se empoderó a mediados de siglo:
 
 1) Mujeres — 2) Clase obrera — 3) Clase media
 
-a) Fortalecimiento de sindicatos y partidos de base obrera — b) Obtención del derecho a voto en
-elecciones presidenciales — c) Crecimiento de empleos administrativos y expansión de la
-educación pública
+Formas: (A) Fortalecimiento de sindicatos y partidos de base obrera — (B) Obtención del derecho a voto en elecciones presidenciales — (C) Crecimiento de empleos administrativos y expansión de la educación pública
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Cada grupo social vivió un proceso propio de empoderamiento, aunque
-todos ellos contribuyeron en conjunto a una sociedad chilena más democrática.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de fuente)** Una fotografía de 1952 muestra a mujeres haciendo fila para votar en
-una elección presidencial, algo que no existía antes de 1949. ¿Qué proceso histórico ilustra
-esta imagen?
-
-✅ Respuesta correcta: La incorporación de las mujeres a la ciudadanía política plena, tras la
-obtención del derecho a voto presidencial y parlamentario en 1949.
-💬 *Retroalimentación:* Las fotografías de procesos electorales son una fuente visual directa
-para verificar cambios concretos en la participación ciudadana.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Cada actor se empoderó por vías distintas, pero todos contribuyeron a una sociedad chilena más democrática.
 
 ---
 
-**5. (Desarrollo breve)** Explica cómo la expansión de la radio y el cine contribuyó a la
-democratización cultural de la sociedad chilena de mediados de siglo XX.
+**4. (Alternativas — análisis de fuente)** Una fotografía de 1952 muestra a mujeres haciendo fila para votar en una elección presidencial, algo que no existía antes de 1949. ¿Qué proceso ilustra?
+a) La prohibición del voto femenino en las elecciones
+b) El fin del sufragio universal en Chile por varios años y regionales
+c) La llegada de la televisión a los hogares chilenos
+d) La incorporación de las mujeres a la ciudadanía política plena
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, antes de la radio y el cine,
-el acceso a la cultura, la información y el entretenimiento estaba mucho más limitado a los
-sectores con mayores recursos; la masificación de estos medios permitió que personas de
-distintos niveles socioeconómicos accedieran a los mismos contenidos culturales al mismo tiempo,
-generando un sentido de comunidad nacional más amplio.
+✅ Respuesta correcta: **d) La incorporación de las mujeres a la ciudadanía política plena**
+💬 *Retroalimentación:* Las fuentes visuales permiten verificar cambios concretos en la participación ciudadana.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el empoderamiento de la clase media y
-de la clase obrera se considera parte de un mismo proceso de "democratización", pese a tratarse
-de grupos sociales con intereses distintos?
+**5. (Alternativas)** ¿Cómo contribuyó la expansión de la radio y el cine a la democratización cultural de mediados del siglo XX?
+a) Permitió que personas de distintos niveles socioeconómicos accedieran a los mismos contenidos culturales, generando un sentido de comunidad nacional más amplio
+b) Restringió la cultura a las élites, porque solo las familias acomodadas podían comprar radios y televisores, y los contenidos se pensaban para ellas
+c) Eliminó el acceso a la información
+d) Solo benefició a los sectores rurales aislados, que recibieron por primera vez noticias, mientras en las ciudades la cultura siguió siendo igual
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, aunque la clase media y la
-clase obrera tenían intereses y formas de organización distintas, ambos procesos compartían el
-mismo resultado general: una sociedad chilena con más grupos sociales capaces de organizarse,
-hacer valer sus demandas y participar en la vida política y cultural del país, en comparación con
-un siglo XIX dominado casi exclusivamente por las élites.
+✅ Respuesta correcta: **a) Permitió que personas de distintos niveles socioeconómicos accedieran a los mismos contenidos culturales, generando un sentido de comunidad nacional más amplio**
+💬 *Retroalimentación:* Antes de estos medios, el acceso a la cultura estaba más limitado a quienes tenían más recursos.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el empoderamiento de la clase media y de la clase obrera se considera parte de un mismo proceso de democratización?
+a) Porque ambos grupos tenían exactamente los mismos intereses y se unieron en un solo partido político, que reemplazó a la élite tradicional en el gobierno
+b) Porque ninguno participó en política
+c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capaces de organizarse, hacer valer demandas y participar en la vida política y cultural
+d) Porque ambos reemplazaron a la élite por completo en la vida política y cultural, y desde entonces la oligarquía dejó de tener influencia en el país
+
+✅ Respuesta correcta: **c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capaces de organizarse, hacer valer demandas y participar en la vida política y cultural**
+💬 *Retroalimentación:* El resultado fue una sociedad más plural que la del siglo XIX, dominada casi exclusivamente por las élites.
 
 ---
 
@@ -567,11 +560,11 @@ ambas superpotencias por demostrar la superioridad de su sistema.
 **1. (Alternativas)** ¿Por qué se le llama "Guerra Fría" al enfrentamiento entre Estados Unidos y
 la URSS?
 
-a) Porque ocurrió principalmente en países de clima frío
+a) Porque ocurrió principalmente en países de clima frío del hemisferio norte, como la URSS y Canadá
 b) Porque, pese a la fuerte confrontación, ambas superpotencias evitaron un enfrentamiento
 militar directo entre sí
-c) Porque no tuvo ningún impacto en la cultura ni en la política mundial
-d) Porque solo involucró a países europeos
+c) Porque no tuvo ningún impacto en la cultura ni en la política mundial, y se limitó a disputas diplomáticas
+d) Porque solo involucró a países europeos, sin efectos en América Latina, Asia ni África
 
 ✅ Respuesta correcta: **b) Porque, pese a la fuerte confrontación, ambas superpotencias
 evitaron un enfrentamiento militar directo entre sí**
@@ -589,51 +582,53 @@ Estados Unidos, generó una tensión extrema que finalmente se resolvió por ví
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada esfera con un ejemplo del enfrentamiento de la Guerra
-Fría:
+**3. (Alternativas — unir)** Une cada esfera con un ejemplo del enfrentamiento de la Guerra Fría:
 
 1) Deporte — 2) Ciencias — 3) Política
 
-a) Apoyo de cada superpotencia a gobiernos afines en distintas regiones — b) Boicots mutuos en
-ediciones de los Juegos Olímpicos — c) Carrera espacial entre EE.UU. y la URSS
+Ejemplos: (A) Apoyo de cada superpotencia a gobiernos afines en distintas regiones — (B) Boicots mutuos en ediciones de los Juegos Olímpicos — (C) Carrera espacial entre EE.UU. y la URSS
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* El enfrentamiento entre bloques se manifestó en esferas muy diversas de
-la vida social, no solo en lo estrictamente militar o diplomático.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de mapa)** Un mapa de Berlín de 1965 muestra la ciudad dividida por un muro en dos
-sectores: uno bajo administración occidental y otro bajo administración soviética. ¿Qué hito de
-la Guerra Fría representa este mapa?
-
-✅ Respuesta correcta: La construcción del Muro de Berlín (1961), símbolo físico de la división
-de Alemania y de Europa entre el bloque capitalista y el bloque comunista.
-💬 *Retroalimentación:* El Muro de Berlín es uno de los símbolos más reconocibles de la división
-bipolar del mundo durante la Guerra Fría.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* La Guerra Fría se expresó en todos los ámbitos de la vida social, no solo en lo militar o diplomático.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué se dice que la Guerra Fría fue una confrontación
-"ideológica" antes que militar directa entre las dos superpotencias.
+**4. (Alternativas — análisis de mapa)** Un mapa de Berlín de 1965 muestra la ciudad dividida por un muro en un sector occidental y otro soviético. ¿Qué hito representa?
+a) La caída del Muro de Berlín (1989), símbolo del fin de la Guerra Fría y de la división europea
+b) La unificación alemana de 1871, símbolo del poder del Imperio alemán
+c) El fin de la Primera Guerra Mundial y la división de Alemania en dos
+d) La construcción del Muro de Berlín (1961), símbolo de la división de Europa en bloques
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que Estados Unidos y la URSS
-representaban proyectos de sociedad antagónicos —capitalismo y democracia liberal frente a
-comunismo y partido único— y que, si bien compitieron intensamente por extender su influencia
-política, económica y cultural en el mundo, ambos evitaron deliberadamente un choque militar
-directo entre ellos, conscientes del riesgo de un enfrentamiento nuclear.
+✅ Respuesta correcta: **d) La construcción del Muro de Berlín (1961), símbolo de la división de Europa en bloques**
+💬 *Retroalimentación:* El muro fue la expresión física del orden bipolar.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que ámbitos aparentemente alejados de la
-política, como el deporte y las ciencias, se convirtieron en escenarios importantes de la Guerra
-Fría?
+**5. (Alternativas)** ¿Por qué se dice que la Guerra Fría fue una confrontación "ideológica" antes que militar directa?
+a) Porque ambas potencias se enfrentaron en batallas directas durante décadas, en Europa y en Asia, sin usar armas nucleares por acuerdo mutuo entre sus gobiernos
+b) Porque EE.UU. y la URSS representaban proyectos de sociedad antagónicos y compitieron por su influencia, pero evitaron un choque militar directo por el riesgo nuclear
+c) Porque compartían la misma ideología
+d) Porque no hubo ninguna competencia entre ellas: EE.UU. y la URSS cooperaron en la reconstrucción de Europa, y el término frío alude solo al clima ruso
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, al evitar el enfrentamiento
-militar directo, ambas superpotencias buscaron otras formas de demostrar la superioridad de su
-sistema político y económico ante el mundo; triunfos deportivos o científicos —como ganar
-medallas olímpicas o llegar primero al espacio— funcionaban como evidencia simbólica, ante la
-opinión pública mundial, de qué modelo de sociedad "funcionaba mejor".
+✅ Respuesta correcta: **b) Porque EE.UU. y la URSS representaban proyectos de sociedad antagónicos y compitieron por su influencia, pero evitaron un choque militar directo por el riesgo nuclear**
+💬 *Retroalimentación:* Capitalismo y democracia liberal frente a comunismo y partido único.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el deporte y las ciencias se convirtieron en escenarios de la Guerra Fría?
+a) Porque los deportistas reemplazaron a los ejércitos en las guerras, y los resultados de los Juegos Olímpicos decidían qué territorios quedaban bajo cada bloque
+b) Porque las ciencias no tenían relación con la política, y la carrera espacial fue solo una competencia entre científicos sin apoyo de los gobiernos
+c) Porque, al evitar el enfrentamiento militar directo, los triunfos deportivos o científicos funcionaban como evidencia simbólica de qué modelo "funcionaba mejor"
+d) Porque ambas potencias abandonaron el deporte
+
+✅ Respuesta correcta: **c) Porque, al evitar el enfrentamiento militar directo, los triunfos deportivos o científicos funcionaban como evidencia simbólica de qué modelo "funcionaba mejor"**
+💬 *Retroalimentación:* Ganar medallas o llegar primero al espacio tenía un fuerte efecto ante la opinión pública mundial.
 
 ---
 
@@ -710,11 +705,11 @@ triunfo revolucionario cubano) transformó el escenario político de toda una re
 declarado de promover reformas moderadas y evitar la expansión del modelo cubano?
 
 a) La Doctrina de la Seguridad Nacional
-b) La Alianza para el Progreso
+b) La Declaración Universal de los Derechos Humanos
 c) El Plan Marshall
-d) La Declaración Universal de los Derechos Humanos
+d) La Alianza para el Progreso
 
-✅ Respuesta correcta: **b) La Alianza para el Progreso**
+✅ Respuesta correcta: **d) La Alianza para el Progreso**
 💬 *Retroalimentación:* La Alianza para el Progreso fue un programa de ayuda económica de
 Estados Unidos hacia América Latina, orientado a promover reformas graduales que evitaran que
 otros países siguieran el camino de la Revolución Cubana.
@@ -733,52 +728,47 @@ Latina.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente los siguientes golpes de Estado: (1) Chile,
-(2) Brasil, (3) Argentina, (4) Uruguay.
+**3. (Alternativas — ordenar secuencia)** Ordena cronológicamente estos golpes de Estado: (1) Chile, (2) Brasil, (3) Argentina, (4) Uruguay.
+a) 2 → 4 → 1 → 3
+b) 2 → 1 → 4 → 3
+c) 1 → 2 → 4 → 3
+d) 2 → 4 → 3 → 1
 
-✅ Respuesta correcta: **2 → 1 → 4 → 3** (Brasil 1964, Chile y Uruguay 1973, Argentina 1976)
-💬 *Retroalimentación:* Reconocer la secuencia temporal de estos golpes de Estado ayuda a
-comprender que se trató de un proceso regional prolongado, y no de un evento simultáneo en toda
-América Latina.
-
----
-
-**4. (Análisis de fuente)** Un documento oficial estadounidense de la década de 1960 recomienda
-"fortalecer las capacidades de las Fuerzas Armadas latinoamericanas para la lucha
-contrainsurgente, dada la amenaza que representa la expansión del comunismo en el hemisferio".
-¿Con qué política se relaciona directamente este documento?
-
-✅ Respuesta correcta: Con la Doctrina de la Seguridad Nacional, que promovía el fortalecimiento
-de las Fuerzas Armadas latinoamericanas como garantes del orden interno frente a la amenaza
-comunista percibida durante la Guerra Fría.
-💬 *Retroalimentación:* Este tipo de documentos evidencia cómo el contexto internacional de la
-Guerra Fría influyó directamente en decisiones políticas y militares dentro de cada país
-latinoamericano.
+✅ Respuesta correcta: **a) 2 → 4 → 1 → 3**
+💬 *Retroalimentación:* Brasil (1964), Uruguay (junio de 1973), Chile (septiembre de 1973) y Argentina (1976): fue un proceso regional prolongado, no simultáneo.
 
 ---
 
-**5. (Desarrollo breve)** Explica qué se entiende por "tensión permanente entre revolución y
-reforma" en el contexto latinoamericano de la Guerra Fría.
+**4. (Alternativas — análisis de fuente)** Un documento estadounidense de los años 60 recomienda "fortalecer las capacidades de las Fuerzas Armadas latinoamericanas para la lucha contrainsurgente, dada la amenaza que representa la expansión del comunismo". ¿Con qué política se vincula?
+a) El Plan Marshall para Europa
+b) La política del Buen Vecino de 1933
+c) La Alianza del Pacífico
+d) La Doctrina de la Seguridad Nacional
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, durante este período,
-coexistían en América Latina sectores que impulsaban cambios profundos e inmediatos siguiendo el
-modelo de la Revolución Cubana (revolución), y sectores que apostaban por transformaciones
-graduales dentro del sistema democrático existente (reforma), mientras que sectores
-conservadores y las Fuerzas Armadas —muchas veces con apoyo o influencia de Estados Unidos—
-terminaron interrumpiendo, en varios países, ambos caminos mediante golpes de Estado.
+✅ Respuesta correcta: **d) La Doctrina de la Seguridad Nacional**
+💬 *Retroalimentación:* La Guerra Fría influyó directamente en decisiones políticas y militares dentro de cada país latinoamericano.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la violación sistemática de los
-Derechos Humanos fue un rasgo común a las dictaduras militares de distintos países
-latinoamericanos, y no una particularidad de un solo país?
+**5. (Alternativas)** ¿Qué se entiende por "tensión permanente entre revolución y reforma" en la América Latina de la Guerra Fría?
+a) La competencia entre dos equipos de fútbol
+b) El acuerdo total entre todos los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin golpes de Estado ni reformas graduales que lo interrumpieran
+c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos
+d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa latinoamericana
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las dictaduras militares de la
-región compartieron una lógica común, vinculada a la Doctrina de la Seguridad Nacional: percibir
-a la oposición política —especialmente de izquierda— como una amenaza interna que debía ser
-eliminada por medios extrajudiciales, lo que en la práctica se tradujo, en distintos países, en
-patrones similares de detención arbitraria, tortura, ejecución y desaparición de opositores
-políticos.
+✅ Respuesta correcta: **c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos**
+💬 *Retroalimentación:* Sectores conservadores y las Fuerzas Armadas, a menudo con influencia de EE.UU., interrumpieron ambos caminos en varios países.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la violación sistemática de los Derechos Humanos fue un rasgo común de las dictaduras latinoamericanas?
+a) Porque fue una particularidad de un solo país
+b) Porque las dictaduras respetaron el Estado de Derecho y los tribunales, y las violaciones a los derechos humanos fueron hechos aislados cometidos por agentes sin órdenes superiores
+c) Porque compartieron la lógica de la Doctrina de la Seguridad Nacional, que trataba a la oposición como enemigo interno, con patrones similares de detención, tortura y desaparición
+d) Porque no existió oposición política en la región, y la represión se dirigió solo contra delincuentes comunes, sin ninguna doctrina compartida entre los países
+
+✅ Respuesta correcta: **c) Porque compartieron la lógica de la Doctrina de la Seguridad Nacional, que trataba a la oposición como enemigo interno, con patrones similares de detención, tortura y desaparición**
+💬 *Retroalimentación:* La lógica común se tradujo en patrones represivos similares en distintos países.
 
 ---
 
@@ -871,54 +861,53 @@ dos bloques, su caída en 1989 simbolizó el fin de esa división.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Neoliberalismo — 2) Globalización — 3) Sociedad de la información
 
-a) Creciente interconexión de economías, capitales y mercados a escala mundial — b) Modelo
-económico que privilegia el libre mercado y reduce el rol económico del Estado — c) Contexto en
-que el acceso y manejo de información se vuelve un recurso central
+Definiciones: (A) Creciente interconexión de economías, capitales y mercados a escala mundial — (B) Modelo económico que privilegia el libre mercado y reduce el rol económico del Estado — (C) Contexto en que el acceso y manejo de información se vuelve un recurso central
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Estos tres procesos —modelo económico, interconexión mundial y cambio
-tecnológico— se combinaron para transformar el mundo posterior al fin de la Guerra Fría.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de mapa)** Un mapa de Europa de 1985 muestra a Checoslovaquia, Yugoslavia y la
-URSS como Estados unificados; un mapa de 1995 muestra en su lugar numerosos países
-independientes. ¿Qué proceso histórico explica esta diferencia?
-
-✅ Respuesta correcta: Las transformaciones geopolíticas que siguieron al fin de la Guerra Fría,
-en particular la disolución de la URSS, Yugoslavia y Checoslovaquia y el surgimiento de nuevos
-Estados nacionales.
-💬 *Retroalimentación:* La comparación de mapas políticos en distintos años es una herramienta
-directa para visualizar procesos de fragmentación o unificación geopolítica.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Estos procesos —económico, global y tecnológico— transformaron el mundo posterior a la Guerra Fría.
 
 ---
 
-**5. (Desarrollo breve)** Explica cómo se relacionan, según lo estudiado, la crisis de la URSS y
-el auge del neoliberalismo como modelo económico dominante hacia fines del siglo XX.
+**4. (Alternativas — análisis de mapa)** Un mapa de Europa de 1985 muestra a Checoslovaquia, Yugoslavia y la URSS como Estados unificados; uno de 1995 muestra en su lugar numerosos países independientes. ¿Qué proceso explica la diferencia?
+a) La Primera Guerra Mundial y la disolución de los imperios centrales
+b) La formación del Imperio austrohúngaro en el siglo XIX, que unió esos Estados tras la Segunda Guerra
+c) La Revolución Francesa y la expansión de las ideas nacionalistas en Europa
+d) Las transformaciones geopolíticas tras el fin de la Guerra Fría, con la disolución de esos Estados
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que el derrumbe del comunismo
-soviético dejó al modelo capitalista de libre mercado como referencia prácticamente sin rival
-ideológico a escala mundial, lo que —sumado a la crisis de los Estados de Bienestar más
-costosos— favoreció la extensión del neoliberalismo, con su énfasis en la apertura comercial, la
-privatización y la reducción del rol económico del Estado, como modelo predominante en buena
-parte del mundo durante las décadas siguientes.
+✅ Respuesta correcta: **d) Las transformaciones geopolíticas tras el fin de la Guerra Fría, con la disolución de esos Estados**
+💬 *Retroalimentación:* Comparar mapas permite visualizar procesos de fragmentación geopolítica.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la revolución tecnológica en
-telecomunicaciones e informática se considera un factor clave —y no solo un detalle— en la
-aceleración de la globalización de fines del siglo XX?
+**5. (Alternativas)** ¿Cómo se vinculan la crisis de la URSS y el auge del neoliberalismo a fines del siglo XX?
+a) La URSS impulsó el neoliberalismo en todo el mundo antes de su derrumbe, y los Estados de Bienestar lo adoptaron para competir con el comunismo soviético en su propio terreno
+b) El derrumbe del comunismo soviético dejó al capitalismo de libre mercado sin rival ideológico y, junto con la crisis de los Estados de Bienestar más costosos, favoreció el neoliberalismo
+c) El neoliberalismo causó la Revolución rusa
+d) No existe ninguna relación entre ambos procesos: el neoliberalismo surgió en América Latina décadas antes de la caída de la URSS y no tuvo influencia en Europa ni en Estados Unidos
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, antes de esta revolución
-tecnológica, la coordinación de operaciones económicas y la circulación de información a escala
-mundial en tiempo real eran mucho más lentas y costosas; la masificación de las
-telecomunicaciones y la informática permitió a empresas, mercados financieros y personas operar
-de manera prácticamente simultánea en distintas partes del planeta, lo que profundizó y aceleró
-la internacionalización de la economía característica de la globalización.
+✅ Respuesta correcta: **b) El derrumbe del comunismo soviético dejó al capitalismo de libre mercado sin rival ideológico y, junto con la crisis de los Estados de Bienestar más costosos, favoreció el neoliberalismo**
+💬 *Retroalimentación:* El neoliberalismo enfatizó la apertura comercial, la privatización y un menor rol económico del Estado.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la revolución en telecomunicaciones e informática fue clave en la aceleración de la globalización?
+a) Porque aisló a los países entre sí, ya que cada uno desarrolló redes propias incompatibles con las de los demás, frenando la circulación de información
+b) Porque encareció la comunicación internacional, lo que obligó a las empresas a concentrar sus operaciones en un solo país y reducir el comercio
+c) Porque permitió coordinar operaciones económicas y hacer circular información en tiempo real a escala mundial, profundizando la internacionalización de la economía
+d) Porque solo afectó al entretenimiento
+
+✅ Respuesta correcta: **c) Porque permitió coordinar operaciones económicas y hacer circular información en tiempo real a escala mundial, profundizando la internacionalización de la economía**
+💬 *Retroalimentación:* Antes, coordinar a escala mundial era mucho más lento y costoso.
 
 ---
 
@@ -995,8 +984,8 @@ proceso histórico como el golpe de Estado de 1973?
 a) La única versión oficial y definitiva de los hechos, aceptada por todos los historiadores
 b) Una lectura del proceso histórico, elaborada por un historiador a partir de evidencia,
 que prioriza ciertos factores o causas por sobre otros
-c) Una opinión personal sin ninguna base en fuentes o evidencia
-d) Un relato de ficción sobre el pasado
+c) Una opinión personal del historiador, sin ninguna base en fuentes ni en evidencia, que no puede discutirse porque depende solo de sus gustos
+d) Un relato de ficción sobre el pasado, escrito para entretener a los lectores con hechos imaginados
 
 ✅ Respuesta correcta: **b) Una lectura del proceso histórico, elaborada por un historiador a
 partir de evidencia, que prioriza ciertos factores o causas por sobre otros**
@@ -1016,57 +1005,53 @@ cada una y qué tan sólida es su argumentación, no simplemente aceptarlas toda
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada interpretación con el factor que prioriza:
+**3. (Alternativas — unir)** Une cada interpretación del golpe de 1973 con el factor que prioriza:
 
-1) Énfasis en la polarización interna — 2) Énfasis en el contexto de Guerra Fría — 3) Énfasis en
-responsabilidades compartidas
+1) Énfasis en la polarización interna — 2) Énfasis en el contexto de Guerra Fría — 3) Énfasis en responsabilidades compartidas
 
-a) Influencia y financiamiento de actores internacionales — b) Errores de distintos actores
-políticos y militares en la escalada de la crisis — c) Ruptura del diálogo entre gobierno y
-oposición dentro de Chile
+Factores: (A) Influencia y financiamiento de actores internacionales — (B) Errores de distintos actores políticos y militares en la escalada de la crisis — (C) Ruptura del diálogo entre gobierno y oposición dentro de Chile
 
-✅ Respuesta correcta: 1-c, 2-a, 3-b
-💬 *Retroalimentación:* Reconocer el factor central de cada interpretación permite compararlas de
-manera informada, en lugar de tratarlas como bloques indiferenciados.
+¿Qué combinación es correcta?
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-C, 3-A
+d) 1-C, 2-B, 3-A
 
----
-
-**4. (Análisis de fuente)** Un historiador escribe: "Es imposible comprender el golpe de 1973 sin
-considerar tanto la extrema polarización política interna como el contexto internacional de
-Guerra Fría; ambos factores se retroalimentaron". ¿Qué tipo de interpretación historiográfica
-representa mejor esta cita?
-
-✅ Respuesta correcta: Una interpretación multicausal, que combina el factor interno
-(polarización política) y el factor internacional (Guerra Fría) en lugar de dar un peso exclusivo
-a uno solo de ellos.
-💬 *Retroalimentación:* Muchas interpretaciones historiográficas rigurosas no privilegian un
-único factor, sino que reconocen la interacción entre varias causas de distinto orden.
+✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Distinguir los énfasis permite comparar interpretaciones de manera informada.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué el golpe de Estado de 1973 admite distintas
-interpretaciones historiográficas, en lugar de una sola versión definitiva de los hechos.
+**4. (Alternativas — análisis de fuente)** Un historiador escribe: "Es imposible comprender el golpe de 1973 sin considerar tanto la extrema polarización política interna como el contexto internacional de Guerra Fría; ambos factores se retroalimentaron". ¿Qué tipo de interpretación representa?
+a) Una interpretación que considera solo factores internos
+b) Una interpretación que considera solo factores externos
+c) Una opinión sin fundamento histórico
+d) Una interpretación multicausal
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que se trata de un proceso
-histórico complejo y multicausal, en el que intervinieron factores internos (la polarización
-política chilena) y externos (el contexto de la Guerra Fría), además de decisiones y
-responsabilidades de distintos actores; como en todo proceso histórico de esta complejidad, los
-historiadores pueden priorizar de manera razonada distintos factores, sin que eso signifique que
-los hechos centrales —como la existencia del golpe y sus consecuencias— estén en discusión.
+✅ Respuesta correcta: **d) Una interpretación multicausal**
+💬 *Retroalimentación:* Las interpretaciones multicausales reconocen la interacción entre varias causas de distinto orden.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué es importante, al comparar interpretaciones
-historiográficas sobre un tema sensible como este, distinguir entre "opinión sin evidencia" y
-"interpretación fundamentada en fuentes"?
+**5. (Alternativas)** ¿Por qué el golpe de Estado de 1973 admite distintas interpretaciones historiográficas?
+a) Porque los hechos centrales, como la existencia del golpe de Estado, están en duda, y cada historiador decide si ocurrieron según las fuentes que prefiera
+b) Porque es un proceso complejo y multicausal, y los historiadores pueden priorizar de forma razonada distintos factores, sin que se discutan los hechos centrales
+c) Porque no existen fuentes sobre el período
+d) Porque todas las interpretaciones valen lo mismo, tengan o no evidencia, y la tarea del historiador es solo reunir opiniones distintas sobre el período
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, en temas históricos con fuerte
-carga política y emocional, es común que circulen versiones basadas únicamente en posturas
-personales o partidistas; el trabajo historiográfico riguroso, en cambio, exige sustentar
-cualquier interpretación en evidencia verificable (documentos, testimonios, archivos), lo que
-permite distinguir entre visiones que efectivamente amplían la comprensión del pasado y
-afirmaciones que carecen de sustento, sin que ello implique que solo pueda existir una única
-interpretación correcta.
+✅ Respuesta correcta: **b) Porque es un proceso complejo y multicausal, y los historiadores pueden priorizar de forma razonada distintos factores, sin que se discutan los hechos centrales**
+💬 *Retroalimentación:* Interpretar distinto no significa poner en duda la existencia del golpe ni sus consecuencias.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué es importante distinguir entre "opinión sin evidencia" e "interpretación fundamentada en fuentes" en un tema sensible como este?
+a) Porque solo puede existir una interpretación correcta
+b) Porque las opiniones personales siempre son más confiables que los documentos, ya que quienes vivieron el período recuerdan los hechos mejor que cualquier archivo, testimonio escrito o investigación posterior
+c) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia verificable (documentos, testimonios, archivos), lo que distingue visiones que amplían la comprensión de afirmaciones sin sustento
+d) Porque las fuentes históricas no sirven en temas políticos: los documentos y archivos del período fueron escritos por los gobiernos, y por eso solo vale la interpretación personal de cada historiador
+
+✅ Respuesta correcta: **c) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia verificable (documentos, testimonios, archivos), lo que distingue visiones que amplían la comprensión de afirmaciones sin sustento**
+💬 *Retroalimentación:* Esto no implica que solo pueda existir una única interpretación correcta.
 
 ---
 
@@ -1170,56 +1155,53 @@ organizada por agencias estatales específicamente creadas para ese fin, como la
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada medida o actor con su rol durante la dictadura:
+**3. (Alternativas — unir)** Une cada medida o actor con su rol durante la dictadura:
 
 1) DINA — 2) Estado de sitio — 3) Comité Pro Paz
 
-a) Restricción severa de las libertades de circulación, reunión y expresión — b) Organismo de
-represión y desapariciones forzadas — c) Institución civil y religiosa de defensa de las víctimas
+Roles: (A) Restricción severa de las libertades de circulación, reunión y expresión — (B) Organismo de represión y desapariciones forzadas — (C) Institución civil y religiosa de defensa de las víctimas
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Reconocer estos tres elementos ayuda a comprender que, en el mismo
-período, coexistieron mecanismos de represión estatal e iniciativas de defensa de las víctimas.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de fuente)** Un informe de la Vicaría de la Solidaridad de 1978 documenta el caso
-de una persona detenida por agentes de civil, cuyo paradero se desconoce desde entonces, e
-incluye testimonios de familiares y vecinos sobre la detención. ¿Qué concepto histórico ilustra
-mejor este documento?
-
-✅ Respuesta correcta: La desaparición forzada de opositores políticos como práctica sistemática
-de la dictadura, y el rol de instituciones como la Vicaría de la Solidaridad en la documentación
-y defensa de estos casos.
-💬 *Retroalimentación:* Este tipo de documentos históricos —producidos por instituciones de
-defensa de las víctimas en el momento mismo de los hechos— constituye evidencia primaria clave
-para reconstruir lo ocurrido durante la dictadura.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* En el período coexistieron mecanismos de represión estatal e iniciativas de defensa de las víctimas.
 
 ---
 
-**5. (Desarrollo breve)** Explica, con al menos dos ejemplos, qué significó en la práctica que el
-golpe de Estado "suprimiera el Estado de Derecho" en Chile.
+**4. (Alternativas — análisis de fuente)** Un informe de la Vicaría de la Solidaridad de 1978 documenta el caso de una persona detenida por agentes de civil, cuyo paradero se desconoce desde entonces, con testimonios de familiares. ¿Qué concepto ilustra?
+a) Un proceso judicial con todas las garantías, registrado por la Vicaría para documentar cada detención con garantías
+b) Una migración voluntaria de personas que salieron del país sin avisar
+c) Un trámite administrativo del Registro Civil para cambiar de domicilio
+d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que suprimir el Estado de Derecho
-significó eliminar los límites y controles que normalmente existen sobre el poder del gobierno,
-y menciona al menos dos ejemplos concretos, como el cierre del Congreso Nacional (elimina el
-control legislativo), la proscripción de los partidos políticos (elimina la oposición
-organizada), la concentración del poder en la Junta Militar (elimina la separación de poderes),
-o el estado de sitio y el toque de queda (restringen libertades básicas de la población).
+✅ Respuesta correcta: **d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla**
+💬 *Retroalimentación:* Este tipo de documentos constituye evidencia primaria clave para reconstruir lo ocurrido.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que este OA pide explícitamente reconocer
-que hubo instituciones civiles y religiosas que defendieron a las víctimas, y no solo describir
-la represión estatal?
+**5. (Varias correctas)** ¿Cuáles de estos ejemplos muestran que el golpe de Estado "suprimió el Estado de Derecho"? Marca **todas** las correctas.
+a) El cierre del Congreso Nacional
+b) La proscripción de los partidos políticos
+c) La concentración del poder en la Junta Militar
+d) La realización de elecciones libres cada año
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, aun en contextos de represión
-estatal sistemática, no toda la sociedad permaneció pasiva: instituciones como el Comité Pro Paz
-y la Vicaría de la Solidaridad ejercieron, con considerable riesgo personal para quienes las
-integraban, un rol activo de defensa legal, social y de documentación de las víctimas, lo que
-resulta clave hoy para el derecho a la verdad y la justicia, y muestra que la defensa de los
-Derechos Humanos no dependió únicamente de la acción posterior del Estado o de la justicia, sino
-también de la sociedad civil organizada durante el propio período dictatorial.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Suprimir el Estado de Derecho significó eliminar los límites y controles sobre el poder; en dictadura no hubo elecciones libres periódicas.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué es importante reconocer que hubo instituciones civiles y religiosas que defendieron a las víctimas?
+a) Porque esas instituciones apoyaban la represión y entregaban información a los organismos de seguridad, lo que hoy se considera clave para la justicia
+b) Porque muestra que la sociedad civil organizada, con gran riesgo, defendió y documentó a las víctimas, algo clave hoy para el derecho a la verdad y la justicia
+c) Porque la sociedad completa permaneció pasiva durante la dictadura, y solo el Estado documentó a las víctimas después del retorno a la democracia
+d) Porque solo importa la acción posterior del Estado
+
+✅ Respuesta correcta: **b) Porque muestra que la sociedad civil organizada, con gran riesgo, defendió y documentó a las víctimas, algo clave hoy para el derecho a la verdad y la justicia**
+💬 *Retroalimentación:* La defensa de los Derechos Humanos también dependió de la sociedad civil durante el propio período.
 
 ---
 
@@ -1331,54 +1313,53 @@ de la intervención estatal directa en la economía.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada rasgo del modelo con su descripción:
+**3. (Alternativas — unir)** Une cada rasgo del modelo neoliberal con su descripción:
 
 1) Apertura comercial — 2) Privatizaciones — 3) Supremacía del libre mercado
 
-a) Traspaso de empresas estatales a manos privadas — b) Rebaja arancelaria que expone a la
-industria nacional a la competencia internacional — c) El mercado, y no el Estado, como
-principal asignador de recursos
+Descripciones: (A) Traspaso de empresas estatales a manos privadas — (B) Rebaja arancelaria que expone a la industria nacional a la competencia internacional — (C) El mercado, y no el Estado, como principal asignador de recursos
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Estos tres rasgos son componentes centrales —pero distintos entre sí— del
-modelo económico neoliberal implementado en dictadura.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de dato)** Un informe económico señala que, entre 1982 y 1983, la tasa de
-desempleo en Chile superó el 20% de la fuerza laboral, en el contexto de una severa crisis
-económica. ¿Qué evalúa mejor este dato, según lo estudiado en este OA?
-
-✅ Respuesta correcta: Una de las consecuencias sociales de corto plazo de la implementación del
-modelo neoliberal, particularmente severa durante la crisis económica de 1982.
-💬 *Retroalimentación:* Distinguir entre consecuencias de corto y de largo plazo es clave para
-evaluar de manera equilibrada los efectos de este modelo económico.
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Estos rasgos caracterizan el modelo económico implementado en dictadura.
 
 ---
 
-**5. (Desarrollo breve)** Explica en qué consistió la transformación del rol del Estado durante
-la implementación del modelo económico neoliberal en dictadura.
+**4. (Alternativas — análisis de datos)** Entre 1982 y 1983, el desempleo en Chile superó el 20% de la fuerza laboral, en una severa crisis económica. ¿Qué evalúa mejor este dato?
+a) Una consecuencia social de corto plazo del modelo, particularmente severa en la crisis de 1982
+b) El éxito inmediato y sin costos sociales del modelo económico, con crecimiento estable durante toda la década de 1980
+c) La ausencia de crisis económicas durante la dictadura militar
+d) El efecto de la Gran Depresión de 1929
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que el Estado dejó de cumplir el
-papel central que había tenido en la economía chilena desde mediados del siglo XX —como
-productor directo de bienes y servicios y como principal responsable del gasto social—,
-transfiriendo esas funciones en gran medida al mercado y a privados, mediante políticas como la
-privatización de empresas estatales y la reducción del gasto social relativo.
+✅ Respuesta correcta: **a) Una consecuencia social de corto plazo del modelo, particularmente severa en la crisis de 1982**
+💬 *Retroalimentación:* Los datos permiten evaluar de manera equilibrada los efectos del modelo.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que este OA pide evaluar las consecuencias
-sociales del modelo neoliberal "en el corto y en el largo plazo", en lugar de una sola
-evaluación general?
+**5. (Alternativas)** ¿En qué consistió la transformación del rol del Estado con el modelo neoliberal en dictadura?
+a) El Estado nacionalizó todas las empresas privadas, y el mercado dejó de participar en la salud, la educación y la previsión social
+b) El Estado aumentó su rol productor en todos los sectores, creando nuevas empresas públicas y ampliando el gasto social como principal responsable de la salud y la educación
+c) El Estado no cambió su rol económico
+d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que un mismo modelo económico puede
-tener efectos muy distintos según el período que se analice: en el corto plazo, la
-implementación del modelo generó altos costos sociales (desempleo, pobreza, especialmente en la
-crisis de 1982), mientras que en el largo plazo se transformó en la base estructural de la
-economía chilena hasta hoy, con logros como el crecimiento económico y la estabilidad
-macroeconómica en ciertos períodos, pero también con debilidades persistentes como la
-desigualdad y la segmentación en el acceso a servicios sociales; evaluar solo un plazo daría una
-visión incompleta.
+✅ Respuesta correcta: **d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo**
+💬 *Retroalimentación:* Fue un giro respecto del papel central que el Estado tenía desde mediados del siglo XX.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué conviene evaluar las consecuencias del modelo neoliberal en el corto y en el largo plazo?
+a) Porque sus efectos fueron iguales en todos los períodos: tanto en el corto como en el largo plazo el modelo generó solo logros, sin costos sociales ni debilidades como la desigualdad
+b) Porque en el corto plazo generó altos costos sociales (como en la crisis de 1982) y en el largo plazo fue la base de la economía chilena, con logros y también debilidades como la desigualdad
+c) Porque solo importan los efectos de corto plazo, como la crisis de 1982, ya que en el largo plazo la economía chilena dejó de depender de ese modelo
+d) Porque no tuvo consecuencias sociales
+
+✅ Respuesta correcta: **b) Porque en el corto plazo generó altos costos sociales (como en la crisis de 1982) y en el largo plazo fue la base de la economía chilena, con logros y también debilidades como la desigualdad**
+💬 *Retroalimentación:* Evaluar solo un plazo entregaría una visión incompleta.
 
 ---
 
@@ -1449,10 +1430,10 @@ ilustrar el rol mediador —no solo simbólico— que cumplió la Iglesia en el 
 **1. (Alternativas)** ¿Qué hecho económico, ocurrido en 1982, es considerado uno de los factores
 que impulsó la recuperación de la democracia en Chile?
 
-a) La firma de la Alianza para el Progreso
+a) La firma de la Alianza para el Progreso con EE.UU.
 b) Una severa crisis económica, con alto desempleo
 c) La creación de la ONU
-d) La caída del Muro de Berlín
+d) La caída del Muro de Berlín y el fin de la URSS
 
 ✅ Respuesta correcta: **b) Una severa crisis económica, con alto desempleo**
 💬 *Retroalimentación:* La crisis económica de 1982 debilitó el apoyo social al régimen incluso
@@ -1471,54 +1452,53 @@ y de organismos de Derechos Humanos, junto con la presión internacional.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada actor con su rol en el proceso:
+**3. (Alternativas — unir)** Une cada actor con su rol en la recuperación de la democracia:
 
 1) Iglesia Católica — 2) Partidos políticos — 3) Organismos internacionales de Derechos Humanos
 
-a) Denuncia de violaciones a los Derechos Humanos y presión internacional sobre el régimen — b)
-Mediación de espacios de diálogo entre gobierno y oposición — c) Rearticulación y formación de
-alianzas opositoras
+Roles: (A) Denuncia de violaciones a los Derechos Humanos y presión internacional sobre el régimen — (B) Mediación de espacios de diálogo entre gobierno y oposición — (C) Rearticulación y formación de alianzas opositoras
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Cada actor cumplió un rol distinto y complementario dentro de un mismo
-proceso de recuperación democrática.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de fuente)** Un documento de 1985, firmado por representantes de partidos
-políticos de distintas tendencias e impulsado por la Iglesia Católica, plantea "un camino
-consensuado hacia la plena democracia". ¿Qué factor de la recuperación de la democracia ilustra
-este documento?
-
-✅ Respuesta correcta: La rearticulación del mundo político mediante alianzas opositoras
-multipartidistas, junto con el rol mediador de la Iglesia Católica en la generación de espacios
-de diálogo.
-💬 *Retroalimentación:* Este documento —conocido como el Acuerdo Nacional— muestra cómo distintos
-factores del proceso (mediación eclesial, rearticulación política) actuaron de forma combinada.
+✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Distintos actores contribuyeron de forma complementaria a la recuperación democrática.
 
 ---
 
-**5. (Desarrollo breve)** Explica cómo se relacionan la crisis económica de 1982 y el surgimiento
-de las protestas nacionales de 1983.
+**4. (Alternativas — análisis de fuente)** Un documento de 1985, firmado por partidos de distintas tendencias e impulsado por la Iglesia Católica, plantea "un camino consensuado hacia la plena democracia". ¿Qué factores ilustra?
+a) La rearticulación política mediante alianzas multipartidistas y el rol mediador de la Iglesia
+b) La supresión de todos los partidos políticos y de la Iglesia como actor de la oposición
+c) La ausencia de diálogo entre los actores políticos y sociales
+d) El inicio de la dictadura
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la severa crisis económica de
-1982 —con alto desempleo y quiebras de empresas— debilitó el apoyo social al régimen incluso
-entre sectores que antes lo respaldaban, generando un ambiente de descontento que se tradujo, a
-partir de 1983, en el surgimiento de protestas nacionales masivas, pese al riesgo de la represión
-estatal.
+✅ Respuesta correcta: **a) La rearticulación política mediante alianzas multipartidistas y el rol mediador de la Iglesia**
+💬 *Retroalimentación:* Mediación eclesial y rearticulación política actuaron de forma combinada.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que se necesitaron varios factores
-combinados —y no uno solo— para explicar la recuperación de la democracia chilena en la década de
-1980?
+**5. (Alternativas)** ¿Cómo se vinculan la crisis económica de 1982 y las protestas nacionales de 1983?
+a) La crisis fortaleció el apoyo unánime al régimen, porque la población confió en que solo un gobierno fuerte podía resolver el desempleo y las quiebras
+b) Las protestas ocurrieron antes de la crisis y la causaron, al paralizar la producción y provocar el desempleo y las quiebras de 1982
+c) No tienen ninguna relación
+d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que un régimen que concentraba todo
-el poder político y contaba con el control de las Fuerzas Armadas difícilmente habría cedido ante
-un solo tipo de presión; la combinación de una crisis de legitimidad económica, movilización
-social sostenida, una oposición política capaz de organizarse pese a la represión, y actores
-mediadores como la Iglesia y la comunidad internacional, generó una presión múltiple y sostenida
-en el tiempo que finalmente abrió el camino institucional hacia el plebiscito de 1988.
+✅ Respuesta correcta: **d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión**
+💬 *Retroalimentación:* El descontento alcanzó incluso a sectores que antes respaldaban al régimen.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué se necesitaron varios factores combinados para explicar la recuperación de la democracia?
+a) Porque bastó con un solo factor
+b) Porque un régimen que concentraba el poder y controlaba las Fuerzas Armadas difícilmente cedería ante una sola presión; la combinación de crisis, movilización, oposición organizada y mediadores abrió el camino al plebiscito
+c) Porque el régimen renunció voluntariamente sin ninguna presión, al considerar cumplidas sus metas económicas, y convocó al plebiscito como un trámite para entregar el poder a la oposición organizada
+d) Porque la democracia volvió por decisión de otro país, que obligó al régimen a convocar el plebiscito, sin que la crisis, la movilización ni los mediadores tuvieran influencia en el proceso y su desenlace
+
+✅ Respuesta correcta: **b) Porque un régimen que concentraba el poder y controlaba las Fuerzas Armadas difícilmente cedería ante una sola presión; la combinación de crisis, movilización, oposición organizada y mediadores abrió el camino al plebiscito**
+💬 *Retroalimentación:* La presión múltiple y sostenida abrió el camino institucional hacia el plebiscito de 1988.
 
 ---
 
@@ -1598,8 +1578,8 @@ a la democracia?
 
 a) La opción "Sí", que prolongaba el mandato de Pinochet
 b) La opción "No", que impedía que Pinochet continuara como presidente
-c) El plebiscito fue anulado
-d) Ninguna opción alcanzó la mayoría
+c) El plebiscito fue anulado por irregularidades en el conteo
+d) Ninguna opción alcanzó la mayoría y se repitió la votación
 
 ✅ Respuesta correcta: **b) La opción "No", que impedía que Pinochet continuara como presidente**
 💬 *Retroalimentación:* El triunfo del "No" abrió el camino a las elecciones presidenciales y
@@ -1617,48 +1597,47 @@ Ejército hasta 1998.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente: (1) inicio del gobierno de Aylwin, (2)
-plebiscito de 1988, (3) Informe Rettig, (4) elecciones presidenciales y parlamentarias.
+**3. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) inicio del gobierno de Aylwin, (2) plebiscito de 1988, (3) Informe Rettig, (4) elecciones presidenciales y parlamentarias.
+a) 2 → 1 → 4 → 3
+b) 4 → 2 → 1 → 3
+c) 2 → 4 → 1 → 3
+d) 2 → 4 → 3 → 1
 
-✅ Respuesta correcta: **2 → 4 → 1 → 3**
-💬 *Retroalimentación:* Primero el plebiscito (1988), luego las elecciones (1989), después el
-inicio del gobierno de Aylwin (marzo de 1990) y finalmente el Informe Rettig (1991).
-
----
-
-**4. (Análisis de fuente)** Un titular de prensa de octubre de 1988 anuncia: "Opción 'No' se
-impone con más del 54% de los votos". ¿Qué consecuencia directa tuvo este resultado, según lo
-estudiado?
-
-✅ Respuesta correcta: Abrió el camino a la convocatoria de elecciones presidenciales y
-parlamentarias en 1989, que dieron inicio al gobierno democrático de Patricio Aylwin en 1990.
-💬 *Retroalimentación:* El resultado del plebiscito fue el hito institucional que hizo posible el
-retorno a un gobierno electo democráticamente.
+✅ Respuesta correcta: **c) 2 → 4 → 1 → 3**
+💬 *Retroalimentación:* Plebiscito (octubre de 1988), elecciones (diciembre de 1989), inicio del gobierno de Aylwin (marzo de 1990) e Informe Rettig (1991).
 
 ---
 
-**5. (Desarrollo breve)** Explica en qué consistieron las políticas de reparación implementadas
-durante la transición para reivindicar los Derechos Humanos.
+**4. (Alternativas — análisis de fuente)** Un titular de octubre de 1988 anuncia: "Opción 'No' se impone con más del 54% de los votos". ¿Qué consecuencia directa tuvo este resultado?
+a) Abrió el camino a las elecciones de 1989, que dieron inicio al gobierno democrático de Aylwin en 1990
+b) Prolongó el régimen militar por ocho años más, hasta 1997, con Pinochet como Presidente de la República
+c) Suspendió todas las elecciones hasta que se redactara una nueva Constitución
+d) Disolvió el Congreso Nacional
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que estas políticas incluyeron la
-creación de comisiones de verdad —como la Comisión Nacional de Verdad y Reconciliación
-(Informe Rettig, 1991) y posteriormente la Comisión Valech— encargadas de documentar oficialmente
-las violaciones a los Derechos Humanos ocurridas durante la dictadura, junto con medidas de
-reparación económica, simbólica y de acceso a la justicia para las víctimas y sus familiares.
+✅ Respuesta correcta: **a) Abrió el camino a las elecciones de 1989, que dieron inicio al gobierno democrático de Aylwin en 1990**
+💬 *Retroalimentación:* El resultado del plebiscito permitió el retorno a un gobierno electo democráticamente.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la transición a la democracia se
-describe como un proceso "marcado por tensiones", y no como un cambio simple e inmediato de un
-sistema a otro?
+**5. (Alternativas)** ¿En qué consistieron las políticas de reparación implementadas durante la transición?
+a) La eliminación de todos los registros del período para facilitar la reconciliación nacional, sin comisiones de verdad ni reparaciones para las víctimas ni sus familias
+b) Una amnistía total sin investigación, decretada por el primer gobierno democrático
+c) El cierre de los tribunales de justicia que investigaban las violaciones a los derechos humanos
+d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, si bien el plebiscito de 1988
-y las elecciones de 1989 devolvieron el gobierno a autoridades electas democráticamente, varios
-elementos institucionales del período dictatorial se mantuvieron vigentes por años —como la
-Constitución de 1980 (con reformas parciales) y la permanencia de Pinochet como Comandante en
-Jefe del Ejército hasta 1998—, lo que generó episodios de tensión cívico-militar y obligó al
-nuevo gobierno democrático a negociar reformas y políticas de reparación de manera gradual, en
-lugar de imponerlas unilateralmente.
+✅ Respuesta correcta: **d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia**
+💬 *Retroalimentación:* Estas políticas buscaron reivindicar los Derechos Humanos de las víctimas y sus familias.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la transición se describe como un proceso "marcado por tensiones"?
+a) Porque fue un cambio inmediato y sin conflictos, en que todos los sectores aceptaron las nuevas reglas
+b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente
+c) Porque no hubo elecciones
+d) Porque se eliminaron todas las instituciones anteriores en un día, incluida la Constitución de 1980, y Pinochet dejó de inmediato la Comandancia en Jefe del Ejército
+
+✅ Respuesta correcta: **b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente**
+💬 *Retroalimentación:* La continuidad de ciertos enclaves generó episodios de tensión cívico-militar.
 
 ---
 
@@ -1764,56 +1743,53 @@ terrenos.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Segregación urbana — 2) Marginalidad — 3) Migración campo-ciudad
 
-a) Traslado de población rural hacia las ciudades en busca de mejores oportunidades — b)
-Organización espacial de la ciudad según el nivel socioeconómico de sus habitantes — c) Escaso o
-nulo acceso a servicios básicos, vivienda formal y protección social
+Definiciones: (A) Traslado de población rural hacia las ciudades en busca de mejores oportunidades — (B) Organización espacial de la ciudad según el nivel socioeconómico de sus habitantes — (C) Escaso o nulo acceso a servicios básicos, vivienda formal y protección social
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Estos tres conceptos están estrechamente relacionados: la migración
-campo-ciudad, en un contexto de pobreza y escasez de vivienda, contribuyó tanto a la marginalidad
-de ciertos sectores como a la segregación urbana de las ciudades chilenas.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de mapa)** Un mapa temático de Santiago de mediados del siglo XX muestra, en un
-color, las comunas con mayor concentración de servicios y viviendas formales, y en otro color,
-las zonas periféricas donde se concentran las poblaciones callampas. ¿Qué concepto geográfico
-ilustra mejor este mapa?
-
-✅ Respuesta correcta: La segregación urbana, es decir, la organización del espacio de la ciudad
-según el nivel socioeconómico de sus habitantes, con sectores populares desplazados hacia la
-periferia.
-💬 *Retroalimentación:* Los mapas temáticos permiten visualizar de forma directa cómo la
-desigualdad social de una época se traduce en una organización desigual del territorio urbano.
+✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* La migración campo-ciudad, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación urbana.
 
 ---
 
-**5. (Desarrollo breve)** Explica cómo se relacionan la pobreza rural de mediados de siglo XX y
-la transformación del espacio urbano chileno del mismo período.
+**4. (Alternativas — análisis de mapa)** Un mapa de Santiago de mediados del siglo XX muestra en un color las comunas con más servicios y viviendas formales, y en otro, las zonas periféricas con poblaciones callampas. ¿Qué concepto ilustra?
+a) La segregación urbana
+b) La descolonización
+c) El Estado de Bienestar
+d) La revolución de los precios
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las condiciones de pobreza y
-las escasas oportunidades laborales en el campo impulsaron una intensa migración de familias
-hacia las ciudades, especialmente Santiago, en busca de mejores condiciones de vida; sin embargo,
-la velocidad de esta migración superó la capacidad de las ciudades para ofrecer vivienda formal y
-servicios, lo que produjo un crecimiento urbano desordenado, escasez de vivienda y la formación
-de poblaciones callampas en la periferia.
+✅ Respuesta correcta: **a) La segregación urbana**
+💬 *Retroalimentación:* La desigualdad social se tradujo en una organización desigual del territorio urbano.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la segregación urbana que se originó a
-mediados del siglo XX sigue siendo relevante para comprender la geografía de las ciudades
-chilenas actuales?
+**5. (Alternativas)** ¿Cómo se vinculan la pobreza rural de mediados del siglo XX y la transformación del espacio urbano chileno?
+a) La pobreza rural detuvo la migración a las ciudades, porque los campesinos no tenían dinero para viajar, y por eso las ciudades crecieron solo por su propia natalidad
+b) Las ciudades tenían vivienda suficiente para todos los migrantes, de modo que la llegada de población rural ordenó el crecimiento urbano y eliminó los barrios precarios
+c) No existe relación entre ambos procesos: la pobreza rural se resolvió con la Reforma Agraria y las ciudades crecieron solo por la llegada de inmigrantes europeos
+d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que muchos de los patrones
-espaciales establecidos en ese período —la concentración de sectores de mayores ingresos en
-ciertas comunas y la ubicación de sectores populares en la periferia, con menor acceso a
-transporte, servicios y equipamiento urbano— no desaparecieron con el tiempo, sino que se
-consolidaron y en parte explican la desigualdad territorial que sigue caracterizando a las
-principales ciudades chilenas hoy en día.
+✅ Respuesta correcta: **d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas**
+💬 *Retroalimentación:* La velocidad de la migración superó la capacidad de las ciudades.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la segregación urbana originada a mediados del siglo XX sigue siendo relevante hoy?
+a) Porque desapareció por completo en la década de 1960 gracias a las políticas de vivienda social, y hoy solo se estudia como antecedente histórico
+b) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas
+c) Porque solo afectó a ciudades de otros países de América Latina, y en Chile se usa como ejemplo comparativo para evitar repetirla
+d) Porque hoy todos los barrios tienen el mismo acceso a servicios, y eso demuestra que los patrones de mediados de siglo ya se revirtieron
+
+✅ Respuesta correcta: **b) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas**
+💬 *Retroalimentación:* La concentración de ingresos y servicios en ciertas comunas persiste en la geografía urbana actual.
 
 ---
 
@@ -1924,54 +1900,53 @@ se pueden separar ni jerarquizar unos por sobre otros.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada institución con su nivel de acción:
+**3. (Alternativas — unir)** Une cada institución con su nivel de acción:
 
-1) INDH — 2) Sistema Interamericano de Derechos Humanos — 3) Consejo de Derechos Humanos de la
-ONU
+1) INDH — 2) Sistema Interamericano de Derechos Humanos — 3) Consejo de Derechos Humanos de la ONU
 
-a) Nivel internacional global — b) Nivel nacional (Chile) — c) Nivel regional (continente
-americano)
+Niveles: (A) Nivel internacional global — (B) Nivel nacional (Chile) — (C) Nivel regional (continente americano)
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* La institucionalidad de Derechos Humanos opera en distintos niveles
-—nacional, regional e internacional— que se complementan entre sí.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de caso)** Un organismo internacional emite una resolución que declara que un país
-violó los Derechos Humanos de un grupo de personas, pero el país no modifica su conducta de
-inmediato. ¿Qué característica de la institucionalidad de Derechos Humanos ilustra este caso?
-
-✅ Respuesta correcta: Las limitaciones de la institucionalidad internacional de protección de
-Derechos Humanos, que depende en buena medida de la voluntad de cooperación de los Estados y no
-siempre cuenta con mecanismos de aplicación inmediata.
-💬 *Retroalimentación:* Reconocer estas limitaciones no significa restar importancia a la
-institucionalidad, sino comprender de forma realista cómo opera en la práctica.
+✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* La institucionalidad de Derechos Humanos opera en niveles nacional, regional e internacional que se complementan.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué se dice que los Derechos Humanos son "universales" e
-"indivisibles", usando un ejemplo para cada característica.
+**4. (Alternativas — análisis de caso)** Un organismo internacional declara que un país violó los Derechos Humanos de un grupo de personas, pero el país no modifica su conducta de inmediato. ¿Qué característica ilustra?
+a) Las limitaciones de la institucionalidad internacional, que depende en buena medida de la voluntad de cooperación de los Estados
+b) Que los organismos internacionales pueden obligar de inmediato a cualquier Estado a cambiar su conducta, mediante sus propias fuerzas armadas
+c) Que los Derechos Humanos no existen realmente, porque si existieran, el país habría cambiado su conducta en cuanto recibió la declaración
+d) Que el país no tiene ninguna obligación internacional, porque los tratados de Derechos Humanos solo obligan a los Estados que los redactaron
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la universalidad significa que
-los Derechos Humanos corresponden a toda persona, sin distinción de nacionalidad, género u otra
-condición (por ejemplo, el derecho a la vida corresponde a cualquier persona en cualquier país), y
-que la indivisibilidad significa que no se pueden separar ni jerarquizar unos derechos por sobre
-otros (por ejemplo, no se puede justificar la tortura —violación al derecho a la integridad
-física— argumentando que se protege otro derecho, como la seguridad pública).
+✅ Respuesta correcta: **a) Las limitaciones de la institucionalidad internacional, que depende en buena medida de la voluntad de cooperación de los Estados**
+💬 *Retroalimentación:* Se trata de comprender de forma realista cómo opera la institucionalidad en la práctica.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el concepto de "grupos de especial
-protección" es compatible con la idea de universalidad de los Derechos Humanos, y no la
-contradice?
+**5. (Alternativas)** ¿Qué significan la universalidad y la indivisibilidad de los Derechos Humanos?
+a) Universales: corresponden solo a los ciudadanos de los países que firmaron la Declaración. Indivisibles: se pueden suspender según convenga, por ejemplo, para proteger la seguridad pública
+b) Universales: corresponden solo a los adultos con nacionalidad. Indivisibles: solo el derecho a la vida importa, y los demás pueden jerarquizarse según la situación
+c) Ambos términos significan lo mismo
+d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se pueden separar ni jerarquizar, por ejemplo, no se justifica la tortura para proteger la seguridad pública
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que reconocer protecciones
-específicas para grupos en situación de mayor vulnerabilidad —como niños, niñas y adolescentes,
-personas con discapacidad o pueblos indígenas— no significa darles "más" derechos que al resto de
-las personas, sino generar las condiciones concretas para que puedan ejercer, en igualdad real de
-condiciones, los mismos derechos universales que corresponden a todas las personas, considerando
-que sin esas medidas específicas su ejercicio efectivo podría verse obstaculizado.
+✅ Respuesta correcta: **d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se pueden separar ni jerarquizar, por ejemplo, no se justifica la tortura para proteger la seguridad pública**
+💬 *Retroalimentación:* El derecho a la vida, por ejemplo, corresponde a cualquier persona en cualquier país.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué los "grupos de especial protección" son compatibles con la universalidad de los Derechos Humanos?
+a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad
+b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales
+c) Porque la universalidad no admite ninguna medida específica, así que esos grupos reciben un trato idéntico
+d) Porque esos grupos no tienen derechos propios y dependen de la protección que les den otros
+
+✅ Respuesta correcta: **b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales**
+💬 *Retroalimentación:* Sin medidas específicas, el ejercicio efectivo de los derechos de niños, personas con discapacidad o pueblos indígenas podría verse obstaculizado.
 
 ---
 
@@ -2072,54 +2047,53 @@ eliminar mediante la homogeneización forzada.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada ámbito con un ejemplo de discriminación posible:
+**3. (Alternativas — unir)** Une cada ámbito con un ejemplo de discriminación posible:
 
 1) Situación socioeconómica — 2) Discapacidad — 3) Nacionalidad
 
-a) Exclusión de una persona migrante de un servicio por su origen — b) Falta de accesibilidad
-para una persona en silla de ruedas — c) Trato desigual hacia una persona por su bajo nivel de
-ingresos
+Ejemplos: (A) Exclusión de una persona migrante de un servicio por su origen — (B) Falta de accesibilidad para una persona en silla de ruedas — (C) Trato desigual hacia una persona por su bajo nivel de ingresos
 
-✅ Respuesta correcta: 1-c, 2-b, 3-a
-💬 *Retroalimentación:* Reconocer ejemplos concretos de distintos ámbitos de discriminación ayuda
-a identificarla en situaciones de la vida real, más allá de la definición abstracta.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-B, 3-A
+d) 1-C, 2-A, 3-B
 
----
-
-**4. (Análisis de caso)** Una empresa rechaza contratar a una persona calificada para un cargo,
-argumentando únicamente su nacionalidad extranjera pese a cumplir todos los requisitos técnicos
-del puesto. ¿Qué concepto estudiado en este OA describe esta situación?
-
-✅ Respuesta correcta: Un caso de discriminación por nacionalidad, es decir, un trato desigual e
-injustificado hacia una persona por una característica —en este caso, su origen nacional— que no
-tiene relación con su capacidad para desempeñar el cargo.
-💬 *Retroalimentación:* Distinguir un trato diferenciado justificado (por ejemplo, no cumplir con
-un requisito técnico real) de uno arbitrario (basado solo en un prejuicio) es clave para
-identificar la discriminación.
+✅ Respuesta correcta: **c) 1-C, 2-B, 3-A**
+💬 *Retroalimentación:* Reconocer la discriminación en situaciones concretas ayuda a identificarla más allá de la definición.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué la diversidad se entiende, según este OA, como una
-"manifestación de la libertad y de la dignidad humana".
+**4. (Alternativas — análisis de caso)** Una empresa rechaza a una persona calificada para un cargo argumentando únicamente su nacionalidad extranjera, pese a cumplir todos los requisitos. ¿Qué concepto describe la situación?
+a) Discriminación por nacionalidad
+b) Un requisito técnico legítimo del puesto
+c) Una medida de especial protección
+d) Un caso de inflación
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las personas ejercen su
-libertad al definir su identidad, sus creencias, su orientación sexual o su forma de vida, y que
-respetar esa diversidad —en lugar de exigir que todas las personas se ajusten a un único modelo—
-es una forma concreta de reconocer la igual dignidad de cada persona, sin que esas diferencias
-deban implicar un trato desigual en el acceso a derechos y oportunidades.
+✅ Respuesta correcta: **a) Discriminación por nacionalidad**
+💬 *Retroalimentación:* Distinguir un criterio justificado (requisito técnico) de uno arbitrario (prejuicio) es clave para identificar la discriminación.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que un mundo globalizado presenta al mismo
-tiempo oportunidades y desafíos para evitar la discriminación, en lugar de resolver el problema
-de manera automática?
+**5. (Alternativas)** ¿Por qué la diversidad se entiende como una "manifestación de la libertad y de la dignidad humana"?
+a) Porque todas las personas deben ajustarse a un único modelo de identidad y forma de vida, y respetar la diversidad significa tolerar a quienes no lo hacen
+b) Porque las diferencias justifican un trato desigual
+c) Porque la diversidad no tiene relación con los derechos: las creencias y la forma de vida son asuntos privados que el Estado no reconoce
+d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la globalización aumenta el
-contacto entre culturas distintas y facilita la visibilidad internacional de casos de
-discriminación y el avance de estándares comunes de Derechos Humanos (oportunidad), pero al mismo
-tiempo puede intensificar tensiones culturales y generar nuevas formas de discriminación —por
-ejemplo, hacia comunidades migrantes— cuando el contacto entre culturas no viene acompañado de
-educación, inclusión efectiva y voluntad política de respetar la diversidad (desafío).
+✅ Respuesta correcta: **d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una**
+💬 *Retroalimentación:* Las diferencias no deben implicar un trato desigual en derechos y oportunidades.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la globalización presenta a la vez oportunidades y desafíos para evitar la discriminación?
+a) Porque elimina automáticamente toda discriminación al aumentar el contacto entre culturas (oportunidad), y su único desafío es el costo de los viajes internacionales y de comunicación
+b) Aumenta el contacto entre culturas y la visibilidad de casos de discriminación (oportunidad), pero puede generar nuevas formas de discriminación, como hacia comunidades migrantes (desafío)
+c) Porque impide el contacto entre culturas
+d) Porque solo genera desafíos y ninguna oportunidad: el contacto entre culturas siempre aumenta la discriminación hacia las comunidades migrantes
+
+✅ Respuesta correcta: **b) Aumenta el contacto entre culturas y la visibilidad de casos de discriminación (oportunidad), pero puede generar nuevas formas de discriminación, como hacia comunidades migrantes (desafío)**
+💬 *Retroalimentación:* El contacto entre culturas necesita educación, inclusión efectiva y voluntad política.
 
 ---
 

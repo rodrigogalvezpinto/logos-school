@@ -34,10 +34,10 @@ ultima_actualizacion: 2026-10-28
 **Pregunta 1.**
 Calcula el rango del conjunto de datos {12, 15, 9, 20, 14}.
 
-a) 11
+a) 5
 b) 20
 c) 9
-d) 5
+d) 11
 
 **Pregunta 2.** (Verdadero o falso)
 La desviación estándar siempre se expresa en las mismas unidades que los datos originales, a
@@ -46,33 +46,50 @@ diferencia de la varianza.
 **Pregunta 3.**
 Calcula la varianza del conjunto de datos {2, 4, 6}.
 
-a) 2,67
+a) 2
 b) 8
-c) 2
+c) 2,67
 d) 4
 
-**Pregunta 4.** (Completar)
-La varianza es el promedio de los ______ de las desviaciones respecto a la media, y la
-desviación estándar es su ______.
+**Pregunta 4.** (Alternativas — completar)
+La varianza es el promedio de los ___ de las desviaciones respecto a la media, y la desviación estándar es su ___.
 
-**Pregunta 5.** (Desarrollo)
-Dos cursos rindieron la misma prueba, con el mismo promedio: 5,5. El curso A tiene una
-desviación estándar de 0,4; el curso B, de 1,3. ¿Qué curso tuvo resultados más homogéneos
-entre sus estudiantes? Justifica.
+a) valores absolutos; cuadrado
+b) cuadrados; raíz cuadrada
+c) inversos; doble
+d) logaritmos; potencia
 
-**Pregunta 6.** (Desarrollo)
-Un puesto de la Vega Central registra las siguientes ventas diarias de kilos de tomate
-durante una semana: 40, 45, 38, 42, 50, 35, 48. Determina el rango de las ventas.
+**Pregunta 5.** (Alternativas — comparar dispersión)
+Dos cursos tienen promedio 5,5; el curso A tiene desviación estándar 0,4 y el B, 1,3. ¿Cuál tuvo resultados más homogéneos?
 
-**Pregunta 7.** (Desarrollo)
-Los tiempos (en minutos) que demoran 4 trámites en una municipalidad son: 10, 12, 14, 16.
-Calcula la varianza y la desviación estándar.
+a) El curso B, porque su desviación es mayor y sus notas se repiten más
+b) Ambos por igual, porque tienen el mismo promedio y eso define la homogeneidad
+c) No se puede saber sin conocer la nota más alta de cada curso
+d) El curso A, porque sus notas están más concentradas en torno al promedio
 
-**Pregunta 8.** (Problema en contexto)
-Dos rutas de transporte al aeropuerto tienen el mismo tiempo promedio de viaje
-(45 minutos), pero la Ruta 1 tiene desviación estándar de 5 minutos y la Ruta 2 de
-20 minutos. Si necesitas llegar con certeza a tiempo para tu vuelo, ¿qué ruta recomendarías,
-y por qué?
+**Pregunta 6.** (Alternativas — rango en contexto)
+Ventas diarias de tomate (kg): 40, 45, 38, 42, 50, 35, 48. ¿Cuál es el rango?
+
+a) 12 kg
+b) 15 kg
+c) 42,6 kg
+d) 50 kg
+
+**Pregunta 7.** (Alternativas — varianza y desviación estándar)
+Tiempos de 4 trámites (min): 10, 12, 14, 16. ¿Cuáles son la varianza y la desviación estándar?
+
+a) Varianza 20; desviación ≈ 4,47 min
+b) Varianza 2,24; desviación 5 min
+c) Varianza 5; desviación ≈ 2,24 min
+d) Varianza 13; desviación ≈ 3,61 min
+
+**Pregunta 8.** (Alternativas — decisión con dispersión)
+Dos rutas al aeropuerto promedian 45 min; la Ruta 1 tiene desviación estándar 5 min y la Ruta 2, 20 min. Si necesitas llegar con certeza, ¿cuál conviene?
+
+a) La Ruta 1, porque sus tiempos son más predecibles
+b) La Ruta 2, porque su desviación es mayor
+c) Da lo mismo, porque el promedio es igual
+d) Ninguna, porque ambas tardan 45 min en promedio
 
 **Pregunta 9.**
 ¿Cuál es la fórmula correcta de la probabilidad condicional P(A|B)?
@@ -85,12 +102,16 @@ d) P(A) + P(B) − P(A∩B)
 **Pregunta 10.** (Verdadero o falso)
 Si dos eventos A y B son independientes y P(B)>0, entonces P(A|B) = P(A).
 
-**Pregunta 11.** (Desarrollo — árbol sin reposición)
-En una bolsa hay 5 bolitas rojas y 3 azules. Se extraen dos bolitas al azar, sin reposición.
-Usando un diagrama de árbol, calcula la probabilidad de que ambas sean rojas.
+**Pregunta 11.** (Alternativas — árbol sin reposición)
+En una bolsa hay 5 bolitas rojas y 3 azules; se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
 
-**Pregunta 12.** (Desarrollo — tabla de doble entrada)
-Se encuesta a 150 personas sobre si practican deporte y si fuman:
+a) 25/64 ≈ 39,1%
+b) 5/8
+c) 1/2
+d) 5/14 ≈ 35,7%
+
+**Pregunta 12.** (Alternativas — tabla de doble entrada)
+Se encuesta a 150 personas:
 
 | | Fuma | No fuma | Total |
 |---|---|---|---|
@@ -98,49 +119,49 @@ Se encuesta a 150 personas sobre si practican deporte y si fuman:
 | No practica deporte | 25 | 45 | 70 |
 | Total | 35 | 115 | 150 |
 
-Calcula P(fuma | no practica deporte).
+¿Cuánto vale P(fuma | no practica deporte)?
 
-**Pregunta 13.** (Problema en contexto)
-Un examen médico tiene una sensibilidad del 95% (detecta correctamente a una persona enferma
-el 95% de las veces) y se aplica en una población donde el 5% está enferma. Describe el árbol
-de probabilidades y calcula P(enfermo y resultado positivo).
+a) 25/35 ≈ 71,4%
+b) 25/70 ≈ 35,7%
+c) 25/150 ≈ 16,7%
+d) 45/70 ≈ 64,3%
 
-**Pregunta 14.** (Problema no rutinario)
-Una empresa de delivery en Santiago analiza sus pedidos: el 30% llega tarde cuando llueve, y
-solo el 8% llega tarde cuando no llueve. En la región llueve un 20% de los días. ¿Qué regla
-debes usar para calcular la probabilidad total de que un pedido llegue tarde (combinando
-ambos escenarios), y cuál es esa probabilidad?
+**Pregunta 13.** (Alternativas — árbol con prueba médica)
+Un examen detecta al 95% de los enfermos y se aplica donde el 5% está enfermo. ¿Cuánto vale P(enfermo y positivo)?
+
+a) 0,95
+b) 0,05
+c) 0,0475 (4,75%)
+d) 1
+
+**Pregunta 14.** (Alternativas — probabilidad total)
+El 30% de los pedidos llega tarde cuando llueve y el 8% cuando no llueve; llueve el 20% de los días. ¿Qué regla se usa y cuál es la probabilidad de que un pedido llegue tarde?
+
+a) Probabilidad total: 0,30 · 0,20 + 0,08 · 0,80 = 12,4%
+b) Regla aditiva de eventos excluyentes: 30% + 8% = 38%
+c) Promedio ponderado de los casos: (30% + 8%)/2 = 19%
+d) Regla multiplicativa de eventos independientes: 30% · 8% = 2,4%
 
 ---
 
 ## Pauta de corrección
 
-1. **a) 11.** El rango es el máximo menos el mínimo: 20−9=11.
+1. **d) 11.** El rango es el máximo menos el mínimo: 20−9=11.
 2. **Verdadero.** La varianza queda en unidades "al cuadrado" (por ejemplo, minutos²),
    mientras que al sacar la raíz cuadrada, la desviación estándar vuelve a las unidades
    originales (minutos).
-3. **a) 2,67.** La media es 4; las desviaciones son (−2,0,2), al cuadrado (4,0,4), suma=8,
+3. **c) 2,67.** La media es 4; las desviaciones son (−2,0,2), al cuadrado (4,0,4), suma=8,
    y varianza=8/3≈2,67.
-4. **cuadrados**; **raíz cuadrada**.
-5. El **curso A**, porque una menor desviación estándar indica que las notas están más
-   concentradas alrededor del promedio, es decir, resultados más parejos u homogéneos.
-6. máximo=50, mínimo=35, rango = 50−35 = **15 kg**.
-7. media=13; desviaciones (−3,−1,1,3), al cuadrado (9,1,1,9), suma=20; varianza=20/4=**5**;
-   desviación estándar=√5≈**2,24 minutos**.
-8. La **Ruta 1**, porque su menor desviación estándar indica tiempos de viaje más
-   predecibles y consistentes, reduciendo el riesgo de una demora inesperada, aunque ambas
-   rutas compartan el mismo promedio.
+4. b) cuadrados; raíz cuadrada. Elevar al cuadrado evita que las desviaciones positivas y negativas se anulen.
+5. d) El curso A, porque sus notas están más concentradas en torno al promedio. Menor desviación estándar indica resultados más parejos.
+6. b) 15 kg. Máximo 50 − mínimo 35 = 15.
+7. c) Varianza 5; desviación ≈ 2,24 min. Media 13; cuadrados de las desviaciones 9, 1, 1, 9 (suma 20); 20/4 = 5 y √5 ≈ 2,24.
+8. a) La Ruta 1, porque sus tiempos son más predecibles. Con igual promedio, la menor dispersión reduce el riesgo de una demora inesperada.
 9. **a) P(A∩B) / P(B).** La probabilidad condicional "reduce" el espacio muestral al evento
    que ya se sabe que ocurrió (B), por eso se divide por P(B).
 10. **Verdadero.** Que dos eventos sean independientes significa exactamente eso: que saber
     que ocurrió B no cambia en nada la probabilidad de A.
-11. P(1ª roja)=5/8; P(2ª roja|1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈
-    0,357 (35,7%)**.
-12. Dentro de la fila "no practica deporte" (70 personas), 25 fuman: P = 25/70 ≈ **0,357
-    (35,7%)**.
-13. P(enfermo y positivo) = P(enfermo)×P(positivo|enfermo) = 0,05×0,95 = **0,0475
-    (4,75%)**.
-14. Se usa la **regla de la probabilidad total**, sumando cada probabilidad condicional
-    ponderada por la probabilidad de su escenario: P(tarde) = P(tarde|lluvia)×P(lluvia) +
-    P(tarde|no lluvia)×P(no lluvia) = 0,30×0,20 + 0,08×0,80 = 0,06+0,064 = **0,124
-    (12,4%)**.
+11. d) 5/14 ≈ 35,7%. 5/8 · 4/7 = 20/56 = 5/14.
+12. b) 25/70 ≈ 35,7%. Se restringe a la fila "no practica deporte" (70 personas).
+13. c) 0,0475 (4,75%). P(enfermo) · P(positivo | enfermo) = 0,05 · 0,95.
+14. a) Probabilidad total: 0,30 · 0,20 + 0,08 · 0,80 = 12,4%. Cada probabilidad condicional se pondera por la probabilidad de su escenario.

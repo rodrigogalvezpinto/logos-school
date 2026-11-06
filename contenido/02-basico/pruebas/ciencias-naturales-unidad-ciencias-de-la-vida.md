@@ -1,7 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 2° Básico
-oa_por_pregunta: {"2":"OA 3","8":"OA 8"}
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 5","4":"OA 5","6":"OA 7","8":"OA 8"}
 eje: Ciencias de la Vida (OA 3, 5, 7, 8)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Ciencias de la Vida
@@ -16,20 +16,23 @@ ultima_actualizacion: 2026-10-28
 **Ciencias Naturales — 2° Básico**
 
 **Tiempo sugerido:** 15 a 20 minutos
-**Instrucciones:** Lee cada pregunta con calma y responde en el espacio o marcando la alternativa correcta.
+**Instrucciones:** Lee cada pregunta con calma y marca la alternativa correcta.
 
 ---
 
 **Pregunta 1.** ¿Cuál es el orden correcto del ciclo de vida de una mariposa?
 
 a) Mariposa → crisálida → oruga → huevo
-b) Huevo → oruga → crisálida → mariposa
+b) Crisálida → huevo → oruga → mariposa
 c) Oruga → huevo → mariposa → crisálida
-d) Crisálida → huevo → oruga → mariposa
+d) Huevo → oruga → crisálida → mariposa
 
 ---
 
 **Pregunta 2.** ¿Verdadero o falso? Los mamíferos, como el guanaco o el zorro chilla, nacen de un huevo que la madre pone fuera de su cuerpo.
+
+a) Verdadero
+b) Falso
 
 ---
 
@@ -42,20 +45,32 @@ d) El caballo
 
 ---
 
-**Pregunta 4.** Nombra una medida concreta que ayude a proteger a los animales nativos en peligro de extinción.
+**Pregunta 4.** ¿Qué medidas ayudan a proteger a los animales nativos en peligro de extinción.
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Cuidar los parques nacionales
+b) Comprar animales silvestres como mascota
+c) No botar basura en su hábitat
+d) Respetar las leyes de protección de la fauna
 
 ---
 
 **Pregunta 5.** ¿Cuál es la función principal de los pulmones?
 
-a) Bombear la sangre
-b) Digerir los alimentos
+a) Bombear la sangre, llevándola a todo el cuerpo
+b) Digerir los alimentos que comemos cada día
 c) Permitir la respiración, llevando oxígeno a la sangre
-d) Sostener el cuerpo
+d) Sostener el cuerpo y protegerlo de los golpes
 
 ---
 
 **Pregunta 6.** ¿Qué parte de tu cuerpo te permite doblar el codo y la rodilla?
+
+a) Las articulaciones, donde se unen dos huesos
+b) Los músculos del estómago, que guardan la comida
+c) Los pulmones, donde entra el aire al respirar
+d) El cráneo, que protege el cerebro
 
 ---
 
@@ -70,15 +85,18 @@ d) No cambia nunca
 
 **Pregunta 8.** ¿Verdadero o falso? El sedentarismo, es decir, pasar mucho tiempo sin moverse, no tiene ninguna consecuencia negativa para la salud.
 
+a) Verdadero
+b) Falso
+
 ---
 
 ## Pauta de respuestas
 
-1. **b) Huevo → oruga → crisálida → mariposa.** Ese cambio de forma tan grande, de oruga a mariposa, se llama metamorfosis.
+1. **d) Huevo → oruga → crisálida → mariposa.** Ese cambio de forma tan grande, de oruga a mariposa, se llama metamorfosis.
 2. **Falso.** Los mamíferos crecen dentro del cuerpo de la madre y nacen ya formados; no salen de un huevo. Eso sí ocurre en las aves, los anfibios y muchos insectos.
 3. **b) El huemul.** El huemul es un símbolo de Chile que hoy está en peligro de extinción por la pérdida de su hábitat.
-4. **Cualquier medida razonable**, por ejemplo: cuidar los parques nacionales, no comprar animales silvestres, no botar basura en su hábitat, respetar las leyes de protección de la fauna.
+4. a, c y d — Proteger el hábitat y no capturar animales silvestres evita su extinción; comprarlos como mascota los saca de su hábitat.
 5. **c) Permitir la respiración, llevando oxígeno a la sangre.** Los pulmones toman el oxígeno del aire que respiramos y lo pasan a la sangre.
-6. **Las articulaciones**, que son los puntos donde se unen dos huesos. Sin ellas, nuestro esqueleto sería rígido y no podríamos movernos.
+6. a) Las articulaciones, donde se unen dos huesos. Sin las articulaciones, nuestro esqueleto sería rígido y no podríamos movernos.
 7. **b) Se fortalece.** El corazón es un músculo, y al igual que los otros músculos, se fortalece cuando lo ejercitamos con regularidad.
 8. **Falso.** El sedentarismo puede provocar aumento de peso, menor agilidad, peor coordinación y un corazón menos entrenado.

@@ -15,10 +15,9 @@ duración: 90 minutos
 **Duración total: 90 minutos** &nbsp;|&nbsp; **N° de preguntas: 25** &nbsp;|&nbsp; **Puntaje total: 124 puntos**
 
 > **Instrucciones para el estudiante**
-> 1. Esta prueba contiene **25 preguntas**: algunas son de **selección múltiple** (4 alternativas,
->    una sola correcta) y otras son de **desarrollo** (respuesta abierta, breve o extensa).
->    Marca con una **X** la alternativa elegida y responde las preguntas de desarrollo en el
->    espacio disponible, con letra clara.
+> 1. Esta prueba contiene **25 preguntas de alternativas**. Marca con una **X** la alternativa
+>    elegida. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción
+>    correcta y debes marcarlas todas.
 > 2. Varias preguntas se organizan a partir de un **estímulo** (una situación, caso o dato):
 >    léelo con atención antes de responder las preguntas asociadas a él.
 > 3. No se descuentan puntos por respuestas incorrectas en las preguntas de selección múltiple:
@@ -66,10 +65,12 @@ b) El Estado de Derecho
 c) El control de la agenda
 d) La soberanía popular
 
-**2.** (Desarrollo breve — 6 puntos) Explica por qué la afirmación del gobierno de Nortea —que
-dice "representar el verdadero interés del pueblo"— no reemplaza la exigencia de que el poder
-político emane efectivamente de la ciudadanía a través de elecciones libres y con oposición
-real.
+**2.** (Alternativas — 6 puntos) ¿Por qué la afirmación del gobierno de Nortea —que dice "representar el verdadero interés del pueblo"— no reemplaza que el poder emane de elecciones libres y con oposición real?
+
+a) Porque la soberanía popular exige que el poder emane efectivamente de la ciudadanía con opciones reales; que un gobierno afirme representar al pueblo no sustituye ese requisito
+b) Porque basta con que el gobierno lo afirme públicamente: si sus autoridades dicen representar al pueblo, la soberanía popular queda asegurada aunque no haya elecciones
+c) Porque la oposición no es necesaria en una democracia: un gobierno que representa el interés de la mayoría puede prescindir de ella sin afectar la soberanía popular
+d) Porque las elecciones son solo una formalidad: lo que define a una democracia es que el gobierno actúe por el bien del pueblo, aunque nadie lo haya elegido
 
 **3.** (Selección múltiple — 4 puntos) ¿Cuál de las siguientes opciones corresponde a un
 **atributo** de la democracia, y no a un fundamento?
@@ -88,10 +89,12 @@ b) Estado de Derecho
 c) Control de la agenda
 d) Participación efectiva
 
-**5.** (Desarrollo extenso — 8 puntos) Elige **dos atributos** de la democracia estudiados en
-este OA (distintos entre sí) y explica, con un ejemplo propio que no haya aparecido en esta
-prueba, por qué ambos deben cumplirse **simultáneamente** para que un sistema sea una democracia
-real y no solo nominal.
+**5.** (Alternativas — 8 puntos) ¿Qué opción explica correctamente por qué dos atributos de la democracia deben cumplirse **simultáneamente**?
+
+a) Basta con que se cumpla un atributo para que haya democracia: por ejemplo, si existe igualdad de voto, la libertad de prensa pasa a ser un complemento opcional
+b) Los atributos de la democracia se contradicen entre sí: por ejemplo, la libertad de prensa limita la igualdad de voto, así que deben cumplirse por turnos
+c) La democracia solo requiere elecciones periódicas: los demás atributos, como la libertad de prensa, dependen de cada gobierno y no son exigibles a la vez
+d) Por ejemplo, la igualdad de voto sin libertad de prensa permite votar, pero sin información para decidir libremente; una democracia real requiere ambos a la vez
 
 ---
 
@@ -105,13 +108,17 @@ nietos no ha cancelado. No tiene recursos para contratar un abogado particular.
 **6.** (Selección múltiple — 4 puntos) ¿A qué institución debería recurrir Don Sergio para
 obtener representación jurídica gratuita?
 
-a) La Defensoría Penal Pública
-b) El Ministerio Público
+a) La Defensoría Penal Pública (DPP)
+b) El Ministerio Público (Fiscalía Nacional)
 c) La Corporación de Asistencia Judicial (CAJ)
-d) La Corte Suprema
+d) La Corte Suprema de Justicia de Chile
 
-**7.** (Desarrollo breve — 6 puntos) Explica por qué el caso de Don Sergio **no** corresponde a
-la Defensoría Penal Pública, distinguiendo el tipo de materia involucrada.
+**7.** (Alternativas — 6 puntos) ¿Por qué el caso de Don Sergio (demanda de pensión de alimentos) **no** corresponde a la Defensoría Penal Pública?
+
+a) Porque la Defensoría Penal cobra por sus servicios y Don Sergio no puede pagar un abogado particular
+b) Porque las pensiones de alimentos no son derechos exigibles, sino acuerdos privados entre los padres
+c) Porque es una materia de familia, no penal, y corresponde a la CAJ; la Defensoría Penal solo defiende en causas penales
+d) Porque corresponde al Ministerio Público, que representa a las personas en todas las causas de familia
 
 **8.** (Selección múltiple — 4 puntos) ¿Cuál es la máxima instancia del sistema judicial chileno
 para revisar los fallos de tribunales inferiores?
@@ -144,27 +151,32 @@ que determine el mercado.
 principalmente con la discusión estudiada en este OA sobre:
 
 a) El comercio justo
-b) El sueldo justo
+b) La probidad
 c) El desarrollo sustentable
-d) La probidad
+d) El sueldo justo
 
-**11.** (Desarrollo extenso — 8 puntos) A partir del estímulo, explica por qué el "sueldo justo"
-es un tema de **debate político legítimo** y no una pregunta con una única respuesta técnica
-correcta. Menciona al menos un argumento de cada postura.
+**11.** (Alternativas — 8 puntos) A partir del estímulo, ¿por qué el "sueldo justo" es un tema de debate político legítimo?
+
+a) Porque existe una única respuesta técnica correcta, que los economistas calculan a partir de la productividad, y el debate político solo sirve para aplicarla
+b) Porque solo el mercado puede opinar sobre los sueldos: el Estado no tiene ningún rol, y por eso las posturas políticas sobre el tema no son legítimas
+c) Porque una postura sostiene que los sueldos deben reflejar la productividad y la oferta y demanda, y otra que el Estado debe asegurar un mínimo digno; ambas son legítimas
+d) Porque el sueldo no tiene relación con la política: es un acuerdo privado entre empleador y trabajador, y el debate público se limita a los impuestos
 
 **12.** (Selección múltiple — 4 puntos) Cuando el Estado entrega educación pública gratuita
 porque considera que el mercado no la provee de forma suficiente para toda la población, está
 ejerciendo principalmente su función:
 
-a) Fiscalizadora
-b) Proveedora de bienes y servicios
-c) Estabilizadora
-d) Reguladora
+a) Fiscalizadora de la calidad educativa
+b) Estabilizadora de la economía nacional
+c) Proveedora de bienes y servicios
+d) Reguladora del mercado de colegios
 
-**13.** (Desarrollo breve — 6 puntos) Una comuna minera genera altos ingresos por regalías, pero
-enfrenta graves problemas de contaminación. Un grupo propone exigir mayor inversión en
-tecnologías limpias a las empresas, aunque eso reduzca su rentabilidad. Relaciona esta propuesta
-con el concepto de desarrollo sustentable estudiado en este OA.
+**13.** (Alternativas — 6 puntos) Una comuna minera con altos ingresos por regalías tiene graves problemas de contaminación, y se propone exigir tecnologías limpias aunque baje la rentabilidad. ¿Con qué concepto se vincula?
+
+a) Desarrollo sustentable: equilibrar desarrollo económico, protección ambiental y bienestar de las generaciones futuras
+b) Inflación: alza sostenida de los precios provocada por los altos ingresos que generan las regalías mineras
+c) Monopolio: control de la producción minera por una sola empresa, que puede fijar los precios del mineral
+d) Centralismo: concentración de las decisiones sobre la minería en el gobierno central, lejos de la comuna
 
 ---
 
@@ -183,9 +195,12 @@ b) Indivisibilidad
 c) Inalienabilidad
 d) Igualdad
 
-**15.** (Desarrollo breve — 6 puntos) Explica por qué no basta con que un Estado respete los
-derechos civiles y políticos (como el voto o la libertad de prensa) si al mismo tiempo desatiende
-los derechos económicos y sociales de su población.
+**15.** (Alternativas — 6 puntos) ¿Por qué no basta con que un Estado respete los derechos civiles y políticos si desatiende los económicos y sociales?
+
+a) Porque los derechos económicos y sociales son más importantes que los civiles y políticos, de modo que un Estado que los descuida pierde toda legitimidad democrática
+b) Porque los derechos civiles y políticos no son Derechos Humanos, sino garantías constitucionales de cada país, y solo los económicos y sociales tienen carácter universal
+c) Sí basta: los derechos sociales son opcionales y cada Estado decide si los garantiza según sus recursos, sin que eso afecte el cumplimiento de los Derechos Humanos
+d) Por la indivisibilidad: ambos grupos de derechos tienen la misma jerarquía, y respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos
 
 **16.** (Selección múltiple — 4 puntos) ¿En qué año fue proclamada la Declaración Universal de
 los Derechos Humanos?
@@ -227,20 +242,27 @@ b) Republicana
 c) Comunitarista
 d) Utilitarista
 
-**19.** (Desarrollo extenso — 8 puntos) Relaciona las explicaciones de Valentina y de Tomás con
-las perspectivas filosófico-políticas estudiadas en este OA (liberalismo, republicanismo,
-comunitarismo). Justifica cada relación con al menos un argumento.
+**19.** (Alternativas — 8 puntos) ¿Con qué perspectivas se vinculan las explicaciones de Valentina (comprometida por la comunidad, sus tradiciones e identidad compartida) y de Tomás (por el deber cívico de participar en las decisiones públicas)?
+
+a) Valentina: liberalismo; Tomás: comunitarismo
+b) Valentina: comunitarismo; Tomás: republicanismo
+c) Valentina: republicanismo; Tomás: liberalismo
+d) Ambos: liberalismo
 
 **20.** (Selección múltiple — 4 puntos) ¿Cuál de las siguientes **no** corresponde a una forma de
 participación orientada al fortalecimiento del bien común, según lo estudiado en este OA?
 
-a) Integrar un partido político o agrupación ciudadana
+a) Integrar un partido político o una agrupación ciudadana con propuestas
 b) Difundir información falsa deliberadamente para influir en una votación
-c) Informarse y emitir opiniones fundadas sobre asuntos públicos
-d) Participar en una organización comunitaria local
+c) Informarse y emitir opiniones fundadas sobre los asuntos públicos del país
+d) Participar en una organización comunitaria o junta de vecinos local
 
-**21.** (Desarrollo breve — 6 puntos) Explica con tus palabras qué visión del bien común
-comparten el comunitarismo y el republicanismo, y en qué se diferencian principalmente.
+**21.** (Alternativas — 6 puntos) ¿Qué comparten el comunitarismo y el republicanismo, y en qué se diferencian?
+
+a) Ambos son individualistas: priorizan la libertad de cada persona por sobre la comunidad; se diferencian en que el republicanismo acepta la participación voluntaria
+b) No comparten nada: el comunitarismo defiende el mercado y el republicanismo la planificación estatal, por lo que se oponen en todos sus planteamientos
+c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas
+d) El comunitarismo exige la participación cívica obligatoria y el republicanismo la rechaza, porque considera que cada persona debe dedicarse solo a sus asuntos privados
 
 ---
 
@@ -261,17 +283,20 @@ b) Censo nacional
 c) Delegación presidencial provincial
 d) Consejo regional
 
-**23.** (Desarrollo breve — 6 puntos) Explica el conflicto de **justicia social** en juego en este
-caso: ¿quién queda con acceso a un recurso valioso del territorio (el borde costero) y quién
-queda excluido?
+**23.** (Alternativas — 6 puntos) ¿Qué conflicto de **justicia social** hay en el caso del borde costero?
+
+a) El acceso a un recurso valioso queda restringido a quienes pueden pagar proyectos inmobiliarios, excluyendo el acceso público general
+b) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir, y el acceso a la playa sigue siendo igual para todos los vecinos
+c) Los vecinos quieren construir edificios de lujo en el borde costero, y el conflicto es que el municipio no les entrega los permisos que solicitaron
+d) El municipio no tiene responsabilidad en el uso del suelo costero, porque esas decisiones dependen solo de las empresas inmobiliarias propietarias
 
 **24.** (Selección múltiple — 4 puntos) ¿Qué autoridad, designada por el gobierno central (no
 electa por votación popular), lo representa a escala **provincial**?
 
-a) El alcalde o alcaldesa
+a) El Delegado o Delegada Presidencial Regional
 b) El Delegado o Delegada Presidencial Provincial
-c) El Gobernador o Gobernadora Regional
-d) El concejo municipal
+c) El Gobernador o Gobernadora Regional electo
+d) El alcalde o alcaldesa de la capital provincial
 
 **25.** (Selección múltiple — 4 puntos) ¿Qué instrumento entrega información sobre la población y
 sus características socioeconómicas, y orienta al Estado en la planificación de servicios
@@ -286,7 +311,7 @@ d) El consejo regional
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -296,99 +321,40 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 # PAUTA DE CORRECCIÓN
 
-**Puntaje total: 124 puntos** &nbsp;|&nbsp; Selección múltiple: 4 puntos c/u &nbsp;|&nbsp;
-Desarrollo breve: 6 puntos c/u &nbsp;|&nbsp; Desarrollo extenso: 8 puntos c/u
+**Puntaje total: 124 puntos** &nbsp;|&nbsp; 4, 6 u 8 puntos por pregunta, según se indica en cada una
 
 | N° | Tipo | Clave / Elementos esperados en la respuesta | OA |
 |----|------|-----------------------------------------------|:---:|
-| 1 | Selección múltiple | **d)** La soberanía popular | OA 1 |
-| 2 | Desarrollo breve | Debe explicar que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres y con opciones reales (pluralismo); que un gobierno *afirme* representar al pueblo, sin elecciones ni oposición legal, no sustituye ese requisito. | OA 1 |
-| 3 | Selección múltiple | **d)** La igualdad de voto | OA 1 |
-| 4 | Selección múltiple | **c)** Control de la agenda | OA 1 |
-| 5 | Desarrollo extenso | Debe elegir dos atributos distintos (de: participación efectiva, igualdad de voto, control de la agenda, Estado de Derecho, respeto a libertades fundamentales), dar un ejemplo propio y coherente de cada uno (no reutilizado de esta prueba), y explicar que una democracia real requiere el cumplimiento **simultáneo** de todos sus atributos, no de uno solo de forma aislada. | OA 1 |
-| 6 | Selección múltiple | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
-| 7 | Desarrollo breve | Debe explicar que una demanda de pensión de alimentos es una materia **de familia, no penal**, por lo que corresponde a la CAJ; la Defensoría Penal Pública solo entrega defensa gratuita en causas penales. | OA 2 |
-| 8 | Selección múltiple | **c)** La Corte Suprema | OA 2 |
-| 9 | Selección múltiple | **d)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
-| 10 | Selección múltiple | **b)** El sueldo justo | OA 4 |
-| 11 | Desarrollo extenso | Debe reconocer que no hay una única respuesta correcta. Postura de mercado: los sueldos deben reflejar productividad y la oferta y demanda de trabajo. Postura del mínimo garantizado: el Estado debe asegurar condiciones de vida digna independiente de lo que determine el mercado. Ambas deben presentarse como legítimas, sin calificar una como "la correcta". | OA 4 |
-| 12 | Selección múltiple | **b)** Proveedora de bienes y servicios | OA 4 |
-| 13 | Desarrollo breve | Debe relacionar la propuesta con el **desarrollo sustentable**: equilibrar el desarrollo económico (ingresos, empleo) con la protección ambiental y el bienestar de generaciones futuras, sin que esto se oponga al crecimiento económico. | OA 4 |
-| 14 | Selección múltiple | **b)** Indivisibilidad | OA 5 |
-| 15 | Desarrollo breve | Debe explicar que la indivisibilidad establece que los derechos civiles/políticos y los económicos/sociales tienen la misma jerarquía; respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos. | OA 5 |
-| 16 | Selección múltiple | **b)** 1948 | OA 5 |
-| 17 | Selección múltiple | **b)** El deber de proteger | OA 5 |
-| 18 | Selección múltiple | **a)** Liberal | OA 6 |
-| 19 | Desarrollo extenso | Valentina: **comunitarismo** (énfasis en comunidad, tradiciones e identidad compartida como fuente del compromiso). Tomás: **republicanismo** (énfasis en el deber cívico de participar activamente en las decisiones públicas). Debe justificar cada relación con un argumento coherente, no solo nombrar la corriente. | OA 6 |
-| 20 | Selección múltiple | **b)** Difundir información falsa deliberadamente para influir en una votación | OA 6 |
-| 21 | Desarrollo breve | Ambas perspectivas valoran lo colectivo por sobre una visión puramente individualista del bien común. Se diferencian en que el republicanismo enfatiza la **participación cívica activa** como deber ciudadano, mientras que el comunitarismo enfatiza los **lazos, tradiciones e identidades compartidas** de la comunidad, sin exigir necesariamente participación política activa. | OA 6 |
-| 22 | Selección múltiple | **a)** Plan regulador comunal | OA 7 |
-| 23 | Desarrollo breve | Debe explicar que el acceso a un recurso valioso del territorio (el borde costero) queda restringido a quienes puedan pagar por proyectos inmobiliarios privados, excluyendo el acceso público general; las decisiones de uso de suelo no son neutras, definen quién accede a qué recursos. | OA 7 |
-| 24 | Selección múltiple | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
-| 25 | Selección múltiple | **a)** El censo | OA 7 |
+| 1 | Alternativas | **d)** La soberanía popular | OA 1 |
+| 2 | Alternativas | **a) Porque la soberanía popular exige que el poder emane efectivamente de la ciudadanía con opciones reales; que un gobierno afirme representar al pueblo no sustituye ese requisito.** | OA 1 |
+| 3 | Alternativas | **d)** La igualdad de voto | OA 1 |
+| 4 | Alternativas | **c)** Control de la agenda | OA 1 |
+| 5 | Alternativas | **d) Por ejemplo, la igualdad de voto sin libertad de prensa permite votar, pero sin información para decidir libremente; una democracia real requiere ambos a la vez.** Una democracia real requiere el cumplimiento simultáneo de todos sus atributos, no de uno aislado. | OA 1 |
+| 6 | Alternativas | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
+| 7 | Alternativas | **c) Porque es una materia de familia, no penal, y corresponde a la CAJ; la Defensoría Penal solo defiende en causas penales.** | OA 2 |
+| 8 | Alternativas | **c)** La Corte Suprema | OA 2 |
+| 9 | Alternativas | **d)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
+| 10 | Alternativas | **d)** El sueldo justo | OA 4 |
+| 11 | Alternativas | **c) Porque una postura sostiene que los sueldos deben reflejar la productividad y la oferta y demanda, y otra que el Estado debe asegurar un mínimo digno; ambas son legítimas.** No hay una única respuesta correcta; ambas posturas deben presentarse como legítimas. | OA 4 |
+| 12 | Alternativas | **c)** Proveedora de bienes y servicios | OA 4 |
+| 13 | Alternativas | **a) Desarrollo sustentable: equilibrar desarrollo económico, protección ambiental y bienestar de las generaciones futuras.** | OA 4 |
+| 14 | Alternativas | **b)** Indivisibilidad | OA 5 |
+| 15 | Alternativas | **d) Por la indivisibilidad: ambos grupos de derechos tienen la misma jerarquía, y respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos.** | OA 5 |
+| 16 | Alternativas | **b)** 1948 | OA 5 |
+| 17 | Alternativas | **b)** El deber de proteger | OA 5 |
+| 18 | Alternativas | **a)** Liberal | OA 6 |
+| 19 | Alternativas | **b) Valentina: comunitarismo; Tomás: republicanismo.** El comunitarismo enfatiza la identidad compartida; el republicanismo, el deber cívico de participar. | OA 6 |
+| 20 | Alternativas | **b)** Difundir información falsa deliberadamente para influir en una votación | OA 6 |
+| 21 | Alternativas | **c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas.** | OA 6 |
+| 22 | Alternativas | **a)** Plan regulador comunal | OA 7 |
+| 23 | Alternativas | **a) El acceso a un recurso valioso queda restringido a quienes pueden pagar proyectos inmobiliarios, excluyendo el acceso público general.** Las decisiones de uso de suelo no son neutras: definen quién accede a qué recursos. | OA 7 |
+| 24 | Alternativas | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
+| 25 | Alternativas | **a)** El censo | OA 7 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 2 (6 puntos)
-
-- Explica que la soberanía popular exige que el poder emane efectivamente de la ciudadanía mediante elecciones libres — **2 puntos**
-- Señala que un gobierno que solo afirma representar al pueblo, sin elecciones ni oposición, no cumple ese requisito — **2 puntos**
-- Distingue la representación declarada del ejercicio efectivo del poder, incluyendo el pluralismo y la oposición real — **2 puntos**
-
-### Pregunta 5 (8 puntos)
-
-- Elige dos atributos distintos y correctos de la democracia — **2 puntos**
-- Ejemplifica cada atributo con un ejemplo propio y coherente, no reutilizado de la prueba — **2 puntos**
-- Explica por qué ambos atributos deben cumplirse simultáneamente — **2 puntos**
-- Concluye que un solo atributo no basta para una democracia real y no solo nominal — **2 puntos**
-
-### Pregunta 7 (6 puntos)
-
-- Identifica que la pensión de alimentos es una materia de familia, no penal — **2 puntos**
-- Asigna la causa a la Corporación de Asistencia Judicial (CAJ) — **2 puntos**
-- Explica que la Defensoría Penal Pública solo entrega defensa en causas penales — **2 puntos**
-
-### Pregunta 11 (8 puntos)
-
-- Reconoce que no existe una única respuesta técnica correcta y que se trata de un debate político legítimo — **2 puntos**
-- Presenta el argumento de mercado: los sueldos reflejan productividad y oferta y demanda de trabajo — **2 puntos**
-- Presenta el argumento del mínimo garantizado: el Estado asegura condiciones de vida digna — **2 puntos**
-- Trata ambas posturas como legítimas, sin declarar una como la correcta — **2 puntos**
-
-### Pregunta 13 (6 puntos)
-
-- Define desarrollo sustentable como equilibrio entre lo económico, lo ambiental y el bienestar de las generaciones futuras — **2 puntos**
-- Relaciona la exigencia de tecnologías limpias con la protección ambiental — **2 puntos**
-- Reconoce la tensión con la rentabilidad sin oponer crecimiento económico y sustentabilidad — **2 puntos**
-
-### Pregunta 15 (6 puntos)
-
-- Explica el principio de indivisibilidad de los derechos humanos — **2 puntos**
-- Señala que los derechos civiles y políticos y los económicos y sociales tienen la misma jerarquía — **2 puntos**
-- Concluye que respetar unos sin garantizar los otros deja incompleto su cumplimiento — **2 puntos**
-
-### Pregunta 19 (8 puntos)
-
-- Asocia la postura de Valentina con el comunitarismo — **2 puntos**
-- Asocia la postura de Tomás con el republicanismo — **2 puntos**
-- Justifica cada relación con al menos un argumento coherente, no solo con el nombre de la corriente — **2 puntos**
-- Usa correctamente el rasgo distintivo de cada corriente: identidad compartida en el comunitarismo y deber cívico en el republicanismo — **2 puntos**
-
-### Pregunta 21 (6 puntos)
-
-- Señala que ambas perspectivas valoran lo colectivo por sobre una visión puramente individualista — **2 puntos**
-- Diferencia el republicanismo por su énfasis en la participación cívica activa como deber — **2 puntos**
-- Diferencia el comunitarismo por su énfasis en lazos, tradiciones e identidades compartidas — **2 puntos**
-
-### Pregunta 23 (6 puntos)
-
-- Identifica quién accede al borde costero: quienes pueden pagar por proyectos inmobiliarios privados — **2 puntos**
-- Identifica quién queda excluido: el acceso público general — **2 puntos**
-- Explica que las decisiones de uso de suelo no son neutras, porque definen quién accede a qué recursos — **2 puntos**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
@@ -412,12 +378,12 @@ reproduce preguntas oficiales del Ministerio de Educación de Chile.*
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4, 5 | 3 | 2 |
-| OA 2 | 6, 7, 8, 9 | 3 | 1 |
-| OA 4 | 10, 11, 12, 13 | 2 | 2 |
-| OA 5 | 14, 15, 16, 17 | 3 | 1 |
-| OA 6 | 18, 19, 20, 21 | 2 | 2 |
-| OA 7 | 22, 23, 24, 25 | 3 | 1 |
-| **Total** | **25 preguntas** | **16** | **9** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5 | 5 |
+| OA 2 | 6, 7, 8, 9 | 4 |
+| OA 4 | 10, 11, 12, 13 | 4 |
+| OA 5 | 14, 15, 16, 17 | 4 |
+| OA 6 | 18, 19, 20, 21 | 4 |
+| OA 7 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

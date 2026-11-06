@@ -30,20 +30,25 @@ N°6 (Comprendo textos no literarios para conocer el mundo).
 **1. (Alternativas)** En el Texto 1, ¿qué característica psicológica de Catalina es relevante para el desarrollo de la historia?
 
 a) Es alta y de pelo largo
-b) Al principio es impaciente, pero luego aprende a tener paciencia
-c) Le encanta cocinar
-d) Vive sola con su abuela
+b) Vive sola con su abuela
+c) Al principio es paciente, pero luego se vuelve impaciente y abandona el telar
+d) Al principio es impaciente, pero luego aprende a tener paciencia
 
 **2. (Verdadero o Falso)** En el Texto 2, una consecuencia de que Benjamín remendara la red es que su padre pudo volver a pescar y conseguir dinero para reparar el motor.
 
 **3. (Alternativas)** ¿Cuál de las siguientes opciones es una **opinión fundamentada** sobre las acciones de Benjamín en el Texto 2?
 
-a) "Benjamín es genial porque sí"
-b) "Me parece admirable lo que hizo Benjamín, porque ayudó a su familia sin que se lo pidieran, arreglando la red toda la noche"
-c) "No me gustó el cuento porque es muy largo"
-d) "Benjamín vive en Caleta Tortel"
+a) "Benjamín es genial porque sí, y todos los niños deberían ser como él siempre"
+b) "No me gustó el cuento porque es muy largo, tiene muchas palabras difíciles de entender y no tiene dibujos que acompañen la historia"
+c) "Me parece admirable lo que hizo Benjamín, porque ayudó a su familia sin que se lo pidieran, arreglando la red toda la noche"
+d) "Benjamín vive en Caleta Tortel con su familia, y su papá es pescador desde hace muchos años"
 
-**4. (Desarrollo breve)** Compara el Texto 1 y el Texto 2: menciona una semejanza y una diferencia entre ambas historias, y explica cuál prefieres y por qué.
+**4. (Alternativas)** ¿Qué comparación entre el Texto 1 y el Texto 2 es correcta?
+
+a) Semejanza: ambos protagonistas demuestran perseverancia y cariño por su familia. Diferencia: ocurren en lugares distintos (Padre Las Casas y Caleta Tortel)
+b) Semejanza: los dos ocurren en Caleta Tortel, junto al mar. Diferencia: solo uno de los textos tiene un protagonista que ayuda a su familia
+c) Semejanza: en los dos textos se teje un choapino en telar mapuche. Diferencia: uno de los textos es un poema y el otro, una noticia
+d) No tienen ninguna semejanza: los protagonistas, los lugares y las acciones de ambos textos son completamente distintos entre sí
 
 ---
 
@@ -60,12 +65,17 @@ d) 2 estrofas de 2 versos
 
 **7. (Alternativas)** ¿Cuál de los siguientes versos del poema es una **metáfora** (y no una comparación)?
 
-a) "El viento le cuenta secretos a las hojas"
-b) "El cielo es un manto lleno de estrellas"
+a) "El cielo es un manto lleno de estrellas"
+b) "El viento le cuenta secretos a las hojas"
 c) "La luna se asoma tímida y curiosa"
 d) "Mañana amanece con manos morenas"
 
-**8. (Aplicación)** Lee el verso "manos morenas que cortan racimos dorados de sol". ¿A qué sentido (vista, oído, olfato, gusto o tacto) apela principalmente esta imagen? Explica tu respuesta.
+**8. (Alternativas)** En el verso "manos morenas que cortan racimos dorados de sol", ¿a qué sentido apela principalmente la imagen?
+
+a) Al oído, porque se escucha el sonido del corte de los racimos
+b) Al olfato, porque se siente el olor de las uvas maduras al sol
+c) Al gusto, porque se describe lo dulces que son las uvas del racimo
+d) A la vista, porque describe colores ("morenas", "dorados")
 
 ---
 
@@ -73,35 +83,40 @@ d) "Mañana amanece con manos morenas"
 
 **9. (Alternativas)** Según el texto "Los volcanes activos de Chile", ¿por qué Chile tiene tantos volcanes activos?
 
-a) Porque está cerca del océano Pacífico
+a) Porque está cerca del océano Pacífico, cuyas aguas calientan el interior de la Tierra
 b) Porque está ubicado sobre el Cinturón de Fuego del Pacífico, zona de choque de placas tectónicas
-c) Porque tiene un clima muy frío
-d) Porque tiene muchas cordilleras
+c) Porque tiene un clima muy frío en la cordillera, que congela y rompe las rocas
+d) Porque tiene muchas cordilleras altas, que con el tiempo se convierten en volcanes
 
-**10. (Desarrollo breve)** ¿Qué significa la expresión "cuando un volcán despierta"? ¿Qué figura del lenguaje figurado se está usando?
+**10. (Alternativas)** ¿Qué significa la expresión "cuando un volcán despierta", y qué figura del lenguaje se usa?
+
+a) Que el volcán se apaga y deja de tener actividad durante muchos años; es una comparación
+b) Que el volcán aumenta su actividad sísmica y sus emisiones de gases; es una personificación
+c) Que el volcán amanece temprano y se ve iluminado por el sol en la mañana; es una rima
+d) Que el volcán tiene sueño y descansa durante el invierno bajo la nieve; es una onomatopeya
 
 **11. (Verdadero o Falso)** Según el texto, los volcanes solo representan riesgos y no traen ningún beneficio para Chile.
 
 **12. (Alternativas)** ¿Cuál de las siguientes afirmaciones **compara correctamente** información de distintos párrafos del texto?
 
-a) "Los volcanes solo son estudiados por SERNAGEOMIN, sin ningún otro propósito"
+a) "Los volcanes solo son estudiados por SERNAGEOMIN para predecir la fecha exacta de cada erupción, sin ningún otro propósito"
 b) "Aunque los volcanes representan un riesgo para las comunidades cercanas, según el texto también aportan beneficios como suelos fértiles y energía geotérmica"
-c) "El Villarrica es el único volcán activo de Chile"
-d) "La tabla muestra que ningún volcán ha entrado en erupción después del año 2000"
+c) "El Villarrica es el único volcán activo de Chile, y por eso es el único que aparece en la tabla del texto informativo"
+d) "La tabla muestra que ningún volcán chileno ha entrado en erupción después del año 2000, así que ya no representan un riesgo"
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** Retroalimentación: esta característica es relevante porque explica el cambio que vive Catalina a lo largo del relato: si siguiera siendo impaciente, no habría logrado terminar el tejido.
+1. **d.** Retroalimentación: esta característica es relevante porque explica el cambio que vive Catalina a lo largo del relato: si siguiera siendo impaciente, no habría logrado terminar el tejido.
 2. **Verdadero.** Retroalimentación: el texto muestra claramente la relación causa-consecuencia: la acción de Benjamín (remendar la red) permite que su padre pesque y consiga el dinero necesario.
-3. **b.** Retroalimentación: una opinión fundamentada explica el *porqué* con hechos concretos del texto, no solo expresa un gusto o un dato sin argumento.
-4. *Respuesta esperada*: cualquier respuesta razonada que identifique una semejanza real (por ejemplo, ambos protagonistas demuestran perseverancia o cariño hacia su familia) y una diferencia real (por ejemplo, el tipo de conflicto, el lugar geográfico o el tiempo que dura la historia), junto con una preferencia justificada con argumentos.
+3. **c.** Retroalimentación: una opinión fundamentada explica el *porqué* con hechos concretos del texto, no solo expresa un gusto o un dato sin argumento.
+4. a) Semejanza: ambos protagonistas demuestran perseverancia y cariño por su familia. Diferencia: ocurren en lugares distintos (Padre Las Casas y Caleta Tortel). También se pueden comparar el tipo de conflicto o el tiempo que dura la historia; una preferencia debe justificarse con elementos del texto.
 5. **c.** Retroalimentación: el poema está organizado en 2 estrofas, cada una compuesta por 4 versos (líneas).
 6. **Falso.** Retroalimentación: "cielo" y "beso" forman una **rima asonante**, porque solo coinciden los sonidos vocálicos (e-o), no todos los sonidos.
-7. **b.** Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones a) y c) son personificaciones.
-8. *Respuesta esperada*: apela principalmente a la **vista**, porque describe colores ("morenas", "dorados") que permiten imaginar visualmente la escena de la cosecha.
+7. **a.** Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones b) y c) son personificaciones.
+8. d) A la vista, porque describe colores ("morenas", "dorados")
 9. **b.** Retroalimentación: el texto explica explícitamente que Chile está sobre el "Cinturón de Fuego del Pacífico", una zona donde chocan placas tectónicas.
-10. *Respuesta esperada*: significa que el volcán aumenta su actividad sísmica y sus emisiones de gases. Es una **personificación**, porque "despertar" es una acción que asociamos a los seres vivos, no a un volcán.
+10. b) Que el volcán aumenta su actividad sísmica y sus emisiones de gases; es una personificación. "Despertar" es una acción de los seres vivos, no de un volcán.
 11. **Falso.** Retroalimentación: el tercer párrafo explica que los volcanes también traen beneficios, como enriquecer los suelos agrícolas con ceniza y permitir generar energía geotérmica limpia.
 12. **b.** Retroalimentación: esta opción relaciona correctamente la idea del segundo párrafo (riesgo y monitoreo) con la del tercer párrafo (beneficios).

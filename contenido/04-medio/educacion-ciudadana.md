@@ -182,16 +182,16 @@ distribución del poder.
 **1. (Alternativas)** ¿Cuál de las siguientes afirmaciones describe correctamente al Poder
 Legislativo en la institucionalidad democrática chilena?
 
-a) Dirige la administración del país y promulga las leyes aprobadas
-b) Ejerce la función legislativa en conjunto con el Presidente, y la fiscalización política
+a) Ejerce la función legislativa en conjunto con el Presidente, y la fiscalización política
 del gobierno corresponde exclusivamente a la Cámara de Diputadas y Diputados
-c) Resuelve juicios aplicando las leyes a casos concretos
+b) Dirige la administración del país y promulga las leyes aprobadas, y la fiscalización política del gobierno corresponde exclusivamente al Senado de la República
+c) Resuelve juicios aplicando las leyes a casos concretos, y ejerce la función legislativa solo cuando el Presidente de la República se lo solicita
 d) Organiza las elecciones y proclama los resultados
 
-✅ Respuesta correcta: **b) Ejerce la función legislativa en conjunto con el Presidente, y la
+✅ Respuesta correcta: **a) Ejerce la función legislativa en conjunto con el Presidente, y la
 fiscalización política del gobierno corresponde exclusivamente a la Cámara de Diputadas y
 Diputados**
-💬 *Retroalimentación:* La opción a) describe al Poder Ejecutivo, la c) al Poder Judicial y la
+💬 *Retroalimentación:* La opción b) describe al Poder Ejecutivo, la c) al Poder Judicial y la
 d) confunde las tareas del Servel con la proclamación de resultados, que corresponde al
 Tribunal Calificador de Elecciones. Legislar es colegislar: incluso ciertas iniciativas, como
 el aumento del gasto público, son exclusivas del Presidente.
@@ -208,18 +208,20 @@ constitucionalidad de las normas, precisamente para que ningún poder actúe sin
 
 ---
 
-**3. (Términos pareados)** Relaciona cada institución con su rol principal:
+**3. (Alternativas — unir)** Une cada institución con su rol principal:
 
 1) Servicio Electoral — 2) Corte Suprema — 3) Cámara de Diputadas y Diputados
 
-a) Máximo tribunal del Poder Judicial
-b) Organiza los procesos electorales y administra el registro electoral
-c) Una de las dos cámaras del Congreso Nacional
+Roles: (A) Máximo tribunal del Poder Judicial — (B) Organiza los procesos electorales y administra el registro electoral — (C) Una de las dos cámaras del Congreso Nacional
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* Cada institución cumple una función distinta dentro del sistema:
-administrar elecciones, encabezar la administración de justicia y ejercer la representación
-legislativa.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Cada institución cumple una función distinta: administrar elecciones, encabezar la justicia y ejercer la representación legislativa.
 
 ---
 
@@ -249,47 +251,36 @@ requisitos como reunir patrocinios o firmas de respaldo.
 
 ---
 
-**6. (Análisis de caso)** Un grupo de parlamentarios acusa a un ministerio de haber gastado
-recursos públicos en fines que la ley no autorizaba, y solicita un pronunciamiento al órgano
-competente. ¿Qué órgano autónomo de control está llamado a pronunciarse y por qué?
+**6. (Alternativas — análisis de caso)** Parlamentarios acusan a un ministerio de gastar recursos públicos en fines que la ley no autorizaba. ¿Qué órgano autónomo de control debe pronunciarse?
+a) El Tribunal Constitucional, que controla la constitucionalidad de las leyes
+b) El Servicio Electoral, que fiscaliza el gasto de las campañas y de los ministerios
+c) El Banco Central, que fija la tasa de interés y controla el presupuesto de cada ministerio
+d) La Contraloría General de la República, que fiscaliza la legalidad del uso de los recursos públicos
 
-✅ Respuesta esperada: La **Contraloría General de la República**, porque su función es
-fiscalizar la legalidad del uso de los recursos públicos por parte de la administración del
-Estado —es decir, verificar si el gasto del ministerio se ajustó a la normativa vigente.
-💬 *Retroalimentación:* La clave es reconocer que la Contraloría es un contrapeso
-especializado en legalidad administrativa, distinto del Tribunal Constitucional (que controla
-la constitucionalidad de las normas) y de los tribunales de justicia (que resuelven
-controversias concretas).
+✅ Respuesta correcta: **d) La Contraloría General de la República, que fiscaliza la legalidad del uso de los recursos públicos**
+💬 *Retroalimentación:* La Contraloría es un contrapeso especializado en legalidad administrativa.
 
 ---
 
-**7. (Desarrollo breve)** Explica, con tus palabras, por qué la existencia de "pesos y
-contrapesos" se considera una característica central de la institucionalidad democrática, y
-qué relación tiene con el bien común.
+**7. (Alternativas)** ¿Por qué los "pesos y contrapesos" son centrales en la institucionalidad democrática y cómo se vinculan con el bien común?
+a) Porque concentran el poder en un solo órgano para hacerlo más eficiente, de modo que las decisiones se tomen rápido y sin fiscalizaciones que retrasen el interés general
+b) Porque permiten que cada autoridad haga lo que quiera dentro de su ámbito, sin someterse a reglas ni a la fiscalización de otros órganos del Estado
+c) Porque eliminan la necesidad de leyes
+d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general
 
-✅ Respuesta esperada: Los pesos y contrapesos significan que cada órgano del poder está
-sometido a reglas y a la fiscalización de otros, de modo que ninguno pueda ejercer el poder de
-forma arbitraria ni concentrarlo. Esto protege el bien común porque hace más probable que las
-decisiones se tomen conforme a la ley, con transparencia y considerando el interés general,
-en vez de los intereses particulares de quien detenta el poder.
-💬 *Retroalimentación:* Una buena respuesta conecta el mecanismo institucional (control mutuo
-entre poderes) con su finalidad (evitar abusos y servir al interés general), que es lo que el
-OA pide evaluar "a la luz del bien común".
+✅ Respuesta correcta: **d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general**
+💬 *Retroalimentación:* El mecanismo de control mutuo tiene como finalidad evitar abusos y servir al interés general.
 
 ---
 
-**8. (Análisis de fuente/dato)** Una comuna elige a su alcaldesa y a sus concejales por
-votación directa cada cuatro años; ese mismo municipio debe rendir cuenta de sus gastos ante
-un órgano autónomo. ¿Qué dos dimensiones de la institucionalidad democrática ilustra esta
-situación?
+**8. (Varias correctas — análisis de caso)** Una comuna elige a su alcaldesa y concejales por votación cada cuatro años, y el municipio rinde cuenta de sus gastos ante un órgano autónomo. ¿Qué dimensiones de la institucionalidad democrática ilustra? Marca **todas** las correctas.
+a) La representación mediante elecciones periódicas
+b) El control o contrapeso del poder mediante la fiscalización
+c) La concentración del poder local en una sola persona
+d) La ausencia de normas para el gasto municipal
 
-✅ Respuesta esperada: Ilustra la **representación** mediante elecciones periódicas (la
-ciudadanía elige a las autoridades locales que la representan en el gobierno municipal) y el
-**control o contrapeso del poder** (la Contraloría u otros mecanismos de fiscalización
-garantizan que el poder local se ejerza conforme a la ley).
-💬 *Retroalimentación:* Las elecciones municipales muestran que la representación democrática
-existe también a escala local, no solo en la elección de Presidente y Congreso; y la
-fiscalización muestra que elegir autoridades no les da poder ilimitado.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Elegir autoridades no les otorga un poder ilimitado.
 
 ---
 
@@ -408,8 +399,7 @@ a) Un desarrollo que maximiza el crecimiento económico sin restricciones de nin
 b) Un desarrollo que prohíbe toda actividad económica que use recursos naturales
 c) Un desarrollo que satisface las necesidades del presente sin comprometer la capacidad de
 las futuras generaciones de satisfacer las suyas
-d) Un desarrollo centrado exclusivamente en la protección ambiental, sin considerar el
-bienestar de las personas
+d) Un desarrollo centrado exclusivamente en la protección ambiental de los ecosistemas, sin considerar el bienestar de las personas ni su crecimiento económico
 
 ✅ Respuesta correcta: **c) Un desarrollo que satisface las necesidades del presente sin
 comprometer la capacidad de las futuras generaciones de satisfacer las suyas**
@@ -430,31 +420,33 @@ precios, empleo, servicios y oportunidades concretas: por eso este OA habla del 
 
 ---
 
-**3. (Términos pareados)** Relaciona cada dimensión del desarrollo sustentable con su ejemplo:
+**3. (Alternativas — unir)** Une cada dimensión del desarrollo sustentable con su ejemplo:
 
 1) Dimensión económica — 2) Dimensión social — 3) Dimensión ambiental
 
-a) Que las personas accedan a vivienda, salud, educación y trabajo digno
-b) Que las actividades productivas no destruyan los ecosistemas de los que depende la vida
-c) Que las actividades productivas sean viables y generen bienestar
+Ejemplos: (A) Que las personas accedan a vivienda, salud, educación y trabajo digno — (B) Que las actividades productivas no destruyan los ecosistemas — (C) Que las actividades productivas sean viables y generen bienestar
 
-✅ Respuesta correcta: **1-c, 2-a, 3-b**
-💬 *Retroalimentación:* Un modelo de desarrollo sustentable debe dar cuenta de las tres
-dimensiones a la vez; sacrificar permanentemente una de ellas es justamente lo que el
-concepto busca evitar.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-A, 3-B
+d) 1-C, 2-B, 3-A
+
+✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Un modelo sustentable debe considerar las tres dimensiones a la vez.
 
 ---
 
 **4. (Alternativas)** Una economía que depende casi exclusivamente de exportar materias primas
 sin procesar se caracteriza principalmente por ser un modelo:
 
-a) Centrado en la producción con alto valor agregado
-b) Extractivo, con riesgos de dependencia de precios internacionales y presión sobre recursos
+a) Extractivo, con riesgos de dependencia de precios internacionales y presión sobre recursos
 naturales
-c) De economía del conocimiento y servicios tecnológicos
+b) Centrado en la producción industrial con alto valor agregado y tecnología propia desarrollada en el país
+c) De economía del conocimiento y servicios tecnológicos exportados a otros países
 d) Basado exclusivamente en el trabajo artesanal local
 
-✅ Respuesta correcta: **b) Extractivo, con riesgos de dependencia de precios internacionales
+✅ Respuesta correcta: **a) Extractivo, con riesgos de dependencia de precios internacionales
 y presión sobre recursos naturales**
 💬 *Retroalimentación:* Los modelos extractivos no son "erróneos" por definición —generan
 empleo e ingresos—, pero este OA pide reconocer sus riesgos característicos: dependencia
@@ -473,51 +465,36 @@ contribuyeron a causarlo.
 
 ---
 
-**6. (Análisis de caso)** Una comuna costera depende económicamente de una industria que emplea
-a buena parte de su población, pero que vierte residuos al mar afectando la pesca artesanal
-local. Analiza esta situación usando las tres dimensiones de la sustentabilidad.
+**6. (Alternativas — análisis de caso)** Una comuna costera depende de una industria que da empleo, pero vierte residuos al mar afectando la pesca artesanal. ¿Qué análisis usa correctamente las tres dimensiones?
+a) Económica: empleo y viabilidad; ambiental: degradación del ecosistema marino; social: afecta el sustento de los pescadores, distribuyendo beneficios y costos de forma desigual
+b) Solo hay una dimensión económica positiva: la industria da empleo, y los efectos sobre el mar y la pesca artesanal no forman parte del análisis del desarrollo de la comuna
+c) La situación no tiene dimensión social
+d) La dimensión ambiental mejora gracias a los vertidos, que alimentan a los peces; la social se beneficia del empleo y la económica no cambia, porque los costos se reparten por igual
 
-✅ Respuesta esperada: En la **dimensión económica**, la industria genera empleo y viabilidad
-productiva para la comuna; en la **dimensión ambiental**, el vertimiento de residuos degrada
-el ecosistema marino del que depende otra actividad productiva (la pesca artesanal); en la
-**dimensión social**, el conflicto afecta la vida digna y el sustento de familias de
-pescadores, revelando que el beneficio económico se distribuye de forma desigual frente a sus
-costos.
-💬 *Retroalimentación:* El análisis completo reconoce que el "beneficio económico" y el "costo
-ambiental y social" no siempre recaen sobre las mismas personas —una clave del análisis a
-escala territorial local que pide el OA.
+✅ Respuesta correcta: **a) Económica: empleo y viabilidad; ambiental: degradación del ecosistema marino; social: afecta el sustento de los pescadores, distribuyendo beneficios y costos de forma desigual**
+💬 *Retroalimentación:* El beneficio económico y los costos no recaen siempre sobre las mismas personas.
 
 ---
 
-**7. (Desarrollo breve)** Explica con un ejemplo cómo una decisión de política fiscal (una
-decisión sobre impuestos o gasto público) puede expresar una prioridad del modelo de
-desarrollo de un país.
+**7. (Alternativas)** ¿Qué ejemplo muestra que una decisión fiscal expresa una prioridad del modelo de desarrollo?
+a) Las decisiones fiscales son siempre neutras y técnicas: destinar más gasto a educación o rebajar impuestos solo depende de cálculos contables, sin expresar prioridades
+b) Los impuestos no tienen relación con el desarrollo: el modelo se define en la Constitución y el presupuesto se ajusta cada año sin reflejar ninguna prioridad
+c) El gasto público solo depende del clima
+d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado
 
-✅ Respuesta esperada: Por ejemplo, si un Estado decide destinar una parte mayor de su gasto
-público a educación y salud universales en vez de reducir impuestos, está expresando un modelo
-que prioriza la redistribución y el aseguramiento de condiciones dignas de vida para toda la
-población; si prioriza rebajar impuestos para fomentar la inversión privada, expresa un modelo
-que confía más el bienestar al dinamismo del mercado. Ambas decisiones son políticas fiscales
-que reflejan distintas prioridades de desarrollo.
-💬 *Retroalimentación:* La idea clave es ver que las políticas económicas no son decisiones
-"neutras" o solo técnicas: detrás de cada una hay una visión sobre qué significa el desarrollo
-y a quién debe beneficiar.
+✅ Respuesta correcta: **d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado**
+💬 *Retroalimentación:* Detrás de cada política económica hay una visión sobre el desarrollo y a quién debe beneficiar.
 
 ---
 
-**8. (Análisis de fuente/dato)** Un informe señala que una región minera de Chile concentra los
-ingresos más altos del país por persona, pero también los índices más altos de problemas
-ambientales y de migración interna de jóvenes que no encuentran empleo fuera de la industria
-extractiva. ¿Qué permite concluir este dato sobre los límites de medir el desarrollo solo por
-el ingreso promedio?
+**8. (Alternativas — análisis de datos)** Una región minera tiene los ingresos por persona más altos del país, pero también graves problemas ambientales y migración de jóvenes sin empleo fuera de la minería. ¿Qué se concluye sobre medir el desarrollo solo por el ingreso?
+a) Que el ingreso promedio basta para medir el desarrollo, porque los problemas ambientales y la migración se resuelven con más ingresos
+b) Que la migración de jóvenes no tiene relación con el desarrollo, porque depende solo de decisiones personales de cada familia
+c) Que la minería no genera ingresos
+d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo
 
-✅ Respuesta esperada: Que el ingreso promedio oculta dimensiones centrales del desarrollo: la
-calidad ambiental del territorio, la diversidad y estabilidad del empleo, la vida digna de
-quienes no trabajan en la actividad principal y la sostenibilidad del modelo a futuro. Un
-análisis completo exige mirar las dimensiones social y ambiental, y la escala territorial
-local, no solo el indicador económico agregado.
-💬 *Retroalimentación:* Este tipo de ejercicio —criticar un indicador único usando evidencia
-mixta— es exactamente el nivel de análisis que pide el verbo "analizar" del OA.
+✅ Respuesta correcta: **d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo**
+💬 *Retroalimentación:* Un análisis completo exige considerar dimensiones sociales, ambientales y la escala territorial.
 
 ---
 
@@ -666,15 +643,13 @@ en norma general.
 **1. (Alternativas)** ¿Cuál es la razón de fondo por la que las sociedades establecen normas
 de derechos laborales, según lo estudiado?
 
-a) Porque el Estado debe reemplazar completamente la negociación entre trabajadores y
-empleadores
-b) Porque en la relación laboral existe una asimetría de poder que sin normas mínimas puede
+a) Porque el Estado debe reemplazar completamente la negociación entre trabajadores y empleadores, fijando por ley todas las condiciones de cada empleo y cada sueldo
+b) Porque los derechos laborales solo benefician a los sindicatos
+c) Porque en la relación laboral existe una asimetría de poder que sin normas mínimas puede
 traducirse en condiciones que vulneran la dignidad de quien trabaja
-c) Porque los derechos laborales solo benefician a los sindicatos
-d) Porque las empresas no tienen interés legítimo en definir las condiciones del trabajo que
-ofrecen
+d) Porque las empresas no tienen interés legítimo en definir las condiciones del trabajo que ofrecen, y por eso las normas deben impedir que participen en esa definición
 
-✅ Respuesta correcta: **b) Porque en la relación laboral existe una asimetría de poder que
+✅ Respuesta correcta: **c) Porque en la relación laboral existe una asimetría de poder que
 sin normas mínimas puede traducirse en condiciones que vulneran la dignidad de quien trabaja**
 💬 *Retroalimentación:* Las normas laborales no eliminan la negociación, sino que fijan pisos
 mínimos —jornada, remuneración, seguridad, descanso— por debajo de los cuales no puede
@@ -693,32 +668,33 @@ los derechos laborales cuentan con mecanismos institucionales de resguardo.
 
 ---
 
-**3. (Términos pareados)** Relaciona cada tendencia actual del debate laboral con su contenido:
+**3. (Alternativas — unir)** Une cada tendencia del debate laboral con su contenido:
 
 1) Teletrabajo — 2) Corresponsabilidad en el cuidado — 3) Disminución de la jornada
 
-a) Distribuir entre ambos progenitores —y apoyar desde la organización del trabajo— la
-responsabilidad por hijos e hijas
-b) Trabajo remoto que plantea nuevos desafíos, como el derecho a la desconexión
-c) Reducción del máximo legal de horas semanales de trabajo
+Contenidos: (A) Distribuir entre ambos progenitores, con apoyo de la organización del trabajo, la responsabilidad por hijos e hijas — (B) Trabajo remoto que plantea desafíos como el derecho a la desconexión — (C) Reducción del máximo legal de horas semanales de trabajo
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* El temario identifica estas tendencias —junto con la flexibilidad
-laboral— como los principales planteamientos presentes en las demandas actuales sobre
-derechos laborales.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Estas tendencias, junto con la flexibilidad laboral, marcan las demandas actuales sobre derechos laborales.
 
 ---
 
 **4. (Alternativas)** La protección de la maternidad en la legislación laboral chilena incluye
 mecanismos como:
 
-a) La prohibición de contratar mujeres en edad fértil
-b) El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de sala
+a) El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de sala
 cuna
-c) La obligación de las madres de renunciar al empleo tras el embarazo
-d) Un sistema que traslada todos los costos del cuidado a las familias
+b) La prohibición de contratar mujeres en edad fértil
+c) La obligación de las madres de renunciar al empleo tras el embarazo, con una indemnización
+d) Un sistema que traslada todos los costos del cuidado infantil a las familias y a las madres
 
-✅ Respuesta correcta: **b) El permiso postnatal, la protección del empleo durante el embarazo
+✅ Respuesta correcta: **a) El permiso postnatal, la protección del empleo durante el embarazo
 y mecanismos de sala cuna**
 💬 *Retroalimentación:* Estos mecanismos buscan que tener hijos e hijas no signifique perder
 el empleo ni los ingresos, y son parte de los mecanismos de protección que el temario pide
@@ -739,48 +715,36 @@ trabajadoras y movimientos sociales, no de concesiones espontáneas.
 
 ---
 
-**6. (Análisis de caso)** Una empresa de reparto por aplicación clasifica a todas las personas
-que trabajan para ella como "socios independientes", aunque fija sus tarifas, sus horarios de
-disponibilidad y puede desactivarlos sin procedimiento. ¿Qué debate actual sobre derechos
-laborales ilustra este caso?
+**6. (Alternativas — análisis de caso)** Una app de reparto llama "socios independientes" a sus trabajadores, aunque fija sus tarifas, su disponibilidad y puede desactivarlos sin procedimiento. ¿Qué debate ilustra?
+a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales
+b) El debate sobre la jornada laboral de los profesores y la carga de trabajo fuera del horario de clases en los establecimientos educacionales
+c) Ninguno: los socios independientes no tienen debate, porque eligen libremente cuándo trabajar y la app solo actúa como intermediaria entre clientes y comercios
+d) El debate sobre la propiedad de los medios
 
-✅ Respuesta esperada: Ilustra el debate sobre los **empleos de plataformas digitales** y la
-frontera entre trabajo dependiente e independiente: la tecnología permite organizar el trabajo
-de formas nuevas, pero también puede usarse para evadir las protecciones del trabajo
-dependiente (contrato, jornada, remuneración mínima, seguridad social). El desafío es
-determinar cuándo la relación es, en la práctica, laboral y por tanto protegida por la
-normativa.
-💬 *Retroalimentación:* Reconocer que las nuevas formas de organización del trabajo obligan a
-repensar —no a abandonar— el concepto de derechos laborales es el nivel de comprensión que
-pide el OA.
+✅ Respuesta correcta: **a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales**
+💬 *Retroalimentación:* Las nuevas formas de trabajo obligan a repensar —no a abandonar— los derechos laborales.
 
 ---
 
-**7. (Desarrollo breve)** Explica por qué el derecho a formar sindicatos y a negociar
-colectivamente se considera una forma de equilibrar la asimetría de poder de la relación
-laboral.
+**7. (Alternativas)** ¿Por qué el derecho a sindicalizarse y negociar colectivamente equilibra la asimetría de la relación laboral?
+a) Porque elimina la necesidad de contratos individuales, y cada trabajador queda sujeto solo a lo que decida el sindicato
+b) Porque obliga a las empresas a cerrar
+c) Porque el sindicato reemplaza al Estado en la fiscalización de las empresas y en la fijación del sueldo mínimo nacional de cada año
+d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea, y organizado colectivamente puede acordar mejores condiciones
 
-✅ Respuesta esperada: Individualmente, una persona trabajadora tiene poco poder de negociación
-frente a quien emplea, porque depende del empleo para vivir. Al organizarse en un sindicato y
-negociar colectivamente bajo los procedimientos que regula la ley, las personas trabajadoras
-suman fuerza: la negociación con el conjunto equilibra la relación y permite acordar
-condiciones mejores que las que cada uno podría obtener por separado.
-💬 *Retroalimentación:* La clave es conectar la organización colectiva con la corrección de la
-asimetría individual —no presentar el sindicato solo como "otra entidad más".
+✅ Respuesta correcta: **d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea, y organizado colectivamente puede acordar mejores condiciones**
+💬 *Retroalimentación:* La organización colectiva corrige la asimetría individual.
 
 ---
 
-**8. (Análisis de fuente/dato)** Una encuesta muestra que la mayoría de las personas
-trabajadoras valora la posibilidad de teletrabajar parte de la semana, pero también que un
-porcentaje relevante reporta dificultad para desconectarse del trabajo fuera del horario
-formal. ¿Qué tensión entre tendencias actuales de derechos laborales revela este dato?
+**8. (Alternativas — análisis de datos)** Una encuesta muestra que la mayoría valora teletrabajar parte de la semana, pero un porcentaje relevante tiene dificultad para desconectarse fuera del horario. ¿Qué tensión revela?
+a) Que el teletrabajo es solo positivo, porque la mayoría lo valora y las dificultades de desconexión son casos aislados sin importancia
+b) Que no existe el derecho a la desconexión en Chile, y por eso quienes teletrabajan deben estar disponibles en todo momento
+c) Que el teletrabajo es solo negativo
+d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión
 
-✅ Respuesta esperada: Revela la tensión entre la **flexibilidad laboral** —que puede mejorar
-la calidad de vida al ahorrar traslados y permitir organizar el tiempo— y el riesgo de que esa
-misma flexibilidad extienda indefinidamente la jornada real, erosionando el descanso y el
-derecho a la desconexión. Por eso el debate actual busca flexibilizar sin precarizar.
-💬 *Retroalimentación:* Una buena respuesta identifica ambos lados de la tendencia —el
-beneficio y el riesgo— en vez de valorar el teletrabajo como solo positivo o solo negativo.
+✅ Respuesta correcta: **d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión**
+💬 *Retroalimentación:* El debate busca flexibilizar sin precarizar.
 
 ---
 
@@ -887,10 +851,10 @@ históricamente excluido.
 **1. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor la "igualdad de
 oportunidades"?
 
-a) Que todas las personas tengan exactamente el mismo ingreso
+a) Que todas las personas tengan exactamente el mismo ingreso cada mes
 b) Que todas las personas partan con condiciones similares para desarrollarse
-c) Que la ley trate distinto a cada grupo social
-d) Que el Estado no intervenga nunca en la economía
+c) Que la ley trate de forma distinta a cada grupo social según su riqueza
+d) Que el Estado no intervenga nunca en la economía ni en la educación
 
 ✅ Respuesta correcta: **b) Que todas las personas partan con condiciones similares para
 desarrollarse**
@@ -910,17 +874,20 @@ efectivamente tus decisiones.
 
 ---
 
-**3. (Términos pareados)** Relaciona cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Igualdad ante la ley — 2) Solidaridad — 3) Igualdad de trato
 
-a) Apoyo mutuo, especialmente hacia quienes están en mayor vulnerabilidad
-b) Las mismas normas se aplican a todas las personas
-c) No ser discriminado por características propias de la identidad
+Definiciones: (A) Apoyo mutuo, especialmente hacia quienes están en mayor vulnerabilidad — (B) Las mismas normas se aplican a todas las personas — (C) No ser discriminado por características propias de la identidad
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* La igualdad tiene varias caras —ante la ley, de trato, de
-oportunidades— y la solidaridad es un valor distinto, centrado en el apoyo mutuo entre personas.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* La igualdad tiene varias caras, y la solidaridad es un valor distinto centrado en el apoyo mutuo.
 
 ---
 
@@ -950,44 +917,36 @@ posturas.
 
 ---
 
-**6. (Análisis de caso)** Una empresa contrata preferentemente a personas jóvenes y descarta,
-sin justificación relacionada con el cargo, a postulantes mayores de 55 años. Relaciona este caso
-con los conceptos de este OA.
+**6. (Varias correctas — análisis de caso)** Una empresa descarta sin justificación vinculada al cargo a postulantes mayores de 55 años. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
+a) Inclusión
+b) Igualdad de trato
+c) Solidaridad tributaria
+d) Soberanía popular
 
-✅ Respuesta esperada: Se trata de un problema de **inclusión** y de **igualdad de trato**, ya
-que se excluye a un grupo (personas mayores) del acceso al trabajo por una característica —la
-edad— no relacionada con su capacidad para desempeñar el cargo, lo que contradice el
-reconocimiento de igual dignidad para todas las personas.
-💬 *Retroalimentación:* La clave es identificar que la exclusión no está fundada en una razón
-legítima relacionada con el desempeño laboral, lo que la convierte en una barrera a la
-inclusión.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* La exclusión por edad, sin razón legítima vinculada al desempeño, es una barrera a la inclusión.
 
 ---
 
-**7. (Desarrollo breve)** Explica, con tus palabras, por qué la libertad y la solidaridad pueden
-entrar en tensión en el debate sobre políticas tributarias, sin que ninguna de las dos posturas
-sea necesariamente "antidemocrática".
+**7. (Alternativas)** ¿Por qué la libertad y la solidaridad pueden entrar en tensión en el debate tributario sin que ninguna postura sea "antidemocrática"?
+a) Porque una persona puede priorizar decidir sobre su ingreso y otra que quienes tienen más aporten más; ambas valoran principios democráticos con distinto peso
+b) Porque una de las dos posturas siempre es antidemocrática: priorizar la libertad individual sobre el ingreso niega la solidaridad, que es el único principio democrático
+c) Porque los impuestos no son parte del debate democrático, sino una decisión técnica del Ministerio de Hacienda en la que la libertad y la solidaridad no influyen
+d) Porque la libertad y la solidaridad significan lo mismo
 
-✅ Respuesta esperada: Una persona puede priorizar la libertad individual de decidir el uso de su
-propio ingreso y oponerse a impuestos altos; otra puede priorizar la solidaridad y considerar
-justo que quienes tienen más aporten más para sostener políticas sociales. Ambas valoran
-principios democráticos legítimos —libertad y solidaridad—, solo que les dan distinto peso; ese
-desacuerdo es parte normal del debate democrático, no una amenaza a la democracia.
-💬 *Retroalimentación:* Una buena respuesta reconoce que el desacuerdo legítimo entre valores
-democráticos es distinto de un desacuerdo sobre si la democracia misma debe existir.
+✅ Respuesta correcta: **a) Porque una persona puede priorizar decidir sobre su ingreso y otra que quienes tienen más aporten más; ambas valoran principios democráticos con distinto peso**
+💬 *Retroalimentación:* El desacuerdo legítimo entre valores es distinto de un desacuerdo sobre si la democracia debe existir.
 
 ---
 
-**8. (Análisis de fuente/dato)** Un informe indica que, en una región de Chile, el porcentaje de
-mujeres en cargos de alcaldesa o concejala es significativamente menor que el porcentaje de
-mujeres en la población regional. ¿Qué desafío de este OA ilustra mejor este dato?
+**8. (Alternativas — análisis de datos)** En una región, el porcentaje de alcaldesas y concejalas es mucho menor que el de mujeres en la población. ¿Qué desafío ilustra?
+a) La desinformación electoral durante las campañas, que afecta a todos los candidatos por igual
+b) La concentración de los medios de comunicación
+c) La superación de la pobreza en la región
+d) La equidad de género: subrepresentación de mujeres en cargos de decisión política
 
-✅ Respuesta esperada: Ilustra un desafío de **equidad de género**, específicamente la
-subrepresentación de mujeres en cargos de decisión política, lo que constituye una brecha entre
-la participación formal (derecho a ser elegidas) y la participación efectiva en espacios de
-poder.
-💬 *Retroalimentación:* Un dato de representación política es una forma habitual de medir
-desafíos de equidad de género en democracia, más allá del derecho formal al voto o a ser electa.
+✅ Respuesta correcta: **d) La equidad de género: subrepresentación de mujeres en cargos de decisión política**
+💬 *Retroalimentación:* Hay una brecha entre el derecho formal a ser elegidas y la participación efectiva en el poder.
 
 ---
 
@@ -1003,11 +962,11 @@ todas las personas como el respeto a identidades y culturas particulares.
 
 **10. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de "libertad positiva"?
 
-a) Que nadie te prohíba postular a un cargo de elección popular
+a) Que nadie te prohíba postular a un cargo de elección popular en tu comuna, aunque no tengas recursos para hacer campaña
 b) Que el Estado financie becas para que estudiantes de bajos recursos puedan acceder a la
 educación superior
-c) Que ninguna ley te obligue a votar por un candidato específico
-d) Que puedas expresar tu opinión sin censura previa
+c) Que ninguna ley te obligue a votar por un candidato o partido específico
+d) Que puedas expresar tu opinión en público y en redes sin censura previa
 
 ✅ Respuesta correcta: **b) Que el Estado financie becas para que estudiantes de bajos recursos
 puedan acceder a la educación superior**
@@ -1017,44 +976,42 @@ ejercer una decisión (estudiar) que de otro modo sería solo formal.
 
 ---
 
-**11. (Términos pareados)** Relaciona cada desafío democrático con un ejemplo concreto:
+**11. (Alternativas — unir)** Une cada desafío democrático con un ejemplo:
 
 1) Inclusión — 2) Diversidad sexual — 3) Superación de la pobreza
 
-a) Reconocimiento legal de distintas identidades y orientaciones dentro de la sociedad
-b) Un liceo que adapta su infraestructura para estudiantes con discapacidad
-c) Un programa de transferencias monetarias para familias de bajos ingresos
+Ejemplos: (A) Reconocimiento legal de distintas identidades y orientaciones — (B) Un liceo que adapta su infraestructura para estudiantes con discapacidad — (C) Un programa de transferencias para familias de bajos ingresos
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* Cada desafío tiene manifestaciones concretas y distintas en la vida
-institucional y social, aunque todos comparten el trasfondo de los valores de libertad, igualdad
-y solidaridad.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-A, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**12. (Análisis de caso)** Un municipio destina un porcentaje relevante de su presupuesto a becas
-de alimentación y útiles escolares para estudiantes de familias de escasos recursos de la comuna.
-Relaciona esta política con dos de los tres valores centrales de este OA.
-
-✅ Respuesta esperada: Se relaciona con la **solidaridad** (apoyo desde la comunidad, vía recursos
-municipales, hacia quienes tienen menos) y con la **igualdad de oportunidades** (busca que todos
-los estudiantes tengan condiciones más similares para aprender, independiente de su situación
-económica familiar).
-💬 *Retroalimentación:* Muchas políticas públicas concretas pueden analizarse a la vez desde más
-de un valor democrático; identificar ambos muestra comprensión profunda del OA.
+✅ Respuesta correcta: **b) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Cada desafío tiene manifestaciones concretas distintas, con un trasfondo común de libertad, igualdad y solidaridad.
 
 ---
 
-**13. (Desarrollo breve)** Explica con un ejemplo por qué la inclusión de personas con
-discapacidad se considera un desafío democrático y no solo un tema de "buena voluntad" social.
+**12. (Varias correctas — análisis de caso)** Un municipio destina parte de su presupuesto a becas de alimentación y útiles para estudiantes de familias de escasos recursos. ¿Con qué valores se vincula? Marca **todas** las correctas.
+a) Solidaridad
+b) Igualdad de oportunidades
+c) Concentración de medios
+d) Microsegmentación
 
-✅ Respuesta esperada: Porque la exclusión de personas con discapacidad de espacios educativos,
-laborales o de participación política vulnera su igual dignidad y sus derechos como ciudadanas y
-ciudadanos; no depender de la "buena voluntad" de terceros, sino de condiciones estructurales
-(accesibilidad, normativa, políticas públicas) es lo que convierte la inclusión en un asunto de
-justicia democrática y no de caridad.
-💬 *Retroalimentación:* La diferencia clave es entender la inclusión como un derecho exigible,
-no como un favor.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Una política pública puede analizarse desde más de un valor democrático.
+
+---
+
+**13. (Alternativas)** ¿Por qué la inclusión de personas con discapacidad es un desafío democrático y no solo de "buena voluntad"?
+a) Porque solo depende de la buena voluntad de cada persona y de las organizaciones de caridad, sin que el Estado tenga responsabilidad alguna
+b) Porque las personas con discapacidad no tienen derechos políticos plenos, y por eso su inclusión debe decidirla cada autoridad
+c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad
+d) Porque es un tema exclusivo del ámbito privado y familiar, que no requiere normas ni políticas públicas de accesibilidad
+
+✅ Respuesta correcta: **c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad**
+💬 *Retroalimentación:* La inclusión es un derecho exigible, no un favor.
 
 ---
 
@@ -1069,29 +1026,25 @@ dignidad de las personas afectadas, que es un consenso democrático que no está
 
 ---
 
-**15. (Análisis de caso)** En una empresa, un grupo de trabajadoras organiza un sindicato para
-negociar mejores condiciones de sala cuna y horarios compatibles con el cuidado de hijos e hijas.
-Relaciona esta acción con los conceptos de participación y equidad de género estudiados en este
-OA.
+**15. (Varias correctas — análisis de caso)** Trabajadoras organizan un sindicato para negociar sala cuna y horarios compatibles con el cuidado de hijos e hijas. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
+a) Participación, por la organización sindical para incidir en decisiones
+b) Equidad de género, porque busca reducir una carga de cuidado que ha recaído más sobre las mujeres
+c) Desinformación electoral
+d) Concentración de la propiedad de medios
 
-✅ Respuesta esperada: La organización sindical es una forma de **participación** que busca
-incidir en decisiones que afectan a las trabajadoras; el contenido de la demanda —sala cuna,
-horarios compatibles con el cuidado— apunta directamente a reducir una carga desigual que
-históricamente ha recaído más sobre las mujeres, por lo que se relaciona con la **equidad de
-género**.
-💬 *Retroalimentación:* El ejercicio pide conectar una acción colectiva concreta con más de un
-concepto del OA: la forma de participación y el contenido del desafío que se busca resolver.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Se conecta la forma de participación con el contenido del desafío que se busca resolver.
 
 ---
 
 **16. (Alternativas)** ¿Cuál de las siguientes afirmaciones refleja mejor la relación entre
 solidaridad y principios democráticos, según lo estudiado?
 
-a) La solidaridad es un valor privado que no tiene relación con la democracia
+a) La solidaridad es un valor privado que no tiene relación con la democracia ni con las políticas públicas, y depende solo de la caridad de cada persona
 b) La solidaridad se traduce en el apoyo mutuo entre personas y puede expresarse en políticas
 públicas y en el respeto a los Derechos Humanos de los más vulnerables
 c) La solidaridad y la democracia son conceptos incompatibles
-d) La solidaridad solo aplica entre familiares y amigos cercanos
+d) La solidaridad solo aplica entre familiares y amigos cercanos, y el Estado no debería expresarla en políticas públicas ni en el respeto a los Derechos Humanos
 
 ✅ Respuesta correcta: **b) La solidaridad se traduce en el apoyo mutuo entre personas y puede
 expresarse en políticas públicas y en el respeto a los Derechos Humanos de los más vulnerables**
@@ -1205,7 +1158,7 @@ forma más rápida y con menor costo que los medios tradicionales.
 **1. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor una "cámara de eco" en
 redes sociales?
 
-a) Un espacio donde circulan solo noticias verificadas por periodistas profesionales
+a) Un espacio donde circulan solo noticias verificadas por periodistas profesionales y medios reconocidos
 b) Un entorno digital donde los algoritmos muestran principalmente contenido afín a lo que el
 usuario ya piensa
 c) Una función de las plataformas para denunciar contenido falso
@@ -1229,28 +1182,30 @@ tecnologías para el fortalecimiento de la democracia: la fiscalización y la tr
 
 ---
 
-**3. (Términos pareados)** Relaciona cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Desinformación — 2) Microsegmentación — 3) Concentración de medios
 
-a) Uso de datos personales para dirigir mensajes específicos a distintos perfiles de votantes
-b) Contenido falso o engañoso que circula, a veces de forma deliberada
-c) Situación en la que pocos actores controlan gran parte de los medios de un país
+Definiciones: (A) Uso de datos personales para dirigir mensajes específicos a distintos perfiles de votantes — (B) Contenido falso o engañoso que circula, a veces deliberadamente — (C) Pocos actores controlan gran parte de los medios de un país
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* Cada concepto describe un riesgo distinto para la democracia: la
-veracidad de la información, la transparencia de la propaganda política y el pluralismo de
-voces disponibles.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Cada concepto describe un riesgo distinto: veracidad, transparencia de la propaganda y pluralismo.
 
 ---
 
 **4. (Alternativas)** En Chile, la protección de los datos personales frente a su uso por
 empresas y plataformas está regulada, entre otras normas, por:
 
-a) El Código del Trabajo
+a) El Código del Trabajo y sus reglamentos
 b) La Ley de Protección de la Vida Privada
 c) La Ley General de Educación
-d) El Código Penal exclusivamente
+d) El Código Penal exclusivamente y sus delitos
 
 ✅ Respuesta correcta: **b) La Ley de Protección de la Vida Privada**
 💬 *Retroalimentación:* Esta ley, junto con otras normas y debates públicos en curso, busca
@@ -1268,45 +1223,36 @@ e intereses, y proteger la información personal, aprovechando a la vez sus opor
 
 ---
 
-**6. (Análisis de caso)** Durante una elección, una cuenta anónima en redes sociales difunde
-miles de publicaciones idénticas en pocas horas, atacando a un candidato con acusaciones sin
-fuente verificable. Identifica el riesgo principal que ilustra este caso y explica por qué es
-particularmente grave en contexto electoral.
+**6. (Alternativas — análisis de caso)** En una elección, una cuenta anónima difunde miles de publicaciones idénticas en pocas horas con acusaciones sin fuente contra un candidato. ¿Qué riesgo ilustra y por qué es grave?
+a) Concentración de medios; no es grave, porque una cuenta anónima no puede influir en el voto si los medios tradicionales informan de otra manera
+b) Participación digital legítima; es positiva, porque cualquier persona puede publicar cuantas veces quiera durante una elección, y las acusaciones aumentan el debate
+c) Microsegmentación; no tiene efectos
+d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar
 
-✅ Respuesta esperada: Ilustra el riesgo de **desinformación** (posiblemente coordinada, dado el
-patrón de publicaciones idénticas en poco tiempo). Es particularmente grave en contexto
-electoral porque puede influir en la decisión de voto de la ciudadanía a partir de información
-falsa, en un momento en que hay poco tiempo para verificar y desmentir antes de que la persona
-vote.
-💬 *Retroalimentación:* El patrón de publicaciones masivas y simultáneas es una señal habitual de
-campañas de desinformación coordinada, distinta de la opinión espontánea de usuarios individuales.
+✅ Respuesta correcta: **d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar**
+💬 *Retroalimentación:* El patrón masivo y simultáneo es una señal habitual de campañas coordinadas.
 
 ---
 
-**7. (Desarrollo breve)** Explica, con tus palabras, de qué manera la concentración de la
-propiedad de los medios de comunicación puede afectar el pluralismo democrático.
+**7. (Alternativas)** ¿Cómo puede afectar la concentración de la propiedad de los medios al pluralismo democrático?
+a) Aumenta siempre la diversidad de opiniones, porque un grupo grande puede financiar más medios y más periodistas
+b) Reduce la diversidad de perspectivas que llegan a la ciudadanía y dificulta que voces minoritarias o críticas alcancen audiencia
+c) No tiene ningún efecto en el debate público
+d) Garantiza que todas las voces se escuchen por igual, porque un solo dueño distribuye el espacio de forma equilibrada
 
-✅ Respuesta esperada: Cuando pocos grupos económicos o personas controlan gran parte de los
-medios de un país, disminuye la diversidad de perspectivas, temas e intereses que llegan a la
-ciudadanía, lo que puede limitar el debate público a los enfoques de quienes poseen esos medios y
-dificultar que otras voces —minoritarias o críticas— alcancen una audiencia amplia.
-💬 *Retroalimentación:* La idea central es que el pluralismo democrático depende de que existan
-múltiples fuentes independientes de información, no solo de que existan muchos medios en
-apariencia.
+✅ Respuesta correcta: **b) Reduce la diversidad de perspectivas que llegan a la ciudadanía y dificulta que voces minoritarias o críticas alcancen audiencia**
+💬 *Retroalimentación:* El pluralismo depende de fuentes independientes, no solo de muchos medios en apariencia.
 
 ---
 
-**8. (Análisis de fuente/dato)** Una encuesta señala que un porcentaje creciente de jóvenes
-chilenos se informa principalmente a través de redes sociales, y que un porcentaje menor
-contrasta esa información con otras fuentes antes de compartirla. ¿Qué riesgo y qué
-responsabilidad ciudadana se desprenden de este dato?
+**8. (Alternativas — análisis de datos)** Un creciente porcentaje de jóvenes se informa por redes sociales y pocos contrastan la información antes de compartirla. ¿Qué riesgo y responsabilidad ciudadana se desprenden?
+a) Riesgo: ninguno. Responsabilidad: compartir todo rápido
+b) Riesgo: que las redes sociales desaparezcan. Responsabilidad: dejar de informarse por internet y volver solo a la televisión
+c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática, verificando fuentes antes de compartir
+d) Riesgo: la concentración de medios. Responsabilidad: comprar periódicos
 
-✅ Respuesta esperada: El riesgo es la propagación de desinformación sin verificación previa,
-dado que muchas personas comparten contenido sin contrastarlo. La responsabilidad ciudadana que
-se desprende es desarrollar hábitos de **alfabetización mediática**: verificar fuentes antes de
-compartir información, especialmente en temas de interés público.
-💬 *Retroalimentación:* Un buen análisis conecta el dato estadístico con una consecuencia
-concreta para la calidad del debate democrático, y con una acción ciudadana posible.
+✅ Respuesta correcta: **c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática, verificando fuentes antes de compartir**
+💬 *Retroalimentación:* Se conecta el dato con una consecuencia para el debate y una acción ciudadana posible.
 
 ---
 
@@ -1336,45 +1282,42 @@ nuevas tecnologías.
 
 ---
 
-**11. (Términos pareados)** Relaciona cada situación con la categoría a la que pertenece:
+**11. (Alternativas — unir)** Une cada situación con su categoría:
 
 1) Oportunidad — 2) Riesgo — 3) Ambas a la vez, según el caso
 
-a) Una campaña de firmas digitales que logra que una autoridad responda a una demanda vecinal
-b) La difusión masiva de un rumor falso sobre un proceso electoral
-c) El uso de redes sociales para informarse de política
+Situaciones: (A) Una campaña de firmas digitales que logra que una autoridad responda a una demanda vecinal — (B) La difusión masiva de un rumor falso sobre un proceso electoral — (C) El uso de redes sociales para informarse de política
 
-✅ Respuesta correcta: **1-a, 2-b, 3-c**
-💬 *Retroalimentación:* Informarse por redes sociales puede ser tanto una oportunidad (acceso
-ampliado a información) como un riesgo (exposición a desinformación), dependiendo de cómo se use
-la herramienta y con qué criterio crítico.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-A, 3-C
+c) 1-C, 2-B, 3-A
+d) 1-A, 2-C, 3-B
 
----
-
-**12. (Análisis de caso)** Una plataforma de streaming de noticias es propiedad de un solo grupo
-económico que también controla dos canales de televisión y un periódico de circulación nacional
-en el mismo país. ¿Qué riesgo democrático ejemplifica esta situación y qué podría mitigarlo?
-
-✅ Respuesta esperada: Ejemplifica el riesgo de **concentración de la propiedad de medios**, que
-reduce el pluralismo de voces disponibles para la ciudadanía. Podría mitigarse mediante
-regulación que promueva la diversidad de propietarios de medios, el fortalecimiento de medios
-independientes o comunitarios, y el desarrollo de hábitos ciudadanos de consumir fuentes
-diversas.
-💬 *Retroalimentación:* Reconocer tanto el riesgo estructural (concentración) como posibles
-respuestas (regulación, pluralismo, hábitos ciudadanos) muestra una evaluación completa, tal
-como pide el verbo "evaluar" del OA.
+✅ Respuesta correcta: **a) 1-A, 2-B, 3-C**
+💬 *Retroalimentación:* Informarse por redes puede ser oportunidad o riesgo, según cómo se use y con qué criterio.
 
 ---
 
-**13. (Desarrollo breve)** Explica con un ejemplo cómo las nuevas tecnologías de la información
-pueden fortalecer la participación ciudadana más allá de las elecciones.
+**12. (Alternativas — análisis de caso)** Un solo grupo económico es dueño de una plataforma de noticias, dos canales de TV y un diario nacional. ¿Qué riesgo ejemplifica y qué podría mitigarlo?
+a) Desinformación coordinada; no se puede mitigar, porque los dueños de medios tienen derecho a publicar lo que quieran
+b) Pluralismo; no requiere medidas
+c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y prohibiendo los diarios digitales en el país que más se usan
+d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso
 
-✅ Respuesta esperada: Por ejemplo, plataformas de participación ciudadana permiten a las personas
-enviar propuestas, comentar proyectos de ley o presupuestos participativos, u organizar campañas
-de recolección de firmas para exigir a las autoridades que atiendan un problema específico,
-ampliando las formas de incidencia ciudadana más allá del voto periódico.
-💬 *Retroalimentación:* Una buena respuesta identifica una forma concreta de participación
-digital distinta del sufragio, conectada con el fortalecimiento de la democracia.
+✅ Respuesta correcta: **d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso**
+💬 *Retroalimentación:* Una evaluación completa reconoce el riesgo y posibles respuestas.
+
+---
+
+**13. (Varias correctas)** ¿Cuáles de estos son ejemplos de cómo las tecnologías de la información pueden fortalecer la participación más allá de las elecciones? Marca **todas** las correctas.
+a) Plataformas para enviar propuestas o comentar proyectos de ley
+b) Presupuestos participativos en línea
+c) Campañas digitales de firmas para exigir respuesta a un problema
+d) Difundir rumores sin verificar
+
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Difundir rumores no fortalece la participación, sino que la debilita.
 
 ---
 
@@ -1388,19 +1331,14 @@ masivos y las nuevas tecnologías para la vida en democracia.
 
 ---
 
-**15. (Análisis de caso)** Un partido político utiliza datos recopilados de redes sociales para
-enviar mensajes de campaña distintos a distintos grupos de votantes, sin informar públicamente
-qué criterios usó para definir esos grupos ni quién financió los mensajes. Evalúa este caso
-considerando tanto la participación democrática como el resguardo de la vida privada.
+**15. (Alternativas — análisis de caso)** Un partido usa datos de redes sociales para enviar mensajes distintos a distintos grupos, sin informar sus criterios ni quién los financió. ¿Qué evaluación es correcta?
+a) Es una práctica transparente y sin problemas, porque los partidos pueden usar los datos públicos de redes sociales como prefieran, sin informar quién financió los mensajes
+b) Afecta la participación, porque la ciudadanía no puede evaluar informadamente los mensajes, y la vida privada, porque se usan datos personales sin control claro de los usuarios
+c) Solo afecta la vida privada, no la participación, porque cada persona recibe mensajes según sus intereses y puede decidir libremente su voto sin conocer los criterios usados
+d) Solo es un problema técnico de informática
 
-✅ Respuesta esperada: Desde la participación democrática, la falta de transparencia sobre el
-financiamiento y los criterios de segmentación dificulta que la ciudadanía evalúe de forma
-informada los mensajes políticos que recibe. Desde el resguardo de la vida privada, el uso de
-datos personales para fines de segmentación política sin conocimiento claro de los usuarios
-compromete su derecho a controlar el uso de su información. Ambos problemas —microsegmentación
-opaca y uso no transparente de datos— están relacionados.
-💬 *Retroalimentación:* Este tipo de análisis integrado —conectando participación y vida
-privada en un mismo caso— es exactamente lo que busca evaluar este OA en su forma más completa.
+✅ Respuesta correcta: **b) Afecta la participación, porque la ciudadanía no puede evaluar informadamente los mensajes, y la vida privada, porque se usan datos personales sin control claro de los usuarios**
+💬 *Retroalimentación:* Microsegmentación opaca y uso no transparente de datos son problemas relacionados.
 
 ---
 

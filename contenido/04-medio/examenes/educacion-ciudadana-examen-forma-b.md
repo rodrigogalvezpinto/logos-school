@@ -12,7 +12,7 @@ ultima_actualizacion: 2026-11-01
 ## 4° Medio — Examen Libre de Validación de Estudios (Mineduc)
 
 **Duración:** 90 minutos
-**N° de preguntas:** 25 (10 de selección múltiple, 5 bloques de V/F o términos pareados, 10 de desarrollo)
+**N° de preguntas:** 25 de alternativas (algunas con varias respuestas correctas, indicadas con «marca todas las correctas»)
 **Puntaje total:** 55 puntos (ver Pauta de Corrección)
 **Objetivos de Aprendizaje evaluados:**
 - OA N°1: Institucionalidad democrática, representación y distribución del poder
@@ -35,8 +35,8 @@ ultima_actualizacion: 2026-11-01
 ### Instrucciones para la persona que rinde el examen
 
 1. Lee cada pregunta completa antes de responder.
-2. En las preguntas de **selección múltiple**, marca con una X la alternativa correcta. Solo una opción es correcta.
-3. En las preguntas de **desarrollo**, responde en el espacio asignado, con letra clara. Las preguntas de "desarrollo breve" esperan 2 a 4 líneas; las de "desarrollo extenso" esperan un párrafo completo y argumentado.
+2. En las preguntas de **alternativas**, marca con una X la alternativa correcta. Salvo que se indique otra cosa, solo una opción es correcta.
+3. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas para obtener el puntaje.
 4. No se permite el uso de celulares, apuntes ni material de apoyo.
 5. Administra tu tiempo: se recomienda no destinar más de 3 a 4 minutos por pregunta.
 6. Esta es una prueba de **práctica**, elaborada de forma independiente a partir de contenidos curriculares oficiales. No reproduce preguntas reales de ningún examen Mineduc ni reutiliza las preguntas de la guía de estudio ni de las pruebas de unidad de este curso.
@@ -50,10 +50,10 @@ ultima_actualizacion: 2026-11-01
 
 **1.** Una vez contados los votos de una elección municipal, ¿qué órgano tiene a su cargo **calificar y proclamar** el resultado oficial?
 
-a) El Servicio Electoral
-b) El Tribunal Calificador de Elecciones y los tribunales electorales regionales
-c) La Contraloría General de la República
-d) La Cámara de Diputadas y Diputados
+a) El Servicio Electoral (Servel), que además organiza las mesas de votación
+b) La Cámara de Diputadas y Diputados, mediante una comisión especial de escrutinio
+c) La Contraloría General de la República, que revisa la legalidad de los actos públicos
+d) El Tribunal Calificador de Elecciones y los tribunales electorales regionales
 
 ---
 
@@ -66,24 +66,34 @@ d) Candidatura independiente
 
 ---
 
-**3.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+**3.** (Varias correctas — 4 puntos) ¿Cuáles de las siguientes afirmaciones son **verdaderas**? Marca **todas** las correctas.
 
-___ El Congreso Nacional puede aumentar el gasto público por iniciativa propia, sin necesidad del Presidente.
-___ La fiscalización política de los actos del gobierno es atribución exclusiva de la Cámara de Diputadas y Diputados.
-___ Los alcaldes y alcaldesas se eligen por mayoría relativa: gana la candidatura más votada, sin segunda vuelta.
-___ El Servicio Electoral es el órgano que proclama oficialmente los resultados de las elecciones.
-
----
-
-**4.** Explica, en un desarrollo breve, de qué manera la posibilidad de postular como **candidatura independiente** afecta la distribución del poder en la sociedad, y menciona al menos una condición que ese mecanismo exige.
+a) El Congreso Nacional puede aumentar el gasto público por iniciativa propia, sin necesidad del Presidente.
+b) La fiscalización política de los actos del gobierno es atribución exclusiva de la Cámara de Diputadas y Diputados.
+c) Los alcaldes y alcaldesas se eligen por mayoría relativa: gana la candidatura más votada, sin segunda vuelta.
+d) El Servicio Electoral es el órgano que proclama oficialmente los resultados de las elecciones.
 
 ---
 
-**5. (Estímulo)** Lee el siguiente caso:
+**4.** (Alternativas — 2 puntos) ¿Cómo afecta la posibilidad de postular como **candidatura independiente** a la distribución del poder, y qué condición exige?
+
+a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo
+b) Concentra el poder en los partidos políticos, porque las candidaturas independientes deben afiliarse a uno para inscribirse; no exige ninguna condición adicional
+c) Elimina los partidos políticos del sistema, porque todos los candidatos pasan a competir sin afiliación; exige haber sido militante de un partido durante cinco años
+d) No afecta la distribución del poder, porque los independientes no pueden ocupar cargos de representación; exige ser abogado y tener experiencia en cargos públicos
+
+---
+
+**5.** (Varias correctas — 3 puntos) Lee el siguiente caso:
 
 *"Una diputada presenta un proyecto de ley que aumenta el gasto fiscal destinado a hospitales rurales. En la tramitación, se objeta su admisibilidad porque la Constitución reserva al Presidente la iniciativa de ley en materia de aumento del gasto público. Tiempo después, el Ejecutivo presenta su propio proyecto sobre el tema, que el Congreso discute, modifica y finalmente aprueba."*
 
-Desarrolla, en un párrafo, cómo este caso ilustra que legislar en Chile es una tarea **compartida** entre el Congreso y el Presidente, identificando al menos dos reglas institucionales concretas que aparecen en el caso y explicando su función dentro de la distribución del poder.
+¿Qué afirmaciones explican correctamente por qué legislar en Chile es una tarea **compartida** entre el Congreso y el Presidente? Marca **todas** las correctas.
+
+a) Existe colegislación: el Congreso discute, modifica y aprueba los proyectos que también puede presentar el Ejecutivo
+b) La Constitución reserva al Presidente la iniciativa exclusiva para aumentar el gasto público
+c) Estas reglas distribuyen y limitan el poder: ningún órgano legisla solo sobre el gasto
+d) El Congreso puede aprobar cualquier gasto sin participación del Ejecutivo
 
 ---
 
@@ -92,47 +102,59 @@ Desarrolla, en un párrafo, cómo este caso ilustra que legislar en Chile es una
 
 **6.** ¿Cuál de las siguientes decisiones corresponde a una **política fiscal**?
 
-a) El Banco Central modifica la tasa de interés de referencia
-b) El Estado aumenta la recaudación de impuestos para financiar más salas de urgencias en hospitales públicos
-c) Una empresa privada decide subir los sueldos de sus trabajadores
-d) Un municipio organiza un campeonato deportivo vecinal
+a) El Banco Central modifica la tasa de interés de referencia para controlar la inflación del país
+b) Un municipio organiza un campeonato deportivo vecinal con aportes de empresas privadas de la comuna
+c) Una empresa privada decide subir los sueldos de sus trabajadores para retenerlos frente a la competencia
+d) El Estado aumenta la recaudación de impuestos para financiar más salas de urgencias en hospitales públicos
 
 ---
 
 **7.** Un país decide orientar su modelo de desarrollo hacia la **producción con mayor valor agregado**. ¿Cuál de las siguientes medidas es coherente con esa orientación?
 
-a) Aumentar la exportación de materias primas sin procesar
-b) Fomentar que lo que se extrae del territorio se transforme localmente en productos elaborados y servicios complejos
-c) Reducir toda inversión en formación de capital humano
-d) Depender de una única actividad extractiva como fuente de empleo
+a) Fomentar que lo que se extrae del territorio se transforme localmente en productos elaborados y servicios complejos
+b) Aumentar la exportación de materias primas sin procesar, para aprovechar los altos precios internacionales
+c) Reducir toda inversión en formación de capital humano, para destinar esos recursos a la extracción
+d) Depender de una única actividad extractiva como principal fuente de empleo e ingresos para el país
 
 ---
 
-**8.** Relaciona cada concepto de la columna A con su definición en la columna B, escribiendo el número que corresponda.
+**8.** (Alternativas — 4 puntos) Une cada concepto con su definición.
 
-**Columna A**
-1) Modelo extractivo
-2) Desarrollo sustentable
-3) Política fiscal
-4) Escala territorial local
+(1) Modelo extractivo — (2) Desarrollo sustentable — (3) Política fiscal — (4) Escala territorial local
 
-**Columna B**
-___ Nivel de análisis que mira el impacto concreto del desarrollo en la vida de las personas de cada lugar.
-___ Modelo centrado en la extracción y exportación de recursos naturales.
-___ Desarrollo que satisface necesidades del presente sin comprometer a las generaciones futuras.
-___ Decisiones del Estado sobre recaudación de impuestos y gasto público.
+(A) Nivel de análisis que mira el impacto concreto del desarrollo en la vida de las personas de cada lugar.
+(B) Modelo centrado en la extracción y exportación de recursos naturales.
+(C) Desarrollo que satisface necesidades del presente sin comprometer a las generaciones futuras.
+(D) Decisiones del Estado sobre recaudación de impuestos y gasto público.
 
----
+¿Qué combinación es correcta?
 
-**9.** Explica, en un desarrollo breve, cómo el cambio climático evidencia límites de un modelo de desarrollo basado en el uso intensivo de combustibles fósiles, considerando su impacto en la vida digna de las personas.
+a) 1-A, 2-B, 3-C, 4-D
+b) 1-B, 2-D, 3-C, 4-A
+c) 1-C, 2-B, 3-A, 4-D
+d) 1-B, 2-C, 3-D, 4-A
 
 ---
 
-**10. (Estímulo)** Lee el siguiente caso:
+**9.** (Alternativas — 2 puntos) ¿Cómo evidencia el cambio climático los límites de un modelo de desarrollo basado en el uso intensivo de combustibles fósiles?
+
+a) No tiene relación: el cambio climático solo depende de ciclos naturales del planeta, por lo que el modelo de desarrollo puede mantenerse sin afectar la vida de las personas
+b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras
+c) Lo demuestra porque los combustibles fósiles son inagotables, y el problema es solo que su uso intensivo encarece la energía para las comunidades más pobres
+d) Solo afecta a la economía de otros países, que dependen más del petróleo, mientras que en Chile sus efectos sobre la vida de las comunidades son irrelevantes
+
+---
+
+**10.** (Varias correctas — 3 puntos) Lee el siguiente caso:
 
 *"Una región minera de Chile evalúa dos caminos para los próximos veinte años: (A) ampliar la extracción del mineral que hoy sostiene la mayoría del empleo local, o (B) invertir en diversificar la economía regional hacia turismo sustentable y servicios vinculados a la minería con mayor valor agregado. Ambas opciones tienen defensores y detractores entre los habitantes."*
 
-Desarrolla, en un párrafo, una comparación de ambas opciones usando las **tres dimensiones de la sustentabilidad** (económica, social y ambiental) y explicando por qué el análisis a **escala territorial local** puede llevar a una conclusión distinta de la que daría el ingreso promedio nacional.
+¿Qué afirmaciones comparan correctamente ambas opciones? Marca **todas** las correctas.
+
+a) En la dimensión económica, (A) mantiene empleo pero aumenta la dependencia de los precios internacionales; (B) busca diversificar
+b) En las dimensiones social y ambiental hay que considerar la vida digna, la permanencia en el territorio y los impactos ecológicos de cada opción
+c) A escala local se ve quién recibe beneficios y quién soporta costos, algo que el ingreso promedio nacional oculta
+d) El ingreso promedio nacional basta para decidir, porque refleja igual a todas las regiones
 
 ---
 
@@ -141,10 +163,10 @@ Desarrolla, en un párrafo, una comparación de ambas opciones usando las **tres
 
 **11.** Una persona trabajadora sospecha que su empleador no cumple la normativa sobre jornada y descanso. ¿A qué institución chilena corresponde **fiscalizar** ese cumplimiento?
 
-a) Al Servicio Electoral
-b) A la Contraloría General de la República
+a) Al Servicio Electoral y su registro de empleadores
+b) A la Contraloría General de la República y sus inspectores
 c) A la Dirección del Trabajo y su servicio de inspección
-d) Al Tribunal Constitucional
+d) Al Tribunal Constitucional, que revisa las leyes laborales
 
 ---
 
@@ -157,31 +179,43 @@ d) 2030
 
 ---
 
-**13.** Relaciona cada mecanismo de protección laboral de la columna A con su contenido en la columna B, escribiendo el número que corresponda.
+**13.** (Alternativas — 4 puntos) Une cada mecanismo de protección laboral con su contenido.
 
-**Columna A**
-1) Permiso postnatal
-2) Postnatal parental
-3) Derecho a la desconexión
-4) Sala cuna
+(1) Permiso postnatal — (2) Postnatal parental — (3) Derecho a la desconexión — (4) Sala cuna
 
-**Columna B**
-___ Mecanismo que vincula el cuidado infantil con la organización del trabajo, para que tener hijos o hijas no obligue a abandonar el empleo.
-___ Período remunerado garantizado a la madre trabajadora tras el nacimiento, hito de la protección de la maternidad.
-___ Derecho de las personas trabajadoras a no responder exigencias laborales por al menos 12 horas continuas, en los supuestos que la ley establece.
-___ Posibilidad de compartir entre ambos progenitores el período de cuidado del recién nacido.
+(A) Mecanismo que vincula el cuidado infantil con la organización del trabajo, para que tener hijos o hijas no obligue a abandonar el empleo.
+(B) Período remunerado garantizado a la madre trabajadora tras el nacimiento, hito de la protección de la maternidad.
+(C) Derecho de las personas trabajadoras a no responder exigencias laborales por al menos 12 horas continuas, en los supuestos que la ley establece.
+(D) Posibilidad de compartir entre ambos progenitores el período de cuidado del recién nacido.
 
----
+¿Qué combinación es correcta?
 
-**14.** Un taller no entrega los equipos de protección necesarios y pide a sus trabajadores firmar un documento que los hace responsables de cualquier accidente. Una trabajadora teme perder su empleo si se niega. Explica por qué la firma no elimina la obligación del empleador de proteger la salud y seguridad, e identifica la asimetría de poder presente en el caso.
+a) 1-D, 2-B, 3-C, 4-A
+b) 1-B, 2-A, 3-C, 4-D
+c) 1-B, 2-D, 3-C, 4-A
+d) 1-A, 2-D, 3-B, 4-C
 
 ---
 
-**15. (Estímulo)** Lee el siguiente caso:
+**14.** (Alternativas — 2 puntos) Un taller no entrega los equipos de protección necesarios y pide a sus trabajadores firmar un documento que los hace responsables de cualquier accidente. Una trabajadora teme perder su empleo si se niega. ¿Qué análisis es correcto?
+
+a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre
+b) Si la trabajadora firma voluntariamente el documento, el empleador queda liberado de toda obligación de prevención, porque el acuerdo escrito entre las partes prevalece sobre la ley
+c) No hay asimetría de poder, porque firmar es voluntario y la trabajadora puede buscar otro empleo; el problema es solo que el taller no compró los equipos de protección a tiempo
+d) La responsabilidad recae siempre en la trabajadora que firma, porque al aceptar las condiciones asume los riesgos del trabajo; el empleador solo debe pagarle el sueldo acordado
+
+---
+
+**15.** (Varias correctas — 3 puntos) Lee el siguiente caso:
 
 *"Durante más de una década, organizaciones de trabajadoras documentaron que la distribución desigual del cuidado de hijos e hijas expulsaba a muchas mujeres del empleo remunerado. Presentaron la demanda ante autoridades, la sostuvieron en el debate público y, años después, se reconocieron mecanismos de cuidado vinculados al trabajo y períodos de cuidado compartibles entre ambos progenitores."*
 
-Desarrolla, en un párrafo, qué muestra este caso sobre el **aporte de los movimientos y organizaciones sociales** al fortalecimiento de los derechos laborales, y nombra al menos un hito concreto de la evolución institucional chilena relacionado con la protección de la maternidad o la corresponsabilidad en el cuidado.
+¿Qué afirmaciones son correctas sobre el aporte de los movimientos y organizaciones sociales? Marca **todas** las correctas.
+
+a) La demanda sostenida y documentada por organizaciones sociales precedió a la norma: los derechos fueron una conquista colectiva
+b) El permiso paternal por nacimiento de 2005 y el postnatal parental de 2011 son hitos de la corresponsabilidad en el cuidado
+c) El caso muestra cómo la organización social contribuye al fortalecimiento institucional de los derechos laborales
+d) Los derechos laborales fueron concedidos sin ninguna demanda previa
 
 ---
 
@@ -199,31 +233,41 @@ d) Concentración de medios
 
 **17.** En un proceso de selección de personal, una empresa exige a las postulantes mujeres declarar si están embarazadas o planean estarlo, requisito que no aplica a postulantes hombres. ¿Con qué desafío democrático se relaciona principalmente esta práctica?
 
-a) La diversidad étnica y cultural
+a) La diversidad étnica y cultural en el trabajo
 b) La equidad de género y la igualdad de trato
-c) La libertad de expresión
-d) La desinformación
+c) La libertad de expresión de las postulantes
+d) La desinformación en los procesos de selección
 
 ---
 
-**18.** Marca si cada afirmación es **verdadera (V)** o **falsa (F)**:
+**18.** (Varias correctas — 4 puntos) ¿Cuáles de las siguientes afirmaciones son **verdaderas**? Marca **todas** las correctas.
 
-___ El reconocimiento de la diversidad étnica y cultural puede convivir con la igualdad ante la ley en una democracia.
-___ La libertad positiva se refiere a las condiciones reales que permiten ejercer efectivamente una decisión, no solo a la ausencia de prohibiciones.
-___ Disentir sobre qué políticas aplicar para superar la pobreza es parte del debate legítimo en una democracia.
-___ La solidaridad obliga a todas las personas a pensar políticamente de la misma manera.
-
----
-
-**19.** Una empresa anuncia una reorganización interna que cambiará los horarios y condiciones de un grupo de trabajadores de distintas nacionalidades, sin que existiera ningún mecanismo por el que esos trabajadores pudieran conocer anticipadamente ni opinar sobre los cambios. Explica, en un desarrollo breve, cómo se relaciona esta situación con la **inclusión**, la **igualdad de trato** o la **participación** en la vida laboral.
+a) El reconocimiento de la diversidad étnica y cultural puede convivir con la igualdad ante la ley en una democracia.
+b) La libertad positiva se refiere a las condiciones reales que permiten ejercer efectivamente una decisión, no solo a la ausencia de prohibiciones.
+c) Disentir sobre qué políticas aplicar para superar la pobreza es parte del debate legítimo en una democracia.
+d) La solidaridad obliga a todas las personas a pensar políticamente de la misma manera.
 
 ---
 
-**20. (Estímulo)** Lee el siguiente caso:
+**19.** (Alternativas — 2 puntos) Una empresa anuncia una reorganización que cambiará los horarios y condiciones de un grupo de trabajadores de distintas nacionalidades, sin ningún mecanismo para que conozcan anticipadamente u opinen sobre los cambios. ¿Qué análisis es más adecuado?
+
+a) No hay ningún problema, porque la empresa siempre puede decidir sola sobre sus horarios y condiciones, sin ninguna consecuencia para la participación de sus trabajadores
+b) Demuestra que existe un derecho jurídico universal a ser consultado en toda decisión de la empresa, por lo que la reorganización es nula y debe revertirse de inmediato
+c) Es solo un problema de idioma: los trabajadores extranjeros no entendieron el anuncio, y bastaría con traducirlo para resolver la situación de participación
+d) Evidencia un problema de inclusión y participación: faltan mecanismos para que esos trabajadores conozcan y opinen sobre decisiones que los afectan
+
+---
+
+**20.** (Varias correctas — 3 puntos) Lee el siguiente caso:
 
 *"Un municipio entrega ayudas sociales —alimentación, materiales, vales— solo a las familias que asisten regularmente a los actos públicos del alcalde y se afilian a su movimiento local. Las familias que no participan de esas actividades, aunque tienen igual o mayor necesidad, no reciben el apoyo."*
 
-Desarrolla, en un párrafo, cómo este caso puede analizarse con los conceptos de **igualdad de trato**, **solidaridad** y **participación**, y por qué condicionar un beneficio público a la adhesión política es un problema democrático independientemente de qué alcalde lo haga.
+¿Qué afirmaciones analizan correctamente el caso? Marca **todas** las correctas.
+
+a) Vulnera la igualdad de trato: el beneficio se condiciona a la adhesión política y no a la necesidad
+b) Contradice la solidaridad: el beneficio público debe servir a quienes más lo necesitan, no a la lealtad partidista
+c) La participación condicionada deja de ser libre, y eso es un problema democrático sin importar qué alcalde lo haga
+d) Es aceptable si el alcalde pertenece a un partido con el que se está de acuerdo
 
 ---
 
@@ -232,53 +276,65 @@ Desarrolla, en un párrafo, cómo este caso puede analizarse con los conceptos d
 
 **21.** ¿Cuál de los siguientes ejemplos ilustra una **virtud** de los medios y las nuevas tecnologías para la democracia?
 
-a) Una plataforma oculta quién financia sus mensajes políticos
+a) Una plataforma oculta quién financia sus mensajes políticos, para que los votantes se concentren solo en el contenido de las propuestas
 b) Vecinos de una comuna usan una plataforma de participación digital para presentar propuestas y hacer seguimiento a la respuesta de su municipio
-c) Un algoritmo muestra a cada usuario solo contenido que confirma lo que ya piensa
-d) Una cuenta anónima difunde rumores sin fuente durante una elección
+c) Un algoritmo muestra a cada usuario solo el contenido que confirma lo que ya piensa, para que se sienta cómodo al informarse sobre política
+d) Una cuenta anónima difunde rumores sin fuente durante una elección, para que los votantes conozcan versiones que los medios tradicionales no publican
 
 ---
 
 **22.** Una aplicación comienza a usar los datos de ubicación de sus usuarios para un nuevo fin comercial. Para que ese tratamiento sea legítimo, la empresa debe contar con:
 
 a) El consentimiento informado de los usuarios u otra habilitación legal aplicable
-b) La aprobación del Servicio Electoral
-c) Un permiso de la Contraloría General de la República
-d) El patrocinio de un medio de comunicación nacional
+b) La aprobación previa del Servicio Electoral, que registra los datos de la ciudadanía
+c) Un permiso de la Contraloría General de la República para usar datos de personas
+d) El patrocinio de un medio de comunicación nacional que respalde el nuevo uso
 
 ---
 
-**23.** Relaciona cada fenómeno de la columna A con su descripción en la columna B, escribiendo el número que corresponda.
+**23.** (Alternativas — 4 puntos) Une cada fenómeno con su descripción.
 
-**Columna A**
-1) Desinformación coordinada
-2) Cámara de eco
-3) Microsegmentación política
-4) Alfabetización mediática y digital
+(1) Desinformación coordinada — (2) Cámara de eco — (3) Microsegmentación política — (4) Alfabetización mediática y digital
 
-**Columna B**
-___ Práctica de verificar fuentes, identificar sesgos e intereses, y proteger los datos personales.
-___ Entorno digital en que los algoritmos refuerzan las creencias previas del usuario mostrándole contenido afín.
-___ Difusión organizada y masiva de contenido falso o engañoso, a menudo con fines de manipulación.
-___ Envío de mensajes de campaña diferenciados a perfiles de votantes definidos a partir de sus datos.
+(A) Práctica de verificar fuentes, identificar sesgos e intereses, y proteger los datos personales.
+(B) Entorno digital en que los algoritmos refuerzan las creencias previas del usuario mostrándole contenido afín.
+(C) Difusión organizada y masiva de contenido falso o engañoso, a menudo con fines de manipulación.
+(D) Envío de mensajes de campaña diferenciados a perfiles de votantes definidos a partir de sus datos.
 
----
+¿Qué combinación es correcta?
 
-**24.** Reflexiona sobre tu propio uso de medios y redes sociales: identifica una **oportunidad** que estas herramientas te ofrecen para participar o informarte, un **riesgo** al que te expones, y una práctica que podrías discutir y adoptar junto a un grupo (tu curso, tu familia o tu comunidad) para aprovechar la primera y reducir el segundo. Desarrollo breve.
+a) 1-A, 2-B, 3-C, 4-D
+b) 1-C, 2-B, 3-D, 4-A
+c) 1-C, 2-D, 3-B, 4-A
+d) 1-B, 2-C, 3-D, 4-A
 
 ---
 
-**25. (Estímulo)** Lee el siguiente caso:
+**24.** (Alternativas — 2 puntos) Sobre el uso de medios y redes sociales, ¿qué combinación clasifica correctamente una oportunidad, un riesgo y una práctica grupal de alfabetización mediática?
+
+a) Oportunidad: la desinformación, que muestra puntos de vista distintos; riesgo: participar en debates públicos; práctica: compartir todo sin leer, para que circule más información
+b) Oportunidad: exponer los datos personales para conectarse con más personas; riesgo: informarse en medios distintos; práctica: no conversar nunca en el curso sobre lo que se ve en redes
+c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir
+d) Oportunidad y riesgo son lo mismo, porque toda información puede usarse bien o mal; por eso no hace falta ninguna práctica grupal, basta con que cada persona use su criterio
+
+---
+
+**25.** (Varias correctas — 3 puntos) Lee el siguiente caso:
 
 *"Un rumor falso sobre el presupuesto de una municipalidad se vuelve viral en redes sociales, amplificado por cientos de cuentas que publican el mismo texto en pocas horas. Un medio local investiga, verifica los documentos públicos y publica una información que corrige el rumor con evidencia."*
 
-Desarrolla, en un párrafo, qué **amenaza** y qué **virtud** de los medios y las nuevas tecnologías para la democracia ilustra cada parte de este caso, y qué rol tiene la alfabetización mediática de la ciudadanía frente a situaciones como esta.
+¿Qué afirmaciones son correctas? Marca **todas** las correctas.
+
+a) La primera parte ilustra una amenaza: desinformación coordinada, amplificada por un patrón masivo y simultáneo
+b) La segunda parte ilustra una virtud: la verificación periodística con evidencia corrige el debate público
+c) La alfabetización mediática permite a la ciudadanía contrastar fuentes, identificar intereses y no amplificar sin verificar
+d) Que muchas cuentas publiquen lo mismo prueba que el rumor es verdadero
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -288,34 +344,34 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## PAUTA DE CORRECCIÓN
 
-**Puntaje:** las preguntas de selección múltiple valen 1 punto; los bloques de V/F y de términos pareados otorgan 1 punto por cada afirmación/par correctamente resuelto (4 puntos en total por bloque); las preguntas de desarrollo breve valen 2 puntos y las de desarrollo extenso valen 3 puntos, repartidos por componentes según el criterio indicado. En todas las preguntas de desarrollo se aceptan formulaciones equivalentes: se corrige el razonamiento y los conceptos, no la redacción literal.
+**Puntaje:** cada pregunta vale los puntos indicados en su enunciado (1, 2, 3 o 4). En las preguntas de «marca todas las correctas» y en las de unir, el puntaje se obtiene solo si la respuesta es completamente correcta.
 
 | N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
 |----|------|----|---------------------------------|---------|
-| 1 | Selección múltiple | OA 1 | b) Tribunal Calificador de Elecciones y tribunales electorales regionales (el Servel administra el proceso; no proclama resultados) | 1 |
-| 2 | Selección múltiple | OA 1 | c) Renovación alternada | 1 |
-| 3 | V/F (4 afirmaciones) | OA 1 | F – V – V – F | 4 |
-| 4 | Desarrollo breve | OA 1 | 2 pts: (1) explica que las candidaturas independientes amplían quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; (1) menciona una condición del mecanismo (reunir firmas/patrocinios de respaldo u otra exigencia legal equivalente) | 2 |
-| 5 | Desarrollo extenso | OA 1 | 3 pts: (1) identifica la colegislación Congreso–Presidente; (1) reconoce la iniciativa exclusiva del Presidente para aumentar el gasto público; (1) explica la función de esas reglas como distribución y limitación del poder (ningún órgano legisla solo sobre el gasto). Formulaciones equivalentes aceptadas | 3 |
-| 6 | Selección múltiple | OA 3 | b) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
-| 7 | Selección múltiple | OA 3 | b) Transformar localmente lo extraído en productos y servicios complejos | 1 |
-| 8 | Términos pareados | OA 3 | 4 – 1 – 2 – 3 | 4 |
-| 9 | Desarrollo breve | OA 3 | 2 pts: (1) relaciona el uso intensivo de combustibles fósiles como motor del modelo con la generación del cambio climático; (1) conecta sus efectos (sequías, incendios, escasez hídrica u otros) con la pérdida de condiciones de vida digna de comunidades concretas, incluidas generaciones futuras | 2 |
-| 10 | Desarrollo extenso | OA 3 | 3 pts: (1) compara ambas opciones en la dimensión económica (empleo, dependencia de precios internacionales, diversificación); (1) compara en dimensiones social y ambiental (vida digna, permanencia territorial, impactos ecológicos); (1) explica que a escala local se ve quién recibe beneficios y quién soporta costos, lo que el promedio nacional oculta. No se evalúa la opción preferida sino la calidad de la comparación | 3 |
-| 11 | Selección múltiple | OA 4 | c) Dirección del Trabajo y su servicio de inspección | 1 |
-| 12 | Selección múltiple | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
-| 13 | Términos pareados | OA 4 | 4 – 1 – 3 – 2 | 4 |
-| 14 | Desarrollo breve | OA 4 | 2 pts: (1) explica que la firma no libera al empleador de sus obligaciones de prevención y protección de la salud y seguridad; (1) identifica la dependencia económica y el temor a perder el empleo como asimetría que limita una decisión libre. Aceptar formulaciones equivalentes; no exigir que atribuya automáticamente toda responsabilidad por cualquier accidente al empleador | 2 |
-| 15 | Desarrollo extenso | OA 4 | 3 pts: (1) reconoce que la demanda sostenida y documentada por organizaciones sociales precedió a la norma (los derechos como conquista colectiva, no concesión); (1) nombra un hito concreto verificable (permiso paternal por nacimiento de 2005, postnatal parental 2011, sala cuna, reforma de negociación colectiva 2016-2017, reducción de jornada u otro correcto); (1) conecta el caso con el fortalecimiento institucional de derechos laborales | 3 |
-| 16 | Selección múltiple | OA 5 | b) Libertad positiva | 1 |
-| 17 | Selección múltiple | OA 5 | b) Equidad de género e igualdad de trato | 1 |
-| 18 | V/F (4 afirmaciones) | OA 5 | V – V – V – F | 4 |
-| 19 | Desarrollo breve | OA 5 | 2 pts: (1) identifica correctamente el concepto aplicado: inclusión/participación (ausencia de mecanismo para conocer y opinar) o igualdad de trato/oportunidades o libertad positiva si la argumenta coherentemente —se aceptan conceptos alternativos según la fundamentación; (1) explica que el problema es la falta de mecanismos participativos y de trato igualitario, no afirmar un derecho jurídico universal a ser consultado | 2 |
-| 20 | Desarrollo extenso | OA 5 | 3 pts: (1) identifica vulneración de la igualdad de trato (beneficio condicionado por adhesión política y no por necesidad); (1) relaciona la solidaridad con el fin del beneficio público (debe servir a quienes más lo necesitan, no a la lealtad partidista); (1) explica que la participación condicionada deja de ser libre, dañando un principio democrático con independencia de quién lo ejerza | 3 |
-| 21 | Selección múltiple | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |
-| 22 | Selección múltiple | OA 6 | a) Consentimiento informado u otra habilitación legal aplicable | 1 |
-| 23 | Términos pareados | OA 6 | 4 – 2 – 1 – 3 | 4 |
-| 24 | Desarrollo breve | OA 6 | 2 pts: (1) identifica una oportunidad y un riesgo concretos y correctamente clasificados (p. ej., acceso a información/participación vs. desinformación/exposición de datos); (1) propone una práctica grupal plausible de alfabetización mediática (verificación compartida, conversación crítica, pautas de consumo). Reflexión personal o grupal válida en formato de autoestudio | 2 |
-| 25 | Desarrollo extenso | OA 6 | 3 pts: (1) identifica la amenaza (desinformación coordinada, amplificada por patrón masivo simultáneo); (1) identifica la virtud (fiscalización/verificación periodística con evidencia que corrige el debate público); (1) explica el rol de la alfabetización mediática ciudadana (contrastar fuentes, identificar intereses, no amplificar sin verificar) | 3 |
+| 1 | Alternativas | OA 1 | d) Tribunal Calificador de Elecciones y tribunales electorales regionales (el Servel administra el proceso; no proclama resultados) | 1 |
+| 2 | Alternativas | OA 1 | c) Renovación alternada | 1 |
+| 3 | Varias correctas | OA 1 | **b y c.** La iniciativa para aumentar el gasto es exclusiva del Presidente, y la proclamación corresponde a la justicia electoral (Tricel y tribunales electorales regionales), no al Servel. | 4 |
+| 4 | Alternativas | OA 1 | **a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.** | 2 |
+| 5 | Varias correctas | OA 1 | **a, b y c.** | 3 |
+| 6 | Alternativas | OA 3 | d) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
+| 7 | Alternativas | OA 3 | a) Transformar localmente lo extraído en productos y servicios complejos | 1 |
+| 8 | Alternativas | OA 3 | **d) 1-B, 2-C, 3-D, 4-A.** | 4 |
+| 9 | Alternativas | OA 3 | **b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras.** | 2 |
+| 10 | Varias correctas | OA 3 | **a, b y c.** No se evalúa la opción preferida, sino la calidad de la comparación. | 3 |
+| 11 | Alternativas | OA 4 | c) Dirección del Trabajo y su servicio de inspección | 1 |
+| 12 | Alternativas | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
+| 13 | Alternativas | OA 4 | **c) 1-B, 2-D, 3-C, 4-A.** | 4 |
+| 14 | Alternativas | OA 4 | **a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre.** | 2 |
+| 15 | Varias correctas | OA 4 | **a, b y c.** | 3 |
+| 16 | Alternativas | OA 5 | b) Libertad positiva | 1 |
+| 17 | Alternativas | OA 5 | b) Equidad de género e igualdad de trato | 1 |
+| 18 | Varias correctas | OA 5 | **a, b y c.** La solidaridad es apoyo mutuo, no uniformidad de pensamiento político. | 4 |
+| 19 | Alternativas | OA 5 | **d) Evidencia un problema de inclusión y participación: faltan mecanismos para que esos trabajadores conozcan y opinen sobre decisiones que los afectan.** Se pueden fundamentar también igualdad de trato o libertad positiva; el problema es la falta de mecanismos participativos, no un derecho universal a ser consultado. | 2 |
+| 20 | Varias correctas | OA 5 | **a, b y c.** | 3 |
+| 21 | Alternativas | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |
+| 22 | Alternativas | OA 6 | a) Consentimiento informado u otra habilitación legal aplicable | 1 |
+| 23 | Alternativas | OA 6 | **b) 1-C, 2-B, 3-D, 4-A.** | 4 |
+| 24 | Alternativas | OA 6 | **c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir.** | 2 |
+| 25 | Varias correctas | OA 6 | **a, b y c.** | 3 |
 
 **Puntaje total de la prueba: 55 puntos.**

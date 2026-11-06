@@ -1137,3 +1137,81 @@ Las otras materias conservan sus revisiones previas salvo hallazgo explícito; e
 **Inglés6B simulacro —25/25ítems resueltos,3correcciones.** P12 (emoción literal del texto) estaba en OA8 siendo lectura literal → reasignada a OA5, con nota en el apartado; P14 exigía literalmente "because" → pauta ahora acepta justificación coherente sin el conector; P10 etiquetada "pregunta abierta — verdadero o falso" se clasificaba como desarrollo → etiquetada V/F cerrado seleccionable; recuentos de tipos/OA y tabla de especificaciones actualizados (11cerradas/14abiertas; OA5×6,OA6×5,OA8×4,OA14×5,OA15×5). Regresión: **26/26 casos**. **Pendiente: segunda resolución independiente de estas3correcciones.**
 
 **Pruebas del lote:** suite focal `--noconftest tests/test_parser_contenido.py tests/test_parser_prueba_examen.py scripts/tests/test_importar_contenido.py scripts/tests/test_validar_evaluaciones_markdown.py scripts/tests/test_auditar_fuentes_curriculares.py tests/test_evaluaciones_detalle.py::test_desarrollo_conserva_pauta_y_rubrica_sin_veredicto_automatico` → **209aprobadas/210,1omitida** (integraciónPostgreSQL: requiere `LOGOS_AUDIT_DATABASE_URL`; con ella la misma prueba ya pasó sobre la base aislada),1aviso (4tests fallaron antes de cada corrección; reproducidos). Nuevo defecto educativo encontrado y corregido: contradicción de pauta en Inglés5B P9 y desajuste factual en Historia5B P3/guía. **Pendientes para el siguiente lote:** Inglés7B/8B (50ítems nuevos del simulacro), estímulos visuales1B–3B e Inglés5B/6B, deltas4M (Ciudadana/Ciencias) y segundas resoluciones señaladas. Sin reauditar ítems aprobados.
+
+### 15.23 Conversión total a alternativas (decisión del 2026-11-06) — material, parser y pruebas
+
+**Decisión del usuario:** todas las respuestas de todos los materiales pasan a alternativas, con una sola correcta o con varias correctas («marca todas las correctas», corrección todo o nada), además de verdadero/falso. Motivo: la app no corrige texto libre de forma confiable y las 3.299 preguntas abiertas (cerca del 50 % de pruebas y simulacros) no contaban para la nota. Las versiones abiertas se conservan sin pérdida en `docs/banco-preguntas-abiertas/` (respaldo exportado desde `e6336af`) y en el historial git.
+
+**Alcance ejecutado:** los 12 cursos y las 58 asignaturas: guías, 156 pruebas de unidad y 50 simulacros, es decir, los 264 recursos educativos más el tablero. Cada pregunta abierta se reescribió como ítem cerrado, conservando su OA, su intención evaluativa y la explicación de la pauta. Los ítems de unir pasan a «¿qué combinación es correcta?» y los bloques V/F múltiples, a «marca todas las verdaderas». Los puntajes declarados de los simulacros se conservan.
+
+**Textos residuales también actualizados:** instrucciones, hojas de respuesta (antes listaban solo las cerradas), columna «Tipo» de la pauta, tablas de especificaciones «Cerradas | Desarrollo» (45 archivos; ahora una sola columna «Alternativas») y rúbricas manuales (por ejemplo, la tabla «Pregunta manual» de Lengua 4M).
+
+**Resultado medido con el código actual:**
+
+| Tipo de pregunta | Cantidad |
+|---|---|
+| Alternativas | 5.031 |
+| Verdadero/falso | 850 |
+| Varias correctas | 269 |
+| Desarrollo breve (abiertas) | **0** |
+| **Total** | **6.150** |
+
+- El validador `validar_evaluaciones_markdown.py` no encontró discrepancias en 265 archivos.
+- `fijar_oa_por_pregunta.py` resolvió el OA de todas las preguntas de prueba en los 12 cursos.
+- Importación completa en una SQLite desechable (sin tocar la base de desarrollo): 6.150 preguntas y **0 sin OA**.
+
+**Parser (`parser_prueba_examen.py`):** un V/F solo se considera de respuesta escrita cuando hay verbos imperativos («justifica», «explica», «corrige»…) o «con justificación» en la etiqueta. Antes bastaban «argumento» (sustantivo), «explica» dentro del estímulo o «to explain» en infinitivo, y eso convertía en abiertos ítems autocorregibles. Hay regresiones sintéticas para ambos casos.
+
+**Pruebas ejecutadas en esta sesión:**
+- Backend completo: **714 aprobadas, 1 omitida** (5 min 57 s).
+- `scripts/tests`: **55 aprobadas, 1 omitida**.
+- Frontend: **95/95** en 14 archivos; `ng build` correcto.
+- Se actualizaron los 44 tests del parser fijados al contenido abierto antiguo. Conservan su propósito (OA, clave = opción, estímulo correcto) y no se relajó ningún control.
+- Nueva guarda de corpus: `test_corpus_completo_sin_preguntas_abiertas_y_con_claves_validas` exige 0 abiertas y claves válidas en los 264 recursos.
+
+**Hallazgos educativos corregidos durante la conversión** (detalle en la bitácora de trabajo):
+
+| Curso | Recurso | Corrección |
+|---|---|---|
+| 8B | Historia guía OA18 #3 | Opciones equivalentes |
+| 8B | Historia simulacro P8 | Anacronismo Valladolid/Leyes Nuevas |
+| 8B | Lengua guía OA16 #2 | «les» → «nos» |
+| 1M | Ciencias guía OA14 #3 | Clasificación de eclipses |
+| 2M | Historia guía OA10 #3 | Orden de golpes: Uruguay antes que Chile |
+| 2M | Inglés guía OA9 #5 y OA10 #8 | Gramática |
+| 3M | Ed. Ciudadana guía OA4 #10 | La tasa la fija el Banco Central, no el gobierno |
+| 6B | Ciencias Vida U P9 | «Vello facial» era ambiguo como cambio «común a ambos sexos»; se reemplaza por una opción exclusiva e inequívoca |
+| 5B | Matemática simulacro P25 | Subpreguntas importadas como alternativas |
+
+**Estado — no es aprobación:** los ítems nuevos los redactó un solo autor (el coordinador). Falta, antes de dar el material por listo para estudiantes:
+- La **segunda auditoría y validación independiente** que pidió el usuario.
+- Revisar sesgos de construcción: posición de la clave (sesgo preexistente hacia «b») y longitud o detalle de la opción correcta frente a distractores implausibles.
+- Revisión en navegador del flujo «varias correctas».
+
+Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conservan. Las de ítems abiertos ya no aplican a su versión de alternativas. Sin despliegue, commit ni push en este lote.
+
+### 15.24 Sesgos de clave: posición y longitud (2026-11-06)
+
+- **Posición.** «b» era la clave del 39 % de las alternativas. `backend/scripts/rebalancear_claves.py` intercambió 693 claves (y sus referencias en pautas y retros), con verificación por intercambio. Distribución resultante ≈ a 23 / b 28 / c 25 / d 24 %. `restaurar_orden_numerico.py` devolvió el orden ascendente a 252 ítems con opciones numéricas.
+- **Longitud.** Criterio (`ajustar_distractores.sesgada`): la clave es más larga que todos los distractores (>máx/0,9), al menos 1,3 veces su promedio y con al menos 12 caracteres de diferencia. Al inicio el 48 % de las alternativas lo cumplía. Se reescribieron los distractores ítem por ítem como errores plausibles, sin tocar nunca la clave. Los cambios se propagaron a los gemelos guía↔prueba↔simulacro. Resultado medido:
+  - simulacros: 1 sesgado (excepción);
+  - pruebas: 3 sesgados (excepciones);
+  - guías: 5 sesgados de 2.461 alternativas (excepciones).
+- **Excepciones justificadas (9).** Son ítems cuyas opciones son citas textuales o datos explícitos del estímulo; alargarlas exigiría inventar texto:
+  - 4B-B P5;
+  - 4M Lengua U2 P4 y la guía OA 3#4;
+  - 6B Lenguaje U1 P8 y la guía OA 5#5;
+  - 8B Lengua U2 P5 y la guía OA 9#5;
+  - 4B Lenguaje guía OA 5#5 y OA 6#5.
+- **Defectos de herramienta corregidos.**
+  - Una guía con el mismo OA en dos módulos (3M Ciencias para la Ciudadanía) colisionaba los identificadores; ahora el segundo módulo usa `OA 1@2#i`. Las verificaciones impidieron escrituras erróneas.
+  - Corregí dos distractores que yo había redactado con una cita inventada o un dato falso del texto (6B «primer verso», 2B «lo sospechaba desde el lunes»).
+- **Verificación.**
+  - OA re-fijados en los 12 cursos.
+  - Validador: 0 discrepancias en 265 Markdown.
+  - Scripts: 57 pasados (+1 omitido), incluida la importación completa en memoria.
+  - Backend: 717 pasados (+1 omitido).
+- **Pendiente.**
+  - Lectura humana de muestra: las retroalimentaciones que describen un distractor por su contenido pueden haber quedado desalineadas.
+  - Revisión en navegador de «varias correctas».
+  - Segunda validación del usuario.

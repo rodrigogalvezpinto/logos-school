@@ -17,7 +17,7 @@ ultima_actualizacion: 2026-10-28
 **Tiempo sugerido:** 30-35 minutos.
 **N° de preguntas:** 15.
 
-**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las preguntas de alternativas, marca solo una opción. En las de desarrollo breve, responde con oraciones completas.
+**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las preguntas de alternativas, marca solo una opción. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
@@ -37,23 +37,33 @@ ultima_actualizacion: 2026-10-28
 
 **1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de la narradora en el presente del relato?
 
-a) La rivalidad entre la narradora y su abuela por la herencia de la casa
-b) El deseo de la narradora de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
-c) La decisión de la narradora de mudarse a Valparaíso
-d) La pelea entre Andrés y Marisol por motivos económicos
+a) La rivalidad entre la narradora y su abuela por quedarse con la herencia de la casa familiar
+b) La decisión de la narradora de mudarse a Valparaíso para estudiar y dejar atrás a su familia
+c) El deseo de la narradora de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
+d) La pelea entre Andrés y Marisol por motivos económicos, que terminó separándolos para siempre
 
-**2. (Desarrollo breve)** Compara lo que dice Andrés sobre sus convicciones con lo que revela su comportamiento después de que Marisol se va. ¿Qué contradicción aparente hay entre ambos?
+**2. (Alternativas)** ¿Qué contradicción aparente hay entre lo que dice Andrés sobre sus convicciones y su comportamiento después de que Marisol se va?
+
+a) Dice tener una convicción firme, pero quedarse mirando la puerta con la garganta apretada revela un temor que no expresa con palabras
+b) Dice tener miedo de lo que pueda pasarle, pero después de que Marisol se va se muestra totalmente tranquilo y sale a la calle
+c) No hay ninguna diferencia entre lo que dice y lo que hace: su firmeza se mantiene igual en sus palabras y en sus gestos
+d) Dice que no le importa nada de la política, pero apenas Marisol se va sale a protestar con sus compañeros de la universidad
 
 **3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Andrés.
 
 **4. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión del diario de Andrés, citado textualmente, dentro del relato de la narradora?
 
 a) Historia paralela
-b) Caja china
+b) Personaje tipo
 c) Indicio
-d) Personaje tipo
+d) Caja china
 
-**5. (Desarrollo breve)** Identifica el indicio (pista) presente en el fragmento del diario que anticipa lo que probablemente le ocurrió a Andrés, y explica su efecto en el lector.
+**5. (Alternativas)** ¿Qué indicio del diario anticipa lo que probablemente le ocurrió a Andrés?
+
+a) La fecha escrita en la primera página del diario, que indica el año en que Andrés comenzó a escribir
+b) La descripción del clima de ese día, nublado y frío, que Andrés anota al comienzo de cada entrada
+c) El nombre de su colegio y de sus compañeros, que Andrés menciona en las primeras páginas del diario
+d) "Un auto que no reconozco, siempre estacionado a la misma hora" durante tres días, que sugiere vigilancia
 
 ---
 
@@ -86,12 +96,17 @@ d) Personaje tipo
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "Las llaves de la casa"?
 
-a) La rivalidad entre Nicolás y la empresa constructora por el precio del terreno
-b) La tensión entre vender la casa familiar por razones prácticas y conservarla como símbolo de la historia familiar
-c) La decisión de Doña Rosa de mudarse a otra ciudad
-d) La disputa legal entre Nicolás y su madre por la propiedad de la casa
+a) La rivalidad entre Nicolás y la empresa constructora, que discuten el precio que se pagará por el terreno familiar
+b) La decisión de Doña Rosa de mudarse a otra ciudad para vivir con su hermana después de enviudar
+c) La tensión entre vender la casa familiar por razones prácticas y conservarla como símbolo de la historia familiar
+d) La disputa legal entre Nicolás y su madre por quién es el verdadero dueño de la casa y del terreno
 
-**7. (Desarrollo breve)** Describe el problema humano más amplio que plantea la obra, más allá de la venta de esta casa en particular.
+**7. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá de vender la casa?
+
+a) La dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria están ligadas a un lugar, aun ante necesidades urgentes como la salud
+b) El precio de las propiedades en Santiago, que obliga a las familias a vender sus casas antiguas a empresas constructoras aunque no quieran, por las deudas que acumulan
+c) La falta de muebles y comodidades en la casa, que hace difícil que Doña Rosa siga viviendo sola en ella
+d) La forma correcta de restaurar y pintar una casa antigua para que conserve su valor patrimonial con el paso del tiempo
 
 **8. (Verdadero o Falso)** La atmósfera de esta escena se construye únicamente a través del diálogo entre Doña Rosa y Nicolás, sin aporte de otros elementos.
 
@@ -102,7 +117,12 @@ b) La casa y el retrato del abuelo
 c) Los papeles que revisa Nicolás
 d) La oferta de la constructora
 
-**10. (Desarrollo breve)** Describe la evolución de la relación entre Doña Rosa y Nicolás a lo largo del fragmento: ¿cómo cambia el tono entre el inicio y el final de la escena?
+**10. (Alternativas)** ¿Cómo cambia la relación entre Doña Rosa y Nicolás a lo largo del fragmento?
+
+a) De una relación cariñosa y tranquila a un quiebre definitivo, cuando Doña Rosa se niega a escuchar las razones de Nicolás y le pide que no vuelva a hablarle de vender la casa familiar
+b) No cambia: madre e hijo discuten con la misma dureza de principio a fin, sin que ninguno modifique su postura ni su tono
+c) De una tensión entre lo práctico (Nicolás) y la resistencia silenciosa (Doña Rosa) a un tono más suave de cuidado mutuo, cuando Nicolás aclara que no le pide dejar de querer la casa
+d) Doña Rosa termina echando a Nicolás de la casa, porque él insiste en que la venda aunque ella le explica que no quiere irse
 
 ---
 
@@ -118,23 +138,33 @@ d) La oferta de la constructora
 
 **11. (Alternativas)** ¿A qué costumbre cultural alude explícitamente el microcuento "La luz en la ventana"?
 
-a) El Día de Muertos mexicano
+a) El Día de Muertos mexicano, con altares y flores
 b) El Día de las Ánimas, tradición de la cultura chilota
-c) La Fiesta de la Vendimia
-d) El Wetripantu o Año Nuevo mapuche
+c) La Fiesta de la Vendimia, que celebra la cosecha de la uva
+d) El Wetripantu o Año Nuevo mapuche, en el solsticio de invierno
 
-**12. (Desarrollo breve)** Explica cómo el antecedente cultural del Día de las Ánimas influye en la forma en que el relato representa la muerte, evitando presentarla como un final absoluto.
+**12. (Alternativas)** ¿Cómo influye el Día de las Ánimas en la forma en que el relato representa la muerte?
+
+a) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve")
+b) Presenta la muerte como un final absoluto, sin ningún vínculo posible con los vivos, porque la tía Elba deja la vela y el pan amasado solo por costumbre, sin creer en nada
+c) Afirma con certeza científica que las ánimas regresan cada año, porque la comida que deja la tía Elba siempre desaparece en la noche
+d) No tiene ninguna relación con el relato: el Día de las Ánimas aparece solo como un dato de la fecha en que ocurre la historia
 
 **13. (Verdadero o Falso)** Según el texto, la costumbre de la tía Elba pierde su sentido original al trasladarse desde Achao a Santiago, porque ya nadie más la practica en la ciudad.
 
 **14. (Alternativas)** ¿Con qué proceso del contexto histórico chileno del siglo XX se relaciona directamente el microcuento?
 
-a) La Guerra del Pacífico
+a) La Guerra del Pacífico y la ocupación del norte
 b) La migración interna desde zonas rurales o insulares hacia las grandes ciudades
-c) La llegada de la televisión a color
-d) La creación de la Región de Los Lagos
+c) La llegada de la televisión a color a los hogares chilenos de las grandes ciudades
+d) La creación de la Región de Los Lagos y sus provincias
 
-**15. (Desarrollo breve)** Explica de qué manera la visión de mundo chilota presente en el relato se manifiesta en las acciones concretas de la tía Elba, más allá de sus palabras.
+**15. (Alternativas)** ¿Cómo se manifiesta la visión de mundo chilota en las acciones de la tía Elba?
+
+a) En negarse a recordar a sus muertos para no sufrir, aunque viva lejos de su familia y de su lugar de origen
+b) En mudarse de vuelta a Chiloé cada noviembre para visitar el cementerio donde está enterrada su familia
+c) En prohibir las celebraciones familiares en su casa de Santiago, para respetar el duelo por sus muertos
+d) En dejar cada primero de noviembre una vela y pan amasado durante veinte años, pese a vivir sola y lejos de su lugar de origen
 
 ---
 
@@ -142,27 +172,19 @@ d) La creación de la Región de Los Lagos
 
 **Preguntas de alternativas y Verdadero/Falso**
 
-1. b
-2. *(desarrollo breve, ver pauta)*
+1. c
+2. a) Dice tener una convicción firme, pero quedarse mirando la puerta con la garganta apretada revela un temor que no expresa con palabras. Comparar el dicho de un personaje con sus acciones permite descubrir emociones que no verbaliza.
 3. Falso
-4. b
-5. *(desarrollo breve, ver pauta)*
-6. b
-7. *(desarrollo breve, ver pauta)*
+4. d
+5. d) "Un auto que no reconozco, siempre estacionado a la misma hora" durante tres días, que sugiere vigilancia. Un indicio no anuncia un hecho de forma directa: entrega una pista que el lector interpreta.
+6. c
+7. a) La dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria están ligadas a un lugar, aun ante necesidades urgentes como la salud. Identificar el problema humano exige preguntarse qué tensión universal representa la situación concreta.
 8. Falso
 9. b
-10. *(desarrollo breve, ver pauta)*
+10. c) De una tensión entre lo práctico (Nicolás) y la resistencia silenciosa (Doña Rosa) a un tono más suave de cuidado mutuo, cuando Nicolás aclara que no le pide dejar de querer la casa. Describir la evolución exige atender a cambios sutiles de tono, no solo a lo que se dice.
 11. b
-12. *(desarrollo breve, ver pauta)*
+12. a) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve"). Reconocer un antecedente cultural exige explicar cómo esa tradición moldea el tratamiento del tema.
 13. Falso
 14. b
-15. *(desarrollo breve, ver pauta)*
+15. d) En dejar cada primero de noviembre una vela y pan amasado durante veinte años, pese a vivir sola y lejos de su lugar de origen. Relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.
 
-**Pauta de preguntas de desarrollo breve**
-
-- **2.** Andrés dice tener una convicción firme ("si todos pensáramos así, nunca íbamos a cambiar nada"), pero su comportamiento posterior —quedarse mirando la puerta con la garganta apretada— revela un temor que no expresa directamente con palabras.
-- **5.** El indicio es la mención de "un auto que no reconozco, siempre estacionado a la misma hora" durante tres días; este detalle sugiere vigilancia y genera en el lector la sospecha de que Andrés estaba en peligro, preparando emocionalmente el desenlace que se intuye pero no se afirma explícitamente.
-- **7.** La obra plantea la dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria de una persona están profundamente ligadas a un lugar físico, incluso cuando esa decisión entra en conflicto con necesidades prácticas urgentes, como la salud.
-- **10.** Al inicio, Nicolás se muestra centrado en lo práctico y urgente, mientras Doña Rosa se resiste en silencio, evitando mirarlo; hacia el final, el tono se suaviza: Nicolás baja la voz y aclara que no le pide a su madre dejar de querer la casa, sino priorizar su bienestar, lo que muestra una relación de cuidado mutuo más que de confrontación abierta.
-- **12.** La costumbre de dejar comida y una vela encendida para las almas que "andan penando" supone que la muerte no cierra por completo el vínculo entre los vivos y los muertos; esta creencia cultural explica que el relato presente la trascendencia como algo incierto pero abierto ("no sé si vuelven... pero algo vuelve"), en vez de afirmar o negar categóricamente una vida después de la muerte.
-- **15.** La visión de mundo chilota, que entiende la muerte como un vínculo que se mantiene activo a través de rituales cotidianos, se refleja en la acción concreta de dejar, cada primero de noviembre, una vela encendida y un plato con pan amasado, sosteniendo la costumbre durante veinte años pese a vivir sola y lejos de su lugar de origen.

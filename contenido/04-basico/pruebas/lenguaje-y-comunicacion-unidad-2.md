@@ -40,17 +40,32 @@ Lee este artículo y responde las preguntas 1 a 5:
 **1. (Alternativas)** Si quieres encontrar rápidamente la información sobre cómo caza el puma, ¿qué deberías usar?
 
 a) Leer el texto completo desde el principio
-b) Buscar el subtítulo "¿Qué come y cómo caza?"
+b) Preguntarle a un compañero
 c) Mirar solo el título general
-d) Preguntarle a un compañero
+d) Buscar el subtítulo "¿Qué come y cómo caza?"
 
 **2. (Verdadero o Falso)** Según el texto, si desaparecieran todos los pumas de un ecosistema, algunas especies de presas podrían multiplicarse demasiado y quedarse sin suficiente alimento.
 
-**3. (Desarrollo breve)** ¿Qué significa la expresión "se acerca a su presa... como una sombra entre las rocas"? ¿Qué tipo de lenguaje figurado es?
+**3. (Alternativas)** ¿Qué significa la expresión "se acerca a su presa... como una sombra entre las rocas", y qué tipo de lenguaje figurado es?
 
-**4. (Aplicación)** Compara la información de los dos primeros párrafos del texto: ¿en qué se relacionan el lugar donde vive el puma y lo que come?
+a) Que el puma se mueve en silencio y casi sin ser notado; es una comparación, porque usa "como"
+b) Que el puma es de color negro y brilla de noche; es una rima, porque las palabras terminan igual
+c) Que el puma caza solo de noche y duerme de día; es una pregunta, porque tiene signos de interrogación
+d) Que el puma se esconde bajo las rocas para dormir; es una instrucción, porque dice qué hacer
 
-**5. (Desarrollo breve — opinión fundamentada)** ¿Te parece bien que esté prohibido cazar pumas en Chile? Da tu opinión y fundaméntala con información del texto.
+**4. (Alternativas — comparar información)** Compara los dos primeros párrafos del texto. ¿Cómo se relacionan el lugar donde vive el puma y lo que come?
+
+a) Como vive solo en el desierto del norte, come únicamente cactus y raíces de plantas secas
+b) No hay relación entre dónde vive y lo que come: el puma come siempre lo mismo en cualquier lugar
+c) Como vive en las ciudades grandes, come basura y restos de comida que encuentra en las calles
+d) Como vive en zonas muy distintas, su alimentación varía: guanacos y liebres, y a veces ovejas cerca de zonas ganaderas
+
+**5. (Alternativas — opinión fundamentada)** Sofía opina: "Me parece bien que esté prohibido cazar pumas en Chile". ¿Qué fundamento se apoya en el texto?
+
+a) Porque los pumas son bonitos y a las personas les gusta verlos en la naturaleza
+b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los animales más débiles
+c) Porque los pumas viven en el zoológico y ahí los cuidan los veterinarios todos los días
+d) Porque no me gusta la caza de peces ni de ningún otro animal del mar
 
 **6. (Alternativas)** Vas a escribirle una carta a tu abuela contándole cómo te fue en tu paseo de curso. ¿Qué registro (forma de hablar) es más apropiado?
 
@@ -59,9 +74,19 @@ b) Cercano y cariñoso, como corresponde a un familiar querido
 c) Con muchas abreviaciones y groserías
 d) Igual que le escribirías a un desconocido por internet
 
-**7. (Aplicación)** Lee este párrafo y reescríbelo separándolo en dos párrafos distintos usando punto aparte, agrupando las ideas relacionadas: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."
+**7. (Alternativas — párrafos)** ¿Cuál es la mejor forma de separar en dos párrafos, agrupando las ideas relacionadas, este texto sin puntos: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."
 
-**8. (Desarrollo breve)** Escribe una oración que use el conector "sin embargo" para unir estas dos ideas: "Quería ir a la playa" y "estaba lloviendo".
+a) Párrafo 1: solo las palabras "El domingo". Párrafo 2: todo lo demás que ocurrió en el paseo
+b) Párrafo 1: el helado que comieron después de bajar. Párrafo 2: el funicular y el cerro, aunque ocurrieron antes
+c) Párrafo 1: la subida al cerro en funicular y la vista de la ciudad. Párrafo 2: lo que hicieron después de bajar (comer helado)
+d) No se puede separar en párrafos, porque todo el texto habla del mismo paseo familiar del domingo
+
+**8. (Alternativas)** ¿Qué oración usa correctamente el conector "sin embargo" para unir estas dos ideas: "Quería ir a la playa" y "estaba lloviendo"?
+
+a) Quería ir a la playa; sin embargo, estaba lloviendo.
+b) Quería ir a la playa sin embargo; estaba lloviendo sin embargo.
+c) Sin embargo quería, ir a la playa estaba lloviendo.
+d) Quería ir a la playa, sin embargo porque estaba lloviendo.
 
 **9. (Verdadero o Falso)** Usar siempre las mismas palabras y no revisar la ortografía antes de entregar un texto es una buena práctica de escritura.
 
@@ -69,20 +94,20 @@ d) Igual que le escribirías a un desconocido por internet
 
 ## Respuestas (Pauta)
 
-**1.** b) Buscar el subtítulo "¿Qué come y cómo caza?". Los subtítulos son organizadores del texto que permiten encontrar información específica sin releer todo.
+**1.** d) Buscar el subtítulo "¿Qué come y cómo caza?". Los subtítulos son organizadores del texto que permiten encontrar información específica sin releer todo.
 
 **2.** Verdadero. El texto explica esta relación de causa-consecuencia directamente: "Sin depredadores como el puma, algunas especies podrían multiplicarse demasiado y agotar los alimentos disponibles."
 
-**3.** Significa que el puma se mueve de forma muy silenciosa y difícil de notar. Es una **comparación**, porque usa la palabra "como". Aunque es un texto informativo, también puede usar lenguaje figurado para ayudarnos a imaginar mejor lo que describe.
+**3.** a) Que el puma se mueve en silencio y casi sin ser notado; es una comparación, porque usa "como"
 
-**4.** Respuesta esperada: "como el puma vive en zonas muy distintas (desierto, bosque, cerca de zonas ganaderas), su alimentación también varía: come guanacos y liebres en la naturaleza, pero a veces también ovejas de crianza cuando vive cerca de zonas agrícolas." Comparar información de distintos fragmentos de un texto permite encontrar relaciones que no están dichas en una sola oración.
+**4.** d) Como vive en zonas muy distintas, su alimentación varía: guanacos y liebres, y a veces ovejas cerca de zonas ganaderas
 
-**5.** Cualquier opinión razonada apoyada en el texto, por ejemplo: "Sí, me parece bien, porque el texto explica que el puma ayuda a mantener el equilibrio de su ecosistema al cazar a los animales más débiles; si desapareciera, otras especies podrían multiplicarse demasiado." Una opinión fundamentada siempre se apoya en datos concretos del texto.
+**5.** b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los animales más débiles. Una opinión fundamentada se apoya en datos concretos del texto, no solo en gustos personales.
 
 **6.** b) Cercano y cariñoso, como corresponde a un familiar querido. El registro debe adecuarse al destinatario; como le escribes a tu abuela, corresponde un tono cercano y respetuoso.
 
-**7.** Ejemplo de respuesta: "El domingo fuimos con mi familia al cerro San Cristóbal. Subimos en el funicular y vimos toda la ciudad desde arriba. // Después bajamos y comimos helado cerca del zoológico. Estaba delicioso." Cada párrafo debe agrupar una idea principal distinta, separadas con punto aparte.
+**7.** c) Párrafo 1: la subida al cerro en funicular y la vista de la ciudad. Párrafo 2: lo que hicieron después de bajar (comer helado). Cada párrafo agrupa una idea principal distinta, separadas con punto aparte.
 
-**8.** Ejemplo de respuesta: "Quería ir a la playa; sin embargo, estaba lloviendo." "Sin embargo" es un conector que indica una idea contraria a la anterior y ayuda al lector a entender la relación lógica entre ambas ideas.
+**8.** a) Quería ir a la playa; sin embargo, estaba lloviendo. "Sin embargo" indica una idea contraria a la anterior; va entre ambas ideas, con punto y coma antes y coma después.
 
 **9.** Falso. Un buen proceso de escritura incluye usar vocabulario variado y revisar la ortografía y presentación antes de considerar terminado un texto.

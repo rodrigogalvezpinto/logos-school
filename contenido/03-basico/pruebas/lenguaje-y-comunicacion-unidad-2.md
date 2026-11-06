@@ -13,7 +13,7 @@ ultima_actualizacion: 2026-10-28
 
 **Objetivos de Aprendizaje evaluados:** OA N°6 (Leo y comprendo textos no literarios usando sus herramientas) y OA N°17 (Escribo, reviso y edito textos organizados en párrafos).
 
-**Instrucciones:** Lee con atención el texto informativo antes de responder. Marca con una X la alternativa correcta o responde en el espacio indicado.
+**Instrucciones:** Lee con atención el texto informativo antes de responder. Marca con una X la alternativa correcta.
 
 ---
 
@@ -49,24 +49,25 @@ ultima_actualizacion: 2026-10-28
 
 **1.** Según el texto, ¿en qué región se ubica el volcán Villarrica?
 
-a) Región de Los Lagos
-b) Región de la Araucanía
+a) Región de la Araucanía
+b) Región de Los Lagos
 c) Región de Valparaíso
 
 **2.** Según el texto, todos los volcanes de Chile están activos.
 
-Verdadero ___ Falso ___
+a) Verdadero
+b) Falso
 
 **3.** ¿Por qué el volcán Villarrica es uno de los más vigilados de Chile?
 
 a) Porque es el volcán más alto del país
-b) Porque está cerca de varias ciudades y pueblos
-c) Porque no tiene nieve en su cima
+b) Porque no tiene nieve en su cima
+c) Porque está cerca de varias ciudades y pueblos
 
 **4.** Si quisieras encontrar rápidamente qué es un volcán, sin leer todo el artículo, ¿qué subtítulo deberías buscar?
 
-a) "Volcanes famosos de Chile"
-b) "¿Qué es un volcán?"
+a) "¿Qué es un volcán?"
+b) "Volcanes famosos de Chile"
 c) "Glosario"
 
 **5.** Según el índice del libro *Animales de la cordillera*, ¿en qué página comienza el capítulo sobre la vizcacha?
@@ -77,7 +78,10 @@ c) Página 26
 
 **6.** ¿Qué significa la palabra "magma", según el glosario del texto?
 
-_________________________________________________________________
+a) Nieve que cubre la cima de un volcán durante el invierno
+b) Agua caliente que sale de las termas cerca de los volcanes
+c) Un tipo de nube muy oscura que anuncia una erupción
+d) Roca derretida que se encuentra bajo la superficie de la Tierra
 
 ---
 
@@ -91,9 +95,9 @@ c) Camila misma
 
 **8.** ¿Cuál de estas opciones es una oración con sentido completo?
 
-a) "Corriendo por el parque muy rápido"
+a) "Corriendo por el parque muy rápido con el perro"
 b) "El perro corrió por el parque muy rápido."
-c) "Por el parque el"
+c) "Por el parque el perro muy rápido"
 
 **9.** Completa la oración con el conector más adecuado: "Quería ir a la plaza, ___ empezó a llover fuerte."
 
@@ -113,12 +117,12 @@ c) "Los niño corrieron por el patio."
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | b) Región de la Araucanía |
+| 1  | a) Región de la Araucanía |
 | 2  | Falso |
-| 3  | b) Porque está cerca de varias ciudades y pueblos |
-| 4  | b) "¿Qué es un volcán?" |
+| 3  | c) Porque está cerca de varias ciudades y pueblos |
+| 4  | a) "¿Qué es un volcán?" |
 | 5  | b) Página 20 |
-| 6  | Roca derretida que se encuentra bajo la superficie de la Tierra |
+| 6  | d) Roca derretida que se encuentra bajo la superficie de la Tierra |
 | 7  | b) La prima de Camila |
 | 8  | b) "El perro corrió por el parque muy rápido." |
 | 9  | b) "pero" |

@@ -1,7 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
-oa_por_pregunta: {"2":"OA 1","3":"OA 1","7":"OA 6","8":"OA 6"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","7":"OA 6","8":"OA 6"}
 unidad: Eje 1 — Ciencias de la Vida (OA 1, OA 5, OA 6)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
@@ -27,10 +27,11 @@ d) Una silla
 
 ---
 
-**2.** Verdadero o falso: Las plantas necesitan agua para vivir, igual que los
+**2.** *(Verdadero o falso)* Las plantas necesitan agua para vivir, igual que los
 animales y las personas.
 
-Verdadero ⬜   Falso ⬜
+a) Verdadero
+b) Falso
 
 ---
 
@@ -39,9 +40,9 @@ Verdadero ⬜   Falso ⬜
 ¿Qué elemento de la imagen es un ser vivo?
 
 a) El agua del charco
-b) El sapo
+b) Ninguno
 c) Las piedras del suelo
-d) Ninguno
+d) El sapo
 
 ---
 
@@ -74,24 +75,21 @@ d) Olfato
 
 ---
 
-**7.** Une cada sentido con su órgano.
+**7.** *(Varias correctas)* ¿Qué uniones de sentido y órgano son correctas? Marca
+**todas** las correctas.
 
-| Sentido | Órgano |
-|---|---|
-| Vista | |
-| Oído | |
-| Olfato | |
-| Gusto | |
-| Tacto | |
-
-Órganos para usar: nariz, lengua, ojos, oídos, piel.
+a) Vista → ojos
+b) Gusto → nariz
+c) Tacto → piel
+d) Oído → lengua
 
 ---
 
-**8.** Verdadero o falso: Está bien mirar directamente al sol porque ayuda a
+**8.** *(Verdadero o falso)* Está bien mirar directamente al sol porque ayuda a
 nuestros ojos a ver mejor.
 
-Verdadero ⬜   Falso ⬜
+a) Verdadero
+b) Falso
 
 ---
 
@@ -99,9 +97,9 @@ Verdadero ⬜   Falso ⬜
 
 1. c) Un gato
 2. Verdadero
-3. b) El sapo
+3. d) El sapo
 4. b) El copihue
 5. c) Observar a los animales sin tocarlos ni asustarlos
 6. b) Tacto
-7. Vista → ojos. Oído → oídos. Olfato → nariz. Gusto → lengua. Tacto → piel.
+7. a y c — Vista → ojos y tacto → piel. El gusto va con la lengua y el oído con los oídos (y el olfato con la nariz).
 8. Falso

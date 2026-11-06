@@ -120,11 +120,11 @@ un problema (poca tierra firme para cultivar) usando su conocimiento del entorno
 **1. (Alternativas)** ¿En qué tipo de espacio geográfico se desarrolló principalmente la
 civilización inca?
 a) Selva amazónica
-b) Cordillera de los Andes
+b) Llanuras del norte de Estados Unidos
 c) Islas del Caribe
-d) Llanuras del norte de Estados Unidos
+d) Cordillera de los Andes
 
-✅ Respuesta correcta: **b) Cordillera de los Andes**
+✅ Respuesta correcta: **d) Cordillera de los Andes**
 💬 *Retroalimentación:* Los incas se desarrollaron en el espacio andino, a lo largo de la
 cordillera de los Andes, desde el sur de Colombia hasta el norte de Chile y Argentina.
 
@@ -142,50 +142,46 @@ relacionados con fuerzas de la naturaleza como el sol, la lluvia o la tierra.
 **3. (Alternativas)** ¿Cuál de las siguientes NO es una característica común entre las tres
 civilizaciones americanas estudiadas?
 a) Sociedad organizada en distintos niveles o clases sociales
-b) Uso de electricidad para su vida diaria
+b) Economía basada principalmente en la agricultura
 c) Gobierno encabezado por un líder supremo (monarquía)
-d) Economía basada principalmente en la agricultura
+d) Uso de electricidad para su vida diaria
 
-✅ Respuesta correcta: **b) Uso de electricidad para su vida diaria**
+✅ Respuesta correcta: **d) Uso de electricidad para su vida diaria**
 💬 *Retroalimentación:* La electricidad no existía en esa época. Las tres civilizaciones sí
 compartían una sociedad jerárquica, un gobierno monárquico y una economía agrícola.
 
 ---
 
-**4. (Desarrollo breve)** Nombra una **semejanza** y una **diferencia** entre la civilización
-azteca y la civilización inca.
+**4. (Alternativas)** ¿Qué afirmación presenta correctamente una **semejanza** y una **diferencia** entre la civilización azteca y la inca?
+a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica (México) y los incas en la zona andina
+b) Semejanza: ambas vivían en la zona andina, cerca de la cordillera. Diferencia: solo los incas eran agricultores y los aztecas vivían de la caza
+c) Semejanza: ambas tenían como capital la ciudad de Cusco. Diferencia: solo los aztecas eran politeístas, y los incas creían en un solo dios
+d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en México y los aztecas en la zona andina
 
-💬 *Pauta de retroalimentación:* Una semejanza válida es que ambas eran monarquías
-politeístas de economía agrícola. Una diferencia válida es el espacio geográfico donde se
-desarrollaron: los aztecas en la zona mesoamericana (México) y los incas en la zona andina
-(a lo largo de los Andes). También es válido mencionar diferencias como la ciudad capital
-(Tenochtitlán sobre un lago vs. Cusco en la cordillera) o la forma de cultivar (chinampas vs.
-terrazas de cultivo).
-
----
-
-**5. (Análisis de mapa)** Imagina un mapa de América donde se han marcado dos zonas con
-color: la **Zona A**, ubicada en el centro de México y Centroamérica, y la **Zona B**, que
-sigue la cordillera de los Andes desde Ecuador hasta el norte de Chile. ¿Qué civilización(es)
-corresponden a la Zona A y cuál a la Zona B?
-
-✅ Respuesta correcta: La Zona A corresponde a mayas y aztecas (espacio mesoamericano); la
-Zona B corresponde a los incas (espacio andino).
-💬 *Retroalimentación:* Ubicar las civilizaciones en el mapa nos ayuda a entender por qué,
-aunque compartían características, desarrollaron formas de vida distintas: cada una se
-adaptó a un territorio diferente.
+✅ Respuesta correcta: **a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica (México) y los incas en la zona andina**
+💬 *Retroalimentación:* También es válido mencionar diferencias como la ciudad capital (Tenochtitlán sobre un lago vs. Cusco en la cordillera) o la forma de cultivar (chinampas vs. terrazas de cultivo).
 
 ---
 
-**6. (Desarrollo breve — desafiante)** El Camino del Inca llegó hasta el desierto de
-Atacama, en el norte de Chile. ¿Qué nos dice este dato sobre el tamaño y la organización del
-imperio inca?
+**5. (Alternativas — análisis de mapa)** Imagina un mapa de América donde se han marcado dos zonas con color: la **Zona A**, ubicada en el centro de México y Centroamérica, y la **Zona B**, que sigue la cordillera de los Andes desde Ecuador hasta el norte de Chile. ¿Qué civilizaciones corresponden a cada zona?
+a) Zona A: incas (espacio andino); Zona B: mayas y aztecas (espacio mesoamericano)
+b) Zona A: aztecas e incas (espacio mesoamericano); Zona B: mayas (espacio andino)
+c) Las dos zonas corresponden a los incas, que ocuparon primero México y luego los Andes
+d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)
 
-💬 *Pauta de retroalimentación:* Una buena respuesta debe mencionar que el imperio inca fue
-muy extenso (abarcó varios países actuales) y que estaba bien organizado, ya que fue capaz de
-construir una red de caminos que conectaba territorios muy alejados entre sí, incluso a
-través de un desierto. Esto también explica por qué encontramos huellas incas en el norte de
-nuestro propio país.
+✅ Respuesta correcta: **d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)**
+💬 *Retroalimentación:* Ubicar las civilizaciones en el mapa nos ayuda a entender por qué, aunque compartían características, desarrollaron formas de vida distintas: cada una se adaptó a un territorio diferente.
+
+---
+
+**6. (Alternativas — desafiante)** El Camino del Inca llegó hasta el desierto de Atacama, en el norte de Chile. ¿Qué nos dice este dato sobre el imperio inca?
+a) Que era un imperio pequeño que solo ocupaba el desierto de Atacama y sus alrededores
+b) Que los incas no sabían construir caminos y usaban los que encontraban en el desierto
+c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos
+d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios de América
+
+✅ Respuesta correcta: **c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos**
+💬 *Retroalimentación:* El imperio inca abarcó varios países actuales y construyó caminos que cruzaban incluso un desierto. Esto también explica por qué encontramos huellas incas en el norte de nuestro país.
 
 ---
 
@@ -269,47 +265,47 @@ nunca, lo que lo convierte en uno de los desiertos más áridos del planeta.
 
 **3. (Alternativas)** ¿Cuál de estos climas se caracteriza por veranos secos e inviernos
 lluviosos, y se encuentra en la zona central de Chile?
-a) Tropical
-b) Mediterráneo
+a) Mediterráneo
+b) Tropical
 c) Polar
 d) Desértico
 
-✅ Respuesta correcta: **b) Mediterráneo**
+✅ Respuesta correcta: **a) Mediterráneo**
 💬 *Retroalimentación:* El clima mediterráneo, presente en la zona central de Chile, tiene
 veranos calurosos y secos, e inviernos más fríos y lluviosos.
 
 ---
 
-**4. (Análisis de mapa)** Imagina un mapa de América con tres ríos marcados con números:
-(1) un río muy caudaloso que cruza la selva de Brasil; (2) un río que atraviesa el centro de
-Estados Unidos; (3) un río que nace en la cordillera y desemboca en el Pacífico, cerca de
-Concepción. ¿Qué río corresponde a cada número: Amazonas, Mississippi o Biobío?
+**4. (Alternativas — análisis de mapa)** Imagina un mapa de América con tres ríos marcados con números: (1) un río muy caudaloso que cruza la selva de Brasil; (2) un río que atraviesa el centro de Estados Unidos; (3) un río que nace en la cordillera y desemboca en el Pacífico, cerca de Concepción. ¿Qué río corresponde a cada número?
+a) (1) Biobío — (2) Amazonas — (3) Mississippi
+b) (1) Mississippi — (2) Biobío — (3) Amazonas
+c) (1) Amazonas — (2) Mississippi — (3) Biobío
+d) (1) Amazonas — (2) Biobío — (3) Mississippi
 
-✅ Respuesta correcta: (1) Amazonas — (2) Mississippi — (3) Biobío
-💬 *Retroalimentación:* El Biobío es uno de los ríos más importantes de Chile y
-desemboca cerca de Concepción; el Amazonas es el más caudaloso del mundo y cruza Brasil; el
-Mississippi es uno de los ríos más largos de Estados Unidos.
-
----
-
-**5. (Desarrollo breve)** Describe, usando al menos dos términos geográficos (clima, relieve,
-río, población), el paisaje de una ciudad importante de América distinta a Santiago.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona el nombre de la ciudad
-elegida (por ejemplo, Buenos Aires, Ciudad de México, Lima) y describe al menos dos
-características geográficas usando vocabulario correcto: por ejemplo, "Buenos Aires está en
-una zona de llanuras (relieve plano), tiene clima templado y está junto al Río de la Plata".
+✅ Respuesta correcta: **c) (1) Amazonas — (2) Mississippi — (3) Biobío**
+💬 *Retroalimentación:* El Biobío es uno de los ríos más importantes de Chile y desemboca cerca de Concepción; el Amazonas es el más caudaloso del mundo y cruza Brasil; el Mississippi es uno de los ríos más largos de Estados Unidos.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el mismo continente americano
-puede tener paisajes tan distintos, como el desierto de Atacama y la selva amazónica, que
-están relativamente cerca en el mapa?
+**5. (Alternativas)** ¿Qué descripción del paisaje de una ciudad de América usa **correctamente** términos geográficos?
+a) Buenos Aires está en una zona de llanuras (relieve plano), tiene clima templado y está junto al Río de la Plata
+b) Buenos Aires está en la cima de la cordillera de los Andes, tiene clima polar y está junto al océano Pacífico
+c) Ciudad de México está junto al océano Pacífico, en una llanura costera con clima tropical, y no tiene población
+d) Lima está en medio de la selva amazónica, tiene clima frío de montaña y está junto al Río de la Plata
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que América es un continente
-muy extenso, que recorre distintas latitudes (desde zonas polares hasta el Ecuador) y que
-tiene relieves muy distintos (cordillera, costa, llanuras), lo que provoca climas y paisajes
-muy diferentes en distancias que en un mapa parecen cortas.
+✅ Respuesta correcta: **a) Buenos Aires está en una zona de llanuras (relieve plano), tiene clima templado y está junto al Río de la Plata**
+💬 *Retroalimentación:* Una buena descripción nombra la ciudad y usa vocabulario geográfico correcto (clima, relieve, río, población). Las otras opciones usan los términos, pero con datos falsos.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el continente americano puede tener paisajes tan distintos, como el desierto de Atacama y la selva amazónica, que están relativamente cerca en el mapa?
+a) Porque en América no llueve nunca, y por eso el desierto y la selva dependen solo de los ríos que bajan de la cordillera
+b) Porque todos los paisajes de América son iguales, y las diferencias solo aparecen en los mapas por los colores que se usan
+c) Porque la selva y el desierto están en continentes distintos, aunque en el mapa parezcan cerca por el tamaño del dibujo
+d) Porque América es muy extensa, recorre distintas latitudes y tiene relieves muy diferentes, lo que genera climas y paisajes distintos
+
+✅ Respuesta correcta: **d) Porque América es muy extensa, recorre distintas latitudes y tiene relieves muy diferentes, lo que genera climas y paisajes distintos**
+💬 *Retroalimentación:* América va desde zonas polares hasta el Ecuador y tiene cordillera, costa y llanuras; por eso cambian el clima y el paisaje en distancias que en un mapa parecen cortas.
 
 ---
 
@@ -368,11 +364,11 @@ recurso renovable para que no se agote.
 
 **1. (Alternativas)** ¿Cuál de los siguientes es un recurso natural **no renovable**?
 a) El agua de un río
-b) El cobre
+b) Los peces del mar
 c) Los bosques
-d) Los peces del mar
+d) El cobre
 
-✅ Respuesta correcta: **b) El cobre**
+✅ Respuesta correcta: **d) El cobre**
 💬 *Retroalimentación:* El cobre es un mineral: una vez extraído de la mina, no se regenera.
 Por eso se considera un recurso no renovable.
 
@@ -387,18 +383,14 @@ usan más rápido de lo que la naturaleza los regenera.
 
 ---
 
-**3. (Análisis de mapa)** Imagina un mapa de América con símbolos: una gota de agua sobre
-Brasil (bosques y agua), un casco de minero sobre el norte de Chile (minería), un grano de
-café sobre Colombia, y un pez sobre la costa de Perú y Chile. ¿Qué relación existe entre la
-ubicación de cada símbolo y el recurso natural que representa?
+**3. (Alternativas — análisis de mapa)** Imagina un mapa de América con símbolos: una gota de agua sobre Brasil (bosques y agua), un casco de minero sobre el norte de Chile (minería), un grano de café sobre Colombia, y un pez sobre la costa de Perú y Chile. ¿Qué relación existe entre la ubicación de cada símbolo y el recurso que representa?
+a) Los símbolos se ubicaron al azar, sin relación con el territorio, solo para decorar el mapa con dibujos
+b) Todos los países tienen exactamente los mismos recursos, y el mapa muestra solo uno por falta de espacio
+c) Cada símbolo marca el recurso natural más característico de esa zona, según su clima, relieve y condiciones naturales
+d) Los símbolos indican dónde viven más personas y cuáles son las ciudades más grandes de cada país
 
-✅ Respuesta correcta: Cada símbolo representa el recurso natural más característico de esa
-zona: minería (cobre) en el norte de Chile, café en Colombia, pesca en la costa de Perú y
-Chile por la Corriente de Humboldt, y recursos forestales/hídricos en Brasil por la selva
-amazónica.
-💬 *Retroalimentación:* Representar recursos en un mapa nos ayuda a entender que la
-distribución geográfica no es al azar: depende del clima, el relieve y las condiciones
-naturales de cada zona.
+✅ Respuesta correcta: **c) Cada símbolo marca el recurso natural más característico de esa zona, según su clima, relieve y condiciones naturales**
+💬 *Retroalimentación:* Minería (cobre) en el norte de Chile, café en Colombia, pesca en la costa de Perú y Chile por la Corriente de Humboldt y recursos forestales/hídricos en Brasil por la selva amazónica: la distribución de los recursos no es al azar.
 
 ---
 
@@ -415,22 +407,25 @@ el sur, lo que favorece una gran cantidad de vida marina frente a las costas de 
 
 ---
 
-**5. (Desarrollo breve)** ¿Por qué es importante cuidar los recursos naturales en el marco
-del desarrollo sostenible? Da un ejemplo.
+**5. (Alternativas)** ¿Por qué es importante cuidar los recursos naturales en el marco del desarrollo sostenible?
+a) Para venderlos todos lo antes posible y ganar más dinero ahora, antes de que otros países los aprovechen
+b) Porque los recursos naturales no se acaban nunca, aunque se usen mucho, y cuidarlos los hace más bonitos
+c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobreexplotando la pesca
+d) Para que solo algunas personas puedan usarlos y las demás no, y así los recursos duren un poco más
 
-💬 *Pauta de retroalimentación:* Una buena respuesta explica que cuidar los recursos permite
-que sigan existiendo para las generaciones futuras, y da un ejemplo válido: cuidar el agua,
-no sobreexplotar la pesca, reforestar bosques, o usar el cobre de forma responsable.
+✅ Respuesta correcta: **c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobreexplotando la pesca**
+💬 *Retroalimentación:* Cuidar el agua, no sobreexplotar la pesca, reforestar bosques o usar el cobre de forma responsable permite que los recursos sigan existiendo en el futuro.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** En Chile existen "vedas" que prohíben pescar ciertas
-especies durante algunos meses del año. Explica, con tus palabras, cómo esta medida ayuda al
-desarrollo sostenible.
+**6. (Alternativas — desafiante)** En Chile existen "vedas" que prohíben pescar ciertas especies durante algunos meses del año. ¿Cómo ayuda esta medida al desarrollo sostenible?
+a) Da tiempo a que la especie se reproduzca y su población se recupere, para que no se agote
+b) Hace que los peces cambien de especie durante esos meses y se vuelvan más grandes
+c) Permite pescar más durante esos meses, porque hay menos pescadores en el mar
+d) Sirve para que los pescadores descansen, sin efecto en los peces
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la veda da tiempo a que la
-especie se reproduzca y su población se recupere, evitando que un recurso renovable (los
-peces) se agote por sobreexplotación, permitiendo que siga existiendo en el futuro.
+✅ Respuesta correcta: **a) Da tiempo a que la especie se reproduzca y su población se recupere, para que no se agote**
+💬 *Retroalimentación:* Un recurso renovable como los peces puede agotarse si se sobreexplota; la veda permite que siga existiendo en el futuro.
 
 ---
 
@@ -498,9 +493,9 @@ resuelven transformando el territorio con obras de riego.
 **1. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de **adaptación** humana a un
 paisaje desértico?
 a) Construir atrapanieblas para obtener agua de la neblina
-b) Cultivar arroz en terrenos inundados
-c) Usar trineos para transportarse sobre el hielo
-d) Construir diques para contener grandes ríos
+b) Cultivar arroz en terrenos inundados por los ríos
+c) Usar trineos para transportarse sobre el hielo y la nieve
+d) Construir diques para contener grandes ríos caudalosos
 
 ✅ Respuesta correcta: **a) Construir atrapanieblas para obtener agua de la neblina**
 💬 *Retroalimentación:* Los atrapanieblas son una forma de adaptarse a la escasez de agua en
@@ -517,27 +512,25 @@ caminos, ciudades y tranques que cambian el entorno natural original.
 
 ---
 
-**3. (Desarrollo breve)** Piensa en la región donde vives. Describe una característica de su
-paisaje (relieve, clima o vegetación) y cómo las personas se han adaptado a ella o la han
-transformado.
+**3. (Alternativas)** ¿Qué pareja une bien una característica del paisaje de una región de Chile con una adaptación de las personas?
+a) Sequía en el norte → techos inclinados para la nieve
+b) Mucha lluvia en el sur → canales de riego para un desierto
+c) Cercanía al mar → terrazas para cultivar en la nieve
+d) Mucha lluvia en el sur → techos inclinados para que escurra el agua
 
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica una característica real del
-paisaje de la propia región (por ejemplo, mucha lluvia en el sur, sequía en el norte,
-cercanía a la cordillera o al mar) y describe una adaptación o transformación coherente con
-esa característica, como el uso de techos inclinados en zonas lluviosas o de riego en zonas
-secas.
+✅ Respuesta correcta: **d) Mucha lluvia en el sur → techos inclinados para que escurra el agua**
+💬 *Retroalimentación:* Una buena respuesta identifica una característica real del paisaje (lluvia en el sur, sequía en el norte, cordillera o mar) y una adaptación coherente, como los techos inclinados en zonas lluviosas o el riego en zonas secas. Piensa en cómo es el paisaje de tu región.
 
 ---
 
-**4. (Análisis de imagen)** Imagina una fotografía de una ladera de cerro en el altiplano
-andino, cubierta de plataformas escalonadas de tierra donde se ven cultivos de papa y quinoa.
-¿Qué técnica de adaptación al paisaje se observa en la imagen y para qué sirve?
+**4. (Alternativas — análisis de imagen)** Imagina una fotografía de una ladera de cerro en el altiplano andino, cubierta de plataformas escalonadas de tierra donde se ven cultivos de papa y quinoa. ¿Qué técnica de adaptación se observa y para qué sirve?
+a) Chinampas, que son islas artificiales construidas sobre un lago para cultivar maíz y flores todo el año
+b) Terrazas de cultivo, que permiten sembrar en pendiente sin que el suelo y el agua se pierdan cuesta abajo
+c) Invernaderos de vidrio, que protegen los cultivos del frío intenso y las heladas nocturnas del altiplano
+d) Canales de regadío, que llevan agua desde los ríos hacia una llanura extensa donde se siembra en grandes campos
 
-✅ Respuesta correcta: Se observan terrazas de cultivo, que permiten sembrar en terrenos con
-pendiente, evitando que el suelo y el agua se pierdan cuesta abajo.
-💬 *Retroalimentación:* Las terrazas son una solución ingeniosa que muestra cómo distintos
-pueblos americanos, incluyendo comunidades andinas en Chile, han adaptado técnicas agrícolas
-a un relieve difícil.
+✅ Respuesta correcta: **b) Terrazas de cultivo, que permiten sembrar en pendiente sin que el suelo y el agua se pierdan cuesta abajo**
+💬 *Retroalimentación:* Las terrazas son una solución ingeniosa que muestra cómo distintos pueblos americanos, incluyendo comunidades andinas en Chile, han adaptado técnicas agrícolas a un relieve difícil.
 
 ---
 
@@ -556,14 +549,14 @@ específico.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** Compara una transformación del paisaje típica de una
-gran ciudad (por ejemplo, Santiago) con una transformación típica de una zona rural agrícola
-(por ejemplo, el valle central). ¿En qué se parecen y en qué se diferencian?
+**6. (Alternativas — desafiante)** Compara una transformación del paisaje típica de una gran ciudad (como Santiago) con una de una zona rural agrícola (como el valle central). ¿Qué afirmación es correcta?
+a) Solo la ciudad transforma el paisaje, con edificios, calles y puentes; el campo nunca lo transforma, porque allí todo es natural y nadie construye nada
+b) Las dos transforman el paisaje de la misma forma, con edificios, rascacielos y autopistas, porque ambas tienen muchos habitantes
+c) Ambas buscan satisfacer necesidades humanas, pero en la ciudad se construyen edificios, calles y puentes, y en el campo canales de riego, tranques y terrenos cultivados
+d) El campo construye rascacielos y autopistas para la cosecha, y la ciudad construye canales de riego y tranques para sus edificios
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que ambas transformaciones
-buscan satisfacer necesidades humanas (vivienda y transporte en la ciudad; producción de
-alimentos en el campo), pero se diferencian en el tipo de construcción: edificios, calles y
-puentes en la ciudad, versus canales de riego, tranques y terrenos cultivados en el campo.
+✅ Respuesta correcta: **c) Ambas buscan satisfacer necesidades humanas, pero en la ciudad se construyen edificios, calles y puentes, y en el campo canales de riego, tranques y terrenos cultivados**
+💬 *Retroalimentación:* Se parecen en su propósito (vivienda y transporte en la ciudad; producción de alimentos en el campo) y se diferencian en el tipo de construcción.
 
 ---
 
@@ -650,26 +643,29 @@ elegidos por votación. En cambio, los diputados sí son elegidos por votación 
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada autoridad con la institución en la que ejerce su
-cargo:
+**3. (Alternativas — unir)** Une cada autoridad con la institución en la que ejerce su cargo:
 
 1) Senador — 2) Alcalde — 3) Presidente
 
-a) Municipalidad — b) Gobierno — c) Congreso Nacional (Parlamento)
+Instituciones: (A) Municipalidad — (B) Gobierno — (C) Congreso Nacional (Parlamento)
 
-✅ Respuesta correcta: 1-c, 2-a, 3-b
-💬 *Retroalimentación:* Cada autoridad ejerce su función en una institución distinta: el
-senador en el Congreso Nacional, el alcalde en la municipalidad, y el Presidente al mando del
-Gobierno.
+¿Qué combinación es correcta?
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-A, 3-C
+d) 1-C, 2-B, 3-A
+
+✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Cada autoridad ejerce su función en una institución distinta: el senador en el Congreso Nacional, el alcalde en la municipalidad, y el Presidente al mando del Gobierno.
 
 ---
 
 **4. (Alternativas)** ¿Qué institución se encarga principalmente de elaborar y aprobar las
 leyes de Chile?
-a) La municipalidad
+a) La municipalidad de cada comuna
 b) El Congreso Nacional (Parlamento)
-c) El Gobierno Regional
-d) Los tribunales de justicia
+c) El Gobierno Regional de cada región
+d) Los tribunales de justicia del país
 
 ✅ Respuesta correcta: **b) El Congreso Nacional (Parlamento)**
 💬 *Retroalimentación:* El Congreso Nacional, compuesto por senadores y diputados, es el
@@ -677,24 +673,25 @@ encargado de discutir, elaborar y aprobar las leyes del país.
 
 ---
 
-**5. (Desarrollo breve)** Explica con tus palabras la diferencia entre un diputado y un
-alcalde.
+**5. (Alternativas)** ¿Cuál es la diferencia entre un diputado y un alcalde?
+a) El diputado dirige una comuna y arregla sus plazas, y el alcalde integra el Congreso y crea leyes para todo el país
+b) El diputado es nombrado por el alcalde para que lo ayude en la municipalidad, y solo el alcalde es elegido por votación
+c) No hay diferencia: los dos dirigen la municipalidad de una comuna, ambos son nombrados por el Presidente de la República y ninguno participa en crear leyes
+d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona que ambos son elegidos por
-votación, pero que el diputado forma parte del Congreso Nacional y su labor es a nivel
-nacional (crear leyes), mientras que el alcalde dirige una municipalidad y su labor es a
-nivel de una comuna específica.
+✅ Respuesta correcta: **d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna**
+💬 *Retroalimentación:* Distinguir el nivel nacional (Congreso, leyes) del nivel comunal (municipalidad) es clave para entender quién resuelve cada tema.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** En tu comuna se necesita arreglar una plaza que está
-en mal estado. ¿A qué autoridad correspondería principalmente resolver este tema? Explica
-por qué.
+**6. (Alternativas — desafiante)** En tu comuna se necesita arreglar una plaza que está en mal estado. ¿A qué autoridad le correspondería principalmente resolver este tema?
+a) Al Presidente de la República, porque es la máxima autoridad del país
+b) Al alcalde o alcaldesa y la municipalidad, porque la infraestructura local es responsabilidad municipal
+c) A los senadores del Congreso Nacional, porque ellos crean las leyes sobre plazas y deciden su presupuesto
+d) A los jueces de los tribunales, porque deciden quién debe arreglar la plaza
 
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica al alcalde o alcaldesa
-(y la municipalidad) como la autoridad correspondiente, ya que los temas de infraestructura
-local, como plazas y calles de la comuna, son responsabilidad municipal, y no del Gobierno
-central ni del Congreso Nacional.
+✅ Respuesta correcta: **b) Al alcalde o alcaldesa y la municipalidad, porque la infraestructura local es responsabilidad municipal**
+💬 *Retroalimentación:* Los temas de infraestructura local, como plazas y calles de la comuna, son responsabilidad municipal, y no del Gobierno central ni del Congreso Nacional.
 
 ---
 
@@ -775,13 +772,14 @@ escuchados.
 
 ---
 
-**3. (Desarrollo breve)** Da un ejemplo de un derecho que ejerces en tu vida diaria y
-explica cómo lo ejerces.
+**3. (Alternativas)** ¿Qué ejemplo muestra correctamente cómo se ejerce un derecho en la vida diaria?
+a) Ejerzo mi derecho a la salud cuando falto al colegio sin estar enfermo
+b) Ejerzo mi derecho a la recreación cuando no dejo jugar a otros
+c) Ejerzo mi derecho a la educación cuando voy todos los días a mi escuela a aprender
+d) Ejerzo mi derecho a la expresión cuando insulto a un compañero
 
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica un derecho real (educación,
-recreación, alimentación, salud, expresión) y describe una situación cotidiana concreta donde
-se ejerce, por ejemplo: "ejerzo mi derecho a la educación cuando voy todos los días a mi
-escuela a aprender".
+✅ Respuesta correcta: **c) Ejerzo mi derecho a la educación cuando voy todos los días a mi escuela a aprender**
+💬 *Retroalimentación:* Los derechos (educación, recreación, alimentación, salud, expresión) se ejercen en situaciones cotidianas concretas, y siempre respetando los derechos de los demás.
 
 ---
 
@@ -810,13 +808,14 @@ todos los niños y niñas del mundo, independiente de dónde vivan.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Qué podrías hacer si te das cuenta de que a un
-compañero o compañera no se le está respetando alguno de sus derechos?
+**6. (Alternativas — desafiante)** ¿Qué podrías hacer si te das cuenta de que a un compañero o compañera no se le está respetando alguno de sus derechos?
+a) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir ayuda
+b) Ignorar la situación porque no es mi problema y no me corresponde meterme
+c) Resolverlo solo, peleando con quien no respeta sus derechos para defenderlo
+d) Esperar a que se solucione sola, sin contarle a nadie lo que vi en el colegio
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona contarle a un adulto de
-confianza (un profesor, un familiar, un directivo del colegio) para pedir ayuda, en lugar de
-ignorar la situación o intentar resolverla solo. Reconocer el problema y buscar ayuda es una
-forma de proteger los derechos propios y de los demás.
+✅ Respuesta correcta: **a) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir ayuda**
+💬 *Retroalimentación:* Reconocer el problema y buscar ayuda de un adulto de confianza es una forma de proteger los derechos propios y de los demás.
 
 ---
 

@@ -94,10 +94,10 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 1. *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a bike."*
    What can't Pedro do?
    a) Swim
-   b) Ride a bike
+   b) Read
    c) Run
-   d) Read
-   **Respuesta correcta:** b) Ride a bike.
+   d) Ride a bike
+   **Respuesta correcta:** d) Ride a bike.
    **Retroalimentación:** *Can't* señala la habilidad que NO tiene; el texto lo dice
    directamente después de *but* (pero).
 
@@ -107,39 +107,47 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
    **Retroalimentación:** El texto dice *in front of* (en frente de), no *behind*
    (detrás de); hay que distinguir bien las palabras de posición.
 
-3. *(Completar)* Complete with "can" or "can't": *A fish ___ swim, but it ___
-   fly.*
-   **Respuesta correcta:** can / can't.
-   **Retroalimentación:** Los peces sí saben nadar (habilidad) pero no pueden
-   volar (inhabilidad); cada espacio corresponde a una idea contraria.
+3. *(Alternativas — completar)* Complete with "can" or "can't": *A fish ___ swim, but it ___ fly.*
+   a) can / can't
+   b) can't / can
+   c) can / can
+   d) can't / can't
+   **Respuesta correcta:** a) can / can't.
+   **Retroalimentación:** Los peces sí saben nadar (habilidad) pero no pueden volar (inhabilidad); cada espacio corresponde a una idea contraria, unidas por *but*.
 
-4. *(Emparejar)* Relaciona la hora con la expresión correcta: 3:00 → ¿"three
-   o'clock" o "three past half"?
-   **Respuesta correcta:** three o'clock.
-   **Retroalimentación:** *O'clock* se usa cuando la hora es exacta (en punto), sin
-   minutos adicionales.
+4. *(Alternativas — hora)* ¿Qué expresión corresponde a las 3:00?
+   a) half past three
+   b) quarter past three
+   c) three past half
+   d) three o'clock
+   **Respuesta correcta:** d) three o'clock.
+   **Retroalimentación:** *O'clock* se usa cuando la hora es exacta (en punto), sin minutos adicionales; *half past three* serían las 3:30.
 
-5. *(Responder en inglés)* Read: *"Yesterday, Camila visited her grandmother. Today
-   she visits her friend."* Answer: *What did Camila do yesterday?*
-   **Respuesta esperada:** *She visited her grandmother.*
-   **Retroalimentación:** *Yesterday* indica pasado; el verbo cambia a *visited*
-   (con -ed), a diferencia de *visits* en presente.
+5. *(Alternativas — comprensión)* Read: *"Yesterday, Camila visited her grandmother. Today she visits her friend."* Answer: *What did Camila do yesterday?*
+   a) She visits her friend.
+   b) She visited her friend.
+   c) She visited her grandmother.
+   d) She visit her grandmother.
+   **Respuesta correcta:** c) She visited her grandmother.
+   **Retroalimentación:** *Yesterday* indica pasado; el verbo cambia a *visited* (con -ed), a diferencia de *visits* en presente. Hoy visita a su amiga, no ayer.
 
 6. *(Alternativas — desafiante)* Read: *"Turn right at the corner. The museum is
    between the bank and the hotel."* ¿Dónde está el museo?
-   a) Frente al banco
-   b) Entre el banco y el hotel
+   a) Entre el banco y el hotel
+   b) Frente al banco
    c) Detrás del hotel
    d) Al lado de la escuela
-   **Respuesta correcta:** b) Entre el banco y el hotel.
+   **Respuesta correcta:** a) Entre el banco y el hotel.
    **Retroalimentación:** *Between* significa "entre dos cosas"; el texto ubica el
    museo exactamente entre esos dos lugares.
 
-7. *(Responder en inglés — desafiante)* Read: *"There are twelve students in the
-   classroom and fifteen books on the shelf."* Answer: *How many books are there?*
-   **Respuesta esperada:** *There are fifteen books.*
-   **Retroalimentación:** Hay que ubicar la cantidad exacta asociada a *books*
-   (libros), no confundirla con el número de estudiantes.
+7. *(Alternativas — comprensión, desafiante)* Read: *"There are twelve students in the classroom and fifteen books on the shelf."* Answer: *How many books are there?*
+   a) There are twelve books.
+   b) There are twenty-seven books.
+   c) There are fifteen books.
+   d) There are fifteen students.
+   **Respuesta correcta:** c) There are fifteen books.
+   **Retroalimentación:** Hay que ubicar la cantidad exacta asociada a *books* (libros), no confundirla con el número de estudiantes.
 
 ---
 
@@ -195,21 +203,21 @@ porque aparece en muchos textos distintos.
 
 1. *(Alternativas)* Read: *"Fresh vegetables and fruit! Open every day from 9 am to
    8 pm. Central Market."* ¿Cuál es el propósito de este texto?
-   a) Dar una receta
-   b) Anunciar una tienda (aviso publicitario)
-   c) Pedir disculpas
-   d) Describir el clima
-   **Respuesta correcta:** b) Anunciar una tienda (aviso publicitario).
+   a) Dar una receta con verduras y frutas
+   b) Describir el clima de la ciudad cada día
+   c) Pedir disculpas por cerrar temprano
+   d) Anunciar una tienda (aviso publicitario)
+   **Respuesta correcta:** d) Anunciar una tienda (aviso publicitario).
    **Retroalimentación:** El texto ofrece productos y horarios de un lugar; esa
    estructura es típica de un aviso publicitario (*advertisement*).
 
-2. *(Completar)* Complete with the past simple: *"Yesterday I played in the rain
-   without a jacket. Today I don't feel well. I think I ___ a cold yesterday."*
-   (catch / caught / catches)
-   **Respuesta correcta:** caught.
-   **Retroalimentación:** La palabra *yesterday* indica que la acción de resfriarse
-   ocurrió en el pasado, por eso se usa el pasado simple de *catch*, que es
-   irregular: *caught*. *Catch* y *catches* son formas del presente.
+2. *(Alternativas — completar)* Complete with the past simple: *"Yesterday I played in the rain without a jacket. Today I don't feel well. I think I ___ a cold yesterday."*
+   a) caught
+   b) catch
+   c) catches
+   d) catched
+   **Respuesta correcta:** a) caught.
+   **Retroalimentación:** La palabra *yesterday* indica pasado, por eso se usa el pasado de *catch*, que es irregular: *caught* (no *catched*). *Catch* y *catches* son formas del presente.
 
 3. *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
    minutes."* Esto corresponde a instrucciones para preparar comida.
@@ -217,34 +225,40 @@ porque aparece en muchos textos distintos.
    **Retroalimentación:** Las palabras *mix* (mezclar) y *bake* (hornear) son
    típicas del lenguaje de una receta de cocina.
 
-4. *(Emparejar)* Relaciona la expresión con su significado: *"have lunch"* → ¿
-   "desayunar" o "almorzar"?
-   **Respuesta correcta:** almorzar.
-   **Retroalimentación:** *Have lunch* significa "almorzar"; *have breakfast* es
-   "desayunar" y *have dinner* es "cenar".
+4. *(Alternativas — significado)* ¿Qué significa la expresión *"have lunch"*?
+   a) Desayunar
+   b) Cenar
+   c) Merendar en la noche
+   d) Almorzar
+   **Respuesta correcta:** d) Almorzar.
+   **Retroalimentación:** *Have lunch* significa "almorzar"; *have breakfast* es "desayunar" y *have dinner* es "cenar".
 
-5. *(Responder en inglés)* Read a menu: *"Menu: Pizza — $4.000. Salad — $2.000.
-   Juice — $1.000."* Answer: *How much is the pizza?*
-   **Respuesta esperada:** *The pizza is $4.000. / It is $4.000.*
-   **Retroalimentación:** Hay que ubicar la información explícita (el precio)
-   asociada a la palabra *pizza* en el menú.
+5. *(Alternativas — comprensión)* Read a menu: *"Menu: Pizza — $4.000. Salad — $2.000. Juice — $1.000."* Answer: *How much is the pizza?*
+   a) It is $1.000.
+   b) It is $2.000.
+   c) It is $4.000.
+   d) It is $7.000.
+   **Respuesta correcta:** c) It is $4.000.
+   **Retroalimentación:** Hay que ubicar la información explícita (el precio) asociada a la palabra *pizza* en el menú; $7.000 sería el total de todo.
 
 6. *(Alternativas — desafiante)* Read an email: *"Hi Sofía, I can't come to school
    today. I have a fever and a cough. See you soon, Martina."* ¿Por qué Martina no
    puede ir a la escuela?
-   a) Porque está de vacaciones
-   b) Porque está enferma
+   a) Porque está enferma
+   b) Porque está de vacaciones
    c) Porque va a un cumpleaños
    d) Porque llueve
-   **Respuesta correcta:** b) Porque está enferma.
+   **Respuesta correcta:** a) Porque está enferma.
    **Retroalimentación:** *Fever* (fiebre) y *cough* (tos) son síntomas de
    enfermedad; el correo explica el motivo con esas palabras clave.
 
-7. *(Completar — desafiante)* Complete the dialogue: *"— What's the matter? — I
-   ___ a headache."*
-   **Respuesta correcta:** have.
-   **Retroalimentación:** La estructura correcta para describir un malestar es
-   *have + [síntoma]*: *have a headache* (tener dolor de cabeza).
+7. *(Alternativas — completar, desafiante)* Complete the dialogue: *"— What's the matter? — I ___ a headache."*
+   a) am
+   b) has
+   c) have
+   d) do
+   **Respuesta correcta:** c) have.
+   **Retroalimentación:** La estructura correcta para describir un malestar es *have + [síntoma]*: *I have a headache* (tengo dolor de cabeza). Con *I* no se usa *has*.
 
 ---
 
@@ -292,12 +306,13 @@ justificar tu opinión.
 
 **Banco de autoevaluación**
 
-1. *(Responder en inglés)* Read: *"Camila's mother is a doctor. Camila thinks it is
-   an important job."* Answer: *What job do you think is important? Why?*
-   **Respuesta esperada:** Respuesta personal con estructura correcta, por
-   ejemplo: *I think a teacher is important because teachers help children learn.*
-   **Retroalimentación:** Se espera *I think* + ocupación + *because* + razón,
-   siguiendo el modelo del texto.
+1. *(Alternativas — opinión con modelo)* Read: *"Camila's mother is a doctor. Camila thinks it is an important job."* Which answer to *What job do you think is important? Why?* follows the model correctly?
+   a) I think a teacher is important because teachers help children learn.
+   b) I thinks a teacher important because teachers helps children.
+   c) Teacher important I think, because children learn teacher.
+   d) I think because a teacher is important help children learn.
+   **Respuesta correcta:** a) I think a teacher is important because teachers help children learn.
+   **Retroalimentación:** Se espera *I think* + ocupación + *because* + razón, siguiendo el modelo del texto. Tú puedes elegir otra ocupación.
 
 2. *(Alternativas)* Which sentence expresses an opinion (una opinión)?
    a) The zoo has many animals.
@@ -315,19 +330,21 @@ justificar tu opinión.
    **Retroalimentación:** El texto dice explícitamente que Martina piensa que el
    desierto es *boring* (aburrido), no *exciting* (emocionante).
 
-4. *(Completar)* Complete: *I ___ camping is fun, because you can see the stars at
-   night.* (think / thinks)
-   **Respuesta correcta:** think.
-   **Retroalimentación:** Con el sujeto *I*, el verbo se usa en su forma simple:
-   *I think*, no *I thinks* (esa forma solo se usa con *he/she/it*).
+4. *(Alternativas — completar)* Complete: *I ___ camping is fun, because you can see the stars at night.*
+   a) thinks
+   b) thinking
+   c) thought it
+   d) think
+   **Respuesta correcta:** d) think.
+   **Retroalimentación:** Con el sujeto *I*, el verbo se usa en su forma simple: *I think*, no *I thinks* (esa forma solo se usa con *he/she/it*).
 
-5. *(Responder en inglés)* Read: *"Pedro's uncle is a pilot. He travels to many
-   countries."* Answer: *Would you like to be a pilot? Why or why not?*
-   **Respuesta esperada:** Respuesta personal breve, por ejemplo: *Yes, I would
-   like to be a pilot because I like to travel. / No, I wouldn't, because I am
-   afraid of flying.*
-   **Retroalimentación:** Se evalúa que la respuesta conecte con la pregunta usando
-   *yes/no* + una razón introducida por *because*.
+5. *(Alternativas — respuesta personal)* Read: *"Pedro's uncle is a pilot. He travels to many countries."* Which is a correct answer to *Would you like to be a pilot? Why or why not?*
+   a) Yes, I would like be pilot because I like travel.
+   b) Yes, I would like to be a pilot because I like to travel.
+   c) No, I wouldn't, because I likes to fly in planes.
+   d) Pilot yes travel, because I like to the countries.
+   **Respuesta correcta:** b) Yes, I would like to be a pilot because I like to travel.
+   **Retroalimentación:** La respuesta conecta con la pregunta usando *yes/no* + una razón introducida por *because* (*No, I wouldn't, because I am afraid of flying* también sería correcta).
 
 6. *(Alternativas — desafiante)* Read: *"Diego is quiet and likes reading. Sofía is
    funny and likes telling jokes."* ¿Qué oración compara correctamente a los dos
@@ -387,17 +404,21 @@ interés o de tu país, siguiendo el modelo dado.
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete the invitation model: *"I would like to invite you to my
-   party ___ Saturday at 4 pm."* (on / in / at)
-   **Respuesta correcta:** on.
-   **Retroalimentación:** Se usa *on* con días de la semana (*on Saturday*); *at*
-   se usa con horas (*at 4 pm*) e *in* con meses o años.
+1. *(Alternativas — completar)* Complete the invitation: *"I would like to invite you to my party ___ Saturday at 4 pm."*
+   a) in
+   b) at
+   c) on
+   d) to
+   **Respuesta correcta:** c) on.
+   **Retroalimentación:** Se usa *on* con días de la semana (*on Saturday*); *at* se usa con horas (*at 4 pm*) e *in* con meses o años.
 
-2. *(Completar)* Complete the agenda entry: *"Friday: I ___ (visit) my
-   grandparents in the countryside."* (usa el verbo en presente simple)
-   **Respuesta correcta:** visit.
-   **Retroalimentación:** En una agenda con sujeto *I*, el verbo va en su forma
-   simple sin -s: *I visit*, no *I visits*.
+2. *(Alternativas — completar)* Complete the agenda entry with the simple present: *"Friday: I ___ my grandparents in the countryside."*
+   a) visit
+   b) visits
+   c) visiting
+   d) am visit
+   **Respuesta correcta:** a) visit.
+   **Retroalimentación:** En una agenda con sujeto *I*, el verbo va en su forma simple sin -s: *I visit*, no *I visits*.
 
 3. *(Alternativas)* ¿Qué frase se usa para cerrar (despedirse) en un email
    informal?
@@ -417,20 +438,21 @@ interés o de tu país, siguiendo el modelo dado.
    para iniciar un cuento; como esta tira cómica narra un cuento, la frase es
    adecuada también en ese formato.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"Dear ___, I am
-   going to visit ___ next weekend. I feel ___ about it."* Escribe tu propia
-   versión.
-   **Respuesta esperada:** Respuesta personal, por ejemplo: *"Dear Diary, I am
-   going to visit the zoo next weekend. I feel excited about it."*
-   **Retroalimentación:** Se evalúa que cada espacio tenga el tipo de información
-   correcta: destinatario, lugar/actividad y un sentimiento.
+5. *(Alternativas — escribir siguiendo un modelo)* Model: *"Dear ___, I am going to visit ___ next weekend. I feel ___ about it."* Which text completes the model correctly?
+   a) Dear excited, I am going to visit Diary next weekend. I feel the zoo about it.
+   b) Dear zoo, I am going to visit excited next weekend. I feel Diary about it.
+   c) Dear Diary, I am going to visit next weekend the zoo excited.
+   d) Dear Diary, I am going to visit the zoo next weekend. I feel excited about it.
+   **Respuesta correcta:** d) Dear Diary, I am going to visit the zoo next weekend. I feel excited about it.
+   **Retroalimentación:** Cada espacio debe tener el tipo de información correcta: destinatario, lugar/actividad y un sentimiento. Ahora escribe tu propia versión.
 
-6. *(Completar)* Complete the postcard: *"The weather here is ___. I am having a
-   great time at the ___."* (elige palabras coherentes con unas vacaciones en la
-   playa)
-   **Respuesta correcta:** por ejemplo, *sunny* / *beach*.
-   **Retroalimentación:** Una postal de vacaciones en la playa debe describir un
-   clima y un lugar coherentes con ese contexto (*sunny*, *beach*).
+6. *(Alternativas — completar)* Complete the postcard from a beach holiday: *"The weather here is ___. I am having a great time at the ___."*
+   a) snowy / beach
+   b) sunny / beach
+   c) sunny / library
+   d) cold / office
+   **Respuesta correcta:** b) sunny / beach.
+   **Retroalimentación:** Una postal de vacaciones en la playa debe describir un clima y un lugar coherentes con ese contexto (*sunny*, *beach*).
 
 ---
 
@@ -487,11 +509,13 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"Look! The children ___ (play) in the park right
-   now."* (usa el presente continuo)
-   **Respuesta correcta:** are playing.
-   **Retroalimentación:** Para acciones que ocurren en este momento se usa *is/are
-   + verbo-ing*; con *children* (plural) corresponde *are*.
+1. *(Alternativas — completar)* Complete with the present continuous: *"Look! The children ___ in the park right now."*
+   a) is playing
+   b) play
+   c) are playing
+   d) played
+   **Respuesta correcta:** c) are playing.
+   **Retroalimentación:** Para acciones que ocurren en este momento se usa *is/are + verbo-ing*; con *children* (plural) corresponde *are*.
 
 2. *(Alternativas)* ¿Qué plural es correcto para "sheep" (oveja)?
    a) sheeps
@@ -502,11 +526,13 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
    **Retroalimentación:** *Sheep* es un sustantivo irregular que no cambia en
    plural: se escribe igual en singular y plural.
 
-3. *(Completar con contraste)* Complete: *"A dolphin can swim fast, ___ it can't
-   walk on land."* (but / and)
-   **Respuesta correcta:** but.
-   **Retroalimentación:** *But* se usa para contrastar dos ideas opuestas (puede
-   nadar pero no puede caminar); *and* solo suma ideas.
+3. *(Alternativas — contraste)* Complete: *"A dolphin can swim fast, ___ it can't walk on land."*
+   a) but
+   b) and
+   c) because
+   d) so
+   **Respuesta correcta:** a) but.
+   **Retroalimentación:** *But* se usa para contrastar dos ideas opuestas (puede nadar pero no puede caminar); *and* solo suma ideas.
 
 4. *(Verdadero o falso)* La oración *"This is Pedro's dog"* significa que el perro
    es de Pedro.
@@ -514,18 +540,21 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
    **Retroalimentación:** El posesivo *'s* después de un nombre indica pertenencia:
    *Pedro's dog* = el perro de Pedro.
 
-5. *(Completar con número)* Complete: *"There are ___ students in my class."*
-   (usa el número 18 en inglés)
-   **Respuesta correcta:** eighteen.
-   **Retroalimentación:** Los números hasta el 20 deben poder escribirse en
-   palabras: eighteen = dieciocho.
+5. *(Alternativas — número)* Complete with the number 18 in English: *"There are ___ students in my class."*
+   a) eighty
+   b) eight
+   c) eleven
+   d) eighteen
+   **Respuesta correcta:** d) eighteen.
+   **Retroalimentación:** Los números hasta el 20 deben poder escribirse en palabras: eighteen = dieciocho; *eighty* es ochenta.
 
-6. *(Responder en inglés)* Answer with a complete sentence: *"— How many apples are
-   there in the basket? There are twelve apples. — Who ate the apples?"* (responde
-   inventando una respuesta coherente)
-   **Respuesta esperada:** Por ejemplo: *My brother ate the apples.*
-   **Retroalimentación:** La pregunta con *who* pide identificar una persona; la
-   respuesta debe nombrar un sujeto realizando la acción en pasado.
+6. *(Alternativas — pregunta con who)* Read: *"— There were twelve apples in the basket. Now there are none! — Who ate the apples?"* Which answer is correct and complete?
+   a) There are twelve apples.
+   b) My brother ate the apples.
+   c) The apples are in the basket.
+   d) Yes, he ate.
+   **Respuesta correcta:** b) My brother ate the apples.
+   **Retroalimentación:** La pregunta con *who* pide identificar a una persona; la respuesta debe nombrar un sujeto realizando la acción en pasado (*ate*).
 
 7. *(Alternativas — desafiante)* ¿Qué oración describe correctamente **cómo** se
    realiza una acción?
@@ -537,11 +566,13 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
    **Retroalimentación:** *Very fast* describe la manera (cómo) en que el zorro
    corre; las otras oraciones describen ubicación o características, no modo.
 
-8. *(Completar — presente continuo, pregunta y respuesta)* Complete the dialogue:
-   *"— Are they camping in the forest? — Yes, ___."*
-   **Respuesta correcta:** they are.
-   **Retroalimentación:** La respuesta corta correcta a *Are they...?* es *Yes,
-   they are.* o *No, they aren't.*; no basta con responder solo "yes".
+8. *(Alternativas — presente continuo)* Complete the dialogue: *"— Are they camping in the forest? — Yes, ___."*
+   a) they is
+   b) we are
+   c) they are
+   d) they camping
+   **Respuesta correcta:** c) they are.
+   **Retroalimentación:** La respuesta corta correcta a *Are they...?* es *Yes, they are.* o *No, they aren't.*
 
 ---
 

@@ -118,19 +118,21 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    scientist and inventor. He is famous for the Mona Lisa, but he also
    designed early flying machines."* ¿Qué información es explícita en el
    texto?
-   a) Leonardo da Vinci lived in France.
-   b) Leonardo da Vinci was Italian and painted the Mona Lisa.
-   c) Leonardo da Vinci only painted portraits.
-   d) Leonardo da Vinci never studied science.
-   **Respuesta correcta:** b.
+   a) Leonardo da Vinci was French and lived in Paris all his life.
+   b) Leonardo da Vinci only painted portraits and never invented anything.
+   c) Leonardo da Vinci was Italian and painted the Mona Lisa.
+   d) Leonardo da Vinci never studied science or built any machines.
+   **Respuesta correcta:** c.
    **Retroalimentación:** La información explícita aparece literalmente en el
    texto: nacionalidad italiana y autoría de la Mona Lisa.
 
-2. *(Completar)* Complete: *"This text is ___ the history of chocolate. It
-   explains ___ cacao was used by ancient civilizations."* (about / how)
-   **Respuesta correcta:** about / how.
-   **Retroalimentación:** *About* introduce el tema general; *how* introduce
-   la explicación de un proceso o modo.
+2. *(Alternativas — Completar)* Complete: *"This text is ___ the history of chocolate. It explains ___ cacao was used by ancient civilizations."*
+   a) about / how
+   b) of / why
+   c) to / what
+   d) about / who
+   **Respuesta correcta:** a) about / how.
+   **Retroalimentación:** *About* introduce el tema general; *how* introduce la explicación de un proceso o modo.
 
 3. *(Verdadero o falso)* Read: *"The Amazon rainforest helps regulate the climate
    and is home to many species."* Statement: *The Amazon rainforest
@@ -140,61 +142,59 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    la afirmación lo niega. Se responde usando esa información explícita, sin
    necesitar conocimientos externos ni porcentajes de producción de oxígeno.
 
-4. *(Responder en inglés)* Read: *"In 1969, astronauts landed on the Moon for
-   the first time. Millions of people watched the event on television."*
-   Answer: *When did astronauts first land on the Moon?*
-   **Respuesta correcta:** *They landed on the Moon in 1969.*
-   **Retroalimentación:** La respuesta usa la fecha exacta mencionada en el
-   texto (información explícita).
+4. *(Alternativas — Comprensión)* Read: *"In 1969, astronauts landed on the Moon for the first time. Millions of people watched the event on television."* *When did astronauts first land on the Moon?*
+   a) They landed on television.
+   b) They landed in 1996.
+   c) Millions of people landed.
+   d) They landed on the Moon in 1969.
+   **Respuesta correcta:** d) They landed on the Moon in 1969.
+   **Retroalimentación:** La respuesta usa la fecha exacta mencionada en el texto (información explícita).
 
-5. *(Emparejar)* Relaciona la pregunta con el tipo de información que busca:
-   *"How many people watched the event?"* → ¿"información específica (cifra)"
-   o "idea general"?
-   **Respuesta correcta:** información específica (cifra).
-   **Retroalimentación:** Preguntas con *how many* buscan un dato puntual
-   (número), no la idea general del texto.
+5. *(Alternativas — Tipo de información)* ¿Qué tipo de información busca *"How many people watched the event?"*?
+   a) La idea general del texto
+   b) El propósito del texto
+   c) La opinión del autor
+   d) Información específica (una cifra)
+   **Respuesta correcta:** d) Información específica (una cifra).
+   **Retroalimentación:** Las preguntas con *how many* buscan un dato puntual (número).
 
-6. *(Completar)* Complete a chart with information from the text: *"Isabel
-   Allende is a Chilean writer. She was born in 1942 and is famous for the
-   novel 'The House of the Spirits'."* Nationality: ___ / Year of birth: ___ /
-   Famous work: ___
-   **Respuesta correcta:** Chilean / 1942 / The House of the Spirits.
-   **Retroalimentación:** Completar esquemas exige extraer datos puntuales del
-   texto y clasificarlos según la categoría pedida.
+6. *(Alternativas — Completar)* Read: *"Isabel Allende is a Chilean writer. She was born in 1942 and is famous for the novel 'The House of the Spirits'."* Nationality: ___ / Year of birth: ___ / Famous work: ___
+   a) Spanish / 1942 / The House of the Spirits
+   b) Chilean / 1924 / The Spirits
+   c) Chilean / 1942 / The House of the Spirits
+   d) Writer / Chilean / 1942
+   **Respuesta correcta:** c) Chilean / 1942 / The House of the Spirits.
+   **Retroalimentación:** Completar esquemas exige extraer datos puntuales y clasificarlos según la categoría.
 
 7. *(Alternativas — desafiante)* Read a text about renewable energy in other
    countries that includes some unfamiliar vocabulary (*hydropower,
    geothermal*). ¿Qué estrategia es más útil para entender el texto sin
    traducir cada palabra?
-   a) Detenerse en cada palabra desconocida y buscarla de inmediato.
-   b) Usar el contexto y las palabras conocidas para inferir el sentido
+   a) Detenerse en cada palabra desconocida y buscarla de inmediato en el diccionario antes de seguir leyendo.
+   b) Ignorar el texto completo si aparece una palabra difícil y buscar otro texto más fácil sobre el tema.
+   c) Usar el contexto y las palabras conocidas para inferir el sentido
       general antes de usar el diccionario.
-   c) Ignorar el texto completo si aparece una palabra difícil.
-   d) Memorizar el texto sin comprenderlo.
-   **Respuesta correcta:** b.
+   d) Memorizar el texto palabra por palabra, aunque no se comprenda, para repetirlo después.
+   **Respuesta correcta:** c.
    **Retroalimentación:** Ante temas menos conocidos, conviene inferir por
    contexto primero y reservar el diccionario para palabras clave que
    realmente bloquean la comprensión.
 
-8. *(Resumir — desafiante)* Read: *"Bees play a key role in pollinating
-   plants. Without bees, many fruits and vegetables would not grow. In recent
-   years, bee populations have declined due to pesticides and habitat loss."*
-   Answer the guiding questions to summarize: *What do bees do? Why are they
-   important? What is happening to them?*
-   **Respuesta esperada:** Respuesta personal breve y fiel al texto, por
-   ejemplo: *"Bees pollinate plants, which helps fruits and vegetables grow.
-   Bee populations are declining because of pesticides and habitat loss."*
-   **Retroalimentación:** Se evalúa que el resumen responda las tres preguntas
-   guía sin copiar oraciones completas del texto original.
+8. *(Alternativas — Resumir — desafiante)* Read: *"Bees play a key role in pollinating plants. Without bees, many fruits and vegetables would not grow. In recent years, bee populations have declined due to pesticides and habitat loss."* Which summary answers *What do bees do? Why are they important? What is happening to them?*
+   a) Bees pollinate plants, which helps fruits and vegetables grow. Bee populations are declining because of pesticides and habitat loss.
+   b) Bees make honey and live in hives. They are important because people like to eat honey, and their populations are growing every year.
+   c) Pesticides help bees grow and pollinate more plants. In recent years, bee populations have increased because there are more fruits.
+   d) Fruits and vegetables pollinate bees, which helps bees make honey. Bee populations are declining because people eat too many fruits.
+   **Respuesta correcta:** a) Bees pollinate plants, which helps fruits and vegetables grow. Bee populations are declining because of pesticides and habitat loss.
+   **Retroalimentación:** El resumen debe responder las tres preguntas guía con palabras propias y fiel al texto.
 
-9. *(Responder en inglés — desafiante)* Read: *"Chess was invented in India
-   more than 1,500 years ago and later spread to Persia, Europe and the rest
-   of the world."* Answer: *According to the text, where did chess originate
-   and how did it spread?*
-   **Respuesta esperada:** *Chess originated in India more than 1,500 years
-   ago and later spread to Persia, Europe and the rest of the world.*
-   **Retroalimentación:** Se espera que la respuesta combine dos datos
-   explícitos del texto (origen y expansión) en una sola oración coherente.
+9. *(Alternativas — Comprensión — desafiante)* Read: *"Chess was invented in India more than 1,500 years ago and later spread to Persia, Europe and the rest of the world."* *Where did chess originate and how did it spread?*
+   a) It originated in Persia and later spread to India, Europe and the rest of the world.
+   b) It originated in Europe 1,500 years ago and later spread to India and Persia.
+   c) It originated everywhere at the same time, so it did not need to spread at all.
+   d) It originated in India and later spread to Persia, Europe and the rest of the world.
+   **Respuesta correcta:** d) It originated in India and later spread to Persia, Europe and the rest of the world.
+   **Retroalimentación:** La respuesta combina dos datos explícitos (origen y expansión) en una sola oración.
 
 ---
 
@@ -270,20 +270,21 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
 
 1. *(Alternativas)* Read: *"Save water! Take shorter showers and turn off the
    tap while brushing your teeth."* ¿Cuál es el propósito de este texto?
-   a) To entertain
-   b) To persuade/instruct
+   a) To persuade/instruct
+   b) To entertain
    c) To tell a story
    d) To sell a product
-   **Respuesta correcta:** b) To persuade/instruct.
+   **Respuesta correcta:** a) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización buscan persuadir al
    lector para que cambie un comportamiento (ahorrar agua).
 
-2. *(Completar)* Complete with the correct connector: *"The concert started
-   late. ___, most people stayed until the end."* (However / So that)
-   **Respuesta correcta:** However.
-   **Retroalimentación:** *However* (sin embargo) marca un contraste entre el
-   inicio tardío y el hecho de que la gente se quedó; *so that* expresa
-   propósito, no contraste.
+2. *(Alternativas — Completar)* Complete: *"The concert started late. ___, most people stayed until the end."*
+   a) So that
+   b) First
+   c) Because
+   d) However
+   **Respuesta correcta:** d) However.
+   **Retroalimentación:** *However* marca contraste; *so that* expresa propósito.
 
 3. *(Verdadero o falso)* Read: *"Traffic in the city was a big problem, so the
    government built more bike lanes to reduce it."* Statement: *This sentence
@@ -292,51 +293,56 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
    **Retroalimentación:** Se plantea un problema (el tráfico) y una solución
    (más ciclovías), conectados por *so*.
 
-4. *(Completar)* Complete with the correct antonym using a prefix: *"He was
-   very ___ (responsible) with his money and lost his job."* (use ir-)
-   **Respuesta correcta:** irresponsible.
-   **Retroalimentación:** El prefijo *ir-* se usa antes de adjetivos que
-   comienzan con "r" para formar el antónimo: *responsible → irresponsible*.
+4. *(Alternativas — Completar)* Complete with the antonym: *"He was very ___ with his money and lost his job."* (responsible + ir-)
+   a) responsible
+   b) unresponsible
+   c) irresponsible
+   d) disresponsible
+   **Respuesta correcta:** c) irresponsible.
+   **Retroalimentación:** El prefijo *ir-* se usa antes de adjetivos que comienzan con "r".
 
-5. *(Emparejar)* Relaciona la palabra base con su sustantivo de ocupación:
-   *"violin"* → ¿"violinist" o "violiner"?
-   **Respuesta correcta:** violinist.
-   **Retroalimentación:** El sufijo *-ist* forma nombres de ocupación
-   relacionados con instrumentos o disciplinas: *violin → violinist*, *art →
-   artist*.
+5. *(Alternativas — Vocabulario)* What is the occupation noun formed from *"violin"*?
+   a) violinist
+   b) violiner
+   c) violinman
+   d) violinery
+   **Respuesta correcta:** a) violinist.
+   **Retroalimentación:** El sufijo *-ist* forma ocupaciones vinculadas a instrumentos o disciplinas: *violin → violinist*, *art → artist*.
 
-6. *(Responder en inglés)* Read: *"I need to make a decision about which
-   university to apply to."* Answer: *What collocation is used to say
-   "decidir" in this sentence?*
-   **Respuesta correcta:** *make a decision.*
-   **Retroalimentación:** En inglés se dice *make a decision* (no "do a
-   decision"); es una combinación fija de palabras (collocation).
+6. *(Alternativas — Collocations)* Read: *"I need to make a decision about which university to apply to."* Which collocation means "decidir"?
+   a) do a decision
+   b) take a university
+   c) apply a decision
+   d) make a decision
+   **Respuesta correcta:** d) make a decision.
+   **Retroalimentación:** En inglés se dice *make a decision* (no "do a decision").
 
 7. *(Alternativas — desafiante)* Read: *"Although she was tired, she finished
    her homework so that she could go to the concert."* ¿Qué función cumple
    *"so that"* en la oración?
    a) Expresa contraste
-   b) Expresa propósito
-   c) Expresa secuencia
+   b) Expresa secuencia
+   c) Expresa propósito
    d) Expresa cantidad
-   **Respuesta correcta:** b) Expresa propósito.
+   **Respuesta correcta:** c) Expresa propósito.
    **Retroalimentación:** *So that* introduce el propósito de una acción (para
    poder ir al concierto); *although*, en cambio, expresa contraste.
 
-8. *(Completar — desafiante)* Complete: *"The artist used ___ (colour) paints
-   to create a very ___ (care) painting."* (usa sufijo -ful en ambas)
-   **Respuesta correcta:** colourful / careful.
-   **Retroalimentación:** El sufijo *-ful* transforma sustantivos en
-   adjetivos: *colour → colourful* (lleno de color), *care → careful*
-   (cuidadoso).
+8. *(Alternativas — Completar — desafiante)* Complete: *"The artist used ___ paints to create a very ___ painting."* (colour / care + -ful)
+   a) colourless / careless
+   b) colourful / careful
+   c) colouring / caring
+   d) colour / care
+   **Respuesta correcta:** b) colourful / careful.
+   **Retroalimentación:** El sufijo *-ful* transforma sustantivos en adjetivos: lleno de color, cuidadoso.
 
 9. *(Alternativas — desafiante)* Read a short biography that mentions the
    person "was both a writer and a translator." ¿Qué indica la estructura
    *"both...and..."*?
-   a) Que la persona eligió solo una profesión.
+   a) Que la persona eligió solo una de las dos profesiones.
    b) Que la persona ejerció las dos profesiones mencionadas.
-   c) Que la persona rechazó ambas profesiones.
-   d) Que la persona es desconocida.
+   c) Que la persona rechazó ambas profesiones mencionadas.
+   d) Que la persona es desconocida en su propio país.
    **Respuesta correcta:** b.
    **Retroalimentación:** *Both...and...* une dos elementos que son ciertos al
    mismo tiempo: la persona fue escritora y traductora.
@@ -407,30 +413,33 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"___ my opinion, learning about other cultures
-   makes us more tolerant."* (In / At)
-   **Respuesta correcta:** In.
-   **Retroalimentación:** La expresión fija es *in my opinion*, no "at my
-   opinion".
+1. *(Alternativas — Completar)* Complete: *"___ my opinion, learning about other cultures makes us more tolerant."*
+   a) At
+   b) On
+   c) In
+   d) For
+   **Respuesta correcta:** c) In.
+   **Retroalimentación:** La expresión fija es *in my opinion*.
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una opinión justificada sobre
    un problema global?
-   a) Pollution exists in cities.
+   a) Pollution exists in many cities, and there are a lot of cars on the streets.
    b) In my opinion, cities should reduce car use because it would lower air
       pollution.
-   c) Cars are common in cities.
-   d) There is a city near here.
+   c) Cars are common in cities because many people need to travel to work by car.
+   d) There is a big city near here, and many people drive their cars there every day.
    **Respuesta correcta:** b.
    **Retroalimentación:** Solo la opción b) combina una opinión (*in my
    opinion*) con una razón (*because*); las demás solo describen hechos sin
    argumentar.
 
-3. *(Completar)* Complete a text about a school subject: *"Yesterday, in
-   Science class, we ___ (learn) about the human body. I ___ (find) it very
-   interesting."* (usa pasado simple)
-   **Respuesta correcta:** learned / found.
-   **Retroalimentación:** *Yesterday* indica una acción terminada en el
-   pasado, por lo que ambos verbos van en pasado simple.
+3. *(Alternativas — Completar)* Complete: *"Yesterday, in Science class, we ___ about the human body. I ___ it very interesting."* (learn / find, simple past)
+   a) learned / found
+   b) learn / find
+   c) learned / finded
+   d) learning / found
+   **Respuesta correcta:** a) learned / found.
+   **Retroalimentación:** *Yesterday* exige pasado simple; *find* es irregular: *found*.
 
 4. *(Verdadero o falso)* La oración *"For example, in Japan people often
    remove their shoes before entering a house"* es un buen recurso para
@@ -439,37 +448,38 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
    **Retroalimentación:** *For example* introduce un ejemplo concreto que
    apoya una idea general sobre una costumbre cultural, tal como pide este OA.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"One global
-   issue that worries me is ___. I think we should ___ to solve it."* Escribe
-   tu propia versión.
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"One
-   global issue that worries me is plastic pollution. I think we should use
-   less plastic and recycle more to solve it."*
-   **Retroalimentación:** Se evalúa que el problema y la solución propuesta
-   estén conectados lógicamente y usen vocabulario del OA.
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global issue that worries me is ___. I think we should ___ to solve it."* logically?
+   a) plastic pollution / buy more plastic bottles
+   b) recycling / throw plastic bottles into the river
+   c) plastic pollution / ignore it because it is not our problem
+   d) plastic pollution / use less plastic and recycle more
+   **Respuesta correcta:** d) plastic pollution / use less plastic and recycle more.
+   **Retroalimentación:** El problema y la solución deben estar conectados de forma lógica.
 
-6. *(Emparejar)* Relaciona la expresión con su función: *"As a result, many
-   species are in danger"* → ¿"dar un ejemplo" o "expresar una consecuencia"?
-   **Respuesta correcta:** expresar una consecuencia.
-   **Retroalimentación:** *As a result* (como resultado) introduce una
-   consecuencia derivada de una causa mencionada antes, no un ejemplo.
+6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, many species are in danger"*?
+   a) Dar un ejemplo
+   b) Expresar una consecuencia
+   c) Expresar una opinión
+   d) Hacer una pregunta
+   **Respuesta correcta:** b) Expresar una consecuencia.
+   **Retroalimentación:** *As a result* introduce una consecuencia derivada de una causa mencionada antes.
 
-7. *(Completar — desafiante)* Complete a caption for a picture about
-   deforestation: *"This picture shows ___. In my opinion, ___ because ___."*
-   **Respuesta esperada:** Respuesta coherente, por ejemplo: *"This picture
-   shows a forest being cut down. In my opinion, this is a serious problem
-   because it destroys the habitat of many animals."*
-   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una
-   opinión (*in my opinion*) y la justifica con *because*.
+7. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture about deforestation: *"This picture shows ___. In my opinion, ___ because ___."*
+   a) a forest being cut down / this is great / the trees are green and many animals live there
+   b) a beach / this is a serious problem / it destroys the forests and the habitat of many fish
+   c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals
+   d) a forest with many trees / this is a nice place / people like to walk in the forest
+   **Respuesta correcta:** c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals.
+   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una opinión y la justifica con *because*.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de un inventor famoso. ¿Qué oración resume mejor la información
    respetando la finalidad del OA?
-   a) Thomas Edison.
+   a) Thomas Edison. Inventor. Light bulb. Night. People. Changed. The text I read. Famous. America. Lived.
    b) The text I read was about Thomas Edison, an inventor who created the
       light bulb and changed how people lived at night.
-   c) Light bulbs are useful.
-   d) I don't remember the text.
+   c) Light bulbs are useful, and many people around the world use them every night in their houses.
+   d) I don't remember the text very well, but I think it was about a famous inventor from America who lived long ago.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración resume el texto leído con información
    relevante (quién fue, qué hizo, su impacto), cumpliendo con lo que pide el
@@ -578,12 +588,13 @@ conectores más complejos (*although, so that, both...and, and last*).
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"There are ___ people living in that city."* (two
-   million / two millions)
-   **Respuesta correcta:** two million.
-   **Retroalimentación:** *Million*, *thousand* y *hundred* no llevan *-s*
-   cuando van precedidos de un número exacto: *two million*, no "two
-   millions".
+1. *(Alternativas — Completar)* Complete: *"There are ___ people living in that city."*
+   a) two million
+   b) two millions
+   c) two millions of
+   d) two million of
+   **Respuesta correcta:** a) two million.
+   **Retroalimentación:** *Million*, *thousand* y *hundred* no llevan *-s* cuando van precedidos de un número exacto.
 
 2. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto para
    una acción que empezó en el pasado y continúa hoy?
@@ -596,12 +607,13 @@ conectores más complejos (*although, so that, both...and, and last*).
    perfecto (*has worked*) porque la acción comenzó en el pasado y sigue
    vigente.
 
-3. *(Completar)* Complete with the correct antonym: *"He was very ___
-   (respectful) to his classmates and never listened to their opinions."*
-   (usa dis-)
-   **Respuesta correcta:** disrespectful.
-   **Retroalimentación:** El prefijo *dis-* forma el antónimo: *respectful →
-   disrespectful* (irrespetuoso).
+3. *(Alternativas — Completar)* Complete with the antonym: *"He was very ___ to his classmates and never listened to their opinions."* (respectful + dis-)
+   a) respectful
+   b) unrespectful
+   c) irrespectful
+   d) disrespectful
+   **Respuesta correcta:** d) disrespectful.
+   **Retroalimentación:** El prefijo *dis-* forma el antónimo: irrespetuoso.
 
 4. *(Verdadero o falso)* La oración *"I used to play the guitar, but now I
    don't have time"* describe un hábito pasado que ya no ocurre.
@@ -609,97 +621,96 @@ conectores más complejos (*although, so that, both...and, and last*).
    **Retroalimentación:** *Used to* + verbo describe una acción habitual en
    el pasado que ya no se repite en el presente.
 
-5. *(Emparejar)* Relaciona la pregunta con la respuesta correcta sobre
-   duración: *"How long have you studied English?"* → ¿"For three years" o
-   "Three years ago"?
-   **Respuesta correcta:** For three years.
-   **Retroalimentación:** *For* + un período de tiempo responde a *how long*
-   (cuánto tiempo); *ago* se usa con el pasado simple para señalar cuándo
-   ocurrió algo, no su duración.
+5. *(Alternativas — Duración)* *"How long have you studied English?"* Which answer is correct?
+   a) Three years ago.
+   b) For three years.
+   c) In three years.
+   d) Since three years.
+   **Respuesta correcta:** b) For three years.
+   **Retroalimentación:** *For* + período responde a *how long*; *ago* indica cuándo ocurrió algo, no su duración.
 
-6. *(Completar)* Complete with who or which: *"The woman ___ lives next door
-   is a doctor. The book, ___ I borrowed from the library, is amazing."*
-   **Respuesta correcta:** who / which.
-   **Retroalimentación:** *Who* se usa para personas (*the woman who
-   lives...*); *which* se usa para cosas (*the book, which I borrowed...*).
+6. *(Alternativas — Completar)* Complete: *"The woman ___ lives next door is a doctor. The book, ___ I borrowed from the library, is amazing."*
+   a) which / who
+   b) where / which
+   c) who / which
+   d) who / where
+   **Respuesta correcta:** c) who / which.
+   **Retroalimentación:** *Who* se usa para personas y *which* para cosas.
 
-7. *(Responder en inglés)* Answer the question: *"— How long have you and
-   your best friend been friends? — ___"* (responde usando since o for)
-   **Respuesta esperada:** Respuesta con estructura correcta, por ejemplo:
-   *We have been friends for five years.* o *We have been friends since
-   2020.*
-   **Retroalimentación:** Se espera presente perfecto (*have been*) + *for* +
-   duración, o *since* + punto en el tiempo.
+7. *(Varias correctas — Respuesta)* *"— How long have you and your best friend been friends? — ___"* Which answers are correct? Marca **todas** las correctas.
+   a) We have been friends for five years.
+   b) We have been friends since 2020.
+   c) We are friends since five years.
+   d) We have been friends for 2020.
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Se usa presente perfecto + *for* + duración, o *since* + punto en el tiempo.
 
-8. *(Completar — desafiante)* Complete with although, so that or both...and:
-   *"___ she was tired, she kept studying ___ she could pass the exam."*
-   **Respuesta correcta:** Although / so that.
-   **Retroalimentación:** *Although* introduce el contraste (estaba cansada
-   pero igual estudió); *so that* introduce el propósito (para poder aprobar
-   el examen).
+8. *(Alternativas — Completar — desafiante)* Complete: *"___ she was tired, she kept studying ___ she could pass the exam."*
+   a) Although / so that
+   b) So that / although
+   c) Both / and
+   d) Because / although
+   **Respuesta correcta:** a) Although / so that.
+   **Retroalimentación:** *Although* introduce el contraste y *so that* el propósito.
 
 9. *(Alternativas — desafiante)* ¿Qué oración describe correctamente una
    ocupación y una cualidad de la persona?
-   a) He teacher.
+   a) He teacher and he very patient with his students.
    b) He is a teacher and he is very patient with his students.
-   c) Teacher patient students.
-   d) He teaches.
+   c) Teacher patient students, he is very a teacher.
+   d) He teaches every day at a school near his house.
    **Respuesta correcta:** b.
    **Retroalimentación:** Una buena descripción combina la ocupación (*a
    teacher*) con una cualidad personal (*very patient*) en una oración
    completa.
 
-10. *(Completar — desafiante)* Complete the sentence with the present
-    perfect or the past simple: *"My aunt ___ (work) as a nurse for forty
-    years — she still works at the hospital today — but she ___ (start)
-    that job in 1985."*
-    **Respuesta correcta:** has worked / started.
-    **Retroalimentación:** *For forty years* describe una acción que sigue
-    vigente ("she still works"), por lo que exige presente perfecto (*has
-    worked*); *in 1985* es un momento específico y terminado, por lo que se
-    usa pasado simple (*started*).
+10. *(Alternativas — Completar — desafiante)* Complete: *"My aunt ___ as a nurse for forty years — she still works at the hospital today — but she ___ that job in 1985."* (work / start)
+    a) worked / has started
+    b) works / starts
+    c) has worked / has started
+    d) has worked / started
+    **Respuesta correcta:** d) has worked / started.
+    **Retroalimentación:** *For forty years* con una acción vigente exige presente perfecto; *in 1985* es un momento terminado y exige pasado simple.
 
-11. *(Responder en inglés — desafiante)* Answer citing someone else's
-    opinion: *"According to your teacher, why is it important to read every
-    day?"*
-    **Respuesta esperada:** Respuesta personal usando *according to*, por
-    ejemplo: *According to my teacher, reading every day improves vocabulary
-    and comprehension.*
-    **Retroalimentación:** Se evalúa el uso correcto de *according to*
-    (según) para citar la opinión de otra persona, tal como pide el OA.
+11. *(Alternativas — Citar opiniones — desafiante)* *"According to your teacher, why is it important to read every day?"* Which answer uses *according to* correctly?
+    a) According my teacher reading every day, vocabulary and comprehension is improve.
+    b) According to my teacher, reading every day improves vocabulary and comprehension.
+    c) My teacher according to read every day improves the vocabulary and comprehension.
+    d) According to me, my teacher reads every day at her house.
+    **Respuesta correcta:** b) According to my teacher, reading every day improves vocabulary and comprehension.
+    **Retroalimentación:** *According to* (según) se usa para citar la opinión de otra persona.
 
-12. *(Completar — desafiante)* Complete with a compound word or collocation:
-    *"She decided to ___ for a ___ job at the local hospital to gain
-    experience while studying."* (apply / part-time)
-    **Respuesta correcta:** apply / part-time.
-    **Retroalimentación:** *Apply for a job* (postular a un trabajo) y
-    *part-time job* (trabajo de media jornada) son combinaciones frecuentes
-    de palabras (collocations) del ámbito laboral.
+12. *(Alternativas — Completar — desafiante)* Complete: *"She decided to ___ for a ___ job at the local hospital to gain experience while studying."*
+    a) apply / part-times
+    b) ask / time-part
+    c) apply / part-time
+    d) make / part-time
+    **Respuesta correcta:** c) apply / part-time.
+    **Retroalimentación:** *Apply for a job* y *part-time job* son collocations del ámbito laboral.
 
-13. *(Completar)* Complete with the correct passive form: *"This famous song
-    ___ (compose) by a Chilean musician in the 1980s, and it is still
-    performed today."*
-    **Respuesta correcta:** was composed.
-    **Retroalimentación:** La voz pasiva (*be* + participio pasado) describe
-    procesos u obras cuando importa el resultado, no quién lo hizo: *was
-    composed by...* (fue compuesta por...). En pasado: *was/were* +
-    participio.
+13. *(Alternativas — Completar)* Complete with the passive: *"This famous song ___ by a Chilean musician in the 1980s, and it is still performed today."* (compose)
+    a) was composed
+    b) composed
+    c) is composing
+    d) were composed
+    **Respuesta correcta:** a) was composed.
+    **Retroalimentación:** La voz pasiva en pasado se forma con *was/were* + participio.
 
-14. *(Completar)* Complete with need to or needn't: *"You ___ rehearse more
-    before the concert — practice is essential — but you ___ bring your own
-    instrument; the school lends you one."*
-    **Respuesta correcta:** need to / needn't.
-    **Retroalimentación:** *Need to* expresa una necesidad real (es necesario
-    ensayar); *needn't* significa que no hace falta (no es necesario traer el
-    instrumento).
+14. *(Alternativas — Completar)* Complete: *"You ___ rehearse more before the concert — practice is essential — but you ___ bring your own instrument; the school lends you one."*
+    a) needn't / need to
+    b) need to / need to
+    c) needn't / needn't
+    d) need to / needn't
+    **Respuesta correcta:** d) need to / needn't.
+    **Retroalimentación:** *Need to* expresa una necesidad real; *needn't* indica que no hace falta.
 
-15. *(Completar)* Complete with who, which or where: *"This is the square
-    ___ families gather to see street performers every weekend. The artists
-    ___ perform there are mostly students."*
-    **Respuesta correcta:** where / who.
-    **Retroalimentación:** *Where* introduce información adicional sobre un
-    lugar (*the square where families gather*); *who* se usa para personas
-    (*the artists who perform*); *which* se reserva para cosas.
+15. *(Alternativas — Completar)* Complete: *"This is the square ___ families gather to see street performers every weekend. The artists ___ perform there are mostly students."*
+    a) which / where
+    b) where / who
+    c) who / which
+    d) where / which
+    **Respuesta correcta:** b) where / who.
+    **Retroalimentación:** *Where* se usa para lugares y *who* para personas.
 
 ---
 

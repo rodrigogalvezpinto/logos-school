@@ -19,9 +19,7 @@ relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y
 
 1. Este examen contiene **25 preguntas** y tiene una duración de **90 minutos**.
 2. Se permite el uso de **calculadora**. Puedes usarla para calcular, pero recuerda que debes entender qué operación aplicar en cada problema y verificar que el resultado tenga sentido.
-3. Hay dos tipos de preguntas:
-   - **Preguntas de alternativas**: marca con una X la opción correcta (a, b, c o d).
-   - **Preguntas de desarrollo**: resuelve el problema y **muestra tu desarrollo completo** (los cálculos que hiciste para llegar a tu respuesta). Las respuestas sin desarrollo pueden no recibir el puntaje completo.
+3. Todas las preguntas son de **alternativas**: marca con una X la opción correcta (a, b, c o d). Te recomendamos resolver cada problema en tu hoja antes de elegir: las alternativas incorrectas corresponden a errores frecuentes.
 4. Escribe con lápiz pasta o lápiz grafito legible. Si te equivocas, tacha claramente y vuelve a escribir.
 5. Lee cada pregunta con calma antes de responder. Si tienes dudas sobre el enunciado, continúa con la siguiente pregunta y vuelve más tarde.
 6. Revisa tus respuestas antes de entregar la prueba.
@@ -34,12 +32,17 @@ relación con otras formas: versión alternativa (mismos OA y ejes, escenarios y
 
 a) $5.460
 b) $546.000
-c) $54.600.000
-d) $5.460.000
+c) $5.460.000
+d) $54.600.000
 
 ---
 
-**Pregunta 2 (desarrollo).** Un campamento de verano cuenta con $39.500.000 para arrendar buses. Cada bus cuesta $4.300.000. ¿Cuántos buses completos puede arrendar y cuánto dinero le sobra? Muestra tu desarrollo (puedes usar calculadora).
+**Pregunta 2 (alternativas).** Un campamento de verano cuenta con $39.500.000 para arrendar buses. Cada bus cuesta $4.300.000. ¿Cuántos buses completos puede arrendar y cuánto dinero le sobra?
+
+a) 9 buses y sobran $8.000
+b) 9,18 buses
+c) 10 buses y faltan $3.500.000
+d) 9 buses y sobran $800.000
 
 ---
 
@@ -52,7 +55,12 @@ d) 4:3
 
 ---
 
-**Pregunta 4 (desarrollo).** En un taller de costura, la razón entre cierres y botones utilizados es 2:5. Si se usaron 8 cierres, ¿cuántos botones se usaron? Muestra tu desarrollo.
+**Pregunta 4 (alternativas).** En un taller de costura, la razón entre cierres y botones utilizados es 2:5. Si se usaron 8 cierres, ¿cuántos botones se usaron?
+
+a) 11 botones
+b) 5 botones
+c) 40 botones
+d) 20 botones
 
 ---
 
@@ -67,14 +75,19 @@ d) 75/10
 
 **Pregunta 6 (alternativas).** Una entrada al museo cuesta $8.000 y los estudiantes tienen un descuento del 20%. ¿Cuánto dinero se descuenta?
 
-a) $2.000
+a) $400
 b) $800
 c) $1.600
-d) $400
+d) $2.000
 
 ---
 
-**Pregunta 7 (desarrollo).** En un torneo de ajedrez con 180 participantes, el 55% juega con las piezas blancas en la primera ronda. ¿Cuántos participantes juegan con blancas? Muestra tu desarrollo.
+**Pregunta 7 (alternativas).** En un torneo de ajedrez con 180 participantes, el 55% juega con las piezas blancas en la primera ronda. ¿Cuántos participantes juegan con blancas?
+
+a) 55 participantes
+b) 81 participantes
+c) 99 participantes
+d) 125 participantes
 
 ---
 
@@ -87,7 +100,12 @@ d) 4 3/4
 
 ---
 
-**Pregunta 9 (desarrollo).** Transforma la fracción impropia 33/9 en número mixto, y simplifica la fracción resultante si es posible. Muestra tu desarrollo.
+**Pregunta 9 (alternativas).** ¿Cuál es el número mixto equivalente a 33/9, simplificado?
+
+a) 3 1/3
+b) 6 3/9
+c) 3 2/3
+d) 2 6/9
 
 ---
 
@@ -100,7 +118,12 @@ d) 6 1/2
 
 ---
 
-**Pregunta 11 (desarrollo).** Una bodega tiene 32,400 kg de harina. Se retiran 14,650 kg para completar un pedido. Un encargado anotó que quedan 18,750 kg. ¿Es correcto ese resultado? Verifica y corrige si es necesario, mostrando tu desarrollo.
+**Pregunta 11 (alternativas).** Una bodega tiene 32,400 kg de harina. Se retiran 14,650 kg para completar un pedido. Un encargado anotó que quedan 18,750 kg. ¿Es correcto ese resultado?
+
+a) No; quedan 47,050 kg
+b) Sí; quedan 18,750 kg
+c) No; quedan 18,250 kg
+d) No; quedan 17,750 kg
 
 ---
 
@@ -115,7 +138,12 @@ d) 44
 
 ---
 
-**Pregunta 13 (desarrollo).** Matías tenía cierta cantidad de estampillas coleccionadas. Le regalaron 15 estampillas más, y ahora tiene 52 en total. Plantea la ecuación (si x es la cantidad que tenía al principio) y resuélvela, mostrando tu desarrollo y la comprobación.
+**Pregunta 13 (alternativas).** Matías tenía cierta cantidad de estampillas coleccionadas. Le regalaron 15 estampillas más, y ahora tiene 52 en total. Si x es la cantidad que tenía al principio, ¿qué ecuación representa la situación y cuál es su solución?
+
+a) x − 15 = 52; x = 67 estampillas
+b) x + 52 = 15; x = 37 estampillas
+c) x + 15 = 52; x = 67 estampillas
+d) x + 15 = 52; x = 37 estampillas
 
 ---
 
@@ -130,7 +158,12 @@ d) 298°
 
 ---
 
-**Pregunta 15 (desarrollo).** Dos cables de un teleférico, vistos desde abajo, se cruzan formando cuatro ángulos. Uno de ellos mide 58°. Calcula la medida de los otros tres ángulos que se forman. Muestra tu desarrollo.
+**Pregunta 15 (alternativas).** Dos cables de un teleférico, vistos desde abajo, se cruzan formando cuatro ángulos. Uno de ellos mide 58°. ¿Cuánto miden los otros tres ángulos?
+
+a) 58°, 32° y 32°
+b) 58°, 122° y 122°
+c) 122°, 122° y 122°
+d) 58°, 58° y 58°
 
 ---
 
@@ -145,37 +178,57 @@ d) 324 cm²
 
 ---
 
-**Pregunta 17 (desarrollo).** Calcula el área total de una caja de regalo con forma de paralelepípedo de 10 cm de largo, 6 cm de ancho y 4 cm de alto. Muestra tu desarrollo.
+**Pregunta 17 (alternativas).** ¿Cuál es el área total de una caja de regalo con forma de paralelepípedo de 10 cm de largo, 6 cm de ancho y 4 cm de alto?
+
+a) 240 cm²
+b) 124 cm²
+c) 248 cm²
+d) 20 cm²
 
 ---
 
-**Pregunta 18 (desarrollo).** Se quiere forrar con tela decorativa todas las caras de un cofre cúbico de madera de 15 cm de arista. ¿Cuántos cm² de tela se necesitan como mínimo? Muestra tu desarrollo.
+**Pregunta 18 (alternativas).** Se quiere forrar con tela decorativa todas las caras de un cofre cúbico de madera de 15 cm de arista. ¿Cuántos cm² de tela se necesitan como mínimo?
+
+a) 1.350 cm²
+b) 225 cm²
+c) 3.375 cm²
+d) 90 cm²
 
 ---
 
 **Pregunta 19 (alternativas).** ¿Cuál es el volumen de un cubo cuyas aristas miden 5 cm?
 
-a) 125 cm³
+a) 15 cm³
 b) 25 cm³
-c) 15 cm³
+c) 125 cm³
 d) 150 cm³
 
 ---
 
-**Pregunta 20 (desarrollo).** Un invernadero tiene forma de paralelepípedo, con 5 m de largo, 3,5 m de ancho y 2 m de altura. ¿Cuántos metros cúbicos de aire contiene en su interior? Muestra tu desarrollo.
+**Pregunta 20 (alternativas).** Un invernadero tiene forma de paralelepípedo, con 5 m de largo, 3,5 m de ancho y 2 m de altura. ¿Cuántos metros cúbicos de aire contiene en su interior?
+
+a) 10,5 m³
+b) 17,5 m³
+c) 35 m³
+d) 70 m³
 
 ---
 
 **Pregunta 21 (alternativas).** Se gira una ruleta dividida en 4 sectores iguales (rojo, azul, verde, amarillo) 160 veces. ¿Aproximadamente cuántas veces esperarías que salga el sector rojo?
 
-a) 40
+a) 160
 b) 80
-c) 160
+c) 40
 d) 20
 
 ---
 
-**Pregunta 22 (desarrollo).** En un armario hay 3 poleras y 2 pantalones. Usando la idea de diagrama de árbol, ¿cuántas combinaciones distintas de polera y pantalón se pueden formar en total? Muestra tu razonamiento.
+**Pregunta 22 (alternativas).** En un armario hay 3 poleras y 2 pantalones. Usando la idea de diagrama de árbol, ¿cuántas combinaciones distintas de polera y pantalón se pueden formar en total?
+
+a) 5 combinaciones
+b) 6 combinaciones
+c) 8 combinaciones
+d) 9 combinaciones
 
 ---
 
@@ -188,31 +241,41 @@ d) 20
 
 ¿Cuántas personas prefieren al perro?
 
-a) 110
+a) 11
 b) 44
-c) 11
+c) 110
 d) 140
 
 ---
 
-**Pregunta 24 (desarrollo).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
+**Pregunta 24 (alternativas).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
 
 | Taller | Trimestre 1 | Trimestre 2 |
 |---|---|---|
 | Teatro | 45 | 30 |
 | Música | 38 | 52 |
 
-¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre? Muestra tu desarrollo.
+¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre?
+
+a) En el trimestre 1, con 7 asistentes menos que Teatro
+b) En el trimestre 2, con 52 asistentes más que Teatro
+c) En el trimestre 2, con 22 asistentes más que Teatro
+d) En el trimestre 1, con 8 asistentes más que Teatro
 
 ---
 
-**Pregunta 25 (desarrollo).** Un gráfico circular sobre el presupuesto de un club escolar muestra: materiales 40%, transporte 35%, premios 25%. Si el club cuenta con $1.800.000, ¿cuánto dinero corresponde a cada categoría? Muestra tu desarrollo para las tres categorías.
+**Pregunta 25 (alternativas).** Un gráfico circular sobre el presupuesto de un club escolar muestra: materiales 40%, transporte 35%, premios 25%. Si el club cuenta con $1.800.000, ¿cuánto dinero corresponde a cada categoría?
+
+a) Materiales $720.000, transporte $630.000 y premios $450.000
+b) Materiales $40.000, transporte $35.000 y premios $25.000
+c) Materiales $720.000, transporte $650.000 y premios $430.000
+d) $600.000 para cada categoría
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -224,31 +287,31 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | d) $5.460.000 (1.560 × 3.500 = 5.460.000) | OA 2 | Números y Operaciones |
-| 2 | 39.500.000 ÷ 4.300.000 = 9,18... → 9 buses; 9 × 4.300.000 = 38.700.000; sobran $800.000 | OA 2 | Números y Operaciones |
+| 1 | c) $5.460.000 (1.560 × 3.500 = 5.460.000) | OA 2 | Números y Operaciones |
+| 2 | **d) 9 buses y sobran $800.000.** 39.500.000 ÷ 4.300.000 = 9,18…: caben 9 buses completos; 9 × 4.300.000 = 38.700.000; sobran 800.000. | OA 2 | Números y Operaciones |
 | 3 | b) 5:3 (20:12 dividido por 4) | OA 3 | Números y Operaciones |
-| 4 | 8 ÷ 2 = 4, factor de amplificación; 2:5 × 4 = 8:20 → 20 botones | OA 3 | Números y Operaciones |
+| 4 | **d) 20 botones.** 8 ÷ 2 = 4 es el factor de amplificación; 5 × 4 = 20. Sumar 3 a cada término no mantiene la razón. | OA 3 | Números y Operaciones |
 | 5 | c) 3/4 (75/100 simplificado dividiendo por 25) | OA 4 | Números y Operaciones |
 | 6 | c) $1.600 (20% = 0,2 × 8.000 = 1.600) | OA 4 | Números y Operaciones |
-| 7 | 55% de 180 = 0,55 × 180 = 99 participantes | OA 4 | Números y Operaciones |
+| 7 | **c) 99 participantes.** 0,55 × 180 = 99; 81 son los que juegan con negras. | OA 4 | Números y Operaciones |
 | 8 | d) 4 3/4 (19 ÷ 4 = 4, resto 3) | OA 5 | Números y Operaciones |
-| 9 | 33 ÷ 9 = 3, resto 6 → 3 6/9, simplificado 3 2/3 | OA 5 | Números y Operaciones |
+| 9 | **c) 3 2/3.** 33 ÷ 9 = 3, resto 6 → 3 6/9 = 3 2/3. | OA 5 | Números y Operaciones |
 | 10 | b) 7 1/2 (5+1=6; 2/3=4/6; 4/6+5/6=9/6=1 1/2; 6+1 1/2=7 1/2) | OA 8 | Números y Operaciones |
-| 11 | 32,400 − 14,650 = 17,750 kg; el resultado del encargado (18,750) es incorrecto | OA 8 | Números y Operaciones |
+| 11 | **d) No; quedan 17,750 kg.** 32,400 − 14,650 = 17,750; comprobación: 17,750 + 14,650 = 32,400. | OA 8 | Números y Operaciones |
 | 12 | a) 54 (x = 100 − 46) | OA 11 | Patrones y Álgebra |
-| 13 | x + 15 = 52 → x = 52 − 15 = 37 estampillas. Comprobación: 37 + 15 = 52 ✓ | OA 11 | Patrones y Álgebra |
+| 13 | **d) x + 15 = 52; x = 37 estampillas.** Comprobación: 37 + 15 = 52. | OA 11 | Patrones y Álgebra |
 | 14 | b) 118° (180° − 62°) | OA 16 | Geometría |
-| 15 | opuesto por el vértice: 58°; los otros dos (adyacentes): 180° − 58° = 122° cada uno | OA 16 | Geometría |
+| 15 | **b) 58°, 122° y 122°.** Opuesto por el vértice: 58°; adyacentes: 180° − 58° = 122°. | OA 16 | Geometría |
 | 16 | a) 486 cm² (área de una cara: 9×9=81; total: 6×81=486) | OA 18 | Medición y Datos y Probabilidades |
-| 17 | 2×(10×6) + 2×(10×4) + 2×(6×4) = 120+80+48 = 248 cm² | OA 18 | Medición y Datos y Probabilidades |
-| 18 | área de una cara: 15×15=225 cm²; área total: 6×225 = 1.350 cm² | OA 18 | Medición y Datos y Probabilidades |
-| 19 | a) 125 cm³ (5×5×5) | OA 19 | Medición y Datos y Probabilidades |
-| 20 | 5 × 3,5 × 2 = 35 m³ | OA 19 | Medición y Datos y Probabilidades |
-| 21 | a) 40 (los 4 sectores son igualmente probables: 160 ÷ 4 = 40) | OA 23 | Medición y Datos y Probabilidades |
-| 22 | 3 × 2 = 6 combinaciones posibles (por cada polera hay 2 pantalones posibles) | OA 23 | Medición y Datos y Probabilidades |
-| 23 | a) 110 (44% de 250 = 0,44 × 250 = 110) | OA 24 | Medición y Datos y Probabilidades |
-| 24 | Música tuvo más asistentes en el trimestre 2 (52), superando a Teatro por 52 − 30 = 22 asistentes | OA 24 | Medición y Datos y Probabilidades |
-| 25 | materiales: 40% de 1.800.000 = $720.000; transporte: 35% = $630.000; premios: 25% = $450.000 | OA 24 | Medición y Datos y Probabilidades |
+| 17 | **c) 248 cm².** 2×(10×6) + 2×(10×4) + 2×(6×4) = 120 + 80 + 48 = 248. 240 es el volumen en cm³ y 124 resulta de no duplicar las caras. | OA 18 | Medición y Datos y Probabilidades |
+| 18 | **a) 1.350 cm².** Una cara: 15 × 15 = 225; seis caras: 6 × 225 = 1.350. 3.375 sería el volumen. | OA 18 | Medición y Datos y Probabilidades |
+| 19 | c) 125 cm³ (5×5×5) | OA 19 | Medición y Datos y Probabilidades |
+| 20 | **c) 35 m³.** 5 × 3,5 × 2 = 35. | OA 19 | Medición y Datos y Probabilidades |
+| 21 | c) 40 (los 4 sectores son igualmente probables: 160 ÷ 4 = 40) | OA 23 | Medición y Datos y Probabilidades |
+| 22 | **b) 6 combinaciones.** Por cada polera hay 2 pantalones: 3 × 2 = 6. Sumar 3 + 2 = 5 no cuenta las combinaciones. | OA 23 | Medición y Datos y Probabilidades |
+| 23 | c) 110 (44% de 250 = 0,44 × 250 = 110) | OA 24 | Medición y Datos y Probabilidades |
+| 24 | **c) En el trimestre 2, con 22 asistentes más que Teatro.** Música tuvo 52 en el trimestre 2; Teatro, 30: 52 − 30 = 22. | OA 24 | Medición y Datos y Probabilidades |
+| 25 | **a) Materiales $720.000, transporte $630.000 y premios $450.000.** 40% de 1.800.000 = 720.000; 35% = 630.000; 25% = 450.000 (suman 1.800.000). | OA 24 | Medición y Datos y Probabilidades |
 
 ### Resumen de cobertura curricular
 
@@ -260,7 +323,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Medición y Datos y Probabilidades | 10 | OA 18, 19, 23, 24 |
 | **Total** | **25** | **11 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución de ejes/OA que el banco de contenido. Cada pregunta usa un contexto y una historia distintos de su equivalente en el banco de contenido (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
+**Tipo de preguntas:** 25 de alternativas (4 opciones), replicando la misma distribución de ejes/OA que el banco de contenido. Cada pregunta usa un contexto y una historia distintos de su equivalente en el banco de contenido (feria de emprendimiento en vez de fábrica, huerto comunitario en vez de curso, teleférico en vez de vigas de techo, invernadero en vez de contenedor, ruleta en vez de dado, etc.), evitando que memorizar el procedimiento de una forma resuelva automáticamente la otra.
 
 ---
 
@@ -268,17 +331,17 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2 | 1 | 1 |
-| OA 3 | 3, 4 | 1 | 1 |
-| OA 4 | 5, 6, 7 | 2 | 1 |
-| OA 5 | 8, 9 | 1 | 1 |
-| OA 8 | 10, 11 | 1 | 1 |
-| OA 11 | 12, 13 | 1 | 1 |
-| OA 16 | 14, 15 | 1 | 1 |
-| OA 18 | 16, 17, 18 | 1 | 2 |
-| OA 19 | 19, 20 | 1 | 1 |
-| OA 23 | 21, 22 | 1 | 1 |
-| OA 24 | 23, 24, 25 | 1 | 2 |
-| **Total** | **25 preguntas** | **12** | **13** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2 | 2 |
+| OA 3 | 3, 4 | 2 |
+| OA 4 | 5, 6, 7 | 3 |
+| OA 5 | 8, 9 | 2 |
+| OA 8 | 10, 11 | 2 |
+| OA 11 | 12, 13 | 2 |
+| OA 16 | 14, 15 | 2 |
+| OA 18 | 16, 17, 18 | 3 |
+| OA 19 | 19, 20 | 2 |
+| OA 23 | 21, 22 | 2 |
+| OA 24 | 23, 24, 25 | 3 |
+| **Total** | **25 preguntas** | **25** |

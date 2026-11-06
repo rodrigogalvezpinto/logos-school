@@ -22,8 +22,7 @@ ultima_actualizacion: 2026-10-28
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **clasificar**, **desarrollo breve** y **análisis** se responden con
-   tus propias palabras.
+4. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
 
@@ -44,22 +43,37 @@ d) Fuerza gravitacional
 La fuerza de roce siempre es igual entre cualquier par de superficies, sin importar su
 rugosidad.
 
-**Pregunta 3.** (Clasificar)
-Clasifica la fuerza principal involucrada en cada situación (gravitacional, de roce o
-elástica): una manzana cae de un árbol; un resorte se estira al colgarle un peso; un
-auto frena al pisar el pedal de freno (neumáticos contra el pavimento).
+**Pregunta 3.** (Alternativas)
+¿Qué fuerza principal está involucrada en cada situación: (1) una manzana cae de un árbol; (2) un resorte se estira al colgarle un peso; (3) un auto frena (neumáticos contra el pavimento)?
 
-**Pregunta 4.** (Desarrollo breve)
-Explica la diferencia entre el roce estático y el roce cinético.
+a) 1: gravitacional; 2: elástica; 3: de roce
+b) 1: de roce; 2: gravitacional; 3: elástica
+c) 1: elástica; 2: de roce; 3: gravitacional
+d) 1: gravitacional; 2: de roce; 3: elástica
 
-**Pregunta 5.** (Análisis)
-Explica por qué es más fácil deslizar una caja pesada sobre hielo que sobre cemento,
-relacionándolo con la fuerza de roce.
+**Pregunta 4.** (Alternativas)
+¿Cuál es la diferencia entre el roce estático y el roce cinético?
 
-**Pregunta 6.** (Aplicación/análisis)
-Un ciclista pedalea cuesta abajo y nota que, a pesar de no pedalear, su bicicleta sigue
-acelerando. Explica qué fuerza es la principal responsable de esa aceleración, y qué
-otra fuerza actúa oponiéndose a ella.
+a) El estático solo existe en superficies de hielo y el cinético solo en superficies de cemento o asfalto, según lo rugosas que sean
+b) El estático acelera los objetos cuando comienzan a moverse y el cinético los detiene cuando ya están en movimiento
+c) No hay diferencia: son la misma fuerza de roce, que recibe dos nombres según el libro en que se estudie
+d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo
+
+**Pregunta 5.** (Alternativas)
+¿Por qué es más fácil deslizar una caja pesada sobre hielo que sobre cemento?
+
+a) Porque sobre el hielo la caja pesa menos, por el frío
+b) Porque el hielo es más liso y genera menor fuerza de roce
+c) Porque el cemento no ejerce ninguna fuerza de roce
+d) Porque en el hielo no actúa la fuerza de gravedad
+
+**Pregunta 6.** (Alternativas)
+Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
+
+a) El roce con el aire y el pavimento acelera; la gravedad (el peso) se opone al movimiento
+b) La fuerza elástica de los neumáticos acelera la bicicleta; ninguna fuerza se opone al movimiento
+c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone
+d) La gravedad se opone en la bajada; la fuerza muscular aplicada antes sigue acelerando la bicicleta
 
 ---
 
@@ -78,24 +92,37 @@ d) No existe interacción entre placas en Chile
 La actividad sísmica y volcánica se distribuye de forma uniforme y al azar por todo el
 planeta.
 
-**Pregunta 9.** (Clasificar)
-Clasifica estos ejemplos según el tipo de límite de placas al que corresponden
-(convergente, divergente o transformante): formación de una dorsal oceánica donde sube
-material del manto; choque entre dos placas que forma una cordillera; deslizamiento
-lateral entre dos placas que genera fricción.
+**Pregunta 9.** (Alternativas)
+¿A qué tipo de límite de placas corresponde cada ejemplo: (1) dorsal oceánica donde sube material del manto; (2) choque de placas que forma una cordillera; (3) deslizamiento lateral que genera fricción?
 
-**Pregunta 10.** (Desarrollo breve)
-Explica qué son las corrientes convectivas del manto y por qué se consideran la
-principal causa del movimiento de las placas tectónicas.
+a) 1: divergente; 2: convergente; 3: transformante
+b) 1: convergente; 2: divergente; 3: transformante
+c) 1: transformante; 2: convergente; 3: divergente
+d) 1: divergente; 2: transformante; 3: convergente
 
-**Pregunta 11.** (Análisis)
-Explica por qué Chile es un país con alta actividad sísmica y volcánica, relacionándolo
-con las placas tectónicas que interactúan en su territorio.
+**Pregunta 10.** (Alternativas)
+¿Qué son las corrientes convectivas del manto y por qué se consideran la principal causa del movimiento de las placas?
 
-**Pregunta 12.** (Investigación/aplicación)
-Un estudiante observa en un mapa que las principales cadenas montañosas y zonas
-volcánicas del mundo (como los Andes o el "Cinturón de Fuego" del Pacífico) coinciden
-con los bordes de las placas tectónicas. Explica por qué ocurre esta coincidencia.
+a) Corrientes de agua oceánica que empujan los continentes desde el fondo del mar hacia la costa
+b) Vientos fuertes que mueven la corteza terrestre desde la superficie, sobre todo en las montañas
+c) Terremotos que ocurren en la superficie y luego mueven el manto, desplazando las placas junto con ellos hacia los océanos
+d) Movimientos de material caliente que asciende y material frío que desciende en el manto, que empujan lentamente a las placas
+
+**Pregunta 11.** (Alternativas)
+¿Por qué Chile tiene alta actividad sísmica y volcánica?
+
+a) Porque Chile está en el centro de una placa tectónica, lejos de sus bordes, donde la presión del manto empuja la corteza hacia arriba y forma volcanes
+b) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el sur, la Antártica); la subducción libera energía en forma de sismos y volcanes
+c) Porque su clima es muy variado de norte a sur, y los cambios bruscos de temperatura agrietan la corteza, lo que provoca sismos y erupciones
+d) Porque el océano Pacífico es muy profundo frente a la costa chilena, y el peso del agua presiona el fondo marino hasta generar sismos y volcanes
+
+**Pregunta 12.** (Alternativas)
+Las principales cadenas montañosas y zonas volcánicas del mundo, como los Andes o el "Cinturón de Fuego" del Pacífico, coinciden con los bordes de las placas. ¿Por qué?
+
+a) Es una coincidencia sin explicación científica, porque las montañas se forman por la erosión del viento
+b) Porque las montañas atraen a las placas con su peso, y por eso las placas se acumulan bajo ellas
+c) Porque en los bordes las placas interactúan, liberando energía que forma montañas y genera actividad sísmica y volcánica
+d) Porque en el centro de las placas hay más volcanes, y la lava fluye hasta los bordes formando montañas
 
 ---
 
@@ -103,22 +130,13 @@ con los bordes de las placas tectónicas. Explica por qué ocurre esta coinciden
 
 1. b) Roce estático.
 2. Falso — el roce depende de la rugosidad de las superficies en contacto.
-3. Gravitacional: manzana que cae. Elástica: resorte que se estira. De roce: auto que
-   frena.
-4. El roce estático actúa sobre un objeto en reposo, impidiendo que comience a moverse;
-   el roce cinético actúa sobre un objeto que ya está en movimiento, frenándolo.
-5. Porque el hielo es una superficie más lisa que el cemento, lo que genera menor fuerza
-   de roce y facilita el deslizamiento.
-6. La fuerza gravitacional (el peso) es la principal responsable de la aceleración; el
-   roce con el aire y el roce de los neumáticos con el pavimento se oponen al movimiento.
+3. a) 1: gravitacional; 2: elástica; 3: de roce
+4. d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo
+5. b) Porque el hielo es más liso y genera menor fuerza de roce
+6. c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone
 7. c) Límite convergente.
 8. Falso — se concentra principalmente en los bordes de las placas tectónicas.
-9. Divergente: dorsal oceánica. Convergente: choque que forma cordillera. Transformante:
-   deslizamiento lateral.
-10. Movimientos de material caliente que asciende y material frío que desciende dentro
-    del manto, que empujan lentamente a las placas tectónicas.
-11. Porque en la costa de Chile converge la placa de Nazca con la Sudamericana (y en el
-    sur, también la Antártica); la subducción libera energía en forma de sismos y
-    volcanes.
-12. Porque en los bordes de las placas es donde ocurre la interacción entre ellas,
-    liberando la energía que forma montañas y genera actividad sísmica y volcánica.
+9. a) 1: divergente; 2: convergente; 3: transformante
+10. d) Movimientos de material caliente que asciende y material frío que desciende en el manto, que empujan lentamente a las placas
+11. b) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el sur, la Antártica); la subducción libera energía en forma de sismos y volcanes
+12. c) Porque en los bordes las placas interactúan, liberando energía que forma montañas y genera actividad sísmica y volcánica

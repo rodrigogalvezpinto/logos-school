@@ -90,45 +90,70 @@ En 1° medio tu análisis de personajes se vuelve más completo que en el ciclo 
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El bote de mi abuelo"?
 
-a) La pelea entre Tomás y Marcela por haberse ido del pueblo
-b) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
-c) La decisión del abuelo de vender el bote
-d) La falta de dinero de la familia para reparar las redes de pesca
+a) La pelea entre Tomás y Marcela por haberse ido del pueblo a estudiar sin avisar a su familia
+b) La decisión del abuelo de vender el bote para pagar los estudios de sus nietos en la ciudad
+c) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
+d) La falta de dinero de la familia para reparar las redes de pesca después del último temporal
 
-*Respuesta correcta: b.* Retroalimentación: el conflicto central organiza tanto las acciones del padre y del abuelo como la reflexión final de Tomás sobre lo que realmente desea.
+*Respuesta correcta: c.* Retroalimentación: el conflicto central organiza tanto las acciones del padre y del abuelo como la reflexión final de Tomás sobre lo que realmente desea.
 
-**2. (Desarrollo breve)** Compara las motivaciones del padre y del abuelo respecto de la decisión de Tomás. ¿En qué se diferencian?
+**2. (Alternativas)** ¿En qué se diferencian las motivaciones del padre y del abuelo respecto de la decisión de Tomás?
 
-*Respuesta esperada*: el padre está motivado por preservar la tradición familiar y la identidad ligada al bote, aunque no lo exprese directamente y lo muestre a través de sus acciones (reparar redes con fuerza); el abuelo, en cambio, está motivado por que Tomás decida con autonomía y respeto por sí mismo, no por miedo al juicio ajeno, sin imponerle continuar la tradición. Retroalimentación: comparar motivaciones exige fijarse tanto en lo que los personajes dicen explícitamente como en sus acciones, que a veces revelan más que sus palabras.
+a) El padre busca preservar la tradición familiar ligada al bote (lo muestra con acciones); el abuelo quiere que Tomás decida con autonomía, sin miedo al juicio ajeno
+b) Ambos quieren obligar a Tomás a irse a la ciudad, aunque el padre lo dice con palabras y el abuelo lo muestra con acciones
+c) El abuelo exige que Tomás siga el oficio del bote para conservar la tradición; el padre lo invita a estudiar en la ciudad y le ofrece pagar sus estudios
+d) Ninguno tiene una motivación clara
+
+*Respuesta correcta: a.* Retroalimentación: comparar motivaciones exige fijarse en lo que los personajes dicen y en sus acciones, que a veces revelan más que sus palabras.
 
 **3. (Verdadero o Falso)** Si el relato estuviera narrado en primera persona por Tomás, el lector tendría el mismo acceso a los gestos y reacciones físicas del padre que no son notados por Tomás.
 
 *Respuesta correcta: Falso.* Retroalimentación: la narración en tercera persona permite mostrar detalles —como los gestos del padre— que el protagonista no necesariamente interpreta o nota; en primera persona, el lector solo accedería a lo que el propio Tomás percibe y elige contar.
 
-**4. (Aplicación)** Explica por qué el bote azul puede considerarse un **símbolo** dentro del relato.
+**4. (Alternativas — Aplicación)** ¿Por qué el bote azul puede considerarse un **símbolo** en el relato?
 
-*Respuesta esperada*: el bote no es solo un objeto de trabajo, sino que representa la herencia familiar y la presión de continuar el oficio y la identidad que la familia asocia a él; su inmovilidad (siempre amarrado en el mismo lugar) refuerza simbólicamente la idea de una tradición fija que Tomás debe decidir si continúa. Retroalimentación: un símbolo literario adquiere sentido cuando el objeto concreto se conecta con una idea o tensión central de la historia, más allá de su función práctica.
+a) Porque es el bote más rápido y moderno del pueblo, y todos los pescadores de la isla quieren comprarlo para salir más lejos a pescar
+b) Porque es solo un objeto de trabajo sin otro sentido: el relato lo menciona para describir el oficio de la familia y la vida en la caleta
+c) Porque Tomás lo vende al final del relato para pagar sus estudios, lo que demuestra que nunca le importó la tradición de su familia
+d) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa
+
+*Respuesta correcta: d.* Retroalimentación: un símbolo adquiere sentido cuando el objeto se conecta con una idea o tensión central de la historia.
 
 **5. (Alternativas)** ¿A qué **personaje tipo** corresponde el abuelo Wenceslao?
 
 a) El avaro
-b) El sabio o mentor
-c) El antagonista
+b) El antagonista
+c) El sabio o mentor
 d) El pícaro
 
-*Respuesta correcta: b.* Retroalimentación: Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor en la tradición literaria.
+*Respuesta correcta: c.* Retroalimentación: Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor en la tradición literaria.
 
-**6. (Desarrollo breve)** Identifica el prejuicio o creencia que existe en el pueblo sobre quienes se van a estudiar a la ciudad, según el fragmento, y relaciónalo con la visión de mundo de la época en que está ambientado el relato (Chiloé rural, fines de los años 90).
+**6. (Alternativas)** ¿Qué creencia del pueblo sobre quienes se van a estudiar a la ciudad aparece en el fragmento y con qué visión de mundo se vincula?
 
-*Respuesta esperada*: en el pueblo se cree que quienes se van a estudiar "vuelven distintos", lo que sugiere un juicio implícito de que migrar equivale a alejarse de las raíces o de la identidad local; esta creencia responde a una visión de mundo propia de comunidades rurales donde el oficio y el arraigo territorial definían fuertemente la identidad de las personas, algo que hoy convive con una valoración más abierta de la movilidad educativa, aunque la tensión no ha desaparecido del todo. Retroalimentación: identificar un prejuicio en un relato exige relacionarlo con la época y el contexto social en que se ambienta la historia, no solo señalarlo de forma aislada.
+a) Que "vuelven distintos", como si migrar fuera alejarse de las raíces; responde a comunidades rurales donde el oficio y el arraigo definían la identidad
+b) Que vuelven más ricos y con mejor trabajo; responde a una visión urbana del éxito, en que estudiar garantiza dinero y prestigio en el pueblo
+c) Que nunca vuelven al pueblo; responde a la falta de transporte y de caminos, que impedía viajar entre el campo y la ciudad
+d) No existe ninguna creencia sobre ellos
 
-**7. (Desarrollo breve — relación intertextual)** Explica qué función cumple la mención del Caleuche dentro del relato, más allá de ser un dato folclórico.
+*Respuesta correcta: a.* Retroalimentación: identificar un prejuicio exige vincularlo con la época y el contexto social de la historia.
 
-*Respuesta esperada*: la mención del Caleuche conecta el relato con la mitología y la tradición oral de Chiloé, y refuerza el mensaje del abuelo de que el mar exige respeto, no solo uso; esta relación intertextual con la mitología local enriquece el sentido de la conversación entre abuelo y nieto, dándole una dimensión cultural más amplia que la de una simple anécdota familiar. Retroalimentación: una relación intertextual no es una simple referencia decorativa: debe iluminar o profundizar el sentido del texto que estás analizando.
+**7. (Alternativas — vínculo intertextual)** ¿Qué función cumple la mención del Caleuche en el relato?
 
-**8. (Desarrollo breve — análisis integrado)** Formula una hipótesis sobre por qué el autor o autora eligió narrar esta historia en tercera persona en lugar de en primera persona desde la voz de Tomás. Fundamenta con al menos un ejemplo del texto.
+a) Es un dato decorativo sin función: el relato menciona el Caleuche solo para ambientar la historia en Chiloé, sin relación con el mensaje
+b) Anuncia que Tomás se convertirá en marinero del Caleuche al final del relato, como castigo por querer abandonar el mar de su familia
+c) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia
+d) Explica el funcionamiento de un bote de pesca artesanal y las precauciones técnicas que deben tomar los pescadores antes de salir al mar
 
-*Respuesta esperada*: cualquier hipótesis razonada que reconozca que la tercera persona permite mostrar tanto la interioridad de Tomás como las reacciones de otros personajes (como el padre) que el propio protagonista no siempre percibe, lo que enriquece el análisis del conflicto familiar completo y no solo la perspectiva de uno de sus miembros. Retroalimentación: describir el efecto de la narración en primera o tercera persona implica imaginar cómo cambiaría la información disponible para el lector si el autor hubiera elegido la otra opción.
+*Respuesta correcta: c.* Retroalimentación: una referencia intertextual debe iluminar o profundizar el sentido del texto.
+
+**8. (Alternativas — análisis integrado)** ¿Qué hipótesis explica mejor por qué el relato se narra en tercera persona y no desde la voz de Tomás?
+
+a) Porque permite mostrar la interioridad de Tomás y también reacciones de otros personajes (como el padre) que el protagonista no siempre percibe
+b) Porque la tercera persona impide conocer los pensamientos de cualquier personaje, y así el lector debe adivinar lo que siente Tomás
+c) Porque así el relato es más corto y el narrador puede resumir los hechos sin detenerse en las emociones de los personajes
+d) Porque Tomás no sabe escribir
+
+*Respuesta correcta: a.* Retroalimentación: describir el efecto del tipo de narrador implica imaginar cómo cambiaría la información disponible con la otra opción.
 
 ---
 
@@ -196,45 +221,70 @@ En 1° medio incorporas el análisis de **textos dramáticos** —obras de teatr
 
 **1. (Alternativas)** ¿Cuál es el conflicto central de "El turno de las tres"?
 
-a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena
-b) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
-c) La falta de pago del sueldo de Don Héctor
-d) La decisión de Felipe de trabajar en la misma mina que su padre
+a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena y el respeto de los demás mineros
+b) La decisión de Felipe de trabajar en la misma mina que su padre, aunque su familia no está de acuerdo
+c) La falta de pago del sueldo de Don Héctor, que lo obliga a trabajar turnos dobles en la galería
+d) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
 
-*Respuesta correcta: b.* Retroalimentación: el conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.
+*Respuesta correcta: d.* Retroalimentación: el conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.
 
-**2. (Desarrollo breve)** Describe el problema humano más amplio que plantea la obra, más allá de la situación específica del turno minero.
+**2. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá del turno minero?
 
-*Respuesta esperada*: la obra plantea la dificultad de reconocer un límite o un peligro real cuando la propia identidad y el sentido de pertenencia de una persona están profundamente ligados a su oficio y a la responsabilidad hacia sus compañeros, incluso a costa de su propia seguridad. Retroalimentación: identificar el "problema humano" detrás de un conflicto dramático exige ir más allá de la situación concreta (bajar o no a la mina) y preguntarse qué tensión universal representa esa situación.
+a) La falta de herramientas adecuadas en la mina, que obliga a los trabajadores a improvisar con lo que tienen a mano en cada turno, sin apoyo de la empresa
+b) El horario de los turnos mineros, que impide a los trabajadores compartir con sus familias y descansar lo suficiente entre jornadas
+c) El precio del cobre
+d) La dificultad de reconocer un peligro real cuando la identidad y el sentido de pertenencia están ligados al oficio y a la responsabilidad con los compañeros
+
+*Respuesta correcta: d.* Retroalimentación: identificar el problema humano exige preguntarse qué tensión universal representa la situación concreta.
 
 **3. (Verdadero o Falso)** El sonido de la sirena en la obra no tiene relación con el desenlace de la historia; es solo un detalle ambiental sin función dramática.
 
 *Respuesta correcta: Falso.* Retroalimentación: la sirena, que suena tres veces cada vez más cerca y finalmente de forma continua, funciona como un símbolo sonoro que anuncia progresivamente el desenlace, generando tensión creciente en la escena.
 
-**4. (Aplicación)** Explica qué efecto produce en la escena la decisión de ir oscureciendo progresivamente la iluminación mientras suena la sirena, en lugar de mantener la luz constante.
+**4. (Alternativas — Aplicación)** ¿Qué efecto produce oscurecer progresivamente la iluminación mientras suena la sirena?
 
-*Respuesta esperada*: la iluminación decreciente refuerza visualmente el paso del tiempo hacia un desenlace incierto y peligroso, y acompaña emocionalmente la tensión creciente que genera el sonido de la sirena, intensificando en el público o lector la sensación de que algo grave está por ocurrir, sin necesidad de que los personajes lo digan explícitamente. Retroalimentación: los elementos de la puesta en escena (como la iluminación) no son un simple adorno visual: son recursos que el dramaturgo o la dramaturga usa deliberadamente para construir sentido y emoción.
+a) Indica que la obra terminó y que el público debe salir de la sala antes de que se enciendan las luces
+b) Permite cambiar la escenografía sin que el público lo note, sin otro efecto en el sentido de la escena
+c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
+d) Ninguno: la iluminación es solo decorativa y no se relaciona con lo que ocurre entre los personajes
+
+*Respuesta correcta: c.* Retroalimentación: los elementos de la puesta en escena son recursos deliberados para construir sentido y emoción.
 
 **5. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Don Héctor como minero?
 
-a) La sirena
-b) El casco
+a) El casco
+b) La sirena
 c) La galería tres
 d) La lámpara del Capataz
 
-*Respuesta correcta: b.* Retroalimentación: el casco, que Don Héctor tiene desde que entró a trabajar en la mina, simboliza su identidad ligada al oficio; el gesto de quitárselo y mirarlo antes de decidir refuerza este sentido simbólico.
+*Respuesta correcta: a.* Retroalimentación: el casco, que Don Héctor tiene desde que entró a trabajar en la mina, simboliza su identidad ligada al oficio; el gesto de quitárselo y mirarlo antes de decidir refuerza este sentido simbólico.
 
-**6. (Desarrollo breve)** Identifica un hecho o comentario dentro de la escena que funcione como una señal temprana (un presagio) del posible desenlace trágico, y explica por qué Don Héctor decide ignorarlo.
+**6. (Alternativas)** ¿Qué funciona como presagio del desenlace trágico y por qué Don Héctor lo ignora?
 
-*Respuesta esperada*: el comentario de los compañeros sobre "ruidos raros" en la galería desde la mañana, y la recomendación de la ingeniera de esperar hasta el día siguiente, funcionan como presagios del peligro; Don Héctor los ignora porque su identidad como minero experimentado ("treinta años bajando a esta mina") lo lleva a confiar en su propio juicio del riesgo por sobre las advertencias externas. Retroalimentación: en las tragedias, los presagios suelen ser evidentes para el lector o espectador, pero el personaje los ignora por razones que están profundamente conectadas con su carácter o sus valores.
+a) El sonido de los pájaros que salen de la mina; Don Héctor los ignora porque no alcanza a escucharlos con el ruido de las máquinas de la faena
+b) Una carta de su familia que le pide volver a casa; Don Héctor la ignora porque no sabe leer y prefiere no preguntarle a nadie qué dice
+c) Los "ruidos raros" en la galería y la recomendación de la ingeniera de esperar; los ignora porque su identidad de minero experimentado lo hace confiar en su propio juicio
+d) No hay ningún presagio en la escena: Don Héctor sigue la recomendación de la ingeniera y sale de la galería apenas escucha la sirena
 
-**7. (Desarrollo breve — relación intertextual)** Explica con qué tradición de la literatura chilena dialoga esta obra teatral, y qué elementos comparten.
+*Respuesta correcta: c.* Retroalimentación: en las tragedias, los presagios son evidentes para el espectador, pero el personaje los ignora por razones ligadas a su carácter o valores.
 
-*Respuesta esperada*: la obra dialoga con la tradición literaria chilena sobre el mundo minero, representada por ejemplo en los relatos de Baldomero Lillo (*Sub terra*); ambos comparten el retrato del peligro constante que enfrentan los mineros y la tensión entre la necesidad económica o el orgullo del oficio, y el riesgo físico real que implica el trabajo en la mina. Retroalimentación: reconocer relaciones intertextuales permite ubicar una obra dentro de una tradición literaria más amplia, en lugar de leerla como un caso aislado.
+**7. (Alternativas — vínculo intertextual)** ¿Con qué tradición de la literatura chilena dialoga esta obra?
 
-**8. (Desarrollo breve — análisis integrado)** Si tuvieras que dirigir esta escena, ¿qué elemento de la puesta en escena (iluminación, sonido, vestuario, escenografía o actuación) reforzarías más para transmitir el problema humano central de la obra? Fundamenta tu elección.
+a) Con la literatura sobre el mundo minero, como *Sub terra* de Baldomero Lillo, con la que comparte el retrato del peligro y la tensión entre necesidad, orgullo del oficio y riesgo
+b) Con la poesía amorosa de Neruda, por sus metáforas marinas y su retrato de la naturaleza chilena, con la que comparte el tono íntimo y la nostalgia de la costa
+c) Con la novela de ciencia ficción, por su ambientación subterránea y su visión de un futuro en que las máquinas reemplazan a los mineros
+d) No dialoga con ninguna tradición
 
-*Respuesta esperada*: cualquier elección razonada que conecte el elemento escogido con el problema humano de la obra; por ejemplo, reforzar el sonido de la sirena para intensificar la sensación de urgencia y peligro creciente, o trabajar la actuación de Don Héctor para mostrar sutilmente su duda interna detrás de la calma aparente. Retroalimentación: pensar como director o directora de escena ayuda a comprender que cada elemento de la puesta en escena es una decisión interpretativa que puede acentuar distintos aspectos del sentido de la obra.
+*Respuesta correcta: a.* Retroalimentación: reconocer relaciones intertextuales permite ubicar una obra en una tradición más amplia.
+
+**8. (Varias correctas — análisis integrado)** Como director o directora, ¿qué decisiones de puesta en escena reforzarían el problema humano central de la obra? Marca **todas** las correctas.
+
+a) Intensificar el sonido de la sirena para aumentar la sensación de urgencia y peligro
+b) Trabajar la actuación de Don Héctor para mostrar su duda interna detrás de la calma aparente
+c) Agregar música alegre y luces de colores durante toda la escena
+d) Eliminar la sirena y mantener la luz constante
+
+*Respuesta correcta: a y b.* Retroalimentación: cada elemento de la puesta en escena es una decisión interpretativa; las opciones festivas o que eliminan la tensión contradicen el sentido de la obra.
 
 ---
 
@@ -274,45 +324,70 @@ En 1° medio tu interpretación literaria da un salto de exigencia: debes formul
 
 **1. (Alternativas)** ¿A qué mito alude explícitamente el microcuento "Marejada"?
 
-a) El mito griego de Poseidón
-b) El mito mapuche de Kai Kai Vilu y Trentren Vilu
-c) La leyenda del Caleuche
-d) El mito bíblico del diluvio universal
+a) El mito griego de Poseidón, dios del mar
+b) El relato bíblico del diluvio universal y el arca
+c) La leyenda chilota del Caleuche, el barco fantasma
+d) El mito mapuche de Kai Kai Vilu y Trentren Vilu
 
-*Respuesta correcta: b.* Retroalimentación: el texto menciona explícitamente a Kai Kai Vilu (la serpiente del agua) y Trentren Vilu (la serpiente de la tierra), figuras centrales de la cosmovisión mapuche sobre el origen de los cerros.
+*Respuesta correcta: d.* Retroalimentación: el texto menciona explícitamente a Kai Kai Vilu (la serpiente del agua) y Trentren Vilu (la serpiente de la tierra), figuras centrales de la cosmovisión mapuche sobre el origen de los cerros.
 
-**2. (Desarrollo breve)** Formula una hipótesis, con un punto de vista histórico o social, sobre el sentido general de "Marejada".
+**2. (Alternativas)** ¿Qué hipótesis sobre "Marejada" adopta un punto de vista histórico o social?
 
-*Respuesta esperada*: cualquier hipótesis razonada que adopte explícitamente un punto de vista histórico o social; por ejemplo, que el relato reflexiona sobre cómo el conocimiento ancestral de los pueblos originarios puede ofrecer advertencias tempranas frente a fenómenos que hoy la ciencia confirma con otros métodos, cuestionando socialmente la idea de que solo el conocimiento científico moderno es válido para explicar el mundo. Retroalimentación: una hipótesis con punto de vista histórico o social debe relacionar el sentido de la obra con procesos o tensiones más amplias que las de la anécdota personal del texto.
+a) El relato trata sobre unas vacaciones en la playa, en que la narradora recuerda los juegos de su infancia con su abuela junto al mar
+b) El relato es una lista de datos sobre el clima y las mareas, y su sentido general es informar sobre el cambio climático con cifras científicas, sin ningún vínculo con la cultura mapuche ni con su abuela
+c) El relato no tiene ningún sentido general
+d) El relato reflexiona sobre cómo el saber ancestral de los pueblos originarios puede anticipar fenómenos que hoy confirma la ciencia, cuestionando que solo el conocimiento científico sea válido
+
+*Respuesta correcta: d.* Retroalimentación: una hipótesis histórica o social vincula la obra con procesos o tensiones más amplias que la anécdota.
 
 **3. (Verdadero o Falso)** Según el Ejemplo 2, el microcuento presenta la cosmovisión mapuche y el discurso científico como visiones opuestas, donde una desmiente a la otra.
 
 *Respuesta correcta: Falso.* Retroalimentación: el texto pone ambas visiones en diálogo, no en competencia; la voz de la abuela se actualiza con el lenguaje científico, sin que una invalide a la otra.
 
-**4. (Aplicación)** Cita una frase del texto que sustente la hipótesis de que el relato busca poner en diálogo el saber ancestral con el conocimiento científico actual.
+**4. (Alternativas — Aplicación)** ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber ancestral con la ciencia actual?
 
-*Respuesta esperada*: por ejemplo, la frase "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse", que funde el lenguaje mítico ("Kai Kai Vilu") con la idea científica de un proceso lento y sostenido de aumento del nivel del mar. Retroalimentación: fundamentar una interpretación con una cita exige elegir un fragmento del texto que respalde directamente la idea que se está defendiendo, no cualquier fragmento del relato.
+a) Cualquier frase del relato que mencione el mar, aunque no se relacione con el mito ni con la ciencia
+b) El título del relato, porque resume por sí solo la interpretación sin necesidad de citar el texto
+c) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse"
+d) La fecha de publicación del relato, que permite vincularlo con el contexto del cambio climático
+
+*Respuesta correcta: c.* Retroalimentación: la frase funde el lenguaje mítico con la idea científica de un aumento lento y sostenido del nivel del mar.
 
 **5. (Alternativas)** ¿Con qué contexto histórico se relaciona directamente el microcuento "Marejada"?
 
-a) La colonización española de Chile
-b) El cambio climático y el aumento documentado del nivel del mar en las últimas décadas
-c) La Guerra del Pacífico
-d) La fundación de las primeras caletas de pescadores en Chile
+a) El cambio climático y el aumento documentado del nivel del mar en las últimas décadas
+b) La colonización española de Chile y la llegada de nuevos pueblos a la costa
+c) La Guerra del Pacífico y la pérdida de territorios costeros en el norte del país
+d) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile
 
-*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente los hechos en el contexto actual del cambio climático, mencionando el aumento del nivel del mar y la pérdida de terreno en caletas de pescadores.
+*Respuesta correcta: a.* Retroalimentación: el texto sitúa explícitamente los hechos en el contexto actual del cambio climático, mencionando el aumento del nivel del mar y la pérdida de terreno en caletas de pescadores.
 
-**6. (Desarrollo breve — crítica sustentada)** Formula una crítica sobre el microcuento "Marejada" (algo que valores o que consideres una debilidad), sustentándola con al menos una cita o ejemplo del texto.
+**6. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Marejada"?
 
-*Respuesta esperada*: cualquier crítica razonada y sustentada con una cita concreta del texto; por ejemplo, valorar que el relato evite presentar el mito como algo "supersticioso" frente a la ciencia, apoyándose en que ambas explicaciones se funden en la frase final del texto. Retroalimentación: una crítica literaria válida no es solo una opinión ("me gustó" o "no me gustó"), sino una valoración argumentada con evidencia textual.
+a) "Me gustó mucho el cuento, porque habla del mar y de una abuela que cuenta historias antiguas"
+b) "No me gustó porque es corto y no explica bien qué le pasó a la abuela ni a su familia"
+c) "Valoro que no presente el mito como superstición frente a la ciencia, pues ambas explicaciones se funden en la frase final"
+d) "Es el mejor cuento del mundo, porque mezcla un mito con la ciencia y eso siempre funciona en cualquier relato que se escriba"
 
-**7. (Desarrollo breve)** Explica de qué manera la visión de mundo mapuche presente en el relato se relaciona con las acciones o creencias concretas de la narradora y su abuela.
+*Respuesta correcta: c.* Retroalimentación: una crítica válida es una valoración argumentada con evidencia textual, no solo una opinión.
 
-*Respuesta esperada*: la visión de mundo mapuche, que entiende los fenómenos naturales como fuerzas con las que existe una relación de equilibrio o deuda ("el mar nunca olvida lo que le deben"), se refleja en la forma en que la abuela transmite el mito como una explicación válida y respetada, y en cómo la narradora, ya adulta, no descarta esa explicación sino que la conecta con la información científica actual. Retroalimentación: relacionar la visión de mundo de una obra con el contexto exige mostrar, con ejemplos concretos, cómo esa visión se manifiesta en las acciones o palabras de los personajes.
+**7. (Alternativas)** ¿Cómo se manifiesta la visión de mundo mapuche en la narradora y su abuela?
 
-**8. (Desarrollo breve — interpretación integrada)** Formula tu propia interpretación del sentido general de "Marejada", integrando un punto de vista explícito (personal, histórico, social o universal), al menos una cita del texto, y la relación entre el mito mapuche mencionado y el contexto histórico del cambio climático.
+a) La abuela transmite el mito como explicación válida ("el mar nunca olvida lo que le deben") y la narradora adulta no la descarta, sino que la conecta con la ciencia
+b) Ambas rechazan el mito por completo: la abuela lo cuenta como un cuento infantil y la narradora adulta lo reemplaza por la explicación científica del mar
+c) La abuela niega cualquier relación con la naturaleza y la narradora adulta descubre por su cuenta el mito en los libros de historia
+d) La narradora olvida todo lo que le contó su abuela
 
-*Respuesta esperada*: cualquier interpretación coherente que integre los tres elementos exigidos: un punto de vista claramente declarado, al menos una cita textual que la sustente, y la relación explícita entre la alusión mitológica y el contexto histórico del cambio climático. Retroalimentación: una interpretación completa en 1° medio no solo identifica elementos del texto por separado, sino que los integra en una lectura propia, coherente y respaldada con evidencia.
+*Respuesta correcta: a.* Retroalimentación: relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones o palabras concretas.
+
+**8. (Alternativas — interpretación integrada)** ¿Qué interpretación de "Marejada" integra un punto de vista, una cita y la relación entre el mito y el cambio climático?
+
+a) Desde un punto de vista histórico, el relato es solo una leyenda antigua sin relación con el presente, como muestra la frase sobre el mar que "nunca olvida lo que le deben"
+b) Desde un punto de vista científico, el relato demuestra que la ciencia del cambio climático está equivocada y que solo el mito de Kai Kai Vilu explica la subida del mar, cuyo saber es superior
+c) El relato trata sobre deportes acuáticos
+d) Desde un punto de vista social, el relato muestra que el mito de Kai Kai Vilu y la ciencia del cambio climático convergen, como evidencia la frase sobre el mar que "sigue subiendo, más lento pero sin detenerse"
+
+*Respuesta correcta: d.* Retroalimentación: una interpretación completa integra los elementos del texto en una lectura propia, coherente y respaldada.
 
 ---
 
@@ -361,10 +436,10 @@ En 1° medio profundizas el análisis de textos argumentativos —columnas de op
 
 **1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "Celulares guardados, ¿mentes más despiertas?"?
 
-a) Los celulares no deberían usarse nunca, ni dentro ni fuera del colegio
+a) Los celulares no deberían usarse nunca, ni dentro ni fuera del colegio, porque cualquier uso de ellos afecta la concentración de los estudiantes
 b) Restringir el celular en la sala de clases es razonable, pero insuficiente si no se acompaña de educación sobre uso responsable de la tecnología
-c) La restricción del celular no tiene ningún efecto en la concentración de los estudiantes
-d) Los estudios sobre concentración y celulares no son confiables y deberían ignorarse
+c) La restricción del celular no tiene ningún efecto en la concentración de los estudiantes, por lo que los colegios deberían eliminarla de inmediato
+d) Los estudios sobre concentración y celulares no son confiables y deberían ignorarse al decidir las normas del colegio sobre el uso de tecnología
 
 *Respuesta correcta: b.* Retroalimentación: la tesis integra tanto el reconocimiento de un efecto positivo parcial de la medida como su insuficiencia si no se complementa con educación sobre el uso responsable.
 
@@ -372,34 +447,59 @@ d) Los estudios sobre concentración y celulares no son confiables y deberían i
 
 *Respuesta correcta: Falso.* Retroalimentación: el texto indica explícitamente que el dato corresponde a una "mejora promedio... en la percepción docente sobre la concentración", lo que es distinto de una medición directa del aprendizaje.
 
-**3. (Desarrollo breve)** Evalúa la suficiencia del dato citado en el texto (la mejora del 15% en la percepción docente) para sustentar por completo la tesis del autor. ¿Es suficiente o insuficiente? Fundamenta.
+**3. (Alternativas)** ¿Es suficiente el dato de la mejora del 15% en la percepción docente para sustentar por completo la tesis del autor?
 
-*Respuesta esperada*: el dato es pertinente pero insuficiente por sí solo, ya que mide una percepción y no un resultado objetivo de aprendizaje, y el propio texto reconoce que otros factores (acompañamiento docente, metodología) podrían explicar la mejora, por lo que no permite atribuir el efecto únicamente a la restricción del celular. Retroalimentación: evaluar la suficiencia de la información no significa descartarla, sino identificar qué preguntas quedan sin responder para sustentar completamente la tesis.
+a) Es completamente suficiente: prueba que la medida funciona y que el aprendizaje mejoró un 15%, sin necesidad de otros datos ni de comparar con otros colegios
+b) Es pertinente pero insuficiente: mide una percepción, no un resultado de aprendizaje, y el texto reconoce otros factores que podrían explicar la mejora
+c) Es irrelevante: no tiene relación con la tesis, porque la percepción docente no se vincula con el uso del celular en clases
+d) Es falso, porque el texto no presenta datos
 
-**4. (Aplicación)** Explica qué intención tiene el autor al usar la oración desiderativa "Ojalá los establecimientos que implementan esta medida la acompañaran... de espacios de conversación sobre el uso responsable de la tecnología".
+*Respuesta correcta: b.* Retroalimentación: evaluar la suficiencia no significa descartar un dato, sino identificar qué preguntas deja sin responder.
 
-*Respuesta esperada*: el autor expresa un deseo sobre una práctica que actualmente no es generalizada, formulando una recomendación de forma menos impositiva que una exigencia directa, lo que le permite proponer una solución sin sonar autoritario. Retroalimentación: las oraciones desiderativas (con "ojalá" u otras expresiones de deseo) permiten al autor proponer cambios de forma más persuasiva y menos confrontacional que una orden directa.
+**4. (Alternativas — Aplicación)** ¿Qué intención tiene la oración desiderativa "Ojalá los establecimientos que implementan esta medida la acompañaran... de espacios de conversación sobre el uso responsable de la tecnología"?
+
+a) Dar una orden obligatoria a los colegios, que deben cumplirla de inmediato bajo sanción
+b) Narrar un hecho que ya ocurrió en los establecimientos que aplicaron la restricción
+c) Expresar un deseo y proponer una recomendación de forma menos impositiva que una exigencia directa
+d) Expresar duda sobre si realmente existen colegios que hayan implementado la medida
+
+*Respuesta correcta: c.* Retroalimentación: las oraciones desiderativas permiten proponer cambios de forma persuasiva y poco confrontacional.
 
 **5. (Alternativas)** ¿Qué efecto produce principalmente la pregunta retórica con la que abre la columna ("¿De verdad guardar el celular... mejora la concentración... o es solo una medida que da la sensación de estar 'haciendo algo'?")?
 
-a) Busca que el lector responda por escrito antes de seguir leyendo
+a) Busca que el lector responda la pregunta por escrito antes de seguir leyendo, como en una guía de ejercicios
 b) Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la medida antes de presentar evidencia
-c) Demuestra que el autor no tiene una postura clara sobre el tema
-d) No tiene ninguna función argumentativa relevante
+c) Demuestra que el autor no tiene una postura clara sobre el tema y que solo quiere informar de manera neutral
+d) No tiene ninguna función argumentativa relevante: es solo una forma llamativa de comenzar la columna de opinión
 
 *Respuesta correcta: b.* Retroalimentación: las preguntas retóricas no buscan una respuesta literal del lector, sino generar reflexión o instalar una duda que preparen el terreno para el argumento que sigue.
 
-**6. (Desarrollo breve — postura personal)** Da tu propia postura frente a la tesis del autor: ¿crees que restringir el celular en la sala de clases debería acompañarse de educación sobre su uso responsable, o consideras que basta con la restricción? Fundamenta con al menos un argumento propio.
+**6. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura **con un argumento propio** sobre restringir el celular en clases?
 
-*Respuesta esperada*: cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente con la postura elegida. Retroalimentación: formular una postura personal fundamentada exige aportar una razón propia, y no solo repetir la conclusión del autor.
+a) "Creo que la restricción debe acompañarse de educación, porque fuera del colegio nadie controlará el uso y los estudiantes necesitan aprender a regularse solos"
+b) "Estoy de acuerdo con el autor, porque lo que dice sobre el celular en clases me parece bien y creo que tiene toda la razón en todo lo que plantea"
+c) "No sé qué pensar"
+d) "El autor dice que hay que conversar con los estudiantes sobre el celular, y que la restricción por sí sola no basta para que aprendan"
 
-**7. (Desarrollo breve)** Explica cómo organiza el autor su columna (en qué orden presenta sus ideas) y qué efecto produce esa organización en la fuerza persuasiva del texto.
+*Respuesta correcta: a.* Retroalimentación: una postura fundamentada aporta una razón propia, no solo repite la conclusión del autor.
 
-*Respuesta esperada*: el autor organiza el texto en tres momentos: una pregunta retórica inicial que plantea la duda central, la presentación y problematización de un dato, y finalmente una propuesta de solución complementaria; esta organización de pregunta-evidencia-propuesta genera la sensación de un argumento equilibrado y reflexivo, más persuasivo que si el autor solo hubiera afirmado su postura sin mostrar el razonamiento detrás de ella. Retroalimentación: evaluar la organización de un texto argumentativo implica identificar cómo la secuencia de ideas contribuye —o no— a convencer al lector de la tesis defendida.
+**7. (Alternativas)** ¿Cómo organiza el autor su columna y qué efecto produce?
 
-**8. (Desarrollo breve — análisis integrado)** Explica por qué el uso de oraciones dubitativas (como "quizás" y "probablemente") en la conclusión de la columna resulta coherente con la tesis general del texto, en vez de debilitarla.
+a) Una lista de opiniones sin orden ni conectores, que salta de una idea a otra; esto debilita el texto, porque el lector no puede seguir el razonamiento del autor
+b) Solo datos estadísticos presentados uno tras otro, sin pregunta inicial ni propuesta; esto hace que el texto sea informativo, pero no persuada al lector de nada
+c) Una narración de ficción sobre un estudiante y su celular, sin datos ni propuestas; esto hace que el texto sea entretenido, pero no constituya una columna de opinión
+d) Pregunta retórica inicial, presentación y problematización de un dato y propuesta complementaria; genera un argumento equilibrado y reflexivo, más persuasivo
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: dado que la tesis del autor es matizada (reconoce un efecto parcial de la medida, pero cuestiona su suficiencia), el uso de oraciones dubitativas es coherente con esa postura equilibrada, ya que afirmar la conclusión con total certeza contradiría el propio razonamiento cauteloso que el autor construyó a lo largo del texto. Retroalimentación: el uso de recursos discursivos (como las oraciones dubitativas) debe evaluarse siempre en relación con el tono y la fuerza de la tesis que el autor defiende, y no de forma aislada.
+*Respuesta correcta: d.* Retroalimentación: evaluar la organización implica ver cómo la secuencia de ideas contribuye a convencer al lector.
+
+**8. (Alternativas — análisis integrado)** ¿Por qué el uso de oraciones dubitativas ("quizás", "probablemente") en la conclusión es coherente con la tesis?
+
+a) Porque el autor no sabe de qué está hablando y prefiere no comprometerse con ninguna postura
+b) Porque la tesis es matizada: afirmar con total certeza contradiría el razonamiento cauteloso que el autor construyó
+c) Porque las oraciones dubitativas siempre debilitan un texto, y el autor quiere que el lector rechace su tesis
+d) Porque así el texto es más corto
+
+*Respuesta correcta: b.* Retroalimentación: los recursos discursivos deben evaluarse en relación con el tono y la fuerza de la tesis.
 
 ---
 
@@ -454,10 +554,10 @@ En 1° medio profundizas el análisis crítico de textos de los medios de comuni
 
 **1. (Alternativas)** ¿Cuál es el propósito implícito del Texto A (la nota del portal municipal)?
 
-a) Cuestionar la calidad de las rampas instaladas
+a) Cuestionar la calidad de las rampas instaladas y del pavimento de la pista
 b) Proyectar una imagen positiva de la gestión municipal a través de la obra inaugurada
-c) Invitar a los jóvenes a organizar una protesta
-d) Explicar en detalle el proceso de licitación de la obra
+c) Invitar a los jóvenes skaters de la comuna a organizar una protesta contra la obra
+d) Explicar en detalle el proceso de licitación de la obra y su costo total para la comuna
 
 *Respuesta correcta: b.* Retroalimentación: aunque el texto se presenta como una nota informativa, su propósito implícito es mostrar la obra como un logro de la gestión municipal, reforzado por el tono y la fotografía elegida.
 
@@ -465,34 +565,59 @@ d) Explicar en detalle el proceso de licitación de la obra
 
 *Respuesta correcta: Falso.* Retroalimentación: que un recurso transmita una sensación de autenticidad (por ejemplo, un video "sin filtro") no garantiza por sí mismo que la información sea más veraz; ambas fuentes pueden contener información parcialmente cierta y conviene contrastarlas, no asumir automáticamente que la más "espontánea" es la más confiable.
 
-**3. (Desarrollo breve)** Compara las estrategias de persuasión usadas en el Texto A y el Texto B. ¿En qué se diferencian?
+**3. (Alternativas)** ¿En qué se diferencian las estrategias de persuasión del Texto A y del Texto B?
 
-*Respuesta esperada*: el Texto A usa cifras precisas para transmitir rigor y confianza institucional; el Texto B usa humor y la apelación a la experiencia directa de los propios usuarios ("vengan a verla ustedes mismos") para cuestionar, con un tono cercano, la versión oficial. Retroalimentación: comparar estrategias de persuasión implica identificar no solo qué dice cada texto, sino cómo busca convencer o generar confianza en su audiencia.
+a) Ambos usan solo cifras oficiales para transmitir rigor, y se diferencian únicamente en el medio donde fueron publicados
+b) El A usa humor y la experiencia directa de los usuarios; el B usa cifras precisas para transmitir rigor institucional y defender la obra municipal
+c) El A usa cifras precisas para transmitir rigor institucional; el B usa humor y la experiencia directa de los usuarios para cuestionar la versión oficial
+d) Ninguno busca persuadir
 
-**4. (Aplicación)** Explica qué efecto produce la fotografía elegida para el Texto A (la alcaldesa sonriente junto a niños con cascos nuevos, con la pista vacía de fondo) en la percepción del lector sobre la obra.
+*Respuesta correcta: c.* Retroalimentación: comparar estrategias implica identificar cómo cada texto busca convencer a su audiencia.
 
-*Respuesta esperada*: la fotografía refuerza una sensación de orden, éxito y beneficio directo hacia la comunidad, mostrando un momento controlado y positivo (pista vacía, niños con cascos nuevos) que puede no representar cómo se ve la pista en un día común de uso intenso, lo que puede generar en el lector una impresión más idealizada de la obra de la que tendría si viera un uso cotidiano de esta. Retroalimentación: los recursos no lingüísticos, como una fotografía, no son neutrales: el ángulo, el momento y los sujetos elegidos construyen una interpretación específica del hecho.
+**4. (Alternativas — Aplicación)** ¿Qué efecto produce la fotografía del Texto A (la alcaldesa sonriente con niños con cascos nuevos y la pista vacía)?
+
+a) Construye una imagen de orden y éxito que puede ser más idealizada que el uso cotidiano de la pista
+b) Muestra objetivamente cómo se usa la pista todos los días, con la cantidad real de usuarios
+c) Critica la gestión municipal al mostrar que la pista está casi siempre vacía
+d) No produce ningún efecto: las fotos oficiales son siempre neutrales y completas
+
+*Respuesta correcta: a.* Retroalimentación: los recursos no lingüísticos no son neutrales: el ángulo, el momento y los sujetos construyen una interpretación.
 
 **5. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre la nueva pista de skate?
 
-a) Que uno de los dos textos miente completamente
+a) Que uno de los dos textos miente completamente, porque un mismo hecho no puede mostrarse con énfasis distintos sin que una de las fuentes falsee la información
 b) Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las redes sociales siempre son más confiables que los medios oficiales
-d) Que los municipios nunca informan con cifras reales
+c) Que las redes sociales siempre son más confiables que los medios oficiales, porque los propios usuarios graban lo que ocurre sin intermediarios ni intereses detrás
+d) Que los municipios nunca informan con cifras reales, por lo que todo dato publicado por una autoridad local debe considerarse falso hasta que se demuestre lo contrario
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes distintas sobre un mismo hecho busca reconocer los énfasis y estrategias propias de cada una, no determinar de forma simplista cuál "dice la verdad" y cuál "miente".
 
-**6. (Desarrollo breve — reflexión personal)** Reflexiona: ¿qué elemento de estos dos textos (una cifra, una imagen, un tono, una frase) crees que influiría más en tu propia opinión sobre la nueva pista de skate si la vieras por primera vez en tus redes sociales? Explica por qué.
+**6. (Alternativas — reflexión personal)** ¿Cuál de estas reflexiones identifica un elemento concreto y explica su influencia con criterio propio?
 
-*Respuesta esperada*: cualquier reflexión razonada que identifique un elemento concreto de uno de los textos (por ejemplo, el video con música del Texto B o la cifra de inversión del Texto A) y explique, con criterio propio, por qué ese elemento en particular tendría mayor influencia en su percepción u opinión inicial. Retroalimentación: reconocer qué elementos de un texto influyen en las propias opiniones es una herramienta de lectura crítica especialmente importante frente al consumo cotidiano de redes sociales.
+a) "Me da lo mismo cuál texto leer, porque los dos hablan de la misma pista de skate y dicen más o menos lo mismo"
+b) "Los dos textos"
+c) "La pista de skate es grande y tiene rampas, y el Texto A dice cuánto costó construirla según la municipalidad, y eso me parece bien"
+d) "Me influiría más el video con música del Texto B, porque muestra a usuarios reales y se siente más cercano que una cifra oficial"
 
-**7. (Desarrollo breve)** Explica por qué sería un error formarse una opinión completa sobre la calidad real de la nueva pista de skate leyendo solo uno de los dos textos.
+*Respuesta correcta: d.* Retroalimentación: reconocer qué elementos influyen en la propia opinión es clave para leer críticamente en redes sociales.
 
-*Respuesta esperada*: cada texto entrega información parcial y con un propósito distinto: el Texto A destaca cifras y el logro institucional sin mostrar el uso cotidiano de la pista, mientras que el Texto B destaca la experiencia directa de los usuarios, pero desde una postura crítica que también podría exagerar ciertos defectos; comparar ambas fuentes, y buscar información adicional si es necesario, permite formarse una opinión más completa y menos influida por la estrategia persuasiva de un solo texto. Retroalimentación: un lector o lectora crítico de medios entiende que ninguna fuente es completamente neutral, y que comparar varias es la mejor forma de evaluar la veracidad de un hecho.
+**7. (Alternativas)** ¿Por qué sería un error formarse una opinión completa sobre la pista leyendo solo uno de los textos?
 
-**8. (Desarrollo breve — análisis integrado)** Explica de qué manera el uso del humor en el Texto B ("cualquiera que ande en esto se da cuenta") ayuda a que su crítica hacia el municipio sea persuasiva sin sonar completamente negativa hacia la nueva pista.
+a) Porque ambos textos dicen exactamente lo mismo, y leer los dos permite confirmar que la información es correcta
+b) Porque cada texto entrega información parcial y con un propósito distinto; comparar fuentes permite una opinión más completa
+c) Porque el Texto A, al ser oficial, siempre miente, y el Texto B permite descubrir lo que la municipalidad oculta
+d) Porque el Texto B es completamente neutral y objetivo, y sirve para corregir los errores del comunicado municipal
 
-*Respuesta esperada*: el humor permite al Texto B introducir una crítica hacia la calidad de la obra sin adoptar un tono completamente confrontacional, manteniendo una actitud cercana y hasta celebratoria hacia la pista en general ("por fin una pista digna"), lo que hace que la crítica se perciba como constructiva y proveniente de la propia comunidad usuaria, en vez de como un ataque hacia la gestión municipal. Retroalimentación: el humor es una estrategia de persuasión que permite matizar una crítica, haciendo que resulte más aceptable o cercana para la audiencia a la que se dirige, sin perder su intención cuestionadora.
+*Respuesta correcta: b.* Retroalimentación: ninguna fuente es completamente neutral; comparar varias es la mejor forma de evaluar un hecho.
+
+**8. (Alternativas — análisis integrado)** ¿Cómo ayuda el humor del Texto B a que su crítica sea persuasiva sin sonar completamente negativa?
+
+a) Hace que la crítica sea más agresiva y directa, porque ridiculiza a las autoridades y a los usuarios que defienden la obra
+b) Elimina toda crítica del texto
+c) Permite criticar la calidad de la obra con un tono cercano, manteniendo una actitud celebratoria hacia la pista, por lo que la crítica parece constructiva
+d) Hace que el texto parezca un informe técnico, porque el humor se usa para presentar cifras de forma ordenada y objetiva, sin opinión del autor sobre la pista ni sobre sus usuarios
+
+*Respuesta correcta: c.* Retroalimentación: el humor matiza una crítica y la hace más aceptable sin perder su intención cuestionadora.
 
 ---
 
@@ -537,9 +662,9 @@ Antes de escribir, se planifica un ensayo breve sobre el tema: "¿Es la restricc
 
 **1. (Alternativas)** ¿Cuál es la hipótesis principal del ensayo "¿Basta con guardar el celular?"?
 
-a) El celular nunca debería usarse dentro ni fuera del colegio
+a) El celular nunca debería usarse dentro ni fuera del colegio, porque afecta siempre la concentración de los estudiantes
 b) Restringir el celular en la sala de clases es necesario, pero insuficiente sin educación sobre su uso responsable
-c) Los estudios sobre concentración y celulares no son confiables
+c) Los estudios sobre concentración y celulares no son confiables, por lo que no conviene restringirlo
 d) La restricción del celular no produce ningún efecto positivo
 
 *Respuesta correcta: b.* Retroalimentación: la hipótesis se plantea explícitamente en el primer párrafo y se sostiene, matizada, a lo largo de todo el ensayo hasta la conclusión.
@@ -548,34 +673,59 @@ d) La restricción del celular no produce ningún efecto positivo
 
 *Respuesta correcta: Falso.* Retroalimentación: una conclusión coherente retoma y reformula la hipótesis inicial a la luz de la evidencia ya presentada, sin agregar ideas nuevas no desarrolladas previamente en el ensayo.
 
-**3. (Desarrollo breve)** Explica qué función cumple, dentro del ensayo modelo, la referencia al relato "El bote de mi abuelo" y su personaje Wenceslao.
+**3. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia al relato "El bote de mi abuelo" y a Wenceslao?
 
-*Respuesta esperada*: la referencia literaria se usa como evidencia de apoyo para reforzar la idea de que una regulación sostenible en el tiempo requiere comprensión y no solo obediencia a una norma impuesta, trasladando la actitud del personaje de Wenceslao (que privilegia la decisión respetuosa por sobre el miedo al juicio ajeno) al argumento sobre la autorregulación del uso del celular. Retroalimentación: en un ensayo persuasivo, una referencia literaria no debe ser un simple adorno cultural, sino una evidencia que efectivamente sustente la hipótesis que se está defendiendo.
+a) Es evidencia literaria que refuerza la idea de que una regulación sostenible requiere comprensión y no solo obediencia
+b) Es un adorno cultural sin relación con la hipótesis, que sirve solo para mostrar que el autor conoce la literatura chilena
+c) Sirve para resumir el relato completo
+d) Contradice la hipótesis del ensayo
 
-**4. (Aplicación)** Identifica, en el ensayo modelo, el fragmento en que el autor o autora incorpora y responde a un posible contraargumento. ¿Por qué es útil incluir un contraargumento en un ensayo persuasivo?
+*Respuesta correcta: a.* Retroalimentación: en un ensayo persuasivo, una referencia literaria debe sustentar la hipótesis, no solo adornar.
 
-*Respuesta esperada*: el contraargumento aparece en el tercer párrafo ("Alguien podría argumentar que basta con eliminar la tentación inmediata del celular..."); incluirlo y responderlo es útil porque muestra que el autor consideró otras posturas antes de sostener la propia, lo que fortalece la credibilidad del argumento y anticipa posibles objeciones del lector. Retroalimentación: un buen ensayo persuasivo no ignora las posturas contrarias, sino que las reconoce y explica por qué, a pesar de ellas, la hipótesis propuesta se mantiene.
+**4. (Alternativas — Aplicación)** ¿Por qué es útil que el ensayo incorpore y responda un contraargumento ("Alguien podría argumentar que basta con eliminar la tentación inmediata del celular...")?
+
+a) Porque así el ensayo cambia de tesis y adopta la postura contraria, lo que lo hace más equilibrado
+b) Porque debilita la hipótesis principal, ya que muestra que el autor no está seguro de su postura
+c) Porque los ensayos deben ser neutrales y presentar todas las posturas sin defender ninguna de ellas
+d) Porque muestra que el autor consideró otras posturas, fortalece su credibilidad y anticipa objeciones del lector
+
+*Respuesta correcta: d.* Retroalimentación: un buen ensayo persuasivo reconoce las posturas contrarias y explica por qué su hipótesis se mantiene.
 
 **5. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a mantener la **coherencia temática** de un ensayo?
 
 a) Introducir en el último párrafo un tema completamente distinto al planteado en la hipótesis
 b) Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin desviarse hacia ideas no conectadas con el tema central
-c) Usar la mayor cantidad posible de citas, sin importar si se relacionan con el tema
+c) Usar la mayor cantidad posible de citas de autores reconocidos, sin importar si se relacionan con la hipótesis o con el tema central del ensayo
 d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de vista sin tomar una postura final
 
 *Respuesta correcta: b.* Retroalimentación: la coherencia temática exige que todas las partes del ensayo—desde la hipótesis hasta la conclusión— se mantengan enfocadas en el mismo tema central, sin digresiones no justificadas.
 
-**6. (Desarrollo breve — planificación)** Planifica brevemente un ensayo persuasivo sobre el tema "¿Es suficiente comparar solo dos fuentes de un mismo hecho noticioso para formarse una opinión informada?" (relacionado con el OA N°10): formula (a) una hipótesis, y (b) un tipo de evidencia (literaria o no literaria) que usarías para sustentarla.
+**6. (Alternativas — planificación)** Para un ensayo sobre "¿Es suficiente comparar solo dos fuentes de un mismo hecho noticioso para formarse una opinión informada?", ¿qué planificación es adecuada?
 
-*Respuesta esperada*: cualquier planificación razonable; por ejemplo, (a) comparar solo dos fuentes es un buen primer paso, pero no siempre es suficiente si ambas fuentes comparten un mismo sesgo o interés; (b) como evidencia no literaria, podría usarse el ejemplo de los textos sobre la pista de skate (OA N°10), señalando que tanto la fuente municipal como la de los skaters tenían un interés particular en cómo se percibiera la obra. Retroalimentación: planificar antes de escribir un ensayo —definiendo con claridad la hipótesis y el tipo de evidencia disponible— evita que el texto pierda coherencia temática durante la escritura.
+a) Hipótesis: los diarios nunca mienten, así que basta con leer uno. Evidencia: ninguna, porque la confianza en la prensa no necesita pruebas
+b) Hipótesis: comparar dos fuentes es un buen primer paso, pero no basta si ambas comparten un sesgo. Evidencia: los textos sobre la pista de skate, ambos con intereses propios
+c) Hipótesis: no existen noticias objetivas, así que no vale la pena compararlas. Evidencia: mi opinión personal sobre los medios de comunicación y la de mis amigos
+d) Escribir sin hipótesis ni evidencia
 
-**7. (Desarrollo breve)** Explica por qué es importante citar correctamente la fuente de un dato (por ejemplo, "según un estudio de la Universidad de Chile citado por el Ministerio de Educación") en lugar de simplemente afirmar el dato sin indicar de dónde proviene.
+*Respuesta correcta: b.* Retroalimentación: definir la hipótesis y la evidencia antes de escribir evita perder coherencia temática.
 
-*Respuesta esperada*: citar la fuente permite que el lector evalúe la confiabilidad del dato y distinga entre una afirmación respaldada por evidencia verificable y una opinión sin sustento; además, es una práctica de honestidad intelectual que reconoce el origen de la información utilizada, evitando presentarla como si fuera una idea propia. Retroalimentación: el uso de citas y referencias no es solo una formalidad: fortalece la credibilidad del ensayo y respeta la autoría de la información utilizada.
+**7. (Varias correctas)** ¿Por qué es importante citar la fuente de un dato ("según un estudio de la Universidad de Chile citado por el Ministerio de Educación")? Marca **todas** las correctas.
 
-**8. (Desarrollo breve — texto integrado)** Escribe el párrafo de conclusión (3 a 4 oraciones) de un ensayo persuasivo breve sobre el tema "¿Debería la fiscalización ciudadana complementar las leyes ambientales en Chile?" (relacionado con contenidos de 8° básico), asegurándote de que retome una hipótesis clara y no introduzca ideas nuevas no desarrolladas antes.
+a) Permite evaluar la confiabilidad del dato y distinguirlo de una opinión sin sustento
+b) Es una práctica de honestidad intelectual que reconoce el origen de la información
+c) Fortalece la credibilidad del ensayo
+d) Sirve para alargar el texto sin aportar nada
 
-*Respuesta esperada*: cualquier párrafo de conclusión coherente que retome explícitamente una hipótesis sobre el rol complementario de la fiscalización ciudadana frente a las leyes ambientales, sin introducir argumentos o datos que no hayan sido mencionados previamente en el resto del ensayo (hipotético). Retroalimentación: escribir una conclusión coherente es una habilidad que se practica de forma aislada más allá del ensayo completo: exige sintetizar, no repetir literalmente, la hipótesis y la evidencia ya presentadas.
+*Respuesta correcta: a, b y c.* Retroalimentación: citar no es una formalidad: fortalece la credibilidad y respeta la autoría de la información.
+
+**8. (Alternativas — texto integrado)** ¿Cuál de estos párrafos es una conclusión adecuada para un ensayo sobre "¿Debería la fiscalización ciudadana complementar las leyes ambientales en Chile?"?
+
+a) "En conclusión, también deberíamos hablar del precio de la bencina y del transporte público, temas muy importantes para el medioambiente que no mencioné antes en este ensayo. Además, el transporte afecta la calidad del aire."
+b) "Las leyes ambientales."
+c) "En síntesis, las leyes ambientales son necesarias, pero no bastan por sí solas: la fiscalización ciudadana permite detectar incumplimientos que las autoridades no alcanzan a ver. Por eso, ambas deben actuar de forma complementaria."
+d) "Para terminar, hay muchas opiniones sobre las leyes ambientales y la fiscalización ciudadana, y todas valen lo mismo, así que cada lector debe sacar su propia conclusión."
+
+*Respuesta correcta: c.* Retroalimentación: una conclusión coherente retoma la hipótesis y la evidencia sin introducir ideas nuevas no desarrolladas.
 
 ---
 

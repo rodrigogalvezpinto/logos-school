@@ -17,15 +17,14 @@ forma_relacionada: contenido/04-medio/ciencias-para-la-ciudadania.md (guía de e
 **Curso:** 4° Medio
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 46 puntos (1 punto por pregunta de alternativas o verdadero/falso; 2
-puntos por pregunta de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 46 puntos (1, 2 o 3 puntos por pregunta, según se indica en cada una)
 
 ### Instrucciones para el postulante
 
 1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
    sola opción marcando con una X), otras de **verdadero o falso** y otras de
-   **desarrollo** (breve o extenso), que debes responder con tus propias palabras en el
-   espacio disponible.
+   **«marca todas las correctas»**, en las que puede haber más de una opción correcta y
+   debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, caso o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -67,10 +66,12 @@ V ___ F ___
 
 Justifica tu respuesta.
 
-**3.** *(Desarrollo breve, 2 puntos)* Explica la diferencia entre "proteger totalmente"
-un recurso natural y "utilizarlo de forma sostenible", usando como ejemplo una reserva
-marina que permite pesca artesanal regulada en algunas zonas y prohíbe toda extracción
-en otras (zona núcleo).
+**3.** *(Alternativas, 2 puntos)* Una reserva marina permite pesca artesanal regulada en algunas zonas y prohíbe toda extracción en otras (zona núcleo). ¿Qué afirmación distingue correctamente "proteger totalmente" de "utilizar de forma sostenible"?
+
+a) Proteger totalmente es no permitir ninguna extracción (zona núcleo); utilizar de forma sostenible es permitir una actividad regulada que no compromete la regeneración del recurso
+b) Son lo mismo: en ambos casos se prohíbe pescar en toda la reserva, y la diferencia es solo el nombre que se usa en cada plan de manejo
+c) Utilizar de forma sostenible es extraer todo lo posible mientras haya recurso, y proteger totalmente es cerrar la zona solo cuando el recurso ya se agotó
+d) Proteger totalmente es permitir la pesca con cuotas en la zona núcleo; utilizar de forma sostenible es pescar sin límites en el resto de la reserva
 
 **4.** *(Alternativas)* Una fábrica genera baterías usadas y solventes químicos como
 parte de sus residuos. Desde el criterio de gestión de residuos, la medida más
@@ -82,21 +83,26 @@ c) Entregarlos a un gestor autorizado para su disposición final segura como res
    peligrosos
 d) Almacenarlos indefinidamente en el mismo lugar sin ningún tratamiento
 
-**5.** *(Desarrollo breve, 2 puntos)* Un colegio quiere reducir su consumo eléctrico,
-pero solo cuenta con el comentario de un auxiliar de que "las salas quedan con la luz
-encendida todo el día". ¿Qué debería hacer el colegio antes de diseñar un proyecto de
-eficiencia energética, y por qué es importante ese paso?
+**5.** *(Alternativas, 2 puntos)* Un colegio quiere reducir su consumo eléctrico, pero solo cuenta con el comentario de un auxiliar de que "las salas quedan con la luz encendida todo el día". ¿Qué debería hacer antes de diseñar un proyecto de eficiencia energética?
 
-**6.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Instalar paneles solares de inmediato en todas las salas, sin medir nada, porque cualquier proyecto de eficiencia energética reduce el consumo de la misma forma
+b) Confiar en el comentario del auxiliar y apagar todas las luces del colegio durante la jornada, porque el diagnóstico ya está hecho y medir solo retrasaría la solución
+c) Esperar a que suba la cuenta de electricidad para decidir, porque solo un aumento del gasto demuestra que existe un problema que justifique diseñar un proyecto
+d) Medir el consumo real (por sala u horario), identificar los focos de mayor gasto y compararlo con un período de referencia, para dirigir la solución y evaluar después su efectividad
+
+**6.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
 > "Una caleta de pescadores artesanales en la costa de la Región de Coquimbo enfrenta
 > dos problemas simultáneos: sus embarcaciones y galpones consumen combustible diésel
 > para generar electricidad en tierra, y los desechos de la faena de pesca (vísceras,
 > restos) se acumulan sin tratamiento cerca de la playa."
 
-Propón un proyecto que combine al menos dos criterios de sostenibilidad para esta
-caleta, y evalúa su viabilidad considerando el costo y la participación de la
-comunidad pescadora.
+¿Qué elementos debe tener un proyecto sostenible y viable para esta caleta? Marca **todas** las correctas.
+
+a) Un sistema solar o híbrido de electricidad que reduzca el uso de diésel y las emisiones
+b) Compostaje o valorización de los desechos de pesca como gestión de residuos
+c) Evaluar el costo de inversión, los posibles subsidios y el compromiso de la organización de pescadores para mantener el proyecto
+d) Enterrar los desechos en la playa para que no se vean
 
 **7.** *(Verdadero o falso)* Reducir la cantidad de residuos orgánicos que llegan a un
 relleno sanitario no tiene relación con la reducción de emisiones de gases de efecto
@@ -116,20 +122,26 @@ b) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
 c) Eliminar toda la vegetación cercana a la carretera para mejorar la visibilidad
 d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
 
-**9.** *(Desarrollo breve, 2 puntos)* Un vertedero municipal instala un sistema para
-capturar el metano que se genera por la descomposición de los residuos orgánicos y
-usarlo como fuente de energía (biogás). Explica por qué este proyecto combina el
-criterio de gestión de residuos con el de reducción de emisiones.
+**9.** *(Alternativas, 2 puntos)* Un vertedero municipal captura el metano generado por la descomposición de residuos orgánicos y lo usa como biogás. ¿Por qué el proyecto combina gestión de residuos y reducción de emisiones?
 
-**10.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Porque elimina los residuos sin dejar rastro y, al quemarlos, evita que se liberen gases a la atmósfera, de modo que ya no es necesario reducir la basura
+b) Porque aumenta la cantidad de residuos orgánicos que llegan al vertedero, lo que genera más biogás y, por lo tanto, más energía para la comuna
+c) Porque el metano no es un gas de efecto invernadero, así que liberarlo no afecta el clima, y capturarlo solo sirve para aprovecharlo como combustible
+d) Porque gestiona el residuo con control y, al capturar el metano en vez de dejarlo escapar, reduce un gas de efecto invernadero potente y lo transforma en energía útil
+
+**10.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
 > "Una municipalidad costera evalúa dos proyectos turísticos para un humedal urbano:
 > (a) rellenar parte del humedal para construir un paseo costero con estacionamientos,
 > o (b) construir senderos elevados de madera (pasarelas) que permitan visitar el
 > humedal sin alterar su superficie."
 
-Evalúa ambas opciones desde el criterio de conservación de ecosistemas, y explica por
-qué un proyecto puede ser "sostenible" aunque permita actividad humana.
+¿Qué afirmaciones son correctas desde el criterio de conservación de ecosistemas? Marca **todas** las correctas.
+
+a) La opción (a) destruye parte del humedal: hábitat de aves, filtración de agua y protección frente a marejadas
+b) La opción (b) permite uso turístico y educativo sin destruir el humedal
+c) Un proyecto puede ser sostenible aunque permita actividad humana, si mantiene la capacidad del ecosistema de regenerarse y prestar sus servicios
+d) Solo es sostenible un proyecto que prohíbe toda visita humana
 
 **11.** *(Alternativas)* Comparado con el riego tradicional por inundación, el riego
 tecnificado por goteo es relevante para la sostenibilidad hídrica de la agricultura
@@ -137,26 +149,29 @@ chilena porque:
 
 a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso
    de forma más eficiente
-b) Aumenta el volumen total de agua utilizada por hectárea
-c) Elimina por completo la necesidad de agua para el cultivo
-d) Solo puede aplicarse en zonas con abundante lluvia
+b) Aumenta el volumen total de agua utilizada por hectárea, lo que asegura cosechas más abundantes
+c) Elimina por completo la necesidad de agua para el cultivo, porque las plantas usan la humedad del suelo
+d) Solo puede aplicarse en zonas con abundante lluvia, donde no existen problemas de escasez hídrica
 
-**12.** *(Desarrollo breve, 2 puntos)* Una comunidad rural restaura una ladera
-degradada plantando especies de bosque nativo (en vez de una plantación exótica de
-rápido crecimiento). Explica cómo este proyecto puede combinar el criterio de
-conservación de ecosistemas con un beneficio adicional relacionado con el cambio
-climático.
+**12.** *(Alternativas, 2 puntos)* Una comunidad rural restaura una ladera degradada plantando bosque nativo (en vez de una plantación exótica de rápido crecimiento). ¿Qué beneficios combina el proyecto?
 
-**13.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Solo produce madera para vender rápidamente, porque el bosque nativo crece más rápido que el exótico
+b) Aumenta las emisiones de CO₂, porque los árboles nativos respiran más de lo que capturan durante su crecimiento
+c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono
+d) No tiene relación con el cambio climático ni con la biodiversidad: solo evita la erosión de la ladera
+
+**13.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
 > "Una empresa minera en el norte de Chile propone extraer agua de un acuífero para
 > sus procesos, ofreciendo a cambio financiar una planta desalinizadora para el
 > consumo humano de la comuna vecina, que actualmente depende del mismo acuífero."
 
-Evalúa esta propuesta como un proyecto de "utilización sostenible de recursos
-naturales", considerando al menos: evidencia científica necesaria, viabilidad
-económica y participación de la comunidad. ¿Qué información exigirías antes de
-aceptar el trato?
+¿Qué información deberías exigir antes de aceptar el trato como "utilización sostenible"? Marca **todas** las correctas.
+
+a) Estudios hidrogeológicos independientes sobre la recarga del acuífero y el impacto de la extracción
+b) Si el costo y el plazo de la planta desalinizadora realmente compensan el agua extraída
+c) Consulta y participación real de la comunidad afectada en la decisión
+d) Solo el monto que ofrece pagar la empresa
 
 ---
 
@@ -166,41 +181,46 @@ aceptar el trato?
 la Patagonia chilena, medido mediante imágenes satelitales durante varias décadas, es
 considerado una línea de evidencia del cambio climático porque:
 
-a) Se basa en una sola medición aislada, sin comparación en el tiempo
+a) Se basa en una sola medición aislada, tomada en un año especialmente cálido, sin comparación en el tiempo
 b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de
    temperatura documentado por otras fuentes independientes
-c) Es solo una opinión de un grupo reducido de guías turísticos
-d) No tiene relación con las mediciones de temperatura global
+c) Es solo la opinión de un grupo reducido de guías turísticos que observan los glaciares cada temporada
+d) No tiene relación con las mediciones de temperatura global, porque los glaciares retroceden por la erosión del viento
 
 **15.** *(Verdadero o falso)* Todos los modelos climáticos coinciden exactamente en la
 magnitud futura del calentamiento global, sin ningún rango de incertidumbre.
 
 V ___ F ___
 
-**16.** *(Desarrollo breve, 2 puntos)* Un modelo climático regional proyecta que una
-zona agrícola de Chile podría perder gran parte de su disponibilidad de agua de riego
-en las próximas décadas debido al cambio climático. ¿Qué elementos deberías revisar
-para evaluar si esta proyección es confiable, antes de usarla para tomar decisiones?
+**16.** *(Varias correctas, 2 puntos)* Un modelo climático regional proyecta que una zona agrícola podría perder gran parte de su agua de riego en las próximas décadas. ¿Qué elementos deberías revisar para evaluar si la proyección es confiable? Marca **todas** las correctas.
+
+a) Si fue validado comparando proyecciones pasadas con lo ocurrido
+b) Si considera distintos escenarios de emisiones y es consistente con otros modelos independientes
+c) Si está respaldado por instituciones científicas reconocidas
+d) Si su resultado coincide con lo que uno quiere creer
 
 **17.** *(Alternativas)* La pérdida de biodiversidad asociada al cambio climático
 ocurre principalmente porque:
 
-a) Todas las especies pueden desplazarse instantáneamente a nuevos hábitats sin costo
-   alguno
+a) Todas las especies pueden desplazarse instantáneamente a nuevos hábitats sin costo alguno, así que la pérdida se debe solo a la caza
 b) Muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente
    a la velocidad de los cambios ambientales actuales
-c) El cambio climático no tiene relación con la distribución de las especies
-d) La biodiversidad depende únicamente de la caza y la tala, sin relación con el clima
+c) El cambio climático no tiene relación con la distribución de las especies, que depende únicamente de la cantidad de alimento disponible
+d) La biodiversidad depende únicamente de la caza y la tala, sin relación con el clima, porque las especies toleran cualquier temperatura
 
-**18.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+**18.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
 > "Tras un gran incendio forestal, una región debe decidir cómo reforestar miles de
 > hectáreas quemadas. Se evalúan dos opciones: (a) plantar una especie exótica de
 > rápido crecimiento (como pino o eucalipto) para captar CO₂ rápidamente, o (b)
 > restaurar con especies de bosque nativo, de crecimiento más lento."
 
-Evalúa ambas opciones considerando tanto su aporte a la mitigación del cambio
-climático como su efecto sobre la biodiversidad del ecosistema.
+¿Qué evaluación considera tanto la mitigación climática como la biodiversidad?
+
+a) (a) captura carbono más rápido y barato, pero genera un ecosistema poco diverso; (b) captura más lento, pero restaura hábitat, biodiversidad y resiliencia a largo plazo
+b) (a) es mejor en todo sentido, porque crece más rápido y captura más carbono, y además forma un ecosistema tan diverso como el bosque nativo original
+c) (b) no captura nada de carbono, porque los árboles nativos crecen demasiado lento; su único aporte es estético y no tiene efectos en la biodiversidad
+d) Ambas opciones tienen exactamente el mismo efecto en la biodiversidad y en el clima, porque cualquier árbol restaura el ecosistema de la misma forma
 
 **19.** *(Verdadero o falso)* Analizar una controversia pública sobre cambio climático
 de forma rigurosa implica considerar solo la dimensión ambiental del problema, dejando
@@ -208,57 +228,68 @@ de lado los aspectos sociales, económicos y éticos.
 
 V ___ F ___
 
-**20.** *(Desarrollo breve, 2 puntos)* Explica por qué reducir las emisiones de metano
-provenientes de la actividad ganadera se considera una medida de mitigación del cambio
-climático, y menciona una forma en que podría lograrse.
+**20.** *(Alternativas, 2 puntos)* ¿Por qué reducir las emisiones de metano de la actividad ganadera es una medida de **mitigación** del cambio climático, y cómo podría lograrse?
 
-**21.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente información:
+a) Porque es una medida de adaptación a las olas de calor que sufre el ganado; por ejemplo, construyendo sombra en los potreros para proteger a los animales
+b) Porque el metano enfría la atmósfera, y reducir sus emisiones ayuda a mantener temperaturas estables; por ejemplo, disminuyendo el número de animales en invierno
+c) Porque aumenta la producción de carne y leche, lo que permite financiar otras medidas contra el calentamiento; por ejemplo, plantar árboles en los campos ganaderos
+d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol
+
+**21.** *(Varias correctas, 3 puntos)* Lee la siguiente información:
 
 > "En las últimas décadas, distintas regiones de Chile han registrado un aumento en la
 > frecuencia e intensidad de olas de calor, incendios forestales y aluviones en zonas
 > desérticas del norte."
 
-Explica cómo el cambio climático puede modelarse como un factor que aumenta el riesgo
-de estos eventos extremos (considerando al menos un componente físico y su efecto en
-el ecosistema), y propón una medida de **adaptación** —no de mitigación— frente a uno
-de estos riesgos.
+¿Qué afirmaciones son correctas? Marca **todas** las correctas.
+
+a) El aumento de la temperatura media incrementa las olas de calor y seca la vegetación, aumentando el combustible disponible para incendios
+b) Lluvias más intensas y esporádicas sobre suelos áridos con poca vegetación facilitan aluviones en el norte
+c) Un sistema de alerta temprana y planes de evacuación en zonas de aluvión es una medida de adaptación
+d) Instalar paneles solares es una medida de adaptación frente a aluviones
 
 **22.** *(Alternativas)* El efecto invernadero es un fenómeno natural indispensable
 para mantener la Tierra habitable. Lo que preocupa a la comunidad científica respecto
 al cambio climático actual es que:
 
-a) El efecto invernadero natural ha desaparecido por completo
+a) El efecto invernadero natural ha desaparecido por completo, y por eso la Tierra pierde calor más rápido que antes, lo que produce cambios extremos en el clima
 b) Las actividades humanas han intensificado el efecto invernadero al aumentar la
    concentración atmosférica de gases como el CO₂, elevando la temperatura media del
    planeta más allá de su variabilidad natural
-c) El efecto invernadero solo ocurre en países industrializados
-d) El aumento de CO₂ atmosférico no tiene ninguna relación con la actividad humana
+c) El efecto invernadero solo ocurre en los países industrializados, donde se concentran las fábricas, y no afecta la temperatura del resto del planeta
+d) El aumento de CO₂ atmosférico no tiene ninguna relación con la actividad humana: se debe a la variación natural del clima, que ha sido igual de rápida en otras épocas
 
-**23.** *(Desarrollo breve, 2 puntos)* Explica por qué la deforestación de grandes
-extensiones de bosque (por ejemplo, para habilitar tierras de cultivo) no solo elimina
-hábitat, sino que también contribuye al cambio climático.
+**23.** *(Alternativas, 2 puntos)* ¿Por qué la deforestación de grandes extensiones de bosque contribuye también al cambio climático?
 
-**24.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente información:
+a) Porque los árboles emiten más CO₂ del que capturan durante su vida, así que eliminarlos debería reducir el carbono atmosférico
+b) Porque se pierde un sumidero de carbono y parte del carbono almacenado en la biomasa puede liberarse a la atmósfera, por ejemplo al quemar los árboles talados
+c) Porque los cultivos que reemplazan al bosque absorben todo el carbono que absorbía el bosque, por lo que el efecto es nulo
+d) No contribuye al cambio climático: la deforestación solo elimina hábitat y afecta a las especies que vivían en el bosque
+
+**24.** *(Alternativas, 3 puntos)* Lee la siguiente información:
 
 > "Científicos registran que, en las últimas décadas, algunas especies de aves
 > migratorias en Chile han adelantado sus fechas de llegada y de anidación."
 
-Explica qué relación puede tener este fenómeno con el cambio climático, y qué riesgo
-biológico implica si el ritmo del cambio ambiental es más rápido que la capacidad de
-ajuste de otras especies con las que estas aves interactúan (por ejemplo, insectos o
-plantas de las que se alimentan).
+¿Qué explicación y qué riesgo biológico son correctos?
 
-**25.** *(Desarrollo extenso, 3 puntos)* La electromovilidad (buses y automóviles
-eléctricos) y la ampliación del transporte público suelen mencionarse como medidas de
-mitigación del cambio climático en las ciudades chilenas. Evalúa esta solución
-considerando al menos una ventaja y una limitación, incluyendo su dimensión
-económica.
+a) Las aves adelantan su llegada porque el clima se enfría y buscan refugio antes de tiempo; no hay ningún riesgo biológico, porque las demás especies se adaptan al mismo ritmo
+b) El fenómeno no tiene relación con el clima, sino con el aumento de alimento en las ciudades; el riesgo es que las aves dejen de migrar y se vuelvan sedentarias en las zonas urbanas
+c) El adelanto de las temperaturas primaverales puede inducir el cambio; el riesgo es un desacople temporal: si el insecto o la planta de la que se alimentan no adelanta su ciclo, faltará alimento y se afectará la reproducción
+d) El adelanto de las temperaturas primaverales garantiza más alimento para las aves, porque los insectos y las plantas siempre adelantan su ciclo exactamente al mismo ritmo
+
+**25.** *(Varias correctas, 3 puntos)* La electromovilidad y la ampliación del transporte público se mencionan como medidas de mitigación en las ciudades chilenas. ¿Qué afirmaciones evalúan correctamente esta solución? Marca **todas** las correctas.
+
+a) Ventaja: reduce las emisiones de gases de efecto invernadero y los contaminantes locales del transporte a combustión
+b) Limitación: el beneficio climático depende de que la electricidad provenga de fuentes renovables
+c) Limitación económica: el costo inicial de renovar flotas es alto y puede requerir subsidios o financiamiento a largo plazo
+d) La electromovilidad no tiene ningún costo económico
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -272,112 +303,34 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------|------------------------------|----|
 | 1 | Alternativas | a) Eficiencia energética | OA 2 |
 | 2 | Verdadero o falso | Falso. Un proyecto técnicamente correcto puede fracasar si es demasiado costoso o si la comunidad no lo comprende ni lo apoya; la evidencia científica debe complementarse con viabilidad económica y aceptación social. | OA 2 |
-| 3 | Desarrollo breve | Proteger totalmente implica no permitir ninguna extracción ni actividad sobre el recurso (por ejemplo, la zona núcleo de la reserva); utilizar de forma sostenible implica permitir una actividad regulada (pesca artesanal con cuotas y control técnico) que no compromete la capacidad del recurso de regenerarse. Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
+| 3 | Alternativas | **a) Proteger totalmente es no permitir ninguna extracción (zona núcleo); utilizar de forma sostenible es permitir una actividad regulada que no compromete la regeneración del recurso.** Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
 | 4 | Alternativas | c) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
-| 5 | Desarrollo breve | Debe medir el consumo real (lecturas del medidor por sala u horario), identificar los focos de mayor gasto y comparar con un período anterior o un estándar de referencia, para diseñar una solución dirigida al problema real y poder medir su efectividad después de implementada; un proyecto "basado en evidencia" comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
-| 6 | Desarrollo extenso | Respuesta abierta; por ejemplo, instalar un sistema solar o híbrido para generar electricidad en tierra (eficiencia energética / reducción de emisiones) junto con una planta de compostaje o valorización de los desechos de pesca (gestión de residuos); debe evaluar el costo de inversión inicial, la posibilidad de subsidios estatales (por ejemplo, del Ministerio de Energía) y la necesidad de comprometer a la organización de pescadores para asegurar el uso y mantención del proyecto en el tiempo. | OA 2 |
+| 5 | Alternativas | **d) Medir el consumo real (por sala u horario), identificar los focos de mayor gasto y compararlo con un período de referencia, para dirigir la solución y evaluar después su efectividad.** Un proyecto basado en evidencia comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
+| 6 | Varias correctas | **a, b y c.** Un proyecto viable combina criterios de sostenibilidad con costos realistas y participación de la comunidad. | OA 2 |
 | 7 | Verdadero o falso | Falso. En el relleno sanitario, los residuos orgánicos se descomponen sin oxígeno y generan metano, un potente gas de efecto invernadero; reducir lo que llega al relleno (por ejemplo, mediante compostaje) también reduce esas emisiones. | OA 2 |
 | 8 | Alternativas | d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
-| 9 | Desarrollo breve | Debe explicar que el proyecto gestiona el residuo evitando que se acumule sin control, y que al capturar el metano en vez de dejarlo escapar a la atmósfera reduce directamente las emisiones de un gas de efecto invernadero potente, transformando además ese gas en una fuente útil de energía. | OA 2 |
-| 10 | Desarrollo extenso | La opción (a) destruye directamente parte del humedal (hábitat de aves, filtración de agua, protección costera frente a marejadas); la opción (b) permite el uso turístico y educativo del humedal sin destruirlo, siendo compatible con su conservación. Un proyecto es sostenible cuando compatibiliza el uso humano con el mantenimiento de la capacidad del ecosistema de regenerarse y seguir prestando sus servicios, no cuando maximiza el uso a corto plazo sin considerar el impacto. | OA 2 |
+| 9 | Alternativas | **d) Porque gestiona el residuo con control y, al capturar el metano en vez de dejarlo escapar, reduce un gas de efecto invernadero potente y lo transforma en energía útil.** | OA 2 |
+| 10 | Varias correctas | **a, b y c.** | OA 2 |
 | 11 | Alternativas | a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
-| 12 | Desarrollo breve | Debe señalar que al usar especies nativas se restablece hábitat y biodiversidad propia del lugar (conservación de ecosistemas) y que, al mismo tiempo, el bosque en crecimiento captura y almacena CO₂ atmosférico, funcionando como sumidero de carbono, lo que contribuye además a la mitigación del cambio climático. | OA 2 |
-| 13 | Desarrollo extenso | Debe exigir estudios hidrogeológicos independientes sobre la capacidad de recarga del acuífero y el impacto de la extracción minera sobre su disponibilidad futura; evaluar si el costo y plazo de la planta desalinizadora realmente compensa el agua extraída (viabilidad económica y técnica); y asegurar consulta y participación real de la comunidad afectada en la decisión, no solo la oferta de compensación de la empresa. | OA 2 |
+| 12 | Alternativas | **c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono.** | OA 2 |
+| 13 | Varias correctas | **a, b y c.** La oferta de compensación no reemplaza la evidencia científica, la viabilidad ni la participación. | OA 2 |
 | 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |
 | 15 | Verdadero o falso | Falso. Los modelos climáticos manejan rangos de proyección según distintos escenarios de emisiones futuras, pero esa incertidumbre en la magnitud exacta no cuestiona la tendencia general de calentamiento, bien establecida por múltiples líneas de evidencia. | OA 3 |
-| 16 | Desarrollo breve | Debe revisar si el modelo ha sido validado comparando proyecciones pasadas con lo efectivamente ocurrido, si está respaldado por instituciones científicas reconocidas, si considera distintos escenarios de emisiones (no solo uno), y si sus resultados son consistentes con otros modelos independientes sobre la misma región. | OA 3 |
+| 16 | Varias correctas | **a, b y c.** | OA 3 |
 | 17 | Alternativas | b) Muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente a la velocidad de los cambios ambientales actuales | OA 3 |
-| 18 | Desarrollo extenso | La opción (a) captura carbono más rápido y a menor costo inicial, pero genera un ecosistema poco diverso, con menor valor de hábitat para fauna nativa; la opción (b) captura carbono más lento, pero restaura hábitat, biodiversidad y servicios ecosistémicos propios del lugar, siendo más resiliente a largo plazo. Debe sopesar la velocidad de mitigación climática frente al valor ecológico y la resiliencia del ecosistema restaurado. | OA 3 |
+| 18 | Alternativas | **a) (a) captura carbono más rápido y barato, pero genera un ecosistema poco diverso; (b) captura más lento, pero restaura hábitat, biodiversidad y resiliencia a largo plazo.** Hay que sopesar la velocidad de mitigación frente al valor ecológico del ecosistema restaurado. | OA 3 |
 | 19 | Verdadero o falso | Falso. El OA pide explícitamente analizar controversias considerando implicancias sociales, económicas, éticas y ambientales en conjunto, ya que las decisiones sobre cambio climático rara vez tienen una sola dimensión relevante. | OA 3 |
-| 20 | Desarrollo breve | El metano es un gas de efecto invernadero con una capacidad de retener calor mucho mayor que el CO₂ en el corto plazo; al reducir su liberación (por ejemplo, mediante cambios en la alimentación del ganado, mejor manejo de estiércol o captura de biogás en planteles ganaderos) se reduce directamente una de las causas del calentamiento global, por lo que corresponde a mitigación, no a adaptación. | OA 3 |
-| 21 | Desarrollo extenso | El aumento de temperatura media (componente físico) incrementa la frecuencia de olas de calor y seca la vegetación, aumentando el material combustible disponible para incendios forestales (efecto en el ecosistema); en el norte, lluvias más intensas y esporádicas sobre suelos áridos con poca vegetación facilitan aluviones. Medida de adaptación aceptable: por ejemplo, sistemas de alerta temprana y planes de evacuación en zonas de riesgo de aluvión, o cortafuegos y ordenamiento territorial que limiten la construcción en zonas de alto riesgo de incendio. | OA 3 |
+| 20 | Alternativas | **d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol.** | OA 3 |
+| 21 | Varias correctas | **a, b y c.** Los paneles solares reducen emisiones: son mitigación, no adaptación al riesgo. | OA 3 |
 | 22 | Alternativas | b) Las actividades humanas han intensificado el efecto invernadero al aumentar la concentración atmosférica de gases como el CO₂, elevando la temperatura media del planeta más allá de su variabilidad natural | OA 3 |
-| 23 | Desarrollo breve | Debe señalar que los bosques actúan como sumideros de carbono, capturando y almacenando CO₂ mediante fotosíntesis; al eliminarlos se pierde esa capacidad de captura y, además, gran parte del carbono almacenado en la biomasa puede liberarse a la atmósfera (por ejemplo, si se queman los árboles talados), por lo que la deforestación contribuye directamente al aumento de gases de efecto invernadero. | OA 3 |
-| 24 | Desarrollo extenso | El adelanto de las temperaturas primaverales (efecto físico del cambio climático) puede estar induciendo estos cambios de comportamiento (efecto biológico); el riesgo es un desacople temporal entre especies interdependientes: si la planta o el insecto del que un ave se alimenta no adelanta su ciclo al mismo ritmo, el ave podría llegar a un momento en que no hay suficiente alimento disponible, afectando su reproducción y supervivencia. | OA 3 |
-| 25 | Desarrollo extenso | Respuesta abierta; por ejemplo, ventaja: reduce las emisiones directas de gases de efecto invernadero y de contaminantes locales asociadas al transporte a combustión, mejorando también la calidad del aire urbano; limitación: el beneficio climático depende de que la electricidad usada provenga de fuentes renovables, y el costo inicial de renovar flotas o comprar vehículos eléctricos es alto, lo que puede requerir subsidios estatales o financiamiento a largo plazo para ser viable a gran escala. | OA 3 |
+| 23 | Alternativas | **b) Porque se pierde un sumidero de carbono y parte del carbono almacenado en la biomasa puede liberarse a la atmósfera, por ejemplo al quemar los árboles talados.** | OA 3 |
+| 24 | Alternativas | **c) El adelanto de las temperaturas primaverales puede inducir el cambio; el riesgo es un desacople temporal: si el insecto o la planta de la que se alimentan no adelanta su ciclo, faltará alimento y se afectará la reproducción.** | OA 3 |
+| 25 | Varias correctas | **a, b y c.** | OA 3 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 3 (2 puntos)
-
-- Distingue la protección total: zona núcleo sin ninguna extracción ni actividad — **1 punto**
-- Distingue el uso sostenible: pesca regulada con cuotas que no compromete la capacidad de regeneración — **1 punto**
-
-### Pregunta 5 (2 puntos)
-
-- Propone medir el consumo real por sala u horario y compararlo con un período anterior o un estándar, para identificar los focos de mayor gasto — **1 punto**
-- Justifica el diagnóstico cuantificado como base para dirigir el proyecto y poder medir su efectividad después — **1 punto**
-
-### Pregunta 6 (3 puntos)
-
-- Propone al menos dos medidas pertinentes: generación solar o híbrida y compostaje o valorización de desechos de pesca — **1 punto**
-- Evalúa el costo de inversión inicial y la posibilidad de subsidios estatales — **1 punto**
-- Considera el compromiso de la organización de pescadores para el uso y la mantención en el tiempo — **1 punto**
-
-### Pregunta 9 (2 puntos)
-
-- Explica que el proyecto gestiona el residuo y evita su acumulación sin control — **1 punto**
-- Explica que capturar el metano reduce un gas de efecto invernadero potente y lo convierte en energía útil — **1 punto**
-
-### Pregunta 10 (3 puntos)
-
-- Evalúa la opción (a) como destructiva del humedal y de sus servicios ecosistémicos — **1 punto**
-- Evalúa la opción (b) como compatible con la conservación del humedal — **1 punto**
-- Explica que un proyecto es sostenible cuando compatibiliza el uso humano con la capacidad de regeneración del ecosistema — **1 punto**
-
-### Pregunta 12 (2 puntos)
-
-- Relaciona las especies nativas con la conservación del hábitat y la biodiversidad local — **1 punto**
-- Señala el beneficio climático: el bosque en crecimiento captura y almacena CO₂ como sumidero de carbono — **1 punto**
-
-### Pregunta 13 (3 puntos)
-
-- Exige estudios hidrogeológicos independientes sobre la recarga del acuífero y el impacto de la extracción — **1 punto**
-- Evalúa la viabilidad económica y técnica de la planta desalinizadora frente al agua extraída — **1 punto**
-- Exige consulta y participación real de la comunidad afectada, no solo una compensación — **1 punto**
-
-### Pregunta 16 (2 puntos)
-
-- Menciona la validación del modelo con proyecciones pasadas y el uso de distintos escenarios de emisiones — **1 punto**
-- Menciona el respaldo de instituciones científicas y la consistencia con otros modelos independientes — **1 punto**
-
-### Pregunta 18 (3 puntos)
-
-- Evalúa la opción (a): captura carbono más rápido y a menor costo, pero genera un ecosistema poco diverso — **1 punto**
-- Evalúa la opción (b): captura más lenta, pero restaura hábitat, biodiversidad y resiliencia — **1 punto**
-- Sopesa explícitamente velocidad de mitigación frente a valor ecológico del ecosistema restaurado — **1 punto**
-
-### Pregunta 20 (2 puntos)
-
-- Explica que el metano es un gas de efecto invernadero con alto potencial de retener calor en el corto plazo — **1 punto**
-- Menciona una forma concreta de reducirlo: cambios en la alimentación del ganado, manejo de estiércol o captura de biogás — **1 punto**
-
-### Pregunta 21 (3 puntos)
-
-- Explica un componente físico: el aumento de temperatura incrementa olas de calor y seca la vegetación — **1 punto**
-- Relaciona ese efecto con el ecosistema: más material combustible para incendios, o lluvias intensas y aluviones en zonas áridas — **1 punto**
-- Propone una medida de adaptación, no de mitigación: alerta temprana, cortafuegos u ordenamiento territorial — **1 punto**
-
-### Pregunta 23 (2 puntos)
-
-- Explica que los bosques actúan como sumideros de carbono mediante la fotosíntesis — **1 punto**
-- Explica que al eliminarlos se pierde esa captura y se libera el carbono almacenado en la biomasa — **1 punto**
-
-### Pregunta 24 (3 puntos)
-
-- Relaciona el adelanto de las temperaturas primaverales con el cambio climático — **1 punto**
-- Explica el desacople temporal entre especies interdependientes — **1 punto**
-- Explica el riesgo para la alimentación, la reproducción o la supervivencia del ave — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Menciona una ventaja: menos emisiones directas y mejor calidad del aire urbano — **1 punto**
-- Menciona una limitación: el beneficio depende de una matriz eléctrica renovable, o el alto costo de renovar flotas — **1 punto**
-- Incorpora la dimensión económica: subsidios o financiamiento de largo plazo para ser viable a gran escala — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
@@ -385,8 +338,8 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 
 - **7 preguntas de alternativas** (N° 1, 4, 8, 11, 14, 17, 22) × 1 punto = 7 puntos
 - **4 preguntas de verdadero o falso** (N° 2, 7, 15, 19) × 1 punto = 4 puntos
-- **7 preguntas de desarrollo breve** (N° 3, 5, 9, 12, 16, 20, 23) × 2 puntos = 14 puntos
-- **7 preguntas de desarrollo extenso** (N° 6, 10, 13, 18, 21, 24, 25) × 3 puntos = 21 puntos
+- **7 preguntas de mayor complejidad** (N° 3, 5, 9, 12, 16, 20, 23) × 2 puntos = 14 puntos
+- **7 preguntas de mayor complejidad** (N° 6, 10, 13, 18, 21, 24, 25) × 3 puntos = 21 puntos
 - **Puntaje total de la prueba: 46 puntos**
 
 > Nota: en las preguntas de desarrollo con más de un elemento exigido (por ejemplo,
@@ -408,8 +361,8 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 4 | 9 |
-| OA 3 | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 3 | 9 |
-| **Total** | **25 preguntas** | **7** | **18** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 | 13 |
+| OA 3 | 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 | 12 |
+| **Total** | **25 preguntas** | **25** |

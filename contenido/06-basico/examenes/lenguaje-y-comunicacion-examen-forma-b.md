@@ -8,14 +8,14 @@ ultima_actualizacion: 2026-11-02
 
 # Prueba de práctica — Lenguaje y Comunicación — 6° básico (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lenguaje-y-comunicacion.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones) y preguntas de respuesta abierta (breve o extensa), apoyadas en textos narrativos, un poema y textos no literarios (uno con tabla de datos, otro con dos fuentes que cuentan una misma noticia), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc. Esta es la **Forma B**: usa los mismos textos base que el banco de contenido, pero con preguntas distintas, para practicar otros ángulos de análisis.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lenguaje-y-comunicacion.md`). El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato, con preguntas de alternativas (4 opciones) apoyadas en textos narrativos, un poema y textos no literarios (uno con tabla de datos, otro con dos fuentes que cuentan una misma noticia), con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc. Esta es la **Forma B**: usa los mismos textos base que el banco de contenido, pero con preguntas distintas, para practicar otros ángulos de análisis.*
 
 ## Instrucciones generales
 
-- Esta prueba contiene **25 preguntas**: 11 de alternativas (4 opciones), 2 de verdadero o falso con justificación, y 12 de respuesta abierta (breve o extensa).
+- Esta prueba contiene **25 preguntas de alternativas** (4 opciones): 24 con una única respuesta correcta y 1 en la que debes **marcar todas las correctas**.
 - Tiempo total: **90 minutos**.
 - Lee con atención cada texto antes de responder las preguntas asociadas a él. Puedes volver a leerlo cuantas veces necesites.
-- En las preguntas de alternativas, marca solo una opción. En las preguntas abiertas, responde con oraciones completas y ordena tus ideas.
+- Marca solo una opción, salvo en la pregunta que dice «marca todas las correctas».
 - No se permite el uso de libros, apuntes, celular u otro dispositivo electrónico. Puedes usar lápiz, goma y hoja de respuesta.
 - Administra bien tu tiempo: no te quedes pegado o pegada en una sola pregunta. Si te complicas con una, sigue adelante y vuelve a ella al final.
 - Al terminar, revisa tus respuestas antes de entregar. Al final de este documento encontrarás la **Pauta de Corrección** para autoevaluarte.
@@ -44,16 +44,31 @@ ultima_actualizacion: 2026-11-02
 
 **1. (Alternativas)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
-a) Chile actual, en una ciudad grande
-b) La época de la colonia española
+a) Chile actual, en una ciudad grande con fábricas y mucho tráfico
+b) La época de la Colonia española, en las minas de plata del centro
 c) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-d) El sur de Chile en el presente
+d) El sur de Chile en el presente, en un pueblo de pescadores y bosques
 
-**2. (Desarrollo breve)** Explica cómo el ambiente descrito en el Texto 1 (el calor extremo, la maquinaria pesada, el peligro constante) influye en las reglas de seguridad y en la reacción del padre de Manuel cuando lo ve en peligro.
+**2. (Alternativas)** ¿Cómo influye el ambiente descrito en el Texto 1 (el calor extremo, la maquinaria pesada, el peligro constante) en las reglas de seguridad y en la reacción del padre de Manuel cuando lo ve en peligro?
 
-**3. (Verdadero o Falso, con justificación)** "La motivación de Antonia para organizar la minga fue únicamente demostrar ante los vecinos sus habilidades de organización, sin que le importara realmente la situación de su abuelo." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+a) La maquinaria hace que no existan reglas de seguridad: cada trabajador decide por sí mismo cómo cuidarse, y por eso el padre no le explica nada a Manuel
+b) El ambiente no influye: las reglas de seguridad son solo una costumbre familiar que el padre aprendió de niño y que repite sin saber bien para qué sirve
+c) El calor hace que el padre esté cansado y no se preocupe por Manuel; por eso las reglas son pocas y se aplican solo cuando hay un jefe presente
+d) El ambiente extremo (calor, maquinaria pesada, poca tolerancia al error) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal
 
-**4. (Desarrollo extenso)** Da tu opinión fundamentada sobre la actitud de Antonia al organizar la minga sin que nadie se lo pidiera. Luego, a partir del Texto 2, explica qué conclusión puedes sacar sobre cómo las costumbres de una comunidad pueden ayudar a que una persona enfrente un problema que, sola, no podría resolver.
+**3. (Alternativas — verdadero o falso justificado)** "La motivación de Antonia para organizar la minga fue únicamente demostrar ante los vecinos sus habilidades de organización, sin que le importara realmente la situación de su abuelo." ¿Es verdadero o falso, y qué información del texto lo justifica?
+
+a) Verdadero: el texto dice que Antonia quería que los vecinos la admiraran por lo bien que organizaba las actividades del pueblo
+b) Verdadero: Antonia organizó la minga para ganar un premio que la junta de vecinos entregaba a quien ayudara más en el sector
+c) Falso: la minga no la organizó Antonia, sino su abuelo, que llamó a los vecinos apenas vio el problema del galpón
+d) Falso: Antonia actúa preocupada al ver a su abuelo triste y silencioso por el problema del galpón; el texto no menciona interés en lucirse
+
+**4. (Alternativas)** ¿Qué opción presenta una opinión fundamentada sobre la actitud de Antonia al organizar la minga sin que nadie se lo pidiera, y una conclusión sustentada en el Texto 2 sobre el valor de las costumbres comunitarias?
+
+a) Su actitud fue egoísta, porque quería que la reconocieran; y las costumbres comunitarias ya no sirven para resolver problemas
+b) Su actitud fue un error, porque debió esperar a que su abuelo pidiera ayuda; y cada persona debe resolver sola sus problemas
+c) Antonia no hizo nada importante, porque los vecinos habrían ayudado igual; y la minga es solo un juego para los niños del pueblo
+d) Su actitud muestra iniciativa y empatía; y la minga permite resolver en comunidad problemas que una persona sola no podría enfrentar
 
 ---
 
@@ -87,9 +102,19 @@ b) El paisaje parece estar vivo y acompañar el viaje
 c) El tren viaja de noche, hacia el sur
 d) El tiempo pareciera detenerse durante el trayecto
 
-**7. (Desarrollo breve)** Interpreta con tus propias palabras qué ocurre en la **primera estrofa** del poema. Explica también qué sonido de la realidad imita la onomatopeya "traquetea".
+**7. (Alternativas)** ¿Qué ocurre en la **primera estrofa** del poema, y qué sonido de la realidad imita la onomatopeya "traquetea"?
 
-**8. (Desarrollo extenso)** Explica el significado de la comparación "**como un viajero que nunca descansa**": ¿qué transmite sobre la duración del viaje y el estado de quien lo narra? Luego, interpreta con tus propias palabras qué ocurre en la **segunda estrofa**, y escribe un verso propio que use una **hipérbole** para describir lo hambriento o hambrienta que estuviste un día después de hacer deporte.
+a) El tren está detenido en la estación esperando a los pasajeros; "traquetea" imita el canto de un pájaro que se posa sobre los rieles mojados
+b) Llueve fuertemente en la ciudad y el tren no puede avanzar; "traquetea" imita el sonido de la lluvia al caer sobre el techo de los vagones
+c) El tren avanza con un ruido rítmico sobre rieles mojados y silba varias veces; "traquetea" imita el sonido repetitivo y mecánico del tren sobre los rieles
+d) Los pinos se inclinan con el viento mientras el tren se aleja; "traquetea" imita el silbido del viento entre las ramas de los árboles del bosque
+
+**8. (Alternativas)** ¿Qué opción interpreta correctamente la comparación "**como un viajero que nunca descansa**", lo que ocurre en la **segunda estrofa** y da un ejemplo correcto de **hipérbole** sobre el hambre después de hacer deporte?
+
+a) La comparación transmite un viaje larguísimo y agotador; en la segunda estrofa los pinos parecen observar el tren y quien viaja se duerme; y "tenía tanta hambre que me habría comido una vaca entera" es una hipérbole
+b) La comparación transmite un viaje corto y alegre; en la segunda estrofa el tren choca contra los pinos y se detiene; y "tenía hambre después del viaje" es una hipérbole
+c) La comparación transmite el miedo de quien viaja de noche; en la segunda estrofa ya es de día y el tren llega a su destino; y "comí un pan con palta" es una hipérbole
+d) No hay ninguna comparación en el poema; en la segunda estrofa no pasa nada nuevo; y "mi estómago estaba vacío como un tambor" es una hipérbole, porque exagera el hambre
 
 ---
 
@@ -121,15 +146,30 @@ d) Década de 2000, Región de Valparaíso
 **10. (Alternativas)** ¿Qué se puede inferir del hecho de que el Texto B mencione que la tecnología "se ha replicado en países como Perú, Marruecos y Sudáfrica"?
 
 a) Que es una tecnología reconocida y utilizada en distintas partes del mundo
-b) Que la tecnología fue inventada originalmente en esos países
-c) Que en Chile ya no se usan los atrapanieblas
-d) Que los atrapanieblas solo funcionan en climas lluviosos
+b) Que la tecnología fue inventada originalmente en esos países y Chile la copió
+c) Que en Chile ya no se usan los atrapanieblas porque fueron reemplazados
+d) Que los atrapanieblas solo funcionan en climas lluviosos como los de Europa
 
-**11. (Desarrollo breve)** Según la tabla del Texto A, calcula el **promedio** de litros captados por malla considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre). Muestra el procedimiento que usaste para obtenerlo.
+**11. (Alternativas)** Según la tabla del Texto A, ¿cuál es el **promedio** de litros captados por malla considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre)?
 
-**12. (Verdadero o Falso, con justificación)** "El Texto A explica el principio físico por el cual las mallas capturan agua, mientras que el Texto B describe el impacto social en la comunidad de Alto Hospicio." Indica si es verdadero o falso y justifica tu respuesta.
+a) 800 litros
+b) 310 litros
+c) 200 litros
+d) 160 litros
 
-**13. (Desarrollo extenso)** A partir de la información del Texto A y el Texto B, explica qué tienen en común ambos textos (más allá del tema general). Luego, da tu opinión fundamentada sobre si la tecnología de los atrapanieblas podría aplicarse en otras zonas costeras de Chile con niebla frecuente, apoyándote en al menos un dato o idea de cada texto.
+**12. (Alternativas — verdadero o falso justificado)** "El Texto A explica el principio físico por el cual las mallas capturan agua, mientras que el Texto B describe el impacto social en la comunidad de Alto Hospicio." ¿Es verdadero o falso, y por qué?
+
+a) Verdadero: el Texto A explica cómo la niebla queda atrapada en las mallas y el B, cómo cambió la vida en Alto Hospicio
+b) Falso: es al revés; el Texto B explica el principio físico y el Texto A describe el impacto social en Alto Hospicio
+c) Falso: ninguno de los dos textos habla de atrapanieblas; ambos tratan sobre la sequía en el norte
+d) Verdadero: los dos textos dicen exactamente lo mismo, solo que con distintas palabras
+
+**13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre aplicar los atrapanieblas en otras zonas costeras de Chile con niebla frecuente?
+
+a) No tienen nada en común más allá del tema; la tecnología no podría aplicarse en ninguna otra zona, porque cada lugar de Chile tiene un clima distinto
+b) Ambos dicen que los atrapanieblas reemplazan por completo el agua potable de las ciudades; por eso deberían instalarse en todo el desierto, incluso en los lugares donde nunca hay niebla, para terminar definitivamente con los camiones aljibe
+c) Ambos mencionan la camanchaca como fuente de agua y que la tecnología es valiosa pero no reemplaza el agua potable; podría aplicarse en otras costas con niebla, por su beneficio social (Texto A) y su respaldo científico (Texto B)
+d) Ambos hablan de los volcanes del norte como fuente de agua; la tecnología solo serviría en la Antártica, porque allí hay más hielo que en cualquier otro lugar
 
 ---
 
@@ -148,21 +188,31 @@ d) Que los atrapanieblas solo funcionan en climas lluviosos
 
 **14. (Alternativas)** ¿Quién es el **emisor** de la Fuente 1?
 
-a) Un vecino anónimo del sector
+a) Un vecino anónimo del sector que vio la obra terminada
 b) La Municipalidad de Ñuñoa (Departamento de Movilidad)
-c) Un ciclista profesional
-d) Un comerciante de avenida Irarrázaval
+c) Un ciclista profesional que entrena en la avenida
+d) Un comerciante de avenida Irarrázaval afectado por la obra
 
 **15. (Alternativas)** ¿Cuál de las siguientes afirmaciones es **verdadera** según la Fuente 2?
 
-a) Todos los vecinos están de acuerdo con la ciclovía
+a) Todos los vecinos están de acuerdo con la nueva ciclovía
 b) Los comerciantes y los ciclistas tienen opiniones distintas sobre la obra
 c) La Municipalidad decidió eliminar completamente la ciclovía
-d) La ciclovía mide 5 kilómetros
+d) La ciclovía mide cinco kilómetros y costó más de lo planificado
 
-**16. (Desarrollo breve)** Si quisieras saber "cuántos comerciantes exactamente afirman que bajaron sus ventas desde que se construyó la ciclovía", ¿alguna de las dos fuentes entrega esa información con precisión? Explica tu respuesta.
+**16. (Alternativas)** Si quisieras saber "cuántos comerciantes exactamente afirman que bajaron sus ventas desde que se construyó la ciclovía", ¿qué afirmación es correcta?
 
-**17. (Desarrollo extenso)** Explica cuál es el propósito de la Fuente 1 y cuál es el propósito de la Fuente 2, señalando en qué se diferencian. Luego, explica por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva.
+a) Ninguna da una cifra exacta: la Fuente 2 solo dice "varios comerciantes"; habría que consultar a la asociación de comerciantes o hacer una encuesta
+b) Sí, la Fuente 1 dice que fueron exactamente 25 comerciantes, según el registro que lleva la Municipalidad sobre los locales del sector
+c) Sí, la Fuente 2 entrega la cifra exacta de comerciantes afectados, porque los entrevistó a todos antes de publicar la noticia
+d) No se puede saber nunca, porque esa información no existe en ninguna parte y los comerciantes no aceptarían responder una encuesta
+
+**17. (Alternativas)** ¿Qué opción describe correctamente el propósito de la Fuente 1 y de la Fuente 2, y por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva?
+
+a) Las dos fuentes tienen el mismo propósito, informar sobre la ciclovía; no importa quién emite un texto, porque los hechos son los mismos para todos
+b) La Fuente 1 critica a la Municipalidad por la obra y la Fuente 2 la elogia; conocer el propósito del emisor no cambia cómo se lee la información
+c) Ninguna tiene un propósito especial, porque los textos informativos siempre son objetivos y neutrales; por eso basta con leer una sola fuente para entender un hecho completo, sin importar si la escribió la Municipalidad, un vecino o un medio de prensa
+d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva
 
 ---
 
@@ -178,13 +228,23 @@ d) Debe ser completamente ignorado por los personajes
 **19. (Alternativas)** En el fragmento: "Camila y Fernanda llegaron a la casa de campo. Ella dejó su mochila en el suelo y salió a explorar el patio, mientras que ella se quedó revisando unas cajas viejas en el living", ¿cuál es el problema de referentes presente?
 
 a) No se sabe con claridad si "ella" se refiere a Camila o a Fernanda
-b) Faltan conectores que muestren el orden temporal
-c) El texto no incluye ningún diálogo
-d) No hay ninguna descripción del ambiente
+b) Faltan conectores que muestren el orden temporal de las acciones
+c) El texto no incluye ningún diálogo entre las dos personajes
+d) No hay ninguna descripción del ambiente de la casa de campo
 
-**20. (Desarrollo breve)** Escribe dos oraciones que muestren el **inicio** de un relato, presentando a un personaje y el ambiente donde ocurre la historia. Usa al menos un conector y evita cualquier ambigüedad en los referentes.
+**20. (Alternativas)** ¿Qué opción es un buen **inicio** de relato, que presenta personaje y ambiente, usa al menos un conector y no tiene ambigüedad en los referentes?
 
-**21. (Desarrollo extenso)** Escribe un **diálogo breve** (4 a 6 líneas) entre dos personajes, en el que se resuelva un **conflicto evidente** planteado al inicio del diálogo. Cuida que quede explícito en todo momento quién dice cada línea (referentes claros, sin ambigüedad), e incluye al menos una **descripción** breve del ambiente o de uno de los personajes.
+a) Ella salió temprano. Ella la vio en la playa y ella se fue enseguida, mientras ella miraba el mar desde lejos sin decir nada a nadie.
+b) Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola.
+c) Pichilemu es una ciudad de la costa central de Chile, conocida por sus olas y por recibir a muchos surfistas durante todo el año.
+d) Y finalmente todos volvieron a casa, cansados después de un día tan largo, y se fueron a dormir sin recordar lo que había pasado.
+
+**21. (Alternativas)** ¿Qué **diálogo breve** plantea y resuelve un **conflicto evidente**, deja explícito quién dice cada línea e incluye una **descripción** del ambiente o de un personaje?
+
+a) —Hola —dijo alguien. / —Hola —respondió otra persona. / —¿Qué tal? / —Bien, gracias. / —Qué bueno. / —Sí, qué bueno.
+b) —Ella perdió eso que tenía ayer en la mano. / —¿Quién lo perdió? / —Ella, la otra, la que estaba con él. / —Ah, ya entiendo. / —Sí, eso.
+c) —Perdí la llave de la bicicleta —dijo Tomás, nervioso, junto al portón oxidado del colegio—. / —Revisemos tu mochila —propuso Carla. / —¡Aquí está, en el bolsillo chico! —exclamó Tomás, aliviado.
+d) —Me gusta mucho el helado de chocolate —dijo Tomás, contento, junto al kiosco del colegio—. / —A mí también me gusta, sobre todo en verano —respondió Carla. / —Qué bien, entonces compremos dos —dijo él.
 
 ---
 
@@ -192,27 +252,39 @@ d) No hay ninguna descripción del ambiente
 
 **22. (Alternativas)** Según el **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **Texto A** ("Atrapando agua del aire en Alto Hospicio")?
 
-a) El principio físico de los atrapanieblas
+a) El principio físico por el cual las mallas de los atrapanieblas capturan agua
 b) El impacto social de los atrapanieblas en la comunidad de Alto Hospicio
-c) La replicación de la tecnología en otros países
-d) Las fuentes utilizadas para escribir el artículo
+c) La replicación de la tecnología en otros países con costas y desiertos
+d) Las fuentes científicas utilizadas para escribir el artículo informativo
 
 **23. (Alternativas)** ¿Cuál de las siguientes es una razón para **agregar las fuentes** al final de un artículo informativo?
 
-a) Para ocupar más espacio en la página
+a) Para ocupar más espacio en la página y cumplir con la extensión pedida
 b) Para dar confiabilidad al texto y permitir que el lector verifique la información
-c) Porque es obligatorio copiar textualmente lo que dice internet
-d) Para que el texto parezca más extenso de lo que es
+c) Porque es obligatorio copiar textualmente lo que dice internet sobre un tema
+d) Para que el texto parezca más extenso e importante de lo que realmente es
 
-**24. (Desarrollo breve)** Explica por qué es importante desarrollar **una idea central por párrafo** (usando punto aparte) en un artículo informativo, y qué problema podría generar mezclar varias ideas distintas dentro de un mismo párrafo.
+**24. (Alternativas)** ¿Por qué es importante desarrollar **una idea central por párrafo** (usando punto aparte) en un artículo informativo, y qué problema podría generar mezclar varias ideas distintas dentro de un mismo párrafo?
 
-**25. (Desarrollo extenso)** Imagina que debes escribir un artículo informativo breve sobre "la importancia de separar la basura en tu hogar". Escribe la oración inicial que presente el tema con claridad, menciona **dos ideas centrales distintas** para los párrafos de desarrollo (una por párrafo, con al menos un conector cada una), y agrega una lista de al menos **dos fuentes** que podrías usar para investigar el tema.
+a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información
+b) Así el artículo queda más largo y ordenado a la vista, aunque las ideas de cada párrafo se repitan
+c) No importa: se pueden mezclar todas las ideas en un mismo párrafo si el texto usa muchos conectores
+d) Para que cada párrafo tenga una sola oración, que es la extensión adecuada en un artículo informativo
+
+**25. (Varias correctas)** Imagina que debes escribir un artículo informativo breve sobre "la importancia de separar la basura en tu hogar". ¿Qué elementos debería incluir tu planificación?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Una oración inicial que presente el tema con claridad
+b) Dos ideas centrales distintas, una por párrafo, unidas con conectores
+c) Al menos dos fuentes confiables, como el Ministerio del Medio Ambiente o material de la municipalidad
+d) Un chiste sobre la basura para empezar, sin presentar el tema
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -225,30 +297,30 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
 | 1 | **c)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
-| 2 | El ambiente extremo de la pampa (calor intenso, maquinaria pesada en movimiento, poca tolerancia al error) explica por qué las reglas de seguridad son tan estrictas y por qué el padre reacciona corriendo desesperadamente al ver a Manuel en peligro: en ese entorno, un descuido puede tener consecuencias graves o fatales. | OA N°4 — influencia del ambiente en las acciones |
-| 3 | **Falso.** El texto indica que Antonia actúa motivada por la preocupación que siente al ver a su abuelo triste y silencioso por el problema del galpón; no menciona en ningún momento un interés por demostrar habilidades de organización. | OA N°4 — motivaciones de los personajes |
-| 4 | Debe incluir una opinión fundamentada sobre la actitud de Antonia (por ejemplo, valorando su iniciativa y empatía) apoyada en información del texto, y una conclusión sustentada que explique cómo costumbres comunitarias como la minga permiten resolver colectivamente problemas que una persona sola no podría enfrentar. | OA N°4 — opinión fundamentada y conclusión sustentada |
+| 2 | **d) El ambiente extremo (calor, maquinaria pesada, poca tolerancia al error) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal.** | OA N°4 — influencia del ambiente en las acciones |
+| 3 | **d) Falso: Antonia actúa preocupada al ver a su abuelo triste y silencioso por el problema del galpón; el texto no menciona interés en lucirse.** | OA N°4 — motivaciones de los personajes |
+| 4 | **d) Su actitud muestra iniciativa y empatía; y la minga permite resolver en comunidad problemas que una persona sola no podría enfrentar.** Una opinión fundamentada se apoya en el texto; la conclusión se sustenta en cómo la costumbre comunitaria ayudó a resolver el problema del galpón. | OA N°4 — opinión fundamentada y conclusión sustentada |
 | 5 | d) Comparación (símil) — usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa | OA N°5 — lenguaje figurado (comparación) |
 | 6 | **c)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
-| 7 | En la primera estrofa, el tren avanza haciendo un ruido rítmico y constante sobre rieles mojados, y silba varias veces como si llevara mucho tiempo viajando. La onomatopeya "traquetea" imita el sonido repetitivo y mecánico de un tren moviéndose sobre los rieles. | OA N°5 — interpretación y onomatopeya |
-| 8 | La comparación "**como un viajero que nunca descansa**" transmite que el trayecto se siente larguísimo y agotador, casi interminable, para quien narra. En la segunda estrofa, el paisaje (los pinos) parece observar el paso del tren mientras quien viaja, vencido por el cansancio, finalmente se queda dormido antes de llegar. El verso propio debe usar una exageración evidente e intencionada sobre el hambre (por ejemplo, "tenía tanta hambre que me habría comido una vaca entera"). | OA N°5 — comparación, interpretación y creación de hipérbole |
+| 7 | **c) El tren avanza con un ruido rítmico sobre rieles mojados y silba varias veces; "traquetea" imita el sonido repetitivo y mecánico del tren sobre los rieles.** | OA N°5 — interpretación y onomatopeya |
+| 8 | **a) La comparación transmite un viaje larguísimo y agotador; en la segunda estrofa los pinos parecen observar el tren y quien viaja se duerme; y "tenía tanta hambre que me habría comido una vaca entera" es una hipérbole.** "Mi estómago estaba vacío como un tambor" es una comparación, no una hipérbole: la hipérbole es una exageración evidente e intencionada. Intenta escribir tu propia hipérbole. | OA N°5 — comparación, interpretación y creación de hipérbole |
 | 9 | **a)** Década de 1980, Región de Antofagasta. | OA N°6 — información explícita |
 | 10 | **a)** Que es una tecnología reconocida y utilizada en distintas partes del mundo. | OA N°6 — inferencia a partir de información implícita |
-| 11 | (120 + 310 + 280 + 90) ÷ 4 = 800 ÷ 4 = **200 litros** promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
-| 12 | **Falso.** Es al revés: el Texto B explica el principio físico de los atrapanieblas, y el Texto A describe el impacto social en la comunidad de Alto Hospicio. | OA N°6 — comparación de información entre dos textos |
-| 13 | Ambos textos comparten el tema de los atrapanieblas, mencionan la camanchaca como fuente de agua y coinciden en que es una tecnología valiosa pero no reemplaza completamente el agua potable. La opinión fundamentada debe apoyarse en al menos un dato de cada texto (por ejemplo, el beneficio social comprobado del Texto A y el respaldo científico e histórico del Texto B) para argumentar si convendría aplicar la tecnología en otras zonas costeras con niebla frecuente. | OA N°6 — comparación de fuentes y opinión fundamentada |
+| 11 | **c) 200 litros.** (120 + 310 + 280 + 90) ÷ 4 = 800 ÷ 4 = 200. 800 es la suma, no el promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
+| 12 | **b) Falso: es al revés; el Texto B explica el principio físico y el Texto A describe el impacto social en Alto Hospicio.** | OA N°6 — comparación de información entre dos textos |
+| 13 | **c) Ambos mencionan la camanchaca como fuente de agua y que la tecnología es valiosa pero no reemplaza el agua potable; podría aplicarse en otras costas con niebla, por su beneficio social (Texto A) y su respaldo científico (Texto B).** La opinión fundamentada se apoya en al menos un dato de cada texto. | OA N°6 — comparación de fuentes y opinión fundamentada |
 | 14 | **b)** La Municipalidad de Ñuñoa (Departamento de Movilidad), tal como se indica al final del comunicado. | OA N°7 — emisor |
 | 15 | **b)** Los comerciantes y los ciclistas tienen opiniones distintas sobre la obra. | OA N°7 — información explícita en textos comparados |
-| 16 | Ninguna de las dos fuentes entrega una cifra exacta o verificable sobre cuántos comerciantes vieron bajar sus ventas; la Fuente 2 solo menciona que "varios comerciantes" se quejan, sin precisar un número. Para conseguir esa información habría que consultar directamente a la asociación de comerciantes o hacer una encuesta en el sector. | OA N°7 — suficiencia de la información |
-| 17 | La Fuente 1 tiene el propósito de informar destacando positivamente una obra realizada por la propia Municipalidad, mientras que la Fuente 2 tiene el propósito de informar sobre las distintas reacciones de la comunidad, incluyendo posturas críticas. Debe concluir que conocer el propósito del emisor ayuda a entender por qué un texto puede mostrar solo una parte de la realidad, y por eso es importante no aceptar automáticamente su información como completa u objetiva. | OA N°7 — propósito del emisor |
+| 16 | **a) Ninguna da una cifra exacta: la Fuente 2 solo dice "varios comerciantes"; habría que consultar a la asociación de comerciantes o hacer una encuesta.** | OA N°7 — suficiencia de la información |
+| 17 | **d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva.** | OA N°7 — propósito del emisor |
 | 18 | **a)** Debe resolverse de alguna manera a lo largo de la historia. | OA N°14 — estructura del conflicto en una narración |
 | 19 | **a)** No se sabe con claridad si "ella" se refiere a Camila o a Fernanda, porque ambas son mencionadas y el pronombre se repite sin distinción. | OA N°14 — identificación de referentes ambiguos |
-| 20 | Cualquier inicio bien construido, sin ambigüedad y con al menos un conector, por ejemplo: "Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola." | OA N°14 — escritura del inicio de una narración |
-| 21 | El diálogo debe plantear un conflicto evidente al inicio y mostrar cómo se resuelve a lo largo de las líneas; debe quedar explícito en todo momento quién habla (por nombre o descripción clara, sin pronombres ambiguos); y debe incluir al menos una descripción breve del ambiente o de un personaje. | OA N°14 — diálogo con conflicto resuelto y referentes claros |
+| 20 | **b) Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola.** El inicio correcto presenta personaje y ambiente, usa un conector ("apenas") y no tiene referentes ambiguos. | OA N°14 — escritura del inicio de una narración |
+| 21 | **c) —Perdí la llave de la bicicleta —dijo Tomás, nervioso, junto al portón oxidado del colegio—. / —Revisemos tu mochila —propuso Carla. / —¡Aquí está, en el bolsillo chico! —exclamó Tomás, aliviado.** El diálogo correcto plantea un conflicto (la llave perdida), lo resuelve, deja claro quién habla y describe el ambiente (el portón oxidado). | OA N°14 — diálogo con conflicto resuelto y referentes claros |
 | 22 | **b)** El impacto social de los atrapanieblas en la comunidad de Alto Hospicio (familias que antes dependían de camiones aljibe hoy riegan huertos comunitarios). | OA N°15 — idea central por párrafo |
 | 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. | OA N°15 — función de las fuentes |
-| 24 | Desarrollar una idea central por párrafo ayuda a que el lector siga con claridad el hilo del texto y distinga fácilmente los distintos aspectos del tema; mezclar varias ideas en un mismo párrafo puede confundir al lector y hacer que la información parezca desordenada o difícil de resumir. | OA N°15 — estructura y organización del artículo informativo |
-| 25 | La oración inicial debe presentar con claridad el tema de separar la basura en el hogar; las dos ideas centrales deben ser distintas entre sí (por ejemplo, "los distintos tipos de contenedores según el material" y "el beneficio ambiental de reducir la basura que llega a los vertederos"), cada una con al menos un conector; y debe incluir al menos dos fuentes razonables (por ejemplo, páginas web de instituciones oficiales como el Ministerio del Medio Ambiente, o material educativo de la municipalidad). | OA N°15 — planificación de un artículo informativo con fuentes |
+| 24 | **a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información.** | OA N°15 — estructura y organización del artículo informativo |
+| 25 | **a, b y c.** Un artículo bien planificado presenta el tema, desarrolla una idea central por párrafo y se apoya en fuentes confiables. | OA N°15 — planificación de un artículo informativo con fuentes |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
@@ -266,10 +338,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | Tipo de pregunta | Cantidad | Preguntas |
 |---|---|---|
-| Alternativas (4 opciones) | 11 | 1, 5, 6, 9, 10, 14, 15, 18, 19, 22, 23 |
-| Verdadero o Falso (con justificación) | 2 | 3, 12 |
-| Desarrollo breve | 6 | 2, 7, 11, 16, 20, 24 |
-| Desarrollo extenso | 6 | 4, 8, 13, 17, 21, 25 |
+| Alternativas (4 opciones, una correcta) | 24 | 1–24 |
+| Varias correctas | 1 | 25 |
 | **Total** | **25** | |
 
 ---
@@ -278,12 +348,12 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 4 | 1, 2, 3, 4 | 1 | 3 |
-| OA 5 | 5, 6, 7, 8 | 2 | 2 |
-| OA 6 | 9, 10, 11, 12, 13 | 2 | 3 |
-| OA 7 | 14, 15, 16, 17 | 2 | 2 |
-| OA 14 | 18, 19, 20, 21 | 2 | 2 |
-| OA 15 | 22, 23, 24, 25 | 2 | 2 |
-| **Total** | **25 preguntas** | **11** | **14** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 4 | 1, 2, 3, 4 | 4 |
+| OA 5 | 5, 6, 7, 8 | 4 |
+| OA 6 | 9, 10, 11, 12, 13 | 5 |
+| OA 7 | 14, 15, 16, 17 | 4 |
+| OA 14 | 18, 19, 20, 21 | 4 |
+| OA 15 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

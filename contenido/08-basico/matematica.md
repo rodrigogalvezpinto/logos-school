@@ -72,11 +72,11 @@ Una familia tiene una deuda total de $−72.000 y la va a pagar en 6 cuotas igua
 
 **Pregunta 1 (alternativas).** Calcula: (−6) × (−7).
 a) −42
-b) 42
+b) 13
 c) −13
-d) 13
+d) 42
 
-**Respuesta correcta: b) 42.**
+**Respuesta correcta: d) 42.**
 *Retroalimentación:* signos iguales (negativo por negativo) dan resultado positivo: 6×7=42, con signo +.
 
 **Pregunta 2 (verdadero o falso).** El resultado de (−8) × 5 es positivo.
@@ -86,37 +86,57 @@ d) 13
 
 **Pregunta 3 (calcular).** Calcula: (−45) ÷ (−9).
 a) −5
-b) 5
+b) 36
 c) −36
-d) 36
+d) 5
 
-**Respuesta correcta: b) 5.**
+**Respuesta correcta: d) 5.**
 *Retroalimentación:* signos iguales (negativo dividido negativo) dan resultado positivo: 45÷9=5, con signo +.
 
-**Pregunta 4 (calcular).** Calcula: 63 ÷ (−7).
+**Pregunta 4 (alternativas — calcular).** Calcula: 63 ÷ (−7).
+a) −56
+b) 9
+c) −9
+d) 70
 
-**Respuesta esperada:** 63 ÷ (−7) = **−9**.
+**Respuesta correcta: c) −9.**
 *Retroalimentación:* signos distintos (positivo dividido negativo) dan resultado negativo.
 
-**Pregunta 5 (problema en contexto — deuda).** Diego debe $84.000 y decide pagarlos en 4 cuotas mensuales iguales. Representa su deuda como un número entero negativo y calcula el valor de cada cuota.
+**Pregunta 5 (alternativas — problema en contexto — deuda).** Diego debe $84.000 y decide pagarlos en 4 cuotas mensuales iguales. Representando la deuda como número negativo, ¿cuál es el valor de cada cuota?
+a) $21.000
+b) −$336.000
+c) −$80.000
+d) −$21.000
 
-**Respuesta esperada:** deuda: −84.000. Cada cuota: −84.000 ÷ 4 = **−$21.000**.
-*Retroalimentación:* al dividir una deuda (número negativo) en partes iguales, cada parte conserva el signo negativo, porque cada cuota también representa una salida de dinero.
+**Respuesta correcta: d) −$21.000.**
+*Retroalimentación:* −84.000 ÷ 4 = −21.000: al dividir una deuda en partes iguales, cada parte conserva el signo negativo, porque cada cuota también representa una salida de dinero.
 
-**Pregunta 6 (problema en contexto — proyección hacia atrás).** El nivel de un pozo de agua ha estado descendiendo 3 cm por día durante la última semana. Si hoy el nivel está en 0 cm (referencia), ¿en qué nivel estaba hace 5 días?
+**Pregunta 6 (alternativas — proyección hacia atrás).** El nivel de un pozo ha estado descendiendo 3 cm por día. Si hoy el nivel está en 0 cm (referencia), ¿en qué nivel estaba hace 5 días?
+a) −15 cm
+b) +2 cm
+c) −8 cm
+d) +15 cm
 
-**Respuesta esperada:** (−5) × (−3) = **15**. Hace 5 días el nivel estaba 15 cm más alto (en +15 cm respecto a la referencia de hoy).
-*Retroalimentación:* "hace 5 días" es un tiempo negativo (hacia el pasado) y "descender 3 cm por día" es una tasa negativa; multiplicar dos negativos da un resultado positivo, indicando que el nivel era más alto en el pasado.
+**Respuesta correcta: d) +15 cm.**
+*Retroalimentación:* (−5) × (−3) = 15: "hace 5 días" es un tiempo negativo y descender es una tasa negativa; el producto positivo indica que el nivel era más alto en el pasado.
 
-**Pregunta 7 (predecir el signo — problema no rutinario).** Sin calcular el resultado exacto, determina si el resultado de (−4) × (−3) × (−2) es positivo o negativo, y luego verifica calculando.
+**Pregunta 7 (alternativas — predecir el signo).** ¿Cuál es el signo y el valor de (−4) × (−3) × (−2)?
+a) Positivo: 24
+b) Negativo: −9
+c) Negativo: −24
+d) Positivo: 9
 
-**Respuesta esperada:** hay **tres** factores negativos (cantidad impar), por lo tanto el resultado es **negativo**. Verificación: (−4)×(−3)=12; 12×(−2)=**−24**.
-*Retroalimentación:* una forma rápida de predecir el signo de una multiplicación con varios factores negativos es contar cuántos son negativos: si la cantidad es par, el resultado es positivo; si es impar, el resultado es negativo.
+**Respuesta correcta: c) Negativo: −24.**
+*Retroalimentación:* hay tres factores negativos (cantidad impar), por lo que el resultado es negativo: (−4)·(−3) = 12 y 12·(−2) = −24.
 
-**Pregunta 8 (problema no rutinario).** Una tienda registró estos cambios en su inventario durante 3 semanas: perdió 8 unidades por semana debido a productos dañados. ¿Cuál es el cambio total en el inventario después de las 3 semanas, y qué significa ese resultado?
+**Pregunta 8 (alternativas — problema no rutinario).** Una tienda perdió 8 unidades de inventario por semana, durante 3 semanas, por productos dañados. ¿Cuál es el cambio total y qué significa?
+a) −24: el inventario disminuyó en 24 unidades
+b) +24: el inventario aumentó en 24 unidades
+c) −11: el inventario disminuyó en 11 unidades
+d) −5: el inventario disminuyó en 5 unidades
 
-**Respuesta esperada:** 3 × (−8) = **−24**. El inventario disminuyó en 24 unidades en total.
-*Retroalimentación:* al multiplicar una cantidad de semanas (positiva) por una variación negativa (pérdida semanal), el resultado negativo representa una disminución acumulada del inventario.
+**Respuesta correcta: a) −24: el inventario disminuyó en 24 unidades.**
+*Retroalimentación:* 3 × (−8) = −24; el resultado negativo representa una disminución acumulada.
 
 ---
 
@@ -164,37 +184,57 @@ d) −5/7
 
 **Pregunta 3 (calcular — decimales).** Calcula: −4,5 × 2,4.
 a) 10,8
-b) −10,8
-c) −1,08
+b) −1,08
+c) −10,8
 d) 6,9
 
-**Respuesta correcta: b) −10,8.**
+**Respuesta correcta: c) −10,8.**
 *Retroalimentación:* se multiplican los números como si fueran positivos (4,5×2,4=10,8) y luego se aplica el signo: positivo por negativo da negativo.
 
-**Pregunta 4 (calcular — fracciones).** Calcula: −5/6 ÷ (−1/3).
+**Pregunta 4 (alternativas — calcular — fracciones).** Calcula: −5/6 ÷ (−1/3).
+a) −5/2
+b) 5/18
+c) −5/18
+d) 5/2
 
-**Respuesta esperada:** −5/6 × (−3/1) = 15/6, que simplificado es **5/2 = 2 1/2**.
-*Retroalimentación:* dividir por una fracción equivale a multiplicar por su recíproco; como ambos números son negativos, el resultado final es positivo.
+**Respuesta correcta: d) 5/2.**
+*Retroalimentación:* dividir por una fracción equivale a multiplicar por su recíproco: −5/6 × (−3) = 15/6 = 5/2; como ambos son negativos, el resultado es positivo.
 
-**Pregunta 5 (problema en contexto — recta numérica).** Un ascensor de mina desciende desde la superficie (0 m) a un ritmo constante de −2,5 metros por segundo. Representa en la recta numérica dónde se encuentra después de 6 segundos, y calcula la posición.
+**Pregunta 5 (alternativas — recta numérica).** Un ascensor de mina desciende desde la superficie (0 m) a −2,5 m por segundo. ¿Dónde está después de 6 segundos?
+a) 15 m (15 unidades a la derecha del 0)
+b) −8,5 m
+c) −3,5 m
+d) −15 m (15 unidades a la izquierda del 0)
 
-**Respuesta esperada:** posición = 6 × (−2,5) = **−15 metros**. En la recta numérica, se ubica 15 unidades a la izquierda del 0 (bajo la superficie).
-*Retroalimentación:* multiplicar el tiempo transcurrido (positivo) por la velocidad de descenso (negativa) da la posición final, que es negativa porque está bajo el nivel de referencia.
+**Respuesta correcta: d) −15 m (15 unidades a la izquierda del 0).**
+*Retroalimentación:* 6 × (−2,5) = −15: el tiempo positivo por la velocidad negativa da una posición bajo el nivel de referencia.
 
-**Pregunta 6 (problema en contexto — notación mixta).** Una fábrica reduce su producción en 3/4 de tonelada cada semana durante 4 semanas seguidas. Expresa la reducción total como número mixto y como decimal.
+**Pregunta 6 (alternativas — notación mixta).** Una fábrica reduce su producción en 3/4 de tonelada cada semana, durante 4 semanas. ¿Cuál es la variación total?
+a) −3/16 de tonelada
+b) −4 3/4 toneladas
+c) −3 toneladas
+d) −12 toneladas
 
-**Respuesta esperada:** reducción total = 4 × (−3/4) = **−3 toneladas** (número mixto: −3, ya es entero; en decimal: −3,0).
-*Retroalimentación:* al multiplicar una fracción por un número entero de semanas, el resultado puede simplificarse a un número entero; en este caso, 4×3/4=3 toneladas de reducción total.
+**Respuesta correcta: c) −3 toneladas.**
+*Retroalimentación:* 4 × (−3/4) = −3: el resultado se simplifica a un número entero (−3,0 en decimal).
 
-**Pregunta 7 (problema en contexto — reparto).** Una deuda de −5,25 (en millones de pesos) se reparte en partes iguales entre 3 socios de un negocio. ¿Cuánto le corresponde a cada uno?
+**Pregunta 7 (alternativas — reparto).** Una deuda de −5,25 millones de pesos se reparte en partes iguales entre 3 socios. ¿Cuánto le corresponde a cada uno?
+a) −1,75 millones
+b) 1,75 millones
+c) −15,75 millones
+d) −2,25 millones
 
-**Respuesta esperada:** −5,25 ÷ 3 = **−1,75 millones de pesos** por socio.
-*Retroalimentación:* al dividir una cantidad negativa (deuda) por un número positivo (cantidad de socios), el resultado se mantiene negativo, porque cada socio asume una parte de la deuda.
+**Respuesta correcta: a) −1,75 millones.**
+*Retroalimentación:* −5,25 ÷ 3 = −1,75: al dividir una deuda por un número positivo, cada parte sigue siendo deuda.
 
-**Pregunta 8 (problema no rutinario).** Calcula el resultado de (−2/5) × (−1,5) × 4, expresando el resultado final como fracción simplificada.
+**Pregunta 8 (alternativas — problema no rutinario).** ¿Cuál es el resultado de (−2/5) × (−1,5) × 4, como fracción simplificada?
+a) −12/5
+b) 3/5
+c) 6/5
+d) 12/5
 
-**Respuesta esperada:** primero (−2/5) × (−1,5): 1,5 = 3/2, entonces (−2/5)×(−3/2) = 6/10 = 3/5 (positivo, por signos iguales). Luego 3/5 × 4 = 12/5, que como número mixto es 2 2/5. Resultado: **12/5 (o 2 2/5)**.
-*Retroalimentación:* en una multiplicación con varios factores y notaciones distintas, conviene convertir todo a fracciones antes de multiplicar, y aplicar la regla de los signos considerando la cantidad de factores negativos (dos negativos dan positivo).
+**Respuesta correcta: d) 12/5.**
+*Retroalimentación:* conviene convertir todo a fracciones: (−2/5)·(−3/2) = 3/5 (dos negativos dan positivo), y 3/5 · 4 = 12/5 = 2 2/5.
 
 ---
 
@@ -247,30 +287,50 @@ d) 25⁶
 **Respuesta correcta: a) 5².**
 *Retroalimentación:* al dividir potencias de igual base, se restan los exponentes: 5⁴÷5²=5^(4−2)=5².
 
-**Pregunta 4 (desarrollo — calcular potencia en contexto).** Una caja cúbica tiene una arista de 6 cm. Calcula su volumen usando una potencia.
+**Pregunta 4 (alternativas — potencia en contexto).** Una caja cúbica tiene una arista de 6 cm. ¿Cuál es su volumen?
+a) 18 cm³
+b) 36 cm³
+c) 216 cm³
+d) 729 cm³
 
-**Respuesta esperada:** volumen = 6³ = 6×6×6 = **216 cm³**.
-*Retroalimentación:* el volumen de un cubo se calcula elevando la medida de la arista al cubo (exponente 3), porque se multiplica el largo por el ancho por el alto, que son iguales.
+**Respuesta correcta: c) 216 cm³.**
+*Retroalimentación:* el volumen del cubo es la arista al cubo: 6³ = 6·6·6 = 216 cm³. 18 resulta de multiplicar 6·3 y 36 es el área de una cara.
 
-**Pregunta 5 (desarrollo — multiplicación de potencias iguales bases).** Escribe como una sola potencia: 7² × 7³. Luego calcula su valor.
+**Pregunta 5 (alternativas — potencias de igual base).** ¿Cómo se escribe 7² × 7³ como una sola potencia y cuál es su valor?
+a) 7⁶ = 117.649
+b) 49⁵
+c) 7⁵ = 16.807
+d) 14⁵
 
-**Respuesta esperada:** 7² × 7³ = 7^(2+3) = 7⁵. Calculando: 7⁵ = **16.807**.
-*Retroalimentación:* la regla de sumar exponentes solo se aplica cuando las bases son iguales; conviene comprobar que la base (7) es la misma en ambos factores antes de aplicarla.
+**Respuesta correcta: c) 7⁵ = 16.807.**
+*Retroalimentación:* con bases iguales se suman los exponentes: 7^(2+3) = 7⁵ = 16.807; los exponentes se multiplican solo en una potencia de potencia.
 
-**Pregunta 6 (identificar el error).** Un estudiante calculó 2³ × 3² y obtuvo 6⁵ (sumando exponentes y multiplicando bases). ¿Es correcto este procedimiento? Justifica.
+**Pregunta 6 (alternativas — identificar el error).** Un estudiante calculó 2³ × 3² y obtuvo 6⁵ (sumando exponentes y multiplicando bases). ¿Qué es correcto?
+a) El procedimiento es incorrecto: con bases distintas se calcula cada potencia (8 y 9) y se multiplica: 72
+b) El procedimiento es correcto: al multiplicar potencias se suman los exponentes y se multiplican las bases: 6⁵
+c) Es incorrecto: al multiplicar potencias se multiplican las bases y también los exponentes: 6⁶
+d) Es incorrecto: se suman las bases (2 + 3) y se multiplican los exponentes (3 · 2): 5⁶
 
-**Respuesta esperada:** **No es correcto**. La regla de sumar exponentes solo aplica cuando las **bases son iguales**; aquí las bases son distintas (2 y 3), por lo que se deben calcular por separado: 2³=8 y 3²=9, y luego multiplicar: 8×9=**72**.
-*Retroalimentación:* es un error común aplicar la regla de las potencias de igual base cuando las bases son distintas; en esos casos, se debe calcular cada potencia por separado y luego multiplicar los resultados.
+**Respuesta correcta: a) El procedimiento es incorrecto: con bases distintas se calcula cada potencia (8 y 9) y se multiplica: 72.**
+*Retroalimentación:* la regla de sumar exponentes solo se aplica cuando las bases son iguales.
 
-**Pregunta 7 (problema en contexto — combinaciones).** Una clave de acceso a un sistema usa 3 dígitos, cada uno con 10 posibilidades (0 al 9). ¿Cuántas claves distintas se pueden formar, expresado como potencia y como número?
+**Pregunta 7 (alternativas — combinaciones).** Una clave usa 3 dígitos, cada uno del 0 al 9. ¿Cuántas claves distintas se pueden formar?
+a) 3¹⁰ = 59.049
+b) 10 × 3 = 30
+c) 9³ = 729
+d) 10³ = 1.000
 
-**Respuesta esperada:** 10³ = **1.000 claves distintas**.
-*Retroalimentación:* cuando una situación se repite una cantidad fija de veces con la misma cantidad de opciones, se puede representar como una potencia: la base es la cantidad de opciones (10) y el exponente es la cantidad de repeticiones (3 dígitos).
+**Respuesta correcta: d) 10³ = 1.000.**
+*Retroalimentación:* la base es la cantidad de opciones (10) y el exponente, la cantidad de repeticiones (3 dígitos).
 
-**Pregunta 8 (problema no rutinario — potencia de una potencia).** Calcula (2²)³, desarrollando paso a paso, y compara el resultado con 2⁶. ¿Qué relación observas entre los exponentes?
+**Pregunta 8 (alternativas — potencia de una potencia).** ¿Cuál es el valor de (2²)³ y qué relación tiene con 2⁶?
+a) 32; (2²)³ = 2^(2+3) = 2⁵: los exponentes se suman
+b) 64; (2²)³ = 2^(2·3) = 2⁶: los exponentes se multiplican
+c) 12; (2²)³ = 4 · 3: la base se multiplica por el exponente
+d) 256; (2²)³ = 2⁸: los exponentes se elevan, 2³ = 8
 
-**Respuesta esperada:** (2²)³ = 2²×2²×2² = 4×4×4 = **64**. Comparando: 2⁶ = 64 también. Se observa que (2²)³ = 2^(2×3) = 2⁶: **al elevar una potencia a otro exponente, los exponentes se multiplican**.
-*Retroalimentación:* una potencia de una potencia se resuelve multiplicando los exponentes (manteniendo la misma base), a diferencia de la multiplicación de potencias de igual base, donde los exponentes se suman.
+**Respuesta correcta: b) 64; (2²)³ = 2^(2·3) = 2⁶: los exponentes se multiplican.**
+*Retroalimentación:* una potencia de una potencia se resuelve multiplicando los exponentes; en la multiplicación de potencias de igual base, en cambio, se suman.
 
 ---
 
@@ -305,8 +365,8 @@ Una cancha rectangular mide 12 m de largo por 3 m de ancho. Se quiere transforma
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de √81?
 a) 8
 b) 9
-c) 40,5
-d) 18
+c) 18
+d) 40,5
 
 **Respuesta correcta: b) 9.**
 *Retroalimentación:* 9×9=81, por lo tanto √81=9.
@@ -325,30 +385,50 @@ d) Entre 9 y 10, más cerca de 9
 **Respuesta correcta: b) Entre 9 y 10, más cerca de 10.**
 *Retroalimentación:* 9²=81 y 10²=100; 95 está más cerca de 100 que de 81, por lo tanto √95 está más cerca de 10 (el valor real es aproximadamente 9,75).
 
-**Pregunta 4 (desarrollo — calcular raíz exacta).** Un terreno cuadrado tiene un área de 121 m². ¿Cuánto mide cada uno de sus lados?
+**Pregunta 4 (alternativas — raíz exacta).** Un terreno cuadrado tiene un área de 121 m². ¿Cuánto mide cada lado?
+a) 60,5 m
+b) 30,25 m
+c) 12 m
+d) 11 m
 
-**Respuesta esperada:** √121 = **11 metros**.
-*Retroalimentación:* como el terreno es cuadrado, sus 4 lados miden lo mismo, y ese valor es la raíz cuadrada del área, ya que área = lado × lado = lado².
+**Respuesta correcta: d) 11 m.**
+*Retroalimentación:* como área = lado², el lado es √121 = 11 m.
 
-**Pregunta 5 (desarrollo — transformar rectángulo en cuadrado).** Un patio rectangular mide 20 m de largo por 5 m de ancho. Se quiere construir un patio cuadrado con la misma área. ¿Cuánto debe medir el lado del cuadrado?
+**Pregunta 5 (alternativas — rectángulo a cuadrado).** Un patio rectangular mide 20 m por 5 m. Se quiere un patio cuadrado con la misma área. ¿Cuánto debe medir su lado?
+a) 10 m
+b) 12,5 m
+c) 25 m
+d) 50 m
 
-**Respuesta esperada:** área del rectángulo: 20×5=100 m². Lado del cuadrado: √100 = **10 metros**.
-*Retroalimentación:* para transformar un rectángulo en un cuadrado de igual área, primero se calcula el área del rectángulo (largo por ancho), y luego se calcula la raíz cuadrada de esa área para obtener el lado del cuadrado equivalente.
+**Respuesta correcta: a) 10 m.**
+*Retroalimentación:* área del rectángulo: 20·5 = 100 m²; lado del cuadrado: √100 = 10 m. 12,5 m resulta de dividir el semiperímetro en vez de usar el área.
 
-**Pregunta 6 (problema en contexto — perímetro).** Una plaza cuadrada tiene un área de 64 m². Calcula el perímetro de la plaza.
+**Pregunta 6 (alternativas — perímetro).** Una plaza cuadrada tiene un área de 64 m². ¿Cuál es su perímetro?
+a) 16 m
+b) 8 m
+c) 256 m
+d) 32 m
 
-**Respuesta esperada:** lado = √64 = 8 m. Perímetro = 4 × 8 = **32 metros**.
-*Retroalimentación:* primero se obtiene el lado a partir de la raíz cuadrada del área, y luego se calcula el perímetro sumando los 4 lados (o multiplicando el lado por 4).
+**Respuesta correcta: d) 32 m.**
+*Retroalimentación:* lado = √64 = 8 m; perímetro = 4 · 8 = 32 m.
 
-**Pregunta 7 (problema en contexto — estimación intuitiva).** Sin usar calculadora, estima el valor de √70, indicando entre qué dos números enteros se encuentra. Luego, verifica si tu estimación es razonable.
+**Pregunta 7 (alternativas — estimación).** Sin calculadora, ¿entre qué números enteros está √70 y a cuál está más cerca?
+a) Entre 8 y 9, más cerca de 9
+b) Entre 8 y 9, más cerca de 8
+c) Entre 7 y 8, más cerca de 8
+d) Entre 34 y 36
 
-**Respuesta esperada:** 8²=64 y 9²=81; como 70 está entre 64 y 81 (más cerca de 64), √70 está entre 8 y 9, más cerca de 8 (el valor real es aproximadamente 8,37).
-*Retroalimentación:* estimar raíces cuadradas no exactas requiere identificar los dos cuadrados perfectos consecutivos entre los que se encuentra el número, y luego observar a cuál de los dos está más cerca.
+**Respuesta correcta: b) Entre 8 y 9, más cerca de 8.**
+*Retroalimentación:* 8² = 64 y 9² = 81; 70 está más cerca de 64, por eso √70 ≈ 8,37.
 
-**Pregunta 8 (problema no rutinario).** Un agricultor tiene un terreno rectangular de 45 m de largo por 20 m de ancho y quiere cercarlo con la misma cantidad de malla, pero dándole forma cuadrada en vez de rectangular (manteniendo la misma área). ¿Necesitará más, menos, o la misma cantidad de malla? Justifica con cálculos de perímetro.
+**Pregunta 8 (alternativas — problema no rutinario).** Un terreno rectangular de 45 m por 20 m se transforma en uno cuadrado de igual área. ¿Necesitará más, menos o la misma malla para cercarlo?
+a) Más: 130 m en vez de 120 m
+b) La misma: 130 m en ambos casos
+c) Menos: 120 m en vez de 130 m
+d) Menos: 30 m en vez de 65 m
 
-**Respuesta esperada:** área: 45×20=900 m². Lado del cuadrado: √900=30 m. Perímetro del cuadrado: 4×30=120 m. Perímetro del rectángulo original: 2×(45+20)=2×65=130 m. Necesitará **menos malla** (120 m en vez de 130 m).
-*Retroalimentación:* entre todos los rectángulos con una misma área, el cuadrado es el que tiene el menor perímetro posible; por eso, al "cuadrar" un terreno manteniendo su área, generalmente se ahorra en el cerco perimetral.
+**Respuesta correcta: c) Menos: 120 m en vez de 130 m.**
+*Retroalimentación:* área 900 m²; lado del cuadrado √900 = 30 m y perímetro 120 m; el rectángulo tenía 2·(45 + 20) = 130 m. Entre los rectángulos de igual área, el cuadrado tiene el menor perímetro.
 
 ---
 
@@ -405,30 +485,50 @@ d) x = 10,5
 **Respuesta correcta: a) x = 8.**
 *Retroalimentación:* primero se resta 10 en ambos lados: 4x=32; luego se divide por 4: x=8.
 
-**Pregunta 4 (desarrollo — forma x/a+b=c).** Resuelve: x/6 + 5 = 11.
+**Pregunta 4 (alternativas — forma x/a + b = c).** Resuelve: x/6 + 5 = 11.
+a) 36
+b) 1
+c) 96
+d) 6
 
-**Respuesta esperada:** x/6 = 11−5 = 6; x = 6×6 = **36**.
-*Retroalimentación:* primero se aísla el término con la incógnita restando el 5 en ambos lados, y luego se despeja x multiplicando por 6 (el número que la estaba dividiendo).
+**Respuesta correcta: a) 36.**
+*Retroalimentación:* x/6 = 11 − 5 = 6, entonces x = 6 · 6 = 36.
 
-**Pregunta 5 (desarrollo — forma a(x+b)=c).** El doble de la suma entre un número y 7 es igual a 30. Plantea la ecuación y encuentra el número.
+**Pregunta 5 (alternativas — forma a(x + b) = c).** El doble de la suma entre un número y 7 es igual a 30. ¿Qué ecuación lo representa y cuál es el número?
+a) 2x + 7 = 30; x = 11,5
+b) 2(x + 7) = 30; x = 15
+c) x + 14 = 30; x = 16
+d) 2(x + 7) = 30; x = 8
 
-**Respuesta esperada:** ecuación: 2(x+7)=30. Resolviendo: x+7=15; x=**8**.
-*Retroalimentación:* al resolver una ecuación con paréntesis, se puede despejar primero lo que está dentro del paréntesis (dividiendo por el número que multiplica) y luego seguir despejando la incógnita.
+**Respuesta correcta: d) 2(x + 7) = 30; x = 8.**
+*Retroalimentación:* "el doble de la suma" exige paréntesis: x + 7 = 15, x = 8.
 
-**Pregunta 6 (problema en contexto — forma ax+b=cx+d).** Una empresa de arriendo de bicicletas cobra $1.000 fijos más $200 por hora. Otra empresa cobra $400 fijos más $350 por hora. ¿Para cuántas horas de uso ambos arriendos cuestan lo mismo?
+**Pregunta 6 (alternativas — forma ax + b = cx + d).** Una empresa cobra $1.000 fijos más $200 por hora; otra cobra $400 fijos más $350 por hora. ¿Para cuántas horas ambos arriendos cuestan lo mismo?
+a) 2,4 horas
+b) 4 horas
+c) 6 horas
+d) 10 horas
 
-**Respuesta esperada:** ecuación: 1.000 + 200x = 400 + 350x. Resolviendo: 1.000−400 = 350x−200x; 600 = 150x; x = **4 horas**.
-*Retroalimentación:* cuando la incógnita aparece en ambos lados de la ecuación, se agrupan primero los términos con x en un lado y los números en el otro, cuidando de cambiar el signo al mover un término al otro lado.
+**Respuesta correcta: b) 4 horas.**
+*Retroalimentación:* 1.000 + 200x = 400 + 350x → 600 = 150x → x = 4 (ambos cuestan $1.800).
 
-**Pregunta 7 (problema en contexto — forma ax=b+cx).** Un estanque de agua se llena a razón de 15 litros por minuto (x minutos), mientras otro estanque, que ya tiene 40 litros, se llena a razón de 5 litros por minuto. ¿En qué minuto ambos estanques tendrán la misma cantidad de agua?
+**Pregunta 7 (alternativas — forma ax = b + cx).** Un estanque vacío se llena a 15 L por minuto; otro, que ya tiene 40 L, se llena a 5 L por minuto. ¿En qué minuto tendrán la misma cantidad de agua?
+a) 2 minutos
+b) 4 minutos
+c) 8 minutos
+d) 10 minutos
 
-**Respuesta esperada:** ecuación: 15x = 40 + 5x. Resolviendo: 15x−5x=40; 10x=40; x=**4 minutos**.
-*Retroalimentación:* se agrupan los términos con la incógnita restando 5x en ambos lados, y luego se despeja x dividiendo por el coeficiente resultante (10).
+**Respuesta correcta: b) 4 minutos.**
+*Retroalimentación:* 15x = 40 + 5x → 10x = 40 → x = 4 (ambos con 60 L).
 
-**Pregunta 8 (problema no rutinario).** La edad de Matías es el doble de la edad de su hermana menos 3 años. Si la suma de ambas edades es 33 años, plantea un sistema simple (usando una sola incógnita) y encuentra ambas edades.
+**Pregunta 8 (alternativas — problema no rutinario).** La edad de Matías es el doble de la de su hermana menos 3 años, y la suma de ambas es 33. ¿Qué edades tienen?
+a) Hermana 12 y Matías 21
+b) Hermana 11 y Matías 22
+c) Hermana 15 y Matías 18
+d) Hermana 12 y Matías 24
 
-**Respuesta esperada:** sea x la edad de la hermana; la edad de Matías es 2x−3. Ecuación: x + (2x−3) = 33; 3x−3=33; 3x=36; x=**12 años** (hermana). Matías: 2(12)−3=**21 años**.
-*Retroalimentación:* cuando un problema tiene dos incógnitas relacionadas entre sí, conviene expresar ambas en función de una sola letra, para poder plantear y resolver una única ecuación lineal.
+**Respuesta correcta: a) Hermana 12 y Matías 21.**
+*Retroalimentación:* x + (2x − 3) = 33 → 3x = 36 → x = 12; Matías: 2·12 − 3 = 21.
 
 ---
 
@@ -485,34 +585,55 @@ d) pendiente −3, corta en (7,0)
 **Respuesta correcta: b) pendiente −3, corta en (0,7).**
 *Retroalimentación:* en f(x)=ax+b, el coeficiente a es la pendiente (−3) y b indica el punto donde la recta corta al eje y (0,7).
 
-**Pregunta 4 (desarrollo — completar tabla y calcular pendiente).** Completa la tabla para f(x)=5x+1 y calcula la pendiente usando dos puntos cualquiera.
+**Pregunta 4 (alternativas — tabla y pendiente).** Para f(x) = 5x + 1, ¿qué valores toma f(0), f(1) y f(2), y cuál es la pendiente?
 
 | x | 0 | 1 | 2 |
 |---|---|---|---|
 | f(x) | ? | ? | ? |
 
-**Respuesta esperada:** f(0)=1; f(1)=6; f(2)=11. Pendiente = (6−1)/(1−0) = **5**.
-*Retroalimentación:* la pendiente se calcula como el cociente entre el cambio en f(x) (Δy) y el cambio en x (Δx) entre dos puntos cualquiera de la recta; siempre coincide con el coeficiente a de la función.
+a) 0, 5, 10; pendiente 5
+b) 1, 6, 11; pendiente 1
+c) 6, 11, 16; pendiente 6
+d) 1, 6, 11; pendiente 5
 
-**Pregunta 5 (problema en contexto — interés simple).** Un depósito de $200.000 genera un interés simple mensual de $8.000. Escribe la función afín S(x) que representa el saldo después de x meses, y calcula el saldo después de 6 meses.
+**Respuesta correcta: d) 1, 6, 11; pendiente 5.**
+*Retroalimentación:* la pendiente es Δy/Δx = (6 − 1)/(1 − 0) = 5 y coincide con el coeficiente de x.
 
-**Respuesta esperada:** S(x) = 8.000x + 200.000. S(6) = 8.000×6 + 200.000 = 48.000+200.000 = **$248.000**.
-*Retroalimentación:* el interés simple es un ejemplo de función afín: el capital inicial es la constante (b), y el interés que se gana cada mes es la pendiente (a), ya que se suma la misma cantidad en cada período.
+**Pregunta 5 (alternativas — interés simple).** Un depósito de $200.000 gana un interés simple de $8.000 mensuales. ¿Qué función representa el saldo y cuánto hay a los 6 meses?
+a) S(x) = 200.000x + 8.000; $1.208.000
+b) S(x) = 8.000x + 200.000; $248.000
+c) S(x) = 8.000x; $48.000
+d) S(x) = 208.000x; $1.248.000
 
-**Pregunta 6 (problema en contexto — cambio constante).** Un auto parte con 20 litros de bencina en el estanque y consume 2 litros por cada 20 km recorridos. Escribe la función que representa los litros restantes en función de los km recorridos (x), y determina cuántos litros quedan después de 100 km.
+**Respuesta correcta: b) S(x) = 8.000x + 200.000; $248.000.**
+*Retroalimentación:* el capital inicial es la constante y el interés mensual, la pendiente.
 
-**Respuesta esperada:** consumo por km: 2/20=0,1 litros por km. Función: L(x) = 20 − 0,1x. Después de 100 km: L(100)=20−0,1×100=20−10=**10 litros**.
-*Retroalimentación:* en este caso la pendiente es negativa (−0,1), porque la cantidad de litros disminuye a medida que aumentan los kilómetros recorridos; la constante (20) es el valor inicial.
+**Pregunta 6 (alternativas — cambio constante).** Un auto parte con 20 L de bencina y consume 2 L cada 20 km. ¿Qué función representa los litros restantes y cuántos quedan a los 100 km?
+a) L(x) = 20 − 2x; 0 L
+b) L(x) = 20 + 0,1x; 30 L
+c) L(x) = 20 − 0,1x; 10 L
+d) L(x) = 20 − 10x; 0 L
 
-**Pregunta 7 (problema en contexto — ecuación recursiva).** La altura de una planta aumenta de manera constante cada semana: en la semana 1 mide 12 cm, y en la semana 2 mide 15 cm. Si este cambio se mantiene constante, ¿cuál es el valor de f(x+1)−f(x), y cuánto medirá la planta en la semana 5?
+**Respuesta correcta: c) L(x) = 20 − 0,1x; 10 L.**
+*Retroalimentación:* el consumo es 2/20 = 0,1 L por km; la pendiente es negativa porque los litros disminuyen.
 
-**Respuesta esperada:** f(x+1)−f(x) = 15−12 = **3 cm** (crecimiento semanal constante). En la semana 5: 12 + 3×(5−1) = 12+12 = **24 cm**.
-*Retroalimentación:* cuando una cantidad cambia en una cantidad constante c cada vez que x aumenta en 1 (es decir, f(x+1)−f(x)=c), la situación se puede modelar con una función afín, sumando ese cambio constante tantas veces como corresponda.
+**Pregunta 7 (alternativas — cambio constante semanal).** Una planta mide 12 cm en la semana 1 y 15 cm en la semana 2, con crecimiento constante. ¿Cuánto vale f(x+1) − f(x) y cuánto medirá en la semana 5?
+a) 3 cm; 24 cm
+b) 3 cm; 27 cm
+c) 15 cm; 75 cm
+d) 12 cm; 60 cm
 
-**Pregunta 8 (problema no rutinario — comparar funciones).** Dos plantas se miden semana a semana: la Planta A sigue la función A(x)=4x+10 (cm) y la Planta B sigue B(x)=6x+2 (cm), donde x es la cantidad de semanas. ¿En qué semana ambas plantas medirán lo mismo, y cuánto medirán?
+**Respuesta correcta: a) 3 cm; 24 cm.**
+*Retroalimentación:* f(x+1) − f(x) = 3; en la semana 5: 12 + 3·(5 − 1) = 24 cm (27 cm resulta de sumar 3 cinco veces).
 
-**Respuesta esperada:** ecuación: 4x+10 = 6x+2; 10−2=6x−4x; 8=2x; x=**4 semanas**. Altura en ese momento: A(4)=4×4+10=26 cm (verificación: B(4)=6×4+2=26 cm). Ambas miden **26 cm**.
-*Retroalimentación:* para encontrar cuándo dos funciones afines toman el mismo valor, se igualan ambas expresiones y se resuelve la ecuación lineal resultante, agrupando los términos con x en un lado.
+**Pregunta 8 (alternativas — comparar funciones).** La planta A sigue A(x) = 4x + 10 y la planta B sigue B(x) = 6x + 2 (cm, x en semanas). ¿En qué semana miden lo mismo y cuánto?
+a) Semana 6; 34 cm
+b) Semana 2; 18 cm
+c) Semana 4; 16 cm
+d) Semana 4; 26 cm
+
+**Respuesta correcta: d) Semana 4; 26 cm.**
+*Retroalimentación:* 4x + 10 = 6x + 2 → 8 = 2x → x = 4; A(4) = B(4) = 26 cm.
 
 ---
 
@@ -569,30 +690,50 @@ d) 144 cm
 **Respuesta correcta: b) 12 cm.**
 *Retroalimentación:* b²=c²−a²=13²−5²=169−25=144; b=√144=12 cm.
 
-**Pregunta 4 (desarrollo — despejar la fórmula).** A partir de c²=a²+b², despeja algebraicamente la fórmula para calcular el cateto a.
+**Pregunta 4 (alternativas — despejar la fórmula).** A partir de c² = a² + b², ¿cuál es la fórmula para el cateto a?
+a) a = c − b
+b) a = √(c² − b²)
+c) a = √(c² + b²)
+d) a = (c − b)²
 
-**Respuesta esperada:** a² = c² − b², por lo tanto **a = √(c² − b²)**.
-*Retroalimentación:* para despejar un cateto, se resta el cuadrado del otro cateto al cuadrado de la hipotenusa, y luego se aplica raíz cuadrada a ambos lados de la igualdad.
+**Respuesta correcta: b) a = √(c² − b²).**
+*Retroalimentación:* se resta b² a ambos lados y luego se aplica raíz cuadrada; √(c² − b²) no es lo mismo que c − b.
 
-**Pregunta 5 (problema en contexto — escalera).** Una escalera de 10 m está apoyada en un muro, con su base a 6 m de distancia del muro. ¿A qué altura del muro llega la escalera?
+**Pregunta 5 (alternativas — escalera).** Una escalera de 10 m está apoyada en un muro, con su base a 6 m del muro. ¿A qué altura llega?
+a) 4 m
+b) √136 ≈ 11,7 m
+c) 8 m
+d) 16 m
 
-**Respuesta esperada:** b²=10²−6²=100−36=64; b=√64=**8 metros**.
-*Retroalimentación:* la escalera actúa como hipotenusa y la distancia al muro como un cateto; para hallar la altura (el otro cateto), se despeja restando los cuadrados y aplicando raíz cuadrada.
+**Respuesta correcta: c) 8 m.**
+*Retroalimentación:* la escalera es la hipotenusa: altura² = 10² − 6² = 64, altura = 8 m.
 
-**Pregunta 6 (problema en contexto — pantalla de televisor).** Un televisor tiene una pantalla rectangular de 80 cm de ancho por 45 cm de alto. Calcula la medida de su diagonal (que es la medida que se usa comercialmente, en pulgadas o cm, para describir el tamaño de la pantalla).
+**Pregunta 6 (alternativas — pantalla de televisor).** Una pantalla mide 80 cm de ancho por 45 cm de alto. ¿Cuánto mide su diagonal?
+a) 125 cm
+b) ≈ 91,8 cm
+c) ≈ 66,1 cm
+d) 35 cm
 
-**Respuesta esperada:** diagonal² = 80²+45² = 6.400+2.025 = 8.425; diagonal = √8.425 ≈ **91,8 cm**.
-*Retroalimentación:* la diagonal de un rectángulo (como una pantalla) es la hipotenusa del triángulo rectángulo formado por el ancho y el alto de la pantalla.
+**Respuesta correcta: b) ≈ 91,8 cm.**
+*Retroalimentación:* diagonal² = 80² + 45² = 8.425, diagonal ≈ 91,8 cm; la diagonal es la hipotenusa del triángulo formado por ancho y alto.
 
-**Pregunta 7 (problema en contexto — distancia más corta).** Un terreno rectangular mide 18 m de largo por 24 m de ancho. Calcula cuánto se ahorra una persona al cruzar en diagonal en vez de bordear el terreno por dos de sus lados.
+**Pregunta 7 (alternativas — distancia más corta).** Un terreno mide 18 m por 24 m. ¿Cuánto se ahorra al cruzar en diagonal en vez de bordear dos de sus lados?
+a) 30 m
+b) 42 m
+c) 6 m
+d) 12 m
 
-**Respuesta esperada:** diagonal: √(18²+24²)=√(324+576)=√900=30 m. Bordeando: 18+24=42 m. Ahorro: 42−30=**12 metros**.
-*Retroalimentación:* la diagonal siempre es más corta que la suma de los dos lados que conecta, porque en un triángulo rectángulo la hipotenusa es menor que la suma de los dos catetos.
+**Respuesta correcta: d) 12 m.**
+*Retroalimentación:* diagonal √(324 + 576) = 30 m; bordeando, 42 m; ahorro: 12 m.
 
-**Pregunta 8 (problema no rutinario — verificar si es rectángulo).** Un triángulo tiene lados de 7 cm, 24 cm y 25 cm. Verifica, usando el teorema de Pitágoras, si este triángulo es un triángulo rectángulo.
+**Pregunta 8 (alternativas — verificar triángulo rectángulo).** Un triángulo tiene lados de 7, 24 y 25 cm. ¿Es rectángulo?
+a) No, porque 7 + 24 ≠ 25
+b) Sí, porque 7² + 24² = 625 = 25²
+c) Sí, porque 7 + 24 > 25
+d) No, porque 25² ≠ 7² + 24²
 
-**Respuesta esperada:** el lado más largo (25) sería la hipotenusa. Se verifica: 25²=625, y 7²+24²=49+576=625. Como ambos valores coinciden (625=625), **sí es un triángulo rectángulo**.
-*Retroalimentación:* el teorema de Pitágoras también se puede usar "al revés", como una prueba: si el cuadrado del lado más largo es igual a la suma de los cuadrados de los otros dos lados, entonces el triángulo es rectángulo.
+**Respuesta correcta: b) Sí, porque 7² + 24² = 625 = 25².**
+*Retroalimentación:* el teorema de Pitágoras también sirve como prueba: si el cuadrado del lado mayor es igual a la suma de los cuadrados de los otros dos, el triángulo es rectángulo.
 
 ---
 
@@ -647,30 +788,50 @@ d) (−5, 3)
 **Respuesta correcta: a) (5, −3).**
 *Retroalimentación:* el vector de traslación se calcula restando las coordenadas del punto original a las del punto imagen: (6−1, −1−2) = (5, −3).
 
-**Pregunta 4 (desarrollo — reflexión).** El punto C(−3, 5) se refleja respecto al eje x. Indica las coordenadas de su imagen C', y explica qué componente cambió.
+**Pregunta 4 (alternativas — reflexión).** El punto C(−3, 5) se refleja respecto al eje x. ¿Cuál es su imagen?
+a) (3, 5)
+b) (3, −5)
+c) (−3, −5)
+d) (5, −3)
 
-**Respuesta esperada:** C' = **(−3, −5)**. La coordenada y cambió de signo; la coordenada x se mantuvo igual.
-*Retroalimentación:* al reflejar respecto al eje x (una línea horizontal), la distancia vertical al eje se invierte, mientras que la posición horizontal no se altera.
+**Respuesta correcta: c) (−3, −5).**
+*Retroalimentación:* al reflejar respecto al eje x cambia el signo de y y se mantiene x.
 
-**Pregunta 5 (desarrollo — composición de traslaciones).** Un punto se traslada primero según el vector (3, 2) y luego según el vector (−1, 4). ¿Cuál es el vector de la traslación total (la composición de ambas)?
+**Pregunta 5 (alternativas — composición de traslaciones).** Un punto se traslada según (3, 2) y luego según (−1, 4). ¿Cuál es el vector de la traslación total?
+a) (2, 6)
+b) (4, −2)
+c) (−3, 8)
+d) (2, −2)
 
-**Respuesta esperada:** se suman los vectores componente a componente: (3+(−1), 2+4) = **(2, 6)**.
-*Retroalimentación:* la composición de dos traslaciones sucesivas equivale a una sola traslación cuyo vector es la suma de los vectores de cada traslación individual.
+**Respuesta correcta: a) (2, 6).**
+*Retroalimentación:* la composición equivale a sumar los vectores componente a componente.
 
-**Pregunta 6 (identificar la transformación).** Un cuadrado con vértices en (2,1), (5,1), (5,4) y (2,4) se transforma en un cuadrado con vértices en (−2,1), (−5,1), (−5,4) y (−2,4). ¿Qué transformación isométrica ocurrió?
+**Pregunta 6 (alternativas — identificar la transformación).** Un cuadrado con vértices (2,1), (5,1), (5,4), (2,4) se transforma en (−2,1), (−5,1), (−5,4), (−2,4). ¿Qué transformación ocurrió?
+a) Reflexión respecto al eje x
+b) Traslación según (−4, 0)
+c) Rotación de 90°
+d) Reflexión respecto al eje y
 
-**Respuesta esperada:** todas las coordenadas x cambiaron de signo y las coordenadas y se mantuvieron iguales, por lo tanto es una **reflexión respecto al eje y**.
-*Retroalimentación:* para identificar qué transformación ocurrió, conviene comparar las coordenadas del original y la imagen: si solo cambia el signo de x, es una reflexión respecto al eje y; si solo cambia el signo de y, es reflexión respecto al eje x; si ambas coordenadas cambian en una misma cantidad fija, es una traslación.
+**Respuesta correcta: d) Reflexión respecto al eje y.**
+*Retroalimentación:* solo cambió el signo de las coordenadas x; si fuera traslación, todas cambiarían en la misma cantidad fija.
 
-**Pregunta 7 (problema en contexto — rotación).** Un punto D(4, 0) se rota 90° en torno al origen (0,0), en sentido contrario a las manecillas del reloj, resultando en el punto D'(0, 4). Si ahora se rota nuevamente 90° en el mismo sentido a partir de D', ¿en qué cuadrante o eje quedará el nuevo punto D''? (Pista: cada rotación de 90° gira el punto un cuarto de vuelta alrededor del origen).
+**Pregunta 7 (alternativas — rotación).** D(4, 0) rotado 90° en sentido antihorario en torno al origen da D'(0, 4). Si D' se rota otros 90° en el mismo sentido, ¿dónde queda D''?
+a) (0, −4), sobre el eje y negativo
+b) (−4, 0), sobre el eje x negativo
+c) (4, 4), en el cuadrante I
+d) (−4, 4), en el cuadrante II
 
-**Respuesta esperada:** al rotar D'(0,4) otros 90° en el mismo sentido, el punto queda en **(−4, 0)**, sobre el eje x negativo (no pertenece a ningún cuadrante, ya que su coordenada y es 0).
-*Retroalimentación:* cada rotación de 90° en torno al origen mueve el punto un cuarto de vuelta; después de dos rotaciones de 90° (es decir, 180° en total), el punto queda en la posición opuesta respecto al origen.
+**Respuesta correcta: b) (−4, 0), sobre el eje x negativo.**
+*Retroalimentación:* dos rotaciones de 90° equivalen a 180°: el punto queda en la posición opuesta a D respecto del origen, sobre un eje y no en un cuadrante.
 
-**Pregunta 8 (problema no rutinario).** Un diseñador traslada un logo según el vector (6, −2) y luego lo refleja respecto al eje x. Si el vértice original del logo estaba en (1, 3), determina las coordenadas del vértice después de ambas transformaciones, en el orden indicado.
+**Pregunta 8 (alternativas — problema no rutinario).** Un vértice en (1, 3) se traslada según (6, −2) y luego se refleja respecto al eje x. ¿Dónde queda?
+a) (7, 1)
+b) (−7, −1)
+c) (7, −1)
+d) (7, −5)
 
-**Respuesta esperada:** primero la traslación: (1+6, 3+(−2)) = (7, 1). Luego la reflexión respecto al eje x (la coordenada y cambia de signo): (7, **−1**). Coordenadas finales: **(7, −1)**.
-*Retroalimentación:* cuando se aplican varias transformaciones sucesivas, es importante respetar el orden indicado, ya que el resultado final depende de aplicar cada transformación sobre el resultado de la anterior, no sobre la figura original en cada caso.
+**Respuesta correcta: c) (7, −1).**
+*Retroalimentación:* primero (1 + 6, 3 − 2) = (7, 1); luego la reflexión cambia el signo de y: (7, −1). El orden de las transformaciones importa.
 
 ---
 
@@ -703,10 +864,10 @@ Un diagrama de cajón (boxplot) resume un conjunto de datos mostrando: el valor 
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Si un estudiante se ubica en el percentil 40 de una prueba, ¿qué significa?
-a) Obtuvo un 40% de respuestas correctas.
+a) Obtuvo un 40% de respuestas correctas, es decir, 4 de cada 10 preguntas bien.
 b) Su resultado es igual o mejor que aproximadamente el 40% de los estudiantes.
-c) Le faltó un 40% para aprobar.
-d) Está entre los mejores 40 estudiantes.
+c) Le faltó un 40% del puntaje total para alcanzar la nota de aprobación.
+d) Está entre los mejores 40 estudiantes de todos los que rindieron la prueba.
 
 **Respuesta correcta: b) Su resultado es igual o mejor que aproximadamente el 40% de los estudiantes.**
 *Retroalimentación:* el percentil indica la posición relativa de un dato respecto al resto de la población, no el porcentaje de respuestas correctas.
@@ -725,30 +886,50 @@ d) 15
 **Respuesta correcta: b) 11.**
 *Retroalimentación:* ordenados: 8,9,10,12,15,20. Como hay 6 datos (par), la mediana es el promedio de los dos valores centrales: (10+12)/2=11.
 
-**Pregunta 4 (desarrollo — calcular Q1 y Q3).** Los siguientes son los tiempos (en minutos) que 8 estudiantes demoraron en llegar al colegio, ya ordenados: 5, 8, 10, 12, 15, 18, 20, 25. Calcula Q1 y Q3.
+**Pregunta 4 (alternativas — calcular Q1 y Q3).** Tiempos ordenados de 8 estudiantes (min): 5, 8, 10, 12, 15, 18, 20, 25. ¿Cuánto valen Q1 y Q3?
+a) Q1 = 9 y Q3 = 19
+b) Q1 = 8 y Q3 = 20
+c) Q1 = 10 y Q3 = 18
+d) Q1 = 13,5 y Q3 = 19
 
-**Respuesta esperada:** primera mitad (5,8,10,12): Q1=(8+10)/2=**9**. Segunda mitad (15,18,20,25): Q3=(18+20)/2=**19**.
-*Retroalimentación:* para calcular Q1 se busca la mediana de la primera mitad de los datos ordenados, y para Q3 se busca la mediana de la segunda mitad, dejando fuera la mediana general si la cantidad de datos es impar.
+**Respuesta correcta: a) Q1 = 9 y Q3 = 19.**
+*Retroalimentación:* Q1 es la mediana de la primera mitad (8 + 10)/2 = 9 y Q3 la de la segunda mitad (18 + 20)/2 = 19.
 
-**Pregunta 5 (desarrollo — interpretar diagrama de cajón).** En un diagrama de cajón de las notas de un curso, la mediana está marcada en 5,5, Q1 en 4,8 y Q3 en 6,2. ¿Qué porcentaje aproximado de estudiantes obtuvo una nota entre 4,8 y 6,2?
+**Pregunta 5 (alternativas — interpretar diagrama de cajón).** En un diagrama de cajón de notas, Q1 = 4,8, mediana = 5,5 y Q3 = 6,2. ¿Qué porcentaje aproximado de estudiantes obtuvo entre 4,8 y 6,2?
+a) 25%
+b) 75%
+c) 100%
+d) 50%
 
-**Respuesta esperada:** el rango entre Q1 y Q3 (la "caja") siempre representa el **50%** central de los datos.
-*Retroalimentación:* por definición, entre el primer y el tercer cuartil se encuentra siempre el 50% central de los datos ordenados, sin importar los valores específicos.
+**Respuesta correcta: d) 50%.**
+*Retroalimentación:* por definición, entre Q1 y Q3 (la caja) se encuentra el 50% central de los datos.
 
-**Pregunta 6 (problema en contexto — comparar poblaciones).** En un diagrama de cajón que compara las notas de 8°A y 8°B, la mediana de 8°A es 5,8 y la de 8°B es 5,2, pero el "bigote" superior de 8°B llega hasta 7,0 mientras que el de 8°A solo llega a 6,5. ¿Qué se puede concluir?
+**Pregunta 6 (alternativas — comparar poblaciones).** La mediana de 8°A es 5,8 y la de 8°B es 5,2, pero el bigote superior de 8°B llega a 7,0 y el de 8°A a 6,5. ¿Qué se puede concluir?
+a) 8°B tiene un rendimiento típico más alto en todos los casos, porque su bigote llega más arriba
+b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta
+c) Ambos cursos tienen exactamente el mismo rendimiento, porque sus bigotes terminan cerca
+d) 8°A tiene la nota máxima más alta, porque su mediana es mayor que la de 8°B
 
-**Respuesta esperada:** en general, **8°A tiene un rendimiento típico más alto** (mediana mayor), pero **8°B tiene al menos un estudiante con la nota más alta entre ambos cursos** (su máximo llega más lejos).
-*Retroalimentación:* el diagrama de cajón permite comparar no solo el valor típico (mediana) de dos grupos, sino también su dispersión y sus valores extremos, lo que da una imagen más completa que comparar solo un promedio.
+**Respuesta correcta: b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta.**
+*Retroalimentación:* el diagrama de cajón permite comparar el valor típico (mediana) y también los valores extremos.
 
-**Pregunta 7 (problema en contexto — percentil en salud).** En un control médico, la estatura de un adolescente lo ubica en el percentil 75 según la tabla de crecimiento para su edad. ¿Qué significa esto en términos de comparación con otros adolescentes de su edad?
+**Pregunta 7 (alternativas — percentil en salud).** La estatura de un adolescente lo ubica en el percentil 75 para su edad. ¿Qué significa?
+a) Que mide 75 cm, la estatura promedio de su grupo de edad
+b) Que es más alto que el 25% de los adolescentes de su edad y más bajo que el 75% restante
+c) Que su estatura es igual o mayor que la de aproximadamente el 75% de los adolescentes de su edad
+d) Que su estatura es el 75% de la que tendrá cuando sea adulto
 
-**Respuesta esperada:** significa que su estatura es igual o mayor que aproximadamente el **75%** de los adolescentes de su misma edad (y menor que aproximadamente el 25% restante).
-*Retroalimentación:* los percentiles se usan frecuentemente en salud (tablas de crecimiento) para comparar una medida individual con la de toda una población de referencia de la misma edad.
+**Respuesta correcta: c) Que su estatura es igual o mayor que la de aproximadamente el 75% de los adolescentes de su edad.**
+*Retroalimentación:* los percentiles comparan una medida individual con una población de referencia.
 
-**Pregunta 8 (problema no rutinario).** Un conjunto de 12 datos ordenados tiene mínimo 2, Q1=5, mediana=8, Q3=11 y máximo=20. Al dibujar el diagrama de cajón, ¿qué parte del gráfico (la caja o alguno de los bigotes) sería visualmente más "larga", y qué podría indicar esto sobre los datos?
+**Pregunta 8 (alternativas — problema no rutinario).** 12 datos tienen mínimo 2, Q1 = 5, mediana = 8, Q3 = 11 y máximo 20. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
+a) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior
+b) El bigote inferior (3 unidades): los datos más bajos están muy dispersos y hay un valor atípico abajo
+c) La caja (6 unidades): todos los datos son iguales entre Q1 y Q3, sin ninguna dispersión
+d) Todas las partes miden lo mismo: la distribución es completamente simétrica alrededor de la mediana
 
-**Respuesta esperada:** el "bigote" superior, entre Q3 (11) y el máximo (20), sería el más largo (9 unidades), comparado con el bigote inferior (entre 2 y 5, es decir, 3 unidades) y la caja (entre 5 y 11, 6 unidades). Esto podría indicar la presencia de **datos más dispersos o algún valor alto atípico** en la parte superior del conjunto.
-*Retroalimentación:* un bigote mucho más largo que el otro, o que la caja misma, sugiere que los datos no están distribuidos de forma simétrica, y puede alertar sobre la presencia de valores extremos (atípicos) en esa dirección.
+**Respuesta correcta: a) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior.**
+*Retroalimentación:* un bigote mucho más largo que el otro sugiere asimetría y posibles valores extremos en esa dirección.
 
 ---
 
@@ -777,10 +958,10 @@ Los mismos datos de ventas mensuales de una tienda se pueden mostrar en un gráf
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál de las siguientes es una forma común de manipular un gráfico de barras para exagerar una diferencia pequeña?
-a) Usar colores distintos para cada barra.
+a) Usar colores distintos y llamativos para cada barra del gráfico.
 b) Truncar el eje vertical, es decir, no comenzarlo en 0.
-c) Ordenar las barras de mayor a menor.
-d) Agregar el valor numérico sobre cada barra.
+c) Ordenar las barras de mayor a menor según el valor que representan.
+d) Agregar el valor numérico exacto sobre cada barra del gráfico.
 
 **Respuesta correcta: b) Truncar el eje vertical, es decir, no comenzarlo en 0.**
 *Retroalimentación:* al no partir el eje en 0, diferencias pequeñas entre barras se ven visualmente mucho más grandes de lo que realmente son.
@@ -791,38 +972,58 @@ d) Agregar el valor numérico sobre cada barra.
 *Retroalimentación:* el gráfico circular sirve para mostrar cómo se reparte un total en categorías (partes de un todo), no para mostrar la evolución de una cantidad en el tiempo; para eso es más apropiado un gráfico de líneas.
 
 **Pregunta 3 (identificar manipulación).** Un gráfico de barras 3D muestra el mismo valor en dos barras, pero por el efecto de la perspectiva (una barra parece "más cerca" que la otra), una parece más alta que la otra. ¿Qué tipo de problema presenta este gráfico?
-a) Falta de título
-b) Uso de colores incorrectos
+a) Falta de título y de nombres en los ejes
+b) Uso de colores incorrectos en las barras
 c) Distorsión visual por efecto de perspectiva/3D
-d) Demasiados datos
+d) Demasiados datos para un solo gráfico
 
 **Respuesta correcta: c) Distorsión visual por efecto de perspectiva/3D.**
 *Retroalimentación:* los efectos 3D en gráficos de barras o circulares pueden distorsionar la percepción del tamaño real de cada categoría, incluso cuando los valores numéricos son correctos.
 
-**Pregunta 4 (desarrollo — justificar elección de gráfico).** Un profesor quiere mostrar qué porcentaje de un curso de 30 estudiantes prefiere cada una de 4 actividades extraescolares (deporte, música, arte, ninguna). ¿Qué tipo de gráfico recomendarías, y por qué?
+**Pregunta 4 (alternativas — elegir gráfico).** Un profesor quiere mostrar qué porcentaje de un curso de 30 estudiantes prefiere cada una de 4 actividades. ¿Qué gráfico conviene?
+a) De líneas, porque muestra cómo cambian las preferencias del curso en el tiempo
+b) De tallo y hojas, porque ordena los datos numéricos de cada actividad
+c) Diagrama de cajón, porque muestra los cuartiles de las preferencias
+d) Circular, porque muestra cómo un total (100%) se reparte entre categorías
 
-**Respuesta esperada:** un **gráfico circular**, porque permite visualizar cómo un total (el 100% del curso) se reparte entre distintas categorías (las 4 actividades), mostrando claramente qué proporción representa cada una.
-*Retroalimentación:* el gráfico circular es ideal cuando el objetivo es mostrar partes de un todo que suman el 100%, especialmente cuando hay pocas categorías.
+**Respuesta correcta: d) Circular, porque muestra cómo un total (100%) se reparte entre categorías.**
+*Retroalimentación:* el gráfico circular es ideal para partes de un todo con pocas categorías.
 
-**Pregunta 5 (desarrollo — detectar manipulación).** Un gráfico de barras compara las ventas de dos años: 2024 con una barra que llega a "50" y 2025 con una barra que llega a "52", pero el eje vertical va de 48 a 53 (no parte en 0). Describe qué efecto visual produce esto y cómo se podría corregir.
+**Pregunta 5 (alternativas — detectar manipulación).** Un gráfico de barras compara ventas de 50 (2024) y 52 (2025), pero el eje vertical va de 48 a 53. ¿Qué efecto produce y cómo se corrige?
+a) Reduce visualmente la diferencia entre ambos años; se corrige iniciando el eje en 52, el valor más alto del gráfico
+b) Exagera la diferencia (la barra de 2025 se ve el doble de alta, aunque el aumento real es 4%); se corrige iniciando el eje en 0
+c) No produce ningún efecto visual, porque los valores de las barras siguen siendo 50 y 52 aunque cambie la escala
+d) Muestra la diferencia real entre las ventas de ambos años; no requiere ninguna corrección del eje vertical
 
-**Respuesta esperada:** al truncar el eje entre 48 y 53, la diferencia real (solo 2 unidades, un 4% de aumento) se ve visualmente **enorme** (la barra de 2025 parece casi el doble de alta). Se corrige haciendo que el eje vertical **comience en 0**.
-*Retroalimentación:* siempre que un gráfico de barras no comience su eje numérico en 0, hay que sospechar que las diferencias mostradas podrían estar exageradas respecto a la realidad.
+**Respuesta correcta: b) Exagera la diferencia (la barra de 2025 se ve el doble de alta, aunque el aumento real es 4%); se corrige iniciando el eje en 0.**
+*Retroalimentación:* si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
 
-**Pregunta 6 (problema en contexto — comparar gráficos).** Se quiere comunicar tanto el total de ventas de una tienda en el año como el aporte de cada uno de sus 4 vendedores a ese total. ¿Qué gráfico sería más apropiado: uno de líneas o uno circular? Justifica.
+**Pregunta 6 (alternativas — comparar gráficos).** Se quiere comunicar el total anual de ventas de una tienda y el aporte de cada uno de sus 4 vendedores. ¿Qué gráfico es más apropiado?
+a) De líneas, porque muestra partes de un todo
+b) De líneas, porque compara vendedores
+c) Circular, porque muestra partes de un todo
+d) Ninguno de los dos
 
-**Respuesta esperada:** un **gráfico circular**, porque el objetivo es mostrar cómo cada vendedor contribuye a un total (partes de un todo), no mostrar una evolución en el tiempo, que es para lo que sirve el gráfico de líneas.
-*Retroalimentación:* la elección del gráfico siempre debe basarse en qué se quiere comunicar: comparación de partes de un todo (circular o barras), o evolución en el tiempo (líneas).
+**Respuesta correcta: c) Circular, porque muestra partes de un todo.**
+*Retroalimentación:* el gráfico de líneas sirve para mostrar evolución en el tiempo, que no es el objetivo aquí.
 
-**Pregunta 7 (problema en contexto — evaluar fortalezas y debilidades).** Los resultados de una encuesta a 200 personas sobre su medio de transporte preferido se pueden mostrar en un gráfico de barras o en un gráfico circular. Menciona una ventaja de cada uno para este caso.
+**Pregunta 7 (alternativas — fortalezas y debilidades).** Para mostrar el transporte preferido de 200 personas, ¿qué ventajas tienen el gráfico de barras y el circular?
+a) Barras: comparar con facilidad valores entre categorías. Circular: ver de un vistazo la proporción del total de cada categoría
+b) Barras: mostrar la evolución del transporte preferido en el tiempo. Circular: mostrar los cuartiles de las 200 respuestas
+c) Barras: no tiene ventajas frente al circular. Circular: muestra los valores exactos de cada categoría mejor que cualquier gráfico
+d) Ambos tienen exactamente las mismas ventajas
 
-**Respuesta esperada:** el **gráfico de barras** permite comparar fácilmente valores exactos entre categorías, incluso si hay varias categorías con valores similares. El **gráfico circular** permite ver de un vistazo qué proporción del total representa cada medio de transporte (parte de un todo).
-*Retroalimentación:* no existe un único gráfico "correcto" para todos los casos: cada tipo de gráfico tiene fortalezas distintas según lo que se quiera destacar de los datos.
+**Respuesta correcta: a) Barras: comparar con facilidad valores entre categorías. Circular: ver de un vistazo la proporción del total de cada categoría.**
+*Retroalimentación:* no existe un único gráfico correcto: cada uno destaca aspectos distintos.
 
-**Pregunta 8 (problema no rutinario — detectar manipulación en publicidad).** Un aviso publicitario muestra un gráfico donde la venta de un producto "creció" de $10.000 a $12.000 en un año, pero usa una barra que parece 5 veces más alta para representar el nuevo valor. ¿Qué tipo de manipulación es probable que se haya usado, y por qué es importante detectarla?
+**Pregunta 8 (alternativas — manipulación en publicidad).** Un aviso muestra que las ventas pasaron de $10.000 a $12.000, pero con una barra que parece 5 veces más alta. ¿Qué manipulación es probable y por qué importa detectarla?
+a) Ninguna: el crecimiento real de las ventas fue de 500%, como muestra la barra
+b) Un error de redondeo sin importancia, que no cambia la lectura del aviso
+c) Un gráfico circular mal dibujado; no importa detectarlo, porque los valores son correctos
+d) Un eje truncado o escala no proporcional; hace creer que creció mucho más que el 20% real
 
-**Respuesta esperada:** es probable que se haya usado un **eje truncado o una escala no proporcional** (donde la altura de la barra no corresponde realmente al valor que representa). Es importante detectarla porque el gráfico podría llevar a pensar que las ventas crecieron muchísimo más de lo real (un 20% real, versus una impresión visual de un 400% o 500%), lo que puede inducir a una conclusión equivocada.
-*Retroalimentación:* comparar siempre los valores numéricos reales de un gráfico con su representación visual es una buena estrategia para detectar manipulaciones, especialmente en contextos como la publicidad, donde existe un interés en mostrar resultados más favorables.
+**Respuesta correcta: d) Un eje truncado o escala no proporcional; hace creer que creció mucho más que el 20% real.**
+*Retroalimentación:* comparar los valores numéricos con su representación visual ayuda a detectar manipulaciones, especialmente en publicidad.
 
 ---
 

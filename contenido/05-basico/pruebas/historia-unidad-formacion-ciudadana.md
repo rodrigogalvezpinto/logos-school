@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 5° Básico
-oa_por_pregunta: {"3":"OA 13","5":"OA 13","7":"OA 14","11":"OA 14"}
+oa_por_pregunta: {"3":"OA 13","4":"OA 13","5":"OA 13","7":"OA 14","10":"OA 14","11":"OA 14","12":"OA 14"}
 eje: Formación Ciudadana (OA 13, OA 14)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -51,13 +51,23 @@ d) Nadie está obligado a respetarlos
 
 ---
 
-**4. (Análisis de caso)** Una empresa se niega a contratar a una persona solo porque nació en
+**4. (Alternativas — análisis de caso)** Una empresa se niega a contratar a una persona solo porque nació en
 otro país, aunque cumple con todos los requisitos del trabajo. ¿Qué principio de los derechos
 humanos se está vulnerando en este caso?
 
+a) El principio de universalidad: los derechos son iguales para todas las personas
+b) El principio de libertad de expresión de las personas extranjeras
+c) El derecho a la propiedad de la empresa, que puede contratar a quien quiera
+d) Ningún principio, porque contratar es una decisión privada de cada empresa
+
 ---
 
-**5. (Desarrollo breve)** Explica con tus palabras qué significa ser "sujeto de derecho".
+**5. (Alternativas)** ¿Qué significa ser "sujeto de derecho"?
+
+a) Que los derechos se ganan con buenas notas y buen comportamiento en la escuela y en la casa
+b) Que solo los adultos tienen derechos, porque los niños todavía no pueden votar ni trabajar
+c) Que los derechos son un favor que el Estado entrega y que se puede quitar cuando quiera
+d) Que, por el solo hecho de ser persona, cada individuo tiene derechos que deben ser reconocidos y respetados
 
 ---
 
@@ -69,10 +79,10 @@ cualquier otra persona.
 **7. (Alternativas)** ¿Cuál de las siguientes es una responsabilidad del Estado, según lo
 estudiado en este eje?
 
-a) Impedir que las personas se organicen en juntas de vecinos
+a) Impedir que las personas se organicen en juntas de vecinos o clubes deportivos
 b) Asegurar que las personas puedan ejercer derechos como la educación y la salud
-c) Decidir quién puede o no puede votar según su opinión política
-d) Prohibir la formación de partidos políticos
+c) Decidir quién puede o no puede votar según la opinión política de cada persona
+d) Prohibir la formación de partidos políticos para evitar los conflictos entre personas
 
 ---
 
@@ -90,25 +100,40 @@ d) El derecho a impedir que otras personas voten
 
 ---
 
-**10. (Relacionar / emparejar)** Une cada situación con el deber o responsabilidad que
+**10. (Alternativas — unir)** Une cada situación con el deber o responsabilidad que
 representa:
 
 1) Una persona respeta la opinión distinta de un compañero — 2) El Estado garantiza acceso a
 la educación para todos los niños — 3) Un grupo de vecinos forma una junta de vecinos
 
-a) Responsabilidad del Estado de asegurar derechos — b) Deber de respetar los derechos de los
-demás — c) Ejercicio del derecho a participación social
+Opciones: (A) Responsabilidad del Estado de asegurar derechos — (B) Deber de respetar los derechos de los demás — (C) Ejercicio del derecho a participación social
+
+¿Qué combinación es correcta?
+
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-A, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
 ---
 
-**11. (Desarrollo breve)** Da un ejemplo de un derecho y explica qué deber le corresponde a
-las personas al ejercerlo.
+**11. (Alternativas)** ¿Qué pareja une correctamente un derecho con el deber que corresponde al ejercerlo?
+
+a) Libertad de expresión → obligar a otros a pensar igual que uno para evitar conflictos
+b) Derecho a la educación → no asistir nunca a clases, porque la educación es un derecho opcional
+c) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás
+d) Derecho a la propiedad → tomar las cosas de los demás cuando uno las necesite
 
 ---
 
-**12. (Análisis de caso)** En una comuna, un grupo de vecinos decide formar una fundación
+**12. (Alternativas — análisis de caso)** En una comuna, un grupo de vecinos decide formar una fundación
 para ayudar a familias con menos recursos. ¿Qué derecho están ejerciendo y por qué es
 importante que el Estado lo garantice?
+
+a) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes
+b) El derecho a voto; permite elegir al alcalde y a los concejales que ayudan a las familias de la comuna
+c) El derecho a la salud; permite atenderse en el hospital y recibir medicamentos sin costo para las familias
+d) Ninguno; formar fundaciones está prohibido para los vecinos y solo puede hacerlo la municipalidad
 
 ---
 
@@ -123,13 +148,9 @@ sexo o el lugar de nacimiento: son los mismos para todas las personas.
 **3.** c) Los pares, la comunidad y el Estado. El respeto a los derechos involucra a otras
 personas, el entorno cercano y las instituciones del Estado.
 
-**4.** El principio de universalidad, ya que se está discriminando a la persona en base a una
-característica individual (su lugar de nacimiento), que no debería influir en el acceso a sus
-derechos.
+**4.** a) El principio de universalidad: los derechos son iguales para todas las personas. Se discrimina por el lugar de nacimiento, que no debería influir en el acceso a los derechos.
 
-**5.** Buena respuesta: explica que, por el solo hecho de ser persona, cada individuo tiene
-derechos que deben ser reconocidos y respetados, y que estos derechos no son un favor ni
-dependen de las características de cada persona.
+**5.** d) Que, por el solo hecho de ser persona, cada individuo tiene derechos que deben ser reconocidos y respetados
 
 **6.** Verdadero. Los derechos son universales: ninguna característica individual, incluida
 una condición de discapacidad, disminuye o cambia los derechos que una persona posee.
@@ -144,15 +165,8 @@ derechos de los demás y respetar las leyes.
 **9.** a) El derecho a sufragio. Votar en elecciones es una de las formas fundamentales de
 participación en la vida pública que el Estado debe asegurar.
 
-**10.** 1-b, 2-a, 3-c. Cada situación ilustra una relación distinta entre derechos y deberes:
-el respeto mutuo entre personas, la responsabilidad del Estado y el ejercicio activo de la
-participación ciudadana.
+**10.** b) 1-B, 2-A, 3-C — respeto mutuo, responsabilidad del Estado y participación ciudadana
 
-**11.** Buena respuesta: identifica un derecho real (por ejemplo, la libertad de expresión) y
-describe correctamente el deber asociado (por ejemplo, expresarse respetando la opinión y los
-derechos de los demás).
+**11.** c) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás
 
-**12.** Están ejerciendo su derecho a formar organizaciones de participación social. Es
-importante que el Estado lo garantice porque permite que las personas se organicen
-libremente para resolver problemas comunes y participar activamente en la vida pública, más
-allá de solo votar.
+**12.** a) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes

@@ -1,7 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 2° básico
-oa_por_pregunta: {"8":"OA 17"}
+oa_por_pregunta: {"1":"OA 7","4":"OA 7","8":"OA 17"}
 unidad: 2
 tipo: Prueba de unidad
 tiempo_sugerido: 15 a 20 minutos
@@ -37,8 +37,8 @@ ultima_actualizacion: 2026-10-28
 
 **1. (Alternativas — explícita)** ¿Desde qué ciudad escribe Matías la carta?
 
-a) Chillán
-b) Rancagua
+a) Rancagua
+b) Chillán
 c) Santiago
 
 **2. (Alternativas — implícita)** ¿Cómo se sintió Matías cuando aprendió a andar en bicicleta sin las rueditas?
@@ -53,7 +53,12 @@ a) Amarillo
 b) Café
 c) Azul
 
-**4. (Desarrollo breve — función de ilustraciones y símbolos)** ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+**4. (Alternativas — función de ilustraciones y símbolos)** ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+
+a) Para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien
+b) Para que los contenedores se vean bonitos y alegres, y a los niños les den ganas de jugar con ellos
+c) Para decir cuánto cuesta reciclar cada tipo de basura y cuánto dinero hay que pagar en cada contenedor
+d) Para que nadie use los contenedores equivocados y los dejen vacíos hasta que pase el camión de la basura
 
 **5. (Alternativas)** ¿Cuál de estas oraciones está bien escrita, con mayúscula al comenzar y punto al terminar?
 
@@ -69,17 +74,22 @@ a) "Los perros ladraron toda la noche."
 b) "La niña come manzanas."
 c) "Las niño jugaban en el patio."
 
-**8. (Desarrollo breve — propósito y destinatario)** Escribe una oración corta para invitar a un compañero o compañera a jugar contigo en el recreo. No olvides la mayúscula, el punto y que la oración tenga sentido completo.
+**8. (Alternativas — propósito y destinatario)** Quieres invitar a un compañero o compañera a jugar contigo en el recreo. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y puntuación correcta?
+
+a) quieres jugar conmigo en el recreo
+b) Ayer llovió mucho en mi casa.
+c) ¿quieres jugar conmigo en el recreo
+d) ¿Quieres jugar conmigo en el recreo?
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) Rancagua** — la carta dice "Te escribo desde Rancagua".
+1. **a) Rancagua** — la carta dice "Te escribo desde Rancagua".
 2. **b) Contento y orgulloso de su logro** — aunque la carta no usa esas palabras exactas, dice "ahora ando rapidísimo" y que quiere mostrarle a su tía cómo anda.
 3. **c) Azul** — el texto dice "El contenedor azul es para el papel y el cartón".
-4. *Respuesta esperada*: para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien.
+4. a) Para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien. Los dibujos o símbolos ayudan a entender la información de un texto, incluso sin leer las palabras.
 5. **b) "El perro corre por el parque."** — empieza con mayúscula y termina con punto.
 6. **Verdadero** — "las" y "niñas" están las dos en plural, por eso concuerdan.
 7. **c) "Las niño jugaban en el patio."** — "las" (plural, femenino) no concuerda con "niño" (singular, masculino).
-8. *Respuesta esperada*: cualquier oración con sentido, con propósito de invitación, mayúscula inicial y punto final; por ejemplo, "¿Quieres jugar conmigo en el recreo?".
+8. d) ¿Quieres jugar conmigo en el recreo? — invita al compañero, empieza con mayúscula y tiene los dos signos de interrogación.

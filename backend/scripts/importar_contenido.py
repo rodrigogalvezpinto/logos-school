@@ -21,7 +21,7 @@ from sqlmodel import Session, select
 
 from app.infrastructure.persistence.db import engine, crear_tablas
 from app.infrastructure.persistence.orm_models import Asignatura, ConjuntoEvaluacion, Nivel, ObjetivoAprendizaje, Pregunta
-from parser_contenido import parsear_guia
+from parser_contenido import clave_valida, parsear_guia
 from parser_prueba_examen import parsear_prueba_o_examen
 
 CONTENIDO_DIR = Path(__file__).parent.parent.parent / "contenido"
@@ -228,7 +228,7 @@ def _importar_conjunto(
     for pregunta, pauta in resultado:
         if not pauta or not pauta.respuesta_correcta.strip():
             raise ValueError(f"{ruta.name}: pauta ausente o vacía para pregunta {pregunta.numero}")
-        if pregunta.opciones and pauta.respuesta_correcta not in pregunta.opciones:
+        if not clave_valida(pregunta.tipo, pauta.respuesta_correcta, pregunta.opciones):
             raise ValueError(f"{ruta.name}: clave inválida para pregunta {pregunta.numero}")
         asignatura_pregunta_id, mapa = asignatura_id, oas_por_codigo
         if asignaturas_integradas is not None:

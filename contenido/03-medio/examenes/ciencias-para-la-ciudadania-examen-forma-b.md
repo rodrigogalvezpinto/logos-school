@@ -19,14 +19,11 @@ relacionado: contenido/03-medio/ciencias-para-la-ciudadania.md (banco de conteni
 Objetivos de Aprendizaje)
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 42 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 42 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen 2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, caso o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -69,29 +66,35 @@ el consumo de alimentos transgénicos aprobados para consumo humano:
 
 a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia
    disponible
-b) Está demostrado como causa directa de cáncer en humanos
-c) Está prohibido en todo el mundo por su peligrosidad
-d) Elimina por completo el riesgo de enfermedades crónicas
+b) Está demostrado como causa directa de cáncer en humanos, según estudios de largo plazo
+c) Está prohibido en todo el mundo por su peligrosidad para la salud de los consumidores
+d) Elimina por completo el riesgo de enfermedades crónicas, por su mayor valor nutricional
 
 **4.** *(Alternativas)* La actividad física regular impacta principalmente:
 
 a) La dimensión física de la salud, como la salud cardiovascular
-b) Únicamente el rendimiento académico
+b) Únicamente el rendimiento académico, al mejorar la concentración en clases
 c) Las dimensiones física, psíquica y social de la salud de forma integrada
-d) Ninguna dimensión relacionada con el estrés o la ansiedad
+d) Ninguna dimensión relacionada con el estrés o la ansiedad de las personas
 
-**5.** *(Desarrollo breve, 2 puntos)* Explica por qué la exposición a un mismo
-patógeno (por ejemplo, un virus respiratorio común) puede considerarse tanto un
-factor ambiental como uno biológico, dependiendo de qué aspecto se analice.
+**5.** *(Alternativas, 2 puntos)* ¿Por qué un mismo patógeno respiratorio puede considerarse factor ambiental y también biológico?
 
-**6.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona
+b) Porque es solo un factor social: se transmite entre personas, por lo que no depende del entorno ni del organismo
+c) Porque los patógenos no influyen en la salud por sí mismos: solo enferman quienes tienen otros factores de riesgo previos
+d) Porque depende únicamente del clima: los patógenos respiratorios aparecen en invierno y desaparecen con el calor
+
+**6.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
 > "En una fiesta de fin de año escolar, un grupo de estudiantes consume alcohol en
 > exceso y algunos prueban otras drogas 'solo por curiosidad'."
 
-Identifica un efecto a corto plazo y uno a largo plazo de esta situación, y explica
-cómo la decisión personal se combina con factores sociales (presión de grupo) y
-biológicos (metabolismo aún en desarrollo).
+¿Qué afirmaciones son correctas? Marca **todas** las correctas.
+
+a) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
+b) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
+c) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
+d) Probar "solo por curiosidad" elimina todo riesgo
 
 ---
 
@@ -121,24 +124,33 @@ b) La vacuna contra la influenza pierde su efecto por razones del proceso de fab
 c) El virus del sarampión también muta cada año de la misma forma en que lo hace el virus de la influenza
 d) No existe ninguna diferencia real entre ambas vacunas, porque las dos se aplican una sola vez en la vida
 
-**10.** *(Desarrollo breve, 2 puntos)* Explica una implicancia ambiental de las
-medidas de prevención del hantavirus en zonas rurales del sur de Chile.
+**10.** *(Alternativas, 2 puntos)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
 
-**11.** *(Desarrollo breve, 2 puntos)* Durante una pandemia, dos fuentes entregan
-información contradictoria: una publicación científica revisada por pares indica que
-cierta medida reduce los contagios en un 40%, mientras que un influencer sin
-formación en salud asegura, sin citar datos, que "esa medida no sirve para nada".
-¿Qué fuente deberías priorizar y por qué?
+a) Ninguna implicancia ambiental: el hantavirus es solo un problema médico que se previene con vacunas y con atención oportuna en los centros de salud rurales
+b) Exige talar todos los bosques cercanos a las viviendas y eliminar la vegetación nativa, porque allí viven los roedores que transmiten el virus a las personas
+c) Requiere aumentar la basura orgánica lejos de las casas, para atraer a los roedores hacia otros sectores y así evitar que se acerquen a las viviendas
+d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo
 
-**12.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+**11.** *(Alternativas, 2 puntos)* En una pandemia, una publicación revisada por pares indica que una medida reduce los contagios en 40%, y un influencer sin formación dice sin datos que "no sirve para nada". ¿Qué fuente priorizar?
+
+a) El influencer, porque tiene más seguidores y su mensaje llega a más personas que una revista científica
+b) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable
+c) Ninguna, porque ambas son igual de válidas: cada fuente tiene su propia opinión sobre la medida
+d) La que coincida con mi opinión previa, porque así evito confundirme con información contradictoria
+
+**12.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
 > "Un viajero que se contagió de sarampión en el extranjero llega a un aeropuerto
 > chileno sin saber que está en periodo de incubación, y días después presenta
 > síntomas. Las autoridades de salud identifican y contactan a los pasajeros que
 > viajaron cerca de él."
 
-¿Por qué esta situación debe analizarse "a nivel nacional y mundial", y no solo como
-un caso médico individual?
+¿Por qué debe analizarse a nivel nacional y mundial?
+
+a) Porque es solo un caso médico individual: basta con tratar a la persona enferma, sin necesidad de buscar contactos ni coordinarse con otros países
+b) Porque el sarampión solo existe en el extranjero, de modo que el caso no puede contagiar a nadie en Chile y la vigilancia es solo una formalidad
+c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
+d) Porque los aeropuertos no tienen relación con la salud pública: los controles sanitarios en fronteras se eliminaron y la prevención depende de cada persona
 
 ---
 
@@ -149,10 +161,10 @@ un caso médico individual?
 **13.** *(Alternativas)* La composición de un detergente doméstico es relevante para
 evaluar su riesgo potencial porque:
 
-a) Determina únicamente el precio del producto
-b) No tiene relación con la seguridad de su uso
+a) Determina únicamente el precio del producto y su rendimiento en el lavado
+b) No tiene relación con la seguridad de su uso en el hogar
 c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad
-d) Solo afecta el color del envase
+d) Solo afecta el color y el olor del envase que lo contiene
 
 **14.** *(Alternativas)* Tomar el doble de la dosis indicada de un medicamento de
 venta libre para aliviar un dolor con mayor rapidez:
@@ -172,21 +184,31 @@ b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando e
 c) Reduce el efecto del medicamento de manera completa y permanente mientras se consumen juntos
 d) Es riesgoso cuando se consume con el estómago vacío, y no en otras condiciones de consumo
 
-**16.** *(Desarrollo breve, 2 puntos)* Una publicación en redes sociales asegura que
-"mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera un gas
-mortal". ¿Cómo evaluarías esta afirmación desde el conocimiento químico?
+**16.** *(Alternativas, 2 puntos)* Una publicación asegura que "mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
 
-**17.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa en experimentos escolares seguros
+b) Es correcta: cualquier mezcla de productos químicos en un espacio cerrado es mortal
+c) Es correcta: la reacción produce cloro gaseoso, que es tóxico al respirarse
+d) Es incorrecta porque no ocurre ninguna reacción química: el bicarbonato solo se disuelve en el vinagre
+
+**17.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
 > "Una fábrica textil almacena detergentes industriales junto a ácidos de limpieza en
 > el mismo estante, sin separación, 'para ahorrar espacio'."
 
-¿Qué riesgo genera esta práctica y qué medida de seguridad debería aplicarse?
+¿Qué riesgo genera y qué medida corresponde?
 
-**18.** *(Desarrollo breve, 2 puntos)* Una publicación en redes sociales asegura que
-"los detergentes en cápsulas o formato concentrado son igual de seguros para los
-niños que los detergentes líquidos normales, porque llevan la misma marca". ¿Qué
-evidencia debería considerarse para evaluar esta afirmación?
+a) Ningún riesgo, porque ambos son productos de limpieza y están diseñados para usarse juntos; basta con mantener el estante ordenado y bien rotulado
+b) El riesgo es que se ensucie el estante si algún envase gotea; basta con limpiarlo con frecuencia y revisar que las tapas estén bien cerradas
+c) El riesgo es la falta de espacio en la bodega; hay que juntar todavía más productos en el mismo estante para dejar libres los pasillos de evacuación
+d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación
+
+**18.** *(Alternativas, 2 puntos)* "Los detergentes en cápsulas son igual de seguros para los niños que los líquidos, porque llevan la misma marca." ¿Qué evidencia hay que considerar?
+
+a) Que la marca garantiza la seguridad de todos sus productos para los niños, sin importar el formato ni la concentración en que se vendan
+b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles
+c) Que el color llamativo de la cápsula no importa, porque los niños reconocen los productos de limpieza
+d) Que los niños pequeños no pueden abrir ningún envase de detergente, sea líquido o en cápsulas
 
 ---
 
@@ -195,10 +217,10 @@ evidencia debería considerarse para evaluar esta afirmación?
 **19.** *(Alternativas)* Realizar simulacros de evacuación periódicos en el colegio
 corresponde principalmente a una capacidad de:
 
-a) Prevención del riesgo geológico
+a) Prevención del riesgo geológico de la zona
 b) Mitigación de las consecuencias de una emergencia
-c) Eliminación total del riesgo sísmico
-d) Adaptación arquitectónica del edificio
+c) Eliminación total del riesgo sísmico del edificio
+d) Adaptación arquitectónica del edificio escolar
 
 **20.** *(Alternativas)* Respecto al origen de los incendios forestales en Chile, la
 evidencia indica que:
@@ -206,7 +228,7 @@ evidencia indica que:
 a) La mayor parte de los incendios tiene origen natural, como la caída de rayos durante el verano
 b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal
    controladas o intencionalidad
-c) Los incendios se relacionan con la actividad humana de manera indirecta y poco frecuente
+c) Los incendios se relacionan con la actividad humana solo de manera indirecta y poco frecuente, ya que el calor extremo basta para iniciarlos
 d) Ocurren con mayor frecuencia en zonas sin actividad agrícola ni forestal
 
 **21.** *(Alternativas)* La Ley N°21.364, que creó el Servicio Nacional de
@@ -215,26 +237,30 @@ Prevención y Respuesta ante Desastres (SENAPRED) en reemplazo de la antigua ONE
 a) Cambió el nombre de la institución, pero mantuvo intactos su enfoque de trabajo y sus funciones anteriores
 b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención,
    mitigación, preparación, respuesta y recuperación)
-c) Eliminó las funciones de monitoreo de los riesgos naturales que tenía la ONEMI
-d) Se aplica a los riesgos de origen volcánico y sísmico, y no a otros tipos de riesgo
+c) Eliminó las funciones de monitoreo de los riesgos naturales que tenía la ONEMI, que pasaron a depender de cada municipio
+d) Se aplica solo a los riesgos de origen volcánico y sísmico, y no a otros tipos de riesgo, como incendios forestales o inundaciones
 
-**22.** *(Desarrollo breve, 2 puntos)* Un modelo de simulación del SHOA muestra las
-zonas de inundación esperadas por tsunami en una ciudad costera, basado en datos
-históricos de sismos y la topografía local. ¿Por qué es más confiable tomar
-decisiones de evacuación basadas en este modelo que en la experiencia personal de
-"el tsunami de mis abuelos no llegó tan lejos"?
+**22.** *(Alternativas, 2 puntos)* ¿Por qué es más confiable evacuar según el modelo de inundación por tsunami del SHOA que según "el tsunami de mis abuelos no llegó tan lejos"?
 
-**23.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente situación:
+a) Porque la experiencia personal siempre es falsa y no debe considerarse en ninguna decisión sobre emergencias
+b) Porque los modelos del SHOA predicen la fecha exacta del próximo tsunami y la altura que alcanzará cada ola
+c) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario
+d) Porque los abuelos nunca vivieron tsunamis reales, y sus recuerdos corresponden a marejadas comunes de invierno
+
+**23.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
 > "Un comité de emergencia comunal decide no construir viviendas nuevas en una
 > quebrada que ha tenido aluviones en el pasado, aunque eso reduce el terreno
 > disponible para viviendas sociales urgentes."
 
-Clasifica esta decisión como medida de prevención, mitigación o adaptación, y
-justifica tu respuesta.
+¿Cómo se clasifica la decisión? Marca **todas** las correctas.
 
-**24.** *(Desarrollo breve, 2 puntos)* Un gráfico histórico de sismos de gran
-magnitud en Chile registra los siguientes eventos:
+a) Prevención: evita exponer a la población a la amenaza
+b) Adaptación: ajusta la planificación de largo plazo al riesgo
+c) Respuesta a la emergencia durante un aluvión
+d) Reconstrucción posterior a un desastre
+
+**24.** *(Alternativas, 2 puntos)* Un registro histórico de grandes sismos en Chile muestra:
 
 | Año | Terremoto | Magnitud |
 |---|---|---|
@@ -242,19 +268,25 @@ magnitud en Chile registra los siguientes eventos:
 | 2010 | Maule | 8,8 |
 | 2014 | Iquique | 8,2 |
 
-A partir de este registro histórico, ¿qué se puede y qué no se
-puede afirmar con evidencia científica sobre el riesgo sísmico futuro de Chile?
+¿Qué se puede afirmar con evidencia científica?
 
-**25.** *(Desarrollo extenso, 3 puntos)* Evalúa las capacidades de prevención,
-mitigación y adaptación de tu propio colegio o comunidad frente a un riesgo natural
-relevante en tu zona (sismo, incendio forestal, inundación, u otro). Menciona al
-menos dos fortalezas y dos aspectos a mejorar.
+a) Que Chile tiene una exposición alta y recurrente a grandes sismos, lo que justifica la prevención permanente; pero no se puede predecir cuándo, dónde ni con qué magnitud será el próximo
+b) Que el próximo gran terremoto ocurrirá en 2030, porque los registros muestran que los sismos se repiten cada 20 años, lo que permite planificar la prevención con exactitud
+c) Que ya no habrá más terremotos grandes en Chile, porque la energía acumulada en las placas se liberó en los últimos sismos, por lo que la prevención ya no es prioritaria
+d) Que los grandes sismos ocurren cada 25 años exactos y siempre en el sur del país, de modo que basta con preparar las regiones australes para el próximo evento
+
+**25.** *(Varias correctas, 3 puntos)* Al evaluar las capacidades de un colegio frente a un riesgo natural, ¿qué elementos son pertinentes? Marca **todas** las correctas.
+
+a) Señalización de vías de evacuación y frecuencia de simulacros
+b) Plan de emergencia escolar y estado de la infraestructura
+c) Coordinación con organismos como SENAPRED o Bomberos
+d) El color del uniforme escolar
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -270,106 +302,40 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 2 | Alternativas | d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad | OA 1 (Mód. 1) |
 | 3 | Alternativas | a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
 | 4 | Alternativas | c) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
-| 5 | Desarrollo breve | Es un factor ambiental en cuanto a la presencia del patógeno en el entorno (aire, superficies, contacto con otras personas); es un factor biológico en cuanto a la respuesta del sistema inmune de cada persona ante ese mismo patógeno (por qué unas personas se enferman gravemente y otras no). | OA 1 (Mód. 1) |
-| 6 | Desarrollo extenso | Corto plazo: intoxicación aguda, pérdida de juicio, riesgo de accidentes. Largo plazo: mayor riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años. La decisión personal de consumir no ocurre en el vacío: la presión social del grupo (factor social) interactúa con la vulnerabilidad biológica propia de la adolescencia. | OA 1 (Mód. 1) |
+| 5 | Alternativas | **a) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona.** | OA 1 (Mód. 1) |
+| 6 | Varias correctas | **a, b y c.** Reconocer los factores sociales y biológicos no elimina la responsabilidad individual. | OA 1 (Mód. 1) |
 | 7 | Alternativas | d) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
 | 8 | Alternativas | a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión sanguínea o sexual | OA 3 (Mód. 1) |
 | 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica) y la inmunidad de años anteriores no siempre protege de las nuevas variantes | OA 3 (Mód. 1) |
-| 10 | Desarrollo breve | El control del hantavirus se relaciona con el manejo del entorno: evitar la acumulación de basura orgánica que atraiga roedores, mantener despejados los alrededores de las viviendas y considerar que la deforestación o el abandono de terrenos agrícolas puede alterar las poblaciones de ratón colilargo, afectando el riesgo de contagio; la prevención no es solo doméstica, sino también ambiental y territorial. | OA 3 (Mód. 1) |
-| 11 | Desarrollo breve | Se debe priorizar la publicación científica revisada por pares, porque fue evaluada por otros expertos, entrega datos concretos (40%) y sigue un método verificable; la afirmación del influencer no presenta evidencia ni metodología, por lo que no es una fuente confiable para tomar decisiones de salud pública. | OA 3 (Mód. 1) |
-| 12 | Desarrollo extenso | Porque la transmisión de agentes infecciosos no respeta fronteras: un caso importado puede iniciar una cadena de contagio local si la cobertura de vacunación no es suficiente, por lo que la vigilancia epidemiológica y la coordinación entre países (por ejemplo, mediante la OMS) son parte necesaria de la prevención, no solo la atención al paciente individual. | OA 3 (Mód. 1) |
+| 10 | Alternativas | **d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.** | OA 3 (Mód. 1) |
+| 11 | Alternativas | **b) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable.** | OA 3 (Mód. 1) |
+| 12 | Alternativas | **c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.** | OA 3 (Mód. 1) |
 | 13 | Alternativas | c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad | OA 1 (Mód. 2) |
 | 14 | Alternativas | b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo de toxicidad | OA 1 (Mód. 2) |
 | 15 | Alternativas | b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el riesgo de somnolencia extrema o dificultad respiratoria | OA 1 (Mód. 2) |
-| 16 | Desarrollo breve | La reacción entre bicarbonato de sodio y vinagre produce dióxido de carbono y agua, una reacción común y utilizada incluso en experimentos escolares seguros; no genera un gas tóxico o mortal en condiciones domésticas habituales. La afirmación es incorrecta y debería contrastarse con fuentes confiables antes de difundirla. | OA 1 (Mód. 2) |
-| 17 | Desarrollo extenso | Riesgo: si algún envase gotea o se derrama, ambas sustancias podrían entrar en contacto y reaccionar peligrosamente, generando gases tóxicos o reacciones corrosivas. Medida: separar físicamente sustancias incompatibles según su ficha de seguridad, en estantes distintos y con buena ventilación, siguiendo las normas de almacenamiento de sustancias peligrosas. | OA 1 (Mód. 2) |
-| 18 | Desarrollo breve | Debe considerarse que los productos concentrados tienen mayor cantidad de principio activo por unidad de volumen y, en el caso de las cápsulas, su apariencia colorida y textura pueden confundirse con dulces, lo que ha generado un aumento real de intoxicaciones infantiles reportadas por centros de toxicología; la marca no determina el riesgo, sino la concentración, la presentación y el acceso del producto a los niños. | OA 1 (Mód. 2) |
+| 16 | Alternativas | **a) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa en experimentos escolares seguros.** | OA 1 (Mód. 2) |
+| 17 | Alternativas | **d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación.** | OA 1 (Mód. 2) |
+| 18 | Alternativas | **b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles.** | OA 1 (Mód. 2) |
 | 19 | Alternativas | b) Mitigación de las consecuencias de una emergencia | OA 3 (Mód. 2) |
 | 20 | Alternativas | b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal controladas o intencionalidad | OA 3 (Mód. 2) |
 | 21 | Alternativas | b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención, mitigación, preparación, respuesta y recuperación) | OA 3 (Mód. 2) |
-| 22 | Desarrollo breve | Los modelos científicos integran múltiples variables (magnitud posible del sismo, topografía, batimetría, datos históricos de distintos eventos) y no dependen de un solo caso anecdótico; la experiencia de un evento pasado puede no representar el peor escenario posible, mientras que el modelo busca cubrir un rango más amplio de posibilidades. | OA 3 (Mód. 2) |
-| 23 | Desarrollo extenso | Es una medida de adaptación (y también de prevención), porque implica ajustar la planificación urbana a largo plazo para no exponer a la población al riesgo, en lugar de solo responder cuando el evento ya ocurre. | OA 3 (Mód. 2) |
-| 24 | Desarrollo breve | Se puede afirmar que Chile tiene una alta exposición histórica y recurrente a sismos de gran magnitud debido a su ubicación en el Cinturón de Fuego del Pacífico, lo que justifica mantener y reforzar medidas de prevención y mitigación permanentes. No se puede afirmar con precisión cuándo, dónde ni de qué magnitud exacta será el próximo sismo; los modelos estiman probabilidades y zonas de mayor riesgo (como "brechas sísmicas"), pero no predicen fechas exactas. | OA 3 (Mód. 2) |
-| 25 | Desarrollo extenso | Respuesta abierta y personal; debe mencionar elementos concretos como señalización de vías de evacuación, frecuencia de simulacros, existencia de un plan de emergencia escolar, estado de la infraestructura, o coordinación con organismos como SENAPRED o Bomberos, distinguiendo con criterio qué corresponde a prevención, qué a mitigación y qué a adaptación. | OA 3 (Mód. 2) |
+| 22 | Alternativas | **c) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario.** | OA 3 (Mód. 2) |
+| 23 | Varias correctas | **a y b.** La planificación territorial de largo plazo combina prevención y adaptación. | OA 3 (Mód. 2) |
+| 24 | Alternativas | **a) Que Chile tiene una exposición alta y recurrente a grandes sismos, lo que justifica la prevención permanente; pero no se puede predecir cuándo, dónde ni con qué magnitud será el próximo.** | OA 3 (Mód. 2) |
+| 25 | Varias correctas | **a, b y c.** La evaluación debe distinguir con criterio prevención, mitigación y adaptación en el entorno real. | OA 3 (Mód. 2) |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 5 (2 puntos)
-
-- Explica la dimensión ambiental: presencia del patógeno en el entorno (aire, superficies, contacto con otras personas) — **1 punto**
-- Explica la dimensión biológica: respuesta del sistema inmune distinta en cada persona — **1 punto**
-
-### Pregunta 6 (3 puntos)
-
-- Identifica un efecto a corto plazo: intoxicación aguda, pérdida de juicio o riesgo de accidentes — **1 punto**
-- Identifica un efecto a largo plazo: riesgo de dependencia o alteración del desarrollo cerebral — **1 punto**
-- Articula el factor social (presión de grupo) con el biológico (cerebro y metabolismo en desarrollo) — **1 punto**
-
-### Pregunta 10 (2 puntos)
-
-- Señala una implicancia ambiental: manejo de basura orgánica y roedores, o efecto de la deforestación y el abandono de terrenos — **1 punto**
-- Concluye que la prevención es también ambiental y territorial, no solo doméstica — **1 punto**
-
-### Pregunta 11 (2 puntos)
-
-- Prioriza la publicación científica revisada por pares — **1 punto**
-- Justifica con la existencia de datos, método verificable y revisión de expertos, frente a una afirmación sin evidencia — **1 punto**
-
-### Pregunta 12 (3 puntos)
-
-- Explica que un caso importado puede iniciar una cadena de contagio local — **1 punto**
-- Relaciona ese riesgo con una cobertura de vacunación insuficiente en la población — **1 punto**
-- Concluye que se requiere vigilancia epidemiológica y coordinación internacional, no solo atención individual — **1 punto**
-
-### Pregunta 16 (2 puntos)
-
-- Identifica que la reacción entre bicarbonato y vinagre produce dióxido de carbono y agua, no un gas tóxico — **1 punto**
-- Concluye que la afirmación es incorrecta y debe contrastarse con fuentes confiables antes de difundirla — **1 punto**
-
-### Pregunta 17 (3 puntos)
-
-- Identifica el riesgo: el contacto entre sustancias incompatibles puede generar gases tóxicos o reacciones corrosivas — **1 punto**
-- Propone separar físicamente las sustancias incompatibles según su ficha de seguridad — **1 punto**
-- Agrega condiciones de almacenamiento: estantes distintos, buena ventilación o normas de sustancias peligrosas — **1 punto**
-
-### Pregunta 18 (2 puntos)
-
-- Explica que los productos concentrados tienen mayor principio activo por volumen y las cápsulas se confunden con dulces — **1 punto**
-- Concluye que el riesgo depende de concentración, presentación y acceso, no de la marca, y cita el aumento de intoxicaciones infantiles — **1 punto**
-
-### Pregunta 22 (2 puntos)
-
-- Explica que el modelo integra múltiples variables y datos históricos de distintos eventos, mientras que la experiencia de un solo evento pasado no representa el peor escenario posible — **1 punto**
-- Concluye que el modelo cubre un rango más amplio de posibilidades y por eso es más confiable para decidir que una anécdota — **1 punto**
-
-### Pregunta 23 (3 puntos)
-
-- Clasifica la decisión como medida de adaptación — **1 punto**
-- Justifica con el ajuste de la planificación urbana a largo plazo para no exponer a la población — **1 punto**
-- La distingue de la respuesta inmediata a la emergencia (prevención y mitigación) — **1 punto**
-
-### Pregunta 24 (2 puntos)
-
-- Afirma lo que sí se puede sostener: alta exposición histórica y recurrente a sismos por el Cinturón de Fuego del Pacífico — **1 punto**
-- Señala lo que no se puede afirmar: fecha, lugar y magnitud exactos del próximo sismo; solo probabilidades y zonas de riesgo — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Menciona dos fortalezas concretas de su colegio o comunidad — **1 punto**
-- Menciona dos aspectos concretos a mejorar — **1 punto**
-- Distingue con criterio qué corresponde a prevención, mitigación y adaptación — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
 - **13 preguntas de alternativas** (N° 1, 2, 3, 4, 7, 8, 9, 13, 14, 15, 19, 20, 21) × 1 punto = 13 puntos
-- **7 preguntas de desarrollo breve** (N° 5, 10, 11, 16, 18, 22, 24) × 2 puntos = 14 puntos
-- **5 preguntas de desarrollo extenso** (N° 6, 12, 17, 23, 25) × 3 puntos = 15 puntos
+- **7 preguntas de mayor complejidad** (N° 5, 10, 11, 16, 18, 22, 24) × 2 puntos = 14 puntos
+- **5 preguntas de mayor complejidad** (N° 6, 12, 17, 23, 25) × 3 puntos = 15 puntos
 - **Puntaje total de la prueba: 42 puntos**
 
 ### Distribución de preguntas por Módulo y OA
@@ -387,8 +353,7 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 Esta Forma B utiliza ítems distintos del mismo banco de preguntas
 (`contenido/03-medio/ciencias-para-la-ciudadania.md`) a los usados en el banco de contenido
 (`contenido/03-medio/ciencias-para-la-ciudadania.md`). Mantiene la
-misma estructura (25 preguntas, 13 alternativas / 7 desarrollo breve / 5 desarrollo
-extenso, 42 puntos) y la misma distribución por Módulo y OA, para ser comparable en
+misma estructura (25 preguntas de alternativas, 42 puntos) y la misma distribución por Módulo y OA, para ser comparable en
 dificultad y cobertura curricular, pero ninguna pregunta se repite respecto de otro instrumento del mismo curso.
 
 ---
@@ -397,8 +362,8 @@ dificultad y cobertura curricular, pero ninguna pregunta se repite respecto de o
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4, 5, 6, 13, 14, 15, 16, 17, 18 | 7 | 5 |
-| OA 3 | 7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23, 24, 25 | 6 | 7 |
-| **Total** | **25 preguntas** | **13** | **12** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6, 13, 14, 15, 16, 17, 18 | 12 |
+| OA 3 | 7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23, 24, 25 | 13 |
+| **Total** | **25 preguntas** | **25** |

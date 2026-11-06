@@ -18,14 +18,11 @@ relacionado_con: contenido/07-basico/ciencias-naturales.md (banco de contenido)
 **Forma:** B (versión alternativa del examen de práctica)
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 39 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 39 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen 2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, tabla o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -71,8 +68,12 @@ b) El aspecto social no influye en las decisiones personales
 c) La sexualidad se reduce únicamente al aspecto biológico
 d) Los aspectos afectivo y social son tan importantes como el aspecto biológico
 
-**4.** *(Desarrollo breve, 2 puntos)* Compara los cambios físicos que ocurren en
-hombres y mujeres durante la pubertad, dando al menos un ejemplo de cada uno.
+**4.** *(Alternativas, 2 puntos)* ¿Qué opción compara correctamente cambios físicos de la pubertad en hombres y en mujeres?
+
+a) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación
+b) Hombres: inicio de la menstruación y desarrollo de mamas. Mujeres: cambio de voz y crecimiento de testículos
+c) Hombres y mujeres no presentan cambios físicos en la pubertad: los cambios son solo emocionales y sociales
+d) Hombres: desarrollo de mamas e inicio de la menstruación. Mujeres: crecimiento de testículos y cambio de voz
 
 ---
 
@@ -94,13 +95,19 @@ b) Del día 1 al día 3
 c) Del día 20 al día 25
 d) Del día 26 al día 28
 
-**7.** *(Desarrollo breve, 2 puntos)* Un adolescente pregunta por qué es importante
-conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no esté
-pensando en tener hijos ahora. Redacta una respuesta breve que le ayude a
-comprenderlo.
+**7.** *(Varias correctas, 2 puntos)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no esté pensando en tener hijos ahora. ¿Qué razones son correctas? Marca **todas** las correctas.
 
-**8.** *(Desarrollo extenso, 3 puntos)* Explica el mecanismo de acción del
-preservativo y de la píldora anticonceptiva, señalando en qué se diferencian.
+a) Permite tomar decisiones informadas y responsables sobre la propia salud sexual y reproductiva
+b) Ayuda a prevenir embarazos no planificados
+c) Favorece el autocuidado y la comprensión del propio cuerpo y el de la pareja
+d) Solo es necesario conocerlos cuando se es adulto y se quiere tener hijos
+
+**8.** *(Alternativas, 3 puntos)* ¿En qué se diferencian el mecanismo de acción del preservativo y el de la píldora anticonceptiva?
+
+a) Ambos son métodos hormonales que impiden la ovulación: el preservativo libera hormonas al contacto y la píldora las aporta por vía oral cada día
+b) El preservativo es un método hormonal que impide la ovulación, y la píldora es una barrera física que impide el contacto entre espermatozoide y ovocito
+c) Ambos son métodos naturales basados en el calendario: los dos funcionan solo si se usan en los días del ciclo en que no hay ovulación
+d) El preservativo es un método de barrera que impide el contacto entre espermatozoide y ovocito; la píldora es un método hormonal que impide la ovulación
 
 ---
 
@@ -117,13 +124,17 @@ d) Ninguno de los anteriores
 **10.** *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a un efecto
 positivo de los hongos para la salud humana?
 
-a) Pie de atleta
-b) Gripe
-c) Tuberculosis
+a) Infección por pie de atleta
+b) Contagio de la gripe estacional
+c) Transmisión de la tuberculosis
 d) Producción de penicilina
 
-**11.** *(Desarrollo breve, 2 puntos)* Compara una bacteria y un hongo en términos de
-sus características estructurales (tamaño y tipo de célula).
+**11.** *(Alternativas, 2 puntos)* ¿Qué comparación entre una bacteria y un hongo, según su estructura, es correcta?
+
+a) Las bacterias son eucariontes, con núcleo y organelos; los hongos son procariontes, más pequeños y simples, sin núcleo definido, y siempre unicelulares
+b) Los hongos no tienen células: son masas de material orgánico sin estructura; las bacterias, en cambio, son organismos formados por muchas células especializadas
+c) Ambos son siempre multicelulares y del mismo tamaño, y se diferencian solo en el color y en el ambiente donde viven, no en la estructura de sus células
+d) Las bacterias son procariontes, más pequeñas y simples (sin núcleo definido); los hongos son eucariontes, con núcleo y organelos, y pueden ser uni o multicelulares
 
 ---
 
@@ -147,12 +158,19 @@ b) De la rugosidad de las superficies en contacto
 c) De la temperatura ambiente y de la humedad del aire
 d) Del tipo de material elástico que se usa para unir las superficies
 
-**14.** *(Desarrollo breve, 2 puntos)* Explica por qué es más fácil deslizar una caja
-pesada sobre hielo que sobre cemento, relacionándolo con la fuerza de roce.
+**14.** *(Alternativas, 2 puntos)* ¿Por qué es más fácil deslizar una caja pesada sobre hielo que sobre cemento?
 
-**15.** *(Desarrollo extenso, 3 puntos)* Un ciclista pedalea cuesta abajo y nota que,
-a pesar de no pedalear, su bicicleta sigue acelerando. Explica qué fuerza es la
-principal responsable de esa aceleración, y qué otra fuerza actúa oponiéndose a ella.
+a) Porque sobre el hielo la caja pesa menos, ya que el frío reduce la masa de los objetos
+b) Porque el cemento no ejerce fuerza de roce, pero sí atrae la caja hacia el suelo con más fuerza
+c) Porque el hielo es más liso y genera menor fuerza de roce; el cemento, más rugoso, genera mayor roce
+d) Porque en el hielo no actúa la gravedad, de modo que la caja se mueve sin necesidad de empujarla
+
+**15.** *(Alternativas, 3 puntos)* Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
+
+a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone
+b) El roce con el aire y el pavimento acelera la bicicleta; la fuerza gravitacional (el peso del ciclista) se opone al movimiento
+c) La fuerza elástica de los neumáticos, que rebotan contra el pavimento, acelera la bicicleta; ninguna fuerza se opone al movimiento
+d) La fuerza gravitacional se opone al movimiento en la bajada; la fuerza muscular que el ciclista aplicó antes sigue acelerando la bicicleta
 
 ---
 
@@ -161,10 +179,10 @@ principal responsable de esa aceleración, y qué otra fuerza actúa oponiéndos
 **16.** *(Alternativas)* ¿Qué ocurre en un límite divergente entre placas
 tectónicas?
 
-a) Las placas chocan y una se hunde bajo la otra
+a) Las placas chocan y una se hunde bajo la otra, formando fosas y cordilleras
 b) Las placas se separan y asciende material del manto, formando nueva corteza
 c) Las placas se deslizan lateralmente sin crear ni destruir corteza
-d) No existe movimiento entre las placas
+d) No existe movimiento entre las placas, porque el manto las mantiene fijas en su lugar
 
 **17.** *(Alternativas)* ¿Cómo apoya el modelo de la tectónica de placas a la teoría
 de la deriva continental propuesta por Wegener?
@@ -174,9 +192,12 @@ b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que
 c) Ambas teorías son contradictorias entre sí y no pueden sostenerse al mismo tiempo
 d) La deriva continental fue refutada por la tectónica de placas y hoy se considera inválida
 
-**18.** *(Desarrollo breve, 2 puntos)* Explica por qué Chile es un país con alta
-actividad sísmica y volcánica, relacionándolo con las placas tectónicas que
-interactúan en su territorio.
+**18.** *(Alternativas, 2 puntos)* ¿Por qué Chile tiene alta actividad sísmica y volcánica?
+
+a) Porque Chile está en el centro de una placa tectónica, lejos de sus bordes, donde la presión del manto empuja la corteza hacia arriba y forma volcanes
+b) Porque su clima es muy variado de norte a sur, y los cambios bruscos de temperatura agrietan la corteza terrestre, lo que provoca sismos y erupciones
+c) Porque el océano Pacífico es muy profundo frente a la costa chilena, y el peso del agua presiona el fondo marino hasta generar sismos y volcanes
+d) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el extremo sur, la Antártica); la subducción libera energía en forma de sismos y favorece la formación de volcanes
 
 ---
 
@@ -201,9 +222,12 @@ b) Ley de Charles
 c) Ley de Gay-Lussac
 d) Teoría cinético-molecular
 
-**21.** *(Desarrollo extenso, 3 puntos)* Describe un experimento simple que podrías
-realizar en tu casa para observar el efecto de la temperatura sobre el volumen de un
-gas (Ley de Charles), indicando qué materiales usarías y qué esperarías observar.
+**21.** *(Alternativas, 3 puntos)* ¿Qué experimento casero permite observar el efecto de la temperatura sobre el volumen de un gas (Ley de Charles), y qué se esperaría observar?
+
+a) Poner un globo en la botella y enfriarla: el globo se infla más porque el aire se expande con el frío
+b) Poner un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande
+c) Mezclar agua con sal en una botella cerrada y calentarla: la sal desaparece porque se transforma en un gas que se expande con el calor
+d) Dejar caer una pelota desde distintas alturas en días fríos y calurosos: rebota más alto con calor porque su peso disminuye
 
 ---
 
@@ -225,19 +249,25 @@ b) Sus componentes están distribuidos de manera uniforme y no se distinguen a s
 c) Corresponden a sustancias puras, porque no pueden separarse
 d) No pueden separarse mediante ningún método físico conocido
 
-**24.** *(Desarrollo breve, 2 puntos)* Explica por qué la decantación es un método
-adecuado para separar agua y aceite, relacionándolo con una propiedad física de estos
-líquidos.
+**24.** *(Alternativas, 2 puntos)* ¿Por qué la decantación es adecuada para separar agua y aceite?
 
-**25.** *(Desarrollo extenso, 3 puntos)* Explica, con un ejemplo, cómo se aplican los
-procedimientos de separación de mezclas en algún proceso industrial relevante para
-Chile, como la minería o el tratamiento de aguas.
+a) Porque el aceite se evapora antes que el agua al dejar la mezcla en reposo, y el agua queda sola en el recipiente
+b) Porque el agua y el aceite se mezclan completamente al agitarlos, y la decantación permite volver a separarlos con un imán
+c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas
+d) Porque el aceite es magnético y se puede atraer con un imán, mientras que el agua se queda en el fondo del recipiente
+
+**25.** *(Varias correctas, 3 puntos)* ¿Cuáles son ejemplos de procedimientos de separación de mezclas en procesos industriales relevantes para Chile? Marca **todas** las correctas.
+
+a) En la minería del cobre se usan procesos de separación para extraer el mineral de la roca
+b) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar impurezas
+c) En la producción de sal de mar se evapora el agua en salinas
+d) En la minería se mezcla el cobre con arena para aumentar su peso
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -252,96 +282,41 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 1 | Alternativas | c) Social | OA 1 |
 | 2 | Alternativas | a) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
 | 3 | Alternativas | d) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
-| 4 | Desarrollo breve | En los hombres: crecimiento de testículos y pene, cambio de voz. En las mujeres: desarrollo de mamas, inicio de la menstruación. Ambos ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
+| 4 | Alternativas | **a) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación.** Ambos cambios ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
 | 5 | Alternativas | b) Preservativo | OA 2 |
 | 6 | Alternativas | a) Del día 11 al día 16 | OA 2 |
-| 7 | Desarrollo breve | Conocer estos procesos permite tomar decisiones informadas y responsables sobre la propia sexualidad y salud reproductiva, prevenir embarazos no planificados, y comprender mejor el propio cuerpo y el de la pareja, favoreciendo el autocuidado. | OA 2 |
-| 8 | Desarrollo extenso | El preservativo es un método de barrera que impide físicamente el contacto entre el espermatozoide y el ovocito; la píldora anticonceptiva es un método hormonal que impide que ocurra la ovulación, por lo que no hay ovocito disponible para ser fecundado. Se diferencian en que uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal. | OA 2 |
+| 7 | Varias correctas | **a, b y c.** Conocer estos procesos es parte del autocuidado desde la adolescencia; no es un conocimiento reservado a quienes buscan tener hijos. | OA 2 |
+| 8 | Alternativas | **d) El preservativo es un método de barrera que impide el contacto entre espermatozoide y ovocito; la píldora es un método hormonal que impide la ovulación.** Uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal, de modo que no hay ovocito disponible para ser fecundado. | OA 2 |
 | 9 | Alternativas | c) *Penicillium* | OA 5 |
 | 10 | Alternativas | d) Producción de penicilina | OA 5 |
-| 11 | Desarrollo breve | Las bacterias son procariontes, generalmente más pequeñas y de estructura celular más simple (sin núcleo definido); los hongos son eucariontes, con una estructura celular más compleja (con núcleo y organelos definidos), y pueden ser unicelulares o multicelulares. | OA 5 |
+| 11 | Alternativas | **d) Las bacterias son procariontes, más pequeñas y simples (sin núcleo definido); los hongos son eucariontes, con núcleo y organelos, y pueden ser uni o multicelulares.** | OA 5 |
 | 12 | Alternativas | a) Fuerza gravitacional | OA 7 |
 | 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
-| 14 | Desarrollo breve | El hielo es una superficie mucho más lisa que el cemento, lo que genera menor fuerza de roce entre la caja y la superficie, facilitando el deslizamiento; el cemento, al ser más rugoso, genera mayor roce y dificulta el movimiento. | OA 7 |
-| 15 | Desarrollo extenso | La fuerza gravitacional (el peso del ciclista y la bicicleta) es la principal responsable de la aceleración cuesta abajo; el roce con el aire y el roce entre los neumáticos y el pavimento actúan oponiéndose a ese movimiento, frenándolo parcialmente. | OA 7 |
+| 14 | Alternativas | **c) Porque el hielo es más liso y genera menor fuerza de roce; el cemento, más rugoso, genera mayor roce.** | OA 7 |
+| 15 | Alternativas | **a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone.** | OA 7 |
 | 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza | OA 9 |
 | 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes | OA 9 |
-| 18 | Desarrollo breve | Porque en la costa de Chile converge la placa de Nazca con la placa Sudamericana (y en el extremo sur, también con la placa Antártica); la subducción de la placa de Nazca bajo la Sudamericana libera gran cantidad de energía en forma de sismos y favorece la formación de volcanes a lo largo de la cordillera. | OA 9 |
+| 18 | Alternativas | **d) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el extremo sur, la Antártica); la subducción libera energía en forma de sismos y favorece la formación de volcanes.** | OA 9 |
 | 19 | Alternativas | b) Aumenta | OA 13 |
 | 20 | Alternativas | c) Ley de Gay-Lussac | OA 13 |
-| 21 | Desarrollo extenso | Por ejemplo: colocar un globo poco inflado sobre la boca de una botella vacía y calentar la botella suavemente (con las manos o en agua tibia); se esperaría que el globo se infle un poco más, porque el aire dentro de la botella se expande al aumentar su temperatura. | OA 13 |
+| 21 | Alternativas | **b) Poner un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande.** | OA 13 |
 | 22 | Alternativas | c) Sustancia pura | OA 14 |
 | 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista | OA 14 |
-| 24 | Desarrollo breve | El agua y el aceite son líquidos no miscibles (no se mezclan entre sí) y tienen distinta densidad: el aceite, al ser menos denso, flota sobre el agua; esto permite separarlos dejando que se asienten en capas y vertiendo cuidadosamente una de ellas. | OA 14 |
-| 25 | Desarrollo extenso | Por ejemplo, en la minería del cobre se usan procesos de separación para extraer el mineral de la roca; en el tratamiento de aguas servidas se combinan la filtración y la decantación para retirar sólidos e impurezas del agua antes de devolverla al ambiente o reutilizarla. | OA 14 |
+| 24 | Alternativas | **c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas.** | OA 14 |
+| 25 | Varias correctas | **a, b y c.** Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas. | OA 14 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 4 (2 puntos)
-
-- Menciona al menos un cambio físico de la pubertad masculina — **1 punto**
-- Menciona al menos un cambio físico de la pubertad femenina — **1 punto**
-
-### Pregunta 7 (2 puntos)
-
-- Explica que permite tomar decisiones informadas y prevenir embarazos no planificados — **1 punto**
-- Relaciona el conocimiento con el autocuidado y la comprensión del propio cuerpo y del de la pareja — **1 punto**
-
-### Pregunta 8 (3 puntos)
-
-- Explica el preservativo como método de barrera que impide el contacto entre espermatozoide y ovocito — **1 punto**
-- Explica la píldora como método hormonal que impide la ovulación — **1 punto**
-- Señala la diferencia: uno bloquea el contacto y el otro altera el ciclo hormonal — **1 punto**
-
-### Pregunta 11 (2 puntos)
-
-- Caracteriza a las bacterias como procariontes, más pequeñas y de estructura simple — **1 punto**
-- Caracteriza a los hongos como eucariontes, con núcleo y organelos definidos — **1 punto**
-
-### Pregunta 14 (2 puntos)
-
-- Explica que el hielo es más liso y genera menor fuerza de roce — **1 punto**
-- Explica que el cemento es más rugoso y genera mayor fuerza de roce — **1 punto**
-
-### Pregunta 15 (3 puntos)
-
-- Identifica la fuerza gravitacional como la principal responsable de la aceleración — **1 punto**
-- Explica que el peso tiene una componente en el sentido de la bajada — **1 punto**
-- Identifica el roce con el aire y con el pavimento como la fuerza que se opone — **1 punto**
-
-### Pregunta 18 (2 puntos)
-
-- Menciona la convergencia de la placa de Nazca con la Sudamericana y, en el extremo sur, con la Antártica — **1 punto**
-- Relaciona la subducción con la liberación de energía sísmica y la formación de volcanes — **1 punto**
-
-### Pregunta 21 (3 puntos)
-
-- Describe un experimento simple indicando los materiales — **1 punto**
-- Indica qué esperaría observar (el globo se infla más) — **1 punto**
-- Explica la relación con la Ley de Charles: el gas se expande al aumentar la temperatura — **1 punto**
-
-### Pregunta 24 (2 puntos)
-
-- Señala que el agua y el aceite son líquidos no miscibles — **1 punto**
-- Señala la diferencia de densidad: el aceite es menos denso y flota — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Menciona un proceso industrial relevante para Chile, como la minería o el tratamiento de aguas — **1 punto**
-- Describe el método de separación utilizado en ese proceso — **1 punto**
-- Explica para qué sirve ese método dentro del proceso — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
-- **15 preguntas de alternativas** × 1 punto = 15 puntos
-- **6 preguntas de desarrollo breve** (N° 4, 7, 11, 14, 18, 24) × 2 puntos = 12 puntos
-- **4 preguntas de desarrollo extenso** (N° 8, 15, 21, 25) × 3 puntos = 12 puntos
+- **15 preguntas** × 1 punto = 15 puntos
+- **6 preguntas de mayor complejidad** (N° 4, 7, 11, 14, 18, 24) × 2 puntos = 12 puntos
+- **4 preguntas de mayor complejidad** (N° 8, 15, 21, 25) × 3 puntos = 12 puntos
 - **Puntaje total de la prueba: 39 puntos**
 
 ### Distribución de preguntas por Eje y OA
@@ -362,13 +337,13 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4 | 3 | 1 |
-| OA 2 | 5, 6, 7, 8 | 2 | 2 |
-| OA 5 | 9, 10, 11 | 2 | 1 |
-| OA 7 | 12, 13, 14, 15 | 2 | 2 |
-| OA 9 | 16, 17, 18 | 2 | 1 |
-| OA 13 | 19, 20, 21 | 2 | 1 |
-| OA 14 | 22, 23, 24, 25 | 2 | 2 |
-| **Total** | **25 preguntas** | **15** | **10** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 4 |
+| OA 2 | 5, 6, 7, 8 | 4 |
+| OA 5 | 9, 10, 11 | 3 |
+| OA 7 | 12, 13, 14, 15 | 4 |
+| OA 9 | 16, 17, 18 | 3 |
+| OA 13 | 19, 20, 21 | 3 |
+| OA 14 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

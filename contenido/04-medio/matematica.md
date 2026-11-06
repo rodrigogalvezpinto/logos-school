@@ -81,10 +81,10 @@ Un estudiante que quiere financiar un curso técnico compara dos créditos de $1
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es la diferencia clave entre interés simple e interés compuesto?
-a) el interés simple se cobra solo una vez, y el compuesto todos los meses
+a) el interés simple se cobra solo una vez al final del crédito, y el compuesto se cobra todos los meses sobre el capital inicial
 b) el interés compuesto se calcula sobre el capital más los intereses ya acumulados; el simple, siempre sobre el capital inicial
-c) el interés simple es siempre mayor que el compuesto
-d) no hay diferencia, son dos nombres para lo mismo
+c) el interés simple es siempre mayor que el compuesto, porque se calcula sobre el capital más los intereses acumulados
+d) no hay diferencia: son dos nombres para lo mismo, que se usan según el banco que ofrece el crédito
 
 **Respuesta correcta: b).**
 *Retroalimentación:* esa es la diferencia esencial: en el interés compuesto, los intereses generan a su vez nuevos intereses; en el simple, siempre se calculan sobre la misma base (el capital inicial).
@@ -103,42 +103,70 @@ d) $1.000.000
 **Respuesta correcta: a) $960.000.**
 *Retroalimentación:* M = 800.000×(1+0,05×4) = 800.000×1,2 = 960.000; con interés simple, cada año se suman los mismos $40.000 (5% del capital original).
 
-**Pregunta 4 (completar).** La UF es una unidad de cuenta que se reajusta según la variación del ______, y se usa principalmente en contratos de ______ plazo, como los créditos hipotecarios.
+**Pregunta 4 (alternativas — completar).** La UF se reajusta según la variación del ___ y se usa principalmente en contratos de ___ plazo, como los créditos hipotecarios.
+a) IPC; largo
+b) dólar; corto
+c) sueldo mínimo; corto
+d) precio del cobre; largo
 
-**Respuesta esperada:** **IPC** (índice de precios al consumidor); **largo** plazo.
-*Retroalimentación:* al estar indexada a la inflación, la UF protege el valor real del dinero en contratos que duran años, evitando que la inflación erosione lo pactado.
+**Respuesta correcta: a) IPC; largo.**
+*Retroalimentación:* la UF mantiene el valor real frente a la inflación medida por el índice de precios al consumidor.
 
-**Pregunta 5 (desarrollo — interés compuesto).** Un ahorro de $2.000.000 se deposita a una tasa de interés compuesto del 4% anual. Calcula el monto acumulado después de 6 años.
+**Pregunta 5 (alternativas — interés compuesto).** Un ahorro de $2.000.000 se deposita al 4% anual compuesto. ¿Cuál es el monto aproximado a los 6 años?
+a) $2.480.000
+b) ≈ $2.080.000
+c) $2.240.000
+d) ≈ $2.530.638
 
-**Respuesta esperada:** M = 2.000.000×(1,04)⁶ ≈ 2.000.000×1,2653 ≈ **$2.530.600**.
-*Retroalimentación:* con interés compuesto, cada año la base sobre la que se calcula el 4% crece, por lo que el monto no aumenta en una cantidad fija de pesos cada año.
+**Respuesta correcta: d) ≈ $2.530.638.**
+*Retroalimentación:* M = 2.000.000 · (1,04)⁶ ≈ 2.000.000 · 1,2653; $2.480.000 sería con interés simple.
 
-**Pregunta 6 (desarrollo — tasa efectiva).** Una cuenta de ahorro ofrece una tasa nominal anual del 12%, capitalizada trimestralmente (n=4). Calcula la tasa efectiva anual.
+**Pregunta 6 (alternativas — tasa efectiva).** Una cuenta ofrece 12% nominal anual capitalizado trimestralmente. ¿Cuál es la tasa efectiva anual?
+a) 12%
+b) ≈ 12,55%
+c) 3%
+d) 48%
 
-**Respuesta esperada:** TEA = (1+0,12/4)⁴−1 = (1,03)⁴−1 ≈ 1,1255−1 = **0,1255 ≈ 12,55%**.
-*Retroalimentación:* aunque la tasa nominal es 12%, capitalizar 4 veces al año hace que el rendimiento real (efectivo) sea levemente mayor.
+**Respuesta correcta: b) ≈ 12,55%.**
+*Retroalimentación:* TEA = (1 + 0,12/4)⁴ − 1 = (1,03)⁴ − 1 ≈ 0,1255.
 
-**Pregunta 7 (problema en contexto — IPC).** En enero, un kilo de pan cuesta $1.200. Si el IPC acumulado en el año fue de 5%, ¿cuál es el precio estimado del mismo kilo de pan en diciembre, si su precio varió igual que el IPC promedio?
+**Pregunta 7 (alternativas — IPC).** En enero un kilo de pan cuesta $1.200. Si su precio varió igual que el IPC acumulado del año (5%), ¿cuánto cuesta en diciembre?
+a) $1.205
+b) $1.800
+c) $1.140
+d) $1.260
 
-**Respuesta esperada:** 1.200×(1,05) = **$1.260**.
-*Retroalimentación:* el IPC resume la variación promedio de precios de toda una canasta de bienes; un producto específico puede variar más, menos, o distinto que el promedio, pero esta estimación asume que sigue exactamente la variación del IPC.
+**Respuesta correcta: d) $1.260.**
+*Retroalimentación:* 1.200 · 1,05 = 1.260.
 
-**Pregunta 8 (problema en contexto — UF).** Un arriendo se pacta en 15 UF mensuales. Si el valor de la UF ese día es $38.500, ¿cuánto se debe pagar ese mes en pesos?
+**Pregunta 8 (alternativas — UF).** Un arriendo es de 15 UF mensuales y la UF vale $38.500. ¿Cuánto se paga ese mes?
+a) $577.500
+b) $38.515
+c) $2.567
+d) $385.000
 
-**Respuesta esperada:** 15×38.500 = **$577.500**.
-*Retroalimentación:* para convertir un monto en UF a pesos, se multiplica por el valor de la UF vigente ese día; por eso un arriendo pactado en UF varía levemente en pesos de un mes a otro, aunque su valor en UF se mantenga fijo.
+**Respuesta correcta: a) $577.500.**
+*Retroalimentación:* 15 · 38.500 = 577.500.
 
-**Pregunta 9 (comparar — CAE).** Un estudiante compara dos créditos de igual monto y plazo: el Crédito X tiene una tasa de interés anunciada del 10% pero un CAE de 15%; el Crédito Y tiene una tasa anunciada del 12% y un CAE de 13%. ¿Cuál conviene más, y por qué no basta con mirar solo la tasa anunciada?
+**Pregunta 9 (alternativas — comparar CAE).** El Crédito X anuncia 10% de tasa con CAE de 15%; el Y anuncia 12% con CAE de 13%. ¿Cuál conviene y por qué?
+a) El X, porque su tasa anunciada (10%) es menor y refleja todo el costo del crédito
+b) Ambos cuestan lo mismo, porque la diferencia entre la tasa y el CAE se compensa
+c) No se puede saber sin conocer el nombre y el prestigio del banco que ofrece cada uno
+d) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa anunciada no considera
 
-**Respuesta esperada:** conviene el **Crédito Y**, porque su CAE (13%) es menor que el del Crédito X (15%). No basta con mirar la tasa anunciada porque esta no incluye comisiones, seguros u otros cargos asociados al crédito; el CAE sí los incorpora, por lo que refleja mejor el costo real total.
-*Retroalimentación:* comparar créditos únicamente por su tasa de interés nominal puede llevar a decisiones equivocadas; el CAE existe precisamente para hacer comparables ofertas que estructuran sus costos de forma distinta.
+**Respuesta correcta: d) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa anunciada no considera.**
+*Retroalimentación:* el CAE refleja mejor el costo real total del crédito.
 
-**Pregunta 10 (desarrollo — evaluar alternativas de ahorro).** Un joven tiene $300.000 para ahorrar durante 2 años y debe elegir entre la Opción A (interés simple del 8% anual) y la Opción B (interés compuesto del 7% anual). Calcula el monto final de cada una y determina cuál conviene.
+**Pregunta 10 (alternativas — evaluar alternativas de ahorro).** Para ahorrar $300.000 durante 2 años: A paga 8% anual simple y B, 7% anual compuesto. ¿Cuál conviene?
+a) B: ≈ $343.470 frente a $348.000 de A
+b) A: $348.000 frente a ≈ $343.470 de B
+c) Ambas dan exactamente lo mismo
+d) B, porque el interés compuesto siempre gana
 
-**Respuesta esperada:** A: M = 300.000×(1+0,08×2) = 300.000×1,16 = **$348.000**. B: M = 300.000×(1,07)² = 300.000×1,1449 ≈ **$343.470**. **Conviene la Opción A**, porque a pesar de tener una tasa menor a la vista, el plazo (2 años) es demasiado corto para que el interés compuesto de la Opción B alcance a superar al simple con mayor tasa.
-*Retroalimentación:* el interés compuesto solo supera claramente al simple en plazos largos; en plazos cortos, una tasa simple más alta puede ser más conveniente. Por eso siempre conviene calcular ambos casos concretos, no asumir cuál es "mejor" en abstracto.
+**Respuesta correcta: b) A: $348.000 frente a ≈ $343.470 de B.**
+*Retroalimentación:* A: 300.000 · 1,16; B: 300.000 · (1,07)²; en un plazo corto, la mayor tasa simple supera al compuesto.
 
-**Pregunta 11 (leer datos — tabla de créditos).** Un estudiante recibe esta información de tres créditos para financiar un curso de $1.500.000:
+**Pregunta 11 (alternativas — tabla de créditos).** Para un curso de $1.500.000:
 
 | Crédito | Tasa anunciada | CAE |
 |---|---|---|
@@ -146,45 +174,73 @@ d) $1.000.000
 | Q | 10% | 10,5% |
 | R | 8,5% | 12,0% |
 
-¿Cuál crédito conviene elegir, y cuál sería un error común al leer esta tabla?
+¿Cuál conviene y qué error es común?
+a) Conviene R, por su tasa anunciada más baja; el error común es fijarse en el CAE
+b) Conviene P, porque su tasa y su CAE están al medio entre las tres opciones
+c) Conviene Q (menor CAE); el error común es elegir R por su tasa anunciada más baja
+d) Todos cuestan lo mismo, porque el monto del curso es igual para los tres
 
-**Respuesta esperada:** conviene el **Crédito Q**, porque tiene el menor CAE (10,5%), aunque no tenga la tasa anunciada más baja. Un **error común** sería elegir el Crédito R por tener la tasa anunciada más baja (8,5%), sin notar que su CAE —el costo real total— es en realidad el más alto de los tres.
-*Retroalimentación:* esta pregunta ilustra por qué el CAE es el indicador que se debe comparar al decidir, y no la tasa de interés anunciada, que muchas veces subestima el costo real de un crédito.
+**Respuesta correcta: c) Conviene Q (menor CAE); el error común es elegir R por su tasa anunciada más baja.**
+*Retroalimentación:* el CAE de R es el más alto de los tres.
 
-**Pregunta 12 (calcular — ajustar el plazo).** Un capital de $600.000 se invierte a interés compuesto del 5% anual. ¿Cuánto tiempo aproximado (en años enteros) se necesita para que el monto supere $700.000?
+**Pregunta 12 (alternativas — ajustar el plazo).** Un capital de $600.000 se invierte al 5% anual compuesto. ¿Cuántos años enteros se necesitan para superar $700.000?
+a) 2 años
+b) 3 años
+c) 4 años
+d) 5 años
 
-**Respuesta esperada:** probando: t=1 → 630.000; t=2 → 661.500; t=3 → 694.575; t=4 → 729.304. Se necesitan **4 años** para superar los $700.000.
-*Retroalimentación:* "ajustar" un modelo financiero muchas veces significa evaluarlo para distintos valores de un parámetro (aquí, el tiempo) hasta encontrar el que cumple la condición buscada.
+**Respuesta correcta: c) 4 años.**
+*Retroalimentación:* t = 3 da $694.575 (aún bajo $700.000) y t = 4 da ≈ $729.304.
 
 **Pregunta 13 (verdadero o falso).** El CAE permite comparar el costo real de dos créditos, incluso si tienen plazos distintos, porque expresa el costo como una tasa anual equivalente.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* al expresarse como una tasa anual, el CAE permite comparar créditos aunque difieran en plazo, monto o estructura de cobros, algo que la tasa de interés simple anunciada no siempre permite hacer de forma directa.
 
-**Pregunta 14 (problema no rutinario — inflación y poder adquisitivo).** El sueldo de una persona era de $500.000 mensuales hace un año y hoy es de $520.000. En ese mismo período, el IPC acumulado fue de 6%. ¿Aumentó, se mantuvo, o disminuyó el poder adquisitivo real de esta persona? Justifica con un cálculo.
+**Pregunta 14 (alternativas — poder adquisitivo).** Un sueldo pasó de $500.000 a $520.000 en un año, con IPC acumulado de 6%. ¿Qué ocurrió con el poder adquisitivo real?
+a) Aumentó, porque el sueldo subió $20.000
+b) Se mantuvo igual, porque el sueldo y los precios subieron
+c) Aumentó un 10%, porque se suman el 4% y el 6%
+d) Disminuyó, porque el sueldo subió 4% y los precios 6%
 
-**Respuesta esperada:** el sueldo aumentó un 520.000/500.000 − 1 = **4%**, mientras que los precios (IPC) aumentaron un **6%**. Como el aumento del sueldo (4%) fue **menor** que la inflación (6%), el poder adquisitivo real **disminuyó**: con el nuevo sueldo se pueden comprar menos bienes y servicios que antes, en términos reales.
-*Retroalimentación:* comparar el aumento nominal de un sueldo con la inflación del mismo período es la forma correcta de saber si una persona realmente "ganó" poder de compra o no; un aumento nominal no siempre es un aumento real.
+**Respuesta correcta: d) Disminuyó, porque el sueldo subió 4% y los precios 6%.**
+*Retroalimentación:* 520.000/500.000 − 1 = 4%, menos que la inflación.
 
-**Pregunta 15 (desarrollo — comparar tasa nominal vs. efectiva de dos ofertas).** Dos bancos ofrecen depósitos a plazo con tasa nominal anual de 10%: el Banco A capitaliza mensualmente (n=12) y el Banco B capitaliza semestralmente (n=2). ¿Cuál conviene más para depositar dinero, y por qué?
+**Pregunta 15 (alternativas — tasa nominal y efectiva).** Dos bancos ofrecen 10% nominal anual: A capitaliza mensualmente y B semestralmente. ¿Cuál conviene para depositar?
+a) B: TEA ≈ 10,47% frente a 10,25% de A
+b) A: TEA ≈ 10,47% frente a 10,25% de B
+c) Ambos dan 10%
+d) No se puede comparar
 
-**Respuesta esperada:** Banco A: TEA = (1+0,10/12)¹²−1 ≈ 10,47%. Banco B: TEA = (1+0,10/2)²−1 = (1,05)²−1 = 10,25%. **Conviene el Banco A**, porque su capitalización más frecuente genera una tasa efectiva anual mayor, aunque ambos anuncien la misma tasa nominal.
-*Retroalimentación:* al ahorrar (a diferencia de al pedir un crédito), una mayor frecuencia de capitalización beneficia a quien deposita el dinero, porque los intereses empiezan a generar nuevos intereses antes.
+**Respuesta correcta: b) A: TEA ≈ 10,47% frente a 10,25% de B.**
+*Retroalimentación:* la capitalización más frecuente genera una tasa efectiva mayor.
 
-**Pregunta 16 (problema en contexto — evaluar decisión de crédito hipotecario).** Una familia evalúa un crédito hipotecario en UF, con una tasa de interés anual de 4,5% sobre un monto de 2.000 UF a 20 años. Si el valor de la UF hoy es $38.000 y se espera que crezca aproximadamente con la inflación, ¿por qué se dice que este tipo de crédito "traspasa" el riesgo de inflación al deudor en lugar de al banco?
+**Pregunta 16 (alternativas — crédito hipotecario en UF).** ¿Por qué un crédito hipotecario en UF "traspasa" el riesgo de inflación al deudor?
+a) Porque la UF baja cuando sube la inflación, y el deudor debe pagar más cuotas para compensar
+b) Porque el banco asume todas las pérdidas por inflación, y el deudor paga siempre la misma cantidad de pesos durante todo el crédito
+c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su valor en pesos aunque el deudor no gane más
+d) Porque la UF no tiene relación con los precios
 
-**Respuesta esperada:** porque la deuda está expresada en **UF**, que se reajusta automáticamente según el IPC. Si la inflación sube, el valor en pesos de la UF (y por lo tanto de la deuda pendiente) también sube, independientemente de lo que gane el deudor; es el deudor quien asume ese riesgo, mientras que el banco mantiene protegido el valor real de lo prestado.
-*Retroalimentación:* entender que un crédito en UF no es "más barato" solo porque su tasa de interés nominal parece baja es clave: hay que sumar el efecto del reajuste por inflación para conocer el costo real a lo largo de un plazo largo, como 20 años.
+**Respuesta correcta: c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su valor en pesos aunque el deudor no gane más.**
+*Retroalimentación:* el banco mantiene protegido el valor real de lo prestado.
 
-**Pregunta 17 (calcular — comparar simple y compuesto a mayor plazo).** Repite el cálculo del Ejemplo 1 (capital $500.000, tasa 6% anual) pero para un plazo de 15 años. Calcula ambos montos y compara la diferencia con la obtenida a 3 años.
+**Pregunta 17 (alternativas — simple y compuesto a mayor plazo).** Con capital $500.000 al 6% anual, a 15 años, ¿cuáles son los montos con interés simple y compuesto?
+a) Simple $950.000; compuesto ≈ $1.198.279 (diferencia ≈ $248.279)
+b) Simple ≈ $1.198.279; compuesto $950.000 (diferencia ≈ $248.279)
+c) Ambos $950.000
+d) Simple $590.000; compuesto ≈ $595.508 (diferencia ≈ $5.508)
 
-**Respuesta esperada:** Simple: M = 500.000×(1+0,06×15) = 500.000×1,9 = **$950.000**. Compuesto: M = 500.000×(1,06)¹⁵ ≈ 500.000×2,3966 ≈ **$1.198.300**. La diferencia ahora es de casi **$248.300**, mucho mayor que los ≈$5.508 obtenidos a 3 años.
-*Retroalimentación:* la brecha entre interés simple y compuesto crece de forma acelerada con el tiempo, porque el compuesto genera intereses sobre intereses; en plazos largos (como un crédito hipotecario a 20 o 30 años), esa diferencia es enorme.
+**Respuesta correcta: a) Simple $950.000; compuesto ≈ $1.198.279 (diferencia ≈ $248.279).**
+*Retroalimentación:* a 3 años la diferencia era de solo ≈ $5.508: el compuesto se aleja cada vez más con el tiempo.
 
-**Pregunta 18 (problema no rutinario — fundamentar una decisión completa).** Un joven de 18 años recibe $1.000.000 y debe decidir entre: (A) gastarlo ahora, (B) ahorrarlo 5 años a interés compuesto del 6% anual, o (C) invertirlo en un fondo con retorno esperado de 9% anual pero con riesgo de pérdida. Redacta un argumento breve (2-3 ideas) sobre qué información adicional necesitaría para fundamentar esta decisión, más allá de solo comparar las tasas.
+**Pregunta 18 (varias correctas — fundamentar una decisión).** Un joven con $1.000.000 duda entre gastarlo, ahorrar 5 años al 6% compuesto o invertir en un fondo con retorno esperado de 9% y riesgo de pérdida. ¿Qué información adicional es pertinente? Marca **todas** las correctas.
+a) Si tiene necesidades de liquidez a corto plazo
+b) Qué nivel de riesgo está dispuesto a asumir
+c) El efecto de la inflación proyectada sobre el poder adquisitivo de cada alternativa
+d) El color del logo del banco
 
-**Respuesta esperada (abierta, ejemplo de buena respuesta):** además de las tasas, se necesitaría saber: (1) si el joven tiene alguna necesidad de liquidez a corto plazo (gastar ahora podría ser necesario, o ahorrar podría implicar no poder usar el dinero si surge una emergencia); (2) el nivel de riesgo que está dispuesto a asumir, ya que la opción C tiene mayor retorno esperado pero también posibilidad de pérdida, a diferencia de B; (3) el efecto de la inflación proyectada sobre el poder adquisitivo real de cada alternativa en 5 años.
-*Retroalimentación:* fundamentar una decisión financiera no es solo comparar números: implica considerar el contexto personal (necesidad de liquidez), la tolerancia al riesgo, y el efecto de la inflación sobre el resultado final; esta es exactamente la habilidad que evalúa este Objetivo de Aprendizaje.
+**Respuesta correcta: a, b y c.**
+*Retroalimentación:* una decisión financiera se fundamenta en algo más que comparar tasas.
 
 ---
 
@@ -260,52 +316,80 @@ d) f(x) = 5ˣ
 **Pregunta 3 (calcular).** Si f(x) = 4x³, ¿cuál es el valor de f(3)?
 a) 12
 b) 36
-c) 108
-d) 64
+c) 64
+d) 108
 
-**Respuesta correcta: c) 108.**
+**Respuesta correcta: d) 108.**
 *Retroalimentación:* f(3) = 4×3³ = 4×27 = 108.
 
-**Pregunta 4 (completar).** En el modelo f(x) = A·sen(B(x−C))+D, el parámetro A se llama ______ y determina cuánto se aleja el valor de la función respecto al ______, representado por el parámetro D.
+**Pregunta 4 (alternativas — completar).** En f(x) = A·sen(B(x − C)) + D, el parámetro A se llama ___ y mide cuánto se aleja la función respecto del ___ (parámetro D).
+a) período; desfase
+b) desfase; período
+c) valor medio; amplitud
+d) amplitud; valor medio
 
-**Respuesta esperada:** **amplitud**; **valor medio** (o valor central).
-*Retroalimentación:* la amplitud A indica el "alcance" de la oscilación hacia arriba y hacia abajo desde el valor medio D; el valor de la función siempre queda entre D−A y D+A.
+**Respuesta correcta: d) amplitud; valor medio.**
+*Retroalimentación:* la amplitud es la distancia máxima respecto del valor central.
 
-**Pregunta 5 (desarrollo — período).** Un modelo periódico está dado por f(x) = 5·sen(2x). Calcula su período.
+**Pregunta 5 (alternativas — período).** ¿Cuál es el período de f(x) = 5·sen(2x)?
+a) 2π
+b) π
+c) 5
+d) 4π
 
-**Respuesta esperada:** T = 2π/B = 2π/2 = **π** (aproximadamente 3,14 unidades de x por ciclo).
-*Retroalimentación:* mientras mayor es B, más rápido se repite el ciclo, es decir, menor es el período; ambos son inversamente proporcionales.
+**Respuesta correcta: b) π.**
+*Retroalimentación:* T = 2π/B = 2π/2.
 
-**Pregunta 6 (desarrollo — potencia negativa en contexto).** La fuerza de atracción gravitacional entre dos objetos sigue aproximadamente F(d) = k/d², donde d es la distancia entre ellos. Si a una distancia de 3 unidades la fuerza es de 20 N, ¿cuál es aproximadamente la fuerza a una distancia de 6 unidades (el doble)?
+**Pregunta 6 (alternativas — potencia negativa).** Con F(d) = k/d², a 3 unidades la fuerza es 20 N. ¿Cuál es la fuerza a 6 unidades?
+a) 10 N
+b) 40 N
+c) 5 N
+d) 80 N
 
-**Respuesta esperada:** al duplicar la distancia, la fuerza se divide por 2²=4 (por el exponente −2): F ≈ 20/4 = **5 N**.
-*Retroalimentación:* en un modelo con exponente −2, duplicar la variable independiente no reduce el resultado a la mitad, sino a un cuarto; esta es la conocida "ley del inverso del cuadrado", presente en luz, sonido y gravedad.
+**Respuesta correcta: c) 5 N.**
+*Retroalimentación:* al duplicar la distancia, la fuerza se divide por 2² = 4.
 
-**Pregunta 7 (problema en contexto — mareas).** La altura de la marea en una caleta chilena se modela como h(t) = 1,5·sen((π/6)t) + 3 (metros, t en horas desde la medianoche). Calcula la altura máxima, la altura mínima, y el período del ciclo de mareas.
+**Pregunta 7 (alternativas — mareas).** La marea se modela como h(t) = 1,5·sen((π/6)t) + 3 (m, t en horas). ¿Cuáles son la altura máxima, la mínima y el período?
+a) 4,5 m; 1,5 m; 12 horas
+b) 3 m; 1,5 m; 6 horas
+c) 4,5 m; 0 m; 12 horas
+d) 1,5 m; −1,5 m; 2π horas
 
-**Respuesta esperada:** altura máxima = D+A = 3+1,5 = **4,5 m**; altura mínima = D−A = 3−1,5 = **1,5 m**; período T = 2π/(π/6) = **12 horas**.
-*Retroalimentación:* en un modelo A·sen(Bt)+D, el máximo y el mínimo se obtienen sumando y restando la amplitud al valor medio, sin necesidad de evaluar la función; el período se calcula directamente de B.
+**Respuesta correcta: a) 4,5 m; 1,5 m; 12 horas.**
+*Retroalimentación:* máximo D + A, mínimo D − A, T = 2π/(π/6) = 12.
 
-**Pregunta 8 (desarrollo — construir modelo desde datos).** Un péndulo oscila de modo que su posición horizontal x(t) (cm) varía entre −10 cm y 10 cm, completando un ciclo cada 4 segundos, comenzando en x=0 y moviéndose inicialmente hacia el lado positivo. Escribe un modelo trigonométrico x(t) adecuado.
+**Pregunta 8 (alternativas — construir modelo).** Un péndulo oscila entre −10 y 10 cm con un ciclo cada 4 s, partiendo de 0 hacia el lado positivo. ¿Qué modelo es adecuado?
+a) x(t) = 10·sen(4t)
+b) x(t) = 4·sen(10t)
+c) x(t) = 10·cos((π/2)t)
+d) x(t) = 10·sen((π/2)t)
 
-**Respuesta esperada:** amplitud A=10; valor medio D=0 (oscila simétricamente); período T=4, por lo tanto B=2π/T=2π/4=π/2; como parte en 0 y sube, se usa seno sin desfase: **x(t) = 10·sen((π/2)t)**.
-*Retroalimentación:* construir un modelo periódico consiste en "leer" del enunciado los cuatro parámetros —amplitud (extensión de la oscilación), valor medio (centro), período (duración de un ciclo, que da B), y desfase (punto de partida, que decide entre seno o coseno y si hay corrimiento horizontal)—.
+**Respuesta correcta: d) x(t) = 10·sen((π/2)t).**
+*Retroalimentación:* A = 10, D = 0, B = 2π/4 = π/2; parte en 0 y sube, por eso seno sin desfase (el coseno partiría en 10).
 
-**Pregunta 9 (comparar — variar el exponente).** Compara los modelos f(x)=x² y g(x)=x³ para valores de x mayores que 1. ¿Cuál crece más rápido a medida que x aumenta, y qué ocurre para valores de x entre 0 y 1?
+**Pregunta 9 (alternativas — variar el exponente).** ¿Qué afirmación sobre f(x) = x² y g(x) = x³ es correcta?
+a) g siempre es mayor que f, para cualquier valor positivo de x
+b) Para x > 1, g crece más rápido; para 0 < x < 1, g es menor que f
+c) f siempre es mayor que g, porque el cuadrado crece más rápido
+d) Son iguales para todo x, porque ambas son funciones potencia
 
-**Respuesta esperada:** para **x>1**, g(x)=x³ **crece más rápido** que f(x)=x² (por ejemplo, en x=4: f=16, g=64). Sin embargo, para **0<x<1**, ocurre lo contrario: g(x)=x³ es **menor** que f(x)=x² (por ejemplo, en x=0,5: f=0,25, g=0,125), porque multiplicar un número entre 0 y 1 por sí mismo una vez más lo hace aún más pequeño.
-*Retroalimentación:* comparar exponentes no tiene una respuesta única para "todo x": el comportamiento relativo entre dos funciones potencia puede invertirse según si x es mayor o menor que 1, un punto que suele generar errores si no se verifica con casos concretos.
+**Respuesta correcta: b) Para x > 1, g crece más rápido; para 0 < x < 1, g es menor que f.**
+*Retroalimentación:* en x = 4: f = 16 y g = 64; en x = 0,5: f = 0,25 y g = 0,125.
 
-**Pregunta 10 (leer datos — identificar el exponente).** Una tabla muestra cómo varía el volumen V de una serie de cubos según la longitud L de su arista: L=1→V=1; L=2→V=8; L=3→V=27; L=4→V=64. ¿Qué función potencia f(L)=a·Lⁿ describe esta relación?
+**Pregunta 10 (alternativas — identificar el exponente).** El volumen de cubos según su arista: L = 1 → 1; L = 2 → 8; L = 3 → 27; L = 4 → 64. ¿Qué función describe la relación?
+a) f(L) = 3L
+b) f(L) = L²
+c) f(L) = L³
+d) f(L) = 2ᴸ
 
-**Respuesta esperada:** los valores corresponden exactamente a L³ (1³=1, 2³=8, 3³=27, 4³=64), por lo tanto **f(L) = L³** (con a=1, n=3).
-*Retroalimentación:* reconocer el exponente n a partir de una tabla se puede hacer probando si los valores corresponden a elevar la variable independiente al cuadrado, al cubo, u otra potencia; en este caso corresponde exactamente a la fórmula del volumen de un cubo.
+**Respuesta correcta: c) f(L) = L³.**
+*Retroalimentación:* 1³, 2³, 3³ y 4³ coinciden exactamente.
 
 **Pregunta 11 (alternativas — coseno vs. seno).** ¿Cuál es la diferencia principal entre los modelos f(x)=A·sen(Bx) y g(x)=A·cos(Bx), ambos con el mismo valor medio D=0?
-a) tienen distinta amplitud
-b) tienen distinto período
+a) tienen distinta amplitud: el coseno alcanza valores más altos que el seno
+b) tienen distinto período: el coseno completa su ciclo en la mitad del tiempo
 c) representan el mismo tipo de oscilación, pero con distinto punto de partida (desfase)
-d) el coseno no puede modelar fenómenos periódicos
+d) el coseno no puede modelar fenómenos periódicos, porque comienza en su máximo
 
 **Respuesta correcta: c).**
 *Retroalimentación:* sen(x) parte en 0 (el valor medio) y sube; cos(x) parte en el valor máximo (A); ambas curvas tienen la misma forma, solo que una está desplazada horizontalmente respecto a la otra.
@@ -315,35 +399,59 @@ d) el coseno no puede modelar fenómenos periódicos
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* es un error común confundir ambos tipos de modelo por su forma "parecida"; la diferencia clave y definitoria es dónde está la variable: en la base (potencia) o en el exponente (exponencial), lo que produce comportamientos muy distintos a largo plazo.
 
-**Pregunta 13 (calcular — desfase).** Un modelo de temperatura diaria es T(h) = 6·sen((π/12)(h−9)) + 18 (°C, h=hora del día, 0 a 24). ¿A qué hora ocurre aproximadamente la temperatura máxima?
+**Pregunta 13 (alternativas — desfase).** La temperatura diaria es T(h) = 6·sen((π/12)(h − 9)) + 18. ¿A qué hora ocurre la máxima?
+a) A las 15:00
+b) A las 9:00
+c) A las 12:00
+d) A las 21:00
 
-**Respuesta esperada:** el máximo de sen ocurre cuando su argumento es π/2, es decir cuando (π/12)(h−9) = π/2 → (h−9)=6 → **h=15 (15:00 horas, 3 PM)**.
-*Retroalimentación:* el desfase C (aquí, 9) desplaza horizontalmente el ciclo completo; encontrar el máximo requiere ubicar cuándo el argumento del seno alcanza π/2 (donde sen vale 1), no simplemente leer el valor de C directamente.
+**Respuesta correcta: a) A las 15:00.**
+*Retroalimentación:* el máximo del seno ocurre cuando (π/12)(h − 9) = π/2, es decir, h = 15.
 
-**Pregunta 14 (desarrollo — potencia y escalamiento).** El costo de fabricar una plancha de metal cuadrada de lado L sigue el modelo C(L) = 25·L² (en miles de pesos). Si se decide fabricar una plancha con el doble de lado, ¿en qué factor aumenta el costo? Justifica sin calcular valores específicos.
+**Pregunta 14 (alternativas — escalamiento).** El costo de una plancha cuadrada es C(L) = 25·L². Si se duplica el lado, ¿en qué factor aumenta el costo?
+a) 2
+b) 25
+c) 50
+d) 4
 
-**Respuesta esperada:** el costo aumenta en un factor de **4**, porque C(2L) = 25×(2L)² = 25×4L² = 4×(25L²) = 4×C(L); al duplicar la variable de un modelo de potencia con exponente 2, el resultado se multiplica por 2²=4.
-*Retroalimentación:* en un modelo de potencia f(x)=a·xⁿ, multiplicar x por un factor k multiplica el resultado por kⁿ; esta propiedad permite razonar sobre cómo cambia un modelo sin tener que recalcular todo desde cero.
+**Respuesta correcta: d) 4.**
+*Retroalimentación:* C(2L) = 25·(2L)² = 4·C(L).
 
-**Pregunta 15 (problema en contexto — comparar modelo periódico con no periódico).** Un analista debe elegir un modelo para dos situaciones: (1) el número de horas de luz solar en Santiago a lo largo del año, y (2) el crecimiento de una inversión a interés compuesto. ¿Qué tipo de modelo (potencia, exponencial, o trigonométrico periódico) es más adecuado para cada una, y por qué?
+**Pregunta 15 (alternativas — elegir modelo).** ¿Qué modelos son adecuados para (1) las horas de luz solar en Santiago a lo largo del año y (2) una inversión a interés compuesto?
+a) (1) exponencial creciente; (2) trigonométrico periódico
+b) (1) trigonométrico periódico; (2) exponencial
+c) Ambos lineales
+d) (1) potencia; (2) trigonométrico periódico
 
-**Respuesta esperada:** para (1), horas de luz solar a lo largo del año, corresponde un modelo **trigonométrico periódico** (seno o coseno), porque el fenómeno se repite cíclicamente cada 12 meses (más horas de luz en verano, menos en invierno, y vuelve a repetirse). Para (2), el crecimiento de una inversión a interés compuesto, corresponde un modelo **exponencial**, porque el monto no oscila, sino que crece indefinidamente y de forma acelerada mientras más tiempo pasa.
-*Retroalimentación:* reconocer si un fenómeno se repite en ciclos (periódico) o crece/decrece sin repetirse (exponencial o potencia) es el primer paso —y el más importante— para elegir correctamente el tipo de modelo matemático a aplicar.
+**Respuesta correcta: b) (1) trigonométrico periódico; (2) exponencial.**
+*Retroalimentación:* la luz solar se repite cada 12 meses; la inversión crece de forma acelerada sin oscilar.
 
-**Pregunta 16 (desarrollo — variar amplitud y valor medio).** Compara los modelos f(x)=2·sen(x)+10 y g(x)=5·sen(x)+10. Sin graficar, indica entre qué valores oscila cada uno y cuál tiene mayor variación.
+**Pregunta 16 (alternativas — amplitud y valor medio).** ¿Entre qué valores oscilan f(x) = 2·sen(x) + 10 y g(x) = 5·sen(x) + 10, y cuál varía más?
+a) f entre 5 y 15; g entre 8 y 12; f varía más
+b) Ambos entre 8 y 12
+c) f entre 8 y 12; g entre 5 y 15; g varía más
+d) Ambos entre 10 y 15
 
-**Respuesta esperada:** f(x) oscila entre 10−2=**8** y 10+2=**12**. g(x) oscila entre 10−5=**5** y 10+5=**15**. **g(x) tiene mayor variación** (rango de 10 unidades, entre 5 y 15) que f(x) (rango de 4 unidades, entre 8 y 12), porque su amplitud (5) es mayor que la de f (2), aunque ambos compartan el mismo valor medio (10).
-*Retroalimentación:* la amplitud es el parámetro que controla directamente cuánto se "abre" la oscilación alrededor del valor medio; dos modelos pueden compartir el mismo centro y diferir mucho en su rango de variación.
+**Respuesta correcta: c) f entre 8 y 12; g entre 5 y 15; g varía más.**
+*Retroalimentación:* comparten el valor medio 10, pero g tiene mayor amplitud.
 
-**Pregunta 17 (problema no rutinario — construir y comparar con datos reales).** Un estudiante registra la profundidad del agua en un muelle cada 3 horas durante un día: 0h→2,0 m; 3h→3,2 m; 6h→2,0 m; 9h→0,8 m; 12h→2,0 m. ¿Es razonable modelar estos datos con una función trigonométrica? Estima la amplitud, el valor medio y el período aproximado.
+**Pregunta 17 (alternativas — datos reales).** La profundidad en un muelle cada 3 h es: 0 h → 2,0; 3 h → 3,2; 6 h → 2,0; 9 h → 0,8; 12 h → 2,0 m. ¿Es razonable un modelo trigonométrico y con qué parámetros?
+a) Sí: valor medio ≈ 2,0 m, amplitud ≈ 1,2 m y período ≈ 12 h
+b) No: los datos no se repiten
+c) Sí: valor medio 3,2 m, amplitud 2,4 m y período 3 h
+d) Sí: valor medio 0,8 m, amplitud 2 m y período 6 h exactas
 
-**Respuesta esperada:** **sí es razonable**, porque los valores suben y bajan de forma simétrica alrededor de un valor central, y el patrón sugiere que se repetirá (a las 12h vuelve al mismo valor que a las 0h). Valor medio D ≈ (3,2+0,8)/2 = **2,0 m**; amplitud A ≈ 3,2−2,0 = **1,2 m**; el ciclo parece completarse en **12 horas** (de 0h a 12h vuelve al mismo valor y tendencia), consistente con un ciclo típico de marea semidiurna.
-*Retroalimentación:* antes de ajustar los parámetros exactos de un modelo trigonométrico a partir de datos, conviene primero verificar que el patrón sea efectivamente oscilatorio (sube y baja de forma repetida alrededor de un centro), y estimar visualmente el valor medio, la amplitud y el período aproximado.
+**Respuesta correcta: a) Sí: valor medio ≈ 2,0 m, amplitud ≈ 1,2 m y período ≈ 12 h.**
+*Retroalimentación:* los valores oscilan simétricamente en torno a 2,0 m, como una marea semidiurna.
 
-**Pregunta 18 (calcular — exponente negativo aplicado a intensidad de sonido).** La intensidad de un sonido sigue I(d) = 500/d² (unidades relativas), donde d es la distancia en metros. ¿A qué distancia la intensidad se reduce a 5 (unidades relativas)?
+**Pregunta 18 (alternativas — intensidad de sonido).** Con I(d) = 500/d², ¿a qué distancia la intensidad baja a 5?
+a) 100 m
+b) 50 m
+c) 10 m
+d) √5 m
 
-**Respuesta esperada:** 500/d² = 5 → d² = 500/5 = 100 → d = **10 metros**.
-*Retroalimentación:* al despejar la variable independiente en un modelo de potencia con exponente negativo, se debe "invertir" la operación aplicando la raíz correspondiente al valor absoluto del exponente (aquí, raíz cuadrada, porque el exponente es −2).
+**Respuesta correcta: c) 10 m.**
+*Retroalimentación:* 500/d² = 5 → d² = 100.
 
 ---
 
@@ -424,80 +532,136 @@ d) 2
 **Respuesta correcta: c) 4.**
 *Retroalimentación:* la media de un modelo binomial es μ=n×p = 8×0,5 = 4.
 
-**Pregunta 4 (completar).** El modelo binomial se aplica a variables ______ (que se cuentan), mientras que el modelo normal se aplica a variables ______ (que se miden en una escala continua).
+**Pregunta 4 (alternativas — completar).** El modelo binomial se aplica a variables ___ y el normal a variables ___.
+a) continuas; discretas
+b) discretas; continuas
+c) cualitativas; nominales
+d) aleatorias; fijas
 
-**Respuesta esperada:** **discretas**; **continuas**.
-*Retroalimentación:* esta distinción —contar éxitos en ensayos discretos vs. medir una magnitud continua— es el primer criterio para decidir qué modelo usar frente a una situación nueva.
+**Respuesta correcta: b) discretas; continuas.**
+*Retroalimentación:* el binomial cuenta resultados y el normal mide en una escala continua.
 
-**Pregunta 5 (desarrollo — calcular probabilidad binomial).** Un vendedor tiene una probabilidad de 0,3 de cerrar una venta en cada visita a un cliente. Si realiza 4 visitas, calcula la probabilidad de que cierre exactamente 2 ventas.
+**Pregunta 5 (alternativas — probabilidad binomial).** Un vendedor cierra una venta con probabilidad 0,3 por visita. En 4 visitas, ¿cuál es la probabilidad de cerrar exactamente 2?
+a) 0,09
+b) 0,6
+c) ≈ 0,2646
+d) ≈ 0,0441
 
-**Respuesta esperada:** n=4, p=0,3, k=2. C(4,2)=6. P(X=2)=6×(0,3)²×(0,7)²=6×0,09×0,49≈**0,2646 (26,46%)**.
-*Retroalimentación:* el factor combinatorio C(n,k) cuenta de cuántas formas distintas se pueden ordenar los k éxitos entre los n ensayos (por ejemplo, cuáles 2 de las 4 visitas fueron exitosas), y se multiplica por la probabilidad de cada una de esas secuencias específicas.
+**Respuesta correcta: c) ≈ 0,2646.**
+*Retroalimentación:* C(4,2) · 0,3² · 0,7² = 6 · 0,09 · 0,49; 0,0441 olvida el coeficiente C(4,2).
 
-**Pregunta 6 (desarrollo — media y varianza binomial).** En un proceso de control de calidad, la probabilidad de que un producto tenga un defecto es 0,05. Se revisan 200 productos. Calcula el número esperado de productos defectuosos y la desviación estándar.
+**Pregunta 6 (alternativas — media y desviación binomial).** La probabilidad de defecto es 0,05 y se revisan 200 productos. ¿Cuántos defectuosos se esperan y cuál es la desviación estándar?
+a) 10 y ≈ 3,08
+b) 10 y 9,5
+c) 5 y ≈ 2,24
+d) 190 y ≈ 3,08
 
-**Respuesta esperada:** μ = n×p = 200×0,05 = **10 productos defectuosos esperados**. σ² = n×p×(1−p) = 200×0,05×0,95 = 9,5. σ = √9,5 ≈ **3,08**.
-*Retroalimentación:* incluso conociendo el valor esperado (10), la desviación estándar indica cuánta variación es "normal" alrededor de ese valor esperado en distintos lotes de 200 productos.
+**Respuesta correcta: a) 10 y ≈ 3,08.**
+*Retroalimentación:* μ = 200 · 0,05; σ = √(200 · 0,05 · 0,95) = √9,5 (9,5 es la varianza).
 
-**Pregunta 7 (problema en contexto — regla empírica).** El tiempo de reacción de los conductores ante una señal de alerta se distribuye normalmente con media μ=0,8 segundos y desviación estándar σ=0,1 segundos. ¿Entre qué valores se encuentra el tiempo de reacción del 95% de los conductores, aproximadamente?
+**Pregunta 7 (alternativas — regla empírica).** El tiempo de reacción es normal con μ = 0,8 s y σ = 0,1 s. ¿Entre qué valores está aproximadamente el 95% de los conductores?
+a) Entre 0,7 y 0,9 s
+b) Entre 0,5 y 1,1 s
+c) Entre 0 y 0,8 s
+d) Entre 0,6 y 1,0 s
 
-**Respuesta esperada:** μ±2σ = 0,8±0,2, es decir, entre **0,6 y 1,0 segundos**.
-*Retroalimentación:* aplicar la regla empírica no requiere calcular nada más que sumar y restar 2 veces la desviación estándar a la media, siempre que los datos sigan (al menos aproximadamente) una distribución normal.
+**Respuesta correcta: d) Entre 0,6 y 1,0 s.**
+*Retroalimentación:* μ ± 2σ; 0,7–0,9 corresponde a μ ± σ (≈ 68%).
 
-**Pregunta 8 (problema en contexto — elegir modelo y justificar).** Una farmacéutica estudia dos variables: (1) si cada paciente de un ensayo clínico presenta o no un efecto secundario (sí/no), evaluado en 50 pacientes; (2) la presión arterial sistólica (en mmHg) de esos mismos 50 pacientes. ¿Qué modelo es más adecuado para cada variable?
+**Pregunta 8 (alternativas — elegir modelo).** En un ensayo con 50 pacientes se estudia (1) si cada uno presenta o no un efecto secundario y (2) su presión arterial sistólica. ¿Qué modelos corresponden?
+a) (1) normal; (2) binomial
+b) (1) binomial; (2) normal
+c) Ambos binomiales
+d) Ambos normales
 
-**Respuesta esperada:** (1) corresponde a un modelo **binomial**, porque cada paciente tiene un resultado binario (presenta o no el efecto secundario) y se cuenta cuántos de los 50 lo presentan. (2) corresponde a un modelo **normal**, porque la presión arterial es una variable continua que típicamente se distribuye simétricamente alrededor de un valor promedio.
-*Retroalimentación:* dentro de un mismo estudio pueden convivir variables que requieren distintos modelos; identificar correctamente el tipo de cada variable (discreta de dos resultados vs. continua) es el paso previo indispensable antes de aplicar cualquier fórmula.
+**Respuesta correcta: b) (1) binomial; (2) normal.**
+*Retroalimentación:* (1) es un conteo de resultados binarios; (2) es una variable continua.
 
-**Pregunta 9 (calcular — probabilidad de "al menos").** En un examen de alternativas con 5 preguntas de verdadero/falso, un estudiante responde al azar (p=0,5 de acertar cada una). Calcula la probabilidad de que acierte las 5 preguntas.
+**Pregunta 9 (alternativas — probabilidad binomial).** Un estudiante responde al azar 5 preguntas de verdadero o falso. ¿Cuál es la probabilidad de acertar las 5?
+a) 0,5
+b) 0,1
+c) 0,03125
+d) 0,25
 
-**Respuesta esperada:** n=5, p=0,5, k=5. C(5,5)=1. P(X=5) = 1×(0,5)⁵×(0,5)⁰ = (0,5)⁵ = **0,03125 (3,125%)**.
-*Retroalimentación:* cuando k=n (todos son éxitos), la fórmula binomial se simplifica a pⁿ, ya que C(n,n)=1 y (1−p)⁰=1; responder al azar y acertar todo es, como muestra este cálculo, poco probable incluso en pruebas cortas.
+**Respuesta correcta: c) 0,03125.**
+*Retroalimentación:* (0,5)⁵ = 1/32.
 
 **Pregunta 10 (verdadero o falso — límites de un argumento).** Una encuesta a 30 personas en un centro comercial de un solo barrio de Santiago concluye que "el 70% de los chilenos prefiere el producto X". Esta conclusión está bien fundamentada.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* la muestra es pequeña (30 personas) y, sobre todo, **no representa** a la población de interés ("los chilenos"): fue tomada en un solo lugar y con un perfil probablemente muy específico de personas; generalizar sus resultados a todo el país es un error de alcance del argumento estadístico.
 
-**Pregunta 11 (desarrollo — correlación vs. causalidad).** Un estudio encuentra que, en distintas ciudades, existe una fuerte correlación entre el número de heladerías y el número de ahogamientos en piscinas durante el año. ¿Se puede concluir que las heladerías causan ahogamientos? Explica.
+**Pregunta 11 (alternativas — corvínculo y causalidad).** En distintas ciudades hay una fuerte correlación entre el número de heladerías y de ahogamientos en piscinas. ¿Se puede concluir que las heladerías causan ahogamientos?
+a) No: ambas variables dependen de una tercera, la temperatura
+b) Sí: una correlación fuerte prueba causalidad
+c) Sí: comer helado antes de nadar produce ahogamientos
+d) No: no existe ninguna correlación entre ambas variables
 
-**Respuesta esperada:** **No**. Ambas variables están relacionadas con una tercera: la **temperatura** (en meses o ciudades más calurosas, hay más heladerías abiertas y también más gente nadando, lo que aumenta el riesgo de ahogamientos). Esto es un ejemplo clásico de **correlación sin causalidad**: dos variables se mueven juntas por la influencia de una variable oculta, no porque una cause directamente a la otra.
-*Retroalimentación:* evaluar los "alcances y límites" de un argumento estadístico incluye revisar si una correlación observada realmente implica una relación de causa y efecto, o si ambas variables podrían estar siendo influidas por un factor externo común.
+**Respuesta correcta: a) No: ambas variables dependen de una tercera, la temperatura.**
+*Retroalimentación:* correlación no implica causalidad cuando hay una variable oculta.
 
-**Pregunta 12 (desarrollo — pertinencia del modelo).** Un analista quiere modelar el número de artículos defectuosos en lotes de 20 unidades producidas en una fábrica (con una probabilidad fija de defecto por unidad), pero decide usar un modelo normal en lugar de uno binomial. ¿Es esto pertinente? Justifica.
+**Pregunta 12 (alternativas — pertinencia del modelo).** Un analista usa un modelo normal para el número de defectuosos en lotes de 20 unidades con probabilidad fija de defecto. ¿Es pertinente?
+a) Sí: el número de defectuosos es una variable continua con distribución simétrica
+b) Sí: el modelo normal sirve para cualquier conteo pequeño, como 20 unidades
+c) No: debería usarse un modelo trigonométrico
+d) No: es una variable discreta con n fijo y p fija, condiciones del modelo binomial
 
-**Respuesta esperada:** **No es la elección más pertinente**, al menos no directamente: se trata de una variable **discreta** (número de artículos defectuosos, un conteo entero entre 0 y 20), con un número fijo de ensayos y una probabilidad fija de "éxito" (defecto) por unidad — exactamente las condiciones de un modelo **binomial**. El modelo normal es apropiado para variables continuas, no para conteos discretos de este tipo (aunque, con n grande, el binomial puede aproximarse razonablemente por uno normal, pero esa es una decisión adicional, no la primera opción).
-*Retroalimentación:* evaluar la "pertinencia" de un modelo implica verificar que sus supuestos (variable discreta vs. continua, número fijo de ensayos, independencia) calcen con la situación real antes de aplicarlo, y no elegir un modelo solo porque es más familiar o fácil de calcular.
+**Respuesta correcta: d) No: es una variable discreta con n fijo y p fija, condiciones del modelo binomial.**
+*Retroalimentación:* con n grande el binomial puede aproximarse por el normal, pero esa es una decisión adicional.
 
-**Pregunta 13 (leer datos — comparar dos experimentos binomiales).** Dos tratamientos médicos se prueban en grupos de 10 pacientes cada uno. El Tratamiento A tiene probabilidad de éxito p=0,6 por paciente; el Tratamiento B tiene p=0,75. Sin calcular las probabilidades exactas, ¿qué tratamiento esperarías que tenga un mayor número promedio de pacientes exitosos, y cuántos en promedio?
+**Pregunta 13 (alternativas — comparar experimentos).** Con 10 pacientes por grupo, el tratamiento A tiene p = 0,6 y el B, p = 0,75. ¿Qué número promedio de éxitos tiene cada uno?
+a) A: 7,5; B: 6
+b) A: 6; B: 7,5
+c) A: 0,6; B: 0,75
+d) Ambos 10
 
-**Respuesta esperada:** el **Tratamiento B**, porque tiene mayor p. En promedio: A: μ=10×0,6=**6 pacientes**; B: μ=10×0,75=**7,5 pacientes**.
-*Retroalimentación:* comparar el valor esperado (μ=n×p) de dos modelos binomiales con el mismo n es tan simple como comparar sus probabilidades p, sin necesidad de calcular la distribución completa.
+**Respuesta correcta: b) A: 6; B: 7,5.**
+*Retroalimentación:* μ = n · p.
 
-**Pregunta 14 (problema en contexto — evaluar límites de una encuesta).** Antes de una elección, una encuesta telefónica solo logra contactar a personas mayores de 60 años, y concluye una preferencia de voto determinada para "toda la población". ¿Qué límite tiene este argumento estadístico?
+**Pregunta 14 (alternativas — límites de una encuesta).** Una encuesta telefónica solo contacta a mayores de 60 años y generaliza su resultado a "toda la población". ¿Qué límite tiene?
+a) Ninguno: cualquier muestra grande representa a toda la población
+b) Que hubo demasiados encuestados y eso aumenta el margen de error
+c) Sesgo de muestra: la muestra no es representativa de toda la población votante
+d) Que las encuestas telefónicas son ilegales si no se avisa con anticipación
 
-**Respuesta esperada:** el límite es un **sesgo de muestra** (o sesgo de selección): al contactar solo a un grupo etario específico (mayores de 60 años), la muestra **no es representativa** de toda la población votante, que incluye otros grupos de edad con posiblemente preferencias distintas; generalizar el resultado a "toda la población" no está fundamentado.
-*Retroalimentación:* un argumento estadístico puede tener un tamaño de muestra grande y aun así estar mal fundamentado si esa muestra no representa adecuadamente a la población sobre la que se quiere concluir.
+**Respuesta correcta: c) Sesgo de muestra: la muestra no es representativa de toda la población votante.**
+*Retroalimentación:* generalizar a toda la población no está fundamentado.
 
-**Pregunta 15 (calcular — probabilidad "al menos uno").** La probabilidad de que un vuelo se retrase es 0,1. Se analizan 3 vuelos independientes. Calcula la probabilidad de que **al menos uno** se retrase.
+**Pregunta 15 (alternativas — al menos uno).** La probabilidad de retraso de un vuelo es 0,1. En 3 vuelos independientes, ¿cuál es la probabilidad de que al menos uno se retrase?
+a) 0,271
+b) 0,3
+c) 0,001
+d) 0,729
 
-**Respuesta esperada:** es más simple calcular el complemento: P(ninguno se retrasa) = (0,9)³ = 0,729. P(al menos uno se retrasa) = 1−0,729 = **0,271 (27,1%)**.
-*Retroalimentación:* para eventos de tipo "al menos uno", casi siempre conviene calcular la probabilidad del complemento (que no ocurra ninguno) y restarla de 1, en lugar de sumar las probabilidades de cada caso posible por separado.
+**Respuesta correcta: a) 0,271.**
+*Retroalimentación:* 1 − (0,9)³ = 1 − 0,729; 0,729 es la probabilidad de que ninguno se retrase.
 
-**Pregunta 16 (problema no rutinario — combinar dispersión y modelo normal).** Dos máquinas envasadoras llenan bolsas de arroz con un peso medio de 1.000 g. La Máquina 1 tiene σ=5 g y la Máquina 2 tiene σ=20 g, ambas con distribución aproximadamente normal. Si el control de calidad rechaza bolsas con menos de 970 g, ¿qué máquina generará más bolsas rechazadas? Explica usando la regla empírica.
+**Pregunta 16 (alternativas — dispersión y modelo normal).** Dos envasadoras tienen media 1.000 g; la 1 tiene σ = 5 g y la 2, σ = 20 g. Si se rechazan bolsas bajo 970 g, ¿cuál generará más rechazos?
+a) La 1: 970 g está a 6σ bajo la media, más cerca que en la 2
+b) Ambas igual, porque tienen la misma media de 1.000 g
+c) Ninguna rechaza bolsas
+d) La 2: 970 g está a 1,5σ bajo la media, frente a 6σ en la 1
 
-**Respuesta esperada:** 970 g está a 30 g bajo la media. Para la Máquina 1 (σ=5), eso equivale a 30/5=**6 desviaciones estándar** bajo la media: prácticamente ninguna bolsa caerá tan lejos (muy por fuera del 99,7%). Para la Máquina 2 (σ=20), 970 g equivale a 30/20=**1,5 desviaciones estándar** bajo la media, un rango donde sí cae una proporción notable de las bolsas. **La Máquina 2 generará muchas más bolsas rechazadas**, porque su mayor dispersión hace que sea mucho más probable que un valor se aleje tanto de la media.
-*Retroalimentación:* dos procesos con el mismo promedio pueden tener tasas de "fallas" muy distintas si difieren en su desviación estándar; expresar cuántas desviaciones estándar representa un límite (aquí, 970 g) es la forma correcta de comparar el riesgo entre ambos procesos.
+**Respuesta correcta: d) La 2: 970 g está a 1,5σ bajo la media, frente a 6σ en la 1.**
+*Retroalimentación:* a mayor dispersión, más probable que un valor se aleje tanto de la media.
 
-**Pregunta 17 (comparar — evaluar un argumento probabilístico).** Un titular de prensa afirma: "Un estudio de 15 personas demuestra que el suplemento X mejora la memoria". ¿Qué pregunta(s) deberías hacerte antes de aceptar esta conclusión?
+**Pregunta 17 (varias correctas — evaluar un argumento).** "Un estudio de 15 personas demuestra que el suplemento X mejora la memoria." ¿Qué preguntas conviene hacerse? Marca **todas** las correctas.
+a) ¿Es suficiente una muestra de 15 personas?
+b) ¿Hubo un grupo de control?
+c) ¿Se controlaron otras variables, como el sueño o la dieta?
+d) ¿De qué color es la caja del suplemento?
 
-**Respuesta esperada (abierta, ejemplo de buena respuesta):** ¿el tamaño de la muestra (15 personas) es suficiente para sacar una conclusión generalizable? ¿Hubo un grupo de control (personas que no tomaron el suplemento) para comparar? ¿Se controlaron otras variables que podrían explicar la mejora (por ejemplo, cambios en el sueño o la dieta durante el estudio)? ¿El resultado fue estadísticamente significativo, o pudo deberse al azar dado el tamaño pequeño de la muestra?
-*Retroalimentación:* evaluar los alcances y límites de un argumento estadístico antes de tomar una decisión (por ejemplo, comprar el suplemento) es exactamente la habilidad central de este Objetivo de Aprendizaje: no se trata de rechazar todo estudio, sino de identificar qué preguntas hacer para juzgar su solidez.
+**Respuesta correcta: a, b y c.**
+*Retroalimentación:* también conviene preguntar si el resultado fue estadísticamente significativo.
 
-**Pregunta 18 (desarrollo — probabilidad binomial con complemento).** En una línea de producción, cada artículo tiene una probabilidad de 0,02 de salir defectuoso. Se revisa una muestra de 5 artículos. Calcula la probabilidad de que **ninguno** salga defectuoso, y la probabilidad de que **al menos uno** salga defectuoso.
+**Pregunta 18 (alternativas — binomial con complemento).** Cada artículo tiene probabilidad 0,02 de ser defectuoso. En una muestra de 5, ¿cuál es la probabilidad de ninguno defectuoso y de al menos uno?
+a) ≈ 9,61% y ≈ 90,39%
+b) ≈ 90,39% y ≈ 9,61%
+c) 98% y 2%
+d) 10% y 90%
 
-**Respuesta esperada:** P(ninguno defectuoso) = (0,98)⁵ ≈ **0,9039 (90,39%)**. P(al menos uno defectuoso) = 1−0,9039 = **0,0961 (9,61%)**.
-*Retroalimentación:* este es un caso particular útil en control de calidad: aunque la probabilidad de defecto por artículo es baja (2%), la probabilidad de que aparezca al menos un defecto al revisar varios artículos juntos ya no es tan pequeña.
+**Respuesta correcta: b) ≈ 90,39% y ≈ 9,61%.**
+*Retroalimentación:* (0,98)⁵ ≈ 0,9039 y su complemento 0,0961.
 
 ---
 

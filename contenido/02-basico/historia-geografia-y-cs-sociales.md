@@ -136,11 +136,11 @@ vida (sedentario o nómade) de cada pueblo.
 **1. (Alternativas)** ¿Qué significa que un pueblo sea "nómade"?
 
 a) Que vive siempre en el mismo lugar y cultiva la tierra
-b) Que se traslada de un lugar a otro sin vivienda permanente
+b) Que no tiene idioma propio
 c) Que solo vive en ciudades grandes
-d) Que no tiene idioma propio
+d) Que se traslada de un lugar a otro sin vivienda permanente
 
-✅ Respuesta correcta: **b) Que se traslada de un lugar a otro sin vivienda permanente**
+✅ Respuesta correcta: **d) Que se traslada de un lugar a otro sin vivienda permanente**
 💬 *Retroalimentación:* ¡Correcto! Los pueblos nómades se mueven de un lugar a otro,
 generalmente para cazar, pescar o recolectar alimentos.
 
@@ -155,31 +155,48 @@ andino.
 
 ---
 
-**3. (Análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa junto a canales e
-islas en el extremo sur del país. ¿A qué pueblo o pueblos corresponde este ícono?
+**3. (Alternativas — análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa
+junto a canales e islas en el extremo sur del país. ¿A qué pueblo o pueblos corresponde este
+ícono?
+a) A los aymara, que vivían en el altiplano del norte del país
+b) A los mapuche, que vivían en los valles y bosques del centro-sur
+c) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
+d) A los rapa nui, que navegaban en canoas por Isla de Pascua
 
-✅ Respuesta correcta: A los pueblos canoeros australes, como los chonos, kawésqar y yaganes.
+✅ Respuesta correcta: **c) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes**
 💬 *Retroalimentación:* ¡Correcto! Estos pueblos vivían del mar, trasladándose en canoas por
 los canales del extremo sur para pescar y recolectar mariscos.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada pueblo con su vivienda característica:
+**4. (Alternativas — unir)** Une cada pueblo con su vivienda característica:
 
 1) Mapuche — 2) Pueblos canoeros australes — 3) Selk'nam
 
-a) Toldo de cuero en la estepa — b) Ruka de madera y paja — c) Toldo liviano y transportable
+Viviendas: (A) Toldo de cuero en la estepa — (B) Ruka de madera y paja — (C) Toldo liviano y
+transportable
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* ¡Bien hecho! Cada vivienda se adapta al entorno y al modo de vida
-(sedentario o nómade) del pueblo que la construye.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-A, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* ¡Bien hecho! Los mapuche construían la ruka, los canoeros un toldo
+liviano que podían transportar y los selk'nam un toldo de cuero en la estepa. Cada vivienda se
+adapta al entorno y al modo de vida (sedentario o nómade) del pueblo que la construye.
 
 ---
 
-**5. (Ordenar secuencia)** Ordena estos pueblos de norte a sur según dónde habitaban
-principalmente: ___ Mapuche — ___ Aymara — ___ Selk'nam
+**5. (Alternativas — ordenar secuencia)** ¿Cuál es el orden de estos pueblos de **norte a
+sur**, según dónde habitaban principalmente?
+a) Mapuche → Aymara → Selk'nam
+b) Selk'nam → Mapuche → Aymara
+c) Aymara → Selk'nam → Mapuche
+d) Aymara → Mapuche → Selk'nam
 
-✅ Respuesta correcta: 1) Aymara, 2) Mapuche, 3) Selk'nam
+✅ Respuesta correcta: **d) Aymara → Mapuche → Selk'nam**
 💬 *Retroalimentación:* ¡Excelente! Los aymara vivían en el extremo norte, los mapuche en el
 centro-sur, y los selk'nam en el extremo sur, en la Patagonia y Tierra del Fuego.
 
@@ -188,13 +205,13 @@ centro-sur, y los selk'nam en el extremo sur, en la Patagonia y Tierra del Fuego
 **6. (Alternativas — desafiante)** Los diaguitas eran reconocidos especialmente por hacer
 vasijas de greda pintadas con dibujos geométricos. ¿Qué nos dice esto sobre su modo de vida?
 
-a) Que eran nómades que no fabricaban objetos
-b) Que eran sedentarios, ya que la cerámica requiere tiempo, herramientas y un lugar fijo de
+a) Que eran nómades que no fabricaban objetos y se trasladaban siempre buscando animales para cazar
+b) Que vivían exclusivamente del mar, porque la greda solo se encuentra en las playas
+c) Que no tenían ninguna tecnología, porque pintar dibujos es solo un adorno
+d) Que eran sedentarios, ya que la cerámica requiere tiempo, herramientas y un lugar fijo de
 trabajo
-c) Que no tenían ninguna tecnología
-d) Que vivían exclusivamente del mar
 
-✅ Respuesta correcta: **b) Que eran sedentarios, ya que la cerámica requiere tiempo,
+✅ Respuesta correcta: **d) Que eran sedentarios, ya que la cerámica requiere tiempo,
 herramientas y un lugar fijo de trabajo**
 💬 *Retroalimentación:* ¡Correcto! Fabricar cerámica de calidad, como la diaguita, necesita
 tiempo y estabilidad, algo propio de los pueblos sedentarios.
@@ -273,35 +290,40 @@ parte de su cultura y adaptándose también a la vida actual.
 **2. (Alternativas)** ¿Cuál de estas fiestas corresponde al año nuevo del pueblo mapuche?
 
 a) Fiestas Patrias
-b) We Tripantu
+b) Carnaval de Río
 c) Navidad
-d) Carnaval de Río
+d) We Tripantu
 
-✅ Respuesta correcta: **b) We Tripantu**
+✅ Respuesta correcta: **d) We Tripantu**
 💬 *Retroalimentación:* ¡Correcto! El We Tripantu marca el inicio de un nuevo ciclo de la
 naturaleza para el pueblo mapuche.
 
 ---
 
-**3. (Relacionar / emparejar)** Clasifica cada elemento según si se ha **mantenido** o ha
-**cambiado** en los pueblos indígenas actuales respecto al período precolombino:
+**3. (Alternativas — clasificar)** ¿Cuál de estos elementos **se ha mantenido** en los
+pueblos indígenas actuales desde el período precolombino?
+a) Practicar tejidos y artesanía tradicional
+b) Usar celulares e internet
+c) Vivir exclusivamente en el campo, sin ciudades
+d) Viajar en avión
 
-1) Usar celulares e internet — 2) Practicar tejidos y artesanía tradicional — 3) Vivir
-exclusivamente en el campo, sin ciudades
-
-a) Se mantiene — b) Ha cambiado
-
-✅ Respuesta correcta: 1-b, 2-a, 3-b
+✅ Respuesta correcta: **a) Practicar tejidos y artesanía tradicional**
 💬 *Retroalimentación:* ¡Muy bien! Hoy muchas familias indígenas viven en ciudades y usan
-tecnología, pero mantienen tradiciones como la artesanía.
+tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía y los tejidos.
 
 ---
 
-**4. (Desarrollo breve)** Nombra una costumbre de algún pueblo indígena de Chile (mapuche,
-aymara o rapa nui) que se mantenga hasta hoy.
+**4. (Varias correctas)** ¿Cuáles de estas costumbres de pueblos indígenas de Chile se
+mantienen hasta hoy? Marca **todas** las correctas.
+a) El idioma mapuzugun, que todavía se habla
+b) La fiesta del We Tripantu (año nuevo mapuche)
+c) Viajar en canoa para ir al supermercado
+d) La Tapati, fiesta tradicional de Rapa Nui
 
-💬 *Pauta de retroalimentación:* Cualquier costumbre real y correcta (idioma, fiesta,
-artesanía, comida tradicional, danza, entre otras) es una buena respuesta.
+✅ Respuesta correcta: **a, b y d**
+💬 *Retroalimentación:* ¡Muy bien! El idioma, fiestas como el We Tripantu o la Tapati, la
+artesanía, la comida tradicional y las danzas son costumbres que se mantienen. Ir al
+supermercado en canoa no es una costumbre tradicional.
 
 ---
 
@@ -309,13 +331,13 @@ artesanía, comida tradicional, danza, entre otras) es una buena respuesta.
 universidad y usa aplicaciones de celular, pero también participa cada año en la ceremonia del
 We Tripantu con su familia. ¿Qué nos muestra esta situación?
 
-a) Que ya no es mapuche por vivir en la ciudad
-b) Que una persona puede mantener su cultura de origen y, al mismo tiempo, vivir de forma
+a) Que una persona puede mantener su cultura de origen y, al mismo tiempo, vivir de forma
 moderna
-c) Que el We Tripantu ya no se celebra en Chile
-d) Que los mapuche solo pueden vivir en el sur
+b) Que ya no es mapuche por vivir en la ciudad y estudiar en la universidad
+c) Que el We Tripantu ya no se celebra en Chile, salvo en algunas familias
+d) Que los mapuche solo pueden vivir en el sur y no deberían vivir en Santiago
 
-✅ Respuesta correcta: **b) Que una persona puede mantener su cultura de origen y, al mismo
+✅ Respuesta correcta: **a) Que una persona puede mantener su cultura de origen y, al mismo
 tiempo, vivir de forma moderna**
 💬 *Retroalimentación:* ¡Correcto! Las culturas indígenas no quedaron "congeladas" en el
 pasado: sus tradiciones conviven con la vida actual.
@@ -397,9 +419,9 @@ tienen orígenes distintos.
 **1. (Alternativas)** ¿Qué significa que la sociedad chilena sea "mestiza"?
 
 a) Que nació de la mezcla entre pueblos indígenas y españoles
-b) Que solo tiene origen español
-c) Que solo tiene origen indígena
-d) Que no tiene ningún origen definido
+b) Que solo tiene origen español, porque llegaron los españoles
+c) Que solo tiene origen indígena, porque aquí vivían los pueblos
+d) Que no tiene ningún origen definido ni una historia propia
 
 ✅ Respuesta correcta: **a) Que nació de la mezcla entre pueblos indígenas y españoles**
 💬 *Retroalimentación:* ¡Correcto! El mestizaje es la unión entre las culturas indígena y
@@ -416,15 +438,17 @@ en el español de Chile.
 
 ---
 
-**3. (Relacionar / emparejar)** Clasifica cada elemento según su origen principal:
+**3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son un **aporte
+indígena** a nuestra cultura? Marca **todas** las correctas.
+a) El idioma español
+b) La papa y el choclo
+c) La religión católica
+d) El palín
 
-1) El idioma español — 2) La papa y el choclo — 3) La religión católica — 4) El palín
-
-a) Aporte indígena — b) Aporte español
-
-✅ Respuesta correcta: 1-b, 2-a, 3-b, 4-a
-💬 *Retroalimentación:* ¡Excelente! Reconocer el origen de cada elemento nos ayuda a entender
-cómo se formó nuestra cultura mestiza.
+✅ Respuesta correcta: **b y d**
+💬 *Retroalimentación:* ¡Excelente! La papa, el choclo y el palín son aportes indígenas; el
+idioma español y la religión católica llegaron con los españoles. Reconocer el origen de cada
+elemento nos ayuda a entender cómo se formó nuestra cultura mestiza.
 
 ---
 
@@ -441,11 +465,16 @@ españoles. La papa, la quínoa y el choclo ya eran cultivados por los pueblos o
 
 ---
 
-**5. (Desarrollo breve)** Nombra una palabra de origen indígena que se usa en el español de
-Chile y explica qué significa.
+**5. (Alternativas)** ¿Cuál de estas palabras del español de Chile es de **origen
+indígena**, y qué significa?
+a) "Mesa", que significa mueble para comer
+b) "Escuela", que significa lugar para aprender
+c) "Guagua", que significa bebé
+d) "Ventana", que significa abertura en la pared
 
-💬 *Pauta de retroalimentación:* Cualquier palabra real de origen indígena, como "poncho",
-"guagua", "pololo/a", "cahuín" o "malón", con su significado correcto, es una buena respuesta.
+✅ Respuesta correcta: **c) "Guagua", que significa bebé**
+💬 *Retroalimentación:* ¡Muy bien! "Guagua" viene de una lengua indígena (quechua). Otras
+palabras de origen indígena que usamos en Chile son "poncho", "pololo/a", "cahuín" o "malón".
 
 ---
 
@@ -453,10 +482,10 @@ Chile y explica qué significa.
 llegó con los españoles) y a veces se sazona con ají, que ya usaban los pueblos
 originarios. ¿Qué nos muestra este ejemplo?
 
-a) Que la empanada es un plato exclusivamente español
-b) Que la empanada es un plato exclusivamente indígena
+a) Que la empanada es un plato exclusivamente español, porque la masa de trigo llegó de España
+b) Que la empanada es un plato exclusivamente indígena, porque el ají ya existía en América
 c) Que la comida chilena puede combinar aportes de distintos orígenes, mostrando el mestizaje
-d) Que el ají llegó a Chile recién en el último siglo
+d) Que el ají llegó a Chile recién en el último siglo, traído desde Europa por barco
 
 ✅ Respuesta correcta: **c) Que la comida chilena puede combinar aportes de distintos
 orígenes, mostrando el mestizaje**
@@ -547,26 +576,33 @@ siglo y hoy sus descendientes participan en distintos ámbitos de la vida del pa
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada grupo de inmigrantes con un aporte característico que
+**3. (Alternativas — unir)** Une cada grupo de inmigrantes con un aporte característico que
 trajeron a Chile:
 
 1) Inmigrantes alemanes — 2) Inmigrantes chinos y coreanos — 3) Inmigrantes árabes
 
-a) Comida como el arroz chaufán — b) Arquitectura de madera y kuchen — c) Pan árabe y dulces
-como el baklava
+Aportes: (A) Comida como el arroz chaufán — (B) Arquitectura de madera y kuchen — (C) Pan
+árabe y dulces como el baklava
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* ¡Excelente! Cada grupo de inmigrantes trajo consigo elementos propios
-de su cultura de origen.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* ¡Excelente! Los alemanes trajeron la arquitectura de madera y el kuchen,
+los chinos y coreanos platos como el arroz chaufán, y los árabes el pan árabe y dulces como el
+baklava. Cada grupo de inmigrantes trajo consigo elementos propios de su cultura de origen.
 
 ---
 
 **4. (Alternativas)** ¿Quién fue Andrés Bello?
 
-a) Un pescador nacido en Isla de Pascua
+a) Un pescador nacido en Isla de Pascua que navegó hasta el continente
 b) Un educador y escritor nacido en Venezuela que ayudó a fundar la Universidad de Chile
-c) Un rey de España
-d) Un cacique mapuche
+c) Un rey de España que gobernó Chile durante la Colonia y fundó escuelas
+d) Un cacique mapuche que defendió su territorio de los españoles en el sur
 
 ✅ Respuesta correcta: **b) Un educador y escritor nacido en Venezuela que ayudó a fundar la
 Universidad de Chile**
@@ -575,12 +611,17 @@ que hizo un aporte muy importante a Chile.
 
 ---
 
-**5. (Desarrollo breve)** Nombra un país desde el cual hayan llegado inmigrantes a Chile y
-menciona un aporte de esa comunidad (comida, música, costumbres, etc.).
+**5. (Alternativas)** ¿Qué pareja de **país de origen y aporte** de una comunidad de
+inmigrantes en Chile es correcta?
+a) Italia → la pizza y otras comidas
+b) Alemania → el arroz chaufán
+c) China → el kuchen
+d) Perú → la nieve de la cordillera
 
-💬 *Pauta de retroalimentación:* Cualquier país real (Alemania, Italia, Croacia, China, Corea,
-Palestina, Perú, Colombia, Haití, Venezuela, entre otros) junto con un aporte correcto es una
-buena respuesta.
+✅ Respuesta correcta: **a) Italia → la pizza y otras comidas**
+💬 *Retroalimentación:* ¡Muy bien! La comunidad italiana trajo comidas como la pizza y las pastas.
+Han llegado inmigrantes de muchos países (Alemania, Croacia, China, Corea, Palestina, Perú,
+Colombia, Haití, Venezuela, entre otros), y cada comunidad aporta comida, música o costumbres.
 
 ---
 
@@ -679,11 +720,16 @@ por la Cordillera de los Andes.
 
 ---
 
-**3. (Análisis de mapa)** En un mapa de América del Sur se señalan tres países con letras: la
-letra A está justo al norte de Chile, la letra B está al noreste de Chile, y la letra C está
-al este de Chile, compartiendo la frontera más extensa. ¿Qué país corresponde a cada letra?
+**3. (Alternativas — análisis de mapa)** En un mapa de América del Sur se señalan tres
+países con letras: la letra A está justo al norte de Chile, la letra B está al noreste de
+Chile, y la letra C está al este de Chile, compartiendo la frontera más extensa. ¿Qué país
+corresponde a cada letra?
+a) A = Bolivia, B = Perú, C = Argentina
+b) A = Perú, B = Bolivia, C = Argentina
+c) A = Argentina, B = Bolivia, C = Perú
+d) A = Perú, B = Argentina, C = Bolivia
 
-✅ Respuesta correcta: A = Perú, B = Bolivia, C = Argentina.
+✅ Respuesta correcta: **b) A = Perú, B = Bolivia, C = Argentina**
 💬 *Retroalimentación:* ¡Excelente! Usar los puntos cardinales nos ayuda a describir con
 precisión dónde se ubica cada país vecino de Chile.
 
@@ -702,24 +748,31 @@ oeste.
 
 ---
 
-**5. (Desarrollo breve)** Escribe el nombre de tu región y de su capital regional, y explica
-si es la misma ciudad que la capital de Chile o no.
+**5. (Alternativas)** ¿Qué afirmación sobre las regiones y sus capitales es correcta?
+a) Todas las regiones de Chile tienen a Santiago como capital regional.
+b) La Región Metropolitana tiene como capital a Santiago, que también es la capital de Chile.
+c) La capital regional de la Región de Valparaíso es Santiago, porque está más cerca del mar.
+d) Las regiones de Chile no tienen capital: todas dependen directamente de Santiago.
 
-💬 *Pauta de retroalimentación:* Cualquier respuesta correcta con el nombre real de la región
-del estudiante y su capital regional es válida. Se espera que el estudiante reconozca si vive
-en la Región Metropolitana (cuya capital es Santiago, la misma capital del país) o en otra
-región (con una capital regional distinta a Santiago).
+✅ Respuesta correcta: **b) La Región Metropolitana tiene como capital a Santiago, que también es la capital de Chile.**
+💬 *Retroalimentación:* ¡Muy bien! Santiago es a la vez la capital de la Región Metropolitana y
+la capital del país; las demás regiones tienen su propia capital regional (por ejemplo,
+Valparaíso en la Región de Valparaíso). Averigua cuál es la capital de tu región.
 
 ---
 
-**6. (Análisis de mapa — desafiante)** Un mapa muestra a Bolivia ubicada entre Perú y
-Argentina, mirando desde Chile. Si Perú está al norte y Argentina está al este de Chile, ¿en
-qué dirección aproximada debería ubicarse Bolivia?
+**6. (Alternativas — análisis de mapa, desafiante)** Un mapa muestra a Bolivia ubicada
+entre Perú y Argentina, mirando desde Chile. Si Perú está al norte y Argentina está al este de
+Chile, ¿en qué dirección aproximada se ubica Bolivia?
+a) Al sur de Chile
+b) Al oeste de Chile
+c) Al noreste de Chile
+d) Al suroeste de Chile
 
-✅ Respuesta correcta: Al noreste de Chile, ya que se encuentra entre la dirección norte
-(Perú) y la dirección este (Argentina).
-💬 *Retroalimentación:* ¡Muy bien! Cuando un lugar está "entre" dos direcciones cardinales,
-como el norte y el este, decimos que está en una dirección intermedia, como el noreste.
+✅ Respuesta correcta: **c) Al noreste de Chile**
+💬 *Retroalimentación:* ¡Muy bien! Bolivia se encuentra entre la dirección norte (Perú) y la
+dirección este (Argentina). Cuando un lugar está "entre" dos direcciones cardinales, decimos
+que está en una dirección intermedia, como el noreste.
 
 ---
 
@@ -806,47 +859,68 @@ extremadamente seco.
 
 ---
 
-**3. (Análisis de imagen)** Se observa una fotografía con montañas nevadas a ambos lados de
-un valle, un río que corre por el medio, y muchos viñedos plantados. ¿A qué zona de Chile
-corresponde probablemente este paisaje?
+**3. (Alternativas — análisis de imagen)** Se observa una fotografía con montañas nevadas
+a ambos lados de un valle, un río que corre por el medio, y muchos viñedos plantados. ¿A qué
+zona de Chile corresponde probablemente este paisaje?
+a) A la zona norte, en el desierto
+b) A la zona austral, entre fiordos
+c) A Isla de Pascua
+d) A la zona centro de Chile
 
-✅ Respuesta correcta: A la zona centro de Chile.
+✅ Respuesta correcta: **d) A la zona centro de Chile**
 💬 *Retroalimentación:* ¡Excelente! Los valles fértiles con viñedos y ríos, entre las dos
 cordilleras, son característicos de la zona central del país.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada palabra geográfica con su definición:
+**4. (Alternativas — unir)** Une cada palabra geográfica con su definición:
 
 1) Fiordo — 2) Archipiélago — 3) Volcán
 
-a) Montaña que puede expulsar lava — b) Entrada de mar rodeada de montañas — c) Conjunto de
-varias islas cercanas entre sí
+Definiciones: (A) Montaña que puede expulsar lava — (B) Entrada de mar rodeada de montañas —
+(C) Conjunto de varias islas cercanas entre sí
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* ¡Bien hecho! Estas tres palabras son muy útiles para describir los
-paisajes del sur de Chile.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-C, 2-B, 3-A
+c) 1-A, 2-C, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**5. (Desarrollo breve)** Describe el paisaje de tu región usando al menos tres palabras
-geográficas de esta lista: océano, río, cordillera, desierto, valle, costa, volcán,
-archipiélago, isla, fiordo, lago.
-
-💬 *Pauta de retroalimentación:* Cualquier descripción real y coherente del entorno del
-estudiante que use correctamente al menos tres palabras geográficas es una buena respuesta.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* ¡Bien hecho! Un fiordo es una entrada de mar rodeada de montañas, un
+archipiélago es un conjunto de islas y un volcán puede expulsar lava. Estas tres palabras son
+muy útiles para describir los paisajes del sur de Chile.
 
 ---
 
-**6. (Ordenar secuencia — desafiante)** Si viajas desde el extremo norte de Chile hasta el
-extremo sur, ¿cuál de estos paisajes esperarías encontrar primero, cuál al medio y cuál al
-final? Ordena del 1 (primero, más al norte) al 3 (al final, más al sur): ___ Bosques, lagos y
-fiordos — ___ Desierto y volcanes — ___ Valles fértiles con viñedos, cerca de la capital
+**5. (Varias correctas)** Lee esta descripción: "En mi región, la **cordillera** se ve al
+fondo, un **río** atraviesa el **valle** y llega hasta la **costa**". ¿Cuáles de estas palabras
+son palabras geográficas? Marca **todas** las correctas.
+a) Cordillera
+b) Río
+c) Mochila
+d) Valle
+e) Costa
 
-✅ Respuesta correcta: 1) Desierto y volcanes, 2) Valles fértiles con viñedos, cerca de la
-capital, 3) Bosques, lagos y fiordos
+✅ Respuesta correcta: **a, b, d y e**
+💬 *Retroalimentación:* ¡Muy bien! Cordillera, río, valle y costa son palabras geográficas (una
+mochila no es parte del paisaje), igual
+que océano, desierto, volcán, archipiélago, isla, fiordo o lago. Intenta describir el paisaje de
+tu región usando al menos tres de ellas.
+
+---
+
+**6. (Alternativas — ordenar secuencia, desafiante)** Si viajas desde el extremo norte de
+Chile hasta el extremo sur, ¿en qué orden encontrarías estos paisajes?
+a) Bosques, lagos y fiordos → Desierto y volcanes → Valles fértiles con viñedos
+b) Desierto y volcanes → Valles fértiles con viñedos → Bosques, lagos y fiordos
+c) Valles fértiles con viñedos → Desierto y volcanes → Bosques, lagos y fiordos
+d) Desierto y volcanes → Bosques, lagos y fiordos → Valles fértiles con viñedos
+
+✅ Respuesta correcta: **b) Desierto y volcanes → Valles fértiles con viñedos → Bosques, lagos y fiordos**
 💬 *Retroalimentación:* ¡Excelente! Este orden refleja el cambio de paisajes de Chile de norte
-a sur: desierto, luego valles centrales, y finalmente bosques y fiordos en el sur.
+a sur: desierto, luego valles centrales cerca de la capital, y finalmente bosques y fiordos en
+el sur.
 
 ---
 
@@ -918,10 +992,10 @@ historia de nuestra comunidad para que otras personas también puedan conocerla 
 
 **1. (Alternativas)** ¿Para qué sirve conocer las vías de evacuación de tu escuela?
 
-a) Para jugar durante el recreo
+a) Para saber por dónde correr y jugar durante el recreo sin chocar con nadie
 b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia
-c) Para llegar más rápido a la sala de clases
-d) Para decorar los pasillos
+c) Para llegar más rápido a la sala de clases cuando suena el timbre de la mañana
+d) Para saber qué pasillos hay que decorar en las fiestas del colegio
 
 ✅ Respuesta correcta: **b) Para saber cómo salir de forma segura y ordenada en caso de una
 emergencia**
@@ -944,8 +1018,8 @@ hospital?
 
 a) Porque está prohibido hablar en cualquier parte de la ciudad
 b) Para no molestar a las personas enfermas que necesitan tranquilidad para descansar
-c) Porque los hospitales no permiten el paso de personas
-d) Porque el silencio cura las enfermedades
+c) Porque los hospitales no permiten el paso de personas por sus calles cercanas
+d) Porque el silencio cura las enfermedades sin necesidad de remedios
 
 ✅ Respuesta correcta: **b) Para no molestar a las personas enfermas que necesitan
 tranquilidad para descansar**
@@ -954,26 +1028,36 @@ personas que están enfermas.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada situación con la norma que corresponde:
+**4. (Alternativas — unir)** Une cada situación con la norma que corresponde:
 
 1) Cruzar una calle con autos — 2) Hablar en clases mientras el profesor explica — 3) Visitar
 un monumento histórico
 
-a) No rayarlo ni dañarlo — b) Levantar la mano y esperar mi turno — c) Mirar hacia ambos lados
-y respetar el semáforo
+Normas: (A) No rayarlo ni dañarlo — (B) Levantar la mano y esperar mi turno — (C) Mirar hacia
+ambos lados y respetar el semáforo
 
-✅ Respuesta correcta: 1-c, 2-b, 3-a
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-A, 3-B
+d) 1-C, 2-B, 3-A
+
+✅ Respuesta correcta: **d) 1-C, 2-B, 3-A**
 💬 *Retroalimentación:* ¡Excelente! Cada norma cuida algo distinto: nuestra seguridad, la
 buena convivencia, o el patrimonio de nuestra comunidad.
 
 ---
 
-**5. (Desarrollo breve)** Nombra una norma que ayude a cuidar el medioambiente y explica por
-qué es importante.
+**5. (Alternativas)** ¿Qué norma ayuda a cuidar el medioambiente, y por qué es importante?
+a) Reciclar, porque así se generan menos residuos que contaminan.
+b) Dejar las luces encendidas, porque así la casa se ve bonita.
+c) Botar la basura en el río, porque el agua se la lleva.
+d) Arrancar plantas de la plaza, porque vuelven a crecer.
 
-💬 *Pauta de retroalimentación:* Cualquier norma real relacionada con el cuidado del
-medioambiente (reciclar, no botar basura, cuidar el agua, no dañar plantas o animales) junto
-con una explicación coherente es una buena respuesta.
+✅ Respuesta correcta: **a) Reciclar, porque así se generan menos residuos que contaminan.**
+💬 *Retroalimentación:* ¡Muy bien! Reciclar, no botar basura, cuidar el agua y no dañar plantas
+ni animales son normas que protegen el medioambiente. Botar basura en el río lo contamina y
+arrancar plantas daña la naturaleza.
 
 ---
 
@@ -981,10 +1065,10 @@ con una explicación coherente es una buena respuesta.
 escuela que solo tiene escaleras para entrar al edificio. ¿Qué debería hacer la escuela para
 cuidar a este estudiante y permitir que participe con normalidad?
 
-a) Nada, porque no es obligación adaptar el edificio
-b) Pedirle al estudiante que no asista a clases
+a) Nada, porque no es obligación adaptar el edificio para un solo estudiante
+b) Pedirle al estudiante que no asista a clases hasta que pueda caminar
 c) Construir una rampa u otra adaptación que le permita entrar con seguridad
-d) Cambiarlo a otra escuela
+d) Cambiarlo a otra escuela que quede más lejos de su casa
 
 ✅ Respuesta correcta: **c) Construir una rampa u otra adaptación que le permita entrar con
 seguridad**
@@ -1049,10 +1133,10 @@ puedan conocerlos y aprender de ellos, cuidando así nuestro **patrimonio cultur
 
 **1. (Alternativas)** ¿Cuál es la función principal de los medios de transporte?
 
-a) Transmitir noticias
+a) Transmitir noticias e información a las personas
 b) Trasladar personas y productos de un lugar a otro
-c) Vender alimentos
-d) Cuidar el patrimonio
+c) Vender alimentos y otros productos en las ferias
+d) Cuidar el patrimonio y los edificios antiguos
 
 ✅ Respuesta correcta: **b) Trasladar personas y productos de un lugar a otro**
 💬 *Retroalimentación:* ¡Correcto! Buses, trenes, aviones y barcos permiten que personas y
@@ -1083,26 +1167,37 @@ parques nacionales y el patrimonio natural de Chile.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada servicio con la labor que cumple:
+**4. (Alternativas — unir)** Une cada servicio con la labor que cumple:
 
 1) Feria o mercado — 2) Medios de transporte — 3) Museo
 
-a) Traslada personas y productos — b) Permite comprar alimentos y otros productos — c) Cuida y
-muestra objetos históricos y culturales
+Labores: (A) Traslada personas y productos — (B) Permite comprar alimentos y otros productos —
+(C) Cuida y muestra objetos históricos y culturales
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
 💬 *Retroalimentación:* ¡Excelente! Cada servicio cumple una labor distinta, pero todos
 benefician a la comunidad.
 
 ---
 
-**5. (Desarrollo breve)** Explica con tus palabras qué pasaría en tu comunidad si no
-existieran los medios de transporte para trasladar alimentos desde el campo hasta las
-ciudades.
+**5. (Alternativas)** ¿Qué pasaría en tu comunidad si no existieran los medios de
+transporte para trasladar alimentos desde el campo hasta las ciudades?
+a) Nada, porque los alimentos llegan solos a las ciudades y no es necesario trasladarlos.
+b) Habría más alimentos frescos en los supermercados, porque no se perderían en los viajes.
+c) Los campos dejarían de producir alimentos para siempre, y las ciudades tendrían que sembrar sus propias calles.
+d) Sería muy difícil que lleguen alimentos frescos a las ciudades, y la alimentación de las
+personas se vería afectada.
 
-💬 *Pauta de retroalimentación:* Se espera que el estudiante reconozca que sin transporte
-sería muy difícil o imposible que lleguen alimentos frescos a las ciudades, lo que afectaría
-la alimentación de las personas. Cualquier respuesta coherente con esta idea es válida.
+✅ Respuesta correcta: **d) Sería muy difícil que lleguen alimentos frescos a las ciudades, y la alimentación de las personas se vería afectada.**
+💬 *Retroalimentación:* ¡Muy bien pensado! Los medios de transporte trasladan personas y
+productos; sin ellos, los alimentos del campo no podrían llegar a quienes viven en las
+ciudades.
 
 ---
 
@@ -1110,11 +1205,11 @@ la alimentación de las personas. Cualquier respuesta coherente con esta idea es
 restos de un pueblo originario. ¿Qué tipo de institución debería encargarse de protegerlo y
 estudiarlo?
 
-a) Una feria libre
+a) Una feria libre que venda los objetos encontrados a los vecinos
 b) Una institución encargada de proteger el patrimonio cultural, como un museo o un organismo
 especializado
-c) Una empresa de transporte
-d) Un canal de televisión únicamente
+c) Una empresa de transporte que traslade los restos a otra ciudad para guardarlos
+d) Un canal de televisión únicamente, que muestre el sitio en las noticias y luego lo deje abierto
 
 ✅ Respuesta correcta: **b) Una institución encargada de proteger el patrimonio cultural,
 como un museo o un organismo especializado**

@@ -112,10 +112,10 @@ además de servir de alimento, tienen **uso medicinal**, como el boldo y el mati
 1. *(Alternativas)* ¿Cuál de estas plantas es la flor nacional de Chile y crece de
    forma nativa en el centro-sur del país?
    a) El cactus candelabro
-   b) El copihue
+   b) El trigo
    c) La papa
-   d) El trigo
-   **Respuesta correcta:** b) El copihue.
+   d) El copihue
+   **Respuesta correcta:** d) El copihue.
    **Retroalimentación:** ¡Correcto! El copihue es una enredadera de flores rojas o
    blancas, única de Chile, declarada flor nacional.
 
@@ -125,38 +125,39 @@ además de servir de alimento, tienen **uso medicinal**, como el boldo y el mati
    **Retroalimentación:** Una planta autóctona o nativa es la que crece de forma
    natural en un territorio, sin que haya sido traída desde otro lugar.
 
-3. *(Clasificar/agrupar)* Junta cada planta con la zona de Chile donde crece de forma
-   nativa: cactus candelabro, araucaria, copihue. Zonas: norte (desierto), sur
-   (bosque templado), centro-sur (bosque).
-   **Respuesta correcta:** Cactus candelabro → norte (desierto). Araucaria → sur
-   (bosque templado). Copihue → centro-sur (bosque).
-   **Retroalimentación:** ¡Muy bien! La flora nativa de Chile cambia según el clima y
-   el paisaje de cada zona.
+3. *(Alternativas — clasificar)* ¿Qué planta está **bien unida** con la zona de Chile donde crece de forma nativa?
+   a) Cactus candelabro → norte (desierto)
+   b) Araucaria → norte (desierto)
+   c) Copihue → norte (desierto)
+   d) Cactus candelabro → sur (bosque templado)
+   **Respuesta correcta:** a) Cactus candelabro → norte (desierto).
+   **Retroalimentación:** ¡Muy bien! El cactus candelabro crece en el desierto del norte, la araucaria en el bosque templado del sur y el copihue en el bosque del centro-sur. La flora nativa de Chile cambia según el clima y el paisaje de cada zona.
 
-4. *(Aplicación)* Nombra un cultivo agrícola importante del valle central de Chile y
-   uno del sur de Chile.
-   **Respuesta esperada:** Valle central: uva, manzana, durazno o trigo. Sur: papa
-   (especialmente en Chiloé).
-   **Retroalimentación:** ¡Bien hecho! El clima de cada zona determina qué cultivos
-   se dan mejor: el valle central es templado y con riego, mientras que el sur es
-   más lluvioso y fresco.
+4. *(Alternativas — aplicación)* ¿Qué pareja une bien un **cultivo** con la zona de Chile donde es importante?
+   a) Papa → desierto de Atacama, donde no llueve
+   b) Uva → hielos de la Antártica, por el frío
+   c) Trigo → fondo del océano, junto a las algas
+   d) Papa → sur de Chile (especialmente Chiloé)
+   **Respuesta correcta:** d) Papa → sur de Chile (especialmente Chiloé).
+   **Retroalimentación:** ¡Bien hecho! En el sur, lluvioso y fresco, es muy importante la papa (especialmente en Chiloé); en el valle central, templado y con riego, se cultivan uva, manzana, durazno o trigo. El clima de cada zona determina qué cultivos se dan mejor.
 
-5. *(Observación/relación)* Mira esta imagen: hojas de boldo junto a una taza de
-   infusión.
+5. *(Alternativas — observación)* Mira esta imagen: hojas de boldo junto a una taza de infusión.
    ::emoji::🍃::ramas de boldo con hojas ovaladas junto a una taza humeante::
    ¿Para qué se usa tradicionalmente esta planta chilena?
-   **Respuesta correcta:** El boldo es una planta de uso medicinal, tradicionalmente
-   usada para problemas digestivos, en infusiones.
-   **Retroalimentación:** ¡Correcto! Además de plantas para alimentación, en Chile
-   existen plantas de uso medicinal reconocidas desde hace generaciones.
+   a) Para fabricar muebles con la madera de sus ramas
+   b) Para hacer ropa y telas con sus hojas secas
+   c) Como alimento principal del almuerzo, cocida con papas
+   d) Como planta medicinal, en infusiones para problemas digestivos
+   **Respuesta correcta:** d) Como planta medicinal, en infusiones para problemas digestivos.
+   **Retroalimentación:** ¡Correcto! Además de plantas para alimentación, en Chile existen plantas de uso medicinal reconocidas desde hace generaciones, como el boldo.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué las plantas de Chile cambian
-   tanto entre el norte, el centro y el sur del país.
-   **Respuesta esperada:** Porque el clima cambia mucho entre zonas (más seco en el
-   norte, templado en el centro, más lluvioso y frío en el sur), y cada planta está
-   adaptada a las condiciones de la zona donde crece.
-   **Retroalimentación:** ¡Muy buena explicación! La geografía y el clima de Chile
-   son muy variados, y por eso también lo es su flora.
+6. *(Alternativas)* ¿Por qué las plantas de Chile cambian tanto entre el norte, el centro y el sur del país?
+   a) Porque las personas las pintan de distintos colores según la región donde viven
+   b) Porque en el sur no llega la luz del sol y las plantas crecen sin necesitarla
+   c) Porque el clima cambia mucho entre zonas y cada planta está adaptada a las condiciones de donde crece
+   d) Porque todas las plantas de Chile son iguales y solo cambia el nombre que les damos
+   **Respuesta correcta:** c) Porque el clima cambia mucho entre zonas y cada planta está adaptada a las condiciones de donde crece.
+   **Retroalimentación:** ¡Muy buena explicación! El norte es más seco, el centro templado y el sur más lluvioso y frío. La geografía y el clima de Chile son muy variados, y por eso también lo es su flora.
 
 ---
 
@@ -232,38 +233,37 @@ verdes de nuestro entorno.
    **Retroalimentación:** Así es. Por eso, cuando se destruyen bosques, el suelo
    queda más expuesto y se erosiona con mayor facilidad.
 
-3. *(Clasificar/agrupar)* Junta cada ejemplo con el tipo de importancia de las
-   plantas que representa: manzanas para comer, madera para construir una casa,
-   sombra de un árbol para un ave que anida. Categorías: alimento, producto derivado,
-   protección/refugio.
-   **Respuesta correcta:** Manzanas → alimento. Madera → producto derivado. Sombra
-   para el nido → protección/refugio.
-   **Retroalimentación:** ¡Muy bien! Las plantas cumplen muchas funciones distintas
-   para los demás seres vivos, no solo la de alimento.
+3. *(Alternativas — clasificar)* ¿De qué importancia de las plantas es un ejemplo la **sombra de un árbol** donde anida un ave?
+   a) Protección/refugio
+   b) Alimento
+   c) Producto derivado
+   d) Ninguna importancia
+   **Respuesta correcta:** a) Protección/refugio.
+   **Retroalimentación:** ¡Muy bien! Las manzanas son alimento, la madera es un producto derivado y la sombra para el nido es protección/refugio. Las plantas cumplen muchas funciones distintas para los demás seres vivos, no solo la de alimento.
 
-4. *(Relacionar causa-efecto)* ¿Qué le puede pasar a los animales que vivían en un
-   bosque si este es talado por completo?
-   **Respuesta esperada:** Pueden perder su alimento y su refugio, verse obligados a
-   desplazarse a otro lugar o, en casos graves, disminuir su población.
-   **Retroalimentación:** ¡Exacto! Por eso decimos que destruir las plantas de un
-   ecosistema afecta a toda la cadena de seres vivos que dependen de ellas.
+4. *(Alternativas — causa y efecto)* ¿Qué le puede pasar a los animales que vivían en un bosque si este es talado por completo?
+   a) Tendrán más comida que antes, porque queda más espacio libre
+   b) Se volverán animales domésticos y vivirán en las casas cercanas
+   c) No les pasa nada, porque no necesitan el bosque para vivir ni comer
+   d) Pueden perder su alimento y su refugio, desplazarse o disminuir su población
+   **Respuesta correcta:** d) Pueden perder su alimento y su refugio, desplazarse o disminuir su población.
+   **Retroalimentación:** ¡Exacto! Por eso decimos que destruir las plantas de un ecosistema afecta a toda la cadena de seres vivos que dependen de ellas.
 
-5. *(Aplicación)* Propón dos medidas concretas para cuidar las plantas de tu barrio o
-   de tu colegio.
-   **Respuesta esperada:** Cualquier combinación razonable, por ejemplo: no arrancar
-   plantas ni cortar ramas sin necesidad, regar y cuidar las áreas verdes, participar
-   en la plantación de árboles nativos, evitar hacer fuego cerca de zonas con
-   vegetación seca.
-   **Retroalimentación:** ¡Excelente! Cuidar las plantas de nuestro entorno es una
-   forma concreta de proteger también a los animales que dependen de ellas.
+5. *(Varias correctas — aplicación)* ¿Qué medidas ayudan a cuidar las plantas de tu barrio o de tu colegio? Marca **todas** las correctas.
+   a) Regar y cuidar las áreas verdes
+   b) Arrancar flores para llevarlas a la casa
+   c) Participar en la plantación de árboles nativos
+   d) Evitar hacer fuego cerca de vegetación seca
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** ¡Excelente! Cuidar las plantas de nuestro entorno es una forma concreta de proteger también a los animales que dependen de ellas. Arrancar flores o cortar ramas sin necesidad las daña.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué decimos que las plantas son
-   "la base de la vida" para los demás seres vivos.
-   **Respuesta esperada:** Porque producen el oxígeno que respiramos, sirven de
-   alimento directo o indirecto a muchos animales, y dan refugio y protección; sin
-   ellas, la mayoría de los ecosistemas no podrían sostener la vida animal.
-   **Retroalimentación:** ¡Muy buena reflexión! Entender esta dependencia nos ayuda a
-   valorar por qué es tan importante cuidar la flora de nuestro planeta.
+6. *(Alternativas)* ¿Por qué decimos que las plantas son "la base de la vida" para los demás seres vivos?
+   a) Porque son los seres vivos más grandes y más antiguos del planeta
+   b) Porque producen oxígeno, sirven de alimento directo o indirecto y dan refugio
+   c) Porque no necesitan agua ni luz, y así pueden vivir en cualquier lugar
+   d) Porque solo los humanos las usan como alimento y para fabricar cosas
+   **Respuesta correcta:** b) Porque producen oxígeno, sirven de alimento directo o indirecto y dan refugio.
+   **Retroalimentación:** ¡Muy buena reflexión! Sin las plantas, la mayoría de los ecosistemas no podrían sostener la vida animal. Entender esta dependencia nos ayuda a valorar por qué es tan importante cuidar la flora.
 
 ---
 
@@ -338,40 +338,38 @@ recursos del planeta y a generar menos contaminación.
    **Retroalimentación:** Así es. Los restos orgánicos se degradan en semanas o
    meses, mientras que el plástico puede tardar cientos de años.
 
-3. *(Clasificar/agrupar)* Junta cada acción con la "erre" que representa: usar los
-   dos lados de una hoja de papel, transformar botellas plásticas en fibra para ropa,
-   usar un frasco de vidrio para guardar lápices. Categorías: reducir, reciclar,
-   reutilizar.
-   **Respuesta correcta:** Usar los dos lados de la hoja → reducir. Transformar
-   botellas en fibra → reciclar. Usar un frasco para guardar lápices → reutilizar.
-   **Retroalimentación:** ¡Muy bien! Cada una de las tres erres representa una forma
-   distinta de aprovechar mejor los recursos.
+3. *(Alternativas — clasificar)* ¿A qué "erre" corresponde **usar un frasco de vidrio para guardar lápices**?
+   a) Reutilizar
+   b) Reducir
+   c) Reciclar
+   **Respuesta correcta:** a) Reutilizar.
+   **Retroalimentación:** ¡Muy bien! Usar los dos lados de una hoja es reducir, transformar botellas plásticas en fibra para ropa es reciclar, y darle un nuevo uso a un frasco es reutilizar. Cada erre es una forma distinta de aprovechar mejor los recursos.
 
-4. *(Aplicación)* Propón una práctica simple para reducir los desechos en tu casa o
-   en tu colegio.
-   **Respuesta esperada:** Cualquier respuesta razonable, por ejemplo: llevar una
-   botella reutilizable en vez de comprar bebidas en envases desechables, comprar
-   solo lo necesario, evitar el uso de bolsas plásticas de un solo uso.
-   **Retroalimentación:** ¡Excelente! Reducir es la primera de las tres erres, porque
-   evita que el desecho se genere desde un principio.
+4. *(Alternativas — aplicación)* ¿Qué práctica ayuda a **reducir** los desechos en tu casa o en tu colegio?
+   a) Comprar más bolsas plásticas de un solo uso para separar la basura en la casa
+   b) Botar la comida que sobra todos los días, para que no se eche a perder
+   c) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables
+   d) Imprimir las tareas por un solo lado de cada hoja y botar las que salen mal
+   **Respuesta correcta:** c) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables.
+   **Retroalimentación:** ¡Excelente! Comprar solo lo necesario y evitar envases y bolsas de un solo uso también reduce. Reducir es la primera de las tres erres, porque evita que el desecho se genere desde un principio.
 
-5. *(Observación/análisis)* Mira esta imagen: un basurero con restos de comida,
-   botellas de plástico y hojas de papel usado, todos mezclados.
+5. *(Alternativas — análisis)* Mira esta imagen: un basurero con restos de comida, botellas de plástico y hojas de papel usado, todos mezclados.
    ::emoji::🎨::un basurero desordenado con distintos tipos de desechos mezclados::
    ¿Por qué es un problema que estos desechos estén todos mezclados?
-   **Respuesta correcta:** Porque al estar mezclados es más difícil separarlos para
-   reutilizarlos o reciclarlos correctamente, y muchos materiales que podrían
-   convertirse en recursos terminan como basura.
-   **Retroalimentación:** ¡Correcto! Separar los desechos según su material es el
-   primer paso para poder reutilizarlos o reciclarlos.
+   a) Porque es más difícil separarlos para reutilizarlos o reciclarlos, y terminan como basura
+   b) Porque el basurero se ve más bonito ordenado y así no da vergüenza sacarlo a la calle
+   c) Porque la basura mezclada pesa menos y el camión se la lleva antes
+   d) No es un problema, porque toda la basura termina en el mismo vertedero
+   **Respuesta correcta:** a) Porque es más difícil separarlos para reutilizarlos o reciclarlos, y terminan como basura.
+   **Retroalimentación:** ¡Correcto! Separar los desechos según su material es el primer paso para poder reutilizarlos o reciclarlos.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué decimos que la basura puede
-   ser también "una fuente de recursos".
-   **Respuesta esperada:** Porque muchos desechos, en vez de botarse, se pueden
-   reutilizar para otro fin o procesar para fabricar productos nuevos (reciclar), en
-   vez de convertirse en basura que contamina y ocupa espacio.
-   **Retroalimentación:** ¡Muy buena reflexión! Ver los desechos como recursos, y no
-   solo como basura, es clave para cuidar el planeta.
+6. *(Alternativas)* ¿Por qué decimos que la basura puede ser también "una fuente de recursos"?
+   a) Porque la basura se puede vender tal como está, sin separarla ni hacerle nada
+   b) Porque la basura no contamina si se deja en un lugar lejos de las casas
+   c) Porque toda la basura se puede comer si se lava bien antes de cocinarla
+   d) Porque muchos desechos se pueden reutilizar o reciclar para fabricar productos nuevos
+   **Respuesta correcta:** d) Porque muchos desechos se pueden reutilizar o reciclar para fabricar productos nuevos.
+   **Retroalimentación:** ¡Muy buena reflexión! En vez de convertirse en basura que contamina y ocupa espacio, muchos desechos se pueden aprovechar. Ver los desechos como recursos es clave para cuidar el planeta.
 
 ---
 
@@ -430,10 +428,10 @@ obesidad o la desnutrición.
 
 1. *(Alternativas)* ¿Qué función cumplen principalmente las frutas y verduras en tu
    organismo?
-   a) Dar energía
+   a) Dar energía rápida para correr y jugar
    b) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
-   c) Ayudar a crecer los músculos
-   d) Ninguna función especial
+   c) Ayudar a crecer los músculos y los huesos, porque tienen mucha proteína
+   d) Ninguna función especial: solo dan sabor
    **Respuesta correcta:** b) Aportar vitaminas y minerales que regulan el
    funcionamiento del cuerpo.
    **Retroalimentación:** ¡Correcto! Las frutas y verduras son alimentos
@@ -445,43 +443,40 @@ obesidad o la desnutrición.
    **Retroalimentación:** Así es. El exceso de estos alimentos, en el tiempo, puede
    afectar negativamente la salud, aunque comerlos ocasionalmente no es un problema.
 
-3. *(Clasificar/agrupar)* Junta cada alimento según su función principal en el
-   organismo: pan, huevo, zanahoria, pescado, papas, naranja. Grupos: energía,
-   constructores, reguladores.
-   **Respuesta correcta:** Energía: pan, papas. Constructores: huevo, pescado.
-   Reguladores: zanahoria, naranja.
-   **Retroalimentación:** ¡Muy bien! Una alimentación saludable combina alimentos de
-   los tres grupos.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos alimentos son **constructores** (ayudan a crecer y reparar el cuerpo)? Marca **todas** las correctas.
+   a) Pan
+   b) Huevo
+   c) Zanahoria
+   d) Pescado
+   **Respuesta correcta:** b y d.
+   **Retroalimentación:** ¡Muy bien! El huevo y el pescado son constructores; el pan y las papas dan energía, y la zanahoria y la naranja son reguladores. Una alimentación saludable combina alimentos de los tres grupos.
 
-4. *(Aplicación)* Describe un hábito alimenticio saludable que puedas incorporar en
-   tu día a día.
-   **Respuesta esperada:** Cualquier respuesta razonable, por ejemplo: tomar agua en
-   vez de bebidas azucaradas, comer fruta como colación, no saltarse el desayuno,
-   comer verduras en el almuerzo.
-   **Retroalimentación:** ¡Excelente! Los pequeños hábitos diarios son los que más
-   ayudan a mantener una alimentación equilibrada a largo plazo.
+4. *(Varias correctas — aplicación)* ¿Cuáles de estos son **hábitos alimenticios saludables**? Marca **todas** las correctas.
+   a) Tomar agua en vez de bebidas azucaradas
+   b) Comer fruta como colación
+   c) Saltarse el desayuno
+   d) Comer verduras en el almuerzo
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** ¡Excelente! Los pequeños hábitos diarios son los que más ayudan a mantener una alimentación equilibrada. Saltarse el desayuno deja al cuerpo sin energía para la mañana.
 
-5. *(Observación/análisis)* Mira esta imagen: una colación con papas fritas de
-   paquete, una bebida azucarada y golosinas.
+5. *(Alternativas — análisis)* Mira esta imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas.
    ::emoji::🪑::una mesa con snacks envasados, papas fritas y una bebida de color muy
    llamativo::
    ¿Por qué esta colación no es la opción más saludable para comer todos los días?
-   **Respuesta correcta:** Porque tiene alimentos altos en grasas, azúcar y sal, y no
-   incluye alimentos reguladores como frutas o verduras; consumirla en exceso y con
-   frecuencia puede ser perjudicial para la salud.
-   **Retroalimentación:** ¡Correcto! No se trata de nunca comer estos alimentos, sino
-   de no basar la alimentación diaria en ellos.
+   a) Porque es muy cara y se puede comprar algo más barato en el kiosco
+   b) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
+   c) Porque tiene demasiadas verduras y le faltan alimentos con azúcar
+   d) Porque no tiene colores llamativos y a los niños no les gusta comerla
+   **Respuesta correcta:** b) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.
+   **Retroalimentación:** ¡Correcto! Consumirla en exceso y con frecuencia puede ser perjudicial para la salud. No se trata de nunca comer estos alimentos, sino de no basar la alimentación diaria en ellos.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué es importante comer
-   alimentos de los tres grupos (energéticos, constructores y reguladores) y no solo
-   de uno.
-   **Respuesta esperada:** Porque cada grupo cumple una función distinta y necesaria:
-   los energéticos dan fuerza para moverse, los constructores ayudan a crecer y
-   reparar el cuerpo, y los reguladores ayudan a que el cuerpo funcione bien y se
-   defienda de enfermedades; si faltara alguno, el cuerpo no tendría todo lo que
-   necesita.
-   **Retroalimentación:** ¡Muy buena explicación! Una alimentación equilibrada
-   combina alimentos de todos los grupos, en las cantidades adecuadas.
+6. *(Alternativas)* ¿Por qué es importante comer alimentos de los tres grupos (energéticos, constructores y reguladores) y no solo de uno?
+   a) Porque así se come más cantidad y el cuerpo crece más rápido
+   b) Porque los tres grupos tienen el mismo sabor y se pueden cambiar entre sí
+   c) Porque cada grupo cumple una función distinta y necesaria para el cuerpo
+   d) Porque comer de un solo grupo engorda, aunque sea de verduras y frutas
+   **Respuesta correcta:** c) Porque cada grupo cumple una función distinta y necesaria para el cuerpo.
+   **Retroalimentación:** ¡Muy buena explicación! Los energéticos dan fuerza para moverse, los constructores ayudan a crecer y reparar el cuerpo, y los reguladores ayudan a que funcione bien y se defienda de enfermedades. Si faltara alguno, el cuerpo no tendría todo lo que necesita.
 
 ---
 
@@ -564,39 +559,35 @@ escucharlo.
    líquidos; por ejemplo, puedes sentir la vibración de un sonido apoyando el oído
    sobre una mesa.
 
-3. *(Clasificar/agrupar)* Junta cada situación según corresponda a reflexión o a
-   absorción del sonido: gritar dentro de una cueva de piedra y escuchar el eco,
-   hablar en una habitación llena de cortinas y alfombras y notar el sonido apagado.
-   **Respuesta correcta:** Gritar en una cueva de piedra → reflexión (eco). Hablar en
-   una habitación con cortinas y alfombras → absorción.
-   **Retroalimentación:** ¡Muy bien! Las superficies duras y lisas tienden a
-   reflejar el sonido, mientras que los materiales blandos tienden a absorberlo.
+3. *(Alternativas — clasificar)* Gritar dentro de una cueva de piedra y escuchar el eco es un ejemplo de...
+   a) Absorción del sonido
+   b) Reflexión del sonido
+   c) Ausencia de sonido
+   **Respuesta correcta:** b) Reflexión del sonido.
+   **Retroalimentación:** ¡Muy bien! Las superficies duras y lisas, como la piedra, reflejan el sonido (eco); los materiales blandos, como cortinas y alfombras, lo absorben y lo apagan.
 
-4. *(Distinguir tono e intensidad)* Un silbato suena agudo y fuerte, y un tambor
-   grande suena grave y fuerte. ¿En qué característica se parecen y en cuál se
-   diferencian?
-   **Respuesta correcta:** Se parecen en la intensidad (ambos son fuertes) y se
-   diferencian en el tono (el silbato es agudo y el tambor es grave).
-   **Retroalimentación:** ¡Exacto! El tono y la intensidad son dos características
-   distintas del sonido, y un sonido puede tener cualquier combinación de ambas.
+4. *(Alternativas — tono e intensidad)* Un silbato suena agudo y fuerte, y un tambor grande suena grave y fuerte. ¿En qué se parecen y en qué se diferencian?
+   a) Se parecen en la intensidad (ambos son fuertes) y se diferencian en el tono (agudo y grave)
+   b) Se parecen en el tono (ambos son agudos) y se diferencian en la intensidad (fuerte y débil)
+   c) Se parecen en todo: los dos suenan fuerte y los dos suenan agudo
+   d) No se parecen en nada, porque uno es de metal y el otro de cuero
+   **Respuesta correcta:** a) Se parecen en la intensidad (ambos son fuertes) y se diferencian en el tono (agudo y grave).
+   **Retroalimentación:** ¡Exacto! El tono y la intensidad son dos características distintas del sonido, y un sonido puede tener cualquier combinación de ambas.
 
-5. *(Observación/predicción)* Si hablas en voz baja dentro de una habitación vacía
-   con paredes lisas y luego dentro de la misma habitación, pero llena de muebles
-   tapizados y cortinas, ¿en cuál crees que el sonido se escuchará con más eco?
-   **Respuesta correcta:** En la habitación vacía con paredes lisas, porque los
-   materiales duros y lisos reflejan más el sonido, mientras que los muebles
-   tapizados y cortinas lo absorben.
-   **Retroalimentación:** ¡Correcto! Por eso las salas de grabación o de música
-   suelen tener materiales blandos en las paredes, para reducir el eco.
+5. *(Alternativas — predicción)* Si hablas en voz baja en una habitación vacía con paredes lisas y luego en la misma habitación llena de muebles tapizados y cortinas, ¿en cuál se escuchará más eco?
+   a) En la habitación con muebles tapizados y cortinas
+   b) En las dos igual
+   c) En la habitación vacía con paredes lisas
+   **Respuesta correcta:** c) En la habitación vacía con paredes lisas.
+   **Retroalimentación:** ¡Correcto! Los materiales duros y lisos reflejan más el sonido, mientras que los muebles tapizados y las cortinas lo absorben. Por eso las salas de grabación suelen tener materiales blandos en las paredes.
 
-6. *(Desarrollo breve)* Explica con tus palabras la diferencia entre el tono y la
-   intensidad de un sonido, dando un ejemplo de cada uno.
-   **Respuesta esperada:** El tono indica si un sonido es agudo (como un silbido) o
-   grave (como un rugido); la intensidad indica si un sonido es fuerte (como una
-   bocina) o débil (como un susurro). Son dos características distintas e
-   independientes del sonido.
-   **Retroalimentación:** ¡Muy buena explicación! Distinguir tono e intensidad te
-   ayuda a describir con más precisión cualquier sonido que escuches.
+6. *(Alternativas)* ¿Qué afirmación explica bien la diferencia entre el **tono** y la **intensidad** de un sonido?
+   a) El tono indica si es fuerte o débil; la intensidad, si es agudo o grave
+   b) Tono e intensidad significan lo mismo
+   c) La intensidad indica de qué color es el sonido
+   d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil
+   **Respuesta correcta:** d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil.
+   **Retroalimentación:** ¡Muy buena explicación! Un silbido es agudo y un rugido es grave (tono); una bocina es fuerte y un susurro es débil (intensidad). Son dos características distintas e independientes del sonido.
 
 ---
 
@@ -680,40 +671,39 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
    **Retroalimentación:** La Luna no tiene luz propia: la vemos brillar porque
    refleja la luz del Sol. El Sol sí es una estrella y emite luz propia.
 
-3. *(Ordenar secuencia)* Ordena estos planetas según su cercanía al Sol, del más
-   cercano al más lejano: Tierra, Mercurio, Marte, Venus.
-   **Respuesta correcta:** Mercurio → Venus → Tierra → Marte.
-   **Retroalimentación:** ¡Muy bien! Estos son los cuatro planetas más cercanos al
-   Sol, y son los más pequeños y rocosos del Sistema Solar.
+3. *(Alternativas — ordenar)* ¿Cuál es el orden de estos planetas según su cercanía al Sol, del más cercano al más lejano?
+   a) Tierra → Venus → Mercurio → Marte
+   b) Mercurio → Venus → Tierra → Marte
+   c) Venus → Mercurio → Marte → Tierra
+   d) Mercurio → Tierra → Venus → Marte
+   **Respuesta correcta:** b) Mercurio → Venus → Tierra → Marte.
+   **Retroalimentación:** ¡Muy bien! Estos son los cuatro planetas más cercanos al Sol, y son los más pequeños y rocosos del Sistema Solar.
 
-4. *(Clasificar/agrupar)* Junta cada cuerpo con su descripción: Sol, planeta, luna,
-   cometa. Descripciones: estrella que emite luz propia, gira alrededor de una
-   estrella y refleja su luz, gira alrededor de un planeta, formado de hielo y
-   polvo, forma una cola al acercarse al Sol.
-   **Respuesta correcta:** Sol → estrella que emite luz propia. Planeta → gira
-   alrededor de una estrella y refleja su luz. Luna → gira alrededor de un planeta.
-   Cometa → formado de hielo y polvo, forma una cola al acercarse al Sol.
-   **Retroalimentación:** ¡Bien hecho! Cada componente del Sistema Solar tiene
-   características propias que lo diferencian de los demás.
+4. *(Alternativas — clasificar)* ¿Qué cuerpo del Sistema Solar está formado de hielo y polvo y forma una **cola** al acercarse al Sol?
+   a) Una luna
+   b) Un planeta
+   c) Un cometa
+   d) El Sol
+   **Respuesta correcta:** c) Un cometa.
+   **Retroalimentación:** ¡Bien hecho! El Sol es una estrella con luz propia, un planeta gira alrededor de una estrella y refleja su luz, una luna gira alrededor de un planeta y un cometa forma una cola al acercarse al Sol.
 
-5. *(Observación)* Mira esta imagen: la Luna se ve completamente iluminada, como un
-   círculo brillante y completo en el cielo nocturno.
+5. *(Alternativas — observación)* Mira esta imagen: la Luna se ve completamente iluminada, como un círculo brillante y completo en el cielo nocturno.
    ::emoji::🌙::la Luna llena, totalmente redonda e iluminada::
    ¿Qué fase de la Luna corresponde a esta imagen?
-   **Respuesta correcta:** Luna llena, porque se observa toda su superficie
-   iluminada desde la Tierra.
-   **Retroalimentación:** ¡Correcto! La Luna llena es la fase en la que vemos el
-   disco lunar completamente iluminado.
+   a) Luna llena
+   b) Luna nueva
+   c) Cuarto creciente
+   d) Cuarto menguante
+   **Respuesta correcta:** a) Luna llena.
+   **Retroalimentación:** ¡Correcto! La Luna llena es la fase en la que vemos el disco lunar completamente iluminado desde la Tierra.
 
-6. *(Desarrollo breve)* Explica con tus palabras por qué los planetas más cercanos
-   al Sol son distintos de los planetas más lejanos, en cuanto a su tamaño y
-   composición.
-   **Respuesta esperada:** Los cuatro planetas más cercanos al Sol (Mercurio, Venus,
-   Tierra y Marte) son más pequeños y rocosos, mientras que los cuatro más lejanos
-   (Júpiter, Saturno, Urano y Neptuno) son mucho más grandes y están formados
-   principalmente por gases.
-   **Retroalimentación:** ¡Muy buena explicación! Esta diferencia es una de las
-   características más importantes para comparar los planetas del Sistema Solar.
+6. *(Alternativas)* ¿En qué se diferencian los planetas más cercanos al Sol de los más lejanos?
+   a) Los cercanos son más grandes y gaseosos; los lejanos son pequeños y rocosos
+   b) Todos los planetas son del mismo tamaño y están hechos de roca
+   c) Los lejanos tienen más luz propia porque están más cerca de otras estrellas
+   d) Los cercanos son más pequeños y rocosos; los lejanos son mucho más grandes y gaseosos
+   **Respuesta correcta:** d) Los cercanos son más pequeños y rocosos; los lejanos son mucho más grandes y gaseosos.
+   **Retroalimentación:** ¡Muy buena explicación! Mercurio, Venus, Tierra y Marte son pequeños y rocosos; Júpiter, Saturno, Urano y Neptuno son grandes y formados principalmente por gases.
 
 ---
 
@@ -786,40 +776,37 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
    **Retroalimentación:** La traslación dura aproximadamente 365 días (un año). El
    movimiento que dura 24 horas es la rotación.
 
-3. *(Clasificar/agrupar)* Junta cada característica con el movimiento que le
-   corresponde: dura aproximadamente 24 horas, dura aproximadamente 365 días,
-   produce el día y la noche, es el recorrido de la Tierra alrededor del Sol.
-   Movimientos: rotación, traslación.
-   **Respuesta correcta:** Rotación → dura aproximadamente 24 horas, produce el día
-   y la noche. Traslación → dura aproximadamente 365 días, es el recorrido de la
-   Tierra alrededor del Sol.
-   **Retroalimentación:** ¡Muy bien! No hay que confundir estos dos movimientos:
-   ocurren al mismo tiempo, pero explican fenómenos distintos.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas características corresponden a la **rotación** de la Tierra? Marca **todas** las correctas.
+   a) Dura aproximadamente 24 horas
+   b) Dura aproximadamente 365 días
+   c) Produce el día y la noche
+   d) Es el recorrido de la Tierra alrededor del Sol
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** ¡Muy bien! La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y es el recorrido alrededor del Sol. Ocurren al mismo tiempo, pero explican fenómenos distintos.
 
-4. *(Observación/modelo)* Un estudiante hace girar un globo terráqueo frente a una
-   linterna fija y observa que distintas partes del globo se van iluminando y
-   oscureciendo. ¿Qué movimiento de la Tierra está representando este modelo?
-   **Respuesta correcta:** Está representando la rotación, el giro de la Tierra
-   sobre su propio eje, que explica el día y la noche.
-   **Retroalimentación:** ¡Exacto! Este tipo de modelo con un globo y una fuente de
-   luz es una excelente forma de comprender por qué existen el día y la noche.
+4. *(Alternativas — modelo)* Un estudiante hace girar un globo terráqueo frente a una linterna fija y observa que distintas partes del globo se van iluminando y oscureciendo. ¿Qué movimiento de la Tierra está representando?
+   a) La traslación, que explica el año
+   b) La rotación, que explica el día y la noche
+   c) Un eclipse de Sol, que oscurece la Tierra
+   d) Las fases de la Luna, que cambian cada noche
+   **Respuesta correcta:** b) La rotación, que explica el día y la noche.
+   **Retroalimentación:** ¡Exacto! La rotación es el giro de la Tierra sobre su propio eje. Este modelo con un globo y una fuente de luz es una excelente forma de comprender por qué existen el día y la noche.
 
-5. *(Relacionar causa-efecto)* ¿Por qué, mientras en Chile es de noche, al mismo
-   tiempo en otros países del mundo puede ser de día?
-   **Respuesta correcta:** Porque solo la mitad de la Tierra está de frente al Sol en
-   un momento dado; mientras Chile está en la mitad que da la espalda al Sol (noche),
-   otras zonas del planeta están en la mitad iluminada (día).
-   **Retroalimentación:** ¡Correcto! Este fenómeno ocurre gracias a la rotación de la
-   Tierra sobre su propio eje.
+5. *(Alternativas — causa y efecto)* ¿Por qué, mientras en Chile es de noche, en otros países del mundo puede ser de día?
+   a) Porque el Sol se apaga sobre Chile cada noche y vuelve a encenderse
+   b) Porque la Luna tapa el Sol solo en Chile mientras gira alrededor de la Tierra
+   c) Porque solo la mitad de la Tierra está de frente al Sol en cada momento
+   d) Porque en otros países hay dos soles que se turnan para iluminar
+   **Respuesta correcta:** c) Porque solo la mitad de la Tierra está de frente al Sol en cada momento.
+   **Retroalimentación:** ¡Correcto! Mientras Chile está en la mitad que da la espalda al Sol (noche), otras zonas están en la mitad iluminada (día). Esto ocurre gracias a la rotación de la Tierra.
 
-6. *(Desarrollo breve)* Explica con tus palabras la diferencia entre la rotación y
-   la traslación de la Tierra, y qué efecto produce cada una.
-   **Respuesta esperada:** La rotación es el giro de la Tierra sobre su propio eje,
-   dura aproximadamente 24 horas y produce el día y la noche. La traslación es el
-   recorrido de la Tierra alrededor del Sol, dura aproximadamente 365 días y da
-   origen al año.
-   **Retroalimentación:** ¡Muy buena explicación! Comprender estos dos movimientos te
-   ayuda a entender por qué se organiza el tiempo en días y años.
+6. *(Alternativas)* ¿Qué afirmación sobre la rotación y la traslación es correcta?
+   a) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año
+   b) La rotación dura cerca de 365 días y produce las estaciones; la traslación dura cerca de 24 horas y produce el día y la noche
+   c) Las dos producen el día y la noche: la rotación ilumina el hemisferio norte y la traslación ilumina el hemisferio sur
+   d) La traslación es el giro de la Tierra sobre su propio eje y dura un día; la rotación es su vuelta alrededor de la Luna
+   **Respuesta correcta:** a) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año.
+   **Retroalimentación:** ¡Muy buena explicación! Comprender estos dos movimientos te ayuda a entender por qué se organiza el tiempo en días y años.
 
 ---
 

@@ -9,6 +9,7 @@ cantidad_preguntas: 13
 oa_evaluados: OA 3, OA 4
 basado_en: contenido/01-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 3","11":"OA 4","12":"OA 4","13":"OA 4"}
 ---
 
 # Prueba de Unidad — Eje 2: Álgebra y Funciones
@@ -26,18 +27,38 @@ d) 2x + 8
 **Pregunta 2 (verdadero o falso).** (x−7)² es igual a x² − 49.
 
 **Pregunta 3 (calcular).** Desarrolla: (3x+2)(3x−2).
-a) 9x² − 4
+a) 6x² − 4
 b) 3x² − 4
 c) 9x² − 2
-d) 6x² − 4
+d) 9x² − 4
 
-**Pregunta 4 (desarrollo).** Desarrolla: (x+5)(x+2).
+**Pregunta 4 (Alternativas — binomio con término común).** Desarrolla: (x + 5)(x + 2).
 
-**Pregunta 5 (desarrollo).** Factoriza: 9x² − 25.
+a) x² + 7x + 10
+b) x² + 10x + 7
+c) x² + 7
+d) 2x + 7
 
-**Pregunta 6 (problema en contexto).** Un terreno cuadrado tiene lado (x+6) metros. Escribe una expresión que represente su área, desarrollada como un trinomio.
+**Pregunta 5 (Alternativas — diferencia de cuadrados).** Factoriza: 9x² − 25.
 
-**Pregunta 7 (problema en contexto).** Determina qué número se debe sumar a la expresión x² + 10x para que se transforme en un cuadrado de binomio perfecto, y escribe el binomio resultante.
+a) (3x − 5)²
+b) (9x + 5)(x − 5)
+c) (3x + 25)(3x − 1)
+d) (3x + 5)(3x − 5)
+
+**Pregunta 6 (Alternativas — área).** Un terreno cuadrado tiene lado (x + 6) m. ¿Qué trinomio representa su área?
+
+a) x² + 36
+b) x² + 12x + 36
+c) x² + 6x + 36
+d) 4x + 24
+
+**Pregunta 7 (Alternativas — completar el cuadrado).** ¿Qué número se suma a x² + 10x para obtener un cuadrado de binomio perfecto, y cuál es ese binomio?
+
+a) 100; (x + 10)²
+b) 10; (x + 10)²
+c) 25; (x + 5)²
+d) 5; (x + 5)²
 
 **Pregunta 8 (alternativas).** ¿Cuál es la solución del sistema x+y=10; x−y=2?
 a) x=4, y=6
@@ -48,16 +69,31 @@ d) x=8, y=2
 **Pregunta 9 (verdadero o falso).** Un sistema cuyas dos rectas son paralelas y distintas tiene infinitas soluciones.
 
 **Pregunta 10 (calcular).** Resuelve el sistema y=2x+1; y=−x+7, e indica el valor de x.
-a) x=2
+a) x=4
 b) x=3
-c) x=4
+c) x=2
 d) x=1
 
-**Pregunta 11 (desarrollo).** Resuelve el sistema: x=3y; 2x+y=21.
+**Pregunta 11 (Alternativas — método de sustitución).** Resuelve: x = 3y; 2x + y = 21.
 
-**Pregunta 12 (desarrollo).** Resuelve el sistema: 4x+3y=18; 2x+3y=12.
+a) x = 9, y = 3
+b) x = 3, y = 9
+c) x = 7, y = 7
+d) x = 6, y = 2
 
-**Pregunta 13 (problema en contexto).** La suma de las edades de dos hermanos es 24 años. La diferencia entre la edad del mayor y el menor es 6 años. Plantea el sistema de ecuaciones y encuentra ambas edades.
+**Pregunta 12 (Alternativas — método de reducción).** Resuelve: 4x + 3y = 18; 2x + 3y = 12.
+
+a) x = 2, y = 3
+b) x = 6, y = −2
+c) x = 3, y = 6
+d) x = 3, y = 2
+
+**Pregunta 13 (Alternativas — edades).** La suma de las edades de dos hermanos es 24 y su diferencia es 6. ¿Qué edades tienen?
+
+a) 18 y 6 años
+b) 15 y 9 años
+c) 12 y 12 años
+d) 16 y 10 años
 
 ---
 
@@ -67,24 +103,24 @@ d) x=1
 
 **2. Falso.** (x−7)² es un cuadrado de binomio: x²−14x+49, no una diferencia de cuadrados.
 
-**3. a) 9x² − 4.** (3x+2)(3x−2) = (3x)² − 2² = 9x² − 4.
+**3. d) 9x² − 4.** (3x+2)(3x−2) = (3x)² − 2² = 9x² − 4.
 
-**4. x² + 7x + 10.** x² + (5+2)x + (5×2) = x² + 7x + 10.
+**4. a) x² + 7x + 10.** El coeficiente de x es la suma de los términos no comunes (5 + 2) y el término libre, su producto (5 · 2).
 
-**5. (3x+5)(3x−5).** a²=9x² (a=3x), b²=25 (b=5).
+**5. d) (3x + 5)(3x − 5).** "cuadrado menos cuadrado" se factoriza como suma por diferencia de las raíces: a = 3x, b = 5.
 
-**6. x² + 12x + 36 (m²).** Área = (x+6)² = x² + 12x + 36.
+**6. b) x² + 12x + 36.** (x + 6)² = x² + 2·6x + 36; olvidar el doble producto (x² + 36) es un error frecuente.
 
-**7. 25; (x+5)².** Se necesita sumar (10/2)² = 25. La expresión x²+10x+25 = (x+5)².
+**7. c) 25; (x + 5)².** Se toma la mitad del coeficiente de x y se eleva al cuadrado: (10/2)² = 25.
 
 **8. b) x=6, y=4.** Sumando ambas ecuaciones se elimina y: 2x=12, x=6; reemplazando: y=4.
 
 **9. Falso.** Dos rectas paralelas y distintas nunca se cortan, por lo tanto el sistema no tiene solución.
 
-**10. a) x=2.** Igualando: 2x+1=−x+7; 3x=6; x=2.
+**10. c) x=2.** Igualando: 2x+1=−x+7; 3x=6; x=2.
 
-**11. y=3, x=9.** Sustituyendo x=3y: 2(3y)+y=21; 7y=21; y=3; x=3(3)=9.
+**11. a) x = 9, y = 3.** Se reemplaza x = 3y: 6y + y = 21, y = 3; x = 9.
 
-**12. x=3, y=2.** Restando ecuaciones: 2x=6; x=3. Reemplazando: 2(3)+3y=12; y=2.
+**12. d) x = 3, y = 2.** Restando las ecuaciones se elimina y: 2x = 6, x = 3; luego 6 + 3y = 12, y = 2.
 
-**13. Mayor: 15 años; menor: 9 años.** Sistema: x+y=24; x−y=6. Sumando: 2x=30; x=15; y=24−15=9.
+**13. b) 15 y 9 años.** X + y = 24 y x − y = 6; sumando, 2x = 30, x = 15 e y = 9.

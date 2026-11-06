@@ -76,12 +76,12 @@ Se aplica la propiedad de la suma de logaritmos: \( \log_3(9) + \log_3(27) = \lo
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Simplifica √200.
-a) 10√2
+a) 2√100
 b) 20√5
-c) 2√100
+c) 10√2
 d) 100√2
 
-**Respuesta correcta: a) 10√2.**
+**Respuesta correcta: c) 10√2.**
 *Retroalimentación:* 200 = 100×2, y 100 es un cuadrado perfecto (10²), por lo tanto √200 = √100×√2 = 10√2.
 
 **Pregunta 2 (verdadero o falso).** √8 × √2 = √16 = 4.
@@ -90,48 +90,76 @@ d) 100√2
 *Retroalimentación:* al multiplicar raíces de igual índice, se multiplican las cantidades subradicales: √8×√2 = √16 = 4.
 
 **Pregunta 3 (calcular — propiedad del cuociente).** Simplifica: √5 × √20.
-a) 10
+a) √25
 b) 25
-c) √25
+c) 10
 d) 100
 
-**Respuesta correcta: a) 10.**
+**Respuesta correcta: c) 10.**
 *Retroalimentación:* √5×√20 = √(5×20) = √100 = 10.
 
-**Pregunta 4 (desarrollo — racionalizar).** Racionaliza la expresión: 5/√2.
+**Pregunta 4 (alternativas — racionalizar).** Racionaliza: 5/√2.
+a) √10/2
+b) 5/2
+c) 5√2
+d) 5√2/2
 
-**Respuesta esperada:** multiplicando numerador y denominador por √2: (5×√2)/(√2×√2) = **5√2/2**.
-*Retroalimentación:* racionalizar no cambia el valor de la expresión, solo su forma; es útil para comparar o sumar expresiones con raíces de manera más ordenada.
+**Respuesta correcta: d) 5√2/2.**
+*Retroalimentación:* se amplifica por √2: (5√2)/(√2·√2) = 5√2/2.
 
-**Pregunta 5 (desarrollo — reducir términos semejantes).** Reduce: √75 − √12.
+**Pregunta 5 (alternativas — reducir términos semejantes).** Reduce: √75 − √12.
+a) √63
+b) 7√3
+c) 3
+d) 3√3
 
-**Respuesta esperada:** √75 = √(25×3) = 5√3; √12 = √(4×3) = 2√3. Entonces 5√3 − 2√3 = **3√3**.
-*Retroalimentación:* antes de sumar o restar raíces, siempre hay que simplificarlas primero; solo se pueden combinar directamente cuando quedan con la misma cantidad subradical.
+**Respuesta correcta: d) 3√3.**
+*Retroalimentación:* √75 = 5√3 y √12 = 2√3; solo se restan raíces semejantes: 5√3 − 2√3 = 3√3 (√63 resulta de restar los radicandos, un error frecuente).
 
-**Pregunta 6 (problema en contexto — terreno cuadrado).** Un terreno cuadrado tiene un área de 245 m². Determina la medida exacta de su lado, expresada como una raíz simplificada, y su valor aproximado con calculadora.
+**Pregunta 6 (alternativas — terreno cuadrado).** Un terreno cuadrado tiene un área de 245 m². ¿Cuánto mide su lado, como raíz simplificada y aproximadamente?
+a) 5√7 m ≈ 13,23 m
+b) 7√5 m ≈ 15,65 m
+c) 49√5 m ≈ 109,6 m
+d) √245 m ≈ 122,5 m
 
-**Respuesta esperada:** lado = √245. Como 245 = 49×5, √245 = √49×√5 = **7√5 m ≈ 15,65 m**.
-*Retroalimentación:* el lado de un cuadrado es la raíz cuadrada de su área; descomponer 245 en un factor cuadrado perfecto (49) permite simplificar la raíz antes de aproximar con calculadora.
+**Respuesta correcta: b) 7√5 m ≈ 15,65 m.**
+*Retroalimentación:* 245 = 49 · 5, así que √245 = 7√5 ≈ 15,65 m.
 
-**Pregunta 7 (problema en contexto — pH).** El pH de una solución se calcula como pH = −log[H⁺], donde [H⁺] es la concentración de iones hidrógeno. Si una muestra de agua tiene [H⁺] = 10⁻⁷, calcula su pH usando la definición de logaritmo.
+**Pregunta 7 (alternativas — pH).** Si pH = −log[H⁺] y una muestra de agua tiene [H⁺] = 10⁻⁷, ¿cuál es su pH?
+a) −7
+b) 10⁷
+c) 7
+d) 0,7
 
-**Respuesta esperada:** pH = −log(10⁻⁷) = −(−7) = **7** (agua neutra).
-*Retroalimentación:* log(10⁻⁷) = −7 porque 10 elevado a −7 da exactamente 10⁻⁷; el logaritmo en base 10 de una potencia de 10 es directamente su exponente.
+**Respuesta correcta: c) 7.**
+*Retroalimentación:* −log(10⁻⁷) = −(−7) = 7, el pH del agua neutra.
 
-**Pregunta 8 (transformar registro).** Escribe la potencia 5^(3/4) como una raíz.
+**Pregunta 8 (alternativas — transformar registro).** ¿Cómo se escribe 5^(3/4) como raíz?
+a) √(5^(3·4))
+b) ³√(5⁴) = ³√625
+c) ⁴√(5³) = ⁴√125
+d) 5 · ⁴√3
 
-**Respuesta esperada:** **⁴√(5³) = ⁴√125**.
-*Retroalimentación:* en una potencia aᵐ/ⁿ, el denominador del exponente (n) indica el índice de la raíz, y el numerador (m) indica a qué potencia se eleva la cantidad subradical.
+**Respuesta correcta: c) ⁴√(5³) = ⁴√125.**
+*Retroalimentación:* el denominador del exponente es el índice de la raíz y el numerador, la potencia del radicando.
 
-**Pregunta 9 (problema no rutinario — propiedades de logaritmos).** Calcula, sin usar calculadora y aplicando propiedades: log₂(16) − log₂(4).
+**Pregunta 9 (alternativas — propiedades de logaritmos).** Sin calculadora, ¿cuánto vale log₂(16) − log₂(4)?
+a) 12
+b) log₂(12)
+c) 4
+d) 2
 
-**Respuesta esperada:** log₂(16) − log₂(4) = log₂(16/4) = log₂(4) = **2**.
-*Retroalimentación:* restar logaritmos de igual base equivale al logaritmo del cuociente; conviene simplificar antes de calcular, en vez de calcular cada logaritmo por separado.
+**Respuesta correcta: d) 2.**
+*Retroalimentación:* la resta de logaritmos de igual base es el logaritmo del cociente: log₂(16/4) = log₂(4) = 2.
 
-**Pregunta 10 (comparar — estimar sin calcular).** Sin calcular el valor decimal exacto, determina cuál es mayor: √50 o 6. Explica tu razonamiento.
+**Pregunta 10 (alternativas — comparar).** Sin calcular el decimal, ¿cuál es mayor: √50 o 6?
+a) 6, porque 50 es menor que 60
+b) √50, porque 6² = 36 < 50
+c) Son iguales
+d) No se puede saber sin calculadora
 
-**Respuesta esperada:** **√50 es mayor que 6**, porque 6² = 36, y como 50 > 36, entonces √50 > √36 = 6.
-*Retroalimentación:* para comparar una raíz con un número entero sin calculadora, conviene elevar el número entero al cuadrado y comparar esa cantidad con la que está bajo la raíz: a mayor cantidad subradical, mayor es la raíz.
+**Respuesta correcta: b) √50, porque 6² = 36 < 50.**
+*Retroalimentación:* basta comparar los cuadrados: √50 > √36 = 6.
 
 ---
 
@@ -173,12 +201,12 @@ M = log₁₀(10.000). Como 10⁴=10.000, entonces **M = 4**. Este tipo de escal
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de log₄(64)?
-a) 3
+a) 2
 b) 4
 c) 16
-d) 2
+d) 3
 
-**Respuesta correcta: a) 3.**
+**Respuesta correcta: d) 3.**
 *Retroalimentación:* log₄(64)=3 porque 4³=64.
 
 **Pregunta 2 (verdadero o falso).** 9^(1/2) es igual a √9.
@@ -187,48 +215,76 @@ d) 2
 *Retroalimentación:* por definición, un exponente 1/2 equivale exactamente a la raíz cuadrada: a^(1/2) = √a.
 
 **Pregunta 3 (calcular — convertir raíz a potencia).** Expresa ⁵√(7³) como una potencia de exponente racional.
-a) 7^(3/5)
+a) 7^15
 b) 7^(5/3)
-c) 7^15
+c) 7^(3/5)
 d) 7^8
 
-**Respuesta correcta: a) 7^(3/5).**
+**Respuesta correcta: c) 7^(3/5).**
 *Retroalimentación:* el índice de la raíz (5) pasa al denominador del exponente, y la potencia de la cantidad subradical (3) pasa al numerador.
 
-**Pregunta 4 (desarrollo — convertir potencia a raíz).** Convierte 10^(2/5) a su forma de raíz.
+**Pregunta 4 (alternativas — potencia a raíz).** ¿Cuál es la forma de raíz de 10^(2/5)?
+a) √(10⁵)
+b) ²√(10⁵)
+c) ⁵√(10²) = ⁵√100
+d) 10 · ⁵√2
 
-**Respuesta esperada:** **⁵√(10²) = ⁵√100**.
-*Retroalimentación:* el numerador del exponente racional (2) es la potencia dentro de la raíz, y el denominador (5) es el índice de la raíz.
+**Respuesta correcta: c) ⁵√(10²) = ⁵√100.**
+*Retroalimentación:* índice 5 (denominador) y potencia 2 (numerador).
 
-**Pregunta 5 (desarrollo — recta numérica).** Ubica aproximadamente 2^(1/3) en la recta numérica, indicando entre qué dos números enteros consecutivos se encuentra.
+**Pregunta 5 (alternativas — recta numérica).** ¿Entre qué enteros consecutivos se ubica 2^(1/3)?
+a) Entre 3 y 4
+b) Entre 0 y 1
+c) Entre 2 y 3
+d) Entre 1 y 2
 
-**Respuesta esperada:** 2^(1/3) = ∛2 ≈ **1,26**, por lo tanto se encuentra **entre 1 y 2**.
-*Retroalimentación:* como 1³=1 y 2³=8, y 2 está entre 1 y 8, la raíz cúbica de 2 debe estar entre las raíces cúbicas de esos límites, es decir, entre 1 y 2.
+**Respuesta correcta: d) Entre 1 y 2.**
+*Retroalimentación:* 2^(1/3) = ∛2 ≈ 1,26, porque 1³ = 1 < 2 < 8 = 2³.
 
-**Pregunta 6 (comparar).** Sin calcular el valor decimal exacto, determina cuál es mayor: 3^(1/2) o 3^(1/3). Explica usando lo que sabes sobre exponentes racionales.
+**Pregunta 6 (alternativas — comparar).** ¿Cuál es mayor: 3^(1/2) o 3^(1/3)?
+a) 3^(1/3), porque al dividir por 3 la raíz es más grande que al dividir por 2
+b) Son iguales, porque ambas potencias tienen la misma base 3
+c) Depende del signo de la base, que aquí no se puede conocer
+d) 3^(1/2), porque con base mayor que 1 un exponente mayor da un resultado mayor
 
-**Respuesta esperada:** **3^(1/2) es mayor**, porque la base (3) es mayor que 1, y 1/2 (0,5) es un exponente mayor que 1/3 (≈0,33); cuando la base es mayor que 1, un exponente mayor produce un resultado mayor. (Verificación: 3^(1/2)≈1,73; 3^(1/3)≈1,44).
-*Retroalimentación:* con una base mayor que 1, mientras más grande es el exponente (incluso si es una fracción), mayor es el resultado de la potencia.
+**Respuesta correcta: d) 3^(1/2), porque con base mayor que 1 un exponente mayor da un resultado mayor.**
+*Retroalimentación:* verificación: 3^(1/2) ≈ 1,73 y 3^(1/3) ≈ 1,44.
 
-**Pregunta 7 (problema en contexto — escala de Richter).** Usando el modelo M = log₁₀(A/A₀), si un sismo tiene una razón A/A₀ = 1.000.000, ¿cuál es su magnitud M?
+**Pregunta 7 (alternativas — escala de Richter).** Con M = log₁₀(A/A₀), si A/A₀ = 1.000.000, ¿cuál es la magnitud?
+a) 1.000.000
+b) 6
+c) 60
+d) 10
 
-**Respuesta esperada:** M = log₁₀(1.000.000) = **6**, porque 10⁶=1.000.000.
-*Retroalimentación:* en una escala logarítmica de base 10, la magnitud corresponde directamente al exponente al que hay que elevar 10 para obtener la razón de amplitudes.
+**Respuesta correcta: b) 6.**
+*Retroalimentación:* log₁₀(10⁶) = 6.
 
-**Pregunta 8 (problema en contexto — convertir registro).** Si se sabe que log₁₀(x) = 3, ¿cuál es el valor de x?
+**Pregunta 8 (alternativas — convertir registro).** Si log₁₀(x) = 3, ¿cuánto vale x?
+a) 30
+b) 3
+c) 1.000
+d) 0,001
 
-**Respuesta esperada:** por definición de logaritmo, 10³=x, entonces **x = 1.000**.
-*Retroalimentación:* despejar x en una ecuación logarítmica equivale a reescribir la igualdad en su forma de potencia: log_a(x)=c ⟺ x=aᶜ.
+**Respuesta correcta: c) 1.000.**
+*Retroalimentación:* por definición, 10³ = x.
 
-**Pregunta 9 (problema no rutinario — propiedades combinadas).** Sabiendo que log₂(5) ≈ 2,32, determina aproximadamente el valor de log₂(20), usando que 20 = 4×5 y las propiedades de los logaritmos.
+**Pregunta 9 (alternativas — propiedades combinadas).** Si log₂(5) ≈ 2,32, ¿cuánto vale aproximadamente log₂(20)?
+a) 46,4
+b) 9,28
+c) 4,32
+d) 2,32
 
-**Respuesta esperada:** log₂(20) = log₂(4×5) = log₂(4) + log₂(5) = 2 + 2,32 = **4,32**.
-*Retroalimentación:* descomponer un número en un factor conocido (como 4, cuyo logaritmo en base 2 es exacto) permite calcular logaritmos de números más complejos aplicando la propiedad del producto.
+**Respuesta correcta: c) 4,32.**
+*Retroalimentación:* log₂(20) = log₂(4 · 5) = log₂(4) + log₂(5) = 2 + 2,32.
 
-**Pregunta 10 (calcular — de potencia a logaritmo).** Escribe la igualdad 7²=49 en su forma logarítmica equivalente.
+**Pregunta 10 (alternativas — de potencia a logaritmo).** ¿Cuál es la forma logarítmica de 7² = 49?
+a) log₂(49) = 7
+b) log₄₉(7) = 2
+c) log₇(2) = 49
+d) log₇(49) = 2
 
-**Respuesta esperada:** **log₇(49) = 2**.
-*Retroalimentación:* toda igualdad de potencias aᵏ=b tiene una forma logarítmica equivalente: log_a(b)=k; ambas expresan la misma relación entre los tres números.
+**Respuesta correcta: d) log₇(49) = 2.**
+*Retroalimentación:* la base de la potencia es la base del logaritmo y el exponente es el resultado.
 
 ---
 
@@ -295,35 +351,59 @@ d) x = 0
 **Respuesta correcta: a) x = 1.**
 *Retroalimentación:* x = −b/(2a) = −6/(2×(−3)) = −6/−6 = 1.
 
-**Pregunta 4 (desarrollo — vértice y concavidad).** Encuentra el vértice y la concavidad de f(x) = 2x² − 8x + 5.
+**Pregunta 4 (alternativas — vértice y concavidad).** ¿Cuáles son el vértice y la concavidad de f(x) = 2x² − 8x + 5?
+a) (−2, 29), hacia arriba
+b) (2, −3), hacia arriba
+c) (2, −3), hacia abajo
+d) (4, 5), hacia arriba
 
-**Respuesta esperada:** x = −(−8)/(2×2) = 2; f(2) = 2(4)−16+5 = 8−16+5 = −3. Vértice **(2, −3)**, concavidad **hacia arriba** (mínimo), porque a=2>0.
-*Retroalimentación:* siempre se calcula primero la coordenada x del vértice con la fórmula −b/(2a), y luego se reemplaza ese valor en la función para obtener la coordenada y.
+**Respuesta correcta: b) (2, −3), hacia arriba.**
+*Retroalimentación:* x = −b/(2a) = 8/4 = 2; f(2) = −3; como a = 2 > 0, abre hacia arriba (mínimo).
 
-**Pregunta 5 (desarrollo — intersecciones con el eje x).** Determina los puntos donde f(x) = x² − x − 6 corta al eje x.
+**Pregunta 5 (alternativas — intersecciones con el eje x).** ¿En qué puntos f(x) = x² − x − 6 corta al eje x?
+a) (−3, 0) y (2, 0)
+b) (6, 0) y (−1, 0)
+c) (3, 0) y (−2, 0)
+d) (0, −6)
 
-**Respuesta esperada:** se factoriza: x²−x−6 = (x−3)(x+2) = 0, por lo tanto **x=3 y x=−2** (puntos (3,0) y (−2,0)).
-*Retroalimentación:* las intersecciones con el eje x son los valores de x para los cuales f(x)=0; si la expresión se puede factorizar fácilmente, ese es el camino más directo.
+**Respuesta correcta: c) (3, 0) y (−2, 0).**
+*Retroalimentación:* x² − x − 6 = (x − 3)(x + 2) = 0; (0, −6) es la intersección con el eje y.
 
-**Pregunta 6 (leer datos — tabla de valores).** Se entrega la siguiente tabla de valores de f(x)=x²: x=−2,−1,0,1,2 → f(x)=4,1,0,1,4. Según la tabla, ¿cuál es el eje de simetría de esta función?
+**Pregunta 6 (alternativas — tabla de valores).** Para f(x) = x², la tabla da x = −2, −1, 0, 1, 2 → f(x) = 4, 1, 0, 1, 4. ¿Cuál es el eje de simetría?
+a) x = 0
+b) y = 0
+c) x = 4
+d) x = 1
 
-**Respuesta esperada:** **x = 0**, porque los valores de f(x) son simétricos alrededor de x=0 (f(−2)=f(2)=4, f(−1)=f(1)=1).
-*Retroalimentación:* en una tabla de valores, el eje de simetría se reconoce buscando el valor de x alrededor del cual los valores de f(x) se repiten en espejo.
+**Respuesta correcta: a) x = 0.**
+*Retroalimentación:* los valores son simétricos alrededor de x = 0: f(−2) = f(2) y f(−1) = f(1).
 
-**Pregunta 7 (problema en contexto — modelamiento agrícola).** Un agricultor determina que la producción de papas P (en toneladas), según la cantidad x (en kg) de fertilizante aplicado por hectárea, sigue el modelo P(x) = −0,01x² + 2x + 5. ¿Para qué cantidad de fertilizante se obtiene la producción máxima, y cuál es esa producción?
+**Pregunta 7 (alternativas — modelamiento agrícola).** La producción de papas sigue P(x) = −0,01x² + 2x + 5 (x en kg de fertilizante). ¿Para qué cantidad se obtiene la máxima producción y cuánto es?
+a) 200 kg; 5 toneladas
+b) 100 kg; 205 toneladas
+c) 50 kg; 80 toneladas
+d) 100 kg; 105 toneladas
 
-**Respuesta esperada:** x = −2/(2×(−0,01)) = −2/−0,02 = **100 kg**. P(100) = −0,01(10.000)+200+5 = −100+200+5 = **105 toneladas**.
-*Retroalimentación:* en un modelo de producción con forma de parábola que abre hacia abajo, el vértice representa el punto óptimo: aplicar más o menos fertilizante que esa cantidad reduce la producción.
+**Respuesta correcta: d) 100 kg; 105 toneladas.**
+*Retroalimentación:* x = −2/(2 · (−0,01)) = 100; P(100) = −100 + 200 + 5 = 105.
 
-**Pregunta 8 (problema en contexto — inecuación cuadrática).** Determina si el punto (2, 10) pertenece a la región de soluciones de la inecuación y > x² + 1.
+**Pregunta 8 (alternativas — inecuación cuadrática).** ¿Pertenece el punto (2, 10) a la región de soluciones de y > x² + 1?
+a) No, porque 10 < 5
+b) Sí, porque 10 > 2² + 1 = 5
+c) No, porque el punto está sobre la parábola
+d) Sí, porque 2 > 1
 
-**Respuesta esperada:** x²+1 en x=2 es 5; como 10>5, la desigualdad se cumple, por lo tanto **el punto sí pertenece** a la región de soluciones.
-*Retroalimentación:* para verificar si un punto pertenece a la región de una inecuación, se reemplazan sus coordenadas y se comprueba si la desigualdad resultante es verdadera.
+**Respuesta correcta: b) Sí, porque 10 > 2² + 1 = 5.**
+*Retroalimentación:* se evalúa el lado derecho en x = 2 y se compara con y = 10.
 
-**Pregunta 9 (problema no rutinario — comparar funciones).** Compara las gráficas de f(x) = x² − 4 y g(x) = −x² + 4. Sin graficar, describe en qué se parecen y en qué se diferencian (vértice, eje de simetría, concavidad).
+**Pregunta 9 (alternativas — comparar funciones).** ¿Qué afirmación sobre f(x) = x² − 4 y g(x) = −x² + 4 es correcta?
+a) Tienen el mismo vértice (0, −4) y la misma concavidad, porque ambas son parábolas con coeficiente de x² igual a 1
+b) Tienen ejes de simetría distintos (x = 4 y x = −4), porque el término independiente desplaza la parábola hacia los lados
+c) Comparten el eje de simetría x = 0, pero f abre hacia arriba (mínimo −4) y g hacia abajo (máximo 4); son reflejos respecto al eje x
+d) Ninguna de las dos tiene vértice, porque al no tener término en x no alcanzan un valor máximo ni mínimo
 
-**Respuesta esperada:** ambas tienen **vértice sobre el eje y** (f en (0,−4), g en (0,4)) y el mismo **eje de simetría (x=0)**. Se diferencian en la **concavidad**: f abre hacia arriba (mínimo en −4) y g abre hacia abajo (máximo en 4). De hecho, g(x) = −f(x), por lo que sus gráficas son **reflejos una de la otra respecto al eje x**.
-*Retroalimentación:* comparar los coeficientes a, b y c de dos funciones cuadráticas permite anticipar semejanzas y diferencias en sus gráficas sin necesidad de dibujarlas punto por punto.
+**Respuesta correcta: c) Comparten el eje de simetría x = 0, pero f abre hacia arriba (mínimo −4) y g hacia abajo (máximo 4); son reflejos respecto al eje x.**
+*Retroalimentación:* de hecho g(x) = −f(x).
 
 ---
 
@@ -384,35 +464,59 @@ d) f⁻¹(x) = 1/(4x)
 **Respuesta correcta: a) f⁻¹(x) = x/4.**
 *Retroalimentación:* si f multiplica por 4, la inversa debe dividir por 4 para deshacer esa operación.
 
-**Pregunta 4 (desarrollo — función lineal).** Encuentra la función inversa de f(x) = 2x − 10.
+**Pregunta 4 (alternativas — función lineal).** ¿Cuál es la inversa de f(x) = 2x − 10?
+a) f⁻¹(x) = (x + 10)/2
+b) f⁻¹(x) = (x − 10)/2
+c) f⁻¹(x) = 2x + 10
+d) f⁻¹(x) = 1/(2x − 10)
 
-**Respuesta esperada:** y=2x−10; se intercambia: x=2y−10; se despeja: y=(x+10)/2. **f⁻¹(x) = (x+10)/2**.
-*Retroalimentación:* el procedimiento general para invertir una función lineal es: escribir y=f(x), intercambiar x por y, y despejar la nueva y.
+**Respuesta correcta: a) f⁻¹(x) = (x + 10)/2.**
+*Retroalimentación:* se intercambian x e y y se despeja: x = 2y − 10 → y = (x + 10)/2.
 
-**Pregunta 5 (desarrollo — función cuadrática).** Encuentra la inversa de f(x) = x² − 3, considerando solo x≥0.
+**Pregunta 5 (alternativas — función cuadrática).** ¿Cuál es la inversa de f(x) = x² − 3, considerando x ≥ 0?
+a) f⁻¹(x) = √(x − 3)
+b) f⁻¹(x) = x² + 3
+c) f⁻¹(x) = −√(x + 3)
+d) f⁻¹(x) = √(x + 3)
 
-**Respuesta esperada:** y=x²−3; se intercambia: x=y²−3; se despeja: y²=x+3, y=√(x+3) (raíz positiva, pues x≥0 en la función original). **f⁻¹(x) = √(x+3)**.
-*Retroalimentación:* al invertir una función cuadrática, aparece una raíz cuadrada; se toma la raíz positiva o negativa según el dominio restringido que se haya definido para la función original.
+**Respuesta correcta: d) f⁻¹(x) = √(x + 3).**
+*Retroalimentación:* y² = x + 3 y se toma la raíz positiva porque x ≥ 0 en la función original.
 
-**Pregunta 6 (identificar — a partir de puntos).** Una función lineal pasa por los puntos (0, 2) y (2, 6). ¿Qué punto pertenece con seguridad a su función inversa?
+**Pregunta 6 (alternativas — a partir de puntos).** Una función lineal pasa por (0, 2) y (2, 6). ¿Qué punto pertenece con seguridad a su inversa?
+a) (2, 6)
+b) (6, 2)
+c) (0, 2)
+d) (−2, −6)
 
-**Respuesta esperada:** como la inversa intercambia las coordenadas de cada punto, si (2,6) pertenece a f, entonces **(6, 2) pertenece a f⁻¹** (y, de igual forma, (2,0) pertenece a f⁻¹ a partir de (0,2)).
-*Retroalimentación:* no es necesario encontrar la regla completa de la inversa para determinar puntos de su gráfica: basta con intercambiar las coordenadas x e y de puntos conocidos de la función original.
+**Respuesta correcta: b) (6, 2).**
+*Retroalimentación:* la inversa intercambia las coordenadas de cada punto; también (2, 0) pertenece a f⁻¹.
 
-**Pregunta 7 (problema en contexto — conversión de temperatura).** Usando la función inversa C = (5/9)(F−32), determina a cuántos grados Celsius corresponde una temperatura de 86°F.
+**Pregunta 7 (alternativas — conversión de temperatura).** Con C = (5/9)(F − 32), ¿a cuántos °C corresponden 86 °F?
+a) 15,8 °C
+b) 30 °C
+c) 47,8 °C
+d) 54 °C
 
-**Respuesta esperada:** C = (5/9)(86−32) = (5/9)(54) = **30°C**.
-*Retroalimentación:* la función inversa permite "regresar" desde el resultado (grados Fahrenheit) hasta el dato original (grados Celsius), deshaciendo la transformación de la función directa.
+**Respuesta correcta: b) 30 °C.**
+*Retroalimentación:* (5/9)(86 − 32) = (5/9) · 54 = 30.
 
-**Pregunta 8 (problema en contexto — máquina).** Usando la metáfora de una máquina, explica qué hace la función inversa de f(x) = x/3 + 1, y determina su regla.
+**Pregunta 8 (alternativas — máquina).** f(x) = x/3 + 1 divide por 3 y luego suma 1. ¿Qué hace su inversa?
+a) Resta 1 y luego multiplica por 3: f⁻¹(x) = 3x − 3
+b) Multiplica por 3 y luego resta 1: f⁻¹(x) = 3x − 1
+c) Divide por 3 y resta 1: f⁻¹(x) = x/3 − 1
+d) Suma 1 y multiplica por 3: f⁻¹(x) = 3x + 3
 
-**Respuesta esperada:** f toma un número, lo divide en 3 y luego le suma 1. La inversa debe deshacer esos pasos, en el orden contrario: primero **restar 1**, y luego **multiplicar por 3**. Su regla es **f⁻¹(x) = 3(x−1) = 3x−3**.
-*Retroalimentación:* pensar en los "pasos" que aplica una función, y deshacerlos en orden inverso con la operación opuesta, es una forma intuitiva de encontrar la función inversa sin recurrir de inmediato al álgebra.
+**Respuesta correcta: a) Resta 1 y luego multiplica por 3: f⁻¹(x) = 3x − 3.**
+*Retroalimentación:* la inversa deshace los pasos en orden contrario.
 
-**Pregunta 9 (problema no rutinario — restricción de dominio).** Explica por qué la función f(x) = x², considerando todos los números reales como dominio, no tiene una inversa que sea también una función, y qué solución se aplica para poder definirla.
+**Pregunta 9 (alternativas — restricción de dominio).** ¿Por qué f(x) = x², con dominio en todos los reales, no tiene una inversa que sea función, y cómo se resuelve?
+a) Porque no tiene recorrido definido (f(x) puede ser negativo); se agrega el cero al recorrido y entonces f⁻¹(x) = x²
+b) Porque es una función lineal (f(2) = 4 y f(3) = 6); se eleva al cubo para que crezca, y entonces f⁻¹(x) = ∛x
+c) Sí tiene inversa en todos los reales, porque cada x tiene una sola imagen (f(2) = 4); su inversa es f⁻¹(x) = √x
+d) Porque no es inyectiva (f(2) = f(−2) = 4); se restringe el dominio, por ejemplo a x ≥ 0, y entonces f⁻¹(x) = √x
 
-**Respuesta esperada:** porque f no es inyectiva: por ejemplo, f(2)=4 y f(−2)=4, es decir, dos valores distintos de x producen la misma salida. Si se intentara invertir, la "inversa" tendría que asignarle dos valores distintos de y a un mismo x=4, lo cual **no cumple la definición de función**. La solución es **restringir el dominio** de f (por ejemplo, a x≥0), de modo que sea inyectiva en ese dominio y su inversa quede bien definida: f⁻¹(x)=√x.
-*Retroalimentación:* solo las funciones inyectivas (donde cada salida proviene de una única entrada) tienen una inversa que también es función; cuando esto no ocurre de forma natural, restringir el dominio es la estrategia habitual para poder definir la inversa.
+**Respuesta correcta: d) Porque no es inyectiva (f(2) = f(−2) = 4); se restringe el dominio, por ejemplo a x ≥ 0, y entonces f⁻¹(x) = √x.**
+*Retroalimentación:* si se invirtiera sin restringir, a x = 4 le corresponderían dos valores de y.
 
 ---
 
@@ -479,35 +583,59 @@ d) 4 cm
 **Respuesta correcta: a) 8 cm.**
 *Retroalimentación:* tan(45°)=1, y cateto opuesto = cateto adyacente × tan(45°) = 8×1 = 8 cm.
 
-**Pregunta 4 (desarrollo).** En un triángulo rectángulo, la hipotenusa mide 15 cm y uno de sus ángulos agudos mide 50°. Calcula el cateto opuesto a ese ángulo.
+**Pregunta 4 (alternativas — cateto opuesto).** En un triángulo rectángulo, la hipotenusa mide 15 cm y un ángulo agudo mide 50°. ¿Cuánto mide el cateto opuesto a ese ángulo?
+a) ≈ 9,64 cm
+b) ≈ 11,49 cm
+c) ≈ 17,88 cm
+d) ≈ 19,58 cm
 
-**Respuesta esperada:** cateto opuesto = 15 × sen(50°) ≈ 15 × 0,766 ≈ **11,49 cm**.
-*Retroalimentación:* cuando se conoce la hipotenusa y un ángulo, y se busca el cateto opuesto a ese ángulo, se usa la razón seno.
+**Respuesta correcta: b) ≈ 11,49 cm.**
+*Retroalimentación:* cateto opuesto = 15 · sen(50°) ≈ 15 · 0,766; 9,64 cm usaría el coseno.
 
-**Pregunta 5 (desarrollo — encontrar un ángulo).** En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 7 cm y el cateto adyacente mide 24 cm. Calcula θ usando la función tangente inversa.
+**Pregunta 5 (alternativas — encontrar un ángulo).** El cateto opuesto a θ mide 7 cm y el adyacente 24 cm. ¿Cuánto mide θ?
+a) ≈ 73,74°
+b) ≈ 16,96°
+c) ≈ 16,26°
+d) ≈ 0,29°
 
-**Respuesta esperada:** tan θ = 7/24 ≈ 0,2917; θ = tan⁻¹(0,2917) ≈ **16,26°**.
-*Retroalimentación:* cuando se conocen los dos catetos y se busca el ángulo, se calcula primero la razón tangente y luego se aplica la función inversa (tan⁻¹) con la calculadora.
+**Respuesta correcta: c) ≈ 16,26°.**
+*Retroalimentación:* tan θ = 7/24 ≈ 0,2917 y θ = tan⁻¹(0,2917); 73,74° es el otro ángulo agudo.
 
-**Pregunta 6 (leer datos).** Un triángulo rectángulo tiene hipotenusa c=13 cm y catetos a=5 cm y b=12 cm. Calcula cos θ, donde θ es el ángulo opuesto al cateto de 5 cm.
+**Pregunta 6 (alternativas — leer datos).** Un triángulo rectángulo tiene hipotenusa 13 cm y catetos 5 y 12 cm. Si θ es opuesto al cateto de 5 cm, ¿cuánto vale cos θ?
+a) 12/13 ≈ 0,923
+b) 5/13 ≈ 0,385
+c) 5/12 ≈ 0,417
+d) 13/12 ≈ 1,083
 
-**Respuesta esperada:** si θ es opuesto al cateto de 5 cm, entonces el cateto adyacente a θ es 12 cm. cos θ = 12/13 ≈ **0,923**.
-*Retroalimentación:* antes de aplicar una razón trigonométrica, conviene identificar con claridad cuál cateto es "opuesto" y cuál es "adyacente" respecto al ángulo indicado, ya que eso determina qué razón usar.
+**Respuesta correcta: a) 12/13 ≈ 0,923.**
+*Retroalimentación:* el cateto adyacente a θ es el de 12 cm: cos θ = adyacente/hipotenusa.
 
-**Pregunta 7 (problema en contexto — rampa de acceso).** Una rampa de acceso para sillas de ruedas debe tener un ángulo de inclinación de 6° respecto al suelo. Si la rampa debe salvar una altura de 0,9 m, ¿cuál es la longitud mínima aproximada que debe tener la rampa (la hipotenusa)?
+**Pregunta 7 (alternativas — rampa de acceso).** Una rampa debe tener 6° de inclinación y salvar una altura de 0,9 m. ¿Cuál es su longitud mínima aproximada?
+a) ≈ 0,09 m
+b) ≈ 0,91 m
+c) ≈ 8,56 m
+d) ≈ 8,61 m
 
-**Respuesta esperada:** sen(6°) = 0,9 ÷ L → L = 0,9 ÷ sen(6°) ≈ 0,9 ÷ 0,1045 ≈ **8,61 m**.
-*Retroalimentación:* la altura a salvar corresponde al cateto opuesto al ángulo de inclinación, y la longitud de la rampa es la hipotenusa; por eso se despeja usando la razón seno.
+**Respuesta correcta: d) ≈ 8,61 m.**
+*Retroalimentación:* sen(6°) = 0,9/L → L = 0,9/0,1045 ≈ 8,61 m; 8,56 m sería la distancia horizontal (tangente).
 
-**Pregunta 8 (problema en contexto — ángulo de depresión).** Desde la terraza de un edificio de 40 m de altura, un observador ve un auto estacionado en la calle con un ángulo de depresión de 25°. ¿A qué distancia horizontal se encuentra el auto de la base del edificio?
+**Pregunta 8 (alternativas — ángulo de depresión).** Desde un edificio de 40 m, un auto se ve con un ángulo de depresión de 25°. ¿A qué distancia horizontal está de la base?
+a) ≈ 18,65 m
+b) ≈ 85,79 m
+c) ≈ 94,65 m
+d) ≈ 36,25 m
 
-**Respuesta esperada:** tan(25°) = 40 ÷ d → d = 40 ÷ tan(25°) ≈ 40 ÷ 0,4663 ≈ **85,79 m**.
-*Retroalimentación:* el ángulo de depresión medido desde arriba es igual al ángulo de elevación medido desde el auto; la altura del edificio y la distancia horizontal forman los dos catetos de un triángulo rectángulo, relacionados por la tangente.
+**Respuesta correcta: b) ≈ 85,79 m.**
+*Retroalimentación:* tan(25°) = 40/d → d = 40/0,4663.
 
-**Pregunta 9 (problema no rutinario — resolver un triángulo completo).** Resuelve completamente un triángulo rectángulo donde un cateto mide 9 cm y el ángulo opuesto a ese cateto es 40°: determina la hipotenusa, el otro cateto, y el otro ángulo agudo.
+**Pregunta 9 (alternativas — resolver un triángulo).** Un cateto mide 9 cm y el ángulo opuesto es 40°. ¿Cuánto miden la hipotenusa, el otro cateto y el otro ángulo agudo?
+a) ≈ 11,7 cm; ≈ 7,5 cm; 50°
+b) ≈ 14,0 cm; ≈ 9 cm; 40°
+c) ≈ 14,0 cm; ≈ 10,72 cm; 50°
+d) ≈ 5,8 cm; ≈ 10,72 cm; 140°
 
-**Respuesta esperada:** hipotenusa: sen(40°)=9/hip → hip = 9÷sen(40°) ≈ 9÷0,643 ≈ **14,0 cm**. Otro cateto: hip×cos(40°) ≈ 14,0×0,766 ≈ **10,72 cm**. Otro ángulo agudo: 90°−40° = **50°**.
-*Retroalimentación:* "resolver" un triángulo rectángulo significa encontrar todas sus medidas desconocidas; conviene usar primero el dato conocido (el cateto de 9 cm y su ángulo opuesto) para obtener la hipotenusa, y luego usar esta para encontrar el lado restante, recordando además que los dos ángulos agudos siempre suman 90°.
+**Respuesta correcta: c) ≈ 14,0 cm; ≈ 10,72 cm; 50°.**
+*Retroalimentación:* hip = 9/sen(40°) ≈ 14,0; otro cateto = hip · cos(40°) ≈ 10,72; otro ángulo: 90° − 40°.
 
 ---
 
@@ -570,40 +698,68 @@ d) 15
 **Respuesta correcta: b) 30.**
 *Retroalimentación:* 6!/4! = (6×5×4×3×2×1)/(4×3×2×1) = 6×5 = 30 (los factores comunes se simplifican).
 
-**Pregunta 4 (desarrollo — permutaciones).** ¿De cuántas formas se pueden ordenar las 4 letras de la palabra "AMOR" (todas distintas)?
+**Pregunta 4 (alternativas — permutaciones).** ¿De cuántas formas se pueden ordenar las 4 letras de "AMOR"?
+a) 4
+b) 16
+c) 24
+d) 256
 
-**Respuesta esperada:** 4! = 4×3×2×1 = **24 formas**.
-*Retroalimentación:* como las 4 letras son distintas entre sí, el número de ordenamientos posibles corresponde directamente al factorial de 4.
+**Respuesta correcta: c) 24.**
+*Retroalimentación:* 4! = 4 · 3 · 2 · 1 = 24.
 
-**Pregunta 5 (desarrollo — probabilidad).** En una rifa se venden 200 números (del 1 al 200) y se sortea un único número ganador al azar. Si una persona compró 5 números distintos, ¿cuál es la probabilidad de que gane?
+**Pregunta 5 (alternativas — probabilidad).** En una rifa de 200 números se sortea un ganador. Si una persona compró 5 números, ¿cuál es la probabilidad de que gane?
+a) 1/200
+b) 5%
+c) 1/5
+d) 1/40 (2,5%)
 
-**Respuesta esperada:** P = 5/200 = 1/40 = **0,025 (2,5%)**.
-*Retroalimentación:* la probabilidad se calcula como casos favorables (los 5 números comprados) dividido por casos totales (los 200 números vendidos).
+**Respuesta correcta: d) 1/40 (2,5%).**
+*Retroalimentación:* 5/200 = 1/40 = 0,025.
 
-**Pregunta 6 (problema en contexto — clave numérica).** Una clave de acceso a un casillero está compuesta por 3 dígitos distintos (sin repetir ningún dígito), elegidos entre el 0 y el 9. ¿Cuántas claves distintas son posibles?
+**Pregunta 6 (alternativas — clave numérica).** Una clave tiene 3 dígitos distintos del 0 al 9. ¿Cuántas claves son posibles?
+a) 1.000
+b) 720
+c) 120
+d) 30
 
-**Respuesta esperada:** por el principio multiplicativo, con las opciones reduciéndose en cada paso (sin repetición): 10×9×8 = **720 claves posibles**.
-*Retroalimentación:* cuando no se permite repetir elementos, el número de opciones disponibles disminuye en cada paso sucesivo; esta es una variación del principio multiplicativo muy común en problemas de conteo.
+**Respuesta correcta: b) 720.**
+*Retroalimentación:* principio multiplicativo sin repetición: 10 · 9 · 8 = 720; 1.000 permitiría repetir dígitos.
 
-**Pregunta 7 (problema en contexto — combinación).** Un profesor debe elegir, entre 6 estudiantes, a 2 para representar al curso en una feria científica, con el mismo rol para ambos (el orden de elección no importa). ¿De cuántas formas puede elegir la pareja de representantes?
+**Pregunta 7 (alternativas — combinación).** Entre 6 estudiantes se eligen 2 representantes con el mismo rol. ¿De cuántas formas?
+a) 30
+b) 12
+c) 15
+d) 36
 
-**Respuesta esperada:** C(6,2) = 6!/(2!×4!) = (6×5)/(2×1) = **15 formas**.
-*Retroalimentación:* cuando se eligen elementos y el orden no importa (por ejemplo, porque ambos representantes cumplen el mismo rol), se usa una combinación en lugar de una permutación.
+**Respuesta correcta: c) 15.**
+*Retroalimentación:* C(6, 2) = (6 · 5)/(2 · 1) = 15; 30 contaría el orden.
 
-**Pregunta 8 (problema en contexto — probabilidad y permutaciones).** En una carrera de atletismo participan 8 corredores, todos con las mismas posibilidades de ganar. ¿Cuál es la probabilidad de que un corredor específico obtenga el primer lugar?
+**Pregunta 8 (alternativas — probabilidad y permutaciones).** En una carrera de 8 corredores con iguales posibilidades, ¿cuál es la probabilidad de que uno específico gane?
+a) 1/8
+b) 1/8!
+c) 7/8
+d) 1/7
 
-**Respuesta esperada:** **P = 1/8**. (También se puede razonar contando ordenamientos: el número de formas en que ese corredor queda primero es 7! —el resto se ordena de cualquier manera— sobre el total de 8! ordenamientos posibles: 7!/8! = 1/8).
-*Retroalimentación:* cuando todos los resultados son igualmente probables, la probabilidad de que ocurra uno específico es 1 dividido por el número total de resultados posibles, aunque también se puede verificar usando el razonamiento de permutaciones.
+**Respuesta correcta: a) 1/8.**
+*Retroalimentación:* también puede razonarse como 7!/8! = 1/8.
 
-**Pregunta 9 (problema en contexto — principio multiplicativo con opciones binarias).** Un local de completos ofrece 3 tipos de pan y 4 tipos de salsa, además de la opción de agregar o no agregar palta. ¿De cuántas combinaciones distintas de pedido dispone un cliente?
+**Pregunta 9 (alternativas — principio multiplicativo).** Un local ofrece 3 panes, 4 salsas y la opción de agregar o no palta. ¿Cuántas combinaciones de pedido hay?
+a) 9
+b) 12
+c) 14
+d) 24
 
-**Respuesta esperada:** 3 × 4 × 2 = **24 combinaciones** (el factor 2 corresponde a la opción "con palta" o "sin palta").
-*Retroalimentación:* una decisión de "sí o no" (como agregar o no un ingrediente) también es un paso con 2 opciones, y se incorpora al principio multiplicativo igual que cualquier otro paso.
+**Respuesta correcta: d) 24.**
+*Retroalimentación:* 3 · 4 · 2 = 24; el factor 2 es "con palta" o "sin palta".
 
-**Pregunta 10 (problema no rutinario — propiedad del factorial).** Sin calcular el valor exacto de cada expresión por separado, determina si 5! es mayor, menor o igual a 4!×5. Explica tu razonamiento.
+**Pregunta 10 (alternativas — propiedad del factorial).** ¿Cómo se comparan 5! y 4! × 5?
+a) 5! es mayor
+b) Son iguales (120), porque 5! = 5 · 4!
+c) 4! × 5 es mayor
+d) No se pueden comparar sin calcular
 
-**Respuesta esperada:** **son iguales**, porque 5! = 5×4×3×2×1 = 5×(4×3×2×1) = 5×4!. Por lo tanto, 5! y 4!×5 representan exactamente la misma multiplicación (ambas valen 120).
-*Retroalimentación:* esta es una propiedad general del factorial: n! siempre se puede escribir como n×(n−1)!, lo que permite relacionar factoriales consecutivos sin necesidad de calcular ambos completos.
+**Respuesta correcta: b) Son iguales (120), porque 5! = 5 · 4!.**
+*Retroalimentación:* ambas representan exactamente la misma multiplicación.
 
 ---
 

@@ -7,7 +7,7 @@ import pytest
 
 SCRIPTS = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(SCRIPTS))
-from parser_contenido import parsear_guia
+from parser_contenido import clave_valida, parsear_guia
 from parser_prueba_examen import parsear_prueba_o_examen
 
 CONTENIDO = SCRIPTS.parents[1] / "contenido"
@@ -350,8 +350,7 @@ def test_snapshot_corpus_actual_con_pautas_y_claves_completas():
                 for numero, pregunta in enumerate(oa.preguntas, 1):
                     referencia = (ruta, oa.modulo, oa.codigo_oficial, numero)
                     assert pregunta.respuesta_correcta.strip(), referencia
-                    if pregunta.opciones:
-                        assert pregunta.respuesta_correcta in pregunta.opciones, referencia
+                    assert clave_valida(pregunta.tipo, pregunta.respuesta_correcta, pregunta.opciones), referencia
                     totales["banco"] += 1
         for directorio, categoria in (("pruebas", "pruebas"), ("examenes", "examenes")):
             for ruta in sorted((carpeta / directorio).glob("*.md")):
@@ -363,8 +362,7 @@ def test_snapshot_corpus_actual_con_pautas_y_claves_completas():
                 for pregunta, pauta in preguntas:
                     referencia = (ruta, pregunta.numero)
                     assert pauta is not None and pauta.respuesta_correcta.strip(), referencia
-                    if pregunta.opciones:
-                        assert pauta.respuesta_correcta in pregunta.opciones, referencia
+                    assert clave_valida(pregunta.tipo, pauta.respuesta_correcta, pregunta.opciones), referencia
                     if pauta.codigo_oa is None:
                         totales[f"{categoria}_sin_oa"] += 1
                         if categoria == "examenes":

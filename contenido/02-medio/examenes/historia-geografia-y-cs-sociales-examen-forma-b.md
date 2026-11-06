@@ -21,11 +21,11 @@ ultima_actualizacion: 2026-11-02
    mapa o fuente histórica adaptada (estímulo) que debes analizar antes de contestar.
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro opciones
    (a, b, c, d). Marca con una X la que consideres correcta.
-3. Las preguntas de **desarrollo** (breve o extenso) deben responderse con tus propias
-   palabras, en el espacio disponible. No es necesario copiar la pregunta.
+3. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta
+   y debes marcarlas todas para obtener el puntaje.
 4. No se permite el uso de apuntes, libros ni dispositivos electrónicos durante la prueba.
 5. Administra tu tiempo: tienes 90 minutos para las 25 preguntas. Te sugerimos no destinar más
-   de 3-4 minutos a cada pregunta de alternativas y algo más a las de desarrollo.
+   de 3-4 minutos a cada pregunta y algo más a las que tienen estímulos extensos.
 6. Este curso recorre el siglo XX: la crisis del liberalismo decimonónico, la Segunda Guerra
    Mundial y sus consecuencias, la Guerra Fría y su impacto en Chile y América Latina, y —con
    especial detalle— la segunda mitad del siglo XX chileno: la democratización de la sociedad,
@@ -43,8 +43,7 @@ ultima_actualizacion: 2026-11-02
 Esta es la **Forma B** de este examen de práctica: una segunda versión, **100% original**,
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013
 que el banco de contenido, pero con preguntas distintas, para que puedas practicar más de una vez sin
-memorizar respuestas. No reproduce preguntas reales del Examen Libre de Mineduc; su formato
-(mezcla de alternativas y preguntas abiertas, uso de estímulos como fuentes históricas y
+memorizar respuestas. No reproduce preguntas reales del Examen Libre de Mineduc; su formato (preguntas de alternativas, uso de estímulos como fuentes históricas y
 descripciones de mapas adaptadas, y Pauta de Corrección final) busca acercarte a la experiencia
 del examen real.
 
@@ -59,9 +58,9 @@ del examen real.
 Estado liberal decimonónico, al demostrar que un Estado de intervención mínima era insuficiente
 para enfrentar una crisis de esa magnitud?
 
-a) La Revolución Rusa
-b) La fundación de la Sociedad de las Naciones
-c) La firma del Tratado de Versalles
+a) La Revolución Rusa, que instauró una economía planificada por el Estado
+b) La fundación de la Sociedad de las Naciones tras la Primera Guerra Mundial
+c) La firma del Tratado de Versalles y las reparaciones impuestas a Alemania
 d) La Gran Depresión, iniciada con el colapso de la bolsa de Nueva York
 
 ---
@@ -74,10 +73,10 @@ escala mundial un conjunto de derechos correspondientes a toda persona, sin dist
 nacionalidad, como respuesta directa a las atrocidades cometidas durante la Segunda Guerra
 Mundial?
 
-a) La Carta de las Naciones Unidas
-b) El Tratado de Versalles
+a) La Carta de las Naciones Unidas, firmada en San Francisco
+b) El Tratado de Versalles, que puso fin a la Primera Guerra
 c) La Declaración Universal de los Derechos Humanos
-d) La Doctrina de la Seguridad Nacional
+d) La Convención de Ginebra sobre el trato a los prisioneros
 
 ---
 
@@ -88,9 +87,9 @@ d) La Doctrina de la Seguridad Nacional
 chilena, al crear por primera vez experiencias culturales compartidas por personas de distintos
 niveles socioeconómicos?
 
-a) La reforma agraria
-b) La creación del Instituto Nacional de Derechos Humanos
-c) La proscripción de los partidos políticos
+a) La reforma agraria y la redistribución de la tierra entre los campesinos
+b) La creación del Instituto Nacional de Derechos Humanos y sus campañas educativas
+c) La proscripción de los partidos políticos y la concentración del poder en el Ejecutivo
 d) La difusión de la radio, el cine y el creciente interés popular por el deporte
 
 ---
@@ -105,24 +104,21 @@ d) La difusión de la radio, el cine y el creciente interés popular por el depo
 
 ¿Qué hito de la Guerra Fría representa mejor este estímulo?
 
-a) La crisis de los misiles de Cuba
-b) El fin de la división de Alemania
+a) La crisis de los misiles de Cuba (1962), que enfrentó a ambas potencias por la instalación de armas nucleares
+b) El fin de la división de Alemania (1990), con la reunificación del país bajo un solo gobierno democrático
 c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los
    dos bloques
-d) La fundación de la ONU
+d) La fundación de la ONU (1945), creada para resolver los conflictos entre los vencedores de la guerra
 
 ---
 
-**Pregunta 5.** (2 puntos) — *Desarrollo breve*
-Explica en qué consistió la Guerra Fría como una confrontación principalmente "ideológica" entre
-Estados Unidos y la URSS, y menciona **dos esferas** —además de la militar— en que se manifestó
-ese enfrentamiento (por ejemplo, la cultura, el deporte o las ciencias).
+**Pregunta 5.** (2 puntos) — *Alternativas*
+¿Por qué la Guerra Fría fue una confrontación principalmente "ideológica", y en qué esferas no militares se manifestó?
 
-```
-
-
-
-```
+a) Porque, evitando un choque directo con riesgo nuclear, ambas potencias compitieron por demostrar la superioridad de su sistema; se manifestó en la cultura, el deporte y las ciencias (carrera espacial)
+b) Porque fue una guerra directa entre los ejércitos de Estados Unidos y la URSS en territorio europeo; se manifestó solo en lo militar, mediante batallas y ocupaciones de ciudades
+c) Porque ambas potencias compartían la misma ideología y solo disputaban territorios; no se manifestó en ninguna otra esfera, ya que la cultura y la ciencia quedaron al margen
+d) Porque se limitó al comercio de alimentos y materias primas entre los bloques; se manifestó en la economía, sin influir en la cultura, el deporte ni la carrera espacial
 
 ---
 
@@ -140,16 +136,13 @@ d) La Revolución Mexicana
 
 ---
 
-**Pregunta 7.** (2 puntos) — *Desarrollo breve*
-Explica en qué consistió la Doctrina de la Seguridad Nacional impulsada durante la Guerra Fría, y
-cómo se relaciona con los golpes de Estado que instauraron dictaduras militares en distintos
-países de América Latina entre las décadas de 1960 y 1970.
+**Pregunta 7.** (2 puntos) — *Alternativas*
+¿En qué consistió la Doctrina de la Seguridad Nacional y cómo se vincula con los golpes de Estado de los años 60 y 70?
 
-```
-
-
-
-```
+a) Promovía elecciones libres y la autonomía de los partidos políticos como garantía frente al comunismo, por lo que fue usada para impedir los golpes de Estado en la región
+b) Buscaba reducir el tamaño y el presupuesto de las Fuerzas Armadas latinoamericanas, y su aplicación debilitó a los militares que encabezaron los golpes de Estado
+c) Fue una política de libre comercio impulsada por Estados Unidos, sin efectos políticos, que se limitó a regular las exportaciones de materias primas de la región
+d) Promovía a las Fuerzas Armadas como garantes del orden interno frente a la amenaza comunista y se usó para legitimar dictaduras que violaron sistemáticamente los Derechos Humanos
 
 ---
 
@@ -161,9 +154,9 @@ Gorbachov en la URSS durante la década de 1980, que terminaron acelerando la cr
 soviético?
 
 a) Alianza para el Progreso y Doctrina de la Seguridad Nacional
-b) Perestroika y Glasnost
+b) Plan Laboral y Plan Marshall
 c) New Deal y Estado de Bienestar
-d) Plan Laboral y Plan Marshall
+d) Perestroika y Glasnost
 
 ---
 
@@ -178,23 +171,20 @@ d) Plan Laboral y Plan Marshall
 ¿Qué tipo de interpretación historiográfica prioriza el factor que enfatiza este historiador?
 
 a) Una interpretación centrada exclusivamente en el contexto internacional de la Guerra Fría
-b) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos
+b) Una interpretación basada únicamente en fuentes extranjeras, como documentos desclasificados de Estados Unidos
+c) Una interpretación que niega que haya existido una crisis institucional previa al golpe de Estado de 1973
+d) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos
    y militares chilenos
-c) Una interpretación que niega que el golpe de Estado haya ocurrido
-d) Una interpretación basada únicamente en fuentes extranjeras
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Desarrollo breve*
-Explica por qué, al comparar distintas interpretaciones historiográficas sobre un tema sensible
-como el golpe de Estado de 1973, es importante distinguir entre una "opinión sin evidencia" y una
-"interpretación fundamentada en fuentes verificables".
+**Pregunta 10.** (2 puntos) — *Alternativas*
+¿Por qué es importante distinguir entre "opinión sin evidencia" e "interpretación fundamentada en fuentes verificables" sobre el golpe de 1973?
 
-```
-
-
-
-```
+a) Porque solo puede existir una única interpretación correcta del golpe de 1973, y el trabajo historiográfico consiste en descartar todas las demás visiones por ser parciales
+b) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia (archivos, testimonios, documentos), distinguiendo visiones que amplían la comprensión de afirmaciones sin sustento
+c) Porque las opiniones personales de quienes vivieron el período son siempre más confiables que los documentos, ya que los archivos pueden haber sido manipulados
+d) Porque los temas sensibles no deben estudiarse en el colegio hasta que exista consenso total, de modo que la historia reciente solo puede abordarse con opiniones
 
 ---
 
@@ -212,7 +202,7 @@ d) El plebiscito
 
 ---
 
-**Pregunta 12.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 12.** (3 puntos) — *Varias correctas*
 
 > **Estímulo:** "Tras el golpe de Estado del 11 de septiembre de 1973, la Junta Militar cerró el
 > Congreso Nacional, proscribió los partidos políticos y concentró todo el poder político en sus
@@ -220,17 +210,12 @@ d) El plebiscito
 > como el Comité Pro Paz y, luego, la Vicaría de la Solidaridad prestaron asistencia legal, social
 > y de documentación a las víctimas de la represión."
 
-A partir del estímulo, explica con **dos ejemplos concretos** qué significó, en la práctica, que
-el golpe de Estado "suprimiera el Estado de Derecho" en Chile. Luego, explica por qué es
-relevante reconocer, junto con la represión estatal, el rol que cumplieron instituciones civiles
-y religiosas como la Vicaría de la Solidaridad durante ese mismo período.
+A partir del estímulo, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-```
-
-
-
-
-```
+a) El cierre del Congreso eliminó el control legislativo sobre el poder
+b) La proscripción de los partidos eliminó la oposición organizada
+c) Reconocer a la Vicaría muestra que la sociedad civil, con gran riesgo, documentó y defendió a las víctimas, algo clave para el derecho a la verdad
+d) El estado de sitio amplió las libertades de circulación y reunión
 
 ---
 
@@ -248,16 +233,13 @@ d) La Perestroika
 
 ---
 
-**Pregunta 14.** (2 puntos) — *Desarrollo breve*
-Explica qué se entiende por "supremacía del libre mercado como asignador de recursos" dentro del
-modelo económico neoliberal implementado en dictadura, y da un ejemplo de una medida concreta del
-período que refleje ese principio.
+**Pregunta 14.** (2 puntos) — *Alternativas*
+¿Qué se entiende por "supremacía del libre mercado como asignador de recursos" en el modelo neoliberal implementado en dictadura, y qué medida lo refleja?
 
-```
-
-
-
-```
+a) Que el Estado planificó toda la producción y fijó las metas de cada empresa; lo refleja la nacionalización de la gran minería del cobre
+b) Que se prohibió el comercio internacional para proteger la industria nacional; lo refleja el alza generalizada de los aranceles
+c) Que el mercado, y no el Estado, se volvió el principal mecanismo para asignar recursos y fijar precios; lo refleja la privatización de empresas estatales
+d) Que los precios los fijaba la Junta Militar mediante decretos para controlar la inflación; lo refleja la estatización de los bancos
 
 ---
 
@@ -268,10 +250,10 @@ período que refleje ese principio.
 sectores que antes lo respaldaban, y se considera uno de los factores que precipitó el
 surgimiento de las protestas nacionales?
 
-a) La caída del Muro de Berlín
+a) La caída del Muro de Berlín y del bloque soviético
 b) Una severa crisis económica, con desempleo masivo
-c) La firma del Acuerdo Nacional de 1985
-d) El plebiscito de 1988
+c) La firma del Acuerdo Nacional de 1985 por los partidos
+d) El plebiscito de 1988 y el triunfo de la opción No
 
 ---
 
@@ -283,22 +265,19 @@ oficialmente los casos de personas ejecutadas y desaparecidas durante la dictadu
 informe final en 1991?
 
 a) La Comisión Nacional de Verdad y Reconciliación (Informe Rettig)
-b) La Vicaría de la Solidaridad
-c) El Consejo de Derechos Humanos de la ONU
-d) La Junta Militar
+b) La Vicaría de la Solidaridad, organismo creado por la Iglesia Católica
+c) El Consejo de Derechos Humanos de la ONU, con sede en Ginebra
+d) La Comisión Nacional sobre Prisión Política y Tortura (Informe Valech)
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Desarrollo breve*
-Explica en qué consistieron las reformas constitucionales negociadas antes del cambio de mando en
-1990, y por qué se dice que la transición mantuvo "elementos de continuidad" con el período
-anterior, pese al retorno a un gobierno civil electo democráticamente.
+**Pregunta 17.** (2 puntos) — *Alternativas*
+¿En qué consistieron las reformas constitucionales negociadas antes de 1990 y por qué la transición mantuvo "elementos de continuidad"?
 
-```
-
-
-
-```
+a) Buscaron democratizar parcialmente la Constitución de 1980, que siguió vigente, y Pinochet permaneció como Comandante en Jefe hasta 1998, lo que obligó a negociar cambios gradualmente
+b) Derogaron por completo la Constitución de 1980 en 1989 y la reemplazaron por una nueva, redactada por una asamblea constituyente, aunque Pinochet siguió como Comandante en Jefe
+c) Mantuvieron a la Junta Militar en el gobierno hasta el año 2000, mientras el Congreso preparaba nuevas elecciones presidenciales, lo que retrasó la llegada de Aylwin al poder
+d) No existió ninguna continuidad con el período anterior: en 1990 se renovaron todas las instituciones y autoridades, y la Constitución de 1980 dejó de aplicarse ese mismo año
 
 ---
 
@@ -310,23 +289,20 @@ anterior, pese al retorno a un gobierno civil electo democráticamente.
 ¿Cuál de las siguientes opciones corresponde a un indicador de la pobreza y precariedad de la
 sociedad chilena de mediados del siglo XX?
 
-a) Un alto acceso al crédito para la mayoría de la población
+a) Un alto acceso al crédito bancario para la mayoría de la población urbana y rural
 b) Una alta mortalidad infantil y desnutrición extendida en sectores populares
-c) Una baja tasa de migración campo-ciudad
-d) Un déficit habitacional inexistente en las ciudades
+c) Una baja tasa de migración campo-ciudad y la estabilidad de la población rural
+d) Un déficit habitacional inexistente en las ciudades, gracias a la vivienda social
 
 ---
 
-**Pregunta 19.** (2 puntos) — *Desarrollo breve*
-Explica cómo el crecimiento acelerado de la población urbana chilena a mediados de siglo XX
-superó la capacidad de planificación e infraestructura de las ciudades, mencionando al menos una
-consecuencia concreta de ese desajuste.
+**Pregunta 19.** (2 puntos) — *Alternativas*
+¿Cómo superó el crecimiento urbano acelerado de mediados del siglo XX la capacidad de las ciudades, y qué consecuencia tuvo?
 
-```
-
-
-
-```
+a) Las ciudades se planificaron con anticipación y la construcción de viviendas superó la llegada de migrantes, por lo que sobraron casas y bajaron los arriendos en la periferia
+b) La población urbana disminuyó por la migración hacia el campo, lo que dejó barrios abandonados en el centro de las ciudades y obligó a demoler viviendas en mal estado
+c) No hubo ninguna consecuencia en el espacio urbano, porque los migrantes se instalaron en las casas de sus familiares y la infraestructura existente alcanzó para todos
+d) La migración campo-ciudad hizo crecer las ciudades más rápido que su planificación e infraestructura, generando escasez de vivienda formal y poblaciones callampas en la periferia
 
 ---
 
@@ -345,16 +321,13 @@ d) Interdependencia
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Desarrollo breve*
-Explica qué se entiende por "grupos de especial protección" dentro del concepto de Derechos
-Humanos, y por qué reconocer protecciones específicas para estos grupos es compatible con el
-principio de universalidad, y no lo contradice.
+**Pregunta 21.** (2 puntos) — *Alternativas*
+¿Qué son los "grupos de especial protección" y por qué son compatibles con la universalidad de los Derechos Humanos?
 
-```
-
-
-
-```
+a) Grupos que tienen derechos superiores al resto de las personas, porque su situación de vulnerabilidad justifica que reciban más derechos que los demás, en lugar de los mismos
+b) Personas o colectivos en situación de mayor vulnerabilidad que requieren garantías específicas para ejercer en igualdad real los mismos derechos universales, sin recibir "más" derechos
+c) Grupos que quedan fuera de los derechos humanos universales y solo reciben la protección que cada Estado decide darles, según su nacionalidad o situación migratoria
+d) Grupos protegidos solo por tener nacionalidad chilena, porque los derechos humanos se garantizan a los ciudadanos de cada país y no a todas las personas por igual
 
 ---
 
@@ -375,15 +348,13 @@ d) Una manifestación de la diversidad cultural
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Desarrollo breve*
-Explica **una oportunidad** y **un desafío** que un mundo globalizado presenta para avanzar hacia
-sociedades menos discriminadoras.
+**Pregunta 23.** (2 puntos) — *Alternativas*
+¿Qué pareja identifica correctamente una oportunidad y un desafío de la globalización para reducir la discriminación?
 
-```
-
-
-
-```
+a) Oportunidad: el aislamiento entre países, que protege a cada cultura de influencias externas. Desafío: el intercambio cultural, que siempre genera conflictos entre comunidades
+b) Oportunidad: la eliminación automática de los prejuicios gracias al contacto entre culturas. Desafío: ninguno, porque la globalización resuelve por sí sola la discriminación
+c) Oportunidad: mayor visibilidad internacional de casos y avance de estándares comunes. Desafío: discriminación hacia comunidades migrantes cuando el contacto no va acompañado de inclusión
+d) Oportunidad: ninguna, porque la globalización solo tiene efectos económicos. Desafío: ninguno, porque la discriminación es un problema exclusivamente local de cada país
 
 ---
 
@@ -397,38 +368,29 @@ y la dignidad de estos estudiantes?
 a) Exigir que adopten exclusivamente las costumbres locales para asegurar una identidad común
 b) Ofrecer toda la información solo en español, porque cualquier diferencia de apoyo sería un privilegio
 c) Ofrecer apoyos lingüísticos según las necesidades y facilitar el intercambio cultural sin exigir renunciar a la propia identidad
-d) Separar permanentemente a los estudiantes por país de origen para evitar conflictos
+d) Separar permanentemente a los estudiantes por país de origen en cursos distintos, para evitar conflictos y permitir que cada grupo conserve su identidad
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 25.** (3 puntos) — *Varias correctas*
 
 > **Caso hipotético:** Una comuna organiza una feria de emprendimientos con personas nacidas en
 > distintos países. Todas cumplen los mismos requisitos de residencia y las autorizaciones
 > exigidas para participar. Un grupo pide excluir a quienes nacieron fuera de Chile, argumentando
 > que la diversidad de costumbres haría perder la identidad local.
 
-Desarrolla una respuesta que aborde estos tres aspectos:
+A partir del caso, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-1. Identifica la discriminación presente en la propuesta y relaciónala con la libertad y la
-   dignidad de las personas.
-2. Explica una oportunidad del intercambio entre culturas y propone una medida concreta para
-   aprovecharla sin excluir por nacionalidad.
-3. Explica un aporte de la ley chilena que establece medidas contra la discriminación
-   (Ley Zamudio) para enfrentar situaciones de discriminación arbitraria.
-
-```
-
-
-
-
-```
+a) La propuesta es una discriminación por nacionalidad sin justificación razonable, que afecta la igual dignidad de las personas
+b) Una medida inclusiva es permitir la participación en igualdad de condiciones y crear espacios de colaboración
+c) La Ley Zamudio permite acudir a la justicia frente a una discriminación arbitraria
+d) Excluir a los extranjeros es válido porque cumplen los mismos requisitos
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -444,27 +406,27 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 2  | Alternativas | c) La Declaración Universal de los Derechos Humanos | OA 4 | Historia | 1 |
 | 3  | Alternativas | d) La difusión de la radio, el cine y el creciente interés popular por el deporte | OA 7 | Historia | 1 |
 | 4  | Alternativas | c) La construcción del Muro de Berlín (1961), símbolo físico de la división de Europa entre los dos bloques | OA 8 | Historia | 1 |
-| 5  | Desarrollo breve | Fue una confrontación principalmente ideológica porque, evitando un choque militar directo que arriesgara una guerra nuclear, ambas superpotencias compitieron por demostrar la superioridad de su sistema político y económico a través de otras vías. Esferas válidas (dos): la cultura (propaganda, cine, literatura), el deporte (Juegos Olímpicos, boicots mutuos) o las ciencias (la carrera espacial) | OA 8 | Historia | 2 |
+| 5 | Alternativas | **a) Porque, evitando un choque directo con riesgo nuclear, ambas potencias compitieron por demostrar la superioridad de su sistema; se manifestó en la cultura, el deporte y las ciencias (carrera espacial).** | OA 8 | Historia | 2 |
 | 6  | Alternativas | a) La Revolución Cubana | OA 10 | Historia | 1 |
-| 7  | Desarrollo breve | La Doctrina de la Seguridad Nacional promovía el fortalecimiento de las Fuerzas Armadas latinoamericanas como garantes del orden interno frente a la amenaza comunista percibida durante la Guerra Fría; esta doctrina fue utilizada para legitimar, en varios países de la región, la intervención militar en la política y la instauración de dictaduras que violaron sistemáticamente los Derechos Humanos | OA 10 | Historia | 2 |
-| 8  | Alternativas | b) Perestroika y Glasnost | OA 11 | Historia | 1 |
-| 9  | Alternativas | b) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos y militares chilenos | OA 15 | Historia | 1 |
-| 10 | Desarrollo breve | En temas históricos con fuerte carga política y emocional, es común que circulen versiones basadas solo en posturas personales o partidistas; el trabajo historiográfico riguroso exige sustentar cualquier interpretación en evidencia verificable (archivos, testimonios, documentos), lo que permite distinguir entre visiones que amplían la comprensión del pasado y afirmaciones sin sustento, sin que esto implique que exista una única interpretación correcta | OA 15 | Historia | 2 |
+| 7 | Alternativas | **d) Promovía a las Fuerzas Armadas como garantes del orden interno frente a la amenaza comunista y se usó para legitimar dictaduras que violaron sistemáticamente los Derechos Humanos.** | OA 10 | Historia | 2 |
+| 8  | Alternativas | d) Perestroika y Glasnost | OA 11 | Historia | 1 |
+| 9  | Alternativas | d) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos y militares chilenos | OA 15 | Historia | 1 |
+| 10 | Alternativas | **b) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia (archivos, testimonios, documentos), distinguiendo visiones que amplían la comprensión de afirmaciones sin sustento.** Esto no implica que exista una única interpretación correcta. | OA 15 | Historia | 2 |
 | 11 | Alternativas | b) La desaparición forzada | OA 16 | Historia | 1 |
-| 12 | Desarrollo extenso | Ejemplos válidos de supresión del Estado de Derecho (al menos dos): el cierre del Congreso Nacional (elimina el control legislativo), la proscripción de los partidos políticos (elimina la oposición organizada), la concentración del poder en la Junta Militar (elimina la separación de poderes), o el estado de sitio y el toque de queda (restringen libertades básicas). Relevancia de reconocer a la Vicaría de la Solidaridad: muestra que, aun en un contexto de represión estatal sistemática, la sociedad civil no permaneció pasiva, y que instituciones civiles y religiosas, con considerable riesgo personal para quienes las integraban, contribuyeron a documentar y defender a las víctimas, lo que hoy resulta clave para el derecho a la verdad y la justicia | OA 16 | Historia | 3 |
+| 12 | Varias correctas | **a, b y c.** La supresión del Estado de Derecho eliminó los controles sobre el poder; el estado de sitio restringió libertades básicas. | OA 16 | Historia | 3 |
 | 13 | Alternativas | b) El Plan Laboral | OA 17 | Historia | 1 |
-| 14 | Desarrollo breve | Significa que el mercado —y no el Estado ni la planificación central— se estableció como el principal mecanismo para asignar recursos, fijar precios y orientar la producción. Ejemplo válido: la privatización de empresas estatales, la rebaja arancelaria que abrió la economía a la competencia internacional, o la reducción de la intervención estatal directa en sectores productivos | OA 17 | Historia | 2 |
+| 14 | Alternativas | **c) Que el mercado, y no el Estado, se volvió el principal mecanismo para asignar recursos y fijar precios; lo refleja la privatización de empresas estatales.** | OA 17 | Historia | 2 |
 | 15 | Alternativas | b) Una severa crisis económica, con desempleo masivo | OA 19 | Historia | 1 |
 | 16 | Alternativas | a) La Comisión Nacional de Verdad y Reconciliación (Informe Rettig) | OA 20 | Historia | 1 |
-| 17 | Desarrollo breve | Las reformas constitucionales negociadas entre el gobierno saliente y la naciente coalición de gobierno buscaron hacer más democrática la Constitución de 1980. Elementos de continuidad: la propia Constitución de 1980 —con esas reformas parciales— se mantuvo vigente por años, y Augusto Pinochet permaneció como Comandante en Jefe del Ejército hasta 1998, lo que generó tensiones cívico-militares y obligó al nuevo gobierno a negociar cambios de manera gradual, en lugar de imponerlos unilateralmente | OA 20 | Historia | 2 |
+| 17 | Alternativas | **a) Buscaron democratizar parcialmente la Constitución de 1980, que siguió vigente, y Pinochet permaneció como Comandante en Jefe hasta 1998, lo que obligó a negociar cambios gradualmente.** | OA 20 | Historia | 2 |
 | 18 | Alternativas | b) Una alta mortalidad infantil y desnutrición extendida en sectores populares | OA 12 | Geografía | 1 |
-| 19 | Desarrollo breve | Las ciudades chilenas, especialmente Santiago, crecieron a un ritmo mucho más rápido que su capacidad de planificación e infraestructura debido a la intensa migración campo-ciudad. Consecuencia concreta válida: la escasez de vivienda formal, que llevó a la ocupación irregular de terrenos y a la formación de poblaciones callampas en la periferia urbana, o la segregación urbana resultante | OA 12 | Geografía | 2 |
+| 19 | Alternativas | **d) La migración campo-ciudad hizo crecer las ciudades más rápido que su planificación e infraestructura, generando escasez de vivienda formal y poblaciones callampas en la periferia.** | OA 12 | Geografía | 2 |
 | 20 | Alternativas | a) Universalidad | OA 22 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | Los grupos de especial protección son personas o colectivos que, por su situación de mayor vulnerabilidad (niños, niñas y adolescentes; personas con discapacidad; pueblos indígenas; personas migrantes; adultos mayores, entre otros), requieren garantías específicas para poder ejercer sus derechos en igualdad de condiciones. Esto es compatible con la universalidad porque no implica darles "más" derechos que al resto, sino generar las condiciones concretas para que puedan ejercer, en igualdad real, los mismos derechos universales que corresponden a todas las personas | OA 22 | Formación Ciudadana | 2 |
+| 21 | Alternativas | **b) Personas o colectivos en situación de mayor vulnerabilidad que requieren garantías específicas para ejercer en igualdad real los mismos derechos universales, sin recibir "más" derechos.** | OA 22 | Formación Ciudadana | 2 |
 | 22 | Alternativas | a) Un caso de discriminación arbitraria por nacionalidad | OA 25 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Oportunidad: mayor visibilidad internacional de casos de discriminación, intercambio cultural y avance de estándares internacionales de Derechos Humanos. Desafío: persistencia de prejuicios y estereotipos culturales, o discriminación hacia comunidades migrantes, especialmente cuando el mayor contacto entre culturas no viene acompañado de educación e inclusión efectiva | OA 25 | Formación Ciudadana | 2 |
+| 23 | Alternativas | **c) Oportunidad: mayor visibilidad internacional de casos y avance de estándares comunes. Desafío: discriminación hacia comunidades migrantes cuando el contacto no va acompañado de inclusión.** | OA 25 | Formación Ciudadana | 2 |
 | 24 | Alternativas | c) Ofrecer apoyos lingüísticos según las necesidades y facilitar el intercambio cultural sin exigir renunciar a la propia identidad. Reconoce igual dignidad y atiende barreras concretas sin imponer asimilación ni segregación | OA 25 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | 1 pt: identifica la exclusión por nacionalidad sin justificación razonable y la relaciona con la igual dignidad o la libertad. 1 pt: explica una oportunidad del intercambio cultural y propone una medida inclusiva concreta, como participación en igualdad de condiciones o espacios de colaboración. 1 pt: explica un aporte de la Ley Zamudio, como la acción judicial frente a discriminación arbitraria o la definición de esta como distinción, exclusión o restricción sin justificación razonable que afecta derechos. Aceptar explicaciones equivalentes; no exigir el número de la ley ni afirmar un resultado judicial garantizado | OA 25 | Formación Ciudadana | 3 |
+| 25 | Varias correctas | **a, b y c.** Cumplir los mismos requisitos hace que la exclusión sea arbitraria; la Ley Zamudio la define como distinción sin justificación razonable que afecta derechos. | OA 25 | Formación Ciudadana | 3 |
 
 **Puntaje total: 37 puntos**
 
@@ -507,20 +469,20 @@ otros criterios de conversión.)*
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1 | 1 | 0 |
-| OA 4 | 2 | 1 | 0 |
-| OA 7 | 3 | 1 | 0 |
-| OA 8 | 4, 5 | 1 | 1 |
-| OA 10 | 6, 7 | 1 | 1 |
-| OA 11 | 8 | 1 | 0 |
-| OA 12 | 18, 19 | 1 | 1 |
-| OA 15 | 9, 10 | 1 | 1 |
-| OA 16 | 11, 12 | 1 | 1 |
-| OA 17 | 13, 14 | 1 | 1 |
-| OA 19 | 15 | 1 | 0 |
-| OA 20 | 16, 17 | 1 | 1 |
-| OA 22 | 20, 21 | 1 | 1 |
-| OA 25 | 22, 23, 24, 25 | 2 | 2 |
-| **Total** | **25 preguntas** | **15** | **10** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1 | 1 |
+| OA 4 | 2 | 1 |
+| OA 7 | 3 | 1 |
+| OA 8 | 4, 5 | 2 |
+| OA 10 | 6, 7 | 2 |
+| OA 11 | 8 | 1 |
+| OA 12 | 18, 19 | 2 |
+| OA 15 | 9, 10 | 2 |
+| OA 16 | 11, 12 | 2 |
+| OA 17 | 13, 14 | 2 |
+| OA 19 | 15 | 1 |
+| OA 20 | 16, 17 | 2 |
+| OA 22 | 20, 21 | 2 |
+| OA 25 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

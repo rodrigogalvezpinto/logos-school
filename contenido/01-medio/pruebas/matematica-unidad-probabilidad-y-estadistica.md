@@ -27,19 +27,44 @@ d) 5/6
 
 **Pregunta 3 (calcular).** Se lanzan dos monedas. ¿Cuál es la probabilidad de obtener cara en ambas?
 a) 1/2
-b) 1/4
+b) 1/3
 c) 1
-d) 1/3
+d) 1/4
 
-**Pregunta 4 (desarrollo).** En un curso de 40 estudiantes, 18 practican fútbol, 15 practican básquetbol, y 6 practican ambos deportes. Si se elige un estudiante al azar, ¿cuál es la probabilidad de que practique fútbol o básquetbol?
+**Pregunta 4 (Alternativas — regla aditiva con intersección).** En un curso de 40, 18 practican fútbol, 15 básquetbol y 6 ambos. ¿Cuál es la probabilidad de que un estudiante al azar practique fútbol o básquetbol?
 
-**Pregunta 5 (desarrollo).** De una bolsa con 5 bolitas rojas y 3 azules, se sacan dos bolitas sin reposición (sin devolver la primera). ¿Cuál es la probabilidad de que ambas sean rojas?
+a) 27/40
+b) 33/40
+c) 6/40
+d) 21/40
 
-**Pregunta 6 (problema en contexto).** Un estudiante tiene 70% de probabilidad de aprobar Matemática y 60% de probabilidad de aprobar Lenguaje, de manera independiente entre sí. ¿Cuál es la probabilidad de que apruebe al menos una de las dos asignaturas?
+**Pregunta 5 (Alternativas — sin reposición).** De una bolsa con 5 bolitas rojas y 3 azules se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
 
-**Pregunta 7 (problema en contexto).** Se lanzan dos dados de 6 caras. ¿Cuál es la probabilidad de obtener un 6 en el primer dado y un número par en el segundo dado?
+a) 25/64
+b) 5/8
+c) 20/64
+d) 5/14
 
-**Pregunta 8 (problema no rutinario).** De una baraja de 10 cartas numeradas del 1 al 10, se saca una carta al azar. ¿Cuál es la probabilidad de obtener un número múltiplo de 2 o un número múltiplo de 3?
+**Pregunta 6 (Alternativas — regla combinada).** P(aprobar Matemática) = 0,7 y P(aprobar Lenguaje) = 0,6, de forma independiente. ¿Cuál es la probabilidad de aprobar al menos una?
+
+a) 1,3
+b) 0,88
+c) 0,65
+d) 0,42
+
+**Pregunta 7 (Alternativas — dados combinados).** Se lanzan dos dados. ¿Cuál es la probabilidad de obtener un 6 en el primero y un número par en el segundo?
+
+a) 2/3
+b) 1/6
+c) 1/12
+d) 1/36
+
+**Pregunta 8 (Alternativas — cartas).** De 10 cartas numeradas del 1 al 10 se saca una al azar. ¿Cuál es la probabilidad de obtener un múltiplo de 2 o de 3?
+
+a) 7/10
+b) 8/10
+c) 1/10
+d) 5/10
 
 **Pregunta 9 (alternativas).** Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un 1, un 3 o un 6?
 a) 1/6
@@ -49,11 +74,26 @@ d) 2/3
 
 **Pregunta 10 (verdadero o falso).** La probabilidad de la unión de dos eventos mutuamente excluyentes es igual a la suma de sus probabilidades individuales.
 
-**Pregunta 11 (desarrollo).** Una bolsa contiene 3 bolitas rojas y 7 azules. Se sacan dos bolitas sin reposición. ¿Cuál es la probabilidad de que ambas sean azules?
+**Pregunta 11 (Alternativas).** Una bolsa contiene 3 bolitas rojas y 7 azules. Se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean azules?
 
-**Pregunta 12 (problema en contexto).** En un mazo de 52 cartas hay 4 ases y 13 cartas de corazones (♥), y el As de corazones pertenece a ambos grupos. Si se saca una carta al azar, ¿cuál es la probabilidad de obtener un As o una carta de corazones?
+a) 49/100
+b) 7/10
+c) 21/50
+d) 7/15
 
-**Pregunta 13 (problema no rutinario).** Dos arqueros disparan de forma independiente a un blanco. La probabilidad de que el arquero A acierte es 0,8, y la del arquero B es 0,75. ¿Cuál es la probabilidad de que al menos uno de los dos acierte?
+**Pregunta 12 (Alternativas).** En un mazo de 52 cartas hay 4 ases y 13 corazones, y el as de corazones pertenece a ambos grupos. ¿Cuál es la probabilidad de obtener un as o un corazón?
+
+a) 17/52
+b) 4/13
+c) 1/52
+d) 1/4
+
+**Pregunta 13 (Alternativas).** Dos arqueros disparan de forma independiente: A acierta con probabilidad 0,8 y B con 0,75. ¿Cuál es la probabilidad de que al menos uno acierte?
+
+a) 1,55
+b) 0,6
+c) 0,95
+d) 0,775
 
 ---
 
@@ -63,24 +103,24 @@ d) 2/3
 
 **2. Falso.** Para eventos independientes que ocurren "a la vez" se aplica la regla multiplicativa (se multiplican las probabilidades), no la aditiva.
 
-**3. b) 1/4.** P(cara y cara)=1/2×1/2=1/4.
+**3. d) 1/4.** P(cara y cara)=1/2×1/2=1/4.
 
-**4. 27/40 (0,675 o 67,5%).** P(fútbol o básquetbol) = 18/40 + 15/40 − 6/40 = 27/40.
+**4. a) 27/40.** 18/40 + 15/40 − 6/40 = 27/40 = 67,5%; sin restar la intersección se cuenta dos veces a quienes practican ambos.
 
-**5. 5/14.** P(1ª roja)=5/8; P(2ª roja, sin reposición)=4/7; P(ambas rojas)=5/8×4/7=20/56=5/14.
+**5. d) 5/14.** 5/8 × 4/7 = 20/56 = 5/14; sin reposición, la segunda extracción se calcula sobre lo que queda (25/64 sería con reposición).
 
-**6. 88%.** P(Mat o Leng) = 0,7+0,6−(0,7×0,6) = 1,3−0,42 = 0,88.
+**6. b) 0,88.** 0,7 + 0,6 − 0,7 · 0,6 = 0,88; la intersección se calcula con la regla multiplicativa por ser independientes.
 
-**7. 1/12.** P(6 y par) = 1/6 × 1/2 = 1/12, por ser eventos independientes.
+**7. c) 1/12.** Son independientes: 1/6 × 1/2 = 1/12.
 
-**8. 7/10 (0,7).** Múltiplos de 2: 5/10; múltiplos de 3: 3/10; intersección (múltiplos de 6): 1/10. P = 5/10+3/10−1/10 = 7/10.
+**8. a) 7/10.** 5/10 + 3/10 − 1/10 = 7/10; el 6 es múltiplo de ambos y no debe contarse dos veces.
 
 **9. b) 1/2.** Los eventos {1,3,6} son mutuamente excluyentes: P = 1/6+1/6+1/6 = 3/6 = 1/2.
 
 **10. Verdadero.** Cuando P(A∩B)=0, la regla aditiva se simplifica a P(A∪B)=P(A)+P(B).
 
-**11. 7/15.** P(1ª azul)=7/10; P(2ª azul, sin reposición)=6/9; P(ambas azules)=7/10×6/9=42/90=7/15.
+**11. d) 7/15.** 7/10 × 6/9 = 42/90 = 7/15; 49/100 sería con reposición.
 
-**12. 4/13.** P(As o ♥) = 4/52+13/52−1/52 = 16/52 = 4/13.
+**12. b) 4/13.** 4/52 + 13/52 − 1/52 = 16/52 = 4/13; 17/52 cuenta dos veces el as de corazones.
 
-**13. 95%.** P(al menos uno) = P(A)+P(B)−P(A y B) = 0,8+0,75−(0,8×0,75) = 1,55−0,6 = 0,95.
+**13. c) 0,95.** 0,8 + 0,75 − 0,8 · 0,75 = 0,95; también puede calcularse como 1 − 0,2 · 0,25.

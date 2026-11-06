@@ -59,11 +59,11 @@ Diferencia = temperatura final − temperatura inicial = 6 − (−2) = 6 + 2 = 
 
 **Pregunta 1 (alternativas).** ¿Cuál número entero representa "un déficit (pérdida) de $15.000 en las cuentas de un club deportivo"?
 a) 15.000
-b) −15.000
+b) 1/15.000
 c) 0
-d) 1/15.000
+d) −15.000
 
-**Respuesta correcta: b) −15.000.**
+**Respuesta correcta: d) −15.000.**
 *Retroalimentación:* un déficit es una pérdida, una cantidad "bajo cero" en términos de dinero, por lo tanto se representa con signo negativo.
 
 **Pregunta 2 (verdadero o falso).** En la recta numérica, el número −7 está más cerca del 0 que el número −3.
@@ -73,41 +73,57 @@ d) 1/15.000
 
 **Pregunta 3 (calcular).** Calcula: −12 + 20.
 a) −32
-b) 8
+b) 32
 c) −8
-d) 32
+d) 8
 
-**Respuesta correcta: b) 8.**
+**Respuesta correcta: d) 8.**
 *Retroalimentación:* al sumar un positivo a un negativo, se puede pensar como avanzar 20 posiciones desde el −12 en la recta numérica: −12 + 20 = 8.
 
-**Pregunta 4 (calcular con resta).** Calcula: 4 − 9.
+**Pregunta 4 (alternativas — calcular con resta).** Calcula: 4 − 9.
+a) −5
+b) 5
+c) −13
+d) 13
 
-**Respuesta esperada:** 4 − 9 = **−5**.
+**Respuesta correcta: a) −5.**
 *Retroalimentación:* como 9 es mayor que 4, el resultado es negativo. En la recta numérica, desde el 4 se retrocede 9 posiciones, llegando al −5.
 
-**Pregunta 5 (desarrollo — contexto de temperatura).** Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al final del día?
+**Pregunta 5 (alternativas — contexto de temperatura).** Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al final del día?
+a) −7°C
+b) 15°C
+c) −15°C
+d) 7°C
 
-**Respuesta esperada:** −4 + 11 = **7°C**.
-*Retroalimentación:* "subir" una temperatura equivale a sumar; se suma la variación (+11) al valor inicial (−4).
+**Respuesta correcta: d) 7°C.**
+*Retroalimentación:* "subir" una temperatura equivale a sumar: −4 + 11 = 7. Si se obtiene −7 se restó en vez de sumar; 15 resulta de ignorar el signo del −4.
 
-**Pregunta 6 (desarrollo — cuenta bancaria).** La cuenta corriente de Marcela tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
+**Pregunta 6 (alternativas — cuenta bancaria).** La cuenta corriente de Marcela tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
+a) −$18.000
+b) −$82.000
+c) $82.000
+d) $18.000
 
-**Respuesta esperada:** −32.000 + 50.000 = **$18.000**.
-*Retroalimentación:* el depósito es un movimiento positivo que se suma al saldo (negativo); si el resultado es positivo, significa que ya no hay deuda y queda dinero disponible.
+**Respuesta correcta: d) $18.000.**
+*Retroalimentación:* el depósito se suma al saldo negativo: −32.000 + 50.000 = 18.000; como el resultado es positivo, ya no hay deuda y queda dinero disponible.
 
 **Pregunta 7 (identificar el significado de los signos).** Un avión vuela a 9.000 metros de altura y desciende 2.500 metros. Un submarino está a −300 metros (bajo el nivel del mar) y desciende 150 metros más. ¿Cuál de las siguientes ecuaciones representa correctamente la nueva posición del submarino?
 a) −300 + 150 = −150
-b) −300 − 150 = −450
-c) 300 − 150 = 150
+b) 300 − 150 = 150
+c) −300 − 150 = −450
 d) −300 + 150 = 450
 
-**Respuesta correcta: b) −300 − 150 = −450.**
+**Respuesta correcta: c) −300 − 150 = −450.**
 *Retroalimentación:* "descender" desde una posición ya negativa significa alejarse más del 0 hacia abajo, por lo tanto se resta (o se suma un número negativo): −300 − 150 = −450 metros.
 
-**Pregunta 8 (problema no rutinario).** Un cerro tiene su cima a 1.200 m sobre el nivel del mar y su base junto a una mina cuyo túnel más profundo llega a −85 m. ¿Cuál es la diferencia de altura entre la cima del cerro y el punto más profundo de la mina?
+**Pregunta 8 (alternativas — problema no rutinario).** Un cerro tiene su cima a 1.200 m sobre el nivel del mar y una mina cuyo túnel más profundo llega a −85 m. ¿Cuál es la diferencia de altura entre la cima y el punto más profundo de la mina?
+a) 1.115 m
+b) −1.285 m
+c) 1.285 m
+d) 1.200 m
 
-**Respuesta esperada:** 1.200 − (−85) = 1.200 + 85 = **1.285 metros**.
-*Retroalimentación:* para calcular la diferencia entre dos alturas (una sobre el nivel del mar y otra bajo él), se resta la posición más baja a la más alta; restar un número negativo equivale a sumar su valor positivo.
+**Respuesta correcta: c) 1.285 m.**
+*Retroalimentación:* se resta la posición más baja a la más alta: 1.200 − (−85) = 1.200 + 85 = 1.285 m. Restar un número negativo equivale a sumar su valor positivo; 1.115 m resulta de restar 85 en vez de sumarlo.
 
 ---
 
@@ -166,30 +182,50 @@ d) 4,7
 **Respuesta correcta: a) 2,1.**
 *Retroalimentación:* 4,2 × 0,5 equivale a la mitad de 4,2, que es 2,1. También se puede multiplicar como enteros (42 × 5 = 210) y luego ubicar la coma según la cantidad total de decimales (2 en total): 2,10.
 
-**Pregunta 4 (desarrollo — división de decimales).** Calcula: 9,6 ÷ 0,4.
+**Pregunta 4 (alternativas — división de decimales).** Calcula: 9,6 ÷ 0,4.
+a) 0,24
+b) 2,4
+c) 24
+d) 240
 
-**Respuesta esperada:** 9,6 ÷ 0,4 = **24**.
-*Retroalimentación:* una estrategia útil es amplificar ambos números por 10 para eliminar la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número.
+**Respuesta correcta: c) 24.**
+*Retroalimentación:* amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número.
 
-**Pregunta 5 (problema en contexto — fracciones).** Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agua se necesitan en total?
+**Pregunta 5 (alternativas — problema en contexto — fracciones).** Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agua se necesitan en total?
+a) 15/20 litros
+b) 5 3/4 litros
+c) 3/20 litros
+d) 3 3/4 litros
 
-**Respuesta esperada:** 3/4 × 5 = 15/4 = **3 3/4 litros**.
-*Retroalimentación:* multiplicar una fracción por un número entero se puede pensar como escribir el entero como fracción (5/1) y multiplicar numerador por numerador y denominador por denominador: 3/4 × 5/1 = 15/4.
+**Respuesta correcta: d) 3 3/4 litros.**
+*Retroalimentación:* 3/4 × 5 = 15/4 = 3 3/4 litros. Al multiplicar una fracción por un entero, el entero multiplica solo al numerador (5/1): 3/4 × 5/1 = 15/4.
 
-**Pregunta 6 (problema en contexto — repartir con fracciones).** Se tienen 5/6 de kilo de queso y se quiere repartir en porciones de 1/12 de kilo cada una. ¿Cuántas porciones se obtienen?
+**Pregunta 6 (alternativas — repartir con fracciones).** Se tienen 5/6 de kilo de queso y se quiere repartir en porciones de 1/12 de kilo cada una. ¿Cuántas porciones se obtienen?
+a) 5/72 porciones
+b) 10 porciones
+c) 6 porciones
+d) 12 porciones
 
-**Respuesta esperada:** 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = **10 porciones**.
-*Retroalimentación:* dividir una cantidad total por el tamaño de cada porción indica cuántas porciones caben en el total; se resuelve multiplicando por el recíproco del divisor.
+**Respuesta correcta: b) 10 porciones.**
+*Retroalimentación:* 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = 10. Dividir el total por el tamaño de cada porción indica cuántas porciones caben; 5/72 resulta de multiplicar en vez de dividir.
 
-**Pregunta 7 (problema en contexto — decimales).** Un litro de bencina cuesta $980,5. Si un auto necesita 32,4 litros para llenar el estanque, ¿cuánto se debe pagar aproximadamente (redondeando a la unidad)?
+**Pregunta 7 (alternativas — problema en contexto — decimales).** Un litro de bencina cuesta $980,5. Si un auto necesita 32,4 litros para llenar el estanque, ¿cuánto se debe pagar aproximadamente (redondeando a la unidad)?
+a) $3.177
+b) $317.682
+c) $31.768
+d) $1.012
 
-**Respuesta esperada:** 980,5 × 32,4 = 31.768,2 ≈ **$31.768**.
-*Retroalimentación:* al multiplicar dos decimales, se puede multiplicar como si fueran números enteros (9.805 × 324) y luego ubicar la coma contando la cantidad total de cifras decimales de ambos factores (2 en este caso).
+**Respuesta correcta: c) $31.768.**
+*Retroalimentación:* 980,5 × 32,4 = 31.768,2 ≈ $31.768. Se multiplica como enteros (9.805 × 324) y se ubica la coma contando las cifras decimales de ambos factores (2 en total).
 
-**Pregunta 8 (problema no rutinario).** Un panadero tiene 8,4 kg de masa y hace panes que pesan 0,15 kg cada uno. ¿Cuántos panes completos puede hacer?
+**Pregunta 8 (alternativas — problema no rutinario).** Un panadero tiene 8,4 kg de masa y hace panes que pesan 0,15 kg cada uno. ¿Cuántos panes completos puede hacer?
+a) 56 panes
+b) 5,6 panes
+c) 560 panes
+d) 1,26 panes
 
-**Respuesta esperada:** 8,4 ÷ 0,15 = 56 panes exactos, por lo tanto puede hacer **56 panes**.
-*Retroalimentación:* para dividir con más facilidad, se pueden amplificar ambos números por 100 (para eliminar decimales): 840 ÷ 15 = 56.
+**Respuesta correcta: a) 56 panes.**
+*Retroalimentación:* amplificando ambos números por 100 se eliminan los decimales: 840 ÷ 15 = 56 panes exactos.
 
 ---
 
@@ -222,9 +258,9 @@ Descuento: 30% de 40.000 = 0,3 × 40.000 = 12.000. Precio final: 40.000 − 12.0
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas — cálculo mental).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
-a) $3.500
+a) $17.500
 b) $7.000
-c) $17.500
+c) $3.500
 d) $700
 
 **Respuesta correcta: b) $7.000.**
@@ -235,10 +271,14 @@ d) $700
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 75% = 3/4, por lo tanto se puede calcular dividiendo el valor por 4 (obteniendo el 25%) y multiplicando ese resultado por 3.
 
-**Pregunta 3 (problema — IVA).** Un notebook cuesta $320.000 sin IVA. Calcula el valor del IVA (19%) y el precio final con IVA incluido.
+**Pregunta 3 (alternativas — problema — IVA).** Un notebook cuesta $320.000 sin IVA. ¿Cuál es el precio final con IVA (19%) incluido?
+a) $60.800
+b) $259.200
+c) $339.000
+d) $380.800
 
-**Respuesta esperada:** IVA: 0,19 × 320.000 = 60.800. Precio final: 320.000 + 60.800 = **$380.800**.
-*Retroalimentación:* el IVA se calcula como el 19% del valor neto (sin impuesto), y luego se suma a ese valor para obtener el precio final que paga el consumidor.
+**Respuesta correcta: d) $380.800.**
+*Retroalimentación:* IVA: 0,19 × 320.000 = 60.800; precio final: 320.000 + 60.800 = $380.800. $60.800 es solo el impuesto y $259.200 resulta de restarlo.
 
 **Pregunta 4 (problema — oferta).** Una tienda tiene una oferta de 40% de descuento en zapatillas que cuestan $45.000. ¿Cuál es el precio final?
 a) $18.000
@@ -249,25 +289,41 @@ d) $63.000
 **Respuesta correcta: b) $27.000.**
 *Retroalimentación:* descuento: 0,4 × 45.000 = 18.000; precio final: 45.000 − 18.000 = 27.000. También se puede calcular directo como el 60% restante: 0,6 × 45.000 = 27.000.
 
-**Pregunta 5 (problema — préstamo).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+**Pregunta 5 (alternativas — problema — préstamo).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+a) $40.000
+b) $508.000
+c) $540.000
+d) $900.000
 
-**Respuesta esperada:** interés: 0,08 × 500.000 = 40.000. Total a devolver: 500.000 + 40.000 = **$540.000**.
-*Retroalimentación:* en un préstamo, el interés es un porcentaje adicional que se cobra sobre el dinero prestado (el capital), y se suma a este para obtener la deuda total.
+**Respuesta correcta: c) $540.000.**
+*Retroalimentación:* interés: 0,08 × 500.000 = 40.000; total: 500.000 + 40.000 = $540.000. $508.000 confunde 8% con $8.000 y $900.000 confunde 8% con 80%.
 
-**Pregunta 6 (representación pictórica y cálculo).** En una cuadrícula de 10×10 casillas se colorean 42 casillas. ¿Qué porcentaje representa, y cuál sería el 50% de una cantidad de 42.000 personas (aplicando la misma proporción de forma escalada)?
+**Pregunta 6 (alternativas — representación pictórica y cálculo).** En una cuadrícula de 10×10 casillas se colorean 42 casillas. ¿Qué porcentaje representa lo coloreado, y cuál es el 50% de 42.000 personas?
+a) 4,2% y 21.000 personas
+b) 42% y 84.000 personas
+c) 42% y 21.000 personas
+d) 58% y 21.000 personas
 
-**Respuesta esperada:** las 42 casillas representan **42%**. El 50% de 42.000 personas es 0,5 × 42.000 = **21.000 personas**.
-*Retroalimentación:* en una cuadrícula de 100 casillas, la cantidad coloreada equivale directamente al porcentaje; luego, calcular el 50% de cualquier cantidad siempre corresponde a la mitad exacta.
+**Respuesta correcta: c) 42% y 21.000 personas.**
+*Retroalimentación:* en una cuadrícula de 100 casillas, la cantidad coloreada equivale directamente al porcentaje (42%); el 50% de cualquier cantidad es su mitad: 42.000 ÷ 2 = 21.000.
 
-**Pregunta 7 (comparar estrategias).** Explica dos formas distintas de calcular el 10% de $72.000, y comprueba que ambas dan el mismo resultado.
+**Pregunta 7 (varias correctas — comparar estrategias).** ¿Cuáles de estas estrategias permiten calcular correctamente el 10% de $72.000? Marca **todas** las correctas.
+a) Dividir 72.000 por 10
+b) Multiplicar 72.000 por 0,1
+c) Multiplicar 72.000 por 10/100
+d) Restar 10 a 72.000
 
-**Respuesta esperada:** forma 1: dividir por 10: 72.000 ÷ 10 = 7.200. Forma 2: multiplicar por el decimal 0,1: 0,1 × 72.000 = 7.200. Ambas dan **$7.200**.
-*Retroalimentación:* dividir por 10 y multiplicar por 0,1 son operaciones equivalentes, porque 10% = 10/100 = 1/10 = 0,1.
+**Respuesta correcta: a, b y c.**
+*Retroalimentación:* dividir por 10, multiplicar por 0,1 y multiplicar por 10/100 son equivalentes, porque 10% = 10/100 = 1/10 = 0,1; las tres dan $7.200. Restar 10 no calcula un porcentaje.
 
-**Pregunta 8 (problema no rutinario).** Un producto tenía un precio de $60.000, subió un 15% y luego, sobre el nuevo precio, se aplicó un descuento del 15%. ¿El precio final es igual al precio original? Justifica con cálculos.
+**Pregunta 8 (alternativas — problema no rutinario).** Un producto de $60.000 subió un 15% y luego, sobre el nuevo precio, se aplicó un descuento del 15%. ¿Cuál es el precio final?
+a) $69.000, mayor que el original
+b) $60.000, igual al original
+c) $58.650, menor que el original
+d) $51.000, menor que el original
 
-**Respuesta esperada:** precio tras el alza: 60.000 + (0,15×60.000) = 69.000. Precio tras el descuento: 69.000 − (0,15×69.000) = 69.000 − 10.350 = **$58.650**. No es igual al original ($60.000); es **menor**.
-*Retroalimentación:* subir y luego bajar el mismo porcentaje no da el valor original, porque el 15% se calcula sobre bases distintas (primero sobre 60.000, luego sobre 69.000, que es un valor mayor).
+**Respuesta correcta: c) $58.650, menor que el original.**
+*Retroalimentación:* tras el alza: 60.000 + 9.000 = 69.000; tras el descuento: 69.000 − 10.350 = $58.650. Subir y bajar el mismo porcentaje no devuelve el valor original, porque el 15% se calcula sobre bases distintas.
 
 ---
 
@@ -320,30 +376,50 @@ d) n + 4
 **Respuesta correcta: a) 4n + 1.**
 *Retroalimentación:* la secuencia aumenta de 4 en 4, por lo que el coeficiente de n es 4; comprobando con n=1: 4×1+1=5 ✓, con n=2: 4×2+1=9 ✓.
 
-**Pregunta 4 (desarrollo — construir y resolver ecuación).** El doble de la cantidad de estampillas que tiene Joaquín, más 6, es igual a 40. Escribe la ecuación y encuentra cuántas estampillas tiene.
+**Pregunta 4 (alternativas — construir y resolver ecuación).** El doble de la cantidad de estampillas que tiene Joaquín, más 6, es igual a 40. ¿Qué ecuación representa la situación y cuántas estampillas tiene?
+a) 2x + 6 = 40; x = 23
+b) x + 6 = 40; x = 34
+c) 2(x + 6) = 40; x = 14
+d) 2x + 6 = 40; x = 17
 
-**Respuesta esperada:** ecuación: 2x + 6 = 40. Resolviendo: 2x = 34; x = **17 estampillas**.
-*Retroalimentación:* al traducir el problema a una ecuación, "el doble... más 6... es igual a 40" se convierte directamente en 2x + 6 = 40, que se resuelve aislando la incógnita paso a paso.
+**Respuesta correcta: d) 2x + 6 = 40; x = 17.**
+*Retroalimentación:* "el doble... más 6... es igual a 40" se traduce como 2x + 6 = 40; entonces 2x = 34 y x = 17. Verificación: 2·17 + 6 = 40 ✓.
 
-**Pregunta 5 (desarrollo — generalizar una propiedad).** Observa: 3+5=8 y 5+3=8; 7+2=9 y 2+7=9. ¿Qué propiedad de la adición se generaliza con la expresión algebraica a + b = b + a?
+**Pregunta 5 (alternativas — generalizar una propiedad).** Observa: 3+5=8 y 5+3=8; 7+2=9 y 2+7=9. ¿Qué propiedad de la adición se generaliza con a + b = b + a?
+a) Asociativa
+b) Conmutativa
+c) Distributiva
+d) Elemento neutro
 
-**Respuesta esperada:** se generaliza la **propiedad conmutativa** de la adición: el orden de los sumandos no altera la suma.
-*Retroalimentación:* el lenguaje algebraico permite escribir una propiedad matemática (como la conmutatividad) de forma general, válida para cualquier par de números, no solo para los ejemplos numéricos observados.
+**Respuesta correcta: b) Conmutativa.**
+*Retroalimentación:* la propiedad conmutativa dice que el orden de los sumandos no altera la suma; el lenguaje algebraico permite escribirla de forma general, válida para cualquier par de números.
 
-**Pregunta 6 (problema en contexto).** En un estacionamiento se cobra una tarifa fija de $500 más $300 por cada hora de estacionamiento. Si x representa la cantidad de horas, ¿cuál expresión algebraica representa el costo total?
+**Pregunta 6 (alternativas — problema en contexto).** En un estacionamiento se cobra una tarifa fija de $500 más $300 por cada hora. Si x representa la cantidad de horas, ¿qué expresión representa el costo total?
+a) 500x + 300
+b) 800x
+c) 500 + 300x
+d) (500 + 300)x
 
-**Respuesta esperada:** **500 + 300x** (o 300x + 500).
-*Retroalimentación:* la tarifa fija (500) no depende de las horas y se suma una sola vez, mientras que el costo por hora (300) se multiplica por la cantidad de horas (x), ya que se repite por cada hora.
+**Respuesta correcta: c) 500 + 300x.**
+*Retroalimentación:* la tarifa fija (500) se suma una sola vez, mientras que el costo por hora (300) se multiplica por la cantidad de horas (x).
 
-**Pregunta 7 (problema en contexto — resolver la ecuación).** Usando la situación del estacionamiento anterior (costo = 500 + 300x), si una persona pagó $2.300 en total, ¿cuántas horas estacionó?
+**Pregunta 7 (alternativas — resolver la ecuación).** Con la situación del estacionamiento (costo = 500 + 300x), si una persona pagó $2.300, ¿cuántas horas estacionó?
+a) 6 horas
+b) 9 horas
+c) 7,7 horas
+d) 4 horas
 
-**Respuesta esperada:** 500 + 300x = 2.300; 300x = 1.800; x = **6 horas**.
-*Retroalimentación:* al resolver la ecuación, primero se aísla el término con la incógnita restando la tarifa fija en ambos lados, y luego se despeja x dividiendo por el coeficiente (300).
+**Respuesta correcta: a) 6 horas.**
+*Retroalimentación:* 500 + 300x = 2.300 → 300x = 1.800 → x = 6. Primero se resta la tarifa fija en ambos lados y luego se divide por 300; 7,7 resulta de olvidar restar la tarifa fija.
 
-**Pregunta 8 (problema no rutinario).** La suma de dos números consecutivos es 45. Si x representa el menor de los números, plantea la ecuación y encuentra ambos números.
+**Pregunta 8 (alternativas — problema no rutinario).** La suma de dos números consecutivos es 45. Si x es el menor, ¿qué ecuación se plantea y cuáles son los números?
+a) x + x = 45; 22,5 y 22,5
+b) x + (x + 1) = 45; 23 y 24
+c) 2x = 45 + 1; 23 y 24
+d) x + (x + 1) = 45; 22 y 23
 
-**Respuesta esperada:** ecuación: x + (x+1) = 45; 2x + 1 = 45; 2x = 44; x = **22**. El segundo número es 23. Los números son **22 y 23**.
-*Retroalimentación:* "números consecutivos" significa que uno sigue inmediatamente al otro, por lo que si el menor es x, el siguiente es x+1; esta relación permite plantear la ecuación con una sola incógnita.
+**Respuesta correcta: d) x + (x + 1) = 45; 22 y 23.**
+*Retroalimentación:* si el menor es x, el siguiente es x + 1: 2x + 1 = 45 → 2x = 44 → x = 22; los números son 22 y 23 (22 + 23 = 45 ✓).
 
 ---
 
@@ -382,9 +458,9 @@ Al graficar una proporción directa (como el precio de las manzanas), los puntos
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Si 3 entradas al cine cuestan $9.000, ¿cuánto cuestan 5 entradas (misma proporción)?
-a) $12.000
+a) $18.000
 b) $15.000
-c) $18.000
+c) $12.000
 d) $10.000
 
 **Respuesta correcta: b) $15.000.**
@@ -395,14 +471,19 @@ d) $10.000
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* al duplicar la cantidad de obreros (4→8), el tiempo se reduce a la mitad (12→6); el producto obreros×días se mantiene constante (4×12=48=8×6), lo que es característico de una proporción inversa.
 
-**Pregunta 3 (completar tabla — directa).** Completa la tabla si la relación entre litros de bencina y su costo es proporcional directa: 1 litro cuesta $980.
+**Pregunta 3 (alternativas — completar tabla — directa).** La relación entre litros de bencina y su costo es proporcional directa: 1 litro cuesta $980. ¿Qué valores completan la tabla para 2, 5 y 10 litros?
 
 | litros | 1 | 2 | 5 | 10 |
 |---|---|---|---|---|
 | $ | 980 | ? | ? | ? |
 
-**Respuesta esperada:** 2 litros: 1.960; 5 litros: 4.900; 10 litros: 9.800.
-*Retroalimentación:* en una proporción directa, cada valor de la segunda fila se obtiene multiplicando el valor correspondiente de la primera fila por la misma constante (980 en este caso).
+a) 1.960; 2.940; 4.900
+b) 1.960; 4.900; 9.800
+c) 982; 985; 990
+d) 490; 196; 98
+
+**Respuesta correcta: b) 1.960; 4.900; 9.800.**
+*Retroalimentación:* en una proporción directa cada valor se obtiene multiplicando los litros por la misma constante (980): 2·980, 5·980 y 10·980.
 
 **Pregunta 4 (identificar el tipo de proporción).** Un estanque de agua se llena en 10 horas si se usa 1 llave. ¿Qué tipo de proporción describe la relación entre la cantidad de llaves usadas (abiertas al mismo tiempo, con el mismo caudal) y el tiempo que demora en llenarse el estanque?
 a) Directa
@@ -413,25 +494,41 @@ d) Depende del estanque
 **Respuesta correcta: b) Inversa.**
 *Retroalimentación:* mientras más llaves se abran a la vez, menos tiempo demora en llenarse el estanque; ambas cantidades varían en sentido contrario, lo que caracteriza a una proporción inversa.
 
-**Pregunta 5 (desarrollo — proporción inversa).** Si 5 pintores pintan una casa completa en 8 días, ¿cuántos días demorarían 10 pintores trabajando al mismo ritmo?
+**Pregunta 5 (alternativas — proporción inversa).** Si 5 pintores pintan una casa en 8 días, ¿cuántos días demorarían 10 pintores trabajando al mismo ritmo?
+a) 16 días
+b) 13 días
+c) 8 días
+d) 4 días
 
-**Respuesta esperada:** el producto pintores×días es constante: 5×8=40. Con 10 pintores: 40÷10=**4 días**.
-*Retroalimentación:* en una proporción inversa, el producto de ambas cantidades siempre se mantiene constante; conociendo ese producto, se puede calcular cualquier valor faltante dividiendo por la cantidad conocida.
+**Respuesta correcta: d) 4 días.**
+*Retroalimentación:* el producto pintores × días es constante: 5 × 8 = 40; con 10 pintores, 40 ÷ 10 = 4 días. 16 días sería tratar la relación como directa.
 
-**Pregunta 6 (describir la gráfica).** Se grafican los puntos de la tabla del kilo de manzanas del Ejemplo 1 (1kg-$1.200, 2kg-$2.400, 3kg-$3.600, 4kg-$4.800) en un plano cartesiano. ¿Qué forma tendrá la gráfica resultante?
+**Pregunta 6 (alternativas — describir la gráfica).** Se grafican los puntos de la tabla del kilo de manzanas del Ejemplo 1 (1 kg-$1.200, 2 kg-$2.400, 3 kg-$3.600, 4 kg-$4.800). ¿Qué forma tendrá la gráfica?
+a) Una línea recta que pasa por el origen (0,0)
+b) Una curva que baja a medida que aumentan los kilos
+c) Una línea horizontal
+d) Puntos sin ningún patrón
 
-**Respuesta esperada:** los puntos formarán una **línea recta que pasa por el origen (0,0)**, característica de una proporción directa.
-*Retroalimentación:* cuando dos cantidades son directamente proporcionales, su gráfica siempre es una línea recta que parte desde el punto (0,0), porque si la cantidad es 0, el costo también es 0.
+**Respuesta correcta: a) Una línea recta que pasa por el origen (0,0).**
+*Retroalimentación:* cuando dos cantidades son directamente proporcionales, su gráfica es una recta que parte del origen: si la cantidad es 0, el costo también es 0.
 
-**Pregunta 7 (problema en contexto — directa).** Una receta para 4 personas usa 320 gramos de arroz. Si se quiere preparar la misma receta para 7 personas (manteniendo la proporción), ¿cuántos gramos de arroz se necesitan?
+**Pregunta 7 (alternativas — problema en contexto — directa).** Una receta para 4 personas usa 320 gramos de arroz. Manteniendo la proporción, ¿cuántos gramos se necesitan para 7 personas?
+a) 323 gramos
+b) 640 gramos
+c) 2.240 gramos
+d) 560 gramos
 
-**Respuesta esperada:** 320÷4=80 gramos por persona; para 7 personas: 80×7=**560 gramos**.
-*Retroalimentación:* al calcular primero la cantidad "por unidad" (por persona), se puede escalar la receta a cualquier cantidad de personas manteniendo la misma proporción.
+**Respuesta correcta: d) 560 gramos.**
+*Retroalimentación:* 320 ÷ 4 = 80 gramos por persona; para 7 personas, 80 × 7 = 560 gramos.
 
-**Pregunta 8 (problema no rutinario — comparar tipos).** Un vehículo recorre una distancia fija dependiendo de su velocidad: a mayor velocidad, menos tiempo demora en recorrerla. Por otro lado, el costo de la bencina usada depende de la cantidad de litros comprados: a más litros, más dinero se paga. Clasifica ambas relaciones (velocidad-tiempo, y litros-costo) como proporción directa o inversa, y justifica.
+**Pregunta 8 (alternativas — comparar tipos).** Para una distancia fija, a mayor velocidad menos tiempo se demora; y a más litros de bencina, más dinero se paga en la misma proporción. ¿Cómo se clasifican las relaciones velocidad-tiempo y litros-costo?
+a) Velocidad-tiempo: directa; litros-costo: inversa
+b) Velocidad-tiempo: inversa; litros-costo: directa
+c) Ambas son directas
+d) Ambas son inversas
 
-**Respuesta esperada:** velocidad-tiempo (para una distancia fija) es una proporción **inversa** (a mayor velocidad, menor tiempo). Litros-costo es una proporción **directa** (a más litros, más dinero, en la misma proporción).
-*Retroalimentación:* la clave para distinguir el tipo de proporción es observar si, al aumentar una cantidad, la otra también aumenta en la misma proporción (directa) o disminuye compensando el aumento (inversa, con producto constante).
+**Respuesta correcta: b) Velocidad-tiempo: inversa; litros-costo: directa.**
+*Retroalimentación:* si al aumentar una cantidad la otra disminuye compensándola (producto constante), la proporción es inversa; si ambas aumentan en la misma proporción, es directa.
 
 ---
 
@@ -466,10 +563,10 @@ A = π · r² = 3,14 × 20² = 3,14 × 400 = **1.256 m²**.
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Si el diámetro de un círculo es 14 cm, ¿cuál es su radio?
-a) 28 cm
+a) 3,5 cm
 b) 7 cm
 c) 14 cm
-d) 3,5 cm
+d) 28 cm
 
 **Respuesta correcta: b) 7 cm.**
 *Retroalimentación:* el radio es la mitad del diámetro: 14 ÷ 2 = 7 cm.
@@ -479,10 +576,14 @@ d) 3,5 cm
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* P = π × d = 3,14 × 8 = 25,12 cm.
 
-**Pregunta 3 (calcular perímetro).** Calcula el perímetro de un círculo cuyo radio mide 9 cm.
+**Pregunta 3 (alternativas — calcular perímetro).** Calcula el perímetro de un círculo cuyo radio mide 9 cm (π ≈ 3,14).
+a) 28,26 cm
+b) 254,34 cm
+c) 56,52 cm
+d) 18 cm
 
-**Respuesta esperada:** diámetro = 2×9=18 cm; P = 3,14 × 18 = **56,52 cm**.
-*Retroalimentación:* como la fórmula del perímetro usa el diámetro, primero hay que duplicar el radio para obtenerlo, y luego multiplicar por π (3,14).
+**Respuesta correcta: c) 56,52 cm.**
+*Retroalimentación:* el diámetro es 2 × 9 = 18 cm y P = 3,14 × 18 = 56,52 cm. 28,26 resulta de usar el radio en vez del diámetro y 254,34 cm² es el área.
 
 **Pregunta 4 (calcular área).** ¿Cuál es el área de un círculo de radio 10 cm?
 a) 31,4 cm²
@@ -493,25 +594,41 @@ d) 314 cm²
 **Respuesta correcta: d) 314 cm².**
 *Retroalimentación:* A = π × r² = 3,14 × 10² = 3,14 × 100 = 314 cm².
 
-**Pregunta 5 (problema en contexto — geografía).** La línea del ecuador terrestre tiene aproximadamente 12.756 km de diámetro. Estima su perímetro (la longitud del ecuador) usando π ≈ 3,14.
+**Pregunta 5 (alternativas — problema en contexto — geografía).** El ecuador terrestre tiene aproximadamente 12.756 km de diámetro. Usando π ≈ 3,14, ¿cuál es la estimación de su longitud?
+a) ≈ 40.053,84 km
+b) ≈ 20.026,92 km
+c) ≈ 80.107,68 km
+d) ≈ 4.062,42 km
 
-**Respuesta esperada:** P = 3,14 × 12.756 ≈ **40.053,84 km**.
-*Retroalimentación:* aunque la Tierra no es un círculo perfecto, se puede estimar la longitud del ecuador aplicando la fórmula del perímetro del círculo a su diámetro aproximado.
+**Respuesta correcta: a) ≈ 40.053,84 km.**
+*Retroalimentación:* P = 3,14 × 12.756 ≈ 40.053,84 km. Aunque la Tierra no es un círculo perfecto, la fórmula del perímetro permite estimar la longitud del ecuador.
 
-**Pregunta 6 (problema en contexto — área de cultivo).** Un agricultor tiene un cultivo circular de riego con 15 m de radio. Calcula el área que ocupa el cultivo.
+**Pregunta 6 (alternativas — problema en contexto — área de cultivo).** Un cultivo circular de riego tiene 15 m de radio. ¿Qué área ocupa? (π ≈ 3,14)
+a) 94,2 m²
+b) 47,1 m²
+c) 2.826 m²
+d) 706,5 m²
 
-**Respuesta esperada:** A = 3,14 × 15² = 3,14 × 225 = **706,5 m²**.
-*Retroalimentación:* para calcular el área, se eleva el radio al cuadrado (multiplicarlo por sí mismo) antes de multiplicar por π; es un error común multiplicar el radio por 2 en vez de elevarlo al cuadrado.
+**Respuesta correcta: d) 706,5 m².**
+*Retroalimentación:* A = 3,14 × 15² = 3,14 × 225 = 706,5 m². Es un error común multiplicar el radio por 2 (94,2) en vez de elevarlo al cuadrado.
 
-**Pregunta 7 (problema no rutinario — comparar).** Dos círculos, A y B, tienen radios de 4 cm y 8 cm respectivamente (el radio de B es el doble del de A). ¿El área de B es también el doble del área de A? Verifica con cálculos.
+**Pregunta 7 (alternativas — problema no rutinario — comparar).** Los círculos A y B tienen radios de 4 cm y 8 cm (el de B es el doble). ¿Qué relación hay entre sus áreas?
+a) El área de B es el doble del área de A
+b) El área de B es 4 veces el área de A
+c) Ambas áreas son iguales
+d) El área de B es 8 veces el área de A
 
-**Respuesta esperada:** área de A: 3,14×4²=3,14×16=50,24 cm². Área de B: 3,14×8²=3,14×64=200,96 cm². 200,96 no es el doble de 50,24 (sería 100,48), sino **el cuádruple**. **No**, el área de B no es el doble, es 4 veces el área de A.
-*Retroalimentación:* como el área depende del radio elevado al cuadrado, al duplicar el radio, el área se multiplica por 2²=4, no solo por 2. Esta es una diferencia importante entre perímetro (que sí se duplica) y área (que se cuadruplica).
+**Respuesta correcta: b) El área de B es 4 veces el área de A.**
+*Retroalimentación:* A: 3,14 × 16 = 50,24 cm²; B: 3,14 × 64 = 200,96 cm², el cuádruple. Como el área depende del radio al cuadrado, al duplicar el radio el área se multiplica por 2² = 4; el perímetro, en cambio, sí se duplica.
 
-**Pregunta 8 (estimación intuitiva).** Sin calcular con la fórmula exacta, estima si el perímetro de un círculo de radio 3 cm es mayor, menor o aproximadamente igual a 5 veces su radio. Luego verifica con la fórmula.
+**Pregunta 8 (alternativas — estimación intuitiva).** ¿Cómo es el perímetro de un círculo de radio 3 cm comparado con 5 veces su radio?
+a) Menor: el perímetro es 9,42 cm y 5 veces el radio es 15 cm
+b) Igual: ambos miden 15 cm
+c) Mayor: el perímetro es 18,84 cm y 5 veces el radio es 15 cm
+d) Mayor: el perímetro es 28,26 cm y 5 veces el radio es 15 cm
 
-**Respuesta esperada:** intuitivamente, el perímetro debería ser un poco más de 6 veces el radio (porque π≈3,14 y P=2πr≈6,28r). Verificación: P = 3,14×(2×3) = 3,14×6 = **18,84 cm**, y 5×3=15 cm, por lo tanto el perímetro **es mayor** a 5 veces el radio.
-*Retroalimentación:* una buena estimación intuitiva es recordar que el perímetro de un círculo es un poco más de 6 veces su radio (porque 2π ≈ 6,28), lo cual ayuda a detectar errores de cálculo.
+**Respuesta correcta: c) Mayor: el perímetro es 18,84 cm y 5 veces el radio es 15 cm.**
+*Retroalimentación:* el perímetro es un poco más de 6 veces el radio (2π ≈ 6,28): 3,14 × 6 = 18,84 cm > 15 cm. Recordar esto ayuda a detectar errores de cálculo.
 
 ---
 
@@ -560,30 +677,50 @@ d) (−3, −5)
 **Respuesta correcta: c) (3, −5).**
 *Retroalimentación:* "3 unidades a la derecha" corresponde a x=3 (positivo); "5 unidades hacia abajo" corresponde a y=−5 (negativo).
 
-**Pregunta 4 (desarrollo — cuadrante).** Determina en qué cuadrante se encuentra el punto C(7, −3), y explica cómo lo determinaste.
+**Pregunta 4 (alternativas — cuadrante).** ¿En qué cuadrante se encuentra el punto C(7, −3)?
+a) Cuadrante IV, porque x es positiva e y es negativa
+b) Cuadrante II, porque x es positiva e y es negativa
+c) Cuadrante III, porque tiene una coordenada negativa
+d) Cuadrante I, porque 7 es mayor que 3
 
-**Respuesta esperada:** se ubica en el **Cuadrante IV**, porque su coordenada x es positiva (7) y su coordenada y es negativa (−3).
-*Retroalimentación:* para determinar el cuadrante, basta con observar el signo de cada coordenada: (+,+) es Cuadrante I; (−,+) es Cuadrante II; (−,−) es Cuadrante III; (+,−) es Cuadrante IV.
+**Respuesta correcta: a) Cuadrante IV, porque x es positiva e y es negativa.**
+*Retroalimentación:* basta observar el signo de cada coordenada: (+,+) es I; (−,+) es II; (−,−) es III; (+,−) es IV.
 
-**Pregunta 5 (desarrollo — traslación).** Un punto P está en (2, −3). Se traslada 4 unidades hacia arriba y 6 unidades hacia la izquierda. ¿Cuáles son las nuevas coordenadas de P?
+**Pregunta 5 (alternativas — traslación).** El punto P(2, −3) se traslada 4 unidades hacia arriba y 6 unidades hacia la izquierda. ¿Cuáles son sus nuevas coordenadas?
+a) (8, 1)
+b) (−4, −7)
+c) (6, −9)
+d) (−4, 1)
 
-**Respuesta esperada:** nuevo x: 2−6=−4; nuevo y: −3+4=1. El nuevo punto es **(−4, 1)**.
-*Retroalimentación:* moverse hacia arriba suma a la coordenada y, y moverse hacia la izquierda resta a la coordenada x; cada movimiento afecta solo a la coordenada correspondiente.
+**Respuesta correcta: d) (−4, 1).**
+*Retroalimentación:* hacia arriba suma a y: −3 + 4 = 1; hacia la izquierda resta a x: 2 − 6 = −4. Cada movimiento afecta solo a su coordenada.
 
-**Pregunta 6 (identificar figura en varios cuadrantes).** Un rectángulo tiene vértices en (−3, 2), (2, 2), (2, −1) y (−3, −1). ¿En cuántos cuadrantes distintos tiene vértices este rectángulo (sin contar los que están sobre los ejes)?
+**Pregunta 6 (alternativas — figura en varios cuadrantes).** Un rectángulo tiene vértices en (−3, 2), (2, 2), (2, −1) y (−3, −1). ¿En cuántos cuadrantes distintos tiene vértices?
+a) En 2 cuadrantes
+b) En los 4 cuadrantes
+c) En 3 cuadrantes
+d) Solo en el cuadrante I
 
-**Respuesta esperada:** (−3,2) está en el Cuadrante II; (2,2) está en el Cuadrante I; (2,−1) está en el Cuadrante IV; (−3,−1) está en el Cuadrante III. Tiene un vértice en **cada uno de los 4 cuadrantes**.
-*Retroalimentación:* una figura puede "cruzar" varios cuadrantes si algunos de sus puntos tienen coordenadas positivas y otros negativas; conviene revisar el signo de cada par ordenado por separado.
+**Respuesta correcta: b) En los 4 cuadrantes.**
+*Retroalimentación:* (−3,2) está en II; (2,2) en I; (2,−1) en IV; (−3,−1) en III. Conviene revisar el signo de cada par ordenado por separado.
 
-**Pregunta 7 (problema en contexto — mapa de juego).** En un videojuego, el personaje empieza en el origen (0,0) y se mueve 8 unidades al este (derecha) y 5 unidades al sur (abajo). ¿En qué coordenadas queda ubicado?
+**Pregunta 7 (alternativas — mapa de juego).** En un videojuego, el personaje parte en (0,0) y se mueve 8 unidades al este (derecha) y 5 unidades al sur (abajo). ¿En qué coordenadas queda?
+a) (−8, 5)
+b) (5, −8)
+c) (8, −5)
+d) (8, 5)
 
-**Respuesta esperada:** **(8, −5)**.
-*Retroalimentación:* moverse hacia el este aumenta la coordenada x, y moverse hacia el sur disminuye la coordenada y (se vuelve negativa si se pasa del origen hacia abajo).
+**Respuesta correcta: c) (8, −5).**
+*Retroalimentación:* moverse al este aumenta x y moverse al sur disminuye y, que se vuelve negativa bajo el origen.
 
-**Pregunta 8 (problema no rutinario — figuras que se mantienen).** Un cuadrado tiene vértices en (1,1), (4,1), (4,4) y (1,4). Se traslada de modo que uno de sus vértices queda en (−2,−3). ¿Cambia el tamaño o la forma del cuadrado al trasladarlo? Explica.
+**Pregunta 8 (alternativas — figuras que se mantienen).** Un cuadrado con vértices en (1,1), (4,1), (4,4) y (1,4) se traslada de modo que uno de sus vértices queda en (−2,−3). ¿Qué ocurre con su tamaño y su forma?
+a) Se mantienen iguales; solo cambia su posición
+b) Se agranda, porque pasa a coordenadas negativas
+c) Se achica, porque se aleja del cuadrante I
+d) Cambia su forma a un rectángulo
 
-**Respuesta esperada:** **no**, el tamaño y la forma del cuadrado se mantienen exactamente iguales; solo cambia su posición (sus coordenadas), pero sigue siendo un cuadrado del mismo tamaño.
-*Retroalimentación:* al trasladar una figura en el plano cartesiano, todas sus coordenadas cambian de la misma manera (se suma o resta la misma cantidad a todas), por lo que la distancia entre los vértices —y por lo tanto la forma y el tamaño— no se altera.
+**Respuesta correcta: a) Se mantienen iguales; solo cambia su posición.**
+*Retroalimentación:* al trasladar una figura, todas sus coordenadas cambian en la misma cantidad, por lo que la distancia entre los vértices —y con ella la forma y el tamaño— no se altera.
 
 ---
 
@@ -632,9 +769,9 @@ Si quieres mostrar cómo se reparten porcentualmente las preferencias musicales 
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10. ¿Cuál es su frecuencia relativa?
-a) 10%
+a) 40%
 b) 25%
-c) 40%
+c) 10%
 d) 4%
 
 **Respuesta correcta: b) 25%.**
@@ -645,15 +782,23 @@ d) 4%
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* como la frecuencia relativa representa la proporción de cada valor respecto al total de datos, la suma de todas las proporciones debe completar el total, es decir, 1 (o 100%).
 
-**Pregunta 3 (calcular frecuencia).** En una encuesta a 25 personas sobre su medio de transporte preferido, 8 eligieron bus, 10 eligieron auto, 5 eligieron bicicleta y 2 eligieron caminar. Calcula la frecuencia relativa (en porcentaje) de quienes prefieren el auto.
+**Pregunta 3 (alternativas — calcular frecuencia).** En una encuesta a 25 personas sobre su transporte preferido, 8 eligieron bus, 10 auto, 5 bicicleta y 2 caminar. ¿Cuál es la frecuencia relativa porcentual de quienes prefieren el auto?
+a) 10%
+b) 25%
+c) 4%
+d) 40%
 
-**Respuesta esperada:** 10/25 = 0,4 = **40%**.
-*Retroalimentación:* se divide la frecuencia absoluta de la categoría (10) por el total de datos (25), y luego se expresa como porcentaje multiplicando por 100.
+**Respuesta correcta: d) 40%.**
+*Retroalimentación:* se divide la frecuencia absoluta (10) por el total (25): 10/25 = 0,4 = 40%.
 
-**Pregunta 4 (desarrollo — construir tabla).** Los siguientes son los resultados de lanzar un dado 15 veces: 3,5,2,6,3,1,4,3,5,2,6,3,4,1,3. Construye una tabla de frecuencias absolutas para cada número del 1 al 6.
+**Pregunta 4 (alternativas — construir tabla).** Resultados de lanzar un dado 15 veces: 3,5,2,6,3,1,4,3,5,2,6,3,4,1,3. ¿Qué tabla de frecuencias absolutas es correcta?
+a) 1→2; 2→2; 3→4; 4→2; 5→3; 6→2
+b) 1→2; 2→2; 3→5; 4→2; 5→2; 6→2
+c) 1→1; 2→2; 3→5; 4→2; 5→2; 6→3
+d) Todos los números aparecen 2 veces
 
-**Respuesta esperada:** 1→2; 2→2; 3→5; 4→2; 5→2; 6→2. (Total: 2+2+5+2+2+2=15 ✓)
-*Retroalimentación:* para construir la tabla, se cuenta cuántas veces aparece cada valor posible en los datos, y se verifica que la suma de todas las frecuencias absolutas sea igual al total de datos recolectados.
+**Respuesta correcta: b) 1→2; 2→2; 3→5; 4→2; 5→2; 6→2.**
+*Retroalimentación:* se cuenta cuántas veces aparece cada valor y se verifica que la suma sea el total de datos: 2+2+5+2+2+2 = 15 ✓.
 
 **Pregunta 5 (elegir el gráfico apropiado).** Un profesor quiere comparar las estaturas de los estudiantes de 7°A con las de 7°B, dato por dato, para ver si un curso tiende a tener estudiantes más altos que el otro. ¿Qué tipo de gráfico sería más apropiado?
 a) Gráfico circular
@@ -664,20 +809,32 @@ d) Ninguno de los anteriores
 **Respuesta correcta: b) Gráfico de tallo y hojas.**
 *Retroalimentación:* el gráfico de tallo y hojas es ideal para comparar dos muestras de datos numéricos similares (como estaturas), mostrando ambas distribuciones lado a lado sobre el mismo "tallo".
 
-**Pregunta 6 (leer un gráfico de tallo y hojas).** En el gráfico de tallo y hojas del Ejemplo 2, ¿cuántos tíos tienen entre 40 y 49 años?
+**Pregunta 6 (alternativas — leer un gráfico de tallo y hojas).** En el gráfico de tallo y hojas del Ejemplo 2, ¿cuántos tíos tienen entre 40 y 49 años?
+a) 4 tíos
+b) 1 tío
+c) 3 tíos
+d) 8 tíos
 
-**Respuesta esperada:** en el tallo "4" hay tres hojas del lado de los tíos (8, 2, 0), lo que corresponde a las edades 48, 42 y 40. Hay **3 tíos** entre 40 y 49 años.
-*Retroalimentación:* para leer un gráfico de tallo y hojas, cada hoja (unidad) se combina con su tallo (decena) correspondiente para reconstruir el dato completo; se cuenta cuántas hojas hay en la fila del tallo que interesa.
+**Respuesta correcta: c) 3 tíos.**
+*Retroalimentación:* en el tallo "4" hay tres hojas del lado de los tíos (8, 2, 0), es decir, las edades 48, 42 y 40.
 
-**Pregunta 7 (problema en contexto).** En una tienda se registraron las ventas diarias durante una semana: 12, 15, 12, 18, 20, 15, 12 (en unidades vendidas). Construye la tabla de frecuencia absoluta y relativa, e indica cuál fue el valor de ventas más frecuente.
+**Pregunta 7 (alternativas — problema en contexto).** Las ventas diarias de una semana fueron: 12, 15, 12, 18, 20, 15, 12 unidades. ¿Cuál fue el valor más frecuente y cuál es su frecuencia relativa?
+a) 12 unidades, con 3/7 ≈ 42,9%
+b) 15 unidades, con 2/7 ≈ 28,6%
+c) 20 unidades, con 1/7 ≈ 14,3%
+d) 12 unidades, con 3/12 = 25%
 
-**Respuesta esperada:** 12→3 (3/7≈42,9%); 15→2 (2/7≈28,6%); 18→1 (1/7≈14,3%); 20→1 (1/7≈14,3%). El valor más frecuente fue **12 unidades**, con 3 días.
-*Retroalimentación:* el valor con mayor frecuencia absoluta es el que se repite más veces en los datos; en este caso, "12" aparece 3 de los 7 días registrados.
+**Respuesta correcta: a) 12 unidades, con 3/7 ≈ 42,9%.**
+*Retroalimentación:* "12" aparece 3 de los 7 días registrados; su frecuencia relativa es 3/7 ≈ 42,9% (se divide por el total de días, no por el valor).
 
-**Pregunta 8 (problema no rutinario — comparar).** Un club deportivo registró la cantidad de goles anotados por dos equipos (A y B) durante 6 partidos, y quiere comunicar visualmente en qué partidos cada equipo anotó más goles que el otro. Justifica cuál gráfico sería más apropiado: gráfico circular o gráfico de barras dobles.
+**Pregunta 8 (alternativas — comparar gráficos).** Un club quiere mostrar, en 6 partidos, en cuáles cada equipo (A y B) anotó más goles que el otro. ¿Qué gráfico es más apropiado?
+a) Gráfico circular, porque muestra cómo se reparte el total de goles entre los dos equipos
+b) Gráfico de tallo y hojas, porque ordena los goles de menor a mayor en cada partido
+c) Ningún gráfico sirve para comparar: conviene solo una lista con los resultados
+d) Gráfico de barras dobles, porque compara partido a partido los goles de ambos equipos
 
-**Respuesta esperada:** el más apropiado es el **gráfico de barras dobles**, porque permite comparar, partido por partido, la cantidad de goles de ambos equipos uno al lado del otro.
-*Retroalimentación:* el gráfico circular sirve para mostrar cómo se reparte un total en porcentajes, pero no es apropiado para comparar dos series de datos numéricos categoría por categoría; para eso, el gráfico de barras dobles es la elección correcta.
+**Respuesta correcta: d) Gráfico de barras dobles, porque compara partido a partido los goles de ambos equipos.**
+*Retroalimentación:* el gráfico circular muestra cómo se reparte un total en porcentajes, pero no compara dos series categoría por categoría; para eso se usan barras dobles.
 
 ---
 
@@ -721,20 +878,32 @@ d) 8/1
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* frecuencia relativa = 9/60 = 0,15 = 15%.
 
-**Pregunta 3 (calcular probabilidad).** En una bolsa hay 5 bolitas amarillas y 15 bolitas moradas. ¿Cuál es la probabilidad de sacar una bolita amarilla, expresada como porcentaje?
+**Pregunta 3 (alternativas — calcular probabilidad).** En una bolsa hay 5 bolitas amarillas y 15 moradas. ¿Cuál es la probabilidad de sacar una amarilla, en porcentaje?
+a) 5%
+b) 25%
+c) 33%
+d) 75%
 
-**Respuesta esperada:** total de bolitas: 5+15=20. Probabilidad: 5/20 = 0,25 = **25%**.
-*Retroalimentación:* la probabilidad se calcula como la razón entre los casos favorables (bolitas amarillas) y el total de casos posibles (todas las bolitas).
+**Respuesta correcta: b) 25%.**
+*Retroalimentación:* casos favorables / casos posibles = 5/20 = 0,25 = 25%. 33% resulta de dividir 5 por 15 (las moradas) en vez de por el total.
 
-**Pregunta 4 (desarrollo — probabilidad experimental).** Un jugador de básquetbol lanzó 40 tiros libres y anotó 32. Estima, a partir de esta frecuencia relativa, la probabilidad de que anote su próximo tiro libre.
+**Pregunta 4 (alternativas — probabilidad experimental).** Un jugador de básquetbol lanzó 40 tiros libres y anotó 32. A partir de esta frecuencia relativa, ¿cuál es la probabilidad estimada de que anote el próximo?
+a) 32%
+b) 20%
+c) 80%
+d) 8%
 
-**Respuesta esperada:** 32/40 = 0,8 = **80%**.
-*Retroalimentación:* la frecuencia relativa observada en muchos intentos (32 de 40) se usa como una estimación de la probabilidad de éxito en un intento futuro, asumiendo que las condiciones se mantienen similares.
+**Respuesta correcta: c) 80%.**
+*Retroalimentación:* 32/40 = 0,8 = 80%. La frecuencia relativa observada en muchos intentos se usa como estimación de la probabilidad si las condiciones se mantienen.
 
-**Pregunta 5 (relacionar razón, fracción y porcentaje).** La probabilidad de un evento se expresa como la razón 3:20. Exprésala también como fracción y como porcentaje.
+**Pregunta 5 (alternativas — razón, fracción y porcentaje).** La probabilidad de un evento se expresa como la razón 3:20. ¿Cómo se expresa como fracción y como porcentaje?
+a) 3/20 y 15%
+b) 3/20 y 3%
+c) 20/3 y 15%
+d) 3/23 y 13%
 
-**Respuesta esperada:** como fracción: **3/20**. Como porcentaje: 3÷20=0,15=**15%**.
-*Retroalimentación:* la razón a:b se puede escribir directamente como la fracción a/b, y para obtener el porcentaje se divide el numerador por el denominador y se multiplica por 100.
+**Respuesta correcta: a) 3/20 y 15%.**
+*Retroalimentación:* la razón a:b se escribe como la fracción a/b; luego 3 ÷ 20 = 0,15 = 15%.
 
 **Pregunta 6 (problema en contexto — dado).** Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número par (2, 4 o 6)?
 a) 1/6
@@ -745,15 +914,23 @@ d) 2/3
 **Respuesta correcta: b) 1/2.**
 *Retroalimentación:* hay 3 números pares (2,4,6) de 6 resultados posibles: 3/6 = 1/2 = 50%.
 
-**Pregunta 7 (problema no rutinario — comparar teórica y experimental).** Una moneda "justa" debería tener probabilidad teórica de 50% de salir cara. Un estudiante la lanzó 200 veces y obtuvo 112 caras. Calcula la probabilidad experimental y compárala con la teórica. ¿Es razonable esta diferencia?
+**Pregunta 7 (alternativas — comparar teórica y experimental).** Una moneda justa tiene probabilidad teórica de 50% de salir cara. Al lanzarla 200 veces salieron 112 caras. ¿Qué conclusión es correcta?
+a) La probabilidad experimental es 112%, así que la moneda está trucada y conviene apostar siempre a cara
+b) La probabilidad experimental es 56%, lo que prueba que la moneda está trucada
+c) La probabilidad experimental debe ser exactamente 50%, así que hubo un error al contar las caras
+d) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar
 
-**Respuesta esperada:** probabilidad experimental: 112/200 = 0,56 = **56%**. Es un poco más alta que el 50% teórico, pero la diferencia (6 puntos porcentuales) es razonable para 200 lanzamientos y podría explicarse por el azar.
-*Retroalimentación:* la probabilidad experimental casi nunca coincide exactamente con la teórica, especialmente con una cantidad moderada de repeticiones; mientras más veces se repita el experimento, más se espera que la frecuencia relativa se acerque al valor teórico.
+**Respuesta correcta: d) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar.**
+*Retroalimentación:* 112/200 = 0,56 = 56%. La probabilidad experimental casi nunca coincide exactamente con la teórica; con más repeticiones se espera que se acerque al valor teórico.
 
-**Pregunta 8 (problema en contexto — encuesta como experimento).** En una encuesta a 80 estudiantes sobre su color favorito, 20 eligieron azul, 24 eligieron verde, 16 eligieron rojo y el resto eligió otros colores. Si se elige un estudiante al azar de esta muestra, ¿cuál es la probabilidad (en fracción simplificada) de que su color favorito sea verde?
+**Pregunta 8 (alternativas — encuesta como experimento).** En una encuesta a 80 estudiantes, 20 eligieron azul, 24 verde, 16 rojo y el resto otros colores. Si se elige un estudiante al azar, ¿cuál es la probabilidad (fracción simplificada) de que prefiera verde?
+a) 24/56
+b) 3/10
+c) 1/4
+d) 3/8
 
-**Respuesta esperada:** 24/80, que simplificado (dividiendo por 8) es **3/10**.
-*Retroalimentación:* al simplificar la fracción de la probabilidad, se obtiene una expresión más simple mostrando la misma proporción; siempre conviene revisar si la fracción resultante se puede reducir.
+**Respuesta correcta: b) 3/10.**
+*Retroalimentación:* 24/80, dividiendo por 8, es 3/10. Siempre conviene revisar si la fracción se puede simplificar; 1/4 corresponde al azul (20/80).
 
 ---
 

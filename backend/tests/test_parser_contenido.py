@@ -135,7 +135,8 @@ def test_guia_real_ciencias_3m_no_crea_una_pregunta_para_el_anio_1960():
     preguntas = [p for oa in parsear_guia(ruta.read_text(encoding="utf-8")) for p in oa.preguntas]
     assert len(preguntas) == 60
     assert all(p.respuesta_correcta for p in preguntas)
-    assert any("1960 (magnitud 9.5" in p.enunciado for p in preguntas)
+    assert any("Valdivia 1960 (9.5)" in p.enunciado for p in preguntas)
+    assert not any(p.enunciado.startswith("1960") for p in preguntas)
 
 
 TEXTO_INGLES = """

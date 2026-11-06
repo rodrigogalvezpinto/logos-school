@@ -66,6 +66,7 @@ completo por curso.
 | Modelo de registro y verificación | "Apoderado-primero": el apoderado crea la cuenta raíz y perfiles de alumno dentro de ella; sin flujo de vinculación posterior (ver `10-privacidad-y-datos-de-menores.md`) | 2026-08-12 |
 | Rol Administrador | Confirmado, opera como backoffice del propio equipo en el MVP (no autoservicio) | 2026-08-12 |
 | Rol Profesor + Curso/Sección | **Construido** (Etapa 2): auto-registro con aprobación manual del Administrador vía panel comercial; ver `01-roles-y-permisos.md` y `03-roadmap-etapas.md` | 2026-08-13 |
+| Formato de respuesta de todo el material | **Solo preguntas cerradas**: alternativas (una correcta), «varias correctas» (marca todas; corrección todo o nada) y verdadero/falso, en guías, pruebas y simulacros de los 12 cursos. Motivo: la app no corrige texto libre de forma confiable y las preguntas abiertas no contaban para la nota. Las 3.299 abiertas se respaldan en `docs/banco-preguntas-abiertas/` para reactivarlas cuando exista un corrector validado. Ver `12-motor-de-evaluacion.md` y auditoría maestra §15.23 | 2026-11-06 |
 
 ## Corrección importante sobre el proceso real de examinación (2026-08-11)
 

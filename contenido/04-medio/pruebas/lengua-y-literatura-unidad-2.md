@@ -43,24 +43,39 @@ Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo 
 ---
 
 1. *(Alternativas)* ¿Cuál es la intención explícita de la columna sobre el royalty minero?
-   a) Informar de manera neutral sobre la historia de la minería en Chile
+   a) Informar de manera neutral sobre la historia de la minería del cobre en Chile
    b) Argumentar que las empresas mineras deberían retribuir más a las regiones donde operan
-   c) Proponer la expulsión de todas las mineras del país
-   d) Explicar el funcionamiento técnico de un tranque de relave
+   c) Proponer la expulsión de todas las empresas mineras extranjeras del país
+   d) Explicar el funcionamiento técnico de un tranque de relave y sus riesgos
 
 2. *(Verdadero o Falso)* La frase final de la columna ("cualquiera que se oponga a esto... está eligiendo el bolsillo de un puñado de accionistas") invita abiertamente al lector a considerar los argumentos de quienes están en desacuerdo.
 
-3. *(Desarrollo breve)* Explica qué rol asume el enunciador de la columna frente a su audiencia, y qué recursos del texto sostienen esa identificación.
+3. *(Alternativas)* ¿Qué rol asume el enunciador de la columna frente a su audiencia, y qué recurso sostiene esa identificación?
+
+a) Defensor del interés regional y ambiental frente a un poder económico concentrado; no expone en igual medida los argumentos de las mineras y su cierre interpela la responsabilidad moral del lector
+b) Periodista neutral que presenta en igual medida las posturas de las regiones y de las empresas mineras, cita a ambas partes y deja que el lector decida sin interpelarlo en el cierre
+c) Vocero de las empresas mineras, que defiende sus utilidades frente a las regiones y descalifica a quienes proponen aumentar la tributación
+d) Científico que solo expone datos técnicos sobre la minería y el agua, sin tomar ninguna postura sobre la distribución de la riqueza
 
 4. *(Alternativas)* ¿Qué dato del texto es más fácilmente verificable por el lector?
-   a) Que "buena parte de las utilidades se gira a matrices en el extranjero"
-   b) Que la tributación efectiva de la gran minería bordea el 40%, según el Consejo Minero
+   a) Que la tributación efectiva de la gran minería bordea el 40%, según el Consejo Minero
+   b) Que "buena parte de las utilidades se gira a matrices en el extranjero"
    c) Que las mineras "regalan" el cobre de Chile
    d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas
 
-5. *(Aplicación)* Identifica la ideología o visión de fondo que sostiene los argumentos de la columna, y explica por qué reconocer esa ideología no implica automáticamente que el argumento sea falso.
+5. *(Alternativas)* ¿Qué visión de fondo sostiene la columna y qué implica reconocerla?
 
-6. *(Análisis integrado)* Evalúa la veracidad de dos afirmaciones de la columna: la cifra tributaria y el consumo de agua. ¿Qué información falta para contrastarlas? Distingue dato contrastable de dato verificado e identifica dos recursos persuasivos sin respaldo suficiente. No es obligatorio encontrar evidencia sólida si el texto no la ofrece.
+a) Prioriza la maximización de utilidades privadas de las mineras; reconocerla prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
+b) No tiene ninguna visión de fondo: es totalmente neutral, porque se limita a citar cifras de instituciones y no hay valores en juego que el lector deba reconocer
+c) Prioriza la redistribución hacia las regiones; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector solo acepta textos sin ninguna postura
+d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes
+
+6. *(Varias correctas)* Sobre la cifra tributaria y el consumo de agua que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
+
+a) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
+b) Para contrastarlas haría falta el informe, su fecha, el método de cálculo tributario y datos regionales de agua
+c) «Buena parte», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
+d) Basta con que el texto nombre una institución para considerar verificados los datos
 
 7. *(Alternativas)* ¿Qué rol NO asume el enunciador de la columna frente a su audiencia?
    a) Defensor del interés regional y ambiental
@@ -69,24 +84,39 @@ Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo 
    d) Voz crítica frente al argumento empresarial de que "ya aportan demasiado"
 
 8. *(Alternativas)* ¿Cuál es la principal diferencia de propósito entre la versión (a) —ensayo comparativo— y la versión (b) —guion de podcast— del ejercicio trabajado?
-   a) Ambas buscan exactamente lo mismo, solo cambia el idioma
+   a) Ambas buscan exactamente lo mismo, argumentar una comparación; solo cambia el idioma en que se presentan
    b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y oral
-   c) La versión (a) es oral y la versión (b) es escrita
-   d) La versión (b) no tiene ningún propósito comunicativo
+   c) La versión (a) es oral y busca despertar interés; la versión (b) es escrita y argumenta una comparación
+   d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen más corto de la versión (a)
 
 9. *(Verdadero o Falso)* La versión (b) del ejercicio, antes de ser corregida, mantiene correctamente el tema central en todas sus oraciones.
 
-10. *(Desarrollo breve)* Explica qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a).
+10. *(Alternativas)* ¿Qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a)?
 
-11. *(Aplicación)* Reescribe esta oración de la versión (b) sin corregir, agregando un conector adecuado para mejorar su cohesión: "Uno pasa en dictadura. La abuela vive en Maracaibo."
+a) Todos introducen ejemplos de cada texto, sin relación entre ellos
+b) "Por un lado" y "por otro lado" organizan la comparación de forma simétrica; "en consecuencia" marca la conclusión que se desprende de ella
+c) Todos expresan contraste entre el Texto A y el Texto B por igual
+d) "En consecuencia" introduce el primer texto; "por un lado", el segundo; y "por otro lado", la conclusión que se desprende de la comparación
+
+11. *(Alternativas)* ¿Qué reescritura mejora la cohesión de "Uno pasa en dictadura. La abuela vive en Maracaibo." mediante un conector adecuado?
+
+a) "Uno pasa en dictadura, porque el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+b) "Uno pasa en dictadura. Además. El otro cuenta la historia de un joven. La abuela vive en Maracaibo."
+c) "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+d) "Uno pasa en dictadura, por lo tanto el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
 
 12. *(Alternativas)* ¿Por qué la pregunta retórica "¿se imaginan guardar la llave de tu casa durante diecisiete años...?" no representa un error de adecuación en la versión (b) corregida?
-   a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto
+   a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto, aunque en un podcast se toleran por ser oral
    b) Porque en un guion de podcast dirigido a compañeros de curso, involucrar directamente al oyente es una convención de género válida y esperada
-   c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido
-   d) Porque los podcasts no tienen convenciones propias de género
+   c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido en un guion breve para compañeros
+   d) Porque los podcasts no tienen convenciones propias de género, así que cualquier recurso resulta igualmente adecuado
 
-13. *(Desarrollo breve)* Explica por qué adecuar un texto a una audiencia distinta (por ejemplo, de un ensayo comparativo a un guion de podcast) no significa necesariamente perder profundidad interpretativa.
+13. *(Alternativas)* ¿Por qué adecuar un texto a otra audiencia (de un ensayo comparativo a un guion de podcast) no significa necesariamente perder profundidad interpretativa?
+
+a) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad
+b) Porque el podcast siempre es más profundo que el ensayo, ya que llega a más oyentes y permite usar la voz para transmitir emociones
+c) Porque adecuar un texto consiste en copiar el mismo ensayo y leerlo en voz alta, sin cambiar su registro, su extensión ni sus recursos
+d) Sí significa perderla siempre: adaptar un ensayo a un podcast es simplificarlo, porque un formato oral no admite interpretaciones complejas
 
 14. *(Verdadero o Falso)* El proceso de escritura en 4° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior, porque ya se domina la escritura desde 3° medio.
 
@@ -98,13 +128,13 @@ Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo 
 
 2. **Falso.** Esa frase cumple una función implícita distinta: presenta solo dos opciones posibles (apoyar la columna o "elegir el bolsillo de los accionistas"), cerrando la discusión en vez de invitar a evaluar otros argumentos.
 
-3. **Respuesta esperada:** el enunciador asume el rol de defensor del interés regional y ambiental frente a un poder económico concentrado; esto se sostiene en que no presenta el tema de forma neutral, y en que el cierre del texto interpela directamente al lector apelando a su responsabilidad moral sobre "el futuro de Atacama y Antofagasta".
+3. a) Defensor del interés regional y ambiental frente a un poder económico concentrado; no expone en igual medida los argumentos de las mineras y su cierre interpela la responsabilidad moral del lector. Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
 
-4. **b.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
+4. **a.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
 
-5. **Respuesta esperada:** la columna se sostiene en una visión que prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones y comunidades locales, por sobre la maximización de utilidades privadas; reconocer esa ideología no invalida el argumento, porque un texto puede estar construido desde una posición de valores explícita y, al mismo tiempo, usar datos verificables y un razonamiento coherente.
+5. d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes. Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
 
-6. **Pauta manual:** Completo: distingue contrastabilidad de verificación y reconoce que la atribución ficticia no acredita el 40%; solicita informe, fecha y método para la tributación y datos regionales de consumo y disponibilidad de agua; identifica dos recursos como «buena parte» sin magnitud y el falso dilema final. Parcial: crítica pertinente pero incompleta en afirmaciones, fuentes o recursos. Insuficiente: acepta los datos por el solo prestigio institucional o no justifica. Se acepta concluir que no hay evidencia externa comprobada en el estímulo.
+6. a, b y c — Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
 
 7. **b.** El texto no busca exponer en igual medida los argumentos de las empresas mineras y los de quienes piden mayor retribución; adopta explícitamente una postura, lo que lo aleja del rol de fuente neutral.
 
@@ -112,12 +142,12 @@ Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo 
 
 9. **Falso.** La versión (b) sin corregir yuxtapone oraciones sin conectores que muestren su relación, y la mención de que "Antofagasta queda en el norte de Chile" interrumpe la progresión temática sobre la comparación entre ambos textos, sin aportar al argumento central.
 
-10. **Respuesta esperada:** "por un lado" y "por otro lado" organizan la comparación de forma simétrica, presentando primero el tratamiento del tema en un texto y luego en el otro, mientras que "en consecuencia" marca que la última oración es una conclusión que se desprende de la comparación anterior.
+10. b) "Por un lado" y "por otro lado" organizan la comparación de forma simétrica; "en consecuencia" marca la conclusión que se desprende de ella. En un texto comparativo, los conectores muestran al lector cuándo se habla de una obra, cuándo de la otra y cuándo se saca una conclusión conjunta.
 
-11. **Respuesta esperada:** cualquier reescritura que incorpore un conector adecuado y muestre la relación entre ambas ideas; por ejemplo: "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+11. c) "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo.". Mejorar la cohesión no requiere alargar el texto, sino elegir un conector que muestre con precisión la relación (aquí, de contraste) entre las ideas; causa o consecuencia serían relaciones falsas.
 
 12. **b.** Adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es una convención habitual y efectiva.
 
-13. **Respuesta esperada:** ambas versiones del ejercicio comunican la misma comparación interpretativa central —que el contexto de producción y la perspectiva adoptada explican efectos estéticos distintos frente a un mismo tema—, aunque lo hagan con distinto registro, extensión y recursos; lo que cambia es la forma de comunicar la interpretación, no necesariamente su profundidad.
+13. a) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad. Adecuar un texto a otra audiencia y género es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
 
 14. **Falso.** El proceso de escritura sigue considerando al menos tres etapas —planificar, escribir y revisar— sin importar el nivel de experiencia; saltarse la planificación o la revisión suele producir textos menos coherentes o poco adecuados a quien los va a leer, ver o escuchar.

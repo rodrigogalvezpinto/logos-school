@@ -7,13 +7,13 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 8
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 7 y OA 8)
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"3":"OA 7","8":"OA 8"}
 ---
 
 # Prueba de Unidad — Eje Geografía (2° Básico)
 
 **Tiempo sugerido:** 15-20 minutos
-**Instrucciones para el estudiante:** Lee cada pregunta con calma. Marca con una X la
-alternativa correcta o responde en el espacio indicado. Si no recuerdas algo, sigue adelante
+**Instrucciones para el estudiante:** Lee cada pregunta con calma. Marca con una X la alternativa correcta. Si no recuerdas algo, sigue adelante
 y vuelve después.
 
 ---
@@ -32,9 +32,14 @@ la frontera más larga.
 
 ---
 
-**3. (Análisis de mapa)** En un mapa de América del Sur se señalan tres países con letras: la
+**3. (Alternativas — análisis de mapa)** En un mapa de América del Sur se señalan tres países con letras: la
 letra A está justo al norte de Chile, la letra B está al noreste de Chile, y la letra C está
 al este de Chile, compartiendo la frontera más extensa. ¿Qué país corresponde a cada letra?
+
+a) A = Perú, B = Bolivia, C = Argentina
+b) A = Bolivia, B = Perú, C = Argentina
+c) A = Argentina, B = Bolivia, C = Perú
+d) A = Perú, B = Argentina, C = Bolivia
 
 ---
 
@@ -61,18 +66,30 @@ desiertos más secos del mundo.
 
 ---
 
-**7. (Análisis de imagen)** Se observa una fotografía con montañas nevadas a ambos lados de
+**7. (Alternativas — análisis de imagen)** Se observa una fotografía con montañas nevadas a ambos lados de
 un valle, un río que corre por el medio, y muchos viñedos plantados. ¿A qué zona de Chile
 corresponde probablemente este paisaje?
 
+a) A la zona norte, en el desierto
+b) A la zona austral, entre fiordos
+c) A Isla de Pascua
+d) A la zona centro de Chile
+
 ---
 
-**8. (Relacionar / emparejar)** Une cada palabra geográfica con su definición:
+**8. (Alternativas — unir)** Une cada palabra geográfica con su definición:
 
 1) Fiordo — 2) Archipiélago — 3) Volcán
 
-a) Montaña que puede expulsar lava — b) Entrada de mar rodeada de montañas — c) Conjunto de
-varias islas cercanas entre sí
+Definiciones: (A) Montaña que puede expulsar lava — (B) Entrada de mar rodeada de montañas —
+(C) Conjunto de varias islas cercanas entre sí
+
+¿Qué combinación es correcta?
+
+a) 1-C, 2-B, 3-A
+b) 1-A, 2-C, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
 ---
 
@@ -80,9 +97,9 @@ varias islas cercanas entre sí
 
 1. **b)** Perú
 2. Verdadero
-3. A = Perú, B = Bolivia, C = Argentina
+3. a) A = Perú, B = Bolivia, C = Argentina
 4. **c)** Océano Pacífico
 5. **b)** Lago
 6. Verdadero
-7. A la zona centro de Chile
-8. 1-b, 2-c, 3-a
+7. d) A la zona centro de Chile. Los valles fértiles con viñedos entre las dos cordilleras son típicos de la zona central.
+8. d) 1-B, 2-C, 3-A

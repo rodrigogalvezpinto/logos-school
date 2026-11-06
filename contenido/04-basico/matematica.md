@@ -83,28 +83,40 @@ d) Unidad de mil
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* en 3.084, los dígitos son 3 (unidad de mil), 0 (centena), 8 (decena) y 4 (unidad). El 8 está en la posición de las decenas, por lo tanto vale 80, es decir, 8 decenas.
 
-**Pregunta 3 (desarrollo).** Descompón en forma aditiva el número 9.207 según su valor posicional.
+**Pregunta 3 (alternativas).** ¿Cuál es la descomposición aditiva del número 9.207 según su valor posicional?
+a) 9.000 + 200 + 7
+b) 9.000 + 20 + 7
+c) 900 + 200 + 7
+d) 9 + 2 + 0 + 7
 
-**Respuesta esperada:** 9.207 = 9.000 + 200 + 0 + 7, es decir, 9.000 + 200 + 7.
-*Retroalimentación:* recuerda que si un dígito es 0 (en este caso las decenas), igual debes considerar su posición aunque no lo escribas en la suma, porque nos indica que no hay decenas en ese número.
+**Respuesta correcta: a) 9.000 + 200 + 7.**
+*Retroalimentación:* recuerda que si un dígito es 0 (en este caso las decenas), igual debes considerar su posición aunque no lo escribas en la suma: 9.207 = 9.000 + 200 + 0 + 7. Escribir 20 en vez de 200 confunde las centenas con las decenas.
 
 **Pregunta 4 (alternativas).** ¿Cuál de los siguientes números es mayor?
 a) 6.482
-b) 6.824
-c) 6.248
+b) 6.248
+c) 6.824
 d) 6.428
 
-**Respuesta correcta: b) 6.824.**
+**Respuesta correcta: c) 6.824.**
 *Retroalimentación:* todos parten con 6 unidades de mil, así que hay que comparar las centenas: 6.824 tiene 8 centenas, la mayor cantidad entre las cuatro opciones. Un error típico es comparar solo el primer dígito y quedarse ahí, sin seguir revisando las siguientes posiciones.
 
-**Pregunta 5 (problema de aplicación).** Matías tiene 3 billetes de $2.000 y 5 monedas de $100. ¿Cuánto dinero tiene en total?
+**Pregunta 5 (alternativas — problema de aplicación).** Matías tiene 3 billetes de $2.000 y 5 monedas de $100. ¿Cuánto dinero tiene en total?
+a) $2.100
+b) $6.050
+c) $6.500
+d) $8.500
 
-**Respuesta esperada:** 3 × $2.000 = $6.000; 5 × $100 = $500; $6.000 + $500 = **$6.500**.
-*Retroalimentación:* conviene calcular el valor de cada tipo de billete o moneda por separado antes de sumar los totales, así es más fácil no perderse.
+**Respuesta correcta: c) $6.500.**
+*Retroalimentación:* conviene calcular el valor de cada tipo de billete o moneda por separado antes de sumar: 3 × $2.000 = $6.000; 5 × $100 = $500; $6.000 + $500 = $6.500.
 
-**Pregunta 6 (desarrollo — conteo).** Completa la secuencia contando de 100 en 100: 2.400, 2.500, ___, ___, 2.800.
+**Pregunta 6 (alternativas — conteo).** ¿Qué números faltan en la secuencia que cuenta de 100 en 100: 2.400, 2.500, ___, ___, 2.800?
+a) 2.510 y 2.520
+b) 3.500 y 4.500
+c) 2.501 y 2.502
+d) 2.600 y 2.700
 
-**Respuesta esperada:** 2.600 y 2.700.
+**Respuesta correcta: d) 2.600 y 2.700.**
 *Retroalimentación:* al contar de 100 en 100 solo cambia el dígito de las centenas (y a veces las unidades de mil, si se pasa de 900 a 000); el resto de los dígitos se mantiene igual.
 
 ---
@@ -171,29 +183,41 @@ d) 695
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* estimar significa redondear los números a la centena más cercana antes de sumar, para tener una idea aproximada del resultado. 493 se acerca a 500 y 208 se acerca a 200, así que 700 es una buena estimación (el resultado exacto es 701).
 
-**Pregunta 3 (desarrollo).** Calcula 612 − 345 mostrando el procedimiento (algoritmo).
+**Pregunta 3 (alternativas).** ¿Cuál es el resultado de 612 − 345?
+a) 333
+b) 377
+c) 267
+d) 957
 
-**Respuesta esperada:** 612 − 345 = **267**. (Comprobación: 267 + 345 = 612 ✓)
-*Retroalimentación:* en las unidades, 2 − 5 no se puede, así que se pide prestada una decena (12 − 5 = 7); luego, en las decenas ya quedan 0 (porque se prestó), 0 − 4 tampoco se puede, se pide prestada una centena (10 − 4 = 6); en las centenas quedan 5, y 5 − 3 = 2.
+**Respuesta correcta: c) 267.**
+*Retroalimentación:* en las unidades, 2 − 5 no se puede, así que se pide prestada una decena (12 − 5 = 7); en las decenas quedan 0, se pide prestada una centena (10 − 4 = 6); en las centenas quedan 5, y 5 − 3 = 2. Comprobación: 267 + 345 = 612. Si restas siempre el dígito menor al mayor sin pedir prestado, obtienes 333, que es incorrecto.
 
-**Pregunta 4 (problema de aplicación).** En una feria escolar se vendieron 145 empanadas el sábado y 98 el domingo. ¿Cuántas empanadas se vendieron en total?
+**Pregunta 4 (alternativas — problema de aplicación).** En una feria escolar se vendieron 145 empanadas el sábado y 98 el domingo. ¿Cuántas empanadas se vendieron en total?
+a) 243
+b) 47
+c) 233
+d) 1.125
 
-**Respuesta esperada:** 145 + 98 = **243 empanadas**.
-*Retroalimentación:* puedes sumar directamente con el algoritmo, o usar una estrategia personal, como pensar 98 como "100 − 2": 145 + 100 = 245, y luego 245 − 2 = 243.
+**Respuesta correcta: a) 243.**
+*Retroalimentación:* puedes sumar con el algoritmo, o pensar 98 como "100 − 2": 145 + 100 = 245, y luego 245 − 2 = 243.
 
 **Pregunta 5 (reconocer la operación).** Pedro tenía $850 y gastó $320 en útiles escolares. ¿Qué operación permite saber cuánto dinero le queda?
 a) Adición
-b) Sustracción
-c) Multiplicación
+b) Multiplicación
+c) Sustracción
 d) División
 
-**Respuesta correcta: b) Sustracción.**
+**Respuesta correcta: c) Sustracción.**
 *Retroalimentación:* la palabra clave "le queda" después de gastar indica que hay que quitar una cantidad de otra, por lo tanto se resuelve con una resta: 850 − 320 = 530.
 
-**Pregunta 6 (problema con 4 sumandos).** Una biblioteca recibió donaciones de libros durante la semana: 45 el lunes, 60 el martes, 38 el miércoles y 52 el jueves. ¿Cuántos libros recibió en total?
+**Pregunta 6 (alternativas — problema con 4 sumandos).** Una biblioteca recibió donaciones de libros durante la semana: 45 el lunes, 60 el martes, 38 el miércoles y 52 el jueves. ¿Cuántos libros recibió en total?
+a) 143
+b) 185
+c) 195
+d) 205
 
-**Respuesta esperada:** 45 + 60 + 38 + 52 = **195 libros**.
-*Retroalimentación:* cuando hay más de dos sumandos, conviene ir sumando de a dos y acumulando el resultado: 45+60=105; 105+38=143; 143+52=195.
+**Respuesta correcta: c) 195.**
+*Retroalimentación:* cuando hay más de dos sumandos, conviene ir sumando de a dos y acumulando el resultado: 45+60=105; 105+38=143; 143+52=195. Si olvidas el último sumando, te queda 143.
 
 ---
 
@@ -233,11 +257,11 @@ Estima el resultado de 189 × 4, redondeando 189 a la centena más cercana.
 
 **Pregunta 1 (alternativas).** Calcula 214 × 3 = ?
 a) 632
-b) 642
+b) 643
 c) 624
-d) 643
+d) 642
 
-**Respuesta correcta: b) 642.**
+**Respuesta correcta: d) 642.**
 *Retroalimentación:* usando la propiedad distributiva: (200×3) + (10×3) + (4×3) = 600 + 30 + 12 = 642.
 
 **Pregunta 2 (verdadero o falso).** Usando la propiedad distributiva, 325 × 4 se puede calcular como (300×4) + (20×4) + (5×4).
@@ -245,10 +269,14 @@ d) 643
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* la propiedad distributiva permite descomponer 325 en 300 + 20 + 5, multiplicar cada parte por 4 por separado, y luego sumar los resultados: 1.200 + 80 + 20 = 1.300.
 
-**Pregunta 3 (desarrollo).** Resuelve 456 × 2 aplicando el algoritmo de la multiplicación.
+**Pregunta 3 (alternativas).** ¿Cuál es el resultado de 456 × 2?
+a) 812
+b) 458
+c) 912
+d) 902
 
-**Respuesta esperada:** **912**.
-*Retroalimentación:* multiplicando por partes: 6×2=12 (escribo 2, reservo 1); 5×2=10, +1 de reserva =11 (escribo 1, reservo 1); 4×2=8, +1 de reserva =9. Resultado: 912.
+**Respuesta correcta: c) 912.**
+*Retroalimentación:* multiplicando por partes: 6×2=12 (escribo 2, reservo 1); 5×2=10, +1 de reserva =11 (escribo 1, reservo 1); 4×2=8, +1 de reserva =9. Resultado: 912. Si olvidas las reservas, obtienes 802 u 812.
 
 **Pregunta 4 (reconocer la operación).** En un estadio hay 8 galerías y cada una tiene 145 asientos. ¿Qué operación permite saber cuántos asientos hay en total?
 a) Suma
@@ -259,9 +287,13 @@ d) División
 **Respuesta correcta: c) Multiplicación.**
 *Retroalimentación:* cuando hay grupos iguales que se repiten (8 galerías con la misma cantidad de asientos cada una), la forma más eficiente de calcular el total es multiplicar: 145 × 8 = 1.160 asientos.
 
-**Pregunta 5 (problema de aplicación).** Una imprenta produce 216 cuadernos por día. ¿Cuántos cuadernos produce en 3 días?
+**Pregunta 5 (alternativas — problema de aplicación).** Una imprenta produce 216 cuadernos por día. ¿Cuántos cuadernos produce en 3 días?
+a) 219
+b) 638
+c) 648
+d) 618
 
-**Respuesta esperada:** 216 × 3 = **648 cuadernos**.
+**Respuesta correcta: c) 648.**
 *Retroalimentación:* puedes descomponer 216 en 200 + 10 + 6, multiplicar cada parte por 3 (600 + 30 + 18) y sumar: 648.
 
 **Pregunta 6 (estimación).** Estima el resultado de 189 × 4 redondeando 189 a la centena más cercana. ¿Cuál es la mejor estimación?
@@ -322,10 +354,14 @@ d) 24
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* la división y la multiplicación son operaciones inversas: si 9 × 7 = 63, entonces 63 ÷ 7 = 9 y 63 ÷ 9 = 7.
 
-**Pregunta 3 (desarrollo).** Calcula 91 ÷ 7 usando la estrategia de descomposición del dividendo.
+**Pregunta 3 (alternativas).** Usando la descomposición del dividendo, ¿cuál es el resultado de 91 ÷ 7?
+a) 13
+b) 12
+c) 84
+d) 17
 
-**Respuesta esperada:** 91 = 70 + 21; 70÷7=10 y 21÷7=3; 10+3 = **13**.
-*Retroalimentación:* comprobación: 13 × 7 = 91. ✓ Elegir partes del dividendo que sean fáciles de dividir (como decenas completas) hace el cálculo mucho más simple.
+**Respuesta correcta: a) 13.**
+*Retroalimentación:* 91 = 70 + 21; 70÷7=10 y 21÷7=3; 10+3 = 13. Comprobación: 13 × 7 = 91. Elegir partes del dividendo que sean fáciles de dividir (como decenas completas) hace el cálculo mucho más simple.
 
 **Pregunta 4 (reconocer la operación).** Se repartieron 48 lápices en partes iguales entre 6 estudiantes. ¿Qué operación permite saber cuántos lápices recibió cada uno?
 a) Suma
@@ -336,10 +372,14 @@ d) División
 **Respuesta correcta: d) División.**
 *Retroalimentación:* "repartir en partes iguales" es la frase clave que indica una división: 48 ÷ 6 = 8 lápices para cada estudiante.
 
-**Pregunta 5 (problema de aplicación).** Una profesora tiene 78 stickers y los reparte en partes iguales entre 6 estudiantes. ¿Cuántos stickers recibe cada uno?
+**Pregunta 5 (alternativas — problema de aplicación).** Una profesora tiene 78 stickers y los reparte en partes iguales entre 6 estudiantes. ¿Cuántos stickers recibe cada uno?
+a) 12
+b) 72
+c) 84
+d) 13
 
-**Respuesta esperada:** 78 ÷ 6 = **13 stickers**.
-*Retroalimentación:* puedes descomponer 78 en 60 + 18: 60÷6=10 y 18÷6=3; 10+3=13.
+**Respuesta correcta: d) 13.**
+*Retroalimentación:* puedes descomponer 78 en 60 + 18: 60÷6=10 y 18÷6=3; 10+3=13. Comprobación: 13 × 6 = 78.
 
 **Pregunta 6 (estimación).** Estima el cociente de 79 ÷ 4, redondeando el dividendo a 80.
 a) 18
@@ -383,31 +423,39 @@ Un helado cuesta $650. Si Diego compra 4 helados para su familia, ¿cuánto paga
 
 **Pregunta 1 (alternativas).** Camila compró un cuaderno de $1.200 y un lápiz de $350. ¿Cuánto gastó en total?
 a) $1.450
-b) $1.550
-c) $1.650
-d) $1.500
+b) $1.500
+c) $1.550
+d) $1.650
 
-**Respuesta correcta: b) $1.550.**
+**Respuesta correcta: c) $1.550.**
 *Retroalimentación:* 1.200 + 350 = 1.550. Si te dio 1.500, probablemente redondeaste el 350 a 300 sin querer al sumar mentalmente.
 
 **Pregunta 2 (reconocer la operación).** Diego tenía $3.000 y gastó $1.250 en un jugo y una colación. ¿Qué operación permite saber cuánto dinero le queda?
 a) Adición
-b) Sustracción
+b) División
 c) Multiplicación
-d) División
+d) Sustracción
 
-**Respuesta correcta: b) Sustracción.**
+**Respuesta correcta: d) Sustracción.**
 *Retroalimentación:* "le queda" después de gastar dinero siempre indica una resta: 3.000 − 1.250 = 1.750.
 
-**Pregunta 3 (cálculo).** Un boleto de micro cuesta $260. ¿Cuánto pagarán en total 3 amigos que viajan juntos?
+**Pregunta 3 (alternativas — cálculo).** Un boleto de micro cuesta $260. ¿Cuánto pagarán en total 3 amigos que viajan juntos?
+a) $263
+b) $680
+c) $780
+d) $520
 
-**Respuesta esperada:** 260 × 3 = **$780**.
-*Retroalimentación:* como los 3 boletos cuestan lo mismo, es un caso de grupos iguales, por lo tanto se resuelve multiplicando.
+**Respuesta correcta: c) $780.**
+*Retroalimentación:* como los 3 boletos cuestan lo mismo, es un caso de grupos iguales, por lo tanto se resuelve multiplicando: 260 × 3 = $780.
 
-**Pregunta 4 (problema no rutinario).** Valentina quiere comprar una pelota de $4.500. Ya ahorró $1.800 vendiendo dulces, y su papá le va a dar $1.200 más. ¿Cuánto dinero le falta todavía para completar los $4.500?
+**Pregunta 4 (alternativas — problema no rutinario).** Valentina quiere comprar una pelota de $4.500. Ya ahorró $1.800 vendiendo dulces, y su papá le va a dar $1.200 más. ¿Cuánto dinero le falta todavía?
+a) $1.500
+b) $2.700
+c) $3.000
+d) $7.500
 
-**Respuesta esperada:** 1.800 + 1.200 = 3.000 (lo que tendrá); 4.500 − 3.000 = **$1.500 le faltan**.
-*Retroalimentación:* este problema tiene dos pasos: primero hay que sumar el dinero que tendrá en total, y luego restar esa cantidad al precio de la pelota. Los problemas no rutinarios muchas veces requieren más de una operación.
+**Respuesta correcta: a) $1.500.**
+*Retroalimentación:* este problema tiene dos pasos: primero se suma el dinero que tendrá (1.800 + 1.200 = 3.000) y luego se resta del precio (4.500 − 3.000 = 1.500). $3.000 es lo que tendrá, no lo que le falta; $2.700 sale de olvidar el aporte del papá.
 
 **Pregunta 5 (verdadero o falso).** Si compras 5 completos a $1.000 cada uno y pagas con un billete de $10.000, el vuelto es $5.000.
 
@@ -469,15 +517,23 @@ d) 6/8
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* el denominador (el número de abajo) siempre representa el total de partes iguales en que se dividió el entero; el numerador (el número de arriba) indica cuántas de esas partes se están considerando.
 
-**Pregunta 3 (desarrollo).** Ordena de menor a mayor las siguientes fracciones, considerando que todas se refieren al mismo entero: 1/2, 1/8, 1/4.
+**Pregunta 3 (alternativas).** ¿Cuál es el orden de menor a mayor de las fracciones 1/2, 1/8 y 1/4, si todas se refieren al mismo entero?
+a) 1/8 < 1/4 < 1/2
+b) 1/2 < 1/4 < 1/8
+c) 1/4 < 1/8 < 1/2
+d) 1/8 < 1/2 < 1/4
 
-**Respuesta esperada:** 1/8 < 1/4 < 1/2.
+**Respuesta correcta: a) 1/8 < 1/4 < 1/2.**
 *Retroalimentación:* cuando el numerador es 1 en todas las fracciones, mientras más grande es el denominador, más pequeña es la parte (porque el entero se dividió en más partes). Por eso 1/8 es la más pequeña y 1/2 es la más grande.
 
-**Pregunta 4 (aplicación — situación cotidiana).** En un curso de 10 estudiantes, 3 tienen una mascota gato. ¿Qué fracción de los estudiantes del curso tiene gato?
+**Pregunta 4 (alternativas — situación cotidiana).** En un curso de 10 estudiantes, 3 tienen una mascota gato. ¿Qué fracción de los estudiantes del curso tiene gato?
+a) 10/3
+b) 3/7
+c) 7/10
+d) 3/10
 
-**Respuesta esperada:** **3/10**.
-*Retroalimentación:* el total de estudiantes del curso (10) es el denominador, y la cantidad de estudiantes con gato (3) es el numerador.
+**Respuesta correcta: d) 3/10.**
+*Retroalimentación:* el total de estudiantes del curso (10) es el denominador, y la cantidad de estudiantes con gato (3) es el numerador. 7/10 son los que no tienen gato.
 
 **Pregunta 5 (alternativas).** ¿Cuál fracción es mayor, si ambas se refieren al mismo entero?
 a) 1/3
@@ -489,12 +545,12 @@ d) No se puede saber
 *Retroalimentación:* dividir un entero en 3 partes produce partes más grandes que dividirlo en 6 partes, por lo tanto 1/3 > 1/6.
 
 **Pregunta 6 (alternativas — recta numérica).** ¿Qué fracción corresponde al punto medio entre 0 y 1 en la recta numérica?
-a) 1/4
-b) 1/2
+a) 1/2
+b) 1/4
 c) 1/3
 d) 2/3
 
-**Respuesta correcta: b) 1/2.**
+**Respuesta correcta: a) 1/2.**
 *Retroalimentación:* el punto medio entre 0 y 1 divide ese tramo en dos partes iguales, por eso corresponde exactamente a 1/2.
 
 ---
@@ -541,15 +597,23 @@ d) 12/10
 **Respuesta correcta: Falso.**
 *Retroalimentación:* es al revés: se suman los numeradores (2+1=3) y se mantiene el denominador (5), porque el denominador indica el tamaño de las partes, que no cambia. La respuesta correcta es 3/5.
 
-**Pregunta 3 (desarrollo).** Calcula 7/8 − 3/8 mostrando tu procedimiento.
+**Pregunta 3 (alternativas).** ¿Cuál es el resultado de 7/8 − 3/8?
+a) 4/0
+b) 4/8
+c) 10/8
+d) 4/16
 
-**Respuesta esperada:** 7/8 − 3/8 = **4/8**.
-*Retroalimentación:* se restan los numeradores (7−3=4) y se mantiene el denominador (8), ya que ambas fracciones tienen partes del mismo tamaño.
+**Respuesta correcta: b) 4/8.**
+*Retroalimentación:* se restan los numeradores (7−3=4) y se mantiene el denominador (8), ya que ambas fracciones tienen partes del mismo tamaño. Restar también los denominadores (4/0) es un error frecuente.
 
-**Pregunta 4 (problema de aplicación).** Agustín pintó 2/6 de una pared el sábado y 3/6 el domingo. ¿Qué fracción de la pared lleva pintada en total?
+**Pregunta 4 (alternativas — problema de aplicación).** Agustín pintó 2/6 de una pared el sábado y 3/6 el domingo. ¿Qué fracción de la pared lleva pintada en total?
+a) 5/12
+b) 1/6
+c) 5/6
+d) 6/6
 
-**Respuesta esperada:** 2/6 + 3/6 = **5/6** de la pared.
-*Retroalimentación:* como ambos días trabajó sobre la misma pared (dividida en 6 partes iguales), se pueden sumar directamente las fracciones de cada día.
+**Respuesta correcta: c) 5/6.**
+*Retroalimentación:* como ambos días trabajó sobre la misma pared (dividida en 6 partes iguales), se suman los numeradores y se mantiene el denominador: 2/6 + 3/6 = 5/6. Sumar los denominadores (5/12) es un error.
 
 **Pregunta 5 (identificar la expresión numérica).** De una cinta de género se usaron 3/12 para un disfraz y luego 4/12 para otro disfraz. ¿Cuál expresión numérica resuelve cuánta cinta se ha usado en total?
 a) 3/12 + 4/12
@@ -560,10 +624,14 @@ d) 4/12 − 3/12
 **Respuesta correcta: a) 3/12 + 4/12.**
 *Retroalimentación:* como se quiere saber el total usado entre las dos veces, hay que sumar las dos fracciones: 3/12 + 4/12 = 7/12.
 
-**Pregunta 6 (problema de aplicación).** Un bidón contenía 9/10 de aceite. Después de cocinar, quedan 4/10. ¿Qué fracción de aceite se usó?
+**Pregunta 6 (alternativas — problema de aplicación).** Un bidón contenía 9/10 de aceite. Después de cocinar, quedan 4/10. ¿Qué fracción de aceite se usó?
+a) 5/10
+b) 13/10
+c) 4/10
+d) 5/0
 
-**Respuesta esperada:** 9/10 − 4/10 = **5/10** de aceite se usó.
-*Retroalimentación:* la cantidad usada es la diferencia entre lo que había al principio y lo que queda, por eso se resuelve con una resta de fracciones de igual denominador.
+**Respuesta correcta: a) 5/10.**
+*Retroalimentación:* la cantidad usada es la diferencia entre lo que había al principio y lo que queda: 9/10 − 4/10 = 5/10.
 
 ---
 
@@ -608,20 +676,28 @@ d) Restar 5
 **Respuesta correcta: b) Sumar 5.**
 *Retroalimentación:* la diferencia entre cada número y el anterior es siempre 5 (10−5=5, 15−10=5, 20−15=5), por lo tanto la regla es "sumar 5".
 
-**Pregunta 2 (desarrollo).** Completa la tabla según el patrón "multiplicar por 4": 1 → 4, 2 → 8, 3 → ___, 4 → ___.
+**Pregunta 2 (alternativas).** Según el patrón "multiplicar por 4" (1 → 4, 2 → 8), ¿qué valores corresponden a 3 y a 4?
+a) 3 → 7, 4 → 8
+b) 3 → 10, 4 → 12
+c) 3 → 12, 4 → 20
+d) 3 → 12, 4 → 16
 
-**Respuesta esperada:** 3 → 12, 4 → 16.
-*Retroalimentación:* si la regla es multiplicar la entrada por 4, entonces 3×4=12 y 4×4=16.
+**Respuesta correcta: d) 3 → 12, 4 → 16.**
+*Retroalimentación:* si la regla es multiplicar la entrada por 4, entonces 3×4=12 y 4×4=16. Sumar 4 (3 → 7) es otra regla distinta.
 
 **Pregunta 3 (verdadero o falso).** En la secuencia 2, 6, 10, 14, 18, el patrón es "sumar 4".
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* al restar cada número con el anterior, siempre se obtiene 4 (6−2=4, 10−6=4, 14−10=4, 18−14=4), lo que confirma que la regla es sumar 4.
 
-**Pregunta 4 (detectar y corregir un error).** La secuencia 3, 6, 9, 13, 15 tiene un error. ¿Cuál número está incorrecto y cuál debería ser?
+**Pregunta 4 (alternativas — detectar y corregir un error).** La secuencia 3, 6, 9, 13, 15 tiene un error. ¿Cuál número está incorrecto y cuál debería ser?
+a) El 15; debería ser 16
+b) El 13; debería ser 12
+c) El 9; debería ser 10
+d) El 6; debería ser 7
 
-**Respuesta esperada:** el patrón es "sumar 3" (3, 6, 9, 12, 15). El número incorrecto es 13; debería ser **12**.
-*Retroalimentación:* para encontrar el error, primero identifica la regla usando los números que sí calzan (3→6→9, sumando 3 cada vez), y luego revisa cuál número rompe esa regla.
+**Respuesta correcta: b) El 13; debería ser 12.**
+*Retroalimentación:* para encontrar el error, primero identifica la regla usando los números que sí calzan (3→6→9, sumando 3 cada vez), y luego revisa cuál número rompe esa regla: 9 + 3 = 12, y 12 + 3 = 15.
 
 **Pregunta 5 (alternativas — tabla de dos columnas).** En la siguiente tabla, ¿cuál es la regla que relaciona la cantidad de cajas con la cantidad de manzanas?
 
@@ -637,10 +713,14 @@ d) Restar 6
 **Respuesta correcta: b) Multiplicar por 6.**
 *Retroalimentación:* cada caja tiene 6 manzanas, por eso la cantidad de manzanas siempre es 6 veces la cantidad de cajas (1×6=6, 2×6=12, 3×6=18, 4×6=24).
 
-**Pregunta 6 (elemento faltante).** Usando la tabla de la pregunta anterior, ¿cuántas manzanas habrá en 5 cajas?
+**Pregunta 6 (alternativas — elemento faltante).** Usando la tabla de la pregunta anterior (1 caja → 6 manzanas, 2 cajas → 12 manzanas…), ¿cuántas manzanas habrá en 5 cajas?
+a) 11
+b) 25
+c) 30
+d) 36
 
-**Respuesta esperada:** 5 × 6 = **30 manzanas**.
-*Retroalimentación:* una vez que descubres la regla de una tabla, puedes usarla para predecir valores que no aparecen directamente en ella.
+**Respuesta correcta: c) 30.**
+*Retroalimentación:* la regla es "multiplicar por 6": 5 × 6 = 30 manzanas. Una vez que descubres la regla de una tabla, puedes usarla para predecir valores que no aparecen directamente en ella.
 
 ---
 
@@ -686,15 +766,23 @@ d) 7
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* para despejar x, se hace la operación inversa a la resta: x = 11 + 9 = 20. Comprobación: 20 − 9 = 11 ✓
 
-**Pregunta 3 (desarrollo).** Resuelve y comprueba: x + 15 = 32.
+**Pregunta 3 (alternativas).** ¿Cuál es el valor de x en la ecuación x + 15 = 32?
+a) 17
+b) 47
+c) 15
+d) 27
 
-**Respuesta esperada:** x = 32 − 15 = **17**. Comprobación: 17 + 15 = 32 ✓
-*Retroalimentación:* siempre conviene comprobar el resultado reemplazando el valor de x en la ecuación original, para asegurarte de que la igualdad se cumple.
+**Respuesta correcta: a) 17.**
+*Retroalimentación:* x = 32 − 15 = 17. Comprobación: 17 + 15 = 32. Siempre conviene comprobar el resultado reemplazando el valor de x en la ecuación original. 47 sale de sumar en vez de restar.
 
-**Pregunta 4 (modelar con balanza).** En una balanza equilibrada hay una caja de valor desconocido (x) y una pesa de 3 kg de un lado, y una pesa de 10 kg del otro lado. ¿Qué ecuación representa esta balanza, y cuál es el valor de x?
+**Pregunta 4 (alternativas — modelar con balanza).** En una balanza equilibrada hay una caja de valor desconocido (x) y una pesa de 3 kg de un lado, y una pesa de 10 kg del otro lado. ¿Qué ecuación representa esta balanza, y cuál es el valor de x?
+a) x + 10 = 3; x = 7
+b) x − 3 = 10; x = 13
+c) x + 3 = 10; x = 13
+d) x + 3 = 10; x = 7
 
-**Respuesta esperada:** la ecuación es x + 3 = 10; x = 10 − 3 = **7**.
-*Retroalimentación:* cada lado de una balanza equilibrada representa un lado de la ecuación (con el signo =), y para encontrar el valor desconocido usamos la operación inversa a la que aparece junto a la x.
+**Respuesta correcta: d) x + 3 = 10; x = 7.**
+*Retroalimentación:* cada lado de una balanza equilibrada representa un lado de la ecuación (con el signo =), y para encontrar el valor desconocido usamos la operación inversa a la que aparece junto a la x: 10 − 3 = 7.
 
 **Pregunta 5 (inecuación).** ¿Cuál de los siguientes valores de x cumple la inecuación x + 5 < 12?
 a) 6
@@ -705,10 +793,14 @@ d) 9
 **Respuesta correcta: a) 6.**
 *Retroalimentación:* probando cada opción: 6+5=11 (menor que 12, cumple); 7+5=12 (no es menor que 12, no cumple); 8+5=13 y 9+5=14 (tampoco cumplen). Solo x=6 hace que la desigualdad sea verdadera.
 
-**Pregunta 6 (problema de aplicación).** Camila tenía cierta cantidad de dinero. Después de gastar $25 en una colación, le quedaron $60. ¿Cuánto dinero tenía al principio?
+**Pregunta 6 (alternativas — problema de aplicación).** Camila tenía cierta cantidad de dinero. Después de gastar $25 en una colación, le quedaron $60. ¿Cuánto dinero tenía al principio?
+a) $35
+b) $85
+c) $60
+d) $25
 
-**Respuesta esperada:** la ecuación es x − 25 = 60; x = 60 + 25 = **$85**.
-*Retroalimentación:* el problema describe una resta ("gastó" implica que algo disminuyó), así que se modela como x − 25 = 60, y para encontrar x se usa la suma, que es la operación inversa.
+**Respuesta correcta: b) $85.**
+*Retroalimentación:* el problema se modela como x − 25 = 60, y para encontrar x se usa la suma, que es la operación inversa: x = 60 + 25 = $85. Si restas 60 − 25 = 35, encuentras otra cantidad que no responde la pregunta.
 
 ---
 
@@ -757,21 +849,29 @@ d) Infinitas
 **Respuesta correcta: Falso.**
 *Retroalimentación:* no existe ninguna línea que divida la letra "P" en dos mitades que sean reflejo exacto una de la otra, por lo tanto no es una figura simétrica.
 
-**Pregunta 4 (desarrollo — respuesta abierta).** Da un ejemplo de un objeto de la naturaleza que presente simetría, y explica brevemente por qué.
+**Pregunta 4 (varias correctas — simetría).** ¿Cuáles de estos objetos de la naturaleza presentan simetría? Marca **todas** las correctas.
+a) Una mariposa
+b) Una hoja de árbol
+c) Una piedra quebrada al azar
+d) Un copo de nieve
 
-**Respuesta esperada (ejemplo):** una hoja de árbol, una mariposa o un copo de nieve. Por ejemplo, una hoja tiene simetría porque el lado izquierdo de la nervadura central es igual (como reflejo) al lado derecho.
-*Retroalimentación:* lo importante es que identifiques una línea imaginaria que divida el objeto en dos partes que sean reflejo una de la otra.
+**Respuesta correcta: a, b y d.**
+*Retroalimentación:* lo importante es identificar una línea imaginaria que divida el objeto en dos partes que sean reflejo una de la otra. Por ejemplo, en una hoja, el lado izquierdo de la nervadura central es igual (como reflejo) al lado derecho. Una piedra quebrada al azar no tiene esa línea.
 
-**Pregunta 5 (desarrollo).** ¿Cuántas líneas de simetría tiene un triángulo equilátero (con sus 3 lados iguales)?
+**Pregunta 5 (alternativas).** ¿Cuántas líneas de simetría tiene un triángulo equilátero (con sus 3 lados iguales)?
+a) 0
+b) 1
+c) 3
+d) 6
 
-**Respuesta esperada:** **3 líneas de simetría** (una desde cada vértice hasta el punto medio del lado opuesto).
-*Retroalimentación:* como los tres lados y los tres ángulos son iguales, cada una de las tres líneas que van desde un vértice al lado opuesto divide la figura en dos mitades idénticas.
+**Respuesta correcta: c) 3.**
+*Retroalimentación:* como los tres lados y los tres ángulos son iguales, cada una de las tres líneas que van desde un vértice al punto medio del lado opuesto divide la figura en dos mitades idénticas.
 
 **Pregunta 6 (alternativas).** ¿Cuál de las siguientes figuras NO tiene ninguna línea de simetría?
-a) Cuadrado
-b) Rombo
+a) Cuadrado (con sus 4 lados de igual medida)
+b) Rombo (con sus 4 lados de igual medida)
 c) Triángulo escaleno (con sus 3 lados de distinta medida)
-d) Rectángulo
+d) Rectángulo (con sus lados opuestos de igual medida)
 
 **Respuesta correcta: c) Triángulo escaleno.**
 *Retroalimentación:* como sus tres lados tienen medidas distintas, no existe ninguna línea que lo divida en dos mitades exactamente iguales. El cuadrado, el rombo y el rectángulo sí tienen al menos una línea de simetría.
@@ -815,28 +915,38 @@ d) Simetría
 *Retroalimentación:* en una reflexión, la figura se "voltea" respecto a una línea (llamada eje de reflexión o línea de simetría), tal como ocurre con una imagen en un espejo.
 
 **Pregunta 3 (alternativas).** Si una figura gira 180° alrededor de un punto, queda:
-a) Igual, pero más lejos
+a) Igual, pero desplazada más lejos
 b) En la posición opuesta (al revés)
 c) Reflejada como en un espejo
-d) Más grande
+d) Más grande que la figura original
 
 **Respuesta correcta: b) En la posición opuesta (al revés).**
 *Retroalimentación:* una rotación de 180° es como dar "media vuelta": la figura termina mirando exactamente hacia el lado contrario al que miraba al inicio.
 
-**Pregunta 4 (identificar la transformación).** Camila observa que la sombra de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
+**Pregunta 4 (alternativas — identificar la transformación).** Camila observa que la sombra de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
+a) Reflexión
+b) Traslación
+c) Rotación
 
-**Respuesta esperada:** **reflexión**.
+**Respuesta correcta: a) Reflexión.**
 *Retroalimentación:* la superficie del agua actúa como una línea (o eje) de reflexión, igual que un espejo.
 
-**Pregunta 5 (identificar la transformación).** Un ajedrecista mueve una pieza 3 casillas hacia la derecha sin girarla ni voltearla. ¿Qué transformación geométrica representa este movimiento?
+**Pregunta 5 (alternativas — identificar la transformación).** Un ajedrecista mueve una pieza 3 casillas hacia la derecha sin girarla ni voltearla. ¿Qué transformación geométrica representa este movimiento?
+a) Reflexión
+b) Traslación
+c) Rotación
 
-**Respuesta esperada:** **traslación**.
+**Respuesta correcta: b) Traslación.**
 *Retroalimentación:* al no haber ningún giro ni volteo, solo un cambio de posición, se trata de una traslación.
 
-**Pregunta 6 (desarrollo).** Describe cómo se vería la letra "b" minúscula si se refleja verticalmente (como en un espejo colocado a su derecha).
+**Pregunta 6 (alternativas).** ¿Cómo se vería la letra "b" minúscula si se refleja con un espejo colocado verticalmente a su derecha?
+a) Como la letra "d"
+b) Como la letra "p"
+c) Como la letra "q"
+d) Igual, como la letra "b"
 
-**Respuesta esperada:** se vería como la letra **"d"**.
-*Retroalimentación:* al reflejar la "b" respecto a una línea vertical, la parte curva que estaba a la derecha del palo queda a la izquierda, formando la letra "d". Este es un buen ejemplo de cómo la reflexión puede transformar una figura en otra distinta.
+**Respuesta correcta: a) Como la letra "d".**
+*Retroalimentación:* al reflejar la "b" respecto a una línea vertical, la parte curva que estaba a la derecha del palo queda a la izquierda, formando la letra "d". La "p" se obtendría reflejando respecto a una línea horizontal.
 
 ---
 
@@ -881,30 +991,46 @@ d) Litro
 **Respuesta correcta: b) Centímetro.**
 *Retroalimentación:* el centímetro es una unidad adecuada para medir objetos pequeños, como un lápiz o un cuaderno. El metro se usa para objetos más grandes (como el largo de una sala), y el litro ni siquiera es una unidad de longitud, sino de volumen.
 
-**Pregunta 2 (desarrollo).** Transforma 5 metros a centímetros.
+**Pregunta 2 (alternativas).** ¿A cuántos centímetros equivalen 5 metros?
+a) 50 cm
+b) 5.000 cm
+c) 105 cm
+d) 500 cm
 
-**Respuesta esperada:** 5 × 100 = **500 centímetros**.
-*Retroalimentación:* como 1 metro equivale a 100 centímetros, para transformar de metros a centímetros se multiplica por 100.
+**Respuesta correcta: d) 500 cm.**
+*Retroalimentación:* como 1 metro equivale a 100 centímetros, para transformar de metros a centímetros se multiplica por 100: 5 × 100 = 500 cm.
 
-**Pregunta 3 (desarrollo).** Transforma 250 centímetros a metros.
+**Pregunta 3 (alternativas).** ¿A cuántos metros equivalen 250 centímetros?
+a) 25 metros (25 m y 0 cm)
+b) 2,5 metros (2 m y 50 cm)
+c) 250 metros (250 m y 0 cm)
+d) 0,25 metros (0 m y 25 cm)
 
-**Respuesta esperada:** 250 ÷ 100 = **2,5 metros** (2 metros y 50 centímetros).
-*Retroalimentación:* para transformar de centímetros a metros se divide por 100, ya que 100 cm forman 1 m.
+**Respuesta correcta: b) 2,5 metros (2 m y 50 cm).**
+*Retroalimentación:* para transformar de centímetros a metros se divide por 100, ya que 100 cm forman 1 m: 250 ÷ 100 = 2,5 m.
 
 **Pregunta 4 (verdadero o falso).** 1 metro equivale a 100 centímetros.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* esta es la equivalencia base entre ambas unidades, y es fundamental para poder transformar entre ellas.
 
-**Pregunta 5 (problema de aplicación).** Un pasillo del colegio mide 8 metros de largo. Vicente ya recorrió 350 cm caminando. ¿Cuántos centímetros le faltan por recorrer?
+**Pregunta 5 (alternativas — problema de aplicación).** Un pasillo del colegio mide 8 metros de largo. Vicente ya recorrió 350 cm caminando. ¿Cuántos centímetros le faltan por recorrer?
+a) 342 cm
+b) 450 cm
+c) 550 cm
+d) 1.150 cm
 
-**Respuesta esperada:** 8 m = 800 cm; 800 − 350 = **450 cm**.
-*Retroalimentación:* como los datos venían en unidades distintas (metros y centímetros), el primer paso es transformarlos a la misma unidad antes de restar.
+**Respuesta correcta: b) 450 cm.**
+*Retroalimentación:* como los datos venían en unidades distintas, primero se transforman a la misma unidad: 8 m = 800 cm; 800 − 350 = 450 cm. Restar 350 − 8 = 342 mezcla metros con centímetros.
 
-**Pregunta 6 (problema de comparación).** Una cinta mide 120 cm y otra mide 1 metro. ¿Cuál cinta es más larga, y por cuántos centímetros?
+**Pregunta 6 (alternativas — problema de comparación).** Una cinta mide 120 cm y otra mide 1 metro. ¿Cuál cinta es más larga, y por cuántos centímetros?
+a) La de 120 cm, por 20 cm
+b) La de 1 metro, por 119 cm
+c) Miden lo mismo
+d) La de 120 cm, por 119 cm
 
-**Respuesta esperada:** 1 metro = 100 cm; 120 cm > 100 cm, por lo tanto la primera cinta es más larga por **20 cm**.
-*Retroalimentación:* para comparar longitudes dadas en unidades distintas, siempre hay que transformarlas a la misma unidad primero.
+**Respuesta correcta: a) La de 120 cm, por 20 cm.**
+*Retroalimentación:* para comparar longitudes dadas en unidades distintas, hay que transformarlas a la misma unidad: 1 m = 100 cm; 120 cm − 100 cm = 20 cm.
 
 ---
 
@@ -949,20 +1075,28 @@ d) 10 cm
 **Respuesta correcta: b) 21 cm².**
 *Retroalimentación:* el área se calcula multiplicando largo por ancho (7 × 3 = 21), y siempre se expresa en unidades cuadradas (cm²), no en cm ni sumando los lados (10 sería el resultado de sumar, no de multiplicar).
 
-**Pregunta 2 (desarrollo).** Calcula el área de un cuadrado cuyo lado mide 6 metros.
+**Pregunta 2 (alternativas).** ¿Cuál es el área de un cuadrado cuyo lado mide 6 metros?
+a) 24 m²
+b) 12 m²
+c) 36 m
+d) 36 m²
 
-**Respuesta esperada:** 6 × 6 = **36 m²**.
-*Retroalimentación:* en un cuadrado, los cuatro lados miden lo mismo, por lo tanto el área es lado × lado.
+**Respuesta correcta: d) 36 m².**
+*Retroalimentación:* en un cuadrado, los cuatro lados miden lo mismo, por lo tanto el área es lado × lado: 6 × 6 = 36 m². 24 m sería el perímetro, y el área se expresa en metros cuadrados.
 
 **Pregunta 3 (verdadero o falso).** El área se mide en unidades cuadradas, como cm² o m².
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* a diferencia de la longitud (que se mide en cm o m), el área mide una superficie de dos dimensiones, por eso se expresa en unidades "al cuadrado".
 
-**Pregunta 4 (problema — lado desconocido).** Un rectángulo tiene un área de 20 cm² y su largo mide 5 cm. ¿Cuánto mide su ancho?
+**Pregunta 4 (alternativas — lado desconocido).** Un rectángulo tiene un área de 20 cm² y su largo mide 5 cm. ¿Cuánto mide su ancho?
+a) 15 cm
+b) 4 cm
+c) 100 cm
+d) 25 cm
 
-**Respuesta esperada:** 20 ÷ 5 = **4 cm**.
-*Retroalimentación:* si conoces el área y uno de los lados, puedes encontrar el otro lado dividiendo el área por el lado conocido (la operación inversa a multiplicar).
+**Respuesta correcta: b) 4 cm.**
+*Retroalimentación:* si conoces el área y uno de los lados, puedes encontrar el otro lado dividiendo el área por el lado conocido: 20 ÷ 5 = 4 cm (comprobación: 5 × 4 = 20).
 
 **Pregunta 5 (alternativas).** ¿Cuál de los siguientes rectángulos tiene un área de 18 cm²?
 a) 2 cm × 8 cm
@@ -973,10 +1107,14 @@ d) 9 cm × 9 cm
 **Respuesta correcta: b) 3 cm × 6 cm.**
 *Retroalimentación:* 3 × 6 = 18 cm². Las otras opciones dan áreas distintas: 2×8=16, 4×5=20, 9×9=81.
 
-**Pregunta 6 (problema de aplicación).** El patio rectangular de la casa de Fernanda mide 8 metros de largo por 5 metros de ancho. ¿Cuál es el área del patio?
+**Pregunta 6 (alternativas — problema de aplicación).** El patio rectangular de la casa de Fernanda mide 8 metros de largo por 5 metros de ancho. ¿Cuál es el área del patio?
+a) 26 m²
+b) 13 m²
+c) 40 m²
+d) 40 m
 
-**Respuesta esperada:** 8 × 5 = **40 m²**.
-*Retroalimentación:* recuerda usar la unidad correspondiente según los datos del problema: como las medidas están en metros, el área queda en metros cuadrados (m²).
+**Respuesta correcta: c) 40 m².**
+*Retroalimentación:* área = largo × ancho = 8 × 5 = 40 m². Como las medidas están en metros, el área queda en metros cuadrados (m²); 26 m sería el perímetro.
 
 ---
 
@@ -1038,28 +1176,40 @@ d) 9
 
 *(Usa el gráfico de ventas de helados del Ejemplo 2, donde cada ■ = 5 helados, para responder las preguntas 3, 4 y 5).*
 
-**Pregunta 3 (desarrollo).** Según el gráfico, ¿qué día se vendieron más helados?
+**Pregunta 3 (alternativas).** Según el gráfico, ¿qué día se vendieron más helados?
+a) El martes
+b) El lunes
+c) El miércoles
+d) El jueves
 
-**Respuesta esperada:** **el martes** (6 cuadritos × 5 = 30 helados, la cantidad más alta de la semana).
-*Retroalimentación:* para responder esta pregunta hay que comparar la altura (o largo) de todas las barras, no solo mirar una.
+**Respuesta correcta: a) El martes.**
+*Retroalimentación:* el martes tiene 6 cuadritos (6 × 5 = 30 helados), la cantidad más alta de la semana. Para responder hay que comparar el largo de todas las barras, no solo mirar una.
 
-**Pregunta 4 (cálculo).** ¿Cuántos helados se vendieron en total durante los cuatro días que muestra el gráfico?
+**Pregunta 4 (alternativas — cálculo).** ¿Cuántos helados se vendieron en total durante los cuatro días que muestra el gráfico?
+a) 17
+b) 80
+c) 85
+d) 90
 
-**Respuesta esperada:** lunes 20 + martes 30 + miércoles 10 + jueves 25 = **85 helados**.
-*Retroalimentación:* primero hay que transformar cada barra a su cantidad real usando la escala (multiplicando los cuadritos por 5), y luego sumar todos los días.
+**Respuesta correcta: c) 85.**
+*Retroalimentación:* primero se transforma cada barra a su cantidad real usando la escala (cuadritos × 5): lunes 20 + martes 30 + miércoles 10 + jueves 25 = 85. Si solo cuentas los cuadritos (17), olvidas que cada uno vale 5 helados.
 
-**Pregunta 5 (problema de aplicación).** ¿Cuántos helados más se vendieron el lunes que el miércoles?
+**Pregunta 5 (alternativas — problema de aplicación).** ¿Cuántos helados más se vendieron el lunes que el miércoles?
+a) 2
+b) 10
+c) 20
+d) 30
 
-**Respuesta esperada:** lunes = 20 helados; miércoles = 10 helados; 20 − 10 = **10 helados más**.
-*Retroalimentación:* para comparar dos cantidades de un gráfico, primero se calcula el valor real de cada barra usando la escala, y luego se restan.
+**Respuesta correcta: b) 10.**
+*Retroalimentación:* primero se calcula el valor real de cada barra usando la escala (lunes 4 × 5 = 20; miércoles 2 × 5 = 10), y luego se restan: 20 − 10 = 10.
 
 **Pregunta 6 (alternativas).** Si cada símbolo de un pictograma representa 3 mascotas y la categoría "Gato" tiene 4 símbolos, ¿cuántos gatos hay?
 a) 7
-b) 12
-c) 9
+b) 9
+c) 12
 d) 15
 
-**Respuesta correcta: b) 12.**
+**Respuesta correcta: c) 12.**
 *Retroalimentación:* 4 símbolos × 3 (el valor de cada símbolo) = 12. Es importante multiplicar por la escala, y no solo contar los símbolos.
 
 ---

@@ -19,9 +19,7 @@ versión: Forma B (preguntas propias)
 
 1. Esta prueba contiene **25 preguntas** y tiene una duración de **90 minutos**.
 2. Se permite el uso de **calculadora**. Puedes usarla para calcular raíces, logaritmos o razones trigonométricas, pero recuerda que debes entender qué operación aplicar en cada problema y verificar que el resultado tenga sentido.
-3. Hay dos tipos de preguntas:
-   - **Preguntas de alternativas**: marca con una X la opción correcta (a, b, c o d).
-   - **Preguntas de desarrollo**: resuelve el problema y **muestra tu desarrollo completo** (los cálculos que hiciste para llegar a tu respuesta). Las respuestas sin desarrollo pueden no recibir el puntaje completo.
+3. Todas las preguntas son de **alternativas**: marca con una X la opción correcta (a, b, c o d). Te recomendamos resolver cada problema en tu hoja antes de elegir: las alternativas incorrectas corresponden a errores frecuentes.
 4. Escribe con lápiz pasta o lápiz grafito legible. Si te equivocas, tacha claramente y vuelve a escribir.
 5. Lee cada pregunta con calma antes de responder. Si tienes dudas sobre el enunciado, continúa con la siguiente pregunta y vuelve más tarde.
 6. Revisa tus respuestas antes de entregar la prueba.
@@ -48,11 +46,21 @@ d) 6/√6
 
 ---
 
-**Pregunta 3 (desarrollo).** Calcula, usando propiedades de los logaritmos: log₂(64) − log₂(4). Muestra tu desarrollo.
+**Pregunta 3 (Alternativas).** Usando propiedades de los logaritmos, ¿cuánto vale log₂(64) − log₂(4)?
+
+a) 2
+b) 4
+c) 16
+d) 60
 
 ---
 
-**Pregunta 4 (desarrollo).** Un terreno cuadrado tiene un área de 363 m². Determina la medida exacta de su lado, expresada como una raíz simplificada, y su valor aproximado con calculadora. Muestra tu desarrollo.
+**Pregunta 4 (Alternativas).** Un terreno cuadrado tiene un área de 363 m². ¿Cuánto mide su lado?
+
+a) 3√11 m ≈ 9,95 m
+b) 121√3 m
+c) √363 m ≈ 181,5 m
+d) 11√3 m ≈ 19,05 m
 
 ---
 
@@ -74,11 +82,21 @@ d) 2^12
 
 ---
 
-**Pregunta 7 (desarrollo).** Convierte la potencia 27^(2/3) a su forma de raíz, y calcula su valor exacto. Muestra tu desarrollo.
+**Pregunta 7 (Alternativas).** ¿Cuál es la forma de raíz de 27^(2/3) y su valor exacto?
+
+a) √(27³) ≈ 140,3
+b) (∛27)² = 9
+c) ∛(27) · 2 = 6
+d) (√27)³ ≈ 140,3
 
 ---
 
-**Pregunta 8 (desarrollo).** El pH de una solución se calcula como pH = −log[H⁺]. Si una muestra tiene [H⁺] = 10⁻⁴, calcula su pH usando la definición de logaritmo. Muestra tu desarrollo.
+**Pregunta 8 (Alternativas).** Si pH = −log[H⁺] y [H⁺] = 10⁻⁴, ¿cuál es el pH?
+
+a) −4
+b) 10⁴
+c) 4
+d) 0,4
 
 ---
 
@@ -102,15 +120,30 @@ d) Hacia arriba, con un mínimo
 
 ---
 
-**Pregunta 11 (desarrollo).** Para f(x) = x² + x − 12, determina el vértice de la parábola y sus intersecciones con el eje x. Muestra tu desarrollo.
+**Pregunta 11 (Alternativas).** Para f(x) = x² + x − 12, ¿cuáles son el vértice y las intersecciones con el eje x?
+
+a) Vértice (−0,5; −12); raíces x = −4 y x = 3
+b) Vértice (0,5; −12,25); raíces x = 4 y x = −3
+c) Vértice (−0,5; −12,25); raíces x = −4 y x = 3
+d) Vértice (0; −12); raíces x = −12 y x = 1
 
 ---
 
-**Pregunta 12 (desarrollo).** Un vendedor de helados estima que su ganancia diaria G (en miles de pesos), según el precio x (en cientos de pesos) que cobra por cada helado, sigue el modelo G(x) = −2x² + 24x − 40. ¿Qué precio maximiza su ganancia, y cuál es esa ganancia máxima? Muestra tu desarrollo.
+**Pregunta 12 (Alternativas).** La ganancia diaria de un heladero (en miles de pesos) es G(x) = −2x² + 24x − 40, con x en cientos de pesos. ¿Qué precio maximiza la ganancia y cuál es esa ganancia?
+
+a) $1.200 y $248.000
+b) $600 y $40.000
+c) $300 y $14.000
+d) $600 y $32.000
 
 ---
 
-**Pregunta 13 (desarrollo).** Determina si el punto (1, 3) pertenece a la región de soluciones de la inecuación y > x² + 2x − 1. Muestra tu desarrollo y justifica tu respuesta.
+**Pregunta 13 (Alternativas).** ¿Pertenece el punto (1, 3) a la región de soluciones de y > x² + 2x − 1?
+
+a) No, porque en x = 1 el lado derecho vale 3 y 3 > 3 es falso
+b) Sí, porque en x = 1 el lado derecho vale 2 y 3 > 2
+c) No, porque el punto está sobre la parábola
+d) Sí, porque basta con que x = 1 sea menor que y = 3
 
 ---
 
@@ -132,11 +165,21 @@ d) f⁻¹(x) = 1/(7x)
 
 ---
 
-**Pregunta 16 (desarrollo).** Encuentra la función inversa de f(x) = 3x − 9. Muestra tu desarrollo.
+**Pregunta 16 (Alternativas).** ¿Cuál es la inversa de f(x) = 3x − 9?
+
+a) f⁻¹(x) = (x − 9)/3
+b) f⁻¹(x) = 3x + 9
+c) f⁻¹(x) = (x + 9)/3
+d) f⁻¹(x) = 1/(3x − 9)
 
 ---
 
-**Pregunta 17 (desarrollo).** Encuentra la inversa de f(x) = x² − 5, considerando solo x ≥ 0. Muestra tu desarrollo.
+**Pregunta 17 (Alternativas).** ¿Cuál es la inversa de f(x) = x² − 5, considerando x ≥ 0?
+
+a) f⁻¹(x) = √(x + 5)
+b) f⁻¹(x) = √(x − 5)
+c) f⁻¹(x) = x² + 5
+d) f⁻¹(x) = −√(x + 5)
 
 ---
 
@@ -144,27 +187,37 @@ d) f⁻¹(x) = 1/(7x)
 
 **Pregunta 18 (alternativas).** En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 8 cm y la hipotenusa mide 17 cm. ¿Cuál es sen θ, aproximadamente?
 
-a) 0,47
+a) 2,13
 b) 0,53
-c) 2,13
+c) 0,47
 d) 0,21
 
 ---
 
 **Pregunta 19 (alternativas).** Un triángulo rectángulo tiene un ángulo de 30° y cateto adyacente de 12 cm. ¿Cuánto mide, aproximadamente, el cateto opuesto?
 
-a) 6,93 cm
+a) 24 cm
 b) 10,39 cm
-c) 24 cm
+c) 6,93 cm
 d) 6 cm
 
 ---
 
-**Pregunta 20 (desarrollo).** En un triángulo rectángulo, la hipotenusa mide 25 cm y uno de sus ángulos agudos mide 40°. Calcula el cateto opuesto a ese ángulo. Muestra tu desarrollo.
+**Pregunta 20 (Alternativas).** En un triángulo rectángulo, la hipotenusa mide 25 cm y un ángulo agudo mide 40°. ¿Cuánto mide el cateto opuesto a ese ángulo?
+
+a) ≈ 38,89 cm
+b) ≈ 20,98 cm
+c) ≈ 19,15 cm
+d) ≈ 16,07 cm
 
 ---
 
-**Pregunta 21 (desarrollo).** Una persona se ubica a 60 m de la base de una torre, sobre terreno plano, y mide un ángulo de elevación de 22° hasta la cima. Calcula la altura aproximada de la torre. Muestra tu desarrollo.
+**Pregunta 21 (Alternativas).** Una persona a 60 m de la base de una torre mide un ángulo de elevación de 22° hasta la cima. ¿Cuál es la altura aproximada?
+
+a) ≈ 22,48 m
+b) ≈ 24,24 m
+c) ≈ 55,63 m
+d) ≈ 148,5 m
 
 ---
 
@@ -188,17 +241,27 @@ d) 28
 
 ---
 
-**Pregunta 24 (desarrollo).** ¿De cuántas formas se pueden ordenar las 6 letras de la palabra "CAMINO" (todas distintas)? Muestra tu desarrollo.
+**Pregunta 24 (Alternativas).** ¿De cuántas formas se pueden ordenar las 6 letras de "CAMINO"?
+
+a) 36
+b) 120
+c) 720
+d) 46.656
 
 ---
 
-**Pregunta 25 (desarrollo).** Un profesor debe elegir, entre 10 estudiantes, a 4 para representar al curso en una feria científica, con el mismo rol para los cuatro (el orden de elección no importa). ¿De cuántas formas puede elegir el grupo de representantes? Muestra tu desarrollo.
+**Pregunta 25 (Alternativas).** Un profesor elige 4 de 10 estudiantes con el mismo rol (el orden no importa). ¿De cuántas formas?
+
+a) 210
+b) 5.040
+c) 40
+d) 10.000
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -212,29 +275,29 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |---|---|---|---|
 | 1 | b) 10√3 (300=100×3, y 100 es cuadrado perfecto: √300=√100×√3=10√3) | OA 1 | Números y Operaciones |
 | 2 | c) 2√6 (12/√6=12√6/6=2√6 ≈ 4,90) | OA 1 | Números y Operaciones |
-| 3 | log₂(64)−log₂(4)=log₂(64/4)=log₂(16)=**4** | OA 1 | Números y Operaciones |
-| 4 | lado=√363; 363=121×3, √363=√121×√3=**11√3 m ≈ 19,05 m** | OA 1 | Números y Operaciones |
+| 3 | **b) 4.** log₂(64/4) = log₂(16) = 4. | OA 1 | Números y Operaciones |
+| 4 | **d) 11√3 m ≈ 19,05 m.** 363 = 121 · 3, así que √363 = 11√3. | OA 1 | Números y Operaciones |
 | 5 | d) 4 (log₃81=4 porque 3⁴=81) | OA 2 | Números y Operaciones |
 | 6 | b) 2^(7/5) (el índice de la raíz, 5, pasa al denominador; la potencia, 7, al numerador) | OA 2 | Números y Operaciones |
-| 7 | 27^(2/3)=(∛27)²=3²=**9** | OA 2 | Números y Operaciones |
-| 8 | pH=−log(10⁻⁴)=−(−4)=**4** | OA 2 | Números y Operaciones |
+| 7 | **b) (∛27)² = 9.** El denominador 3 es el índice: ∛27 = 3 y 3² = 9. | OA 2 | Números y Operaciones |
+| 8 | **c) 4.** −log(10⁻⁴) = 4. | OA 2 | Números y Operaciones |
 | 9 | c) −2 (x=−b/2a=−4/2=−2) | OA 3 | Álgebra y Funciones |
 | 10 | d) Hacia arriba, con un mínimo (a=2>0) | OA 3 | Álgebra y Funciones |
-| 11 | factorizando: x²+x−12=(x+4)(x−3)=0 → raíces **x=−4 y x=3**; vértice: x=−1/(2)=−0,5, f(−0,5)=0,25−0,5−12=−12,25 → vértice **(−0,5; −12,25)** | OA 3 | Álgebra y Funciones |
-| 12 | vértice: x=−24/(2×(−2))=6; G(6)=−2(36)+144−40=**32**. Precio óptimo $600 (x=6), ganancia máxima **$32.000** | OA 3 | Álgebra y Funciones |
-| 13 | x²+2x−1 en x=1: 1+2−1=2; como 3>2, la desigualdad se cumple → **el punto sí pertenece** a la región de soluciones | OA 3 | Álgebra y Funciones |
+| 11 | **c) Vértice (−0,5; −12,25); raíces x = −4 y x = 3.** (x + 4)(x − 3) = 0; xᵥ = −1/2 y f(−0,5) = 0,25 − 0,5 − 12 = −12,25. | OA 3 | Álgebra y Funciones |
+| 12 | **d) $600 y $32.000.** xᵥ = −24/(2 · (−2)) = 6 (cientos); G(6) = −72 + 144 − 40 = 32 (miles). | OA 3 | Álgebra y Funciones |
+| 13 | **b) Sí, porque en x = 1 el lado derecho vale 2 y 3 > 2.** Se evalúa x² + 2x − 1 en x = 1 y se compara con y = 3. | OA 3 | Álgebra y Funciones |
 | 14 | b) f⁻¹(x) = x − 10 (deshace la suma de 10: se resta 10 a ambos lados) | OA 5 | Álgebra y Funciones |
 | 15 | a) f⁻¹(x) = x/7 (deshace la multiplicación por 7) | OA 5 | Álgebra y Funciones |
-| 16 | y=3x−9; se intercambia: x=3y−9; se despeja: **f⁻¹(x) = (x+9)/3** | OA 5 | Álgebra y Funciones |
-| 17 | y=x²−5; se intercambia: x=y²−5; y²=x+5; **f⁻¹(x) = √(x+5)** (raíz positiva, pues x≥0 en la función original) | OA 5 | Álgebra y Funciones |
-| 18 | a) 0,47 (sen θ = 8/17 ≈ 0,47) | OA 8 | Geometría |
-| 19 | a) 6,93 cm (cateto opuesto = 12×tan(30°) ≈ 12×0,577 ≈ 6,93) | OA 8 | Geometría |
-| 20 | cateto opuesto = 25×sen(40°) ≈ 25×0,643 ≈ **16,07 cm** | OA 8 | Geometría |
-| 21 | tan(22°) = altura÷60 → altura = 60×tan(22°) ≈ 60×0,404 ≈ **24,24 m** | OA 8 | Geometría |
+| 16 | **c) f⁻¹(x) = (x + 9)/3.** x = 3y − 9 → y = (x + 9)/3. | OA 5 | Álgebra y Funciones |
+| 17 | **a) f⁻¹(x) = √(x + 5).** Se toma la raíz positiva porque x ≥ 0 en la función original. | OA 5 | Álgebra y Funciones |
+| 18 | c) 0,47 (sen θ = 8/17 ≈ 0,47) | OA 8 | Geometría |
+| 19 | c) 6,93 cm (cateto opuesto = 12×tan(30°) ≈ 12×0,577 ≈ 6,93) | OA 8 | Geometría |
+| 20 | **d) ≈ 16,07 cm.** 25 · sen(40°) ≈ 25 · 0,643; 19,15 cm usaría el coseno. | OA 8 | Geometría |
+| 21 | **b) ≈ 24,24 m.** altura = 60 · tan(22°) ≈ 60 · 0,404. | OA 8 | Geometría |
 | 22 | a) 15 (principio multiplicativo: 5×3=15) | OA 11 | Probabilidad y Estadística |
 | 23 | a) 56 (8!/6! = 8×7 = 56, tras simplificar los factores comunes) | OA 11 | Probabilidad y Estadística |
-| 24 | como las 6 letras son distintas: 6! = 6×5×4×3×2×1 = **720 formas** | OA 11 | Probabilidad y Estadística |
-| 25 | orden no importa → combinación: C(10,4) = 10!/(4!×6!) = (10×9×8×7)/(4×3×2×1) = **210 formas** | OA 11 | Probabilidad y Estadística |
+| 24 | **c) 720.** 6! = 720; 6⁶ = 46.656 permitiría repetir letras. | OA 11 | Probabilidad y Estadística |
+| 25 | **a) 210.** C(10, 4) = (10 · 9 · 8 · 7)/(4 · 3 · 2 · 1) = 210; 5.040 contaría el orden. | OA 11 | Probabilidad y Estadística |
 
 ### Resumen de cobertura curricular
 
@@ -246,7 +309,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Probabilidad y Estadística | 4 | OA 11 |
 | **Total** | **25** | **6 OA** |
 
-**Tipo de preguntas:** 12 de alternativas (4 opciones) y 13 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática y la misma distribución del banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /02-medio/matematica.md, sin copiar preguntas reales de Mineduc. **Ninguna pregunta de esta Forma B repite enunciado, cifras o contexto con el banco de contenido**: se usaron números, funciones y escenarios distintos en cada ítem equivalente.
+**Tipo de preguntas:** 25 de alternativas (4 opciones), replicando la misma distribución del banco de contenido. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /02-medio/matematica.md, sin copiar preguntas reales de Mineduc. **Ninguna pregunta de esta Forma B repite enunciado, cifras o contexto con el banco de contenido**: se usaron números, funciones y escenarios distintos en cada ítem equivalente.
 
 ---
 
@@ -254,12 +317,12 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4 | 2 | 2 |
-| OA 2 | 5, 6, 7, 8 | 2 | 2 |
-| OA 3 | 9, 10, 11, 12, 13 | 2 | 3 |
-| OA 5 | 14, 15, 16, 17 | 2 | 2 |
-| OA 8 | 18, 19, 20, 21 | 2 | 2 |
-| OA 11 | 22, 23, 24, 25 | 2 | 2 |
-| **Total** | **25 preguntas** | **12** | **13** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4 | 4 |
+| OA 2 | 5, 6, 7, 8 | 4 |
+| OA 3 | 9, 10, 11, 12, 13 | 5 |
+| OA 5 | 14, 15, 16, 17 | 4 |
+| OA 8 | 18, 19, 20, 21 | 4 |
+| OA 11 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

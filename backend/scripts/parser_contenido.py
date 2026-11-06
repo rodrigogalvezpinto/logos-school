@@ -14,6 +14,7 @@ a **/*), no líneas exactas — así cubre las variantes ya encontradas y es má
 a nuevas variantes menores en el resto de los 12 cursos.
 """
 
+import json
 import re
 from dataclasses import dataclass, field
 
@@ -40,7 +41,45 @@ RE_AUTOEVAL_BOLD_PARRAFO = re.compile(r"^\*\*.*autoevaluaci[oó]n.*\*\*$", re.IG
 RE_Q_START = re.compile(
     r"(?m)^\s*\*{0,2}(?:Pregunta\s+|(?=\d+\.))(\d+)\.?\s*\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*"
 )
-RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
+RE_OPCION = re.compile(r"^\s*[a-e]\)\s+(.*)$")
+# Tipo "Varias correctas" (decisión 2026-11-06: todo el material pasa a alternativas; una
+# pregunta abierta con varias respuestas válidas se convierte en selección de TODAS las
+# correctas). Se usa una etiqueta propia porque "selección múltiple" ya significa, en el
+# corpus y en Chile, una sola respuesta correcta.
+RE_VARIAS = re.compile(r"varias\s+correctas", re.IGNORECASE)
+RE_LETRAS_VARIAS = re.compile(
+    r"^\s*\(?([a-eA-E])\)?((?:\s*(?:,|;|\by\b|\be\b)\s*\(?[a-eA-E]\)?)+)(?=\s*(?:[.:—–\-]|$))"
+)
+
+
+def clave_valida(tipo: str, correcta: str | None, opciones: list[str] | None) -> bool:
+    """Invariante de clave común a importador, validadores y pruebas: en `alternativas` la
+    clave es el texto de una opción; en `varias_correctas`, una lista JSON de 2+ opciones
+    distintas que no las incluye todas; sin opciones (abiertas) basta una pauta no vacía."""
+    if not (correcta or "").strip():
+        return False
+    if tipo == "varias_correctas":
+        try:
+            lista = json.loads(correcta)
+        except ValueError:
+            return False
+        return (isinstance(lista, list) and len(lista) >= 2 and len(set(lista)) == len(lista)
+                and set(lista) < set(opciones or []))
+    return not opciones or correcta in opciones
+
+
+def resolver_letras_varias(texto: str, opciones: list[str]) -> str | None:
+    """"a, c y d" -> lista JSON con el texto de esas opciones, en el orden de las opciones.
+    None si el texto no empieza con 2+ letras válidas y distintas."""
+    m = RE_LETRAS_VARIAS.match(texto)
+    if not m:
+        return None
+    letras = [m.group(1).lower(), *re.findall(r"[a-eA-E]", m.group(2).replace(" y ", " ").replace(" e ", " "))]
+    letras = [l.lower() for l in letras]
+    indices = sorted({ord(l) - ord("a") for l in letras})
+    if len(indices) != len(letras) or len(indices) < 2 or indices[-1] >= len(opciones):
+        return None
+    return json.dumps([opciones[i] for i in indices], ensure_ascii=False)
 RE_RESPUESTA_MARCA = re.compile(
     r"(?i)[^\w\s]{0,2}\s*Respuesta\s+(?:correcta|esperada)\**:?\**\s*"
 )
@@ -81,7 +120,7 @@ RE_PAUTA_MARCA = re.compile(
 # hay que resolver por la letra al texto real de la opción — nunca confiar en lo que la
 # sigue — porque IntentoEvaluacion.entregar()/esCorrectaEnAutoevaluacion() comparan la
 # respuesta del alumno (el texto de la opción que clickeó) contra este campo tal cual.
-RE_LETRA_RESPUESTA = re.compile(r"^\(?([a-dA-D])(?:\)|\.|\s|$)")
+RE_LETRA_RESPUESTA = re.compile(r"^\(?([a-eA-E])(?:\)|\.|\s|$)")
 
 
 def extraer_modulo(texto: str) -> str | None:
@@ -112,6 +151,8 @@ class ObjetivoParseado:
 
 def _clasificar_tipo(etiqueta: str) -> str:
     et = etiqueta.lower()
+    if RE_VARIAS.search(et):
+        return "varias_correctas"
     if "verdadero" in et:
         return "verdadero_falso"
     if "alternativas" in et:
@@ -194,7 +235,7 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
             # reales. Se clasifica por lo que la pregunta realmente tiene, no por el
             # rótulo (bug real: quedaba como "desarrollo_breve" sin mostrar nunca las
             # alternativas al alumno, con la respuesta pegada tal cual "b) Sustracción").
-            tipo = "alternativas"
+            tipo = "varias_correctas" if tipo == "varias_correctas" else "alternativas"
             opciones_finales = opciones
         else:
             # Si no hay opciones, la pregunta es de desarrollo_breve aunque la etiqueta
@@ -202,7 +243,9 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
             tipo = "desarrollo_breve"
             opciones_finales = None
 
-        if opciones_finales:
+        if tipo == "varias_correctas":
+            respuesta_correcta = resolver_letras_varias(respuesta_correcta, opciones_finales) or respuesta_correcta
+        elif opciones_finales:
             letra_m = RE_LETRA_RESPUESTA.match(respuesta_correcta)
             if letra_m:
                 idx = ord(letra_m.group(1).lower()) - ord("a")

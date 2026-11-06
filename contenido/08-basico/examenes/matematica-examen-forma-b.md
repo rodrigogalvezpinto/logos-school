@@ -19,9 +19,7 @@ relación con otras formas: segunda versión (Forma B), con preguntas propias, m
 
 1. Este examen contiene **25 preguntas** y tiene una duración de **90 minutos**.
 2. Se permite el uso de **calculadora**. Puedes usarla para calcular, pero recuerda que debes entender qué operación aplicar en cada problema y verificar que el resultado tenga sentido.
-3. Hay dos tipos de preguntas:
-   - **Preguntas de alternativas**: marca con una X la opción correcta (a, b, c o d).
-   - **Preguntas de desarrollo**: resuelve el problema y **muestra tu desarrollo completo** (los cálculos que hiciste para llegar a tu respuesta). Las respuestas sin desarrollo pueden no recibir el puntaje completo.
+3. Todas las preguntas son de **alternativas**: marca con una X la opción correcta (a, b, c o d). Te recomendamos resolver cada problema en tu hoja antes de elegir: las alternativas incorrectas corresponden a errores frecuentes.
 4. Escribe con lápiz pasta o lápiz grafito legible. Si te equivocas, tacha claramente y vuelve a escribir.
 5. Lee cada pregunta con calma antes de responder. Si tienes dudas sobre el enunciado, continúa con la siguiente pregunta y vuelve más tarde.
 6. Revisa tus respuestas antes de entregar el examen.
@@ -39,7 +37,12 @@ d) 15
 
 ---
 
-**Pregunta 2 (desarrollo).** Una tienda registra pérdidas de $8.500 diarios durante 4 días seguidos. ¿Cuál es la pérdida total? Muestra tu desarrollo.
+**Pregunta 2 (Alternativas).** Una tienda registra pérdidas de $8.500 diarios durante 4 días seguidos. ¿Cuál es la variación total?
+
+a) −$2.125
+b) $34.000
+c) −$34.000
+d) −$8.504
 
 ---
 
@@ -52,7 +55,12 @@ d) 0,9
 
 ---
 
-**Pregunta 4 (desarrollo).** Un buzo desciende a un ritmo constante y llega a −9,6 metros en 1,6 minutos exactos. ¿Cuál es su velocidad de descenso, en metros por minuto? Muestra tu desarrollo.
+**Pregunta 4 (Alternativas).** Un buzo desciende a ritmo constante y llega a −9,6 m en 1,6 minutos. ¿Cuál es su velocidad de descenso?
+
+a) 6 m por minuto
+b) −0,6 m por minuto
+c) −15,36 m por minuto
+d) −6 m por minuto
 
 ---
 
@@ -65,7 +73,12 @@ d) 25²
 
 ---
 
-**Pregunta 6 (desarrollo).** Una clave de acceso a un sistema usa 4 dígitos, cada uno con 10 posibilidades (0 al 9). ¿Cuántas claves distintas se pueden formar? Exprésalo como potencia y como número. Muestra tu desarrollo.
+**Pregunta 6 (Alternativas).** Una clave usa 4 dígitos, cada uno del 0 al 9. ¿Cuántas claves distintas se pueden formar?
+
+a) 4¹⁰ = 1.048.576
+b) 10⁴ = 10.000
+c) 10 × 4 = 40
+d) 9⁴ = 6.561
 
 ---
 
@@ -78,11 +91,21 @@ d) 26
 
 ---
 
-**Pregunta 8 (desarrollo).** Sin usar calculadora, estima entre qué dos números enteros se encuentra √110, e indica a cuál está más cerca. Muestra tu desarrollo.
+**Pregunta 8 (Alternativas).** Sin calculadora, ¿entre qué enteros está √110 y a cuál está más cerca?
+
+a) Entre 10 y 11, más cerca de 11
+b) Entre 11 y 12, más cerca de 11
+c) Entre 10 y 11, más cerca de 10
+d) Entre 54 y 56
 
 ---
 
-**Pregunta 9 (desarrollo).** Un patio rectangular mide 32 m de largo por 2 m de ancho. Se quiere transformar en un patio cuadrado de igual área. Calcula el lado del cuadrado resultante y su perímetro. Muestra tu desarrollo.
+**Pregunta 9 (Alternativas).** Un patio rectangular de 32 m por 2 m se transforma en un cuadrado de igual área. ¿Cuánto miden su lado y su perímetro?
+
+a) Lado 17 m y perímetro 68 m
+b) Lado 8 m y perímetro 32 m
+c) Lado 8 m y perímetro 64 m
+d) Lado 16 m y perímetro 64 m
 
 ---
 
@@ -97,18 +120,28 @@ d) x = 12
 
 ---
 
-**Pregunta 11 (desarrollo).** Resuelve: 6x + 7 = 61. Muestra tu desarrollo.
+**Pregunta 11 (Alternativas).** Resuelve: 6x + 7 = 61.
+
+a) 11,3
+b) 54
+c) 8
+d) 9
 
 ---
 
-**Pregunta 12 (desarrollo).** Dos planes de telefonía cobran así:
+**Pregunta 12 (Alternativas).** Dos planes de telefonía cobran así:
 
 | Plan | Cargo fijo mensual | Costo por giga de datos |
 |---|---|---|
 | Plan A | $10.000 | $400 |
 | Plan B | $4.000 | $700 |
 
-¿Para cuántos gigas de datos ambos planes cobran lo mismo? Muestra tu desarrollo.
+¿Para cuántos gigas ambos planes cobran lo mismo?
+
+a) 15 gigas
+b) 20 gigas
+c) 6 gigas
+d) 30 gigas
 
 ---
 
@@ -130,7 +163,12 @@ d) pendiente −4, corta en (0, 7)
 
 ---
 
-**Pregunta 15 (desarrollo).** Un depósito de $120.000 genera un interés simple mensual de $4.500. Escribe la función afín S(x) que representa el saldo después de x meses, y calcula el saldo después de 7 meses. Muestra tu desarrollo.
+**Pregunta 15 (Alternativas).** Un depósito de $120.000 gana un interés simple de $4.500 mensuales. ¿Qué función representa el saldo y cuánto hay a los 7 meses?
+
+a) S(x) = 120.000x + 4.500; $844.500
+b) S(x) = 4.500x; $31.500
+c) S(x) = 4.500x + 120.000; $151.500
+d) S(x) = 124.500x; $871.500
 
 ---
 
@@ -140,16 +178,26 @@ d) pendiente −4, corta en (0, 7)
 
 a) 17 cm
 b) 23 cm
-c) 289 cm
-d) 120 cm
+c) 120 cm
+d) 289 cm
 
 ---
 
-**Pregunta 17 (desarrollo).** Una escalera de 15 m está apoyada en un muro, con su base a 9 m de distancia de este. ¿A qué altura del muro llega la escalera? Muestra tu desarrollo.
+**Pregunta 17 (Alternativas).** Una escalera de 15 m está apoyada en un muro, con su base a 9 m de este. ¿A qué altura llega?
+
+a) 12 m
+b) 6 m
+c) √306 ≈ 17,5 m
+d) 24 m
 
 ---
 
-**Pregunta 18 (desarrollo).** Un triángulo tiene lados de 10 cm, 24 cm y 26 cm. Verifica, usando el teorema de Pitágoras, si este triángulo es un triángulo rectángulo. Muestra tu desarrollo.
+**Pregunta 18 (Alternativas).** Un triángulo tiene lados de 10, 24 y 26 cm. ¿Es rectángulo?
+
+a) No, porque 10 + 24 ≠ 26
+b) No, porque 26² ≠ 10² + 24²
+c) Sí, porque 10 + 24 > 26
+d) Sí, porque 10² + 24² = 676 = 26²
 
 ---
 
@@ -162,7 +210,12 @@ d) (−2, 2)
 
 ---
 
-**Pregunta 20 (desarrollo).** El punto S(−6, 2) se refleja respecto al eje x. Indica las coordenadas de su imagen S', y explica qué componente cambió. Muestra tu desarrollo.
+**Pregunta 20 (Alternativas).** El punto S(−6, 2) se refleja respecto al eje x. ¿Cuál es su imagen?
+
+a) (6, 2)
+b) (−6, −2)
+c) (6, −2)
+d) (2, −6)
 
 ---
 
@@ -170,18 +223,28 @@ d) (−2, 2)
 
 **Pregunta 21 (alternativas).** Si un estudiante se ubica en el percentil 80 de una prueba, ¿qué significa?
 
-a) Obtuvo un 80% de respuestas correctas.
+a) Obtuvo un 80% de respuestas correctas, es decir, 8 de cada 10 preguntas bien.
 b) Su resultado es igual o mejor que aproximadamente el 80% de los estudiantes.
-c) Está entre los 80 mejores estudiantes del curso.
-d) Le faltó un 80% para aprobar.
+c) Está entre los 80 mejores estudiantes de todo el curso.
+d) Le faltó un 80% del puntaje para aprobar la prueba.
 
 ---
 
-**Pregunta 22 (desarrollo).** Los siguientes son los puntajes, ya ordenados, de 8 estudiantes en una prueba: 18, 22, 26, 30, 34, 38, 42, 50. Calcula Q1 y Q3. Muestra tu desarrollo.
+**Pregunta 22 (Alternativas).** Puntajes ordenados de 8 estudiantes: 18, 22, 26, 30, 34, 38, 42, 50. ¿Cuánto valen Q1 y Q3?
+
+a) Q1 = 22 y Q3 = 42
+b) Q1 = 26 y Q3 = 38
+c) Q1 = 24 y Q3 = 40
+d) Q1 = 32 y Q3 = 40
 
 ---
 
-**Pregunta 23 (desarrollo).** En un diagrama de cajón que compara los tiempos de dos grupos en una prueba, la mediana del Grupo C es 18 minutos y la del Grupo D es 20 minutos, pero el "bigote" superior de C llega hasta 30 minutos, mientras que el de D llega solo hasta 24 minutos. ¿Qué se puede concluir sobre ambos grupos?
+**Pregunta 23 (Alternativas).** En un diagrama de cajón de tiempos de prueba, la mediana del Grupo C es 18 min y la del D, 20 min; el bigote superior de C llega a 30 min y el de D a 24 min. ¿Qué se puede concluir?
+
+a) El Grupo C tiene un tiempo típico menor, pero tiene al menos un caso mucho más lento que cualquiera de D
+b) El Grupo D tiene un tiempo típico menor que C, y además su caso más lento es más lento que cualquiera de C
+c) Ambos grupos tienen la misma mediana, porque sus bigotes terminan cerca
+d) El Grupo C es más lento en todos sus integrantes, porque su bigote es más largo
 
 ---
 
@@ -194,13 +257,18 @@ d) Ninguno de los anteriores
 
 ---
 
-**Pregunta 25 (desarrollo).** Un gráfico de barras compara las ventas de un producto en dos tiendas: la barra de la Tienda X llega a "204" y la de la Tienda Y llega a "210", pero el eje vertical parte en 200 en vez de 0. Describe qué efecto visual produce esto y cómo se debería corregir.
+**Pregunta 25 (Alternativas).** Un gráfico de barras compara ventas de 204 (Tienda X) y 210 (Tienda Y), pero el eje vertical parte en 200. ¿Qué efecto produce y cómo se corrige?
+
+a) Reduce visualmente la diferencia entre las tiendas; se corrige iniciando el eje en 210
+b) No produce ningún efecto, porque los valores de las barras siguen siendo los mismos
+c) Muestra la diferencia real entre las ventas; no requiere ninguna corrección del eje
+d) Exagera visualmente una diferencia de solo 6 unidades (cerca de 3%); se corrige iniciando el eje en 0
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -213,30 +281,30 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
 | 1 | c) −54 (9×6=54, signos distintos → negativo) | OA 1 | Números y Operaciones |
-| 2 | 4 × (−8.500) = **−$34.000** | OA 1 | Números y Operaciones |
+| 2 | **c) −$34.000.** 4 × (−8.500) = −34.000. | OA 1 | Números y Operaciones |
 | 3 | d) 0,9 (signos iguales, negativo ÷ negativo = positivo: 0,72÷0,8=0,9) | OA 2 | Números y Operaciones |
-| 4 | −9,6 ÷ 1,6 = **−6 metros por minuto** | OA 2 | Números y Operaciones |
+| 4 | **d) −6 m por minuto.** −9,6 ÷ 1,6 = −6. | OA 2 | Números y Operaciones |
 | 5 | b) 5² (bases iguales: se restan los exponentes 4−2) | OA 3 | Números y Operaciones |
-| 6 | 10⁴ = **10.000 claves distintas** | OA 3 | Números y Operaciones |
+| 6 | **b) 10⁴ = 10.000.** La base es la cantidad de opciones (10) y el exponente, la cantidad de dígitos (4). | OA 3 | Números y Operaciones |
 | 7 | c) 13 (13×13=169) | OA 4 | Números y Operaciones |
-| 8 | 10²=100 y 11²=121; 110 está entre 100 y 121, aproximadamente a mitad de camino, algo **más cerca de 10** (valor real ≈10,49) | OA 4 | Números y Operaciones |
-| 9 | área: 32×2=64 m²; lado: √64=**8 m**; perímetro: 4×8=**32 m** | OA 4 | Números y Operaciones |
+| 8 | **c) Entre 10 y 11, más cerca de 10.** 10² = 100 y 11² = 121; √110 ≈ 10,49, apenas más cerca de 10. | OA 4 | Números y Operaciones |
+| 9 | **b) Lado 8 m y perímetro 32 m.** Área 32 · 2 = 64 m²; lado √64 = 8 m; perímetro 4 · 8 = 32 m. | OA 4 | Números y Operaciones |
 | 10 | d) x = 12 (96÷8=12) | OA 8 | Patrones y Álgebra |
-| 11 | 6x=61−7=54; x=**9** | OA 8 | Patrones y Álgebra |
-| 12 | 10.000+400x=4.000+700x; 6.000=300x; x=**20 gigas** | OA 8 | Patrones y Álgebra |
+| 11 | **d) 9.** 6x = 61 − 7 = 54; x = 9. | OA 8 | Patrones y Álgebra |
+| 12 | **b) 20 gigas.** 10.000 + 400x = 4.000 + 700x → 6.000 = 300x → x = 20. | OA 8 | Patrones y Álgebra |
 | 13 | a) −4 (f(5)=−3×5+11=−15+11=−4) | OA 10 | Patrones y Álgebra |
 | 14 | a) pendiente 4, corta en (0, −7) — por cada unidad que avanza en x, la recta sube 4; su intersección con el eje y es −7 | OA 10 | Patrones y Álgebra |
-| 15 | S(x)=4.500x+120.000; S(7)=31.500+120.000=**$151.500** | OA 10 | Patrones y Álgebra |
+| 15 | **c) S(x) = 4.500x + 120.000; $151.500.** El capital inicial es la constante y el interés mensual la pendiente. | OA 10 | Patrones y Álgebra |
 | 16 | a) 17 cm (c²=8²+15²=64+225=289; c=√289=17) | OA 12 | Geometría |
-| 17 | b²=15²−9²=225−81=144; b=√144=**12 metros** | OA 12 | Geometría |
-| 18 | 26²=676; 10²+24²=100+576=676; como coinciden, **sí es un triángulo rectángulo** | OA 12 | Geometría |
+| 17 | **a) 12 m.** altura² = 15² − 9² = 144; altura = 12 m. | OA 12 | Geometría |
+| 18 | **d) Sí, porque 10² + 24² = 676 = 26².** Si el cuadrado del lado mayor es igual a la suma de los cuadrados de los otros dos, el triángulo es rectángulo. | OA 12 | Geometría |
 | 19 | a) (−2, −2) (3+(−5), −4+2 = −2, −2) | OA 13 | Geometría |
-| 20 | S' = **(−6, −2)**; la coordenada y cambió de signo, la x se mantuvo igual | OA 13 | Geometría |
+| 20 | **b) (−6, −2).** Al reflejar respecto al eje x cambia el signo de y y se mantiene x. | OA 13 | Geometría |
 | 21 | b) Su resultado es igual o mejor que aproximadamente el 80% de los estudiantes | OA 15 | Datos y Probabilidades |
-| 22 | primera mitad (18,22,26,30): Q1=(22+26)/2=**24**; segunda mitad (34,38,42,50): Q3=(38+42)/2=**40** | OA 15 | Datos y Probabilidades |
-| 23 | el **Grupo C** tiene un rendimiento típico mejor (mediana menor), pero muestra mayor dispersión/un caso más lento que el Grupo D (bigote superior más alto: 30 min vs 24 min); el Grupo D es más lento en su mediana pero más homogéneo | OA 15 | Datos y Probabilidades |
+| 22 | **c) Q1 = 24 y Q3 = 40.** Q1 es la mediana de la primera mitad (22 + 26)/2 = 24 y Q3 la de la segunda (38 + 42)/2 = 40. | OA 15 | Datos y Probabilidades |
+| 23 | **a) El Grupo C tiene un tiempo típico menor, pero tiene al menos un caso mucho más lento que cualquiera de D.** El diagrama permite comparar el valor típico (mediana) y los extremos de cada grupo. | OA 15 | Datos y Probabilidades |
 | 24 | b) Gráfico circular | OA 16 | Datos y Probabilidades |
-| 25 | la diferencia real (6 unidades, cerca de un 3% de aumento) se ve visualmente **mucho mayor** por el truncamiento del eje (200 a 210); se corrige haciendo que el eje vertical **comience en 0** | OA 16 | Datos y Probabilidades |
+| 25 | **d) Exagera visualmente una diferencia de solo 6 unidades (cerca de 3%); se corrige iniciando el eje en 0.** Si un gráfico de barras no comienza en 0, las diferencias pueden verse exageradas. | OA 16 | Datos y Probabilidades |
 
 ### Resumen de cobertura curricular
 
@@ -248,7 +316,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Datos y Probabilidades | 5 | OA 15, 16 |
 | **Total** | **25** | **10 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción habitual del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que el banco de contenido, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite respecto de otro instrumento del mismo curso.
+**Tipo de preguntas:** 25 de alternativas (4 opciones); los distractores corresponden a errores frecuentes de cálculo o de planteamiento. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /08-basico/matematica.md, sin copiar preguntas reales de Mineduc. Esta es la **Forma B** del examen: cubre los mismos 10 OA y la misma distribución de ejes que el banco de contenido, pero con enunciados, valores numéricos y contextos distintos, ninguna pregunta se repite respecto de otro instrumento del mismo curso.
 
 ---
 
@@ -256,16 +324,16 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2 | 1 | 1 |
-| OA 2 | 3, 4 | 1 | 1 |
-| OA 3 | 5, 6 | 1 | 1 |
-| OA 4 | 7, 8, 9 | 1 | 2 |
-| OA 8 | 10, 11, 12 | 1 | 2 |
-| OA 10 | 13, 14, 15 | 2 | 1 |
-| OA 12 | 16, 17, 18 | 1 | 2 |
-| OA 13 | 19, 20 | 1 | 1 |
-| OA 15 | 21, 22, 23 | 1 | 2 |
-| OA 16 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **11** | **14** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2 | 2 |
+| OA 2 | 3, 4 | 2 |
+| OA 3 | 5, 6 | 2 |
+| OA 4 | 7, 8, 9 | 3 |
+| OA 8 | 10, 11, 12 | 3 |
+| OA 10 | 13, 14, 15 | 3 |
+| OA 12 | 16, 17, 18 | 3 |
+| OA 13 | 19, 20 | 2 |
+| OA 15 | 21, 22, 23 | 3 |
+| OA 16 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

@@ -26,29 +26,32 @@ d) Un cometa
 
 ---
 
-**2.** Verdadero o falso: Cuando el Sol se pone y ya no se ve en el cielo,
+**2.** *(Verdadero o falso)* Cuando el Sol se pone y ya no se ve en el cielo,
 decimos que está anocheciendo.
 
-Verdadero ⬜   Falso ⬜
+a) Verdadero
+b) Falso
 
 ---
 
-**3.** Ordena estos momentos del día, desde el que ocurre primero en la
-mañana: atardecer, amanecer, mediodía, noche.
+**3.** ¿Cuál es el orden de los momentos del día, desde el que ocurre primero en
+la mañana?
 
-1) ______________
-2) ______________
-3) ______________
-4) ______________
+a) Amanecer → mediodía → atardecer → noche
+b) Mediodía → amanecer → noche → atardecer
+c) Noche → atardecer → mediodía → amanecer
+d) Atardecer → amanecer → mediodía → noche
 
 ---
 
-**4.** Junta estas palabras según correspondan al día o a la noche: Sol
-visible, estrellas, más calor, Luna, más frío, cielo muy iluminado.
+**4.** *(Varias correctas)* ¿Qué palabras corresponden al **día**? Marca **todas**
+las correctas.
 
-Día: ________________________________
-
-Noche: ______________________________
+a) Sol visible
+b) Estrellas
+c) Más calor
+d) Luna
+e) Cielo muy iluminado
 
 ---
 
@@ -70,12 +73,12 @@ d) La mariposa
 
 ---
 
-**7.** Nombra una actividad que hagas durante el día y otra que hagas durante
-la noche.
+**7.** ¿Qué actividad hacemos normalmente durante el **día**?
 
-Día: ____________________________________
-
-Noche: __________________________________
+a) Dormir toda la noche
+b) Ver las estrellas
+c) Ir a la escuela
+d) Ponerse el pijama para acostarse
 
 ---
 
@@ -83,9 +86,8 @@ Noche: __________________________________
 
 1. c) El Sol
 2. Verdadero
-3. Amanecer → mediodía → atardecer → noche
-4. Día: Sol visible, más calor, cielo muy iluminado. Noche: estrellas, Luna,
-   más frío.
+3. a) Amanecer → mediodía → atardecer → noche
+4. a, c y e — De día el Sol está visible, hace más calor y el cielo está muy iluminado. Las estrellas y la Luna se ven de noche, cuando hace más frío.
 5. b) A la noche
 6. b) El búho
-7. Respuesta libre (por ejemplo, día: ir a la escuela; noche: dormir).
+7. c) Ir a la escuela. Dormir, ver las estrellas y ponerse el pijama son actividades de la noche.

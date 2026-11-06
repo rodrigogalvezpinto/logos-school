@@ -59,11 +59,26 @@ d) Que cerrara las ventanas por la tormenta
 
 **2. (Verdadero o Falso)** "Gracias a que Wladimir juntó la leña, la familia pudo estar calentita esa noche mientras afuera llovía." — Esta afirmación describe una **consecuencia** de una acción del texto.
 
-**3. (Aplicación)** Compara a Valentina y a Wladimir: menciona una característica de cada uno y explica en qué se parecen o se diferencian.
+**3. (Alternativas — comparar personajes)** ¿Qué comparación entre Valentina y Wladimir se apoya en lo que muestra el texto?
 
-**4. (Desarrollo breve)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto "La sorpresa en Caleta Tortel" y cómo se soluciona?
+a) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
+b) Valentina es egoísta y Wladimir es descuidado con sus vecinos; no se parecen en nada, porque cada uno piensa solo en sí mismo
+c) Los dos son personajes que no ayudan a nadie durante la tormenta, porque se quedan en sus casas mirando la lluvia
+d) Wladimir es tímido y no habla con nadie, y Valentina nunca agradece nada de lo que hacen por ella y su familia
 
-**5. (Aplicación — opinión fundamentada)** ¿Estás de acuerdo con la forma en que actuó Wladimir? Da tu opinión y fundaméntala con al menos un dato del texto.
+**4. (Alternativas)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto "La sorpresa en Caleta Tortel" y cómo se soluciona?
+
+a) Valentina se pierde en las pasarelas durante la tormenta; se soluciona porque su mamá sale a buscarla con una linterna
+b) La estufa de la casa se rompe con el frío; se soluciona porque la abuela la arregla antes de que llegue la lluvia
+c) No hay comida en la casa para la noche; se soluciona porque compran sopaipillas en el almacén del pueblo
+d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
+
+**5. (Alternativas — opinión fundamentada)** Martín dice: "Estoy de acuerdo con la forma en que actuó Wladimir". ¿Qué fundamento usa información del texto?
+
+a) Porque me cae bien la gente que se llama Wladimir, y él tiene un nombre muy bonito
+b) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta
+c) Porque en mi casa también hay una estufa a leña y nos gusta mucho calentarnos junto a ella cuando llueve fuerte
+d) Porque las sopaipillas son ricas y a mí también me gusta comerlas cuando llueve
 
 **6. (Alternativas)** Según el poema "El volcán dormido", ¿de qué color es el "manto" que se pone el volcán?
 
@@ -74,9 +89,19 @@ d) Café
 
 **7. (Verdadero o Falso)** La expresión "el volcán se puso su manto blanco" es un ejemplo de **comparación**, porque usa la palabra "como".
 
-**8. (Aplicación)** Lee el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana" e identifica qué figura del lenguaje figurado se usa. Explica tu respuesta.
+**8. (Alternativas — lenguaje figurado)** En el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana", ¿qué figura del lenguaje figurado se usa y por qué?
 
-**9. (Desarrollo breve)** Explica con tus propias palabras qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque".
+a) Una rima, porque todas las palabras del verso terminan con el mismo sonido
+b) Una pregunta, porque el verso tiene signos de interrogación al principio y al final
+c) Una comparación (símil), porque usa "como" para comparar el volcán con una tetera
+d) Una instrucción, porque el verso dice qué hacer cuando el volcán despierta
+
+**9. (Alternativas)** ¿Qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque"?
+
+a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido
+b) Que alguien del pueblo tejió un poncho gigante de lana para abrigar al volcán en invierno
+c) Que en las laderas del volcán hay ferias donde se venden ponchos tejidos a mano
+d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no congelarse
 
 ---
 
@@ -86,16 +111,16 @@ d) Café
 
 **2.** Verdadero. Es una consecuencia porque muestra el resultado de una acción anterior (Wladimir juntó la leña) sobre lo que pasó después (la familia estuvo cómoda y a salvo del frío).
 
-**3.** Respuesta esperada: "Valentina es curiosa y agradecida; Wladimir es observador y generoso. Se parecen en que ambos se preocupan por el bienestar de la familia." Comparar personajes significa identificar semejanzas y diferencias en su forma de ser o actuar, apoyándose en lo que el texto muestra.
+**3.** a) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia. Comparar personajes es identificar semejanzas y diferencias, apoyándose en lo que el texto muestra.
 
-**4.** Respuesta esperada: "El problema es que se acerca una tormenta y necesitan leña para la estufa. Se soluciona porque Wladimir ya había juntado la leña antes de que se lo pidieran." Reconocer la estructura problema-solución ayuda a entender el "hilo" de cualquier historia.
+**4.** d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
 
-**5.** Cualquier opinión (a favor o en contra) siempre que se apoye en información del texto, por ejemplo: "Sí, estoy de acuerdo, porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta." Una buena opinión debe explicar el *porqué* usando información concreta del texto.
+**5.** b) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta. Una buena opinión explica el porqué con información concreta del texto; también se podría opinar distinto, siempre apoyándose en el texto.
 
 **6.** c) Blanco. El poema dice "El volcán se puso su manto blanco", que es una metáfora de la nieve. El gris corresponde al humo, no al manto.
 
 **7.** Falso. Esta expresión es una **metáfora**, porque nombra la nieve directamente como "manto", sin usar la palabra "como". Si dijera "la nieve parece un manto", ahí sí sería una comparación.
 
-**8.** Es una **comparación (símil)**, porque usa la palabra "como" para comparar el sonido y el humo del volcán con una tetera hirviendo. La palabra "como" es la pista más clara para reconocer una comparación.
+**8.** c) Una comparación (símil), porque usa "como" para comparar el volcán con una tetera. La palabra "como" es la pista más clara para reconocer una comparación.
 
-**9.** Respuesta esperada: "las partes de la montaña cerca de la base están cubiertas de vegetación (árboles y bosque), y esa vegetación es tan tupida y colorida que parece un poncho tejido." Explicar un verso con tus propias palabras demuestra que entendiste la imagen que el poeta quiso crear.
+**9.** a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido

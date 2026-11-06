@@ -39,23 +39,33 @@ Lee el siguiente texto y responde las preguntas 1 a 5:
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El bote de mi abuelo"?
 
-a) La pelea entre Tomás y Marcela por haberse ido del pueblo
-b) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
-c) La decisión del abuelo de vender el bote
-d) La falta de dinero de la familia para reparar las redes de pesca
+a) La pelea entre Tomás y Marcela por haberse ido del pueblo a estudiar sin avisar a su familia
+b) La falta de dinero de la familia para reparar las redes de pesca después del último temporal
+c) La decisión del abuelo de vender el bote para pagar los estudios de sus nietos en la ciudad
+d) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
 
 **2. (Verdadero o Falso)** Si el relato estuviera narrado en primera persona por Tomás, el lector tendría el mismo acceso a los gestos y reacciones físicas del padre que no son notados por Tomás.
 
-**3. (Aplicación)** Explica por qué el bote azul puede considerarse un **símbolo** dentro del relato.
+**3. (Alternativas — Aplicación)** ¿Por qué el bote azul puede considerarse un **símbolo** en el relato?
+
+a) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa
+b) Porque es el bote más rápido y moderno del pueblo, y todos los pescadores de la isla quieren comprarlo para salir más lejos a pescar
+c) Porque es solo un objeto de trabajo sin otro sentido: el relato lo menciona para describir el oficio de la familia y la vida en la caleta
+d) Porque Tomás lo vende al final del relato para pagar sus estudios, lo que demuestra que nunca le importó la tradición de su familia
 
 **4. (Alternativas)** ¿A qué **personaje tipo** corresponde el abuelo Wenceslao?
 
 a) El avaro
-b) El sabio o mentor
-c) El antagonista
+b) El antagonista
+c) El sabio o mentor
 d) El pícaro
 
-**5. (Desarrollo breve — relación intertextual)** Explica qué función cumple la mención del Caleuche dentro del relato, más allá de ser un dato folclórico.
+**5. (Alternativas — vínculo intertextual)** ¿Qué función cumple la mención del Caleuche en el relato?
+
+a) Es un dato decorativo sin función: el relato menciona el Caleuche solo para ambientar la historia en Chiloé, sin relación con el mensaje
+b) Anuncia que Tomás se convertirá en marinero del Caleuche al final del relato, como castigo por querer abandonar el mar de su familia
+c) Explica el funcionamiento de un bote de pesca artesanal y las precauciones técnicas que deben tomar los pescadores antes de salir al mar
+d) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia
 
 ---
 
@@ -88,14 +98,19 @@ Lee el siguiente texto y responde las preguntas 6 a 10:
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El turno de las tres"?
 
-a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena
-b) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
-c) La falta de pago del sueldo de Don Héctor
-d) La decisión de Felipe de trabajar en la misma mina que su padre
+a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena y el respeto de los demás mineros
+b) La decisión de Felipe de trabajar en la misma mina que su padre, aunque su familia no está de acuerdo
+c) La falta de pago del sueldo de Don Héctor, que lo obliga a trabajar turnos dobles en la galería
+d) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
 
 **7. (Verdadero o Falso)** El sonido de la sirena en la obra no tiene relación con el desenlace de la historia; es solo un detalle ambiental sin función dramática.
 
-**8. (Aplicación)** Explica qué efecto produce en la escena la decisión de ir oscureciendo progresivamente la iluminación mientras suena la sirena, en lugar de mantener la luz constante.
+**8. (Alternativas — Aplicación)** ¿Qué efecto produce oscurecer progresivamente la iluminación mientras suena la sirena?
+
+a) Indica que la obra terminó y que el público debe salir de la sala antes de que se enciendan las luces
+b) Permite cambiar la escenografía sin que el público lo note, sin otro efecto en el sentido de la escena
+c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
+d) Ninguno: la iluminación es solo decorativa y no se relaciona con lo que ocurre entre los personajes
 
 **9. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Don Héctor como minero?
 
@@ -104,7 +119,12 @@ b) El casco
 c) La galería tres
 d) La lámpara del Capataz
 
-**10. (Desarrollo breve)** Identifica un hecho o comentario dentro de la escena que funcione como una señal temprana (un presagio) del posible desenlace trágico, y explica por qué Don Héctor decide ignorarlo.
+**10. (Alternativas)** ¿Qué funciona como presagio del desenlace trágico y por qué Don Héctor lo ignora?
+
+a) El sonido de los pájaros que salen de la mina; Don Héctor los ignora porque no alcanza a escucharlos con el ruido de las máquinas de la faena
+b) Una carta de su familia que le pide volver a casa; Don Héctor la ignora porque no sabe leer y prefiere no preguntarle a nadie qué dice
+c) Los "ruidos raros" en la galería y la recomendación de la ingeniera de esperar; los ignora porque su identidad de minero experimentado lo hace confiar en su propio juicio
+d) No hay ningún presagio en la escena: Don Héctor sigue la recomendación de la ingeniera y sale de la galería apenas escucha la sirena
 
 ---
 
@@ -118,54 +138,64 @@ Lee el siguiente texto y responde las preguntas 11 a 15:
 
 **11. (Alternativas)** ¿A qué mito alude explícitamente el microcuento "Marejada"?
 
-a) El mito griego de Poseidón
+a) El mito griego de Poseidón, dios del mar
 b) El mito mapuche de Kai Kai Vilu y Trentren Vilu
-c) La leyenda del Caleuche
-d) El mito bíblico del diluvio universal
+c) La leyenda chilota del Caleuche, el barco fantasma
+d) El relato bíblico del diluvio universal y el arca
 
 **12. (Verdadero o Falso)** El microcuento presenta la cosmovisión mapuche y el discurso científico como visiones opuestas, donde una desmiente a la otra.
 
-**13. (Aplicación)** Cita una frase del texto que sustente la hipótesis de que el relato busca poner en diálogo el saber ancestral con el conocimiento científico actual.
+**13. (Alternativas — Aplicación)** ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber ancestral con la ciencia actual?
+
+a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse"
+b) Cualquier frase del relato que mencione el mar, aunque no se relacione con el mito ni con la ciencia
+c) El título del relato, porque resume por sí solo la interpretación sin necesidad de citar el texto
+d) La fecha de publicación del relato, que permite vincularlo con el contexto del cambio climático
 
 **14. (Alternativas)** ¿Con qué contexto histórico se relaciona directamente el microcuento "Marejada"?
 
-a) La colonización española de Chile
+a) La colonización española de Chile y la llegada de nuevos pueblos a la costa
 b) El cambio climático y el aumento documentado del nivel del mar en las últimas décadas
-c) La Guerra del Pacífico
-d) La fundación de las primeras caletas de pescadores en Chile
+c) La Guerra del Pacífico y la pérdida de territorios costeros en el norte del país
+d) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile
 
-**15. (Desarrollo breve — crítica sustentada)** Formula una crítica sobre el microcuento "Marejada" (algo que valores o que consideres una debilidad), sustentándola con al menos una cita o ejemplo del texto.
+**15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Marejada"?
+
+a) "Me gustó mucho el cuento, porque habla del mar y de una abuela que cuenta historias antiguas"
+b) "No me gustó porque es corto y no explica bien qué le pasó a la abuela ni a su familia"
+c) "Es el mejor cuento del mundo, porque mezcla un mito con la ciencia y eso siempre funciona en cualquier relato que se escriba"
+d) "Valoro que no presente el mito como superstición frente a la ciencia, pues ambas explicaciones se funden en la frase final"
 
 ---
 
 ## Pauta de respuestas
 
-**1.** b. El conflicto central organiza tanto las acciones del padre y del abuelo como la reflexión final de Tomás sobre lo que realmente desea.
+**1.** d. El conflicto central organiza tanto las acciones del padre y del abuelo como la reflexión final de Tomás sobre lo que realmente desea.
 
 **2.** Falso. La narración en tercera persona permite mostrar detalles —como los gestos del padre— que el protagonista no necesariamente interpreta o nota; en primera persona, el lector solo accedería a lo que el propio Tomás percibe y elige contar.
 
-**3.** El bote no es solo un objeto de trabajo, sino que representa la herencia familiar y la presión de continuar el oficio y la identidad que la familia asocia a él; su inmovilidad (siempre amarrado en el mismo lugar) refuerza simbólicamente la idea de una tradición fija que Tomás debe decidir si continúa.
+**3.** a) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa. Un símbolo adquiere sentido cuando el objeto se conecta con una idea o tensión central de la historia.
 
-**4.** b. Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor.
+**4.** c. Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor.
 
-**5.** La mención del Caleuche conecta el relato con la mitología y la tradición oral de Chiloé, y refuerza el mensaje del abuelo de que el mar exige respeto, no solo uso; esta relación intertextual enriquece el sentido de la conversación entre abuelo y nieto.
+**5.** d) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia. Una referencia intertextual debe iluminar o profundizar el sentido del texto.
 
-**6.** b. El conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.
+**6.** d. El conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.
 
 **7.** Falso. La sirena, que suena tres veces cada vez más cerca y finalmente de forma continua, funciona como un símbolo sonoro que anuncia progresivamente el desenlace, generando tensión creciente.
 
-**8.** La iluminación decreciente refuerza visualmente el paso del tiempo hacia un desenlace incierto y peligroso, y acompaña la tensión creciente que genera la sirena, intensificando la sensación de que algo grave está por ocurrir sin que los personajes lo digan explícitamente.
+**8.** c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan. Los elementos de la puesta en escena son recursos deliberados para construir sentido y emoción.
 
 **9.** b. El casco, que Don Héctor tiene desde que entró a trabajar en la mina, simboliza su identidad ligada al oficio; el gesto de quitárselo y mirarlo antes de decidir refuerza este sentido.
 
-**10.** El comentario de los compañeros sobre "ruidos raros" en la galería y la recomendación de la ingeniera de esperar hasta el día siguiente funcionan como presagios; Don Héctor los ignora porque su identidad como minero experimentado ("treinta años bajando a esta mina") lo lleva a confiar en su propio juicio del riesgo por sobre las advertencias externas.
+**10.** c) Los "ruidos raros" en la galería y la recomendación de la ingeniera de esperar; los ignora porque su identidad de minero experimentado lo hace confiar en su propio juicio. En las tragedias, los presagios son evidentes para el espectador, pero el personaje los ignora por razones ligadas a su carácter o valores.
 
 **11.** b. El texto menciona explícitamente a Kai Kai Vilu (la serpiente del agua) y Trentren Vilu (la serpiente de la tierra), figuras de la cosmovisión mapuche.
 
 **12.** Falso. El texto pone ambas visiones en diálogo, no en competencia; la voz de la abuela se actualiza con el lenguaje científico, sin que una invalide a la otra.
 
-**13.** Por ejemplo: "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse", que funde el lenguaje mítico con la idea científica de un proceso lento y sostenido de aumento del nivel del mar.
+**13.** a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse". La frase funde el lenguaje mítico con la idea científica de un aumento lento y sostenido del nivel del mar.
 
 **14.** b. El texto sitúa explícitamente los hechos en el contexto actual del cambio climático, mencionando el aumento del nivel del mar y la pérdida de terreno en caletas de pescadores.
 
-**15.** Cualquier crítica razonada y sustentada con una cita concreta del texto; por ejemplo, valorar que el relato evite presentar el mito como algo "supersticioso" frente a la ciencia, apoyándose en que ambas explicaciones se funden en la frase final del texto. Una crítica literaria válida no es solo una opinión, sino una valoración argumentada con evidencia textual.
+**15.** d) "Valoro que no presente el mito como superstición frente a la ciencia, pues ambas explicaciones se funden en la frase final". Una crítica válida es una valoración argumentada con evidencia textual, no solo una opinión.

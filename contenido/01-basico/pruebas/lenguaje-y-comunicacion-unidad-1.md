@@ -40,8 +40,8 @@ c) /t/
 **3.** ¿Con qué sonido termina la palabra "**pan**"?
 
 a) /p/
-b) /n/
-c) /a/
+b) /a/
+c) /n/
 
 ---
 
@@ -84,7 +84,7 @@ c) Porque tomó mucha agua
 
 1. **b) 2** — "Ga-to" se separa en dos partes.
 2. **a) /s/** — "Sapo" empieza igual que "sol".
-3. **b) /n/** — Al decir "pan" despacio, el último sonido es /n/.
+3. **c) /n/** — Al decir "pan" despacio, el último sonido es /n/.
 4. **b) rr** — Con "rr" se lee "perro", con el sonido fuerte.
 5. **a) "chancho"** — Empieza con el sonido "ch", como en "choclo".
 6. **b) Curicó** — El cuento lo dice directamente: "Pepa vive en Curicó".

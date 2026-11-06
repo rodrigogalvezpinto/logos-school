@@ -102,19 +102,22 @@ el ecosistema marino de la Corriente de Humboldt, entre otros.
    **Retroalimentación:** El aire y el agua son elementos no vivos (abióticos), pero
    son esenciales: sin ellos, ningún ser vivo del ecosistema podría sobrevivir.
 
-3. *(Desarrollo breve)* Describe dos elementos vivos y dos elementos no vivos que
-   encontrarías en una caleta de pescadores chilena.
-   **Respuesta esperada:** Vivos, por ejemplo: gaviotas, chungungos, algas, jaibas.
-   No vivos, por ejemplo: agua de mar, rocas, arena, luz solar.
-   **Retroalimentación:** Lo importante es que reconozcas la diferencia: los vivos
-   nacen, crecen, se reproducen y mueren; los no vivos no.
+3. *(Varias correctas)* ¿Cuáles de estos elementos de una caleta de pescadores chilena son **vivos**? Marca **todas** las correctas.
+   a) Gaviotas
+   b) Rocas
+   c) Algas
+   d) Agua de mar
+   e) Jaibas
+   **Respuesta correcta:** a, c y e.
+   **Retroalimentación:** Lo importante es reconocer la diferencia: los vivos (gaviotas, algas, jaibas, chungungos) nacen, crecen, se reproducen y mueren; los no vivos (rocas, agua de mar, arena, luz solar) no.
 
-4. *(Aplicación)* En un estero de la zona central hay peces pequeños, algas, piedras,
-   agua y luz solar. Explica una interacción entre un elemento vivo y uno no vivo.
-   **Respuesta esperada:** Por ejemplo, la luz solar permite que las algas hagan
-   fotosíntesis y produzcan el oxígeno que respiran los peces del estero.
-   **Retroalimentación:** Una buena respuesta muestra cómo un elemento no vivo (luz,
-   agua) hace posible la vida o la actividad de un elemento vivo.
+4. *(Alternativas — aplicación)* En un estero de la zona central hay peces pequeños, algas, piedras, agua y luz solar. ¿Qué afirmación describe correctamente una interacción entre un elemento vivo y uno no vivo?
+   a) La luz solar permite que las algas hagan fotosíntesis y produzcan oxígeno que respiran los peces
+   b) Las piedras se alimentan de las algas y así crecen dentro del agua del estero
+   c) Los peces producen la luz solar del estero, que permite que las algas crezcan
+   d) El agua necesita a los peces para existir, porque ellos la fabrican al respirar
+   **Respuesta correcta:** a) La luz solar permite que las algas hagan fotosíntesis y produzcan oxígeno que respiran los peces.
+   **Retroalimentación:** Una buena respuesta muestra cómo un elemento no vivo (luz, agua) hace posible la vida o la actividad de un elemento vivo.
 
 5. *(Alternativas)* ¿Qué ecosistema chileno es característico por tener pingüinos de
    Humboldt, chungungos y lobos marinos?
@@ -126,14 +129,13 @@ el ecosistema marino de la Corriente de Humboldt, entre otros.
    **Retroalimentación:** Estos animales viven en las costas y aguas frías de la
    Corriente de Humboldt, típica del litoral chileno.
 
-6. *(Predicción — desarrollo breve)* Si en el altiplano chileno la temperatura bajara
-   mucho durante varios días seguidos, ¿qué podría pasar con las plantas y los
-   animales del lugar? Fundamenta tu respuesta.
-   **Respuesta esperada:** Las plantas podrían dañarse por el frío extremo y algunos
-   animales, como las vicuñas, podrían buscar refugio en zonas más bajas o cambiar su
-   conducta para mantener el calor.
-   **Retroalimentación:** La clave es explicar que un cambio en un elemento no vivo
-   (temperatura) afecta directamente a los elementos vivos del ecosistema.
+6. *(Alternativas — predicción)* Si en el altiplano chileno la temperatura bajara mucho durante varios días seguidos, ¿qué podría pasar con las plantas y los animales del lugar?
+   a) Nada, porque la temperatura no afecta a los seres vivos; solo afecta a los elementos no vivos como el agua
+   b) Las plantas crecerían más rápido por el frío, y los animales, como las vicuñas, tendrían más alimento
+   c) Los animales se volverían elementos no vivos por el frío, y las plantas seguirían creciendo igual
+   d) Las plantas podrían dañarse por el frío y algunos animales, como las vicuñas, buscarían refugio o cambiarían su conducta
+   **Respuesta correcta:** d) Las plantas podrían dañarse por el frío y algunos animales, como las vicuñas, buscarían refugio o cambiarían su conducta.
+   **Retroalimentación:** La clave es explicar que un cambio en un elemento no vivo (temperatura) afecta directamente a los elementos vivos del ecosistema.
 
 ---
 
@@ -174,10 +176,10 @@ un pelaje más grueso en invierno que en verano.
 
 1. *(Alternativas)* ¿Por qué el cactus tiene espinas en vez de hojas anchas?
    a) Solo para defenderse de otros animales
-   b) Para reducir la pérdida de agua
+   b) Para crecer más rápido
    c) Para atraer más lluvia
-   d) Para crecer más rápido
-   **Respuesta correcta:** b) Para reducir la pérdida de agua.
+   d) Para reducir la pérdida de agua
+   **Respuesta correcta:** d) Para reducir la pérdida de agua.
    **Retroalimentación:** Las hojas anchas pierden mucha agua por evaporación; las
    espinas tienen menos superficie, lo que ayuda a la planta a conservar agua en
    ambientes muy secos como el desierto.
@@ -189,21 +191,21 @@ un pelaje más grueso en invierno que en verano.
    todo el año y usan otras adaptaciones (pelaje más grueso, cambios de conducta) para
    enfrentar el frío.
 
-3. *(Observación/aplicación)* Imagina un pudú (el ciervo más pequeño del mundo,
-   típico del bosque valdiviano): es de tamaño muy pequeño, tiene patas cortas y
-   pelaje café oscuro. ¿Qué característica externa te permite inferir que vive en un
-   bosque denso y no en una zona abierta como la estepa?
-   **Respuesta esperada:** Su tamaño pequeño y patas cortas le permiten moverse con
-   facilidad entre la vegetación densa del bosque y esconderse de depredadores.
-   **Retroalimentación:** Observar el cuerpo de un animal (tamaño, color, forma) suele
-   dar pistas sobre el tipo de ambiente en el que vive.
+3. *(Alternativas — observación)* Imagina un pudú (el ciervo más pequeño del mundo, típico del bosque valdiviano): es de tamaño muy pequeño, tiene patas cortas y pelaje café oscuro. ¿Qué característica externa permite inferir que vive en un bosque denso y no en una zona abierta como la estepa?
+   a) Que tiene cuatro patas, como todos los animales que viven en el bosque
+   b) Que es un mamífero con pelaje, y todos los mamíferos viven en bosques densos
+   c) Que respira por la nariz, lo que le permite oler a otros animales en la estepa abierta y escapar a tiempo
+   d) Su tamaño pequeño y sus patas cortas, que le permiten moverse entre la vegetación densa y esconderse
+   **Respuesta correcta:** d) Su tamaño pequeño y sus patas cortas, que le permiten moverse entre la vegetación densa y esconderse.
+   **Retroalimentación:** Observar el cuerpo de un animal (tamaño, color, forma) suele dar pistas sobre el tipo de ambiente en el que vive. Tener cuatro patas o ser mamífero no distingue su hábitat.
 
-4. *(Desarrollo breve)* Explica una adaptación conductual y una adaptación
-   estructural del guanaco para vivir en la Patagonia.
-   **Respuesta esperada:** Estructural: patas largas con almohadillas y lana gruesa.
-   Conductual: vivir en manadas para protegerse de depredadores.
-   **Retroalimentación:** Recuerda que "estructural" se refiere al cuerpo, y
-   "conductual" a la forma de comportarse.
+4. *(Alternativas)* ¿Qué pareja muestra correctamente una adaptación **estructural** y una **conductual** del guanaco para vivir en la Patagonia?
+   a) Estructural: vivir en manadas para protegerse. Conductual: tener lana gruesa contra el frío
+   b) Estructural: dormir de día para ahorrar energía. Conductual: tener patas largas para correr
+   c) Estructural: lana gruesa y patas con almohadillas. Conductual: vivir en manadas para protegerse
+   d) Estructural: comer pasto de la estepa. Conductual: tener pelaje café para camuflarse
+   **Respuesta correcta:** c) Estructural: lana gruesa y patas con almohadillas. Conductual: vivir en manadas para protegerse.
+   **Retroalimentación:** Recuerda que "estructural" se refiere al cuerpo (lana, patas), y "conductual" a la forma de comportarse (vivir en manadas).
 
 5. *(Alternativas)* El color de piel de una lagartija, que se camufla entre las
    rocas de la cordillera, es un ejemplo de adaptación:
@@ -215,12 +217,13 @@ un pelaje más grueso en invierno que en verano.
    **Retroalimentación:** El camuflaje por color de piel es una característica del
    cuerpo del animal, por lo tanto es una adaptación estructural.
 
-6. *(Aplicación)* Describe cómo cambia el pelaje del zorro culpeo entre el verano y
-   el invierno, y explica por qué ese cambio lo ayuda a sobrevivir.
-   **Respuesta esperada:** En invierno su pelaje es más grueso y denso para
-   conservar el calor corporal; en verano es más liviano para evitar el sobrecalentamiento.
-   **Retroalimentación:** Esta es una adaptación estructural que varía según la
-   estación del año, como pide el indicador oficial.
+6. *(Alternativas — aplicación)* ¿Cómo cambia el pelaje del zorro culpeo entre el verano y el invierno, y por qué lo ayuda a sobrevivir?
+   a) En invierno es más grueso y denso para conservar el calor; en verano es más liviano para no sobrecalentarse
+   b) En invierno es más liviano para sentir el frío y despertar; en verano es más grueso para protegerse del sol
+   c) No cambia entre estaciones: tiene el mismo pelaje todo el año porque el clima no lo afecta
+   d) Se le cae todo en invierno para correr más rápido sobre la nieve y atrapar a sus presas
+   **Respuesta correcta:** a) En invierno es más grueso y denso para conservar el calor; en verano es más liviano para no sobrecalentarse.
+   **Retroalimentación:** Esta es una adaptación estructural que varía según la estación del año, como pide el indicador oficial.
 
 ---
 
@@ -263,10 +266,10 @@ los guanacos en la Patagonia— esto afecta a todos los demás niveles: los puma
 1. *(Alternativas)* En la cadena alimentaria "pasto → guanaco → puma", el guanaco
    cumple el rol de:
    a) Productor
-   b) Consumidor primario
+   b) Descomponedor
    c) Consumidor secundario
-   d) Descomponedor
-   **Respuesta correcta:** b) Consumidor primario.
+   d) Consumidor primario
+   **Respuesta correcta:** d) Consumidor primario.
    **Retroalimentación:** El guanaco se alimenta directamente del pasto (un
    productor), por lo que es un consumidor primario.
 
@@ -277,20 +280,21 @@ los guanacos en la Patagonia— esto afecta a todos los demás niveles: los puma
    la materia orgánica muerta y devuelven nutrientes al suelo, que luego son
    aprovechados por los productores (plantas).
 
-3. *(Aplicación — ordenar)* Ordena esta cadena alimentaria marina chilena, desde el
-   productor hasta el consumidor de mayor nivel: lobo marino — fitoplancton —
-   pingüino de Humboldt — anchoveta.
-   **Respuesta correcta:** Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino.
-   **Retroalimentación:** El fitoplancton es el productor porque realiza fotosíntesis;
-   a partir de ahí, cada organismo se alimenta del anterior.
+3. *(Alternativas — ordenar)* ¿Cuál es el orden de esta cadena alimentaria marina chilena, desde el productor hasta el consumidor de mayor nivel?
+   a) Lobo marino → pingüino de Humboldt → anchoveta → fitoplancton
+   b) Anchoveta → fitoplancton → lobo marino → pingüino de Humboldt
+   c) Fitoplancton → pingüino de Humboldt → anchoveta → lobo marino
+   d) Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino
+   **Respuesta correcta:** d) Fitoplancton → anchoveta → pingüino de Humboldt → lobo marino.
+   **Retroalimentación:** El fitoplancton es el productor porque realiza fotosíntesis; a partir de ahí, cada organismo se alimenta del anterior.
 
-4. *(Desarrollo breve)* ¿Qué pasaría con la población de pumas en la Patagonia si
-   disminuyera bruscamente la cantidad de guanacos? Explica tu razonamiento.
-   **Respuesta esperada:** Los pumas tendrían menos alimento disponible, por lo que su
-   población también podría disminuir, ya que dependen de los guanacos como fuente
-   principal de alimento.
-   **Retroalimentación:** Esto muestra cómo un cambio en un nivel de la cadena afecta
-   a los niveles siguientes.
+4. *(Alternativas)* ¿Qué pasaría con la población de pumas en la Patagonia si disminuyera bruscamente la cantidad de guanacos?
+   a) Podría disminuir, porque los pumas tendrían menos alimento disponible
+   b) Aumentaría, porque habría más espacio libre para cazar
+   c) No cambiaría, porque los pumas comen pasto y no guanacos
+   d) Los pumas se convertirían en productores y harían su alimento
+   **Respuesta correcta:** a) Podría disminuir, porque los pumas tendrían menos alimento disponible.
+   **Retroalimentación:** Esto muestra cómo un cambio en un nivel de la cadena afecta a los niveles siguientes: los pumas dependen de los guanacos como fuente principal de alimento.
 
 5. *(Alternativas)* ¿Cuál de estos organismos es un productor?
    a) Puma
@@ -301,13 +305,13 @@ los guanacos en la Patagonia— esto afecta a todos los demás niveles: los puma
    **Retroalimentación:** Las algas, al igual que las plantas, producen su propio
    alimento mediante fotosíntesis, por eso son productoras.
 
-6. *(Aplicación)* Crea una cadena alimentaria de tres eslabones usando organismos de
-   un ecosistema chileno que conozcas (puede ser el jardín de tu casa, un parque o el
-   campo), indicando el rol de cada organismo.
-   **Respuesta esperada:** Cualquier secuencia coherente de productor → consumidor
-   primario → consumidor secundario, con organismos reales del entorno del estudiante.
-   **Retroalimentación:** Lo importante es que cada organismo esté en el rol correcto
-   y que la relación de alimentación tenga sentido.
+6. *(Alternativas — aplicación)* ¿Cuál de estas es una cadena alimentaria de tres eslabones **bien construida**, con cada organismo en su rol?
+   a) Zorro (productor) → conejo (consumidor primario) → pasto (consumidor secundario)
+   b) Conejo (productor) → pasto (consumidor primario) → zorro (consumidor secundario)
+   c) Pasto (productor) → conejo (consumidor primario) → zorro (consumidor secundario)
+   d) Pasto (productor) → zorro (consumidor primario) → conejo (consumidor secundario)
+   **Respuesta correcta:** c) Pasto (productor) → conejo (consumidor primario) → zorro (consumidor secundario).
+   **Retroalimentación:** Lo importante es que cada organismo esté en el rol correcto y que la relación de alimentación tenga sentido: el productor hace fotosíntesis, el primario lo come y el secundario come al primario. Intenta crear tu propia cadena con organismos de tu entorno.
 
 ---
 
@@ -350,10 +354,10 @@ músculos, y mejora la coordinación de todo el sistema.
 
 1. *(Alternativas)* ¿Qué estructura une el músculo al hueso?
    a) Articulación
-   b) Tendón
+   b) Piel
    c) Cartílago
-   d) Piel
-   **Respuesta correcta:** b) Tendón.
+   d) Tendón
+   **Respuesta correcta:** d) Tendón.
    **Retroalimentación:** El tendón es una estructura fuerte y fibrosa que conecta el
    músculo con el hueso y transmite la fuerza necesaria para el movimiento.
 
@@ -363,34 +367,37 @@ músculos, y mejora la coordinación de todo el sistema.
    **Retroalimentación:** Los huesos no pueden moverse solos: necesitan la fuerza que
    generan los músculos al contraerse, transmitida a través de los tendones.
 
-3. *(Desarrollo breve)* Explica, usando el ejemplo del brazo, cómo actúan juntos los
-   huesos, músculos y tendones para doblar el codo.
-   **Respuesta esperada:** El músculo bíceps se contrae, el tendón transmite esa
-   fuerza al hueso del antebrazo, y la articulación del codo permite que el hueso gire.
-   **Retroalimentación:** Una buena respuesta menciona las tres estructuras y su rol
-   específico en el movimiento.
+3. *(Alternativas)* Usando el ejemplo del brazo, ¿cómo actúan juntos los huesos, músculos y tendones para doblar el codo?
+   a) El bíceps se contrae, el tendón transmite esa fuerza al hueso del antebrazo y la articulación del codo permite el giro
+   b) El hueso del brazo se contrae y se acorta, mientras el músculo se queda quieto y el tendón lo empuja
+   c) El tendón piensa y da la orden de moverse, y el hueso del antebrazo se dobla solo por la mitad
+   d) La articulación del codo empuja al músculo hacia el hombro, y el hueso se estira para alcanzar la mano
+   **Respuesta correcta:** a) El bíceps se contrae, el tendón transmite esa fuerza al hueso del antebrazo y la articulación del codo permite el giro.
+   **Retroalimentación:** Una buena respuesta menciona las tres estructuras y su rol específico en el movimiento: el músculo genera la fuerza, el tendón la transmite y el hueso con la articulación permiten moverse.
 
-4. *(Aplicación)* Menciona dos beneficios de hacer actividad física de forma regular
-   (como jugar fútbol o andar en bicicleta) para tus huesos y músculos.
-   **Respuesta esperada:** Por ejemplo: huesos más fuertes y densos, músculos más
-   resistentes, mejor coordinación de movimientos.
-   **Retroalimentación:** El ejercicio habitual fortalece el sistema músculo-esquelético
-   completo, no solo un tipo de estructura.
+4. *(Varias correctas — aplicación)* ¿Cuáles son beneficios de hacer actividad física de forma regular para tus huesos y músculos? Marca **todas** las correctas.
+   a) Huesos más fuertes y densos
+   b) Músculos más resistentes
+   c) Huesos más frágiles
+   d) Mejor coordinación de movimientos
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** El ejercicio habitual fortalece el sistema músculo-esquelético completo, no solo un tipo de estructura; no debilita los huesos.
 
 5. *(Alternativas)* La articulación es la estructura que:
-   a) Da fuerza al músculo
+   a) Da fuerza al músculo para que se contraiga
    b) Permite el movimiento entre dos huesos
    c) Transporta la sangre por el cuerpo
-   d) Protege el cerebro
+   d) Protege el cerebro y los órganos de la cabeza
    **Respuesta correcta:** b) Permite el movimiento entre dos huesos.
    **Retroalimentación:** Las articulaciones son los "puntos de unión" entre huesos
    que hacen posible que el cuerpo se doble, gire o se extienda.
 
-6. *(Observación/aplicación)* Dobla tu propio brazo llevando la mano hacia el hombro.
-   ¿Qué músculo se contrae en ese movimiento: el bíceps o el tríceps?
-   **Respuesta correcta:** El bíceps.
-   **Retroalimentación:** El bíceps se contrae para doblar el codo (flexión); el
-   tríceps se contrae cuando estiras el brazo (extensión).
+6. *(Alternativas — observación)* Dobla tu propio brazo llevando la mano hacia el hombro. ¿Qué músculo se contrae en ese movimiento?
+   a) El bíceps
+   b) El tríceps
+   c) Ninguno
+   **Respuesta correcta:** a) El bíceps.
+   **Retroalimentación:** El bíceps se contrae para doblar el codo (flexión); el tríceps se contrae cuando estiras el brazo (extensión).
 
 ---
 
@@ -445,22 +452,21 @@ inmediato se genera la orden de retirar la mano.
    (lo que sentimos) hacia el sistema nervioso central, y órdenes motoras hacia los
    músculos.
 
-3. *(Relacionar/aplicación)* En un esquema del cuerpo humano, identifica: la
-   estructura ubicada en la cabeza, la que recorre la espalda dentro de la columna, y
-   las que se extienden por todo el cuerpo.
-   **Respuesta correcta:** Cabeza: cerebro. Columna: médula espinal. Todo el cuerpo:
-   nervios.
-   **Retroalimentación:** Ubicar correctamente cada estructura te ayuda a recordar su
-   función específica.
+3. *(Alternativas — ubicar estructuras)* En un esquema del cuerpo humano, ¿qué combinación ubica bien cada estructura del sistema nervioso?
+   a) Cabeza: médula espinal. Columna: cerebro. Todo el cuerpo: nervios
+   b) Cabeza: nervios. Columna: cerebro. Todo el cuerpo: médula espinal
+   c) Cabeza: cerebro. Columna: nervios. Todo el cuerpo: médula espinal
+   d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios
+   **Respuesta correcta:** d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios.
+   **Retroalimentación:** Ubicar correctamente cada estructura te ayuda a recordar su función específica.
 
-4. *(Desarrollo breve)* Explica qué ocurre en tu sistema nervioso cuando tocas
-   accidentalmente algo muy caliente y retiras la mano rápidamente.
-   **Respuesta esperada:** Los nervios de la mano detectan el calor y envían la
-   señal hacia la médula espinal y el cerebro, que procesan la información y generan
-   la orden de retirar la mano rápidamente.
-   **Retroalimentación:** Este es un buen ejemplo de cómo se conduce y elabora la
-   información: nervios (conducción), médula espinal (conducción) y cerebro
-   (elaboración y control).
+4. *(Alternativas)* ¿Qué ocurre en tu sistema nervioso cuando tocas accidentalmente algo muy caliente y retiras la mano rápidamente?
+   a) El cerebro siente el calor directamente a través de la piel, sin usar los nervios, y la mano se mueve sola
+   b) Los nervios de la mano detectan el calor y envían la señal a la médula espinal y al cerebro, que generan la orden de retirar la mano
+   c) Los músculos del brazo deciden solos retirar la mano, sin enviar ninguna señal a la médula ni al cerebro
+   d) La piel guarda el calor hasta que el cerebro lo olvida, y entonces los nervios dejan de sentir el dolor
+   **Respuesta correcta:** b) Los nervios de la mano detectan el calor y envían la señal a la médula espinal y al cerebro, que generan la orden de retirar la mano.
+   **Retroalimentación:** Este es un buen ejemplo de cómo se conduce y elabora la información: nervios (conducción), médula espinal (conducción) y cerebro (elaboración y control).
 
 5. *(Alternativas)* La médula espinal se encuentra protegida dentro de:
    a) El cráneo
@@ -471,13 +477,13 @@ inmediato se genera la orden de retirar la mano.
    **Retroalimentación:** La columna vertebral protege la médula espinal, que es una
    estructura delicada y muy importante para conducir información en todo el cuerpo.
 
-6. *(Aplicación)* Explica con tus palabras la diferencia entre la función del
-   cerebro y la función de los nervios.
-   **Respuesta esperada:** El cerebro elabora, piensa y controla la información;
-   los nervios solo la conducen (la transportan) hacia y desde el cerebro y la médula
-   espinal.
-   **Retroalimentación:** Distinguir "elaborar/controlar" de "conducir" es clave para
-   entender cómo se organiza el sistema nervioso.
+6. *(Alternativas — aplicación)* ¿Cuál es la diferencia entre la función del cerebro y la de los nervios?
+   a) Los nervios piensan y toman decisiones; el cerebro solo transporta la información hacia los músculos
+   b) Los dos hacen exactamente lo mismo: ambos piensan y conducen la información por todo el cuerpo
+   c) El cerebro elabora y controla la información; los nervios la conducen hacia y desde el cerebro y la médula
+   d) El cerebro mueve los huesos directamente y los nervios ayudan a digerir los alimentos en el estómago
+   **Respuesta correcta:** c) El cerebro elabora y controla la información; los nervios la conducen hacia y desde el cerebro y la médula.
+   **Retroalimentación:** Distinguir "elaborar/controlar" de "conducir" es clave para entender cómo se organiza el sistema nervioso.
 
 ---
 
@@ -539,39 +545,39 @@ convierte en vapor al hervir.
    **Retroalimentación:** A diferencia de los sólidos y líquidos, los gases se
    expanden libremente hasta llenar el espacio en el que se encuentran.
 
-3. *(Aplicación/clasificación)* Clasifica estos elementos en sólido, líquido o
-   gaseoso: jugo de frutilla, una silla de madera, el aire que respiras, un cubo de
-   hielo, el humo de una fogata.
-   **Respuesta correcta:** Líquido: jugo de frutilla. Sólido: silla de madera, cubo
-   de hielo. Gaseoso: aire, humo.
-   **Retroalimentación:** Fíjate si el material mantiene su forma (sólido), toma la
-   forma del recipiente (líquido) o se dispersa en el aire (gaseoso).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos elementos están en estado **gaseoso**? Marca **todas** las correctas.
+   a) Jugo de frutilla
+   b) El aire que respiras
+   c) Un cubo de hielo
+   d) El humo de una fogata
+   **Respuesta correcta:** b y d.
+   **Retroalimentación:** El aire y el humo se dispersan (gaseoso); el jugo toma la forma del recipiente (líquido); la silla y el hielo mantienen su forma (sólido).
 
-4. *(Desarrollo breve)* Explica con tus palabras la diferencia entre la capacidad de
-   fluir de un sólido y de un líquido, dando un ejemplo de cada uno.
-   **Respuesta esperada:** Un sólido no fluye, mantiene su forma (por ejemplo, una
-   piedra); un líquido sí fluye y se adapta a la forma del recipiente (por ejemplo, el
-   agua).
-   **Retroalimentación:** La capacidad de fluir es una de las principales diferencias
-   entre los estados de la materia.
+4. *(Alternativas)* ¿Qué afirmación sobre la capacidad de fluir de sólidos y líquidos es correcta?
+   a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua)
+   b) Un sólido fluye y se adapta al recipiente (como una piedra); un líquido mantiene su forma (como el agua)
+   c) Los sólidos y los líquidos fluyen de la misma manera y toman la forma de cualquier recipiente
+   d) Ninguno de los dos puede fluir: ambos mantienen siempre su forma, sin importar el recipiente
+   **Respuesta correcta:** a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua).
+   **Retroalimentación:** La capacidad de fluir es una de las principales diferencias entre los estados de la materia.
 
 5. *(Alternativas)* Si viertes agua en distintos recipientes (un vaso, una botella, un
    plato), ¿qué ocurre con su forma?
-   a) Se mantiene igual siempre
+   a) Se mantiene igual en todos los recipientes
    b) Se adapta a la forma del recipiente
-   c) Desaparece
-   d) Se vuelve sólida
+   c) Desaparece al cambiar de recipiente
+   d) Se vuelve sólida dentro del recipiente
    **Respuesta correcta:** b) Se adapta a la forma del recipiente.
    **Retroalimentación:** Es una característica clave de los líquidos: no tienen
    forma propia, toman la del recipiente que los contiene.
 
-6. *(Aplicación)* Piensa en el vapor que sale de una olla con agua hirviendo. ¿En qué
-   estado de la materia se encuentra? Justifica tu respuesta usando el criterio de
-   forma y volumen.
-   **Respuesta esperada:** Está en estado gaseoso, porque no tiene forma ni volumen
-   fijo: se dispersa y ocupa el espacio del ambiente.
-   **Retroalimentación:** Reconocer el vapor como gas (y no como líquido) es un punto
-   que suele confundir; la clave es que no mantiene ni forma ni volumen propio.
+6. *(Alternativas — aplicación)* Piensa en el vapor que sale de una olla con agua hirviendo. ¿En qué estado de la materia se encuentra, según el criterio de forma y volumen?
+   a) Líquido, porque viene del agua que está en la olla y se puede volver a juntar
+   b) Sólido, porque se puede ver salir de la olla
+   c) Líquido, porque tiene volumen fijo y toma la forma de la cocina donde está
+   d) Gaseoso, porque no tiene forma ni volumen fijo y se dispersa en el ambiente
+   **Respuesta correcta:** d) Gaseoso, porque no tiene forma ni volumen fijo y se dispersa en el ambiente.
+   **Retroalimentación:** Reconocer el vapor como gas (y no como líquido) es un punto que suele confundir; la clave es que no mantiene ni forma ni volumen propio.
 
 ---
 
@@ -635,36 +641,38 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    **Retroalimentación:** El núcleo es, al contrario, la capa con mayor temperatura
    de todo el planeta.
 
-3. *(Relacionar/aplicación)* Usando el modelo de un damasco (durazno), indica qué
-   parte representa la corteza, cuál el manto y cuál el núcleo.
-   **Respuesta correcta:** Cáscara = corteza. Pulpa = manto. Carozo = núcleo.
-   **Retroalimentación:** Este modelo ayuda a visualizar tanto la posición como el
-   grosor relativo de cada capa.
+3. *(Alternativas — modelo)* En el modelo de un damasco (durazno), ¿qué combinación representa bien las capas de la Tierra?
+   a) Cáscara = núcleo. Pulpa = corteza. Carozo = manto
+   b) Cáscara = corteza. Pulpa = manto. Carozo = núcleo
+   c) Cáscara = manto. Pulpa = núcleo. Carozo = corteza
+   d) Cáscara = corteza. Pulpa = núcleo. Carozo = manto
+   **Respuesta correcta:** b) Cáscara = corteza. Pulpa = manto. Carozo = núcleo.
+   **Retroalimentación:** Este modelo ayuda a visualizar tanto la posición como el grosor relativo de cada capa.
 
-4. *(Desarrollo breve)* Ordena las capas de la Tierra desde la más externa hasta la
-   más interna, indicando la rigidez y la temperatura de cada una.
-   **Respuesta esperada:** Corteza (la más rígida y la más externa, con la temperatura
-   más baja) → manto (predominantemente sólido, fluye muy lentamente, capa intermedia) → núcleo (el más
-   interno, compuesto por metales y con la temperatura más alta).
-   **Retroalimentación:** Comparar rigidez, posición y temperatura al mismo tiempo
-   ayuda a entender cómo se relacionan las tres capas entre sí.
+4. *(Alternativas)* ¿Qué descripción ordena bien las capas de la Tierra desde la más externa a la más interna?
+   a) Núcleo (el más frío, de hielo) → manto (líquido, de agua caliente) → corteza (la más caliente, de metales)
+   b) Manto (la más externa y rígida) → corteza (de roca líquida que fluye) → núcleo (la capa más fría)
+   c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente)
+   d) Corteza (líquida y caliente, con lava) → núcleo (metales, el más frío) → manto (roca rígida y delgada)
+   **Respuesta correcta:** c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente).
+   **Retroalimentación:** Comparar rigidez, posición y temperatura al mismo tiempo ayuda a entender cómo se relacionan las tres capas entre sí.
 
 5. *(Alternativas)* El manto terrestre se caracteriza por:
-   a) Ser sólido y frío
+   a) Ser sólido y frío, formado por hielo y rocas que nunca se mueven
    b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente
-   c) Ser la capa más externa
-   d) Tener la temperatura más baja de las tres capas
+   c) Ser la capa más externa, donde están los océanos y las montañas
+   d) Tener la temperatura más baja de las tres capas, por estar lejos del Sol
    **Respuesta correcta:** b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente.
    **Retroalimentación:** Aunque es mayormente sólido, el manto puede deformarse y
    fluir muy lentamente durante millones de años; solo algunas zonas están parcialmente fundidas.
 
-6. *(Aplicación)* ¿Por qué crees que la corteza terrestre, siendo tan delgada en
-   comparación con las otras capas, puede tener montañas, volcanes y océanos?
-   **Respuesta esperada:** Aunque es delgada, la corteza es sólida y rígida, y sus
-   movimientos e interacciones con el manto (por ejemplo, el movimiento de placas)
-   generan montañas, volcanes y otras formas del relieve.
-   **Retroalimentación:** Esta pregunta conecta con el OA 16: los cambios en la
-   superficie terrestre se explican por la interacción entre las capas.
+6. *(Alternativas — aplicación)* ¿Por qué la corteza terrestre, siendo tan delgada en comparación con las otras capas, puede tener montañas, volcanes y océanos?
+   a) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (como el movimiento de placas) generan esas formas del relieve
+   b) Porque es la capa más gruesa de la Tierra, y su gran espesor le permite acumular montañas, volcanes y océanos encima
+   c) Porque está hecha solo de agua y de lava, que al enfriarse forman las montañas y al calentarse forman los océanos
+   d) Porque el núcleo está en la superficie y su calor derrite la corteza, formando volcanes y océanos donde se hunde
+   **Respuesta correcta:** a) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (como el movimiento de placas) generan esas formas del relieve.
+   **Retroalimentación:** Esta pregunta conecta con el OA 16: los cambios en la superficie terrestre se explican por la interacción entre las capas.
 
 ---
 
@@ -727,22 +735,21 @@ volcanes muy conocidos, como el Villarrica, el Llaima y el Osorno.
    **Retroalimentación:** La mayoría de los tsunamis que afectan la costa chilena son
    producidos por terremotos submarinos, no por erupciones volcánicas.
 
-3. *(Desarrollo breve)* Explica con tus palabras por qué Chile es un país donde
-   ocurren muchos sismos.
-   **Respuesta esperada:** Porque se ubica en el límite entre la placa de Nazca y la
-   placa Sudamericana, que interactúan y liberan energía constantemente por el
-   proceso de subducción.
-   **Retroalimentación:** La clave es mencionar el movimiento y la interacción entre
-   ambas placas tectónicas.
+3. *(Alternativas)* ¿Por qué Chile es un país donde ocurren muchos sismos?
+   a) Porque tiene muchos ríos que bajan con fuerza desde la cordillera hasta el mar y van moviendo el suelo por donde pasan
+   b) Porque está lejos del océano y la tierra se seca y se agrieta con facilidad
+   c) Porque en Chile hace mucho frío en invierno y el hielo rompe las rocas del suelo
+   d) Porque se ubica en el límite entre la placa de Nazca y la placa Sudamericana, que interactúan y liberan energía
+   **Respuesta correcta:** d) Porque se ubica en el límite entre la placa de Nazca y la placa Sudamericana, que interactúan y liberan energía.
+   **Retroalimentación:** La clave es mencionar el movimiento y la interacción entre ambas placas tectónicas (proceso de subducción).
 
-4. *(Comparación/aplicación)* Compara un terremoto y una erupción volcánica: ¿cuál de
-   los dos puede transformar el paisaje formando una nueva montaña, y cuál puede
-   generar un tsunami si ocurre bajo el mar?
-   **Respuesta esperada:** La erupción volcánica puede formar o hacer crecer una
-   montaña (el volcán) por acumulación de lava y ceniza; el terremoto, si ocurre bajo
-   el océano, puede generar un tsunami al mover una gran masa de agua.
-   **Retroalimentación:** Ambos fenómenos transforman el paisaje, pero de maneras muy
-   distintas: uno por acumulación de material, el otro por movimiento repentino.
+4. *(Alternativas — comparar)* Compara un terremoto y una erupción volcánica. ¿Qué afirmación es correcta?
+   a) El terremoto forma montañas de lava; la erupción bajo el mar genera tsunamis que derriten la costa
+   b) La erupción puede formar o hacer crecer una montaña; el terremoto bajo el mar puede generar un tsunami
+   c) Ninguno de los dos transforma el paisaje: los cambios del relieve solo los produce la lluvia
+   d) Los dos son exactamente el mismo fenómeno, solo que la erupción ocurre de noche
+   **Respuesta correcta:** b) La erupción puede formar o hacer crecer una montaña; el terremoto bajo el mar puede generar un tsunami.
+   **Retroalimentación:** Ambos fenómenos transforman el paisaje, pero de maneras muy distintas: uno por acumulación de material (lava y ceniza), el otro por movimiento repentino.
 
 5. *(Alternativas)* ¿Qué proceso ocurre cuando la placa de Nazca se introduce
    lentamente bajo la placa Sudamericana?
@@ -754,13 +761,13 @@ volcanes muy conocidos, como el Villarrica, el Llaima y el Osorno.
    **Retroalimentación:** La subducción es el proceso por el cual una placa más
    densa se hunde bajo otra, y es una de las principales causas de los sismos en Chile.
 
-6. *(Aplicación)* Nombra un volcán chileno y describe un cambio que podría producir
-   en el paisaje durante una erupción.
-   **Respuesta esperada:** Por ejemplo, el volcán Villarrica: durante una erupción
-   podría expulsar lava y ceniza, cubriendo zonas cercanas, cambiando el curso de
-   esteros o formando nuevas capas de roca en sus laderas.
-   **Retroalimentación:** Cualquier volcán chileno real (Villarrica, Llaima, Osorno,
-   entre otros) es válido si la descripción del cambio en el paisaje es coherente.
+6. *(Alternativas — aplicación)* ¿Qué afirmación sobre un volcán chileno y su efecto en el paisaje es correcta?
+   a) El volcán Villarrica está en el desierto de Atacama y no puede hacer erupción
+   b) Durante una erupción, los volcanes absorben la lava y la ceniza del paisaje que los rodea
+   c) El volcán Villarrica, en una erupción, podría expulsar lava y ceniza y cubrir zonas cercanas
+   d) Chile no tiene volcanes activos, solo montañas que nunca han hecho erupción
+   **Respuesta correcta:** c) El volcán Villarrica, en una erupción, podría expulsar lava y ceniza y cubrir zonas cercanas.
+   **Retroalimentación:** Cualquier volcán chileno real (Villarrica, Llaima, Osorno, entre otros) puede cambiar el paisaje: cubrir zonas con ceniza, cambiar el curso de esteros o formar nuevas capas de roca en sus laderas.
 
 ---
 

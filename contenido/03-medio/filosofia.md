@@ -114,10 +114,10 @@ que preguntarse qué significa exactamente "justicia".
 1. *(Alternativas — simple)* Según la tradición filosófica griega, ¿cuál es
    el origen de la actitud filosófica?
    a) La necesidad económica.
-   b) El asombro frente al mundo.
+   b) El miedo a la muerte.
    c) La obligación escolar.
-   d) El miedo a la muerte.
-   **Respuesta correcta:** b.
+   d) El asombro frente al mundo.
+   **Respuesta correcta:** d.
    **Retroalimentación:** Platón y Aristóteles coinciden en que la filosofía
    nace del *thauma* (asombro): dejar de dar las cosas por obvias y empezar
    a preguntarse por sus causas y su sentido.
@@ -131,27 +131,21 @@ que preguntarse qué significa exactamente "justicia".
    preguntas como "¿cuál es tu color favorito?" tampoco son filosóficas: son
    simplemente subjetivas, no exigen fundamentación racional.
 
-3. *(Clasificar — simple)* Clasifica cada pregunta como filosófica (F) o no
-   filosófica (NF): (i) "¿Qué distancia hay entre la Tierra y la Luna?"; (ii)
-   "¿Puede una máquina pensar de verdad?"; (iii) "¿Cuánto cuesta el pasaje de
-   metro en Santiago?"; (iv) "¿Qué hace que una acción sea moralmente buena?"
-   **Respuesta correcta:** (i) NF, (ii) F, (iii) NF, (iv) F.
-   **Retroalimentación:** Las preguntas NF se responden con datos empíricos
-   verificables; las F exigen clarificar conceptos ("pensar", "bueno") y
-   argumentar, no solo medir o contar.
+3. *(Varias correctas — Clasificar — simple)* ¿Cuáles de estas preguntas son **filosóficas**? Marca **todas** las correctas.
+   a) "¿Puede una máquina pensar de verdad?"
+   b) "¿Qué hace que una acción sea moralmente buena?"
+   c) "¿Qué distancia hay entre la Tierra y la Luna?"
+   d) "¿Cuánto cuesta el pasaje de metro en Santiago?"
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Las preguntas no filosóficas se responden con datos empíricos; las filosóficas exigen clarificar conceptos ("pensar", "bueno") y argumentar.
 
-4. *(Análisis de caso — intermedio)* Un estudiante sostiene: "Yo no filosofo,
-   solo tengo mis opiniones sobre la vida." Explica, usando la distinción
-   entre opinión (*doxa*) y filosofía, por qué esta afirmación es
-   discutible.
-   **Respuesta esperada:** La diferencia no es tener o no tener creencias
-   sobre la vida, sino si esas creencias se examinan y se fundamentan con
-   razones o se sostienen sin cuestionarlas. Si el estudiante empieza a
-   preguntarse por qué cree lo que cree y busca justificarlo con argumentos,
-   ya está filosofando, aunque no lo llame así.
-   **Retroalimentación:** El quehacer filosófico no depende de usar
-   vocabulario técnico, sino de la actitud de examinar y fundamentar las
-   propias creencias en vez de darlas por sentadas.
+4. *(Alternativas — Análisis de caso — intermedio)* Un estudiante sostiene: "Yo no filosofo, solo tengo mis opiniones sobre la vida". ¿Por qué esta afirmación es discutible?
+   a) Porque la diferencia no está en tener creencias, sino en examinarlas y fundamentarlas con razones; si se pregunta por qué cree lo que cree, ya filosofa
+   b) Porque solo los filósofos profesionales tienen opiniones fundamentadas; el resto de las personas solo repite lo que escucha, sin examinar ni justificar sus creencias
+   c) Porque las opiniones y la filosofía son exactamente lo mismo: toda creencia sobre la vida ya es filosofía, aunque nunca se examine ni se justifique con razones
+   d) Porque filosofar exige usar vocabulario técnico
+   **Respuesta correcta:** a) Porque la diferencia no está en tener creencias, sino en examinarlas y fundamentarlas con razones; si se pregunta por qué cree lo que cree, ya filosofa.
+   **Retroalimentación:** El quehacer filosófico depende de la actitud de examinar las propias creencias, no del vocabulario técnico.
 
 5. *(Alternativas — intermedio)* ¿Cuál de las siguientes NO es una
    característica del quehacer filosófico según el OA?
@@ -165,17 +159,13 @@ que preguntarse qué significa exactamente "justicia".
    "falacia de autoridad"); exige examinar razones, no solo confiar en quién
    las dice.
 
-6. *(Desarrollo breve — intermedio)* Da un ejemplo propio (no usado en la
-   guía) de una situación cotidiana que podría despertar asombro filosófico,
-   y formula la pregunta filosófica que surgiría de ella.
-   **Respuesta esperada:** Cualquier situación cotidiana (ej: ver una
-   fotografía antigua de uno mismo de niño) seguida de una pregunta que
-   exija reflexión conceptual (ej: "¿sigo siendo la misma persona que era a
-   los 5 años? ¿qué hace que algo permanezca 'lo mismo' a través del
-   cambio?").
-   **Retroalimentación:** Lo que se evalúa es que la pregunta formulada no
-   se responda con un dato, sino que exija examinar un concepto (identidad,
-   cambio, permanencia) y dar razones.
+6. *(Alternativas — Asombro filosófico — intermedio)* Al ver una fotografía antigua de uno mismo de niño, ¿cuál de estas es una pregunta **filosófica** que podría surgir?
+   a) "¿En qué año exacto se tomó esta foto, en qué ciudad vivía yo en ese momento y quién la sacó?"
+   b) "¿Cuántas fotos hay en el álbum familiar y quién las ordenó por fecha?"
+   c) "¿Qué cámara se usó para tomarla, quién la sacó y por qué los colores se ven tan distintos hoy?"
+   d) "¿Sigo siendo la misma persona que a los 5 años? ¿Qué hace que algo permanezca 'lo mismo' a través del cambio?"
+   **Respuesta correcta:** d) "¿Sigo siendo la misma persona que a los 5 años? ¿Qué hace que algo permanezca 'lo mismo' a través del cambio?".
+   **Retroalimentación:** La pregunta filosófica no se responde con un dato, sino examinando conceptos como identidad, cambio y permanencia.
 
 7. *(Verdadero o falso — desafiante)* La clarificación de conceptos es un
    paso previo prescindible en filosofía: lo importante es discutir de una
@@ -187,32 +177,24 @@ que preguntarse qué significa exactamente "justicia".
    conceptual es una de las características centrales del método filosófico,
    no un paso opcional.
 
-8. *(Análisis de argumento — desafiante)* Alguien afirma: "La filosofía no
-   sirve para nada porque nunca llega a conclusiones definitivas, a
-   diferencia de la ciencia." Evalúa esta afirmación considerando el
-   propósito del quehacer filosófico.
-   **Respuesta esperada:** El propósito de la filosofía no es necesariamente
-   producir conclusiones definitivas y universales como una ley física, sino
-   examinar rigurosamente preguntas sobre el sentido, el valor y los
-   fundamentos de las cosas, muchas de las cuales (como "¿qué es una vida
-   buena?") no admiten un único cierre empírico, pero sí admiten un examen
-   más o menos riguroso y argumentado. Que una pregunta no tenga una
-   respuesta cerrada no significa que pensarla no tenga valor.
-   **Retroalimentación:** Se espera que el estudiante distinga entre "no
-   tener una respuesta empírica única" y "no tener valor"; el rigor
-   filosófico se mide por la calidad de la argumentación, no por llegar a
-   una fórmula final.
+8. *(Alternativas — Análisis de argumento — desafiante)* "La filosofía no sirve para nada porque nunca llega a conclusiones definitivas, a diferencia de la ciencia." ¿Qué evaluación es correcta?
+   a) Es discutible: la filosofía examina con rigor preguntas que no admiten un cierre empírico único, y que no tengan respuesta cerrada no significa que pensarlas carezca de valor
+   b) Es correcta: solo vale lo que tiene una respuesta definitiva, y las preguntas que no admiten un cierre empírico único deberían dejarse de lado por no producir conocimiento útil
+   c) Es correcta: la filosofía y la ciencia no tienen ningún método
+   d) Es incorrecta porque la filosofía siempre llega a leyes físicas, igual que la ciencia: la diferencia es que la filosofía las obtiene por razonamiento y no por experimentación
+   **Respuesta correcta:** a) Es discutible: la filosofía examina con rigor preguntas que no admiten un cierre empírico único, y que no tengan respuesta cerrada no significa que pensarlas carezca de valor.
+   **Retroalimentación:** El rigor filosófico se mide por la calidad de la argumentación, no por llegar a una fórmula final.
 
 9. *(Alternativas — desafiante)* Un profesor pregunta: "¿Existe realmente el
    libre albedrío o todo está determinado por causas previas?" ¿Qué
    característica del quehacer filosófico ejemplifica mejor esta pregunta?
-   a) Es una pregunta que se resuelve con un experimento de laboratorio.
-   b) Es una gran pregunta filosófica sobre el sentido y la naturaleza de la
+   a) Es una pregunta que se resuelve con un experimento de laboratorio, midiendo la actividad del cerebro antes de cada decisión que toma una persona.
+   b) Es una pregunta ya resuelta definitivamente por la neurociencia, que demostró que todas nuestras decisiones están determinadas de antemano.
+   c) Es simplemente una cuestión de gustos personales: cada persona cree lo que prefiere, y no hay razones mejores ni peores para discutirla.
+   d) Es una gran pregunta filosófica sobre el sentido y la naturaleza de la
       acción humana, que exige clarificar conceptos como "libertad" y
       "causa".
-   c) Es simplemente una cuestión de gustos personales.
-   d) Es una pregunta ya resuelta definitivamente por la neurociencia.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** d.
    **Retroalimentación:** El libre albedrío es un tema filosófico clásico
    precisamente porque exige examinar qué se entiende por "libertad" y
    "determinación", más allá de lo que aporte cualquier dato científico
@@ -232,50 +214,33 @@ que preguntarse qué significa exactamente "justicia".
 11. *(Alternativas — simple)* ¿Cuál de las siguientes situaciones ejemplifica
     mejor la característica de "partir de la experiencia cotidiana" del
     quehacer filosófico?
-    a) Memorizar de corrido las fechas de nacimiento de los filósofos
-       griegos.
-    b) A partir de la experiencia de sentir que "el tiempo pasa distinto"
+    a) A partir de la experiencia de sentir que "el tiempo pasa distinto"
        cuando uno se aburre o se divierte, preguntarse qué es realmente el
        tiempo.
-    c) Aceptar sin discusión lo que dice un libro de texto.
-    d) Resolver un cálculo matemático sin relacionarlo con ninguna vivencia.
-    **Respuesta correcta:** b.
+    b) Memorizar de corrido las fechas de nacimiento de los filósofos griegos para poder citarlas cuando alguien pregunte qué es el tiempo.
+    c) Aceptar sin discusión lo que dice un libro de texto sobre el tiempo, porque los expertos ya resolvieron qué es y cómo se mide.
+    d) Resolver un cálculo matemático sobre la velocidad de un objeto sin relacionarlo con ninguna vivencia cotidiana ni con el paso del tiempo.
+    **Respuesta correcta:** a.
     **Retroalimentación:** El quehacer filosófico no arranca en el vacío ni
     en la pura erudición: toma una experiencia vivida (la percepción
     subjetiva del tiempo) y la convierte en una pregunta que exige
     reflexión conceptual, tal como indica el OA.
 
-12. *(Análisis de caso — intermedio)* Una estudiante dice: "En mi casa
-    siempre se reza antes de comer, y yo lo sigo haciendo, pero nunca me he
-    preguntado por qué lo hacemos ni qué significa para mí." Explica, usando
-    la distinción entre práctica no reflexionada y quehacer filosófico, qué
-    tendría que cambiar para que esa misma acción se convirtiera en un acto
-    de reflexión filosófica.
-    **Respuesta esperada:** Mientras la estudiante repita la práctica solo
-    por costumbre familiar, sin examinarla, se trata de una práctica no
-    reflexionada. Para que se vuelva un acto filosófico, tendría que
-    empezar a preguntarse explícitamente qué supuestos hay detrás de esa
-    costumbre (creencias sobre lo sagrado, la gratitud, la comunidad
-    familiar), si esos supuestos le parecen razonables, y si sostiene la
-    práctica por convicción propia o solo por inercia.
-    **Retroalimentación:** Se evalúa que el estudiante identifique que lo
-    que distingue a la filosofía no es "dejar de hacer" la práctica, sino
-    empezar a examinar sus razones y supuestos.
+12. *(Alternativas — Análisis de caso — intermedio)* Una estudiante reza antes de comer por costumbre familiar, sin haberse preguntado nunca por qué. ¿Qué tendría que cambiar para que fuera un acto de reflexión filosófica?
+    a) Dejar de rezar inmediatamente, porque la reflexión filosófica exige abandonar toda costumbre por completo
+    b) Rezar más veces al día
+    c) Empezar a examinar los supuestos detrás de la costumbre y si la sostiene por convicción propia o por inercia
+    d) Nada: toda costumbre familiar ya es filosofía, porque expresa una forma de ver el mundo
+    **Respuesta correcta:** c) Empezar a examinar los supuestos detrás de la costumbre y si la sostiene por convicción propia o por inercia.
+    **Retroalimentación:** Lo que distingue a la filosofía no es "dejar de hacer" la práctica, sino examinar sus razones.
 
-13. *(Desarrollo breve — intermedio)* Formula una pregunta filosófica
-    (distinta a los ejemplos de la guía) que surja de una experiencia
-    cotidiana relacionada con "lo bueno" (por ejemplo, el arte, la belleza o
-    una decisión moral), y explica brevemente por qué exige reflexión
-    conceptual y no solo un dato.
-    **Respuesta esperada:** Cualquier pregunta cotidiana ligada a un juicio
-    de valor (ej.: al ver una canción que a un amigo le encanta y a ti te
-    parece mala, preguntarte "¿la belleza de una obra depende de reglas
-    objetivas o solo de quien la percibe?") es válida si exige clarificar un
-    concepto (belleza, valor, gusto) y no se responde simplemente contando o
-    midiendo algo.
-    **Retroalimentación:** Se evalúa que la pregunta formulada esté
-    genuinamente vinculada a una experiencia personal y que el estudiante
-    explique por qué exige argumentación y no solo verificación empírica.
+13. *(Alternativas — Valor — intermedio)* Ante una canción que a un amigo le encanta y a ti te parece mala, ¿qué pregunta exige reflexión conceptual y no solo un dato?
+    a) "¿La belleza de una obra depende de reglas objetivas o solo de quien la percibe?"
+    b) "¿Cuántas reproducciones tiene la canción en las plataformas de música? digital"
+    c) "¿Cuánto dura la canción y cuántas veces se repite el coro?"
+    d) "¿En qué año se publicó?"
+    **Respuesta correcta:** a) "¿La belleza de una obra depende de reglas objetivas o solo de quien la percibe?".
+    **Retroalimentación:** La pregunta exige clarificar conceptos como belleza, valor y gusto, y no se responde contando o midiendo.
 
 14. *(Alternativas — desafiante)* Considera las siguientes preguntas: (i)
     "¿Qué edad tiene el universo?"; (ii) "¿Tiene sentido la existencia
@@ -283,32 +248,23 @@ que preguntarse qué significa exactamente "justicia".
     el río Bío-Bío?". ¿Cuál(es) corresponde(n) a una de las "grandes
     preguntas" propias del quehacer filosófico?
     a) Solo (i).
-    b) Solo (ii).
+    b) Las tres por igual.
     c) (i) y (iii).
-    d) Las tres por igual.
-    **Respuesta correcta:** b.
+    d) Solo (ii).
+    **Respuesta correcta:** d.
     **Retroalimentación:** (i) y (iii) son preguntas empíricas que se
     responden con mediciones o datos astronómicos/geográficos; (ii) exige
     examinar el concepto de "sentido" y no tiene una respuesta que un
     instrumento de medición pueda entregar, lo que la hace propiamente
     filosófica.
 
-15. *(Análisis de argumento — desafiante)* Alguien sostiene: "No tiene
-    sentido preguntarse qué es 'lo real', porque todos ya sabemos
-    perfectamente qué es real y qué no lo es; es una pregunta inventada por
-    los filósofos para complicarse la vida." Evalúa esta afirmación usando
-    la idea del asombro como origen de la filosofía.
-    **Respuesta esperada:** La afirmación da por sentado —sin examinarlo—
-    que el concepto de "realidad" es obvio y no necesita clarificación; sin
-    embargo, situaciones cotidianas (un sueño muy vívido, una ilusión
-    óptica, una noticia falsa que parecía verdadera) muestran que la
-    frontera entre lo real y lo aparente no siempre es evidente. Negarse a
-    asombrarse frente a esa dificultad es precisamente lo opuesto a la
-    actitud filosófica, no una prueba de que la pregunta esté de más.
-    **Retroalimentación:** Se evalúa que el estudiante reconozca que dar
-    algo "por obvio" sin examinarlo es justo la actitud que el asombro
-    filosófico busca superar, y que aporte un ejemplo o razón que muestre
-    que la pregunta por lo real no es trivial.
+15. *(Alternativas — Análisis de argumento — desafiante)* "No tiene sentido preguntarse qué es 'lo real', porque todos ya sabemos qué es real; es una pregunta inventada por los filósofos." ¿Qué evaluación es correcta?
+    a) Es correcta: la realidad es siempre evidente para los sentidos, y los sueños, las ilusiones ópticas o las noticias falsas se distinguen sin esfuerzo de lo real en cualquier situación
+    b) Es correcta: el asombro filosófico es innecesario, porque el concepto de realidad ya fue definido por la ciencia y no requiere ser examinado por cada persona
+    c) Es incorrecta porque nada es real
+    d) Da por obvio sin examinarlo el concepto de realidad, aunque sueños vívidos, ilusiones ópticas o noticias falsas muestran que la frontera entre lo real y lo aparente no siempre es evidente
+    **Respuesta correcta:** d) Da por obvio sin examinarlo el concepto de realidad, aunque sueños vívidos, ilusiones ópticas o noticias falsas muestran que la frontera entre lo real y lo aparente no siempre es evidente.
+    **Retroalimentación:** Negarse a asombrarse ante esa dificultad es justamente lo opuesto a la actitud filosófica.
 
 ---
 
@@ -386,53 +342,42 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
    materia; por tanto, fenómenos como el pensamiento se reducen o explican a
    partir de procesos físicos, como la actividad neuronal.
 
-3. *(Emparejar — simple)* Empareja cada teoría con su idea central: (1)
-   Idealismo, (2) Materialismo, (3) Dualismo — (a) Existen dos sustancias
-   distintas, mente y cuerpo; (b) Lo fundamentalmente real son las ideas o
-   la mente; (c) Solo existe la materia y sus procesos.
-   **Respuesta correcta:** 1-b, 2-c, 3-a.
-   **Retroalimentación:** Cada teoría da una respuesta distinta a "qué es lo
-   fundamentalmente real": la mente/idea, la materia, o ambas como
-   sustancias separadas.
+3. *(Alternativas — Unir — simple)* Une cada teoría con su idea central: (1) Idealismo, (2) Materialismo, (3) Dualismo — (A) Existen dos sustancias distintas, mente y cuerpo; (B) Lo fundamentalmente real son las ideas o la mente; (C) Solo existe la materia y sus procesos. ¿Qué combinación es correcta?
+   a) 1-B, 2-C, 3-A
+   b) 1-A, 2-B, 3-C
+   c) 1-C, 2-A, 3-B
+   d) 1-B, 2-A, 3-C
+   **Respuesta correcta:** a) 1-B, 2-C, 3-A.
+   **Retroalimentación:** Cada teoría responde distinto a "qué es lo fundamentalmente real".
 
-4. *(Análisis de caso — intermedio)* El "barco de Teseo" cambia, tabla por
-   tabla, hasta que ninguna pieza original queda. ¿Sigue siendo el mismo
-   barco? Formula la pregunta ontológica general que este caso plantea y
-   relaciónala con un ejemplo de tu propia vida.
-   **Respuesta esperada:** La pregunta ontológica general es sobre la
-   **identidad a través del cambio**: ¿qué hace que algo siga siendo "lo
-   mismo" pese a que cambien sus partes? Ejemplo propio válido: una persona
-   que, tras muchos años y cambios de personalidad, se pregunta si sigue
-   siendo "la misma persona" que era en la infancia.
-   **Retroalimentación:** Se evalúa que el estudiante identifique
-   correctamente el problema (identidad/persistencia a través del cambio) y
-   lo vincule con una experiencia significativa propia, tal como pide el
-   indicador del OA.
+4. *(Alternativas — Análisis de caso — intermedio)* El "barco de Teseo" cambia tabla por tabla hasta que no queda ninguna pieza original. ¿Qué pregunta ontológica general plantea?
+   a) Cuánto cuesta reparar un barco tabla por tabla, comparado con construir uno nuevo dañada por el uso
+   b) Quién construyó el barco
+   c) La identidad a través del cambio: qué hace que algo siga siendo "lo mismo" pese a que cambien sus partes
+   d) Qué madera es más resistente para reemplazar las tablas originales del barco
+   **Respuesta correcta:** c) La identidad a través del cambio: qué hace que algo siga siendo "lo mismo" pese a que cambien sus partes.
+   **Retroalimentación:** Un ejemplo propio sería preguntarse si uno sigue siendo la misma persona que en la infancia.
 
 5. *(Alternativas — intermedio)* Un estudiante afirma: "Chile no es una cosa
    física como una silla, pero de todas formas parece 'existir' de alguna
    manera." Esta afirmación es un buen ejemplo de:
-   a) Una pregunta sobre validez lógica.
-   b) Una pregunta ontológica sobre distintos modos o tipos de existencia.
-   c) Una pregunta puramente empírica sobre geografía.
-   d) Una falacia de autoridad.
-   **Respuesta correcta:** b.
+   a) Una pregunta sobre la validez lógica de un argumento.
+   b) Una falacia de apelación a la autoridad sobre Chile.
+   c) Una pregunta puramente empírica sobre geografía y límites.
+   d) Una pregunta ontológica sobre distintos modos o tipos de existencia.
+   **Respuesta correcta:** d.
    **Retroalimentación:** Preguntarse si entidades como países, instituciones
    o números existen "de la misma manera" que los objetos físicos es un
    problema ontológico clásico sobre los distintos tipos o modos de
    existencia.
 
-6. *(Desarrollo breve — intermedio)* Elige una teoría ontológica (idealismo,
-   materialismo o dualismo) y explica, en tus palabras, cómo respondería a
-   la pregunta: "¿un sueño es tan real como un objeto que puedo tocar?"
-   **Respuesta esperada (ejemplo materialismo):** Para el materialismo, un
-   sueño es un proceso cerebral real (actividad neuronal durante el sueño
-   REM), pero no corresponde a un objeto físico externo; es "real" como
-   evento mental-cerebral, no como objeto tangible en el mundo exterior.
-   **Retroalimentación:** Se evalúa que la respuesta use correctamente los
-   conceptos fundamentales de la teoría elegida para dar una respuesta
-   coherente, tal como exige el indicador de "describir una teoría
-   ontológica y sus conceptos fundamentales".
+6. *(Alternativas — Teorías — intermedio)* Para el materialismo, ¿cómo se responde la pregunta "¿un sueño es tan real como un objeto que puedo tocar?"?
+   a) El sueño es un proceso cerebral real (actividad neuronal), pero no un objeto físico externo
+   b) El sueño es una idea perfecta, más real que cualquier objeto material que se pueda tocar
+   c) El sueño pertenece a una sustancia mental distinta del cuerpo, que no se reduce a la materia
+   d) El sueño no existe de ninguna forma, porque solo es real lo que se puede ver y tocar con las manos
+   **Respuesta correcta:** a) El sueño es un proceso cerebral real (actividad neuronal), pero no un objeto físico externo.
+   **Retroalimentación:** La respuesta debe usar correctamente los conceptos de la teoría elegida; las otras opciones corresponden al idealismo, al dualismo o niegan el fenómeno.
 
 7. *(Verdadero o falso — desafiante)* Preguntarse "¿el número 7 existe en el
    mismo sentido en que existe una mesa?" no es una pregunta ontológica
@@ -446,28 +391,21 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
    construcciones útiles. No tiene una respuesta cerrada, pero es
    perfectamente legítima como pregunta filosófica.
 
-8. *(Análisis de argumento — desafiante)* Un idealista y un materialista
-   discuten sobre si "el amor" es real. El idealista dice: "El amor es tan
-   real como cualquier idea, y las ideas son lo más real que hay." El
-   materialista responde: "El amor no es más que reacciones químicas en el
-   cerebro; eso es lo único real ahí." Identifica el supuesto ontológico
-   distinto detrás de cada postura.
-   **Respuesta esperada:** El idealista supone que las ideas/mente son la
-   realidad fundamental (lo material seria secundario o derivado); el
-   materialista supone lo contrario: que la materia (procesos físico-
-   químicos) es lo único fundamentalmente real, y los estados mentales se
-   reducen a ella.
-   **Retroalimentación:** Se evalúa que el estudiante identifique el
-   supuesto de fondo de cada teoría (qué consideran "lo fundamentalmente
-   real") y no solo repita la conclusión de cada postura.
+8. *(Alternativas — Análisis de argumento — desafiante)* Un idealista dice: "El amor es tan real como cualquier idea, y las ideas son lo más real". Un materialista responde: "El amor no es más que reacciones químicas en el cerebro". ¿Qué supuestos ontológicos distintos hay detrás?
+   a) Ambos suponen que la materia es lo único real: el idealista llama ideas a las reacciones químicas y el materialista las llama por su nombre científico
+   b) Ambos suponen que el amor no existe
+   c) El idealista supone que solo existe la química del cerebro; el materialista, que las ideas son la realidad fundamental y la materia depende de ellas
+   d) El idealista supone que la mente o las ideas son la realidad fundamental; el materialista, que solo la materia lo es y los estados mentales se reducen a ella
+   **Respuesta correcta:** d) El idealista supone que la mente o las ideas son la realidad fundamental; el materialista, que solo la materia lo es y los estados mentales se reducen a ella.
+   **Retroalimentación:** Se trata de identificar qué considera cada teoría "lo fundamentalmente real".
 
 9. *(Alternativas — simple)* ¿Cuál de las siguientes afirmaciones describe
    mejor al **idealismo** como teoría ontológica?
-   a) Solo existe la materia y sus procesos físicos.
-   b) Existen dos sustancias radicalmente distintas: mente y cuerpo.
+   a) Solo existe la materia y sus procesos físicos; los pensamientos y emociones se explican a partir de ella.
+   b) Existen dos sustancias radicalmente distintas, la mente y el cuerpo, que interactúan entre sí.
    c) Lo fundamentalmente real son las ideas o la mente; lo material sería
       secundario o dependiente de ellas.
-   d) No existe ninguna realidad, todo es una ilusión total.
+   d) No existe ninguna realidad, ni material ni mental: todo lo que percibimos es una ilusión total.
    **Respuesta correcta:** c.
    **Retroalimentación:** El idealismo (con Platón como ejemplo clásico y su
    "mundo de las ideas") sostiene que la realidad última no es la materia
@@ -484,61 +422,37 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
     movimiento corporal (físico), o viceversa; es una de las principales
     objeciones que ha recibido el dualismo.
 
-11. *(Clasificar — intermedio)* Clasifica cada afirmación según la teoría
-    ontológica que representa —idealismo (I), materialismo (M) o dualismo
-    (D)—: (i) "Lo que llamamos 'yo' es, en el fondo, un conjunto de
-    procesos físico-químicos en el cerebro, nada más"; (ii) "Tengo un
-    cuerpo, pero también tengo una mente que no se reduce a él, aunque
-    ambos se relacionen entre sí"; (iii) "Las verdades matemáticas existen
-    de forma perfecta e inmutable en un plano de ideas, independiente de
-    cualquier objeto físico que las represente imperfectamente."
-    **Respuesta correcta:** (i) M, (ii) D, (iii) I.
-    **Retroalimentación:** Cada afirmación responde de forma distinta a la
-    pregunta ontológica de fondo ("¿qué es lo fundamentalmente real?"):
-    solo materia, dos sustancias en relación, o el primado de las ideas.
+11. *(Alternativas — Clasificar — intermedio)* ¿Qué teoría representa cada afirmación: (i) "El 'yo' es un conjunto de procesos físico-químicos"; (ii) "Tengo un cuerpo y una mente que no se reduce a él"; (iii) "Las verdades matemáticas existen en un plano de ideas perfecto"?
+    a) (i) idealismo, (ii) materialismo, (iii) dualismo
+    b) (i) dualismo, (ii) idealismo, (iii) materialismo
+    c) (i) materialismo, (ii) dualismo, (iii) idealismo
+    d) Las tres son materialismo
+    **Respuesta correcta:** c) (i) materialismo, (ii) dualismo, (iii) idealismo.
+    **Retroalimentación:** Solo materia, dos sustancias en relación o el primado de las ideas.
 
-12. *(Análisis de caso — intermedio)* Un personaje creado dentro de un
-    videojuego "existe" dentro del mundo virtual del juego, tiene una
-    historia y toma decisiones dentro de esa lógica, pero no existe como un
-    objeto físico que se pueda tocar. Formula la pregunta ontológica que
-    plantea este caso y explica en qué se diferencia del tipo de existencia
-    de una silla.
-    **Respuesta esperada:** El caso plantea la pregunta ontológica sobre los
-    distintos **modos o tipos de existencia**: ¿existen las entidades
-    digitales (personajes, mundos virtuales) de la misma manera que los
-    objetos físicos, o de una manera distinta pero igualmente real (como
-    entidad de información o representación)? A diferencia de una silla,
-    que ocupa un lugar físico y se puede tocar, el personaje "existe" como
-    un patrón de información que se manifiesta solo mientras el software se
-    ejecuta.
-    **Retroalimentación:** Se evalúa que el estudiante reconozca que
-    "existir" no es un concepto de un solo significado, sino que admite
-    distintos modos, un problema ontológico central que ya se trabajó con
-    el ejemplo de los países y los números.
+12. *(Alternativas — Análisis de caso — intermedio)* Un personaje de videojuego "existe" en el mundo virtual, pero no como objeto físico. ¿Qué pregunta ontológica plantea?
+    a) Si el videojuego es entretenido y si el personaje está bien diseñado por sus creadores, según las opiniones de los jugadores más jóvenes
+    b) Cuánto cuesta el videojuego
+    c) Si existen distintos modos de existencia: el personaje existe como patrón de información mientras el software se ejecuta, a diferencia de una silla
+    d) Si los personajes de videojuego deberían tener derechos y votar, ya que existen en el mundo virtual igual que las personas
+    **Respuesta correcta:** c) Si existen distintos modos de existencia: el personaje existe como patrón de información mientras el software se ejecuta, a diferencia de una silla.
+    **Retroalimentación:** "Existir" admite distintos modos, un problema ontológico central.
 
-13. *(Desarrollo breve — intermedio)* Muchas personas construyen una
-    identidad en redes sociales (perfil, publicaciones, forma de
-    presentarse) que no siempre coincide exactamente con su forma de ser
-    fuera de línea. Vincula esta situación con el problema ontológico de la
-    identidad y explica tu propia postura: ¿es la persona "real" la misma
-    que la que aparece en redes, una versión distinta, o ambas son parte de
-    la misma identidad?
-    **Respuesta esperada:** Respuesta personal coherente que reconozca el
-    problema de fondo: si la identidad de una persona es una sola cosa fija
-    o si puede tener múltiples facetas o "versiones" (offline y online) que
-    igualmente forman parte de quién es, retomando el problema de la
-    identidad a través del cambio o la diversidad de contextos.
-    **Retroalimentación:** Se evalúa que el estudiante vincule el problema
-    ontológico de la identidad con una experiencia significativa y actual
-    de su propia vida, tal como exige el indicador del OA.
+13. *(Varias correctas — Identidad — intermedio)* Sobre la identidad que una persona construye en redes sociales, distinta de su forma de ser fuera de línea, ¿qué respuestas vinculan coherentemente el caso con el problema ontológico de la identidad? Marca **todas** las correctas.
+    a) La identidad puede tener múltiples facetas (online y offline) que igualmente forman parte de quién es la persona
+    b) La persona "real" es solo la de fuera de línea, porque la identidad es una sola cosa fija
+    c) El caso no tiene relación con la identidad
+    d) Las redes sociales hacen que las personas dejen de existir
+    **Respuesta correcta:** a y b.
+    **Retroalimentación:** Ambas posturas son defendibles si se vinculan con el problema de fondo: si la identidad es fija o admite facetas en distintos contextos.
 
 14. *(Alternativas — desafiante)* Un estudiante confunde una pregunta
     ontológica con una pregunta psicológica. ¿Cuál de las siguientes es
     realmente una pregunta **ontológica** (y no psicológica)?
-    a) "¿Por qué algunas personas sienten más ansiedad que otras?"
+    a) "¿Por qué algunas personas sienten más ansiedad que otras frente a la misma situación?"
     b) "¿Qué tipo de entidad es 'la mente': es lo mismo que el cerebro, algo
        distinto, o depende de él sin ser idéntica?"
-    c) "¿Qué técnicas ayudan a reducir el estrés antes de una prueba?"
+    c) "¿Qué técnicas ayudan a reducir el estrés y la ansiedad antes de rendir una prueba importante? escolar"
     d) "¿Cuántas horas de sueño necesita en promedio un adolescente?"
     **Respuesta correcta:** b.
     **Retroalimentación:** Las opciones (a), (c) y (d) son preguntas
@@ -546,25 +460,13 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
     estudios; (b) pregunta por la naturaleza última de la mente como tipo
     de entidad, lo que la convierte en una pregunta propiamente ontológica.
 
-15. *(Análisis de argumento — desafiante)* Alguien afirma: "Solo existe lo
-    que puedo tocar o ver directamente; todo lo demás —los números, la
-    justicia, el amor— son solo palabras sin ninguna realidad." Evalúa esta
-    postura (una forma extrema de materialismo) considerando al menos una
-    objeción posible desde el idealismo o el dualismo.
-    **Respuesta esperada:** La postura reduce "lo real" a lo perceptible
-    sensorialmente de forma inmediata, pero eso deja fuera entidades que
-    parecen tener algún tipo de realidad sin ser tangibles (una verdad
-    matemática, un valor moral, un estado mental como el dolor). Un
-    idealista objetaría que las ideas y los conceptos abstractos son, de
-    hecho, lo más estable y universal que existe (dos más dos es cuatro en
-    cualquier lugar y época, a diferencia de los objetos físicos que se
-    desgastan y cambian); un dualista objetaría que reducir la experiencia
-    consciente ("lo que se siente" tener un pensamiento) a un objeto
-    tocable ignora una dimensión de la realidad que no es física.
-    **Retroalimentación:** Se evalúa que el estudiante identifique el
-    supuesto reduccionista del argumento y presente al menos una objeción
-    filosóficamente pertinente desde una teoría ontológica alternativa, sin
-    limitarse a decir que "no está de acuerdo".
+15. *(Varias correctas — Análisis de argumento — desafiante)* "Solo existe lo que puedo tocar o ver; los números, la justicia o el amor son solo palabras." ¿Qué objeciones son pertinentes? Marca **todas** las correctas.
+    a) Desde el idealismo: las verdades matemáticas son estables y universales, a diferencia de los objetos físicos
+    b) Desde el dualismo: la experiencia consciente ("lo que se siente" pensar) no se reduce a algo tocable
+    c) Esta postura deja fuera entidades que parecen tener algún tipo de realidad sin ser tangibles
+    d) Ninguna objeción es posible, porque la postura es evidente
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Se espera identificar el supuesto reduccionista y objetarlo desde una teoría alternativa.
 
 ---
 
@@ -624,10 +526,10 @@ tomando —sin saberlo— una postura epistemológica.
 
 1. *(Alternativas — simple)* ¿Cuál es el objeto de estudio de la
    epistemología?
-   a) La naturaleza última de la realidad.
+   a) La naturaleza última de la realidad y de lo que existe.
    b) El conocimiento: su origen, alcance y justificación.
-   c) Las normas sobre lo bueno y lo malo.
-   d) La estructura de los argumentos válidos.
+   c) Las normas sobre lo bueno y lo malo en la vida humana.
+   d) La estructura de los argumentos válidos y sus reglas.
    **Respuesta correcta:** b.
    **Retroalimentación:** La epistemología pregunta específicamente qué es
    el conocimiento, cómo se adquiere y qué lo distingue de la mera opinión;
@@ -642,58 +544,42 @@ tomando —sin saberlo— una postura epistemológica.
    opuesto a la actitud crítica que caracteriza, por ejemplo, al método
    científico.
 
-3. *(Emparejar — simple)* Empareja cada postura con su actitud: (1)
-   Dogmatismo, (2) Escepticismo, (3) Criticismo — (a) Es posible conocer,
-   pero el conocimiento debe revisarse siempre a la luz de la evidencia; (b)
-   Se posee la verdad absoluta, no hace falta cuestionarla; (c) No es
-   posible alcanzar conocimiento verdadero y seguro.
-   **Respuesta correcta:** 1-b, 2-c, 3-a.
-   **Retroalimentación:** Las tres posturas difieren en cuánta confianza
-   depositan en la posibilidad de conocer con seguridad, y si esa posible
-   seguridad debe seguir siendo cuestionada.
+3. *(Alternativas — Unir — simple)* Une cada postura con su actitud: (1) Dogmatismo, (2) Escepticismo, (3) Criticismo — (A) Es posible conocer, pero el conocimiento se revisa a la luz de la evidencia; (B) Se posee la verdad absoluta, no hace falta cuestionarla; (C) No es posible alcanzar conocimiento verdadero y seguro. ¿Qué combinación es correcta?
+   a) 1-B, 2-C, 3-A
+   b) 1-A, 2-B, 3-C
+   c) 1-C, 2-A, 3-B
+   d) 1-B, 2-A, 3-C
+   **Respuesta correcta:** a) 1-B, 2-C, 3-A.
+   **Retroalimentación:** Las tres difieren en cuánta confianza depositan en la posibilidad de conocer.
 
-4. *(Análisis de caso — intermedio)* Un estudiante lee dos titulares
-   contradictorios sobre los efectos de un alimento en la salud y concluye:
-   "Entonces la ciencia no sirve para nada, nunca se ponen de acuerdo."
-   Evalúa esta conclusión usando las categorías de dogmatismo, escepticismo
-   y criticismo.
-   **Respuesta esperada:** La conclusión del estudiante se acerca a un
-   escepticismo excesivo: de la existencia de resultados contradictorios
-   concluye que ningún conocimiento científico es confiable. Una postura
-   crítica más adecuada reconocería que la ciencia avanza revisando y
-   corrigiendo hipótesis a la luz de nueva evidencia —la existencia de
-   debate no significa ausencia total de conocimiento, sino que el
-   conocimiento científico está en proceso continuo de revisión.
-   **Retroalimentación:** Se evalúa que el estudiante identifique
-   correctamente la postura epistemológica implícita en la conclusión y
-   proponga la alternativa crítica, distinguiendo "hay debate" de "no se
-   puede saber nada".
+4. *(Alternativas — Análisis de caso — intermedio)* Tras leer dos titulares contradictorios sobre un alimento, un estudiante concluye: "Entonces la ciencia no sirve para nada". ¿Qué evaluación es correcta?
+   a) Es una postura crítica perfecta
+   b) Es dogmatismo, porque confía demasiado en la ciencia y acepta sin examinar lo que dicen los titulares
+   c) Es correcta: el debate entre titulares prueba que no hay conocimiento científico confiable sobre ningún alimento
+   d) Es un escepticismo excesivo; una postura crítica reconocería que la ciencia avanza revisando hipótesis con nueva evidencia
+   **Respuesta correcta:** d) Es un escepticismo excesivo; una postura crítica reconocería que la ciencia avanza revisando hipótesis con nueva evidencia.
+   **Retroalimentación:** Hay que distinguir "hay debate" de "no se puede saber nada".
 
 5. *(Alternativas — intermedio)* ¿Cuál de las siguientes afirmaciones
    representa mejor una postura epistemológica **crítica** (no dogmática ni
    escéptica)?
-   a) "Nunca podemos estar seguros de nada, así que da lo mismo qué creer."
-   b) "Esta teoría científica es la verdad final y ya no requiere ser
-      revisada jamás."
+   a) "Nunca podemos estar seguros de nada, así que da lo mismo qué creer: todas las opiniones valen igual."
+   b) "Esta teoría científica es la verdad final y ya no requiere ser revisada jamás, aunque aparezca nueva evidencia."
    c) "Puedo tener creencias justificadas por la evidencia disponible, y
       estoy dispuesto a revisarlas si aparece evidencia mejor."
-   d) "Confío en lo que dice la mayoría en redes sociales sin más."
+   d) "Confío en lo que dice la mayoría en redes sociales sin más, porque si tanta gente lo cree, debe ser verdad."
    **Respuesta correcta:** c.
    **Retroalimentación:** La postura crítica acepta grados de justificación
    basados en evidencia, sin caer en la certeza cerrada del dogmatismo ni en
    la duda paralizante del escepticismo radical.
 
-6. *(Desarrollo breve — intermedio)* Describe una situación de tu vida
-   diaria (redes sociales, colegio, familia) en la que hayas actuado —o
-   podrías actuar— de forma dogmática frente al conocimiento, y cómo
-   cambiaría tu actitud si adoptaras una postura crítica.
-   **Respuesta esperada:** Respuesta personal coherente: por ejemplo,
-   aceptar sin cuestionar una afirmación de un influencer de fitness
-   (dogmatismo) versus buscar evidencia, considerar fuentes y estar
-   dispuesto a cambiar de opinión (criticismo).
-   **Retroalimentación:** Se evalúa que el estudiante vincule correctamente
-   el concepto epistemológico con una experiencia significativa propia, tal
-   como exige el indicador del OA.
+6. *(Alternativas — Experiencia — intermedio)* ¿Qué situación muestra el paso de una actitud dogmática a una crítica frente al conocimiento?
+   a) Creer todo lo que dicen las redes sociales sobre salud y ejercicio, porque muchas personas lo comparten y eso demuestra que es verdad
+   b) Dejar de aceptar sin cuestionar lo que dice un influencer de fitness y empezar a buscar evidencia y fuentes, dispuesto a cambiar de opinión
+   c) Rechazar toda información sobre entrenamiento sin revisarla, porque nunca se puede saber qué es verdad
+   d) Repetir lo que dice la mayoría de los amigos sobre las dietas, para no tener que pensar en el tema
+   **Respuesta correcta:** b) Dejar de aceptar sin cuestionar lo que dice un influencer de fitness y empezar a buscar evidencia y fuentes, dispuesto a cambiar de opinión.
+   **Retroalimentación:** El criticismo combina confianza en el conocimiento con revisión de la evidencia.
 
 7. *(Verdadero o falso — desafiante)* Sostener una postura crítica en
    epistemología implica no tener nunca ninguna certeza sobre nada.
@@ -703,23 +589,13 @@ tomando —sin saberlo— una postura epistemológica.
    pero permanece abierto a revisión. Es distinto del escepticismo radical,
    que sí niega la posibilidad de conocimiento seguro.
 
-8. *(Análisis de argumento — desafiante)* Dos personas discuten: A dice "la
-   ciencia demuestra verdades absolutas e indiscutibles"; B dice "como la
-   ciencia cambia de teorías con el tiempo, entonces nunca ha dicho nada
-   verdadero". Explica por qué ambas posturas son epistemológicamente
-   problemáticas y cuál sería una tercera postura más adecuada.
-   **Respuesta esperada:** A es dogmática (ignora que las teorías científicas
-   se revisan y se corrigen con nueva evidencia); B es excesivamente
-   escéptica (confunde "las teorías se revisan" con "nunca han sido
-   confiables", ignorando que muchas teorías revisadas seguían capturando
-   parte de la verdad, ej. la mecánica newtoniana sigue siendo útil aunque
-   fue refinada por la relatividad). La postura crítica sostiene que el
-   conocimiento científico está bien justificado según la evidencia
-   disponible en cada momento, sin ser absoluto ni estar completamente
-   descartado por revisarse.
-   **Retroalimentación:** Se evalúa la capacidad de identificar los dos
-   extremos (dogmatismo/escepticismo) como problemáticos y de articular la
-   postura crítica intermedia con un ejemplo o justificación.
+8. *(Alternativas — Análisis de argumento — desafiante)* A dice: "la ciencia demuestra verdades absolutas"; B dice: "como la ciencia cambia de teorías, nunca ha dicho nada verdadero". ¿Qué evaluación es correcta?
+   a) Ambas posturas son correctas: la ciencia demuestra verdades absolutas, pero como cambia de teorías, también es cierto que nunca ha dicho nada verdadero
+   b) Solo A es problemática, porque B describe correctamente que el cambio de teorías demuestra que el conocimiento científico no tiene ninguna justificación
+   c) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que el conocimiento está bien justificado según la evidencia, sin ser absoluto
+   d) Solo B es problemática
+   **Respuesta correcta:** c) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que el conocimiento está bien justificado según la evidencia, sin ser absoluto.
+   **Retroalimentación:** Por ejemplo, la mecánica newtoniana sigue siendo útil aunque fue refinada por la relatividad.
 
 9. *(Alternativas — simple)* Un estudiante acepta sin ninguna duda todo lo
    que dice su profesor favorito, incluso cuando otros profesores presentan
@@ -744,52 +620,32 @@ tomando —sin saberlo— una postura epistemológica.
     creencias justificadas por evidencia, aunque revisables, sin caer en la
     duda paralizante total.
 
-11. *(Análisis de caso — intermedio)* Un amigo te dice: "No le creo nada a
-    ningún médico, todos mienten para ganar plata con tratamientos
-    innecesarios." Evalúa esta postura usando las categorías de dogmatismo,
-    escepticismo y criticismo, y propón cómo se vería una actitud crítica
-    más razonable frente al mismo tema.
-    **Respuesta esperada:** La postura del amigo es un escepticismo
-    radical e injustificado: rechaza en bloque toda la evidencia médica
-    disponible basado en una generalización sin fundamento suficiente. Una
-    actitud crítica más razonable reconocería que, si bien existen casos de
-    mala praxis o conflictos de interés que vale la pena examinar caso a
-    caso, eso no equivale a que toda la medicina basada en evidencia sea
-    falsa o interesada; lo adecuado es evaluar cada afirmación médica según
-    la evidencia disponible, no descartarla en bloque ni aceptarla sin más.
-    **Retroalimentación:** Se evalúa que el estudiante distinga la duda
-    razonable y puntual (crítica) de la desconfianza total e indiscriminada
-    (escepticismo radical).
+11. *(Alternativas — Análisis de caso — intermedio)* Un amigo dice: "No le creo nada a ningún médico, todos mienten". ¿Qué evaluación y alternativa son correctas?
+    a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más
+    b) Es una postura crítica razonable, porque desconfiar de todos los médicos por igual protege de posibles engaños
+    c) Es dogmatismo; lo correcto es creerle todo a cualquier médico, porque su título garantiza que dice la verdad
+    d) Es correcta: si algunos médicos se equivocan, la medicina no tiene evidencia confiable en ningún caso
+    **Respuesta correcta:** a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más.
+    **Retroalimentación:** Hay que distinguir la duda razonable y puntual de la desconfianza total.
 
-12. *(Desarrollo breve — intermedio)* Una de las grandes preguntas
-    epistemológicas es "¿cómo sé que lo que percibo es real y no una
-    ilusión?" (por ejemplo, ¿podría estar soñando ahora mismo sin saberlo?).
-    Explica con tus palabras por qué esta pregunta es difícil de responder
-    de forma completamente segura, y qué postura (dogmática, escéptica o
-    crítica) te parece más razonable adoptar frente a ella.
-    **Respuesta esperada:** Es difícil responderla con seguridad absoluta
-    porque, desde dentro de la propia experiencia, un sueño muy vívido
-    puede sentirse exactamente igual que la vigilia, por lo que no hay una
-    "señal interna" garantizada que distinga ambos estados. Una respuesta
-    razonablemente fundamentada suele optar por una postura crítica: aunque
-    no exista una prueba absoluta de que no estamos soñando o siendo
-    engañados, la consistencia y coherencia de la experiencia a lo largo
-    del tiempo da razones (no una certeza total) para confiar
-    provisionalmente en que lo que percibimos es real.
-    **Retroalimentación:** Se evalúa que el estudiante reconozca la
-    dificultad genuina del problema (no la minimice) y justifique con
-    argumentos la postura epistemológica que elige adoptar frente a él.
+12. *(Alternativas — Percepción — intermedio)* ¿Por qué es difícil responder con total seguridad "¿cómo sé que lo que percibo es real y no una ilusión?", y qué postura parece más razonable?
+    a) Porque es una pregunta sin sentido, ya que nadie confunde un sueño con la vigilia; lo razonable es ignorarla
+    b) Porque siempre sabemos con certeza absoluta que estamos despiertos; lo razonable es el dogmatismo, que acepta la experiencia sin examinarla ni compararla
+    c) Porque nada existe; lo razonable es el escepticismo radical
+    d) Porque un sueño vívido puede sentirse igual que la vigilia; una postura crítica confía provisionalmente en la coherencia de la experiencia, sin certeza absoluta
+    **Respuesta correcta:** d) Porque un sueño vívido puede sentirse igual que la vigilia; una postura crítica confía provisionalmente en la coherencia de la experiencia, sin certeza absoluta.
+    **Retroalimentación:** Se reconoce la dificultad genuina del problema y se justifica una postura.
 
 13. *(Alternativas — intermedio)* Alguien afirma: "Como ninguna postura
     política tiene 100% de razón, entonces da exactamente lo mismo cuál
     apoyar, todas son igual de válidas o inválidas." ¿Qué error
     epistemológico comete principalmente esta afirmación?
-    a) Ninguno, es una conclusión perfectamente crítica.
+    a) Ninguno, es una conclusión perfectamente crítica: si nada es seguro, todas las posturas valen lo mismo Es la postura más prudente..
     b) Confunde la ausencia de certeza absoluta con la imposibilidad de
        distinguir posturas mejor o peor justificadas por evidencia y
        argumentos.
     c) Es un ejemplo correcto de dogmatismo.
-    d) Es una afirmación puramente empírica, no epistemológica.
+    d) Es una afirmación puramente empírica, no epistemológica, porque se refiere a datos sobre posturas políticas.
     **Respuesta correcta:** b.
     **Retroalimentación:** La postura crítica no sostiene que "todo da lo
     mismo" solo porque no hay certeza absoluta; sostiene que existen grados
@@ -797,24 +653,13 @@ tomando —sin saberlo— una postura epistemológica.
     están mejor respaldadas por razones y evidencia, aunque ninguna sea
     perfecta o definitiva.
 
-14. *(Análisis de argumento — desafiante)* Evalúa el siguiente razonamiento:
-    "No puedo estar 100% seguro de que el mundo exterior existe realmente
-    (podría ser una simulación perfecta), así que no tiene ningún sentido
-    intentar averiguar nada sobre él." ¿Qué postura epistemológica adopta
-    este argumento y por qué resulta problemática incluso desde el propio
-    quehacer filosófico?
-    **Respuesta esperada:** El argumento adopta una forma de escepticismo
-    radical: de la imposibilidad de una certeza absoluta, salta a la
-    conclusión de que ninguna investigación tiene sentido. Esto es
-    problemático porque confunde "no tener certeza absoluta" con "no poder
-    tener ninguna creencia mejor justificada que otra"; además, resulta
-    autocontradictorio en la práctica, porque quien sostiene ese argumento
-    igual actúa cada día confiando en que el mundo que percibe se comporta
-    de manera consistente (cruza la calle mirando los autos, por ejemplo).
-    **Retroalimentación:** Se evalúa que el estudiante reconozca el salto
-    lógico del escepticismo radical y note la tensión entre sostener esa
-    postura en el discurso y la forma en que, en la práctica, todos actuamos
-    confiando en cierto grado de conocimiento del mundo.
+14. *(Alternativas — Análisis de argumento — desafiante)* "No puedo estar 100% seguro de que el mundo exterior existe, así que no tiene sentido intentar averiguar nada." ¿Qué postura adopta y por qué es problemática?
+    a) Criticismo: es una postura equilibrada
+    b) Escepticismo radical: confunde no tener certeza absoluta con no tener creencias mejor justificadas, y en la práctica quien lo sostiene actúa confiando en el mundo
+    c) Dogmatismo: confía demasiado en el mundo exterior y acepta sin examinar que existe, sin preguntarse por la certeza de sus creencias sobre la realidad
+    d) No es problemática: es la postura más razonable, porque si no hay certeza absoluta, ninguna creencia está mejor justificada que otra
+    **Respuesta correcta:** b) Escepticismo radical: confunde no tener certeza absoluta con no tener creencias mejor justificadas, y en la práctica quien lo sostiene actúa confiando en el mundo.
+    **Retroalimentación:** Hay un salto lógico y una tensión con la forma en que todos actuamos.
 
 15. *(Verdadero o falso — desafiante)* Que la ciencia, como ejemplo de
     postura crítica, revise y corrija sus teorías con el tiempo significa
@@ -896,11 +741,11 @@ resto del sistema, como en geometría).
 
 1. *(Alternativas — simple)* ¿Qué distingue a un argumento deductivo de uno
    inductivo?
-   a) El deductivo usa más palabras que el inductivo.
+   a) El deductivo usa más palabras y premisas que el inductivo, por eso es más completo.
    b) En el deductivo, si las premisas son verdaderas la conclusión se sigue
       necesariamente; en el inductivo, la conclusión es solo probable.
-   c) El inductivo siempre es más confiable que el deductivo.
-   d) No hay ninguna diferencia real entre ambos.
+   c) El inductivo siempre es más confiable que el deductivo, porque se basa en casos reales observados y no en premisas que pueden ser inventadas
+   d) No hay ninguna diferencia real entre ambos: son dos nombres para el mismo tipo de razonamiento.
    **Respuesta correcta:** b.
    **Retroalimentación:** La deducción garantiza la conclusión si las
    premisas son verdaderas y la estructura es válida; la inducción, en
@@ -915,112 +760,76 @@ resto del sistema, como en geometría).
    si las premisas corresponden con los hechos. Un argumento puede ser
    válido con premisas falsas.
 
-3. *(Identificar componentes — simple)* En el argumento "Como llovió toda la
-   noche (razón), y generalmente cuando llueve mucho las calles del barrio
-   se inundan (garantía), es probable que hoy el barrio esté inundado
-   (conclusión)", identifica cuál elemento falta explicitar para que el
-   argumento sea más fuerte: ¿un dato de evidencia concreta o una segunda
-   conclusión?
-   **Respuesta correcta:** Falta evidencia concreta (por ejemplo, un reporte
-   de cuántos milímetros llovió o fotos de inundaciones anteriores en el
-   mismo barrio bajo lluvias similares).
-   **Retroalimentación:** La evidencia es el respaldo fáctico que hace más
-   sólida la razón dada; sin ella, el argumento se apoya solo en una
-   generalización sin datos concretos que la sustenten.
+3. *(Alternativas — Componentes — simple)* En el argumento "Como llovió toda la noche (razón) y cuando llueve mucho las calles se inundan (garantía), es probable que hoy el barrio esté inundado (conclusión)", ¿qué elemento falta para fortalecerlo?
+   a) Una segunda conclusión que refuerce la primera
+   b) Una pregunta retórica que interpele al lector
+   c) Evidencia concreta, como milímetros caídos o fotos de inundaciones anteriores con lluvias similares
+   d) Nada: el argumento ya es perfecto, porque tiene razón, garantía y conclusión, y no necesita más apoyo
+   **Respuesta correcta:** c) Evidencia concreta, como milímetros caídos o fotos de inundaciones anteriores con lluvias similares.
+   **Retroalimentación:** La evidencia es el respaldo fáctico que hace más sólida la razón dada.
 
 4. *(Identificar falacia — intermedio)* "Tienes que creerme sobre este
    remedio natural, lo dijo un doctor muy famoso en un video de internet,
    así que debe ser verdad." ¿Qué falacia se comete?
-   a) Ad hominem.
+   a) Ad hominem: descalifica a quienes dudan del remedio atacando su persona en vez de sus argumentos.
    b) Apelación a la autoridad (sin evaluar si la afirmación específica está
       realmente respaldada por evidencia).
-   c) Falsa dicotomía.
-   d) Ninguna, el argumento es válido.
+   c) Falsa dicotomía: plantea solo dos opciones, creer en el remedio o enfermarse, sin alternativas.
+   d) Ninguna: el argumento es válido, porque un doctor famoso es una fuente confiable en cualquier tema.
    **Respuesta correcta:** b.
    **Retroalimentación:** Apelar a que alguien "famoso" o "doctor" dijo algo
    no basta como prueba: hay que evaluar si esa afirmación específica está
    respaldada por evidencia, no solo confiar en el prestigio de quien la
    dice.
 
-5. *(Análisis de argumento — intermedio)* Evalúa: "Todos los peces respiran
-   bajo el agua; la ballena respira bajo el agua; luego la ballena es un
-   pez." ¿Es válido? ¿Son verdaderas las premisas?
-   **Respuesta esperada:** El argumento es **inválido** (es una falacia de
-   afirmación del consecuente: aunque todos los peces respiren bajo el
-   agua, eso no significa que todo lo que respira bajo el agua sea un pez).
-   Además, la premisa "la ballena respira bajo el agua" es **falsa** (las
-   ballenas son mamíferos que respiran aire y suben a la superficie).
-   **Retroalimentación:** Se evalúa que el estudiante distinga
-   correctamente los dos problemas del argumento: uno de estructura
-   (inválido) y uno de contenido (premisa falsa), sin confundir ambos
-   niveles de análisis.
+5. *(Alternativas — Análisis de argumento — intermedio)* "Todos los peces respiran bajo el agua; la ballena respira bajo el agua; luego la ballena es un pez." ¿Qué evaluación es correcta?
+   a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire
+   b) Es válido y sus premisas son verdaderas
+   c) Es válido, pero una premisa es falsa: la ballena respira aire, no agua, como cualquier mamífero
+   d) Es inválido, pero todas sus premisas son verdaderas, incluida la de la ballena
+   **Respuesta correcta:** a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire.
+   **Retroalimentación:** Hay un problema de estructura (inválido) y uno de contenido (premisa falsa).
 
-6. *(Emparejar método filosófico — intermedio)* Empareja cada método con su
-   descripción: (1) Mayéutica, (2) Experimento mental, (3) Fenomenología —
-   (a) describir la experiencia consciente tal como se vive; (b) hacer
-   preguntas sucesivas para que el interlocutor descubra contradicciones en
-   sus creencias; (c) imaginar una situación hipotética para poner a prueba
-   una idea.
-   **Respuesta correcta:** 1-b, 2-c, 3-a.
-   **Retroalimentación:** Cada método filosófico tiene un procedimiento
-   distinto: el diálogo socrático (mayéutica), la imaginación controlada
-   (experimento mental) y la descripción de la experiencia vivida
-   (fenomenología).
+6. *(Alternativas — Unir métodos — intermedio)* Une cada método con su descripción: (1) Mayéutica, (2) Experimento mental, (3) Fenomenología — (A) describir la experiencia consciente tal como se vive; (B) hacer preguntas sucesivas para que el interlocutor descubra contradicciones; (C) imaginar una situación hipotética para poner a prueba una idea. ¿Qué combinación es correcta?
+   a) 1-A, 2-B, 3-C
+   b) 1-C, 2-A, 3-B
+   c) 1-B, 2-A, 3-C
+   d) 1-B, 2-C, 3-A
+   **Respuesta correcta:** d) 1-B, 2-C, 3-A.
+   **Retroalimentación:** Diálogo socrático, imaginación controlada y descripción de la experiencia vivida.
 
-7. *(Construir un argumento — desafiante)* Construye un argumento breve (con
-   razón, garantía y evidencia) a favor de la afirmación: "Es importante que
-   los estudiantes de 3° medio aprendan lógica."
-   **Respuesta esperada (ejemplo):** Razón: la lógica ayuda a distinguir
-   argumentos buenos de manipulaciones. Garantía: quienes distinguen
-   argumentos válidos de falacias son menos vulnerables a la desinformación.
-   Evidencia: estudios sobre alfabetización mediática muestran que las
-   personas con más entrenamiento en pensamiento crítico identifican mejor
-   noticias falsas y argumentos engañosos en redes sociales.
-   **Retroalimentación:** Se evalúa que el argumento contenga los tres
-   componentes (razón, garantía, evidencia) de forma coherente entre sí, no
-   solo una afirmación suelta.
+7. *(Alternativas — Construir un argumento — desafiante)* ¿Qué opción presenta un argumento completo (razón, garantía y evidencia) a favor de "Es importante que los estudiantes de 3° medio aprendan lógica"?
+   a) Razón: la lógica es importante para los estudiantes. Garantía: porque sí, ya que todo el mundo lo sabe. Evidencia: ninguna, porque es algo evidente para cualquier persona que haya estudiado
+   b) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas
+   c) Solo una afirmación: "la lógica sirve para pensar mejor", repetida con distintas palabras en la razón, en la garantía y en la evidencia, sin agregar información nueva ni ningún dato que la respalde, como si repetirla bastara para convencer al lector de 3° medio
+   d) Razón: las matemáticas son difíciles para muchos estudiantes de 3° medio. Garantía: no hay ninguna, porque no es necesaria. Evidencia: mi opinión personal y la de mis compañeros de curso
+   **Respuesta correcta:** b) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas.
+   **Retroalimentación:** Los tres componentes deben estar presentes y ser coherentes entre sí.
 
-8. *(Análisis de argumento — desafiante)* Un compañero de curso dice: "O
-   estás totalmente de acuerdo conmigo en este tema, o eres de los que no
-   piensan nada." Identifica la falacia y explica por qué distorsiona la
-   discusión.
-   **Respuesta esperada:** Es una **falsa dicotomía** (o falso dilema):
-   presenta solo dos opciones extremas cuando en realidad existen posturas
-   intermedias o matizadas. Distorsiona la discusión porque obliga a elegir
-   entre dos polos sin permitir el desacuerdo razonado ni las posiciones
-   intermedias, cerrando el espacio al examen genuino de razones.
-   **Retroalimentación:** Se evalúa que el estudiante nombre correctamente
-   la falacia y explique el mecanismo por el cual limita ilegítimamente las
-   opciones disponibles en la discusión.
+8. *(Alternativas — Falacias — desafiante)* "O estás totalmente de acuerdo conmigo, o eres de los que no piensan nada." ¿Qué falacia es y por qué distorsiona la discusión?
+   a) Argumento de autoridad: cita a un experto para cerrar la discusión
+   b) Generalización apresurada: parte de muchos casos para concluir sobre todos ellos
+   c) Falsa dicotomía: reduce la discusión a dos extremos, excluyendo posturas intermedias
+   d) No es una falacia
+   **Respuesta correcta:** c) Falsa dicotomía: reduce la discusión a dos extremos, excluyendo posturas intermedias.
+   **Retroalimentación:** Limita ilegítimamente las opciones y cierra el examen genuino de razones.
 
-9. *(Evaluación de método filosófico — desafiante)* Un experimento mental
-   clásico plantea: "Imagina una máquina que te da experiencias placenteras
-   perfectas y simuladas para siempre, ¿te conectarías?" ¿Qué tipo de
-   pregunta filosófica busca poner a prueba este experimento mental, y por
-   qué usar una situación imaginaria (y no un dato empírico) es una
-   herramienta filosófica legítima?
-   **Respuesta esperada:** El experimento busca poner a prueba nuestras
-   intuiciones sobre si el placer simulado es equivalente a una vida buena
-   o si algo más (autenticidad, logro real, conexión genuina) importa para
-   el bienestar. Usar una situación hipotética es legítimo porque permite
-   aislar variables y examinar los supuestos de fondo de una creencia sin
-   depender de que la tecnología exista realmente; el objetivo no es
-   describir un hecho, sino clarificar un concepto (qué entendemos por "vida
-   buena" o "bienestar").
-   **Retroalimentación:** Se evalúa que el estudiante reconozca el
-   experimento mental como herramienta legítima de análisis conceptual, no
-   como una predicción empírica, y que identifique el problema filosófico de
-   fondo (la relación entre placer y bienestar).
+9. *(Alternativas — Experimento mental — desafiante)* "Imagina una máquina que te da experiencias placenteras perfectas y simuladas para siempre, ¿te conectarías?" ¿Qué pone a prueba y por qué es legítimo usar una situación imaginaria?
+   a) Pone a prueba si el placer simulado equivale a una vida buena; es legítimo porque aísla variables para clarificar conceptos, sin depender de que la tecnología exista
+   b) Predice una tecnología que existirá pronto; es legítimo porque se trata de un dato empírico que la ciencia confirmará cuando la máquina se construya de verdad
+   c) Pone a prueba la velocidad de las computadoras
+   d) No pone nada a prueba, porque es solo ciencia ficción; usar situaciones imaginarias no es legítimo, ya que no aportan evidencia sobre la vida real
+   **Respuesta correcta:** a) Pone a prueba si el placer simulado equivale a una vida buena; es legítimo porque aísla variables para clarificar conceptos, sin depender de que la tecnología exista.
+   **Retroalimentación:** El experimento mental es una herramienta de análisis conceptual, no una predicción empírica.
 
 10. *(Alternativas — simple)* ¿Cuál de las siguientes descripciones
     corresponde mejor al método filosófico de la **axiomática**?
-    a) Describir la experiencia consciente tal como se vive, sin
-       presuponer teorías.
+    a) Describir la experiencia consciente tal como se vive, sin presuponer teorías ni explicaciones previas sobre ella.
     b) Partir de principios básicos aceptados sin demostración (axiomas) y
        derivar de ellos, con reglas lógicas, el resto de un sistema.
     c) Hacer preguntas sucesivas para que el interlocutor descubra
        contradicciones en sus propias creencias.
-    d) Imaginar una situación hipotética para poner a prueba una intuición.
+    d) Imaginar una situación hipotética para poner a prueba una intuición o un concepto, sin realizar experimentos reales.
     **Respuesta correcta:** b.
     **Retroalimentación:** La axiomática es el método que, como en la
     geometría euclidiana, parte de un conjunto reducido de principios no
@@ -1041,8 +850,8 @@ resto del sistema, como en geometría).
     entreguen una tarea un día tarde sin descuento, pronto todos van a
     entregar todo tarde siempre, y el colegio entero se va a desordenar por
     completo." ¿Qué falacia se comete en este razonamiento?
-    a) Ad hominem.
-    b) Apelación a la autoridad.
+    a) Ad hominem: se descalifica a los estudiantes que entregan tarde en lugar de discutir la medida propuesta por el colegio.
+    b) Apelación a la autoridad: se apoya la conclusión en la opinión del colegio, sin justificar por qué una entrega tardía causaría desorden del colegio.
     c) Pendiente resbaladiza: se afirma, sin justificación suficiente, que
        un paso moderado desencadenará inevitablemente una cadena de
        consecuencias extremas.
@@ -1053,58 +862,29 @@ resto del sistema, como en geometría).
     ("todo se desordenará"), sin ofrecer evidencia de que ese encadenamiento
     sea necesario ni de que no puedan existir reglas intermedias.
 
-13. *(Análisis de caso — intermedio)* En el argumento "Deberíamos reciclar
-    más en el colegio (conclusión), porque la basura mal gestionada
-    contamina napas subterráneas y suelos (razón), y en general reducir la
-    contaminación de un entorno mejora la salud de quienes viven en él
-    (garantía)", identifica qué elemento adicional fortalecería el
-    argumento y por qué.
-    **Respuesta esperada:** Falta evidencia concreta que respalde la razón,
-    por ejemplo datos o estudios sobre cuánta basura del colegio termina mal
-    gestionada, o cifras sobre el impacto medido de la contaminación en
-    napas subterráneas de la zona. Sin ese respaldo fáctico, el argumento
-    descansa solo en una generalización plausible pero no verificada.
-    **Retroalimentación:** Se evalúa que el estudiante distinga
-    correctamente los tres componentes ya presentes (razón, garantía) del
-    elemento faltante (evidencia) y explique por qué añadirlo fortalece el
-    argumento.
+13. *(Alternativas — Análisis de caso — intermedio)* En el argumento "Deberíamos reciclar más en el colegio (conclusión), porque la basura mal gestionada contamina napas y suelos (razón), y reducir la contaminación mejora la salud (garantía)", ¿qué lo fortalecería?
+    a) Una segunda garantía idéntica a la primera, para que el argumento parezca más sólido, sin agregar datos nuevos sobre la basura del colegio
+    b) Eliminar la razón
+    c) Agregar una pregunta retórica que invite al lector a reflexionar sobre el reciclaje
+    d) Evidencia concreta, como datos sobre cuánta basura del colegio se gestiona mal o el impacto medido en las napas de la zona
+    **Respuesta correcta:** d) Evidencia concreta, como datos sobre cuánta basura del colegio se gestiona mal o el impacto medido en las napas de la zona.
+    **Retroalimentación:** Sin respaldo fáctico, el argumento descansa en una generalización plausible pero no verificada.
 
-14. *(Desarrollo breve — desafiante)* Construye tu propio argumento
-    **inductivo** (distinto a los ejemplos de la guía), a partir de
-    observaciones de tu vida cotidiana, y luego explica por qué su
-    conclusión sigue siendo solo probable y no una certeza garantizada.
-    **Respuesta esperada:** Cualquier generalización a partir de casos
-    observados es válida (ej.: "Los últimos cinco veranos han sido más
-    calurosos que el promedio histórico en mi ciudad; probablemente este
-    verano también lo sea"), siempre que el estudiante explique que, a
-    diferencia de la deducción, la conclusión no se sigue con necesidad
-    lógica de las premisas: es posible que aparezcan casos futuros que
-    contradigan el patrón observado, tal como ocurrió con la generalización
-    sobre los cisnes blancos.
-    **Retroalimentación:** Se evalúa que el argumento propuesto sea
-    genuinamente inductivo (generalización a partir de casos) y que la
-    explicación distinga correctamente el carácter probable, no
-    necesario, de su conclusión.
+14. *(Alternativas — Inducción — desafiante)* "Los últimos cinco veranos han sido más calurosos que el promedio en mi ciudad; probablemente este también lo sea." ¿Por qué su conclusión es solo probable?
+    a) Porque es deductiva y por eso su conclusión es segura: si las premisas son verdaderas, este verano será caluroso en mi ciudad este año
+    b) Porque es inductiva: generaliza desde casos observados y podrían aparecer casos que contradigan el patrón, como ocurrió con los cisnes blancos
+    c) Porque sus premisas son falsas: cinco veranos no alcanzan para registrar temperaturas promedio
+    d) Porque es una falsa dicotomía
+    **Respuesta correcta:** b) Porque es inductiva: generaliza desde casos observados y podrían aparecer casos que contradigan el patrón, como ocurrió con los cisnes blancos.
+    **Retroalimentación:** A diferencia de la deducción, la conclusión no se sigue con necesidad lógica.
 
-15. *(Evaluación de método filosófico — desafiante)* Explica por qué la
-    geometría euclidiana utiliza el método **axiomático** y no el método
-    **mayéutico** para construir su sistema de conocimientos, considerando
-    en qué se diferencian ambos métodos en su forma de proceder.
-    **Respuesta esperada:** La mayéutica procede mediante preguntas
-    sucesivas dirigidas a que un interlocutor descubra, por sí mismo,
-    contradicciones o supuestos ocultos en sus propias creencias; es un
-    método dialógico orientado a examinar creencias ya existentes. La
-    axiomática, en cambio, no parte de creencias de un interlocutor, sino
-    de un conjunto reducido de principios explícitos aceptados sin
-    demostración (axiomas), a partir de los cuales se derivan
-    deductivamente, con reglas lógicas estrictas, todas las demás verdades
-    del sistema; por eso es el método adecuado para construir un sistema
-    formal y demostrativo como la geometría, y no para examinar creencias
-    personales mediante el diálogo.
-    **Retroalimentación:** Se evalúa que el estudiante distinga con
-    precisión el procedimiento de cada método (diálogo examinador vs.
-    derivación deductiva desde principios) y justifique por qué la
-    naturaleza del conocimiento geométrico se ajusta mejor al segundo.
+15. *(Alternativas — Métodos — desafiante)* ¿Por qué la geometría euclidiana usa el método axiomático y no el mayéutico?
+    a) Porque la mayéutica es más rigurosa, pero exige un interlocutor, y la geometría euclidiana se escribió sin diálogo para que cualquiera pudiera leerla
+    b) Porque la geometría se construye por diálogo socrático: el maestro pregunta y el estudiante descubre los axiomas, mientras la mayéutica deriva verdades desde principios explícitos
+    c) Porque deriva deductivamente sus verdades desde principios explícitos aceptados sin demostración, mientras la mayéutica examina creencias de un interlocutor mediante preguntas
+    d) Porque ambos métodos son idénticos
+    **Respuesta correcta:** c) Porque deriva deductivamente sus verdades desde principios explícitos aceptados sin demostración, mientras la mayéutica examina creencias de un interlocutor mediante preguntas.
+    **Retroalimentación:** La naturaleza formal y demostrativa del conocimiento geométrico se ajusta al método axiomático.
 
 ---
 

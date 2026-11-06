@@ -25,7 +25,7 @@ basado_en: >
 1. Esta prueba contiene **20 preguntas en total**, que combinan las cuatro asignaturas: Lenguaje y Comunicación, Matemática, Ciencias Naturales, e Historia, Geografía y Ciencias Sociales. Las preguntas **no están agrupadas por asignatura**: van mezcladas, igual que en el examen real.
 2. Tiempo total para rendir la prueba: **90 minutos**.
 3. Rinde la prueba **sin libros, apuntes ni celulares**, y **sin la ayuda de un apoderado** durante el desarrollo de las preguntas, tal como se rinde el examen real. Un adulto puede leerte las instrucciones o una pregunta en voz alta si lo necesitas, pero las respuestas deben ser tuyas.
-4. Hay preguntas de **alternativas** (marca una sola opción con una X), de **verdadero o falso**, y de **desarrollo o respuesta abierta** (responde con tus palabras o mostrando tu procedimiento, según corresponda).
+4. Hay preguntas de **alternativas** (marca una sola opción con una X) y de **verdadero o falso**. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el estímulo antes de contestar.
 6. Puedes usar lápiz, goma y, en las preguntas de Matemática, material concreto o dibujos para resolver.
 7. Al terminar, revisa tus respuestas. Al final de este documento está la **Pauta de Corrección** para autoevaluarte.
@@ -142,15 +142,20 @@ Según el poema, las abejas bailan sin parar. ¿Verdadero o falso?
 
 ---
 
-**10. (Matemática — Desarrollo, muestra tu desarrollo)** En una feria de artesanías de Chiloé, hay 48 tejidos que se quieren repartir en partes iguales entre 8 puestos. ¿Cuántos tejidos le corresponden a cada puesto?
+**10. (Matemática — Alternativas)** En una feria de artesanías de Chiloé, hay 48 tejidos que se quieren repartir en partes iguales entre 8 puestos. ¿Cuántos tejidos le corresponden a cada puesto?
+
+a) 6 tejidos
+b) 8 tejidos
+c) 40 tejidos
+d) 56 tejidos
 
 ---
 
 **11. (Ciencias Naturales — Alternativas)** ¿Qué función cumplen principalmente las frutas y las verduras en tu organismo?
 
-a) Dar energía para moverte y jugar
-b) Ninguna función especial
-c) Ayudar a que crezcan los músculos
+a) Dar energía rápida para moverte, correr y jugar en el recreo
+b) Ninguna función especial, porque solo sirven para quitar el hambre
+c) Ayudar a que crezcan los músculos y los huesos más que otros alimentos
 d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
 
 ---
@@ -162,8 +167,8 @@ d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
 ¿Qué elementos quedan divididos por la línea del Ecuador?
 
 a) Los océanos Pacífico y Atlántico
-b) El hemisferio norte y el hemisferio sur
-c) El Trópico de Cáncer y el Trópico de Capricornio
+b) El Trópico de Cáncer y el Trópico de Capricornio
+c) El hemisferio norte y el hemisferio sur
 d) El Polo Norte y el Círculo Polar Ártico
 
 ---
@@ -190,14 +195,19 @@ d) El Polo Norte y el Círculo Polar Ártico
 
 Según el texto, ¿de qué se alimenta principalmente el pingüino de Humboldt?
 
-a) De algas marinas
+a) De algas marinas que crecen sobre las rocas
 b) De peces pequeños, como anchovetas y sardinas
-c) De otras aves marinas
-d) De insectos de la costa
+c) De otras aves marinas más pequeñas que ellos
+d) De insectos que encuentran en la arena de la costa
 
 ---
 
-**14. (Matemática — Desarrollo, completa y explica)** Completa la secuencia: 324, 334, 344, ___, 364. Explica con tus palabras qué regla usaste.
+**14. (Matemática — Alternativas)** Completa la secuencia: 324, 334, 344, ___, 364. ¿Qué número falta y cuál es la regla?
+
+a) 345; la regla es "sumar 1"
+b) 444; la regla es "sumar 100"
+c) 354; la regla es "sumar 1"
+d) 354; la regla es "sumar 10"
 
 ---
 
@@ -241,18 +251,23 @@ d) No se puede saber
 
 ---
 
-**19. (Ciencias Naturales — Desarrollo breve)** [Imagen: la Luna se ve completamente iluminada, como un círculo brillante y completo en el cielo nocturno]
+**19. (Ciencias Naturales — Alternativas)** [Imagen: la Luna se ve completamente iluminada, como un círculo brillante y completo en el cielo nocturno]
 
-¿Qué fase de la Luna corresponde a esta imagen? Explica cómo lo sabes.
+¿Qué fase de la Luna corresponde a esta imagen, y cómo lo sabes?
+
+a) Luna nueva, porque no se ve ninguna parte iluminada
+b) Luna llena, porque se ve toda su superficie iluminada
+c) Cuarto creciente, porque se ve iluminada solo la mitad
+d) Cuarto menguante, porque se ve iluminada solo la mitad
 
 ---
 
 **20. (Historia, Geografía y Cs. Sociales — Alternativas)** En 1989, muchos países del mundo, incluido Chile, firmaron un acuerdo internacional que reconoce que todos los niños y niñas tienen derechos por el solo hecho de serlo. ¿Cómo se llama este acuerdo?
 
-a) La Constitución de Chile
+a) La Constitución Política de la República de Chile
 b) La Convención sobre los Derechos del Niño
-c) El reglamento de la escuela
-d) La Declaración de Independencia
+c) El reglamento interno de cada escuela del país
+d) La Declaración de Independencia de Chile de 1818
 
 ---
 
@@ -262,7 +277,7 @@ d) La Declaración de Independencia
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -283,16 +298,16 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 7 | Ciencias Naturales | **c) Oxígeno.** | OA 4 |
 | 8 | Historia, Geografía y Cs. Sociales | **a) La democracia.** Nació en la antigua Atenas. | OA 3 |
 | 9 | Lenguaje y Comunicación | **Verdadero.** El poema dice "y las abejas bailan sin parar". | OA 5 |
-| 10 | Matemática | 48÷8=**6 tejidos por puesto**. | OA 9 |
+| 10 | Matemática | **a) 6 tejidos.** 48 ÷ 8 = 6 (comprobación: 8 × 6 = 48). | OA 9 |
 | 11 | Ciencias Naturales | **d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** | OA 6 |
-| 12 | Historia, Geografía y Cs. Sociales | **b) El hemisferio norte y el hemisferio sur.** | OA 7 |
+| 12 | Historia, Geografía y Cs. Sociales | **c) El hemisferio norte y el hemisferio sur.** | OA 7 |
 | 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
-| 14 | Matemática | Falta el **354**. La regla es "sumar 10" en cada paso. | OA 12 |
-| 15 | Ciencias Naturales | c) Reflexión (eco) — el sonido rebota en una superficie y vuelve al oyente | OA 10 |
+| 14 | Matemática | **d) 354; la regla es "sumar 10".** Cada número es 10 más que el anterior: 344 + 10 = 354. | OA 12 |
+| 15 | Ciencias Naturales | **c) Reflexión (eco) — el sonido rebota en una superficie y vuelve al oyente.** | OA 10 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** | OA 8 |
 | 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** | OA 17 |
 | 18 | Matemática | **b) El objeto de 1 kg.** 1 kg equivale a 1 000 g, que es más que 850 g. | OA 22 |
-| 19 | Ciencias Naturales | **Luna llena**, porque se observa toda su superficie iluminada desde la Tierra. | OA 11 |
+| 19 | Ciencias Naturales | **b) Luna llena, porque se ve toda su superficie iluminada.** La Luna llena es la fase en que vemos el disco lunar completamente iluminado. | OA 11 |
 | 20 | Historia, Geografía y Cs. Sociales | **b) La Convención sobre los Derechos del Niño.** | OA 14 |
 
 ### Resumen de la prueba
@@ -306,20 +321,20 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2 | 2 | 0 |
-| OA 3 | 3, 8 | 2 | 0 |
-| OA 4 | 4, 5, 7 | 3 | 0 |
-| OA 5 | 9 | 0 | 1 |
-| OA 6 | 6, 11, 13 | 2 | 1 |
-| OA 7 | 12 | 1 | 0 |
-| OA 8 | 16 | 1 | 0 |
-| OA 9 | 10 | 0 | 1 |
-| OA 10 | 15 | 1 | 0 |
-| OA 11 | 19 | 0 | 1 |
-| OA 12 | 14 | 0 | 1 |
-| OA 14 | 20 | 1 | 0 |
-| OA 17 | 17 | 1 | 0 |
-| OA 22 | 18 | 1 | 0 |
-| **Total** | **20 preguntas** | **15** | **5** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2 | 2 |
+| OA 3 | 3, 8 | 2 |
+| OA 4 | 4, 5, 7 | 3 |
+| OA 5 | 9 | 1 |
+| OA 6 | 6, 11, 13 | 3 |
+| OA 7 | 12 | 1 |
+| OA 8 | 16 | 1 |
+| OA 9 | 10 | 1 |
+| OA 10 | 15 | 1 |
+| OA 11 | 19 | 1 |
+| OA 12 | 14 | 1 |
+| OA 14 | 20 | 1 |
+| OA 17 | 17 | 1 |
+| OA 22 | 18 | 1 |
+| **Total** | **20 preguntas** | **20** |

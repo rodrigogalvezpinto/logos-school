@@ -25,27 +25,46 @@ Instrucciones: lee cada pregunta con calma. Si tienes cajas, dados u otros objet
 
 **Pregunta 1 (alternativas).** ¿Qué figura 3D se forma al doblar una red compuesta por 6 cuadrados iguales unidos en forma de cruz?
 a) Cono
-b) Cubo
-c) Esfera
+b) Esfera
+c) Cubo
 d) Pirámide
 
 **Pregunta 2 (completar).** La red de un paralelepípedo (como una caja de zapatos) está formada por ___ rectángulos.
+
+a) 4
+b) 6
+c) 8
+d) 12
 
 **Pregunta 3 (verdadero o falso).** Al desplegar un cono, se obtienen 2 figuras 2D: un círculo y una figura curva (llamada sector circular).
 
 **Pregunta 4 (identificar la red correcta).** [Imagen: dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértices, sin ninguna base] ¿Cuál de las dos redes corresponde a una pirámide de base cuadrada?
 
-**Pregunta 5 (relacionar red y figura 3D).** ¿Qué figura 3D se forma con una red compuesta por 2 círculos y 1 rectángulo (que se enrolla para unir los círculos)?
+a) La red A
+b) La red B
+c) Ninguna de las dos
+
+**Pregunta 5 (alternativas — red y figura 3D).** ¿Qué figura 3D se forma con una red compuesta por 2 círculos y 1 rectángulo (que se enrolla para unir los círculos)?
+
+a) Un cono
+b) Un cubo
+c) Una esfera
+d) Un cilindro
 
 **Pregunta 6 (aplicación).** Si tuvieras que construir la red de un cubo usando cartulina, ¿cuántos cuadrados necesitarías dibujar y recortar?
+
+a) 4 cuadrados del mismo tamaño
+b) 6 cuadrados del mismo tamaño
+c) 8 cuadrados de distinto tamaño
+d) 12 cuadrados
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) Cubo** — un cubo tiene 6 caras cuadradas iguales.
-2. **6** — un paralelepípedo tiene 6 caras rectangulares.
+1. **c) Cubo** — un cubo tiene 6 caras cuadradas iguales.
+2. b) 6 — un paralelepípedo tiene 6 caras rectangulares.
 3. **Verdadero** — la base circular se ve como un círculo y la superficie lateral como un sector circular.
-4. **La red A** — 1 cara cuadrada (base) y 4 caras triangulares, unidas por sus lados.
-5. **Un cilindro** — 2 caras circulares y una superficie lateral que se despliega como rectángulo.
-6. **6 cuadrados** del mismo tamaño, unidos entre sí.
+4. a) La red A — 1 cara cuadrada (base) y 4 caras triangulares, unidas por sus lados.
+5. d) Un cilindro — 2 caras circulares y una superficie lateral que se despliega como rectángulo.
+6. b) 6 cuadrados del mismo tamaño — el cubo tiene 6 caras cuadradas iguales (12 es el número de aristas).

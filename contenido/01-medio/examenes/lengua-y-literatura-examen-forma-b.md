@@ -8,14 +8,14 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 1° medio (Forma B)
 
-*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos del banco de contenido, pero que evalúa los mismos Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Examen de ensayo de la asignatura, construido a partir del banco de preguntas de estudio (`lengua-y-literatura.md`). Esta es la **Forma B**: una segunda versión del examen de práctica, con textos y preguntas distintos del banco de contenido, pero que evalúa los mismos Objetivos de Aprendizaje. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen sigue ese mismo formato: preguntas de alternativas (4 opciones) y de verdadero o falso, apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
-- Esta prueba contiene **25 preguntas**: 11 de alternativas (4 opciones), 2 de verdadero o falso con justificación, 7 de respuesta breve (incluye preguntas de aplicación) y 5 de respuesta extensa.
+- Esta prueba contiene **25 preguntas**: 22 de alternativas (4 opciones), 1 de «marca todas las correctas» y 2 de verdadero o falso.
 - Tiempo total: **90 minutos**.
 - Lee con atención cada texto antes de responder las preguntas asociadas a él. Puedes volver a leerlo cuantas veces necesites.
-- En las preguntas de alternativas, marca solo una opción. En las preguntas abiertas, responde con oraciones completas y ordena tus ideas.
+- En las preguntas de alternativas, marca solo una opción. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una.
 - No se permite el uso de libros, apuntes, celular u otro dispositivo electrónico. Puedes usar lápiz, goma y hoja de respuesta.
 - Administra bien tu tiempo: no te quedes pegado o pegada en una sola pregunta. Si te complicas con una, sigue adelante y vuelve a ella al final.
 - Al terminar, revisa tus respuestas antes de entregar. Al final de este documento encontrarás la **Pauta de Corrección** para autoevaluarte.
@@ -39,9 +39,9 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento?
 
 a) El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago
-b) La rivalidad entre Antonia y su primo Cristóbal por el negocio familiar
-c) La escasez de trigo durante la sequía de 1968
-d) La decisión del padre de vender el horno de barro
+b) La rivalidad entre Antonia y su primo Cristóbal por quedarse con el negocio y el horno de la familia
+c) La escasez de trigo durante la sequía de 1968, que obligó a cerrar la panadería por meses
+d) La decisión del padre de vender el horno de barro para pagar los estudios de Antonia en Santiago
 
 **2. (Alternativas)** ¿A qué **personaje tipo** corresponde la abuela Herminia?
 
@@ -50,11 +50,21 @@ b) El antagonista
 c) El sabio o mentor
 d) El avaro
 
-**3. (Verdadero o Falso, con justificación)** "Si el relato estuviera narrado en primera persona por Antonia, el lector tendría el mismo acceso a la insistencia semanal del padre sobre el horno que Antonia misma no llega a cuestionar del todo." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+**3. (Verdadero o Falso)** "Si el relato estuviera narrado en primera persona por Antonia, el lector tendría el mismo acceso a la insistencia semanal del padre sobre el horno que Antonia misma no llega a cuestionar del todo."
 
-**4. (Desarrollo breve)** Explica por qué el horno de barro, encendido "sin apagarse nunca del todo" por más de cuarenta años, puede considerarse un **símbolo** dentro del relato, y no solo un objeto de trabajo.
+**4. (Alternativas)** ¿Por qué el horno de barro, encendido "sin apagarse nunca del todo" por más de cuarenta años, puede considerarse un **símbolo**?
 
-**5. (Desarrollo extenso)** Identifica el prejuicio o creencia que existe en el pueblo sobre quienes se van a estudiar fuera, según lo que se comenta del primo Cristóbal, y relaciónalo con la visión de mundo de la época y el lugar en que está ambientado el relato (valle rural del Limarí, comienzos de los 2000). Luego, explica qué función cumple la mención de la Calchona más allá de ser un dato folclórico, estableciendo una relación intertextual con la tradición oral del Norte Chico.
+a) Porque representa la herencia familiar y la continuidad del oficio; que nunca se apague refuerza la idea de una tradición viva que Antonia debe decidir si continúa
+b) Porque es el horno más caro y antiguo del valle, y la familia teme que alguien lo robe si lo deja apagado durante la noche
+c) Porque solo sirve para hornear pan, sin otro sentido: el relato lo menciona para describir el trabajo diario de la panadería
+d) Porque se apaga al final del relato, cuando Antonia decide irse a Santiago y la familia cierra definitivamente la panadería del pueblo
+
+**5. (Alternativas)** ¿Qué creencia del pueblo aparece en lo que se comenta del primo Cristóbal, y qué función cumple la mención de la Calchona?
+
+a) Que quienes se van a estudiar a la ciudad vuelven millonarios y ya no necesitan el oficio familiar; la Calchona aparece solo como un dato decorativo, sin relación con el conflicto del relato ni con el pueblo
+b) Que nadie se va nunca del pueblo, porque la tierra retiene a todos los que nacen ahí; la Calchona es un personaje de una serie de televisión que el primo Cristóbal veía en Santiago
+c) No hay ninguna creencia del pueblo en lo que se comenta del primo; la Calchona aparece para anunciar que el oficio de panadero desaparecerá cuando Antonia se vaya a estudiar a la capital
+d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral del Norte Chico y refuerza que la tierra exige cuidado
 
 ---
 
@@ -85,9 +95,9 @@ d) El avaro
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El ensayo de las siete"?
 
-a) La rivalidad entre Doña Rosa y la Organizadora por el control del festival
-b) La decisión de Javiera de dejar de bailar en el conjunto
-c) La falta de financiamiento para el festival de cueca brava
+a) La rivalidad entre Doña Rosa y la Organizadora por quién controlará el festival de cueca brava de este año, y quién decidirá qué parejas bailan en la noche final
+b) La decisión de Javiera de dejar de bailar en el conjunto para cuidar a su tía Rosa después del ensayo
+c) La falta de financiamiento para el festival, que obliga a ensayar en una sede con el escenario en mal estado
 d) La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias
 
 **7. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Doña Rosa como bailarina?
@@ -97,9 +107,19 @@ b) El tubo fluorescente
 c) El escenario
 d) El parlante de música
 
-**8. (Desarrollo breve)** Explica qué efecto produce en la escena la decisión de ir bajando progresivamente la intensidad de la luz mientras el crujido de las tablas se hace continuo, en lugar de mantener la luz y el sonido constantes.
+**8. (Alternativas)** ¿Qué efecto produce bajar progresivamente la luz mientras el crujido de las tablas se hace continuo?
 
-**9. (Desarrollo extenso)** Identifica un hecho o comentario dentro de la escena que funcione como una señal temprana (un presagio) del posible desenlace, y explica por qué Doña Rosa decide ignorarlo, considerando su comportamiento y motivaciones como personaje. Luego, describe el problema humano más amplio que plantea la obra, más allá de la situación específica del ensayo de baile.
+a) Indica que la obra terminó y que los actores deben salir del escenario antes del aplauso del público
+b) Sirve solo para cambiar la escenografía sin que el público lo note mientras los personajes siguen hablando, sin relación con lo que ocurre en la escena ni con el conflicto
+c) Refuerza visual y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando la tensión sin que los personajes lo digan
+d) No produce ningún efecto en el sentido de la obra: es una indicación técnica para el iluminador de la sala
+
+**9. (Alternativas)** ¿Qué funciona como presagio, por qué Doña Rosa lo ignora y qué problema humano plantea la obra?
+
+a) El aplauso del público durante el ensayo; Doña Rosa lo ignora porque no alcanza a escucharlo con la música; el problema de fondo es el precio de las entradas al festival, que nadie quiere pagar
+b) Una llamada telefónica de su hija que pide que vuelva a casa; Doña Rosa la ignora por cansancio después de un día largo; el problema de fondo es la puntualidad del conjunto en los ensayos
+c) El comentario del doctor sobre la rodilla y la sugerencia de esperar; los ignora porque su identidad de bailarina experimentada la hace confiar en su juicio; el problema es reconocer el propio límite cuando la identidad está ligada al oficio
+d) No hay presagios en la escena: Doña Rosa sigue el consejo del doctor y suspende el ensayo apenas siente dolor en la rodilla; el problema de fondo es la falta de músicos para acompañar la cueca
 
 ---
 
@@ -116,16 +136,21 @@ b) La leyenda del Caleuche
 c) El mito chilote de la Pincoya
 d) El mito mapuche de Kai Kai Vilu
 
-**11. (Verdadero o Falso, con justificación)** "El microcuento presenta la creencia sobre la Pincoya y los reportes de los biólogos marinos como visiones opuestas, donde una desmiente por completo a la otra." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+**11. (Verdadero o Falso)** "El microcuento presenta la creencia sobre la Pincoya y los reportes de los biólogos marinos como visiones opuestas, donde una desmiente por completo a la otra."
 
 **12. (Alternativas)** ¿Con qué contexto se relaciona directamente el microcuento "Cara al mar"?
 
-a) La fundación de las caletas de pescadores en el sur de Chile
-b) La colonización española del sur de Chile
-c) La Guerra del Pacífico
+a) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile
+b) La colonización española del sur de Chile y la introducción de nuevas técnicas de pesca
+c) La Guerra del Pacífico y la pérdida de puertos pesqueros en el norte del país
 d) La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas
 
-**13. (Desarrollo extenso)** Formula tu propia interpretación del sentido general de "Cara al mar", integrando un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que la sustente, y la relación entre el mito de la Pincoya mencionado y el contexto de la sobreexplotación pesquera.
+**13. (Alternativas)** ¿Qué interpretación de "Cara al mar" integra un punto de vista, una cita y la relación entre la Pincoya y la sobreexplotación pesquera?
+
+a) Desde un punto de vista social, el mito de la Pincoya expresa la misma advertencia que la ciencia sobre la sobreexplotación, como muestra la frase "la Pincoya lleva años bailando de espaldas al mar, y que hace tiempo dejamos de sacar solo lo necesario"
+b) Desde un punto de vista histórico, el relato es solo una leyenda antigua sin relación con el presente, como muestra la frase "mi abuelo, si viviera", que sitúa toda la historia en el pasado y deja fuera las preocupaciones actuales
+c) Desde un punto de vista científico, el relato demuestra que los biólogos marinos están equivocados, como muestra la frase "nos hablan de colapso de stock", porque el abuelo sabía más del mar que cualquier estudio
+d) Desde un punto de vista personal, el relato trata sobre una competencia de natación entre el narrador y su abuelo, como muestra la frase "cara al mar", que describe la posición de los nadadores al partir
 
 ---
 
@@ -140,20 +165,30 @@ d) La sobreexplotación pesquera y el colapso documentado de especies marinas en
 **14. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna?
 
 a) Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio
-b) La inteligencia artificial nunca debería usarse, ni dentro ni fuera del colegio
-c) La prohibición del uso de IA no tiene ningún efecto en las entregas copiadas
-d) Los informes sobre uso de IA en tareas no son confiables y deberían ignorarse
+b) La inteligencia artificial nunca debería usarse, ni dentro ni fuera del colegio, porque siempre impide que los estudiantes piensen por sí mismos
+c) La prohibición del uso de IA no tiene ningún efecto en las entregas copiadas, por lo que el colegio debería eliminarla de inmediato
+d) Los informes sobre uso de IA en las tareas no son confiables y deberían ignorarse al decidir las reglas del colegio
 
 **15. (Alternativas)** ¿Qué intención tiene principalmente el autor al abrir la columna con la pregunta retórica "¿De verdad prohibir estas herramientas evita que los y las estudiantes dejen de pensar por sí mismos, o es solo una medida que da la sensación de 'estar haciendo algo'?"?
 
-a) Busca que el lector responda por escrito antes de seguir leyendo
+a) Busca que el lector responda la pregunta por escrito antes de seguir leyendo, como en una guía de ejercicios
 b) Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la prohibición antes de presentar evidencia
-c) Demuestra que el autor no tiene ninguna postura sobre el tema
-d) No tiene ninguna función argumentativa relevante
+c) Demuestra que el autor no tiene ninguna postura sobre el tema y que solo quiere informar al lector de manera neutral
+d) No tiene ninguna función argumentativa relevante: es una forma de comenzar el texto que no influye en la lectura
 
-**16. (Desarrollo breve)** Evalúa la suficiencia del dato citado en el texto (la disminución del 12% en entregas copiadas o generadas automáticamente) para sustentar por completo la tesis del autor. ¿Es suficiente o insuficiente? Fundamenta.
+**16. (Alternativas)** ¿Es suficiente el dato de la disminución del 12% en entregas copiadas o generadas automáticamente para sustentar por completo la tesis del autor?
 
-**17. (Desarrollo breve — postura personal)** Da tu propia postura frente a la tesis del autor: ¿crees que prohibir el uso de IA en las tareas debería acompañarse de educación sobre su uso con criterio, o consideras que basta con la prohibición? Fundamenta con al menos un argumento propio.
+a) Es completamente suficiente: prueba la tesis del autor, porque una cifra exacta y comprobada como esa no deja lugar a dudas sobre el efecto de la prohibición en el aprendizaje real
+b) Es irrelevante para la tesis, porque la columna no habla de entregas copiadas sino del aprendizaje
+c) Es falso, porque el texto no presenta ningún dato numérico y solo se basa en opiniones del autor
+d) Es pertinente pero insuficiente: mide entregas detectadas por los docentes, no aprendizaje, y el texto reconoce otros factores como las tareas rediseñadas
+
+**17. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura **con un argumento propio** sobre prohibir la IA en las tareas?
+
+a) "Estoy de acuerdo con el autor, porque la prohibición, sola, ataca el síntoma y enseñar a usar la herramienta podría atacar la causa"
+b) "Creo que la prohibición debe acompañarse de educación, porque la IA seguirá existiendo fuera del colegio y necesitamos aprender a usarla con criterio"
+c) "No sé qué pensar, porque el autor da razones a favor y en contra, y prefiero no tomar ninguna postura sobre el uso de la IA"
+d) "El autor habla de la IA en el colegio y de la prohibición en las tareas, y menciona que hubo una disminución de un 12%"
 
 ---
 
@@ -174,21 +209,31 @@ d) No tiene ninguna función argumentativa relevante
 
 **18. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto A (la nota del portal municipal)?
 
-a) Cuestionar la calidad de la pintura y las luminarias instaladas
+a) Cuestionar la calidad de la pintura y las luminarias instaladas por la empresa
 b) Proyectar una imagen positiva de la gestión municipal a través de la obra inaugurada
-c) Invitar a los ciclistas a organizar una protesta
-d) Explicar en detalle el proceso de licitación de la obra
+c) Invitar a los ciclistas de la comuna a organizar una protesta contra la obra
+d) Explicar en detalle el proceso de licitación de la obra y sus costos totales
 
 **19. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre la nueva ciclovía?
 
-a) Que uno de los dos textos miente completamente
+a) Que uno de los dos textos miente completamente, porque un mismo hecho no puede mostrarse con dos énfasis distintos sin que una de las fuentes falsee la información
 b) Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las redes sociales siempre son más confiables que los medios oficiales
-d) Que los municipios nunca informan con cifras reales
+c) Que las redes sociales siempre son más confiables que los medios oficiales, porque los propios ciclistas graban lo que ocurre sin intermediarios ni intereses detrás
+d) Que los municipios nunca informan con cifras reales, por lo que todo dato publicado por una autoridad local debe considerarse falso hasta que se demuestre lo contrario
 
-**20. (Desarrollo breve — recursos no lingüísticos)** Explica qué efecto produce la fotografía elegida para el Texto A (el alcalde pedaleando junto a funcionarios con chalecos nuevos, con el tramo vacío de fondo) en la percepción del lector sobre la obra.
+**20. (Alternativas — recursos no lingüísticos)** ¿Qué efecto produce la fotografía del Texto A (el alcalde pedaleando junto a funcionarios con chalecos nuevos, con el tramo vacío de fondo)?
 
-**21. (Desarrollo extenso)** Compara las estrategias de persuasión usadas en el Texto A y el Texto B, y evalúa la veracidad y consistencia de ambos: ¿pueden ser parcialmente ciertos los dos a la vez? Luego, reflexiona sobre qué elemento de estos dos textos (una cifra, una imagen, un tono, una frase) crees que influiría más en tu propia opinión sobre la nueva ciclovía si la vieras por primera vez en tus redes sociales, y explica por qué.
+a) Muestra objetivamente el uso diario de la ciclovía por parte de los vecinos, tal como ocurre cualquier día
+b) Critica la obra municipal al mostrar que la ciclovía está casi siempre vacía
+c) Construye una imagen de orden y éxito que puede ser más idealizada que el uso cotidiano de la ciclovía
+d) No produce ningún efecto: las fotos oficiales son siempre neutrales y completas
+
+**21. (Alternativas)** ¿Qué opción compara correctamente las estrategias de los textos A y B y evalúa su consistencia?
+
+a) El A usa cifras para transmitir rigor institucional y el B humor y experiencia directa para cuestionar; ambos pueden ser parcialmente ciertos a la vez
+b) Ambos usan solo cifras para persuadir al lector, y como sus cifras no coinciden entre sí, uno de los dos textos es necesariamente falso y el otro completamente verdadero
+c) El A usa humor y experiencia directa y el B cifras oficiales; por eso ninguno de los dos puede ser cierto
+d) Ninguno usa estrategias de persuasión: ambos se limitan a informar los hechos de manera neutral y completa
 
 ---
 
@@ -200,20 +245,35 @@ d) Que los municipios nunca informan con cifras reales
 
 a) Introducir en el último párrafo un tema completamente distinto al planteado en la hipótesis
 b) Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin desviarse hacia ideas no conectadas con el tema central
-c) Usar la mayor cantidad posible de citas, sin importar si se relacionan con el tema
+c) Usar la mayor cantidad posible de citas de autores reconocidos, sin importar si se relacionan con la hipótesis o el tema
 d) Cambiar la postura del ensayo en cada párrafo, para mostrar varios puntos de vista sin tomar una postura final
 
-**23. (Desarrollo breve)** Explica por qué es importante citar correctamente la fuente de un dato (por ejemplo, "según un informe de un centro de estudios educacionales, citado por varios medios en 2025") en un ensayo persuasivo, en lugar de simplemente afirmar el dato sin indicar de dónde proviene.
+**23. (Varias correctas)** ¿Por qué es importante citar la fuente de un dato en un ensayo persuasivo? Marca **todas** las correctas.
 
-**24. (Desarrollo breve — planificación)** Planifica brevemente un ensayo persuasivo sobre el tema propuesto: formula (a) una hipótesis clara, y (b) un tipo de evidencia —literaria o no literaria— que usarías para sustentarla, señalando de qué texto la extraerías (puedes usar alguno de los textos de esta prueba).
+a) Permite evaluar la confiabilidad del dato y distinguirlo de una opinión sin sustento
+b) Es una práctica de honestidad intelectual que reconoce el origen de la información
+c) Fortalece la credibilidad del ensayo
+d) Sirve para alargar el texto sin aportar nada
 
-**25. (Desarrollo extenso — texto integrado)** Escribe un párrafo de introducción (3 a 5 oraciones) para un ensayo persuasivo sobre el tema propuesto, que presente con claridad tu hipótesis. Luego, escribe el párrafo de conclusión (3 a 4 oraciones) de ese mismo ensayo, asegurándote de que retome la hipótesis planteada en tu introducción sin introducir ideas nuevas que no hayas desarrollado.
+**24. (Alternativas — planificación)** ¿Qué opción presenta una planificación adecuada de un ensayo persuasivo sobre el uso de la IA en las tareas escolares?
+
+a) Hipótesis: ninguna, porque basta con dar mi opinión sobre el tema. Evidencia: lo que pienso sobre la IA en mi curso
+b) Hipótesis: la IA no existe en los colegios chilenos. Evidencia: el poema de la prueba y un ejemplo de mi experiencia
+c) Escribir directamente el ensayo, sin hipótesis ni evidencia, y decidir la postura al llegar al último párrafo, según cómo haya quedado el texto; la evidencia puede agregarse después si sobra espacio
+d) Hipótesis: prohibir la IA no basta si no se enseña a usarla con criterio. Evidencia: el dato del 12% de la columna, señalando que la propia columna reconoce otros factores
+
+**25. (Alternativas — texto integrado)** ¿Qué par de párrafos (introducción y conclusión) cumple lo pedido para un ensayo persuasivo sobre el uso de la IA en las tareas?
+
+a) Introducción: "Hoy en día la tecnología está presente en todas partes y los estudiantes la usan para muchas cosas distintas." Conclusión: "Por eso, los computadores deberían ser más baratos, para que todas las familias puedan comprarlos y los estudiantes tengan acceso a internet en su casa."
+b) Introducción: "Prohibir la IA en las tareas puede reducir copias, pero no basta: sin educación, los estudiantes no aprenderán a usarla con criterio." Conclusión: "Por eso, la prohibición debe acompañarse de formación en uso responsable, como muestran los argumentos revisados."
+c) Introducción: "Prohibir la IA en las tareas es la única medida necesaria, porque elimina las copias." Conclusión: "Por eso, prohibir la IA no sirve de nada, y lo único que importa es enseñar a usarla con criterio."
+d) Solo una conclusión, sin introducción: "En conclusión, la IA tiene ventajas y desventajas, y cada estudiante debe decidir cómo usarla."
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -228,28 +288,28 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 1 | **a)** El dilema de Antonia entre continuar la panadería familiar o partir a estudiar pastelería a Santiago. | OA N°3 — conflicto central |
 | 2 | **c)** El sabio o mentor. | OA N°3 — personaje tipo |
 | 3 | **Falso.** La narración en tercera persona permite mostrar detalles —como la insistencia semanal del padre sobre el horno— que la propia Antonia no necesariamente interpreta o cuestiona; en primera persona, el lector solo accedería a lo que Antonia percibe y elige contar. | OA N°3 — efecto de la narración en primera o tercera persona |
-| 4 | Debe explicar que el horno no es solo un objeto de trabajo, sino que representa la herencia familiar y la continuidad del oficio a través de generaciones; el hecho de que nunca se apague del todo refuerza simbólicamente la idea de una tradición que se mantiene viva y que Antonia debe decidir si continúa. | OA N°3 — símbolo |
-| 5 | Debe identificar que en el pueblo se cree que quienes se van a estudiar fuera "se les olvidan sus raíces", relacionándolo con una visión de mundo rural donde el oficio familiar y el arraigo territorial definían la identidad; y explicar que la mención de la Calchona conecta el relato con la mitología y tradición oral del Norte Chico, reforzando el mensaje de la abuela de que la tierra exige cuidado, no solo provecho, lo que enriquece el sentido de la conversación entre abuela y nieta. | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
+| 4 | **a) Porque representa la herencia familiar y la continuidad del oficio; que nunca se apague refuerza la idea de una tradición viva que Antonia debe decidir si continúa.** | OA N°3 — símbolo |
+| 5 | **d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral del Norte Chico y refuerza que la tierra exige cuidado.** | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
 | 6 | **d)** La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias. | OA N°5 — conflicto central |
 | 7 | **a)** El pañuelo de baile. | OA N°5 — símbolo |
-| 8 | Debe explicar que la luz decreciente y el crujido de las tablas, que pasa de intermitente a continuo, refuerzan visualmente y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando en el lector o espectador la sensación de que algo grave está por ocurrir, sin que los personajes lo digan explícitamente. | OA N°5 — elementos de la puesta en escena |
-| 9 | Debe identificar que el comentario del doctor sobre la rodilla y la recomendación de la Organizadora de esperar hasta el día siguiente funcionan como presagios, que Doña Rosa ignora porque su identidad como bailarina experimentada la lleva a confiar en su propio juicio del riesgo; y describir el problema humano de reconocer el propio límite o peligro real cuando la identidad de una persona está profundamente ligada a su oficio o disciplina, incluso a costa de su salud. | OA N°5 — presagios, comportamiento del personaje y problema humano (integrada) |
+| 8 | **c) Refuerza visual y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando la tensión sin que los personajes lo digan.** | OA N°5 — elementos de la puesta en escena |
+| 9 | **c) El comentario del doctor sobre la rodilla y la sugerencia de esperar; los ignora porque su identidad de bailarina experimentada la hace confiar en su juicio; el problema es reconocer el propio límite cuando la identidad está ligada al oficio.** | OA N°5 — presagios, comportamiento del personaje y problema humano (integrada) |
 | 10 | **c)** El mito chilote de la Pincoya. | OA N°8 — relación intertextual/alusión a un mito |
 | 11 | **Falso.** El texto pone ambas visiones en diálogo, no en competencia; la creencia del abuelo se actualiza con el lenguaje de los biólogos marinos ("la Pincoya lleva años bailando de espaldas al mar"), sin que una invalide a la otra. | OA N°8 — visión de mundo de la obra |
 | 12 | **d)** La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas. | OA N°8 — contexto histórico |
-| 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente (por ejemplo, "Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar, y que hace tiempo dejamos de sacar solo lo necesario"), y la relación explícita entre la alusión al mito de la Pincoya y el contexto de la sobreexplotación pesquera. | OA N°8 — interpretación literaria coherente e integrada |
+| 13 | **a) Desde un punto de vista social, el mito de la Pincoya expresa la misma advertencia que la ciencia sobre la sobreexplotación, como muestra la frase "la Pincoya lleva años bailando de espaldas al mar, y que hace tiempo dejamos de sacar solo lo necesario".** | OA N°8 — interpretación literaria coherente e integrada |
 | 14 | **a)** Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio. | OA N°9 — tesis del autor |
 | 15 | **b)** Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la prohibición antes de presentar evidencia. | OA N°9 — intención de la pregunta retórica |
-| 16 | Debe explicar que el dato es pertinente pero insuficiente por sí solo, ya que mide entregas detectadas según la evaluación docente y no un resultado objetivo de aprendizaje, y que el propio texto reconoce que otros factores (tareas rediseñadas) podrían explicar la disminución. | OA N°9 — suficiencia y pertinencia de la información |
-| 17 | Cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente con la postura elegida. | OA N°9 — postura personal |
+| 16 | **d) Es pertinente pero insuficiente: mide entregas detectadas por los docentes, no aprendizaje, y el texto reconoce otros factores como las tareas rediseñadas.** | OA N°9 — suficiencia y pertinencia de la información |
+| 17 | **b) "Creo que la prohibición debe acompañarse de educación, porque la IA seguirá existiendo fuera del colegio y necesitamos aprender a usarla con criterio".** Una postura fundamentada aporta una razón propia, no solo repite la conclusión del autor. | OA N°9 — postura personal |
 | 18 | **b)** Proyectar una imagen positiva de la gestión municipal a través de la obra inaugurada. | OA N°10 — propósito implícito |
 | 19 | **b)** Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera. | OA N°10 — comparación de fuentes |
-| 20 | Debe explicar que la fotografía refuerza una sensación de orden, éxito y beneficio directo hacia la comunidad, mostrando un momento controlado y positivo que puede no representar el uso cotidiano de la ciclovía, generando una impresión más idealizada de la obra. | OA N°10 — efecto de recursos no lingüísticos |
-| 21 | Debe comparar que el Texto A usa cifras precisas para transmitir rigor institucional y el Texto B usa humor y apelación a la experiencia directa para cuestionar la versión oficial; reconocer que ambos textos podrían ser parcialmente ciertos a la vez; y formular una reflexión personal razonada sobre qué elemento influiría más en su propia opinión, considerando que la sensación de "autenticidad" también puede ser una estrategia de persuasión. | OA N°10 — estrategias de persuasión, veracidad e influencia en las propias opiniones (integrada) |
+| 20 | **c) Construye una imagen de orden y éxito que puede ser más idealizada que el uso cotidiano de la ciclovía.** | OA N°10 — efecto de recursos no lingüísticos |
+| 21 | **a) El A usa cifras para transmitir rigor institucional y el B humor y experiencia directa para cuestionar; ambos pueden ser parcialmente ciertos a la vez.** La sensación de "autenticidad" también puede ser una estrategia de persuasión. | OA N°10 — estrategias de persuasión, veracidad e influencia en las propias opiniones (integrada) |
 | 22 | **b)** Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin desviarse hacia ideas no conectadas con el tema central. | OA N°14 — coherencia temática |
-| 23 | Debe explicar que citar la fuente permite que el lector evalúe la confiabilidad del dato y distinga entre una afirmación respaldada por evidencia verificable y una opinión sin sustento, y que es una práctica de honestidad intelectual que reconoce el origen de la información. | OA N°14 — citas y referencias |
-| 24 | Debe presentar una hipótesis clara sobre el tema propuesto y un tipo de evidencia (literaria o no literaria) pertinente, señalando de qué texto la extraería, de forma coherente entre sí. | OA N°14 — planificación (hipótesis y evidencia) |
-| 25 | Debe presentar una introducción que plantee con claridad una hipótesis, y una conclusión que retome explícitamente esa misma hipótesis a la luz de argumentos ya desarrollados, sin introducir ideas nuevas no mencionadas antes. | OA N°14 — hipótesis, coherencia temática y conclusión (integrada) |
+| 23 | **a, b y c.** | OA N°14 — citas y referencias |
+| 24 | **d) Hipótesis: prohibir la IA no basta si no se enseña a usarla con criterio. Evidencia: el dato del 12% de la columna, señalando que la propia columna reconoce otros factores.** | OA N°14 — planificación (hipótesis y evidencia) |
+| 25 | **b) Introducción: "Prohibir la IA en las tareas puede reducir copias, pero no basta: sin educación, los estudiantes no aprenderán a usarla con criterio." Conclusión: "Por eso, la prohibición debe acompañarse de formación en uso responsable, como muestran los argumentos revisados."** La conclusión debe retomar la hipótesis planteada en la introducción sin introducir ideas nuevas. | OA N°14 — hipótesis, coherencia temática y conclusión (integrada) |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
@@ -267,10 +327,9 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | Tipo de pregunta | Cantidad | Preguntas |
 |---|---|---|
-| Alternativas (4 opciones) | 11 | 1, 2, 6, 7, 10, 12, 14, 15, 18, 19, 22 |
-| Verdadero o Falso (con justificación) | 2 | 3, 11 |
-| Desarrollo breve (incluye aplicación) | 7 | 4, 8, 16, 17, 20, 23, 24 |
-| Desarrollo extenso | 5 | 5, 9, 13, 21, 25 |
+| Alternativas (4 opciones) | 22 | 1, 2, 4–10, 12–22, 24, 25 |
+| Varias correctas («marca todas las correctas») | 1 | 23 |
+| Verdadero o Falso | 2 | 3, 11 |
 | **Total** | **25** | |
 
 ---
@@ -279,14 +338,14 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Alternativas | V/F con justificación | Desarrollo (breve o extenso) |
+| Objetivo de Aprendizaje | Preguntas | Alternativas | Verdadero o falso | Varias correctas |
 |---|---|---|---|---|
-| OA 3 | 1, 2, 3, 4, 5 | 2 | 1 | 2 |
-| OA 5 | 6, 7, 8, 9 | 2 | 0 | 2 |
-| OA 8 | 10, 11, 12, 13 | 2 | 1 | 1 |
-| OA 9 | 14, 15, 16, 17 | 2 | 0 | 2 |
-| OA 10 | 18, 19, 20, 21 | 2 | 0 | 2 |
-| OA 14 | 22, 23, 24, 25 | 1 | 0 | 3 |
-| **Total** | **25 preguntas** | **11** | **2** | **12** |
+| OA 3 | 1, 2, 3, 4, 5 | 4 | 1 | 0 |
+| OA 5 | 6, 7, 8, 9 | 4 | 0 | 0 |
+| OA 8 | 10, 11, 12, 13 | 3 | 1 | 0 |
+| OA 9 | 14, 15, 16, 17 | 4 | 0 | 0 |
+| OA 10 | 18, 19, 20, 21 | 4 | 0 | 0 |
+| OA 14 | 22, 23, 24, 25 | 3 | 0 | 1 |
+| **Total** | **25 preguntas** | **22** | **2** | **1** |
 
 Cada pregunta se cuenta en un solo tipo: la justificación de V/F forma parte del mismo ítem y no se vuelve a contar como desarrollo.

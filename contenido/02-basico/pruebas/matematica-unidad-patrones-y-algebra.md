@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 2° Básico
-oa_por_pregunta: {"5":"OA 13","7":"OA 13"}
+oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","5":"OA 13","7":"OA 13"}
 eje: Patrones y Álgebra (OA 12, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Patrones y Álgebra
@@ -16,24 +16,34 @@ ultima_actualizacion: 2026-10-28
 **Matemática — 2° Básico**
 
 **Tiempo sugerido:** 15 a 20 minutos
-**Instrucciones:** Lee cada pregunta con calma y responde en el espacio o marcando la alternativa correcta.
+**Instrucciones:** Lee cada pregunta con calma y marca la alternativa correcta.
 
 ---
 
 **Pregunta 1.** ¿Cuál es la regla de la secuencia 10, 20, 30, 40?
 
 a) sumar 5
-b) sumar 10
+b) restar 10
 c) sumar 20
-d) restar 10
+d) sumar 10
 
 ---
 
 **Pregunta 2.** Completa la secuencia: 45, 50, 55, ___, 65
 
+a) 60
+b) 56
+c) 70
+d) 57
+
 ---
 
 **Pregunta 3.** Completa: 6, 12, 18, ___, 30
+
+a) 20
+b) 22
+c) 24
+d) 26
 
 ---
 
@@ -46,7 +56,11 @@ d) restar 15
 
 ---
 
-**Pregunta 5.** 9+4 ___ 15 (escribe el símbolo correcto: =, > o <)
+**Pregunta 5.** 9+4 ___ 15 ¿Qué símbolo va en el espacio?
+
+a) <
+b) >
+c) =
 
 ---
 
@@ -59,16 +73,20 @@ d) ninguno
 
 ---
 
-**Pregunta 7.** Compara: 10+9 ___ 7+7 (escribe el símbolo correcto: =, > o <)
+**Pregunta 7.** Compara: 10+9 ___ 7+7 ¿Qué símbolo va en el espacio?
+
+a) <
+b) >
+c) =
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) sumar 10.** La diferencia entre cada número y el anterior es siempre 10.
-2. **60.** La regla es "sumar 5": 55+5=60.
-3. **24.** La regla es "sumar 6": 18+6=24.
+1. **d) sumar 10.** La diferencia entre cada número y el anterior es siempre 10.
+2. a) 60. La regla es "sumar 5": 55 + 5 = 60.
+3. c) 24. La regla es "sumar 6": 18 + 6 = 24.
 4. **b) restar 10.** La diferencia entre cada número y el siguiente es siempre 10.
-5. **<.** 9+4=13, y 13 es menor que 15.
+5. a) <. 9 + 4 = 13, y 13 es menor que 15.
 6. **c) =.** 6+6=12, ambos lados valen exactamente 12.
-7. **>.** 10+9=19 y 7+7=14; 19 es mayor que 14.
+7. b) >. 10 + 9 = 19 y 7 + 7 = 14; 19 es mayor que 14.

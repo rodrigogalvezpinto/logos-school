@@ -19,16 +19,15 @@ nota: |
 
 **Tiempo sugerido:** 15 a 20 minutos
 **Instrucciones:** Lee cada pregunta con calma. En las preguntas de alternativas,
-marca solo una opción. En las preguntas de desarrollo o clasificación, responde con
-tus propias palabras.
+marca solo una opción. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
 **1.** ¿Cuál de estos materiales es un líquido a temperatura ambiente?
 
 a) Piedra
-b) Leche
-c) Aire
+b) Aire
+c) Leche
 d) Hielo
 
 ---
@@ -38,45 +37,54 @@ todo el espacio disponible.
 
 ---
 
-**3.** *(Clasificación)* Clasifica estos elementos en sólido, líquido o gaseoso: jugo
-de frutilla, una silla de madera, el aire que respiras, un cubo de hielo, el humo de
-una fogata.
+**3.** *(Varias correctas — clasificación)* ¿Qué elementos están en estado **gaseoso**?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Jugo de frutilla
+b) El aire que respiras
+c) Un cubo de hielo
+d) El humo de una fogata
 
 ---
 
-**4.** *(Desarrollo breve)* Explica con tus palabras la diferencia entre la capacidad
-de fluir de un sólido y de un líquido, dando un ejemplo de cada uno.
+**4.** *(Alternativas)* ¿Qué afirmación sobre la capacidad de fluir de sólidos y líquidos es correcta?
+
+a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua)
+b) Un sólido fluye y se adapta al recipiente (como una piedra); un líquido mantiene su forma (como el agua)
+c) Los dos fluyen de la misma manera y toman la forma de cualquier recipiente donde se pongan
+d) Ninguno de los dos puede fluir: ambos mantienen siempre su forma, sin importar el recipiente
 
 ---
 
 **5.** Si viertes agua en distintos recipientes (un vaso, una botella, un plato),
 ¿qué ocurre con su forma?
 
-a) Se mantiene igual siempre
+a) Se mantiene igual en todos los recipientes
 b) Se adapta a la forma del recipiente
-c) Desaparece
-d) Se vuelve sólida
+c) Desaparece al cambiar de recipiente
+d) Se vuelve sólida dentro del recipiente
 
 ---
 
-**6.** *(Aplicación)* Piensa en el vapor que sale de una olla con agua hirviendo.
-¿En qué estado de la materia se encuentra? Justifica tu respuesta usando el criterio
-de forma y volumen.
+**6.** *(Alternativas — aplicación)* Piensa en el vapor que sale de una olla con agua hirviendo.
+¿En qué estado de la materia se encuentra, según el criterio de forma y volumen?
+
+a) Líquido, porque viene del agua que está en la olla y se puede volver a juntar
+b) Sólido, porque se puede ver salir de la olla
+c) Líquido, porque tiene volumen fijo y toma la forma de la cocina donde está
+d) Gaseoso, porque no tiene forma ni volumen fijo y se dispersa en el ambiente
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) Leche.** La leche fluye y toma la forma del recipiente que la contiene,
+1. **c) Leche.** La leche fluye y toma la forma del recipiente que la contiene,
    características propias del estado líquido.
 2. **Verdadero.** A diferencia de los sólidos y líquidos, los gases se expanden
    libremente hasta llenar el espacio en el que se encuentran.
-3. **Líquido:** jugo de frutilla. **Sólido:** silla de madera, cubo de hielo.
-   **Gaseoso:** aire, humo.
-4. **Respuesta esperada:** Un sólido no fluye, mantiene su forma (por ejemplo, una
-   piedra); un líquido sí fluye y se adapta a la forma del recipiente (por ejemplo,
-   el agua).
+3. b y d — El aire y el humo son gaseosos; el jugo es líquido; la silla de madera y el hielo son sólidos.
+4. a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua)
 5. **b) Se adapta a la forma del recipiente.** Es una característica clave de los
    líquidos: no tienen forma propia.
-6. **Respuesta esperada:** Está en estado gaseoso, porque no tiene forma ni volumen
-   fijo: se dispersa y ocupa el espacio del ambiente.
+6. d) Gaseoso, porque no tiene forma ni volumen fijo y se dispersa en el ambiente. Reconocer el vapor como gas (y no como líquido) suele confundir: no mantiene forma ni volumen propio.

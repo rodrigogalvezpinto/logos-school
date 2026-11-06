@@ -101,10 +101,10 @@ culturas.
    located between two tectonic plates. There are more than 500 volcanoes in the
    country."* What is the text mainly about?
    a) Chilean food
-   b) Volcanoes in Chile
+   b) Chilean history
    c) Tectonic games
-   d) Chilean history
-   **Respuesta correcta:** b) Volcanoes in Chile.
+   d) Volcanoes in Chile
+   **Respuesta correcta:** d) Volcanoes in Chile.
    **Retroalimentación:** El texto completo gira en torno a los volcanes; los
    detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.
 
@@ -119,52 +119,57 @@ culturas.
    *about 6% to 9%*. Hay que distinguir lo que "mucha gente dice" de lo que el
    texto afirma.
 
-3. *(Completar)* Complete: *"The first sentence of a paragraph usually gives you
-   the ___ idea of the text."* (main / explicit / false)
-   **Respuesta correcta:** main.
-   **Retroalimentación:** *Main idea* (idea principal/general) es el concepto que
-   resume de qué trata todo el texto.
+3. *(Alternativas — Completar)* Complete: *"The first sentence of a paragraph usually gives you the ___ idea of the text."*
+   a) main
+   b) explicit
+   c) false
+   d) small
+   **Respuesta correcta:** a) main.
+   **Retroalimentación:** *Main idea* (idea principal/general) es el concepto que resume de qué trata todo el texto.
 
-4. *(Responder en inglés)* Read: *"Diego plays basketball three times a week at
-   the community center."* Answer: *How many times a week does Diego play
-   basketball?*
-   **Respuesta esperada:** *He plays three times a week.*
-   **Retroalimentación:** El dato exacto (*three times a week*) aparece
-   directamente en el texto; no requiere inferencia.
+4. *(Alternativas — Comprensión)* Read: *"Diego plays basketball three times a week at the community center."* *How many times a week does Diego play basketball?*
+   a) He plays once a week.
+   b) He plays every day.
+   c) He plays at school.
+   d) He plays three times a week.
+   **Respuesta correcta:** d) He plays three times a week.
+   **Retroalimentación:** El dato exacto (*three times a week*) aparece directamente en el texto; no requiere inferencia.
 
-5. *(Emparejar)* Relaciona la frase con su función: *"I disagree because..."* →
-   ¿"dar información explícita" o "expresar una postura personal"?
-   **Respuesta correcta:** expresar una postura personal.
-   **Retroalimentación:** *I agree/disagree because* se usa para dar tu opinión y
-   justificarla, no para repetir datos del texto.
+5. *(Alternativas — Función)* ¿Qué función cumple la frase *"I disagree because..."*?
+   a) Expresar una postura personal y justificarla
+   b) Dar información explícita del texto
+   c) Describir el lugar donde ocurre la historia
+   d) Presentar a los personajes
+   **Respuesta correcta:** a) Expresar una postura personal y justificarla.
+   **Retroalimentación:** *I agree/disagree because* se usa para dar tu opinión y justificarla, no para repetir datos del texto.
 
 6. *(Alternativas)* Read: *"Recycling helps reduce waste in landfills. Many
    countries now require families to separate their garbage."* ¿Cuál es un dato
    explícito del texto?
-   a) Recycling is boring.
-   b) Many countries require families to separate garbage.
-   c) Recycling is the best hobby.
-   d) All families love recycling.
-   **Respuesta correcta:** b) Many countries require families to separate
+   a) Recycling is boring for most families.
+   b) All families love to separate their garbage.
+   c) Recycling is the best hobby for families.
+   d) Many countries require families to separate garbage.
+   **Respuesta correcta:** d) Many countries require families to separate
    garbage.
    **Retroalimentación:** Esa es información dicha directamente en el texto; las
    otras opciones son opiniones no mencionadas o exageraciones.
 
-7. *(Responder en inglés — desafiante)* Read: *"Some scientists say students
-   should have less homework so they can rest and play more."* Answer: *Do you
-   agree or disagree with this idea? Why?*
-   **Respuesta esperada:** Respuesta personal con estructura, por ejemplo: *I
-   agree because students need free time to relax and be healthy.*
-   **Retroalimentación:** Se evalúa *I agree/disagree* + *because* + una razón
-   coherente con el tema leído.
+7. *(Alternativas — Opinión — desafiante)* Read: *"Some scientists say students should have less homework so they can rest and play more."* Which answer expresses an opinion with a coherent reason?
+   a) I agree because homework is blue and I don't like that color.
+   b) Scientists are people who study many things in a laboratory.
+   c) I agree because students need free time to relax and be healthy.
+   d) Students have homework on Monday, Wednesday and Friday.
+   **Respuesta correcta:** c) I agree because students need free time to relax and be healthy.
+   **Retroalimentación:** Una opinión bien construida usa *I agree/disagree* + *because* + una razón coherente con el tema leído.
 
-8. *(Completar — desafiante)* Complete with your own opinion: *"In my opinion,
-   learning English is ___ because ___."*
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *In my
-   opinion, learning English is important because it helps you communicate with
-   people from other countries.*
-   **Retroalimentación:** La estructura *In my opinion... because...* debe unir
-   una valoración con una razón lógica.
+8. *(Alternativas — Completar — desafiante)* Which option completes the opinion *"In my opinion, learning English is ___ because ___."* in a logical way?
+   a) important / it helps you communicate with people from other countries
+   b) boring / it helps you communicate with people from other countries
+   c) important / I don't like apples
+   d) difficult / the sky is blue
+   **Respuesta correcta:** a) important / it helps you communicate with people from other countries.
+   **Retroalimentación:** La estructura *In my opinion... because...* debe unir una valoración con una razón lógica que la sostenga.
 
 ---
 
@@ -238,11 +243,13 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
    **Retroalimentación:** Los conectores de secuencia (*first, next, finally*) y
    los pasos ordenados son típicos de un texto de instrucciones.
 
-2. *(Completar)* Complete the sequence: *"___, mix the flour and sugar. Then, add
-   the eggs. ___, bake for 30 minutes."* (First / Finally)
-   **Respuesta correcta:** First / Finally.
-   **Retroalimentación:** *First* marca el primer paso y *Finally* marca el
-   último; *then* ya está usado en el paso del medio.
+2. *(Alternativas — Completar)* Complete the sequence: *"___, mix the flour and sugar. Then, add the eggs. ___, bake for 30 minutes."*
+   a) Finally / First
+   b) Then / First
+   c) Finally / Then
+   d) First / Finally
+   **Respuesta correcta:** d) First / Finally.
+   **Retroalimentación:** *First* marca el primer paso y *Finally* marca el último; *then* ya está usado en el paso del medio.
 
 3. *(Verdadero o falso)* Read: *"Football is the most popular sport in the world.
    I think it is more exciting than basketball."* Statement: *The whole text is a
@@ -251,40 +258,47 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
    **Retroalimentación:** La primera oración es un hecho, pero la segunda es una
    opinión (marcada por *I think*); el texto combina ambos.
 
-4. *(Emparejar)* Relaciona el prefijo/sufijo con el significado correcto:
-   *"unfair"* → ¿"justo" o "injusto"?
-   **Respuesta correcta:** injusto.
-   **Retroalimentación:** El prefijo *un-* invierte el significado: *fair*
-   (justo) se convierte en *unfair* (injusto).
+4. *(Alternativas — Vocabulario)* What does *"unfair"* mean?
+   a) justo
+   b) muy justo
+   c) injusto
+   d) justicia
+   **Respuesta correcta:** c) injusto.
+   **Retroalimentación:** El prefijo *un-* invierte el significado: *fair* (justo) se convierte en *unfair* (injusto).
 
-5. *(Completar)* Complete: *"She walked ___ (slow) because she was tired."* (usa
-   el sufijo -ly)
-   **Respuesta correcta:** slowly.
-   **Retroalimentación:** Para describir *cómo* camina (modo), el adjetivo
-   *slow* se transforma en el adverbio *slowly* agregando *-ly*.
+5. *(Alternativas — Completar)* Complete: *"She walked ___ because she was tired."* (slow + -ly)
+   a) slow
+   b) slower
+   c) slowly
+   d) slowness
+   **Respuesta correcta:** c) slowly.
+   **Retroalimentación:** Para describir *cómo* camina (modo), el adjetivo *slow* se transforma en el adverbio *slowly* agregando *-ly*.
 
-6. *(Responder en inglés)* Read a short biography: *"Marie Curie was born in
-   Poland in 1867. She moved to France to study science. She won two Nobel
-   Prizes."* Answer: *Where was Marie Curie born?*
-   **Respuesta esperada:** *She was born in Poland.*
-   **Retroalimentación:** El dato específico (Polonia) aparece explícito al
-   inicio de la biografía.
+6. *(Alternativas — Comprensión)* Read: *"Marie Curie was born in Poland in 1867. She moved to France to study science. She won two Nobel Prizes."* *Where was Marie Curie born?*
+   a) She was born in Poland.
+   b) She was born in France.
+   c) She was born in 1867 in Chile.
+   d) She was born in a Nobel Prize.
+   **Respuesta correcta:** a) She was born in Poland.
+   **Retroalimentación:** El dato específico (Polonia) aparece explícito al inicio de la biografía; Francia es el país al que se mudó después.
 
 7. *(Alternativas — desafiante)* Read: *"The ice melted because the sun was very
    hot."* ¿Qué relación expresa esta oración?
-   a) Secuencia
-   b) Causa y efecto
+   a) Causa y efecto
+   b) Secuencia
    c) Comparación
    d) Opinión
-   **Respuesta correcta:** b) Causa y efecto.
+   **Respuesta correcta:** a) Causa y efecto.
    **Retroalimentación:** *Because* introduce la causa (el sol estaba caliente)
    que explica el efecto (el hielo se derritió).
 
-8. *(Completar — desafiante)* Complete with the correct connector: *"I was doing
-   my homework ___ my sister was watching TV."* (while / after)
-   **Respuesta correcta:** while.
-   **Retroalimentación:** *While* indica que las dos acciones ocurrieron al mismo
-   tiempo (simultáneamente); *after* indicaría que una ocurrió después de la otra.
+8. *(Alternativas — Completar — desafiante)* Complete with the correct connector: *"I was doing my homework ___ my sister was watching TV."*
+   a) after
+   b) before
+   c) first
+   d) while
+   **Respuesta correcta:** d) while.
+   **Retroalimentación:** *While* indica que las dos acciones ocurrieron al mismo tiempo; *after* o *before* indicarían que una ocurrió antes o después de la otra.
 
 ---
 
@@ -342,27 +356,31 @@ justificándola con *because*.
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete the story model: *"___, I woke up early. Then, I had
-   breakfast with my family."* (First / Finally)
-   **Respuesta correcta:** First.
-   **Retroalimentación:** *First* introduce el primer evento de la secuencia;
-   *Finally* se usaría al final de la historia.
+1. *(Alternativas — Completar)* Complete the story model: *"___, I woke up early. Then, I had breakfast with my family."*
+   a) Finally
+   b) First
+   c) After that
+   d) In the end
+   **Respuesta correcta:** b) First.
+   **Retroalimentación:** *First* introduce el primer evento de la secuencia; *Finally* o *In the end* se usarían al final de la historia.
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una opinión sobre un problema
    global?
-   a) The ocean has a lot of water.
+   a) The ocean has a lot of salt water and many fish.
    b) I believe that pollution is a serious problem.
-   c) There are many oceans on Earth.
-   d) Fish live in the ocean.
+   c) There are five big oceans on Earth and many seas.
+   d) Fish and whales live in the ocean near the coast.
    **Respuesta correcta:** b) I believe that pollution is a serious problem.
    **Retroalimentación:** *I believe that...* introduce una valoración personal;
    las otras oraciones solo describen hechos.
 
-3. *(Completar)* Complete about a personal experience: *"Last year, I ___
-   (visit) my cousins in the south of Chile."* (usa el pasado simple)
-   **Respuesta correcta:** visited.
-   **Retroalimentación:** *Last year* señala una acción terminada en el pasado,
-   por eso el verbo lleva la terminación *-ed*: *visited*.
+3. *(Alternativas — Completar)* Complete about a personal experience: *"Last year, I ___ my cousins in the south of Chile."* (visit, simple past)
+   a) visit
+   b) visiting
+   c) visited
+   d) will visit
+   **Respuesta correcta:** c) visited.
+   **Retroalimentación:** *Last year* señala una acción terminada en el pasado, por eso el verbo lleva la terminación *-ed*: *visited*.
 
 4. *(Verdadero o falso)* La oración *"I felt excited when I saw the ocean for
    the first time"* es apropiada para contar una experiencia personal.
@@ -370,34 +388,37 @@ justificándola con *because*.
    **Retroalimentación:** Describe un sentimiento (*felt excited*) ligado a un
    momento específico, típico de un relato de experiencia personal.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"In my country,
-   we celebrate ___. People usually ___."* Escribe tu propia versión.
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"In my
-   country, we celebrate Fiestas Patrias. People usually dance cueca and eat
-   empanadas."*
-   **Retroalimentación:** Se evalúa que cada espacio tenga información
-   pertinente: una celebración y una descripción de la costumbre.
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes the model *"In my country, we celebrate ___. People usually ___."* correctly?
+   a) Fiestas Patrias / dance cueca and eat empanadas
+   b) Fiestas Patrias / is a beautiful country
+   c) empanadas / celebrate Fiestas Patrias
+   d) dance cueca / Fiestas Patrias
+   **Respuesta correcta:** a) Fiestas Patrias / dance cueca and eat empanadas.
+   **Retroalimentación:** Cada espacio debe tener información pertinente: primero una celebración y luego una costumbre (verbo + complemento).
 
-6. *(Emparejar)* Relaciona el conector con su posición en una historia: *"After
-   that,"* → ¿"al comienzo" o "en medio/hacia el final"?
-   **Respuesta correcta:** en medio/hacia el final.
-   **Retroalimentación:** *After that* (después de eso) conecta un evento con el
-   que ocurrió justo antes; no se usa para iniciar una historia.
+6. *(Alternativas — Conectores)* ¿En qué parte de una historia se usa normalmente el conector *"After that,"*?
+   a) Siempre al comienzo de la historia, para presentar a los personajes
+   b) Solo en el título, para anunciar de qué tratará la historia
+   c) Nunca se usa en historias, solo en recetas e instrucciones
+   d) En medio o hacia el final, para conectar un evento con el anterior
+   **Respuesta correcta:** d) En medio o hacia el final, para conectar un evento con el anterior.
+   **Retroalimentación:** *After that* (después de eso) conecta un evento con el que ocurrió justo antes; no se usa para iniciar una historia.
 
-7. *(Completar — desafiante)* Complete a caption for a picture of a beach full of
-   trash: *"This picture shows ___. It makes me feel ___."*
-   **Respuesta esperada:** Respuesta coherente, por ejemplo: *"This picture shows
-   pollution on the beach. It makes me feel worried."*
-   **Retroalimentación:** Un pie de foto (*caption*) debe describir la imagen y
-   luego expresar un sentimiento o reflexión relacionada.
+7. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a beach full of trash: *"This picture shows ___. It makes me feel ___."*
+   a) a clean beach / happy
+   b) pollution on the beach / worried
+   c) pollution on the beach / delicious
+   d) a big party / worried
+   **Respuesta correcta:** b) pollution on the beach / worried.
+   **Retroalimentación:** Un pie de foto (*caption*) debe describir la imagen correctamente y luego expresar un sentimiento coherente con ella.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un tema de Ciencias
    Naturales (volcanes). ¿Qué oración es la más adecuada para compartir esa
    información en inglés?
-   a) I like pizza a lot.
+   a) I like pizza a lot, and I eat it every Friday with my family.
    b) Volcanoes are formed when magma rises to the Earth's surface.
-   c) My dog is very friendly.
-   d) See you later!
+   c) My dog is very friendly and he likes to play in the park.
+   d) See you later! I have to go to my science class now.
    **Respuesta correcta:** b) Volcanoes are formed when magma rises to the
    Earth's surface.
    **Retroalimentación:** Esa oración comparte contenido interdisciplinario
@@ -474,11 +495,13 @@ to*).
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"There ___ too much noise in the classroom today."*
-   (is / are)
-   **Respuesta correcta:** is.
-   **Retroalimentación:** *Much* se usa con sustantivos incontables (*noise*), y
-   con ellos el verbo va en singular: *there is*.
+1. *(Alternativas — Completar)* Complete: *"There ___ too much noise in the classroom today."*
+   a) are
+   b) were
+   c) is
+   d) be
+   **Respuesta correcta:** c) is.
+   **Retroalimentación:** *Much* se usa con sustantivos incontables (*noise*), y con ellos el verbo va en singular: *there is* (*today* indica presente).
 
 2. *(Alternativas)* ¿Qué oración usa correctamente *these/those*?
    a) These sneaker is new.
@@ -489,12 +512,13 @@ to*).
    **Retroalimentación:** *Sneakers* (zapatillas) es plural, así que corresponde
    *these* (no *this*) y el verbo *are* (no *is*).
 
-3. *(Completar)* Complete: *"___ (skate) is my favorite hobby."* (usa el
-   gerundio como sujeto)
-   **Respuesta correcta:** Skating.
-   **Retroalimentación:** Cuando una actividad es el sujeto de la oración, el
-   verbo se transforma en gerundio (*skate → skating*), igual que *reading* o
-   *swimming*.
+3. *(Alternativas — Completar)* Complete: *"___ is my favorite hobby."* (skate, gerund as subject)
+   a) Skating
+   b) Skate
+   c) Skated
+   d) To skates
+   **Respuesta correcta:** a) Skating.
+   **Retroalimentación:** Cuando una actividad es el sujeto de la oración, el verbo se transforma en gerundio (*skate → skating*), igual que *reading* o *swimming*.
 
 4. *(Verdadero o falso)* La oración *"You mustn't ride a bike without a
    helmet"* expresa una prohibición.
@@ -502,60 +526,71 @@ to*).
    **Retroalimentación:** *Mustn't* (no debe) indica que algo está prohibido; es
    distinto de *don't have to*, que indica que algo no es obligatorio.
 
-5. *(Emparejar)* Relaciona la expresión con su significado: *"I'm fed up with
-   homework"* → ¿"me encanta la tarea" o "estoy harto/a de la tarea"?
-   **Respuesta correcta:** estoy harto/a de la tarea.
-   **Retroalimentación:** *Fed up with* es una expresión que indica hartazgo o
-   cansancio de algo, no agrado.
+5. *(Alternativas — Vocabulario)* What does *"I'm fed up with homework"* mean?
+   a) Me encanta la tarea
+   b) Terminé la tarea
+   c) Comí durante la tarea
+   d) Estoy harto/a de la tarea
+   **Respuesta correcta:** d) Estoy harto/a de la tarea.
+   **Retroalimentación:** *Fed up with* es una expresión que indica hartazgo o cansancio de algo, no agrado.
 
-6. *(Completar)* Complete: *"Please talk ___ (quiet). The baby is sleeping."*
-   (usa el adverbio de modo)
-   **Respuesta correcta:** quietly.
-   **Retroalimentación:** Para describir *cómo* se debe hablar (modo), el
-   adjetivo *quiet* se convierte en el adverbio *quietly* con el sufijo *-ly*.
+6. *(Alternativas — Completar)* Complete: *"Please talk ___. The baby is sleeping."* (quiet, adverb of manner)
+   a) quiet
+   b) quietly
+   c) quieter
+   d) quietness
+   **Respuesta correcta:** b) quietly.
+   **Retroalimentación:** Para describir *cómo* se debe hablar (modo), el adjetivo *quiet* se convierte en el adverbio *quietly* con el sufijo *-ly*.
 
-7. *(Responder en inglés)* Answer the question: *"— Does she practice sports
-   every week? — ___"* (responde afirmativamente con la forma corta)
-   **Respuesta correcta:** *Yes, she does.*
-   **Retroalimentación:** La respuesta corta a una pregunta con *does* se
-   contesta con *does* (no repitiendo el verbo completo): *Yes, she does.*
+7. *(Alternativas — Respuesta corta)* *"— Does she practice sports every week? — ___"* (affirmative short answer)
+   a) Yes, she do.
+   b) Yes, she practices.
+   c) Yes, she does.
+   d) Yes, she is.
+   **Respuesta correcta:** c) Yes, she does.
+   **Retroalimentación:** La respuesta corta a una pregunta con *does* se contesta con *does*: *Yes, she does.*
 
-8. *(Completar — desafiante)* Complete with past continuous: *"I ___ (walk) to
-   school when it ___ (start) to rain."*
-   **Respuesta correcta:** was walking / started.
-   **Retroalimentación:** La acción en curso va en pasado continuo (*was
-   walking*) y la acción que la interrumpe va en pasado simple (*started*).
+8. *(Alternativas — Completar — desafiante)* Complete with past continuous and simple past: *"I ___ to school when it ___ to rain."* (walk / start)
+   a) was walking / started
+   b) walked / was starting
+   c) am walking / starts
+   d) was walk / start
+   **Respuesta correcta:** a) was walking / started.
+   **Retroalimentación:** La acción en curso va en pasado continuo (*was walking*) y la acción que la interrumpe va en pasado simple (*started*).
 
 9. *(Alternativas — desafiante)* ¿Qué oración expresa correctamente causa y
    efecto?
-   a) The ice cream is very cold.
+   a) The ice cream is very cold and it tastes good.
    b) The ice cream melts if you leave it in the sun.
-   c) I like ice cream a lot.
-   d) The ice cream is in the freezer.
+   c) I like chocolate ice cream more than vanilla ice cream.
+   d) The ice cream is in the freezer next to the meat.
    **Respuesta correcta:** b) The ice cream melts if you leave it in the sun.
    **Retroalimentación:** La estructura *if... , ...* conecta una causa (dejarlo
    al sol) con su efecto (se derrite); las otras oraciones solo describen.
 
-10. *(Completar — desafiante)* Complete the sequence: *"___, warm up for five
-    minutes. Second, run for twenty minutes. ___, stretch your legs."* (First /
-    Finally)
-    **Respuesta correcta:** First / Finally.
-    **Retroalimentación:** Los conectores de secuencia ordenan los pasos de una
-    rutina de ejercicio, de principio a fin.
+10. *(Alternativas — Completar — desafiante)* Complete the sequence: *"___, warm up for five minutes. Second, run for twenty minutes. ___, stretch your legs."*
+    a) Finally / First
+    b) Second / Then
+    c) Then / First
+    d) First / Finally
+    **Respuesta correcta:** d) First / Finally.
+    **Retroalimentación:** Los conectores de secuencia ordenan los pasos de una rutina de ejercicio, de principio a fin.
 
-11. *(Responder en inglés — desafiante)* Answer justifying your opinion: *"Why
-    do you study English?"*
-    **Respuesta esperada:** Respuesta personal con *because*, por ejemplo: *I
-    study English because I want to travel to other countries.*
-    **Retroalimentación:** Se evalúa la estructura sujeto + verbo + *because* +
-    razón, siguiendo el modelo *I study mathematics because I want to be a
-    teacher.*
+11. *(Alternativas — Opinión — desafiante)* *"Why do you study English?"* Which answer justifies the opinion correctly?
+    a) I study English yesterday because I want travel to other countries.
+    b) I study English because I want to travel to other countries.
+    c) Because English. I study it and other countries.
+    d) I studies English because travel to other countries is fun.
+    **Respuesta correcta:** b) I study English because I want to travel to other countries.
+    **Retroalimentación:** Se espera la estructura sujeto + verbo + *because* + razón, siguiendo el modelo *I study mathematics because I want to be a teacher.*
 
-12. *(Completar)* Complete with the correct compound expression: *"It's too
-    dangerous ___ swim in that river."* (to / for)
-    **Respuesta correcta:** to.
-    **Retroalimentación:** La estructura *too + adjetivo + to + verbo* (*too
-    dangerous to swim*) indica que algo es excesivo para que ocurra una acción.
+12. *(Alternativas — Completar)* Complete: *"It's too dangerous ___ swim in that river."*
+    a) for
+    b) at
+    c) to
+    d) of
+    **Respuesta correcta:** c) to.
+    **Retroalimentación:** La estructura *too + adjetivo + to + verbo* (*too dangerous to swim*) indica que algo es excesivo para que ocurra una acción.
 
 ---
 

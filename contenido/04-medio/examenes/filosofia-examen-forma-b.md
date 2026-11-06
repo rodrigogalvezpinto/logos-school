@@ -40,35 +40,45 @@ basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preg
 
 **Pregunta 1.** *(Selección múltiple)* Según las distintas perspectivas sobre la finalidad del quehacer filosófico, ¿cuál describe mejor el aporte que defiende la profesora?
 
-a) Predecir con exactitud el comportamiento humano mediante algoritmos.
-b) Garantizar que todos los estudiantes obtengan la misma nota en el examen.
-c) Reemplazar completamente el aprendizaje de la programación.
+a) Predecir con exactitud cómo se comportarán los estudiantes, para diseñar programas de estudio más eficientes.
+b) Asegurar que todos piensen lo mismo sobre las normas del colegio, para evitar conflictos en la comunidad.
+c) Reemplazar el aprendizaje técnico por la discusión de opiniones personales, sin necesidad de argumentar.
 d) Liberarnos de prejuicios heredados sin examen y desarrollar conceptos para evaluar la legitimidad de las normas.
 
 **Pregunta 2.** *(Selección múltiple)* El primer concejal sostiene que "discutir sobre la justicia no cambia nada en la práctica, así que no sirve de nada". ¿Cuál de las siguientes identifica mejor un límite genuino —y no una exageración injustificada— del quehacer filosófico?
 
-a) La filosofía no puede aportar absolutamente nada a ninguna decisión concreta.
-b) La filosofía no puede argumentar con rigor sobre cuestiones de justicia.
-c) La filosofía jamás ha influido en ninguna ley ni política pública.
+a) La filosofía no puede aportar nada a decisiones concretas, porque sus preguntas no tienen relación alguna con la vida práctica de las personas.
+b) La filosofía no puede argumentar con rigor sobre la justicia, porque en ese tema todas las opiniones valen lo mismo y, a diferencia de las ciencias, no existe ningún criterio para preferir unas razones por sobre otras.
+c) La filosofía nunca ha influido en leyes ni políticas públicas, porque sus ideas se quedan en los libros y no llegan a quienes toman decisiones.
 d) La filosofía generalmente no produce, por sí sola, un procedimiento técnico verificable que resuelva de inmediato un problema práctico, aunque sí aporte los criterios para decidir entre alternativas.
 
 **Pregunta 3.** *(Selección múltiple)* ¿Qué característica de la relación entre filosofía y derecho contradice mejor la afirmación del segundo concejal ("la filosofía no tiene ninguna relación con las leyes")?
 
 a) La filosofía del derecho examina precisamente los conceptos de justicia y legitimidad en que se apoyan las leyes, aunque sean los abogados quienes las redacten y apliquen.
-b) Ninguna: la afirmación es completamente correcta y no existe ninguna relación.
-c) El derecho reemplaza por completo a la filosofía en la definición de lo que es justo.
-d) Los abogados nunca necesitan justificar si una ley está bien fundamentada.
+b) Ninguna: la afirmación es correcta, porque las leyes dependen solo de la votación del Congreso y no de conceptos que haya que examinar.
+c) El derecho reemplaza a la filosofía al definir lo justo: una vez promulgada una ley, preguntarse si es justa deja de tener sentido.
+d) Los abogados nunca necesitan justificar si una ley está bien fundamentada, porque su trabajo consiste solo en aplicar lo que dice el texto.
 
-**Pregunta 4.** *(Desarrollo breve — 3 pts)* Elabora un argumento breve **a favor** y uno **en contra** de reducir las horas de Filosofía para aumentar las de Programación, tomando como referencia el debate del consejo escolar, sin inclinarte explícitamente por ninguno.
+**Pregunta 4.** *(Alternativas — 3 pts)* Sobre el debate del consejo escolar (reducir horas de Filosofía para aumentar las de Programación), ¿qué par presenta un argumento razonable **a favor** y uno **en contra**, sin inclinarse por ninguno?
+
+a) A favor: si la prioridad es la empleabilidad inmediata, la programación produce competencias técnicas directamente evaluables. En contra: la filosofía desarrolla herramientas de deliberación (examinar la legitimidad de una norma, detectar prejuicios) que ninguna asignatura técnica reemplaza
+b) A favor: la filosofía no tiene utilidad laboral, así que conviene eliminarla. En contra: la programación cambia tan rápido que lo aprendido hoy no servirá mañana, por lo que tampoco vale la pena.
+c) A favor: la programación es la única asignatura con futuro laboral y debería ocupar todo el horario disponible. En contra: la filosofía es la única asignatura que forma personas íntegras, así que debería ocupar todo el horario y la programación debería quedar como taller optativo fuera de clases.
+d) A favor: reducir Filosofía es lo correcto, porque así lo decidió la mayoría del consejo. En contra: no hay argumentos en contra válidos, porque la mayoría ya se pronunció sobre el tema.
 
 **Pregunta 5.** *(Selección múltiple)* El centro de estudiantes debe repartir un fondo limitado entre los talleres extraprogramáticos (deporte, arte, robótica, debate), sin que exista una fórmula técnica que satisfaga a todos por igual. ¿Qué finalidad del quehacer filosófico ilustra mejor esta situación?
 
-a) Desarrollar conceptos completamente nuevos, sin relación con la tradición filosófica.
-b) Superar la ignorancia sobre datos contables.
-c) Ninguna: se trata de un problema exclusivamente administrativo.
+a) Desarrollar conceptos completamente nuevos, sin relación con la tradición, porque los criterios de justicia anteriores ya no sirven.
+b) Superar la ignorancia sobre los datos contables del fondo, porque bastaría con conocer los montos exactos para repartirlo bien.
+c) Ninguna: es un problema exclusivamente administrativo que se resuelve aplicando una fórmula matemática de reparto igualitario.
 d) Enfrentar problemas complejos que no admiten una solución meramente técnica y exigen deliberar sobre criterios de justicia.
 
-**Pregunta 6.** *(Desarrollo extenso — análisis de argumento, 5 pts)* Un concejal zanja la discusión diciendo: "Si la filosofía realmente sirviera para algo, ya habría resuelto los grandes problemas éticos de la humanidad de una vez por todas, tal como la medicina ha logrado erradicar muchas enfermedades." Evalúa este argumento, considerando los alcances y límites propios del quehacer filosófico.
+**Pregunta 6.** *(Varias correctas — 5 pts)* Un concejal dice: "Si la filosofía realmente sirviera para algo, ya habría resuelto los grandes problemas éticos de la humanidad de una vez por todas, tal como la medicina ha logrado erradicar muchas enfermedades." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
+
+a) Supone sin justificarlo que ser útil equivale a resolver los problemas de forma definitiva y total
+b) Ese criterio tampoco se cumple estrictamente en la medicina: hay enfermedades sin cura y su conocimiento sigue revisándose
+c) Que los problemas éticos sigan abiertos puede reflejar que son preguntas genuinamente complejas, no que la filosofía sea inútil
+d) El argumento es concluyente, porque la filosofía nunca ha aportado nada
 
 ---
 
@@ -78,42 +88,52 @@ d) Enfrentar problemas complejos que no admiten una solución meramente técnica
 
 **Pregunta 7.** *(Selección múltiple)* ¿Cuál es el propósito y campo de estudio central de la ética, la rama de la filosofía que permite analizar estos casos?
 
-a) Determinar qué tipos de entidades existen realmente.
-b) Reflexionar críticamente sobre lo que está bien o mal hacer y las razones que lo fundamentan.
-c) Establecer las reglas de la lógica formal.
-d) Describir cómo funciona la memoria humana.
+a) Determinar qué tipos de entidades existen realmente y qué significa que algo sea real.
+b) Describir cómo funciona la memoria y la percepción humana mediante experimentos controlados.
+c) Establecer las reglas de la lógica formal que distinguen un razonamiento válido de uno inválido.
+d) Reflexionar críticamente sobre lo que está bien o mal hacer y las razones que lo fundamentan.
 
 **Pregunta 8.** *(Selección múltiple)* La postura de otorgar los cupos "estrictamente a quienes obtuvieron el mejor puntaje PAES, sin excepción" corresponde principalmente a:
 
-a) Justicia según igualdad estricta, porque todos son evaluados con el mismo instrumento sin excepciones.
-b) Justicia según mérito, porque distribuye el beneficio en función del desempeño medido, sin considerar las condiciones de partida.
-c) Justicia según necesidad exclusivamente.
-d) Ausencia total de criterio de justicia.
+a) Justicia según mérito, porque distribuye el beneficio en función del desempeño medido, sin considerar las condiciones de partida.
+b) Justicia según igualdad estricta, porque todos son evaluados con el mismo instrumento sin excepciones.
+c) Justicia según necesidad, porque prioriza a quienes más requieren el beneficio para salir adelante.
+d) Justicia como compensación, porque corrige las desventajas de origen de los postulantes antes de seleccionar.
 
 **Pregunta 9.** *(Selección múltiple)* La postura de reservar cupos para postulantes de liceos vulnerables se fundamenta mejor en:
 
 a) Igualdad sustantiva o de oportunidades reales: busca compensar desventajas de origen para que la competencia sea genuinamente equitativa.
-b) Igualdad formal exclusivamente.
-c) Un criterio idéntico al de justicia según mérito estricto.
-d) La eliminación completa de cualquier proceso de selección.
+b) Igualdad formal: aplica a todos los postulantes exactamente la misma regla, sin considerar su punto de partida.
+c) Justicia según mérito estricto: premia solo el desempeño medido en la prueba, igual que el criterio de puntaje.
+d) Consecuencialismo: busca maximizar el prestigio promedio de ingreso de la universidad por sobre cualquier otro criterio.
 
 **Pregunta 10.** *(Selección múltiple)* El razonamiento del rector, que justifica el criterio de puntaje estricto porque "maximiza el prestigio promedio de ingreso de la universidad", corresponde principalmente a:
 
-a) La ética deontológica, porque respeta un principio universal sin excepciones.
-b) El escepticismo epistemológico.
+a) La ética deontológica, porque considera correcto cumplir un principio universal (el puntaje) sin importar las consecuencias.
+b) El escepticismo epistemológico, porque duda de que el puntaje permita conocer realmente las capacidades de un postulante.
 c) El consecuencialismo/utilitarismo, porque evalúa la corrección de la política según el resultado agregado —el prestigio promedio— que produce.
-d) El dualismo cartesiano.
+d) La ética de la virtud, porque evalúa la política según si forma estudiantes de buen carácter y hábitos admirables.
 
 **Pregunta 11.** *(Selección múltiple)* La observación del estudiante sobre la práctica profesional no remunerada ("en teoría puedo postular, pero en la práctica no tengo ninguna posibilidad real de aceptar esa práctica") apela a:
 
-a) Libertad negativa exclusivamente.
+a) Libertad negativa: nadie le prohíbe postular, de modo que su queja se refiere a una interferencia externa que lo impide.
 b) Libertad positiva: la falta de condiciones reales (ingresos, tiempo) para ejercer efectivamente una opción formalmente disponible, más allá de la ausencia de impedimentos explícitos.
-c) Ninguna noción de libertad, es un argumento puramente económico sin relevancia filosófica.
-d) La libertad de la empresa para contratar sin restricciones legales.
+c) Ninguna noción de libertad: es un argumento puramente económico, sin relevancia filosófica, sobre el monto de los sueldos.
+d) La libertad de la empresa para contratar sin restricciones legales: ofrecer prácticas no remuneradas es una decisión legítima del empleador, y el estudiante es libre de aceptarlas o no según su conveniencia personal.
 
-**Pregunta 12.** *(Desarrollo breve — 3 pts)* Aplica la distinción entre libertad negativa y libertad positiva a la situación de los postulantes a la práctica profesional no remunerada, explicando en qué se diferencian las dos formas de entender la libertad en este caso.
+**Pregunta 12.** *(Alternativas — 3 pts)* Formalmente nadie impide a un egresado postular a la práctica profesional no remunerada, pero no cuenta con recursos ni tiempo para trabajar sin sueldo. ¿Qué describe correctamente el caso?
 
-**Pregunta 13.** *(Desarrollo extenso — dilema ético, 5 pts)* Evalúa la decisión de repartir los cupos universitarios adicionales desde una perspectiva **consecuencialista** y desde una perspectiva **de justicia como compensación de desventajas de origen**, sin inclinarte explícitamente por ninguna, mostrando por qué ambos marcos pueden llegar a conclusiones distintas frente al mismo caso.
+a) Su libertad positiva está garantizada, porque puede postular, pero su libertad negativa está vulnerada por la falta de sueldo
+b) Ambas libertades están garantizadas: nadie se lo prohíbe y la decisión de no postular depende solo de su esfuerzo personal
+c) Ninguna de las dos nociones se aplica, porque la libertad se refiere solo a derechos políticos y no a decisiones laborales
+d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada
+
+**Pregunta 13.** *(Varias correctas — 5 pts)* Sobre el reparto de los cupos universitarios adicionales, ¿qué afirmaciones aplican correctamente ambos marcos sin resolver el dilema de forma dogmática? Marca **todas** las correctas.
+
+a) Desde una perspectiva consecuencialista, priorizar el puntaje PAES puede justificarse si maximiza indicadores agregados entendidos como un bien colectivo para la institución
+b) Desde la justicia como compensación de desventajas, esa política es objetable porque el puntaje refleja también el acceso desigual a la preparación previa
+c) Ambos marcos pueden llegar a conclusiones distintas frente al mismo caso
+d) Solo uno de los dos marcos es una teoría ética legítima
 
 ---
 
@@ -123,35 +143,46 @@ d) La libertad de la empresa para contratar sin restricciones legales.
 
 **Pregunta 14.** *(Selección múltiple)* En este texto, ¿cuál es la tesis que el autor defiende?
 
-a) Que todos los profesores del país piensan igual sobre los celulares.
+a) Que todos los profesores del país piensan igual sobre los celulares, según los testimonios que cita el autor.
 b) Que los celulares deben prohibirse totalmente en los colegios, porque distraen la atención de los estudiantes en clases.
-c) Que la generación actual jamás volverá a concentrarse en nada.
-d) Que la tecnología no tiene ningún lugar en la educación.
+c) Que la generación actual ya perdió la capacidad de concentrarse y que ninguna medida podrá recuperarla.
+d) Que la tecnología no tiene lugar en la educación y que deben retirarse también computadores y proyectores.
 
 **Pregunta 15.** *(Selección múltiple)* La frase "conocí a tres profesores que se quejaron de esto, así que es evidente que todos los profesores del país piensan igual" comete la falacia de:
 
-a) Ad hominem.
-b) Falsa dicotomía.
+a) Ad hominem: descalifica a quienes defienden los celulares atacando su persona en vez de examinar sus argumentos.
+b) Falsa dicotomía: plantea solo dos alternativas posibles frente al uso del celular (prohibirlo o permitirlo sin límites), como si no existieran opciones intermedias de regulación en el aula.
 c) Generalización apresurada: extiende una conclusión general (todos los profesores del país) a partir de una muestra mínima y no representativa (tres profesores).
-d) Apelación a la autoridad.
+d) Apelación a la autoridad: da por verdadera la conclusión solo porque la sostienen profesores, que serían expertos en el tema.
 
 **Pregunta 16.** *(Selección múltiple)* La frase "o prohibimos los celulares por completo, o aceptamos que la generación actual jamás volverá a concentrarse en nada" comete la falacia de:
 
 a) Falsa dicotomía: presenta solo dos opciones extremas —prohibición total o pérdida total de concentración— cuando existen alternativas intermedias, como regular su uso.
-b) Pendiente resbaladiza.
-c) Generalización apresurada.
-d) Ninguna: es una inferencia lógicamente necesaria.
+b) Pendiente resbaladiza: supone que permitir el celular desencadenará inevitablemente una cadena de consecuencias cada vez peores.
+c) Generalización apresurada: extiende a toda una generación de estudiantes una conclusión obtenida a partir de unos pocos casos observados por el autor, sin una muestra representativa que la respalde.
+d) Ninguna: es una inferencia lógicamente necesaria, porque si no se prohíben los celulares la concentración se pierde por completo.
 
 **Pregunta 17.** *(Selección múltiple)* La premisa inicial del autor ("los celulares distraen la atención de los estudiantes en clases") se apoya, tal como está formulada en el texto, principalmente en un referente:
 
-a) Empírico sólido, porque cita un estudio con metodología detallada.
-b) Teórico, porque apela a una teoría filosófica reconocida.
+a) Empírico sólido, porque se respalda en un estudio con muestra representativa y metodología descrita en el propio texto.
+b) Teórico, porque se apoya en una teoría filosófica reconocida sobre la atención, citada explícitamente por el autor.
 c) De sentido común presentado sin evidencia empírica explícita que lo respalde, lo que lo deja como un referente débil tal como está formulado.
-d) Ninguno de los anteriores: no es un referente, es una falacia en sí misma.
+d) Ninguno: no es un referente, sino una falacia en sí misma, por lo que no puede evaluarse si está bien o mal apoyado.
 
-**Pregunta 18.** *(Desarrollo breve — análisis de argumento, 3 pts)* Identifica un supuesto no explícito que el autor da por sentado al concluir que los celulares deben prohibirse **totalmente**, y explica por qué hacerlo explícito es relevante para evaluar la solidez del argumento.
+**Pregunta 18.** *(Alternativas — 3 pts)* El autor concluye que los celulares deben prohibirse **totalmente** en los colegios. ¿Qué supuesto no explícito da por sentado, y por qué importa hacerlo explícito?
 
-**Pregunta 19.** *(Desarrollo extenso — análisis de argumento, 5 pts)* Evalúa el texto completo del autor: reconstruye su tesis y su argumento principal, identifica **ambas falacias** presentes en el texto (nombrándolas), y explica por qué cometer esas falacias no invalida necesariamente que la tesis central pueda tener, además, argumentos legítimos a su favor.
+a) Que los celulares existen y se usan en clases; hacerlo explícito no aporta nada, porque es un dato que nadie discute
+b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas
+c) Que la concentración no tiene importancia para aprender; hacerlo explícito muestra que el autor contradice su propia tesis
+d) Que todos los estudiantes del país tienen celular propio; hacerlo explícito invalida automáticamente la tesis, porque basta con encontrar un supuesto dudoso en un argumento para concluir que su conclusión es falsa y descartarla por completo
+
+**Pregunta 19.** *(Varias correctas — 5 pts)* Sobre el texto completo del autor acerca de los celulares, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
+
+a) Su tesis es que los celulares deben prohibirse totalmente, y su argumento principal, que distraen la atención en clases
+b) Comete una generalización apresurada al concluir que "todos los profesores del país" piensan igual a partir de tres testimonios
+c) Comete una falsa dicotomía al presentar solo la prohibición total o la pérdida total de concentración
+d) Las falacias no invalidan necesariamente la tesis: una conclusión puede ser razonable aunque algunos argumentos usados para defenderla sean deficientes
+e) Como el texto comete falacias, su tesis queda automáticamente refutada
 
 ---
 
@@ -161,36 +192,51 @@ d) Ninguno de los anteriores: no es un referente, es una falacia en sí misma.
 
 **Pregunta 20.** *(Selección múltiple)* El hecho de que el sistema de reconocimiento facial cometa más errores de identificación en personas de tez oscura que en personas de tez clara plantea, principalmente, un problema de:
 
-a) Ontología exclusivamente.
+a) Ontología: lo central es si el sistema de reconocimiento facial existe realmente o es solo un modelo matemático.
 b) Ética: la distribución desigual de los errores de identificación entre grupos plantea un problema de justicia.
-c) Lógica formal exclusivamente.
-d) Estética exclusivamente.
+c) Lógica formal: lo central es si el algoritmo comete una falacia de razonamiento al comparar dos imágenes.
+d) Estética: lo central es si las imágenes captadas por las cámaras tienen la calidad visual suficiente.
 
 **Pregunta 21.** *(Selección múltiple)* Los jueces que "confían plenamente" en el algoritmo de reincidencia sin cuestionarlo, sin importar qué nueva información reciban, ejemplifican una actitud epistemológica de:
 
-a) Escepticismo radical.
+a) Escepticismo radical: sostener que no es posible conocer nada con certeza, ni siquiera mediante el algoritmo.
 b) Dogmatismo: sostener una confianza como cerrada y no sujeta a revisión, incluso frente a evidencia de posibles sesgos.
-c) Criticismo.
-d) Materialismo.
+c) Criticismo: aceptar el conocimiento disponible, pero revisarlo cada vez que aparece evidencia nueva sobre sus fallas.
+d) Relativismo: considerar que el resultado del algoritmo es tan válido como cualquier otra opinión sobre el acusado.
 
 **Pregunta 22.** *(Selección múltiple)* Usar el algoritmo de reincidencia para fijar una condena plantea principalmente una pregunta:
 
-a) Puramente técnica sobre cómo funciona el algoritmo.
-b) Sin ninguna relevancia filosófica.
+a) Puramente técnica sobre cómo funciona el algoritmo, porque si el cálculo es correcto la condena queda bien fundamentada y no hay nada más que discutir.
+b) Sin relevancia filosófica, porque los tribunales ya usan muchas herramientas técnicas y esta es solo una más, igual que un registro de antecedentes.
 c) Ética sobre si es correcto tratar a una persona como un caso estadístico y no como un individuo con circunstancias propias al decidir su condena, y quién es responsable de esa decisión.
-d) Exclusivamente de gustos personales sobre la tecnología usada por los tribunales.
+d) De gustos personales sobre la tecnología: algunos jueces prefieren los algoritmos y otros no, y ninguna de esas preferencias puede evaluarse con razones.
 
-**Pregunta 23.** *(Desarrollo breve — 3 pts)* Relaciona el hecho de que el sistema de reconocimiento facial cometa más errores con personas de tez oscura con al menos un concepto de evaluación de argumentos revisado en el OA N°4 o un concepto epistemológico de este OA (por ejemplo, referente empírico insuficiente, sesgo, generalización apresurada), explicando la conexión con un argumento propio.
+**Pregunta 23.** *(Alternativas — 3 pts)* El sistema de reconocimiento facial comete más errores con personas de tez oscura. ¿Qué conexión con conceptos de evaluación de argumentos o de epistemología es correcta?
 
-**Pregunta 24.** *(Desarrollo breve — 3 pts)* Relaciona el uso del algoritmo de reincidencia para fijar condenas con al menos un concepto ético revisado en el OA N°2 (justicia, libertad o igualdad), explicando la conexión con un argumento propio.
+a) El sistema es objetivo por ser una máquina: si comete más errores con un grupo, eso refleja diferencias reales entre las personas, no un sesgo
+b) El error se explica por una falacia ad hominem del sistema, que descalifica a ciertas personas por su apariencia en vez de evaluar sus datos
+c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada
+d) No hay relación con el conocimiento: es solo un problema de calidad de las cámaras, que se resolvería con mejor iluminación en los lugares públicos
 
-**Pregunta 25.** *(Desarrollo extenso — análisis de argumento, 5 pts)* Un juez argumenta: "Deberíamos confiar simplemente en el cálculo estadístico del algoritmo de reincidencia, porque un número es más objetivo que el juicio subjetivo de una persona, y así eliminamos cualquier sesgo humano de las condenas." Evalúa este argumento usando conceptos epistemológicos y/o éticos revisados durante el año, explicando si te parece filosóficamente sostenible.
+**Pregunta 24.** *(Varias correctas — 3 pts)* ¿Qué conexiones entre el uso del algoritmo de reincidencia para fijar condenas y los conceptos éticos del OA N°2 son pertinentes? Marca **todas** las correctas.
+
+a) Justicia: cuestionar si es justo que una condena se apoye en el promedio estadístico de un grupo y no en las circunstancias del acusado
+b) Libertad: la libertad futura de una persona depende de un sistema que ella no puede cuestionar ni comprender del todo
+c) Igualdad: si los datos reflejan sesgos previos, el algoritmo puede tratar de forma desigual a ciertos grupos
+d) No hay conexión ética, porque los algoritmos son neutrales por definición
+
+**Pregunta 25.** *(Varias correctas — 5 pts)* Un juez argumenta: "Deberíamos confiar simplemente en el cálculo estadístico del algoritmo de reincidencia, porque un número es más objetivo que el juicio subjetivo de una persona, y así eliminamos cualquier sesgo humano de las condenas." ¿Qué evaluaciones son filosóficamente sólidas? Marca **todas** las correctas.
+
+a) Es una forma de dogmatismo: atribuye al número una objetividad automática, no sujeta a examen
+b) El algoritmo se entrena con datos históricos que pueden reflejar sesgos previos del sistema judicial, y puede reproducirlos de forma menos visible
+c) Estos sistemas hacen más urgente examinar con qué datos fueron entrenados, qué variables consideran y quién responde por sus resultados
+d) Es sostenible: un número no puede contener ningún sesgo
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -208,8 +254,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 2 | d | OA1 | 1 |
 | 3 | a | OA1 | 1 |
 | 5 | d | OA1 | 1 |
-| 7 | b | OA2 | 1 |
-| 8 | b | OA2 | 1 |
+| 7 | d | OA2 | 1 |
+| 8 | a | OA2 | 1 |
 | 9 | a | OA2 | 1 |
 | 10 | c | OA2 | 1 |
 | 11 | b | OA2 | 1 |
@@ -225,33 +271,33 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 ## Criterios de corrección — preguntas de desarrollo
 
-**Pregunta 4 (OA1, 3 pts).** A favor: reducir horas de Filosofía en favor de Programación podría justificarse si el objetivo prioritario es la empleabilidad inmediata, ya que la programación produce competencias técnicas directamente evaluables en el mercado laboral. En contra: la filosofía desarrolla herramientas de deliberación (examinar la legitimidad de una norma, detectar un prejuicio heredado) que ninguna otra asignatura técnica reemplaza, y que siguen siendo necesarias incluso para quienes trabajen programando. *(1 pt: argumento a favor razonablemente fundamentado; 1 pt: argumento en contra razonablemente fundamentado; 1 pt: se evita inclinarse explícitamente por una de las dos posturas).*
+**Pregunta 4 (OA1, 3 pts).** a) A favor: si la prioridad es la empleabilidad inmediata, la programación produce competencias técnicas directamente evaluables. En contra: la filosofía desarrolla herramientas de deliberación (examinar la legitimidad de una norma, detectar prejuicios) que ninguna asignatura técnica reemplaza. Ambos argumentos están fundamentados con razones, y ninguno se presenta como la postura correcta.
 
-**Pregunta 6 (OA1, 5 pts — análisis de argumento).** Se espera que el estudiante identifique que el argumento supone, sin justificarlo, que la utilidad de una disciplina depende de que resuelva sus problemas de forma definitiva y total, criterio que tampoco aplica estrictamente a la medicina (existen enfermedades sin cura, y el conocimiento médico sigue revisándose). El hecho de que los problemas éticos —justicia, libertad, sentido de la vida— sigan abiertos no equivale a que la filosofía "no sirva", sino que refleja que se trata de preguntas genuinamente complejas y en parte irreducibles a una solución única y final. *(2 pts: identifica el supuesto no justificado —resolver definitivamente equivale a ser útil—; 2 pts: ofrece una explicación alternativa y coherente de por qué el desacuerdo persiste sin que eso implique inutilidad; 1 pt: argumentación propia y clara).*
+**Pregunta 6 (OA1, 5 pts — análisis de argumento).** a, b y c.
 
-**Pregunta 12 (OA2, 3 pts).** Se espera que el estudiante distinga que, formalmente, nadie impide a un egresado postular a la práctica no remunerada (libertad negativa no vulnerada de forma directa), pero que la falta de recursos económicos o de tiempo disponible limita su libertad positiva —la capacidad efectiva de ejercer esa opción—, aunque nadie se lo prohíba explícitamente. *(1 pt: define correctamente ambas nociones; 1 pt: las aplica con precisión al caso de la práctica profesional; 1 pt: argumentación coherente).*
+**Pregunta 12 (OA2, 3 pts).** d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada
 
-**Pregunta 13 (OA2, 5 pts — dilema ético).** Desde una perspectiva consecuencialista, priorizar el puntaje PAES sin excepciones puede justificarse si maximiza indicadores agregados como el prestigio promedio de ingreso, entendidos como un bien colectivo para la institución. Desde una perspectiva de justicia como compensación de desventajas de origen, esa misma política resulta objetable porque trata el puntaje como si midiera mérito en igualdad de condiciones, cuando en realidad refleja también el acceso desigual a la preparación previa, perpetuando una desventaja que no depende del esfuerzo individual del postulante. *(2 pts: aplica correctamente la perspectiva consecuencialista; 2 pts: aplica correctamente la perspectiva de compensación de desventajas; 1 pt: muestra con claridad por qué ambos marcos llevan a conclusiones distintas sin resolver el dilema de forma dogmática).*
+**Pregunta 13 (OA2, 5 pts — dilema ético).** a, b y c.
 
-**Pregunta 18 (OA4, 3 pts).** Un supuesto no explícito relevante es que la prohibición total es la única forma efectiva de mejorar la concentración de los estudiantes, descartando sin argumentar otras alternativas intermedias (por ejemplo, permitir su uso solo en recreos, o con fines pedagógicos supervisados). Hacerlo explícito es relevante porque permite evaluar si ese supuesto es razonable o si, por el contrario, existen medidas menos extremas que abordarían el mismo problema. *(1 pt: identifica un supuesto no explícito pertinente, distinto de la tesis misma; 1 pt: explica por qué ese supuesto es necesario para que el argumento funcione; 1 pt: explica por qué hacerlo explícito importa para evaluar la solidez del argumento).*
+**Pregunta 18 (OA4, 3 pts).** b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas
 
-**Pregunta 19 (OA4, 5 pts — análisis de argumento).** Tesis: los celulares deben prohibirse totalmente en los colegios. Argumento principal: distraen la atención de los estudiantes en clases (referente de sentido común, presentado sin evidencia empírica explícita). Falacias: (1) generalización apresurada, al concluir que "todos los profesores del país" piensan igual a partir de solo tres testimonios; (2) falsa dicotomía, al presentar como únicas opciones la prohibición total o la pérdida total de concentración de toda una generación, ignorando alternativas de regulación intermedia. Cometer estas falacias no invalida automáticamente la tesis, porque una conclusión puede ser cierta o razonable incluso si algunos de los argumentos usados para defenderla son deficientes; evaluar la validez de un argumento particular es distinto de evaluar el valor de verdad de la tesis que ese argumento intenta sostener. *(1 pt: tesis y argumento principal correctamente reconstruidos; 2 pts: ambas falacias identificadas y nombradas correctamente; 2 pts: explica con claridad por qué las falacias no invalidan necesariamente la tesis).*
+**Pregunta 19 (OA4, 5 pts — análisis de argumento).** a, b, c y d — Evaluar la validez de un argumento particular es distinto de evaluar la verdad de la tesis que intenta sostener.
 
-**Pregunta 23 (OA4/OA5, 3 pts).** Se espera relacionar el sesgo racial del sistema de reconocimiento facial con un referente empírico insuficiente o sesgado (los datos de entrenamiento del sistema probablemente subrepresentaron a personas de tez oscura) y/o con la idea de que un resultado "objetivo" en apariencia puede en realidad generalizar de forma apresurada o distorsionada a partir de una muestra de entrenamiento poco representativa, explicando la conexión con un argumento propio. *(1 pt: identifica correctamente el concepto pertinente de evaluación de argumentos o epistemológico; 1 pt: lo conecta de forma explícita con el caso del reconocimiento facial; 1 pt: argumento propio y coherente, no solo mención de los términos).*
+**Pregunta 23 (OA4/OA5, 3 pts).** c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada
 
-**Pregunta 24 (OA5, 3 pts).** Se espera relacionar el uso del algoritmo de reincidencia con el concepto de justicia (por ejemplo, si es justo que una condena se apoye en un promedio estadístico de un grupo en vez de en las circunstancias particulares del acusado) y/o con la libertad (el efecto que tiene sobre la libertad futura de una persona una decisión tomada por un sistema que ella no puede cuestionar ni comprender del todo), argumentando la conexión con un ejemplo propio. *(1 pt: identifica correctamente el concepto ético pertinente; 1 pt: lo conecta de forma explícita con el caso del algoritmo judicial; 1 pt: argumento propio y coherente).*
+**Pregunta 24 (OA5, 3 pts).** a, b y c.
 
-**Pregunta 25 (OA5, 5 pts — análisis de argumento).** El argumento comete una forma de dogmatismo trasladado a la tecnología: atribuye al número que entrega el algoritmo una objetividad automática y no sujeta a examen, ignorando que el algoritmo es entrenado con datos históricos que pueden reflejar sesgos previos del propio sistema judicial (por ejemplo, sobre qué grupos fueron condenados con más frecuencia en el pasado), y que "un número" no elimina el sesgo humano, sino que puede reproducirlo de forma menos visible y más difícil de cuestionar. Lejos de volver innecesaria la reflexión, el uso de estos algoritmos en decisiones judiciales hace más urgente una postura crítica que examine con qué datos fueron entrenados, qué variables consideran y quién es responsable de sus resultados. *(2 pts: identifica correctamente el supuesto dogmático del argumento —el número es automáticamente objetivo y libre de sesgo—; 2 pts: explica por qué la reflexión epistemológica y/o ética resulta más necesaria, no menos, frente a estos sistemas; 1 pt: conclusión propia y argumentada sobre la sostenibilidad filosófica del argumento evaluado).*
+**Pregunta 25 (OA5, 5 pts — análisis de argumento).** a, b y c.
 
-**Subtotal preguntas de desarrollo: 35 puntos** (5 breves × 3 pts = 15 pts; 4 extensas × 5 pts = 20 pts).
+**Subtotal preguntas de mayor complejidad: 35 puntos** (5 × 3 pts = 15 pts; 4 × 5 pts = 20 pts).
 
 ## Puntaje total y escala de referencia
 
 | Componente | Puntaje |
 |---|:---:|
-| Selección múltiple (16 preguntas) | 16 pts |
-| Desarrollo breve (5 preguntas) | 15 pts |
-| Desarrollo extenso (4 preguntas) | 20 pts |
+| Preguntas de 1 punto (16) | 16 pts |
+| Preguntas de 3 puntos (5) | 15 pts |
+| Preguntas de 5 puntos (4) | 20 pts |
 | **Total** | **51 pts** |
 
 > Como referencia interna de práctica (no corresponde a la escala oficial de logro del Mineduc, que usa niveles de desempeño y no nota): 60% de exigencia equivale a 31/51 puntos para el logro mínimo satisfactorio.
@@ -262,10 +308,10 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3, 4, 5, 6 | 4 | 2 |
-| OA 2 | 7, 8, 9, 10, 11, 12, 13 | 5 | 2 |
-| OA 4 | 14, 15, 16, 17, 18, 19, 23 | 4 | 3 |
-| OA 5 | 20, 21, 22, 24, 25 | 3 | 2 |
-| **Total** | **25 preguntas** | **16** | **9** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3, 4, 5, 6 | 6 |
+| OA 2 | 7, 8, 9, 10, 11, 12, 13 | 7 |
+| OA 4 | 14, 15, 16, 17, 18, 19, 23 | 7 |
+| OA 5 | 20, 21, 22, 24, 25 | 5 |
+| **Total** | **25 preguntas** | **25** |

@@ -52,35 +52,61 @@ b) 8%
 c) 108%
 d) 1,08%
 
-**Pregunta 4.** (Completar)
-La fórmula de interés compuesto es A(t) = P×(1+r)ᵗ, donde P es el ______, r es la ______
-(como decimal) y t es el ______.
+**Pregunta 4.** (Alternativas — completar)
+En A(t) = P × (1 + r)ᵗ, ¿qué representan P, r y t?
 
-**Pregunta 5.** (Desarrollo)
-Un auto nuevo cuesta $12.000.000 y se deprecia un 12% anual, según el modelo
-V(t) = 12.000.000×(0,88)ᵗ. Calcula su valor aproximado después de 4 años.
+a) P: capital inicial; r: tasa de interés por período (decimal); t: número de períodos
+b) P: tasa de interés por período; r: capital inicial; t: monto final acumulado
+c) P: monto final acumulado; r: tiempo en años; t: tasa de interés por período
+d) P: número de períodos; r: capital inicial; t: interés ganado en cada período
 
-**Pregunta 6.** (Desarrollo)
-El carbono-14 tiene una vida media aproximada de 5.730 años. Si una muestra tiene
-inicialmente 80 g, ¿cuánto quedará después de 11.460 años?
+**Pregunta 5.** (Alternativas — depreciación)
+Un auto de $12.000.000 se deprecia un 12% anual según V(t) = 12.000.000 · (0,88)ᵗ. ¿Cuál es su valor aproximado a los 4 años?
 
-**Pregunta 7.** (Problema con logaritmo)
-Un rumor se difunde en redes sociales según M(t) = 50×(1,6)ᵗ (t en horas, M = número de
-personas que lo han visto). ¿Después de cuántas horas aproximadamente 800 personas lo
-habrán visto?
+a) ≈ $6.240.000
+b) ≈ $10.560.000
+c) ≈ $2.488.000
+d) ≈ $7.196.344
 
-**Pregunta 8.** (Problema en contexto — intervalo donde el modelo tiene sentido)
-Un estanque de riego tiene capacidad máxima de 5.000 litros y se llena según
-V(t) = 200×(1,25)ᵗ (litros, t en horas). ¿Para qué valores de t tiene sentido este modelo?
+**Pregunta 6.** (Alternativas — vida media)
+El carbono-14 tiene una vida media de unos 5.730 años. Si una muestra tiene 80 g, ¿cuánto quedará tras 11.460 años?
 
-**Pregunta 9.** (Comparar — variar parámetros)
-Compara los modelos f(x) = 100×(1,1)ˣ y g(x) = 100×(1,05)ˣ. ¿Cuál crece más rápido, y por
-qué?
+a) 10 g
+b) 20 g
+c) 40 g
+d) 60 g
 
-**Pregunta 10.** (Leer datos — tabla)
-Una colonia de pingüinos en la costa registra la siguiente población: t=0 → 80; t=1 → 96;
-t=2 → 115; t=3 → 138. ¿Corresponde este crecimiento a un modelo exponencial? Justifica
-calculando las razones entre términos consecutivos.
+**Pregunta 7.** (Alternativas — despejar el tiempo)
+Un rumor se difunde según M(t) = 50 · (1,6)ᵗ (t en horas). ¿Después de cuántas horas lo habrán visto unas 800 personas?
+
+a) ≈ 16 horas
+b) ≈ 10 horas
+c) ≈ 6 horas
+d) ≈ 3 horas
+
+**Pregunta 8.** (Alternativas — dominio del modelo)
+Un estanque de 5.000 L se llena según V(t) = 200 · (1,25)ᵗ. ¿Para qué valores de t tiene sentido el modelo?
+
+a) 0 ≤ t ≤ 14,4 horas aproximadamente
+b) Para todo t ≥ 0, sin ningún límite
+c) Solo para t = 25, el número de horas
+d) 0 ≤ t ≤ 25 horas, porque 5.000/200 = 25
+
+**Pregunta 9.** (Alternativas — comparar parámetros)
+¿Cuál crece más rápido: f(x) = 100 · (1,1)ˣ o g(x) = 100 · (1,05)ˣ?
+
+a) g, porque 1,05 está más cerca de 1 y por eso crece de forma más estable y rápida
+b) Crecen igual, porque ambas funciones parten del mismo valor inicial de 100
+c) Ninguno crece, porque ambos factores son muy cercanos a 1 y el valor se mantiene
+d) f, porque con el mismo valor inicial su factor (10% por período) es mayor
+
+**Pregunta 10.** (Alternativas — leer datos)
+Una colonia de pingüinos registra: t = 0 → 80; t = 1 → 96; t = 2 → 115; t = 3 → 138. ¿Corresponde a un modelo exponencial?
+
+a) No: las diferencias entre términos consecutivos no son constantes
+b) Sí: la razón entre términos consecutivos es casi constante (≈ 1,2)
+c) Sí: las diferencias entre términos consecutivos son constantes (+16)
+d) No: la población disminuye con el tiempo, así que es un modelo decreciente
 
 **Pregunta 11.**
 El nivel de un sonido, en decibeles, se calcula como L = 10·log₁₀(I/I₀). Si la razón
@@ -91,19 +117,29 @@ b) 3 dB
 c) 1.000 dB
 d) 300 dB
 
-**Pregunta 12.** (Desarrollo)
-Un medicamento se elimina del organismo según C(t) = 250×(0,8)ᵗ (mg, t en horas). ¿Cuánto
-queda después de 3 horas, y qué porcentaje del medicamento se ha eliminado?
+**Pregunta 12.** (Alternativas — decrecimiento porcentual)
+Un medicamento se elimina según C(t) = 250 · (0,8)ᵗ (mg). ¿Cuánto queda a las 3 horas y qué porcentaje se eliminó?
 
-**Pregunta 13.** (Problema en contexto — construir un modelo)
-Una aplicación chilena de transporte compartido tiene 2.000 usuarios el día de su
-lanzamiento y crece un 30% diario. Escribe el modelo U(t) y calcula el número aproximado de
-usuarios después de 10 días.
+a) 190 mg; 24%
+b) 128 mg; 51,2%
+c) 128 mg; 48,8%
+d) 50 mg; 80%
 
-**Pregunta 14.** (Problema no rutinario)
-Dos modelos parten del mismo valor, 1.000: f crece un 10% anual, g decrece un 10% anual.
-Después de 5 años, ¿cuál de los dos se aleja más de 1.000 en valor absoluto? Explica por qué
-no son simétricos.
+**Pregunta 13.** (Alternativas — construir y proyectar)
+Una app tiene 2.000 usuarios al lanzarse y crece un 30% diario. ¿Qué modelo la describe y cuántos usuarios tendrá aprox. a los 10 días?
+
+a) U(t) = 2.000 · (1,3)ᵗ; ≈ 27.572
+b) U(t) = 2.000 + 0,3t; ≈ 2.003
+c) U(t) = 2.000 · (0,3)ᵗ; ≈ 0
+d) U(t) = 2.000 · 1,3 · t; ≈ 26.000
+
+**Pregunta 14.** (Alternativas — comparar crecimiento y decrecimiento)
+Desde 1.000, f crece 10% anual y g decrece 10% anual. A los 5 años, ¿cuál se aleja más de 1.000?
+
+a) g se aleja más que f, porque al decrecer pierde más de lo que f gana al crecer
+b) Se alejan exactamente lo mismo, porque el porcentaje de cambio es igual (10%)
+c) Ninguno se aleja, porque los aumentos y las disminuciones se compensan cada año
+d) f (≈ 1.610,5, sube 610,5) más que g (≈ 590,5, baja 409,5)
 
 ---
 
@@ -116,26 +152,14 @@ no son simétricos.
    implica multiplicar por una cantidad mayor en cada período, acelerando el crecimiento.
 3. **b) 8%.** Como b=1+r, entonces r = 0,08 = 8%; b siempre se descompone en "1" (lo que
    ya había) más la tasa de cambio r.
-4. P es el **capital inicial** (monto depositado); r es la **tasa de interés** por período;
-   t es el **tiempo transcurrido** (número de períodos).
-5. (0,88)⁴ ≈ 0,5997. V(4) = 12.000.000×0,5997 ≈ **$7.196.344**.
-6. 11.460 ÷ 5.730 = 2 vidas medias. N = 80×(1/2)² = 80×(1/4) = **20 g**.
-7. Se plantea 50×(1,6)ᵗ = 800, es decir (1,6)ᵗ = 16. t = log(16)/log(1,6) ≈
-   1,2041/0,2041 ≈ **5,9 ≈ 6 horas**.
-8. El modelo deja de tener sentido cuando V(t) supera 5.000 L. Resolviendo
-   200×(1,25)ᵗ = 5.000: (1,25)ᵗ = 25, t = log(25)/log(1,25) ≈ **14,4 horas**. El modelo
-   tiene sentido solo para **0 ≤ t ≤ 14,4 horas aproximadamente**.
-9. **f crece más rápido**, porque ambos parten del mismo valor inicial (100), pero el
-   factor de crecimiento de f (1,1, es decir 10% por período) es mayor que el de g (1,05,
-   es decir 5% por período).
-10. 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. Como la **razón entre términos
-    consecutivos es aproximadamente constante** (≈1,2), **sí corresponde a un crecimiento
-    exponencial**, con un factor b≈1,2 (20% de crecimiento por período).
+4. a) P: capital inicial; r: tasa de interés por período (decimal); t: número de períodos. En el interés compuesto, el capital inicial se multiplica por (1 + r) en cada período.
+5. d) ≈ $7.196.344. (0,88)⁴ ≈ 0,5997; conviene redondear solo al final. $6.240.000 resulta de restar 4 · 12% de forma lineal.
+6. b) 20 g. 11.460 años son 2 vidas medias: 80 · (1/2)² = 20 g.
+7. c) ≈ 6 horas. (1,6)ᵗ = 16, t = log 16 / log 1,6 ≈ 1,2041/0,2041 ≈ 5,9.
+8. a) 0 ≤ t ≤ 14,4 horas aproximadamente. (1,25)ᵗ = 25 → t ≈ 14,4; después el estanque ya está lleno.
+9. d) f, porque con el mismo valor inicial su factor (10% por período) es mayor. Con igual valor inicial, manda el factor de crecimiento.
+10. b) Sí: la razón entre términos consecutivos es casi constante (≈ 1,2). 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20 (20% por período).
 11. **a) 30 dB.** log₁₀(1.000) = 3, porque 10³=1.000; entonces L = 10×3 = 30.
-12. (0,8)³ = 0,512. C(3) = 250×0,512 = **128 mg**. Eliminado: 250−128 = 122 mg, que
-    corresponde a 122/250 = **48,8%**.
-13. U(t) = 2.000×(1,3)ᵗ. (1,3)¹⁰ ≈ 13,786. U(10) ≈ 2.000×13,786 ≈ **27.572 usuarios**.
-14. f(5) = 1.000×(1,1)⁵ ≈ 1.610,5 (610,5 sobre 1.000). g(5) = 1.000×(0,9)⁵ ≈ 590,5
-    (409,5 bajo 1.000). **f se aleja más de 1.000.** No son simétricos porque el
-    crecimiento compuesto se acelera cada vez más, mientras que el decrecimiento tiene un
-    límite natural: la cantidad nunca puede bajar de 0.
+12. c) 128 mg; 48,8%. (0,8)³ = 0,512 → 128 mg; se eliminaron 122 mg, es decir 48,8% (51,2% es lo que queda).
+13. a) U(t) = 2.000 · (1,3)ᵗ; ≈ 27.572. (1,3)¹⁰ ≈ 13,786.
+14. d) f (≈ 1.610,5, sube 610,5) más que g (≈ 590,5, baja 409,5). No son simétricos: el crecimiento compuesto se acelera y el decrecimiento nunca puede bajar de 0.

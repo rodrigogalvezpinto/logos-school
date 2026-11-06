@@ -17,7 +17,7 @@ ultima_actualizacion: 2026-10-28
 **Tiempo sugerido:** 30-35 minutos.
 **N° de preguntas:** 14.
 
-**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las de alternativas, marca solo una opción. En las de verdadero o falso, escribe V o F. En las de desarrollo o aplicación, responde con oraciones completas.
+**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las de alternativas, marca solo una opción. En las de verdadero o falso, marca V o F. En las de desarrollo o aplicación, responde con oraciones completas.
 
 ---
 
@@ -36,36 +36,46 @@ ultima_actualizacion: 2026-10-28
 **1. (Alternativas)** ¿Qué figura literaria corresponde a la expresión "las manos de mi padre son dos mapas de cuero curtido"?
 
 a) Personificación
-b) Metáfora
+b) Pregunta retórica
 c) Hipérbole
-d) Pregunta retórica
+d) Metáfora
 
 **2. (Verdadero o falso)** El padre del relato es caracterizado principalmente a través de largos diálogos donde expresa directamente sus sentimientos.
 
 **3. (Alternativas)** ¿Qué tópico literario está más presente en "Las manos de mi padre"?
 
-a) El carpe diem (aprovechar el presente)
-b) El trabajo como destino heredado y su ruptura
-c) El amor no correspondido
-d) El viaje como búsqueda de identidad
+a) El carpe diem: aprovechar el presente sin pensar en el futuro
+b) El amor no correspondido entre el padre y su trabajo
+c) El trabajo como destino heredado y su ruptura
+d) El viaje como búsqueda de una identidad propia lejos del hogar
 
-**4. (Aplicación)** Formula una hipótesis de sentido para el relato y sustenta esa hipótesis citando al menos un recurso literario (narrador, personaje, tópico, figura literaria o lenguaje) usado en el texto.
+**4. (Alternativas — Aplicación)** ¿Qué hipótesis de sentido está sustentada en un recurso literario del texto?
 
-**5. (Desarrollo breve — intertextualidad literaria)** Explica qué elemento comparten "Las manos de mi padre" y *Sub terra* de Baldomero Lillo, y en qué se diferencian respecto del destino de los personajes.
+a) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre
+b) El relato trata sobre deportes y vida sana, sustentado en que menciona bicicletas y el esfuerzo físico de los trabajadores del pueblo minero
+c) El relato es solo una lista de oficios sin un sentido mayor, sustentado en que enumera el trabajo del padre, del abuelo y de la hija sin conectarlos
+d) El relato no permite ninguna hipótesis de sentido, porque se limita a describir manos sin usar recursos literarios como el paralelismo o la metáfora
+
+**5. (Alternativas — intertextualidad)** ¿Qué comparten "Las manos de mi padre" y *Sub terra*, y en qué se diferencian?
+
+a) No comparten nada: el cuento trata sobre una familia y Sub terra sobre la historia de la minería, sin relación entre sus temas ni entre sus personajes
+b) Ambas terminan con la hija del minero trabajando en la mina, porque la herencia del oficio es inevitable en las dos obras, sin ninguna diferencia entre ellas
+c) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub terra está escrita en verso y el cuento en prosa, pero comparten el mismo tema
+d) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el padre del cuento rompe la cadena para su hija
 
 **6. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
 
 a) Símil
-b) Personificación
+b) Anáfora
 c) Hipérbaton
-d) Anáfora
+d) Personificación
 
 **7. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
 
-a) Porque el autor no logró desarrollar mejor al personaje
-b) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico
-c) Porque el padre es un personaje secundario sin relevancia en la trama
-d) Porque el relato está escrito en tercera persona omnisciente
+a) Porque el autor no logró desarrollar mejor al personaje y prefirió describir solo su apariencia física
+b) Porque el padre es un personaje secundario, sin relevancia en la trama, que aparece solo al comienzo
+c) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico
+d) Porque el relato está escrito en tercera persona omnisciente, que no puede acceder a los pensamientos de nadie
 
 ---
 
@@ -83,21 +93,26 @@ d) Porque el relato está escrito en tercera persona omnisciente
 
 **8. (Alternativas)** ¿A qué género discursivo corresponde el texto sobre los repartidores, considerando que combina testimonio, cifras oficiales y contraste de versiones?
 
-a) Cuento realista
-b) Reportaje periodístico
+a) Reportaje periodístico
+b) Cuento realista
 c) Discurso político
 d) Reseña literaria
 
 **9. (Verdadero o falso)** El reportaje se limita a citar la opinión de Ronald, sin incluir ninguna fuente de información adicional.
 
-**10. (Desarrollo breve)** Explica por qué el reportaje menciona explícitamente que "ninguna de las plataformas consultadas... respondió" sobre cuánto se quedan de cada pedido, en vez de simplemente omitir ese dato sin comentario.
+**10. (Alternativas)** ¿Por qué el reportaje menciona explícitamente que "ninguna de las plataformas consultadas... respondió" sobre cuánto se quedan de cada pedido?
+
+a) Porque el periodista olvidó preguntar a las plataformas cuánto se quedan de cada pedido
+b) Porque las empresas respondieron con claridad y el periodista quiso destacar su transparencia frente a las críticas de los repartidores
+c) Porque el dato no tiene importancia para el tema del reportaje y solo completa la información sobre las plataformas
+d) Porque sugiere, sin afirmarlo, que hay información relevante que las empresas prefieren no transparentar, reforzando el enfoque crítico
 
 **11. (Alternativas)** ¿Con qué propósito comunicativo el reportaje incluye cifras de un estudio universitario junto al testimonio de Ronald?
 
-a) Para hacer el texto más largo y detallado
+a) Para hacer el texto más largo y detallado, sin cambiar el sentido del testimonio
 b) Para dar respaldo objetivo al testimonio individual y evitar que parezca solo una anécdota aislada
-c) Para cuestionar la veracidad del testimonio de Ronald
-d) Para cumplir con un requisito legal de las plataformas de delivery
+c) Para cuestionar la veracidad del testimonio de Ronald y mostrar que exagera su situación
+d) Para cumplir con un requisito legal que exigen las plataformas de delivery a los medios
 
 **12. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
 
@@ -110,25 +125,25 @@ d) Presentar el testimonio de una persona afectada por el fenómeno descrito
 
 **14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
 
-a) Porque no tiene ninguna relevancia para el tema del reportaje
+a) Porque no tiene ninguna relevancia para el tema del reportaje: es solo un dato biográfico para presentar a Ronald
 b) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
-c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores
-d) Porque todos los repartidores en Chile son extranjeros
+c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores y sugerir que solo los extranjeros aceptan esos trabajos
+d) Porque todos los repartidores en Chile son extranjeros, y el reportaje lo menciona para mostrar que el problema no afecta a chilenos
 
 ---
 
 ## Pauta de respuestas
 
-1. b — se identifican directamente dos términos (las manos = mapas) sin conector comparativo, lo que corresponde a una metáfora.
+1. d — se identifican directamente dos términos (las manos = mapas) sin conector comparativo, lo que corresponde a una metáfora.
 2. Falso — el padre casi no habla de sus sentimientos; se le caracteriza sobre todo a través de su cuerpo.
-3. b
-4. *(aplicación, ver pauta)* — cualquier hipótesis razonada sustentada en evidencia textual concreta (ej. el paralelismo entre las manos del padre y las de la hija).
-5. *(desarrollo, ver pauta)* — ambas obras representan el trabajo minero como fuerza que desgasta físicamente y se hereda entre generaciones; se diferencian en que en *Sub terra* la herencia es inevitable, mientras que en este relato el padre logra romper la cadena.
-6. b — atribuir a la montaña la acción de "devorar" es una personificación.
-7. b
-8. b
+3. c
+4. a) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre. Una hipótesis de sentido debe demostrarse citando recursos literarios concretos.
+5. d) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el padre del cuento rompe la cadena para su hija. Una relación intertextual explica también las diferencias relevantes.
+6. d — atribuir a la montaña la acción de "devorar" es una personificación.
+7. c
+8. a
 9. Falso — el texto incluye cifras de la Subsecretaría del Trabajo y de un estudio de la Universidad de Chile, además del testimonio de Ronald.
-10. *(desarrollo, ver pauta)* — mencionar la falta de respuesta sugiere, sin afirmarlo directamente, que las empresas prefieren no transparentar esa información, reforzando el enfoque crítico del reportaje.
+10. d) Porque sugiere, sin afirmarlo, que hay información relevante que las empresas prefieren no transparentar, reforzando el enfoque crítico. Identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
 11. b
 12. b
 13. Verdadero — el texto atribuye la cifra explícitamente a la Subsecretaría del Trabajo, una fuente institucional identificable.

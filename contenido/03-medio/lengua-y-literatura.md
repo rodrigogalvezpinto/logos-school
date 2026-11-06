@@ -80,82 +80,122 @@ En 3° medio, tu análisis literario deja de ser una lista de elementos identifi
 **1. (Alternativas)** ¿Qué figura literaria corresponde a la expresión "las manos de mi padre son dos mapas de cuero curtido"?
 
 a) Personificación
-b) Metáfora
+b) Pregunta retórica
 c) Hipérbole
-d) Pregunta retórica
+d) Metáfora
 
-*Respuesta correcta: b.* Retroalimentación: se identifican directamente dos términos (las manos = mapas) sin usar un conector comparativo ("como"), lo que corresponde a una metáfora, no a un símil.
+*Respuesta correcta: d.* Retroalimentación: se identifican directamente dos términos (las manos = mapas) sin usar un conector comparativo ("como"), lo que corresponde a una metáfora, no a un símil.
 
 **2. (Verdadero o Falso)** El padre del relato es caracterizado principalmente a través de largos diálogos donde expresa directamente sus sentimientos.
 
 *Respuesta correcta: Falso.* Retroalimentación: el padre casi no habla de sus sentimientos; se le caracteriza sobre todo a través de su cuerpo (las manos, la espalda encorvada), un recurso que traslada el retrato del personaje del plano psicológico al físico y simbólico.
 
-**3. (Desarrollo breve)** Explica cómo la elección de un narrador adulto que mira su infancia en retrospectiva —y no un narrador niño, en presente— afecta el sentido del relato.
+**3. (Alternativas)** ¿Cómo afecta al sentido del relato la elección de un narrador adulto que mira su infancia en retrospectiva?
 
-*Respuesta esperada*: narrar desde la distancia adulta permite que Fernanda interprete, recién ahora, gestos que de niña no comprendía del todo (como el padre soltando la bicicleta o llegando encorvado del turno de noche); esta distancia temporal transforma el relato de un simple recuerdo de infancia en una reflexión madura sobre el sacrificio paterno. Retroalimentación: relacionar las características del narrador con el sentido de la obra exige preguntarse qué cambiaría si el autor hubiera elegido otra perspectiva narrativa.
+a) Permite que Fernanda interprete recién ahora gestos que de niña no comprendía, transformando el recuerdo en una reflexión madura sobre el sacrificio paterno
+b) No afecta en nada el sentido del relato: un narrador niño contaría los mismos hechos con la misma interpretación sobre el trabajo del padre en la mina
+c) Hace que el relato sea una noticia objetiva
+d) Impide conocer los pensamientos de la narradora, porque el adulto solo describe hechos externos de su infancia sin reflexionar sobre el sacrificio paterno
+
+*Respuesta correcta: a.* Retroalimentación: relacionar el narrador con el sentido exige preguntarse qué cambiaría con otra perspectiva.
 
 **4. (Alternativas)** ¿Qué tópico literario está más presente en "Las manos de mi padre"?
 
-a) El carpe diem (aprovechar el presente)
-b) El trabajo como destino heredado y su ruptura
-c) El amor no correspondido
-d) El viaje como búsqueda de identidad
+a) El carpe diem: aprovechar el presente sin pensar en el futuro
+b) El amor no correspondido entre el padre y su trabajo
+c) El trabajo como destino heredado y su ruptura
+d) El viaje como búsqueda de una identidad propia lejos del hogar
 
-*Respuesta correcta: b.* Retroalimentación: todo el relato gira en torno a que el padre trabajó en la mina para que su hija no tuviera que hacerlo, rompiendo así la cadena de un oficio heredado generación tras generación.
+*Respuesta correcta: c.* Retroalimentación: todo el relato gira en torno a que el padre trabajó en la mina para que su hija no tuviera que hacerlo, rompiendo así la cadena de un oficio heredado generación tras generación.
 
-**5. (Aplicación)** Formula una hipótesis de sentido para el relato y sustenta esa hipótesis citando al menos un recurso literario (narrador, personaje, tópico, figura literaria o lenguaje) usado en el texto.
+**5. (Alternativas — Aplicación)** ¿Qué hipótesis de sentido está sustentada en un recurso literario del texto?
 
-*Respuesta esperada*: cualquier hipótesis razonada que se sustente en evidencia textual concreta; por ejemplo, la hipótesis de que el relato trata sobre cómo el sacrificio físico se transforma en herencia simbólica, sustentada en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y la descripción inicial de las manos del padre. Retroalimentación: una hipótesis de sentido no es una opinión libre, sino una interpretación que puede demostrarse citando recursos literarios concretos del texto.
+a) El relato trata sobre deportes y vida sana, sustentado en que menciona bicicletas y el esfuerzo físico de los trabajadores del pueblo minero
+b) El relato es solo una lista de oficios sin un sentido mayor, sustentado en que enumera el trabajo del padre, del abuelo y de la hija sin conectarlos
+c) El relato no permite ninguna hipótesis de sentido, porque se limita a describir manos sin usar recursos literarios como el paralelismo o la metáfora
+d) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre
+
+*Respuesta correcta: d.* Retroalimentación: una hipótesis de sentido debe demostrarse citando recursos literarios concretos.
 
 **6. (Verdadero o Falso)** Formular una hipótesis de sentido en 3° medio consiste en enumerar todos los recursos literarios presentes en la obra, sin necesidad de conectarlos entre sí.
 
 *Respuesta correcta: Falso.* Retroalimentación: una hipótesis de sentido exige relacionar los recursos literarios entre sí y usarlos como evidencia de una interpretación propia sobre el sentido global de la obra, no solo enumerarlos por separado.
 
-**7. (Desarrollo breve — intertextualidad literaria)** Explica qué elemento comparten "Las manos de mi padre" y *Sub terra* de Baldomero Lillo, y en qué se diferencian respecto del destino de los personajes.
+**7. (Alternativas — intertextualidad)** ¿Qué comparten "Las manos de mi padre" y *Sub terra*, y en qué se diferencian?
 
-*Respuesta esperada*: ambas obras representan el trabajo minero como una fuerza que desgasta físicamente a los trabajadores y que tiende a heredarse de una generación a otra; se diferencian en que, en *Sub terra*, esa herencia suele ser inevitable, mientras que en "Las manos de mi padre" el padre logra romper la cadena para que su hija no trabaje en la mina, aunque el costo físico sobre su propio cuerpo sea similar. Retroalimentación: una relación intertextual válida no solo señala un tema en común, sino que explica también las diferencias relevantes entre las obras comparadas.
+a) No comparten nada: el cuento trata sobre una familia y Sub terra sobre la historia de la minería, sin relación entre sus temas ni entre sus personajes
+b) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el padre del cuento rompe la cadena para su hija
+c) Ambas terminan con la hija del minero trabajando en la mina, porque la herencia del oficio es inevitable en las dos obras, sin ninguna diferencia entre ellas
+d) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub terra está escrita en verso y el cuento en prosa, pero comparten el mismo tema
 
-**8. (Desarrollo breve — referente cultural)** Explica de qué manera el documental *Nostalgia de la luz*, de Patricio Guzmán, dialoga con el tema central de "Las manos de mi padre", más allá de compartir el escenario del norte de Chile.
+*Respuesta correcta: b.* Retroalimentación: una relación intertextual explica también las diferencias relevantes.
 
-*Respuesta esperada*: ambas obras entienden el territorio del norte de Chile —el desierto, la mina— como un espacio que guarda memoria de quienes trabajaron y sufrieron en él, y que exige que alguien de la generación siguiente la interprete y la mantenga viva, ya sea a través de la escritura (en el cuento) o de la investigación y el registro documental (en la película). Retroalimentación: relacionar una obra literaria con un referente del arte exige identificar una idea compartida en profundidad, no solo una coincidencia superficial de ambientación.
+**8. (Alternativas — referente cultural)** ¿Cómo dialoga *Nostalgia de la luz* de Patricio Guzmán con el tema central del cuento, más allá del escenario?
 
-**9. (Análisis integrado)** Un compañero afirma que el final del relato ("estas manos mías, que hoy sostienen un lápiz y no un pique, escribiendo sobre las suyas") es simplemente un dato anecdótico sobre la profesión de la narradora. Evalúa esta lectura y, si te parece incompleta, propón una interpretación más profunda, sustentada en los recursos del texto.
+a) Ambas tratan sobre la astronomía como pasatiempo de los habitantes del norte, y el cuento usa el cielo del desierto solo como fondo de las escenas familiares
+b) Solo coinciden en que ocurren en el norte de Chile: la película habla de los observatorios y el cuento de la minería, sin ningún tema en común entre ambas
+c) Ambas entienden el territorio del norte como un espacio que guarda la memoria de quienes trabajaron y sufrieron en él, que la generación siguiente debe interpretar
+d) No tienen ninguna relación
 
-*Respuesta esperada*: la lectura es incompleta, porque ese final no es un dato menor, sino el cierre de un paralelismo construido a lo largo de todo el relato entre las manos del padre (marcadas por el trabajo físico) y las de la hija (dedicadas a la escritura); esta estructura simétrica sostiene la hipótesis de que el sacrificio del padre se transformó en un tipo distinto de herencia —la posibilidad de contar la historia—, y no simplemente en un cambio de oficio. Retroalimentación: evaluar la interpretación de otra persona exige contrastarla con la evidencia textual disponible y, cuando corresponda, argumentar por qué una lectura más profunda está mejor sustentada.
+*Respuesta correcta: c.* Retroalimentación: relacionar una obra con un referente del arte exige una idea compartida en profundidad.
+
+**9. (Alternativas — análisis integrado)** Un compañero dice que el final ("estas manos mías, que hoy sostienen un lápiz y no un pique, escribiendo sobre las suyas") es solo un dato sobre la profesión de la narradora. ¿Qué evaluación es correcta?
+
+a) Es incompleta: el final cierra un paralelismo construido en todo el relato y sustenta que el sacrificio del padre se transformó en la posibilidad de contar la historia
+b) Es correcta: el final no tiene importancia para el sentido del relato, porque la historia del padre ya terminó antes de ese párrafo
+c) Es correcta: la narradora solo describe su trabajo actual como escritora, y el final informa al lector de su profesión sin relación con las manos del padre
+d) Es incorrecta porque el relato no tiene final
+
+*Respuesta correcta: a.* Retroalimentación: evaluar otra interpretación exige contrastarla con la evidencia textual.
 
 **10. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
 
 a) Símil
-b) Personificación
+b) Anáfora
 c) Hipérbaton
-d) Anáfora
+d) Personificación
 
-*Respuesta correcta: b.* Retroalimentación: atribuir a la montaña la acción humana de "devorar" es una personificación que le otorga un poder casi mítico sobre la vida de los trabajadores.
+*Respuesta correcta: d.* Retroalimentación: atribuir a la montaña la acción humana de "devorar" es una personificación que le otorga un poder casi mítico sobre la vida de los trabajadores.
 
 **11. (Verdadero o Falso)** El símil "como si el cerro le hubiera prestado parte de su peso" cumple una función distinta a la de la metáfora inicial de las manos como mapas: mientras la metáfora refuerza el desgaste físico, el símil no tiene relación con ese tema.
 
 *Respuesta correcta: Falso.* Retroalimentación: aunque son figuras distintas (metáfora y símil), ambas construyen la misma idea central del relato: que el trabajo minero deja una marca física visible sobre el cuerpo del padre.
 
-**12. (Desarrollo breve)** Explica cómo el registro del lenguaje —que combina un tono coloquial en los diálogos con una prosa más poética en las descripciones— contribuye al sentido del relato.
+**12. (Alternativas)** ¿Cómo contribuye al sentido la combinación de un tono coloquial en los diálogos y una prosa poética en las descripciones?
 
-*Respuesta esperada*: el contraste entre el habla cotidiana del padre y la prosa elaborada de la narradora al describirlo acerca el relato a la experiencia familiar concreta, sin renunciar a la densidad simbólica necesaria para transmitir la magnitud del sacrificio paterno; ese doble registro refleja también la distancia entre la voz del padre (más sobria) y la mirada interpretativa de la hija (más literaria). Retroalimentación: las características del lenguaje no son un dato estilístico aislado, sino un recurso que debe relacionarse con el efecto que produce en la construcción del sentido de la obra.
+a) No contribuye en nada al sentido: el autor alterna los registros solo para variar el estilo, sin relación con la distancia entre el padre y la hija
+b) Hace que el relato sea más difícil de leer sin razón, porque mezcla registros que deberían mantenerse separados y confunde la voz del padre con la de la hija
+c) Muestra que el autor no sabe escribir
+d) Acerca el relato a la experiencia familiar sin renunciar a la densidad simbólica, y refleja la distancia entre la voz sobria del padre y la mirada interpretativa de la hija
+
+*Respuesta correcta: d.* Retroalimentación: el lenguaje es un recurso que debe vincularse con el efecto que produce.
 
 **13. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
 
 a) Porque el autor no logró desarrollar mejor al personaje
-b) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor
-c) Porque el padre es un personaje secundario sin relevancia en la trama
-d) Porque el relato está escrito en tercera persona omnisciente
+b) Porque el padre es un personaje secundario sin relevancia en la trama, y el autor prefiere dedicar las palabras y los pensamientos a la narradora
+c) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico, coherente con el tema del trabajo como forma silenciosa de amor
+d) Porque el relato está escrito en tercera persona omnisciente, que solo puede describir el cuerpo de los personajes y no sus palabras ni pensamientos
 
-*Respuesta correcta: b.* Retroalimentación: relacionar una decisión de caracterización con el sentido global de la obra es justamente lo que exige un análisis literario de 3° medio: no basta con notar el recurso, hay que explicar su función.
+*Respuesta correcta: c.* Retroalimentación: relacionar una decisión de caracterización con el sentido global de la obra es justamente lo que exige un análisis literario de 3° medio: no basta con notar el recurso, hay que explicar su función.
 
-**14. (Aplicación — intertextualidad)** Elige otra obra literaria o película que conozcas en la que el trabajo o el sacrificio de una generación se transmita, se transforme o se herede en la siguiente, y establece una relación de sentido con "Las manos de mi padre".
+**14. (Alternativas — intertextualidad)** ¿Qué vínculo con "Las manos de mi padre" está bien construido?
 
-*Respuesta esperada*: cualquier obra pertinente (por ejemplo, otro cuento, novela o película sobre generaciones y trabajo) relacionada explicando un punto de encuentro y una diferencia de sentido con el relato de Fernanda, siguiendo el mismo tipo de análisis usado con *Sub terra* o *Nostalgia de la luz*. Retroalimentación: establecer una relación intertextual válida exige explicar tanto la semejanza como la diferencia entre las obras comparadas, no solo mencionar un título.
+a) Con una película de superhéroes, porque ambas tienen personajes que se sacrifican por otros: comparten la idea de heroísmo y se diferencian en que allí los héroes tienen poderes especiales
+b) Con una película sobre una familia campesina cuyo hijo estudia gracias al trabajo de sus padres: comparten el sacrificio que se transforma en oportunidad, y se diferencian en que allí el oficio no es minero
+c) Con cualquier obra que trate sobre familias, sin explicar semejanzas ni diferencias, porque todas las historias familiares comparten el tema del sacrificio paterno
+d) Con un manual de minería, porque menciona picos
 
-**15. (Desarrollo breve)** La estructura del relato comienza describiendo las manos del padre y termina describiendo las manos de la hija. Explica por qué esta estructura circular es un recurso relevante para sustentar una hipótesis de sentido, y no solo un detalle formal.
+*Respuesta correcta: b.* Retroalimentación: una relación intertextual válida explica semejanza y diferencia, no solo menciona un título.
 
-*Respuesta esperada*: la estructura circular no es casual: al abrir y cerrar el relato con la imagen de las manos, el texto construye explícitamente el paralelismo entre el sacrificio físico del padre y la herencia simbólica de la hija, ofreciendo evidencia textual concreta —la simetría misma de la estructura— para sostener que el relato trata sobre la transformación del sacrificio en otro tipo de legado. Retroalimentación: la estructura de un relato (cómo empieza y cómo termina) es un recurso literario tan válido como el narrador o las figuras retóricas para sustentar una hipótesis de sentido.
+**15. (Alternativas)** ¿Por qué la estructura circular (comenzar con las manos del padre y terminar con las de la hija) es relevante para sustentar una hipótesis de sentido?
+
+a) Porque es solo un detalle formal sin importancia para el sentido: el relato podría comenzar y terminar con cualquier imagen sin cambiar su interpretación
+b) Porque así el relato es más largo
+c) Porque construye explícitamente el paralelismo entre el sacrificio del padre y la herencia simbólica de la hija, ofreciendo evidencia en la propia estructura
+d) Porque obliga a leer el texto dos veces para entenderlo, y así el lector recuerda mejor los detalles del trabajo del padre en la mina
+
+*Respuesta correcta: c.* Retroalimentación: la estructura es un recurso literario tan válido como el narrador o las figuras.
 
 ---
 
@@ -201,48 +241,73 @@ En 3° medio, tu mirada crítica sobre textos no literarios —orales, escritos 
 **1. (Alternativas)** ¿A qué género discursivo corresponde el texto sobre los repartidores, considerando que combina testimonio, cifras oficiales y contraste de versiones?
 
 a) Cuento realista
-b) Reportaje periodístico
+b) Reseña literaria
 c) Discurso político
-d) Reseña literaria
+d) Reportaje periodístico
 
-*Respuesta correcta: b.* Retroalimentación: la combinación de testimonio individual, datos duros y contraste de versiones sobre un mismo tema es característica del reportaje, que busca profundizar más que una noticia breve.
+*Respuesta correcta: d.* Retroalimentación: la combinación de testimonio individual, datos duros y contraste de versiones sobre un mismo tema es característica del reportaje, que busca profundizar más que una noticia breve.
 
 **2. (Verdadero o Falso)** El reportaje se limita a citar la opinión de Ronald, sin incluir ninguna fuente de información adicional.
 
 *Respuesta correcta: Falso.* Retroalimentación: el texto incluye cifras de la Subsecretaría del Trabajo y de un estudio de la Universidad de Chile, además del testimonio de Ronald, combinando distintas fuentes de información.
 
-**3. (Desarrollo breve)** Explica por qué el reportaje menciona explícitamente que "ninguna de las plataformas consultadas... respondió" sobre cuánto se quedan de cada pedido, en vez de simplemente omitir ese dato sin comentario.
+**3. (Alternativas)** ¿Por qué el reportaje menciona explícitamente que "ninguna de las plataformas consultadas... respondió" sobre cuánto se quedan de cada pedido?
 
-*Respuesta esperada*: mencionar la falta de respuesta cumple una función comunicativa: sugiere al lector, sin afirmarlo directamente, que existe información relevante que las empresas prefieren no transparentar, lo que refuerza el enfoque crítico del reportaje hacia el sistema de plataformas de delivery. Retroalimentación: identificar la función de la información omitida exige preguntarse qué efecto produce en el lector el hecho de que el texto señale esa omisión de forma explícita.
+a) Porque sugiere, sin afirmarlo, que hay información relevante que las empresas prefieren no transparentar, reforzando el enfoque crítico
+b) Porque el periodista olvidó preguntar a las plataformas cuánto se quedan de cada pedido
+c) Porque el dato no tiene importancia para el tema del reportaje y solo completa la información sobre las plataformas
+d) Porque las empresas respondieron con claridad y el periodista quiso destacar su transparencia frente a las críticas de los repartidores
 
-**4. (Aplicación)** Reconstruye, en tus propias palabras, la cadena de ideas que relaciona la clasificación de "trabajador independiente" con la crítica final del reportaje sobre la flexibilidad.
+*Respuesta correcta: a.* Retroalimentación: identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
 
-*Respuesta esperada*: ser clasificado como trabajador independiente implica no tener contrato, seguro ni cotizaciones automáticas; esto hace que el ingreso líquido, descontando gastos, apenas supere el sueldo mínimo en jornadas largas; frente a esto, las empresas destacan la flexibilidad horaria como beneficio principal, pero el testimonio de Ronald muestra que factores como el clima o el precio del pedido escapan a su control, lo que cuestiona qué tan real es esa flexibilidad. Retroalimentación: identificar las relaciones entre las ideas de un texto exige reconstruir el orden lógico en que se conectan los datos y los testimonios para sostener una conclusión.
+**4. (Alternativas — Aplicación)** ¿Qué cadena de ideas vincula la clasificación de "trabajador independiente" con la crítica final sobre la flexibilidad?
+
+a) Ser independiente garantiza un sueldo alto y jornadas cortas, por eso no hay crítica: las empresas destacan la flexibilidad y el testimonio de Ronald confirma que controla su ingreso
+b) La flexibilidad hace que no existan gastos
+c) No existe ninguna relación entre ambas ideas: la clasificación de independiente es un dato legal y la crítica final se refiere solo al clima y al tráfico de la ciudad
+d) Sin contrato ni seguridad social, el ingreso apenas supera el mínimo en jornadas largas; las empresas destacan la flexibilidad, pero el testimonio de Ronald muestra factores que escapan a su control
+
+*Respuesta correcta: d.* Retroalimentación: reconstruir el orden lógico de datos y testimonios muestra cómo sostienen una conclusión.
 
 **5. (Alternativas)** ¿Con qué propósito comunicativo el reportaje incluye cifras de un estudio universitario junto al testimonio de Ronald?
 
-a) Para hacer el texto más largo y detallado
-b) Para dar respaldo objetivo al testimonio individual y evitar que parezca solo una anécdota aislada
-c) Para cuestionar la veracidad del testimonio de Ronald
-d) Para cumplir con un requisito legal de las plataformas de delivery
+a) Para hacer el texto más largo y detallado, sin cambiar el sentido del testimonio
+b) Para cuestionar la veracidad del testimonio de Ronald y mostrar que exagera su situación
+c) Para dar respaldo objetivo al testimonio individual y evitar que parezca solo una anécdota aislada
+d) Para cumplir con un requisito legal que exigen las plataformas de delivery a los medios
 
-*Respuesta correcta: b.* Retroalimentación: combinar datos duros con un testimonio individual es una estrategia habitual del reportaje para mostrar que una historia particular refleja un fenómeno más amplio y verificable.
+*Respuesta correcta: c.* Retroalimentación: combinar datos duros con un testimonio individual es una estrategia habitual del reportaje para mostrar que una historia particular refleja un fenómeno más amplio y verificable.
 
-**6. (Desarrollo breve — contexto sociocultural)** Explica por qué este reportaje resulta especialmente relevante para una audiencia chilena en el contexto sociocultural actual, más allá del caso particular de Ronald.
+**6. (Alternativas — contexto sociocultural)** ¿Por qué el reportaje es especialmente relevante para una audiencia chilena actual?
 
-*Respuesta esperada*: el texto conecta con un debate público vigente en Chile sobre la precariedad del trabajo informal, el crecimiento de las plataformas digitales desde la pandemia, y la situación laboral de trabajadores migrantes; para una audiencia chilena, esto no es un caso aislado, sino un ejemplo de una discusión social y legislativa en curso sobre cómo regular este tipo de empleo. Retroalimentación: relacionar un texto con el contexto sociocultural de su audiencia exige identificar qué debates o preocupaciones sociales vigentes hacen que ese contenido resulte significativo para quien lo lee.
+a) Porque conecta con un debate vigente sobre la precariedad del trabajo informal, el crecimiento de las plataformas desde la pandemia y la situación de trabajadores migrantes
+b) Porque trata un tema que no existe en Chile, y permite a la audiencia conocer cómo funcionan las plataformas de reparto en otros países con más trabajadores migrantes
+c) Porque solo le interesa a Ronald
+d) Porque es una historia de ficción sobre un repartidor, escrita para entretener a la audiencia con un relato cercano, sin relación con debates actuales sobre el trabajo
+
+*Respuesta correcta: a.* Retroalimentación: vincular un texto con su contexto exige identificar qué debates lo hacen significativo.
 
 **7. (Verdadero o Falso)** El reportaje afirma de manera explícita y categórica que las empresas de delivery mienten sobre la flexibilidad que ofrecen a sus trabajadores.
 
 *Respuesta correcta: Falso.* Retroalimentación: el reportaje no hace esa afirmación directa; construye su crítica a través de la yuxtaposición de datos, la declaración de las empresas y el testimonio de Ronald, dejando que el lector llegue a esa conclusión por sí mismo.
 
-**8. (Desarrollo breve — veracidad de la información)** ¿Qué elementos del texto permiten verificar la información entregada, y qué elementos dependen únicamente de la palabra de una de las partes involucradas?
+**8. (Alternativas — veracidad de la información)** ¿Qué información del reportaje es verificable y cuál depende solo de una de las partes?
 
-*Respuesta esperada*: las cifras de la Subsecretaría del Trabajo y del estudio de la Universidad de Chile son verificables porque provienen de fuentes institucionales identificables; en cambio, la afirmación de las empresas de que "el 78% de sus repartidores valora poder trabajar cuando quiere" depende únicamente de comunicados de las propias plataformas, sin que el reportaje pueda contrastarla de forma independiente, lo que exige leerla con más cautela. Retroalimentación: evaluar la veracidad de una información implica distinguir entre datos que provienen de fuentes verificables e independientes y afirmaciones que dependen solo de la palabra de una parte interesada.
+a) Todo depende solo de la palabra de Ronald, porque las cifras de la Subsecretaría y del estudio de la Universidad de Chile fueron entregadas por él al periodista
+b) Todo es igualmente verificable: las cifras oficiales, el estudio universitario y el 78% de satisfacción provienen de fuentes independientes que cualquiera puede consultar
+c) Las cifras de la Subsecretaría del Trabajo y del estudio de la Universidad de Chile son verificables; el 78% de satisfacción depende solo de comunicados de las plataformas
+d) Nada es verificable
 
-**9. (Análisis integrado)** Imagina que este mismo reportaje se transforma en un reportaje audiovisual para televisión. ¿Qué elemento del género discursivo cambiaría necesariamente, y qué relación con el contexto sociocultural de la audiencia se mantendría igual?
+*Respuesta correcta: c.* Retroalimentación: hay que distinguir datos de fuentes independientes de afirmaciones de una parte interesada.
 
-*Respuesta esperada*: cambiaría el modo de presentar la información: en televisión se usarían imágenes en movimiento (a Ronald pedaleando bajo la lluvia), sonido ambiente y quizás una voz en off, en vez de solo texto escrito, lo que es propio de las convenciones del género audiovisual; sin embargo, se mantendría la relevancia del tema para la misma audiencia chilena preocupada por la precariedad laboral y las plataformas digitales, independientemente del soporte elegido. Retroalimentación: comparar un mismo contenido en distintos géneros discursivos ayuda a distinguir qué elementos dependen del soporte (escrito, oral, audiovisual) y cuáles se mantienen porque dependen del contexto sociocultural de la audiencia.
+**9. (Alternativas — análisis integrado)** Si el reportaje se transformara en uno audiovisual para televisión, ¿qué cambiaría y qué se mantendría?
+
+a) Cambiaría el modo de presentar (imágenes, sonido, voz en off); se mantendría la relevancia del tema para la audiencia chilena preocupada por la precariedad laboral
+b) Cambiaría el tema completo, porque la televisión exige historias de entretenimiento y no reportajes sobre trabajo
+c) No cambiaría nada
+d) Se perdería toda relevancia para la audiencia, porque un reportaje audiovisual solo puede mostrar imágenes y no puede presentar testimonios, datos ni el debate sobre la precariedad laboral
+
+*Respuesta correcta: a.* Retroalimentación: comparar géneros ayuda a distinguir qué depende del soporte y qué del contexto.
 
 **10. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
 
@@ -257,26 +322,41 @@ d) Presentar el testimonio de una persona afectada por el fenómeno descrito
 
 *Respuesta correcta: Verdadero.* Retroalimentación: el texto atribuye explícitamente esa cifra a la Subsecretaría del Trabajo, una fuente institucional identificable, lo que la distingue de afirmaciones que dependen solo de la palabra de una de las partes.
 
-**12. (Desarrollo breve)** Explica qué función cumple cerrar el reportaje con la cita textual de Ronald ("Yo elijo cuándo prendo la aplicación, pero no elijo el precio del pedido...") en vez de cerrarlo con un dato estadístico.
+**12. (Alternativas)** ¿Qué función cumple cerrar el reportaje con la cita de Ronald ("Yo elijo cuándo prendo la aplicación, pero no elijo el precio del pedido...") en vez de un dato estadístico?
 
-*Respuesta esperada*: cerrar con la voz del propio trabajador, después de haber presentado cifras y la versión de las empresas, le da al testimonio humano la última palabra y refuerza, de forma indirecta y no explícita, la idea de que la "flexibilidad" que promocionan las plataformas es limitada en la práctica; esta decisión de cierre es una forma de sustentar el razonamiento del reportaje sin necesidad de una conclusión explícita del autor. Retroalimentación: el orden en que se presentan las ideas y las citas en un texto no es neutro: cumple una función dentro del razonamiento general del discurso.
+a) Demuestra que las empresas tienen razón sobre la flexibilidad, porque Ronald reconoce que él elige cuándo prende la aplicación
+b) No cumple ninguna función
+c) Sirve para aumentar la cantidad de palabras del reportaje y darle un final más largo que el resto de los párrafos
+d) Da al testimonio humano la última palabra y refuerza indirectamente que la flexibilidad es limitada, sin una conclusión explícita del autor
 
-**13. (Aplicación)** Identifica qué información sobre las empresas de delivery fue seleccionada para el reportaje (lo que dicen sobre "flexibilidad" y el 78%) y explica qué propósito comunicativo cumple contrastarla con el testimonio de Ronald.
+*Respuesta correcta: d.* Retroalimentación: el orden de las ideas y citas no es neutro: cumple una función en el razonamiento.
 
-*Respuesta esperada*: se seleccionó la versión oficial de las empresas, que destaca la "flexibilidad horaria" y una cifra de satisfacción (78%), para contrastarla directamente con la experiencia concreta de Ronald, quien muestra que esa flexibilidad convive con factores que escapan a su control (el clima, el precio del pedido, los edificios); este contraste cumple el propósito de cuestionar, sin afirmarlo de forma directa, qué tan real es el beneficio que las empresas destacan. Retroalimentación: identificar la función de la información seleccionada exige preguntarse qué efecto produce en el lector poner una versión oficial junto a un testimonio que la matiza o la contradice.
+**13. (Alternativas — Aplicación)** ¿Qué propósito cumple contrastar la versión de las empresas (flexibilidad y 78% de satisfacción) con el testimonio de Ronald?
+
+a) Apoyar completamente la versión de las empresas, mostrando que Ronald es un caso aislado
+b) Cuestionar, sin afirmarlo directamente, qué tan real es el beneficio que destacan las empresas
+c) Distraer al lector del tema
+d) Demostrar que Ronald no trabaja tantas horas como dicen las cifras oficiales
+
+*Respuesta correcta: b.* Retroalimentación: poner una versión oficial junto a un testimonio que la matiza tiene un efecto en el lector.
 
 **14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
 
-a) Porque no tiene ninguna relevancia para el tema del reportaje
+a) Porque no tiene ninguna relevancia para el tema del reportaje: es solo un dato biográfico para presentar a Ronald
 b) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
-c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores
-d) Porque todos los repartidores en Chile son extranjeros
+c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores y sugerir que solo los extranjeros aceptan esos trabajos
+d) Porque todos los repartidores en Chile son extranjeros, y el reportaje lo menciona para mostrar que el problema no afecta a chilenos
 
 *Respuesta correcta: b.* Retroalimentación: mencionar el origen de Ronald conecta su caso individual con un debate público más amplio sobre migración y precariedad laboral, relevante para el contexto sociocultural de la audiencia a la que se dirige el reportaje.
 
-**15. (Desarrollo breve)** Compara la solidez de dos tipos de evidencia presentes en el reportaje: la cifra "78%" citada por las empresas y el estudio de la Universidad de Chile (2022). ¿Cuál te parece más confiable para verificar la información y por qué?
+**15. (Alternativas)** ¿Qué evidencia es más confiable para verificar la información: el 78% citado por las empresas o el estudio de la Universidad de Chile (2022)?
 
-*Respuesta esperada*: el estudio de la Universidad de Chile es más confiable porque proviene de una institución académica independiente de las empresas de delivery, con una metodología presumiblemente pública y contrastable; en cambio, la cifra del 78% proviene de un comunicado de las propias plataformas, una fuente interesada en mostrar una imagen positiva, sin que el reportaje pueda verificarla de forma independiente. Retroalimentación: evaluar la veracidad de la información exige considerar no solo si un dato es una cifra concreta, sino también quién la produjo y qué interés puede tener esa fuente en presentarla de cierta manera.
+a) El 78%, porque es una cifra concreta y la entregan las propias empresas, que conocen mejor que nadie a sus trabajadores
+b) Ambas son igual de confiables, porque las dos son cifras publicadas y citadas en el mismo reportaje
+c) El estudio de la Universidad de Chile, porque proviene de una institución independiente con metodología contrastable
+d) Ninguna sirve
+
+*Respuesta correcta: c.* Retroalimentación: evaluar la veracidad exige considerar quién produjo el dato y qué interés tiene.
 
 ---
 
@@ -328,10 +408,10 @@ Gran parte de tu vida discursiva ocurre hoy en redes sociales y comunidades digi
 
 **1. (Alternativas)** ¿Qué rol asume la cuenta @fom_biobio a lo largo del hilo?
 
-a) Opinión individual y anónima, sin responsabilidad sobre el grupo
+a) Opinión individual y anónima, que habla solo por sí misma, sin responsabilidad sobre el grupo
 b) Vocera colectiva del estudiantado, que además fija límites éticos frente a la audiencia
-c) Espectadora neutral que solo informa sin tomar postura
-d) Autoridad del establecimiento educacional
+c) Espectadora neutral que solo informa lo que ocurre en la toma, sin tomar ninguna postura
+d) Autoridad del establecimiento educacional, que informa decisiones oficiales del liceo
 
 *Respuesta correcta: b.* Retroalimentación: la cuenta habla en representación de un colectivo ("adjuntamos", "340 estudiantes") y, en su segunda intervención, asume explícitamente el rol de proteger a sus compañeras frente a la difusión de datos personales.
 
@@ -339,45 +419,70 @@ d) Autoridad del establecimiento educacional
 
 *Respuesta correcta: Falso.* Retroalimentación: el comentario se basa en una observación anecdótica y ambigua ("la vi ayer en una notaría"), sin ninguna evidencia concreta que sustente la insinuación de irregularidad; corresponde a un rumor infundado, no a evidencia verificable.
 
-**3. (Desarrollo breve)** Identifica la problemática ética presente en el comentario de @anonimo_2024 y explica por qué representa un riesgo, incluso si la persona no fue nombrada directamente.
+**3. (Alternativas)** ¿Qué problemática ética hay en el comentario de @anonimo_2024, aunque no nombre a nadie?
 
-*Respuesta esperada*: el comentario insinúa que una alumna en particular estaría detrás de la organización de la toma, basándose en un rumor sin evidencia; aunque no la nombra explícitamente, esto constituye un riesgo de doxxing o acoso, porque otros usuarios podrían identificarla y exponerla públicamente a partir de esa insinuación, generando un daño real sobre una persona que no puede defenderse con la misma visibilidad que tiene el comentario. Retroalimentación: una problemática ética en comunidades digitales no requiere que se mencione un nombre explícito para ser real; basta con que el discurso facilite la identificación o exposición de una persona sin su consentimiento.
+a) Insinúa sin evidencia que una alumna organizó la toma, lo que facilita identificarla y exponerla a acoso (doxxing)
+b) Ninguna, porque no menciona nombres ni muestra fotos y, por lo tanto, no puede afectar a ninguna persona de la comunidad
+c) Que el comentario es muy largo y desvía la conversación hacia temas que no son centrales
+d) Que usa demasiados emojis y un registro informal, poco adecuado para un debate serio
 
-**4. (Aplicación)** Compara el tipo de razonamiento que usa @vecina_ñuñoa con el que usa @troll123. ¿En qué se diferencian como formas de sostener una opinión?
+*Respuesta correcta: a.* Retroalimentación: no se requiere un nombre explícito: basta con que el discurso facilite la exposición de alguien.
 
-*Respuesta esperada*: @vecina_ñuñoa razona a partir de su propia experiencia laboral en el liceo, un testimonio personal relevante aunque limitado; @troll123, en cambio, no aporta ninguna experiencia ni evidencia específica sobre este caso, sino que generaliza a partir de un estereotipo generacional ("generación de cristal"), lo que corresponde a un prejuicio disfrazado de opinión y no a un razonamiento sustentado. Retroalimentación: distinguir modos de razonamiento exige identificar si una opinión se apoya en experiencia, evidencia verificable, o simplemente en un estereotipo sin sustento.
+**4. (Alternativas — Aplicación)** ¿En qué se diferencian los razonamientos de @vecina_ñuñoa y @troll123?
+
+a) Ambos aportan evidencia verificable
+b) Ambos razonan a partir de estereotipos generacionales, aunque @vecina_ñuñoa los presenta como experiencia laboral en el liceo
+c) @troll123 aporta datos verificables sobre la generación actual y @vecina_ñuñoa solo insultos, sin relación con su experiencia en el liceo ni datos
+d) @vecina_ñuñoa razona desde su experiencia laboral en el liceo; @troll123 generaliza desde un estereotipo generacional ("generación de cristal") sin evidencia
+
+*Respuesta correcta: d.* Retroalimentación: hay que distinguir si una opinión se apoya en experiencia, evidencia o estereotipo.
 
 **5. (Alternativas)** ¿Qué evidencia presentada en el hilo es la más verificable por cualquier persona externa a la comunidad digital?
 
-a) La afirmación de @troll123 sobre "esta generación de cristal"
-b) La observación de @anonimo_2024 sobre una notaría
+a) La afirmación de @troll123 de que los estudiantes son "esta generación de cristal"
+b) La observación de @anonimo_2024 que insinúa quién habría organizado la toma
 c) Las fotos y el petitorio firmado por 340 estudiantes que adjunta @fom_biobio
-d) La opinión de @profe_x sobre otros liceos
+d) La opinión de @profe_x sobre lo que ocurre en otros liceos donde trabaja
 
 *Respuesta correcta: c.* Retroalimentación: a diferencia de las opiniones o rumores, las fotos y un petitorio firmado son un tipo de evidencia concreta y, en principio, verificable por cualquier persona que tenga acceso a esos documentos.
 
-**6. (Desarrollo breve — postura ética fundamentada)** Fundamenta tu propia postura sobre si es aceptable difundir rumores sobre la identidad de una persona organizadora en un espacio digital, aunque exista un interés público legítimo en el tema (como las condiciones del liceo).
+**6. (Alternativas — postura ética fundamentada)** ¿Cuál de estas respuestas es una postura ética **fundamentada** sobre difundir rumores acerca de quién organizó la toma?
 
-*Respuesta esperada*: cualquier postura razonada y fundamentada; por ejemplo, que el interés público legítimo en el tema (las condiciones del liceo) no justifica difundir rumores sobre la identidad de una persona sin evidencia, porque el daño potencial sobre alguien identificado erróneamente es real y desproporcionado frente al beneficio de esa información, que además no aporta nada a la discusión sobre el problema de fondo. Retroalimentación: fundamentar una postura ética exige distinguir entre el tema de interés público legítimo (las condiciones del liceo) y las prácticas que pueden dañar a personas concretas dentro de esa discusión.
+a) "Está bien porque todos lo hacen en redes sociales, y si la persona no organizó la toma, puede desmentirlo; además, el interés público justifica cualquier información"
+b) "No es aceptable: el interés público en las condiciones del liceo no justifica exponer sin evidencia a una persona, porque el daño posible es real y no aporta al problema de fondo"
+c) "No sé"
+d) "Es un tema del liceo y de sus estudiantes, así que cada uno puede opinar y compartir lo que quiera sobre quién organizó la toma, sin necesidad de evidencia"
+
+*Respuesta correcta: b.* Retroalimentación: fundamentar exige distinguir el tema de interés público de las prácticas que dañan a personas concretas.
 
 **7. (Verdadero o Falso)** El contexto sociocultural chileno, donde las tomas y petitorios estudiantiles son una forma de organización históricamente reconocida, no influye en cómo se interpretan los comentarios de este hilo.
 
 *Respuesta correcta: Falso.* Retroalimentación: ese contexto sociocultural sí influye: explica por qué algunos usuarios (como @vecina_ñuñoa o @profe_x) reconocen y validan rápidamente esta forma de organización, mientras otros la descalifican apelando a estereotipos generacionales que también forman parte de un debate social más amplio en Chile.
 
-**8. (Desarrollo breve)** Explica qué función cumple la segunda intervención de @fom_biobio ("Aclaramos... pedimos que no difundan nombres ni fotos...") en relación con la audiencia del hilo.
+**8. (Alternativas)** ¿Qué función cumple la segunda intervención de @fom_biobio ("Aclaramos... pedimos que no difundan nombres ni fotos...")?
 
-*Respuesta esperada*: esta intervención cumple una función correctiva y protectora: desmiente el rumor sin necesidad de confirmar ni negar detalles sobre personas específicas, y establece explícitamente un límite ético para la audiencia, pidiendo que no se difundan nombres ni fotos de compañeras; de esta forma, la cuenta ejerce su rol de vocera no solo informando, sino regulando el comportamiento de la comunidad digital frente a un riesgo de acoso. Retroalimentación: describir el rol de un enunciador implica observar cómo se dirige a su audiencia no solo para informar, sino también, en ocasiones, para proteger a terceros o fijar normas de comportamiento.
+a) Promover el rumor y pedir a la audiencia que difunda los nombres
+b) Vender un producto
+c) Correctiva y protectora: desmiente el rumor y fija un límite ético a la audiencia para proteger a terceros
+d) Cerrar el hilo sin explicación para evitar más comentarios de la audiencia y sin fijar ningún límite
 
-**9. (Análisis integrado)** Evalúa el hilo completo: ¿qué modo de razonamiento y qué evidencia presentados en los comentarios te parecen más sólidos para formar una opinión informada sobre la toma, y cuáles descartarías? Justifica.
+*Respuesta correcta: c.* Retroalimentación: un enunciador puede dirigirse a su audiencia para informar y también para proteger a terceros.
 
-*Respuesta esperada*: cualquier evaluación razonada que priorice la evidencia verificable (las fotos y el petitorio firmado por 340 estudiantes, y el testimonio directo de @vecina_ñuñoa como exfuncionaria del liceo) por sobre las afirmaciones sin sustento (el rumor de @anonimo_2024 y la generalización estereotipada de @troll123), explicando por qué estas últimas no aportan información verificable sobre el caso. Retroalimentación: evaluar la calidad de la evidencia en un hilo digital exige comparar sistemáticamente qué afirmaciones pueden verificarse con datos concretos y cuáles se sostienen solo en opinión, rumor o prejuicio.
+**9. (Varias correctas — análisis integrado)** Para formarse una opinión informada sobre la toma, ¿qué evidencia del hilo es más sólida? Marca **todas** las correctas.
+
+a) Las fotos y el petitorio firmado por 340 estudiantes
+b) El testimonio directo de @vecina_ñuñoa como exfuncionaria del liceo
+c) El rumor de @anonimo_2024
+d) La generalización de @troll123
+
+*Respuesta correcta: a y b.* Retroalimentación: hay que priorizar lo verificable o el testimonio directo por sobre el rumor y el prejuicio.
 
 **10. (Alternativas)** ¿Qué rol asume @profe_x en el hilo al comentar "esto también pasa en el mío... eso es lo que hay que hacer"?
 
-a) Autoridad que desautoriza la toma
+a) Autoridad del Ministerio de Educación que desautoriza la toma y llama a los estudiantes a volver a clases
 b) Par que valida la organización estudiantil desde su propia experiencia como docente de otro establecimiento
-c) Vocera oficial del liceo tomado
-d) Usuario anónimo sin relación con el tema
+c) Vocera oficial del liceo tomado, que informa a la comunidad los acuerdos de la asamblea general
+d) Usuario anónimo sin relación con el tema ni con la educación, que comenta solo para provocar a los demás
 
 *Respuesta correcta: b.* Retroalimentación: @profe_x no representa al liceo tomado ni es parte del estudiantado; asume el rol de un par externo que, desde su propia experiencia docente, valida la forma en que se organizó la toma.
 
@@ -385,26 +490,41 @@ d) Usuario anónimo sin relación con el tema
 
 *Respuesta correcta: Falso.* Retroalimentación: expresar una opinión no equivale a construir un argumento; el comentario reemplaza cualquier evidencia o razón específica sobre este caso por un estereotipo generacional, lo que corresponde a una descalificación y no a un razonamiento válido.
 
-**12. (Desarrollo breve)** Identifica la problemática ética presente en el comentario de @troll123 y explica en qué se diferencia de la problemática ética presente en el comentario de @anonimo_2024.
+**12. (Alternativas)** ¿En qué se diferencian las problemáticas éticas de los comentarios de @troll123 y @anonimo_2024?
 
-*Respuesta esperada*: el comentario de @troll123 es una descalificación basada en un estereotipo generacional, que ataca al grupo completo de estudiantes sin evidencia ni argumento específico sobre este caso; el de @anonimo_2024, en cambio, es una acusación infundada con riesgo de doxxing dirigida hacia una persona identificable en particular; ambas son problemáticas éticas, pero una discrimina a un colectivo mediante un prejuicio y la otra expone a un individuo concreto a un riesgo de acoso. Retroalimentación: distinguir entre distintas problemáticas éticas (descalificación grupal versus exposición individual) permite fundamentar con mayor precisión una postura ética frente a cada una.
+a) @troll123 descalifica a un colectivo con un estereotipo; @anonimo_2024 expone a una persona identificable con una acusación infundada
+b) Ambos cometen exactamente la misma falta: descalificar a un colectivo con un estereotipo
+c) Ninguno tiene una problemática ética
+d) @troll123 expone a una persona identificable con una acusación infundada y @anonimo_2024 elogia al grupo con un estereotipo positivo
 
-**13. (Aplicación — postura ética)** Fundamenta una postura sobre cómo debería responder una comunidad digital —usuarios, moderadores o la propia cuenta @fom_biobio— frente a comentarios como el de @troll123, que descalifican a un grupo completo mediante un estereotipo.
+*Respuesta correcta: a.* Retroalimentación: distinguir descalificación grupal y exposición individual permite fundamentar con más precisión.
 
-*Respuesta esperada*: cualquier postura razonada; por ejemplo, que este tipo de comentarios debería señalarse públicamente como una descalificación sin sustento (sin necesariamente responder con el mismo tono), porque normalizar el prejuicio generacional desvía la conversación del problema real (la falta de agua caliente) hacia un ataque genérico que no aporta evidencia ni contribuye a resolver el conflicto. Retroalimentación: una postura ética fundamentada no se limita a calificar un comentario como "malo", sino que explica por qué produce un daño o un efecto negativo concreto en la comunidad digital.
+**13. (Alternativas — postura ética)** ¿Qué respuesta de la comunidad digital frente a comentarios como el de @troll123 está mejor fundamentada?
+
+a) Responder con insultos más fuertes
+b) Ignorar el tema de fondo y discutir solo con el troll, respondiendo cada comentario hasta que deje de publicar en el hilo del liceo
+c) Difundir datos personales del troll para que la comunidad sepa quién es y deje de tomarlo en serio
+d) Señalarlos públicamente como descalificaciones sin sustento, sin responder con el mismo tono, porque desvían la conversación del problema real
+
+*Respuesta correcta: d.* Retroalimentación: una postura ética fundamentada explica qué daño o efecto negativo concreto produce el comentario.
 
 **14. (Alternativas)** ¿Qué modo de razonamiento usa @profe_x para validar la organización de la toma?
 
-a) Un estereotipo sobre los estudiantes
+a) Un estereotipo sobre los estudiantes que participan en tomas en todo el país
 b) Su propia experiencia comparativa como docente que vive una situación similar en otro establecimiento
-c) Una cifra oficial sobre tomas estudiantiles en Chile
+c) Una cifra oficial sobre tomas estudiantiles en Chile, entregada por el Ministerio de Educación
 d) Un rumor sobre quién organizó la toma
 
 *Respuesta correcta: b.* Retroalimentación: @profe_x no aporta cifras ni evidencia documental, sino una comparación basada en su propia experiencia profesional en un contexto similar, un tipo de razonamiento testimonial distinto al de @vecina_ñuñoa, pero igualmente basado en experiencia y no en prejuicio.
 
-**15. (Desarrollo breve)** Evalúa la calidad de la evidencia que aporta @vecina_ñuñoa ("yo trabajé ahí de auxiliar y sé que llevan años pidiendo arreglos") en comparación con la evidencia que aporta @fom_biobio (fotos y petitorio firmado). ¿Cuál es más sólida y por qué?
+**15. (Alternativas)** ¿Qué evidencia es más sólida: el testimonio de @vecina_ñuñoa o las fotos y el petitorio de @fom_biobio?
 
-*Respuesta esperada*: la evidencia de @fom_biobio es más sólida porque es verificable por cualquier persona externa (fotos, un documento firmado por 340 estudiantes), mientras que el testimonio de @vecina_ñuñoa, aunque relevante y de buena fe, depende de su experiencia personal y no puede verificarse de forma independiente por otros usuarios del hilo; ambos aportan valor, pero tienen un grado distinto de verificabilidad. Retroalimentación: evaluar la calidad de la evidencia exige distinguir entre un testimonio personal, valioso pero difícil de verificar externamente, y evidencia documental que cualquier persona puede constatar.
+a) El testimonio, porque es más emotivo y proviene de alguien que trabaja en el liceo, lo que lo hace indiscutible
+b) Las fotos y el petitorio, porque cualquier persona externa puede verificarlos; el testimonio es valioso pero difícil de verificar
+c) Ambos tienen exactamente la misma verificabilidad, porque los dos fueron publicados en el mismo hilo sobre la toma del liceo
+d) Ninguno aporta valor
+
+*Respuesta correcta: b.* Retroalimentación: hay que distinguir un testimonio personal de una evidencia documental verificable.
 
 ---
 
@@ -462,10 +582,10 @@ Antes de escribir, se planifica cada versión:
 
 **1. (Alternativas)** ¿Cuál es la principal diferencia de propósito entre la versión (a) y la versión (b) del ejemplo trabajado?
 
-a) Ambas buscan exactamente lo mismo, solo cambia la extensión
+a) Ambas buscan exactamente lo mismo, argumentar una interpretación; solo cambia la extensión del texto
 b) La versión (a) busca argumentar una interpretación fundamentada; la versión (b) busca recomendar el cuento y despertar interés
-c) La versión (a) es informal y la versión (b) es formal
-d) La versión (b) no tiene ningún propósito comunicativo
+c) La versión (a) es informal y está dirigida a compañeros; la versión (b) es formal y está dirigida a un profesor
+d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen más corto de la versión (a)
 
 *Respuesta correcta: b.* Retroalimentación: aunque ambas versiones comunican la misma interpretación central, sus propósitos comunicativos son distintos, lo que justifica que se escriban de forma diferente.
 
@@ -473,34 +593,59 @@ d) La versión (b) no tiene ningún propósito comunicativo
 
 *Respuesta correcta: Falso.* Retroalimentación: la oración "Chuquicamata es una ciudad del norte" interrumpe la progresión temática sobre el paralelismo entre las manos del padre y las de la hija, aportando un dato que no se conecta con el argumento central.
 
-**3. (Desarrollo breve)** Explica qué función cumplen los conectores "en primer lugar", "luego" y "por lo tanto" en el párrafo analítico de la versión (a).
+**3. (Alternativas)** ¿Qué función cumplen "en primer lugar", "luego" y "por lo tanto" en el párrafo de la versión (a)?
 
-*Respuesta esperada*: "en primer lugar" y "luego" organizan la información en un orden temporal o lógico dentro del argumento (primero la caracterización del padre, después la de la hija), mientras que "por lo tanto" marca explícitamente que la oración final es una conclusión que se desprende de lo expuesto antes, dando cierre argumentativo al párrafo. Retroalimentación: los conectores no son un adorno formal: cumplen la función de mostrarle al lector cómo se relacionan las ideas entre sí (orden, causa, consecuencia, contraste, entre otras).
+a) Todos indican contraste entre las ideas del párrafo
+b) Son adornos sin función que alargan el párrafo
+c) "En primer lugar" y "luego" ordenan las ideas; "por lo tanto" marca la conclusión que se desprende de lo anterior
+d) "En primer lugar" y "luego" introducen ejemplos del cuento; "por lo tanto" agrega una idea nueva sin relación con lo anterior
 
-**4. (Aplicación)** Reescribe esta oración de la versión (b) para mejorar su cohesión, agregando un conector adecuado: "El cuento habla de un papá minero. Después la hija escribe con lápiz."
+*Respuesta correcta: c.* Retroalimentación: los conectores muestran cómo se relacionan las ideas (orden, causa, consecuencia, contraste).
 
-*Respuesta esperada*: cualquier reescritura que incorpore un conector adecuado y muestre la relación entre ambas ideas; por ejemplo: "El cuento habla de un papá minero cuyo sacrificio, al final, se transforma en algo distinto: su hija termina escribiendo con lápiz sobre él." Retroalimentación: mejorar la cohesión de un texto breve no requiere alargarlo innecesariamente, sino elegir un conector que muestre con precisión la relación (causal, temporal, de consecuencia) entre las ideas.
+**4. (Alternativas — Aplicación)** ¿Cuál es la mejor reescritura de "El cuento habla de un papá minero. Después la hija escribe con lápiz." para mejorar su cohesión?
+
+a) "El cuento habla de un papá minero cuyo sacrificio, al final, se transforma en algo distinto: su hija termina escribiendo con lápiz sobre él."
+b) "El cuento habla de un papá minero. Después. La hija escribe con lápiz. Y el papá trabaja en la mina con sus manos. Y fin. Y después."
+c) "El cuento habla de un papá minero, pero la hija, sin embargo, después, al final, escribe con lápiz."
+d) "Papá minero lápiz hija."
+
+*Respuesta correcta: a.* Retroalimentación: mejorar la cohesión exige elegir un conector que muestre con precisión la relación entre las ideas.
 
 **5. (Alternativas)** ¿Por qué el uso de un emoji al final de la versión (b) corregida no representa un error de adecuación al género?
 
-a) Porque los emojis siempre deben evitarse en cualquier texto
+a) Porque los emojis siempre deben evitarse en cualquier texto escrito, aunque en las redes sociales se toleran
 b) Porque en una publicación de red social dirigida a estudiantes, el emoji es una convención de género válida y esperada por esa audiencia
-c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido
-d) Porque las redes sociales no tienen convenciones propias
+c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido en una publicación breve para estudiantes
+d) Porque las redes sociales no tienen convenciones propias, así que cualquier recurso resulta igualmente adecuado
 
 *Respuesta correcta: b.* Retroalimentación: adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en redes sociales dirigidas a jóvenes, el uso puntual de emojis es una convención aceptada que sería inadecuada, en cambio, en un ensayo escolar formal.
 
-**6. (Desarrollo breve — planificación)** Planifica brevemente un texto breve (oral, escrito o audiovisual) que comunique tu postura sobre el reportaje de los repartidores (OA N°3), definiendo: (a) propósito, (b) género, (c) audiencia y (d) al menos una convención que adecuarías a esa audiencia.
+**6. (Alternativas — planificación)** ¿Qué planificación de un texto sobre el reportaje de los repartidores es coherente en propósito, género, audiencia y convención?
 
-*Respuesta esperada*: cualquier planificación razonable y coherente entre sus cuatro elementos; por ejemplo, (a) argumentar que la regulación laboral de las plataformas de delivery es urgente, (b) columna de opinión escrita, (c) lectores adultos de un medio de actualidad, (d) uso de un registro formal y de datos verificables (como los citados en el reportaje) para dar credibilidad al argumento. Retroalimentación: planificar antes de escribir, definiendo con claridad el propósito, el género, la audiencia y sus convenciones, evita que el texto pierda coherencia o resulte inadecuado para quien lo va a leer o escuchar.
+a) Propósito: entretener a los lectores con anécdotas de reparto. Género: receta de cocina. Audiencia: niños de enseñanza básica. Convención: rimas y lenguaje infantil
+b) Propósito: ninguno en particular. Género: cualquiera que resulte cómodo. Audiencia: todos en general. Convención: escribir como se habla, sin datos ni registro formal de ningún tipo
+c) Escribir sin planificar
+d) Propósito: argumentar que urge regular el trabajo en plataformas. Género: columna de opinión. Audiencia: lectores adultos de un medio de actualidad. Convención: registro formal y datos verificables
 
-**7. (Desarrollo breve)** Explica por qué adecuar un texto a una audiencia distinta (por ejemplo, de un ensayo escolar a un post de red social) no significa necesariamente perder profundidad interpretativa.
+*Respuesta correcta: d.* Retroalimentación: definir propósito, género, audiencia y convenciones evita textos incoherentes o inadecuados.
 
-*Respuesta esperada*: ambas versiones del ejemplo (a y b) comunican el mismo hallazgo interpretativo central —el paralelismo entre las manos del padre y las de la hija—, aunque lo hagan con distinto registro, extensión y recursos (cita textual formal versus pregunta directa y emoji); lo que cambia es la forma de comunicar la idea, no necesariamente su profundidad, siempre que el autor o autora elija con cuidado qué información breve puede transmitir igualmente el núcleo de la interpretación. Retroalimentación: adecuar un texto a una audiencia distinta es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
+**7. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia (de un ensayo escolar a un post) no significa necesariamente perder profundidad?
 
-**8. (Análisis integrado — texto propio)** Escribe un párrafo breve (4 a 6 oraciones), coherente y cohesionado, dirigido a un profesor o profesora, que comunique tu propia interpretación de un texto leído (puede ser "Las manos de mi padre", el reportaje de los repartidores, o el hilo sobre la toma del Liceo 7), cuidando la progresión temática, la mantención del tema y el uso adecuado de al menos dos conectores.
+a) Porque los posts siempre son más profundos que los ensayos, ya que usan menos palabras para decir lo mismo
+b) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma (registro, extensión, recursos), no necesariamente la profundidad
+c) Porque adecuar un texto exige eliminar toda interpretación y dejar solo los datos del hallazgo, sin ninguna pérdida de profundidad original nuevo
+d) Porque la audiencia no importa
 
-*Respuesta esperada*: cualquier párrafo coherente que mantenga un mismo tema a lo largo de todas sus oraciones, agregue información nueva en cada una (progresión temática) y use al menos dos conectores de forma adecuada (por ejemplo, "en primer lugar... por lo tanto", o "sin embargo... en consecuencia"). Retroalimentación: producir un texto propio, coherente y cohesionado, y adecuado a una audiencia específica, es la culminación práctica de todo lo trabajado en este objetivo de aprendizaje.
+*Respuesta correcta: b.* Retroalimentación: adecuar es un ejercicio de selección y forma, no de simplificación forzosa.
+
+**8. (Alternativas — texto propio)** ¿Cuál de estos párrafos, dirigido a un profesor, es coherente, cohesionado y usa al menos dos conectores?
+
+a) "El cuento. Las manos. El padre. La mina."
+b) "Me gustó el cuento, también me gustan los perros y el verano. Además, el cuento tiene un padre minero. Por lo tanto, también me gusta la playa y, en segundo lugar, el colegio. Luego, el cuento termina con lápiz y eso me parece bonito."
+c) "En primer lugar, el cuento muestra las manos del padre marcadas por la mina. Luego, presenta las manos de la hija dedicadas a la escritura. Por lo tanto, el relato sugiere que el sacrificio paterno se transformó en la posibilidad de contar su historia."
+d) "Por lo tanto, en primer lugar, sin embargo, luego."
+
+*Respuesta correcta: c.* Retroalimentación: se espera mantener el tema, hacer progresar la información y usar conectores adecuados.
 
 **9. (Verdadero o Falso)** El proceso de escritura en 3° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior.
 
@@ -508,10 +653,10 @@ d) Porque las redes sociales no tienen convenciones propias
 
 **10. (Alternativas)** ¿Cuál de las siguientes diferencias entre la versión (a) y la versión (b) corresponde a una diferencia de género discursivo, y no solo de extensión?
 
-a) La versión (a) tiene más oraciones que la versión (b)
+a) La versión (a) tiene más oraciones y párrafos que la versión (b), y por eso pertenece a un género distinto, aunque ambas usan cita textual y una pregunta directa final de cada una
 b) La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa una pregunta directa y un registro cercano propio de una publicación de red social
 c) Ambas versiones usan exactamente los mismos conectores
-d) La versión (b) no tiene ningún propósito comunicativo definido
+d) La versión (b) no tiene ningún propósito comunicativo definido, mientras que la versión (a) sí lo tiene, aunque ambas usan el mismo registro y la misma estructura
 
 *Respuesta correcta: b.* Retroalimentación: cada género discursivo trae consigo convenciones propias (estructura, registro, recursos); la diferencia entre ambas versiones no es solo de tamaño, sino del conjunto de convenciones esperadas por cada audiencia.
 
@@ -519,21 +664,41 @@ d) La versión (b) no tiene ningún propósito comunicativo definido
 
 *Respuesta correcta: Falso.* Retroalimentación: esa oración interrumpe la progresión temática, al igual que la mención de que "Chuquicamata es una ciudad del norte"; ambas aportan datos que no se conectan directamente con el argumento central sobre el paralelismo de las manos.
 
-**12. (Desarrollo breve)** Explica en qué consiste la etapa de revisión dentro del proceso de escritura, y qué aspectos concretos del texto se deberían evaluar en esa etapa.
+**12. (Varias correctas)** ¿Qué se evalúa en la etapa de revisión del proceso de escritura? Marca **todas** las correctas.
 
-*Respuesta esperada*: la revisión es la etapa del proceso de escritura en la que se relee el texto ya escrito para evaluar su coherencia (si las ideas se organizan lógicamente en torno a un tema central), su cohesión (si los conectores muestran adecuadamente la relación entre las ideas) y su adecuación al género y a la audiencia (si el registro, la extensión y los recursos usados son los esperados por quien va a leer o escuchar el texto); en esta etapa se corrigen errores como los de la versión (b) original. Retroalimentación: la revisión no es un paso opcional ni solo ortográfico: es el momento en que se evalúan explícitamente coherencia, cohesión y adecuación antes de considerar terminado un texto.
+a) La coherencia: si las ideas se organizan en torno a un tema central
+b) La cohesión: si los conectores muestran la relación entre ideas
+c) La adecuación al género y a la audiencia
+d) Solo el color de la tinta
 
-**13. (Aplicación)** Planifica un texto audiovisual breve (por ejemplo, un video corto para redes sociales) que comunique una postura sobre las problemáticas éticas del hilo de la toma del Liceo 7 (trabajado en el OA N°4), definiendo: (a) propósito, (b) género, (c) audiencia y (d) al menos una convención que adecuarías a esa audiencia.
+*Respuesta correcta: a, b y c.* Retroalimentación: la revisión no es opcional ni solo ortográfica: evalúa coherencia, cohesión y adecuación.
 
-*Respuesta esperada*: cualquier planificación coherente entre sus cuatro elementos; por ejemplo, (a) argumentar que difundir rumores sobre la identidad de una compañera es dañino aunque el tema de fondo sea legítimo, (b) video corto tipo "reels" con voz en off, (c) otros estudiantes de enseñanza media activos en redes sociales, (d) uso de un lenguaje directo, ejemplos concretos del hilo y una duración breve (menos de un minuto) adecuada a los hábitos de consumo de esa audiencia. Retroalimentación: planificar un texto audiovisual exige las mismas decisiones que un texto escrito (propósito, género, audiencia, convenciones), adaptadas a un soporte que además considera imagen, sonido y tiempo de duración.
+**13. (Alternativas — Aplicación)** ¿Qué planificación de un video corto sobre las problemáticas éticas del hilo de la toma es coherente?
 
-**14. (Desarrollo breve)** Explica la diferencia entre coherencia y cohesión, y ejemplifica cada una usando la versión (a) del párrafo analítico sobre "Las manos de mi padre".
+a) Propósito: argumentar que difundir rumores sobre una compañera es dañino. Género: video tipo reels con voz en off. Audiencia: estudiantes de media en redes. Convención: lenguaje directo, ejemplos del hilo y menos de un minuto
+b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma. Género: ensayo académico de cinco páginas. Audiencia: abogados y jueces. Convención: lenguaje técnico y citas legales
+c) Propósito: difundir el rumor sobre quién organizó la toma para que todos lo sepan. Género: chiste breve. Audiencia: estudiantes del liceo. Convención: nombres y fotos de los involucrados en la toma del liceo
+d) Grabar sin planificar
 
-*Respuesta esperada*: la coherencia es que las ideas del párrafo se organicen lógicamente en torno a un mismo tema central (el paralelismo entre las manos del padre y las de la hija), sin desviarse hacia contenidos no anunciados; la cohesión es el uso de recursos lingüísticos —como los conectores "en primer lugar", "luego" y "por lo tanto"— que muestran explícitamente cómo se relacionan esas ideas entre sí. Un texto puede tener ideas coherentes pero mal conectadas (poco cohesionado), o estar muy cohesionado con conectores pero incoherente en su contenido. Retroalimentación: coherencia y cohesión son propiedades relacionadas pero distintas: una es sobre la organización lógica del contenido, y la otra sobre los recursos lingüísticos que hacen visible esa organización.
+*Respuesta correcta: a.* Retroalimentación: un texto audiovisual exige las mismas decisiones, adaptadas a imagen, sonido y duración.
 
-**15. (Análisis integrado)** Lee el siguiente fragmento y corrígelo para mejorar su cohesión, agregando al menos dos conectores adecuados: "Los repartidores de delivery trabajan muchas horas. Las empresas dicen que hay flexibilidad. Ronald sube dieciocho pisos a pie. El sueldo mínimo casi no alcanza."
+**14. (Alternativas)** ¿Cuál es la diferencia entre coherencia y cohesión?
 
-*Respuesta esperada*: cualquier reescritura que use al menos dos conectores adecuados para mostrar las relaciones lógicas entre las ideas; por ejemplo: "Los repartidores de delivery trabajan muchas horas y, sin embargo, las empresas insisten en que existe flexibilidad horaria. En la práctica, esta flexibilidad es relativa: Ronald, por ejemplo, debe subir dieciocho pisos a pie cuando el ascensor no funciona, y su ingreso, descontando gastos, casi no supera el sueldo mínimo." Retroalimentación: corregir la cohesión de un texto no significa solo agregar conectores al azar, sino elegir aquellos que expresen con precisión la relación (contraste, ejemplificación, consecuencia) entre las ideas yuxtapuestas.
+a) Son exactamente lo mismo: ambas se refieren a que un texto tenga buena ortografía y use bien los signos de puntuación
+b) La coherencia son los conectores y otros recursos lingüísticos visibles en el texto; la cohesión es la organización lógica de las ideas en torno a un mismo tema
+c) Ninguna de las dos importa en un texto breve, porque lo único relevante es que las ideas sean interesantes para el lector
+d) La coherencia es la organización lógica de las ideas en torno a un tema; la cohesión, los recursos lingüísticos (como los conectores) que hacen visible esa organización
+
+*Respuesta correcta: d.* Retroalimentación: un texto puede ser coherente pero poco cohesionado, o al revés.
+
+**15. (Alternativas — análisis integrado)** ¿Cuál es la mejor corrección de "Los repartidores trabajan muchas horas. Las empresas dicen que hay flexibilidad. Ronald sube dieciocho pisos a pie. El sueldo mínimo casi no alcanza."?
+
+a) "Los repartidores, y, pero, sin embargo, trabajan muchas horas. Las empresas dicen, además, flexibilidad. Ronald, por ejemplo, sube. El sueldo mínimo, en la práctica, casi no alcanza, sin embargo. Fin."
+b) "Los repartidores trabajan muchas horas y, sin embargo, las empresas insisten en que hay flexibilidad. En la práctica, esta es relativa: Ronald, por ejemplo, sube dieciocho pisos a pie y su ingreso casi no supera el mínimo."
+c) "Los repartidores trabajan. Además. Las empresas dicen que hay flexibilidad. Además. Ronald sube dieciocho pisos a pie. Además. El sueldo mínimo casi no alcanza. Además, en la práctica."
+d) "Ronald sube pisos."
+
+*Respuesta correcta: b.* Retroalimentación: se eligen conectores que expresen la relación precisa (contraste, ejemplificación, consecuencia).
 
 ---
 

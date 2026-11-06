@@ -38,10 +38,10 @@ ultima_actualizacion: 2026-10-28
 En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 6 cm y la hipotenusa mide
 10 cm. ¿Cuál es sen θ?
 
-a) 0,6
+a) 0,167
 b) 0,4
-c) 1,67
-d) 0,167
+c) 0,6
+d) 1,67
 
 **Pregunta 2.** (Verdadero o falso)
 La tangente de un ángulo se calcula como el cateto opuesto dividido por la hipotenusa.
@@ -50,37 +50,57 @@ La tangente de un ángulo se calcula como el cateto opuesto dividido por la hipo
 Un triángulo rectángulo tiene un ángulo de 45° y cateto adyacente de 8 cm. Calcula el
 cateto opuesto.
 
-a) 8 cm
+a) 4 cm
 b) 5,66 cm
-c) 11,3 cm
-d) 4 cm
+c) 8 cm
+d) 11,3 cm
 
-**Pregunta 4.** (Desarrollo)
-En un triángulo rectángulo, la hipotenusa mide 15 cm y uno de sus ángulos agudos mide
-50°. Calcula el cateto opuesto a ese ángulo.
+**Pregunta 4.** (Alternativas — cateto opuesto)
+En un triángulo rectángulo, la hipotenusa mide 15 cm y un ángulo agudo mide 50°. ¿Cuánto mide el cateto opuesto a ese ángulo?
 
-**Pregunta 5.** (Desarrollo)
-En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 7 cm y el cateto
-adyacente mide 24 cm. Calcula θ usando la función tangente inversa.
+a) ≈ 9,64 cm
+b) ≈ 11,49 cm
+c) ≈ 17,88 cm
+d) ≈ 19,58 cm
 
-**Pregunta 6.**
-Un triángulo rectángulo tiene hipotenusa c=13 cm y catetos a=5 cm y b=12 cm. Calcula
-cos θ, donde θ es el ángulo opuesto al cateto de 5 cm.
+**Pregunta 5.** (Alternativas — encontrar un ángulo)
+El cateto opuesto a θ mide 7 cm y el adyacente 24 cm. ¿Cuánto mide θ?
 
-**Pregunta 7.** (Problema en contexto)
-Una rampa de acceso para sillas de ruedas debe tener un ángulo de inclinación de 6°
-respecto al suelo. Si la rampa debe salvar una altura de 0,9 m, ¿cuál es la longitud
-mínima aproximada que debe tener la rampa (la hipotenusa)?
+a) ≈ 73,74°
+b) ≈ 0,29°
+c) ≈ 16,96°
+d) ≈ 16,26°
 
-**Pregunta 8.** (Problema en contexto)
-Desde la terraza de un edificio de 40 m de altura, un observador ve un auto estacionado
-en la calle con un ángulo de depresión de 25°. ¿A qué distancia horizontal se encuentra
-el auto de la base del edificio?
+**6. (Alternativas — leer datos)** Un triángulo rectángulo tiene hipotenusa 13 cm y catetos 5 y 12 cm. Si θ es opuesto al cateto de 5 cm, ¿cuánto vale cos θ?
 
-**Pregunta 9.** (Problema no rutinario)
-Resuelve completamente un triángulo rectángulo donde un cateto mide 9 cm y el ángulo
-opuesto a ese cateto es 40°: determina la hipotenusa, el otro cateto, y el otro ángulo
-agudo.
+a) 5/13 ≈ 0,385
+b) 12/13 ≈ 0,923
+c) 5/12 ≈ 0,417
+d) 13/12 ≈ 1,083
+
+**Pregunta 7.** (Alternativas — rampa de acceso)
+Una rampa debe tener 6° de inclinación y salvar una altura de 0,9 m. ¿Cuál es su longitud mínima aproximada?
+
+a) ≈ 0,09 m
+b) ≈ 8,56 m
+c) ≈ 8,61 m
+d) ≈ 0,91 m
+
+**Pregunta 8.** (Alternativas — ángulo de depresión)
+Desde un edificio de 40 m, un auto se ve con un ángulo de depresión de 25°. ¿A qué distancia horizontal está de la base?
+
+a) ≈ 85,79 m
+b) ≈ 18,65 m
+c) ≈ 94,65 m
+d) ≈ 36,25 m
+
+**Pregunta 9.** (Alternativas — resolver un triángulo)
+Un cateto mide 9 cm y el ángulo opuesto es 40°. ¿Cuánto miden la hipotenusa, el otro cateto y el otro ángulo agudo?
+
+a) ≈ 11,7 cm; ≈ 7,5 cm; 50°
+b) ≈ 14,0 cm; ≈ 9 cm; 40°
+c) ≈ 5,8 cm; ≈ 10,72 cm; 140°
+d) ≈ 14,0 cm; ≈ 10,72 cm; 50°
 
 **Pregunta 10.**
 En un triángulo rectángulo, el cateto adyacente a un ángulo θ mide 8 cm y la hipotenusa
@@ -92,38 +112,45 @@ c) 1,88
 d) 2,13
 
 **Pregunta 11.** (Verdadero o falso)
-sen(60°) es mayor que cos(60°). Justifica sin usar calculadora, pensando en cómo cambian
-seno y coseno entre 0° y 90°.
+sen(60°) es mayor que cos(60°).
 
-**Pregunta 12.** (Desarrollo)
-En un triángulo rectángulo, la hipotenusa mide 20 cm y uno de sus ángulos agudos mide
-28°. Calcula el cateto adyacente a ese ángulo.
+a) Verdadero
+b) Falso
 
-**Pregunta 13.** (Problema en contexto)
-Desde un dron ubicado a 120 m de distancia horizontal de la base de una torre de
-observación, se mide un ángulo de elevación de 18° hasta la cima. Calcula la altura
-aproximada de la torre.
+**Pregunta 12.** (Alternativas)
+En un triángulo rectángulo, la hipotenusa mide 20 cm y un ángulo agudo mide 28°. ¿Cuánto mide el cateto adyacente a ese ángulo?
+
+a) ≈ 9,39 cm
+b) ≈ 17,66 cm
+c) ≈ 22,65 cm
+d) ≈ 10,63 cm
+
+**Pregunta 13.** (Alternativas)
+Un dron a 120 m de distancia horizontal de la base de una torre mide un ángulo de elevación de 18° hasta la cima. ¿Cuál es la altura aproximada de la torre?
+
+a) ≈ 37,1 m
+b) ≈ 369,3 m
+c) ≈ 39,0 m
+d) ≈ 114,1 m
 
 ---
 
 ## Pauta de corrección
 
-1. a) 0,6. sen θ = cateto opuesto ÷ hipotenusa = 6/10 = 0,6.
+1. c) 0,6. sen θ = cateto opuesto ÷ hipotenusa = 6/10 = 0,6.
 2. Falso — la tangente es el cateto opuesto dividido por el cateto **adyacente**; la
    razón que divide por la hipotenusa es el seno (si es el opuesto) o el coseno (si es el
    adyacente).
-3. a) 8 cm. tan(45°)=1, y cateto opuesto = cateto adyacente × tan(45°) = 8×1 = 8 cm.
-4. cateto opuesto = 15 × sen(50°) ≈ 15 × 0,766 ≈ **11,49 cm**.
-5. tan θ = 7/24 ≈ 0,2917; θ = tan⁻¹(0,2917) ≈ **16,26°**.
-6. Si θ es opuesto al cateto de 5 cm, entonces el cateto adyacente a θ es 12 cm.
-   cos θ = 12/13 ≈ **0,923**.
-7. sen(6°) = 0,9 ÷ L → L = 0,9 ÷ sen(6°) ≈ 0,9 ÷ 0,1045 ≈ **8,61 m**.
-8. tan(25°) = 40 ÷ d → d = 40 ÷ tan(25°) ≈ 40 ÷ 0,4663 ≈ **85,79 m**.
-9. Hipotenusa: sen(40°)=9/hip → hip = 9÷sen(40°) ≈ 9÷0,643 ≈ **14,0 cm**. Otro cateto:
-   hip×cos(40°) ≈ 14,0×0,766 ≈ **10,72 cm**. Otro ángulo agudo: 90°−40° = **50°**.
+3. c) 8 cm. tan(45°)=1, y cateto opuesto = cateto adyacente × tan(45°) = 8×1 = 8 cm.
+4. b) ≈ 11,49 cm. Cateto opuesto = 15 · sen(50°) ≈ 15 · 0,766; 9,64 cm usaría el coseno.
+5. d) ≈ 16,26°. Tan θ = 7/24 ≈ 0,2917 y θ = tan⁻¹(0,2917); 73,74° es el otro ángulo agudo.
+6. b) 12/13 ≈ 0,923. El cateto adyacente a θ es el de 12 cm: cos θ = adyacente/hipotenusa.
+7. c) ≈ 8,61 m. Sen(6°) = 0,9/L → L = 0,9/0,1045 ≈ 8,61 m; 8,56 m sería la distancia horizontal (tangente).
+8. a) ≈ 85,79 m. Tan(25°) = 40/d → d = 40/0,4663.
+9. d) ≈ 14,0 cm; ≈ 10,72 cm; 50°. Hip = 9/sen(40°) ≈ 14,0; otro cateto = hip · cos(40°) ≈ 10,72; otro ángulo: 90° − 40°.
 10. a) 0,47. cos θ = cateto adyacente ÷ hipotenusa = 8/17 ≈ 0,47.
 11. Verdadero — entre 0° y 90°, el seno crece de 0 a 1 y el coseno decrece de 1 a 0; en
     60° el seno ya superó al coseno (sen60°≈0,866, cos60°=0,5), porque el punto de
     cruce (donde son iguales) ocurre en 45°.
-12. cateto adyacente = 20 × cos(28°) ≈ 20 × 0,883 ≈ **17,66 cm**.
-13. altura = 120 × tan(18°) ≈ 120 × 0,3249 ≈ **39,0 m**.
+12. b) ≈ 17,66 cm. cateto adyacente = 20 · cos(28°) ≈ 20 · 0,883; 9,39 cm usaría el seno.
+13. c) ≈ 39,0 m. altura = 120 · tan(18°) ≈ 120 · 0,3249; 37,1 m usaría el seno y 369,3 m dividiría por la tangente.

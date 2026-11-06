@@ -138,12 +138,12 @@ transporte que circulan por ellos (carros tirados por animales versus vehículos
 
 **1. (Alternativas)** ¿Qué era el ágora en una ciudad griega?
 
-a) Un tipo de vestimenta
-b) La plaza pública donde la gente se reunía a comerciar y conversar
-c) Un alimento típico
-d) Un tipo de barco
+a) Un tipo de vestimenta larga que usaban los ciudadanos en las fiestas
+b) Un tipo de barco que usaban los griegos para comerciar por el mar
+c) Un alimento típico hecho de trigo y aceite de oliva
+d) La plaza pública donde la gente se reunía a comerciar y conversar
 
-✅ Respuesta correcta: **b) La plaza pública donde la gente se reunía a comerciar y
+✅ Respuesta correcta: **d) La plaza pública donde la gente se reunía a comerciar y
 conversar**
 💬 *Retroalimentación:* ¡Correcto! El ágora era el corazón social de la polis griega, un
 espacio parecido a una plaza pública actual.
@@ -159,15 +159,14 @@ propios del clima mediterráneo, como el olivo y la vid.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada prenda de vestir con la civilización que la usaba:
+**3. (Alternativas — unir)** ¿Qué prenda de vestir usaban los habitantes de la **antigua Roma**?
+a) La toga
+b) El quitón
+c) El poncho
+d) El kimono
 
-1) Quitón — 2) Toga
-
-a) Antigua Grecia — b) Antigua Roma
-
-✅ Respuesta correcta: 1-a, 2-b
-💬 *Retroalimentación:* ¡Excelente! El quitón era la vestimenta típica griega, y la toga la
-vestimenta típica romana.
+✅ Respuesta correcta: **a) La toga**
+💬 *Retroalimentación:* ¡Excelente! La toga era la vestimenta típica romana, y el quitón la vestimenta típica griega.
 
 ---
 
@@ -175,37 +174,41 @@ vestimenta típica romana.
 los ciudadanos podían votar las leyes?
 
 a) La monarquía absoluta
-b) La democracia
+b) El imperio
 c) La esclavitud
-d) El imperio
+d) La democracia
 
-✅ Respuesta correcta: **b) La democracia**
+✅ Respuesta correcta: **d) La democracia**
 💬 *Retroalimentación:* ¡Correcto! En Atenas nació la democracia, aunque en esa época solo
 podían votar los hombres libres, a diferencia de las democracias actuales.
 
 ---
 
-**5. (Desarrollo breve)** Elige una necesidad humana (vivienda, alimentación, vestimenta,
-transporte o comunicación) y explica con tus palabras una diferencia entre cómo la resolvían
-los griegos o romanos y cómo la resolvemos hoy.
+**5. (Alternativas)** ¿Qué comparación entre cómo se resolvía una necesidad en Grecia o Roma y cómo la resolvemos hoy es **correcta**?
+a) Comunicación: antes se usaba internet; hoy se usan mensajeros a caballo
+b) Vivienda: antes vivían en rascacielos de vidrio; hoy viven en cuevas de piedra
+c) Alimentación: antes no comían pan ni aceite; hoy sí comemos esos alimentos
+d) Transporte: antes se caminaba o se viajaba en barco; hoy también se viaja en auto o avión
 
-💬 *Pauta de retroalimentación:* Se espera que el estudiante mencione una necesidad concreta
-y compare correctamente una solución antigua (por ejemplo, caminar o viajar en barco) con una
-solución actual (por ejemplo, viajar en auto o avión).
+✅ Respuesta correcta: **d) Transporte: antes se caminaba o se viajaba en barco; hoy también se viaja en auto o avión**
+💬 *Retroalimentación:* ¡Muy bien! Para comparar hay que elegir una necesidad (vivienda, alimentación, vestimenta, transporte o comunicación) y contrastar correctamente una solución antigua con una actual. Las otras opciones invierten el orden o son falsas.
 
 ---
 
-**6. (Relacionar / emparejar — desafiante)** Une cada elemento de la Antigüedad con su
-equivalente actual, según la necesidad que cumple:
+**6. (Alternativas — unir, desafiante)** Une cada elemento de la Antigüedad con su equivalente actual, según la necesidad que cumple:
 
 1) Mensajero a caballo — 2) Camino empedrado romano — 3) Ágora griega
 
-a) Plaza pública actual — b) Carretera asfaltada — c) Teléfono o internet
+Equivalentes: (A) Plaza pública actual — (B) Carretera asfaltada — (C) Teléfono o internet
 
-✅ Respuesta correcta: 1-c, 2-b, 3-a
-💬 *Retroalimentación:* ¡Muy bien! Aunque cambien los medios y la tecnología, muchas
-necesidades humanas —comunicarse, transportarse, reunirse— se mantienen a lo largo del
-tiempo.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-B, 3-A
+d) 1-C, 2-A, 3-B
+
+✅ Respuesta correcta: **c) 1-C, 2-B, 3-A**
+💬 *Retroalimentación:* ¡Muy bien! Aunque cambien los medios y la tecnología, muchas necesidades humanas —comunicarse, transportarse, reunirse— se mantienen a lo largo del tiempo.
 
 ---
 
@@ -213,13 +216,13 @@ tiempo.
 esclavitud, es decir, personas obligadas a trabajar sin libertad. ¿Qué podemos afirmar sobre
 esto desde la mirada actual?
 
-a) Que era una práctica correcta porque era común en esa época
-b) Que hoy la esclavitud está prohibida y se considera una grave violación a los derechos
+a) Que era una práctica correcta porque era común en esa época, y por eso no debemos juzgarla ni compararla con la actualidad
+b) Que solo existió en Grecia y nunca en Roma, porque los romanos tenían leyes que prohibían obligar a las personas a trabajar
+c) Que la esclavitud nunca existió realmente, y que esas personas eran trabajadores que recibían un sueldo como hoy en día
+d) Que hoy la esclavitud está prohibida y se considera una grave violación a los derechos
 humanos, aunque en esa época fuera aceptada por la sociedad
-c) Que la esclavitud nunca existió realmente
-d) Que solo existió en Grecia, nunca en Roma
 
-✅ Respuesta correcta: **b) Que hoy la esclavitud está prohibida y se considera una grave
+✅ Respuesta correcta: **d) Que hoy la esclavitud está prohibida y se considera una grave
 violación a los derechos humanos, aunque en esa época fuera aceptada por la sociedad**
 💬 *Retroalimentación:* ¡Correcto! Estudiar el pasado nos permite entender cómo pensaban las
 personas de esa época, aunque hoy sepamos que algunas de esas prácticas eran profundamente
@@ -308,11 +311,11 @@ conciertos) y los materiales de construcción.
 **1. (Alternativas)** ¿Qué oficio se dedicaba a fabricar vasijas de greda en la Antigüedad?
 
 a) Filósofo
-b) Alfarero
-c) Senador
+b) Senador
+c) Alfarero
 d) Emperador
 
-✅ Respuesta correcta: **b) Alfarero**
+✅ Respuesta correcta: **c) Alfarero**
 💬 *Retroalimentación:* ¡Correcto! El alfarero moldeaba y decoraba objetos de greda, un oficio
 que todavía existe hoy en muchos lugares, incluyendo Chile.
 
@@ -327,18 +330,13 @@ romanos adoraban a distintos dioses, cada uno relacionado con un aspecto de la v
 
 ---
 
-**3. (Relacionar / emparejar)** Clasifica cada elemento según si **se mantiene** o **ha
-cambiado** desde la Antigüedad hasta hoy:
+**3. (Alternativas — clasificar)** ¿Cuál de estos elementos **se mantiene** desde la Antigüedad hasta hoy?
+a) Los Juegos Olímpicos como competencia
+b) Que solo los hombres puedan votar
+c) La existencia legal de la esclavitud
 
-1) Los Juegos Olímpicos como competencia — 2) Que solo los hombres puedan votar — 3) La
-existencia legal de la esclavitud
-
-a) Se mantiene — b) Ha cambiado
-
-✅ Respuesta correcta: 1-a, 2-b, 3-b
-💬 *Retroalimentación:* ¡Muy bien! Los Juegos Olímpicos siguen existiendo como tradición,
-mientras que el derecho a voto y la prohibición de la esclavitud son grandes cambios respecto
-a la Antigüedad.
+✅ Respuesta correcta: **a) Los Juegos Olímpicos como competencia**
+💬 *Retroalimentación:* ¡Muy bien! Los Juegos Olímpicos siguen existiendo como tradición, mientras que el derecho a voto de las mujeres y la prohibición de la esclavitud son grandes cambios respecto a la Antigüedad.
 
 ---
 
@@ -346,35 +344,35 @@ a la Antigüedad.
 hasta las ciudades?
 
 a) El anfiteatro
-b) El acueducto
+b) La toga
 c) El ágora
-d) La toga
+d) El acueducto
 
-✅ Respuesta correcta: **b) El acueducto**
+✅ Respuesta correcta: **d) El acueducto**
 💬 *Retroalimentación:* ¡Correcto! Los acueductos eran obras de ingeniería impresionantes que
 permitían llevar agua a las ciudades romanas desde fuentes lejanas.
 
 ---
 
-**5. (Desarrollo breve)** Nombra un oficio que existía en la antigua Grecia o Roma y que se
-sigue realizando en la actualidad, y explica en qué se parece y en qué es distinto.
+**5. (Varias correctas)** ¿Cuáles de estos oficios existían en la antigua Grecia o Roma y se siguen realizando hoy? Marca **todas** las correctas.
+a) Agricultor
+b) Comerciante
+c) Programador de computadores
+d) Herrero
 
-💬 *Pauta de retroalimentación:* Cualquier oficio real (agricultor, comerciante, herrero,
-tejedor, entre otros) con una comparación coherente entre el pasado y el presente es una
-buena respuesta.
+✅ Respuesta correcta: **a, b y d**
+💬 *Retroalimentación:* ¡Muy bien! Agricultores, comerciantes, herreros y tejedores existían en la Antigüedad y siguen existiendo, aunque hoy usen otras herramientas y tecnologías. El programador de computadores es un oficio moderno.
 
 ---
 
-**6. (Análisis de imagen — desafiante)** Se muestra una fotografía de una ciudad antigua con
-templos de columnas, un ágora y calles de piedra sin autos, junto a una fotografía de una
-ciudad chilena actual con edificios altos, semáforos y autos. ¿Qué característica de las
-ciudades se mantiene en ambas imágenes, a pesar de los siglos que las separan?
+**6. (Alternativas — análisis de imagen, desafiante)** Se muestra una fotografía de una ciudad antigua con templos de columnas, un ágora y calles de piedra sin autos, junto a una fotografía de una ciudad chilena actual con edificios altos, semáforos y autos. ¿Qué característica de las ciudades se mantiene en ambas imágenes?
+a) En ambas hay semáforos y autos que circulan por calles de piedra organizadas para que vivan muchas personas
+b) En ambas los edificios son de vidrio y muy altos, con ascensores, para que vivan muchas personas juntas en poco espacio
+c) En ambas hay espacios públicos donde las personas se reúnen y están organizadas para que vivan y circulen muchas personas
+d) En ambas las calles están llenas de autos y de buses, y no hay lugares para reunirse
 
-✅ Respuesta correcta: En ambas hay espacios públicos donde las personas se reúnen (como el
-ágora antigua y una plaza actual), y ambas están organizadas para que vivan y circulen muchas
-personas.
-💬 *Retroalimentación:* ¡Excelente! Aunque cambien los materiales y la tecnología, la función
-de una ciudad como lugar de encuentro y organización social se mantiene a través del tiempo.
+✅ Respuesta correcta: **c) En ambas hay espacios públicos donde las personas se reúnen y están organizadas para que vivan y circulen muchas personas**
+💬 *Retroalimentación:* ¡Excelente! Como el ágora antigua y la plaza actual, la función de una ciudad como lugar de encuentro y organización social se mantiene a través del tiempo, aunque cambien los materiales y la tecnología.
 
 ---
 
@@ -382,13 +380,13 @@ de una ciudad como lugar de encuentro y organización social se mantiene a trav�
 votar las leyes; las mujeres, las personas esclavizadas y los extranjeros no tenían ese
 derecho. ¿Qué podemos concluir al comparar esto con una democracia actual como la chilena?
 
-a) Que la democracia no ha cambiado en nada desde la Antigüedad
-b) Que hoy las democracias, como la chilena, reconocen el derecho a voto de hombres y mujeres
+a) Que la democracia no ha cambiado en nada desde la Antigüedad, porque en Chile también hay grupos de adultos que no pueden votar por ley
+b) Que en Chile actualmente solo pueden votar los hombres ciudadanos, igual que en Atenas, y que las mujeres esperan obtener ese derecho
+c) Que hoy las democracias, como la chilena, reconocen el derecho a voto de hombres y mujeres
 adultos, ampliando mucho más la participación que en la antigua Atenas
-c) Que en Chile actualmente solo pueden votar los hombres
-d) Que la democracia ateniense era exactamente igual a la actual
+d) Que la democracia ateniense era exactamente igual a la actual, porque en ambas todas las personas que viven en el país votan las leyes
 
-✅ Respuesta correcta: **b) Que hoy las democracias, como la chilena, reconocen el derecho a
+✅ Respuesta correcta: **c) Que hoy las democracias, como la chilena, reconocen el derecho a
 voto de hombres y mujeres adultos, ampliando mucho más la participación que en la antigua
 Atenas**
 💬 *Retroalimentación:* ¡Correcto! La idea de democracia nació en Atenas, pero ha cambiado y
@@ -472,9 +470,9 @@ frío.
 **1. (Alternativas)** ¿Qué es la línea del Ecuador?
 
 a) Una línea imaginaria que divide la Tierra en dos hemisferios iguales
-b) Un país de América del Sur
-c) Una cordillera de montañas
-d) Un océano
+b) Un país de América del Sur cuya capital es Quito
+c) Una cordillera de montañas que cruza América del Sur de norte a sur
+d) Un océano que separa América de África y de Europa
 
 ✅ Respuesta correcta: **a) Una línea imaginaria que divide la Tierra en dos hemisferios
 iguales**
@@ -505,46 +503,53 @@ Oceanía y la Antártica.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada elemento con su ubicación aproximada respecto a la
-línea del Ecuador:
+**4. (Alternativas — unir)** Une cada elemento con su ubicación aproximada respecto a la línea del Ecuador:
 
 1) Trópico de Capricornio — 2) Polo Norte — 3) Trópico de Cáncer
 
-a) En el hemisferio norte, cerca del Ecuador — b) En el extremo superior del planeta — c) En
-el hemisferio sur, cerca del Ecuador
+Ubicaciones: (A) En el hemisferio norte, cerca del Ecuador — (B) En el extremo superior del planeta — (C) En el hemisferio sur, cerca del Ecuador
 
-✅ Respuesta correcta: 1-c, 2-b, 3-a
-💬 *Retroalimentación:* ¡Excelente! Los trópicos están cerca de la línea del Ecuador, uno en
-cada hemisferio, mientras que los polos están en los extremos del planeta.
+¿Qué combinación es correcta?
+a) 1-C, 2-B, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-A, 3-C
+d) 1-C, 2-A, 3-B
 
----
-
-**5. (Análisis de mapa)** En un mapamundi se señala con una letra A un océano que baña la
-costa oeste de Chile. ¿Qué océano corresponde a la letra A?
-
-✅ Respuesta correcta: El océano Pacífico.
-💬 *Retroalimentación:* ¡Correcto! El océano Pacífico bordea todo el territorio chileno por el
-oeste, desde el norte hasta el extremo sur.
+✅ Respuesta correcta: **a) 1-C, 2-B, 3-A**
+💬 *Retroalimentación:* ¡Excelente! Los trópicos están cerca de la línea del Ecuador, uno en cada hemisferio (Capricornio en el sur, Cáncer en el norte), mientras que los polos están en los extremos del planeta.
 
 ---
 
-**6. (Desarrollo breve)** Explica con tus palabras la diferencia entre un continente y un
-océano, dando un ejemplo de cada uno.
+**5. (Alternativas — análisis de mapa)** En un mapamundi se señala con una letra A un océano que baña la costa oeste de Chile. ¿Qué océano corresponde a la letra A?
+a) El océano Atlántico
+b) El océano Índico
+c) El océano Glacial Ártico
+d) El océano Pacífico
 
-💬 *Pauta de retroalimentación:* Se espera que el estudiante reconozca que un continente es
-una gran masa de tierra (por ejemplo, América) y un océano es una gran masa de agua salada
-(por ejemplo, el Pacífico).
+✅ Respuesta correcta: **d) El océano Pacífico**
+💬 *Retroalimentación:* ¡Correcto! El océano Pacífico bordea todo el territorio chileno por el oeste, desde el norte hasta el extremo sur.
 
 ---
 
-**7. (Ordenar secuencia — desafiante)** Ordena estos elementos según su cercanía a la línea
-del Ecuador, comenzando por el más cercano: ___ Polo Sur — ___ Trópico de Capricornio — ___
-Círculo Polar Antártico
+**6. (Alternativas)** ¿Qué afirmación explica bien la diferencia entre un continente y un océano?
+a) Un continente es una gran masa de tierra (por ejemplo, América) y un océano es una gran masa de agua salada (por ejemplo, el Pacífico)
+b) Un continente es una gran masa de agua salada (por ejemplo, el Pacífico) y un océano es una gran masa de tierra (por ejemplo, América)
+c) Un continente es un país grande (por ejemplo, Chile) y un océano es un lago muy grande (por ejemplo, el lago Llanquihue)
+d) Son lo mismo con distinto nombre: ambos son grandes extensiones del planeta que se ven en un mapa
 
-✅ Respuesta correcta: 1) Trópico de Capricornio, 2) Círculo Polar Antártico, 3) Polo Sur
-💬 *Retroalimentación:* ¡Muy bien! Mientras más nos alejamos de la línea del Ecuador hacia el
-sur, pasamos primero por el trópico, luego por el círculo polar, y finalmente llegamos al
-polo.
+✅ Respuesta correcta: **a) Un continente es una gran masa de tierra (por ejemplo, América) y un océano es una gran masa de agua salada (por ejemplo, el Pacífico)**
+💬 *Retroalimentación:* ¡Muy bien! América, Europa o África son continentes; el Pacífico, el Atlántico o el Índico son océanos.
+
+---
+
+**7. (Alternativas — ordenar secuencia, desafiante)** ¿Cuál es el orden de estos elementos según su cercanía a la línea del Ecuador, comenzando por el más cercano?
+a) Polo Sur → Círculo Polar Antártico → Trópico de Capricornio
+b) Círculo Polar Antártico → Trópico de Capricornio → Polo Sur
+c) Trópico de Capricornio → Círculo Polar Antártico → Polo Sur
+d) Trópico de Capricornio → Polo Sur → Círculo Polar Antártico
+
+✅ Respuesta correcta: **c) Trópico de Capricornio → Círculo Polar Antártico → Polo Sur**
+💬 *Retroalimentación:* ¡Muy bien! Mientras más nos alejamos de la línea del Ecuador hacia el sur, pasamos primero por el trópico, luego por el círculo polar, y finalmente llegamos al polo.
 
 ---
 
@@ -552,11 +557,11 @@ polo.
 entre la línea del Ecuador y el Trópico de Cáncer, en el continente africano. ¿Qué podemos
 afirmar sobre ese punto?
 
-a) Que está en una zona muy fría, cerca del Polo Norte
+a) Que está en una zona muy fría, cerca del Polo Norte, cubierta de hielo casi todo el año
 b) Que está en una zona cercana al Ecuador, generalmente calurosa, dentro del continente
 africano
-c) Que está en el océano Pacífico
-d) Que está en el hemisferio sur
+c) Que está en el océano Pacífico, en una isla cercana a la costa de América
+d) Que está en el hemisferio sur, porque el Trópico de Cáncer queda bajo el Ecuador
 
 ✅ Respuesta correcta: **b) Que está en una zona cercana al Ecuador, generalmente calurosa,
 dentro del continente africano**
@@ -660,10 +665,10 @@ trópicos. Cerca de los polos se encuentra la zona fría.
 **3. (Alternativas)** ¿Qué característica tiene la zona templada, donde se ubica la mayor
 parte de Chile?
 
-a) Temperaturas altas todo el año, sin estaciones
-b) Hielo y nieve durante todo el año
+a) Temperaturas altas todo el año, sin estaciones y con lluvias diarias
+b) Hielo y nieve durante todo el año, con muy pocas horas de luz
 c) Cuatro estaciones del año bien marcadas: primavera, verano, otoño e invierno
-d) Selvas tropicales muy lluviosas
+d) Selvas tropicales muy lluviosas, con calor y humedad todo el año
 
 ✅ Respuesta correcta: **c) Cuatro estaciones del año bien marcadas: primavera, verano, otoño
 e invierno**
@@ -672,34 +677,41 @@ estaciones, con temperaturas moderadas en comparación con las zonas cálida y f
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada zona climática con una estrategia de vivienda típica:
+**4. (Alternativas — unir)** Une cada zona climática con una estrategia de vivienda típica:
 
 1) Zona fría — 2) Zona cálida — 3) Zona templada
 
-a) Viviendas abiertas y elevadas del suelo — b) Iglú de bloques de hielo — c) Viviendas con
-calefacción para el invierno y buena ventilación para el verano
+Viviendas: (A) Viviendas abiertas y elevadas del suelo — (B) Iglú de bloques de hielo — (C) Viviendas con calefacción para el invierno y buena ventilación para el verano
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* ¡Excelente! Cada estrategia de vivienda responde al desafío climático
-particular de la zona donde se ubica.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**5. (Análisis de imagen)** Se observa una fotografía de personas vestidas con ropa muy
-liviana, viviendo cerca de una selva densa y lluviosa, cultivando plátanos. ¿A qué zona
-climática corresponde este paisaje?
-
-✅ Respuesta correcta: A la zona cálida.
-💬 *Retroalimentación:* ¡Muy bien! La vegetación abundante, la lluvia constante y los cultivos
-tropicales, como el plátano, son característicos de la zona cálida cercana al Ecuador.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* ¡Excelente! Cada estrategia de vivienda responde al desafío climático particular de la zona donde se ubica.
 
 ---
 
-**6. (Desarrollo breve)** Describe una estrategia que usan las personas de la zona fría del
-planeta para poder vivir con temperaturas tan bajas.
+**5. (Alternativas — análisis de imagen)** Se observa una fotografía de personas vestidas con ropa muy liviana, viviendo cerca de una selva densa y lluviosa, cultivando plátanos. ¿A qué zona climática corresponde este paisaje?
+a) A la zona fría
+b) A la zona cálida
+c) A la zona templada
 
-💬 *Pauta de retroalimentación:* Cualquier estrategia real y coherente (vivienda muy aislada,
-ropa de pieles, alimentación basada en caza y pesca, entre otras) es una buena respuesta.
+✅ Respuesta correcta: **b) A la zona cálida**
+💬 *Retroalimentación:* ¡Muy bien! La vegetación abundante, la lluvia constante y los cultivos tropicales, como el plátano, son característicos de la zona cálida cercana al Ecuador.
+
+---
+
+**6. (Varias correctas)** ¿Cuáles de estas son estrategias que usan las personas de la **zona fría** para vivir con temperaturas tan bajas? Marca **todas** las correctas.
+a) Viviendas muy aisladas del frío
+b) Ropa de pieles y abrigo grueso
+c) Ropa muy liviana y viviendas abiertas
+d) Alimentación basada en caza y pesca
+
+✅ Respuesta correcta: **a, b y d**
+💬 *Retroalimentación:* ¡Muy bien! En la zona fría se usan viviendas aisladas, ropa de pieles y una alimentación basada en caza y pesca. La ropa liviana y las viviendas abiertas son estrategias de la zona cálida.
 
 ---
 
@@ -709,7 +721,7 @@ estrategia de alimentación sería más coherente con ese territorio?
 
 a) Cultivar grandes campos de trigo todo el año
 b) Basar su alimentación principalmente en la caza y la pesca
-c) Cultivar plátanos y yuca
+c) Cultivar plátanos y yuca en huertos cerca de las casas
 d) Depender solo de cultivos de arroz en terrazas
 
 ✅ Respuesta correcta: **b) Basar su alimentación principalmente en la caza y la pesca**
@@ -719,13 +731,14 @@ alimentación basadas en la caza y la pesca.
 
 ---
 
-**8. (Ordenar secuencia — desafiante)** Imagina un viaje desde la línea del Ecuador hasta el
-Polo Sur. Ordena las zonas climáticas que se cruzarían en ese trayecto, del 1 (primero) al 3
-(último): ___ Zona fría — ___ Zona cálida — ___ Zona templada
+**8. (Alternativas — ordenar secuencia, desafiante)** Imagina un viaje desde la línea del Ecuador hasta el Polo Sur. ¿En qué orden se cruzarían las zonas climáticas?
+a) Zona fría → Zona templada → Zona cálida
+b) Zona templada → Zona cálida → Zona fría
+c) Zona cálida → Zona fría → Zona templada
+d) Zona cálida → Zona templada → Zona fría
 
-✅ Respuesta correcta: 1) Zona cálida, 2) Zona templada, 3) Zona fría
-💬 *Retroalimentación:* ¡Excelente! A medida que nos alejamos de la línea del Ecuador hacia un
-polo, pasamos de la zona cálida a la templada, y finalmente a la zona fría.
+✅ Respuesta correcta: **d) Zona cálida → Zona templada → Zona fría**
+💬 *Retroalimentación:* ¡Excelente! A medida que nos alejamos de la línea del Ecuador hacia un polo, pasamos de la zona cálida a la templada, y finalmente a la zona fría.
 
 ---
 
@@ -805,11 +818,11 @@ se toma en cuenta la voz de los niños y niñas en una decisión que los involuc
 
 **1. (Alternativas)** ¿Qué es la Convención sobre los Derechos del Niño?
 
-a) Una ley que solo existe en Chile
+a) Una ley que solo existe en Chile y que los niños deben aprender de memoria
 b) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los
 niños y niñas
-c) Un examen que deben rendir todos los niños
-d) Un reglamento interno de las escuelas
+c) Un examen que deben rendir todos los niños y niñas al terminar el año escolar para pasar de curso
+d) Un reglamento interno de las escuelas que dice cómo deben portarse los niños
 
 ✅ Respuesta correcta: **b) Un acuerdo internacional, firmado por muchos países, que reconoce
 los derechos de los niños y niñas**
@@ -843,27 +856,31 @@ alimentación.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada derecho del niño con un ejemplo de cómo se garantiza
-en Chile:
+**4. (Alternativas — unir)** Une cada derecho del niño con un ejemplo de cómo se garantiza en Chile:
 
-1) Derecho a la educación — 2) Derecho a la alimentación — 3) Derecho a la protección frente
-al trabajo infantil
+1) Derecho a la educación — 2) Derecho a la alimentación — 3) Derecho a la protección frente al trabajo infantil
 
-a) Prohibición legal de que los niños trabajen antes de cierta edad — b) Educación gratuita y
-obligatoria — c) Programas de alimentación escolar, como los de JUNAEB
+Ejemplos: (A) Prohibición legal de que los niños trabajen antes de cierta edad — (B) Educación gratuita y obligatoria — (C) Programas de alimentación escolar, como los de JUNAEB
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* ¡Excelente! Cada derecho tiene mecanismos concretos que buscan
-garantizarlo en la vida real de los niños y niñas.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-B, 3-A
+d) 1-B, 2-A, 3-C
+
+✅ Respuesta correcta: **b) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* ¡Excelente! Cada derecho tiene mecanismos concretos que buscan garantizarlo en la vida real de los niños y niñas.
 
 ---
 
-**5. (Desarrollo breve)** Nombra un derecho de los niños y niñas, y explica con un ejemplo por
-qué es importante para que puedan crecer y desarrollarse bien.
+**5. (Alternativas)** ¿Qué derecho de los niños y niñas está **bien explicado** con un ejemplo?
+a) Derecho al juego: los niños deben trabajar primero para ganarse el tiempo de jugar con sus amigos
+b) Derecho a la educación: solo algunos niños pueden ir a la escuela, los que tienen mejores notas
+c) Derecho a la salud: cuando un niño se enferma, debe poder recibir atención médica para recuperarse
+d) Derecho a la opinión: los niños nunca pueden decir lo que piensan, solo los adultos pueden opinar
 
-💬 *Pauta de retroalimentación:* Cualquier derecho real (educación, salud, protección, juego,
-alimentación, opinión, entre otros) acompañado de una explicación coherente es una buena
-respuesta.
+✅ Respuesta correcta: **c) Derecho a la salud: cuando un niño se enferma, debe poder recibir atención médica para recuperarse**
+💬 *Retroalimentación:* ¡Muy bien! Los derechos (educación, salud, protección, juego, alimentación, opinión, entre otros) existen para que todos los niños y niñas puedan crecer y desarrollarse bien. Las otras opciones contradicen esos derechos.
 
 ---
 
@@ -873,8 +890,8 @@ trabajar todo el día en vez de ir a la escuela. ¿Qué derechos de ese niño se
 
 a) Ninguno, porque los niños pueden trabajar si sus padres lo permiten
 b) El derecho a la educación y probablemente también el derecho al juego y al descanso
-c) Solo el derecho a la alimentación
-d) Solo el derecho al nombre y la nacionalidad
+c) Solo el derecho a la alimentación, porque el niño come menos mientras trabaja
+d) Solo el derecho al nombre y la nacionalidad, porque nadie lo llama por su nombre en el trabajo
 
 ✅ Respuesta correcta: **b) El derecho a la educación y probablemente también el derecho al
 juego y al descanso**
@@ -895,14 +912,14 @@ cuidan.
 
 ---
 
-**8. (Desarrollo breve — desafiante)** ¿Por qué crees que fue necesario crear un acuerdo
-internacional, como la Convención sobre los Derechos del Niño, en vez de dejar que cada país
-decidiera por su cuenta cómo tratar a los niños y niñas?
+**8. (Alternativas — desafiante)** ¿Por qué fue necesario crear un acuerdo internacional, como la Convención sobre los Derechos del Niño, en vez de dejar que cada país decidiera por su cuenta?
+a) Para asegurar que todos los niños y niñas del mundo tengan un mínimo de protección, sin importar dónde nacieron
+b) Para que todos los países tengan la misma bandera, el mismo idioma y las mismas fiestas en sus escuelas
+c) Para que los niños no tengan que ir a la escuela y puedan trabajar desde pequeños
+d) Para que un solo país mande sobre los demás y decida las leyes de todo el mundo
 
-💬 *Pauta de retroalimentación:* Se espera una reflexión coherente, por ejemplo: para
-asegurar que todos los niños y niñas del mundo tengan un mínimo de protección garantizado,
-sin importar en qué país nacieron, y para que los países se comprometan entre sí a
-respetarlos.
+✅ Respuesta correcta: **a) Para asegurar que todos los niños y niñas del mundo tengan un mínimo de protección, sin importar dónde nacieron**
+💬 *Retroalimentación:* ¡Muy buena reflexión! Con la Convención, los países se comprometen entre sí a respetar los derechos de todos los niños y niñas.
 
 ---
 

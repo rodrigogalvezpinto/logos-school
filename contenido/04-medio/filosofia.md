@@ -115,12 +115,12 @@ una posición con razones.
 1. *(Alternativas — simple)* Según las distintas perspectivas sobre la
    finalidad del quehacer filosófico revisadas en este OA, ¿cuál de las
    siguientes NO corresponde a una de ellas?
-   a) Superar la ignorancia.
-   b) Predecir con exactitud eventos futuros mediante experimentos
+   a) Superar la ignorancia examinando críticamente las propias creencias.
+   b) Enfrentar problemas complejos que no admiten una solución solo técnica.
+   c) Predecir con exactitud eventos futuros mediante experimentos
       controlados.
-   c) Enfrentar problemas complejos.
-   d) Liberarnos de prejuicios y costumbres.
-   **Respuesta correcta:** b.
+   d) Liberarnos de prejuicios y costumbres aceptados sin examen previo.
+   **Respuesta correcta:** c.
    **Retroalimentación:** Predecir eventos mediante experimentos
    controlados es propio del método científico, no de la finalidad del
    quehacer filosófico; la filosofía aporta conceptos, argumentos y examen
@@ -134,63 +134,45 @@ una posición con razones.
    rigurosa y la coherencia; la filosofía, además, con frecuencia examina
    los supuestos y límites de la propia ciencia (filosofía de la ciencia).
 
-3. *(Clasificar — simple)* Clasifica cada situación según la finalidad del
-   quehacer filosófico que mejor representa: superar la ignorancia (I),
-   participar de la democracia (D), o desarrollar conceptos (C).
-   (i) Un grupo de estudiantes discute qué se entiende exactamente por
-   "consentimiento informado" en un tratamiento médico. (ii) Un ciudadano
-   examina si su rechazo automático a cierta política pública se basa en
-   evidencia o en un prejuicio heredado. (iii) Un grupo curso delibera,
-   antes de votar representantes, sobre qué entienden por "representar bien"
-   los intereses del curso.
-   **Respuesta correcta:** (i) C, (ii) I, (iii) D.
-   **Retroalimentación:** Cada situación ejemplifica un uso distinto —pero
-   igualmente legítimo— de la reflexión filosófica: precisar conceptos,
-   examinar creencias no fundamentadas, y deliberar colectivamente.
+3. *(Alternativas — Clasificar — simple)* Clasifica cada situación según la finalidad del quehacer filosófico que mejor representa: superar la ignorancia (I), participar de la democracia (D) o desarrollar conceptos (C). (i) Un grupo de estudiantes discute qué se entiende exactamente por "consentimiento informado" en un tratamiento médico. (ii) Un ciudadano examina si su rechazo automático a cierta política pública se basa en evidencia o en un prejuicio heredado. (iii) Un grupo curso delibera, antes de votar representantes, sobre qué entienden por "representar bien" los intereses del curso. ¿Qué clasificación es correcta?
+   a) (i) C, (ii) I, (iii) D
+   b) (i) I, (ii) C, (iii) D
+   c) (i) D, (ii) I, (iii) C
+   d) (i) C, (ii) D, (iii) I
+   **Respuesta correcta:** a) (i) C, (ii) I, (iii) D.
+   **Retroalimentación:** Cada situación ejemplifica un uso distinto —pero igualmente legítimo— de la reflexión filosófica: precisar conceptos, examinar creencias no fundamentadas y deliberar colectivamente.
 
-4. *(Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no
-   tiene ninguna relación con la ciencia, porque la ciencia se basa en
-   pruebas y la filosofía solo en opiniones." Evalúa esta afirmación.
-   **Respuesta esperada:** La afirmación es discutible en dos frentes:
-   primero, la filosofía no se basa en "opiniones" sin más, sino en
-   argumentos que buscan ser examinados y justificados; segundo, existe una
-   relación estrecha entre ambas disciplinas —la filosofía de la ciencia
-   examina qué hace que una teoría sea científica, qué es una explicación
-   causal, o los límites del método experimental—, relación que la ciencia
-   misma no puede resolver desde sus propios métodos empíricos.
-   **Retroalimentación:** Se evalúa que el estudiante distinga
-   "opinión no examinada" de "argumento filosófico" y reconozca al menos un
-   punto de contacto concreto entre filosofía y ciencia.
+4. *(Varias correctas — Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no tiene ninguna relación con la ciencia, porque la ciencia se basa en pruebas y la filosofía solo en opiniones." ¿Qué evaluaciones de esta afirmación son pertinentes? Marca **todas** las correctas.
+   a) La filosofía no se basa en opiniones sin más, sino en argumentos que se examinan y justifican
+   b) La filosofía de la ciencia examina qué hace científica a una teoría o qué es una explicación causal, preguntas que la ciencia no resuelve solo con sus métodos empíricos
+   c) La afirmación es correcta: filosofía y ciencia nunca se tocan
+   d) La afirmación es correcta porque la ciencia tampoco usa pruebas
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Se trata de distinguir "opinión no examinada" de "argumento filosófico" y de reconocer al menos un punto de contacto concreto entre filosofía y ciencia.
 
 5. *(Alternativas — intermedio)* Un joven decide no votar en una elección
    diciendo "la política no tiene nada que ver conmigo, yo solo filosofo
    sobre mi vida personal." ¿Qué relación entre filosofía y política
    contradice mejor esta postura?
-   a) Ninguna: la filosofía y la política son completamente independientes.
-   b) La filosofía provee las herramientas conceptuales (justicia, bien
+   a) Ninguna: la filosofía y la política son completamente independientes, porque una trata de ideas abstractas y la otra de decisiones prácticas.
+   b) Solo los filósofos profesionales deben votar, porque son los únicos que tienen las herramientas para comprender los programas políticos.
+   c) La filosofía reemplaza por completo a la política: quien reflexiona sobre su vida personal ya participa en las decisiones públicas.
+   d) La filosofía provee las herramientas conceptuales (justicia, bien
       común, derechos) necesarias para deliberar y participar
       informadamente en la vida democrática.
-   c) La filosofía reemplaza por completo a la política.
-   d) Solo los filósofos profesionales deben votar.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** d.
    **Retroalimentación:** Casi todo debate político de fondo —qué derechos
    deben protegerse, cómo distribuir recursos, qué límites tiene la
    libertad— es, en su raíz, un debate filosófico; separar tajantemente
    "mi vida personal" de "la política" ignora esa relación.
 
-6. *(Desarrollo breve — intermedio)* Elabora un argumento breve **a favor**
-   de la utilidad de la filosofía y uno **en contra**, sin inclinarte
-   explícitamente por ninguno.
-   **Respuesta esperada:** A favor: la filosofía desarrolla pensamiento
-   crítico, capacidad de detectar falacias y de deliberar sobre fines y
-   valores, habilidades transferibles a cualquier área de la vida. En
-   contra: la filosofía rara vez produce consensos definitivos ni
-   resultados prácticos inmediatos y medibles, a diferencia de otras
-   disciplinas orientadas a la acción o la producción de bienes concretos.
-   **Retroalimentación:** El indicador pide explícitamente elaborar
-   argumentos sobre la utilidad **e inutilidad** de la filosofía; se evalúa
-   que ambos argumentos estén razonablemente fundamentados, no solo
-   afirmados.
+6. *(Alternativas — Argumentos a favor y en contra — intermedio)* El indicador pide elaborar argumentos sobre la utilidad **e inutilidad** de la filosofía. ¿Qué par presenta un argumento razonable a favor y uno razonable en contra?
+   a) A favor: permite memorizar fechas y nombres de pensadores importantes para la cultura general. En contra: usa demasiadas palabras difíciles y rara vez se entiende
+   b) A favor: garantiza un mejor sueldo a quienes la estudian, porque es muy valorada por las empresas. En contra: no tiene ningún método propio para examinar sus preguntas
+   c) A favor: siempre llega a verdades definitivas que nadie puede discutir. En contra: es igual que la física, así que podría reemplazarse por clases de ciencias
+   d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles
+   **Respuesta correcta:** d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles.
+   **Retroalimentación:** Ambos argumentos deben estar razonablemente fundamentados, no solo afirmados; las otras opciones atribuyen a la filosofía rasgos falsos.
 
 7. *(Verdadero o falso — desafiante)* Reconocer límites en el quehacer
    filosófico (por ejemplo, que no produce resultados verificables
@@ -201,35 +183,24 @@ una posición con razones.
    es de otro orden —conceptual, crítico, deliberativo— y puede reconocerse
    sin necesidad de exagerar sus alcances ni negarlos por completo.
 
-8. *(Análisis de argumento — desafiante)* Un estudiante sostiene: "Si la
-   filosofía realmente sirviera para algo, todos los filósofos estarían de
-   acuerdo entre sí, como los científicos están de acuerdo en las leyes de
-   la física." Evalúa este argumento, considerando los alcances y límites
-   propios del quehacer filosófico.
-   **Respuesta esperada:** El argumento supone, sin justificarlo, que la
-   utilidad de una disciplina depende de que sus practicantes lleguen a
-   consenso total, un criterio que ni siquiera aplica de forma estricta a
-   toda la ciencia (hay debates científicos abiertos). Además, el
-   desacuerdo filosófico persistente en preguntas sobre justicia, libertad o
-   el sentido de la vida no significa ausencia de progreso: puede reflejar
-   la genuina complejidad y pluralidad legítima de esas preguntas, más que
-   un fracaso del método.
-   **Retroalimentación:** Se evalúa que el estudiante identifique el
-   supuesto no justificado del argumento (consenso = utilidad) y ofrezca una
-   explicación alternativa del desacuerdo filosófico coherente con los
-   alcances y límites propios de la disciplina.
+8. *(Alternativas — Análisis de argumento — desafiante)* Un estudiante sostiene: "Si la filosofía realmente sirviera para algo, todos los filósofos estarían de acuerdo entre sí, como los científicos están de acuerdo en las leyes de la física." ¿Qué evaluación es más sólida?
+   a) Es correcto: lo que no genera acuerdo total no sirve, y el desacuerdo persistente entre filósofos demuestra que sus preguntas no tienen respuesta y que la disciplina debería reemplazarse por la ciencia
+   b) Es correcto porque los filósofos nunca argumentan
+   c) Supone sin justificarlo que utilidad equivale a consenso total, criterio que ni la ciencia cumple estrictamente; el desacuerdo persistente puede reflejar la complejidad y pluralidad legítima de las preguntas
+   d) Es incorrecto porque los filósofos siempre están de acuerdo en las cuestiones centrales, y el desacuerdo que se observa se debe solo a diferencias de vocabulario entre escuelas y épocas
+   **Respuesta correcta:** c) Supone sin justificarlo que utilidad equivale a consenso total, criterio que ni la ciencia cumple estrictamente; el desacuerdo persistente puede reflejar la complejidad y pluralidad legítima de las preguntas.
+   **Retroalimentación:** El supuesto no justificado es "consenso = utilidad"; el desacuerdo filosófico no implica ausencia de progreso.
 
 9. *(Alternativas — simple)* Una comunidad debe decidir cómo repartir agua
    potable escasa entre distintos sectores durante una sequía prolongada,
    sin que exista una solución técnica que satisfaga a todos por igual.
    ¿Qué finalidad del quehacer filosófico ejemplifica mejor esta situación?
-   a) Desarrollar conceptos completamente nuevos sin relación con la
-      tradición filosófica.
-   b) Enfrentar problemas complejos que no admiten una solución meramente
+   a) Desarrollar conceptos completamente nuevos, sin relación con la tradición filosófica, porque los criterios de justicia anteriores ya no sirven.
+   b) Ninguna: este es un problema exclusivamente técnico de ingeniería, que se resuelve con una fórmula de reparto igualitario.
+   c) Superar la ignorancia sobre los datos hidrológicos, porque bastaría con conocer el caudal exacto para repartir el agua.
+   d) Enfrentar problemas complejos que no admiten una solución meramente
       técnica y exigen deliberar sobre criterios de justicia.
-   c) Superar la ignorancia sobre datos hidrológicos.
-   d) Ninguna: este es un problema exclusivamente técnico de ingeniería.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** d.
    **Retroalimentación:** Repartir un recurso escaso de forma justa no se
    resuelve solo con ingeniería hidráulica: exige deliberar sobre criterios
    (necesidad, igualdad, prioridad) que son propiamente filosóficos, un
@@ -245,72 +216,45 @@ una posición con razones.
     una de las cinco perspectivas sobre la finalidad de la filosofía
     trabajadas en este OA.
 
-11. *(Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no
-    tiene ninguna relación con el derecho, porque las leyes las hacen los
-    abogados y los políticos, no los filósofos." Evalúa esta afirmación
-    considerando la relación de la filosofía con otras disciplinas y formas
-    del saber.
-    **Respuesta esperada:** La afirmación es discutible porque buena parte
-    del derecho descansa sobre conceptos que la filosofía examina
-    directamente: qué es la justicia, qué derechos son fundamentales, bajo
-    qué condiciones una ley es legítima. La filosofía del derecho es,
-    justamente, un área donde ambas disciplinas se cruzan: los abogados
-    aplican normas, pero la pregunta de fondo sobre si esas normas están
-    bien fundamentadas es una pregunta filosófica.
-    **Retroalimentación:** Se evalúa que el estudiante identifique un punto
-    de contacto concreto entre filosofía y derecho (justicia, legitimidad,
-    derechos fundamentales), no solo que niegue la afirmación sin
-    argumentar.
+11. *(Alternativas — Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no tiene ninguna relación con el derecho, porque las leyes las hacen los abogados y los políticos, no los filósofos." ¿Qué respuesta identifica mejor un punto de contacto entre ambas disciplinas?
+    a) No hay relación: el derecho solo aplica reglamentos escritos por los políticos, y conceptos como justicia o legitimidad pertenecen a la religión, no a la filosofía ni a los tribunales
+    b) La relación es que los filósofos redactan todas las leyes y los abogados solo las aplican; por eso la filosofía del derecho es el área encargada de escribir los códigos del país
+    c) El derecho descansa sobre conceptos que la filosofía examina —justicia, derechos fundamentales, legitimidad de una ley—; la filosofía del derecho es justamente el área donde se cruzan
+    d) La relación es que ambos usan libros
+    **Respuesta correcta:** c) El derecho descansa sobre conceptos que la filosofía examina —justicia, derechos fundamentales, legitimidad de una ley—; la filosofía del derecho es justamente el área donde se cruzan.
+    **Retroalimentación:** Los abogados aplican normas, pero la pregunta de fondo sobre si esas normas están bien fundamentadas es filosófica.
 
-12. *(Desarrollo breve — intermedio)* Elige una de las cinco perspectivas
-    sobre la finalidad del quehacer filosófico (superar la ignorancia,
-    enfrentar problemas complejos, participar de la democracia, desarrollar
-    conceptos, liberarnos de prejuicios) y aplícala a una decisión real que
-    debas tomar pronto en tu vida (por ejemplo, qué estudiar o trabajar).
-    **Respuesta esperada:** Respuesta personal coherente; por ejemplo,
-    aplicar "liberarnos de prejuicios" a la decisión de qué estudiar,
-    examinando si se está descartando una opción por prejuicios heredados
-    ("esa carrera es solo para hombres/mujeres") en vez de por razones
-    propias.
-    **Retroalimentación:** Se evalúa que el estudiante use correctamente la
-    perspectiva elegida (no solo la nombre) y la aplique de forma
-    argumentada a una decisión personal significativa.
+12. *(Alternativas — Aplicación — intermedio)* Una estudiante aplica la finalidad "liberarnos de prejuicios" a su decisión de qué estudiar. ¿Qué reflexión usa correctamente esa perspectiva?
+    a) Examina si está descartando una carrera por prejuicios heredados ("esa carrera es solo para hombres/mujeres") en lugar de por razones propias
+    b) Elige la carrera que eligió la mayoría de su curso, sin preguntarse por qué, porque lo que piensa la mayoría ya está libre de prejuicios
+    c) Decide según el horóscopo
+    d) Evita pensar en el tema para no confundirse, porque reflexionar sobre los prejuicios solo genera dudas y retrasa la decisión
+    **Respuesta correcta:** a) Examina si está descartando una carrera por prejuicios heredados ("esa carrera es solo para hombres/mujeres") en lugar de por razones propias.
+    **Retroalimentación:** Usar una perspectiva filosófica no es solo nombrarla, sino aplicarla de forma argumentada a una decisión significativa.
 
 13. *(Alternativas — desafiante)* ¿Cuál de las siguientes es un límite
     genuino y reconocido del quehacer filosófico, y no una exageración
     injustificada de sus límites?
-    a) La filosofía no puede aportar nada a ninguna decisión política.
-    b) La filosofía, a diferencia de la ciencia experimental, generalmente
+    a) La filosofía no puede aportar nada a ninguna decisión política, porque sus preguntas no tienen relación con la vida práctica.
+    b) La filosofía no puede usar la lógica ni la argumentación con rigor, porque en sus temas todas las opiniones valen lo mismo.
+    c) La filosofía, a diferencia de la ciencia experimental, generalmente
        no produce predicciones verificables mediante experimentos
        controlados.
-    c) La filosofía no puede usar la lógica ni la argumentación con rigor.
-    d) La filosofía nunca ha influido en ninguna disciplina científica.
-    **Respuesta correcta:** b.
+    d) La filosofía nunca ha influido en ninguna disciplina científica, porque sus ideas se quedan en los libros y no llegan a la ciencia.
+    **Respuesta correcta:** c.
     **Retroalimentación:** Un límite razonable y reconocido es que la
     filosofía no opera, como la ciencia, mediante experimentos que generen
     predicciones verificables; las otras opciones son exageraciones que
     niegan aportes reales y bien documentados de la filosofía (a la
     política, a la ciencia, mediante el rigor argumentativo).
 
-14. *(Análisis de argumento — desafiante)* Alguien argumenta: "Estudiar
-    filosofía es una pérdida de tiempo económico: no aumenta directamente el
-    sueldo de nadie ni resuelve problemas técnicos concretos, así que su
-    valor social es nulo." Construye una respuesta filosófica que use al
-    menos una de las finalidades del quehacer filosófico (distinta de
-    "superar la ignorancia") para cuestionar este argumento.
-    **Respuesta esperada:** El argumento asume, sin justificarlo, que el
-    único valor legítimo de una disciplina es su rendimiento económico
-    directo. Usando la finalidad de "desarrollar conceptos", se puede
-    responder que la filosofía aporta herramientas conceptuales (como
-    "consentimiento informado", "sostenibilidad" o "responsabilidad social")
-    que después son usadas por otras disciplinas y por políticas públicas
-    para resolver problemas concretos, incluso económicos; su valor no se
-    mide solo en sueldos individuales, sino en la calidad del pensamiento
-    colectivo disponible para enfrentar problemas complejos.
-    **Retroalimentación:** Se evalúa que el estudiante identifique el
-    supuesto reduccionista del argumento (valor = rendimiento económico
-    directo) y construya una respuesta que aplique correctamente una de las
-    finalidades filosóficas revisadas.
+14. *(Alternativas — Análisis de argumento — desafiante)* Alguien argumenta: "Estudiar filosofía es una pérdida de tiempo económico: no aumenta directamente el sueldo de nadie ni resuelve problemas técnicos concretos, así que su valor social es nulo." ¿Qué respuesta usa la finalidad de "desarrollar conceptos" para cuestionarlo?
+    a) La filosofía sí aumenta directamente el sueldo de todos, porque quienes la estudian consiguen mejores empleos, y ese rendimiento económico inmediato es la prueba de que su valor social no es nulo
+    b) El argumento es correcto en cuanto al valor económico, pero la filosofía es entretenida y por eso merece existir: su aporte social está en el disfrute personal de quienes la estudian, no en los conceptos que otras disciplinas usan
+    c) La filosofía no necesita responder a ningún argumento
+    d) El argumento supone que el único valor es el rendimiento económico directo; la filosofía aporta conceptos ("consentimiento informado", "sostenibilidad") que luego usan otras disciplinas y políticas públicas para resolver problemas concretos
+    **Respuesta correcta:** d) El argumento supone que el único valor es el rendimiento económico directo; la filosofía aporta conceptos ("consentimiento informado", "sostenibilidad") que luego usan otras disciplinas y políticas públicas para resolver problemas concretos.
+    **Retroalimentación:** Se identifica el supuesto reduccionista (valor = rendimiento económico directo) y se aplica correctamente una de las finalidades revisadas.
 
 15. *(Verdadero o falso — desafiante)* Reconocer que la filosofía comparte
     con la ciencia el compromiso con el razonamiento riguroso implica que
@@ -394,53 +338,46 @@ pensar tu propia vida y la sociedad en la que vives.
 
 1. *(Alternativas — simple)* ¿Cuál es el propósito y campo de estudio
    central de la ética?
-   a) Determinar qué es real y qué no lo es.
-   b) Reflexionar críticamente sobre lo que está bien o mal hacer y por qué.
-   c) Establecer las reglas de la lógica formal.
-   d) Describir cómo funciona la percepción sensorial.
-   **Respuesta correcta:** b.
+   a) Reflexionar críticamente sobre lo que está bien o mal hacer y por qué.
+   b) Determinar qué es real y qué no lo es, y qué tipos de entidades existen.
+   c) Establecer las reglas de la lógica formal que distinguen los argumentos válidos.
+   d) Describir cómo funciona la percepción sensorial mediante experimentos.
+   **Respuesta correcta:** a.
    **Retroalimentación:** La ética es la rama de la filosofía que examina
    la corrección o incorrección de las acciones y las razones que la
    fundamentan, a diferencia de la ontología (a) o la lógica (c).
 
-2. *(Producción de pregunta — intermedio)* Formula una pregunta filosófica propia sobre una decisión de tu vida cotidiana. Explica la tensión entre justicia, libertad o igualdad, relaciónala con una teoría ética y señala para qué decisión práctica serviría discutirla. Distingue cuestionar una norma moral de describirla.
-   **Respuesta esperada (ejemplo, no para copiar):** «¿Debo decir siempre la verdad si hacerlo daña a un amigo?». Cuestiona el deber moral de sinceridad; contrapone el deber deontológico de honestidad y la valoración utilitarista de consecuencias. Discutirla ayuda a decidir cómo comunicar una verdad difícil.
-   **Criterios de revisión manual:** Completo: pregunta propia abierta y fundamentable, tensión ética y teoría pertinentes, distinción ética/moral y utilidad práctica explicadas. Parcial: pregunta pertinente pero justificación o aplicación incompletas. Insuficiente: solo dato, preferencia o pregunta sin reflexión ética. Se aceptan otras preguntas y posiciones razonadas.
+2. *(Alternativas — Pregunta filosófica — intermedio)* ¿Qué pregunta sobre la vida cotidiana es **filosófica** y permite discutir una tensión ética (por ejemplo, entre el deber y las consecuencias)?
+   a) "¿A qué hora abre el supermercado del barrio los días domingo?"
+   b) "¿Prefiero el helado de chocolate o el de vainilla?"
+   c) "¿Cuántos amigos tengo en redes sociales y cuántos me siguen a mí?"
+   d) "¿Debo decir siempre la verdad si hacerlo daña a un amigo?"
+   **Respuesta correcta:** d) "¿Debo decir siempre la verdad si hacerlo daña a un amigo?".
+   **Retroalimentación:** La pregunta cuestiona el deber moral de sinceridad: contrapone el deber deontológico de honestidad con la valoración utilitarista de las consecuencias, y su discusión ayuda a decidir cómo comunicar una verdad difícil. Las otras se responden con un dato o una preferencia.
 
-3. *(Emparejar — simple)* Empareja cada teoría ética con su idea central:
-   (1) Consecuencialismo/utilitarismo, (2) Ética deontológica — (a) lo
-   correcto se determina por el cumplimiento de deberes y principios,
-   independientemente de las consecuencias; (b) lo correcto se determina
-   evaluando los resultados de la acción, buscando maximizar el bienestar
-   general.
-   **Respuesta correcta:** 1-b, 2-a.
-   **Retroalimentación:** Ambas teorías responden distinto a "qué hace
-   correcta una acción": el resultado que produce, o el principio que
-   respeta, con independencia del resultado.
+3. *(Alternativas — Unir — simple)* Une cada teoría ética con su idea central: (1) Consecuencialismo/utilitarismo, (2) Ética deontológica — (A) lo correcto se determina por el cumplimiento de deberes y principios, independientemente de las consecuencias; (B) lo correcto se determina evaluando los resultados de la acción, buscando maximizar el bienestar general. ¿Qué combinación es correcta?
+   a) 1-A, 2-B
+   b) 1-A, 2-A
+   c) 1-B, 2-A
+   d) 1-B, 2-B
+   **Respuesta correcta:** c) 1-B, 2-A.
+   **Retroalimentación:** Ambas teorías responden distinto a "qué hace correcta una acción": el resultado que produce, o el principio que respeta con independencia del resultado.
 
-4. *(Análisis de caso — intermedio)* Una alcaldía debe decidir entre
-   construir un hospital que beneficiará a la mayoría de la comuna o
-   respetar la propiedad de una familia que se niega a vender su terreno
-   para ese fin. Analiza el dilema desde una perspectiva consecuencialista y
-   desde una perspectiva deontológica.
-   **Respuesta esperada:** Desde una perspectiva consecuencialista, se
-   podría justificar la expropiación si el bienestar generado para la
-   mayoría supera el perjuicio a la familia. Desde una perspectiva
-   deontológica, se podría objetar que expropiar a la fuerza viola el
-   derecho de propiedad y trata a la familia meramente como medio para un
-   fin colectivo, sin importar cuánto bienestar total se genere.
-   **Retroalimentación:** Se evalúa que el estudiante aplique
-   correctamente ambos marcos teóricos al mismo caso, mostrando que pueden
-   llevar a conclusiones distintas y que ninguna se sigue automáticamente
-   como "la correcta".
+4. *(Alternativas — Análisis de caso — intermedio)* Una alcaldía debe decidir entre construir un hospital que beneficiará a la mayoría de la comuna o respetar la propiedad de una familia que se niega a vender su terreno. ¿Qué análisis aplica correctamente ambas perspectivas?
+   a) Consecuencialista: podría justificarse la expropiación si el bienestar de la mayoría supera el perjuicio a la familia. Deontológica: expropiar a la fuerza viola el derecho de propiedad y trata a la familia como mero medio
+   b) Consecuencialista: hay que respetar siempre la propiedad de la familia, sin importar cuántas personas se beneficien del hospital. Deontológica: hay que maximizar el bienestar de la mayoría, aunque eso implique expropiar a la fuerza
+   c) Ambas perspectivas exigen construir el hospital sin discusión: el bienestar de la mayoría y el deber de proteger la salud pública justifican siempre la expropiación, sin considerar a la familia
+   d) Ninguna perspectiva puede decir nada sobre el caso
+   **Respuesta correcta:** a) Consecuencialista: podría justificarse la expropiación si el bienestar de la mayoría supera el perjuicio a la familia. Deontológica: expropiar a la fuerza viola el derecho de propiedad y trata a la familia como mero medio.
+   **Retroalimentación:** Ambos marcos aplicados al mismo caso pueden llevar a conclusiones distintas, y ninguna se sigue automáticamente como "la correcta".
 
 5. *(Alternativas — intermedio)* Un país permite que cualquier persona
    compita por un puesto de trabajo sin discriminación legal, pero no
    corrige las desventajas de origen (acceso desigual a educación, salud,
    redes de contacto). ¿Qué concepción de igualdad se está aplicando aquí de
    forma limitada?
-   a) Igualdad de resultados.
-   b) Igualdad de oportunidades reales (sustantiva).
+   a) Igualdad de resultados, que asegura a todos el mismo puesto final.
+   b) Igualdad de oportunidades reales (sustantiva), que compensa las desventajas de origen.
    c) Igualdad formal o de trato ante la ley, sin compensar desventajas de
       partida.
    d) Ninguna: no existe ninguna forma de igualdad en ese escenario.
@@ -451,21 +388,13 @@ pensar tu propia vida y la sociedad en la que vives.
    (igualdad sustantiva); son dos nociones legítimas y distintas de
    igualdad.
 
-6. *(Desarrollo breve — intermedio)* Elige dos teorías éticas (de tu
-   preferencia) y compáralas explicando al menos un concepto fundamental de
-   cada una, aplicándolas a una decisión de tu vida cotidiana (por ejemplo,
-   copiar en una prueba).
-   **Respuesta esperada (ejemplo):** Desde el utilitarismo, copiar podría
-   evaluarse mirando las consecuencias: si perjudica a otros compañeros
-   evaluados con curva, o si erosiona la confianza general en el sistema de
-   evaluación, el balance de bienestar es negativo. Desde la deontología, el
-   acto de copiar podría juzgarse incorrecto en sí mismo, independientemente
-   de sus consecuencias, porque viola un deber de honestidad que no
-   dependería de si te descubren o no ni de a quién perjudica.
-   **Retroalimentación:** Se evalúa que el estudiante use correctamente al
-   menos un concepto fundamental de cada teoría elegida (consecuencia y
-   maximización del bienestar; deber y principio universalizable) aplicado a
-   una situación personal significativa.
+6. *(Alternativas — Comparar teorías — intermedio)* ¿Qué análisis de "copiar en una prueba" usa correctamente un concepto fundamental del utilitarismo y uno de la deontología?
+   a) Utilitarismo: copiar es incorrecto solo porque lo prohíbe el reglamento del colegio, sin importar sus efectos. Deontología: copiar es incorrecto únicamente si te descubren, porque lo que importa son las consecuencias para quien copia
+   b) Ambas teorías dicen que copiar está bien si sacas buena nota: el utilitarismo, porque aumenta tu bienestar; la deontología, porque cumpliste con tu deber de aprobar la asignatura
+   c) Ninguna teoría ética se aplica a la vida escolar, porque el utilitarismo y la deontología solo se usan para analizar grandes dilemas sociales, como las guerras o las leyes
+   d) Utilitarismo: copiar es negativo si perjudica a otros o erosiona la confianza en la evaluación (balance de bienestar). Deontología: copiar es incorrecto en sí mismo porque viola un deber de honestidad, aunque nadie lo descubra
+   **Respuesta correcta:** d) Utilitarismo: copiar es negativo si perjudica a otros o erosiona la confianza en la evaluación (balance de bienestar). Deontología: copiar es incorrecto en sí mismo porque viola un deber de honestidad, aunque nadie lo descubra.
+   **Retroalimentación:** Consecuencia y maximización del bienestar, por un lado; deber y principio universalizable, por otro.
 
 7. *(Verdadero o falso — desafiante)* Sostener que "la libertad es
    simplemente que nadie me impida hacer lo que quiero" agota por completo
@@ -478,34 +407,23 @@ pensar tu propia vida y la sociedad en la que vives.
    capacidades y proyectos de vida. Ambas son perspectivas legítimas en
    disputa, no una única definición cerrada.
 
-8. *(Análisis de argumento — desafiante)* Una persona argumenta: "El
-   utilitarismo es la única teoría ética razonable, porque lo único que
-   importa moralmente es el bienestar total de las personas; cualquier
-   principio o derecho individual que se le oponga debe ceder ante el bien
-   mayor." Presenta una objeción deontológica legítima a este argumento, sin
-   afirmar que una postura sea "la correcta".
-   **Respuesta esperada:** Una objeción deontológica plausible es que este
-   razonamiento podría justificar sacrificar los derechos fundamentales de
-   una minoría (o incluso de una sola persona) siempre que el bienestar
-   agregado del resto sea mayor, lo que resulta contraintuitivo en casos
-   extremos (por ejemplo, sacrificar a una persona inocente para "salvar"
-   a muchas otras). La ética deontológica sostendría que ciertos derechos o
-   principios (como no dañar deliberadamente a un inocente) no deberían
-   quedar sujetos a un simple cálculo de consecuencias agregadas.
-   **Retroalimentación:** Se evalúa que el estudiante presente una objeción
-   filosóficamente sólida (el problema de sacrificar minorías o individuos
-   por el bienestar agregado) sin simplemente descartar el utilitarismo,
-   reconociendo que ambas posturas son legítimas y están en debate.
+8. *(Alternativas — Análisis de argumento — desafiante)* Una persona argumenta: "El utilitarismo es la única teoría ética razonable, porque lo único que importa es el bienestar total; cualquier derecho individual debe ceder ante el bien mayor." ¿Qué objeción deontológica es legítima, sin declarar "la correcta" a ninguna postura?
+   a) El utilitarismo es falso porque el bienestar no existe ni puede medirse, de modo que ninguna decisión puede basarse en sus consecuencias para las personas
+   b) Hay que ignorar las consecuencias en todos los casos, porque nunca importan: lo único relevante es cumplir las normas establecidas, aunque produzcan grandes daños
+   c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias
+   d) La deontología prueba definitivamente que el utilitarismo es absurdo, porque los deberes son siempre más importantes que cualquier consecuencia, así que el debate entre ambas teorías ya está cerrado y no admite más discusión
+   **Respuesta correcta:** c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias.
+   **Retroalimentación:** La objeción es sólida sin descartar el utilitarismo: reconoce que ambas posturas son legítimas y están en debate.
 
 9. *(Alternativas — simple)* Una empresa decide repartir un bono anual dando
    más dinero a quienes trabajaron más horas extra ese año, sin importar su
    cargo o antigüedad. ¿Qué criterio de justicia está aplicando
    principalmente?
-   a) Justicia según necesidad.
-   b) Justicia según mérito o esfuerzo.
+   a) Justicia según mérito o esfuerzo.
+   b) Justicia según necesidad.
    c) Justicia según igualdad estricta (todos reciben lo mismo).
    d) Ausencia total de criterio de justicia.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** a.
    **Retroalimentación:** Repartir en proporción al esfuerzo o desempeño
    (horas extra trabajadas) es aplicar un criterio de justicia basado en el
    mérito, distinto de repartir según necesidad (a quien más lo requiere) o
@@ -522,58 +440,38 @@ pensar tu propia vida y la sociedad en la que vives.
     los fines de otros, independientemente de las consecuencias que eso
     traiga.
 
-11. *(Análisis de caso — intermedio)* Una universidad tiene un cupo de
-    ingreso especial: puede dárselo al postulante con el mejor puntaje de
-    admisión, o a un postulante con puntaje algo menor pero que proviene de
-    una situación de alta vulnerabilidad económica. Analiza este caso
-    aplicando dos criterios distintos de justicia distributiva (mérito y
-    necesidad).
-    **Respuesta esperada:** Desde el criterio de justicia según mérito, el
-    cupo debería ir a quien obtuvo el mejor puntaje, porque demostró mayor
-    desempeño según la medida acordada. Desde el criterio de justicia según
-    necesidad, el cupo debería ir al postulante vulnerable, porque
-    compensar desventajas de origen es lo que permite una competencia
-    genuinamente equitativa a largo plazo. Ninguno de los dos criterios es
-    incorrecto: ambos reflejan valores distintos sobre qué hace justa una
-    distribución.
-    **Retroalimentación:** Se evalúa que el estudiante aplique
-    correctamente ambos criterios al mismo caso y reconozca que representan
-    concepciones legítimas y en tensión de la justicia, sin resolver el
-    dilema de forma dogmática.
+11. *(Varias correctas — Análisis de caso — intermedio)* Un cupo universitario especial puede darse al postulante con mejor puntaje o a uno con puntaje algo menor que proviene de alta vulnerabilidad. ¿Qué afirmaciones aplican correctamente los criterios de justicia distributiva? Marca **todas** las correctas.
+    a) Según mérito, el cupo iría a quien demostró mayor desempeño en la medida acordada
+    b) Según necesidad, iría al postulante vulnerable, porque compensar desventajas de origen favorece una competencia más equitativa
+    c) Ambos criterios reflejan concepciones legítimas y en tensión de lo que hace justa una distribución
+    d) Solo el mérito es un criterio de justicia; la necesidad es caridad
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Se aplican ambos criterios al mismo caso y se reconoce su tensión sin resolver el dilema de forma dogmática.
 
 12. *(Alternativas — intermedio)* Según el imperativo categórico kantiano
     ("actúa solo según una máxima que puedas querer que se convierta en ley
     universal"), ¿por qué mentir para conseguir un beneficio personal
     resultaría moralmente incorrecto?
-    a) Porque casi siempre alguien descubre la mentira y hay consecuencias
-       negativas.
-    b) Porque si todos mintieran cada vez que les conviniera, la confianza
+    a) Porque casi siempre alguien descubre la mentira y hay consecuencias negativas para quien miente, como la pérdida de su reputación, lo que vuelve la máxima imprudente.
+    b) Porque las leyes chilenas prohíben mentir en cualquier contexto.
+    c) Porque mentir siempre produce menos bienestar total que decir la verdad, y el imperativo categórico exige elegir la acción que maximiza el bienestar de la mayoría.
+    d) Porque si todos mintieran cada vez que les conviniera, la confianza
        necesaria para que la comunicación humana funcione colapsaría,
        volviendo la máxima incoherente como ley universal.
-    c) Porque mentir siempre produce menos bienestar total que decir la
-       verdad.
-    d) Porque las leyes chilenas prohíben mentir en cualquier contexto.
-    **Respuesta correcta:** b.
+    **Respuesta correcta:** d.
     **Retroalimentación:** El test kantiano no evalúa consecuencias (a y c
     son razonamientos consecuencialistas, no deontológicos) ni leyes civiles
     (d); evalúa si la máxima de la acción podría universalizarse sin caer en
     una contradicción práctica, y la mentira generalizada socava la propia
     posibilidad de que mentir funcione como estrategia.
 
-13. *(Desarrollo breve — intermedio)* Aplica la distinción entre libertad
-    negativa y libertad positiva a una situación real de tu entorno (por
-    ejemplo, el acceso a la educación superior), explicando en qué se
-    diferencian las dos formas de entender la libertad en ese caso.
-    **Respuesta esperada:** Respuesta personal coherente; por ejemplo:
-    formalmente nadie impide que una persona postule a la universidad
-    (libertad negativa garantizada), pero si no cuenta con los recursos
-    económicos, la preparación académica previa o el tiempo libre para
-    estudiar en vez de trabajar, su libertad positiva —la capacidad real de
-    ejercer esa opción— está limitada, aunque nadie se lo prohíba
-    explícitamente.
-    **Retroalimentación:** Se evalúa que el estudiante distinga con claridad
-    ambas nociones de libertad y las aplique a una situación concreta y
-    significativa, no solo que las defina de memoria.
+13. *(Alternativas — Aplicación — intermedio)* Formalmente nadie impide a una persona postular a la universidad, pero no tiene recursos, preparación previa ni tiempo libre porque debe trabajar. ¿Qué describe correctamente el caso?
+    a) Su libertad positiva (capacidad real de ejercer la opción) está garantizada, pero su libertad negativa (no interferencia) está limitada
+    b) Ambas libertades están plenamente garantizadas, porque nadie le prohíbe postular y la falta de recursos es una decisión personal
+    c) Su libertad negativa (no interferencia) está garantizada, pero su libertad positiva (capacidad real de ejercer la opción) está limitada
+    d) El caso no tiene relación con la libertad
+    **Respuesta correcta:** c) Su libertad negativa (no interferencia) está garantizada, pero su libertad positiva (capacidad real de ejercer la opción) está limitada.
+    **Retroalimentación:** La distinción permite ver que una opción puede estar permitida sin ser realmente accesible.
 
 14. *(Verdadero o falso — desafiante)* Un consecuencialista, por definición,
     jamás podría oponerse a una acción que produce placer inmediato a
@@ -587,28 +485,13 @@ pensar tu propia vida y la sociedad en la que vives.
     mediano o largo plazo) resultan negativas en el balance general de
     bienestar.
 
-15. *(Análisis de argumento — desafiante)* Considera el siguiente caso
-    clásico: un hospital tiene cinco pacientes que morirán sin trasplantes
-    de distintos órganos, y un paciente sano que, sin saberlo, es
-    compatible con los cinco. Alguien argumenta: "Sería correcto sacrificar
-    al paciente sano en secreto para salvar a los cinco, porque así se
-    salvan más vidas en total." Evalúa este argumento desde una perspectiva
-    consecuencialista y desde una perspectiva deontológica, sin inclinarte
-    por ninguna.
-    **Respuesta esperada:** Desde una perspectiva consecuencialista estricta
-    centrada solo en el resultado numérico, salvar cinco vidas a costa de
-    una podría parecer preferible en términos de bienestar agregado; sin
-    embargo, muchos consecuencialistas objetarían que institucionalizar esta
-    práctica generaría desconfianza generalizada en los hospitales,
-    empeorando el bienestar social a largo plazo. Desde una perspectiva
-    deontológica, el argumento es claramente inaceptable porque trata al
-    paciente sano meramente como un medio (un "banco de órganos") para
-    salvar a otros, violando su derecho a no ser dañado deliberadamente sin
-    su consentimiento, independientemente del resultado numérico.
-    **Retroalimentación:** Se evalúa que el estudiante aplique ambos marcos
-    con matices (no solo la versión más simplista del consecuencialismo) y
-    muestre que el caso ilustra por qué muchas personas encuentran
-    intuitivamente problemático un cálculo puramente agregado de bienestar.
+15. *(Varias correctas — Análisis de argumento — desafiante)* Un hospital tiene cinco pacientes que morirán sin trasplantes y un paciente sano compatible con todos. Alguien argumenta: "Sería correcto sacrificar en secreto al paciente sano para salvar a los cinco." ¿Qué evaluaciones aplican los marcos con matices? Marca **todas** las correctas.
+    a) Un consecuencialismo centrado solo en el número podría preferir salvar cinco vidas, pero muchos consecuencialistas objetarían que esa práctica generaría desconfianza en los hospitales y empeoraría el bienestar a largo plazo
+    b) Desde la deontología, el argumento es inaceptable porque trata al paciente sano como mero medio y viola su derecho a no ser dañado sin consentimiento
+    c) Todo consecuencialista aprobaría el sacrificio sin ninguna objeción posible
+    d) La deontología lo aprobaría porque se salvan más vidas
+    **Respuesta correcta:** a y b.
+    **Retroalimentación:** El caso ilustra por qué muchas personas encuentran problemático un cálculo puramente agregado del bienestar; no basta con la versión más simplista del consecuencialismo.
 
 ---
 
@@ -685,51 +568,45 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
 **Banco de autoevaluación**
 
 1. *(Alternativas — simple)* En un texto filosófico, ¿qué es la "tesis"?
-   a) Un dato estadístico aislado.
-   b) La afirmación central que el autor defiende y busca sostener con
+   a) Un dato estadístico aislado que el autor cita para comenzar el texto.
+   b) Una falacia que el autor comete sin darse cuenta al argumentar.
+   c) La afirmación central que el autor defiende y busca sostener con
       argumentos.
-   c) Una falacia que el autor comete sin darse cuenta.
-   d) Una cita de otro filósofo.
-   **Respuesta correcta:** b.
+   d) Una cita de otro filósofo que el autor usa para cerrar su texto.
+   **Respuesta correcta:** c.
    **Retroalimentación:** La tesis es el núcleo de la posición defendida;
    los argumentos, razones, garantías y evidencia existen para sostenerla, y
    los contraargumentos son las objeciones que un interlocutor podría
    oponerle.
 
-2. *(Análisis estructural — intermedio)* Analiza estos argumentos ficticios: A: «Toda norma justa respeta la igual dignidad; esta norma es justa; por tanto, respeta la igual dignidad». B: «En tres reuniones del curso, los turnos aumentaron la participación; conviene mantenerlos porque amplían la participación». Clasifica cada uno como deductivo o inductivo y evalúa su fuerza. Reconstruye en B tesis, razón, evidencia y una garantía normativa; propone una objeción.
-   **Respuesta esperada:** A es deductivo válido por su forma, sin que ello pruebe la verdad de sus premisas. B es inductivo: los tres casos apoyan una conclusión provisional, pero pueden no representar otras reuniones. Tesis: mantener turnos; razón: amplían participación; evidencia: las tres reuniones; garantía reconstruida: favorecer participación sin exclusión es una razón democrática para mantener una medida. Objeción: habría que comprobar que no impidan intervenciones urgentes.
-   **Criterios manuales:** Completo: distingue ambos tipos, evalúa necesidad/probabilidad y premisas/muestra, identifica los cuatro elementos y una objeción pertinente. Parcial: análisis correcto pero incompleto. Insuficiente: solo etiquetas sin sustento o confunde garantía con dato. Aceptar reconstrucciones equivalentes consistentes; no exigir las palabras del modelo.
+2. *(Varias correctas — Análisis estructural — intermedio)* A: «Toda norma justa respeta la igual dignidad; esta norma es justa; por tanto, respeta la igual dignidad». B: «En tres reuniones del curso, los turnos aumentaron la participación; conviene mantenerlos porque amplían la participación». ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
+   a) A es deductivo: su forma es válida, aunque eso no prueba que sus premisas sean verdaderas
+   b) B es inductivo: tres casos apoyan una conclusión provisional que podría no valer para otras reuniones
+   c) En B, la evidencia son las tres reuniones y la tesis es mantener los turnos
+   d) A es inductivo porque habla de normas justas
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Un argumento deductivo válido garantiza la conclusión si las premisas son verdaderas; uno inductivo solo la hace probable, según la representatividad de la muestra. Una objeción pertinente a B sería comprobar que los turnos no impidan intervenciones urgentes.
 
 3. *(Identificar falacia — simple)* "No hay que escuchar la crítica de ese
    columnista al sistema educativo, si ni siquiera terminó la universidad."
    ¿Qué falacia se comete?
-   a) Falsa dicotomía.
-   b) Ad hominem.
+   a) Ad hominem.
+   b) Falsa dicotomía.
    c) Pendiente resbaladiza.
    d) Generalización apresurada.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** a.
    **Retroalimentación:** Se ataca la credibilidad de la persona
    (no terminó la universidad) en vez de examinar la calidad de sus
    argumentos sobre el sistema educativo; ambas cosas son lógicamente
    independientes.
 
-4. *(Análisis de argumento — intermedio)* Evalúa el siguiente argumento e
-   identifica su supuesto no explícito: "Si permitimos que los estudiantes
-   usen calculadora en la prueba de Matemática, pronto vamos a permitir que
-   usen inteligencia artificial para escribir todos sus ensayos, y
-   terminaremos sin que nadie aprenda a pensar por sí mismo."
-   **Respuesta esperada:** El argumento comete una falacia de **pendiente
-   resbaladiza**: asume, sin justificarlo, que permitir un uso acotado de
-   una herramienta (calculadora en una prueba específica) desencadenará
-   inevitablemente una cadena de consecuencias cada vez más extremas, sin
-   ofrecer evidencia de que ese encadenamiento sea necesario. El supuesto no
-   explícito es que no existe ninguna forma de regular el uso de
-   herramientas de manera diferenciada según el contexto o la habilidad que
-   se busca evaluar.
-   **Retroalimentación:** Se evalúa que el estudiante identifique
-   correctamente el nombre de la falacia y explique por qué la cadena de
-   consecuencias no está justificada, no solo que la encuentre
-   "exagerada".
+4. *(Alternativas — Análisis de argumento — intermedio)* "Si permitimos que los estudiantes usen calculadora en la prueba de Matemática, pronto vamos a permitir que usen inteligencia artificial para escribir todos sus ensayos, y terminaremos sin que nadie aprenda a pensar por sí mismo." ¿Qué falacia comete y cuál es su supuesto no explícito?
+   a) Pendiente resbaladiza; supone que no existe forma de regular el uso de herramientas según el contexto o la habilidad evaluada
+   b) Ad hominem; supone que el profesor que permite la calculadora es mala persona y no le importa el aprendizaje
+   c) Generalización apresurada; supone que todos los estudiantes son iguales y usarán la tecnología de la misma forma
+   d) No comete falacia: la cadena de consecuencias está demostrada por lo que ya ocurre en otros colegios del país
+   **Respuesta correcta:** a) Pendiente resbaladiza; supone que no existe forma de regular el uso de herramientas según el contexto o la habilidad evaluada.
+   **Retroalimentación:** El argumento asume, sin evidencia, que un uso acotado desencadenará inevitablemente consecuencias cada vez más extremas.
 
 5. *(Alternativas — intermedio)* Un argumento afirma: "El 90% de los
    filósofos consultados en una encuesta informal de redes sociales opina
@@ -738,9 +615,9 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
    a) Es una apelación a la autoridad mal fundamentada (una encuesta
       informal no es garantía de verdad filosófica) y una generalización
       apresurada sobre la muestra.
-   b) Es un argumento perfectamente válido y bien fundamentado.
-   c) Comete la falacia ad hominem.
-   d) No tiene ningún problema porque cita una fuente numérica.
+   b) Es un argumento perfectamente válido y bien fundamentado, porque la mayoría de los filósofos consultados coincide en la conclusión.
+   c) Comete la falacia ad hominem, porque descalifica a quienes creen en el libre albedrío en vez de examinar sus razones.
+   d) No tiene ningún problema, porque cita una fuente numérica precisa y los porcentajes no pueden ser discutidos por nadie.
    **Respuesta correcta:** a.
    **Retroalimentación:** Que muchas personas —incluso expertos— opinen
    algo no lo hace verdadero por sí solo (apelación a la autoridad sin
@@ -748,21 +625,13 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
    es una muestra poco confiable para generalizar sobre el consenso experto
    real.
 
-6. *(Desarrollo breve — intermedio)* Toma el siguiente fragmento y
-   reconstruye su tesis, un argumento a favor y un posible contraargumento:
-   "La filosofía debería ser obligatoria hasta el final del colegio, porque
-   entrena habilidades de pensamiento crítico que ninguna otra asignatura
-   entrena de la misma forma."
-   **Respuesta esperada:** Tesis: la filosofía debería seguir siendo
-   obligatoria hasta 4° medio. Argumento: desarrolla habilidades de
-   pensamiento crítico específicas y no replicadas por otras asignaturas.
-   Contraargumento posible: otras asignaturas (Lenguaje, Historia) también
-   desarrollan pensamiento crítico y análisis de argumentos, por lo que la
-   exclusividad de la filosofía en ese rol es discutible.
-   **Retroalimentación:** Se evalúa que el estudiante distinga
-   correctamente los tres elementos estructurales (tesis, argumento,
-   contraargumento) y que el contraargumento propuesto sea filosóficamente
-   pertinente, no una simple negación.
+6. *(Alternativas — Estructura argumentativa — intermedio)* "La filosofía debería ser obligatoria hasta el final del colegio, porque entrena habilidades de pensamiento crítico que ninguna otra asignatura entrena de la misma forma." ¿Qué contraargumento es pertinente, y no una simple negación de la tesis?
+   a) La filosofía no debería ser obligatoria porque no, y los estudiantes deberían poder elegir sin dar razones
+   b) La filosofía es aburrida para algunos estudiantes, que preferirían tener más horas de otras asignaturas
+   c) El pensamiento crítico entrena habilidades de pensamiento crítico, así que la filosofía, que entrena pensamiento crítico, entrena habilidades de pensamiento crítico
+   d) Otras asignaturas (Lenguaje, Historia) también desarrollan pensamiento crítico y análisis de argumentos, así que la exclusividad de la filosofía en ese rol es discutible
+   **Respuesta correcta:** d) Otras asignaturas (Lenguaje, Historia) también desarrollan pensamiento crítico y análisis de argumentos, así que la exclusividad de la filosofía en ese rol es discutible.
+   **Retroalimentación:** La tesis es que la filosofía debe ser obligatoria hasta 4° medio y el argumento es que entrena habilidades no replicadas; el contraargumento pertinente ataca esa premisa de exclusividad.
 
 7. *(Verdadero o falso — desafiante)* Apelar al "sentido común" en un
    argumento filosófico es siempre una forma válida y suficiente de
@@ -775,37 +644,22 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
    intuición de que la Tierra es plana), por lo que debe complementarse con
    otros referentes, no usarse como comodín.
 
-8. *(Análisis de argumento — desafiante)* Lee el siguiente texto y evalúa su
-   validez, identifica al menos una falacia si existe, y señala qué tipo de
-   referente (teórico, empírico o de sentido común) usa cada premisa: "Un
-   estudio de una universidad extranjera mostró que los estudiantes que
-   usan redes sociales más de 4 horas diarias tienen peor rendimiento
-   académico (premisa 1, referente empírico). Además, es evidente para
-   cualquiera que pasar mucho tiempo distraído perjudica la concentración
-   (premisa 2, sentido común). Por lo tanto, las redes sociales deberían
-   prohibirse completamente en los colegios (conclusión)."
-   **Respuesta esperada:** Las premisas están razonablemente fundamentadas
-   (una con referente empírico, otra con sentido común razonado), pero la
-   conclusión —prohibición completa— es más extrema de lo que las premisas
-   realmente sostienen: de que un uso excesivo (más de 4 horas) se asocie a
-   peor rendimiento no se sigue lógicamente que deba prohibirse todo uso en
-   el colegio, incluyendo usos moderados o educativos. Hay una especie de
-   salto argumentativo (generalización apresurada de la evidencia hacia una
-   medida extrema) entre las premisas y la conclusión.
-   **Retroalimentación:** Se evalúa que el estudiante distinga
-   correctamente el tipo de referente de cada premisa y detecte que, aunque
-   las premisas tengan algún respaldo, la conclusión no se sigue
-   necesariamente de ellas —un problema de la estructura del argumento, no
-   solo de sus contenidos.
+8. *(Varias correctas — Análisis de argumento — desafiante)* "Un estudio de una universidad extranjera mostró que los estudiantes que usan redes sociales más de 4 horas diarias tienen peor rendimiento (premisa 1). Además, es evidente que pasar mucho tiempo distraído perjudica la concentración (premisa 2). Por lo tanto, las redes sociales deberían prohibirse completamente en los colegios." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
+   a) La premisa 1 usa un referente empírico y la premisa 2, uno de sentido común
+   b) La conclusión es más extrema de lo que sostienen las premisas: de un uso excesivo asociado a peor rendimiento no se sigue prohibir todo uso, incluido el moderado o educativo
+   c) Hay un salto argumentativo entre las premisas y la conclusión
+   d) El argumento es deductivamente válido y la conclusión se sigue necesariamente
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Aunque las premisas tengan respaldo, la conclusión no se sigue necesariamente de ellas: es un problema de estructura, no solo de contenido.
 
 9. *(Identificar falacia — simple)* "O apoyas la construcción de la nueva
    cárcel en la comuna, o en el fondo no te importa nada la seguridad de tus
    vecinos." ¿Qué falacia se comete en este argumento?
-   a) Ad hominem.
+   a) Ad hominem: se ataca a quien no apoya la cárcel en lugar de discutir las razones a favor o en contra de construirla en la comuna.
    b) Falsa dicotomía: se presentan solo dos opciones extremas cuando
       existen posturas intermedias (por ejemplo, apoyar otras medidas de
       seguridad sin apoyar esa cárcel en particular).
-   c) Pendiente resbaladiza.
+   c) Pendiente resbaladiza: se afirma que no apoyar la cárcel llevará inevitablemente a una cadena de consecuencias extremas para la seguridad de los vecinos y de toda la comuna.
    d) Apelación a la autoridad.
    **Respuesta correcta:** b.
    **Retroalimentación:** El argumento obliga a elegir entre dos polos
@@ -828,8 +682,8 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
     guía, no de sus consecuencias; por lo tanto, mentir por una buena
     intención sigue siendo moralmente problemático", la primera parte del
     argumento (lo que dice Kant) es un ejemplo de referente:
-    a) Empírico.
-    b) De sentido común.
+    a) Empírico (se apela a datos de un experimento o estudio).
+    b) De sentido común (se apela a lo que todos saben).
     c) Teórico (se apela a una teoría filosófica reconocida y a su autor).
     d) Ninguno de los anteriores, es solo una opinión personal.
     **Respuesta correcta:** c.
@@ -838,48 +692,30 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
     un uso de referente teórico, distinto de apoyarse en datos verificables
     (empírico) o en intuiciones ampliamente compartidas (sentido común).
 
-12. *(Análisis de caso — intermedio)* Evalúa el siguiente argumento e
-    identifica la falacia principal que comete: "Conocí a dos personas
-    veganas que trataban muy mal a los demás en las redes sociales; por lo
-    tanto, todas las personas veganas son agresivas e intolerantes."
-    **Respuesta esperada:** El argumento comete una **generalización
-    apresurada**: extrae una conclusión general sobre un grupo completo
-    (todas las personas veganas) a partir de una muestra mínima y no
-    representativa (dos personas observadas en un contexto particular,
-    redes sociales, donde el comportamiento suele ser más agresivo en
-    general). No hay ninguna relación lógica necesaria entre seguir una
-    dieta vegana y tener una determinada forma de tratar a los demás.
-    **Retroalimentación:** Se evalúa que el estudiante identifique
-    correctamente el nombre de la falacia y explique por qué la muestra es
-    insuficiente y no representativa para sostener la conclusión general.
+12. *(Alternativas — Análisis de caso — intermedio)* "Conocí a dos personas veganas que trataban muy mal a los demás en las redes sociales; por lo tanto, todas las personas veganas son agresivas e intolerantes." ¿Qué falacia comete principalmente?
+    a) Pendiente resbaladiza: anticipa consecuencias extremas a partir de un caso
+    b) Generalización apresurada: concluye sobre todo un grupo a partir de una muestra mínima y no representativa
+    c) Falso dilema
+    d) Apelación a la autoridad: se apoya en la opinión de dos personas conocidas que se comportaron mal en las redes sociales
+    **Respuesta correcta:** b) Generalización apresurada: concluye sobre todo un grupo a partir de una muestra mínima y no representativa.
+    **Retroalimentación:** Dos personas observadas en un contexto particular no bastan para una conclusión general, y no hay relación lógica necesaria entre una dieta y el trato a los demás.
 
-13. *(Desarrollo breve — intermedio)* Toma el siguiente fragmento y
-    reconstruye su tesis, un argumento a favor y un posible contraargumento:
-    "El consumo de marihuana con fines recreativos debería regularse y no
-    perseguirse penalmente, porque la evidencia muestra que la
-    criminalización no reduce su consumo y sí satura el sistema judicial con
-    casos menores."
-    **Respuesta esperada:** Tesis: el consumo recreativo de marihuana
-    debería regularse en vez de perseguirse penalmente. Argumento: la
-    evidencia disponible indica que la penalización no reduce
-    efectivamente el consumo y, en cambio, sobrecarga innecesariamente al
-    sistema judicial. Contraargumento posible: regular el consumo podría
-    interpretarse como enviar un mensaje social de aceptación que aumente
-    el consumo entre menores de edad, o generar problemas de salud pública
-    que la regulación no logre controlar adecuadamente.
-    **Retroalimentación:** Se evalúa que el estudiante distinga
-    correctamente los tres elementos estructurales (tesis, argumento,
-    contraargumento) y que el contraargumento propuesto sea filosóficamente
-    pertinente, no una simple negación de la tesis.
+13. *(Alternativas — Estructura argumentativa — intermedio)* "El consumo de marihuana con fines recreativos debería regularse y no perseguirse penalmente, porque la evidencia muestra que la criminalización no reduce su consumo y sí satura el sistema judicial con casos menores." ¿Qué reconstrucción es correcta?
+    a) Tesis: el sistema judicial está saturado con casos menores. Argumento: hay que regular la marihuana. Contraargumento: la marihuana existe y se consume en todo el mundo, aunque sea ilegal desde hace siglos en Chile
+    b) Tesis: la criminalización reduce el consumo de marihuana en adultos y menores. Argumento: la evidencia de los tribunales. Contraargumento: no hay, porque la evidencia es concluyente
+    c) Tesis: regular en vez de perseguir penalmente. Argumento: la penalización no reduce el consumo y sobrecarga al sistema judicial. Contraargumento: regular podría percibirse como aceptación social y aumentar el consumo en menores
+    d) Tesis, argumento y contraargumento dicen lo mismo
+    **Respuesta correcta:** c) Tesis: regular en vez de perseguir penalmente. Argumento: la penalización no reduce el consumo y sobrecarga al sistema judicial. Contraargumento: regular podría percibirse como aceptación social y aumentar el consumo en menores.
+    **Retroalimentación:** Hay que distinguir los tres elementos estructurales; el contraargumento pertinente objeta la tesis con una razón, no con una simple negación.
 
 14. *(Alternativas — desafiante)* Un argumento es deductivamente válido y,
     además, todas sus premisas son efectivamente verdaderas. En lógica, a
     ese tipo de argumento se le llama:
-    a) Argumento falaz.
+    a) Argumento falaz: aunque sus premisas sean verdaderas, la validez deductiva no garantiza que la conclusión quede demostrada.
     b) Argumento sólido (*sound*): válido en su estructura y con premisas
        verdaderas, por lo que su conclusión queda efectivamente
        demostrada.
-    c) Argumento inductivo débil.
+    c) Argumento inductivo fuerte: sus premisas verdaderas hacen muy probable la conclusión, aunque no la demuestran de manera definitiva.
     d) Argumento circular.
     **Respuesta correcta:** b.
     **Retroalimentación:** La validez por sí sola solo garantiza la
@@ -887,24 +723,13 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
     el argumento se llama sólido, y es este tipo de argumento el que
     realmente demuestra su conclusión, no solo la validez aislada.
 
-15. *(Análisis de argumento — desafiante)* Evalúa el siguiente texto,
-    identificando al menos dos falacias distintas: "No deberíamos escuchar
-    las críticas de esa activista sobre la ley de vigilancia digital,
-    porque ni siquiera estudió leyes (1). Además, si empezamos a limitar
-    la vigilancia estatal aunque sea un poco, en pocos años el país quedará
-    completamente indefenso frente al crimen organizado (2)."
-    **Respuesta esperada:** La primera parte comete una falacia **ad
-    hominem**: descalifica a la activista por su falta de estudios formales
-    en leyes, sin evaluar el contenido específico de su crítica, que podría
-    ser válida independientemente de su formación. La segunda parte comete
-    una falacia de **pendiente resbaladiza**: afirma, sin evidencia, que
-    limitar la vigilancia "aunque sea un poco" desencadenará
-    inevitablemente un escenario extremo (indefensión total), ignorando la
-    posibilidad de límites intermedios y regulados.
-    **Retroalimentación:** Se evalúa que el estudiante identifique
-    correctamente ambas falacias por su nombre y explique el mecanismo
-    específico de cada una (atacar a la persona en vez del argumento;
-    exagerar una cadena de consecuencias sin justificación).
+15. *(Varias correctas — Análisis de argumento — desafiante)* "No deberíamos escuchar las críticas de esa activista sobre la ley de vigilancia digital, porque ni siquiera estudió leyes (1). Además, si empezamos a limitar la vigilancia estatal aunque sea un poco, en pocos años el país quedará completamente indefenso frente al crimen organizado (2)." ¿Qué falacias comete? Marca **todas** las correctas.
+    a) (1) ad hominem: descalifica a la persona en vez de evaluar el contenido de su crítica
+    b) (2) pendiente resbaladiza: afirma sin evidencia que un límite pequeño llevará inevitablemente a un escenario extremo
+    c) (1) generalización apresurada: concluye a partir de una muestra pequeña
+    d) (2) apelación a la autoridad: cita a un experto reconocido
+    **Respuesta correcta:** a y b.
+    **Retroalimentación:** Atacar a la persona en vez del argumento y exagerar una cadena de consecuencias sin justificación son mecanismos distintos.
 
 ---
 
@@ -971,11 +796,11 @@ presentación) para comunicar esas ideas.
 1. *(Alternativas — simple)* El debate sobre si una inteligencia artificial
    conversacional "realmente piensa" o solo simula pensar corresponde,
    principalmente, a un problema de:
-   a) Ética aplicada.
+   a) Ética aplicada (si es correcto usar este tipo de tecnología).
    b) Ontología (qué tipo de entidad es, si tiene o no una mente o
       experiencia).
-   c) Lógica formal exclusivamente.
-   d) Estética.
+   c) Lógica formal exclusivamente (si sus respuestas son válidas).
+   d) Estética (si las respuestas de la IA son bellas o creativas).
    **Respuesta correcta:** b.
    **Retroalimentación:** Preguntarse qué tipo de entidad es algo y si
    posee o no ciertas propiedades (como una mente) es, en su núcleo, una
@@ -993,50 +818,32 @@ presentación) para comunicar esas ideas.
    razonada (criticismo) sigue siendo la herramienta más precisa para
    analizar cómo nos relacionamos con la información hoy.
 
-3. *(Clasificar — simple)* Clasifica cada fenómeno actual según la rama
-   filosófica que permite analizarlo mejor: ontología (O), epistemología
-   (E) o ética (É). (i) Debate sobre si un algoritmo de contratación laboral
-   discrimina injustamente a ciertos grupos. (ii) Discusión sobre si una
-   copia digital perfecta de una obra de arte es "la misma obra" que el
-   original. (iii) Análisis de por qué ciertas comunidades desconfían
-   sistemáticamente de la evidencia científica sobre el cambio climático.
-   **Respuesta correcta:** (i) É, (ii) O, (iii) E.
-   **Retroalimentación:** Cada fenómeno actual puede analizarse con
-   distintas herramientas filosóficas según la pregunta de fondo que
-   plantea: justicia y trato debido (ética), identidad y naturaleza de un
-   objeto (ontología), o justificación y confianza en el conocimiento
-   (epistemología).
+3. *(Alternativas — Clasificar — simple)* Clasifica cada fenómeno según la rama filosófica que permite analizarlo mejor: ontología (O), epistemología (E) o ética (É). (i) Debate sobre si un algoritmo de contratación laboral discrimina injustamente a ciertos grupos. (ii) Discusión sobre si una copia digital perfecta de una obra de arte es "la misma obra" que el original. (iii) Análisis de por qué ciertas comunidades desconfían sistemáticamente de la evidencia científica sobre el cambio climático. ¿Qué clasificación es correcta?
+   a) (i) É, (ii) O, (iii) E
+   b) (i) O, (ii) É, (iii) E
+   c) (i) E, (ii) O, (iii) É
+   d) (i) É, (ii) E, (iii) O
+   **Respuesta correcta:** a) (i) É, (ii) O, (iii) E.
+   **Retroalimentación:** Justicia y trato debido (ética), identidad y naturaleza de un objeto (ontología), justificación y confianza en el conocimiento (epistemología).
 
-4. *(Análisis de caso — intermedio)* El trabajo remoto, normalizado tras la
-   pandemia, ha generado debate sobre sus efectos en la vida familiar y
-   personal. Relaciona este fenómeno con al menos un concepto ético visto
-   en el OA 2 (justicia, libertad o igualdad).
-   **Respuesta esperada:** El trabajo remoto puede analizarse desde la
-   libertad positiva: para algunas personas amplía su capacidad real de
-   organizar su tiempo y conciliar trabajo con vida familiar (más
-   condiciones reales para desarrollar su proyecto de vida); para otras,
-   puede desdibujar los límites entre trabajo y descanso, reduciendo en la
-   práctica su libertad efectiva pese a la aparente flexibilidad formal.
-   También puede analizarse desde la igualdad: no todos los trabajos ni
-   todas las personas tienen las mismas condiciones (espacio en el hogar,
-   responsabilidades de cuidado) para aprovechar esa modalidad de manera
-   equitativa.
-   **Retroalimentación:** Se evalúa que el estudiante relacione
-   correctamente el fenómeno actual con un concepto filosófico específico
-   (no solo mencionarlo de pasada) y argumente la conexión con al menos un
-   ejemplo concreto.
+4. *(Varias correctas — Análisis de caso — intermedio)* El trabajo remoto, normalizado tras la pandemia, ha generado debate sobre sus efectos en la vida familiar y personal. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
+   a) Libertad positiva: para algunas personas amplía la capacidad real de organizar su tiempo y conciliar trabajo y familia
+   b) Libertad efectiva: para otras desdibuja los límites entre trabajo y descanso, reduciendo su libertad pese a la flexibilidad formal
+   c) Igualdad: no todas las personas tienen las mismas condiciones (espacio, cuidados) para aprovechar esa modalidad
+   d) No tiene relación con la ética, porque es solo un tema técnico
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Se trata de conectar el fenómeno con un concepto específico y argumentar con un ejemplo concreto, no solo mencionarlo de pasada.
 
 5. *(Alternativas — intermedio)* Un artista genera una obra usando
    inteligencia artificial a partir de un texto (prompt) que escribió. Un
    crítico sostiene que "eso no es arte real, porque no hay creación
    humana genuina detrás." ¿Qué tipo de pregunta filosófica plantea
    principalmente esta discusión?
-   a) Una pregunta puramente técnica sobre cómo funciona el algoritmo.
+   a) Una pregunta puramente técnica sobre cómo funciona el algoritmo y qué tan bien interpreta el texto escrito por el usuario.
    b) Una pregunta ontológica y ética sobre qué constituye la autoría y la
       creatividad, y qué reconocimiento moral o legal merece ese proceso.
    c) Una pregunta sin ninguna relevancia filosófica.
-   d) Una pregunta exclusivamente de gustos personales sobre si la obra es
-      bonita.
+   d) Una pregunta exclusivamente de gustos personales sobre si la obra es bonita, que cada espectador responde según su sensibilidad.
    **Respuesta correcta:** b.
    **Retroalimentación:** El debate sobre la IA generativa en el arte
    combina una pregunta ontológica (qué es la creación o la autoría) con
@@ -1044,18 +851,13 @@ presentación) para comunicar esas ideas.
    a quien usa estas herramientas), más allá del gusto estético particular
    de cada obra.
 
-6. *(Desarrollo breve — intermedio)* Elige un fenómeno actual de tu interés
-   (tecnología, trabajo, política o arte) y explica, en un párrafo breve,
-   cómo una idea filosófica de ontología, epistemología o ética permite
-   comprenderlo mejor.
-   **Respuesta esperada:** Respuesta personal y coherente; por ejemplo,
-   vincular el fenómeno de los "deepfakes" (videos falsos generados por
-   IA) con el problema epistemológico de cómo justificar creencias cuando
-   la evidencia visual —tradicionalmente confiable— deja de ser prueba
-   segura de que algo ocurrió realmente.
-   **Retroalimentación:** Se evalúa que el estudiante identifique
-   correctamente la rama filosófica pertinente y argumente la relación con
-   el fenómeno elegido, no solo mencione ambos elementos sin conectarlos.
+6. *(Alternativas — Fenómeno actual — intermedio)* Los "deepfakes" (videos falsos generados por IA) imitan de forma realista a personas reales. ¿Qué problema filosófico permite comprender mejor este fenómeno?
+   a) El problema estético de si los videos tienen buena resolución y una imitación realista, y si pueden considerarse obras de arte audiovisual
+   b) Ninguno: es solo un asunto técnico de computación, que se resuelve con programas capaces de detectar los videos falsos automáticamente y profesionales
+   c) El problema de cuánto cuesta producir un video
+   d) El problema epistemológico de cómo justificar creencias cuando la evidencia visual, tradicionalmente confiable, deja de ser prueba segura de que algo ocurrió
+   **Respuesta correcta:** d) El problema epistemológico de cómo justificar creencias cuando la evidencia visual, tradicionalmente confiable, deja de ser prueba segura de que algo ocurrió.
+   **Retroalimentación:** Identificar la rama pertinente (aquí, epistemología) y argumentar la conexión con el fenómeno es lo que distingue un análisis filosófico.
 
 7. *(Verdadero o falso — desafiante)* Argumentar que las ideas filosóficas
    "influyen" en fenómenos actuales significa afirmar que esos fenómenos no
@@ -1069,37 +871,22 @@ presentación) para comunicar esas ideas.
    específicamente, herramientas conceptuales para analizarlos con mayor
    claridad, no una explicación causal exclusiva y total.
 
-8. *(Análisis de argumento — desafiante)* Una persona sostiene: "Da lo
-   mismo si tratamos a una inteligencia artificial avanzada con
-   consideración moral o no, porque de todas formas no es un ser humano."
-   Presenta una postura filosófica que cuestione este argumento, y otra que
-   lo respalde, sin inclinarte por ninguna.
-   **Respuesta esperada:** Postura que cuestiona el argumento: si lo que
-   otorga estatus moral no es "ser humano" en sentido biológico sino
-   ciertas capacidades (por ejemplo, la posibilidad de sufrir o tener
-   experiencias, un criterio ético usado también para discutir el estatus
-   moral de los animales), entonces habría que examinar primero si una IA
-   posee o no esas capacidades antes de descartarla, en vez de asumir que
-   "no ser humano" resuelve la pregunta de plano. Postura que respalda el
-   argumento: mientras no exista evidencia de que una IA tiene experiencia
-   subjetiva real (y no solo un comportamiento que la simula), extenderle
-   consideración moral podría ser una confusión ontológica —atribuir
-   experiencia interior donde solo hay procesamiento de información sin
-   sujeto que experimente nada.
-   **Retroalimentación:** Se evalúa que el estudiante articule con
-   coherencia ambas posturas, mostrando que el debate cruza una pregunta
-   ontológica (qué es la IA, si tiene o no experiencia) con una pregunta
-   ética (qué otorga estatus moral), sin resolver el dilema de forma
-   dogmática.
+8. *(Varias correctas — Análisis de argumento — desafiante)* "Da lo mismo si tratamos a una inteligencia artificial avanzada con consideración moral o no, porque de todas formas no es un ser humano." ¿Qué posturas filosóficas son coherentes (una que lo cuestiona y otra que lo respalda)? Marca **todas** las correctas.
+   a) Lo cuestiona: si el estatus moral depende de capacidades como sufrir o tener experiencias, y no de ser humano en sentido biológico, habría que examinar si la IA las posee antes de descartarla
+   b) Lo respalda: mientras no haya evidencia de experiencia subjetiva real, extenderle consideración moral podría ser atribuir experiencia donde solo hay procesamiento de información
+   c) Lo cuestiona: toda máquina es moralmente igual a una persona por definición
+   d) Lo respalda: nada que no sea humano puede tener jamás ningún estatus moral, ni siquiera los animales
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** El debate cruza una pregunta ontológica (qué es la IA, si tiene experiencia) con una ética (qué otorga estatus moral), sin resolverlo de forma dogmática.
 
 9. *(Alternativas — simple)* Ciertos grupos rechazan sistemáticamente la
    evidencia científica sobre el cambio climático, aferrándose a una
    postura fija sin importar qué nueva evidencia se les presente. ¿Qué
    concepto epistemológico permite nombrar y analizar mejor esta actitud?
-   a) Dualismo.
+   a) Dualismo: separar la mente del cuerpo al evaluar la evidencia.
    b) Dogmatismo: sostener una creencia como cerrada y no sujeta a
       revisión, pese a la evidencia disponible.
-   c) Utilitarismo.
+   c) Utilitarismo: aceptar la postura que produce más bienestar general, aunque contradiga la evidencia disponible.
    d) Libertad positiva.
    **Respuesta correcta:** b.
    **Retroalimentación:** Rechazar sistemáticamente nueva evidencia y
@@ -1120,35 +907,25 @@ presentación) para comunicar esas ideas.
     consiste en relacionar esos conceptos con el fenómeno nuevo, no en
     descartarlos y partir de cero.
 
-11. *(Análisis de caso — intermedio)* Un sistema de reconocimiento facial se
-    instala en espacios públicos para identificar automáticamente a las
-    personas que circulan por la calle. Relaciona este fenómeno con al menos
-    un concepto ético (justicia, libertad o igualdad) revisado en el OA 2.
-    **Respuesta esperada:** El caso puede analizarse desde la libertad
-    negativa: la vigilancia constante puede sentirse como una forma de
-    coerción o vigilancia que limita la libertad de circular sin ser
-    monitoreado. También puede analizarse desde la justicia: si el sistema
-    tiene sesgos que identifican erróneamente con más frecuencia a ciertos
-    grupos (por ejemplo, según etnia o género), la carga del error no se
-    distribuye igual entre todos, lo que plantea un problema de justicia
-    distributiva en los riesgos y beneficios de la tecnología.
-    **Retroalimentación:** Se evalúa que el estudiante relacione
-    correctamente el fenómeno tecnológico actual con un concepto ético
-    específico (no solo mencionarlo) y argumente la conexión con un ejemplo
-    concreto.
+11. *(Varias correctas — Análisis de caso — intermedio)* Un sistema de reconocimiento facial se instala en espacios públicos para identificar automáticamente a quienes circulan por la calle. ¿Qué análisis vinculan correctamente el fenómeno con conceptos éticos del OA 2? Marca **todas** las correctas.
+    a) Libertad negativa: la vigilancia constante puede funcionar como una forma de coerción que limita circular sin ser monitoreado
+    b) Justicia distributiva: si el sistema tiene sesgos que identifican erróneamente con más frecuencia a ciertos grupos, la carga del error no se distribuye igual
+    c) No hay problema ético, porque la tecnología es neutral por definición
+    d) El caso solo plantea un problema de costos para el municipio
+    **Respuesta correcta:** a y b.
+    **Retroalimentación:** Relacionar el fenómeno con un concepto específico exige argumentar la conexión, no solo mencionarlo.
 
 12. *(Alternativas — intermedio)* Alguien compra una obra de arte digital
     única (un archivo con un certificado de propiedad asociado), aunque
     cualquier persona pueda ver o copiar visualmente esa misma imagen en
     internet. ¿Qué tipo de pregunta filosófica plantea principalmente esta
     situación?
-    a) Una pregunta puramente técnica sobre cómo funciona la tecnología de
-       registro.
+    a) Una pregunta puramente técnica sobre cómo funciona la tecnología de registro y cómo se asocia el certificado de propiedad al archivo digital.
     b) Una pregunta ontológica sobre qué significa "poseer" o "ser dueño"
        de un objeto digital que puede copiarse infinitamente sin perder
        calidad.
     c) Una pregunta sin ninguna relevancia filosófica, es solo una moda.
-    d) Una pregunta exclusivamente estética sobre si la obra es bonita.
+    d) Una pregunta exclusivamente estética sobre si la obra es bonita y si merece el precio pagado por el certificado único.
     **Respuesta correcta:** b.
     **Retroalimentación:** El caso plantea directamente un problema
     ontológico: los objetos digitales no se comportan como los objetos
@@ -1156,21 +933,13 @@ presentación) para comunicar esas ideas.
     concepto de "propiedad" o "posesión", pensado originalmente para
     objetos físicos escasos, exige ser repensado en este nuevo contexto.
 
-13. *(Desarrollo breve — intermedio)* Elige un fenómeno político actual (por
-    ejemplo, la moderación algorítmica de contenido en redes sociales o las
-    "cámaras de eco") y explica, en un párrafo breve, cómo un concepto
-    epistemológico permite comprenderlo mejor.
-    **Respuesta esperada:** Respuesta personal y coherente; por ejemplo,
-    vincular la moderación algorítmica de contenido político con el
-    problema epistemológico de quién decide qué cuenta como información
-    confiable, y cómo delegar esa decisión en un algoritmo (que puede tener
-    sesgos ocultos en su diseño) plantea nuevas versiones del viejo problema
-    entre dogmatismo (aceptar sin más lo que el algoritmo prioriza) y
-    criticismo (exigir transparencia y contrastar fuentes).
-    **Retroalimentación:** Se evalúa que el estudiante identifique
-    correctamente el concepto epistemológico pertinente y argumente la
-    relación con el fenómeno político elegido, no solo que lo mencione de
-    pasada.
+13. *(Alternativas — Fenómeno político — intermedio)* Las redes sociales usan algoritmos que deciden qué contenido político ve cada persona. ¿Qué concepto epistemológico permite comprender mejor este fenómeno?
+    a) La distinción entre deber y consecuencia, porque el algoritmo debe elegir entre mostrar lo correcto o lo que produce más bienestar a los usuarios de la red social
+    b) La tensión entre dogmatismo (aceptar sin más lo que el algoritmo prioriza) y criticismo (exigir transparencia y contrastar fuentes) ante la pregunta de quién decide qué información es confiable
+    c) El dualismo entre mente y cuerpo
+    d) Ninguno: los algoritmos no tienen relación con el conocimiento, porque solo ordenan el contenido según la popularidad de cada publicación, sin influir en lo que cada persona cree o considera confiable
+    **Respuesta correcta:** b) La tensión entre dogmatismo (aceptar sin más lo que el algoritmo prioriza) y criticismo (exigir transparencia y contrastar fuentes) ante la pregunta de quién decide qué información es confiable.
+    **Retroalimentación:** Delegar en un algoritmo, que puede tener sesgos ocultos, la decisión sobre qué cuenta como información confiable es una nueva versión de un problema epistemológico clásico.
 
 14. *(Verdadero o falso — desafiante)* Toda idea filosófica desarrollada en
     el pasado se aplica de forma idéntica y sin ningún ajuste a cualquier
@@ -1186,28 +955,13 @@ presentación) para comunicar esas ideas.
     analizar algo actual requiere trabajo de relación, no una aplicación
     mecánica.
 
-15. *(Análisis de argumento — desafiante)* Alguien argumenta: "Los datos
-    masivos (*big data*) y los algoritmos han vuelto obsoleta la
-    epistemología: ya no hace falta preguntarse cómo justificar una
-    creencia, porque los algoritmos 'saben' automáticamente qué es
-    verdadero a partir de la cantidad de datos que procesan." Evalúa este
-    argumento usando conceptos epistemológicos.
-    **Respuesta esperada:** El argumento comete una forma de dogmatismo
-    trasladado a la tecnología: atribuye a los algoritmos una autoridad
-    epistémica automática y no sujeta a examen, ignorando que los
-    algoritmos son diseñados por personas, entrenados con datos que pueden
-    contener sesgos, y optimizados para objetivos (como el tiempo de uso o
-    la interacción) que no necesariamente coinciden con la búsqueda de la
-    verdad. Lejos de volver obsoleta la epistemología, la existencia de
-    algoritmos que deciden qué información vemos hace más urgente aplicar
-    una postura crítica: preguntarse cómo se justifican sus resultados, qué
-    supuestos y datos los entrenaron, y si sus conclusiones resisten el
-    contraste con otras fuentes.
-    **Retroalimentación:** Se evalúa que el estudiante identifique el
-    supuesto dogmático detrás del argumento (autoridad automática del
-    algoritmo) y explique por qué, al contrario de lo que afirma el
-    argumento, la epistemología resulta más necesaria, no menos, frente a
-    estos fenómenos.
+15. *(Varias correctas — Análisis de argumento — desafiante)* "Los datos masivos (*big data*) y los algoritmos han vuelto obsoleta la epistemología: ya no hace falta preguntarse cómo justificar una creencia, porque los algoritmos 'saben' automáticamente qué es verdadero a partir de la cantidad de datos que procesan." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
+    a) Es una forma de dogmatismo: atribuye a los algoritmos una autoridad epistémica automática, no sujeta a examen
+    b) Ignora que los algoritmos son diseñados por personas, entrenados con datos que pueden tener sesgos y optimizados para objetivos (como el tiempo de uso) distintos de la verdad
+    c) Lejos de volverla obsoleta, hace más urgente preguntarse cómo se justifican sus resultados y contrastarlos con otras fuentes
+    d) Es correcto: más datos garantizan automáticamente la verdad
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Frente a estos fenómenos, la epistemología resulta más necesaria, no menos.
 
 ---
 

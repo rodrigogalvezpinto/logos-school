@@ -34,8 +34,10 @@ practicar sin presión de tiempo, aunque sí generan una nota al terminar.
    examen simulacro.
 3. **Navegación pregunta a pregunta**: se muestra una pregunta a la vez (no todas juntas),
    con:
-   - El enunciado y, si aplica, las alternativas (checkbox/radio de selección única) o un
-     campo de texto (preguntas de desarrollo/abiertas).
+   - El enunciado y sus alternativas: radio de selección única (alternativas y verdadero/
+     falso) o checkboxes cuando la pregunta dice «marca todas las correctas» (varias
+     correctas). Desde el 2026-11-06 todo el material es cerrado; el campo de texto de
+     desarrollo queda solo como recorrido latente para una reactivación futura.
    - Botones "Anterior" / "Siguiente".
    - Indicador de progreso ("Pregunta 7 de 20") y un mapa de preguntas (miniatura numerada,
      clickeable) que muestra de un vistazo cuáles están respondidas, cuáles no, y cuáles
@@ -61,15 +63,16 @@ practicar sin presión de tiempo, aunque sí generan una nota al terminar.
    examen simulacro — en ese caso se envía lo que esté respondido hasta ese momento, sin
    excepción (así se comporta el examen real; no aplica a pruebas de unidad, que no tienen
    límite de tiempo).
-6. **Corrección automática** de preguntas objetivas (alternativas, verdadero/falso) al
-   instante. Para preguntas de desarrollo/abiertas (frecuentes en Lenguaje, Historia,
-   Filosofía): como no hay Profesor activo en el MVP, el alumno se autoevalúa comparando su
-   respuesta contra la pauta de corrección ya escrita en el contenido (`contenido/{curso}/
-   pruebas/` y `contenido/{curso}/examenes/` ya incluyen pauta completa) — se le muestra su
-   respuesta junto a la pauta esperada y confirma si la considera correcta, parcial o
-   incorrecta. Es una limitación conocida del modo autoestudio, coherente con no tener
-   Profesor en el MVP; no se intenta corrección automática de texto libre por IA en esta
-   etapa (evita falsos positivos/negativos en algo que afecta la nota).
+6. **Corrección automática** de todas las preguntas al instante: alternativas y verdadero/
+   falso por coincidencia con la clave; «varias correctas» **todo o nada** (el punto se
+   obtiene solo si el alumno marca exactamente el conjunto de opciones correctas, sin
+   ninguna incorrecta). **Decisión 2026-11-06:** todo el material de los 12 cursos es de
+   preguntas cerradas, porque la autoevaluación de respuestas abiertas contra la pauta no
+   era confiable y esas preguntas no contaban para la nota. Las 3.299 preguntas abiertas
+   originales están respaldadas en `docs/banco-preguntas-abiertas/`; el motor conserva el
+   recorrido de desarrollo (pauta visible y revisión personal, sin veredicto automático)
+   por si se reactivan cuando exista un corrector validado. No se intenta corrección de
+   texto libre por coincidencia literal ni por IA.
 7. **Pantalla de resultado final**:
    - Puntaje (preguntas correctas / total) y **nota** calculada (ver fórmula abajo).
    - Desglose "lo bueno y lo malo": qué OA dominó (todas o casi todas correctas) y cuáles

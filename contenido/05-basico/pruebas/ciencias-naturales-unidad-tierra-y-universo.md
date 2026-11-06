@@ -6,6 +6,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 10
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"3":"OA 12","4":"OA 12","5":"OA 12","9":"OA 14","10":"OA 14"}
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias de la Tierra y el Universo
@@ -31,35 +32,64 @@ d) Cerca del 10%
 **2.** *(Verdadero o falso)* La mayor parte del agua dulce del planeta está
 disponible en forma líquida en ríos y lagos.
 
-**3.** Clasifica estos depósitos de agua en dulce o salada: océano Pacífico, glaciar
-del Campo de Hielo Sur, lago Llanquihue, agua subterránea.
+**3.** ¿Qué depósitos contienen agua **dulce**?
 
-**4.** Nombra dos lugares de Chile donde se encuentren grandes depósitos de agua
-dulce.
+*(Varias correctas: marca todas las alternativas correctas.)*
 
-**5.** Explica por qué se dice que el agua dulce es "relativamente escasa", a pesar
-de que gran parte del planeta está cubierto de agua.
+a) Océano Pacífico
+b) Glaciar del Campo de Hielo Sur
+c) Lago Llanquihue
+d) Agua subterránea
+
+**4.** ¿Cuáles de estos lugares de Chile son grandes depósitos de agua dulce?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) El Campo de Hielo Sur
+b) El lago General Carrera
+c) El océano Pacífico frente a Valparaíso
+d) El río Baker
+
+**5.** ¿Por qué se dice que el agua dulce es "relativamente escasa", a pesar
+de que gran parte del planeta está cubierto de agua?
+
+a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea
+b) Porque el agua dulce se evapora y desaparece del planeta para siempre cada verano
+c) Porque solo hay agua dulce en Chile y en unos pocos países del mundo
+d) Porque el agua salada se puede beber directamente, y por eso no se cuida el agua dulce
 
 **6.** ¿Cuál de las siguientes es una consecuencia negativa de la actividad humana
 sobre un río?
-a) La creación de un área protegida
+a) La creación de un área protegida a orillas del río
 b) El vertido de desechos industriales sin tratar
-c) El tratamiento de aguas servidas
-d) La fiscalización de la contaminación
+c) El tratamiento de aguas servidas antes de devolverlas
+d) La fiscalización de la contaminación por las autoridades
 
 **7.** *(Verdadero o falso)* Todas las actividades humanas relacionadas con el agua
 tienen un efecto negativo sobre los cuerpos de agua.
 
-**8.** Clasifica estas formas de contaminación según el cuerpo de agua que afectan
-con más frecuencia: derrame de petróleo, vertido de aguas servidas sin tratar en un
-río, basura plástica en la costa.
+**8.** ¿Qué forma de contaminación afecta con más frecuencia a los **ríos**?
 
-**9.** Explica por qué el retroceso de los glaciares en la Patagonia chilena es
-preocupante para la disponibilidad futura de agua dulce.
+a) El vertido de aguas servidas sin tratar
+b) Un derrame de petróleo de un barco
+c) La basura plástica en la playa
+
+**9.** ¿Por qué el retroceso de los glaciares en la Patagonia chilena es
+preocupante para la disponibilidad futura de agua dulce?
+
+a) Porque los glaciares producen agua salada al derretirse, que contamina los ríos de la Patagonia
+b) No es preocupante: así aumenta el agua dulce disponible para siempre, porque el hielo derretido llega a los ríos
+c) No es preocupante, porque el agua dulce nunca se acaba y la lluvia reemplaza el hielo que se derrite
+d) Porque son una de las principales reservas de agua dulce, y si retroceden se reduce el agua disponible a largo plazo
 
 **10.** Compara los efectos de dos acciones humanas: verter basura en un lago y
-crear un área marina protegida. ¿Cuál es positiva y cuál negativa para las reservas
-hídricas? Justifica.
+crear un área marina protegida. ¿Qué afirmación es correcta sobre su efecto en las reservas
+hídricas?
+
+a) Las dos son positivas, porque ambas acciones cambian el ecosistema y le dan más alimento a los peces
+b) Verter basura es negativa porque contamina el agua; el área protegida es positiva porque resguarda el ecosistema
+c) Las dos son negativas, porque cualquier acción humana sobre el agua daña siempre a los ecosistemas
+d) Verter basura es positiva porque alimenta a los peces, y el área protegida es negativa porque impide pescar
 
 ---
 
@@ -70,26 +100,15 @@ hídricas? Justifica.
 2. **Falso.** La mayor parte del agua dulce está congelada en glaciares y casquetes
    polares, o se encuentra como aguas subterráneas; ríos y lagos son una fracción
    menor.
-3. **Salada:** océano Pacífico. **Dulce:** glaciar del Campo de Hielo Sur, lago
-   Llanquihue, agua subterránea.
-4. Por ejemplo: el Campo de Hielo Sur (glaciares), el lago General Carrera, el lago
-   Llanquihue, o ríos como el Baker o el Biobío.
-5. Porque la mayor parte del agua de la Tierra es salada (océanos) y no se puede
-   consumir directamente; el agua dulce es solo una pequeña fracción del total, y de
-   esa fracción, la mayoría está congelada o subterránea, no disponible de forma
-   inmediata.
+3. b, c y d — Salada: océano Pacífico. Dulce: glaciar, lago y agua subterránea.
+4. a, b y d — El océano es agua salada; los glaciares, lagos y ríos del sur son grandes reservas de agua dulce.
+5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea
 6. **b) El vertido de desechos industriales sin tratar.** Contamina el agua y afecta
    a los seres vivos que dependen de ella; las otras opciones son acciones de
    protección.
 7. **Falso.** Existen también efectos positivos, como el tratamiento de aguas
    servidas o la creación de áreas protegidas, que ayudan a conservar los recursos
    hídricos.
-8. **Océano/costa:** derrame de petróleo, basura plástica. **Río:** vertido de aguas
-   servidas sin tratar.
-9. Porque los glaciares son una de las principales reservas de agua dulce del país;
-   si retroceden o desaparecen debido al aumento de la temperatura, se reduce la
-   cantidad de agua dulce disponible a largo plazo para ríos, lagos y consumo
-   humano.
-10. Verter basura en un lago es negativo, porque contamina el agua y daña a los seres
-    vivos que dependen de ella; crear un área marina protegida es positivo, porque
-    resguarda el ecosistema acuático y contribuye a conservar el recurso hídrico.
+8. a) El vertido de aguas servidas sin tratar. El derrame de petróleo y la basura plástica afectan sobre todo al océano y la costa.
+9. d) Porque son una de las principales reservas de agua dulce, y si retroceden se reduce el agua disponible a largo plazo
+10. b) Verter basura es negativa porque contamina el agua; el área protegida es positiva porque resguarda el ecosistema

@@ -17,14 +17,11 @@ version: Forma B (preguntas propias)
 **Curso:** 8° Básico
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 39 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 39 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen 2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, tabla o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -60,17 +57,19 @@ b) No poseen citoplasma ni membrana celular que los delimite
 c) Son exclusivas de las plantas y de otros organismos con cloroplastos
 d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido
 
-**3.** *(Desarrollo breve, 2 puntos)* Un estudiante observa al microscopio dos tipos de
-células humanas y registra lo siguiente:
+**3.** *(Alternativas, 2 puntos)* Un estudiante observa al microscopio dos tipos de células humanas y registra lo siguiente:
 
 | Célula | Forma | Prolongaciones | Fibras internas |
 |---|---|---|---|
 | Célula 1 | Estrellada, con múltiples prolongaciones largas | Sí | No visibles |
 | Célula 2 | Alargada | No | Sí, visibles |
 
-Identifica qué tipo celular corresponde a cada una (neurona o
-fibra muscular) y justifica tu respuesta relacionando su forma con la función que
-cumple.
+¿Qué tipo celular corresponde a cada una y por qué?
+
+a) Célula 1: neurona, sus prolongaciones transmiten impulsos a distancia. Célula 2: fibra muscular, sus fibras le permiten contraerse
+b) Célula 1: fibra muscular, sus prolongaciones le permiten contraerse. Célula 2: neurona, sus fibras transmiten impulsos
+c) Ambas son neuronas, porque son células humanas
+d) Ambas son glóbulos rojos, porque transportan oxígeno
 
 ---
 
@@ -81,22 +80,23 @@ a las células de la raíz de una planta?
 
 a) La fotosíntesis
 b) La transpiración
-c) La ósmosis
-d) La respiración celular
+c) La respiración celular
+d) La ósmosis
 
 **5.** *(Alternativas)* ¿Cuál de los siguientes procesos ocurre exclusivamente durante
 el día, cuando hay luz solar disponible?
 
 a) La respiración celular
 b) La absorción de agua por la raíz
-c) La fotosíntesis
-d) La respiración y la fotosíntesis ocurren durante el día, y la absorción de agua también
+c) La respiración y la fotosíntesis ocurren durante el día, y la absorción de agua también
+d) La fotosíntesis
 
-**6.** *(Desarrollo extenso, 3 puntos)* La planta A tiene un follaje abundante (muchas
-hojas) y la planta B, de la misma especie y tamaño similar, tiene muy pocas hojas.
-Ambas están expuestas a las mismas condiciones ambientales de luz, temperatura y
-disponibilidad de agua. Explica cuál de las dos plantas transpirará más agua y por qué,
-relacionando tu respuesta con la cantidad de estomas presentes en cada una.
+**6.** *(Alternativas, 3 puntos)* La planta A tiene un follaje abundante (muchas hojas) y la planta B, de la misma especie y tamaño similar, tiene muy pocas hojas. Ambas están en las mismas condiciones de luz, temperatura y agua. ¿Cuál transpirará más agua y por qué?
+
+a) La planta B, porque al tener pocas hojas pierde más agua por la raíz para compensar la falta de follaje
+b) Ambas igual, porque están en las mismas condiciones de luz, temperatura y humedad del ambiente
+c) La planta A, porque sus hojas absorben agua del aire y la acumulan en sus estomas durante el día
+d) La planta A, porque tiene más hojas y, por lo tanto, más estomas por donde sale vapor de agua
 
 ---
 
@@ -113,21 +113,29 @@ d) El eritrocito
 **8.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre los leucocitos
 (glóbulos blancos) es correcta?
 
-a) Transportan oxígeno por la sangre
+a) Transportan oxígeno desde los pulmones hacia todas las células del cuerpo
 b) Participan en la defensa del organismo frente a agentes externos
-c) Intervienen principalmente en la coagulación de la sangre
-d) Producen enzimas digestivas
+c) Intervienen principalmente en la coagulación de la sangre cuando hay una herida
+d) Producen las enzimas digestivas que descomponen los alimentos en el intestino
 
-**9.** *(Desarrollo breve, 2 puntos)* Explica el rol de la bilis y de las enzimas
-digestivas durante el proceso de digestión de los alimentos.
+**9.** *(Alternativas, 2 puntos)* ¿Qué rol cumplen la bilis y las enzimas digestivas durante la digestión?
 
-**10.** *(Desarrollo extenso, 3 puntos)* Lee la siguiente información:
+a) La bilis descompone químicamente las proteínas en aminoácidos, y las enzimas digestivas transportan el oxígeno hasta las células del intestino
+b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas
+c) Ambas filtran la sangre en los riñones, eliminando los desechos de la digestión a través de la orina, sin participar en la descomposición de los alimentos
+d) Las enzimas almacenan la grasa de los alimentos en el hígado, y la bilis produce los glóbulos rojos que transportan los nutrientes por la sangre
+
+**10.** *(Alternativas, 3 puntos)* Lee la siguiente información:
 
 > "Un estudio muestra que las personas fumadoras presentan, en promedio, una menor
 > capacidad de intercambio gaseoso en sus pulmones que las personas no fumadoras."
 
-Explica una posible razón biológica de este resultado, relacionando tu respuesta con la
-estructura de los alvéolos pulmonares y el proceso de intercambio gaseoso.
+¿Qué explicación biológica, vinculada a los alvéolos, es más adecuada?
+
+a) El tabaco aumenta el número de alvéolos pulmonares, lo que dificulta la entrada de aire y hace más lenta la respiración
+b) Fumar mejora el intercambio gaseoso en los alvéolos, pero reduce el ritmo cardíaco, por lo que llega menos oxígeno a la sangre
+c) El humo del tabaco daña los alvéolos, reduciendo la superficie de intercambio por difusión entre el aire y la sangre
+d) El tabaco solo afecta al sistema digestivo y a los dientes, no a los pulmones, que eliminan el humo al exhalar
 
 ---
 
@@ -149,9 +157,12 @@ b) La salud es un estado de bienestar físico, mental y social
 c) Una persona que no presenta síntomas de enfermedad está completamente sana
 d) La salud no depende de la alimentación ni de la actividad física
 
-**13.** *(Desarrollo breve, 2 puntos)* Un adolescente afirma: "Puedo fumar cigarrillos
-solo en las fiestas, así no me hago adicto." Evalúa esta afirmación desde el punto de
-vista de la salud, explicando por qué no es sustentable.
+**13.** *(Alternativas, 2 puntos)* Un adolescente afirma: "Puedo fumar cigarrillos solo en las fiestas, así no me hago adicto." ¿Por qué esta afirmación no es sustentable?
+
+a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual
+b) Porque fumar en fiestas no tiene ningún riesgo, ya que la nicotina se elimina del cuerpo al día siguiente sin dejar efectos
+c) Porque la nicotina solo afecta a los adultos, cuyos pulmones están completamente desarrollados y absorben más sustancias
+d) Porque la adicción solo ocurre si se fuma todos los días durante muchos años, de modo que el consumo ocasional es seguro
 
 ---
 
@@ -163,9 +174,9 @@ vista de la salud, explicando por qué no es sustentable.
 resistencia de 100 ohms circula una corriente de 2 amperes, ¿cuál es la diferencia de
 potencial (voltaje)?
 
-a) 50 volts
+a) 200 volts
 b) 102 volts
-c) 200 volts
+c) 50 volts
 d) 0,02 volts
 
 **15.** *(Alternativas)* ¿Qué ocurre en un circuito conectado en serie si uno de sus
@@ -176,14 +187,19 @@ b) Se interrumpe el funcionamiento de todo el circuito
 c) Aumenta el voltaje que reciben los demás componentes del circuito
 d) No ocurre ningún cambio en el circuito
 
-**16.** *(Desarrollo breve, 2 puntos)* Compara los circuitos eléctricos conectados en
-serie y en paralelo, señalando al menos una ventaja y una desventaja de cada uno.
+**16.** *(Alternativas, 2 puntos)* ¿Qué comparación entre circuitos en serie y en paralelo es correcta?
 
-**17.** *(Desarrollo extenso, 3 puntos)* Una plancha eléctrica tiene una potencia de
-1.100 watts y está conectada a la red domiciliaria de 220 volts. Calcula la intensidad
-de corriente que circula por la plancha, usando P = V × I y mostrando el desarrollo del
-cálculo, y explica con tus palabras qué representa la potencia eléctrica de un
-dispositivo.
+a) Serie: cada componente funciona de forma independiente y no requiere más cableado. Paralelo: más simple, pero una falla apaga todo el circuito
+b) Ambos funcionan exactamente igual ante una falla: si un componente se apaga, todos los demás también se apagan, sin importar cómo estén conectados
+c) Paralelo: más simple y con menos cable, pero una falla apaga todo. Serie: más seguro ante fallas, porque cada componente tiene su propia conexión
+d) Serie: más simple, pero una falla apaga todo. Paralelo: cada componente funciona de forma independiente, aunque requiere más cableado
+
+**17.** *(Alternativas, 3 puntos)* Una plancha eléctrica de 1.100 W está conectada a la red domiciliaria de 220 V. Usando P = V × I, ¿cuál es la intensidad de corriente y qué representa la potencia eléctrica?
+
+a) 242.000 A; la potencia indica la resistencia del cable de la plancha al paso de la corriente
+b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica
+c) 0,2 A; la potencia indica el voltaje que entrega la red domiciliaria a cada dispositivo conectado
+d) 5 A; la potencia indica la cantidad total de electricidad almacenada en la plancha
 
 ---
 
@@ -203,12 +219,15 @@ temperatura es correcta?
 a) Un objeto con mayor temperatura contiene más calor almacenado en su interior
 b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de
    temperatura
-c) El calor y la temperatura son exactamente el mismo concepto
+c) El calor y la temperatura son exactamente el mismo concepto, expresado en distintas unidades
 d) La temperatura mide la cantidad total de energía transferida entre dos cuerpos
 
-**20.** *(Desarrollo breve, 2 puntos)* Explica cómo funciona un termo para mantener una
-bebida caliente por varias horas, relacionando tu respuesta con las formas de
-propagación del calor.
+**20.** *(Alternativas, 2 puntos)* ¿Cómo mantiene un termo una bebida caliente por varias horas?
+
+a) Generando calor propio con una pequeña resistencia eléctrica ubicada en la base del termo
+b) Aumentando la convección del aire en su interior, para que el calor circule constantemente alrededor de la bebida y no se pierda por la tapa
+c) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación
+d) Absorbiendo calor del ambiente exterior a través de sus paredes metálicas y transmitiéndolo a la bebida
 
 ---
 
@@ -232,10 +251,12 @@ b) En un núcleo pequeño y denso
 c) En los niveles de energía externos
 d) En los electrones que orbitan el átomo
 
-**23.** *(Desarrollo breve, 2 puntos)* Un estudiante afirma: "El modelo atómico de
-Dalton está completamente equivocado y no sirvió de nada." Evalúa esta afirmación,
-considerando el aporte que hizo el modelo de Dalton al desarrollo del conocimiento
-científico sobre el átomo.
+**23.** *(Alternativas, 2 puntos)* Un estudiante afirma: "El modelo atómico de Dalton está completamente equivocado y no sirvió de nada." ¿Qué evaluación es correcta?
+
+a) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores
+b) Es correcta: el modelo de Dalton no aportó nada a la química, porque se basaba solo en ideas filosóficas sin experimentos, y los modelos posteriores lo descartaron completamente
+c) Es correcta: Dalton negaba la existencia de los átomos y proponía que la materia era continua, por lo que sus ideas fueron reemplazadas por las de Thomson y Rutherford
+d) Es poco precisa, porque el modelo de Dalton es el modelo atómico actual: sus ideas no han necesitado ninguna corrección desde que las propuso a comienzos del siglo XIX
 
 ---
 
@@ -244,28 +265,30 @@ científico sobre el átomo.
 **24.** *(Alternativas)* ¿Cuál de las siguientes propiedades es más característica de
 los elementos metálicos que de los no metálicos?
 
-a) Baja conductividad eléctrica
-b) Tendencia a compartir electrones
+a) Baja conductividad eléctrica y térmica
+b) Tendencia a compartir electrones con otros átomos
 c) Buena conductividad eléctrica y brillo característico
-d) Ausencia de brillo
+d) Ausencia de brillo y fragilidad en estado sólido
 
-**25.** *(Desarrollo extenso, 3 puntos)* Observa la siguiente tabla:
+**25.** *(Alternativas, 3 puntos)* Observa la siguiente tabla:
 
 | Elemento | Grupo | Tipo de elemento | Conductividad eléctrica |
 |---|---|---|---|
 | Calcio (Ca) | Grupo 2 | Metal | Alta |
 | Bromo (Br) | Grupo 17 | No metal | Baja |
 
-Basándote en la información de la tabla y en los patrones de la tabla periódica,
-predice qué tipo de enlace químico (iónico o covalente) se formará entre el calcio y el
-bromo, y explica tu razonamiento considerando la tendencia de cada elemento a ceder o
-aceptar electrones.
+¿Qué tipo de enlace se formará entre el calcio y el bromo, y por qué?
+
+a) Covalente: ambos elementos comparten electrones porque son no metales del mismo período, formando moléculas de CaBr₂ sin carga
+b) Iónico: el bromo (no metal) cede electrones y el calcio (metal) los acepta, formando iones Br⁺ y Ca²⁻ que se atraen
+c) Ninguno: el calcio y el bromo no pueden combinarse, porque pertenecen a grupos muy alejados de la tabla periódica
+d) Iónico: el calcio (metal) tiende a ceder electrones y el bromo (no metal) a aceptarlos, formando iones Ca²⁺ y Br⁻ que se atraen
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -279,97 +302,42 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------|------------------------------|----|
 | 1 | Alternativas | a) El núcleo | OA 2 |
 | 2 | Alternativas | d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido | OA 2 |
-| 3 | Desarrollo breve | La célula con múltiples prolongaciones largas es una neurona, adaptada para transmitir impulsos eléctricos a distancia; la célula alargada con fibras internas es una fibra muscular, adaptada para contraerse y generar movimiento. En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
-| 4 | Alternativas | c) La ósmosis | OA 4 |
-| 5 | Alternativas | c) La fotosíntesis | OA 4 |
-| 6 | Desarrollo extenso | La planta A (con más hojas) transpirará más agua, porque los estomas se ubican principalmente en las hojas; a mayor número de hojas, mayor cantidad de estomas y, por lo tanto, mayor superficie disponible para la salida de vapor de agua durante la transpiración. | OA 4 |
+| 3 | Alternativas | **a) Célula 1: neurona, sus prolongaciones transmiten impulsos a distancia. Célula 2: fibra muscular, sus fibras le permiten contraerse.** En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
+| 4 | Alternativas | d) La ósmosis | OA 4 |
+| 5 | Alternativas | d) La fotosíntesis | OA 4 |
+| 6 | Alternativas | **d) La planta A, porque tiene más hojas y, por lo tanto, más estomas por donde sale vapor de agua.** Los estomas se ubican principalmente en las hojas: más hojas significa mayor superficie para la salida de vapor de agua. | OA 4 |
 | 7 | Alternativas | a) El nefrón | OA 5 |
 | 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos | OA 5 |
-| 9 | Desarrollo breve | Las enzimas digestivas descomponen químicamente los alimentos en moléculas más simples (nutrientes) que pueden ser absorbidas; la bilis emulsiona las grasas (las fragmenta en gotas más pequeñas), facilitando que las enzimas actúen sobre ellas de forma más eficiente. | OA 5 |
-| 10 | Desarrollo extenso | El humo del tabaco daña el tejido de los alvéolos pulmonares, reduciendo la superficie disponible para el intercambio gaseoso por difusión entre el aire y la sangre, lo que disminuye la cantidad de oxígeno que puede pasar a la sangre en cada respiración, explicando la menor capacidad de intercambio gaseoso observada en fumadores. | OA 5 |
+| 9 | Alternativas | **b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.** | OA 5 |
+| 10 | Alternativas | **c) El humo del tabaco daña los alvéolos, reduciendo la superficie de intercambio por difusión entre el aire y la sangre.** Al disminuir la superficie de intercambio, pasa menos oxígeno a la sangre en cada respiración. | OA 5 |
 | 11 | Alternativas | b) Constructor | OA 7 |
 | 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social | OA 7 |
-| 13 | Desarrollo breve | La afirmación no es sustentable porque el consumo de tabaco, incluso ocasional, expone al organismo a sustancias dañinas (nicotina y otras) que afectan el sistema respiratorio y circulatorio desde las primeras exposiciones; además, el riesgo de desarrollar dependencia existe incluso con un consumo considerado "ocasional". | OA 7 |
-| 14 | Alternativas | c) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
+| 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** | OA 7 |
+| 14 | Alternativas | a) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
 | 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito | OA 10 |
-| 16 | Desarrollo breve | El circuito en serie es más simple de construir, pero poco práctico porque una falla apaga todo el sistema. El circuito en paralelo permite el funcionamiento independiente de cada componente y es más seguro ante fallas puntuales, pero requiere más cableado y es más complejo de instalar. | OA 10 |
-| 17 | Desarrollo extenso | I = P / V = 1.100 W / 220 V = 5 amperes. La potencia eléctrica indica la rapidez con la que un dispositivo consume o transforma energía eléctrica; mientras mayor es la potencia de un artefacto, mayor es la cantidad de energía que consume por unidad de tiempo. | OA 10 |
+| 16 | Alternativas | **d) Serie: más simple, pero una falla apaga todo. Paralelo: cada componente funciona de forma independiente, aunque requiere más cableado.** | OA 10 |
+| 17 | Alternativas | **b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica.** I = P / V = 1.100 W / 220 V = 5 A; a mayor potencia, mayor energía consumida por unidad de tiempo. | OA 10 |
 | 18 | Alternativas | c) Radiación | OA 11 |
 | 19 | Alternativas | b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de temperatura | OA 11 |
-| 20 | Desarrollo breve | Un termo reduce la transferencia de calor por conducción y convección mediante una cámara de vacío o un material aislante entre sus paredes, y reduce la transferencia por radiación mediante una superficie interior reflectante; de esta forma, minimiza la pérdida de energía térmica hacia el ambiente exterior, más frío. | OA 11 |
+| 20 | Alternativas | **c) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación.** | OA 11 |
 | 21 | Alternativas | c) El electrón | OA 12 |
 | 22 | Alternativas | b) En un núcleo pequeño y denso | OA 12 |
-| 23 | Desarrollo breve | La afirmación es poco precisa: aunque el modelo de Dalton fue superado por modelos posteriores (al no considerar la estructura interna del átomo), fue fundamental porque estableció la idea de que la materia está formada por átomos, que los átomos de un mismo elemento son iguales entre sí, y que se combinan en proporciones simples para formar compuestos, ideas que sentaron las bases para los modelos posteriores. | OA 12 |
+| 23 | Alternativas | **a) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.** | OA 12 |
 | 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico | OA 14 |
-| 25 | Desarrollo extenso | Se formará un enlace iónico. El calcio es un metal del grupo 2, por lo que tiende a ceder electrones; el bromo es un no metal del grupo 17, por lo que tiende a aceptar electrones. Al transferirse electrones del calcio al bromo, se forman iones de carga opuesta (Ca²⁺ y Br⁻) que se atraen entre sí, característico de un enlace iónico. | OA 14 |
+| 25 | Alternativas | **d) Iónico: el calcio (metal) tiende a ceder electrones y el bromo (no metal) a aceptarlos, formando iones Ca²⁺ y Br⁻ que se atraen.** La transferencia de electrones de un metal a un no metal forma iones de carga opuesta, característico del enlace iónico. | OA 14 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 3 (2 puntos)
-
-- Identifica correctamente la neurona y la fibra muscular — **1 punto**
-- Justifica cada identificación relacionando la forma de la célula con su función — **1 punto**
-
-### Pregunta 6 (3 puntos)
-
-- Identifica que la planta A transpirará más agua — **1 punto**
-- Explica que a mayor cantidad de hojas hay más estomas — **1 punto**
-- Relaciona los estomas con la mayor superficie de salida de vapor de agua — **1 punto**
-
-### Pregunta 9 (2 puntos)
-
-- Explica que las enzimas descomponen los alimentos en nutrientes absorbibles — **1 punto**
-- Explica que la bilis emulsiona las grasas y facilita la acción de las enzimas — **1 punto**
-
-### Pregunta 10 (3 puntos)
-
-- Explica que el humo daña el tejido de los alvéolos pulmonares — **1 punto**
-- Relaciona el daño con la reducción de la superficie de intercambio gaseoso — **1 punto**
-- Concluye que pasa menos oxígeno a la sangre en cada respiración — **1 punto**
-
-### Pregunta 13 (2 puntos)
-
-- Explica que incluso el consumo ocasional expone a sustancias dañinas — **1 punto**
-- Señala que el riesgo de dependencia existe también con consumo ocasional — **1 punto**
-
-### Pregunta 16 (2 puntos)
-
-- Señala una ventaja y una desventaja del circuito en serie — **1 punto**
-- Señala una ventaja y una desventaja del circuito en paralelo — **1 punto**
-
-### Pregunta 17 (3 puntos)
-
-- Aplica la fórmula: I = P / V — **1 punto**
-- Obtiene el resultado correcto con unidades: 5 amperes — **1 punto**
-- Explica qué representa la potencia: rapidez con que se consume o transforma energía — **1 punto**
-
-### Pregunta 20 (2 puntos)
-
-- Explica que reduce la conducción y la convección mediante vacío o material aislante — **1 punto**
-- Explica que reduce la radiación mediante una superficie interior reflectante — **1 punto**
-
-### Pregunta 23 (2 puntos)
-
-- Reconoce que la afirmación es imprecisa o exagerada — **1 punto**
-- Reconoce el aporte de Dalton: la materia está formada por átomos que se combinan en proporciones simples — **1 punto**
-
-### Pregunta 25 (3 puntos)
-
-- Predice un enlace iónico entre el calcio y el bromo — **1 punto**
-- Explica que el calcio (grupo 2) cede electrones y el bromo (grupo 17) los acepta — **1 punto**
-- Explica la atracción entre los iones de carga opuesta que se forman (Ca²⁺ y Br⁻) — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
-- **15 preguntas de alternativas** × 1 punto = 15 puntos
-- **6 preguntas de desarrollo breve** (N° 3, 9, 13, 16, 20, 23) × 2 puntos = 12 puntos
-- **4 preguntas de desarrollo extenso** (N° 6, 10, 17, 25) × 3 puntos = 12 puntos
+- **15 preguntas** × 1 punto = 15 puntos
+- **6 preguntas de mayor complejidad** (N° 3, 9, 13, 16, 20, 23) × 2 puntos = 12 puntos
+- **4 preguntas de mayor complejidad** (N° 6, 10, 17, 25) × 3 puntos = 12 puntos
 - **Puntaje total de la prueba: 39 puntos**
 
 ### Distribución de preguntas por Eje y OA
@@ -391,14 +359,14 @@ Se evalúa cada criterio de forma independiente y se suman los logrados hasta el
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2, 3 | 2 | 1 |
-| OA 4 | 4, 5, 6 | 2 | 1 |
-| OA 5 | 7, 8, 9, 10 | 2 | 2 |
-| OA 7 | 11, 12, 13 | 2 | 1 |
-| OA 10 | 14, 15, 16, 17 | 2 | 2 |
-| OA 11 | 18, 19, 20 | 2 | 1 |
-| OA 12 | 21, 22, 23 | 2 | 1 |
-| OA 14 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **15** | **10** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2, 3 | 3 |
+| OA 4 | 4, 5, 6 | 3 |
+| OA 5 | 7, 8, 9, 10 | 4 |
+| OA 7 | 11, 12, 13 | 3 |
+| OA 10 | 14, 15, 16, 17 | 4 |
+| OA 11 | 18, 19, 20 | 3 |
+| OA 12 | 21, 22, 23 | 3 |
+| OA 14 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

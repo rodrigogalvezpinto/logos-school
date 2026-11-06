@@ -1,5 +1,6 @@
 """Value Objects del contexto Evaluaciones."""
 
+import json
 import random
 from dataclasses import dataclass
 from typing import TypeVar
@@ -62,7 +63,31 @@ class PreguntaParaCorreccion:
     respuesta_correcta: str
 
 
-TIPOS_AUTOCORREGIBLES = {"alternativas", "verdadero_falso"}
+TIPOS_AUTOCORREGIBLES = {"alternativas", "verdadero_falso", "varias_correctas"}
+
+
+def _seleccion(valor: str | None) -> frozenset[str] | None:
+    """Respuesta de `varias_correctas`: lista JSON de textos de opción. Devuelve None si
+    no es una lista JSON de textos (respuesta malformada = incorrecta, nunca excepción)."""
+    try:
+        datos = json.loads(valor or "")
+    except (TypeError, ValueError):
+        return None
+    if not isinstance(datos, list) or not all(isinstance(x, str) for x in datos):
+        return None
+    return frozenset(x.strip().casefold() for x in datos if x.strip())
+
+
+def es_respuesta_correcta(tipo: str, respuesta_alumno: str | None, respuesta_correcta: str) -> bool:
+    """Única regla de corrección automática (decisión 2026-11-06: todo el material es de
+    alternativas). `alternativas`/`verdadero_falso` comparan el texto de la opción elegida;
+    `varias_correctas` exige marcar exactamente el conjunto correcto (todo o nada), sin
+    importar el orden. Vacío o malformado nunca es correcto."""
+    if tipo == "varias_correctas":
+        dada, correcta = _seleccion(respuesta_alumno), _seleccion(respuesta_correcta)
+        return bool(dada) and bool(correcta) and dada == correcta
+    dada_texto = (respuesta_alumno or "").strip().casefold()
+    return bool(dada_texto) and dada_texto == respuesta_correcta.strip().casefold()
 
 # Simulacro parcial (Fase 1.3) — se habilita al cubrir la mitad del temario de la
 # asignatura, con hasta 20 preguntas autocorregibles de las OA ya cubiertas.

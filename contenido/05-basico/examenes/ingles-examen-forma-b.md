@@ -21,12 +21,12 @@ la prueba. No se permite el uso de calculadora, celular ni apuntes.
 
 1. Lee cada pregunta y su texto antes de responder. No necesitas memorizar las
    respuestas de la guía: aquí encontrarás situaciones nuevas sobre los mismos temas.
-2. En selección múltiple marca una alternativa (a, b, c o d). En las preguntas
-   abiertas sigue la consigna: puede pedir una palabra, True/False o una oración.
+2. Marca una alternativa (a, b, c o d). En las preguntas de verdadero o falso, marca
+   True (verdadero) o False (falso).
 3. Puedes usar diccionario para buscar palabras que no conozcas.
 4. Cada pregunta vale un punto. No hay descuento por respuestas incorrectas.
-5. En las respuestas personales se aceptan distintas ideas si cumplen el modelo
-   y la función solicitada; no debes coincidir con el ejemplo de la pauta.
+5. Lee todas las alternativas antes de elegir: solo una cumple exactamente lo que pide la
+   consigna.
 6. Administra tu tiempo: te recomendamos no más de 3 a 4 minutos por pregunta.
 
 ---
@@ -49,15 +49,25 @@ b) Drawing a red book
 c) Drawing the pencil under the chair
 d) Drawing the blue pencil on the desk
 
-**3.** *(Pregunta abierta — completar)* Read: *"My pencil case is small.
+**3.** *(Alternativas — completar)* Read: *"My pencil case is small.
 It is green."* Join both descriptions with **and**: *"My pencil case is small
 ___ green."*
 
-**4.** *(Pregunta abierta — responder en inglés)* Read: *"On Monday, Lucas
+a) is
+b) but
+c) or
+d) and
+
+**4.** *(Alternativas — comprensión)* Read: *"On Monday, Lucas
 has English in the classroom. On Tuesday, he has P.E. in the playground."*
 Where does Lucas have P.E.?
 
-**5.** *(Pregunta abierta — verdadero o falso)* Read: *"My grandmother
+a) He has P.E. in the classroom.
+b) He has English in the playground.
+c) He has P.E. on Monday.
+d) He has P.E. in the playground.
+
+**5.** *(Verdadero o falso)* Read: *"My grandmother
 wears a blue coat. My grandfather wears a black sweater."* Write True or
 False: *The grandmother's coat is blue.*
 
@@ -68,10 +78,10 @@ False: *The grandmother's coat is blue.*
 **6.** *(Selección múltiple)* Read: *"Art Day! Come to our classroom on
 Friday. Look at our pictures. You are welcome!"* What is the purpose of this text?
 
-a) To invite people to a school activity
-b) To explain how to cook rice
-c) To describe a bedroom
-d) To apologize for a mistake
+a) To describe a bedroom in a house
+b) To explain how to cook rice at home
+c) To invite people to a school activity
+d) To apologize for a mistake in class
 
 **7.** *(Selección múltiple)* Read: *"Breakfast: bread and eggs. Drinks:
 milk and tea."* What type of text is this?
@@ -81,14 +91,24 @@ b) A postcard
 c) A menu
 d) A weather report
 
-**8.** *(Pregunta abierta — completar)* Read the dialogue: *"— Here is your
+**8.** *(Alternativas — completar)* Read the dialogue: *"— Here is your
 book. — ___!"* Complete with an expression to thank someone.
 
-**9.** *(Pregunta abierta — responder en inglés)* Read: *"Dear Ben, come
+a) Goodbye
+b) Thank you
+c) Sorry
+d) Hello
+
+**9.** *(Alternativas — comprensión)* Read: *"Dear Ben, come
 to my house on Sunday at four o'clock in the afternoon. We can play in the garden. From, Emma."*
 What time should Ben come?
 
-**10.** *(Pregunta abierta — verdadero o falso)* Read: *"Wash the apples.
+a) At four o'clock in the morning.
+b) On Sunday morning.
+c) At four o'clock in the afternoon.
+d) At two o'clock in the afternoon.
+
+**10.** *(Verdadero o falso)* Read: *"Wash the apples.
 Cut the apples and pears. Put the fruit in a dish."* Write True or False:
 *This text gives instructions to make a fruit dish.*
 
@@ -114,16 +134,24 @@ b) I like singing, too.
 c) It is cold today.
 d) There is a chair.
 
-**13.** *(Pregunta abierta — completar)* Read: *"At lunch, Nico eats rice
+**13.** *(Alternativas — completar)* Read: *"At lunch, Nico eats rice
 and chicken."* Expresa que a ti te gusta el arroz completando con **like** o
 **likes**: *"I ___ rice."*
 
-**14.** *(Pregunta abierta — responder en inglés)* Read: *"In the library,
-Sara likes to read with a friend."* Do you like reading? Answer with a sentence
-starting with *I like* or *I don't like*. Puedes tener una preferencia distinta
-de la de Sara.
+a) like
+b) likes
+c) liking
+d) to like
 
-**15.** *(Pregunta abierta — verdadero o falso)* Read: *"Leo likes winter.
+**14.** *(Alternativas — responder en inglés)* Read: *"In the library,
+Sara likes to read with a friend."* Do you like reading? Which answer is grammatically correct?
+
+a) I likes reading.
+b) I don't likes reading.
+c) I like read.
+d) I like reading.
+
+**15.** *(Verdadero o falso)* Read: *"Leo likes winter.
 He likes wearing his coat. I like summer and wearing sandals."* Write True
 or False: *Leo and the narrator prefer the same season.*
 
@@ -148,18 +176,29 @@ b) happy
 c) young
 d) tall
 
-**18.** *(Pregunta abierta — completar)* Complete this postcard with
-**sunny**, **rainy** or **cold**: *"Dear Dad, it is warm here. The sun is in
+**18.** *(Alternativas — completar)* Complete this postcard with the
+correct word: *"Dear Dad, it is warm here. The sun is in
 the sky and there are no clouds. Today is ___. From, Eva."*
 
-**19.** *(Pregunta abierta — completar)* Complete this school shopping list
-with an object for measuring, choosing **ruler**, **milk** or **socks**:
+a) sunny
+b) rainy
+c) cold
+
+**19.** *(Alternativas — completar)* Complete this school shopping list
+with an object for measuring:
 *"I need a pencil, an eraser and a ___."*
 
-**20.** *(Pregunta abierta — escribir siguiendo modelo)* Model: *"Shopping
-list: I need milk and eggs."* Write your own shopping list with **two other
-foods**. Follow *Shopping list: I need ___ and ___.* Use food words from the
-course; do not repeat milk or eggs.
+a) milk
+b) ruler
+c) socks
+
+**20.** *(Alternativas — escribir siguiendo modelo)* Model: *"Shopping
+list: I need milk and eggs."* Which shopping list follows the model with **two other foods**?
+
+a) Shopping list: I need milk and eggs.
+b) Shopping list: I need bread and cheese.
+c) Shopping list: I need chair and Monday.
+d) Shopping list: I needs bread and cheese.
 
 ---
 
@@ -181,21 +220,32 @@ b) The pencil is green.
 c) Where is the pencil?
 d) There are two pencils.
 
-**23.** *(Pregunta abierta — completar con número)* Escribe **11** en inglés
-para completar: *"There are ___ chairs in our classroom."*
+**23.** *(Alternativas — completar con número)* Completa con el número **11** en inglés: *"There are ___ chairs in our classroom."*
 
-**24.** *(Pregunta abierta — completar diálogo)* Complete the negative
+a) seven
+b) twelve
+c) eleven
+d) eleventh
+
+**24.** *(Alternativas — completar diálogo)* Complete the negative
 answer: *"— Is this your ruler? — No, ___."*
 
-**25.** *(Pregunta abierta — completar)* Complete with **There** or **They**:
+a) it isn't
+b) it is
+c) I am not
+d) they aren't
+
+**25.** *(Alternativas — completar)* Complete :
 *"___ are three apples in the dish."*
+
+a) There
+b) They
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe la letra elegida en las preguntas de alternativas. Responde los
-ítems abiertos en tu hoja o cuaderno, identificando el número de pregunta.
+Transcribe la letra elegida en cada pregunta.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -205,38 +255,35 @@ Transcribe la letra elegida en las preguntas de alternativas. Responde los
 
 ## PAUTA DE CORRECCIÓN
 
-Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En ítems abiertos,
-asignar el punto si la respuesta cumple el criterio indicado. Mayúsculas y
-punto final no cambian el sentido; aceptar variantes equivalentes explícitas.
-Las respuestas personales no se califican por coincidencia literal con el ejemplo.
+Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.**
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
 | 1 | b) Nine | OA5 |
 | 2 | d) Drawing the blue pencil on the desk | OA5 |
-| 3 | and | OA5 |
-| 4 | He has P.E. in the playground. Aceptar In the playground. | OA5 |
+| 3 | **d) and.** *And* une las dos descripciones: *small and green*. | OA5 |
+| 4 | **d) He has P.E. in the playground.** El texto dice que el martes tiene P.E. en el patio (*playground*); en la sala (*classroom*) tiene inglés el lunes. | OA5 |
 | 5 | True (Verdadero): el abrigo de la abuela es azul. | OA5 |
-| 6 | a) To invite people to a school activity | OA6 |
+| 6 | c) To invite people to a school activity | OA6 |
 | 7 | c) A menu | OA6 |
-| 8 | Thank you / Thanks. Se acepta cualquiera de las dos expresiones. | OA6 |
-| 9 | At four o'clock / At 4 pm / At 4 p.m. / At 16:00 / He should come at four o'clock in the afternoon. La invitación especifica las cuatro de la tarde; aceptar también At 4 por el contexto. No aceptar 4 am. | OA6 |
+| 8 | **b) Thank you.** *Thank you* (o *Thanks*) es la expresión para agradecer. | OA6 |
+| 9 | **c) At four o'clock in the afternoon.** La invitación especifica las cuatro de la tarde (4 pm / 16:00); no corresponde 4 am. | OA6 |
 | 10 | True (Verdadero): las acciones wash/cut/put explican cómo preparar el plato de fruta. | OA6 |
 | 11 | d) I like drawing pictures. | OA8 |
 | 12 | b) I like singing, too. | OA8 |
-| 13 | like | OA8 |
-| 14 | I like reading / I don't like reading. Aceptar ampliaciones gramaticalmente coherentes; ambos gustos son válidos. | OA8 |
+| 13 | **a) like.** Con *I* se usa *like*; *likes* es para *he/she/it* (como en *Nico likes*). | OA8 |
+| 14 | **d) I like reading.** *I like reading* o *I don't like reading* son correctas; las otras tienen errores (*likes* con *I*, *read* sin -ing). Puedes tener una preferencia distinta de la de Sara. | OA8 |
 | 15 | False (Falso): Leo prefiere invierno y el narrador verano. | OA8 |
 | 16 | c) Dear | OA14 |
 | 17 | a) shut | OA14 |
-| 18 | sunny: el texto menciona sol y ausencia de nubes, no una preferencia personal. | OA14 |
-| 19 | ruler | OA14 |
-| 20 | Respuesta personal que siga Shopping list: I need X and Y con dos alimentos distintos de milk y eggs. Ejemplo: Shopping list: I need bread and cheese. Aceptar otras parejas de alimentos del curso. | OA14 |
+| 18 | **a) sunny.** El texto menciona sol y ausencia de nubes. | OA14 |
+| 19 | **b) ruler.** *Ruler* (regla) es un objeto para medir. | OA14 |
+| 20 | **b) Shopping list: I need bread and cheese.** Sigue el modelo con dos alimentos distintos de milk y eggs; las otras repiten el modelo, usan palabras que no son alimentos o tienen un error (*needs* con *I*). | OA14 |
 | 21 | b) in | OA15 |
 | 22 | a) This is my pencil. | OA15 |
-| 23 | eleven | OA15 |
-| 24 | it isn't / it is not | OA15 |
-| 25 | There | OA15 |
+| 23 | **c) eleven.** 11 = *eleven*; *eleventh* es el ordinal (undécimo). | OA15 |
+| 24 | **a) it isn't.** Respuesta corta negativa a *Is this...?*: *No, it isn't* (o *it is not*). | OA15 |
+| 25 | **a) There.** *There are* indica que algo existe en un lugar; *They are* se refiere a personas o cosas ya mencionadas. | OA15 |
 
 ### Resumen de puntaje por OA
 
@@ -249,7 +296,7 @@ Las respuestas personales no se califican por coincidencia literal con el ejempl
 | OA15 | 5 | 21–25 |
 | **Total** | **25** | — |
 
-**Distribución por tipo:** 10 preguntas de alternativas y 15 abiertas. Es una
+**Distribución por tipo:** 22 preguntas de alternativas y 3 de verdadero o falso. Es una
 práctica propia alineada con los OA del curso; no es un instrumento oficial Mineduc.
 Se mantienen las funciones lingüísticas estudiadas, con nuevos textos y situaciones.
 
@@ -259,11 +306,11 @@ Se mantienen las funciones lingüísticas estudiadas, con nuevos textos y situac
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 5 | 1, 2, 3, 4, 5 | 2 | 3 |
-| OA 6 | 6, 7, 8, 9, 10 | 2 | 3 |
-| OA 8 | 11, 12, 13, 14, 15 | 2 | 3 |
-| OA 14 | 16, 17, 18, 19, 20 | 2 | 3 |
-| OA 15 | 21, 22, 23, 24, 25 | 2 | 3 |
-| **Total** | **25 preguntas** | **10** | **15** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 5 | 1, 2, 3, 4, 5 | 5 |
+| OA 6 | 6, 7, 8, 9, 10 | 5 |
+| OA 8 | 11, 12, 13, 14, 15 | 5 |
+| OA 14 | 16, 17, 18, 19, 20 | 5 |
+| OA 15 | 21, 22, 23, 24, 25 | 5 |
+| **Total** | **25 preguntas** | **25** |

@@ -24,7 +24,7 @@ basado_en: >
 
 ### Instrucciones generales
 
-1. Esta prueba contiene **20 preguntas en total** (5 de cada asignatura, mezcladas), entre preguntas de **alternativas** (3 opciones, marca solo una con una X) y preguntas de **respuesta breve** (escribe o dibuja tu respuesta).
+1. Esta prueba contiene **20 preguntas en total** (5 de cada asignatura, mezcladas), todas de **alternativas**: lee las opciones y marca con una X la correcta. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. **Tiempo total: 90 minutos.**
 3. **No se pueden usar libros, apuntes ni celulares** durante la prueba.
 4. **El estudiante debe responder solo/a, sin ayuda de sus padres o apoderados.** Un adulto puede leer en voz alta el enunciado si el estudiante aún no lee de forma autónoma, pero no puede indicar ni sugerir la respuesta.
@@ -93,9 +93,11 @@ c) Edificio
 
 ---
 
-**8.** Nombra un animal y una planta típicos de Chile, y di en qué parte del país (norte, centro o sur) los podrías encontrar.
+**8.** ¿Cuál de estas parejas está **bien unida** con la zona de Chile donde se encuentra?
 
-_______________________________________________________________________________________
+a) Pudú → norte, en el desierto
+b) Cactus → sur, en el bosque lluvioso
+c) Guanaco → norte, en el desierto
 
 ---
 
@@ -109,8 +111,8 @@ ________________________________________________________________________________
 Según la nota, ¿a qué hora dice Camila que va a volver?
 
 a) A las 5
-b) A las 7
-c) A las 6
+b) A las 6
+c) A las 7
 
 ---
 
@@ -122,21 +124,29 @@ c) 13
 
 ---
 
-**11.** [Imagen: una mochila escolar con género, cierres de metal y una base de plástico] Nombra dos materiales distintos que tiene esta mochila y para qué sirve cada uno (por ejemplo, si es suave, duro o impermeable).
+**11.** [Imagen: una mochila escolar con género, cierres de metal y una base de plástico] *(Varias correctas)* ¿Qué materiales tiene esta mochila, unidos con una propiedad correcta? Marca **todas** las correctas.
 
-_______________________________________________________________________________________
+a) Género: suave y flexible
+b) Metal de los cierres: duro
+c) Plástico de la base: impermeable (no deja pasar el agua)
+d) Género: transparente como el vidrio
 
 ---
 
-**12.** Describe el paisaje de tu barrio o localidad usando al menos **dos** palabras geográficas (por ejemplo: camino, construcciones, vegetación, cordillera, mar).
+**12.** *(Varias correctas)* ¿Cuáles de estas palabras son **palabras geográficas** que sirven para describir el paisaje de un barrio o localidad? Marca **todas** las correctas.
 
-_______________________________________________________________________________________
-
-_______________________________________________________________________________________
+a) Camino
+b) Vegetación
+c) Cumpleaños
+d) Cordillera
 
 ---
 
 **13.** Completa la secuencia: 2, 4, 6, ___, 10
+
+a) 7
+b) 8
+c) 9
 
 ---
 
@@ -184,23 +194,27 @@ c) 11
 
 ---
 
-**18.** Nombra una actividad que hagas durante el día y otra que hagas durante la noche.
+**18.** ¿Qué actividad hacemos normalmente durante la **noche**?
 
-_______________________________________________________________________________________
-
----
-
-**19.** Responde por escrito con una frase corta: "**¿Qué te gusta hacer en el recreo?**"
-
-_______________________________________________________________________________________
+a) Dormir
+b) Ir a la escuela
+c) Jugar en el recreo
 
 ---
 
-**20.** Nombra una institución que ayuda a tu comunidad (por ejemplo, la escuela, la municipalidad, el hospital o Carabineros) y explica con tus palabras qué hace.
+**19.** La pregunta es: "**¿Qué te gusta hacer en el recreo?**". ¿Cuál respuesta está bien escrita, con las palabras separadas y con sentido?
 
-_______________________________________________________________________________________
+a) Megusta jugara lapelota.
+b) Me gusta jugar a la pelota.
+c) Mañana es martes.
 
-_______________________________________________________________________________________
+---
+
+**20.** ¿Qué institución está **bien unida** con lo que hace por la comunidad?
+
+a) Hospital o posta: cuida la salud de las personas
+b) Escuela: apaga los incendios de la comunidad
+c) Carabineros: enseña a leer y escribir
 
 ---
 
@@ -210,7 +224,7 @@ ________________________________________________________________________________
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -229,19 +243,19 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
 | 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
 | 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
-| 8 | Ciencias Naturales | Cualquier combinación correcta, por ejemplo: guanaco (norte), zorro chilla (centro), pudú (sur), cactus (norte), palma chilena (centro), araucaria (sur). | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **c) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 8 | Ciencias Naturales | **c) Guanaco → norte, en el desierto.** El guanaco vive en las zonas secas del norte; el pudú vive en el bosque del sur y el cactus crece en el norte. | OA 5 — Animales y plantas de Chile |
+| 9 | Lenguaje y Comunicación | **b) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **b) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
-| 11 | Ciencias Naturales | Menciona correctamente al menos 2 materiales de la mochila (género/suave, metal/duro, plástico/impermeable) con una propiedad de cada uno. | OA 8 — Los materiales y sus propiedades |
-| 12 | Historia, Geografía y Cs. Sociales | Respuesta correcta si describe el entorno real del estudiante usando al menos dos palabras geográficas correctas (camino, construcciones, vegetación, cordillera, mar, pueblo, ciudad, entre otras). | OA 10 — Paisajes de mi entorno |
-| 13 | Matemática | **8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
+| 11 | Ciencias Naturales | **a, b y c.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
+| 12 | Historia, Geografía y Cs. Sociales | **a, b y d.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
+| 13 | Matemática | **b) 8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
 | 14 | Lenguaje y Comunicación | **b) Mojar las manos con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Información explícita en instrucciones |
 | 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Levantar la mano y esperar mi turno.** Es la norma que ayuda a que todos puedan hablar y ser escuchados en orden. | OA 14 — Normas de convivencia y autocuidado |
 | 17 | Matemática | **b) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
-| 18 | Ciencias Naturales | Día: ir a la escuela, jugar en el patio, andar en bicicleta. Noche: dormir, cenar con la familia, ver las estrellas (cualquier respuesta razonable). | OA 11 — El día y la noche |
-| 19 | Lenguaje y Comunicación | Cualquier frase corta y con sentido que responda la pregunta, por ejemplo "Me gusta jugar a la pelota" o "Me gusta saltar la cuerda", con las palabras separadas por espacio. | OA N°13 — Escribir una frase corta para responder |
-| 20 | Historia, Geografía y Cs. Sociales | Respuesta correcta si nombra una institución válida (escuela, municipalidad, hospital o posta, Carabineros) y explica de forma coherente qué labor cumple para la comunidad. | OA 15 — Instituciones de la comunidad |
+| 18 | Ciencias Naturales | **a) Dormir.** Ir a la escuela y jugar en el recreo son actividades del día. | OA 11 — El día y la noche |
+| 19 | Lenguaje y Comunicación | **b) Me gusta jugar a la pelota.** Responde la pregunta y tiene cada palabra separada por un espacio; la opción a) junta palabras y la c) no responde la pregunta. | OA N°13 — Escribir una frase corta para responder |
+| 20 | Historia, Geografía y Cs. Sociales | **a) Hospital o posta: cuida la salud de las personas.** La escuela enseña y Carabineros cuida la seguridad de las personas. | OA 15 — Instituciones de la comunidad |
 
 ### Distribución de puntaje por asignatura
 
@@ -259,18 +273,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 4 | 1 | 0 |
-| OA 3 | 3 | 1 | 0 |
-| OA 4 | 2, 6 | 2 | 0 |
-| OA 5 | 1, 8 | 1 | 1 |
-| OA 8 | 5, 11 | 1 | 1 |
-| OA 9 | 10 | 1 | 0 |
-| OA 10 | 7, 9, 12, 14 | 3 | 1 |
-| OA 11 | 13, 15, 18 | 1 | 2 |
-| OA 13 | 19 | 0 | 1 |
-| OA 14 | 16 | 1 | 0 |
-| OA 15 | 20 | 0 | 1 |
-| OA 20 | 17 | 1 | 0 |
-| **Total** | **20 preguntas** | **13** | **7** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 4 | 1 |
+| OA 3 | 3 | 1 |
+| OA 4 | 2, 6 | 2 |
+| OA 5 | 1, 8 | 2 |
+| OA 8 | 5, 11 | 2 |
+| OA 9 | 10 | 1 |
+| OA 10 | 7, 9, 12, 14 | 4 |
+| OA 11 | 13, 15, 18 | 3 |
+| OA 13 | 19 | 1 |
+| OA 14 | 16 | 1 |
+| OA 15 | 20 | 1 |
+| OA 20 | 17 | 1 |
+| **Total** | **20 preguntas** | **20** |

@@ -15,7 +15,7 @@ import json
 import re
 from dataclasses import dataclass
 
-from parser_contenido import extraer_modulo
+from parser_contenido import RE_VARIAS, extraer_modulo, resolver_letras_varias
 
 RE_Q_START = re.compile(
     # Toda pregunta real cumple AL MENOS UNO de dos rasgos: (a) el número está en negrita
@@ -27,7 +27,7 @@ RE_Q_START = re.compile(
     r"(?m)^\s*\*{0,2}(?:Pregunta\s+)?(\d+)\.?"
     r"(?:\*{0,2}\s*\*{0,2}\(([^)]+)\)\*{0,2}\.?\s*|\*\*\s*)"
 )
-RE_OPCION = re.compile(r"^\s*[a-d]\)\s+(.*)$")
+RE_OPCION = re.compile(r"^\s*[a-e]\)\s+(.*)$")
 RE_PAUTA_HEADING = re.compile(r"^#{1,2}\s*.*pauta.*$", re.IGNORECASE)
 RE_PAUTA_ENTRADA = re.compile(
     r"(?m)^[ \t]*(?:-[ \t]+)?\*{0,2}(?:Pregunta[ \t]+)?(\d+)"
@@ -49,7 +49,7 @@ RE_TABLA_FILA = re.compile(r"^\|\s*(\d+)\s*\|(.*)\|\s*$")
 # "b." o "b)" — sin tolerar el em-dash, la letra no se resolvía y el texto completo
 # (truncado a 60 caracteres) quedaba como respuesta_correcta, sin calzar nunca con
 # ninguna opción real.
-RE_LETRA_INICIAL = re.compile(r"^\(?([a-dA-D])(?:[\.\)]|\s*—|$)")
+RE_LETRA_INICIAL = re.compile(r"^\(?([a-eA-E])(?:[\.\)]|\s*—|$)")
 # La pauta de Verdadero/Falso a veces trae la explicación pegada en la misma entrada
 # ("Verdadero. Es una consecuencia porque...") — sin esto, el texto completo (truncado a
 # 60 caracteres) quedaba como respuesta_correcta y nunca calzaba con la opción real.
@@ -144,6 +144,10 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
             ):
                 break
             if re.fullmatch(r"\s*-{3,}\s*", linea):
+                # Una regla horizontal después de las opciones cierra la pregunta: lo que sigue
+                # (p. ej. «*Fin de la prueba…*») no es continuación de la última opción.
+                if opciones:
+                    break
                 continue
             op = None if es_emparejamiento else RE_OPCION.match(linea)
             if op:
@@ -158,8 +162,14 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
                     enunciado_partes.append(linea.strip())
 
         es_vf = bool(re.search(r"\b(?:verdadero\s*(?:o|/|y)?\s*falso|v\s*/\s*f)\b", etiqueta, re.IGNORECASE))
-        requiere_escrito = bool(re.search(r"justific|explic|fundament|corrig|corr[ií]j|argument|razona|\b(?:explain|justify)\b|\bcorrect\s+(?:the|any|each|false)\b",
-                                          etiqueta + " " + " ".join(enunciado_partes), re.IGNORECASE))
+        # Un V/F «con justificación» se trata como abierto. La etiqueta se revisa por raíz; en
+        # el enunciado solo cuentan instrucciones (imperativos al inicio de oración o tras «y»),
+        # para no confundir palabras del contenido («se explica», «contraargumento»).
+        requiere_escrito = bool(
+            re.search(r"justific|explic|fundament|corrig|corr[ií]j|argumentar?\b|argumentaci|razona", etiqueta, re.IGNORECASE)
+            or re.search(r"(?:^|[.?!¿:;]\s*|\by\s+)(?:justifica|explica|fundamenta|corrige|argumenta|razona)\b"
+                         r"|(?:^|[.?!:;]\s*)(?:explain|justify)\b|\bcorrect\s+(?:the|any|each|false)\b",
+                         " ".join(enunciado_partes), re.IGNORECASE))
         opciones_vf = bool(opciones) and set(o.lower() for o in opciones) <= {"verdadero", "falso"}
         if requiere_escrito and (opciones_vf or (es_vf and not opciones)):
             tipo = "desarrollo_breve"
@@ -167,6 +177,8 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
         elif es_vf and not opciones:
             tipo = "verdadero_falso"
             opciones = ["Verdadero", "Falso"]
+        elif opciones and not opciones_vf and RE_VARIAS.search(etiqueta + " " + " ".join(enunciado_partes)):
+            tipo = "varias_correctas"
         elif opciones:
             tipo = "verdadero_falso" if opciones_vf else "alternativas"
         else:
@@ -404,7 +416,11 @@ def parsear_prueba_o_examen(texto: str) -> list[tuple[PreguntaSinRespuesta, Resp
             vf = re.match(r"(verdadero|falso|true|false|v|f)\b", pauta.respuesta_correcta, re.IGNORECASE)
             if vf:
                 pauta.respuesta_correcta = "Verdadero" if vf.group(1).casefold() in {"verdadero", "true", "v"} else "Falso"
-        if pauta and p.opciones and len(pauta.respuesta_correcta) == 1 and pauta.respuesta_correcta.lower() in "abcd":
+        if pauta and p.tipo == "varias_correctas" and p.opciones:
+            pauta.respuesta_correcta = (
+                resolver_letras_varias(pauta.retroalimentacion, p.opciones) or pauta.respuesta_correcta
+            )
+        elif pauta and p.opciones and len(pauta.respuesta_correcta) == 1 and pauta.respuesta_correcta.lower() in "abcde":
             # La pauta trae solo la letra ("a", "b"...) — IntentoEvaluacion.entregar()
             # compara la respuesta del alumno (el TEXTO de la opción que clickeó, nunca
             # la letra) contra `respuesta_correcta`, así que hay que resolver la letra al

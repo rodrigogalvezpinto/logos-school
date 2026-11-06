@@ -8,6 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 2, OA 3, OA 4, OA 7, OA 11, OA 12, OA 14, OA 16
 basado_en: contenido/08-basico/historia-geografia-y-cs-sociales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 2","3":"OA 3","5":"OA 4","8":"OA 7","9":"OA 11","11":"OA 12","14":"OA 16"}
 ---
 
 # Prueba de unidad — Eje Historia (8° Básico)
@@ -26,8 +27,8 @@ Ilustración y la independencia de Hispanoamérica y de Chile.
 **1. (Alternativas)** ¿Qué proceso quebró la unidad religiosa de la Europa occidental medieval?
 
 a) La Revolución neolítica
-b) La Reforma protestante
-c) La caída del Imperio romano de Occidente
+b) La caída del Imperio romano de Occidente
+c) La Reforma protestante
 d) La fundación de las universidades medievales
 
 ---
@@ -40,29 +41,34 @@ forma mucho más rápida y masiva que en la época de los manuscritos copiados a
 **3. (Alternativas)** ¿Cuál de los siguientes rasgos caracteriza al Estado moderno, a diferencia
 de la organización política medieval?
 
-a) El poder disperso entre múltiples señores feudales
-b) Un ejército profesional pagado y controlado por la Corona
-c) La ausencia total de impuestos
-d) La total autonomía de las ciudades frente al rey
+a) El poder disperso entre múltiples señores feudales y sus vasallos
+b) La total autonomía de las ciudades frente al rey y sus funcionarios
+c) La ausencia total de impuestos para financiar al gobierno central
+d) Un ejército profesional pagado y controlado por la Corona
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada rasgo del Estado moderno con su función:
+**4. (Alternativas — unir)** Une cada rasgo del Estado moderno con su función:
 
 1) Burocracia — 2) Sistema fiscal centralizado — 3) Ejército profesional
 
-a) Permite al rey defender y expandir el territorio de forma independiente de los señores
-feudales — b) Administra el territorio en nombre del rey, reemplazando el poder disperso de los
-señores locales — c) Otorga al rey recursos propios y mayor independencia financiera
+Funciones: (A) Permite al rey defender y expandir el territorio de forma independiente de los señores feudales — (B) Administra el territorio en nombre del rey, reemplazando el poder disperso de los señores locales — (C) Otorga al rey recursos propios y mayor independencia financiera
+
+¿Qué combinación es correcta?
+
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
 ---
 
 **5. (Alternativas)** Según el mercantilismo, ¿cómo se medía principalmente la riqueza de un
 reino?
 
-a) Por la cantidad de tierras cultivadas
-b) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
-c) Por el número de universidades que poseía
+a) Por la cantidad de tierras cultivadas que pertenecían a la nobleza del reino
+b) Por el número de universidades y bibliotecas que poseían sus principales ciudades
+c) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
 d) Por la cantidad de población que vivía en sus ciudades
 
 ---
@@ -74,30 +80,28 @@ los precios en Europa, provocada en parte por la llegada masiva de plata america
 
 **7. (Alternativas)** ¿Qué postura defendió Bartolomé de las Casas en el debate de Valladolid?
 
-a) Que los indígenas eran seres inferiores, cuyo sometimiento estaba justificado
-b) Que los indígenas eran seres humanos racionales, con plenos derechos
+a) Que los indígenas eran seres humanos racionales, con plenos derechos
+b) Que los indígenas eran seres inferiores, cuyo sometimiento estaba justificado
 c) Que los indígenas debían ser exterminados
 d) Que la Conquista de América no había ocurrido
 
 ---
 
-**8. (Relacionar / emparejar)** Une cada personaje del debate de Valladolid con su argumento
-principal:
+**8. (Alternativas)** ¿Qué opción asigna correctamente las posturas del debate de Valladolid?
 
-1) Bartolomé de las Casas — 2) Juan Ginés de Sepúlveda
-
-a) Defendió la teoría aristotélica de la "esclavitud natural" para justificar el sometimiento
-indígena — b) Denunció los abusos de la Conquista y defendió la humanidad racional de los
-indígenas
+a) Bartolomé de las Casas defendió la "esclavitud natural" para justificar la Conquista; Juan Ginés de Sepúlveda denunció los abusos y defendió la humanidad racional de los indígenas
+b) Ambos defendieron la "esclavitud natural" de los indígenas, pero Las Casas pidió que se aplicara con menos violencia que la propuesta por Sepúlveda
+c) Ambos negaron que los indígenas fueran seres humanos racionales, y discutieron solo si la Corona debía permitir o no la encomienda en América
+d) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento
 
 ---
 
 **9. (Alternativas)** ¿Qué era la "mita" en la sociedad colonial americana?
 
-a) Un impuesto que solo pagaban los criollos
-b) Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
-c) Una fiesta religiosa de origen indígena
-d) Un tribunal encargado de juzgar a los encomenderos
+a) Un impuesto que solo pagaban los criollos por el comercio con España
+b) Un tribunal encargado de juzgar a los encomenderos que abusaban de los indígenas
+c) Una fiesta religiosa de origen indígena que la Iglesia permitió celebrar
+d) Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
 
 ---
 
@@ -109,9 +113,9 @@ organizada en distintos grupos o castas según el origen étnico y familiar de l
 **11. (Alternativas)** ¿Qué consecuencia territorial tuvo el fracaso de la conquista española de
 Arauco?
 
-a) Los españoles conquistaron completamente el territorio mapuche
-b) Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo al sur
-c) El pueblo mapuche fue trasladado forzosamente al norte de Chile
+a) Los españoles conquistaron completamente el territorio mapuche y fundaron ciudades al sur del Biobío
+b) El pueblo mapuche fue trasladado forzosamente al norte de Chile para trabajar en las minas
+c) Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo al sur
 d) Se prohibió cualquier tipo de contacto entre españoles y mapuches
 
 ---
@@ -129,34 +133,36 @@ d) Galileo Galilei
 **13. (Alternativas)** ¿Qué acontecimiento europeo de 1808 desencadenó la crisis de la monarquía
 española que abrió paso a los procesos independentistas americanos?
 
-a) La Reforma protestante
+a) La Reforma protestante iniciada por Martín Lutero en Alemania
 b) La invasión napoleónica a España y la caída de Fernando VII
-c) El Concilio de Trento
-d) La Revolución científica
+c) El Concilio de Trento y la Contrarreforma
+d) La Revolución científica y el heliocentrismo
 
 ---
 
-**14. (Ordenar secuencia)** Ordena cronológicamente estas etapas del proceso de independencia de
-Chile: (1) Reconquista española, (2) Primera Junta de Gobierno, (3) Independencia declarada, (4)
-Batalla de Chacabuco.
+**14. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) Reconquista española, (2) Primera Junta de Gobierno, (3) Independencia declarada, (4) Batalla de Chacabuco.
+
+a) 2 → 4 → 1 → 3
+b) 2 → 1 → 4 → 3
+c) 1 → 2 → 4 → 3
+d) 2 → 1 → 3 → 4
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** La Reforma protestante
+1. **c)** La Reforma protestante
 2. **Verdadero**
-3. **b)** Un ejército profesional pagado y controlado por la Corona
-4. 1-b, 2-c, 3-a
-5. **b)** Por la cantidad de metales preciosos (oro y plata) que lograba acumular
+3. **d)** Un ejército profesional pagado y controlado por la Corona
+4. a) 1-B, 2-C, 3-A. Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
+5. **c)** Por la cantidad de metales preciosos (oro y plata) que lograba acumular
 6. **Verdadero**
-7. **b)** Que los indígenas eran seres humanos racionales, con plenos derechos
-8. 1-b, 2-a
-9. **b)** Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
+7. **a)** Que los indígenas eran seres humanos racionales, con plenos derechos
+8. d) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento. Este debate ilustra cómo la Conquista generó profundas discusiones morales dentro de la propia cultura europea.
+9. **d)** Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
 10. **Verdadero**
-11. **b)** Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo
+11. **c)** Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo
     al sur
 12. **b)** Montesquieu
 13. **b)** La invasión napoleónica a España y la caída de Fernando VII
-14. **2 → 1 → 4 → 3** (Primera Junta de Gobierno → Reconquista → Batalla de Chacabuco →
-    Independencia declarada)
+14. b) 2 → 1 → 4 → 3. Primera Junta (1810), Reconquista (1814-1817), Chacabuco (1817) y declaración de la Independencia (1818).

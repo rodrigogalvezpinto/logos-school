@@ -1,7 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 3° Básico
-oa_por_pregunta: {"8":"OA 6"}
+oa_por_pregunta: {"1":"OA 2","4":"OA 4","6":"OA 5","7":"OA 6","8":"OA 6","9":"OA 6"}
 eje: Ciencias de la Vida (OA 2, OA 4, OA 5, OA 6)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Ciencias de la Vida
@@ -41,10 +41,11 @@ b) Agua
 c) Oxígeno
 d) Nitrógeno
 
-**Pregunta 4 (clasificar/agrupar).** Junta cada ejemplo con el tipo de importancia de
-las plantas que representa: manzanas para comer, madera para construir una casa,
-sombra de un árbol para un ave que anida. Categorías: alimento, producto derivado,
-protección/refugio.
+**Pregunta 4 (alternativas — clasificar).** Las plantas son importantes como alimento, como fuente de productos derivados y como protección/refugio. ¿Qué tipo de importancia representa la **sombra de un árbol donde anida un ave**?
+
+a) Protección/refugio
+b) Alimento
+c) Producto derivado
 
 **Pregunta 5 (alternativas).** ¿Cuál de estos materiales tarda más tiempo en
 degradarse de forma natural?
@@ -53,22 +54,42 @@ b) Una hoja de papel
 c) Una botella de vidrio
 d) Un resto de verdura
 
-**Pregunta 6 (aplicación).** Propón una práctica simple para reducir los desechos en
-tu casa o en tu colegio.
+**Pregunta 6 (alternativas — aplicación).** ¿Qué práctica ayuda a **reducir** los desechos en tu casa o en tu colegio?
 
-**Pregunta 7 (clasificar/agrupar).** Junta cada alimento según su función principal en
-el organismo: pan, huevo, zanahoria, pescado, papas, naranja. Grupos: energía,
-constructores, reguladores.
+a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables
+b) Usar más bolsas plásticas de un solo uso para separar la basura en la casa
+c) Botar la comida que sobra cada día, para que no se eche a perder en el refrigerador
+d) Imprimir las tareas por un solo lado de la hoja y botar las hojas que salen mal
 
-**Pregunta 8 (observación/análisis).** Mira esta imagen: una colación con papas fritas
+**Pregunta 7 (varias correctas — clasificar).** ¿Qué alimentos son **constructores** (ayudan a crecer y reparar el cuerpo)?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Pan
+b) Huevo
+c) Zanahoria
+d) Pescado
+e) Naranja
+
+**Pregunta 8 (alternativas — análisis).** Mira esta imagen: una colación con papas fritas
 de paquete, una bebida azucarada y golosinas.
 [Imagen: una mesa con snacks envasados, papas fritas y una bebida de color muy
 llamativo]
 ¿Por qué esta colación no es la opción más saludable para comer todos los días?
 
-**Pregunta 9 (desarrollo breve).** Explica con tus palabras por qué es importante
+a) Porque es muy cara y se puede comprar algo más barato en el kiosco
+b) Porque tiene demasiadas verduras y le faltan alimentos con azúcar
+c) Porque no tiene colores llamativos y a los niños no les gusta comerla
+d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
+
+**Pregunta 9 (alternativas).** ¿Por qué es importante
 comer alimentos de los tres grupos (energéticos, constructores y reguladores) y no
 solo de uno.
+
+a) Porque así se come más cantidad y el cuerpo crece más rápido
+b) Porque cada grupo cumple una función distinta y necesaria para el cuerpo
+c) Porque los tres grupos tienen el mismo sabor y se pueden cambiar entre sí
+d) Porque comer de un solo grupo engorda, aunque sea de verduras y frutas
 
 ---
 
@@ -80,18 +101,9 @@ solo de uno.
    sin haber sido traída desde otro lugar.
 3. **c) Oxígeno** — las plantas liberan oxígeno durante la fotosíntesis, esencial para
    que los seres vivos respiren.
-4. **Manzanas → alimento. Madera → producto derivado. Sombra para el nido →
-   protección/refugio.**
+4. a) Protección/refugio. Las manzanas son alimento, la madera es un producto derivado y la sombra para el nido es protección/refugio.
 5. **c) Una botella de vidrio** — puede tardar miles de años en degradarse.
-6. Cualquier respuesta razonable, por ejemplo: llevar una botella reutilizable en vez
-   de comprar bebidas en envases desechables, comprar solo lo necesario, evitar bolsas
-   plásticas de un solo uso.
-7. **Energía: pan, papas. Constructores: huevo, pescado. Reguladores: zanahoria,
-   naranja.**
-8. Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos
-   reguladores como frutas o verduras; consumirla en exceso y con frecuencia puede ser
-   perjudicial para la salud.
-9. Porque cada grupo cumple una función distinta y necesaria: los energéticos dan
-   fuerza para moverse, los constructores ayudan a crecer y reparar el cuerpo, y los
-   reguladores ayudan a que el cuerpo funcione bien y se defienda de enfermedades; si
-   faltara alguno, el cuerpo no tendría todo lo que necesita.
+6. a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables. Comprar solo lo necesario y evitar bolsas de un solo uso también reduce los desechos.
+7. b y d — Huevo y pescado son constructores; pan y papas dan energía; zanahoria y naranja son reguladores.
+8. d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras. Consumirla en exceso y con frecuencia puede ser perjudicial para la salud; no se trata de nunca comerla, sino de no basar la alimentación en ella.
+9. b) Porque cada grupo cumple una función distinta y necesaria para el cuerpo. Los energéticos dan fuerza, los constructores ayudan a crecer y reparar el cuerpo, y los reguladores a que funcione bien y se defienda de enfermedades.

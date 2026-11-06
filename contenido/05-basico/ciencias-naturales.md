@@ -97,38 +97,37 @@ plantas como a animales, incluidas las personas.
    **Retroalimentación:** Por ejemplo, el corazón combina tejido muscular, nervioso y
    conectivo para cumplir su función de bombear sangre.
 
-3. *(Ordenar)* Ordena estos niveles de organización desde el más simple hasta el más
-   complejo: sistema — célula — órgano — tejido.
-   **Respuesta correcta:** Célula → tejido → órgano → sistema.
-   **Retroalimentación:** Cada nivel agrupa varias unidades del nivel anterior: varias
-   células forman un tejido, varios tejidos un órgano, y varios órganos un sistema.
+3. *(Alternativas — ordenar)* ¿Cuál es el orden de los niveles de organización, desde el más simple hasta el más complejo?
+   a) Célula → tejido → órgano → sistema
+   b) Tejido → célula → sistema → órgano
+   c) Sistema → órgano → tejido → célula
+   d) Célula → órgano → tejido → sistema
+   **Respuesta correcta:** a) Célula → tejido → órgano → sistema.
+   **Retroalimentación:** Cada nivel agrupa varias unidades del nivel anterior: varias células forman un tejido, varios tejidos un órgano, y varios órganos un sistema.
 
-4. *(Relacionar/aplicación)* Relaciona cada elemento con su nivel de organización:
-   corazón — circulación de la sangre por todo el cuerpo — célula muscular cardíaca —
-   tejido muscular cardíaco.
-   **Respuesta correcta:** Célula muscular cardíaca = célula. Tejido muscular cardíaco
-   = tejido. Corazón = órgano. Circulación de la sangre por todo el cuerpo = función
-   del sistema circulatorio.
-   **Retroalimentación:** Fíjate en la escala: de lo más pequeño (célula) a lo que
-   coordina varios órganos (sistema).
+4. *(Alternativas — vincular)* ¿Qué elemento corresponde al nivel de **tejido**?
+   a) La célula muscular cardíaca
+   b) El corazón
+   c) La circulación de la sangre por todo el cuerpo
+   d) El tejido muscular cardíaco
+   **Respuesta correcta:** d) El tejido muscular cardíaco.
+   **Retroalimentación:** La célula muscular cardíaca es una célula, el tejido muscular cardíaco es un tejido, el corazón es un órgano y la circulación de la sangre es una función del sistema circulatorio. Fíjate en la escala: de lo más pequeño (célula) a lo que coordina varios órganos (sistema).
 
-5. *(Desarrollo breve)* Explica con tus palabras por qué se dice que los órganos
-   "cumplen funciones específicas" y que, según esas funciones, se agrupan en
-   sistemas.
-   **Respuesta esperada:** Cada órgano tiene una tarea concreta (el estómago digiere,
-   el corazón bombea sangre); los órganos que colaboran en una misma función general
-   se agrupan en un sistema, como el digestivo o el circulatorio.
-   **Retroalimentación:** La clave es entender que la organización en sistemas
-   responde a una función compartida, no solo a la cercanía física de los órganos.
+5. *(Alternativas)* ¿Por qué los órganos se agrupan en sistemas?
+   a) Porque están pegados unos a otros dentro del cuerpo, aunque cumplan funciones distintas y no colaboren entre sí
+   b) Porque los sistemas son más pequeños que los órganos, y cada órgano está formado por varios sistemas
+   c) Porque todos los órganos cumplen exactamente la misma función
+   d) Porque los órganos que colaboran en una misma función general (como digerir o hacer circular la sangre) forman un sistema
+   **Respuesta correcta:** d) Porque los órganos que colaboran en una misma función general (como digerir o hacer circular la sangre) forman un sistema.
+   **Retroalimentación:** Cada órgano tiene una tarea concreta (el estómago digiere, el corazón bombea sangre); la organización en sistemas responde a una función compartida, no solo a la cercanía física de los órganos.
 
-6. *(Aplicación)* Elige un sistema del cuerpo humano (respiratorio, digestivo o
-   circulatorio) y describe brevemente cómo varios órganos trabajan coordinadamente
-   dentro de él.
-   **Respuesta esperada:** Por ejemplo, en el sistema respiratorio: la nariz filtra el
-   aire, la tráquea lo conduce, y los pulmones realizan el intercambio de gases; los
-   tres órganos trabajan de forma coordinada.
-   **Retroalimentación:** Una buena respuesta nombra al menos dos órganos y explica
-   cómo su trabajo conjunto logra la función del sistema.
+6. *(Alternativas — aplicación)* ¿Qué descripción muestra correctamente cómo varios órganos trabajan coordinadamente en el **sistema respiratorio**?
+   a) El estómago filtra el aire, el corazón lo conduce a los pulmones y la nariz guarda el oxígeno
+   b) Los pulmones digieren el aire, la tráquea lo guarda y la nariz bombea la sangre al corazón
+   c) La nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases
+   d) La tráquea produce oxígeno, la nariz lo guarda y los pulmones lo envían al estómago
+   **Respuesta correcta:** c) La nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases.
+   **Retroalimentación:** Una buena respuesta nombra al menos dos órganos del sistema y explica cómo su trabajo conjunto logra la función del sistema.
 
 ---
 
@@ -188,39 +187,38 @@ salud tanto como comer muy poco.
    **Retroalimentación:** Los carbohidratos son la principal fuente de energía para
    las actividades diarias y el movimiento del cuerpo.
 
-3. *(Clasificar)* Agrupa estos alimentos según su aporte principal: legumbres, arroz,
-   naranja, huevo, palta, pan.
-   **Respuesta correcta:** Proteínas: legumbres, huevo. Carbohidratos: arroz, pan.
-   Vitaminas/minerales: naranja. Grasas: palta.
-   **Aclaración:** puede haber solapamientos (por ejemplo, las
-   legumbres también aportan carbohidratos), lo importante es identificar el aporte
-   principal de cada alimento.
-   **Retroalimentación:** Fíjate en la función principal de cada grupo: reparar
-   (proteínas), dar energía (carbohidratos y grasas), o apoyar el desarrollo general
-   (vitaminas y minerales).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos alimentos tienen como aporte principal las **proteínas**? Marca **todas** las correctas.
+   a) Legumbres
+   b) Arroz
+   c) Huevo
+   d) Naranja
+   e) Pan
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** Proteínas: legumbres, huevo. Carbohidratos: arroz, pan. Vitaminas/minerales: naranja. Grasas: palta. Puede haber solapamientos (las legumbres también aportan carbohidratos); lo importante es identificar el aporte principal de cada alimento.
 
-4. *(Desarrollo breve)* Explica por qué se recomienda el consumo de carne o legumbres
-   para los procesos de reparación y crecimiento del cuerpo.
-   **Respuesta esperada:** Porque estos alimentos son ricos en proteínas, el
-   nutriente principal que el cuerpo utiliza para construir y reparar tejidos, como
-   músculos y piel.
-   **Retroalimentación:** La relación clave es: proteínas → reparación y crecimiento.
+4. *(Alternativas)* ¿Por qué se recomienda el consumo de carne o legumbres para los procesos de reparación y crecimiento del cuerpo?
+   a) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos
+   b) Porque son ricos en azúcar, el nutriente que el cuerpo usa para reparar los huesos rotos
+   c) Porque no tienen ningún nutriente y solo sirven para quitar el hambre por un rato
+   d) Porque solo aportan agua, que es lo que el cuerpo necesita para crecer y repararse
+   **Respuesta correcta:** a) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos.
+   **Retroalimentación:** La relación clave es: proteínas → reparación y crecimiento de tejidos, como músculos y piel.
 
-5. *(Análisis/evaluación)* Evalúa la siguiente dieta de un estudiante: desayuno (pan
-   con mermelada y bebida), almuerzo (papas fritas con pollo), colación (galletas
-   dulces), cena (pan con queso). ¿Qué grupo de nutrientes está muy poco presente?
-   **Respuesta esperada:** Faltan vitaminas y minerales, ya que casi no hay frutas ni
-   verduras en la dieta descrita.
-   **Retroalimentación:** Evaluar una dieta implica identificar qué grupos de
-   nutrientes están ausentes o en exceso, no solo contar la cantidad de comida.
+5. *(Alternativas — análisis)* Evalúa la siguiente dieta de un estudiante: desayuno (pan con mermelada y bebida), almuerzo (papas fritas con pollo), colación (galletas dulces), cena (pan con queso). ¿Qué grupo de nutrientes está muy poco presente?
+   a) Carbohidratos, porque no hay pan
+   b) Grasas, porque no hay frituras
+   c) Proteínas, porque no hay ningún alimento de origen animal
+   d) Vitaminas y minerales, porque casi no hay frutas ni verduras
+   **Respuesta correcta:** d) Vitaminas y minerales, porque casi no hay frutas ni verduras.
+   **Retroalimentación:** Evaluar una dieta implica identificar qué grupos de nutrientes están ausentes o en exceso, no solo contar la cantidad de comida. Esta dieta tiene muchos carbohidratos (pan, galletas, papas), grasas (frituras) y algo de proteína (pollo, queso).
 
-6. *(Aplicación)* Diseña un almuerzo saludable para un niño de tu edad que incluya al
-   menos tres grupos de nutrientes distintos, señalando qué alimento aporta cada uno.
-   **Respuesta esperada:** Por ejemplo: lentejas (proteínas), arroz (carbohidratos),
-   ensalada de tomate y lechuga (vitaminas y minerales), un poco de aceite de oliva
-   (grasas).
-   **Retroalimentación:** Un almuerzo saludable combina variedad de nutrientes en
-   porciones adecuadas, no solo abundancia de un solo grupo.
+6. *(Alternativas — aplicación)* ¿Qué almuerzo incluye **al menos tres grupos de nutrientes distintos**?
+   a) Pan (carbohidratos), fideos (carbohidratos), arroz (carbohidratos) y papas fritas (grasas)
+   b) Lentejas (proteínas), arroz (carbohidratos) y ensalada de tomate y lechuga (vitaminas y minerales)
+   c) Galletas (azúcar), bebida (azúcar) y dulces (azúcar y grasas)
+   d) Tres vasos de jugo de naranja (vitaminas) y nada más
+   **Respuesta correcta:** b) Lentejas (proteínas), arroz (carbohidratos) y ensalada de tomate y lechuga (vitaminas y minerales).
+   **Retroalimentación:** Un almuerzo saludable combina variedad de nutrientes en porciones adecuadas, no solo abundancia de un solo grupo; un poco de aceite de oliva agregaría además grasas saludables.
 
 ---
 
@@ -279,36 +277,37 @@ fuma dentro de la casa.
    (fumadores pasivos) también pueden desarrollar enfermedades respiratorias y
    circulatorias.
 
-3. *(Clasificar)* Clasifica estas enfermedades según el sistema que afectan:
-   arritmias, cáncer pulmonar, trombosis, asma.
-   **Respuesta correcta:** Sistema respiratorio: cáncer pulmonar, asma. Sistema
-   circulatorio: arritmias, trombosis.
-   **Retroalimentación:** Fíjate en qué órgano se ve más afectado: pulmones y vías
-   respiratorias (respiratorio) o corazón y vasos sanguíneos (circulatorio).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas enfermedades afectan principalmente al **sistema circulatorio**? Marca **todas** las correctas.
+   a) Arritmias
+   b) Cáncer pulmonar
+   c) Trombosis
+   d) Asma
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** Las arritmias y la trombosis afectan el corazón y los vasos sanguíneos (circulatorio); el cáncer pulmonar y el asma afectan pulmones y vías respiratorias (respiratorio).
 
-4. *(Desarrollo breve)* Explica qué significa ser "fumador pasivo" y da un ejemplo de
-   una situación cotidiana en la que esto podría ocurrir.
-   **Respuesta esperada:** Un fumador pasivo es una persona que respira el humo de
-   tabaco de otros sin fumar directamente; por ejemplo, un niño que está en una sala
-   donde un adulto está fumando.
-   **Retroalimentación:** El punto clave es que el daño no requiere fumar
-   directamente, basta con respirar el humo ajeno.
+4. *(Alternativas)* ¿Qué es un "fumador pasivo"?
+   a) Una persona que fuma poco, solo uno o dos cigarrillos los fines de semana
+   b) Una persona que dejó de fumar hace muchos años y ya no respira humo de tabaco
+   c) Una persona que respira el humo de tabaco de otros sin fumar directamente, como un niño en una sala donde un adulto fuma
+   d) Una persona que fuma solo al aire libre, en el patio o en la calle, para que el humo no quede dentro de la casa ni lo respiren otros
+   **Respuesta correcta:** c) Una persona que respira el humo de tabaco de otros sin fumar directamente, como un niño en una sala donde un adulto fuma.
+   **Retroalimentación:** El punto clave es que el daño no requiere fumar directamente: basta con respirar el humo ajeno.
 
-5. *(Análisis)* ¿Por qué crees que el humo de tabaco afecta tanto al sistema
-   respiratorio como al sistema circulatorio, y no solo a los pulmones?
-   **Respuesta esperada:** Porque las sustancias tóxicas del humo, al ser inhaladas,
-   pasan a la sangre a través de los pulmones y desde ahí circulan por todo el
-   cuerpo, afectando también el corazón y los vasos sanguíneos.
-   **Retroalimentación:** Comprender esta conexión ayuda a ver por qué fumar es
-   dañino para más de un sistema del cuerpo a la vez.
+5. *(Alternativas — análisis)* ¿Por qué el humo de tabaco afecta tanto al sistema respiratorio como al circulatorio, y no solo a los pulmones?
+   a) Porque las sustancias tóxicas inhaladas pasan a la sangre en los pulmones y desde ahí circulan por todo el cuerpo
+   b) Porque el humo entra directamente al corazón por la boca, sin pasar por los pulmones ni por la sangre
+   c) Porque el sistema circulatorio está dentro de los pulmones, y el humo se queda guardado ahí para siempre
+   d) Porque el humo solo afecta la piel y el pelo, y desde ahí llega a los demás órganos del cuerpo
+   **Respuesta correcta:** a) Porque las sustancias tóxicas inhaladas pasan a la sangre en los pulmones y desde ahí circulan por todo el cuerpo.
+   **Retroalimentación:** Comprender esta conexión ayuda a ver por qué fumar es dañino para más de un sistema del cuerpo a la vez.
 
-6. *(Investigación/aplicación)* Investiga (o recuerda de campañas de salud que hayas
-   visto) y menciona dos medidas que una persona podría tomar para reducir su
-   exposición al humo de tabaco ajeno.
-   **Respuesta esperada:** Por ejemplo: evitar espacios cerrados donde se fuma, pedir
-   que no se fume dentro de la casa o el auto, promover espacios libres de humo.
-   **Retroalimentación:** Reconocer medidas de prevención conecta este aprendizaje
-   con hábitos de cuidado de la salud en la vida diaria.
+6. *(Varias correctas — aplicación)* ¿Cuáles de estas medidas reducen la exposición al humo de tabaco ajeno? Marca **todas** las correctas.
+   a) Evitar espacios cerrados donde se fuma
+   b) Pedir que no se fume dentro de la casa o el auto
+   c) Abrir la ventana mientras alguien fuma al lado
+   d) Promover espacios libres de humo
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Abrir una ventana no elimina el humo que se respira cerca de quien fuma; las otras medidas sí reducen la exposición. Reconocer medidas de prevención conecta este aprendizaje con hábitos de cuidado de la salud.
 
 ---
 
@@ -351,10 +350,10 @@ espacios donde vivimos.
 
 1. *(Alternativas)* ¿Cuál de los siguientes es un ejemplo de microorganismo
    beneficioso para la salud?
-   a) El virus de la influenza
+   a) El virus de la influenza, que activa las defensas
    b) Las bacterias intestinales que ayudan a la digestión
-   c) El hongo que causa el pie de atleta
-   d) La bacteria que causa una infección
+   c) El hongo que causa el pie de atleta en la piel
+   d) La bacteria que causa una infección en el estómago
    **Respuesta correcta:** b) Las bacterias intestinales que ayudan a la digestión.
    **Retroalimentación:** No todas las bacterias son dañinas: algunas cumplen
    funciones beneficiosas dentro de nuestro propio cuerpo.
@@ -364,39 +363,37 @@ espacios donde vivimos.
    **Retroalimentación:** Algunos hongos, como los champiñones, son comestibles y
    nutritivos; otros, en cambio, pueden causar infecciones.
 
-3. *(Clasificar)* Clasifica en beneficioso o dañino: hongo comestible (champiñón),
-   virus de la gripe, bacteria intestinal, hongo del pie de atleta.
-   **Respuesta correcta:** Beneficiosos: hongo comestible, bacteria intestinal.
-   Dañinos: virus de la gripe, hongo del pie de atleta.
-   **Retroalimentación:** Un mismo tipo de microorganismo (bacteria, virus u hongo)
-   puede tener representantes beneficiosos y dañinos: lo importante es identificar el
-   efecto específico de cada uno.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos microorganismos son **beneficiosos**? Marca **todas** las correctas.
+   a) Hongo comestible (champiñón)
+   b) Virus de la gripe
+   c) Bacteria intestinal
+   d) Hongo del pie de atleta
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** Un mismo tipo de microorganismo (bacteria, virus u hongo) puede tener representantes beneficiosos y dañinos: lo importante es identificar el efecto específico de cada uno.
 
-4. *(Desarrollo breve)* Explica qué es una enfermedad infectocontagiosa y da un
-   ejemplo.
-   **Respuesta esperada:** Es una enfermedad causada por un microorganismo (bacteria,
-   virus u hongo) que puede transmitirse de una persona a otra; por ejemplo, la
-   gripe, causada por un virus.
-   **Retroalimentación:** El concepto clave es "transmisión de persona a persona",
-   que la distingue de otras enfermedades no contagiosas.
+4. *(Alternativas)* ¿Qué es una enfermedad infectocontagiosa?
+   a) Una enfermedad que se hereda de los padres y aparece desde el nacimiento, como el daltonismo
+   b) Una enfermedad causada por un golpe o una caída, como una fractura del brazo
+   c) Una enfermedad que nunca se transmite, aunque la cause un microorganismo, como la gripe
+   d) Una enfermedad causada por un microorganismo que puede transmitirse de una persona a otra, como la gripe
+   **Respuesta correcta:** d) Una enfermedad causada por un microorganismo que puede transmitirse de una persona a otra, como la gripe.
+   **Retroalimentación:** El concepto clave es "transmisión de persona a persona", que la distingue de otras enfermedades no contagiosas.
 
-5. *(Análisis)* ¿Por qué el lavado de manos es una de las medidas de higiene más
-   recomendadas para prevenir enfermedades infectocontagiosas?
-   **Respuesta esperada:** Porque las manos entran en contacto frecuente con
-   superficies, alimentos y la cara, y pueden transportar bacterias y virus; lavarlas
-   elimina gran parte de esos microorganismos antes de que puedan causar una
-   infección.
-   **Retroalimentación:** Comprender el "por qué" de una medida de higiene ayuda a
-   valorarla y aplicarla de forma consciente, no solo por costumbre.
+5. *(Alternativas — análisis)* ¿Por qué el lavado de manos es una de las medidas de higiene más recomendadas para prevenir enfermedades infectocontagiosas?
+   a) Porque así las manos huelen bien y se ven más limpias, aunque no cambie nada en la salud
+   b) Porque las manos tocan superficies, alimentos y la cara, y pueden transportar microorganismos que el lavado elimina
+   c) Porque el agua fría mata todos los virus del cuerpo, incluso los que ya están dentro
+   d) Porque las manos producen bacterias propias, y el lavado impide que se multipliquen en la piel
+   **Respuesta correcta:** b) Porque las manos tocan superficies, alimentos y la cara, y pueden transportar microorganismos que el lavado elimina.
+   **Retroalimentación:** Comprender el "por qué" de una medida de higiene ayuda a valorarla y aplicarla de forma consciente, no solo por costumbre.
 
-6. *(Investigación/aplicación)* Investiga y menciona dos medidas de higiene, además
-   del lavado de manos, que ayuden a prevenir el contagio de enfermedades causadas
-   por microorganismos.
-   **Respuesta esperada:** Por ejemplo: usar desinfectante para manos, cubrirse la
-   boca y nariz al toser o estornudar, no compartir utensilios de comida o bebida con
-   personas enfermas, mantener limpios los espacios comunes.
-   **Retroalimentación:** Cualquier medida razonable de higiene, coherente con la
-   prevención de contagio, es válida.
+6. *(Varias correctas — aplicación)* Además del lavado de manos, ¿cuáles de estas medidas ayudan a prevenir el contagio de enfermedades causadas por microorganismos? Marca **todas** las correctas.
+   a) Cubrirse la boca y la nariz al toser o estornudar
+   b) Compartir el vaso con una persona enferma
+   c) Usar desinfectante para manos
+   d) Mantener limpios los espacios comunes
+   **Respuesta correcta:** a, c y d.
+   **Retroalimentación:** Compartir utensilios con personas enfermas facilita el contagio; las otras medidas lo previenen.
 
 ---
 
@@ -462,41 +459,37 @@ y las instalaciones eléctricas de una casa: nunca se debe tocar un cable pelado
    **Retroalimentación:** La goma y el plástico son materiales aisladores: impiden o
    dificultan mucho el paso de la corriente eléctrica.
 
-3. *(Clasificar)* Clasifica estos materiales en conductores o aisladores: aluminio,
-   goma, cobre, plástico.
-   **Respuesta correcta:** Conductores: aluminio, cobre. Aisladores: goma, plástico.
-   **Retroalimentación:** Los metales, en general, son buenos conductores; los
-   materiales como goma y plástico son aisladores usados justamente para proteger a
-   las personas.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos materiales son **conductores** de la electricidad? Marca **todas** las correctas.
+   a) Aluminio
+   b) Goma
+   c) Cobre
+   d) Plástico
+   **Respuesta correcta:** a y c.
+   **Retroalimentación:** Los metales, en general, son buenos conductores; materiales como la goma y el plástico son aisladores, usados justamente para proteger a las personas.
 
-4. *(Desarrollo breve)* Explica por qué los cables eléctricos combinan un material
-   conductor por dentro y un material aislador por fuera.
-   **Respuesta esperada:** El material conductor (como el cobre) en el interior
-   permite que la electricidad circule; el material aislador (como el plástico) en el
-   exterior evita que la corriente entre en contacto con las personas, previniendo
-   descargas eléctricas.
-   **Retroalimentación:** Esta combinación es un buen ejemplo de cómo se usan ambos
-   tipos de materiales de forma complementaria en un mismo objeto.
+4. *(Alternativas)* ¿Por qué los cables eléctricos combinan un material conductor por dentro y un aislador por fuera?
+   a) El aislador (plástico) permite que circule la electricidad y el conductor (cobre) evita que la corriente llegue a las personas
+   b) Por razones de color y diseño, para que los cables se vean ordenados y bonitos en la casa
+   c) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
+   d) Para que el cable pese menos y sea más fácil de transportar e instalar en las paredes, aunque cualquiera de los dos conduce igual
+   **Respuesta correcta:** c) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas.
+   **Retroalimentación:** Esta combinación es un buen ejemplo de cómo se usan ambos tipos de materiales de forma complementaria en un mismo objeto.
 
-5. *(Aplicación/predicción)* Si construyes un circuito eléctrico simple con una pila
-   y una ampolleta, y pruebas cerrar el circuito usando una moneda de metal y luego
-   una goma de borrar, ¿en qué caso predices que la ampolleta encenderá? Justifica tu
-   respuesta.
-   **Respuesta esperada:** Con la moneda de metal, porque es un material conductor
-   que permite el paso de la corriente; con la goma de borrar no encenderá, porque es
-   un material aislador.
-   **Retroalimentación:** Una buena predicción se basa en si el material es
-   conductor (permite el paso de la corriente) o aislador (lo impide).
+5. *(Alternativas — predicción)* Si construyes un circuito con una pila y una ampolleta, y pruebas cerrarlo con una moneda de metal y luego con una goma de borrar, ¿en qué caso encenderá la ampolleta?
+   a) Con la moneda de metal, porque es conductora
+   b) Con la goma de borrar, porque es conductora
+   c) En los dos casos
+   d) En ninguno de los dos casos
+   **Respuesta correcta:** a) Con la moneda de metal, porque es conductora.
+   **Retroalimentación:** Una buena predicción se basa en si el material es conductor (permite el paso de la corriente) o aislador (lo impide): la goma es aisladora.
 
-6. *(Análisis/seguridad)* Explica por qué es peligroso tocar un cable eléctrico
-   pelado (sin su recubrimiento de plástico) y qué norma de seguridad deberías seguir
-   frente a artefactos tecnológicos dañados.
-   **Respuesta esperada:** Sin el recubrimiento aislador, el material conductor
-   (cobre) queda expuesto y la corriente puede pasar directamente a la persona que lo
-   toque, provocando una descarga eléctrica; frente a un artefacto dañado, no se debe
-   manipular y se debe avisar a un adulto o desconectarlo de forma segura.
-   **Retroalimentación:** Reconocer el riesgo de los materiales conductores expuestos
-   es clave para aplicar normas de seguridad frente a artefactos tecnológicos.
+6. *(Alternativas — seguridad)* ¿Por qué es peligroso tocar un cable eléctrico pelado, y qué se debe hacer frente a un artefacto dañado?
+   a) Porque el plástico que queda alrededor quema al tocarlo; hay que tocarlo con la mano mojada para enfriarlo y así evitar quemarse
+   b) No es peligroso si el cable es delgado, porque por un cable delgado pasa muy poca corriente; basta con tocarlo rápido y con cuidado
+   c) Porque se puede ensuciar con polvo y fallar; hay que limpiarlo con agua y un paño húmedo antes de volver a enchufar el artefacto
+   d) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura
+   **Respuesta correcta:** d) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura.
+   **Retroalimentación:** Reconocer el riesgo de los materiales conductores expuestos es clave para aplicar normas de seguridad frente a artefactos tecnológicos.
 
 ---
 
@@ -566,38 +559,37 @@ ríos como el Baker y el Biobío.
    casquetes polares, o se encuentra como aguas subterráneas; ríos y lagos son una
    fracción menor.
 
-3. *(Clasificar)* Clasifica estos depósitos de agua en dulce o salada: océano
-   Pacífico, glaciar del Campo de Hielo Sur, lago Llanquihue, agua subterránea.
-   **Respuesta correcta:** Salada: océano Pacífico. Dulce: glaciar del Campo de Hielo
-   Sur, lago Llanquihue, agua subterránea.
-   **Retroalimentación:** Recuerda que los océanos concentran el agua salada, mientras
-   que glaciares, lagos, ríos y aguas subterráneas concentran el agua dulce.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos depósitos de agua contienen agua **dulce**? Marca **todas** las correctas.
+   a) Océano Pacífico
+   b) Glaciar del Campo de Hielo Sur
+   c) Lago Llanquihue
+   d) Agua subterránea
+   **Respuesta correcta:** b, c y d.
+   **Retroalimentación:** Los océanos concentran el agua salada, mientras que glaciares, lagos, ríos y aguas subterráneas concentran el agua dulce.
 
-4. *(Ubicación/aplicación)* Nombra dos lugares de Chile donde se encuentren grandes
-   depósitos de agua dulce.
-   **Respuesta esperada:** Por ejemplo: el Campo de Hielo Sur (glaciares), el lago
-   General Carrera, el lago Llanquihue, o ríos como el Baker o el Biobío.
-   **Retroalimentación:** Chile concentra importantes reservas de agua dulce en la
-   zona sur y austral, principalmente en glaciares y lagos.
+4. *(Varias correctas — ubicación)* ¿Cuáles de estos lugares de Chile son grandes depósitos de **agua dulce**? Marca **todas** las correctas.
+   a) El Campo de Hielo Sur
+   b) El lago General Carrera
+   c) El océano Pacífico frente a Valparaíso
+   d) El río Baker
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Chile concentra importantes reservas de agua dulce en la zona sur y austral, principalmente en glaciares y lagos; el océano es agua salada.
 
-5. *(Desarrollo breve)* Explica por qué se dice que el agua dulce es "relativamente
-   escasa", a pesar de que gran parte del planeta está cubierto de agua.
-   **Respuesta esperada:** Porque la mayor parte del agua de la Tierra es salada
-   (océanos) y no se puede consumir directamente; el agua dulce es solo una pequeña
-   fracción del total, y de esa fracción, la mayoría está congelada o subterránea, no
-   disponible de forma inmediata.
-   **Retroalimentación:** Distinguir "agua total" de "agua dulce disponible" es clave
-   para entender por qué cuidar el agua dulce es tan importante.
+5. *(Alternativas)* ¿Por qué se dice que el agua dulce es "relativamente escasa", a pesar de que gran parte del planeta está cubierto de agua?
+   a) Porque el agua dulce se evapora y desaparece del planeta para siempre, sin volver como lluvia
+   b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está congelada o subterránea
+   c) Porque solo hay agua dulce en Chile, y el resto de los países usa agua de mar
+   d) Porque el agua salada se puede beber directamente, y por eso nadie cuida el agua dulce
+   **Respuesta correcta:** b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está congelada o subterránea.
+   **Retroalimentación:** Distinguir "agua total" de "agua dulce disponible" es clave para entender por qué cuidar el agua dulce es tan importante.
 
-6. *(Análisis)* Describe el papel que juegan los glaciares y las nubes en el ciclo
-   del agua, y explica cómo se relacionan con la disponibilidad de agua dulce.
-   **Respuesta esperada:** Los glaciares almacenan agua dulce congelada que se libera
-   lentamente hacia ríos y lagos; las nubes transportan el agua evaporada y la
-   devuelven a la superficie en forma de lluvia o nieve, alimentando los depósitos de
-   agua dulce.
-   **Retroalimentación:** Comprender el ciclo del agua ayuda a ver que los distintos
-   depósitos de agua dulce no están aislados, sino conectados por un proceso
-   continuo.
+6. *(Alternativas — análisis)* ¿Qué papel cumplen los glaciares y las nubes en el ciclo del agua?
+   a) Los glaciares producen agua salada que se derrite hacia el mar; las nubes la guardan y no la devuelven como lluvia
+   b) Las nubes congelan los ríos durante el invierno y los glaciares los evaporan durante el verano, sin formar lluvia ni nieve
+   c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve
+   d) No participan en el ciclo del agua: los glaciares y las nubes solo existen en las montañas más altas del país
+   **Respuesta correcta:** c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.
+   **Retroalimentación:** Los distintos depósitos de agua dulce no están aislados: están conectados por un proceso continuo que alimenta ríos y lagos.
 
 ---
 
@@ -643,10 +635,10 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
 
 1. *(Alternativas)* ¿Cuál de las siguientes es una consecuencia negativa de la
    actividad humana sobre un río?
-   a) La creación de un área protegida
+   a) La creación de un área protegida a orillas del río
    b) El vertido de desechos industriales sin tratar
-   c) El tratamiento de aguas servidas
-   d) La fiscalización de la contaminación
+   c) El tratamiento de aguas servidas antes de devolverlas
+   d) La fiscalización de la contaminación por las autoridades
    **Respuesta correcta:** b) El vertido de desechos industriales sin tratar.
    **Retroalimentación:** Verter desechos sin tratar contamina el agua y afecta a los
    seres vivos que dependen de ella; las otras opciones son acciones de protección.
@@ -658,41 +650,36 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
    aguas servidas o la creación de áreas protegidas, que ayudan a conservar los
    recursos hídricos.
 
-3. *(Clasificar)* Clasifica estas formas de contaminación según el cuerpo de agua que
-   afectan con más frecuencia: derrame de petróleo, vertido de aguas servidas sin
-   tratar en un río, basura plástica en la costa.
-   **Respuesta correcta:** Océano/costa: derrame de petróleo, basura plástica. Río:
-   vertido de aguas servidas sin tratar.
-   **Retroalimentación:** Aunque toda contaminación del agua está conectada por el
-   ciclo del agua, es útil reconocer los focos de contaminación más frecuentes en
-   cada tipo de cuerpo de agua.
+3. *(Alternativas — clasificar)* ¿Qué forma de contaminación afecta con más frecuencia a los **ríos**?
+   a) El vertido de aguas servidas sin tratar
+   b) Un derrame de petróleo de un barco
+   c) La basura plástica en la playa
+   **Respuesta correcta:** a) El vertido de aguas servidas sin tratar.
+   **Retroalimentación:** Derrames de petróleo y basura plástica en la costa afectan sobre todo al océano; el vertido de aguas servidas, a los ríos. Toda contaminación del agua está conectada por el ciclo del agua.
 
-4. *(Desarrollo breve)* Explica por qué el retroceso de los glaciares en la Patagonia
-   chilena es preocupante para la disponibilidad futura de agua dulce.
-   **Respuesta esperada:** Porque los glaciares son una de las principales reservas
-   de agua dulce del país; si retroceden o desaparecen debido al aumento de la
-   temperatura, se reduce la cantidad de agua dulce disponible a largo plazo para
-   ríos, lagos y consumo humano.
-   **Retroalimentación:** Conectar este OA con el OA 12 (distribución del agua)
-   ayuda a entender por qué proteger los glaciares es tan relevante para Chile.
+4. *(Alternativas)* ¿Por qué el retroceso de los glaciares en la Patagonia chilena es preocupante para la disponibilidad futura de agua dulce?
+   a) Porque son una de las principales reservas de agua dulce del país, y si retroceden se reduce el agua disponible a largo plazo
+   b) Porque los glaciares producen agua salada, y si retroceden aumenta el agua salada del mar
+   c) Porque así aumenta el agua dulce para siempre: cuando los glaciares retroceden, el agua no se acaba nunca
+   d) No es preocupante, porque el agua dulce nunca se acaba y los glaciares vuelven a crecer cada invierno
+   **Respuesta correcta:** a) Porque son una de las principales reservas de agua dulce del país, y si retroceden se reduce el agua disponible a largo plazo.
+   **Retroalimentación:** Conectar este OA con el OA 12 (distribución del agua) ayuda a entender por qué proteger los glaciares es tan relevante para Chile.
 
-5. *(Análisis)* Compara los efectos de dos acciones humanas: verter basura en un lago
-   y crear un área marina protegida. ¿Cuál es positiva y cuál negativa para las
-   reservas hídricas? Justifica.
-   **Respuesta esperada:** Verter basura en un lago es negativo, porque contamina el
-   agua y daña a los seres vivos que dependen de ella; crear un área marina protegida
-   es positivo, porque resguarda el ecosistema acuático y contribuye a conservar el
-   recurso hídrico.
-   **Retroalimentación:** Comparar acciones opuestas ayuda a distinguir con claridad
-   qué hace daño y qué protege a las reservas de agua.
+5. *(Alternativas — análisis)* Compara dos acciones humanas: verter basura en un lago y crear un área marina protegida. ¿Qué afirmación es correcta?
+   a) Las dos son positivas para las reservas hídricas, porque ambas mueven el agua del lago
+   b) Las dos son negativas, porque cualquier intervención humana daña siempre el agua del lago
+   c) Verter basura es positiva porque alimenta a los peces; crear un área protegida es negativa porque impide pescar
+   d) Verter basura es negativa porque contamina el agua; crear un área protegida es positiva porque resguarda el ecosistema
+   **Respuesta correcta:** d) Verter basura es negativa porque contamina el agua; crear un área protegida es positiva porque resguarda el ecosistema.
+   **Retroalimentación:** Comparar acciones opuestas ayuda a distinguir con claridad qué hace daño y qué protege a las reservas de agua.
 
-6. *(Aplicación/propuesta)* Propón dos acciones concretas que tú, tu familia o tu
-   comunidad podrían realizar para proteger las reservas hídricas de Chile.
-   **Respuesta esperada:** Por ejemplo: no botar basura ni químicos en ríos o
-   canales, reducir el consumo innecesario de agua en la casa, participar en
-   actividades de limpieza de playas o riberas, apoyar campañas de cuidado del agua.
-   **Retroalimentación:** Cualquier acción razonable y coherente con la protección de
-   ríos, lagos, glaciares u océanos es una respuesta válida.
+6. *(Varias correctas — propuesta)* ¿Cuáles de estas acciones protegen las reservas hídricas de Chile? Marca **todas** las correctas.
+   a) No botar basura ni químicos en ríos o canales
+   b) Reducir el consumo innecesario de agua en la casa
+   c) Lavar el auto con la manguera abierta todos los días
+   d) Participar en limpiezas de playas o riberas
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Cualquier acción razonable y coherente con la protección de ríos, lagos, glaciares u océanos es válida; dejar la manguera abierta desperdicia agua.
 
 ---
 

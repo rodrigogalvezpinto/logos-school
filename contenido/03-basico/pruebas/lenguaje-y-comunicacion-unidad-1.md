@@ -1,7 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 3° básico
-oa_por_pregunta: {"2":"OA 4","7":"OA 5"}
+oa_por_pregunta: {"2":"OA 4","3":"OA 4","5":"OA 4","7":"OA 5","9":"OA 5"}
 unidad: 1
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
@@ -14,7 +14,7 @@ ultima_actualizacion: 2026-10-28
 
 **Objetivos de Aprendizaje evaluados:** OA N°4 (Profundizo mi comprensión de las narraciones que leo) y OA N°5 (Comprendo poemas y descubro el lenguaje figurado).
 
-**Instrucciones:** Lee con atención el cuento y el poema antes de responder. Marca con una X la alternativa correcta o responde en el espacio indicado.
+**Instrucciones:** Lee con atención el cuento y el poema antes de responder. Marca con una X la alternativa correcta.
 
 ---
 
@@ -39,18 +39,19 @@ ultima_actualizacion: 2026-10-28
 **1.** ¿En qué ciudad ocurre la historia de Valentina?
 
 a) Puerto Montt
-b) Coquimbo
-c) Rancagua
+b) Rancagua
+c) Coquimbo
 
 **2.** Valentina encontró la billetera cerca del quiosco de la esquina.
 
-Verdadero ___ Falso ___
+a) Verdadero
+b) Falso
 
 **3.** ¿Por qué el señor Osvaldo se sintió aliviado al recibir la billetera?
 
-a) Porque no le gustaba caminar mucho
+a) Porque no le gustaba caminar mucho y ya estaba cansado de buscar
 b) Porque llevaba tiempo buscándola y la necesitaba para hacer trámites
-c) Porque quería comprarse una manzana
+c) Porque quería comprarse una manzana y no tenía con qué pagarla
 
 **4.** ¿Cómo es Valentina, según el cuento?
 
@@ -60,9 +61,9 @@ c) Muy conversadora con los desconocidos
 
 **5.** ¿Qué consecuencia tuvo que Valentina devolviera la billetera?
 
-a) Se quedó sin dinero para el resto del mes
+a) Valentina se quedó sin dinero para el resto del mes
 b) El señor Osvaldo pudo recuperar su carné y hacer sus trámites
-c) Perdió su mochila celeste
+c) Valentina perdió su mochila celeste en la plaza
 
 ---
 
@@ -93,7 +94,8 @@ c) Punta Arenas
 
 **7.** Según el poema, las gaviotas vuelan hacia el puerto.
 
-Verdadero ___ Falso ___
+a) Verdadero
+b) Falso
 
 **8.** ¿A qué hora del día ocurre la última estrofa del poema?
 
@@ -110,8 +112,8 @@ c) Que el mar está siempre en silencio
 **10.** ¿Por qué el poema compara a las gaviotas con "cartas blancas"?
 
 a) Porque las gaviotas son de color blanco y "viajan" de un lugar a otro, como si llevaran un mensaje
-b) Porque las gaviotas literalmente llevan cartas de papel
-c) Porque las cartas y las gaviotas pesan lo mismo
+b) Porque las gaviotas literalmente llevan cartas de papel en el pico, como el correo
+c) Porque las cartas y las gaviotas pesan lo mismo y el viento las lleva a las dos por el cielo
 
 ---
 
@@ -119,7 +121,7 @@ c) Porque las cartas y las gaviotas pesan lo mismo
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | b) Coquimbo |
+| 1  | c) Coquimbo |
 | 2  | Verdadero |
 | 3  | b) Porque llevaba tiempo buscándola y la necesitaba para hacer trámites |
 | 4  | a) Curiosa, honesta y algo tímida |

@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 7° Básico
-oa_por_pregunta: {"6":"OA 3"}
+oa_por_pregunta: {"3":"OA 1","6":"OA 3","9":"OA 3","10":"OA 3","13":"OA 4","15":"OA 4"}
 eje: Eje 1 — Números y Operaciones
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
@@ -17,27 +17,37 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 30-35 minutos
 **Cantidad de preguntas:** 15
-**Instrucciones:** Lee cada pregunta con atención. Puedes usar calculadora para verificar cálculos con decimales. En las preguntas de desarrollo, muestra tu procedimiento.
+**Instrucciones:** Lee cada pregunta con atención. Puedes usar calculadora para verificar cálculos con decimales. Resuelve en tu cuaderno antes de elegir: las alternativas incorrectas corresponden a errores frecuentes.
 
 ---
 
 **Pregunta 1 (alternativas).** ¿Cuál número entero representa "un déficit (pérdida) de $15.000 en las cuentas de un club deportivo"?
 a) 15.000
-b) −15.000
+b) 1/15.000
 c) 0
-d) 1/15.000
+d) −15.000
 
 **Pregunta 2 (verdadero o falso).** En la recta numérica, el número −7 está más cerca del 0 que el número −3.
 
 **Pregunta 3 (calcular).** Calcula: −12 + 20.
 a) −32
-b) 8
-c) −8
+b) −8
+c) 8
 d) 32
 
-**Pregunta 4 (calcular con resta).** Calcula: 4 − 9.
+**Pregunta 4 (alternativas — calcular con resta).** Calcula: 4 − 9.
 
-**Pregunta 5 (desarrollo — contexto de temperatura).** Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al final del día?
+a) −5
+b) 5
+c) −13
+d) 13
+
+**Pregunta 5 (alternativas — contexto de temperatura).** Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al final del día?
+
+a) −7°C
+b) 15°C
+c) −15°C
+d) 7°C
 
 **Pregunta 6 (alternativas).** Calcula: 1/2 × 2/7.
 a) 3/9
@@ -53,19 +63,34 @@ b) 21
 c) 0,21
 d) 4,7
 
-**Pregunta 9 (desarrollo — división de decimales).** Calcula: 9,6 ÷ 0,4.
+**Pregunta 9 (alternativas — división de decimales).** Calcula: 9,6 ÷ 0,4.
 
-**Pregunta 10 (problema en contexto — fracciones).** Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agua se necesitan en total?
+a) 2,4
+b) 24
+c) 0,24
+d) 240
+
+**Pregunta 10 (alternativas — problema en contexto — fracciones).** Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agua se necesitan en total?
+
+a) 15/20 litros
+b) 5 3/4 litros
+c) 3 3/4 litros
+d) 3/20 litros
 
 **Pregunta 11 (alternativas — cálculo mental).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
-a) $3.500
+a) $17.500
 b) $7.000
-c) $17.500
+c) $3.500
 d) $700
 
 **Pregunta 12 (verdadero o falso).** Calcular el 75% de un valor es lo mismo que dividirlo por 4 y multiplicar el resultado por 3.
 
-**Pregunta 13 (problema — IVA).** Un notebook cuesta $320.000 sin IVA. Calcula el valor del IVA (19%) y el precio final con IVA incluido.
+**Pregunta 13 (alternativas — problema — IVA).** Un notebook cuesta $320.000 sin IVA. ¿Cuál es el precio final con IVA (19%) incluido?
+
+a) $380.800
+b) $60.800
+c) $339.000
+d) $259.200
 
 **Pregunta 14 (problema — oferta).** Una tienda tiene una oferta de 40% de descuento en zapatillas que cuestan $45.000. ¿Cuál es el precio final?
 a) $18.000
@@ -73,24 +98,29 @@ b) $27.000
 c) $5.000
 d) $63.000
 
-**Pregunta 15 (problema — préstamo).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+**Pregunta 15 (alternativas — problema — préstamo).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+
+a) $40.000
+b) $508.000
+c) $540.000
+d) $900.000
 
 ---
 
 ## Pauta de respuestas
 
-1. b) −15.000. Un déficit es una pérdida, cantidad "bajo cero" en dinero, se representa con signo negativo.
+1. d) −15.000. Un déficit es una pérdida, cantidad "bajo cero" en dinero, se representa con signo negativo.
 2. Falso. −3 está a 3 unidades del 0; −7 está a 7 unidades del 0. −3 está más cerca del 0.
-3. b) 8. −12 + 20 = 8.
-4. 4 − 9 = **−5**. Como 9 es mayor que 4, el resultado es negativo.
-5. −4 + 11 = **7°C**. "Subir" equivale a sumar la variación al valor inicial.
+3. c) 8. −12 + 20 = 8.
+4. a) −5. Como 9 es mayor que 4, el resultado es negativo. En la recta numérica, desde el 4 se retrocede 9 posiciones, llegando al −5.
+5. d) 7°C. "subir" una temperatura equivale a sumar: −4 + 11 = 7. Si se obtiene −7 se restó en vez de sumar; 15 resulta de ignorar el signo del −4.
 6. c) 1/7. (1×2)/(2×7) = 2/14 = 1/7.
 7. Verdadero. Dividir por una fracción equivale a multiplicar por su recíproco.
 8. a) 2,1. 4,2 × 0,5 es la mitad de 4,2.
-9. 9,6 ÷ 0,4 = **24**. Amplificando por 10: 96 ÷ 4 = 24.
-10. 3/4 × 5 = 15/4 = **3 3/4 litros**.
+9. b) 24. Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número.
+10. c) 3 3/4 litros. 3/4 × 5 = 15/4 = 3 3/4 litros. Al multiplicar una fracción por un entero, el entero multiplica solo al numerador (5/1): 3/4 × 5/1 = 15/4.
 11. b) $7.000. 20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000.
 12. Verdadero. 75% = 3/4, se calcula dividiendo por 4 y multiplicando por 3.
-13. IVA: 0,19 × 320.000 = 60.800. Precio final: **$380.800**.
+13. a) $380.800. IVA: 0,19 × 320.000 = 60.800; precio final: 320.000 + 60.800 = $380.800. $60.800 es solo el impuesto y $259.200 resulta de restarlo.
 14. b) $27.000. Descuento: 0,4×45.000=18.000; precio final: 45.000−18.000=27.000.
-15. Interés: 0,08 × 500.000 = 40.000. Total a devolver: **$540.000**.
+15. c) $540.000. Interés: 0,08 × 500.000 = 40.000; total: 500.000 + 40.000 = $540.000. $508.000 confunde 8% con $8.000 y $900.000 confunde 8% con 80%.

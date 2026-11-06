@@ -19,9 +19,7 @@ relación con otras formas: segunda versión del examen (Forma B), con preguntas
 
 1. Este examen contiene **25 preguntas** y tiene una duración de **90 minutos**.
 2. Se permite el uso de **calculadora**. Puedes usarla para potencias, logaritmos y otras operaciones, pero recuerda que debes entender qué operación aplicar en cada problema y verificar que el resultado tenga sentido.
-3. Hay dos tipos de preguntas:
-   - **Preguntas de alternativas**: marca con una X la opción correcta (a, b, c o d).
-   - **Preguntas de desarrollo**: resuelve el problema y **muestra tu desarrollo completo** (los cálculos que hiciste para llegar a tu respuesta). Las respuestas sin desarrollo pueden no recibir el puntaje completo.
+3. Todas las preguntas son de **alternativas**: marca con una X la opción correcta (a, b, c o d). Te recomendamos resolver cada problema en tu hoja antes de elegir: las alternativas incorrectas corresponden a errores frecuentes.
 4. Escribe con lápiz pasta o lápiz grafito legible. Si te equivocas, tacha claramente y vuelve a escribir.
 5. Lee cada pregunta con calma antes de responder. Si tienes dudas sobre el enunciado, continúa con la siguiente pregunta y vuelve más tarde.
 6. Revisa tus respuestas antes de entregar la prueba.
@@ -50,10 +48,10 @@ d) oscila entre valores positivos y negativos
 
 **Pregunta 3 (alternativas).** Dos modelos parten del mismo valor inicial: uno crece un 20% anual, el otro decrece un 20% anual. Después de varios años, ¿cuál de los dos se aleja más de su valor inicial, en términos absolutos?
 
-a) el que decrece, porque llega a valores negativos
+a) el que decrece, porque después de varios años llega a valores negativos y se aleja sin límite del inicial
 b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero
-c) ambos se alejan lo mismo, porque el porcentaje es igual en ambos casos
-d) no se puede determinar sin conocer el valor inicial
+c) ambos se alejan lo mismo, porque el porcentaje de cambio es igual en ambos casos, solo que en sentido contrario
+d) no se puede determinar sin conocer el valor inicial, porque la distancia depende de dónde parte cada modelo
 
 ---
 
@@ -65,32 +63,52 @@ d) no se puede determinar sin conocer el valor inicial
 
 ¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
 
-a) exponencial, porque los valores van en aumento
+a) exponencial, porque los valores van en aumento de un período a otro
 b) lineal, porque la diferencia entre términos consecutivos es constante (siempre +50)
 c) exponencial, porque la razón entre términos consecutivos es constante
-d) no se puede determinar con estos datos
+d) no se puede determinar con estos datos, porque se necesitan más períodos
 
 ---
 
-**Pregunta 5 (desarrollo).** Compara los modelos f(x) = 200×(1,12)ˣ y g(x) = 200×(1,04)ˣ. ¿Cuál crece más rápido, y por qué? Muestra tu razonamiento.
+**Pregunta 5 (Alternativas).** ¿Cuál crece más rápido: f(x) = 200 · (1,12)ˣ o g(x) = 200 · (1,04)ˣ?
+
+a) Crecen igual, porque ambas parten del mismo valor inicial de 200
+b) g, porque 1,04 está más cerca de 1 y por eso crece de forma más estable
+c) f, porque con el mismo valor inicial su factor (12% por período) es mayor
+d) Ninguna crece, porque ambos factores son muy cercanos a 1
 
 ---
 
-**Pregunta 6 (desarrollo).** Una colonia de pingüinos en la costa registra la siguiente población:
+**Pregunta 6 (Alternativas).** Una colonia de pingüinos registra:
 
 | Tiempo (t) | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
 | Población | 80 | 96 | 115 | 138 |
 
-¿Corresponde este crecimiento a un modelo exponencial? Justifica calculando las razones entre términos consecutivos y, si corresponde, estima la tasa de crecimiento.
+¿Corresponde a un modelo exponencial?
+
+a) No: las diferencias entre términos consecutivos no son constantes, así que no es exponencial
+b) Sí: las diferencias entre términos consecutivos son constantes (siempre +16 aproximadamente)
+c) No: la población disminuye con el tiempo, así que corresponde a un modelo decreciente
+d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período
 
 ---
 
-**Pregunta 7 (desarrollo).** Un medicamento se elimina del organismo según C(t) = 180×(0,75)ᵗ (mg, t en horas). ¿Cuánto queda después de 4 horas, y qué porcentaje del medicamento se ha eliminado? Muestra tu desarrollo.
+**Pregunta 7 (Alternativas).** Un medicamento se elimina según C(t) = 180 · (0,75)ᵗ (mg). ¿Cuánto queda a las 4 horas y qué porcentaje se eliminó?
+
+a) ≈ 135 mg; 25%
+b) ≈ 57 mg; ≈ 68,3%
+c) ≈ 57 mg; ≈ 31,6%
+d) 0 mg; 100%
 
 ---
 
-**Pregunta 8 (desarrollo).** La población de peces de una laguna disminuye según N(t) = 4.000×(0,88)ᵗ. ¿En cuántos años aproximadamente la población bajará a la mitad (2.000)? Muestra tu desarrollo.
+**Pregunta 8 (Alternativas).** Una población de peces disminuye según N(t) = 4.000 · (0,88)ᵗ. ¿En cuántos años bajará aproximadamente a la mitad?
+
+a) ≈ 4,2 años
+b) ≈ 5,4 años
+c) ≈ 8,8 años
+d) ≈ 12 años
 
 ---
 
@@ -98,10 +116,10 @@ d) no se puede determinar con estos datos
 
 **Pregunta 9 (alternativas).** Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?
 
-a) 260°
+a) 50°
 b) 65°
 c) 130°
-d) 50°
+d) 260°
 
 ---
 
@@ -116,8 +134,8 @@ d) 70°
 
 **Pregunta 11 (alternativas).** Una tangente y una cuerda se cortan en el punto de tangencia, formando un ángulo semiinscrito que abarca un arco de 96°. ¿Cuánto mide ese ángulo?
 
-a) 48°
-b) 96°
+a) 96°
+b) 48°
 c) 192°
 d) 24°
 
@@ -125,30 +143,55 @@ d) 24°
 
 **Pregunta 12 (alternativas).** Un arco corresponde a 1/6 de la circunferencia completa. ¿Cuántos grados mide el ángulo central que lo subtiende?
 
-a) 60°
-b) 30°
+a) 30°
+b) 60°
 c) 90°
 d) 120°
 
 ---
 
-**Pregunta 13 (desarrollo).** Dos cuerdas se cortan dentro de una circunferencia, formando un ángulo. Los arcos que abarcan (el arco opuesto y su arco vertical) miden 100° y 40°. Calcula la medida del ángulo formado. Muestra tu desarrollo.
+**Pregunta 13 (Alternativas).** Dos cuerdas se cortan dentro de una circunferencia; los arcos que abarcan miden 100° y 40°. ¿Cuánto mide el ángulo formado?
+
+a) 70°
+b) 30°
+c) 140°
+d) 60°
 
 ---
 
-**Pregunta 14 (desarrollo).** Dos cuerdas se cortan dentro de un círculo. Los segmentos de una cuerda miden 5 cm y 8 cm. Si uno de los segmentos de la otra cuerda mide 4 cm, calcula el segmento restante. Muestra tu desarrollo.
+**Pregunta 14 (Alternativas).** Dos cuerdas se cortan: una tiene segmentos de 5 y 8 cm; la otra, uno de 4 cm. ¿Cuánto mide el segmento restante?
+
+a) 2,5 cm
+b) 6,4 cm
+c) 9 cm
+d) 10 cm
 
 ---
 
-**Pregunta 15 (desarrollo).** Desde un punto exterior a una circunferencia se trazan dos secantes que interceptan arcos de 150° y 50°. Calcula la medida del ángulo formado en el punto exterior. Muestra tu desarrollo.
+**Pregunta 15 (Alternativas).** Dos secantes desde un punto exterior interceptan arcos de 150° y 50°. ¿Cuánto mide el ángulo exterior?
+
+a) 100°
+b) 50°
+c) 200°
+d) 75°
 
 ---
 
-**Pregunta 16 (desarrollo).** Desde un punto exterior se traza una tangente de 12 cm y una secante cuya parte externa mide 8 cm. Calcula la longitud total de la secante. Muestra tu desarrollo.
+**Pregunta 16 (Alternativas).** Desde un punto exterior, una tangente mide 12 cm y una secante tiene parte externa de 8 cm. ¿Cuánto mide la secante completa?
+
+a) 1,5 cm
+b) 12 cm
+c) 18 cm
+d) 20 cm
 
 ---
 
-**Pregunta 17 (desarrollo).** La trayectoria de un barco pesquero (una secante) cruza cerca de una reserva marina circular. La parte de su trayectoria fuera de la reserva mide 6 millas náuticas, y la trayectoria completa (hasta salir por el otro lado) mide 15 millas. Desde el mismo punto de partida del barco, un faro tiene una línea de visión tangente a la reserva. ¿Cuánto mide esa línea tangente? Muestra tu desarrollo.
+**Pregunta 17 (Alternativas).** Un barco recorre una secante con parte externa de 6 millas y longitud total de 15 millas; desde el mismo punto, ¿cuánto mide la tangente a la reserva?
+
+a) √90 ≈ 9,49 millas
+b) 9 millas
+c) 90 millas
+d) √21 ≈ 4,58 millas
 
 ---
 
@@ -156,8 +199,8 @@ d) 120°
 
 **Pregunta 18 (alternativas).** Calcula el rango del conjunto de datos {12, 15, 9, 20, 14}.
 
-a) 11
-b) 20
+a) 20
+b) 11
 c) 9
 d) 5
 
@@ -181,19 +224,34 @@ d) ninguna de las dos tiene unidades
 
 ---
 
-**Pregunta 21 (desarrollo).** Los tiempos (en minutos) que demoran 4 trámites en una municipalidad son: 10, 12, 14, 16. Calcula la varianza y la desviación estándar. Muestra tu desarrollo.
+**Pregunta 21 (Alternativas).** Tiempos de 4 trámites (min): 10, 12, 14, 16. ¿Cuáles son la varianza y la desviación estándar?
+
+a) Varianza 20; desviación ≈ 4,47 min
+b) Varianza 2,24; desviación 5 min
+c) Varianza 13; desviación ≈ 3,61 min
+d) Varianza 5; desviación ≈ 2,24 min
 
 ---
 
-**Pregunta 22 (desarrollo).** Dos rutas de transporte al aeropuerto tienen el mismo tiempo promedio de viaje (45 minutos), pero la Ruta 1 tiene desviación estándar de 5 minutos y la Ruta 2 de 20 minutos. Si necesitas llegar con certeza a tiempo para tu vuelo, ¿qué ruta recomendarías, y por qué?
+**Pregunta 22 (Alternativas).** Dos rutas promedian 45 min; la Ruta 1 tiene desviación estándar 5 min y la Ruta 2, 20 min. Si necesitas llegar con certeza, ¿cuál conviene?
+
+a) La Ruta 2, porque su desviación es mayor y puede ser más rápida
+b) La Ruta 1, porque sus tiempos son más predecibles
+c) Da lo mismo, porque ambas rutas tienen el mismo promedio
+d) Ninguna, porque el promedio de 45 min no asegura llegar a tiempo
 
 ---
 
-**Pregunta 23 (desarrollo).** En una bolsa hay 5 bolitas rojas y 3 azules. Se extraen dos bolitas al azar, sin reposición. Usando un diagrama de árbol, calcula la probabilidad de que ambas sean rojas. Muestra tu desarrollo.
+**Pregunta 23 (Alternativas).** En una bolsa hay 5 bolitas rojas y 3 azules; se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
+
+a) 25/64 ≈ 39,1%
+b) 5/8
+c) 5/14 ≈ 35,7%
+d) 1/2
 
 ---
 
-**Pregunta 24 (desarrollo).** Se encuesta a 150 personas sobre si practican deporte y si fuman:
+**Pregunta 24 (Alternativas).** Se encuesta a 150 personas:
 
 | | Fuma | No fuma | Total |
 |---|---|---|---|
@@ -201,17 +259,27 @@ d) ninguna de las dos tiene unidades
 | No practica deporte | 25 | 45 | 70 |
 | Total | 35 | 115 | 150 |
 
-Calcula P(practica deporte | no fuma). Muestra tu desarrollo.
+¿Cuánto vale P(practica deporte | no fuma)?
+
+a) 70/115 ≈ 60,9%
+b) 70/80 = 87,5%
+c) 70/150 ≈ 46,7%
+d) 45/115 ≈ 39,1%
 
 ---
 
-**Pregunta 25 (desarrollo).** Una empresa de delivery en Santiago analiza sus pedidos: el 30% llega tarde cuando llueve, y solo el 8% llega tarde cuando no llueve. En la región llueve un 20% de los días. ¿Qué regla debes usar para calcular la probabilidad total de que un pedido llegue tarde (combinando ambos escenarios), y cuál es esa probabilidad? Muestra tu desarrollo.
+**Pregunta 25 (Alternativas).** El 30% de los pedidos llega tarde cuando llueve y el 8% cuando no; llueve el 20% de los días. ¿Qué regla se usa y cuál es la probabilidad de que un pedido llegue tarde?
+
+a) Suma simple: 0,30 + 0,08 = 38%
+b) Promedio simple: (0,30 + 0,08)/2 = 19%
+c) Probabilidad condicional: 0,20 · 0,30 / 0,124 ≈ 48,4%
+d) Probabilidad total: 0,20 · 0,30 + 0,80 · 0,08 = 12,4%
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -227,27 +295,27 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
 | 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero | OA 3 | Álgebra y Funciones |
 | 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
-| 5 | ambos parten del mismo valor inicial (200), pero **f crece más rápido**, porque su factor 1,12 (12% por período) es mayor que el de g, 1,04 (4% por período) | OA 3 | Álgebra y Funciones |
-| 6 | Razones: 96/80=1,20; 115/96≈1,198; 138/115≈1,20. Como la razón es aprox. constante, **sí es crecimiento exponencial**, con b≈1,2 (**20% de crecimiento por período**) | OA 3 | Álgebra y Funciones |
-| 7 | (0,75)⁴ = 0,31640625. C(4) = 180×0,3164 ≈ **56,95 ≈ 57 mg**. Eliminado: 180−57=123 mg → 123/180 ≈ **68,3%** | OA 3 | Álgebra y Funciones |
-| 8 | (0,88)ᵗ=0,5 → t = log(0,5)/log(0,88) ≈ (−0,3010)/(−0,0555) ≈ **5,4 años** | OA 3 | Álgebra y Funciones |
+| 5 | **c) f, porque con el mismo valor inicial su factor (12% por período) es mayor.** Con igual valor inicial, manda el factor de crecimiento. | OA 3 | Álgebra y Funciones |
+| 6 | **d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período.** 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. | OA 3 | Álgebra y Funciones |
+| 7 | **b) ≈ 57 mg; ≈ 68,3%.** (0,75)⁴ ≈ 0,3164 → ≈ 57 mg; se eliminaron ≈ 123 mg (68,3%); 31,6% es lo que queda. | OA 3 | Álgebra y Funciones |
+| 8 | **b) ≈ 5,4 años.** t = log 0,5 / log 0,88 ≈ (−0,3010)/(−0,0555). | OA 3 | Álgebra y Funciones |
 | 9 | c) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
 | 10 | d) 70° (35°×2) | OA 4 | Geometría |
-| 11 | a) 48° (96°÷2) | OA 4 | Geometría |
-| 12 | a) 60° (360°÷6) | OA 4 | Geometría |
-| 13 | ½(100°+40°) = 140°÷2 = **70°** | OA 4 | Geometría |
-| 14 | 5×8 = 4×x → 40 = 4x → x = **10 cm** | OA 4 | Geometría |
-| 15 | ½(150°−50°) = 100°÷2 = **50°** | OA 4 | Geometría |
-| 16 | 12² = 8×x → 144 = 8x → x = **18 cm** | OA 4 | Geometría |
-| 17 | (tangente)² = externa×completa = 6×15 = 90 → tangente = √90 ≈ **9,49 millas náuticas** | OA 4 | Geometría |
-| 18 | a) 11 (20−9=11) | OA 2 | Probabilidad y Estadística |
+| 11 | b) 48° (96°÷2) | OA 4 | Geometría |
+| 12 | b) 60° (360°÷6) | OA 4 | Geometría |
+| 13 | **a) 70°.** Semisuma de los arcos. | OA 4 | Geometría |
+| 14 | **d) 10 cm.** 5 · 8 = 4 · x. | OA 4 | Geometría |
+| 15 | **b) 50°.** Semidiferencia de los arcos. | OA 4 | Geometría |
+| 16 | **c) 18 cm.** 12² = 8 · x. | OA 4 | Geometría |
+| 17 | **a) √90 ≈ 9,49 millas.** tangente² = 6 · 15 = 90. | OA 4 | Geometría |
+| 18 | b) 11 (20−9=11) | OA 2 | Probabilidad y Estadística |
 | 19 | a) 2,67 (media=4; desviaciones al cuadrado 4,0,4; suma=8; varianza=8/3≈2,67) | OA 2 | Probabilidad y Estadística |
 | 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado | OA 2 | Probabilidad y Estadística |
-| 21 | media=13; desviaciones (−3,−1,1,3), al cuadrado (9,1,1,9), suma=20; varianza=20/4=**5**; desviación estándar=√5≈**2,24 minutos** | OA 2 | Probabilidad y Estadística |
-| 22 | la **Ruta 1**, porque su menor desviación estándar (5 min) indica tiempos de viaje más predecibles y consistentes que la Ruta 2 (20 min), reduciendo el riesgo de una demora inesperada, aunque ambas rutas compartan el mismo promedio | OA 2 | Probabilidad y Estadística |
-| 23 | P(1ª roja)=5/8; P(2ª roja\|1ª roja)=4/7. P(ambas rojas) = 5/8×4/7 = 20/56 = **5/14 ≈ 35,7%** | OA 2 | Probabilidad y Estadística |
-| 24 | dentro de la columna "no fuma" (115 personas), 70 practican deporte: P = 70/115 ≈ **0,609 (60,9%)** | OA 2 | Probabilidad y Estadística |
-| 25 | se usa la **regla de la probabilidad total**: P(tarde) = P(lluvia)×P(tarde\|lluvia) + P(no lluvia)×P(tarde\|no lluvia) = 0,20×0,30 + 0,80×0,08 = 0,06+0,064 = **0,124 (12,4%)** | OA 2 | Probabilidad y Estadística |
+| 21 | **d) Varianza 5; desviación ≈ 2,24 min.** Media 13; suma de cuadrados 20; 20/4 = 5. | OA 2 | Probabilidad y Estadística |
+| 22 | **b) La Ruta 1, porque sus tiempos son más predecibles.** Con igual promedio, la menor dispersión reduce el riesgo de demora. | OA 2 | Probabilidad y Estadística |
+| 23 | **c) 5/14 ≈ 35,7%.** 5/8 · 4/7 = 20/56. | OA 2 | Probabilidad y Estadística |
+| 24 | **a) 70/115 ≈ 60,9%.** Se restringe a la columna "no fuma". | OA 2 | Probabilidad y Estadística |
+| 25 | **d) Probabilidad total: 0,20 · 0,30 + 0,80 · 0,08 = 12,4%.** Cada probabilidad condicional se pondera por la probabilidad de su escenario. | OA 2 | Probabilidad y Estadística |
 
 ### Resumen de cobertura curricular
 
@@ -266,9 +334,9 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 18, 19, 20, 21, 22, 23, 24, 25 | 3 | 5 |
-| OA 3 | 1, 2, 3, 4, 5, 6, 7, 8 | 4 | 4 |
-| OA 4 | 9, 10, 11, 12, 13, 14, 15, 16, 17 | 4 | 5 |
-| **Total** | **25 preguntas** | **11** | **14** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 18, 19, 20, 21, 22, 23, 24, 25 | 8 |
+| OA 3 | 1, 2, 3, 4, 5, 6, 7, 8 | 8 |
+| OA 4 | 9, 10, 11, 12, 13, 14, 15, 16, 17 | 9 |
+| **Total** | **25 preguntas** | **25** |

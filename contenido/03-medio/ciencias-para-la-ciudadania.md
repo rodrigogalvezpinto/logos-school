@@ -108,10 +108,10 @@ social y ambiental (una definición cercana a la de la OMS).
 1. *(Alternativas)* La exposición prolongada a rayos UV sin protección se
    clasifica principalmente como un factor:
    a) Biológico
-   b) Ambiental
+   b) Genético exclusivamente
    c) Social
-   d) Genético exclusivamente
-   **Respuesta correcta:** b.
+   d) Ambiental
+   **Respuesta correcta:** d.
    **Retroalimentación:** Los rayos UV provienen del entorno físico, por lo
    que corresponden a un factor ambiental, aunque su efecto dependa también
    de factores biológicos individuales (tipo de piel).
@@ -124,62 +124,44 @@ social y ambiental (una definición cercana a la de la OMS).
    plazo como hipertensión, alteraciones del sistema inmune y trastornos de
    ansiedad, además de sus efectos inmediatos.
 
-3. *(Análisis de caso)* Camila vive en una comuna con altos niveles de
-   contaminación atmosférica (material particulado), su familia tiene bajos
-   ingresos y ella practica poca actividad física porque no hay espacios
-   públicos seguros cerca de su casa. Identifica un factor biológico,
-   uno ambiental y uno social en su situación, y explica cómo podrían
-   combinarse para afectar su salud respiratoria.
-   **Respuesta esperada:** Ambiental: contaminación atmosférica (material
-   particulado). Social: bajos ingresos y falta de espacios públicos
-   seguros que limitan la actividad física. Biológico: la susceptibilidad
-   individual de su sistema respiratorio ante contaminantes. Los tres
-   factores se combinan porque la contaminación (ambiental) afecta más a
-   quienes tienen menos opciones de mitigarla (social), y el efecto final
-   depende de la vulnerabilidad biológica de cada persona.
-   **Retroalimentación:** Un buen análisis muestra cómo los tres tipos de
-   factores interactúan, no que son categorías aisladas.
+3. *(Alternativas — Análisis de caso)* Camila vive en una comuna con alta contaminación por material particulado, su familia tiene bajos ingresos y hace poca actividad física por falta de espacios seguros. ¿Qué opción identifica correctamente los factores y su interacción?
+   a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla
+   b) Biológico: la contaminación por material particulado; ambiental: los bajos ingresos de la familia; social: la susceptibilidad del sistema respiratorio. Cada factor actúa por separado y no se potencian entre sí
+   c) Solo hay factores biológicos
+   d) Los factores actúan por separado, sin interactuar: la contaminación solo afecta a quienes tienen enfermedades previas, y los ingresos y la falta de espacios seguros no influyen en su salud respiratoria
+   **Respuesta correcta:** a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla.
+   **Retroalimentación:** Un buen análisis muestra cómo los tres tipos de factores interactúan.
 
 4. *(Alternativas)* ¿Cuál de las siguientes situaciones representa mejor un
    efecto a largo plazo del consumo de alimentos ultraprocesados?
-   a) Sensación de saciedad inmediata tras comer.
+   a) Sensación de saciedad inmediata tras comer un snack envasado.
    b) Malestar estomacal ocasional.
    c) Mayor riesgo de desarrollar diabetes tipo 2 después de varios años.
-   d) Preferencia momentánea por sabores dulces.
+   d) Preferencia momentánea por sabores dulces durante la tarde.
    **Respuesta correcta:** c.
    **Retroalimentación:** Los efectos a largo plazo son acumulativos y se
    manifiestan después de un periodo extendido de exposición al factor de
    riesgo.
-5. *(Desarrollo breve)* Explica, con tus propias palabras, por qué la salud
-   se considera una condición con dimensiones física, psíquica, social y
-   ambiental, y no solo la "ausencia de enfermedad".
-   **Respuesta esperada:** Debe mencionar que una persona puede no tener una
-   enfermedad diagnosticada y aun así no estar en equilibrio si sufre
-   problemas emocionales, de convivencia social o vive en un ambiente
-   dañino; la salud es un estado de bienestar integral, no solo la falta de
-   síntomas físicos.
-   **Retroalimentación:** Esta definición amplia de salud es clave para
-   entender por qué las políticas públicas de salud abordan también
-   vivienda, educación y medioambiente, no solo hospitales.
+5. *(Alternativas)* ¿Por qué la salud se considera un estado con dimensiones física, psíquica, social y ambiental, y no solo la ausencia de enfermedad?
+   a) Porque la salud depende solo de los hospitales y de los médicos, que definen en cada consulta cuáles dimensiones considerar para cada paciente
+   b) Porque basta con no tener síntomas físicos para estar sano, y las dimensiones psíquica, social y ambiental solo describen el estilo de vida de cada persona
+   c) Porque el ambiente no influye en la salud
+   d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino
+   **Respuesta correcta:** d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.
+   **Retroalimentación:** Por eso las políticas de salud abordan también vivienda, educación y medioambiente.
 
-6. *(Evaluación de evidencia)* Un titular de una red social dice: "Estudio
-   revela que comer una fruta exótica cura el estrés en 24 horas". No se
-   menciona la fuente del estudio ni el número de personas participantes.
-   ¿Qué deberías evaluar antes de creer esta afirmación?
-   **Respuesta esperada:** Se debe evaluar si existe una fuente científica
-   verificable (revista, universidad, institución de salud), el tamaño y
-   diseño de la muestra, si hay conflictos de interés (por ejemplo, si lo
-   publica quien vende esa fruta), y si otros estudios respaldan el mismo
-   resultado. Una afirmación sin fuente y con un resultado "milagroso" en
-   tan poco tiempo es una señal de alerta científica.
-   **Retroalimentación:** Evaluar la calidad de la fuente y la evidencia es
-   una habilidad central de la alfabetización científica ciudadana.
+6. *(Varias correctas — Evaluación de evidencia)* Un titular dice: "Estudio revela que comer una fruta exótica cura el estrés en 24 horas", sin fuente ni número de participantes. ¿Qué conviene evaluar antes de creerlo? Marca **todas** las correctas.
+   a) Si hay una fuente científica verificable
+   b) El tamaño y el diseño de la muestra
+   c) Si existen conflictos de interés, como que lo publique quien vende la fruta
+   d) Cuántos "me gusta" tiene la publicación
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Un resultado "milagroso" sin fuente es una señal de alerta; la popularidad no es evidencia.
 
 7. *(Alternativas)* Relacionar el comportamiento personal con la salud
    significa, por ejemplo, reconocer que:
-   a) Las decisiones individuales no influyen en la salud si el entorno es
-      saludable.
-   b) Fumar es una decisión personal sin relación con factores sociales.
+   a) Las decisiones individuales no influyen en la salud si el entorno es saludable, porque el ambiente compensa cualquier conducta de riesgo personal.
+   b) Fumar es una decisión personal sin relación con factores sociales, como la publicidad, el grupo de amigos o el acceso al tabaco.
    c) Elegir hacer actividad física regularmente puede compensar
       parcialmente otros factores de riesgo ambientales o sociales.
    d) La salud depende exclusivamente de la genética.
@@ -197,31 +179,24 @@ social y ambiental (una definición cercana a la de la OMS).
    convencionales; es un tema que suele generar desinformación y conviene
    evaluarlo con fuentes confiables, no con mitos.
 
-9. *(Análisis de caso)* Un joven de una zona rural cercana a un vertedero
-   presenta síntomas respiratorios recurrentes. Su médico solicita datos
-   sobre la calidad del aire de la zona antes de dar un diagnóstico
-   definitivo. ¿Por qué es importante considerar el factor ambiental antes
-   de atribuir el problema únicamente a causas biológicas?
-   **Respuesta esperada:** Porque los síntomas podrían tener un origen
-   ambiental (contaminación del aire cerca del vertedero) y no solo una
-   predisposición biológica individual; un diagnóstico correcto y las
-   medidas de prevención dependen de identificar todos los factores
-   involucrados, no solo el más evidente.
-   **Retroalimentación:** Este tipo de razonamiento es clave en salud
-   pública: separar causas biológicas de causas ambientales o sociales
-   permite diseñar soluciones más efectivas (por ejemplo, exigir controles
-   ambientales, no solo tratar síntomas).
+9. *(Alternativas — Análisis de caso)* Un joven que vive cerca de un vertedero tiene síntomas respiratorios recurrentes y su médico pide datos de calidad del aire antes de diagnosticar. ¿Por qué es importante considerar el factor ambiental?
+   a) Porque el ambiente nunca influye en la salud, y el médico pide los datos solo para completar la ficha clínica del joven
+   b) Porque las causas de los síntomas respiratorios siempre son solo biológicas, y los datos del aire sirven para descartar el vertedero
+   c) Porque basta con tratar los síntomas
+   d) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y prevención correctos dependen de identificar todos los factores
+   **Respuesta correcta:** d) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y prevención correctos dependen de identificar todos los factores.
+   **Retroalimentación:** Separar causas biológicas, ambientales o sociales permite diseñar soluciones más efectivas.
 
 10. *(Alternativas)* La Ley de Etiquetado de Alimentos (Ley N°20.606), que
     obliga a incluir octógonos de advertencia ("alto en calorías", "alto en
     sodio", etc.) en los envases, busca principalmente entregar información
     sobre un factor de tipo:
-    a) Ambiental exclusivamente.
-    b) Nutricional (parte de los factores biológicos/sociales asociados a la
+    a) Ambiental exclusivamente, como la contaminación del aire y del agua de cada comuna.
+    b) Climático.
+    c) Genético, heredado de los padres de cada consumidor.
+    d) Nutricional (parte de los factores biológicos/sociales asociados a la
        alimentación).
-    c) Genético.
-    d) Climático.
-    **Respuesta correcta:** b.
+    **Respuesta correcta:** d.
     **Retroalimentación:** La nutrición es uno de los factores explícitos
     del OA; el etiquetado busca que las personas tomen decisiones
     informadas sobre un factor que combina disponibilidad social de
@@ -235,49 +210,29 @@ social y ambiental (una definición cercana a la de la OMS).
     ansiedad y favorece la interacción social, por lo que impacta las
     dimensiones física, psíquica y social de la salud de forma integrada.
 
-12. *(Análisis de caso)* En una fiesta de fin de año escolar, un grupo de
-    estudiantes consume alcohol en exceso y algunos prueban otras drogas
-    "solo por curiosidad". Identifica un efecto a corto plazo y uno a largo
-    plazo de esta situación, y explica cómo la decisión personal se combina
-    con factores sociales (presión de grupo) y biológicos (metabolismo aún
-    en desarrollo).
-    **Respuesta esperada:** Corto plazo: intoxicación aguda, pérdida de
-    juicio, riesgo de accidentes. Largo plazo: mayor riesgo de dependencia y
-    de alterar el desarrollo cerebral, que continúa hasta cerca de los 25
-    años. La decisión personal de consumir no ocurre en el vacío: la presión
-    social del grupo (factor social) interactúa con la vulnerabilidad
-    biológica propia de la adolescencia.
-    **Retroalimentación:** Relacionar el comportamiento personal con
-    factores biológicos y sociales, sin dejar de reconocer la
-    responsabilidad individual, es justamente lo que pide este indicador.
+12. *(Varias correctas — Análisis de caso)* En una fiesta escolar, estudiantes consumen alcohol en exceso y algunos prueban otras drogas "por curiosidad". ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
+    a) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
+    b) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
+    c) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
+    d) Probar "solo por curiosidad" elimina todo riesgo
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Relacionar la conducta personal con factores biológicos y sociales no elimina la responsabilidad individual.
 
-13. *(Evaluación de evidencia)* Una publicidad de un suplemento alimenticio
-    afirma: "Reduce el estrés en un 90%, comprobado científicamente", pero al
-    revisar el estudio citado se descubre que fue financiado por la misma
-    empresa que vende el producto y solo participaron 12 personas. ¿Qué
-    problemas presenta esta evidencia?
-    **Respuesta esperada:** Conflicto de interés (el financiamiento viene de
-    quien se beneficia del resultado), muestra muy pequeña para generalizar
-    (12 personas), y falta de comparación con un grupo control o de
-    revisión por pares independiente. Estas señales debilitan la
-    confiabilidad de la afirmación.
-    **Retroalimentación:** Evaluar el tamaño muestral, la independencia del
-    financiamiento y la revisión por pares es central para no dejarse
-    engañar por publicidad disfrazada de ciencia.
+13. *(Varias correctas — Evaluación de evidencia)* Un suplemento afirma: "Reduce el estrés en un 90%, comprobado científicamente", pero el estudio lo financió la misma empresa y participaron 12 personas. ¿Qué problemas tiene esta evidencia? Marca **todas** las correctas.
+    a) Conflicto de interés
+    b) Muestra muy pequeña para generalizar
+    c) Falta de grupo control o de revisión independiente
+    d) Ninguno, porque dice "comprobado científicamente"
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Decir "comprobado científicamente" no reemplaza una evidencia independiente y suficiente.
 
-14. *(Desarrollo breve)* Explica por qué la exposición a un mismo patógeno
-    (por ejemplo, un virus respiratorio común) puede considerarse tanto un
-    factor ambiental como uno biológico, dependiendo de qué aspecto se
-    analice.
-    **Respuesta esperada:** Es un factor ambiental en cuanto a la presencia
-    del patógeno en el entorno (aire, superficies, contacto con otras
-    personas); es un factor biológico en cuanto a la respuesta del sistema
-    inmune de cada persona ante ese mismo patógeno (por qué unas personas
-    se enferman gravemente y otras no).
-    **Retroalimentación:** Muchos factores de salud no encajan en una sola
-    categoría; distinguir el ángulo ambiental del biológico dentro de un
-    mismo fenómeno es una habilidad de análisis más fina que este OA
-    requiere.
+14. *(Alternativas)* ¿Por qué un mismo patógeno respiratorio puede considerarse factor ambiental y también biológico?
+    a) Porque es solo un factor social, ya que se transmite entre personas que conviven, y por eso no depende del entorno ni del organismo
+    b) Porque los patógenos no influyen en la salud por sí mismos: lo que enferma es el clima frío, que es un factor ambiental y biológico a la vez
+    c) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona
+    d) Porque depende únicamente del clima
+    **Respuesta correcta:** c) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona.
+    **Retroalimentación:** Muchos factores de salud no encajan en una sola categoría.
 
 15. *(Alternativas)* La exposición crónica a material particulado fino
     (PM2.5) en ciudades con alta contaminación atmosférica, como ocurre en
@@ -357,11 +312,11 @@ recientes).
 **Banco de autoevaluación**
 
 1. *(Alternativas)* El hantavirus se transmite principalmente por:
-   a) Contacto sexual sin protección.
-   b) Inhalación de partículas contaminadas con orina o heces de roedores.
-   c) Transfusiones de sangre contaminada.
-   d) Consumo de agua no potable.
-   **Respuesta correcta:** b.
+   a) Contacto sexual sin protección con una persona infectada.
+   b) Consumo de agua no potable.
+   c) Transfusiones de sangre contaminada en centros de salud rurales.
+   d) Inhalación de partículas contaminadas con orina o heces de roedores.
+   **Respuesta correcta:** d.
    **Retroalimentación:** El hantavirus en Chile se asocia principalmente al
    contacto con el ratón colilargo, en espacios rurales cerrados y poco
    ventilados.
@@ -373,52 +328,40 @@ recientes).
    transmisión respiratoria (como la influenza), pero no tiene efecto sobre
    el VIH, que se transmite por vía sanguínea o sexual.
 
-3. *(Análisis de caso)* Durante un brote de sarampión, algunas familias
-   deciden no vacunar a sus hijos por desinformación en redes sociales. La
-   cobertura de vacunación baja del 95% al 80% en su comuna. ¿Qué
-   consecuencia epidemiológica es más probable, y por qué?
-   **Respuesta esperada:** Es probable que aumenten los contagios, incluso
-   en personas que no pueden vacunarse (bebés, inmunosuprimidos), porque se
-   pierde la "inmunidad de rebaño", que requiere una cobertura alta (cercana
-   al 95% en el caso del sarampión) para cortar las cadenas de transmisión.
-   **Retroalimentación:** Este es un ejemplo real de cómo la desinformación
-   científica tiene consecuencias de salud pública medibles.
+3. *(Alternativas — Análisis de caso)* Por desinformación, la cobertura de vacunación contra el sarampión de una comuna baja del 95% al 80%. ¿Qué consecuencia es más probable?
+   a) Aumento de contagios, incluso en quienes no pueden vacunarse, porque se pierde la inmunidad de rebaño
+   b) Disminución de los contagios, porque las personas no vacunadas desarrollan defensas naturales
+   c) Ningún cambio, porque el sarampión no es contagioso y la vacuna solo protege a quien la recibe
+   d) Desaparición del virus
+   **Respuesta correcta:** a) Aumento de contagios, incluso en quienes no pueden vacunarse, porque se pierde la inmunidad de rebaño.
+   **Retroalimentación:** La inmunidad de rebaño del sarampión requiere una cobertura cercana al 95%.
 
-4. *(Evaluación de evidencia)* Un video viral asegura que "las vacunas
-   causan más enfermedades de las que previenen" sin citar estudios ni
-   instituciones. ¿Qué pasos seguirías para evaluar esta afirmación de forma
-   científica?
-   **Respuesta esperada:** Buscar si existen estudios revisados por pares
-   que respalden la afirmación, verificar si organismos de salud reconocidos
-   (OMS, MINSAL, ISP) confirman o desmienten el dato, revisar si el emisor
-   del video tiene algún interés o conflicto, y comparar con estadísticas
-   oficiales de cobertura de vacunación y de casos de enfermedades
-   prevenibles antes y después de introducir cada vacuna.
-   **Retroalimentación:** Evaluar afirmaciones sin evidencia es una
-   habilidad central de este OA: no se trata de creer o no creer, sino de
-   verificar con fuentes confiables.
+4. *(Varias correctas — Evaluación de evidencia)* Un video viral asegura que "las vacunas causan más enfermedades de las que previenen" sin citar estudios. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
+   a) Buscar estudios revisados por pares
+   b) Verificar qué dicen organismos reconocidos como la OMS, el MINSAL o el ISP
+   c) Comparar con estadísticas oficiales de casos antes y después de cada vacuna
+   d) Confiar en el video si tiene muchas visualizaciones
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** No se trata de creer o no creer, sino de verificar con fuentes confiables.
 
 5. *(Alternativas)* Una práctica de higiene simple que ayuda a prevenir la
    transmisión de varios agentes infecciosos respiratorios en la escuela es:
-   a) Compartir vasos y utensilios con compañeros.
-   b) Lavado frecuente de manos y ventilación de las salas.
+   a) Lavado frecuente de manos y ventilación de las salas.
+   b) Compartir vasos y utensilios con compañeros.
    c) Evitar toda actividad física.
    d) Usar el mismo pañuelo desechable durante todo el día.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** a.
    **Retroalimentación:** El lavado de manos y la ventilación son medidas
    de higiene básicas y efectivas contra múltiples agentes infecciosos, no
    solo uno específico.
 
-6. *(Desarrollo breve)* Explica una implicancia económica y una implicancia
-   ética de las campañas de vacunación masiva y gratuita del Estado.
-   **Respuesta esperada:** Económica: vacunar a la población es más barato
-   a largo plazo que tratar hospitalizaciones y brotes masivos de una
-   enfermedad prevenible. Ética: plantea preguntas sobre si el Estado debe
-   exigir vacunación obligatoria, respetando a la vez la autonomía individual
-   y el derecho colectivo a la salud pública (inmunidad de rebaño protege a
-   quienes no pueden vacunarse).
-   **Retroalimentación:** Analizar implicancias éticas, económicas y
-   sociales de las medidas de prevención es parte explícita de este OA.
+6. *(Alternativas)* ¿Qué pareja señala correctamente una implicancia económica y una ética de la vacunación masiva y gratuita?
+   a) Económica: aumenta el gasto en hospitalizaciones, porque las vacunas provocan efectos adversos frecuentes. Ética: ninguna, porque vacunarse es una decisión solo individual
+   b) Económica: ninguna, porque las vacunas gratuitas no cambian el gasto en salud. Ética: obliga a vacunar también a los animales domésticos de cada hogar
+   c) Ambas implicancias son nulas
+   d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse
+   **Respuesta correcta:** d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse.
+   **Retroalimentación:** Analizar implicancias éticas, económicas y sociales de la prevención es parte del OA.
 
 7. *(Verdadero o falso)* El VIH-sida y la hepatitis B comparten algunas vías
    de transmisión, como el contacto con sangre o fluidos corporales durante
@@ -428,25 +371,21 @@ recientes).
    y sexual, por lo que comparten varias medidas de prevención, como el uso
    de preservativo y no compartir jeringas.
 
-8. *(Análisis de caso)* Un año con baja circulación de influenza en el
-   hemisferio sur llevó a que menos personas se vacunaran al año siguiente,
-   pensando que "ya no era necesario". Esa temporada siguiente hubo un
-   aumento importante de casos. ¿Qué error de razonamiento científico
-   cometieron esas personas?
-   **Respuesta esperada:** Confundieron la ausencia de casos en un periodo
-   puntual con la eliminación del riesgo; los virus como la influenza mutan
-   y circulan de forma variable cada año, por lo que la vacunación anual
-   sigue siendo necesaria independientemente de lo ocurrido el año anterior.
-   **Retroalimentación:** Este es un ejemplo de sesgo de razonamiento: la
-   evidencia de "poco riesgo reciente" no equivale a "riesgo eliminado".
+8. *(Alternativas — Análisis de caso)* Tras un año con poca influenza, menos personas se vacunaron al siguiente pensando que "ya no era necesario", y los casos aumentaron. ¿Qué error de razonamiento cometieron?
+   a) Confiar demasiado en la vacunación, creyendo que una sola dosis protege para siempre contra todas las variantes del virus
+   b) Ninguno: tenían razón, porque si un año hay pocos casos el virus desaparece y la vacuna deja de ser necesaria
+   c) Vacunarse cada año
+   d) Confundir la ausencia reciente de casos con la eliminación del riesgo, aunque el virus muta y circula de forma variable cada año
+   **Respuesta correcta:** d) Confundir la ausencia reciente de casos con la eliminación del riesgo, aunque el virus muta y circula de forma variable cada año.
+   **Retroalimentación:** La evidencia de "poco riesgo reciente" no equivale a "riesgo eliminado".
 
 9. *(Alternativas)* La hepatitis B, además de por vía sanguínea y sexual,
    puede transmitirse de una madre infectada a su hijo o hija:
    a) Solo por contacto casual, como compartir cubiertos.
-   b) Durante el embarazo o el parto (transmisión vertical).
-   c) Únicamente por vía respiratoria.
+   b) Únicamente por vía respiratoria.
+   c) Durante el embarazo o el parto (transmisión vertical).
    d) Solo a través de picaduras de insectos.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** c.
    **Retroalimentación:** La transmisión vertical (madre-hijo) es una vía
    relevante de contagio de hepatitis B, por lo que el control prenatal y
    la vacunación son medidas de prevención especialmente importantes en
@@ -463,59 +402,39 @@ recientes).
     partes del mundo, los casos importados pueden generar brotes si la
     cobertura de vacunación local no es suficientemente alta.
 
-11. *(Análisis de caso)* Un viajero que se contagió de sarampión en el
-    extranjero llega a un aeropuerto chileno sin saber que está en periodo
-    de incubación, y días después presenta síntomas. Las autoridades de
-    salud identifican y contactan a los pasajeros que viajaron cerca de él.
-    ¿Por qué esta situación se analiza "a nivel nacional y mundial", como
-    pide el OA, y no solo como un caso médico individual?
-    **Respuesta esperada:** Porque la transmisión de agentes infecciosos no
-    respeta fronteras: un caso importado puede iniciar una cadena de
-    contagio local si la cobertura de vacunación no es suficiente, por lo
-    que la vigilancia epidemiológica y la coordinación entre países (por
-    ejemplo, mediante la OMS) son parte necesaria de la prevención, no solo
-    la atención al paciente individual.
-    **Retroalimentación:** Pensar en escala nacional y mundial, y no solo
-    en el caso clínico aislado, es justamente lo que distingue el enfoque
-    de salud pública de este OA.
+11. *(Alternativas — Análisis de caso)* Un viajero contagiado de sarampión en el extranjero llega a Chile en incubación y las autoridades contactan a los pasajeros cercanos. ¿Por qué el caso se analiza a nivel nacional y mundial?
+    a) Porque solo es un caso médico individual, y las autoridades contactan a los pasajeros para informarles por cortesía, sin coordinación con otros países ni con la OMS
+    b) Porque el sarampión solo existe en el extranjero
+    c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
+    d) Porque los aeropuertos no tienen relación con la salud pública, y el caso se analiza a nivel mundial solo para registrar estadísticas de turismo y de viajes internacionales
+    **Respuesta correcta:** c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.
+    **Retroalimentación:** Pensar en escala nacional y mundial distingue el enfoque de salud pública.
 
-12. *(Evaluación de evidencia)* Durante una pandemia, dos fuentes entregan
-    información contradictoria: una publicación científica revisada por
-    pares indica que cierta medida reduce los contagios en un 40%, mientras
-    que un influencer sin formación en salud asegura, sin citar datos, que
-    "esa medida no sirve para nada". ¿Qué fuente deberías priorizar y por
-    qué?
-    **Respuesta esperada:** Se debe priorizar la publicación científica
-    revisada por pares, porque fue evaluada por otros expertos, entrega
-    datos concretos (40%) y sigue un método verificable; la afirmación del
-    influencer no presenta evidencia ni metodología, por lo que no es una
-    fuente confiable para tomar decisiones de salud pública.
-    **Retroalimentación:** La revisión por pares y la presencia de datos
-    verificables son criterios centrales para evaluar la calidad de una
-    fuente científica frente a una opinión sin respaldo.
+12. *(Alternativas — Evaluación de evidencia)* En una pandemia, una publicación revisada por pares indica que una medida reduce los contagios en 40%, y un influencer sin formación dice sin datos que "no sirve para nada". ¿Qué fuente priorizar?
+    a) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable
+    b) El influencer, porque tiene más seguidores y su opinión refleja lo que piensa la mayoría de las personas
+    c) Ninguna, porque ambas son iguales
+    d) La que coincida con mi opinión previa, porque así evito confundirme con datos contradictorios
+    **Respuesta correcta:** a) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable.
+    **Retroalimentación:** La revisión por pares y los datos verificables son criterios centrales de calidad.
 
-13. *(Desarrollo breve)* Explica una implicancia ambiental de las medidas de
-    prevención del hantavirus en zonas rurales del sur de Chile.
-    **Respuesta esperada:** El control del hantavirus se relaciona con el
-    manejo del entorno: evitar la acumulación de basura orgánica que atraiga
-    roedores, mantener despejados los alrededores de las viviendas y
-    considerar que la deforestación o el abandono de terrenos agrícolas
-    puede alterar las poblaciones de ratón colilargo, afectando el riesgo de
-    contagio; por eso la prevención no es solo doméstica, sino también
-    ambiental y territorial.
-    **Retroalimentación:** El OA pide considerar implicancias ambientales,
-    no solo médicas o económicas, de las medidas de prevención frente a
-    agentes infecciosos.
+13. *(Alternativas)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
+    a) Ninguna: es solo un problema médico que se resuelve en los hospitales, con tratamiento y vacunas, sin necesidad de modificar el entorno de las viviendas ni del paisaje rural
+    b) Exige talar todos los bosques
+    c) Requiere aumentar la basura orgánica alrededor de las casas, para que los roedores se alimenten ahí y no entren a las viviendas, y talar los bosques cercanos
+    d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo
+    **Respuesta correcta:** d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.
+    **Retroalimentación:** La prevención no es solo doméstica, sino también ambiental y territorial.
 
 14. *(Alternativas)* La vacuna contra la hepatitis B forma parte del
     Programa Nacional de Inmunizaciones (PNI) de Chile, administrada en la
     infancia como parte de la vacuna hexavalente. Esta es una medida de:
-    a) Tratamiento de la enfermedad una vez adquirida.
-    b) Prevención primaria, que busca evitar el contagio antes de que
+    a) Prevención primaria, que busca evitar el contagio antes de que
        ocurra.
-    c) Mitigación exclusiva de síntomas.
+    b) Tratamiento de la enfermedad una vez adquirida en la infancia y diagnosticada.
+    c) Mitigación exclusiva de síntomas en quienes ya se contagiaron.
     d) Cuarentena obligatoria.
-    **Respuesta correcta:** b.
+    **Respuesta correcta:** a.
     **Retroalimentación:** Las vacunas son la principal medida de
     prevención primaria frente a agentes infecciosos: generan inmunidad
     antes de la exposición al patógeno, a diferencia de las medidas que
@@ -600,11 +519,11 @@ para proteger tanto a las personas como al ambiente.
 
 1. *(Alternativas)* Mezclar cloro con un producto que contiene amoníaco es
    peligroso principalmente porque:
-   a) Ambos productos pierden su color.
-   b) La reacción genera gases tóxicos que dañan el sistema respiratorio.
-   c) El cloro deja de tener efecto desinfectante.
-   d) No ocurre ninguna reacción, solo se desperdicia producto.
-   **Respuesta correcta:** b.
+   a) Ambos productos pierden su color y su aroma, sin otros efectos.
+   b) No ocurre ninguna reacción, solo se desperdicia producto.
+   c) El cloro deja de tener efecto desinfectante al neutralizarse por completo.
+   d) La reacción genera gases tóxicos que dañan el sistema respiratorio.
+   **Respuesta correcta:** d.
    **Retroalimentación:** La reacción entre cloro y amoníaco genera
    cloraminas, gases tóxicos que pueden causar daño respiratorio grave.
 
@@ -616,56 +535,41 @@ para proteger tanto a las personas como al ambiente.
    efecto terapéutico y sí aumenta significativamente el riesgo de
    toxicidad, por ejemplo daño hepático en el caso del paracetamol.
 
-3. *(Análisis de etiqueta)* Un envase de plaguicida muestra un símbolo de
-   calavera con tibias cruzadas y la palabra "tóxico". ¿Qué medidas de
-   seguridad deberías tomar al manipularlo, almacenarlo y desecharlo?
-   **Respuesta esperada:** Manipulación: usar guantes y protección
-   adecuada, evitar contacto con piel y ojos, no comer ni fumar mientras se
-   usa. Almacenaje: mantener en su envase original, etiquetado, fuera del
-   alcance de niños y lejos de alimentos. Eliminación: llevar a un punto de
-   recolección autorizado, nunca verter por el desagüe ni mezclar con
-   basura doméstica común.
-   **Retroalimentación:** El símbolo de peligro exige tomar precauciones en
-   las tres etapas: uso, almacenaje y eliminación, no solo al momento de
-   aplicarlo.
+3. *(Varias correctas — Análisis de etiqueta)* Un plaguicida muestra el símbolo de calavera con tibias cruzadas y la palabra "tóxico". ¿Qué medidas de seguridad corresponden? Marca **todas** las correctas.
+   a) Manipular con guantes y protección, sin comer ni fumar
+   b) Almacenar en su envase original, etiquetado y fuera del alcance de niños
+   c) Eliminar en un punto de recolección autorizado, nunca por el desagüe
+   d) Trasvasijarlo a una botella de bebida para usarlo mejor
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** El símbolo exige precauciones en el uso, el almacenaje y la eliminación.
 
 4. *(Alternativas)* La composición de un detergente doméstico es relevante
    para evaluar su riesgo potencial porque:
-   a) Determina únicamente el precio del producto.
+   a) Determina únicamente el precio del producto y su rendimiento por lavado.
    b) Permite anticipar su reactividad frente a otras sustancias y su
       posible toxicidad.
-   c) No tiene relación con la seguridad de su uso.
+   c) No tiene relación con la seguridad de su uso, solo con su eficacia de limpieza.
    d) Solo afecta el color del envase.
    **Respuesta correcta:** b.
    **Retroalimentación:** Conocer la composición química permite prever
    con qué otras sustancias puede reaccionar peligrosamente y qué riesgos
    representa para la salud.
 
-5. *(Evaluación de evidencia)* Una publicación en redes sociales asegura que
-   "mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera
-   un gas mortal". ¿Cómo evaluarías esta afirmación desde el conocimiento
-   químico?
-   **Respuesta esperada:** La reacción entre bicarbonato de sodio y
-   vinagre produce dióxido de carbono y agua, una reacción común y
-   utilizada incluso en experimentos escolares seguros; no genera un gas
-   tóxico o mortal en las condiciones domésticas habituales. La afirmación
-   es incorrecta y debería contrastarse con fuentes confiables antes de
-   difundirla.
-   **Retroalimentación:** Distinguir reacciones realmente peligrosas (como
-   cloro + amoníaco) de reacciones inofensivas (como bicarbonato + vinagre)
-   requiere conocer la composición real de cada sustancia, no solo temerle
-   a cualquier "mezcla química".
+5. *(Alternativas — Evaluación de evidencia)* Una publicación asegura que "mezclar bicarbonato con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
+   a) Es correcta: toda mezcla química es mortal
+   b) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa incluso en experimentos escolares seguros
+   c) Es correcta: la mezcla produce cloro gaseoso, que es tóxico en espacios cerrados
+   d) Es incorrecta porque no ocurre ninguna reacción química: ambos productos solo se diluyen en el agua sin liberar gases
+   **Respuesta correcta:** b) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa incluso en experimentos escolares seguros.
+   **Retroalimentación:** Hay que distinguir reacciones realmente peligrosas (como cloro + amoníaco) de reacciones inofensivas.
 
-6. *(Desarrollo breve)* Explica por qué trasvasar un producto de limpieza o
-   un plaguicida a una botella de bebida es una práctica peligrosa, aunque
-   la botella quede bien cerrada.
-   **Respuesta esperada:** Porque elimina la etiqueta con información de
-   composición, riesgos y primeros auxilios, y puede llevar a que otra
-   persona (especialmente niños) confunda el contenido con una bebida y lo
-   ingiera accidentalmente, generando intoxicaciones graves.
-   **Retroalimentación:** El envase original no es solo el "empaque": es
-   parte de la medida de seguridad, porque contiene la información crítica
-   en caso de emergencia.
+6. *(Alternativas)* ¿Por qué trasvasijar un producto de limpieza o un plaguicida a una botella de bebida es peligroso, aunque quede bien cerrada?
+   a) Porque la botella se derrite
+   b) Porque el producto pierde efectividad al contacto con el plástico de la botella, aunque conserve su etiqueta y no se confunda con una bebida
+   c) Porque se pierde la etiqueta con composición, riesgos y primeros auxilios, y alguien (especialmente un niño) puede confundirlo con una bebida
+   d) No es peligroso si la botella está cerrada y guardada en altura, porque nadie podrá abrirla ni confundir su contenido con otro producto
+   **Respuesta correcta:** c) Porque se pierde la etiqueta con composición, riesgos y primeros auxilios, y alguien (especialmente un niño) puede confundirlo con una bebida.
+   **Retroalimentación:** El envase original es parte de la medida de seguridad.
 
 7. *(Verdadero o falso)* Los medicamentos vencidos deben eliminarse por el
    inodoro o el desagüe para evitar que alguien los consuma por error.
@@ -674,18 +578,13 @@ para proteger tanto a las personas como al ambiente.
    fuentes de agua; deben llevarse a puntos de recolección autorizados
    (muchas farmacias y centros de salud en Chile cuentan con estos puntos).
 
-8. *(Análisis de caso)* Una fábrica textil almacena detergentes industriales
-   junto a ácidos de limpieza en el mismo estante, sin separación, "para
-   ahorrar espacio". ¿Qué riesgo genera esta práctica y qué medida de
-   seguridad debería aplicarse?
-   **Respuesta esperada:** Riesgo: si algún envase gotea o se derrama,
-   ambas sustancias podrían entrar en contacto y reaccionar
-   peligrosamente, generando gases tóxicos o reacciones corrosivas.
-   Medida: separar físicamente sustancias incompatibles según su ficha de
-   seguridad, en estantes distintos y con buena ventilación, siguiendo las
-   normas de almacenamiento de sustancias peligrosas.
-   **Retroalimentación:** Evaluar medidas de seguridad en el trabajo, no
-   solo en el hogar, es parte explícita de este OA.
+8. *(Alternativas — Análisis de caso)* Una fábrica guarda detergentes industriales junto a ácidos de limpieza en el mismo estante "para ahorrar espacio". ¿Qué riesgo hay y qué medida corresponde?
+   a) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad
+   b) Ningún riesgo, porque son productos de limpieza
+   c) El riesgo es que se ensucie el estante con el polvo de los envases; basta con limpiarlo cada semana con los mismos productos
+   d) El riesgo es la falta de espacio para nuevos productos; hay que comprar más estantes y mantener todos los productos de limpieza juntos para encontrarlos rápido
+   **Respuesta correcta:** a) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad.
+   **Retroalimentación:** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte del OA.
 
 9. *(Alternativas)* El pictograma de "inflamable" (llama) en un envase de un
    producto de limpieza a base de alcohol indica que debe:
@@ -709,61 +608,38 @@ para proteger tanto a las personas como al ambiente.
     incluso intoxicación grave; por eso las etiquetas de estos medicamentos
     advierten explícitamente sobre no combinarlos con alcohol.
 
-11. *(Análisis de caso)* Un trabajador agrícola aplica un plaguicida
-    organofosforado sin guantes, mascarilla ni ropa de manga larga, en un
-    día caluroso. Horas después presenta dolor de cabeza, náuseas, visión
-    borrosa y sudoración excesiva. ¿Qué relación hay entre la falta de
-    equipo de protección y estos síntomas, y qué medidas de seguridad se
-    incumplieron?
-    **Respuesta esperada:** Los síntomas son compatibles con una
-    intoxicación aguda por organofosforados, que pueden absorberse por la
-    piel, la vía respiratoria o los ojos. Se incumplieron las medidas de
-    manipulación segura: uso de guantes, mascarilla y ropa de protección
-    adecuada, además de posiblemente no respetar el tiempo de reingreso al
-    área fumigada.
-    **Retroalimentación:** Reconocer los síntomas de intoxicación y
-    vincularlos con la ausencia de medidas de seguridad concretas es parte
-    del análisis de riesgo potencial que exige este OA.
+11. *(Alternativas — Análisis de caso)* Un trabajador aplica un plaguicida organofosforado sin guantes, mascarilla ni manga larga, y horas después tiene dolor de cabeza, náuseas, visión borrosa y sudoración. ¿Qué explica la situación?
+    a) Una insolación sin relación con el plaguicida, causada por trabajar varias horas al sol sin hidratarse ni descansar a la sombra
+    b) Una reacción alérgica a la ropa de trabajo, que se resuelve cambiando de prenda, sin relación con el producto aplicado
+    c) Un resfrío común
+    d) Una probable intoxicación aguda por organofosforados, absorbidos por piel, vía respiratoria u ojos, por no usar el equipo de protección
+    **Respuesta correcta:** d) Una probable intoxicación aguda por organofosforados, absorbidos por piel, vía respiratoria u ojos, por no usar el equipo de protección.
+    **Retroalimentación:** Se incumplieron las medidas de manipulación segura y posiblemente el tiempo de reingreso.
 
-12. *(Evaluación de evidencia)* Una publicación en redes sociales asegura
-    que "los detergentes en cápsulas o formato concentrado son igual de
-    seguros para los niños que los detergentes líquidos normales, porque
-    llevan la misma marca". ¿Qué evidencia debería considerarse para
-    evaluar esta afirmación?
-    **Respuesta esperada:** Debe considerarse que los productos
-    concentrados tienen mayor cantidad de principio activo por unidad de
-    volumen y, en el caso de las cápsulas, su apariencia colorida y
-    textura pueden confundirse con dulces, lo que ha generado un aumento
-    real de intoxicaciones infantiles reportadas por centros de
-    toxicología; la marca no determina el riesgo, sino la concentración,
-    la presentación y el acceso del producto a los niños.
-    **Retroalimentación:** Una afirmación puede sonar razonable ("misma
-    marca") y aun así ser incorrecta si ignora la variable relevante (en
-    este caso, concentración y presentación del producto).
+12. *(Alternativas — Evaluación de evidencia)* "Los detergentes en cápsulas son igual de seguros para los niños que los líquidos, porque llevan la misma marca." ¿Qué evidencia hay que considerar?
+    a) Que la marca garantiza la seguridad, porque una misma empresa usa la misma fórmula y el mismo envase de seguridad en todos sus productos
+    b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles
+    c) Que el color de la cápsula no importa
+    d) Que los niños no pueden abrir ningún envase de detergente, de modo que el formato de cápsula no cambia el riesgo de intoxicación infantil
+    **Respuesta correcta:** b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles.
+    **Retroalimentación:** El riesgo lo determinan la concentración, la presentación y el acceso, no la marca.
 
-13. *(Desarrollo breve)* El médico y alquimista Paracelso afirmó: "La dosis
-    hace el veneno". Explica esta idea aplicándola a un medicamento de uso
-    común, como el paracetamol.
-    **Respuesta esperada:** Debe explicar que ninguna sustancia es
-    "peligrosa" o "segura" de forma absoluta: depende de la cantidad
-    administrada. El paracetamol en dosis terapéuticas (indicadas en la
-    etiqueta) es seguro y efectivo, pero en dosis excesivas es tóxico para
-    el hígado; lo que determina el riesgo no es solo la identidad química
-    de la sustancia, sino también su concentración y la cantidad
-    consumida.
-    **Retroalimentación:** Este principio de toxicología es clave para
-    entender por qué el OA pide analizar composición, reactividad y riesgo
-    potencial en conjunto, y no juzgar una sustancia solo por su nombre.
+13. *(Alternativas)* Paracelso afirmó: "La dosis hace el veneno". ¿Cómo se aplica al paracetamol?
+    a) El paracetamol es siempre peligroso, incluso en dosis terapéuticas, porque cualquier cantidad daña el hígado de forma permanente
+    b) El paracetamol nunca es tóxico
+    c) En dosis terapéuticas es seguro y efectivo, pero en exceso es tóxico para el hígado: el riesgo depende de la cantidad
+    d) La dosis no tiene relación con la toxicidad: el riesgo depende solo de la marca y del envase
+    **Respuesta correcta:** c) En dosis terapéuticas es seguro y efectivo, pero en exceso es tóxico para el hígado: el riesgo depende de la cantidad.
+    **Retroalimentación:** Ninguna sustancia es segura o peligrosa de forma absoluta.
 
 14. *(Alternativas)* La forma correcta de almacenar medicamentos en el hogar
     para reducir riesgos, según las recomendaciones generales de seguridad,
     es:
-    a) En un lugar visible y de fácil acceso para toda la familia, incluidos
-       los niños.
+    a) En un lugar visible y de fácil acceso para toda la familia, incluidos los niños, y fuera de su envase original para ahorrar espacio.
     b) Fuera del alcance de niños, en su envase original y, si corresponde,
        en un lugar fresco y seco (o refrigerado solo si la etiqueta lo
        indica).
-    c) Junto a los alimentos, para no olvidarlos al cocinar.
+    c) Junto a los alimentos en la despensa, para no olvidar tomarlos al cocinar y mantenerlos siempre a temperatura ambiente, fuera de su envase original.
     d) En el auto, para tenerlos siempre disponibles.
     **Respuesta correcta:** b.
     **Retroalimentación:** El almacenaje seguro considera el acceso
@@ -871,59 +747,40 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    tienen origen humano (antropogénico): negligencia, quemas agrícolas mal
    controladas o intencionalidad.
 
-3. *(Análisis de caso)* Un comité de emergencia comunal decide no construir
-   viviendas nuevas en una quebrada que ha tenido aluviones en el pasado,
-   aunque eso reduce el terreno disponible para viviendas sociales
-   urgentes. Clasifica esta decisión como medida de prevención, mitigación
-   o adaptación, y justifica tu respuesta.
-   **Respuesta esperada:** Es una medida de adaptación (y también de
-   prevención), porque implica ajustar la planificación urbana a largo
-   plazo para no exponer a la población al riesgo, en lugar de solo
-   responder cuando el evento ya ocurre.
-   **Retroalimentación:** Las decisiones de planificación territorial de
-   largo plazo suelen combinar prevención y adaptación; lo importante es
-   justificar con el concepto correcto, no memorizar una única etiqueta.
+3. *(Varias correctas — Análisis de caso)* Un comité comunal decide no construir viviendas en una quebrada con aluviones pasados, aunque eso reduce el terreno para viviendas sociales. ¿Cómo se clasifica la medida? Marca **todas** las correctas.
+   a) Prevención: evita exponer a la población a la amenaza
+   b) Adaptación: ajusta la planificación urbana de largo plazo al riesgo
+   c) Respuesta a la emergencia durante un aluvión
+   d) Reconstrucción posterior a un desastre
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Las decisiones de planificación de largo plazo suelen combinar prevención y adaptación; lo importante es justificar con el concepto correcto.
 
-4. *(Evaluación de evidencia)* Un modelo de simulación del SHOA muestra las
-   zonas de inundación esperadas por tsunami en una ciudad costera,
-   basado en datos históricos de sismos y la topografía local. ¿Por qué es
-   más confiable tomar decisiones de evacuación basadas en este modelo que
-   en la experiencia personal de "el tsunami de mis abuelos no llegó tan
-   lejos"?
-   **Respuesta esperada:** Los modelos científicos integran múltiples
-   variables (magnitud posible del sismo, topografía, batimetría, datos
-   históricos de distintos eventos) y no dependen de un solo caso
-   anecdótico; la experiencia de un evento pasado puede no representar el
-   peor escenario posible, mientras que el modelo busca cubrir un rango más
-   amplio de posibilidades.
-   **Retroalimentación:** Preferir modelos basados en evidencia por sobre
-   la anécdota personal es una habilidad central de la alfabetización
-   científica ciudadana.
+4. *(Alternativas — Evaluación de evidencia)* ¿Por qué es más confiable evacuar según el modelo de inundación por tsunami del SHOA que según la experiencia de "el tsunami de mis abuelos no llegó tan lejos"?
+   a) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario
+   b) Porque la experiencia personal siempre es falsa, y los recuerdos de los abuelos exageran lo ocurrido
+   c) Porque los modelos predicen la fecha exacta del próximo tsunami y la altura que alcanzará cada ola en la costa
+   d) Porque los abuelos nunca vivieron tsunamis
+   **Respuesta correcta:** a) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario.
+   **Retroalimentación:** Preferir modelos basados en evidencia por sobre la anécdota es central en la alfabetización científica.
 
 5. *(Alternativas)* Realizar simulacros de evacuación periódicos en el
    colegio corresponde principalmente a una capacidad de:
-   a) Prevención del riesgo geológico.
+   a) Prevención del riesgo geológico de la zona escolar.
    b) Mitigación de las consecuencias de una emergencia.
-   c) Eliminación total del riesgo sísmico.
+   c) Eliminación total del riesgo sísmico en el colegio.
    d) Adaptación arquitectónica del edificio.
    **Respuesta correcta:** b.
    **Retroalimentación:** Los simulacros no evitan el sismo ni modifican
    la construcción; preparan a las personas para reaccionar mejor y reducir
    daños (heridos, pánico) cuando el evento ocurre: es mitigación.
 
-6. *(Desarrollo breve)* Evalúa las capacidades de prevención, mitigación y
-   adaptación de tu propio colegio o comunidad frente a un riesgo natural
-   relevante en tu zona (sismo, incendio forestal, inundación, u otro).
-   Menciona al menos dos fortalezas y dos aspectos a mejorar.
-   **Respuesta esperada:** Respuesta abierta y personal; debe mencionar
-   elementos concretos como señalización de vías de evacuación, frecuencia
-   de simulacros, existencia de un plan de emergencia escolar, estado de
-   la infraestructura, o coordinación con organismos como SENAPRED o
-   Bomberos, distinguiendo con criterio qué corresponde a prevención, qué a
-   mitigación y qué a adaptación.
-   **Retroalimentación:** El indicador pide evaluar capacidades reales de
-   tu propio entorno, no solo repetir teoría; conectar el contenido con tu
-   contexto local es parte del objetivo de esta asignatura.
+6. *(Varias correctas)* Al evaluar las capacidades de un colegio frente a un sismo, ¿qué elementos son pertinentes de analizar? Marca **todas** las correctas.
+   a) Señalización de vías de evacuación y frecuencia de simulacros
+   b) Existencia de un plan de emergencia escolar y estado de la infraestructura
+   c) Coordinación con organismos como SENAPRED o Bomberos
+   d) El color del uniforme escolar
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La evaluación debe conectar el contenido con el contexto local, distinguiendo prevención, mitigación y adaptación.
 
 7. *(Verdadero o falso)* La deforestación de laderas puede aumentar el
    riesgo de aluviones o inundaciones, porque reduce la capacidad del suelo
@@ -933,29 +790,20 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    el escurrimiento de agua; su pérdida es un factor antropogénico que
    agrava riesgos de origen natural como aluviones o inundaciones.
 
-8. *(Análisis de caso)* Tras una erupción volcánica menor, SERNAGEOMIN
-   eleva la alerta volcánica de una zona a nivel naranja, recomendando
-   restringir el acceso a un radio de varios kilómetros. Algunos
-   agricultores de la zona se oponen porque perderían acceso a sus cultivos
-   durante la temporada de cosecha. Analiza esta controversia considerando
-   al menos dos dimensiones (social, económica, ética o ambiental).
-   **Respuesta esperada:** Dimensión económica: la restricción implica
-   pérdidas económicas reales para los agricultores. Dimensión social/ética:
-   el Estado debe equilibrar el derecho a la seguridad de la vida de las
-   personas con el impacto económico de la medida, posiblemente compensando
-   a los afectados. Dimensión ambiental: el riesgo volcánico real
-   (piroclastos, lahares) puede ser impredecible en su evolución, lo que
-   justifica científicamente la prudencia de la restricción.
-   **Retroalimentación:** Analizar controversias públicas sopesando varias
-   dimensiones a la vez, sin quedarse en una sola perspectiva, es
-   justamente lo que pide este indicador.
+8. *(Varias correctas — Análisis de caso)* Tras una erupción menor, SERNAGEOMIN eleva la alerta a naranja y restringe el acceso a varios kilómetros; agricultores se oponen porque perderían su cosecha. ¿Qué dimensiones de la controversia son pertinentes? Marca **todas** las correctas.
+   a) Económica: pérdidas reales para los agricultores
+   b) Ética y social: equilibrar el derecho a la vida con el impacto económico, posiblemente compensando a los afectados
+   c) Ambiental: la evolución del riesgo volcánico puede ser impredecible
+   d) Deportiva: el volcán impide practicar deportes
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Analizar controversias exige sopesar varias dimensiones a la vez.
 
 9. *(Alternativas)* El diseño de nuevos edificios según la Norma Sísmica
    Chilena (NCh433) busca reducir los daños y el riesgo de colapso durante
    un sismo, sin impedir que el fenómeno ocurra. Según ese propósito,
    corresponde a una medida de:
    a) Mitigación, porque reduce los daños sin evitar el sismo.
-   b) Prevención del sismo, porque impide que ocurra.
+   b) Prevención del sismo, porque impide que el fenómeno ocurra.
    c) Adaptación exclusivamente cultural.
    d) Respuesta de emergencia inmediata.
    **Respuesta correcta:** a.
@@ -974,62 +822,29 @@ practican simulacros?, ¿hay planes de emergencia comunal?
     tierra o de hielo; por eso los sistemas de monitoreo (como los del
     SHOA) consideran más de una fuente posible de origen.
 
-11. *(Análisis de caso)* En febrero de 2017, Chile vivió los incendios
-    forestales más extensos registrados hasta ese momento en su historia,
-    afectando principalmente a las regiones de O'Higgins, Maule y Biobío.
-    Investigaciones posteriores señalaron una combinación de causas:
-    focos de origen humano (algunos intencionales), una ola de calor
-    extrema, sequía prolongada y una gran superficie de plantaciones
-    forestales inflamables cerca de zonas pobladas. Clasifica al menos dos
-    de estas causas como de origen natural o antropogénico, y explica cómo
-    se combinaron para agravar el desastre.
-    **Respuesta esperada:** Causas antropogénicas: focos intencionales o
-    por negligencia, y la expansión de plantaciones forestales
-    inflamables en la interfaz urbano-forestal. Causas de origen natural
-    (agravadas por el cambio climático, que también tiene componente
-    humano): ola de calor extrema y sequía prolongada. La combinación de
-    un inicio humano con condiciones climáticas extremas y un paisaje
-    altamente inflamable explica la magnitud excepcional del desastre.
-    **Retroalimentación:** Los grandes desastres rara vez tienen una sola
-    causa; distinguir el origen de cada factor y explicar cómo se
-    combinan es el tipo de análisis que este OA busca desarrollar.
+11. *(Alternativas — Análisis de caso)* En los incendios de 2017 se combinaron focos humanos (algunos intencionales), una ola de calor extrema, sequía prolongada y plantaciones forestales inflamables cerca de zonas pobladas. ¿Qué clasificación es correcta?
+    a) Todas las causas fueron naturales
+    b) Todas fueron antropogénicas, incluidas la ola de calor y la sequía, y ninguna tuvo relación con el clima ni con el cambio climático
+    c) Antropogénicas: la ola de calor y la sequía prolongada. Naturales: los focos intencionales y la expansión de plantaciones forestales cerca de zonas pobladas
+    d) Antropogénicas: focos humanos y expansión de plantaciones en la interfaz urbano-forestal. De origen natural (agravadas por el cambio climático): ola de calor y sequía
+    **Respuesta correcta:** d) Antropogénicas: focos humanos y expansión de plantaciones en la interfaz urbano-forestal. De origen natural (agravadas por el cambio climático): ola de calor y sequía.
+    **Retroalimentación:** Los grandes desastres rara vez tienen una sola causa.
 
-12. *(Evaluación de evidencia)* Un gráfico histórico de sismos de gran
-    magnitud en Chile muestra eventos como el terremoto de Valdivia de
-    1960 (magnitud 9.5, el mayor registrado en el mundo), el terremoto del
-    Maule de 2010 (magnitud 8.8) y el terremoto de Iquique de 2014
-    (magnitud 8.2). A partir de este registro histórico, ¿qué se puede y
-    qué no se puede afirmar con evidencia científica sobre el riesgo
-    sísmico futuro de Chile?
-    **Respuesta esperada:** Se puede afirmar que Chile tiene una alta
-    exposición histórica y recurrente a sismos de gran magnitud debido a
-    su ubicación en el Cinturón de Fuego del Pacífico, lo que justifica
-    mantener y reforzar medidas de prevención y mitigación permanentes. No
-    se puede afirmar con precisión cuándo, dónde ni de qué magnitud exacta
-    será el próximo sismo; los modelos estiman probabilidades y zonas de
-    mayor riesgo (como "brechas sísmicas"), pero no predicen fechas
-    exactas.
-    **Retroalimentación:** Distinguir entre lo que la evidencia histórica
-    permite afirmar (patrones y probabilidades) y lo que no permite
-    afirmar (predicciones exactas) es una habilidad central de
-    alfabetización científica frente a los riesgos naturales.
+12. *(Alternativas — Evaluación de evidencia)* Un registro muestra grandes terremotos en Chile: Valdivia 1960 (9.5), Maule 2010 (8.8) e Iquique 2014 (8.2). ¿Qué se puede afirmar con evidencia?
+    a) Que el próximo terremoto será en 2030, porque los registros muestran un intervalo regular entre los grandes sismos, lo que permite programar con exactitud las medidas de prevención en cada región
+    b) Que Chile tiene una exposición alta y recurrente a grandes sismos, lo que justifica mantener medidas de prevención; pero no se puede predecir cuándo, dónde ni con qué magnitud será el próximo
+    c) Que ya no habrá más terremotos grandes
+    d) Que los sismos ocurren cada 25 años exactos en la misma zona, por lo que basta con prepararse en esas fechas y en esos lugares, sin necesidad de mantener medidas permanentes
+    **Respuesta correcta:** b) Que Chile tiene una exposición alta y recurrente a grandes sismos, lo que justifica mantener medidas de prevención; pero no se puede predecir cuándo, dónde ni con qué magnitud será el próximo.
+    **Retroalimentación:** Los modelos estiman probabilidades y zonas de mayor riesgo, pero no predicen fechas exactas.
 
-13. *(Desarrollo breve)* Explica la diferencia entre "riesgo" y "desastre",
-    usando como ejemplo una quebrada propensa a aluviones que tiene
-    viviendas construidas en su cauce.
-    **Respuesta esperada:** El riesgo es la posibilidad de que ocurra un
-    evento dañino, considerando la amenaza (probabilidad de un aluvión),
-    la exposición (viviendas ubicadas en la quebrada) y la vulnerabilidad
-    (capacidad de esas viviendas y familias de resistir o recuperarse del
-    evento). El desastre ocurre cuando el evento realmente se materializa
-    y supera la capacidad de respuesta de la comunidad, generando daños
-    concretos. Una quebrada puede tener alto riesgo durante años sin que
-    ocurra un desastre, si nunca se materializa el aluvión o si las
-    medidas de prevención son efectivas.
-    **Retroalimentación:** Distinguir riesgo (probabilidad + exposición +
-    vulnerabilidad) de desastre (el evento ya materializado) permite
-    entender por qué la prevención busca actuar antes de que el riesgo se
-    convierta en un desastre real.
+13. *(Alternativas)* Con el ejemplo de una quebrada con viviendas en su cauce, ¿cuál es la diferencia entre riesgo y desastre?
+    a) Son exactamente lo mismo: ambos términos describen el daño causado por el aluvión
+    b) El desastre es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el riesgo es el daño ya ocurrido cuando el aluvión se materializa y supera la capacidad de respuesta
+    c) El riesgo es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el desastre ocurre cuando el aluvión se materializa y supera la capacidad de respuesta
+    d) El riesgo solo existe después de un desastre
+    **Respuesta correcta:** c) El riesgo es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el desastre ocurre cuando el aluvión se materializa y supera la capacidad de respuesta.
+    **Retroalimentación:** La prevención busca actuar antes de que el riesgo se convierta en desastre.
 
 14. *(Alternativas)* La urbanización sin planificación adecuada, que
     impermeabiliza el suelo con cemento y asfalto y reduce las áreas

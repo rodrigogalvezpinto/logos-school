@@ -131,12 +131,12 @@ observable, entró en tensión con explicaciones sostenidas por la autoridad rel
 
 **1. (Alternativas)** ¿Qué proceso quebró la unidad religiosa de la Europa occidental medieval?
 
-a) La Revolución neolítica
-b) La Reforma protestante
+a) La Reforma protestante
+b) La Revolución neolítica
 c) La caída del Imperio romano de Occidente
 d) La fundación de las universidades medievales
 
-✅ Respuesta correcta: **b) La Reforma protestante**
+✅ Respuesta correcta: **a) La Reforma protestante**
 💬 *Retroalimentación:* Iniciada por Martín Lutero en 1517, la Reforma dividió a la cristiandad
 occidental entre católicos y protestantes, un quiebre que la Iglesia católica intentó responder
 con la Contrarreforma.
@@ -153,50 +153,53 @@ humanismo y, más tarde, de las ideas de la Reforma.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente estos hitos: (1) Concilio de Trento, (2)
-invención de la imprenta de Gutenberg, (3) publicación de las 95 tesis de Lutero, (4) proceso de
-Galileo por defender el heliocentrismo.
+**3. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) Concilio de Trento, (2) invención de la imprenta de Gutenberg, (3) publicación de las 95 tesis de Lutero, (4) proceso de Galileo por defender el heliocentrismo.
+a) 2 → 3 → 1 → 4
+b) 3 → 2 → 1 → 4
+c) 2 → 1 → 3 → 4
+d) 1 → 2 → 3 → 4
 
-✅ Respuesta correcta: **2 → 3 → 1 → 4**
-💬 *Retroalimentación:* Primero se inventó la imprenta (hacia 1450), luego Lutero publicó sus
-tesis (1517), después la Iglesia respondió con el Concilio de Trento (1545-1563), y finalmente,
-en 1633, Galileo fue procesado por defender el modelo heliocéntrico.
+✅ Respuesta correcta: **a) 2 → 3 → 1 → 4**
+💬 *Retroalimentación:* Primero la imprenta (hacia 1450), luego las tesis de Lutero (1517), después el Concilio de Trento (1545-1563) y, en 1633, el proceso a Galileo.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada concepto con su definición:
+**4. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Contrarreforma — 2) Revolución científica — 3) Heliocentrismo
 
-a) Modelo que sitúa al Sol, y no a la Tierra, en el centro del universo — b) Reafirmación
-doctrinal y reforma interna de la Iglesia católica frente a la Reforma protestante — c) Cambio
-en la forma de producir conocimiento, basado en la observación y la experimentación
+Definiciones: (A) Modelo que sitúa al Sol, y no a la Tierra, en el centro del universo — (B) Reafirmación doctrinal y reforma interna de la Iglesia católica frente a la Reforma protestante — (C) Cambio en la forma de producir conocimiento, basado en la observación y la experimentación
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Estos tres procesos están relacionados: la revolución científica y su
-defensa del heliocentrismo generaron tensiones con una Iglesia que, tras la Reforma, buscaba
-reafirmar su autoridad doctrinal mediante la Contrarreforma.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
----
-
-**5. (Desarrollo breve)** Explica por qué se dice que la imprenta tuvo un rol clave tanto en la
-difusión del humanismo como en la de la Reforma protestante.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la imprenta permitió reproducir
-textos de manera rápida y en gran cantidad, algo imposible con los manuscritos copiados a mano,
-lo que aceleró enormemente la circulación de las ideas humanistas y, después, de las tesis de
-Lutero por toda Europa.
+✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* La revolución científica y su defensa del heliocentrismo generaron tensiones con una Iglesia que, tras la Reforma, buscaba reafirmar su autoridad mediante la Contrarreforma.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el caso de Galileo ilustra bien la
-transición entre la forma medieval y la forma moderna de explicar el mundo natural?
+**5. (Alternativas)** ¿Por qué la imprenta tuvo un rol clave en la difusión del humanismo y de la Reforma protestante?
+a) Porque prohibió la circulación de libros religiosos y obligó a difundir las ideas solo a través de sermones
+b) Porque reemplazó la lectura por la tradición oral, ya que los libros impresos eran demasiado caros para la mayoría
+c) Porque solo imprimía mapas para los navegantes, y así las ideas humanistas viajaron junto a las expediciones
+d) Porque permitió reproducir textos de manera rápida y en gran cantidad, acelerando la circulación de ideas por toda Europa
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, en la Edad Media, las
-explicaciones sobre el mundo natural solían basarse en la autoridad de textos antiguos o
-religiosos, mientras que Galileo defendió sus conclusiones a partir de observaciones directas
-—con el telescopio—, lo que representa el nuevo método basado en evidencia propio de la
-revolución científica, y que por eso mismo entró en conflicto con la autoridad tradicional.
+✅ Respuesta correcta: **d) Porque permitió reproducir textos de manera rápida y en gran cantidad, acelerando la circulación de ideas por toda Europa**
+💬 *Retroalimentación:* Antes de la imprenta los libros se copiaban a mano; la imprenta multiplicó los ejemplares de las ideas humanistas y de las tesis de Lutero.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el caso de Galileo ilustra la transición entre la forma medieval y la forma moderna de explicar el mundo natural?
+a) Porque Galileo defendió que la Tierra era el centro del universo, apoyándose en la autoridad de Aristóteles y de los textos religiosos de su época
+b) Porque Galileo rechazó toda observación y experimentación, y propuso explicar el mundo natural solo mediante el razonamiento y la fe
+c) Porque Galileo defendió conclusiones basadas en la observación directa (telescopio), frente a explicaciones basadas en la autoridad de textos antiguos o religiosos
+d) Porque la Iglesia apoyó de inmediato sus conclusiones y las incorporó a la enseñanza, abandonando las explicaciones medievales
+
+✅ Respuesta correcta: **c) Porque Galileo defendió conclusiones basadas en la observación directa (telescopio), frente a explicaciones basadas en la autoridad de textos antiguos o religiosos**
+💬 *Retroalimentación:* El nuevo método basado en evidencia, propio de la revolución científica, entró en conflicto con la autoridad tradicional.
 
 ---
 
@@ -270,12 +273,12 @@ financiero y militar del Estado moderno.
 **1. (Alternativas)** ¿Cuál de los siguientes rasgos caracteriza al Estado moderno, a diferencia
 de la organización política medieval?
 
-a) El poder disperso entre múltiples señores feudales
-b) Un ejército profesional pagado y controlado por la Corona
-c) La ausencia total de impuestos
-d) La total autonomía de las ciudades frente al rey
+a) El poder disperso entre múltiples señores feudales y sus vasallos
+b) La ausencia total de impuestos para financiar al gobierno central
+c) Un ejército profesional pagado y controlado por la Corona
+d) La total autonomía de las ciudades frente al rey y sus funcionarios
 
-✅ Respuesta correcta: **b) Un ejército profesional pagado y controlado por la Corona**
+✅ Respuesta correcta: **c) Un ejército profesional pagado y controlado por la Corona**
 💬 *Retroalimentación:* A diferencia de la Edad Media, donde los reyes dependían de las tropas de
 los señores feudales, el Estado moderno desarrolló ejércitos permanentes bajo control directo de
 la Corona.
@@ -292,50 +295,53 @@ rey es, precisamente, un rasgo distintivo del Estado moderno.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada rasgo del Estado moderno con su función:
+**3. (Alternativas — unir)** Une cada rasgo del Estado moderno con su función:
 
 1) Burocracia — 2) Sistema fiscal centralizado — 3) Ejército profesional
 
-a) Permite al rey defender y expandir el territorio de forma independiente de los señores
-feudales — b) Administra el territorio en nombre del rey, reemplazando el poder disperso de los
-señores locales — c) Otorga al rey recursos propios y mayor independencia financiera
+Funciones: (A) Permite al rey defender y expandir el territorio de forma independiente de los señores feudales — (B) Administra el territorio en nombre del rey, reemplazando el poder disperso de los señores locales — (C) Otorga al rey recursos propios y mayor independencia financiera
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema
-fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Desarrollo breve)** Explica cómo la expansión territorial y el monopolio del comercio
-internacional contribuyeron al surgimiento del Estado moderno.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la expansión territorial
-permitió unificar regiones antes separadas bajo una misma administración, mientras que el
-monopolio del comercio internacional generó ingresos que el Estado pudo usar para financiar su
-burocracia y su ejército, fortaleciendo el poder centralizado del rey.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
 
 ---
 
-**5. (Análisis de fuente)** Imagina un decreto real del siglo XVI que ordena crear un cuerpo
-permanente de funcionarios reales para cobrar impuestos en todo el reino, reemplazando el cobro
-disperso que antes hacían los señores locales. ¿Qué rasgo del Estado moderno ilustra este
-decreto?
+**4. (Alternativas)** ¿Cómo contribuyeron la expansión territorial y el monopolio del comercio internacional al surgimiento del Estado moderno?
+a) Debilitaron al rey y fortalecieron a los señores feudales, que controlaban las nuevas rutas y cobraban sus propios impuestos en cada región
+b) Eliminaron la necesidad de cobrar impuestos
+c) No tuvieron ninguna relación con el poder del rey: el Estado moderno surgió solo por el crecimiento de las ciudades y del comercio local
+d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey
 
-✅ Respuesta correcta: El desarrollo de un sistema fiscal centralizado y de una burocracia
-dependiente directamente del rey.
-💬 *Retroalimentación:* Este tipo de medidas muestra cómo el Estado moderno fue reemplazando la
-administración dispersa propia de la Edad Media por una administración centralizada bajo control
-real.
+✅ Respuesta correcta: **d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey**
+💬 *Retroalimentación:* Ambos procesos fortalecieron el poder centralizado del rey.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la concentración del poder en el rey y
-el desarrollo de un ejército profesional estaban estrechamente relacionados entre sí?
+**5. (Alternativas — análisis de fuente)** Imagina un decreto real del siglo XVI que crea un cuerpo permanente de funcionarios reales para cobrar impuestos en todo el reino, reemplazando el cobro disperso de los señores locales. ¿Qué rasgos del Estado moderno ilustra?
+a) Un sistema fiscal centralizado y una burocracia dependiente del rey
+b) La fragmentación feudal del poder entre los señores locales
+c) La separación de poderes del Estado propuesta por Montesquieu
+d) La soberanía popular
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, para concentrar el poder y
-reducir la autonomía de los señores feudales, el rey necesitaba una fuerza militar propia que no
-dependiera de esos mismos señores; a su vez, mantener un ejército profesional requería recursos
-fiscales centralizados, por lo que ambos procesos se retroalimentaron.
+✅ Respuesta correcta: **a) Un sistema fiscal centralizado y una burocracia dependiente del rey**
+💬 *Retroalimentación:* El Estado moderno reemplazó la administración dispersa medieval por una administración centralizada bajo control real.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la concentración del poder en el rey y el desarrollo de un ejército profesional estaban estrechamente relacionados?
+a) Porque el ejército profesional pertenecía a los señores feudales, y el rey debía negociar con ellos cada campaña, lo que limitaba su poder y su capacidad de cobrar impuestos
+b) Porque el rey no necesitaba recursos para mantener un ejército: los soldados profesionales servían gratuitamente a cambio de tierras entregadas por la nobleza local
+c) Porque el rey necesitaba una fuerza propia que no dependiera de los señores feudales, y mantenerla exigía recursos fiscales centralizados: ambos procesos se retroalimentaron
+d) Porque el ejército limitaba el poder del rey
+
+✅ Respuesta correcta: **c) Porque el rey necesitaba una fuerza propia que no dependiera de los señores feudales, y mantenerla exigía recursos fiscales centralizados: ambos procesos se retroalimentaron**
+💬 *Retroalimentación:* Concentración del poder y ejército propio se reforzaron mutuamente.
 
 ---
 
@@ -407,12 +413,12 @@ potencias europeas.
 **1. (Alternativas)** Según el mercantilismo, ¿cómo se medía principalmente la riqueza de un
 reino?
 
-a) Por la cantidad de tierras cultivadas
-b) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
-c) Por el número de universidades que poseía
-d) Por la cantidad de población que vivía en sus ciudades
+a) Por la cantidad de tierras cultivadas que pertenecían a la nobleza del reino
+b) Por la cantidad de población que vivía en sus ciudades
+c) Por el número de universidades y bibliotecas que poseían sus principales ciudades
+d) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
 
-✅ Respuesta correcta: **b) Por la cantidad de metales preciosos (oro y plata) que lograba
+✅ Respuesta correcta: **d) Por la cantidad de metales preciosos (oro y plata) que lograba
 acumular**
 💬 *Retroalimentación:* El principio central del mercantilismo era que la riqueza de un reino se
 medía, sobre todo, por su capacidad de acumular oro y plata.
@@ -429,51 +435,53 @@ XVI, fenómeno conocido como revolución de los precios.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto mercantilista con su definición:
+**3. (Alternativas — unir)** Une cada concepto mercantilista con su definición:
 
 1) Proteccionismo estatal — 2) Balanza comercial favorable — 3) Monopolio comercial
 
-a) Situación en que un reino exporta más de lo que importa — b) Restricción del comercio
-colonial a un único socio, la metrópoli — c) Impuestos y restricciones a productos extranjeros
-para proteger la producción propia
+Definiciones: (A) Situación en que un reino exporta más de lo que importa — (B) Restricción del comercio colonial a un único socio, la metrópoli — (C) Impuestos y restricciones a productos extranjeros para proteger la producción propia
 
-✅ Respuesta correcta: 1-c, 2-a, 3-b
-💬 *Retroalimentación:* Estos tres mecanismos buscaban, en conjunto, maximizar la acumulación de
-metales preciosos y riqueza para el reino y su Corona.
+¿Qué combinación es correcta?
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-C, 3-A
+d) 1-C, 2-B, 3-A
 
----
-
-**4. (Desarrollo breve)** Explica por qué la ampliación de rutas comerciales y la explotación de
-metales preciosos en América llevaron a una "expansión mundial de la economía europea".
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la búsqueda de metales
-preciosos y nuevas rutas comerciales llevó a las potencias europeas a establecer conexiones
-comerciales con América, África y Asia, integrando por primera vez a gran escala economías de
-distintos continentes bajo la lógica mercantilista europea.
+✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Estos tres mecanismos buscaban, en conjunto, maximizar la acumulación de metales preciosos y riqueza para el reino.
 
 ---
 
-**5. (Análisis de fuente/dato)** Imagina un registro que muestra que el precio del pan en una
-ciudad europea se triplicó entre 1520 y 1590, mientras la llegada de plata americana a los
-puertos españoles aumentaba de forma sostenida en el mismo período. ¿Qué fenómeno económico
-ilustra esta relación?
+**4. (Alternativas)** ¿Por qué la ampliación de rutas comerciales y la explotación de metales preciosos en América llevaron a una "expansión mundial de la economía europea"?
+a) Porque Europa dejó de comerciar con otros continentes
+b) Porque América pasó a dominar la economía europea, y las potencias europeas tuvieron que depender de los metales y productos que los virreinatos decidían enviar
+c) Porque los metales preciosos se quedaron en América sin circular, y Europa tuvo que buscar nuevas rutas hacia Asia para financiar su comercio con otros continentes
+d) Porque las potencias europeas establecieron conexiones comerciales con América, África y Asia, integrando economías de distintos continentes bajo la lógica mercantilista
 
-✅ Respuesta correcta: La revolución de los precios, es decir, el alza sostenida de los precios
-provocada por el aumento de metales preciosos en circulación en Europa.
-💬 *Retroalimentación:* Relacionar datos de dos variables —llegada de plata y precios— permite
-comprender de manera concreta cómo la economía americana afectó directamente la vida cotidiana
-en Europa.
+✅ Respuesta correcta: **d) Porque las potencias europeas establecieron conexiones comerciales con América, África y Asia, integrando economías de distintos continentes bajo la lógica mercantilista**
+💬 *Retroalimentación:* Por primera vez se integraron a gran escala economías de distintos continentes.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el mercantilismo aumentó la competencia
-y los conflictos entre las potencias europeas, en lugar de fomentar la cooperación entre ellas?
+**5. (Alternativas — análisis de datos)** Imagina un registro que muestra que el precio del pan en una ciudad europea se triplicó entre 1520 y 1590, mientras la llegada de plata americana a España aumentaba sostenidamente. ¿Qué fenómeno ilustra esta relación?
+a) La Revolución neolítica, que aumentó la producción de trigo y su precio
+b) La caída del Imperio romano, que encareció los alimentos y el pan en las ciudades europeas del siglo XVI
+c) La revolución de los precios: el alza sostenida provocada por el aumento de metales preciosos en circulación
+d) La abolición del mercantilismo y la llegada del libre comercio a España
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, si la riqueza se entendía como
-algo limitado (la cantidad de metales preciosos y rutas comerciales disponibles), lo que un reino
-ganaba —territorios, rutas, metales— generalmente significaba que otro lo perdía, lo que
-incentivó una lógica de rivalidad y conflicto antes que de cooperación entre las potencias
-europeas.
+✅ Respuesta correcta: **c) La revolución de los precios: el alza sostenida provocada por el aumento de metales preciosos en circulación**
+💬 *Retroalimentación:* Relacionar dos variables —llegada de plata y precios— permite comprender cómo la economía americana afectó la vida cotidiana en Europa.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el mercantilismo aumentó la competencia y los conflictos entre las potencias europeas?
+a) Porque promovía el libre comercio y la cooperación entre reinos, lo que generaba disputas sobre cómo repartir las ganancias comunes
+b) Porque prohibía tener colonias, y los reinos competían por las rutas comerciales que quedaban libres en Asia
+c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que lo que un reino ganaba generalmente lo perdía otro
+d) Porque los reinos no buscaban acumular riqueza, sino territorios, y las guerras se producían por motivos solo religiosos
+
+✅ Respuesta correcta: **c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que lo que un reino ganaba generalmente lo perdía otro**
+💬 *Retroalimentación:* Esa lógica incentivó la rivalidad antes que la cooperación entre las potencias europeas.
 
 ---
 
@@ -544,12 +552,12 @@ objetivo.
 
 **1. (Alternativas)** ¿Qué postura defendió Bartolomé de las Casas en el debate de Valladolid?
 
-a) Que los indígenas eran seres inferiores, cuyo sometimiento estaba justificado
-b) Que los indígenas eran seres humanos racionales, con plenos derechos
+a) Que los indígenas eran seres humanos racionales, con plenos derechos
+b) Que los indígenas eran seres inferiores, cuyo sometimiento estaba justificado
 c) Que los indígenas debían ser exterminados
 d) Que la Conquista de América no había ocurrido
 
-✅ Respuesta correcta: **b) Que los indígenas eran seres humanos racionales, con plenos
+✅ Respuesta correcta: **a) Que los indígenas eran seres humanos racionales, con plenos
 derechos**
 💬 *Retroalimentación:* Bartolomé de las Casas denunció los abusos cometidos durante la Conquista
 y defendió la humanidad y racionalidad de los pueblos indígenas, en contraposición a la postura
@@ -567,51 +575,47 @@ mundo.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada personaje del debate de Valladolid con su argumento
-principal:
+**3. (Alternativas)** ¿Qué opción asigna correctamente las posturas del debate de Valladolid?
+a) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento
+b) Bartolomé de las Casas defendió la "esclavitud natural" para justificar la Conquista; Juan Ginés de Sepúlveda denunció los abusos y defendió la humanidad racional de los indígenas
+c) Ambos defendieron la "esclavitud natural" de los indígenas, pero Las Casas pidió que se aplicara con menos violencia que la propuesta por Sepúlveda
+d) Ambos negaron que los indígenas fueran seres humanos racionales, y discutieron solo si la Corona debía permitir o no la encomienda en América
 
-1) Bartolomé de las Casas — 2) Juan Ginés de Sepúlveda
-
-a) Defendió la teoría aristotélica de la "esclavitud natural" para justificar el sometimiento
-indígena — b) Denunció los abusos de la Conquista y defendió la humanidad racional de los
-indígenas
-
-✅ Respuesta correcta: 1-b, 2-a
-💬 *Retroalimentación:* Este debate ilustra cómo la conquista de América generó profundas
-discusiones morales dentro de la propia cultura europea sobre la condición humana de los pueblos
-indígenas.
+✅ Respuesta correcta: **a) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento**
+💬 *Retroalimentación:* Este debate ilustra cómo la Conquista generó profundas discusiones morales dentro de la propia cultura europea.
 
 ---
 
-**4. (Desarrollo breve)** Explica en qué consistió "el desafío de representar una nueva
-realidad" que enfrentaron los europeos tras la conquista de América.
+**4. (Alternativas)** ¿En qué consistió "el desafío de representar una nueva realidad" que enfrentaron los europeos tras la conquista de América?
+a) En traducir la Biblia al latín para que los indígenas pudieran leerla y aprender el idioma de los conquistadores
+b) En aprender a navegar por el Mediterráneo con nuevas técnicas e instrumentos, porque los barcos europeos todavía no conocían esas rutas comerciales tan antiguas
+c) En copiar exactamente las ciudades europeas en América, sin cambiar sus nombres, edificios ni formas de organización
+d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que los europeos se encontraron con
-plantas, animales, paisajes y sociedades que no existían en sus referencias culturales previas, y
-debieron desarrollar nuevas palabras, categorías y formas de representación (mapas, crónicas,
-dibujos) para dar cuenta de esa nueva realidad.
-
----
-
-**5. (Análisis de fuente)** Imagina un fragmento de una crónica del siglo XVI que afirma: "estos
-naturales tienen alma racional como cualquier cristiano, y por tanto no pueden ser tratados como
-bestias de carga". ¿Con qué postura del debate de Valladolid se relaciona más este fragmento?
-
-✅ Respuesta correcta: Con la postura de Bartolomé de las Casas, que defendía la racionalidad y
-humanidad de los indígenas.
-💬 *Retroalimentación:* Reconocer los argumentos detrás de una fuente histórica permite ubicarla
-dentro de los debates de su época, en este caso, el debate sobre la condición humana de los
-indígenas.
+✅ Respuesta correcta: **d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)**
+💬 *Retroalimentación:* Lo que encontraron no existía en sus referencias culturales previas.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el debate de Valladolid, más allá de su
-resultado inmediato, sigue siendo importante para pensar los derechos humanos en la actualidad?
+**5. (Alternativas — análisis de fuente)** Una crónica del siglo XVI afirma: "estos naturales tienen alma racional como cualquier cristiano, y por tanto no pueden ser tratados como bestias de carga". ¿Con qué postura del debate de Valladolid se vincula?
+a) Con la de Juan Ginés de Sepúlveda, que defendía la esclavitud natural
+b) Con la de Martín Lutero, que defendía la libre interpretación de la Biblia
+c) Con la de Galileo Galilei, que defendía la observación de la naturaleza
+d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que este debate planteó, por
-primera vez de forma sistemática en el contexto europeo, la pregunta sobre si todos los seres
-humanos tienen los mismos derechos independientemente de su origen o cultura, una pregunta que
-sigue siendo central en la discusión actual sobre los derechos humanos.
+✅ Respuesta correcta: **d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas**
+💬 *Retroalimentación:* Reconocer los argumentos de una fuente permite ubicarla dentro de los debates de su época.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el debate de Valladolid sigue siendo importante para pensar los derechos humanos hoy?
+a) Porque resolvió para siempre los abusos de la Conquista, y desde entonces todas las personas tuvieron los mismos derechos
+b) Porque prohibió el comercio con América y obligó a la Corona a respetar la autonomía de los pueblos indígenas
+c) Porque planteó de forma sistemática si todos los seres humanos tienen los mismos derechos, independientemente de su origen o cultura
+d) No es importante: no tiene relación con el presente, porque los derechos humanos se definieron recién en el siglo XX
+
+✅ Respuesta correcta: **c) Porque planteó de forma sistemática si todos los seres humanos tienen los mismos derechos, independientemente de su origen o cultura**
+💬 *Retroalimentación:* Esa pregunta sigue siendo central en la discusión actual sobre los derechos humanos.
 
 ---
 
@@ -682,10 +686,10 @@ expresión cultural, típica de la sociedad colonial.
 
 **1. (Alternativas)** ¿Qué era la "mita" en la sociedad colonial americana?
 
-a) Un impuesto que solo pagaban los criollos
+a) Un impuesto que solo pagaban los criollos por el comercio con España
 b) Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
-c) Una fiesta religiosa de origen indígena
-d) Un tribunal encargado de juzgar a los encomenderos
+c) Una fiesta religiosa de origen indígena que la Iglesia permitió celebrar
+d) Un tribunal encargado de juzgar a los encomenderos que abusaban de los indígenas
 
 ✅ Respuesta correcta: **b) Un sistema de trabajo obligatorio y rotativo, usado especialmente en
 la minería**
@@ -704,53 +708,53 @@ distintos derechos y posición social.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Transculturación — 2) Mestizaje — 3) Evangelización
 
-a) Proceso de conversión de los indígenas al cristianismo — b) Intercambio y mezcla de elementos
-culturales entre distintos grupos — c) Mezcla biológica y cultural entre europeos, indígenas y
-africanos
+Definiciones: (A) Proceso de conversión de los indígenas al cristianismo — (B) Intercambio y mezcla de elementos culturales entre distintos grupos — (C) Mezcla biológica y cultural entre europeos, indígenas y africanos
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Estos tres procesos ocurrieron de manera simultánea y entrelazada durante
-la formación de la sociedad colonial americana.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Desarrollo breve)** Explica la diferencia entre la encomienda y la esclavitud de personas
-africanas como formas de trabajo no remunerado en la sociedad colonial.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la encomienda obligaba a
-comunidades indígenas a trabajar y tributar a un encomendero a cambio de una supuesta
-"protección" y evangelización, mientras que la esclavitud de personas africanas implicaba
-considerarlas propiedad de otra persona, sin ningún derecho, y se utilizó especialmente donde
-escaseaba la mano de obra indígena.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Estos tres procesos ocurrieron de manera simultánea y entrelazada durante la formación de la sociedad colonial americana.
 
 ---
 
-**5. (Análisis de fuente)** Imagina un documento colonial que clasifica a una persona como
-"mestiza, hija de padre español y madre indígena", y establece que por esa condición no puede
-acceder a ciertos cargos públicos reservados a "peninsulares" o "criollos". ¿Qué rasgo de la
-sociedad colonial refleja este documento?
+**4. (Alternativas)** ¿Cuál es la diferencia entre la encomienda y la esclavitud de personas africanas en la sociedad colonial?
+a) La encomienda era un trabajo asalariado que los indígenas elegían libremente a cambio de un sueldo; la esclavitud era un trabajo voluntario de las personas africanas, que podían dejarlo cuando quisieran y volver
+b) Ambas eran formas de trabajo remunerado y libre: los encomenderos pagaban un sueldo a las comunidades indígenas y los dueños de esclavos, a las personas africanas, que conservaban todos sus derechos
+c) No había ninguna diferencia
+d) La encomienda obligaba a comunidades indígenas a trabajar y tributar a un encomendero a cambio de supuesta protección y evangelización; la esclavitud consideraba a las personas africanas propiedad de otra persona, sin derechos
 
-✅ Respuesta correcta: La sociedad de castas, es decir, la organización estamental de la sociedad
-colonial según el origen étnico y familiar de las personas, que determinaba sus derechos y
-posición social.
-💬 *Retroalimentación:* Este tipo de documentos muestra cómo el origen étnico y familiar
-determinaba de forma muy concreta las oportunidades y derechos de las personas en la sociedad
-colonial.
+✅ Respuesta correcta: **d) La encomienda obligaba a comunidades indígenas a trabajar y tributar a un encomendero a cambio de supuesta protección y evangelización; la esclavitud consideraba a las personas africanas propiedad de otra persona, sin derechos**
+💬 *Retroalimentación:* La esclavitud africana se utilizó especialmente donde escaseaba la mano de obra indígena.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el mestizaje y la transculturación son
-procesos clave para entender la identidad cultural de América Latina en la actualidad?
+**5. (Alternativas — análisis de fuente)** Un documento colonial clasifica a una persona como "mestiza, hija de padre español y madre indígena" y establece que no puede acceder a cargos reservados a "peninsulares" o "criollos". ¿Qué rasgo de la sociedad colonial refleja?
+a) La igualdad ante la ley de todos los habitantes, sin importar su origen
+b) La sociedad de castas, en que el origen étnico y familiar determinaba derechos y posición social
+c) La soberanía popular, que permitía a cada grupo social elegir libremente a sus propias autoridades
+d) La libertad de culto
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que gran parte de la población, la
-lengua, la religión, la alimentación y las costumbres actuales de América Latina son resultado de
-la mezcla —biológica y cultural— entre pueblos indígenas, europeos y africanos ocurrida durante
-la Colonia, por lo que comprender estos procesos ayuda a entender el origen de la diversidad
-cultural latinoamericana actual.
+✅ Respuesta correcta: **b) La sociedad de castas, en que el origen étnico y familiar determinaba derechos y posición social**
+💬 *Retroalimentación:* El origen determinaba de forma muy concreta las oportunidades de las personas en la sociedad colonial.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el mestizaje y la transculturación son clave para entender la identidad cultural actual de América Latina?
+a) Porque América Latina solo tiene herencia europea: su lengua, su religión y sus costumbres llegaron desde España y Portugal sin cambios
+b) Porque la Colonia no dejó huellas culturales, y la identidad latinoamericana actual se formó recién con la llegada de inmigrantes europeos y asiáticos durante el siglo XX
+c) Porque gran parte de la población, la lengua, la religión, la alimentación y las costumbres actuales resultan de la mezcla entre pueblos indígenas, europeos y africanos durante la Colonia
+d) Porque los pueblos indígenas desaparecieron sin dejar aportes, y la población actual desciende solo de europeos y africanos llegados a América
+
+✅ Respuesta correcta: **c) Porque gran parte de la población, la lengua, la religión, la alimentación y las costumbres actuales resultan de la mezcla entre pueblos indígenas, europeos y africanos durante la Colonia**
+💬 *Retroalimentación:* Comprender estos procesos ayuda a entender el origen de la diversidad cultural latinoamericana.
 
 ---
 
@@ -821,9 +825,9 @@ territorio en Chile que nunca estuvo bajo dominio efectivo español.
 **1. (Alternativas)** ¿Qué consecuencia territorial tuvo el fracaso de la conquista española de
 Arauco?
 
-a) Los españoles conquistaron completamente el territorio mapuche
+a) Los españoles conquistaron completamente el territorio mapuche y fundaron ciudades al sur del Biobío
 b) Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo al sur
-c) El pueblo mapuche fue trasladado forzosamente al norte de Chile
+c) El pueblo mapuche fue trasladado forzosamente al norte de Chile para trabajar en las minas
 d) Se prohibió cualquier tipo de contacto entre españoles y mapuches
 
 ✅ Respuesta correcta: **b) Se estableció una frontera de facto en el río Biobío, con territorio
@@ -845,52 +849,53 @@ como el de Quilín en 1641.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Malón — 2) Parlamento — 3) Sociedad de frontera
 
-a) Reunión diplomática entre autoridades españolas y líderes mapuches para negociar condiciones
-de convivencia — b) Sociedad marcada tanto por el conflicto como por el intercambio entre grupos
-distintos en una zona límite — c) Ataque armado mapuche contra asentamientos españoles
+Definiciones: (A) Reunión diplomática entre autoridades españolas y líderes mapuches para negociar condiciones de convivencia — (B) Sociedad marcada tanto por el conflicto como por el intercambio entre grupos distintos en una zona límite — (C) Ataque armado mapuche contra asentamientos españoles
 
-✅ Respuesta correcta: 1-c, 2-a, 3-b
-💬 *Retroalimentación:* Estos tres conceptos permiten comprender la complejidad de las relaciones
-que se desarrollaron en la frontera del Biobío durante la Colonia.
+¿Qué combinación es correcta?
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-C, 3-A
+d) 1-C, 2-B, 3-A
 
----
-
-**4. (Desarrollo breve)** Explica qué fue el Parlamento de Quilín (1641) y por qué es un ejemplo
-de la sociedad de frontera del Chile colonial.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que fue una reunión diplomática
-entre autoridades españolas y líderes mapuches en la que la Corona española reconoció el río
-Biobío como límite de su dominio efectivo, lo que ejemplifica cómo, ante el fracaso de la
-conquista militar, español y mapuches desarrollaron mecanismos de negociación en lugar de guerra
-permanente.
+✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Estos tres conceptos permiten comprender la complejidad de los vínculos en la frontera del Biobío durante la Colonia.
 
 ---
 
-**5. (Análisis de mapa/fuente)** Imagina un relato colonial que describe a comerciantes españoles
-cruzando la frontera del Biobío para intercambiar textiles por ganado con familias mapuches, en
-tiempos de tregua. ¿Qué aspecto de la sociedad de frontera ilustra este relato?
+**4. (Alternativas)** ¿Qué fue el Parlamento de Quilín (1641) y por qué ejemplifica la sociedad de frontera?
+a) Una batalla en que los españoles conquistaron todo el territorio mapuche al sur del Biobío, poniendo fin a la resistencia indígena y a la sociedad de frontera
+b) La fundación de Santiago por Pedro de Valdivia, que estableció el primer límite entre el territorio español y el territorio mapuche
+c) Un tratado de comercio entre España y Portugal
+d) Una reunión diplomática en que la Corona española reconoció el río Biobío como límite de su dominio efectivo, mostrando la negociación ante el fracaso de la conquista militar
 
-✅ Respuesta correcta: La convivencia y el intercambio comercial que, junto al conflicto armado,
-formaban parte de la vida cotidiana en la frontera del Biobío.
-💬 *Retroalimentación:* Este tipo de fuentes ayuda a comprender que la frontera no era solo un
-escenario de guerra, sino también un espacio de contacto económico y cultural sostenido entre
-españoles y mapuches.
+✅ Respuesta correcta: **d) Una reunión diplomática en que la Corona española reconoció el río Biobío como límite de su dominio efectivo, mostrando la negociación ante el fracaso de la conquista militar**
+💬 *Retroalimentación:* Ante el fracaso de la conquista militar, españoles y mapuches desarrollaron mecanismos de negociación.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el caso de la frontera del Biobío es un
-rasgo distintivo de la historia colonial de Chile, en comparación con otras zonas de América
-donde la conquista fue más completa?
+**5. (Alternativas — análisis de fuente)** Un relato colonial describe a comerciantes españoles cruzando el Biobío para intercambiar textiles por ganado con familias mapuches en tiempos de tregua. ¿Qué aspecto de la sociedad de frontera ilustra?
+a) Que en la frontera solo había guerra, y los comerciantes cruzaban el río para espiar
+b) La convivencia y el intercambio comercial que, junto al conflicto armado, formaban parte de la vida en la frontera
+c) Que no existía ningún contacto entre españoles y mapuches, salvo durante las batallas en la frontera
+d) Que los mapuches dependían del comercio con Europa para obtener ganado y alimentos
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, en la mayoría de los
-territorios americanos, los pueblos indígenas fueron sometidos militar y políticamente durante la
-Conquista, mientras que en el caso mapuche, la resistencia sostenida obligó a la Corona española a
-reconocer, de facto y luego mediante parlamentos, la existencia de un territorio autónomo dentro
-de los límites del actual Chile, algo poco común en el resto de la América colonial española.
+✅ Respuesta correcta: **b) La convivencia y el intercambio comercial que, junto al conflicto armado, formaban parte de la vida en la frontera**
+💬 *Retroalimentación:* La frontera no fue solo escenario de guerra, sino también de contacto económico y cultural sostenido.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la frontera del Biobío es un rasgo distintivo de la historia colonial de Chile?
+a) Porque fue el único lugar de América donde no hubo conquista española, ya que los españoles nunca llegaron al sur del río Biobío
+b) Porque allí se fundó la primera universidad de América, donde estudiaban juntos españoles y mapuches durante los períodos de tregua
+c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y mediante parlamentos, un territorio autónomo, algo poco común en la América colonial española
+d) Porque los mapuches fueron sometidos más rápido que otros pueblos, y el río marcó el límite de las tierras repartidas en encomienda
+
+✅ Respuesta correcta: **c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y mediante parlamentos, un territorio autónomo, algo poco común en la América colonial española**
+💬 *Retroalimentación:* En la mayoría de los territorios americanos los pueblos indígenas fueron sometidos militar y políticamente durante la Conquista.
 
 ---
 
@@ -985,49 +990,53 @@ hereditario.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto ilustrado con su definición:
+**3. (Alternativas — unir)** Une cada concepto ilustrado con su definición:
 
 1) Ordenamiento constitucional — 2) Secularización — 3) Soberanía popular
 
-a) La autoridad legítima de gobierno proviene de la voluntad del pueblo — b) Separación de los
-asuntos públicos y políticos de la autoridad religiosa — c) El poder político debe regirse por un
-conjunto de leyes fundamentales
+Definiciones: (A) La autoridad legítima de gobierno proviene de la voluntad del pueblo — (B) Separación de los asuntos públicos y políticos de la autoridad religiosa — (C) El poder político debe regirse por un conjunto de leyes fundamentales
 
-✅ Respuesta correcta: 1-c, 2-b, 3-a
-💬 *Retroalimentación:* Estos tres conceptos, junto a la separación de poderes y los principios
-de libertad e igualdad, forman el núcleo del pensamiento político ilustrado.
+¿Qué combinación es correcta?
+a) 1-C, 2-B, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-C, 3-A
+d) 1-C, 2-A, 3-B
 
----
-
-**4. (Desarrollo breve)** Explica por qué las ideas ilustradas implicaron una fuerte crítica al
-absolutismo.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que el absolutismo concentraba todo
-el poder político en el rey, sin límites legales claros ni participación popular, mientras que la
-Ilustración defendía un poder limitado por leyes, dividido entre distintas instituciones y
-legitimado por la voluntad del pueblo, lo que resultaba incompatible con el modelo absolutista.
+✅ Respuesta correcta: **a) 1-C, 2-B, 3-A**
+💬 *Retroalimentación:* Estos conceptos, junto a la separación de poderes y los principios de libertad e igualdad, forman el núcleo del pensamiento político ilustrado.
 
 ---
 
-**5. (Análisis de fuente)** Imagina un texto del siglo XVIII que afirma: "el poder de hacer las
-leyes, el de ejecutarlas y el de juzgar los delitos, no deben nunca reunirse en las mismas manos,
-pues de lo contrario todo estaría perdido". ¿A qué idea ilustrada corresponde este fragmento?
+**4. (Alternativas)** ¿Por qué las ideas ilustradas implicaron una fuerte crítica al absolutismo?
+a) Porque defendían que el rey tuviera todo el poder, siempre que lo ejerciera con razón y en beneficio del pueblo, sin leyes ni instituciones que lo limitaran
+b) Porque rechazaban la existencia de leyes y proponían que cada persona se gobernara solo según su propia razón
+c) Porque proponían volver al feudalismo, devolviendo el poder a los señores locales y a la nobleza de cada región
+d) Porque defendían un poder limitado por leyes, dividido entre instituciones y legitimado por el pueblo, incompatible con un rey que concentraba todo el poder
 
-✅ Respuesta correcta: A la separación y el equilibrio de los poderes del Estado, propuesta
-principalmente por Montesquieu.
-💬 *Retroalimentación:* Este fragmento resume de forma clara el principio de que ningún poder del
-Estado —legislativo, ejecutivo o judicial— debe concentrarse en una sola institución o persona.
+✅ Respuesta correcta: **d) Porque defendían un poder limitado por leyes, dividido entre instituciones y legitimado por el pueblo, incompatible con un rey que concentraba todo el poder**
+💬 *Retroalimentación:* El absolutismo concentraba el poder en el rey sin límites legales ni participación popular.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que las ideas ilustradas, surgidas en el
-siglo XVIII, siguen presentes en los sistemas políticos republicanos actuales, incluido el
-chileno?
+**5. (Alternativas — análisis de fuente)** Un texto del siglo XVIII afirma: "el poder de hacer las leyes, el de ejecutarlas y el de juzgar los delitos, no deben nunca reunirse en las mismas manos". ¿A qué idea ilustrada corresponde?
+a) Al derecho divino de los reyes, que concentra los tres poderes del Estado en manos del monarca
+b) A la separación y equilibrio de los poderes del Estado, propuesta principalmente por Montesquieu
+c) Al mercantilismo, que busca acumular metales preciosos en el reino
+d) A la Contrarreforma, que fortaleció la autoridad de la Iglesia
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que principios como la separación de
-poderes, la existencia de una constitución que limita al poder político, y la idea de que la
-autoridad de gobierno proviene de la ciudadanía (soberanía popular) son, hasta hoy, pilares
-fundamentales de las repúblicas democráticas, incluida la organización política de Chile.
+✅ Respuesta correcta: **b) A la separación y equilibrio de los poderes del Estado, propuesta principalmente por Montesquieu**
+💬 *Retroalimentación:* Ningún poder del Estado —legislativo, ejecutivo o judicial— debe concentrarse en una sola institución o persona.
+
+---
+
+**6. (Varias correctas — desafiante)** ¿Qué principios ilustrados siguen presentes en los sistemas republicanos actuales, incluido el chileno? Marca **todas** las correctas.
+a) La separación de poderes
+b) La existencia de una constitución que limita al poder político
+c) La soberanía popular: la autoridad proviene de la ciudadanía
+d) El derecho divino de los reyes
+
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Los tres primeros son pilares de las repúblicas democráticas actuales; el derecho divino de los reyes es justamente lo que la Ilustración criticó.
 
 ---
 
@@ -1110,10 +1119,10 @@ independentistas americanos.
 **1. (Alternativas)** ¿Qué acontecimiento europeo de 1808 desencadenó la crisis de la monarquía
 española que abrió paso a los procesos independentistas americanos?
 
-a) La Reforma protestante
+a) La Reforma protestante iniciada por Martín Lutero en Alemania
 b) La invasión napoleónica a España y la caída de Fernando VII
-c) El Concilio de Trento
-d) La Revolución científica
+c) El Concilio de Trento y la Contrarreforma
+d) La Revolución científica y el heliocentrismo
 
 ✅ Respuesta correcta: **b) La invasión napoleónica a España y la caída de Fernando VII**
 💬 *Retroalimentación:* Al quedar la monarquía española sin un rey legítimo en el trono, se abrió
@@ -1132,53 +1141,53 @@ tiempos, líderes y hechos concretos.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente estas etapas del proceso de independencia de
-Chile: (1) Reconquista española, (2) Primera Junta de Gobierno, (3) Independencia declarada, (4)
-Batalla de Chacabuco.
+**3. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) Reconquista española, (2) Primera Junta de Gobierno, (3) Independencia declarada, (4) Batalla de Chacabuco.
+a) 2 → 4 → 1 → 3
+b) 1 → 2 → 4 → 3
+c) 2 → 1 → 4 → 3
+d) 2 → 1 → 3 → 4
 
-✅ Respuesta correcta: **2 → 1 → 4 → 3**
-💬 *Retroalimentación:* Primero se formó la Primera Junta de Gobierno (1810), luego España
-recuperó el control durante la Reconquista (1814-1817), después las fuerzas patriotas vencieron
-en Chacabuco (1817), y finalmente se declaró la Independencia de Chile (1818).
+✅ Respuesta correcta: **c) 2 → 1 → 4 → 3**
+💬 *Retroalimentación:* Primera Junta (1810), Reconquista (1814-1817), Chacabuco (1817) y declaración de la Independencia (1818).
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada etapa del proceso chileno con su descripción:
+**4. (Alternativas — unir)** Une cada etapa del proceso chileno con su descripción:
 
 1) Patria Vieja — 2) Reconquista — 3) Patria Nueva
 
-a) Período en que fuerzas realistas recuperaron temporalmente el control colonial — b) Primer
-período de gobiernos patriotas, iniciado en 1810 — c) Período que culmina con la declaración de
-independencia en 1818
+Descripciones: (A) Período en que fuerzas realistas recuperaron temporalmente el control colonial — (B) Primer período de gobiernos patriotas, iniciado en 1810 — (C) Período que culmina con la declaración de independencia en 1818
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Comprender estas tres etapas ayuda a entender que la independencia de
-Chile no fue un proceso lineal, sino que tuvo avances y un importante retroceso temporal.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**5. (Análisis de mapa/línea de tiempo)** Imagina un mapa de América a comienzos del siglo XIX
-que muestra, con distintos colores, las zonas donde se desarrollaron procesos independentistas
-entre 1808 y 1825, abarcando desde México hasta el sur de Sudamérica. ¿Qué característica del
-proceso independentista hispanoamericano ilustra este mapa?
-
-✅ Respuesta correcta: Que la independencia hispanoamericana fue un proceso continental, que se
-desarrolló de forma más o menos simultánea en distintos territorios de América.
-💬 *Retroalimentación:* Visualizar la extensión geográfica y temporal de estos procesos ayuda a
-comprender que no se trató de hechos aislados, sino de un fenómeno que abarcó gran parte del
-continente americano.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* La independencia de Chile no fue un proceso lineal: tuvo avances y un importante retroceso temporal.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la apropiación de las ideas ilustradas
-fue una condición necesaria, pero no la única causa suficiente, para explicar la independencia de
-Hispanoamérica?
+**5. (Alternativas — análisis de mapa)** Un mapa de América a comienzos del siglo XIX muestra las zonas donde hubo procesos independentistas entre 1808 y 1825, desde México hasta el sur de Sudamérica. ¿Qué característica ilustra?
+a) Que solo Chile se independizó en ese período, y el resto de América siguió siendo colonia
+b) Que la independencia ocurrió en un solo día en todo el continente, gracias a un acuerdo firmado con España
+c) Que los procesos fueron hechos aislados sin relación entre sí
+d) Que la independencia hispanoamericana fue un proceso continental, más o menos simultáneo en distintos territorios
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las ideas ilustradas —soberanía
-popular, separación de poderes, ideario republicano— dieron a los criollos un marco conceptual
-para cuestionar el dominio colonial, pero que este proceso requirió además una coyuntura
-específica (la crisis de la monarquía española) y motivaciones concretas (aspiraciones políticas
-y económicas criollas) para transformarse efectivamente en movimientos independentistas.
+✅ Respuesta correcta: **d) Que la independencia hispanoamericana fue un proceso continental, más o menos simultáneo en distintos territorios**
+💬 *Retroalimentación:* No se trató de hechos aislados, sino de un fenómeno que abarcó gran parte del continente.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué la apropiación de las ideas ilustradas fue una condición necesaria, pero no suficiente, para explicar la independencia de Hispanoamérica?
+a) Porque las ideas ilustradas no llegaron a América, y los criollos solo conocieron las ideas de independencia a través de la experiencia de Estados Unidos
+b) Porque dieron un marco conceptual a los criollos, pero se requirió además una coyuntura (la crisis de la monarquía española) y motivaciones políticas y económicas concretas
+c) Porque la independencia se explica solo por las ideas ilustradas, que bastaron para que los criollos se rebelaran sin necesidad de ninguna coyuntura
+d) Porque los criollos rechazaban las ideas ilustradas y buscaban la independencia para restaurar el poder absoluto del rey de España en América
+
+✅ Respuesta correcta: **b) Porque dieron un marco conceptual a los criollos, pero se requirió además una coyuntura (la crisis de la monarquía española) y motivaciones políticas y económicas concretas**
+💬 *Retroalimentación:* Las ideas, la coyuntura y los intereses criollos se combinaron para dar lugar a los movimientos independentistas.
 
 ---
 
@@ -1260,10 +1269,10 @@ necesariamente coinciden en sus límites.
 **1. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de región definida principalmente por
 criterios humanos, más que físicos?
 
-a) La región de la Patagonia, definida por su clima frío
+a) La región de la Patagonia, definida principalmente por su clima frío y ventoso
 b) La región andina, definida por elementos culturales compartidos entre países
-c) La cordillera de los Andes, definida por el relieve
-d) El desierto de Atacama, definido por su clima árido
+c) La cordillera de los Andes, definida principalmente por su relieve elevado
+d) El desierto de Atacama, definido principalmente por su clima árido y seco
 
 ✅ Respuesta correcta: **b) La región andina, definida por elementos culturales compartidos entre
 países**
@@ -1282,50 +1291,53 @@ criterios no necesariamente producen los mismos límites territoriales.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada tipo de región con su criterio de definición principal:
+**3. (Alternativas — unir)** Une cada tipo de región con su criterio de definición principal:
 
 1) Región geográfica — 2) Región económica — 3) Región político-administrativa
 
-a) Límites definidos formalmente por el Estado para fines de gobierno — b) Rasgos físicos como el
-clima o el relieve — c) Actividad productiva predominante
+Criterios: (A) Límites definidos formalmente por el Estado para fines de gobierno — (B) Rasgos físicos como el clima o el relieve — (C) Actividad productiva predominante
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Reconocer estos criterios ayuda a identificar qué tipo de región se está
-analizando en cada caso concreto, en Chile o en América.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Desarrollo breve)** Explica la diferencia entre una región definida por factores físicos y
-una región definida por factores humanos, dando un ejemplo de cada una.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las regiones definidas por
-factores físicos se basan en rasgos como el clima, el relieve o la vegetación (por ejemplo, una
-región desértica), mientras que las definidas por factores humanos se basan en rasgos como la
-lengua, la religión o la historia compartida (por ejemplo, una región cultural), y entrega un
-ejemplo válido de cada tipo.
+✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Reconocer estos criterios ayuda a identificar qué tipo de región se está analizando en cada caso.
 
 ---
 
-**5. (Análisis de mapa)** Imagina un mapa de Chile que divide el territorio nacional en unidades
-con nombre, número, capital regional y límites administrativos definidos por ley. ¿Qué tipo de
-región representa este mapa?
+**4. (Alternativas)** ¿Qué opción distingue correctamente una región definida por factores físicos y una definida por factores humanos?
+a) Física: basada en clima, relieve o vegetación (p. ej., una región desértica). Humana: basada en lengua, religión o historia compartida (p. ej., una región cultural)
+b) Física: basada en la lengua o la religión de sus habitantes (p. ej., una región cultural). Humana: basada en el relieve o el clima (p. ej., una región desértica)
+c) Ambas se basan solo en límites administrativos fijados por ley, y la diferencia está únicamente en el nombre que reciben en los mapas oficiales
+d) No existe diferencia entre ellas: toda región se define a la vez por el clima y por la cultura, de modo que no es posible separar ambos criterios
 
-✅ Respuesta correcta: Una región político-administrativa, definida formalmente por el Estado
-para fines de gobierno y administración del territorio.
-💬 *Retroalimentación:* Los mapas de división político-administrativa son la representación más
-habitual de este tipo de región, distinta de otras formas de regionalización basadas en criterios
-físicos o culturales.
+✅ Respuesta correcta: **a) Física: basada en clima, relieve o vegetación (p. ej., una región desértica). Humana: basada en lengua, religión o historia compartida (p. ej., una región cultural)**
+💬 *Retroalimentación:* Cada tipo de región pone el foco en rasgos distintos del territorio.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que es útil, para comprender un territorio,
-poder analizarlo con distintos tipos de región (geográfica, cultural, económica,
-político-administrativa) y no solo con uno de ellos?
+**5. (Alternativas — análisis de mapa)** Un mapa de Chile divide el territorio en unidades con nombre, número, capital regional y límites definidos por ley. ¿Qué tipo de región representa?
+a) Una región geográfica natural
+b) Una región cultural o histórica
+c) Una región económica productiva
+d) Una región político-administrativa
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que cada tipo de región pone el foco
-en aspectos distintos de la realidad de un territorio (su clima y relieve, su cultura, su economía
-o su organización político-administrativa), por lo que combinar distintos criterios permite una
-comprensión más completa y matizada de un mismo espacio geográfico.
+✅ Respuesta correcta: **d) Una región político-administrativa**
+💬 *Retroalimentación:* Los mapas de división político-administrativa son la representación más habitual de este tipo de región.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué es útil analizar un territorio con distintos tipos de región y no solo con uno?
+a) Porque todos los tipos de región muestran exactamente lo mismo, y usar varios sirve solo para confirmar los datos del mapa
+b) Porque cada tipo pone el foco en aspectos distintos (clima, cultura, economía, organización), y combinarlos permite una comprensión más completa
+c) Porque solo la región político-administrativa es válida, y los otros tipos sirven solo para dibujar mapas más completos y coloridos
+d) Porque así se evita estudiar el territorio
+
+✅ Respuesta correcta: **b) Porque cada tipo pone el foco en aspectos distintos (clima, cultura, economía, organización), y combinarlos permite una comprensión más completa**
+💬 *Retroalimentación:* Combinar criterios permite una comprensión más matizada de un mismo espacio geográfico.
 
 ---
 
@@ -1397,10 +1409,10 @@ centro-periferia en el territorio chileno.
 **1. (Alternativas)** ¿Qué factores influyen principalmente en el grado de aislamiento de una
 región o localidad?
 
-a) Solo la cantidad de habitantes que tiene
+a) Solo la cantidad de habitantes que tiene la región o la localidad
 b) Las redes de transporte y comunicaciones, y el acceso a bienes, servicios e información
-c) Únicamente el clima de la región
-d) Solamente la cantidad de universidades presentes en la región
+c) Únicamente el clima de la región y la cantidad de lluvia que recibe al año
+d) Solamente la cantidad de universidades y colegios presentes en la región
 
 ✅ Respuesta correcta: **b) Las redes de transporte y comunicaciones, y el acceso a bienes,
 servicios e información**
@@ -1420,52 +1432,53 @@ zonas más conectadas o cercanas a grandes centros urbanos.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada problemática territorial con un ejemplo:
+**3. (Alternativas — unir)** Une cada problemática territorial con un ejemplo:
 
 1) Relación centro-periferia — 2) Migración — 3) Aislamiento
 
-a) Una localidad cordillerana sin acceso a internet ni transporte público regular — b)
-Concentración de servicios especializados en la capital, frente a menor disponibilidad en
-regiones — c) Llegada o salida sostenida de personas desde o hacia una región
+Ejemplos: (A) Una localidad cordillerana sin acceso a internet ni transporte público regular — (B) Concentración de servicios especializados en la capital, frente a menor disponibilidad en regiones — (C) Llegada o salida sostenida de personas desde o hacia una región
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Reconocer estos ejemplos ayuda a identificar problemáticas territoriales
-concretas en distintas regiones del país.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de datos)** Imagina una tabla que muestra que, en los últimos diez años, una región
-del sur de Chile ha perdido población joven (que migra hacia otras regiones) mientras aumenta la
-proporción de población adulta mayor. ¿Qué impacto probable tendría esta situación en el mercado
-laboral de esa región?
-
-✅ Respuesta correcta: Probablemente enfrentaría escasez de mano de obra joven, dificultades para
-cubrir ciertos empleos y una mayor demanda de servicios orientados a la población adulta mayor
-(como salud geriátrica).
-💬 *Retroalimentación:* Interpretar datos demográficos permite anticipar impactos concretos en
-ámbitos como el mercado laboral o la demanda de servicios de una región.
+✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Reconocer estos ejemplos ayuda a identificar problemáticas territoriales concretas en distintas regiones del país.
 
 ---
 
-**5. (Desarrollo breve)** Explica cómo la relación centro-periferia puede afectar el acceso de las
-personas que viven en regiones alejadas de Santiago a determinados servicios o bienes.
+**4. (Alternativas — análisis de datos)** Una tabla muestra que, en diez años, una región del sur de Chile perdió población joven (que migra) mientras aumentó la proporción de adultos mayores. ¿Qué impacto probable tendría en su mercado laboral?
+a) Escasez de mano de obra joven y mayor demanda de servicios para adultos mayores, como salud geriátrica
+b) Exceso de trabajadores jóvenes sin empleo, porque las empresas prefieren contratar adultos mayores
+c) Ningún cambio relevante en el mercado laboral, porque los adultos mayores reemplazan a los jóvenes
+d) Cierre de todos los servicios de salud, porque los adultos mayores se trasladan a la capital a atenderse
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, al concentrarse servicios
-especializados, inversión y oportunidades laborales en el centro (Santiago), las personas que
-viven en regiones periféricas pueden tener menor acceso a estos bienes y servicios, o deben
-trasladarse largas distancias para obtenerlos, lo que genera desigualdades territoriales.
+✅ Respuesta correcta: **a) Escasez de mano de obra joven y mayor demanda de servicios para adultos mayores, como salud geriátrica**
+💬 *Retroalimentación:* Interpretar datos demográficos permite anticipar impactos concretos en el empleo y los servicios.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que analizar la relación campo-ciudad y
-centro-periferia es importante para comprender los desafíos que enfrenta la región en la que tú
-vives?
+**5. (Alternativas)** ¿Cómo puede afectar la relación centro-periferia a las personas que viven en regiones alejadas de Santiago?
+a) Tienen siempre más servicios que quienes viven en Santiago, porque el Estado invierte más en las regiones alejadas para compensar la distancia
+b) No les afecta en nada, porque hoy todos los servicios, la inversión y el empleo están distribuidos de forma equitativa en todo el territorio
+c) Las obliga a todas a trasladarse a vivir en la capital, porque en las regiones alejadas no existe ningún tipo de servicio ni de empleo
+d) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que estos conceptos permiten
-identificar de forma concreta las desigualdades en el acceso a servicios, empleo e infraestructura
-entre distintas zonas del país, lo que ayuda a comprender por qué algunas regiones enfrentan
-mayores desafíos de conectividad, migración o acceso a servicios que otras, y a pensar posibles
-soluciones a esos desafíos.
+✅ Respuesta correcta: **d) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales**
+💬 *Retroalimentación:* La concentración en el centro genera desigualdades de acceso entre territorios.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué analizar las relaciones campo-ciudad y centro-periferia ayuda a comprender los desafíos de una región?
+a) Porque todas las regiones de Chile tienen los mismos desafíos, y estas relaciones permiten aplicar en todas partes las mismas soluciones
+b) Porque permiten identificar desigualdades en acceso a servicios, empleo e infraestructura, y pensar soluciones a problemas de conectividad o migración
+c) Porque solo sirven para estudiar Santiago, que es la única ciudad del país con una periferia y con relaciones con el campo
+d) Porque las desigualdades territoriales no existen
+
+✅ Respuesta correcta: **b) Porque permiten identificar desigualdades en acceso a servicios, empleo e infraestructura, y pensar soluciones a problemas de conectividad o migración**
+💬 *Retroalimentación:* Estos conceptos explican por qué algunas regiones enfrentan mayores desafíos que otras.
 
 ---
 
@@ -1535,10 +1548,10 @@ equilibrar la actividad productiva actual con el cuidado ambiental de largo plaz
 
 **1. (Alternativas)** ¿Qué dimensiones combina el Índice de Desarrollo Humano (IDH)?
 
-a) Solo el ingreso económico de la población
+a) Solo el ingreso económico promedio de la población
 b) Salud (esperanza de vida), educación y nivel de vida (ingreso)
 c) Únicamente la cantidad de exportaciones de una región
-d) Solo la superficie territorial de una región
+d) Solo la superficie territorial y la población de una región
 
 ✅ Respuesta correcta: **b) Salud (esperanza de vida), educación y nivel de vida (ingreso)**
 💬 *Retroalimentación:* El IDH permite comparar el bienestar de regiones o países considerando más
@@ -1556,51 +1569,53 @@ equilibrar el crecimiento económico presente con el cuidado ambiental de largo 
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Ventaja comparativa — 2) Inserción en mercados internacionales — 3) Diversidad productiva
 
-a) Participación de una región, directamente o mediante exportaciones, en el comercio con otros
-países — b) Capacidad de una región para producir eficientemente cierto bien, dadas sus
-condiciones particulares — c) Existencia de varios sectores económicos en una misma región, en
-lugar de depender de uno solo
+Definiciones: (A) Participación de una región, directamente o mediante exportaciones, en el comercio con otros países — (B) Capacidad de una región para producir eficientemente cierto bien, dadas sus condiciones particulares — (C) Existencia de varios sectores económicos en una misma región, en lugar de depender de uno solo
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Estos conceptos permiten analizar de forma más completa la situación
-económica y el desarrollo de una región.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de datos)** Imagina una tabla que compara dos regiones: la Región A tiene un
-ingreso per cápita alto, pero baja esperanza de vida y bajo nivel educacional; la Región B tiene
-un ingreso per cápita algo menor, pero mayor esperanza de vida y mejor nivel educacional. Según el
-concepto de IDH, ¿qué región tendría probablemente mejores indicadores de desarrollo humano?
-
-✅ Respuesta correcta: Probablemente la Región B, ya que el IDH no se basa solo en el ingreso, sino
-que también pondera fuertemente la salud (esperanza de vida) y la educación.
-💬 *Retroalimentación:* Este ejercicio muestra por qué el concepto de desarrollo humano entrega una
-imagen distinta —y más completa— que mirar únicamente el ingreso económico de una región.
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Estos conceptos permiten analizar de forma más completa la situación económica y el desarrollo de una región.
 
 ---
 
-**5. (Desarrollo breve)** Explica qué significa que una región tenga una "ventaja comparativa" en
-determinada actividad productiva, dando un ejemplo.
+**4. (Alternativas — análisis de datos)** La Región A tiene ingreso per cápita alto, pero baja esperanza de vida y bajo nivel educacional; la Región B tiene un ingreso algo menor, pero mayor esperanza de vida y mejor educación. Según el IDH, ¿qué región tendría probablemente mejores indicadores de desarrollo humano?
+a) La Región B, porque el IDH considera también salud y educación, no solo el ingreso
+b) La Región A, porque el IDH mide solo el ingreso per cápita de la población
+c) Ambas tienen el mismo IDH, porque el índice no considera la educación
+d) Ninguna, porque el IDH solo se calcula para países y no para regiones
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que una ventaja comparativa implica
-que una región puede producir cierto bien de forma relativamente más eficiente que otras, debido a
-sus condiciones naturales, humanas o tecnológicas, y entrega un ejemplo válido, como una región con
-abundantes recursos mineros especializada en minería.
+✅ Respuesta correcta: **a) La Región B, porque el IDH considera también salud y educación, no solo el ingreso**
+💬 *Retroalimentación:* El concepto de desarrollo humano entrega una imagen más completa que mirar únicamente el ingreso.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que puede existir tensión entre buscar el
-desarrollo productivo de una región y lograr, al mismo tiempo, un desarrollo sustentable?
+**5. (Alternativas)** ¿Qué significa que una región tenga una "ventaja comparativa" en una actividad productiva?
+a) Que produce todos los bienes mejor y más barato que cualquier otra región, por lo que no necesita comerciar con ninguna otra ni especializarse en una actividad
+b) Que no exporta ningún producto, porque consume dentro de la misma región todo lo que produce gracias a sus condiciones naturales, humanas o tecnológicas
+c) Que depende completamente de las importaciones, porque se especializa en una sola actividad productiva y debe comprar todo lo demás a otras regiones o países
+d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que actividades productivas
-rentables en el corto plazo —como la explotación intensiva de un recurso natural— pueden generar
-impactos ambientales negativos (contaminación, agotamiento de recursos) que comprometen la
-posibilidad de mantener esa actividad, o la calidad de vida de la población, en el largo plazo, por
-lo que el desarrollo sustentable exige buscar un equilibrio entre ambos objetivos.
+✅ Respuesta correcta: **d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería**
+💬 *Retroalimentación:* La ventaja comparativa se basa en las condiciones particulares de cada región.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué puede existir tensión entre el desarrollo productivo de una región y el desarrollo sustentable?
+a) Porque el desarrollo productivo nunca afecta el ambiente, pero las normas de sustentabilidad imponen costos que hacen menos rentable cualquier actividad económica de la región
+b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo
+c) Porque la sustentabilidad prohíbe toda actividad económica que use recursos naturales, de modo que una región solo puede desarrollarse si deja de producir
+d) No existe ninguna tensión entre ambos
+
+✅ Respuesta correcta: **b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo**
+💬 *Retroalimentación:* El desarrollo sustentable exige buscar un equilibrio entre ambos objetivos.
 
 ---
 
@@ -1701,54 +1716,53 @@ humanidad de forma más consistente.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada principio de la declaración de 1789 con la idea ilustrada
-que lo fundamenta:
+**3. (Alternativas — unir)** Une cada principio de la declaración de 1789 con la idea que lo fundamenta:
 
-1) La ley es expresión de la voluntad general — 2) Todos nacen libres e iguales en derechos — 3)
-La soberanía reside en la nación
+1) La ley es expresión de la voluntad general — 2) Todos nacen libres e iguales en derechos — 3) La soberanía reside esencialmente en la nación
 
-a) Principio de igualdad ilustrado — b) Idea de soberanía popular — c) Idea de que la autoridad
-legítima proviene del pueblo, no del rey
+Ideas: (A) Principio ilustrado de igualdad ante la ley — (B) Idea de Rousseau de que las leyes deben reflejar lo que decide la comunidad — (C) Rechazo al derecho divino: el poder no pertenece al rey, sino a la nación
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Estos principios muestran cómo las ideas ilustradas estudiadas en el eje de
-Historia se plasmaron de forma concreta en un documento político y jurídico como la declaración de
-1789.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Desarrollo breve)** Explica en qué consistió, según la declaración de 1789, el principio de
-soberanía nacional.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, según este principio, la
-autoridad política reside esencialmente en la nación (el pueblo), y que ningún individuo ni grupo
-puede ejercer un poder que no provenga, directa o indirectamente, de la voluntad de esa nación, lo
-que representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.
+✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Estos principios muestran cómo las ideas ilustradas se plasmaron en un documento político y jurídico concreto.
 
 ---
 
-**5. (Análisis de fuente)** Compara este fragmento de 1789: "los hombres nacen y permanecen libres
-e iguales en derechos", con este fragmento de 1948: "todos los seres humanos nacen libres e
-iguales en dignidad y derechos". ¿Qué relación existe entre ambos textos?
+**4. (Alternativas)** Según la declaración de 1789, ¿en qué consiste el principio de soberanía nacional?
+a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey
+b) En que el poder del rey proviene directamente de Dios, y por eso la nación debe obedecerlo sin cuestionar sus decisiones ni su autoridad
+c) En que solo la nobleza puede gobernar, porque es el grupo más preparado de la nación para ejercer el poder en nombre de todos los demás
+d) En que la nación debe obedecer siempre al rey, que representa su voluntad y concentra todos los poderes del Estado de manera absoluta
 
-✅ Respuesta correcta: Existe una clara continuidad de principios: la Declaración Universal de
-1948 retoma y amplía la idea de libertad e igualdad en derechos ya presente en la declaración de
-1789, extendiéndola de forma más explícita a toda la humanidad.
-💬 *Retroalimentación:* Comparar directamente el lenguaje de ambos documentos permite ver, de
-manera muy concreta, cómo los principios ilustrados del siglo XVIII siguen vigentes en los
-Derechos Humanos actuales.
+✅ Respuesta correcta: **a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey**
+💬 *Retroalimentación:* Representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que, a pesar de sus avances, la Declaración
-de los Derechos del Hombre y del Ciudadano de 1789 tuvo limitaciones importantes en su aplicación
-práctica, y por qué esto es relevante para pensar los Derechos Humanos actuales?
+**5. (Alternativas — análisis de fuente)** Compara: "los hombres nacen y permanecen libres e iguales en derechos" (1789) y "todos los seres humanos nacen libres e iguales en dignidad y derechos" (1948). ¿Qué vínculo existe entre ambos textos?
+a) Una contradicción: la Declaración de 1948 rechaza la igualdad de derechos que proclamaba la de 1789 y la reemplaza por la dignidad
+b) Ninguno: tratan temas distintos, porque la de 1789 habla de política y la de 1948 solo de la dignidad de las personas
+c) La declaración de 1789 copió textualmente la de 1948, por lo que ambas dicen exactamente lo mismo con las mismas palabras
+d) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, aunque proclamaba la igualdad de
-derechos para todos los seres humanos, en la práctica la declaración de 1789 excluyó a grupos como
-las mujeres de derechos políticos plenos, lo que muestra que el reconocimiento formal de un derecho
-no siempre garantiza su aplicación real e igualitaria, una tensión que sigue siendo relevante para
-evaluar la vigencia efectiva de los Derechos Humanos en la actualidad.
+✅ Respuesta correcta: **d) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad**
+💬 *Retroalimentación:* Los principios ilustrados del siglo XVIII siguen vigentes en los Derechos Humanos actuales.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Qué limitación tuvo en la práctica la declaración de 1789 y por qué es relevante hoy?
+a) No tuvo ninguna limitación en la práctica: se aplicó a todas las personas por igual, incluidas las mujeres, y por eso hoy ya no es necesario discutir sobre derechos
+b) Aunque proclamaba la igualdad, excluyó a grupos como las mujeres de derechos políticos plenos, lo que muestra que reconocer un derecho no garantiza su aplicación real
+c) Prohibió la igualdad ante la ley, porque mantuvo los privilegios de la nobleza y del clero, lo que hoy no tiene relevancia porque esos grupos ya no existen
+d) Solo se aplicó a los reyes y a la nobleza, que fueron los únicos que obtuvieron derechos políticos, lo que hoy es relevante solo para estudiar la historia de Francia
+
+✅ Respuesta correcta: **b) Aunque proclamaba la igualdad, excluyó a grupos como las mujeres de derechos políticos plenos, lo que muestra que reconocer un derecho no garantiza su aplicación real**
+💬 *Retroalimentación:* Esta tensión sigue siendo relevante para evaluar la vigencia efectiva de los Derechos Humanos.
 
 ---
 

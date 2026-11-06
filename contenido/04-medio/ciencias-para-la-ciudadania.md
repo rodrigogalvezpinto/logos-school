@@ -147,10 +147,10 @@ muestren que funciona?), no solo su buena intención ambiental.
    su consumo de electricidad desde la red se relaciona principalmente
    con el criterio de:
    a) Gestión de residuos
-   b) Eficiencia energética
-   c) Conservación de ecosistemas
+   b) Conservación de ecosistemas
+   c) Eficiencia energética
    d) Tratamiento de recursos hídricos
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** c.
    **Retroalimentación:** Sustituir una fuente de energía por una
    renovable y reducir la dependencia de la red eléctrica es un ejemplo
    central de eficiencia energética aplicada.
@@ -163,60 +163,42 @@ muestren que funciona?), no solo su buena intención ambiental.
    evidencia científica": diagnóstico con datos, respaldo técnico y
    evaluación de resultados esperados, no solo buena voluntad.
 
-3. *(Análisis de caso)* Una junta de vecinos en una comuna con escasez
-   hídrica quiere reducir el consumo de agua potable en riego de áreas
-   verdes. Proponen dos opciones: (a) regar con agua potable pero en
-   horario nocturno, o (b) instalar un sistema de riego tecnificado por
-   goteo usando agua de un pozo de aguas grises tratadas. ¿Cuál opción
-   responde mejor al criterio de tratamiento de recursos hídricos, y por
-   qué?
-   **Respuesta esperada:** La opción (b), porque no solo reduce el
-   desperdicio de agua (riego por goteo es más eficiente que el riego
-   tradicional), sino que además sustituye agua potable por agua tratada
-   reutilizada, aliviando la presión sobre una fuente escasa; la opción
-   (a) solo cambia el horario, pero sigue usando agua potable de forma
-   poco eficiente.
-   **Retroalimentación:** Evaluar proyectos exige comparar alternativas
-   según su impacto real medible, no solo su intención.
+3. *(Alternativas — Análisis de caso)* Para reducir el consumo de agua potable en riego, una junta de vecinos evalúa: (a) regar con agua potable de noche, o (b) riego por goteo con aguas grises tratadas. ¿Cuál responde mejor al criterio de tratamiento de recursos hídricos?
+   a) La (b), porque el goteo es más eficiente y además reemplaza agua potable por agua tratada reutilizada
+   b) La (a), porque regar de noche con agua potable elimina el consumo de agua del riego del jardín vecinal
+   c) Ambas son equivalentes, porque las dos usan la misma cantidad de agua potable
+   d) Ninguna reduce el consumo
+   **Respuesta correcta:** a) La (b), porque el goteo es más eficiente y además reemplaza agua potable por agua tratada reutilizada.
+   **Retroalimentación:** Evaluar proyectos exige comparar su impacto real medible, no solo su intención.
 
 4. *(Alternativas)* La reutilización de residuos orgánicos mediante
    compostaje comunitario contribuye simultáneamente a:
-   a) Solo a la gestión de residuos, sin otros beneficios.
-   b) Reducir residuos que van a vertederos y disminuir emisiones de
+   a) Reducir residuos que van a vertederos y disminuir emisiones de
       metano asociadas a su descomposición.
-   c) Aumentar la generación de residuos domiciliarios.
+   b) Solo a la gestión de residuos domiciliarios, sin ningún otro beneficio para el ambiente.
+   c) Aumentar la generación de residuos domiciliarios, porque obliga a separar más la basura.
    d) Reemplazar completamente la necesidad de tratamiento de aguas
       servidas.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** a.
    **Retroalimentación:** Un buen proyecto suele combinar beneficios: el
    compostaje reduce basura y evita que la materia orgánica genere
    metano al descomponerse sin oxígeno en un vertedero.
 
-5. *(Desarrollo breve)* Explica por qué, según la jerarquía de las 3R
-   (reducir, reutilizar, reciclar), un proyecto que solo instala más
-   puntos de reciclaje es menos efectivo que uno que también busca reducir
-   el consumo de materiales desechables desde el origen.
-   **Respuesta esperada:** Debe señalar que reciclar es la última opción
-   de la jerarquía, porque igualmente requiere procesar, transportar y
-   gastar energía en transformar el residuo; reducir la generación desde
-   el origen evita ese gasto y el impacto ambiental asociado, siendo la
-   estrategia más eficiente.
-   **Retroalimentación:** La jerarquía 3R prioriza intervenir lo más
-   temprano posible en el ciclo de vida de un material.
+5. *(Alternativas)* Según la jerarquía de las 3R, ¿por qué un proyecto que solo instala puntos de reciclaje es menos efectivo que uno que también reduce el consumo de desechables?
+   a) Porque reciclar no tiene ningún beneficio
+   b) Porque reducir el consumo de desechables aumenta los residuos de otros materiales que no pueden reciclarse en los puntos instalados
+   c) Porque la jerarquía 3R pone el reciclaje primero, y un proyecto que también reduce el consumo de desechables altera ese orden y pierde eficacia
+   d) Porque reciclar es la última opción: igual requiere procesar, transportar y gastar energía, mientras reducir desde el origen evita ese impacto
+   **Respuesta correcta:** d) Porque reciclar es la última opción: igual requiere procesar, transportar y gastar energía, mientras reducir desde el origen evita ese impacto.
+   **Retroalimentación:** La jerarquía prioriza intervenir lo más temprano posible en el ciclo de vida.
 
-6. *(Evaluación de evidencia)* Una municipalidad presenta un proyecto de
-   "parque eólico" basándose únicamente en que "el lugar siempre ha sido
-   ventoso, según los vecinos más antiguos". ¿Qué evidencia adicional
-   deberías exigir antes de aprobar la inversión?
-   **Respuesta esperada:** Mediciones técnicas de velocidad y
-   consistencia del viento durante un período prolongado (al menos un
-   año, considerando estacionalidad), estudios de impacto ambiental
-   (fauna, especialmente aves), análisis costo-beneficio comparado con
-   otras fuentes, y revisión de proyectos similares ya implementados en
-   condiciones parecidas.
-   **Retroalimentación:** La percepción anecdótica no reemplaza la
-   medición técnica; diseñar proyectos "basados en evidencia científica"
-   es explícitamente parte de este OA.
+6. *(Varias correctas — Evaluación de evidencia)* Un municipio quiere aprobar un parque eólico basándose solo en que "el lugar siempre ha sido ventoso, según los vecinos antiguos". ¿Qué evidencia adicional exigir? Marca **todas** las correctas.
+   a) Mediciones técnicas del viento durante al menos un año
+   b) Estudios de impacto ambiental, especialmente sobre aves
+   c) Análisis costo-beneficio comparado con otras fuentes
+   d) La opinión de un solo vecino más
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La percepción anecdótica no reemplaza la medición técnica.
 
 7. *(Verdadero o falso)* La conservación de humedales urbanos puede
    considerarse un proyecto de sostenibilidad porque protege biodiversidad
@@ -233,47 +215,36 @@ muestren que funciona?), no solo su buena intención ambiental.
    limpios en una ciudad con alta contaminación atmosférica invernal
    responde principalmente al criterio de:
    a) Conservación de ecosistemas
-   b) Reducción de emisiones
-   c) Gestión de residuos
+   b) Gestión de residuos
+   c) Reducción de emisiones
    d) Eficiencia energética exclusivamente
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** c.
    **Retroalimentación:** Aunque puede tener relación con la eficiencia
    energética, el objetivo central de esta medida es disminuir la
    liberación de contaminantes (material particulado, gases) a la
    atmósfera, un problema grave en ciudades del sur de Chile como
    Temuco o Coyhaique en invierno.
 
-9. *(Análisis de caso)* Un grupo de estudiantes quiere diseñar un proyecto
-   para su liceo, pero solo tiene datos de que "se genera mucha basura" sin
-   más precisión. ¿Qué deberían hacer antes de diseñar la solución?
-   **Respuesta esperada:** Realizar un diagnóstico con datos concretos:
-   cuantificar cuánta basura se genera, de qué tipo (orgánica, plástico,
-   papel), en qué puntos del liceo se produce más, y comparar con
-   experiencias o normativas existentes, para diseñar una solución
-   pertinente y medir su efectividad después de implementada.
-   **Retroalimentación:** Un proyecto "basado en evidencia" comienza con
-   un diagnóstico cuantificado, no con una impresión general del
-   problema.
+9. *(Alternativas — Análisis de caso)* Estudiantes quieren un proyecto para su liceo, pero solo saben que "se genera mucha basura". ¿Qué deberían hacer antes de diseñar la solución?
+   a) Un diagnóstico cuantificado: cuánta basura, de qué tipo y dónde se produce más, para luego medir la efectividad de la solución
+   b) Comprar más basureros de inmediato y ubicarlos en todos los pasillos, porque la cantidad de basura ya se conoce a simple vista
+   c) Prohibir comer en el liceo
+   d) Nada: basta con la impresión general de que se genera mucha basura, porque medirla retrasaría la solución sin aportar información útil
+   **Respuesta correcta:** a) Un diagnóstico cuantificado: cuánta basura, de qué tipo y dónde se produce más, para luego medir la efectividad de la solución.
+   **Retroalimentación:** Un proyecto basado en evidencia comienza con un diagnóstico cuantificado.
 
-10. *(Desarrollo breve)* Menciona un ejemplo de proyecto que combine al
-    menos dos de los cinco criterios (eficiencia energética, reducción de
-    emisiones, tratamiento de recursos hídricos, conservación de
-    ecosistemas, gestión de residuos) y explica cómo se relacionan entre
-    sí.
-    **Respuesta esperada:** Respuesta abierta; por ejemplo, un sistema de
-    riego tecnificado con agua reciclada en un vivero de especies nativas
-    combina tratamiento de recursos hídricos (uso eficiente y
-    reutilización de agua) con conservación de ecosistemas (producción de
-    plantas nativas para restauración); debe explicar la relación entre
-    ambos criterios, no solo nombrarlos.
-    **Retroalimentación:** Diseñar proyectos que integren varios criterios
-    suele ser más efectivo y realista que abordar un solo aspecto de
-    forma aislada.
+10. *(Alternativas)* ¿Qué proyecto combina al menos dos criterios de sostenibilidad y explica cómo se relacionan?
+    a) Pintar de verde los basureros
+    b) Aumentar el consumo eléctrico del liceo para instalar más luces verdes en los patios, como símbolo del compromiso ambiental
+    c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas
+    d) Un proyecto que solo nombra criterios de sostenibilidad, como el agua, la energía y los residuos, sin explicar cómo se vinculan ni aplicarlos en una acción concreta
+    **Respuesta correcta:** c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas.
+    **Retroalimentación:** Integrar varios criterios suele ser más efectivo y realista.
 
 11. *(Alternativas)* ¿Cuál de las siguientes opciones representa mejor una
     "utilización sostenible" (y no solo protección) de un recurso natural?
-    a) Prohibir por completo el uso de un bosque nativo.
-    b) Explotar un recurso hídrico sin ningún límite de extracción.
+    a) Prohibir por completo cualquier uso del bosque nativo, incluida la recolección de frutos y leña.
+    b) Explotar un recurso hídrico sin ningún límite de extracción mientras haya agua disponible en la cuenca.
     c) Manejar un bosque nativo con planes de manejo que permiten
        extracción controlada de madera sin comprometer su regeneración.
     d) Talar todo un bosque y luego reforestar con una sola especie
@@ -284,19 +255,13 @@ muestren que funciona?), no solo su buena intención ambiental.
     a diferencia de la prohibición total (que no es "uso") o la
     sobreexplotación.
 
-12. *(Evaluación de evidencia)* Una empresa afirma en su publicidad que su
-    proyecto es "100% sostenible" sin publicar datos ni haber sido
-    evaluado por terceros. ¿Qué deberías exigir antes de aceptar esa
-    afirmación como ciudadano informado?
-    **Respuesta esperada:** Exigir datos verificables (mediciones de
-    consumo, emisiones o residuos antes y después), evaluación por una
-    entidad independiente o certificación reconocida, y transparencia
-    sobre la metodología usada; una autodeclaración sin evidencia externa
-    no es prueba suficiente de sostenibilidad ("greenwashing").
-    **Retroalimentación:** Evaluar críticamente afirmaciones de
-    sostenibilidad, incluyendo el riesgo de "greenwashing" (lavado
-    verde), es parte de ejercer ciudadanía informada frente a proyectos
-    ambientales.
+12. *(Varias correctas — Evaluación de evidencia)* Una empresa dice que su proyecto es "100% sostenible" sin publicar datos ni ser evaluada por terceros. ¿Qué exigir como ciudadano informado? Marca **todas** las correctas.
+    a) Datos verificables de consumo, emisiones o residuos antes y después
+    b) Evaluación independiente o certificación reconocida
+    c) Transparencia sobre la metodología usada
+    d) Solo confiar en el eslogan publicitario
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Una autodeclaración sin evidencia externa puede ser greenwashing (lavado verde).
 
 13. *(Verdadero o falso)* Un proyecto de gestión de residuos que reduce el
     volumen enviado a un relleno sanitario no tiene ninguna relación con
@@ -307,47 +272,35 @@ muestren que funciona?), no solo su buena intención ambiental.
     invernadero; reducir lo que llega al relleno (por ejemplo, mediante
     compostaje) también reduce esas emisiones.
 
-14. *(Análisis de caso)* Una comunidad costera evalúa dos proyectos para
-    su zona: (a) construir un paseo turístico rellenando parte de un
-    humedal costero, o (b) habilitar senderos elevados de madera que
-    permitan visitar el humedal sin alterarlo. Compara ambos proyectos
-    desde el criterio de conservación de ecosistemas.
-    **Respuesta esperada:** La opción (a) destruye directamente el
-    ecosistema del humedal (hábitat de aves, filtración de agua,
-    protección costera), mientras que la opción (b) permite el uso
-    turístico y educativo del humedal sin destruirlo, siendo compatible
-    con su conservación; un proyecto sostenible busca compatibilizar uso
-    y protección, no solo maximizar el uso a corto plazo.
-    **Retroalimentación:** Comparar alternativas de diseño según su
-    impacto real sobre el ecosistema es exactamente lo que este OA pide
-    evaluar.
+14. *(Alternativas — Análisis de caso)* Una comunidad evalúa: (a) un paseo turístico rellenando parte de un humedal, o (b) senderos elevados que permitan visitarlo sin alterarlo. Desde la conservación de ecosistemas, ¿qué opción conviene?
+    a) La (b), porque permite el uso turístico y educativo sin destruir el humedal
+    b) La (a), porque rellenar parte del humedal mejora el ecosistema y su acceso
+    c) Ambas tienen el mismo impacto, porque las dos atraen turistas al humedal
+    d) Ninguna permite visitar el humedal
+    **Respuesta correcta:** a) La (b), porque permite el uso turístico y educativo sin destruir el humedal.
+    **Retroalimentación:** Un proyecto sostenible compatibiliza uso y protección.
 
 15. *(Alternativas)* El riego tecnificado por goteo, comparado con el
     riego tradicional por inundación en la agricultura, es relevante para
     la sostenibilidad hídrica en Chile porque:
-    a) Aumenta el consumo total de agua por hectárea.
-    b) Reduce las pérdidas de agua por evaporación y escurrimiento,
+    a) Aumenta el consumo total de agua por hectárea, pero mejora el rendimiento de las cosechas.
+    b) Solo es aplicable en climas lluviosos.
+    c) Elimina por completo la necesidad de agua para los cultivos, que pasan a depender solo de la lluvia.
+    d) Reduce las pérdidas de agua por evaporación y escurrimiento,
        usando el recurso de forma más eficiente.
-    c) Elimina por completo la necesidad de agua para cultivos.
-    d) Solo es aplicable en climas lluviosos.
-    **Respuesta correcta:** b.
+    **Respuesta correcta:** d.
     **Retroalimentación:** En zonas con estrés hídrico como el centro y
     norte de Chile, mejorar la eficiencia del riego agrícola —uno de los
     mayores usos de agua del país— es una medida clave de sostenibilidad
     hídrica.
 
-16. *(Desarrollo breve)* ¿Por qué es importante que un proyecto de
-    sostenibilidad considere su viabilidad económica y la participación de
-    la comunidad, y no solo su fundamento científico?
-    **Respuesta esperada:** Porque un proyecto técnicamente correcto pero
-    demasiado costoso o que la comunidad no comprende ni apoya
-    difícilmente se implementará o se mantendrá en el tiempo; la
-    evidencia científica debe complementarse con factibilidad económica y
-    aceptación social para que el proyecto sea realmente sostenible en la
-    práctica, no solo en el papel.
-    **Retroalimentación:** La sostenibilidad tiene una dimensión técnica,
-    pero también económica y social; los tres factores deben evaluarse en
-    conjunto al diseñar un proyecto real.
+16. *(Alternativas)* ¿Por qué un proyecto de sostenibilidad debe considerar su viabilidad económica y la participación de la comunidad, y no solo su fundamento científico?
+    a) Porque la ciencia no importa en los proyectos de sostenibilidad: basta con que la comunidad esté de acuerdo
+    b) Porque basta con que el proyecto sea barato, aunque no tenga fundamento científico ni apoyo de la comunidad
+    c) Porque la comunidad no tiene relación con la sostenibilidad, que depende solo de la tecnología usada
+    d) Porque un proyecto correcto técnicamente pero muy costoso o sin apoyo comunitario difícilmente se implementará o mantendrá
+    **Respuesta correcta:** d) Porque un proyecto correcto técnicamente pero muy costoso o sin apoyo comunitario difícilmente se implementará o mantendrá.
+    **Retroalimentación:** La sostenibilidad tiene dimensiones técnica, económica y social.
 
 ---
 
@@ -464,12 +417,12 @@ mencionado).
 
 1. *(Alternativas)* La evidencia científica del cambio climático actual se
    basa principalmente en:
-   a) La opinión de un solo grupo de científicos.
+   a) La opinión de un solo grupo de científicos, que no ha sido revisada ni contrastada con otros estudios independientes.
    b) Múltiples líneas de evidencia convergentes: registros de
       temperatura, concentración de CO₂, núcleos de hielo y modelos
       climáticos validados.
-   c) Predicciones sin ninguna base en datos históricos.
-   d) Observaciones de un solo año particularmente cálido.
+   c) Predicciones de modelos sin ninguna base en datos históricos de temperatura ni en mediciones de gases.
+   d) Observaciones de un solo año particularmente cálido, que se usan para proyectar lo que ocurrirá en el futuro.
    **Respuesta correcta:** b.
    **Retroalimentación:** La solidez del consenso científico sobre el
    cambio climático proviene de la convergencia de distintas fuentes de
@@ -484,64 +437,42 @@ mencionado).
    disponibilidad de agua para consumo humano, agricultura y minería,
    especialmente en la zona centro-norte de Chile.
 
-3. *(Análisis de caso)* Un estudio muestra que la temperatura superficial
-   del mar frente a las costas chilenas ha aumentado en las últimas
-   décadas, y que simultáneamente el pH del agua de mar ha disminuido
-   levemente (se ha vuelto más ácida). Explica cómo estos dos cambios
-   (físico y químico) podrían afectar a organismos marinos con conchas de
-   carbonato de calcio, como moluscos.
-   **Respuesta esperada:** El aumento de CO₂ atmosférico hace que el
-   océano absorba más CO₂, formando ácido carbónico y reduciendo el pH del
-   agua (componente químico); un agua más ácida dificulta que moluscos y
-   otros organismos calcáreos formen y mantengan sus conchas o esqueletos,
-   afectando su supervivencia y reproducción (componente biológico); el
-   aumento de temperatura del agua (físico) puede sumarse como un factor
-   de estrés adicional para estos organismos.
-   **Retroalimentación:** Este es un buen ejemplo de cómo los componentes
-   físicos, químicos y biológicos de un ecosistema están interconectados
-   frente al cambio climático, tal como pide este OA.
+3. *(Alternativas — Análisis de caso)* La temperatura del mar frente a Chile ha aumentado y su pH ha disminuido levemente. ¿Cómo afectan estos cambios a moluscos con conchas de carbonato de calcio?
+   a) El agua más ácida fortalece las conchas, porque aporta más carbonato de calcio disuelto, y el calentamiento acelera su crecimiento
+   b) El océano absorbe más CO₂ y se acidifica, lo que dificulta formar y mantener conchas; el calentamiento suma estrés adicional
+   c) La temperatura no influye en los organismos marinos, y el pH del mar no tiene relación con la formación de conchas
+   d) Los moluscos no tienen conchas de carbonato
+   **Respuesta correcta:** b) El océano absorbe más CO₂ y se acidifica, lo que dificulta formar y mantener conchas; el calentamiento suma estrés adicional.
+   **Retroalimentación:** Los componentes físicos, químicos y biológicos están interconectados frente al cambio climático.
 
 4. *(Alternativas)* El blanqueamiento de corales ocurre principalmente
    porque:
-   a) Los corales migran hacia aguas más frías.
+   a) Los corales migran hacia aguas más frías y dejan sus esqueletos blancos en los arrecifes donde vivían, por lo que el arrecife pierde su color.
    b) El aumento de temperatura del agua provoca que el coral expulse las
       algas simbióticas de las que depende, perdiendo su color y una
       fuente clave de energía.
-   c) Los corales absorben directamente el CO₂ atmosférico y cambian de
-      color por eso.
-   d) Es un proceso natural sin relación con el cambio climático.
+   c) Los corales absorben directamente el CO₂ atmosférico y cambian de color por eso, aunque siguen recibiendo energía de sus algas.
+   d) Es un proceso natural y estacional sin relación con el cambio climático, que ocurre cada invierno cuando baja la temperatura del agua.
    **Respuesta correcta:** b.
    **Retroalimentación:** El estrés térmico rompe la relación simbiótica
    entre el coral y las algas (zooxantelas), lo que puede llevar a la
    muerte del coral si el estrés se prolonga.
 
-5. *(Desarrollo breve)* Explica la diferencia entre una medida de
-   mitigación y una medida de adaptación frente al cambio climático, dando
-   un ejemplo de cada una aplicado a la realidad chilena.
-   **Respuesta esperada:** La mitigación busca reducir las causas del
-   cambio climático (por ejemplo, reemplazar centrales a carbón por
-   energía solar o eólica, reduciendo emisiones de gases de efecto
-   invernadero); la adaptación busca ajustar la forma de vivir frente a
-   sus efectos ya inevitables (por ejemplo, construir embalses o mejorar
-   la eficiencia del riego agrícola para enfrentar la megasequía en la
-   zona central).
-   **Retroalimentación:** Distinguir mitigación de adaptación es clave
-   para evaluar si una política pública ataca la causa del problema o
-   solo administra sus consecuencias.
+5. *(Alternativas)* ¿Qué opción distingue correctamente una medida de mitigación y una de adaptación en Chile?
+   a) Mitigación: construir embalses para almacenar agua frente a la megasequía. Adaptación: cerrar centrales a carbón y reemplazarlas por energía solar
+   b) Ambas significan lo mismo: cualquier medida frente al cambio climático es a la vez de mitigación y de adaptación
+   c) Mitigación: reemplazar centrales a carbón por energía solar o eólica. Adaptación: mejorar la eficiencia del riego frente a la megasequía
+   d) Mitigación: aumentar las emisiones para que la economía crezca. Adaptación: ignorar la sequía hasta que llueva
+   **Respuesta correcta:** c) Mitigación: reemplazar centrales a carbón por energía solar o eólica. Adaptación: mejorar la eficiencia del riego frente a la megasequía.
+   **Retroalimentación:** La mitigación ataca las causas; la adaptación ajusta la vida a los efectos.
 
-6. *(Evaluación de evidencia)* Una publicación afirma que "un invierno
-   particularmente frío en una ciudad demuestra que el cambio climático no
-   existe". ¿Por qué este argumento es científicamente débil?
-   **Respuesta esperada:** Porque confunde clima (patrones de largo plazo
-   a escala global o regional) con tiempo atmosférico (condiciones
-   puntuales en un lugar y momento específico); un evento frío local y
-   puntual no contradice una tendencia de calentamiento global sostenida
-   en el tiempo y medida en múltiples variables, ya que el cambio
-   climático también puede alterar la variabilidad y extremos del clima,
-   no solo elevar todas las temperaturas de forma uniforme.
-   **Retroalimentación:** Distinguir clima de tiempo atmosférico es una
-   habilidad esencial para evaluar afirmaciones erróneas sobre el cambio
-   climático que circulan en medios y redes sociales.
+6. *(Alternativas — Evaluación de evidencia)* "Un invierno muy frío en una ciudad demuestra que el cambio climático no existe." ¿Por qué el argumento es débil?
+   a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo
+   b) Porque los inviernos nunca son fríos en las ciudades, y el dato del invierno debe estar equivocado
+   c) Porque el cambio climático solo ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos
+   d) No es débil: es una prueba concluyente
+   **Respuesta correcta:** a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo.
+   **Retroalimentación:** El cambio climático también altera la variabilidad y los extremos.
 
 7. *(Verdadero o falso)* Restaurar bosques y humedales puede considerarse
    una medida de mitigación del cambio climático porque estos ecosistemas
@@ -553,53 +484,36 @@ mencionado).
    restauración reduce la concentración de gases de efecto invernadero en
    la atmósfera.
 
-8. *(Análisis de caso)* Una central hidroeléctrica de gran tamaño reduce
-   significativamente las emisiones de CO₂ de la matriz energética de una
-   región, pero su embalse inunda un valle con bosque nativo y desplaza a
-   una comunidad rural. Evalúa esta solución de mitigación considerando al
-   menos dos dimensiones (ambiental, social, económica o ética).
-   **Respuesta esperada:** Dimensión ambiental: reduce emisiones de CO₂
-   frente a fuentes fósiles, pero destruye un ecosistema local (bosque
-   nativo) y altera el régimen hídrico del río. Dimensión social/ética:
-   desplaza a una comunidad de su territorio, lo que plantea preguntas
-   sobre compensación justa y consentimiento previo. La evaluación
-   correcta pondera el beneficio climático global frente al costo
-   ambiental y social local, y considera si existen alternativas (solar,
-   eólica) con menor impacto territorial.
-   **Retroalimentación:** Este es exactamente el tipo de análisis que pide
-   el OA al hablar de "controversias públicas... considerando implicancias
-   sociales, económicas, éticas y ambientales".
+8. *(Alternativas — Análisis de caso)* Una gran hidroeléctrica reduce las emisiones de CO₂ de una región, pero inunda un valle con bosque nativo y desplaza a una comunidad. ¿Qué evaluación es más completa?
+   a) Solo importa la reducción de emisiones de CO₂, porque el beneficio climático para toda la región justifica cualquier costo ambiental o social que genere el proyecto
+   b) Solo importa el desplazamiento de la comunidad, porque el beneficio climático y el bosque nativo son secundarios
+   c) No tiene ningún costo, porque la energía hidroeléctrica es renovable y, por definición, no afecta a nadie
+   d) Pondera el beneficio climático frente al costo ambiental (bosque) y social (desplazamiento, consentimiento), y considera alternativas de menor impacto
+   **Respuesta correcta:** d) Pondera el beneficio climático frente al costo ambiental (bosque) y social (desplazamiento, consentimiento), y considera alternativas de menor impacto.
+   **Retroalimentación:** Las controversias públicas exigen considerar implicancias sociales, económicas, éticas y ambientales.
 
 9. *(Alternativas)* La megasequía que afecta a la zona central de Chile
    desde hace más de una década es un ejemplo relevante para este OA
    porque:
-   a) No tiene relación con el cambio climático, es un fenómeno
-      completamente aislado.
+   a) No tiene relación con el cambio climático, es un fenómeno completamente aislado causado solo por el consumo excesivo de agua de la población urbana, sin efectos en los ecosistemas naturales.
    b) Ilustra un efecto físico (alteración de patrones de precipitación)
       del cambio climático con consecuencias directas en los ecosistemas
       y en la disponibilidad de agua para las personas.
    c) Es exclusivamente un problema económico sin base científica.
-   d) Solo afecta a la agricultura, sin relación con los ecosistemas
-      naturales.
+   d) Solo afecta a la agricultura de exportación, sin relación con los ecosistemas naturales ni con la disponibilidad de agua para las personas, que se abastecen de otras fuentes.
    **Respuesta correcta:** b.
    **Retroalimentación:** La megasequía combina variabilidad climática
    natural con una tendencia de fondo asociada al cambio climático, y
    afecta tanto a ecosistemas naturales (bosques, ríos, humedales) como a
    actividades humanas (agricultura, agua potable).
 
-10. *(Desarrollo breve)* Explica por qué se dice que el cambio climático
-    plantea un problema de "justicia climática" a nivel global.
-    **Respuesta esperada:** Debe mencionar que los países y grupos que
-    históricamente han emitido menos gases de efecto invernadero (por
-    ejemplo, naciones en desarrollo o comunidades vulnerables) suelen ser
-    los más afectados por sus consecuencias (sequías, eventos extremos,
-    pérdida de territorio) y los que cuentan con menos recursos
-    económicos para adaptarse, mientras que quienes más han contribuido
-    históricamente al problema suelen tener más capacidad de mitigar sus
-    propios efectos.
-    **Retroalimentación:** La dimensión ética del cambio climático es
-    parte explícita de lo que este OA pide analizar en controversias
-    públicas.
+10. *(Alternativas)* ¿Por qué el cambio climático plantea un problema de "justicia climática"?
+    a) Porque todos los países emitieron lo mismo, pero algunos se adaptan mejor que otros
+    b) Porque quienes menos han emitido suelen ser los más afectados y con menos recursos para adaptarse
+    c) Porque los países que más emiten son los más afectados y los más pobres, sin recursos para adaptarse
+    d) Porque el clima no tiene dimensión ética
+    **Respuesta correcta:** b) Porque quienes menos han emitido suelen ser los más afectados y con menos recursos para adaptarse.
+    **Retroalimentación:** La dimensión ética es parte del análisis de controversias públicas.
 
 11. *(Verdadero o falso)* Todos los modelos climáticos coinciden
     exactamente en la magnitud futura del calentamiento global, sin ningún
@@ -611,40 +525,21 @@ mencionado).
     la tendencia general de calentamiento, que está bien establecida por
     múltiples líneas de evidencia.
 
-12. *(Análisis de caso)* Una comuna del norte de Chile, afectada por
-    estrés hídrico, evalúa dos estrategias frente al cambio climático:
-    (a) construir una planta desalinizadora para asegurar agua potable, o
-    (b) reforestar laderas cercanas con especies nativas para mejorar la
-    infiltración de agua de lluvia. Clasifica cada estrategia como
-    mitigación o adaptación, y explica tu clasificación.
-    **Respuesta esperada:** La desalinizadora es una medida de adaptación:
-    no reduce las causas del cambio climático, sino que ajusta el acceso a
-    agua frente a la escasez ya existente. La reforestación puede
-    considerarse tanto adaptación (mejora la disponibilidad de agua local)
-    como una contribución menor a la mitigación (los árboles capturan
-    algo de CO₂), pero su función principal en este caso es adaptativa:
-    ayudar al territorio a convivir con menos agua disponible.
-    **Retroalimentación:** Muchas medidas reales combinan elementos de
-    mitigación y adaptación; lo importante es identificar cuál es su
-    función principal y justificarlo con criterio, no memorizar una
-    etiqueta única.
+12. *(Alternativas — Análisis de caso)* Una comuna con estrés hídrico evalúa (a) una planta desalinizadora y (b) reforestar laderas con especies nativas para mejorar la infiltración. ¿Cuál es la función principal de cada estrategia?
+    a) Ambas son de mitigación
+    b) La desalinizadora es mitigación, porque reduce las emisiones, y la reforestación es solo adaptación, porque no captura carbono
+    c) Ambas son principalmente de adaptación; la reforestación aporta además una contribución menor a la mitigación
+    d) Ninguna se relaciona con el cambio climático: ambas son medidas de infraestructura sanitaria
+    **Respuesta correcta:** c) Ambas son principalmente de adaptación; la reforestación aporta además una contribución menor a la mitigación.
+    **Retroalimentación:** Muchas medidas combinan elementos; lo importante es justificar su función principal.
 
-13. *(Evaluación de evidencia)* Un modelo climático regional proyecta que,
-    si las emisiones globales de gases de efecto invernadero continúan al
-    ritmo actual, la zona central de Chile podría sufrir una reducción
-    adicional de precipitaciones en las próximas décadas. ¿Qué elementos
-    deberías revisar para evaluar la confiabilidad de esta proyección?
-    **Respuesta esperada:** Revisar si el modelo ha sido validado
-    comparando proyecciones pasadas con lo efectivamente ocurrido, si está
-    respaldado por instituciones científicas reconocidas (por ejemplo, el
-    IPCC o centros de investigación climática chilenos), si considera
-    distintos escenarios de emisiones (no solo uno), y si sus resultados
-    son consistentes con otros modelos independientes que aborden la
-    misma región.
-    **Retroalimentación:** Evaluar la confiabilidad de un modelo científico
-    —y no solo aceptarlo o rechazarlo por impresión— es una habilidad
-    central de la alfabetización científica ciudadana que este OA busca
-    desarrollar.
+13. *(Varias correctas — Evaluación de evidencia)* Un modelo regional proyecta menos lluvias en la zona central si las emisiones siguen igual. ¿Qué revisar para evaluar su confiabilidad? Marca **todas** las correctas.
+    a) Si fue validado comparando proyecciones pasadas con lo ocurrido
+    b) Si está respaldado por instituciones científicas reconocidas (IPCC o centros chilenos)
+    c) Si considera distintos escenarios y coincide con otros modelos independientes
+    d) Si la proyección coincide con lo que yo prefiero creer
+    **Respuesta correcta:** a, b y c.
+    **Retroalimentación:** Evaluar un modelo científico es distinto de aceptarlo o rechazarlo por impresión.
 
 14. *(Alternativas)* La pérdida de biodiversidad asociada al cambio
     climático ocurre principalmente porque:
@@ -653,30 +548,20 @@ mencionado).
     b) Muchas especies no logran adaptarse o desplazarse con la rapidez
        suficiente frente a la velocidad de los cambios ambientales
        actuales.
-    c) El cambio climático no afecta a la distribución de las especies.
-    d) La biodiversidad solo depende de la acción humana directa, sin
-       relación con el clima.
+    c) El cambio climático no afecta a la distribución de las especies, que depende solo de la competencia entre ellas.
+    d) La biodiversidad solo depende de la acción humana directa, como la caza y la tala, sin ninguna relación con el clima.
     **Respuesta correcta:** b.
     **Retroalimentación:** La velocidad del cambio climático actual supera
     la capacidad de adaptación evolutiva o de migración de muchas
     especies, lo que incrementa el riesgo de extinción local o global.
 
-15. *(Desarrollo breve)* Elige un efecto del cambio climático mencionado
-    en este OA (calentamiento global, pérdida de biodiversidad,
-    acidificación de océanos o derretimiento de glaciares) y explica una
-    posible solución de mitigación relacionada, evaluando al menos una
-    ventaja y una limitación de esa solución.
-    **Respuesta esperada:** Respuesta abierta; por ejemplo, frente al
-    derretimiento de glaciares, una solución de mitigación es reducir las
-    emisiones globales de gases de efecto invernadero mediante energías
-    renovables; ventaja: ataca la causa raíz del problema a nivel global;
-    limitación: sus efectos sobre el retroceso glaciar tardarían décadas
-    en notarse y requieren cooperación internacional, por lo que no
-    resuelve la escasez hídrica actual de corto plazo, que requiere además
-    medidas de adaptación.
-    **Retroalimentación:** Este indicador evalúa la capacidad de proponer
-    y evaluar soluciones con criterio, reconociendo que la mitigación por
-    sí sola no siempre resuelve los efectos ya en curso.
+15. *(Alternativas)* Frente al derretimiento de glaciares, ¿qué evaluación de una solución de mitigación es correcta?
+    a) Reducir emisiones con energías renovables ataca la causa raíz, pero sus efectos tardan décadas y requiere cooperación internacional, por lo que debe complementarse con adaptación
+    b) Reducir emisiones con energías renovables resuelve de inmediato la escasez de agua y detiene el derretimiento en pocos años, por lo que no se necesitan medidas de adaptación
+    c) La mitigación no tiene ninguna ventaja frente a los glaciares, porque su derretimiento ya es irreversible y solo cabe aceptar sus consecuencias
+    d) No existen soluciones de mitigación
+    **Respuesta correcta:** a) Reducir emisiones con energías renovables ataca la causa raíz, pero sus efectos tardan décadas y requiere cooperación internacional, por lo que debe complementarse con adaptación.
+    **Retroalimentación:** La mitigación por sí sola no resuelve efectos ya en curso.
 
 16. *(Verdadero o falso)* Analizar una controversia pública sobre cambio
     climático de forma rigurosa implica considerar solo la dimensión
@@ -688,23 +573,13 @@ mencionado).
     y ambientales en conjunto, ya que las decisiones sobre cambio
     climático rara vez tienen una sola dimensión relevante.
 
-17. *(Análisis de caso)* Científicos registran que, en las últimas
-    décadas, algunas especies de aves en Chile han adelantado sus fechas
-    de migración y de anidación. ¿Qué relación puede tener este fenómeno
-    con el cambio climático, y qué riesgo biológico implica si el cambio
-    en el ambiente es más rápido que la capacidad de ajuste de otras
-    especies con las que interactúan (por ejemplo, las plantas de las que
-    se alimentan)?
-    **Respuesta esperada:** El adelanto de temperaturas primaverales
-    (efecto físico del cambio climático) puede estar induciendo estos
-    cambios de comportamiento (efecto biológico); el riesgo es un
-    "desacople" temporal entre especies interdependientes: si la planta de
-    la que un ave se alimenta no adelanta su floración al mismo ritmo, el
-    ave podría llegar a un momento en que no hay suficiente alimento
-    disponible, afectando su reproducción y supervivencia.
-    **Retroalimentación:** Este ejemplo muestra cómo modelar efectos del
-    cambio climático requiere considerar relaciones entre especies dentro
-    del ecosistema, no solo el efecto sobre una especie de forma aislada.
+17. *(Alternativas — Análisis de caso)* Algunas aves en Chile han adelantado sus fechas de migración y anidación. ¿Qué vínculo con el cambio climático y qué riesgo biológico hay?
+    a) No tiene relación con el clima, sino con la luz artificial de las ciudades; no hay riesgo biológico, porque las plantas se adaptan al mismo ritmo
+    b) Las aves migran más tarde por el frío
+    c) El adelanto se debe a que las aves tienen demasiado alimento en invierno, y el riesgo es que su población crezca sin control y desplace a otras especies
+    d) El adelanto de temperaturas primaverales induciría el cambio, con riesgo de desacople si las plantas de que se alimentan no adelantan su floración al mismo ritmo
+    **Respuesta correcta:** d) El adelanto de temperaturas primaverales induciría el cambio, con riesgo de desacople si las plantas de que se alimentan no adelantan su floración al mismo ritmo.
+    **Retroalimentación:** Modelar efectos del cambio climático exige considerar las relaciones entre especies.
 
 ---
 

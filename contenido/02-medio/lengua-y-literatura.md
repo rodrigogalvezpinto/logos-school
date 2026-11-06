@@ -89,45 +89,70 @@ En 2° medio, tu análisis de personajes sigue exigiendo mirar su relación con 
 
 **1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de Camila en el presente del relato?
 
-a) La rivalidad entre Camila y su abuela por la herencia de la casa
-b) El deseo de Camila de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
+a) La rivalidad entre Camila y su abuela por la herencia de la casa familiar en Valparaíso del puerto
+b) La pelea entre Andrés y Marisol por motivos económicos, que divide a toda la familia
 c) La decisión de Camila de mudarse a Valparaíso
-d) La pelea entre Andrés y Marisol por motivos económicos
+d) El deseo de Camila de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
 
-*Respuesta correcta: b.* Retroalimentación: este conflicto es el que organiza la decisión de Camila de seguir leyendo el cuaderno pese a intuir que va a encontrar algo doloroso.
+*Respuesta correcta: d.* Retroalimentación: este conflicto es el que organiza la decisión de Camila de seguir leyendo el cuaderno pese a intuir que va a encontrar algo doloroso.
 
-**2. (Desarrollo breve)** Compara lo que dice Andrés sobre sus convicciones con lo que revela su comportamiento después de que Marisol se va. ¿Qué contradicción aparente hay entre ambos?
+**2. (Alternativas)** ¿Qué contradicción aparente hay entre lo que dice Andrés sobre sus convicciones y su comportamiento después de que Marisol se va?
 
-*Respuesta esperada*: Andrés dice tener una convicción firme ("si todos pensáramos así, nunca íbamos a cambiar nada"), pero su comportamiento posterior —quedarse mirando la puerta con la garganta apretada— revela un temor que no expresa directamente con palabras. Retroalimentación: comparar el dicho de un personaje con sus acciones permite descubrir emociones que el propio personaje no verbaliza.
+a) Dice tener una convicción firme, pero quedarse mirando la puerta con la garganta apretada revela un temor que no expresa con palabras
+b) Dice tener miedo de lo que pueda pasarle, pero después de que Marisol se va se muestra totalmente tranquilo y sale a la calle
+c) No hay ninguna diferencia entre lo que dice y lo que hace: su firmeza se mantiene igual en sus palabras y en sus gestos
+d) Dice que no le importa nada de la política, pero apenas Marisol se va sale a protestar con sus compañeros de la universidad
+
+*Respuesta correcta: a.* Retroalimentación: comparar el dicho de un personaje con sus acciones permite descubrir emociones que no verbaliza.
 
 **3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Andrés.
 
 *Respuesta correcta: Falso.* Retroalimentación: el relato está narrado en primera persona por Camila, cuyo conocimiento es limitado; el acceso al pasado ocurre solo a través del cuaderno que ella va descubriendo, igual que el lector.
 
-**4. (Aplicación)** Explica qué efecto tendría en el relato si un narrador omnisciente revelara, desde el primer párrafo, exactamente qué le ocurrió a Andrés en 1986.
+**4. (Alternativas — Aplicación)** ¿Qué efecto tendría que un narrador omnisciente revelara desde el primer párrafo qué le ocurrió a Andrés en 1986?
 
-*Respuesta esperada*: se perdería el efecto de misterio y descubrimiento progresivo que genera el hecho de que Camila y el lector avancen al mismo ritmo hacia la verdad; la tensión del relato depende, en parte, de que la información se entregue de forma parcial y mediada por el cuaderno. Retroalimentación: relacionar las características del narrador con sus efectos exige imaginar cómo cambiaría la experiencia de lectura si el autor hubiera elegido otro tipo de narrador.
+a) El relato tendría más suspenso, porque el lector esperaría que Camila lo descubriera
+b) No cambiaría nada en la experiencia de lectura, porque el cuaderno repetiría lo mismo que se encuentra Camila
+c) El lector sabría menos que Camila
+d) Se perdería el misterio y el descubrimiento progresivo que comparten Camila y el lector a través del cuaderno
+
+*Respuesta correcta: d.* Retroalimentación: la tensión depende de que la información se entregue de forma parcial y mediada por el cuaderno.
 
 **5. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión del diario de Andrés, citado textualmente, dentro del relato de Camila?
 
 a) Historia paralela
-b) Caja china
+b) Personaje tipo
 c) Indicio
-d) Personaje tipo
+d) Caja china
 
-*Respuesta correcta: b.* Retroalimentación: la caja china es una historia contada dentro de otra historia; aquí, el diario de 1986 se inserta dentro del relato de Camila en 2019, y su lectura funciona además como un flashback hacia ese año.
+*Respuesta correcta: d.* Retroalimentación: la caja china es una historia contada dentro de otra historia; aquí, el diario de 1986 se inserta dentro del relato de Camila en 2019, y su lectura funciona además como un flashback hacia ese año.
 
-**6. (Desarrollo breve)** Identifica el indicio (pista) presente en el fragmento del diario que anticipa lo que probablemente le ocurrió a Andrés, y explica su efecto en el lector.
+**6. (Alternativas)** ¿Qué indicio del diario anticipa lo que probablemente le ocurrió a Andrés?
 
-*Respuesta esperada*: el indicio es la mención de "un auto que no reconozco, siempre estacionado a la misma hora" durante tres días; este detalle sugiere vigilancia y genera en el lector la sospecha de que Andrés estaba en peligro, preparando emocionalmente el desenlace que se intuye pero no se afirma explícitamente. Retroalimentación: un indicio no anuncia un hecho de forma directa, sino que entrega una pista que el lector debe interpretar para anticipar lo que probablemente va a ocurrir.
+a) La fecha escrita en la primera página del diario, que indica el año en que Andrés comenzó a escribir
+b) La descripción del clima de ese día, nublado y frío, que Andrés anota al comienzo de cada entrada
+c) "Un auto que no reconozco, siempre estacionado a la misma hora" durante tres días, que sugiere vigilancia
+d) El nombre de su colegio y de sus compañeros, que Andrés menciona en las primeras páginas del diario
 
-**7. (Desarrollo breve — prejuicios y época)** Explica qué creencia o prejuicio de la época refleja la frase de Marisol "no seas tonto", y relaciónala con el contexto histórico de Chile durante la dictadura.
+*Respuesta correcta: c.* Retroalimentación: un indicio no anuncia un hecho de forma directa: entrega una pista que el lector interpreta.
 
-*Respuesta esperada*: la frase refleja que, en ese contexto de represión y vigilancia, manifestar disidencia política se percibía, para quienes querían proteger a sus seres queridos, como una imprudencia peligrosa más que como un derecho legítimo; esta creencia responde al clima de miedo generalizado durante la dictadura, que hoy contrasta con una valoración social más abierta de la participación política y la memoria histórica. Retroalimentación: identificar un prejuicio o creencia en un relato exige situarlo en el contexto histórico y social que explica por qué los personajes actúan o hablan de esa manera.
+**7. (Alternativas — prejuicios y época)** ¿Qué creencia de la época refleja la frase de Marisol "no seas tonto"?
 
-**8. (Desarrollo breve — intertextualidad y análisis integrado)** Relaciona este relato con otra obra de la literatura chilena o latinoamericana que trate la memoria familiar durante la dictadura, y explica qué elementos comparten.
+a) Que la participación política era valorada y segura, y que Marisol solo le pedía a Andrés que no descuidara sus estudios por ella ni su futuro
+b) Que Andrés no sabía estudiar
+c) Que, en un clima de represión y miedo durante la dictadura, manifestar disidencia se percibía como una imprudencia peligrosa más que como un derecho
+d) Que la dictadura promovía la libertad de expresión, y que Marisol consideraba tonto quedarse callado en vez de manifestar su opinión
 
-*Respuesta esperada*: cualquier relación razonada con una obra pertinente, por ejemplo *Formas de volver a casa* de Alejandro Zambra, donde un narrador adulto también reconstruye, desde fragmentos y silencios familiares, lo que su familia vivió durante la dictadura; ambos textos comparten la idea de que la memoria histórica se transmite de forma incompleta entre generaciones, y que reconstruirla exige un esfuerzo activo del narrador. Retroalimentación: una relación intertextual válida no es solo mencionar otra obra similar, sino explicar qué elementos concretos —temas, estructuras o recursos— comparten ambos textos.
+*Respuesta correcta: c.* Retroalimentación: identificar una creencia exige situarla en el contexto histórico que explica por qué los personajes hablan así.
+
+**8. (Alternativas — intertextualidad)** ¿Qué obra se vincula pertinentemente con este relato y qué comparten?
+
+a) *Formas de volver a casa* de Alejandro Zambra: ambos reconstruyen, desde fragmentos y silencios, la memoria familiar de la dictadura
+b) Harry Potter de J. K. Rowling: ambos tratan sobre un joven que descubre secretos de su familia mediante objetos mágicos
+c) El principito de Saint-Exupéry: ambos ocurren en el desierto y narran el encuentro entre un niño y un adulto
+d) Ninguna obra trata la memoria de la dictadura
+
+*Respuesta correcta: a.* Retroalimentación: una relación intertextual válida explica qué elementos concretos comparten ambos textos.
 
 ---
 
@@ -196,45 +221,70 @@ En 2° medio profundizas el análisis de textos dramáticos incorporando la noci
 
 **1. (Alternativas)** ¿Cuál es el conflicto central de "Las llaves de la casa"?
 
-a) La rivalidad entre Nicolás y la empresa constructora por el precio del terreno
-b) La tensión entre vender la casa familiar por razones prácticas y conservarla como símbolo de la historia familiar
-c) La decisión de Doña Rosa de mudarse a otra ciudad
-d) La disputa legal entre Nicolás y su madre por la propiedad de la casa
+a) La rivalidad entre Nicolás y la empresa constructora, que discuten el precio que se pagará por el terreno familiar
+b) La disputa legal entre Nicolás y su madre por quién es el verdadero dueño de la casa y del terreno
+c) La decisión de Doña Rosa de mudarse a otra ciudad para vivir con su hermana después de enviudar
+d) La tensión entre vender la casa familiar por razones prácticas y conservarla como símbolo de la historia familiar
 
-*Respuesta correcta: b.* Retroalimentación: este conflicto organiza tanto el diálogo inicial sobre la oferta como el monólogo de Doña Rosa y el cierre conciliador de Nicolás.
+*Respuesta correcta: d.* Retroalimentación: este conflicto organiza tanto el diálogo inicial sobre la oferta como el monólogo de Doña Rosa y el cierre conciliador de Nicolás.
 
-**2. (Desarrollo breve)** Describe el problema humano más amplio que plantea la obra, más allá de la venta de esta casa en particular.
+**2. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá de vender la casa?
 
-*Respuesta esperada*: la obra plantea la dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria de una persona están profundamente ligadas a un lugar físico, incluso cuando esa decisión entra en conflicto con necesidades prácticas urgentes, como la salud. Retroalimentación: identificar el problema humano exige ir más allá de la situación concreta (vender o no una casa) y preguntarse qué tensión universal representa esa situación.
+a) El precio de las propiedades en Santiago, que obliga a las familias a vender sus casas antiguas a empresas constructoras aunque no quieran, por las deudas que acumulan
+b) La falta de muebles y comodidades en la casa, que hace difícil que Doña Rosa siga viviendo sola en ella
+c) La forma correcta de restaurar y pintar una casa antigua para que conserve su valor patrimonial con el paso del tiempo
+d) La dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria están ligadas a un lugar, aun ante necesidades urgentes como la salud
+
+*Respuesta correcta: d.* Retroalimentación: identificar el problema humano exige preguntarse qué tensión universal representa la situación concreta.
 
 **3. (Verdadero o Falso)** La atmósfera de esta escena se construye únicamente a través del diálogo entre Doña Rosa y Nicolás, sin aporte de otros elementos.
 
 *Respuesta correcta: Falso.* Retroalimentación: la atmósfera se construye también a través del monólogo de Doña Rosa, de las acciones (acomodar el cuadro, colgar el teléfono) y de las acotaciones sobre la luz y el sonido, no solo del diálogo.
 
-**4. (Aplicación)** Explica qué efecto produce la acotación que describe la luz bajando "dejando la sala casi en penumbra, salvo por un rayo que ilumina el retrato del abuelo", justo después de la llamada de la constructora.
+**4. (Alternativas — Aplicación)** ¿Qué efecto produce la acotación de la luz que baja "dejando la sala casi en penumbra, salvo por un rayo que ilumina el retrato del abuelo"?
 
-*Respuesta esperada*: la disminución de la luz general, junto con el foco que permanece solo sobre el retrato, refuerza visualmente la sensación de pérdida inminente y dirige la atención hacia el símbolo de la memoria familiar en el momento de mayor tensión de la escena, intensificando emocionalmente el conflicto sin necesidad de palabras adicionales. Retroalimentación: los elementos de la puesta en escena, como la iluminación, son decisiones deliberadas que refuerzan el sentido emocional de un momento dramático.
+a) Indica que es de noche en la casa y que los personajes deben irse a dormir, sin ningún sentido simbólico
+b) Anuncia el final de la obra con alegría, porque el rayo de luz sobre el retrato simboliza la reconciliación familiar
+c) Refuerza la sensación de pérdida inminente y dirige la atención al símbolo de la memoria familiar en el momento de mayor tensión
+d) No tiene ningún efecto dramático
+
+*Respuesta correcta: c.* Retroalimentación: la iluminación es una decisión deliberada que refuerza el sentido emocional de un momento.
 
 **5. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria familiar en la escena?
 
-a) El teléfono
-b) La casa y el retrato del abuelo
+a) La casa y el retrato del abuelo
+b) El teléfono
 c) Los papeles que revisa Nicolás
 d) La oferta de la constructora
 
-*Respuesta correcta: b.* Retroalimentación: tanto la casa en su conjunto como, en particular, el retrato del abuelo iluminado al final de la escena, condensan la memoria y la identidad familiar que está en juego en el conflicto.
+*Respuesta correcta: a.* Retroalimentación: tanto la casa en su conjunto como, en particular, el retrato del abuelo iluminado al final de la escena, condensan la memoria y la identidad familiar que está en juego en el conflicto.
 
-**6. (Desarrollo breve)** Describe la evolución de la relación entre Doña Rosa y Nicolás a lo largo del fragmento: ¿cómo cambia el tono entre el inicio y el final de la escena?
+**6. (Alternativas)** ¿Cómo cambia la relación entre Doña Rosa y Nicolás a lo largo del fragmento?
 
-*Respuesta esperada*: al inicio, Nicolás se muestra centrado en lo práctico y urgente, mientras Doña Rosa se resiste en silencio, evitando mirarlo; hacia el final, el tono se suaviza: Nicolás baja la voz y aclara que no le pide a su madre dejar de querer la casa, sino priorizar su bienestar, lo que muestra una relación de cuidado mutuo más que de confrontación abierta. Retroalimentación: describir la evolución de los personajes exige comparar su comportamiento al inicio y al final del fragmento, prestando atención a cambios sutiles de tono, no solo a lo que dicen explícitamente.
+a) De una relación cariñosa y tranquila a un quiebre definitivo, cuando Doña Rosa se niega a escuchar las razones de Nicolás y le pide que no vuelva a hablarle de vender la casa familiar
+b) No cambia: madre e hijo discuten con la misma dureza de principio a fin, sin que ninguno modifique su postura ni su tono
+c) De una tensión entre lo práctico (Nicolás) y la resistencia silenciosa (Doña Rosa) a un tono más suave de cuidado mutuo, cuando Nicolás aclara que no le pide dejar de querer la casa
+d) Doña Rosa termina echando a Nicolás de la casa, porque él insiste en que la venda aunque ella le explica que no quiere irse
 
-**7. (Desarrollo breve — creencias y prejuicios)** Explica qué creencia sobre el valor de una propiedad cuestiona Doña Rosa en su monólogo, y por qué esta tensión sigue siendo relevante hoy en barrios patrimoniales de Chile.
+*Respuesta correcta: c.* Retroalimentación: describir la evolución exige atender a cambios sutiles de tono, no solo a lo que se dice.
 
-*Respuesta esperada*: Doña Rosa cuestiona la idea de que el valor de una propiedad se mide únicamente por su rentabilidad de mercado ("como si sesenta años de vida se pudieran resumir en un número"); esta tensión sigue siendo relevante porque muchos barrios patrimoniales chilenos enfrentan actualmente presión inmobiliaria que amenaza con desplazar a familias con arraigo histórico en esos sectores. Retroalimentación: identificar una creencia o prejuicio en una obra dramática implica relacionarlo con un debate social vigente, no solo describirlo como un dato aislado del texto.
+**7. (Alternativas — creencias y prejuicios)** ¿Qué creencia cuestiona Doña Rosa y por qué sigue siendo relevante?
 
-**8. (Desarrollo breve — intertextualidad y análisis integrado)** Explica con qué obra de la literatura universal dialoga esta escena, y qué elemento central comparten ambos textos.
+a) Que el valor de una propiedad se mide solo por su rentabilidad; hoy barrios patrimoniales enfrentan presión inmobiliaria que desplaza a familias con arraigo
+b) Que las casas antiguas deben pintarse cada año para conservar su valor; hoy faltan pintores y los barrios patrimoniales se deterioran
+c) Que los hijos deben vivir con sus padres hasta casarse; hoy nadie lo hace y por eso las casas familiares quedan vacías y se venden a inmobiliarias
+d) Que el dinero no existe; hoy todo es gratis
 
-*Respuesta esperada*: la escena dialoga con el cuento "Casa tomada" de Julio Cortázar, donde una familia pierde progresivamente el control de su hogar ante una fuerza externa que no pueden detener; ambos textos comparten la idea de la casa como símbolo de una identidad familiar amenazada por fuerzas ajenas a la voluntad de quienes la habitan. Retroalimentación: reconocer relaciones intertextuales permite comprender que el conflicto de una obra particular puede formar parte de un tópico literario más amplio y recurrente.
+*Respuesta correcta: a.* Retroalimentación: identificar una creencia implica vincularla con un debate social vigente.
+
+**8. (Alternativas — intertextualidad)** ¿Con qué obra de la literatura universal dialoga esta escena y qué comparten?
+
+a) Con Don Quijote de Cervantes: ambos tratan sobre caballeros que defienden su honor
+b) Con Romeo y Julieta de Shakespeare: ambos son tragedias de amor juvenil prohibido y de enfrentamiento entre familias
+c) Con un manual de construcción
+d) Con "Casa tomada" de Cortázar: la casa como símbolo de una identidad familiar amenazada por fuerzas ajenas
+
+*Respuesta correcta: d.* Retroalimentación: el conflicto de una obra puede formar parte de un tópico literario más amplio y recurrente.
 
 ---
 
@@ -276,45 +326,70 @@ En 2° medio, tu interpretación literaria incorpora una herramienta nueva: reco
 
 **1. (Alternativas)** ¿A qué costumbre cultural alude explícitamente el microcuento "La luz en la ventana"?
 
-a) El Día de Muertos mexicano
-b) El Día de las Ánimas, tradición de la cultura chilota
-c) La Fiesta de la Vendimia
-d) El Wetripantu o Año Nuevo mapuche
+a) El Día de Muertos mexicano, con altares y flores
+b) El Wetripantu o Año Nuevo mapuche, en el solsticio de invierno
+c) La Fiesta de la Vendimia, que celebra la cosecha de la uva
+d) El Día de las Ánimas, tradición de la cultura chilota
 
-*Respuesta correcta: b.* Retroalimentación: el texto menciona explícitamente que la costumbre se practica "cada primero de noviembre" y que la tía Elba la trajo desde Achao, en la isla de Quinchao, un elemento propio de la tradición chilota.
+*Respuesta correcta: d.* Retroalimentación: el texto menciona explícitamente que la costumbre se practica "cada primero de noviembre" y que la tía Elba la trajo desde Achao, en la isla de Quinchao, un elemento propio de la tradición chilota.
 
-**2. (Desarrollo breve)** Explica cómo el antecedente cultural del Día de las Ánimas influye en la forma en que el relato representa la muerte, evitando presentarla como un final absoluto.
+**2. (Alternativas)** ¿Cómo influye el Día de las Ánimas en la forma en que el relato representa la muerte?
 
-*Respuesta esperada*: la costumbre de dejar comida y una vela encendida para las almas que "andan penando" supone que la muerte no cierra por completo el vínculo entre los vivos y los muertos; esta creencia cultural explica que el relato presente la trascendencia como algo incierto pero abierto ("no sé si vuelven... pero algo vuelve"), en vez de afirmar o negar categóricamente una vida después de la muerte. Retroalimentación: reconocer un antecedente cultural exige explicar cómo esa tradición específica moldea la forma en que el texto aborda un tema profundo como la muerte.
+a) Presenta la muerte como un final absoluto, sin ningún vínculo posible con los vivos, porque la tía Elba deja la vela y el pan amasado solo por costumbre, sin creer en nada
+b) Afirma con certeza científica que las ánimas regresan cada año, porque la comida que deja la tía Elba siempre desaparece en la noche
+c) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve")
+d) No tiene ninguna relación con el relato: el Día de las Ánimas aparece solo como un dato de la fecha en que ocurre la historia
+
+*Respuesta correcta: c.* Retroalimentación: reconocer un antecedente cultural exige explicar cómo esa tradición moldea el tratamiento del tema.
 
 **3. (Verdadero o Falso)** Según el Ejemplo 2, la costumbre de la tía Elba pierde su sentido original al trasladarse desde Achao a Santiago, porque ya nadie más la practica en la ciudad.
 
 *Respuesta correcta: Falso.* Retroalimentación: el texto sugiere lo contrario: la costumbre se mantiene con fuerza pese a la migración, y hacia el final incluso se profundiza ("apagué la vela más tarde de lo habitual esa noche"), lo que indica que su sentido no depende del lugar donde se practique.
 
-**4. (Aplicación)** Cita una frase del texto que sustente la hipótesis de que el relato no busca resolver si las ánimas realmente existen, sino mostrar el sentido de la costumbre incluso en la duda.
+**4. (Varias correctas — Aplicación)** ¿Qué citas sustentan que el relato no busca resolver si las ánimas existen, sino mostrar el sentido de la costumbre en la duda? Marca **todas** las correctas.
 
-*Respuesta esperada*: por ejemplo, la frase de la tía Elba "no sé si vuelven como uno cree cuando es chico, con cuerpo y todo. Pero algo vuelve", que reconoce la incertidumbre sin restarle valor emocional a la práctica; o bien "seguramente fue solo cansancio", que la narradora dice sin dejar de apagar la vela más tarde de lo habitual. Retroalimentación: fundamentar una interpretación con una cita exige elegir un fragmento que respalde directamente la idea que se está defendiendo.
+a) "No sé si vuelven como uno cree cuando es chico, con cuerpo y todo. Pero algo vuelve"
+b) "Seguramente fue solo cansancio", dicho mientras la narradora apaga la vela más tarde de lo habitual
+c) Cualquier frase que mencione la cocina
+d) El título del relato, por sí solo
+
+*Respuesta correcta: a y b.* Retroalimentación: fundamentar una interpretación exige elegir fragmentos que respalden directamente la idea.
 
 **5. (Alternativas)** ¿Con qué proceso del contexto histórico chileno del siglo XX se relaciona directamente el microcuento?
 
-a) La Guerra del Pacífico
-b) La migración interna desde zonas rurales o insulares hacia las grandes ciudades
-c) La llegada de la televisión a color
-d) La creación de la Región de Los Lagos
+a) La migración interna desde zonas rurales o insulares hacia las grandes ciudades
+b) La Guerra del Pacífico y la ocupación del norte
+c) La llegada de la televisión a color a los hogares chilenos de las grandes ciudades
+d) La creación de la Región de Los Lagos y sus provincias
 
-*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente a la tía Elba como alguien que "se vino a Santiago a los veintidós años" desde Achao, un ejemplo del proceso de migración campo-ciudad e isla-ciudad que vivió Chile durante el siglo XX.
+*Respuesta correcta: a.* Retroalimentación: el texto sitúa explícitamente a la tía Elba como alguien que "se vino a Santiago a los veintidós años" desde Achao, un ejemplo del proceso de migración campo-ciudad e isla-ciudad que vivió Chile durante el siglo XX.
 
-**6. (Desarrollo breve — crítica sustentada)** Formula una crítica sobre el microcuento "La luz en la ventana" (algo que valores o que consideres una debilidad), sustentándola con al menos una cita o ejemplo del texto.
+**6. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "La luz en la ventana"?
 
-*Respuesta esperada*: cualquier crítica razonada y sustentada con una cita concreta; por ejemplo, valorar que el relato no imponga una postura religiosa cerrada, apoyándose en que la propia tía Elba admite no saber "si vuelven... con cuerpo y todo". Retroalimentación: una crítica literaria válida no es solo una opinión personal, sino una valoración argumentada con evidencia textual.
+a) "Me gustó mucho el cuento, porque es muy bonito y me hizo sentir cosas cuando lo leí, sobre todo el final del relato"
+b) "Es aburrido"
+c) "Valoro que no imponga una postura religiosa cerrada, pues la tía Elba admite no saber 'si vuelven... con cuerpo y todo'"
+d) "Es el mejor cuento de Chile, porque trata sobre el Día de las Ánimas y eso es importante"
 
-**7. (Desarrollo breve)** Explica de qué manera la visión de mundo chilota presente en el relato se manifiesta en las acciones concretas de la tía Elba, más allá de sus palabras.
+*Respuesta correcta: c.* Retroalimentación: una crítica válida es una valoración argumentada con evidencia textual.
 
-*Respuesta esperada*: la visión de mundo chilota, que entiende la muerte como un vínculo que se mantiene activo a través de rituales cotidianos, se refleja en la acción concreta de dejar, cada primero de noviembre, una vela encendida y un plato con pan amasado, sosteniendo la costumbre durante veinte años pese a vivir sola y lejos de su lugar de origen. Retroalimentación: relacionar la visión de mundo de una obra con el contexto exige mostrar, con ejemplos concretos, cómo esa visión se manifiesta en las acciones de los personajes, no solo en lo que dicen.
+**7. (Alternativas)** ¿Cómo se manifiesta la visión de mundo chilota en las acciones de la tía Elba?
 
-**8. (Desarrollo breve — interpretación integrada)** Formula tu propia interpretación del sentido general de "La luz en la ventana", integrando un punto de vista explícito (personal, histórico, social o universal), al menos una cita del texto, y la relación entre el antecedente cultural del Día de las Ánimas y el contexto histórico de la migración interna en Chile.
+a) En dejar cada primero de noviembre una vela y pan amasado durante veinte años, pese a vivir sola y lejos de su lugar de origen
+b) En negarse a recordar a sus muertos para no sufrir, aunque viva lejos de su familia y de su lugar de origen
+c) En mudarse de vuelta a Chiloé cada noviembre para visitar el cementerio donde está enterrada su familia
+d) En prohibir las celebraciones familiares en su casa de Santiago, para respetar el duelo por sus muertos
 
-*Respuesta esperada*: cualquier interpretación coherente que integre los tres elementos exigidos: un punto de vista claramente declarado, al menos una cita textual que la sustente, y la relación explícita entre la costumbre chilota mencionada y el proceso histórico de migración hacia la ciudad. Retroalimentación: una interpretación completa en 2° medio no solo identifica elementos del texto por separado, sino que los integra en una lectura propia, coherente y respaldada con evidencia y contexto cultural.
+*Respuesta correcta: a.* Retroalimentación: relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.
+
+**8. (Alternativas — interpretación integrada)** ¿Qué interpretación integra un punto de vista, una cita y la relación entre el Día de las Ánimas y la migración interna en Chile?
+
+a) Desde un punto de vista literario, el relato es solo una historia de terror sin contexto, como muestra la escena en que la tía Elba enciende la vela en la ventana
+b) Desde un punto de vista social, el relato demuestra que las tradiciones desaparecen al migrar a la ciudad, porque la tía Elba admite que ya nadie cree que "algo vuelve"
+c) El relato trata sobre una competencia de cocina
+d) Desde un punto de vista social, el relato muestra cómo quienes migraron a la ciudad sostienen sus tradiciones como vínculo con su origen, como cuando la tía Elba afirma que "algo vuelve"
+
+*Respuesta correcta: d.* Retroalimentación: una interpretación completa integra los elementos en una lectura propia y respaldada.
 
 ---
 
@@ -367,10 +442,10 @@ En 2° medio afinas tu evaluación crítica de textos argumentativos, sumando he
 
 **1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "¿Aprender con IA o dejar de aprender?"?
 
-a) La inteligencia artificial debe prohibirse completamente, dentro y fuera del colegio
+a) La inteligencia artificial debe prohibirse completamente, dentro y fuera del colegio, porque cualquier uso de ella impide que los estudiantes aprendan a pensar
 b) El uso libre de la inteligencia artificial en la sala de clases debilita el pensamiento independiente, por lo que se deben exigir trabajos que esta no pueda resolver por sí sola
-c) Los profesores exageran el problema del uso de la inteligencia artificial en la educación
-d) La inteligencia artificial es idéntica a una calculadora y no representa ningún riesgo
+c) Los profesores exageran el problema del uso de la inteligencia artificial en la educación, porque los estudiantes siempre han buscado formas de evitar el trabajo
+d) La inteligencia artificial es idéntica a una calculadora y no representa ningún riesgo, por lo que los colegios deberían permitir su uso libre en todas las tareas
 
 *Respuesta correcta: b.* Retroalimentación: la tesis se plantea en el primer párrafo y se sostiene hasta la propuesta final de exigir trabajos que la IA no pueda resolver sola.
 
@@ -378,13 +453,23 @@ d) La inteligencia artificial es idéntica a una calculadora y no representa nin
 
 *Respuesta correcta: Falso.* Retroalimentación: el autor usa el modalizador "sin duda" al describir el problema como certeza absoluta, pero usa "probablemente" al referirse a si es realista prohibir el uso de la IA fuera del colegio, mostrando menor certeza en ese punto.
 
-**3. (Desarrollo breve)** Identifica la falla en la argumentación presente en el segundo párrafo del texto, y explica por qué corresponde a ese tipo de falla.
+**3. (Alternativas)** ¿Qué falla de argumentación hay en el segundo párrafo, que pasa de copiar una tarea con IA a perder para siempre la capacidad de razonar y tomar malas decisiones de vida?
 
-*Respuesta esperada*: corresponde a una pendiente resbaladiza (o generalización apresurada), porque el autor pasa de un hecho puntual (copiar una tarea con ayuda de la IA) a una consecuencia extrema y no demostrada (perder para siempre la capacidad de razonar de forma independiente y tomar malas decisiones de vida), sin entregar evidencia que sustente esa cadena de consecuencias. Retroalimentación: identificar una falla de argumentación exige explicar por qué el razonamiento no está suficientemente sustentado, no solo señalar que "algo está mal" en el texto.
+a) Un argumento de autoridad bien fundamentado: cita estudios recientes sobre la IA que prueban cada consecuencia
+b) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia que las sustente
+c) Una analogía válida entre la IA y otras herramientas escolares
+d) No hay ninguna falla: cada consecuencia se sigue lógicamente de la anterior, con evidencia suficiente
 
-**4. (Aplicación)** Explica qué recurso emocional utiliza el autor al llamar "cómplices" a quienes permiten el uso libre de la inteligencia artificial en la sala de clases, y qué efecto busca producir en el lector.
+*Respuesta correcta: b.* Retroalimentación: identificar una falla exige explicar por qué el razonamiento no está suficientemente sustentado.
 
-*Respuesta esperada*: el autor apela a la culpa, atribuyendo una responsabilidad moral directa a quienes permiten esta práctica, lo que busca generar en el lector una reacción emocional de alarma o remordimiento, y no solo una evaluación racional y desapasionada del problema. Retroalimentación: los recursos emocionales buscan involucrar afectivamente al lector con la postura del autor, más allá de la fuerza lógica de los argumentos presentados.
+**4. (Alternativas — Aplicación)** ¿Qué recurso emocional usa el autor al llamar "cómplices" a quienes permiten el uso libre de la IA, y qué busca?
+
+a) Usa un dato estadístico para informar objetivamente al lector sobre cuántos estudiantes usan IA
+b) Usa el humor para relajar al lector y hacer más liviana la discusión sobre la IA en clases
+c) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento en el lector
+d) Cita a un experto en educación para dar autoridad a su postura frente a quienes la permiten
+
+*Respuesta correcta: c.* Retroalimentación: los recursos emocionales buscan involucrar afectivamente al lector más allá de la lógica.
 
 **5. (Alternativas)** ¿Qué figura retórica corresponde a la expresión "una herramienta le hace el trabajo de pensar a toda una generación"?
 
@@ -395,17 +480,32 @@ d) Comparación literal y precisa
 
 *Respuesta correcta: b.* Retroalimentación: la expresión exagera deliberadamente el alcance real del fenómeno para producir mayor impacto emocional en el lector, lo que corresponde a una hipérbole.
 
-**6. (Desarrollo breve — postura personal)** Da tu propia postura frente a la tesis del autor: ¿crees que el uso de la inteligencia artificial en la sala de clases debilita necesariamente el pensamiento independiente, o consideras que depende de cómo se use? Fundamenta con al menos un argumento propio.
+**6. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura **con un argumento propio** sobre la IA en clases?
 
-*Respuesta esperada*: cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente con la postura elegida. Retroalimentación: formular una postura personal fundamentada exige aportar una razón propia, refutando o apoyando explícitamente los argumentos leídos, y no solo repetir la conclusión del autor.
+a) "Creo que depende de cómo se use: si se pide explicar el procedimiento, la IA puede apoyar el aprendizaje en vez de reemplazarlo"
+b) "Estoy de acuerdo con el autor en todo lo que plantea, porque la IA es un tema importante y él lo explica muy bien sobre ella"
+c) "No sé"
+d) "El autor habla de calculadoras y de inteligencia artificial, y compara cómo se usaban en clases antes y ahora"
 
-**7. (Desarrollo breve)** Explica cómo organiza el autor su columna (en qué orden presenta sus ideas) y qué efecto produce esa organización en la fuerza persuasiva del texto.
+*Respuesta correcta: a.* Retroalimentación: una postura fundamentada aporta una razón propia, apoyando o refutando los argumentos leídos.
 
-*Respuesta esperada*: el autor organiza el texto en cuatro momentos: plantea el problema mediante una queja generalizada, proyecta consecuencias futuras graves, refuta la comparación con la calculadora, y cierra con una propuesta concreta y moderada; esta organización de alarma-proyección-refutación-propuesta genera primero urgencia en el lector y luego presenta la solución como razonable en comparación con el problema ya instalado. Retroalimentación: evaluar la organización de un texto argumentativo implica identificar cómo la secuencia de ideas contribuye a la fuerza persuasiva del texto.
+**7. (Alternativas)** ¿Cómo organiza el autor su columna y qué efecto produce?
 
-**8. (Desarrollo breve — análisis integrado)** Explica por qué el uso de palabras valorativas como "alarmante", "cómplices" e "ingenua" puede debilitar, y no solo fortalecer, la fuerza argumentativa del texto ante un lector crítico.
+a) Solo una lista de datos y cifras sobre el uso de la IA, sin propuesta ni opinión del autor; genera una impresión de objetividad y neutralidad frente al tema del ensayo
+b) Una narración de ficción
+c) Una propuesta inicial sin desarrollo, seguida de una narración personal sobre el uso de la calculadora; genera cercanía con el lector, pero no lo persuade
+d) Queja generalizada, proyección de consecuencias graves, refutación de la comparación con la calculadora y propuesta moderada; genera urgencia y luego presenta la solución como razonable
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: el uso excesivo de léxico valorativo puede hacer que un lector crítico perciba el texto como parcial o poco objetivo, generando desconfianza hacia los argumentos en vez de persuadirlo, especialmente si nota que esas palabras reemplazan evidencia concreta en lugar de complementarla. Retroalimentación: evaluar elementos léxicos valorativos implica reconocer que, aunque buscan reforzar la persuasión, también pueden debilitar la credibilidad del texto ante un lector que exige razones más que juicios de valor.
+*Respuesta correcta: d.* Retroalimentación: evaluar la organización implica ver cómo la secuencia de ideas contribuye a persuadir.
+
+**8. (Alternativas — análisis integrado)** ¿Por qué palabras valorativas como "alarmante", "cómplices" e "ingenua" pueden debilitar el texto ante un lector crítico?
+
+a) Porque siempre fortalecen cualquier argumento, y un lector crítico las valora como prueba
+b) Porque su exceso puede hacerlo parecer parcial y generar desconfianza, sobre todo si reemplazan a la evidencia
+c) Porque son palabras técnicas difíciles que el lector común no entiende sin un diccionario ni al leerlas varias veces
+d) Porque no tienen ningún efecto en el lector
+
+*Respuesta correcta: b.* Retroalimentación: el léxico valorativo puede persuadir, pero también restar credibilidad ante quien exige razones.
 
 ---
 
@@ -463,10 +563,10 @@ En 2° medio profundizas el análisis de textos de los medios de comunicación i
 
 **1. (Alternativas)** ¿Qué evidencia entrega el Texto B (la publicación vecinal) que el Texto A (el comunicado oficial) no menciona?
 
-a) El horario exacto del corte de agua
+a) El horario exacto en que comenzará y terminará el corte de agua en el sector
 b) Que este sería el cuarto corte del mes y que los avisos llegaron la noche anterior a cada corte
-c) El nombre de la empresa sanitaria responsable
-d) La recomendación de almacenar agua con anticipación
+c) El nombre de la empresa sanitaria responsable de los trabajos de mantención
+d) La recomendación de almacenar agua con anticipación antes de que comience el corte
 
 *Respuesta correcta: b.* Retroalimentación: el Texto A entrega información puntual sobre este corte, pero omite el patrón de cortes recurrentes y la falta de aviso oportuno, información que sí aparece respaldada con capturas de pantalla en el Texto B.
 
@@ -474,34 +574,59 @@ d) La recomendación de almacenar agua con anticipación
 
 *Respuesta correcta: Falso.* Retroalimentación: el comunicado usa una directiva atenuada —el indicativo "recomendamos" seguido del infinitivo "almacenar"—, que suaviza la instrucción dándole un tono de sugerencia cortés, propio de la comunicación institucional formal, y no un imperativo autoritario.
 
-**3. (Desarrollo breve)** Compara los recursos no lingüísticos utilizados en el Texto A y el Texto B. ¿Qué efecto distinto produce cada uno en quien los recibe?
+**3. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
-*Respuesta esperada*: la infografía azul con ícono de reloj del Texto A transmite orden, profesionalismo y control técnico institucional; las capturas de pantalla con fecha y hora del Texto B funcionan como evidencia visual directa y difícil de refutar, transmitiendo una sensación de investigación propia y credibilidad basada en hechos verificables por cualquiera. Retroalimentación: comparar recursos no lingüísticos implica identificar no solo qué muestran, sino qué sensación o efecto de credibilidad buscan generar en la audiencia.
+a) Ambos textos usan solo palabras, sin recursos visuales, y por eso dependen únicamente de sus argumentos para convencer a los vecinos
+b) La infografía del Texto B muestra desorden y descontrol, mientras que las capturas de pantalla del Texto A transmiten control técnico y eficiencia
+c) La infografía azul con reloj del Texto A transmite orden y control técnico; las capturas con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar
+d) Ninguno produce algún efecto en la audiencia: las imágenes son decorativas y no influyen en cómo los vecinos interpretan la información
 
-**4. (Aplicación)** Explica por qué la ausencia, en el Texto A, de cualquier mención al historial de cortes recientes puede considerarse una omisión relevante de evidencia.
+*Respuesta correcta: c.* Retroalimentación: comparar recursos no lingüísticos implica identificar qué sensación de credibilidad buscan generar.
 
-*Respuesta esperada*: omitir el historial de cortes recientes impide que el lector evalúe si se trata de un evento aislado o de un problema recurrente en la gestión del servicio; esta omisión favorece la imagen de eficiencia que el comunicado busca proyectar, ya que un patrón de cuatro cortes en un mes, con avisos tardíos, generaría una impresión mucho menos favorable que la de un corte programado y bien gestionado. Retroalimentación: identificar una evidencia omitida exige preguntarse qué información, de estar presente, cambiaría la interpretación que el lector se forma del hecho.
+**4. (Alternativas — Aplicación)** ¿Por qué la ausencia, en el Texto A, del historial de cortes recientes es una omisión relevante?
+
+a) Porque impide evaluar si es un evento aislado o un problema recurrente, y favorece la imagen de eficiencia que busca el comunicado
+b) Porque el historial de cortes no tiene ninguna importancia para los vecinos, que solo necesitan saber el horario
+c) No es una omisión: el Texto A sí menciona en detalle todos los cortes de agua ocurridos durante el mes
+d) Porque los cortes de agua nunca se repiten en un mismo sector, así que el historial no aporta información útil
+
+*Respuesta correcta: a.* Retroalimentación: identificar una evidencia omitida exige preguntarse qué información cambiaría la interpretación.
 
 **5. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre el corte de agua?
 
-a) Que la empresa sanitaria miente completamente sobre la mantención
+a) Que la empresa sanitaria miente completamente sobre la mantención, porque los vecinos demuestran con capturas que nunca hubo trabajos en la red
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales
-d) Que los cortes de agua nunca están justificados
+c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales, porque las escriben quienes viven el problema todos los días y no tienen intereses que proteger
+d) Que los cortes de agua nunca están justificados, aunque la empresa informe con anticipación que se deben a trabajos de mantención en la red
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes distintas sobre un mismo hecho busca reconocer los énfasis, evidencias y omisiones propias de cada una, no determinar de forma simplista cuál "dice la verdad" y cuál "miente".
 
-**6. (Desarrollo breve — reflexión personal)** Reflexiona: si vivieras en ese sector y solo hubieras leído el Texto A, ¿qué elemento del Texto B crees que cambiaría más tu percepción sobre la gestión de la empresa sanitaria? Explica por qué.
+**6. (Alternativas — reflexión personal)** ¿Cuál de estas reflexiones identifica un elemento concreto del Texto B y explica su influencia con criterio propio?
 
-*Respuesta esperada*: cualquier reflexión razonada que identifique un elemento concreto del Texto B (por ejemplo, las capturas de pantalla que muestran el patrón de avisos tardíos, o la mención de la abuela sin agua para sus remedios) y explique, con criterio propio, por qué ese elemento en particular influiría más en su percepción del problema. Retroalimentación: reconocer qué elementos de un texto influyen en las propias opiniones es una herramienta especialmente relevante frente al consumo cotidiano de información en redes sociales y grupos vecinales.
+a) "Me da lo mismo cuál texto leer, porque los dos tratan sobre los cortes de agua del sector y dicen casi lo mismo"
+b) "Los dos textos"
+c) "El agua es importante para todos, y por eso los dos textos hablan de la empresa sanitaria"
+d) "Me influirían más las capturas con fecha y hora, porque muestran un patrón de avisos tardíos que cualquiera puede verificar"
 
-**7. (Desarrollo breve)** Explica por qué sería un error formarse una opinión completa sobre la calidad del servicio de la empresa sanitaria leyendo solo uno de los dos textos.
+*Respuesta correcta: d.* Retroalimentación: reconocer qué elementos influyen en la propia opinión es clave frente a la información en redes y grupos vecinales.
 
-*Respuesta esperada*: cada texto entrega información parcial y con un propósito distinto: el Texto A destaca el control técnico de este corte puntual sin reconocer un posible patrón recurrente, mientras que el Texto B destaca la experiencia acumulada de los vecinos, pero enfocándose en el caso más dramático, lo que podría generalizar en exceso a partir de una situación particular; comparar ambas fuentes permite formarse una opinión más completa y menos influida por la estrategia de una sola de ellas. Retroalimentación: un lector o lectora crítico de medios entiende que ninguna fuente es completamente neutral, y que comparar varias, buscando qué evidencia entrega y cuál omite cada una, es clave para evaluar un hecho con mayor precisión.
+**7. (Alternativas)** ¿Por qué sería un error formarse una opinión completa sobre la empresa sanitaria leyendo solo uno de los textos?
 
-**8. (Desarrollo breve — análisis integrado)** Explica de qué manera la apelación a los sentimientos en el Texto B ("Mi abuela quedó sin agua para tomar sus remedios") fortalece su estrategia de persuasión, y qué riesgo tiene apoyarse principalmente en ese tipo de recurso.
+a) Porque ambos dicen exactamente lo mismo sobre los cortes de agua, y leer uno solo permite formarse la misma opinión en menos tiempo
+b) Porque cada texto es parcial: el A destaca el control técnico sin reconocer un posible patrón y el B parte del caso más dramático, que podría generalizar en exceso
+c) Porque el Texto B es completamente neutral y entrega todos los datos técnicos, mientras que el Texto A solo expresa la opinión de la empresa sanitaria
+d) Porque el Texto A siempre miente
 
-*Respuesta esperada*: la mención de la abuela y sus remedios humaniza el problema y genera empatía inmediata en quien lee, haciendo que la denuncia se sienta urgente y cercana; sin embargo, apoyarse principalmente en un caso particular y emotivo también implica el riesgo de generalizar una situación específica a toda la gestión de la empresa, sin necesariamente aportar evidencia de que el problema afecta a la mayoría de los usuarios de la misma manera. Retroalimentación: la apelación a los sentimientos es una estrategia de persuasión legítima y poderosa, pero un lector crítico debe evaluarla junto con la evidencia que la respalda, y no dejarse convencer solo por la emoción que genera.
+*Respuesta correcta: b.* Retroalimentación: comparar fuentes, viendo qué evidencia entrega y omite cada una, permite evaluar con más precisión.
+
+**8. (Alternativas — análisis integrado)** ¿Qué fortalece y qué riesgo tiene la apelación a los sentimientos del Texto B ("Mi abuela quedó sin agua para tomar sus remedios")?
+
+a) Aporta datos estadísticos sobre los cortes de agua; el riesgo es aburrir al lector con cifras y datos técnicos difíciles
+b) Debilita totalmente el texto, porque las emociones no sirven para argumentar; no tiene ventajas
+c) Humaniza el problema y genera empatía; el riesgo es generalizar un caso particular a toda la gestión sin evidencia suficiente
+d) No tiene efecto ni riesgo
+
+*Respuesta correcta: c.* Retroalimentación: la apelación emocional es legítima, pero un lector crítico la evalúa junto con la evidencia.
 
 ---
 
@@ -551,8 +676,8 @@ Antes de escribir, se planifica un ensayo breve sobre el tema: "¿Hay que elegir
 
 a) El progreso y la memoria son fuerzas opuestas y hay que elegir siempre a favor de una de ellas
 b) El progreso y la memoria pueden convivir si se decide con conciencia qué conservar y qué dejar transformarse
-c) Ninguna casa antigua debería venderse jamás, sin importar las circunstancias
-d) Las tradiciones culturales desaparecen inevitablemente al migrar a la ciudad
+c) Ninguna casa antigua debería venderse jamás, sin importar las necesidades de la familia ni sus circunstancias
+d) Las tradiciones culturales desaparecen inevitablemente al migrar a la ciudad, por lo que conservarlas no tiene sentido
 
 *Respuesta correcta: b.* Retroalimentación: la hipótesis se plantea explícitamente en el primer párrafo, cuestionando la idea de que progreso y memoria sean opciones excluyentes, y se sostiene hasta la conclusión.
 
@@ -560,13 +685,23 @@ d) Las tradiciones culturales desaparecen inevitablemente al migrar a la ciudad
 
 *Respuesta correcta: Falso.* Retroalimentación: el contraargumento se reconoce explícitamente en el cuarto párrafo ("Alguien podría argumentar que este tipo de conciliación es un ideal poco realista..."), y se responde mencionando instituciones que anticipan este tipo de tensiones.
 
-**3. (Desarrollo breve)** Explica qué función cumple, dentro del ensayo modelo, la referencia al Consejo de Monumentos Nacionales.
+**3. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia al Consejo de Monumentos Nacionales?
 
-*Respuesta esperada*: la referencia se usa como evidencia no literaria de apoyo, mostrando que existen mecanismos institucionales reales que buscan compatibilizar la renovación urbana con la conservación patrimonial, lo que refuerza la hipótesis de que no es necesario elegir de forma excluyente entre progreso y memoria. Retroalimentación: en un ensayo persuasivo, una evidencia no literaria debe conectarse explícitamente con la hipótesis, no solo mencionarse como un dato aislado.
+a) Es evidencia no literaria que muestra mecanismos reales para compatibilizar renovación urbana y conservación, reforzando que no hay que elegir entre progreso y memoria
+b) Es un dato decorativo, sin relación con la hipótesis, que solo hace más extenso el ensayo modelo y le da un tono técnico que no necesita
+c) Contradice la hipótesis del ensayo, porque muestra que el Estado siempre impide renovar las ciudades para conservar los edificios antiguos
+d) Sirve para resumir una obra literaria leída en clases sobre una familia que debe vender su casa, antes de pasar a la conclusión del ensayo
 
-**4. (Aplicación)** Identifica, en el ensayo modelo, el fragmento donde se incorpora un recurso literario (una cita de una obra trabajada en este nivel) como evidencia, y explica por qué esa cita sustenta la hipótesis del ensayo.
+*Respuesta correcta: a.* Retroalimentación: una evidencia no literaria debe conectarse explícitamente con la hipótesis.
 
-*Respuesta esperada*: en el segundo párrafo se cita a Nicolás diciendo "no te estoy pidiendo que dejes de quererla, mamá... te estoy pidiendo que pienses en vivir. No en el ladrillo"; esta cita sustenta la hipótesis porque muestra, dentro de la ficción, que es posible priorizar una necesidad práctica sin exigir que se abandone por completo el vínculo afectivo con la memoria familiar, lo que respalda directamente la idea de que ambas cosas pueden convivir. Retroalimentación: una cita literaria funciona como evidencia solo si se conecta explícitamente con el argumento que se está defendiendo, y no como una simple referencia decorativa.
+**4. (Alternativas — Aplicación)** ¿Por qué la cita de Nicolás ("no te estoy pidiendo que dejes de quererla, mamá... te estoy pidiendo que pienses en vivir. No en el ladrillo") sustenta la hipótesis del ensayo?
+
+a) Porque demuestra que hay que vender todas las casas antiguas para que las familias puedan vivir mejor
+b) Porque prueba que la memoria familiar no tiene ningún valor frente a las necesidades prácticas
+c) Porque es una cita decorativa, sin relación con la hipótesis, que solo hace más emotivo el ensayo
+d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar el vínculo afectivo con la memoria familiar
+
+*Respuesta correcta: d.* Retroalimentación: una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
 
 **5. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a incorporar recursos variados en un ensayo persuasivo, sin perder la coherencia temática?
 
@@ -577,17 +712,32 @@ d) Usar únicamente citas literarias, evitando cualquier evidencia no literaria
 
 *Respuesta correcta: b.* Retroalimentación: los recursos variados (anécdotas, citas, síntesis, infografías) deben usarse siempre en función de reforzar la hipótesis y mantener la coherencia temática del ensayo, no como adornos desconectados del argumento central.
 
-**6. (Desarrollo breve — planificación)** Planifica brevemente un ensayo persuasivo sobre el tema "¿Es la inteligencia artificial una amenaza real para el pensamiento independiente de los jóvenes?" (relacionado con el OA N°9): formula (a) una hipótesis, y (b) un recurso variado (anécdota, cita, síntesis o infografía) que usarías para hacerlo más cercano al lector.
+**6. (Alternativas — planificación)** Para un ensayo sobre "¿Es la inteligencia artificial una amenaza real para el pensamiento independiente de los jóvenes?", ¿qué planificación es adecuada?
 
-*Respuesta esperada*: cualquier planificación razonable; por ejemplo, (a) la inteligencia artificial no es una amenaza en sí misma, sino que su efecto depende de cómo se regule su uso en contextos formativos; (b) una anécdota personal sobre haber usado —o no— IA para resolver una tarea, describiendo qué se ganó o se perdió en ese proceso, para ilustrar el argumento de forma cercana. Retroalimentación: planificar antes de escribir, definiendo con claridad la hipótesis y qué recurso variado se usará y por qué, evita que el ensayo pierda coherencia temática durante la escritura.
+a) Hipótesis: ninguna, porque el tema es demasiado amplio. Recurso: ninguno, porque basta con la opinión personal del autor sobre la IA
+b) Hipótesis: la IA no es una amenaza en sí misma; su efecto depende de cómo se regule su uso. Recurso: una anécdota sobre usar —o no— IA en una tarea y qué se ganó o perdió
+c) Hipótesis: la IA no existe realmente y es solo un invento de las empresas. Recurso: una receta de cocina escrita por un estudiante sin ayuda de ningún programa
+d) Escribir sin hipótesis ni recurso
 
-**7. (Desarrollo breve)** Explica por qué incluir dos evidencias literarias de obras distintas (como se hace en el ensayo modelo) puede fortalecer más un argumento que usar una sola.
+*Respuesta correcta: b.* Retroalimentación: definir la hipótesis y el recurso antes de escribir evita perder coherencia temática.
 
-*Respuesta esperada*: usar dos evidencias literarias de obras distintas, que abordan el tema desde ángulos diferentes (la relación familiar en "Las llaves de la casa" y la tradición cultural en "La luz en la ventana"), muestra que la hipótesis se sostiene en más de un caso o contexto, lo que hace el argumento más robusto que si dependiera de un solo ejemplo aislado. Retroalimentación: sustentar una hipótesis con más de una evidencia pertinente, siempre que estén bien conectadas al argumento, fortalece la credibilidad del ensayo frente a un lector exigente.
+**7. (Alternativas)** ¿Por qué incluir dos evidencias literarias de obras distintas puede fortalecer un argumento?
 
-**8. (Desarrollo breve — texto integrado)** Escribe el párrafo de conclusión (3 a 4 oraciones) de un ensayo persuasivo breve sobre el tema "¿Debería exigirse que los trabajos escolares incluyan siempre una instancia oral, además de un texto escrito, para evitar la copia con inteligencia artificial?", asegurándote de que retome una hipótesis clara y no introduzca ideas nuevas no desarrolladas antes.
+a) Porque así el ensayo es más largo
+b) Porque una sola evidencia nunca sirve en un ensayo, aunque esté bien explicada
+c) Porque muestra que la hipótesis se sostiene en más de un caso o contexto, haciendo el argumento más robusto
+d) Porque las evidencias no necesitan conectarse con la hipótesis: basta con que sean de obras conocidas
 
-*Respuesta esperada*: cualquier párrafo de conclusión coherente que retome explícitamente una hipótesis sobre la utilidad de exigir instancias orales complementarias, sin introducir argumentos o datos que no hayan sido mencionados previamente en el resto del ensayo (hipotético). Retroalimentación: escribir una conclusión coherente exige sintetizar, no repetir literalmente, la hipótesis y la evidencia ya presentadas a lo largo del ensayo.
+*Respuesta correcta: c.* Retroalimentación: varias evidencias pertinentes y bien conectadas fortalecen la credibilidad del ensayo.
+
+**8. (Alternativas — texto integrado)** ¿Cuál de estos párrafos es una conclusión adecuada para un ensayo sobre "¿Debería exigirse que los trabajos escolares incluyan siempre una instancia oral, además del texto escrito, para evitar la copia con IA?"?
+
+a) "En síntesis, una instancia oral permite comprobar que el estudiante comprende lo que entregó, algo que el texto escrito por sí solo ya no garantiza. Por eso, complementar ambos formatos es una forma razonable de evaluar el aprendizaje real."
+b) "En conclusión, también deberíamos analizar el precio de los computadores y de los programas de inteligencia artificial, tema que no traté antes, pero que es muy importante para entender por qué los estudiantes copian."
+c) "La IA."
+d) "Para terminar, no tengo una opinión sobre el tema, porque hay buenos argumentos a favor y en contra de la instancia oral, y cada profesor debe decidir lo que le parezca mejor."
+
+*Respuesta correcta: a.* Retroalimentación: una conclusión coherente retoma la hipótesis sin introducir ideas nuevas no desarrolladas.
 
 ---
 

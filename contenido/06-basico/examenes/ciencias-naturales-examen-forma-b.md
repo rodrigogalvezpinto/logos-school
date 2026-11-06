@@ -18,14 +18,11 @@ ultima_actualizacion: 2026-11-02
 **Versión:** Forma B (segunda versión, preguntas propias)
 **N° de preguntas:** 25
 **Tiempo total:** 90 minutos
-**Puntaje total:** 38 puntos (1 punto por pregunta de alternativas; 2 puntos por pregunta
-de desarrollo breve; 3 puntos por pregunta de desarrollo extenso)
+**Puntaje total:** 38 puntos (1 punto por pregunta; las preguntas de mayor complejidad valen 2 o 3 puntos, como se indica en cada una)
 
 ### Instrucciones para el postulante
 
-1. Esta prueba contiene **25 preguntas**: algunas de **alternativas** (selecciona una
-   sola opción marcando con una X) y otras de **desarrollo** (breve o extenso), que
-   debes responder con tus propias palabras en el espacio disponible.
+1. Esta prueba contiene **25 preguntas de alternativas**: selecciona una sola opción marcando con una X. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. Lee cada pregunta con atención. Algunas incluyen un texto, tabla o situación de
    apoyo (estímulo) que debes revisar antes de responder.
 3. Usa lápiz de pasta azul o negro. No se aceptan respuestas con lápiz grafito en
@@ -60,12 +57,15 @@ b) Dióxido de carbono
 c) Energía lumínica
 d) Azúcar (glucosa)
 
-**3.** *(Desarrollo extenso, 3 puntos)* Una maceta con una planta se coloca dentro de
+**3.** *(Alternativas, 3 puntos)* Una maceta con una planta se coloca dentro de
 un clóset cerrado, sin luz, durante dos semanas, pero se le sigue regando con agua
-normalmente. Predice qué le ocurrirá a la planta y justifica tu respuesta según los
-elementos que una planta necesita para realizar la fotosíntesis. Explica, además, por
-qué la fotosíntesis es importante no solo para la planta que la realiza, sino también
-para otros seres vivos.
+normalmente. ¿Qué le ocurrirá a la planta, y por qué la fotosíntesis es importante no solo para la planta,
+sino también para otros seres vivos?
+
+a) Se debilitará o morirá porque sin luz no hay fotosíntesis; y la fotosíntesis importa a otros seres vivos porque libera oxígeno y produce el azúcar que es base de su alimento
+b) Crecerá más rápido porque tiene agua suficiente, y la luz no es necesaria para la planta; la fotosíntesis solo le sirve a la planta y no a otros seres vivos
+c) No le pasará nada, porque las plantas obtienen su alimento del agua y del suelo; además, la fotosíntesis consume el oxígeno que necesitan los animales
+d) Se debilitará por falta de agua, porque en la oscuridad la tierra se seca más rápido; la fotosíntesis produce dióxido de carbono para que respiren los animales
 
 ---
 
@@ -75,9 +75,9 @@ para otros seres vivos.
 hongos y bacterias) dentro de un ecosistema?
 
 a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo
-b) Producir su propio alimento mediante fotosíntesis
-c) Cazar directamente a los consumidores de tercer orden
-d) Absorber energía solar de forma directa
+b) Producir su propio alimento mediante la fotosíntesis, igual que las plantas
+c) Cazar directamente a los consumidores de tercer orden del ecosistema
+d) Absorber energía solar de forma directa y transformarla en nutrientes
 
 **5.** *(Alternativas)* En una cadena alimentaria marina: fitoplancton → krill →
 sardina → tiburón, ¿a qué nivel trófico corresponde el tiburón?
@@ -87,11 +87,14 @@ b) Consumidor de primer orden
 c) Consumidor de segundo orden
 d) Consumidor de tercer orden
 
-**6.** *(Desarrollo extenso, 3 puntos)* Construye una cadena alimentaria de cuatro
-eslabones propia de un ecosistema terrestre chileno (por ejemplo, campo o bosque),
-indicando el nivel trófico de cada organismo. Luego, explica qué podría ocurrir con el
-resto de la cadena si desapareciera bruscamente el consumidor de tercer orden debido a
-la caza excesiva.
+**6.** *(Alternativas, 3 puntos)* ¿Qué opción presenta una cadena alimentaria de cuatro eslabones de un ecosistema
+terrestre chileno bien construida, y predice correctamente qué ocurriría si desapareciera
+bruscamente el consumidor de tercer orden por caza excesiva?
+
+a) Pasto → conejo → zorro culpeo → águila; si desaparece el águila, no cambia nada en el ecosistema, porque es el último eslabón y nadie depende de ella
+b) Conejo → pasto → águila → zorro culpeo; si desaparece el zorro, aumenta el pasto, porque el zorro es el principal consumidor de plantas del ecosistema
+c) Águila → zorro culpeo → conejo → pasto; si desaparece el pasto, aumentan las águilas, porque tienen más espacio para cazar a los demás animales
+d) Pasto → conejo → zorro culpeo → águila; si desaparece el águila, los zorros podrían aumentar y reducir la población de conejos, alterando todo el ecosistema
 
 ---
 
@@ -109,14 +112,19 @@ d) El crecimiento de vello facial
 afirmaciones es correcta?
 
 a) La mayoría de las personas comienza la pubertad exactamente a la misma edad
-b) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es
-   normal
+b) La pubertad no tiene relación con los cambios hormonales que ocurren en esa etapa
 c) La pubertad comienza antes en los hombres que en las mujeres de un mismo curso
-d) La pubertad no tiene relación con los cambios hormonales que ocurren en esa etapa
+d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es
+   normal
 
-**9.** *(Desarrollo breve, 2 puntos)* Explica por qué es importante comprender que la
+**9.** *(Alternativas, 2 puntos)* ¿Por qué es importante comprender que la
 pubertad es una etapa normal del desarrollo humano y que cada persona la vive a su
-propio ritmo.
+propio ritmo?
+
+a) Porque así todos cambian al mismo tiempo y a la misma edad, sin diferencias entre compañeros
+b) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten las personas
+c) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
+d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
 
 ---
 
@@ -125,10 +133,10 @@ propio ritmo.
 **10.** *(Alternativas)* ¿Cuál de las siguientes es una consecuencia de practicar
 actividad física de forma regular durante la pubertad?
 
-a) Aumenta el riesgo de enfermedades cardiovasculares
-b) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable
-c) Elimina por completo la necesidad de higiene corporal
-d) Solo beneficia a las personas adultas, no a los adolescentes
+a) Aumenta el riesgo de enfermedades cardiovasculares por el esfuerzo del corazón
+b) Elimina por completo la necesidad de higiene corporal, porque el sudor limpia la piel
+c) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable
+d) Solo beneficia a las personas adultas, porque en la pubertad el cuerpo aún no se desarrolla
 
 **11.** *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a un **hábito de
 higiene corporal** (y no a un hábito de actividad física) recomendado durante la
@@ -139,8 +147,13 @@ b) Salir a trotar
 c) Lavarse el rostro diariamente
 d) Jugar un partido de fútbol
 
-**12.** *(Desarrollo breve, 2 puntos)* Explica cómo una higiene corporal inadecuada
-durante la pubertad podría derivar en un problema de salud, dando un ejemplo concreto.
+**12.** *(Alternativas, 2 puntos)* ¿Qué ejemplo muestra cómo una higiene corporal inadecuada
+durante la pubertad podría derivar en un problema de salud?
+
+a) Ducharse a diario provoca acné, porque el agua elimina los aceites naturales y la piel produce más grasa
+b) Usar desodorante causa el estirón, porque sus componentes aceleran el crecimiento de los huesos
+c) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones
+d) Lavarse el rostro produce más grasa, por lo que conviene no lavarlo durante la pubertad para evitar el acné
 
 ---
 
@@ -151,11 +164,11 @@ durante la pubertad podría derivar en un problema de salud, dando un ejemplo co
 **13.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre la energía es
 correcta?
 
-a) Solo los seres vivos necesitan energía para experimentar cambios
+a) Solo los seres vivos necesitan energía para experimentar cambios, como crecer o moverse
 b) Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier
    tipo de cambio
-c) La energía nunca puede transformarse de un tipo a otro
-d) Los objetos de uso cotidiano no producen ningún tipo de energía
+c) La energía nunca puede transformarse de un tipo a otro, solo trasladarse de un lugar a otro
+d) Los objetos de uso cotidiano no producen ni usan ningún tipo de energía para funcionar
 
 **14.** *(Alternativas)* ¿Qué tipo de energía predomina cuando una estufa eléctrica
 está en funcionamiento?
@@ -165,11 +178,13 @@ b) Energía sonora
 c) Energía calórica
 d) Energía cinética
 
-**15.** *(Desarrollo extenso, 3 puntos)* Elige un aparato de uso cotidiano en tu hogar
-e identifica al menos **dos tipos de energía** que se manifiestan al usarlo,
-describiendo el efecto que produce cada una. Luego, explica por qué la energía es
-necesaria para que un ser vivo (por ejemplo, un pez o un ave) realice sus procesos
-vitales, dando un ejemplo.
+**15.** *(Alternativas, 3 puntos)* ¿Qué opción identifica correctamente **tipos de energía** en un aparato de uso cotidiano y
+explica por qué la energía es necesaria para los procesos vitales de un ser vivo?
+
+a) En una licuadora hay energía eléctrica, cinética (aspas) y sonora (ruido); un pez necesita energía del alimento para nadar y bombear sangre
+b) En una licuadora solo hay energía lumínica, porque tiene una luz que indica que está encendida; los seres vivos no necesitan energía para sus procesos vitales
+c) En una licuadora hay energía nuclear, que hace girar las aspas; un pez obtiene la energía que necesita directamente del agua, sin necesidad de comer
+d) En una ampolleta hay energía sonora, porque hace ruido al encenderse; un ave no necesita energía para volar, porque el viento la mantiene en el aire
 
 ---
 
@@ -190,9 +205,15 @@ b) Sus numerosos ríos y caudales abundantes
 c) Sus yacimientos de petróleo
 d) La escasez de vientos durante todo el año
 
-**18.** *(Desarrollo breve, 2 puntos)* Menciona dos fuentes de energía renovable con
-potencial en distintas zonas de Chile y explica brevemente por qué cada zona es
-adecuada para esa fuente.
+**18.** *(Varias correctas, 2 puntos)* ¿Qué parejas unen bien una fuente de energía renovable con una zona de Chile
+adecuada y su razón?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Energía solar en el norte, por su alta radiación
+b) Energía hidroeléctrica en el sur, por sus ríos y caudales abundantes
+c) Energía hidroeléctrica en el desierto de Atacama, por sus grandes ríos
+d) Energía solar en la Antártica, por su cielo siempre soleado
 
 ---
 
@@ -214,11 +235,13 @@ b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullici�
 c) La ebullición ocurre en los sólidos y la evaporación ocurre en los gases, sin excepción
 d) La evaporación ocurre en los gases y la ebullición ocurre en los líquidos a cualquier temperatura ambiente
 
-**21.** *(Desarrollo extenso, 3 puntos)* Compara, a nivel de partículas, el
-comportamiento de las partículas en el estado gaseoso con el comportamiento de las
-partículas en el estado sólido. Luego, describe qué observarías si realizaras un
-experimento simple colocando un trozo de hielo seco a temperatura ambiente, y explica
-por qué ese proceso corresponde a una sublimación.
+**21.** *(Alternativas, 3 puntos)* ¿Qué opción compara correctamente las partículas de un gas y de un sólido, y explica qué
+ocurre con un trozo de hielo seco a temperatura ambiente?
+
+a) En el gas las partículas están juntas y ordenadas, mientras que en el sólido se mueven libremente; el hielo seco se derrite y se transforma en agua líquida
+b) El gas y el sólido se comportan igual, porque sus partículas tienen la misma distancia entre ellas; el hielo seco se convierte en hielo común al calentarse
+c) En el sólido las partículas se desplazan libremente y en el gas solo vibran; el hielo seco se condensa y pasa a estado líquido a temperatura ambiente
+d) En el gas las partículas están separadas y se mueven libremente; en el sólido están juntas y solo vibran. El hielo seco pasa de sólido a gas sin estado líquido: es una sublimación
 
 ---
 
@@ -234,8 +257,13 @@ b) Hidrósfera
 c) Atmósfera
 d) Núcleo terrestre
 
-**23.** *(Desarrollo breve, 2 puntos)* Explica cómo la contaminación del aire en las
-ciudades chilenas afecta a la atmósfera y propone una medida para reducir ese impacto.
+**23.** *(Alternativas, 2 puntos)* ¿Cómo la contaminación del aire en las
+ciudades chilenas afecta a la atmósfera y qué medida podría reducir ese impacto?
+
+a) Los árboles de las plazas contaminan el aire al liberar polen y hojas secas; una medida es talarlos y reemplazarlos por áreas pavimentadas
+b) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos
+c) El aire contaminado mejora la salud de las personas, porque fortalece los pulmones; por eso no hay que hacer nada para reducir las emisiones
+d) La contaminación del aire viene principalmente del océano, que libera sal y gases; una medida es construir muros en la costa para frenarla
 
 ---
 
@@ -249,15 +277,22 @@ b) El viento
 c) La actividad humana
 d) La actividad volcánica
 
-**25.** *(Desarrollo breve, 2 puntos)* Un terreno agrícola presenta signos de pérdida
-acelerada de suelo fértil debido a la actividad humana. Propón dos medidas que
-podrían ayudar a reducir esa erosión.
+**25.** *(Varias correctas, 2 puntos)* Un terreno agrícola presenta signos de pérdida
+acelerada de suelo fértil debido a la actividad humana. ¿Qué medidas
+podrían ayudar a reducir esa erosión?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Mantener cobertura vegetal o rotar cultivos
+b) Evitar el sobrepastoreo
+c) Dejar el suelo descubierto por largos períodos
+d) Prácticas agrícolas que no expongan el suelo
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -271,92 +306,42 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------|------------------------------|----|
 | 1 | Alternativas | a) Las algas y las cianobacterias | OA 1 |
 | 2 | Alternativas | d) Azúcar (glucosa) | OA 1 |
-| 3 | Desarrollo extenso | La planta se debilitará o morirá, porque aunque recibe agua, le falta energía lumínica y no puede realizar la fotosíntesis ni producir el azúcar que necesita para vivir. La fotosíntesis es importante para otros seres vivos porque libera oxígeno (necesario para la respiración) y porque el azúcar producido es la base del alimento de los organismos que se alimentan de la planta. | OA 1 |
+| 3 | Alternativas | **a) Se debilitará o morirá porque sin luz no hay fotosíntesis; y la fotosíntesis importa a otros seres vivos porque libera oxígeno y produce el azúcar que es base de su alimento.** | OA 1 |
 | 4 | Alternativas | a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo | OA 2 |
 | 5 | Alternativas | d) Consumidor de tercer orden | OA 2 |
-| 6 | Desarrollo extenso | Ejemplo válido de cadena de cuatro eslabones con nivel trófico correcto (p. ej. pasto —productor— → conejo —consumidor 1° orden— → zorro culpeo —consumidor 2° orden— → águila —consumidor 3° orden—). Si desaparece el consumidor de tercer orden, la población del nivel inferior (consumidor 2° orden) podría aumentar sin control, reduciendo a su vez la población de consumidores de primer orden y alterando el flujo de materia y energía de todo el ecosistema. | OA 2 |
+| 6 | Alternativas | **d) Pasto → conejo → zorro culpeo → águila; si desaparece el águila, los zorros podrían aumentar y reducir la población de conejos, alterando todo el ecosistema.** La cadena correcta respeta los niveles tróficos (productor, 1.er, 2.º y 3.er orden); al faltar el consumidor de tercer orden, el nivel inferior puede crecer sin control. | OA 2 |
 | 7 | Alternativas | a) El estirón de crecimiento | OA 5 |
-| 8 | Alternativas | b) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal | OA 5 |
-| 9 | Desarrollo breve | Es importante porque ayuda a evitar la vergüenza, la burla o la comparación negativa entre compañeros y compañeras que experimentan los cambios en momentos distintos; comprenderlo con naturalidad favorece el bienestar emocional durante esta etapa. | OA 5 |
-| 10 | Alternativas | b) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable | OA 6 |
+| 8 | Alternativas | d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal | OA 5 |
+| 9 | Alternativas | **d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.** | OA 5 |
+| 10 | Alternativas | c) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable | OA 6 |
 | 11 | Alternativas | c) Lavarse el rostro diariamente | OA 6 |
-| 12 | Desarrollo breve | Por ejemplo: no lavarse el rostro con regularidad puede favorecer la obstrucción de los poros con grasa y células muertas, agravando el acné o generando infecciones en la piel. | OA 6 |
+| 12 | Alternativas | **c) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.** | OA 6 |
 | 13 | Alternativas | b) Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier tipo de cambio | OA 8 |
 | 14 | Alternativas | c) Energía calórica | OA 8 |
-| 15 | Desarrollo extenso | Respuesta abierta según el aparato elegido (por ejemplo, una licuadora: energía eléctrica que ingresa, energía cinética en las aspas y energía sonora al funcionar). Ejemplo de proceso vital: un pez necesita energía para nadar, bombear sangre a través de su corazón y mantener sus funciones internas; sin un aporte constante de energía obtenida del alimento, estos procesos se detendrían. | OA 8 |
+| 15 | Alternativas | **a) En una licuadora hay energía eléctrica, cinética (aspas) y sonora (ruido); un pez necesita energía del alimento para nadar y bombear sangre.** Identificar varios tipos de energía en un mismo aparato muestra que la energía se transforma; sin un aporte constante de energía del alimento, los procesos vitales se detendrían. | OA 8 |
 | 16 | Alternativas | c) Energía geotérmica | OA 11 |
 | 17 | Alternativas | b) Sus numerosos ríos y caudales abundantes | OA 11 |
-| 18 | Desarrollo breve | Por ejemplo: energía solar en el norte (desierto de Atacama), por su alta radiación solar; energía hidroeléctrica en el sur, por sus numerosos ríos y caudales abundantes. | OA 11 |
+| 18 | Varias correctas | **a y b.** Relacionar la energía con la geografía de cada zona explica el potencial energético diverso de Chile. | OA 11 |
 | 19 | Alternativas | b) Condensación | OA 13 |
 | 20 | Alternativas | b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullición, en todo el volumen a una temperatura fija | OA 13 |
-| 21 | Desarrollo extenso | En el estado gaseoso, las partículas están muy separadas y se mueven de forma libre y desordenada; en el estado sólido, las partículas están muy juntas, ordenadas, y solo vibran en una posición fija. Al colocar hielo seco a temperatura ambiente, se observaría cómo el trozo disminuye de tamaño desprendiendo gas dióxido de carbono (invisible) y formando a su alrededor una "niebla" blanca, que corresponde a pequeñas gotitas de agua del aire que se condensan por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. Esto corresponde a una sublimación porque la materia pasa de sólido a gas sin pasar por el estado líquido. | OA 13 |
+| 21 | Alternativas | **d) En el gas las partículas están separadas y se mueven libremente; en el sólido están juntas y solo vibran. El hielo seco pasa de sólido a gas sin estado líquido: es una sublimación.** La "niebla" blanca alrededor del hielo seco son gotitas de agua del aire condensadas por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. | OA 13 |
 | 22 | Alternativas | c) Atmósfera | OA 16 |
-| 23 | Desarrollo breve | La quema de combustibles en autos e industrias libera gases contaminantes que se acumulan en la atmósfera, afectando la calidad del aire y la salud de las personas; una medida sería fomentar el uso de transporte público, bicicletas o vehículos eléctricos. | OA 16 |
+| 23 | Alternativas | **b) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.** | OA 16 |
 | 24 | Alternativas | b) El viento | OA 18 |
-| 25 | Desarrollo breve | Por ejemplo: mantener cobertura vegetal o rotar cultivos para proteger el suelo, evitar el sobrepastoreo, y realizar prácticas agrícolas que no dejen el suelo expuesto por largos períodos. | OA 18 |
+| 25 | Varias correctas | **a, b y d.** Dejar el suelo descubierto aumenta la erosión. | OA 18 |
 
 
 # RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
 
-Se evalúa cada criterio de forma independiente y se suman los logrados hasta el puntaje máximo del ítem. Se aceptan respuestas equivalentes en redacción que cumplan el criterio.
-
-
-### Pregunta 3 (3 puntos)
-
-- Predice que la planta se debilitará o morirá por falta de luz — **1 punto**
-- Explica que sin energía lumínica no puede realizar la fotosíntesis ni producir el azúcar que necesita — **1 punto**
-- Explica la importancia para otros seres vivos: libera oxígeno y produce la base del alimento — **1 punto**
-
-### Pregunta 6 (3 puntos)
-
-- Construye una cadena de cuatro eslabones con el nivel trófico correcto de cada organismo — **1 punto**
-- Predice que la población del consumidor de segundo orden aumentaría sin control — **1 punto**
-- Explica el efecto en cadena sobre los consumidores de primer orden y el flujo de materia y energía — **1 punto**
-
-### Pregunta 9 (2 puntos)
-
-- Explica que la pubertad es una etapa normal del desarrollo humano — **1 punto**
-- Relaciona comprenderlo con evitar burlas y comparaciones y favorecer el bienestar emocional — **1 punto**
-
-### Pregunta 12 (2 puntos)
-
-- Da un ejemplo concreto de higiene corporal inadecuada — **1 punto**
-- Explica el problema de salud que podría derivarse de ese ejemplo — **1 punto**
-
-### Pregunta 15 (3 puntos)
-
-- Identifica al menos dos tipos de energía presentes en un aparato de uso cotidiano — **1 punto**
-- Describe el efecto que produce cada tipo de energía identificado — **1 punto**
-- Explica con un ejemplo por qué un ser vivo necesita energía para sus procesos vitales — **1 punto**
-
-### Pregunta 18 (2 puntos)
-
-- Menciona dos fuentes de energía renovable con potencial en Chile — **1 punto**
-- Justifica por qué la zona indicada es adecuada para cada fuente — **1 punto**
-
-### Pregunta 21 (3 puntos)
-
-- Compara las partículas en estado gaseoso y sólido: separación, movimiento y orden — **1 punto**
-- Describe la observación del hielo seco: libera gas sin que aparezca líquido — **1 punto**
-- Explica que es sublimación porque pasa de sólido a gas sin pasar por líquido — **1 punto**
-
-### Pregunta 23 (2 puntos)
-
-- Explica el efecto en la atmósfera: gases contaminantes que afectan la calidad del aire y la salud — **1 punto**
-- Propone una medida pertinente para reducir ese impacto — **1 punto**
-
-### Pregunta 25 (2 puntos)
-
-- Propone una medida válida para reducir la erosión del suelo — **1 punto**
-- Propone una segunda medida válida y distinta — **1 punto**
+> **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
 ---
 
 ### Resumen de puntaje
 
-- **16 preguntas de alternativas** × 1 punto = 16 puntos
-- **5 preguntas de desarrollo breve** (N° 9, 12, 18, 23, 25) × 2 puntos = 10 puntos
-- **4 preguntas de desarrollo extenso** (N° 3, 6, 15, 21) × 3 puntos = 12 puntos
+- **16 preguntas** × 1 punto = 16 puntos
+- **5 preguntas de mayor complejidad** (N° 9, 12, 18, 23, 25) × 2 puntos = 10 puntos
+- **4 preguntas de mayor complejidad** (N° 3, 6, 15, 21) × 3 puntos = 12 puntos
 - **Puntaje total de la prueba: 38 puntos**
 
 ### Distribución de preguntas por Eje y OA
@@ -387,15 +372,15 @@ formas puedan aplicarse a grupos distintos sin riesgo de copia entre estudiantes
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2, 3 | 2 | 1 |
-| OA 2 | 4, 5, 6 | 2 | 1 |
-| OA 5 | 7, 8, 9 | 2 | 1 |
-| OA 6 | 10, 11, 12 | 2 | 1 |
-| OA 8 | 13, 14, 15 | 2 | 1 |
-| OA 11 | 16, 17, 18 | 2 | 1 |
-| OA 13 | 19, 20, 21 | 2 | 1 |
-| OA 16 | 22, 23 | 1 | 1 |
-| OA 18 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **16** | **9** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2, 3 | 3 |
+| OA 2 | 4, 5, 6 | 3 |
+| OA 5 | 7, 8, 9 | 3 |
+| OA 6 | 10, 11, 12 | 3 |
+| OA 8 | 13, 14, 15 | 3 |
+| OA 11 | 16, 17, 18 | 3 |
+| OA 13 | 19, 20, 21 | 3 |
+| OA 16 | 22, 23 | 2 |
+| OA 18 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

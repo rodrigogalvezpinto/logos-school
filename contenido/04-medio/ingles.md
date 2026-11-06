@@ -126,21 +126,22 @@ forma ordenada.
 1. *(Alternativas)* Read: *"In this dystopian novel, the government controls
    all information citizens can access, and independent thought is
    punished."* ¿Cuál es el elemento principal del tema tratado?
-   a) A government that promotes free speech.
-   b) A society where the government controls information and punishes independent thought.
-   c) A story about space exploration.
-   d) A romantic comedy set in the future.
-   **Respuesta correcta:** b.
+   a) A government that promotes free speech and protects independent thinkers.
+   b) A story about space exploration and the discovery of new planets by citizens.
+   c) A society where the government controls information and punishes independent thought.
+   d) A romantic comedy set in the future, where citizens look for love online.
+   **Respuesta correcta:** c.
    **Retroalimentación:** El elemento central es el control gubernamental de
    la información y la represión del pensamiento independiente — rasgos
    típicos del género distópico.
 
-2. *(Completar)* Complete: *"A text written to make readers laugh has an
-   ___ purpose, while a text written to explain a scientific process has an
-   ___ purpose."* (entertaining / informative)
-   **Respuesta correcta:** entertaining / informative.
-   **Retroalimentación:** El propósito de un texto se identifica por lo que
-   busca lograr en el lector: hacer reír (entretener) o explicar (informar).
+2. *(Alternativas — Completar)* Complete: *"A text written to make readers laugh has an ___ purpose, while a text written to explain a scientific process has an ___ purpose."*
+   a) entertaining / informative
+   b) informative / entertaining
+   c) persuasive / entertaining
+   d) entertaining / persuasive
+   **Respuesta correcta:** a) entertaining / informative.
+   **Retroalimentación:** El propósito de un texto se identifica por lo que busca lograr en el lector: hacer reír (entretener) o explicar (informar).
 
 3. *(Verdadero o falso)* Read: *"This interview appeared in a magazine for
    video game developers. The questions focus on technical details of
@@ -152,33 +153,29 @@ forma ordenada.
    contenido técnico indican que la audiencia objetivo es especializada, no
    el público general.
 
-4. *(Completar con tabla)* Complete the chart with information from the
-   text: *"The novel 'Silent Orbit' takes place on a space station in 2200.
-   The main character, Nadia, discovers that the AI controlling the station
-   has been hiding information from the crew."* Setting: ___ / Main
-   character: ___ / Main conflict: ___
-   **Respuesta correcta:** a space station in 2200 / Nadia / the AI has been
-   hiding information from the crew.
-   **Retroalimentación:** Organizar la información en una tabla exige
-   localizar datos específicos (dónde, quién, qué problema) y clasificarlos
-   por categoría.
+4. *(Alternativas — Completar con tabla)* Read: *"The novel 'Silent Orbit' takes place on a space station in 2200. The main character, Nadia, discovers that the AI controlling the station has been hiding information from the crew."* Which option completes the chart correctly? Setting / Main character / Main conflict
+   a) the Earth in 2020 / the AI / Nadia hides information from the crew of the station
+   b) a space station in 2200 / the crew / Nadia controls the station and its AI system
+   c) a spaceship / Nadia / the crew attacks the AI that controls the spaceship
+   d) a space station in 2200 / Nadia / the AI has been hiding information from the crew
+   **Respuesta correcta:** d) a space station in 2200 / Nadia / the AI has been hiding information from the crew.
+   **Retroalimentación:** Organizar la información en una tabla exige localizar datos específicos (dónde, quién, qué problema) y clasificarlos por categoría.
 
-5. *(Selección — dos opciones)* Relaciona el tipo de texto con su característica típica:
-   *"a book review"* → ¿"da una opinión evaluativa sobre una obra" o
-   "explica un proceso científico paso a paso"?
-   **Respuesta correcta:** da una opinión evaluativa sobre una obra.
-   **Retroalimentación:** Reconocer la estructura y función de cada tipo de
-   texto ayuda a anticipar qué información buscar en él.
+5. *(Alternativas — Selección)* ¿Qué característica es típica de *"a book review"*?
+   a) Explica un proceso científico paso a paso
+   b) Informa el pronóstico del tiempo
+   c) Da instrucciones para armar un mueble
+   d) Da una opinión evaluativa sobre una obra
+   **Respuesta correcta:** d) Da una opinión evaluativa sobre una obra.
+   **Retroalimentación:** Reconocer la estructura y función de cada tipo de texto ayuda a anticipar qué información buscar en él.
 
-6. *(Responder en inglés)* Read: *"This podcast transcript discusses whether
-   artificial intelligence should be allowed to make medical decisions
-   without a human doctor's approval. Two experts share opposing views."*
-   Answer: *What is the purpose of this text?*
-   **Respuesta correcta:** *To present two opposing views on whether AI
-   should make medical decisions without human approval (to inform/discuss a
-   debate).*
-   **Retroalimentación:** El propósito se identifica reconociendo que el
-   texto presenta un debate con posturas opuestas, no una sola opinión.
+6. *(Alternativas — Comprensión)* Read: *"This podcast transcript discusses whether artificial intelligence should be allowed to make medical decisions without a human doctor's approval. Two experts share opposing views."* What is the purpose of this text?
+   a) To sell a new medical AI product to hospitals and doctors around the world, without human approval
+   b) To tell a funny story about doctors who use computers in their daily work
+   c) To present two opposing views on whether AI should make medical decisions without human approval
+   d) To give step-by-step instructions on how to build an AI for medical use
+   **Respuesta correcta:** c) To present two opposing views on whether AI should make medical decisions without human approval.
+   **Retroalimentación:** El propósito se identifica reconociendo que el texto presenta un debate con posturas opuestas, no una sola opinión.
 
 7. *(Alternativas — desafiante)* Read: *"Set in a distant future, the story
    follows a group of scientists who travel back in time to prevent an
@@ -186,22 +183,21 @@ forma ordenada.
    consequences."* ¿Qué combinación de elementos de ciencia ficción aparece
    en el texto?
    a) Space exploration and robots.
-   b) Time travel and its unexpected consequences.
-   c) Genetic engineering and dystopia.
+   b) Genetic engineering and dystopia.
+   c) Time travel and its unexpected consequences.
    d) Virtual reality and artificial intelligence.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** c.
    **Retroalimentación:** El texto menciona explícitamente el viaje en el
    tiempo (*travel back in time*) y sus consecuencias inesperadas, no otros
    elementos del género.
 
-8. *(Completar — desafiante)* Complete: *"A text published on a personal
-   blog, written in an informal tone with jokes and personal anecdotes, most
-   likely has the purpose of ___ the reader, rather than giving a formal
-   report."* (entertaining)
-   **Respuesta correcta:** entertaining.
-   **Retroalimentación:** El tono informal y los elementos personales
-   (chistes, anécdotas) son pistas del propósito de entretener, no de
-   informar formalmente.
+8. *(Alternativas — Completar — desafiante)* Complete: *"A text published on a personal blog, written in an informal tone with jokes and personal anecdotes, most likely has the purpose of ___ the reader, rather than giving a formal report."*
+   a) entertaining
+   b) informing
+   c) warning
+   d) instructing
+   **Respuesta correcta:** a) entertaining.
+   **Retroalimentación:** El tono informal y los elementos personales (chistes, anécdotas) son pistas del propósito de entretener, no de informar formalmente.
 
 9. *(Verdadero o falso — desafiante)* Localizar información específica en un
    texto (por ejemplo, una fecha, un nombre o un dato numérico) requiere una
@@ -212,49 +208,41 @@ forma ordenada.
    *scanning* (búsqueda de un dato puntual) son estrategias distintas, y
    este OA exige dominar ambas.
 
-10. *(Organizar en tabla — desafiante)* Read two short texts about
-    artificial intelligence: Text A (a science magazine article) explains
-    how AI algorithms learn from data, using technical vocabulary. Text B (a
-    teen blog post) explains the same topic using simple comparisons and
-    jokes. Complete the table: *Text / Audience / Tone*.
-    **Respuesta correcta:** Text A: specialized readers / formal, technical.
-    Text B: teenagers / informal, humorous.
-    **Retroalimentación:** Comparar dos textos sobre el mismo tema exige
-    identificar diferencias de audiencia y tono según su propósito y medio
-    de publicación.
+10. *(Alternativas — Organizar en tabla — desafiante)* Text A (a science magazine article) explains how AI algorithms learn from data, using technical vocabulary. Text B (a teen blog post) explains the same topic using simple comparisons and jokes. Which option completes the table *Text / Audience / Tone*?
+    a) Text A: teenagers, humorous. Text B: specialized readers, technical
+    b) Both: children, informal and humorous, because both texts explain AI in simple words
+    c) Both: specialized readers, formal and technical, because both texts were published online
+    d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous
+    **Respuesta correcta:** d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous.
+    **Retroalimentación:** Comparar dos textos sobre el mismo tema exige identificar diferencias de audiencia y tono según su propósito y medio de publicación.
 
-11. *(Responder en inglés — desafiante)* Read: *"This article was written
-    for a general audience with no scientific background. It uses simple
-    analogies, such as comparing neural networks to how the human brain
-    learns, to explain artificial intelligence."* Answer: *Why does the
-    author use simple analogies instead of technical language?*
-    **Respuesta esperada:** Respuesta razonada, por ejemplo: *"Because the
-    text is written for a general audience with no scientific background, so
-    simple analogies make the topic easier to understand."*
-    **Retroalimentación:** Se evalúa la capacidad de conectar una decisión
-    del autor (usar analogías simples) con el propósito y la audiencia del
-    texto.
+11. *(Alternativas — Comprensión — desafiante)* Read: *"This article was written for a general audience with no scientific background. It uses simple analogies, such as comparing neural networks to how the human brain learns, to explain artificial intelligence."* Why does the author use simple analogies instead of technical language?
+    a) Because the author does not know technical words and prefers to write simple texts
+    b) Because analogies make the text longer and more entertaining for any kind of reader
+    c) Because the text is written for scientists who already understand neural networks
+    d) Because the audience has no scientific background, so analogies make the topic easier to understand
+    **Respuesta correcta:** d) Because the audience has no scientific background, so analogies make the topic easier to understand.
+    **Retroalimentación:** Se conecta una decisión del autor (usar analogías simples) con el propósito y la audiencia del texto.
 
 12. *(Alternativas)* ¿Qué tipo de texto es más probable que **evalúe** una
     obra (por ejemplo, una película o videojuego), ofreciendo una opinión
     sobre su calidad?
     a) A transcript.
-    b) A review.
-    c) An interview.
+    b) An interview.
+    c) A review.
     d) An opinion article about climate change.
-    **Respuesta correcta:** b.
+    **Respuesta correcta:** c.
     **Retroalimentación:** Reconocer la estructura y función típica de cada
     tipo de texto (aquí, la reseña o *review*) permite anticipar qué
     esperar de él antes de leerlo en detalle.
 
-13. *(Completar)* Complete: *"To find the general idea of a long article
-    quickly, without reading every word, you should ___ the text; to find a
-    specific date mentioned somewhere in the article, you should ___ the
-    text."* (skim / scan)
-    **Respuesta correcta:** skim / scan.
-    **Retroalimentación:** *Skimming* se usa para captar la idea general y
-    *scanning* para localizar un dato específico — dos estrategias de
-    lectura distintas que exige este OA.
+13. *(Alternativas — Completar)* Complete: *"To find the general idea of a long article quickly, without reading every word, you should ___ the text; to find a specific date mentioned somewhere in the article, you should ___ the text."*
+    a) scan / skim
+    b) skim / skim
+    c) skim / scan
+    d) translate / summarize
+    **Respuesta correcta:** c) skim / scan.
+    **Retroalimentación:** *Skimming* se usa para captar la idea general y *scanning* para localizar un dato específico — dos estrategias de lectura distintas que exige este OA.
 
 14. *(Verdadero o falso)* Read: *"This text was published on a government
     website to explain new regulations about artificial intelligence in
@@ -265,18 +253,13 @@ forma ordenada.
     y el contenido (regulaciones) indican un propósito informativo, no de
     entretenimiento.
 
-15. *(Organizar en tabla — desafiante)* Read: *"The short story 'The Last
-    Signal' is set on a spaceship lost in deep space. The main character, an
-    engineer named Reyes, must repair the ship's AI before the oxygen runs
-    out. The story explores themes of isolation and trust in technology."*
-    Complete the table: *Setting: ___ / Main character: ___ / Main problem:
-    ___ / Themes: ___*.
-    **Respuesta correcta:** a spaceship lost in deep space / Reyes, an
-    engineer / repairing the AI before the oxygen runs out / isolation and
-    trust in technology.
-    **Retroalimentación:** Organizar la información en una tabla exige
-    localizar datos específicos (dónde, quién, qué problema, qué temas) y
-    clasificarlos por categoría, la habilidad central de este OA.
+15. *(Alternativas — Organizar en tabla — desafiante)* Read: *"The short story 'The Last Signal' is set on a spaceship lost in deep space. The main character, an engineer named Reyes, must repair the ship's AI before the oxygen runs out. The story explores themes of isolation and trust in technology."* Which option completes *Setting / Main character / Main problem / Themes*?
+    a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology
+    b) a planet far from Earth / the AI of the ship, named Signal / Reyes runs out of oxygen / friendship and love in space
+    c) a spaceship that crashed on Earth / the oxygen tank / repairing Reyes, the engineer / adventure and exploration in space
+    d) deep space near a new planet / an astronaut named Signal / finding a new planet to live / isolation and loneliness
+    **Respuesta correcta:** a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology.
+    **Retroalimentación:** Organizar la información en una tabla exige localizar datos específicos y clasificarlos por categoría, la habilidad central de este OA.
 
 ---
 
@@ -345,19 +328,21 @@ estas estructuras con una postura personal crítica.
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete with reported speech: *"I love science fiction
-   movies," said Tomás. → Tomás said that ___ science fiction movies.*
-   **Respuesta correcta:** he loved.
-   **Retroalimentación:** En discurso indirecto, el presente simple
-   (*love*) generalmente cambia a pasado simple (*loved*).
+1. *(Alternativas — Completar)* Complete with reported speech: *"I love science fiction movies," said Tomás. → Tomás said that ___ science fiction movies.*
+   a) he loves
+   b) I loved
+   c) he has loved
+   d) he loved
+   **Respuesta correcta:** d) he loved.
+   **Retroalimentación:** En discurso indirecto, el presente simple (*love*) generalmente cambia a pasado simple (*loved*), y *I* pasa a *he*.
 
 2. *(Alternativas)* ¿Qué oración expresa correctamente **certeza sobre el
    pasado** usando un modal de especulación?
-   a) He must forgetting his homework.
-   b) He must have forgotten his homework.
+   a) He must have forgotten his homework.
+   b) He must forgetting his homework.
    c) He must forgot his homework.
    d) He must to forget his homework.
-   **Respuesta correcta:** b.
+   **Respuesta correcta:** a.
    **Retroalimentación:** La estructura correcta es *must have* + participio
    pasado (*forgotten*) para expresar certeza sobre algo ocurrido en el
    pasado.
@@ -368,48 +353,49 @@ estas estructuras con una postura personal crítica.
    **Retroalimentación:** *Might have* expresa posibilidad; para expresar
    certeza se usaría *must have*.
 
-4. *(Completar)* Complete the table with relevant information about a
-   personal interest topic: *"I've been learning to play the guitar for two
-   years. My favorite genre is rock, and I practice every day after
-   school."* Hobby: ___ / Time practicing: ___ / Favorite genre: ___
-   **Respuesta correcta:** playing the guitar / two years / rock.
-   **Retroalimentación:** Discriminar información relevante implica
-   seleccionar solo los datos que responden a las categorías pedidas, sin
-   agregar detalles innecesarios.
+4. *(Alternativas — Completar con tabla)* Read: *"I've been learning to play the guitar for two years. My favorite genre is rock, and I practice every day after school."* Which option completes *Hobby / Time practicing / Favorite genre*?
+   a) going to school / every day / rock
+   b) playing the guitar / two years / rock
+   c) playing the guitar / every day / jazz
+   d) rock / two years / guitar
+   **Respuesta correcta:** b) playing the guitar / two years / rock.
+   **Retroalimentación:** Discriminar información relevante implica seleccionar solo los datos que responden a las categorías pedidas.
 
-5. *(Selección — dos opciones)* Relaciona el modal con su significado: *"can't have"* →
-   ¿"imposibilidad" o "posibilidad"?
-   **Respuesta correcta:** imposibilidad.
-   **Retroalimentación:** *Can't have* + participio expresa que algo es
-   imposible que haya ocurrido, según la evidencia disponible.
+5. *(Alternativas — Selección)* ¿Qué significa el modal *"can't have"* + participio?
+   a) Posibilidad: quizás ocurrió, pero no hay certeza
+   b) Obligación: era necesario que ocurriera así
+   c) Imposibilidad: es imposible que haya ocurrido
+   d) Permiso: se permitió que ocurriera en el pasado
+   **Respuesta correcta:** c) Imposibilidad: es imposible que haya ocurrido.
+   **Retroalimentación:** *Can't have* + participio expresa que algo es imposible que haya ocurrido, según la evidencia disponible.
 
-6. *(Responder en inglés)* Read: *"My friend said, 'I finished the book
-   last night.'"* Answer: *Rewrite this sentence using reported speech.*
-   **Respuesta correcta:** *My friend said that she/he had finished the book
-   the night before (previously).*
-   **Retroalimentación:** Se evalúa el cambio correcto de tiempo verbal
-   (pasado simple → pasado perfecto) y de referencias temporales (*last
-   night* → *the night before*).
+6. *(Alternativas — Discurso indirecto)* Read: *"My friend said, 'I finished the book last night.'"* Which option rewrites it correctly in reported speech?
+   a) My friend said that she had finished the book the night before.
+   b) My friend said that I finish the book last night, in the past.
+   c) My friend said that she finishes the book tonight, after dinner.
+   d) My friend says that she will finish the book the night before.
+   **Respuesta correcta:** a) My friend said that she had finished the book the night before.
+   **Retroalimentación:** Cambian el tiempo verbal (pasado simple → pasado perfecto) y las referencias temporales (*last night* → *the night before*).
 
 7. *(Alternativas — desafiante)* Tu compañero llegó tarde y tiene la ropa
    mojada, pero no ha llovido en tu ciudad. ¿Qué oración usa correctamente un
    modal de especulación para esta situación?
    a) He must have walked through a sprinkler or spilled water on himself.
-   b) He must walking through a sprinkler.
+   b) He must walking through a sprinkler or spill water on himself.
    c) He has must walked through a sprinkler.
-   d) He must to have walked through a sprinkler.
+   d) He must to have walked through a sprinkler or spilled water on him.
    **Respuesta correcta:** a.
    **Retroalimentación:** Ante evidencia ambigua (ropa mojada sin lluvia),
    *must have* + participio permite especular con alta certeza sobre una
    causa posible.
 
-8. *(Completar — desafiante)* Complete with reported speech: *"We are going
-   to travel to Japan next year," they said. → They said that ___ to Japan
-   the following year.*
-   **Respuesta correcta:** they were going to travel.
-   **Retroalimentación:** El presente continuo con valor de futuro (*are
-   going to*) cambia a pasado continuo (*were going to*) en discurso
-   indirecto, y *next year* cambia a *the following year*.
+8. *(Alternativas — Completar — desafiante)* Complete with reported speech: *"We are going to travel to Japan next year," they said. → They said that ___ to Japan the following year.*
+   a) we are going to travel
+   b) they are going to travel
+   c) they will travel
+   d) they were going to travel
+   **Respuesta correcta:** d) they were going to travel.
+   **Retroalimentación:** *Are going to* cambia a *were going to* en discurso indirecto, y *next year* cambia a *the following year*.
 
 9. *(Verdadero o falso — desafiante)* Al escribir un texto breve sobre un
    tema de interés personal usando discurso indirecto y modales de
@@ -420,24 +406,20 @@ estas estructuras con una postura personal crítica.
    gramatical con la construcción de una postura personal crítica, no solo
    el uso mecánico de estructuras.
 
-10. *(Escribir siguiendo modelo — desafiante)* Completa usando las
-    estructuras trabajadas: *"My friend told me that ___ (reported speech,
-    sobre un tema de interés). I think this ___ (modal de especulación)
-    true, because ___ (justificación)."*
-    **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"My
-    friend told me that video games could improve problem-solving skills. I
-    think this might have been proven by some studies, because many
-    educational games are designed to develop logical thinking."*
-    **Retroalimentación:** Se evalúa la integración fluida de discurso
-    indirecto, un modal de especulación y una postura personal justificada
-    sobre un tema de interés.
+10. *(Alternativas — Escribir siguiendo modelo — desafiante)* Which text correctly integrates reported speech, a modal of speculation and a justified personal opinion?
+    a) "My friend tell me that video games is good for problem-solving. I like it, because I think video games must improve everything and they is designed for learning."
+    b) "My friend told me that video games could improve problem-solving skills. I think this might be true, because many educational games are designed to develop logical thinking."
+    c) "Video games are good. I play them every day after school with my friends, and I think they are fun because they have nice graphics and music."
+    d) "My friend said: 'I love video games.' The end."
+    **Respuesta correcta:** b) "My friend told me that video games could improve problem-solving skills. I think this might be true, because many educational games are designed to develop logical thinking.".
+    **Retroalimentación:** El modelo combina *told me that* + pasado (discurso indirecto), *might be* (especulación) y *because...* (justificación).
 
 11. *(Alternativas — desafiante)* Estás escribiendo una reseña breve (tipo
     de texto ya trabajado) sobre una serie de ciencia ficción. ¿Qué oración
     se ajusta mejor a la estructura de una reseña con postura crítica?
-    a) "The series has robots."
+    a) "The series has robots, spaceships and a lot of special effects, and the main character is a scientist. It has ten episodes."
     b) "In my opinion, the series' exploration of artificial intelligence raises questions that most viewers might have never considered before."
-    c) "I watched a series."
+    c) "I watched a series about robots last weekend with my family, and it had ten episodes in total."
     d) "Robots are in movies."
     **Respuesta correcta:** b.
     **Retroalimentación:** La opción b) combina una postura personal (*in my
@@ -445,46 +427,41 @@ estas estructuras con una postura personal crítica.
     contenido temático relevante, ajustándose a la estructura de una reseña
     crítica.
 
-12. *(Completar)* Complete with reported speech: *"I am learning to code
-    video games,"* said Ignacia. → Ignacia said that ___ to code video
-    games.
-    **Respuesta correcta:** she was learning.
-    **Retroalimentación:** El presente continuo (*am learning*) cambia a
-    pasado continuo (*was learning*) al pasar al discurso indirecto.
+12. *(Alternativas — Completar)* Complete with reported speech: *"I am learning to code video games,"* said Ignacia. → Ignacia said that ___ to code video games.
+    a) she is learning
+    b) I was learning
+    c) she was learning
+    d) she learns
+    **Respuesta correcta:** c) she was learning.
+    **Retroalimentación:** El presente continuo (*am learning*) cambia a pasado continuo (*was learning*) al pasar al discurso indirecto.
 
 13. *(Alternativas)* Tu amiga no contestó el teléfono anoche, pero sabes que
     ella siempre lo tiene encendido. ¿Qué modal de especulación expresa
     mejor esta situación de **duda razonable**, no de certeza total?
-    a) She must have lost her phone.
+    a) She must have lost her phone on the way home last night.
     b) She might have been asleep, or her phone might have been off.
-    c) She can't have a phone.
-    d) She has must forgotten her phone.
+    c) She can't have a phone, because she never answers my calls.
+    d) She has must forgotten her phone at school or at home.
     **Respuesta correcta:** b.
     **Retroalimentación:** *Might have* expresa una posibilidad razonable
     sin certeza absoluta, adecuada cuando hay varias explicaciones posibles
     para un mismo hecho.
 
-14. *(Completar con tabla)* Complete the table with relevant information
-    about a personal interest topic: *"I collect vintage vinyl records. I
-    have been doing it since I was twelve, and my favorite genre to collect
-    is jazz."* Hobby: ___ / Time doing it: ___ / Favorite genre: ___.
-    **Respuesta correcta:** collecting vintage vinyl records / since age
-    twelve / jazz.
-    **Retroalimentación:** Discriminar información relevante para una tabla
-    implica extraer solo los datos que corresponden a cada categoría
-    pedida, sin agregar información no solicitada.
+14. *(Alternativas — Completar con tabla)* Read: *"I collect vintage vinyl records. I have been doing it since I was twelve, and my favorite genre to collect is jazz."* Which option completes *Hobby / Time doing it / Favorite genre*?
+    a) collecting vintage vinyl records / since age twelve / jazz
+    b) listening to the radio / for twelve years / rock music
+    c) collecting vinyl records / since yesterday / pop music
+    d) jazz / since age twelve / vinyl
+    **Respuesta correcta:** a) collecting vintage vinyl records / since age twelve / jazz.
+    **Retroalimentación:** Discriminar información relevante implica extraer solo los datos que corresponden a cada categoría pedida.
 
-15. *(Producción breve — desafiante)* Escribe un texto breve (3-4 oraciones)
-    sobre un tema de tu interés personal, integrando discurso indirecto, un
-    modal de especulación y una postura personal justificada.
-    **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"My
-    coach told me that our team had trained harder than ever this season.
-    I think this must have paid off, because we won our last three matches.
-    In my opinion, consistent training is the main reason for our
-    improvement."*
-    **Retroalimentación:** Se evalúa la integración de las tres estructuras
-    trabajadas en este OA (discurso indirecto, modal de especulación,
-    postura personal) en un texto breve y coherente sobre un tema propio.
+15. *(Alternativas — Producción breve — desafiante)* Which short text integrates reported speech, a modal of speculation **and** a justified personal opinion?
+    a) "Our team trains every day after school. We won three matches this season, and our coach is very happy with the results."
+    b) "My coach says: 'Train harder!' I agree, because training is important. We must train harder than ever this season. We won three matches."
+    c) "I think our team is the best team."
+    d) "My coach told me that our team had trained harder than ever this season. I think this must have paid off, because we won our last three matches."
+    **Respuesta correcta:** d) "My coach told me that our team had trained harder than ever this season. I think this must have paid off, because we won our last three matches.".
+    **Retroalimentación:** *told me that... had trained* (discurso indirecto), *must have paid off* (especulación) y *because...* (postura justificada).
 
 ---
 
@@ -558,21 +535,22 @@ sobre otras visiones de mundo y la tuya propia.
 
 1. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
    sobre identidad cultural?
-   a) "I have a culture."
+   a) "I have a culture, and my culture is a culture that I have."
    b) "My heritage and upbringing have shaped my sense of belonging to my community."
-   c) "My country is nice."
-   d) "I like things from my culture."
+   c) "My country is nice and my community is nice, so I like it a lot."
+   d) "I like things from my culture, like the food and the music and stuff."
    **Respuesta correcta:** b.
    **Retroalimentación:** La opción b) usa vocabulario específico del campo
    semántico de la identidad (*heritage, upbringing, sense of belonging*),
    en vez de expresiones genéricas.
 
-2. *(Completar)* Complete the sentence using appropriate lexicon about
-   identity: *"Growing up speaking two languages has shaped my ___ (identity
-   / thing) in ways I'm still discovering."*
-   **Respuesta correcta:** identity.
-   **Retroalimentación:** El término específico (*identity*) es más
-   apropiado que una palabra genérica como *thing* para este tema.
+2. *(Alternativas — Completar)* Complete the sentence using appropriate lexicon about identity: *"Growing up speaking two languages has shaped my ___ in ways I'm still discovering."*
+   a) thing
+   b) identity
+   c) stuff
+   d) object
+   **Respuesta correcta:** b) identity.
+   **Retroalimentación:** El término específico (*identity*) es más apropiado que una palabra genérica como *thing* para este tema.
 
 3. *(Verdadero o falso)* Una síntesis de dos textos (uno leído y uno
    escuchado) debe combinar la información de ambas fuentes con las propias
@@ -581,51 +559,49 @@ sobre otras visiones de mundo y la tuya propia.
    **Retroalimentación:** Sintetizar exige reformular y combinar ideas, no
    transcribir fragmentos literales de las fuentes originales.
 
-4. *(Completar)* Complete the synthesis frame: *"According to the article,
-   ___. Meanwhile, in the interview, the speaker mentions that ___. Both
-   sources suggest that ___."*
-   **Respuesta esperada:** Respuesta personal coherente, integrando
-   información de ambas fuentes hipotéticas sobre un mismo tema.
-   **Retroalimentación:** Este marco (*according to... meanwhile... both
-   sources suggest...*) es una estructura útil para organizar una síntesis
-   clara.
+4. *(Alternativas — Marco de síntesis)* Which option uses the synthesis frame *"According to the article, ___. Meanwhile, in the interview, ___. Both sources suggest that ___."* correctly?
+   a) According to the article, I like pizza and pasta. Meanwhile, in the interview, the weather was nice and sunny. Both sources suggest that football is fun and that teenagers like sports.
+   b) According to the article, the article. Meanwhile, the interview. Both sources suggest.
+   c) According to the article, many teens feel proud of their roots. Meanwhile, in the interview, a student said that traditions made her feel connected. Both sources suggest that culture strengthens identity.
+   d) According to me, nothing. Meanwhile, nothing. Both sources suggest nothing.
+   **Respuesta correcta:** c) According to the article, many teens feel proud of their roots. Meanwhile, in the interview, a student said that traditions made her feel connected. Both sources suggest that culture strengthens identity.
+   **Retroalimentación:** Este marco (*according to... meanwhile... both sources suggest...*) organiza una síntesis coherente de dos fuentes sobre un mismo tema.
 
-5. *(Selección — dos opciones)* Relaciona la expresión con su función: *"overall"* →
-   ¿"introducir una conclusión general" o "citar una fuente específica"?
-   **Respuesta correcta:** introducir una conclusión general.
-   **Retroalimentación:** *Overall* se usa para resumir una idea general
-   después de haber presentado varios detalles.
+5. *(Alternativas — Selección)* ¿Qué función cumple *"overall"*?
+   a) Introducir una conclusión general
+   b) Citar una fuente específica del texto
+   c) Expresar una condición o una hipótesis
+   d) Dar un ejemplo concreto de una idea
+   **Respuesta correcta:** a) Introducir una conclusión general.
+   **Retroalimentación:** *Overall* se usa para resumir una idea general después de haber presentado varios detalles.
 
-6. *(Responder en inglés)* Read this short transcript: *"Interviewer: What
-   does being Chilean mean to you? Teenager: It means valuing family, sharing
-   good food, and being proud of where I come from, even when I disagree
-   with some things about my country."* Answer: *According to the teenager,
-   what does being Chilean mean to them?*
-   **Respuesta correcta:** *It means valuing family, sharing good food, and
-   being proud of their country, even while disagreeing with some things
-   about it.*
-   **Retroalimentación:** La respuesta debe usar la información explícita
-   del texto oral (transcripción), no una opinión personal del estudiante.
+6. *(Alternativas — Comprensión)* Read: *"Interviewer: What does being Chilean mean to you? Teenager: It means valuing family, sharing good food, and being proud of where I come from, even when I disagree with some things about my country."* According to the teenager, what does being Chilean mean?
+   a) Agreeing with everything about the country, even the things that are wrong, and never criticizing it in public
+   b) Living far away from their family and missing the country every day
+   c) Only cooking traditional food and celebrating national holidays
+   d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things
+   **Respuesta correcta:** d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things.
+   **Retroalimentación:** La respuesta debe usar la información explícita del texto oral (transcripción), no una opinión personal.
 
 7. *(Alternativas — desafiante)* Estás escribiendo un párrafo final sobre tu
    propia identidad, integrando estructuras de todo el ciclo escolar. ¿Qué
    oración logra esto de forma más completa?
    a) "I am Chilean."
    b) "If I hadn't grown up surrounded by traditions that are still celebrated today, I wouldn't have understood how much my roots have shaped who I am."
-   c) "My family likes traditions."
-   d) "Chile has many traditions."
+   c) "My family likes traditions, and we celebrate many of them every year with music and food. I think traditions are important for everybody in my country."
+   d) "Chile has many traditions that are celebrated in September, like dances, food and games."
    **Respuesta correcta:** b.
    **Retroalimentación:** La opción b) combina el tercer condicional, la voz
    pasiva (*are celebrated*) y una oración de relativo (*that are still
    celebrated*), integrando estructuras trabajadas a lo largo del ciclo.
 
-8. *(Completar — desafiante)* Complete the synthesis: *"The article claims
-   that teenagers who travel abroad develop a broader worldview. This idea
-   ___ (be supported) by the interview, where a student said that visiting
-   another country had changed the way she saw her own identity."*
-   **Respuesta correcta:** is supported.
-   **Retroalimentación:** La voz pasiva (*is supported*) es apropiada cuando
-   el foco está en la idea que es respaldada, no en quién la respalda.
+8. *(Alternativas — Completar — desafiante)* Complete the synthesis: *"The article claims that teenagers who travel abroad develop a broader worldview. This idea ___ by the interview, where a student said that visiting another country had changed the way she saw her own identity."*
+   a) supports
+   b) is supported
+   c) is supporting
+   d) support
+   **Respuesta correcta:** b) is supported.
+   **Retroalimentación:** La voz pasiva (*is supported*) es apropiada cuando el foco está en la idea respaldada, no en quién la respalda.
 
 9. *(Verdadero o falso — desafiante)* Sintetizar información de un texto
    leído y uno escuchado sobre un mismo tema puede incluir señalar tanto
@@ -635,20 +611,13 @@ sobre otras visiones de mundo y la tuya propia.
    que también identifica en qué coinciden o difieren las fuentes
    consultadas.
 
-10. *(Escribir siguiendo modelo — desafiante)* Completa un párrafo de
-    cierre integrando léxico apropiado, una estructura gramatical del ciclo
-    y una reflexión sobre identidad: *"Looking back at everything I've
-    learned about other cultures and my own, I realize that ___. If I hadn't
-    ___, I wouldn't have ___."*
-    **Respuesta esperada:** Respuesta personal coherente, por ejemplo:
-    *"Looking back at everything I've learned about other cultures and my
-    own, I realize that identity is built through both roots and new
-    experiences. If I hadn't compared my traditions with those of other
-    countries, I wouldn't have valued my own culture as much as I do now."*
-    **Retroalimentación:** Se evalúa la integración fluida de léxico
-    apropiado, una estructura gramatical trabajada (aquí, tercer
-    condicional) y una reflexión genuina sobre identidad — el cierre del
-    ciclo escolar de inglés.
+10. *(Alternativas — Escribir siguiendo modelo — desafiante)* Which closing paragraph correctly integrates a reflection on identity with the third conditional?
+    a) "Looking back, I realize identity is built through roots. If I don't compare my traditions with those of other countries, I won't value my own culture as much."
+    b) "If I would have compared my traditions with those of other countries, I would valued my culture more. Identity is built through roots and experiences. Looking back, I realize this."
+    c) "Looking back, I realize that identity is built through both roots and new experiences. If I hadn't compared my traditions with those of other countries, I wouldn't have valued my own culture as much."
+    d) "Identity is good. The end."
+    **Respuesta correcta:** c) "Looking back, I realize that identity is built through both roots and new experiences. If I hadn't compared my traditions with those of other countries, I wouldn't have valued my own culture as much.".
+    **Retroalimentación:** El tercer condicional usa *if + had + participio, would have + participio*; el párrafo además incluye léxico apropiado y una reflexión genuina.
 
 11. *(Verdadero o falso — desafiante)* Producir un texto "con fluidez" según
     este OA significa únicamente escribir muchas oraciones, sin importar si
@@ -662,22 +631,20 @@ sobre otras visiones de mundo y la tuya propia.
     sobre el sentido de pertenencia a una comunidad?
     a) "I know people."
     b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions."
-    c) "My town is fine."
-    d) "There are people near my house."
+    c) "My town is fine, and there are some shops and a park near my house."
+    d) "There are people near my house, and some of them are my neighbors and friends. We say hello every day."
     **Respuesta correcta:** b.
     **Retroalimentación:** La opción b) usa vocabulario específico del campo
     semántico (*sense of belonging, shared traditions*), en vez de
     expresiones vagas y genéricas.
 
-13. *(Completar)* Complete the synthesis frame with connectors: *"___ the
-    article, teenagers who volunteer report higher self-esteem. ___, in the
-    interview, a student mentioned that helping others made her feel more
-    confident. Both sources ___ that volunteering has a positive effect on
-    identity."* (According to / Meanwhile / suggest)
-    **Respuesta correcta:** According to / Meanwhile / suggest.
-    **Retroalimentación:** Este marco de síntesis organiza la información de
-    dos fuentes distintas (texto leído y texto escuchado) antes de llegar a
-    una conclusión conjunta.
+13. *(Alternativas — Completar)* Complete the synthesis frame with connectors: *"___ the article, teenagers who volunteer report higher self-esteem. ___, in the interview, a student mentioned that helping others made her feel more confident. Both sources ___ that volunteering has a positive effect on identity."*
+    a) According to / Meanwhile / suggest
+    b) Meanwhile / According to / suggest
+    c) Because / However / deny
+    d) According to / Therefore / refuse
+    **Respuesta correcta:** a) According to / Meanwhile / suggest.
+    **Retroalimentación:** Este marco organiza la información de dos fuentes distintas (texto leído y escuchado) antes de llegar a una conclusión conjunta.
 
 14. *(Verdadero o falso)* Si un artículo leído afirma que la tecnología
     dificulta las relaciones cara a cara, pero una entrevista escuchada
@@ -689,19 +656,13 @@ sobre otras visiones de mundo y la tuya propia.
     coincidan: también es válido —y esperado— señalar cuándo dos fuentes
     presentan visiones distintas sobre un mismo tema.
 
-15. *(Producción breve — desafiante)* Escribe una síntesis breve (3-4
-    oraciones) combinando información de un texto leído (inventado) y un
-    texto escuchado (inventado) sobre un mismo tema de identidad o cultura,
-    señalando en qué coinciden o difieren.
-    **Respuesta esperada:** Respuesta personal coherente, por ejemplo:
-    *"According to the article, many young Chileans feel a strong
-    connection to their regional roots. Meanwhile, in the interview, a
-    teenager from the south said that moving to the city made her value her
-    hometown traditions even more. Both sources suggest that distance can
-    actually strengthen one's sense of identity."*
-    **Retroalimentación:** Se evalúa la integración de dos fuentes distintas
-    en un texto propio y coherente, sin copiar oraciones literales,
-    cerrando la habilidad de síntesis que exige este OA.
+15. *(Alternativas — Síntesis — desafiante)* Which short text combines information from a read text and a heard text on identity, without copying sentences literally?
+    a) "I like the south of Chile. It is beautiful."
+    b) "The article is about identity and young Chileans. The interview is about identity and a teenager from the south. Both sources are about identity. The article says many young Chileans feel a strong connection to their regional roots. The interview says moving to the city made her value her hometown."
+    c) "According to the article, the article says that the article is interesting. Meanwhile, the interview says that the interview is interesting. Both sources suggest that the sources are interesting, and I think identity is interesting too, because it is about identity and roots and the south of Chile."
+    d) "According to the article, many young Chileans feel a strong connection to their regional roots. Meanwhile, in the interview, a teenager from the south said that moving to the city made her value her hometown traditions even more. Both sources suggest that distance can strengthen one's sense of identity."
+    **Respuesta correcta:** d) "According to the article, many young Chileans feel a strong connection to their regional roots. Meanwhile, in the interview, a teenager from the south said that moving to the city made her value her hometown traditions even more. Both sources suggest that distance can strengthen one's sense of identity.".
+    **Retroalimentación:** Se integran dos fuentes distintas en un texto propio y coherente, señalando en qué coinciden.
 
 ---
 

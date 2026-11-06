@@ -7,6 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
 
+from parser_contenido import clave_valida  # noqa: E402
 from parser_prueba_examen import parsear_prueba_o_examen
 
 
@@ -32,14 +33,13 @@ def test_ingles_5b_simulacro_p9_pauta_respeta_horario_de_tarde():
         (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
         if p.numero == 9
     )
-    assert pregunta.tipo == "desarrollo_breve"
-    assert pregunta.opciones is None
+    assert pregunta.tipo == "alternativas"
     assert "four o'clock in the afternoon" in pregunta.enunciado
     assert pauta.codigo_oa == "OA 6"
-    assert "At 4 pm" in pauta.respuesta_correcta
-    assert "sin especificar am/pm" not in pauta.retroalimentacion
-    assert "No aceptar 4 am" in pauta.retroalimentacion
-    assert "aceptar también At 4 por el contexto" in pauta.retroalimentacion
+    assert pauta.respuesta_correcta == "At four o'clock in the afternoon."
+    assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
+    assert "At four o'clock in the morning." in pregunta.opciones
+    assert "no corresponde 4 am" in pauta.retroalimentacion
 
 
 def test_ingles_5b_simulacro_p17_completa_instruccion_sin_pista_de_rima():
@@ -63,7 +63,7 @@ def test_ingles_5b_simulacro_p17_completa_instruccion_sin_pista_de_rima():
     (12, "OA 7", "La vida fronteriza"),
     (14, "OA 9", "Zona Sur"),
     (17, "OA 9", "Zona Central"),
-    (20, "OA 10", "renovable"),
+    (20, "OA 10", "regenerarse"),
     (21, "OA 13", "Todas las personas"),
     (24, "OA 14", "Todas las personas"),
 ])
@@ -75,13 +75,8 @@ def test_historia_5b_simulacro_deltas_conservan_claves_y_pautas(numero, oa, frag
     )
     assert pauta.codigo_oa == oa
     assert fragmento in pauta.respuesta_correcta
-    if numero in (17, 20):
-        assert pregunta.tipo == "desarrollo_breve"
-        assert pregunta.opciones is None
-        assert "1 punto" in pauta.retroalimentacion
-    else:
-        assert pregunta.tipo == "alternativas"
-        assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
+    assert pregunta.tipo == "alternativas"
+    assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
 
 
 def test_historia_5b_p1_no_atribuye_todas_las_fundaciones_a_otros_capitanes():
@@ -111,7 +106,8 @@ def test_historia_5b_p3_y_guia_no_confunden_once_anos_con_varias_decadas():
     assert "al norte de Santiago" in item.enunciado
     assert "al sur de Santiago" in item.enunciado
     assert "varias décadas" not in " ".join(item.respuesta_correcta.split())
-    assert "11 años" in item.respuesta_correcta
+    assert "varias décadas" not in " ".join(item.retroalimentacion.split())
+    assert "11 años" in item.retroalimentacion
 
 
 def test_lenguaje_5b_p2_admite_personificacion_fundamentada_sin_autocorreccion():
@@ -120,13 +116,15 @@ def test_lenguaje_5b_p2_admite_personificacion_fundamentada_sin_autocorreccion()
         (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
         if p.numero == 2
     )
-    assert pregunta.tipo == "desarrollo_breve"
-    assert pregunta.opciones is None
+    # Al pasar a alternativas, la lectura como personificación fundamentada sigue siendo
+    # correcta: por eso es «varias correctas» (metáfora y personificación), no una sola clave.
+    import json
+    assert pregunta.tipo == "varias_correctas"
     assert pauta.codigo_oa == "OA 4"
-    assert "metáfora" in pauta.respuesta_correcta
-    assert "También se acepta personificación si el estudiante la fundamenta" in pauta.retroalimentacion
-    assert "la greda no miente" in pauta.retroalimentacion
-    assert "requieren tiempo" in pauta.retroalimentacion
+    correctas = json.loads(pauta.respuesta_correcta)
+    assert len(correctas) == 2 and all(c in pregunta.opciones for c in correctas)
+    assert any("metáfora" in c for c in correctas)
+    assert any("personificación" in c and "la greda no miente" in c for c in correctas)
 
 
 def test_encabezados_texto_con_rangos_adjuntan_solo_el_estimulo_correspondiente():
@@ -171,29 +169,29 @@ def test_lenguaje_6b_p22_recibe_textos_compartidos_sin_contaminar_p8():
 @pytest.mark.parametrize("numero,fragmento,oa,tipo", [
     (1, "Drive a bus", "OA 5", "alternativas"),
     (2, "Behind the church", "OA 5", "alternativas"),
-    (3, "past", "OA 5", "desarrollo_breve"),
-    (4, "By bike", "OA 5", "desarrollo_breve"),
-    (5, "fourteen", "OA 5", "desarrollo_breve"),
+    (3, "past", "OA 5", "alternativas"),
+    (4, "She went to school by bicycle", "OA 5", "alternativas"),
+    (5, "fourteen", "OA 5", "alternativas"),
     (6, "To advertise a dental clinic", "OA 6", "alternativas"),
     (7, "Next week", "OA 6", "alternativas"),
-    (8, "have / welcome", "OA 6", "desarrollo_breve"),
-    (9, "4 pm", "OA 6", "desarrollo_breve"),
+    (8, "have / welcome", "OA 6", "alternativas"),
+    (9, "It closes at 4 pm", "OA 6", "alternativas"),
     (10, "Falso", "OA 6", "verdadero_falso"),
     (11, "I feel excited", "OA 8", "alternativas"),
     (12, "Very happy", "OA 5", "alternativas"),
-    (13, "because", "OA 8", "desarrollo_breve"),
-    (14, "Ambos personajes son válidos", "OA 8", "desarrollo_breve"),
-    (15, "Respuesta personal", "OA 8", "desarrollo_breve"),
+    (13, "because", "OA 8", "alternativas"),
+    (14, "I like the seal more because", "OA 8", "alternativas"),
+    (15, "Yes, I do, because", "OA 8", "alternativas"),
     (16, "on", "OA 14", "alternativas"),
     (17, "mat", "OA 14", "alternativas"),
-    (18, "Dear / See you soon", "OA 14", "desarrollo_breve"),
-    (19, "Here you are, some carrots!", "OA 14", "desarrollo_breve"),
-    (20, "cuatro espacios", "OA 14", "desarrollo_breve"),
+    (18, "Dear / See you soon", "OA 14", "alternativas"),
+    (19, "Here you are, some carrots!", "OA 14", "alternativas"),
+    (20, "Hi Martín!", "OA 14", "alternativas"),
     (21, "she isn't", "OA 15", "alternativas"),
     (22, "children", "OA 15", "alternativas"),
-    (23, "have", "OA 15", "desarrollo_breve"),
-    (24, "slowly / fast", "OA 15", "desarrollo_breve"),
-    (25, "How many books are there on the desk?", "OA 15", "desarrollo_breve"),
+    (23, "have", "OA 15", "alternativas"),
+    (24, "slowly / fast", "OA 15", "alternativas"),
+    (25, "How many books are there on the desk?", "OA 15", "alternativas"),
 ])
 def test_ingles_6b_simulacro_claves_pautas_y_objetivos(numero, fragmento, oa, tipo):
     ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/examenes/ingles-examen-forma-b.md"
@@ -204,13 +202,7 @@ def test_ingles_6b_simulacro_claves_pautas_y_objetivos(numero, fragmento, oa, ti
     assert pregunta.tipo == tipo
     assert pauta.codigo_oa == oa
     assert fragmento in pauta.respuesta_correcta
-    if pregunta.opciones:
-        assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
-    else:
-        assert tipo == "desarrollo_breve"
-    if numero == 14:
-        assert "No exigir literalmente because" in pauta.retroalimentacion
-        assert "I like the seal. It helps the penguin." in pauta.retroalimentacion
+    assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
 
 
 def test_ingles_6b_recuentos_reflejan_vf_cerrado_y_lectura_literal_p12():
@@ -220,12 +212,12 @@ def test_ingles_6b_recuentos_reflejan_vf_cerrado_y_lectura_literal_p12():
     texto = ruta.read_text(encoding="utf-8")
     preguntas = parsear_prueba_o_examen(texto)
     assert [p.numero for p, r in preguntas] == list(range(1, 26))
-    assert Counter(p.tipo for p, r in preguntas) == {"alternativas": 10, "verdadero_falso": 1, "desarrollo_breve": 14}
+    assert Counter(p.tipo for p, r in preguntas) == {"alternativas": 24, "verdadero_falso": 1}
     assert Counter(r.codigo_oa for p, r in preguntas) == {"OA 5": 6, "OA 6": 5, "OA 8": 4, "OA 14": 5, "OA 15": 5}
-    assert "| OA 5 | 1, 2, 3, 4, 5, 12 | 3 | 3 |" in texto
-    assert "| OA 6 | 6, 7, 8, 9, 10 | 3 | 2 |" in texto
-    assert "| OA 8 | 11, 13, 14, 15 | 1 | 3 |" in texto
-    assert "| **Total** | **25 preguntas** | **11** | **14** |" in texto
+    assert "| OA 5 | 1, 2, 3, 4, 5, 12 | 6 |" in texto
+    assert "| OA 6 | 6, 7, 8, 9, 10 | 5 |" in texto
+    assert "| OA 8 | 11, 13, 14, 15 | 4 |" in texto
+    assert "| **Total** | **25 preguntas** | **25** |" in texto
 
 
 @pytest.mark.parametrize("etiqueta", ["Verdadero o falso", "V/F"])
@@ -338,7 +330,9 @@ def test_pubertad_sexto_basico_no_presenta_vello_facial_como_exclusivo():
     ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md"
     pregunta, pauta = next((p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")) if p.numero == 9)
     assert "exclusivos" not in pregunta.enunciado
-    assert "no es exclusivo" in pauta.retroalimentacion
+    assert pregunta.tipo == "varias_correctas"
+    assert not any("vello facial" in o for o in pregunta.opciones)
+    assert "no exclusivos" in pauta.retroalimentacion
 
 
 def test_ingles_primero_medio_comprension_no_depende_de_porcentaje_de_oxigeno():
@@ -390,17 +384,18 @@ def test_barra_condicional_escapada_no_desplaza_columnas_de_la_pauta():
 
 @pytest.mark.parametrize("curso,numero,resultado", [
     ("03-medio", 23, "5/14"),
-    ("03-medio", 25, "0,124 (12,4%)"),
+    ("03-medio", 25, "12,4%"),
     ("04-medio", 25, "0,078 (7,8%)"),
 ])
 def test_pautas_reales_de_probabilidad_conservan_desarrollo_y_oa(curso, numero, resultado):
     ruta = Path(__file__).resolve().parents[2] / "contenido" / curso / "examenes/matematica-examen-forma-b.md"
     preguntas = parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
-    pauta = next(pauta for pregunta, pauta in preguntas if pregunta.numero == numero)
+    pregunta, pauta = next((p, r) for p, r in preguntas if p.numero == numero)
     assert pauta.codigo_oa == "OA 2"
+    assert pregunta.tipo == "alternativas"
+    assert pregunta.opciones.count(pauta.respuesta_correcta) == 1
     assert resultado in pauta.respuesta_correcta
     assert resultado in pauta.retroalimentacion
-    assert r"\|" in pauta.respuesta_correcta
 
 
 @pytest.mark.parametrize("curso,esperados", [
@@ -675,8 +670,11 @@ def test_continuacion_numerica_no_sobrescribe_clave_de_biologia():
     texto = (CONTENIDO / "01-medio/pruebas/ciencias-naturales-unidad-biologia.md").read_text()
     resultado = {p.numero: (p, pauta) for p, pauta in parsear_prueba_o_examen(texto)}
     pregunta, pauta = resultado[5]
-    assert pauta.respuesta_correcta == pregunta.opciones[1] == "Una población"
-    assert "5.000 × 0,10 = 500 kcal disponibles." in resultado[10][1].retroalimentacion
+    assert pauta.respuesta_correcta == "Una población"
+    assert pregunta.opciones.count("Una población") == 1
+    assert resultado[10][1].respuesta_correcta == "500 kcal"
+    assert resultado[10][0].opciones.count("500 kcal") == 1
+    assert "5.000 × 0,10 = 500 kcal" in resultado[10][1].retroalimentacion
 
 
 def test_letra_sola_y_pautas_abiertas_con_vinetas_no_absorben_encabezados():
@@ -685,10 +683,13 @@ def test_letra_sola_y_pautas_abiertas_con_vinetas_no_absorben_encabezados():
     pregunta, pauta = resultado[15]
     assert pauta.respuesta_correcta == pregunta.opciones[1]
     assert pauta.retroalimentacion == "b"
+    # Las antiguas pautas abiertas con viñetas («- **N.** …») pasaron a alternativas: la
+    # clave debe ser exactamente una opción y la explicación empezar por su letra.
     for numero in (3, 4, 8, 9, 13, 14):
-        esperado = re.search(rf"^- \*\*{numero}\.\*\* (.+)$", texto, re.MULTILINE).group(1)
-        assert resultado[numero][1].respuesta_correcta == esperado
-        assert resultado[numero][1].retroalimentacion == esperado
+        pregunta_n, pauta_n = resultado[numero]
+        assert pregunta_n.opciones.count(pauta_n.respuesta_correcta) == 1
+        letra = "abcde"[pregunta_n.opciones.index(pauta_n.respuesta_correcta)]
+        assert pauta_n.retroalimentacion.startswith(f"{letra}) ")
 
 
 @pytest.mark.parametrize("curso,numero", [
@@ -696,19 +697,23 @@ def test_letra_sola_y_pautas_abiertas_con_vinetas_no_absorben_encabezados():
 ] + [
     ("04-medio", n) for n in (4, 6, 12, 13, 18, 19, 23, 24, 25)
 ])
-def test_rubricas_narrativas_integras_junto_a_tabla_de_claves(curso, numero):
+def test_pautas_narrativas_junto_a_tabla_de_claves_resuelven_la_clave(curso, numero):
+    """Las antiguas rúbricas narrativas («**Pregunta N (…).** …») ahora son la pauta de
+    preguntas de alternativas: deben resolverse a una clave válida, con su explicación."""
     texto = (CONTENIDO / curso / "examenes/filosofia-examen-forma-b.md").read_text()
     resultado = {p.numero: (p, pauta) for p, pauta in parsear_prueba_o_examen(texto)}
-    esperado = re.search(
+    linea = re.search(
         rf"^\*\*Pregunta {numero} \([^\n]+?\)\.\*\* (.+)$", texto, re.MULTILINE
     ).group(1).replace("*", "")
-    pauta = resultado[numero][1]
+    pregunta, pauta = resultado[numero]
     assert pauta is not None
-    assert pauta.respuesta_correcta == esperado
-    assert pauta.retroalimentacion == esperado
+    assert pregunta.tipo in ("alternativas", "varias_correctas")
+    assert pauta.retroalimentacion == linea
+    if pregunta.tipo == "alternativas":
+        letra = "abcde"[pregunta.opciones.index(pauta.respuesta_correcta)]
+        assert linea.startswith(f"{letra}) ")
     for pregunta, clave in resultado.values():
-        if pregunta.opciones:
-            assert clave.respuesta_correcta in pregunta.opciones
+        assert clave_valida(pregunta.tipo, clave.respuesta_correcta, pregunta.opciones)
 
 
 TEXTO_RESPUESTA_EN_NEGRITA = """
@@ -754,7 +759,7 @@ def test_prueba_real_ingles_1medio_unidad_1_no_deja_pautas_vacias():
     texto = (CONTENIDO / "01-medio/pruebas/ingles-unidad-1.md").read_text()
     resultado = {p.numero: (p, pauta) for p, pauta in parsear_prueba_o_examen(texto)}
     assert all(pauta.respuesta_correcta.strip() for _, pauta in resultado.values())
-    assert resultado[2][1].respuesta_correcta.startswith("about / how.")
+    assert resultado[2][1].respuesta_correcta == "about / how"
     assert resultado[3][0].tipo == "verdadero_falso"
     assert resultado[3][1].respuesta_correcta == "Falso"
     assert resultado[3][1].retroalimentacion.startswith("False (Falso)")
@@ -815,9 +820,10 @@ def test_examen_real_4medio_lengua_forma_b_recupera_las_25_pautas():
     assert all(pauta is not None and pauta.respuesta_correcta.strip() for _, pauta in resultado.values())
     assert resultado[4][1].respuesta_correcta == "Falso"
     assert resultado[9][1].respuesta_correcta == resultado[9][0].opciones[3]
-    # Rúbrica manual específica por número, sin mezclar criterios de vecinas
-    assert "salitrero" in resultado[5][1].retroalimentacion
-    assert "salitrero" not in resultado[4][1].retroalimentacion
+    # La explicación de cada número no se mezcla con la de sus vecinas
+    assert "canjeable" in resultado[5][1].retroalimentacion
+    assert "canjeable" not in resultado[4][1].retroalimentacion
+    assert "Pregunta manual" not in texto
 
 
 @pytest.mark.parametrize("formato", ["lista", "tabla"])
@@ -831,3 +837,56 @@ def test_respuesta_abierta_larga_no_se_trunca(formato):
     respuesta = parsear_prueba_o_examen(texto)[0][1]
     assert respuesta.respuesta_correcta == esperado
     assert respuesta.retroalimentacion == esperado
+
+
+@pytest.mark.parametrize("etiqueta,enunciado", [
+    ("Verdadero o falso — límites de un argumento", "Una encuesta a 30 personas prueba lo que piensa todo el país."),
+    ("Verdadero o falso", 'Read: "This text was published to explain new rules." Statement: Its purpose is to entertain.'),
+])
+def test_vf_con_sustantivo_o_infinitivo_no_se_vuelve_abierto(etiqueta, enunciado):
+    """«argumento» (sustantivo) en la etiqueta o «to explain» dentro de un estímulo no piden
+    respuesta escrita: el V/F debe seguir siendo autocorregible."""
+    texto = f"**1. ({etiqueta})** {enunciado}\n## Pauta de respuestas\n1. Falso. Explicación."
+    pregunta, _ = parsear_prueba_o_examen(texto)[0]
+    assert pregunta.tipo == "verdadero_falso"
+
+
+def test_corpus_completo_sin_preguntas_abiertas_y_con_claves_validas():
+    """Decisión 2026-11-06: todo el material es de alternativas (una o varias correctas) o
+    verdadero/falso. Ninguna prueba, simulacro ni guía debe volver a tener preguntas que la
+    app no pueda corregir, y toda clave debe corresponder a sus opciones."""
+    from parser_contenido import parsear_guia
+
+    abiertas, invalidas = [], []
+    for ruta in sorted(CONTENIDO.rglob("*.md")):
+        if ruta.name.startswith("00-"):
+            continue
+        texto = ruta.read_text(encoding="utf-8")
+        if ruta.parent.name in ("pruebas", "examenes"):
+            pares = [(p.numero, p.tipo, r.respuesta_correcta, p.opciones) for p, r in parsear_prueba_o_examen(texto)]
+        else:
+            pares = [(i, q.tipo, q.respuesta_correcta, q.opciones) for oa in parsear_guia(texto) for i, q in enumerate(oa.preguntas, 1)]
+        for numero, tipo, clave, opciones in pares:
+            if tipo == "desarrollo_breve":
+                abiertas.append(f"{ruta.relative_to(CONTENIDO)}#{numero}")
+            elif not clave_valida(tipo, clave, opciones):
+                invalidas.append(f"{ruta.relative_to(CONTENIDO)}#{numero}")
+    assert abiertas == []
+    assert invalidas == []
+
+
+def test_regla_horizontal_cierra_la_ultima_opcion():
+    """Caso real (8 exámenes integrados 1B–4B): «*Fin de la prueba…*» tras un «---» se pegaba a
+    la última opción de la P20 (en 4B Forma B, a la clave)."""
+    texto = (
+        "**1.** ¿Pregunta?\n\na) Uno\nb) Dos\n\n---\n\n*Fin de la prueba. Revisa tus respuestas antes de entregar.*\n\n---\n\n"
+        "## Pauta de respuestas\n\n1. b) Dos"
+    )
+    pregunta, pauta = parsear_prueba_o_examen(texto)[0]
+    assert pregunta.opciones == ["Uno", "Dos"]
+    assert pauta.respuesta_correcta == "Dos"
+    for curso in ("01-basico", "02-basico", "03-basico", "04-basico"):
+        for forma in ("a", "b"):
+            ruta = CONTENIDO / curso / f"examenes/examen-integrado-forma-{forma}.md"
+            for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+                assert not any("Revisa tus respuestas" in o or "responde las pregunta" in o for o in p.opciones or [])

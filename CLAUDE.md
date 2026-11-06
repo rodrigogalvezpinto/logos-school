@@ -8,7 +8,14 @@
 **Nombre oficial del producto: "Logos School"** (no solo "Logos") — usar este nombre en
 copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la marca.
 
-> **Estado vigente (2026-11-02): auditoría educativa EN CURSO, sin aprobación global.**
+> **Decisión vigente (2026-11-06): todo el material es de preguntas cerradas** —alternativas,
+> «varias correctas» (marca todas; todo o nada) y verdadero/falso— en guías, pruebas y simulacros
+> de los 12 cursos: 6.150 preguntas y 0 abiertas. Las 3.299 abiertas originales están en
+> `docs/banco-preguntas-abiertas/`. No reintroducir preguntas de desarrollo sin un corrector validado.
+> La guarda `test_corpus_completo_sin_preguntas_abiertas_y_con_claves_validas` lo exige. Estado y
+> pendientes (segunda auditoría de los ítems nuevos y sesgos de clave) en auditoría maestra §15.23.
+>
+> **Estado vigente (2026-11-06): auditoría educativa EN CURSO, sin aprobación global.**
 > Se trabaja en `main`; el usuario solicita commit/push del avance como checkpoint, no cierre.
 > Alcance: material, temarios y funcionamiento de respuestas. No repetir lo ya aprobado en
 > su versión actual; cola de deltas y estado por curso en auditoría maestra §15.20–21. No desplegar.

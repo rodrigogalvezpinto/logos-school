@@ -192,4 +192,68 @@ describe('EvaluacionRunner - UX y Autoevaluación', () => {
     runner.responder(103, 'verdadero');
     expect(runner.esCorrectaEnAutoevaluacion(mockPreguntas[2])).toBe(true);
   });
+  describe('varias_correctas (decisión 2026-11-06)', () => {
+    const varias: PreguntaRunner = {
+      id: 201,
+      tipo: 'varias_correctas',
+      enunciado: '¿Qué necesita una planta para fotosintetizar? Marca todas las correctas.',
+      opciones: ['Luz', 'Sal', 'Agua', 'Arena'],
+      respuesta_correcta: JSON.stringify(['Luz', 'Agua']),
+      retroalimentacion: 'Luz y agua (además de CO2).',
+    };
+
+    beforeEach(() => {
+      runner.preguntas = [varias];
+    });
+
+    it('guarda la selección en el orden de las opciones y la corrige todo o nada', () => {
+      runner.alternarVarias(varias, 'Agua');
+      expect(runner.esCorrectaEnAutoevaluacion(varias)).toBe(false);
+      runner.alternarVarias(varias, 'Luz');
+      expect(runner.respuestas()[201]).toBe(JSON.stringify(['Luz', 'Agua']));
+      expect(runner.esCorrectaEnAutoevaluacion(varias)).toBe(true);
+      runner.alternarVarias(varias, 'Sal');
+      expect(runner.esCorrectaEnAutoevaluacion(varias)).toBe(false);
+    });
+
+    it('desmarcar todo deja la pregunta como pendiente', () => {
+      runner.alternarVarias(varias, 'Luz');
+      runner.alternarVarias(varias, 'Luz');
+      expect(runner.respuestas()[201]).toBe('');
+      expect(runner.faltantes().map((p) => p.id)).toEqual([201]);
+    });
+
+    it('muestra la clave como texto legible y cuenta como autocorregible', () => {
+      expect(runner.textoRespuesta(varias.respuesta_correcta, varias.tipo)).toBe('Luz; Agua');
+      expect(runner.textoRespuesta('no-json', varias.tipo)).toBe('');
+      expect(runner.totalAutocorregible()).toBe(1);
+      expect(runner.todasAutocorregibles()).toBe(true);
+    });
+
+    it('renderiza casillas, no botones de radio, con la instrucción visible', () => {
+      const fixture = TestBed.createComponent(EvaluacionRunner);
+      fixture.componentRef.setInput('preguntas', [varias]);
+      fixture.componentInstance.empezar();
+      fixture.detectChanges();
+      const el: HTMLElement = fixture.nativeElement;
+      expect(el.querySelectorAll('input[type="checkbox"][value]').length).toBe(4);
+      expect(el.querySelectorAll('input[type="radio"]').length).toBe(0);
+      expect(el.querySelector('.opciones__instruccion')?.textContent).toContain('todas las alternativas correctas');
+    });
+
+    it('con todas las preguntas autocorregibles la nota no se rotula como parcial', () => {
+      const fixture = TestBed.createComponent(EvaluacionRunner);
+      fixture.componentRef.setInput('modo', 'prueba');
+      fixture.componentRef.setInput('preguntas', [varias]);
+      const componente = fixture.componentInstance;
+      componente.empezada.set(true);
+      componente.enviada.set(true);
+      componente.notaFinal.set(7);
+      componente.puntajeFinal.set(1);
+      fixture.detectChanges();
+      const nota = fixture.nativeElement.querySelector('.resultado__nota').textContent;
+      expect(nota).toContain('Nota:');
+      expect(nota).not.toContain('autocorregibles');
+    });
+  });
 });

@@ -26,6 +26,7 @@ from app.domain.evaluaciones.value_objects import (
     MAX_PREGUNTAS_SIMULACRO_PARCIAL,
     TIPOS_AUTOCORREGIBLES,
     UMBRAL_SIMULACRO_PARCIAL,
+    es_respuesta_correcta,
 )
 from app.domain.progreso.ports import RepositorioProgreso
 from app.domain.shared.reloj import Reloj
@@ -143,9 +144,7 @@ class ObtenerDetalleIntento:
             es_autocorregible = p.tipo in TIPOS_AUTOCORREGIBLES
             es_correcta = None
             if es_autocorregible:
-                es_correcta = bool(
-                    respuesta_alumno and respuesta_alumno.strip().lower() == p.respuesta_correcta.strip().lower()
-                )
+                es_correcta = es_respuesta_correcta(p.tipo, respuesta_alumno, p.respuesta_correcta)
             detalle.append(
                 DetallePregunta(
                     pregunta_id=p.id,

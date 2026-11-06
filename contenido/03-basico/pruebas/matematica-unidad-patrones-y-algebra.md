@@ -31,9 +31,19 @@ d) restar 10
 
 **Pregunta 2 (completar).** Completa la secuencia: 215, 225, 235, ___, 255
 
+a) 245
+b) 236
+c) 240
+d) 335
+
 **Pregunta 3 (verdadero o falso).** El patrón 630, 530, 430, 330 es creciente.
 
 **Pregunta 4 (completar elemento en el medio).** Completa: 12, 24, 36, ___, 60
+
+a) 42
+b) 46
+c) 48
+d) 50
 
 **Pregunta 5 (identificar la regla).** En la secuencia 400, 350, 300, 250, ¿cuál es la regla que se repite?
 a) restar 50
@@ -41,18 +51,28 @@ b) restar 100
 c) sumar 50
 d) restar 150
 
-**Pregunta 6 (crear un patrón).** Crea tu propia secuencia numérica creciente que empiece en 20 y use la regla "sumar 20", escribiendo al menos 5 números.
+**Pregunta 6 (alternativas — patrón).** ¿Cuál secuencia empieza en 20 y sigue la regla "sumar 20"?
+
+a) 20, 21, 22, 23, 24
+b) 20, 40, 60, 80, 100
+c) 20, 40, 80, 160, 320
+d) 20, 30, 40, 50, 60
 
 **Pregunta 7 (aplicación con tabla del 100).** [Imagen: tabla del 100 con el número 27 destacado] Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
+
+a) 29
+b) 37
+c) 47
+d) 227
 
 ---
 
 ## Pauta de respuestas
 
 1. **b) sumar 10** — la diferencia entre cada número y el anterior es siempre 10.
-2. **245** — 215+10=225, 225+10=235, 235+10=245, 245+10=255.
+2. a) 245 — 215+10=225, 225+10=235, 235+10=245, 245+10=255.
 3. **Falso** — cada número es menor que el anterior; es una secuencia decreciente.
-4. **48** — regla "sumar 12": 36+12=48.
+4. c) 48 — regla "sumar 12": 36+12=48.
 5. **a) restar 50** — 400-350=50, la diferencia constante es 50.
-6. **Respuesta abierta (ejemplo: 20, 40, 60, 80, 100)** — se acepta cualquier secuencia donde cada número sea 20 más que el anterior, partiendo de 20.
-7. **47** — cada fila hacia abajo suma 10: 27+10=37, 37+10=47.
+6. b) 20, 40, 60, 80, 100 — cada número es 20 más que el anterior, partiendo de 20.
+7. c) 47 — cada fila hacia abajo suma 10: 27+10=37, 37+10=47.

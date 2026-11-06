@@ -59,25 +59,29 @@ El número **370** se lee "trescientos setenta". Es un múltiplo de diez porque 
 
 **Pregunta 1 (alternativas).** ¿Cuál número corresponde a la palabra "cuatrocientos quince"?
 a) 4015
-b) 415
+b) 145
 c) 451
-d) 145
+d) 415
 
-**Respuesta correcta: b) 415.**
+**Respuesta correcta: d) 415.**
 *Retroalimentación:* "cuatrocientos" corresponde a 400, y "quince" a 15: 400+15=415. La opción c) invierte las cifras, y no corresponde a lo que dice la palabra.
 
-**Pregunta 2 (completar).** Escribe en palabras el número 709: ___
+**Pregunta 2 (alternativas — completar).** ¿Cómo se escribe en palabras el número 709?
+a) siete cero nueve
+b) setenta y nueve
+c) setecientos noventa
+d) setecientos nueve
 
-**Respuesta correcta: setecientos nueve.**
-*Retroalimentación:* 709 = 700 (setecientos) + 0 decenas + 9 (nueve), por eso se lee "setecientos nueve", sin mencionar las decenas porque no hay ninguna.
+**Respuesta correcta: d) setecientos nueve.**
+*Retroalimentación:* 709 = 700 (setecientos) + 0 decenas + 9 (nueve), por eso se lee "setecientos nueve", sin mencionar las decenas porque no hay ninguna. "Setecientos noventa" sería 790.
 
 **Pregunta 3 (pictórico).** ::emoji::🎨::4 planchas de 100, 5 barras de 10 y 2 cubitos sueltos:: ¿Qué número representa esta cantidad?
-a) 452
+a) 245
 b) 425
-c) 524
-d) 245
+c) 452
+d) 524
 
-**Respuesta correcta: a) 452.**
+**Respuesta correcta: c) 452.**
 *Retroalimentación:* 4 planchas de 100 forman 400, 5 barras de 10 forman 50, y 2 cubitos sueltos son 2: 400+50+2=452.
 
 **Pregunta 4 (verdadero o falso).** El número 1 000 se lee "cien mil".
@@ -85,14 +89,22 @@ d) 245
 **Respuesta correcta: Falso.**
 *Retroalimentación:* el número 1 000 se lee "mil". "Cien mil" corresponde al número 100 000, que es mucho más grande.
 
-**Pregunta 5 (completar — múltiplo de diez).** Escribe en cifras la palabra "seiscientos treinta": ___
+**Pregunta 5 (alternativas — completar — múltiplo de diez).** ¿Cómo se escribe en cifras la palabra "seiscientos treinta"?
+a) 6030
+b) 603
+c) 636
+d) 630
 
-**Respuesta correcta: 630.**
-*Retroalimentación:* "seiscientos" corresponde al 6 en el lugar de las centenas, y "treinta" al 3 en el lugar de las decenas, sin unidades sueltas: 630.
+**Respuesta correcta: d) 630.**
+*Retroalimentación:* "seiscientos" corresponde al 6 en el lugar de las centenas, y "treinta" al 3 en el lugar de las decenas, sin unidades sueltas: 630. Escribir 6030 es un error frecuente: se escribe "600" y luego "30" pegados.
 
-**Pregunta 6 (aplicación).** En el estadio municipal de un pueblo, el marcador digital muestra la asistencia del partido: "ochocientos catorce personas". ¿Qué número debe mostrar el marcador?
+**Pregunta 6 (alternativas — aplicación).** En el estadio municipal de un pueblo, el marcador digital muestra la asistencia del partido: "ochocientos catorce personas". ¿Qué número debe mostrar el marcador?
+a) 80014
+b) 8014
+c) 841
+d) 814
 
-**Respuesta correcta: 814.**
+**Respuesta correcta: d) 814.**
 *Retroalimentación:* "ochocientos" es 800, "catorce" es 14; juntos forman 800+14=814.
 
 ---
@@ -141,24 +153,35 @@ d) No se puede saber
 **Respuesta correcta: a) 674.**
 *Retroalimentación:* las centenas son iguales (6=6), así que comparamos las decenas: 7 decenas (674) es más que 4 decenas (647).
 
-**Pregunta 2 (completar — ordenar).** Ordena de menor a mayor: 305, 99, 720, 158 → ___, ___, ___, ___
+**Pregunta 2 (alternativas — ordenar).** ¿Cuál es el orden de **menor a mayor** de los números 305, 99, 720 y 158?
+a) 158, 99, 305, 720
+b) 720, 305, 158, 99
+c) 99, 158, 305, 720
+d) 99, 305, 158, 720
 
-**Respuesta correcta: 99, 158, 305, 720.**
-*Retroalimentación:* fíjate primero en cuántas centenas tiene cada número: 99 no tiene ninguna, así que es el más chico de todos, y sigue el orden desde ahí.
+**Respuesta correcta: c) 99, 158, 305, 720.**
+*Retroalimentación:* fíjate primero en cuántas centenas tiene cada número: 99 no tiene ninguna, así que es el más chico de todos, y sigue el orden desde ahí: 158, 305 y 720.
 
 **Pregunta 3 (verdadero o falso).** 910 es menor que 890.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* al comparar las centenas, 9 centenas (910) es más que 8 centenas (890), por lo tanto 910 es mayor que 890, no menor.
 
-**Pregunta 4 (recta numérica).** ::emoji::🌊::recta numérica del 0 al 1000 con marcas cada 100, con los puntos 340 y 780 ubicados:: ¿Cuál número está más cerca del 1 000?
+**Pregunta 4 (alternativas — recta numérica).** ::emoji::🌊::recta numérica del 0 al 1000 con marcas cada 100, con los puntos 340 y 780 ubicados:: ¿Cuál número está más cerca del 1 000?
+a) 780
+b) 340
+c) Los dos están igual de cerca
 
-**Respuesta correcta: 780.**
+**Respuesta correcta: a) 780.**
 *Retroalimentación:* en la recta numérica, mientras más a la derecha está un punto, más cerca está de 1 000; 780 está más a la derecha que 340.
 
-**Pregunta 5 (ordenar de mayor a menor).** Ordena de mayor a menor: 233, 890, 68, 610 → ___, ___, ___, ___
+**Pregunta 5 (alternativas — ordenar de mayor a menor).** ¿Cuál es el orden de **mayor a menor** de los números 233, 890, 68 y 610?
+a) 890, 610, 233, 68
+b) 68, 233, 610, 890
+c) 890, 233, 610, 68
+d) 610, 890, 233, 68
 
-**Respuesta correcta: 890, 610, 233, 68.**
+**Respuesta correcta: a) 890, 610, 233, 68.**
 *Retroalimentación:* parte con el número más grande de todos (890, con 8 centenas) y ve bajando hasta llegar al más chico (68, que no alcanza a formar una centena).
 
 **Pregunta 6 (alternativas — completar).** ¿Qué palabra completa correctamente la comparación? 407 es ___ que 470.
@@ -205,19 +228,27 @@ d) 683 centenas
 **Respuesta correcta: a) 6 centenas, 8 decenas y 3 unidades.**
 *Retroalimentación:* 683 se forma con 6 grupos de 100 (600), 8 grupos de 10 (80) y 3 unidades sueltas (3): 600+80+3=683.
 
-**Pregunta 2 (completar).** 3 centenas, 0 decenas y 9 unidades forman el número ___
+**Pregunta 2 (alternativas — completar).** 3 centenas, 0 decenas y 9 unidades forman el número...
+a) 39
+b) 390
+c) 3009
+d) 309
 
-**Respuesta correcta: 309.**
-*Retroalimentación:* 3 centenas valen 300, no hay decenas (0), y le sumamos las 9 unidades sueltas: 300+0+9=309.
+**Respuesta correcta: d) 309.**
+*Retroalimentación:* 3 centenas valen 300, no hay decenas (0), y le sumamos las 9 unidades sueltas: 300+0+9=309. El 0 es importante: marca que no hay decenas.
 
 **Pregunta 3 (verdadero o falso).** En el número 1 000 hay 10 centenas y 0 unidades.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 1 000 se forma exactamente con 10 grupos de 100 (10 centenas), sin que sobre ningún elemento suelto.
 
-**Pregunta 4 (pictórico).** ::emoji::🎨::2 planchas de 100, 9 barras de 10 y 4 cubitos sueltos:: ¿Qué número representa esta imagen?
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::2 planchas de 100, 9 barras de 10 y 4 cubitos sueltos:: ¿Qué número representa esta imagen?
+a) 15
+b) 2094
+c) 249
+d) 294
 
-**Respuesta correcta: 294.**
+**Respuesta correcta: d) 294.**
 *Retroalimentación:* 2 planchas de 100 valen 200, 9 barras de 10 valen 90, y le sumamos los 4 cubitos sueltos: 200+90+4=294.
 
 **Pregunta 5 (valor posicional).** En el número 852, ¿cuánto vale el dígito 5?
@@ -229,14 +260,22 @@ d) 852
 **Respuesta correcta: b) 50.**
 *Retroalimentación:* el dígito 5 está en el lugar de las decenas, por lo tanto su valor real es 50, no simplemente 5.
 
-**Pregunta 6 (composición y descomposición hasta 100).** ::emoji::🎨::7 grupos de 10 fichas y 4 fichas sueltas:: Escribe la composición que representa esta imagen: ___ + ___ = ___
+**Pregunta 6 (alternativas — composición hasta 100).** ::emoji::🎨::7 grupos de 10 fichas y 4 fichas sueltas:: ¿Qué composición representa esta imagen?
+a) 7 + 4 = 11
+b) 40 + 7 = 47
+c) 70 + 4 = 74
+d) 70 + 40 = 110
 
-**Respuesta correcta: 70 + 4 = 74.**
+**Respuesta correcta: c) 70 + 4 = 74.**
 *Retroalimentación:* 7 grupos de 10 fichas forman 70 (7 decenas), y le sumamos las 4 fichas sueltas: 70+4=74.
 
-**Pregunta 7 (desarrollo).** Constanza tiene 946 estampillas guardadas en álbumes. ¿Cuántas centenas, decenas y unidades tiene ese número?
+**Pregunta 7 (alternativas).** Constanza tiene 946 estampillas guardadas en álbumes. ¿Cuántas centenas, decenas y unidades tiene ese número?
+a) 9 centenas, 4 decenas y 6 unidades
+b) 6 centenas, 4 decenas y 9 unidades
+c) 94 centenas y 6 unidades
+d) 9 centenas, 46 decenas y 0 unidades
 
-**Respuesta esperada:** 9 centenas, 4 decenas y 6 unidades.
+**Respuesta correcta: a) 9 centenas, 4 decenas y 6 unidades.**
 *Retroalimentación:* separamos el número por posición: el 9 (centenas) vale 900, el 4 (decenas) vale 40, y el 6 (unidades) vale 6: 900+40+6=946.
 
 ---
@@ -309,20 +348,32 @@ d) 683 + 683
 **Respuesta correcta: a) 683 + 147.**
 *Retroalimentación:* como llegan más libros (la cantidad aumenta), la situación se resuelve con una suma: 683+147=830 libros.
 
-**Pregunta 5 (problema de aplicación — resta con reserva).** Una fábrica de Rancagua produjo 725 empanadas y vendió 358 durante la mañana. ¿Cuántas empanadas le quedan?
+**Pregunta 5 (alternativas — problema — resta con reserva).** Una fábrica de Rancagua produjo 725 empanadas y vendió 358 durante la mañana. ¿Cuántas empanadas le quedan?
+a) 1083
+b) 433
+c) 377
+d) 367
 
-**Respuesta esperada:** 725-358=**367 empanadas**.
-*Retroalimentación:* al restar con reserva (pidiendo prestado en unidades y decenas), obtenemos 725-358=367 empanadas restantes.
+**Respuesta correcta: d) 367.**
+*Retroalimentación:* al restar con reserva (pidiendo prestado en unidades y decenas), obtenemos 725-358=367 empanadas restantes. Si restas siempre "el número grande menos el chico" en cada posición, sin pedir prestado, llegas a 433, que es incorrecto.
 
-**Pregunta 6 (suma de cuatro sumandos).** En una semana, un almacén vendió $120, $95, $180 y $65 en distintos días. ¿Cuánto vendió en total?
+**Pregunta 6 (alternativas — suma de cuatro sumandos).** En una semana, un almacén vendió $120, $95, $180 y $65 en distintos días. ¿Cuánto vendió en total?
+a) $360
+b) $395
+c) $450
+d) $460
 
-**Respuesta esperada:** 120+95+180+65=**$460**.
-*Retroalimentación:* sumamos los cuatro montos uno por uno o agrupándolos: 120+95=215; 215+180=395; 395+65=460.
+**Respuesta correcta: d) $460.**
+*Retroalimentación:* sumamos los cuatro montos uno por uno o agrupándolos: 120+95=215; 215+180=395; 395+65=460. Si olvidas el último sumando, te queda $395.
 
-**Pregunta 7 (problema de aplicación).** En un colegio hay 468 estudiantes en la jornada de la mañana y 295 en la jornada de la tarde. ¿Cuántos estudiantes hay en total en el colegio?
+**Pregunta 7 (alternativas — problema de aplicación).** En un colegio hay 468 estudiantes en la jornada de la mañana y 295 en la jornada de la tarde. ¿Cuántos estudiantes hay en total en el colegio?
+a) 653
+b) 173
+c) 763
+d) 663
 
-**Respuesta esperada:** 468+295=**763 estudiantes**.
-*Retroalimentación:* sumamos con reserva: unidades 8+5=13 (escribes 3, llevas 1); decenas 6+9+1=16 (escribes 6, llevas 1); centenas 4+2+1=7. Resultado: 763.
+**Respuesta correcta: c) 763.**
+*Retroalimentación:* sumamos con reserva: unidades 8+5=13 (escribes 3, llevas 1); decenas 6+9+1=16 (escribes 6, llevas 1); centenas 4+2+1=7. Resultado: 763. Si olvidas la reserva, obtienes 653.
 
 ---
 
@@ -352,19 +403,31 @@ Sin hacer cálculos largos, ¿cuánto es 9×6? Como ya conoces la tabla del 9, s
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (completar).** La suma 8+8+8+8 tiene 4 sumandos iguales a 8. Escríbela como una multiplicación: ___ × ___ = ___
+**Pregunta 1 (alternativas — completar).** La suma 8+8+8+8 tiene 4 sumandos iguales a 8. ¿Cómo se escribe como multiplicación?
+a) 4 × 8 = 32
+b) 8 × 8 = 64
+c) 4 + 8 = 12
+d) 4 × 4 = 16
 
-**Respuesta correcta: 4 × 8 = 32.**
+**Respuesta correcta: a) 4 × 8 = 32.**
 *Retroalimentación:* como hay 4 sumandos y cada uno vale 8, escribimos 4×8=32 (equivalente a sumar cuatro veces el número 8).
 
-**Pregunta 2 (pictórico).** ::emoji::🎨::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+**Pregunta 2 (alternativas — pictórico).** ::emoji::🎨::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+a) 7 + 6 = 13
+b) 7 × 6 = 48
+c) 6 × 6 = 36
+d) 7 × 6 = 42
 
-**Respuesta correcta: 7×6=42.**
+**Respuesta correcta: d) 7 × 6 = 42.**
 *Retroalimentación:* hay 7 grupos, y cada grupo tiene 6 fichas, por lo tanto la multiplicación es 7×6, cuyo resultado es 42.
 
-**Pregunta 3 (tabla del 9).** Calcula: 9 × 4 = ?
+**Pregunta 3 (alternativas — tabla del 9).** Calcula: 9 × 4 = ?
+a) 13
+b) 32
+c) 36
+d) 45
 
-**Respuesta correcta: 36.**
+**Respuesta correcta: c) 36.**
 *Retroalimentación:* puedes pensar en 9 grupos de 4, o recordar la tabla del 9: 9×4=36.
 
 **Pregunta 4 (distributividad).** Para calcular 8×6, Fernanda separó el 8 en 5+3 y usó tablas conocidas. ¿Cuál es el cálculo correcto que hizo?
@@ -385,14 +448,22 @@ d) No se puede resolver
 **Respuesta correcta: b) Multiplicación.**
 *Retroalimentación:* como se repite la misma cantidad (7 huevos) por cada una de las 8 gallinas, se trata de una multiplicación: 8×7=56 huevos.
 
-**Pregunta 6 (problema de aplicación).** En un edificio hay 9 pisos, y en cada piso hay 6 departamentos. ¿Cuántos departamentos hay en total?
+**Pregunta 6 (alternativas — problema de aplicación).** En un edificio hay 9 pisos, y en cada piso hay 6 departamentos. ¿Cuántos departamentos hay en total?
+a) 15
+b) 45
+c) 54
+d) 63
 
-**Respuesta esperada:** 9×6=**54 departamentos**.
-*Retroalimentación:* hay 9 grupos de 6 departamentos cada uno, por lo tanto 9×6=54 departamentos en total.
+**Respuesta correcta: c) 54.**
+*Retroalimentación:* hay 9 grupos de 6 departamentos cada uno, por lo tanto 9×6=54 departamentos en total. 9 + 6 = 15 suma los números en vez de contar los grupos.
 
-**Pregunta 7 (aplicar de memoria).** Sin hacer cálculos largos, resuelve de memoria: 10×8=?
+**Pregunta 7 (alternativas — aplicar de memoria).** Sin hacer cálculos largos, resuelve de memoria: 10 × 8 = ?
+a) 80
+b) 18
+c) 800
+d) 108
 
-**Respuesta correcta: 80.**
+**Respuesta correcta: a) 80.**
 *Retroalimentación:* al multiplicar por 10, el resultado siempre termina en 0: el número 8 indica cuántas decenas hay, entonces 10×8=80.
 
 ---
@@ -454,20 +525,32 @@ d) 36−6
 **Respuesta correcta: b) 36÷6.**
 *Retroalimentación:* como se agrupan 36 chocolates formando grupos de 6, la operación que resuelve cuántos grupos (cajas) se forman es una división: 36÷6=6 cajas.
 
-**Pregunta 4 (relación inversa).** Si sabes que 6×9=54, ¿cuál es el resultado de 54÷9?
+**Pregunta 4 (alternativas — relación inversa).** Si sabes que 6 × 9 = 54, ¿cuál es el resultado de 54 ÷ 9?
+a) 63
+b) 45
+c) 9
+d) 6
 
-**Respuesta correcta: 6.**
+**Respuesta correcta: d) 6.**
 *Retroalimentación:* la división es la operación inversa de la multiplicación: como 6×9=54, entonces 54÷9=6 y 54÷6=9.
 
-**Pregunta 5 (pictórico — repartición).** ::emoji::🎨::20 fichas repartidas en 5 grupos iguales, cada grupo con 4 fichas:: ¿Qué división representa esta imagen?
+**Pregunta 5 (alternativas — pictórico — repartición).** ::emoji::🎨::20 fichas repartidas en 5 grupos iguales, cada grupo con 4 fichas:: ¿Qué división representa esta imagen?
+a) 20 ÷ 4 = 4
+b) 20 ÷ 5 = 4
+c) 5 ÷ 20 = 4
+d) 20 − 5 = 15
 
-**Respuesta correcta: 20÷5=4.**
+**Respuesta correcta: b) 20 ÷ 5 = 4.**
 *Retroalimentación:* se repartieron 20 fichas en 5 grupos iguales, y cada grupo quedó con 4 fichas: 20÷5=4.
 
-**Pregunta 6 (problema de aplicación).** En una feria de artesanías de Pomaire, hay 42 cántaros que se quieren repartir en partes iguales entre 7 puestos. ¿Cuántos cántaros le corresponden a cada puesto?
+**Pregunta 6 (alternativas — problema de aplicación).** En una feria de artesanías de Pomaire, hay 42 cántaros que se quieren repartir en partes iguales entre 7 puestos. ¿Cuántos cántaros le corresponden a cada puesto?
+a) 7
+b) 35
+c) 6
+d) 49
 
-**Respuesta esperada:** 42÷7=**6 cántaros por puesto**.
-*Retroalimentación:* repartimos 42 cántaros en 7 puestos iguales: 42÷7=6 cántaros para cada puesto.
+**Respuesta correcta: c) 6.**
+*Retroalimentación:* repartimos 42 cántaros en 7 puestos iguales: 42÷7=6 cántaros para cada puesto (comprobación: 7×6=42).
 
 **Pregunta 7 (verdadero o falso).** 32÷8 es lo mismo que preguntarse "¿por cuánto hay que multiplicar 8 para obtener 32?".
 
@@ -522,24 +605,40 @@ d) 2 500−4
 **Respuesta correcta: b) 2 500×4.**
 *Retroalimentación:* como se repite el mismo valor (2 500) por cada una de las 4 entradas, se usa una multiplicación: 2 500×4=10 000.
 
-**Pregunta 3 (problema — resta).** Un abuelo le dio $1 000 a su nieto para el kiosko. El nieto gastó $650 en golosinas. ¿Cuánto dinero le queda?
+**Pregunta 3 (alternativas — problema — resta).** Un abuelo le dio $1 000 a su nieto para el kiosko. El nieto gastó $650 en golosinas. ¿Cuánto dinero le queda?
+a) $350
+b) $1 650
+c) $450
+d) $250
 
-**Respuesta esperada:** 1000-650=**$350**.
+**Respuesta correcta: a) $350.**
 *Retroalimentación:* como el nieto gastó parte del dinero, la cantidad disminuye, por lo tanto se resuelve con una resta: 1000-650=350.
 
-**Pregunta 4 (problema — multiplicación).** En una feria libre, un kilo de manzanas cuesta $890. ¿Cuánto cuestan 5 kilos?
+**Pregunta 4 (alternativas — problema — multiplicación).** En una feria libre, un kilo de manzanas cuesta $890. ¿Cuánto cuestan 5 kilos?
+a) $895
+b) $4 050
+c) $178
+d) $4 450
 
-**Respuesta esperada:** 890×5=**$4 450**.
-*Retroalimentación:* como se repite el mismo precio por cada kilo, se usa una multiplicación: 890×5=4 450.
+**Respuesta correcta: d) $4 450.**
+*Retroalimentación:* como se repite el mismo precio por cada kilo, se usa una multiplicación: 890×5=4 450. Sumar 890 + 5 o dividir no responde a la situación.
 
-**Pregunta 5 (problema — división).** Tres hermanos vendieron completos en una jornada y ganaron $1 500 en total, que quieren repartir en partes iguales. ¿Cuánto dinero recibe cada uno?
+**Pregunta 5 (alternativas — problema — división).** Tres hermanos vendieron completos en una jornada y ganaron $1 500 en total, que quieren repartir en partes iguales. ¿Cuánto dinero recibe cada uno?
+a) $4 500
+b) $500
+c) $1 497
+d) $300
 
-**Respuesta esperada:** 1500÷3=**$500 cada uno**.
-*Retroalimentación:* como se reparte una cantidad total entre 3 personas en partes iguales, se usa una división: 1500÷3=500.
+**Respuesta correcta: b) $500.**
+*Retroalimentación:* como se reparte una cantidad total entre 3 personas en partes iguales, se usa una división: 1500÷3=500 (comprobación: 3×500=1 500).
 
-**Pregunta 6 (problema — adición).** Diego ahorró $320 en enero, $180 en febrero y $250 en marzo. ¿Cuánto ahorró en total durante esos tres meses?
+**Pregunta 6 (alternativas — problema — adición).** Diego ahorró $320 en enero, $180 en febrero y $250 en marzo. ¿Cuánto ahorró en total durante esos tres meses?
+a) $500
+b) $650
+c) $740
+d) $750
 
-**Respuesta esperada:** 320+180+250=**$750**.
+**Respuesta correcta: d) $750.**
 *Retroalimentación:* sumamos los tres montos ahorrados: 320+180=500; 500+250=750.
 
 ---
@@ -581,34 +680,53 @@ d) 2/2
 **Respuesta correcta: c) 1/2.**
 *Retroalimentación:* el círculo se dividió en 2 partes iguales, y se pintó 1 de ellas: 1 parte de un total de 2, es decir, 1/2.
 
-**Pregunta 2 (completar).** Si una pizza se divide en 4 partes iguales y te comes 3 de ellas, comiste ___ de la pizza.
+**Pregunta 2 (alternativas — completar).** Si una pizza se divide en 4 partes iguales y te comes 3 de ellas, ¿qué fracción de la pizza comiste?
+a) 3/4
+b) 4/3
+c) 1/4
+d) 3/7
 
-**Respuesta correcta: 3/4 (tres cuartos).**
-*Retroalimentación:* al dividir la pizza en 4 partes iguales y comer 3 de esas partes, la fracción que representa lo comido es 3 de 4, es decir, 3/4.
+**Respuesta correcta: a) 3/4.**
+*Retroalimentación:* al dividir la pizza en 4 partes iguales y comer 3 de esas partes, la fracción que representa lo comido es 3 de 4, es decir, 3/4. El denominador (abajo) indica en cuántas partes se dividió.
 
-**Pregunta 3 (pictórico).** ::emoji::🎨::un rectángulo dividido en 3 partes iguales, con 2 partes pintadas:: ¿Qué fracción representa la parte pintada?
+**Pregunta 3 (alternativas — pictórico).** ::emoji::🎨::un rectángulo dividido en 3 partes iguales, con 2 partes pintadas:: ¿Qué fracción representa la parte pintada?
+a) 3/2
+b) 1/3
+c) 2/5
+d) 2/3
 
-**Respuesta correcta: 2/3.**
+**Respuesta correcta: d) 2/3.**
 *Retroalimentación:* el rectángulo se dividió en 3 partes iguales, y se pintaron 2 de ellas: 2 de un total de 3, es decir, 2/3.
 
-**Pregunta 4 (comparar fracciones).** ¿Cuál fracción es mayor: 2/4 o 3/4?
+**Pregunta 4 (alternativas — comparar fracciones).** ¿Cuál fracción es mayor: 2/4 o 3/4?
+a) 2/4
+b) 3/4
+c) Son iguales
 
-**Respuesta correcta: 3/4.**
+**Respuesta correcta: b) 3/4.**
 *Retroalimentación:* como ambas fracciones tienen el mismo denominador (4), comparamos los numeradores: 3 es mayor que 2, por lo tanto 3/4 es mayor que 2/4.
 
-**Pregunta 5 (situación cotidiana — desarrollo).** Describe una situación de tu vida diaria en la que hayas usado la fracción 1/2 (por ejemplo, con comida, dinero o tiempo).
+**Pregunta 5 (alternativas — situación cotidiana).** ¿En cuál de estas situaciones se usa la fracción **1/2**?
+a) Comer 3 de 4 trozos de una pizza
+b) Ver la mitad de una película
+c) Repartir 10 dulces entre 5 amigos
+d) Juntar 2 botellas llenas
 
-**Respuesta esperada (ejemplo):** "Compartí medio kilo de pan con mi hermano" o "vi la mitad de una película".
-*Retroalimentación:* lo importante es identificar una situación donde algo se divide en 2 partes iguales y se toma o se usa solo 1 de esas partes.
+**Respuesta correcta: b) Ver la mitad de una película.**
+*Retroalimentación:* 1/2 es una de 2 partes iguales, es decir, la mitad: ver la mitad de una película o compartir medio kilo de pan son ejemplos. Comer 3 de 4 trozos sería 3/4.
 
 **Pregunta 6 (verdadero o falso).** La fracción 1/3 representa una parte más grande que la fracción 1/2, si ambas provienen del mismo todo.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* al dividir un mismo todo en más partes (3 partes en vez de 2), cada parte resulta más pequeña; por lo tanto, 1/3 es menor que 1/2.
 
-**Pregunta 7 (aplicación).** En una jarra de jugo dividida en 4 partes iguales, Pedro se sirvió 1 parte y Sofía se sirvió 2 partes. ¿Qué fracción de la jarra tomó cada uno?
+**Pregunta 7 (alternativas — aplicación).** En una jarra de jugo dividida en 4 partes iguales, Pedro se sirvió 1 parte y Sofía se sirvió 2 partes. ¿Qué fracción de la jarra tomó cada uno?
+a) Pedro 1/2 y Sofía 2/2
+b) Pedro 4/1 y Sofía 4/2
+c) Pedro 1/4 y Sofía 2/4
+d) Pedro 1/4 y Sofía 1/2 de una parte
 
-**Respuesta esperada:** Pedro tomó 1/4 y Sofía tomó 2/4 de la jarra.
+**Respuesta correcta: c) Pedro 1/4 y Sofía 2/4.**
 *Retroalimentación:* como la jarra se dividió en 4 partes iguales, cada parte corresponde a 1/4; Pedro tomó 1 parte (1/4) y Sofía tomó 2 partes (2/4).
 
 ---
@@ -654,9 +772,13 @@ d) restar 10
 **Respuesta correcta: b) sumar 10.**
 *Retroalimentación:* la diferencia entre cada número y el anterior es siempre 10 (14-4=10, 24-14=10), tal como ocurre al bajar una fila en la tabla del 100.
 
-**Pregunta 2 (completar).** Completa la secuencia: 215, 225, 235, ___, 255
+**Pregunta 2 (alternativas — completar).** Completa la secuencia: 215, 225, 235, ___, 255
+a) 245
+b) 236
+c) 240
+d) 335
 
-**Respuesta correcta: 245.**
+**Respuesta correcta: a) 245.**
 *Retroalimentación:* la regla es "sumar 10" (215+10=225, 225+10=235, 235+10=245, 245+10=255), por lo tanto el número que falta es 245.
 
 **Pregunta 3 (verdadero o falso).** El patrón 630, 530, 430, 330 es creciente.
@@ -664,9 +786,13 @@ d) restar 10
 **Respuesta correcta: Falso.**
 *Retroalimentación:* cada número de la secuencia es menor que el anterior (630 es mayor que 530, y así sucesivamente), por lo tanto la secuencia es decreciente, no creciente.
 
-**Pregunta 4 (completar elemento en el medio).** Completa: 12, 24, 36, ___, 60
+**Pregunta 4 (alternativas — elemento en el medio).** Completa: 12, 24, 36, ___, 60
+a) 42
+b) 46
+c) 48
+d) 50
 
-**Respuesta correcta: 48.**
+**Respuesta correcta: c) 48.**
 *Retroalimentación:* la regla es "sumar 12" (12+12=24, 24+12=36, 36+12=48, 48+12=60), por lo tanto falta el 48.
 
 **Pregunta 5 (identificar la regla).** En la secuencia 400, 350, 300, 250, ¿cuál es la regla que se repite?
@@ -678,15 +804,23 @@ d) restar 150
 **Respuesta correcta: a) restar 50.**
 *Retroalimentación:* la diferencia entre cada número y el siguiente es siempre 50 (400-350=50), por lo tanto la regla es "restar 50".
 
-**Pregunta 6 (crear un patrón — desarrollo abierto).** Crea tu propia secuencia numérica creciente que empiece en 20 y use la regla "sumar 20", escribiendo al menos 5 números.
+**Pregunta 6 (alternativas — patrón).** ¿Cuál secuencia empieza en 20 y sigue la regla "sumar 20"?
+a) 20, 21, 22, 23, 24
+b) 20, 40, 60, 80, 100
+c) 20, 40, 80, 160, 320
+d) 20, 30, 40, 50, 60
 
-**Respuesta esperada (ejemplo):** 20, 40, 60, 80, 100.
-*Retroalimentación:* lo importante es que cada número de tu secuencia sea exactamente 20 más que el anterior, empezando desde el 20.
+**Respuesta correcta: b) 20, 40, 60, 80, 100.**
+*Retroalimentación:* cada número de la secuencia debe ser exactamente 20 más que el anterior, empezando desde el 20. En las otras se suma 1, se duplica o se suma 10.
 
-**Pregunta 7 (aplicación con tabla del 100).** ::emoji::🎨::tabla del 100 con el número 27 destacado:: Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
+**Pregunta 7 (alternativas — tabla del 100).** ::emoji::🎨::tabla del 100 con el número 27 destacado:: Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
+a) 29
+b) 37
+c) 47
+d) 227
 
-**Respuesta correcta: 47.**
-*Retroalimentación:* cada fila hacia abajo suma 10: 27+10=37 (1 fila), 37+10=47 (2 filas).
+**Respuesta correcta: c) 47.**
+*Retroalimentación:* cada fila hacia abajo suma 10: 27+10=37 (1 fila), 37+10=47 (2 filas). Moverse a la derecha suma 1 (llegarías a 29).
 
 ---
 
@@ -731,9 +865,13 @@ d) Pirámide
 **Respuesta correcta: b) Cubo.**
 *Retroalimentación:* un cubo tiene 6 caras cuadradas iguales; su red se forma con 6 cuadrados unidos, típicamente en forma de cruz.
 
-**Pregunta 2 (completar).** La red de un paralelepípedo (como una caja de zapatos) está formada por ___ rectángulos.
+**Pregunta 2 (alternativas — completar).** La red de un paralelepípedo (como una caja de zapatos) está formada por ___ rectángulos.
+a) 4
+b) 6
+c) 8
+d) 12
 
-**Respuesta correcta: 6.**
+**Respuesta correcta: b) 6.**
 *Retroalimentación:* un paralelepípedo tiene 6 caras rectangulares, por lo tanto su red desplegada muestra 6 rectángulos unidos entre sí.
 
 **Pregunta 3 (verdadero o falso).** Al desplegar un cono, se obtienen 2 figuras 2D: un círculo y una figura curva (llamada sector circular).
@@ -741,20 +879,31 @@ d) Pirámide
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* el cono tiene una base circular y una superficie lateral curva; al desplegarlo, la base se ve como un círculo y la superficie lateral se ve como un sector circular (una especie de "abanico").
 
-**Pregunta 4 (identificar la red correcta).** ::emoji::☀️::dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértices, sin ninguna base:: ¿Cuál de las dos redes corresponde a una pirámide de base cuadrada?
+**Pregunta 4 (alternativas — identificar la red correcta).** ::emoji::☀️::dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértices, sin ninguna base:: ¿Cuál de las dos redes corresponde a una pirámide de base cuadrada?
+a) La red B
+b) Ninguna de las dos
+c) La red A
 
-**Respuesta correcta: la red A.**
+**Respuesta correcta: c) La red A.**
 *Retroalimentación:* la pirámide de base cuadrada tiene 1 cara cuadrada (la base) y 4 caras triangulares; solo la red A muestra correctamente esa combinación de figuras unidas por sus lados.
 
-**Pregunta 5 (relacionar red y figura 3D).** ¿Qué figura 3D se forma con una red compuesta por 2 círculos y 1 rectángulo (que se enrolla para unir los círculos)?
+**Pregunta 5 (alternativas — red y figura 3D).** ¿Qué figura 3D se forma con una red compuesta por 2 círculos y 1 rectángulo (que se enrolla para unir los círculos)?
+a) Un cono
+b) Un cubo
+c) Una esfera
+d) Un cilindro
 
-**Respuesta correcta: un cilindro** (como una lata de bebida).
-*Retroalimentación:* el cilindro tiene 2 caras circulares (arriba y abajo) y una superficie lateral que, al desplegarse, forma un rectángulo.
+**Respuesta correcta: d) Un cilindro.**
+*Retroalimentación:* el cilindro tiene 2 caras circulares (arriba y abajo) y una superficie lateral que, al desplegarse, forma un rectángulo, como una lata de bebida.
 
-**Pregunta 6 (aplicación — desarrollo).** Si tuvieras que construir la red de un cubo usando cartulina, ¿cuántos cuadrados necesitarías dibujar y recortar?
+**Pregunta 6 (alternativas — aplicación).** Si tuvieras que construir la red de un cubo usando cartulina, ¿cuántos cuadrados necesitarías dibujar y recortar?
+a) 4 cuadrados del mismo tamaño
+b) 6 cuadrados del mismo tamaño
+c) 8 cuadrados de distinto tamaño
+d) 12 cuadrados
 
-**Respuesta correcta: 6 cuadrados**, todos del mismo tamaño.
-*Retroalimentación:* como el cubo tiene 6 caras cuadradas iguales, su red necesita exactamente 6 cuadrados del mismo tamaño, unidos entre sí para poder doblarse y formar el cubo.
+**Respuesta correcta: b) 6 cuadrados del mismo tamaño.**
+*Retroalimentación:* como el cubo tiene 6 caras cuadradas iguales, su red necesita exactamente 6 cuadrados del mismo tamaño, unidos entre sí para poder doblarse y formar el cubo. 12 es el número de aristas, no de caras.
 
 ---
 
@@ -794,42 +943,62 @@ Como el cuadrado tiene 4 lados iguales: 40÷4=**10 m** por lado.
 
 **Pregunta 1 (alternativas).** Un rectángulo mide 6 cm de largo y 3 cm de ancho. ¿Cuál es su perímetro?
 a) 9 cm
-b) 18 cm
-c) 12 cm
+b) 12 cm
+c) 18 cm
 d) 24 cm
 
-**Respuesta correcta: b) 18 cm.**
+**Respuesta correcta: c) 18 cm.**
 *Retroalimentación:* sumamos los 4 lados: 6+3+6+3=18 cm.
 
-**Pregunta 2 (completar).** Un cuadrado tiene lados de 9 m cada uno. Su perímetro es ___ m.
+**Pregunta 2 (alternativas — completar).** Un cuadrado tiene lados de 9 m cada uno. ¿Cuál es su perímetro?
+a) 18 m
+b) 81 m
+c) 36 m
+d) 13 m
 
-**Respuesta correcta: 36.**
-*Retroalimentación:* como los 4 lados son iguales, multiplicamos: 4×9=36 m.
+**Respuesta correcta: c) 36 m.**
+*Retroalimentación:* como los 4 lados son iguales, multiplicamos: 4×9=36 m. 81 sería 9×9, que no es el perímetro.
 
 **Pregunta 3 (verdadero o falso).** El perímetro de una figura es la medida de todo su contorno.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* el perímetro corresponde a la suma de las medidas de todos los lados de una figura, es decir, la medida de su contorno completo.
 
-**Pregunta 4 (encontrar el lado).** Un patio cuadrado tiene un perímetro de 28 m. ¿Cuánto mide cada lado?
+**Pregunta 4 (alternativas — encontrar el lado).** Un patio cuadrado tiene un perímetro de 28 m. ¿Cuánto mide cada lado?
+a) 7 m
+b) 14 m
+c) 24 m
+d) 112 m
 
-**Respuesta correcta: 7 m.**
+**Respuesta correcta: a) 7 m.**
 *Retroalimentación:* como el cuadrado tiene 4 lados iguales, dividimos el perímetro entre 4: 28÷4=7 m por lado.
 
-**Pregunta 5 (figura irregular — pictórico).** ::emoji::🎨::una figura irregular con lados de 4 cm, 6 cm, 3 cm y 5 cm:: ¿Cuál es el perímetro de esta figura?
+**Pregunta 5 (alternativas — figura irregular).** ::emoji::🎨::una figura irregular con lados de 4 cm, 6 cm, 3 cm y 5 cm:: ¿Cuál es el perímetro de esta figura?
+a) 15 cm
+b) 24 cm
+c) 360 cm
+d) 18 cm
 
-**Respuesta correcta: 18 cm.**
+**Respuesta correcta: d) 18 cm.**
 *Retroalimentación:* para una figura irregular, sumamos todos sus lados, aunque sean de distinta medida: 4+6+3+5=18 cm.
 
-**Pregunta 6 (problema de aplicación).** Un profesor quiere poner cinta de papel alrededor de una pizarra rectangular que mide 2 m de largo y 1 m de ancho. ¿Cuántos metros de cinta necesita?
+**Pregunta 6 (alternativas — problema de aplicación).** Un profesor quiere poner cinta de papel alrededor de una pizarra rectangular que mide 2 m de largo y 1 m de ancho. ¿Cuántos metros de cinta necesita?
+a) 3 m
+b) 6 m
+c) 2 m
+d) 4 m
 
-**Respuesta esperada:** 2+1+2+1=**6 m de cinta**.
-*Retroalimentación:* como la cinta debe rodear todo el contorno de la pizarra, calculamos el perímetro del rectángulo: 2+1+2+1=6 m.
+**Respuesta correcta: b) 6 m.**
+*Retroalimentación:* como la cinta debe rodear todo el contorno de la pizarra, calculamos el perímetro del rectángulo: 2+1+2+1=6 m. Sumar solo un largo y un ancho (3 m) cubre la mitad del contorno.
 
-**Pregunta 7 (comparar).** ¿Cuál figura tiene mayor perímetro: un cuadrado de lado 10 cm, o un rectángulo de 12 cm de largo y 6 cm de ancho?
+**Pregunta 7 (alternativas — comparar).** ¿Cuál figura tiene mayor perímetro: un cuadrado de lado 10 cm, o un rectángulo de 12 cm de largo y 6 cm de ancho?
+a) El rectángulo: 36 cm contra 40 cm
+b) Tienen el mismo perímetro
+c) El cuadrado: 40 cm contra 36 cm
+d) El rectángulo: 72 cm contra 100 cm
 
-**Respuesta esperada:** el cuadrado tiene perímetro 4×10=40 cm; el rectángulo tiene perímetro 12+6+12+6=36 cm. El cuadrado tiene mayor perímetro.
-*Retroalimentación:* calculamos por separado el perímetro de cada figura y comparamos los resultados: 40 cm es mayor que 36 cm.
+**Respuesta correcta: c) El cuadrado: 40 cm contra 36 cm.**
+*Retroalimentación:* calculamos por separado el perímetro de cada figura: cuadrado 4×10=40 cm; rectángulo 12+6+12+6=36 cm. 40 cm es mayor que 36 cm.
 
 ---
 
@@ -870,34 +1039,53 @@ d) 10 000 g
 **Respuesta correcta: c) 1 000 g.**
 *Retroalimentación:* 1 kilogramo (kg) equivale exactamente a 1 000 gramos (g); es la relación básica entre ambas unidades de peso.
 
-**Pregunta 2 (comparar).** ¿Qué pesa más: un objeto de 700 g o un objeto de 1 kg?
+**Pregunta 2 (alternativas — comparar).** ¿Qué pesa más: un objeto de 700 g o un objeto de 1 kg?
+a) El objeto de 1 kg
+b) El objeto de 700 g
+c) Pesan lo mismo
 
-**Respuesta correcta: el objeto de 1 kg.**
-*Retroalimentación:* como 1 kg equivale a 1 000 g, y 1 000 g es más que 700 g, el objeto de 1 kg es el más pesado.
+**Respuesta correcta: a) El objeto de 1 kg.**
+*Retroalimentación:* como 1 kg equivale a 1 000 g, y 1 000 g es más que 700 g, el objeto de 1 kg es el más pesado. No basta mirar el número: hay que comparar en la misma unidad.
 
 **Pregunta 3 (verdadero o falso).** Un elefante se pesa más fácilmente en gramos que en kilogramos.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* para objetos muy pesados, como un elefante, es más práctico usar kilogramos (o incluso toneladas); los gramos se usan para objetos livianos, como una manzana o una carta.
 
-**Pregunta 4 (estimar con referentes).** Si un paquete de arroz pesa aproximadamente 1 kg, ¿cuál es una buena estimación del peso de 3 paquetes iguales?
+**Pregunta 4 (alternativas — estimar con referentes).** Si un paquete de arroz pesa aproximadamente 1 kg, ¿cuál es una buena estimación del peso de 3 paquetes iguales?
+a) Aproximadamente 3 kg
+b) Aproximadamente 1 kg
+c) Aproximadamente 300 g
+d) Aproximadamente 30 kg
 
-**Respuesta correcta: aproximadamente 3 kg.**
+**Respuesta correcta: a) Aproximadamente 3 kg.**
 *Retroalimentación:* usando el paquete de 1 kg como referente, si hay 3 paquetes similares, el peso total estimado es 3×1=3 kg.
 
-**Pregunta 5 (ordenar por peso).** Ordena de más liviano a más pesado: una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g).
+**Pregunta 5 (alternativas — ordenar por peso).** ¿Cuál es el orden de **más liviano a más pesado**: una manzana (150 g), una sandía (4 kg) y un paquete de galletas (300 g)?
+a) Sandía, manzana, galletas
+b) Galletas, manzana, sandía
+c) Sandía, galletas, manzana
+d) Manzana, galletas, sandía
 
-**Respuesta correcta:** manzana (150 g), paquete de galletas (300 g), sandía (4 kg = 4 000 g).
-*Retroalimentación:* convertimos todo a la misma unidad (gramos) para comparar: 150 g, 300 g y 4 000 g; ordenamos de menor a mayor.
+**Respuesta correcta: d) Manzana, galletas, sandía.**
+*Retroalimentación:* convertimos todo a la misma unidad (gramos) para comparar: 150 g, 300 g y 4 000 g (4 kg). Aunque "4" sea un número chico, son 4 kilogramos.
 
-**Pregunta 6 (problema de aplicación).** En la feria, Ignacio compra 2 kg de papas y 500 g de cebollas. ¿Cuántos gramos en total está llevando?
+**Pregunta 6 (alternativas — problema de aplicación).** En la feria, Ignacio compra 2 kg de papas y 500 g de cebollas. ¿Cuántos gramos en total está llevando?
+a) 502 g
+b) 2 500 g
+c) 700 g
+d) 2 050 g
 
-**Respuesta esperada:** 2 kg = 2 000 g; 2 000+500=**2 500 g en total**.
-*Retroalimentación:* convertimos los 2 kg de papas a gramos (2 000 g) y sumamos los 500 g de cebolla: 2 000+500=2 500 g.
+**Respuesta correcta: b) 2 500 g.**
+*Retroalimentación:* convertimos los 2 kg de papas a gramos (2 000 g) y sumamos los 500 g de cebolla: 2 000+500=2 500 g. Sumar 2 + 500 mezcla unidades distintas.
 
-**Pregunta 7 (medición en fracciones de uso común).** Un paquete de mantequilla pesa medio kilogramo (1/2 kg). ¿Cuántos gramos son?
+**Pregunta 7 (alternativas — fracciones de uso común).** Un paquete de mantequilla pesa medio kilogramo (1/2 kg). ¿Cuántos gramos son?
+a) 50 g
+b) 200 g
+c) 500 g
+d) 1 500 g
 
-**Respuesta correcta: 500 g.**
+**Respuesta correcta: c) 500 g.**
 *Retroalimentación:* como 1 kg equivale a 1 000 g, la mitad (1/2 kg) equivale a la mitad de 1 000, es decir, 500 g.
 
 ---
@@ -947,34 +1135,53 @@ d) 25
 **Respuesta correcta: b) 5.**
 *Retroalimentación:* hay 1 huella para conejos, y como cada huella vale 5 mascotas: 1×5=5 conejos.
 
-**Pregunta 2 (completar).** Según el pictograma del Ejemplo 1, ¿cuántas mascotas hay registradas en total (perros, gatos y conejos)?
+**Pregunta 2 (alternativas — completar).** Según el pictograma del Ejemplo 1, ¿cuántas mascotas hay registradas en total (perros, gatos y conejos)?
+a) 35
+b) 7
+c) 30
+d) 25
 
-**Respuesta correcta:** 20+10+5=**35 mascotas**.
-*Retroalimentación:* calculamos cada cantidad usando la escala (4×5=20, 2×5=10, 1×5=5) y luego sumamos: 20+10+5=35.
+**Respuesta correcta: a) 35.**
+*Retroalimentación:* calculamos cada cantidad usando la escala (4×5=20, 2×5=10, 1×5=5) y luego sumamos: 20+10+5=35. Si cuentas solo los dibujos (4+2+1=7), olvidas que cada uno vale 5.
 
 **Pregunta 3 (verdadero o falso).** En un pictograma con escala, siempre 1 dibujo representa exactamente 1 unidad.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* en un pictograma con escala, la leyenda indica cuánto vale cada dibujo, y puede representar más de 1 unidad (por ejemplo, 2, 5 o 10), según lo que se necesite representar.
 
-**Pregunta 4 (leer gráfico de barra).** Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes eligieron natación como su deporte favorito?
+**Pregunta 4 (alternativas — leer gráfico de barra).** Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes eligieron natación como su deporte favorito?
+a) 10
+b) 6
+c) 24
+d) 8
 
-**Respuesta correcta: 8 estudiantes.**
+**Respuesta correcta: d) 8.**
 *Retroalimentación:* la barra de "natación" llega hasta el número 8, por lo tanto 8 estudiantes eligieron ese deporte.
 
-**Pregunta 5 (comparar gráfico de barra).** Según el gráfico de barras del Ejemplo 2, ¿qué deporte fue elegido por más estudiantes?
+**Pregunta 5 (alternativas — comparar gráfico de barra).** Según el gráfico de barras del Ejemplo 2, ¿qué deporte fue elegido por más estudiantes?
+a) Natación
+b) Fútbol
+c) Básquetbol
 
-**Respuesta correcta: fútbol** (10 estudiantes, la barra más alta).
-*Retroalimentación:* comparamos la altura de las tres barras (10, 6 y 8); la barra más alta corresponde a "fútbol", por lo tanto es el deporte más elegido.
+**Respuesta correcta: b) Fútbol.**
+*Retroalimentación:* comparamos la altura de las tres barras (10, 6 y 8); la barra más alta corresponde a "fútbol" (10 estudiantes), por lo tanto es el deporte más elegido.
 
-**Pregunta 6 (construir un pictograma — desarrollo).** En una plaza se contaron 30 palomas y 15 gorriones. Si construyes un pictograma donde cada dibujo representa 5 aves, ¿cuántos dibujos necesitas para representar las palomas, y cuántos para los gorriones?
+**Pregunta 6 (alternativas — construir un pictograma).** En una plaza se contaron 30 palomas y 15 gorriones. Si construyes un pictograma donde cada dibujo representa 5 aves, ¿cuántos dibujos necesitas para cada grupo?
+a) Palomas: 30 dibujos; gorriones: 15 dibujos
+b) Palomas: 6 dibujos; gorriones: 3 dibujos
+c) Palomas: 5 dibujos; gorriones: 3 dibujos
+d) Palomas: 150 dibujos; gorriones: 75 dibujos
 
-**Respuesta correcta:** palomas: 30÷5=**6 dibujos**; gorriones: 15÷5=**3 dibujos**.
+**Respuesta correcta: b) Palomas: 6 dibujos; gorriones: 3 dibujos.**
 *Retroalimentación:* como cada dibujo vale 5 aves, dividimos la cantidad real de aves entre 5 para saber cuántos dibujos hacer: 30÷5=6 y 15÷5=3.
 
-**Pregunta 7 (aplicación).** Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes más eligieron fútbol que básquetbol?
+**Pregunta 7 (alternativas — aplicación).** Según el gráfico de barras del Ejemplo 2, ¿cuántos estudiantes más eligieron fútbol que básquetbol?
+a) 16
+b) 6
+c) 4
+d) 2
 
-**Respuesta correcta:** 10-6=**4 estudiantes más**.
+**Respuesta correcta: c) 4.**
 *Retroalimentación:* comparamos las alturas de las barras "fútbol" (10) y "básquetbol" (6), y restamos: 10-6=4 estudiantes más eligieron fútbol.
 
 ---

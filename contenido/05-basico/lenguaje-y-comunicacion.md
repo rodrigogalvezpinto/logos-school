@@ -87,40 +87,60 @@ En 5° básico, leer un cuento no se queda solo en entender "qué pasó". Ahora 
 **1. (Alternativas)** En el Texto 1, ¿qué característica sicológica de Catalina es relevante para el desarrollo de la historia?
 
 a) Es alta y de pelo largo
-b) Al principio es impaciente, pero luego aprende a tener paciencia
-c) Le encanta cocinar
-d) Vive sola con su abuela
+b) Vive sola con su abuela
+c) Al principio es paciente, pero luego se vuelve impaciente y abandona el telar
+d) Al principio es impaciente, pero luego aprende a tener paciencia
 
-*Respuesta correcta: b.* Retroalimentación: esta característica es relevante porque explica el cambio que vive Catalina a lo largo del relato: si siguiera siendo impaciente, no habría logrado terminar el tejido.
+*Respuesta correcta: d.* Retroalimentación: esta característica es relevante porque explica el cambio que vive Catalina a lo largo del relato: si siguiera siendo impaciente, no habría logrado terminar el tejido.
 
-**2. (Desarrollo breve)** Explica qué significa la expresión "tozudo como la marea que siempre vuelve" (Texto 2) e indica qué tipo de lenguaje figurado es.
+**2. (Alternativas — lenguaje figurado)** ¿Qué significa la expresión "tozudo como la marea que siempre vuelve" (Texto 2), y qué tipo de lenguaje figurado es?
 
-*Respuesta esperada*: significa que Benjamín es muy perseverante, que insiste una y otra vez sin rendirse, igual que la marea que sube y baja constantemente. Es una **comparación (símil)**, porque usa la palabra "como". Retroalimentación: identificar el lenguaje figurado en narraciones (no solo en poemas) te ayuda a comprender mejor la personalidad de los personajes.
+a) Que Benjamín es muy perseverante e insiste sin rendirse; es una comparación (símil), porque usa "como"
+b) Que Benjamín vive en el mar y se mueve como las olas; es una personificación, porque el mar habla
+c) Que Benjamín es desordenado y descuidado; es una rima, porque las palabras terminan igual
+d) Que la marea es tozuda y no se mueve; es una pregunta retórica, porque no espera respuesta
+
+*Respuesta correcta: a.* Retroalimentación: identificar el lenguaje figurado en narraciones (no solo en poemas) te ayuda a comprender mejor la personalidad de los personajes: Benjamín insiste una y otra vez, igual que la marea que sube y baja constantemente.
 
 **3. (Verdadero o Falso)** En el Texto 2, una consecuencia de que Benjamín remendara la red es que su padre pudo volver a pescar y conseguir dinero para reparar el motor.
 
 *Respuesta correcta: Verdadero.* Retroalimentación: el texto muestra claramente esta relación causa-consecuencia: la acción de Benjamín (remendar la red) permite que su padre pesque y consiga el dinero necesario.
 
-**4. (Aplicación)** Describe el **ambiente** y una **costumbre** representada en el Texto 1.
+**4. (Alternativas — ambiente y costumbre)** ¿Qué opción describe correctamente el **ambiente** y una **costumbre** representada en el Texto 1?
 
-*Respuesta esperada*: el ambiente es el corredor de una casa en Padre Las Casas, en el sur de Chile, con olor a leña; la costumbre representada es el tejido en telar mapuche, transmitido de la abuela a la nieta. Retroalimentación: el ambiente incluye el lugar y también detalles sensoriales (olores, sonidos); las costumbres son prácticas culturales o tradicionales que el texto muestra, como el tejido en este caso.
+a) Ambiente: un muelle en Caleta Tortel, con olor a mar. Costumbre: la pesca con red, transmitida del abuelo al nieto
+b) Ambiente: un estadio en Santiago, con mucho ruido. Costumbre: el fútbol, que la abuela enseña a la nieta los domingos
+c) Ambiente: una escuela de la ciudad, con salas y pasillos. Costumbre: la feria científica, que se organiza cada año
+d) Ambiente: el corredor de una casa en Padre Las Casas, con olor a leña. Costumbre: el tejido en telar mapuche, transmitido de la abuela a la nieta
+
+*Respuesta correcta: d.* Retroalimentación: el ambiente incluye el lugar y también detalles sensoriales (olores, sonidos); las costumbres son prácticas culturales o tradicionales que el texto muestra, como el tejido. La a) describe el Texto 2.
 
 **5. (Alternativas)** ¿Cuál de las siguientes opciones es una **opinión fundamentada** sobre las acciones de Benjamín en el Texto 2?
 
-a) "Benjamín es genial porque sí"
-b) "Me parece admirable lo que hizo Benjamín, porque ayudó a su familia sin que se lo pidieran, arreglando la red toda la noche"
-c) "No me gustó el cuento porque es muy largo"
-d) "Benjamín vive en Caleta Tortel"
+a) "Benjamín es genial porque sí, y todos los niños deberían ser como él siempre"
+b) "No me gustó el cuento porque es muy largo, tiene muchas palabras difíciles de entender y no tiene dibujos que acompañen la historia"
+c) "Me parece admirable lo que hizo Benjamín, porque ayudó a su familia sin que se lo pidieran, arreglando la red toda la noche"
+d) "Benjamín vive en Caleta Tortel con su familia, y su papá es pescador desde hace muchos años"
 
-*Respuesta correcta: b.* Retroalimentación: una opinión fundamentada explica el *porqué* con hechos concretos del texto (en este caso, la acción de remendar la red sin que se lo pidieran), no solo expresa un gusto o un dato sin argumento.
+*Respuesta correcta: c.* Retroalimentación: una opinión fundamentada explica el *porqué* con hechos concretos del texto (en este caso, la acción de remendar la red sin que se lo pidieran), no solo expresa un gusto o un dato sin argumento.
 
-**6. (Desarrollo breve — comparación de textos)** Compara el Texto 1 y el Texto 2: menciona una semejanza y una diferencia entre ambas historias, y explica cuál prefieres y por qué.
+**6. (Alternativas — comparación de textos)** ¿Qué comparación entre el Texto 1 y el Texto 2 es **correcta**?
 
-*Respuesta esperada*: cualquier respuesta razonada que identifique una semejanza real (por ejemplo, ambos protagonistas demuestran perseverancia o cariño hacia su familia) y una diferencia real (por ejemplo, el tipo de conflicto, el lugar geográfico o el tiempo que dura la historia), junto con una preferencia justificada con argumentos. Retroalimentación: comparar textos de autores diferentes implica ir más allá de decir "me gustó más este", explicando *con qué elementos del texto* fundamentas tu preferencia.
+a) Semejanza: los dos ocurren en Caleta Tortel, junto al mar. Diferencia: solo uno de los textos tiene un protagonista que ayuda a su familia
+b) No tienen ninguna semejanza: los protagonistas, los lugares y las acciones de ambos textos son completamente distintos entre sí
+c) Semejanza: en los dos textos se teje un choapino en telar mapuche. Diferencia: uno de los textos es un poema y el otro, una noticia
+d) Semejanza: ambos protagonistas demuestran perseverancia y cariño por su familia. Diferencia: ocurren en lugares distintos (Padre Las Casas y Caleta Tortel)
 
-**7. (Aplicación — texto largo)** Vuelve a leer el Texto 1 completo. Según el relato, ¿por qué el "orgullo" que siente Catalina al terminar el choapino es distinto al que sentiría jugando en el patio? Fundamenta tu respuesta con información del texto.
+*Respuesta correcta: d.* Retroalimentación: comparar textos de autores diferentes implica identificar semejanzas y diferencias reales; también podrías comparar el tipo de conflicto o el tiempo que dura la historia. Al expresar cuál prefieres, fundamenta con elementos del texto, no solo con "me gustó más este".
 
-*Respuesta esperada*: porque ese orgullo viene de haber superado una dificultad (la impaciencia y los dedos torpes) con esfuerzo y paciencia durante varias tardes, mientras que jugar en el patio no implica ese mismo proceso de superación. Retroalimentación: interpretar por qué un personaje siente algo (y no solo qué siente) es una forma más profunda de comprensión, que requiere unir varias partes del texto.
+**7. (Alternativas — interpretación)** Según el Texto 1, ¿por qué el "orgullo" que siente Catalina al terminar el choapino es distinto al que sentiría jugando en el patio?
+
+a) Porque el choapino era muy caro y podría venderlo en la feria del pueblo
+b) Porque en el patio no había nadie con quien jugar y prefirió quedarse tejiendo
+c) Porque viene de haber superado su impaciencia y sus dedos torpes con esfuerzo durante varias tardes
+d) Porque la abuela la obligó a sentirse orgullosa, aunque el resultado no le gustó
+
+*Respuesta correcta: c.* Retroalimentación: interpretar por qué un personaje siente algo (y no solo qué siente) es una forma más profunda de comprensión, que requiere unir varias partes del texto.
 
 ---
 
@@ -183,26 +203,41 @@ d) 2 estrofas de 2 versos
 
 *Respuesta correcta: Falso.* Retroalimentación: "cielo" y "beso" forman una **rima asonante**, porque solo coinciden los sonidos vocálicos (e-o), no todos los sonidos. La rima consonante exige que coincidan también las consonantes, como en "cielo" y "vuelo".
 
-**3. (Desarrollo breve)** Explica el significado de la personificación "El viento le cuenta secretos a las hojas". ¿Qué imagen o sensación transmite?
+**3. (Alternativas — personificación)** ¿Qué imagen o sensación transmite la personificación "El viento le cuenta secretos a las hojas"?
 
-*Respuesta esperada*: le da al viento una acción humana (contar secretos), lo que transmite una imagen de intimidad y misterio entre los elementos de la naturaleza, como si el valle estuviera vivo y tuviera vida propia durante la noche. Retroalimentación: explicar una personificación no es solo identificarla, sino decir *qué sensación o imagen* provoca en quien lee.
+a) Intimidad y misterio, como si el valle estuviera vivo durante la noche
+b) Peligro y tensión, porque viene un temporal sobre el valle
+c) Alegría ruidosa de una fiesta que dura toda la noche
+d) Que las hojas tienen boca y hablan de verdad con las personas
+
+*Respuesta correcta: a.* Retroalimentación: le da al viento una acción humana (contar secretos). Explicar una personificación no es solo identificarla, sino decir *qué sensación o imagen* provoca en quien lee.
 
 **4. (Alternativas)** ¿Cuál de los siguientes versos del poema es una **metáfora** (y no una comparación)?
 
 a) "El viento le cuenta secretos a las hojas"
-b) "El cielo es un manto lleno de estrellas"
-c) "La luna se asoma tímida y curiosa"
+b) "La luna se asoma tímida y curiosa"
+c) "El cielo es un manto lleno de estrellas"
 d) "Mañana amanece con manos morenas"
 
-*Respuesta correcta: b.* Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones a) y c) son personificaciones (dan acciones o actitudes humanas al viento y a la luna), y la opción d) nombra a los trabajadores a través de sus manos, sin nombrar algo como si fuera otra cosa.
+*Respuesta correcta: c.* Retroalimentación: "El cielo es un manto" nombra directamente al cielo como si fuera un manto, sin usar "como" ni "parece"; eso es una metáfora. Las opciones a) y b) son personificaciones (dan acciones o actitudes humanas al viento y a la luna), y la opción d) nombra a los trabajadores a través de sus manos, sin nombrar algo como si fuera otra cosa.
 
-**5. (Aplicación)** Lee el verso "manos morenas que cortan racimos dorados de sol". ¿A qué sentido (vista, oído, olfato, gusto o tacto) apela principalmente esta imagen? Explica tu respuesta.
+**5. (Alternativas — imagen sensorial)** En el verso "manos morenas que cortan racimos dorados de sol", ¿a qué sentido apela principalmente la imagen?
 
-*Respuesta esperada*: apela principalmente a la **vista**, porque describe colores ("morenas", "dorados") que permiten imaginar visualmente la escena de la cosecha. Retroalimentación: el lenguaje poético frecuentemente usa palabras relacionadas con colores, formas o luz para apelar al sentido de la vista y crear imágenes mentales.
+a) Al oído, porque se escucha el sonido del corte de los racimos
+b) Al olfato, porque se siente el olor de las uvas maduras al sol
+c) Al gusto, porque se describe lo dulces que son las uvas del racimo
+d) A la vista, porque describe colores ("morenas", "dorados")
 
-**6. (Desarrollo breve)** ¿Qué estado de ánimo o atmósfera general crees que transmite este poema en su conjunto? Fundamenta con al menos dos elementos del texto.
+*Respuesta correcta: d.* Retroalimentación: el lenguaje poético frecuentemente usa colores, formas o luz para apelar al sentido de la vista y crear imágenes mentales.
 
-*Respuesta esperada*: por ejemplo, "transmite una atmósfera de calma y tranquilidad nocturna, por palabras como 'tímida', 'dormidos' y 'suave murmullo', que sugieren silencio y quietud". Retroalimentación: para identificar el estado de ánimo de un poema hay que fijarse en el conjunto de palabras que elige el autor o autora (adjetivos, verbos), no en un solo verso aislado.
+**6. (Alternativas — atmósfera)** ¿Qué atmósfera general transmite el poema, y qué palabras la apoyan?
+
+a) Calma y tranquilidad nocturna, por palabras como "tímida", "dormidos" y "suave murmullo"
+b) Miedo y peligro, por palabras como "volcán" y "estrellas"
+c) Enojo y rabia, por palabras como "secretos" que se ocultan entre las hojas del valle oscuro
+d) Prisa y apuro, por palabras como "racimos" que caen rápido del cielo
+
+*Respuesta correcta: a.* Retroalimentación: para identificar el estado de ánimo de un poema hay que fijarse en el conjunto de palabras que elige el autor o autora (adjetivos, verbos), no en un solo verso aislado.
 
 **7. (Verdadero o Falso)** En un poema, un **verso** es un conjunto de estrofas, y una **estrofa** es cada línea individual del poema.
 
@@ -267,41 +302,61 @@ Chaitén         Los Lagos            2008
 
 **1. (Alternativas)** Según el texto, ¿por qué Chile tiene tantos volcanes activos?
 
-a) Porque está cerca del océano Pacífico
-b) Porque está ubicado sobre el Cinturón de Fuego del Pacífico, zona de choque de placas tectónicas
-c) Porque tiene un clima muy frío
-d) Porque tiene muchas cordilleras
+a) Porque está cerca del océano Pacífico, cuyas aguas calientan el interior de la Tierra
+b) Porque tiene muchas cordilleras altas, que con el tiempo se convierten en volcanes
+c) Porque tiene un clima muy frío en la cordillera, que congela y rompe las rocas
+d) Porque está ubicado sobre el Cinturón de Fuego del Pacífico, zona de choque de placas tectónicas
 
-*Respuesta correcta: b.* Retroalimentación: el texto explica explícitamente que Chile está sobre el "Cinturón de Fuego del Pacífico", una zona donde chocan placas tectónicas, y por eso hay tanta actividad volcánica.
+*Respuesta correcta: d.* Retroalimentación: el texto explica explícitamente que Chile está sobre el "Cinturón de Fuego del Pacífico", una zona donde chocan placas tectónicas, y por eso hay tanta actividad volcánica.
 
-**2. (Aplicación — texto discontinuo)** Según la tabla, ¿cuál de los volcanes mencionados tuvo su última erupción registrada más antigua?
+**2. (Alternativas — texto discontinuo)** Según la tabla, ¿cuál de los volcanes mencionados tuvo su última erupción registrada más antigua?
 
-*Respuesta correcta: el Chaitén, en 2008.* Retroalimentación: para responder esta pregunta hay que comparar las fechas de la columna "Última erupción registrada" y encontrar el año menor (más antiguo), que corresponde a 2008.
+a) El Villarrica, en 2015
+b) El Llaima, en 2009
+c) El Chaitén, en 2008
+d) El Calbuco, en 2015
 
-**3. (Desarrollo breve)** ¿Qué significa la expresión "cuando un volcán despierta"? ¿Qué figura del lenguaje figurado se está usando?
+*Respuesta correcta: c.* Retroalimentación: hay que comparar las fechas de la columna "Última erupción registrada" y encontrar el año menor (más antiguo): 2008.
 
-*Respuesta esperada*: significa que el volcán aumenta su actividad sísmica y sus emisiones de gases. Es una **personificación**, porque "despertar" es una acción que asociamos a los seres vivos, no a un volcán. Retroalimentación: los textos informativos usan lenguaje figurado para hacer más entendible o interesante un fenómeno científico, aunque su propósito principal sea informar.
+**3. (Alternativas — lenguaje figurado)** ¿Qué significa la expresión "cuando un volcán despierta", y qué figura se usa?
+
+a) Que el volcán aumenta su actividad sísmica y sus emisiones de gases; es una personificación
+b) Que el volcán se apaga y deja de tener actividad durante muchos años; es una comparación
+c) Que el volcán amanece temprano y se ve iluminado por el sol en la mañana; es una rima
+d) Que el volcán tiene sueño y descansa durante el invierno bajo la nieve; es una onomatopeya
+
+*Respuesta correcta: a.* Retroalimentación: "despertar" es una acción de los seres vivos, no de un volcán. Los textos informativos usan lenguaje figurado para hacer más entendible un fenómeno científico, aunque su propósito principal sea informar.
 
 **4. (Verdadero o Falso)** Según el texto, los volcanes solo representan riesgos y no traen ningún beneficio para Chile.
 
 *Respuesta correcta: Falso.* Retroalimentación: el tercer párrafo explica que, además del riesgo de erupciones, los volcanes también traen beneficios, como enriquecer los suelos agrícolas con ceniza y permitir generar energía geotérmica limpia.
 
-**5. (Aplicación — inferencia)** El texto no menciona directamente por qué las comunidades cercanas al Villarrica podrían practicar simulacros de evacuación. ¿Qué información del texto y qué conocimiento previo te permiten inferir esto?
+**5. (Alternativas — inferencia)** El texto no dice directamente por qué las comunidades cercanas al Villarrica podrían practicar simulacros de evacuación. ¿Qué combinación permite inferirlo?
 
-*Respuesta esperada*: el texto explica que el Villarrica es uno de los volcanes más vigilados porque puede entrar en erupción, y que existen alertas ante el aumento de actividad; combinando eso con el conocimiento de que las zonas de riesgo suelen prepararse con simulacros, se puede inferir que las comunidades cercanas probablemente practican este tipo de preparación, aunque no esté escrito directamente. Retroalimentación: una inferencia combina información explícita del texto con lo que ya sabes del mundo, para llegar a una conclusión razonable que el texto no dice literalmente.
+a) Que el texto dice explícitamente que hay simulacros todos los meses
+b) Que el Villarrica está apagado para siempre, según dicen los habitantes de la zona, y que por eso no se necesitan alertas, monitoreo ni simulacros en las ciudades cercanas
+c) Que el texto habla de energía geotérmica y que las zonas cercanas la usan para calefaccionarse
+d) Que el texto dice que es uno de los volcanes más vigilados y que existen alertas, más el conocimiento de que las zonas de riesgo se preparan con simulacros
+
+*Respuesta correcta: d.* Retroalimentación: una inferencia combina información explícita del texto con lo que ya sabes del mundo, para llegar a una conclusión razonable que el texto no dice literalmente.
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones **compara correctamente** información de distintos párrafos del texto?
 
-a) "Los volcanes solo son estudiados por SERNAGEOMIN, sin ningún otro propósito"
-b) "Aunque los volcanes representan un riesgo para las comunidades cercanas, según el texto también aportan beneficios como suelos fértiles y energía geotérmica"
-c) "El Villarrica es el único volcán activo de Chile"
-d) "La tabla muestra que ningún volcán ha entrado en erupción después del año 2000"
+a) "Los volcanes solo son estudiados por SERNAGEOMIN para predecir la fecha exacta de cada erupción, sin ningún otro propósito"
+b) "El Villarrica es el único volcán activo de Chile, y por eso es el único que aparece en la tabla del texto informativo"
+c) "Aunque los volcanes representan un riesgo para las comunidades cercanas, según el texto también aportan beneficios como suelos fértiles y energía geotérmica"
+d) "La tabla muestra que ningún volcán chileno ha entrado en erupción después del año 2000, así que ya no representan un riesgo"
 
-*Respuesta correcta: b.* Retroalimentación: esta opción relaciona correctamente la idea del segundo párrafo (riesgo y monitoreo) con la del tercer párrafo (beneficios), mostrando dos caras del mismo tema. Las demás opciones contradicen información explícita del texto o la tabla.
+*Respuesta correcta: c.* Retroalimentación: esta opción relaciona correctamente la idea del segundo párrafo (riesgo y monitoreo) con la del tercer párrafo (beneficios), mostrando dos caras del mismo tema. Las demás opciones contradicen información explícita del texto o la tabla.
 
-**7. (Desarrollo breve — opinión fundamentada)** ¿Te parece adecuado que se sigan permitiendo actividades agrícolas o turísticas cerca de volcanes activos como el Villarrica? Da tu opinión y fundaméntala con información del texto o tus propios conocimientos.
+**7. (Alternativas — opinión fundamentada)** Alguien opina: "Me parece razonable que se permitan actividades turísticas cerca del Villarrica". ¿Qué fundamento se apoya en información del texto?
 
-*Respuesta esperada*: cualquier opinión razonada, por ejemplo: "Me parece razonable siempre que exista un buen sistema de monitoreo y alerta, como el que describe el texto con SERNAGEOMIN, porque eso permite anticiparse a una erupción y proteger a las personas a tiempo." Retroalimentación: una opinión fundamentada en un texto informativo debe apoyarse en datos concretos (el monitoreo, las alertas) y no solo en una impresión personal sin argumentos.
+a) Porque los volcanes son bonitos para las fotos y atraen a muchos turistas cada verano
+b) Porque existe un sistema de monitoreo y alertas que permite anticiparse a una erupción y proteger a las personas
+c) Porque a nadie le importan las erupciones, ya que ocurren muy lejos de las ciudades
+d) Porque el volcán no tiene lava, y por eso una erupción no podría afectar a las personas que viven en las ciudades cercanas
+
+*Respuesta correcta: b.* Retroalimentación: una opinión fundamentada en un texto informativo debe apoyarse en datos concretos (el monitoreo, las alertas) y no solo en una impresión personal. También podrías opinar lo contrario, siempre con argumentos.
 
 ---
 
@@ -349,10 +404,10 @@ Si un compañero te dice: "Lee este afiche y dime si va a llover ese sábado", t
 
 **1. (Alternativas)** ¿Quién es el **emisor** del afiche de la Feria Científica?
 
-a) Los estudiantes de 5° básico
+a) Los estudiantes de 5° básico que presentarán sus proyectos
 b) El Departamento de Ciencias de la Escuela Los Aromos
-c) El Ministerio de Educación
-d) Una empresa de robótica
+c) El Ministerio de Educación, que organiza todas las ferias
+d) Una empresa de robótica que vende material para la feria
 
 *Respuesta correcta: b.* Retroalimentación: el texto indica al final "— Departamento de Ciencias, Escuela Los Aromos", que corresponde al emisor, es decir, quien produjo y firma el texto.
 
@@ -360,30 +415,45 @@ d) Una empresa de robótica
 
 *Respuesta correcta: Falso.* Retroalimentación: el propósito principal del afiche es **invitar** a la comunidad a asistir al evento, no informar en detalle sobre los resultados de las investigaciones; esos detalles se conocerían asistiendo a la feria.
 
-**3. (Desarrollo breve)** ¿El afiche entrega suficiente información para responder "¿qué transporte público me deja cerca de la Escuela Los Aromos?"? Explica tu respuesta.
+**3. (Alternativas — evaluar información)** ¿El afiche entrega suficiente información para responder "¿qué transporte público me deja cerca de la Escuela Los Aromos?"?
 
-*Respuesta esperada*: no, el afiche no entrega esa información; solo menciona el lugar (patio central del establecimiento) pero no cómo llegar en transporte público. Retroalimentación: reconocer que un texto no responde una pregunta específica (aunque sea un texto útil para otros fines) es parte de evaluar críticamente la información disponible.
+a) Sí: menciona todas las líneas de micro que pasan cerca del establecimiento y el horario de cada una
+b) Sí: dice que la entrada es liberada, y eso basta para saber cómo llegar
+c) No: solo indica el lugar (patio central del establecimiento), pero no cómo llegar en transporte público
+d) No: el afiche no menciona el nombre de la escuela
+
+*Respuesta correcta: c.* Retroalimentación: reconocer que un texto no responde una pregunta específica (aunque sea útil para otros fines) es parte de evaluar críticamente la información disponible.
 
 **4. (Alternativas)** ¿Quién es el **destinatario** principal del afiche?
 
-a) Solo los profesores de la escuela
+a) Solo los profesores de la escuela que evaluarán los proyectos
 b) La comunidad escolar y el público en general interesado en ciencia
-c) Únicamente estudiantes universitarios
-d) Los proveedores de material de robótica
+c) Únicamente estudiantes universitarios interesados en investigar
+d) Los proveedores de material de robótica que venderán en la feria
 
 *Respuesta correcta: b.* Retroalimentación: el afiche usa un lenguaje amplio ("te invita", "para todo público", "futuros científicos y científicas") que muestra que está dirigido a la comunidad escolar y a cualquier persona interesada, no solo a un grupo reducido.
 
-**5. (Aplicación)** Imagina que quieres saber "cuáles son los requisitos para participar como expositor en la feria del próximo año". ¿El afiche entrega esa información? ¿Qué deberías hacer para conseguirla?
+**5. (Alternativas — evaluar información)** Quieres saber "cuáles son los requisitos para participar como expositor en la feria del próximo año". ¿Qué deberías hacer?
 
-*Respuesta esperada*: el afiche no entrega esa información, ya que solo informa sobre la fecha, horario, lugar y actividades de la feria de este año; para conocer los requisitos de participación como expositor, deberías contactar directamente al Departamento de Ciencias de la escuela (el emisor del texto). Retroalimentación: cuando un texto no responde tu pregunta, el paso siguiente es identificar quién podría tener esa información (frecuentemente, el mismo emisor del texto).
+a) Contactar al Departamento de Ciencias de la escuela, porque el afiche no entrega esa información
+b) Leer el afiche con atención, porque ahí están todos los requisitos para participar el próximo año
+c) Asumir que no hay requisitos, porque el afiche no los menciona y cualquiera puede exponer
+d) Preguntarle a cualquier persona en la calle, porque seguro alguien conoce los requisitos de la feria
+
+*Respuesta correcta: a.* Retroalimentación: cuando un texto no responde tu pregunta, el paso siguiente es identificar quién podría tener esa información (frecuentemente, el mismo emisor del texto).
 
 **6. (Verdadero o Falso)** Todo texto que leemos entrega automáticamente toda la información que podríamos necesitar sobre un tema, sin importar el propósito con el que fue escrito.
 
 *Respuesta correcta: Falso.* Retroalimentación: cada texto se escribe con un propósito específico y para un destinatario específico, por lo que suele entregar solo la información relacionada con ese propósito; para otras preguntas, es necesario buscar en otras fuentes.
 
-**7. (Desarrollo breve)** Piensa en un aviso publicitario de un producto (por ejemplo, un juguete o un alimento) que hayas visto en la televisión o en internet. ¿Cuál crees que es su propósito real, más allá de "informar"? Fundamenta tu respuesta.
+**7. (Alternativas — propósito del texto)** ¿Cuál suele ser el propósito real de un aviso publicitario de un juguete o un alimento, más allá de "informar"?
 
-*Respuesta esperada*: cualquier respuesta razonada que reconozca que el propósito principal de un aviso publicitario suele ser **vender o convencer** al destinatario de comprar el producto, más que simplemente informar de manera neutral. Retroalimentación: distinguir entre textos que buscan informar de manera neutral y textos que buscan vender o convencer es una habilidad clave de la lectura crítica.
+a) Enseñar ciencias de forma neutral, sin intentar influir en el lector
+b) Contar una historia sin ningún interés por lo que piense el lector
+c) Advertir sobre los peligros del producto
+d) Vender o convencer al destinatario de comprar el producto
+
+*Respuesta correcta: d.* Retroalimentación: distinguir entre textos que buscan informar de manera neutral y textos que buscan vender o convencer es una habilidad clave de la lectura crítica.
 
 ---
 
@@ -432,10 +502,10 @@ El diálogo aquí no es un simple adorno: **desarrolla la trama**, porque introd
 
 **1. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor un relato con **conflicto evidente**?
 
-a) Un relato donde solo se cuenta una rutina diaria sin ningún problema
+a) Un relato donde solo se cuenta la rutina diaria de un personaje, sin ningún problema que resolver
 b) Un relato donde el personaje enfrenta una dificultad que debe resolver a lo largo de la historia
-c) Un relato compuesto únicamente de descripciones de paisajes
-d) Un relato que solo tiene diálogos, sin ninguna acción
+c) Un relato compuesto únicamente de descripciones de paisajes, colores y olores, sin acciones
+d) Un relato que solo tiene diálogos entre los personajes, sin ninguna acción ni dificultad
 
 *Respuesta correcta: b.* Retroalimentación: el conflicto es el motor de una narración: sin un problema o dificultad que el personaje deba enfrentar y resolver, la historia carece de tensión y de interés narrativo.
 
@@ -443,30 +513,50 @@ d) Un relato que solo tiene diálogos, sin ninguna acción
 
 *Respuesta correcta: Falso.* Retroalimentación: un buen diálogo aporta información relevante: puede revelar la personalidad de un personaje, introducir un conflicto, dar pistas sobre lo que va a pasar, o mostrar la relación entre los personajes.
 
-**3. (Aplicación)** Escribe una breve descripción (2 a 3 oraciones) del ambiente de un mercado persa en un día de mucho calor, usando al menos dos detalles sensoriales (algo que se vea, se escuche, se huela o se sienta).
+**3. (Alternativas — descripción)** ¿Qué descripción del ambiente de un mercado persa en un día de calor usa **detalles sensoriales**?
 
-*Respuesta esperada*: cualquier descripción que incluya detalles sensoriales concretos, por ejemplo: "El sol caía con fuerza sobre las carpas de colores del mercado persa. Se sentía el olor a especias mezclado con el de las sopaipillas recién fritas, mientras los vendedores gritaban sus ofertas entre el bullicio de la gente." Retroalimentación: una buena descripción no se limita a decir "hacía calor" o "había mucha gente"; usa detalles sensoriales concretos que permiten imaginar la escena.
+a) Hacía mucho calor ese día en el mercado persa, y había mucha gente comprando en todos los puestos.
+b) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas
+c) El mercado persa es un lugar donde se venden muchas cosas distintas, como ropa, comida y juguetes.
+d) Fui al mercado persa con mi familia un día de mucho calor, compramos sopaipillas, ropa y juguetes, y después volvimos a mi casa en micro, muy cansados.
 
-**4. (Desarrollo breve)** Escribe dos oraciones que muestren el **inicio** de un relato: presenta a un personaje y el ambiente donde se encuentra, usando al menos un conector.
+*Respuesta correcta: b.* Retroalimentación: una buena descripción no se limita a decir "hacía calor" o "había mucha gente": usa detalles concretos de lo que se ve, se huele o se escucha, que permiten imaginar la escena.
 
-*Respuesta esperada*: cualquier inicio bien construido, por ejemplo: "Emilia caminaba apurada por las calles de Valparaíso, esquivando a los turistas que tomaban fotos a los coloridos murales. De repente, escuchó un grito que venía desde uno de los cerros." Retroalimentación: un buen inicio presenta quién es el personaje y dónde ocurre la historia, preparando el terreno para el conflicto que vendrá después.
+**4. (Alternativas — inicio de un relato)** ¿Cuál de estos textos es un buen **inicio** de relato, que presenta un personaje y su ambiente y usa un conector?
+
+a) Y así fue como todos vivieron felices para siempre en su casa del cerro, sin volver a pelear nunca más.
+b) Valparaíso es una ciudad de la Región de Valparaíso, conocida por sus cerros, sus ascensores y su puerto, que recibe muchos turistas cada año.
+c) Emilia caminaba apurada por las calles de Valparaíso, esquivando a los turistas. De repente, escuchó un grito que venía desde uno de los cerros.
+d) Fin. Gracias por leer este cuento sobre Emilia y la ciudad de Valparaíso, que tiene muchos cerros.
+
+*Respuesta correcta: c.* Retroalimentación: un buen inicio presenta quién es el personaje y dónde ocurre la historia, preparando el terreno para el conflicto que vendrá después; "De repente" es el conector que introduce el giro.
 
 **5. (Alternativas)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar un cambio inesperado?
 
-a) "Y, y, y, y"
+a) "Además, también, asimismo, igualmente"
 b) "Primero, luego, sin embargo, finalmente"
-c) "Rojo, azul, verde, amarillo"
-d) "Casa, perro, gato, árbol"
+c) "Porque, ya que, puesto que, debido a"
+d) "Por ejemplo, es decir, o sea, como"
 
 *Respuesta correcta: b.* Retroalimentación: "primero" y "luego" ordenan los sucesos en el tiempo, "sin embargo" indica un cambio o contraste inesperado, y "finalmente" marca el cierre del relato; juntos ayudan a que la historia se entienda con claridad.
 
-**6. (Aplicación — texto largo)** Relee el "Ejemplo 1" sobre la partida de ajedrez entre Matías y Josefa. Identifica y escribe: (a) el conflicto evidente del relato, y (b) cómo se resuelve a lo largo de la historia.
+**6. (Alternativas — conflicto y resolución)** En el "Ejemplo 1" sobre la partida de ajedrez entre Matías y Josefa, ¿cuál es el conflicto y cómo se resuelve?
 
-*Respuesta esperada*: (a) el conflicto es que Matías debe enfrentar a Josefa, una rival invicta, y además comete un error grave al inicio de la partida; (b) se resuelve cuando Matías logra calmarse, recordando el consejo de su papá, y encuentra una jugada que le permite ganar la partida. Retroalimentación: identificar el conflicto y su resolución en un texto ajeno te entrena para incluir ambos elementos, de forma clara, en tus propios relatos.
+a) Matías enfrenta a una rival invicta y comete un error grave; lo resuelve al calmarse, recordando el consejo de su papá, y encuentra una jugada para ganar
+b) Josefa pierde su tablero de ajedrez antes del campeonato y no puede practicar; lo resuelve al encontrarlo en la sala de su colegio, debajo de un banco
+c) Matías no quiere ir al colegio el día del torneo; lo resuelve su mamá, que lo convence con un premio
+d) No hay conflicto en el relato: Matías gana todas las partidas sin dificultad y celebra con su papá
 
-**7. (Desarrollo breve)** Escribe un breve diálogo (3 a 4 líneas) entre dos personajes en el que uno de ellos revele un secreto importante para la trama.
+*Respuesta correcta: a.* Retroalimentación: identificar el conflicto y su resolución en un texto ajeno te entrena para incluir ambos elementos, de forma clara, en tus propios relatos.
 
-*Respuesta esperada*: cualquier diálogo coherente que efectivamente revele información relevante para una posible trama, por ejemplo: "—Tengo que contarte algo —dijo Ignacio, con la voz baja—. Vi quién se llevó el balón del curso. / —¿Quién fue? —preguntó Fernanda, sorprendida. / —No te va a gustar la respuesta —respondió Ignacio, mirando hacia el suelo." Retroalimentación: un buen diálogo aporta tensión o información nueva a la historia; evita que los personajes solo digan cosas sin relación con el conflicto central del relato.
+**7. (Alternativas — diálogo)** ¿Qué diálogo revela un secreto importante para la trama?
+
+a) —Hola —dijo Ignacio. —Hola —respondió Fernanda—. ¿Cómo estás? —Bien, gracias.
+b) —¿Qué hora es? —preguntó Ignacio. —Son las tres —dijo Fernanda.
+c) —Me gusta el helado —dijo Ignacio. —A mí también —respondió Fernanda—. ¿Vamos a comprar uno?
+d) —Tengo que contarte algo —dijo Ignacio, en voz baja—. Vi quién se llevó el balón del curso.
+
+*Respuesta correcta: d.* Retroalimentación: un buen diálogo aporta tensión o información nueva a la historia; los otros solo dicen cosas sin relación con un conflicto.
 
 ---
 
@@ -511,30 +601,50 @@ d) Describir físicamente al autor del texto
 
 *Respuesta correcta: Falso.* Retroalimentación: cada párrafo debe desarrollar **una idea central**, separada de las demás mediante punto aparte; mezclar varias ideas en un mismo párrafo dificulta la comprensión del lector.
 
-**3. (Aplicación)** Según el artículo "El huemul, un símbolo en peligro", ¿cuál es la idea central del segundo párrafo?
+**3. (Alternativas — idea central)** Según el artículo "El huemul, un símbolo en peligro", ¿cuál es la idea central del segundo párrafo?
 
-*Respuesta correcta: las principales amenazas que enfrenta el huemul (pérdida de hábitat, competencia con especies introducidas, ataques de perros asilvestrados) y los programas de conservación que existen para protegerlo.* Retroalimentación: identificar la idea central de cada párrafo te ayuda tanto a comprender textos ajenos como a organizar mejor tus propios artículos.
+a) Que el huemul forma parte del escudo nacional junto al cóndor, y por qué fue elegido como símbolo patrio
+b) Las principales amenazas del huemul (pérdida de hábitat, competencia con especies introducidas, ataques de perros) y los programas para protegerlo
+c) Que el huemul indica que un ecosistema está saludable, y cómo los científicos lo usan para medir la calidad del bosque y del agua de los ríos
+d) Las fuentes que se usaron para escribir el artículo y los nombres de los científicos que estudian al huemul
 
-**4. (Desarrollo breve)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
+*Respuesta correcta: b.* Retroalimentación: identificar la idea central de cada párrafo te ayuda tanto a comprender textos ajenos como a organizar mejor tus propios artículos. El escudo se menciona en el primer párrafo y el rol ecológico en el tercero.
 
-*Respuesta esperada*: porque permite que el lector verifique de dónde proviene la información, y muestra que el texto se basa en datos confiables y no solo en opiniones o inventos del autor. Retroalimentación: agregar fuentes es parte de la responsabilidad de quien informa: da transparencia y credibilidad al texto.
+**4. (Alternativas — fuentes)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
+
+a) Porque así el artículo es más largo y ocupa más espacio en la página
+b) Porque es obligatorio poner el nombre del autor dos veces en el artículo, al principio y al final del texto
+c) Porque permite verificar de dónde proviene la información y muestra que se basa en datos confiables
+d) No es importante, porque el lector confía en lo que dice quien escribe
+
+*Respuesta correcta: c.* Retroalimentación: agregar fuentes es parte de la responsabilidad de quien informa: da transparencia y credibilidad al texto.
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el reciclaje?
 
-a) "Reciclar es bueno. Reciclar ayuda. Reciclar es importante. Reciclar se debe hacer."
+a) "Reciclar es bueno. Reciclar ayuda. Reciclar es importante. Reciclar se debe hacer. Reciclar sirve para todos y reciclar es necesario en la escuela."
 b) "Reciclar contribuye a reducir la contaminación, disminuye la cantidad de residuos en los vertederos y permite reutilizar materiales valiosos."
-c) "Reciclar reciclar reciclar es lo mejor lo mejor."
-d) "El reciclaje reciclaje reciclaje ayuda ayuda ayuda."
+c) "Reciclar reciclar reciclar es lo mejor lo mejor, porque reciclar es reciclar y reciclar ayuda."
+d) "El reciclaje reciclaje reciclaje ayuda ayuda ayuda, y el reciclaje es reciclaje en todas partes."
 
 *Respuesta correcta: b.* Retroalimentación: la opción b) evita repetir la palabra "reciclar" en cada oración, usando sinónimos y expresiones distintas ("contribuye", "disminuye", "permite reutilizar"), lo que hace el texto más claro y agradable de leer.
 
-**6. (Aplicación — texto largo)** Imagina que debes escribir un artículo informativo breve sobre "el reciclaje en tu colegio". Escribe la oración inicial que presente el tema, y menciona qué dos ideas centrales podrías desarrollar en los párrafos siguientes.
+**6. (Alternativas — planificar un artículo)** Debes escribir un artículo informativo sobre "el reciclaje en tu colegio". ¿Qué planificación es más adecuada?
 
-*Respuesta esperada*: cualquier oración inicial que presente claramente el tema (por ejemplo, "El reciclaje se ha convertido en una práctica cada vez más importante dentro de los colegios chilenos"), junto con dos ideas centrales razonables para párrafos siguientes (por ejemplo, "los tipos de materiales que se reciclan en el colegio" y "los beneficios ambientales de esta práctica para la comunidad escolar"). Retroalimentación: planificar las ideas centrales de cada párrafo antes de escribir ayuda a organizar mejor un artículo informativo y evita mezclar información sin orden.
+a) Oración inicial: "El reciclaje se ha convertido en una práctica cada vez más importante en los colegios chilenos". Ideas centrales: los materiales que se reciclan y los beneficios ambientales
+b) Oración inicial: "Me gusta el fútbol y lo juego con mis amigos todos los recreos". Ideas centrales: los equipos favoritos y los goles del último partido
+c) Escribir todo en un solo párrafo, sin presentar el tema, mezclando los materiales que se reciclan con opiniones personales sobre el colegio y sobre los compañeros que no reciclan
+d) Empezar por las fuentes consultadas y no presentar el tema, para que el lector descubra solo de qué trata el texto al llegar al final
 
-**7. (Desarrollo breve)** Menciona dos tipos de fuentes que podrías usar para investigar y escribir un artículo informativo sobre un animal en peligro de extinción en Chile.
+*Respuesta correcta: a.* Retroalimentación: planificar las ideas centrales de cada párrafo antes de escribir ayuda a organizar mejor un artículo informativo y evita mezclar información sin orden.
 
-*Respuesta esperada*: cualquier par de fuentes razonables y confiables, por ejemplo: páginas web de instituciones oficiales (CONAF, Ministerio del Medio Ambiente), libros o enciclopedias sobre fauna chilena, entrevistas a especialistas, o documentales confiables. Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas en el tema.
+**7. (Varias correctas — fuentes confiables)** ¿Cuáles de estas son fuentes confiables para investigar sobre un animal en peligro de extinción en Chile? Marca **todas** las correctas.
+
+a) Páginas web de instituciones oficiales, como CONAF o el Ministerio del Medio Ambiente
+b) Un comentario anónimo en una red social
+c) Libros o enciclopedias sobre fauna chilena
+d) Entrevistas a especialistas
+
+*Respuesta correcta: a, c y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas. Un comentario anónimo no permite verificar quién da la información.
 
 ---
 

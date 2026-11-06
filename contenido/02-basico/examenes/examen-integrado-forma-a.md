@@ -29,7 +29,7 @@ basado_en: >
 1. Esta prueba **integra las cuatro asignaturas del curso en un solo cuadernillo**, tal como el examen real de Validación de Estudios del Mineduc para 2° básico: contiene **20 preguntas en total**, mezcladas y no agrupadas por asignatura.
 2. **Tiempo total: 90 minutos.**
 3. No se pueden usar libros, apuntes ni celulares durante la prueba. El apoderado no puede acompañar ni ayudar al estudiante mientras rinde el examen.
-4. Hay preguntas de **alternativas** (marca con una X la única opción correcta, o Verdadero/Falso) y preguntas de **desarrollo breve** (responde con tus propias palabras, con una explicación corta o mostrando tu procedimiento).
+4. Todas las preguntas son de **alternativas**: marca con una X la única opción correcta, o Verdadero/Falso. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. Observa con atención los textos, dibujos, mapas o tablas que acompañan algunas preguntas antes de responder.
 6. Responde todas las preguntas en el orden en que aparecen. Si una te cuesta, continúa con la siguiente y vuelve a ella si te queda tiempo.
 7. Al finalizar, revisa tus respuestas. Al final de este documento encontrarás la **Pauta de Corrección**.
@@ -77,9 +77,9 @@ d) Huevo → renacuajo → rana adulta
 **5. (Matemática — Alternativas)** Calcula: 45 + 32 = ?
 
 a) 67
-b) 77
-c) 87
-d) 75
+b) 75
+c) 77
+d) 87
 
 ---
 
@@ -93,18 +93,18 @@ d) 75
 
 ¿Dónde vive Emilia?
 
-a) En Rancagua
-b) Cerca de Puerto Montt, frente al mar
-c) En el centro de Santiago
-d) En Chillán
+a) En Rancagua, cerca de la cordillera
+b) En Chillán, en una casa con un patio
+c) En el centro de Santiago, en un edificio
+d) Cerca de Puerto Montt, frente al mar
 
 ---
 
 **7. (Ciencias Naturales — Alternativas)** ¿Cuál de los siguientes es un animal nativo de Chile que está en peligro de extinción?
 
-a) El perro
+a) El huemul
 b) La gallina
-c) El huemul
+c) El perro
 d) El caballo
 
 ---
@@ -117,8 +117,8 @@ d) El caballo
 
 a) Aymara
 b) Diaguita
-c) Mapuche
-d) Rapa Nui
+c) Rapa Nui
+d) Mapuche
 
 ---
 
@@ -131,7 +131,12 @@ d) sumar 10
 
 ---
 
-**10. (Lenguaje — Desarrollo breve)** Usando el texto "La fiesta sorpresa de Emilia" de la pregunta 6: ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Explica usando lo que dice el texto.
+**10. (Lenguaje — Alternativas)** Usando el texto "La fiesta sorpresa de Emilia" de la pregunta 6: ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Elige la respuesta que se apoya en lo que dice el texto.
+
+a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría
+b) Enojada, porque no la invitaron a decorar el patio para la fiesta y quería ayudar
+c) Triste, porque se puso a llorar cuando todos gritaron "¡sorpresa!" en el patio
+d) Aburrida, porque ya sabía de la sorpresa y no le gustan las fiestas con mucha gente
 
 ---
 
@@ -152,8 +157,8 @@ d) Brasil
 
 ¿Qué le ocurre al agua cuando la viertes en recipientes de distinta forma?
 
-a) Cambia de color
-b) Se adapta a la forma del recipiente
+a) Se adapta a la forma del recipiente
+b) Cambia de color
 c) Se convierte en hielo de inmediato
 d) Desaparece
 
@@ -230,10 +235,10 @@ d) Las nubes
 
 **20. (Historia — Alternativas)** ¿Para qué sirve conocer las vías de evacuación de tu escuela o tu casa?
 
-a) Para jugar durante el recreo
+a) Para saber dónde jugar con tus amigos durante el recreo
 b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia, como un sismo
-c) Para llegar más rápido a la sala de clases
-d) Para decorar los pasillos
+c) Para llegar más rápido a la sala de clases cuando suena el timbre en la mañana y no atrasarse
+d) Para saber qué pasillos hay que decorar en las fiestas de la escuela
 
 ---
 
@@ -243,7 +248,7 @@ d) Para decorar los pasillos
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -259,14 +264,14 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 2 | Matemática | **d) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
 | 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** | OA 3 |
-| 5 | Matemática | **b) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
-| 6 | Lenguaje y Comunicación | **b) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
-| 7 | Ciencias Naturales | **c) El huemul.** | OA 5 |
-| 8 | Historia, Geografía y Cs. Sociales | **c) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
+| 5 | Matemática | **c) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
+| 6 | Lenguaje y Comunicación | **d) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
+| 7 | Ciencias Naturales | **a) El huemul.** | OA 5 |
+| 8 | Historia, Geografía y Cs. Sociales | **d) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
 | 9 | Matemática | **c) sumar 8.** La diferencia entre cada número y el anterior es siempre 8. | OA 12 |
-| 10 | Lenguaje y Comunicación | Respuesta que indique sorpresa y alegría, apoyada en el texto: "se quedó inmóvil un segundo, con los ojos muy abiertos" y "se rió y se puso a llorar de alegría al mismo tiempo". | OA N°5 |
+| 10 | Lenguaje y Comunicación | **a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría.** El texto dice que "se quedó inmóvil un segundo, con los ojos muy abiertos" y "se rió y se puso a llorar de alegría al mismo tiempo": lloró de alegría, no de tristeza. | OA N°5 |
 | 11 | Historia, Geografía y Cs. Sociales | **c) Argentina.** Se ubica al este de Chile y comparte con nuestro país la frontera más larga. | OA 7 |
-| 12 | Ciencias Naturales | **b) Se adapta a la forma del recipiente.** | OA 9 |
+| 12 | Ciencias Naturales | **a) Se adapta a la forma del recipiente.** | OA 9 |
 | 13 | Lenguaje y Comunicación | **b) Rancagua.** La carta dice "Te escribo desde Rancagua". | OA N°7 |
 | 14 | Matemática | **b) 4 lados y 4 vértices.** | OA 15 |
 | 15 | Historia, Geografía y Cs. Sociales | **b) Fiordo.** Es una entrada de mar entre montañas, típica del paisaje del sur de Chile. | OA 8 |
@@ -292,19 +297,19 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 3, 8 | 3 | 0 |
-| OA 2 | 2 | 1 | 0 |
-| OA 3 | 4 | 1 | 0 |
-| OA 5 | 6, 7, 10 | 2 | 1 |
-| OA 7 | 11, 13 | 2 | 0 |
-| OA 8 | 15 | 1 | 0 |
-| OA 9 | 5, 12 | 2 | 0 |
-| OA 11 | 16 | 1 | 0 |
-| OA 12 | 9, 19 | 2 | 0 |
-| OA 14 | 20 | 1 | 0 |
-| OA 15 | 14 | 1 | 0 |
-| OA 17 | 17 | 1 | 0 |
-| OA 22 | 18 | 1 | 0 |
-| **Total** | **20 preguntas** | **19** | **1** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 3, 8 | 3 |
+| OA 2 | 2 | 1 |
+| OA 3 | 4 | 1 |
+| OA 5 | 6, 7, 10 | 3 |
+| OA 7 | 11, 13 | 2 |
+| OA 8 | 15 | 1 |
+| OA 9 | 5, 12 | 2 |
+| OA 11 | 16 | 1 |
+| OA 12 | 9, 19 | 2 |
+| OA 14 | 20 | 1 |
+| OA 15 | 14 | 1 |
+| OA 17 | 17 | 1 |
+| OA 22 | 18 | 1 |
+| **Total** | **20 preguntas** | **20** |

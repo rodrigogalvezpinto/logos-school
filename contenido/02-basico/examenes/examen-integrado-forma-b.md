@@ -31,7 +31,7 @@ basado_en: >
 1. Esta prueba **integra las cuatro asignaturas del curso en un solo cuadernillo**, tal como el examen real de Validación de Estudios del Mineduc para 2° básico: contiene **20 preguntas en total**, mezcladas y no agrupadas por asignatura.
 2. **Tiempo total: 90 minutos.**
 3. No se pueden usar libros, apuntes ni celulares durante la prueba. El apoderado no puede acompañar ni ayudar al estudiante mientras rinde el examen.
-4. Hay preguntas de **alternativas** (marca con una X la única opción correcta, o Verdadero/Falso) y preguntas de **desarrollo breve** (responde con tus propias palabras, con una explicación corta o mostrando tu procedimiento).
+4. Todas las preguntas son de **alternativas**: marca con una X la única opción correcta, o Verdadero/Falso. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. Observa con atención los textos, dibujos, mapas o tablas que acompañan algunas preguntas antes de responder.
 6. Responde todas las preguntas en el orden en que aparecen. Si una te cuesta, continúa con la siguiente y vuelve a ella si te queda tiempo.
 7. Al finalizar, revisa tus respuestas. Al final de este documento encontrarás la **Pauta de Corrección**.
@@ -43,18 +43,18 @@ basado_en: >
 
 **1. (Ciencias Naturales — Alternativas)** ¿Cuál es la función principal del corazón?
 
-a) Digerir los alimentos
-b) Permitir la respiración
-c) Sostener el cuerpo
+a) Digerir los alimentos que comemos
+b) Permitir la respiración de los pulmones
+c) Sostener el cuerpo y darle su forma
 d) Bombear la sangre por todo el cuerpo
 
 ---
 
 **2. (Historia — Alternativas)** Muchas familias mapuche, aymara y rapa nui viven hoy en ciudades, usan tecnología moderna y van a escuelas junto a niños de otros orígenes. Al mismo tiempo, mantienen fiestas como el We Tripantu y su artesanía tradicional. ¿Qué nos muestra esta situación?
 
-a) Que los pueblos indígenas desaparecieron por completo
+a) Que los pueblos indígenas desaparecieron por completo de las ciudades
 b) Que solo se puede vivir de una forma, tradicional o moderna, pero no de ambas
-c) Que ya no existen personas mapuche, aymara ni rapa nui en Chile
+c) Que ya no existen personas mapuche, aymara ni rapa nui en Chile actual
 d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual
 
 ---
@@ -80,22 +80,27 @@ d) No se puede saber
 **5. (Historia — Alternativas)** ¿Qué significa que la sociedad chilena sea una sociedad "mestiza"?
 
 a) Que nació de la mezcla entre los pueblos originarios y los españoles
-b) Que solo tiene aportes de los pueblos originarios
-c) Que solo tiene aportes de España
-d) Que no tiene ningún tipo de mezcla cultural
+b) Que solo tiene aportes de los pueblos originarios de Chile
+c) Que solo tiene aportes de España y de los españoles
+d) Que no tiene ningún tipo de mezcla entre culturas distintas
 
 ---
 
 **6. (Ciencias Naturales — Alternativas)** ¿Qué le sucede al corazón de una persona que hace actividad física con frecuencia?
 
 a) Se debilita
-b) Se fortalece
+b) No cambia nunca
 c) Deja de latir
-d) No cambia nunca
+d) Se fortalece
 
 ---
 
-**7. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Camila tenía 96 stickers y le regaló 42 a su amiga. ¿Cuántos stickers le quedan?
+**7. (Matemática — Alternativas)** Camila tenía 96 stickers y le regaló 42 a su amiga. ¿Cuántos stickers le quedan?
+
+a) 54 stickers
+b) 138 stickers
+c) 64 stickers
+d) 44 stickers
 
 ---
 
@@ -113,14 +118,19 @@ Según el texto, Benjamín y Constanza organizaron la fiesta sorpresa para Emili
 
 **9. (Historia — Alternativas)** ¿Cuál de estos es un ejemplo de aporte de la inmigración a la sociedad chilena?
 
-a) Los moái de Isla de Pascua
-b) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile
-c) El palín, juego de origen mapuche
-d) Las rukas del pueblo mapuche
+a) Los moái de Isla de Pascua, construidos por el pueblo rapa nui hace siglos
+b) Las rukas del pueblo mapuche, viviendas tradicionales hechas de madera y paja
+c) El palín, juego de origen mapuche que se practica con un palo curvo y una bola
+d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile
 
 ---
 
-**10. (Ciencias Naturales — Desarrollo breve)** Si le echas un puñado de arena y un puñado de azúcar a dos vasos con agua y revuelves, ¿qué diferencia vas a observar entre ambos? Explica por qué ocurre.
+**10. (Ciencias Naturales — Alternativas)** Si le echas un puñado de arena y un puñado de azúcar a dos vasos con agua y revuelves, ¿qué diferencia vas a observar entre ambos?
+
+a) Los dos se disuelven y desaparecen del agua, sin que se vea nada
+b) Ninguno se disuelve, y los dos se quedan en el fondo del vaso
+c) La arena se disuelve y deja de verse; el azúcar no se disuelve y se queda en el fondo del vaso
+d) El azúcar se disuelve y deja de verse; la arena no se disuelve y se sigue viendo en el agua
 
 ---
 
@@ -150,7 +160,14 @@ d) Verde
 
 ---
 
-**13. (Ciencias Naturales — Desarrollo breve)** Propón dos acciones cotidianas para cuidar el agua en tu casa o en tu colegio.
+**13. (Ciencias Naturales — Varias correctas)** ¿Qué acciones cotidianas cuidan el agua en tu casa o en tu colegio?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Cerrar la llave al lavarse los dientes
+b) Dejar la manguera corriendo
+c) Avisar cuando una llave gotea
+d) No contaminar ríos ni lagos
 
 ---
 
@@ -163,7 +180,12 @@ d) Litros
 
 ---
 
-**15. (Lenguaje — Desarrollo breve)** Usando el texto "El reciclaje en la escuela" de la pregunta 12: ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+**15. (Lenguaje — Alternativas)** Usando el texto "El reciclaje en la escuela" de la pregunta 12: ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+
+a) Para que los contenedores se vean bonitos y alegres en el patio de la escuela
+b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien
+c) Para decir cuánto cuesta reciclar cada tipo de basura en la escuela
+d) Para que nadie use los contenedores sin pedir permiso a la profesora
 
 ---
 
@@ -176,7 +198,7 @@ d) Zona austral
 
 ---
 
-**17. (Matemática — Desarrollo breve, resuelve y muestra tu desarrollo)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
+**17. (Matemática — Alternativas)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
 
 | Medio de transporte | Alumnos |
 |---|---|
@@ -185,6 +207,11 @@ d) Zona austral
 | Bicicleta | 6 |
 
 ¿Cuántos alumnos más llegan a pie que en bicicleta?
+
+a) 3 alumnos más
+b) 6 alumnos más
+c) 9 alumnos más
+d) 21 alumnos más
 
 ---
 
@@ -221,7 +248,7 @@ d) Los medios de transporte
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -238,18 +265,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
 | 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |
-| 6 | Ciencias Naturales | **b) Se fortalece.** | OA 8 |
-| 7 | Matemática | 96-42=**54 stickers**. Como Camila regala stickers (su cantidad disminuye), corresponde una resta. | OA 9 |
+| 6 | Ciencias Naturales | **d) Se fortalece.** | OA 8 |
+| 7 | Matemática | **a) 54 stickers.** Como Camila regala stickers (su cantidad disminuye), corresponde una resta: 96 − 42 = 54. | OA 9 |
 | 8 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa". | OA N°5 |
-| 9 | Historia, Geografía y Cs. Sociales | **b) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** | OA 4 |
-| 10 | Ciencias Naturales | El azúcar se disuelve y desaparece a la vista; la arena no se disuelve y sigue siendo visible en el agua. | OA 9 |
+| 9 | Historia, Geografía y Cs. Sociales | **d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** | OA 4 |
+| 10 | Ciencias Naturales | **d) El azúcar se disuelve y deja de verse; la arena no se disuelve y se sigue viendo en el agua.** No todos los sólidos se disuelven en el agua: el azúcar sí, la arena no. | OA 9 |
 | 11 | Matemática | **b) <.** 8+5=13, y como 13 es menor que 14, el símbolo correcto es < (menor que). | OA 13 |
 | 12 | Lenguaje y Comunicación | **c) Azul.** El artículo dice "El contenedor azul es para el papel y el cartón". | OA N°7 |
-| 13 | Ciencias Naturales | Cualquier combinación razonable, por ejemplo: cerrar la llave al lavarse los dientes, reportar llaves que gotean, reutilizar el agua, no contaminar ríos ni lagos. | OA 11 |
+| 13 | Ciencias Naturales | **a, c y d.** Son acciones cotidianas que cuidan el agua; dejar la manguera corriendo la desperdicia. | OA 11 |
 | 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
-| 15 | Lenguaje y Comunicación | Respuesta que indique que los dibujos ayudan a reconocer qué basura va en cada contenedor, incluso para quienes todavía no saben leer bien. | OA N°7 |
+| 15 | Lenguaje y Comunicación | **b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona centro.** Los valles fértiles con viñedos y ríos, entre las dos cordilleras, son característicos del centro de Chile. | OA 8 |
-| 17 | Matemática | 15-6=**9 alumnos más**. Comparamos las alturas de las barras "a pie" (15) y "en bicicleta" (6), y restamos. | OA 22 |
+| 17 | Matemática | **c) 9 alumnos más.** Comparamos "a pie" (15) y "en bicicleta" (6) y restamos: 15 − 6 = 9. | OA 22 |
 | 18 | Ciencias Naturales | **c) Verano.** | OA 14 |
 | 19 | Lenguaje y Comunicación | **c) "Las niño jugaban en el patio."** "Las" (plural, femenino) no concuerda con "niño" (singular, masculino). | OA N°17 |
 | 20 | Historia, Geografía y Cs. Sociales | **b) Los medios de comunicación.** Transmiten información importante, como alertas de emergencia, a toda la comunidad. | OA 15 |
@@ -270,21 +297,21 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 3 | 1 | 0 |
-| OA 2 | 2 | 1 | 0 |
-| OA 3 | 4, 5 | 2 | 0 |
-| OA 4 | 9 | 1 | 0 |
-| OA 5 | 8 | 0 | 1 |
-| OA 7 | 1, 12, 15 | 2 | 1 |
-| OA 8 | 6, 16 | 2 | 0 |
-| OA 9 | 7, 10 | 0 | 2 |
-| OA 11 | 13 | 0 | 1 |
-| OA 13 | 11 | 1 | 0 |
-| OA 14 | 18 | 1 | 0 |
-| OA 15 | 20 | 1 | 0 |
-| OA 17 | 19 | 1 | 0 |
-| OA 19 | 14 | 1 | 0 |
-| OA 22 | 17 | 0 | 1 |
-| **Total** | **20 preguntas** | **14** | **6** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 3 | 1 |
+| OA 2 | 2 | 1 |
+| OA 3 | 4, 5 | 2 |
+| OA 4 | 9 | 1 |
+| OA 5 | 8 | 1 |
+| OA 7 | 1, 12, 15 | 3 |
+| OA 8 | 6, 16 | 2 |
+| OA 9 | 7, 10 | 2 |
+| OA 11 | 13 | 1 |
+| OA 13 | 11 | 1 |
+| OA 14 | 18 | 1 |
+| OA 15 | 20 | 1 |
+| OA 17 | 19 | 1 |
+| OA 19 | 14 | 1 |
+| OA 22 | 17 | 1 |
+| **Total** | **20 preguntas** | **20** |

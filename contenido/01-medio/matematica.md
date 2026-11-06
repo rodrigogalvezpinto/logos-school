@@ -76,11 +76,11 @@ Se descompone por partes: "la diferencia entre 8 y x" es (8−x); "la mitad de" 
 
 **Pregunta 1 (alternativas).** Calcula: 2 + 3 × (−4).
 a) −20
-b) −10
+b) 5
 c) 20
-d) 5
+d) −10
 
-**Respuesta correcta: b) −10.**
+**Respuesta correcta: d) −10.**
 *Retroalimentación:* la multiplicación tiene mayor prioridad que la suma: primero 3×(−4)=−12, y luego 2+(−12)=−10.
 
 **Pregunta 2 (verdadero o falso).** En la expresión (5+3)×2, el resultado es el mismo si se calcula 5+3×2.
@@ -89,38 +89,58 @@ d) 5
 *Retroalimentación:* (5+3)×2 = 8×2 = 16, porque el paréntesis se resuelve primero; en cambio 5+3×2 = 5+6 = 11, porque sin paréntesis la multiplicación tiene prioridad sobre la suma.
 
 **Pregunta 3 (calcular — jerarquía con potencias).** Calcula: 4 − 2² + 6 ÷ 3.
-a) 4
-b) 8
+a) 8
+b) 4
 c) 2
 d) 0
 
 **Respuesta correcta: c) 2.**
 *Retroalimentación:* primero la potencia: 2²=4; luego la división: 6÷3=2; finalmente, de izquierda a derecha: 4−4+2=2.
 
-**Pregunta 4 (desarrollo — operatoria combinada con fracciones).** Calcula: 1/3 − (1/2 − 3/4) × 2/5.
+**Pregunta 4 (alternativas — operatoria combinada con fracciones).** Calcula: 1/3 − (1/2 − 3/4) × 2/5.
+a) 1/12
+b) 7/30
+c) −1/10
+d) 13/30
 
-**Respuesta esperada:** paréntesis: 1/2−3/4 = 2/4−3/4 = −1/4. Multiplicación: (−1/4)×2/5 = −2/20 = −1/10. Resta: 1/3 − (−1/10) = 10/30 + 3/30 = **13/30**.
-*Retroalimentación:* siempre se resuelve primero el paréntesis, luego la multiplicación, y al final la suma o resta; restar un número negativo equivale a sumar su opuesto.
+**Respuesta correcta: d) 13/30.**
+*Retroalimentación:* primero el paréntesis (−1/4), luego la multiplicación (−1/10) y al final la resta: 1/3 − (−1/10) = 13/30. Restar un negativo equivale a sumar su opuesto; 7/30 resulta de olvidar ese cambio de signo.
 
-**Pregunta 5 (identificar propiedad).** Un estudiante escribe: 7 × 12 = 7 × (10+2) = 7×10 + 7×2 = 70+14 = 84. ¿Qué propiedad está aplicando para descomponer el cálculo?
+**Pregunta 5 (alternativas — identificar propiedad).** Un estudiante escribe: 7 × 12 = 7 × (10 + 2) = 7 × 10 + 7 × 2 = 84. ¿Qué propiedad aplica?
+a) Conmutativa
+b) Asociativa
+c) Elemento neutro
+d) Distributiva
 
-**Respuesta esperada:** la propiedad **distributiva**, ya que reparte el factor 7 sobre la suma (10+2).
-*Retroalimentación:* descomponer un número en una suma y aplicar la distributiva es una estrategia útil para multiplicar mentalmente números grandes.
+**Respuesta correcta: d) Distributiva.**
+*Retroalimentación:* reparte el factor 7 sobre la suma (10 + 2), una estrategia útil para multiplicar mentalmente.
 
-**Pregunta 6 (traducir lenguaje a expresión).** Traduce a una expresión matemática: "el triple de un número, menos la mitad del mismo número".
+**Pregunta 6 (alternativas — traducir lenguaje a expresión).** ¿Qué expresión representa "el triple de un número, menos la mitad del mismo número"?
+a) 3(x − x/2)
+b) 3x − x/2
+c) x/2 − 3x
+d) 3x − 2x
 
-**Respuesta esperada:** si el número es x, la expresión es **3x − x/2** (que se puede reducir a 5x/2).
-*Retroalimentación:* al traducir enunciados, conviene identificar primero la incógnita (el número) y luego representar cada operación descrita ("el triple de", "la mitad de", "menos") en el orden correcto.
+**Respuesta correcta: b) 3x − x/2.**
+*Retroalimentación:* se identifica la incógnita y se representa cada operación en orden; 3x − x/2 se reduce a 5x/2.
 
-**Pregunta 7 (problema en contexto — presupuesto).** Camila tiene $12.000 y gasta la mitad en un libro. Con lo que le queda, gasta 1/3 en un cuaderno. Plantea una expresión numérica combinada que represente cuánto dinero le queda al final, y calcúlala.
+**Pregunta 7 (alternativas — presupuesto).** Camila tiene $12.000 y gasta la mitad en un libro; con lo que le queda gasta 1/3 en un cuaderno. ¿Qué expresión representa lo que le queda y cuánto es?
+a) 12.000 × 1/2 × 1/3 = $2.000
+b) 12.000 − 1/2 − 1/3 = $11.999,17
+c) 12.000 × 1/2 × 2/3 = $4.000
+d) 12.000 × (1/2 + 1/3) = $10.000
 
-**Respuesta esperada:** después del libro: 12.000 × (1 − 1/2) = 12.000×1/2 = 6.000. Después del cuaderno: 6.000×(1−1/3) = 6.000×2/3 = **$4.000**. Expresión combinada: 12.000×1/2×2/3 = **4.000**.
-*Retroalimentación:* en problemas de gastos sucesivos, conviene expresar "lo que queda" como una fracción del total (1 menos la fracción gastada) y multiplicar en cadena, respetando el orden de las operaciones.
+**Respuesta correcta: c) 12.000 × 1/2 × 2/3 = $4.000.**
+*Retroalimentación:* lo que queda se expresa como fracción del total (1 menos lo gastado) y se multiplica en cadena.
 
-**Pregunta 8 (problema no rutinario — reducir con propiedades).** Sin calcular cada término por separado, reduce la expresión: 25 × 4 + 25 × 6 − 25 × 2, aplicando una propiedad para simplificar el cálculo.
+**Pregunta 8 (alternativas — reducir con propiedades).** Aplicando una propiedad, ¿cuánto vale 25 × 4 + 25 × 6 − 25 × 2?
+a) 25 × 8 − 2 = 198
+b) 25 × 12 = 300
+c) 25 × (4 + 6 + 2) = 300
+d) 25 × (4 + 6 − 2) = 200
 
-**Respuesta esperada:** 25×(4+6−2) = 25×8 = **200**.
-*Retroalimentación:* cuando varios términos comparten un mismo factor, la propiedad distributiva (aplicada "al revés", factorizando) permite agrupar los otros factores en una sola operación antes de multiplicar, ahorrando trabajo.
+**Respuesta correcta: d) 25 × (4 + 6 − 2) = 200.**
+*Retroalimentación:* la propiedad distributiva aplicada "al revés" (factorizando) agrupa los factores antes de multiplicar.
 
 ---
 
@@ -179,38 +199,58 @@ d) 8
 *Retroalimentación:* al elevar una fracción a exponente −1, se invierte la fracción: (1/4)⁻¹ = 4/1 = 4.
 
 **Pregunta 3 (calcular — propiedad de multiplicación).** Calcula, expresando el resultado como una potencia: 3⁻² × 3⁵.
-a) 3³
+a) 9³
 b) 3⁻¹⁰
 c) 3⁷
-d) 9³
+d) 3³
 
-**Respuesta correcta: a) 3³.**
+**Respuesta correcta: d) 3³.**
 *Retroalimentación:* se conserva la base y se suman los exponentes: −2+5=3, por lo tanto 3⁻²×3⁵=3³ (=27).
 
-**Pregunta 4 (desarrollo — potencia de base fraccionaria).** Calcula: (3/5)⁻².
+**Pregunta 4 (alternativas — potencia de base fraccionaria).** Calcula: (3/5)⁻².
+a) 9/25
+b) −9/25
+c) −6/5
+d) 25/9
 
-**Respuesta esperada:** (3/5)⁻² = (5/3)² = 25/9 = **2,77...** (aproximadamente).
-*Retroalimentación:* para elevar una fracción a un exponente negativo, se invierte la fracción y se aplica el exponente positivo correspondiente.
+**Respuesta correcta: d) 25/9.**
+*Retroalimentación:* con exponente negativo se invierte la fracción y se aplica el exponente positivo: (5/3)² = 25/9 ≈ 2,78.
 
-**Pregunta 5 (desarrollo — propiedad de división).** Simplifica, dejando el resultado como una sola potencia: 2⁻⁴ ÷ 2⁻¹.
+**Pregunta 5 (alternativas — propiedad de división).** Expresa como una sola potencia: 2⁻⁴ ÷ 2⁻¹.
+a) 2⁻⁵ = 1/32
+b) 2⁻³ = 1/8
+c) 2⁴ = 16
+d) 2³ = 8
 
-**Respuesta esperada:** se restan los exponentes: −4−(−1) = −3. Resultado: **2⁻³ = 1/8**.
-*Retroalimentación:* al dividir potencias de igual base, se restan los exponentes (el del numerador menos el del denominador), incluso cuando ambos exponentes son negativos.
+**Respuesta correcta: b) 2⁻³ = 1/8.**
+*Retroalimentación:* al dividir potencias de igual base se restan los exponentes: −4 − (−1) = −3.
 
-**Pregunta 6 (problema en contexto — depreciación).** Un automóvil pierde el 20% de su valor cada año, es decir, cada año conserva el 80% (0,8) de su valor anterior. Si costó $10.000.000, escribe una expresión con potencia que represente su valor después de 4 años, y calcula ese valor.
+**Pregunta 6 (alternativas — depreciación).** Un auto de $10.000.000 conserva cada año el 80% de su valor anterior. ¿Qué expresión da su valor a los 4 años y cuánto es?
+a) 10.000.000 × 0,8 × 4 = $32.000.000
+b) 10.000.000 × (0,2)⁴ = $16.000
+c) 10.000.000 × (0,8)⁴ = $4.096.000
+d) 10.000.000 − 4 × 0,2 = $9.999.999,2
 
-**Respuesta esperada:** valor = 10.000.000 × (0,8)⁴ = 10.000.000 × 0,4096 = **$4.096.000**.
-*Retroalimentación:* cuando una cantidad se multiplica repetidamente por un mismo factor (menor que 1) en cada período, esa situación de decrecimiento se modela con una potencia cuya base es el factor de cambio y cuyo exponente es la cantidad de períodos.
+**Respuesta correcta: c) 10.000.000 × (0,8)⁴ = $4.096.000.**
+*Retroalimentación:* un decrecimiento por un mismo factor en cada período se modela con una potencia: base = factor de cambio, exponente = períodos.
 
-**Pregunta 7 (problema en contexto — ciencias).** Una población de bacterias se reduce a la mitad cada hora debido a un tratamiento. Si inicialmente hay 4.000 bacterias, ¿cuántas quedan después de 5 horas? Exprésalo usando una potencia de exponente negativo o positivo, según prefieras.
+**Pregunta 7 (alternativas — ciencias).** Una población de 4.000 bacterias se reduce a la mitad cada hora. ¿Cuántas quedan después de 5 horas?
+a) 4.000 × (1/2)⁵ = 125
+b) 4.000 × 1/2 × 5 = 10.000
+c) 4.000 ÷ 10 = 400
+d) 4.000 × 2⁵ = 128.000
 
-**Respuesta esperada:** 4.000 × (1/2)⁵ = 4.000 × 1/32 = **125 bacterias**. (Equivalente a 4.000 × 2⁻⁵.)
-*Retroalimentación:* una reducción a la mitad repetida n veces se puede escribir como el factor (1/2)ⁿ o, de forma equivalente, como 2⁻ⁿ, ya que ambas expresiones representan la misma operación de división repetida.
+**Respuesta correcta: a) 4.000 × (1/2)⁵ = 125.**
+*Retroalimentación:* una reducción a la mitad repetida n veces se escribe (1/2)ⁿ o, equivalentemente, 2⁻ⁿ.
 
-**Pregunta 8 (problema no rutinario — comparar crecimiento y decrecimiento).** Compara las expresiones (3/2)⁴ y (2/3)⁴. Sin calcular el valor exacto de ambas, explica cuál es mayor que 1 y cuál es menor que 1, y por qué.
+**Pregunta 8 (alternativas — comparar crecimiento y decrecimiento).** Sin calcular, ¿qué se puede afirmar de (3/2)⁴ y (2/3)⁴?
+a) Ambas son mayores que 1, porque al elevar a la cuarta cualquier fracción positiva aumenta su valor
+b) Ambas son menores que 1, porque al elevar a la cuarta cualquier fracción se vuelve más pequeña
+c) (3/2)⁴ es menor que 1 y (2/3)⁴ es mayor que 1, porque el exponente par invierte la fracción
+d) (3/2)⁴ es mayor que 1 y (2/3)⁴ es menor que 1, porque una base mayor que 1 crece y una base entre 0 y 1 decrece
 
-**Respuesta esperada:** (3/2)⁴ es **mayor que 1**, porque la base (3/2) es mayor que 1, y al elevarla a una potencia positiva el resultado crece. (2/3)⁴ es **menor que 1**, porque la base (2/3) es menor que 1, y al elevarla a una potencia positiva el resultado se acerca a 0 (representa decrecimiento). Verificación: (3/2)⁴=81/16≈5,06; (2/3)⁴=16/81≈0,20.
-*Retroalimentación:* cuando la base de una potencia es mayor que 1, elevarla a exponentes positivos produce crecimiento; cuando la base está entre 0 y 1, elevarla a exponentes positivos produce decrecimiento (el resultado se achica).
+**Respuesta correcta: d) (3/2)⁴ es mayor que 1 y (2/3)⁴ es menor que 1, porque una base mayor que 1 crece y una base entre 0 y 1 decrece.**
+*Retroalimentación:* verificación: (3/2)⁴ = 81/16 ≈ 5,06 y (2/3)⁴ = 16/81 ≈ 0,20.
 
 ---
 
@@ -276,30 +316,50 @@ d) 6x² − 4
 **Respuesta correcta: a) 9x² − 4.**
 *Retroalimentación:* (3x+2)(3x−2) = (3x)² − 2² = 9x² − 4, aplicando la fórmula de suma por su diferencia.
 
-**Pregunta 4 (desarrollo — binomio con término común).** Desarrolla: (x+5)(x+2).
+**Pregunta 4 (alternativas — binomio con término común).** Desarrolla: (x + 5)(x + 2).
+a) x² + 10x + 7
+b) x² + 7x + 10
+c) x² + 7
+d) 2x + 7
 
-**Respuesta esperada:** x² + (5+2)x + (5×2) = **x² + 7x + 10**.
-*Retroalimentación:* en un binomio con término común (x en ambos factores), el coeficiente de x es la suma de los otros dos términos, y el término libre es su producto.
+**Respuesta correcta: b) x² + 7x + 10.**
+*Retroalimentación:* el coeficiente de x es la suma de los términos no comunes (5 + 2) y el término libre, su producto (5 · 2).
 
-**Pregunta 5 (desarrollo — factorizar diferencia de cuadrados).** Factoriza: 9x² − 25.
+**Pregunta 5 (alternativas — diferencia de cuadrados).** Factoriza: 9x² − 25.
+a) (3x − 5)²
+b) (9x + 5)(x − 5)
+c) (3x + 5)(3x − 5)
+d) (3x + 25)(3x − 1)
 
-**Respuesta esperada:** a²=9x² (a=3x), b²=25 (b=5). Factorización: **(3x+5)(3x−5)**.
-*Retroalimentación:* toda expresión de la forma "cuadrado menos cuadrado" se puede factorizar como el producto de la suma por la diferencia de sus raíces cuadradas.
+**Respuesta correcta: c) (3x + 5)(3x − 5).**
+*Retroalimentación:* "cuadrado menos cuadrado" se factoriza como suma por diferencia de las raíces: a = 3x, b = 5.
 
-**Pregunta 6 (problema en contexto — área).** Un terreno cuadrado tiene lado (x+6) metros. Escribe una expresión que represente su área, desarrollada como un trinomio.
+**Pregunta 6 (alternativas — área).** Un terreno cuadrado tiene lado (x + 6) m. ¿Qué trinomio representa su área?
+a) x² + 12x + 36
+b) x² + 36
+c) x² + 6x + 36
+d) 4x + 24
 
-**Respuesta esperada:** área = (x+6)² = **x² + 12x + 36** (metros cuadrados).
-*Retroalimentación:* el área de un cuadrado de lado (x+6) corresponde al cuadrado de ese binomio, que se desarrolla usando la fórmula (a+b)²=a²+2ab+b².
+**Respuesta correcta: a) x² + 12x + 36.**
+*Retroalimentación:* (x + 6)² = x² + 2·6x + 36; olvidar el doble producto (x² + 36) es un error frecuente.
 
-**Pregunta 7 (problema en contexto — completar el cuadrado).** Determina qué número se debe sumar a la expresión x² + 10x para que se transforme en un cuadrado de binomio perfecto, y escribe el binomio resultante.
+**Pregunta 7 (alternativas — completar el cuadrado).** ¿Qué número se suma a x² + 10x para obtener un cuadrado de binomio perfecto, y cuál es ese binomio?
+a) 100; (x + 10)²
+b) 10; (x + 10)²
+c) 5; (x + 5)²
+d) 25; (x + 5)²
 
-**Respuesta esperada:** se necesita sumar (10/2)² = 5² = **25**. La expresión x²+10x+25 corresponde al cuadrado de binomio **(x+5)²**.
-*Retroalimentación:* para completar el cuadrado de una expresión x²+bx, se toma la mitad del coeficiente de x, se eleva al cuadrado, y ese es el término que falta para formar un binomio al cuadrado perfecto.
+**Respuesta correcta: d) 25; (x + 5)².**
+*Retroalimentación:* se toma la mitad del coeficiente de x y se eleva al cuadrado: (10/2)² = 25.
 
-**Pregunta 8 (problema no rutinario — cálculo mental con productos notables).** Usa el producto notable de suma por su diferencia para calcular mentalmente 52 × 48, sin multiplicar directamente.
+**Pregunta 8 (alternativas — cálculo mental con productos notables).** Usando suma por diferencia, ¿cuánto es 52 × 48?
+a) (50 + 2)² = 2.500 + 200 + 4 = 2.704
+b) (50 + 2)(50 − 2) = 2.500 − 4 = 2.496
+c) 50² + 2² = 2.500 + 4 = 2.504
+d) 52 × 50 − 2 = 2.600 − 2 = 2.598
 
-**Respuesta esperada:** 52×48 = (50+2)(50−2) = 50² − 2² = 2.500 − 4 = **2.496**.
-*Retroalimentación:* muchos productos de números cercanos a un valor "redondo" se pueden calcular rápidamente reescribiéndolos como (a+b)(a−b) y aplicando a²−b², en vez de multiplicar directamente.
+**Respuesta correcta: b) (50 + 2)(50 − 2) = 2.500 − 4 = 2.496.**
+*Retroalimentación:* los productos de números cercanos a un valor redondo se reescriben como (a + b)(a − b) = a² − b².
 
 ---
 
@@ -360,38 +420,58 @@ d) x=8, y=2
 *Retroalimentación:* dos rectas paralelas y distintas nunca se cortan, por lo tanto el sistema **no tiene solución**; las infinitas soluciones ocurren cuando ambas ecuaciones representan la misma recta (coincidentes).
 
 **Pregunta 3 (calcular — método de igualación).** Resuelve el sistema y=2x+1; y=−x+7, e indica el valor de x.
-a) x=2
+a) x=4
 b) x=3
-c) x=4
+c) x=2
 d) x=1
 
-**Respuesta correcta: a) x=2.**
+**Respuesta correcta: c) x=2.**
 *Retroalimentación:* al igualar ambas expresiones de y: 2x+1=−x+7; 3x=6; x=2 (y el valor de y=5).
 
-**Pregunta 4 (desarrollo — método de sustitución).** Resuelve el sistema: x=3y; 2x+y=21.
+**Pregunta 4 (alternativas — método de sustitución).** Resuelve: x = 3y; 2x + y = 21.
+a) x = 3, y = 9
+b) x = 7, y = 7
+c) x = 9, y = 3
+d) x = 6, y = 2
 
-**Respuesta esperada:** se sustituye x=3y en la segunda ecuación: 2(3y)+y=21; 6y+y=21; 7y=21; y=**3**. Entonces x=3(3)=**9**.
-*Retroalimentación:* cuando una de las ecuaciones ya tiene una incógnita despejada (como x=3y), conviene usar el método de sustitución, reemplazando directamente esa expresión en la otra ecuación.
+**Respuesta correcta: c) x = 9, y = 3.**
+*Retroalimentación:* se reemplaza x = 3y: 6y + y = 21, y = 3; x = 9.
 
-**Pregunta 5 (desarrollo — método de reducción).** Resuelve el sistema: 4x+3y=18; 2x+3y=12.
+**Pregunta 5 (alternativas — método de reducción).** Resuelve: 4x + 3y = 18; 2x + 3y = 12.
+a) x = 3, y = 2
+b) x = 2, y = 3
+c) x = 6, y = −2
+d) x = 3, y = 6
 
-**Respuesta esperada:** se restan las ecuaciones para eliminar y: (4x−2x)+(3y−3y)=18−12; 2x=6; x=**3**. Reemplazando: 2(3)+3y=12; 6+3y=12; 3y=6; y=**2**.
-*Retroalimentación:* cuando dos ecuaciones tienen el mismo coeficiente para una incógnita (en este caso, 3y en ambas), se puede eliminar esa incógnita restando una ecuación de la otra.
+**Respuesta correcta: a) x = 3, y = 2.**
+*Retroalimentación:* restando las ecuaciones se elimina y: 2x = 6, x = 3; luego 6 + 3y = 12, y = 2.
 
-**Pregunta 6 (problema en contexto — edades).** La suma de las edades de dos hermanos es 24 años. La diferencia entre la edad del mayor y el menor es 6 años. Plantea el sistema de ecuaciones y encuentra ambas edades.
+**Pregunta 6 (alternativas — edades).** La suma de las edades de dos hermanos es 24 y su diferencia es 6. ¿Qué edades tienen?
+a) 18 y 6 años
+b) 12 y 12 años
+c) 16 y 10 años
+d) 15 y 9 años
 
-**Respuesta esperada:** sea x la edad del mayor e y la del menor. Sistema: x+y=24; x−y=6. Sumando: 2x=30; x=**15 años**. Entonces y=24−15=**9 años**.
-*Retroalimentación:* en problemas donde se conoce la suma y la diferencia de dos cantidades, sumar ambas ecuaciones elimina directamente la incógnita menor, facilitando la resolución por reducción.
+**Respuesta correcta: d) 15 y 9 años.**
+*Retroalimentación:* x + y = 24 y x − y = 6; sumando, 2x = 30, x = 15 e y = 9.
 
-**Pregunta 7 (problema en contexto — mezclas o entradas).** En un cine se vendieron 150 entradas entre adultos y niños, recaudando $975.000 en total. La entrada de adulto cuesta $8.000 y la de niño $5.000. Plantea el sistema y determina cuántas entradas de cada tipo se vendieron.
+**Pregunta 7 (alternativas — entradas).** Se vendieron 150 entradas (adulto $8.000, niño $5.000) y se recaudaron $975.000. ¿Cuántas de cada tipo?
+a) 100 de adulto y 50 de niño
+b) 75 de adulto y 75 de niño
+c) 50 de adulto y 100 de niño
+d) 120 de adulto y 30 de niño
 
-**Respuesta esperada:** sea a=adultos, n=niños. Sistema: a+n=150; 8.000a+5.000n=975.000. Despejando n=150−a y sustituyendo: 8.000a+5.000(150−a)=975.000; 8.000a+750.000−5.000a=975.000; 3.000a=225.000; a=**75 adultos**. Entonces n=150−75=**75 niños**.
-*Retroalimentación:* en problemas de "cantidad total y valor total" con dos tipos de elementos de distinto precio, conviene definir una variable para cada tipo, plantear una ecuación con la cantidad total y otra con el valor total, y resolver por sustitución.
+**Respuesta correcta: b) 75 de adulto y 75 de niño.**
+*Retroalimentación:* a + n = 150 y 8.000a + 5.000n = 975.000; sustituyendo: 3.000a = 225.000, a = 75.
 
-**Pregunta 8 (problema no rutinario — identificar tipo de solución sin resolver).** Sin resolver el sistema, determina si tiene una solución, ninguna o infinitas: 2x+4y=8; x+2y=5.
+**Pregunta 8 (alternativas — tipo de solución).** Sin resolver, ¿cuántas soluciones tiene el sistema 2x + 4y = 8; x + 2y = 5?
+a) Una sola: las rectas se cortan en un punto
+b) Infinitas: las rectas coinciden en todos sus puntos
+c) Ninguna: las rectas son paralelas y distintas
+d) Dos soluciones: las rectas se cortan dos veces
 
-**Respuesta esperada:** si se multiplica la segunda ecuación por 2, se obtiene 2x+4y=10, que tiene el mismo lado izquierdo que la primera ecuación (2x+4y) pero un valor distinto a la derecha (8 versus 10). Esto significa que las rectas son **paralelas pero distintas**, por lo tanto el sistema **no tiene solución**.
-*Retroalimentación:* para anticipar el tipo de solución sin resolver, conviene comparar los coeficientes de x e y de ambas ecuaciones (si son proporcionales, las rectas son paralelas o coincidentes) y luego comparar los términos independientes para distinguir entre "sin solución" e "infinitas soluciones".
+**Respuesta correcta: c) Ninguna: las rectas son paralelas y distintas.**
+*Retroalimentación:* al multiplicar la segunda por 2 se obtiene 2x + 4y = 10: mismo lado izquierdo y distinto término independiente.
 
 ---
 
@@ -454,30 +534,50 @@ d) k=24
 **Respuesta correcta: a) k=3.**
 *Retroalimentación:* el factor se calcula como el cociente entre la medida de la imagen y la medida de la preimagen: k=18/6=3.
 
-**Pregunta 4 (desarrollo — homotecia de reducción).** El punto D(9, 6) se transforma mediante una homotecia de centro O(0,0) y factor k=1/3. Calcula las coordenadas de D'.
+**Pregunta 4 (alternativas — homotecia de reducción).** El punto D(9, 6) se transforma por una homotecia de centro O(0,0) y factor k = 1/3. ¿Cuál es D'?
+a) (3, 2)
+b) (27, 18)
+c) (6, 3)
+d) (9, 2)
 
-**Respuesta esperada:** D' = (9×1/3, 6×1/3) = **(3, 2)**.
-*Retroalimentación:* un factor entre 0 y 1 produce una reducción proporcional de ambas coordenadas, manteniendo la misma dirección respecto al centro.
+**Respuesta correcta: a) (3, 2).**
+*Retroalimentación:* un factor entre 0 y 1 reduce proporcionalmente ambas coordenadas.
 
-**Pregunta 5 (desarrollo — homotecia con factor negativo).** El punto E(2, 5) se transforma mediante una homotecia de centro O(0,0) y factor k=−2. Calcula las coordenadas de E' y describe qué ocurre con la posición de la imagen respecto al centro.
+**Pregunta 5 (alternativas — factor negativo).** El punto E(2, 5) se transforma por una homotecia de centro O(0,0) y k = −2. ¿Cuál es E' y qué ocurre con su posición?
+a) (4, 10): queda del mismo lado, ampliada al doble
+b) (−1, −2,5): queda al lado opuesto, reducida a la mitad
+c) (0, 3): se traslada, sin cambiar su distancia al centro de la homotecia
+d) (−4, −10): queda al lado opuesto del centro y ampliada al doble
 
-**Respuesta esperada:** E' = (2×(−2), 5×(−2)) = **(−4, −10)**. Como el factor es negativo, la imagen queda al **lado opuesto** del centro respecto a la posición original (además de ampliarse al doble).
-*Retroalimentación:* un factor de homotecia negativo no solo cambia el tamaño de la figura, sino que también la ubica en el lado contrario del centro, produciendo un efecto similar a una rotación de 180°.
+**Respuesta correcta: d) (−4, −10): queda al lado opuesto del centro y ampliada al doble.**
+*Retroalimentación:* un factor negativo, además de cambiar el tamaño, ubica la imagen al lado contrario del centro (como una rotación de 180°).
 
-**Pregunta 6 (problema en contexto — maqueta).** Una maqueta de un edificio se construye con una homotecia de reducción de factor k=1/200 respecto al edificio real. Si una ventana del edificio real mide 2 m de alto, ¿cuánto debería medir la ventana correspondiente en la maqueta (en centímetros)?
+**Pregunta 6 (alternativas — maqueta).** Una maqueta se construye con k = 1/200. Si una ventana real mide 2 m, ¿cuánto mide en la maqueta?
+a) 0,1 cm
+b) 1 cm
+c) 10 cm
+d) 400 cm
 
-**Respuesta esperada:** 2 m = 200 cm. Altura en la maqueta: 200 × 1/200 = **1 cm**.
-*Retroalimentación:* al construir maquetas o modelos a escala, cada medida real se multiplica por el factor de homotecia (menor que 1) para obtener la medida correspondiente en el modelo reducido.
+**Respuesta correcta: b) 1 cm.**
+*Retroalimentación:* 2 m = 200 cm y 200 × 1/200 = 1 cm.
 
-**Pregunta 7 (problema en contexto — ojo humano).** El ojo humano forma en la retina una imagen invertida y reducida de los objetos que observa, un proceso que se modela de forma similar a una homotecia con centro en el cristalino. Si un objeto de 1,8 m de altura forma una imagen de 0,9 cm en la retina, calcula el factor de homotecia aproximado que se aplicó (en valor absoluto, sin considerar el signo por la inversión).
+**Pregunta 7 (alternativas — ojo humano).** Un objeto de 1,8 m forma una imagen de 0,9 cm en la retina. ¿Cuál es el factor de homotecia (en valor absoluto)?
+a) 1/2 = 0,5
+b) 2
+c) 1/200 = 0,005
+d) 200
 
-**Respuesta esperada:** 1,8 m = 180 cm. Factor: k = 0,9/180 = **1/200 (o 0,005)**.
-*Retroalimentación:* el factor de homotecia se calcula siempre como el cociente entre la medida de la imagen y la medida del objeto original; en el caso del ojo, ese factor es muy pequeño porque la imagen en la retina es mucho más chica que el objeto observado.
+**Respuesta correcta: c) 1/200 = 0,005.**
+*Retroalimentación:* se pasa a la misma unidad (180 cm) y k = imagen/objeto = 0,9/180 = 1/200.
 
-**Pregunta 8 (problema no rutinario — determinar centro e imagen).** Un triángulo con vértices A(1,1), B(3,1) y C(1,4) se transforma mediante una homotecia de centro O(0,0) y factor k=2, obteniendo el triángulo A'B'C'. Calcula las coordenadas de los tres vértices transformados y determina si el área del triángulo A'B'C' es el doble, el mismo, o más del doble del área del triángulo original.
+**Pregunta 8 (alternativas — área y homotecia).** El triángulo A(1,1), B(3,1), C(1,4) se transforma por una homotecia de centro O y k = 2. ¿Qué ocurre con su área?
+a) Se cuadruplica: pasa de 3 a 12
+b) Se duplica: pasa de 3 a 6
+c) Se mantiene en 3
+d) Se octuplica: pasa de 3 a 24
 
-**Respuesta esperada:** A'=(2,2), B'=(6,2), C'=(2,8). El área del triángulo original: base=2 (de A a B), altura=3 (de A a C); área=(2×3)/2=3. El área del triángulo transformado: base=4, altura=6; área=(4×6)/2=12. El área es **4 veces mayor** (no el doble), porque **12 = 4×3**.
-*Retroalimentación:* en una homotecia de factor k, las longitudes se multiplican por k, pero las áreas se multiplican por k² (el cuadrado del factor), ya que el área depende de dos dimensiones.
+**Respuesta correcta: a) Se cuadruplica: pasa de 3 a 12.**
+*Retroalimentación:* A'(2,2), B'(6,2), C'(2,8); las longitudes se multiplican por k y las áreas por k² = 4.
 
 ---
 
@@ -517,9 +617,9 @@ Se verifica: h² = m×n → 6² = 4×9 → 36 = 36. ✓ Los datos son consistent
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** En un mapa con escala 1:20.000, una distancia real de 4 km, ¿cuánto mide en el mapa (en cm)?
-a) 2 cm
+a) 200 cm
 b) 20 cm
-c) 200 cm
+c) 2 cm
 d) 0,2 cm
 
 **Respuesta correcta: b) 20 cm.**
@@ -539,30 +639,50 @@ d) 4,5 cm
 **Respuesta correcta: a) 6 cm.**
 *Retroalimentación:* h²=m×n=3×12=36; h=√36=6 cm.
 
-**Pregunta 4 (desarrollo — escala de una maqueta).** Una maqueta de un puente se construye a escala 1:250. Si la maqueta mide 60 cm de largo, ¿cuánto mide el puente real, en metros?
+**Pregunta 4 (alternativas — escala de una maqueta).** Una maqueta de un puente a escala 1:250 mide 60 cm. ¿Cuánto mide el puente real?
+a) 15 m
+b) 1.500 m
+c) 24 m
+d) 150 m
 
-**Respuesta esperada:** 60 cm × 250 = 15.000 cm = **150 metros**.
-*Retroalimentación:* para obtener la medida real a partir del modelo, se multiplica la medida del modelo por el segundo número de la escala, y luego se convierte a la unidad solicitada.
+**Respuesta correcta: d) 150 m.**
+*Retroalimentación:* 60 cm × 250 = 15.000 cm = 150 m.
 
-**Pregunta 5 (desarrollo — Euclides, cateto).** En un triángulo rectángulo, la hipotenusa mide 20 cm y la proyección de un cateto sobre la hipotenusa mide 5 cm. Calcula la medida de ese cateto.
+**Pregunta 5 (alternativas — Euclides, cateto).** En un triángulo rectángulo, la hipotenusa mide 20 cm y la proyección de un cateto sobre ella mide 5 cm. ¿Cuánto mide ese cateto?
+a) 15 cm
+b) 10 cm
+c) √15 cm
+d) 100 cm
 
-**Respuesta esperada:** cateto² = proyección × hipotenusa = 5×20 = 100; cateto = √100 = **10 cm**.
-*Retroalimentación:* el teorema de Euclides permite calcular un cateto conociendo su proyección sobre la hipotenusa y la medida completa de la hipotenusa, sin necesidad de conocer el otro cateto.
+**Respuesta correcta: b) 10 cm.**
+*Retroalimentación:* cateto² = proyección × hipotenusa = 5 × 20 = 100, cateto = 10 cm.
 
-**Pregunta 6 (problema en contexto — determinar escala de un plano).** Un plano de una casa muestra un dormitorio de 4 cm × 3 cm, que en la realidad mide 4 m × 3 m. Determina la escala del plano.
+**Pregunta 6 (alternativas — escala de un plano).** Un dormitorio de 4 cm × 3 cm en el plano mide 4 m × 3 m en la realidad. ¿Cuál es la escala?
+a) 1:10
+b) 1:1.000
+c) 1:100
+d) 100:1
 
-**Respuesta esperada:** 4 m=400 cm; escala=4:400=**1:100** (verificado también con el ancho: 3 m=300 cm; 3:300=1:100).
-*Retroalimentación:* para determinar la escala de un plano, se compara cualquier medida del plano con su medida real correspondiente, simplificando la razón hasta obtener 1 en el primer término.
+**Respuesta correcta: c) 1:100.**
+*Retroalimentación:* 4 m = 400 cm, y 4:400 = 1:100 (lo mismo con el ancho).
 
-**Pregunta 7 (problema en contexto — factor de aumento en imágenes).** Una fotografía digital de un insecto de 8 mm de largo se amplía en pantalla hasta que se ve de 16 cm de largo. ¿Cuál es el factor de aumento aplicado a la imagen?
+**Pregunta 7 (alternativas — factor de aumento).** Una foto de un insecto de 8 mm se amplía en pantalla hasta 16 cm. ¿Cuál es el factor de aumento?
+a) 20
+b) 2
+c) 200
+d) 0,5
 
-**Respuesta esperada:** 8 mm = 0,8 cm. Factor de aumento = 16 ÷ 0,8 = **20 veces** (la imagen se amplió 20 veces respecto al tamaño real).
-*Retroalimentación:* el factor de aumento (o de reducción) de una imagen se calcula como el cociente entre la medida final y la medida original, expresadas en la misma unidad.
+**Respuesta correcta: a) 20.**
+*Retroalimentación:* en la misma unidad: 16 cm ÷ 0,8 cm = 20; dividir 16 por 8 sin convertir unidades da el error 2.
 
-**Pregunta 8 (problema no rutinario — combinar Euclides y Pitágoras).** En un triángulo rectángulo, la altura sobre la hipotenusa mide 12 cm y una de las proyecciones mide 9 cm. Calcula: (a) la otra proyección, (b) la hipotenusa completa, y (c) el cateto correspondiente a la proyección de 9 cm.
+**Pregunta 8 (alternativas — Euclides y Pitágoras).** En un triángulo rectángulo, la altura sobre la hipotenusa mide 12 cm y una proyección mide 9 cm. ¿Cuánto miden la otra proyección, la hipotenusa y el cateto adyacente a la proyección de 9 cm?
+a) 16 cm; 25 cm; 20 cm
+b) 3 cm; 12 cm; 9 cm
+c) 12 cm; 21 cm; 15 cm
+d) 16 cm; 25 cm; 15 cm
 
-**Respuesta esperada:** (a) h²=m×n → 144=9×n → n=16 cm. (b) hipotenusa = 9+16 = **25 cm**. (c) cateto² = 9×25 = 225; cateto = √225 = **15 cm**.
-*Retroalimentación:* el teorema de Euclides tiene dos relaciones que se pueden combinar: primero se usa h²=m×n para encontrar la proyección faltante, y luego cateto²=proyección×hipotenusa para encontrar cualquier cateto, una vez conocida la hipotenusa completa.
+**Respuesta correcta: d) 16 cm; 25 cm; 15 cm.**
+*Retroalimentación:* h² = m·n → 144 = 9n → n = 16; hipotenusa 9 + 16 = 25; cateto² = 9 · 25 = 225 → 15 cm.
 
 ---
 
@@ -623,30 +743,50 @@ d) 1/3
 **Respuesta correcta: b) 1/4.**
 *Retroalimentación:* al ser eventos independientes, P(cara y cara)=P(cara)×P(cara)=1/2×1/2=1/4.
 
-**Pregunta 4 (desarrollo — regla aditiva con intersección).** En un curso de 40 estudiantes, 18 practican fútbol, 15 practican básquetbol, y 6 practican ambos deportes. Si se elige un estudiante al azar, ¿cuál es la probabilidad de que practique fútbol o básquetbol?
+**Pregunta 4 (alternativas — regla aditiva con intersección).** En un curso de 40, 18 practican fútbol, 15 básquetbol y 6 ambos. ¿Cuál es la probabilidad de que un estudiante al azar practique fútbol o básquetbol?
+a) 33/40
+b) 27/40
+c) 6/40
+d) 21/40
 
-**Respuesta esperada:** P(fútbol o básquetbol) = P(fútbol)+P(básquetbol)−P(ambos) = 18/40 + 15/40 − 6/40 = 27/40 = **0,675 (67,5%)**.
-*Retroalimentación:* cuando dos eventos pueden ocurrir simultáneamente (no son mutuamente excluyentes), hay que restar la probabilidad de la intersección para no contar dos veces a quienes practican ambos deportes.
+**Respuesta correcta: b) 27/40.**
+*Retroalimentación:* 18/40 + 15/40 − 6/40 = 27/40 = 67,5%; sin restar la intersección se cuenta dos veces a quienes practican ambos.
 
-**Pregunta 5 (desarrollo — regla multiplicativa sin reposición).** De una bolsa con 5 bolitas rojas y 3 azules, se sacan dos bolitas sin reposición (sin devolver la primera). ¿Cuál es la probabilidad de que ambas sean rojas?
+**Pregunta 5 (alternativas — sin reposición).** De una bolsa con 5 bolitas rojas y 3 azules se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
+a) 25/64
+b) 5/8
+c) 5/14
+d) 20/64
 
-**Respuesta esperada:** P(1ª roja)=5/8. Como no hay reposición, quedan 4 rojas de 7 en total para la segunda: P(2ª roja)=4/7. P(ambas rojas)=5/8 × 4/7 = 20/56 = **5/14**.
-*Retroalimentación:* cuando la extracción es "sin reposición", los eventos ya no son independientes, porque la primera extracción cambia la composición de la bolsa; por eso la segunda probabilidad se calcula sobre los elementos restantes.
+**Respuesta correcta: c) 5/14.**
+*Retroalimentación:* 5/8 × 4/7 = 20/56 = 5/14; sin reposición, la segunda extracción se calcula sobre lo que queda (25/64 sería con reposición).
 
-**Pregunta 6 (problema en contexto — regla combinada).** Un estudiante tiene 70% de probabilidad de aprobar Matemática y 60% de probabilidad de aprobar Lenguaje, de manera independiente entre sí. ¿Cuál es la probabilidad de que apruebe al menos una de las dos asignaturas?
+**Pregunta 6 (alternativas — regla combinada).** P(aprobar Matemática) = 0,7 y P(aprobar Lenguaje) = 0,6, de forma independiente. ¿Cuál es la probabilidad de aprobar al menos una?
+a) 0,88
+b) 1,3
+c) 0,42
+d) 0,65
 
-**Respuesta esperada:** P(Mat o Leng) = P(Mat)+P(Leng)−P(Mat y Leng) = 0,7+0,6−(0,7×0,6) = 1,3−0,42 = **0,88 (88%)**.
-*Retroalimentación:* "al menos una" corresponde a la regla aditiva (unión); como los eventos no son mutuamente excluyentes (puede aprobar ambas), se debe restar la intersección, que se calcula con la regla multiplicativa por ser eventos independientes.
+**Respuesta correcta: a) 0,88.**
+*Retroalimentación:* 0,7 + 0,6 − 0,7 · 0,6 = 0,88; la intersección se calcula con la regla multiplicativa por ser independientes.
 
-**Pregunta 7 (problema en contexto — dados combinados).** Se lanzan dos dados de 6 caras. ¿Cuál es la probabilidad de obtener un 6 en el primer dado y un número par en el segundo dado?
+**Pregunta 7 (alternativas — dados combinados).** Se lanzan dos dados. ¿Cuál es la probabilidad de obtener un 6 en el primero y un número par en el segundo?
+a) 2/3
+b) 1/6
+c) 1/36
+d) 1/12
 
-**Respuesta esperada:** P(6 en el primero)=1/6. P(par en el segundo)=3/6=1/2. Como son eventos independientes: P(6 y par)=1/6 × 1/2 = **1/12**.
-*Retroalimentación:* el resultado de un dado no afecta al del otro, por lo tanto son eventos independientes, y su probabilidad conjunta se calcula multiplicando las probabilidades individuales.
+**Respuesta correcta: d) 1/12.**
+*Retroalimentación:* son independientes: 1/6 × 1/2 = 1/12.
 
-**Pregunta 8 (problema no rutinario — combinar reglas en un contexto de cartas).** De una baraja de 10 cartas numeradas del 1 al 10, se saca una carta al azar. ¿Cuál es la probabilidad de obtener un número múltiplo de 2 o un número múltiplo de 3?
+**Pregunta 8 (alternativas — cartas).** De 10 cartas numeradas del 1 al 10 se saca una al azar. ¿Cuál es la probabilidad de obtener un múltiplo de 2 o de 3?
+a) 8/10
+b) 7/10
+c) 1/10
+d) 5/10
 
-**Respuesta esperada:** múltiplos de 2: {2,4,6,8,10}, 5 cartas, P=5/10. Múltiplos de 3: {3,6,9}, 3 cartas, P=3/10. Intersección (múltiplos de 2 y de 3, es decir, de 6): {6}, 1 carta, P=1/10. P(múltiplo de 2 o de 3) = 5/10+3/10−1/10 = 7/10 = **0,7 (70%)**.
-*Retroalimentación:* antes de aplicar la regla aditiva, siempre conviene revisar si existe una intersección entre los eventos (elementos que cumplen ambas condiciones a la vez, como el 6 en este caso), para no contarlos dos veces en la suma.
+**Respuesta correcta: b) 7/10.**
+*Retroalimentación:* 5/10 + 3/10 − 1/10 = 7/10; el 6 es múltiplo de ambos y no debe contarse dos veces.
 
 ---
 

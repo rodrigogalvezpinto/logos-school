@@ -22,7 +22,7 @@ basado_en: >
 
 ### Instrucciones generales
 
-1. Esta prueba contiene **20 preguntas en total** (5 de cada asignatura, mezcladas), entre preguntas de **alternativas** (3 opciones, marca solo una con una X) y preguntas de **respuesta breve** (escribe o dibuja tu respuesta).
+1. Esta prueba contiene **20 preguntas en total** (5 de cada asignatura, mezcladas), todas de **alternativas**: lee las opciones y marca con una X la correcta. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 2. **Tiempo total: 90 minutos.**
 3. **No se pueden usar libros, apuntes ni celulares** durante la prueba.
 4. **El estudiante debe responder solo/a, sin ayuda de sus padres o apoderados.** Un adulto puede leer en voz alta el enunciado si el estudiante aún no lee de forma autónoma, pero no puede indicar ni sugerir la respuesta.
@@ -45,8 +45,8 @@ c) 11
 
 **2.** [Imagen: una pelota roja] ¿Cuántas sílabas tiene la palabra "**pelota**"?
 
-a) 3
-b) 2
+a) 2
+b) 3
 c) 4
 
 ---
@@ -94,8 +94,8 @@ c) Gusto
 **8.** ¿Cuál es la capital de Chile?
 
 a) Valparaíso
-b) Santiago
-c) Concepción
+b) Concepción
+c) Santiago
 
 ---
 
@@ -195,9 +195,11 @@ c) Carabineros
 
 ---
 
-**20.** [Imagen: una luna en el cielo] Escribe la palabra para este dibujo, pensando en cada sonido.
+**20.** [Imagen: una luna en el cielo] ¿Cuál es la palabra bien escrita para este dibujo, pensando en cada sonido?
 
-_______________________________________________________________________________________
+a) lua
+b) luna
+c) lunna
 
 ---
 
@@ -207,7 +209,7 @@ ________________________________________________________________________________
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -220,13 +222,13 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
 | 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
-| 2 | Lenguaje y Comunicación | **a) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
+| 2 | Lenguaje y Comunicación | **b) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
 | 4 | Ciencias Naturales | **c) Un pájaro.** Es un ser vivo porque nace, crece, se reproduce y muere; la silla y el lápiz son objetos, no seres vivos. | OA 1 — Seres vivos y cosas no vivas |
 | 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
 | 7 | Ciencias Naturales | **a) Tacto.** El tacto de las manos permite sentir si algo está caliente o frío. | OA 6 — Los cinco sentidos |
-| 8 | Historia, Geografía y Cs. Sociales | **b) Santiago.** Es la capital de Chile. | OA 9 — Chile en el mapa |
+| 8 | Historia, Geografía y Cs. Sociales | **c) Santiago.** Es la capital de Chile. | OA 9 — Chile en el mapa |
 | 9 | Matemática | **b) 8.** Contando desde 5, tres números más (6, 7, 8), se llega a 8. | OA 9 — Sumar y restar números del 0 al 20 |
 | 10 | Lenguaje y Comunicación | **b) Pan.** La frase dice claramente "El perro come pan". | OA N°4 — Lectura y comprensión de frases cortas |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Océano Pacífico.** Está junto a todo el territorio chileno, de norte a sur. | OA 9 — Chile en el mapa |
@@ -238,7 +240,7 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 17 | Matemática | **c) Uva.** La uva tiene 7 marcas, más que la manzana (5) y el plátano (3), por lo tanto es la fruta preferida por más niños. | OA 19 — Recolectar y registrar datos |
 | 18 | Ciencias Naturales | **c) El Sol.** Es el astro que vemos de día y que nos da luz y calor. | OA 11 — El día y la noche |
 | 19 | Historia, Geografía y Cs. Sociales | **b) El hospital o la posta.** Ahí médicos y enfermeras atienden a las personas enfermas. | OA 15 — Instituciones de la comunidad |
-| 20 | Lenguaje y Comunicación | **"luna".** Debe tener una letra por cada sonido: /l/-/u/-/n/-/a/. | OA N°13 — Relación letra-sonido al escribir |
+| 20 | Lenguaje y Comunicación | **b) luna.** Debe tener una letra por cada sonido: /l/-/u/-/n/-/a/. En «lua» falta la n y en «lunna» sobra una n. | OA N°13 — Relación letra-sonido al escribir |
 
 ### Distribución de puntaje por asignatura
 
@@ -256,18 +258,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 4 | 1 | 0 |
-| OA 2 | 3 | 1 | 0 |
-| OA 3 | 1, 2, 5 | 3 | 0 |
-| OA 4 | 10 | 1 | 0 |
-| OA 6 | 6, 7 | 2 | 0 |
-| OA 8 | 12, 13 | 2 | 0 |
-| OA 9 | 8, 9, 11, 15 | 4 | 0 |
-| OA 11 | 14, 18 | 2 | 0 |
-| OA 13 | 20 | 0 | 1 |
-| OA 14 | 16 | 1 | 0 |
-| OA 15 | 19 | 1 | 0 |
-| OA 19 | 17 | 1 | 0 |
-| **Total** | **20 preguntas** | **19** | **1** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 4 | 1 |
+| OA 2 | 3 | 1 |
+| OA 3 | 1, 2, 5 | 3 |
+| OA 4 | 10 | 1 |
+| OA 6 | 6, 7 | 2 |
+| OA 8 | 12, 13 | 2 |
+| OA 9 | 8, 9, 11, 15 | 4 |
+| OA 11 | 14, 18 | 2 |
+| OA 13 | 20 | 1 |
+| OA 14 | 16 | 1 |
+| OA 15 | 19 | 1 |
+| OA 19 | 17 | 1 |
+| **Total** | **20 preguntas** | **20** |

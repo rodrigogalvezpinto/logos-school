@@ -36,10 +36,10 @@ ultima_actualizacion: 2026-10-28
 **Pregunta 1.**
 Para f(x) = x² + 2x − 8, ¿cuál es la coordenada x del vértice?
 
-a) −1
+a) 4
 b) 1
 c) −4
-d) 4
+d) −1
 
 **Pregunta 2.** (Verdadero o falso)
 Si a<0 en f(x)=ax²+bx+c, la parábola abre hacia arriba y tiene un mínimo.
@@ -47,22 +47,34 @@ Si a<0 en f(x)=ax²+bx+c, la parábola abre hacia arriba y tiene un mínimo.
 **Pregunta 3.**
 Determina el eje de simetría de f(x) = −3x² + 6x + 1.
 
-a) x = 1
+a) x = 2
 b) x = −1
-c) x = 2
+c) x = 1
 d) x = 0
 
-**Pregunta 4.** (Desarrollo)
-Encuentra el vértice y la concavidad de f(x) = 2x² − 8x + 5.
+**Pregunta 4.** (Alternativas — vértice y concavidad)
+¿Cuáles son el vértice y la concavidad de f(x) = 2x² − 8x + 5?
 
-**Pregunta 5.** (Desarrollo)
-Determina los puntos donde f(x) = x² − x − 6 corta al eje x.
+a) (2, −3), hacia arriba
+b) (−2, 29), hacia arriba
+c) (2, −3), hacia abajo
+d) (4, 5), hacia arriba
 
-**Pregunta 6.** (Problema en contexto)
-Un agricultor determina que la producción de papas P (en toneladas), según la cantidad x
-(en kg) de fertilizante aplicado por hectárea, sigue el modelo P(x) = −0,01x² + 2x + 5.
-¿Para qué cantidad de fertilizante se obtiene la producción máxima, y cuál es esa
-producción?
+**Pregunta 5.** (Alternativas — intersecciones con el eje x)
+¿En qué puntos f(x) = x² − x − 6 corta al eje x?
+
+a) (−3, 0) y (2, 0)
+b) (6, 0) y (−1, 0)
+c) (0, −6)
+d) (3, 0) y (−2, 0)
+
+**Pregunta 6.** (Alternativas — modelamiento agrícola)
+La producción de papas sigue P(x) = −0,01x² + 2x + 5 (x en kg de fertilizante). ¿Para qué cantidad se obtiene la máxima producción y cuánto es?
+
+a) 200 kg; 5 toneladas
+b) 100 kg; 105 toneladas
+c) 100 kg; 205 toneladas
+d) 50 kg; 80 toneladas
 
 ---
 
@@ -80,53 +92,63 @@ d) f⁻¹(x) = −x − 5
 La gráfica de la función inversa es siempre la reflexión de la gráfica de la función
 original respecto a la recta y=x.
 
-**Pregunta 9.** (Desarrollo)
-Encuentra la función inversa de f(x) = 2x − 10.
+**Pregunta 9.** (Alternativas — función lineal)
+¿Cuál es la inversa de f(x) = 2x − 10?
 
-**Pregunta 10.** (Desarrollo)
-Encuentra la inversa de f(x) = x² − 3, considerando solo x≥0.
+a) f⁻¹(x) = (x − 10)/2
+b) f⁻¹(x) = 2x + 10
+c) f⁻¹(x) = (x + 10)/2
+d) f⁻¹(x) = 1/(2x − 10)
 
-**Pregunta 11.** (Problema en contexto)
-Usando la función inversa C = (5/9)(F−32), determina a cuántos grados Celsius corresponde
-una temperatura de 86°F.
+**Pregunta 10.** (Alternativas — función cuadrática)
+¿Cuál es la inversa de f(x) = x² − 3, considerando x ≥ 0?
 
-**Pregunta 12.** (Problema en contexto)
-Usando la metáfora de una máquina, explica qué hace la función inversa de
-f(x) = x/3 + 1, y determina su regla.
+a) f⁻¹(x) = √(x + 3)
+b) f⁻¹(x) = √(x − 3)
+c) f⁻¹(x) = x² + 3
+d) f⁻¹(x) = −√(x + 3)
 
-**Pregunta 13.** (Problema no rutinario)
-Explica por qué la función f(x) = x², considerando todos los números reales como dominio,
-no tiene una inversa que sea también una función, y qué solución se aplica para poder
-definirla.
+**Pregunta 11.** (Alternativas — conversión de temperatura)
+Con C = (5/9)(F − 32), ¿a cuántos °C corresponden 86 °F?
+
+a) 15,8 °C
+b) 47,8 °C
+c) 54 °C
+d) 30 °C
+
+**Pregunta 12.** (Alternativas — máquina)
+f(x) = x/3 + 1 divide por 3 y luego suma 1. ¿Qué hace su inversa?
+
+a) Multiplica por 3 y luego resta 1: f⁻¹(x) = 3x − 1
+b) Resta 1 y luego multiplica por 3: f⁻¹(x) = 3x − 3
+c) Divide por 3 y resta 1: f⁻¹(x) = x/3 − 1
+d) Suma 1 y multiplica por 3: f⁻¹(x) = 3x + 3
+
+**Pregunta 13.** (Alternativas — restricción de dominio)
+¿Por qué f(x) = x², con dominio en todos los reales, no tiene una inversa que sea función, y cómo se resuelve?
+
+a) Porque no tiene recorrido definido (f(x) puede ser negativo); se agrega el cero al recorrido y entonces f⁻¹(x) = x²
+b) Porque es una función lineal (f(2) = 4 y f(3) = 6); se eleva al cubo para que crezca, y entonces f⁻¹(x) = ∛x
+c) Porque no es inyectiva (f(2) = f(−2) = 4); se restringe el dominio, por ejemplo a x ≥ 0, y entonces f⁻¹(x) = √x
+d) Sí tiene inversa en todos los reales, porque cada x tiene una sola imagen (f(2) = 4); su inversa es f⁻¹(x) = √x
 
 ---
 
 ## Pauta de corrección
 
-1. a) −1. x = −b/(2a) = −2/(2×1) = −1.
+1. d) −1. x = −b/(2a) = −2/(2×1) = −1.
 2. Falso — cuando a<0, la parábola abre hacia **abajo** y tiene un **máximo**; el caso
    a>0 es el que abre hacia arriba y tiene un mínimo.
-3. a) x = 1. x = −b/(2a) = −6/(2×(−3)) = −6/−6 = 1.
-4. x = −(−8)/(2×2) = 2; f(2) = 2(4)−16+5 = 8−16+5 = −3. Vértice **(2, −3)**, concavidad
-   **hacia arriba** (mínimo), porque a=2>0.
-5. Se factoriza: x²−x−6 = (x−3)(x+2) = 0, por lo tanto **x=3 y x=−2** (puntos (3,0) y
-   (−2,0)).
-6. x = −2/(2×(−0,01)) = −2/−0,02 = **100 kg**. P(100) = −0,01(10.000)+200+5 =
-   −100+200+5 = **105 toneladas**.
+3. c) x = 1. x = −b/(2a) = −6/(2×(−3)) = −6/−6 = 1.
+4. a) (2, −3), hacia arriba. X = −b/(2a) = 8/4 = 2; f(2) = −3; como a = 2 > 0, abre hacia arriba (mínimo).
+5. d) (3, 0) y (−2, 0). X² − x − 6 = (x − 3)(x + 2) = 0; (0, −6) es la intersección con el eje y.
+6. b) 100 kg; 105 toneladas. X = −2/(2 · (−0,01)) = 100; P(100) = −100 + 200 + 5 = 105.
 7. a) f⁻¹(x) = x − 5. Si f suma 5, la inversa debe restar 5 para deshacer esa operación.
 8. Verdadero — como la inversa intercambia los roles de x e y, cada punto (a,b) de f se
    transforma en el punto (b,a) de f⁻¹, y ese intercambio corresponde geométricamente a
    una reflexión respecto a la recta y=x.
-9. y=2x−10; se intercambia: x=2y−10; se despeja: y=(x+10)/2. **f⁻¹(x) = (x+10)/2**.
-10. y=x²−3; se intercambia: x=y²−3; se despeja: y²=x+3, y=√(x+3) (raíz positiva, pues
-    x≥0 en la función original). **f⁻¹(x) = √(x+3)**.
-11. C = (5/9)(86−32) = (5/9)(54) = **30°C**.
-12. f toma un número, lo divide en 3 y luego le suma 1. La inversa debe deshacer esos
-    pasos, en el orden contrario: primero **restar 1**, y luego **multiplicar por 3**.
-    Su regla es **f⁻¹(x) = 3(x−1) = 3x−3**.
-13. Porque f no es inyectiva: por ejemplo, f(2)=4 y f(−2)=4, es decir, dos valores
-    distintos de x producen la misma salida. Si se intentara invertir, la "inversa"
-    tendría que asignarle dos valores distintos de y a un mismo x=4, lo cual **no cumple
-    la definición de función**. La solución es **restringir el dominio** de f (por
-    ejemplo, a x≥0), de modo que sea inyectiva en ese dominio y su inversa quede bien
-    definida: f⁻¹(x)=√x.
+9. c) f⁻¹(x) = (x + 10)/2. Se intercambian x e y y se despeja: x = 2y − 10 → y = (x + 10)/2.
+10. a) f⁻¹(x) = √(x + 3). Y² = x + 3 y se toma la raíz positiva porque x ≥ 0 en la función original.
+11. d) 30 °C. (5/9)(86 − 32) = (5/9) · 54 = 30.
+12. b) Resta 1 y luego multiplica por 3: f⁻¹(x) = 3x − 3. La inversa deshace los pasos en orden contrario.
+13. c) Porque no es inyectiva (f(2) = f(−2) = 4); se restringe el dominio, por ejemplo a x ≥ 0, y entonces f⁻¹(x) = √x. Si se invirtiera sin restringir, a x = 4 le corresponderían dos valores de y.

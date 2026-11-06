@@ -71,10 +71,10 @@ Un estadio recibió 38.647 espectadores en un partido. Aproxima esta cantidad a 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor posicional del dígito 6 en el número 6.412.098?
 a) Unidad de mil
 b) Centena de mil
-c) Unidad de millón
-d) Decena de millón
+c) Decena de millón
+d) Unidad de millón
 
-**Respuesta correcta: c) Unidad de millón.**
+**Respuesta correcta: d) Unidad de millón.**
 *Retroalimentación:* el 6 es el primer dígito de un número de 7 cifras, por lo tanto ocupa el lugar de las unidades de millón y representa 6.000.000.
 
 **Pregunta 2 (verdadero o falso).** En el número 705.340, el dígito 5 representa 5.000.
@@ -82,9 +82,13 @@ d) Decena de millón
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* en 705.340, los dígitos de izquierda a derecha son: 7 (centena de mil), 0 (decena de mil), 5 (unidad de mil), 3 (centena), 4 (decena), 0 (unidad). El 5 está en la posición de las unidades de mil, por lo tanto vale 5.000.
 
-**Pregunta 3 (desarrollo).** Descompón en forma aditiva (expandida) el número 3.204.056.
+**Pregunta 3 (alternativas).** ¿Cuál es la descomposición aditiva (expandida) del número 3.204.056?
+a) 3.000.000 + 200.000 + 4.000 + 50 + 6
+b) 3.000.000 + 20.000 + 4.000 + 50 + 6
+c) 3.000.000 + 200.000 + 400 + 50 + 6
+d) 300.000 + 20.000 + 4.000 + 50 + 6
 
-**Respuesta esperada:** 3.204.056 = 3.000.000 + 200.000 + 4.000 + 50 + 6.
+**Respuesta correcta: a) 3.000.000 + 200.000 + 4.000 + 50 + 6.**
 *Retroalimentación:* aunque algunos dígitos sean 0 (en este caso las decenas de mil y las centenas), igual debes tenerlos presentes al identificar la posición de cada dígito distinto de cero, aunque no aparezcan como sumandos.
 
 **Pregunta 4 (alternativas).** ¿Cuál de los siguientes números es el mayor?
@@ -96,14 +100,22 @@ d) 5.798.600
 **Respuesta correcta: c) 5.879.100.**
 *Retroalimentación:* todos comienzan con "5.8", excepto la opción d, así que la descartamos primero. Entre las restantes, comparamos las decenas de mil: 7 (opción a), 4 (opción b) y 7 (opción c) — hay empate entre a y c en decenas de mil, así que seguimos a las unidades de mil: 4 (opción a) contra 9 (opción c). Como 9 > 4, la opción c es la mayor.
 
-**Pregunta 5 (aproximación).** Aproxima el número 127.480 a la decena de mil más cercana.
+**Pregunta 5 (alternativas — aproximación).** ¿Cuál es la aproximación de 127.480 a la decena de mil más cercana?
+a) 120.000
+b) 127.000
+c) 128.000
+d) 130.000
 
-**Respuesta esperada:** **130.000**.
-*Retroalimentación:* 127.480 está entre 120.000 y 130.000: queda a 7.480 de 120.000 y a 2.520 de 130.000, por lo que se aproxima hacia arriba, quedando en 130.000.
+**Respuesta correcta: d) 130.000.**
+*Retroalimentación:* 127.480 está entre 120.000 y 130.000: queda a 7.480 de 120.000 y a 2.520 de 130.000, por lo que se aproxima hacia arriba. 127.000 y 128.000 son aproximaciones a la unidad de mil.
 
-**Pregunta 6 (ordenar).** Ordena de menor a mayor: 980.500 — 89.500 — 908.005 — 980.050.
+**Pregunta 6 (alternativas — ordenar).** ¿Cuál es el orden de menor a mayor de 980.500 — 89.500 — 908.005 — 980.050?
+a) 89.500 < 980.050 < 908.005 < 980.500
+b) 980.500 < 980.050 < 908.005 < 89.500
+c) 908.005 < 89.500 < 980.050 < 980.500
+d) 89.500 < 908.005 < 980.050 < 980.500
 
-**Respuesta esperada:** 89.500 < 908.005 < 980.050 < 980.500.
+**Respuesta correcta: d) 89.500 < 908.005 < 980.050 < 980.500.**
 *Retroalimentación:* primero fíjate en la cantidad de dígitos (89.500 tiene menos dígitos que los demás, por lo tanto es el menor). Luego compara los que tienen la misma cantidad de dígitos, cifra por cifra desde la izquierda.
 
 ---
@@ -145,12 +157,12 @@ Un colegio tiene 24 salas de clases, cada una con 32 asientos. ¿Cuántos asient
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Calcula 23 × 15 = ?
-a) 335
-b) 345
-c) 315
+a) 315
+b) 335
+c) 345
 d) 355
 
-**Respuesta correcta: b) 345.**
+**Respuesta correcta: c) 345.**
 *Retroalimentación:* 23 × 5 = 115; 23 × 10 = 230; 115 + 230 = 345.
 
 **Pregunta 2 (verdadero o falso).** Una buena estimación de 39 × 21 es 40 × 20 = 800.
@@ -158,23 +170,31 @@ d) 355
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* redondeando 39 a 40 y 21 a 20, obtenemos 800, que está muy cerca del resultado exacto (819).
 
-**Pregunta 3 (desarrollo).** Resuelve 47 × 36 aplicando el algoritmo de la multiplicación (puedes comprobar con calculadora).
+**Pregunta 3 (alternativas).** ¿Cuál es el resultado de 47 × 36?
+a) 1.410
+b) 423
+c) 1.692
+d) 1.592
 
-**Respuesta esperada:** **1.692**.
-*Retroalimentación:* 47 × 6 = 282; 47 × 30 = 1.410; 282 + 1.410 = 1.692.
+**Respuesta correcta: c) 1.692.**
+*Retroalimentación:* 47 × 6 = 282; 47 × 30 = 1.410; 282 + 1.410 = 1.692. Si olvidas sumar el producto por las unidades, te quedas en 1.410.
 
 **Pregunta 4 (identificar la expresión numérica).** Un camión reparte 18 cajas a cada una de 25 tiendas. ¿Cuál expresión numérica permite calcular el total de cajas repartidas?
 a) 18 + 25
-b) 18 × 25
+b) 25 − 18
 c) 25 ÷ 18
-d) 25 − 18
+d) 18 × 25
 
-**Respuesta correcta: b) 18 × 25.**
+**Respuesta correcta: d) 18 × 25.**
 *Retroalimentación:* cuando hay una cantidad igual (18 cajas) que se repite muchas veces (25 tiendas), la operación adecuada es la multiplicación: 18 × 25 = 450 cajas.
 
-**Pregunta 5 (problema de aplicación).** Una feria de artesanías tiene 15 puestos, y cada puesto exhibe 24 productos distintos. ¿Cuántos productos hay en total en la feria?
+**Pregunta 5 (alternativas — problema de aplicación).** Una feria de artesanías tiene 15 puestos, y cada puesto exhibe 24 productos distintos. ¿Cuántos productos hay en total en la feria?
+a) 360
+b) 350
+c) 300
+d) 39
 
-**Respuesta esperada:** 15 × 24 = **360 productos**.
+**Respuesta correcta: a) 360.**
 *Retroalimentación:* puedes calcular 15 × 24 como 15 × 20 + 15 × 4 = 300 + 60 = 360, o verificarlo con calculadora.
 
 **Pregunta 6 (estimación).** Estima el resultado de 62 × 19 redondeando ambos números a la decena más cercana.
@@ -232,15 +252,23 @@ d) Cociente 20, resto 16
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 15 × 6 = 90; 92 − 90 = 2 de resto. Comprobación: (15 × 6) + 2 = 92 ✓
 
-**Pregunta 3 (interpretar el resto — redondear hacia arriba).** Se quieren envasar 275 huevos en bandejas de 6 huevos cada una. ¿Cuántas bandejas se necesitan como mínimo para envasar todos los huevos?
+**Pregunta 3 (alternativas — interpretar el resto).** Se quieren envasar 275 huevos en bandejas de 6 huevos cada una. ¿Cuántas bandejas se necesitan como mínimo para envasar todos los huevos?
+a) 45
+b) 45 y sobran 5
+c) 44
+d) 46
 
-**Respuesta esperada:** 275 ÷ 6 = 45, resto 5. Como sobran 5 huevos que también necesitan bandeja, se requiere una bandeja más: **46 bandejas**.
-*Retroalimentación:* en este tipo de problema, el resto representa elementos que igual necesitan un lugar, por lo tanto hay que redondear el cociente hacia arriba, aunque la última bandeja no quede completamente llena.
+**Respuesta correcta: d) 46.**
+*Retroalimentación:* 275 ÷ 6 = 45, resto 5. Como sobran 5 huevos que también necesitan bandeja, se requiere una bandeja más: 46. En este tipo de problema, el resto representa elementos que igual necesitan un lugar, por lo tanto hay que redondear el cociente hacia arriba.
 
-**Pregunta 4 (interpretar el resto — el resto se descarta).** Se reparten 190 caramelos en partes iguales entre 8 niños, dando a cada uno la mayor cantidad posible. ¿Cuántos caramelos recibe cada niño y cuántos sobran?
+**Pregunta 4 (alternativas — interpretar el resto).** Se reparten 190 caramelos en partes iguales entre 8 niños, dando a cada uno la mayor cantidad posible. ¿Cuántos caramelos recibe cada niño y cuántos sobran?
+a) 23 cada uno y sobran 6
+b) 24 cada uno y no sobra ninguno
+c) 23 cada uno y sobran 8
+d) 22 cada uno y sobran 14
 
-**Respuesta esperada:** 190 ÷ 8 = 23, resto 6. Cada niño recibe **23 caramelos**, y sobran **6** que no se pueden repartir en partes iguales.
-*Retroalimentación:* en este caso, el resto representa lo que "sobra" y no se reparte, porque no alcanza para dar una unidad más a cada niño.
+**Respuesta correcta: a) 23 cada uno y sobran 6.**
+*Retroalimentación:* 190 ÷ 8 = 23, resto 6 (8 × 23 = 184; 190 − 184 = 6). Aquí el resto es lo que sobra y no se reparte, porque no alcanza para dar uno más a cada niño.
 
 **Pregunta 5 (identificar la expresión numérica).** Un pastelero preparó 324 cupcakes para vender en cajas de 9 unidades cada una. ¿Cuál expresión numérica permite saber cuántas cajas completas puede armar?
 a) 324 + 9
@@ -251,10 +279,14 @@ d) 324 ÷ 9
 **Respuesta correcta: d) 324 ÷ 9.**
 *Retroalimentación:* "cajas de 9 unidades cada una" indica un reparto en grupos iguales, que se resuelve con una división: 324 ÷ 9 = 36 cajas exactas (resto 0).
 
-**Pregunta 6 (problema de aplicación con calculadora).** Un club deportivo recibió $438 en monedas de $5 para contar cuántas monedas hay. Usa una calculadora para dividir y responde: ¿cuántas monedas de $5 hay y sobra algo?
+**Pregunta 6 (alternativas — problema con calculadora).** Un club deportivo recibió $438 en monedas de $5. ¿Cuántas monedas de $5 hay y sobra algo?
+a) 87,6 monedas
+b) 88 monedas y no sobra nada
+c) 87 monedas y sobran $3
+d) 87 monedas y sobran $6
 
-**Respuesta esperada:** 438 ÷ 5 = 87, resto 3 (87 × 5 = 435; 438 − 435 = 3). Hay **87 monedas de $5**, y sobran **$3** que no corresponden a una moneda completa de ese valor.
-*Retroalimentación:* la calculadora te entrega el cociente exacto con decimales (87,6), pero para interpretar el resto en un contexto de conteo de monedas, conviene calcular el resto como número entero: 438 − (87×5) = 3.
+**Respuesta correcta: c) 87 monedas y sobran $3.**
+*Retroalimentación:* la calculadora entrega 87,6, pero no existen 0,6 monedas: se calcula el resto como número entero: 438 − (87 × 5) = 438 − 435 = 3.
 
 ---
 
@@ -289,11 +321,11 @@ Una tienda vendió 145 poleras a $6.990 cada una en un día. Usando calculadora:
 
 **Pregunta 1 (alternativas).** Un supermercado vende 5 kilos de manzanas a $1.290 el kilo. Si Camila paga con un billete de $10.000, ¿cuánto es su vuelto?
 a) $3.450
-b) $3.550
+b) $2.450
 c) $4.550
-d) $2.450
+d) $3.550
 
-**Respuesta correcta: b) $3.550.**
+**Respuesta correcta: d) $3.550.**
 *Retroalimentación:* primero se calcula el costo total: 5 × 1.290 = 6.450; luego el vuelto: 10.000 − 6.450 = 3.550.
 
 **Pregunta 2 (verdadero o falso).** Para calcular cuánto paga cada uno de 4 amigos que se reparten en partes iguales el costo de una pizza de $12.000 más una bebida de $2.000, primero hay que sumar los dos precios y luego dividir por 4.
@@ -301,29 +333,41 @@ d) $2.450
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* primero se suma el costo total (12.000 + 2.000 = 14.000) y luego se reparte en partes iguales entre los 4 amigos (14.000 ÷ 4 = 3.500 cada uno).
 
-**Pregunta 3 (desarrollo — problema de varios pasos).** Un colegio compró 18 balones de fútbol a $8.500 cada uno y 12 balones de básquetbol a $9.200 cada uno. ¿Cuánto gastó en total?
+**Pregunta 3 (alternativas — problema de varios pasos).** Un colegio compró 18 balones de fútbol a $8.500 cada uno y 12 balones de básquetbol a $9.200 cada uno. ¿Cuánto gastó en total?
+a) $17.700
+b) $153.000
+c) $263.400
+d) $531.000
 
-**Respuesta esperada:** 18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = **$263.400**.
-*Retroalimentación:* este problema tiene dos grupos distintos de productos; primero se calcula el costo de cada grupo por separado (multiplicando cantidad por precio unitario) y luego se suman ambos totales.
+**Respuesta correcta: c) $263.400.**
+*Retroalimentación:* 18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = 263.400. Primero se calcula el costo de cada grupo y luego se suman ambos totales; $17.700 solo suma los dos precios unitarios.
 
 **Pregunta 4 (identificar las operaciones).** Una tienda tenía 240 cuadernos. Vendió la mitad en la mañana y luego recibió una caja con 90 cuadernos más. ¿Qué operaciones, en orden, permiten saber cuántos cuadernos tiene ahora?
-a) División, luego resta
-b) División, luego suma
+a) División, luego suma
+b) División, luego resta
 c) Resta, luego multiplicación
 d) Suma, luego división
 
-**Respuesta correcta: b) División, luego suma.**
+**Respuesta correcta: a) División, luego suma.**
 *Retroalimentación:* "vendió la mitad" es una división (240 ÷ 2 = 120 vendidos, quedan 120), y luego "recibió 90 más" es una suma (120 + 90 = 210 cuadernos en total).
 
-**Pregunta 5 (problema con calculadora).** Un evento deportivo vendió 3.250 entradas a $7.500 cada una. Usa una calculadora si lo necesitas: ¿cuánto dinero se recaudó en total?
+**Pregunta 5 (alternativas — problema con calculadora).** Un evento deportivo vendió 3.250 entradas a $7.500 cada una. ¿Cuánto dinero se recaudó en total?
+a) $2.437.500
+b) $10.750
+c) $243.750.000
+d) $24.375.000
 
-**Respuesta esperada:** 3.250 × 7.500 = **$24.375.000**.
-*Retroalimentación:* con números tan grandes, la calculadora ayuda a evitar errores, pero conviene estimar antes (3.000 × 7.500 = 22.500.000 aprox.) para verificar que el resultado obtenido tenga sentido.
+**Respuesta correcta: d) $24.375.000.**
+*Retroalimentación:* 3.250 × 7.500 = 24.375.000. Conviene estimar antes (3.000 × 7.500 = 22.500.000 aprox.) para verificar que el resultado tenga sentido: las otras opciones están muy lejos de esa estimación.
 
-**Pregunta 6 (problema no rutinario).** Valentina ahorra $3.500 cada semana. Quiere comprar una bicicleta de $52.000. Ya tiene ahorrados $10.000. ¿Cuántas semanas más necesita ahorrar como mínimo para completar el precio de la bicicleta?
+**Pregunta 6 (alternativas — problema no rutinario).** Valentina ahorra $3.500 cada semana. Quiere comprar una bicicleta de $52.000 y ya tiene ahorrados $10.000. ¿Cuántas semanas más necesita ahorrar como mínimo?
+a) 15 semanas
+b) 14 semanas
+c) 42 semanas
+d) 12 semanas
 
-**Respuesta esperada:** le faltan 52.000 − 10.000 = 42.000; 42.000 ÷ 3.500 = 12 semanas exactas.
-*Retroalimentación:* primero se calcula cuánto dinero le falta (resta), y luego se divide esa cantidad por el ahorro semanal para saber cuántas semanas necesita.
+**Respuesta correcta: d) 12 semanas.**
+*Retroalimentación:* primero se calcula cuánto le falta (52.000 − 10.000 = 42.000) y luego se divide por el ahorro semanal: 42.000 ÷ 3.500 = 12. Si olvidas lo que ya tiene ahorrado, llegas a casi 15 semanas.
 
 ---
 
@@ -371,15 +415,22 @@ d) 2/5
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* dividiendo numerador y denominador por 3: 9÷3=3 y 12÷3=4, resultando en 3/4, que es una fracción equivalente pero con números más pequeños.
 
-**Pregunta 3 (desarrollo).** Amplifica la fracción 3/5 multiplicando por 3, y escribe la fracción equivalente resultante.
+**Pregunta 3 (alternativas — amplificar).** ¿Qué fracción se obtiene al amplificar 3/5 multiplicando por 3?
+a) 9/5
+b) 3/15
+c) 9/15
+d) 6/8
 
-**Respuesta esperada:** 3/5 = (3×3)/(5×3) = **9/15**.
-*Retroalimentación:* al amplificar, ambos números (numerador y denominador) se multiplican por el mismo factor, para no cambiar el valor de la fracción, solo su forma de escribirla.
+**Respuesta correcta: c) 9/15.**
+*Retroalimentación:* al amplificar, numerador y denominador se multiplican por el mismo factor: (3×3)/(5×3) = 9/15, para no cambiar el valor de la fracción. Multiplicar solo uno de los dos cambia el valor.
 
-**Pregunta 4 (comparar distinto denominador).** ¿Cuál fracción es mayor, 2/3 o 3/5?
+**Pregunta 4 (alternativas — comparar distinto denominador).** ¿Cuál fracción es mayor, 2/3 o 3/5?
+a) 2/3
+b) 3/5
+c) Son iguales
 
-**Respuesta esperada:** amplificando a un denominador común (15): 2/3 = 10/15 y 3/5 = 9/15. Como 10 > 9, **2/3 > 3/5**.
-*Retroalimentación:* cuando dos fracciones tienen distinto denominador, no se pueden comparar directamente; primero hay que amplificarlas a un denominador común y luego comparar los numeradores.
+**Respuesta correcta: a) 2/3.**
+*Retroalimentación:* amplificando a un denominador común (15): 2/3 = 10/15 y 3/5 = 9/15. Como 10 > 9, 2/3 > 3/5. Con distinto denominador no se pueden comparar directamente los numeradores.
 
 **Pregunta 5 (identificar fracciones equivalentes).** ¿Cuál de estos pares de fracciones NO es equivalente?
 a) 1/3 y 2/6
@@ -390,10 +441,14 @@ d) 2/5 y 3/8
 **Respuesta correcta: d) 2/5 y 3/8.**
 *Retroalimentación:* 1/3=2/6 (×2), 2/4=4/8 (×2), 3/6=1/2 (÷3), pero 2/5 y 3/8 no se pueden obtener multiplicando o dividiendo ambos términos por el mismo número, así que no son equivalentes.
 
-**Pregunta 6 (problema en contexto).** En una fiesta, se sirvió pizza y quedó 6/8 de una pizza sin comer, mientras que de otra pizza igual quedó 3/4 sin comer. ¿Quedó la misma cantidad de ambas pizzas, o una tiene más?
+**Pregunta 6 (alternativas — problema en contexto).** En una fiesta quedó 6/8 de una pizza sin comer, y de otra pizza igual quedó 3/4 sin comer. ¿Qué afirmación es correcta?
+a) Quedó la misma cantidad de ambas, porque 6/8 = 3/4
+b) Quedó más de la primera, porque 6 es mayor que 3
+c) Quedó más de la segunda, porque 4 es menor que 8
+d) No se pueden comparar
 
-**Respuesta esperada:** 6/8 se simplifica a 3/4, por lo tanto **ambas pizzas tienen la misma cantidad** sin comer (son fracciones equivalentes).
-*Retroalimentación:* aunque 6/8 y 3/4 se vean distintas, representan exactamente la misma cantidad, porque 6/8 = (6÷2)/(8÷2) = 3/4.
+**Respuesta correcta: a) Quedó la misma cantidad de ambas, porque 6/8 = 3/4.**
+*Retroalimentación:* aunque 6/8 y 3/4 se vean distintas, son equivalentes: 6/8 = (6÷2)/(8÷2) = 3/4.
 
 ---
 
@@ -438,12 +493,16 @@ d) 0,003
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 1/4 = 25/100 (amplificando ×25), y 25/100 se escribe como 0,25.
 
-**Pregunta 3 (desarrollo).** Transforma la fracción 1/5 a decimal, mostrando tu procedimiento.
+**Pregunta 3 (alternativas).** ¿A qué decimal equivale la fracción 1/5?
+a) 0,5
+b) 0,15
+c) 1,5
+d) 0,2
 
-**Respuesta esperada:** 1/5 = 2/10 (amplificando ×2) = **0,2**.
-*Retroalimentación:* como el denominador 5 se puede amplificar fácilmente a 10 (multiplicando por 2), es la forma más simple de encontrar el decimal equivalente.
+**Respuesta correcta: d) 0,2.**
+*Retroalimentación:* 1/5 = 2/10 (amplificando ×2) = 0,2. Como el denominador 5 se puede amplificar fácilmente a 10, es la forma más simple de encontrar el decimal equivalente.
 
-**Pregunta 4 (relacionar representaciones).** Une mentalmente: ¿qué fracción corresponde al decimal 0,5?
+**Pregunta 4 (alternativas — vincular representaciones).** ¿Qué fracción corresponde al decimal 0,5?
 a) 1/5
 b) 5/100
 c) 1/2
@@ -452,15 +511,23 @@ d) 1/10
 **Respuesta correcta: c) 1/2.**
 *Retroalimentación:* 0,5 significa 5 décimos, es decir, 5/10, que simplificado es 1/2.
 
-**Pregunta 5 (desarrollo).** Transforma 3/4 a decimal.
+**Pregunta 5 (alternativas).** ¿A qué decimal equivale 3/4?
+a) 0,25
+b) 0,34
+c) 0,75
+d) 3,4
 
-**Respuesta esperada:** 3/4 = 75/100 = **0,75**.
-*Retroalimentación:* como 4 × 25 = 100, se amplifica la fracción multiplicando numerador y denominador por 25: (3×25)/(4×25) = 75/100 = 0,75.
+**Respuesta correcta: c) 0,75.**
+*Retroalimentación:* como 4 × 25 = 100, se amplifica multiplicando numerador y denominador por 25: (3×25)/(4×25) = 75/100 = 0,75.
 
-**Pregunta 6 (problema en contexto).** Un litro de bebida se repartió y quedan 2/5 del contenido. Expresa esa cantidad como decimal.
+**Pregunta 6 (alternativas — problema en contexto).** Un litro de bebida se repartió y quedan 2/5 del contenido. ¿Cómo se expresa esa cantidad como decimal?
+a) 0,25 litros
+b) 2,5 litros
+c) 0,4 litros
+d) 0,2 litros
 
-**Respuesta esperada:** 2/5 = 4/10 = **0,4** litros.
-*Retroalimentación:* amplificando por 2, el denominador 5 se transforma en 10, lo que permite escribir directamente el decimal: 0,4.
+**Respuesta correcta: c) 0,4 litros.**
+*Retroalimentación:* amplificando por 2, el denominador 5 se transforma en 10: 2/5 = 4/10 = 0,4.
 
 ---
 
@@ -506,29 +573,39 @@ d) No se puede saber
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 3,1 = 3,100. Al comparar 3,099 con 3,100, los décimos son distintos: 3,100 tiene 1 décimo y 3,099 tiene 0 décimos. Como 0 < 1, en realidad 3,099 < 3,100. Por lo tanto, 3,099 NO es mayor que 3,1: la afirmación es falsa.
 
-**Pregunta 3 (desarrollo).** Ordena de menor a mayor: 4,2 — 4,25 — 4,205 — 4,02.
+**Pregunta 3 (alternativas).** ¿Cuál es el orden de menor a mayor de 4,2 — 4,25 — 4,205 — 4,02?
+a) 4,02 < 4,2 < 4,205 < 4,25
+b) 4,2 < 4,02 < 4,25 < 4,205
+c) 4,02 < 4,205 < 4,2 < 4,25
+d) 4,25 < 4,205 < 4,2 < 4,02
 
-**Respuesta esperada:** **4,02 < 4,2 < 4,205 < 4,25**.
-*Retroalimentación:* igualando a tres cifras decimales: 4,200 — 4,250 — 4,205 — 4,020. Comparando: 4,020 es el menor; luego 4,200; luego 4,205; y el mayor es 4,250.
+**Respuesta correcta: a) 4,02 < 4,2 < 4,205 < 4,25.**
+*Retroalimentación:* igualando a tres cifras decimales: 4,200 — 4,250 — 4,205 — 4,020. Comparando: 4,020 es el menor; luego 4,200; luego 4,205; y el mayor es 4,250. Un número con más cifras decimales no es necesariamente mayor.
 
-**Pregunta 4 (comparación en contexto).** En una carrera, Joaquín corrió los 100 metros en 15,82 segundos y Martín en 15,79 segundos. ¿Quién fue más rápido?
+**Pregunta 4 (alternativas — comparación en contexto).** En una carrera, Joaquín corrió los 100 metros en 15,82 segundos y Martín en 15,79 segundos. ¿Quién fue más rápido?
+a) Martín
+b) Joaquín
+c) Llegaron empatados
 
-**Respuesta esperada:** **Martín**, porque 15,79 < 15,82 (un menor tiempo significa mayor rapidez).
-*Retroalimentación:* en los segundos, ambos tienen 15; en los décimos, 7 (Martín) es menor que 8 (Joaquín), por lo tanto el tiempo de Martín es menor, y en una carrera, menor tiempo es mejor.
+**Respuesta correcta: a) Martín.**
+*Retroalimentación:* en los décimos, 7 (Martín) es menor que 8 (Joaquín), por lo tanto el tiempo de Martín es menor, y en una carrera, menor tiempo significa mayor rapidez.
 
 **Pregunta 5 (alternativas).** ¿Cuál de los siguientes números decimales es el mayor?
-a) 6,099
-b) 6,19
+a) 6,09
+b) 6,099
 c) 6,1
-d) 6,09
+d) 6,19
 
-**Respuesta correcta: b) 6,19.**
+**Respuesta correcta: d) 6,19.**
 *Retroalimentación:* igualando todos los números a tres cifras decimales: 6,099 — 6,190 — 6,100 — 6,090. Comparando los décimos (0, 1, 1, 0), el mayor es 6,190, es decir, 6,19.
 
-**Pregunta 6 (desarrollo — dinero).** Dos productos cuestan $1.250,5 y $1.250,05 respectivamente (en miles de pesos, por ejemplo, escrito como decimal). ¿Cuál producto es más caro?
+**Pregunta 6 (alternativas — comparar decimales).** Dos cintas miden 1,5 m y 1,05 m. ¿Cuál es más larga?
+a) La de 1,05 m, porque tiene más cifras decimales
+b) Miden lo mismo, porque ambas tienen un 1 y un 5
+c) La de 1,5 m, porque tiene 5 décimos y la otra 0 décimos
 
-**Respuesta esperada:** **$1.250,5**, porque 1.250,50 > 1.250,05 (comparando los décimos: 5 contra 0).
-*Retroalimentación:* al igualar las cifras decimales (1.250,50 y 1.250,05), se ve claramente que el primer número tiene 5 décimos y el segundo tiene 0 décimos, por lo tanto el primero es mayor.
+**Respuesta correcta: c) La de 1,5 m, porque tiene 5 décimos y la otra 0 décimos.**
+*Retroalimentación:* al igualar las cifras decimales (1,50 y 1,05), se ve claramente que el primer número tiene 5 décimos y el segundo 0 décimos, por lo tanto el primero es mayor. Tener más cifras decimales no hace mayor a un número.
 
 ---
 
@@ -581,25 +658,41 @@ d) 1/9
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* agregar un cero a 2,3 (quedando 2,30) no cambia su valor, y permite sumar cifra por cifra alineando décimos con décimos y centésimos con centésimos: 2,30 + 1,45 = 3,75.
 
-**Pregunta 3 (desarrollo).** Calcula 3/4 − 1/2, mostrando tu procedimiento.
+**Pregunta 3 (alternativas).** ¿Cuál es el resultado de 3/4 − 1/2?
+a) 2/2
+b) 2/4
+c) 1/2
+d) 1/4
 
-**Respuesta esperada:** 1/2 = 2/4; 3/4 − 2/4 = **1/4**.
-*Retroalimentación:* como los denominadores son distintos, primero hay que amplificar 1/2 a cuartos (2/4), y luego restar los numeradores manteniendo el denominador común.
+**Respuesta correcta: d) 1/4.**
+*Retroalimentación:* como los denominadores son distintos, primero se amplifica 1/2 a cuartos (2/4), y luego se restan los numeradores: 3/4 − 2/4 = 1/4. Restar numeradores y denominadores por separado (2/2) es un error frecuente.
 
-**Pregunta 4 (problema de aplicación — decimales).** Andrea compró un cuaderno de $2,50 (en miles) y un lápiz de $0,75 (en miles). ¿Cuánto gastó en total?
+**Pregunta 4 (alternativas — decimales).** Andrea compró una cinta de 2,50 m y otra de 0,75 m. ¿Cuántos metros de cinta compró en total?
+a) 2,125 m
+b) 3,25 m
+c) 3,75 m
+d) 2,75 m
 
-**Respuesta esperada:** 2,50 + 0,75 = **$3,25** (en miles, es decir, $3.250).
-*Retroalimentación:* al sumar decimales, hay que alinear la coma decimal y sumar por columnas, igual que con números naturales: 0+5=5 centésimos, 5+7=12 décimos (se escribe 2, se reserva 1), 2+0+1=3 unidades.
+**Respuesta correcta: b) 3,25 m.**
+*Retroalimentación:* al sumar decimales, hay que alinear la coma: 0+5=5 centésimos, 5+7=12 décimos (se escribe 2, se reserva 1), 2+0+1=3 unidades: 3,25.
 
-**Pregunta 5 (problema de aplicación — fracciones).** Una receta necesita 2/3 de taza de harina, pero Sofía ya puso 1/3 de taza. ¿Cuánta harina le falta agregar?
+**Pregunta 5 (alternativas — fracciones).** Una receta necesita 2/3 de taza de harina, pero Sofía ya puso 1/3 de taza. ¿Cuánta harina le falta agregar?
+a) 3/3 de taza
+b) 1/0 de taza
+c) 1/3 de taza
+d) 2/6 de taza
 
-**Respuesta esperada:** 2/3 − 1/3 = **1/3 de taza**.
-*Retroalimentación:* como ambas fracciones ya tienen el mismo denominador, se restan directamente los numeradores.
+**Respuesta correcta: c) 1/3 de taza.**
+*Retroalimentación:* como ambas fracciones ya tienen el mismo denominador, se restan directamente los numeradores: 2/3 − 1/3 = 1/3.
 
-**Pregunta 6 (problema no rutinario).** Diego recorrió 1,25 km caminando y luego 0,8 km más en bicicleta. ¿Cuántos kilómetros recorrió en total?
+**Pregunta 6 (alternativas — problema no rutinario).** Diego recorrió 1,25 km caminando y luego 0,8 km más en bicicleta. ¿Cuántos kilómetros recorrió en total?
+a) 1,205 km
+b) 1,33 km
+c) 2,05 km
+d) 2,5 km
 
-**Respuesta esperada:** 1,25 + 0,80 = **2,05 km**.
-*Retroalimentación:* conviene escribir 0,8 como 0,80 para alinear las cifras decimales antes de sumar: 5+0=5 centésimos, 2+8=10 décimos (se escribe 0, se reserva 1), 1+0+1=2 unidades, resultando en 2,05.
+**Respuesta correcta: c) 2,05 km.**
+*Retroalimentación:* conviene escribir 0,8 como 0,80 para alinear las cifras decimales: 1,25 + 0,80 = 2,05. Sumar 25 + 8 como si fueran centésimos lleva al error 1,33.
 
 ---
 
@@ -644,30 +737,46 @@ d) Restar 5
 **Respuesta correcta: b) Sumar 5.**
 *Retroalimentación:* la diferencia entre cada número y el anterior es siempre 5, por lo tanto la regla de formación es "sumar 5".
 
-**Pregunta 2 (desarrollo).** Extiende la secuencia siguiendo la regla "comenzar en 5 y multiplicar por 2 cada vez": 5, 10, 20, ___, ___.
+**Pregunta 2 (alternativas).** Siguiendo la regla "comenzar en 5 y multiplicar por 2 cada vez" (5, 10, 20, ___, ___), ¿qué números siguen?
+a) 30 y 40
+b) 25 y 30
+c) 22 y 24
+d) 40 y 80
 
-**Respuesta esperada:** 40 y 80.
-*Retroalimentación:* si la regla es multiplicar por 2, entonces 20×2=40 y 40×2=80.
+**Respuesta correcta: d) 40 y 80.**
+*Retroalimentación:* si la regla es multiplicar por 2, entonces 20×2=40 y 40×2=80. Sumar 10 (30 y 40) es otra regla.
 
 **Pregunta 3 (verdadero o falso).** En la secuencia 100, 91, 82, 73, la regla de formación es "restar 9".
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 100−91=9, 91−82=9, 82−73=9; en todos los casos la diferencia es 9, así que la regla es restar 9 en cada paso.
 
-**Pregunta 4 (predecir un término lejano).** En la secuencia 2, 5, 8, 11, ... (que suma 3 cada vez), ¿cuál es el término número 15?
+**Pregunta 4 (alternativas — término lejano).** En la secuencia 2, 5, 8, 11, ... (que suma 3 cada vez), ¿cuál es el término número 15?
+a) 41
+b) 44
+c) 45
+d) 47
 
-**Respuesta esperada:** el primer término es 2; para llegar al término 15 se suma 3 un total de 14 veces: 2 + (14 × 3) = 2 + 42 = **44**.
-*Retroalimentación:* no es necesario escribir los 15 términos uno por uno: basta identificar cuántas veces se aplica la regla desde el primer término hasta la posición deseada.
+**Respuesta correcta: b) 44.**
+*Retroalimentación:* el primer término es 2; para llegar al término 15 se suma 3 un total de 14 veces: 2 + (14 × 3) = 44. Si sumas 3 quince veces, llegas a 47, que sería el término 16.
 
-**Pregunta 5 (describir la regla con palabras).** Describe con tus propias palabras la regla de formación de la secuencia: 81, 27, 9, 3, 1.
+**Pregunta 5 (alternativas — describir la regla).** ¿Cuál es la regla de formación de la secuencia 81, 27, 9, 3, 1?
+a) Restar 54 cada vez
+b) Dividir el término anterior por 9
+c) Dividir el término anterior por 3
+d) Restar 3 cada vez
 
-**Respuesta esperada:** cada término se obtiene **dividiendo el anterior por 3** (o, equivalentemente, es el resultado de dividir sucesivamente por 3).
-*Retroalimentación:* comprobamos: 81÷3=27, 27÷3=9, 9÷3=3, 3÷3=1. La secuencia va disminuyendo porque se divide, en vez de sumar o multiplicar.
+**Respuesta correcta: c) Dividir el término anterior por 3.**
+*Retroalimentación:* comprobamos: 81÷3=27, 27÷3=9, 9÷3=3, 3÷3=1. Restar 54 solo sirve para el primer paso.
 
-**Pregunta 6 (problema en contexto).** Camila ahorra $2.000 la primera semana, y cada semana siguiente ahorra $500 más que la semana anterior (2.000, 2.500, 3.000, ...). ¿Cuánto ahorrará en la quinta semana?
+**Pregunta 6 (alternativas — problema en contexto).** Camila ahorra $2.000 la primera semana, y cada semana siguiente ahorra $500 más que la anterior (2.000, 2.500, 3.000, ...). ¿Cuánto ahorrará en la quinta semana?
+a) $4.500
+b) $4.000
+c) $3.500
+d) $2.500
 
-**Respuesta esperada:** 2.000, 2.500, 3.000, 3.500, **4.000** (quinta semana).
-*Retroalimentación:* la regla es "sumar 500 cada semana", partiendo de 2.000 en la semana 1. Para llegar a la semana 5 se suma 500 un total de 4 veces: 2.000 + (4×500) = 4.000.
+**Respuesta correcta: b) $4.000.**
+*Retroalimentación:* para llegar a la semana 5 se suma 500 un total de 4 veces: 2.000 + (4×500) = 4.000.
 
 ---
 
@@ -702,8 +811,8 @@ Sumando 15 a ambos lados: x > 35. Es decir, cualquier valor de x mayor que 35 cu
 **Pregunta 1 (alternativas).** Resuelve: x + 128 = 350. ¿Cuál es el valor de x?
 a) 212
 b) 222
-c) 478
-d) 232
+c) 232
+d) 478
 
 **Respuesta correcta: b) 222.**
 *Retroalimentación:* x = 350 − 128 = 222. Comprobación: 222 + 128 = 350 ✓
@@ -713,10 +822,14 @@ d) 232
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* x = 560 + 340 = 900. Comprobación: 900 − 340 = 560 ✓
 
-**Pregunta 3 (desarrollo).** Resuelve y comprueba: x + 1.250 = 3.000.
+**Pregunta 3 (alternativas).** ¿Cuál es el valor de x en x + 1.250 = 3.000?
+a) 4.250
+b) 1.250
+c) 2.750
+d) 1.750
 
-**Respuesta esperada:** x = 3.000 − 1.250 = **1.750**. Comprobación: 1.750 + 1.250 = 3.000 ✓
-*Retroalimentación:* siempre conviene comprobar reemplazando el valor encontrado en la ecuación original, para verificar que la igualdad se cumple.
+**Respuesta correcta: d) 1.750.**
+*Retroalimentación:* x = 3.000 − 1.250 = 1.750. Comprobación: 1.750 + 1.250 = 3.000.
 
 **Pregunta 4 (identificar la ecuación).** Un estanque tenía cierta cantidad de agua. Se agregaron 850 litros y ahora tiene 2.100 litros. ¿Cuál ecuación representa esta situación?
 a) x − 850 = 2.100
@@ -727,15 +840,23 @@ d) 2.100 + 850 = x
 **Respuesta correcta: b) x + 850 = 2.100.**
 *Retroalimentación:* la cantidad inicial (x) más lo que se agregó (850) da como resultado la cantidad final (2.100), lo que se representa como x + 850 = 2.100. Resolviendo, x = 2.100 − 850 = 1.250 litros.
 
-**Pregunta 5 (inecuación en contexto).** Para poder subir a un juego mecánico, un niño debe pesar más de 25 kg. Si x representa el peso del niño, ¿cuál inecuación representa esta condición, y cuáles de estos pesos cumplen la condición: 24 kg, 25 kg, 26 kg?
+**Pregunta 5 (alternativas — inecuación en contexto).** Para subir a un juego mecánico, un niño debe pesar **más de** 25 kg. Si x es el peso del niño, ¿qué inecuación representa la condición y cuál de estos pesos la cumple: 24 kg, 25 kg o 26 kg?
+a) x < 25; solo 24 kg
+b) x > 25; solo 26 kg
+c) x > 25; 25 kg y 26 kg
+d) x = 25; solo 25 kg
 
-**Respuesta esperada:** la inecuación es x > 25. Cumplen la condición solo los pesos **mayores** que 25, es decir, **26 kg** (24 kg y 25 kg no cumplen, porque no son mayores que 25).
+**Respuesta correcta: b) x > 25; solo 26 kg.**
 *Retroalimentación:* "más de" indica una desigualdad estricta (mayor que, sin incluir el valor exacto), por lo tanto 25 kg justo no cumple la condición.
 
-**Pregunta 6 (problema de aplicación con balanza).** En una balanza equilibrada, en un platillo hay una caja de peso desconocido (x) junto a una pesa de 30 kg, y en el otro platillo hay una pesa de 75 kg. ¿Cuál es el valor de x?
+**Pregunta 6 (alternativas — balanza).** En una balanza equilibrada, un platillo tiene una caja de peso desconocido (x) junto a una pesa de 30 kg, y el otro platillo una pesa de 75 kg. ¿Cuál es el valor de x?
+a) 105 kg
+b) 75 kg
+c) 45 kg
+d) 30 kg
 
-**Respuesta esperada:** x = 75 − 30 = **45**.
-*Retroalimentación:* usando la operación inversa a la suma (la resta), se despeja x restando 30 a ambos lados de la ecuación.
+**Respuesta correcta: c) 45 kg.**
+*Retroalimentación:* x + 30 = 75; usando la operación inversa a la suma, x = 75 − 30 = 45.
 
 ---
 
@@ -779,10 +900,14 @@ d) 4
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* esa es justamente la definición de perpendicularidad: dos líneas son perpendiculares cuando, al intersecarse, forman un ángulo recto (90°).
 
-**Pregunta 3 (desarrollo).** Explica la diferencia entre dos líneas que "se intersecan" y dos líneas "perpendiculares".
+**Pregunta 3 (alternativas).** ¿Qué diferencia hay entre dos líneas que "se intersecan" y dos líneas "perpendiculares"?
+a) Las que se intersecan se cruzan formando cualquier ángulo; las perpendiculares se cruzan formando exactamente 90°
+b) Las perpendiculares nunca se cruzan, como las vías de un tren; las que se intersecan se cruzan en un punto formando cualquier ángulo
+c) Las que se intersecan siempre forman 90° al cruzarse; las perpendiculares se cruzan formando ángulos agudos u obtusos
+d) No hay diferencia: son dos nombres para las mismas líneas, que se cruzan en un punto
 
-**Respuesta esperada:** dos líneas que se intersecan simplemente se cruzan en algún punto, formando cualquier ángulo. Dos líneas perpendiculares son un caso especial de intersección, donde el ángulo formado es exactamente de 90°.
-*Retroalimentación:* toda perpendicularidad es una forma de intersección, pero no toda intersección es perpendicular; depende del ángulo que se forma en el cruce.
+**Respuesta correcta: a) Las que se intersecan se cruzan formando cualquier ángulo; las perpendiculares se cruzan formando exactamente 90°.**
+*Retroalimentación:* toda perpendicularidad es una forma de intersección, pero no toda intersección es perpendicular; depende del ángulo que se forma en el cruce. Las líneas que nunca se cruzan son paralelas.
 
 **Pregunta 4 (identificar en un cuerpo 3D).** En un prisma rectangular (como una caja de zapatos), ¿qué relación tienen las dos caras opuestas más grandes (la de arriba y la de abajo) entre sí?
 a) Se intersecan
@@ -793,15 +918,22 @@ d) Son iguales pero no relacionadas
 **Respuesta correcta: c) Son paralelas.**
 *Retroalimentación:* la cara superior y la cara inferior de una caja nunca se tocan y mantienen siempre la misma distancia entre sí (la altura de la caja), por lo tanto son paralelas.
 
-**Pregunta 5 (desarrollo — figura 2D).** Dibuja mentalmente un trapecio (una figura de 4 lados donde solo un par de lados es paralelo). ¿Cuántos pares de lados paralelos tiene un trapecio, y cuántos lados en total?
+**Pregunta 5 (alternativas — figura 2D).** Un trapecio es una figura de 4 lados donde solo un par de lados es paralelo. ¿Cuántos pares de lados paralelos tiene y cuántos lados en total?
+a) 2 pares de lados paralelos y 4 lados
+b) 1 par de lados paralelos y 3 lados
+c) Ningún lado paralelo y 4 lados
+d) 1 par de lados paralelos y 4 lados
 
-**Respuesta esperada:** un trapecio tiene **4 lados en total**, pero solo **1 par de lados paralelos** (los otros dos lados no son paralelos entre sí).
+**Respuesta correcta: d) 1 par de lados paralelos y 4 lados.**
 *Retroalimentación:* a diferencia del rectángulo (que tiene 2 pares de lados paralelos), el trapecio se distingue justamente porque solo tiene un par de lados paralelos.
 
-**Pregunta 6 (identificar relaciones en el entorno).** Observa las paredes de una sala de clases: la pared del pizarrón y el piso, ¿qué relación geométrica representan generalmente?
+**Pregunta 6 (alternativas — vínculos geométricos en el entorno).** Observa la pared del pizarrón y el piso de la sala. ¿Qué relación geométrica representan generalmente?
+a) Son paralelas, como las líneas de un cuaderno
+b) No se relacionan geométricamente entre sí
+c) Son perpendiculares (forman 90°)
 
-**Respuesta esperada:** son **perpendiculares** (forman un ángulo de 90° donde la pared se encuentra con el piso).
-*Retroalimentación:* en la construcción de edificios, las paredes verticales normalmente se construyen perpendiculares al piso, para que la estructura sea estable.
+**Respuesta correcta: c) Son perpendiculares (forman 90°).**
+*Retroalimentación:* en la construcción, las paredes verticales normalmente se construyen perpendiculares al piso, para que la estructura sea estable.
 
 ---
 
@@ -841,29 +973,41 @@ d) Están una encima de la otra
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* estas tres transformaciones se llaman "isométricas" precisamente porque conservan la forma y el tamaño de la figura; solo cambian su posición u orientación.
 
-**Pregunta 3 (identificar la transformación).** Un rombo se dibuja en una cuadrícula y luego se dibuja el mismo rombo "al revés" (como girado media vuelta) en otra posición. ¿Qué transformación isométrica relaciona ambas figuras?
+**Pregunta 3 (alternativas — identificar la transformación).** Un rombo se dibuja en una cuadrícula y luego se dibuja el mismo rombo "al revés" (girado media vuelta) en otra posición. ¿Qué transformación isométrica relaciona ambas figuras?
+a) Una traslación
+b) Una rotación de 180°
+c) Una ampliación
+d) Una reducción
 
-**Respuesta esperada:** una **rotación** (de 180°).
-*Retroalimentación:* cuando una figura queda "al revés" respecto a la orientación original, sin ser un reflejo de espejo, generalmente se trata de una rotación de 180°.
+**Respuesta correcta: b) Una rotación de 180°.**
+*Retroalimentación:* cuando una figura queda "al revés" por un giro, sin ser un reflejo de espejo, se trata de una rotación de 180°. Ampliar o reducir no son transformaciones isométricas, porque cambian el tamaño.
 
-**Pregunta 4 (desarrollo).** Explica con tus propias palabras por qué dos figuras congruentes pueden verse "distintas" a simple vista aunque sean exactamente iguales.
+**Pregunta 4 (alternativas).** ¿Por qué dos figuras congruentes pueden verse "distintas" a simple vista aunque sean exactamente iguales?
+a) Porque tienen distinto tamaño, aunque su forma sea la misma
+b) Porque tienen distinta cantidad de lados y de vértices
+c) Porque pueden estar en distinta posición, rotadas o reflejadas, aunque su forma y tamaño sean idénticos
+d) Porque una es más grande que la otra y está más lejos de quien la mira, aunque tengan la misma forma
 
-**Respuesta esperada (ejemplo):** porque pueden estar en distinta posición, orientación (rotadas) o pueden ser reflejo una de la otra, lo que hace que a simple vista parezcan diferentes, aunque su forma y tamaño sean idénticos.
+**Respuesta correcta: c) Porque pueden estar en distinta posición, rotadas o reflejadas, aunque su forma y tamaño sean idénticos.**
 *Retroalimentación:* la clave para reconocer congruencia es imaginar si podrías mover, rotar o reflejar una figura hasta hacerla coincidir exactamente con la otra, sin estirarla ni encogerla.
 
 **Pregunta 5 (alternativas).** ¿Cuál de las siguientes transformaciones NO conserva la congruencia de una figura?
-a) Trasladarla
-b) Rotarla
-c) Reflejarla
+a) Trasladarla a otra posición del plano
+b) Rotarla en torno a uno de sus vértices
+c) Reflejarla respecto de una recta
 d) Agrandarla al doble de su tamaño
 
 **Respuesta correcta: d) Agrandarla al doble de su tamaño.**
 *Retroalimentación:* agrandar (o achicar) una figura cambia su tamaño, por lo tanto la figura resultante ya NO sería congruente con la original, aunque mantenga la misma forma.
 
-**Pregunta 6 (problema de aplicación en cuadrícula).** En una cuadrícula, un triángulo A está ubicado en la esquina inferior izquierda. Un triángulo B, de la misma forma y tamaño que A, aparece 5 cuadros más arriba y 3 cuadros más a la derecha, sin ningún giro ni volteo. ¿Qué transformación relaciona el triángulo A con el triángulo B, y son congruentes?
+**Pregunta 6 (alternativas — cuadrícula).** En una cuadrícula, un triángulo A está en la esquina inferior izquierda. Un triángulo B, de la misma forma y tamaño, aparece 5 cuadros más arriba y 3 a la derecha, sin giro ni volteo. ¿Qué transformación los relaciona, y son congruentes?
+a) Una traslación; sí son congruentes
+b) Una rotación; no son congruentes
+c) Una reflexión; sí son congruentes
+d) Una traslación; no son congruentes
 
-**Respuesta esperada:** la transformación es una **traslación** (5 cuadros arriba y 3 a la derecha), y sí, ambos triángulos **son congruentes**, porque una traslación no cambia la forma ni el tamaño de la figura.
-*Retroalimentación:* como no hay ningún giro ni volteo mencionado, solo un cambio de posición, se trata claramente de una traslación, que siempre conserva la congruencia.
+**Respuesta correcta: a) Una traslación; sí son congruentes.**
+*Retroalimentación:* como solo hay un cambio de posición, se trata de una traslación, que siempre conserva la forma y el tamaño (congruencia).
 
 ---
 
@@ -908,15 +1052,23 @@ d) 1.000
 **Respuesta correcta: b) 10.**
 *Retroalimentación:* esta es la equivalencia base entre milímetros y centímetros: 1 cm = 10 mm.
 
-**Pregunta 2 (desarrollo).** Transforma 7 centímetros a milímetros.
+**Pregunta 2 (alternativas).** ¿A cuántos milímetros equivalen 7 centímetros?
+a) 0,7 mm
+b) 700 mm
+c) 17 mm
+d) 70 mm
 
-**Respuesta esperada:** 7 × 10 = **70 mm**.
-*Retroalimentación:* como 1 cm equivale a 10 mm, se multiplica por 10 para transformar de centímetros a milímetros.
+**Respuesta correcta: d) 70 mm.**
+*Retroalimentación:* como 1 cm equivale a 10 mm, se multiplica por 10 para transformar de centímetros a milímetros: 7 × 10 = 70.
 
-**Pregunta 3 (desarrollo).** Transforma 3.500 milímetros a metros.
+**Pregunta 3 (alternativas).** ¿A cuántos metros equivalen 3.500 milímetros?
+a) 35 m
+b) 3,5 m
+c) 350 m
+d) 0,35 m
 
-**Respuesta esperada:** 3.500 mm = 350 cm (dividiendo por 10) = **3,5 metros** (dividiendo por 100).
-*Retroalimentación:* como hay dos pasos de conversión (mm→cm→m), conviene hacerlos por separado: primero dividir por 10 para pasar a cm, y luego por 100 para pasar a metros. También puedes dividir directamente por 1.000, ya que 1 m = 1.000 mm.
+**Respuesta correcta: b) 3,5 m.**
+*Retroalimentación:* 3.500 mm = 350 cm (dividiendo por 10) = 3,5 m (dividiendo por 100). También puedes dividir directamente por 1.000, ya que 1 m = 1.000 mm. 350 es el valor en centímetros.
 
 **Pregunta 4 (verdadero o falso).** 1 metro equivale a 1.000 milímetros.
 
@@ -932,10 +1084,14 @@ d) Kilómetro
 **Respuesta correcta: c) Milímetro.**
 *Retroalimentación:* el grosor de una moneda es muy pequeño (menos de 1 centímetro), por lo tanto el milímetro es la unidad más precisa y adecuada para medirlo.
 
-**Pregunta 6 (problema de comparación).** Una regla mide 300 mm de largo y otra mide 28 cm. ¿Cuál regla es más larga, y por cuántos milímetros?
+**Pregunta 6 (alternativas — comparación).** Una regla mide 300 mm de largo y otra mide 28 cm. ¿Cuál regla es más larga, y por cuántos milímetros?
+a) La de 28 cm, por 272 mm
+b) Miden lo mismo
+c) La de 300 mm, por 20 mm
+d) La de 300 mm, por 272 mm
 
-**Respuesta esperada:** 28 cm = 280 mm; 300 mm > 280 mm, por lo tanto la primera regla es más larga por **20 mm**.
-*Retroalimentación:* para comparar longitudes en unidades distintas, siempre hay que transformarlas primero a la misma unidad.
+**Respuesta correcta: c) La de 300 mm, por 20 mm.**
+*Retroalimentación:* 28 cm = 280 mm; 300 mm − 280 mm = 20 mm. Para comparar longitudes en unidades distintas, hay que transformarlas primero a la misma unidad.
 
 ---
 
@@ -968,33 +1124,45 @@ Un trapecio tiene base mayor de 10 cm, base menor de 6 cm y altura de 4 cm. Su �
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el área de un triángulo con base 10 cm y altura 6 cm?
-a) 60 cm²
+a) 16 cm²
 b) 30 cm²
-c) 16 cm²
+c) 60 cm²
 d) 120 cm²
 
 **Respuesta correcta: b) 30 cm².**
-*Retroalimentación:* Área = (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm². Un error típico es olvidar dividir por 2, lo que daría 60 cm² (la opción a).
+*Retroalimentación:* Área = (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm². Un error típico es olvidar dividir por 2, lo que daría 60 cm² (la opción c).
 
 **Pregunta 2 (verdadero o falso).** El área de un paralelogramo con base 9 cm y altura 4 cm es 36 cm².
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* Área = base × altura = 9 × 4 = 36 cm², a diferencia del triángulo, en el paralelogramo NO se divide por 2.
 
-**Pregunta 3 (desarrollo).** Calcula el área de un trapecio con base mayor de 14 cm, base menor de 8 cm y altura de 5 cm.
+**Pregunta 3 (alternativas).** ¿Cuál es el área de un trapecio con base mayor de 14 cm, base menor de 8 cm y altura de 5 cm?
+a) 55 cm²
+b) 110 cm²
+c) 27 cm²
+d) 560 cm²
 
-**Respuesta esperada:** ((14+8) × 5) ÷ 2 = (22 × 5) ÷ 2 = 110 ÷ 2 = **55 cm²**.
-*Retroalimentación:* primero se suman las dos bases, luego se multiplica por la altura, y finalmente se divide por 2 (igual que en el triángulo).
+**Respuesta correcta: a) 55 cm².**
+*Retroalimentación:* ((14+8) × 5) ÷ 2 = (22 × 5) ÷ 2 = 110 ÷ 2 = 55 cm². Si olvidas dividir por 2, obtienes 110 cm².
 
-**Pregunta 4 (estimación de figura irregular).** Un terreno de forma irregular se dibuja sobre una cuadrícula donde cada cuadrito representa 1 m². Al contar, hay 18 cuadritos completos y 6 cuadritos que están aproximadamente a la mitad (medios cuadritos). ¿Cuál es una buena estimación del área del terreno?
+**Pregunta 4 (alternativas — estimación).** Un terreno irregular se dibuja sobre una cuadrícula donde cada cuadrito es 1 m². Hay 18 cuadritos completos y 6 cuadritos aproximadamente a la mitad. ¿Cuál es una buena estimación del área?
+a) 24 m²
+b) 18 m²
+c) 12 m²
+d) 21 m²
 
-**Respuesta esperada:** 18 cuadritos completos (18 m²) + 6 medios cuadritos (6 × 0,5 = 3 m²) = **21 m² aproximadamente**.
-*Retroalimentación:* al estimar áreas irregulares por conteo de cuadrícula, los cuadritos completos se cuentan como 1, y los parciales se estiman como fracciones (por ejemplo, medio cuadrito como 0,5), sumando todo al final.
+**Respuesta correcta: d) 21 m².**
+*Retroalimentación:* 18 cuadritos completos (18 m²) + 6 medios cuadritos (6 × 0,5 = 3 m²) = 21 m² aproximadamente. Contar los medios como enteros da 24 m² y no contarlos da 18 m².
 
-**Pregunta 5 (problema de aplicación).** Un techo tiene forma de triángulo, con una base de 12 metros y una altura de 4 metros. ¿Cuántos metros cuadrados de tejas se necesitan para cubrirlo?
+**Pregunta 5 (alternativas — problema de aplicación).** Un techo tiene forma de triángulo, con una base de 12 metros y una altura de 4 metros. ¿Cuántos metros cuadrados de tejas se necesitan para cubrirlo?
+a) 48 m²
+b) 24 m²
+c) 16 m²
+d) 32 m²
 
-**Respuesta esperada:** (12 × 4) ÷ 2 = 48 ÷ 2 = **24 m²**.
-*Retroalimentación:* la fórmula del área del triángulo (base × altura ÷ 2) se aplica igual sin importar el contexto: aquí representa la superficie del techo que hay que cubrir.
+**Respuesta correcta: b) 24 m².**
+*Retroalimentación:* (12 × 4) ÷ 2 = 48 ÷ 2 = 24 m². La fórmula del área del triángulo (base × altura ÷ 2) se aplica igual sin importar el contexto.
 
 **Pregunta 6 (identificar la fórmula correcta).** ¿Qué fórmula usarías para calcular el área de un paralelogramo con base b y altura h?
 a) (b × h) ÷ 2
@@ -1036,8 +1204,8 @@ Suma total = promedio × cantidad de datos = 18 × 3 = 54°C. Suma de lunes y ma
 **Pregunta 1 (alternativas).** ¿Cuál es el promedio de los siguientes datos: 8, 10, 12, 6, 9?
 a) 8
 b) 9
-c) 45
-d) 10
+c) 10
+d) 45
 
 **Respuesta correcta: b) 9.**
 *Retroalimentación:* la suma es 8+10+12+6+9=45, y se divide por la cantidad de datos (5): 45 ÷ 5 = 9.
@@ -1047,29 +1215,41 @@ d) 10
 **Respuesta correcta: Falso.**
 *Retroalimentación:* es al revés: se suman todos los datos y luego se **divide** por la cantidad de datos, no se multiplica.
 
-**Pregunta 3 (desarrollo).** Un vendedor registró estas ventas diarias durante 5 días: $12.000, $15.000, $9.000, $18.000, $11.000. Calcula el promedio de ventas diarias.
+**Pregunta 3 (alternativas).** Un vendedor registró estas ventas diarias durante 5 días: $12.000, $15.000, $9.000, $18.000, $11.000. ¿Cuál es el promedio de ventas diarias?
+a) $65.000
+b) $16.250
+c) $13.000
+d) $12.000
 
-**Respuesta esperada:** 12.000+15.000+9.000+18.000+11.000 = 65.000; 65.000 ÷ 5 = **$13.000 promedio diario**.
-*Retroalimentación:* el promedio resume en un solo número representativo el comportamiento general de las ventas durante esos 5 días, aunque ningún día individual haya sido exactamente $13.000.
+**Respuesta correcta: c) $13.000.**
+*Retroalimentación:* 12.000+15.000+9.000+18.000+11.000 = 65.000; 65.000 ÷ 5 = 13.000. El promedio resume el comportamiento general, aunque ningún día haya sido exactamente $13.000; $65.000 es la suma, no el promedio.
 
 **Pregunta 4 (interpretar en contexto).** El promedio de estatura de 4 estudiantes es 145 cm. ¿Qué significa esto?
-a) Todos los estudiantes miden exactamente 145 cm
-b) El estudiante más alto mide 145 cm
+a) Todos los estudiantes miden exactamente 145 cm, sin ninguna diferencia entre ellos
+b) El estudiante más alto mide 145 cm y los demás miden menos que él
 c) Si se sumaran las 4 estaturas y se repartieran en partes iguales, cada una sería 145 cm
-d) El estudiante más bajo mide 145 cm
+d) El estudiante más bajo mide 145 cm y los demás miden más que él
 
 **Respuesta correcta: c) Si se sumaran las 4 estaturas y se repartieran en partes iguales, cada una sería 145 cm.**
 *Retroalimentación:* el promedio es un valor representativo del conjunto de datos, pero no significa que cada dato individual sea igual al promedio; algunos estudiantes pueden medir más y otros menos que 145 cm.
 
-**Pregunta 5 (encontrar un dato desconocido).** El promedio de 3 números es 20. Si dos de ellos son 15 y 22, ¿cuál es el tercer número?
+**Pregunta 5 (alternativas — dato desconocido).** El promedio de 3 números es 20. Si dos de ellos son 15 y 22, ¿cuál es el tercer número?
+a) 23
+b) 20
+c) 37
+d) 17
 
-**Respuesta esperada:** suma total = 20 × 3 = 60; 15 + 22 = 37; tercer número = 60 − 37 = **23**.
-*Retroalimentación:* si conoces el promedio y la cantidad de datos, puedes calcular la suma total (promedio × cantidad de datos), y luego restar los datos conocidos para encontrar el dato faltante.
+**Respuesta correcta: a) 23.**
+*Retroalimentación:* suma total = 20 × 3 = 60; 15 + 22 = 37; tercer número = 60 − 37 = 23.
 
-**Pregunta 6 (problema de aplicación).** Matías anotó su tiempo en 4 carreras de 100 metros: 16 seg, 15 seg, 17 seg y 16 seg. ¿Cuál es su tiempo promedio?
+**Pregunta 6 (alternativas — problema de aplicación).** Matías anotó su tiempo en 4 carreras de 100 metros: 16 seg, 15 seg, 17 seg y 16 seg. ¿Cuál es su tiempo promedio?
+a) 64 segundos
+b) 15 segundos
+c) 17 segundos
+d) 16 segundos
 
-**Respuesta esperada:** 16+15+17+16 = 64; 64 ÷ 4 = **16 segundos promedio**.
-*Retroalimentación:* el promedio ayuda a resumir el rendimiento general de Matías en las 4 carreras en un solo número representativo.
+**Respuesta correcta: d) 16 segundos.**
+*Retroalimentación:* 16+15+17+16 = 64; 64 ÷ 4 = 16 segundos promedio.
 
 ---
 
@@ -1109,15 +1289,22 @@ d) Igual de posible que sacar una roja
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* como no hay ninguna bolita azul en la bolsa, no existe ninguna posibilidad de sacarla, por lo tanto ese evento es imposible.
 
-**Pregunta 3 (desarrollo).** Al lanzar un dado común de 6 caras (numerado 1 al 6), describe con una palabra (seguro, posible, poco posible o imposible) la posibilidad de: a) obtener un número menor que 7, b) obtener un 8.
+**Pregunta 3 (alternativas).** Al lanzar un dado común de 6 caras (1 al 6), ¿cómo se describe la posibilidad de: a) obtener un número menor que 7, b) obtener un 8?
+a) a) posible; b) poco posible
+b) a) seguro; b) imposible
+c) a) imposible; b) seguro
+d) a) poco posible; b) posible
 
-**Respuesta esperada:** a) **seguro** (todos los números del dado son menores que 7); b) **imposible** (el dado no tiene la cara con el número 8).
-*Retroalimentación:* recuerda que "seguro" significa que el evento ocurrirá siempre (probabilidad 100%), e "imposible" significa que nunca puede ocurrir (probabilidad 0%).
+**Respuesta correcta: b) a) seguro; b) imposible.**
+*Retroalimentación:* "seguro" significa que el evento ocurrirá siempre (todos los números del dado son menores que 7), e "imposible" que nunca puede ocurrir (el dado no tiene un 8).
 
-**Pregunta 4 (comparar posibilidades).** Una ruleta tiene 10 espacios iguales: 7 son rojos y 3 son azules. ¿Qué color es más probable que salga al girar la ruleta?
+**Pregunta 4 (alternativas — comparar posibilidades).** Una ruleta tiene 10 espacios iguales: 7 son rojos y 3 son azules. ¿Qué color es más probable que salga al girarla?
+a) Rojo
+b) Azul
+c) Los dos tienen la misma posibilidad
 
-**Respuesta esperada:** el color **rojo**, porque hay más espacios rojos (7) que azules (3), por lo tanto es más posible que caiga en rojo.
-*Retroalimentación:* mientras más espacios (o elementos) tenga un color o resultado, mayor es la posibilidad de que ese resultado ocurra al azar.
+**Respuesta correcta: a) Rojo.**
+*Retroalimentación:* mientras más espacios tenga un color, mayor es la posibilidad de que salga: 7 rojos contra 3 azules.
 
 **Pregunta 5 (alternativas).** Si lanzas una moneda normal (con cara y sello), ¿cómo describirías la posibilidad de obtener sello?
 a) Seguro
@@ -1128,10 +1315,14 @@ d) Imposible
 **Respuesta correcta: b) Posible.**
 *Retroalimentación:* como la moneda tiene dos resultados posibles (cara o sello) igualmente probables, obtener sello es un evento posible (de hecho, tan posible como obtener cara).
 
-**Pregunta 6 (problema de aplicación).** En una caja hay 9 pelotas: 8 son de básquetbol y 1 es de fútbol. Sin mirar, se saca una pelota al azar. Describe la posibilidad de que sea de fútbol, y explica tu respuesta.
+**Pregunta 6 (alternativas — problema de aplicación).** En una caja hay 9 pelotas: 8 de básquetbol y 1 de fútbol. Sin mirar, se saca una al azar. ¿Cómo se describe la posibilidad de que sea de fútbol?
+a) Imposible, porque hay muy pocas
+b) Seguro, porque hay una pelota de fútbol
+c) Poco posible, porque solo hay 1 de fútbol entre 9
+d) Igual de posible que sacar una de básquetbol
 
-**Respuesta esperada:** es **poco posible**, porque solo hay 1 pelota de fútbol entre las 9 totales, así que hay muchas más posibilidades de sacar una pelota de básquetbol.
-*Retroalimentación:* aunque sacar la pelota de fútbol sí es posible (no es imposible, porque existe al menos una), es mucho menos probable que sacar una de básquetbol, dada la gran diferencia en la cantidad de cada tipo.
+**Respuesta correcta: c) Poco posible, porque solo hay 1 de fútbol entre 9.**
+*Retroalimentación:* sacar la pelota de fútbol no es imposible (existe una), pero es mucho menos probable que sacar una de básquetbol, dada la diferencia en la cantidad de cada tipo.
 
 ---
 
@@ -1169,9 +1360,9 @@ Si un gráfico de barras muestra que en enero se vendieron 40 helados, en febrer
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (interpretar tabla).** Según la tabla del Ejemplo 1 (Ana: 5, Beto: 3, Carla: 7, Diego: 4 libros), ¿cuántos libros leyeron entre todos?
-a) 18
+a) 20
 b) 19
-c) 20
+c) 18
 d) 17
 
 **Respuesta correcta: b) 19.**
@@ -1182,10 +1373,14 @@ d) 17
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* los gráficos de línea conectan los puntos de datos en orden (por ejemplo, por fecha u hora), lo que permite visualizar fácilmente tendencias: si algo aumenta, disminuye o se mantiene estable.
 
-**Pregunta 3 (desarrollo — gráfico de línea).** Usando los datos de temperatura del Ejemplo 2 (8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C), ¿en qué intervalo de horas bajó más la temperatura?
+**Pregunta 3 (alternativas — gráfico de línea).** Con los datos de temperatura del Ejemplo 2 (8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C), ¿en qué intervalo bajó la temperatura?
+a) Entre las 14:00 y las 16:00, bajó 4°C
+b) Entre las 8:00 y las 10:00, bajó 4°C
+c) Entre las 12:00 y las 14:00, bajó 2°C
+d) La temperatura nunca bajó
 
-**Respuesta esperada:** entre las **14:00 y las 16:00**, la temperatura bajó de 22°C a 18°C, es decir, bajó **4°C**, que es el único descenso registrado en los datos.
-*Retroalimentación:* para identificar bajadas en un gráfico de línea, hay que comparar cada punto con el siguiente y ver en qué tramo el valor disminuye en vez de aumentar.
+**Respuesta correcta: a) Entre las 14:00 y las 16:00, bajó 4°C.**
+*Retroalimentación:* para identificar bajadas en un gráfico de línea, hay que comparar cada punto con el siguiente: solo entre las 14:00 y las 16:00 el valor disminuye (de 22°C a 18°C).
 
 **Pregunta 4 (alternativas — gráfico de barras).** Un gráfico de barras muestra las ventas de una tienda en 4 días: lunes 20, martes 35, miércoles 15, jueves 30 (en unidades vendidas). ¿Qué día tuvo la menor venta?
 a) Lunes
@@ -1196,19 +1391,28 @@ d) Jueves
 **Respuesta correcta: c) Miércoles.**
 *Retroalimentación:* comparando las 4 cantidades (20, 35, 15, 30), el valor más bajo es 15, correspondiente al miércoles.
 
-**Pregunta 5 (completar tabla a partir de datos).** Se sabe que un club deportivo tuvo estas inscripciones nuevas cada mes: marzo 12, abril 18, mayo 9. Completa la tabla y responde: ¿cuántas inscripciones nuevas hubo en total en el trimestre?
+**Pregunta 5 (alternativas — tabla).** Un club deportivo tuvo estas inscripciones nuevas: marzo 12, abril 18, mayo 9. ¿Cuántas inscripciones nuevas hubo en total en el trimestre?
 
 | Mes | Marzo | Abril | Mayo |
 |---|---|---|---|
 | Inscripciones | 12 | 18 | 9 |
 
-**Respuesta esperada:** 12 + 18 + 9 = **39 inscripciones en total**.
-*Retroalimentación:* organizar los datos en una tabla facilita sumarlos o compararlos rápidamente, columna por columna.
+a) 30
+b) 18
+c) 27
+d) 39
 
-**Pregunta 6 (comparar información — gráfico de línea).** Un gráfico de línea muestra el peso de un cachorro medido cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6 kg. ¿En qué tramo de meses el cachorro aumentó más peso respecto al mes anterior?
+**Respuesta correcta: d) 39.**
+*Retroalimentación:* 12 + 18 + 9 = 39. Organizar los datos en una tabla facilita sumarlos o compararlos rápidamente.
 
-**Respuesta esperada:** entre el **mes 1 y el mes 2**, aumentó 1,5 kg (de 2 a 3,5 kg); entre el mes 2 y el 3, aumentó 1,5 kg también (de 3,5 a 5 kg); entre el mes 3 y el 4, aumentó 1 kg (de 5 a 6 kg). Por lo tanto, el mayor aumento (1,5 kg) ocurrió tanto entre el mes 1-2 como el 2-3, siendo estos los tramos de mayor crecimiento.
-*Retroalimentación:* para comparar aumentos en un gráfico de línea, se calcula la diferencia entre cada punto y el siguiente, y se identifica cuál diferencia es la mayor.
+**Pregunta 6 (alternativas — gráfico de línea).** Un gráfico de línea muestra el peso de un cachorro cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6 kg. ¿En qué tramos aumentó más peso respecto al mes anterior?
+a) Solo entre el mes 3 y el 4, porque ahí subió de 5 a 6 kg (1 kg)
+b) Entre el mes 1 y el 2, y entre el mes 2 y el 3 (1,5 kg en cada uno)
+c) Solo entre el mes 1 y el 2, porque ahí llegó a 3,5 kg (3,5 kg)
+d) Entre el mes 1 y el 4, porque al final pesaba 6 kg (6 kg)
+
+**Respuesta correcta: b) Entre el mes 1 y el 2, y entre el mes 2 y el 3 (1,5 kg en cada uno).**
+*Retroalimentación:* se calcula la diferencia entre cada punto y el siguiente: 1,5 kg, 1,5 kg y 1 kg. El mayor aumento (1,5 kg) ocurrió en dos tramos empatados.
 
 ---
 

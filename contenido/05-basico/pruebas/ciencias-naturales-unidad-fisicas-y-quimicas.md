@@ -23,26 +23,47 @@ electricidad, y su relación con la manipulación segura de artefactos eléctric
 
 **1.** ¿Cuál de los siguientes materiales es un buen conductor de electricidad?
 a) Goma
-b) Cobre
+b) Madera
 c) Plástico
-d) Madera
+d) Cobre
 
 **2.** *(Verdadero o falso)* La goma y el plástico son buenos conductores de
 electricidad.
 
-**3.** Clasifica estos materiales en conductores o aisladores: aluminio, goma, cobre,
-plástico.
+**3.** ¿Qué materiales son **conductores** de la electricidad?
 
-**4.** Explica por qué los cables eléctricos combinan un material conductor por
-dentro y un material aislador por fuera.
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Aluminio
+b) Goma
+c) Cobre
+d) Plástico
+
+**4.** ¿Por qué los cables eléctricos combinan un material conductor por
+dentro y un material aislador por fuera?
+
+a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
+b) El aislador (plástico) permite que circule la electricidad y el conductor (cobre) evita que la corriente llegue a las personas
+c) Por razones de color y diseño, para que los cables se vean ordenados y bonitos en la casa
+d) Para que el cable pese menos y sea más fácil de transportar e instalar en las paredes, aunque cualquiera de los dos conduce igual
 
 **5.** Si construyes un circuito eléctrico simple con una pila y una ampolleta, y
 pruebas cerrar el circuito usando una moneda de metal y luego una goma de borrar,
-¿en qué caso predices que la ampolleta encenderá? Justifica tu respuesta.
+¿en qué caso encenderá la ampolleta?
 
-**6.** Explica por qué es peligroso tocar un cable eléctrico pelado (sin su
-recubrimiento de plástico) y qué norma de seguridad deberías seguir frente a
-artefactos tecnológicos dañados.
+a) Con la goma de borrar, porque es conductora
+b) En los dos casos
+c) En ninguno de los dos casos
+d) Con la moneda de metal, porque es conductora
+
+**6.** ¿Por qué es peligroso tocar un cable eléctrico pelado (sin su
+recubrimiento de plástico) y qué norma de seguridad se debe seguir frente a
+artefactos tecnológicos dañados?
+
+a) Porque el plástico que queda alrededor quema al tocarlo; hay que tocarlo con la mano mojada para enfriarlo y así evitar quemarse
+b) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura
+c) No es peligroso si el cable es delgado, porque por un cable delgado pasa muy poca corriente; basta con tocarlo rápido y con cuidado
+d) Porque se puede ensuciar con polvo y fallar; hay que limpiarlo con agua y un paño húmedo antes de volver a enchufar el artefacto
 
 **7.** ¿Cuál de los siguientes materiales es un buen aislador de electricidad?
 a) Aluminio
@@ -52,51 +73,54 @@ d) Hierro
 
 **8.** *(Verdadero o falso)* El aluminio es un material aislador de electricidad.
 
-**9.** Clasifica estos materiales en conductores o aisladores: vidrio, hierro,
-madera, oro.
+**9.** ¿Qué materiales son **conductores** de la electricidad?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Vidrio
+b) Hierro
+c) Madera
+d) Oro
 
 **10.** ¿Por qué los mangos de las herramientas eléctricas están hechos de plástico
 o goma?
-a) Para que sean más livianos
+a) Para que sean más livianos y fáciles de usar
 b) Para aislar y proteger a la persona de descargas
-c) Para que sean más baratos
-d) Para que no se oxiden
+c) Para que sean más baratos de fabricar y vender
+d) Para que no se oxiden con la humedad del ambiente
 
 **11.** *(Verdadero o falso)* Es seguro usar un aparato eléctrico con las manos
 mojadas, porque el agua no conduce electricidad.
 
 **12.** En un circuito simple con pila y ampolleta, se prueba cerrar el circuito con
 una llave de metal y luego con un trozo de lana. ¿Cuál permitirá que la ampolleta
-encienda? Justifica tu respuesta.
+encienda?
+
+a) El trozo de lana, porque es conductor
+b) Los dos
+c) La llave de metal, porque es conductora
+d) Ninguno de los dos
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) Cobre.** Uno de los metales más usados como conductor eléctrico, por eso se
+1. **d) Cobre.** Uno de los metales más usados como conductor eléctrico, por eso se
    utiliza en el interior de los cables.
 2. **Falso.** La goma y el plástico son materiales aisladores: impiden o dificultan
    mucho el paso de la corriente eléctrica.
-3. **Conductores:** aluminio, cobre. **Aisladores:** goma, plástico.
-4. El material conductor (cobre) en el interior permite que la electricidad circule;
-   el material aislador (plástico) en el exterior evita que la corriente entre en
-   contacto con las personas, previniendo descargas eléctricas.
-5. Con la moneda de metal, porque es un material conductor que permite el paso de la
-   corriente; con la goma de borrar no encenderá, porque es un material aislador.
-6. Sin el recubrimiento aislador, el material conductor (cobre) queda expuesto y la
-   corriente puede pasar directamente a la persona que lo toque, provocando una
-   descarga eléctrica; frente a un artefacto dañado, no se debe manipular y hay que
-   avisar a un adulto o desconectarlo de forma segura.
+3. a y c — Conductores: aluminio y cobre. Aisladores: goma y plástico.
+4. a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
+5. d) Con la moneda de metal, porque es conductora. La goma de borrar es aisladora y no permite el paso de la corriente.
+6. b) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura
 7. **c) Goma.** Es un material aislador: impide el paso de la corriente eléctrica,
    por eso protege a las personas de descargas.
 8. **Falso.** El aluminio es un buen conductor de electricidad, no un aislador.
-9. **Conductores:** hierro, oro. **Aisladores:** vidrio, madera.
+9. b y d — Conductores: hierro y oro (metales). Aisladores: vidrio y madera.
 10. **b) Para aislar y proteger a la persona de descargas.** El plástico y la goma
     son aisladores, por eso se usan en las zonas donde las personas tocan la
     herramienta.
 11. **Falso.** El agua (especialmente si tiene sales o impurezas) puede conducir
     electricidad; usar aparatos eléctricos con las manos mojadas aumenta el riesgo de
     descarga.
-12. La llave de metal, porque es un material conductor que permite el paso de la
-    corriente; la lana es un material aislador y no permitirá que la ampolleta
-    encienda.
+12. c) La llave de metal, porque es conductora. La lana es un material aislador y no permitirá que la ampolleta encienda.

@@ -13,7 +13,7 @@ from datetime import date, datetime, timedelta
 from app.application.progreso.consultas import ObtenerFaltantes, ObtenerHistorialYNotas
 from app.domain.contenido.ports import RepositorioContenido
 from app.domain.evaluaciones.ports import RepositorioIntentos, RepositorioPreguntas
-from app.domain.evaluaciones.value_objects import TIPOS_AUTOCORREGIBLES
+from app.domain.evaluaciones.value_objects import TIPOS_AUTOCORREGIBLES, es_respuesta_correcta
 from app.domain.plan_estudio.ports import RepositorioPlanEstudio
 from app.domain.progreso.ports import RepositorioProgreso
 
@@ -216,7 +216,7 @@ class ObtenerMapaDeCalorPorEje:
 
             clave = (objetivo.asignatura_id, objetivo.eje_tematico)
             correctas, total = acumulado.get(clave, [0, 0])
-            es_correcta = respuesta_alumno.strip().lower() == pregunta.respuesta_correcta.strip().lower()
+            es_correcta = es_respuesta_correcta(pregunta.tipo, respuesta_alumno, pregunta.respuesta_correcta)
             acumulado[clave] = [correctas + (1 if es_correcta else 0), total + 1]
 
         asignaturas_por_id: dict[int, str] = {}

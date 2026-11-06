@@ -119,11 +119,11 @@ las especies están tan bien adaptadas a su ambiente.
 
 1. *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a un ejemplo de
    estructuras homólogas?
-   a) Las alas de una mosca y las alas de un ave
-   b) El brazo humano y el ala de un murciélago
+   a) El brazo humano y el ala de un murciélago
+   b) Las alas de una mosca y las alas de un ave
    c) La aleta de un tiburón y la aleta de un delfín
    d) El caparazón de una tortuga y el de un escarabajo
-   **Respuesta correcta:** b) El brazo humano y el ala de un murciélago.
+   **Respuesta correcta:** a) El brazo humano y el ala de un murciélago.
    **Retroalimentación:** Ambas estructuras comparten el mismo patrón óseo de origen
    evolutivo común, aunque cumplan funciones distintas; eso las hace homólogas, a
    diferencia de estructuras que solo se parecen por cumplir una función similar
@@ -137,66 +137,45 @@ las especies están tan bien adaptadas a su ambiente.
    propósito: la variación heredable ya existe en la población de forma azarosa, y el
    ambiente selecciona qué variaciones favorecen la supervivencia y reproducción.
 
-3. *(Clasificar)* Clasifica cada fuente de evidencia evolutiva según lo que permite
-   comparar principalmente: registro fósil, estructuras homólogas, embriología,
-   secuencias de ADN.
-   **Respuesta correcta:** Registro fósil: formas de vida en distintas épocas
-   geológicas. Estructuras homólogas: patrones anatómicos compartidos por un origen
-   común. Embriología: semejanzas en etapas tempranas del desarrollo. Secuencias de
-   ADN: grado de parentesco genético entre especies.
-   **Retroalimentación:** La solidez de la teoría de la evolución se apoya en que
-   distintas líneas de evidencia, independientes entre sí, apuntan a la misma
-   conclusión.
+3. *(Alternativas — Clasificar)* ¿Qué opción asocia correctamente cada fuente de evidencia evolutiva con lo que permite comparar?
+   a) Registro fósil: formas de vida en distintas épocas. Estructuras homólogas: patrones anatómicos por origen común. Embriología: semejanzas en etapas tempranas del desarrollo. ADN: grado de parentesco genético
+   b) Registro fósil: grado de parentesco genético entre especies. Estructuras homólogas: semejanzas en etapas tempranas del desarrollo. Embriología: formas de vida en distintas épocas. ADN: patrones anatómicos
+   c) Todas las fuentes permiten comparar exactamente lo mismo
+   d) Registro fósil: secuencias de ADN de especies extintas. Estructuras homólogas: fósiles de distintas épocas. Embriología: rocas sedimentarias. ADN: clima antiguo del planeta
+   **Respuesta correcta:** a) Registro fósil: formas de vida en distintas épocas. Estructuras homólogas: patrones anatómicos por origen común. Embriología: semejanzas en etapas tempranas del desarrollo. ADN: grado de parentesco genético.
+   **Retroalimentación:** La solidez de la teoría de la evolución se apoya en que distintas líneas de evidencia, independientes entre sí, apuntan a la misma conclusión.
 
-4. *(Desarrollo breve)* Explica, en tus palabras, los cuatro postulados de la teoría
-   de la evolución por selección natural: sobreproducción, variación, adaptación y
-   selección.
-   **Respuesta esperada:** Sobreproducción: los organismos generan más descendencia de
-   la que el ambiente puede sostener. Variación: los individuos de una población
-   presentan diferencias heredables. Adaptación: algunas variaciones favorecen la
-   supervivencia y reproducción en un ambiente dado. Selección: con el tiempo, las
-   variaciones favorables se vuelven más frecuentes en la población.
-   **Retroalimentación:** Estos cuatro postulados, en conjunto, explican cómo el
-   ambiente puede modificar la composición genética de una población a lo largo de las
-   generaciones, sin necesidad de un mecanismo dirigido.
+4. *(Alternativas)* ¿Qué opción describe correctamente los postulados de la selección natural?
+   a) Sobreproducción: los individuos cambian a voluntad. Variación: todos son idénticos. Adaptación: el ambiente no influye. Selección: ocurre al azar sin relación con el ambiente
+   b) Los organismos adquieren rasgos por el uso o desuso de sus órganos durante su vida y los heredan directamente a su descendencia, que nace adaptada al ambiente sin necesidad de selección
+   c) Las especies no cambian con el tiempo: cada una fue creada con los rasgos que tiene hoy, y la variación entre individuos no se hereda ni influye en su supervivencia o reproducción
+   d) Sobreproducción: más descendencia de la que el ambiente sostiene. Variación: diferencias heredables. Adaptación: algunas variaciones favorecen sobrevivir y reproducirse. Selección: esas variaciones se vuelven más frecuentes
+   **Respuesta correcta:** d) Sobreproducción: más descendencia de la que el ambiente sostiene. Variación: diferencias heredables. Adaptación: algunas variaciones favorecen sobrevivir y reproducirse. Selección: esas variaciones se vuelven más frecuentes.
+   **Retroalimentación:** En conjunto, estos postulados explican cómo el ambiente modifica la composición genética de una población a lo largo de generaciones, sin un mecanismo dirigido.
 
-5. *(Análisis)* Explica por qué el descubrimiento de que el ADN humano comparte una
-   gran proporción de secuencias con el de otros primates es considerado evidencia de
-   evolución.
-   **Respuesta esperada:** Mientras más similares son las secuencias de ADN entre dos
-   especies, más reciente es su antepasado común, según el modelo evolutivo; el alto
-   grado de similitud genética entre humanos y otros primates sugiere un parentesco
-   evolutivo cercano entre ambos grupos.
-   **Retroalimentación:** La comparación de secuencias de ADN es una de las evidencias
-   más directas y cuantificables del parentesco evolutivo entre especies.
+5. *(Alternativas — Análisis)* ¿Por qué la gran proporción de secuencias de ADN compartidas entre humanos y otros primates se considera evidencia de evolución?
+   a) Porque demuestra que los humanos descienden directamente de los chimpancés actuales, que no han cambiado desde entonces
+   b) Porque mientras más similares son las secuencias, más reciente es el antepasado común, lo que indica un parentesco evolutivo cercano
+   c) Porque el ADN de todas las especies es idéntico, y las pequeñas diferencias se deben solo a errores de los laboratorios
+   d) Porque el ADN no tiene relación con el parentesco
+   **Respuesta correcta:** b) Porque mientras más similares son las secuencias, más reciente es el antepasado común, lo que indica un parentesco evolutivo cercano.
+   **Retroalimentación:** Humanos y otros primates comparten antepasados comunes; no se trata de que una especie actual provenga de otra especie actual.
 
-6. *(Análisis de aportes científicos)* Investigaciones de Darwin, durante su viaje en
-   el Beagle, y de Wallace, en el sudeste asiático, llevaron a ambos naturalistas a
-   proponer, de forma independiente, ideas muy similares sobre la selección natural.
-   ¿Qué tienen en común sus observaciones que pudo llevarlos a conclusiones
-   parecidas?
-   **Respuesta esperada:** Ambos observaron una gran diversidad de especies
-   estrechamente relacionadas mostrando variaciones adaptadas a ambientes distintos
-   (por ejemplo, los pinzones de las islas Galápagos observados por Darwin), lo que
-   los llevó a plantear que la variación y el ambiente podían explicar el origen de
-   nuevas especies.
-   **Retroalimentación:** Que dos científicos, trabajando de forma independiente,
-   lleguen a conclusiones similares a partir de evidencia empírica es un elemento que
-   fortalece la credibilidad de una teoría científica.
+6. *(Alternativas — Aportes científicos)* Darwin (viaje del Beagle) y Wallace (sudeste asiático) propusieron, de forma independiente, ideas muy similares sobre la selección natural. ¿Qué tuvieron en común sus observaciones?
+   a) Observaron gran diversidad de especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones de Galápagos
+   b) Ambos estudiaron solo fósiles de dinosaurios, y concluyeron que las especies se extinguen sin dejar descendientes en Europa y en África
+   c) Ambos trabajaron juntos en el mismo laboratorio de Londres, comparando muestras enviadas por otros naturalistas
+   d) Ambos observaron que las especies nunca cambian, y que cada una fue creada adaptada a su ambiente desde el inicio
+   **Respuesta correcta:** a) Observaron gran diversidad de especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones de Galápagos.
+   **Retroalimentación:** Que dos científicos lleguen de forma independiente a conclusiones similares a partir de evidencia fortalece la credibilidad de una teoría.
 
-7. *(Aplicación/caso)* Una población de bacterias expuesta repetidamente a un
-   antibiótico termina, tras varias generaciones, compuesta casi en su totalidad por
-   bacterias resistentes a ese antibiótico. Explica este fenómeno usando los cuatro
-   postulados de la selección natural.
-   **Respuesta esperada:** En la población original existía variación (algunas
-   bacterias ya eran resistentes al antibiótico por azar); al aplicar el antibiótico,
-   las bacterias no resistentes murieron y las resistentes sobrevivieron y se
-   reprodujeron (adaptación y selección); dado que las bacterias se reproducen en gran
-   cantidad (sobreproducción), la proporción de bacterias resistentes aumentó
-   rápidamente en la población.
-   **Retroalimentación:** La resistencia a antibióticos es uno de los ejemplos de
-   selección natural observable en tiempos cortos, y es una de las razones por las que
-   se recomienda no interrumpir un tratamiento antibiótico antes de tiempo.
+7. *(Alternativas — Aplicación)* Una población de bacterias expuesta repetidamente a un antibiótico termina compuesta casi totalmente por bacterias resistentes. ¿Qué explicación es correcta?
+   a) Ya existían algunas bacterias resistentes por variación; el antibiótico eliminó a las no resistentes y las resistentes se reprodujeron masivamente
+   b) El antibiótico enseñó a las bacterias a resistir: con cada dosis, las bacterias aprendieron a defenderse y transmitieron ese aprendizaje a sus descendientes
+   c) Todas las bacterias decidieron volverse resistentes después de cada dosis, porque necesitaban sobrevivir, y con el tiempo lo lograron
+   d) El antibiótico aumentó la cantidad de bacterias no resistentes, que se reprodujeron más rápido que las resistentes durante el tratamiento
+   **Respuesta correcta:** a) Ya existían algunas bacterias resistentes por variación; el antibiótico eliminó a las no resistentes y las resistentes se reprodujeron masivamente.
+   **Retroalimentación:** La resistencia a antibióticos es selección natural observable en tiempos cortos, y por eso no se debe interrumpir un tratamiento antes de tiempo.
 
 ---
 
@@ -277,63 +256,45 @@ funcionan como redes de relaciones interdependientes.
    **Retroalimentación:** En el mutualismo, ambas especies se benefician de la
    interacción, como ocurre entre el picaflor y las flores que poliniza.
 
-3. *(Clasificar)* Clasifica cada interacción según su tipo (depredación, competencia,
-   comensalismo, mutualismo o parasitismo): un piojo que se alimenta de la sangre de
-   un ave; dos especies de aves que se disputan el mismo nido; un cóndor que caza una
-   liebre; bacterias en el intestino humano que ayudan a digerir alimentos a cambio de
-   nutrientes y protección.
-   **Respuesta correcta:** Parasitismo: piojo y ave. Competencia: aves que se disputan
-   el nido. Depredación: cóndor y liebre. Mutualismo: bacterias intestinales y ser
-   humano.
-   **Retroalimentación:** Para distinguir estas interacciones, conviene preguntarse si
-   cada especie involucrada se beneficia, se perjudica o no se ve afectada.
+3. *(Alternativas — Clasificar)* ¿Qué clasificación de interacciones es correcta: piojo que se alimenta de la sangre de un ave; dos aves que se disputan un nido; cóndor que caza una liebre; bacterias intestinales que ayudan a digerir a cambio de nutrientes?
+   a) Mutualismo, depredación, competencia y parasitismo
+   b) Comensalismo, mutualismo, parasitismo y competencia
+   c) Depredación, comensalismo, mutualismo y parasitismo
+   d) Parasitismo, competencia, depredación y mutualismo
+   **Respuesta correcta:** d) Parasitismo, competencia, depredación y mutualismo.
+   **Retroalimentación:** Conviene preguntarse si cada especie se beneficia, se perjudica o no se ve afectada.
 
-4. *(Desarrollo breve)* Explica la diferencia entre competencia intraespecífica e
-   interespecífica, dando un ejemplo de cada una.
-   **Respuesta esperada:** La competencia intraespecífica ocurre entre individuos de la
-   misma especie (por ejemplo, dos guanacos machos compitiendo por territorio o
-   pareja); la competencia interespecífica ocurre entre individuos de especies
-   distintas que utilizan el mismo recurso (por ejemplo, dos especies de aves que se
-   alimentan del mismo tipo de semillas en un mismo lugar).
-   **Retroalimentación:** Ambos tipos de competencia surgen cuando un recurso es
-   limitado, pero se diferencian según si involucran a la misma especie o a especies
-   distintas.
+4. *(Alternativas)* ¿Qué diferencia hay entre competencia intraespecífica e interespecífica?
+   a) La intraespecífica ocurre entre especies distintas que usan el mismo recurso (dos aves que comen las mismas semillas); la interespecífica, entre individuos de la misma especie (dos guanacos machos)
+   b) La intraespecífica ocurre entre individuos de la misma especie (dos guanacos machos); la interespecífica, entre especies distintas que usan el mismo recurso (dos aves que comen las mismas semillas)
+   c) Ambas son formas de mutualismo: los individuos que comparten un recurso se benefician mutuamente, sean de la misma especie o de especies distintas
+   d) Solo existe competencia entre depredadores
+   **Respuesta correcta:** b) La intraespecífica ocurre entre individuos de la misma especie (dos guanacos machos); la interespecífica, entre especies distintas que usan el mismo recurso (dos aves que comen las mismas semillas).
+   **Retroalimentación:** Ambos tipos surgen cuando un recurso es limitado.
 
-5. *(Análisis)* Explica, usando los niveles de organización, por qué la desaparición
-   de una sola especie clave (por ejemplo, un polinizador) puede afectar a toda una
-   comunidad y no solo a esa población.
-   **Respuesta esperada:** Como las especies de una comunidad están interconectadas
-   mediante interacciones biológicas (como el mutualismo entre polinizadores y
-   plantas), la desaparición de la población de un polinizador puede reducir la
-   reproducción de las plantas que dependía de él, afectando la disponibilidad de
-   alimento o refugio para otras poblaciones de la comunidad, e incluso alterando el
-   ecosistema completo.
-   **Retroalimentación:** Analizar el efecto en cadena de la pérdida de una especie
-   ayuda a comprender que los niveles de organización biológica no son independientes
-   entre sí.
+5. *(Alternativas — Análisis)* ¿Por qué la desaparición de una especie clave, como un polinizador, puede afectar a toda la comunidad?
+   a) Porque solo afecta a la población del polinizador, que pierde su alimento, sin consecuencias para las plantas ni para otras especies
+   b) Porque las comunidades no tienen interacciones: cada población vive de forma independiente, y la pérdida de una especie no altera a las demás
+   c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones
+   d) Porque las plantas no necesitan polinizadores para reproducirse, así que la desaparición de una especie clave no tiene efectos en la comunidad
+   **Respuesta correcta:** c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones.
+   **Retroalimentación:** Los niveles de organización biológica no son independientes entre sí.
 
-6. *(Análisis de evidencia)* En un estudio realizado en un bosque nativo chileno, se
-   observó que al eliminar experimentalmente un depredador tope de la zona, la
-   población de su presa principal aumentó rápidamente, y la vegetación de la que se
-   alimentaba esa presa disminuyó de forma notoria. Explica esta cadena de efectos.
-   **Respuesta esperada:** Al eliminar al depredador, disminuye la presión de
-   depredación sobre la presa, por lo que su población crece sin control; al haber más
-   individuos de esa presa, aumenta el consumo de la vegetación de la que se alimenta,
-   lo que reduce su disponibilidad en el ecosistema.
-   **Retroalimentación:** Este tipo de efecto en cadena, donde la pérdida de un
-   depredador altera indirectamente a otros niveles del ecosistema, se conoce como
-   cascada trófica.
+6. *(Alternativas — Análisis de evidencia)* Al eliminar un depredador tope en un bosque nativo, la población de su presa aumentó y la vegetación de la que se alimentaba disminuyó. ¿Cómo se llama este efecto en cadena?
+   a) Cascada trófica
+   b) Mutualismo
+   c) Bioacumulación
+   d) Sucesión primaria
+   **Respuesta correcta:** a) Cascada trófica.
+   **Retroalimentación:** Sin depredación, la presa crece sin control y consume más vegetación: la pérdida de un depredador altera indirectamente otros niveles.
 
-7. *(Aplicación/investigación)* Elige un ecosistema chileno que conozcas (por ejemplo,
-   la costa, el altiplano, el bosque valdiviano o la estepa patagónica) y describe al
-   menos dos interacciones biológicas distintas que podrían observarse entre sus
-   especies, identificando el tipo de interacción.
-   **Respuesta esperada:** Respuesta abierta; por ejemplo, en la costa chilena: la
-   gaviota que caza pequeños peces (depredación) y las lapas que compiten por espacio
-   en las rocas intermareales (competencia).
-   **Retroalimentación:** Reconocer interacciones biológicas en ecosistemas locales
-   ayuda a comprender la biodiversidad chilena desde la observación directa del
-   entorno.
+7. *(Varias correctas — Aplicación)* En la costa chilena, ¿qué parejas de ejemplo e interacción son correctas? Marca **todas** las correctas.
+   a) Gaviota que caza pequeños peces: depredación
+   b) Lapas que compiten por espacio en las rocas: competencia
+   c) Gaviota que caza peces: mutualismo
+   d) Lapas que compiten por espacio: comensalismo
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Reconocer interacciones en ecosistemas locales ayuda a comprender la biodiversidad chilena.
 
 ---
 
@@ -425,65 +386,45 @@ afectar gravemente a los depredadores tope, incluido el ser humano.
    transfiere al siguiente; el resto se disipa principalmente como calor, lo que
    explica la forma piramidal de las pirámides tróficas.
 
-3. *(Clasificar)* Clasifica cada ciclo (carbono, nitrógeno, agua o fósforo) según la
-   siguiente característica distintiva: "no presenta una fase gaseosa relevante y
-   circula principalmente entre rocas, suelo, agua y seres vivos"; "depende
-   fuertemente de bacterias fijadoras para ser aprovechado por las plantas"; "incluye
-   procesos como evaporación, condensación y transpiración".
-   **Respuesta correcta:** Fósforo: sin fase gaseosa relevante. Nitrógeno: depende de
-   bacterias fijadoras. Agua: evaporación, condensación y transpiración.
-   **Retroalimentación:** Cada ciclo biogeoquímico tiene características propias
-   según los reservorios y procesos por los que circula ese elemento o compuesto.
+3. *(Alternativas — Clasificar)* ¿Qué ciclo corresponde a cada característica: (1) sin fase gaseosa relevante, circula entre rocas, suelo, agua y seres vivos; (2) depende de bacterias fijadoras; (3) incluye evaporación, condensación y transpiración?
+   a) 1: nitrógeno; 2: fósforo; 3: carbono
+   b) 1: carbono; 2: agua; 3: nitrógeno
+   c) 1: agua; 2: carbono; 3: fósforo
+   d) 1: fósforo; 2: nitrógeno; 3: agua
+   **Respuesta correcta:** d) 1: fósforo; 2: nitrógeno; 3: agua.
+   **Retroalimentación:** Cada ciclo biogeoquímico tiene características propias según sus reservorios y procesos.
 
-4. *(Desarrollo breve)* Explica por qué la energía no se recicla en un ecosistema de
-   la misma forma en que se reciclan los nutrientes en los ciclos biogeoquímicos.
-   **Respuesta esperada:** La materia (nutrientes como el carbono, nitrógeno, agua y
-   fósforo) circula de forma cíclica entre los seres vivos y el ambiente y puede ser
-   reutilizada indefinidamente; en cambio, la energía fluye en una sola dirección: entra
-   al ecosistema (por ejemplo, desde el Sol) y se va disipando como calor en cada
-   nivel trófico debido a la respiración celular, por lo que no puede reciclarse ni
-   reutilizarse.
-   **Retroalimentación:** Esta diferencia explica por qué los ecosistemas necesitan un
-   aporte constante de energía externa (como la luz solar) para mantenerse, mientras
-   que la materia puede reciclarse internamente.
+4. *(Alternativas)* ¿Por qué la energía no se recicla en un ecosistema como los nutrientes?
+   a) Porque la energía se recicla infinitamente en los descomponedores, que la devuelven a los productores sin pérdidas en cada nivel trófico
+   b) Porque la materia circula de forma cíclica, mientras la energía fluye en una sola dirección y se disipa como calor en cada nivel trófico
+   c) Porque los nutrientes desaparecen en cada nivel trófico, mientras que la energía se mantiene constante y vuelve a circular por el ecosistema
+   d) Porque la energía solar no llega a los ecosistemas
+   **Respuesta correcta:** b) Porque la materia circula de forma cíclica, mientras la energía fluye en una sola dirección y se disipa como calor en cada nivel trófico.
+   **Retroalimentación:** Por eso los ecosistemas necesitan un aporte constante de energía externa, como la luz solar.
 
-5. *(Análisis/cálculo)* En una red trófica, los productores de un ecosistema
-   almacenan 50.000 kcal de energía. Si la eficiencia de transferencia entre niveles
-   tróficos es de aproximadamente 10%, estima cuánta energía estará disponible para
-   los consumidores secundarios (dos niveles tróficos más arriba que los
-   productores).
-   **Respuesta correcta:** Consumidores primarios: 50.000 × 0,10 = 5.000 kcal.
-   Consumidores secundarios: 5.000 × 0,10 = 500 kcal.
-   **Retroalimentación:** Aplicar sucesivamente el porcentaje de transferencia
-   energética permite estimar por qué la cantidad de energía (y de biomasa) disminuye
-   fuertemente en los niveles tróficos superiores.
+5. *(Alternativas — Cálculo)* Los productores almacenan 50.000 kcal y la eficiencia entre niveles es de 10%. ¿Cuánta energía llega a los consumidores secundarios?
+   a) 5.000 kcal
+   b) 50 kcal
+   c) 500 kcal
+   d) 45.000 kcal
+   **Respuesta correcta:** c) 500 kcal.
+   **Retroalimentación:** Primarios: 50.000 × 0,10 = 5.000 kcal; secundarios: 5.000 × 0,10 = 500 kcal.
 
-6. *(Análisis de evidencia)* Estudios en aves rapaces de distintos ecosistemas han
-   mostrado concentraciones muy altas de ciertos pesticidas en sus tejidos, a pesar de
-   que esos pesticidas se aplicaron en concentraciones bajas en cultivos alejados de
-   donde viven las aves. Explica este fenómeno.
-   **Respuesta esperada:** Este fenómeno corresponde a la bioacumulación (o
-   biomagnificación): el pesticida ingresa al ecosistema en baja concentración, pero
-   al pasar de un nivel trófico a otro (de plantas a herbívoros y de herbívoros a
-   depredadores), la concentración del contaminante aumenta, porque cada depredador
-   consume gran cantidad de biomasa de niveles inferiores, acumulando en su propio
-   cuerpo el contaminante presente en todas esas presas.
-   **Retroalimentación:** Los depredadores tope, como muchas aves rapaces, suelen ser
-   los organismos más afectados por la bioacumulación, ya que se ubican en los niveles
-   tróficos más altos de la red.
+6. *(Alternativas — Análisis de evidencia)* Aves rapaces presentan concentraciones muy altas de pesticidas aplicados en baja concentración en cultivos lejanos. ¿Qué fenómeno lo explica?
+   a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico
+   b) La fotosíntesis de las aves, que transforman los pesticidas en energía
+   c) La resonancia acústica de los pesticidas en el cuerpo de los animales
+   d) La competencia intraespecífica entre las aves por los mismos alimentos
+   **Respuesta correcta:** a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico.
+   **Retroalimentación:** Cada depredador consume gran cantidad de biomasa de niveles inferiores y acumula el contaminante presente en sus presas.
 
-7. *(Aplicación/modelo)* Diseña un modelo simple (diagrama o descripción) que muestre
-   el flujo de energía en un ecosistema terrestre chileno, desde el Sol hasta un
-   consumidor secundario, señalando qué ocurre con la energía en cada paso.
-   **Respuesta esperada:** El Sol aporta energía a los productores (por ejemplo,
-   pastizales), que la transforman mediante fotosíntesis; los consumidores primarios
-   (por ejemplo, un roedor) obtienen parte de esa energía al alimentarse de los
-   productores, perdiéndose la mayor parte como calor; los consumidores secundarios
-   (por ejemplo, una lechuza) obtienen una fracción aún menor de la energía original al
-   alimentarse del consumidor primario.
-   **Retroalimentación:** Construir modelos de flujo de energía ayuda a visualizar por
-   qué los ecosistemas necesitan una base amplia de productores para sostener a pocos
-   depredadores tope.
+7. *(Alternativas — Modelo)* En un modelo de flujo de energía (Sol → pastizal → roedor → lechuza), ¿qué ocurre con la energía en cada paso?
+   a) La energía aumenta en cada nivel trófico, porque cada consumidor suma la energía de todo lo que come, y la lechuza acumula la mayor cantidad
+   b) La lechuza recibe toda la energía que captaron los productores, porque la energía se transfiere completa de un nivel al siguiente sin pérdidas
+   c) La energía vuelve al Sol al final de la cadena
+   d) Los productores la captan por fotosíntesis y en cada nivel se pierde la mayor parte como calor, por lo que la lechuza recibe una fracción muy pequeña
+   **Respuesta correcta:** d) Los productores la captan por fotosíntesis y en cada nivel se pierde la mayor parte como calor, por lo que la lechuza recibe una fracción muy pequeña.
+   **Retroalimentación:** Por eso los ecosistemas necesitan una base amplia de productores para sostener pocos depredadores tope.
 
 ---
 
@@ -568,62 +509,46 @@ interconectados.
    minerales, favoreciendo procesos de sucesión ecológica y, a largo plazo, suelos
    más fértiles.
 
-3. *(Clasificar)* Clasifica cada acción o fenómeno según si corresponde a una acción
-   humana o a un fenómeno natural: forestación, sequía prolongada, erupción
-   volcánica, deforestación para cultivos, creación de un área silvestre protegida.
-   **Respuesta correcta:** Acciones humanas: forestación, deforestación para cultivos,
-   creación de un área silvestre protegida. Fenómenos naturales: sequía prolongada,
-   erupción volcánica.
-   **Retroalimentación:** Distinguir el origen de un cambio ambiental (humano o
-   natural) es clave para evaluar qué medidas de mitigación o adaptación son
-   pertinentes en cada caso.
+3. *(Varias correctas — Clasificar)* ¿Cuáles de estos son **acciones humanas** (no fenómenos naturales)? Marca **todas** las correctas.
+   a) Forestación
+   b) Deforestación para cultivos
+   c) Creación de un área silvestre protegida
+   d) Sequía prolongada
+   e) Erupción volcánica
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Distinguir el origen de un cambio ambiental es clave para evaluar medidas de mitigación o adaptación.
 
-4. *(Desarrollo breve)* Explica la diferencia entre un recurso natural renovable y uno
-   no renovable, dando un ejemplo de cada uno relevante para Chile.
-   **Respuesta esperada:** Un recurso renovable puede regenerarse en escalas de tiempo
-   humanas si se usa de forma sustentable (por ejemplo, el agua dulce de una cuenca o
-   la madera de un bosque bien manejado); un recurso no renovable existe en cantidad
-   limitada y se agota con el uso, sin regenerarse en escalas de tiempo humanas (por
-   ejemplo, el cobre o el petróleo).
-   **Retroalimentación:** Que un recurso sea renovable no significa que sea
-   inagotable: si se extrae más rápido de lo que se regenera, también puede agotarse.
+4. *(Alternativas)* ¿Qué diferencia hay entre un recurso natural renovable y uno no renovable?
+   a) El renovable nunca se agota, aunque se sobreexplote (agua de una cuenca, madera de un bosque); el no renovable se regenera en pocos años si se deja de usar (cobre, petróleo)
+   b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo)
+   c) El cobre y el petróleo son recursos renovables, porque se siguen formando en la corteza; el agua y la madera son no renovables, porque se agotan al usarlos
+   d) No existe diferencia entre ambos
+   **Respuesta correcta:** b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo).
+   **Retroalimentación:** Que un recurso sea renovable no significa que sea inagotable: si se extrae más rápido de lo que se regenera, también puede agotarse.
 
-5. *(Análisis)* Explica las implicancias sociales, económicas y ambientales que puede
-   tener la deforestación de un bosque nativo para habilitar terrenos de cultivo.
-   **Respuesta esperada:** Ambientales: pérdida de biodiversidad, alteración del ciclo
-   del agua local, liberación de carbono almacenado. Económicas: puede generar
-   ingresos a corto plazo por la venta de madera o los cultivos, pero puede perder
-   servicios ecosistémicos valiosos a largo plazo (como la regulación del clima o del
-   agua). Sociales: puede afectar a comunidades que dependían del bosque para su
-   subsistencia o su cultura.
-   **Retroalimentación:** Evaluar una acción humana desde sus tres dimensiones
-   (ambiental, económica y social) es central para el concepto de desarrollo
-   sustentable.
+5. *(Varias correctas — Análisis)* ¿Qué implicancias puede tener deforestar un bosque nativo para habilitar cultivos? Marca **todas** las correctas.
+   a) Ambientales: pérdida de biodiversidad y liberación de carbono almacenado
+   b) Económicas: ingresos a corto plazo, pero pérdida de servicios ecosistémicos a largo plazo
+   c) Sociales: afectar a comunidades que dependían del bosque
+   d) Ninguna, porque los bosques se regeneran de inmediato
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Evaluar una acción desde sus dimensiones ambiental, económica y social es central para el desarrollo sustentable.
 
-6. *(Evaluación de estrategias)* Evalúa la siguiente estrategia frente al riesgo de
-   sequías prolongadas en una zona agrícola de Chile: "construir embalses para
-   almacenar agua durante la temporada de lluvias y usarla durante los periodos
-   secos." ¿Qué ventajas y qué posibles limitaciones tiene esta medida?
-   **Respuesta esperada:** Ventaja: permite disponer de agua durante los periodos de
-   sequía, reduciendo el impacto sobre la agricultura y el consumo humano. Limitación:
-   requiere que exista suficiente agua durante la temporada de lluvias para llenar el
-   embalse (lo que puede no ocurrir si la sequía es muy prolongada), además de un
-   costo de construcción y mantención, y posibles efectos sobre el ecosistema del río
-   intervenido.
-   **Retroalimentación:** Evaluar una medida de adaptación implica considerar tanto
-   sus beneficios como sus limitaciones y posibles efectos secundarios sobre el
-   ambiente.
+6. *(Alternativas — Evaluación)* Frente a sequías prolongadas, se propone construir embalses para almacenar agua de la temporada de lluvias. ¿Qué evaluación es correcta?
+   a) Solo tiene ventajas y ninguna limitación: un embalse asegura agua en cualquier circunstancia, sin costos relevantes ni efectos sobre los ecosistemas del río
+   b) Solo tiene limitaciones y ninguna ventaja: los embalses no permiten almacenar agua por más de unos días, así que no sirven para enfrentar las sequías
+   c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río
+   d) Garantiza agua aunque nunca llueva, porque los embalses generan agua propia a partir de la humedad del aire, sin depender de las lluvias
+   **Respuesta correcta:** c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río.
+   **Retroalimentación:** Evaluar una medida de adaptación implica considerar beneficios, limitaciones y efectos secundarios.
 
-7. *(Aplicación/propuesta)* Propón dos acciones humanas concretas que contribuyan al
-   desarrollo sustentable en una ciudad chilena, relacionadas con la urbanización
-   sustentable o la promoción de la salud.
-   **Respuesta esperada:** Por ejemplo: aumentar las áreas verdes urbanas (que
-   mejoran la calidad del aire, reducen la temperatura local y promueven la actividad
-   física de la población) y fomentar el uso de transporte público o de bicicletas
-   en vez del automóvil particular (que reduce las emisiones contaminantes y mejora
-   la calidad del aire).
-   **Retroalimentación:** Las medidas de desarrollo sustentable en zonas urbanas
-   suelen beneficiar simultáneamente al ambiente y a la salud de la población.
+7. *(Varias correctas — Propuesta)* ¿Qué acciones contribuyen al desarrollo sustentable en una ciudad chilena? Marca **todas** las correctas.
+   a) Aumentar las áreas verdes urbanas
+   b) Fomentar el transporte público o la bicicleta en vez del auto particular
+   c) Reemplazar plazas por estacionamientos
+   d) Aumentar el uso de leña húmeda para calefacción
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Las áreas verdes y el transporte sustentable benefician al ambiente y a la salud; menos áreas verdes y más leña húmeda empeoran la calidad del aire.
 
 ---
 
@@ -718,60 +643,45 @@ su auscultación).
    (sólido, líquido o gaseoso) para propagarse; a diferencia de la luz, no puede
    viajar en el vacío.
 
-3. *(Clasificar)* Clasifica cada fenómeno sonoro según su descripción: percepción de
-   un sonido reflejado con un retraso perceptible; aumento de la amplitud de
-   vibración de un objeto al recibir sonido en su frecuencia natural; cambio aparente
-   de la frecuencia de un sonido por movimiento relativo entre fuente y observador.
-   **Respuesta correcta:** Eco: percepción de un sonido reflejado con retraso.
-   Resonancia: aumento de la amplitud de vibración en la frecuencia natural. Efecto
-   Doppler: cambio aparente de frecuencia por movimiento relativo.
-   **Retroalimentación:** Cada fenómeno acústico tiene una causa física distinta,
-   aunque todos se explican a partir del modelo ondulatorio del sonido.
+3. *(Alternativas — Clasificar)* ¿Qué fenómeno corresponde a cada descripción: (1) sonido reflejado percibido con retraso; (2) aumento de amplitud al recibir sonido en la frecuencia natural; (3) cambio aparente de frecuencia por movimiento relativo?
+   a) 1: eco; 2: resonancia; 3: efecto Doppler
+   b) 1: resonancia; 2: eco; 3: efecto Doppler
+   c) 1: efecto Doppler; 2: resonancia; 3: eco
+   d) 1: eco; 2: efecto Doppler; 3: resonancia
+   **Respuesta correcta:** a) 1: eco; 2: resonancia; 3: efecto Doppler.
+   **Retroalimentación:** Cada fenómeno acústico tiene una causa física distinta, aunque todos se explican con el modelo ondulatorio.
 
-4. *(Desarrollo breve)* Explica por qué una copa de cristal puede llegar a romperse
-   al ser expuesta a un sonido de determinada frecuencia, relacionándolo con el
-   concepto de resonancia.
-   **Respuesta esperada:** Todo objeto tiene una frecuencia natural de vibración; si el
-   sonido externo coincide con esa frecuencia, el objeto entra en resonancia y su
-   amplitud de vibración aumenta progresivamente; si la energía sonora es
-   suficientemente intensa y sostenida, esa vibración puede llegar a superar la
-   resistencia estructural del material, rompiéndolo.
-   **Retroalimentación:** La resonancia no depende de la intensidad del sonido en sí,
-   sino de que su frecuencia coincida con la frecuencia natural del objeto.
+4. *(Alternativas)* ¿Por qué una copa de cristal puede romperse al exponerse a un sonido de determinada frecuencia?
+   a) Porque cualquier sonido fuerte rompe el cristal, sin importar su frecuencia, ya que la intensidad es lo único que determina si el material se quiebra
+   b) Porque el sonido calienta la copa
+   c) Porque el cristal absorbe el sonido y se contrae con cada onda, hasta que la presión acumulada en su interior supera la resistencia del material
+   d) Porque si el sonido coincide con su frecuencia natural entra en resonancia, su vibración aumenta y puede superar la resistencia del material
+   **Respuesta correcta:** d) Porque si el sonido coincide con su frecuencia natural entra en resonancia, su vibración aumenta y puede superar la resistencia del material.
+   **Retroalimentación:** Lo decisivo es que la frecuencia coincida con la natural del objeto, aunque se necesita además un sonido intenso y sostenido.
 
-5. *(Análisis/cálculo)* Si el sonido viaja en el aire a aproximadamente 340 m/s, y una
-   persona escucha el eco de su grito 2 segundos después de emitirlo, estima a qué
-   distancia aproximada se encuentra la superficie que refleja el sonido (considera
-   que el sonido recorre la ida y la vuelta).
-   **Respuesta correcta:** Distancia recorrida total = 340 m/s × 2 s = 680 m. Como el
-   sonido recorre esa distancia dos veces (ida y vuelta), la superficie está a
-   aproximadamente 340 m de distancia.
-   **Retroalimentación:** Al calcular distancias con el eco, es fundamental recordar
-   que el tiempo medido corresponde al recorrido de ida y vuelta del sonido.
+5. *(Alternativas — Cálculo)* El sonido viaja a 340 m/s y el eco de un grito se escucha 2 segundos después. ¿A qué distancia está la superficie que refleja el sonido?
+   a) 170 m
+   b) 340 m
+   c) 680 m
+   d) 1.360 m
+   **Respuesta correcta:** b) 340 m.
+   **Retroalimentación:** El sonido recorre 340 × 2 = 680 m de ida y vuelta, así que la superficie está a la mitad: 340 m.
 
-6. *(Análisis/aplicación tecnológica)* Explica cómo el sonar permite a un barco
-   determinar la profundidad del mar bajo su casco, relacionándolo con el fenómeno de
-   reflexión del sonido.
-   **Respuesta esperada:** El sonar emite un pulso de sonido hacia el fondo marino;
-   ese sonido se refleja al chocar con el fondo (eco) y regresa al barco; midiendo el
-   tiempo que demora el sonido en ir y volver, y conociendo la rapidez del sonido en el
-   agua, es posible calcular la distancia (profundidad) hasta el fondo marino.
-   **Retroalimentación:** Muchas aplicaciones tecnológicas del sonido, como el sonar y
-   el ecógrafo, se basan en medir el tiempo que demora un pulso sonoro en reflejarse y
-   regresar.
+6. *(Alternativas — Aplicación tecnológica)* ¿Cómo determina un sonar la profundidad del mar?
+   a) Mide la temperatura del agua
+   b) Envía luz que atraviesa el fondo marino y mide cuánto tarda en volver, conociendo la rapidez de la luz en el agua
+   c) Emite un pulso que se refleja en el fondo y mide el tiempo de ida y vuelta, conociendo la rapidez del sonido en el agua
+   d) Calcula la profundidad según el color del agua, que se vuelve más oscura mientras más profundo es el fondo marino
+   **Respuesta correcta:** c) Emite un pulso que se refleja en el fondo y mide el tiempo de ida y vuelta, conociendo la rapidez del sonido en el agua.
+   **Retroalimentación:** El sonar y el ecógrafo se basan en medir cuánto demora un pulso sonoro en reflejarse y regresar.
 
-7. *(Evaluación/salud)* Evalúa la siguiente afirmación: "escuchar música con
-   audífonos a volumen muy alto durante varias horas al día no tiene consecuencias
-   para la salud si no se siente dolor inmediato." Justifica tu evaluación desde el
-   punto de vista de la contaminación acústica.
-   **Respuesta esperada:** La afirmación es incorrecta: la exposición prolongada a
-   sonidos de alta intensidad puede dañar progresivamente las estructuras del oído
-   interno, incluso sin dolor inmediato, y este daño puede acumularse con el tiempo,
-   derivando en pérdida auditiva; la ausencia de dolor inmediato no garantiza ausencia
-   de daño a largo plazo.
-   **Retroalimentación:** Comprender las consecuencias de la contaminación acústica
-   permite tomar decisiones informadas sobre hábitos cotidianos, como el volumen y el
-   tiempo de uso de audífonos.
+7. *(Alternativas — Evaluación)* "Escuchar música con audífonos a volumen muy alto varias horas al día no tiene consecuencias si no se siente dolor inmediato." ¿Qué evaluación es correcta?
+   a) Es incorrecta: la exposición prolongada a sonidos intensos daña progresivamente el oído interno aunque no duela
+   b) Es correcta: sin dolor no hay daño, porque el oído avisa de inmediato cuando el volumen es peligroso
+   c) Es correcta: el oído se fortalece con el ruido y se acostumbra a los volúmenes altos con el tiempo
+   d) Es incorrecta: el volumen alto solo daña los audífonos, que pierden calidad de sonido con el uso diario
+   **Respuesta correcta:** a) Es incorrecta: la exposición prolongada a sonidos intensos daña progresivamente el oído interno aunque no duela.
+   **Retroalimentación:** La ausencia de dolor inmediato no garantiza ausencia de daño acumulado a largo plazo.
 
 ---
 
@@ -861,66 +771,45 @@ iluminación.
    adecuadamente mediante el modelo ondulatorio de la luz, no mediante el modelo
    corpuscular clásico.
 
-3. *(Clasificar)* Clasifica cada fenómeno óptico según su causa principal: formación
-   de sombras; formación de imágenes en espejos; cambio aparente del color de la luz
-   por movimiento relativo entre fuente y observador; funcionamiento de la fibra
-   óptica.
-   **Respuesta correcta:** Formación de sombras: propagación rectilínea de la luz.
-   Formación de imágenes en espejos: reflexión. Cambio aparente del color: efecto
-   Doppler. Funcionamiento de la fibra óptica: reflexión total interna.
-   **Retroalimentación:** Cada fenómeno óptico tiene una explicación física
-   específica, aunque varios de ellos comparten el mismo modelo (ondulatorio o
-   corpuscular) como base explicativa.
+3. *(Alternativas — Clasificar)* ¿Qué causa explica cada fenómeno: sombras; imágenes en espejos; cambio aparente del color por movimiento relativo; fibra óptica?
+   a) Reflexión; refracción; resonancia; propagación rectilínea de la luz
+   b) Efecto Doppler; reflexión total interna; refracción; eco de la luz
+   c) Refracción; efecto Doppler; reflexión; resonancia
+   d) Propagación rectilínea; reflexión; efecto Doppler; reflexión total interna
+   **Respuesta correcta:** d) Propagación rectilínea; reflexión; efecto Doppler; reflexión total interna.
+   **Retroalimentación:** Cada fenómeno óptico tiene una explicación física específica.
 
-4. *(Desarrollo breve)* Explica la diferencia entre reflexión y refracción de la luz.
-   **Respuesta esperada:** La reflexión ocurre cuando la luz rebota en una superficie
-   sin cambiar de medio (por ejemplo, en un espejo); la refracción ocurre cuando la
-   luz cambia de dirección al pasar de un medio a otro con distinta densidad óptica
-   (por ejemplo, del aire al agua), debido a que su rapidez cambia al cambiar de
-   medio.
-   **Retroalimentación:** Ambos fenómenos ocurren en la interfaz entre dos medios,
-   pero se diferencian en si la luz permanece en el mismo medio (reflexión) o pasa a
-   otro (refracción).
+4. *(Alternativas)* ¿Cuál es la diferencia entre reflexión y refracción de la luz?
+   a) En la reflexión la luz cambia de medio y de rapidez al pasar del aire al agua; en la refracción rebota sin cambiar de medio, como ocurre en un espejo
+   b) En la reflexión la luz rebota sin cambiar de medio (espejo); en la refracción cambia de dirección al pasar a otro medio porque cambia su rapidez (aire a agua)
+   c) Ambas son lo mismo: la luz rebota al llegar a una superficie y vuelve por el mismo camino, sin cambiar su dirección
+   d) La refracción solo ocurre con el sonido al pasar del aire al agua, y la reflexión solo con la luz al llegar a un espejo
+   **Respuesta correcta:** b) En la reflexión la luz rebota sin cambiar de medio (espejo); en la refracción cambia de dirección al pasar a otro medio porque cambia su rapidez (aire a agua).
+   **Retroalimentación:** Ambos fenómenos ocurren en la interfaz entre dos medios.
 
-5. *(Análisis)* Explica por qué la reflexión total interna, y no la refracción
-   común, es el fenómeno que permite que la luz viaje largas distancias dentro de una
-   fibra óptica sin escapar de ella.
-   **Respuesta esperada:** En la reflexión total interna, cuando la luz viaja dentro de
-   un medio más denso (el núcleo de la fibra óptica) e incide sobre sus paredes con un
-   ángulo suficientemente grande, la luz se refleja completamente en vez de
-   refractarse y escapar hacia afuera; esto permite que la luz se propague por la
-   fibra rebotando internamente, sin perderse, incluso en trayectos largos y con
-   curvas.
-   **Retroalimentación:** La reflexión total interna es un caso límite de la
-   refracción, y es la base física que permite las telecomunicaciones modernas por
-   fibra óptica.
+5. *(Alternativas — Análisis)* ¿Por qué la reflexión total interna permite que la luz viaje largas distancias dentro de una fibra óptica?
+   a) Porque la fibra óptica produce su propia luz
+   b) Porque la luz se refracta hacia afuera en cada curva de la fibra, y vuelve a entrar al núcleo gracias al revestimiento que la rodea por fuera
+   c) Porque al incidir sobre las paredes del núcleo con un ángulo suficientemente grande, la luz se refleja completamente en vez de escapar
+   d) Porque la fibra absorbe la luz en cada tramo y la vuelve a emitir con más intensidad, como si fuera una cadena de pequeñas fuentes luminosas
+   **Respuesta correcta:** c) Porque al incidir sobre las paredes del núcleo con un ángulo suficientemente grande, la luz se refleja completamente en vez de escapar.
+   **Retroalimentación:** La reflexión total interna es un caso límite de la refracción y la base de las telecomunicaciones por fibra óptica.
 
-6. *(Análisis/astronomía)* Explica por qué el efecto Doppler de la luz, y en
-   particular el "corrimiento al rojo" observado en galaxias lejanas, es considerado
-   una evidencia importante para la teoría de la expansión del universo.
-   **Respuesta esperada:** Si la mayoría de las galaxias lejanas muestran un
-   corrimiento de su luz hacia el rojo (menor frecuencia), esto indica, por efecto
-   Doppler, que se están alejando de la Tierra; que esto ocurra de forma generalizada
-   en todas direcciones sugiere que el espacio entre las galaxias se está expandiendo,
-   lo que constituye evidencia observacional a favor de la expansión del universo.
-   **Retroalimentación:** El efecto Doppler no solo se aplica a fenómenos cotidianos
-   como el sonido de un vehículo, sino que es una herramienta fundamental de la
-   astronomía moderna.
+6. *(Alternativas — Astronomía)* ¿Por qué el "corrimiento al rojo" de galaxias lejanas es evidencia de la expansión del universo?
+   a) Porque indica, por efecto Doppler, que se alejan de nosotros, y que esto ocurra en todas direcciones sugiere que el espacio se expande
+   b) Porque indica que las galaxias se están acercando a la Tierra, y que esto ocurra en todas direcciones sugiere que el universo se contrae
+   c) Porque demuestra que las galaxias lejanas son de color rojo, ya que están formadas por estrellas más viejas y frías
+   d) Porque prueba que el universo está detenido, ya que el color de las galaxias no cambia con el paso de los años
+   **Respuesta correcta:** a) Porque indica, por efecto Doppler, que se alejan de nosotros, y que esto ocurra en todas direcciones sugiere que el espacio se expande.
+   **Retroalimentación:** El efecto Doppler es una herramienta fundamental de la astronomía moderna.
 
-7. *(Aplicación/comparación)* Compara, en un mismo cuadro, un fenómeno del sonido y
-   un fenómeno de la luz que compartan el mismo nombre (por ejemplo, reflexión, o
-   efecto Doppler), señalando una semejanza y una diferencia entre ambos.
-   **Respuesta esperada:** Por ejemplo, en el efecto Doppler: semejanza, en ambos
-   casos el movimiento relativo entre la fuente y el observador provoca un cambio
-   aparente en la frecuencia percibida. En el sonido, el efecto se percibe como un tono
-   más agudo al acercarse y más grave al alejarse; en la luz, el acercamiento produce un
-   corrimiento hacia el azul (mayor frecuencia) y el alejamiento, un corrimiento hacia el
-   rojo (menor frecuencia). Una diferencia es que el sonido necesita un medio material
-   para propagarse, mientras que la luz puede propagarse también en el vacío, como ocurre
-   entre galaxias.
-   **Retroalimentación:** Comparar fenómenos ondulatorios del sonido y de la luz
-   ayuda a reconocer que ambos comparten el modelo ondulatorio, aunque se trate de
-   tipos de onda distintos (mecánica y electromagnética).
+7. *(Varias correctas — Comparación)* Sobre el efecto Doppler en el sonido y en la luz, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
+   a) En ambos, el movimiento relativo entre fuente y observador cambia la frecuencia percibida
+   b) En el sonido, una fuente que se acerca se oye más aguda
+   c) En la luz, un astro que se aleja muestra corrimiento al rojo
+   d) El sonido, igual que la luz, puede propagarse en el vacío
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Una diferencia clave es que el sonido necesita un medio material, mientras la luz puede propagarse en el vacío.
 
 ---
 
@@ -1009,63 +898,45 @@ planetas gaseosos como Júpiter y Saturno).
    eclipse solar, es la Luna la que se ubica entre el Sol y la Tierra, bloqueando la
    luz solar en ciertas zonas de la Tierra.
 
-3. *(Clasificar)* Clasifica cada fenómeno según si se explica principalmente por el
-   sistema Tierra-Luna o por el sistema Tierra-Sol: fases lunares; estaciones
-   climáticas; eclipse solar; eclipse lunar.
-   **Respuesta correcta:** Sistema Tierra-Luna: fases lunares, eclipse solar, eclipse
-   lunar (estos últimos requieren además la posición del Sol, pero se explican con
-   modelos del sistema Tierra-Luna en relación con la luz solar). Sistema Tierra-Sol:
-   estaciones climáticas.
-   **Retroalimentación:** Aunque el Sol está involucrado en todos estos fenómenos
-   como fuente de luz, las estaciones se explican específicamente por la relación
-   geométrica entre la Tierra y el Sol a lo largo del año, mientras que las fases y
-   los eclipses dependen de la posición relativa de la Luna.
+3. *(Alternativas — Clasificar)* ¿Qué fenómeno se explica principalmente por la relación geométrica Tierra-Sol a lo largo del año (inclinación del eje terrestre), y no por la posición de la Luna?
+   a) Las fases lunares
+   b) El eclipse solar
+   c) El eclipse lunar
+   d) Las estaciones climáticas
+   **Respuesta correcta:** d) Las estaciones climáticas.
+   **Retroalimentación:** Las fases y los eclipses dependen de la posición relativa de la Luna (con el Sol como fuente de luz); las estaciones dependen de la inclinación del eje terrestre respecto del Sol.
 
-4. *(Desarrollo breve)* Explica por qué no ocurre un eclipse solar y uno lunar en cada
-   ciclo lunar, si el Sol, la Tierra y la Luna se alinean regularmente durante las
-   fases de luna nueva y luna llena.
-   **Respuesta esperada:** La órbita de la Luna está ligeramente inclinada respecto al
-   plano en que la Tierra orbita alrededor del Sol; por eso, en la mayoría de los
-   ciclos, aunque la Luna esté en fase de luna nueva o llena, no se encuentra
-   exactamente alineada con el Sol y la Tierra en el mismo plano, y los eclipses solo
-   ocurren cuando esa alineación es lo suficientemente precisa.
-   **Retroalimentación:** La inclinación orbital de la Luna es la razón por la que los
-   eclipses son eventos relativamente poco frecuentes, en vez de ocurrir todos los
-   meses.
+4. *(Alternativas)* Si el Sol, la Tierra y la Luna se alinean en luna nueva y luna llena, ¿por qué no hay eclipses cada mes?
+   a) Porque la Luna no tiene fases
+   b) Porque la órbita de la Luna está ligeramente inclinada respecto al plano de la órbita terrestre, y solo a veces la alineación es precisa
+   c) Porque el Sol se apaga algunos meses y la Luna no alcanza a proyectar su sombra sobre la Tierra durante la alineación
+   d) Porque la Tierra deja de girar en algunos meses, y en esos períodos la alineación ocurre cuando es de día en todo el planeta
+   **Respuesta correcta:** b) Porque la órbita de la Luna está ligeramente inclinada respecto al plano de la órbita terrestre, y solo a veces la alineación es precisa.
+   **Retroalimentación:** La inclinación orbital de la Luna explica que los eclipses sean relativamente poco frecuentes.
 
-5. *(Análisis)* Un estudiante afirma: "en Chile hace más calor en verano porque en esa
-   época la Tierra está más cerca del Sol." Evalúa esta afirmación usando el modelo
-   del sistema Tierra-Sol.
-   **Respuesta esperada:** La afirmación es incorrecta: la principal causa de las
-   estaciones es la inclinación del eje terrestre, no la distancia entre la Tierra y
-   el Sol (que varía muy poco a lo largo del año y no coincide, en tiempo, con las
-   estaciones de cada hemisferio); cuando en Chile es verano, en el hemisferio sur el
-   eje terrestre está inclinado hacia el Sol, recibiendo luz de forma más directa,
-   independientemente de la distancia exacta al Sol en ese momento.
-   **Retroalimentación:** Es una idea errónea común confundir la causa de las
-   estaciones con la distancia Tierra-Sol; el modelo correcto se basa en el ángulo de
-   incidencia de la luz solar, determinado por la inclinación del eje terrestre.
+5. *(Alternativas — Análisis)* "En Chile hace más calor en verano porque en esa época la Tierra está más cerca del Sol." ¿Qué evaluación es correcta?
+   a) Es correcta: la distancia al Sol explica las estaciones, porque en verano la Tierra recibe más calor al estar más cerca
+   b) Es correcta: en verano la Tierra está mucho más cerca del Sol en ambos hemisferios, por eso el verano ocurre en todo el planeta a la vez
+   c) Es incorrecta: las estaciones se deben a la inclinación del eje terrestre, que hace que la luz llegue más directa a un hemisferio
+   d) Es incorrecta: las estaciones se deben a las fases lunares, que cambian la cantidad de luz que refleja la Luna hacia la Tierra
+   **Respuesta correcta:** c) Es incorrecta: las estaciones se deben a la inclinación del eje terrestre, que hace que la luz llegue más directa a un hemisferio.
+   **Retroalimentación:** La distancia Tierra-Sol varía poco y no coincide con las estaciones de cada hemisferio.
 
-6. *(Análisis comparativo)* Compara la Tierra con Marte en cuanto a su distancia al
-   Sol y su período orbital, y explica la relación entre ambas variables.
-   **Respuesta esperada:** Marte se encuentra más lejos del Sol que la Tierra, por lo
-   que su período orbital es mayor (aproximadamente 687 días terrestres, frente a los
-   365 días de la Tierra); en general, mientras mayor es la distancia de un planeta al
-   Sol, mayor es su período orbital, ya que debe recorrer una órbita más grande y,
-   además, se mueve más lentamente.
-   **Retroalimentación:** La relación entre distancia al Sol y período orbital es una
-   regularidad que se cumple en todos los planetas del sistema solar.
+6. *(Alternativas — Comparación)* Comparada con la Tierra, Marte está más lejos del Sol. ¿Qué ocurre con su período orbital?
+   a) Es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento
+   b) Es menor (unos 200 días), porque se mueve más rápido al estar más lejos que la Tierra
+   c) Es igual al de la Tierra (365 días), porque todos giran juntos
+   d) No tiene período orbital, porque Marte no gira alrededor del Sol
+   **Respuesta correcta:** a) Es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento.
+   **Retroalimentación:** A mayor distancia al Sol, mayor período orbital en todos los planetas del sistema solar.
 
-7. *(Aplicación/modelo)* Diseña un modelo simple (dibujo o descripción) que muestre
-   las posiciones relativas del Sol, la Tierra y la Luna durante un eclipse solar y
-   durante un eclipse lunar, señalando en qué fase lunar ocurre cada uno.
-   **Respuesta esperada:** Eclipse solar: Sol - Luna - Tierra alineados, con la Luna en
-   el medio, ocurre en fase de luna nueva. Eclipse lunar: Sol - Tierra - Luna
-   alineados, con la Tierra en el medio proyectando su sombra sobre la Luna, ocurre
-   en fase de luna llena.
-   **Retroalimentación:** Elaborar modelos con las posiciones relativas correctas
-   ayuda a comprender por qué cada tipo de eclipse solo puede ocurrir en una fase
-   lunar específica.
+7. *(Alternativas — Modelo)* ¿Qué opción describe correctamente las posiciones en cada eclipse?
+   a) Eclipse solar: Sol - Tierra - Luna, en luna llena. Eclipse lunar: Sol - Luna - Tierra, en luna nueva
+   b) Ambos ocurren en cuarto creciente
+   c) En ambos la Luna está entre el Sol y la Tierra
+   d) Eclipse solar: Sol - Luna - Tierra, en luna nueva. Eclipse lunar: Sol - Tierra - Luna, en luna llena
+   **Respuesta correcta:** d) Eclipse solar: Sol - Luna - Tierra, en luna nueva. Eclipse lunar: Sol - Tierra - Luna, en luna llena.
+   **Retroalimentación:** Cada tipo de eclipse solo puede ocurrir en una fase lunar específica.
 
 ---
 
@@ -1131,10 +1002,10 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
 
 1. *(Alternativas)* ¿Cuál de los siguientes factores explica principalmente por qué
    el norte de Chile es un lugar privilegiado para la observación astronómica?
-   a) Su cercanía al océano Pacífico
+   a) Su cercanía al océano Pacífico y a la costa
    b) Su baja humedad atmosférica y alta transparencia del cielo
-   c) Su cercanía a la línea del Ecuador
-   d) Su gran cantidad de población
+   c) Su cercanía a la línea del Ecuador y al trópico
+   d) Su gran cantidad de población y de ciudades iluminadas
    **Respuesta correcta:** b) Su baja humedad atmosférica y alta transparencia del
    cielo.
    **Retroalimentación:** La combinación de aridez extrema, cielos despejados casi
@@ -1148,66 +1019,45 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    astros, permitiendo estudiar objetos y fenómenos que no son detectables mediante
    luz visible.
 
-3. *(Clasificar)* Clasifica los siguientes instrumentos según si se usan
-   principalmente a nivel de iniciados/aficionados o a nivel profesional: prismáticos,
-   telescopio de aficionado, gran telescopio óptico de un observatorio, radiotelescopio.
-   **Respuesta correcta:** Nivel iniciados/aficionados: prismáticos, telescopio de
-   aficionado. Nivel profesional: gran telescopio óptico de observatorio,
-   radiotelescopio.
-   **Retroalimentación:** La astronomía se puede practicar en distintos niveles, desde
-   la observación amateur con instrumentos simples hasta la investigación
-   profesional con infraestructura de gran escala.
+3. *(Varias correctas — Clasificar)* ¿Cuáles de estos instrumentos se usan principalmente a nivel **profesional**? Marca **todas** las correctas.
+   a) Gran telescopio óptico de un observatorio
+   b) Radiotelescopio
+   c) Prismáticos
+   d) Telescopio de aficionado
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** La astronomía se practica desde la observación amateur con instrumentos simples hasta la investigación profesional con infraestructura de gran escala.
 
-4. *(Desarrollo breve)* Explica qué tipo de información sobre una estrella o galaxia
-   puede obtenerse a partir del análisis de la luz que emite.
-   **Respuesta esperada:** El análisis del espectro de luz permite determinar la
-   composición química del astro (a partir de las líneas espectrales características
-   de cada elemento), su temperatura, y mediante el efecto Doppler (corrimiento hacia
-   el rojo o hacia el azul de su espectro), si el astro se está alejando o acercando
-   respecto al observador.
-   **Retroalimentación:** La luz de los astros es, en muchos casos, la única fuente de
-   información directa disponible para estudiarlos, dado que la mayoría de ellos está
-   a distancias inalcanzables para una exploración directa.
+4. *(Varias correctas)* ¿Qué información puede obtenerse del análisis de la luz de una estrella o galaxia? Marca **todas** las correctas.
+   a) Su composición química (líneas espectrales)
+   b) Su temperatura
+   c) Si se aleja o se acerca (efecto Doppler)
+   d) El nombre que le dieron sus descubridores
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La luz de los astros suele ser la única fuente de información directa para estudiarlos.
 
-5. *(Análisis)* Explica por qué la creciente instalación de observatorios
-   astronómicos en el norte de Chile representa tanto una oportunidad científica como
-   un desafío en términos de conservación del cielo nocturno.
-   **Respuesta esperada:** Es una oportunidad porque posiciona a Chile como un centro
-   mundial de investigación astronómica, atrayendo inversión, tecnología y
-   colaboración científica internacional; es un desafío porque el crecimiento urbano y
-   el aumento de la contaminación lumínica cercana a los observatorios podría reducir
-   la calidad del cielo nocturno necesaria para la observación astronómica, lo que ha
-   llevado a la creación de normativas de protección del cielo en algunas zonas de
-   Chile.
-   **Retroalimentación:** La conservación del cielo nocturno es un tema relevante de
-   política pública en las regiones donde se concentra la infraestructura
-   astronómica del país.
+5. *(Alternativas — Análisis)* ¿Por qué los observatorios del norte de Chile son una oportunidad y un desafío a la vez?
+   a) Oportunidad: no traen inversión, pero dan prestigio internacional. Desafío: el cielo del norte está siempre nublado por la camanchaca y dificulta la observación
+   b) Oportunidad: posicionan a Chile como centro mundial de investigación. Desafío: la contaminación lumínica del crecimiento urbano puede deteriorar la calidad del cielo
+   c) No representan ninguna oportunidad
+   d) Oportunidad: el crecimiento urbano cerca de los observatorios mejora la observación astronómica. Desafío: los observatorios impiden el desarrollo de las ciudades del norte
+   **Respuesta correcta:** b) Oportunidad: posicionan a Chile como centro mundial de investigación. Desafío: la contaminación lumínica del crecimiento urbano puede deteriorar la calidad del cielo.
+   **Retroalimentación:** La conservación del cielo nocturno es un tema de política pública en esas regiones.
 
-6. *(Análisis/valoración cultural)* Explica por qué se considera relevante estudiar
-   los conocimientos astronómicos desarrollados por los pueblos originarios de Chile,
-   además de la astronomía moderna desarrollada con telescopios.
-   **Respuesta esperada:** Los pueblos originarios desarrollaron, mediante la
-   observación sistemática del cielo a lo largo de generaciones y sin instrumentos
-   modernos, conocimientos astronómicos que les permitieron establecer calendarios
-   agrícolas y ceremoniales; estudiar estos saberes permite valorar formas de
-   conocimiento distintas a la ciencia occidental y reconocer el aporte cultural de
-   estos pueblos a la comprensión del cielo.
-   **Retroalimentación:** La astronomía de los pueblos originarios constituye un
-   patrimonio cultural y científico propio de Chile, complementario a la astronomía
-   desarrollada con tecnología moderna.
+6. *(Alternativas — Valoración cultural)* ¿Por qué es relevante estudiar los conocimientos astronómicos de los pueblos originarios de Chile?
+   a) Porque usaban telescopios modernos traídos de Europa, y con ellos elaboraron calendarios más precisos que los actuales
+   b) Porque sus conocimientos reemplazan a la astronomía actual, que debería abandonar los telescopios y volver a la observación a simple vista
+   c) Porque mediante observación sistemática por generaciones establecieron calendarios agrícolas y ceremoniales, un patrimonio cultural y científico propio
+   d) No es relevante: solo importa la astronomía con telescopios
+   **Respuesta correcta:** c) Porque mediante observación sistemática por generaciones establecieron calendarios agrícolas y ceremoniales, un patrimonio cultural y científico propio.
+   **Retroalimentación:** Es un saber complementario a la astronomía desarrollada con tecnología moderna.
 
-7. *(Aplicación/investigación)* Investiga y describe brevemente el aporte de alguna
-   científica o científico chileno al campo de la astronomía (por ejemplo, en el
-   estudio de exoplanetas, cúmulos estelares u otros fenómenos), explicando por qué
-   contar con observatorios en Chile facilita este tipo de investigaciones.
-   **Respuesta esperada:** Respuesta abierta, orientada a que el estudiante identifique
-   a un/a astrónomo/a chileno/a y su área de investigación; debe explicar que contar
-   con observatorios de clase mundial en territorio chileno facilita el acceso directo
-   de científicos nacionales a estos instrumentos, favoreciendo su participación en
-   investigaciones astronómicas de vanguardia.
-   **Retroalimentación:** Reconocer los aportes de científicas y científicos chilenos
-   ayuda a visibilizar que la astronomía no es solo un campo de investigación
-   extranjera, sino también una disciplina activa y en desarrollo dentro del país.
+7. *(Alternativas — Aplicación)* ¿Por qué contar con observatorios de clase mundial en Chile favorece a la astronomía chilena?
+   a) Porque facilita el acceso directo de científicos nacionales a esos instrumentos y su participación en investigaciones de vanguardia
+   b) Porque los observatorios prohíben a los científicos chilenos usarlos, lo que obliga al país a formar astrónomos en el extranjero
+   c) Porque solo sirven para el turismo
+   d) Porque reemplazan la formación de astrónomos en las universidades: los instrumentos hacen el trabajo sin necesidad de investigadores
+   **Respuesta correcta:** a) Porque facilita el acceso directo de científicos nacionales a esos instrumentos y su participación en investigaciones de vanguardia.
+   **Retroalimentación:** La astronomía es también una disciplina activa y en desarrollo dentro del país.
 
 ---
 
@@ -1285,10 +1135,10 @@ ambientales como la contaminación atmosférica.
 
 1. *(Alternativas)* ¿Cuál de las siguientes NO es una evidencia típica de que ha
    ocurrido una reacción química?
-   a) Producción de gas
-   b) Cambio de color
+   a) Producción de un gas, como burbujas o espuma
+   b) Cambio de color de las sustancias que se mezclan
    c) Cambio en la forma de un objeto sin alterar su composición
-   d) Cambio de temperatura
+   d) Cambio de temperatura, como calentamiento o enfriamiento
    **Respuesta correcta:** c) Cambio en la forma de un objeto sin alterar su
    composición.
    **Retroalimentación:** Un cambio de forma sin alteración de la composición química
@@ -1303,65 +1153,45 @@ ambientales como la contaminación atmosférica.
    realizan en ausencia de oxígeno, transformando sustancias como los azúcares para
    obtener energía.
 
-3. *(Clasificar)* Clasifica cada reacción según su tipo (descomposición, síntesis,
-   sustitución u oxidación): la formación de herrumbre en un clavo de hierro; la
-   combinación de hidrógeno y oxígeno para formar agua; la descomposición del agua
-   oxigenada en agua y oxígeno al exponerla a la luz.
-   **Respuesta correcta:** Oxidación: formación de herrumbre. Síntesis: formación de
-   agua a partir de hidrógeno y oxígeno. Descomposición: descomposición del agua
-   oxigenada.
-   **Retroalimentación:** Reconocer si los reactantes se combinan, se separan o
-   intercambian elementos permite clasificar el tipo de reacción química.
+3. *(Alternativas — Clasificar)* ¿Qué tipo de reacción corresponde a: (1) herrumbre en un clavo; (2) hidrógeno + oxígeno → agua; (3) agua oxigenada → agua + oxígeno al exponerla a la luz?
+   a) 1: síntesis; 2: descomposición; 3: oxidación
+   b) 1: descomposición; 2: oxidación; 3: síntesis
+   c) 1: sustitución; 2: síntesis; 3: oxidación
+   d) 1: oxidación; 2: síntesis; 3: descomposición
+   **Respuesta correcta:** d) 1: oxidación; 2: síntesis; 3: descomposición.
+   **Retroalimentación:** Reconocer si los reactantes se combinan, se separan o intercambian elementos permite clasificar la reacción.
 
-4. *(Desarrollo breve)* Explica la diferencia entre una reacción exotérmica y una
-   endotérmica, dando un ejemplo cotidiano de cada una.
-   **Respuesta esperada:** Una reacción exotérmica libera calor hacia el entorno (por
-   ejemplo, la combustión de gas en una cocina, que calienta el ambiente cercano); una
-   reacción endotérmica absorbe calor del entorno (por ejemplo, algunas reacciones que
-   se usan en compresas frías instantáneas, que se sienten frías porque absorben calor
-   del entorno al reaccionar).
-   **Retroalimentación:** El cambio de temperatura observado durante una reacción es
-   una evidencia directa de si el proceso libera o absorbe energía.
+4. *(Alternativas)* ¿Qué diferencia hay entre una reacción exotérmica y una endotérmica?
+   a) La exotérmica absorbe calor del entorno (compresa fría instantánea); la endotérmica libera calor (combustión de gas)
+   b) La exotérmica libera calor (combustión de gas); la endotérmica absorbe calor del entorno (compresa fría instantánea)
+   c) Ambas liberan calor al entorno, pero la exotérmica lo hace más rápido que la endotérmica
+   d) Ninguna intercambia energía con el entorno: la diferencia está solo en el color de los productos
+   **Respuesta correcta:** b) La exotérmica libera calor (combustión de gas); la endotérmica absorbe calor del entorno (compresa fría instantánea).
+   **Retroalimentación:** El cambio de temperatura observado es evidencia directa de si el proceso libera o absorbe energía.
 
-5. *(Análisis)* Explica por qué la combustión que ocurre en el motor de un automóvil y
-   la combustión que ocurre en un calefactor a parafina se consideran el mismo tipo de
-   reacción química, aunque tengan finalidades tan distintas (impulsar un vehículo
-   versus generar calor).
-   **Respuesta esperada:** Ambos procesos corresponden a una reacción de combustión: un
-   combustible reacciona rápidamente con el oxígeno del aire, liberando energía en
-   forma de calor y luz; la diferencia entre ambos casos está en cómo se aprovecha esa
-   energía liberada (en el motor, para generar movimiento; en el calefactor,
-   directamente como calor), no en el tipo de reacción química involucrada.
-   **Retroalimentación:** Reconocer el mismo tipo de reacción en contextos distintos
-   ayuda a comprender que los conceptos químicos son aplicables a múltiples situaciones
-   de la vida diaria.
+5. *(Alternativas — Análisis)* ¿Por qué la combustión en un motor y en un calefactor a parafina son el mismo tipo de reacción?
+   a) Porque ambos absorben calor del ambiente para funcionar, y así enfrían el lugar donde se encuentran
+   b) Porque en ambos se descompone agua en hidrógeno y oxígeno, y luego esos gases se queman por separado dentro del motor
+   c) Porque en ambos un combustible reacciona con el oxígeno liberando energía; solo cambia cómo se aprovecha esa energía
+   d) No son el mismo tipo de reacción
+   **Respuesta correcta:** c) Porque en ambos un combustible reacciona con el oxígeno liberando energía; solo cambia cómo se aprovecha esa energía.
+   **Retroalimentación:** Los conceptos químicos se aplican a múltiples situaciones de la vida diaria.
 
-6. *(Análisis experimental)* Un estudiante realiza el siguiente experimento: coloca
-   levadura, azúcar y agua tibia en un frasco cerrado con un globo en la boca del
-   frasco, y observa que, después de un tiempo, el globo comienza a inflarse.
-   Explica qué está ocurriendo y qué evidencia de reacción química se observa.
-   **Respuesta esperada:** La levadura realiza fermentación, transformando el azúcar y
-   liberando dióxido de carbono como uno de los productos de la reacción; ese gas se
-   acumula dentro del frasco y comienza a inflar el globo, lo que constituye la
-   evidencia observable (producción de gas) de que está ocurriendo una reacción
-   química.
-   **Retroalimentación:** Este experimento permite visualizar de forma sencilla y
-   segura la producción de gas como evidencia de una reacción química que ocurre
-   constantemente en procesos como la elaboración del pan.
+6. *(Alternativas — Análisis experimental)* Un frasco con levadura, azúcar y agua tibia, cerrado con un globo, infla el globo después de un tiempo. ¿Qué ocurre?
+   a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química
+   b) El agua tibia se evapora con el calor y el vapor llena el globo, sin que ocurra ninguna reacción química
+   c) El azúcar se derrite con el agua tibia y produce aire, que sube al globo porque es más liviano
+   d) No ocurre ninguna reacción química: el globo se infla solo por la diferencia de temperatura del frasco
+   **Respuesta correcta:** a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química.
+   **Retroalimentación:** Este proceso es el mismo que ocurre en la elaboración del pan.
 
-7. *(Evaluación/impacto ambiental)* Evalúa el siguiente enunciado: "las reacciones de
-   combustión son procesos completamente naturales y, por lo tanto, no representan
-   ningún riesgo para el ambiente." Justifica tu evaluación, considerando el impacto
-   de la combustión a gran escala.
-   **Respuesta esperada:** El enunciado es incorrecto: aunque la combustión es un tipo
-   de reacción química natural, la combustión de combustibles fósiles a gran escala
-   (en vehículos, industrias, centrales termoeléctricas) libera grandes cantidades de
-   dióxido de carbono y otros contaminantes a la atmósfera, contribuyendo al efecto
-   invernadero, al cambio climático y a la contaminación del aire, con consecuencias
-   negativas para los ecosistemas y la salud humana.
-   **Retroalimentación:** Que un proceso químico ocurra de forma natural no implica
-   que su uso a gran escala esté libre de consecuencias ambientales; la magnitud y la
-   frecuencia de un proceso también determinan su impacto.
+7. *(Alternativas — Evaluación)* "Las reacciones de combustión son procesos completamente naturales y, por lo tanto, no representan ningún riesgo para el ambiente." ¿Qué evaluación es correcta?
+   a) Es correcta: todo lo natural es inofensivo, y la combustión ocurre en la naturaleza desde siempre, por lo que el ambiente se adapta a sus efectos
+   b) Es correcta: la combustión no libera gases a la atmósfera, solo produce calor y luz, por lo que no puede afectar el aire ni el clima
+   c) Es incorrecta: la combustión no es una reacción química sino un cambio físico, y por eso no puede calificarse como un proceso natural
+   d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire
+   **Respuesta correcta:** d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire.
+   **Retroalimentación:** La magnitud y frecuencia de un proceso también determinan su impacto.
 
 ---
 
@@ -1426,10 +1256,10 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
 
 1. *(Alternativas)* ¿Qué ley química establece que la masa total de los reactantes
    debe ser igual a la masa total de los productos en una reacción química?
-   a) La ley de Avogadro
+   a) La ley de Avogadro sobre volúmenes de gases
    b) La ley de conservación de la materia
-   c) La ley de Ohm
-   d) La ley de los gases ideales
+   c) La ley de Ohm sobre la corriente eléctrica
+   d) La ley de los gases ideales y la presión
    **Respuesta correcta:** b) La ley de conservación de la materia.
    **Retroalimentación:** Esta ley es la base de la estequiometría: en una reacción
    química, los átomos se reorganizan pero no se crean ni se destruyen, por lo que la
@@ -1442,60 +1272,45 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
    (aproximadamente 6,02 × 10²³ partículas), sin importar de qué sustancia se trate;
    lo que sí varía entre sustancias es la masa que corresponde a un mol.
 
-3. *(Clasificar/verificar)* Determina si las siguientes ecuaciones químicas están
-   correctamente balanceadas o no: H₂ + O₂ → H₂O; 2H₂ + O₂ → 2H₂O; N₂ + 3H₂ → 2NH₃.
-   **Respuesta correcta:** H₂ + O₂ → H₂O: no está balanceada (2 átomos de oxígeno en
-   reactantes, 1 en productos). 2H₂ + O₂ → 2H₂O: sí está balanceada. N₂ + 3H₂ → 2NH₃:
-   sí está balanceada.
-   **Retroalimentación:** Para verificar si una ecuación está balanceada, se debe
-   contar la cantidad de átomos de cada elemento a ambos lados de la flecha y
-   comparar.
+3. *(Varias correctas — Verificar)* ¿Cuáles de estas ecuaciones están correctamente balanceadas? Marca **todas** las correctas.
+   a) 2H₂ + O₂ → 2H₂O
+   b) N₂ + 3H₂ → 2NH₃
+   c) H₂ + O₂ → H₂O
+   d) N₂ + H₂ → NH₃
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Se cuentan los átomos de cada elemento a ambos lados: H₂ + O₂ → H₂O tiene 2 oxígenos a la izquierda y 1 a la derecha.
 
-4. *(Desarrollo breve)* Explica por qué es necesario balancear una ecuación química
-   antes de realizar cálculos estequiométricos con ella.
-   **Respuesta esperada:** Porque una ecuación balanceada refleja correctamente la
-   proporción real en que reaccionan los átomos y moléculas, de acuerdo con la ley de
-   conservación de la materia; si la ecuación no está balanceada, los cálculos de
-   cantidades de reactantes o productos que se realicen a partir de ella serán
-   incorrectos, ya que no representarían fielmente la reacción real.
-   **Retroalimentación:** Balancear una ecuación es siempre el primer paso antes de
-   cualquier cálculo estequiométrico, sin importar la complejidad de la reacción.
+4. *(Alternativas)* ¿Por qué es necesario balancear una ecuación antes de hacer cálculos estequiométricos?
+   a) Porque las ecuaciones balanceadas son más cortas y fáciles de escribir en los cálculos
+   b) Porque solo así refleja la proporción real en que reaccionan las sustancias, según la conservación de la materia
+   c) Porque balancear cambia los productos de la reacción y permite obtener más cantidad de ellos
+   d) No es necesario balancearla, porque los coeficientes no influyen en los cálculos estequiométricos
+   **Respuesta correcta:** b) Porque solo así refleja la proporción real en que reaccionan las sustancias, según la conservación de la materia.
+   **Retroalimentación:** Balancear es siempre el primer paso antes de cualquier cálculo estequiométrico.
 
-5. *(Análisis/cálculo)* Según la ecuación balanceada N₂ + 3H₂ → 2NH₃ (formación de
-   amoníaco), si se hacen reaccionar completamente 2 moles de N₂, ¿cuántos moles de
-   H₂ se necesitan y cuántos moles de NH₃ se producen, manteniendo la proporción de
-   la ecuación?
-   **Respuesta correcta:** Se necesitan 6 moles de H₂ (2 × 3) y se producen 4 moles de
-   NH₃ (2 × 2).
-   **Retroalimentación:** Los coeficientes de una ecuación balanceada indican la
-   proporción exacta en que reaccionan y se forman las sustancias; multiplicar esa
-   proporción por la cantidad real de un reactante permite calcular las demás
-   cantidades.
+5. *(Alternativas — Cálculo)* Según N₂ + 3H₂ → 2NH₃, si reaccionan completamente 2 moles de N₂, ¿cuántos moles de H₂ se necesitan y cuántos de NH₃ se producen?
+   a) 3 moles de H₂ y 2 moles de NH₃
+   b) 6 moles de H₂ y 2 moles de NH₃
+   c) 6 moles de H₂ y 4 moles de NH₃
+   d) 5 moles de H₂ y 4 moles de NH₃
+   **Respuesta correcta:** c) 6 moles de H₂ y 4 moles de NH₃.
+   **Retroalimentación:** Los coeficientes indican la proporción: 2 × 3 = 6 de H₂ y 2 × 2 = 4 de NH₃.
 
-6. *(Análisis ambiental)* Explica, usando el concepto de estequiometría, cómo la
-   combustión de combustibles que contienen azufre puede contribuir a la formación de
-   lluvia ácida.
-   **Respuesta esperada:** La combustión de combustibles con azufre libera óxidos de
-   azufre a la atmósfera en proporciones que dependen de la cantidad de azufre
-   presente en el combustible; estos óxidos reaccionan químicamente, en proporciones
-   definidas, con el agua atmosférica, formando ácidos (como el ácido sulfúrico) que
-   luego precipitan junto con la lluvia, afectando el pH de suelos y cuerpos de agua.
-   **Retroalimentación:** Comprender las proporciones estequiométricas de una reacción
-   ambientalmente relevante permite, por ejemplo, estimar el impacto de reducir la
-   cantidad de azufre presente en un combustible.
+6. *(Alternativas — Análisis ambiental)* ¿Cómo contribuye la combustión de combustibles con azufre a la lluvia ácida?
+   a) Libera óxidos de azufre que reaccionan con el agua atmosférica formando ácidos (como el sulfúrico) que precipitan con la lluvia
+   b) El azufre neutraliza la lluvia y la vuelve más pura, por lo que reduce la acidez de los ríos y de los suelos cercanos
+   c) El azufre se transforma en oxígeno puro al quemarse, y ese oxígeno se disuelve en las gotas de lluvia sin cambiar su pH
+   d) No tiene ninguna relación con la lluvia
+   **Respuesta correcta:** a) Libera óxidos de azufre que reaccionan con el agua atmosférica formando ácidos (como el sulfúrico) que precipitan con la lluvia.
+   **Retroalimentación:** Conocer las proporciones permite estimar el impacto de reducir el azufre de un combustible.
 
-7. *(Aplicación/análisis)* Usando la ecuación simplificada de la fotosíntesis
-   (6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂), explica por qué se dice que la fotosíntesis, además
-   de producir glucosa (un compuesto útil como fuente de energía para los seres
-   vivos), contribuye a capturar dióxido de carbono atmosférico.
-   **Respuesta esperada:** Según la ecuación balanceada, por cada molécula de glucosa
-   producida se consumen 6 moléculas de dióxido de carbono atmosférico; esto significa
-   que, a mayor cantidad de fotosíntesis realizada por la vegetación de un ecosistema,
-   mayor es la cantidad de CO₂ atmosférico que se incorpora a la materia orgánica, lo
-   que relaciona directamente la fotosíntesis con la regulación del CO₂ atmosférico.
-   **Retroalimentación:** La estequiometría permite pasar de una explicación cualitativa
-   (la fotosíntesis "captura" CO₂) a una comprensión cuantitativa de cuánto CO₂ se
-   necesita para producir una determinada cantidad de glucosa.
+7. *(Alternativas — Aplicación)* Según 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, ¿por qué la fotosíntesis contribuye a capturar CO₂ atmosférico?
+   a) Porque libera CO₂ a la atmósfera, que luego las plantas vuelven a absorber
+   b) Porque por cada molécula de glucosa se consume solo 1 molécula de agua
+   c) Porque no tiene relación con el CO₂: solo produce oxígeno para respirar
+   d) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂
+   **Respuesta correcta:** d) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂.
+   **Retroalimentación:** La estequiometría permite pasar de una explicación cualitativa a una comprensión cuantitativa.
 
 ---
 

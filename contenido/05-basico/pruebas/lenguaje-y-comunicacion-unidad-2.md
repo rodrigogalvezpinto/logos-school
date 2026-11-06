@@ -28,21 +28,26 @@ narraciones creativas), N°15 (Escribo artículos informativos).
 
 **1. (Alternativas)** ¿Quién es el **emisor** del afiche de la Feria Científica?
 
-a) Los estudiantes de 5° básico
-b) El Departamento de Ciencias de la Escuela Los Aromos
-c) El Ministerio de Educación
-d) Una empresa de robótica
+a) Los estudiantes de 5° básico que presentarán sus proyectos
+b) El Ministerio de Educación, que organiza todas las ferias
+c) El Departamento de Ciencias de la Escuela Los Aromos
+d) Una empresa de robótica que vende material para la feria
 
 **2. (Verdadero o Falso)** El propósito principal del afiche es informar sobre resultados científicos detallados de las investigaciones de los estudiantes.
 
 **3. (Alternativas)** ¿Quién es el **destinatario** principal del afiche?
 
-a) Solo los profesores de la escuela
-b) La comunidad escolar y el público en general interesado en ciencia
-c) Únicamente estudiantes universitarios
-d) Los proveedores de material de robótica
+a) Solo los profesores de la escuela que evaluarán los proyectos
+b) Los proveedores de material de robótica que venderán en la feria
+c) Únicamente estudiantes universitarios interesados en investigar
+d) La comunidad escolar y el público en general interesado en ciencia
 
-**4. (Aplicación)** Imagina que quieres saber "cuáles son los requisitos para participar como expositor en la feria del próximo año". ¿El afiche entrega esa información? ¿Qué deberías hacer para conseguirla?
+**4. (Alternativas)** Imagina que quieres saber "cuáles son los requisitos para participar como expositor en la feria del próximo año". ¿Qué deberías hacer?
+
+a) Contactar al Departamento de Ciencias de la escuela, porque el afiche no entrega esa información
+b) Leer el afiche con atención, porque ahí están todos los requisitos para participar el próximo año
+c) Asumir que no hay requisitos, porque el afiche no los menciona y cualquiera puede exponer
+d) Preguntarle a cualquier persona en la calle, porque seguro alguien conoce los requisitos de la feria
 
 ---
 
@@ -50,21 +55,26 @@ d) Los proveedores de material de robótica
 
 **5. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor un relato con **conflicto evidente**?
 
-a) Un relato donde solo se cuenta una rutina diaria sin ningún problema
-b) Un relato donde el personaje enfrenta una dificultad que debe resolver a lo largo de la historia
-c) Un relato compuesto únicamente de descripciones de paisajes
-d) Un relato que solo tiene diálogos, sin ninguna acción
+a) Un relato donde solo se cuenta la rutina diaria de un personaje, sin ningún problema que resolver
+b) Un relato compuesto únicamente de descripciones de paisajes, colores y olores, sin acciones
+c) Un relato donde el personaje enfrenta una dificultad que debe resolver a lo largo de la historia
+d) Un relato que solo tiene diálogos entre los personajes, sin ninguna acción ni dificultad
 
 **6. (Verdadero o Falso)** Los diálogos en un cuento sirven únicamente para hacer más largo el texto, sin aportar información relevante a la trama.
 
-**7. (Aplicación)** Escribe una breve descripción (2 a 3 oraciones) del ambiente de un mercado persa en un día de mucho calor, usando al menos dos detalles sensoriales (algo que se vea, se escuche, se huela o se sienta).
+**7. (Alternativas)** ¿Qué descripción del ambiente de un mercado persa en un día de mucho calor usa detalles sensoriales?
+
+a) Hacía mucho calor ese día en el mercado persa, y había mucha gente comprando en todos los puestos.
+b) El mercado persa es un lugar donde se venden muchas cosas distintas, como ropa, comida y juguetes.
+c) Fui al mercado persa con mi familia un día de mucho calor, compramos sopaipillas, ropa y juguetes, y después volvimos a mi casa en micro, muy cansados.
+d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas
 
 **8. (Alternativas)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar un cambio inesperado?
 
-a) "Y, y, y, y"
-b) "Primero, luego, sin embargo, finalmente"
-c) "Rojo, azul, verde, amarillo"
-d) "Casa, perro, gato, árbol"
+a) "Primero, luego, sin embargo, finalmente"
+b) "Además, también, asimismo, igualmente"
+c) "Porque, ya que, puesto que, debido a"
+d) "Por ejemplo, es decir, o sea, como"
 
 ---
 
@@ -79,28 +89,33 @@ d) Describir físicamente al autor del texto
 
 **10. (Verdadero o Falso)** Un buen artículo informativo puede desarrollar varias ideas centrales distintas dentro de un mismo párrafo, sin necesidad de separar en párrafos distintos.
 
-**11. (Desarrollo breve)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
+**11. (Alternativas)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
+
+a) Porque así el artículo es más largo y ocupa más espacio en la página
+b) Porque permite verificar de dónde proviene la información y muestra que se basa en datos confiables
+c) Porque es obligatorio poner el nombre del autor dos veces en el artículo, al principio y al final del texto
+d) No es importante, porque el lector confía en lo que dice quien escribe
 
 **12. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el reciclaje?
 
-a) "Reciclar es bueno. Reciclar ayuda. Reciclar es importante. Reciclar se debe hacer."
+a) "Reciclar es bueno. Reciclar ayuda. Reciclar es importante. Reciclar se debe hacer. Reciclar sirve para todos y reciclar es necesario en la escuela."
 b) "Reciclar contribuye a reducir la contaminación, disminuye la cantidad de residuos en los vertederos y permite reutilizar materiales valiosos."
-c) "Reciclar reciclar reciclar es lo mejor lo mejor."
-d) "El reciclaje reciclaje reciclaje ayuda ayuda ayuda."
+c) "Reciclar reciclar reciclar es lo mejor lo mejor, porque reciclar es reciclar y reciclar ayuda."
+d) "El reciclaje reciclaje reciclaje ayuda ayuda ayuda, y el reciclaje es reciclaje en todas partes."
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** Retroalimentación: el texto indica al final "— Departamento de Ciencias, Escuela Los Aromos", que corresponde al emisor.
+1. **c.** Retroalimentación: el texto indica al final "— Departamento de Ciencias, Escuela Los Aromos", que corresponde al emisor.
 2. **Falso.** Retroalimentación: el propósito principal del afiche es **invitar** a la comunidad a asistir al evento, no informar en detalle sobre los resultados de las investigaciones.
-3. **b.** Retroalimentación: el afiche usa un lenguaje amplio ("te invita", "para todo público") que muestra que está dirigido a la comunidad escolar y a cualquier persona interesada.
-4. *Respuesta esperada*: el afiche no entrega esa información, ya que solo informa sobre la fecha, horario, lugar y actividades de la feria de este año; para conocer los requisitos de participación como expositor, deberías contactar directamente al Departamento de Ciencias de la escuela.
-5. **b.** Retroalimentación: el conflicto es el motor de una narración: sin un problema o dificultad que el personaje deba enfrentar y resolver, la historia carece de tensión.
+3. **d.** Retroalimentación: el afiche usa un lenguaje amplio ("te invita", "para todo público") que muestra que está dirigido a la comunidad escolar y a cualquier persona interesada.
+4. a) Contactar al Departamento de Ciencias de la escuela, porque el afiche no entrega esa información. El afiche solo informa fecha, horario, lugar y actividades de la feria de este año; el emisor del texto puede tener esa información.
+5. **c.** Retroalimentación: el conflicto es el motor de una narración: sin un problema o dificultad que el personaje deba enfrentar y resolver, la historia carece de tensión.
 6. **Falso.** Retroalimentación: un buen diálogo aporta información relevante: puede revelar la personalidad de un personaje, introducir un conflicto o mostrar la relación entre los personajes.
-7. *Respuesta esperada*: cualquier descripción que incluya detalles sensoriales concretos, por ejemplo: "El sol caía con fuerza sobre las carpas de colores del mercado persa. Se sentía el olor a especias mezclado con el de las sopaipillas recién fritas, mientras los vendedores gritaban sus ofertas entre el bullicio de la gente."
-8. **b.** Retroalimentación: "primero" y "luego" ordenan los sucesos en el tiempo, "sin embargo" indica un cambio o contraste inesperado, y "finalmente" marca el cierre del relato.
+7. d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas. Una buena descripción usa detalles concretos de lo que se ve, se huele o se escucha.
+8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos en el tiempo, "sin embargo" indica un cambio o contraste inesperado, y "finalmente" marca el cierre del relato.
 9. **a.** Retroalimentación: la primera oración de un artículo informativo debe presentar claramente el tema, para que quien lee sepa de inmediato de qué tratará el texto completo.
 10. **Falso.** Retroalimentación: cada párrafo debe desarrollar **una idea central**, separada de las demás mediante punto aparte.
-11. *Respuesta esperada*: porque permite que el lector verifique de dónde proviene la información, y muestra que el texto se basa en datos confiables y no solo en opiniones o inventos del autor.
+11. b) Porque permite verificar de dónde proviene la información y muestra que se basa en datos confiables
 12. **b.** Retroalimentación: la opción b) evita repetir la palabra "reciclar" en cada oración, usando sinónimos y expresiones distintas, lo que hace el texto más claro y agradable de leer.

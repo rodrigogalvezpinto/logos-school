@@ -23,8 +23,7 @@ ultima_actualizacion: 2026-10-28
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **clasificar**, **desarrollo breve** y **análisis** se responden
-   con tus propias palabras; las de **cálculo** requieren mostrar el procedimiento.
+4. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas. En las de cálculo, resuelve en tu cuaderno antes de elegir.
 5. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
 
@@ -37,27 +36,37 @@ ultima_actualizacion: 2026-10-28
 tiempo?
 
 a) La aceleración
-b) La velocidad
+b) La posición inicial
 c) La distancia recorrida
-d) La posición inicial
+d) La velocidad
 
 **Pregunta 2.** (Verdadero o falso)
 En el movimiento rectilíneo uniforme (MRU), la velocidad de un objeto cambia
 constantemente en el tiempo.
 
-**Pregunta 3.** (Clasificar)
-Clasifica cada situación como MRU o MRUA: un auto que viaja en línea recta por una
-carretera a velocidad constante de 100 km/h; un auto que frena en línea recta
-disminuyendo su velocidad de forma constante hasta detenerse; un objeto en caída
-libre cerca de la superficie terrestre.
+**Pregunta 3.** (Varias correctas — Clasificar)
+¿Cuáles de estas situaciones corresponden a un **MRUA**? Marca **todas** las correctas.
 
-**Pregunta 4.** (Desarrollo breve)
-Explica la diferencia entre distancia recorrida y desplazamiento, dando un ejemplo
-en que ambas magnitudes sean distintas.
+a) Un auto que frena en línea recta disminuyendo su velocidad de forma constante
+b) Un objeto en caída libre cerca de la superficie terrestre
+c) Un auto que viaja en línea recta a 100 km/h constantes
+d) Un objeto en reposo sobre una mesa
 
-**Pregunta 5.** (Análisis/cálculo)
-Un ciclista parte del reposo y acelera de manera constante, alcanzando una velocidad
-de 12 m/s luego de 6 segundos. Calcula su aceleración.
+**Pregunta 4.** (Alternativas)
+Una persona camina 100 m al norte y regresa al punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?
+
+a) Distancia: 200 m; desplazamiento: 0
+b) Distancia: 0; desplazamiento: 200 m
+c) Distancia y desplazamiento: 100 m
+d) Distancia y desplazamiento: 200 m
+
+**Pregunta 5.** (Alternativas — Cálculo)
+Un ciclista parte del reposo y alcanza 12 m/s en 6 segundos con aceleración constante. ¿Cuál es su aceleración?
+
+a) 72 m/s²
+b) 0,5 m/s²
+c) 6 m/s²
+d) 2 m/s²
 
 ---
 
@@ -76,21 +85,29 @@ d) Ninguno de los dos acelerará
 Según la tercera ley de Newton, las fuerzas de acción y reacción actúan sobre el
 mismo cuerpo, por lo que se anulan entre sí.
 
-**Pregunta 8.** (Clasificar)
-Clasifica cada situación según la ley de Newton que ilustra principalmente (primera,
-segunda o tercera): un cohete expulsa gases hacia abajo y se impulsa hacia arriba;
-un objeto en reposo sobre una mesa permanece en reposo mientras no actúe una fuerza
-neta sobre él; al aplicar el doble de fuerza sobre un mismo objeto, su aceleración
-se duplica.
+**Pregunta 8.** (Alternativas — Clasificar)
+¿Qué ley de Newton ilustra cada situación: (1) un cohete expulsa gases hacia abajo y sube; (2) un objeto en reposo permanece así sin fuerza neta; (3) al duplicar la fuerza sobre un objeto, su aceleración se duplica?
 
-**Pregunta 9.** (Desarrollo breve)
-Explica, usando la primera ley de Newton, por qué es importante usar cinturón de
-seguridad en un vehículo.
+a) 1: primera; 2: segunda; 3: tercera
+b) 1: tercera; 2: primera; 3: segunda
+c) 1: segunda; 2: tercera; 3: primera
+d) 1: tercera; 2: segunda; 3: primera
 
-**Pregunta 10.** (Análisis/cálculo con diagrama de cuerpo libre)
-Un objeto de 5 kg descansa sobre una superficie horizontal. Sobre él actúa una
-fuerza horizontal aplicada de 15 N, y una fuerza de roce de 5 N en sentido
-contrario. Calcula la fuerza neta y la aceleración del objeto.
+**Pregunta 9.** (Alternativas)
+Según la primera ley de Newton, ¿por qué es importante el cinturón de seguridad?
+
+a) Porque aumenta la velocidad del auto en un frenazo, de modo que el vehículo se detiene antes y el cuerpo del pasajero no alcanza a moverse
+b) Porque elimina la gravedad durante el choque: al anular el peso del pasajero, el cuerpo deja de tener inercia y queda fijo en el asiento
+c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo
+d) Porque la primera ley no se aplica a los pasajeros, solo al vehículo; el cinturón sirve para que la fuerza del motor actúe también sobre el cuerpo
+
+**Pregunta 10.** (Alternativas — Cálculo)
+Un objeto de 5 kg recibe una fuerza horizontal de 15 N y un roce de 5 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
+
+a) 10 N y 2 m/s²
+b) 20 N y 4 m/s²
+c) 10 N y 50 m/s²
+d) 15 N y 3 m/s²
 
 ---
 
@@ -110,58 +127,45 @@ Las observaciones de Galileo Galilei con el telescopio, como las lunas de Júpit
 las fases de Venus, contradecían el modelo heliocéntrico y apoyaban el modelo
 geocéntrico.
 
-**Pregunta 13.** (Clasificar)
-Clasifica el aporte principal de cada científico al estudio del Universo: propuso el
-modelo heliocéntrico; realizó observaciones astronómicas de gran precisión sin
-telescopio; observó las lunas de Júpiter y las fases de Venus; explicó
-matemáticamente, mediante la gravitación, por qué los planetas orbitan el Sol.
+**Pregunta 13.** (Alternativas — Clasificar)
+¿Qué aporte corresponde a cada científico: heliocentrismo; observaciones precisas sin telescopio; lunas de Júpiter y fases de Venus; gravitación de los planetas?
 
-**Pregunta 14.** (Análisis de evidencia)
-Explica cómo el corrimiento al rojo observado en la luz de galaxias lejanas
-constituye evidencia a favor de la teoría del Big Bang.
+a) Galileo, Newton, Copérnico y Brahe
+b) Brahe, Copérnico, Newton y Galileo
+c) Newton, Galileo, Brahe y Copérnico
+d) Copérnico, Brahe, Galileo y Newton
+
+**Pregunta 14.** (Alternativas — Análisis de evidencia)
+¿Cómo el corrimiento al rojo de galaxias lejanas apoya la teoría del Big Bang?
+
+a) Indica que las galaxias se acercan a la Tierra, y más rápido mientras más lejanas están, lo que es consistente con un universo que se contrae hacia un punto
+b) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso
+c) Indica que el universo está detenido: el color rojo se debe al polvo que hay entre las galaxias, que absorbe la luz azul a lo largo del camino
+d) Indica que las galaxias son rojas porque sus estrellas son viejas y frías, lo que demuestra que el universo tiene una edad fija y no cambia
 
 ---
 
 ## Pauta de corrección
 
-1. b) La velocidad. En un gráfico de posición vs. tiempo, la pendiente de la recta
+1. d) La velocidad. En un gráfico de posición vs. tiempo, la pendiente de la recta
    (o de la tangente, en un movimiento no uniforme) representa la velocidad del
    objeto.
 2. Falso — en el MRU la velocidad se mantiene constante; es en el MRUA donde la
    velocidad cambia de manera constante en el tiempo, debido a la aceleración.
-3. MRU: auto que viaja a velocidad constante. MRUA: auto que frena disminuyendo su
-   velocidad de forma constante; objeto en caída libre (acelera constantemente por
-   efecto de la gravedad).
-4. La distancia recorrida es la longitud total del camino recorrido (magnitud
-   escalar); el desplazamiento es el cambio de posición entre el punto inicial y el
-   final (magnitud vectorial). Por ejemplo, si una persona camina 100 m hacia el
-   norte y luego regresa los mismos 100 m, la distancia recorrida es 200 m, pero el
-   desplazamiento es 0.
-5. Aceleración = (velocidad final − velocidad inicial) / tiempo = (12 m/s − 0 m/s) /
-   6 s = 2 m/s².
+3. a y b — En el MRUA la velocidad cambia de manera constante; a velocidad constante es MRU.
+4. a) Distancia: 200 m; desplazamiento: 0. La distancia es la longitud total del camino (escalar); el desplazamiento es el cambio de posición entre inicio y final (vectorial).
+5. d) 2 m/s². A = (12 − 0)/6 = 2 m/s²: su velocidad aumenta 2 m/s cada segundo.
 6. b) El de menor masa. Según fuerza neta = masa × aceleración, para una misma
    fuerza neta, la aceleración es inversamente proporcional a la masa.
 7. Falso — las fuerzas de acción y reacción actúan siempre sobre cuerpos distintos,
    por lo que nunca se anulan entre sí.
-8. Tercera ley: el cohete y los gases expulsados. Primera ley: el objeto en reposo
-   sobre la mesa. Segunda ley: la relación proporcional entre fuerza y aceleración.
-9. El cuerpo de un pasajero tiende a mantener su estado de movimiento aunque el
-   vehículo se detenga bruscamente (inercia); el cinturón de seguridad ejerce una
-   fuerza sobre el cuerpo del pasajero para cambiar ese estado de movimiento junto
-   con el vehículo, evitando lesiones graves.
-10. Fuerza neta = 15 N − 5 N = 10 N (en el sentido de la fuerza aplicada).
-    Aceleración = fuerza neta / masa = 10 N / 5 kg = 2 m/s².
+8. b) 1: tercera; 2: primera; 3: segunda. Inercia, vínculo cuantitativo fuerza-aceleración e interacción entre cuerpos.
+9. c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo. El cinturón es la fuerza externa que modifica de forma segura el estado de movimiento.
+10. a) 10 N y 2 m/s². Fuerza neta: 15 − 5 = 10 N; a = 10 N / 5 kg = 2 m/s².
 11. c) Claudio Ptolomeo. Sistematizó el modelo geocéntrico, que situaba a la Tierra
     inmóvil en el centro del Universo.
 12. Falso — las observaciones de Galileo apoyaron el modelo heliocéntrico: las lunas
     de Júpiter demostraron que no todo gira en torno a la Tierra, y las fases de
     Venus eran consistentes con que este planeta orbita el Sol.
-13. Copérnico: propuso el modelo heliocéntrico. Brahe: observaciones astronómicas de
-    gran precisión sin telescopio. Galileo: observó las lunas de Júpiter y las fases
-    de Venus. Newton: explicó matemáticamente, mediante la gravitación, la órbita de
-    los planetas.
-14. El corrimiento al rojo indica que las galaxias lejanas se alejan de la Tierra, y
-    mientras más lejana está una galaxia, mayor es su corrimiento al rojo; este
-    patrón es consistente con un Universo que se expande en todas direcciones desde
-    un estado inicial mucho más denso y compacto, tal como propone la teoría del Big
-    Bang.
+13. d) Copérnico, Brahe, Galileo y Newton. La revolución astronómica fue un proceso acumulativo con aportes de varios científicos.
+14. b) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso. Junto con la radiación cósmica de fondo, es una de las principales evidencias del Big Bang.

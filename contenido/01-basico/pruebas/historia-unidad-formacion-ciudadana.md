@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
-oa_por_pregunta: {"2":"OA 14","5":"OA 15"}
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","5":"OA 15"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
@@ -22,23 +22,26 @@ ultima_actualizacion: 2026-10-28
 **1.** Antes de cruzar la calle, ¿qué es lo primero que debes hacer?
 
 a) Correr rápido
-b) Mirar hacia ambos lados
+b) Gritar fuerte
 c) Cerrar los ojos
-d) Gritar fuerte
+d) Mirar hacia ambos lados
 
 ---
 
 **2.** No es necesario respetar los semáforos si no hay autos cerca.
 
-¿Verdadero o falso? _______________
+¿Verdadero o falso?
+
+a) Verdadero
+b) Falso
 
 ---
 
 **3.** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el profesor está explicando?
 
-a) Gritar mi idea
-b) Levantar la mano y esperar mi turno
-c) Interrumpir sin avisar
+a) Levantar la mano y esperar mi turno
+b) Decir mi idea en voz muy alta
+c) Hablar al mismo tiempo que el profesor
 d) Pararme y caminar por la sala
 
 ---
@@ -54,7 +57,10 @@ d) La escuela
 
 **5.** Carabineros de Chile se encarga de cuidar la seguridad de las personas.
 
-¿Verdadero o falso? _______________
+¿Verdadero o falso?
+
+a) Verdadero
+b) Falso
 
 ---
 
@@ -78,9 +84,9 @@ d) A ningún lugar, porque no es importante
 
 ## Pauta de respuestas
 
-1. b) Mirar hacia ambos lados
+1. d) Mirar hacia ambos lados
 2. Falso
-3. b) Levantar la mano y esperar mi turno
+3. a) Levantar la mano y esperar mi turno
 4. b) El hospital o la posta
 5. Verdadero
 6. b) La municipalidad

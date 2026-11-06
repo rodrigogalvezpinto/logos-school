@@ -26,7 +26,7 @@ basado_en: >
 1. Esta prueba contiene **20 preguntas en total**, que combinan las cuatro asignaturas: Lenguaje y Comunicación, Matemática, Ciencias Naturales, e Historia, Geografía y Ciencias Sociales. Las preguntas **no están agrupadas por asignatura**: van mezcladas, igual que en el examen real.
 2. Tiempo total para rendir la prueba: **90 minutos**.
 3. Rinde la prueba **sin libros, apuntes ni celulares**, y **sin la ayuda de un apoderado** durante el desarrollo de las preguntas, tal como se rinde el examen real. Un adulto puede leerte las instrucciones o una pregunta en voz alta si lo necesitas, pero las respuestas deben ser tuyas.
-4. Hay preguntas de **alternativas** (marca una sola opción con una X), de **verdadero o falso**, y de **desarrollo o respuesta abierta** (responde con tus palabras o mostrando tu procedimiento, según corresponda).
+4. Hay preguntas de **alternativas** (marca una sola opción con una X) y de **verdadero o falso**. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el estímulo antes de contestar.
 6. Puedes usar lápiz, goma y, en las preguntas de Matemática, material concreto o dibujos para resolver.
 7. Al terminar, revisa tus respuestas. Al final de este documento está la **Pauta de Corrección** para autoevaluarte.
@@ -53,9 +53,14 @@ d) No se puede saber
 
 ---
 
-**3. (Ciencias Naturales — Desarrollo breve)** [Imagen: un mapa de Chile con un cactus dibujado en el norte y una araucaria dibujada en el sur]
+**3. (Ciencias Naturales — Alternativas)** [Imagen: un mapa de Chile con un cactus dibujado en el norte y una araucaria dibujada en el sur]
 
-Explica por qué el cactus crece de forma nativa en el norte de Chile y la araucaria en el sur, y no al revés.
+¿Por qué el cactus crece de forma nativa en el norte de Chile y la araucaria en el sur, y no al revés?
+
+a) Porque cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte y la araucaria necesita el clima frío y lluvioso del sur
+b) Porque en el norte hay más agua que en el sur, y el cactus necesita mucha agua para crecer, mientras que la araucaria prefiere los lugares secos
+c) Porque las personas las plantaron así al azar hace muchos años, y cualquiera de las dos plantas podría crecer igual de bien en cualquier zona
+d) Porque el cactus necesita nieve para crecer y la araucaria necesita el calor del desierto, así que cada una busca el clima contrario
 
 ---
 
@@ -78,22 +83,27 @@ El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 **5. (Matemática — Alternativas)** En el número 743, ¿cuánto vale el dígito 4?
 
 a) 4
-b) 743
+b) 40
 c) 400
-d) 40
+d) 743
 
 ---
 
 **6. (Historia, Geografía y Cs. Sociales — Alternativas)** Los **Juegos Olímpicos** nacieron en la antigua Grecia como una competencia deportiva y hoy se siguen realizando cada cuatro años en distintos países del mundo. ¿Qué nos muestra este ejemplo?
 
 a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma
-b) Que todas las costumbres de la Antigüedad han desaparecido por completo
-c) Que los Juegos Olímpicos se inventaron el siglo pasado
-d) Que solo Grecia puede organizar los Juegos Olímpicos
+b) Que todas las costumbres de la Antigüedad han desaparecido por completo con el tiempo
+c) Que los Juegos Olímpicos se inventaron el siglo pasado y no tienen relación con Grecia
+d) Que solo Grecia puede organizar los Juegos Olímpicos, porque allí nacieron
 
 ---
 
-**7. (Ciencias Naturales — Desarrollo breve)** Explica con tus palabras qué significa "reutilizar" un objeto y da un ejemplo distinto a los vistos en clases.
+**7. (Ciencias Naturales — Alternativas)** ¿Qué significa "reutilizar" un objeto, y cuál es un buen ejemplo?
+
+a) Transformar un material en uno nuevo en una fábrica; por ejemplo, convertir botellas en fibra
+b) Comprar menos cosas; por ejemplo, no comprar bolsas
+c) Botar los objetos al basurero correcto
+d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidrio para guardar lápices
 
 ---
 
@@ -129,12 +139,17 @@ d) Osorno
 
 a) Que los zapallos literalmente se mueven lentos como personas
 b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas
-c) Que los zapallos cambian de tamaño mientras duermen
-d) Que los zapallos hacen ruido mientras crecen
+c) Que los zapallos cambian de tamaño solo mientras duermen en la noche
+d) Que los zapallos hacen un ruido muy suave mientras van creciendo
 
 ---
 
-**10. (Matemática — Desarrollo, muestra tu desarrollo)** En un galpón hay 9 cajas, y cada caja tiene 6 botellas de mermelada. ¿Cuántas botellas hay en total?
+**10. (Matemática — Alternativas)** En un galpón hay 9 cajas, y cada caja tiene 6 botellas de mermelada. ¿Cuántas botellas hay en total?
+
+a) 15 botellas
+b) 45 botellas
+c) 54 botellas
+d) 63 botellas
 
 ---
 
@@ -147,9 +162,14 @@ d) Continente africano, océano Ártico
 
 ---
 
-**12. (Ciencias Naturales — Desarrollo breve)** [Imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas]
+**12. (Ciencias Naturales — Alternativas)** [Imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas]
 
-¿Por qué esta colación no es la opción más saludable para comer todos los días? Explica tu respuesta.
+¿Por qué esta colación no es la opción más saludable para comer todos los días?
+
+a) Porque es muy cara y no alcanza para comprarla todos los días
+b) Porque tiene demasiadas verduras y muy pocas golosinas para el recreo
+c) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
+d) Porque no tiene colores llamativos y a los niños no les gusta comerla
 
 ---
 
@@ -182,33 +202,50 @@ d) "Glosario"
 
 ---
 
-**14. (Matemática — Desarrollo, muestra tu desarrollo)** Cinco amigos vendieron artesanías en una plaza y ganaron $2 350 en total, que quieren repartir en partes iguales. ¿Cuánto dinero recibe cada uno?
+**14. (Matemática — Alternativas)** Cinco amigos vendieron artesanías en una plaza y ganaron $2 350 en total, que quieren repartir en partes iguales. ¿Cuánto dinero recibe cada uno?
+
+a) $470 cada uno
+b) $2 345 cada uno
+c) $11 750 cada uno
+d) $407 cada uno
 
 ---
 
-**15. (Historia, Geografía y Cs. Sociales — Desarrollo breve)** Nombra una estrategia (de vivienda, vestimenta o alimentación) que usan las personas de la **zona fría** del planeta para poder vivir a pesar de las temperaturas tan bajas.
+**15. (Historia, Geografía y Cs. Sociales — Varias correctas)** ¿Qué estrategias (de vivienda, vestimenta o alimentación) usan las personas de la **zona fría** del planeta para poder vivir a pesar de las temperaturas tan bajas?
+
+*(Varias correctas: marca todas las alternativas correctas.)*
+
+a) Viviendas muy aisladas, como el iglú
+b) Ropa abrigada de pieles
+c) Viviendas abiertas y elevadas del suelo
+d) Alimentación basada en caza y pesca
 
 ---
 
-**16. (Ciencias Naturales — Desarrollo breve)** Explica con tus palabras la diferencia entre el tono y la intensidad de un sonido, dando un ejemplo de cada uno.
+**16. (Ciencias Naturales — Alternativas)** ¿Qué afirmación explica bien la diferencia entre el tono y la intensidad de un sonido?
+
+a) El tono indica si es fuerte o débil; la intensidad, si es agudo o grave
+b) Tono e intensidad significan lo mismo
+c) La intensidad indica de qué color es el sonido
+d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil
 
 ---
 
 **17. (Lenguaje y Comunicación — Alternativas)** Un texto habla primero sobre lo que un niño hizo en la mañana y después, en otro tema, sobre lo que hizo en la tarde. ¿Qué debería hacer para organizar bien esas dos ideas?
 
-a) Escribir todo junto, sin separar las ideas
+a) Escribir todo junto en un solo párrafo, sin separar las ideas
 b) Escribir cada idea en un párrafo distinto, separados por punto aparte
-c) Repetir la misma idea dos veces
-d) Escribir solo sobre la mañana y olvidar la tarde
+c) Repetir la misma idea dos veces, en la mañana y en la tarde
+d) Escribir solo sobre la mañana y olvidar lo que hizo en la tarde
 
 ---
 
 **18. (Matemática — Alternativas)** ¿Qué figura 3D se forma al doblar una red compuesta por 1 cuadrado en el centro y 4 triángulos alrededor?
 
-a) Cubo
-b) Cilindro
+a) Cubo de seis caras
+b) Cilindro con dos bases
 c) Pirámide de base cuadrada
-d) Cono
+d) Prisma de base cuadrada
 
 ---
 
@@ -236,7 +273,7 @@ d) El derecho a la nacionalidad
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -250,20 +287,20 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------------|------------------------------------------|-------------|
 | 1 | Historia, Geografía y Cs. Sociales | **d) Con un edificio de departamentos.** | OA 3 |
 | 2 | Matemática | **c) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
-| 3 | Ciencias Naturales | Cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte; la araucaria necesita el clima frío y lluvioso del sur. | OA 2 |
+| 3 | Ciencias Naturales | **a) Porque cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte y la araucaria necesita el clima frío y lluvioso del sur.** | OA 2 |
 | 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
-| 5 | Matemática | **d) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
+| 5 | Matemática | **b) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
 | 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
-| 7 | Ciencias Naturales | Reutilizar es volver a usar un objeto para el mismo fin u otro distinto, sin procesarlo; se acepta cualquier ejemplo razonable. | OA 5 |
+| 7 | Ciencias Naturales | **d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidrio para guardar lápices.** Reutilizar es darle otro uso al objeto sin procesarlo; transformarlo en fábrica es reciclar y comprar menos es reducir. | OA 5 |
 | 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
 | 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
-| 10 | Matemática | 9×6=**54 botellas**. | OA 8 |
+| 10 | Matemática | **c) 54 botellas.** 9 × 6 = 54. | OA 8 |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
-| 12 | Ciencias Naturales | Porque tiene alimentos altos en grasas, azúcar y sal, y no incluye alimentos reguladores como frutas o verduras. | OA 6 |
+| 12 | Ciencias Naturales | **c) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** No incluye alimentos reguladores; consumirla con frecuencia puede ser perjudicial para la salud. | OA 6 |
 | 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
-| 14 | Matemática | 2350÷5=**$470 cada uno**. | OA 10 |
-| 15 | Historia, Geografía y Cs. Sociales | Cualquier estrategia real y coherente con la zona fría (vivienda muy aislada como el iglú, ropa abrigada de pieles, alimentación basada en caza y pesca, entre otras). | OA 8 |
-| 16 | Ciencias Naturales | El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. Se acepta cualquier ejemplo coherente. | OA 10 |
+| 14 | Matemática | **a) $470 cada uno.** 2 350 ÷ 5 = 470 (comprobación: 5 × 470 = 2 350). | OA 10 |
+| 15 | Historia, Geografía y Cs. Sociales | **a, b y d.** Son estrategias de la zona fría; las viviendas abiertas y elevadas son propias de la zona cálida. | OA 8 |
+| 16 | Ciencias Naturales | **d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil.** Un silbido es agudo y un rugido grave (tono); una bocina es fuerte y un susurro débil (intensidad). | OA 10 |
 | 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** | OA 17 |
 | 18 | Matemática | **c) Pirámide de base cuadrada.** | OA 15 |
 | 19 | Ciencias Naturales | **b) La rotación.** | OA 12 |
@@ -280,18 +317,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 3 | 0 | 1 |
-| OA 3 | 1, 2 | 2 | 0 |
-| OA 4 | 4, 6 | 1 | 1 |
-| OA 5 | 5, 7, 8, 9 | 3 | 1 |
-| OA 6 | 12, 13 | 1 | 1 |
-| OA 7 | 11 | 1 | 0 |
-| OA 8 | 10, 15 | 0 | 2 |
-| OA 10 | 14, 16 | 0 | 2 |
-| OA 12 | 19 | 1 | 0 |
-| OA 14 | 20 | 1 | 0 |
-| OA 15 | 18 | 1 | 0 |
-| OA 17 | 17 | 1 | 0 |
-| **Total** | **20 preguntas** | **12** | **8** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 3 | 1 |
+| OA 3 | 1, 2 | 2 |
+| OA 4 | 4, 6 | 2 |
+| OA 5 | 5, 7, 8, 9 | 4 |
+| OA 6 | 12, 13 | 2 |
+| OA 7 | 11 | 1 |
+| OA 8 | 10, 15 | 2 |
+| OA 10 | 14, 16 | 2 |
+| OA 12 | 19 | 1 |
+| OA 14 | 20 | 1 |
+| OA 15 | 18 | 1 |
+| OA 17 | 17 | 1 |
+| **Total** | **20 preguntas** | **20** |

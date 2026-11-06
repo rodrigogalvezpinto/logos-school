@@ -8,6 +8,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 7
 fuente: contenido/02-basico/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"3":"OA 5","4":"OA 7","7":"OA 9"}
 ---
 
 # Prueba de Unidad — Números y Operaciones
@@ -15,16 +16,16 @@ ultima_actualizacion: 2026-10-28
 **Matemática — 2° Básico**
 
 **Tiempo sugerido:** 15 a 20 minutos
-**Instrucciones:** Lee cada pregunta con calma y responde en el espacio o marcando la alternativa correcta.
+**Instrucciones:** Lee cada pregunta con calma y marca la alternativa correcta.
 
 ---
 
 **Pregunta 1.** ¿Cuál número corresponde a la palabra "setenta y cuatro"?
 
 a) 47
-b) 74
+b) 40
 c) 77
-d) 40
+d) 74
 
 ---
 
@@ -39,9 +40,19 @@ d) No se puede saber
 
 **Pregunta 3.** 58 = 50 + ___
 
+a) 8
+b) 5
+c) 58
+d) 18
+
 ---
 
 **Pregunta 4.** 4 decenas y 7 unidades forman el número ___
+
+a) 74
+b) 11
+c) 407
+d) 47
 
 ---
 
@@ -56,18 +67,28 @@ d) 82
 
 **Pregunta 6.** Calcula: 6 × 2 = ?
 
+a) 8
+b) 12
+c) 14
+d) 62
+
 ---
 
 **Pregunta 7.** Un kiosko tenía 96 bebidas y vendió 34 durante el día. ¿Cuántas bebidas le quedan?
+
+a) 130
+b) 72
+c) 62
+d) 52
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) 74.** "Setenta" (70) + "cuatro" (4) = 74.
+1. **d) 74.** "Setenta" (70) + "cuatro" (4) = 74.
 2. **a) 84.** 8 decenas (84) es más que 7 decenas (79).
-3. **8.** 58 tiene 5 decenas (50) y 8 unidades sueltas.
-4. **47.** 4 decenas (40) + 7 unidades (7) = 47.
+3. a) 8. 58 tiene 5 decenas (50) y 8 unidades sueltas.
+4. d) 47. 4 decenas (40) + 7 unidades (7) = 47.
 5. **b) 86.** Decenas: 30+50=80; unidades: 4+2=6; total: 80+6=86.
-6. **12.** 6 grupos de 2 (2+2+2+2+2+2=12), o tabla del 2: 6×2=12.
-7. **62 bebidas.** 96-34=62 (decenas: 90-30=60; unidades: 6-4=2; total: 60+2=62).
+6. b) 12. 6 grupos de 2 (2+2+2+2+2+2=12), o tabla del 2: 6×2=12.
+7. c) 62. 96 − 34 = 62 (decenas: 90 − 30 = 60; unidades: 6 − 4 = 2).

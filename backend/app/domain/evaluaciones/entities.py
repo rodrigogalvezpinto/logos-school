@@ -5,7 +5,12 @@ from dataclasses import dataclass, field
 from datetime import datetime
 
 from app.domain.evaluaciones.exceptions import IntentoYaEntregado
-from app.domain.evaluaciones.value_objects import TIPOS_AUTOCORREGIBLES, Nota, PreguntaParaCorreccion
+from app.domain.evaluaciones.value_objects import (
+    TIPOS_AUTOCORREGIBLES,
+    Nota,
+    PreguntaParaCorreccion,
+    es_respuesta_correcta,
+)
 from app.domain.shared.reloj import Reloj
 
 
@@ -50,9 +55,7 @@ class IntentoEvaluacion:
         autocorregibles = [p for p in preguntas if p.tipo in TIPOS_AUTOCORREGIBLES]
         correctas = 0
         for p in autocorregibles:
-            respuesta_alumno = self.respuestas.get(str(p.id), "").strip().lower()
-            respuesta_correcta = p.respuesta_correcta.strip().lower()
-            if respuesta_alumno and respuesta_alumno == respuesta_correcta:
+            if es_respuesta_correcta(p.tipo, self.respuestas.get(str(p.id)), p.respuesta_correcta):
                 correctas += 1
 
         puntaje_total = len(autocorregibles)

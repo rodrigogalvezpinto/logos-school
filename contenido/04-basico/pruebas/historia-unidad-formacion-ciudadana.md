@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 4° Básico
-oa_por_pregunta: {"9":"OA 12"}
+oa_por_pregunta: {"4":"OA 11","9":"OA 12"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
@@ -34,21 +34,28 @@ igual que los diputados.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada autoridad con la institución en la que ejerce su
+**3. (Alternativas — unir)** Une cada autoridad con la institución en la que ejerce su
 cargo:
 
 1) Senador — 2) Alcalde — 3) Presidente
 
-a) Municipalidad — b) Gobierno — c) Congreso Nacional (Parlamento)
+Instituciones: (A) Municipalidad — (B) Gobierno — (C) Congreso Nacional (Parlamento)
+
+¿Qué combinación es correcta?
+
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-A, 3-C
+d) 1-C, 2-B, 3-A
 
 ---
 
 **4. (Alternativas)** ¿Qué institución se encarga principalmente de elaborar y aprobar las
 leyes de Chile?
-a) La municipalidad
-b) El Congreso Nacional (Parlamento)
-c) El Gobierno Regional
-d) Los tribunales de justicia
+a) La municipalidad de cada comuna
+b) Los tribunales de justicia del país
+c) El Gobierno Regional de cada región
+d) El Congreso Nacional (Parlamento)
 
 ---
 
@@ -80,8 +87,13 @@ básicos, sin importar el país donde vivan.
 
 ---
 
-**9. (Desarrollo breve — desafiante)** ¿Qué podrías hacer si te das cuenta de que a un
+**9. (Alternativas — desafiante)** ¿Qué podrías hacer si te das cuenta de que a un
 compañero o compañera no se le está respetando alguno de sus derechos?
+
+a) Ignorar la situación porque no es mi problema y no me corresponde meterme
+b) Resolverlo solo, peleando con quien no respeta sus derechos para defenderlo
+c) Esperar a que se solucione sola, sin contarle a nadie lo que vi en el colegio
+d) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir ayuda
 
 ---
 
@@ -91,9 +103,8 @@ compañero o compañera no se le está respetando alguno de sus derechos?
    votación popular en cada comuna.
 2. **Falso** — Los ministros son nombrados por el Presidente de la República; los diputados
    sí son elegidos por votación popular.
-3. **1-c, 2-a, 3-b** — El senador ejerce en el Congreso Nacional, el alcalde en la
-   municipalidad y el Presidente al mando del Gobierno.
-4. **b) El Congreso Nacional (Parlamento)** — Compuesto por senadores y diputados, encargado
+3. a) 1-C, 2-A, 3-B — El senador ejerce en el Congreso Nacional, el alcalde en la municipalidad y el Presidente al mando del Gobierno.
+4. **d) El Congreso Nacional (Parlamento)** — Compuesto por senadores y diputados, encargado
    de discutir, elaborar y aprobar las leyes.
 5. **b) Recibir educación** — Uno de los derechos fundamentales de todo niño y niña.
 6. **Verdadero** — El derecho a expresarse permite dar la opinión y ser escuchado, por
@@ -103,6 +114,4 @@ compañero o compañera no se le está respetando alguno de sus derechos?
    trabajar antes de la edad apropiada.
 8. **Verdadero** — Los derechos de los niños y niñas son universales: valen para todos, sin
    importar el país donde vivan.
-9. Respuesta esperada: contarle a un adulto de confianza (un profesor, un familiar, un
-   directivo del colegio) para pedir ayuda, en lugar de ignorar la situación o intentar
-   resolverla solo.
+9. d) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir ayuda. Reconocer el problema y buscar ayuda protege los derechos propios y de los demás.

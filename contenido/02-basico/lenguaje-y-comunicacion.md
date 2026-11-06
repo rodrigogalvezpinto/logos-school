@@ -69,11 +69,11 @@ Ya sabes leer sílabas simples y palabras con dígrafos como "rr", "ll", "ch" y 
 
 **1. (Alternativas)** ::emoji::☁️::un avión volando entre nubes:: ¿Cuál de estas palabras tiene un **diptongo** (dos vocales juntas en una sola sílaba)?
 
-a) "aire"
+a) "pelota"
 b) "camino"
-c) "pelota"
+c) "aire"
 
-*Respuesta correcta: a.* Retroalimentación: ¡bien! "Aire" tiene las vocales "ai" juntas en la sílaba "ai-re": eso es un diptongo.
+*Respuesta correcta: c.* Retroalimentación: ¡bien! "Aire" tiene las vocales "ai" juntas en la sílaba "ai-re": eso es un diptongo.
 
 **2. (Verdadero o Falso)** La palabra "**leemos**" tiene un hiato, porque las dos vocales "e" se separan en sílabas distintas: "le-e-mos".
 
@@ -90,10 +90,10 @@ c) "sapo"
 **4. (Alternativas)** ¿Con qué letra se escribe el sonido /s/ antes de las vocales "e" o "i", como en la palabra "**cena**"?
 
 a) "s"
-b) "c"
-c) "z"
+b) "z"
+c) "c"
 
-*Respuesta correcta: b.* Retroalimentación: en "cena" y "cielo", el sonido /s/ antes de "e" o "i" se escribe con "c".
+*Respuesta correcta: c.* Retroalimentación: en "cena" y "cielo", el sonido /s/ antes de "e" o "i" se escribe con "c".
 
 **5. (Alternativas)** ¿Cuál de estas palabras usa "**gu**" porque el sonido es /g/ (como en "gato") y no se pronuncia la "u"?
 
@@ -103,9 +103,14 @@ c) "gigante"
 
 *Respuesta correcta: a.* Retroalimentación: ¡muy bien! En "guitarra" la "u" no se pronuncia, solo sirve para que la "g" suene fuerte, como en "gato". En "pingüino" la "u" sí se pronuncia (por eso lleva diéresis), y en "gigante" el sonido es distinto, como el de la "j".
 
-**6. (Desarrollo breve)** ::emoji::🎨::un pingüino y una cigüeña:: Escribe una palabra que lleve "**güe**" o "**güi**" (con los dos puntitos sobre la "u").
+**6. (Alternativas — güe/güi)** ::emoji::🎨::un pingüino y una cigüeña:: ¿Cuál palabra está **bien escrita**, con los dos puntitos sobre la "u"?
 
-*Respuesta esperada*: "pingüino", "cigüeña", "güiro" u otra palabra válida. Retroalimentación: ¡muy bien! Esas palabras necesitan los dos puntitos (diéresis) sobre la "u" para indicar que sí se pronuncia.
+a) pinguino
+b) pinjüino
+c) pinguíno
+d) pingüino
+
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! "Pingüino", "cigüeña" y "güiro" necesitan los dos puntitos (diéresis) sobre la "u" para indicar que sí se pronuncia. Sin ellos, "pinguino" se leería "pin-gi-no".
 
 **7. (Comprensión de texto breve — más desafiante)** Lee: "El gigante tenía una guitarra pequeña. Un pingüino curioso se acercó a escuchar. Cerca de ahí, una cigüeña dormía sobre una sola pata." ¿Qué **animales** aparecen en el texto?
 
@@ -164,9 +169,9 @@ Fíjate que palabras como "primero", "después" y "luego" nos ayudan a reconocer
 
 **1. (Alternativas — explícita)** ¿Dónde vive Emilia?
 
-a) En Rancagua
+a) En Rancagua, lejos de la costa
 b) Cerca de Puerto Montt, frente al mar
-c) En el centro de Santiago
+c) En el centro de Santiago, junto al cerro
 
 *Respuesta correcta: b.* Retroalimentación: el cuento dice directamente "vive en un pueblo cerca de Puerto Montt, frente al mar".
 
@@ -176,36 +181,51 @@ c) En el centro de Santiago
 
 **3. (Alternativas — implícita)** ¿Por qué escondieron el queque debajo de la mesa?
 
-a) Porque no cabía en otro lugar
+a) Porque no cabía en otro lugar de la casa y era muy grande
 b) Para que Emilia no lo viera y no se arruinara la sorpresa
-c) Porque estaba muy caliente
+c) Porque estaba muy caliente y tenía que enfriarse antes de comer
 
 *Respuesta correcta: b.* Retroalimentación: ¡muy bien! El cuento no lo dice con esas palabras, pero como están preparando una sorpresa, podemos deducir que lo escondieron para que Emilia no lo viera al entrar.
 
-**4. (Ordenar secuencia)** Numera del 1 al 4 estas acciones según el orden en que ocurrieron en el cuento:
+**4. (Alternativas — ordenar secuencia)** ¿En qué orden ocurrieron estas acciones en el cuento?
 
-___ Decoraron el patio con globos.
-___ Escribieron las invitaciones a escondidas.
-___ Emilia entró al patio y todos gritaron "¡sorpresa!".
-___ Escondieron el queque debajo de la mesa.
+1) Escribieron las invitaciones a escondidas.
+2) Decoraron el patio con globos.
+3) Escondieron el queque debajo de la mesa.
+4) Emilia entró al patio y todos gritaron "¡sorpresa!".
 
-*Respuesta correcta: 2 - 1 - 4 - 3.* Retroalimentación: primero escribieron las invitaciones, después decoraron el patio, luego escondieron el queque, y al final Emilia llegó y todos gritaron "¡sorpresa!".
+a) 2 → 1 → 4 → 3
+b) 1 → 3 → 2 → 4
+c) 4 → 1 → 2 → 3
+d) 1 → 2 → 3 → 4
+
+*Respuesta correcta: d.* Retroalimentación: primero escribieron las invitaciones, después decoraron el patio, luego escondieron el queque, y al final Emilia llegó y todos gritaron "¡sorpresa!".
 
 **5. (Alternativas — características físicas)** ¿Cómo es el pelo de Emilia, según el cuento?
 
 a) Rubio y liso
-b) Negro y rizado
-c) Corto y castaño
+b) Corto y castaño
+c) Negro y rizado
 
-*Respuesta correcta: b.* Retroalimentación: el cuento dice "Tiene el pelo negro y rizado".
+*Respuesta correcta: c.* Retroalimentación: el cuento dice "Tiene el pelo negro y rizado".
 
-**6. (Desarrollo breve — sentimientos)** ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Explica usando lo que dice el cuento.
+**6. (Alternativas — sentimientos)** ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa, según lo que dice el cuento?
 
-*Respuesta esperada*: se sorprendió mucho y sintió alegría; el cuento dice que "se quedó inmóvil un segundo, con los ojos muy abiertos" y después "se rió y se puso a llorar de alegría al mismo tiempo". Retroalimentación: ¡muy bien! Fíjate en las acciones y gestos que describe el cuento para descubrir cómo se siente un personaje, aunque no lo diga con la palabra exacta.
+a) Enojada, porque no la invitaron a decorar la casa y ella quería ayudar a preparar la fiesta con sus amigos del curso, Benjamín y Constanza.
+b) Aburrida, porque ya sabía de la sorpresa desde antes, ya que sus amigos se lo contaron, y no le gustan las fiestas de cumpleaños con tanta gente.
+c) Triste y asustada: se puso a llorar porque había mucha gente en la casa y no conocía a nadie de la fiesta.
+d) Muy sorprendida y alegre: "se quedó inmóvil un segundo, con los ojos muy abiertos" y después "se rió y se puso a llorar de alegría al mismo tiempo".
 
-**7. (Relación con experiencia propia y opinión — desarrollo breve)** ¿Alguna vez te han hecho una sorpresa a ti, o tú se la has hecho a alguien? Cuenta brevemente cómo fue, y di qué te parece el gesto de Benjamín y Constanza.
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Emilia lloró, pero de alegría: fíjate en las acciones y gestos que describe el cuento para descubrir cómo se siente un personaje, aunque no lo diga con la palabra exacta.
 
-*Respuesta esperada*: cualquier relato breve relacionado con una experiencia propia, más una opinión razonada; por ejemplo, "Una vez mis primos me hicieron una sorpresa de cumpleaños y me puse muy feliz. Me parece que Benjamín y Constanza fueron muy buenos amigos." Retroalimentación: ¡excelente! No hay una sola respuesta correcta: lo importante es que cuentes tu propia experiencia y expliques tu opinión pensando en lo que hicieron los personajes.
+**7. (Alternativas — opinión)** ¿Qué opinión sobre el gesto de Benjamín y Constanza está **mejor explicada** con lo que pasó en el cuento?
+
+a) Me gustó, porque hoy es lunes y los lunes hay fiestas en el colegio.
+b) Fueron buenos amigos, porque el queque era de chocolate y a todos les gustó mucho.
+c) No me gustó, porque los globos son de colores y a Emilia no le gustan los colores.
+d) Fueron buenos amigos, porque prepararon en secreto una fiesta para que Emilia se sintiera feliz.
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente! Una buena opinión se explica pensando en lo que hicieron los personajes: Benjamín y Constanza se esforzaron en secreto para alegrar a su amiga. Tú puedes tener otra opinión o recordar una sorpresa que te hicieron, siempre explicándola con razones.
 
 ---
 
@@ -281,9 +301,14 @@ c) Azul
 
 *Respuesta correcta: c.* Retroalimentación: el texto dice "El contenedor azul es para el papel y el cartón".
 
-**5. (Desarrollo breve — función de ilustraciones y símbolos)** ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+**5. (Alternativas — ilustraciones y símbolos)** ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
 
-*Respuesta esperada*: para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien. Retroalimentación: ¡muy bien! Los dibujos o símbolos ayudan a entender la información de un texto, incluso sin leer las palabras.
+a) Para que los contenedores se vean más bonitos y alegres, y a los niños les den ganas de jugar con ellos.
+b) Para que nadie use los contenedores equivocados y los dejen vacíos hasta que pase el camión de la basura.
+c) Para decir cuánto cuesta reciclar cada tipo de basura y cuánto dinero hay que pagar en cada contenedor.
+d) Para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien.
+
+*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Los dibujos o símbolos ayudan a entender la información de un texto, incluso sin leer las palabras.
 
 **6. (Alternativas — implícita)** ¿Por qué crees que las escuelas usan contenedores de distintos colores para reciclar?
 
@@ -293,9 +318,14 @@ c) Porque no hay suficientes contenedores de un solo color
 
 *Respuesta correcta: b.* Retroalimentación: aunque el texto no lo dice exactamente con esas palabras, usar colores distintos ayuda a que cada persona bote la basura en el lugar correcto, sin confundirse.
 
-**7. (Opinión — desarrollo breve)** ¿Te parece importante que las escuelas reciclen? Explica tu opinión con tus palabras.
+**7. (Alternativas — opinión)** Sofía opina: "Sí, es importante que las escuelas reciclen". ¿Cuál es la **mejor razón**, relacionada con lo que leíste, para explicar su opinión?
 
-*Respuesta esperada*: cualquier opinión razonable con una explicación; por ejemplo, "Sí, porque así cuidamos el medioambiente y no se llena de basura la naturaleza." Retroalimentación: ¡excelente! Lo importante es que expreses tu opinión y la relaciones con lo que leíste en el texto.
+a) Porque los contenedores tienen colores muy bonitos y llamativos.
+b) Porque en el recreo se juega a la pelota cerca de los contenedores.
+c) Porque reciclar es más rápido y más entretenido que estudiar en la sala.
+d) Porque así cuidamos el medioambiente y la naturaleza no se llena de basura.
+
+*Respuesta correcta: d.* Retroalimentación: ¡excelente! Una opinión se explica con razones relacionadas con el texto: reciclar ayuda a cuidar el medioambiente. ¿Y tú qué opinas? Lo importante es que expliques tu opinión con razones.
 
 ---
 
@@ -346,9 +376,14 @@ c) "El perro corre por el parque"
 
 *Respuesta correcta: b.* Retroalimentación: la oración b) empieza con mayúscula ("El") y termina con punto, por eso está completa y bien escrita.
 
-**2. (Corregir — desarrollo breve)** Reescribe esta oración corrigiendo la mayúscula y el punto que faltan: "mi abuela vive en Chiloé"
+**2. (Alternativas — corregir)** ¿Cuál es la forma **correcta** de escribir esta oración, con mayúscula inicial y punto final: "mi abuela vive en Chiloé"?
 
-*Respuesta esperada*: "Mi abuela vive en Chiloé." Retroalimentación: ¡bien! Toda oración debe empezar con mayúscula y terminar con punto.
+a) mi abuela vive en Chiloé.
+b) Mi abuela vive en chiloé.
+c) Mi abuela vive en Chiloé.
+d) Mi Abuela Vive En Chiloé
+
+*Respuesta correcta: c.* Retroalimentación: ¡bien! Toda oración debe empezar con mayúscula y terminar con punto. "Chiloé" también va con mayúscula porque es el nombre de un lugar.
 
 **3. (Verdadero o Falso)** En la oración "Las niñas jugaban en el patio", las palabras "las" y "niñas" están en plural y concuerdan entre sí.
 
@@ -370,9 +405,14 @@ c) "grande" (no tiene un significado parecido)
 
 *Respuesta correcta: a.* Retroalimentación: ¡muy bien! "Hermoso" tiene un significado parecido a "bonito", así el texto suena menos repetitivo.
 
-**6. (Desarrollo breve — propósito y destinatario)** Escribe una oración corta para invitar a un compañero o compañera a jugar contigo en el recreo. No olvides la mayúscula inicial y el signo de puntuación final (punto o signos de interrogación).
+**6. (Alternativas — propósito y destinatario)** Quieres invitar a un compañero o compañera a jugar contigo en el recreo. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y signo de puntuación final?
 
-*Respuesta esperada*: cualquier oración con sentido, con propósito de invitación, mayúscula inicial y signo de puntuación final (punto o signos de interrogación); por ejemplo, "¿Quieres jugar conmigo en el recreo?" o "Te invito a jugar a la pelota en el recreo." Retroalimentación: ¡bien hecho! Revisa que tu oración tenga mayúscula al inicio y termine con punto o con signos de interrogación, y que se entienda claramente qué le estás pidiendo a tu compañero o compañera.
+a) ¿Quieres jugar conmigo en el recreo?
+b) quieres jugar conmigo en el recreo
+c) Ayer llovió mucho en mi casa.
+d) ¿quieres jugar conmigo en el recreo
+
+*Respuesta correcta: a.* Retroalimentación: ¡bien hecho! La oración invita al compañero, empieza con mayúscula y tiene los dos signos de interrogación. La b) y la d) no tienen mayúscula ni todos sus signos, y la c) no es una invitación.
 
 **7. (Ortografía)** ¿Cuál de estas palabras está bien escrita?
 

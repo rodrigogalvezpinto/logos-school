@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
-oa_por_pregunta: {"2":"OA 10","5":"OA 10","7":"OA 10"}
+oa_por_pregunta: {"2":"OA 10","4":"OA 10","5":"OA 10","7":"OA 10"}
 eje: Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
@@ -22,22 +22,25 @@ ultima_actualizacion: 2026-10-28
 **1.** ¿Cuál es la capital de Chile?
 
 a) Valparaíso
-b) Santiago
+b) Arica
 c) Concepción
-d) Arica
+d) Santiago
 
 ---
 
 **2.** La Cordillera de los Andes es un conjunto de montañas.
 
-¿Verdadero o falso? _______________
+¿Verdadero o falso?
+
+a) Verdadero
+b) Falso
 
 ---
 
 **3.** ¿Qué océano se encuentra junto a Chile?
 
-a) Océano Atlántico
-b) Océano Pacífico
+a) Océano Pacífico
+b) Océano Atlántico
 c) Océano Índico
 d) Océano Ártico
 
@@ -54,7 +57,10 @@ d) Puente
 
 **5.** Un desierto es un lugar con mucha vegetación y agua.
 
-¿Verdadero o falso? _______________
+¿Verdadero o falso?
+
+a) Verdadero
+b) Falso
 
 ---
 
@@ -69,16 +75,21 @@ d) Vegetación
 
 **7.** [Imagen: una plaza con un árbol a la izquierda, un juego infantil a la derecha, una banca delante de un edificio]
 
-En la plaza, ¿qué está a la izquierda: el árbol o el juego infantil? _______________
+En la plaza, ¿qué está a la izquierda?
+
+a) El juego infantil
+b) La banca
+c) El árbol
+d) El edificio
 
 ---
 
 ## Pauta de respuestas
 
-1. b) Santiago
+1. d) Santiago
 2. Verdadero
-3. b) Océano Pacífico
+3. a) Océano Pacífico
 4. b) Cordillera
 5. Falso
 6. b) Mar
-7. El árbol
+7. c) El árbol. En la imagen, el árbol está a la izquierda y el juego infantil a la derecha; la banca está delante del edificio.

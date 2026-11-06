@@ -19,13 +19,11 @@ ultima_actualizacion: 2026-11-02
 
 1. Lee cada pregunta con atención antes de responder. Algunas preguntas incluyen un texto,
    mapa o fuente histórica que debes analizar antes de contestar.
-2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro opciones
-   (a, b, c, d). Marca con una X la que consideres correcta.
-3. Las preguntas de **desarrollo** (breve o extenso) deben responderse con tus propias
-   palabras, en las líneas u espacio disponible. No es necesario copiar la pregunta.
+2. Todas las preguntas son de **alternativas** y tienen una sola respuesta correcta entre las opciones (a, b, c, d). Marca con una X la que consideres correcta.
+3. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas para obtener el puntaje.
 4. No se permite el uso de apuntes, libros ni dispositivos electrónicos durante la prueba.
 5. Administra tu tiempo: tienes 90 minutos para las 25 preguntas. Te sugerimos no destinar más
-   de 3-4 minutos a cada pregunta de alternativas y algo más a las de desarrollo.
+   de 3-4 minutos a cada pregunta y algo más a las que tienen estímulos extensos.
 6. Algunas preguntas abordan el quiebre y la recuperación de la democracia en Chile (1973-1990),
    un período histórico complejo. Se te pedirá comparar visiones y fuentes distintas: no hay una
    sola "opinión correcta" sobre las causas del período, pero sí hechos comprobados (como las
@@ -48,11 +46,11 @@ respuestas de un solo set de preguntas.
 ¿Cuál fue uno de los principales motivos del malestar de los criollos americanos antes del
 proceso de Independencia?
 
-a) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los
+a) No tenían acceso a ningún tipo de educación, porque las escuelas y universidades estaban reservadas a los españoles
+b) No se les permitía practicar la religión católica, que era exclusiva de los españoles nacidos en la península
+c) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los
    españoles nacidos en la península
-b) No se les permitía practicar la religión católica
-c) No tenían acceso a ningún tipo de educación
-d) Tenían prohibido viajar dentro de América
+d) Tenían prohibido viajar dentro de América y comerciar con otras colonias, aunque fueran parte del mismo reino
 
 ---
 
@@ -66,9 +64,9 @@ d) Tenían prohibido viajar dentro de América
 ¿A qué proceso histórico hace referencia este estímulo como fuente de inspiración?
 
 a) A la independencia de Estados Unidos (1776)
-b) Al cautiverio de Fernando VII
-c) A la Guerra del Pacífico
-d) Al plebiscito de 1988
+b) Al cautiverio de Fernando VII por Napoleón (1808)
+c) A la Guerra del Pacífico contra Perú y Bolivia (1879)
+d) Al triunfo de la opción No en el plebiscito de 1988
 
 ---
 
@@ -84,16 +82,15 @@ d) Formar la Primera Junta Nacional de Gobierno
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Desarrollo breve*
-Explica qué bandos se enfrentaron durante el proceso de Independencia de Chile, qué buscaba
-cada uno, y menciona el aporte de alguna mujer destacada en este proceso (por ejemplo, Javiera
-Carrera o Paula Jaraquemada).
+**Pregunta 4.** (2 puntos) — *Alternativas*
+¿Qué opción identifica correctamente los bandos de la Independencia de Chile, lo que buscaba
+cada uno y el aporte de una mujer destacada en este proceso?
 
-```
+a) Patriotas (buscaban la independencia de España) y realistas (fieles a la Corona); Paula Jaraquemada protegió a tropas patriotas arriesgando su hacienda
+b) Patriotas (querían seguir siendo colonia) y realistas (querían la independencia); Javiera Carrera apoyó a los realistas
+c) Liberales (buscaban un gobierno federal) y conservadores (buscaban un gobierno central); Paula Jaraquemada fundó la ciudad de Santiago junto a Pedro de Valdivia
+d) Chilenos (buscaban la independencia) y peruanos (querían anexar Chile); Javiera Carrera dirigió el ejército chileno durante la Guerra del Pacífico
 
-
-
-```
 
 ---
 
@@ -133,16 +130,16 @@ d) La totalidad de la Araucanía antes de 1860
 
 ---
 
-**Pregunta 8.** (2 puntos) — *Desarrollo breve*
-¿Por qué crees que el Estado de Chile tuvo especial interés en tomar posesión real del extremo
+**Pregunta 8.** (2 puntos) — *Alternativas*
+¿Por qué el Estado de Chile tuvo especial interés en tomar posesión real del extremo
 sur del territorio (por ejemplo, con la fundación de Fuerte Bulnes y luego Punta Arenas)
 durante el siglo XIX?
 
-```
+a) Porque era la zona más poblada del país, y el Estado necesitaba instalar autoridades para administrar las ciudades que ya existían en el extremo sur desde la Colonia
+b) Porque allí se encontraban las salitreras más importantes de Chile, que el Estado quería explotar antes de que lo hicieran empresas extranjeras
+c) Porque tenía el clima más cálido de Chile, ideal para la agricultura, y el Estado buscaba aumentar la producción de trigo para exportarlo a Europa
+d) Por la importancia estratégica del Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía en un territorio poco poblado
 
-
-
-```
 
 ---
 
@@ -163,11 +160,11 @@ d) 1970
 ¿Qué relación existe entre el acceso a la educación y la consolidación de la clase media
 durante el siglo XX en Chile?
 
-a) No existe ninguna relación entre ambos procesos
+a) No existe ninguna relación entre ambos procesos, porque la clase media se formó solo por herencias familiares
 b) Un mayor acceso a la educación permitió a más personas acceder a empleos calificados,
    fortaleciendo a la clase media
-c) El acceso a la educación disminuyó a lo largo del siglo XX
-d) La clase media desapareció con la masificación de la educación
+c) El acceso a la educación disminuyó a lo largo del siglo XX, y aun así la clase media creció gracias al comercio
+d) La clase media desapareció con la masificación de la educación, porque todos pasaron a tener los mismos empleos
 
 ---
 
@@ -183,7 +180,7 @@ d) La promulgación de la Constitución de 1833
 
 ---
 
-**Pregunta 12.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 12.** (3 puntos) — *Alternativas*
 
 > **Estímulo — fuentes históricas adaptadas:**
 > **Fuente A:** "Antes del golpe vivíamos una fuerte polarización política; muchas familias
@@ -191,17 +188,15 @@ d) La promulgación de la Constitución de 1833
 > **Fuente B:** "A mi padre lo detuvieron sin explicación y estuvo preso varios meses solo por
 > ser dirigente sindical; nunca se le informó de qué se le acusaba."
 
-A partir de las dos fuentes, responde: ¿qué nos enseña comparar distintos testimonios sobre el
-período 1973-1990? Luego, explica en qué existe hoy un amplio consenso en la sociedad chilena
-respecto a este período, a pesar de las diferentes interpretaciones que existen sobre las
-causas del golpe de Estado.
+A partir de las dos fuentes, ¿qué nos enseña comparar distintos testimonios sobre el período
+1973-1990, y en qué existe hoy un amplio consenso en la sociedad chilena, a pesar de las
+diferentes interpretaciones sobre las causas del golpe de Estado?
 
-```
+a) Que uno de los dos testimonios es necesariamente falso, porque un mismo período no puede vivirse de formas distintas; y hoy no existe ningún consenso sobre lo ocurrido
+b) Que el período se vivió de formas muy distintas según la posición y experiencia de cada persona; y hoy existe amplio consenso en el valor de la democracia y el rechazo a las violaciones de los derechos humanos
+c) Que todas las interpretaciones valen igual, incluso frente a hechos comprobados, porque cada persona tiene su verdad; y el consenso es que en ese período no hubo cambios relevantes
+d) Que la historia reciente no se puede estudiar, porque los testimonios son subjetivos; y el consenso actual es que la democracia no importa si el país crece económicamente
 
-
-
-
-```
 
 ---
 
@@ -239,9 +234,9 @@ otras regiones de Chile?
 
 a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con
    otras regiones
-b) Porque las demás regiones no tienen ninguna relación con la propia
-c) Porque este conocimiento solo interesa a las autoridades regionales
-d) Porque todas las regiones de Chile son exactamente iguales entre sí
+b) Porque las demás regiones no tienen ninguna relación con la propia, así que basta con conocer la región donde se vive
+c) Porque este conocimiento solo interesa a las autoridades regionales, que deben tomar decisiones sobre el territorio
+d) Porque todas las regiones de Chile son exactamente iguales entre sí, y conocer una permite conocerlas todas
 
 ---
 
@@ -257,16 +252,15 @@ d) Terremotos frecuentes exclusivamente
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Desarrollo breve*
-¿Por qué crees que Chile presenta una gran diversidad de ambientes naturales a lo largo de su
-territorio? Menciona al menos dos ambientes naturales distintos como ejemplo (por ejemplo:
-altiplánico, andino, polar u otros) y una característica de cada uno.
+**Pregunta 17.** (2 puntos) — *Alternativas*
+¿Por qué Chile presenta una gran diversidad de ambientes naturales a lo largo de su
+territorio, y qué ejemplos lo muestran?
 
-```
+a) Porque todo Chile tiene el mismo clima, pero distintas costumbres; por ejemplo, el ambiente polar y el desértico son iguales, aunque sus habitantes vivan de forma diferente
+b) Porque Chile es un país muy pequeño y angosto; por ejemplo, solo tiene ambiente costero, ya que ningún lugar del territorio queda lejos del mar ni a gran altura
+c) Por su enorme extensión de norte a sur, que genera climas y relieves distintos; por ejemplo, el altiplánico (frío, ganadería de camélidos) y el andino (relieve abrupto, recursos hídricos)
+d) Porque los ambientes los crearon las personas al transformar el territorio; por ejemplo, el ambiente andino es artificial, producto de la minería y de la construcción de caminos
 
-
-
-```
 
 ---
 
@@ -302,23 +296,23 @@ d) Presidente de la República
 Según lo estudiado, ¿qué ocurre si una ley aprobada por el Congreso contradice lo establecido
 en la Constitución Política?
 
-a) La ley tiene preferencia por sobre la Constitución
+a) La ley tiene preferencia por sobre la Constitución, porque fue aprobada más recientemente
 b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la
    Constitución
-c) La Constitución deja automáticamente de tener validez
-d) No existe ningún mecanismo para resolver esa situación
+c) La Constitución deja automáticamente de tener validez en todo lo que contradiga la ley
+d) No existe ningún mecanismo para resolver esa situación, y ambas normas siguen vigentes
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Desarrollo breve*
-¿Qué problemas crees que podrían ocurrir en un país si no existiera una Constitución que
+**Pregunta 21.** (2 puntos) — *Alternativas*
+¿Qué problemas podrían ocurrir en un país si no existiera una Constitución que
 estuviera por sobre todas las demás leyes y autoridades?
 
-```
+a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas
+b) Las personas tendrían más derechos garantizados, porque cada autoridad podría crear nuevos derechos
+c) Las autoridades tendrían más límites, porque cada ley podría restringir lo que hacen las demás
+d) No habría ningún problema, porque las leyes comunes bastan para organizar el país sin conflictos
 
-
-
-```
 
 ---
 
@@ -335,15 +329,17 @@ d) 1990
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Desarrollo breve*
-Da un ejemplo de una acción concreta que el Estado podría realizar para garantizar el derecho
-a la salud o a la educación de todas las personas, sin importar su situación económica.
+**Pregunta 23.** (2 puntos) — *Varias correctas*
+¿Qué acciones concretas podría realizar el Estado para garantizar el derecho a la salud o a la
+educación de todas las personas, sin importar su situación económica?
 
-```
+*(Varias correctas: marca todas las alternativas correctas.)*
 
+a) Construir hospitales y consultorios públicos con atención gratuita o subsidiada
+b) Construir escuelas públicas y entregar becas o alimentación escolar
+c) Cobrar más caro en los hospitales a quienes tienen menos recursos
+d) Cerrar las escuelas públicas de zonas aisladas
 
-
-```
 
 ---
 
@@ -354,35 +350,32 @@ a la salud o a la educación de todas las personas, sin importar su situación e
 
 a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión
    de los demás, sin discriminar ni difamar
-b) Tener un derecho no genera ninguna obligación
-c) Los deberes solo existen para el Estado, nunca para las personas
-d) Ejercer un derecho propio permite ignorar los derechos de los demás
+b) Tener un derecho no genera ninguna obligación, porque los derechos protegen a las personas y los deberes solo los establece la ley
+c) Los deberes solo existen para el Estado, nunca para las personas, que pueden ejercer sus derechos sin considerar a los demás
+d) Ejercer un derecho propio permite ignorar los derechos de los demás, siempre que se haga dentro de un espacio público
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 25.** (3 puntos) — *Alternativas*
 
 > **Estímulo:** En una plaza de barrio, un grupo de vecinos organiza asados los fines de
 > semana y deja basura y restos de comida al terminar, mientras que otros vecinos, incluidas
 > familias con niños pequeños, usan esa misma plaza al día siguiente para jugar y descansar.
 
-A partir del estímulo, identifica qué derecho de unos vecinos podría estar en tensión con el
-derecho de otros. Luego, explica por qué es importante que exista un equilibrio entre los
-derechos de las personas y los deberes que estos generan, y qué rol cumple el Estado (por
-ejemplo, mediante ordenanzas municipales) para garantizar ese equilibrio.
+A partir del estímulo, ¿qué derechos están en tensión, por qué es importante el equilibrio entre
+derechos y deberes, y qué rol cumple el Estado para garantizarlo?
 
-```
+a) Ningún derecho está en tensión, porque la plaza es un espacio público donde todos pueden hacer lo que quieran; por eso el Estado no tiene ningún rol que cumplir en la situación
+b) Solo importa el derecho de quienes hacen asados, porque llegaron primero a la plaza; los demás vecinos deben irse a otro lugar, y el Estado no puede intervenir en el uso de los espacios públicos
+c) Los derechos no generan deberes, así que cada vecino puede usar la plaza como prefiera; las ordenanzas municipales no sirven, porque no pueden obligar a nadie a limpiar
+d) El derecho al descanso y a un entorno limpio de unos vecinos tensiona con la recreación de otros; el equilibrio entre derechos y deberes permite la convivencia, y el Estado lo resguarda con normas como ordenanzas municipales
 
-
-
-
-```
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -394,31 +387,31 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | a) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
+| 1  | Alternativas | c) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) A la independencia de Estados Unidos (1776) | OA 1 | Historia | 1 |
 | 3  | Alternativas | d) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
-| 4  | Desarrollo breve | Se enfrentaron los **patriotas** (que buscaban la autonomía o independencia de España) y los **realistas** (fieles a la Corona, que buscaban mantener el dominio colonial); se espera además mencionar el aporte de una mujer destacada, como Javiera Carrera (apoyo activo a la causa patriota) o Paula Jaraquemada (protección de tropas patriotas arriesgando su hacienda) | OA 2 | Historia | 2 |
+| 4 | Alternativas | **a) Patriotas (buscaban la independencia de España) y realistas (fieles a la Corona); Paula Jaraquemada protegió a tropas patriotas arriesgando su hacienda.** Javiera Carrera también apoyó activamente la causa patriota. | OA 2 | Historia | 2 |
 | 5  | Alternativas | a) Los liberales | OA 3 | Historia | 1 |
 | 6  | Alternativas | d) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
 | 7  | Alternativas | a) Valdivia y Llanquihue | OA 5 | Historia | 1 |
-| 8  | Desarrollo breve | Se espera que la respuesta reconozca la importancia estratégica de la zona austral, especialmente por su cercanía al Estrecho de Magallanes —ruta clave para la navegación entre los océanos Atlántico y Pacífico antes del Canal de Panamá— y el interés de asegurar la soberanía chilena en un territorio poco poblado | OA 5 | Historia | 2 |
+| 8 | Alternativas | **d) Por la importancia estratégica del Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía en un territorio poco poblado.** | OA 5 | Historia | 2 |
 | 9  | Alternativas | b) 1935 | OA 7 | Historia | 1 |
 | 10 | Alternativas | b) Un mayor acceso a la educación permitió a más personas acceder a empleos calificados, fortaleciendo a la clase media | OA 7 | Historia | 1 |
 | 11 | Alternativas | b) El plebiscito de 1988 | OA 8 | Historia | 1 |
-| 12 | Desarrollo extenso | Comparar testimonios distintos permite comprender que las personas vivieron el período de forma muy diferente según su posición y experiencia, evitando explicaciones simplificadas de un solo punto de vista; no obstante, hoy existe un amplio consenso en Chile respecto al valor de la democracia como forma de gobierno y al rechazo de las violaciones a los derechos humanos ocurridas durante la dictadura, hechos ampliamente reconocidos y documentados | OA 8 | Historia | 3 |
+| 12 | Alternativas | **b) Que el período se vivió de formas muy distintas según la posición y experiencia de cada persona; y hoy existe amplio consenso en el valor de la democracia y el rechazo a las violaciones de los derechos humanos.** Comparar testimonios evita explicaciones simplificadas; las violaciones a los derechos humanos durante la dictadura son hechos ampliamente reconocidos y documentados. | OA 8 | Historia | 3 |
 | 13 | Alternativas | b) El éxodo rural y la creciente urbanización del país | OA 9 | Historia | 1 |
 | 14 | Alternativas | c) El clima y el relieve | OA 11 | Geografía | 1 |
 | 15 | Alternativas | a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con otras regiones | OA 11 | Geografía | 1 |
 | 16 | Alternativas | b) Escasez de agua | OA 12 | Geografía | 1 |
-| 17 | Desarrollo breve | Se espera que la respuesta reconozca que la enorme extensión de Chile de norte a sur genera climas y relieves muy distintos, y que mencione correctamente al menos dos ambientes naturales reales (por ejemplo, altiplánico — frío y baja disponibilidad de oxígeno / ganadería de camélidos y agricultura en terrazas; andino — relieve abrupto / recursos hídricos y turismo de montaña) | OA 12 | Geografía | 2 |
+| 17 | Alternativas | **c) Por su enorme extensión de norte a sur, que genera climas y relieves distintos; por ejemplo, el altiplánico (frío, ganadería de camélidos) y el andino (relieve abrupto, recursos hídricos).** | OA 12 | Geografía | 2 |
 | 18 | Alternativas | a) Poder Ejecutivo | OA 15 | Formación Ciudadana | 1 |
 | 19 | Alternativas | c) Alcalde | OA 15 | Formación Ciudadana | 1 |
 | 20 | Alternativas | b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la Constitución | OA 16 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | Se espera que la respuesta reconozca que, sin una norma fundamental que limite el poder de las autoridades y proteja los derechos de las personas, existiría un mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos y libertades individuales | OA 16 | Formación Ciudadana | 2 |
+| 21 | Alternativas | **a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas.** | OA 16 | Formación Ciudadana | 2 |
 | 22 | Alternativas | b) 1948 | OA 17 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Cualquier acción concreta y pertinente del Estado (por ejemplo, construcción de hospitales y consultorios públicos, atención de salud gratuita o subsidiada, construcción de escuelas públicas, becas o programas de alimentación escolar) que se relacione correctamente con garantizar el derecho a la salud o a la educación sin depender de la capacidad económica de las personas | OA 17 | Formación Ciudadana | 2 |
+| 23 | Varias correctas | **a y b.** Las acciones válidas garantizan el derecho sin depender de la capacidad económica de las personas; cobrar más o cerrar escuelas lo restringe. | OA 17 | Formación Ciudadana | 2 |
 | 24 | Alternativas | a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión de los demás, sin discriminar ni difamar | OA 18 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | El derecho al descanso y a un entorno limpio de unos vecinos puede entrar en tensión con el derecho a la recreación de otros; el equilibrio entre derechos y deberes es importante porque el ejercicio de un derecho no puede pasar a llevar los derechos de los demás, lo que permite la convivencia social y el bien común; el Estado, mediante leyes y normas (por ejemplo, ordenanzas municipales sobre uso de espacios públicos), crea las condiciones para que ese equilibrio pueda respetarse y, si es necesario, hacerse cumplir | OA 18 | Formación Ciudadana | 3 |
+| 25 | Alternativas | **d) El derecho al descanso y a un entorno limpio de unos vecinos tensiona con la recreación de otros; el equilibrio entre derechos y deberes permite la convivencia, y el Estado lo resguarda con normas como ordenanzas municipales.** El ejercicio de un derecho no puede pasar a llevar los derechos de los demás; las normas permiten hacer cumplir ese equilibrio. | OA 18 | Formación Ciudadana | 3 |
 
 **Puntaje total: 34 puntos**
 
@@ -464,19 +457,19 @@ Examen Libre Mineduc puede usar otros criterios de conversión.*
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2 | 2 | 0 |
-| OA 2 | 3, 4 | 1 | 1 |
-| OA 3 | 5, 6 | 2 | 0 |
-| OA 5 | 7, 8 | 1 | 1 |
-| OA 7 | 9, 10 | 2 | 0 |
-| OA 8 | 11, 12 | 1 | 1 |
-| OA 9 | 13 | 1 | 0 |
-| OA 11 | 14, 15 | 2 | 0 |
-| OA 12 | 16, 17 | 1 | 1 |
-| OA 15 | 18, 19 | 2 | 0 |
-| OA 16 | 20, 21 | 1 | 1 |
-| OA 17 | 22, 23 | 1 | 1 |
-| OA 18 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **18** | **7** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2 | 2 |
+| OA 2 | 3, 4 | 2 |
+| OA 3 | 5, 6 | 2 |
+| OA 5 | 7, 8 | 2 |
+| OA 7 | 9, 10 | 2 |
+| OA 8 | 11, 12 | 2 |
+| OA 9 | 13 | 1 |
+| OA 11 | 14, 15 | 2 |
+| OA 12 | 16, 17 | 2 |
+| OA 15 | 18, 19 | 2 |
+| OA 16 | 20, 21 | 2 |
+| OA 17 | 22, 23 | 2 |
+| OA 18 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

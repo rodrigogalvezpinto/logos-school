@@ -59,25 +59,29 @@ El número **68** se lee "sesenta y ocho". Fíjate que se escribe uniendo "sesen
 
 **Pregunta 1 (alternativas).** ¿Cuál número corresponde a la palabra "setenta y cuatro"?
 a) 47
-b) 74
+b) 40
 c) 77
-d) 40
+d) 74
 
-**Respuesta correcta: b) 74.**
+**Respuesta correcta: d) 74.**
 *Retroalimentación:* "setenta y cuatro" empieza con "setenta" (70) seguido de "cuatro" (4): 70+4=74. La opción a) invierte los dígitos: 47 se lee "cuarenta y siete", no "setenta y cuatro".
 
-**Pregunta 2 (completar).** Escribe en palabras el número 56: ___
+**Pregunta 2 (alternativas — completar).** ¿Cómo se escribe en palabras el número 56?
+a) cincuenta y seis
+b) sesenta y cinco
+c) cinco y seis
+d) quinientos seis
 
-**Respuesta correcta: cincuenta y seis.**
-*Retroalimentación:* 56 = 50 (cincuenta) + 6 (seis), por eso se lee "cincuenta y seis".
+**Respuesta correcta: a) cincuenta y seis.**
+*Retroalimentación:* 56 = 50 (cincuenta) + 6 (seis), por eso se lee "cincuenta y seis". "Sesenta y cinco" sería 65, con los dígitos al revés.
 
 **Pregunta 3 (pictórico).** ::emoji::🎨::8 grupos de 10 fichas cada uno, y 3 fichas sueltas:: ¿Qué número representa esta cantidad?
 a) 38
-b) 83
+b) 93
 c) 80
-d) 93
+d) 83
 
-**Respuesta correcta: b) 83.**
+**Respuesta correcta: d) 83.**
 *Retroalimentación:* primero contamos los grupos completos de 10 (8 grupos = 80) y luego sumamos las 3 fichas sueltas: 80+3=83.
 
 **Pregunta 4 (verdadero o falso).** El número 100 se lee "diez y diez".
@@ -85,14 +89,22 @@ d) 93
 **Respuesta correcta: Falso.**
 *Retroalimentación:* el número 100 se lee "cien". "Diez y diez" no es una forma correcta de leer ningún número: 10+10=20, no 100.
 
-**Pregunta 5 (completar).** Escribe en cifras la palabra "treinta y uno": ___
+**Pregunta 5 (alternativas — completar).** ¿Cómo se escribe en cifras la palabra "treinta y uno"?
+a) 13
+b) 301
+c) 4
+d) 31
 
-**Respuesta correcta: 31.**
-*Retroalimentación:* "treinta" corresponde al 3 en el lugar de las decenas, y "uno" corresponde al 1 en el lugar de las unidades, formando el número 31.
+**Respuesta correcta: d) 31.**
+*Retroalimentación:* "treinta" corresponde al 3 en el lugar de las decenas, y "uno" corresponde al 1 en el lugar de las unidades, formando el número 31. El 13 tiene los dígitos al revés.
 
-**Pregunta 6 (aplicación).** En una feria libre, los puestos están numerados. Manuel busca el puesto "sesenta y cinco". ¿Qué número debe buscar en los carteles?
+**Pregunta 6 (alternativas — aplicación).** En una feria libre, los puestos están numerados. Manuel busca el puesto "sesenta y cinco". ¿Qué número debe buscar en los carteles?
+a) 56
+b) 11
+c) 605
+d) 65
 
-**Respuesta correcta: 65.**
+**Respuesta correcta: d) 65.**
 *Retroalimentación:* "sesenta" es 60 y "cinco" es 5; juntos forman 60+5=65.
 
 ---
@@ -140,25 +152,36 @@ d) No se puede saber
 **Respuesta correcta: a) 84.**
 *Retroalimentación:* comparamos las decenas: 8 decenas (84) es más que 7 decenas (79), por lo tanto 84 es mayor.
 
-**Pregunta 2 (completar — ordenar).** Ordena de menor a mayor: 45, 12, 78, 6 → ___, ___, ___, ___
+**Pregunta 2 (alternativas — ordenar).** ¿Cuál es el orden de **menor a mayor** de los números 45, 12, 78 y 6?
+a) 12, 6, 45, 78
+b) 78, 45, 12, 6
+c) 6, 12, 45, 78
+d) 6, 45, 12, 78
 
-**Respuesta correcta: 6, 12, 45, 78.**
-*Retroalimentación:* primero identifica el número más chico de todos, y luego ve agregando los siguientes en orden creciente hasta llegar al más grande.
+**Respuesta correcta: c) 6, 12, 45, 78.**
+*Retroalimentación:* primero identifica el número más chico de todos (6), y luego ve agregando los siguientes en orden creciente hasta llegar al más grande (78). Cuidado: 6 es menor que 12 aunque tenga un solo dígito.
 
 **Pregunta 3 (verdadero o falso).** 91 es menor que 89.
 
 **Respuesta correcta: Falso.**
 *Retroalimentación:* al comparar las decenas, 9 decenas (91) es más que 8 decenas (89), por lo tanto 91 es mayor que 89, no menor.
 
-**Pregunta 4 (comparar con monedas).** Camila tiene 2 monedas de $50 y Diego tiene 1 moneda de $100. ::emoji::🎨::2 monedas de $50 a la izquierda; 1 moneda de $100 a la derecha:: ¿Quién tiene más dinero, o tienen la misma cantidad?
+**Pregunta 4 (alternativas — comparar con monedas).** Camila tiene 2 monedas de $50 y Diego tiene 1 moneda de $100. ::emoji::🎨::2 monedas de $50 a la izquierda; 1 moneda de $100 a la derecha:: ¿Quién tiene más dinero?
+a) Tienen la misma cantidad
+b) Camila, porque tiene más monedas
+c) Diego, porque su moneda es más grande
 
-**Respuesta correcta: tienen la misma cantidad.**
-*Retroalimentación:* 2 monedas de $50 forman $100 en total (50+50=100), que es exactamente lo mismo que 1 moneda de $100. Por lo tanto, ambos tienen la misma cantidad de dinero.
+**Respuesta correcta: a) Tienen la misma cantidad.**
+*Retroalimentación:* 2 monedas de $50 forman $100 en total (50+50=100), que es exactamente lo mismo que 1 moneda de $100. Tener más monedas no significa tener más dinero.
 
-**Pregunta 5 (ordenar de mayor a menor).** Ordena de mayor a menor: 33, 90, 8, 61 → ___, ___, ___, ___
+**Pregunta 5 (alternativas — ordenar de mayor a menor).** ¿Cuál es el orden de **mayor a menor** de los números 33, 90, 8 y 61?
+a) 90, 61, 33, 8
+b) 8, 33, 61, 90
+c) 90, 33, 61, 8
+d) 61, 90, 33, 8
 
-**Respuesta correcta: 90, 61, 33, 8.**
-*Retroalimentación:* parte con el número más grande de todos (90) y ve bajando hasta llegar al más chico (8).
+**Respuesta correcta: a) 90, 61, 33, 8.**
+*Retroalimentación:* parte con el número más grande de todos (90) y ve bajando hasta llegar al más chico (8). La opción 8, 33, 61, 90 está ordenada al revés.
 
 **Pregunta 6 (alternativas).** ¿Qué palabra completa correctamente la comparación? 47 es ___ que 74.
 a) menor
@@ -207,37 +230,53 @@ Pensamos: 38 = 20 + ___. Como 20+18=38, entonces hay **18 empanadas de queso**.
 
 **Pregunta 1 (alternativas).** ¿Cuál descomposición es correcta para el número 76?
 a) 76 = 7 + 6
-b) 76 = 70 + 6
+b) 76 = 7 + 60
 c) 76 = 60 + 7
-d) 76 = 7 + 60
+d) 76 = 70 + 6
 
-**Respuesta correcta: b) 76 = 70 + 6.**
+**Respuesta correcta: d) 76 = 70 + 6.**
 *Retroalimentación:* 76 tiene 7 decenas (70) y 6 unidades (6): 70+6=76. Las otras opciones confunden el valor de los dígitos según su posición.
 
-**Pregunta 2 (completar).** 58 = 50 + ___
+**Pregunta 2 (alternativas — completar).** 58 = 50 + ___ . ¿Qué número falta?
+a) 5
+b) 8
+c) 18
+d) 58
 
-**Respuesta correcta: 8.**
+**Respuesta correcta: b) 8.**
 *Retroalimentación:* 58 tiene 5 decenas (50) y 8 unidades sueltas, por eso el número que falta es 8.
 
-**Pregunta 3 (desarrollo).** Da dos formas distintas de descomponer el número 84 en dos partes.
+**Pregunta 3 (varias correctas).** ¿Cuáles son formas correctas de descomponer el número 84 en dos partes? Marca **todas** las correctas.
+a) 84 = 80 + 4
+b) 84 = 70 + 14
+c) 84 = 40 + 8
+d) 84 = 50 + 34
 
-**Respuesta esperada (ejemplos válidos):** 84 = 80 + 4, o 84 = 70 + 14, o 84 = 50 + 34, entre otras.
-*Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes que elegiste, el resultado sea exactamente 84.
+**Respuesta correcta: a, b y d.**
+*Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes, el resultado sea exactamente 84. 40 + 8 da 48: se confundieron las decenas con las unidades.
 
-**Pregunta 4 (pictórico).** ::emoji::🎨::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué número forman en total? Escribe la suma que representa esta composición.
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué suma representa esta composición?
+a) 5 + 7 = 12
+b) 50 + 70 = 120
+c) 70 + 5 = 75
+d) 50 + 7 = 57
 
-**Respuesta esperada:** 50 + 7 = **57**.
-*Retroalimentación:* 5 grupos de 10 fichas forman 50 (5 decenas), y le sumamos las 7 fichas sueltas: 50+7=57.
+**Respuesta correcta: d) 50 + 7 = 57.**
+*Retroalimentación:* 5 grupos de 10 fichas forman 50 (5 decenas), y le sumamos las 7 fichas sueltas: 50+7=57. Si cuentas cada grupo como 1, llegas a 12, pero cada grupo vale 10.
 
 **Pregunta 5 (verdadero o falso).** El número 90 se puede descomponer como 70 + 20.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* si sumamos 70+20 obtenemos 90, por lo tanto esta es una descomposición correcta del número 90.
 
-**Pregunta 6 (aplicación).** En una caja hay 52 huevos en total. 30 son blancos y el resto son de color. ¿Cuántos huevos son de color?
+**Pregunta 6 (alternativas — aplicación).** En una caja hay 52 huevos en total. 30 son blancos y el resto son de color. ¿Cuántos huevos son de color?
+a) 82
+b) 32
+c) 22
+d) 20
 
-**Respuesta esperada:** 52 = 30 + ___ → **22 huevos de color**.
-*Retroalimentación:* buscamos qué número le falta a 30 para llegar a 52: 30+22=52, por lo tanto hay 22 huevos de color.
+**Respuesta correcta: c) 22.**
+*Retroalimentación:* buscamos qué número le falta a 30 para llegar a 52: 30+22=52, por lo tanto hay 22 huevos de color. Si sumas 52+30 = 82 estás juntando el total con una de sus partes.
 
 ---
 
@@ -274,39 +313,55 @@ d) 68 decenas y 0 unidades
 **Respuesta correcta: a) 6 decenas y 8 unidades.**
 *Retroalimentación:* 68 se forma con 6 grupos completos de 10 (6 decenas) y 8 elementos sueltos (8 unidades): 60+8=68.
 
-**Pregunta 2 (completar).** 4 decenas y 7 unidades forman el número ___
+**Pregunta 2 (alternativas — completar).** 4 decenas y 7 unidades forman el número...
+a) 47
+b) 74
+c) 11
+d) 407
 
-**Respuesta correcta: 47.**
-*Retroalimentación:* 4 decenas valen 40, y le sumamos las 7 unidades sueltas: 40+7=47.
+**Respuesta correcta: a) 47.**
+*Retroalimentación:* 4 decenas valen 40, y le sumamos las 7 unidades sueltas: 40+7=47. El 74 tendría 7 decenas y 4 unidades.
 
 **Pregunta 3 (verdadero o falso).** En el número 100 hay 10 decenas y 0 unidades.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 100 se forma exactamente con 10 grupos de 10, sin que sobre ningún elemento suelto: 10×10=100.
 
-**Pregunta 4 (pictórico).** ::emoji::🎨::3 bloques que representan decenas, y 8 cubitos sueltos:: ¿Qué número representa esta imagen?
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::3 bloques que representan decenas, y 8 cubitos sueltos:: ¿Qué número representa esta imagen?
+a) 83
+b) 11
+c) 308
+d) 38
 
-**Respuesta correcta: 38.**
+**Respuesta correcta: d) 38.**
 *Retroalimentación:* 3 bloques de decenas valen 30, y le sumamos los 8 cubitos sueltos: 30+8=38.
 
 **Pregunta 5 (valor posicional).** En el número 52, ¿cuánto vale el dígito 5?
 a) 5
-b) 50
-c) 52
-d) 25
+b) 25
+c) 50
+d) 52
 
-**Respuesta correcta: b) 50.**
+**Respuesta correcta: c) 50.**
 *Retroalimentación:* el dígito 5 está en el lugar de las decenas, por lo tanto su valor real es 50, no simplemente 5.
 
-**Pregunta 6 (comparar valor posicional).** ¿En cuál de estos dos números el dígito 4 vale 40: en 47 o en 74?
+**Pregunta 6 (alternativas — valor posicional).** ¿En cuál de estos números el dígito 4 vale **40**?
+a) En 4
+b) En 47
+c) En 74
+d) En 94
 
-**Respuesta correcta: en 47.**
-*Retroalimentación:* en 47, el 4 está en el lugar de las decenas (vale 40); en 74, el 4 está en el lugar de las unidades (vale solo 4).
+**Respuesta correcta: b) En 47.**
+*Retroalimentación:* en 47, el 4 está en el lugar de las decenas (vale 40); en 74 y en 94, el 4 está en el lugar de las unidades (vale solo 4).
 
-**Pregunta 7 (desarrollo).** Nicolás tiene 89 láminas y las agrupa de a 10. ¿Cuántos grupos de 10 se forman y cuántas láminas quedan sueltas?
+**Pregunta 7 (alternativas).** Nicolás tiene 89 láminas y las agrupa de a 10. ¿Cuántos grupos de 10 se forman y cuántas láminas quedan sueltas?
+a) 9 grupos y 8 sueltas
+b) 89 grupos y ninguna suelta
+c) 8 grupos y 9 sueltas
+d) 8 grupos y 19 sueltas
 
-**Respuesta esperada:** se forman **8 grupos de 10** (8 decenas) y quedan **9 láminas sueltas** (9 unidades).
-*Retroalimentación:* como 89 no llega a formar 9 grupos completos de 10, solo se pueden armar 8 decenas, y el resto (9) queda como unidades sueltas.
+**Respuesta correcta: c) 8 grupos y 9 sueltas.**
+*Retroalimentación:* como 89 no llega a formar 9 grupos completos de 10, solo se pueden armar 8 decenas (80), y el resto (9) queda como unidades sueltas: 80 + 9 = 89.
 
 ---
 
@@ -368,25 +423,41 @@ d) 52 + 52
 **Respuesta correcta: a) 52 + 36.**
 *Retroalimentación:* como llegan más personas (aumenta la cantidad), la situación se resuelve con una suma: 52+36=88 personas.
 
-**Pregunta 5 (problema de aplicación).** En la biblioteca del colegio hay 63 libros de cuentos y 25 libros de ciencias. ¿Cuántos libros hay en total?
+**Pregunta 5 (alternativas — problema de aplicación).** En la biblioteca del colegio hay 63 libros de cuentos y 25 libros de ciencias. ¿Cuántos libros hay en total?
+a) 88
+b) 38
+c) 78
+d) 813
 
-**Respuesta esperada:** 63+25=**88 libros**.
-*Retroalimentación:* sumamos decenas (60+20=80) y unidades (3+5=8): 80+8=88 libros en total.
+**Respuesta correcta: a) 88.**
+*Retroalimentación:* sumamos decenas (60+20=80) y unidades (3+5=8): 80+8=88 libros en total. Si restas (63 − 25 = 38) estarías quitando libros.
 
-**Pregunta 6 (problema de aplicación — resta).** Un kiosko tenía 96 bebidas y vendió 34 durante el día. ¿Cuántas bebidas le quedan?
+**Pregunta 6 (alternativas — problema de aplicación, resta).** Un kiosko tenía 96 bebidas y vendió 34 durante el día. ¿Cuántas bebidas le quedan?
+a) 130
+b) 72
+c) 62
+d) 52
 
-**Respuesta esperada:** 96-34=**62 bebidas**.
-*Retroalimentación:* restamos decenas (90-30=60) y unidades (6-4=2): 60+2=62 bebidas.
+**Respuesta correcta: c) 62.**
+*Retroalimentación:* restamos decenas (90-30=60) y unidades (6-4=2): 60+2=62 bebidas. Si sumas (96 + 34 = 130) estarías agregando bebidas en vez de quitarlas.
 
-**Pregunta 7 (hechos conocidos hasta 20).** Sin hacer cálculos largos, resuelve de memoria: 8 + 6 = ?
+**Pregunta 7 (alternativas — hechos conocidos hasta 20).** Sin hacer cálculos largos, resuelve de memoria: 8 + 6 = ?
+a) 15
+b) 14
+c) 13
+d) 2
 
-**Respuesta correcta: 14.**
+**Respuesta correcta: b) 14.**
 *Retroalimentación:* esta es una suma que ya aprendiste en 1° básico dentro del ámbito 0 al 20; recordarla de memoria te ayuda a resolver problemas más grandes con mayor rapidez.
 
-**Pregunta 8 (crear un problema — desarrollo abierto).** Inventa tu propio problema de resta usando el número 70 (por ejemplo, con dinero o con objetos de tu casa), y resuélvelo.
+**Pregunta 8 (alternativas — problema de resta).** ¿Cuál de estos es un **problema de resta** con el número 70, bien resuelto?
+a) "Tenía $70 y me regalaron $40. ¿Cuánto tengo?" → 70 − 40 = 30
+b) "Tenía $70 y gasté $40. ¿Cuánto me queda?" → 70 + 40 = 110
+c) "Tenía $70 y gasté $40 en dulces. ¿Cuánto me queda?" → 70 − 40 = 30
+d) "Tenía $70 y gasté $40. ¿Cuánto me queda?" → 70 − 40 = 40
 
-**Respuesta esperada (ejemplo):** "Tenía $70 y gasté $40 en dulces. ¿Cuánto dinero me queda?" → 70-40=30.
-*Retroalimentación:* lo importante es que tu problema tenga una situación donde una cantidad disminuye, y que la resta esté bien resuelta, sin necesitar reserva (pedir prestado).
+**Respuesta correcta: c) "Tenía $70 y gasté $40 en dulces. ¿Cuánto me queda?" → 70 − 40 = 30.**
+*Retroalimentación:* en un problema de resta una cantidad disminuye (gasté $40), y la resta debe estar bien resuelta: 70 − 40 = 30. Si la cantidad aumenta ("me regalaron"), el problema es de suma; y en una resta no sirve sumar ni equivocarse en el resultado. Ahora inventa tú un problema de resta con el 70.
 
 ---
 
@@ -427,24 +498,40 @@ En un cumpleaños hay 6 platos, y en cada plato hay 10 sopaipillas.
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (completar).** La suma 4+4+4+4+4 tiene 5 sumandos iguales a 4. Escríbela como una multiplicación: ___ × ___ = ___
+**Pregunta 1 (alternativas — completar).** La suma 4+4+4+4+4 tiene 5 sumandos iguales a 4. ¿Cómo se escribe como multiplicación?
+a) 5 × 4 = 20
+b) 4 × 4 = 16
+c) 5 + 4 = 9
+d) 5 × 5 = 25
 
-**Respuesta correcta: 5 × 4 = 20.**
+**Respuesta correcta: a) 5 × 4 = 20.**
 *Retroalimentación:* como hay 5 sumandos y cada uno vale 4, escribimos 5×4=20 (equivalente a sumar cinco veces el número 4).
 
-**Pregunta 2 (pictórico).** ::emoji::⭐::5 grupos de 2 estrellas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+**Pregunta 2 (alternativas — pictórico).** ::emoji::⭐::5 grupos de 2 estrellas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+a) 5 + 2 = 7
+b) 2 × 2 = 4
+c) 5 × 5 = 25
+d) 5 × 2 = 10
 
-**Respuesta correcta: 5×2=10.**
+**Respuesta correcta: d) 5 × 2 = 10.**
 *Retroalimentación:* hay 5 grupos, y cada grupo tiene 2 estrellas, por lo tanto la multiplicación es 5×2, cuyo resultado es 10.
 
-**Pregunta 3 (tabla del 2).** Calcula: 6 × 2 = ?
+**Pregunta 3 (alternativas — tabla del 2).** Calcula: 6 × 2 = ?
+a) 8
+b) 12
+c) 14
+d) 62
 
-**Respuesta correcta: 12.**
-*Retroalimentación:* puedes pensar en 6 grupos de 2 (2+2+2+2+2+2=12), o recordar la tabla del 2: 6×2=12.
+**Respuesta correcta: b) 12.**
+*Retroalimentación:* puedes pensar en 6 grupos de 2 (2+2+2+2+2+2=12), o recordar la tabla del 2: 6×2=12. 6 + 2 = 8 es una suma, no una multiplicación.
 
-**Pregunta 4 (tabla del 10).** Calcula: 8 × 10 = ?
+**Pregunta 4 (alternativas — tabla del 10).** Calcula: 8 × 10 = ?
+a) 18
+b) 810
+c) 80
+d) 800
 
-**Respuesta correcta: 80.**
+**Respuesta correcta: c) 80.**
 *Retroalimentación:* al multiplicar por 10, el resultado siempre termina en 0: el número 8 indica cuántas decenas hay, entonces 8×10=80.
 
 **Pregunta 5 (reconocer la operación).** En un gallinero hay 7 gallinas, y cada una pone 2 huevos en un día. ¿Qué operación permite saber cuántos huevos hay en total?
@@ -456,10 +543,14 @@ d) No se puede resolver
 **Respuesta correcta: b) Multiplicación.**
 *Retroalimentación:* como se repite la misma cantidad (2 huevos) por cada una de las 7 gallinas, se trata de una multiplicación: 7×2=14 huevos.
 
-**Pregunta 6 (problema de aplicación — tabla del 5).** En una feria, cada puesto de frutas tiene 5 canastos. Si hay 4 puestos, ¿cuántos canastos hay en total?
+**Pregunta 6 (alternativas — problema de aplicación, tabla del 5).** En una feria, cada puesto de frutas tiene 5 canastos. Si hay 4 puestos, ¿cuántos canastos hay en total?
+a) 9
+b) 20
+c) 25
+d) 45
 
-**Respuesta esperada:** 4×5=**20 canastos**.
-*Retroalimentación:* hay 4 grupos de 5 canastos cada uno, por lo tanto 4×5=20 canastos en total.
+**Respuesta correcta: b) 20.**
+*Retroalimentación:* hay 4 grupos de 5 canastos cada uno, por lo tanto 4×5=20 canastos en total. 4 + 5 = 9 suma los números en vez de contar los grupos.
 
 **Pregunta 7 (verdadero o falso).** 3×10 es lo mismo que sumar 10+10+10.
 
@@ -509,9 +600,13 @@ d) restar 10
 **Respuesta correcta: b) sumar 10.**
 *Retroalimentación:* la diferencia entre cada número y el anterior es siempre 10 (20-10=10, 30-20=10), por lo tanto la regla es "sumar 10".
 
-**Pregunta 2 (completar).** Completa la secuencia: 45, 50, 55, ___, 65
+**Pregunta 2 (alternativas — completar).** Completa la secuencia: 45, 50, 55, ___, 65
+a) 56
+b) 70
+c) 57
+d) 60
 
-**Respuesta correcta: 60.**
+**Respuesta correcta: d) 60.**
 *Retroalimentación:* la regla es "sumar 5" (45+5=50, 50+5=55, 55+5=60, 60+5=65), por lo tanto el número que falta es 60.
 
 **Pregunta 3 (verdadero o falso).** El patrón 88, 77, 66, 55 es creciente.
@@ -519,9 +614,13 @@ d) restar 10
 **Respuesta correcta: Falso.**
 *Retroalimentación:* cada número es menor que el que viene antes (77 es menor que 88, 66 es menor que 77, y así sucesivamente), por lo tanto la secuencia es decreciente, no creciente.
 
-**Pregunta 4 (completar elemento en el medio).** Completa: 6, 12, 18, ___, 30
+**Pregunta 4 (alternativas — completar elemento en el medio).** Completa: 6, 12, 18, ___, 30
+a) 20
+b) 22
+c) 24
+d) 26
 
-**Respuesta correcta: 24.**
+**Respuesta correcta: c) 24.**
 *Retroalimentación:* la regla es "sumar 6" (6+6=12, 12+6=18, 18+6=24, 24+6=30), por lo tanto falta el 24.
 
 **Pregunta 5 (identificar la regla).** En la secuencia 95, 85, 75, 65, ¿cuál es la regla que se repite?
@@ -533,10 +632,14 @@ d) restar 15
 **Respuesta correcta: b) restar 10.**
 *Retroalimentación:* la diferencia entre cada número y el siguiente es siempre 10 (95-85=10), por lo tanto la regla es "restar 10".
 
-**Pregunta 6 (crear un patrón — desarrollo abierto).** Crea tu propia secuencia numérica creciente que empiece en 5 y use la regla "sumar 5", escribiendo al menos 5 números.
+**Pregunta 6 (alternativas — patrón).** ¿Cuál secuencia empieza en 5 y sigue la regla "sumar 5"?
+a) 5, 6, 7, 8, 9
+b) 5, 10, 20, 40, 80
+c) 5, 10, 15, 20, 25
+d) 5, 15, 25, 35, 45
 
-**Respuesta esperada (ejemplo):** 5, 10, 15, 20, 25.
-*Retroalimentación:* lo importante es que cada número de tu secuencia sea exactamente 5 más que el anterior, empezando desde el 5.
+**Respuesta correcta: c) 5, 10, 15, 20, 25.**
+*Retroalimentación:* cada número de la secuencia debe ser exactamente 5 más que el anterior, empezando desde el 5: 5, 10, 15, 20, 25. En las otras se suma 1, se duplica o se suma 10.
 
 ---
 
@@ -568,9 +671,12 @@ Calculamos ambos lados: 6+5=11, y 9+1=10. Como 11 es mayor que 10, escribimos: *
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (completar símbolo).** 9+4 ___ 15
+**Pregunta 1 (alternativas — completar símbolo).** ¿Qué símbolo va en el espacio? 9+4 ___ 15
+a) >
+b) <
+c) =
 
-**Respuesta correcta: <.**
+**Respuesta correcta: b) <.**
 *Retroalimentación:* 9+4=13, y como 13 es menor que 15, el símbolo correcto es < (menor que).
 
 **Pregunta 2 (alternativas).** ¿Qué símbolo hace verdadera la comparación? 6+6 ___ 12
@@ -587,14 +693,21 @@ d) ninguno
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 8+5=13, no 14, por lo tanto la igualdad escrita es falsa; el resultado correcto de 8+5 es 13.
 
-**Pregunta 4 (balanza pictórica).** ::emoji::🎨::una balanza equilibrada, con "4+7" en un platillo y "5+6" en el otro:: ¿Está equilibrada esta balanza? ¿Por qué?
+**Pregunta 4 (alternativas — balanza pictórica).** ::emoji::🎨::una balanza equilibrada, con "4+7" en un platillo y "5+6" en el otro:: ¿Está equilibrada esta balanza? ¿Por qué?
+a) Sí, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo.
+b) No, porque los números de un lado son distintos a los del otro lado.
+c) No, porque 5+6 es más que 4+7: el lado derecho pesa más.
+d) Sí, porque todos los números son menores que 10.
 
-**Respuesta esperada:** sí está equilibrada, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo.
+**Respuesta correcta: a) Sí, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo..**
 *Retroalimentación:* aunque las dos expresiones se ven distintas, ambas dan el mismo resultado (11), por lo tanto son iguales y la balanza queda equilibrada.
 
-**Pregunta 5 (comparar dos expresiones).** Compara: 10+9 ___ 7+7
+**Pregunta 5 (alternativas — comparar dos expresiones).** ¿Qué símbolo va en el espacio? 10+9 ___ 7+7
+a) <
+b) =
+c) >
 
-**Respuesta correcta: >.**
+**Respuesta correcta: c) >.**
 *Retroalimentación:* 10+9=19 y 7+7=14; como 19 es mayor que 14, el símbolo correcto es > (mayor que).
 
 **Pregunta 6 (identificar la balanza correcta).** ¿Cuál balanza representa correctamente la expresión 6+3=9?
@@ -639,17 +752,21 @@ El círculo no tiene lados rectos ni vértices: es una línea curva y cerrada. P
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuántos lados tiene un triángulo?
-a) 2
+a) 4
 b) 3
-c) 4
+c) 2
 d) 0
 
 **Respuesta correcta: b) 3.**
 *Retroalimentación:* la palabra "triángulo" viene de "tres ángulos", y tiene exactamente 3 lados y 3 vértices.
 
-**Pregunta 2 (completar).** Un cuadrado tiene ___ lados, todos de igual medida.
+**Pregunta 2 (alternativas — completar).** Un cuadrado tiene ___ lados, todos de igual medida.
+a) 3
+b) 5
+c) 6
+d) 4
 
-**Respuesta correcta: 4.**
+**Respuesta correcta: d) 4.**
 *Retroalimentación:* el cuadrado es una figura con 4 lados y 4 vértices, y tiene una característica especial: sus 4 lados miden exactamente lo mismo.
 
 **Pregunta 3 (verdadero o falso).** El círculo tiene 4 vértices.
@@ -657,9 +774,13 @@ d) 0
 **Respuesta correcta: Falso.**
 *Retroalimentación:* el círculo no tiene vértices ni lados rectos; es una línea curva y cerrada, por lo tanto tiene 0 vértices.
 
-**Pregunta 4 (comparar).** ¿En qué se diferencian un cuadrado y un rectángulo, si ambos tienen 4 lados y 4 vértices?
+**Pregunta 4 (alternativas — comparar).** ¿En qué se diferencian un cuadrado y un rectángulo, si ambos tienen 4 lados y 4 vértices?
+a) El rectángulo tiene 5 lados y el cuadrado tiene 4 lados iguales.
+b) En el cuadrado los 4 lados miden lo mismo; en el rectángulo hay dos lados largos y dos cortos.
+c) El cuadrado no tiene vértices, porque sus esquinas son redondeadas.
+d) No se diferencian en nada: todo cuadrado es igual a cualquier rectángulo, aunque tenga lados de distinto largo.
 
-**Respuesta esperada:** en el cuadrado, los 4 lados miden lo mismo; en el rectángulo, solo los lados opuestos son iguales entre sí (dos lados largos y dos cortos).
+**Respuesta correcta: b) En el cuadrado los 4 lados miden lo mismo; en el rectángulo hay dos lados largos y dos cortos..**
 *Retroalimentación:* fijarse en si todos los lados miden exactamente lo mismo (cuadrado) o si hay dos pares de lados de distinto largo (rectángulo) es la clave para diferenciarlos.
 
 **Pregunta 5 (identificar figura por descripción).** ¿Qué figura tiene 3 lados y 3 vértices?
@@ -671,10 +792,14 @@ d) Triángulo
 **Respuesta correcta: d) Triángulo.**
 *Retroalimentación:* la única figura entre estas opciones con 3 lados y 3 vértices es el triángulo.
 
-**Pregunta 6 (construcción — desarrollo).** Usando palitos de helado, ¿cuántos palitos necesitas como mínimo para construir un rectángulo? Descríbelo.
+**Pregunta 6 (alternativas — construcción).** Usando palitos de helado, ¿cuál es la forma de construir un rectángulo con la menor cantidad de palitos?
+a) 3 palitos iguales, unidos en las 3 esquinas
+b) 4 palitos de distinto largo cada uno, unidos en las esquinas
+c) 4 palitos: 2 largos y 2 cortos, unidos en las 4 esquinas
+d) 6 palitos iguales: 3 arriba y 3 abajo
 
-**Respuesta esperada:** 4 palitos: 2 más largos (los lados largos) y 2 más cortos (los lados cortos), unidos en las 4 esquinas (vértices).
-*Retroalimentación:* un rectángulo se puede construir con 4 palitos formando 2 pares de lados opuestos iguales, unidos en sus 4 vértices.
+**Respuesta correcta: c) 4 palitos: 2 largos y 2 cortos, unidos en las 4 esquinas.**
+*Retroalimentación:* un rectángulo se puede construir con 4 palitos formando 2 pares de lados opuestos iguales (2 largos y 2 cortos), unidos en sus 4 vértices. Con 3 palitos solo se arma un triángulo.
 
 ---
 
@@ -715,9 +840,13 @@ d) Paralelepípedo
 **Respuesta correcta: c) Esfera.**
 *Retroalimentación:* la esfera es la figura 3D con forma de pelota: toda su superficie es curva, sin caras planas ni vértices.
 
-**Pregunta 2 (completar).** Un dado tiene forma de ___, con 6 caras cuadradas.
+**Pregunta 2 (alternativas — completar).** Un dado tiene forma de ___, con 6 caras cuadradas.
+a) cubo
+b) cilindro
+c) cono
+d) esfera
 
-**Respuesta correcta: cubo.**
+**Respuesta correcta: a) cubo.**
 *Retroalimentación:* el dado es un ejemplo cotidiano de cubo: tiene 6 caras cuadradas iguales y 8 vértices.
 
 **Pregunta 3 (verdadero o falso).** El cono tiene una cara circular y una superficie curva.
@@ -734,15 +863,23 @@ d) Una naranja
 **Respuesta correcta: c) Una caja de zapatos.**
 *Retroalimentación:* una caja de zapatos tiene forma de paralelepípedo: sus caras son rectangulares.
 
-**Pregunta 5 (comparar).** ::emoji::🎨::una lata de bebida (cilindro) y un cucurucho de helado (cono):: ¿En qué se parecen y en qué se diferencian estas dos figuras?
+**Pregunta 5 (alternativas — comparar).** ::emoji::🎨::una lata de bebida (cilindro) y un cucurucho de helado (cono):: ¿Qué afirmación es correcta?
+a) El cono tiene 2 caras circulares y el cilindro ninguna.
+b) Ninguno de los dos tiene superficie curva: solo tienen caras planas.
+c) Los dos terminan en punta y tienen una cara circular cada uno.
+d) El cilindro tiene 2 caras circulares y el cono solo 1, y termina en punta.
 
-**Respuesta esperada:** ambas tienen una superficie curva y al menos una cara circular; se diferencian en que el cilindro tiene 2 caras circulares (arriba y abajo), mientras que el cono solo tiene 1 cara circular y termina en un vértice puntiagudo.
-*Retroalimentación:* fijarte en cuántas caras planas circulares tiene cada figura, y si termina en punta (vértice) o no, te ayuda a diferenciarlas.
+**Respuesta correcta: d) El cilindro tiene 2 caras circulares y el cono solo 1, y termina en punta..**
+*Retroalimentación:* ambas figuras tienen una superficie curva; el cilindro tiene 2 caras circulares (arriba y abajo), mientras que el cono solo tiene 1 y termina en un vértice puntiagudo. Fijarte en cuántas caras circulares tiene cada figura y si termina en punta te ayuda a diferenciarlas.
 
-**Pregunta 6 (aplicación).** Nombra un objeto de tu casa que tenga forma de cubo, y explica cómo lo sabes.
+**Pregunta 6 (alternativas — aplicación).** ¿Cuál de estos objetos tiene forma de **cubo**, y por qué?
+a) Una pelota, porque es redonda y rueda por todos lados
+b) Un cubo mágico, porque sus 6 caras son cuadradas e iguales
+c) Una lata de bebida, porque tiene 2 caras circulares
+d) Un cucurucho, porque termina en punta
 
-**Respuesta esperada (ejemplo):** "Un cubo mágico tiene forma de cubo, porque sus 6 caras son cuadradas e iguales."
-*Retroalimentación:* lo importante es que identifiques un objeto real con 6 caras cuadradas iguales, para reconocer correctamente la forma de cubo.
+**Respuesta correcta: b) Un cubo mágico, porque sus 6 caras son cuadradas e iguales.**
+*Retroalimentación:* lo importante es identificar un objeto real con 6 caras cuadradas iguales. La pelota es una esfera, la lata un cilindro y el cucurucho un cono.
 
 ---
 
@@ -783,9 +920,13 @@ d) No se puede medir
 **Respuesta correcta: b) Metros.**
 *Retroalimentación:* como la sala de clases es un espacio grande, es más adecuado usar metros (m) que centímetros, que se usan para objetos más pequeños.
 
-**Pregunta 2 (pictórico).** ::emoji::🧹::una goma de borrar junto a una regla marcada en cm; la goma va desde el 0 hasta el 5:: ¿Cuánto mide la goma de borrar?
+**Pregunta 2 (alternativas — pictórico).** ::emoji::🧹::una goma de borrar junto a una regla marcada en cm; la goma va desde el 0 hasta el 5:: ¿Cuánto mide la goma de borrar?
+a) 0 cm
+b) 4 cm
+c) 5 cm
+d) 6 cm
 
-**Respuesta correcta: 5 cm.**
+**Respuesta correcta: c) 5 cm.**
 *Retroalimentación:* al leer la regla desde el 0 hasta donde termina la goma, vemos que llega hasta la marca del 5, por lo tanto mide 5 centímetros.
 
 **Pregunta 3 (verdadero o falso).** El metro (m) es una unidad más grande que el centímetro (cm).
@@ -793,24 +934,37 @@ d) No se puede medir
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 1 metro equivale a 100 centímetros, por lo tanto el metro es una unidad mucho más grande que el centímetro.
 
-**Pregunta 4 (comparar).** Un lápiz mide 14 cm y una regla mide 30 cm. ¿Cuál objeto es más largo?
+**Pregunta 4 (alternativas — comparar).** Un lápiz mide 14 cm y una regla mide 30 cm. ¿Cuál objeto es más largo?
+a) La regla
+b) El lápiz
+c) Miden lo mismo
 
-**Respuesta correcta: la regla.**
+**Respuesta correcta: a) La regla.**
 *Retroalimentación:* comparamos las medidas en la misma unidad (cm): 30 es mayor que 14, por lo tanto la regla es más larga que el lápiz.
 
-**Pregunta 5 (elegir unidad).** ¿Con qué unidad medirías la distancia entre tu casa y la plaza de tu barrio: con centímetros o con metros?
+**Pregunta 5 (alternativas — elegir unidad).** ¿Con qué unidad medirías la distancia entre tu casa y la plaza de tu barrio?
+a) Con metros
+b) Con centímetros
 
-**Respuesta correcta: metros.**
+**Respuesta correcta: a) Con metros.**
 *Retroalimentación:* la distancia entre lugares suele ser grande, por eso se usa el metro; los centímetros se reservan para medir objetos pequeños, como un lápiz o un cuaderno.
 
-**Pregunta 6 (desarrollo — no estandarizada vs. estandarizada).** Antes usabas tus manos para medir el largo de una mesa. ¿Por qué es mejor usar una regla marcada en centímetros en vez de tus manos?
+**Pregunta 6 (alternativas — unidad estandarizada).** ¿Por qué es mejor usar una regla marcada en centímetros en vez de tus manos para medir el largo de una mesa?
+a) Porque el centímetro mide siempre lo mismo, sin importar quién mida; las manos de cada persona tienen distinto tamaño.
+b) Porque las manos miden siempre lo mismo, pero la regla es más fácil de llevar al colegio y no se cansa.
+c) Porque con la regla la mesa se hace más larga y así se puede medir mejor con números.
+d) Porque con las manos no se puede contar, y con la regla sí se pueden contar los números.
 
-**Respuesta esperada:** porque el centímetro es una unidad estandarizada: mide siempre lo mismo, sin importar quién mida; en cambio, las manos de cada persona tienen un tamaño distinto, por lo que la medición no es exacta ni comparable.
-*Retroalimentación:* las unidades estandarizadas como el cm permiten que dos personas distintas midan el mismo objeto y obtengan el mismo resultado.
+**Respuesta correcta: a) Porque el centímetro mide siempre lo mismo, sin importar quién mida; las manos de cada persona tienen distinto tamaño..**
+*Retroalimentación:* las unidades estandarizadas como el cm permiten que dos personas distintas midan el mismo objeto y obtengan el mismo resultado; con las manos, cada persona obtendría un número distinto.
 
-**Pregunta 7 (problema).** Una cuerda mide 45 cm y se corta un pedazo de 15 cm. ¿Cuánto mide el pedazo que queda?
+**Pregunta 7 (alternativas — problema).** Una cuerda mide 45 cm y se corta un pedazo de 15 cm. ¿Cuánto mide el pedazo que queda?
+a) 60 cm
+b) 35 cm
+c) 30 cm
+d) 15 cm
 
-**Respuesta correcta:** 45-15=**30 cm**.
+**Respuesta correcta: c) 30 cm.**
 *Retroalimentación:* al restar el pedazo cortado (15 cm) del largo total (45 cm), obtenemos el largo que queda: 45-15=30 cm.
 
 ---
@@ -858,12 +1012,12 @@ No está correcto, porque si lanzó la moneda 10 veces, el total de cara + sello
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Según la tabla del Ejemplo 1, ¿cuántas veces salió sello?
-a) 3
+a) 10
 b) 7
-c) 10
+c) 3
 d) 0
 
-**Respuesta correcta: a) 3.**
+**Respuesta correcta: c) 3.**
 *Retroalimentación:* en la fila de "Sello" hay 3 marcas, por lo tanto la moneda cayó en sello 3 veces.
 
 **Pregunta 2 (verdadero o falso).** Según la tabla del Ejemplo 2, el número que salió más veces fue el 3.
@@ -871,24 +1025,39 @@ d) 0
 **Respuesta correcta: Falso.**
 *Retroalimentación:* el número 5 salió 4 veces, más que el número 3, que solo salió 3 veces; por lo tanto el más frecuente fue el 5, no el 3.
 
-**Pregunta 3 (desarrollo).** Según la tabla del Ejemplo 2, ¿cuántas veces se lanzó el dado en total?
+**Pregunta 3 (alternativas).** Según la tabla del Ejemplo 2, ¿cuántas veces se lanzó el dado en total?
+a) 6
+b) 12
+c) 10
+d) 4
 
-**Respuesta correcta:** 2+1+3+2+4+0=**12 veces**.
+**Respuesta correcta: b) 12.**
 *Retroalimentación:* para saber el total de lanzamientos, sumamos todas las cantidades registradas para cada número: 2+1+3+2+4+0=12.
 
-**Pregunta 4 (evaluar un registro).** Un niño lanzó un dado 15 veces, pero al sumar su tabla de conteo obtuvo un total de 13. ¿Está bien hecho su registro? ¿Por qué?
+**Pregunta 4 (alternativas — evaluar un registro).** Un niño lanzó un dado 15 veces, pero al sumar su tabla de conteo obtuvo un total de 13. ¿Está bien hecho su registro?
+a) Sí, porque 13 y 15 son números parecidos y una diferencia de 2 no importa en un conteo.
+b) Sí, porque los dados tienen 6 caras y no todas las caras alcanzan a salir en 15 lanzamientos.
+c) No, porque el total de la tabla (13) no coincide con los lanzamientos reales (15): le faltan 2 registros.
+d) No, porque el total de la tabla (13) es mayor que los lanzamientos reales: le sobran 2 registros.
 
-**Respuesta esperada:** no está bien hecho, porque el total de la tabla (13) no coincide con la cantidad real de lanzamientos (15); le faltan 2 registros.
-*Retroalimentación:* al registrar datos, la suma de todas las marcas de la tabla siempre debe coincidir exactamente con la cantidad real de eventos ocurridos.
+**Respuesta correcta: c) No, porque el total de la tabla (13) no coincide con los lanzamientos reales (15): le faltan 2 registros..**
+*Retroalimentación:* al registrar datos, la suma de todas las marcas de la tabla siempre debe coincidir exactamente con la cantidad real de eventos ocurridos. Como 13 es menos que 15, faltan registros (no sobran).
 
-**Pregunta 5 (pregunta estadística).** Según la tabla del Ejemplo 1 (cara: 7, sello: 3), ¿salió más veces cara o sello?
+**Pregunta 5 (alternativas — pregunta estadística).** Según la tabla del Ejemplo 1 (cara: 7, sello: 3), ¿salió más veces cara o sello?
+a) Sello
+b) Cara
+c) Salieron la misma cantidad de veces
 
-**Respuesta correcta: cara** (7 veces, más que las 3 de sello).
+**Respuesta correcta: b) Cara.**
 *Retroalimentación:* comparamos las cantidades registradas: 7 es mayor que 3, por lo tanto cara salió más veces que sello.
 
-**Pregunta 6 (aplicación).** Un grupo de niños lanzó un dado y registró: número par (2, 4, 6): 8 veces; número impar (1, 3, 5): 5 veces. ¿Cuántas veces se lanzó el dado en total?
+**Pregunta 6 (alternativas — aplicación).** Un grupo de niños lanzó un dado y registró: número par (2, 4, 6): 8 veces; número impar (1, 3, 5): 5 veces. ¿Cuántas veces se lanzó el dado en total?
+a) 13
+b) 3
+c) 8
+d) 6
 
-**Respuesta correcta:** 8+5=**13 veces**.
+**Respuesta correcta: a) 13.**
 *Retroalimentación:* para saber el total, sumamos todas las categorías registradas: 8 lanzamientos con número par más 5 con número impar, 8+5=13 lanzamientos en total.
 
 ---
@@ -936,34 +1105,53 @@ d) 8
 **Respuesta correcta: b) 4.**
 *Retroalimentación:* el Equipo Azul tiene 2 pelotas dibujadas, y como cada pelota vale 2 goles: 2×2=4 goles.
 
-**Pregunta 2 (completar).** Según el pictograma del Ejemplo 1, ¿cuántos goles anotaron entre el Equipo Rojo y el Equipo Verde en total?
+**Pregunta 2 (alternativas — completar).** Según el pictograma del Ejemplo 1, ¿cuántos goles anotaron entre el Equipo Rojo y el Equipo Verde en total?
+a) 7
+b) 10
+c) 12
+d) 14
 
-**Respuesta correcta:** Rojo (6) + Verde (8) = **14 goles**.
-*Retroalimentación:* primero calculamos los goles de cada equipo usando la escala (3×2=6 y 4×2=8), y luego sumamos ambos resultados: 6+8=14.
+**Respuesta correcta: d) 14.**
+*Retroalimentación:* primero calculamos los goles de cada equipo usando la escala (cada dibujo vale 2): Rojo 3×2=6 y Verde 4×2=8; luego sumamos: 6+8=14. Si cuentas solo los dibujos (3+4=7), olvidas que cada uno vale 2 goles.
 
 **Pregunta 3 (verdadero o falso).** En un pictograma con escala, cada dibujo puede representar más de 1 unidad.
 
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* a diferencia de los pictogramas simples (donde 1 dibujo=1 unidad), en un pictograma con escala cada dibujo puede valer 2, 5, 10 u otra cantidad, según lo que indique la leyenda del gráfico.
 
-**Pregunta 4 (leer gráfico de barra).** Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos llegan al colegio en bicicleta?
+**Pregunta 4 (alternativas — leer gráfico de barra).** Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos llegan al colegio en bicicleta?
+a) 12
+b) 5
+c) 8
+d) 25
 
-**Respuesta correcta: 5 alumnos.**
+**Respuesta correcta: b) 5.**
 *Retroalimentación:* la barra de "en bicicleta" llega hasta el número 5, por lo tanto 5 alumnos llegan en bicicleta.
 
-**Pregunta 5 (comparar gráfico de barra).** Según el gráfico de barras del Ejemplo 3, ¿qué medio de transporte usan más alumnos para llegar al colegio?
+**Pregunta 5 (alternativas — comparar gráfico de barra).** Según el gráfico de barras del Ejemplo 3, ¿qué medio de transporte usan más alumnos para llegar al colegio?
+a) En auto
+b) En bicicleta
+c) A pie
 
-**Respuesta correcta: a pie** (12 alumnos, la barra más alta).
-*Retroalimentación:* comparamos la altura de las tres barras (12, 8 y 5); la barra más alta corresponde a "a pie", por lo tanto es el medio más usado.
+**Respuesta correcta: c) A pie.**
+*Retroalimentación:* comparamos la altura de las tres barras (12, 8 y 5); la barra más alta corresponde a "a pie" (12 alumnos), por lo tanto es el medio más usado.
 
-**Pregunta 6 (construir un pictograma — desarrollo).** En una plaza hay 12 perros y 6 gatos. Si construyes un pictograma donde cada dibujo representa 2 animales, ¿cuántos dibujos necesitas para representar los perros, y cuántos para los gatos?
+**Pregunta 6 (alternativas — construir un pictograma).** En una plaza hay 12 perros y 6 gatos. Si construyes un pictograma donde cada dibujo representa 2 animales, ¿cuántos dibujos necesitas para cada grupo?
+a) Perros: 12 dibujos; gatos: 6 dibujos
+b) Perros: 24 dibujos; gatos: 12 dibujos
+c) Perros: 6 dibujos; gatos: 3 dibujos
+d) Perros: 6 dibujos; gatos: 6 dibujos
 
-**Respuesta correcta:** perros: 12÷2=**6 dibujos**; gatos: 6÷2=**3 dibujos**.
-*Retroalimentación:* como cada dibujo vale 2 animales, agrupamos la cantidad real de animales de a 2 para saber cuántos dibujos hacer: 12 perros forman 6 grupos de 2, y 6 gatos forman 3 grupos de 2.
+**Respuesta correcta: c) Perros: 6 dibujos; gatos: 3 dibujos.**
+*Retroalimentación:* como cada dibujo vale 2 animales, agrupamos de a 2: 12 perros forman 6 grupos de 2 (6 dibujos), y 6 gatos forman 3 grupos de 2 (3 dibujos).
 
-**Pregunta 7 (aplicación).** Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos más llegan a pie que en auto?
+**Pregunta 7 (alternativas — aplicación).** Según el gráfico de barras del Ejemplo 3, ¿cuántos alumnos más llegan a pie que en auto?
+a) 4
+b) 20
+c) 8
+d) 12
 
-**Respuesta correcta:** 12-8=**4 alumnos más**.
+**Respuesta correcta: a) 4.**
 *Retroalimentación:* comparamos las alturas de las barras "a pie" (12) y "en auto" (8), y restamos: 12-8=4 alumnos más llegan a pie que en auto.
 
 ---

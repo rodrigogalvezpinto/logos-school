@@ -23,12 +23,12 @@ basado_en: >
 ## Instrucciones generales
 
 1. Esta prueba contiene **20 preguntas** que mezclan las cuatro asignaturas: Lenguaje y Comunicación, Matemática, Ciencias Naturales, e Historia, Geografía y Ciencias Sociales. Las preguntas no están agrupadas por asignatura, tal como en el examen real.
-2. La mayoría de las preguntas son de **alternativas** (4 opciones, marca solo una con una X); algunas son de **respuesta abierta**, donde debes responder con tus propias palabras en el espacio dado.
+2. Todas las preguntas son de **alternativas** (marca solo una opción con una X). Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
 3. **Tiempo total: 90 minutos.**
 4. **No se permite el uso de libros, apuntes, calculadora, celular u otro dispositivo electrónico.**
 5. Este examen se rinde **sin el acompañamiento de padres, madres o apoderados** dentro de la sala.
 6. Lee con atención los textos, mapas, tablas o situaciones que acompañan a algunas preguntas antes de responder.
-7. En las preguntas de respuesta abierta, escribe con letra clara y responde con oraciones completas.
+7. Lee todas las alternativas antes de elegir: a veces más de una parece correcta, pero solo una responde exactamente lo que se pregunta.
 8. Al terminar, revisa tus respuestas. Al final de este documento encontrarás la **Pauta de Corrección**.
 
 ---
@@ -47,10 +47,10 @@ Lee el siguiente texto:
 
 ¿Cuál de las siguientes opciones describe mejor el **ambiente** donde ocurre la historia?
 
-a) Una ciudad grande de la zona central de Chile
-b) Un campo cercano a Chillán, con parronales y gallinero
-c) Un puerto pesquero del sur de Chile
-d) Un edificio de departamentos en Santiago
+a) Una ciudad grande de la zona central, con edificios
+b) Un edificio de departamentos en el centro de Santiago
+c) Un puerto pesquero del sur de Chile, junto al mar
+d) Un campo cercano a Chillán, con parronales y gallinero
 
 ---
 
@@ -65,9 +65,9 @@ d) Reproductiva
 
 **3. (Matemática)** Una panadería produce 124 marraquetas por hora. ¿Cuántas marraquetas produce en 6 horas?
 
-a) 720
+a) 744
 b) 734
-c) 744
+c) 720
 d) 624
 
 ---
@@ -129,8 +129,8 @@ d) 15/24
 **8. (Historia, Geografía y Ciencias Sociales)** ¿Qué corriente marina favorece la abundancia de peces frente a las costas de Chile y Perú?
 
 a) Corriente del Golfo
-b) Corriente de Humboldt
-c) Corriente del Niño
+b) Corriente del Niño
+c) Corriente de Humboldt
 d) Corriente Antártica Circumpolar
 
 ---
@@ -147,9 +147,9 @@ Lee el siguiente texto:
 
 ¿Cuál de las siguientes es información **implícita** del texto (es decir, no está escrita directamente, sino que se deduce)?
 
-a) El cóndor andino habita a lo largo de toda la cordillera de los Andes.
-b) El cóndor se alimenta de animales que ya están muertos.
-c) El cóndor puede detectar un cadáver desde varios kilómetros de altura.
+a) El cóndor andino habita a lo largo de toda la cordillera de los Andes, desde Venezuela hasta Tierra del Fuego.
+b) El cóndor se alimenta principalmente de animales que ya están muertos, en lugar de cazar presas vivas.
+c) El cóndor puede detectar un cadáver desde varios kilómetros de altura gracias a su excelente vista.
 d) Al alimentarse de animales muertos, el cóndor cumple un rol importante para mantener limpios los ecosistemas de montaña.
 
 ---
@@ -178,36 +178,44 @@ d) Restar 4
 
 **12. (Historia, Geografía y Ciencias Sociales)** ¿Cuál de las siguientes es un derecho reconocido para todos los niños y niñas?
 
-a) Trabajar jornada completa desde los 8 años
-b) No poder opinar sobre decisiones que le afectan
+a) Trabajar jornada completa desde los 8 años para ayudar en la casa
+b) No poder opinar sobre las decisiones que le afectan en su familia
 c) Recibir educación, alimentación y servicios médicos adecuados
-d) No poder ir nunca al médico
+d) No poder ir al médico si no tiene la edad suficiente para pedirlo
 
 ---
 
-**13. (Lenguaje y Comunicación)** *(Respuesta abierta)* Escribe una oración que use el conector "**por eso**" para unir estas dos ideas: "Caminamos varias horas por el sendero de la reserva" y "llegamos muy cansados a la cascada".
+**13. (Lenguaje y Comunicación)** *(Alternativas)* ¿Qué oración usa correctamente el conector "**por eso**" para unir estas dos ideas: "Caminamos varias horas por el sendero de la reserva" y "llegamos muy cansados a la cascada"?
 
-_______________________________________________________________________________________
+a) Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada.
+b) Por eso caminamos varias horas, llegamos muy cansados a la cascada por el sendero.
+c) Llegamos muy cansados a la cascada, por eso caminamos varias horas por el sendero.
+d) Caminamos varias horas por eso, por el sendero de la reserva llegamos.
+
 
 ---
 
-**14. (Lenguaje y Comunicación)** *(Respuesta abierta)* Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas:
+**14. (Lenguaje y Comunicación)** *(Alternativas)* Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas:
 
 > "El domingo pasado mi familia fue a la Reserva Nacional Altos de Lircay caminamos por el sendero hasta la cascada nos sacamos fotos con el paisaje después almorzamos sándwiches cerca del río y por la tarde jugamos a las cartas bajo un árbol y volvimos a casa cansados pero felices."
 
-Reescribe el párrafo separándolo en **al menos dos párrafos**, usando punto aparte y oraciones con sentido completo. Agrupa las ideas relacionadas en cada párrafo.
+¿Cuál es la **mejor** forma de separarlo en dos párrafos, agrupando las ideas relacionadas?
 
-_______________________________________________________________________________________
+a) Párrafo 1: solo la primera palabra del texto. Párrafo 2: todo el resto del paseo, sin cambios
+b) Un párrafo distinto para cada palabra del texto, para que se lea más ordenado y separado
+c) Párrafo 1: el regreso a casa. Párrafo 2: el paseo y el almuerzo, aunque ocurrieron antes del regreso
+d) Párrafo 1: el paseo hasta la cascada y las fotos. Párrafo 2: el almuerzo, el juego de cartas y el regreso a casa
 
-_______________________________________________________________________________________
-
-_______________________________________________________________________________________
 
 ---
 
-**15. (Ciencias Naturales)** *(Respuesta abierta)* Usando el modelo de un damasco (durazno) para representar las capas de la Tierra, indica qué parte del damasco representa la corteza, cuál el manto y cuál el núcleo, y ordénalas desde la más rígida hasta la más caliente.
+**15. (Ciencias Naturales)** *(Alternativas)* Usando el modelo de un damasco (durazno) para representar las capas de la Tierra, ¿qué combinación representa bien cada capa y sus características?
 
-_______________________________________________________________________________________
+a) Cáscara = núcleo (el más interno); pulpa = corteza (la más rígida y externa); carozo = manto (intermedio y sólido)
+b) Cáscara = corteza (la más rígida y externa); pulpa = manto (predominantemente sólido, intermedio); carozo = núcleo (el más interno y caliente)
+c) Cáscara = manto (la más caliente y externa); pulpa = núcleo (intermedio); carozo = corteza (la más rígida e interna)
+d) Cáscara = corteza (la más caliente y externa); pulpa = manto (intermedio); carozo = núcleo (el más frío e interno)
+
 
 ---
 
@@ -220,17 +228,23 @@ d) 15
 
 ---
 
-**17. (Historia, Geografía y Ciencias Sociales)** *(Respuesta abierta)* Piensa en la región de Chile donde vives. Describe una característica de su paisaje (clima, relieve o vegetación) y explica cómo las personas de tu región se han **adaptado** a ella o la han **transformado**.
+**17. (Historia, Geografía y Ciencias Sociales)** *(Alternativas)* ¿Qué afirmación une correctamente una característica del paisaje de una región de Chile con una forma en que las personas se han **adaptado** a ella?
 
-_______________________________________________________________________________________
+a) En el norte nieva todo el año, y por eso las personas construyen iglús de hielo para vivir
+b) En el centro no hay ríos ni lluvias, y por eso las personas no cultivan nada en el valle
+c) En el sur hay mucha lluvia, y las casas tienen techos inclinados para que escurra el agua
+d) En la costa no hay mar cerca, y por eso las personas no pescan ni construyen puertos
 
-_______________________________________________________________________________________
 
 ---
 
-**18. (Ciencias Naturales)** *(Respuesta abierta)* Tras un sismo de gran magnitud con epicentro bajo el océano, frente a las costas de Chile, las autoridades recomiendan alejarse de inmediato del borde costero y dirigirse a zonas altas. Explica, usando el concepto de **tsunami**, por qué se entrega esa recomendación.
+**18. (Ciencias Naturales)** *(Alternativas)* Tras un sismo de gran magnitud con epicentro bajo el océano, frente a las costas de Chile, las autoridades recomiendan alejarse de inmediato del borde costero y dirigirse a zonas altas. Usando el concepto de **tsunami**, ¿por qué se entrega esa recomendación?
 
-_______________________________________________________________________________________
+a) Porque un sismo bajo el océano puede desplazar una gran masa de agua y generar un tsunami, con olas que llegan a la costa
+b) Porque después de un sismo de gran magnitud siempre llueve fuerte en la costa, y las zonas altas no se inundan
+c) Porque el sismo hace que el mar se congele de inmediato, y el hielo puede romperse y golpear la costa
+d) Porque en las zonas altas no se sienten los sismos, de modo que allí no hay riesgo de que se repitan
+
 
 ---
 
@@ -243,15 +257,17 @@ d) Litro
 
 ---
 
-**20. (Historia, Geografía y Ciencias Sociales)** *(Respuesta abierta)*
+**20. (Historia, Geografía y Ciencias Sociales)** *(Alternativas)*
 
 Una noticia adaptada informa: *"Durante los meses de veda, estará prohibido extraer una determinada especie marina en la costa de la zona centro-sur, con el objetivo de que su población se recupere antes de la próxima temporada de pesca."*
 
-A partir de la noticia, explica con tus propias palabras cómo una medida como la veda pesquera ayuda al **desarrollo sostenible** de un recurso natural.
+A partir de la noticia, ¿cómo ayuda una medida como la veda pesquera al **desarrollo sostenible** de un recurso natural?
 
-_______________________________________________________________________________________
+a) Permite pescar más durante los meses de veda, porque hay menos pescadores en el mar
+b) Hace que la especie cambie de lugar para siempre y busque otras costas donde vivir
+c) Sirve solo para que suba el precio del pescado, sin ningún efecto en la especie
+d) Da tiempo a que la especie se reproduzca y su población se recupere, para que el recurso no se agote
 
-_______________________________________________________________________________________
 
 ---
 
@@ -261,7 +277,7 @@ ________________________________________________________________________________
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -273,26 +289,26 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------|------------------------------------------|-----------------------------------|
-| 1 | Lenguaje | **b)** El texto describe el lugar donde vive Benjamín como un campo cercano a Chillán, con parronales y un gallinero. | OA N°4 — descripción de ambientes |
+| 1 | Lenguaje | **d)** El texto describe el lugar donde vive Benjamín como un campo cercano a Chillán, con parronales y un gallinero. | OA N°4 — descripción de ambientes |
 | 2 | Ciencias Naturales | **a) Estructural.** El color de la piel es una característica física (estructural) que le sirve de camuflaje. | OA 2 — Adaptaciones de plantas y animales |
-| 3 | Matemática | **c) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
+| 3 | Matemática | **a) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
 | 4 | Historia | **c) Ambas tenían gobierno monárquico y economía basada en la agricultura.** Característica común a mayas e incas. | OA 4 — Civilizaciones americanas |
 | 5 | Lenguaje | **d)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
 | 6 | Ciencias Naturales | **c) La columna vertebral.** Protege la médula espinal. | OA 7 — Sistema nervioso |
 | 7 | Matemática | **a) 9/24.** De los 24 estudiantes del curso (denominador), 9 llevan colación de fruta (numerador). | OA 8 — Comprender las fracciones |
-| 8 | Historia | **b) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |
+| 8 | Historia | **c) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |
 | 9 | Lenguaje | **d)** Es la única idea que se deduce a partir de lo que el texto cuenta sobre la dieta carroñera del cóndor; a, b y c están explícitas. | OA N°6 — información implícita en textos no literarios |
 | 10 | Ciencias Naturales | **b) Subducción.** La placa de Nazca se introduce bajo la placa Sudamericana, explicando la intensa actividad sísmica de Chile. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
 | 11 | Matemática | **b) Multiplicar por 4.** Cada mesa tiene 4 sillas asociadas (1×4=4, 2×4=8, 3×4=12, 4×4=16). | OA 13 — Patrones numéricos en tablas |
 | 12 | Historia | **c) Recibir educación, alimentación y servicios médicos adecuados.** Derecho reconocido para todos los niños y niñas. | OA 12 — Derechos del niño |
-| 13 | Lenguaje | Respuesta que use correctamente el conector, por ejemplo: "Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada." | OA N°17 — uso de conectores |
-| 14 | Lenguaje | El texto reescrito debe tener al menos dos párrafos separados por punto aparte, cada uno agrupando una idea principal distinta, con oraciones de sentido completo. | OA N°17 — organización en párrafos y punto aparte |
-| 15 | Ciencias Naturales | Cáscara = corteza (la más rígida y externa); pulpa = manto (semi-líquida, intermedia); carozo = núcleo (el más interno y caliente). | OA 15 — Capas de la Tierra |
+| 13 | Lenguaje | **a) Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada.** "Por eso" introduce la consecuencia: primero va la causa (caminar varias horas) y después el efecto (llegar cansados). Invertir el orden cambia el sentido. | OA N°17 — uso de conectores |
+| 14 | Lenguaje | **d) Párrafo 1: el paseo hasta la cascada y las fotos. Párrafo 2: el almuerzo, el juego de cartas y el regreso a casa.** Cada párrafo agrupa una idea principal distinta (lo que hicieron en el sendero / lo que hicieron después), separadas con punto aparte y con oraciones de sentido completo. | OA N°17 — organización en párrafos y punto aparte |
+| 15 | Ciencias Naturales | **b) Cáscara = corteza (la más rígida y externa); pulpa = manto (predominantemente sólido, intermedio); carozo = núcleo (el más interno y caliente).** La corteza es la capa más externa y rígida; el manto es predominantemente sólido aunque fluye muy lentamente; el núcleo es el más interno y caliente. | OA 15 — Capas de la Tierra |
 | 16 | Matemática | **b) 14.** Para despejar x se resta 9 a ambos lados: x = 23 − 9 = 14. | OA 14 — Resolver ecuaciones e inecuaciones de un paso |
-| 17 | Historia | Respuesta correcta si identifica una característica real del paisaje de la propia región y describe una adaptación o transformación coherente con ella. | OA 10 — Adaptación y transformación del paisaje |
-| 18 | Ciencias Naturales | Debe explicar que un sismo submarino puede desplazar una gran masa de agua y generar olas de gran tamaño (tsunami) que llegan a la costa, por lo que alejarse del borde costero y subir a zonas altas reduce el riesgo. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
+| 17 | Historia | **c) En el sur hay mucha lluvia, y las casas tienen techos inclinados para que escurra el agua.** Una buena respuesta une una característica real del paisaje con una adaptación o transformación coherente, como los techos inclinados en zonas lluviosas o el riego en zonas secas. Piensa también en cómo es tu propia región. | OA 10 — Adaptación y transformación del paisaje |
+| 18 | Ciencias Naturales | **a) Porque un sismo bajo el océano puede desplazar una gran masa de agua y generar un tsunami, con olas que llegan a la costa.** Alejarse del borde costero y subir a zonas altas reduce el riesgo frente a las olas de un tsunami. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
 | 19 | Matemática | **b) Metro.** Unidad adecuada para medir distancias grandes, como el largo de una cancha. | OA 22 — Medir longitudes con metros y centímetros |
-| 20 | Historia | Respuesta correcta si explica que la veda da tiempo a que la especie se reproduzca y su población se recupere, evitando que un recurso renovable se agote por sobreexplotación. | OA 9 — Recursos naturales |
+| 20 | Historia | **d) Da tiempo a que la especie se reproduzca y su población se recupere, para que el recurso no se agote.** La veda evita que un recurso renovable se agote por sobreexplotación, permitiendo que siga existiendo en el futuro. | OA 9 — Recursos naturales |
 
 ### Distribución por asignatura
 
@@ -310,21 +326,21 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 2 | 1 | 0 |
-| OA 4 | 1, 4 | 2 | 0 |
-| OA 5 | 3, 5 | 2 | 0 |
-| OA 6 | 9 | 1 | 0 |
-| OA 7 | 6 | 1 | 0 |
-| OA 8 | 7 | 1 | 0 |
-| OA 9 | 8, 20 | 1 | 1 |
-| OA 10 | 17 | 0 | 1 |
-| OA 12 | 12 | 1 | 0 |
-| OA 13 | 11 | 1 | 0 |
-| OA 14 | 16 | 1 | 0 |
-| OA 15 | 15 | 0 | 1 |
-| OA 16 | 10, 18 | 1 | 1 |
-| OA 17 | 13, 14 | 0 | 2 |
-| OA 22 | 19 | 1 | 0 |
-| **Total** | **20 preguntas** | **14** | **6** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 2 | 1 |
+| OA 4 | 1, 4 | 2 |
+| OA 5 | 3, 5 | 2 |
+| OA 6 | 9 | 1 |
+| OA 7 | 6 | 1 |
+| OA 8 | 7 | 1 |
+| OA 9 | 8, 20 | 2 |
+| OA 10 | 17 | 1 |
+| OA 12 | 12 | 1 |
+| OA 13 | 11 | 1 |
+| OA 14 | 16 | 1 |
+| OA 15 | 15 | 1 |
+| OA 16 | 10, 18 | 2 |
+| OA 17 | 13, 14 | 2 |
+| OA 22 | 19 | 1 |
+| **Total** | **20 preguntas** | **20** |

@@ -18,19 +18,19 @@ basado_en: Banco de autoevaluación 05-basico/historia-geografia-y-cs-sociales.m
 
 1. Lee cada pregunta con atención antes de responder. Algunas preguntas incluyen un texto,
    mapa o fuente histórica que debes analizar antes de contestar.
-2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro opciones
-   (a, b, c, d). Marca con una X la que consideres correcta.
-3. Las preguntas de **desarrollo** (breve o extenso) deben responderse con tus propias
-   palabras, en las líneas u espacio disponible. No es necesario copiar la pregunta.
+2. Todas las preguntas son de **alternativas** y tienen una sola respuesta correcta entre las
+   opciones (a, b, c, d). Marca con una X la que consideres correcta.
+3. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta
+   y debes marcarlas todas para obtener el puntaje.
 4. No se permite el uso de apuntes, libros ni dispositivos electrónicos durante la prueba.
 5. Administra tu tiempo: tienes 90 minutos para las 25 preguntas. Te sugerimos no destinar más
-   de 3-4 minutos a cada pregunta de alternativas y algo más a las de desarrollo.
+   de 3-4 minutos a cada pregunta y algo más a las que tienen estímulos extensos.
 6. Al finalizar, revisa que hayas respondido todas las preguntas.
 
 Esta es la forma de práctica denominada **Forma B**: una versión de práctica adicional
 elaborada a partir de los mismos Objetivos de Aprendizaje (OA) oficiales del Decreto 439/2012
 para 5° básico, pero con preguntas propias. No reproduce preguntas reales del
-Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas abiertas, uso de
+Examen Libre de Mineduc; su formato (preguntas de alternativas, uso de
 estímulos como mapas y fuentes históricas adaptadas, y Pauta de Corrección final) busca
 acercarte a la experiencia del examen real.
 
@@ -50,10 +50,10 @@ De acuerdo con el estímulo, ¿qué buscaban principalmente los conquistadores e
 fundar ciudades en los territorios que ocupaban?
 
 a) Crear capitales independientes que no debieran responder ante la Corona española
-b) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse
-   y expandirse
+b) Reunir a los pueblos originarios para negociar tratados de igual a igual
 c) Construir refugios temporales para descansar antes de regresar a España con las riquezas
-d) Reunir a los pueblos originarios para negociar tratados de igual a igual
+d) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse
+   y expandirse
 
 ---
 
@@ -89,15 +89,14 @@ d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Desarrollo breve*
-¿Por qué se dice que del proceso de conquista "surgió una nueva sociedad"? Menciona al menos
-un elemento de esa nueva sociedad.
+**Pregunta 4.** (2 puntos) — *Alternativas*
+¿Por qué se dice que del proceso de conquista "surgió una nueva sociedad"?
 
-```
+a) Porque no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje
+b) Porque todos los habitantes pasaron a ser españoles y adoptaron sus costumbres, su idioma y su religión
+c) Porque los pueblos originarios desaparecieron sin dejar rastro y fueron reemplazados por colonos europeos
+d) Porque no hubo ningún cambio en la forma de vivir: cada pueblo siguió con sus costumbres sin mezclarse 
 
-
-
-```
 
 ---
 
@@ -107,10 +106,10 @@ un elemento de esa nueva sociedad.
 ¿Cuál de las siguientes consecuencias de la conquista corresponde principalmente a
 **América**?
 
-a) La llegada de grandes cantidades de oro y plata a la Corona
-b) La incorporación de nuevos alimentos como la papa y el tomate
+a) La llegada de grandes cantidades de oro y plata a las arcas de la Corona española
+b) La incorporación de nuevos alimentos como la papa y el tomate a la dieta de los europeos
 c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas
-d) El aumento del poder político de España en varios continentes
+d) El aumento del poder político de España, que pasó a controlar territorios en varios continentes
 
 ---
 
@@ -124,21 +123,20 @@ La situación descrita en el estímulo corresponde principalmente a una consecue
 conquista en el ámbito:
 
 a) Económico
-b) Político
+b) Demográfico
 c) Alimentario
-d) Demográfico
+d) Político
 
 ---
 
-**Pregunta 7.** (2 puntos) — *Desarrollo breve*
-¿Por qué crees que el impacto de la conquista fue tan distinto para Europa que para América?
-Explica considerando al menos un ámbito (económico, demográfico o cultural).
+**Pregunta 7.** (2 puntos) — *Alternativas*
+¿Por qué el impacto de la conquista fue tan distinto para Europa que para América?
 
-```
+a) Porque América recibió más oro y plata que Europa, lo que le permitió enriquecerse más rápido que los reinos europeos
+b) Porque en Europa hubo más enfermedades y muertes que en América, a causa de los viajes y del contacto con nuevos territorios
+c) Porque el impacto fue exactamente igual en ambos continentes: los dos ganaron riquezas, población y conocimientos por igual
+d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía
 
-
-
-```
 
 ---
 
@@ -169,15 +167,15 @@ d) Capitanía General
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Desarrollo breve*
-¿Por qué crees que la dependencia de Chile respecto de España limitaba el desarrollo
-económico de la colonia? Da un ejemplo.
+**Pregunta 10.** (2 puntos) — *Alternativas*
+¿Por qué la dependencia de Chile respecto de España limitaba el desarrollo
+económico de la colonia?
 
-```
+a) Porque España le regalaba todo lo que necesitaba, y por eso Chile no tenía motivos para producir ni comerciar
+b) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España
+c) Porque Chile no tenía ningún producto que vender, ya que su clima no permitía la agricultura ni la ganadería
+d) Porque la colonia comerciaba solo con Asia, a través del Pacífico, y España le prohibía vender en América
 
-
-
-```
 
 ---
 
@@ -186,11 +184,11 @@ económico de la colonia? Da un ejemplo.
 **Pregunta 11.** (1 punto)
 ¿Qué se estableció en el Parlamento de Quillín, realizado en 1641?
 
-a) La abolición completa de la encomienda
+a) La abolición completa de la encomienda en todo el reino de Chile y el fin del trabajo obligatorio
 b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de
    paz y comercio
-c) La independencia política total del pueblo mapuche
-d) La fundación de nuevas ciudades españolas al sur del Biobío
+c) La independencia política total del pueblo mapuche, reconocida por el rey como un reino separado
+d) La fundación de nuevas ciudades españolas al sur del Biobío, con autorización de los lonkos mapuches
 
 ---
 
@@ -210,7 +208,7 @@ d) La esclavitud de indígenas
 
 ---
 
-**Pregunta 13.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 13.** (3 puntos) — *Alternativas*
 
 > **Estímulo — fuente histórica adaptada:**
 > "Un español encomendero recibía un grupo de indígenas 'encomendados': estos debían
@@ -218,17 +216,14 @@ d) La esclavitud de indígenas
 > encomendero tenía la obligación de evangelizarlos y 'protegerlos'."
 
 A partir del estímulo y de lo que sabes sobre la relación entre españoles y mapuches durante
-la Colonia, responde: ¿qué forma de relación ilustra este texto? Luego, menciona **otras dos
-formas distintas** en que españoles y mapuches se relacionaron durante este período (por
-ejemplo: guerra, negociación, vida fronteriza, evangelización o mestizaje), explicando
-brevemente en qué consistía cada una.
+la Colonia, ¿qué forma de relación ilustra este texto, y qué otras dos formas de relación entre
+españoles y mapuches existieron durante este período?
 
-```
+a) La vida fronteriza; además: el voto universal de los mapuches y la libertad de comercio con otros países
+b) La evangelización; además: la independencia de Chile y la organización de la república en 1810
+c) La encomienda; además: la Guerra de Arauco (conflicto bélico) y los parlamentos (negociación de acuerdos)
+d) La Guerra de Arauco; además: la encomienda de los mapuches y el voto femenino en los parlamentos
 
-
-
-
-```
 
 ---
 
@@ -272,20 +267,19 @@ d) Norte Chico – Zona Central – Zona Sur
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Desarrollo breve*
+**Pregunta 17.** (2 puntos) — *Alternativas*
 
 > **Estímulo — caso:** Una familia de agricultores quiere trasladarse a una zona de Chile
 > donde pueda cultivar hortalizas y frutales con un clima de inviernos lluviosos y veranos
 > secos, y donde además exista una gran ciudad cercana para vender sus productos.
 
-¿En qué zona natural de Chile les recomendarías instalarse? Explica tu respuesta
-mencionando al menos una característica del clima o de los recursos naturales de esa zona.
+¿En qué zona natural de Chile les conviene instalarse, y por qué?
 
-```
+a) La Zona Central, por su clima mediterráneo (inviernos lluviosos y veranos secos) y porque concentra la mayor población y actividad económica
+b) El Norte Grande, porque es la zona más lluviosa del país, tiene inviernos templados ideales para los frutales y concentra la mayor actividad económica
+c) La Zona Austral, porque tiene veranos secos y calurosos, y concentra las ciudades más grandes de Chile
+d) El Norte Chico, porque tiene inviernos lluviosos todo el año y concentra la mayor población del país
 
-
-
-```
 
 ---
 
@@ -311,20 +305,20 @@ d) Hierro y bosque nativo
 
 ---
 
-**Pregunta 20.** (2 puntos) — *Desarrollo breve*
+**Pregunta 20.** (2 puntos) — *Alternativas*
 
 > **Estímulo — caso:** Una empresa forestal tala un sector de bosque nativo de la Zona Sur
 > para obtener madera. Al terminar, planta nuevos árboles en el mismo sector y espera a que
 > vuelvan a crecer antes de volver a talar.
 
-Según el estímulo, ¿por qué el bosque se considera un recurso renovable? ¿Qué debe hacer la
+Según el estímulo, ¿por qué el bosque se considera un recurso renovable, y qué debe hacer la
 empresa para que su aprovechamiento sea realmente sostenible?
 
-```
+a) Porque los árboles nunca se acaban, aunque se talen todos de una vez; por eso la empresa puede seguir talando sin plantar nuevos árboles
+b) Porque la madera es un recurso que se forma muy lentamente, como un mineral; por eso la empresa debe talar lo más rápido posible antes de que se agote
+c) Porque el bosque es un recurso no renovable que no vuelve a crecer; por eso la empresa no debería plantar árboles, ya que nunca podrá volver a talarlos
+d) Porque puede regenerarse si se le da tiempo; para ser sostenible, la empresa debe reforestar y no talar más rápido de lo que el bosque vuelve a crecer
 
-
-
-```
 
 ---
 
@@ -354,15 +348,15 @@ d) Condicionales
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Desarrollo breve*
-¿Por qué crees que es importante que los derechos no dependan de características como la
-etnia, el sexo o el lugar de nacimiento? ¿Qué pasaría si dependieran de esas características?
+**Pregunta 23.** (2 puntos) — *Alternativas*
+¿Qué pasaría si los derechos dependieran de características como la etnia, el sexo o el lugar
+de nacimiento?
 
-```
+a) Todas las personas tendrían exactamente los mismos derechos, porque esas características no influyen en la forma en que se aplican las leyes
+b) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección por características que no eligieron
+c) La sociedad sería más justa, porque cada grupo recibiría los derechos que mejor se ajustan a sus características y a su lugar de origen
+d) No cambiaría nada en la vida de las personas, porque los derechos solo importan cuando hay un problema con la justicia
 
-
-
-```
 
 ---
 
@@ -376,35 +370,33 @@ etnia, el sexo o el lugar de nacimiento? ¿Qué pasaría si dependieran de esas 
 De acuerdo con lo estudiado en este eje, ¿qué afirmación responde correctamente a la idea
 del estudiante del estímulo?
 
-a) Las leyes solo deben respetarlas las autoridades, no las personas comunes
+a) Las leyes solo deben respetarlas las autoridades, no las personas comunes, que pueden decidir libremente
 b) Todas las personas deben respetar las leyes, porque los derechos generan también deberes
    y responsabilidades
-c) Cada persona puede decidir qué leyes cumplir según su propia conveniencia
-d) Las leyes solo se deben cumplir si la mayoría del curso está de acuerdo
+c) Cada persona puede decidir qué leyes cumplir según su propia conveniencia, siempre que no la descubran
+d) Las leyes solo se deben cumplir si la mayoría del curso está de acuerdo con ellas después de votar
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 25.** (3 puntos) — *Alternativas*
 
 > **Estímulo:** Un estudiante expresa su opinión en clase, pero también debe respetar la
 > opinión de sus compañeros y compañeras, incluso cuando piensan distinto a él.
 
-A partir del estímulo, indica qué derecho está ejerciendo el estudiante y qué deber le
-corresponde al ejercerlo. Luego, explica con tus palabras por qué es importante que exista un
-equilibrio entre los derechos de las personas y sus deberes en una sociedad.
+A partir del estímulo, ¿qué derecho ejerce el estudiante, qué deber le corresponde y por qué
+es importante el equilibrio entre derechos y deberes?
 
-```
+a) Ejerce el derecho a voto, porque elige qué opinar en clase; su deber es votar siempre igual que la mayoría de sus compañeros y compañeras para mantener la convivencia
+b) Ejerce la libertad de expresión; no tiene ningún deber asociado, porque expresar la propia opinión es un derecho que se puede ejercer sin considerar a los demás
+c) Ejerce la libertad de expresión; su deber es respetar la opinión y los derechos de los demás, porque ejercer un derecho no puede pasar a llevar los derechos de otro
+d) Ejerce el derecho a la educación, porque está en clases; su deber es no opinar si sus compañeros piensan distinto, para no generar conflictos en la sala
 
-
-
-
-```
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -416,31 +408,31 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas      | b) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse y expandirse. Las ciudades fundadas eran la forma concreta de ejercer dominio y organizar la vida colonial; las demás opciones son incorrectas porque las ciudades dependían de la Corona, no eran refugios temporales ni espacios de negociación entre iguales | OA 2 | Historia | 1 |
+| 1  | Alternativas      | d) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse y expandirse. Las ciudades fundadas eran la forma concreta de ejercer dominio y organizar la vida colonial; las demás opciones son incorrectas porque las ciudades dependían de la Corona, no eran refugios temporales ni espacios de negociación entre iguales | OA 2 | Historia | 1 |
 | 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
 | 3  | Alternativas      | d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago. El registro abarca 11 años (1541–1552) y distintas ubicaciones, por lo que contradice la afirmación del estudiante | OA 2 | Historia | 1 |
-| 4  | Desarrollo breve  | La sociedad surgida no era ni completamente española ni completamente indígena, sino una mezcla; el mestizaje es el elemento central. También son válidas menciones a las nuevas ciudades fundadas o a los conflictos bélicos de esta nueva etapa | OA 2 | Historia | 2 |
+| 4 | Alternativas | **a) Porque no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje.** También son elementos de esa nueva sociedad las ciudades fundadas y los conflictos bélicos de esta etapa. | OA 2 | Historia | 2 |
 | 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
-| 6  | Alternativas      | b) Político. El reemplazo de las autoridades de los pueblos originarios por autoridades nombradas por el rey es una pérdida de gobierno propio, es decir, una consecuencia en el ámbito político; no se refiere directamente a comida, población ni economía | OA 3 | Historia | 1 |
-| 7  | Desarrollo breve  | Europa vivió principalmente consecuencias de enriquecimiento (oro, nuevos alimentos, expansión de poder); América vivió consecuencias mucho más dolorosas (pérdida de población, de autonomía política y cultural), por ser el territorio conquistado | OA 3 | Historia | 2 |
+| 6  | Alternativas      | d) Político. El reemplazo de las autoridades de los pueblos originarios por autoridades nombradas por el rey es una pérdida de gobierno propio, es decir, una consecuencia en el ámbito político; no se refiere directamente a comida, población ni economía | OA 3 | Historia | 1 |
+| 7 | Alternativas | **d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía.** En lo económico, demográfico y cultural, Europa vivió enriquecimiento y expansión de poder, y América consecuencias mucho más dolorosas. | OA 3 | Historia | 2 |
 | 8  | Alternativas      | b) La educación, fundando escuelas y los primeros colegios | OA 6 | Historia | 1 |
 | 9  | Alternativas      | b) Sincretismo | OA 6 | Historia | 1 |
-| 10 | Desarrollo breve  | Al depender de la metrópoli, Chile no podía comerciar libremente con otros países ni tomar decisiones económicas propias, ya que el comercio debía orientarse principalmente hacia España, lo que restringía el crecimiento independiente de la colonia | OA 6 | Historia | 2 |
+| 10 | Alternativas | **b) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España.** Al depender de la metrópoli, Chile no tomaba decisiones económicas propias, lo que restringía su crecimiento independiente. | OA 6 | Historia | 2 |
 | 11 | Alternativas      | b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de paz y comercio | OA 7 | Historia | 1 |
 | 12 | Alternativas      | c) La vida fronteriza. El estímulo describe intercambio de productos, convivencia y familias mixtas en torno al Biobío, lo que caracteriza a la vida fronteriza; no hay trabajo forzado (encomienda/esclavitud) ni conflicto bélico (Guerra de Arauco) | OA 7 | Historia | 1 |
-| 13 | Desarrollo extenso | El texto ilustra la **encomienda**, una forma de trabajo forzado. Otras dos formas válidas, con explicación breve: Guerra de Arauco (conflicto bélico prolongado), sistema de parlamentos (negociación de acuerdos como Quillín), vida fronteriza (convivencia e intercambio en torno al Biobío), evangelización (misiones, pueblos de indios) o mestizaje | OA 7 | Historia | 3 |
+| 13 | Alternativas | **c) La encomienda; además: la Guerra de Arauco (conflicto bélico) y los parlamentos (negociación de acuerdos).** El texto describe trabajo forzado a cambio de evangelización y "protección": la encomienda. Otras formas de relación fueron la Guerra de Arauco, los parlamentos (como Quillín), la vida fronteriza en torno al Biobío, la evangelización y el mestizaje; el voto universal o el voto femenino no existían en la Colonia. | OA 7 | Historia | 3 |
 | 14 | Alternativas      | d) Zona Sur. Los bosques, lagos, lluvias abundantes, la agricultura y la ganadería corresponden a la Zona Sur; el Norte Grande es desértico, la Zona Central tiene clima mediterráneo sin esa pluviosidad y la Zona Austral se caracteriza por fiordos y glaciares | OA 9 | Geografía | 1 |
 | 15 | Alternativas      | b) Norte Chico | OA 9 | Geografía | 1 |
 | 16 | Alternativas      | c) Zona Austral – Zona Central – Norte Grande (orden invertido, es incorrecto) | OA 9 | Geografía | 1 |
-| 17 | Desarrollo breve  | Debe recomendar la **Zona Central** y justificarla con al menos una característica pertinente: su clima mediterráneo (inviernos lluviosos y veranos secos) es apto para hortalizas y frutales, y concentra la mayor población y actividad económica del país, lo que ofrece un gran mercado cercano. Asignar 1 punto por la zona correcta y 1 punto por la justificación con características de clima o recursos | OA 9 | Geografía | 2 |
+| 17 | Alternativas | **a) La Zona Central, por su clima mediterráneo (inviernos lluviosos y veranos secos) y porque concentra la mayor población y actividad económica.** El clima mediterráneo es apto para hortalizas y frutales, y la gran población de la Zona Central ofrece un mercado cercano para vender. | OA 9 | Geografía | 2 |
 | 18 | Alternativas      | c) El bosque nativo de la Zona Sur | OA 10 | Geografía | 1 |
 | 19 | Alternativas      | a) Cobre y hierro | OA 10 | Geografía | 1 |
-| 20 | Desarrollo breve  | Debe explicar que el bosque es renovable porque puede regenerarse si se le da tiempo para volver a crecer, y que para que el aprovechamiento sea sostenible la empresa debe reponer lo que extrae (reforestar), respetar los tiempos de crecimiento del bosque y no talar más rápido de lo que el recurso se regenera. Asignar 1 punto por identificar la condición de renovable y 1 punto por la medida de sostenibilidad | OA 10 | Geografía | 2 |
+| 20 | Alternativas | **d) Porque puede regenerarse si se le da tiempo; para ser sostenible, la empresa debe reforestar y no talar más rápido de lo que el bosque vuelve a crecer.** Un recurso renovable se mantiene solo si se respeta su tiempo de regeneración y se repone lo que se extrae. | OA 10 | Geografía | 2 |
 | 21 | Alternativas      | b) Todas las personas son sujetos de derecho desde que nacen, sin importar sus características. Los derechos se poseen por el solo hecho de ser persona: no dependen de la edad, el lugar de nacimiento ni la situación económica, y tampoco están restringidos a quienes nacieron en Chile | OA 13 | Formación Ciudadana | 1 |
 | 22 | Alternativas      | b) Universales | OA 13 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve  | Si los derechos dependieran de esas características, se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección y oportunidades que otras solo por características que no eligieron ni pueden cambiar | OA 13 | Formación Ciudadana | 2 |
+| 23 | Alternativas | **b) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección por características que no eligieron.** Por eso los derechos son universales: hacerlos depender de esas características sería profundamente injusto. | OA 13 | Formación Ciudadana | 2 |
 | 24 | Alternativas      | b) Todas las personas deben respetar las leyes, porque los derechos generan también deberes y responsabilidades. Cumplir la ley no es opcional ni depende de la conveniencia personal ni de la aprobación de un grupo | OA 14 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | El estudiante ejerce su derecho a la libertad de expresión; el deber correspondiente es respetar la opinión y los derechos de los demás, sin ofender ni dañar a otras personas. El equilibrio entre derechos y deberes es importante porque, si las personas solo exigieran derechos sin cumplir deberes, la convivencia social se volvería desordenada e injusta, ya que ejercer un derecho no puede significar pasar a llevar los derechos de otra persona | OA 14 | Formación Ciudadana | 3 |
+| 25 | Alternativas | **c) Ejerce la libertad de expresión; su deber es respetar la opinión y los derechos de los demás, porque ejercer un derecho no puede pasar a llevar los derechos de otro.** Si las personas solo exigieran derechos sin cumplir deberes, la convivencia se volvería desordenada e injusta: por eso es importante el equilibrio entre derechos y deberes. | OA 14 | Formación Ciudadana | 3 |
 
 **Puntaje total: 35 puntos**
 
@@ -458,8 +450,8 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Formación Ciudadana | OA 14 | 2 (preguntas 24-25) | 4 |
 | **Total** | **8 OA** | **25** | **35\*** |
 
-\* *Nota: el puntaje por pregunta (1 punto alternativas, 2 desarrollo breve, 3 desarrollo
-extenso) es orientativo y puede ajustarse según los criterios de corrección de cada
+\* *Nota: el puntaje por pregunta (1 punto en general; 2 o 3 puntos en las preguntas de mayor
+complejidad) es orientativo y puede ajustarse según los criterios de corrección de cada
 aplicación; lo relevante para el formato Mineduc es que la prueba conste de exactamente 25
 preguntas.*
 
@@ -489,14 +481,14 @@ otros criterios de conversión.)*
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 2 | 1, 2, 3, 4 | 3 | 1 |
-| OA 3 | 5, 6, 7 | 2 | 1 |
-| OA 6 | 8, 9, 10 | 2 | 1 |
-| OA 7 | 11, 12, 13 | 2 | 1 |
-| OA 9 | 14, 15, 16, 17 | 3 | 1 |
-| OA 10 | 18, 19, 20 | 2 | 1 |
-| OA 13 | 21, 22, 23 | 2 | 1 |
-| OA 14 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **17** | **8** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 2 | 1, 2, 3, 4 | 4 |
+| OA 3 | 5, 6, 7 | 3 |
+| OA 6 | 8, 9, 10 | 3 |
+| OA 7 | 11, 12, 13 | 3 |
+| OA 9 | 14, 15, 16, 17 | 4 |
+| OA 10 | 18, 19, 20 | 3 |
+| OA 13 | 21, 22, 23 | 3 |
+| OA 14 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"11":"OA 26","12":"OA 26"}
+oa_por_pregunta: {"1":"OA 19","2":"OA 19","3":"OA 19","4":"OA 22","5":"OA 22","6":"OA 22","7":"OA 23","8":"OA 23","10":"OA 24","11":"OA 26","12":"OA 26"}
 eje: Medición y Datos y Probabilidades (OA 19, 22, 23, 24, 26)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades
@@ -12,7 +12,7 @@ ultima_actualizacion: 2026-10-28
 
 # Prueba de Unidad — Medición y Datos y Probabilidades (Matemática, 5° Básico)
 
-**Instrucciones:** Lee cada pregunta con atención. Marca la alternativa correcta o desarrolla tu respuesta en el espacio correspondiente. Puedes usar calculadora si es necesario. Tiempo sugerido: 25-30 minutos.
+**Instrucciones:** Lee cada pregunta con atención. Marca la alternativa correcta. Puedes usar calculadora si es necesario. Tiempo sugerido: 25-30 minutos.
 
 ---
 
@@ -22,27 +22,52 @@ b) 10
 c) 100
 d) 1.000
 
-**Pregunta 2.** Transforma 7 centímetros a milímetros.
+**Pregunta 2.** ¿A cuántos milímetros equivalen 7 centímetros?
+
+a) 70 mm
+b) 0,7 mm
+c) 700 mm
+d) 17 mm
 
 **Pregunta 3.** Una regla mide 300 mm de largo y otra mide 28 cm. ¿Cuál regla es más larga, y por cuántos milímetros?
 
+a) La de 28 cm, por 272 mm
+b) Miden lo mismo
+c) La de 300 mm, por 272 mm
+d) La de 300 mm, por 20 mm
+
 **Pregunta 4.** ¿Cuál es el área de un triángulo con base 10 cm y altura 6 cm?
 a) 60 cm²
-b) 30 cm²
+b) 120 cm²
 c) 16 cm²
-d) 120 cm²
+d) 30 cm²
 
-**Pregunta 5.** Calcula el área de un trapecio con base mayor de 14 cm, base menor de 8 cm y altura de 5 cm.
+**Pregunta 5.** ¿Cuál es el área de un trapecio con base mayor de 14 cm, base menor de 8 cm y altura de 5 cm?
+
+a) 110 cm²
+b) 27 cm²
+c) 55 cm²
+d) 560 cm²
 
 **Pregunta 6.** Un techo tiene forma de triángulo, con una base de 12 metros y una altura de 4 metros. ¿Cuántos metros cuadrados de tejas se necesitan para cubrirlo?
 
+a) 48 m²
+b) 32 m²
+c) 24 m²
+d) 16 m²
+
 **Pregunta 7.** ¿Cuál es el promedio de los siguientes datos: 8, 10, 12, 6, 9?
-a) 8
-b) 9
+a) 9
+b) 8
 c) 45
 d) 10
 
-**Pregunta 8.** Un vendedor registró estas ventas diarias durante 5 días: $12.000, $15.000, $9.000, $18.000, $11.000. Calcula el promedio de ventas diarias.
+**Pregunta 8.** Un vendedor registró estas ventas diarias durante 5 días: $12.000, $15.000, $9.000, $18.000, $11.000. ¿Cuál es el promedio de ventas diarias?
+
+a) $13.000
+b) $65.000
+c) $12.000
+d) $16.250
 
 **Pregunta 9.** En una bolsa hay 6 bolitas rojas y 1 bolita verde. ¿Cómo describirías la posibilidad de sacar la bolita verde?
 a) Seguro
@@ -50,29 +75,39 @@ b) Poco posible
 c) Imposible
 d) Igual de posible que sacar una roja
 
-**Pregunta 10.** En una caja hay 9 pelotas: 8 son de básquetbol y 1 es de fútbol. Sin mirar, se saca una pelota al azar. Describe la posibilidad de que sea de fútbol, y explica tu respuesta.
+**Pregunta 10.** En una caja hay 9 pelotas: 8 son de básquetbol y 1 es de fútbol. Sin mirar, se saca una pelota al azar. ¿Cómo se describe la posibilidad de que sea de fútbol?
+
+a) Imposible, porque hay muy pocas
+b) Seguro, porque hay una pelota de fútbol
+c) Igual de posible que sacar una de básquetbol
+d) Poco posible, porque solo hay 1 de fútbol entre 9
 
 **Pregunta 11.** Un gráfico muestra la cantidad de libros leídos por 4 estudiantes en un mes: Ana 5, Beto 3, Carla 7, Diego 4. ¿Cuántos libros leyeron entre todos?
-a) 18
+a) 20
 b) 19
-c) 20
+c) 18
 d) 17
 
-**Pregunta 12.** Un gráfico de línea muestra la temperatura registrada cada 2 horas en un día: 8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C. ¿En qué intervalo de horas bajó más la temperatura?
+**Pregunta 12.** Un gráfico de línea muestra la temperatura registrada cada 2 horas en un día: 8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C. ¿En qué intervalo de horas bajó la temperatura?
+
+a) Entre las 8:00 y las 10:00, bajó 4°C
+b) Entre las 14:00 y las 16:00, bajó 4°C
+c) Entre las 12:00 y las 14:00, bajó 2°C
+d) La temperatura nunca bajó
 
 ---
 
 ## Pauta de respuestas
 
 1. **b) 10** — 1 cm = 10 mm.
-2. **70 mm** — 7 × 10 = 70.
-3. 28 cm = 280 mm; 300 mm > 280 mm, por lo tanto la primera regla es más larga por **20 mm**.
-4. **b) 30 cm²** — Área = (10 × 6) ÷ 2 = 30 cm².
-5. ((14+8) × 5) ÷ 2 = (22 × 5) ÷ 2 = **55 cm²**.
-6. (12 × 4) ÷ 2 = 48 ÷ 2 = **24 m²**.
-7. **b) 9** — suma 45, dividido por 5 datos = 9.
-8. 12.000+15.000+9.000+18.000+11.000 = 65.000; 65.000 ÷ 5 = **$13.000 promedio diario**.
+2. a) 70 mm — 7 × 10 = 70.
+3. d) La de 300 mm, por 20 mm. 28 cm = 280 mm; 300 − 280 = 20 mm.
+4. **d) 30 cm²** — Área = (10 × 6) ÷ 2 = 30 cm².
+5. c) 55 cm². ((14+8) × 5) ÷ 2 = (22 × 5) ÷ 2 = 55.
+6. c) 24 m². (12 × 4) ÷ 2 = 48 ÷ 2 = 24.
+7. **a) 9** — suma 45, dividido por 5 datos = 9.
+8. a) $13.000. 65.000 ÷ 5 = 13.000; $65.000 es la suma, no el promedio.
 9. **b) Poco posible** — es posible (hay una), pero poco probable comparado con las 6 rojas.
-10. Es **poco posible**, porque solo hay 1 pelota de fútbol entre las 9 totales, así que hay muchas más posibilidades de sacar una de básquetbol.
+10. d) Poco posible, porque solo hay 1 de fútbol entre 9
 11. **b) 19** — 5 + 3 + 7 + 4 = 19.
-12. Entre las **14:00 y las 16:00**, la temperatura bajó de 22°C a 18°C, es decir, bajó **4°C**, el único descenso registrado.
+12. b) Entre las 14:00 y las 16:00, bajó 4°C. Es el único tramo donde la temperatura disminuye (de 22°C a 18°C).

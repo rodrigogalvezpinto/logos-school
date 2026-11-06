@@ -77,10 +77,10 @@ Lee el siguiente texto:
 
 Según el texto, ¿qué le pidió el papá de Matías que hiciera?
 
-a) Que fuera a comprar una red nueva
-b) Que visitara a doña Herminia
+a) Que fuera al pueblo a comprar una red de pesca nueva
+b) Que visitara a doña Herminia para pedirle disculpas
 c) Que recorriera la orilla para buscar las redes de pesca
-d) Que guardara las langostas en un canasto
+d) Que guardara las langostas del día en un canasto con agua
 
 ---
 
@@ -132,18 +132,18 @@ Lee el siguiente poema:
 ¿Qué figura del lenguaje figurado es la expresión "sus aguas son cristales que corren sin parar"?
 
 a) Comparación, porque usa la palabra "como"
-b) Metáfora, porque nombra el agua directamente como "cristales"
+b) No es lenguaje figurado, es información explícita
 c) Personificación, porque le da una acción humana al río
-d) No es lenguaje figurado, es información explícita
+d) Metáfora, porque nombra el agua directamente como "cristales"
 
 ---
 
 **9. (Matemática)** Se van a repartir 96 chocolates en partes iguales entre 8 cajas para un evento. ¿Cuántos chocolates va en cada caja?
 
 a) 11
-b) 14
+b) 12
 c) 13
-d) 12
+d) 14
 
 ---
 
@@ -178,17 +178,17 @@ Lee el siguiente texto:
 Si quieres encontrar rápidamente la información sobre qué come el picaflor gigante, ¿qué deberías usar?
 
 a) Leer el texto completo desde el principio
-b) Buscar el subtítulo "¿Qué come?"
+b) Buscar el subtítulo "¿Dónde vive?"
 c) Mirar solo la tabla de visitas a flores
-d) Buscar el subtítulo "¿Dónde vive?"
+d) Buscar el subtítulo "¿Qué come?"
 
 ---
 
 **13. (Matemática)** Ignacio compró un cuaderno de $1.350 y una goma de $290, y pagó con un billete de $2.000. ¿Cuánto vuelto recibió?
 
 a) $350
-b) $360
-c) $450
+b) $450
+c) $360
 d) $260
 
 ---
@@ -196,9 +196,9 @@ d) $260
 **14. (Historia, Geografía y Ciencias Sociales)** ¿Cuál de las siguientes opciones es un ejemplo correcto de **adaptación** humana a un paisaje desértico?
 
 a) Construir atrapanieblas para obtener agua de la neblina costera
-b) Cultivar arroz en terrenos inundados
-c) Usar trineos para transportarse sobre el hielo
-d) Construir diques para contener ríos caudalosos
+b) Cultivar arroz en terrenos inundados por los ríos del valle
+c) Usar trineos tirados por perros para transportarse sobre el hielo
+d) Construir diques para contener los ríos caudalosos del sur
 
 ---
 
@@ -230,8 +230,8 @@ d) Igual al que usarías para escribirle a un desconocido por redes sociales
 
 a) "Fuimos a Valparaíso. Fuimos al cerro. Fuimos a comer. Fuimos al colegio."
 b) "Visitamos Valparaíso, recorrimos sus coloridos cerros, disfrutamos de un almuerzo típico y regresamos felices al colegio."
-c) "Valparaíso, Valparaíso, Valparaíso es lindo."
-d) "Fuimos fuimos fuimos y comimos comimos comimos."
+c) "Valparaíso, Valparaíso, Valparaíso es lindo, Valparaíso es muy lindo, Valparaíso."
+d) "Fuimos a Valparaíso y fuimos al cerro y fuimos a comer y fuimos al colegio y fuimos felices y fuimos cansados a la casa."
 
 ---
 
@@ -246,10 +246,10 @@ d) 4
 
 **19. (Historia, Geografía y Ciencias Sociales)** ¿Qué institución del Estado chileno se encarga principalmente de elaborar y aprobar las leyes del país?
 
-a) La municipalidad
+a) La municipalidad de cada comuna
 b) El Congreso Nacional (Parlamento)
-c) El Gobierno Regional
-d) Los tribunales de justicia
+c) El Gobierno Regional y su consejo
+d) Los tribunales de justicia del país
 
 ---
 
@@ -268,7 +268,7 @@ d) Atmósfera
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -287,12 +287,12 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | 5 | Matemática | **d) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
 | 6 | Historia | **c) Tropical.** Altas temperaturas y lluvias abundantes todo el año. | OA 8 — Paisajes de América |
 | 7 | Ciencias Naturales | **a) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
-| 8 | Lenguaje | **b)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
-| 9 | Matemática | **d) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
+| 8 | Lenguaje | **d)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
+| 9 | Matemática | **b) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
 | 10 | Historia | **c) El cobre.** Es un recurso mineral que, una vez extraído, no se regenera. | OA 9 — Recursos naturales |
 | 11 | Ciencias Naturales | **a) Tendón.** Conecta un músculo con un hueso y transmite la fuerza para el movimiento. | OA 6 — Sistema músculo-esquelético |
-| 12 | Lenguaje | **b)** El subtítulo "¿Qué come?" permite ubicar rápidamente esa información sin releer todo el texto. | OA N°6 — uso de organizadores del texto |
-| 13 | Matemática | **b) $360.** Total de la compra: 1.350 + 290 = 1.640; vuelto: 2.000 − 1.640 = 360. | OA 7 — Resolver problemas con dinero |
+| 12 | Lenguaje | **d)** El subtítulo "¿Qué come?" permite ubicar rápidamente esa información sin releer todo el texto. | OA N°6 — uso de organizadores del texto |
+| 13 | Matemática | **c) $360.** Total de la compra: 1.350 + 290 = 1.640; vuelto: 2.000 − 1.640 = 360. | OA 7 — Resolver problemas con dinero |
 | 14 | Historia | **a) Construir atrapanieblas para obtener agua de la neblina costera.** Adaptación correcta a la escasez de agua en el desierto. | OA 10 — Adaptación y transformación del paisaje |
 | 15 | Ciencias Naturales | **b) El jugo de frutilla.** Es el único material en estado líquido entre los mencionados. | OA 10 — Estados de la materia |
 | 16 | Lenguaje | **b)** El registro debe adecuarse al destinatario; al dirigirse a una autoridad del colegio corresponde un tono formal y respetuoso. | OA N°17 — adecuación del registro al destinatario |
@@ -317,18 +317,18 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 3 | 2 | 0 |
-| OA 3 | 5, 7 | 2 | 0 |
-| OA 4 | 2, 4 | 2 | 0 |
-| OA 5 | 8 | 1 | 0 |
-| OA 6 | 9, 11, 12 | 3 | 0 |
-| OA 7 | 13 | 1 | 0 |
-| OA 8 | 6 | 1 | 0 |
-| OA 9 | 10 | 1 | 0 |
-| OA 10 | 14, 15 | 2 | 0 |
-| OA 11 | 19 | 1 | 0 |
-| OA 15 | 20 | 1 | 0 |
-| OA 17 | 16, 17, 18 | 3 | 0 |
-| **Total** | **20 preguntas** | **20** | **0** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 3 | 2 |
+| OA 3 | 5, 7 | 2 |
+| OA 4 | 2, 4 | 2 |
+| OA 5 | 8 | 1 |
+| OA 6 | 9, 11, 12 | 3 |
+| OA 7 | 13 | 1 |
+| OA 8 | 6 | 1 |
+| OA 9 | 10 | 1 |
+| OA 10 | 14, 15 | 2 |
+| OA 11 | 19 | 1 |
+| OA 15 | 20 | 1 |
+| OA 17 | 16, 17, 18 | 3 |
+| **Total** | **20 preguntas** | **20** |

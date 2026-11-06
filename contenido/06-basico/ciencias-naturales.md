@@ -99,11 +99,11 @@ llamado ciclo de Calvin), aporte por el cual recibió el Premio Nobel de Químic
 
 1. *(Alternativas)* ¿Cuáles son los tres elementos que una planta necesita para
    realizar la fotosíntesis?
-   a) Azúcar, oxígeno y clorofila
-   b) Agua, dióxido de carbono y energía lumínica
-   c) Nitrógeno, oxígeno y agua
-   d) Tierra, semillas y raíces
-   **Respuesta correcta:** b) Agua, dióxido de carbono y energía lumínica.
+   a) Azúcar, oxígeno y clorofila obtenidos del suelo
+   b) Tierra, semillas y raíces profundas en el suelo
+   c) Nitrógeno, oxígeno y agua absorbidos por las hojas
+   d) Agua, dióxido de carbono y energía lumínica
+   **Respuesta correcta:** d) Agua, dióxido de carbono y energía lumínica.
    **Retroalimentación:** Estos tres elementos son los "ingredientes" que la planta
    transforma, mediante la fotosíntesis, en azúcar y oxígeno.
 
@@ -112,39 +112,38 @@ llamado ciclo de Calvin), aporte por el cual recibió el Premio Nobel de Químic
    **Retroalimentación:** Las algas y algunos microorganismos, como las
    cianobacterias, también son organismos fotosintéticos.
 
-3. *(Clasificar)* Clasifica los siguientes elementos como "necesarios para la
-   fotosíntesis" o "productos de la fotosíntesis": agua, azúcar, dióxido de carbono,
-   oxígeno, energía lumínica.
-   **Respuesta correcta:** Necesarios: agua, dióxido de carbono, energía lumínica.
-   Productos: azúcar, oxígeno.
-   **Retroalimentación:** La fotosíntesis transforma los elementos necesarios
-   (reactivos) en nuevos productos: azúcar (alimento) y oxígeno (liberado al aire).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos elementos son **necesarios** para la fotosíntesis (reactivos)? Marca **todas** las correctas.
+   a) Agua
+   b) Azúcar
+   c) Dióxido de carbono
+   d) Oxígeno
+   e) Energía lumínica
+   **Respuesta correcta:** a, c y e.
+   **Retroalimentación:** La fotosíntesis transforma los elementos necesarios (agua, dióxido de carbono y energía lumínica) en nuevos productos: azúcar (alimento) y oxígeno (liberado al aire).
 
-4. *(Desarrollo breve)* Explica con tus palabras por qué la fotosíntesis es importante
-   no solo para la planta que la realiza, sino también para otros seres vivos.
-   **Respuesta esperada:** Porque la fotosíntesis libera oxígeno, que otros seres
-   vivos necesitan para respirar, y porque el azúcar producido por la planta es la
-   base del alimento de otros organismos que se alimentan de ella.
-   **Retroalimentación:** Este es un buen puente hacia el OA 2, donde verás cómo esa
-   energía se transfiere a otros seres vivos a través de las cadenas alimentarias.
+4. *(Alternativas)* ¿Por qué la fotosíntesis es importante no solo para la planta, sino también para otros seres vivos?
+   a) Porque libera oxígeno que otros seres vivos respiran, y el azúcar que produce es la base del alimento de otros organismos
+   b) Porque consume todo el oxígeno del aire y lo transforma en el dióxido de carbono que otros seres vivos necesitan respirar
+   c) Porque solo sirve para que la planta crezca; los demás seres vivos obtienen su alimento y su oxígeno de otras fuentes
+   d) Porque produce dióxido de carbono para los animales, que lo respiran para obtener la energía de su alimento
+   **Respuesta correcta:** a) Porque libera oxígeno que otros seres vivos respiran, y el azúcar que produce es la base del alimento de otros organismos.
+   **Retroalimentación:** Este es un buen puente hacia el OA 2, donde verás cómo esa energía se transfiere a otros seres vivos a través de las cadenas alimentarias.
 
-5. *(Predicción/análisis)* Una maceta con una planta se coloca dentro de un clóset
-   cerrado, sin luz, durante dos semanas, pero se le sigue regando con agua. Predice
-   qué le ocurrirá a la planta y justifica según lo que sabes de la fotosíntesis.
-   **Respuesta esperada:** La planta se debilitará o morirá, porque aunque tiene agua,
-   le falta energía lumínica; sin luz no puede realizar la fotosíntesis ni producir el
-   azúcar que necesita para vivir.
-   **Retroalimentación:** Una buena predicción identifica cuál de los tres elementos
-   necesarios (agua, CO₂, luz) está ausente y explica su consecuencia.
+5. *(Alternativas — predicción)* Una maceta con una planta se coloca dentro de un clóset cerrado, sin luz, durante dos semanas, pero se le sigue regando con agua. ¿Qué le ocurrirá a la planta?
+   a) Crecerá más rápido, porque tiene agua suficiente y la luz no es necesaria para fabricar su alimento
+   b) No le pasará nada, porque el agua basta para que la planta produzca el azúcar que necesita
+   c) Producirá más oxígeno en la oscuridad, porque descansa de la fotosíntesis y respira con más fuerza
+   d) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita
+   **Respuesta correcta:** d) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita.
+   **Retroalimentación:** Una buena predicción identifica cuál de los tres elementos necesarios (agua, CO₂, luz) está ausente y explica su consecuencia: aquí falta la energía lumínica.
 
-6. *(Investigación/aporte científico)* Explica brevemente qué descubrió Jan Ingenhousz
-   sobre la fotosíntesis y por qué su experimento fue importante.
-   **Respuesta esperada:** Descubrió que las plantas liberan oxígeno solamente cuando
-   reciben luz, demostrando que la energía lumínica es indispensable para la
-   fotosíntesis; su experimento con burbujas de gas en plantas acuáticas ayudó a
-   comprender el rol de la luz en este proceso.
-   **Retroalimentación:** Conocer los aportes históricos ayuda a entender que el
-   conocimiento científico se construye a partir de observaciones y experimentos.
+6. *(Alternativas — aporte científico)* ¿Qué descubrió Jan Ingenhousz sobre la fotosíntesis?
+   a) Que las plantas respiran solo de noche y que durante el día no intercambian gases con el aire
+   b) Que el oxígeno lo producen los animales, y que las plantas solo lo absorben cuando reciben luz
+   c) Que las plantas no necesitan agua para la fotosíntesis, sino solo luz solar y dióxido de carbono
+   d) Que las plantas liberan oxígeno solo cuando reciben luz, demostrando que la luz es indispensable
+   **Respuesta correcta:** d) Que las plantas liberan oxígeno solo cuando reciben luz, demostrando que la luz es indispensable.
+   **Retroalimentación:** Su experimento con burbujas de gas en plantas acuáticas ayudó a comprender el rol de la luz. Conocer los aportes históricos ayuda a entender que el conocimiento científico se construye con observaciones y experimentos.
 
 ---
 
@@ -199,11 +198,11 @@ ecosistema puede verse afectado.
 
 1. *(Alternativas)* ¿Por qué se dice que los productores son la base de los flujos de
    materia y energía en un ecosistema?
-   a) Porque son los organismos más grandes
+   a) Porque son los organismos más grandes y más abundantes de todos los ecosistemas
    b) Porque son los únicos capaces de producir su propio alimento a partir de la
       energía solar
-   c) Porque no necesitan agua para vivir
-   d) Porque son los que se alimentan de todos los demás
+   c) Porque no necesitan agua para vivir y pueden crecer en cualquier lugar del planeta
+   d) Porque son los que se alimentan de todos los demás seres vivos del ecosistema
    **Respuesta correcta:** b) Porque son los únicos capaces de producir su propio
    alimento a partir de la energía solar.
    **Retroalimentación:** Sin productores no habría alimento disponible para ningún
@@ -215,40 +214,37 @@ ecosistema puede verse afectado.
    de los restos (materia orgánica muerta) de productores y consumidores, liberando
    nutrientes que vuelven al suelo.
 
-3. *(Clasificar)* Clasifica según su nivel trófico: alga marina, tiburón, sardina
-   (que come krill), krill (que come fitoplancton).
-   **Respuesta correcta:** Productor: alga marina/fitoplancton. Consumidor 1° orden:
-   krill. Consumidor 2° orden: sardina. Consumidor 3° orden: tiburón.
-   **Retroalimentación:** Fíjate en de qué se alimenta cada organismo para ubicarlo en
-   el nivel trófico correspondiente.
+3. *(Alternativas — clasificar)* En la cadena alga marina/fitoplancton → krill → sardina → tiburón, ¿qué organismo es el **consumidor de segundo orden**?
+   a) El krill
+   b) El tiburón
+   c) La sardina
+   d) El alga marina
+   **Respuesta correcta:** c) La sardina.
+   **Retroalimentación:** Productor: alga/fitoplancton; consumidor de 1.er orden: krill; 2.º orden: sardina (come krill); 3.er orden: tiburón. Fíjate en de qué se alimenta cada organismo.
 
-4. *(Modelar/representar)* Construye una cadena alimentaria de cuatro eslabones
-   propia de un ecosistema terrestre chileno (por ejemplo, campo o bosque), indicando
-   el nivel trófico de cada organismo.
-   **Respuesta esperada:** Por ejemplo: pasto (productor) → conejo (consumidor 1°
-   orden) → zorro culpeo (consumidor 2° orden) → ave rapaz como el águila (consumidor
-   3° orden).
-   **Retroalimentación:** Una cadena bien construida muestra una relación real de
-   "quién se come a quién" y respeta el orden de los niveles tróficos.
+4. *(Alternativas — modelar)* ¿Qué cadena alimentaria de un ecosistema terrestre chileno está **bien construida**, con cada nivel trófico correcto?
+   a) Pasto (productor) → conejo (consumidor 1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden)
+   b) Conejo (productor) → pasto (consumidor 1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden)
+   c) Pasto (productor) → zorro (1.er orden) → conejo (2.º orden) → águila (3.er orden)
+   d) Águila (productor) → zorro culpeo (consumidor 1.er orden) → conejo (2.º orden) → pasto (3.er orden)
+   **Respuesta correcta:** a) Pasto (productor) → conejo (consumidor 1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden).
+   **Retroalimentación:** Una cadena bien construida muestra una relación real de "quién se come a quién" y respeta el orden de los niveles tróficos.
 
-5. *(Análisis)* Explica por qué una red alimentaria representa mejor la realidad de un
-   ecosistema que una sola cadena alimentaria.
-   **Respuesta esperada:** Porque en la naturaleza un mismo organismo suele
-   alimentarse de más de una especie y ser alimento de más de un depredador; una red
-   alimentaria muestra todas esas conexiones, mientras que una cadena solo muestra una
-   secuencia lineal.
-   **Retroalimentación:** Pensar en redes, no solo en cadenas, ayuda a comprender por
-   qué los ecosistemas son sistemas interconectados y complejos.
+5. *(Alternativas — análisis)* ¿Por qué una red alimentaria representa mejor la realidad de un ecosistema que una sola cadena?
+   a) Porque la red tiene menos organismos que una cadena, y así es más fácil estudiar a cada uno por separado
+   b) Porque en la naturaleza cada organismo come una sola especie, y la red muestra cuál es esa única especie
+   c) Porque la red no incluye a los productores, que en la realidad no participan en el paso de la energía
+   d) Porque un organismo suele comer varias especies y ser alimento de varios depredadores, y la red muestra todas esas conexiones
+   **Respuesta correcta:** d) Porque un organismo suele comer varias especies y ser alimento de varios depredadores, y la red muestra todas esas conexiones.
+   **Retroalimentación:** Pensar en redes, no solo en cadenas, ayuda a comprender por qué los ecosistemas son sistemas interconectados y complejos.
 
-6. *(Análisis/predicción de consecuencias)* Si una plaga destruye gran parte del
-   fitoplancton de una zona costera chilena, ¿qué consecuencias podrías predecir para
-   el resto de la red alimentaria marina? Justifica.
-   **Respuesta esperada:** Disminuiría el alimento disponible para el krill y los
-   peces pequeños que se alimentan de fitoplancton, lo que reduciría su población; esto
-   afectaría después a los consumidores de niveles superiores (peces grandes, aves
-   marinas, lobos marinos), que tendrían menos alimento disponible.
-   **Retroalimentación:** Alterar la base de la red alimentaria (los productores)
-   genera efectos en cadena sobre todos los niveles tróficos superiores.
+6. *(Alternativas — consecuencias)* Si una plaga destruye gran parte del fitoplancton de una zona costera chilena, ¿qué consecuencia se puede predecir?
+   a) Aumentaría la cantidad de lobos marinos, porque tendrían más espacio libre en el mar para cazar
+   b) Disminuiría el alimento del krill y de los peces pequeños, y después también de los consumidores superiores
+   c) Solo se afectaría el fitoplancton, porque los demás organismos del mar no dependen de él
+   d) Los tiburones empezarían a hacer fotosíntesis para reemplazar al fitoplancton que desapareció
+   **Respuesta correcta:** b) Disminuiría el alimento del krill y de los peces pequeños, y después también de los consumidores superiores.
+   **Retroalimentación:** Alterar la base de la red alimentaria (los productores) genera efectos en cadena sobre todos los niveles tróficos superiores.
 
 ---
 
@@ -297,10 +293,10 @@ esa variación es completamente normal.
 
 1. *(Alternativas)* ¿Cuál de los siguientes cambios biológicos es propio de la
    pubertad en los hombres?
-   a) La menarquia
-   b) El desarrollo de las mamas
+   a) La menarquia o primera menstruación
+   b) El desarrollo de las glándulas mamarias
    c) El cambio de voz hacia un tono más grave
-   d) El ensanchamiento de las caderas
+   d) El ensanchamiento marcado de las caderas
    **Respuesta correcta:** c) El cambio de voz hacia un tono más grave.
    **Retroalimentación:** El cambio de voz ocurre por el crecimiento de la laringe,
    un cambio biológico característico de la pubertad masculina.
@@ -311,39 +307,37 @@ esa variación es completamente normal.
    **Retroalimentación:** La edad de inicio de la pubertad varía de una persona a
    otra, y esa variación es normal.
 
-3. *(Clasificar)* Clasifica estos cambios según si son comunes a ambos sexos,
-   exclusivos de las mujeres o exclusivos de los hombres: menarquia, acné, crecimiento
-   de vello facial, estirón de crecimiento.
-   **Respuesta correcta:** Comunes: acné, estirón de crecimiento. Exclusivo de
-   mujeres: menarquia. Exclusivo de hombres: crecimiento de vello facial.
-   **Retroalimentación:** Algunos cambios de la pubertad ocurren en ambos sexos y
-   otros son propios de uno de ellos, según las hormonas involucradas.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos cambios de la pubertad son **comunes a ambos sexos**? Marca **todas** las correctas.
+   a) Acné
+   b) Menarquia
+   c) Crecimiento de vello facial
+   d) Estirón de crecimiento
+   **Respuesta correcta:** a y d.
+   **Retroalimentación:** Acné y estirón ocurren en ambos sexos; la menarquia (primera menstruación) es exclusiva de las mujeres y el vello facial abundante es propio de los hombres, según las hormonas involucradas.
 
-4. *(Desarrollo breve)* Nombra dos cambios conductuales frecuentes durante la pubertad
-   y explica brevemente en qué consisten.
-   **Respuesta esperada:** Por ejemplo: mayor variabilidad emocional (cambios de
-   ánimo más marcados) y mayor necesidad de independencia (preferir tomar decisiones
-   propias o pasar más tiempo con amigos que con la familia).
-   **Retroalimentación:** Los cambios conductuales, al igual que los biológicos, son
-   parte normal del desarrollo durante esta etapa.
+4. *(Varias correctas)* ¿Cuáles de estos son cambios **conductuales** frecuentes durante la pubertad? Marca **todas** las correctas.
+   a) Mayor variabilidad emocional (cambios de ánimo más marcados)
+   b) Mayor necesidad de independencia
+   c) Crecimiento de las mamas
+   d) Cambio de la voz
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Los cambios de ánimo y la necesidad de independencia son conductuales; el desarrollo de las mamas y el cambio de voz son cambios biológicos. Todos son parte normal del desarrollo.
 
-5. *(Comparación)* Compara un cambio biológico que ocurre en las mujeres con uno que
-   ocurre en los hombres durante la pubertad, señalando en qué se diferencian.
-   **Respuesta esperada:** Por ejemplo: en las mujeres se desarrollan las mamas y
-   comienza la menstruación; en los hombres crecen los testículos y el pene y cambia
-   la voz. Ambos son cambios propios del desarrollo del sistema reproductor de cada
-   sexo, pero se manifiestan de forma distinta.
-   **Retroalimentación:** Comparar implica identificar tanto semejanzas (ambos son
-   cambios de la pubertad) como diferencias (qué es específico de cada sexo).
+5. *(Alternativas — comparar)* ¿Qué comparación entre un cambio biológico de las mujeres y uno de los hombres en la pubertad es **correcta**?
+   a) En las mujeres cambia la voz y crecen los testículos; en los hombres se desarrollan las mamas y comienza la menstruación
+   b) En los dos sexos ocurren exactamente los mismos cambios: se desarrollan las mamas, comienza la menstruación y cambia la voz
+   c) En las mujeres se desarrollan las mamas y comienza la menstruación; en los hombres crecen los testículos y el pene y cambia la voz
+   d) Solo las mujeres viven cambios en la pubertad; en los hombres el cuerpo sigue igual hasta la adultez
+   **Respuesta correcta:** c) En las mujeres se desarrollan las mamas y comienza la menstruación; en los hombres crecen los testículos y el pene y cambia la voz.
+   **Retroalimentación:** Ambos son cambios del desarrollo del sistema reproductor de cada sexo, pero se manifiestan de forma distinta. Comparar implica identificar semejanzas y diferencias.
 
-6. *(Análisis/actitud)* ¿Por qué es importante comprender que la pubertad es una etapa
-   normal del desarrollo humano y que cada persona la vive a su propio ritmo?
-   **Respuesta esperada:** Porque ayuda a evitar la vergüenza, la burla o la
-   comparación negativa entre compañeros y compañeras que experimentan los cambios en
-   momentos distintos; comprenderlo con naturalidad favorece el bienestar emocional
-   durante esta etapa.
-   **Retroalimentación:** Una actitud informada y respetuosa frente a los cambios
-   propios y ajenos es clave durante la pubertad.
+6. *(Alternativas — actitud)* ¿Por qué es importante comprender que la pubertad es una etapa normal y que cada persona la vive a su propio ritmo?
+   a) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
+   b) Porque así todos cambian al mismo tiempo y a la misma edad, sin diferencias entre compañeros
+   c) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
+   d) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten
+   **Respuesta correcta:** a) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.
+   **Retroalimentación:** Una actitud informada y respetuosa frente a los cambios propios y ajenos es clave durante la pubertad.
 
 ---
 
@@ -388,9 +382,9 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
 
 1. *(Alternativas)* ¿Cuál de los siguientes es un beneficio de practicar actividad
    física de forma regular?
-   a) Aumenta el riesgo de enfermedades cardiovasculares
+   a) Aumenta el riesgo de enfermedades cardiovasculares y del peso corporal
    b) Fortalece el sistema cardiovascular y ayuda a mantener un peso saludable
-   c) Elimina por completo la necesidad de higiene corporal
+   c) Elimina por completo la necesidad de higiene corporal después del deporte
    d) Solo beneficia a los adultos, no a los adolescentes
    **Respuesta correcta:** b) Fortalece el sistema cardiovascular y ayuda a mantener
    un peso saludable.
@@ -404,37 +398,38 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
    producción de grasa en la piel) requieren un aseo higiénico más frecuente y
    cuidadoso que en la niñez.
 
-3. *(Clasificar)* Clasifica estas prácticas como "hábito de higiene" o "hábito de
-   actividad física": ducharse a diario, entrenar en un club deportivo, usar
-   desodorante, salir a trotar, lavarse el rostro.
-   **Respuesta correcta:** Higiene: ducharse a diario, usar desodorante, lavarse el
-   rostro. Actividad física: entrenar en un club deportivo, salir a trotar.
-   **Retroalimentación:** Ambos tipos de hábitos son complementarios para mantener la
-   salud durante la pubertad.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas prácticas son **hábitos de higiene**? Marca **todas** las correctas.
+   a) Ducharse a diario
+   b) Entrenar en un club deportivo
+   c) Usar desodorante
+   d) Salir a trotar
+   e) Lavarse el rostro
+   **Respuesta correcta:** a, c y e.
+   **Retroalimentación:** Entrenar y trotar son hábitos de actividad física. Ambos tipos de hábitos son complementarios para mantener la salud durante la pubertad.
 
-4. *(Desarrollo breve)* Explica por qué los cambios fisiológicos de la pubertad hacen
-   necesario un aseo higiénico diferente al de años anteriores.
-   **Respuesta esperada:** Porque los cambios hormonales aumentan la actividad de las
-   glándulas sudoríparas y sebáceas, generando más sudor, cambios de olor corporal y
-   mayor tendencia al acné, lo que exige una higiene más frecuente que antes.
-   **Retroalimentación:** El punto clave es relacionar el cambio fisiológico (más
-   sudor y grasa) con la necesidad higiénica correspondiente.
+4. *(Alternativas)* ¿Por qué los cambios de la pubertad hacen necesario un aseo diferente al de años anteriores?
+   a) Porque la piel deja de sudar en la pubertad y se reseca, por lo que hay que ducharse con menos frecuencia
+   b) Porque el cabello deja de crecer y se cae, y por eso hay que lavarlo con productos especiales cada día
+   c) Porque ya no es necesario ducharse a diario: las glándulas de la piel dejan de producir grasa y olor
+   d) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: hay más sudor, cambios de olor y tendencia al acné
+   **Respuesta correcta:** d) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: hay más sudor, cambios de olor y tendencia al acné.
+   **Retroalimentación:** El punto clave es relacionar el cambio fisiológico (más sudor y grasa) con la necesidad higiénica correspondiente.
 
-5. *(Análisis)* Explica cómo una inadecuada higiene corporal durante la pubertad podría
-   derivar en un problema de salud, dando un ejemplo.
-   **Respuesta esperada:** Por ejemplo: no lavarse el rostro con regularidad puede
-   favorecer la obstrucción de los poros con grasa y células muertas, agravando el
-   acné o generando infecciones en la piel.
-   **Retroalimentación:** Comprender la relación entre higiene y salud ayuda a valorar
-   estos hábitos, no solo como costumbre, sino como cuidado activo del cuerpo.
+5. *(Alternativas — análisis)* ¿Qué ejemplo muestra cómo una higiene inadecuada en la pubertad puede derivar en un problema de salud?
+   a) Ducharse a diario provoca acné, porque el agua elimina la grasa natural que protege los poros de la cara
+   b) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones
+   c) Usar desodorante causa el estirón, porque sus sustancias aceleran el crecimiento de los huesos del cuerpo
+   d) Lavarse el rostro provoca más grasa, porque la piel reacciona y produce más sebo, agravando el acné
+   **Respuesta correcta:** b) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.
+   **Retroalimentación:** Comprender la relación entre higiene y salud ayuda a valorar estos hábitos como cuidado activo del cuerpo.
 
-6. *(Aplicación)* Propón una rutina semanal simple que combine al menos dos momentos de
-   actividad física y dos hábitos de higiene corporal adecuados para esta etapa.
-   **Respuesta esperada:** Por ejemplo: entrenar fútbol dos veces por semana y salir a
-   caminar o trotar otro día; ducharse a diario, especialmente después de hacer
-   deporte, y lavarse el rostro por la mañana y la noche.
-   **Retroalimentación:** Una buena rutina combina de forma equilibrada ambos tipos de
-   hábitos saludables.
+6. *(Alternativas — aplicación)* ¿Qué rutina semanal combina **al menos dos momentos de actividad física y dos hábitos de higiene**?
+   a) Ver televisión todas las tardes, jugar videojuegos el fin de semana y ducharse una vez por semana, sin lavarse el rostro
+   b) Entrenar todos los días de la semana, dos horas cada vez, sin ducharse ni lavarse el rostro para ahorrar tiempo y agua
+   c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche
+   d) Lavarse el rostro una vez al mes, ducharse solo cuando hace calor y no hacer deporte durante la semana para no sudar
+   **Respuesta correcta:** c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche.
+   **Retroalimentación:** Una buena rutina combina de forma equilibrada ambos tipos de hábitos saludables.
 
 ---
 
@@ -490,10 +485,10 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
 
 1. *(Alternativas)* ¿Cuál de las siguientes fuentes de energía proviene de forma
    directa del Sol?
-   a) El petróleo
+   a) El petróleo extraído del subsuelo
    b) La energía captada por paneles solares
-   c) El carbón
-   d) Los alimentos
+   c) El carbón de las minas del sur
+   d) Los alimentos que comemos cada día
    **Respuesta correcta:** b) La energía captada por paneles solares.
    **Retroalimentación:** Los paneles solares capturan directamente la energía
    lumínica del Sol; el petróleo, el carbón y los alimentos provienen del Sol de forma
@@ -505,40 +500,37 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
    **Retroalimentación:** Tanto los seres vivos como los objetos necesitan energía
    para que ocurra cualquier tipo de cambio, ya sea movimiento, luz, sonido o calor.
 
-3. *(Clasificar)* Identifica qué tipo de energía se manifiesta principalmente en cada
-   aparato: ampolleta, parlante, ventilador, estufa.
-   **Respuesta correcta:** Ampolleta: energía lumínica. Parlante: energía sonora.
-   Ventilador: energía cinética. Estufa: energía calórica.
-   **Retroalimentación:** Muchos aparatos transforman energía eléctrica en otro tipo de
-   energía según su función principal.
+3. *(Alternativas — clasificar)* ¿Qué tipo de energía se manifiesta principalmente en un **parlante** encendido?
+   a) Energía sonora
+   b) Energía lumínica
+   c) Energía cinética
+   d) Energía calórica
+   **Respuesta correcta:** a) Energía sonora.
+   **Retroalimentación:** Ampolleta: lumínica; parlante: sonora; ventilador: cinética; estufa: calórica. Muchos aparatos transforman energía eléctrica en otro tipo de energía según su función principal.
 
-4. *(Desarrollo breve)* Explica por qué se dice que los alimentos son una forma
-   indirecta de energía solar.
-   **Respuesta esperada:** Porque los alimentos provienen de plantas (o de animales
-   que se alimentaron de plantas), y las plantas producen su alimento mediante la
-   fotosíntesis, un proceso que requiere energía lumínica del Sol.
-   **Retroalimentación:** Esta idea conecta directamente con lo aprendido en el OA 1
-   sobre fotosíntesis.
+4. *(Alternativas)* ¿Por qué se dice que los alimentos son una forma indirecta de energía solar?
+   a) Porque los alimentos se calientan al sol antes de comerlos, y así guardan dentro la energía de la luz que reciben en el campo
+   b) Porque los alimentos brillan
+   c) Porque el Sol cocina los alimentos en el campo mientras crecen, y por eso algunos alimentos ya no hay que cocinarlos en la casa antes de comerlos
+   d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol mediante la fotosíntesis
+   **Respuesta correcta:** d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol mediante la fotosíntesis.
+   **Retroalimentación:** Esta idea conecta directamente con lo aprendido en el OA 1 sobre fotosíntesis.
 
-5. *(Análisis)* Explica por qué la energía es necesaria para que un ser vivo realice
-   sus procesos vitales, dando un ejemplo distinto a los mencionados en la explicación.
-   **Respuesta esperada:** Por ejemplo: un pez necesita energía para nadar, para
-   bombear sangre a través de su corazón y para mantener sus funciones internas; sin
-   un aporte constante de energía (obtenida del alimento), estos procesos se
-   detendrían.
-   **Retroalimentación:** Cualquier proceso vital razonable (respiración, movimiento,
-   digestión, crecimiento) es una respuesta válida, siempre que se justifique el rol
-   de la energía.
+5. *(Alternativas — análisis)* ¿Qué ejemplo explica correctamente por qué un ser vivo necesita energía para sus procesos vitales?
+   a) Un pez no necesita energía porque vive en el agua, que lo mantiene flotando y lo mueve de un lugar a otro sin esfuerzo
+   b) Un pez necesita energía, obtenida del alimento, para nadar, bombear sangre y mantener sus funciones; sin ella esos procesos se detendrían
+   c) Las plantas no realizan procesos vitales, porque no se mueven; por eso solo los animales necesitan energía para vivir
+   d) La energía solo sirve para que los seres vivos duerman y descansen; nadar o bombear sangre no requiere energía
+   **Respuesta correcta:** b) Un pez necesita energía, obtenida del alimento, para nadar, bombear sangre y mantener sus funciones; sin ella esos procesos se detendrían.
+   **Retroalimentación:** Cualquier proceso vital (respiración, movimiento, digestión, crecimiento) requiere energía obtenida del alimento.
 
-6. *(Aplicación)* Elige un aparato de uso cotidiano en tu hogar e identifica al menos
-   dos tipos de energía que se manifiestan al usarlo, describiendo el efecto que
-   produce cada una.
-   **Respuesta esperada:** Por ejemplo, una licuadora: energía eléctrica que ingresa,
-   energía cinética (el movimiento de las aspas) y energía sonora (el ruido que
-   produce al funcionar).
-   **Retroalimentación:** Identificar varios tipos de energía en un mismo aparato
-   ayuda a comprender que la energía se transforma de una forma a otra, no
-   desaparece.
+6. *(Varias correctas — aplicación)* Al usar una licuadora, ¿qué tipos de energía se manifiestan? Marca **todas** las correctas.
+   a) Energía eléctrica que ingresa
+   b) Energía cinética en el movimiento de las aspas
+   c) Energía sonora en el ruido que produce
+   d) Energía nuclear en su interior
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Identificar varios tipos de energía en un mismo aparato ayuda a comprender que la energía se transforma de una forma a otra, no desaparece.
 
 ---
 
@@ -602,38 +594,37 @@ fuentes renovables cuando sea posible.
    radiaciones solares del mundo, lo que lo hace ideal para la generación de energía
    solar.
 
-3. *(Clasificar)* Clasifica estas fuentes de energía en renovables o no renovables:
-   gas natural, energía eólica, petróleo, energía geotérmica.
-   **Respuesta correcta:** Renovables: energía eólica, energía geotérmica. No
-   renovables: gas natural, petróleo.
-   **Retroalimentación:** Recuerda el criterio clave: si la fuente se agota con el uso
-   y tarda mucho en regenerarse, es no renovable; si prácticamente no se agota, es
-   renovable.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas fuentes de energía son **renovables**? Marca **todas** las correctas.
+   a) Gas natural
+   b) Energía eólica
+   c) Petróleo
+   d) Energía geotérmica
+   **Respuesta correcta:** b y d.
+   **Retroalimentación:** Si la fuente se agota con el uso y tarda mucho en regenerarse (gas natural, petróleo), es no renovable; si prácticamente no se agota (viento, calor interno de la Tierra), es renovable.
 
-4. *(Desarrollo breve)* Explica por qué los combustibles fósiles se consideran
-   recursos no renovables, aunque técnicamente algún día podrían volver a formarse.
-   **Respuesta esperada:** Porque su formación requiere millones de años, un tiempo
-   muchísimo mayor a la velocidad con la que se están consumiendo actualmente; en la
-   práctica, para efectos humanos, se agotan y no se pueden reponer.
-   **Retroalimentación:** La clave está en comparar la velocidad de formación con la
-   velocidad de consumo.
+4. *(Alternativas)* ¿Por qué los combustibles fósiles se consideran no renovables, aunque técnicamente algún día podrían volver a formarse?
+   a) Porque se forman en pocos días, pero solo en algunos lugares del planeta muy alejados
+   b) Porque no se pueden quemar sin dañar las máquinas, y por eso se usan cada vez menos
+   c) Porque su formación requiere millones de años, mucho más que la velocidad con que se consumen
+   d) Porque se producen en fábricas que pronto dejarán de funcionar por falta de materiales
+   **Respuesta correcta:** c) Porque su formación requiere millones de años, mucho más que la velocidad con que se consumen.
+   **Retroalimentación:** La clave está en comparar la velocidad de formación con la velocidad de consumo: para efectos humanos, se agotan.
 
-5. *(Análisis)* Menciona dos fuentes de energía renovable con potencial en distintas
-   zonas de Chile y explica brevemente por qué cada zona es adecuada para esa fuente.
-   **Respuesta esperada:** Por ejemplo: energía solar en el norte (desierto de
-   Atacama), por su alta radiación solar; energía hidroeléctrica en el sur, por sus
-   numerosos ríos y caudales abundantes.
-   **Retroalimentación:** Relacionar el tipo de energía con las características
-   geográficas de cada zona ayuda a comprender por qué Chile tiene potencial
-   energético diverso.
+5. *(Alternativas — análisis)* ¿Qué pareja une bien una fuente de energía renovable con la zona de Chile adecuada y su razón?
+   a) Energía solar en el norte (desierto de Atacama), por su alta radiación solar
+   b) Energía hidroeléctrica en el desierto de Atacama, por sus grandes ríos
+   c) Energía solar en el extremo sur, por su cielo siempre despejado
+   d) Energía eólica dentro de una mina subterránea
+   **Respuesta correcta:** a) Energía solar en el norte (desierto de Atacama), por su alta radiación solar.
+   **Retroalimentación:** También es correcto relacionar la energía hidroeléctrica con el sur, por sus numerosos ríos y caudales. Relacionar la energía con la geografía explica el potencial energético diverso de Chile.
 
-6. *(Aplicación/propuesta)* Propón dos medidas concretas de uso responsable de la
-   energía que podrías aplicar en tu hogar o colegio.
-   **Respuesta esperada:** Por ejemplo: apagar luces y aparatos electrónicos que no se
-   estén usando, usar ampolletas de bajo consumo, aprovechar la luz natural durante el
-   día, usar transporte público o bicicleta en lugar del automóvil.
-   **Retroalimentación:** Cualquier medida razonable, coherente con reducir el
-   consumo innecesario de energía, es una respuesta válida.
+6. *(Varias correctas — propuesta)* ¿Cuáles son medidas de uso responsable de la energía en el hogar o el colegio? Marca **todas** las correctas.
+   a) Apagar luces y aparatos que no se usan
+   b) Usar ampolletas de bajo consumo
+   c) Dejar el computador encendido toda la noche
+   d) Aprovechar la luz natural durante el día
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Cualquier medida que reduzca el consumo innecesario de energía es válida; dejar aparatos encendidos sin uso la desperdicia.
 
 ---
 
@@ -701,43 +692,37 @@ inverso: las partículas se acercan y ordenan progresivamente.
    ebullición ocurre rápidamente en todo el volumen del líquido a una temperatura
    específica.
 
-3. *(Clasificar)* Clasifica estos cambios de estado según el estado inicial y final:
-   hielo que se derrite, vapor que forma gotitas en un vidrio frío, agua que se
-   congela, hielo seco que libera gas directamente.
-   **Respuesta correcta:** Hielo que se derrite: fusión (sólido→líquido). Vapor que
-   forma gotitas: condensación (gas→líquido). Agua que se congela: solidificación
-   (líquido→sólido). Hielo seco: sublimación (sólido→gas).
-   **Retroalimentación:** Identificar el estado inicial y el estado final de la
-   materia es la clave para nombrar correctamente cada cambio.
+3. *(Alternativas — clasificar)* El vapor de agua que forma gotitas en un vidrio frío es un ejemplo de...
+   a) Fusión (sólido → líquido)
+   b) Solidificación (líquido → sólido)
+   c) Sublimación (sólido → gas)
+   d) Condensación (gas → líquido)
+   **Respuesta correcta:** d) Condensación (gas → líquido).
+   **Retroalimentación:** Hielo que se derrite: fusión; agua que se congela: solidificación; hielo seco que libera gas: sublimación. Identificar el estado inicial y final es la clave para nombrar cada cambio.
 
-4. *(Desarrollo breve)* Explica, a nivel particulado, qué le ocurre a las partículas de
-   un sólido cuando gana energía calórica y pasa al estado líquido.
-   **Respuesta esperada:** Las partículas del sólido, que estaban muy unidas y
-   vibrando en su lugar, ganan energía, se mueven con más libertad y se separan
-   ligeramente entre sí, pasando a un estado más desordenado (líquido) en el que
-   pueden moverse unas respecto a otras.
-   **Retroalimentación:** El concepto clave es que ganar energía aumenta el movimiento
-   y la separación de las partículas.
+4. *(Alternativas)* A nivel de partículas, ¿qué ocurre cuando un sólido gana energía calórica y pasa a líquido?
+   a) Las partículas se detienen por completo y dejan de vibrar, y por eso el sólido pierde su forma y comienza a derretirse
+   b) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras
+   c) Las partículas se juntan más y se ordenan en filas, ocupando menos espacio que en el estado sólido y fluyendo entre sí
+   d) Las partículas desaparecen al recibir calor y son reemplazadas por partículas de agua
+   **Respuesta correcta:** b) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras.
+   **Retroalimentación:** Ganar energía aumenta el movimiento y la separación de las partículas.
 
-5. *(Análisis/comparación)* Compara, a nivel particulado, el comportamiento de las
-   partículas en el estado gaseoso con el comportamiento de las partículas en el
-   estado sólido.
-   **Respuesta esperada:** En el estado gaseoso, las partículas están muy separadas
-   entre sí, se mueven de forma libre y desordenada en todas direcciones; en el
-   estado sólido, las partículas están muy juntas, ordenadas, y solo vibran en una
-   posición fija, sin desplazarse libremente.
-   **Retroalimentación:** Comparar ambos estados extremos ayuda a comprender la
-   diferencia de energía y organización de las partículas entre ellos.
+5. *(Alternativas — comparar)* ¿Qué comparación entre las partículas de un gas y las de un sólido es **correcta**?
+   a) En el gas están juntas y ordenadas, y solo vibran en su lugar; en el sólido están muy separadas y se mueven libremente
+   b) En los dos estados se mueven igual: las partículas están igual de separadas y se desplazan en todas direcciones
+   c) En el gas están muy separadas y se mueven libremente; en el sólido están juntas, ordenadas y solo vibran en su lugar
+   d) En el sólido se desplazan libremente en todas direcciones; en el gas están quietas y unidas en una red ordenada
+   **Respuesta correcta:** c) En el gas están muy separadas y se mueven libremente; en el sólido están juntas, ordenadas y solo vibran en su lugar.
+   **Retroalimentación:** Comparar los estados extremos ayuda a comprender la diferencia de energía y organización de las partículas.
 
-6. *(Investigación experimental/predicción)* Diseña un procedimiento simple para
-   observar el proceso de sublimación usando hielo seco (o describe qué observarías si
-   lo hicieras), y predice qué verías ocurrir.
-   **Respuesta esperada:** Al colocar un trozo de hielo seco en un recipiente a
-   temperatura ambiente, se observaría cómo pasa directamente de sólido a gas, sin que
-   aparezca nunca líquido en el proceso; la "niebla" o "humo" que se ve es vapor de
-   agua del aire que se condensa por el frío del hielo seco.
-   **Retroalimentación:** El punto clave de la sublimación es la ausencia del estado
-   líquido intermedio, algo distinto a lo que ocurre con el hielo de agua común.
+6. *(Alternativas — predicción)* Si colocas un trozo de hielo seco en un recipiente a temperatura ambiente, ¿qué observarías?
+   a) Pasa directamente de sólido a gas, sin que aparezca líquido; la "niebla" es vapor de agua del aire que se condensa por el frío
+   b) Se derrite y forma un charco de agua, igual que el hielo común, y la "niebla" es humo que sale del charco
+   c) Se convierte en hielo de agua común al tocar el aire, y la "niebla" es el frío que sale del recipiente
+   d) No cambia nada: el hielo seco se mantiene sólido a temperatura ambiente, y la "niebla" es polvo del aire
+   **Respuesta correcta:** a) Pasa directamente de sólido a gas, sin que aparezca líquido; la "niebla" es vapor de agua del aire que se condensa por el frío.
+   **Retroalimentación:** El punto clave de la sublimación es la ausencia del estado líquido intermedio, distinto a lo que ocurre con el hielo de agua común.
 
 ---
 
@@ -807,36 +792,37 @@ vertido de desechos para proteger la hidrósfera.
    deforestación o el vertido de desechos alteran, respectivamente, la atmósfera, la
    litósfera y la hidrósfera.
 
-3. *(Clasificar)* Clasifica estos recursos según la capa de la Tierra a la que
-   pertenecen principalmente: cobre, oxígeno del aire, agua de un lago, suelo fértil.
-   **Respuesta correcta:** Litósfera: cobre, suelo fértil. Atmósfera: oxígeno del aire.
-   Hidrósfera: agua de un lago.
-   **Retroalimentación:** Cada capa provee un tipo distinto de recurso, según su
-   composición (gases, rocas/suelo, o agua).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos recursos pertenecen principalmente a la **litósfera**? Marca **todas** las correctas.
+   a) Cobre
+   b) Oxígeno del aire
+   c) Agua de un lago
+   d) Suelo fértil
+   **Respuesta correcta:** a y d.
+   **Retroalimentación:** Litósfera: cobre y suelo fértil (rocas y suelo). Atmósfera: oxígeno del aire. Hidrósfera: agua de un lago.
 
-4. *(Desarrollo breve)* Explica por qué la atmósfera es fundamental para el desarrollo
-   de la vida en la Tierra.
-   **Respuesta esperada:** Porque contiene el oxígeno necesario para la respiración de
-   los seres vivos, regula la temperatura del planeta y protege de la radiación
-   solar dañina gracias a la capa de ozono.
-   **Retroalimentación:** Una buena respuesta menciona al menos dos funciones
-   distintas de la atmósfera para la vida.
+4. *(Varias correctas)* ¿Cuáles de estas son funciones de la **atmósfera** fundamentales para la vida? Marca **todas** las correctas.
+   a) Contiene el oxígeno que respiran los seres vivos
+   b) Regula la temperatura del planeta
+   c) Protege de la radiación solar dañina gracias a la capa de ozono
+   d) Forma las rocas del suelo
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Las rocas y el suelo forman la litósfera. Una buena respuesta menciona al menos dos funciones distintas de la atmósfera para la vida.
 
-5. *(Análisis)* Explica cómo la contaminación del aire en las ciudades chilenas afecta
-   a la atmósfera y propone una medida para reducir ese impacto.
-   **Respuesta esperada:** La quema de combustibles en autos e industrias libera gases
-   contaminantes que se acumulan en la atmósfera, afectando la calidad del aire y la
-   salud de las personas; una medida sería fomentar el uso de transporte público,
-   bicicletas o vehículos eléctricos.
-   **Retroalimentación:** Una buena respuesta conecta la causa (fuente de
-   contaminación) con una medida de protección coherente.
+5. *(Alternativas — análisis)* ¿Qué opción explica cómo la contaminación del aire en ciudades chilenas afecta la atmósfera y propone una medida coherente?
+   a) Los árboles de las plazas liberan gases contaminantes al hacer fotosíntesis; una medida es talarlos y reemplazarlos por áreas pavimentadas
+   b) El aire contaminado mejora la salud porque contiene más oxígeno; no hay que hacer nada, porque la atmósfera se limpia sola cada invierno
+   c) La contaminación viene principalmente del océano y de las algas; una medida es secar parte del mar cercano a las ciudades de la costa
+   d) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos
+   **Respuesta correcta:** d) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.
+   **Retroalimentación:** Una buena respuesta conecta la causa (fuente de contaminación) con una medida de protección coherente.
 
-6. *(Aplicación/propuesta)* Elige una de las tres capas de la Tierra (atmósfera,
-   litósfera o hidrósfera) y propón dos medidas concretas para protegerla.
-   **Respuesta esperada:** Por ejemplo, para la litósfera: evitar la deforestación
-   excesiva y practicar una minería más regulada y responsable con el medioambiente.
-   **Retroalimentación:** Cualquier medida razonable, coherente con la protección de
-   la capa elegida, es una respuesta válida.
+6. *(Varias correctas — propuesta)* ¿Cuáles son medidas concretas para proteger la **litósfera**? Marca **todas** las correctas.
+   a) Evitar la deforestación excesiva
+   b) Practicar una minería regulada y responsable
+   c) Botar residuos en los suelos agrícolas
+   d) Proteger los suelos con cobertura vegetal
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Cualquier medida coherente con la protección de la capa elegida es válida; botar residuos contamina el suelo.
 
 ---
 
@@ -896,40 +882,37 @@ geológico, y en casos extremos, la desertificación de zonas antes productivas.
    **Retroalimentación:** Actividades humanas como la deforestación o el
    sobrepastoreo pueden acelerar significativamente la erosión del suelo.
 
-3. *(Clasificar)* Clasifica estos ejemplos según el agente erosivo principal: cañón
-   formado por un río, formaciones rocosas desgastadas por partículas de arena en el
-   desierto, pérdida de suelo fértil tras la deforestación de un bosque.
-   **Respuesta correcta:** Agua: cañón formado por un río. Viento: formaciones
-   rocosas del desierto. Actividad humana: pérdida de suelo tras la deforestación.
-   **Retroalimentación:** Cada ejemplo debe asociarse al agente que provoca
-   principalmente ese desgaste de la superficie terrestre.
+3. *(Alternativas — clasificar)* Las formaciones rocosas del desierto desgastadas por partículas de arena son un ejemplo de erosión causada por...
+   a) El agua
+   b) El viento
+   c) La actividad humana
+   d) Los volcanes
+   **Respuesta correcta:** b) El viento.
+   **Retroalimentación:** Cañón formado por un río: agua; rocas del desierto desgastadas por arena: viento; pérdida de suelo tras deforestar: actividad humana.
 
-4. *(Desarrollo breve)* Explica por qué la deforestación puede acelerar el proceso de
-   erosión de un terreno.
-   **Respuesta esperada:** Porque las raíces de los árboles y plantas sujetan el
-   suelo, evitando que sea arrastrado fácilmente por el agua o el viento; al eliminar
-   la vegetación, el suelo queda expuesto y se erosiona con mayor rapidez.
-   **Retroalimentación:** La clave es entender el rol protector de las raíces frente a
-   los agentes erosivos naturales.
+4. *(Alternativas)* ¿Por qué la deforestación puede acelerar la erosión de un terreno?
+   a) Porque los árboles producen erosión cuando sus raíces rompen las rocas del suelo
+   b) Porque sin árboles llueve menos y el suelo seco se vuelve más duro y resistente
+   c) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento
+   d) Porque la deforestación endurece el suelo y el agua ya no puede entrar en la tierra
+   **Respuesta correcta:** c) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento.
+   **Retroalimentación:** La clave es entender el rol protector de las raíces frente a los agentes erosivos naturales.
 
-5. *(Análisis)* Explica cómo la erosión provocada por el agua puede transformar el
-   paisaje a lo largo del tiempo geológico, dando un ejemplo.
-   **Respuesta esperada:** El agua de un río desgasta gradualmente la roca de su
-   cauce, transportando sedimentos y profundizando el terreno a lo largo de miles o
-   millones de años, lo que puede formar valles o cañones, como el cañón formado por
-   el río Loa en el norte de Chile.
-   **Retroalimentación:** Comprender que la erosión ocurre en escalas de tiempo muy
-   largas ayuda a valorar los cambios geológicos del paisaje.
+5. *(Alternativas — análisis)* ¿Cómo puede la erosión del agua transformar el paisaje a lo largo del tiempo geológico?
+   a) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa
+   b) El agua forma montañas en pocos días, cuando las lluvias intensas acumulan tierra y piedras en un mismo lugar del paisaje
+   c) El agua no puede desgastar las rocas, porque es más blanda que ellas; solo puede mover la arena suelta que hay sobre el suelo
+   d) Solo el viento transforma el paisaje, porque el agua de los ríos corre siempre por el mismo cauce sin cambiarlo durante millones de años
+   **Respuesta correcta:** a) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa.
+   **Retroalimentación:** Comprender que la erosión ocurre en escalas de tiempo muy largas ayuda a valorar los cambios geológicos del paisaje.
 
-6. *(Análisis/propuesta)* Un terreno agrícola presenta signos de pérdida acelerada de
-   suelo fértil. Propón dos medidas que podrían ayudar a reducir la erosión provocada
-   por la actividad humana en ese terreno.
-   **Respuesta esperada:** Por ejemplo: mantener cobertura vegetal o rotar cultivos
-   para proteger el suelo, evitar el sobrepastoreo, y realizar prácticas agrícolas
-   que no dejen el suelo expuesto por largos períodos.
-   **Retroalimentación:** Cualquier medida razonable orientada a proteger o cubrir el
-   suelo, reduciendo su exposición directa al agua y al viento, es una respuesta
-   válida.
+6. *(Varias correctas — propuesta)* Un terreno agrícola presenta pérdida acelerada de suelo fértil. ¿Qué medidas ayudarían a reducir la erosión? Marca **todas** las correctas.
+   a) Mantener cobertura vegetal o rotar cultivos
+   b) Evitar el sobrepastoreo
+   c) Dejar el suelo descubierto por largos períodos
+   d) Prácticas agrícolas que no expongan el suelo
+   **Respuesta correcta:** a, b y d.
+   **Retroalimentación:** Las medidas válidas protegen o cubren el suelo, reduciendo su exposición directa al agua y al viento.
 
 ---
 

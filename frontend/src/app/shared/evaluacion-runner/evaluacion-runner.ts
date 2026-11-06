@@ -81,7 +81,7 @@ export interface PreguntaRunner {
           @for (p of preguntas; track p.id; let i = $index) {
             <button
               class="mapa-item"
-              [class.mapa-item--respondida]="respuestas()[p.id] !== undefined"
+              [class.mapa-item--respondida]="!!respuestas()[p.id]?.trim()"
               [class.mapa-item--marcada]="marcadas().has(p.id)"
               [class.mapa-item--actual]="i === indiceActual()"
               (click)="irA(i)"
@@ -105,6 +105,21 @@ export interface PreguntaRunner {
                     [value]="op"
                     [checked]="respuestas()[preguntaActual.id] === op"
                     (change)="responder(preguntaActual.id, op)"
+                  />
+                  {{ op }}
+                </label>
+              }
+            </div>
+          } @else if (preguntaActual.tipo === 'varias_correctas' && preguntaActual.opciones) {
+            <p class="opciones__instruccion">Marca todas las alternativas correctas (puede haber más de una).</p>
+            <div class="opciones" role="group" aria-label="Marca todas las alternativas correctas">
+              @for (op of preguntaActual.opciones; track op) {
+                <label class="opcion" [class.opcion--elegida]="estaMarcada(preguntaActual.id, op)">
+                  <input
+                    type="checkbox"
+                    [value]="op"
+                    [checked]="estaMarcada(preguntaActual.id, op)"
+                    (change)="alternarVarias(preguntaActual, op)"
                   />
                   {{ op }}
                 </label>
@@ -145,7 +160,7 @@ export interface PreguntaRunner {
               </button>
             } @else {
               <div class="feedback feedback--revelado">
-                @if (preguntaActual.tipo === 'alternativas' || preguntaActual.tipo === 'verdadero_falso') {
+                @if (esAutocorregible(preguntaActual.tipo)) {
                   @if (esCorrectaEnAutoevaluacion(preguntaActual)) {
                     <div class="feedback__exito">
                       <p class="feedback__tag-ok">✓ ¡Correcto!</p>
@@ -155,7 +170,7 @@ export interface PreguntaRunner {
                     </div>
                   } @else {
                     <div class="feedback__atencion">
-                      <p><strong>Respuesta correcta: {{ preguntaActual.respuesta_correcta }}.</strong></p>
+                      <p><strong>Respuesta correcta: {{ textoRespuesta(preguntaActual.respuesta_correcta, preguntaActual.tipo) }}.</strong></p>
                       @if (preguntaActual.retroalimentacion) {
                         <div class="feedback__cuerpo" [innerHTML]="preguntaActual.retroalimentacion | markdown"></div>
                       }
@@ -247,9 +262,9 @@ export interface PreguntaRunner {
         <h1>{{ nombreEvaluacion }}</h1>
         @if (modo !== 'autoevaluacion') {
           <p class="resultado__nota" [class.resultado__nota--reprobada]="notaFinal() !== null && notaFinal()! < 4">
-            <span class="resultado__alcance-nota">Nota de preguntas autocorregibles:</span> {{ notaFinal() }}
+            <span class="resultado__alcance-nota">{{ todasAutocorregibles() ? 'Nota:' : 'Nota de preguntas autocorregibles:' }}</span> {{ notaFinal() }}
           </p>
-          <p class="resultado__puntaje">{{ puntajeFinal() }} de {{ totalAutocorregible() }} correctas (autocorregibles)</p>
+          <p class="resultado__puntaje">{{ puntajeFinal() }} de {{ totalAutocorregible() }} correctas{{ todasAutocorregibles() ? '' : ' (autocorregibles)' }}</p>
         }
         <h2>Revisa tu resultado</h2>
         <p>
@@ -294,9 +309,9 @@ export interface PreguntaRunner {
                   <tr class="resultado__revision-detalle">
                     <td colspan="3">
                       <div class="resultado__enunciado" [innerHTML]="d.enunciado | markdown"></div>
-                      <p>Tu respuesta: <strong>{{ d.respuesta_alumno || '(en blanco)' }}</strong></p>
+                      <p>Tu respuesta: <strong>{{ textoRespuesta(d.respuesta_alumno, d.tipo) || '(en blanco)' }}</strong></p>
                       @if (d.respuesta_correcta) {
-                        <p>Respuesta correcta: <strong>{{ d.respuesta_correcta }}</strong></p>
+                        <p>Respuesta correcta: <strong>{{ textoRespuesta(d.respuesta_correcta, d.tipo) }}</strong></p>
                       }
                       @if (d.pauta_orientativa) {
                         <p><strong>Pauta orientativa para revisar tu respuesta:</strong></p>
@@ -424,7 +439,41 @@ export class EvaluacionRunner implements OnInit {
   }
 
   totalAutocorregible(): number {
-    return this.preguntas.filter((p) => p.tipo === 'alternativas' || p.tipo === 'verdadero_falso').length;
+    return this.preguntas.filter((p) => this.esAutocorregible(p.tipo)).length;
+  }
+
+  todasAutocorregibles(): boolean {
+    return this.preguntas.length > 0 && this.totalAutocorregible() === this.preguntas.length;
+  }
+
+  esAutocorregible(tipo: string | undefined): boolean {
+    return tipo === 'alternativas' || tipo === 'verdadero_falso' || tipo === 'varias_correctas';
+  }
+
+  /** `varias_correctas` guarda la selección como lista JSON de textos de opción. */
+  seleccion(valor: string | null | undefined): string[] {
+    try {
+      const datos = JSON.parse(valor || '[]');
+      return Array.isArray(datos) ? datos.filter((x): x is string => typeof x === 'string') : [];
+    } catch {
+      return [];
+    }
+  }
+
+  textoRespuesta(valor: string | null | undefined, tipo: string | undefined): string {
+    if (tipo === 'varias_correctas') return this.seleccion(valor).join('; ');
+    return valor || '';
+  }
+
+  estaMarcada(preguntaId: number, opcion: string): boolean {
+    return this.seleccion(this.respuestas()[preguntaId]).includes(opcion);
+  }
+
+  alternarVarias(p: PreguntaRunner, opcion: string) {
+    const actuales = new Set(this.seleccion(this.respuestas()[p.id]));
+    actuales.has(opcion) ? actuales.delete(opcion) : actuales.add(opcion);
+    const ordenadas = (p.opciones || []).filter((op) => actuales.has(op));
+    this.responder(p.id, ordenadas.length ? JSON.stringify(ordenadas) : '');
   }
 
   etiquetaModo(): string {
@@ -434,8 +483,13 @@ export class EvaluacionRunner implements OnInit {
   }
 
   esCorrectaEnAutoevaluacion(p: PreguntaRunner): boolean {
+    if (p.tipo === 'varias_correctas') {
+      const normalizar = (xs: string[]) => [...new Set(xs.map((x) => x.trim().toLowerCase()))].sort().join('\u0000');
+      const dada = this.seleccion(this.respuestas()[p.id]);
+      return dada.length > 0 && normalizar(dada) === normalizar(this.seleccion(p.respuesta_correcta));
+    }
     const dada = (this.respuestas()[p.id] || '').trim().toLowerCase();
-    return dada.length > 0 && (p.tipo === 'alternativas' || p.tipo === 'verdadero_falso')
+    return dada.length > 0 && this.esAutocorregible(p.tipo)
       && dada === (p.respuesta_correcta || '').trim().toLowerCase();
   }
 
@@ -445,7 +499,7 @@ export class EvaluacionRunner implements OnInit {
 
   revisarDesarrollo(id: number, estado: RevisionDesarrollo) {
     const tipo = this.preguntas.find(p => p.id === id)?.tipo ?? this.detalle().find(d => d.pregunta_id === id)?.tipo;
-    if (!tipo || tipo === 'alternativas' || tipo === 'verdadero_falso' || !this.respuestaParaRevision(id)?.trim()) return;
+    if (!tipo || this.esAutocorregible(tipo) || !this.respuestaParaRevision(id)?.trim()) return;
     if (!this.enviada() && !this.ayudasReveladas().has(id)) return;
     this.revisionesDesarrollo.update(r => ({ ...r, [id]: estado }));
   }
@@ -530,7 +584,7 @@ export class EvaluacionRunner implements OnInit {
   }
 
   irARevisarPendientes() {
-    const primeraFaltante = this.preguntas.findIndex((p) => this.respuestas()[p.id] === undefined);
+    const primeraFaltante = this.preguntas.findIndex((p) => !this.respuestas()[p.id]?.trim());
     if (primeraFaltante !== -1) {
       this.indiceActual.set(primeraFaltante);
     } else {

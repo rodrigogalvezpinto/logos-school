@@ -129,21 +129,22 @@ now* (condición).
    climate in 2018. Her actions inspired millions of young people around the
    world to demand action on climate change."* ¿Qué información es explícita
    en el texto?
-   a) Greta Thunberg is a scientist.
-   b) Greta Thunberg started a school strike in 2018 that inspired millions.
-   c) Greta Thunberg only inspired adults.
-   d) Greta Thunberg stopped caring about climate change.
-   **Respuesta correcta:** b.
+   a) Greta Thunberg is a scientist who studies the climate.
+   b) Greta Thunberg stopped caring about climate change after 2018.
+   c) Greta Thunberg only inspired adults to protest in 2018.
+   d) Greta Thunberg started a school strike in 2018 that inspired millions.
+   **Respuesta correcta:** d.
    **Retroalimentación:** La información explícita aparece literalmente en
    el texto: el año, la acción (school strike) y su efecto (inspiró a
    millones de jóvenes).
 
-2. *(Completar)* Complete: *"This text is ___ the effects of social media on
-   teenagers. It explains ___ too much screen time can affect sleep."*
-   (about / how)
-   **Respuesta correcta:** about / how.
-   **Retroalimentación:** *About* introduce el tema general; *how* introduce
-   la explicación de un proceso o mecanismo.
+2. *(Alternativas — Completar)* Complete: *"This text is ___ the effects of social media on teenagers. It explains ___ too much screen time can affect sleep."*
+   a) about / how
+   b) how / about
+   c) of / what
+   d) about / who
+   **Respuesta correcta:** a) about / how.
+   **Retroalimentación:** *About* introduce el tema general; *how* introduce la explicación de un proceso o mecanismo.
 
 3. *(Verdadero o falso)* Read: *"Solar panels convert sunlight into
    electricity and produce no greenhouse gases while operating."* Statement:
@@ -153,55 +154,50 @@ now* (condición).
    gases de efecto invernadero mientras operan, lo contrario a la
    afirmación.
 
-4. *(Responder en inglés)* Read: *"In 2007, the first smartphone with a
-   touchscreen changed the way people used technology forever."* Answer:
-   *When did the first touchscreen smartphone appear, according to the
-   text?*
-   **Respuesta correcta:** *It appeared in 2007.*
-   **Retroalimentación:** La respuesta usa la fecha exacta mencionada en el
-   texto (información explícita).
+4. *(Alternativas — Comprensión)* Read: *"In 2007, the first smartphone with a touchscreen changed the way people used technology forever."* *When did the first touchscreen smartphone appear, according to the text?*
+   a) It appeared in 2017.
+   b) It appeared forever.
+   c) It appeared before technology.
+   d) It appeared in 2007.
+   **Respuesta correcta:** d) It appeared in 2007.
+   **Retroalimentación:** La respuesta usa la fecha exacta mencionada en el texto (información explícita).
 
-5. *(Emparejar)* Relaciona la pregunta con el tipo de información que busca:
-   *"How much water shortage affects the region?"* → ¿"información
-   específica (dato)" o "idea general"?
-   **Respuesta correcta:** información específica (dato).
-   **Retroalimentación:** Preguntas con *how much* buscan un dato puntual
-   (cantidad), no la idea general del texto.
+5. *(Alternativas — Tipo de información)* ¿Qué tipo de información busca *"How much water does the region lose every year?"*?
+   a) La idea general de todo el texto
+   b) La opinión personal del autor
+   c) Información específica (una cantidad)
+   d) El propósito comunicativo del texto
+   **Respuesta correcta:** c) Información específica (una cantidad).
+   **Retroalimentación:** Las preguntas con *how much* buscan un dato puntual (cantidad), no la idea general.
 
-6. *(Completar)* Complete a chart with information from the text: *"Malala
-   Yousafzai is a Pakistani activist. She was born in 1997 and won the Nobel
-   Peace Prize in 2014 for her work on girls' education."* Nationality: ___
-   / Year of birth: ___ / Achievement: ___
-   **Respuesta correcta:** Pakistani / 1997 / won the Nobel Peace Prize for
-   her work on girls' education.
-   **Retroalimentación:** Completar esquemas exige extraer datos puntuales
-   del texto y clasificarlos según la categoría pedida.
+6. *(Alternativas — Completar)* Read: *"Malala Yousafzai is a Pakistani activist. She was born in 1997 and won the Nobel Peace Prize in 2014 for her work on girls' education."* Nationality: ___ / Year of birth: ___ / Achievement: ___
+   a) Pakistani / 2014 / was born in 1997 and studied in Pakistan
+   b) Indian / 1997 / won the Nobel Prize in Literature for her books
+   c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education
+   d) Activist / Pakistani / 1997, the year she won the Nobel Prize
+   **Respuesta correcta:** c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education.
+   **Retroalimentación:** Completar esquemas exige extraer datos puntuales y clasificarlos según la categoría pedida.
 
 7. *(Alternativas — desafiante)* Read a text about renewable energy that
    includes unfamiliar vocabulary (*geothermal, biomass*). ¿Qué estrategia es
    más útil para entender el texto sin traducir cada palabra?
-   a) Detenerse en cada palabra desconocida y buscarla de inmediato.
-   b) Usar el contexto y las palabras conocidas para inferir el sentido
+   a) Usar el contexto y las palabras conocidas para inferir el sentido
       general antes de usar el diccionario.
-   c) Ignorar el texto completo si aparece una palabra difícil.
-   d) Memorizar el texto sin comprenderlo.
-   **Respuesta correcta:** b.
+   b) Detenerse en cada palabra desconocida y buscarla de inmediato en el diccionario antes de seguir leyendo.
+   c) Ignorar el texto completo si aparece una palabra difícil en el primer párrafo.
+   d) Memorizar el texto palabra por palabra sin intentar comprender su sentido.
+   **Respuesta correcta:** a.
    **Retroalimentación:** Ante temas de actualidad global con vocabulario
    técnico, conviene inferir por contexto primero y reservar el diccionario
    para palabras clave que realmente bloquean la comprensión.
 
-8. *(Resumir — desafiante)* Read: *"Streaming services have changed how
-   people watch movies and TV shows. Instead of going to a store, people can
-   now watch content anytime, anywhere. However, some experts worry that
-   this constant availability increases screen time among teenagers."*
-   Answer the guiding questions to summarize: *What have streaming services
-   changed? What is the benefit? What is the concern?*
-   **Respuesta esperada:** Respuesta personal breve y fiel al texto, por
-   ejemplo: *"Streaming services have changed how people watch content,
-   allowing access anytime, anywhere. However, experts worry it increases
-   teenagers' screen time."*
-   **Retroalimentación:** Se evalúa que el resumen responda las tres
-   preguntas guía sin copiar oraciones completas del texto original.
+8. *(Alternativas — Resumir — desafiante)* Read: *"Streaming services have changed how people watch movies and TV shows. Instead of going to a store, people can now watch content anytime, anywhere. However, some experts worry that this constant availability increases screen time among teenagers."* Which summary answers *What changed? What is the benefit? What is the concern?*
+   a) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
+   b) People go to stores to buy movies and TV shows, and they watch them only at home with their families on weekends.
+   c) Streaming services reduce screen time among teenagers, because they can choose exactly what to watch and when to stop.
+   d) Experts love watching movies at the cinema, and they worry that people no longer go to stores to buy DVDs and video games.
+   **Respuesta correcta:** a) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
+   **Retroalimentación:** El resumen debe responder las tres preguntas guía con palabras propias y fiel al texto.
 
 ---
 
@@ -284,21 +280,21 @@ illogical*).
    instead of driving, and turn off lights when you leave a room."* ¿Cuál es
    el propósito de este texto?
    a) To entertain
-   b) To persuade/instruct
+   b) To sell a product
    c) To tell a story
-   d) To sell a product
-   **Respuesta correcta:** b) To persuade/instruct.
+   d) To persuade/instruct
+   **Respuesta correcta:** d) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización ambiental buscan
    persuadir al lector para que cambie un comportamiento (reducir su huella
    de carbono).
 
-2. *(Completar)* Complete with the correct connector: *"___ you recycle at
-   home, plastic waste will keep polluting the ocean."* (Unless / As a
-   result)
-   **Respuesta correcta:** Unless.
-   **Retroalimentación:** *Unless* (a menos que) introduce la condición
-   necesaria para evitar el problema; *as a result* expresa consecuencia, no
-   condición.
+2. *(Alternativas — Completar)* Complete: *"___ you recycle at home, plastic waste will keep polluting the ocean."*
+   a) As a result
+   b) Because
+   c) So
+   d) Unless
+   **Respuesta correcta:** d) Unless.
+   **Retroalimentación:** *Unless* (a menos que) introduce la condición; *as a result* expresa consecuencia.
 
 3. *(Verdadero o falso)* Read: *"Internet access is limited in some rural
    areas, so the government built new towers to expand coverage."*
@@ -312,52 +308,57 @@ illogical*).
    internet) y una solución (nuevas torres), y se espera reconocer que
    podrían existir otras soluciones alternativas no mencionadas.
 
-4. *(Completar)* Complete with the correct antonym using a prefix: *"It is
-   ___ (possible) to finish this project without more time."* (usa im-)
-   **Respuesta correcta:** impossible.
-   **Retroalimentación:** El prefijo *im-* se usa antes de adjetivos que
-   comienzan con "p", "m" o "b" para formar el antónimo: *possible →
-   impossible*.
+4. *(Alternativas — Completar)* Complete: *"It is ___ to finish this project without more time."* (possible + im-)
+   a) inpossible
+   b) unpossible
+   c) impossible
+   d) dispossible
+   **Respuesta correcta:** c) impossible.
+   **Retroalimentación:** El prefijo *im-* se usa antes de adjetivos que comienzan con p, m o b.
 
-5. *(Emparejar)* Relaciona la palabra base con su antónimo correcto: *"legal"*
-   → ¿"illegal" o "inlegal"?
-   **Respuesta correcta:** illegal.
-   **Retroalimentación:** El prefijo *il-* se usa antes de palabras que
-   comienzan con "l": *legal → illegal*, *logical → illogical*.
+5. *(Alternativas — Vocabulario)* What is the antonym of *"legal"*?
+   a) inlegal
+   b) unlegal
+   c) illegal
+   d) dislegal
+   **Respuesta correcta:** c) illegal.
+   **Retroalimentación:** El prefijo *il-* se usa antes de palabras que comienzan con l: *legal → illegal*, *logical → illogical*.
 
-6. *(Responder en inglés)* Read: *"You can either recycle your old phone or
-   donate it to someone in need."* Answer: *What structure is used to
-   present two alternatives in this sentence?*
-   **Respuesta correcta:** *either...or.*
-   **Retroalimentación:** *Either...or* presenta dos opciones alternativas
-   entre las que se puede elegir.
+6. *(Alternativas — Estructuras)* Read: *"You can either recycle your old phone or donate it to someone in need."* Which structure presents two alternatives?
+   a) either...or
+   b) neither...nor
+   c) both...and
+   d) not only...but also
+   **Respuesta correcta:** a) either...or.
+   **Retroalimentación:** *Either...or* presenta dos opciones entre las que se puede elegir.
 
 7. *(Alternativas — desafiante)* Read: *"Neither the government nor private
    companies have solved the water crisis completely."* ¿Qué indica esta
    oración?
-   a) Que ambos actores solucionaron el problema.
-   b) Que ninguno de los dos actores ha solucionado completamente el
+   a) Que ninguno de los dos actores ha solucionado completamente el
       problema.
-   c) Que solo el gobierno lo solucionó.
-   d) Que no existe ningún problema.
-   **Respuesta correcta:** b.
+   b) Que ambos actores solucionaron el problema del agua por completo.
+   c) Que solo el gobierno solucionó el problema, sin ayuda de las empresas.
+   d) Que no existe ningún problema con el agua en esa región del país.
+   **Respuesta correcta:** a.
    **Retroalimentación:** *Neither...nor* niega ambos elementos
    simultáneamente: ni el gobierno ni las empresas privadas.
 
-8. *(Completar — desafiante)* Complete: *"He seems very ___ (convenient) at
-   first, but the schedule is actually ___ (complete) — some information is
-   missing."* (usa prefijos in-)
-   **Respuesta correcta:** inconvenient / incomplete.
-   **Retroalimentación:** El prefijo *in-* forma antónimos con muchos
-   adjetivos: *convenient → inconvenient*, *complete → incomplete*.
+8. *(Alternativas — Completar — desafiante)* Complete with in- prefixes: *"At first the new bus schedule looked fine, but it is actually ___ for students who work, and it is also ___: some information is missing."* (convenient / complete)
+   a) unconvenient / uncomplete
+   b) convenient / complete
+   c) imconvenient / imcomplete
+   d) inconvenient / incomplete
+   **Respuesta correcta:** d) inconvenient / incomplete.
+   **Retroalimentación:** El prefijo *in-* forma antónimos con muchos adjetivos: *convenient → inconvenient*, *complete → incomplete*.
 
 9. *(Alternativas — desafiante)* Read a news article that ends with:
    *"...as soon as new regulations are approved, companies will have to
    reduce their emissions."* ¿Qué relación establece *"as soon as"*?
-   a) Contraste
+   a) Contraste entre dos ideas opuestas
    b) Tiempo inmediato/condición temporal
-   c) Cantidad
-   d) Propósito
+   c) Cantidad o grado de las emisiones
+   d) Propósito o finalidad de la norma
    **Respuesta correcta:** b.
    **Retroalimentación:** *As soon as* (tan pronto como) marca que una
    acción ocurrirá inmediatamente después de que se cumpla otra.
@@ -432,30 +433,33 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"___ my opinion, technology has changed the way
-   teenagers communicate."* (In / At)
-   **Respuesta correcta:** In.
-   **Retroalimentación:** La expresión fija es *in my opinion*, no "at my
-   opinion".
+1. *(Alternativas — Completar)* Complete: *"___ my opinion, technology has changed the way teenagers communicate."*
+   a) At
+   b) In
+   c) On
+   d) For
+   **Respuesta correcta:** b) In.
+   **Retroalimentación:** La expresión fija es *in my opinion*.
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada
    sobre un problema global?
-   a) Pollution is bad.
+   a) Pollution is bad for everybody, and many cities around the world are polluted.
    b) I'd rather use public transport than drive, because it reduces air
       pollution.
-   c) Cars are common in cities.
-   d) There is a bus near here.
+   c) Cars are very common in cities, and many families have two or three cars at home.
+   d) There is a bus stop near here, and the buses pass every ten minutes in the morning.
    **Respuesta correcta:** b.
    **Retroalimentación:** Solo la opción b) combina una preferencia (*I'd
    rather*) con una razón (*because*); las demás solo describen hechos sin
    argumentar.
 
-3. *(Completar)* Complete a text about a school subject: *"Yesterday, in
-   Technology class, we ___ (learn) about renewable energy. I ___ (find) it
-   very useful for the future."* (usa pasado simple)
-   **Respuesta correcta:** learned / found.
-   **Retroalimentación:** *Yesterday* indica una acción terminada en el
-   pasado, por lo que ambos verbos van en pasado simple.
+3. *(Alternativas — Completar)* Complete: *"Yesterday, in Technology class, we ___ about renewable energy. I ___ it very useful for the future."* (learn / find, simple past)
+   a) learn / find
+   b) learned / finded
+   c) learned / found
+   d) learning / found
+   **Respuesta correcta:** c) learned / found.
+   **Retroalimentación:** *Yesterday* exige pasado simple; *find* es irregular: *found*.
 
 4. *(Verdadero o falso)* La oración *"For example, in South Korea many
    people use their phones for almost everything, from paying for food to
@@ -466,38 +470,38 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
    apoya una idea general sobre el uso de la tecnología en otra cultura, tal
    como pide este OA.
 
-5. *(Escribir siguiendo modelo)* Completa siguiendo el modelo: *"One global
-   leader I admire is ___. I believe ___ because ___."* Escribe tu propia
-   versión.
-   **Respuesta esperada:** Respuesta personal coherente, por ejemplo: *"One
-   global leader I admire is Malala Yousafzai. I believe she is a role model
-   because she has fought for girls' education worldwide."*
-   **Retroalimentación:** Se evalúa que el líder mencionado y la
-   justificación estén conectados lógicamente y usen vocabulario del OA.
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global leader I admire is ___. I believe ___ because ___."* logically?
+   a) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide
+   b) Malala Yousafzai / she is a role model for millions / I like pizza and pasta
+   c) because / Malala Yousafzai / she is a role model for girls' education worldwide
+   d) a role model / Malala Yousafzai / she has fought for girls' education worldwide
+   **Respuesta correcta:** a) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide.
+   **Retroalimentación:** El líder mencionado y la justificación deben estar conectados lógicamente.
 
-6. *(Emparejar)* Relaciona la expresión con su función: *"As a result, more
-   people are losing their jobs to automation"* → ¿"dar un ejemplo" o
-   "expresar una consecuencia"?
-   **Respuesta correcta:** expresar una consecuencia.
-   **Retroalimentación:** *As a result* (como resultado) introduce una
-   consecuencia derivada de una causa mencionada antes, no un ejemplo.
+6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, more people are losing their jobs to automation"*?
+   a) Dar un ejemplo
+   b) Expresar una condición
+   c) Hacer una pregunta
+   d) Expresar una consecuencia
+   **Respuesta correcta:** d) Expresar una consecuencia.
+   **Retroalimentación:** *As a result* introduce una consecuencia derivada de una causa mencionada antes.
 
-7. *(Completar — desafiante)* Complete a caption for a picture about a wind
-   farm: *"This picture shows ___. In my opinion, ___ unless ___."*
-   **Respuesta esperada:** Respuesta coherente, por ejemplo: *"This picture
-   shows a wind farm generating clean energy. In my opinion, this is a great
-   solution unless it affects local wildlife too much."*
-   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una
-   opinión y la matiza con una condición usando *unless*.
+7. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a wind farm: *"This picture shows ___. In my opinion, ___ unless ___."*
+   a) a wind farm generating clean energy / this is terrible / it is clean and renewable
+   b) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much
+   c) a coal mine producing energy / this is a great solution / it pollutes the air too much
+   d) a wind farm / unless / in my opinion it is a great solution for clean energy
+   **Respuesta correcta:** b) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much.
+   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una opinión y la matiza con una condición usando *unless*.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de una activista famosa. ¿Qué oración resume mejor la información
    respetando la finalidad del OA?
-   a) Malala Yousafzai.
+   a) Malala Yousafzai. Activist. Girls' education. Teenager. Fighting since she was young.
    b) The text I read was about Malala Yousafzai, an activist who has been
       fighting for girls' education since she was a teenager.
-   c) Education is important.
-   d) I don't remember the text.
+   c) Education is important for everybody, and many activists like Malala fight for it in different countries around the world.
+   d) I don't remember the text very well, but I think it was about a famous woman from Asia.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración resume el texto leído con información
    relevante (quién fue, qué hizo, desde cuándo), cumpliendo con lo que pide
@@ -591,11 +595,13 @@ more people if he spoke English*).
 
 **Banco de autoevaluación**
 
-1. *(Completar)* Complete: *"There is ___ time left before the exam, so
-   let's hurry."* (little / few)
-   **Respuesta correcta:** little.
-   **Retroalimentación:** *Little* se usa con sustantivos incontables como
-   *time*; *few* se usa con sustantivos contables (*few minutes*).
+1. *(Alternativas — Completar)* Complete: *"There is ___ time left before the exam, so let's hurry."*
+   a) few
+   b) many
+   c) little
+   d) a few
+   **Respuesta correcta:** c) little.
+   **Retroalimentación:** *Little* se usa con incontables como *time*; *few* con contables.
 
 2. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto
    continuo para una acción que empezó en el pasado y sigue ocurriendo?
@@ -608,12 +614,13 @@ more people if he spoke English*).
    working*) enfatiza la duración de una acción que continúa hasta el
    presente; se forma con *has/have been + verbo-ing*.
 
-3. *(Completar)* Complete with the correct antonym: *"It was very ___
-   (polite) of him to interrupt the teacher while she was speaking."* (usa
-   im-)
-   **Respuesta correcta:** impolite.
-   **Retroalimentación:** El prefijo *im-* forma el antónimo: *polite →
-   impolite* (maleducado).
+3. *(Alternativas — Completar)* Complete: *"It was very ___ of him to interrupt the teacher while she was speaking."* (polite + im-)
+   a) impolite
+   b) unpolite
+   c) inpolite
+   d) polite
+   **Respuesta correcta:** a) impolite.
+   **Retroalimentación:** El prefijo *im-* forma el antónimo: maleducado.
 
 4. *(Verdadero o falso)* La oración *"He had already left when I called
    him"* describe una acción que ocurrió **antes** de otra acción pasada.
@@ -621,34 +628,37 @@ more people if he spoke English*).
    **Retroalimentación:** El pasado perfecto (*had left*) se usa para la
    acción más antigua de las dos: primero se fue, después lo llamé.
 
-5. *(Emparejar)* Relaciona la pregunta con la respuesta correcta sobre
-   frecuencia: *"How often do you practice sports?"* → ¿"Twice a week" o
-   "Two weeks ago"?
-   **Respuesta correcta:** Twice a week.
-   **Retroalimentación:** *How often* pregunta por frecuencia habitual, que
-   se responde con expresiones como *twice a week*; *two weeks ago* indica
-   cuándo ocurrió algo puntual en el pasado.
+5. *(Alternativas — Frecuencia)* *"How often do you practice sports?"* Which answer is correct?
+   a) Two weeks ago.
+   b) For two weeks.
+   c) In two weeks.
+   d) Twice a week.
+   **Respuesta correcta:** d) Twice a week.
+   **Retroalimentación:** *How often* pregunta por frecuencia habitual; *two weeks ago* indica cuándo ocurrió algo puntual.
 
-6. *(Completar)* Rewrite in reported speech: *Mr. Brown said: "I have
-   finished the report."* → *Mr. Brown said he ___ the report.*
-   **Respuesta correcta:** had finished.
-   **Retroalimentación:** En estilo indirecto, el presente perfecto (*have
-   finished*) retrocede al pasado perfecto (*had finished*).
+6. *(Alternativas — Estilo indirecto)* Mr. Brown said: *"I have finished the report."* → *Mr. Brown said he ___ the report.*
+   a) has finished
+   b) had finished
+   c) finishes
+   d) will finish
+   **Respuesta correcta:** b) had finished.
+   **Retroalimentación:** En estilo indirecto, el presente perfecto retrocede al pasado perfecto.
 
-7. *(Responder en inglés)* Answer using the second conditional: *"What would
-   you do if you found a wallet full of money on the street?"*
-   **Respuesta esperada:** Respuesta con estructura correcta, por ejemplo:
-   *If I found a wallet full of money, I would take it to the police.*
-   **Retroalimentación:** Se espera *If + pasado simple, ... would + verbo*
-   para expresar una situación hipotética y su consecuencia imaginada.
+7. *(Alternativas — Segundo condicional)* *"What would you do if you found a wallet full of money on the street?"* Which answer uses the second conditional correctly?
+   a) If I find a wallet full of money, I will take it to the police.
+   b) If I would find a wallet full of money, I took it to the police.
+   c) If I found a wallet full of money, I would take it to the police.
+   d) If I found a wallet full of money, I will keep it for myself.
+   **Respuesta correcta:** c) If I found a wallet full of money, I would take it to the police.
+   **Retroalimentación:** Se usa *If + pasado simple, ... would + verbo* para una situación hipotética.
 
-8. *(Completar — desafiante)* Complete with neither...nor, though or as a
-   result: *"___ John ___ his brother wanted to go to the party. He stayed
-   home, ___ he felt a little lonely."*
-   **Respuesta correcta:** Neither / nor / though.
-   **Retroalimentación:** *Neither...nor* niega ambos sujetos; *though*, al
-   final de la oración, matiza un contraste (se quedó en casa, pero se
-   sintió solo).
+8. *(Alternativas — Completar — desafiante)* Complete: *"___ John ___ his brother wanted to go to the party. He stayed home, ___ he felt a little lonely."*
+   a) Neither / nor / though
+   b) Either / or / as a result
+   c) Both / and / unless
+   d) Neither / or / so
+   **Respuesta correcta:** a) Neither / nor / though.
+   **Retroalimentación:** *Neither...nor* niega ambos sujetos; *though* introduce un contraste.
 
 9. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre
    reflexivo para dar énfasis?
@@ -660,31 +670,29 @@ more people if he spoke English*).
    **Retroalimentación:** *Himself* indica que la acción recae sobre el
    mismo sujeto que la realiza: él se cortó a sí mismo.
 
-10. *(Completar — desafiante)* Complete the sentence with the past perfect
-    or reported speech: *"She told me she ___ (finish) her homework before
-    dinner, so we ___ (go) to the movies together."*
-    **Respuesta correcta:** had finished / went.
-    **Retroalimentación:** *Had finished* describe la acción anterior
-    (terminó la tarea antes de la cena); *went* es la acción posterior en
-    pasado simple.
+10. *(Alternativas — Completar — desafiante)* Complete: *"She told me she ___ her homework before dinner, so we ___ to the movies together."* (finish / go)
+    a) has finished / go
+    b) finished / had gone
+    c) finishes / went
+    d) had finished / went
+    **Respuesta correcta:** d) had finished / went.
+    **Retroalimentación:** *Had finished* describe la acción anterior y *went* la posterior en pasado simple.
 
-11. *(Responder en inglés — desafiante)* Give advice using the second
-    conditional: *"— My friend copied on a test and I don't know if I should
-    tell the teacher. What should I do? — ___"*
-    **Respuesta esperada:** Respuesta personal usando *If I were you, I
-    would...*, por ejemplo: *If I were you, I would talk to your friend
-    first before telling the teacher.*
-    **Retroalimentación:** Se evalúa el uso correcto de *If I were you, I
-    would...* para dar un consejo sobre una situación hipotética, tal como
-    pide el OA.
+11. *(Alternativas — Consejo — desafiante)* *"— My friend copied on a test and I don't know if I should tell the teacher. What should I do? — ___"* Which answer gives advice correctly?
+    a) If I am you, I will talk to your friend first before tell the teacher.
+    b) If I were you, I would talk to your friend first before telling the teacher.
+    c) If I was you, I talk to the teacher right now about your friend.
+    d) I would be you if I talked to the teacher about the test.
+    **Respuesta correcta:** b) If I were you, I would talk to your friend first before telling the teacher.
+    **Retroalimentación:** Para aconsejar sobre una situación hipotética se usa *If I were you, I would...*
 
-12. *(Completar — desafiante)* Complete with a common expression or compound
-    word: *"I'm really sorry ___ what happened. This information belongs
-    ___ everyone, so I found it ___ ."* (about / to / online)
-    **Respuesta correcta:** about / to / online.
-    **Retroalimentación:** *Sorry about* (sentir pena por algo), *belong to*
-    (pertenecer a) y *online* (palabra compuesta) son expresiones y palabras
-    de uso frecuente que pide este OA.
+12. *(Alternativas — Completar — desafiante)* Complete: *"I'm really sorry ___ what happened. This information belongs ___ everyone, so I found it ___."*
+    a) for / of / in line
+    b) about / at / on line
+    c) about / to / online
+    d) to / about / online
+    **Respuesta correcta:** c) about / to / online.
+    **Retroalimentación:** *Sorry about*, *belong to* y *online* son expresiones y palabras de uso frecuente.
 
 ---
 

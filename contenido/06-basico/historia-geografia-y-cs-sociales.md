@@ -116,12 +116,12 @@ distintas partes de América de forma simultánea.
 
 **1. (Alternativas)** ¿Qué hecho en Europa precipitó la formación de juntas de gobierno en
 América en 1810?
-a) La independencia de Estados Unidos
-b) El cautiverio del rey Fernando VII tras la invasión de Napoleón a España
-c) La abolición de la esclavitud en España
-d) El fin de la Revolución Francesa
+a) El cautiverio del rey Fernando VII tras la invasión de Napoleón a España
+b) La independencia de Estados Unidos y la creación de su nueva república federal
+c) La abolición de la esclavitud en España y en todas sus colonias americanas
+d) El fin de la Revolución Francesa y la llegada de los reyes Borbones al poder
 
-✅ Respuesta correcta: **b) El cautiverio del rey Fernando VII tras la invasión de Napoleón a
+✅ Respuesta correcta: **a) El cautiverio del rey Fernando VII tras la invasión de Napoleón a
 España**
 💬 *Retroalimentación:* Al quedar el rey cautivo y sin poder gobernar, se generó un vacío de
 poder que llevó a los criollos americanos a formar juntas de gobierno propias.
@@ -138,35 +138,40 @@ entre los criollos.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada antecedente con su tipo de causa:
+**3. (Alternativas — unir)** Une cada antecedente con su tipo de causa:
 
-1) Ideas ilustradas sobre la soberanía popular — 2) Cautiverio de Fernando VII — 3) Malestar
-criollo por exclusión de cargos políticos
+1) Ideas ilustradas sobre la soberanía popular — 2) Cautiverio de Fernando VII — 3) Malestar criollo por exclusión de cargos políticos
 
-a) Causa política interna — b) Causa cultural/de ideas — c) Hecho desencadenante inmediato
+Tipos de causa: (A) Causa política interna — (B) Causa cultural/de ideas — (C) Hecho desencadenante inmediato
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Las causas de la Independencia se combinan: hay ideas que circulaban
-desde antes, tensiones internas acumuladas y un hecho puntual que las detonó.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
+
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Las causas de la Independencia se combinan: hay ideas que circulaban desde antes, tensiones internas acumuladas y un hecho puntual que las detonó.
 
 ---
 
-**4. (Desarrollo breve)** Explica con tus palabras por qué se dice que la Independencia de
-Chile "se enmarca en un proceso continental".
+**4. (Alternativas)** ¿Por qué se dice que la Independencia de Chile "se enmarca en un proceso continental"?
+a) Porque Chile fue el único país de América que se independizó de España, y su ejemplo luego se extendió por todo el continente
+b) Porque la Independencia ocurrió en Europa: las colonias americanas solo recibieron la noticia de que España las había liberado
+c) Porque España le regaló la independencia a toda América el mismo día, mediante un decreto firmado por el rey en Madrid
+d) Porque en los mismos años varias colonias españolas de América formaron juntas de gobierno y se independizaron, con causas similares
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona que, en los mismos años, varias
-colonias españolas en América (no solo Chile) formaron juntas de gobierno y luego se
-independizaron, compartiendo causas similares como el cautiverio del rey y la influencia de
-las ideas ilustradas.
+✅ Respuesta correcta: **d) Porque en los mismos años varias colonias españolas de América formaron juntas de gobierno y se independizaron, con causas similares**
+💬 *Retroalimentación:* Causas compartidas como el cautiverio del rey y las ideas ilustradas explican procesos parecidos en toda América.
 
 ---
 
 **5. (Alternativas)** ¿Cuál de las siguientes NO es una causa mencionada del proceso de
 Independencia americana?
-a) La difusión de ideas ilustradas europeas
-b) La independencia de Estados Unidos
+a) La difusión de ideas ilustradas europeas, como la soberanía popular
+b) La independencia de Estados Unidos, ocurrida a fines del siglo XVIII
 c) El descubrimiento de nuevas rutas comerciales hacia Asia
-d) El malestar criollo
+d) El malestar criollo por su exclusión de los altos cargos de gobierno
 
 ✅ Respuesta correcta: **c) El descubrimiento de nuevas rutas comerciales hacia Asia**
 💬 *Retroalimentación:* Esta opción no corresponde a los antecedentes históricos de la
@@ -174,13 +179,14 @@ Independencia; las causas reales fueron políticas, sociales e ideológicas.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la independencia de Estados Unidos
-sirvió de ejemplo o inspiración para los procesos independentistas americanos?
+**6. (Alternativas — desafiante)** ¿Por qué la independencia de Estados Unidos sirvió de ejemplo para los procesos independentistas americanos?
+a) Porque Estados Unidos conquistó Chile y le impuso su forma de gobierno republicana
+b) Porque fue una monarquía muy poderosa que apoyó a la Corona española en América
+c) Porque Estados Unidos seguía siendo colonia española y luchaba junto a los criollos
+d) Porque demostró que una colonia podía separarse de su metrópoli europea y organizarse como república
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que Estados Unidos demostró que
-era posible que una colonia se separara exitosamente de su metrópoli europea y se organizara
-como una república, mostrando un camino concreto que otros territorios americanos podían
-seguir.
+✅ Respuesta correcta: **d) Porque demostró que una colonia podía separarse de su metrópoli europea y organizarse como república**
+💬 *Retroalimentación:* Estados Unidos mostró un camino concreto que otros territorios americanos podían seguir.
 
 ---
 
@@ -252,12 +258,12 @@ esa independencia en los hechos (Maipú).
 #### Autoevaluación — OA 2
 
 **1. (Alternativas)** ¿Qué se decidió en el cabildo abierto del 18 de septiembre de 1810?
-a) Declarar la independencia total de Chile
-b) Formar la Primera Junta Nacional de Gobierno
+a) Formar la Primera Junta Nacional de Gobierno
+b) Declarar la independencia total de Chile
 c) Abolir la esclavitud en Chile
 d) Firmar la paz con España
 
-✅ Respuesta correcta: **b) Formar la Primera Junta Nacional de Gobierno**
+✅ Respuesta correcta: **a) Formar la Primera Junta Nacional de Gobierno**
 💬 *Retroalimentación:* El cabildo abierto de 1810 no declaró la independencia de inmediato,
 sino que formó una junta de gobierno que administraría el territorio mientras el rey
 estuviera cautivo.
@@ -274,56 +280,64 @@ definitivamente la independencia frente a los realistas.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente: (1) batalla de Rancagua, (2) cabildo
-abierto de 1810, (3) batalla de Maipú, (4) batalla de Chacabuco.
+**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden cronológico de: (1) batalla de Rancagua, (2) cabildo abierto de 1810, (3) batalla de Maipú, (4) batalla de Chacabuco?
+a) 2 → 4 → 1 → 3
+b) 1 → 2 → 3 → 4
+c) 2 → 1 → 4 → 3
+d) 2 → 1 → 3 → 4
 
-✅ Respuesta correcta: **2 → 1 → 4 → 3**
-💬 *Retroalimentación:* El cabildo abierto (1810) inicia la Patria Vieja; Rancagua (1814) la
-termina; Chacabuco (1817) abre la Patria Nueva; y Maipú (1818) la consolida.
+✅ Respuesta correcta: **c) 2 → 1 → 4 → 3**
+💬 *Retroalimentación:* El cabildo abierto (1810) inicia la Patria Vieja; Rancagua (1814) la termina; Chacabuco (1817) abre la Patria Nueva; y Maipú (1818) la consolida.
 
 ---
 
-**4. (Relacionar / emparejar)** Une cada persona con su rol en la Independencia:
+**4. (Alternativas — unir)** Une cada persona con su rol en la Independencia:
 
 1) José de San Martín — 2) Manuel Rodríguez — 3) Paula Jaraquemada
 
-a) Guerrillero patriota que actuó durante la Reconquista — b) Organizó junto a O'Higgins el
-Ejército Libertador — c) Protegió a tropas patriotas arriesgando su hacienda
+Roles: (A) Guerrillero patriota que actuó durante la Reconquista — (B) Organizó junto a O'Higgins el Ejército Libertador — (C) Protegió a tropas patriotas arriesgando su hacienda
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* La Independencia contó con distintos tipos de aportes: liderazgo
-militar, resistencia clandestina y apoyo directo a la causa patriota, incluyendo el de mujeres
-como Paula Jaraquemada.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**5. (Desarrollo breve)** Explica qué bandos se enfrentaron durante el proceso de
-Independencia y qué buscaba cada uno.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica a los **patriotas** (que
-buscaban la autonomía o independencia de España) y a los **realistas** (fieles a la Corona
-española, que buscaban mantener el dominio colonial).
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* La Independencia contó con distintos tipos de aportes: liderazgo militar, resistencia clandestina y apoyo directo a la causa patriota, incluyendo el de mujeres como Paula Jaraquemada.
 
 ---
 
-**6. (Análisis de fuente histórica)** Imagina una carta escrita en 1815 por una familia
-patriota exiliada en Mendoza, que describe la esperanza de que "el ejército que se está
-formando al otro lado de la cordillera" les permita regresar a Chile. ¿A qué etapa del proceso
-de Independencia corresponde esta situación?
+**5. (Alternativas)** ¿Qué bandos se enfrentaron durante el proceso de Independencia y qué buscaba cada uno?
+a) Patriotas, que querían seguir siendo colonia, y realistas, que querían la independencia
+b) Liberales y conservadores, que discutían las leyes laicas y el rol de la Iglesia en el Estado, y no la relación de Chile con España
+c) Chilenos y peruanos, en la Guerra del Pacífico, que buscaban controlar los territorios salitreros del norte
+d) Patriotas, que buscaban la autonomía o independencia de España, y realistas, fieles a la Corona, que buscaban mantener el dominio colonial
 
-✅ Respuesta correcta: A la Reconquista española (1814-1817), período en que muchos patriotas
-debieron exiliarse mientras se organizaba el Ejército Libertador que cruzaría los Andes.
-💬 *Retroalimentación:* La Reconquista fue un período de retroceso para la causa patriota, pero
-también de preparación del ejército que lograría la independencia definitiva en 1817-1818.
+✅ Respuesta correcta: **d) Patriotas, que buscaban la autonomía o independencia de España, y realistas, fieles a la Corona, que buscaban mantener el dominio colonial**
+💬 *Retroalimentación:* Distinguir los bandos y sus objetivos es clave para entender el proceso de Independencia.
 
 ---
 
-**7. (Desarrollo breve — desafiante)** ¿Por qué crees que se necesitaron tanto la batalla de
-Chacabuco como la de Maipú para asegurar la Independencia de Chile, y no bastó con una sola?
+**6. (Alternativas — análisis de fuente histórica)** Imagina una carta escrita en 1815 por una familia patriota exiliada en Mendoza, que describe la esperanza de que "el ejército que se está formando al otro lado de la cordillera" les permita regresar a Chile. ¿A qué etapa del proceso corresponde?
+a) A la Patria Vieja (1810-1814)
+b) A la Guerra del Pacífico
+c) A la Patria Nueva (1817-1823)
+d) A la Reconquista española (1814-1817)
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que Chacabuco fue un triunfo
-importante pero no eliminó por completo a las fuerzas realistas, que se reorganizaron; solo
-tras la derrota definitiva en Maipú la independencia quedó consolidada de forma segura.
+✅ Respuesta correcta: **d) A la Reconquista española (1814-1817)**
+💬 *Retroalimentación:* En la Reconquista muchos patriotas debieron exiliarse mientras se organizaba el Ejército Libertador que cruzaría los Andes; fue un período de retroceso, pero también de preparación.
+
+---
+
+**7. (Alternativas — desafiante)** ¿Por qué se necesitaron tanto la batalla de Chacabuco como la de Maipú para asegurar la Independencia?
+a) Porque en Chacabuco ganaron los realistas, y solo en Maipú los patriotas lograron su primer triunfo contra el ejército español
+b) Porque Maipú ocurrió antes que Chacabuco, y la segunda batalla sirvió solo para celebrar la independencia ya obtenida
+c) Porque Chacabuco fue un triunfo importante, pero las fuerzas realistas se reorganizaron; solo tras Maipú la independencia quedó consolidada
+d) Porque en Maipú se firmó la Constitución de 1833, que estableció la república y puso fin a la guerra con España
+
+✅ Respuesta correcta: **c) Porque Chacabuco fue un triunfo importante, pero las fuerzas realistas se reorganizaron; solo tras Maipú la independencia quedó consolidada**
+💬 *Retroalimentación:* Un solo triunfo no siempre elimina por completo al adversario.
 
 ---
 
@@ -389,12 +403,12 @@ institucional que vivió el país tras 1833, en comparación con el período ant
 #### Autoevaluación — OA 3
 
 **1. (Alternativas)** ¿Qué característica tuvo la Constitución de 1833?
-a) Fortaleció al Congreso por sobre el Presidente
-b) Concentró el poder en la figura del Presidente de la República
+a) Concentró el poder en la figura del Presidente de la República
+b) Fortaleció al Congreso por sobre el Presidente
 c) Eliminó por completo a la Iglesia católica del país
 d) Estableció el voto universal para hombres y mujeres
 
-✅ Respuesta correcta: **b) Concentró el poder en la figura del Presidente de la República**
+✅ Respuesta correcta: **a) Concentró el poder en la figura del Presidente de la República**
 💬 *Retroalimentación:* La Constitución de 1833 dio amplias facultades al Presidente, lo que,
 combinado con otros factores, dio inicio a un largo período de estabilidad institucional.
 
@@ -410,52 +424,56 @@ influencia religiosa.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada ley con lo que estableció:
+**3. (Alternativas — unir)** Une cada ley con lo que estableció:
 
 1) Ley de Matrimonio Civil — 2) Ley de Registro Civil — 3) Ley de Cementerio Civil (Laico)
 
-a) Creó un registro estatal de nacimientos, matrimonios y defunciones — b) Permitió el
-matrimonio como trámite civil, no solo religioso — c) Permitió que personas de cualquier
-religión (o sin religión) fueran enterradas en cementerios generales
+Contenidos: (A) Creó un registro estatal de nacimientos, matrimonios y defunciones — (B) Permitió el matrimonio como trámite civil, no solo religioso — (C) Permitió que personas de cualquier religión (o sin religión) fueran enterradas en cementerios generales
 
-✅ Respuesta correcta: 1-b, 2-a, 3-c
-💬 *Retroalimentación:* Las tres leyes laicas fueron impulsadas por los liberales en la segunda
-mitad del siglo XIX y representaron una progresiva separación entre el Estado y la Iglesia
-católica.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Las tres leyes laicas fueron impulsadas por los liberales en la segunda mitad del siglo XIX y representaron una progresiva separación entre el Estado y la Iglesia católica.
 
 ---
 
-**4. (Desarrollo breve)** Explica qué dificultades tuvo que enfrentar Chile para organizarse
-como república después de la Independencia.
+**4. (Varias correctas)** ¿Cuáles de estas fueron dificultades de Chile para organizarse como república después de la Independencia? Marca **todas** las correctas.
+a) La falta de experiencia previa en autogobierno
+b) Los ensayos constitucionales fallidos entre 1823 y 1830
+c) Los conflictos entre conservadores y liberales sobre cómo organizar el Estado
+d) La falta total de habitantes en el país
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona la falta de experiencia previa en
-autogobierno, los ensayos constitucionales fallidos entre 1823 y 1830, y los conflictos entre
-grupos con ideas políticas distintas (conservadores y liberales) sobre cómo debía organizarse
-el nuevo Estado.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Chile sí tenía población; organizar el nuevo Estado fue difícil por la inexperiencia, los ensayos fallidos y los conflictos de ideas.
 
 ---
 
 **5. (Alternativas)** ¿Cuál de las siguientes fue una consecuencia de las reformas liberales de
 la segunda mitad del siglo XIX?
-a) El debilitamiento total del Presidente de la República
-b) El fortalecimiento del Congreso y la promulgación de las leyes laicas
-c) La reinstauración de la monarquía en Chile
-d) La eliminación completa de la Constitución de 1833
+a) El debilitamiento total del Presidente de la República y del Congreso
+b) La eliminación completa de la Constitución de 1833 y de las leyes laicas
+c) La reinstauración de la monarquía en Chile con apoyo de la Iglesia
+d) El fortalecimiento del Congreso y la promulgación de las leyes laicas
 
-✅ Respuesta correcta: **b) El fortalecimiento del Congreso y la promulgación de las leyes
+✅ Respuesta correcta: **d) El fortalecimiento del Congreso y la promulgación de las leyes
 laicas**
 💬 *Retroalimentación:* Sin eliminar la Constitución de 1833, los liberales lograron reformarla
 en varios aspectos, fortaleciendo al Congreso y separando funciones del Estado y la Iglesia.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el debate sobre la "libertad de
-enseñanza" fue importante en el Chile del siglo XIX?
+**6. (Alternativas — desafiante)** ¿Por qué fue importante el debate sobre la "libertad de enseñanza" en el Chile del siglo XIX?
+a) Porque se discutía si los niños debían aprender a nadar y hacer deporte en las escuelas públicas, lo que enfrentaba a profesores, apoderados y autoridades
+b) Porque decidía la fecha de la Independencia que debía enseñarse en las escuelas, y cada bando defendía un año distinto
+c) Porque prohibía todas las escuelas privadas y religiosas del país, y dejaba la educación de los niños solo en manos de sus familias, sin ninguna participación del Estado
+d) Porque trataba sobre quién podía impartir educación (Estado, Iglesia, particulares) y se vinculaba con la tensión entre conservadores y liberales sobre el rol de la Iglesia
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que este debate tenía que ver con
-quién podía impartir educación (el Estado, la Iglesia, particulares) y bajo qué reglas, lo cual
-se relacionaba directamente con la tensión más amplia entre conservadores y liberales sobre el
-rol de la Iglesia en la sociedad.
+✅ Respuesta correcta: **d) Porque trataba sobre quién podía impartir educación (Estado, Iglesia, particulares) y se vinculaba con la tensión entre conservadores y liberales sobre el rol de la Iglesia**
+💬 *Retroalimentación:* El debate educativo era parte de la tensión más amplia sobre el rol de la Iglesia en la sociedad.
 
 ---
 
@@ -520,12 +538,12 @@ proyección de Chile hacia el Pacífico.
 
 **1. (Alternativas)** ¿Qué territorios incorporó Chile como consecuencia de su triunfo en la
 Guerra del Pacífico?
-a) Isla de Pascua y Chiloé
-b) Tarapacá y Antofagasta
+a) Tarapacá y Antofagasta
+b) Isla de Pascua y Chiloé
 c) La Araucanía y Valdivia
 d) Punta Arenas y el Estrecho de Magallanes
 
-✅ Respuesta correcta: **b) Tarapacá y Antofagasta**
+✅ Respuesta correcta: **a) Tarapacá y Antofagasta**
 💬 *Retroalimentación:* El triunfo de Chile en la Guerra del Pacífico (1879-1883) permitió
 incorporar estos territorios ricos en salitre, ampliando de forma significativa el norte del
 país.
@@ -542,45 +560,47 @@ sur.
 
 ---
 
-**3. (Ordenar secuencia)** Ordena cronológicamente: (1) Guerra del Pacífico, (2) fundación de
-Fuerte Bulnes, (3) incorporación de Isla de Pascua, (4) inicio de la ocupación de la
-Araucanía.
+**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden cronológico de: (1) Guerra del Pacífico, (2) fundación de Fuerte Bulnes, (3) incorporación de Isla de Pascua, (4) inicio de la ocupación de la Araucanía?
+a) 4 → 2 → 1 → 3
+b) 1 → 2 → 3 → 4
+c) 2 → 1 → 4 → 3
+d) 2 → 4 → 1 → 3
 
-✅ Respuesta correcta: **2 → 4 → 1 → 3**
-💬 *Retroalimentación:* Fuerte Bulnes se fundó en 1843; la ocupación de la Araucanía comenzó en
-la década de 1860; la Guerra del Pacífico ocurrió entre 1879 y 1883; y la incorporación de
-Isla de Pascua fue en 1888.
-
----
-
-**4. (Análisis de mapa)** Imagina un mapa donde se destaca, con una línea punteada, el
-territorio mapuche independiente al sur del río Biobío hasta 1880 aproximadamente, y luego,
-con una línea sólida, cómo ese límite desaparece hacia 1883. ¿Qué proceso representa este
-cambio en el mapa?
-
-✅ Respuesta correcta: La ocupación de la Araucanía, proceso mediante el cual el Estado chileno
-incorporó el territorio mapuche independiente al resto del país.
-💬 *Retroalimentación:* Este proceso, ocurrido entre las décadas de 1860 y 1880, terminó con la
-independencia territorial que el pueblo mapuche había mantenido desde la Colonia.
+✅ Respuesta correcta: **d) 2 → 4 → 1 → 3**
+💬 *Retroalimentación:* Fuerte Bulnes se fundó en 1843; la ocupación de la Araucanía comenzó en la década de 1860; la Guerra del Pacífico ocurrió entre 1879 y 1883; y la incorporación de Isla de Pascua fue en 1888.
 
 ---
 
-**5. (Desarrollo breve)** Menciona dos procesos distintos que explican cómo se conformó el
-territorio de Chile durante el siglo XIX.
+**4. (Alternativas — análisis de mapa)** Imagina un mapa donde se destaca, con una línea punteada, el territorio mapuche independiente al sur del río Biobío hasta 1880 aproximadamente, y luego cómo ese límite desaparece hacia 1883. ¿Qué proceso representa este cambio?
+a) La Guerra del Pacífico
+b) La colonización alemana del norte
+c) La ocupación de la Araucanía
+d) La Independencia
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona dos de los siguientes procesos:
-colonización europea del sur, colonización de la zona austral, ocupación de la Araucanía,
-Guerra del Pacífico o incorporación de Isla de Pascua, con una breve explicación de cada uno.
+✅ Respuesta correcta: **c) La ocupación de la Araucanía**
+💬 *Retroalimentación:* Este proceso, ocurrido entre las décadas de 1860 y 1880, terminó con la independencia territorial que el pueblo mapuche había mantenido desde la Colonia.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que el Estado de Chile tuvo especial
-interés en tomar posesión real de los territorios del extremo sur durante el siglo XIX?
+**5. (Varias correctas)** ¿Cuáles de estos procesos explican cómo se conformó el territorio de Chile durante el siglo XIX? Marca **todas** las correctas.
+a) La ocupación de la Araucanía
+b) La Guerra del Pacífico
+c) La incorporación de Isla de Pascua
+d) La fundación de Santiago por Pedro de Valdivia
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce la importancia estratégica de la
-zona austral, especialmente por su cercanía al Estrecho de Magallanes —una ruta clave para la
-navegación entre los océanos Atlántico y Pacífico antes de la construcción del Canal de
-Panamá— y por el interés de asegurar la soberanía chilena en un territorio poco poblado.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* También lo explican la colonización europea del sur y la colonización de la zona austral; la fundación de Santiago ocurrió en 1541, durante la Conquista.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué el Estado de Chile tuvo especial interés en tomar posesión real de los territorios del extremo sur durante el siglo XIX?
+a) Por su importancia estratégica, cercana al Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía
+b) Porque era la zona más poblada del país y sus ciudades necesitaban la protección del Estado frente a las potencias europeas
+c) Porque allí estaban las salitreras más ricas de Chile, que el Estado necesitaba para financiar sus gastos y su ejército durante el siglo XIX
+d) Porque tenía el clima más cálido de Chile y los mejores suelos agrícolas, ideales para abastecer de alimentos a la Zona Central
+
+✅ Respuesta correcta: **a) Por su importancia estratégica, cercana al Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía**
+💬 *Retroalimentación:* Asegurar la soberanía en un territorio estratégico y poco poblado fue una prioridad del Estado.
 
 ---
 
@@ -662,52 +682,57 @@ numerosa.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada medio de comunicación con una característica de su
-masificación en el siglo XX:
+**3. (Alternativas — unir)** Une cada medio de comunicación con una característica de su masificación en el siglo XX:
 
 1) Radio — 2) Televisión — 3) Prensa escrita
 
-a) Uno de los primeros medios de comunicación masiva impresa — b) Permitió llevar noticias y
-música a los hogares sin necesidad de saber leer — c) Incorporó imagen y sonido, masificándose
-más avanzado el siglo
+Características: (A) Uno de los primeros medios de comunicación masiva impresa — (B) Permitió llevar noticias y música a los hogares sin necesidad de saber leer — (C) Incorporó imagen y sonido, masificándose más avanzado el siglo
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Cada medio de comunicación amplió, a su manera, el acceso de la
-población a la información y la cultura durante el siglo XX.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Cada medio de comunicación amplió, a su manera, el acceso de la población a la información y la cultura durante el siglo XX.
 
 ---
 
-**4. (Desarrollo breve)** Da un ejemplo de cómo se dio la progresiva democratización de la
-sociedad chilena durante el siglo XX.
+**4. (Varias correctas)** ¿Cuáles de estos son ejemplos de la progresiva democratización de la sociedad chilena durante el siglo XX? Marca **todas** las correctas.
+a) La ampliación del sufragio con el voto femenino
+b) El mayor acceso a la educación
+c) El crecimiento de la clase media
+d) La reducción del derecho a voto a unos pocos
 
-💬 *Pauta de retroalimentación:* Una buena respuesta puede mencionar la ampliación del sufragio
-(voto femenino), el mayor acceso a la educación, el crecimiento de la clase media o la
-masificación de medios de comunicación como la radio, el cine o la televisión.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* La masificación de medios como la radio, el cine o la televisión también contribuyó a la democratización; reducir el voto sería lo contrario.
 
 ---
 
 **5. (Alternativas)** ¿Qué significa que hubo una "democratización" de la sociedad durante el
 siglo XX?
-a) Que solo los hombres pudieron votar por primera vez
-b) Que cada vez más personas pudieron participar en la vida política, educativa y cultural del
+a) Que cada vez más personas pudieron participar en la vida política, educativa y cultural del
 país
-c) Que se eliminó por completo el sistema de partidos políticos
+b) Que solo los hombres alfabetizados pudieron votar por primera vez en la historia de Chile
+c) Que se eliminó por completo el sistema de partidos políticos y las elecciones
 d) Que la población disminuyó considerablemente
 
-✅ Respuesta correcta: **b) Que cada vez más personas pudieron participar en la vida política,
+✅ Respuesta correcta: **a) Que cada vez más personas pudieron participar en la vida política,
 educativa y cultural del país**
 💬 *Retroalimentación:* La democratización implica una ampliación progresiva de derechos y
 oportunidades de participación a sectores de la población que antes estaban excluidos.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que la incorporación del voto femenino
-fue un paso tan importante para la democratización de Chile?
+**6. (Alternativas — desafiante)** ¿Por qué la incorporación del voto femenino fue un paso tan importante para la democratización de Chile?
+a) Porque las mujeres no podían trabajar fuera del hogar, y el voto les permitió obtener un empleo en el Estado y en las municipalidades
+b) Porque cambió la fecha de las elecciones presidenciales, que desde entonces se realizan en un día distinto
+c) Porque así votaban menos personas en cada elección, lo que hacía más fácil y rápido contar los votos
+d) Porque las mujeres son cerca de la mitad de la población, y excluirlas significaba decidir sin la voz de una parte muy importante de la sociedad
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las mujeres representan
-aproximadamente la mitad de la población, por lo que su exclusión del sistema político durante
-tanto tiempo significaba que las decisiones del país se tomaban sin considerar la voz de una
-parte muy importante de la sociedad.
+✅ Respuesta correcta: **d) Porque las mujeres son cerca de la mitad de la población, y excluirlas significaba decidir sin la voz de una parte muy importante de la sociedad**
+💬 *Retroalimentación:* La democracia se fortalece cuando todas las personas pueden participar en las decisiones del país.
 
 ---
 
@@ -768,10 +793,10 @@ pasado y el consenso amplio que existe en el presente sobre el valor de vivir en
 #### Autoevaluación — OA 8
 
 **1. (Alternativas)** ¿Qué ocurrió el 11 de septiembre de 1973 en Chile?
-a) Se realizó el plebiscito que devolvió la democracia al país
+a) Se realizó el plebiscito que devolvió la democracia al país después de la dictadura
 b) Un golpe de Estado derrocó al gobierno del presidente Salvador Allende
-c) Las mujeres obtuvieron el derecho a voto
-d) Se promulgó la Constitución de 1833
+c) Las mujeres obtuvieron por primera vez el derecho a voto en las elecciones presidenciales
+d) Se promulgó una nueva Constitución que reemplazó a la de 1925 de forma inmediata
 
 ✅ Respuesta correcta: **b) Un golpe de Estado derrocó al gobierno del presidente Salvador
 Allende**
@@ -803,38 +828,36 @@ para las elecciones democráticas que se realizaron en 1989 y el retorno a la de
 
 ---
 
-**4. (Desarrollo breve)** ¿Por qué es importante estudiar el quiebre democrático de 1973
-usando diversas fuentes y considerando distintas visiones?
+**4. (Alternativas)** ¿Por qué es importante estudiar el quiebre democrático de 1973 usando diversas fuentes y considerando distintas visiones?
+a) Porque así se puede elegir la versión que más nos guste e ignorar las demás
+b) Porque las fuentes históricas siempre dicen lo mismo, y comparar varias permite memorizar mejor los hechos y las fechas
+c) Porque las personas vivieron ese período de formas muy distintas, y comparar fuentes permite comprender su complejidad sin simplificarla
+d) No es importante: basta con una sola fuente oficial, porque las demás visiones solo confunden la comprensión del período
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las personas vivieron este
-período de formas muy distintas según su posición política y experiencia personal, por lo que
-comparar diversas fuentes permite comprender la complejidad del proceso histórico, sin caer en
-explicaciones simplificadas de un solo punto de vista.
-
----
-
-**5. (Análisis de fuente histórica)** Imagina dos testimonios sobre 1973: uno de un exfuncionario
-del gobierno derrocado, que describe la persecución sufrida, y otro de una persona que apoyó
-inicialmente el golpe por la crisis económica previa. ¿Qué nos enseña comparar ambos
-testimonios?
-
-✅ Respuesta correcta: Que un mismo hecho histórico puede ser vivido e interpretado de formas
-muy distintas según la experiencia y posición de cada persona, y que comprender un período
-histórico complejo requiere considerar múltiples puntos de vista y fuentes.
-💬 *Retroalimentación:* Comparar fuentes distintas no significa que todas las interpretaciones
-sean igualmente válidas frente a hechos comprobados, como las violaciones a los derechos
-humanos, pero sí ayuda a comprender la complejidad de las experiencias vividas por la
-población.
+✅ Respuesta correcta: **c) Porque las personas vivieron ese período de formas muy distintas, y comparar fuentes permite comprender su complejidad sin simplificarla**
+💬 *Retroalimentación:* Comparar fuentes evita explicaciones simplificadas de un solo punto de vista.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** A pesar de las distintas visiones que existen sobre el
-período 1973-1990, ¿en qué existe hoy un amplio consenso en la sociedad chilena?
+**5. (Alternativas — análisis de fuente histórica)** Imagina dos testimonios sobre 1973: uno de un exfuncionario del gobierno derrocado, que describe la persecución sufrida, y otro de una persona que apoyó inicialmente el golpe por la crisis económica previa. ¿Qué nos enseña comparar ambos testimonios?
+a) Que un mismo hecho puede vivirse e interpretarse de formas distintas, y que comprender un período complejo requiere varios puntos de vista y fuentes
+b) Que uno de los dos testimonios es inventado, porque un mismo hecho solo puede vivirse de una manera y hay que descubrir cuál es la verdadera
+c) Que todas las interpretaciones valen lo mismo frente a hechos comprobados, de modo que los testimonios reemplazan a cualquier otra fuente
+d) Que la historia no se puede estudiar, porque cada persona recuerda algo distinto y no hay forma de comparar las fuentes
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona el consenso actual sobre el valor
-de la democracia como forma de gobierno y el rechazo a las violaciones de los derechos
-humanos, independientemente de las distintas posturas políticas que existan sobre otros
-aspectos del período.
+✅ Respuesta correcta: **a) Que un mismo hecho puede vivirse e interpretarse de formas distintas, y que comprender un período complejo requiere varios puntos de vista y fuentes**
+💬 *Retroalimentación:* Comparar fuentes distintas no significa que todas las interpretaciones sean igualmente válidas frente a hechos comprobados, como las violaciones a los derechos humanos, pero sí ayuda a comprender la complejidad de las experiencias vividas.
+
+---
+
+**6. (Alternativas — desafiante)** A pesar de las distintas visiones sobre el período 1973-1990, ¿en qué existe hoy un amplio consenso en la sociedad chilena?
+a) En que la democracia no es necesaria cuando existe una crisis económica
+b) En que no hubo ningún cambio en ese período y que el país siguió funcionando igual que antes de 1973
+c) En que no existen distintas visiones sobre el período y todos lo recuerdan igual
+d) En el valor de la democracia como forma de gobierno y el rechazo a las violaciones de los derechos humanos
+
+✅ Respuesta correcta: **d) En el valor de la democracia como forma de gobierno y el rechazo a las violaciones de los derechos humanos**
+💬 *Retroalimentación:* Ese consenso existe independientemente de las distintas posturas políticas sobre otros aspectos del período.
 
 ---
 
@@ -920,49 +943,47 @@ desde el campo hacia las ciudades, un fenómeno que provocó una fuerte urbaniza
 
 ---
 
-**3. (Relacionar / emparejar)** Clasifica cada elemento como "cambio" o "continuidad":
+**3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos representan una **continuidad** en la sociedad chilena? Marca **todas** las correctas.
+a) La llegada de la electricidad
+b) El idioma español
+c) La ampliación del derecho a voto
+d) Fiestas tradicionales como La Tirana
 
-1) Llegada de la electricidad — 2) El idioma español — 3) Ampliación del derecho a voto — 4)
-Fiestas tradicionales como la Fiesta de La Tirana
-
-a) Cambio — b) Continuidad
-
-✅ Respuesta correcta: 1-a, 2-b, 3-a, 4-b
-💬 *Retroalimentación:* Distinguir entre cambios y continuidades ayuda a comprender que una
-sociedad se transforma en algunos aspectos mientras mantiene otros a lo largo del tiempo.
+✅ Respuesta correcta: **b y d**
+💬 *Retroalimentación:* La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales se mantienen. Una sociedad se transforma en algunos aspectos mientras mantiene otros.
 
 ---
 
-**4. (Desarrollo breve)** Da un ejemplo de un aspecto que ha cambiado y uno que se ha
-mantenido en la sociedad chilena a lo largo de su historia.
+**4. (Alternativas)** ¿Qué pareja muestra correctamente un **cambio** y una **continuidad** en la sociedad chilena?
+a) Cambio: el idioma español. Continuidad: los medios de transporte
+b) Cambio: los medios de transporte. Continuidad: el idioma español
+c) Cambio: las fiestas tradicionales. Continuidad: la urbanización
+d) Cambio: la arquitectura patrimonial. Continuidad: la participación política
 
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica correctamente un ejemplo de
-cambio (por ejemplo, transportes, participación política, urbanización) y un ejemplo de
-continuidad (idioma, comidas, fiestas, arquitectura patrimonial).
-
----
-
-**5. (Análisis de fuente)** Imagina una fotografía de una ciudad chilena en 1900 y otra de la
-misma ciudad en la actualidad: en la primera, hay carretas y calles sin pavimentar; en la
-segunda, automóviles, edificios altos y semáforos, pero también una iglesia colonial que
-aparece en ambas fotos. ¿Qué representa la iglesia colonial en esta comparación?
-
-✅ Respuesta correcta: Representa una continuidad, un elemento del pasado (la arquitectura
-patrimonial) que se mantiene presente a pesar de los grandes cambios urbanos y tecnológicos
-ocurridos con el tiempo.
-💬 *Retroalimentación:* Comparar imágenes de distintas épocas es una buena forma de identificar
-visualmente qué elementos cambian y cuáles permanecen en una sociedad.
+✅ Respuesta correcta: **b) Cambio: los medios de transporte. Continuidad: el idioma español**
+💬 *Retroalimentación:* Ejemplos de cambio: transporte, participación política, urbanización. Ejemplos de continuidad: idioma, comidas, fiestas, arquitectura patrimonial.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que, a pesar de tantos cambios
-tecnológicos y sociales, algunas costumbres y tradiciones se mantienen vigentes en Chile hasta
-hoy?
+**5. (Alternativas — análisis de fuente)** Imagina una fotografía de una ciudad chilena en 1900 y otra de la misma ciudad hoy: en la primera hay carretas y calles sin pavimentar; en la segunda, automóviles, edificios altos y semáforos, pero también una iglesia colonial que aparece en ambas. ¿Qué representa la iglesia colonial?
+a) Un cambio tecnológico que transformó la ciudad desde la época de las carretas
+b) Una construcción moderna que reemplazó a los edificios coloniales de la ciudad
+c) Una continuidad: un elemento del pasado que se mantiene a pesar de los grandes cambios
+d) Una ruptura con el pasado: un elemento que desapareció con los grandes cambios
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que las tradiciones culturales
-(idioma, comidas, fiestas) forman parte de la identidad de las personas y las comunidades, y
-se transmiten de generación en generación, lo que las hace más resistentes al paso del tiempo
-que, por ejemplo, las tecnologías o las formas de organización política.
+✅ Respuesta correcta: **c) Una continuidad: un elemento del pasado que se mantiene a pesar de los grandes cambios**
+💬 *Retroalimentación:* Comparar imágenes de distintas épocas ayuda a identificar qué elementos cambian y cuáles permanecen.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué algunas costumbres y tradiciones se mantienen vigentes en Chile a pesar de tantos cambios?
+a) Porque forman parte de la identidad de las personas y comunidades y se transmiten de generación en generación
+b) Porque está prohibido cambiarlas por ley, y quien no las cumple recibe una multa
+c) Porque no existen cambios tecnológicos en Chile, y por eso las personas viven igual que en el pasado
+d) Porque las tradiciones son tecnologías nuevas que se inventan cada año y reemplazan a las antiguas
+
+✅ Respuesta correcta: **a) Porque forman parte de la identidad de las personas y comunidades y se transmiten de generación en generación**
+💬 *Retroalimentación:* Las tradiciones culturales (idioma, comidas, fiestas) resisten mejor el paso del tiempo que las tecnologías o las formas de organización política.
 
 ---
 
@@ -1050,48 +1071,47 @@ de minerales favorece la minería.
 
 ---
 
-**3. (Relacionar / emparejar)** Clasifica cada elemento como rasgo físico o rasgo humano de una
-región:
+**3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son **rasgos físicos** de una región? Marca **todas** las correctas.
+a) Hidrografía (ríos y lagos)
+b) Distribución de la población
+c) Vegetación
+d) Actividades económicas
 
-1) Hidrografía (ríos y lagos) — 2) Distribución de la población — 3) Vegetación — 4)
-Actividades económicas
-
-a) Rasgo físico — b) Rasgo humano
-
-✅ Respuesta correcta: 1-a, 2-b, 3-a, 4-b
-💬 *Retroalimentación:* Distinguir entre rasgos físicos y humanos permite organizar mejor la
-información al caracterizar cualquier región del país.
+✅ Respuesta correcta: **a y c**
+💬 *Retroalimentación:* La población y las actividades económicas son rasgos humanos. Distinguirlos permite organizar mejor la información al caracterizar una región.
 
 ---
 
-**4. (Análisis de mapa)** Observa un mapa político de Chile dividido en sus regiones, cada una
-identificada con un número romano o su nombre. ¿Qué elementos necesitarías agregar a ese mapa
-para caracterizar geográficamente una región específica, además de su nombre y límites?
+**4. (Alternativas — análisis de mapa)** Observa un mapa político de Chile dividido en regiones. ¿Qué información habría que agregar para caracterizar geográficamente una región, además de su nombre y límites?
+a) Solo el nombre de su capital regional y de sus provincias, porque eso basta para conocer sus rasgos
+b) Solo los colores de su bandera y su escudo, que representan sus características físicas y humanas
+c) Nada más: el mapa político basta, porque los límites de cada región ya muestran su clima y su relieve
+d) Su clima, relieve, hidrografía y vegetación (rasgos físicos), y su población y actividades económicas (rasgos humanos)
 
-✅ Respuesta correcta: Información sobre su clima, relieve, hidrografía y vegetación (rasgos
-físicos), y sobre su población y actividades económicas principales (rasgos humanos).
-💬 *Retroalimentación:* Un mapa político por sí solo muestra los límites administrativos, pero
-caracterizar una región requiere combinar esa información con datos físicos y humanos.
-
----
-
-**5. (Desarrollo breve)** Describe tu propia región, mencionando su nombre, su capital
-regional, un rasgo físico y un rasgo humano que la caractericen.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica correctamente el nombre y la
-capital de la región del estudiante, junto con al menos un rasgo físico (clima, relieve,
-hidrografía o vegetación) y un rasgo humano (población o actividad económica) reales y
-pertinentes a esa región.
+✅ Respuesta correcta: **d) Su clima, relieve, hidrografía y vegetación (rasgos físicos), y su población y actividades económicas (rasgos humanos)**
+💬 *Retroalimentación:* Un mapa político muestra los límites administrativos; caracterizar una región requiere combinarlo con datos físicos y humanos.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que es importante que los estudiantes
-conozcan bien las características de su propia región, además de las del resto del país?
+**5. (Alternativas)** ¿Qué descripción de una región de Chile está **bien construida**, con nombre, capital, un rasgo físico y uno humano?
+a) Región de Antofagasta; capital Santiago; clima lluvioso; la pesca de salmón en lagos
+b) Región de Antofagasta; capital Antofagasta; clima desértico; la minería es su principal actividad económica
+c) Región de Los Lagos; capital Iquique; clima desértico y sin lluvias; la minería del salitre es su principal actividad
+d) Región Metropolitana; capital Valparaíso; glaciares y campos de hielo; la ganadería ovina es su principal actividad
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que conocer la propia región
-ayuda a comprender mejor el entorno inmediato en el que se vive, a valorar sus recursos y
-particularidades, y sirve además como punto de comparación para entender las demás regiones de
-Chile.
+✅ Respuesta correcta: **b) Región de Antofagasta; capital Antofagasta; clima desértico; la minería es su principal actividad económica**
+💬 *Retroalimentación:* Una buena caracterización usa datos reales y pertinentes de la región. Intenta describir tu propia región con su capital, un rasgo físico y uno humano.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué es importante que los estudiantes conozcan bien las características de su propia región?
+a) Porque así no necesitan conocer otras regiones ni compararlas con la suya
+b) Porque todas las regiones son iguales, y conocer una permite conocerlas todas
+c) Porque ayuda a comprender el entorno en que viven, valorar sus recursos y comparar con otras regiones
+d) No es importante, porque lo que se estudia en el colegio es solo la historia de Chile
+
+✅ Respuesta correcta: **c) Porque ayuda a comprender el entorno en que viven, valorar sus recursos y comparar con otras regiones**
+💬 *Retroalimentación:* Conocer la propia región sirve además como punto de comparación para entender las demás regiones de Chile.
 
 ---
 
@@ -1191,51 +1211,53 @@ mayor cantidad de población de Chile.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada ambiente natural con una oportunidad que las personas
-han aprovechado en él:
+**3. (Alternativas — unir)** Une cada ambiente natural con una oportunidad que las personas han aprovechado en él:
 
 1) Ambiente costero — 2) Ambiente patagónico — 3) Ambiente altiplánico
 
-a) Ganadería de camélidos y agricultura en terrazas — b) Pesca y recursos marítimos — c)
-Ganadería ovina y turismo de naturaleza
+Oportunidades: (A) Ganadería de camélidos y agricultura en terrazas — (B) Pesca y recursos marítimos — (C) Ganadería ovina y turismo de naturaleza
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* Cada ambiente natural ofrece oportunidades distintas, que las personas
-han sabido aprovechar de acuerdo a las condiciones específicas de cada zona.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de mapa)** Imagina un mapa de Chile con ocho colores distintos, cada uno
-representando un ambiente natural: desértico, altiplánico, costero, mediterráneo, andino, frío
-y lluvioso, patagónico y polar. ¿Por qué crees que un país como Chile necesita tantas
-categorías distintas para describir sus ambientes naturales?
-
-✅ Respuesta correcta: Porque Chile tiene una enorme extensión de norte a sur y presenta una
-gran diversidad de climas y relieves, lo que genera condiciones naturales muy diferentes entre
-unas zonas y otras.
-💬 *Retroalimentación:* La diversidad de ambientes naturales de Chile es consecuencia directa
-de su particular forma geográfica: un país largo y angosto que atraviesa muchas latitudes
-distintas.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Cada ambiente natural ofrece oportunidades distintas, que las personas han sabido aprovechar de acuerdo a las condiciones específicas de cada zona.
 
 ---
 
-**5. (Desarrollo breve)** Elige dos ambientes naturales de Chile y compáralos, considerando
-al menos una dificultad y una oportunidad de cada uno.
+**4. (Alternativas — análisis de mapa)** Imagina un mapa de Chile con ocho colores, cada uno para un ambiente natural: desértico, altiplánico, costero, mediterráneo, andino, frío y lluvioso, patagónico y polar. ¿Por qué Chile necesita tantas categorías para describir sus ambientes?
+a) Porque todos sus ambientes son iguales, y los colores solo sirven para distinguir las regiones
+b) Porque es un país muy pequeño, y necesita dividir su territorio en muchas partes para estudiarlo
+c) Porque solo tiene un tipo de clima, pero cada región le da un nombre distinto en sus mapas
+d) Porque tiene una enorme extensión de norte a sur y una gran diversidad de climas y relieves
 
-💬 *Pauta de retroalimentación:* Una buena respuesta elige dos ambientes reales (por ejemplo,
-desértico y frío y lluvioso) e identifica correctamente al menos una dificultad y una
-oportunidad para cada uno, mostrando cómo las personas se han adaptado a ellas.
+✅ Respuesta correcta: **d) Porque tiene una enorme extensión de norte a sur y una gran diversidad de climas y relieves**
+💬 *Retroalimentación:* La diversidad de ambientes de Chile es consecuencia de su forma: un país largo y angosto que atraviesa muchas latitudes.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que, a pesar de las dificultades que
-presentan ambientes extremos como el desértico o el patagónico, las personas han logrado
-vivir y desarrollarse en ellos durante siglos?
+**5. (Alternativas)** ¿Qué comparación entre dos ambientes naturales de Chile es **correcta**?
+a) Desértico: el exceso de lluvia es una dificultad y los bosques una oportunidad. Frío y lluvioso: la sequía extrema es una dificultad y la radiación solar una oportunidad
+b) Desértico: la escasez de agua es una dificultad y la radiación solar una oportunidad. Frío y lluvioso: las bajas temperaturas son una dificultad y los bosques una oportunidad
+c) Los dos ambientes tienen las mismas dificultades y oportunidades: en ambos la escasez de agua es una dificultad y la minería es la única oportunidad para sus habitantes
+d) Ninguno de los dos tiene oportunidades
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce la capacidad de adaptación
-humana: el desarrollo de tecnologías y conocimientos específicos (como sistemas de riego,
-técnicas de captación de agua, formas de construcción o actividades económicas adaptadas al
-clima) que permiten aprovechar las oportunidades de cada ambiente y superar sus dificultades.
+✅ Respuesta correcta: **b) Desértico: la escasez de agua es una dificultad y la radiación solar una oportunidad. Frío y lluvioso: las bajas temperaturas son una dificultad y los bosques una oportunidad**
+💬 *Retroalimentación:* Comparar dificultades y oportunidades muestra cómo las personas se han adaptado a cada ambiente.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué las personas han logrado vivir durante siglos en ambientes extremos como el desértico o el patagónico?
+a) Porque esos ambientes no tienen ninguna dificultad: el agua y el alimento abundan durante todo el año y no exigen técnicas especiales
+b) Porque nadie ha vivido nunca en ellos: las personas solo los visitan por un tiempo corto para trabajar y luego vuelven a la Zona Central
+c) Por la capacidad de adaptación humana: tecnologías y conocimientos como el riego, la captación de agua o formas de construcción adaptadas al clima
+d) Porque el clima cambió y ahora son templados, por lo que ya no hace falta adaptar las viviendas ni las formas de obtener agua
+
+✅ Respuesta correcta: **c) Por la capacidad de adaptación humana: tecnologías y conocimientos como el riego, la captación de agua o formas de construcción adaptadas al clima**
+💬 *Retroalimentación:* Los conocimientos y tecnologías adaptados permiten aprovechar las oportunidades de cada ambiente y superar sus dificultades.
 
 ---
 
@@ -1329,27 +1351,25 @@ nuevamente a elecciones si quiere continuar en el cargo.
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada cargo de elección popular con el nivel de gobierno al
-que pertenece:
+**3. (Varias correctas — clasificar)** ¿Cuáles de estos cargos de elección popular pertenecen al **nivel comunal**? Marca **todas** las correctas.
+a) Alcalde
+b) Senador
+c) Concejal
+d) Presidente de la República
 
-1) Alcalde — 2) Senador — 3) Concejal — 4) Presidente de la República
-
-a) Nivel comunal — b) Nivel nacional
-
-✅ Respuesta correcta: 1-a, 2-b, 3-a, 4-b
-💬 *Retroalimentación:* Chile organiza la representación democrática en distintos niveles: a
-nivel comunal se eligen alcaldes y concejales, y a nivel nacional, diputados, senadores y
-Presidente/a.
+✅ Respuesta correcta: **a y c**
+💬 *Retroalimentación:* A nivel comunal se eligen alcaldes y concejales; a nivel nacional, diputados, senadores y Presidente/a.
 
 ---
 
-**4. (Desarrollo breve)** Explica con tus palabras por qué es importante que el poder del
-Estado esté dividido en tres poderes distintos, y no concentrado en una sola institución.
+**4. (Alternativas)** ¿Por qué es importante que el poder del Estado esté dividido en tres poderes, y no concentrado en una sola institución?
+a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí
+b) Para que una sola persona tome todas las decisiones importantes del país con mayor rapidez, sin tener que consultar a nadie
+c) Para que no existan leyes que limiten a las autoridades, y cada poder pueda actuar como quiera en su propio ámbito
+d) Para que las elecciones no sean necesarias, porque cada poder elige a sus propias autoridades sin votación ciudadana
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que la división de poderes busca
-evitar abusos de poder, ya que ningún poder puede actuar sin control: el Legislativo elabora
-las leyes, el Ejecutivo las aplica y administra el país, y el Judicial vela por que se cumplan,
-existiendo un equilibrio entre los tres.
+✅ Respuesta correcta: **a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí**
+💬 *Retroalimentación:* La división de poderes genera un equilibrio en el que ningún poder actúa sin control.
 
 ---
 
@@ -1367,14 +1387,14 @@ en organizaciones y espacios colectivos, y no limitarse solo al acto de votar.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que es importante que las autoridades
-elegidas por votación popular tengan un período de tiempo limitado en su cargo (carácter
-temporal)?
+**6. (Alternativas — desafiante)** ¿Por qué es importante que las autoridades elegidas por votación tengan un período limitado en su cargo?
+a) Porque así nunca hay elecciones y las autoridades pueden dedicarse a gobernar sin interrupciones
+b) Porque las autoridades no pueden cometer errores mientras dura su período, y al terminarlo se revisan sus leyes
+c) Porque el cargo se hereda a los hijos al terminar el período, y así se asegura que la familia siga gobernando
+d) Porque la ciudadanía puede evaluar su desempeño y decidir en nuevas elecciones, evitando que alguien se perpetúe en el poder
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que el carácter temporal de los
-cargos permite que la ciudadanía pueda evaluar el desempeño de sus autoridades y decidir si
-renovar su confianza en nuevas elecciones, evitando que una persona o grupo se perpetúe en el
-poder sin control democrático.
+✅ Respuesta correcta: **d) Porque la ciudadanía puede evaluar su desempeño y decidir en nuevas elecciones, evitando que alguien se perpetúe en el poder**
+💬 *Retroalimentación:* El carácter temporal de los cargos es una forma de control democrático.
 
 ---
 
@@ -1430,10 +1450,10 @@ país donde todos —incluidas las autoridades— están sometidos a la ley.
 #### Autoevaluación — OA 16
 
 **1. (Alternativas)** ¿Qué es la Constitución Política de un país?
-a) Una ley más, igual de importante que cualquier otra
+a) Una ley más, igual de importante que cualquier otra ley del país
 b) La ley fundamental del Estado, que está por sobre todas las demás leyes
-c) Un documento que solo aplica al Poder Judicial
-d) Un reglamento interno de cada colegio
+c) Un documento que solo aplica al Poder Judicial y a los tribunales
+d) Un reglamento interno que cada colegio escribe para sus estudiantes
 
 ✅ Respuesta correcta: **b) La ley fundamental del Estado, que está por sobre todas las demás
 leyes**
@@ -1453,11 +1473,11 @@ autoridades, sin excepción, deben actuar conforme a lo que establece la Constit
 
 **3. (Alternativas)** ¿Cuáles son las dos funciones centrales de la Constitución Política de
 Chile mencionadas en este objetivo?
-a) Establecer impuestos y regular el comercio internacional
+a) Establecer los impuestos que pagan las personas y regular el comercio internacional del país
 b) Establecer la organización política del país y garantizar los derechos y libertades de las
 personas
-c) Definir el currículum escolar y regular las universidades
-d) Fijar los precios de los productos básicos
+c) Definir el currículum escolar de cada nivel y regular el funcionamiento de las universidades
+d) Fijar los precios de los productos básicos y los sueldos de los trabajadores del país
 
 ✅ Respuesta correcta: **b) Establecer la organización política del país y garantizar los
 derechos y libertades de las personas**
@@ -1466,38 +1486,36 @@ poder del Estado y protege los derechos fundamentales de todas las personas.
 
 ---
 
-**4. (Desarrollo breve)** Explica con tus palabras por qué se dice que la Constitución
-Política "instaura un sistema democrático" en Chile.
+**4. (Alternativas)** ¿Por qué se dice que la Constitución Política "instaura un sistema democrático" en Chile?
+a) Porque permite que el Presidente gobierne sin límites durante su período, mientras el Congreso y los tribunales solo lo aconsejan
+b) Porque establece que Chile es una república democrática, define la división de poderes, la elección de autoridades y garantiza derechos y libertades
+c) Porque prohíbe las elecciones y establece que las autoridades se nombran entre los poderes del Estado, sin participación ciudadana
+d) Porque es una ley igual a cualquier otra, que el Congreso puede cambiar en cualquier momento por mayoría simple
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona que la Constitución establece que
-Chile es una república democrática, define la división de poderes, la forma en que se eligen
-las autoridades mediante elecciones, y garantiza los derechos y libertades de las personas,
-elementos todos propios de un sistema democrático.
-
----
-
-**5. (Relacionar / emparejar)** Une cada situación con la función de la Constitución que
-ilustra:
-
-1) Se establece que existen tres poderes del Estado — 2) Se reconoce el derecho a la libertad
-de expresión de todas las personas
-
-a) Organización política del país — b) Garantía de derechos y libertades
-
-✅ Respuesta correcta: 1-a, 2-b
-💬 *Retroalimentación:* Es útil distinguir cuándo un artículo constitucional se refiere a cómo
-se organiza el poder del Estado y cuándo se refiere a la protección de derechos de las
-personas.
+✅ Respuesta correcta: **b) Porque establece que Chile es una república democrática, define la división de poderes, la elección de autoridades y garantiza derechos y libertades**
+💬 *Retroalimentación:* Todos esos elementos son propios de un sistema democrático.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Qué problemas crees que podrían ocurrir en un país si
-no existiera una Constitución que estuviera por sobre todas las demás leyes y autoridades?
+**5. (Alternativas — vincular)** "Se reconoce el derecho a la libertad de expresión de todas las personas". ¿Qué función de la Constitución ilustra esta situación?
+a) Organización política del país
+b) Elección del alcalde
+c) Garantía de derechos y libertades
+d) Ninguna función
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, sin una norma fundamental que
-limite el poder de las autoridades y proteja los derechos de las personas, existiría un mayor
-riesgo de abusos de poder, arbitrariedades y desprotección de los derechos y libertades
-individuales.
+✅ Respuesta correcta: **c) Garantía de derechos y libertades**
+💬 *Retroalimentación:* Establecer que existen tres poderes del Estado ilustra la organización política; reconocer la libertad de expresión es una garantía de derechos. Es útil distinguir cuándo un artículo trata del poder del Estado y cuándo de los derechos de las personas.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Qué problemas podrían ocurrir en un país sin una Constitución que esté por sobre las demás leyes y autoridades?
+a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas
+b) Las personas tendrían más derechos garantizados, porque cada autoridad podría crear nuevos
+c) Las autoridades tendrían más límites, porque cada ley podría contradecir a las demás
+d) No habría ningún problema, porque las leyes comunes bastan para organizar el poder
+
+✅ Respuesta correcta: **a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas**
+💬 *Retroalimentación:* La norma fundamental limita el poder de las autoridades y protege los derechos de las personas.
 
 ---
 
@@ -1582,52 +1600,53 @@ por las Naciones Unidas y reconoce derechos fundamentales para todas las persona
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada situación con el actor que está fallando en respetar
-un derecho:
+**3. (Alternativas — unir)** Une cada situación con el actor que está fallando en respetar un derecho:
 
-1) Un compañero se burla de otro por su acento — 2) Un colegio no actúa frente a una situación
-de discriminación reiterada — 3) El Estado no construye suficientes escuelas en una zona
-aislada del país
+1) Un compañero se burla de otro por su acento — 2) Un colegio no actúa frente a una situación de discriminación reiterada — 3) El Estado no construye suficientes escuelas en una zona aislada del país
 
-a) Par — b) Comunidad — c) Estado
+Actores: (A) Par — (B) Comunidad — (C) Estado
 
-✅ Respuesta correcta: 1-a, 2-b, 3-c
-💬 *Retroalimentación:* Los derechos pueden ser vulnerados —o protegidos— en distintos niveles:
-por individuos cercanos, por instituciones de la comunidad, o por el Estado.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-C, 2-B, 3-A
+c) 1-A, 2-C, 3-B
+d) 1-A, 2-B, 3-C
 
----
-
-**4. (Desarrollo breve)** Menciona un derecho de las personas y explica por qué es importante
-que sea respetado tanto por los pares como por el Estado.
-
-💬 *Pauta de retroalimentación:* Una buena respuesta identifica un derecho concreto (por
-ejemplo, la libertad de expresión, la educación o la salud) y explica que, aunque el Estado
-tiene el deber de garantizarlo institucionalmente, también depende del respeto cotidiano de
-las personas hacia los demás para que ese derecho se cumpla plenamente en la práctica.
+✅ Respuesta correcta: **d) 1-A, 2-B, 3-C**
+💬 *Retroalimentación:* Los derechos pueden ser vulnerados —o protegidos— en distintos niveles: por individuos cercanos, por instituciones de la comunidad o por el Estado.
 
 ---
 
-**5. (Análisis de fuente)** Imagina un artículo de la Declaración Universal de los Derechos
-Humanos que dice: "Toda persona tiene derecho a la educación". Luego observas que la
-Constitución Política de Chile también reconoce el derecho a la educación para todas las
-personas del país. ¿Qué relación existe entre ambos documentos en este caso?
+**4. (Alternativas)** ¿Por qué un derecho como la educación debe ser respetado tanto por los pares como por el Estado?
+a) Porque solo el Estado puede vulnerar derechos, y las personas entre sí no tienen ninguna responsabilidad sobre ellos
+b) Porque el Estado debe garantizarlo institucionalmente, pero su cumplimiento también depende del respeto cotidiano de las personas
+c) Porque los pares no influyen en los derechos de los demás, ya que cada derecho depende solo de lo que diga la ley
+d) Porque los derechos solo existen en la Constitución, y si no se mencionan ahí no pueden exigirse a nadie
 
-✅ Respuesta correcta: La Constitución chilena recoge y garantiza a nivel nacional un derecho
-que ya está reconocido internacionalmente en la Declaración Universal de los Derechos
-Humanos, mostrando coherencia entre ambos documentos.
-💬 *Retroalimentación:* Muchos derechos reconocidos en la Declaración Universal también están
-explícitamente garantizados en la Constitución de cada país, lo que refuerza su protección.
+✅ Respuesta correcta: **b) Porque el Estado debe garantizarlo institucionalmente, pero su cumplimiento también depende del respeto cotidiano de las personas**
+💬 *Retroalimentación:* Los derechos se cumplen plenamente cuando los respetan las instituciones y también las personas en su vida diaria.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Por qué crees que se dice que el respeto de los
-derechos de todas las personas "constituye la base para vivir en una sociedad justa"?
+**5. (Alternativas — análisis de fuente)** Un artículo de la Declaración Universal de los Derechos Humanos dice: "Toda persona tiene derecho a la educación", y la Constitución de Chile también reconoce ese derecho. ¿Qué relación existe entre ambos documentos en este caso?
+a) Se contradicen, porque la Declaración Universal no reconoce la educación como derecho
+b) La Declaración Universal fue escrita por Chile y luego copiada por los demás países del mundo
+c) La Constitución chilena recoge y garantiza a nivel nacional un derecho ya reconocido internacionalmente
+d) No tienen ninguna relación: cada documento reconoce derechos distintos y no se influyen entre sí
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, si los derechos de las
-personas no fueran respetados de forma igualitaria, existiría discriminación, exclusión y
-abuso hacia algunos grupos, mientras que el respeto universal de los derechos permite que
-todas las personas, sin excepción, puedan desarrollarse y convivir en condiciones de igualdad
-y dignidad.
+✅ Respuesta correcta: **c) La Constitución chilena recoge y garantiza a nivel nacional un derecho ya reconocido internacionalmente**
+💬 *Retroalimentación:* Muchos derechos de la Declaración Universal también están garantizados en la Constitución de cada país, lo que refuerza su protección.
+
+---
+
+**6. (Alternativas — desafiante)** ¿Por qué se dice que el respeto de los derechos de todas las personas "constituye la base para vivir en una sociedad justa"?
+a) Porque si no se respetaran de forma igualitaria habría discriminación y abuso; su respeto universal permite convivir en igualdad y dignidad
+b) Porque los derechos solo importan a algunos grupos, y respetarlos permite que esos grupos tengan más privilegios que el resto
+c) Porque una sociedad justa no necesita derechos: basta con que cada persona haga lo que le parezca correcto en cada momento
+d) Porque los derechos generan discriminación cuando se aplican a todos, y por eso hay que reservarlos para quienes los merecen
+
+✅ Respuesta correcta: **a) Porque si no se respetaran de forma igualitaria habría discriminación y abuso; su respeto universal permite convivir en igualdad y dignidad**
+💬 *Retroalimentación:* El respeto universal de los derechos permite que todas las personas, sin excepción, puedan desarrollarse.
 
 ---
 
@@ -1692,11 +1711,11 @@ comunidad.
 #### Autoevaluación — OA 18
 
 **1. (Alternativas)** ¿Qué significa que "los derechos generan deberes"?
-a) Que tener un derecho no implica ninguna responsabilidad
+a) Que tener un derecho no implica ninguna responsabilidad hacia los demás
 b) Que el ejercicio de un derecho propio también implica respetar el mismo derecho en los
 demás
-c) Que solo el Estado tiene deberes, nunca las personas
-d) Que los derechos y los deberes no tienen ninguna relación entre sí
+c) Que solo el Estado tiene deberes con las personas, nunca las personas entre sí
+d) Que los derechos y los deberes no tienen ninguna relación entre sí en la vida diaria
 
 ✅ Respuesta correcta: **b) Que el ejercicio de un derecho propio también implica respetar el
 mismo derecho en los demás**
@@ -1715,27 +1734,31 @@ deberes y responsabilidades relacionados con garantizar y respetar los derechos 
 
 ---
 
-**3. (Relacionar / emparejar)** Une cada derecho con el deber que genera:
+**3. (Alternativas — unir)** Une cada derecho con el deber que genera:
 
-1) Derecho al descanso — 2) Derecho a la libertad de expresión — 3) Derecho a un entorno
-limpio
+1) Derecho al descanso — 2) Derecho a la libertad de expresión — 3) Derecho a un entorno limpio
 
-a) No arrojar basura en espacios públicos — b) No generar ruidos molestos en horarios de
-descanso — c) Respetar la opinión y la libertad de expresión de los demás
+Deberes: (A) No arrojar basura en espacios públicos — (B) No generar ruidos molestos en horarios de descanso — (C) Respetar la opinión y la libertad de expresión de los demás
 
-✅ Respuesta correcta: 1-b, 2-c, 3-a
-💬 *Retroalimentación:* A cada derecho estudiado le corresponde un deber que permite que ese
-mismo derecho pueda ser ejercido también por el resto de las personas.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
+
+✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* A cada derecho le corresponde un deber que permite que ese mismo derecho pueda ser ejercido también por el resto de las personas.
 
 ---
 
-**4. (Desarrollo breve)** Da un ejemplo de una norma de tu vida cotidiana (en tu casa, colegio
-o barrio) que ayude a mantener una buena convivencia, y explica qué derecho busca proteger.
+**4. (Alternativas)** ¿Qué norma de la vida cotidiana está **bien vinculada** con el derecho que busca proteger?
+a) Respetar los turnos para hablar → derecho a un entorno limpio
+b) No hacer ruido en horario de descanso → derecho al descanso
+c) Cuidar los espacios comunes → derecho al voto
+d) No botar basura → derecho a la nacionalidad
 
-💬 *Pauta de retroalimentación:* Una buena respuesta menciona una norma real y concreta de la
-vida cotidiana del estudiante (por ejemplo, respetar turnos, no hacer ruido en ciertos
-horarios, cuidar espacios comunes) y la relaciona correctamente con el derecho que busca
-proteger para la convivencia de todos.
+✅ Respuesta correcta: **b) No hacer ruido en horario de descanso → derecho al descanso**
+💬 *Retroalimentación:* Respetar turnos protege la libertad de expresión de todos y cuidar los espacios comunes protege un entorno limpio. Piensa en una norma de tu casa o colegio y en el derecho que protege.
 
 ---
 
@@ -1753,14 +1776,14 @@ beneficia a toda la comunidad.
 
 ---
 
-**6. (Desarrollo breve — desafiante)** ¿Qué podría ocurrir en una comunidad si las personas
-ejercieran sus derechos sin asumir los deberes correspondientes hacia los demás?
+**6. (Alternativas — desafiante)** ¿Qué podría ocurrir en una comunidad si las personas ejercieran sus derechos sin asumir los deberes correspondientes?
+a) La convivencia mejoraría, porque cada persona podría hacer lo que quiere sin preocuparse de los demás ni de sus obligaciones
+b) Todos los derechos se cumplirían mejor, porque los deberes son una carga que solo dificulta el ejercicio de los derechos propios
+c) Habría conflictos constantes, porque el ejercicio irrestricto de un derecho de algunos perjudicaría los derechos de otros y el bien común
+d) No pasaría nada, porque los derechos de cada persona son independientes y nunca entran en conflicto con los derechos de otra
 
-💬 *Pauta de retroalimentación:* Una buena respuesta reconoce que, si cada persona ejerciera
-sus derechos sin considerar el deber de respetar los derechos de los demás, se generarían
-conflictos constantes y una convivencia difícil, ya que el ejercicio irrestricto de un derecho
-por parte de algunos podría perjudicar los derechos de otras personas, afectando el bien
-común.
+✅ Respuesta correcta: **c) Habría conflictos constantes, porque el ejercicio irrestricto de un derecho de algunos perjudicaría los derechos de otros y el bien común**
+💬 *Retroalimentación:* Derechos y deberes deben ejercerse en equilibrio para cuidar el bien común.
 
 ---
 

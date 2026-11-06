@@ -8,6 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: [7, 14, 15]
 basado_en: contenido/06-basico/lenguaje-y-comunicacion.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 7","3":"OA 7","4":"OA 7","5":"OA 14","6":"OA 14","8":"OA 14","11":"OA 15"}
 ---
 
 # Prueba de Unidad 2 — Lenguaje y Comunicación — 6° básico
@@ -16,7 +17,7 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 25-30 minutos · **N° de preguntas:** 12
 
-**Instrucciones:** lee con atención los textos antes de responder. Las preguntas de alternativas tienen una sola respuesta correcta. Las preguntas de desarrollo se responden con oraciones completas.
+**Instrucciones:** lee con atención los textos antes de responder. Las preguntas de alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca todas las correctas», puede haber más de una.
 
 ---
 
@@ -39,71 +40,86 @@ ultima_actualizacion: 2026-10-28
 
 **1. (Alternativas — OA7)** ¿Cuál es el **propósito** principal de la Fuente 1 (comunicado municipal)?
 
-a) Informar de manera equilibrada incluyendo críticas de los vecinos
-b) Informar y destacar positivamente una obra realizada por la propia Municipalidad
-c) Vender espacios publicitarios en la ciclovía
-d) Entretener con una historia ficticia
+a) Informar de manera equilibrada, incluyendo también las críticas de los vecinos
+b) Vender espacios publicitarios a los comercios ubicados junto a la ciclovía
+c) Informar y destacar positivamente una obra realizada por la propia Municipalidad
+d) Entretener a los vecinos con una historia ficticia sobre ciclistas del barrio
 
 **2. (Verdadero o Falso — OA7)** La Fuente 2 entrega una cifra exacta de cuánto han disminuido las ventas de los comerciantes del sector.
 
-**3. (Desarrollo breve — OA7)** Compara cómo la Fuente 1 y la Fuente 2 presentan la misma noticia (la nueva ciclovía). ¿En qué se diferencian principalmente?
+**3. (Alternativas — OA7)** Compara cómo la Fuente 1 y la Fuente 2 presentan la misma noticia (la nueva ciclovía). ¿En qué se diferencian principalmente?
+
+a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y quejas de comerciantes, con una visión más equilibrada
+b) Las dos dicen exactamente lo mismo sobre la ciclovía, con las mismas opiniones de vecinos y comerciantes, aunque una es más corta que la otra
+c) La Fuente 1 critica la ciclovía por los problemas que causó a los comerciantes, y la Fuente 2 no la menciona, porque habla de otro tema de la comuna
+d) La Fuente 2 es un poema sobre las bicicletas y la ciudad, por lo que no entrega información sobre la ciclovía ni sobre la opinión de los vecinos
 
 **4. (Alternativas — OA7)** ¿Cuál es el **destinatario** más probable de la Fuente 2?
 
-a) Solo los funcionarios de la Municipalidad
-b) Lectores interesados en la actualidad de la comuna de Ñuñoa
-c) Únicamente los ciclistas profesionales
-d) Turistas extranjeros
+a) Solo los funcionarios de la Municipalidad que construyeron la ciclovía
+b) Turistas extranjeros que visitan Santiago durante el verano
+c) Únicamente los ciclistas profesionales que entrenan en la comuna
+d) Lectores interesados en la actualidad de la comuna de Ñuñoa
 
 **5. (Alternativas — OA14)** ¿Qué significa "mantener los referentes" en una narración?
 
-a) Repetir siempre el mismo conector en cada oración
-b) Asegurarse de que quien lee siempre sepa con claridad a quién o a qué se refiere cada pronombre o expresión
-c) Usar solo diálogos, sin ninguna descripción
-d) Escribir la historia sin ningún personaje
+a) Repetir siempre el mismo conector en cada oración, para que quien lee no se pierda en la historia
+b) Usar solo diálogos entre los personajes, sin ninguna descripción del narrador ni del ambiente
+c) Asegurarse de que quien lee siempre sepa con claridad a quién o a qué se refiere cada pronombre o expresión
+d) Escribir la historia sin ningún personaje, para que no haya confusión sobre a quién se refiere cada palabra
 
-**6. (Aplicación — OA14)** Corrige el siguiente fragmento para que los referentes queden claros: "Sofía y Valentina fueron al museo. Ella se quedó mirando los cuadros mientras ella tomaba fotos."
+**6. (Alternativas — OA14)** ¿Qué corrección deja claros los referentes del fragmento "Sofía y Valentina fueron al museo. Ella se quedó mirando los cuadros mientras ella tomaba fotos."?
+
+a) Ella se quedó mirando los cuadros mientras ella tomaba fotos.
+b) Ellas se quedó mirando los cuadros mientras tomaba fotos.
+c) Se quedó mirando los cuadros mientras ella tomaba fotos.
+d) Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos.
 
 **7. (Verdadero o Falso — OA14)** Un relato puede tener conflicto evidente aunque nunca se resuelva ni se mencione cómo el personaje lo enfrenta.
 
 **8. (Alternativas — OA14)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar una consecuencia?
 
-a) "Y, y, y, y"
-b) "Primero, después, como resultado, finalmente"
-c) "Manzana, pera, plátano, uva"
-d) "Rápido, lento, alto, bajo"
+a) "Primero, después, como resultado, finalmente"
+b) "Sin embargo, aunque, en cambio, por el contrario"
+c) "Además, también, asimismo, igualmente"
+d) "Por ejemplo, es decir, o sea, como"
 
 **9. (Alternativas — OA15)** ¿Qué elemento nuevo debe incluir la estructura de un artículo informativo en 6° básico, que no era exigido de la misma forma en 5° básico?
 
-a) Un título llamativo
+a) Un título llamativo y una imagen que atraigan al lector desde el inicio
 b) Un párrafo de síntesis final que retome las ideas principales
-c) Solo un párrafo de extensión
-d) Dibujos obligatorios
+c) Solo un párrafo de extensión, sin subtítulos
+d) Dibujos obligatorios en cada uno de los párrafos
 
 **10. (Verdadero o Falso — OA15)** El párrafo de síntesis final de un artículo informativo debe agregar información completamente nueva que no se mencionó antes en el texto.
 
-**11. (Desarrollo breve — OA15)** ¿Por qué es útil para el lector que un artículo informativo termine con un párrafo de síntesis?
+**11. (Alternativas — OA15)** ¿Por qué es útil para el lector que un artículo informativo termine con un párrafo de síntesis?
+
+a) Porque así el artículo es más largo y cumple con la extensión pedida
+b) Porque permite recordar y ordenar las ideas principales sin releer todo el texto
+c) Porque agrega información nueva que no se mencionó antes en el artículo
+d) No es útil, porque el lector ya leyó toda la información en los párrafos anteriores
 
 **12. (Alternativas — OA15)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el ahorro de agua?
 
-a) "Ahorrar agua es bueno. Ahorrar agua ayuda. Ahorrar agua es importante."
+a) "Ahorrar agua es bueno. Ahorrar agua ayuda. Ahorrar agua es importante. Ahorrar agua sirve para el hogar y ahorrar agua es necesario."
 b) "Ahorrar agua contribuye a proteger este recurso escaso, disminuye el gasto en las cuentas del hogar y beneficia a los ecosistemas."
-c) "Agua agua agua es lo mejor lo mejor."
-d) "El agua agua agua ayuda ayuda ayuda."
+c) "Agua agua agua es lo mejor lo mejor, y el agua agua ayuda a todos los que ahorran agua agua."
+d) "El agua agua agua ayuda ayuda ayuda, porque el agua es agua y ahorrar agua ayuda a ahorrar agua."
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** Al ser un comunicado del propio emisor de la obra, su propósito es informar resaltando los aspectos positivos, sin incluir las críticas que sí aparecen en la Fuente 2.
+1. **c.** Al ser un comunicado del propio emisor de la obra, su propósito es informar resaltando los aspectos positivos, sin incluir las críticas que sí aparecen en la Fuente 2.
 2. **Falso.** La Fuente 2 menciona que los comerciantes afirman que sus ventas han bajado, pero no entrega ninguna cifra concreta.
-3. La Fuente 1 presenta la noticia de forma completamente positiva, sin mencionar problemas, mientras que la Fuente 2 incluye tanto opiniones favorables como las quejas de los comerciantes, mostrando una visión más equilibrada.
-4. **b.** Al ser un reportaje de un medio de noticias local, su destinatario natural son los lectores interesados en la actualidad de la comuna.
-5. **b.** Mantener los referentes significa evitar la ambigüedad, para que expresiones como "él", "ella" o "esta última" siempre se entiendan sin confusión.
-6. Cualquier corrección que elimine la ambigüedad, por ejemplo: "Sofía y Valentina fueron al museo. Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos."
+3. a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y quejas de comerciantes, con una visión más equilibrada
+4. **d.** Al ser un reportaje de un medio de noticias local, su destinatario natural son los lectores interesados en la actualidad de la comuna.
+5. **c.** Mantener los referentes significa evitar la ambigüedad, para que expresiones como "él", "ella" o "esta última" siempre se entiendan sin confusión.
+6. d) Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos. Con dos personajes del mismo género, conviene usar sus nombres en vez de un pronombre ambiguo.
 7. **Falso.** Para que una narración esté bien construida, el conflicto evidente debe resolverse de alguna manera a lo largo del relato.
-8. **b.** "Primero" y "después" ordenan los sucesos en el tiempo, "como resultado" marca causa-consecuencia, y "finalmente" cierra el relato.
+8. **a.** "Primero" y "después" ordenan los sucesos en el tiempo, "como resultado" marca causa-consecuencia, y "finalmente" cierra el relato.
 9. **b.** La estructura ahora exige explícitamente presentación, desarrollo y una síntesis final de las principales ideas.
 10. **Falso.** El párrafo de síntesis debe retomar y resumir las ideas ya desarrolladas, no introducir información nueva.
-11. Porque le permite al lector recordar y ordenar las ideas principales del texto sin tener que releerlo completo, reforzando su comprensión general del tema.
+11. b) Porque permite recordar y ordenar las ideas principales sin releer todo el texto
 12. **b.** Evita repetir la misma expresión en cada oración, usando sinónimos y frases distintas, lo que hace el texto más claro de leer.

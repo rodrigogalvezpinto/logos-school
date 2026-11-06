@@ -7,13 +7,13 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 8
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 1 a OA 4)
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","4":"OA 2","8":"OA 4"}
 ---
 
 # Prueba de Unidad — Eje Historia (2° Básico)
 
 **Tiempo sugerido:** 15-20 minutos
-**Instrucciones para el estudiante:** Lee cada pregunta con calma. Marca con una X la
-alternativa correcta o responde en el espacio indicado. Si no recuerdas algo, sigue adelante
+**Instrucciones para el estudiante:** Lee cada pregunta con calma. Marca con una X la alternativa correcta. Si no recuerdas algo, sigue adelante
 y vuelve después.
 
 ---
@@ -21,14 +21,19 @@ y vuelve después.
 **1. (Alternativas)** ¿Qué significa que un pueblo sea "nómade"?
 
 a) Que vive siempre en el mismo lugar y cultiva la tierra
-b) Que se traslada de un lugar a otro sin vivienda permanente
-c) Que solo vive en ciudades grandes
+b) Que solo vive en ciudades grandes
+c) Que se traslada de un lugar a otro sin vivienda permanente
 d) Que no tiene idioma propio
 
 ---
 
-**2. (Análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa junto a canales e
+**2. (Alternativas — análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa junto a canales e
 islas en el extremo sur del país. ¿A qué pueblo o pueblos corresponde este ícono?
+
+a) A los rapa nui, que navegaban en canoas por Isla de Pascua
+b) A los aymara, que vivían en el altiplano del norte del país
+c) A los mapuche, que vivían en los valles y bosques del centro-sur
+d) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
 
 ---
 
@@ -41,30 +46,32 @@ d) Carnaval de Río
 
 ---
 
-**4. (Relacionar / emparejar)** Clasifica cada elemento según si se ha **mantenido** o ha
-**cambiado** en los pueblos indígenas actuales respecto al período precolombino:
+**4. (Alternativas — clasificar)** ¿Cuál de estos elementos **se ha mantenido** en los
+pueblos indígenas actuales desde el período precolombino?
 
-1) Usar celulares e internet — 2) Practicar tejidos y artesanía tradicional — 3) Vivir
-exclusivamente en el campo, sin ciudades
-
-a) Se mantiene — b) Ha cambiado
+a) Usar celulares e internet
+b) Practicar tejidos y artesanía tradicional
+c) Vivir exclusivamente en el campo, sin ciudades
+d) Viajar en avión
 
 ---
 
 **5. (Alternativas)** ¿Qué significa que la sociedad chilena sea "mestiza"?
 
 a) Que nació de la mezcla entre pueblos indígenas y españoles
-b) Que solo tiene origen español
-c) Que solo tiene origen indígena
-d) Que no tiene ningún origen definido
+b) Que solo tiene origen español, porque llegaron los españoles
+c) Que solo tiene origen indígena, porque aquí vivían los pueblos
+d) Que no tiene ningún origen definido ni una historia propia
 
 ---
 
-**6. (Relacionar / emparejar)** Clasifica cada elemento según su origen principal:
+**6. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son un **aporte
+indígena** a nuestra cultura? Marca todas las correctas.
 
-1) El idioma español — 2) La papa y el choclo — 3) La religión católica — 4) El palín
-
-a) Aporte indígena — b) Aporte español
+a) El idioma español
+b) La papa y el choclo
+c) La religión católica
+d) El palín
 
 ---
 
@@ -78,23 +85,30 @@ d) Colombia
 
 ---
 
-**8. (Relacionar / emparejar)** Une cada grupo de inmigrantes con un aporte característico que
+**8. (Alternativas — unir)** Une cada grupo de inmigrantes con un aporte característico que
 trajeron a Chile:
 
 1) Inmigrantes alemanes — 2) Inmigrantes chinos y coreanos — 3) Inmigrantes árabes
 
-a) Comida como el arroz chaufán — b) Arquitectura de madera y kuchen — c) Pan árabe y dulces
-como el baklava
+Aportes: (A) Comida como el arroz chaufán — (B) Arquitectura de madera y kuchen — (C) Pan
+árabe y dulces como el baklava
+
+¿Qué combinación es correcta?
+
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** Que se traslada de un lugar a otro sin vivienda permanente
-2. A los pueblos canoeros australes, como los chonos, kawésqar y yaganes.
+1. **c)** Que se traslada de un lugar a otro sin vivienda permanente
+2. d) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
 3. **b)** We Tripantu
-4. 1-b, 2-a, 3-b
+4. b) Practicar tejidos y artesanía tradicional. Hoy muchas familias indígenas viven en ciudades y usan tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía.
 5. **a)** Que nació de la mezcla entre pueblos indígenas y españoles
-6. 1-b, 2-a, 3-b, 4-a
+6. b y d — La papa, el choclo y el palín son aportes indígenas; el idioma español y la religión católica son aportes españoles.
 7. **a)** Alemania
-8. 1-b, 2-a, 3-c
+8. d) 1-B, 2-A, 3-C

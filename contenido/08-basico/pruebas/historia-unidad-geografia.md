@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 8° Básico
-oa_por_pregunta: {"3":"OA 20","8":"OA 21","13":"OA 22"}
+oa_por_pregunta: {"1":"OA 20","3":"OA 20","6":"OA 21","7":"OA 21","8":"OA 21","11":"OA 22","12":"OA 22","13":"OA 22"}
 eje: Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos
@@ -26,10 +26,10 @@ de desarrollo aplicado a las regiones de Chile.
 **1. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de región definida principalmente por
 criterios humanos, más que físicos?
 
-a) La región de la Patagonia, definida por su clima frío
-b) La región andina, definida por elementos culturales compartidos entre países
-c) La cordillera de los Andes, definida por el relieve
-d) El desierto de Atacama, definido por su clima árido
+a) La región andina, definida por elementos culturales compartidos entre países
+b) La región de la Patagonia, definida principalmente por su clima frío y ventoso
+c) La cordillera de los Andes, definida principalmente por su relieve elevado
+d) El desierto de Atacama, definido principalmente por su clima árido y seco
 
 ---
 
@@ -38,55 +38,73 @@ político-administrativa) siempre coinciden exactamente en sus límites territor
 
 ---
 
-**3. (Desarrollo breve)** Explica la diferencia entre una región definida por factores físicos y
-una región definida por factores humanos, dando un ejemplo de cada una.
+**3. (Alternativas)** ¿Qué opción distingue correctamente una región definida por factores físicos y una definida por factores humanos?
+
+a) Física: basada en clima, relieve o vegetación (p. ej., una región desértica). Humana: basada en lengua, religión o historia compartida (p. ej., una región cultural)
+b) Física: basada en la lengua o la religión de sus habitantes (p. ej., una región cultural). Humana: basada en el relieve o el clima (p. ej., una región desértica)
+c) Ambas se basan solo en límites administrativos fijados por ley, y la diferencia está únicamente en el nombre que reciben en los mapas oficiales
+d) No existe diferencia entre ellas: toda región se define a la vez por el clima y por la cultura, de modo que no es posible separar ambos criterios
 
 ---
 
-**4. (Análisis de mapa)** Imagina un mapa de Chile que divide el territorio nacional en unidades
-con nombre, número, capital regional y límites administrativos definidos por ley. ¿Qué tipo de
-región representa este mapa?
+**4. (Alternativas — análisis de mapa)** Un mapa de Chile divide el territorio en unidades con nombre, número, capital regional y límites definidos por ley. ¿Qué tipo de región representa?
+
+a) Una región geográfica natural
+b) Una región cultural o histórica
+c) Una región económica productiva
+d) Una región político-administrativa
 
 ---
 
 **5. (Alternativas)** ¿Qué factores influyen principalmente en el grado de aislamiento de una
 región o localidad?
 
-a) Solo la cantidad de habitantes que tiene
+a) Solo la cantidad de habitantes que tiene la región o la localidad
 b) Las redes de transporte y comunicaciones, y el acceso a bienes, servicios e información
-c) Únicamente el clima de la región
-d) Solamente la cantidad de universidades presentes en la región
+c) Únicamente el clima de la región y la cantidad de lluvia que recibe al año
+d) Solamente la cantidad de universidades y colegios presentes en la región
 
 ---
 
-**6. (Relacionar / emparejar)** Une cada problemática territorial con un ejemplo:
+**6. (Alternativas — unir)** Une cada problemática territorial con un ejemplo:
 
 1) Relación centro-periferia — 2) Migración — 3) Aislamiento
 
-a) Una localidad cordillerana sin acceso a internet ni transporte público regular — b)
-Concentración de servicios especializados en la capital, frente a menor disponibilidad en
-regiones — c) Llegada o salida sostenida de personas desde o hacia una región
+Ejemplos: (A) Una localidad cordillerana sin acceso a internet ni transporte público regular — (B) Concentración de servicios especializados en la capital, frente a menor disponibilidad en regiones — (C) Llegada o salida sostenida de personas desde o hacia una región
+
+¿Qué combinación es correcta?
+
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
 ---
 
-**7. (Análisis de datos)** Imagina una tabla que muestra que, en los últimos diez años, una región
-del sur de Chile ha perdido población joven (que migra hacia otras regiones) mientras aumenta la
-proporción de población adulta mayor. ¿Qué impacto probable tendría esta situación en el mercado
-laboral de esa región?
+**7. (Alternativas — análisis de datos)** Una tabla muestra que, en diez años, una región del sur de Chile perdió población joven (que migra) mientras aumentó la proporción de adultos mayores. ¿Qué impacto probable tendría en su mercado laboral?
+
+a) Exceso de trabajadores jóvenes sin empleo, porque las empresas prefieren contratar adultos mayores
+b) Ningún cambio relevante en el mercado laboral, porque los adultos mayores reemplazan a los jóvenes
+c) Escasez de mano de obra joven y mayor demanda de servicios para adultos mayores, como salud geriátrica
+d) Cierre de todos los servicios de salud, porque los adultos mayores se trasladan a la capital a atenderse
 
 ---
 
-**8. (Desarrollo breve)** Explica cómo la relación centro-periferia puede afectar el acceso de las
-personas que viven en regiones alejadas de Santiago a determinados servicios o bienes.
+**8. (Alternativas)** ¿Cómo puede afectar la relación centro-periferia a las personas que viven en regiones alejadas de Santiago?
+
+a) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales
+b) Tienen siempre más servicios que quienes viven en Santiago, porque el Estado invierte más en las regiones alejadas para compensar la distancia
+c) No les afecta en nada, porque hoy todos los servicios, la inversión y el empleo están distribuidos de forma equitativa en todo el territorio
+d) Las obliga a todas a trasladarse a vivir en la capital, porque en las regiones alejadas no existe ningún tipo de servicio ni de empleo
 
 ---
 
 **9. (Alternativas)** ¿Qué dimensiones combina el Índice de Desarrollo Humano (IDH)?
 
-a) Solo el ingreso económico de la población
+a) Solo el ingreso económico promedio de la población
 b) Salud (esperanza de vida), educación y nivel de vida (ingreso)
 c) Únicamente la cantidad de exportaciones de una región
-d) Solo la superficie territorial de una región
+d) Solo la superficie territorial y la población de una región
 
 ---
 
@@ -96,52 +114,52 @@ generaciones.
 
 ---
 
-**11. (Relacionar / emparejar)** Une cada concepto con su definición:
+**11. (Alternativas — unir)** Une cada concepto con su definición:
 
 1) Ventaja comparativa — 2) Inserción en mercados internacionales — 3) Diversidad productiva
 
-a) Participación de una región, directamente o mediante exportaciones, en el comercio con otros
-países — b) Capacidad de una región para producir eficientemente cierto bien, dadas sus
-condiciones particulares — c) Existencia de varios sectores económicos en una misma región, en
-lugar de depender de uno solo
+Definiciones: (A) Participación de una región, directamente o mediante exportaciones, en el comercio con otros países — (B) Capacidad de una región para producir eficientemente cierto bien, dadas sus condiciones particulares — (C) Existencia de varios sectores económicos en una misma región, en lugar de depender de uno solo
+
+¿Qué combinación es correcta?
+
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
 ---
 
-**12. (Análisis de datos)** Imagina una tabla que compara dos regiones: la Región A tiene un
-ingreso per cápita alto, pero baja esperanza de vida y bajo nivel educacional; la Región B tiene
-un ingreso per cápita algo menor, pero mayor esperanza de vida y mejor nivel educacional. Según el
-concepto de IDH, ¿qué región tendría probablemente mejores indicadores de desarrollo humano?
+**12. (Alternativas — análisis de datos)** La Región A tiene ingreso per cápita alto, pero baja esperanza de vida y bajo nivel educacional; la Región B tiene un ingreso algo menor, pero mayor esperanza de vida y mejor educación. Según el IDH, ¿qué región tendría probablemente mejores indicadores de desarrollo humano?
+
+a) La Región A, porque el IDH mide solo el ingreso per cápita de la población
+b) La Región B, porque el IDH considera también salud y educación, no solo el ingreso
+c) Ambas tienen el mismo IDH, porque el índice no considera la educación
+d) Ninguna, porque el IDH solo se calcula para países y no para regiones
 
 ---
 
-**13. (Desarrollo breve)** Explica qué significa que una región tenga una "ventaja comparativa" en
-determinada actividad productiva, dando un ejemplo.
+**13. (Alternativas)** ¿Qué significa que una región tenga una "ventaja comparativa" en una actividad productiva?
+
+a) Que produce todos los bienes mejor y más barato que cualquier otra región, por lo que no necesita comerciar con ninguna otra ni especializarse en una actividad
+b) Que no exporta ningún producto, porque consume dentro de la misma región todo lo que produce gracias a sus condiciones naturales, humanas o tecnológicas
+c) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería
+d) Que depende completamente de las importaciones, porque se especializa en una sola actividad productiva y debe comprar todo lo demás a otras regiones o países
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** La región andina, definida por elementos culturales compartidos entre países
+1. **a)** La región andina, definida por elementos culturales compartidos entre países
 2. **Falso** — una misma zona puede analizarse con distintos criterios de región, y esos
    criterios no necesariamente producen los mismos límites territoriales
-3. Las regiones definidas por factores físicos se basan en rasgos como el clima, el relieve o la
-   vegetación (ej. una región desértica); las definidas por factores humanos se basan en rasgos
-   como la lengua, la religión o la historia compartida (ej. una región cultural)
-4. Una región político-administrativa, definida formalmente por el Estado para fines de gobierno
-   y administración del territorio
+3. a) Física: basada en clima, relieve o vegetación (p. ej., una región desértica). Humana: basada en lengua, religión o historia compartida (p. ej., una región cultural). Cada tipo de región pone el foco en rasgos distintos del territorio.
+4. d) Una región político-administrativa. Los mapas de división político-administrativa son la representación más habitual de este tipo de región.
 5. **b)** Las redes de transporte y comunicaciones, y el acceso a bienes, servicios e información
-6. 1-b, 2-c, 3-a
-7. Probablemente enfrentaría escasez de mano de obra joven, dificultades para cubrir ciertos
-   empleos y una mayor demanda de servicios orientados a la población adulta mayor (como salud
-   geriátrica)
-8. Al concentrarse servicios especializados, inversión y oportunidades laborales en el centro
-   (Santiago), las personas de regiones periféricas pueden tener menor acceso a estos bienes y
-   servicios, o deben trasladarse largas distancias para obtenerlos
+6. b) 1-B, 2-C, 3-A. Reconocer estos ejemplos ayuda a identificar problemáticas territoriales concretas en distintas regiones del país.
+7. c) Escasez de mano de obra joven y mayor demanda de servicios para adultos mayores, como salud geriátrica. Interpretar datos demográficos permite anticipar impactos concretos en el empleo y los servicios.
+8. a) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales. La concentración en el centro genera desigualdades de acceso entre territorios.
 9. **b)** Salud (esperanza de vida), educación y nivel de vida (ingreso)
 10. **Verdadero**
-11. 1-b, 2-a, 3-c
-12. Probablemente la Región B, ya que el IDH no se basa solo en el ingreso, sino que también
-    pondera fuertemente la salud (esperanza de vida) y la educación
-13. Que una región puede producir cierto bien de forma relativamente más eficiente que otras,
-    debido a sus condiciones naturales, humanas o tecnológicas (ej. una región con abundantes
-    recursos mineros especializada en minería)
+11. d) 1-B, 2-A, 3-C. Estos conceptos permiten analizar de forma más completa la situación económica y el desarrollo de una región.
+12. b) La Región B, porque el IDH considera también salud y educación, no solo el ingreso. El concepto de desarrollo humano entrega una imagen más completa que mirar únicamente el ingreso.
+13. c) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería. La ventaja comparativa se basa en las condiciones particulares de cada región.

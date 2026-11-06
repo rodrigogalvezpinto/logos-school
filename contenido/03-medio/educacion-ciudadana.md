@@ -122,10 +122,10 @@ pide este OA.
 **1. (Alternativas)** ¿Cuál de los siguientes NO corresponde a un fundamento de la democracia
 según lo estudiado?
 
-a) La soberanía popular
-b) El respeto a los Derechos Humanos
+a) La soberanía popular, que radica en la ciudadanía
+b) El respeto a los Derechos Humanos de todas las personas
 c) La superioridad de un partido político sobre los demás
-d) La dignidad de la persona
+d) La dignidad de la persona como base de los derechos
 
 ✅ Respuesta correcta: **c) La superioridad de un partido político sobre los demás**
 💬 *Retroalimentación:* La democracia se funda en la soberanía popular, el respeto a los
@@ -144,55 +144,54 @@ pública.
 
 ---
 
-**3. (Términos pareados)** Relaciona cada atributo con su definición:
+**3. (Alternativas — unir)** Une cada atributo de la democracia con su definición:
 
 1) Igualdad de voto — 2) Estado de Derecho — 3) Participación efectiva
 
-a) Todo poder se ejerce dentro de los límites que fija la ley
-b) La ciudadanía puede influir en las decisiones antes de que se tomen
-c) Cada voto tiene el mismo peso, sin importar quién lo emite
+Definiciones: (A) Todo poder se ejerce dentro de los límites que fija la ley — (B) La ciudadanía puede influir en las decisiones antes de que se tomen — (C) Cada voto tiene el mismo peso, sin importar quién lo emite
 
-✅ Respuesta correcta: **1-c, 2-a, 3-b**
-💬 *Retroalimentación:* Cada atributo describe una condición distinta y verificable de una
-democracia que funciona: peso igual del voto, límites legales al poder, y capacidad real de
-influir antes de decidir.
+¿Qué combinación es correcta?
+a) 1-C, 2-A, 3-B
+b) 1-A, 2-B, 3-C
+c) 1-B, 2-C, 3-A
+d) 1-C, 2-B, 3-A
 
----
-
-**4. (Análisis de caso)** En un país, las elecciones se realizan regularmente, pero los medios
-de comunicación críticos al gobierno son cerrados por decreto y sus periodistas, detenidos sin
-orden judicial. ¿Este país cumple con los atributos de una democracia? Justifica.
-
-✅ Respuesta esperada: No los cumple plenamente. Aunque existan elecciones, se están violando el
-**respeto a las libertades fundamentales** (libertad de prensa) y el **Estado de Derecho**
-(detenciones sin orden judicial), que son atributos indispensables junto con la igualdad de
-voto y la participación efectiva.
-💬 *Retroalimentación:* Elecciones periódicas son necesarias, pero no son suficientes: una
-democracia real requiere que se respeten simultáneamente todos sus atributos, no solo el voto.
+✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Cada atributo describe una condición distinta y verificable de una democracia que funciona.
 
 ---
 
-**5. (Desarrollo breve)** Explica con tus palabras por qué la dignidad de la persona se
-considera un fundamento de la democracia y no solo un valor moral abstracto.
+**4. (Alternativas — análisis de caso)** En un país hay elecciones regulares, pero los medios críticos al gobierno son cerrados por decreto y sus periodistas, detenidos sin orden judicial. ¿Cumple con los atributos de una democracia?
+a) Sí, porque basta con que existan elecciones regulares para que un país sea democrático, aunque se cierren medios de prensa
+b) Sí, porque el gobierno elegido puede cerrar medios de comunicación si considera que afectan el orden público del país
+c) No, porque en una democracia no pueden existir medios de comunicación críticos del gobierno ni periodistas de oposición
+d) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)
 
-✅ Respuesta esperada: Porque de la dignidad de la persona se derivan derechos y deberes
-concretos que el Estado debe garantizar (debido proceso, no discriminación, protección de la
-integridad), y esas garantías son las que hacen posible que las personas participen libremente
-en la vida pública, condición básica de cualquier democracia.
-💬 *Retroalimentación:* Un buen desarrollo conecta el fundamento (dignidad) con implicancias
-prácticas (deberes del Estado, derechos ciudadanos), tal como pide el OA.
+✅ Respuesta correcta: **d) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)**
+💬 *Retroalimentación:* Las elecciones son necesarias, pero no suficientes: una democracia requiere todos sus atributos a la vez.
+
+---
+
+**5. (Alternativas)** ¿Por qué la dignidad de la persona es un fundamento de la democracia y no solo un valor moral abstracto?
+a) Porque es solo una idea filosófica sin consecuencias prácticas: los derechos y deberes concretos se derivan de las leyes que aprueba cada mayoría, no de la dignidad de las personas
+b) Porque se aplica únicamente a quienes votan
+c) Porque permite que el Estado decida quién tiene derechos según su aporte a la sociedad, y así ordena la participación de las personas en la vida pública de manera eficiente
+d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública
+
+✅ Respuesta correcta: **d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública**
+💬 *Retroalimentación:* Un buen análisis conecta el fundamento con implicancias prácticas.
 
 ---
 
 **6. (Alternativas)** Un Estado que respeta las libertades fundamentales de las personas está,
 sobre todo, protegiendo:
 
-a) Los intereses del gobierno de turno
-b) Un principio base de la democracia y la ciudadanía
-c) Solo los intereses de la mayoría electoral
-d) Los intereses de las Fuerzas Armadas
+a) Los intereses del gobierno de turno y de sus partidarios
+b) Los intereses de las Fuerzas Armadas
+c) Solo los intereses de la mayoría que ganó la última elección
+d) Un principio base de la democracia y la ciudadanía
 
-✅ Respuesta correcta: **b) Un principio base de la democracia y la ciudadanía**
+✅ Respuesta correcta: **d) Un principio base de la democracia y la ciudadanía**
 💬 *Retroalimentación:* Las libertades fundamentales (expresión, reunión, asociación, entre
 otras) son un principio de la democracia, no un favor del gobierno de turno ni algo condicionado
 a lo que decida una mayoría.
@@ -214,11 +213,11 @@ práctica.
 democracia?
 
 a) La dignidad de la persona
-b) La participación efectiva
+b) El respeto a los Derechos Humanos
 c) La soberanía popular
-d) El respeto a los Derechos Humanos
+d) La participación efectiva
 
-✅ Respuesta correcta: **b) La participación efectiva**
+✅ Respuesta correcta: **d) La participación efectiva**
 💬 *Retroalimentación:* La participación efectiva es un atributo observable de un sistema
 democrático (se puede constatar si la ciudadanía influye antes de que se tomen las
 decisiones), mientras que la dignidad, la soberanía popular y el respeto a los DD. HH. son
@@ -235,26 +234,25 @@ una persona o grupo por herencia o imposición, sino que proviene de la ciudadan
 
 ---
 
-**10. (Análisis de caso)** En un país se realizan elecciones periódicas, pero la ley solo
-permite postular a candidatos de un único partido autorizado por el gobierno. ¿Qué fundamento
-de la democracia se ve vulnerado con esta restricción? Justifica.
+**10. (Alternativas — análisis de caso)** En un país hay elecciones periódicas, pero solo pueden postular candidatos de un único partido autorizado. ¿Qué fundamento de la democracia se vulnera?
+a) La igualdad de voto, porque todos los ciudadanos votan igual por el mismo partido
+b) Ninguno, porque hay elecciones periódicas y cada persona puede votar libremente
+c) La soberanía popular, porque la ciudadanía no puede optar entre alternativas reales
+d) El Estado de Derecho, porque hay demasiados partidos que quieren postular candidatos
 
-✅ Respuesta esperada: Se vulnera la **soberanía popular**, porque el poder no emana realmente
-de una elección libre si la ciudadanía no puede optar entre alternativas políticas reales; la
-sola existencia de elecciones no basta si de antemano se restringe quién puede competir.
-💬 *Retroalimentación:* Elecciones sin pluralismo político real no expresan la voluntad popular
-de forma genuina, aunque formalmente se llamen "elecciones".
+✅ Respuesta correcta: **c) La soberanía popular, porque la ciudadanía no puede optar entre alternativas reales**
+💬 *Retroalimentación:* Elecciones sin pluralismo político no expresan genuinamente la voluntad popular.
 
 ---
 
-**11. (Desarrollo breve)** Explica, con un ejemplo, qué significa la "participación efectiva"
-como atributo de la democracia.
+**11. (Alternativas)** ¿Qué ejemplo ilustra mejor la "participación efectiva"?
+a) Una consulta ciudadana previa a la aprobación de una ley que afecta a un barrio
+b) Enterarse por la prensa de una ley que ya fue aprobada y publicada
+c) Opinar en redes sociales después de que la decisión ya se tomó en el barrio
+d) No participar de ninguna instancia
 
-✅ Respuesta esperada: Es la posibilidad de que la ciudadanía exprese sus preferencias e influya
-en una decisión **antes** de que esta se tome, y no solo se entere de ella después. Por
-ejemplo, una consulta ciudadana previa a la aprobación de una ley que afecta a un barrio.
-💬 *Retroalimentación:* La clave está en el momento: participar "antes" de decidir, no solo
-opinar una vez que la decisión ya está tomada.
+✅ Respuesta correcta: **a) Una consulta ciudadana previa a la aprobación de una ley que afecta a un barrio**
+💬 *Retroalimentación:* La clave está en el momento: influir antes de que se decida.
 
 ---
 
@@ -262,12 +260,12 @@ opinar una vez que la decisión ya está tomada.
 el cargo de mayor autoridad, pueda actuar fuera de lo que la ley permite, corresponde al
 atributo de:
 
-a) Igualdad de voto
-b) Estado de Derecho
+a) Estado de Derecho
+b) Igualdad de voto
 c) Control de la agenda
 d) Participación efectiva
 
-✅ Respuesta correcta: **b) Estado de Derecho**
+✅ Respuesta correcta: **a) Estado de Derecho**
 💬 *Retroalimentación:* El Estado de Derecho exige que todo poder, incluido el de la máxima
 autoridad, se ejerza dentro de los límites que fija la ley, sin excepciones.
 
@@ -282,28 +280,25 @@ lo mismo, sin importar el patrimonio o el nivel de estudios de quien lo emite.
 
 ---
 
-**14. (Análisis de caso)** Un grupo de estudiantes recolecta firmas para que el Congreso ponga
-en discusión un proyecto de ley sobre salud mental, tema que hasta entonces no figuraba en la
-discusión pública. ¿Qué atributo de la democracia ilustra esta acción?
+**14. (Alternativas — análisis de caso)** Estudiantes recolectan firmas para que el Congreso discuta un proyecto sobre salud mental, tema que no estaba en la discusión pública. ¿Qué atributo ilustra?
+a) La igualdad de voto
+b) La alternancia en el poder
+c) La división de poderes
+d) El control de la agenda
 
-✅ Respuesta esperada: Ilustra el **control de la agenda**, porque muestra a la ciudadanía —y no
-solo al gobierno de turno— instalando un tema en la discusión pública.
-💬 *Retroalimentación:* El control de la agenda no depende de que el gobierno "permita" un
-tema: es un atributo que reconoce la capacidad ciudadana de proponerlo.
+✅ Respuesta correcta: **d) El control de la agenda**
+💬 *Retroalimentación:* El control de la agenda reconoce la capacidad ciudadana de instalar temas, no depende de que el gobierno lo permita.
 
 ---
 
-**15. (Desarrollo breve)** Explica de qué manera cumplir con las responsabilidades ciudadanas
-(por ejemplo, informarse y respetar los derechos de otros) contribuye a sostener en la
-práctica los fundamentos y atributos de la democracia.
+**15. (Varias correctas)** ¿Cómo contribuye cumplir con las responsabilidades ciudadanas a sostener la democracia? Marca **todas** las correctas.
+a) Una ciudadanía informada puede participar efectivamente y fiscalizar el Estado de Derecho
+b) Respetar los derechos de los demás sostiene la igualdad y la dignidad como fundamentos vividos
+c) Sin ese ejercicio activo, la democracia se debilita aunque existan reglas formales
+d) Las responsabilidades ciudadanas no tienen relación con la democracia
 
-✅ Respuesta esperada: Los fundamentos y atributos de la democracia no se sostienen solos: una
-ciudadanía informada puede ejercer participación efectiva y fiscalizar el Estado de Derecho;
-respetar los derechos de los demás sostiene la igualdad y la dignidad como fundamentos vividos,
-no solo declarados. Sin ese ejercicio activo, la democracia queda debilitada aunque las reglas
-formales existan.
-💬 *Retroalimentación:* Una buena respuesta conecta responsabilidades ciudadanas concretas con
-fundamentos o atributos específicos, no solo los menciona por separado.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Los fundamentos y atributos de la democracia no se sostienen solos.
 
 ---
 
@@ -372,11 +367,11 @@ para revisar decisiones de tribunales inferiores.
 la acción penal en representación de la sociedad?
 
 a) La Defensoría Penal Pública
-b) El Ministerio Público (Fiscalía)
+b) La Contraloría General de la República
 c) La Corporación de Asistencia Judicial
-d) La Contraloría General de la República
+d) El Ministerio Público (Fiscalía)
 
-✅ Respuesta correcta: **b) El Ministerio Público (Fiscalía)**
+✅ Respuesta correcta: **d) El Ministerio Público (Fiscalía)**
 💬 *Retroalimentación:* El Ministerio Público investiga los delitos y ejerce la acción penal;
 la Defensoría Penal Pública, en cambio, defiende a quien es acusado.
 
@@ -391,65 +386,65 @@ civil); la defensa gratuita en materia penal corresponde a la Defensoría Penal 
 
 ---
 
-**3. (Términos pareados)** Une cada institución con su función principal:
+**3. (Alternativas — unir)** Une cada institución con su función principal:
 
 1) Ministerio Público — 2) Defensoría Penal Pública — 3) Corporación de Asistencia Judicial
 
-a) Defensa legal gratuita en materia penal
-b) Investiga delitos y ejerce la acción penal
-c) Orientación y representación jurídica gratuita en materias no penales
+Funciones: (A) Defensa legal gratuita en materia penal — (B) Investiga delitos y ejerce la acción penal — (C) Orientación y representación jurídica gratuita en materias no penales
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* Cada institución cubre una etapa o materia distinta del acceso a la
-justicia: investigación, defensa penal, o representación en materias civiles y de familia.
+¿Qué combinación es correcta?
+a) 1-B, 2-A, 3-C
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de caso)** Un grupo de trabajadores de una empresa pequeña considera que fueron
-despedidos sin las indemnizaciones que la ley exige, pero no tiene dinero para pagar un abogado.
-¿A qué institución pueden recurrir y por qué?
-
-✅ Respuesta esperada: Pueden recurrir a la **Corporación de Asistencia Judicial (CAJ)**, porque
-es la institución que entrega orientación y representación jurídica gratuita en materias no
-penales —como los conflictos laborales— a personas que no pueden costear un abogado particular.
-💬 *Retroalimentación:* Reconocer que un conflicto laboral es una materia no penal es la clave
-para identificar correctamente que corresponde a la CAJ y no a la Defensoría Penal Pública.
+✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Cada institución cubre una etapa o materia distinta del acceso a la justicia.
 
 ---
 
-**5. (Desarrollo breve)** Explica por qué la existencia de mecanismos gratuitos de acceso a la
-justicia (como la Defensoría Penal Pública o la CAJ) es importante para la igualdad ante la ley.
+**4. (Alternativas — análisis de caso)** Trabajadores de una empresa pequeña creen que fueron despedidos sin las indemnizaciones legales, pero no pueden pagar un abogado. ¿A qué institución pueden recurrir?
+a) A la Defensoría Penal Pública, porque defiende gratuitamente en todo tipo de causas, incluidas las laborales
+b) Al Ministerio Público, porque representa a los trabajadores en los juicios contra sus empleadores
+c) A la Corporación de Asistencia Judicial, que representa gratuitamente en materias no penales como las laborales
+d) A ninguna, porque el acceso a la justicia laboral requiere siempre pagar un abogado particular
 
-✅ Respuesta esperada: Porque sin ellos, solo las personas con recursos económicos podrían
-ejercer plenamente sus derechos ante tribunales, lo que generaría una justicia desigual según
-el patrimonio de cada persona. Estos mecanismos buscan que el acceso a la justicia no dependa de
-la capacidad de pago.
-💬 *Retroalimentación:* La idea central es que la igualdad ante la ley pierde sentido si el
-acceso real a la justicia depende del dinero disponible.
+✅ Respuesta correcta: **c) A la Corporación de Asistencia Judicial, que representa gratuitamente en materias no penales como las laborales**
+💬 *Retroalimentación:* Reconocer que un conflicto laboral es una materia no penal es la clave.
 
 ---
 
-**6. (Investigación de caso actual)** Busca (o recuerda) un caso reciente de interés público en
-Chile relacionado con acceso a la justicia. Identifica: ¿qué institución del sistema judicial
-intervino? ¿qué mecanismo de acceso a la justicia se usó?
+**5. (Alternativas)** ¿Por qué los mecanismos gratuitos de acceso a la justicia son importantes para la igualdad ante la ley?
+a) Porque sin ellos solo quienes tienen recursos podrían ejercer sus derechos ante tribunales, generando una justicia desigual según el patrimonio
+b) Porque así los tribunales trabajan menos, ya que las personas sin recursos prefieren resolver sus conflictos por su cuenta sin acudir a la justicia
+c) Porque eliminan la necesidad de jueces y abogados, de modo que cada persona puede resolver su causa directamente ante la administración
+d) Porque solo benefician a las empresas
 
-✅ Respuesta esperada (ejemplo tipo): un caso de vulneración de derechos de consumidores donde
-intervino el Servicio Nacional del Consumidor (SERNAC) mediando o representando judicialmente a
-los afectados, o un caso penal donde intervinieron Fiscalía y Defensoría Penal Pública.
-💬 *Retroalimentación:* Lo importante es que puedas nombrar correctamente la institución y su
-función específica, no solo mencionar "la justicia" de forma genérica.
+✅ Respuesta correcta: **a) Porque sin ellos solo quienes tienen recursos podrían ejercer sus derechos ante tribunales, generando una justicia desigual según el patrimonio**
+💬 *Retroalimentación:* La igualdad ante la ley pierde sentido si el acceso real depende del dinero.
+
+---
+
+**6. (Varias correctas — caso actual)** ¿Qué ejemplos identifican correctamente una institución y su función en el acceso a la justicia? Marca **todas** las correctas.
+a) El SERNAC mediando o representando a consumidores afectados
+b) La Fiscalía investigando un delito y la Defensoría Penal defendiendo al imputado
+c) La CAJ representando gratuitamente en una causa de familia
+d) El Servicio de Impuestos Internos dictando sentencias penales
+
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Lo importante es nombrar correctamente la institución y su función específica; el SII no dicta sentencias.
 
 ---
 
 **7. (Alternativas)** ¿Cuál de las siguientes funciones corresponde a las Cortes de Apelaciones
 dentro del sistema judicial chileno?
 
-a) Investigar delitos
-b) Revisar las decisiones de tribunales inferiores
-c) Entregar defensa penal gratuita
-d) Fiscalizar el gasto público
+a) Investigar delitos y dirigir a las policías
+b) Fiscalizar el gasto público de los municipios
+c) Entregar defensa penal gratuita a los imputados
+d) Revisar las decisiones de tribunales inferiores
 
-✅ Respuesta correcta: **b) Revisar las decisiones de tribunales inferiores**
+✅ Respuesta correcta: **d) Revisar las decisiones de tribunales inferiores**
 💬 *Retroalimentación:* Las Cortes de Apelaciones son instancias superiores que revisan fallos
 de juzgados y tribunales, garantizando un sistema de segunda instancia.
 
@@ -458,12 +453,12 @@ de juzgados y tribunales, garantizando un sistema de segunda instancia.
 **8. (Alternativas)** ¿Qué institución garantiza defensa legal gratuita a una persona imputada
 por un delito que no puede costear un abogado particular?
 
-a) La Corporación de Asistencia Judicial
-b) La Defensoría Penal Pública
+a) La Defensoría Penal Pública
+b) La Corporación de Asistencia Judicial
 c) El Ministerio Público
 d) La Corte Suprema
 
-✅ Respuesta correcta: **b) La Defensoría Penal Pública**
+✅ Respuesta correcta: **a) La Defensoría Penal Pública**
 💬 *Retroalimentación:* La Defensoría Penal Pública existe específicamente para garantizar que
 toda persona acusada de un delito tenga defensa legal, tenga o no recursos para pagarla.
 
@@ -478,26 +473,25 @@ materias; lo penal es solo uno de los ámbitos que atienden.
 
 ---
 
-**10. (Análisis de caso)** Una madre necesita demandar el pago de una pensión de alimentos
-adeudada y no puede pagar un abogado particular. ¿A qué institución del sistema de acceso a
-la justicia debe recurrir, y por qué no corresponde a la Defensoría Penal Pública?
+**10. (Alternativas — análisis de caso)** Una madre necesita demandar una pensión de alimentos adeudada y no puede pagar un abogado. ¿A qué institución debe recurrir y por qué no a la Defensoría Penal?
+a) A la Defensoría Penal, porque defiende gratuitamente en materias de familia, como las pensiones de alimentos
+b) Al Ministerio Público, porque cobra las pensiones adeudadas y representa a las madres en los tribunales
+c) A ninguna institución pública, porque las pensiones de alimentos son un asunto privado entre los padres
+d) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales
 
-✅ Respuesta esperada: Debe recurrir a la **Corporación de Asistencia Judicial (CAJ)**, porque
-una demanda de pensión de alimentos es una materia de familia, no penal; la Defensoría Penal
-Pública solo entrega defensa gratuita en causas penales.
-💬 *Retroalimentación:* Distinguir la materia del conflicto (penal versus no penal) es la clave
-para identificar correctamente qué institución corresponde.
+✅ Respuesta correcta: **d) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales**
+💬 *Retroalimentación:* Distinguir la materia del conflicto (penal o no penal) es clave.
 
 ---
 
-**11. (Desarrollo breve)** Explica la diferencia entre la función de un tribunal o juzgado y la
-función de una Corte dentro del sistema judicial chileno.
+**11. (Alternativas)** ¿Cuál es la diferencia entre un tribunal o juzgado y una Corte?
+a) Ambos cumplen exactamente la misma función
+b) Los juzgados resuelven en primera instancia; las Cortes (de Apelaciones y Suprema) revisan esas decisiones cuando una parte no está conforme
+c) Las Cortes resuelven solo causas menores, como multas y conflictos vecinales, mientras los juzgados se ocupan de los casos más graves
+d) Los juzgados revisan los fallos de la Corte Suprema cuando una parte no está conforme; las Cortes resuelven en primera instancia todas las causas del país
 
-✅ Respuesta esperada: Los tribunales y juzgados resuelven causas en primera instancia; las
-Cortes (de Apelaciones y la Corte Suprema) son instancias superiores que revisan las
-decisiones de esos tribunales cuando alguna de las partes no está conforme con el fallo.
-💬 *Retroalimentación:* La idea central es la existencia de distintos niveles o instancias
-dentro del sistema judicial, no un único tribunal que decide todo de forma definitiva.
+✅ Respuesta correcta: **b) Los juzgados resuelven en primera instancia; las Cortes (de Apelaciones y Suprema) revisan esas decisiones cuando una parte no está conforme**
+💬 *Retroalimentación:* El sistema judicial tiene distintos niveles o instancias.
 
 ---
 
@@ -525,32 +519,25 @@ Pública.
 
 ---
 
-**14. (Análisis de dato/fuente)** Estudios sobre acceso a la justicia muestran que una parte
-importante de las personas de escasos recursos no ejerce sus derechos ante tribunales por
-desconocer que existen mecanismos gratuitos como la CAJ o la Defensoría Penal Pública. ¿Qué
-relación se puede establecer entre este dato y el concepto de "acceso a la justicia"?
+**14. (Alternativas — análisis de datos)** Estudios muestran que muchas personas de escasos recursos no ejercen sus derechos por desconocer que existen la CAJ o la Defensoría Penal. ¿Qué se concluye sobre el "acceso a la justicia"?
+a) Que los mecanismos gratuitos no son necesarios, porque quien quiere ejercer sus derechos busca la forma
+b) Que el acceso a la justicia está plenamente garantizado, porque la ley ya creó la CAJ y la Defensoría
+c) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente
+d) Que las personas de escasos recursos no tienen derechos que puedan reclamar ante los tribunales
 
-✅ Respuesta esperada: El acceso a la justicia no depende solo de que existan legalmente
-mecanismos gratuitos, sino de que la ciudadanía los conozca y pueda usarlos efectivamente. Un
-derecho que existe "en el papel" pero que las personas desconocen cómo ejercer no se traduce
-en un acceso real a la justicia.
-💬 *Retroalimentación:* Un buen análisis distingue entre la existencia formal de un mecanismo y
-su ejercicio efectivo por parte de la ciudadanía.
+✅ Respuesta correcta: **c) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente**
+💬 *Retroalimentación:* Un derecho que existe solo "en el papel" no se traduce en acceso real.
 
 ---
 
-**15. (Análisis de caso)** Una comunidad rural denuncia ante tribunales la vulneración de sus
-derechos sobre un curso de agua, con el apoyo de una organización que les provee
-representación legal gratuita porque no cuentan con recursos para litigar. Relaciona este caso
-con el concepto de mecanismos de acceso a la justicia estudiado en este OA.
+**15. (Alternativas — análisis de caso)** Una comunidad rural denuncia la vulneración de sus derechos sobre un curso de agua, con representación legal gratuita de una organización. ¿Qué principio ilustra el caso?
+a) El mismo principio de la CAJ: sin representación gratuita, comunidades sin recursos no podrían ejercer sus derechos ante la justicia
+b) Que solo el Estado puede representar a las personas ante la justicia, y las organizaciones privadas no deberían intervenir en estos casos
+c) Que las comunidades rurales no tienen derecho al agua, porque los cursos de agua pertenecen solo a quienes pagan por usarlos
+d) Que la justicia solo atiende causas penales
 
-✅ Respuesta esperada: Aunque la organización que los apoya no sea una institución estatal, el
-caso ilustra el mismo principio detrás de instituciones como la CAJ: sin representación legal
-gratuita, personas o comunidades sin recursos económicos no podrían ejercer efectivamente sus
-derechos ante el sistema judicial.
-💬 *Retroalimentación:* Lo relevante es reconocer el principio general —igualdad de acceso a la
-justicia independiente del patrimonio— más allá de qué institución específica lo haga posible
-en cada caso.
+✅ Respuesta correcta: **a) El mismo principio de la CAJ: sin representación gratuita, comunidades sin recursos no podrían ejercer sus derechos ante la justicia**
+💬 *Retroalimentación:* Lo relevante es la igualdad de acceso a la justicia, independiente del patrimonio.
 
 ---
 
@@ -620,10 +607,10 @@ justamente para fiscalizar este tipo de situaciones.
 el mercado por sí solo no la provee de forma suficiente para toda la población, está cumpliendo
 principalmente su función:
 
-a) Fiscalizadora
+a) Fiscalizadora del cumplimiento de la ley
 b) Proveedora de bienes y servicios
-c) Estabilizadora
-d) Redistribuidora
+c) Estabilizadora de la economía del país
+d) Redistribuidora del ingreso nacional
 
 ✅ Respuesta correcta: **b) Proveedora de bienes y servicios**
 💬 *Retroalimentación:* La función proveedora se activa cuando el Estado entrega directamente
@@ -641,44 +628,42 @@ impuestos.
 
 ---
 
-**3. (Términos pareados)** Relaciona cada función económica del Estado con un ejemplo:
+**3. (Alternativas — unir)** Une cada función económica del Estado con un ejemplo:
 
 1) Fiscalizadora — 2) Estabilizadora — 3) Redistribuidora
 
-a) Bajar la tasa de interés para enfrentar una recesión
-b) Verificar que una empresa cumpla la normativa ambiental
-c) Entregar un subsidio a familias de menores ingresos
+Ejemplos: (A) Bajar la tasa de interés para enfrentar una recesión — (B) Verificar que una empresa cumpla la normativa ambiental — (C) Entregar un subsidio a familias de menores ingresos
 
-✅ Respuesta correcta: **1-b, 2-a, 3-c**
-💬 *Retroalimentación:* Fiscalizar es verificar cumplimiento de normas; estabilizar es moderar
-los ciclos económicos; redistribuir es transferir recursos para reducir desigualdad.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de dato)** Según cifras públicas de organismos internacionales, la carga
-tributaria de Chile ha sido históricamente más baja que el promedio de los países de la OCDE.
-¿Qué perspectivas distintas podrían tener dos personas frente a este dato?
-
-✅ Respuesta esperada: Una persona podría argumentar que una carga tributaria baja incentiva la
-inversión, el empleo y el crecimiento económico; otra podría argumentar que una carga tributaria
-baja limita la capacidad del Estado para financiar servicios públicos y políticas
-redistributivas, profundizando la desigualdad. Ambas leen el mismo dato desde valores y
-supuestos económicos distintos.
-💬 *Retroalimentación:* Lo relevante es mostrar que un mismo dato puede sostener argumentos
-opuestos según la perspectiva económica y de valores desde la que se analice.
+✅ Respuesta correcta: **d) 1-B, 2-A, 3-C**
+💬 *Retroalimentación:* Fiscalizar es verificar normas; estabilizar, moderar los ciclos; redistribuir, transferir recursos para reducir desigualdad.
 
 ---
 
-**5. (Desarrollo breve)** Define con tus palabras qué significa "probidad" en el ejercicio de un
-cargo público y por qué es relevante para la relación entre Estado y mercado.
+**4. (Varias correctas — análisis de datos)** La carga tributaria de Chile ha sido históricamente más baja que el promedio OCDE. ¿Qué perspectivas pueden sostenerse a partir de este dato? Marca **todas** las correctas.
+a) Que una carga baja incentiva la inversión, el empleo y el crecimiento
+b) Que una carga baja limita la capacidad del Estado para financiar servicios y políticas redistributivas
+c) Que el dato demuestra que Chile no cobra ningún impuesto
+d) Que el dato no admite ninguna interpretación
 
-✅ Respuesta esperada: La probidad es actuar con honestidad, transparencia y anteponiendo el
-bien común al interés personal en el ejercicio de un cargo público. Es relevante porque el
-Estado regula y fiscaliza el mercado; si sus funcionarios actúan sin probidad (por ejemplo,
-favoreciendo intereses privados propios), se debilita la confianza ciudadana en esas
-instituciones y su capacidad de cumplir sus funciones económicas de forma justa.
-💬 *Retroalimentación:* Una buena respuesta conecta el concepto de probidad con el rol
-regulador/fiscalizador del Estado sobre el mercado, no solo con una definición aislada.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Un mismo dato puede sostener argumentos opuestos según la perspectiva económica y de valores.
+
+---
+
+**5. (Alternativas)** ¿Qué es la "probidad" en un cargo público y por qué es relevante para la relación Estado-mercado?
+a) Favorecer a las empresas cercanas al funcionario, porque conocerlas permite regular y fiscalizar el mercado con más confianza y eficiencia
+b) Actuar con honestidad y transparencia, anteponiendo el bien común; sin ella se debilita la confianza en el Estado que regula y fiscaliza el mercado
+c) Mantener en secreto las decisiones públicas para que el mercado no reaccione, protegiendo así la confianza en el Estado que lo regula
+d) Ganar el mayor sueldo posible en el cargo
+
+✅ Respuesta correcta: **b) Actuar con honestidad y transparencia, anteponiendo el bien común; sin ella se debilita la confianza en el Estado que regula y fiscaliza el mercado**
+💬 *Retroalimentación:* La probidad se conecta con el rol regulador y fiscalizador del Estado.
 
 ---
 
@@ -693,17 +678,14 @@ comerciales.
 
 ---
 
-**7. (Análisis de caso)** Una comuna minera genera altos ingresos por regalías, pero enfrenta
-graves problemas de contaminación ambiental. Un grupo propone que el Estado exija mayor
-inversión en tecnologías limpias a las empresas, aunque eso reduzca su rentabilidad. Relaciona
-esta propuesta con el concepto de desarrollo sustentable.
+**7. (Alternativas — análisis de caso)** Una comuna minera tiene altos ingresos por regalías pero grave contaminación; se propone exigir tecnologías limpias aunque baje la rentabilidad. ¿Con qué concepto se vincula la propuesta?
+a) Inflación de los precios locales
+b) Monopolio de la empresa minera
+c) Desarrollo sustentable
+d) Centralismo de las decisiones
 
-✅ Respuesta esperada: La propuesta busca equilibrar el desarrollo económico (ingresos,
-empleo) con la protección ambiental y el bienestar de las generaciones futuras, que es
-precisamente la idea de **desarrollo sustentable**: crecer económicamente sin comprometer la
-capacidad del medioambiente y de futuras generaciones de satisfacer sus propias necesidades.
-💬 *Retroalimentación:* El desarrollo sustentable no se opone al crecimiento económico, sino que
-busca que ese crecimiento no comprometa el medioambiente ni el bienestar futuro.
+✅ Respuesta correcta: **c) Desarrollo sustentable**
+💬 *Retroalimentación:* El desarrollo sustentable busca crecer sin comprometer el medioambiente ni el bienestar de futuras generaciones.
 
 ---
 
@@ -731,36 +713,34 @@ y crisis económica.
 
 ---
 
-**10. (Análisis de caso)** Durante una crisis económica, el gobierno reduce la tasa de interés
-y aumenta el gasto público en obras para reactivar el empleo. ¿Qué función económica del
-Estado se ilustra en este caso?
+**10. (Alternativas — análisis de caso)** En una crisis, el Banco Central autónomo baja la tasa de política monetaria y el gobierno aumenta el gasto en obras para reactivar el empleo. ¿Qué función económica del Estado ilustra?
+a) Estabilizadora
+b) Redistribuidora
+c) Fiscalizadora
+d) Asignadora de derechos de propiedad
 
-✅ Respuesta esperada: Se ilustra la función **estabilizadora**, porque el Estado usa
-herramientas de política económica (monetaria y fiscal) para moderar los efectos de un ciclo de
-crisis.
-💬 *Retroalimentación:* La clave para reconocer esta función es el objetivo de "moderar" el
-ciclo económico, no de proveer un bien ni de redistribuir directamente.
+✅ Respuesta correcta: **a) Estabilizadora**
+💬 *Retroalimentación:* El objetivo es moderar el ciclo económico.
 
 ---
 
-**11. (Desarrollo breve)** ¿Qué se entiende por "sueldo justo" y por qué es un tema de debate
-legítimo entre distintas perspectivas económicas?
+**11. (Alternativas)** ¿Por qué el "sueldo justo" es un tema de debate legítimo entre perspectivas económicas?
+a) Porque existe una definición técnica única que todos aceptan, y el debate solo se refiere a cómo calcularla en cada sector productivo del país
+b) Porque los sueldos no tienen relación con la economía, sino solo con la voluntad de cada empleador, y por eso cualquier opinión vale lo mismo
+c) Porque solo el gobierno puede opinar sobre sueldos
+d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas
 
-✅ Respuesta esperada: No existe una definición única de "sueldo justo": algunas perspectivas lo
-asocian a lo que determina el mercado según productividad y oferta y demanda de trabajo; otras
-lo asocian a un mínimo que garantice condiciones de vida digna, independientemente de lo que
-determine el mercado. Ambas son posturas legítimas dentro del debate democrático.
-💬 *Retroalimentación:* Una buena respuesta muestra que "justo" no tiene un único criterio
-técnico, sino que depende también de valores y prioridades distintas.
+✅ Respuesta correcta: **d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas**
+💬 *Retroalimentación:* "Justo" depende también de valores y prioridades distintas.
 
 ---
 
 **12. (Alternativas)** La Contraloría General de la República cumple un rol relevante
 principalmente en materia de:
 
-a) Comercio justo entre productores
+a) Comercio justo entre productores y consumidores
 b) Probidad y fiscalización del uso de los recursos públicos
-c) Regulación de precios de mercado
+c) Regulación de los precios de mercado de los bienes básicos
 d) Definición de la carga tributaria
 
 ✅ Respuesta correcta: **b) Probidad y fiscalización del uso de los recursos públicos**
@@ -778,30 +758,25 @@ y legítimos de la vida democrática; conviven distintas posturas razonables al 
 
 ---
 
-**14. (Análisis de dato/fuente)** Un país reduce sustancialmente la carga tributaria a las
-grandes empresas, argumentando que así aumentará la inversión y el empleo. Un sector opositor
-argumenta que esto reducirá los recursos disponibles para las políticas de reducción de la
-pobreza. ¿Qué funciones económicas del Estado están en tensión en este debate?
+**14. (Alternativas — análisis de caso)** Un país reduce los impuestos a grandes empresas para aumentar la inversión; la oposición advierte que disminuirán los recursos para reducir la pobreza. ¿Qué está en tensión?
+a) La función fiscalizadora del Estado frente a su función estabilizadora de precios
+b) Las condiciones para la inversión privada frente a la función redistribuidora del Estado
+c) La división de poderes del Estado frente al principio del Estado de Derecho
+d) Nada: ambas posturas buscan lo mismo
 
-✅ Respuesta esperada: Está en tensión la prioridad que se le da a condiciones favorables para
-la inversión privada frente a la función **redistribuidora** del Estado, que depende de los
-recursos tributarios recaudados para financiar el gasto social dirigido a reducir la pobreza.
-💬 *Retroalimentación:* Un buen análisis identifica que ambas posturas responden a lógicas
-válidas sobre cómo debería funcionar la relación entre Estado y mercado, no a que una sea
-"la correcta".
+✅ Respuesta correcta: **b) Las condiciones para la inversión privada frente a la función redistribuidora del Estado**
+💬 *Retroalimentación:* Ambas posturas responden a lógicas válidas sobre la relación entre Estado y mercado.
 
 ---
 
-**15. (Análisis de caso)** Una empresa exportadora paga a sus proveedores agrícolas precios muy
-por debajo del promedio de mercado, aprovechando su posición dominante en la cadena de
-distribución. ¿Qué concepto estudiado en este OA permite evaluar críticamente esta situación, y
-qué función del Estado podría intervenir?
+**15. (Alternativas — análisis de caso)** Una empresa exportadora paga a pequeños proveedores precios muy bajo el promedio aprovechando su posición dominante. ¿Qué concepto permite evaluarlo y qué función del Estado podría intervenir?
+a) La inflación de los precios agrícolas; el Estado debería imprimir más dinero para los proveedores
+b) El desarrollo sustentable; el Estado no tiene funciones que cumplir en las relaciones entre empresas
+c) El comercio justo; el Estado podría intervenir con su función reguladora o fiscalizadora
+d) La soberanía popular; se debe convocar un plebiscito para fijar los precios que paga la empresa
 
-✅ Respuesta esperada: La situación se relaciona con la falta de **comercio justo** hacia los
-pequeños productores; el Estado podría intervenir mediante su función **reguladora** (normas de
-competencia) o **fiscalizadora** (verificar prácticas comerciales abusivas).
-💬 *Retroalimentación:* El comercio justo no es solo un valor ético abstracto: se conecta con
-funciones concretas que el Estado puede ejercer frente al mercado.
+✅ Respuesta correcta: **c) El comercio justo; el Estado podría intervenir con su función reguladora o fiscalizadora**
+💬 *Retroalimentación:* El comercio justo se conecta con funciones concretas del Estado frente al mercado.
 
 ---
 
@@ -891,43 +866,42 @@ derechos tiene mayor jerarquía que otro; todos deben respetarse y garantizarse 
 
 ---
 
-**3. (Términos pareados)** Une cada principio con su definición:
+**3. (Alternativas — unir)** Une cada principio de los Derechos Humanos con su definición:
 
 1) Universalidad — 2) No discriminación — 3) Inalienabilidad
 
-a) No pueden transferirse ni renunciarse
-b) Corresponden a toda persona, en todo lugar
-c) Se reconocen por igual, sin distinción arbitraria
+Definiciones: (A) No pueden transferirse ni renunciarse — (B) Corresponden a toda persona, en todo lugar — (C) Se reconocen por igual, sin distinción arbitraria
 
-✅ Respuesta correcta: **1-b, 2-c, 3-a**
-💬 *Retroalimentación:* Cada principio describe una dimensión distinta pero complementaria de
-los Derechos Humanos.
+¿Qué combinación es correcta?
+a) 1-B, 2-C, 3-A
+b) 1-A, 2-B, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-B, 2-A, 3-C
 
----
-
-**4. (Análisis de caso)** Un municipio niega la matrícula escolar a un niño migrante por no
-contar con documentación regularizada en el país. Identifica qué principio de los Derechos
-Humanos se estaría vulnerando y explica por qué.
-
-✅ Respuesta esperada: Se vulnera el principio de **universalidad** (y de **no discriminación**),
-porque el derecho a la educación corresponde a todo niño o niña por el solo hecho de serlo, sin
-importar su situación migratoria; negar la matrícula por ese motivo constituye una
-discriminación arbitraria.
-💬 *Retroalimentación:* El punto clave es que la titularidad de los Derechos Humanos no depende
-de la condición administrativa o legal de la persona en un país.
+✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Cada principio describe una dimensión distinta pero complementaria de los Derechos Humanos.
 
 ---
 
-**5. (Desarrollo breve)** Explica con un ejemplo la diferencia entre que un Estado "respete",
-"proteja" y "garantice" un Derecho Humano.
+**4. (Varias correctas — análisis de caso)** Un municipio niega la matrícula escolar a un niño migrante sin documentación regularizada. ¿Qué principios se vulneran? Marca **todas** las correctas.
+a) Universalidad
+b) No discriminación
+c) Soberanía popular
+d) Control de la agenda
 
-✅ Respuesta esperada: Respetar es que el propio Estado no viole el derecho (por ejemplo, no
-censurar la prensa); proteger es evitar que terceros lo violen (por ejemplo, sancionar a
-empresas que discriminan laboralmente); garantizar es crear condiciones activas para que el
-derecho se ejerza (por ejemplo, construir escuelas y financiar becas para asegurar el derecho a
-la educación).
-💬 *Retroalimentación:* Distinguir estos tres deberes muestra que proteger los Derechos Humanos
-no es solo "no hacer daño", sino también actuar activamente para garantizarlos.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* La titularidad de los Derechos Humanos no depende de la condición migratoria de la persona.
+
+---
+
+**5. (Alternativas)** ¿Qué opción distingue correctamente los deberes del Estado de respetar, proteger y garantizar un derecho?
+a) Respetar: construir escuelas y financiar becas. Proteger: no censurar la prensa. Garantizar: sancionar a empresas que discriminan
+b) Los tres significan exactamente lo mismo
+c) Respetar: censurar la prensa cuando conviene. Proteger: discriminar a quienes no cumplen. Garantizar: no hacer nada
+d) Respetar: no censurar la prensa. Proteger: sancionar a empresas que discriminan. Garantizar: construir escuelas y financiar becas
+
+✅ Respuesta correcta: **d) Respetar: no censurar la prensa. Proteger: sancionar a empresas que discriminan. Garantizar: construir escuelas y financiar becas**
+💬 *Retroalimentación:* Proteger los Derechos Humanos no es solo "no hacer daño", sino actuar activamente.
 
 ---
 
@@ -942,16 +916,14 @@ sobre otros temas.
 
 ---
 
-**7. (Investigación de caso actual)** Identifica un caso actual de interés público —en Chile o
-en el mundo— en que se denuncie una transgresión a los Derechos Humanos. Señala qué principio
-(universalidad, indivisibilidad, inalienabilidad, igualdad o no discriminación) se vería
-afectado.
+**7. (Varias correctas — caso actual)** ¿Qué parejas de caso y principio de los Derechos Humanos son correctas? Marca **todas** las correctas.
+a) Discriminación laboral por discapacidad: igualdad y no discriminación
+b) Desplazamiento forzado de una comunidad: indivisibilidad (vivienda, trabajo y salud a la vez)
+c) Una ley que obliga a renunciar a un derecho a cambio de dinero: inalienabilidad
+d) Un plebiscito con alta participación: violación de la universalidad
 
-✅ Respuesta esperada (ejemplo tipo): un caso de discriminación laboral por discapacidad, que
-afecta el principio de igualdad y no discriminación, o un caso de desplazamiento forzado de una
-comunidad, que compromete varios derechos de forma indivisible (vivienda, trabajo, salud).
-💬 *Retroalimentación:* Lo esencial es justificar con claridad qué principio se ve comprometido
-y por qué, no solo describir el hecho.
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* Lo esencial es justificar qué principio se compromete; una alta participación no viola ningún principio.
 
 ---
 
@@ -970,14 +942,14 @@ Asamblea General de las Naciones Unidas en 1948, tras la Segunda Guerra Mundial.
 
 ---
 
-**9. (Desarrollo breve)** Define con tus palabras qué son los Derechos Humanos.
+**9. (Alternativas)** ¿Qué son los Derechos Humanos?
+a) Los derechos que el Estado concede solo a sus ciudadanos, y que puede quitar si lo estima necesario
+b) Los derechos que corresponden a toda persona por el solo hecho de ser humana, sin distinción de ninguna condición
+c) Los derechos de quienes cumplen la ley, que se pierden al cometer cualquier delito
+d) Los derechos que se compran con los impuestos que paga cada persona durante su vida
 
-✅ Respuesta esperada: Son el conjunto de derechos que corresponden a toda persona por el solo
-hecho de ser humana, sin distinción de nacionalidad, género, origen étnico, religión ni
-ninguna otra condición.
-💬 *Retroalimentación:* Una buena definición no condiciona los Derechos Humanos a ninguna
-característica particular de la persona: su base es, precisamente, la condición humana común
-a todos.
+✅ Respuesta correcta: **b) Los derechos que corresponden a toda persona por el solo hecho de ser humana, sin distinción de ninguna condición**
+💬 *Retroalimentación:* Su base es la condición humana común a todas las personas.
 
 ---
 
@@ -992,15 +964,14 @@ válido sí lo es.
 
 ---
 
-**11. (Análisis de caso)** Un Estado no prohíbe ni censura a organizaciones religiosas
-minoritarias —las respeta—, pero tampoco actúa cuando grupos privados les impiden reunirse
-pacíficamente para practicar su culto. ¿Qué deber del Estado se estaría incumpliendo?
+**11. (Alternativas — análisis de caso)** Un Estado no censura a organizaciones religiosas minoritarias, pero no actúa cuando grupos privados les impiden reunirse pacíficamente. ¿Qué deber incumple?
+a) El deber de respetar
+b) El deber de garantizar la educación
+c) El deber de proteger
+d) Ningún deber, porque no es el Estado quien impide la reunión
 
-✅ Respuesta esperada: Se incumple el deber de **proteger** (evitar que terceros violen los
-derechos), aunque el Estado sí esté cumpliendo el deber de respetar (no violar él mismo el
-derecho directamente).
-💬 *Retroalimentación:* Respetar un derecho no basta si el Estado no actúa además para
-protegerlo de vulneraciones cometidas por terceros.
+✅ Respuesta correcta: **c) El deber de proteger**
+💬 *Retroalimentación:* Respetar no basta: el Estado también debe proteger frente a vulneraciones cometidas por terceros.
 
 ---
 
@@ -1019,43 +990,36 @@ conjunto.
 
 ---
 
-**13. (Análisis de caso)** Un gobierno declara que priorizará solo los derechos que considera
-"esenciales", como la vida y la libertad personal, y postergará indefinidamente la inversión en
-vivienda y salud pública por razones presupuestarias. ¿Qué principio de los Derechos Humanos se
-vulnera con este razonamiento?
+**13. (Alternativas — análisis de caso)** Un gobierno prioriza solo la vida y la libertad personal y posterga indefinidamente la inversión en vivienda y salud. ¿Qué principio vulnera?
+a) Indivisibilidad
+b) Universalidad territorial
+c) Soberanía popular
+d) Inalienabilidad del voto
 
-✅ Respuesta esperada: Se vulnera la **indivisibilidad**, porque este principio establece que
-los derechos económicos, sociales y culturales tienen la misma jerarquía que los derechos
-civiles y políticos; no se puede posponer unos para priorizar otros.
-💬 *Retroalimentación:* Justificar la postergación de un grupo de derechos "por presupuesto" no
-cambia que, desde la indivisibilidad, ningún derecho puede subordinarse permanentemente a otro.
+✅ Respuesta correcta: **a) Indivisibilidad**
+💬 *Retroalimentación:* Los derechos económicos, sociales y culturales tienen la misma jerarquía que los civiles y políticos.
 
 ---
 
-**14. (Desarrollo breve)** Explica por qué la universalidad de los Derechos Humanos implica que
-estos no dependen de que las leyes de cada país los reconozcan para existir.
+**14. (Alternativas)** ¿Por qué la universalidad implica que los Derechos Humanos no dependen de que las leyes de cada país los reconozcan?
+a) Porque cada país decide si existen
+b) Porque solo existen si están escritos en la Constitución de cada país, y la universalidad se refiere a que todos los países tienen una
+c) Porque dependen de la voluntad del gobierno de turno, que decide si los incorpora a la legislación y en qué medida los hace exigibles a las personas
+d) Porque corresponden a toda persona por el solo hecho de ser humana, y siguen siendo un estándar exigible aunque un país no los reconozca
 
-✅ Respuesta esperada: La universalidad establece que los Derechos Humanos corresponden a toda
-persona, en todo lugar, por el solo hecho de ser humana. Por eso, aunque un país no los
-reconozca en su legislación o los viole en la práctica, esos derechos siguen existiendo como un
-estándar exigible; no son una concesión que el Estado pueda otorgar o negar a su arbitrio.
-💬 *Retroalimentación:* La idea central es que la universalidad hace de los Derechos Humanos un
-estándar anterior y superior a la legislación de cualquier país en particular.
+✅ Respuesta correcta: **d) Porque corresponden a toda persona por el solo hecho de ser humana, y siguen siendo un estándar exigible aunque un país no los reconozca**
+💬 *Retroalimentación:* La universalidad hace de los Derechos Humanos un estándar anterior y superior a la legislación de cualquier país.
 
 ---
 
-**15. (Investigación de caso actual)** Investiga (o recuerda) un caso reciente de interés
-público en que un grupo —por ejemplo, personas con discapacidad, pueblos indígenas o personas
-migrantes— haya exigido el cumplimiento de sus Derechos Humanos. Señala qué deber del Estado
-(respetar, proteger o garantizar) estaba principalmente en juego.
+**15. (Alternativas — caso actual)** Si personas con discapacidad exigen accesibilidad universal en espacios públicos, ¿qué deber del Estado está principalmente en juego?
+a) Respetar: no hacer nada
+b) Garantizar: crear condiciones activas para el ejercicio efectivo del derecho
+c) Proteger: castigar a las personas con discapacidad que reclaman por sus derechos
+d) Ninguno: la accesibilidad no es un derecho, sino una cortesía
 
-✅ Respuesta esperada (ejemplo tipo): un caso de exigencia de accesibilidad universal para
-personas con discapacidad en espacios públicos, relacionado con el deber de **garantizar**
-(crear condiciones activas para el ejercicio efectivo del derecho), o un caso de reconocimiento
-de tierras a comunidades indígenas, relacionado con los deberes de proteger y garantizar.
-💬 *Retroalimentación:* Lo importante es distinguir con precisión cuál de los tres deberes
-estatales (respetar, proteger o garantizar) está principalmente en juego, y no solo mencionar
-que "el Estado debe actuar".
+✅ Respuesta correcta: **b) Garantizar: crear condiciones activas para el ejercicio efectivo del derecho**
+💬 *Retroalimentación:* Hay que distinguir con precisión cuál de los tres deberes está principalmente en juego.
 
 ---
 
@@ -1147,44 +1111,42 @@ intereses individuales.
 
 ---
 
-**3. (Términos pareados)** Une cada perspectiva con su idea central:
+**3. (Alternativas — unir)** Une cada perspectiva con su idea central del bien común:
 
 1) Republicanismo — 2) Liberalismo — 3) Comunitarismo
 
-a) La libertad individual y los derechos de cada persona
-b) Las comunidades, tradiciones y lazos compartidos
-c) La participación cívica activa como virtud ciudadana
+Ideas: (A) La libertad individual y los derechos de cada persona — (B) Las comunidades, tradiciones y lazos compartidos — (C) La participación cívica activa como virtud ciudadana
 
-✅ Respuesta correcta: **1-c, 2-a, 3-b**
-💬 *Retroalimentación:* Cada corriente ofrece un fundamento distinto para pensar el bien común,
-sin que ninguna sea la única forma correcta de entenderlo.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-C, 3-A
+c) 1-C, 2-A, 3-B
+d) 1-C, 2-B, 3-A
 
----
-
-**4. (Reflexión personal)** Piensa en una experiencia personal o de tu entorno cercano de
-participación en algo colectivo (un curso, un club, una organización). ¿Qué perspectiva
-(republicana, liberal o comunitarista) explica mejor por qué participaste? Justifica.
-
-✅ Respuesta esperada: Respuesta abierta y personal, evaluada por la coherencia entre la
-experiencia descrita y la perspectiva elegida (por ejemplo, participar "porque era mi deber
-como integrante del curso" se acerca al republicanismo; participar "porque me permitía
-desarrollar mis propios intereses" se acerca al liberalismo; participar "porque era parte de mi
-identidad con ese grupo" se acerca al comunitarismo).
-💬 *Retroalimentación:* No hay una respuesta única correcta: lo que se evalúa es que la
-justificación sea coherente con la perspectiva filosófica elegida.
+✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
+💬 *Retroalimentación:* Cada corriente ofrece un fundamento distinto para pensar el bien común.
 
 ---
 
-**5. (Análisis de caso)** Un fenómeno social contemporáneo son los movimientos de voluntariado
-ambiental, donde jóvenes participan limpiando playas y ríos sin remuneración. Relaciona este
-fenómeno con al menos dos formas de participación estudiadas en este OA.
+**4. (Alternativas — reflexión personal)** Una estudiante dice: "participé en el centro de alumnos porque era mi deber como integrante del curso". ¿Qué perspectiva se acerca más a su motivación?
+a) Republicanismo
+b) Liberalismo
+c) Comunitarismo
+d) Ninguna perspectiva
 
-✅ Respuesta esperada: Se puede relacionar con "organizaciones comunitarias y locales" (si el
-voluntariado se organiza en torno a un grupo local) y con "informarse y emitir juicios y
-opiniones", en la medida en que estos movimientos suelen buscar visibilizar y generar conciencia
-pública sobre un problema ambiental.
-💬 *Retroalimentación:* El punto es notar que un mismo fenómeno social puede combinar más de una
-forma de participación ciudadana a la vez.
+✅ Respuesta correcta: **a) Republicanismo**
+💬 *Retroalimentación:* Participar por deber cívico se acerca al republicanismo; por intereses propios, al liberalismo; por identidad con el grupo, al comunitarismo.
+
+---
+
+**5. (Varias correctas — análisis de caso)** Jóvenes participan voluntariamente limpiando playas y ríos. ¿Con qué formas de participación se vincula este fenómeno? Marca **todas** las correctas.
+a) Organizaciones comunitarias y locales
+b) Informarse y emitir juicios y opiniones para generar conciencia pública
+c) Ejercer un cargo de elección popular
+d) Votar en una elección presidencial
+
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Un mismo fenómeno social puede combinar más de una forma de participación ciudadana.
 
 ---
 
@@ -1198,15 +1160,14 @@ asuntos públicos, entre otras.
 
 ---
 
-**7. (Desarrollo breve)** Explica, con tus palabras, en qué se diferencia la visión republicana
-del bien común de la visión liberal.
+**7. (Alternativas)** ¿En qué se diferencia la visión republicana del bien común de la liberal?
+a) Ambas enfatizan exactamente lo mismo
+b) El liberalismo exige participar activamente en la vida pública como virtud cívica; el republicanismo lo prohíbe, para que cada persona persiga su proyecto de vida sin interferencias
+c) El republicanismo rechaza los derechos individuales y el liberalismo rechaza la participación ciudadana, por lo que ambos son incompatibles con la democracia actual
+d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida
 
-✅ Respuesta esperada: El republicanismo pone el acento en la participación activa y la virtud
-cívica de las personas como camino para construir el bien común; el liberalismo pone el acento
-en garantizar la libertad individual, de modo que el bien común surge más bien de que cada
-persona pueda perseguir libremente su propio proyecto de vida, protegida por el Estado.
-💬 *Retroalimentación:* La diferencia clave está en el énfasis: participación activa y deber
-cívico (republicanismo) versus libertad y derechos individuales protegidos (liberalismo).
+✅ Respuesta correcta: **d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida**
+💬 *Retroalimentación:* La diferencia clave está en el énfasis.
 
 ---
 
@@ -1251,29 +1212,25 @@ impuestos no corresponde a ninguna de ellas.
 
 ---
 
-**11. (Análisis de caso)** Un grupo de jóvenes usa redes sociales para difundir información
-verificada sobre un proyecto de ley antes de un plebiscito, sin promover una postura
-determinada. Relaciona esta acción con una de las formas de participación estudiadas en este
-OA.
+**11. (Alternativas — análisis de caso)** Jóvenes difunden en redes información verificada sobre un proyecto de ley antes de un plebiscito, sin promover una postura. ¿Con qué forma de participación se vincula?
+a) Ejercer un cargo público de representación
+b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos
+c) Votar en el plebiscito
+d) Ninguna, porque difundir información en redes no es participación
 
-✅ Respuesta esperada: Se relaciona con "informarse y emitir juicios y opiniones fundadas sobre
-asuntos públicos": ayudar a que otras personas accedan a información verificada es una forma de
-participación ciudadana distinta del sufragio, pero igual de relevante.
-💬 *Retroalimentación:* Difundir información verificada, sin sesgo hacia una postura, es un
-aporte al bien común aunque no implique votar ni pertenecer a una organización formal.
+✅ Respuesta correcta: **b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos**
+💬 *Retroalimentación:* Ayudar a acceder a información verificada aporta al bien común aunque no implique votar.
 
 ---
 
-**12. (Desarrollo breve)** Explica qué visión del bien común comparten el comunitarismo y el
-republicanismo, y en qué se diferencian principalmente.
+**12. (Alternativas)** ¿Qué comparten el comunitarismo y el republicanismo, y en qué se diferencian?
+a) Ambos son individualistas: el republicanismo enfatiza la libertad de cada persona y el comunitarismo, su derecho a no participar en la vida colectiva
+b) No comparten nada
+c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas
+d) El comunitarismo exige participación política obligatoria y el republicanismo la rechaza; ambos comparten la defensa de las tradiciones
 
-✅ Respuesta esperada: Ambas perspectivas valoran lo colectivo por sobre una visión puramente
-individualista del bien común. Se diferencian en que el republicanismo pone el énfasis en la
-**participación cívica activa** como deber ciudadano, mientras que el comunitarismo enfatiza
-los **lazos, tradiciones e identidades compartidas** de la comunidad como fuente del bien
-común, sin exigir necesariamente una participación política activa.
-💬 *Retroalimentación:* Una buena respuesta no solo dice "son distintas", sino que explica en
-qué consiste específicamente cada énfasis.
+✅ Respuesta correcta: **c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas**
+💬 *Retroalimentación:* Una buena respuesta explica en qué consiste cada énfasis.
 
 ---
 
@@ -1287,31 +1244,25 @@ informarse y opinar.
 
 ---
 
-**14. (Análisis de caso)** Una persona decide no votar ni integrarse a ninguna organización,
-argumentando que "el bien común se logra mejor si cada quien se dedica a su propia vida sin
-interferir en la de los demás ni verse obligado a participar". ¿Con qué perspectiva se
-relaciona más este argumento? ¿Por qué no representa fielmente al republicanismo?
+**14. (Alternativas — análisis de caso)** Una persona no vota ni se integra a organizaciones, argumentando que "el bien común se logra mejor si cada quien se dedica a su propia vida sin interferir ni verse obligado a participar". ¿Con qué perspectiva se vincula más?
+a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa
+b) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano
+c) Con el comunitarismo, porque prioriza los lazos de la comunidad y las tradiciones compartidas
+d) Con ninguna perspectiva, porque no participar no tiene relación con el bien común
 
-✅ Respuesta esperada: El argumento se acerca más al **liberalismo** (llevado a un extremo),
-porque prioriza la libertad individual y la no interferencia por sobre la participación
-activa. No representa al republicanismo porque esta perspectiva valora justamente la
-participación cívica activa como parte de la virtud ciudadana, no la no interferencia.
-💬 *Retroalimentación:* Es útil notar que un mismo argumento puede "sonar" a una corriente sin
-representarla del todo fielmente si se lleva a un extremo.
+✅ Respuesta correcta: **a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa**
+💬 *Retroalimentación:* Un argumento puede "sonar" a una corriente sin representarla fielmente si se lleva a un extremo.
 
 ---
 
-**15. (Reflexión personal)** Piensa en un fenómeno social contemporáneo (por ejemplo,
-movimientos estudiantiles, activismo digital o voluntariado) y explica cómo aporta —o podría
-aportar— al fortalecimiento del bien común desde alguna de las tres perspectivas estudiadas
-(republicanismo, liberalismo o comunitarismo).
+**15. (Varias correctas — reflexión personal)** ¿Qué análisis vincula coherentemente un fenómeno social con una perspectiva sobre el bien común? Marca **todas** las correctas.
+a) Un movimiento estudiantil analizado como participación cívica activa, desde el republicanismo
+b) El activismo digital de una comunidad indígena analizado como expresión de una identidad compartida, desde el comunitarismo
+c) El voluntariado analizado como prohibición de participar, desde el republicanismo
+d) Un movimiento estudiantil analizado como rechazo a todos los derechos, desde el liberalismo
 
-✅ Respuesta esperada: Respuesta abierta, evaluada por la coherencia entre el fenómeno elegido y
-la perspectiva usada para explicar su aporte al bien común (por ejemplo, un movimiento
-estudiantil puede analizarse como participación cívica activa desde el republicanismo, o como
-expresión de una identidad compartida desde el comunitarismo).
-💬 *Retroalimentación:* No hay una única perspectiva "correcta" para analizar un fenómeno: lo
-que se evalúa es la coherencia argumentativa entre el fenómeno y la perspectiva elegida.
+✅ Respuesta correcta: **a y b**
+💬 *Retroalimentación:* Se evalúa la coherencia argumentativa entre el fenómeno y la perspectiva elegida.
 
 ---
 
@@ -1405,45 +1356,42 @@ representarlo en la región; sus funciones y su origen son distintos.
 
 ---
 
-**3. (Términos pareados)** Une cada escala territorial con su autoridad principal:
+**3. (Alternativas — unir)** Une cada escala territorial con su autoridad principal:
 
 1) Nacional — 2) Regional — 3) Comunal
 
-a) Alcalde o alcaldesa
-b) Gobierno central / Congreso Nacional
-c) Gobernador o Gobernadora Regional
+Autoridades: (A) Alcalde o alcaldesa — (B) Gobierno central / Congreso Nacional — (C) Gobernador o Gobernadora Regional
 
-✅ Respuesta correcta: **1-b, 2-c, 3-a**
-💬 *Retroalimentación:* Cada escala territorial —nacional, regional y comunal— tiene autoridades
-propias con distintas funciones y formas de elección.
+¿Qué combinación es correcta?
+a) 1-A, 2-B, 3-C
+b) 1-C, 2-A, 3-B
+c) 1-B, 2-A, 3-C
+d) 1-B, 2-C, 3-A
 
----
-
-**4. (Análisis de caso)** Una comuna costera decide, a través de su plan regulador, destinar una
-franja de terreno frente al mar exclusivamente a proyectos inmobiliarios de alto valor, sin
-considerar áreas verdes públicas de libre acceso. Un grupo de vecinos se organiza para exigir
-que se reconsidere esa decisión. Identifica los actores involucrados y explica el conflicto de
-justicia social en juego.
-
-✅ Respuesta esperada: Los actores son el municipio (que elabora el plan regulador), las
-inmobiliarias (interesadas en el uso del suelo) y los vecinos organizados (que representan el
-interés de la comunidad en el acceso público al espacio). El conflicto de justicia social radica
-en que el acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan
-pagar por proyectos inmobiliarios privados, excluyendo el acceso público general.
-💬 *Retroalimentación:* El punto clave es reconocer que las decisiones de uso de suelo no son
-neutras: definen quién accede a qué recursos del territorio.
+✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
+💬 *Retroalimentación:* Cada escala tiene autoridades propias con distintas funciones y formas de elección.
 
 ---
 
-**5. (Desarrollo breve)** Explica de qué manera el censo contribuye a que el Estado planifique y
-configure el territorio.
+**4. (Alternativas — análisis de caso)** Una comuna costera destina, en su plan regulador, una franja frente al mar solo a proyectos inmobiliarios de alto valor, sin áreas verdes públicas; los vecinos exigen reconsiderarlo. ¿Qué conflicto de justicia social hay?
+a) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir en la comuna
+b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público
+c) Los vecinos quieren construir edificios de lujo en la franja costera y el municipio se los impide
+d) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
 
-✅ Respuesta esperada: El censo entrega información sobre cuántas personas viven en cada
-territorio, sus características socioeconómicas y sus necesidades, lo que permite al Estado
-planificar de forma más informada la construcción de escuelas, hospitales, vivienda social,
-obras públicas y otros servicios según la realidad de cada zona.
-💬 *Retroalimentación:* La idea central es que el censo es una herramienta de diagnóstico que
-orienta decisiones de política pública territorial, no solo un conteo de población.
+✅ Respuesta correcta: **b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público**
+💬 *Retroalimentación:* Los actores son el municipio, las inmobiliarias y los vecinos organizados; las decisiones de uso de suelo no son neutras.
+
+---
+
+**5. (Alternativas)** ¿Cómo contribuye el censo a que el Estado planifique el territorio?
+a) Sirve solo para contar habitantes sin otro uso, ya que la planificación de escuelas, hospitales y obras se define con otros registros
+b) Define quién puede votar en cada comuna y cuántos parlamentarios elige cada distrito, sin relación con la planificación de servicios
+c) Entrega información sobre cuántas personas viven en cada territorio y sus necesidades, para planificar escuelas, hospitales, vivienda y obras
+d) Fija los sueldos de cada región
+
+✅ Respuesta correcta: **c) Entrega información sobre cuántas personas viven en cada territorio y sus necesidades, para planificar escuelas, hospitales, vivienda y obras**
+💬 *Retroalimentación:* El censo es una herramienta de diagnóstico que orienta las políticas públicas territoriales.
 
 ---
 
@@ -1457,18 +1405,14 @@ y las comunidades del territorio donde se emplaza.
 
 ---
 
-**7. (Propuesta ciudadana)** Piensa en un problema de tu entorno local (o de una comuna que
-conozcas) relacionado con el acceso a servicios, el medioambiente o la calidad de vida. Propón
-una alternativa de acción ciudadana concreta para abordarlo.
+**7. (Varias correctas — propuesta ciudadana)** Frente a la falta de áreas verdes en una comuna, ¿qué alternativas de acción ciudadana son concretas y viables? Marca **todas** las correctas.
+a) Organizar a los vecinos para solicitar formalmente una modificación del plan regulador
+b) Participar en una instancia de consulta ciudadana municipal
+c) Presentar una solicitud formal a la municipalidad
+d) Esperar que el problema se resuelva solo
 
-✅ Respuesta esperada: Respuesta abierta, evaluada por la coherencia entre el problema
-identificado (por ejemplo, falta de áreas verdes, mala conectividad de transporte, contaminación
-de un curso de agua) y la alternativa de acción propuesta (por ejemplo, organizar a los vecinos
-para solicitar formalmente una modificación del plan regulador, presentar una solicitud a la
-municipalidad, participar en una instancia de consulta ciudadana).
-💬 *Retroalimentación:* Lo importante es proponer una acción ciudadana real y viable, conectada
-con las instituciones y mecanismos territoriales estudiados en este OA (municipio, plan
-regulador, organizaciones locales).
+✅ Respuesta correcta: **a, b y c**
+💬 *Retroalimentación:* La acción debe conectarse con las instituciones y mecanismos territoriales estudiados.
 
 ---
 
@@ -1477,7 +1421,7 @@ político-administrativa de Chile?
 
 a) El alcalde o alcaldesa
 b) El Delegado o Delegada Presidencial Provincial
-c) El Gobernador o Gobernadora Regional
+c) El Gobernador o Gobernadora Regional electo
 d) El concejo municipal
 
 ✅ Respuesta correcta: **b) El Delegado o Delegada Presidencial Provincial**
@@ -1497,29 +1441,25 @@ comunidad ante el municipio y otras autoridades.
 
 ---
 
-**10. (Análisis de caso)** En una ciudad, los rellenos sanitarios y las plantas industriales
-contaminantes se instalan sistemáticamente en comunas de menores ingresos, mientras que las
-comunas de mayores ingresos no reciben ninguna de estas instalaciones. ¿Qué concepto estudiado
-en este OA describe este patrón, y qué dimensión de la organización territorial compromete?
+**10. (Alternativas — análisis de caso)** Los rellenos sanitarios e industrias contaminantes se instalan sistemáticamente en comunas de menores ingresos. ¿Qué concepto describe este patrón?
+a) Zona de sacrificio, un ejemplo de falta de justicia ambiental
+b) Desarrollo sustentable de las comunas de menores ingresos
+c) Comercio justo entre comunas vecinas
+d) Participación efectiva de los vecinos
 
-✅ Respuesta esperada: El patrón se conoce como "**zona de sacrificio**" en el debate público
-chileno, y es un ejemplo de falta de **justicia ambiental**: la carga de la contaminación no se
-distribuye de forma equitativa entre los territorios, sino que recae con más fuerza sobre las
-comunidades con menos poder para oponerse.
-💬 *Retroalimentación:* La justicia ambiental no solo pregunta "cuánta contaminación hay", sino
-"quién carga con ella" dentro del territorio.
+✅ Respuesta correcta: **a) Zona de sacrificio, un ejemplo de falta de justicia ambiental**
+💬 *Retroalimentación:* La justicia ambiental pregunta quién carga con la contaminación dentro del territorio.
 
 ---
 
-**11. (Desarrollo breve)** Explica qué es el plan regulador comunal y por qué se dice que tiene
-un impacto tan importante en la vida cotidiana de una comuna.
+**11. (Alternativas)** ¿Qué es el plan regulador comunal y por qué impacta la vida cotidiana?
+a) Un documento que fija los horarios del comercio y de las ferias libres de la comuna, lo que afecta la vida cotidiana al definir cuándo se puede comprar
+b) Una ley nacional sobre impuestos
+c) El presupuesto anual del municipio, que define cuánto se gasta en cada servicio, sin relación con los usos del suelo ni con lo que se puede edificar
+d) El instrumento que define los usos del suelo de la comuna; determina qué se puede edificar y dónde, afectando densidad, acceso a servicios y calidad del entorno
 
-✅ Respuesta esperada: Es el instrumento que define los usos del suelo de una comuna —dónde se
-puede construir vivienda, comercio, industria o áreas verdes—. Tiene un impacto importante
-porque determina qué se puede edificar y dónde, lo que afecta la densidad poblacional, el
-acceso a servicios y la calidad del entorno de quienes viven en la comuna.
-💬 *Retroalimentación:* Un buen desarrollo conecta la definición técnica (usos de suelo) con
-consecuencias concretas en la vida de las personas, no solo la define de memoria.
+✅ Respuesta correcta: **d) El instrumento que define los usos del suelo de la comuna; determina qué se puede edificar y dónde, afectando densidad, acceso a servicios y calidad del entorno**
+💬 *Retroalimentación:* Un buen análisis conecta la definición técnica con consecuencias concretas.
 
 ---
 
@@ -1546,30 +1486,25 @@ escala nacional, la más amplia de las escalas territoriales estudiadas.
 
 ---
 
-**14. (Análisis de dato/fuente)** Datos de planificación urbana muestran que, en las
-principales ciudades chilenas, las comunas de mayores ingresos suelen concentrar más áreas
-verdes por habitante que las comunas de menores ingresos. ¿Qué concepto estudiado en este OA
-permite analizar críticamente este dato?
+**14. (Alternativas — análisis de datos)** Las comunas de mayores ingresos concentran más áreas verdes por habitante que las de menores ingresos. ¿Qué concepto permite analizar críticamente este dato?
+a) Inalienabilidad
+b) Justicia social y ambiental
+c) Estado de Derecho
+d) Soberanía popular
 
-✅ Respuesta esperada: El concepto de **justicia social y ambiental**: la distribución desigual
-de un beneficio ambiental (áreas verdes) según el nivel de ingreso de la comuna muestra que el
-acceso a un mejor entorno no se reparte de forma equitativa en el territorio.
-💬 *Retroalimentación:* Un dato de planificación urbana se vuelve relevante para este OA cuando
-se analiza en términos de quién accede a qué recursos del territorio y por qué.
+✅ Respuesta correcta: **b) Justicia social y ambiental**
+💬 *Retroalimentación:* Muestra que el acceso a un mejor entorno no se reparte de forma equitativa.
 
 ---
 
-**15. (Análisis de caso)** Un municipio realiza una "consulta ciudadana" antes de modificar su
-plan regulador, pero la convocatoria se limita a un aviso breve en su página web, sin otra
-difusión, y participa menos del 2% de la población de la comuna. ¿Qué problema plantea este
-caso respecto de la participación de los actores sociales en la configuración del territorio?
+**15. (Alternativas — análisis de caso)** Un municipio hace una "consulta ciudadana" sobre su plan regulador con solo un aviso breve en su web y participa menos del 2% de la población. ¿Qué problema plantea?
+a) Que las consultas ciudadanas no deberían existir, porque la población no participa en ellas
+b) Que el 2% es una participación ideal
+c) Que no basta con que exista un mecanismo de participación: su baja difusión limita la incidencia real de la comunidad
+d) Que el municipio cumplió plenamente con la participación ciudadana, porque lo importante es que el mecanismo exista
 
-✅ Respuesta esperada: Aunque formalmente existió una instancia de participación, su escasa
-difusión y su bajo alcance limitan la incidencia real de la comunidad en una decisión que la
-afecta directamente. El caso muestra que no basta con que exista un mecanismo de participación:
-también importa su calidad y su capacidad real de involucrar a la comunidad.
-💬 *Retroalimentación:* El punto clave es distinguir entre la existencia formal de una
-instancia de participación y su efectividad real para incorporar la voz de la comunidad.
+✅ Respuesta correcta: **c) Que no basta con que exista un mecanismo de participación: su baja difusión limita la incidencia real de la comunidad**
+💬 *Retroalimentación:* Hay que distinguir la existencia formal de una instancia de su efectividad real.
 
 ---
 

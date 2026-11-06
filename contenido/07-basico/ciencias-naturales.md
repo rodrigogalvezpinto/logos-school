@@ -100,10 +100,10 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
 1. *(Alternativas)* ¿Cuáles son los tres aspectos que integra la sexualidad humana,
    según lo estudiado?
    a) Biológico, económico y cultural
-   b) Biológico, afectivo y social
+   b) Afectivo, escolar y familiar
    c) Físico, deportivo y alimentario
-   d) Afectivo, escolar y familiar
-   **Respuesta correcta:** b) Biológico, afectivo y social.
+   d) Biológico, afectivo y social
+   **Respuesta correcta:** d) Biológico, afectivo y social.
    **Retroalimentación:** La sexualidad no se reduce a los cambios físicos: incluye
    también cómo nos relacionamos afectivamente con otros y la responsabilidad social
    que asumimos.
@@ -115,48 +115,44 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
    social (responsabilidad individual) son igual de importantes que los cambios
    biológicos.
 
-3. *(Clasificar)* Clasifica cada situación según el aspecto de la sexualidad al que
-   corresponde principalmente (biológico, afectivo o social): desarrollo de vello
-   púbico; expresar cariño y respeto hacia una pareja; informarse sobre métodos de
-   prevención antes de tomar decisiones.
-   **Respuesta correcta:** Biológico: desarrollo de vello púbico. Afectivo: expresar
-   cariño y respeto hacia una pareja. Social: informarse antes de tomar decisiones.
-   **Retroalimentación:** Cada situación resalta un aspecto distinto, aunque en la
-   vida real los tres suelen estar presentes a la vez.
+3. *(Alternativas — clasificar)* ¿A qué aspecto de la sexualidad corresponde principalmente "informarse sobre métodos de prevención antes de tomar decisiones"?
+   a) Social
+   b) Biológico
+   c) Afectivo
+   **Respuesta correcta:** a) Social.
+   **Retroalimentación:** El desarrollo de vello púbico es biológico; expresar cariño y respeto hacia una pareja es afectivo; informarse antes de decidir es social (responsabilidad individual). En la vida real los tres aspectos suelen estar presentes a la vez.
 
-4. *(Desarrollo breve)* Explica con tus palabras qué significa "responsabilidad
-   individual" dentro del aspecto social de la sexualidad.
-   **Respuesta esperada:** Significa tomar decisiones informadas y cuidadosas sobre la
-   propia sexualidad, considerando las consecuencias para uno mismo y para la otra
-   persona, y actuando con honestidad y respeto.
-   **Retroalimentación:** La responsabilidad individual conecta directamente con el
-   OA 2, donde se profundiza en la paternidad y maternidad responsables.
+4. *(Alternativas)* ¿Qué significa "responsabilidad individual" dentro del aspecto social de la sexualidad?
+   a) Tomar decisiones informadas y cuidadosas, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto
+   b) Hacer lo que los demás dicen sin pensar, para no quedar fuera del grupo, aunque las consecuencias afecten a uno mismo o a la otra persona
+   c) No informarse para no preocuparse, y dejar que las decisiones se tomen solas según lo que vaya pasando en la relación
+   d) Decidir solo pensando en uno mismo y en lo que se quiere en ese momento, sin considerar lo que siente o necesita la otra persona
+   **Respuesta correcta:** a) Tomar decisiones informadas y cuidadosas, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto.
+   **Retroalimentación:** La responsabilidad individual conecta directamente con el OA 2, donde se profundiza en la paternidad y maternidad responsables.
 
-5. *(Análisis)* Explica por qué se dice que el respeto mutuo es un elemento central del
-   aspecto afectivo de la sexualidad.
-   **Respuesta esperada:** Porque una relación afectiva saludable requiere que ambas
-   personas se sientan valoradas, escuchadas y respetadas en sus decisiones y límites;
-   sin respeto mutuo, la intimidad puede volverse dañina para una o ambas personas.
-   **Retroalimentación:** El respeto mutuo es la base para que la dimensión afectiva de
-   la sexualidad se viva de forma sana.
+5. *(Alternativas — análisis)* ¿Por qué el respeto mutuo es un elemento central del aspecto afectivo de la sexualidad?
+   a) Porque así una persona puede decidir por la otra y protegerla de cometer errores en la relación
+   b) Porque el respeto solo importa en la amistad; en una relación de pareja basta con el cariño
+   c) No es importante en las relaciones afectivas, porque si hay cariño los límites no son necesarios
+   d) Porque una relación sana requiere que ambas personas se sientan valoradas y respetadas en sus decisiones y límites
+   **Respuesta correcta:** d) Porque una relación sana requiere que ambas personas se sientan valoradas y respetadas en sus decisiones y límites.
+   **Retroalimentación:** Sin respeto mutuo, la intimidad puede volverse dañina para una o ambas personas.
 
-6. *(Comparación)* Compara los cambios físicos que ocurren en hombres y mujeres durante
-   la pubertad, dando al menos un ejemplo de cada uno.
-   **Respuesta esperada:** En los hombres: crecimiento de testículos y pene, cambio de
-   voz. En las mujeres: desarrollo de mamas, inicio de la menstruación. Ambos ocurren
-   por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente).
-   **Retroalimentación:** Aunque los cambios físicos difieren entre sexos, ambos son
-   parte normal y esperable del desarrollo puberal.
+6. *(Alternativas — comparar)* ¿Qué comparación de cambios físicos de la pubertad es **correcta**?
+   a) Hombres: inicio de la menstruación y desarrollo de mamas. Mujeres: crecimiento de testículos y cambio de voz. Ambos por acción de la hormona del crecimiento
+   b) Los cambios no dependen de hormonas: ocurren porque el cuerpo crece en estatura, y por eso aparecen al mismo tiempo en todos los adolescentes
+   c) Los dos sexos viven exactamente los mismos cambios: desarrollo de mamas, cambio de voz e inicio de la menstruación, por acción de hormonas sexuales
+   d) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación. Ambos por acción de hormonas sexuales
+   **Respuesta correcta:** d) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación. Ambos por acción de hormonas sexuales.
+   **Retroalimentación:** Los cambios se deben a hormonas sexuales (testosterona y estrógeno); aunque difieren entre sexos, ambos son parte normal y esperable del desarrollo puberal.
 
-7. *(Análisis/actitud)* Un estudiante se burla de un compañero porque este aún no
-   presenta cambios físicos de la pubertad que otros compañeros ya tienen. Explica por
-   qué esta actitud no es adecuada, usando lo que sabes sobre la sexualidad.
-   **Respuesta esperada:** No es adecuada porque el ritmo de los cambios puberales
-   varía de una persona a otra de forma normal; además, la responsabilidad social y el
-   respeto hacia los demás son parte esencial de vivir la sexualidad de forma sana, lo
-   que incluye respetar los tiempos y el cuerpo de cada persona.
-   **Retroalimentación:** El respeto hacia uno mismo y hacia otros, en todas sus
-   dimensiones, es un valor transversal en el estudio de la sexualidad.
+7. *(Alternativas — actitud)* Un estudiante se burla de un compañero porque aún no presenta cambios físicos de la pubertad que otros ya tienen. ¿Por qué esta actitud no es adecuada?
+   a) Porque todos deberían cambiar al mismo tiempo, y si un compañero no ha cambiado es mejor esperar a que se ponga al día antes de comentarlo
+   b) Porque la burla ayuda a crecer más rápido, pero puede hacer sentir mal al compañero, así que conviene hacerla solo entre amigos cercanos
+   c) Porque el ritmo de los cambios varía de forma normal entre personas, y vivir la sexualidad de forma sana incluye respetar los tiempos y el cuerpo de cada uno
+   d) Sí es adecuada, porque es solo una broma entre compañeros, y los cambios físicos de la pubertad son un tema del que todos se ríen
+   **Respuesta correcta:** c) Porque el ritmo de los cambios varía de forma normal entre personas, y vivir la sexualidad de forma sana incluye respetar los tiempos y el cuerpo de cada uno.
+   **Retroalimentación:** El respeto hacia uno mismo y hacia otros, en todas sus dimensiones, es un valor transversal en el estudio de la sexualidad.
 
 ---
 
@@ -226,53 +222,45 @@ en pleno desarrollo.
    **Retroalimentación:** La fecundación ocurre en las trompas de Falopio; el cigoto
    resultante viaja luego hacia el útero para implantarse.
 
-3. *(Clasificar)* Clasifica estos métodos de control de la natalidad según su tipo
-   (natural, de barrera o químico/hormonal): preservativo, píldora anticonceptiva,
-   control del ciclo menstrual, diafragma.
-   **Respuesta correcta:** Natural: control del ciclo menstrual. De barrera:
-   preservativo, diafragma. Químico/hormonal: píldora anticonceptiva.
-   **Retroalimentación:** Cada tipo de método actúa por un mecanismo distinto: evitar
-   el contacto (barrera), alterar hormonas (químico) o calcular días fértiles
-   (natural).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos métodos de control de la natalidad son **de barrera**? Marca **todas** las correctas.
+   a) Preservativo
+   b) Píldora anticonceptiva
+   c) Control del ciclo menstrual
+   d) Diafragma
+   **Respuesta correcta:** a y d.
+   **Retroalimentación:** Natural: control del ciclo menstrual; de barrera: preservativo y diafragma; químico/hormonal: píldora. Cada tipo actúa por un mecanismo distinto.
 
-4. *(Desarrollo breve)* Explica qué es el cigoto y cómo se origina.
-   **Respuesta esperada:** El cigoto es la primera célula de un nuevo individuo,
-   formada por la unión (fecundación) de un espermatozoide y un ovocito; a partir de
-   esta célula comienzan las divisiones que darán origen al embrión.
-   **Retroalimentación:** El cigoto marca el inicio biológico del desarrollo de un
-   nuevo individuo.
+4. *(Alternativas)* ¿Qué es el cigoto y cómo se origina?
+   a) La primera célula de un nuevo individuo, formada por la fecundación de un ovocito por un espermatozoide
+   b) Un órgano que produce hormonas sexuales y regula el ciclo menstrual de la mujer
+   c) Un embrión de tres meses, formado por la unión de varias células del útero
+   d) Una célula que solo existe en las plantas y se forma por la unión de dos semillas en la flor
+   **Respuesta correcta:** a) La primera célula de un nuevo individuo, formada por la fecundación de un ovocito por un espermatozoide.
+   **Retroalimentación:** A partir del cigoto comienzan las divisiones que darán origen al embrión: marca el inicio biológico del desarrollo de un nuevo individuo.
 
-5. *(Análisis)* Explica el mecanismo de acción del preservativo y de la píldora
-   anticonceptiva, señalando en qué se diferencian.
-   **Respuesta esperada:** El preservativo es un método de barrera que impide
-   físicamente el contacto entre el espermatozoide y el ovocito; la píldora
-   anticonceptiva es un método hormonal que impide que ocurra la ovulación, por lo que
-   no hay ovocito disponible para ser fecundado. Se diferencian en que uno actúa
-   bloqueando el contacto y el otro alterando el ciclo hormonal.
-   **Retroalimentación:** Comprender el mecanismo, no solo el nombre del método, ayuda
-   a entender por qué algunos son más efectivos que otros según el uso correcto.
+5. *(Alternativas — análisis)* ¿En qué se diferencia el mecanismo de acción del preservativo y el de la píldora anticonceptiva?
+   a) Los dos impiden la ovulación mediante hormonas; solo cambia la forma de usarlos (uno se toma y el otro se coloca)
+   b) El preservativo es hormonal e impide la ovulación; la píldora es de barrera e impide el contacto entre las células sexuales
+   c) Ninguno actúa sobre la reproducción: ambos sirven solo para prevenir infecciones de transmisión sexual
+   d) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora es hormonal e impide la ovulación
+   **Respuesta correcta:** d) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora es hormonal e impide la ovulación.
+   **Retroalimentación:** Comprender el mecanismo, no solo el nombre del método, ayuda a entender por qué su efectividad depende del uso correcto.
 
-6. *(Análisis de caso)* Lee el siguiente caso: "Camila, de 14 años, está embarazada y
-   debe decidir cómo continuar sus estudios mientras cuida a su bebé." Explica dos
-   implicancias que trae un embarazo en la adolescencia, considerando la idea de
-   paternidad y maternidad responsables.
-   **Respuesta esperada:** Por ejemplo: implicancias físicas (el cuerpo adolescente aún
-   está en desarrollo, lo que puede generar mayores riesgos en el embarazo) e
-   implicancias sociales/educativas (dificultad para compatibilizar estudios y crianza,
-   necesidad de apoyo familiar y social). La paternidad y maternidad responsables
-   implican asumir el cuidado del hijo/a de forma informada y comprometida.
-   **Retroalimentación:** Analizar casos ayuda a comprender que la reproducción humana
-   tiene consecuencias que van más allá de lo biológico.
+6. *(Varias correctas — análisis de caso)* Caso: "Camila, de 14 años, está embarazada y debe decidir cómo continuar sus estudios mientras cuida a su bebé." ¿Cuáles son implicancias de un embarazo en la adolescencia? Marca **todas** las correctas.
+   a) Mayores riesgos físicos, porque el cuerpo adolescente aún está en desarrollo
+   b) Dificultad para compatibilizar estudios y crianza
+   c) Necesidad de apoyo familiar y social
+   d) Ninguna implicancia, porque es igual que en la adultez
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La paternidad y maternidad responsables implican asumir el cuidado del hijo/a de forma informada y comprometida; la reproducción tiene consecuencias que van más allá de lo biológico.
 
-7. *(Aplicación)* Un adolescente pregunta por qué es importante conocer el ciclo
-   menstrual y los métodos de control de la natalidad, aunque no esté pensando en tener
-   hijos ahora. Redacta una respuesta breve que le ayude a comprenderlo.
-   **Respuesta esperada:** Conocer estos procesos permite tomar decisiones informadas y
-   responsables sobre la propia sexualidad y salud reproductiva, prevenir embarazos no
-   planificados, y comprender mejor el propio cuerpo y el de la pareja, favoreciendo el
-   autocuidado.
-   **Retroalimentación:** La educación sobre reproducción humana es una herramienta de
-   autocuidado y toma de decisiones informadas, no solo información biológica.
+7. *(Alternativas — aplicación)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no piense tener hijos ahora. ¿Qué respuesta le ayuda a comprenderlo?
+   a) Porque es información que solo sirve a los adultos que ya tienen hijos, y los adolescentes la necesitarán recién cuando formen una familia
+   b) Porque permite tomar decisiones informadas sobre la propia salud, prevenir embarazos no planificados y conocer mejor el cuerpo propio y de la pareja
+   c) Porque así no tendrá que cuidarse nunca: conocer el ciclo menstrual basta para evitar cualquier embarazo sin usar métodos
+   d) No es importante si no quiere tener hijos, porque los métodos de control de la natalidad solo se usan cuando una pareja ya decidió tenerlos
+   **Respuesta correcta:** b) Porque permite tomar decisiones informadas sobre la propia salud, prevenir embarazos no planificados y conocer mejor el cuerpo propio y de la pareja.
+   **Retroalimentación:** La educación sobre reproducción humana es una herramienta de autocuidado y toma de decisiones informadas, no solo información biológica.
 
 ---
 
@@ -343,52 +331,45 @@ investigación médica y en el desarrollo de algunas vacunas.
    maquinaria para poder replicarse; por eso son considerados un caso límite entre lo
    vivo y lo no vivo.
 
-3. *(Clasificar)* Clasifica estos microorganismos según su tipo: *Penicillium*
-   (productor de penicilina), virus de la influenza, bacteria *E. coli*, levadura de
-   panadería.
-   **Respuesta correcta:** Hongos: *Penicillium*, levadura de panadería. Virus: virus
-   de la influenza. Bacterias: *E. coli*.
-   **Retroalimentación:** Fíjate en la estructura celular y el nombre del organismo
-   para clasificarlo correctamente.
+3. *(Varias correctas — clasificar)* ¿Cuáles de estos microorganismos son **hongos**? Marca **todas** las correctas.
+   a) *Penicillium* (productor de penicilina)
+   b) Virus de la influenza
+   c) Bacteria *E. coli*
+   d) Levadura de panadería
+   **Respuesta correcta:** a y d.
+   **Retroalimentación:** Hongos: *Penicillium* y levadura; virus: influenza; bacteria: *E. coli*. Fíjate en la estructura celular y el nombre del organismo.
 
-4. *(Desarrollo breve)* Explica por qué los virus no cumplen, de forma autónoma, con
-   todas las características comunes de los seres vivos.
-   **Respuesta esperada:** Porque los virus no pueden alimentarse ni reproducirse por
-   sí mismos; dependen completamente de invadir una célula huésped y usar sus recursos
-   para replicarse, a diferencia de bacterias y hongos, que sí pueden hacerlo de forma
-   independiente.
-   **Retroalimentación:** Esta dependencia es la razón por la que los virus se
-   consideran un caso especial dentro de la biología.
+4. *(Alternativas)* ¿Por qué los virus no cumplen, de forma autónoma, con todas las características de los seres vivos?
+   a) Porque son más grandes que las bacterias y no caben dentro de las células que infectan
+   b) Porque tienen núcleo y organelos, igual que las células de los animales y las plantas
+   c) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse
+   d) Porque se reproducen solos en el aire, sin necesitar ninguna célula huésped para multiplicarse
+   **Respuesta correcta:** c) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse.
+   **Retroalimentación:** Esta dependencia es la razón por la que los virus se consideran un caso especial dentro de la biología; bacterias y hongos sí se reproducen de forma independiente.
 
-5. *(Análisis/comparación)* Compara una bacteria y un hongo en términos de sus
-   características estructurales (tamaño, tipo de célula).
-   **Respuesta esperada:** Las bacterias son procariontes, generalmente más pequeñas y
-   de estructura celular más simple (sin núcleo definido); los hongos son eucariontes,
-   con una estructura celular más compleja (con núcleo y organelos definidos), y pueden
-   ser unicelulares o multicelulares.
-   **Retroalimentación:** Comparar el tipo de célula (procarionte/eucarionte) es la
-   clave para diferenciar estructuralmente bacterias y hongos.
+5. *(Alternativas — comparar)* ¿Qué comparación estructural entre una bacteria y un hongo es **correcta**?
+   a) La bacteria es procarionte, más pequeña y sin núcleo definido; el hongo es eucarionte, con núcleo y organelos, unicelular o multicelular
+   b) La bacteria es eucarionte, con núcleo y organelos; el hongo es procarionte, más pequeño y sin núcleo definido, siempre unicelular
+   c) Los dos tienen la misma estructura celular: ambos son procariontes, sin núcleo definido, y se diferencian solo por su tamaño
+   d) La bacteria siempre es multicelular y tiene núcleo; el hongo es siempre unicelular y no tiene organelos ni núcleo definido
+   **Respuesta correcta:** a) La bacteria es procarionte, más pequeña y sin núcleo definido; el hongo es eucarionte, con núcleo y organelos, unicelular o multicelular.
+   **Retroalimentación:** Comparar el tipo de célula (procarionte/eucarionte) es la clave para diferenciar estructuralmente bacterias y hongos.
 
-6. *(Aplicación/análisis)* Da un ejemplo de efecto positivo y uno de efecto negativo
-   sobre la salud humana para cada tipo de microorganismo: bacteria, hongo y virus.
-   **Respuesta esperada:** Bacterias: positivo (flora intestinal que ayuda a la
-   digestión), negativo (tuberculosis). Hongos: positivo (penicilina, fermentación de
-   alimentos), negativo (pie de atleta). Virus: positivo (uso en el desarrollo de
-   vacunas), negativo (gripe, resfrío).
-   **Retroalimentación:** Los microorganismos no son "buenos" o "malos" en sí mismos:
-   sus efectos dependen de la especie y del contexto.
+6. *(Varias correctas — aplicación)* ¿Cuáles de estos ejemplos de efectos de microorganismos sobre la salud humana son **correctos**? Marca **todas** las correctas.
+   a) Bacterias: la flora intestinal ayuda a la digestión
+   b) Hongos: la penicilina combate infecciones
+   c) Virus: se usan en el desarrollo de vacunas
+   d) Bacterias: causan la gripe y el resfrío
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La gripe y el resfrío son causados por virus, no por bacterias. Los microorganismos no son "buenos" o "malos" en sí mismos: sus efectos dependen de la especie y del contexto.
 
-7. *(Investigación/modelo)* Diseña un modelo simple (esquema o descripción) que compare
-   el tamaño relativo y la estructura básica de un virus, una bacteria y un hongo
-   unicelular.
-   **Respuesta esperada:** Una posible descripción: el virus es el más pequeño, con
-   solo material genético y una cápsula de proteínas, sin estructura celular completa;
-   la bacteria es más grande, con una célula procarionte simple, sin núcleo definido;
-   el hongo unicelular (como una levadura) es el más grande de los tres, con una célula
-   eucarionte, con núcleo y organelos.
-   **Retroalimentación:** Ordenar estos microorganismos por tamaño y complejidad
-   estructural (virus < bacteria < hongo unicelular) ayuda a visualizar sus
-   diferencias.
+7. *(Alternativas — modelo)* ¿Cuál es el orden correcto de tamaño y complejidad estructural, de menor a mayor?
+   a) Bacteria < virus < hongo unicelular
+   b) Hongo unicelular < bacteria < virus
+   c) Virus < hongo unicelular < bacteria
+   d) Virus < bacteria < hongo unicelular
+   **Respuesta correcta:** d) Virus < bacteria < hongo unicelular.
+   **Retroalimentación:** El virus es el más pequeño (material genético y cápsula de proteínas, sin estructura celular completa); la bacteria es una célula procarionte simple; el hongo unicelular, como la levadura, es una célula eucarionte con núcleo y organelos.
 
 ---
 
@@ -461,53 +442,44 @@ constantemente en situaciones cotidianas, muchas veces de forma simultánea.
    contacto: superficies más rugosas generan mayor fuerza de roce que superficies
    lisas.
 
-3. *(Clasificar)* Clasifica la fuerza principal involucrada en cada situación
-   (gravitacional, de roce o elástica): una manzana cae de un árbol; un resorte se
-   estira al colgarle un peso; un auto frena al pisar el pedal de freno (neumáticos
-   contra el pavimento).
-   **Respuesta correcta:** Gravitacional: manzana que cae. Elástica: resorte que se
-   estira. De roce: auto que frena.
-   **Retroalimentación:** Identificar qué causa el efecto observado (atracción hacia la
-   Tierra, deformación elástica, oposición al movimiento) ayuda a reconocer el tipo de
-   fuerza.
+3. *(Alternativas — clasificar)* Un auto frena al pisar el pedal (neumáticos contra el pavimento). ¿Qué fuerza principal está involucrada?
+   a) Gravitacional
+   b) De roce
+   c) Elástica
+   **Respuesta correcta:** b) De roce.
+   **Retroalimentación:** Una manzana que cae: gravitacional; un resorte que se estira: elástica; un auto que frena: de roce. Identificar qué causa el efecto observado ayuda a reconocer el tipo de fuerza.
 
-4. *(Desarrollo breve)* Explica la diferencia entre el roce estático y el roce
-   cinético.
-   **Respuesta esperada:** El roce estático actúa sobre un objeto en reposo, impidiendo
-   que comience a moverse, hasta que se supera cierta fuerza; el roce cinético actúa
-   sobre un objeto que ya está en movimiento, oponiéndose y frenando ese movimiento.
-   **Retroalimentación:** Ambos tipos de roce se oponen al movimiento, pero actúan en
-   momentos distintos: antes de moverse (estático) o durante el movimiento (cinético).
+4. *(Alternativas)* ¿Qué diferencia hay entre el roce estático y el roce cinético?
+   a) El estático solo existe en el hielo y en superficies lisas; el cinético solo existe en superficies rugosas como el cemento
+   b) El estático actúa sobre un objeto en reposo e impide que comience a moverse; el cinético actúa sobre un objeto en movimiento y lo frena
+   c) El cinético impide que un objeto empiece a moverse; el estático actúa cuando el objeto ya está en movimiento y lo acelera
+   d) Son exactamente lo mismo: ambos actúan sobre objetos en movimiento y solo cambia el nombre según el libro
+   **Respuesta correcta:** b) El estático actúa sobre un objeto en reposo e impide que comience a moverse; el cinético actúa sobre un objeto en movimiento y lo frena.
+   **Retroalimentación:** Ambos se oponen al movimiento, pero actúan en momentos distintos: antes de moverse (estático) o durante el movimiento (cinético).
 
-5. *(Análisis)* Explica por qué es más fácil deslizar una caja pesada sobre hielo que
-   sobre cemento, relacionándolo con la fuerza de roce.
-   **Respuesta esperada:** Porque el hielo es una superficie mucho más lisa que el
-   cemento, lo que genera menor fuerza de roce entre la caja y la superficie,
-   facilitando el deslizamiento; el cemento, al ser más rugoso, genera mayor roce y
-   dificulta el movimiento.
-   **Retroalimentación:** La rugosidad de las superficies en contacto es un factor
-   clave que determina la magnitud del roce.
+5. *(Alternativas — análisis)* ¿Por qué es más fácil deslizar una caja pesada sobre hielo que sobre cemento?
+   a) Porque en el hielo la caja pesa menos, ya que el frío reduce la fuerza de gravedad
+   b) Porque el cemento atrae a la caja como un imán y la mantiene pegada al suelo
+   c) Porque el hielo es más liso y genera menor fuerza de roce que el cemento, que es más rugoso
+   d) Porque en el hielo no existe la gravedad, y la caja flota sobre la superficie
+   **Respuesta correcta:** c) Porque el hielo es más liso y genera menor fuerza de roce que el cemento, que es más rugoso.
+   **Retroalimentación:** La rugosidad de las superficies en contacto es un factor clave que determina la magnitud del roce.
 
-6. *(Investigación experimental)* Diseña un experimento simple para comparar la fuerza
-   elástica ejercida por dos ligas de distinto grosor al ser estiradas la misma
-   distancia. Describe qué medirías y qué esperarías observar.
-   **Respuesta esperada:** Se podría estirar cada liga la misma distancia sujetando un
-   extremo fijo y midiendo, con un dinamómetro, la fuerza necesaria para mantenerla
-   estirada; se esperaría que la liga más gruesa ejerza una fuerza elástica mayor que
-   la liga más delgada, para una misma deformación.
-   **Retroalimentación:** Un buen diseño experimental controla la variable que se
-   quiere comparar (grosor de la liga) manteniendo constante la distancia de
-   estiramiento.
+6. *(Alternativas — diseño experimental)* Quieres comparar la fuerza elástica de dos ligas de distinto grosor. ¿Qué diseño experimental es adecuado?
+   a) Estirar cada liga la misma distancia y medir con un dinamómetro la fuerza necesaria; se espera que la más gruesa ejerza más fuerza
+   b) Estirar cada liga una distancia distinta y comparar a simple vista cuál parece más tensa, sin usar ningún instrumento de medición
+   c) Medir solo el color y el largo de cada liga, porque las ligas más oscuras y largas ejercen siempre más fuerza elástica
+   d) Estirar solo la liga gruesa con el dinamómetro, porque la delgada se puede romper, y suponer que la otra ejerce la mitad
+   **Respuesta correcta:** a) Estirar cada liga la misma distancia y medir con un dinamómetro la fuerza necesaria; se espera que la más gruesa ejerza más fuerza.
+   **Retroalimentación:** Un buen diseño controla la variable que se compara (el grosor) manteniendo constante la distancia de estiramiento.
 
-7. *(Aplicación/análisis)* Un ciclista pedalea cuesta abajo y nota que, a pesar de no
-   pedalear, su bicicleta sigue acelerando. Explica qué fuerza es la principal
-   responsable de esa aceleración, y qué otra fuerza actúa oponiéndose a ella.
-   **Respuesta esperada:** La fuerza gravitacional (el peso del ciclista y la
-   bicicleta) es la principal responsable de la aceleración cuesta abajo; el roce con
-   el aire y el roce entre los neumáticos y el pavimento actúan oponiéndose a ese
-   movimiento, frenándolo parcialmente.
-   **Retroalimentación:** En situaciones cotidianas, varias fuerzas suelen actuar a la
-   vez, unas favoreciendo el movimiento y otras oponiéndose a él.
+7. *(Alternativas — análisis)* Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa la aceleración y cuál se opone?
+   a) La fuerza elástica de los neumáticos causa la aceleración; la gravedad se opone
+   b) El roce con el pavimento causa la aceleración; la gravedad y el aire se oponen
+   c) Ninguna fuerza actúa: la bicicleta acelera sola por la inercia de la bajada
+   d) La fuerza gravitacional causa la aceleración; el roce con el aire y con el pavimento se opone
+   **Respuesta correcta:** d) La fuerza gravitacional causa la aceleración; el roce con el aire y con el pavimento se opone.
+   **Retroalimentación:** En situaciones cotidianas, varias fuerzas suelen actuar a la vez, unas favoreciendo el movimiento y otras oponiéndose a él.
 
 ---
 
@@ -583,56 +555,44 @@ las placas.
    principalmente en los bordes de las placas tectónicas, donde ocurre la interacción
    entre ellas.
 
-3. *(Clasificar)* Clasifica estos ejemplos según el tipo de límite de placas al que
-   corresponden (convergente, divergente o transformante): formación de una dorsal
-   oceánica donde sube material del manto; choque entre dos placas que forma una
-   cordillera; deslizamiento lateral entre dos placas que genera fricción.
-   **Respuesta correcta:** Divergente: formación de dorsal oceánica. Convergente:
-   choque que forma cordillera. Transformante: deslizamiento lateral.
-   **Retroalimentación:** Cada tipo de límite se distingue por la dirección relativa
-   del movimiento entre las placas (acercarse, alejarse o deslizarse lateralmente).
+3. *(Alternativas — clasificar)* ¿A qué tipo de límite de placas corresponde el choque entre dos placas que forma una cordillera?
+   a) Divergente
+   b) Transformante
+   c) Convergente
+   **Respuesta correcta:** c) Convergente.
+   **Retroalimentación:** Divergente: se forma una dorsal oceánica donde sube material del manto; convergente: las placas chocan y forman cordilleras; transformante: se deslizan lateralmente. Se distinguen por la dirección relativa del movimiento.
 
-4. *(Desarrollo breve)* Explica qué son las corrientes convectivas del manto y por qué
-   se consideran la principal causa del movimiento de las placas tectónicas.
-   **Respuesta esperada:** Son movimientos de material caliente que asciende y material
-   más frío que desciende dentro del manto terrestre, generados por diferencias de
-   temperatura; este movimiento de material transporta y empuja lentamente a las
-   placas tectónicas que flotan sobre el manto, siendo su principal motor.
-   **Retroalimentación:** El calor interno de la Tierra es la fuente de energía que
-   impulsa este proceso geológico de larga duración.
+4. *(Alternativas)* ¿Qué son las corrientes convectivas del manto y por qué se consideran la principal causa del movimiento de las placas?
+   a) Corrientes de agua del océano que circulan bajo los continentes y los empujan lentamente, separándolos a lo largo de millones de años
+   b) Movimientos de material caliente que asciende y más frío que desciende en el manto; ese movimiento arrastra lentamente a las placas que se desplazan sobre él
+   c) Vientos que soplan sobre la superficie terrestre con gran fuerza, y que al chocar con las montañas desplazan las placas de la corteza
+   d) Terremotos que mueven el núcleo de la Tierra y, al sacudirlo, hacen que las placas se desplacen de un lugar a otro del planeta
+   **Respuesta correcta:** b) Movimientos de material caliente que asciende y más frío que desciende en el manto; ese movimiento arrastra lentamente a las placas que se desplazan sobre él.
+   **Retroalimentación:** El calor interno de la Tierra es la fuente de energía que impulsa este proceso geológico de larga duración. Las placas no "flotan" como en el agua: se desplazan sobre una parte del manto que fluye muy lentamente.
 
-5. *(Análisis)* Explica por qué Chile es un país con alta actividad sísmica y
-   volcánica, relacionándolo con las placas tectónicas que interactúan en su
-   territorio.
-   **Respuesta esperada:** Porque en la costa de Chile converge la placa de Nazca con
-   la placa Sudamericana (y en el extremo sur, también con la placa Antártica); la
-   subducción de la placa de Nazca bajo la Sudamericana libera gran cantidad de energía
-   en forma de sismos y favorece la formación de volcanes a lo largo de la cordillera.
-   **Retroalimentación:** Comprender la ubicación de Chile respecto a los límites de
-   placas ayuda a entender por qué el país presenta esta actividad geológica constante.
+5. *(Alternativas — análisis)* ¿Por qué Chile tiene alta actividad sísmica y volcánica?
+   a) Porque Chile está en el centro de una placa, lejos de sus bordes, donde la presión acumulada es mayor y se libera en sismos y erupciones
+   b) Porque el clima de Chile es muy variado, y los cambios bruscos de temperatura entre zonas agrietan la corteza y abren volcanes
+   c) Porque la placa de Nazca subduce bajo la Sudamericana (y en el extremo sur interviene la Antártica), liberando energía y favoreciendo la formación de volcanes
+   d) Porque Chile tiene muchos ríos que bajan de la cordillera, y su agua se infiltra hasta el manto, donde provoca sismos y erupciones
+   **Respuesta correcta:** c) Porque la placa de Nazca subduce bajo la Sudamericana (y en el extremo sur interviene la Antártica), liberando energía y favoreciendo la formación de volcanes.
+   **Retroalimentación:** Comprender la ubicación de Chile respecto a los límites de placas ayuda a entender su actividad geológica constante.
 
-6. *(Análisis/relación conceptual)* Explica cómo el modelo de la tectónica de placas
-   apoya la teoría de la deriva continental propuesta por Wegener.
-   **Respuesta esperada:** La teoría de la deriva continental planteaba que los
-   continentes se movían, pero no explicaba el mecanismo; el modelo de la tectónica de
-   placas, décadas después, explicó que ese movimiento ocurre porque los continentes
-   forman parte de placas tectónicas que se desplazan sobre el manto debido a las
-   corrientes convectivas, dando un fundamento físico a la idea de Wegener.
-   **Retroalimentación:** La ciencia avanza cuando nuevas evidencias y modelos explican
-   el "cómo" de fenómenos que antes solo se habían observado sin poder explicarlos del
-   todo.
+6. *(Alternativas — vincular conceptos)* ¿Cómo apoya el modelo de la tectónica de placas la teoría de la deriva continental de Wegener?
+   a) Explica el mecanismo que Wegener no pudo explicar: los continentes son parte de placas que se desplazan sobre el manto por las corrientes convectivas
+   b) Demuestra que los continentes nunca se movieron, y que su forma parecida se debe a la erosión que produjeron los océanos durante millones de años
+   c) Reemplaza la idea de que los continentes se mueven por la de que flotan en el océano, empujados por las corrientes marinas y los vientos
+   d) No tienen ninguna relación: la deriva continental habla de los océanos y la tectónica de placas habla solo de los volcanes y los sismos
+   **Respuesta correcta:** a) Explica el mecanismo que Wegener no pudo explicar: los continentes son parte de placas que se desplazan sobre el manto por las corrientes convectivas.
+   **Retroalimentación:** La ciencia avanza cuando nuevas evidencias y modelos explican el "cómo" de fenómenos que antes solo se habían observado.
 
-7. *(Investigación/aplicación)* Un estudiante observa en un mapa que las principales
-   cadenas montañosas y zonas volcánicas del mundo (como los Andes o el "Cinturón de
-   Fuego" del Pacífico) coinciden con los bordes de las placas tectónicas. Explica por
-   qué ocurre esta coincidencia.
-   **Respuesta esperada:** Porque en los bordes de las placas es donde ocurre la
-   interacción entre ellas (convergencia, divergencia o deslizamiento), liberando la
-   energía que forma montañas, provoca sismos y genera actividad volcánica; por eso la
-   actividad geológica no es aleatoria, sino que sigue el patrón de distribución de los
-   límites de placas.
-   **Retroalimentación:** Reconocer este patrón de distribución es una de las
-   principales evidencias que sostienen el modelo de la tectónica de placas.
+7. *(Alternativas — aplicación)* ¿Por qué las principales cadenas montañosas y zonas volcánicas del mundo coinciden con los bordes de las placas tectónicas?
+   a) Por casualidad: las montañas y los volcanes se distribuyen al azar, y en los mapas solo parece que coinciden con los bordes
+   b) Porque en el centro de las placas hace más calor, y ese calor empuja el magma hacia los bordes, donde se acumula sin liberar energía
+   c) Porque los océanos producen los volcanes, y los bordes de las placas siempre coinciden con las costas de los continentes
+   d) Porque en los bordes las placas interactúan (convergen, divergen o se deslizan), liberando la energía que forma montañas, sismos y volcanes
+   **Respuesta correcta:** d) Porque en los bordes las placas interactúan (convergen, divergen o se deslizan), liberando la energía que forma montañas, sismos y volcanes.
+   **Retroalimentación:** Reconocer este patrón de distribución es una de las principales evidencias que sostienen el modelo de la tectónica de placas.
 
 ---
 
@@ -709,54 +669,44 @@ con los gases.
    están muy separadas entre sí, con grandes espacios vacíos, lo que permite reducir
    su volumen fácilmente al aplicar presión.
 
-3. *(Clasificar)* Asocia cada situación con la ley de los gases correspondiente
-   (Boyle, Charles o Gay-Lussac): un globo se expande al calentarse, a presión
-   constante; el aire en una jeringa tapada aumenta su presión al reducir su volumen, a
-   temperatura constante; la presión de un neumático aumenta con el calor del día, a
-   volumen constante.
-   **Respuesta correcta:** Charles: globo que se expande al calentarse. Boyle: jeringa
-   tapada que aumenta su presión al reducir volumen. Gay-Lussac: neumático que aumenta
-   su presión con el calor.
-   **Retroalimentación:** Identifica qué magnitud se mantiene constante en cada caso
-   (temperatura, presión o volumen) para reconocer la ley correspondiente.
+3. *(Alternativas — vincular con la ley)* Un globo se expande al calentarse, a presión constante. ¿Qué ley de los gases describe esta situación?
+   a) Ley de Charles
+   b) Ley de Boyle
+   c) Ley de Gay-Lussac
+   **Respuesta correcta:** a) Ley de Charles.
+   **Retroalimentación:** Charles: volumen y temperatura a presión constante; Boyle: presión y volumen a temperatura constante (jeringa tapada); Gay-Lussac: presión y temperatura a volumen constante (neumático al sol). Identifica qué magnitud se mantiene constante.
 
-4. *(Desarrollo breve)* Explica, según la teoría cinético-molecular, por qué los gases
-   son más compresibles que los líquidos.
-   **Respuesta esperada:** Porque en un gas las partículas están muy separadas entre
-   sí, con grandes espacios vacíos, por lo que es posible acercarlas al aplicar
-   presión, reduciendo el volumen; en un líquido, las partículas ya están mucho más
-   juntas, con poco espacio vacío entre ellas, por lo que es mucho más difícil
-   comprimirlo.
-   **Retroalimentación:** La cantidad de espacio vacío entre partículas es la clave
-   para explicar la compresibilidad de los distintos estados de la materia.
+4. *(Alternativas)* Según la teoría cinético-molecular, ¿por qué los gases son más compresibles que los líquidos?
+   a) Porque sus partículas están más juntas que en los líquidos y se ordenan al aplicar presión
+   b) Porque sus partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión
+   c) Porque los gases no tienen partículas, solo espacio vacío que se puede reducir sin límite
+   d) Porque los líquidos tienen más espacio vacío entre sus partículas, pero sus partículas se repelen
+   **Respuesta correcta:** b) Porque sus partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión.
+   **Retroalimentación:** La cantidad de espacio vacío entre partículas es la clave para explicar la compresibilidad de los estados de la materia.
 
-5. *(Análisis/cálculo simple)* Un gas ocupa un volumen de 4 litros a una presión de 2
-   atmósferas. Si la temperatura se mantiene constante y el volumen se reduce a 2
-   litros, ¿cuál será la nueva presión, según la Ley de Boyle (P₁ × V₁ = P₂ × V₂)?
-   **Respuesta correcta:** P₂ = (P₁ × V₁) / V₂ = (2 atm × 4 L) / 2 L = 4 atmósferas.
-   **Retroalimentación:** La Ley de Boyle permite calcular cómo cambia la presión de un
-   gas cuando cambia su volumen, siempre que la temperatura se mantenga constante.
+5. *(Alternativas — cálculo)* Un gas ocupa 4 litros a 2 atmósferas. Si la temperatura se mantiene constante y el volumen se reduce a 2 litros, ¿cuál será la nueva presión, según la Ley de Boyle (P₁ × V₁ = P₂ × V₂)?
+   a) 1 atmósfera
+   b) 2 atmósferas
+   c) 4 atmósferas
+   d) 8 atmósferas
+   **Respuesta correcta:** c) 4 atmósferas.
+   **Retroalimentación:** P₂ = (2 atm × 4 L) / 2 L = 4 atm: al reducir el volumen a la mitad, la presión se duplica.
 
-6. *(Investigación experimental)* Describe un experimento simple que podrías realizar
-   en tu casa para observar el efecto de la temperatura sobre el volumen de un gas
-   (Ley de Charles), y qué esperarías observar.
-   **Respuesta esperada:** Por ejemplo: colocar un globo poco inflado sobre la boca de
-   una botella vacía y calentar la botella suavemente (por ejemplo, con las manos o
-   en agua tibia); se esperaría que el globo se infle un poco más, porque el aire
-   dentro de la botella se expande al aumentar su temperatura.
-   **Retroalimentación:** Un buen diseño experimental identifica claramente qué
-   variable se modifica (temperatura) y qué efecto se espera observar (cambio de
-   volumen).
+6. *(Alternativas — diseño experimental)* ¿Qué experimento simple permite observar el efecto de la temperatura sobre el volumen de un gas (Ley de Charles)?
+   a) Poner un globo poco inflado en la boca de una botella y entibiarla: el globo se infla un poco más porque el aire se expande
+   b) Pesar una botella vacía en una balanza, primero fría y luego tibia, y ver si su masa aumenta con la temperatura
+   c) Llenar una botella con agua fría, medir su color y luego compararlo con el de una botella llena de agua caliente
+   d) Apretar un globo con las manos sin cambiar la temperatura y observar cómo su volumen disminuye al aumentar la presión
+   **Respuesta correcta:** a) Poner un globo poco inflado en la boca de una botella y entibiarla: el globo se infla un poco más porque el aire se expande.
+   **Retroalimentación:** Un buen diseño identifica qué variable se modifica (temperatura) y qué efecto se espera observar (cambio de volumen).
 
-7. *(Aplicación/análisis)* Explica por qué no es recomendable dejar una lata de bebida
-   gasificada cerrada expuesta al sol por mucho tiempo, usando lo que sabes sobre las
-   leyes de los gases.
-   **Respuesta esperada:** Porque al aumentar la temperatura, la presión del gas dentro
-   de la lata (a volumen prácticamente constante) aumenta considerablemente, según la
-   Ley de Gay-Lussac; si la presión supera la resistencia del envase, la lata podría
-   explotar o liberar el gas de forma brusca.
-   **Retroalimentación:** Comprender las leyes de los gases permite explicar riesgos y
-   fenómenos cotidianos de forma científica, no solo como "sentido común".
+7. *(Alternativas — aplicación)* ¿Por qué no es recomendable dejar una lata de bebida gasificada cerrada al sol por mucho tiempo?
+   a) Porque el sol enfría la lata y la congela, y al congelarse la bebida se rompe el envase de aluminio
+   b) Porque la bebida pierde su color y su sabor con la luz, aunque la presión del gas no cambia con el calor
+   c) Porque la lata se vuelve más grande sin ningún riesgo: el aluminio se estira con el calor y el gas tiene más espacio
+   d) Porque al aumentar la temperatura, la presión del gas a volumen casi constante aumenta (Gay-Lussac) y la lata podría reventar
+   **Respuesta correcta:** d) Porque al aumentar la temperatura, la presión del gas a volumen casi constante aumenta (Gay-Lussac) y la lata podría reventar.
+   **Retroalimentación:** Comprender las leyes de los gases permite explicar riesgos y fenómenos cotidianos de forma científica.
 
 ---
 
@@ -837,55 +787,45 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
    manera uniforme y no se distinguen a simple vista, a diferencia de una mezcla
    heterogénea.
 
-3. *(Clasificar)* Clasifica estas sustancias/mezclas como sustancia pura, mezcla
-   homogénea o mezcla heterogénea: agua destilada, agua con sal disuelta, ensalada de
-   frutas, oxígeno puro.
-   **Respuesta correcta:** Sustancia pura: agua destilada, oxígeno puro. Mezcla
-   homogénea: agua con sal disuelta. Mezcla heterogénea: ensalada de frutas.
-   **Retroalimentación:** El criterio clave es si se distingue o no un solo componente
-   (sustancia pura), o si al mezclarse varios componentes se distinguen a simple vista
-   (heterogénea) o no (homogénea).
+3. *(Varias correctas — clasificar)* ¿Cuáles de estas son **sustancias puras**? Marca **todas** las correctas.
+   a) Agua destilada
+   b) Agua con sal disuelta
+   c) Ensalada de frutas
+   d) Oxígeno puro
+   **Respuesta correcta:** a y d.
+   **Retroalimentación:** El agua con sal es una mezcla homogénea y la ensalada de frutas una mezcla heterogénea. El criterio es si hay un solo componente o, si hay varios, si se distinguen a simple vista.
 
-4. *(Desarrollo breve)* Explica la diferencia entre filtración y tamizado como métodos
-   de separación de mezclas.
-   **Respuesta esperada:** La filtración separa un sólido de un líquido haciendo pasar
-   la mezcla por un filtro que retiene las partículas sólidas; el tamizado separa
-   sólidos de distinto tamaño de partícula, usando un tamiz con orificios de un tamaño
-   determinado, sin que intervenga necesariamente un líquido.
-   **Retroalimentación:** Ambos métodos usan una especie de "colador", pero la
-   filtración separa sólido de líquido y el tamizado separa sólidos entre sí según su
-   tamaño.
+4. *(Alternativas)* ¿Qué diferencia hay entre filtración y tamizado?
+   a) La filtración separa sólidos por tamaño y el tamizado separa líquidos
+   b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño con un tamiz
+   c) Los dos separan agua y aceite: la filtración retiene el aceite y el tamizado deja pasar solo el agua limpia
+   d) No hay diferencia: ambos separan un sólido de un líquido, y solo cambia el material del que está hecho el filtro
+   **Respuesta correcta:** b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño con un tamiz.
+   **Retroalimentación:** Ambos usan una especie de "colador", pero la filtración separa sólido de líquido y el tamizado separa sólidos entre sí según su tamaño.
 
-5. *(Análisis)* Explica por qué la decantación es un método adecuado para separar agua
-   y aceite, relacionándolo con una propiedad física de estos líquidos.
-   **Respuesta esperada:** Porque el agua y el aceite son líquidos no miscibles (no se
-   mezclan entre sí) y tienen distinta densidad: el aceite, al ser menos denso, flota
-   sobre el agua; esto permite separarlos dejando que se asienten en capas y vertiendo
-   cuidadosamente una de ellas.
-   **Retroalimentación:** La decantación aprovecha diferencias de densidad entre
-   componentes que no se mezclan químicamente.
+5. *(Alternativas — análisis)* ¿Por qué la decantación es adecuada para separar agua y aceite?
+   a) Porque el aceite se evapora primero al calentar la mezcla y el agua queda sola
+   b) Porque el agua es atraída por un imán y se separa del aceite, que no es magnético
+   c) Porque no se mezclan y tienen distinta densidad: el aceite, menos denso, flota sobre el agua
+   d) Porque los dos tienen la misma densidad y se mezclan, pero el aceite cambia de color
+   **Respuesta correcta:** c) Porque no se mezclan y tienen distinta densidad: el aceite, menos denso, flota sobre el agua.
+   **Retroalimentación:** La decantación aprovecha diferencias de densidad entre componentes que no se mezclan.
 
-6. *(Investigación experimental)* Diseña un procedimiento simple para separar una
-   mezcla formada por arena, sal y agua (la sal está disuelta en el agua). Describe los
-   pasos y los métodos que usarías.
-   **Respuesta esperada:** Primero, se podría filtrar la mezcla para separar la arena
-   (sólido no disuelto) del agua con sal disuelta; luego, se podría destilar o evaporar
-   el agua salada restante para separar el agua (que se evapora) de la sal (que queda
-   como residuo sólido).
-   **Retroalimentación:** Muchas mezclas complejas requieren combinar más de un método
-   de separación, aplicados en un orden lógico según las propiedades de cada
-   componente.
+6. *(Alternativas — procedimiento)* ¿Qué procedimiento permite separar una mezcla de arena, sal y agua (la sal está disuelta en el agua)?
+   a) Primero filtrar para retirar la arena; luego evaporar o destilar el agua salada para obtener la sal
+   b) Primero evaporar todo el líquido y luego filtrar el vapor para separar la sal de la arena
+   c) Usar solo un tamiz fino, que retiene la arena y la sal y deja pasar el agua limpia
+   d) Usar un imán para retirar la sal disuelta y luego decantar la arena del agua
+   **Respuesta correcta:** a) Primero filtrar para retirar la arena; luego evaporar o destilar el agua salada para obtener la sal.
+   **Retroalimentación:** Muchas mezclas complejas requieren combinar métodos, aplicados en un orden lógico según las propiedades de cada componente.
 
-7. *(Aplicación industrial)* Explica, con un ejemplo, cómo se aplican los
-   procedimientos de separación de mezclas en algún proceso industrial relevante para
-   Chile, como la minería o el tratamiento de aguas.
-   **Respuesta esperada:** Por ejemplo, en la minería del cobre, se usan procesos de
-   separación para extraer el mineral de la roca; en el tratamiento de aguas servidas,
-   se combinan la filtración y la decantación para retirar sólidos e impurezas del agua
-   antes de devolverla al ambiente o reutilizarla.
-   **Retroalimentación:** Los métodos de separación de mezclas no son solo
-   procedimientos de laboratorio: tienen aplicaciones industriales fundamentales para
-   la economía y el medioambiente en Chile.
+7. *(Alternativas — aplicación industrial)* ¿Qué ejemplo muestra correctamente la aplicación de métodos de separación en un proceso industrial de Chile?
+   a) En la minería se mezcla el cobre con más roca molida para aumentar su peso antes de venderlo
+   b) En las plantas de agua potable se agrega arena y basura para que el agua quede más limpia
+   c) Ningún proceso industrial usa separación de mezclas: solo se usan en laboratorios escolares
+   d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas
+   **Respuesta correcta:** d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas.
+   **Retroalimentación:** En la minería del cobre también se usan procesos de separación para extraer el mineral de la roca: estos métodos tienen aplicaciones fundamentales para la economía y el medioambiente.
 
 ---
 

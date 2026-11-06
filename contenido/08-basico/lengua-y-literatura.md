@@ -84,41 +84,61 @@ En 8° básico, tu análisis de narraciones se vuelve más fino que en 7°. Ya n
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El legado del tío Custodio"?
 
-a) La falta de dinero de Custodio para sobrevivir
-b) La tensión entre la imagen de "tacaño" que el pueblo construye de Custodio y la verdadera razón, oculta, de su forma de vivir
-c) La pelea entre Custodio y su padre por el taller incendiado
-d) La decisión del narrador de mudarse a Quirihue
+a) La falta de dinero de Custodio para sobrevivir, que lo obliga a vivir con lo mínimo y pedir ayuda a sus vecinos del pueblo
+b) La pelea entre Custodio y su padre por el taller incendiado, que los distanció durante años hasta la muerte del padre
+c) La tensión entre la imagen de "tacaño" que el pueblo construye de Custodio y la verdadera razón, oculta, de su forma de vivir
+d) La decisión del narrador de mudarse a Quirihue para cuidar a su tío y heredar la casa familiar que él le prometió
 
-*Respuesta correcta: b.* Retroalimentación: el conflicto central organiza toda la historia y explica tanto las acciones de Custodio como la evolución de la mirada del narrador hacia él.
+*Respuesta correcta: c.* Retroalimentación: el conflicto central organiza toda la historia y explica tanto las acciones de Custodio como la evolución de la mirada del narrador hacia él.
 
-**2. (Desarrollo breve)** Describe cómo evoluciona el narrador (el sobrino) a lo largo del relato en su relación con su tío Custodio.
+**2. (Alternativas)** ¿Cómo evoluciona el narrador (el sobrino) en su relación con su tío Custodio?
 
-*Respuesta esperada*: el narrador pasa de la incomprensión y la curiosidad poco discreta de la adolescencia, compartiendo en parte el prejuicio del pueblo, a una mirada adulta, autocrítica y comprensiva, al descubrir después de la muerte de Custodio el verdadero motivo de su forma de vivir. Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio del relato con cómo termina, y no solo repetir lo que hizo.
+a) Pasa de la incomprensión y el prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras la muerte de Custodio el motivo de su forma de vivir
+b) Admira a su tío desde el comienzo, a diferencia del pueblo, y nunca cambia de opinión, porque siempre supo el motivo de su forma de vivir y lo defendió frente a todos
+c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había escondido dinero a su familia
+d) No tiene ninguna relación con su tío: lo conoce solo por lo que cuenta el pueblo y su mirada sobre él no cambia a lo largo del relato
+
+*Respuesta correcta: a.* Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio con cómo termina.
 
 **3. (Verdadero o Falso)** El narrador del fragmento y el autor de la novela *Las llaves de la casa vieja* son necesariamente la misma persona, con las mismas ideas y experiencias.
 
 *Respuesta correcta: Falso.* Retroalimentación: el narrador es una voz construida dentro del relato (en este caso, un personaje que participa en la historia), mientras que el autor es la persona real que escribió la novela; ambos pueden pensar distinto y no deben confundirse.
 
-**4. (Aplicación)** Explica por qué la llave oxidada puede considerarse un **símbolo** dentro del relato, y no solo un objeto cualquiera.
+**4. (Alternativas — Aplicación)** ¿Por qué la llave oxidada puede considerarse un **símbolo** en el relato?
 
-*Respuesta esperada*: la llave no cumple una función práctica (no abre ninguna puerta), pero representa algo más profundo: la promesa que Custodio se hizo a sí mismo tras la ruina de su padre; por eso funciona como símbolo de su forma de entender el ahorro y el amor hacia su familia. Retroalimentación: un símbolo literario es un elemento concreto del texto que representa una idea, un valor o un sentimiento que va más allá de su significado literal.
+a) Porque abre la puerta de la casa de Custodio, donde el narrador encuentra los ahorros que su tío guardó para la familia durante años
+b) Porque es el objeto más valioso del relato: está hecha de un metal antiguo que Custodio pensaba vender para salir de la pobreza
+c) Porque el narrador la pierde al final del relato y, con ella, pierde también la posibilidad de conocer la verdadera historia de su tío
+d) Porque, aunque no abre ninguna puerta, representa la promesa que Custodio se hizo tras la ruina de su padre: su forma de entender el ahorro y el amor por su familia
+
+*Respuesta correcta: d.* Retroalimentación: un símbolo es un elemento concreto que representa una idea, un valor o un sentimiento más allá de su significado literal.
 
 **5. (Alternativas)** ¿A qué **personaje tipo** corresponde inicialmente Custodio, antes de que el relato revele el verdadero motivo de su comportamiento?
 
 a) El pícaro
-b) El avaro
+b) La madrastra
 c) El sabio
-d) La madrastra
+d) El avaro
 
-*Respuesta correcta: b.* Retroalimentación: el avaro es un personaje tipo recurrente en la literatura, asociado a la obsesión por no gastar dinero; el relato inicialmente presenta a Custodio así, para luego subvertir esa imagen.
+*Respuesta correcta: d.* Retroalimentación: el avaro es un personaje tipo recurrente en la literatura, asociado a la obsesión por no gastar dinero; el relato inicialmente presenta a Custodio así, para luego subvertir esa imagen.
 
-**6. (Desarrollo breve)** Identifica el prejuicio o estereotipo que el pueblo (y el narrador de niño) construyen sobre Custodio, y explica cómo se conecta con situaciones del mundo actual.
+**6. (Alternativas)** ¿Qué prejuicio construye el pueblo sobre Custodio y con qué situación actual se conecta?
 
-*Respuesta esperada*: el pueblo estereotipa a Custodio como "el viejo tacaño" basándose únicamente en su forma de vestir y de gastar, sin conocer su historia personal; esto se conecta con el mundo actual porque con frecuencia se juzga a las personas por su apariencia o sus hábitos de consumo (por ejemplo, alguien que usa ropa vieja o vive con pocos recursos) sin considerar las razones reales detrás de esas decisiones. Retroalimentación: identificar un prejuicio en un relato implica reconocer un juicio generalizado sobre una persona o grupo, hecho sin evidencia suficiente, y luego relacionarlo con ejemplos concretos de la actualidad.
+a) Lo consideran el hombre más generoso del pueblo porque siempre regala lo que tiene; hoy también se admira a quien gasta mucho dinero en los demás
+b) Lo ven como un héroe desde que llegó al pueblo, sin conocer su historia real; hoy también se celebra a los héroes por lo que muestran en sus redes sociales
+c) Lo estereotipan como "el viejo tacaño" por su forma de vestir y gastar, sin conocer su historia; hoy también se juzga a las personas por su apariencia o hábitos de consumo
+d) No existe ningún prejuicio en el relato
 
-**7. (Desarrollo breve — análisis integrado)** Explica qué recursos léxicos y gramaticales usa el narrador para marcar los saltos entre el presente del relato y los momentos del pasado que recuerda.
+*Respuesta correcta: c.* Retroalimentación: un prejuicio es un juicio generalizado sobre una persona o grupo, hecho sin evidencia suficiente.
 
-*Respuesta esperada*: el narrador usa el pretérito pluscuamperfecto ("había rescatado", "se había hecho a sí mismo") para marcar hechos anteriores a otro momento del pasado, y expresiones temporales explícitas como "años atrás", "no fue hasta el invierno en que" y "hoy pienso" para situar al lector en cada momento del relato. Retroalimentación: la disposición temporal de un relato no solo se reconoce por el orden de los hechos, sino también por las marcas gramaticales (como los tiempos verbales) y léxicas (como las expresiones de tiempo) que el autor usa para guiar al lector entre presente y pasado.
+**7. (Alternativas — análisis integrado)** ¿Qué recursos usa el narrador para marcar los saltos entre el presente y el pasado que recuerda?
+
+a) Solo diálogos en tiempo futuro, que anuncian lo que pasará
+b) Cambios de narrador en cada párrafo, con una voz distinta para el pasado y otra voz para el presente
+c) El pretérito pluscuamperfecto ("había rescatado") y expresiones temporales como "años atrás" o "hoy pienso"
+d) Títulos con fechas al inicio de cada sección, que indican el año de cada recuerdo
+
+*Respuesta correcta: c.* Retroalimentación: la disposición temporal se reconoce también por las marcas gramaticales (tiempos verbales) y léxicas (expresiones de tiempo).
 
 ---
 
@@ -170,41 +190,61 @@ En 8° básico sigues analizando cómo el lenguaje poético apela a los sentidos
 
 **1. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "vuelvo" a lo largo del poema?
 
-a) Confunde al lector sobre el tema del poema
-b) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera evitar regresar al mar
-c) No produce ningún efecto relevante
-d) Indica que el poema tiene errores de redacción
+a) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera evitar regresar al mar
+b) Confunde al lector sobre el tema del poema, porque no se sabe si el hablante vuelve o se va
+c) No produce ningún efecto relevante: la repetición solo completa la medida de los versos
+d) Indica que el poema tiene errores de redacción que el autor no alcanzó a corregir
 
-*Respuesta correcta: b.* Retroalimentación: la repetición insistente de una palabra al inicio de varios versos (anáfora) es un recurso poético consciente que refuerza el sentido de obsesión o fidelidad hacia el mar.
+*Respuesta correcta: a.* Retroalimentación: la repetición insistente de una palabra al inicio de varios versos (anáfora) es un recurso poético consciente que refuerza el sentido de obsesión o fidelidad hacia el mar.
 
-**2. (Desarrollo breve)** Interpreta el significado de la comparación "vuelvo, vuelvo, vuelvo, como vuelve la marea". ¿Qué idea transmite sobre la relación del hablante con el mar?
+**2. (Alternativas)** ¿Qué idea transmite la comparación "vuelvo, vuelvo, vuelvo, como vuelve la marea"?
 
-*Respuesta esperada*: la comparación sugiere que el regreso del hablante al mar es tan constante, cíclico y casi inevitable como el movimiento natural de la marea, transmitiendo la idea de una relación de dependencia que no puede romperse fácilmente, aunque le haya causado dolor. Retroalimentación: interpretar una comparación implica explicar qué característica del segundo elemento (la marea, que siempre vuelve) se traslada al primero (el hablante) para enriquecer su sentido.
+a) Que el regreso del hablante al mar es constante, cíclico y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor
+b) Que el hablante nunca vuelve realmente al mar: solo lo recuerda desde lejos, porque el dolor que le causó le impide regresar
+c) Que la marea está detenida y el mar ya no se mueve, igual que la vida del pescador después de abandonar su oficio
+d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor
+
+*Respuesta correcta: a.* Retroalimentación: interpretar una comparación implica explicar qué característica del segundo elemento (la marea, que siempre vuelve) se traslada al primero.
 
 **3. (Verdadero o Falso)** El poema "Letanía del pescador" no presenta ningún recurso de repetición de estructuras sintácticas.
 
 *Respuesta correcta: Falso.* Retroalimentación: varios versos repiten la estructura "vuelvo aunque..." o "vuelvo porque...", lo que constituye una repetición de estructura sintáctica (un tipo de paralelismo) que refuerza el efecto de letanía del poema.
 
-**4. (Aplicación)** Identifica la figura de lenguaje figurado presente en "aunque el mar no me perdone" y explica su efecto.
+**4. (Alternativas — Aplicación)** ¿Qué figura hay en "aunque el mar no me perdone" y qué efecto produce?
 
-*Respuesta esperada*: se trata de una personificación, ya que se le atribuye al mar la capacidad humana de "perdonar"; su efecto es sugerir que la relación entre el hablante y el mar es casi una relación humana, de afecto y reproche a la vez, más que una simple relación con un elemento natural. Retroalimentación: reconocer una personificación exige identificar una acción o capacidad propiamente humana atribuida a algo que no es humano.
+a) Una hipérbole: exagera el tamaño y la fuerza del mar, sugiriendo que el pescador le teme más que a cualquier otra cosa
+b) Una aliteración: repite el sonido "m" para imitar el ruido de las olas, sugiriendo la calma del mar en la mañana
+c) Una enumeración: lista los elementos del mar que el pescador extraña, sugiriendo nostalgia por su antiguo oficio
+d) Una personificación: atribuye al mar la capacidad humana de perdonar, sugiriendo un vínculo casi humano de afecto y reproche
+
+*Respuesta correcta: d.* Retroalimentación: reconocer una personificación exige identificar una capacidad humana atribuida a algo que no es humano.
 
 **5. (Alternativas)** El título del poema, "Letanía del pescador", se relaciona principalmente con:
 
-a) La ausencia total de repeticiones en el poema
-b) El efecto de rezo o plegaria repetitiva que producen las estructuras que se repiten en cada estrofa
-c) Un error de traducción del poema
-d) La descripción exclusivamente visual del paisaje marino
+a) La ausencia total de repeticiones en el poema, que lo hace parecer una conversación espontánea
+b) La descripción exclusivamente visual del paisaje marino, sin referencias a sonidos ni emociones
+c) Un error de traducción del poema, que originalmente se titulaba de otra manera en su idioma
+d) El efecto de rezo o plegaria repetitiva que producen las estructuras que se repiten en cada estrofa
 
-*Respuesta correcta: b.* Retroalimentación: una letanía es, tradicionalmente, una oración repetitiva; el título anticipa el efecto de insistencia y repetición que el poema construye mediante la anáfora y el paralelismo sintáctico.
+*Respuesta correcta: d.* Retroalimentación: una letanía es, tradicionalmente, una oración repetitiva; el título anticipa el efecto de insistencia y repetición que el poema construye mediante la anáfora y el paralelismo sintáctico.
 
-**6. (Desarrollo breve)** Explica qué emociones evoca el poema en su conjunto, apoyándote en al menos dos expresiones del texto que apelen a los sentidos o a las emociones.
+**6. (Alternativas)** ¿Qué emociones evoca el poema y en qué expresiones se apoya esa interpretación?
 
-*Respuesta esperada*: cualquier respuesta razonada que identifique emociones como resignación, dolor, fidelidad o dependencia, apoyándose en expresiones como "sus manos frías", "su sal en la boca" o "me haya quitado ya dos hermanos". Retroalimentación: establecer relaciones entre el lenguaje del poema y las emociones que evoca exige apoyar cada interpretación en palabras o versos concretos del texto, no solo en una impresión general.
+a) Alegría y euforia, apoyadas en "sus manos frías", que el hablante describe con entusiasmo
+b) Indiferencia total, porque el poema no menciona emociones y solo describe hechos con un tono neutro y distante
+c) Resignación, dolor y fidelidad, apoyadas en expresiones como "sus manos frías" o "me haya quitado ya dos hermanos"
+d) Humor, apoyado en la repetición de "vuelvo"
 
-**7. (Desarrollo breve — análisis integrado)** Imagina que el poema no tuviera ninguna repetición (por ejemplo, si la palabra "vuelvo" apareciera solo una vez). Explica cómo cambiaría el efecto del poema sobre el lector.
+*Respuesta correcta: c.* Retroalimentación: cada interpretación emocional debe apoyarse en palabras o versos concretos del texto.
 
-*Respuesta esperada*: cualquier análisis razonado que reconozca que, sin la repetición, el poema perdería el efecto de insistencia, obsesión y ciclo que lo caracteriza, y se sentiría como una afirmación única en vez de una vuelta constante e inevitable al mar, debilitando la coherencia con el título "Letanía". Retroalimentación: evaluar el efecto de un recurso poético a través de su ausencia (imaginando el poema sin él) es una forma efectiva de comprobar qué aporta realmente ese recurso al sentido del texto.
+**7. (Alternativas — análisis integrado)** Si la palabra "vuelvo" apareciera solo una vez, ¿cómo cambiaría el efecto del poema?
+
+a) Sería más insistente y obsesivo, porque la palabra destacaría más al aparecer sola
+b) No cambiaría nada, porque la repetición no influye en el sentido ni en el ritmo del poema
+c) Perdería el efecto de insistencia, obsesión y ciclo, y la coherencia con el título "Letanía"
+d) Tendría más rima
+
+*Respuesta correcta: c.* Retroalimentación: imaginar el poema sin un recurso es una forma efectiva de comprobar qué aporta ese recurso al sentido.
 
 ---
 
@@ -247,41 +287,61 @@ En 8° básico sigues formulando interpretaciones de obras literarias, pero con 
 
 **1. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Marisol en el relato?
 
-a) Elegir entre estudiar o trabajar tras el terremoto
-b) Decidir si sigue corriendo hacia el cerro junto a su madre o se detiene a ayudar a don Aurelio, arriesgando tiempo valioso en una emergencia
-c) Decidir si le cuenta o no a su madre sobre el vecino
-d) Elegir entre dos caminos igual de seguros hacia el cerro
+a) Decidir si sigue corriendo hacia el cerro junto a su madre o se detiene a ayudar a don Aurelio, arriesgando tiempo valioso en una emergencia
+b) Elegir entre estudiar o trabajar después del terremoto, para ayudar a su madre a reconstruir la casa
+c) Decidir si le cuenta o no a su madre que don Aurelio había quedado atrapado en su casa junto al río, para no asustarla mientras corren hacia el cerro
+d) Elegir entre dos caminos igual de seguros hacia el cerro, sin saber cuál de los dos es más corto
 
-*Respuesta correcta: b.* Retroalimentación: el dilema es la disyuntiva concreta entre la seguridad inmediata (seguir corriendo) y la ayuda a otro en riesgo (detenerse), ambas con consecuencias importantes.
+*Respuesta correcta: a.* Retroalimentación: el dilema es la disyuntiva concreta entre la seguridad inmediata (seguir corriendo) y la ayuda a otro en riesgo (detenerse), ambas con consecuencias importantes.
 
-**2. (Desarrollo breve)** Formula tu posicionamiento personal frente al dilema de Marisol: ¿crees que fue correcto detenerse a ayudar a don Aurelio? Fundamenta tu respuesta considerando el riesgo real que implicaba.
+**2. (Alternativas — postura fundamentada)** Frente al dilema de Marisol, ¿qué respuesta es un posicionamiento fundamentado que considera el riesgo real?
 
-*Respuesta esperada*: cualquier posicionamiento razonado, a favor o en contra, que reconozca explícitamente el riesgo real de la situación (la posible crecida del río) y no lo ignore al fundamentar la postura. Retroalimentación: un buen posicionamiento sobre un dilema no elige "la respuesta fácil", sino que sopesa honestamente los riesgos y beneficios de cada opción presentes en el propio texto.
+a) "Creo que acertó al detenerse, porque don Aurelio no podía salvarse solo, aunque la posible crecida del río ponía en peligro su vida"
+b) "Creo que acertó porque sí, porque ayudar a los demás siempre es lo correcto, sin importar lo que pase"
+c) "No hubo ningún riesgo real en detenerse, porque el río estaba lejos, así que daba lo mismo lo que decidiera Marisol en ese momento"
+d) "Marisol es mi personaje favorito del relato, porque es valiente y me recuerda a mi hermana mayor"
+
+*Respuesta correcta: a.* Retroalimentación: también podría fundamentarse la postura contraria; lo importante es sopesar honestamente los riesgos y beneficios presentes en el texto.
 
 **3. (Verdadero o Falso)** El terremoto y maremoto de Valdivia de 1960 mencionado en el relato es un hecho ficticio, inventado por el autor para ambientar la historia.
 
 *Respuesta correcta: Falso.* Retroalimentación: el terremoto de Valdivia de 1960 es un hecho histórico real, el de mayor magnitud registrada instrumentalmente en el mundo; conocer este contexto histórico real es clave para dimensionar el peligro que enfrentan los personajes.
 
-**4. (Aplicación)** Explica con tus palabras qué **visión de mundo** transmite el relato, y por qué esa interpretación es coherente con las acciones concretas de los personajes.
+**4. (Alternativas — Aplicación)** ¿Qué visión de mundo transmite el relato y en qué acciones se sustenta?
 
-*Respuesta esperada*: el relato transmite una visión de mundo donde la solidaridad y la ayuda mutua frente a una catástrofe se valoran incluso por sobre la seguridad individual inmediata; esta interpretación es coherente porque se sustenta directamente en la decisión de Marisol y su madre de detenerse a rescatar a don Aurelio, y no en una idea que el texto no muestre. Retroalimentación: una interpretación es coherente con el análisis cuando puede respaldarse con hechos concretos del propio relato, y no solo con una impresión general del lector.
+a) Una en que cada persona debe salvarse sola frente a una catástrofe, sustentada en que nadie del pueblo ayuda a don Aurelio
+b) Una en que las catástrofes no afectan realmente a las personas, sustentada en que todos los vecinos llegan al cerro sin problemas y vuelven a sus casas esa misma noche
+c) Una visión pesimista sobre la naturaleza que no se puede vincular con ninguna acción de los personajes del relato
+d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Marisol y su madre de rescatar a don Aurelio
+
+*Respuesta correcta: d.* Retroalimentación: una interpretación es coherente cuando puede respaldarse con hechos concretos del propio relato.
 
 **5. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el relato "La noche del río"?
 
 a) El terremoto de Valparaíso de 1906
-b) El terremoto y maremoto de Valdivia de 1960
+b) La erupción del volcán Chaitén de 2008
 c) El terremoto del Maule de 2010
-d) La erupción del volcán Chaitén de 2008
+d) El terremoto y maremoto de Valdivia de 1960
 
-*Respuesta correcta: b.* Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden al terremoto de mayor magnitud jamás registrado en el mundo.
+*Respuesta correcta: d.* Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden al terremoto de mayor magnitud jamás registrado en el mundo.
 
-**6. (Desarrollo breve — experiencia personal)** Relaciona el dilema de Marisol con alguna situación, aunque sea a menor escala, en la que tú o alguien que conozcas haya tenido que elegir entre la seguridad propia y ayudar a otra persona en un momento de urgencia.
+**6. (Alternativas — experiencia personal)** ¿Qué situación cotidiana se parece **mejor** al dilema de Marisol?
 
-*Respuesta esperada*: cualquier relación razonable entre el dilema del texto y una experiencia personal o cercana, que muestre comprensión del tipo de disyuntiva que vive Marisol. Retroalimentación: conectar un dilema literario con la propia experiencia enriquece la interpretación, siempre que la relación esté bien explicada y no sea forzada.
+a) Elegir qué película ver el fin de semana con tus amigos, sabiendo que no todos quedarán contentos
+b) Detenerse a ayudar a alguien que se cayó en la calle mientras empieza una tormenta fuerte
+c) Decidir qué comer en el almuerzo, aunque eso signifique esperar un poco más en la fila
+d) Escoger el color de una mochila
 
-**7. (Desarrollo breve — interpretación integrada)** Formula tu propia interpretación sobre el sentido general del relato "La noche del río", asegurándote de que sea coherente con tu análisis: considera el dilema de Marisol, tu posicionamiento frente a él, y el contexto histórico y la visión de mundo de la obra.
+*Respuesta correcta: b.* Retroalimentación: el dilema enfrenta la seguridad propia con la ayuda a otra persona en una urgencia.
 
-*Respuesta esperada*: cualquier interpretación coherente que integre los tres elementos (el dilema, un posicionamiento fundamentado y la relación con el contexto histórico real de 1960 y la visión de mundo solidaria del relato), sin contradecir lo que el texto efectivamente muestra. Retroalimentación: que una interpretación sea "coherente con el análisis" significa que cada idea que planteas puede respaldarse con evidencia del propio texto, y no solo con una opinión desconectada de él.
+**7. (Alternativas — interpretación integrada)** ¿Qué interpretación de "La noche del río" integra mejor el dilema, una postura y el contexto histórico?
+
+a) El relato es una historia de ciencia ficción sin vínculo con hechos reales, y su sentido es mostrar el poder destructivo de la naturaleza sobre los personajes
+b) El relato demuestra que nunca hay que ayudar a otros durante un desastre, porque en el contexto del terremoto arriesgarse solo trajo más víctimas
+c) En el contexto real del terremoto de 1960, el relato valora la solidaridad: arriesgarse para salvar a un vecino muestra que la comunidad se sostiene en la ayuda mutua
+d) El relato trata sobre un viaje de vacaciones
+
+*Respuesta correcta: c.* Retroalimentación: cada idea de la interpretación debe poder respaldarse con evidencia del propio texto.
 
 ---
 
@@ -329,10 +389,10 @@ En 8° básico sigues analizando textos argumentativos —columnas de opinión, 
 
 **1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Menos plástico, más futuro"?
 
-a) La Ley de Plástico de un Solo Uso es innecesaria y debería eliminarse
+a) La Ley de Plástico de un Solo Uso es innecesaria y debería eliminarse, porque los locales ya habían cambiado sus hábitos
 b) La ley es positiva pero insuficiente si no se fiscaliza con rigor en todo el país y no cambian los hábitos ciudadanos
-c) El plástico de un solo uso no representa ningún problema ambiental
-d) Solo el gobierno central debe encargarse del problema, sin participación ciudadana
+c) El plástico de un solo uso no representa ningún problema ambiental, porque la mayoría de las bombillas se recicla
+d) Solo el gobierno central debe encargarse del problema del plástico, sin participación de los ciudadanos ni de los municipios
 
 *Respuesta correcta: b.* Retroalimentación: identificar la postura del autor implica encontrar la idea central que defiende a lo largo de todo el texto, integrando tanto su valoración de la ley como su llamado a la fiscalización y al cambio de hábitos.
 
@@ -340,13 +400,23 @@ d) Solo el gobierno central debe encargarse del problema, sin participación ciu
 
 *Respuesta correcta: Verdadero.* Retroalimentación: esta frase cita una fuente de datos concreta, lo que la convierte en información verificable, a diferencia de una valoración personal del autor.
 
-**3. (Desarrollo breve)** Explica qué intención tiene el autor al usar el modo imperativo en frases como "Exijamos a los locales que visitamos que respeten la normativa" y "eduquemos a las generaciones más jóvenes".
+**3. (Alternativas)** ¿Qué intención tiene el autor al usar el imperativo en "Exijamos a los locales que visitamos que respeten la normativa" y "eduquemos a las generaciones más jóvenes"?
 
-*Respuesta esperada*: el autor usa el imperativo en primera persona plural para involucrar directamente al lector en una acción colectiva y urgente, transmitiendo la sensación de que el cambio depende también de la ciudadanía y no solo de la ley o de las autoridades. Retroalimentación: interpretar la intención de un modo verbal exige preguntarse qué efecto busca el autor al elegir esa forma verbal en particular (por ejemplo, exigir, sugerir, desear o afirmar), y no solo identificar el modo gramaticalmente.
+a) Involucrar al lector en una acción colectiva y urgente, transmitiendo que el cambio depende también de la ciudadanía
+b) Expresar una duda sobre si la norma realmente existe y pedir a los lectores que lo averigüen
+c) Narrar un hecho pasado: cómo los vecinos exigieron el cumplimiento de la ley el año anterior
+d) Describir objetivamente un local que no cumple la normativa, sin tomar postura sobre lo que debería hacerse
 
-**4. (Aplicación)** ¿Qué intención tiene el autor al usar el subjuntivo en la frase "Ojalá cada municipio fiscalizara con la misma exigencia con la que se fiscaliza en el centro de Santiago"?
+*Respuesta correcta: a.* Retroalimentación: interpretar un modo verbal exige preguntarse qué efecto busca el autor (exigir, sugerir, desear o afirmar).
 
-*Respuesta esperada*: el autor expresa un deseo sobre algo que actualmente no ocurre (la fiscalización desigual entre comunas), transmitiendo una crítica indirecta hacia esa desigualdad sin acusar directamente a una autoridad en particular. Retroalimentación: el modo subjuntivo suele usarse para expresar deseos, dudas o posibilidades, a diferencia del modo indicativo, que se usa para afirmar hechos con mayor certeza.
+**4. (Alternativas — Aplicación)** ¿Qué intención tiene el subjuntivo en "Ojalá cada municipio fiscalizara con la misma exigencia con la que se fiscaliza en el centro de Santiago"?
+
+a) Afirmar con certeza que todos los municipios fiscalizan igual
+b) Dar una orden directa a una autoridad para que fiscalice todos los municipios antes de fin de año
+c) Narrar lo que ocurrió ayer en Santiago, cuando los inspectores revisaron los locales del centro
+d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente la fiscalización desigual
+
+*Respuesta correcta: d.* Retroalimentación: el subjuntivo suele expresar deseos, dudas o posibilidades; el indicativo afirma hechos con mayor certeza.
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
@@ -357,13 +427,23 @@ d) "Nuestra oportunidad de cambiar el hábito, en cambio, es ahora"
 
 *Respuesta correcta: b.* Retroalimentación: la cifra respaldada por una fuente oficial (el Ministerio del Medio Ambiente) corresponde a un dato verificable, a diferencia de las otras opciones, que expresan valoraciones o llamados del autor.
 
-**6. (Desarrollo breve — postura personal)** Da tu propia postura frente al problema planteado en la columna: ¿crees que la fiscalización ciudadana (reclamar cuando un local incumple la norma) es una herramienta efectiva para complementar la ley? Fundamenta con al menos un argumento propio.
+**6. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura **con un argumento propio** sobre la fiscalización ciudadana?
 
-*Respuesta esperada*: cualquier postura razonada, a favor, en contra o matizada, siempre que incluya al menos un argumento propio coherente. Retroalimentación: formular una postura personal fundamentada implica ir más allá de decir si "estás de acuerdo o no": debes aportar al menos una razón propia, apoyada o no en el texto.
+a) "Estoy de acuerdo con el autor, porque lo que dice sobre la fiscalización me parece bien"
+b) "Creo que ayuda, porque los locales cuidan más su reputación cuando saben que los clientes pueden reclamar"
+c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su opinión"
+d) "El autor dice que hay que exigir a los locales que cumplan la ley y reclamar si no lo hacen"
 
-**7. (Desarrollo breve — análisis integrado)** Explica por qué es útil, al leer un texto argumentativo, poner atención a los modos verbales que usa el autor (por ejemplo, imperativo, subjuntivo o condicional), y no solo a sus argumentos.
+*Respuesta correcta: b.* Retroalimentación: una postura fundamentada aporta al menos una razón propia; repetir lo que dice el autor no es argumentar.
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: los modos verbales revelan matices en la intención del autor —si está exigiendo, deseando, sugiriendo con cautela o afirmando con certeza—, información que enriquece el análisis más allá de identificar solo el contenido de los argumentos, y que ayuda al lector a evaluar el tono y la fuerza persuasiva del texto. Retroalimentación: un lector crítico no solo identifica qué dice un texto argumentativo, sino también cómo lo dice, y la elección de los modos verbales es una de las formas en que un autor construye su fuerza persuasiva.
+**7. (Alternativas — análisis integrado)** ¿Por qué es útil atender a los modos verbales de un texto argumentativo?
+
+a) Porque los modos verbales no influyen en el sentido del texto, solo en su ortografía y en la concordancia
+b) Porque solo importan en los poemas, donde el modo verbal define la rima y el ritmo de los versos
+c) Porque revelan si el autor exige, desea, sugiere o afirma, lo que ayuda a evaluar el tono y la fuerza persuasiva del texto
+d) Porque permiten saber la edad del autor y su lugar de origen, según cómo conjuga los verbos
+
+*Respuesta correcta: c.* Retroalimentación: un lector crítico identifica no solo qué dice un texto, sino también cómo lo dice.
 
 ---
 
@@ -422,10 +502,10 @@ Enseñanza Media      380 estudiantes
 
 **1. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto B (la publicación del Centro de Padres)?
 
-a) Informar de manera neutra sobre el estado de la infraestructura del liceo
+a) Informar de manera neutra a las familias sobre el estado de la infraestructura del liceo después del aluvión
 b) Presionar públicamente al municipio para que entregue información oficial más clara, usando la exposición en redes sociales
-c) Felicitar al municipio por su rápida respuesta
-d) Explicar en detalle el proceso técnico de reparación de un aluvión
+c) Felicitar al municipio por su rápida respuesta y agradecer la información entregada a las familias
+d) Explicar en detalle el proceso técnico de reparación del liceo después del aluvión y sus plazos
 
 *Respuesta correcta: b.* Retroalimentación: aunque el texto se presenta como un reclamo directo, su propósito implícito es ejercer presión pública sobre las autoridades a través de la visibilidad que da una red social.
 
@@ -433,30 +513,50 @@ d) Explicar en detalle el proceso técnico de reparación de un aluvión
 
 *Respuesta correcta: Falso.* Retroalimentación: aunque el Texto A informa el motivo, el plazo estimado y la modalidad remota, no entrega información suficiente sobre aspectos clave, como qué ocurrirá si el plazo se extiende o qué apoyo recibirán las familias sin acceso a internet.
 
-**3. (Desarrollo breve)** Compara el tono y el propósito explícito del Texto A y el Texto B. ¿En qué se diferencian, a pesar de tratar el mismo hecho?
+**3. (Alternativas)** ¿En qué se diferencian el tono y el propósito del Texto A y del Texto B?
 
-*Respuesta esperada*: el Texto A tiene un tono informativo y neutro, apoyado en una fuente oficial, con el propósito explícito de informar sobre la suspensión de clases; el Texto B tiene un tono crítico y urgente, con el propósito explícito de exigir información más clara y expresar la molestia de las familias frente a la misma situación. Retroalimentación: comparar cómo distintas fuentes presentan un mismo hecho permite notar que el tono y el énfasis de un texto dependen de quién lo escribe y con qué propósito, aunque se refieran a la misma noticia.
+a) El A es informativo y neutro, apoyado en una fuente oficial; el B es crítico y urgente, y busca exigir información y expresar la molestia de las familias
+b) Ambos tienen el mismo tono informativo y el mismo propósito: comunicar a las familias, de manera neutral, la fecha de regreso a clases
+c) El A es crítico y urgente, porque exige respuestas al municipio; el B es neutro e informativo, porque se apoya en una fuente oficial
+d) Ninguno tiene un propósito definido: ambos se limitan a reproducir la misma información sobre el cierre, sin diferencias de tono
 
-**4. (Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿cuántos estudiantes en total se ven afectados por el cierre del Liceo Bicentenario, y qué información relevante **no** entrega el gráfico sobre esos estudiantes?
+*Respuesta correcta: a.* Retroalimentación: el tono y el énfasis dependen de quién escribe y con qué propósito, aunque se refieran a la misma noticia.
 
-*Respuesta correcta*: 800 estudiantes en total (420 + 380). El gráfico no entrega información sobre, por ejemplo, cuántas de esas familias cuentan con acceso a internet para las clases remotas, dato relevante para evaluar si la medida de continuidad remota es realmente viable para todos. Retroalimentación: interpretar un gráfico implica extraer los datos que sí presenta, pero también notar qué información relevante queda fuera de él.
+**4. (Alternativas — Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿cuántos estudiantes se ven afectados por el cierre del Liceo Bicentenario, y qué información relevante **no** entrega?
+
+a) 420 estudiantes; no indica la dirección del liceo ni el nombre de su director
+b) 380 estudiantes; no indica el nombre del director ni la fecha de reapertura
+c) 40 estudiantes; no indica la fecha del aluvión ni cuántos cursos fueron afectados
+d) 800 estudiantes (420 + 380); no indica cuántas familias tienen internet para las clases remotas
+
+*Respuesta correcta: d.* Retroalimentación: interpretar un gráfico implica extraer sus datos y notar qué información relevante queda fuera.
 
 **5. (Alternativas)** ¿Qué evidencia la comparación entre el Texto A y el Texto B sobre un mismo hecho?
 
-a) Que uno de los dos textos necesariamente miente
+a) Que uno de los dos textos necesariamente miente, porque un mismo hecho no puede contarse con énfasis distintos
 b) Que la fuente desde la que se presenta un hecho puede influir en el énfasis, el tono y la sensación de suficiencia de la información entregada
-c) Que las redes sociales nunca son una fuente válida de información
-d) Que los medios de comunicación oficiales siempre entregan información completa
+c) Que las redes sociales nunca son una fuente válida de información, porque cualquiera puede publicar sin verificar
+d) Que los medios de comunicación oficiales siempre entregan información completa, porque citan a las autoridades
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes distintas sobre un mismo hecho no busca determinar cuál "miente", sino reconocer que cada fuente enfatiza aspectos distintos según su perspectiva y su propósito.
 
-**6. (Desarrollo breve)** Evalúa la suficiencia de la información entregada en el Texto B: ¿el reclamo del Centro de Padres entrega suficiente información concreta sobre la situación del liceo, o se centra principalmente en expresar una crítica?
+**6. (Alternativas)** ¿El Texto B entrega información suficiente sobre la situación del liceo?
 
-*Respuesta esperada*: el Texto B se centra principalmente en expresar una crítica y una exigencia, sin entregar información concreta adicional sobre la situación del liceo (por ejemplo, no menciona el plazo estimado que sí aparece en el Texto A); su función no es tanto informar como presionar públicamente, por lo que resulta insuficiente si se buscara información objetiva sobre la reparación. Retroalimentación: evaluar la suficiencia de un texto implica preguntarse si, además de expresar una postura, aporta datos concretos que permitan al lector formarse una visión informada de la situación.
+a) Sí: entrega más datos concretos que el Texto A, como el plazo estimado y la cantidad de estudiantes afectados
+b) No: se centra en expresar una crítica y una exigencia, y ni siquiera menciona el plazo estimado que sí aparece en el Texto A
+c) Sí: incluye la tabla completa de estudiantes y el plazo de las obras, por lo que no hace falta leer el Texto A para entenderla
+d) No, porque es un texto de ficción
 
-**7. (Desarrollo breve — análisis integrado)** Explica por qué es importante que un lector o lectora compare distintas fuentes antes de formarse una opinión sobre un hecho noticioso, en vez de basarse en un solo texto.
+*Respuesta correcta: b.* Retroalimentación: evaluar la suficiencia implica preguntarse si el texto aporta datos concretos además de una postura.
 
-*Respuesta esperada*: cualquier explicación razonada, por ejemplo: comparar distintas fuentes permite detectar qué información entrega cada una, qué vacíos tiene, y qué énfasis o tono adopta según quién la escribe, evitando que el lector se forme una visión parcial o incompleta basada en un solo punto de vista. Retroalimentación: un lector crítico de medios de comunicación no se conforma con una sola fuente sobre un hecho relevante, sino que busca contrastar distintas versiones para evaluar la suficiencia y la fiabilidad de la información disponible.
+**7. (Alternativas — análisis integrado)** ¿Por qué conviene comparar distintas fuentes antes de opinar sobre un hecho noticioso?
+
+a) Porque todas las fuentes dicen exactamente lo mismo, y comparar sirve para memorizar la noticia
+b) Porque basta con la primera noticia que se lee, y las demás solo sirven para confirmar la opinión que ya tenemos
+c) Porque permite detectar qué informa cada una, sus vacíos y su tono, evitando una visión parcial
+d) Porque las fuentes oficiales siempre mienten
+
+*Respuesta correcta: c.* Retroalimentación: un lector crítico contrasta versiones para evaluar la suficiencia y fiabilidad de la información.
 
 ---
 
@@ -527,36 +627,61 @@ Texto final, con conectores:
 
 **1. (Alternativas)** ¿Por qué sería inadecuado enviar un correo formal a la dirección del liceo usando expresiones como "chiquillos", "pa la otra semana" o emojis?
 
-a) Porque esas expresiones son incorrectas en cualquier contexto
+a) Porque esas expresiones son incorrectas en cualquier contexto, incluso en un mensaje de WhatsApp entre amigos, y nunca deberían usarse al escribir
 b) Porque el registro coloquial y las palabras propias de las redes sociales no se adecuan a un destinatario formal (una autoridad) ni a un canal de comunicación formal (el correo)
-c) Porque los correos electrónicos no permiten el uso de vocabulario informal jamás
-d) Porque la dirección del liceo no entiende ese tipo de expresiones
+c) Porque los correos electrónicos no permiten técnicamente el uso de vocabulario informal ni de emojis, que se borran al enviar el mensaje
+d) Porque la dirección del liceo no entiende ese tipo de expresiones juveniles, y el mensaje correría el riesgo de no ser comprendido
 
 *Respuesta correcta: b.* Retroalimentación: esas expresiones no son "incorrectas" en sí mismas, sino inadecuadas para el registro que exige un destinatario formal y un canal de comunicación formal; en un chat entre compañeros serían perfectamente adecuadas.
 
-**2. (Aplicación)** Corrige los errores de concordancia y pronombre en la siguiente oración: "Las profesora le explicó la tarea a mis compañeros y a mí, pero ellos no se acordó de traer el material."
+**2. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Las profesora le explicó la tarea a mis compañeros y a mí, pero ellos no se acordó de traer el material"?
 
-*Respuesta correcta*: "Las profesora**s** **les** explicaron la tarea a mis compañeros y a mí, pero ellos no **se acordaron** de traer el material." Retroalimentación: hay que revisar la concordancia entre artículo y sustantivo ("las profesoras"), el pronombre correcto para un destinatario plural ("les"), la concordancia sujeto-verbo ("explicaron") y la concordancia del verbo reflejo con el sujeto plural ("se acordaron").
+a) Las profesoras nos explicaron la tarea a mis compañeros y a mí, pero ellos no se acordaron de traer el material.
+b) Las profesoras le explicaron la tarea a mis compañeros y a mí, pero ellos no se acordó de traer el material.
+c) La profesoras les explicó la tarea a mis compañeros y a mí, pero ellos no se acordaron de traer el material.
+d) Las profesora nos explicaron la tarea a mis compañeros y a mí, pero ellos no se acordaron de traer el material.
+
+*Respuesta correcta: a.* Retroalimentación: se corrige la concordancia artículo-sustantivo ("las profesoras"), sujeto-verbo ("explicaron", "se acordaron") y el pronombre: como el destinatario incluye a quien habla ("a mis compañeros y a mí"), corresponde "nos".
 
 **3. (Verdadero o Falso)** El participio del verbo "escribir" es "escribido".
 
 *Respuesta correcta: Falso.* Retroalimentación: "escribir" tiene un participio irregular, que es "escrito" (o "escrita/escritos/escritas" según concordancia), no "escribido".
 
-**4. (Desarrollo breve)** Explica qué herramientas del procesador de texto podrían ayudarte a revisar y editar un trabajo escrito en grupo con tus compañeros o compañeras, y para qué serviría cada una.
+**4. (Varias correctas)** ¿Qué herramientas del procesador de texto ayudan a revisar un trabajo escrito en grupo? Marca **todas** las correctas.
 
-*Respuesta esperada*: por ejemplo, el corrector ortográfico permite detectar automáticamente errores de ortografía; la función de comentarios permite dejar observaciones o dudas sobre partes específicas del texto sin modificarlo directamente; y el control de cambios permite ver qué modificó cada integrante del grupo antes de aceptar una versión final del texto. Retroalimentación: usar eficazmente las herramientas de un procesador de texto no reemplaza la revisión atenta del propio estudiante, pero facilita el proceso de reescritura y edición, especialmente en trabajos colaborativos.
+a) El corrector ortográfico, para detectar errores de ortografía
+b) Los comentarios, para dejar observaciones sin modificar el texto
+c) El control de cambios, para ver qué modificó cada integrante
+d) La función de borrar todo el documento
 
-**5. (Aplicación)** Identifica y corrige el error de pronombre reflejo en la siguiente oración: "Los hermanos se peinó a sí mismo antes de la ceremonia."
+*Respuesta correcta: a, b y c.* Retroalimentación: estas herramientas facilitan la reescritura y edición colaborativa, pero no reemplazan la revisión atenta.
 
-*Respuesta correcta*: "Los hermanos **se peinaron a sí mismos** antes de la ceremonia." Retroalimentación: cuando el sujeto es plural (los hermanos), tanto el verbo como el pronombre reflejo y la expresión "a sí mismo" deben concordar en plural: "se peinaron... a sí mismos".
+**5. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Los hermanos se peinó a sí mismo antes de la ceremonia"?
 
-**6. (Desarrollo breve — planificación)** Antes de escribir un texto breve sobre "el uso del celular durante las clases", planifica: (a) dos ideas centrales que desarrollarías, y (b) dos conectores que usarías para unirlas.
+a) Los hermanos se peinaron a sí mismo antes de la ceremonia.
+b) Los hermanos se peinó a sí mismos antes de la ceremonia.
+c) Los hermanos los peinaron a sí mismos antes de la ceremonia.
+d) Los hermanos se peinaron a sí mismos antes de la ceremonia.
 
-*Respuesta esperada*: cualquier planificación razonable, por ejemplo: (a) los efectos del celular en la concentración durante las clases y posibles acuerdos de uso entre estudiantes y profesores; (b) conectores como "sin embargo", "por esta razón", "además" o "en síntesis". Retroalimentación: planificar antes de escribir —organizando las ideas centrales y pensando en los conectores que las unirán— facilita que el texto final resulte coherente y bien estructurado, en vez de escribir "de corrido" sin un orden previo.
+*Respuesta correcta: d.* Retroalimentación: con sujeto plural, el verbo, el pronombre reflejo y "a sí mismos" deben concordar en plural.
 
-**7. (Desarrollo breve — texto integrado)** Escribe dos versiones breves (2 a 3 oraciones cada una) de un mismo mensaje, avisando que se cambió la fecha de una prueba: una dirigida a un grupo de WhatsApp del curso (registro informal, puedes usar vocabulario de redes sociales) y otra dirigida por correo a un profesor o profesora (registro formal). Cuida la concordancia y los pronombres en ambas.
+**6. (Alternativas — planificación)** Para planificar un texto breve sobre "el uso del celular durante las clases", ¿qué opción es adecuada?
 
-*Respuesta esperada*: cualquier par de textos coherentes que muestren un contraste real de registro entre ambos destinatarios, sin errores de concordancia ni de pronombres, por ejemplo: informal — "Chiquillos, la prueba de mañana se cambió pa el viernes, avísenle a los que faltaron a clases porfa 🙏"; formal — "Estimado profesor: le escribo para confirmar que la prueba programada para mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]". Retroalimentación: escribir el mismo contenido en dos registros distintos, para dos destinatarios reales, es una forma concreta de practicar la adecuación del registro, la corrección gramatical y el uso apropiado del vocabulario de redes sociales solo cuando el contexto lo permite.
+a) Ideas: mi comida favorita y el clima de la semana; conectores: "hola", "chao" y "nos vemos"
+b) Ideas: efectos del celular en la concentración y posibles acuerdos de uso; conectores: "sin embargo" y "por esta razón"
+c) Escribir de corrido sin planificar, mezclando ideas sobre el celular a medida que se ocurren y sin usar conectores
+d) Ideas: el celular; conectores: ninguno, porque en un texto breve no se necesitan conectores
+
+*Respuesta correcta: b.* Retroalimentación: planificar ideas centrales y conectores facilita un texto coherente y bien estructurado.
+
+**7. (Alternativas — texto integrado)** Se debe avisar que se cambió la fecha de una prueba. ¿Qué par de mensajes adecua correctamente el registro a cada destinatario?
+
+a) Ambos mensajes con "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏", porque así el mensaje es igual de claro para el curso y para el profesor
+b) Ambos mensajes con "Estimado señor: por medio de la presente informo a usted que la prueba de mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]", porque un registro formal sirve siempre
+c) WhatsApp del curso: "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏". Correo al profesor: "Estimado profesor: le escribo para confirmar que la prueba de mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]"
+d) WhatsApp del curso: "Estimado curso: por medio de la presente informo a ustedes que la prueba fue reprogramada para el viernes. Saluda atentamente, [nombre]". Correo al profesor: "Profe, se cambió la prueba pa'l viernes, avise porfa 🙏"
+
+*Respuesta correcta: c.* Retroalimentación: el registro informal y el vocabulario de redes sociales son adecuados entre pares, pero no en un correo a un profesor; el contraste debe ser real y sin errores de concordancia.
 
 ---
 

@@ -105,10 +105,10 @@ principio de que la estructura celular está al servicio de su función.
 1. *(Alternativas)* ¿Qué estructura celular contiene la mayor parte del material
    genético y controla la diferenciación de la célula?
    a) La mitocondria
-   b) El núcleo
+   b) La vacuola
    c) La pared celular
-   d) La vacuola
-   **Respuesta correcta:** b) El núcleo.
+   d) El núcleo
+   **Respuesta correcta:** d) El núcleo.
    **Retroalimentación:** El núcleo alberga el ADN y regula qué genes se activan,
    determinando el tipo y la función de la célula.
 
@@ -118,50 +118,46 @@ principio de que la estructura celular está al servicio de su función.
    **Retroalimentación:** Las células procariontes (como las bacterias) no tienen
    núcleo definido; su material genético está disperso en el citoplasma.
 
-3. *(Clasificar)* Clasifica estas estructuras según si están presentes solo en
-   células vegetales, solo en células animales, o en ambas: pared celular, membrana
-   celular, cloroplasto, mitocondria, vacuola central grande.
-   **Respuesta correcta:** Solo vegetales: pared celular, cloroplasto, vacuola
-   central grande. En ambas: membrana celular, mitocondria.
-   **Retroalimentación:** Las estructuras exclusivas de la célula vegetal están
-   relacionadas con la fotosíntesis y el soporte estructural sin esqueleto.
+3. *(Varias correctas — Clasificar)* ¿Cuáles de estas estructuras están presentes **solo** en las células vegetales? Marca **todas** las correctas.
+   a) Pared celular
+   b) Cloroplasto
+   c) Vacuola central grande
+   d) Mitocondria
+   e) Membrana celular
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** La membrana celular y las mitocondrias están en ambos tipos de célula; las exclusivas de la célula vegetal se vinculan con la fotosíntesis y el soporte estructural.
 
-4. *(Desarrollo breve)* Explica por qué el hepatocito (célula del hígado) tiene una
-   gran cantidad de mitocondrias.
-   **Respuesta esperada:** Porque el hígado realiza funciones metabólicas muy activas
-   (desintoxicación, síntesis de proteínas, entre otras) que requieren gran cantidad de
-   energía; las mitocondrias son las encargadas de producir esa energía mediante la
-   respiración celular.
-   **Retroalimentación:** La cantidad de un organelo en una célula suele reflejar la
-   intensidad de la función asociada a ese organelo.
+4. *(Alternativas)* ¿Por qué el hepatocito (célula del hígado) tiene una gran cantidad de mitocondrias?
+   a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular
+   b) Porque las mitocondrias realizan la fotosíntesis en el hígado y producen la glucosa que el cuerpo necesita para obtener energía
+   c) Porque el hígado necesita almacenar ADN en las mitocondrias para reparar las células dañadas por las sustancias tóxicas
+   d) Porque las mitocondrias le dan forma alargada a la célula hepática, lo que le permite filtrar la sangre con mayor rapidez
+   **Respuesta correcta:** a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular.
+   **Retroalimentación:** La cantidad de un organelo en una célula suele reflejar la intensidad de la función asociada a ese organelo.
 
-5. *(Análisis)* Compara una célula muscular y una célula nerviosa (neurona) en
-   términos de cómo su forma se relaciona con su función.
-   **Respuesta esperada:** La célula muscular tiene una forma alargada y estructuras
-   internas que le permiten contraerse, cumpliendo su función de generar movimiento;
-   la neurona tiene largas prolongaciones (axón y dendritas) que le permiten
-   transmitir impulsos eléctricos a otras células, cumpliendo su función de
-   comunicación.
-   **Retroalimentación:** En biología, la forma de una célula casi siempre está
-   adaptada a la función específica que cumple en el organismo.
+5. *(Alternativas — Análisis)* ¿Qué comparación entre una célula muscular y una neurona vincula correctamente forma y función?
+   a) Ambas son redondas porque cumplen la misma función de transmitir impulsos y contraerse, por lo que su forma no se relaciona con lo que hacen
+   b) La neurona es alargada para contraerse; la célula muscular tiene dendritas para transmitir impulsos
+   c) La forma de una célula no tiene relación con su función: la célula muscular y la neurona podrían intercambiar sus formas sin cambiar lo que hacen
+   d) La célula muscular es alargada y con estructuras que le permiten contraerse; la neurona tiene largas prolongaciones (axón y dendritas) para transmitir impulsos
+   **Respuesta correcta:** d) La célula muscular es alargada y con estructuras que le permiten contraerse; la neurona tiene largas prolongaciones (axón y dendritas) para transmitir impulsos.
+   **Retroalimentación:** En biología, la forma de una célula casi siempre está adaptada a la función específica que cumple en el organismo.
 
-6. *(Modelo/aplicación)* Diseña un modelo simple (dibujo o descripción) que muestre
-   las diferencias estructurales entre una célula vegetal y una célula animal,
-   señalando al menos tres estructuras distintas.
-   **Respuesta esperada:** La célula vegetal presenta pared celular, cloroplastos y
-   una gran vacuola central, ausentes en la célula animal; ambas comparten núcleo,
-   membrana celular, citoplasma y mitocondrias.
-   **Retroalimentación:** Elaborar modelos comparativos ayuda a visualizar cómo la
-   estructura celular responde a necesidades funcionales distintas.
+6. *(Alternativas — Modelo)* Un modelo comparativo de células vegetal y animal debe señalar las diferencias estructurales. ¿Qué opción es correcta?
+   a) La animal tiene pared celular y cloroplastos, ausentes en la vegetal; la vegetal no tiene núcleo, y ambas comparten membrana, citoplasma y mitocondrias
+   b) La vegetal tiene pared celular, cloroplastos y una gran vacuola central, ausentes en la animal; ambas comparten núcleo, membrana, citoplasma y mitocondrias
+   c) Solo la animal tiene mitocondrias y una gran vacuola central; solo la vegetal tiene membrana y citoplasma; ambas comparten el núcleo y la pared celular
+   d) No hay diferencias estructurales entre ambas
+   **Respuesta correcta:** b) La vegetal tiene pared celular, cloroplastos y una gran vacuola central, ausentes en la animal; ambas comparten núcleo, membrana, citoplasma y mitocondrias.
+   **Retroalimentación:** Elaborar modelos comparativos ayuda a visualizar cómo la estructura celular responde a necesidades funcionales distintas.
 
-7. *(Análisis)* Un estudiante observa al microscopio dos tipos de células humanas:
-   una con muchas prolongaciones y otra con forma alargada y fibras internas.
-   Identifica qué tipo celular es cada una y justifica tu respuesta según su función.
-   **Respuesta esperada:** La célula con muchas prolongaciones es probablemente una
-   neurona, adaptada para transmitir señales; la célula alargada con fibras internas
-   es probablemente una fibra muscular, adaptada para contraerse y generar movimiento.
-   **Retroalimentación:** Reconocer tipos celulares a partir de su forma es una
-   aplicación directa del principio de que la estructura celular sirve a su función.
+7. *(Alternativas — Análisis)* Al microscopio se observan dos células humanas: una con muchas prolongaciones y otra alargada con fibras internas. ¿Qué tipo celular es cada una?
+   a) La primera es una fibra muscular (se contrae) y la segunda una neurona (transmite señales)
+   b) Ambas son glóbulos rojos
+   c) La primera es una neurona (transmite señales) y la segunda una fibra muscular (se contrae)
+   d) La primera es una célula vegetal (con pared) y la segunda una bacteria (sin núcleo)
+   **Respuesta correcta:** c) La primera es una neurona (transmite señales) y la segunda una fibra muscular (se contrae).
+   **Retroalimentación:** Reconocer tipos celulares por su forma aplica el principio de que la estructura celular sirve a su función.
 
 ---
 
@@ -221,10 +217,10 @@ específicos sean distintos.
 1. *(Alternativas)* ¿Qué proceso físico explica principalmente la absorción de agua
    por la raíz de una planta?
    a) La respiración celular
-   b) La ósmosis
+   b) La transpiración foliar
    c) La fotosíntesis
-   d) La transpiración foliar
-   **Respuesta correcta:** b) La ósmosis.
+   d) La ósmosis
+   **Respuesta correcta:** d) La ósmosis.
    **Retroalimentación:** El agua entra a las células de la raíz por ósmosis, desde
    una zona de mayor concentración de agua (el suelo) hacia una de menor concentración
    (el interior celular).
@@ -235,54 +231,45 @@ específicos sean distintos.
    **Retroalimentación:** Los estomas regulan tanto el intercambio de gases (entrada de
    CO₂, salida de O₂) como la salida de vapor de agua durante la transpiración.
 
-3. *(Clasificar)* Clasifica cada proceso según si ocurre solo de día, solo de noche, o
-   en ambos momentos: fotosíntesis, respiración celular, absorción de agua por la
-   raíz.
-   **Respuesta correcta:** Solo de día (requiere luz): fotosíntesis. En ambos
-   momentos: respiración celular, absorción de agua por la raíz.
-   **Retroalimentación:** La fotosíntesis depende de la luz solar, pero la respiración
-   celular y la absorción de agua ocurren de manera continua.
+3. *(Varias correctas — Clasificar)* ¿Qué procesos de una planta ocurren **tanto de día como de noche**? Marca **todas** las correctas.
+   a) Respiración celular
+   b) Absorción de agua por la raíz
+   c) Fotosíntesis
+   d) Ninguno: todos ocurren solo de día
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** La fotosíntesis depende de la luz solar; la respiración celular y la absorción de agua ocurren de manera continua.
 
-4. *(Desarrollo breve)* Explica el rol de los estomas durante la fotosíntesis, la
-   respiración celular y la transpiración.
-   **Respuesta esperada:** Los estomas permiten el intercambio de gases: durante la
-   fotosíntesis, dejan entrar CO₂ y salir O₂; durante la respiración celular, dejan
-   entrar O₂ y salir CO₂; y durante la transpiración, permiten la salida de vapor de
-   agua, lo que además ayuda a impulsar el ascenso de agua por el xilema.
-   **Retroalimentación:** Los estomas cumplen una triple función relacionada con el
-   intercambio de gases y de agua entre la planta y el ambiente.
+4. *(Alternativas)* ¿Qué rol cumplen los estomas en la fotosíntesis, la respiración celular y la transpiración?
+   a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración
+   b) Solo absorben agua desde el suelo y la transportan hacia las hojas, sin participar en el intercambio de gases ni en la salida de vapor de agua de la planta
+   c) Producen la clorofila de la hoja, que capta la luz solar, y regulan la salida del oxígeno durante la noche
+   d) Transportan la savia elaborada desde las hojas hacia la raíz y almacenan el almidón que produce la fotosíntesis
+   **Respuesta correcta:** a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración.
+   **Retroalimentación:** Los estomas cumplen una triple función vinculada al intercambio de gases y de agua entre la planta y el ambiente; la transpiración además impulsa el ascenso de agua por el xilema.
 
-5. *(Análisis/comparación)* Compara el sistema de transporte de sustancias de una
-   planta con el sistema circulatorio de un ser humano, señalando una similitud y una
-   diferencia.
-   **Respuesta esperada:** Similitud: ambos transportan sustancias esenciales
-   (nutrientes, agua, gases) por tejidos especializados a través de todo el
-   organismo. Diferencia: el sistema circulatorio humano es impulsado por el corazón
-   (una bomba muscular), mientras que el ascenso de agua por el xilema depende
-   principalmente de la transpiración y de fuerzas físicas como la capilaridad, sin
-   una bomba central.
-   **Retroalimentación:** Comparar sistemas de distintos organismos ayuda a identificar
-   funciones biológicas comunes resueltas de maneras estructurales distintas.
+5. *(Alternativas — Comparación)* ¿Qué opción señala correctamente una similitud y una diferencia entre el transporte de sustancias en una planta y el sistema circulatorio humano?
+   a) Similitud: ambos tienen un corazón que bombea líquido por tubos especializados. Diferencia: la planta no transporta agua desde la raíz, solo nutrientes elaborados en las hojas
+   b) Similitud: ninguno transporta nutrientes, solo gases. Diferencia: la planta tiene sangre verde que circula por el tallo gracias a la capilaridad
+   c) No existe ninguna similitud entre ambos sistemas: la planta no tiene tejidos especializados y el agua sube por el tallo sin ningún mecanismo
+   d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad
+   **Respuesta correcta:** d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad.
+   **Retroalimentación:** Comparar sistemas de distintos organismos ayuda a identificar funciones comunes resueltas de maneras estructurales distintas.
 
-6. *(Aplicación/modelo)* Diseña un modelo simple que explique por qué una planta con
-   pocas hojas transpira menos agua que una con muchas hojas, y qué relación tiene esto
-   con el número de estomas.
-   **Respuesta esperada:** Los estomas se ubican principalmente en las hojas; a mayor
-   número de hojas, mayor cantidad de estomas y, por lo tanto, mayor superficie para
-   la salida de vapor de agua durante la transpiración, lo que implica mayor pérdida
-   de agua.
-   **Retroalimentación:** La cantidad de superficie foliar (y de estomas) determina en
-   gran medida la tasa de transpiración de una planta.
+6. *(Alternativas — Modelo)* ¿Por qué una planta con pocas hojas transpira menos agua que una con muchas hojas?
+   a) Porque las hojas absorben agua del aire, y una planta con muchas hojas recibe más agua y por eso necesita eliminarla por los estomas
+   b) Porque los estomas están principalmente en las hojas: menos hojas significa menos estomas y menos superficie para la salida de vapor de agua
+   c) Porque las plantas con muchas hojas no tienen estomas, y el agua sale directamente por la superficie de todas sus hojas
+   d) Porque la transpiración ocurre solo en la raíz, y las plantas con pocas hojas tienen raíces más pequeñas y con menos estomas
+   **Respuesta correcta:** b) Porque los estomas están principalmente en las hojas: menos hojas significa menos estomas y menos superficie para la salida de vapor de agua.
+   **Retroalimentación:** La superficie foliar (y la cantidad de estomas) determina en gran medida la tasa de transpiración.
 
-7. *(Análisis de caso)* En un día muy caluroso y seco, una planta cierra la mayoría de
-   sus estomas durante varias horas, incluso con luz solar disponible. Explica qué
-   consecuencia tiene esto para la fotosíntesis y por qué la planta "decide" hacerlo.
-   **Respuesta esperada:** Al cerrar los estomas, la planta reduce la pérdida de agua
-   por transpiración (evitando deshidratarse), pero también reduce la entrada de CO₂,
-   lo que disminuye la tasa de fotosíntesis; es un equilibrio entre conservar agua y
-   producir alimento.
-   **Retroalimentación:** Las plantas regulan sus estomas como una estrategia de
-   adaptación frente a condiciones ambientales extremas, priorizando la supervivencia.
+7. *(Alternativas — Análisis de caso)* En un día muy caluroso y seco, una planta cierra la mayoría de sus estomas aunque haya luz. ¿Qué consecuencia tiene esto?
+   a) Aumenta la fotosíntesis, porque al cerrar los estomas entra más CO₂ y la planta aprovecha mejor la luz intensa del día caluroso y seco
+   b) La planta transpira más agua, porque al cerrar los estomas el vapor se acumula dentro de la hoja y sale con más fuerza
+   c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento
+   d) No tiene ninguna consecuencia para la planta, porque los estomas solo participan en la respiración durante la noche
+   **Respuesta correcta:** c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento.
+   **Retroalimentación:** Las plantas regulan sus estomas como estrategia de adaptación frente a condiciones extremas, priorizando la supervivencia.
 
 ---
 
@@ -365,58 +352,45 @@ organismo.
    **Retroalimentación:** Los eritrocitos (glóbulos rojos) transportan oxígeno; los
    leucocitos (glóbulos blancos) participan en la defensa del organismo.
 
-3. *(Clasificar)* Clasifica cada función según el sistema del cuerpo humano al que
-   corresponde principalmente (digestivo, circulatorio, respiratorio o excretor):
-   intercambio gaseoso en los alvéolos, filtración de la sangre en el nefrón, acción
-   de enzimas sobre los alimentos, transporte de nutrientes por la sangre.
-   **Respuesta correcta:** Respiratorio: intercambio gaseoso en los alvéolos.
-   Excretor: filtración en el nefrón. Digestivo: acción de enzimas sobre los
-   alimentos. Circulatorio: transporte de nutrientes por la sangre.
-   **Retroalimentación:** Cada sistema tiene una función específica, pero todos actúan
-   de forma coordinada para mantener el equilibrio del cuerpo.
+3. *(Alternativas — Clasificar)* ¿Qué opción asigna correctamente cada función a su sistema?
+   a) Intercambio gaseoso en los alvéolos: respiratorio. Filtración en el nefrón: excretor. Acción de enzimas sobre alimentos: digestivo. Transporte de nutrientes por la sangre: circulatorio
+   b) Intercambio gaseoso en los alvéolos: circulatorio. Filtración en el nefrón: digestivo. Acción de enzimas sobre alimentos: excretor. Transporte de nutrientes: respiratorio
+   c) Intercambio gaseoso en los alvéolos: excretor. Filtración en el nefrón: respiratorio. Acción de enzimas sobre alimentos: circulatorio. Transporte de nutrientes: digestivo
+   d) Todas las funciones corresponden al sistema digestivo, porque los nutrientes, los gases y los desechos se procesan en el intestino y luego pasan a la sangre
+   **Respuesta correcta:** a) Intercambio gaseoso en los alvéolos: respiratorio. Filtración en el nefrón: excretor. Acción de enzimas sobre alimentos: digestivo. Transporte de nutrientes por la sangre: circulatorio.
+   **Retroalimentación:** Cada sistema tiene una función específica, pero todos actúan de forma coordinada para mantener el equilibrio del cuerpo.
 
-4. *(Desarrollo breve)* Explica el rol de la bilis y de las enzimas digestivas durante
-   el proceso de digestión.
-   **Respuesta esperada:** Las enzimas digestivas descomponen químicamente los
-   alimentos en moléculas más simples (nutrientes) que pueden ser absorbidas; la bilis
-   emulsiona las grasas (las fragmenta en gotas más pequeñas), facilitando que las
-   enzimas actúen sobre ellas de forma más eficiente.
-   **Retroalimentación:** La digestión combina procesos físicos (masticación,
-   movimientos musculares) y químicos (enzimas, bilis) para transformar los alimentos.
+4. *(Alternativas)* ¿Qué rol cumplen la bilis y las enzimas digestivas?
+   a) La bilis descompone químicamente las proteínas en aminoácidos absorbibles; las enzimas transportan el oxígeno hacia el intestino delgado
+   b) Ambas filtran la sangre en los riñones
+   c) Las enzimas almacenan la grasa de los alimentos en el hígado; la bilis produce glóbulos rojos que absorben los nutrientes
+   d) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas
+   **Respuesta correcta:** d) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.
+   **Retroalimentación:** La digestión combina procesos físicos (masticación, movimientos musculares) y químicos (enzimas, bilis).
 
-5. *(Análisis)* Explica, con un ejemplo, cómo interactúan el sistema respiratorio y el
-   sistema circulatorio para llevar oxígeno a una célula muscular durante el
-   ejercicio.
-   **Respuesta esperada:** Durante el ejercicio, la ventilación pulmonar aumenta,
-   ingresando más aire a los pulmones; en los alvéolos, el oxígeno pasa a la sangre
-   por difusión; el sistema circulatorio, con un ritmo cardíaco más rápido, transporta
-   esa sangre oxigenada hacia las células musculares, que la utilizan para producir
-   energía.
-   **Retroalimentación:** Ningún sistema del cuerpo trabaja de forma aislada: el
-   ejercicio físico evidencia claramente la interacción coordinada entre varios
-   sistemas.
+5. *(Alternativas — Análisis)* Durante el ejercicio, ¿cómo interactúan los sistemas respiratorio y circulatorio para llevar oxígeno a una célula muscular?
+   a) El sistema digestivo envía oxígeno directamente al músculo a través del intestino, sin que intervengan los pulmones ni el corazón
+   b) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos
+   c) El músculo obtiene oxígeno del aire directamente, sin intervención de la sangre, y el corazón solo late más rápido por el esfuerzo
+   d) La sangre lleva CO₂ desde los pulmones al músculo para que produzca energía, y el oxígeno se queda en los alvéolos durante el ejercicio
+   **Respuesta correcta:** b) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos.
+   **Retroalimentación:** Ningún sistema trabaja de forma aislada: el ejercicio evidencia su interacción coordinada.
 
-6. *(Análisis de evidencia)* Un estudio muestra que las personas fumadoras presentan,
-   en promedio, menor capacidad de intercambio gaseoso en sus pulmones que las
-   personas no fumadoras. Explica una posible razón biológica de este resultado.
-   **Respuesta esperada:** El humo del tabaco daña el tejido de los alvéolos
-   pulmonares, reduciendo la superficie disponible para el intercambio gaseoso por
-   difusión entre el aire y la sangre, lo que disminuye la cantidad de oxígeno que
-   puede pasar a la sangre en cada respiración.
-   **Retroalimentación:** Interpretar evidencia científica sobre hábitos de consumo
-   ayuda a comprender, más allá de la memorización, por qué ciertas conductas afectan
-   la salud.
+6. *(Alternativas — Análisis de evidencia)* Un estudio muestra que las personas fumadoras tienen, en promedio, menor capacidad de intercambio gaseoso. ¿Qué explicación biológica es más adecuada?
+   a) El tabaco aumenta el número de alvéolos, pero los llena de humo y los hace menos eficientes
+   b) Fumar mejora la absorción de oxígeno al principio, pero después la reduce por el cansancio de los pulmones
+   c) El humo del tabaco daña los alvéolos, reduciendo la superficie disponible para el intercambio de gases por difusión
+   d) El tabaco solo afecta al sistema digestivo, y por eso disminuye la energía disponible para respirar
+   **Respuesta correcta:** c) El humo del tabaco daña los alvéolos, reduciendo la superficie disponible para el intercambio de gases por difusión.
+   **Retroalimentación:** Interpretar evidencia científica ayuda a comprender por qué ciertas conductas afectan la salud.
 
-7. *(Aplicación/prevención)* Explica dos medidas de prevención que una persona podría
-   adoptar para cuidar el equilibrio de sus sistemas digestivo, circulatorio,
-   respiratorio y excretor, relacionadas con el consumo de sustancias mencionado en
-   este OA.
-   **Respuesta esperada:** Por ejemplo: evitar o reducir el consumo de tabaco (protege
-   el sistema respiratorio y circulatorio) y moderar el consumo de sodio y grasas
-   (protege el sistema circulatorio y excretor, evitando hipertensión y sobrecarga
-   renal).
-   **Retroalimentación:** Comprender cómo funcionan los sistemas del cuerpo permite
-   fundamentar científicamente las recomendaciones de un estilo de vida saludable.
+7. *(Varias correctas — Prevención)* ¿Qué medidas ayudan a cuidar el equilibrio de los sistemas digestivo, circulatorio, respiratorio y excretor? Marca **todas** las correctas.
+   a) Evitar o reducir el consumo de tabaco
+   b) Moderar el consumo de sodio y grasas
+   c) Aumentar el consumo de alcohol
+   d) Consumir más sal para retener líquidos
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Evitar el tabaco protege los sistemas respiratorio y circulatorio; moderar sodio y grasas previene hipertensión y sobrecarga renal. Más alcohol o sal dañan estos sistemas.
 
 ---
 
@@ -489,58 +463,45 @@ lo largo de la vida.
    **Retroalimentación:** La salud se entiende como un estado de bienestar físico,
    mental y social, no solo la ausencia de enfermedad.
 
-3. *(Clasificar)* Clasifica estos alimentos según su aporte nutricional principal
-   (energético, constructor o regulador): pan, huevo, naranja, aceite, pescado,
-   espinaca.
-   **Respuesta correcta:** Energético: pan, aceite. Constructor: huevo, pescado.
-   Regulador: naranja, espinaca.
-   **Retroalimentación:** Una alimentación balanceada combina alimentos de los tres
-   tipos de aporte para cubrir las distintas necesidades del organismo.
+3. *(Alternativas — Clasificar)* ¿Qué clasificación de alimentos según su aporte nutricional principal es correcta?
+   a) Energético: pan y aceite. Constructor: huevo y pescado. Regulador: naranja y espinaca
+   b) Energético: huevo y pescado. Constructor: pan y aceite. Regulador: naranja y espinaca
+   c) Energético: naranja y espinaca. Constructor: pan y aceite. Regulador: huevo y pescado
+   d) Todos son alimentos reguladores
+   **Respuesta correcta:** a) Energético: pan y aceite. Constructor: huevo y pescado. Regulador: naranja y espinaca.
+   **Retroalimentación:** Una alimentación balanceada combina alimentos de los tres tipos de aporte.
 
-4. *(Desarrollo breve)* Explica por qué la actividad física cotidiana debe
-   relacionarse con parámetros fisiológicos como la edad, el sexo, la estatura y el
-   peso de una persona.
-   **Respuesta esperada:** Porque las necesidades energéticas, la capacidad física y
-   los requerimientos de cada persona varían según estos parámetros; por ejemplo, un
-   adolescente en crecimiento tiene requerimientos distintos a los de un adulto, por lo
-   que el tipo e intensidad de actividad física recomendada también varía.
-   **Retroalimentación:** No existe una única recomendación de actividad física válida
-   para todas las personas: debe adaptarse a las características individuales.
+4. *(Alternativas)* ¿Por qué la actividad física debe relacionarse con la edad, el sexo, la estatura y el peso de cada persona?
+   a) Porque todas las personas deben hacer exactamente el mismo ejercicio, y estos parámetros sirven solo para registrar el avance de cada una
+   b) Porque solo los adultos necesitan actividad física, y en los adolescentes estos parámetros todavía no influyen en el tipo de ejercicio
+   c) Porque estos parámetros no influyen en el cuerpo
+   d) Porque las necesidades energéticas y la capacidad física varían según estos parámetros, por lo que el tipo e intensidad recomendados también varían
+   **Respuesta correcta:** d) Porque las necesidades energéticas y la capacidad física varían según estos parámetros, por lo que el tipo e intensidad recomendados también varían.
+   **Retroalimentación:** No existe una única recomendación de actividad física válida para todas las personas.
 
-5. *(Análisis de evidencia)* Analiza el siguiente caso: una persona presenta baja
-   densidad ósea (osteoporosis) y ha tenido, durante años, una dieta muy baja en
-   calcio y poca exposición solar. Explica la relación entre estos factores y la
-   condición de salud descrita.
-   **Respuesta esperada:** El calcio es fundamental para mantener la densidad y
-   fortaleza de los huesos; una dieta baja en calcio, junto con poca exposición solar
-   (necesaria para la producción de vitamina D, que facilita la absorción de calcio),
-   puede contribuir a una menor densidad ósea a lo largo del tiempo, favoreciendo la
-   osteoporosis.
-   **Retroalimentación:** Analizar evidencias de casos concretos ayuda a comprender
-   cómo factores alimentarios y de estilo de vida se relacionan con enfermedades
-   específicas.
+5. *(Alternativas — Análisis de evidencia)* Una persona con osteoporosis tuvo, durante años, una dieta muy baja en calcio y poca exposición solar. ¿Qué vínculo hay entre estos factores?
+   a) La exposición solar destruye el calcio de los huesos, y una dieta baja en calcio compensa ese daño, por lo que ambos factores se anulan
+   b) El calcio mantiene la densidad ósea, y la exposición solar permite producir vitamina D, que facilita absorber calcio: su falta favorece la osteoporosis
+   c) El calcio no tiene relación con los huesos
+   d) La osteoporosis se debe solo a hacer demasiado ejercicio, y la dieta y la exposición solar no tienen ninguna relación con la densidad ósea
+   **Respuesta correcta:** b) El calcio mantiene la densidad ósea, y la exposición solar permite producir vitamina D, que facilita absorber calcio: su falta favorece la osteoporosis.
+   **Retroalimentación:** Analizar casos concretos ayuda a comprender cómo la alimentación y el estilo de vida se vinculan con enfermedades específicas.
 
-6. *(Evaluación/actitud)* Evalúa la siguiente conducta: un adolescente decide probar
-   cigarrillos "solo en las fiestas, para no volverse adicto." Explica por qué esta
-   afirmación no es sustentable desde el punto de vista de la salud.
-   **Respuesta esperada:** El consumo de tabaco, incluso ocasional, expone al
-   organismo a sustancias dañinas (nicotina y otras) que afectan el sistema
-   respiratorio y circulatorio desde las primeras exposiciones, y el riesgo de
-   desarrollar dependencia existe incluso con un consumo considerado "ocasional",
-   por lo que no es una conducta libre de riesgo.
-   **Retroalimentación:** Evaluar críticamente creencias comunes sobre el consumo de
-   sustancias, contrastándolas con evidencia científica, es parte de tomar decisiones
-   informadas sobre la propia salud.
+6. *(Alternativas — Evaluación)* Un adolescente dice que probará cigarrillos "solo en las fiestas, para no volverse adicto". ¿Por qué esta idea no es sustentable?
+   a) Porque fumar en fiestas no tiene ningún riesgo, pero el problema es que en las fiestas se fuma más de lo planeado
+   b) Porque la nicotina solo afecta a los adultos
+   c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual
+   d) Porque la adicción solo ocurre si se fuma todos los días durante años, y en las fiestas es difícil controlar cuántos cigarrillos se fuman
+   **Respuesta correcta:** c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.
+   **Retroalimentación:** Evaluar creencias comunes con evidencia científica es parte de tomar decisiones informadas sobre la propia salud.
 
-7. *(Aplicación/plan)* Diseña un plan simple (tres acciones) que un adolescente podría
-   seguir para mantener un cuerpo saludable, considerando los tres factores estudiados
-   en este OA.
-   **Respuesta esperada:** Por ejemplo: 1) Incluir en cada comida alimentos de los tres
-   tipos de aporte nutricional (energético, constructor y regulador); 2) Realizar
-   actividad física regular, adecuada a su edad y condición física; 3) Evitar el
-   consumo de alcohol, tabaco y otras drogas, informándose sobre sus riesgos.
-   **Retroalimentación:** Un plan de salud efectivo combina varios factores de forma
-   simultánea y sostenida en el tiempo, no acciones aisladas.
+7. *(Varias correctas — Plan)* ¿Qué acciones forman parte de un plan simple para mantener un cuerpo saludable? Marca **todas** las correctas.
+   a) Incluir en cada comida alimentos energéticos, constructores y reguladores
+   b) Realizar actividad física regular, adecuada a la edad y condición
+   c) Evitar el consumo de alcohol, tabaco y otras drogas
+   d) Saltarse comidas para bajar de peso rápido
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Un plan de salud efectivo combina alimentación, actividad física y prevención del consumo; saltarse comidas no es saludable.
 
 ---
 
@@ -617,11 +578,11 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
 1. *(Alternativas)* Según la Ley de Ohm (V = I × R), si un dispositivo tiene una
    resistencia de 100 ohms y por él circula una corriente de 2 amperes, ¿cuál es la
    diferencia de potencial?
-   a) 50 volts
+   a) 200 volts
    b) 102 volts
-   c) 200 volts
+   c) 50 volts
    d) 0,02 volts
-   **Respuesta correcta:** c) 200 volts.
+   **Respuesta correcta:** a) 200 volts.
    **Retroalimentación:** V = I × R = 2 A × 100 Ω = 200 volts.
 
 2. *(Verdadero o falso)* En un circuito conectado en serie, si un componente falla, el
@@ -630,56 +591,45 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
    **Retroalimentación:** En un circuito en serie, todos los componentes comparten el
    mismo camino de corriente; si uno falla, se interrumpe el circuito completo.
 
-3. *(Clasificar)* Clasifica estos componentes del circuito eléctrico domiciliario
-   según su función principal (control, seguridad o conexión): interruptor, fusible o
-   automático, enchufe, malla de tierra.
-   **Respuesta correcta:** Control: interruptor. Seguridad: fusible o automático,
-   malla de tierra. Conexión: enchufe.
-   **Retroalimentación:** Cada componente cumple un rol distinto dentro del circuito
-   domiciliario, ya sea permitir el uso de artefactos, controlarlos o proteger a las
-   personas y la instalación.
+3. *(Varias correctas — Clasificar)* ¿Qué componentes del circuito domiciliario cumplen principalmente una función de **seguridad**? Marca **todas** las correctas.
+   a) Fusible o automático
+   b) Malla de tierra
+   c) Interruptor
+   d) Enchufe
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** El interruptor cumple función de control y el enchufe de conexión; fusibles, automáticos y malla de tierra protegen a las personas y la instalación.
 
-4. *(Desarrollo breve)* Explica por qué la instalación eléctrica de una vivienda se
-   conecta en paralelo y no en serie.
-   **Respuesta esperada:** Porque en una conexión en paralelo cada artefacto recibe el
-   mismo voltaje y puede encenderse, apagarse o fallar de forma independiente, sin
-   afectar a los demás; en una conexión en serie, si un artefacto se apaga o falla, se
-   interrumpiría el funcionamiento de todos los demás, lo cual sería muy poco
-   práctico para el hogar.
-   **Retroalimentación:** La conveniencia práctica de que cada artefacto funcione de
-   forma independiente es la razón principal para usar conexión en paralelo en el
-   hogar.
+4. *(Alternativas)* ¿Por qué la instalación eléctrica de una vivienda se conecta en paralelo y no en serie?
+   a) Porque en paralelo cada artefacto recibe el mismo voltaje y funciona de forma independiente; en serie, si uno falla o se apaga, se interrumpen todos
+   b) Porque en paralelo se gasta menos cable y la instalación es más barata, aunque si un artefacto falla se apagan todos los demás
+   c) Porque en serie los artefactos reciben más voltaje del necesario y se queman con facilidad, aunque cada uno funcione de forma independiente
+   d) Porque la conexión en serie está prohibida en todo el mundo por ley, aunque en la práctica funcionaría igual que la conexión en paralelo
+   **Respuesta correcta:** a) Porque en paralelo cada artefacto recibe el mismo voltaje y funciona de forma independiente; en serie, si uno falla o se apaga, se interrumpen todos.
+   **Retroalimentación:** La independencia de cada artefacto es la razón principal para usar conexión en paralelo en el hogar.
 
-5. *(Análisis/cálculo)* Una plancha eléctrica tiene una potencia de 1.100 watts y está
-   conectada a 220 volts. Calcula la intensidad de corriente que circula por ella,
-   usando P = V × I.
-   **Respuesta correcta:** I = P / V = 1.100 W / 220 V = 5 amperes.
-   **Retroalimentación:** La fórmula de potencia eléctrica (P = V × I) permite calcular
-   cualquiera de las tres magnitudes si se conocen las otras dos.
+5. *(Alternativas — Cálculo)* Una plancha de 1.100 W está conectada a 220 V. Usando P = V × I, ¿cuál es la intensidad de corriente?
+   a) 242.000 A
+   b) 0,2 A
+   c) 880 A
+   d) 5 A
+   **Respuesta correcta:** d) 5 A.
+   **Retroalimentación:** I = P / V = 1.100 W / 220 V = 5 A. Multiplicar (242.000) o dividir al revés (0,2) son errores frecuentes.
 
-6. *(Análisis/seguridad)* Explica qué función cumple un dispositivo de seguridad (como
-   un automático o diferencial) en un circuito domiciliario, y qué podría ocurrir si
-   no existiera.
-   **Respuesta esperada:** Estos dispositivos interrumpen automáticamente el circuito
-   cuando detectan una sobrecarga de corriente o una fuga eléctrica, evitando
-   sobrecalentamiento de los cables, incendios o descargas eléctricas a las personas;
-   sin ellos, una falla eléctrica podría no detectarse a tiempo, aumentando
-   considerablemente el riesgo de accidentes.
-   **Retroalimentación:** Los dispositivos de seguridad son un componente esencial de
-   cualquier instalación eléctrica bien diseñada, más allá de que el circuito
-   "funcione" sin ellos.
+6. *(Alternativas — Seguridad)* ¿Qué función cumple un automático o diferencial en un circuito domiciliario?
+   a) Aumenta el voltaje de la red para que los artefactos funcionen mejor y más rápido
+   b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas
+   c) Convierte la corriente eléctrica en calor para calefaccionar la vivienda en invierno
+   d) No cumple ninguna función mientras el circuito funcione bien, por lo que puede retirarse
+   **Respuesta correcta:** b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas.
+   **Retroalimentación:** Sin estos dispositivos, una falla podría no detectarse a tiempo, aumentando el riesgo de accidentes.
 
-7. *(Aplicación/comparación)* Compara, cualitativamente, las ventajas y desventajas de
-   los circuitos en serie y en paralelo, considerando al menos un aspecto de cada uno.
-   **Respuesta esperada:** El circuito en serie es más simple de construir, pero poco
-   práctico porque una falla apaga todo el sistema y la corriente es la misma para
-   todos los componentes, lo que puede no ser adecuado si cada uno necesita distintas
-   condiciones. El circuito en paralelo permite el funcionamiento independiente de
-   cada componente y es más seguro ante fallas puntuales, pero requiere más cableado y
-   es más complejo de instalar.
-   **Retroalimentación:** La elección entre serie y paralelo depende del propósito de
-   la instalación: en el hogar, la independencia de cada artefacto hace que el
-   paralelo sea la opción adecuada.
+7. *(Alternativas — Comparación)* ¿Qué comparación entre circuitos en serie y en paralelo es correcta?
+   a) El de serie permite que cada artefacto funcione independientemente y usa menos cable; el de paralelo es más simple, pero una falla apaga todo
+   b) El de paralelo es más simple y usa menos cable; el de serie requiere más cableado, pero permite que cada artefacto funcione de forma independiente
+   c) El de serie es más simple pero una falla apaga todo; el de paralelo permite el funcionamiento independiente, aunque requiere más cableado
+   d) Ambos funcionan exactamente igual ante una falla: si un artefacto se apaga, todos los demás también se apagan
+   **Respuesta correcta:** c) El de serie es más simple pero una falla apaga todo; el de paralelo permite el funcionamiento independiente, aunque requiere más cableado.
+   **Retroalimentación:** En el hogar, la independencia de cada artefacto hace que el paralelo sea la opción adecuada.
 
 ---
 
@@ -766,57 +716,45 @@ construcción de viviendas.
    debido a una diferencia de temperatura. Un objeto no "tiene" calor, sino que puede
    cederlo o recibirlo.
 
-3. *(Clasificar)* Clasifica la forma de propagación del calor predominante en cada
-   situación (conducción, convección o radiación): calentar una barra de metal por un
-   extremo; el aire caliente que asciende sobre un radiador; el calor que llega desde
-   una fogata sin tocarla.
-   **Respuesta correcta:** Conducción: barra de metal calentada por un extremo.
-   Convección: aire caliente que asciende sobre un radiador. Radiación: calor de la
-   fogata sin contacto.
-   **Retroalimentación:** Identificar si hay contacto directo entre partículas
-   (conducción), movimiento de un fluido (convección), u ondas que viajan sin medio
-   material (radiación), permite reconocer la forma de propagación.
+3. *(Alternativas — Clasificar)* ¿Qué forma de propagación del calor predomina en cada caso: (1) barra de metal calentada por un extremo; (2) aire caliente que asciende sobre un radiador; (3) calor que llega desde una fogata sin tocarla?
+   a) 1: conducción; 2: convección; 3: radiación
+   b) 1: convección; 2: conducción; 3: radiación
+   c) 1: radiación; 2: convección; 3: conducción
+   d) 1: conducción; 2: radiación; 3: convección
+   **Respuesta correcta:** a) 1: conducción; 2: convección; 3: radiación.
+   **Retroalimentación:** Contacto entre partículas (conducción), movimiento de un fluido (convección) y ondas sin medio material (radiación).
 
-4. *(Desarrollo breve)* Explica qué ocurre con la temperatura de un cuerpo durante un
-   cambio de estado (como la fusión o la vaporización), aunque se le siga entregando
-   calor.
-   **Respuesta esperada:** Durante un cambio de estado, la temperatura del cuerpo se
-   mantiene constante, aunque se le siga entregando calor; toda esa energía (el calor
-   latente) se utiliza para transformar el estado de la materia (por ejemplo, romper
-   las fuerzas que mantienen unidas a las partículas en estado sólido o líquido), no
-   para aumentar la temperatura.
-   **Retroalimentación:** El concepto de calor latente ayuda a entender por qué la
-   temperatura del agua hirviendo no supera los 100°C mientras hay agua líquida
-   presente.
+4. *(Alternativas)* ¿Qué ocurre con la temperatura de un cuerpo durante un cambio de estado, aunque se le siga entregando calor?
+   a) Aumenta cada vez más rápido, porque el calor que se entrega se acumula y eleva la temperatura sin pausa
+   b) Disminuye bruscamente, porque el cuerpo pierde energía al cambiar de estado aunque se le siga entregando calor
+   c) Sube y baja de forma aleatoria hasta que termina el cambio de estado, según la cantidad de calor recibido
+   d) Se mantiene constante, porque la energía (calor latente) se usa para cambiar el estado y no para subir la temperatura
+   **Respuesta correcta:** d) Se mantiene constante, porque la energía (calor latente) se usa para cambiar el estado y no para subir la temperatura.
+   **Retroalimentación:** Por eso el agua hirviendo no supera los 100 °C mientras quede agua líquida (a presión normal).
 
-5. *(Análisis/cálculo)* Convierte una temperatura de 37°C (temperatura corporal
-   promedio) a la escala Kelvin y a la escala Fahrenheit.
-   **Respuesta correcta:** K = 37 + 273 = 310 K. °F = 37 × 1,8 + 32 = 98,6°F.
-   **Retroalimentación:** Aplicar correctamente las fórmulas de conversión permite
-   comparar temperaturas expresadas en distintas escalas.
+5. *(Alternativas — Cálculo)* ¿Cuánto es 37 °C en kelvin y en grados Fahrenheit?
+   a) 310 K y 66,6 °F
+   b) 310 K y 98,6 °F
+   c) 236 K y 98,6 °F
+   d) 37 K y 37 °F
+   **Respuesta correcta:** b) 310 K y 98,6 °F.
+   **Retroalimentación:** K = 37 + 273 = 310; °F = 37 × 1,8 + 32 = 98,6. Olvidar sumar 32 o restar 273 son errores frecuentes.
 
-6. *(Investigación experimental)* Diseña un experimento simple para comparar cómo se
-   propaga el calor por conducción en dos materiales distintos, como una cuchara
-   metálica y una de madera, ambas sumergidas en agua caliente. Describe qué
-   observarías.
-   **Respuesta esperada:** Se podrían colocar ambas cucharas parcialmente sumergidas en
-   agua caliente y, después de un minuto, tocar el extremo que no está en el agua; se
-   esperaría que la cuchara metálica se sienta más caliente que la de madera, porque
-   los metales son mejores conductores del calor que la madera.
-   **Retroalimentación:** Comparar distintos materiales permite evidenciar que la
-   conducción del calor depende de las propiedades del material, no solo de la
-   diferencia de temperatura.
+6. *(Alternativas — Investigación experimental)* Se sumergen parcialmente una cuchara metálica y una de madera en agua caliente. Al minuto se toca el extremo fuera del agua. ¿Qué se espera observar?
+   a) La de madera se siente más caliente, porque la madera conduce mejor el calor
+   b) Ambas se sienten igual de calientes, porque el material de la cuchara no influye en la conducción del calor
+   c) La cuchara metálica se siente más caliente, porque los metales conducen mejor el calor que la madera
+   d) Ninguna se calienta en el extremo, porque el calor no se propaga por los sólidos, solo por los líquidos y gases
+   **Respuesta correcta:** c) La cuchara metálica se siente más caliente, porque los metales conducen mejor el calor que la madera.
+   **Retroalimentación:** La conducción del calor depende de las propiedades del material, no solo de la diferencia de temperatura.
 
-7. *(Aplicación/protección)* Explica cómo funciona un termo para mantener una bebida
-   caliente por varias horas, relacionándolo con las formas de propagación del calor.
-   **Respuesta esperada:** Un termo reduce la transferencia de calor por conducción y
-   convección mediante una cámara de vacío o un material aislante entre sus paredes
-   (que dificulta el paso de calor), y reduce la transferencia por radiación mediante
-   una superficie interior reflectante; de esta forma, minimiza la pérdida de energía
-   térmica hacia el ambiente exterior, más frío.
-   **Retroalimentación:** Los objetos tecnológicos que protegen del calor o del frío
-   funcionan reduciendo, de forma combinada, las distintas formas de propagación del
-   calor.
+7. *(Alternativas — Aplicación)* ¿Cómo mantiene un termo una bebida caliente por varias horas?
+   a) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación
+   b) Generando calor propio con una pequeña resistencia eléctrica ubicada en la base del termo
+   c) Aumentando la convección del aire en su interior, para que el calor circule alrededor de la bebida
+   d) Absorbiendo calor del ambiente exterior a través de sus paredes metálicas y transmitiéndolo a la bebida para mantenerla caliente
+   **Respuesta correcta:** a) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación.
+   **Retroalimentación:** Los objetos que protegen del calor o del frío reducen de forma combinada las distintas formas de propagación.
 
 ---
 
@@ -908,60 +846,45 @@ acumulativa.
    proponer que el átomo tiene un núcleo pequeño, denso y de carga positiva, rodeado
    de un gran espacio vacío.
 
-3. *(Clasificar)* Asocia cada postulado o característica con el científico
-   correspondiente (Dalton, Thomson, Rutherford o Bohr): el átomo es una esfera
-   maciza e indivisible; los electrones se ubican en niveles de energía definidos; el
-   átomo tiene un núcleo pequeño y denso rodeado de espacio vacío; el átomo es como un
-   "budín de pasas" con electrones incrustados en una esfera de carga positiva.
-   **Respuesta correcta:** Dalton: esfera maciza e indivisible. Bohr: niveles de
-   energía definidos. Rutherford: núcleo pequeño y denso rodeado de espacio vacío.
-   Thomson: modelo del "budín de pasas".
-   **Retroalimentación:** Cada modelo se distingue por cómo representa la estructura
-   interna (o la ausencia de ella) del átomo.
+3. *(Alternativas — Clasificar)* ¿Qué opción asocia correctamente cada modelo atómico con su científico?
+   a) Dalton: "budín de pasas". Thomson: esfera maciza e indivisible. Rutherford: electrones en niveles de energía. Bohr: núcleo pequeño y denso rodeado de espacio vacío
+   b) Dalton: núcleo pequeño y denso. Thomson: electrones en niveles de energía. Rutherford: esfera maciza e indivisible. Bohr: "budín de pasas" con cargas repartidas
+   c) Todos propusieron el mismo modelo de átomo, y solo cambiaron los nombres que le dieron a sus partes según el idioma de cada científico
+   d) Dalton: esfera maciza e indivisible. Thomson: "budín de pasas". Rutherford: núcleo pequeño y denso rodeado de espacio vacío. Bohr: electrones en niveles de energía definidos
+   **Respuesta correcta:** d) Dalton: esfera maciza e indivisible. Thomson: "budín de pasas". Rutherford: núcleo pequeño y denso rodeado de espacio vacío. Bohr: electrones en niveles de energía definidos.
+   **Retroalimentación:** Cada modelo se distingue por cómo representa la estructura interna (o la ausencia de ella) del átomo.
 
-4. *(Desarrollo breve)* Explica por qué el modelo de Thomson no podía explicar los
-   resultados del experimento de la lámina de oro de Rutherford.
-   **Respuesta esperada:** El modelo de Thomson planteaba que la carga positiva del
-   átomo estaba distribuida uniformemente en toda la esfera, por lo que las partículas
-   alfa deberían atravesar la lámina de oro sin grandes desviaciones; sin embargo,
-   Rutherford observó que algunas partículas se desviaban fuertemente o rebotaban, lo
-   que solo podía explicarse si la carga positiva estuviera concentrada en una región
-   muy pequeña y densa (el núcleo), y no distribuida uniformemente.
-   **Retroalimentación:** Cuando un experimento entrega resultados que un modelo no
-   puede explicar, la ciencia avanza proponiendo un modelo nuevo que sí los explique.
+4. *(Alternativas)* ¿Por qué el modelo de Thomson no podía explicar los resultados del experimento de la lámina de oro de Rutherford?
+   a) Porque Thomson afirmaba que el átomo no tenía electrones, y en el experimento se detectaron electrones que desviaban las partículas alfa hacia atrás al chocar con la lámina de oro
+   b) Porque con la carga positiva repartida uniformemente las partículas alfa no deberían desviarse mucho, pero algunas se desviaron fuertemente o rebotaron, lo que exige un núcleo pequeño y denso
+   c) Porque en el experimento ninguna partícula atravesó la lámina, lo que demostraba que el átomo era una esfera maciza sin espacios vacíos
+   d) Porque el oro no tiene átomos como los demás elementos, sino una estructura continua que el modelo de Thomson no consideraba
+   **Respuesta correcta:** b) Porque con la carga positiva repartida uniformemente las partículas alfa no deberían desviarse mucho, pero algunas se desviaron fuertemente o rebotaron, lo que exige un núcleo pequeño y denso.
+   **Retroalimentación:** Cuando un experimento entrega resultados que un modelo no explica, la ciencia propone un modelo nuevo.
 
-5. *(Análisis)* Establece una semejanza y una diferencia entre los modelos atómicos
-   de Rutherford y de Bohr.
-   **Respuesta esperada:** Semejanza: ambos modelos proponen que el átomo tiene un
-   núcleo central con carga positiva, rodeado de electrones. Diferencia: en el modelo
-   de Rutherford los electrones se mueven libremente alrededor del núcleo, sin una
-   trayectoria definida, mientras que en el modelo de Bohr los electrones se ubican en
-   niveles de energía definidos, sin poder estar en posiciones intermedias.
-   **Retroalimentación:** El modelo de Bohr resuelve una limitación importante del
-   modelo de Rutherford, al explicar por qué los electrones no caen hacia el núcleo.
+5. *(Alternativas — Análisis)* ¿Qué semejanza y qué diferencia hay entre los modelos de Rutherford y de Bohr?
+   a) Semejanza: ambos niegan la existencia del núcleo atómico. Diferencia: solo Bohr incluye electrones, que giran en órbitas alrededor de una esfera maciza
+   b) Semejanza: ambos son el modelo del "budín de pasas", con cargas repartidas. Diferencia: ninguna, porque Bohr solo le cambió el nombre
+   c) Semejanza: núcleo central positivo rodeado de electrones. Diferencia: Bohr ubica a los electrones en niveles de energía definidos; Rutherford no establecía esa restricción
+   d) Semejanza: ninguna, porque son modelos opuestos. Diferencia: Rutherford propuso los niveles de energía y Bohr descubrió el núcleo
+   **Respuesta correcta:** c) Semejanza: núcleo central positivo rodeado de electrones. Diferencia: Bohr ubica a los electrones en niveles de energía definidos; Rutherford no establecía esa restricción.
+   **Retroalimentación:** El modelo de Bohr resuelve una limitación del de Rutherford al explicar por qué los electrones no caen hacia el núcleo.
 
-6. *(Análisis/investigación)* Explica, con tus palabras, por qué se dice que el
-   conocimiento científico sobre la estructura del átomo "evolucionó" en vez de
-   "descubrirse de una sola vez".
-   **Respuesta esperada:** Porque cada modelo (Dalton, Thomson, Rutherford, Bohr) se
-   construyó a partir de nueva evidencia experimental que ponía a prueba el modelo
-   anterior; cuando un modelo no podía explicar ciertos resultados, se proponía uno
-   nuevo que incorporara esa evidencia, por lo que el conocimiento avanzó de forma
-   progresiva y acumulativa, y no como un hallazgo único y definitivo.
-   **Retroalimentación:** Comprender la evolución de los modelos atómicos es un buen
-   ejemplo de cómo funciona el método científico en general.
+6. *(Alternativas — Análisis)* ¿Por qué se dice que el conocimiento sobre el átomo "evolucionó" en vez de descubrirse de una sola vez?
+   a) Porque cada modelo se construyó a partir de nueva evidencia que ponía a prueba el anterior, de forma progresiva
+   b) Porque Dalton descubrió todo sobre el átomo y los demás científicos solo copiaron su modelo
+   c) Porque los científicos cambiaron de modelo según sus preferencias, sin necesitar nueva evidencia
+   d) Porque el átomo cambia de forma con los años, y cada científico describió una etapa distinta
+   **Respuesta correcta:** a) Porque cada modelo se construyó a partir de nueva evidencia que ponía a prueba el anterior, de forma progresiva.
+   **Retroalimentación:** La evolución de los modelos atómicos es un buen ejemplo de cómo funciona el método científico.
 
-7. *(Aplicación)* Un estudiante afirma: "El modelo de Dalton está completamente
-   equivocado y no sirve de nada." Evalúa esta afirmación, considerando el aporte que
-   hizo el modelo de Dalton al conocimiento científico.
-   **Respuesta esperada:** La afirmación es poco precisa: aunque el modelo de Dalton
-   fue superado por modelos posteriores (al no considerar la estructura interna del
-   átomo), fue fundamental porque estableció la idea de que la materia está formada
-   por átomos, que los átomos de un mismo elemento son iguales entre sí, y que se
-   combinan en proporciones simples para formar compuestos, ideas que siguen siendo
-   válidas y que sentaron las bases para los modelos posteriores.
-   **Retroalimentación:** Los modelos científicos superados no son "errores inútiles":
-   representan un paso necesario en la construcción del conocimiento actual.
+7. *(Alternativas — Evaluación)* Un estudiante afirma: "El modelo de Dalton está completamente equivocado y no sirve de nada". ¿Qué evaluación es correcta?
+   a) Es correcta: el modelo de Dalton no aportó nada, porque sus ideas se basaban en la filosofía y no en experimentos, y los modelos posteriores lo descartaron por completo
+   b) Es correcta: Dalton negaba la existencia de los átomos y proponía que la materia era continua, por lo que sus ideas fueron reemplazadas por las de Thomson
+   c) Es poco precisa porque el modelo de Dalton sigue siendo el modelo atómico actual, que no ha necesitado ninguna corrección desde que lo propuso
+   d) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores
+   **Respuesta correcta:** d) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.
+   **Retroalimentación:** Los modelos superados no son "errores inútiles": son pasos necesarios en la construcción del conocimiento.
 
 ---
 
@@ -1039,57 +962,45 @@ ciertos tipos de enlaces, aunque no se conozca ese elemento específico en detal
    similar de electrones en su última capa, lo que determina propiedades químicas
    semejantes.
 
-3. *(Clasificar)* Clasifica estas propiedades según si son más características de los
-   metales o de los no metales: buena conductividad eléctrica, tendencia a compartir
-   electrones, brillo característico, baja conductividad térmica.
-   **Respuesta correcta:** Metales: buena conductividad eléctrica, brillo
-   característico. No metales: tendencia a compartir electrones, baja conductividad
-   térmica.
-   **Retroalimentación:** Reconocer estas propiedades ayuda a predecir el
-   comportamiento de un elemento según su ubicación en la tabla periódica.
+3. *(Varias correctas — Clasificar)* ¿Cuáles de estas propiedades son características de los **metales**? Marca **todas** las correctas.
+   a) Buena conductividad eléctrica
+   b) Brillo característico
+   c) Tendencia a compartir electrones
+   d) Baja conductividad térmica
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Compartir electrones y la baja conductividad térmica son más características de los no metales.
 
-4. *(Desarrollo breve)* Explica la diferencia entre un enlace iónico y un enlace
-   covalente, en relación con el tipo de elementos que los forman.
-   **Respuesta esperada:** El enlace iónico se forma generalmente entre un metal y un
-   no metal, donde el metal cede uno o más electrones y el no metal los acepta,
-   formando iones de carga opuesta que se atraen. El enlace covalente se forma
-   generalmente entre no metales, que comparten electrones en lugar de transferirlos
-   por completo.
-   **Retroalimentación:** El tipo de enlace que forma un elemento está relacionado con
-   su tendencia a ceder o compartir electrones, lo cual depende de su posición en la
-   tabla periódica.
+4. *(Alternativas)* ¿Cuál es la diferencia entre un enlace iónico y uno covalente?
+   a) El iónico se forma entre no metales que comparten electrones; el covalente, entre un metal que cede electrones y otro metal que los acepta
+   b) El iónico se forma generalmente entre un metal que cede electrones y un no metal que los acepta; el covalente, entre no metales que comparten electrones
+   c) Ambos se forman solo entre gases nobles, que son los únicos elementos que pueden ceder, aceptar o compartir electrones con facilidad
+   d) No existe diferencia entre ellos: los dos nombres se usan para el mismo tipo de enlace, según el país donde se estudie química
+   **Respuesta correcta:** b) El iónico se forma generalmente entre un metal que cede electrones y un no metal que los acepta; el covalente, entre no metales que comparten electrones.
+   **Retroalimentación:** El tipo de enlace depende de la tendencia a ceder o compartir electrones, vinculada a la posición en la tabla periódica.
 
-5. *(Análisis)* Un elemento X se ubica en el mismo grupo que el flúor y el cloro (grupo
-   de los halógenos, no metales). Predice, basándote en el patrón de la tabla
-   periódica, si este elemento tenderá a formar enlaces iónicos o covalentes, y con
-   qué tipo de elementos.
-   **Respuesta esperada:** Al ser un no metal del mismo grupo que el flúor y el cloro,
-   el elemento X probablemente tenderá a aceptar electrones (en vez de cederlos); podrá
-   formar enlaces iónicos con metales (que ceden electrones) y enlaces covalentes con
-   otros no metales (compartiendo electrones).
-   **Retroalimentación:** Usar el patrón de un grupo conocido de la tabla periódica es
-   una forma válida de predecir el comportamiento químico de un elemento relacionado.
+5. *(Alternativas — Análisis)* Un elemento X está en el mismo grupo que el flúor y el cloro (halógenos, no metales). ¿Qué se puede predecir sobre sus enlaces?
+   a) Tenderá a ceder electrones como los metales alcalinos, formando iones positivos y enlaces metálicos
+   b) No formará ningún tipo de enlace, porque es estable como los gases nobles
+   c) Tenderá a aceptar electrones: formará enlaces iónicos con metales y covalentes con otros no metales
+   d) Solo formará enlaces metálicos, porque conduce bien la electricidad
+   **Respuesta correcta:** c) Tenderá a aceptar electrones: formará enlaces iónicos con metales y covalentes con otros no metales.
+   **Retroalimentación:** Usar el patrón de un grupo conocido es una forma válida de predecir el comportamiento de un elemento.
 
-6. *(Comparación)* Compara un elemento metálico y un elemento no metálico en cuanto a
-   su conductividad eléctrica y su tendencia a formar enlaces, dando un ejemplo de
-   cada uno.
-   **Respuesta esperada:** Por ejemplo, el cobre (metal) tiene alta conductividad
-   eléctrica y tiende a ceder electrones para formar enlaces iónicos; el oxígeno (no
-   metal) tiene baja conductividad eléctrica y tiende a compartir electrones para
-   formar enlaces covalentes.
-   **Retroalimentación:** Comparar ejemplos concretos ayuda a consolidar el patrón
-   general entre metales y no metales.
+6. *(Alternativas — Comparación)* ¿Qué comparación entre el cobre (metal) y el oxígeno (no metal) es correcta?
+   a) El cobre conduce bien la electricidad y tiende a ceder electrones; el oxígeno conduce mal y tiende a compartir (o aceptar) electrones
+   b) El oxígeno conduce mejor la electricidad que el cobre, porque es un gas, y el cobre tiende a aceptar electrones
+   c) Ambos tienden a ceder electrones y conducen bien la electricidad, porque los dos se usan en la industria
+   d) El cobre es un gas a temperatura ambiente y el oxígeno, un sólido brillante que conduce la electricidad
+   **Respuesta correcta:** a) El cobre conduce bien la electricidad y tiende a ceder electrones; el oxígeno conduce mal y tiende a compartir (o aceptar) electrones.
+   **Retroalimentación:** Comparar ejemplos concretos consolida el patrón general entre metales y no metales.
 
-7. *(Aplicación/investigación)* Investiga (o predice usando el patrón de la tabla
-   periódica) si el enlace formado entre dos átomos de hidrógeno (H₂) es polar o
-   apolar, y justifica tu respuesta.
-   **Respuesta esperada:** El enlace entre dos átomos de hidrógeno es covalente
-   apolar, porque al ser átomos idénticos, ambos tienen la misma capacidad de atraer
-   los electrones compartidos, por lo que estos se distribuyen de manera equitativa
-   entre ambos núcleos, sin generar una distribución desigual de la carga.
-   **Retroalimentación:** Cuando dos átomos iguales comparten electrones, el enlace
-   covalente resultante siempre es apolar, porque no existe diferencia en la capacidad
-   de atracción de los electrones entre ambos átomos.
+7. *(Alternativas — Aplicación)* El enlace entre dos átomos de hidrógeno (H₂), ¿es polar o apolar?
+   a) Covalente polar, porque uno de los dos átomos atrae más los electrones compartidos
+   b) Iónico, porque un átomo de hidrógeno cede su único electrón al otro átomo
+   c) Metálico, porque el hidrógeno está en el grupo 1, junto a los metales alcalinos
+   d) Covalente apolar, porque al ser átomos idénticos atraen por igual los electrones compartidos
+   **Respuesta correcta:** d) Covalente apolar, porque al ser átomos idénticos atraen por igual los electrones compartidos.
+   **Retroalimentación:** Cuando dos átomos iguales comparten electrones, el enlace resultante siempre es apolar.
 
 ---
 

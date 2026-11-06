@@ -8,14 +8,14 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 # Prueba de práctica — Lengua y Literatura — 2° medio — FORMA B
 
-*Segunda versión del examen de ensayo de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con textos y preguntas distintos a los del banco de contenido. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: mezcla de preguntas de alternativas (4 opciones), verdadero o falso con justificación, y preguntas de respuesta abierta (breve o extensa), apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
+*Segunda versión del examen de ensayo de la asignatura, construida a partir del banco de preguntas de estudio (`lengua-y-literatura.md`), con textos y preguntas distintos a los del banco de contenido. El Examen Libre de Validación de Estudios del Mineduc evalúa cada asignatura por separado, con **25 preguntas** y **90 minutos** de duración. Este examen de práctica sigue ese mismo formato: preguntas de alternativas (4 opciones) y de verdadero o falso, apoyadas en un texto narrativo, un texto dramático, un microcuento de interpretación literaria, una columna de opinión, textos de medios de comunicación en contraste, y una sección de escritura de ensayo persuasivo, con Pauta de Corrección al final. Todas las preguntas son de elaboración propia, originales, y no corresponden a instrumentos oficiales del Mineduc.*
 
 ## Instrucciones generales
 
-- Esta prueba contiene **25 preguntas**: 9 de alternativas (4 opciones), 2 de verdadero o falso con justificación, 8 de respuesta breve (incluye preguntas de aplicación) y 6 de respuesta extensa.
+- Esta prueba contiene **25 preguntas**: 9 de alternativas (4 opciones).
 - Tiempo total: **90 minutos**.
 - Lee con atención cada texto antes de responder las preguntas asociadas a él. Puedes volver a leerlo cuantas veces necesites.
-- En las preguntas de alternativas, marca solo una opción. En las preguntas abiertas, responde con oraciones completas y ordena tus ideas.
+- En las preguntas de alternativas, marca solo una opción. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una.
 - No se permite el uso de libros, apuntes, celular u otro dispositivo electrónico. Puedes usar lápiz, goma y hoja de respuesta.
 - Administra bien tu tiempo: no te quedes pegado o pegada en una sola pregunta. Si te complicas con una, sigue adelante y vuelve a ella al final.
 - Al terminar, revisa tus respuestas antes de entregar. Al final de este documento encontrarás la **Pauta de Corrección** para autoevaluarte.
@@ -36,18 +36,33 @@ basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614,
 
 **1. (Alternativas)** ¿Qué situación motiva, en el presente del relato, la decisión de Tomás de abrir la tapa trasera del reloj?
 
-a) Un mandato explícito de su abuelo antes de morir
-b) La necesidad de vender el reloj para pagar una deuda familiar
+a) Un mandato explícito de su abuelo, que antes de morir le pidió buscar el reloj
+b) La necesidad de vender el reloj antiguo para pagar una deuda de la familia
 c) La curiosidad por entender el silencio de su padre frente a un objeto heredado
-d) Un descubrimiento accidental durante una mudanza
+d) Un descubrimiento accidental del reloj durante la mudanza de su padre
 
-**2. (Verdadero o Falso, con justificación)** "El papel encontrado dentro del reloj está escrito por la misma persona a lo largo de todo el fragmento, en un solo momento." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+**2. (Verdadero o Falso)** "El papel encontrado dentro del reloj está escrito por la misma persona a lo largo de todo el fragmento, en un solo momento."
 
-**3. (Desarrollo breve)** Compara lo que R. Ordóñez le pide a Waldo con lo que efectivamente ocurre después. ¿Qué relación hay entre esa advertencia no escuchada y el desenlace del papel?
+**3. (Alternativas)** ¿Qué vínculo hay entre la advertencia de R. Ordóñez a Waldo y el desenlace del papel?
 
-**4. (Aplicación)** Identifica el indicio (pista) presente en el fragmento que anticipa, antes de la nota de 1968, que el reloj guarda una historia dolorosa relacionada con otra persona además del abuelo, y explica su efecto en el lector.
+a) Le advierte que suba solo porque la mina "crujía distinto"; Waldo no le hace caso y muere en el derrumbe, y por eso R. Ordóñez conserva el reloj como una carga
+b) Le advierte que la mina "crujía distinto"; Waldo sigue la advertencia, sube a tiempo y se salva, y por eso R. Ordóñez le regala su reloj en agradecimiento
+c) La advertencia no tiene relación con el desenlace: Waldo muere por un accidente en la superficie, y R. Ordóñez conserva el reloj solo como recuerdo de su amigo
+d) R. Ordóñez le pide quedarse en la mina por más tiempo para terminar el turno; Waldo obedece, y por eso R. Ordóñez se siente culpable de su muerte
 
-**5. (Desarrollo extenso)** Explica qué efecto produce, en este relato, el hecho de que la historia de la mina se presente como un documento intercalado (una nota escrita por otra persona) dentro del relato de Tomás, en primera persona, en vez de ser narrada directamente por un narrador omnisciente que revelara desde el inicio lo ocurrido con Waldo. Luego, relaciona este relato con otra obra de la literatura chilena o latinoamericana que trate la memoria del trabajo minero o la muerte de un trabajador, explicando qué elementos comparten.
+**4. (Alternativas — aplicación)** ¿Qué indicio anticipa, antes de la nota de 1968, que el reloj guarda una historia dolorosa?
+
+a) Que el reloj es de oro y que la familia lo guarda porque vale mucho dinero
+b) Que Tomás no sabe leer la hora en un reloj antiguo de agujas y por eso nunca lo usa
+c) Que el reloj funciona perfectamente y marca la hora exacta, pero el padre de Tomás prefiere usar el de su celular para el trabajo
+d) Que el padre de Tomás guarda un reloj que "nunca usaba", que se negó a arreglar "a propósito" y cuya historia contaría "algún día"
+
+**5. (Alternativas)** ¿Qué efecto produce presentar la historia de la mina como una nota intercalada, y con qué obra se vincula el relato?
+
+a) Elimina todo el suspenso, porque el lector conoce la historia del reloj desde el inicio; se vincula con un cuento de hadas en que un objeto mágico concede deseos
+b) Produce una revelación progresiva y mayor verosimilitud, porque Tomás y el lector la descubren a la vez; se vincula con *Sub terra* de Baldomero Lillo, en la memoria de la muerte de un trabajador minero
+c) No produce ningún efecto especial, porque el orden de los hechos no cambia la lectura; no se vincula con ninguna otra obra de la literatura chilena
+d) Hace que el narrador sea omnisciente y conozca desde el principio lo que ocurrió en la mina; se vincula con una novela de ciencia ficción sobre viajes en el tiempo
 
 ---
 
@@ -78,9 +93,9 @@ d) Un descubrimiento accidental durante una mudanza
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El manzano de don Segundo"?
 
-a) La rivalidad entre Paulina y la empresa forestal por el precio del terreno
-b) La disputa legal entre Paulina y su padre por la herencia de la tierra
-c) La decisión de don Segundo de mudarse a la ciudad de Talca
+a) La rivalidad entre Paulina y la empresa forestal, que discuten el precio que se pagará por el terreno familiar
+b) La disputa legal entre Paulina y su padre por quién heredará la tierra cuando don Segundo ya no pueda trabajarla
+c) La decisión de don Segundo de mudarse a la ciudad de Talca para vivir cerca de sus nietos y del hospital
 d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia
 
 **7. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria familiar y el esfuerzo de varias generaciones en la escena?
@@ -90,9 +105,19 @@ b) La camioneta forestal
 c) El papel que dobla y desdobla don Segundo
 d) El techo de la casa
 
-**8. (Desarrollo breve)** Explica qué efecto produce la acotación que describe la luz apagándose "poco a poco, hasta quedar solo un resplandor tenue sobre las manzanas rojas más altas del árbol", justo después de que se aleja la camioneta forestal.
+**8. (Alternativas)** ¿Qué efecto produce la acotación de la luz que se apaga "hasta quedar solo un resplandor tenue sobre las manzanas rojas más altas del árbol" tras irse la camioneta forestal?
 
-**9. (Desarrollo extenso)** Explica qué creencia sobre el valor de la tierra cuestiona don Segundo en su monólogo, y por qué esta tensión sigue siendo relevante hoy en zonas rurales de Chile afectadas por la expansión de plantaciones forestales. Luego, explica con qué obra de la literatura chilena o latinoamericana dialoga esta escena y qué elemento central comparten ambos textos.
+a) Indica que llegó la noche en el campo y que la familia debe entrar a la casa, sin otro sentido que marcar el paso de las horas en la escena
+b) Anuncia una celebración familiar que ocurrirá en la escena siguiente, junto al árbol
+c) Concentra la atención en el fruto del esfuerzo familiar justo cuando la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida
+d) No produce ningún efecto dramático: es solo una indicación técnica para el encargado de luces, que debe apagar el escenario antes del cambio de escena
+
+**9. (Alternativas)** ¿Qué creencia cuestiona don Segundo y por qué sigue siendo relevante?
+
+a) Que el valor de la tierra se mide solo por su rendimiento en madera; hoy zonas rurales enfrentan la expansión de plantaciones forestales que amenazan la tierra como memoria familiar
+b) Que las manzanas valen más que la madera en el mercado actual; hoy las zonas rurales ya no tienen manzanos, porque fueron reemplazados por viñas de exportación
+c) Que la tierra no tiene ningún valor; hoy nadie vive en el campo, porque todas las familias rurales se trasladaron a las ciudades
+d) Que los árboles no crecen en el sur de Chile; hoy la sequía impide cualquier cultivo, por lo que vender el terreno es la única opción
 
 ---
 
@@ -111,11 +136,21 @@ b) La Fiesta de La Tirana
 c) El Wetripantu o Año Nuevo mapuche
 d) El Día de las Ánimas de la cultura chilota
 
-**11. (Verdadero o Falso, con justificación)** "La ceremonia del tío Melipán pierde por completo su sentido mientras vive en Temuco, porque en la ciudad no puede realizarla de ninguna forma." Indica si es verdadero o falso y justifica tu respuesta con información del texto.
+**11. (Verdadero o Falso)** "La ceremonia del tío Melipán pierde por completo su sentido mientras vive en Temuco, porque en la ciudad no puede realizarla de ninguna forma."
 
-**12. (Desarrollo breve)** Cita una frase del texto que sustente la hipótesis de que el relato no busca afirmar de manera literal que "la tierra despierta", sino mostrar el sentido de la ceremonia incluso en la incertidumbre.
+**12. (Varias correctas)** ¿Qué citas sustentan que el relato no afirma literalmente que "la tierra despierta", sino el sentido de la ceremonia en la incertidumbre? Marca **todas** las correctas.
 
-**13. (Desarrollo extenso)** Formula tu propia interpretación del sentido general de "El primer humo", integrando un punto de vista explícito (personal, histórico, social o universal), al menos una cita del texto, y la relación entre el antecedente cultural del Wetripantu y el contexto histórico de la migración campo-ciudad de comunidades mapuche hacia centros urbanos como Temuco.
+a) "No sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia"
+b) "Seguramente fue solo el frío y el sueño"
+c) Cualquier frase que mencione a Temuco
+d) El título del relato, por sí solo
+
+**13. (Alternativas)** ¿Qué interpretación de "El primer humo" integra un punto de vista, una cita y la relación entre el Wetripantu y la migración mapuche a la ciudad?
+
+a) Desde un punto de vista social, el relato muestra que las tradiciones desaparecen por completo al llegar a la ciudad, como indica la frase "seguramente fue solo el frío y el sueño"
+b) Desde un punto de vista informativo, el relato es una noticia sobre el clima de Temuco durante el invierno, como muestra la descripción del frío de la madrugada
+c) Desde un punto de vista personal, el relato no tiene relación con ninguna tradición: describe solo una noche de insomnio del narrador junto al fuego
+d) Desde un punto de vista social, el relato muestra cómo quienes migraron a Temuco sostienen el Wetripantu como vínculo con su origen, aunque reconozcan la duda: "Pero algo cambia"
 
 ---
 
@@ -131,10 +166,10 @@ d) El Día de las Ánimas de la cultura chilota
 
 **14. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "El recreo que ya no es recreo"?
 
-a) El celular debe prohibirse completamente, dentro y fuera del colegio
+a) El celular debe prohibirse completamente, dentro y fuera del colegio, porque cualquier uso de una pantalla aísla a los estudiantes
 b) El uso libre del celular durante el recreo debilita el vínculo presencial entre estudiantes, por lo que se deben promover espacios y actividades que no dependan de una pantalla
-c) Los profesores exageran el problema del uso del celular en los recreos
-d) El celular es idéntico a un libro y no representa ningún riesgo para la convivencia escolar
+c) Los profesores exageran el problema del uso del celular en los recreos, porque los estudiantes igual conversan y se mantienen en contacto a través de sus pantallas
+d) El celular es idéntico a un libro y no representa ningún riesgo para la convivencia escolar, por lo que no se necesita ninguna medida
 
 **15. (Alternativas)** ¿Qué figura retórica corresponde a la expresión "es, sin exagerar, la muerte del recreo tal como lo conocimos"?
 
@@ -143,9 +178,19 @@ b) Pregunta retórica
 c) Comparación literal y precisa
 d) Antítesis
 
-**16. (Desarrollo breve)** Identifica la falla en la argumentación presente en el segundo párrafo del texto, y explica por qué corresponde a ese tipo de falla.
+**16. (Alternativas)** ¿Qué falla de argumentación hay en el segundo párrafo, que pasa de mirar el celular en el recreo a perder para siempre la capacidad de sostener una comunidad presencial sana?
 
-**17. (Desarrollo extenso)** Da tu propia postura frente a la tesis del autor, fundamentando con al menos un argumento propio. Luego, explica por qué el uso de palabras valorativas como "simplista" y la expresión "ya no hay vuelta atrás" —usada como si fuera una certeza absoluta— pueden debilitar, y no solo fortalecer, la fuerza argumentativa del texto ante un lector crítico.
+a) Un argumento de autoridad bien fundamentado en estudios recientes
+b) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia
+c) Una analogía válida entre el celular y un libro
+d) No hay ninguna falla: cada paso se sigue del anterior
+
+**17. (Alternativas)** ¿Por qué expresiones como "simplista" y "ya no hay vuelta atrás" pueden debilitar el texto ante un lector crítico?
+
+a) Porque siempre fortalecen cualquier argumento, ya que muestran al lector que el autor está completamente seguro de lo que dice
+b) Porque son datos estadísticos verificables que el lector puede comprobar en las fuentes citadas
+c) Porque presentan juicios y certezas absolutas que pueden hacer parecer el texto parcial, generando desconfianza si reemplazan a la evidencia
+d) Porque no tienen ningún efecto en el lector: son expresiones comunes en cualquier texto de opinión
 
 ---
 
@@ -165,21 +210,31 @@ d) Antítesis
 
 **18. (Alternativas)** ¿Qué evidencia entrega el Texto B que el Texto A no menciona?
 
-a) El nombre del nuevo recorrido de la línea 14
+a) El nombre del nuevo recorrido de la línea 14 y la fecha exacta en que comenzó a funcionar en la comuna
 b) Que el intervalo real entre buses sería casi el doble del anunciado y que los buses han llegado completos varios días
-c) El sector de la comuna que conecta el nuevo recorrido
-d) El plan municipal en el que se enmarca la iniciativa
+c) El sector de la comuna que conecta el nuevo recorrido con el centro, el hospital y los colegios
+d) El plan municipal en el que se enmarca la iniciativa y su presupuesto total
 
 **19. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre el nuevo recorrido?
 
-a) Que la municipalidad miente completamente sobre la existencia del nuevo recorrido
+a) Que la municipalidad miente completamente sobre la existencia del nuevo recorrido, porque los vecinos muestran capturas de pantalla que contradicen todo lo que informa el comunicado oficial
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales
-d) Que los recorridos nuevos nunca funcionan bien en su primera semana
+c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales, porque las escriben quienes usan el servicio cada día
+d) Que los recorridos nuevos nunca funcionan bien en su primera semana, por lo que no tiene sentido comparar ninguna de las dos fuentes
 
-**20. (Desarrollo breve)** Compara los recursos no lingüísticos utilizados en el Texto A y el Texto B. ¿Qué efecto distinto produce cada uno en quien los recibe?
+**20. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
-**21. (Desarrollo extenso)** Explica de qué manera el uso de datos cronometrados y capturas de pantalla en el Texto B fortalece su estrategia de persuasión frente a la del Texto A, y qué riesgo tiene, aun así, apoyarse solo en la experiencia de una semana para evaluar un servicio nuevo. Luego, reflexiona: si fueras un vecino o vecina del sector y solo hubieras leído el Texto A, ¿qué elemento del Texto B crees que cambiaría más tu percepción sobre la implementación del nuevo recorrido? Explica por qué.
+a) La infografía verde con bus y flecha ascendente del Texto A transmite progreso y control; las capturas de la app del Texto B funcionan como evidencia cuantitativa verificable
+b) Ambos textos usan solo palabras, sin recursos visuales, para convencer a los vecinos de que el nuevo recorrido funciona como se anunció
+c) La infografía del Texto B muestra desorden y las capturas del Texto A transmiten control y progreso en la gestión del transporte municipal
+d) Ninguno produce algún efecto en el lector: las imágenes son decorativas y no influyen en cómo se interpreta la información de cada texto
+
+**21. (Alternativas)** ¿Qué fortalece y qué riesgo tiene el uso de datos cronometrados y capturas en el Texto B?
+
+a) Lo debilitan, porque los datos nunca persuaden al lector y un texto vecinal debería apelar solo a las emociones de quienes viajan cada día
+b) No tienen ningún riesgo, porque una semana de datos basta para evaluar cualquier servicio de transporte, incluso si todavía se están haciendo ajustes
+c) Lo convierten en un texto de ficción, porque las capturas de pantalla pueden editarse y, por eso, ninguna de ellas tiene valor como evidencia
+d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un servicio nuevo con solo una semana de datos, que puede no reflejar su desempeño tras los ajustes
 
 ---
 
@@ -196,17 +251,32 @@ b) Incluir una anécdota, cita o síntesis que refuerce directamente la hipótes
 c) Agregar una infografía decorativa que no aporta información relevante al argumento
 d) Usar únicamente evidencia no literaria, evitando cualquier cita literaria
 
-**23. (Desarrollo breve)** Explica qué función cumple, dentro del ensayo modelo, la referencia a los subsidios de fomento agrícola sustentable.
+**23. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia a los subsidios de fomento agrícola sustentable?
 
-**24. (Desarrollo breve — planificación)** Planifica brevemente un ensayo persuasivo sobre el tema "¿Debería prohibirse el uso del celular durante los recreos escolares?": formula (a) una hipótesis clara, y (b) un recurso variado (anécdota, cita, síntesis o infografía) que usarías para hacerlo más cercano al lector, señalando de qué texto o experiencia lo extraerías.
+a) Es un dato decorativo, sin relación con la hipótesis, que solo hace más extenso el ensayo modelo y le da un tono más técnico
+b) Es evidencia no literaria que muestra mecanismos reales para compatibilizar producción y conservación, reforzando que no hay que elegir entre ambas
+c) Contradice la hipótesis del ensayo, porque muestra que producir y conservar el bosque nativo son actividades incompatibles
+d) Resume una obra literaria leída en clases sobre el campo chileno y sus tradiciones, para que el lector la recuerde antes de la conclusión
 
-**25. (Desarrollo extenso — texto integrado)** Escribe un párrafo de introducción (3 a 5 oraciones) para un ensayo persuasivo sobre el tema propuesto en la pregunta 24, que presente con claridad tu hipótesis y reconozca al menos un contraargumento. Luego, escribe el párrafo de conclusión (3 a 4 oraciones) de ese mismo ensayo, asegurándote de que retome la hipótesis planteada en tu introducción sin introducir ideas nuevas que no hayas desarrollado.
+**24. (Alternativas — planificación)** Para un ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", ¿qué planificación es adecuada?
+
+a) Hipótesis: ninguna, porque el tema es polémico. Recurso: ninguno, porque basta con la opinión personal sobre el uso del celular
+b) Hipótesis: los recreos no deberían existir, porque se pierde tiempo de clases. Recurso: una receta de cocina para preparar colaciones saludables
+c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso
+d) Hipótesis: prohibir el celular siempre es la mejor solución para la convivencia. Recurso: ninguno, porque escribir sin planificar permite expresar las ideas de manera más espontánea y sincera
+
+**25. (Alternativas — texto integrado)** ¿Qué par de párrafos (introducción y conclusión) cumple lo pedido para el ensayo de la pregunta 24?
+
+a) Introducción: "Algunos creen que prohibir el celular en los recreos es la única forma de recuperar la convivencia; sin embargo, la prohibición sola no basta si no hay alternativas atractivas." Conclusión: "Por eso, más que prohibir, el colegio debe ofrecer espacios que hagan preferible convivir sin pantallas, como muestran los argumentos revisados."
+b) Introducción: "Los celulares son aparatos muy útiles y casi todos los estudiantes tienen uno." Conclusión: "Por eso, los colegios deberían enseñar a programar aplicaciones, porque la tecnología será importante en el futuro laboral de todos." (sin hipótesis ni contraargumento, y con un tema nuevo al final)
+c) Introducción: "Prohibir el celular en los recreos es la única forma de recuperar la convivencia, y quienes piensan distinto no conocen la realidad de los colegios." Conclusión: "Por eso, el celular debe permitirse libremente en los recreos, porque prohibirlo no sirve de nada y los estudiantes deben aprender a autorregularse."
+d) Solo una conclusión, sin introducción: "En conclusión, el celular tiene ventajas y desventajas, y cada colegio debe decidir qué hacer en los recreos."
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -220,29 +290,29 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 |----|------------------------------------------|-----------------------------------|
 | 1 | **c)** La curiosidad por entender el silencio de su padre frente a un objeto heredado. | OA N°3 — conflicto central |
 | 2 | **Falso.** El papel incluye dos escrituras distintas, de dos personas y momentos diferentes: la nota original de R. Ordóñez fechada en 1968, y un agregado posterior, con "otra tinta y una letra más temblorosa", escrito "mucho después". | OA N°3 — extracción de información explícita e implícita |
-| 3 | R. Ordóñez le advierte a Waldo que suba solo, sin esperar a los demás, porque sentía que la mina "crujía distinto"; Waldo no le hace caso y muere en el derrumbe. La advertencia no escuchada se convierte en la causa directa del desenlace trágico, y en la razón por la que R. Ordóñez conserva el reloj como una carga de la que no pudo desprenderse. | OA N°3 — análisis de personajes (dichos y consecuencias) |
-| 4 | El indicio es que el padre de Tomás guarda un reloj que "nunca usaba" y que se negó a arreglar "a propósito", además de decir que "algún día" le contaría la historia; estos detalles anticipan, antes de leer la nota, que el reloj esconde algo doloroso no resuelto, generando expectativa en el lector. | OA N°3 — efecto del indicio |
-| 5 | Debe explicar que presentar la historia de la mina como una nota intercalada, escrita por otra persona (R. Ordóñez) y descubierta por Tomás al mismo tiempo que el lector, produce un efecto de revelación progresiva y mayor verosimilitud que si un narrador omnisciente contara de entrada lo ocurrido con Waldo; y relacionar el relato con una obra pertinente sobre memoria del trabajo minero (por ejemplo, *Sub Terra* de Baldomero Lillo), explicando que ambos textos comparten la idea de que la muerte de un trabajador queda como una deuda moral que alguien de otra generación debe finalmente reconocer. | OA N°3 — narrador/recurso narrativo y relación intertextual (integrada) |
+| 3 | **a) Le advierte que suba solo porque la mina "crujía distinto"; Waldo no le hace caso y muere en el derrumbe, y por eso R. Ordóñez conserva el reloj como una carga.** | OA N°3 — análisis de personajes (dichos y consecuencias) |
+| 4 | **d) Que el padre de Tomás guarda un reloj que "nunca usaba", que se negó a arreglar "a propósito" y cuya historia contaría "algún día".** | OA N°3 — efecto del indicio |
+| 5 | **b) Produce una revelación progresiva y mayor verosimilitud, porque Tomás y el lector la descubren a la vez; se vincula con *Sub terra* de Baldomero Lillo, en la memoria de la muerte de un trabajador minero.** | OA N°3 — narrador/recurso narrativo y relación intertextual (integrada) |
 | 6 | **d)** La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia. | OA N°5 — conflicto central |
 | 7 | **a)** El manzano. | OA N°5 — símbolo |
-| 8 | La luz que se apaga hasta quedar solo un resplandor sobre las manzanas más altas concentra visualmente la atención en el fruto del árbol —resultado de décadas de esfuerzo familiar— justo en el momento en que la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida inminente sin necesidad de palabras adicionales. | OA N°5 — elementos de la puesta en escena |
-| 9 | Debe explicar que don Segundo cuestiona la idea de que el valor de la tierra se mide únicamente por su rendimiento productivo en metros cúbicos de madera, tensión vigente en zonas rurales chilenas afectadas por la expansión de plantaciones forestales de pino y eucalipto; y señalar que la escena dialoga con obras de la narrativa rural chilena que abordan el desplazamiento del campesinado frente a la industria forestal (por ejemplo, cuentos de tradición realista sobre el mundo campesino del sur de Chile), compartiendo la idea de la tierra como memoria familiar amenazada por una lógica puramente comercial. | OA N°5 — creencias/época y relación intertextual (integrada) |
+| 8 | **c) Concentra la atención en el fruto del esfuerzo familiar justo cuando la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida.** | OA N°5 — elementos de la puesta en escena |
+| 9 | **a) Que el valor de la tierra se mide solo por su rendimiento en madera; hoy zonas rurales enfrentan la expansión de plantaciones forestales que amenazan la tierra como memoria familiar.** | OA N°5 — creencias/época y relación intertextual (integrada) |
 | 10 | **c)** El Wetripantu o Año Nuevo mapuche. | OA N°8 — antecedente cultural |
 | 11 | **Falso.** El texto indica lo contrario: aun en la ciudad, el tío "buscaba siempre un patio, una plaza, algún lugar con tierra donde encender un fuego pequeño esa noche, aunque fuera a escondidas de los vecinos", mostrando que mantuvo la ceremonia adaptada al nuevo contexto urbano. | OA N°8 — antecedente cultural y visión de mundo |
-| 12 | Por ejemplo: "no sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia", o bien "seguramente fue solo el frío y el sueño", frases que reconocen la incertidumbre sin restarle valor emocional a la ceremonia. | OA N°8 — hipótesis fundamentada con citas |
-| 13 | Debe integrar un punto de vista explícito (personal, histórico, social o universal), al menos una cita textual que lo sustente, y la relación explícita entre el Wetripantu y el proceso histórico de migración de comunidades mapuche desde el campo hacia ciudades como Temuco. | OA N°8 — interpretación literaria integrada |
+| 12 | **a y b.** | OA N°8 — hipótesis fundamentada con citas |
+| 13 | **d) Desde un punto de vista social, el relato muestra cómo quienes migraron a Temuco sostienen el Wetripantu como vínculo con su origen, aunque reconozcan la duda: "Pero algo cambia".** | OA N°8 — interpretación literaria integrada |
 | 14 | **b)** El uso libre del celular durante el recreo debilita el vínculo presencial entre estudiantes, por lo que se deben promover espacios y actividades que no dependan de una pantalla. | OA N°9 — tesis del autor |
 | 15 | **a)** Metáfora e hipérbole combinadas. | OA N°9 — figura retórica |
-| 16 | Corresponde a una pendiente resbaladiza (generalización apresurada): el autor pasa de un hecho puntual (mirar el celular en el recreo) a una consecuencia extrema y no demostrada (perder para siempre la capacidad de sostener una comunidad presencial sana), sin evidencia que sustente esa cadena de consecuencias. | OA N°9 — fallas de argumentación |
-| 17 | Debe presentar una postura propia razonada con al menos un argumento; y explicar que calificar la comparación con el libro como "simplista", junto con presentar como certeza absoluta que "ya no hay vuelta atrás", puede hacer que un lector crítico perciba el texto como parcial, generando desconfianza en vez de persuadirlo, especialmente si esas expresiones reemplazan evidencia concreta. | OA N°9 — postura personal y evaluación de recursos léxicos (integrada) |
+| 16 | **b) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia.** | OA N°9 — fallas de argumentación |
+| 17 | **c) Porque presentan juicios y certezas absolutas que pueden hacer parecer el texto parcial, generando desconfianza si reemplazan a la evidencia.** | OA N°9 — postura personal y evaluación de recursos léxicos (integrada) |
 | 18 | **b)** Que el intervalo real entre buses sería casi el doble del anunciado y que los buses han llegado completos varios días. | OA N°10 — evidencias entregadas/omitidas |
 | 19 | **b)** Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera. | OA N°10 — comparación de fuentes |
-| 20 | La infografía verde con ícono de bus y flecha ascendente del Texto A transmite progreso y control institucional del proyecto; las capturas de la app de seguimiento del Texto B funcionan como evidencia cuantitativa verificable, transmitiendo una sensación de registro objetivo y sistemático por parte de los vecinos. | OA N°10 — recursos no lingüísticos |
-| 21 | Debe explicar que los datos cronometrados y las capturas de pantalla dan al Texto B un respaldo cuantitativo difícil de refutar, más fuerte que una simple queja general; y señalar el riesgo de evaluar un servicio nuevo a partir de una sola semana de funcionamiento, que podría no reflejar su desempeño una vez resueltos los ajustes iniciales. Luego, formular una reflexión personal razonada sobre qué elemento del Texto B influiría más en su percepción, reconociendo que los datos concretos suelen pesar más que una afirmación institucional sin cifras. | OA N°10 — recursos emocionales, evidencia e influencia en las propias opiniones (integrada) |
+| 20 | **a) La infografía verde con bus y flecha ascendente del Texto A transmite progreso y control; las capturas de la app del Texto B funcionan como evidencia cuantitativa verificable.** | OA N°10 — recursos no lingüísticos |
+| 21 | **d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un servicio nuevo con solo una semana de datos, que puede no reflejar su desempeño tras los ajustes.** | OA N°10 — recursos emocionales, evidencia e influencia en las propias opiniones (integrada) |
 | 22 | **b)** Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento. | OA N°14 — recursos variados y coherencia temática |
-| 23 | La referencia se usa como evidencia no literaria de apoyo, mostrando que existen mecanismos institucionales reales que permiten compatibilizar la producción agrícola con la conservación de la tierra familiar, reforzando la hipótesis de que no es necesario elegir de forma excluyente entre producir y conservar. | OA N°14 — evidencia no literaria y citas |
-| 24 | Debe presentar una hipótesis clara sobre el tema propuesto y un recurso variado pertinente (anécdota, cita, síntesis o infografía), señalando de dónde lo extraería, de forma coherente entre sí. | OA N°14 — planificación (hipótesis y recursos) |
-| 25 | Debe presentar una introducción que plantee con claridad una hipótesis y reconozca al menos un contraargumento, y una conclusión que retome explícitamente esa misma hipótesis a la luz de argumentos ya desarrollados, sin introducir ideas nuevas no mencionadas antes. | OA N°14 — hipótesis, contraargumento, coherencia temática y conclusión (integrada) |
+| 23 | **b) Es evidencia no literaria que muestra mecanismos reales para compatibilizar producción y conservación, reforzando que no hay que elegir entre ambas.** | OA N°14 — evidencia no literaria y citas |
+| 24 | **c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso.** | OA N°14 — planificación (hipótesis y recursos) |
+| 25 | **a) Introducción: "Algunos creen que prohibir el celular en los recreos es la única forma de recuperar la convivencia; sin embargo, la prohibición sola no basta si no hay alternativas atractivas." Conclusión: "Por eso, más que prohibir, el colegio debe ofrecer espacios que hagan preferible convivir sin pantallas, como muestran los argumentos revisados."** La introducción plantea la hipótesis y reconoce un contraargumento; la conclusión la retoma sin ideas nuevas. | OA N°14 — hipótesis, contraargumento, coherencia temática y conclusión (integrada) |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 
@@ -261,9 +331,6 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 | Tipo de pregunta | Cantidad | Preguntas |
 |---|---|---|
 | Alternativas (4 opciones) | 9 | 1, 6, 7, 10, 14, 15, 18, 19, 22 |
-| Verdadero o Falso (con justificación) | 2 | 2, 11 |
-| Desarrollo breve (incluye aplicación) | 8 | 3, 4, 8, 12, 16, 20, 23, 24 |
-| Desarrollo extenso | 6 | 5, 9, 13, 17, 21, 25 |
 | **Total** | **25** | |
 
 ---
@@ -272,12 +339,12 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 3 | 1, 2, 3, 4, 5 | 1 | 4 |
-| OA 5 | 6, 7, 8, 9 | 2 | 2 |
-| OA 8 | 10, 11, 12, 13 | 1 | 3 |
-| OA 9 | 14, 15, 16, 17 | 2 | 2 |
-| OA 10 | 18, 19, 20, 21 | 2 | 2 |
-| OA 14 | 22, 23, 24, 25 | 0 | 4 |
-| **Total** | **25 preguntas** | **8** | **17** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 3 | 1, 2, 3, 4, 5 | 5 |
+| OA 5 | 6, 7, 8, 9 | 4 |
+| OA 8 | 10, 11, 12, 13 | 4 |
+| OA 9 | 14, 15, 16, 17 | 4 |
+| OA 10 | 18, 19, 20, 21 | 4 |
+| OA 14 | 22, 23, 24, 25 | 4 |
+| **Total** | **25 preguntas** | **25** |

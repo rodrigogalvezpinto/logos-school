@@ -21,11 +21,11 @@ relacionado: contenido/01-medio/historia-geografia-y-cs-sociales.md
    mapa o fuente histórica adaptada (estímulo) que debes analizar antes de contestar.
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro opciones
    (a, b, c, d). Marca con una X la que consideres correcta.
-3. Las preguntas de **desarrollo** (breve o extenso) deben responderse con tus propias
-   palabras, en el espacio disponible. No es necesario copiar la pregunta.
+3. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta
+   y debes marcarlas todas para obtener el puntaje.
 4. No se permite el uso de apuntes, libros ni dispositivos electrónicos durante la prueba.
 5. Administra tu tiempo: tienes 90 minutos para las 25 preguntas. Te sugerimos no destinar más
-   de 3-4 minutos a cada pregunta de alternativas y algo más a las de desarrollo.
+   de 3-4 minutos a cada pregunta y algo más a las que tienen estímulos extensos.
 6. Este curso recorre el siglo XIX: las ideas liberales y republicanas y el surgimiento del
    Estado-nación en América y Europa, la Primera Guerra Mundial, y —con especial detalle— la
    formación de la República de Chile, su inserción en la economía mundial, la expansión de su
@@ -37,8 +37,7 @@ relacionado: contenido/01-medio/historia-geografia-y-cs-sociales.md
 
 Esta prueba es un **material de práctica 100% original**, elaborado a partir de los
 Objetivos de Aprendizaje (OA) oficiales del Decreto 614/2013 para 1° medio. No reproduce
-preguntas reales del Examen Libre de Mineduc; su formato (mezcla de alternativas y preguntas
-abiertas, uso de estímulos como fuentes históricas y descripciones de mapas adaptadas, y Pauta
+preguntas reales del Examen Libre de Mineduc; su formato (preguntas de alternativas, uso de estímulos como fuentes históricas y descripciones de mapas adaptadas, y Pauta
 de Corrección final) busca acercarte a la experiencia del examen real. Esta es la **Forma B**:
 una segunda versión de la prueba, con preguntas propias, pensada para que
 puedas practicar más de una vez sin memorizar respuestas.
@@ -53,10 +52,10 @@ puedas practicar más de una vez sin memorizar respuestas.
 ¿Cuál de las siguientes opciones corresponde a una expresión concreta del movimiento
 abolicionista del siglo XIX?
 
-a) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833
-b) La reinstauración de la esclavitud en las colonias americanas
-c) La prohibición de formar sindicatos y sociedades de socorro mutuo
-d) El cierre de las fronteras al comercio internacional
+a) El cierre de las fronteras al comercio internacional para proteger la producción de las colonias
+b) La reinstauración de la esclavitud en las colonias americanas que habían declarado su independencia
+c) La prohibición de formar sindicatos y sociedades de socorro mutuo entre los trabajadores urbanos
+d) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833
 
 ---
 
@@ -81,9 +80,9 @@ d) La censura estatal de las organizaciones civiles
 ¿Qué proceso ejemplifica mejor la unificación de Italia, ocurrida entre 1861 y 1870, dentro del
 fenómeno del surgimiento del Estado-nación en Europa?
 
-a) La fragmentación de un imperio en numerosos reinos independientes
-b) La ocupación militar de Italia por parte de una potencia extranjera
-c) La disolución de una unión territorial en varios países separados
+a) La fragmentación de un imperio en numerosos reinos independientes, cada uno con su propio monarca
+b) La ocupación militar de Italia por parte de una potencia extranjera que impuso un gobierno común
+c) La disolución de una unión territorial en varios países separados, con fronteras y lenguas propias
 d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano
 
 ---
@@ -119,15 +118,13 @@ d) Los obreros salitreros
 
 ---
 
-**Pregunta 6.** (2 puntos) — *Desarrollo breve*
-Explica por qué el período entre la independencia y 1830 se caracteriza como de "ensayos
-constitucionales" e inestabilidad política en Chile.
+**Pregunta 6.** (2 puntos) — *Alternativas*
+¿Por qué el período entre la independencia y 1830 se caracteriza como de "ensayos constitucionales" e inestabilidad política en Chile?
 
-```
-
-
-
-```
+a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833
+b) Porque Chile tuvo una única constitución estable desde 1810, pero los gobiernos cambiaban con frecuencia por la falta de recursos para pagar al ejército y a los funcionarios públicos, sin conflictos entre grupos políticos
+c) Porque no existía ningún conflicto entre grupos políticos: todos compartían el mismo proyecto de país, y la inestabilidad se debió solo a los terremotos y a las malas cosechas que afectaron al territorio en esos años
+d) Porque Chile seguía bajo dominio español hasta 1830, y los ensayos constitucionales fueron reglamentos dictados por el virrey del Perú para administrar el territorio mientras se negociaba la independencia
 
 ---
 
@@ -153,10 +150,10 @@ d) California y Australia
 ¿Qué característica distingue principalmente a la economía salitrera descrita en el estímulo
 respecto de la economía de hacienda?
 
-a) Ambas se basaban por igual en el inquilinaje
+a) Ambas se basaban por igual en el inquilinaje y en la inversión de capitales chilenos tradicionales
 b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje
-c) La hacienda contaba con mayor inversión extranjera que la economía salitrera
-d) No existían diferencias relevantes entre ambos modelos productivos
+c) La hacienda contaba con mayor inversión extranjera y tecnología que la economía salitrera del norte
+d) No existían diferencias relevantes entre ambos modelos productivos: los dos usaban trabajo asalariado y dependían por igual del capital extranjero
 
 ---
 
@@ -167,21 +164,19 @@ d) No existían diferencias relevantes entre ambos modelos productivos
 consolidó la presencia estatal en el territorio mapuche?
 
 a) Concepción
-b) Temuco
+b) Los Ángeles
 c) Valdivia
-d) Los Ángeles
+d) Temuco
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Desarrollo breve*
-Explica por qué se afirma que los impactos de la ocupación de la Araucanía sobre la sociedad
-mapuche fueron "profundos y duraderos".
+**Pregunta 10.** (2 puntos) — *Alternativas*
+¿Por qué se afirma que los impactos de la ocupación de la Araucanía sobre la sociedad mapuche fueron "profundos y duraderos"?
 
-```
-
-
-
-```
+a) Porque la ocupación no tuvo consecuencias después del siglo XIX: los mapuches recuperaron sus tierras y su autonomía poco tiempo después de terminado el proceso
+b) Porque fortaleció la autonomía política mapuche, al reconocer oficialmente su territorio mediante tratados que el Estado chileno respetó durante todo el siglo XX
+c) Porque solo afectó a los colonos europeos que llegaron a la zona, quienes perdieron sus tierras y debieron regresar a sus países de origen por la resistencia mapuche
+d) Por la pérdida de la mayor parte del territorio ancestral, el empobrecimiento y la pérdida de autonomía, transformaciones que explican demandas territoriales vigentes
 
 ---
 
@@ -196,8 +191,8 @@ mapuche fueron "profundos y duraderos".
 ¿A qué consecuencia territorial de la Guerra del Pacífico se refiere este estímulo?
 
 a) A la pérdida de Tarapacá por parte de Perú
-b) A la pérdida del acceso soberano al mar por parte de Bolivia
-c) A la anexión de la Araucanía al territorio chileno
+b) A la anexión de la Araucanía al territorio chileno
+c) A la pérdida del acceso soberano al mar por parte de Bolivia
 d) A la independencia de Bolivia respecto de España
 
 ---
@@ -207,9 +202,9 @@ d) A la independencia de Bolivia respecto de España
 entre Chile, Perú y Bolivia?
 
 a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano
-b) La abolición de la esclavitud en Chile
-c) El establecimiento del parlamentarismo en Europa
-d) La fundación de la Universidad de Chile
+b) La abolición de la esclavitud en Chile, que Perú y Bolivia consideraron una amenaza para sus economías
+c) El establecimiento del parlamentarismo en Europa y su influencia en los gobiernos de la región
+d) La fundación de la Universidad de Chile y la competencia por atraer estudiantes de los países vecinos
 
 ---
 
@@ -221,38 +216,33 @@ del siglo XIX?
 
 a) La existencia de leyes que regulaban estrictamente la jornada laboral
 b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad
-c) La disminución sostenida de la migración campo-ciudad
-d) El exceso de servicios básicos disponibles en los barrios populares
+c) La disminución sostenida de la migración campo-ciudad, que dejó a las fábricas sin trabajadores
+d) El exceso de servicios básicos disponibles en los barrios populares, que encareció los arriendos
 
 ---
 
 **Pregunta 14.** (1 punto)
 ¿Qué episodio de 1907 ejemplifica la represión estatal frente a las huelgas obreras del período?
 
-a) La batalla de Lircay
+a) La batalla de Lircay contra los pipiolos
 b) La matanza de la Escuela Santa María de Iquique
-c) La ocupación de la Araucanía
-d) La Guerra del Pacífico
+c) La ocupación de la Araucanía por el ejército
+d) La Guerra del Pacífico contra Perú y Bolivia
 
 ---
 
-**Pregunta 15.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 15.** (3 puntos) — *Varias correctas*
 
 > **Estímulo:** "En diciembre de 1907, miles de trabajadores del salitre y sus familias, reunidos
 > en huelga en la Escuela Santa María de Iquique para exigir mejoras salariales y de seguridad,
 > fueron reprimidos violentamente por el Ejército."
 
-A partir del estímulo, explica **dos** formas de lucha obrera que surgieron en Chile como
-respuesta a la cuestión social. Luego, describe brevemente cómo la transformación ideológica de
-los partidos políticos y el creciente protagonismo de los sectores medios se relacionan con este
-período de cambio de siglo.
+A partir del estímulo y del contexto del cambio de siglo, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-```
-
-
-
-
-```
+a) Las huelgas fueron una forma de lucha obrera frente a la cuestión social
+b) Las mutuales de socorro y los sindicatos fueron otra forma de organización obrera
+c) Surgieron o se fortalecieron partidos que incorporaban ideas como el socialismo, y crecía el protagonismo de los sectores medios
+d) Los sectores medios desaparecieron y la élite dejó de tener poder político
 
 ---
 
@@ -271,16 +261,13 @@ d) Fundar los primeros partidos políticos obreros
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Desarrollo breve*
-Explica cómo la expansión de la burocracia estatal y las redes de transporte y comunicación
-(caminos, ferrocarriles, telégrafo) contribuyeron a que el Estado chileno administrara de forma
-efectiva su territorio durante el siglo XIX.
+**Pregunta 17.** (2 puntos) — *Alternativas*
+¿Cómo contribuyeron la burocracia estatal y las redes de transporte y comunicación (caminos, ferrocarriles, telégrafo) a una administración efectiva del territorio?
 
-```
-
-
-
-```
+a) Ambas aislaron a las regiones del gobierno central, porque los funcionarios y las nuevas vías permitieron que cada provincia se administrara de forma autónoma, sin rendir cuentas a Santiago
+b) La burocracia procesó la información de censos y misiones y aplicó políticas; las redes integraron zonas antes aisladas, llevando la presencia del Estado a todo el territorio
+c) La burocracia reemplazó a los censos, que dejaron de hacerse, y las redes de transporte y comunicación sirvieron principalmente al turismo y al comercio privado, sin relación con el Estado
+d) No tuvieron ninguna relación con la administración del territorio: el Estado se organizó solo mediante el ejército, y los caminos y el telégrafo fueron obras de empresas extranjeras
 
 ---
 
@@ -291,10 +278,10 @@ efectiva su territorio durante el siglo XIX.
 **Pregunta 18.** (1 punto)
 ¿Qué se entiende por "monopolio" en el funcionamiento del mercado?
 
-a) Cuando varias empresas compiten libremente por precio
+a) Cuando varias empresas compiten libremente por precio y calidad, sin que ninguna controle el mercado
 b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo
-c) Cuando el Estado fija un precio máximo para un bien
-d) Cuando baja de forma sostenida el nivel general de precios de una economía
+c) Cuando el Estado fija un precio máximo para un bien de primera necesidad, como el pan o la leche
+d) Cuando baja de forma sostenida el nivel general de precios de una economía durante varios años
 
 ---
 
@@ -330,15 +317,13 @@ d) El liberalismo clásico
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Desarrollo breve*
-Explica la diferencia principal entre la respuesta del liberalismo y la del socialismo frente a
-la cuestión social.
+**Pregunta 21.** (2 puntos) — *Alternativas*
+¿Cuál es la diferencia principal entre la respuesta del liberalismo y la del socialismo frente a la cuestión social?
 
-```
-
-
-
-```
+a) El liberalismo proponía abolir la propiedad privada y planificar la economía desde el Estado; el socialismo, en cambio, defendía el libre mercado y rechazaba cualquier intervención estatal
+b) Ambos rechazaban cualquier intervención del Estado frente a la cuestión social, y proponían que las soluciones surgieran solo de la caridad de la Iglesia y de las sociedades de beneficencia
+c) El liberalismo aceptaba cierta intervención estatal sin cuestionar el mercado ni la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción
+d) El socialismo proponía volver a la monarquía para que el rey protegiera a los trabajadores; el liberalismo, mantener la república sin cambios en la legislación laboral ni social
 
 ---
 
@@ -354,16 +339,13 @@ d) Aymará
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Desarrollo breve*
-Da un ejemplo de conflicto y uno de convivencia entre el pueblo Rapa Nui y el Estado de Chile, y
-explica qué muestran estos ejemplos sobre la relación entre los pueblos indígenas y el Estado a
-lo largo de la historia.
+**Pregunta 23.** (2 puntos) — *Alternativas*
+¿Qué pareja de ejemplos sobre el pueblo Rapa Nui y el Estado de Chile muestra que su relación no ha sido uniforme?
 
-```
-
-
-
-```
+a) Conflicto: la anexión de 1888 y las restricciones a la movilidad y a la tierra. Convivencia: los avances legales actuales de reconocimiento y protección
+b) Conflicto: los avances legales actuales de reconocimiento y protección. Convivencia: la anexión de 1888 y las restricciones a la movilidad y a la tierra en la isla
+c) Conflicto: ninguno, porque la anexión fue voluntaria y sin consecuencias. Convivencia: ninguna, porque el Estado nunca ha legislado sobre la isla
+d) Conflicto: la Guerra del Pacífico, en la que Rapa Nui se alió con Perú. Convivencia: la ocupación de la Araucanía, que el pueblo Rapa Nui apoyó
 
 ---
 
@@ -373,35 +355,31 @@ lo largo de la historia.
 ¿Cuál de los siguientes es un impacto ambiental de la industrialización de los siglos XIX y XX,
 distinto del calentamiento global?
 
-a) El aumento sostenido de la biodiversidad
+a) El aumento sostenido de la biodiversidad en las zonas industriales
 b) La lluvia ácida generada por la contaminación atmosférica industrial
-c) La eliminación total de los desechos industriales
-d) La disminución de la población urbana
+c) La eliminación total de los desechos industriales en los ríos
+d) La disminución de la población urbana en las ciudades industriales
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Desarrollo extenso*
+**Pregunta 25.** (3 puntos) — *Alternativas*
 
 > **Estímulo:** "Numerosos ríos y zonas costeras cercanas a antiguos centros industriales y
 > mineros del siglo XIX y XX presentan hoy altos niveles de contaminación por metales pesados y
 > residuos no tratados."
 
-A partir del estímulo, explica cómo el proceso de industrialización de los siglos XIX y XX generó
-impactos ambientales que se proyectan hasta el presente. Luego, señala **una** medida asociada al
-debate sobre desarrollo sostenible que busque responder a este tipo de problema.
+A partir del estímulo, ¿qué opción explica el impacto de la industrialización y propone una medida de desarrollo sostenible?
 
-```
-
-
-
-
-```
+a) La industrialización no generó impactos duraderos, porque los metales pesados se degradan solos en pocos años; la medida es aumentar los vertidos controlados para diluir la contaminación existente
+b) La contaminación se debe solo a fenómenos naturales, como la actividad volcánica de la zona; por eso no se requiere ninguna medida, ya que los suelos y aguas se recuperarán por sí mismos
+c) El daño ya desapareció, porque los antiguos centros industriales cerraron hace décadas; la medida es cerrar todas las industrias del mundo para evitar que vuelva a ocurrir en el futuro
+d) Los residuos industriales y mineros vertidos sin tratamiento contaminaron de forma acumulativa ríos y costas; una medida es aplicar regulaciones más estrictas y remediar los suelos y aguas contaminados
 
 ---
 
 # HOJA DE RESPUESTAS
 
-Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las preguntas de desarrollo se responden en el espacio asignado en la prueba.
+Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide marcar todas las correctas, anota todas las letras que marcaste.
 
 | Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -413,31 +391,31 @@ Transcribe aquí la letra que elegiste en cada pregunta de alternativas. Las pre
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | a) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
+| 1  | Alternativas | d) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
 | 2  | Alternativas | a) La libre asociación | OA 1 | Historia | 1 |
 | 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
 | 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
 | 5  | Alternativas | c) Los pelucones y estanqueros | OA 8 | Historia | 1 |
-| 6  | Desarrollo breve | Tras la independencia, Chile debió construir un nuevo orden político desde cero, lo que llevó a la sucesión de distintas constituciones y gobiernos de corta duración, en medio del enfrentamiento entre grupos con visiones muy distintas —pipiolos (liberal-federalista) y pelucones/estanqueros (conservador)— sobre cómo organizar el país; ese conflicto solo se resolvió, al menos temporalmente, tras la batalla de Lircay (1830) y la posterior redacción de la Constitución de 1833 | OA 8 | Historia | 2 |
+| 6 | Alternativas | **a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833.** | OA 8 | Historia | 2 |
 | 7  | Alternativas | d) California y Australia | OA 10 | Historia | 1 |
 | 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje | OA 10 | Historia | 1 |
-| 9  | Alternativas | b) Temuco | OA 14 | Historia | 1 |
-| 10 | Desarrollo breve | La ocupación significó la pérdida de la mayor parte del territorio ancestral mapuche, el empobrecimiento de sus comunidades, la pérdida de autonomía política y cambios forzados en su forma de vida y organización económica; estas transformaciones estructurales explican en buena medida demandas territoriales que continúan hasta el presente, por lo que sus efectos no se limitaron al siglo XIX sino que se proyectan hasta hoy | OA 14 | Historia | 2 |
-| 11 | Alternativas | b) A la pérdida del acceso soberano al mar por parte de Bolivia | OA 15 | Historia | 1 |
+| 9  | Alternativas | d) Temuco | OA 14 | Historia | 1 |
+| 10 | Alternativas | **d) Por la pérdida de la mayor parte del territorio ancestral, el empobrecimiento y la pérdida de autonomía, transformaciones que explican demandas territoriales vigentes.** | OA 14 | Historia | 2 |
+| 11 | Alternativas | c) A la pérdida del acceso soberano al mar por parte de Bolivia | OA 15 | Historia | 1 |
 | 12 | Alternativas | a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano | OA 15 | Historia | 1 |
 | 13 | Alternativas | b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad | OA 18 | Historia | 1 |
 | 14 | Alternativas | b) La matanza de la Escuela Santa María de Iquique | OA 18 | Historia | 1 |
-| 15 | Desarrollo extenso | Formas de lucha obrera válidas: las huelgas (como la descrita en el estímulo) y la organización de mutuales de socorro y sindicatos. Relación con el cambio de siglo: junto a los partidos tradicionales (conservador, liberal) surgieron o se fortalecieron partidos que incorporaban ideas como el socialismo para representar las demandas populares, mientras crecía el protagonismo de los sectores medios (profesionales, empleados, pequeños comerciantes), que comenzaron a exigir mayor participación política en un escenario antes dominado por la élite terrateniente | OA 18 | Historia | 3 |
+| 15 | Varias correctas | **a, b y c.** El cambio de siglo combinó nuevas formas de lucha obrera, transformación ideológica de los partidos y protagonismo creciente de los sectores medios. | OA 18 | Historia | 3 |
 | 16 | Alternativas | b) Documentar la geografía, flora, fauna y geología del territorio nacional | OA 12 | Geografía | 1 |
-| 17 | Desarrollo breve | Reunir información mediante censos o misiones científicas no bastaba por sí solo: se necesitaba un aparato burocrático —funcionarios y oficinas— capaz de procesar esa información y aplicar políticas concretas de administración; las redes de transporte y comunicación, por su parte, integraban física y administrativamente distintas zonas del territorio, permitiendo que la presencia y las decisiones del Estado llegaran a lugares antes aislados, complementando así el conocimiento científico con una administración efectiva | OA 12 | Geografía | 2 |
+| 17 | Alternativas | **b) La burocracia procesó la información de censos y misiones y aplicó políticas; las redes integraron zonas antes aisladas, llevando la presencia del Estado a todo el territorio.** | OA 12 | Geografía | 2 |
 | 18 | Alternativas | b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo | OA 20 | Formación Ciudadana | 1 |
 | 19 | Alternativas | c) La inflación | OA 20 | Formación Ciudadana | 1 |
 | 20 | Alternativas | c) El socialcristianismo | OA 23 | Formación Ciudadana | 1 |
-| 21 | Desarrollo breve | El liberalismo aceptaba de forma gradual y limitada cierta intervención estatal en materia laboral y social, pero sin cuestionar la economía de mercado ni la propiedad privada como base del sistema; el socialismo, en cambio, proponía que el Estado o la sociedad en su conjunto controlaran los principales medios de producción, con el objetivo de lograr una distribución más igualitaria de la riqueza y organizando a los trabajadores en función de ese cambio | OA 23 | Formación Ciudadana | 2 |
+| 21 | Alternativas | **c) El liberalismo aceptaba cierta intervención estatal sin cuestionar el mercado ni la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción.** | OA 23 | Formación Ciudadana | 2 |
 | 22 | Alternativas | a) Rapa Nui | OA 24 | Formación Ciudadana | 1 |
-| 23 | Desarrollo breve | Ejemplo de conflicto: la anexión de Isla de Pascua al Estado chileno en 1888, que trajo consigo décadas de restricciones a la libertad de movimiento y a la propiedad de la tierra para el pueblo Rapa Nui. Ejemplo de convivencia: los avances legales actuales de reconocimiento y protección de los pueblos indígenas, o el intercambio cultural y comercial. Estos ejemplos muestran que la relación entre los pueblos indígenas y el Estado de Chile no ha sido uniforme: distintos pueblos y períodos combinan episodios de conflicto y de convivencia o negociación | OA 24 | Formación Ciudadana | 2 |
+| 23 | Alternativas | **a) Conflicto: la anexión de 1888 y las restricciones a la movilidad y a la tierra. Convivencia: los avances legales actuales de reconocimiento y protección.** Distintos períodos combinan episodios de conflicto y de convivencia o negociación. | OA 24 | Formación Ciudadana | 2 |
 | 24 | Alternativas | b) La lluvia ácida generada por la contaminación atmosférica industrial | OA 25 | Formación Ciudadana | 1 |
-| 25 | Desarrollo extenso | La industrialización de los siglos XIX y XX generó, junto con el calentamiento global, otros impactos ambientales de largo plazo: los residuos industriales y mineros, muchas veces vertidos sin tratamiento, contaminaron de forma acumulativa ríos, suelos y zonas costeras, un daño que en muchos casos persiste hasta hoy en las cercanías de antiguos centros industriales y mineros. Medida válida: regulaciones ambientales más estrictas para el tratamiento de residuos industriales, remediación de suelos y cuerpos de agua contaminados, u otra política orientada al desarrollo sostenible que equilibre crecimiento económico, equidad social y cuidado ambiental | OA 25 | Formación Ciudadana | 3 |
+| 25 | Alternativas | **d) Los residuos industriales y mineros vertidos sin tratamiento contaminaron de forma acumulativa ríos y costas; una medida es aplicar regulaciones más estrictas y remediar los suelos y aguas contaminados.** El desarrollo sostenible busca equilibrar crecimiento económico, equidad social y cuidado ambiental. | OA 25 | Formación Ciudadana | 3 |
 
 **Puntaje total: 34 puntos**
 
@@ -479,19 +457,19 @@ otros criterios de conversión.)*
 
 Cobertura curricular del instrumento, para uso del docente o del apoderado que acompaña el estudio.
 
-| Objetivo de Aprendizaje | Preguntas | Cerradas | Desarrollo |
-|---|---|---|---|
-| OA 1 | 1, 2 | 2 | 0 |
-| OA 3 | 3 | 1 | 0 |
-| OA 7 | 4 | 1 | 0 |
-| OA 8 | 5, 6 | 1 | 1 |
-| OA 10 | 7, 8 | 2 | 0 |
-| OA 12 | 16, 17 | 1 | 1 |
-| OA 14 | 9, 10 | 1 | 1 |
-| OA 15 | 11, 12 | 2 | 0 |
-| OA 18 | 13, 14, 15 | 2 | 1 |
-| OA 20 | 18, 19 | 2 | 0 |
-| OA 23 | 20, 21 | 1 | 1 |
-| OA 24 | 22, 23 | 1 | 1 |
-| OA 25 | 24, 25 | 1 | 1 |
-| **Total** | **25 preguntas** | **18** | **7** |
+| Objetivo de Aprendizaje | Preguntas | Alternativas |
+|---|---|---|
+| OA 1 | 1, 2 | 2 |
+| OA 3 | 3 | 1 |
+| OA 7 | 4 | 1 |
+| OA 8 | 5, 6 | 2 |
+| OA 10 | 7, 8 | 2 |
+| OA 12 | 16, 17 | 2 |
+| OA 14 | 9, 10 | 2 |
+| OA 15 | 11, 12 | 2 |
+| OA 18 | 13, 14, 15 | 3 |
+| OA 20 | 18, 19 | 2 |
+| OA 23 | 20, 21 | 2 |
+| OA 24 | 22, 23 | 2 |
+| OA 25 | 24, 25 | 2 |
+| **Total** | **25 preguntas** | **25** |

@@ -26,32 +26,43 @@ palabras sueltas.
    festival of lights, by decorating their homes with small oil lamps and
    sharing sweets with neighbors."* ¿Cuál es la información central del
    texto?
-   a) India is a very large country.
-   b) Diwali is celebrated with lights, decorations and shared sweets.
-   c) Neighbors never visit each other in India.
-   d) Diwali only happens once every ten years.
+   a) India is a very large country with many different festivals.
+   b) Diwali only happens once every ten years, in some cities of India.
+   c) Neighbors never visit each other in India during the festival of lights.
+   d) Diwali is celebrated with lights, decorations and shared sweets.
 
-2. *(Completar)* Complete using a comparison connector: *"Chilean teenagers
-   usually go home for lunch. ___, in the United Kingdom, many
-   students bring a packed lunch from home."* (Similarly / In contrast)
+2. *(Alternativas — Completar)* Complete: *"Chilean teenagers usually have lunch at home or at school. ___, in the United Kingdom, many students bring a packed lunch from home."*
+
+a) Therefore
+b) Similarly
+c) In contrast
+d) First
 
 3. *(Verdadero o falso)* Read: *"In South Korea, it is common for students to
    bow slightly when greeting their teachers as a sign of respect."*
    Statement: *This sentence describes a widespread custom in South Korean
    schools.*
 
-4. *(Completar con organizador gráfico)* Complete the chart with information
-   from the text: *"The Chinese New Year lasts 15 days. Families gather for
-   a reunion dinner, and children receive money in red envelopes called
-   hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
+4. *(Alternativas — Organizador gráfico)* Read: *"The Chinese New Year lasts 15 days. Families gather for a reunion dinner, and children receive money in red envelopes called hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
 
-5. *(Selección — dos opciones)* Relaciona el conector con su función: *"whereas"* → ¿"marcar
-   una semejanza" o "marcar una diferencia"?
+a) 15 years / red envelopes for adults / a reunion lunch
+b) 1 day / fireworks and parades / toys for children
+c) 15 days / hongbao dinner / money for the restaurant
+d) 15 days / reunion dinner / money in red envelopes (hongbao)
 
-6. *(Responder en inglés)* Read: *"In Sweden, 'fika' is a daily coffee break
-   with pastries that people share with friends or coworkers. It is
-   considered an important social custom, not just a quick coffee."* Answer:
-   *What is 'fika', according to the text?*
+5. *(Alternativas — Función)* ¿Qué función cumple el conector *"whereas"*?
+
+a) Marcar una semejanza
+b) Marcar una diferencia
+c) Agregar un ejemplo
+d) Indicar una consecuencia
+
+6. *(Alternativas — Comprensión)* Read: *"In Sweden, 'fika' is a daily coffee break with pastries that people share with friends or coworkers. It is considered an important social custom, not just a quick coffee."* *What is 'fika', according to the text?*
+
+a) A quick coffee that people drink alone before going to work
+b) A Swedish holiday celebrated once a year with family and friends
+c) A daily coffee break with pastries, shared as an important social custom
+d) A type of pastry sold in Swedish bakeries and coffee shops
 
 7. *(Alternativas — desafiante)* Read two short texts: Text A says Brazilian
    Carnival lasts about a week and centers on street parades and music. Text
@@ -59,13 +70,16 @@ palabras sueltas.
    traditional dances and food. ¿Qué oración compara correctamente ambos
    textos?
    a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food.
-   b) Carnival and Fiestas Patrias have nothing in common.
-   c) Only Fiestas Patrias lasts a week.
-   d) Carnival is about food, and Fiestas Patrias is about music.
+   b) Carnival and Fiestas Patrias have nothing in common, because they are celebrated in different countries and seasons.
+   c) Only Fiestas Patrias lasts about a week, while Carnival lasts one day and focuses on dances and traditional food.
+   d) Carnival focuses on dances and food, whereas Fiestas Patrias focuses on parades and music, and both last about a month.
 
-8. *(Completar — desafiante)* Complete with the correct connector: *"Both
-   Japan and Chile value family celebrations, ___ the specific traditions
-   are very different."* (although / similarly)
+8. *(Alternativas — Completar — desafiante)* Complete: *"Both Japan and Chile value family celebrations, ___ the specific traditions are very different."*
+
+a) although
+b) similarly
+c) therefore
+d) moreover
 
 9. *(Verdadero o falso — desafiante)* Read: *"Unlike many Western countries,
    where people usually shake hands as a greeting, in Thailand people greet
@@ -73,17 +87,19 @@ palabras sueltas.
    slightly."* Statement: *The text shows a contrast between greeting
    customs in Western countries and Thailand.*
 
-10. *(Resumir — desafiante)* Read: *"In Mexico, the Day of the Dead (Día de
-    Muertos) is not a sad occasion. Families build colorful altars with
-    photos, food, and flowers to remember loved ones who have passed away,
-    celebrating their lives instead of mourning their deaths."* Answer the
-    guiding questions to summarize: *What is the Day of the Dead? How do
-    families celebrate it? What is the purpose?*
+10. *(Alternativas — Resumir — desafiante)* Read: *"In Mexico, the Day of the Dead is not a sad occasion. Families build colorful altars with photos, food, and flowers to remember loved ones who have passed away, celebrating their lives instead of mourning their deaths."* Which summary answers the guiding questions?
 
-11. *(Completar)* Complete the sentence reusing a structure from the text:
-    *"The Scottish tradition of Hogmanay dates back to old Viking
-    celebrations of the winter solstice."* Complete: *"This custom ___
-    (remontarse a) hundreds of years, according to the article."*
+a) The Day of the Dead is a very sad day in Mexico, when families cry for their loved ones and stay at home in silence; its purpose is to mourn the people who died.
+b) Mexican families buy flowers and food for the Day of the Dead; its purpose is to decorate their houses for a national holiday with parades and music.
+c) The Day of the Dead is a Chilean festival about food and dancing, where families cook traditional dishes; its purpose is to celebrate the harvest season.
+d) The Day of the Dead is a Mexican celebration where families build colorful altars; its purpose is to celebrate the lives of loved ones instead of mourning them.
+
+11. *(Alternativas — Completar)* Read: *"The Scottish tradition of Hogmanay dates back to old Viking celebrations of the winter solstice."* Complete reusing a structure from the text: *"This custom ___ hundreds of years, according to the article."* (remontarse a)
+
+a) dates
+b) dates back
+c) goes from
+d) came back
 
 12. *(Alternativas)* Read: *"Songkran, the Thai New Year, is mainly known for
     its massive water fights in the streets. The celebration also includes
@@ -96,82 +112,60 @@ palabras sueltas.
     c) Songkran is mainly known for its massive water fights.
     d) Songkran combines water fights with temple rituals.
 
-13. *(Selección — dos opciones)* Relaciona cada palabra con su definición en español:
-    *"widespread"* → ¿"extendido / practicado por muchos" o "poco
-    frecuente / raro"?
+13. *(Alternativas — Vocabulario)* What does *"widespread"* mean?
 
-14. *(Producción breve — desafiante)* Usando un organizador gráfico mental
-    (país / celebración / qué se hace), escribe una comparación breve entre
-    dos celebraciones de países distintos, usando al menos un conector de
-    semejanza y uno de diferencia (por ejemplo, *similarly*, *whereas*).
+a) Poco frecuente, raro o escaso
+b) Antiguo, de otra época histórica
+c) Extendido, practicado por muchos
+d) Prohibido o limitado por ley
+
+14. *(Alternativas — Producción — desafiante)* Which paragraph compares two celebrations using a similarity connector and a difference connector?
+
+a) Both Chile and Peru celebrate their independence with food and dancing. Similarly, both hold parades. Whereas Chilean celebrations center on cueca, Peruvian ones often center on marinera.
+b) Chile celebrates independence with food and dancing. Peru celebrates independence with food and dancing. Chile has parades. Peru has parades. Chile dances cueca. Peru dances marinera.
+c) Whereas similarly both Chile and Peru, similarly whereas both celebrate. Both whereas similarly hold parades, and similarly whereas cueca and marinera are danced.
+d) Chile has empanadas and cueca. I like empanadas very much, and my family eats them every September during the Fiestas Patrias in our town.
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** Diwali is celebrated with lights, decorations and shared sweets.
+1. **d)** Diwali is celebrated with lights, decorations and shared sweets.
    La idea central resume lo esencial de la celebración (luces, decoración,
    compartir dulces), sin detenerse en detalles secundarios.
 
-2. **In contrast.**
-   El texto muestra una diferencia entre países, por lo que corresponde un
-   conector de contraste, no de semejanza.
+2. c) In contrast. El texto muestra una diferencia entre países, por lo que corresponde un conector de contraste.
 
 3. **True (Verdadero).**
    *It is common* indica que la práctica está extendida (widespread) entre
    los estudiantes.
 
-4. **15 days / reunion dinner / money in red envelopes (hongbao).**
-   Completar un organizador gráfico exige extraer datos puntuales y
-   clasificarlos por categoría, tal como pide este OA.
+4. d) 15 days / reunion dinner / money in red envelopes (hongbao). Completar un organizador gráfico exige extraer datos y clasificarlos por categoría.
 
-5. **marcar una diferencia.**
-   *Whereas* (mientras que) se usa para contrastar dos ideas dentro de una
-   misma oración.
+5. b) Marcar una diferencia. *Whereas* (mientras que) contrasta dos ideas en una misma oración.
 
-6. **It is a daily coffee break with pastries that people share as an
-   important social custom.**
-   La respuesta usa la información explícita del texto, no una opinión
-   personal.
+6. c) A daily coffee break with pastries, shared as an important social custom. La respuesta usa información explícita del texto, no una opinión.
 
 7. **a)** Both celebrations last about a week, but Carnival focuses on
    parades and music, whereas Fiestas Patrias focuses on dances and food.
    La comparación correcta reconoce la semejanza (*both... last about a
    week*) y la diferencia (*whereas*) entre ambos textos.
 
-8. **although.**
-   *Although* introduce un matiz de contraste dentro de una idea que empieza
-   reconociendo una semejanza (*both... value*).
+8. a) although. *Although* introduce un contraste dentro de una idea que empieza con una semejanza.
 
 9. **True (Verdadero).**
    *Unlike* (a diferencia de) introduce explícitamente una comparación de
    contraste entre dos culturas.
 
-10. **Respuesta personal breve y fiel al texto**, por ejemplo: *"The Day of
-    the Dead is a Mexican celebration where families build colorful altars
-    with photos, food, and flowers. Its purpose is to celebrate the lives of
-    loved ones instead of mourning their deaths."*
-    Se evalúa que el resumen use las preguntas guía y no copie oraciones
-    completas del texto original.
+10. d) The Day of the Dead is a Mexican celebration where families build colorful altars; its purpose is to celebrate the lives of loved ones instead of mourning them. El resumen debe responder qué es, cómo se celebra y con qué propósito, con palabras propias.
 
-11. **dates back to.**
-    Este OA pide completar frases usando estructuras vistas en los textos,
-    es decir, reutilizar la construcción exacta (*dates back to*) en un
-    nuevo contexto, sin inventar una estructura distinta.
+11. b) dates back. El OA pide reutilizar la estructura del texto (*dates back*) en un nuevo contexto.
 
 12. **b)** Many families use the holiday to clean their homes.
     La idea central agrupa lo esencial del texto (las peleas de agua y las
     visitas a los templos); limpiar la casa es un detalle adicional, no el
     foco principal.
 
-13. **extendido / practicado por muchos.**
-    *Widespread* describe una práctica común que se repite en muchos lugares
-    o entre muchas personas, lo opuesto de algo poco frecuente.
+13. c) Extendido, practicado por muchos. *Widespread* describe una práctica común en muchos lugares o entre muchas personas.
 
-14. **Respuesta personal coherente**, por ejemplo: *"Both Chile and Peru
-    celebrate their independence with traditional food and dancing.
-    Similarly, both hold parades in the main square. Whereas Chilean
-    celebrations center on empanadas and cueca, Peruvian celebrations often
-    center on ceviche and marinera."*
-    Se evalúa que la comparación use información clasificada (como en un
-    organizador gráfico) y conectores variados de semejanza y diferencia.
+14. a) Both Chile and Peru celebrate their independence with food and dancing. Similarly, both hold parades. Whereas Chilean celebrations center on cueca, Peruvian ones often center on marinera. Se espera información clasificada y conectores de semejanza (*similarly*) y diferencia (*whereas*).

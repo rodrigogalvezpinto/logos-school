@@ -9,6 +9,7 @@ cantidad_preguntas: 13
 oa_evaluados: OA 1, OA 2
 basado_en: contenido/01-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1","4":"OA 1","10":"OA 2","11":"OA 2","12":"OA 2","13":"OA 2"}
 ---
 
 # Prueba de Unidad — Eje 1: Números y Operaciones
@@ -26,18 +27,38 @@ d) 5
 **Pregunta 2 (verdadero o falso).** En la expresión (5+3)×2, el resultado es el mismo si se calcula 5+3×2.
 
 **Pregunta 3 (calcular).** Calcula: 4 − 2² + 6 ÷ 3.
-a) 4
-b) 8
+a) 8
+b) 4
 c) 2
 d) 0
 
-**Pregunta 4 (desarrollo).** Calcula: 1/3 − (1/2 − 3/4) × 2/5.
+**Pregunta 4 (Alternativas — operatoria combinada con fracciones).** Calcula: 1/3 − (1/2 − 3/4) × 2/5.
 
-**Pregunta 5 (identificar propiedad).** Un estudiante escribe: 7 × 12 = 7 × (10+2) = 7×10 + 7×2 = 70+14 = 84. ¿Qué propiedad está aplicando para descomponer el cálculo?
+a) 13/30
+b) 7/30
+c) −1/10
+d) 1/12
 
-**Pregunta 6 (traducir lenguaje a expresión).** Traduce a una expresión matemática: "el triple de un número, menos la mitad del mismo número".
+**Pregunta 5 (Alternativas — identificar propiedad).** Un estudiante escribe: 7 × 12 = 7 × (10 + 2) = 7 × 10 + 7 × 2 = 84. ¿Qué propiedad aplica?
 
-**Pregunta 7 (problema en contexto).** Camila tiene $12.000 y gasta la mitad en un libro. Con lo que le queda, gasta 1/3 en un cuaderno. Plantea una expresión numérica combinada que represente cuánto dinero le queda al final, y calcúlala.
+a) Conmutativa
+b) Asociativa
+c) Elemento neutro
+d) Distributiva
+
+**Pregunta 6 (Alternativas — traducir lenguaje a expresión).** ¿Qué expresión representa "el triple de un número, menos la mitad del mismo número"?
+
+a) 3(x − x/2)
+b) 3x − x/2
+c) x/2 − 3x
+d) 3x − 2x
+
+**Pregunta 7 (Alternativas — presupuesto).** Camila tiene $12.000 y gasta la mitad en un libro; con lo que le queda gasta 1/3 en un cuaderno. ¿Qué expresión representa lo que le queda y cuánto es?
+
+a) 12.000 × 1/2 × 1/3 = $2.000
+b) 12.000 − 1/2 − 1/3 = $11.999,17
+c) 12.000 × 1/2 × 2/3 = $4.000
+d) 12.000 × (1/2 + 1/3) = $10.000
 
 **Pregunta 8 (alternativas).** ¿Cuál es el valor de 2⁻³?
 a) −8
@@ -53,11 +74,26 @@ b) 3⁻¹⁰
 c) 3⁷
 d) 9³
 
-**Pregunta 11 (desarrollo).** Calcula: (3/5)⁻².
+**Pregunta 11 (Alternativas — potencia de base fraccionaria).** Calcula: (3/5)⁻².
 
-**Pregunta 12 (desarrollo).** Simplifica, dejando el resultado como una sola potencia: 2⁻⁴ ÷ 2⁻¹.
+a) 25/9
+b) 9/25
+c) −9/25
+d) −6/5
 
-**Pregunta 13 (problema en contexto).** Un automóvil pierde el 20% de su valor cada año, es decir, cada año conserva el 80% (0,8) de su valor anterior. Si costó $10.000.000, escribe una expresión con potencia que represente su valor después de 4 años, y calcula ese valor.
+**Pregunta 12 (Alternativas — propiedad de división).** Expresa como una sola potencia: 2⁻⁴ ÷ 2⁻¹.
+
+a) 2⁻⁵ = 1/32
+b) 2⁴ = 16
+c) 2³ = 8
+d) 2⁻³ = 1/8
+
+**Pregunta 13 (Alternativas — depreciación).** Un auto de $10.000.000 conserva cada año el 80% de su valor anterior. ¿Qué expresión da su valor a los 4 años y cuánto es?
+
+a) 10.000.000 × 0,8 × 4 = $32.000.000
+b) 10.000.000 × (0,8)⁴ = $4.096.000
+c) 10.000.000 × (0,2)⁴ = $16.000
+d) 10.000.000 − 4 × 0,2 = $9.999.999,2
 
 ---
 
@@ -69,13 +105,13 @@ d) 9³
 
 **3. c) 2.** Primero la potencia: 2²=4; luego la división: 6÷3=2; finalmente, de izquierda a derecha: 4−4+2=2.
 
-**4. 13/30.** Paréntesis: 1/2−3/4 = 2/4−3/4 = −1/4. Multiplicación: (−1/4)×2/5 = −2/20 = −1/10. Resta: 1/3 − (−1/10) = 10/30 + 3/30 = 13/30.
+**4. a) 13/30.** Primero el paréntesis (−1/4), luego la multiplicación (−1/10) y al final la resta: 1/3 − (−1/10) = 13/30. Restar un negativo equivale a sumar su opuesto; 7/30 resulta de olvidar ese cambio de signo.
 
-**5. Propiedad distributiva.** Se reparte el factor 7 sobre la suma (10+2).
+**5. d) Distributiva.** Reparte el factor 7 sobre la suma (10 + 2), una estrategia útil para multiplicar mentalmente.
 
-**6. 3x − x/2** (equivalente a 5x/2). Se identifica primero la incógnita y luego se representa cada operación en el orden descrito.
+**6. b) 3x − x/2.** Se identifica la incógnita y se representa cada operación en orden; 3x − x/2 se reduce a 5x/2.
 
-**7. $4.000.** Después del libro: 12.000×1/2 = 6.000. Después del cuaderno: 6.000×2/3 = 4.000. Expresión combinada: 12.000×1/2×2/3 = 4.000.
+**7. c) 12.000 × 1/2 × 2/3 = $4.000.** Lo que queda se expresa como fracción del total (1 menos lo gastado) y se multiplica en cadena.
 
 **8. c) 1/8.** 2⁻³ = 1/2³ = 1/8; un exponente negativo indica el recíproco elevado al exponente positivo.
 
@@ -83,8 +119,8 @@ d) 9³
 
 **10. a) 3³.** Se conserva la base y se suman los exponentes: −2+5=3.
 
-**11. 25/9 (≈2,77).** (3/5)⁻² = (5/3)² = 25/9.
+**11. a) 25/9.** Con exponente negativo se invierte la fracción y se aplica el exponente positivo: (5/3)² = 25/9 ≈ 2,78.
 
-**12. 2⁻³ = 1/8.** Se restan los exponentes: −4−(−1) = −3.
+**12. d) 2⁻³ = 1/8.** Al dividir potencias de igual base se restan los exponentes: −4 − (−1) = −3.
 
-**13. $4.096.000.** Valor = 10.000.000 × (0,8)⁴ = 10.000.000 × 0,4096 = 4.096.000.
+**13. b) 10.000.000 × (0,8)⁴ = $4.096.000.** Un decrecimiento por un mismo factor en cada período se modela con una potencia: base = factor de cambio, exponente = períodos.

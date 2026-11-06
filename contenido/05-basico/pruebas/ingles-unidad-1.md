@@ -31,18 +31,27 @@ cada palabra — apóyate en las imágenes descritas, los cognados y el contexto
 **1.** *(Alternativas)* Read: *"Hi! I am Pedro. I am eleven years old."* What is his
 name?
 a) Ana
-b) Pedro
+b) Sofía
 c) Diego
-d) Sofía
+d) Pedro
 **2.** *(Verdadero o falso)* Read: *"My mother is a doctor. My father is a
 teacher."* Statement: *His father is a doctor.*
 
-**3.** *(Emparejar palabra-imagen descrita)* Imagina un dibujo de un niño feliz
-saltando bajo el sol. ¿Qué palabra en inglés describe mejor su estado de ánimo:
-*sad* o *happy*?
+**3.** *(Alternativas — palabra e imagen)* Imagina un dibujo de un niño feliz
+saltando bajo el sol. ¿Qué palabra en inglés describe mejor su estado de ánimo?
 
-**4.** *(Responder en inglés)* Read: *"I am Camila. I am ten years old. I live in
+a) happy
+b) sad
+c) angry
+d) tired
+
+**4.** *(Alternativas — comprensión)* Read: *"I am Camila. I am ten years old. I live in
 Santiago."* Answer: *Where does Camila live?*
+
+a) She is ten years old.
+b) She is Camila.
+c) She lives in a house.
+d) She lives in Santiago.
 
 ---
 
@@ -50,18 +59,23 @@ Santiago."* Answer: *Where does Camila live?*
 
 **5.** *(Alternativas)* Read: *"You are invited to my birthday party!"* ¿Cuál es el
 propósito de este texto?
-a) Dar una receta
-b) Invitar a una celebración
+a) Invitar a una celebración
+b) Dar una receta
 c) Pedir disculpas
 d) Describir el clima
 
 **6.** *(Completar)* Complete: *"___, I don't have a pencil. Can I borrow yours?"*
 a) Thank you
-b) Excuse me
+b) Happy birthday
 c) Goodbye
-d) Happy birthday
-**7.** *(Emparejar palabra-imagen descrita)* Imagina una tarjeta con un pastel,
-globos y velas. ¿Qué tipo de texto es más probable: *a menu* o *a birthday card*?
+d) Excuse me
+**7.** *(Alternativas — palabra e imagen)* Imagina una tarjeta con un pastel,
+globos y velas. ¿Qué tipo de texto es más probable?
+
+a) a menu
+b) a birthday card
+c) a shopping list
+d) a weather report
 
 **8.** *(Alternativas — desafiante)* Read a short email: *"Hi Diego, Thank you for
 the present. I'm sorry I didn't call you. See you soon, Camila."* ¿Qué expresa
@@ -84,8 +98,12 @@ d) It is Monday.
 **10.** *(Verdadero o falso)* Read: *"Diego likes rainy days. He likes to read
 books inside."* Statement: *Diego prefers sunny days.*
 
-**11.** *(Completar)* Complete: *I ___ pizza, but I don't like fish.* (like /
-likes)
+**11.** *(Completar)* Complete: *I ___ pizza, but I don't like fish.*
+
+a) likes
+b) liking
+c) like
+d) to like
 
 **12.** *(Alternativas — desafiante)* Read: *"Tomás is short and likes soccer.
 Sofía is tall and likes basketball."* ¿Qué oración compara correctamente a los dos
@@ -99,27 +117,23 @@ d) Sofía is short.
 
 ## Pauta de respuestas
 
-1. **b) Pedro.** El texto lo dice directamente con "I am Pedro" (información
+1. **d) Pedro.** El texto lo dice directamente con "I am Pedro" (información
    explícita).
 2. **False (Falso).** El texto dice que el papá es *teacher* (profesor) y la mamá
    es *doctor*.
-3. **happy.** *Happy* significa feliz/contento, coherente con un niño sonriendo y
-   saltando.
-4. **She lives in Santiago.** La pregunta usa *where* (dónde); el lugar mencionado
-   es Santiago.
-5. **b) Invitar a una celebración.** La palabra *invited* y *birthday party*
+3. a) happy. *Happy* significa feliz/contento, coherente con un niño sonriendo y saltando.
+4. d) She lives in Santiago. La pregunta usa *where* (dónde); el lugar mencionado es Santiago.
+5. **a) Invitar a una celebración.** La palabra *invited* y *birthday party*
    muestran que el propósito es invitar.
-6. **b) Excuse me.** Se usa para pedir algo con cortesía, como pedir prestado un
+6. **d) Excuse me.** Se usa para pedir algo con cortesía, como pedir prestado un
    lápiz.
-7. **a birthday card.** Pastel con velas y globos son elementos típicos de una
-   tarjeta de cumpleaños, no de un menú.
+7. b) a birthday card. Pastel con velas y globos son elementos típicos de una tarjeta de cumpleaños.
 8. **c) Agradece y se disculpa.** El texto incluye *thank you* e *I'm sorry*: hay
    que identificar ambas ideas.
 9. **b) I prefer summer.** *I prefer* expresa gusto o preferencia; las otras
    oraciones solo describen hechos.
 10. **False (Falso).** El texto dice explícitamente que a Diego le gustan los días
     lluviosos (*rainy days*), no los soleados.
-11. **like.** Con el sujeto *I*, el verbo se usa en su forma simple (*likes* es
-    solo para *he/she/it*).
+11. c) like. Con el sujeto *I*, el verbo se usa en su forma simple (*likes* es solo para *he/she/it*).
 12. **b) Tomás is different from Sofía.** Uno es *short* y le gusta el fútbol; la
     otra es *tall* y le gusta el básquetbol.

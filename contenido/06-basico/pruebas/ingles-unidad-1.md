@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
-oa_por_pregunta: {"2":"OA 5","7":"OA 6","10":"OA 8"}
+oa_por_pregunta: {"2":"OA 5","4":"OA 5","5":"OA 6","6":"OA 6","7":"OA 6","8":"OA 6","10":"OA 8","11":"OA 8"}
 unidad: Unidad 1 — Reading (OA 5, 6 y 8)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
@@ -33,9 +33,9 @@ cuenta primero.
 **1.** *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a
 bike."* What can't Pedro do?
 a) Swim
-b) Ride a bike
+b) Read
 c) Run
-d) Read
+d) Ride a bike
 
 **2.** *(Verdadero o falso)* Read: *"The pharmacy is in front of the school, next
 to the bank."* Statement: *The pharmacy is behind the school.*
@@ -44,26 +44,46 @@ V ☐  F ☐
 **3.** *(Completar)* Complete with "can" or "can't": *A fish ___ swim, but it ___
 fly.*
 
-**4.** *(Responder en inglés)* Read: *"Yesterday, Camila visited her grandmother.
+a) can / can't
+b) can't / can
+c) can / can
+d) can't / can't
+
+**4.** *(Alternativas — comprensión)* Read: *"Yesterday, Camila visited her grandmother.
 Today she visits her friend."* Answer: *What did Camila do yesterday?*
+
+a) She visits her friend.
+b) She visited her friend.
+c) She visit her grandmother.
+d) She visited her grandmother.
 
 **5.** *(Alternativas)* Read: *"Fresh vegetables and fruit! Open every day from 9
 am to 8 pm. Central Market."* ¿Cuál es el propósito de este texto?
-a) Dar una receta
-b) Anunciar una tienda (aviso publicitario)
-c) Pedir disculpas
-d) Describir el clima
+a) Dar una receta con verduras y frutas
+b) Pedir disculpas por cerrar temprano
+c) Anunciar una tienda (aviso publicitario)
+d) Describir el clima de la ciudad cada día
 
 **6.** *(Completar)* Complete with the past simple: *"Yesterday I played in the
 rain without a jacket. Today I don't feel well. I think I ___ a cold
-yesterday."* (catch / caught / catches)
+yesterday."*
+
+a) catch
+b) caught
+c) catches
+d) catched
 
 **7.** *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
 minutes."* Esto corresponde a instrucciones para preparar comida.
 V ☐  F ☐
 
-**8.** *(Responder en inglés)* Read a menu: *"Menu: Pizza — $4.000. Salad —
+**8.** *(Alternativas — comprensión)* Read a menu: *"Menu: Pizza — $4.000. Salad —
 $2.000. Juice — $1.000."* Answer: *How much is the pizza?*
+
+a) It is $1.000.
+b) It is $2.000.
+c) It is $4.000.
+d) It is $7.000.
 
 **9.** *(Alternativas)* Which sentence expresses an opinion (una opinión)?
 a) The zoo has many animals.
@@ -77,7 +97,12 @@ exciting.*
 V ☐  F ☐
 
 **11.** *(Completar)* Complete: *I ___ camping is fun, because you can see the
-stars at night.* (think / thinks)
+stars at night.*
+
+a) think
+b) thinks
+c) thinking
+d) thought it
 
 **12.** *(Alternativas — desafiante)* Read: *"Diego is quiet and likes reading.
 Sofía is funny and likes telling jokes."* ¿Qué oración compara correctamente a los
@@ -91,16 +116,16 @@ d) Sofía is quiet.
 
 ## Pauta de respuestas
 
-1. b) Ride a bike
+1. d) Ride a bike
 2. F (Falso) — el texto dice *in front of*, no *behind*.
-3. can / can't
-4. *She visited her grandmother.*
-5. b) Anunciar una tienda (aviso publicitario)
-6. caught — *yesterday* indica pasado; *caught* es el pasado irregular de *catch*.
+3. a) can / can't. Los peces nadan (habilidad) pero no vuelan (inhabilidad).
+4. d) She visited her grandmother. *Yesterday* indica pasado: *visited*.
+5. c) Anunciar una tienda (aviso publicitario)
+6. b) caught. *Yesterday* indica pasado; *caught* es el pasado irregular de *catch*.
 7. V (Verdadero)
-8. *The pizza is $4.000. / It is $4.000.*
+8. c) It is $4.000. El precio asociado a *pizza* en el menú es $4.000.
 9. b) I think the zoo is interesting.
 10. F (Falso) — el texto dice que Martina piensa que el desierto es *boring*, no
     *exciting*.
-11. think
+11. a) think. Con *I* se usa *think*, no *thinks*.
 12. b) Diego is different from Sofía.

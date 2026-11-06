@@ -124,11 +124,11 @@ una capacidad de regeneración muy limitada.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál es la función principal de los receptores sensoriales?
-   a) Generar la respuesta motora final
-   b) Detectar un estímulo y transformarlo en señal electroquímica
-   c) Almacenar la memoria a largo plazo
-   d) Producir hormonas
-   **Respuesta correcta:** b) Detectar un estímulo y transformarlo en señal
+   a) Detectar un estímulo y transformarlo en señal electroquímica
+   b) Generar la respuesta motora final en los músculos
+   c) Almacenar la memoria a largo plazo en el cerebro
+   d) Producir hormonas que regulan el crecimiento del cuerpo
+   **Respuesta correcta:** a) Detectar un estímulo y transformarlo en señal
    electroquímica.
    **Retroalimentación:** Los receptores sensoriales son el punto de partida de toda
    respuesta nerviosa: convierten un estímulo del ambiente (luz, presión, sonido,
@@ -141,61 +141,45 @@ una capacidad de regeneración muy limitada.
    motora directamente, sin esperar a que la señal llegue al cerebro, lo que permite
    una reacción mucho más rápida ante situaciones de riesgo.
 
-3. *(Clasificar)* Clasifica cada tipo de neurona según su función: lleva información
-   desde un receptor sensorial hacia el sistema nervioso central; lleva órdenes desde
-   el sistema nervioso central hacia un músculo; conecta a las dos anteriores dentro
-   de la médula espinal o el cerebro.
-   **Respuesta correcta:** Neurona sensorial: lleva información desde el receptor.
-   Neurona motora: lleva órdenes hacia el efector. Interneurona: conecta a ambas.
-   **Retroalimentación:** Todo circuito nervioso, por simple o complejo que sea, se
-   construye a partir de estos tres tipos funcionales de neuronas.
+3. *(Alternativas — Clasificar)* ¿Qué tipo de neurona corresponde a cada función: (1) lleva información desde un receptor hacia el SNC; (2) lleva órdenes desde el SNC a un músculo; (3) conecta a las anteriores en la médula o el cerebro?
+   a) 1: sensorial; 2: motora; 3: interneurona
+   b) 1: motora; 2: sensorial; 3: interneurona
+   c) 1: interneurona; 2: motora; 3: sensorial
+   d) 1: sensorial; 2: interneurona; 3: motora
+   **Respuesta correcta:** a) 1: sensorial; 2: motora; 3: interneurona.
+   **Retroalimentación:** Todo circuito nervioso se construye a partir de estos tres tipos funcionales de neuronas.
 
-4. *(Desarrollo breve)* Explica el rol de la médula espinal y del cerebro en el
-   proceso de elaboración de una respuesta nerviosa, usando el ejemplo de un acto
-   reflejo.
-   **Respuesta esperada:** La médula espinal recibe la señal sensorial y puede generar
-   una respuesta motora inmediata mediante interneuronas, sin necesidad de que la
-   información llegue al cerebro; el cerebro, en paralelo, recibe la misma
-   información un instante después, permitiendo que la persona tome consciencia de lo
-   ocurrido, aunque la respuesta motora ya se haya ejecutado.
-   **Retroalimentación:** Distinguir estos dos roles ayuda a comprender por qué los
-   actos reflejos son más rápidos que las respuestas voluntarias, que sí requieren
-   procesamiento cerebral completo.
+4. *(Alternativas)* En un acto reflejo, ¿qué rol cumplen la médula espinal y el cerebro?
+   a) El cerebro genera la respuesta motora inmediata mediante interneuronas, y la médula no participa en el acto reflejo, porque solo conduce información hacia los órganos
+   b) La médula solo transporta sangre hacia el cerebro
+   c) Ninguno participa: los músculos responden solos al estímulo, y la médula y el cerebro reciben la información recién cuando el movimiento ya terminó
+   d) La médula genera una respuesta motora inmediata mediante interneuronas; el cerebro recibe la información un instante después y toma conciencia de lo ocurrido
+   **Respuesta correcta:** d) La médula genera una respuesta motora inmediata mediante interneuronas; el cerebro recibe la información un instante después y toma conciencia de lo ocurrido.
+   **Retroalimentación:** Por eso los reflejos son más rápidos que las respuestas voluntarias, que requieren procesamiento cerebral completo.
 
-5. *(Análisis)* Explica cómo la estructura de una neurona (dendritas, cuerpo celular
-   y axón) le permite cumplir su función de transmitir señales a largas distancias
-   dentro del cuerpo.
-   **Respuesta esperada:** Las dendritas reciben señales de otras neuronas o
-   receptores; el cuerpo celular integra esa información; y el axón, que puede medir
-   desde milímetros hasta más de un metro en algunas neuronas del cuerpo humano,
-   conduce la señal eléctrica a gran velocidad hasta el siguiente punto del circuito,
-   lo que permite que la información viaje eficientemente incluso entre estructuras
-   corporales alejadas entre sí.
-   **Retroalimentación:** La forma alargada del axón es una adaptación estructural
-   clave que explica por qué el sistema nervioso puede coordinar respuestas en todo
-   el cuerpo casi instantáneamente.
+5. *(Alternativas — Análisis)* ¿Cómo permite la estructura de una neurona transmitir señales a largas distancias?
+   a) El axón recibe las señales y las dendritas las conducen a otros órganos, mientras el cuerpo celular se desplaza por la sangre para acelerar la transmisión
+   b) El cuerpo celular se desplaza por el cuerpo llevando la señal química de un órgano a otro, y las dendritas y el axón solo sirven de anclaje
+   c) La neurona transporta oxígeno por la sangre
+   d) Las dendritas reciben señales, el cuerpo celular las integra y el axón, que puede medir más de un metro, conduce la señal eléctrica rápidamente
+   **Respuesta correcta:** d) Las dendritas reciben señales, el cuerpo celular las integra y el axón, que puede medir más de un metro, conduce la señal eléctrica rápidamente.
+   **Retroalimentación:** Esta estructura explica por qué el sistema nervioso coordina respuestas en todo el cuerpo casi instantáneamente.
 
-6. *(Análisis de autocuidado)* Explica por qué dormir pocas horas de forma
-   sostenida puede afectar el desempeño cognitivo de un estudiante, relacionándolo
-   con el funcionamiento del sistema nervioso.
-   **Respuesta esperada:** El sueño es un proceso necesario para la consolidación de
-   la memoria y la recuperación de las neuronas tras la actividad del día; dormir
-   pocas horas de forma sostenida interfiere con estos procesos, lo que puede afectar
-   la atención, la memoria, el estado de ánimo y la capacidad de tomar decisiones.
-   **Retroalimentación:** El cuidado del sistema nervioso no depende solo de evitar
-   sustancias dañinas, sino también de mantener hábitos como un sueño adecuado.
+6. *(Alternativas — Autocuidado)* ¿Por qué dormir pocas horas de forma sostenida puede afectar el desempeño cognitivo de un estudiante?
+   a) Porque dormir poco aumenta la memoria a corto plazo, pero reduce la memoria a largo plazo, por lo que conviene dormir pocas horas solo antes de las pruebas
+   b) Porque el sueño no tiene relación con el sistema nervioso; solo sirve para descansar los músculos, y la falta de sueño afecta el rendimiento físico en educación física
+   c) Porque el sueño es necesario para consolidar la memoria y recuperar las neuronas; su falta afecta la atención, la memoria, el ánimo y la toma de decisiones
+   d) Porque solo afecta a los músculos
+   **Respuesta correcta:** c) Porque el sueño es necesario para consolidar la memoria y recuperar las neuronas; su falta afecta la atención, la memoria, el ánimo y la toma de decisiones.
+   **Retroalimentación:** Cuidar el sistema nervioso implica también mantener hábitos como un sueño adecuado.
 
-7. *(Evaluación/caso)* Evalúa la siguiente afirmación: "tomar varias tazas de café
-   para 'recuperar' las horas de sueño perdidas antes de un examen no tiene ningún
-   riesgo para el sistema nervioso." Justifica tu evaluación.
-   **Respuesta esperada:** La afirmación es incorrecta: aunque el café puede aumentar
-   temporalmente el estado de alerta, no reemplaza las funciones reparadoras del
-   sueño sobre el sistema nervioso, y su consumo excesivo puede alterar aún más el
-   ciclo de sueño-vigilia, generar ansiedad y afectar la calidad del descanso
-   posterior, entrando en un círculo que empeora el rendimiento a mediano plazo.
-   **Retroalimentación:** Distinguir entre "sentirse alerta" y realmente descansar es
-   clave para tomar decisiones informadas sobre el autocuidado del sistema nervioso
-   en época de exámenes.
+7. *(Alternativas — Evaluación)* "Tomar varias tazas de café para 'recuperar' las horas de sueño antes de un examen no tiene ningún riesgo para el sistema nervioso." ¿Qué evaluación es correcta?
+   a) Es incorrecta: el café aumenta la alerta temporalmente, pero no reemplaza el sueño y su exceso puede alterar el ciclo de sueño y generar ansiedad
+   b) Es correcta: el café reemplaza completamente al sueño, porque mantiene al cerebro activo y le permite descansar mientras se estudia
+   c) Es correcta: el café mejora la memoria sin ningún efecto secundario, por lo que es la mejor forma de prepararse para un examen
+   d) Es incorrecta: el café no tiene ningún efecto en el cuerpo ni en el sistema nervioso, así que tomarlo no ayuda ni perjudica al estudiar
+   **Respuesta correcta:** a) Es incorrecta: el café aumenta la alerta temporalmente, pero no reemplaza el sueño y su exceso puede alterar el ciclo de sueño y generar ansiedad.
+   **Retroalimentación:** Se puede entrar en un círculo que empeora el rendimiento a mediano plazo.
 
 ---
 
@@ -264,10 +248,10 @@ relación afectiva o sexual.
 
 1. *(Alternativas)* ¿Cuál de las siguientes opciones corresponde a la dimensión
    sociocultural de la sexualidad?
-   a) La producción de gametos
-   b) El vínculo afectivo entre dos personas
+   a) La producción de gametos en los órganos reproductores
+   b) El vínculo afectivo y emocional entre dos personas
    c) Las normas y expectativas que una sociedad construye sobre la sexualidad
-   d) La respuesta fisiológica del cuerpo ante un estímulo sexual
+   d) La respuesta fisiológica del cuerpo ante un estímulo sexual o afectivo
    **Respuesta correcta:** c) Las normas y expectativas que una sociedad construye
    sobre la sexualidad.
    **Retroalimentación:** La dimensión sociocultural refiere a cómo cada sociedad y
@@ -281,65 +265,45 @@ relación afectiva o sexual.
    psicológica y sociocultural; reducirla solo a la reproducción biológica deja fuera
    aspectos fundamentales de cómo las personas viven su sexualidad.
 
-3. *(Clasificar)* Clasifica cada situación según la dimensión de la sexualidad que
-   ilustra principalmente (biológica, afectiva, psicológica o sociocultural): la
-   producción de espermatozoides; el enamoramiento entre dos personas; la forma en que
-   una persona construye su identidad de género; las expectativas familiares sobre el
-   matrimonio.
-   **Respuesta correcta:** Biológica: producción de espermatozoides. Afectiva:
-   enamoramiento. Psicológica: identidad de género. Sociocultural: expectativas
-   familiares sobre el matrimonio.
-   **Retroalimentación:** Reconocer que la sexualidad tiene múltiples dimensiones
-   ayuda a comprenderla como un fenómeno complejo, no reducible a un solo aspecto.
+3. *(Alternativas — Clasificar)* ¿Qué dimensión de la sexualidad ilustra cada situación: producción de espermatozoides; enamoramiento; construcción de la identidad de género; expectativas familiares sobre el matrimonio?
+   a) Afectiva, biológica, sociocultural y psicológica
+   b) Psicológica, sociocultural, biológica y afectiva
+   c) Sociocultural, psicológica, afectiva y biológica
+   d) Biológica, afectiva, psicológica y sociocultural
+   **Respuesta correcta:** d) Biológica, afectiva, psicológica y sociocultural.
+   **Retroalimentación:** Reconocer sus dimensiones ayuda a comprender la sexualidad como un fenómeno complejo.
 
-4. *(Desarrollo breve)* Explica por qué el acceso a información sobre métodos de
-   regulación de la fecundidad es relevante para prevenir el embarazo adolescente no
-   planificado.
-   **Respuesta esperada:** El acceso a información confiable permite que adolescentes
-   tomen decisiones informadas sobre su sexualidad y sobre cómo evitar un embarazo no
-   planificado si esa es su decisión, considerando además que un embarazo adolescente
-   puede tener consecuencias educativas, económicas y de salud significativas tanto
-   para la madre como para el padre.
-   **Retroalimentación:** La educación sexual integral no promueve por sí sola el
-   inicio de la actividad sexual, pero sí permite tomar decisiones más informadas
-   cuando esta ocurre.
+4. *(Alternativas)* ¿Por qué el acceso a información sobre métodos de regulación de la fecundidad es relevante para prevenir el embarazo adolescente no planificado?
+   a) Porque permite tomar decisiones informadas, considerando que un embarazo adolescente puede tener consecuencias educativas, económicas y de salud para la madre y el padre
+   b) Porque obliga a iniciar la actividad sexual a temprana edad, y por eso conviene informar recién en la adultez, cuando las consecuencias educativas y económicas son menores
+   c) Porque la información no influye en las decisiones: los embarazos adolescentes ocurren por azar, y conocer los métodos no cambia las consecuencias para la madre y el padre
+   d) Porque solo importa a los adultos
+   **Respuesta correcta:** a) Porque permite tomar decisiones informadas, considerando que un embarazo adolescente puede tener consecuencias educativas, económicas y de salud para la madre y el padre.
+   **Retroalimentación:** La información no promueve el inicio de la actividad sexual, pero sí permite decisiones más informadas cuando ocurre.
 
-5. *(Análisis)* Analiza por qué la responsabilidad frente a una infección de
-   transmisión sexual (ITS) involucra tanto al individuo como a su pareja.
-   **Respuesta esperada:** Como las ITS se transmiten mediante el contacto sexual, la
-   prevención (uso de preservativo), el diagnóstico oportuno y el tratamiento de una
-   ITS no dependen solo de una persona: requieren comunicación y responsabilidad
-   compartida entre quienes mantienen una relación sexual, ya que la conducta de una
-   persona puede afectar directamente la salud de la otra.
-   **Retroalimentación:** Pensar la sexualidad en términos de responsabilidad
-   compartida, y no solo individual, es clave para prevenir tanto embarazos no
-   planificados como ITS.
+5. *(Alternativas — Análisis)* ¿Por qué la responsabilidad frente a una infección de transmisión sexual involucra al individuo y a su pareja?
+   a) Porque solo una de las personas puede contagiarse, y la otra actúa como portadora sin riesgo, de modo que basta con que una de ellas se haga el diagnóstico y el tratamiento
+   b) Porque las ITS no se transmiten por contacto sexual, sino por compartir objetos personales, y la responsabilidad compartida consiste en no prestarse cepillos ni toallas
+   c) Porque la prevención (preservativo), el diagnóstico y el tratamiento requieren comunicación y responsabilidad compartida, ya que la conducta de uno afecta la salud del otro
+   d) Porque la responsabilidad es solo del médico
+   **Respuesta correcta:** c) Porque la prevención (preservativo), el diagnóstico y el tratamiento requieren comunicación y responsabilidad compartida, ya que la conducta de uno afecta la salud del otro.
+   **Retroalimentación:** La responsabilidad compartida es clave para prevenir embarazos no planificados e ITS.
 
-6. *(Análisis de caso)* Una adolescente de 16 años se entera de que está embarazada.
-   Describe al menos dos ámbitos de su vida (además del biológico) que podrían verse
-   afectados por esta situación, y qué tipo de apoyo podría ayudar a mitigar esos
-   efectos.
-   **Respuesta esperada:** Ámbito educativo: podría verse interrumpida o dificultada su
-   asistencia y rendimiento escolar, lo que podría mitigarse con apoyo del
-   establecimiento educacional (por ejemplo, flexibilidad de horarios). Ámbito
-   económico: la crianza implica costos que pueden afectar su situación financiera y
-   la de su familia, lo que podría mitigarse con redes de apoyo familiar o programas
-   estatales de apoyo a la maternidad adolescente.
-   **Retroalimentación:** Analizar el embarazo adolescente considerando sus múltiples
-   consecuencias, y no solo la biológica, ayuda a comprender por qué su prevención es
-   un tema de salud pública y no solo un asunto individual.
+6. *(Varias correctas — Análisis de caso)* Una adolescente de 16 años se entera de que está embarazada. ¿Qué afirmaciones sobre los ámbitos afectados y los apoyos posibles son correctas? Marca **todas** las correctas.
+   a) Ámbito educativo: puede dificultarse su asistencia, lo que se mitiga con apoyo del establecimiento (por ejemplo, flexibilidad horaria)
+   b) Ámbito económico: la crianza implica costos, lo que se mitiga con redes familiares o programas estatales
+   c) Solo se ve afectado el ámbito biológico
+   d) No existe ningún tipo de apoyo posible
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** Considerar todas las dimensiones ayuda a comprender por qué su prevención es un tema de salud pública.
 
-7. *(Evaluación de decisiones)* Evalúa por qué se considera que el consentimiento y la
-   comunicación son elementos centrales de la responsabilidad individual en cualquier
-   relación afectiva o sexual.
-   **Respuesta esperada:** El consentimiento asegura que ambas personas participan en
-   la relación de forma libre e informada, respetando su autonomía; la comunicación
-   permite acordar aspectos como el uso de métodos de protección y expresar límites
-   personales, lo que reduce riesgos tanto físicos (embarazo no planificado, ITS)
-   como emocionales dentro de la relación.
-   **Retroalimentación:** El consentimiento y la comunicación no son solo normas
-   éticas: tienen un efecto directo sobre la salud física y emocional de las personas
-   involucradas en una relación.
+7. *(Alternativas — Evaluación)* ¿Por qué el consentimiento y la comunicación son centrales en cualquier relación afectiva o sexual?
+   a) Porque aseguran que ambas personas participen libre e informadamente y permiten acordar protección y expresar límites, reduciendo riesgos físicos y emocionales
+   b) Porque son solo formalidades sin efectos reales: una vez que la relación comienza, ya no es necesario volver a preguntar ni conversar sobre los límites de cada persona
+   c) Porque basta con que una persona decida
+   d) Porque reemplazan cualquier método de protección: si ambas personas están de acuerdo y se comunican bien, no existen riesgos físicos ni emocionales en la relación
+   **Respuesta correcta:** a) Porque aseguran que ambas personas participen libre e informadamente y permiten acordar protección y expresar límites, reduciendo riesgos físicos y emocionales.
+   **Retroalimentación:** No son solo exigencias éticas: tienen efectos directos sobre la salud física y emocional.
 
 ---
 
@@ -410,10 +374,10 @@ del cromosoma 21 en vez de dos.
 1. *(Alternativas)* ¿Cuál de los siguientes procesos es responsable de la regeneración
    de tejidos y la reparación de heridas en el cuerpo humano?
    a) La meiosis
-   b) La mitosis
+   b) La no disyunción
    c) La fecundación
-   d) La no disyunción
-   **Respuesta correcta:** b) La mitosis.
+   d) La mitosis
+   **Respuesta correcta:** d) La mitosis.
    **Retroalimentación:** La mitosis produce células hijas genéticamente idénticas a
    la célula original, lo que permite el crecimiento del organismo, la reparación de
    heridas y la regeneración de tejidos.
@@ -426,64 +390,45 @@ del cromosoma 21 en vez de dos.
    es necesario para que, al fecundarse, se restablezca el número completo de
    cromosomas de la especie.
 
-3. *(Clasificar)* Clasifica cada estructura según el nivel de organización del
-   material genético al que corresponde: molécula que contiene la información
-   genética; segmento de ADN que codifica una característica; estructura compacta de
-   ADN visible durante la división celular.
-   **Respuesta correcta:** ADN: molécula que contiene la información genética. Gen:
-   segmento de ADN que codifica una característica. Cromosoma: estructura compacta de
-   ADN visible durante la división celular.
-   **Retroalimentación:** Estos tres niveles —ADN, gen y cromosoma— están relacionados
-   jerárquicamente: los genes son segmentos de ADN, y el ADN se organiza en
-   cromosomas durante la división celular.
+3. *(Alternativas — Clasificar)* ¿Qué nivel de organización del material genético corresponde a: (1) molécula con la información genética; (2) segmento que codifica una característica; (3) estructura compacta visible en la división celular?
+   a) 1: gen; 2: cromosoma; 3: ADN
+   b) 1: cromosoma; 2: ADN; 3: gen
+   c) 1: ADN; 2: cromosoma; 3: gen
+   d) 1: ADN; 2: gen; 3: cromosoma
+   **Respuesta correcta:** d) 1: ADN; 2: gen; 3: cromosoma.
+   **Retroalimentación:** Los genes son segmentos de ADN, y el ADN se organiza en cromosomas durante la división celular.
 
-4. *(Desarrollo breve)* Explica por qué la meiosis, y no la mitosis, es el proceso que
-   permite la variación genética entre generaciones de una misma especie.
-   **Respuesta esperada:** La meiosis produce gametos genéticamente distintos entre sí
-   (a diferencia de la mitosis, que produce células idénticas), y al combinarse el
-   material genético de dos progenitores distintos durante la fecundación, se genera
-   una nueva combinación genética única en cada descendiente, lo que explica la
-   variación genética entre generaciones.
-   **Retroalimentación:** Esta variación generada por la meiosis y la fecundación es,
-   además, la base sobre la que actúa la selección natural en la evolución de las
-   especies.
+4. *(Alternativas)* ¿Por qué la meiosis, y no la mitosis, permite la variación genética entre generaciones?
+   a) Porque la meiosis produce células idénticas a la original y, al repetirse en cada generación, acumula pequeños errores que generan diferencias entre los descendientes
+   b) Porque produce gametos genéticamente distintos y, al combinarse el material de dos progenitores en la fecundación, cada descendiente es una combinación única
+   c) Porque la mitosis produce gametos con la mitad de los cromosomas, mientras la meiosis solo repara tejidos y no participa en la reproducción sexual de los organismos
+   d) Porque la meiosis solo ocurre en bacterias
+   **Respuesta correcta:** b) Porque produce gametos genéticamente distintos y, al combinarse el material de dos progenitores en la fecundación, cada descendiente es una combinación única.
+   **Retroalimentación:** Esta variación es además la base sobre la que actúa la selección natural.
 
-5. *(Análisis)* Explica por qué la pérdida de control de la proliferación celular
-   puede derivar en cáncer, relacionándolo con el concepto de regulación de la
-   división celular.
-   **Respuesta esperada:** Normalmente, la división celular está regulada por
-   mecanismos que controlan cuándo y cuánto se divide una célula; cuando estos
-   mecanismos de regulación fallan, las células pueden dividirse de forma
-   descontrolada, formando un tumor; si ese tumor es maligno, sus células pueden
-   además invadir tejidos vecinos y propagarse a otras partes del cuerpo, lo que
-   corresponde al cáncer.
-   **Retroalimentación:** Comprender el cáncer como una falla en la regulación de la
-   división celular ayuda a entender por qué muchos tratamientos buscan justamente
-   restaurar o detener ese control.
+5. *(Alternativas — Análisis)* ¿Por qué la pérdida de control de la proliferación celular puede derivar en cáncer?
+   a) Porque las células dejan de dividirse por completo y se acumulan sin morir, formando tumores que bloquean los órganos y luego invaden otros tejidos del cuerpo
+   b) Porque la división celular no está regulada normalmente en ningún tejido, y el cáncer aparece cuando las células se dividen más rápido de lo habitual por la edad
+   c) Porque al fallar los mecanismos que regulan la división, las células se dividen sin control formando tumores que, si son malignos, invaden otros tejidos
+   d) Porque el cáncer es causado solo por bacterias
+   **Respuesta correcta:** c) Porque al fallar los mecanismos que regulan la división, las células se dividen sin control formando tumores que, si son malignos, invaden otros tejidos.
+   **Retroalimentación:** Muchos tratamientos buscan restaurar o detener ese control.
 
-6. *(Análisis de evidencia)* El síndrome de Down se caracteriza por la presencia de
-   tres copias del cromosoma 21 en vez de dos. Explica cómo un error durante la
-   meiosis puede dar origen a esta condición.
-   **Respuesta esperada:** Durante la meiosis, puede ocurrir un error llamado no
-   disyunción, en el que un par de cromosomas no se separa correctamente; esto puede
-   producir un gameto (óvulo o espermatozoide) con una copia extra del cromosoma 21;
-   si ese gameto participa en la fecundación con un gameto normal, el organismo
-   resultante tendrá tres copias del cromosoma 21 en cada una de sus células, en vez
-   de las dos copias habituales.
-   **Retroalimentación:** Las trisomías, como la del síndrome de Down, son un ejemplo
-   de cómo un error puntual durante la meiosis puede tener consecuencias en todas las
-   células del organismo resultante.
+6. *(Alternativas — Análisis de evidencia)* El síndrome de Down se caracteriza por tres copias del cromosoma 21. ¿Cómo puede originarse en la meiosis?
+   a) Por no disyunción: un par de cromosomas no se separa y se forma un gameto con un cromosoma 21 extra que participa en la fecundación
+   b) Por una infección viral durante el embarazo, que daña el cromosoma 21 del embrión y lo duplica en todas sus células
+   c) Por exceso de mitosis en la piel
+   d) Porque el cromosoma 21 desaparece en la meiosis y, al faltar, el embrión produce tres copias para compensar la pérdida
+   **Respuesta correcta:** a) Por no disyunción: un par de cromosomas no se separa y se forma un gameto con un cromosoma 21 extra que participa en la fecundación.
+   **Retroalimentación:** Un error puntual en la meiosis puede tener consecuencias en todas las células del organismo resultante.
 
-7. *(Comparación)* Elabora una comparación entre la mitosis y la meiosis,
-   considerando al menos tres criterios: número de divisiones celulares, número de
-   células hijas producidas, y similitud genética entre las células hijas y la célula
-   original.
-   **Respuesta esperada:** Mitosis: una división celular, produce dos células hijas,
-   genéticamente idénticas entre sí y a la célula original. Meiosis: dos divisiones
-   celulares sucesivas, produce cuatro células hijas, genéticamente distintas entre
-   sí y con la mitad del número de cromosomas de la célula original.
-   **Retroalimentación:** Comparar sistemáticamente ambos procesos, criterio por
-   criterio, ayuda a evitar confusiones frecuentes entre mitosis y meiosis.
+7. *(Alternativas — Comparación)* ¿Qué comparación entre mitosis y meiosis es correcta?
+   a) Mitosis: dos divisiones, cuatro células distintas. Meiosis: una división, dos células idénticas
+   b) Ambas producen cuatro células idénticas a la célula madre, con el mismo número de cromosomas, después de una sola división
+   c) Ambas producen gametos con la mitad de cromosomas, y se diferencian solo en el tipo de célula en que ocurren
+   d) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas
+   **Respuesta correcta:** d) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas.
+   **Retroalimentación:** Comparar con criterios explícitos evita confusiones frecuentes entre ambos procesos.
 
 ---
 
@@ -556,10 +501,10 @@ genética, especialmente en seres humanos.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Qué se entiende por un organismo transgénico?
-   a) Un organismo que ha sufrido una mutación espontánea
+   a) Un organismo que ha sufrido una mutación espontánea en sus genes
    b) Un organismo al que se le ha insertado uno o más genes de otra especie
-   c) Un organismo producido exclusivamente por clonación
-   d) Un organismo que se reproduce por meiosis
+   c) Un organismo producido exclusivamente por clonación en un laboratorio
+   d) Un organismo que se reproduce por meiosis y fecundación cruzada
    **Respuesta correcta:** b) Un organismo al que se le ha insertado uno o más genes
    de otra especie.
    **Retroalimentación:** Un organismo transgénico incorpora, de forma deliberada,
@@ -575,65 +520,45 @@ genética, especialmente en seres humanos.
    fabricar esta proteína humana, un ejemplo clásico de biotecnología aplicada a la
    medicina.
 
-3. *(Clasificar)* Clasifica cada aplicación de la biotecnología según el ámbito al que
-   pertenece principalmente (alimentación, industria, energía o medicina): enzimas
-   para detergentes; producción de insulina; cultivos resistentes a plagas;
-   biocombustibles a partir de microorganismos.
-   **Respuesta correcta:** Industria: enzimas para detergentes. Medicina: producción
-   de insulina. Alimentación: cultivos resistentes a plagas. Energía:
-   biocombustibles.
-   **Retroalimentación:** La biotecnología moderna atraviesa prácticamente todos los
-   sectores productivos, desde la agricultura hasta la energía y la salud.
+3. *(Alternativas — Clasificar)* ¿A qué ámbito pertenece cada aplicación: enzimas para detergentes; producción de insulina; cultivos resistentes a plagas; biocombustibles a partir de microorganismos?
+   a) Medicina, industria, energía y alimentación
+   b) Industria, medicina, alimentación y energía
+   c) Alimentación, energía, industria y medicina
+   d) Energía, alimentación, medicina e industria
+   **Respuesta correcta:** b) Industria, medicina, alimentación y energía.
+   **Retroalimentación:** La biotecnología tiene aplicaciones en sectores productivos muy diversos.
 
-4. *(Desarrollo breve)* Explica la diferencia entre ingeniería genética y terapia
-   génica.
-   **Respuesta esperada:** La ingeniería genética es el conjunto general de técnicas
-   que permiten modificar el material genético de un organismo (insertar, eliminar o
-   cambiar genes); la terapia génica es una aplicación específica de esas técnicas,
-   orientada a tratar o prevenir enfermedades en seres humanos corrigiendo o
-   reemplazando genes defectuosos en las células de un paciente.
-   **Retroalimentación:** La terapia génica es un subconjunto de las aplicaciones
-   médicas de la ingeniería genética, enfocado específicamente en el tratamiento de
-   enfermedades.
+4. *(Alternativas)* ¿Cuál es la diferencia entre ingeniería genética y terapia génica?
+   a) Son exactamente lo mismo: ambos nombres se refieren a las técnicas que corrigen genes en pacientes, y se usan como sinónimos en la medicina actual
+   b) La terapia génica es el conjunto de técnicas para modificar el material genético de plantas y animales; la ingeniería genética es una aplicación de ellas que solo se usa para tratar enfermedades en personas
+   c) La ingeniería genética es el conjunto de técnicas para modificar el material genético; la terapia génica es una aplicación de ellas para tratar enfermedades corrigiendo genes en pacientes
+   d) La ingeniería genética no modifica genes
+   **Respuesta correcta:** c) La ingeniería genética es el conjunto de técnicas para modificar el material genético; la terapia génica es una aplicación de ellas para tratar enfermedades corrigiendo genes en pacientes.
+   **Retroalimentación:** La terapia génica es una de las aplicaciones médicas de la ingeniería genética.
 
-5. *(Análisis/evaluación económica)* Evalúa el impacto económico y ambiental que
-   puede tener el uso de cultivos transgénicos resistentes a plagas, considerando
-   tanto ventajas como posibles preocupaciones.
-   **Respuesta esperada:** Ventajas: puede reducir el uso de pesticidas (menor impacto
-   ambiental y menor costo para el agricultor) y aumentar el rendimiento del cultivo.
-   Preocupaciones: puede generar dependencia de empresas que poseen las patentes de
-   las semillas transgénicas, y existen interrogantes sobre los efectos a largo plazo
-   de estos cultivos sobre la biodiversidad y los ecosistemas locales.
-   **Retroalimentación:** Evaluar la biotecnología agrícola requiere sopesar
-   beneficios productivos y ambientales concretos frente a riesgos e interrogantes
-   que aún se investigan.
+5. *(Varias correctas — Evaluación)* Sobre los cultivos transgénicos resistentes a plagas, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
+   a) Pueden reducir el uso de pesticidas y aumentar el rendimiento
+   b) Pueden generar dependencia de las empresas que poseen las patentes de semillas
+   c) Existen interrogantes sobre sus efectos a largo plazo en la biodiversidad
+   d) Está demostrado que no tienen ningún impacto económico ni ambiental
+   **Respuesta correcta:** a, b y c.
+   **Retroalimentación:** Evaluarlos implica sopesar beneficios productivos y ambientales frente a riesgos que aún se investigan.
 
-6. *(Evaluación ética)* Evalúa la siguiente afirmación: "si una tecnología biotecnológica
-   trae beneficios económicos y de salud, no es necesario evaluar sus implicancias
-   éticas y sociales." Justifica tu evaluación.
-   **Respuesta esperada:** La afirmación es incorrecta: aunque una tecnología traiga
-   beneficios, igualmente pueden existir implicancias éticas y sociales relevantes,
-   como el acceso equitativo a esa tecnología (por ejemplo, si un fármaco
-   biotecnológico es accesible solo para quienes pueden pagarlo), la necesidad de
-   informar adecuadamente a la población (como el etiquetado de alimentos
-   transgénicos) o los límites que debieran existir para su aplicación, especialmente
-   en seres humanos.
-   **Retroalimentación:** Evaluar una tecnología de forma integral implica considerar
-   sus beneficios junto con sus implicancias éticas, sociales y de acceso equitativo,
-   no solo sus beneficios técnicos o económicos.
+6. *(Alternativas — Evaluación ética)* "Si una tecnología biotecnológica trae beneficios económicos y de salud, no es necesario evaluar sus implicancias éticas y sociales." ¿Qué evaluación es correcta?
+   a) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos
+   b) Es correcta: los beneficios económicos y de salud justifican cualquier uso de la biotecnología, sin necesidad de evaluar sus efectos sociales
+   c) Es correcta: la ética no se aplica a la ciencia, porque los científicos solo deben preocuparse de que sus resultados sean verdaderos
+   d) Es incorrecta: la biotecnología no tiene ningún beneficio económico ni de salud, por lo que siempre debería prohibirse su aplicación
+   **Respuesta correcta:** a) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos.
+   **Retroalimentación:** Evaluar una tecnología implica considerar sus beneficios junto con sus implicancias éticas y de acceso.
 
-7. *(Aplicación/investigación)* Investiga y describe un ejemplo de aplicación de la
-   biotecnología presente en productos de uso cotidiano en Chile (alimentos,
-   vestuario, productos de limpieza o fármacos), señalando al menos un beneficio y una
-   posible implicancia social o ética asociada.
-   **Respuesta esperada:** Respuesta abierta; por ejemplo, el uso de vacunas
-   producidas mediante biotecnología: beneficio, previenen enfermedades de forma
-   eficaz y a gran escala; implicancia social, la necesidad de asegurar un acceso
-   equitativo a la vacunación en toda la población, independientemente del nivel
-   socioeconómico.
-   **Retroalimentación:** Identificar aplicaciones biotecnológicas en el propio
-   entorno ayuda a comprender que esta tecnología ya forma parte de la vida cotidiana,
-   más allá de lo que se percibe a primera vista.
+7. *(Alternativas — Aplicación)* Sobre las vacunas producidas mediante biotecnología, ¿qué opción señala un beneficio y una implicancia social?
+   a) Beneficio: ninguno. Implicancia: ninguna
+   b) Beneficio: reemplazan la alimentación y las defensas naturales del cuerpo. Implicancia: aumentan las enfermedades al debilitar el sistema inmune
+   c) Beneficio: solo sirven a quienes pueden pagarlas en clínicas privadas. Implicancia: ninguna, porque su distribución no afecta a la sociedad
+   d) Beneficio: previenen enfermedades eficazmente y a gran escala. Implicancia: asegurar el acceso equitativo a toda la población
+   **Respuesta correcta:** d) Beneficio: previenen enfermedades eficazmente y a gran escala. Implicancia: asegurar el acceso equitativo a toda la población.
+   **Retroalimentación:** La biotecnología ya forma parte de la vida cotidiana más allá de lo que se percibe.
 
 ---
 
@@ -719,56 +644,45 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
    movimiento rectilíneo uniformemente acelerado (MRUA) donde la velocidad cambia de
    manera constante en el tiempo, debido a la aceleración.
 
-3. *(Clasificar)* Clasifica cada situación como MRU o MRUA: un auto que viaja en
-   línea recta por una carretera a velocidad constante de 100 km/h; un auto que frena
-   en línea recta disminuyendo su velocidad de forma constante hasta detenerse; un
-   objeto en caída libre cerca de la superficie terrestre.
-   **Respuesta correcta:** MRU: auto que viaja a velocidad constante. MRUA: auto que
-   frena disminuyendo su velocidad de forma constante; objeto en caída libre (acelera
-   constantemente por efecto de la gravedad).
-   **Retroalimentación:** La clave para distinguir ambos tipos de movimiento es si la
-   velocidad se mantiene constante (MRU) o cambia de manera constante en el tiempo
-   (MRUA).
+3. *(Varias correctas — Clasificar)* ¿Cuáles de estas situaciones corresponden a un **MRUA**? Marca **todas** las correctas.
+   a) Un auto que frena en línea recta disminuyendo su velocidad de forma constante
+   b) Un objeto en caída libre cerca de la superficie terrestre
+   c) Un auto que viaja en línea recta a 100 km/h constantes
+   d) Un objeto en reposo sobre una mesa
+   **Respuesta correcta:** a y b.
+   **Retroalimentación:** En el MRUA la velocidad cambia de manera constante; a velocidad constante es MRU.
 
-4. *(Desarrollo breve)* Explica la diferencia entre distancia recorrida y
-   desplazamiento, dando un ejemplo en que ambas magnitudes sean distintas.
-   **Respuesta esperada:** La distancia recorrida es la longitud total del camino
-   recorrido por un objeto (magnitud escalar); el desplazamiento es el cambio de
-   posición entre el punto inicial y el final (magnitud vectorial, considera
-   dirección). Por ejemplo, si una persona camina 100 m hacia el norte y luego regresa
-   los mismos 100 m hacia el punto de partida, la distancia recorrida es 200 m, pero
-   el desplazamiento es 0, porque termina en el mismo lugar donde comenzó.
-   **Retroalimentación:** Esta diferencia es clave para entender por qué, en
-   trayectorias que no son en línea recta y en un solo sentido, la rapidez media y la
-   velocidad media pueden tener valores distintos.
+4. *(Alternativas)* Una persona camina 100 m al norte y regresa al punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?
+   a) Distancia: 0; desplazamiento: 200 m
+   b) Distancia: 200 m; desplazamiento: 0
+   c) Distancia y desplazamiento: 100 m
+   d) Distancia y desplazamiento: 200 m
+   **Respuesta correcta:** b) Distancia: 200 m; desplazamiento: 0.
+   **Retroalimentación:** La distancia es la longitud total del camino (escalar); el desplazamiento es el cambio de posición entre inicio y final (vectorial).
 
-5. *(Análisis/cálculo)* Un ciclista parte del reposo y acelera de manera constante,
-   alcanzando una velocidad de 12 m/s luego de 6 segundos. Calcula su aceleración.
-   **Respuesta correcta:** \( a = \frac{v_f - v_i}{t} = \frac{12\text{ m/s} - 0\text{ m/s}}{6\text{ s}} = 2\text{ m/s}^2 \).
-   **Retroalimentación:** Una aceleración de 2 m/s² significa que la velocidad del
-   ciclista aumenta en 2 m/s durante cada segundo transcurrido.
+5. *(Alternativas — Cálculo)* Un ciclista parte del reposo y alcanza 12 m/s en 6 segundos con aceleración constante. ¿Cuál es su aceleración?
+   a) 72 m/s²
+   b) 6 m/s²
+   c) 2 m/s²
+   d) 0,5 m/s²
+   **Respuesta correcta:** c) 2 m/s².
+   **Retroalimentación:** a = (12 − 0)/6 = 2 m/s²: su velocidad aumenta 2 m/s cada segundo.
 
-6. *(Análisis/cálculo con MRU)* Dos autos parten al mismo tiempo desde el mismo punto,
-   en el mismo sentido, por una carretera recta: el auto A a 90 km/h y el auto B a 70
-   km/h. Calcula la distancia que los separa después de 2 horas, usando la fórmula de
-   adición de velocidades de Galileo para la velocidad relativa entre ambos.
-   **Respuesta correcta:** Velocidad relativa entre A y B = 90 km/h − 70 km/h = 20
-   km/h. Distancia entre ambos después de 2 horas = 20 km/h × 2 h = 40 km.
-   **Retroalimentación:** Calcular primero la velocidad relativa entre ambos móviles
-   simplifica el cálculo de la distancia que los separa en cualquier instante, en vez
-   de calcular la posición de cada uno por separado.
+6. *(Alternativas — Cálculo)* Dos autos parten juntos en el mismo sentido: A a 90 km/h y B a 70 km/h. Usando la velocidad relativa, ¿qué distancia los separa después de 2 horas?
+   a) 40 km
+   b) 320 km
+   c) 20 km
+   d) 160 km
+   **Respuesta correcta:** a) 40 km.
+   **Retroalimentación:** Velocidad relativa: 90 − 70 = 20 km/h; en 2 h, 40 km.
 
-7. *(Análisis de gráficos)* Un gráfico de velocidad en función del tiempo muestra una
-   recta horizontal durante los primeros 10 segundos, y luego una recta con pendiente
-   negativa hasta llegar a cero a los 15 segundos. Describe el movimiento del objeto
-   en cada tramo.
-   **Respuesta esperada:** Durante los primeros 10 segundos, el objeto se mueve con
-   velocidad constante (MRU), ya que la velocidad no cambia en el tiempo (pendiente
-   cero). Entre los 10 y los 15 segundos, el objeto desacelera de manera constante
-   (MRUA con aceleración negativa) hasta detenerse por completo a los 15 segundos.
-   **Retroalimentación:** Interpretar gráficos de velocidad en función del tiempo
-   permite reconstruir la historia completa del movimiento de un objeto sin necesidad
-   de observarlo directamente.
+7. *(Alternativas — Análisis de gráficos)* Un gráfico v-t muestra una recta horizontal los primeros 10 s y luego una recta de pendiente negativa hasta cero a los 15 s. ¿Qué describe?
+   a) Reposo durante 10 s y luego aceleración constante hasta los 15 s en sentido contrario
+   b) Aceleración constante durante todo el trayecto
+   c) Movimiento hacia atrás desde el inicio, cada vez más rápido
+   d) MRU durante 10 s y luego desaceleración constante hasta detenerse a los 15 s
+   **Respuesta correcta:** d) MRU durante 10 s y luego desaceleración constante hasta detenerse a los 15 s.
+   **Retroalimentación:** La pendiente de un gráfico v-t representa la aceleración.
 
 ---
 
@@ -849,66 +763,45 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    cuerpos distintos (uno ejerce la fuerza sobre el otro, y viceversa), por lo que
    nunca se anulan entre sí; solo se anularían si actuaran sobre el mismo cuerpo.
 
-3. *(Clasificar)* Clasifica cada situación según la ley de Newton que ilustra
-   principalmente (primera, segunda o tercera): un cohete expulsa gases hacia abajo y
-   se impulsa hacia arriba; un objeto en reposo sobre una mesa permanece en reposo
-   mientras no actúe una fuerza neta sobre él; al aplicar el doble de fuerza sobre un
-   mismo objeto, su aceleración se duplica.
-   **Respuesta correcta:** Tercera ley: el cohete y los gases expulsados. Primera ley:
-   el objeto en reposo sobre la mesa. Segunda ley: la relación proporcional entre
-   fuerza y aceleración.
-   **Retroalimentación:** Cada ley de Newton describe un aspecto distinto de la
-   relación entre fuerzas y movimiento: la inercia, la relación cuantitativa
-   fuerza-aceleración, y la interacción entre dos cuerpos.
+3. *(Alternativas — Clasificar)* ¿Qué ley de Newton ilustra cada situación: (1) un cohete expulsa gases hacia abajo y sube; (2) un objeto en reposo permanece así sin fuerza neta; (3) al duplicar la fuerza sobre un objeto, su aceleración se duplica?
+   a) 1: primera; 2: segunda; 3: tercera
+   b) 1: tercera; 2: primera; 3: segunda
+   c) 1: segunda; 2: tercera; 3: primera
+   d) 1: tercera; 2: segunda; 3: primera
+   **Respuesta correcta:** b) 1: tercera; 2: primera; 3: segunda.
+   **Retroalimentación:** Inercia, vínculo cuantitativo fuerza-aceleración e interacción entre cuerpos.
 
-4. *(Desarrollo breve)* Explica, usando la primera ley de Newton, por qué es
-   importante usar cinturón de seguridad en un vehículo.
-   **Respuesta esperada:** Según la primera ley de Newton, el cuerpo de un pasajero
-   tiende a mantener su estado de movimiento (por ejemplo, seguir moviéndose hacia
-   adelante) aunque el vehículo se detenga bruscamente en una colisión; el cinturón de
-   seguridad ejerce una fuerza sobre el cuerpo del pasajero para cambiar su estado de
-   movimiento junto con el vehículo, evitando que continúe desplazándose hacia
-   adelante por inercia y sufra lesiones graves.
-   **Retroalimentación:** La inercia no es una fuerza, sino la tendencia natural de
-   los cuerpos a mantener su estado de movimiento; el cinturón de seguridad es la
-   fuerza externa necesaria para modificar ese estado de forma segura.
+4. *(Alternativas)* Según la primera ley de Newton, ¿por qué es importante el cinturón de seguridad?
+   a) Porque aumenta la velocidad del auto en un frenazo, de modo que el vehículo se detiene antes y el cuerpo del pasajero no alcanza a moverse
+   b) Porque elimina la gravedad durante el choque: al anular el peso del pasajero, el cuerpo deja de tener inercia y queda fijo en el asiento
+   c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo
+   d) Porque la primera ley no se aplica a los pasajeros, solo al vehículo; el cinturón sirve para que la fuerza del motor actúe también sobre el cuerpo
+   **Respuesta correcta:** c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo.
+   **Retroalimentación:** El cinturón es la fuerza externa que modifica de forma segura el estado de movimiento.
 
-5. *(Análisis/cálculo con diagrama de cuerpo libre)* Un objeto de 5 kg descansa sobre
-   una superficie horizontal. Sobre él actúa una fuerza horizontal aplicada de 15 N, y
-   una fuerza de roce de 5 N en sentido contrario. Calcula la fuerza neta y la
-   aceleración del objeto.
-   **Respuesta correcta:** Fuerza neta = 15 N − 5 N = 10 N (en el sentido de la fuerza
-   aplicada). Aceleración = fuerza neta / masa = 10 N / 5 kg = 2 m/s².
-   **Retroalimentación:** El diagrama de cuerpo libre permite identificar todas las
-   fuerzas horizontales que actúan sobre el objeto, sumarlas vectorialmente para
-   obtener la fuerza neta, y luego aplicar la segunda ley de Newton para calcular la
-   aceleración resultante.
+5. *(Alternativas — Cálculo)* Un objeto de 5 kg recibe una fuerza horizontal de 15 N y un roce de 5 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
+   a) 10 N y 2 m/s²
+   b) 20 N y 4 m/s²
+   c) 10 N y 50 m/s²
+   d) 15 N y 3 m/s²
+   **Respuesta correcta:** a) 10 N y 2 m/s².
+   **Retroalimentación:** Fuerza neta: 15 − 5 = 10 N; a = 10 N / 5 kg = 2 m/s².
 
-6. *(Análisis)* Un objeto se mueve con velocidad constante en línea recta. Explica qué
-   se puede concluir sobre la fuerza neta que actúa sobre él, y justifica tu respuesta
-   usando la primera ley de Newton.
-   **Respuesta esperada:** Si el objeto se mueve con velocidad constante en línea
-   recta, la fuerza neta que actúa sobre él debe ser igual a cero, ya que, según la
-   primera ley de Newton, un objeto solo cambia su estado de movimiento (acelera o
-   desacelera) cuando actúa sobre él una fuerza neta distinta de cero; esto no
-   significa que no actúen fuerzas sobre el objeto, sino que todas las fuerzas que
-   actúan sobre él se cancelan entre sí.
-   **Retroalimentación:** Un error común es pensar que "no hay fuerzas" cuando un
-   objeto se mueve a velocidad constante; en realidad, pueden existir varias fuerzas
-   actuando, pero su suma vectorial (fuerza neta) es cero.
+6. *(Alternativas — Análisis)* Un objeto se mueve con velocidad constante en línea recta. ¿Qué se concluye sobre la fuerza neta?
+   a) Es muy grande y constante
+   b) No actúa ninguna fuerza sobre el objeto en movimiento
+   c) Aumenta a medida que avanza
+   d) Es cero: las fuerzas que actúan se cancelan entre sí
+   **Respuesta correcta:** d) Es cero: las fuerzas que actúan se cancelan entre sí.
+   **Retroalimentación:** Que la fuerza neta sea cero no significa que no actúen fuerzas, sino que su suma vectorial es nula.
 
-7. *(Aplicación/investigación experimental)* Diseña brevemente un experimento simple
-   (con materiales cotidianos) que permita comprobar que, para una misma fuerza
-   aplicada, un objeto de mayor masa experimenta una menor aceleración que uno de
-   menor masa.
-   **Respuesta esperada:** Por ejemplo: usar dos carritos de igual forma pero distinta
-   masa (uno vacío y otro cargado con peso adicional), aplicar la misma fuerza a
-   ambos mediante un elástico estirado la misma distancia, y medir con un cronómetro
-   cuánto tiempo demora cada uno en recorrer la misma distancia; el carrito de mayor
-   masa debería demorar más tiempo (menor aceleración) que el de menor masa.
-   **Retroalimentación:** Diseñar experimentos que mantengan constante una variable
-   (la fuerza aplicada) mientras se varía otra (la masa) permite comprobar
-   experimentalmente la relación cuantitativa que predice la segunda ley de Newton.
+7. *(Alternativas — Diseño experimental)* ¿Qué experimento comprueba que, con una misma fuerza, un objeto de mayor masa acelera menos?
+   a) Empujar el mismo carrito con fuerzas distintas y medir cuánto demora en recorrer la misma distancia con cada fuerza aplicada por el carrito
+   b) Empujar dos carritos de distinta masa con un elástico estirado la misma distancia y medir cuánto demora cada uno en recorrer la misma distancia
+   c) Pesar los carritos sin moverlos
+   d) Empujar carritos de distinta masa con fuerzas distintas al azar y comparar a simple vista cuál llega primero a la meta
+   **Respuesta correcta:** b) Empujar dos carritos de distinta masa con un elástico estirado la misma distancia y medir cuánto demora cada uno en recorrer la misma distancia.
+   **Retroalimentación:** Mantener constante la fuerza y variar la masa permite comprobar la segunda ley de Newton.
 
 ---
 
@@ -1000,66 +893,45 @@ livianos observada en el Universo.
    heliocéntrico: las lunas de Júpiter demostraron que no todo gira en torno a la
    Tierra, y las fases de Venus eran consistentes con que este planeta orbita el Sol.
 
-3. *(Clasificar)* Clasifica el aporte principal de cada científico al estudio del
-   Universo: propuso el modelo heliocéntrico; realizó observaciones astronómicas de
-   gran precisión sin telescopio; observó las lunas de Júpiter y las fases de Venus;
-   explicó matemáticamente, mediante la gravitación, por qué los planetas orbitan el
-   Sol.
-   **Respuesta correcta:** Copérnico: propuso el modelo heliocéntrico. Brahe:
-   observaciones astronómicas de gran precisión sin telescopio. Galileo: observó las
-   lunas de Júpiter y las fases de Venus. Newton: explicó matemáticamente, mediante la
-   gravitación, la órbita de los planetas.
-   **Retroalimentación:** El cambio del modelo geocéntrico al heliocéntrico fue un
-   proceso acumulativo, con aportes de varios científicos a lo largo de más de un
-   siglo, y no un descubrimiento de una sola persona.
+3. *(Alternativas — Clasificar)* ¿Qué aporte corresponde a cada científico: heliocentrismo; observaciones precisas sin telescopio; lunas de Júpiter y fases de Venus; gravitación de los planetas?
+   a) Galileo, Newton, Copérnico y Brahe
+   b) Brahe, Copérnico, Newton y Galileo
+   c) Copérnico, Brahe, Galileo y Newton
+   d) Newton, Galileo, Brahe y Copérnico
+   **Respuesta correcta:** c) Copérnico, Brahe, Galileo y Newton.
+   **Retroalimentación:** La revolución astronómica fue un proceso acumulativo con aportes de varios científicos.
 
-4. *(Desarrollo breve)* Explica por qué el paso del modelo geocéntrico al modelo
-   heliocéntrico es un buen ejemplo de cómo funciona el conocimiento científico.
-   **Respuesta esperada:** El conocimiento científico no es estático: los modelos se
-   proponen a partir de la evidencia disponible en un momento dado, y cambian o se
-   reemplazan cuando surge nueva evidencia que los contradice, o cuando un nuevo
-   modelo explica las mismas observaciones de forma más simple y precisa, como ocurrió
-   cuando el modelo heliocéntrico, apoyado por las observaciones de Galileo y la
-   física de Newton, reemplazó al modelo geocéntrico.
-   **Retroalimentación:** Comprender que los modelos científicos son revisables, y no
-   verdades definitivas, es central para entender la naturaleza del conocimiento
-   científico.
+4. *(Alternativas)* ¿Por qué el paso del modelo geocéntrico al heliocéntrico ejemplifica cómo funciona el conocimiento científico?
+   a) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro modelo explica lo mismo de forma más simple y precisa
+   b) Porque la ciencia nunca cambia sus modelos
+   c) Porque el modelo geocéntrico sigue siendo el aceptado, y el heliocéntrico se usa solo como una forma más simple de enseñar los movimientos planetarios
+   d) Porque los modelos científicos son verdades definitivas: una vez aceptado el heliocéntrico, la ciencia demostró que el geocéntrico nunca tuvo evidencia
+   **Respuesta correcta:** a) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro modelo explica lo mismo de forma más simple y precisa.
+   **Retroalimentación:** Entender que los modelos son provisionales es central para comprender la ciencia.
 
-5. *(Análisis de evidencia)* Explica cómo el corrimiento al rojo observado en la luz
-   de galaxias lejanas constituye evidencia a favor de la teoría del Big Bang.
-   **Respuesta esperada:** El corrimiento al rojo indica que las galaxias lejanas se
-   están alejando de la Tierra, y mientras más lejana está una galaxia, mayor es su
-   corrimiento al rojo (se aleja más rápido); este patrón es consistente con un
-   Universo que se expande en todas direcciones desde un estado inicial mucho más
-   denso y compacto, tal como propone la teoría del Big Bang.
-   **Retroalimentación:** El corrimiento al rojo es una de las principales líneas de
-   evidencia observacional que sustentan la teoría del Big Bang, junto con la
-   radiación cósmica de fondo.
+5. *(Alternativas — Análisis de evidencia)* ¿Cómo el corrimiento al rojo de galaxias lejanas apoya la teoría del Big Bang?
+   a) Indica que las galaxias se acercan a la Tierra, y más rápido mientras más lejanas están, lo que es consistente con un universo que se contrae hacia un punto
+   b) Indica que el universo está detenido: el color rojo se debe al polvo que hay entre las galaxias, que absorbe la luz azul a lo largo del camino
+   c) Indica que las galaxias son rojas porque sus estrellas son viejas y frías, lo que demuestra que el universo tiene una edad fija y no cambia
+   d) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso
+   **Respuesta correcta:** d) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso.
+   **Retroalimentación:** Junto con la radiación cósmica de fondo, es una de las principales evidencias del Big Bang.
 
-6. *(Análisis comparativo)* Compara las virtudes y limitaciones del modelo
-   geocéntrico y del modelo heliocéntrico para explicar el movimiento retrógrado
-   aparente de planetas como Marte.
-   **Respuesta esperada:** El modelo geocéntrico podía explicar el movimiento
-   retrógrado, pero solo agregando mecanismos matemáticos adicionales cada vez más
-   complejos (epiciclos), lo que lo hacía poco simple. El modelo heliocéntrico explica
-   el mismo fenómeno de forma más directa, como resultado de las distintas
-   velocidades orbitales de la Tierra y Marte alrededor del Sol, sin necesidad de
-   mecanismos adicionales.
-   **Retroalimentación:** Que un modelo científico explique las observaciones de
-   forma más simple, sin perder precisión, es uno de los criterios que los
-   científicos consideran al preferir un modelo sobre otro.
+6. *(Alternativas — Comparación)* ¿Cómo explican el movimiento retrógrado aparente de Marte los modelos geocéntrico y heliocéntrico?
+   a) El geocéntrico lo explica de forma más simple, porque considera que Marte se detiene y retrocede en su órbita alrededor de la Tierra
+   b) El geocéntrico necesitaba epiciclos cada vez más complejos; el heliocéntrico lo explica directamente por las distintas velocidades orbitales de la Tierra y Marte
+   c) Ninguno de los dos puede explicarlo
+   d) El heliocéntrico necesitaba epiciclos cada vez más complejos; el geocéntrico lo explica directamente porque Marte gira alrededor de la Tierra con distintas velocidades
+   **Respuesta correcta:** b) El geocéntrico necesitaba epiciclos cada vez más complejos; el heliocéntrico lo explica directamente por las distintas velocidades orbitales de la Tierra y Marte.
+   **Retroalimentación:** Explicar lo mismo de forma más simple, sin perder precisión, es un criterio para preferir un modelo.
 
-7. *(Aplicación/síntesis)* Explica cualitativamente en qué consiste la teoría del Big
-   Bang, incluyendo qué le ocurre al Universo desde su origen hasta la actualidad
-   según esta teoría.
-   **Respuesta esperada:** Según la teoría del Big Bang, el Universo comenzó a
-   expandirse hace aproximadamente 13.800 millones de años, a partir de un estado
-   extremadamente denso y caliente; desde entonces, el Universo se ha ido expandiendo
-   y enfriando progresivamente, permitiendo la formación de partículas, átomos,
-   estrellas, galaxias y, eventualmente, sistemas planetarios como el nuestro.
-   **Retroalimentación:** El Big Bang no describe una "explosión" en un punto del
-   espacio ya existente, sino la expansión del espacio mismo desde un estado inicial
-   sumamente compacto.
+7. *(Alternativas — Síntesis)* ¿Qué propone la teoría del Big Bang?
+   a) Que el universo fue siempre igual y no cambia: las galaxias se mantienen a la misma distancia y la materia existe desde siempre en el mismo estado
+   b) Que una explosión ocurrió dentro de un espacio ya existente hace unos 6.000 años, lanzando la materia en todas direcciones y formando de inmediato las estrellas y galaxias actuales
+   c) Que el universo comenzó a expandirse hace unos 13.800 millones de años desde un estado muy denso y caliente, enfriándose y formando partículas, átomos, estrellas y galaxias
+   d) Que la Tierra es el centro del universo
+   **Respuesta correcta:** c) Que el universo comenzó a expandirse hace unos 13.800 millones de años desde un estado muy denso y caliente, enfriándose y formando partículas, átomos, estrellas y galaxias.
+   **Retroalimentación:** No se trata de una explosión en un espacio preexistente, sino de la expansión del espacio mismo.
 
 ---
 
@@ -1131,10 +1003,10 @@ electricidad, a diferencia del agua pura, que es un conductor eléctrico muy pob
 
 1. *(Alternativas)* En una solución de agua con azúcar, ¿cuál de los dos componentes
    corresponde al soluto?
-   a) El agua, porque está en mayor cantidad
+   a) El agua, porque está en mayor cantidad y disuelve al azúcar
    b) El azúcar, porque está en menor cantidad y se disuelve
-   c) Ambos son solventes
-   d) Ninguno, porque es una mezcla heterogénea
+   c) Ambos son solventes, porque se mezclan en partes iguales
+   d) Ninguno, porque el agua con azúcar es una mezcla heterogénea
    **Respuesta correcta:** b) El azúcar, porque está en menor cantidad y se disuelve.
    **Retroalimentación:** El soluto es la sustancia que se disuelve y que
    generalmente se encuentra en menor proporción; el solvente es la sustancia que se
@@ -1148,56 +1020,45 @@ electricidad, a diferencia del agua pura, que es un conductor eléctrico muy pob
    disminuye al aumentar la temperatura, a diferencia de la mayoría de los solutos
    sólidos, cuya solubilidad suele aumentar con la temperatura.
 
-3. *(Clasificar)* Clasifica cada solución según su estado físico (sólida, líquida o
-   gaseosa): el aire que respiramos; el bronce (aleación de cobre y estaño); el
-   vinagre (ácido acético disuelto en agua).
-   **Respuesta correcta:** Gaseosa: el aire. Sólida: el bronce. Líquida: el vinagre.
-   **Retroalimentación:** Aunque solemos asociar el concepto de "solución" solo a
-   líquidos, las soluciones también pueden ser sólidas (aleaciones) o gaseosas, como
-   el aire que respiramos.
+3. *(Alternativas — Clasificar)* ¿Cuál es el estado físico de cada solución: el aire; el bronce (cobre y estaño); el vinagre (ácido acético en agua)?
+   a) Gaseosa, sólida y líquida
+   b) Líquida, gaseosa y sólida
+   c) Sólida, líquida y gaseosa
+   d) Las tres son líquidas
+   **Respuesta correcta:** a) Gaseosa, sólida y líquida.
+   **Retroalimentación:** Las soluciones también pueden ser sólidas (aleaciones) o gaseosas, como el aire.
 
-4. *(Desarrollo breve)* Explica qué significa que una solución esté "saturada", y qué
-   ocurre si se intenta disolver más soluto en una solución ya saturada.
-   **Respuesta esperada:** Una solución saturada es aquella que contiene la máxima
-   cantidad de soluto que puede disolverse en una cantidad determinada de solvente, a
-   una temperatura dada; si se intenta disolver más soluto en una solución ya
-   saturada, este ya no se disuelve y comienza a precipitar o depositarse en el fondo
-   del recipiente.
-   **Retroalimentación:** El punto de saturación depende directamente de la
-   temperatura: una solución saturada a baja temperatura puede dejar de estarlo si se
-   calienta, ya que su solubilidad (para solutos sólidos) aumentará.
+4. *(Alternativas)* ¿Qué significa que una solución esté "saturada" y qué ocurre si se agrega más soluto?
+   a) Contiene poco soluto en relación con el solvente, y por eso todavía puede disolver mucha más cantidad sin que se deposite nada
+   b) No tiene solvente: el soluto se encuentra puro y, si se agrega más, simplemente se acumula en el recipiente como un sólido
+   c) Contiene la máxima cantidad de soluto, pero el soluto extra igual se disuelve sin límite si se revuelve con más fuerza
+   d) Contiene la máxima cantidad de soluto disoluble a esa temperatura; el soluto extra ya no se disuelve y se deposita en el fondo
+   **Respuesta correcta:** d) Contiene la máxima cantidad de soluto disoluble a esa temperatura; el soluto extra ya no se disuelve y se deposita en el fondo.
+   **Retroalimentación:** La saturación depende de la temperatura: al calentarla, la solubilidad de los solutos sólidos suele aumentar.
 
-5. *(Análisis/cálculo)* Se prepara una solución disolviendo 15 g de sal en agua hasta
-   obtener 300 g de solución total. Calcula la concentración porcentual masa/masa de
-   esta solución.
-   **Respuesta correcta:** Concentración %m/m = (15 g de soluto ÷ 300 g de solución) ×
-   100 = 5% m/m.
-   **Retroalimentación:** El porcentaje masa/masa siempre se calcula respecto a la
-   masa total de la solución (soluto más solvente), no solo respecto a la masa del
-   solvente.
+5. *(Alternativas — Cálculo)* Se disuelven 15 g de sal hasta obtener 300 g de solución. ¿Cuál es la concentración % m/m?
+   a) 20% m/m
+   b) 15% m/m
+   c) 5,26% m/m
+   d) 5% m/m
+   **Respuesta correcta:** d) 5% m/m.
+   **Retroalimentación:** (15 g / 300 g) × 100 = 5%; se divide por la masa total de la solución, no solo por la del solvente (5,26% resulta de dividir por 285 g).
 
-6. *(Análisis/aplicación)* Explica por qué el suero fisiológico, usado en tratamientos
-   médicos, conduce la electricidad, a diferencia del agua destilada pura.
-   **Respuesta esperada:** El suero fisiológico contiene cloruro de sodio disuelto en
-   agua; al disolverse, este soluto se disocia en iones (sodio y cloruro) que pueden
-   desplazarse en la solución y transportar carga eléctrica, lo que le confiere
-   conductividad eléctrica. El agua destilada pura no contiene estos iones disueltos,
-   por lo que su conductividad eléctrica es muy baja.
-   **Retroalimentación:** La conductividad eléctrica de una solución es una propiedad
-   directamente relacionada con la presencia de iones disueltos provenientes del
-   soluto, y es una de las formas en que la presencia de un soluto modifica las
-   propiedades del solvente puro.
+6. *(Alternativas — Aplicación)* ¿Por qué el suero fisiológico conduce la electricidad y el agua destilada pura casi no?
+   a) Porque el agua destilada tiene más sal que el suero, y la sal impide el paso de la corriente eléctrica a través del líquido
+   b) Porque el suero contiene metales sólidos en suspensión, que conducen la electricidad igual que un cable de cobre
+   c) Porque el cloruro de sodio disuelto se disocia en iones que transportan carga, mientras el agua destilada no tiene iones disueltos
+   d) Porque ninguna de las dos conduce electricidad: el suero solo parece conducirla porque está a mayor temperatura
+   **Respuesta correcta:** c) Porque el cloruro de sodio disuelto se disocia en iones que transportan carga, mientras el agua destilada no tiene iones disueltos.
+   **Retroalimentación:** La conductividad está vinculada a la presencia de iones disueltos.
 
-7. *(Evaluación/dilución)* Un estudiante afirma: "si agrego más agua a una solución de
-   jugo concentrado, la cantidad de soluto (el concentrado) aumenta." Evalúa si esta
-   afirmación es correcta, explicando qué ocurre realmente al diluir una solución.
-   **Respuesta esperada:** La afirmación es incorrecta: al agregar más solvente (agua)
-   a una solución, la cantidad de soluto (el concentrado de jugo) no cambia, solo se
-   distribuye en un mayor volumen de solución; lo que disminuye es la concentración
-   del soluto (la proporción de soluto respecto al total de la solución), no la
-   cantidad total de soluto presente.
-   **Retroalimentación:** Distinguir entre "cantidad de soluto" y "concentración" es
-   clave para comprender correctamente el proceso de dilución de una solución.
+7. *(Alternativas — Evaluación)* "Si agrego más agua a una solución de jugo concentrado, la cantidad de soluto aumenta." ¿Qué evaluación es correcta?
+   a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración
+   b) Es correcta: el agua que se agrega aporta más soluto a la solución
+   c) Es correcta: al agregar agua, la concentración del jugo aumenta
+   d) Es incorrecta: el soluto desaparece por completo al diluir la solución
+   **Respuesta correcta:** a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración.
+   **Retroalimentación:** Distinguir cantidad de soluto y concentración es clave para comprender la dilución.
 
 ---
 
@@ -1269,11 +1130,11 @@ construir las moléculas grandes y diversas que sostienen la vida.
 
 1. *(Alternativas)* ¿Cuál es la propiedad del carbono que le permite formar la enorme
    diversidad de compuestos orgánicos que existen?
-   a) Su alta densidad
+   a) Su alta densidad, que le permite formar estructuras sólidas y resistentes
    b) Su capacidad de formar hasta cuatro enlaces covalentes, incluyendo cadenas
       largas con otros átomos de carbono
-   c) Su color
-   d) Su capacidad de conducir electricidad
+   c) Su color negro, que le permite absorber la energía de la luz solar
+   d) Su capacidad de conducir electricidad, que activa las reacciones químicas entre las moléculas orgánicas
    **Respuesta correcta:** b) Su capacidad de formar hasta cuatro enlaces covalentes,
    incluyendo cadenas largas con otros átomos de carbono.
    **Retroalimentación:** La capacidad del carbono de enlazarse consigo mismo,
@@ -1287,64 +1148,45 @@ construir las moléculas grandes y diversas que sostienen la vida.
    doble entre átomos de carbono; el enlace triple es característico de los
    alquinos.
 
-3. *(Clasificar)* Clasifica cada hidrocarburo según el tipo de enlace principal entre
-   sus átomos de carbono (alcano, alqueno o alquino): metano (CH₄); eteno (C₂H₄);
-   etino (C₂H₂); propano (C₃H₈).
-   **Respuesta correcta:** Alcanos: metano, propano (solo enlaces simples). Alqueno:
-   eteno (un enlace doble). Alquino: etino (un enlace triple).
-   **Retroalimentación:** El sufijo del nombre de un hidrocarburo (-ano, -eno, -ino)
-   indica directamente el tipo de enlace principal entre sus átomos de carbono.
+3. *(Alternativas — Clasificar)* ¿Qué clasificación de hidrocarburos es correcta: metano (CH₄), eteno (C₂H₄), etino (C₂H₂), propano (C₃H₈)?
+   a) Alcanos: eteno y etino. Alqueno: metano. Alquino: propano
+   b) Alcano: etino. Alquenos: metano y propano. Alquino: eteno
+   c) Todos son alquenos
+   d) Alcanos: metano y propano. Alqueno: eteno. Alquino: etino
+   **Respuesta correcta:** d) Alcanos: metano y propano. Alqueno: eteno. Alquino: etino.
+   **Retroalimentación:** El sufijo -ano, -eno o -ino indica el tipo de enlace principal entre carbonos: simple, doble o triple.
 
-4. *(Desarrollo breve)* Explica la diferencia entre una fórmula molecular y una
-   fórmula estructural expandida, usando el ejemplo del etano.
-   **Respuesta esperada:** La fórmula molecular del etano (C₂H₆) solo indica el tipo y
-   la cantidad de átomos presentes en la molécula, sin mostrar cómo están conectados;
-   la fórmula estructural expandida muestra explícitamente cada átomo de carbono e
-   hidrógeno y todos los enlaces entre ellos, permitiendo ver la forma en que la
-   molécula está construida.
-   **Retroalimentación:** Distintos modelos de representación entregan distinta
-   cantidad de información sobre una misma molécula; elegir el modelo adecuado
-   depende de qué se quiera comunicar o analizar.
+4. *(Alternativas)* ¿Qué diferencia hay entre la fórmula molecular y la fórmula estructural expandida del etano?
+   a) Ambas muestran exactamente la misma información, solo que escrita de distinta forma
+   b) La molecular (C₂H₆) indica tipo y cantidad de átomos; la estructural expandida muestra cada átomo y todos sus enlaces
+   c) La molecular muestra cada átomo y todos sus enlaces; la estructural expandida solo indica el tipo y la cantidad de átomos
+   d) El etano no tiene fórmula estructural, porque es un gas y sus átomos no forman enlaces fijos
+   **Respuesta correcta:** b) La molecular (C₂H₆) indica tipo y cantidad de átomos; la estructural expandida muestra cada átomo y todos sus enlaces.
+   **Retroalimentación:** Elegir el modelo adecuado depende de qué se quiera comunicar o analizar.
 
-5. *(Análisis)* Explica por qué el carbono, y no otro elemento, es considerado la base
-   de las biomoléculas presentes en los seres vivos.
-   **Respuesta esperada:** El carbono puede formar hasta cuatro enlaces covalentes
-   estables, incluyendo enlaces consigo mismo, lo que le permite construir cadenas
-   largas, ramificadas y cíclicas de gran diversidad estructural; esta versatilidad es
-   la que permite formar las moléculas grandes y complejas necesarias para la vida,
-   como los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos.
-   **Retroalimentación:** Ningún otro elemento de la tabla periódica tiene esta misma
-   capacidad de formar estructuras tan diversas y estables, lo que explica por qué la
-   química de la vida se basa en el carbono.
+5. *(Alternativas — Análisis)* ¿Por qué el carbono es la base de las biomoléculas?
+   a) Porque es el elemento más pesado de la tabla periódica, lo que da estabilidad a las biomoléculas de los seres vivos
+   b) Porque no forma enlaces con otros elementos, lo que le permite mantenerse puro dentro de las células de los seres vivos
+   c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas
+   d) Porque es un gas noble muy estable, que no reacciona con otras sustancias y por eso protege a las moléculas del cuerpo
+   **Respuesta correcta:** c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas.
+   **Retroalimentación:** Esa versatilidad permite formar carbohidratos, lípidos, proteínas y ácidos nucleicos.
 
-6. *(Análisis/nomenclatura)* En un compuesto orgánico, la cadena principal tiene 5
-   átomos de carbono unidos en línea, y en el tercer carbono de esa cadena hay una
-   ramificación de un átomo de carbono. Explica qué representan la "cadena principal"
-   y la "ramificación" en este compuesto, según la lógica de la nomenclatura IUPAC.
-   **Respuesta esperada:** La cadena principal es la cadena continua de carbonos más
-   larga de la molécula (en este caso, 5 carbonos), y es la que da la base del nombre
-   del compuesto; la ramificación es una cadena más corta (en este caso, de un
-   carbono) unida a un carbono específico de la cadena principal (el tercero), y se
-   nombra indicando en qué posición de la cadena principal se ubica.
-   **Retroalimentación:** Identificar correctamente la cadena principal (la más
-   larga) y numerar sus carbonos es el primer paso para nombrar cualquier compuesto
-   orgánico según la nomenclatura IUPAC.
+6. *(Alternativas — Nomenclatura)* En un compuesto, la cadena principal tiene 5 carbonos en línea y el tercer carbono tiene una ramificación de un carbono. Según la IUPAC, ¿qué representan cada una?
+   a) La cadena principal es la cadena continua más larga y da la base del nombre; la ramificación es una cadena más corta que se nombra indicando su posición
+   b) La ramificación siempre es la cadena más larga y da la base del nombre; la cadena principal se nombra como un sustituyente, sin indicar posición
+   c) La cadena principal es la más corta del compuesto y la ramificación, la más larga; ambas se nombran según su número de átomos de hidrógeno
+   d) Ambas reciben el mismo nombre, sin indicar posiciones, porque la IUPAC solo considera el número total de carbonos del compuesto
+   **Respuesta correcta:** a) La cadena principal es la cadena continua más larga y da la base del nombre; la ramificación es una cadena más corta que se nombra indicando su posición.
+   **Retroalimentación:** Identificar la cadena más larga y numerarla es el primer paso para nombrar un compuesto orgánico.
 
-7. *(Evaluación/aplicación)* El petróleo y sus derivados (bencina, diésel, gas
-   licuado) están compuestos principalmente por hidrocarburos. Evalúa por qué se
-   considera al petróleo un recurso central tanto para la generación de energía como
-   para la industria de los plásticos, relacionándolo con las propiedades del
-   carbono.
-   **Respuesta esperada:** El petróleo está compuesto principalmente por
-   hidrocarburos, cuyos enlaces entre carbono e hidrógeno almacenan una gran cantidad
-   de energía química que se libera al quemarse (combustión), lo que lo hace útil
-   como combustible; además, la capacidad del carbono de formar cadenas largas
-   permite sintetizar, a partir de moléculas derivadas del petróleo, los polímeros que
-   componen los plásticos, lo que explica por qué el petróleo es también materia
-   prima de esta industria.
-   **Retroalimentación:** Comprender las propiedades del carbono ayuda a entender por
-   qué un mismo recurso, el petróleo, es simultáneamente relevante para la energía y
-   para materiales tan diversos como los plásticos.
+7. *(Alternativas — Evaluación)* ¿Por qué el petróleo es central tanto para la energía como para la industria de los plásticos?
+   a) Porque el petróleo es un metal que conduce la energía eléctrica y que, al fundirse, permite moldear los plásticos con facilidad
+   b) Porque no contiene carbono, lo que lo hace más limpio como combustible y más seguro para fabricar envases de plástico
+   c) Porque los plásticos se fabrican solo con agua y aire, y el petróleo se usa únicamente como fuente de energía para hacer funcionar las máquinas de las fábricas que los producen
+   d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos
+   **Respuesta correcta:** d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos.
+   **Retroalimentación:** Un mismo recurso es relevante para la energía y para materiales tan diversos como los plásticos.
 
 ---
 

@@ -9,6 +9,8 @@ muestra), invariantes estructurales que un error de ese tipo rompería:
 
 1. Toda pregunta "alternativas" tiene su `respuesta_correcta` dentro de sus `opciones`.
 2. Toda pregunta "verdadero_falso" tiene `respuesta_correcta` en {"Verdadero", "Falso"}.
+2b. Toda pregunta "varias_correctas" tiene como clave una lista JSON de 2+ opciones reales,
+    sin incluirlas todas; y no queda ninguna "desarrollo_breve" (decisión 2026-11-06).
 3. Ningún Objetivo de Aprendizaje tiene `contenido_guia` vacío (una guía "fantasma").
 4. Cada Pregunta referenciada por un ConjuntoEvaluacion pertenece a la MISMA asignatura
    que el conjunto — el análogo directo al bug de Brincus: contenido filed bajo la
@@ -23,6 +25,8 @@ Vive en `application/` (no en `scripts/`, que no forma parte del paquete instala
 es importable desde los tests) para que sea testeable con el mismo fixture `session` que
 el resto del suite — `scripts/validar_calidad_contenido.py` es solo un wrapper de CLI
 sobre esta función."""
+
+import json
 
 from sqlmodel import Session, select
 
@@ -43,6 +47,25 @@ def validar(session: Session) -> list[str]:
                     f"Pregunta {p.id} (alternativas): respuesta_correcta={p.respuesta_correcta!r} "
                     f"no está entre las opciones {opciones!r}"
                 )
+        elif p.tipo == "varias_correctas":
+            opciones = p.opciones or []
+            try:
+                correctas = json.loads(p.respuesta_correcta)
+            except ValueError:
+                correctas = None
+            if (
+                not isinstance(correctas, list) or len(correctas) < 2
+                or len(set(correctas)) != len(correctas) or not set(correctas) < set(opciones)
+            ):
+                hallazgos.append(
+                    f"Pregunta {p.id} (varias_correctas): respuesta_correcta={p.respuesta_correcta!r} "
+                    f"debe ser una lista JSON de 2 o más opciones distintas, sin incluirlas todas, de {opciones!r}"
+                )
+        elif p.tipo == "desarrollo_breve":
+            hallazgos.append(
+                f"Pregunta {p.id} (desarrollo_breve): todo el material debe ser de alternativas "
+                "(decisión 2026-11-06); la versión abierta vive en docs/banco-preguntas-abiertas/"
+            )
         elif p.tipo == "verdadero_falso":
             if p.respuesta_correcta not in ("Verdadero", "Falso"):
                 hallazgos.append(

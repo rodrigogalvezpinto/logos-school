@@ -8,6 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 10
 fuente: contenido/03-basico/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 2","3":"OA 5","5":"OA 6","6":"OA 8","8":"OA 9","9":"OA 10","10":"OA 11"}
 ---
 
 # Prueba de Unidad: Números y Operaciones
@@ -22,10 +23,10 @@ Instrucciones: lee cada pregunta con calma. Puedes usar dibujos o material concr
 ---
 
 **Pregunta 1 (alternativas).** ¿Cuál número corresponde a la palabra "cuatrocientos quince"?
-a) 4015
+a) 145
 b) 415
 c) 451
-d) 145
+d) 4015
 
 **Pregunta 2 (alternativas).** ¿Cuál número es mayor: 674 o 647?
 a) 674
@@ -47,7 +48,17 @@ d) 592
 
 **Pregunta 5 (problema de aplicación).** Una fábrica de Rancagua produjo 725 empanadas y vendió 358 durante la mañana. ¿Cuántas empanadas le quedan?
 
+a) 367
+b) 433
+c) 1 083
+d) 377
+
 **Pregunta 6 (problema de aplicación).** En un edificio hay 9 pisos, y en cada piso hay 6 departamentos. ¿Cuántos departamentos hay en total?
+
+a) 15
+b) 45
+c) 54
+d) 63
 
 **Pregunta 7 (reconocer la operación).** En una sala de clases hay 28 estudiantes y se quieren formar 4 grupos con la misma cantidad de estudiantes cada uno. ¿Qué operación permite saber cuántos estudiantes hay en cada grupo?
 a) Multiplicación
@@ -57,9 +68,23 @@ d) Sustracción
 
 **Pregunta 8 (problema de aplicación).** En una feria de artesanías de Pomaire, hay 42 cántaros que se quieren repartir en partes iguales entre 7 puestos. ¿Cuántos cántaros le corresponden a cada puesto?
 
+a) 6
+b) 7
+c) 35
+d) 49
+
 **Pregunta 9 (problema — multiplicación).** En una feria libre, un kilo de manzanas cuesta $890. ¿Cuánto cuestan 5 kilos?
 
+a) $895
+b) $4 050
+c) $4 450
+d) $178
+
 **Pregunta 10 (comparar fracciones).** ¿Cuál fracción es mayor: 2/4 o 3/4?
+
+a) 3/4
+b) 2/4
+c) Son iguales
 
 ---
 
@@ -69,9 +94,9 @@ d) Sustracción
 2. **a) 674** — las centenas son iguales (6=6); comparamos decenas: 7 (674) es más que 4 (647).
 3. **b) 50** — el 5 está en el lugar de las decenas, por lo tanto vale 50.
 4. **c) 612** — unidades 7+5=12 (escribe 2, lleva 1); decenas 4+6+1=11 (escribe 1, lleva 1); centenas 3+2+1=6.
-5. **367 empanadas** — 725-358=367 (resta con reserva).
-6. **54 departamentos** — 9×6=54.
+5. a) 367 — 725-358=367 (resta con reserva).
+6. c) 54 — 9×6=54.
 7. **c) División** — se reparte una cantidad total (28) en partes iguales (4 grupos): 28÷4=7.
-8. **6 cántaros por puesto** — 42÷7=6.
-9. **$4 450** — 890×5=4 450.
-10. **3/4** — mismo denominador (4); comparamos numeradores: 3 es mayor que 2.
+8. a) 6 — 42÷7=6.
+9. c) $4 450 — 890×5=4 450.
+10. a) 3/4 — mismo denominador (4); comparamos numeradores: 3 es mayor que 2.
