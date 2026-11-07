@@ -138,7 +138,7 @@ d) Metáfora, porque nombra el agua directamente como "cristales"
 
 ---
 
-**9. (Matemática)** Se van a repartir 96 chocolates en partes iguales entre 8 cajas para un evento. ¿Cuántos chocolates va en cada caja?
+**9. (Matemática)** Se van a repartir 96 chocolates en partes iguales entre 8 cajas para un evento. ¿Cuántos chocolates van en cada caja?
 
 a) 11
 b) 12
@@ -202,7 +202,7 @@ d) Construir diques para contener los ríos caudalosos del sur
 
 ---
 
-**15. (Ciencias Naturales)** ¿Cuál de las siguientes es información **líquida** entre los siguientes materiales: jugo de frutilla, una silla de madera, un cubo de hielo y el humo de una fogata?
+**15. (Ciencias Naturales)** ¿Cuál de los siguientes materiales está en estado **líquido**?
 
 a) La silla de madera
 b) El jugo de frutilla
@@ -253,7 +253,7 @@ d) Los tribunales de justicia del país
 
 ---
 
-**20. (Ciencias Naturales)** Observa la siguiente descripción de una de las capas de la Tierra: "Está formada por roca que, debido a las altas temperaturas y presiones, se comporta de manera semi-líquida y fluye muy lentamente". ¿A qué capa corresponde esta descripción?
+**20. (Ciencias Naturales)** Observa la siguiente descripción de una de las capas de la Tierra: "Está formada por roca muy caliente que, aunque es mayormente sólida, se deforma y fluye muy lentamente por las altas temperaturas y presiones". ¿A qué capa corresponde esta descripción?
 
 a) Corteza
 b) Manto
@@ -299,7 +299,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 17 | Lenguaje | **b)** Usa sinónimos y expresiones variadas ("visitamos", "recorrimos", "disfrutamos", "regresamos") en lugar de repetir la misma palabra. | OA N°17 — vocabulario variado |
 | 18 | Matemática | **c) 2.** Un rectángulo no cuadrado tiene 2 líneas de simetría: una horizontal y una vertical. | OA 17 — Comprender la línea de simetría |
 | 19 | Historia | **b) El Congreso Nacional (Parlamento).** Encargado de elaborar y aprobar las leyes. | OA 11 — Autoridades y poderes del Estado |
-| 20 | Ciencias Naturales | **b) Manto.** Roca semi-líquida que fluye muy lentamente debido a la presión y la temperatura. | OA 15 — Capas de la Tierra |
+| 20 | Ciencias Naturales | **b) Manto.** Roca muy caliente y mayormente sólida que se deforma y fluye muy lentamente por la presión y la temperatura; no es líquida. | OA 15 — Capas de la Tierra |
 
 ### Distribución por asignatura
 

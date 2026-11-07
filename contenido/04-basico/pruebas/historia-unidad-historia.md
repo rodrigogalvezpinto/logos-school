@@ -88,8 +88,7 @@ d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andin
 
 ---
 
-**9. (Alternativas — desafiante)** El Camino del Inca llegó hasta el desierto de
-Atacama, en el norte de Chile. ¿Qué nos dice este dato sobre el tamaño y la organización del
+**9. (Alternativas — desafiante)** El Camino del Inca (Qhapaq Ñan) cruzaba el desierto de Atacama y llegaba hasta la zona central de Chile. ¿Qué nos dice este dato sobre el tamaño y la organización del
 imperio inca?
 
 a) Que era un imperio pequeño que solo ocupaba el desierto de Atacama y sus alrededores

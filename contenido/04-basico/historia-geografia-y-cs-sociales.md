@@ -126,7 +126,7 @@ d) Cordillera de los Andes
 
 ✅ Respuesta correcta: **d) Cordillera de los Andes**
 💬 *Retroalimentación:* Los incas se desarrollaron en el espacio andino, a lo largo de la
-cordillera de los Andes, desde el sur de Colombia hasta el norte de Chile y Argentina.
+cordillera de los Andes, desde el sur de Colombia hasta la zona central de Chile (río Maule) y el noroeste de Argentina.
 
 ---
 
@@ -174,7 +174,7 @@ d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andin
 
 ---
 
-**6. (Alternativas — desafiante)** El Camino del Inca llegó hasta el desierto de Atacama, en el norte de Chile. ¿Qué nos dice este dato sobre el imperio inca?
+**6. (Alternativas — desafiante)** El Camino del Inca (Qhapaq Ñan) cruzaba el desierto de Atacama y llegaba hasta la zona central de Chile. ¿Qué nos dice este dato sobre el imperio inca?
 a) Que era un imperio pequeño que solo ocupaba el desierto de Atacama y sus alrededores
 b) Que los incas no sabían construir caminos y usaban los que encontraban en el desierto
 c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos
@@ -787,13 +787,13 @@ d) Ejerzo mi derecho a la expresión cuando insulto a un compañero
 una jornada muy larga, sin tiempo para jugar ni para hacer sus tareas escolares. ¿Qué
 derechos no se están respetando en esta situación?
 a) Solo el derecho a la educación
-b) El derecho a la educación y el derecho al recreo
+b) El derecho a la educación y el derecho al juego y al descanso
 c) Ningún derecho: es normal que los niños ayuden en las tareas del hogar
 d) Únicamente el derecho a la alimentación
 
-✅ Respuesta correcta: **b) El derecho a la educación y el derecho al recreo**
+✅ Respuesta correcta: **b) El derecho a la educación y el derecho al juego y al descanso**
 💬 *Retroalimentación:* Trabajar en condiciones que impiden estudiar y jugar afecta tanto el
-derecho a la educación como el derecho al recreo y descanso. Además, se relaciona con el
+derecho a la educación como el derecho al juego y al descanso. Además, se relaciona con el
 derecho a no trabajar antes de la edad apropiada.
 
 ---

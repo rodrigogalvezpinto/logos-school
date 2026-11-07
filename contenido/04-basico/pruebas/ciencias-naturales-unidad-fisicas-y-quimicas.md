@@ -83,7 +83,7 @@ d) Gaseoso, porque no tiene forma ni volumen fijo y se dispersa en el ambiente
    características propias del estado líquido.
 2. **Verdadero.** A diferencia de los sólidos y líquidos, los gases se expanden
    libremente hasta llenar el espacio en el que se encuentran.
-3. b y d — El aire y el humo son gaseosos; el jugo es líquido; la silla de madera y el hielo son sólidos.
+3. b y d — El aire y el humo son gaseosos; el jugo es líquido; el hielo es sólido.
 4. a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua)
 5. **b) Se adapta a la forma del recipiente.** Es una característica clave de los
    líquidos: no tienen forma propia.

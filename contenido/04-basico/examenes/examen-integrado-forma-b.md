@@ -147,7 +147,7 @@ Lee el siguiente texto:
 
 ¿Cuál de las siguientes es información **implícita** del texto (es decir, no está escrita directamente, sino que se deduce)?
 
-a) El cóndor andino habita a lo largo de toda la cordillera de los Andes, desde Venezuela hasta Tierra del Fuego.
+a) El cóndor andino habita a lo largo de toda la cordillera de los Andes, desde Venezuela hasta la Patagonia.
 b) El cóndor se alimenta principalmente de animales que ya están muertos, en lugar de cazar presas vivas.
 c) El cóndor puede detectar un cadáver desde varios kilómetros de altura gracias a su excelente vista.
 d) Al alimentarse de animales muertos, el cóndor cumple un rol importante para mantener limpios los ecosistemas de montaña.
@@ -185,7 +185,7 @@ d) No poder ir al médico si no tiene la edad suficiente para pedirlo
 
 ---
 
-**13. (Lenguaje y Comunicación)** *(Alternativas)* ¿Qué oración usa correctamente el conector "**por eso**" para unir estas dos ideas: "Caminamos varias horas por el sendero de la reserva" y "llegamos muy cansados a la cascada"?
+**13. (Lenguaje y Comunicación)** ¿Qué oración usa correctamente el conector "**por eso**" para unir estas dos ideas: "Caminamos varias horas por el sendero de la reserva" y "llegamos muy cansados a la cascada"?
 
 a) Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada.
 b) Por eso caminamos varias horas, llegamos muy cansados a la cascada por el sendero.
@@ -195,7 +195,7 @@ d) Caminamos varias horas por eso, por el sendero de la reserva llegamos.
 
 ---
 
-**14. (Lenguaje y Comunicación)** *(Alternativas)* Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas:
+**14. (Lenguaje y Comunicación)** Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas:
 
 > "El domingo pasado mi familia fue a la Reserva Nacional Altos de Lircay caminamos por el sendero hasta la cascada nos sacamos fotos con el paisaje después almorzamos sándwiches cerca del río y por la tarde jugamos a las cartas bajo un árbol y volvimos a casa cansados pero felices."
 
@@ -209,7 +209,7 @@ d) Párrafo 1: el paseo hasta la cascada y las fotos. Párrafo 2: el almuerzo, e
 
 ---
 
-**15. (Ciencias Naturales)** *(Alternativas)* Usando el modelo de un damasco (durazno) para representar las capas de la Tierra, ¿qué combinación representa bien cada capa y sus características?
+**15. (Ciencias Naturales)** Usando el modelo de un damasco (durazno) para representar las capas de la Tierra, ¿qué combinación representa bien cada capa y sus características?
 
 a) Cáscara = núcleo (el más interno); pulpa = corteza (la más rígida y externa); carozo = manto (intermedio y sólido)
 b) Cáscara = corteza (la más rígida y externa); pulpa = manto (predominantemente sólido, intermedio); carozo = núcleo (el más interno y caliente)
@@ -228,7 +228,7 @@ d) 15
 
 ---
 
-**17. (Historia, Geografía y Ciencias Sociales)** *(Alternativas)* ¿Qué afirmación une correctamente una característica del paisaje de una región de Chile con una forma en que las personas se han **adaptado** a ella?
+**17. (Historia, Geografía y Ciencias Sociales)** ¿Qué afirmación une correctamente una característica del paisaje de una región de Chile con una forma en que las personas se han **adaptado** a ella?
 
 a) En el norte nieva todo el año, y por eso las personas construyen iglús de hielo para vivir
 b) En el centro no hay ríos ni lluvias, y por eso las personas no cultivan nada en el valle
@@ -238,7 +238,7 @@ d) En la costa no hay mar cerca, y por eso las personas no pescan ni construyen 
 
 ---
 
-**18. (Ciencias Naturales)** *(Alternativas)* Tras un sismo de gran magnitud con epicentro bajo el océano, frente a las costas de Chile, las autoridades recomiendan alejarse de inmediato del borde costero y dirigirse a zonas altas. Usando el concepto de **tsunami**, ¿por qué se entrega esa recomendación?
+**18. (Ciencias Naturales)** Tras un sismo de gran magnitud con epicentro bajo el océano, frente a las costas de Chile, las autoridades recomiendan alejarse de inmediato del borde costero y dirigirse a zonas altas. Usando el concepto de **tsunami**, ¿por qué se entrega esa recomendación?
 
 a) Porque un sismo bajo el océano puede desplazar una gran masa de agua y generar un tsunami, con olas que llegan a la costa
 b) Porque después de un sismo de gran magnitud siempre llueve fuerte en la costa, y las zonas altas no se inundan
@@ -257,7 +257,7 @@ d) Litro
 
 ---
 
-**20. (Historia, Geografía y Ciencias Sociales)** *(Alternativas)*
+**20. (Historia, Geografía y Ciencias Sociales)**
 
 Una noticia adaptada informa: *"Durante los meses de veda, estará prohibido extraer una determinada especie marina en la costa de la zona centro-sur, con el objetivo de que su población se recupere antes de la próxima temporada de pesca."*
 

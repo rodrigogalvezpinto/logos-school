@@ -388,7 +388,7 @@ c) 20
 d) 21
 
 **Respuesta correcta: c) 20.**
-*Retroalimentación:* 80 ÷ 4 = 20 es fácil de calcular mentalmente y sirve como buena estimación del resultado real (79 ÷ 4 = 19,75).
+*Retroalimentación:* 80 ÷ 4 = 20 es fácil de calcular mentalmente y sirve como buena estimación del resultado real (79 ÷ 4 da 19 y sobran 3).
 
 ---
 
@@ -535,7 +535,7 @@ d) 3/10
 **Respuesta correcta: d) 3/10.**
 *Retroalimentación:* el total de estudiantes del curso (10) es el denominador, y la cantidad de estudiantes con gato (3) es el numerador. 7/10 son los que no tienen gato.
 
-**Pregunta 5 (alternativas).** ¿Cuál fracción es mayor, si ambas se refieren al mismo entero?
+**Pregunta 5 (alternativas).** ¿Cuál fracción es mayor, 1/3 o 1/6, si ambas se refieren al mismo entero?
 a) 1/3
 b) 1/6
 c) Son iguales
@@ -923,7 +923,7 @@ d) Más grande que la figura original
 **Respuesta correcta: b) En la posición opuesta (al revés).**
 *Retroalimentación:* una rotación de 180° es como dar "media vuelta": la figura termina mirando exactamente hacia el lado contrario al que miraba al inicio.
 
-**Pregunta 4 (alternativas — identificar la transformación).** Camila observa que la sombra de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
+**Pregunta 4 (alternativas — identificar la transformación).** Camila observa que la imagen de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
 a) Reflexión
 b) Traslación
 c) Rotación
@@ -1174,9 +1174,7 @@ d) 9
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* las aves tienen 4 símbolos (4×2=8 aves) y los perros tienen 3 símbolos (3×2=6 perros). Como 8 es mayor que 6, hay más aves que perros.
 
-*(Usa el gráfico de ventas de helados del Ejemplo 2, donde cada ■ = 5 helados, para responder las preguntas 3, 4 y 5).*
-
-**Pregunta 3 (alternativas).** Según el gráfico, ¿qué día se vendieron más helados?
+**Pregunta 3 (alternativas).** Según el gráfico de ventas de helados del Ejemplo 2 (cada ■ = 5 helados), ¿qué día se vendieron más helados?
 a) El martes
 b) El lunes
 c) El miércoles
@@ -1185,7 +1183,7 @@ d) El jueves
 **Respuesta correcta: a) El martes.**
 *Retroalimentación:* el martes tiene 6 cuadritos (6 × 5 = 30 helados), la cantidad más alta de la semana. Para responder hay que comparar el largo de todas las barras, no solo mirar una.
 
-**Pregunta 4 (alternativas — cálculo).** ¿Cuántos helados se vendieron en total durante los cuatro días que muestra el gráfico?
+**Pregunta 4 (alternativas — cálculo).** ¿Cuántos helados se vendieron en total durante los cuatro días que muestra el gráfico de ventas del Ejemplo 2?
 a) 17
 b) 80
 c) 85
@@ -1194,7 +1192,7 @@ d) 90
 **Respuesta correcta: c) 85.**
 *Retroalimentación:* primero se transforma cada barra a su cantidad real usando la escala (cuadritos × 5): lunes 20 + martes 30 + miércoles 10 + jueves 25 = 85. Si solo cuentas los cuadritos (17), olvidas que cada uno vale 5 helados.
 
-**Pregunta 5 (alternativas — problema de aplicación).** ¿Cuántos helados más se vendieron el lunes que el miércoles?
+**Pregunta 5 (alternativas — problema de aplicación).** Según el gráfico de ventas de helados del Ejemplo 2, ¿cuántos helados más se vendieron el lunes que el miércoles?
 a) 2
 b) 10
 c) 20

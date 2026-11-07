@@ -1247,3 +1247,42 @@ Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conse
   - Frontend: 96 pasados.
 - **Revisión de retroalimentaciones.** Las 26 que mencionan la letra de un distractor siguen coherentes con sus opciones.
 - **Observación menor.** Angular avisa NG0956: `track op` recrea las opciones al cambiar de pregunta. No afecta la corrección.
+
+### 15.26 Revisión disciplinar y pedagógica ítem por ítem — 4.° básico (2026-11-07)
+
+**Alcance.** Lectura experta de todas las preguntas de 4.° básico, con 4 guías, 12 pruebas y 2 simulacros: clave correcta en la disciplina, distractores plausibles y sin ambigüedad, adecuación al nivel y coherencia de la retroalimentación. En Matemática se recalculó cada operación.
+
+**Hallazgos corregidos.**
+
+- *Matemática*
+  - Guía OA 18#4 y prueba Geometría P8: «la *sombra* de un árbol reflejada en el agua» pasa a «la *imagen*». Es un error conceptual: el agua refleja la imagen, no la sombra.
+  - Guía OA 27: la instrucción «Usa el gráfico… preguntas 3, 4 y 5» quedaba dentro de la retroalimentación de la P2; ahora va en el enunciado de P3, P4 y P5.
+  - Guía OA 8#5: el enunciado no nombraba las fracciones que compara.
+  - Guía OA 6#6: la retroalimentación usaba decimales (19,75), fuera de nivel; pasa a «19 y sobran 3».
+- *Ciencias Naturales*
+  - Retroalimentaciones que mencionaban una «silla» que ya no está entre las opciones (guía OA 10#3 y prueba P3).
+  - Distractor «Nazca y Antártica»: la placa Antártica sí bordea Chile en el extremo sur, así que era ambiguo; pasa a «Africana y Antártica».
+  - Simulacro A P20: describía el manto como «semi-líquido», en contradicción con la guía y la prueba. Ahora dice roca mayormente sólida que fluye lentamente.
+  - Simulacro A P15: enunciado ininteligible («¿Cuál… es información líquida…?»).
+- *Historia*
+  - Extensión del Tawantinsuyu: no llegaba solo «al norte de Chile», sino hasta la zona central (río Maule). Se corrigió en la retroalimentación de la guía OA 4#1, y el enunciado del Camino del Inca en la guía OA 4#6 y la prueba Historia P9.
+  - «Derecho al recreo» pasa a «derecho al juego y al descanso».
+- *Lenguaje*
+  - Guía OA 6#5 y su texto en la prueba U2: la clave «implícita» («el puma es muy adaptable») estaba casi explícita en el texto («se adapta fácilmente a climas fríos y calurosos»). Se reescribió esa oración del texto para que sea una inferencia.
+- *Simulacros*
+  - Seis enunciados del simulacro B mostraban al alumno la etiqueta «(Alternativas)».
+  - Simulacro A P9: «¿Cuántos chocolates *va*?» pasa a «*van*».
+  - Simulacro B P9: el distractor «hasta Tierra del Fuego» no coincidía con el texto («hasta la Patagonia»).
+
+**Hallazgo sistémico y corrección de la app.** 221 preguntas de guías en todo el corpus remiten a un texto, poema, tabla, gráfico o «Ejemplo n» de la guía, pero la pantalla de autoevaluación solo ofrecía «← Volver a la explicación», con lo que se perdía la práctica en curso.
+- La autoevaluación tiene ahora un panel desplegable «📖 Ver la guía (textos, tablas y ejemplos)» con el contenido del OA. Se verificó que `contenido_guia` no contiene las claves de la práctica en ninguno de los 410 OA.
+- El spec E2E exige que el panel exista, que muestre la guía y que no muestre claves. Resultado: 4.° básico 18/18 en Chromium.
+
+**Observación de diseño, sin cambios.** El 79 % de las preguntas de pruebas de unidad (1.448 de 1.825) es idéntico a una pregunta de práctica de la guía; en los simulacros, solo el 8 %. Es la decisión documentada en `planificacion/08-diseno-pruebas-vs-examenes.md`: las pruebas se arman desde el banco de la guía. Pedagógicamente, la prueba de unidad mide más recuerdo que transferencia. Queda para decisión del usuario.
+
+**Verificación.**
+- OA re-fijados en 4.° básico.
+- Validador: 0 discrepancias.
+- Scripts y parsers: 212 pasados (+1 omitido).
+- Frontend: 96 pasados.
+- E2E de 4.° básico: 18/18 en Chromium.

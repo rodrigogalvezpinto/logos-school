@@ -245,7 +245,7 @@ Los textos **no literarios** (a diferencia de los cuentos y poemas) buscan **inf
 ### Texto de práctica: "El puma, el gran felino de los Andes chilenos"
 
 > **¿Dónde vive?**
-> El puma (*Puma concolor*) vive a lo largo de casi todo Chile, desde el desierto de Atacama hasta los bosques de la Patagonia. Es uno de los animales que puede vivir en más ambientes distintos de nuestro país, porque se adapta fácilmente a climas fríos y calurosos.
+> El puma (*Puma concolor*) vive a lo largo de casi todo Chile, desde el desierto de Atacama hasta los bosques de la Patagonia. Se le ha visto en el desierto, en la cordillera, en los valles y en los bosques lluviosos del sur.
 >
 > **¿Qué come y cómo caza?**
 > El puma es un cazador silencioso: se acerca a su presa sin hacer ruido, como una sombra entre las rocas, y da un salto certero para atraparla. Se alimenta principalmente de guanacos y liebres, y en algunas zonas también de ovejas de crianza, lo que a veces genera conflictos con los agricultores de la zona.

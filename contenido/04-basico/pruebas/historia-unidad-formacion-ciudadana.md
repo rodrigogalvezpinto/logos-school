@@ -76,7 +76,7 @@ escuchados.
 una jornada muy larga, sin tiempo para jugar ni para hacer sus tareas escolares. ¿Qué
 derechos no se están respetando en esta situación?
 a) Solo el derecho a la educación
-b) El derecho a la educación y el derecho al recreo
+b) El derecho a la educación y el derecho al juego y al descanso
 c) Ningún derecho: es normal que los niños ayuden en las tareas del hogar
 d) Únicamente el derecho a la alimentación
 
@@ -109,7 +109,7 @@ d) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir
 5. **b) Recibir educación** — Uno de los derechos fundamentales de todo niño y niña.
 6. **Verdadero** — El derecho a expresarse permite dar la opinión y ser escuchado, por
    ejemplo en la familia o en la escuela.
-7. **b) El derecho a la educación y el derecho al recreo** — Trabajar en condiciones que
+7. **b) El derecho a la educación y el derecho al juego y al descanso** — Trabajar en condiciones que
    impiden estudiar y jugar afecta ambos derechos, y se relaciona con el derecho a no
    trabajar antes de la edad apropiada.
 8. **Verdadero** — Los derechos de los niños y niñas son universales: valen para todos, sin

@@ -551,7 +551,7 @@ convierte en vapor al hervir.
    c) Un cubo de hielo
    d) El humo de una fogata
    **Respuesta correcta:** b y d.
-   **Retroalimentación:** El aire y el humo se dispersan (gaseoso); el jugo toma la forma del recipiente (líquido); la silla y el hielo mantienen su forma (sólido).
+   **Retroalimentación:** El aire y el humo se dispersan (gaseoso); el jugo toma la forma del recipiente (líquido); el cubo de hielo mantiene su forma (sólido).
 
 4. *(Alternativas)* ¿Qué afirmación sobre la capacidad de fluir de sólidos y líquidos es correcta?
    a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua)
@@ -721,7 +721,7 @@ volcanes muy conocidos, como el Villarrica, el Llaima y el Osorno.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* Chile se encuentra en el límite entre las placas:
-   a) Nazca y Antártica
+   a) Africana y Antártica
    b) Nazca y Sudamericana
    c) Pacífica y Sudamericana
    d) Cocos y Caribe

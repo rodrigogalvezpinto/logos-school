@@ -51,7 +51,7 @@ b) En la posición opuesta (al revés)
 c) Reflejada como en un espejo
 d) Más grande que la figura original
 
-**Pregunta 8 (identificar la transformación).** Camila observa que la sombra de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
+**Pregunta 8 (identificar la transformación).** Camila observa que la imagen de un árbol reflejada en el agua de un lago se ve "al revés", como en un espejo. ¿Qué transformación geométrica representa este fenómeno?
 
 a) Reflexión
 b) Traslación

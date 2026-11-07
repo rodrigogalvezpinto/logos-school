@@ -64,7 +64,7 @@ d) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (
 **6.** Chile se encuentra en el límite entre las placas:
 
 a) Nazca y Sudamericana
-b) Nazca y Antártica
+b) Africana y Antártica
 c) Pacífica y Sudamericana
 d) Cocos y Caribe
 

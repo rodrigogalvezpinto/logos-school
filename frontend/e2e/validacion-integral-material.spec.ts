@@ -167,6 +167,13 @@ async function validarGuias(page: Page, nivel: Nivel, asig: Asignatura) {
     const preguntas: PreguntaApi[] = await (await respuesta).json();
     expect(preguntas.length, `${ref}: preguntas de autoevaluación`).toBe(oa.preguntas);
     await cerrarCheckin(page);
+    // La guía (textos, tablas, gráficos) debe poder consultarse sin salir de la práctica.
+    const panelGuia = page.locator('details.guia-consulta');
+    await expect(panelGuia, `${ref}: panel «Ver la guía»`).toBeVisible();
+    await panelGuia.locator('summary').click();
+    await expect(panelGuia.locator('.guia-consulta__contenido'), `${ref}: guía en el panel`).not.toBeEmpty();
+    expect(await panelGuia.innerText(), `${ref}: el panel no muestra claves`).not.toMatch(/Respuesta correcta/i);
+    await panelGuia.locator('summary').click();
     await page.getByRole('button', { name: 'Comenzar' }).click();
     for (let i = 0; i < preguntas.length; i++) {
       const refP = `${ref} · P${i + 1} (id ${preguntas[i].id})`;

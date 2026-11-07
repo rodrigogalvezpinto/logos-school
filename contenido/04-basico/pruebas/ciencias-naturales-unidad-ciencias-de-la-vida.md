@@ -62,7 +62,7 @@ d) Descomponedor
 
 **6.** *(Alternativas — ordenar)* ¿Cuál es el orden de esta cadena alimentaria marina chilena, desde
 el productor hasta el consumidor de mayor nivel: lobo marino — fitoplancton —
-pingüino de Humboldt — anchoveta.
+pingüino de Humboldt — anchoveta?
 
 a) Lobo marino → pingüino de Humboldt → anchoveta → fitoplancton
 b) Anchoveta → fitoplancton → lobo marino → pingüino de Humboldt
