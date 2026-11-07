@@ -1,0 +1,19 @@
+from typing import Protocol
+
+from app.domain.profesor.entities import CuentaProfesor
+
+
+class RepositorioCuentasProfesor(Protocol):
+    def buscar_por_email(self, email: str) -> CuentaProfesor | None: ...
+    def buscar_por_id(self, cuenta_profesor_id: int) -> CuentaProfesor | None: ...
+    def guardar(self, cuenta: CuentaProfesor) -> CuentaProfesor: ...
+    def listar_pendientes(self) -> list[CuentaProfesor]: ...
+
+
+class ServicioTokenProfesor(Protocol):
+    """Puerto angosto, deliberadamente distinto de `ServicioToken` (Apoderado) y
+    `ServicioTokenAdmin` — mismo criterio: el nombre del método deja explícito en la firma
+    de cada caso de uso qué tipo de token está en juego."""
+
+    def generar_profesor(self, cuenta_profesor_id: int) -> str: ...
+    def decodificar_profesor(self, token: str) -> int | None: ...

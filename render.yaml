@@ -1,0 +1,57 @@
+# Blueprint de Render para el backend de Logos School (no despliega nada por sí solo: Render lo lee
+# cuando el usuario conecta el repositorio en render.com → New → Blueprint). Ver docs/DESPLIEGUE.md.
+# Dos servicios separados (regla de planificacion/17): desarrollo y producción, cada uno con su base.
+services:
+  - type: web
+    name: logos-api-dev
+    runtime: python
+    rootDir: backend
+    plan: free
+    branch: main
+    # Versiones exactas de uv.lock: un `pip install .` baja SQLAlchemy nuevo, que pide psycopg v3
+    # (el proyecto usa psycopg2) y la API no arranca. Verificado el 2026-11-07.
+    buildCommand: pip install uv && uv sync --frozen --no-dev
+    startCommand: .venv/bin/alembic upgrade head && .venv/bin/uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /docs
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: ENTORNO
+        value: desarrollo
+      - key: DATABASE_URL
+        sync: false   # cadena de Neon, branch «desarrollo»
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CORS_ORIGENES
+        sync: false
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+  - type: web
+    name: logos-api-prod
+    runtime: python
+    rootDir: backend
+    plan: free      # subir a «starter» cuando haya alumnos reales (evita que el servicio duerma)
+    branch: main
+    autoDeploy: false   # producción se publica a mano, después de probar en desarrollo
+    # Versiones exactas de uv.lock: un `pip install .` baja SQLAlchemy nuevo, que pide psycopg v3
+    # (el proyecto usa psycopg2) y la API no arranca. Verificado el 2026-11-07.
+    buildCommand: pip install uv && uv sync --frozen --no-dev
+    startCommand: .venv/bin/alembic upgrade head && .venv/bin/uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /docs
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: ENTORNO
+        value: produccion
+      - key: DATABASE_URL
+        sync: false   # cadena de Neon, branch «produccion»
+      - key: JWT_SECRET
+        generateValue: true
+      - key: CORS_ORIGENES
+        sync: false
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false

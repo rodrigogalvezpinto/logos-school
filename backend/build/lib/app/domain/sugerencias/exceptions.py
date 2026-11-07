@@ -1,0 +1,2 @@
+class SugerenciaVacia(Exception):
+    pass

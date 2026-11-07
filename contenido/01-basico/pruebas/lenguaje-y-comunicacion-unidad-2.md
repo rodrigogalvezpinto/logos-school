@@ -38,8 +38,8 @@ c) Sola
 
 **2.** ¿A qué hora dice la nota que Camila va a volver?
 
-a) A las 5
-b) A las 7
+a) A las 4
+b) A las 5
 c) A las 6
 
 ---

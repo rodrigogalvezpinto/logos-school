@@ -4,6 +4,7 @@ from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 
+from app.core.config import settings
 from app.core.limiter import limiter
 from app.core.logging_config import LoggingMiddleware, configurar_logging
 from app.core.security_headers import SecurityHeadersMiddleware
@@ -51,13 +52,8 @@ app.add_middleware(LoggingMiddleware)
 app.add_middleware(
     CORSMiddleware,
     # En Desarrollo, el frontend corre en localhost:4300 (ver planificacion/17-...).
-    # En Producción se restringe al dominio real cuando exista.
-    allow_origins=[
-        "http://localhost:4300",
-        "http://localhost:4200",
-        "http://127.0.0.1:4300",
-        "http://127.0.0.1:4200",
-    ],
+    # En Producción se restringe al dominio real: variable CORS_ORIGENES (ver config.py).
+    allow_origins=settings.origenes_permitidos,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

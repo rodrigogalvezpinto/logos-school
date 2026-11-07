@@ -1,0 +1,9 @@
+from typing import Protocol
+
+from app.domain.reportes.entities import ReporteError
+
+
+class RepositorioReportesError(Protocol):
+    def guardar(self, reporte: ReporteError) -> ReporteError: ...
+    def listar_no_resueltos(self) -> list[ReporteError]: ...
+    def listar_por_perfil(self, perfil_alumno_id: int) -> list[ReporteError]: ...

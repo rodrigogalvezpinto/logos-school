@@ -49,6 +49,11 @@ class Settings(BaseSettings):
     jwt_algoritmo: str = "HS256"
     jwt_expiracion_minutos: int = 60 * 12  # 12 horas (una evaluación larga no debe expulsar al alumno)
 
+    # Orígenes del frontend publicado (CORS), separados por coma, p. ej.
+    # "https://logosschool.cl,https://www.logosschool.cl". Sin definir, solo se aceptan los de
+    # desarrollo local (sin esto la app desplegada no podía llamar a la API).
+    cors_origenes: str = ""
+
     google_client_id: str = ""
     resend_api_key: str = ""
     resend_remitente: str = "Logos <no-responder@logos.cl>"
@@ -67,6 +72,14 @@ class Settings(BaseSettings):
                 "Producción antes de arrancar."
             )
         return self
+
+
+    @property
+    def origenes_permitidos(self) -> list[str]:
+        locales = ["http://localhost:4300", "http://localhost:4200", "http://127.0.0.1:4300", "http://127.0.0.1:4200"]
+        extra = [o.strip().rstrip("/") for o in self.cors_origenes.split(",") if o.strip()]
+        # En Producción solo el dominio real: los orígenes locales no tienen nada que hacer ahí.
+        return extra if self.entorno == "produccion" and extra else locales + extra
 
 
 settings = Settings()

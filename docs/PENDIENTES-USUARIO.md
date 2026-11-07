@@ -17,7 +17,7 @@ Los precios son aproximados, con fecha 2026-11. Verifícalos al crear cada cuent
 | 1 | **Neon** (neon.tech) | Base de datos PostgreSQL, con una base para Desarrollo y otra para Producción | Gratis | Crear el proyecto `logos-school` y 2 *branches*: `desarrollo` y `produccion`. Me entregas las 2 cadenas de conexión | `DATABASE_URL` en el `.env` de cada ambiente |
 | 2 | **Render** (render.com) | Servidor del backend (FastAPI) | Gratis; el plan gratuito «duerme» tras 15 min sin uso. Unos USD 7 al mes para que no duerma | Crear la cuenta y conectarla con GitHub (repositorio `Logos`) | Variables de entorno en el panel de Render |
 | 3 | **Cloudflare Pages** | Frontend (Angular) | Gratis | Crear la cuenta y conectarla con GitHub | Panel de Cloudflare |
-| 4 | **Cloudflare R2** | Guardar los audios de lectura en voz alta (≈57 MB hoy y más con otros cursos) | Gratis hasta 10 GB | Activar R2 en la misma cuenta y crear el *bucket* `logos-audio` | Lo dejo preparado; ver la tarea 12 de la cola |
+| 4 | **Cloudflare R2** (opcional) | Solo si los audios crecen mucho; hoy caben en Pages | Gratis hasta 10 GB | Nada por ahora | — |
 | 5 | **Dominio** (por ejemplo, `logosschool.cl` en NIC Chile) | Dirección web propia | Unos $10.000 CLP al año | Elegir el nombre y comprarlo. Hoy el código usa `api.logos.cl` como ejemplo | DNS en Cloudflare |
 | 6 | **Resend** (resend.com) | Correos: bienvenida, recuperar contraseña, avisos al apoderado | Gratis hasta 3.000 correos al mes | Crear una cuenta nueva para este proyecto y verificar el dominio | `RESEND_API_KEY` y `RESEND_REMITENTE` |
 | 7 | **Google Cloud** (OAuth) | Botón «Entrar con Google» | Gratis | Crear el proyecto, configurar la pantalla de consentimiento y crear un *Client ID* web con el dominio | `GOOGLE_CLIENT_ID` (backend) y `googleClientId` (`environment.prod.ts`) |
@@ -72,5 +72,7 @@ Las funcionalidades nuevas quedan en ramas aparte, sin mezclar con `main`, para 
 | `feature/juegos-practica` | Juegos de práctica con el banco de preguntas | Por construir (tarea 13) |
 | `feature/profesor-ia` | Tutor con IA, desactivado sin clave | Por construir (tarea 14) |
 | `feature/pasarela-pago` | Adaptador de pagos con modo de prueba | Por construir (tarea 15) |
+
+La guía completa de despliegue, ya preparada, está en `docs/DESPLIEGUE.md`.
 
 Este documento se actualiza a medida que avanza la cola.

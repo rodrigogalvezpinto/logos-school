@@ -1447,3 +1447,16 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
 - Las opciones numéricas se mantienen en orden ascendente, que es una convención de redacción.
 
 **Verificación.** Validador: 0 discrepancias. E2E de 1.° básico en los 3 navegadores: 54/54.
+
+### 15.33 Despliegue preparado, sin desplegar (2026-11-07)
+
+- **Bloqueos de producción encontrados y corregidos.**
+  1. **CORS fijo en `localhost`.** La app publicada no habría podido llamar a la API. Ahora la variable `CORS_ORIGENES` lo define, y en Producción se acepta solo el dominio real. Se agregaron 3 pruebas.
+  2. **`pip install .` instalaba un SQLAlchemy nuevo** que pide `psycopg` v3, y la API no arrancaba. En Render se instala ahora con `uv sync --frozen`. Se verificó en un entorno limpio que importa la app.
+  3. **URL de la API y Client ID de Google fijos en el build de producción.** Ahora se definen al compilar. Además, `scripts/desplegar/frontend.sh` ajusta el CSP de `_headers` al dominio real.
+- **Archivos nuevos:**
+  - `render.yaml`, con los servicios dev y prod;
+  - `docs/DESPLIEGUE.md`, con el orden paso a paso y la verificación;
+  - `docs/PENDIENTES-USUARIO.md`, con las cuentas, claves, costos y decisiones que dependen del usuario.
+- **Regresión.** El rebalanceo de §15.32 había desordenado opciones de hora («A las 5 / 7 / 6») en 1.° básico. Se restauró el orden ascendente con distractores nuevos: la prueba de la unidad 2 quedó 4 · 5 · 6 y el simulacro B, 6 · 7 · 8. La clave sigue variada.
+- **Verificación.** Backend: 728 pasados (+1 omitido). Validador: 0 discrepancias. E2E de 1.° básico en los 3 navegadores.

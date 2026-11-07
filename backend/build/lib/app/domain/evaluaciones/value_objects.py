@@ -1,0 +1,165 @@
+"""Value Objects del contexto Evaluaciones."""
+
+import json
+import re
+import random
+from dataclasses import dataclass
+from typing import TypeVar
+
+T = TypeVar("T")
+
+
+def calcular_nota(puntaje_obtenido: float, puntaje_total: float, exigencia: float = 0.6) -> float:
+    """Fórmula chilena estándar, exigencia 60% — ver planificacion/12-motor-de-evaluacion.md.
+
+    - 0% de logro → nota 1.0
+    - `exigencia` de logro (60% por defecto) → nota 4.0 (aprobación)
+    - 100% de logro → nota 7.0
+    """
+    if puntaje_total <= 0:
+        raise ValueError("puntaje_total debe ser mayor que 0")
+    if not (0 < exigencia < 1):
+        raise ValueError("exigencia debe estar entre 0 y 1 (excluyentes)")
+
+    puntaje_aprobacion = puntaje_total * exigencia
+
+    if puntaje_obtenido <= puntaje_aprobacion:
+        nota = 1.0 + 3.0 * (puntaje_obtenido / puntaje_aprobacion)
+    else:
+        nota = 4.0 + 3.0 * (
+            (puntaje_obtenido - puntaje_aprobacion) / (puntaje_total - puntaje_aprobacion)
+        )
+
+    nota = max(1.0, min(7.0, nota))
+    return round(nota, 1)
+
+
+@dataclass(frozen=True)
+class Nota:
+    """Envuelve una nota ya calculada — se valida a sí misma en el rango chileno 1.0-7.0,
+    así ningún caller puede construir/propagar una nota fuera de escala por error."""
+
+    valor: float
+
+    def __post_init__(self) -> None:
+        if not (1.0 <= self.valor <= 7.0):
+            raise ValueError("La nota debe estar entre 1.0 y 7.0")
+
+    @classmethod
+    def desde_puntaje(cls, puntaje_obtenido: float, puntaje_total: float, exigencia: float = 0.6) -> "Nota":
+        return cls(calcular_nota(puntaje_obtenido, puntaje_total, exigencia))
+
+    def __float__(self) -> float:
+        return self.valor
+
+
+@dataclass(frozen=True)
+class PreguntaParaCorreccion:
+    """VO de lectura angosto — solo lo que el motor de autocorrección necesita de una
+    pregunta, desacoplado de la fila ORM y de la vista completa de lectura (enunciado,
+    opciones, etc. viven en el read-model de `RepositorioPreguntas`)."""
+
+    id: int
+    tipo: str
+    respuesta_correcta: str
+
+
+TIPOS_AUTOCORREGIBLES = {"alternativas", "verdadero_falso", "varias_correctas"}
+
+
+def _seleccion(valor: str | None) -> frozenset[str] | None:
+    """Respuesta de `varias_correctas`: lista JSON de textos de opción. Devuelve None si
+    no es una lista JSON de textos (respuesta malformada = incorrecta, nunca excepción)."""
+    try:
+        datos = json.loads(valor or "")
+    except (TypeError, ValueError):
+        return None
+    if not isinstance(datos, list) or not all(isinstance(x, str) for x in datos):
+        return None
+    return frozenset(x.strip().casefold() for x in datos if x.strip())
+
+
+def es_respuesta_correcta(tipo: str, respuesta_alumno: str | None, respuesta_correcta: str) -> bool:
+    """Única regla de corrección automática (decisión 2026-11-06: todo el material es de
+    alternativas). `alternativas`/`verdadero_falso` comparan el texto de la opción elegida;
+    `varias_correctas` exige marcar exactamente el conjunto correcto (todo o nada), sin
+    importar el orden. Vacío o malformado nunca es correcto."""
+    if tipo == "varias_correctas":
+        dada, correcta = _seleccion(respuesta_alumno), _seleccion(respuesta_correcta)
+        return bool(dada) and bool(correcta) and dada == correcta
+    dada_texto = (respuesta_alumno or "").strip().casefold()
+    return bool(dada_texto) and dada_texto == respuesta_correcta.strip().casefold()
+
+# Simulacro parcial (Fase 1.3) — se habilita al cubrir la mitad del temario de la
+# asignatura, con hasta 20 preguntas autocorregibles de las OA ya cubiertas.
+UMBRAL_SIMULACRO_PARCIAL = 0.5
+MAX_PREGUNTAS_SIMULACRO_PARCIAL = 20
+
+
+def mezclar_orden_estable(items: list[T], semilla: int) -> list[T]:
+    """Reordena `items` de forma pseudoaleatoria pero determinística: la misma `semilla`
+    siempre produce el mismo orden. Se usa para que una prueba/examen no muestre las
+    preguntas en el mismo orden fijo cada vez (impresión repetitiva), pero un alumno vea
+    el mismo orden si recarga o retoma su mismo intento (la semilla se deriva de
+    perfil_alumno_id + conjunto_evaluacion_id, no cambia entre llamadas de un mismo intento).
+    """
+    barajados = list(items)
+    random.Random(semilla).shuffle(barajados)
+    return barajados
+
+
+_RE_DEPENDE_DE_ANTERIOR = re.compile(
+    r"(?i)pregunta (anterior|previa|\d+)|preguntas? \d+ (a|y) \d+|mism[oa]s? (texto|lectura|párrafo|parrafo|poema|cuento|"
+    r"relato|tabla|gráfico|grafico|pictograma|fragmento|columna|noticia|carta|afiche|art[ií]culo|situación|caso)"
+)
+_RE_RANGO_PREGUNTAS = re.compile(r"(?i)\b(responde|contesta|responder|contestar) (las? )?(preguntas?) \d+( (a|y) \d+)?")
+# «## Texto 2 (también para las preguntas 6 a 9 y 22)»: el paréntesis solo numera y se omite.
+_RE_PARENTESIS_RANGO = re.compile(
+    r"(?i)\s*\((?:también )?(?:para )?(?:las? )?preguntas? \d+(?:\s*(?:a|y|,)\s*\d+)*\)")
+
+
+def _cabeza(enunciado: str) -> str:
+    return " ".join(enunciado.split())[:120]
+
+
+def bloques_de_lectura(enunciados: list[str]) -> list[list[int]]:
+    """Agrupa índices consecutivos que deben verse juntos y en su orden: comparten el mismo
+    estímulo (mismo comienzo del enunciado, p. ej. el texto embebido de una lectura) o citan
+    otra pregunta («la pregunta anterior», «responde las preguntas 1 a 5», «el mismo párrafo»)."""
+    bloques: list[list[int]] = []
+    for i, e in enumerate(enunciados):
+        mismo_estimulo = bool(bloques) and _cabeza(e) == _cabeza(enunciados[i - 1])
+        # «Lee el poema y responde las preguntas 6 a 9» abre un estímulo nuevo: no se une al anterior.
+        abre_estimulo = bool(_RE_RANGO_PREGUNTAS.search(e))
+        if bloques and (mismo_estimulo or (not abre_estimulo and _RE_DEPENDE_DE_ANTERIOR.search(e))):
+            bloques[-1].append(i)
+        else:
+            bloques.append([i])
+    return bloques
+
+
+def mezclar_por_bloques(items: list[T], enunciados: list[str], semilla: int) -> list[T]:
+    """Como `mezclar_orden_estable`, pero baraja BLOQUES de lectura en vez de preguntas
+    sueltas. Mezclar pregunta por pregunta separaba las preguntas de un mismo texto y rompía
+    referencias como «la pregunta anterior» (hallazgo de auditoría 2026-11-07)."""
+    bloques = bloques_de_lectura(enunciados)
+    random.Random(semilla).shuffle(bloques)
+    return [items[i] for b in bloques for i in b]
+
+
+def quitar_numeracion_de_rangos(enunciado: str) -> str:
+    """«Lee el cuento y responde las preguntas 1 a 5» deja de ser cierto cuando el orden
+    cambia: se reemplaza por «responde las preguntas siguientes»."""
+    def reemplazo(m: re.Match) -> str:
+        plural = m.group(4) is not None or m.group(3).lower().endswith("s")
+        return f"{m.group(1)} {'las preguntas siguientes' if plural else 'la pregunta siguiente'}"
+
+    return _RE_PARENTESIS_RANGO.sub("", _RE_RANGO_PREGUNTAS.sub(reemplazo, enunciado))
+
+
+def mezclar_orden_al_azar(items: list[T]) -> list[T]:
+    """Reordena `items` al azar, sin semilla — se usa donde no existe un intento que
+    retomar (banco de autoevaluación), así cada sesión de práctica se siente distinta."""
+    barajados = list(items)
+    random.shuffle(barajados)
+    return barajados

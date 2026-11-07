@@ -110,9 +110,9 @@ c) Guanaco → norte, en el desierto
 
 Según la nota, ¿a qué hora dice Camila que va a volver?
 
-a) A las 5
+a) A las 6
 b) A las 7
-c) A las 6
+c) A las 8
 
 ---
 
@@ -244,7 +244,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
 | 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
 | 8 | Ciencias Naturales | **c) Guanaco → norte, en el desierto.** El guanaco vive en las zonas secas del norte; el pudú vive en el bosque del sur y el cactus crece en el norte. | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **c) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 9 | Lenguaje y Comunicación | **a) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **a) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
 | 11 | Ciencias Naturales | **a, b y c.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
 | 12 | Historia, Geografía y Cs. Sociales | **a, b y d.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |

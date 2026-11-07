@@ -1,0 +1,2 @@
+class EstrellasInvalidas(Exception):
+    pass

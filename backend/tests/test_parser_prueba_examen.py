@@ -279,7 +279,8 @@ def test_lecturas_compartidas_reales_se_conservan_sin_contaminar_opciones():
     ruta = Path(__file__).resolve().parents[2] / "contenido/01-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md"
     preguntas = {p.numero: p for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))}
     assert all("Fui a jugar a la plaza con Tomás" in preguntas[n].enunciado for n in (1, 2))
-    assert preguntas[2].opciones == ["A las 5", "A las 6", "A las 7"]
+    # Horas en orden ascendente; la clave (6) queda en c) tras el rebalanceo de 2026-11-07.
+    assert preguntas[2].opciones == ["A las 4", "A las 5", "A las 6"]
     assert "Ponte jabón" in preguntas[3].enunciado
     assert "Camila" not in preguntas[3].enunciado
     assert "Ponte jabón" not in preguntas[4].enunciado
