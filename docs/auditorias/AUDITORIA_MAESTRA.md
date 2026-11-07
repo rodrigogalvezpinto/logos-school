@@ -1430,3 +1430,20 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
   - Pruebas: frontend 129, scripts de backend en verde.
   - E2E en los 3 navegadores: validación de 1.°, 2.° y 3.° básico, 54/54 cada uno, y flujos completos de 1.° a 3.° básico, 63/63.
   - El E2E reconoce los marcadores nuevos como alternativas dibujadas.
+
+### 15.32 Segunda pasada a los sesgos de clave (2026-11-07)
+
+**Medición sobre la base importada.** Se midieron las 5.031 alternativas, con 0 claves fuera de las opciones.
+- **Posición de la clave.** En 2.° básico a 4.° medio, cada letra queda entre 20 y 29 % (lo esperable es alrededor de 25 %). Solo **1.° básico** se desviaba: «b» en 37,6 %, con 43 % en las preguntas de 3 alternativas.
+- **«La correcta es claramente la más larga».** Va de 1,6 % a 7,6 % según el curso, sin cambios respecto de §15.24.
+
+**Corrección en 1.° básico.**
+- `rebalancear_claves.py` hizo 16 intercambios verificados.
+- Se cambiaron los distractores de 3 ítems numéricos por errores típicos de un niño:
+  - simulacro B, P13: 8 · 9 · 12;
+  - simulacro B, P17: 2 · 3 · 6, que son los otros datos del pictograma;
+  - prueba de Números, P5: 1 · 6 · 7 · 8, donde 1 es el error de restar.
+- Resultado: a 24,9 % · **b 30,0 %** · c 27,4 % · d 17,7 %. La «d» es menor porque un tercio de los ítems tiene 3 alternativas.
+- Las opciones numéricas se mantienen en orden ascendente, que es una convención de redacción.
+
+**Verificación.** Validador: 0 discrepancias. E2E de 1.° básico en los 3 navegadores: 54/54.

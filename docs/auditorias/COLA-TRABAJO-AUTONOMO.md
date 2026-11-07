@@ -41,7 +41,7 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 3 | 2.° básico: el mismo barrido de descripciones de imagen que delatan la respuesta | ✅ hecho 2026-11-07 |
 | 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | ✅ hecho 2026-11-07 |
 | 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | pendiente |
-| 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | pendiente |
+| 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | ✅ hecho 2026-11-07 |
 | 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | pendiente |
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
 | 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | pendiente |
@@ -53,6 +53,8 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
+
+- 2026-11-07: tarea 6 cerrada (§15.32). Solo 1.° básico tenía sesgo (b 37,6 % → 30 %); el resto de los cursos queda entre 20 y 29 % por letra. La tarea 5 (audio de 3.° y 4.° básico) se está generando en segundo plano.
 
 - 2026-11-07: tareas 1 a 4 cerradas (§15.31). Voz «alex» en 608 audios. Marcadores nuevos `::largo::`, `::regla::` y `::balanza::`. Barrido de 1.° a 4.° básico.
 
