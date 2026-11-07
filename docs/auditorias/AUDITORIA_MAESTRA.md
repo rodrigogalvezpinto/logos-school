@@ -1235,10 +1235,12 @@ Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conse
      - prueba unitaria `evaluacion-runner-guardado.spec.ts`.
   2. *V/F marcada sin estar registrada.* Los radios de V/F no tenían `[checked]` ni `value`. Al pasar de una V/F a otra se veía marcada la respuesta anterior, pero no se registraba. Corregido en `evaluacion-runner.ts`.
   3. *22 pruebas con nombre repetido en 8 ramos* (6B/7B Matemática, 7B/1M Historia, 3M CpC y Educación Ciudadana, 4M Inglés y Matemática). El importador usa ahora el `título:` del frontmatter; se agregó un título a 8 archivos y una guarda `test_nombres_pruebas_unicos.py`.
-- **Resultado.**
-  - Chromium: **264/264 aprobados**.
-  - Firefox (corrida en curso al escribir esto): 242 aprobados y 3 bloqueos de infraestructura, ya aprobados en Chromium: «408 Request Timeout» del servidor de desarrollo y un clic que Firefox no terminó de procesar. Se re-ejecutarán.
-  - WebKit: pendiente.
+- **Resultado final (2026-11-07).** Con el frontend compilado y servido estático, porque el servidor de desarrollo generó bloqueos «408» en Firefox durante una corrida previa: **792/792 aprobados en 41,9 min**.
+  - Chromium: 264/264.
+  - Firefox: 264/264.
+  - WebKit: 264/264.
+  - Equivale a 6.150 preguntas por navegador, todas respondidas con su clave, con el registro de la respuesta verificado y nota 7.0.
+  - Evidencia: `frontend/test-results/validacion-integral-20261107/` (`report.json`, `corrida.log`).
 - **Suites.**
   - Backend: 718 pasados (+1 omitido).
   - Scripts: 58 pasados (+1 omitido).
