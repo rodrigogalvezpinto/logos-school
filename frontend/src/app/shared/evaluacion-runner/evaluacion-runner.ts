@@ -107,7 +107,11 @@ export interface PreguntaRunner {
                     [checked]="respuestas()[preguntaActual.id] === op"
                     (change)="responder(preguntaActual.id, op)"
                   />
-                  {{ op }}
+                  @if (tieneMarcadorVisual(op)) {
+                    <span class="opcion__visual" [innerHTML]="op | markdown"></span>
+                  } @else {
+                    {{ op }}
+                  }
                 </label>
               }
             </div>
@@ -122,7 +126,11 @@ export interface PreguntaRunner {
                     [checked]="estaMarcada(preguntaActual.id, op)"
                     (change)="alternarVarias(preguntaActual, op)"
                   />
-                  {{ op }}
+                  @if (tieneMarcadorVisual(op)) {
+                    <span class="opcion__visual" [innerHTML]="op | markdown"></span>
+                  } @else {
+                    {{ op }}
+                  }
                 </label>
               }
             </div>
@@ -462,8 +470,16 @@ export class EvaluacionRunner implements OnInit {
   }
 
   textoRespuesta(valor: string | null | undefined, tipo: string | undefined): string {
-    if (tipo === 'varias_correctas') return this.seleccion(valor).join('; ');
-    return valor || '';
+    const texto = tipo === 'varias_correctas' ? this.seleccion(valor).join('; ') : valor || '';
+    // Marcadores visuales (::contar::🍎::9::, ::emoji::🍎::desc::) en texto plano legible.
+    return texto
+      .replace(/::contar::([^:]+)::(\d{1,2})::/g, (_m, e: string, n: string) => `${n} ${e}`)
+      .replace(/::emoji::([^:]+)::([^:]+)::/g, (_m, e: string, d: string) => `${e} ${d}`);
+  }
+
+  /** La opción trae un marcador visual que hay que dibujar (no mostrar como texto crudo). */
+  tieneMarcadorVisual(op: string): boolean {
+    return op.includes('::contar::') || op.includes('::emoji::');
   }
 
   estaMarcada(preguntaId: number, opcion: string): boolean {

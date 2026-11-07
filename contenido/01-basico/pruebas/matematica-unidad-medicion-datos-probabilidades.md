@@ -43,25 +43,25 @@ a) La cuerda A
 b) La cuerda B
 c) Las dos miden lo mismo
 
-**4.** [Imagen: tabla de conteo con mascota favorita — Perro: 4 marcas, Gato: 3 marcas, Pez: 2 marcas] ¿Cuántos niños prefieren el gato?
+**4.** Tabla de conteo de mascota favorita: Perro \|\|\|\| — Gato \|\|\| — Pez \|\|. ¿Cuántos niños prefieren el gato?
 
 a) 2
 b) 3
 c) 4
 d) 9
 
-**5.** Según la tabla de la pregunta 4, ¿más niños prefieren el pez que el perro? ¿Verdadero o falso?
+**5.** Tabla de conteo de mascota favorita: Perro \|\|\|\| — Gato \|\|\| — Pez \|\|. Según esta tabla, ¿más niños prefieren el pez que el perro? ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
 
-**6.** Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\| (6), plátano \|\|\| (3), uva \|\|\|\| (4). ¿Cuál es la fruta menos elegida?
+**6.** Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\|, plátano \|\|\|, uva \|\|\|\|. ¿Cuál es la fruta menos elegida?
 
 a) La manzana
 b) La uva
 c) El plátano
 
-**7.** [Imagen: pictograma de mascotas — Perro: 🐶🐶🐶🐶🐶 (5), Gato: 🐱🐱🐱 (3), Pez: 🐟🐟 (2)] ¿Cuántos niños tienen perro?
+**7.** Pictograma de mascotas: Perro 🐶🐶🐶🐶🐶 — Gato 🐱🐱🐱 — Pez 🐟🐟. ¿Cuántos niños tienen perro?
 
 a) 2
 b) 3

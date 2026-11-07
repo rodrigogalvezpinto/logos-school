@@ -439,3 +439,21 @@ blockquote {
     background: #f1f5f9;
   }
 }
+
+/* Conteo visual (::contar::⭐::6::): elementos reales para que el niño cuente. */
+.contar {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  max-width: 22rem;
+  padding: 0.5rem 0.75rem;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  border-radius: 12px;
+  background: var(--superficie-suave, rgba(91, 79, 233, 0.06));
+  font-size: 1.8rem;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+.opcion__visual p { display: inline; margin: 0; }
+.opcion__visual .contar { font-size: 1.4rem; }
+.dibujo { display: inline-block; font-size: 3rem; line-height: 1.1; margin: 0.25rem 0.75rem 0.25rem 0; vertical-align: middle; }

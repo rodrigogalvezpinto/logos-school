@@ -123,6 +123,17 @@ const RE_EJEMPLO = /<p><strong>(?:Ejemplo|Actividad) (\d+)\s*—\s*([^<]*)<\/str
 const RE_IMAGEN = /\[Imagen:\s*([^\]]+)\]/g;
 // Nuevo: Convertir marcadores de emoji ::emoji::🦋::descripcion:: en HTML visual
 const RE_EMOJI = /::emoji::([^:]+)::([^:]+)::/g;
+// Conteo visual: ::contar::⭐::6:: dibuja 6 estrellas reales para contar. Antes se usaba
+// ::emoji::⭐::6 estrellas dibujadas::, que mostraba UNA estrella y la cantidad escrita: el
+// niño leía la respuesta en vez de contar (hallazgo de auditoría 2026-11-07).
+export const RE_CONTAR = /::contar::([^:]+)::(\d{1,2})::/g;
+// Dibujo sin rótulo: ::dibujo::☀️:: muestra solo el dibujo grande. En preguntas de escritura
+// («¿cuál es la palabra bien escrita para este dibujo?») el rótulo «un sol» daba la respuesta.
+export const RE_DIBUJO = /::dibujo::([^:]+)::/g;
+export function htmlContar(emoji: string, cantidad: string): string {
+  const n = Math.min(parseInt(cantidad, 10), 30);
+  return `<span class="contar" role="img" aria-label="${n} elementos para contar">${`<span class="contar__item">${emoji}</span>`.repeat(n)}</span>`;
+}
 // Componentes matemáticos: [recta: inicio-fin: valor] para recta numérica
 const RE_RECTA = /\[recta:\s*(\d+)-(\d+):\s*(\d+)\]/g;
 // Componentes matemáticos: [fraccion: numerador/denominador] para modelo de fracciones
@@ -137,6 +148,9 @@ function realzarGuia(html: string): string {
     .replace(RE_TITULO_EJEMPLOS, '<h$1 class="titulo-ejemplos">Ejemplos resueltos</h$1>')
     .replace(RE_EJEMPLO, '<p class="ejemplo-titulo"><span class="ejemplo-num">$1</span>$2</p>')
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
+
+  resultado = resultado.replace(RE_CONTAR, (_m, emoji, cantidad) => htmlContar(emoji, cantidad));
+  resultado = resultado.replace(RE_DIBUJO, (_m, emoji) => `<span class="dibujo" role="img" aria-label="dibujo">${emoji}</span>`);
 
   // Procesar emoji: ::emoji::🦋::descripcion:: -> HTML visual
   resultado = resultado.replace(RE_EMOJI, (match, emoji, descripcion) => {

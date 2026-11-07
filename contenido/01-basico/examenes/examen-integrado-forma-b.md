@@ -186,7 +186,7 @@ c) Interrumpir al profesor sin pedir la palabra
 
 ---
 
-**17.** Observa el pictograma con la cantidad de mascotas de un curso (cada dibujo = 1 niño). Perro: 🐶🐶🐶🐶🐶🐶 (6). Gato: 🐱🐱🐱 (3). Pez: 🐟🐟 (2). ¿Cuántos niños tienen perro?
+**17.** Observa el pictograma con la cantidad de mascotas de un curso (cada dibujo = 1 niño). Perro: 🐶🐶🐶🐶🐶🐶. Gato: 🐱🐱🐱. Pez: 🐟🐟. ¿Cuántos niños tienen perro?
 
 a) 3
 b) 6

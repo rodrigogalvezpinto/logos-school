@@ -439,7 +439,7 @@ Frase mal escrita, sin espacios: "**elpajarocanta**"
 ### Banco de preguntas de autoevaluación — OA N°13
 
 **1. (Alternativas — escribir palabra desde un dibujo)**
-::emoji::☀️::un sol::
+::dibujo::☀️::
  ¿Cuál es la palabra **bien escrita** para este dibujo?
 
 a) sl
@@ -485,7 +485,7 @@ d) Pan pan pan.
 *Respuesta correcta: b.* Retroalimentación: ¡muy bien! "Me gusta comer pan" responde la pregunta y tiene cada palabra separada por un espacio. Ahora escribe tú, en tu cuaderno, qué te gusta comer.
 
 **6. (Alternativas — letra y sonido)**
-::emoji::🐟::un pez::
+::dibujo::🐟::
  ¿Cuál es la palabra **bien escrita** para este dibujo, pensando en cada sonido?
 
 a) pes

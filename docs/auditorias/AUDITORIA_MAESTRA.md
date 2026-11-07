@@ -1286,3 +1286,34 @@ Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conse
 - Scripts y parsers: 212 pasados (+1 omitido).
 - Frontend: 96 pasados.
 - E2E de 4.° básico: 18/18 en Chromium.
+
+### 15.27 Revisión ítem por ítem — 1.° básico y defectos transversales de presentación (2026-11-07)
+
+**Alcance.** 1.° básico completo: 4 guías, 12 pruebas y 2 simulacros, con el mismo método de §15.26. Las preguntas de pruebas y simulacros idénticas a una de la guía ya revisada no se releen.
+
+**Defectos transversales encontrados y corregidos en la app.**
+1. *Imágenes de stock erróneas.* Las 6 fotos de `frontend/public/assets/imagenes/1-basico/` no correspondían a lo que decían mostrar: «14 pelotas» mostraba 3 o 4; los «pictogramas» eran una foto de un perro y un gato y una persona junto a bolsas; la «fila de Antonia, Benjamín e Isidora» era una foto con la palabra «DEMENTIA». Se eliminaron y se reemplazaron por los datos visibles: conteos dibujados, pictogramas en emoji o texto.
+2. *Conteo que daba la respuesta.* `::emoji::⭐::6 estrellas dibujadas::` mostraba UNA estrella y la cantidad escrita, y las opciones con marcador se veían como texto crudo con la respuesta incluida.
+   - Nuevo marcador `::contar::⭐::6::`, que dibuja los 6 elementos.
+   - Las opciones con marcador se dibujan en vez de mostrarse como texto.
+   - La retroalimentación muestra «9 🍎».
+   - Aplicado a 1.° básico Matemática (guía, prueba y simulacro A).
+3. *Escritura con la palabra a la vista.* «¿Cuál es la palabra bien escrita para este dibujo?» venía con el rótulo «un sol», «un pez» o «una luna». Nuevo marcador `::dibujo::☀️::`, que muestra solo el dibujo.
+4. *Barajado que rompía lecturas.* Pruebas y simulacros barajaban pregunta por pregunta. Eso separaba las preguntas de un mismo texto y dejaba falsas 235 referencias del tipo «responde las preguntas 1 a 5», «la pregunta anterior» o «el mismo párrafo».
+   - Ahora se barajan *bloques de lectura*, con `mezclar_por_bloques` y `bloques_de_lectura`: las preguntas que comparten estímulo o se citan quedan juntas y en orden.
+   - «responde las preguntas 1 a 5» pasa a «responde las preguntas siguientes».
+   - Pruebas unitarias en `tests/unit/domain/test_mezcla_por_bloques.py`.
+
+**Contenido de 1.° básico corregido.**
+- Tablas de conteo y pictogramas que escribían el número junto a las marcas («Gato: 3 marcas», «(5)», «(6)»): ahora hay que contar. Afecta a la guía OA 19 y 20, la prueba de Medición P4–P7 y los simulacros A P17 y B P17.
+- La prueba P5 y la guía OA 20#5 citaban «la tabla/pictograma de la Pregunta 4»; ahora llevan sus datos.
+- Guía de Historia OA 2#1: «¿Qué haces antes del desayuno?» tenía como clave «Dormir toda la noche». Se reescribió.
+- Distractor «Guanaco → sur lluvioso»: el guanaco sí habita en la Patagonia, así que era ambiguo; pasa a «Flamenco → bosque del sur».
+
+**Pendiente de recursos visuales.** Pendiente para el diseñador: hacen falta ilustraciones reales. Preguntas de posición cuya descripción dice la respuesta: la prueba de Geometría P2 «debajo», P4 «dentro», P5 «a la izquierda» y sus gemelas en la guía OA 13, y la prueba de Geografía P7 «a la izquierda».
+
+**Verificación.**
+- Validador: 0 discrepancias.
+- Backend: 721 pasados (+1 omitido).
+- Frontend: 98 pasados, con un test nuevo de los marcadores.
+- E2E Chromium: 1.° básico 18/18 y 4.° básico 18/18. El spec exige además que no se vean marcadores crudos.

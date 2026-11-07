@@ -64,7 +64,7 @@ c) Ponerse jabón
 
 ---
 
-**4.** [Imagen: un sol] ¿Cuál es la palabra bien escrita para este dibujo?
+**4.** ::dibujo::☀️:: ¿Cuál es la palabra bien escrita para este dibujo?
 
 a) sl
 b) sool
@@ -91,7 +91,7 @@ c) "lacasa esgrande"
 
 ---
 
-**7.** [Imagen: un pez] ¿Cuál es la palabra bien escrita para este dibujo, pensando en
+**7.** ::dibujo::🐟:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en
 cada sonido?
 
 a) ps

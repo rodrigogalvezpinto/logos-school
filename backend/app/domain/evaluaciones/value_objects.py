@@ -1,6 +1,7 @@
 """Value Objects del contexto Evaluaciones."""
 
 import json
+import re
 import random
 from dataclasses import dataclass
 from typing import TypeVar
@@ -105,6 +106,52 @@ def mezclar_orden_estable(items: list[T], semilla: int) -> list[T]:
     barajados = list(items)
     random.Random(semilla).shuffle(barajados)
     return barajados
+
+
+_RE_DEPENDE_DE_ANTERIOR = re.compile(
+    r"(?i)pregunta (anterior|previa|\d+)|preguntas? \d+ (a|y) \d+|mism[oa]s? (texto|lectura|párrafo|parrafo|poema|cuento|"
+    r"relato|tabla|gráfico|grafico|pictograma|fragmento|columna|noticia|carta|afiche|art[ií]culo|situación|caso)"
+)
+_RE_RANGO_PREGUNTAS = re.compile(r"(?i)\b(responde|contesta) (las? )?(preguntas?) \d+( (a|y) \d+)?")
+
+
+def _cabeza(enunciado: str) -> str:
+    return " ".join(enunciado.split())[:120]
+
+
+def bloques_de_lectura(enunciados: list[str]) -> list[list[int]]:
+    """Agrupa índices consecutivos que deben verse juntos y en su orden: comparten el mismo
+    estímulo (mismo comienzo del enunciado, p. ej. el texto embebido de una lectura) o citan
+    otra pregunta («la pregunta anterior», «responde las preguntas 1 a 5», «el mismo párrafo»)."""
+    bloques: list[list[int]] = []
+    for i, e in enumerate(enunciados):
+        mismo_estimulo = bool(bloques) and _cabeza(e) == _cabeza(enunciados[i - 1])
+        # «Lee el poema y responde las preguntas 6 a 9» abre un estímulo nuevo: no se une al anterior.
+        abre_estimulo = bool(_RE_RANGO_PREGUNTAS.search(e))
+        if bloques and (mismo_estimulo or (not abre_estimulo and _RE_DEPENDE_DE_ANTERIOR.search(e))):
+            bloques[-1].append(i)
+        else:
+            bloques.append([i])
+    return bloques
+
+
+def mezclar_por_bloques(items: list[T], enunciados: list[str], semilla: int) -> list[T]:
+    """Como `mezclar_orden_estable`, pero baraja BLOQUES de lectura en vez de preguntas
+    sueltas. Mezclar pregunta por pregunta separaba las preguntas de un mismo texto y rompía
+    referencias como «la pregunta anterior» (hallazgo de auditoría 2026-11-07)."""
+    bloques = bloques_de_lectura(enunciados)
+    random.Random(semilla).shuffle(bloques)
+    return [items[i] for b in bloques for i in b]
+
+
+def quitar_numeracion_de_rangos(enunciado: str) -> str:
+    """«Lee el cuento y responde las preguntas 1 a 5» deja de ser cierto cuando el orden
+    cambia: se reemplaza por «responde las preguntas siguientes»."""
+    def reemplazo(m: re.Match) -> str:
+        plural = m.group(4) is not None or m.group(3).lower().endswith("s")
+        return f"{m.group(1)} {'las preguntas siguientes' if plural else 'la pregunta siguiente'}"
+
+    return _RE_RANGO_PREGUNTAS.sub(reemplazo, enunciado)
 
 
 def mezclar_orden_al_azar(items: list[T]) -> list[T]:

@@ -63,7 +63,7 @@ d) 12
 a) Verdadero
 b) Falso
 
-**7.** [Imagen: 14 globos de colores flotando] Cuenta los globos. ¿Qué número representan?
+**7.** ::contar::🎈::14:: Cuenta los globos. ¿Qué número representan?
 
 a) 13
 b) 15

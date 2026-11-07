@@ -256,7 +256,7 @@ que no se dañe.
 
 6. *(Alternativas)* ¿Cuál de estas parejas está **bien unida** con la zona de Chile
    donde se encuentra?
-   a) Guanaco → sur lluvioso
+   a) Flamenco → bosque del sur
    b) Copihue → bosque del sur
    c) Pudú → desierto del norte
    d) Cactus → bosque del sur

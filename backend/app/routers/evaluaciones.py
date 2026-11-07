@@ -58,7 +58,11 @@ from app.domain.evaluaciones.exceptions import (
     SinPreguntasDisponibles,
 )
 from app.domain.evaluaciones.ports import RepositorioConjuntos, RepositorioIntentos, RepositorioPreguntas
-from app.domain.evaluaciones.value_objects import mezclar_orden_al_azar, mezclar_orden_estable
+from app.domain.evaluaciones.value_objects import (
+    mezclar_orden_al_azar,
+    mezclar_por_bloques,
+    quitar_numeracion_de_rangos,
+)
 
 router = APIRouter(prefix="/evaluaciones", tags=["evaluaciones"])
 
@@ -206,7 +210,9 @@ def obtener_conjunto(
         # Semilla estable por (alumno, conjunto): el orden varía entre alumnos y entre
         # pruebas/exámenes distintos, pero no cambia si el mismo alumno recarga o retoma
         # el mismo intento — evita que "la pregunta 5" cambie de contenido a mitad de camino.
-        preguntas = mezclar_orden_estable(preguntas, semilla=perfil_alumno_id * 1_000_003 + conjunto_id)
+        preguntas = mezclar_por_bloques(
+            preguntas, [p.enunciado for p in preguntas], semilla=perfil_alumno_id * 1_000_003 + conjunto_id
+        )
     return ConjuntoDetalle(
         id=conjunto.id,
         tipo=conjunto.tipo,
@@ -214,7 +220,8 @@ def obtener_conjunto(
         forma=conjunto.forma,
         tiempo_sugerido_min=conjunto.tiempo_sugerido_min,
         preguntas=[
-            PreguntaSinRespuesta(id=p.id, tipo=p.tipo, enunciado=p.enunciado, opciones=p.opciones)
+            PreguntaSinRespuesta(id=p.id, tipo=p.tipo, enunciado=quitar_numeracion_de_rangos(p.enunciado),
+                                 opciones=p.opciones)
             for p in preguntas
         ],
     )

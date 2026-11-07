@@ -92,15 +92,15 @@ Tomás estará en 2° Básico. *Paso a paso:* ordenamos los cursos según el añ
 
 #### Autoevaluación — OA 2
 
-**1. (Alternativas)** ¿Qué haces antes del desayuno?
-a) Dormir toda la noche
+**1. (Alternativas)** ¿Qué haces primero en la mañana, antes del desayuno?
+a) Despertarme y levantarme
 b) Ir a dormir la siesta
 c) Almorzar
 d) Cenar
 
-✅ Respuesta correcta: **a) Dormir toda la noche**
-💬 *Retroalimentación:* ¡Muy bien! Antes de empezar el día, dormimos toda la noche. Después
-viene el desayuno y el resto de las actividades del día.
+✅ Respuesta correcta: **a) Despertarme y levantarme**
+💬 *Retroalimentación:* ¡Muy bien! Lo primero en la mañana es despertarnos y levantarnos.
+Después viene el desayuno; el almuerzo, la siesta y la cena llegan más tarde.
 
 ---
 

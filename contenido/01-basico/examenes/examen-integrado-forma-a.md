@@ -35,7 +35,7 @@ basado_en: >
 
 ## PREGUNTAS
 
-**1.** [Imagen: 11 pelotas dibujadas en fila] ¿Qué número representa esta cantidad de pelotas?
+**1.** ::contar::⚽::11:: ¿Qué número representa esta cantidad de pelotas?
 
 a) 9
 b) 10
@@ -171,7 +171,7 @@ c) Cerrar los ojos
 
 ---
 
-**17.** Se preguntó a un grupo de niños cuál es su fruta favorita, y se registró así: manzana \|\|\|\|\| (5), plátano \|\|\| (3), uva \|\|\|\|\|\|\| (7). ¿Cuál es la fruta preferida por más niños?
+**17.** Se preguntó a un grupo de niños cuál es su fruta favorita, y se registró así: manzana \|\|\|\|\|, plátano \|\|\|, uva \|\|\|\|\|\|\|. ¿Cuál es la fruta preferida por más niños?
 
 a) Manzana
 b) Plátano
@@ -195,7 +195,7 @@ c) Carabineros
 
 ---
 
-**20.** [Imagen: una luna en el cielo] ¿Cuál es la palabra bien escrita para este dibujo, pensando en cada sonido?
+**20.** ::dibujo::🌙:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en cada sonido?
 
 a) lua
 b) luna

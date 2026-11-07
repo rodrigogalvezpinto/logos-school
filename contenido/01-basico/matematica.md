@@ -54,7 +54,7 @@ Contamos uno por uno: 1, 2, 3, 4, 5, 6, 7, 8. Ese número se escribe **8** y se 
 **Ejemplo 2 — De lo pictórico a lo simbólico**
 
 
-![14 pelotas de fútbol dibujadas, agrupadas en una fila](/assets/imagenes/1-basico/002-14-pelotas-de-fútbol-dibujadas-agrupadas-en-una-fi.jpg)
+::contar::⚽::14::
 
 
 Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantidad se escribe **14** y se lee "catorce".
@@ -64,7 +64,7 @@ Contamos las pelotas: 1, 2, 3... hasta 14. El número que representa esta cantid
 El número **19** se lee "diecinueve". Para representarlo con dibujos, podemos dibujar 19 estrellitas:
 
 
-![19 estrellitas dibujadas en fila, para representar el número 19](/assets/imagenes/1-basico/003-19-estrellitas-dibujadas-en-fila-para-representar-.jpg)
+::contar::⭐::19::
 
 
 #### Preguntas de autoevaluación
@@ -88,7 +88,7 @@ d) 19
 *Retroalimentación:* "diecinueve" es "diez y nueve" juntos, por eso se escribe 19 (una decena y nueve unidades). 91 tiene los dígitos al revés. Recuerda que los números del 11 al 19 casi siempre empiezan sonando como "dieci-".
 
 **Pregunta 3 (alternativas — representación pictórica).** 
-::emoji::⭐::6 estrellas dibujadas::
+::contar::⭐::6::
  ¿Qué número representa esta cantidad de estrellas?
 a) 5
 b) 6
@@ -104,7 +104,7 @@ d) 9
 *Retroalimentación:* el número 20 se lee "veinte". "Doce" es el número 12. Son números distintos, aunque suenan parecido: hay que tener cuidado de no confundirlos.
 
 **Pregunta 5 (alternativas — contar).**
-::emoji::🎨::14 globos de colores flotando::
+::contar::🎈::14::
  Cuenta los globos. ¿Qué número representan?
 a) 13
 b) 14
@@ -116,16 +116,16 @@ d) 41
 
 **Pregunta 6 (alternativas).** ¿Cuál de estas opciones muestra el número 9 representado con dibujos?
 a) 
-::emoji::🍎::9 manzanas dibujadas::
+::contar::🍎::9::
 
 b) 
-::emoji::🍎::6 manzanas dibujadas::
+::contar::🍎::6::
 
 c) 
-::emoji::🍎::12 manzanas dibujadas::
+::contar::🍎::12::
 
 d) 
-::emoji::🍎::19 manzanas dibujadas::
+::contar::🍎::19::
 
 
 **Respuesta correcta: a) 9 manzanas.**
@@ -237,7 +237,7 @@ Vas a aprender que un número se puede formar juntando dos partes más chicas (*
 Diego tiene 5 globos rojos y 3 globos azules.
 
 
-::emoji::👀::5 globos rojos y 3 globos azules juntos::
+::contar::🔴::5:: ::contar::🔵::3::
 
 
 Si juntamos ambos grupos: 5 y 3 forman el número **8**. Escrito de forma simbólica: 8 = 5 + 3
@@ -255,7 +255,7 @@ Todas estas descomposiciones son correctas, porque en cada una, al sumar las dos
 **Ejemplo 3 — Descomponer de forma pictórica**
 
 
-::emoji::🌊::12 dulces, 7 son rojos y 5 son amarillos::
+::contar::🔴::7:: ::contar::🟡::5::
 
 
 En este grupo de 12 dulces hay 7 rojos y 5 amarillos. Entonces: 12 = 7 + 5
@@ -290,7 +290,7 @@ d) 16 = 9 + 7
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes, el resultado sea exactamente 16. 10 + 6, 8 + 8 y 9 + 7 dan 16, pero 9 + 6 da 15.
 
 **Pregunta 4 (alternativas — pictórico).**
-::emoji::🔴::6 fichas rojas y 4 fichas azules juntas::
+::contar::🔴::6:: ::contar::🔵::4::
  ¿Qué suma representa esta composición?
 a) 6 + 4 = 10
 b) 6 + 4 = 11
@@ -421,7 +421,7 @@ Vas a comprender la **adición** (suma) y la **sustracción** (resta) con númer
 En el patio hay 2 perritos jugando y llegan 3 perritos más.
 
 
-::emoji::🐶::2 perritos, y llegando desde el costado, 3 perritos más::
+::contar::🐶::2:: ::contar::🐶::3::
 
 
 2 + 3 = **5 perritos** en total.
@@ -431,7 +431,7 @@ En el patio hay 2 perritos jugando y llegan 3 perritos más.
 Valentina tenía 9 manzanas y se comió 4.
 
 
-::emoji::🎨::9 manzanas, 4 de ellas tachadas o comidas::
+::emoji::🍎::9 manzanas, 4 de ellas tachadas o comidas::
 
 
 9 − 4 = **5 manzanas** le quedan.
@@ -631,7 +631,7 @@ El gato está **debajo** de la mesa, y el florero está **encima** (arriba) de l
 **Ejemplo 3 — Posición entre dos personas**
 
 
-![Camila está delante de Mateo, y Mateo está detrás de Camila, formando una fila](/assets/imagenes/1-basico/026-camila-está-delante-de-mateo-y-mateo-está-detrás-d.jpg)
+Una fila: 👧 Camila → 👦 Mateo (Camila va primero).
 
 
 Camila está **delante** de Mateo, y Mateo está **detrás** de Camila.
@@ -686,7 +686,7 @@ d) Dentro del árbol
 *Retroalimentación:* observando la imagen, la niña se encuentra ubicada en el lado izquierdo del árbol, por eso decimos que está "a la izquierda" de él.
 
 **Pregunta 6 (alternativas — aplicación).**
-![en una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora](/assets/imagenes/1-basico/029-en-una-fila-antonia-está-delante-de-benjamín-y-ben.jpg)
+En una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora.
  ¿Quién está entre Antonia e Isidora?
 a) Antonia
 b) Isidora
@@ -846,7 +846,7 @@ d) No, porque debía dibujar 12 marcas: una por cada ficha.
 **Respuesta correcta: b) No, porque si contó 7 fichas debía dibujar 7 marcas.**
 *Retroalimentación:* al registrar datos, la cantidad de marcas en la tabla siempre debe coincidir exactamente con la cantidad real de elementos contados.
 
-**Pregunta 5 (alternativas — aplicación).** Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\| (6), plátano \|\|\| (3), uva \|\|\|\| (4). ¿Cuál es la fruta menos elegida?
+**Pregunta 5 (alternativas — aplicación).** Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\|, plátano \|\|\|, uva \|\|\|\|. ¿Cuál es la fruta menos elegida?
 a) La manzana
 b) La uva
 c) El plátano
@@ -873,9 +873,6 @@ Gato: 🐱🐱🐱 (3)
 Pez: 🐟🐟 (2)
 
 
-![pictograma con filas de perros, gatos y peces representando la cantidad de niños que tiene cada mascota](/assets/imagenes/1-basico/033-pictograma-con-filas-de-perros-gatos-y-peces-repre.jpg)
-
-
 ¿Cuántos niños tienen gato? Contamos los dibujos de gato: **3 niños**.
 
 **Ejemplo 2 — Interpretar y comparar**
@@ -890,9 +887,6 @@ En una sala hay 5 mochilas azules y 7 mochilas rojas. Construimos un pictograma 
 
 Mochila azul: 🎒🎒🎒🎒🎒 (5)
 Mochila roja: 🎒🎒🎒🎒🎒🎒🎒 (7)
-
-
-![pictograma con 5 mochilas dibujadas en la fila azul y 7 mochilas dibujadas en la fila roja](/assets/imagenes/1-basico/034-pictograma-con-5-mochilas-dibujadas-en-la-fila-azu.jpg)
 
 
 #### Preguntas de autoevaluación
@@ -929,7 +923,7 @@ d) Azul: 10 dibujos; amarillo: 4 dibujos
 **Respuesta correcta: c) Azul: 6 dibujos; amarillo: 4 dibujos.**
 *Retroalimentación:* en un pictograma hay que dibujar exactamente la misma cantidad de símbolos que la cantidad real de niños en cada grupo: 6 en la fila del azul y 4 en la del amarillo.
 
-**Pregunta 5 (alternativas — aplicación).** Usando el pictograma de la Pregunta 4 (6 delantales azules y 4 amarillos), ¿qué color de delantal tienen más niños?
+**Pregunta 5 (alternativas — aplicación).** En un pictograma hay 6 dibujos de delantal azul y 4 de delantal amarillo. ¿Qué color de delantal tienen más niños?
 a) El amarillo
 b) El azul
 c) Los dos tienen la misma cantidad
