@@ -17,8 +17,12 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
   4. Validación E2E del curso afectado en los 3 navegadores.
 - Commit por tarea, con el trailer `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, y push.
 - Registrar cada cierre en `AUDITORIA_MAESTRA.md` (§15.x siguiente).
-- Las tareas que requieran una decisión del usuario se marcan **⏸ espera al usuario** y se pasa a
-  la siguiente.
+- Las **reparaciones** (errores de contenido, defectos y deuda de la auditoría) van en `main`.
+  Las **funcionalidades nuevas** van en una rama aparte, `feature/<nombre>`: se hace push de la
+  rama, sin merge, y el usuario la revisa después.
+- Lo que dependa de una cuenta externa o del usuario se **prepara al máximo**: código detrás de
+  variables de entorno, `.env.example` y guía paso a paso. Lo que el usuario debe hacer se anota en
+  `docs/PENDIENTES-USUARIO.md` (cuentas, claves y decisiones) y se pasa a la siguiente tarea.
 
 ## Entorno local (por si la sesión se reinicia)
 
@@ -42,9 +46,13 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
 | 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | pendiente |
 | 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | pendiente |
-| 11 | Fase 2 de Brincus sin dependencias externas: juegos de práctica con el banco de preguntas. Primero diseño en `planificacion/` y después la construcción | pendiente |
-| — | Profesor con IA, pasarela de pago, Google, Resend y despliegue | ⏸ espera al usuario (servicios o credenciales externas) |
+| 11 | `docs/PENDIENTES-USUARIO.md`: lista de cuentas y claves que hacen falta (Neon, Render, Cloudflare Pages/R2, Resend, Google OAuth, Turnstile, Sentry, UptimeRobot, pasarela de pago, API de IA), con costo, paso a paso y dónde se configura cada una. También las decisiones abiertas | pendiente |
+| 12 | Preparar el despliegue sin desplegar: verificar `.env.example`, la configuración de producción, el CSP y los headers. Script para publicar los audios en R2 o en el build. Checklist de despliegue paso a paso. Va en `main` (es documentación y configuración) | pendiente |
+| 13 | Rama `feature/juegos-practica`: juegos de práctica con el banco de preguntas (Fase 2 de Brincus, sin dependencias externas). Diseño en `planificacion/` y después la construcción, con pruebas | pendiente |
+| 14 | Rama `feature/profesor-ia`: tutor con IA (Fase 2 de Brincus). Se construye detrás de una variable de entorno (sin clave queda desactivado), con salvaguardas para menores y un adaptador de pruebas. Se activa cuando el usuario entregue la clave | pendiente |
+| 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
 
-- 2026-11-07: cola creada.
+- 2026-11-07: cola creada. El usuario agregó: reparaciones en `main`, funcionalidades nuevas en
+  ramas aparte, y avanzar al máximo lo que dependa de cuentas externas, con pendientes para él.
