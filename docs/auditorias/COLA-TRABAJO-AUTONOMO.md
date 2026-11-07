@@ -57,6 +57,14 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 7. Hacer commit por archivo o por asignatura. Orden: 4.° básico (piloto) → 1.°–3.° básico →
    5.°–8.° básico → media.
 
+## ⚠️ Prioridad vigente: Fase 1 (desde el 2026-11-07, 20:30)
+
+El usuario pidió **auditar primero el material en los archivos contra los temarios oficiales**,
+después aplicarlo a la app una sola vez y dejar las mejoras para el final. Mientras la Fase 1 no
+esté cerrada, **no avanzar las tareas 5 a 15** (reescrituras, Forma A, audio, imágenes y ramas).
+El estado y los controles están en `docs/auditorias/fase1/00-ESTADO-FASE1.md`: tomar el primer
+control pendiente.
+
 ## Tareas
 
 | # | Tarea | Estado |
