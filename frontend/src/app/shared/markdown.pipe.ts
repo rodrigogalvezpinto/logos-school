@@ -187,6 +187,54 @@ export function htmlFila(lista: string): string {
   const items = lista.split('::').filter(Boolean).map((e) => `<span class="fila-dibujo__item">${e}</span>`).join('');
   return `<span class="fila-dibujo" role="img" aria-label="dibujo, de izquierda a derecha">${items}</span>`;
 }
+// Comparar largos: ::largo::A::8::B::5:: dibuja dos lápices (A y B) alineados desde el mismo punto,
+// de 8 y 5 unidades. Antes: «[Imagen: un lápiz corto y un lápiz largo…] ¿Cuál es más largo?», donde la
+// descripción respondía la pregunta (auditoría 2026-11-07).
+export const RE_LARGO = /::largo::([A-Z])::(\d{1,2})::([A-Z])::(\d{1,2})::/g;
+export function htmlLargo(a: string, la: string, b: string, lb: string): string {
+  const unidad = 18;
+  const lapiz = (letra: string, largo: number, y: number) => {
+    const w = Math.min(largo, 12) * unidad;
+    return `<text x="4" y="${y + 15}" font-size="16" font-weight="700" fill="#374151">${letra}</text>` +
+      `<rect x="24" y="${y}" width="${w}" height="20" rx="3" fill="#F6C343" stroke="#B7791F" stroke-width="2"/>` +
+      `<polygon points="${24 + w},${y} ${24 + w + 18},${y + 10} ${24 + w},${y + 20}" fill="#F3D9B1" stroke="#B7791F" stroke-width="2"/>` +
+      `<rect x="20" y="${y}" width="8" height="20" rx="2" fill="#F48FB1"/>`;
+  };
+  return `<span class="posicion" role="img" aria-label="dibujo de dos lápices"><svg viewBox="0 0 270 80" width="270" height="80">` +
+    `<line x1="20" y1="4" x2="20" y2="76" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 3"/>` +
+    lapiz(a, parseInt(la, 10), 10) + lapiz(b, parseInt(lb, 10), 48) + `</svg></span>`;
+}
+// Regla: ::regla::0::5:: dibuja una regla de 0 a 10 cm con un objeto (goma) desde 0 hasta 5. El niño
+// lee la medida; la descripción «va desde el 0 hasta el 5» ya no se la da.
+export const RE_REGLA = /::regla::(\d{1,2})::(\d{1,2})::/g;
+export function htmlRegla(desde: string, hasta: string): string {
+  const cm = 22, x0 = 14;
+  const a = Math.min(parseInt(desde, 10), 10), b = Math.min(Math.max(parseInt(hasta, 10), a), 10);
+  let marcas = '';
+  for (let i = 0; i <= 10; i++) {
+    marcas += `<line x1="${x0 + i * cm}" y1="56" x2="${x0 + i * cm}" y2="${i % 5 === 0 ? 70 : 66}" stroke="#374151" stroke-width="1.5"/>` +
+      `<text x="${x0 + i * cm}" y="84" font-size="11" text-anchor="middle" fill="#374151">${i}</text>`;
+  }
+  return `<span class="posicion" role="img" aria-label="dibujo de una regla"><svg viewBox="0 0 252 92" width="252" height="92">` +
+    `<rect x="${x0 + a * cm}" y="22" width="${(b - a) * cm}" height="30" rx="6" fill="#F9A8D4" stroke="#BE185D" stroke-width="2"/>` +
+    `<rect x="4" y="54" width="244" height="36" rx="3" fill="#FEF3C7" stroke="#B7791F" stroke-width="1.5"/>${marcas}` +
+    `<text x="244" y="84" font-size="9" text-anchor="end" fill="#6B7280">cm</text></svg></span>`;
+}
+// Balanza: ::balanza::4+7::5+6:: dibuja una balanza con una expresión en cada platillo, inclinada hacia
+// el lado que vale más (como la vería el niño en un dibujo), sin escribir «equilibrada».
+export const RE_BALANZA = /::balanza::([\d+ ]{1,12})::([\d+ ]{1,12})::/g;
+const sumar = (expr: string) => expr.split('+').reduce((t, n) => t + (parseInt(n, 10) || 0), 0);
+export function htmlBalanza(izq: string, der: string): string {
+  const d = Math.sign(sumar(der) - sumar(izq)) * 12; // positivo: baja el platillo derecho
+  const plato = (x: number, y: number, txt: string) =>
+    `<line x1="${x}" y1="${y}" x2="${x - 26}" y2="${y + 28}" stroke="#6B7280"/><line x1="${x}" y1="${y}" x2="${x + 26}" y2="${y + 28}" stroke="#6B7280"/>` +
+    `<path d="M${x - 34} ${y + 28} h68 a34 10 0 0 1 -68 0z" fill="#93C5FD" stroke="#1D4ED8" stroke-width="1.5"/>` +
+    `<text x="${x}" y="${y + 24}" font-size="14" font-weight="700" text-anchor="middle" fill="#111827">${txt.trim()}</text>`;
+  return `<span class="posicion" role="img" aria-label="dibujo de una balanza"><svg viewBox="0 0 240 140" width="240" height="140">` +
+    `<polygon points="120,40 104,130 136,130" fill="#9CA3AF"/><rect x="88" y="128" width="64" height="8" rx="3" fill="#6B7280"/>` +
+    `<line x1="50" y1="${40 - d}" x2="190" y2="${40 + d}" stroke="#374151" stroke-width="5" stroke-linecap="round"/>` +
+    `<circle cx="120" cy="40" r="5" fill="#374151"/>${plato(50, 40 - d, izq)}${plato(190, 40 + d, der)}</svg></span>`;
+}
 export function htmlContar(emoji: string, cantidad: string): string {
   const n = Math.min(parseInt(cantidad, 10), 30);
   return `<span class="contar" role="img" aria-label="${n} elementos para contar">${`<span class="contar__item">${emoji}</span>`.repeat(n)}</span>`;
@@ -206,6 +254,9 @@ function realzarGuia(html: string): string {
     .replace(RE_EJEMPLO, '<p class="ejemplo-titulo"><span class="ejemplo-num">$1</span>$2</p>')
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
 
+  resultado = resultado.replace(RE_REGLA, (_m, a, b) => htmlRegla(a, b));
+  resultado = resultado.replace(RE_BALANZA, (_m, i, d) => htmlBalanza(i, d));
+  resultado = resultado.replace(RE_LARGO, (_m, a, la, b, lb) => htmlLargo(a, la, b, lb));
   resultado = resultado.replace(RE_POSICION, (_m, a, rel, b) => htmlPosicion(a, rel, b));
   resultado = resultado.replace(RE_FILA, (_m, lista) => htmlFila(lista));
   resultado = resultado.replace(RE_CONTAR, (_m, emoji, cantidad) => htmlContar(emoji, cantidad));

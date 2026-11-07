@@ -412,7 +412,7 @@ d) 4 × 4 = 16
 **Respuesta correcta: a) 4 × 8 = 32.**
 *Retroalimentación:* como hay 4 sumandos y cada uno vale 8, escribimos 4×8=32 (equivalente a sumar cuatro veces el número 8).
 
-**Pregunta 2 (alternativas — pictórico).** ::emoji::🧮::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+**Pregunta 2 (alternativas — pictórico).** Mira los grupos de fichas: ::contar::🔵::6:: ::contar::🔵::6:: ::contar::🔵::6:: ::contar::🔵::6:: ::contar::🔵::6:: ::contar::🔵::6:: ::contar::🔵::6:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
 a) 7 + 6 = 13
 b) 7 × 6 = 48
 c) 6 × 6 = 36

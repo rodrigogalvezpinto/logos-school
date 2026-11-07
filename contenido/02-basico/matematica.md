@@ -653,13 +653,13 @@ Vas a demostrar, explicar y registrar igualdades y desigualdades entre expresion
 
 **Ejemplo 1 — Igualdad con balanza**
 
-::emoji::⚖️::una balanza equilibrada, con "7+3" en un platillo y "10" en el otro::
+::balanza::7+3::10::
 
 Como 7+3=10 y del otro lado hay exactamente 10, la balanza está equilibrada. Se escribe: **7+3=10**.
 
 **Ejemplo 2 — Desigualdad con balanza**
 
-::emoji::⚖️::una balanza inclinada, con "12" en un platillo (que baja) y "8+3" en el otro (que sube)::
+::balanza::12::8+3::
 
 Calculamos: 8+3=11. Como 12 es mayor que 11, ese lado de la balanza pesa más. Se escribe: **12 > 8+3**.
 
@@ -693,7 +693,7 @@ d) ninguno
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 8+5=13, no 14, por lo tanto la igualdad escrita es falsa; el resultado correcto de 8+5 es 13.
 
-**Pregunta 4 (alternativas — balanza pictórica).** ::emoji::⚖️::una balanza equilibrada, con "4+7" en un platillo y "5+6" en el otro:: ¿Está equilibrada esta balanza? ¿Por qué?
+**Pregunta 4 (alternativas — balanza pictórica).** ::balanza::4+7::5+6:: ¿Está equilibrada esta balanza? ¿Por qué?
 a) Sí, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo.
 b) No, porque los números de un lado son distintos a los del otro lado.
 c) No, porque 5+6 es más que 4+7: el lado derecho pesa más.
@@ -711,8 +711,8 @@ c) >
 *Retroalimentación:* 10+9=19 y 7+7=14; como 19 es mayor que 14, el símbolo correcto es > (mayor que).
 
 **Pregunta 6 (identificar la balanza correcta).** ¿Cuál balanza representa correctamente la expresión 6+3=9?
-a) ::emoji::⚖️::balanza equilibrada, con "6+3" en un platillo y "9" en el otro::
-b) ::emoji::⚖️::balanza inclinada, con "6+3" en un platillo que sube y "10" en el otro que baja::
+a) ::balanza::6+3::9::
+b) ::balanza::6+3::10::
 
 **Respuesta correcta: a).**
 *Retroalimentación:* como 6+3=9 exactamente, ambos lados pesan lo mismo, por lo tanto la balanza debe estar equilibrada, como en la opción a).
@@ -920,7 +920,7 @@ d) No se puede medir
 **Respuesta correcta: b) Metros.**
 *Retroalimentación:* como la sala de clases es un espacio grande, es más adecuado usar metros (m) que centímetros, que se usan para objetos más pequeños.
 
-**Pregunta 2 (alternativas — pictórico).** ::emoji::🧹::una goma de borrar junto a una regla marcada en cm; la goma va desde el 0 hasta el 5:: ¿Cuánto mide la goma de borrar?
+**Pregunta 2 (alternativas — pictórico).** ::regla::0::5:: ¿Cuánto mide la goma de borrar?
 a) 0 cm
 b) 4 cm
 c) 5 cm

@@ -251,7 +251,7 @@ d) No se puede saber
 
 ---
 
-**19. (Ciencias Naturales — Alternativas)** [Imagen: la Luna se ve completamente iluminada, como un círculo brillante y completo en el cielo nocturno]
+**19. (Ciencias Naturales — Alternativas)** ::dibujo::🌕:: Esta es la Luna que se ve una noche, completamente iluminada.
 
 ¿Qué fase de la Luna corresponde a esta imagen, y cómo lo sabes?
 

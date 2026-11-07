@@ -228,7 +228,7 @@ describe('LectorVozService - idioma, velocidad y voces', () => {
   });
 });
 
-describe('LectorVozService - audio pregrabado (Piper)', () => {
+describe('LectorVozService - audio pregrabado (voz neuronal)', () => {
   class AudioFalso {
     static creados: AudioFalso[] = [];
     onplaying: (() => void) | null = null;

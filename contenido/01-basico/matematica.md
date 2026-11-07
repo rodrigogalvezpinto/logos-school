@@ -192,17 +192,19 @@ d) 10, 4, 16
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 18 es mayor que 15, no menor. Al contar del 1 al 20, el 18 aparece después del 15, por lo tanto es un número más grande.
 
-**Pregunta 4 (alternativas — comparar dibujos).**
-::emoji::🍑::una canasta con 8 duraznos::
- y
-::emoji::🍑::otra canasta con 13 duraznos::
-. ¿Cuál canasta tiene más duraznos?
-a) La canasta con 8 duraznos
-b) Las dos tienen la misma cantidad
-c) La canasta con 13 duraznos
+**Pregunta 4 (alternativas — comparar dibujos).** Cuenta los duraznos de cada canasta.
 
-**Respuesta correcta: c) La canasta con 13 duraznos.**
-*Retroalimentación:* 13 es mayor que 8, así que la canasta que tiene 13 duraznos tiene más cantidad que la que tiene 8.
+Canasta A: ::contar::🍑::8::
+
+Canasta B: ::contar::🍑::13::
+
+¿Cuál canasta tiene más duraznos?
+a) La canasta A
+b) Las dos tienen la misma cantidad
+c) La canasta B
+
+**Respuesta correcta: c) La canasta B.**
+*Retroalimentación:* en la canasta A hay 8 duraznos y en la B hay 13. Como 13 es mayor que 8, la canasta B tiene más.
 
 **Pregunta 5 (alternativas — ordenar de mayor a menor).** ¿Cuál es el orden de **mayor a menor** de los números 6, 20 y 1?
 a) 20, 6, 1
@@ -529,7 +531,7 @@ Vas a reconocer **patrones repetitivos** (que se repiten siempre igual, como col
 **Ejemplo 1 — Patrón repetitivo con figuras**
 
 
-::emoji::🔺::círculo, triángulo, círculo, triángulo, círculo, ___::
+::fila::🔵::🔺::🔵::🔺::🔵::❓::
 
 
 La secuencia se repite: círculo, triángulo, círculo, triángulo... Como el patrón se repite de dos en dos, después del quinto elemento (círculo) sigue un **triángulo**.
@@ -713,7 +715,7 @@ Vas a identificar y comparar el **largo** (longitud) de dos o más objetos, usan
 **Ejemplo 1 — Comparar dos objetos**
 
 
-::emoji::✏️::dos lápices puestos uno al lado del otro; el lápiz A es más largo que el lápiz B::
+::largo::A::9::B::6::
 
 
 Al poner los dos lápices juntos, uno al lado del otro y alineados desde el mismo punto, vemos que el lápiz A sobresale más. Decimos que el **lápiz A es más largo** y el **lápiz B es más corto**.
@@ -737,14 +739,14 @@ Ordenadas de la más corta a la más larga: **cinta B (5 pasos), cinta A (8 paso
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** 
-::emoji::✏️::un lápiz corto y un lápiz largo puestos juntos, alineados desde el mismo punto::
- ¿Cuál lápiz es más largo?
-a) El lápiz corto
-b) El lápiz largo
+::largo::A::4::B::8::
+ Los dos lápices empiezan en el mismo punto. ¿Cuál lápiz es más largo?
+a) El lápiz A
+b) El lápiz B
 c) Miden lo mismo
 d) No se puede saber
 
-**Respuesta correcta: b) El lápiz largo.**
+**Respuesta correcta: b) El lápiz B.**
 *Retroalimentación:* al comparar dos objetos alineados desde el mismo punto de inicio, el que sobresale más es el más largo.
 
 **Pregunta 2 (verdadero o falso).** Para comparar el largo de dos objetos, es importante alinearlos desde el mismo punto de partida.

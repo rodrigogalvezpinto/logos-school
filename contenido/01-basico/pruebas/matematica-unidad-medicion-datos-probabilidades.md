@@ -23,12 +23,12 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 
 ---
 
-**1.** [Imagen: un lápiz corto y un lápiz largo puestos juntos, alineados desde el mismo punto] ¿Cuál lápiz es más largo?
+**1.** ::largo::A::5::B::9:: Los dos lápices empiezan en el mismo punto. ¿Cuál lápiz es más largo?
 
-a) El lápiz corto
+a) El lápiz A
 b) No se puede saber
 c) Miden lo mismo
-d) El lápiz largo
+d) El lápiz B
 
 **2.** ¿Cuál es el orden de estos objetos de más corto a más largo: una goma de borrar (**3 cm**), un lápiz (**18 cm**) y una regla (**30 cm**)?
 
@@ -78,7 +78,7 @@ c) Los dos tienen la misma cantidad
 
 ## Pauta de respuestas
 
-1. d) El lápiz largo
+1. d) El lápiz B. Los dos parten del mismo punto y el lápiz B sobresale más.
 2. d) Goma de borrar, lápiz, regla — 3 cm es lo más corto y 30 cm lo más largo.
 3. a) La cuerda A — 8 pasos es más que 5 pasos.
 4. b) 3

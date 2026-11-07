@@ -358,13 +358,13 @@ lavarnos las manos antes de tocarnos los ojos.
    **Retroalimentación:** Así es. El volumen muy alto y constante puede dañar
    nuestros oídos con el tiempo.
 
-6. *(Alternativas — observación)* Mira esta imagen: un niño oliendo una empanada
-   recién horneada.
+6. *(Alternativas — observación)* Tomás está en su pieza, con los ojos cerrados. En la
+   cocina, su abuela saca empanadas del horno, y Tomás sabe que están listas sin verlas,
+   sin tocarlas y sin que nadie le avise.
 
-::emoji::👦::un niño cerca de una bandeja de empanadas, con líneas de "olorcito"
-   saliendo de ellas::
+::dibujo::👦🥟::
 
-   ¿Qué sentido está usando principalmente el niño?
+   ¿Qué sentido está usando principalmente Tomás?
    a) El oído
    b) El tacto
    c) La vista

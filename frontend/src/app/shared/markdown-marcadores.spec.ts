@@ -50,4 +50,24 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect(salida.indexOf('🌳')).toBeLessThan(salida.indexOf('🎠'));
     expect(salida).not.toContain('::');
   });
+
+  it('::largo:: dibuja dos lápices alineados sin decir cuál es más largo', () => {
+    const salida = html('::largo::A::8::B::5:: ¿Cuál lápiz es más largo?');
+    expect(salida).toContain('<svg');
+    expect(salida).toContain('width="144"');
+    expect(salida).toContain('width="90"');
+    expect(salida).not.toMatch(/largo::|corto/);
+  });
+
+  it('::regla:: dibuja la regla y el objeto sin escribir la medida', () => {
+    const salida = html('::regla::0::5:: ¿Cuánto mide la goma?');
+    expect(salida).toContain('width="110"');
+    expect(salida).not.toMatch(/regla::|5 cm/);
+  });
+
+  it('::balanza:: se inclina hacia el lado mayor y queda horizontal si son iguales', () => {
+    expect(html('::balanza::4+7::5+6::')).toContain('y1="40" x2="190" y2="40"');
+    expect(html('::balanza::6+3::10::')).toContain('y1="28" x2="190" y2="52"'); // baja el lado del 10
+    expect(html('::balanza::6+3::10::')).not.toContain('equilibrada');
+  });
 });

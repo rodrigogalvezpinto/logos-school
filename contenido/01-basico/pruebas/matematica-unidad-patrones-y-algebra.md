@@ -23,7 +23,7 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 
 ---
 
-**1.** [Imagen: círculo, triángulo, círculo, triángulo, círculo, ___] Continúa el patrón: círculo, triángulo, círculo, triángulo, círculo, ___
+**1.** ::fila::🔵::🔺::🔵::🔺::🔵::❓:: Continúa el patrón: círculo, triángulo, círculo, triángulo, círculo, ___
 
 a) Círculo
 b) Estrella

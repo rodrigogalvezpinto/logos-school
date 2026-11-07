@@ -9,11 +9,14 @@
 const MARCADORES_SOLO_DIBUJO = [
   /::posicion::[^:\s]+::[a-z-]+::[^:\s]+::/g,
   /::fila::(?:[^:\s]+::){2,6}/g,
+  /::regla::\d{1,2}::\d{1,2}::/g,
+  /::largo::[A-Z]::\d{1,2}::[A-Z]::\d{1,2}::/g,
   /::contar::[^:]+::\d{1,2}::/g,
   /::dibujo::[^:]+::/g,
   /::fraccion::\d{1,2}::\d{1,2}::/g,
   /\[recta:[^\]]*\]/g,
 ];
+const RE_BALANZA_VOZ = /::balanza::([\d+ ]{1,12})::([\d+ ]{1,12})::/g;
 const RE_EMOJI_DESCRITO = /::emoji::[^:\s]+::([\s\S]+?)::/g;
 const RE_IMAGEN = /\[Imagen:\s*([^\]]+)\]/g;
 const RE_FRACCION = /\[fraccion:\s*(\d+)\/(\d+)\]/g;
@@ -21,6 +24,8 @@ const RE_PICTOGRAMA = /[\p{Extended_Pictographic}\u{1F1E6}-\u{1F1FF}\u{1F3FB}-\u
 
 export function textoParaVoz(texto: string): string {
   let t = texto ?? '';
+  // La balanza lleva escritas sus expresiones: se leen, pero no si está inclinada.
+  t = t.replace(RE_BALANZA_VOZ, (_m, i: string, d: string) => ` balanza con ${i.trim()} en un platillo y ${d.trim()} en el otro. `);
   for (const re of MARCADORES_SOLO_DIBUJO) t = t.replace(re, ' ');
   t = t
     .replace(/_{3,}/g, ' … ') // espacio para completar

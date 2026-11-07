@@ -43,7 +43,7 @@ d) Mercurio → Tierra → Venus → Marte
 
 **Pregunta 4 (alternativas — observación).** Mira esta imagen: la Luna se ve completamente
 iluminada, como un círculo brillante y completo en el cielo nocturno.
-[Imagen: la Luna llena, totalmente redonda e iluminada]
+::dibujo::🌕::
 ¿Qué fase de la Luna corresponde a esta imagen?
 
 a) Luna nueva

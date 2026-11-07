@@ -485,7 +485,7 @@ export class EvaluacionRunner implements OnInit {
 
   /** La opción trae un marcador visual que hay que dibujar (no mostrar como texto crudo). */
   tieneMarcadorVisual(op: string): boolean {
-    return /::(contar|emoji|posicion|fila|dibujo|fraccion)::/.test(op);
+    return /::(contar|emoji|posicion|fila|dibujo|fraccion|largo|regla|balanza)::/.test(op);
   }
 
   estaMarcada(preguntaId: number, opcion: string): boolean {

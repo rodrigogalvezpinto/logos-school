@@ -1404,3 +1404,29 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
 **Verificación.** Frontend: 126 pruebas unitarias. E2E en los 3 navegadores: flujos de 1.° y 2.° básico y validación de 1.° básico, **96/96**. El flujo de 1.° básico ahora comprueba que «Escuchar» pide y recibe el audio de la guía y el de la pregunta.
 
 **Pendiente.** Para desplegar hay que publicar los audios (generarlos antes del build o subirlos a R2). El usuario aún no elige voz entre las muestras comparadas: cambiarla es regenerar con otro modelo.
+
+**Actualización (2026-11-07).** El usuario eligió la voz Kokoro «alex» (`em_alex`, Kokoro-82M, Apache-2.0). Se cambió el generador a Kokoro, a velocidad 0,95 y con pausa de 0,3 s entre frases, y se regeneraron los audios. Si la carpeta contiene audios de otra voz, el generador los borra antes de crear los nuevos.
+
+### 15.31 Voz «alex» y barrido de imágenes que delatan la respuesta, 1.° a 4.° básico (2026-11-07)
+
+- **Voz.** Se generaron 608 audios con Kokoro `em_alex` en 39 minutos (57 MB). El generador regenera solo lo que cambió. `LIMPIAR_HUERFANOS=1` borra los audios obsoletos, pero solo debe usarse con la lista completa de niveles.
+- **Marcadores nuevos (SVG, sin texto que delate la respuesta).**
+  - `::largo::A::5::B::9::`: dos lápices alineados desde el mismo punto.
+  - `::regla::0::5::`: regla en cm con un objeto encima.
+  - `::balanza::4+7::5+6::`: balanza inclinada hacia el lado mayor, u horizontal si ambos lados valen lo mismo.
+- **1.° básico.**
+  - Lápiz corto/largo en la prueba de Medición y en la guía: antes la descripción respondía la pregunta.
+  - Patrón de figuras: ahora se dibuja con `::fila::`.
+  - Empanada: el enunciado decía «oliendo» y la pregunta era qué sentido se usa. Se reescribió como una situación para inferir.
+  - Canastas de duraznos: ahora se dibujan para contarlas.
+- **2.° básico.** Balanzas: la descripción decía «equilibrada» en la pregunta «¿Está equilibrada?», y también en las alternativas. Regla: la descripción daba la lectura «del 0 al 5».
+- **3.° básico.**
+  - La imagen se describía como «Luna llena» en la pregunta «¿Qué fase es?», en la prueba, la guía y el simulacro A. Ahora es un dibujo 🌕.
+  - «7 grupos de 6 fichas» ahora se dibuja como 7 grupos para contar.
+- **4.° básico.** Sin casos.
+- **Revisadas y conservadas.** Descripciones que son el estímulo en sí y no delatan la clave: paisaje, mochila, cucharas, mapas y colaciones.
+- **Verificación.**
+  - Validador: 0 discrepancias.
+  - Pruebas: frontend 129, scripts de backend en verde.
+  - E2E en los 3 navegadores: validación de 1.°, 2.° y 3.° básico, 54/54 cada uno, y flujos completos de 1.° a 3.° básico, 63/63.
+  - El E2E reconoce los marcadores nuevos como alternativas dibujadas.

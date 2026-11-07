@@ -36,10 +36,10 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 
 | # | Tarea | Estado |
 |---|---|---|
-| 1 | Regenerar los audios con Kokoro «alex» (elegida por el usuario), verificar E2E 1.° básico y hacer commit | en curso |
-| 2 | 1.° básico: reemplazar las ~20 descripciones `[Imagen: …]` y `::emoji::` que dan pistas o la respuesta (lápiz corto/largo, pollitos, materiales, secuencias) por dibujos (`::dibujo::`, `::contar::`, `::posicion::`, `::fila::`) o por un enunciado neutro | pendiente |
-| 3 | 2.° básico: el mismo barrido de descripciones de imagen que delatan la respuesta | pendiente |
-| 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | pendiente |
+| 1 | Regenerar los audios con Kokoro «alex» (elegida por el usuario), verificar E2E 1.° básico y hacer commit | ✅ hecho 2026-11-07 |
+| 2 | 1.° básico: reemplazar las ~20 descripciones `[Imagen: …]` y `::emoji::` que dan pistas o la respuesta (lápiz corto/largo, pollitos, materiales, secuencias) por dibujos (`::dibujo::`, `::contar::`, `::posicion::`, `::fila::`) o por un enunciado neutro | ✅ hecho 2026-11-07 |
+| 3 | 2.° básico: el mismo barrido de descripciones de imagen que delatan la respuesta | ✅ hecho 2026-11-07 |
+| 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | ✅ hecho 2026-11-07 |
 | 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | pendiente |
 | 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | pendiente |
 | 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | pendiente |
@@ -53,6 +53,8 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
+
+- 2026-11-07: tareas 1 a 4 cerradas (§15.31). Voz «alex» en 608 audios. Marcadores nuevos `::largo::`, `::regla::` y `::balanza::`. Barrido de 1.° a 4.° básico.
 
 - 2026-11-07: cola creada. El usuario agregó: reparaciones en `main`, funcionalidades nuevas en
   ramas aparte, y avanzar al máximo lo que dependa de cuentas externas, con pendientes para él.

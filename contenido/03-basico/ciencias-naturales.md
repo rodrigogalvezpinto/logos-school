@@ -688,7 +688,7 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
    **Retroalimentación:** ¡Bien hecho! El Sol es una estrella con luz propia, un planeta gira alrededor de una estrella y refleja su luz, una luna gira alrededor de un planeta y un cometa forma una cola al acercarse al Sol.
 
 5. *(Alternativas — observación)* Mira esta imagen: la Luna se ve completamente iluminada, como un círculo brillante y completo en el cielo nocturno.
-   ::emoji::🌙::la Luna llena, totalmente redonda e iluminada::
+   ::dibujo::🌕::
    ¿Qué fase de la Luna corresponde a esta imagen?
    a) Luna llena
    b) Luna nueva

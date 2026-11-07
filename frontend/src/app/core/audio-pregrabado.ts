@@ -1,5 +1,6 @@
 /**
- * Audio pregrabado con una voz neuronal libre (Piper, `es_MX-claude-high`, licencia Apache-2.0),
+ * Audio pregrabado con una voz neuronal libre (Kokoro-82M, voz `em_alex`, licencia Apache-2.0,
+ * elegida por el usuario el 2026-11-07),
  * generado fuera de línea con `scripts/voz/generar_audios.sh`. Suena igual en todos los equipos y
  * no envía texto a ningún servicio. Cada archivo se nombra con la clave del texto exacto que se
  * lee; si el texto cambia (o no hay audio), el lector usa la voz del dispositivo.
