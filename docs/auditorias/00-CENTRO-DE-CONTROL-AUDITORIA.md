@@ -72,7 +72,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 | Calidad pedagógica y adecuación al nivel | Parcial | Informes preliminares; falta revisión sistemática por archivo y actividad. |
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |
 | Recursos visuales y accesibilidad | No certificada | Falta cotejar referencias y render de la aplicación. |
-| Importación, puntuación y persistencia en app | No certificada | Se requiere entorno QA, pruebas reproducibles y contraste fuente/salida. |
+| Importación, puntuación y persistencia en app | Verificada (2026-11-07) | E2E integral 792/792 en Chromium, Firefox y WebKit sobre una base aislada importada desde las fuentes: las 6.150 preguntas se muestran, registran y corrigen con su clave (§15.25). No certifica la exactitud disciplinar de cada clave. |
 | Correcciones educativas | Reabierta para deltas actuales | El corte histórico de265archivos revalidados se conserva en la auditoría maestra §11–12. Los cambios locales posteriores necesitan su nueva revalidación; los estados heredados del CSV no los aprueban. Evidencia vigente por lote en §15. |
 | Certificación final | No iniciada | Requiere denominadores conocidos, estados por unidad, hallazgos cerrados/aceptados y pruebas relevantes. |
 
