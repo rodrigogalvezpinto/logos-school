@@ -13,8 +13,12 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 - Cada cambio de contenido pasa por estos pasos:
   1. Validador `backend/scripts/validar_evaluaciones_markdown.py`: 0 discrepancias.
   2. Pruebas de backend, o al menos las de `scripts/tests` y las que toquen el cambio.
-  3. Reimportar con `reimportar.sh` (base aislada `logos_e2e_alternativas`).
-  4. Validación E2E del curso afectado en los 3 navegadores.
+  3. Reimportar con `scripts/qa/reimportar_e2e.sh` (base aislada `logos_e2e_alternativas`) y
+     levantar la SPA con `scripts/qa/levantar_spa.sh`.
+  4. Validación en la app con `scripts/qa/validar_material.sh "<curso>"`. Por defecto usa **solo
+     Chromium**, como sugirió el usuario el 2026-11-07: para un cambio de contenido basta un navegador.
+     Con `NAVEGADORES=todos` corre en los 3, y se usa ante cambios de código de la interfaz o al cerrar
+     una etapa.
 - Commit por tarea, con el trailer `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`, y push.
 - Registrar cada cierre en `AUDITORIA_MAESTRA.md` (§15.x siguiente).
 - Las **reparaciones** (errores de contenido, defectos y deuda de la auditoría) van en `main`.
@@ -26,8 +30,9 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 
 ## Entorno local (por si la sesión se reinicia)
 
-- La API E2E corre en el puerto 8001. La SPA está compilada en `frontend/dist/frontend/browser`
-  y se sirve en el 4300 con `servir_spa.mjs` del scratchpad de la sesión.
+- La API E2E corre en el puerto 8001 y la SPA en el 4300. Las herramientas están en `scripts/qa/`,
+  dentro del repositorio: antes estaban en una carpeta temporal y se perdieron con el reinicio del
+  2026-11-07.
 - Para volver a compilar:
   `npx ng build --configuration development --define "LOGOS_API_URL='http://localhost:8001'"`.
 - Para generar los audios: `DATABASE_URL=… scripts/voz/generar_audios.sh ["1° básico" …]`.
