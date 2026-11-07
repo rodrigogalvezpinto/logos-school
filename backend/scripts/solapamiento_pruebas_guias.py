@@ -6,7 +6,7 @@ aprendizaje. La prueba debe evaluar el mismo OA y la misma dificultad, con otro 
 números u otro texto.
 
 Uso: python scripts/solapamiento_pruebas_guias.py [carpeta-curso ...]   (por defecto, los 12)
-Solo lectura. Compara el enunciado normalizado: minúsculas, sin puntuación ni marcas de formato.
+Solo lectura. Compara enunciado y alternativas normalizados: minúsculas, sin puntuación ni marcas de formato.
 """
 import re
 import sys
@@ -24,15 +24,21 @@ def normalizar(texto: str) -> str:
     return re.sub(r"\W+", " ", unicodedata.normalize("NFKC", texto).lower()).strip()
 
 
+def huella(enunciado: str, opciones) -> str:
+    """Enunciado + alternativas: «¿Cuál es la palabra bien escrita para este dibujo?» con otro
+    dibujo y otras alternativas es otra pregunta (los marcadores visuales se pierden al normalizar)."""
+    return normalizar(enunciado + " | " + " | ".join(sorted(opciones or [])))
+
+
 def solapamiento(curso: Path) -> tuple[int, int, dict[str, list[int]]]:
-    guia = {normalizar(q.enunciado) for ruta in curso.glob("*.md")
+    guia = {huella(q.enunciado, q.opciones) for ruta in curso.glob("*.md")
             for oa in parsear_guia(ruta.read_text(encoding="utf-8")) for q in oa.preguntas}
     total, repetidas, por_archivo = 0, 0, {}
     for ruta in sorted((curso / "pruebas").glob("*.md")):
         numeros = []
         for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
             total += 1
-            if normalizar(p.enunciado) in guia:
+            if huella(p.enunciado, p.opciones) in guia:
                 numeros.append(p.numero)
         repetidas += len(numeros)
         if numeros:
