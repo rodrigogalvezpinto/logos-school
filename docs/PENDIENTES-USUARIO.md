@@ -63,7 +63,20 @@ Lo construyo en la rama `feature/profesor-ia`, desactivado mientras no haya clav
    curso.
 4. **Nombre de dominio** (punto 1.5).
 
-## 5. Ramas para revisar cuando vuelvas
+## 5. Rendimiento del Mac (recomendado)
+
+El proyecto está en `~/Documents`, que parece sincronizarse con iCloud. Los archivos generados
+(audios de 141 MB, `node_modules`, compilaciones y resultados de pruebas) hacen que iCloud suba
+miles de archivos. El 2026-11-07 el Mac quedó muy lento: `kernel_task` sobre 190 % y pruebas 40
+veces más lentas. Opciones, de mejor a peor:
+
+1. Mover el proyecto fuera de Documentos, por ejemplo a `~/Proyectos/Logos`. Git y GitHub ya
+   respaldan el código.
+2. Desactivar en Configuración → Apple ID → iCloud → iCloud Drive la opción «Carpetas Escritorio
+   y Documentos».
+3. Reiniciar el Mac si la lentitud continúa.
+
+## 6. Ramas para revisar cuando vuelvas
 
 Las funcionalidades nuevas quedan en ramas aparte, sin mezclar con `main`, para que las revises:
 
