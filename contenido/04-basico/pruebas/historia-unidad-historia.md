@@ -7,7 +7,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 9
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Eje 1: Historia
@@ -21,26 +21,26 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**1. (Alternativas)** ¿En qué tipo de espacio geográfico se desarrolló principalmente la
-civilización inca?
-a) Cordillera de los Andes
-b) Selva amazónica
-c) Islas del Caribe
-d) Llanuras del norte de Estados Unidos
+**1. (Alternativas)** ¿Qué animal usaban los incas para transportar carga por los caminos
+de la cordillera de los Andes?
+a) El caballo
+b) La llama
+c) El camello
+d) El buey
 
 ---
 
-**2. (Verdadero o Falso)** Las civilizaciones maya, azteca e inca eran monoteístas, es
-decir, creían en un solo dios.
+**2. (Verdadero o Falso)** Las civilizaciones maya, azteca e inca basaban su economía
+principalmente en la agricultura.
 
 ---
 
-**3. (Alternativas)** ¿Cuál de las siguientes NO es una característica común entre las tres
+**3. (Alternativas)** ¿Qué cultivo era una base importante de la alimentación en las tres
 civilizaciones americanas estudiadas?
-a) Sociedad organizada en distintos niveles o clases sociales
-b) Economía basada principalmente en la agricultura
-c) Gobierno encabezado por un líder supremo (monarquía)
-d) Uso de electricidad para su vida diaria
+a) El trigo
+b) El arroz
+c) El maíz
+d) El café
 
 ---
 
@@ -76,15 +76,15 @@ d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los inc
 
 ---
 
-**8. (Alternativas — análisis de mapa)** Imagina un mapa de América donde se han marcado dos zonas con
-color: la **Zona A**, ubicada en el centro de México y Centroamérica, y la **Zona B**, que
-sigue la cordillera de los Andes desde Ecuador hasta el norte de Chile. ¿Qué civilizaciones
-corresponden a cada zona?
+**8. (Alternativas — análisis de imagen)** Imagina dos fotografías: la **Foto A** muestra una
+pirámide escalonada en medio de la selva de la península de Yucatán; la **Foto B**, muros de
+piedra perfectamente encajados en una ciudad de la cordillera, a más de 3.000 metros de altura.
+¿Qué civilizaciones corresponden a cada foto?
 
-a) Zona A: incas (espacio andino); Zona B: mayas y aztecas (espacio mesoamericano)
-b) Zona A: aztecas e incas (espacio mesoamericano); Zona B: mayas (espacio andino)
-c) Las dos zonas corresponden a los incas, que ocuparon primero México y luego los Andes
-d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)
+a) Foto A: incas; Foto B: mayas
+b) Foto A: mayas; Foto B: incas
+c) Foto A: incas; Foto B: aztecas
+d) Las dos fotos corresponden a los aztecas
 
 ---
 
@@ -100,17 +100,17 @@ d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios
 
 ## Pauta de respuestas
 
-1. **a) Cordillera de los Andes** — Los incas se desarrollaron en el espacio andino, desde
-   el sur de Colombia hasta el norte de Chile y Argentina.
-2. **Falso** — Eran politeístas: creían en varios dioses, muchos relacionados con la
-   naturaleza (el sol, la lluvia, la tierra).
-3. **d) Uso de electricidad para su vida diaria** — Las tres civilizaciones sí compartían
-   sociedad jerárquica, gobierno monárquico y economía agrícola.
+1. **b) La llama** — Es un animal andino resistente a la altura. Los caballos, camellos y
+   bueyes no existían en América antes de la llegada de los europeos.
+2. **Verdadero** — Las tres eran sociedades agrícolas; cultivaban maíz y otros productos
+   (los incas, además, papa en terrazas).
+3. **c) El maíz** — Se cultivaba en Mesoamérica y en los Andes. El trigo y el arroz
+   llegaron con los europeos, y el café no es originario de América.
 4. **b) Tenochtitlán** — Los aztecas construyeron su capital sobre un lago, usando chinampas
    para cultivar.
 5. **Verdadero** — Los mayas son conocidos por su escritura jeroglífica y su calendario muy
    preciso.
 6. **c) Sapa Inca** — Era el título del líder supremo del imperio inca.
 7. a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica y los incas en la zona andina. También son diferencias válidas la capital (Tenochtitlán vs. Cusco) o la forma de cultivar (chinampas vs. terrazas).
-8. d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)
+8. b) Foto A: mayas; Foto B: incas. Los mayas construyeron pirámides en la selva de Mesoamérica; los incas, ciudades de piedra en la cordillera de los Andes, como Machu Picchu.
 9. b) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos. Esto explica los restos incas en el norte de Chile.

@@ -67,12 +67,12 @@ b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los a
 c) Porque los pumas viven en el zoológico y ahí los cuidan los veterinarios todos los días
 d) Porque no me gusta la caza de peces ni de ningún otro animal del mar
 
-**6. (Alternativas)** Vas a escribirle una carta a tu abuela contándole cómo te fue en tu paseo de curso. ¿Qué registro (forma de hablar) es más apropiado?
+**6. (Alternativas)** Vas a escribirle una carta al alcalde de tu comuna para pedirle que instalen un semáforo frente a tu escuela. ¿Qué registro (forma de hablar) es más apropiado?
 
-a) Muy formal, como si le escribieras a una autoridad de gobierno
-b) Cercano y cariñoso, como corresponde a un familiar querido
-c) Con muchas abreviaciones y groserías
-d) Igual que le escribirías a un desconocido por internet
+a) Muy informal, con sobrenombres y bromas, como en un mensaje a un amigo
+b) Con abreviaciones como «q» y «xq» para escribir más rápido
+c) Formal y respetuoso, con un saludo y una despedida cordiales
+d) Con muchos emojis para que la carta se vea más alegre
 
 **7. (Alternativas — párrafos)** ¿Cuál es la mejor forma de separar en dos párrafos, agrupando las ideas relacionadas, este texto sin puntos: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."?
 
@@ -88,7 +88,7 @@ b) Quería ir a la playa sin embargo; estaba lloviendo sin embargo.
 c) Sin embargo quería, ir a la playa estaba lloviendo.
 d) Quería ir a la playa, sin embargo porque estaba lloviendo.
 
-**9. (Verdadero o Falso)** Usar siempre las mismas palabras y no revisar la ortografía antes de entregar un texto es una buena práctica de escritura.
+**9. (Verdadero o Falso)** Al revisar un texto antes de entregarlo, conviene leerlo completo para corregir palabras repetidas, la ortografía y la puntuación.
 
 ---
 
@@ -104,10 +104,10 @@ d) Quería ir a la playa, sin embargo porque estaba lloviendo.
 
 **5.** b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los animales más débiles. Una opinión fundamentada se apoya en datos concretos del texto, no solo en gustos personales.
 
-**6.** b) Cercano y cariñoso, como corresponde a un familiar querido. El registro debe adecuarse al destinatario; como le escribes a tu abuela, corresponde un tono cercano y respetuoso.
+**6.** c) Formal y respetuoso, con un saludo y una despedida cordiales. El registro debe adecuarse al destinatario y al propósito: a una autoridad como el alcalde, para hacer una petición, se le escribe de manera formal.
 
 **7.** c) Párrafo 1: la subida al cerro en funicular y la vista de la ciudad. Párrafo 2: lo que hicieron después de bajar (comer helado). Cada párrafo agrupa una idea principal distinta, separadas con punto aparte.
 
 **8.** a) Quería ir a la playa; sin embargo, estaba lloviendo. "Sin embargo" indica una idea contraria a la anterior; va entre ambas ideas, con punto y coma antes y coma después.
 
-**9.** Falso. Un buen proceso de escritura incluye usar vocabulario variado y revisar la ortografía y presentación antes de considerar terminado un texto.
+**9.** Verdadero. Revisar es parte del proceso de escritura: al releer se descubren repeticiones, errores de ortografía y puntuación que conviene corregir antes de entregar.
