@@ -6,7 +6,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad 2 — Leo y escribo textos cortos
@@ -64,40 +64,40 @@ c) Ponerse jabón
 
 ---
 
-**4.** ::dibujo::☀️:: ¿Cuál es la palabra bien escrita para este dibujo?
+**4.** ::dibujo::🐸:: ¿Cuál es la palabra bien escrita para este dibujo?
 
-a) sl
-b) sool
-c) zol
-d) sol
+a) rna
+b) rana
+c) ranna
+d) lana
 
 ---
 
-**5.** Esta frase está mal escrita porque no tiene espacios: "**elpajarocanta**". ¿Cómo
+**5.** Esta frase está mal escrita porque no tiene espacios: "**elsaposalta**". ¿Cómo
 se escribe separando bien las palabras?
 
-a) el pájaro canta
-b) elpájaro canta
-c) el pája rocanta
-d) elpá jaro canta
+a) elsapo salta
+b) el sa posalta
+c) el sapo salta
+d) els apo salta
 
 ---
 
 **6.** ¿Cuál de estas frases está bien escrita, con espacios entre las palabras?
 
-a) "lacasaesgrande"
-b) "la casa es grande"
-c) "lacasa esgrande"
+a) "mimamáesalta"
+b) "mimamá esalta"
+c) "mi mamá es alta"
 
 ---
 
-**7.** ::dibujo::🐟:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en
+**7.** ::dibujo::🐻:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en
 cada sonido?
 
-a) ps
-b) pez
-c) pezz
-d) pe
+a) os
+b) osso
+c) uso
+d) oso
 
 ---
 
@@ -106,8 +106,7 @@ d) pe
 1. **a) Con Tomás** — La nota dice "Fui a jugar a la plaza con Tomás".
 2. **c) A las 6** — La nota dice "Vuelvo a las 6".
 3. **c) Ponerse jabón** — Es el paso 2, justo después de mojarse las manos (paso 1).
-4. d) sol — Cada sonido de la palabra tiene su letra: /s/-/o/-/l/. En «sl» falta la o, en «sool» sobra una o y «zol» no se escribe con z.
-5. a) el pájaro canta — Son tres palabras y cada palabra debe ir separada por un espacio.
-6. **b) "la casa es grande"** — Cada palabra está separada por un espacio, por eso se lee
-   con facilidad.
-7. b) pez — Los sonidos son /p/-/e/-/s/ y se escriben con las letras p, e, z. En «ps» y «pe» falta una letra y en «pezz» sobra una z.
+4. b) rana — Cada sonido de la palabra tiene su letra: /r/-/a/-/n/-/a/. En «rna» falta la a, en «ranna» sobra una n y «lana» empieza con otro sonido.
+5. c) el sapo salta — Son tres palabras y cada palabra debe ir separada por un espacio.
+6. **c) "mi mamá es alta"** — Cada palabra está separada por un espacio, por eso se lee bien.
+7. d) oso — Los sonidos son /o/-/s/-/o/. En «os» falta una o, en «osso» sobra una s y «uso» empieza con otro sonido.

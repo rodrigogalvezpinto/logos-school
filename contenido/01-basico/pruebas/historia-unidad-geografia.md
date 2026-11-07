@@ -1,13 +1,13 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
-oa_por_pregunta: {"2":"OA 10","4":"OA 10","5":"OA 10","7":"OA 10"}
+oa_por_pregunta: {"1":"OA 9","2":"OA 10","3":"OA 9","4":"OA 10","5":"OA 10","6":"OA 10","7":"OA 10"}
 eje: Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Geografía
@@ -19,12 +19,12 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**1.** ¿Cuál es la capital de Chile?
+**1.** ¿Qué nos muestra un mapa?
 
-a) Valparaíso
-b) Arica
-c) Concepción
-d) Santiago
+a) Una canción
+b) Dónde están los lugares
+c) La hora del día
+d) Lo que vamos a comer
 
 ---
 
@@ -37,21 +37,21 @@ b) Falso
 
 ---
 
-**3.** ¿Qué océano se encuentra junto a Chile?
+**3.** ¿En qué región de Chile se encuentra la ciudad de Santiago?
 
-a) Océano Pacífico
-b) Océano Atlántico
-c) Océano Índico
-d) Océano Ártico
+a) Región Metropolitana
+b) Región de Magallanes
+c) Región de Arica y Parinacota
+d) Región de Atacama
 
 ---
 
-**4.** ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
+**4.** ¿Cuál de estas es una construcción hecha por las personas?
 
-a) Camino pavimentado
-b) Cordillera
-c) Edificio
-d) Puente
+a) Un río
+b) Un lago
+c) Un cerro
+d) Una escuela
 
 ---
 
@@ -64,12 +64,12 @@ b) Falso
 
 ---
 
-**6.** ¿Cuál de estas palabras se usa para describir una masa de agua salada muy grande?
+**6.** ¿Cómo se llama una montaña pequeña, mucho más baja que la cordillera?
 
-a) Río
+a) Cerro
 b) Mar
-c) Camino
-d) Vegetación
+c) Lago
+d) Calle
 
 ---
 
@@ -86,10 +86,10 @@ d) La casa
 
 ## Pauta de respuestas
 
-1. d) Santiago
+1. b) Dónde están los lugares. Un mapa es un dibujo que muestra la ubicación de los lugares.
 2. Verdadero
-3. a) Océano Pacífico
-4. b) Cordillera
+3. a) Región Metropolitana. Santiago es la capital de Chile y de la Región Metropolitana.
+4. d) Una escuela. Los ríos, lagos y cerros son parte de la naturaleza.
 5. Falso
-6. b) Mar
+6. a) Cerro. Es una elevación del terreno más baja que una montaña.
 7. c) El árbol. En el dibujo, el árbol es lo primero por la izquierda y el carrusel queda al final, a la derecha.

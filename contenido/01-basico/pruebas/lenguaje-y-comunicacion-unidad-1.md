@@ -1,7 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 3","2":"OA 3","4":"OA 4","5":"OA 4","6":"OA 8","7":"OA 8"}
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 4","5":"OA 4","6":"OA 8","7":"OA 8"}
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
@@ -37,11 +37,11 @@ c) /t/
 
 ---
 
-**3.** ¿Con qué sonido termina la palabra "**pan**"?
+**3.** ¿Con qué sonido termina la palabra "**mar**"?
 
-a) /p/
+a) /m/
 b) /a/
-c) /n/
+c) /r/
 
 ---
 
@@ -84,7 +84,7 @@ c) Porque tomó mucha agua
 
 1. **c) 2** — "Ga-to" se separa en dos partes.
 2. **a) /s/** — "Sapo" empieza igual que "sol".
-3. **c) /n/** — Al decir "pan" despacio, el último sonido es /n/.
+3. **c) /r/** — Al decir "mar" despacio, el último sonido es /r/.
 4. **b) rr** — Con "rr" se lee "perro", con el sonido fuerte.
 5. **a) "chancho"** — Empieza con el sonido "ch", como en "choclo".
 6. **b) Curicó** — El cuento lo dice directamente: "Pepa vive en Curicó".

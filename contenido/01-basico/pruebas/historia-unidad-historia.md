@@ -1,13 +1,13 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 6","6":"OA 6"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 6","6":"OA 6","7":"OA 6"}
 eje: Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Historia
@@ -47,12 +47,12 @@ d) 1) Desayunar, 2) Almorzar, 3) Cenar
 
 ---
 
-**4.** Hoy es viernes. ¿Qué día fue ayer?
+**4.** Hoy es sábado. ¿Qué día será mañana?
 
-a) Sábado
-b) Jueves
+a) Viernes
+b) Lunes
 c) Domingo
-d) Lunes
+d) Martes
 
 ---
 
@@ -76,12 +76,12 @@ b) Falso
 
 ---
 
-**7.** ¿En qué fecha se celebran las Fiestas Patrias en Chile?
+**7.** ¿Qué comida típica se prepara mucho en Chile para las Fiestas Patrias?
 
-a) 25 de diciembre
-b) 21 de mayo
-c) 18 de septiembre
-d) 1 de enero
+a) Las empanadas
+b) El sushi
+c) La pizza
+d) Las hamburguesas
 
 ---
 
@@ -90,7 +90,7 @@ d) 1 de enero
 1. a) Despertarme y levantarme
 2. Falso
 3. d) 1) Desayunar, 2) Almorzar, 3) Cenar
-4. b) Jueves
+4. c) Domingo. Después del sábado viene el domingo.
 5. b) El copihue
 6. Verdadero
-7. c) 18 de septiembre
+7. a) Las empanadas. Son una comida típica chilena de las Fiestas Patrias.

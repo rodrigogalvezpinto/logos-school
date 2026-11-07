@@ -1,13 +1,13 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","5":"OA 15"}
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 15","5":"OA 15","6":"OA 15","7":"OA 15"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Formación Ciudadana
@@ -19,12 +19,12 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**1.** Antes de cruzar la calle, ¿qué es lo primero que debes hacer?
+**1.** Cuando viajas en auto, ¿qué debes hacer siempre?
 
-a) Correr rápido
-b) Gritar fuerte
-c) Cerrar los ojos
-d) Mirar hacia ambos lados
+a) Sacar la cabeza por la ventana
+b) Usar el cinturón de seguridad o tu silla de auto
+c) Pararte en el asiento
+d) Jugar con las manillas de las puertas
 
 ---
 
@@ -37,21 +37,21 @@ b) Falso
 
 ---
 
-**3.** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el profesor está explicando?
+**3.** Cuando terminas de usar los materiales de la sala (lápices, bloques, libros), ¿qué debes hacer?
 
-a) Levantar la mano y esperar mi turno
-b) Decir mi idea en voz muy alta
-c) Hablar al mismo tiempo que el profesor
-d) Pararme y caminar por la sala
+a) Dejarlos tirados en el suelo
+b) Llevármelos a la casa sin pedir permiso
+c) Guardarlos en su lugar para que otros los puedan usar
+d) Esconderlos para que nadie más los use
 
 ---
 
-**4.** Si te sientes muy enfermo, ¿a qué institución debes ir?
+**4.** Si hay un incendio en una casa, ¿a quiénes hay que llamar?
 
-a) La municipalidad
-b) El hospital o la posta
-c) Carabineros
-d) La escuela
+a) A los bomberos
+b) A la escuela
+c) A la biblioteca
+d) Al supermercado
 
 ---
 
@@ -64,30 +64,30 @@ b) Falso
 
 ---
 
-**6.** ¿Qué institución se encarga de cuidar las plazas y calles de tu ciudad o pueblo?
+**6.** ¿Dónde puedes pedir libros prestados para leerlos en tu casa?
 
-a) El hospital
-b) La municipalidad
-c) Carabineros
-d) La escuela
+a) En el hospital
+b) En la estación de bomberos
+c) En la biblioteca
+d) En la posta
 
 ---
 
-**7.** Un vecino ve que hay un hoyo grande y peligroso en la calle de su barrio. ¿A qué institución debería avisar principalmente?
+**7.** Un niño se perdió en la plaza y no encuentra a su mamá. ¿A quién puede pedirle ayuda?
 
-a) Al hospital
-b) A la escuela
-c) A la municipalidad
-d) A ningún lugar, porque no es importante
+a) A un desconocido que le ofrece dulces
+b) A nadie: debe quedarse escondido
+c) A otro niño que está jugando
+d) A un carabinero
 
 ---
 
 ## Pauta de respuestas
 
-1. d) Mirar hacia ambos lados
+1. b) Usar el cinturón de seguridad o tu silla de auto. Es una norma que nos protege en caso de un choque.
 2. Falso
-3. a) Levantar la mano y esperar mi turno
-4. b) El hospital o la posta
+3. c) Guardarlos en su lugar para que otros los puedan usar. Cuidar lo que es de todos ayuda a convivir bien.
+4. a) A los bomberos. Apagan incendios y rescatan a las personas.
 5. Verdadero
-6. b) La municipalidad
-7. c) A la municipalidad
+6. c) En la biblioteca. Presta libros a la comunidad.
+7. d) A un carabinero. Carabineros cuida la seguridad de las personas y puede ayudarlo a encontrar a su familia.
