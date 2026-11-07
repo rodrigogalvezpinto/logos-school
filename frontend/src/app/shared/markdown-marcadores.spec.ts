@@ -29,4 +29,25 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect((salida.match(/fraccion-barra__parte[" ]/g) || []).length).toBe(3);
     expect(salida).not.toContain('2/3');
   });
+
+  it('::posicion:: dibuja la relación espacial sin escribir la palabra de posición', () => {
+    const salida = html('::posicion::🐱::debajo::mesa:: El gato está ___ de la mesa.');
+    expect(salida).toContain('class="posicion"');
+    expect(salida).toContain('<svg');
+    expect(salida).not.toContain('::');
+    expect(salida.replace(/El gato está ___ de la mesa\./, '')).not.toMatch(/debajo/);
+  });
+
+  it('::posicion:: con caja dibuja el objeto dentro, tapado por el frente de la caja', () => {
+    const salida = html('::posicion::✏️::dentro::caja::');
+    expect(salida.indexOf('✏️')).toBeLessThan(salida.lastIndexOf('<rect'));
+    expect(salida).not.toMatch(/dentro/);
+  });
+
+  it('::fila:: dibuja los elementos de izquierda a derecha en orden', () => {
+    const salida = html('::fila::🌳::🪑::🎠::');
+    expect((salida.match(/fila-dibujo__item/g) || []).length).toBe(3);
+    expect(salida.indexOf('🌳')).toBeLessThan(salida.indexOf('🎠'));
+    expect(salida).not.toContain('::');
+  });
 });

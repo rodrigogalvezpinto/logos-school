@@ -146,7 +146,7 @@ Vas a comparar dos números usando las palabras **"mayor que"** y **"menor que"*
 Mateo tiene 7 figuritas y Antonia tiene 11 figuritas.
 
 
-::emoji::🧒::a la izquierda 7 figuritas, a la derecha 11 figuritas::
+::contar::🃏::7:: ::contar::🃏::11::
 
 
 Comparamos: 11 es mayor que 7, porque al contar hasta 11 pasamos por el 7 y seguimos contando más. Entonces: **11 es mayor que 7**, y **7 es menor que 11**.
@@ -329,7 +329,7 @@ Vas a aprender que, al agrupar 10 elementos, se forma **1 decena**, y que los el
 Benjamín tiene 14 cubos. Los agrupa de a 10.
 
 
-::emoji::🧮::un grupo de 10 cubos amarrados juntos, y 4 cubos sueltos al lado::
+::contar::🟦::10:: ::contar::🟦::4::
 
 
 Se forma **1 grupo de 10** (1 decena) y quedan **4 cubos sueltos** (4 unidades). Por eso decimos que 14 tiene **1 decena y 4 unidades**.
@@ -378,7 +378,7 @@ d) 13
 *Retroalimentación:* el 20 se forma exactamente con 2 grupos de 10, sin que sobre ningún elemento suelto, por eso tiene 0 unidades.
 
 **Pregunta 4 (alternativas — pictórico).**
-::emoji::🧱::1 grupo de 10 bloques agrupados y 5 bloques sueltos::
+::contar::🧱::10:: ::contar::🧱::5::
  ¿Qué número representa esta imagen?
 a) 6
 b) 15
@@ -623,10 +623,10 @@ La mochila está a la **derecha** del niño, y la pelota está a su **izquierda*
 **Ejemplo 2 — Arriba y abajo**
 
 
-::emoji::🐱::un gato debajo de una mesa, y un florero encima de la misma mesa::
+::posicion::🐱::debajo::mesa:: ::posicion::🌷::encima::mesa::
 
 
-El gato está **debajo** de la mesa, y el florero está **encima** (arriba) de la mesa.
+El gato está **debajo** de la mesa, y la flor está **encima** (arriba) de la mesa.
 
 **Ejemplo 3 — Posición entre dos personas**
 
@@ -648,7 +648,7 @@ d) Abajo
 *Retroalimentación:* cada persona tiene un lado derecho y un lado izquierdo. Es normal confundirlos al principio; practicar levantando siempre la misma mano ayuda a recordarlo.
 
 **Pregunta 2 (completar).** 
-::emoji::🐱::un gato está debajo de una mesa::
+::posicion::🐱::debajo::mesa::
  El gato está ___ de la mesa.
 a) encima
 b) debajo
@@ -664,18 +664,18 @@ d) dentro
 *Retroalimentación:* "arriba" y "abajo" son palabras de posición relativa: nos indican dónde está algo en comparación con otra cosa, por ejemplo, respecto al suelo o a un mueble.
 
 **Pregunta 4 (alternativas — posición).**
-::emoji::🎒::un estuche guardado adentro de una mochila abierta::
- ¿Qué frase describe bien dónde está el estuche?
-a) El estuche está debajo de la mochila.
-b) El estuche está al lado de la mochila.
-c) El estuche está encima de la mochila.
-d) El estuche está dentro de la mochila.
+::posicion::✏️::dentro::caja::
+ ¿Qué frase describe bien dónde está el lápiz?
+a) El lápiz está debajo de la caja.
+b) El lápiz está al lado de la caja.
+c) El lápiz está encima de la caja.
+d) El lápiz está dentro de la caja.
 
-**Respuesta correcta: d) El estuche está dentro de la mochila.**
-*Retroalimentación:* lo importante es usar una palabra de posición (dentro, encima, debajo, al lado) que describa correctamente dónde está un objeto respecto al otro. Como el estuche está guardado adentro, decimos "dentro de la mochila".
+**Respuesta correcta: d) El lápiz está dentro de la caja.**
+*Retroalimentación:* lo importante es usar una palabra de posición (dentro, encima, debajo, al lado) que describa correctamente dónde está un objeto respecto al otro. Como el lápiz está guardado adentro, decimos "dentro de la caja".
 
 **Pregunta 5 (alternativas).** 
-::emoji::👧::una niña está parada a la izquierda de un árbol::
+::posicion::👧::izquierda::🌳::
  ¿Dónde está la niña respecto al árbol?
 a) A la derecha del árbol
 b) A la izquierda del árbol
@@ -683,7 +683,7 @@ c) Detrás del árbol
 d) Dentro del árbol
 
 **Respuesta correcta: b) A la izquierda del árbol.**
-*Retroalimentación:* observando la imagen, la niña se encuentra ubicada en el lado izquierdo del árbol, por eso decimos que está "a la izquierda" de él.
+*Retroalimentación:* observando el dibujo, la niña se encuentra ubicada en el lado izquierdo del árbol, por eso decimos que está "a la izquierda" de él.
 
 **Pregunta 6 (alternativas — aplicación).**
 En una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora.

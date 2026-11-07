@@ -141,6 +141,52 @@ export function htmlFraccion(numerador: string, denominador: string): string {
   const partes = Array.from({ length: d }, (_v, i) => `<span class="fraccion-barra__parte${i < n ? ' fraccion-barra__parte--pintada' : ''}"></span>`).join('');
   return `<span class="fraccion-barra" role="img" aria-label="figura dividida en ${d} partes iguales, ${n} pintadas">${partes}</span>`;
 }
+// Dibujo de posición: ::posicion::🐱::debajo::mesa:: dibuja el gato bajo una mesa, sin escribir
+// «debajo». Antes la ilustración se describía con palabras («un gato está debajo de una mesa») y
+// esa descripción era justo la respuesta (hallazgo de auditoría 2026-11-07). El objeto de
+// referencia puede ser un emoji o una figura dibujada: «mesa» o «caja» (abierta, para «dentro»).
+export const RE_POSICION = /::posicion::([^:\s]+)::(encima|debajo|dentro|izquierda|derecha|al-lado|delante|detras)::([^:\s]+)::/g;
+// Fila vista de izquierda a derecha: ::fila::🌳::🪑::🎠:: (para «izquierda», «derecha», «entre»).
+export const RE_FILA = /::fila::((?:[^:\s]+::){2,6})/g;
+const emojiSvg = (e: string, x: number, y: number, tam: number) =>
+  `<text x="${x}" y="${y}" font-size="${tam}" text-anchor="middle">${e}</text>`;
+const MESA = '<rect x="50" y="62" width="140" height="9" rx="3" fill="#B7791F"/>' +
+  '<rect x="60" y="71" width="8" height="62" fill="#975A16"/><rect x="172" y="71" width="8" height="62" fill="#975A16"/>';
+const CAJA_FONDO = '<polygon points="70,80 170,80 185,68 85,68" fill="#C68B4E"/>';
+const CAJA_FRENTE = '<rect x="70" y="80" width="100" height="52" fill="#DDA15E" stroke="#975A16" stroke-width="2"/>';
+export function htmlPosicion(a: string, relacion: string, b: string): string {
+  const suelo = '<line x1="10" y1="134" x2="230" y2="134" stroke="#CBD5E1" stroke-width="2"/>';
+  let cuerpo: string;
+  if (b === 'mesa') {
+    const pos: Record<string, [number, number]> = { encima: [120, 58], debajo: [120, 130], 'al-lado': [212, 130], izquierda: [28, 130], derecha: [212, 130] };
+    const [x, y] = pos[relacion] ?? pos['al-lado'];
+    cuerpo = MESA + emojiSvg(a, x, y, 40);
+  } else if (b === 'caja') {
+    if (relacion === 'dentro') cuerpo = CAJA_FONDO + `<g transform="rotate(-20 120 78)">${emojiSvg(a, 120, 96, 52)}</g>` + CAJA_FRENTE;
+    else {
+      const pos: Record<string, [number, number]> = { encima: [120, 66], 'al-lado': [212, 130], izquierda: [32, 130], derecha: [212, 130] };
+      const [x, y] = pos[relacion] ?? pos['al-lado'];
+      cuerpo = CAJA_FONDO + CAJA_FRENTE + emojiSvg(a, x, y, 40);
+    }
+  } else {
+    const capas: Record<string, string> = {
+      izquierda: emojiSvg(a, 70, 128, 56) + emojiSvg(b, 170, 128, 56),
+      derecha: emojiSvg(b, 70, 128, 56) + emojiSvg(a, 170, 128, 56),
+      'al-lado': emojiSvg(a, 92, 128, 56) + emojiSvg(b, 152, 128, 56),
+      encima: emojiSvg(b, 120, 130, 60) + emojiSvg(a, 120, 72, 44),
+      debajo: emojiSvg(b, 120, 66, 60) + emojiSvg(a, 120, 130, 44),
+      dentro: emojiSvg(b, 120, 126, 90) + emojiSvg(a, 120, 104, 30),
+      delante: emojiSvg(b, 120, 104, 72) + emojiSvg(a, 138, 132, 50),
+      detras: emojiSvg(a, 152, 116, 44) + emojiSvg(b, 112, 130, 72),
+    };
+    cuerpo = capas[relacion];
+  }
+  return `<span class="posicion" role="img" aria-label="dibujo"><svg viewBox="0 0 240 140" width="240" height="140">${suelo}${cuerpo}</svg></span>`;
+}
+export function htmlFila(lista: string): string {
+  const items = lista.split('::').filter(Boolean).map((e) => `<span class="fila-dibujo__item">${e}</span>`).join('');
+  return `<span class="fila-dibujo" role="img" aria-label="dibujo, de izquierda a derecha">${items}</span>`;
+}
 export function htmlContar(emoji: string, cantidad: string): string {
   const n = Math.min(parseInt(cantidad, 10), 30);
   return `<span class="contar" role="img" aria-label="${n} elementos para contar">${`<span class="contar__item">${emoji}</span>`.repeat(n)}</span>`;
@@ -160,6 +206,8 @@ function realzarGuia(html: string): string {
     .replace(RE_EJEMPLO, '<p class="ejemplo-titulo"><span class="ejemplo-num">$1</span>$2</p>')
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
 
+  resultado = resultado.replace(RE_POSICION, (_m, a, rel, b) => htmlPosicion(a, rel, b));
+  resultado = resultado.replace(RE_FILA, (_m, lista) => htmlFila(lista));
   resultado = resultado.replace(RE_CONTAR, (_m, emoji, cantidad) => htmlContar(emoji, cantidad));
   resultado = resultado.replace(RE_FRACCION_VISUAL, (_m, n, d) => htmlFraccion(n, d));
   resultado = resultado.replace(RE_DIBUJO, (_m, emoji) => `<span class="dibujo" role="img" aria-label="dibujo">${emoji}</span>`);

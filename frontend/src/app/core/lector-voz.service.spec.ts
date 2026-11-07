@@ -11,8 +11,8 @@ class UtteranceFalsa {
   constructor(public text: string) {}
 }
 
-function voz(lang: string, nombre = lang, localService = true): SpeechSynthesisVoice {
-  return { lang, name: nombre, localService, default: false, voiceURI: nombre } as SpeechSynthesisVoice;
+function voz(lang: string, nombre = lang, localService = true, porDefecto = false): SpeechSynthesisVoice {
+  return { lang, name: nombre, localService, default: porDefecto, voiceURI: nombre } as SpeechSynthesisVoice;
 }
 
 function instalarSintesisFalsa(vocesIniciales: SpeechSynthesisVoice[] = []) {
@@ -54,12 +54,12 @@ describe('LectorVozService - idioma, velocidad y voces', () => {
       lector = new LectorVozService();
     });
 
-    it('mantiene español es-CL a 0.95 por defecto sin forzar voz', () => {
+    it('lee en español es-CL a 0.95 por defecto con la voz local de Chile', () => {
       expect(lector.leer('Hola')).toBe('iniciado');
       const u = mock.estado.habladas[0];
       expect(u.lang).toBe('es-CL');
       expect(u.rate).toBe(0.95);
-      expect(u.voice).toBeNull();
+      expect(u.voice?.name).toBe('es-CL');
     });
 
     it('lee en inglés con voz local en-US y la velocidad pedida', () => {
@@ -172,5 +172,58 @@ describe('LectorVozService - idioma, velocidad y voces', () => {
       expect(lector.leer('apple', { idioma: 'en-US' })).toBe('no-soportado');
       expect(() => lector.detener()).not.toThrow();
     });
+  });
+
+  describe('mejor voz española del dispositivo', () => {
+    it('prefiere una voz de calidad («Mejorada») aunque sea de otra variante', () => {
+      instalarSintesisFalsa([voz('es-ES', 'Mónica', true, true), voz('es-MX', 'Paulina (Mejorada)'), voz('es-CL', 'Chile compacta')]);
+      expect(new LectorVozService().vozPara('es-CL')?.name).toBe('Paulina (Mejorada)');
+    });
+
+    it('a igual calidad prefiere Chile, luego América, luego España', () => {
+      instalarSintesisFalsa([voz('es-ES', 'Mónica'), voz('es-MX', 'Paulina')]);
+      expect(new LectorVozService().vozPara('es-CL')?.name).toBe('Paulina');
+      instalarSintesisFalsa([voz('es-ES', 'Mónica'), voz('es-MX', 'Paulina'), voz('es-CL', 'Chile')]);
+      expect(new LectorVozService().vozPara('es-CL')?.name).toBe('Chile');
+    });
+
+    it('descarta voces novedad y sintetizadores robóticos', () => {
+      instalarSintesisFalsa([voz('es-CL', 'Eddy (español (Chile))'), voz('es-ES', 'Mónica'), voz('es', 'eSpeak Spanish')]);
+      expect(new LectorVozService().vozPara('es-CL')?.name).toBe('Mónica');
+    });
+
+    it('nunca elige una voz remota, aunque sea de calidad', () => {
+      instalarSintesisFalsa([voz('es-CL', 'Remota Natural', false), voz('es-ES', 'Mónica')]);
+      expect(new LectorVozService().vozPara('es-CL')?.name).toBe('Mónica');
+    });
+
+    it('sin voces españolas igual lee con la voz por defecto del navegador', () => {
+      const mock = instalarSintesisFalsa([voz('en-US', 'US')]);
+      expect(new LectorVozService().leer('Hola')).toBe('iniciado');
+      expect(mock.estado.habladas[0].voice).toBeNull();
+    });
+  });
+
+  describe('lectura por frases', () => {
+    it('divide un texto largo en frases y solo termina con la última', () => {
+      const mock = instalarSintesisFalsa([voz('es-CL')]);
+      const lector = new LectorVozService();
+      const frase = 'El gato está debajo de la mesa y mira a la niña que juega. ';
+      lector.leer(frase.repeat(8));
+      const habladas = mock.estado.habladas;
+      expect(habladas.length).toBeGreaterThan(1);
+      expect(habladas.every((u) => u.text.length <= 220)).toBe(true);
+      expect(habladas.map((u) => u.text).join(' ')).toBe(frase.repeat(8).trim());
+      habladas[0].onstart?.();
+      habladas[0].onend?.();
+      expect(lector.hablando()).toBe(true);
+      habladas[habladas.length - 1].onend?.();
+      expect(lector.hablando()).toBe(false);
+    });
+  });
+
+  it('no parte decimales ni horas', async () => {
+    const { fragmentarTexto } = await import('./lector-voz.service');
+    expect(fragmentarTexto('Mide 3.5 cm. Llega a las 1:30.', 12)).toEqual(['Mide 3.5 cm.', 'Llega a las 1:30.']);
   });
 });

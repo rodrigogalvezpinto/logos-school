@@ -69,7 +69,7 @@ c) Domingo
 
 ---
 
-**5.** [Imagen: 1 grupo de 10 fichas agrupadas y 6 fichas sueltas] ¿Qué número representa esta imagen?
+**5.** ::contar::🔵::10:: ::contar::🔵::6:: ¿Qué número representa esta imagen?
 
 a) 6
 b) 10
@@ -170,7 +170,7 @@ c) Secarse con una toalla
 
 ---
 
-**15.** [Imagen: un cielo oscuro con la Luna y varias estrellas] ¿Este cielo corresponde al día o a la noche?
+**15.** ::dibujo::🌙⭐✨:: ¿Este cielo corresponde al día o a la noche?
 
 a) Al día
 b) A la noche

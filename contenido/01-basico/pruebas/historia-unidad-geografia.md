@@ -73,14 +73,14 @@ d) Vegetación
 
 ---
 
-**7.** [Imagen: una plaza con un árbol a la izquierda, un juego infantil a la derecha, una banca delante de un edificio]
+**7.** Mira este dibujo: ::fila::🌳::🏠::🚗::🎠::
 
-En la plaza, ¿qué está a la izquierda?
+¿Qué está más a la izquierda?
 
-a) El juego infantil
-b) La banca
+a) El carrusel
+b) El auto
 c) El árbol
-d) El edificio
+d) La casa
 
 ---
 
@@ -92,4 +92,4 @@ d) El edificio
 4. b) Cordillera
 5. Falso
 6. b) Mar
-7. c) El árbol. En la imagen, el árbol está a la izquierda y el juego infantil a la derecha; la banca está delante del edificio.
+7. c) El árbol. En el dibujo, el árbol es lo primero por la izquierda y el carrusel queda al final, a la derecha.

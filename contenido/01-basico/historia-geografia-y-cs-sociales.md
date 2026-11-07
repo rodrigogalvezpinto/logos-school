@@ -476,12 +476,12 @@ paisaje desértico.
 **Ejemplo 3 — Ubicando objetos con derecha, izquierda, delante y detrás**
 
 
-::emoji::🌳::una plaza con un árbol a la izquierda, un juego infantil a la derecha, una banca
-delante de un edificio, y el edificio detrás de la banca::
+::fila::🌳::🏠::🎠:: ::posicion::🐕::delante::🏠::
 
 
-En la plaza, el árbol está a la **izquierda** y el juego infantil está a la **derecha**. La
-banca está **delante** del edificio, y el edificio está **detrás** de la banca. *Paso a
+En el primer dibujo, el árbol está a la **izquierda**, el carrusel a la **derecha** y la casa
+queda **entre** los dos. En el segundo, el perro está **delante** de la casa, y la casa está
+**detrás** del perro. *Paso a
 paso:* elegimos un punto de referencia (por ejemplo, quien mira la plaza) y describimos dónde
 está cada cosa en relación a ese punto.
 

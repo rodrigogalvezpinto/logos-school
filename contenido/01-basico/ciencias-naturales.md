@@ -719,7 +719,7 @@ animales, como el búho, están más activos de noche.
 
 5. *(Alternativas — observación)* Mira esta imagen del cielo.
 
-::emoji::🌙::un cielo oscuro con la Luna y varias estrellas::
+::dibujo::🌙⭐✨::
 
    ¿Este cielo corresponde al día o a la noche?
    a) A la noche, porque se ven la Luna y las estrellas y el cielo está oscuro.

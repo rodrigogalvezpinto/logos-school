@@ -55,7 +55,7 @@ e) Cielo muy iluminado
 
 ---
 
-**5.** [Imagen: un cielo oscuro con la Luna y varias estrellas]
+**5.** ::dibujo::🌙⭐✨::
 
 ¿Este cielo corresponde al día o a la noche?
 

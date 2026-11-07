@@ -1374,3 +1374,14 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
 - Validador: 0 discrepancias en 265 archivos.
 - Backend: 664 pruebas (`tests/` y `scripts/tests`), incluida la guarda de corpus cerrado. Antes de esta corrida, el test de estímulos de 4.° medio fallaba por la redacción y ya se corrigió.
 - E2E Chromium: corrida completa de 263 pruebas con 1 falla. Era el simulacro de CpC 4.° medio con la importación anterior, ya corregido en la fuente. Tras reimportar, 2.°, 3.° y 4.° medio dan 72/72. Corrida final en los 3 navegadores (Chromium, Firefox y WebKit), tras reimportar: **792/792**, sin fallas (2026-11-07).
+
+### 15.29 Dibujos de posición en 1.° básico y mejor voz del dispositivo (2026-11-07)
+
+**Problema.** En 1.° básico, varias ilustraciones pendientes se describían con palabras y la descripción era la respuesta: «[Imagen: un gato está debajo de una mesa] El gato está ___ de la mesa», «una niña a la izquierda de un árbol», «un cielo oscuro con la Luna» (¿día o noche?), «1 grupo de 10 fichas y 6 sueltas» (¿qué número?).
+
+**Corrección (sin costo, sin imágenes externas).**
+- Marcador nuevo `::posicion::A::relación::B::` (encima, debajo, dentro, izquierda, derecha, al-lado, delante, detrás), dibujado en SVG. La referencia puede ser un emoji o una figura dibujada (`mesa`, `caja` abierta). También `::fila::e1::e2::…::`, de izquierda a derecha. El texto alternativo dice solo «dibujo», para no dar la respuesta.
+- Ítems cambiados: prueba de Geometría P2, P4 (ahora lápiz dentro de una caja), P5 y P6 (enunciado en texto); prueba de Geografía P7 (fila árbol-casa-auto-carrusel); guía de Matemática (ejemplos y autoevaluación de posición, comparación 7 y 11 con `::contar::`, decenas con `::contar::`); guía de Historia (plaza); cielo nocturno de la prueba de Tierra y Universo, la guía de Ciencias y el simulacro B #15; fichas del simulacro B #5.
+- Voz: el lector elige la mejor voz **local** en español. El orden es: voces de calidad («Mejorada», «Premium», «Natural», «Neural») primero, y a igual calidad, Chile, luego América y luego España. Descarta voces novedad y eSpeak. Lee por frases, con pausas naturales, y evita que Chrome corte las lecturas largas. Se mantiene la regla de no usar voces remotas.
+
+**Verificación.** Validador: 0 discrepancias en 265 archivos. Backend: 725 pruebas. Frontend: 109 pruebas unitarias (marcadores y voz nuevos). E2E en los 3 navegadores: validación de 1.° básico más los flujos completos de 1.° básico, 2.° básico y 2.° medio, **117/117**. Revisión visual de los dibujos en Chromium y WebKit.
