@@ -24,8 +24,8 @@ comprensión de cuentos (OA 8)
 **1.** [Imagen: un gato sentado] ¿Cuántas sílabas tiene la palabra "**gato**"?
 
 a) 1
-b) 2
-c) 3
+b) 3
+c) 2
 
 ---
 
@@ -82,7 +82,7 @@ c) Porque tomó mucha agua
 
 ## Pauta de respuestas
 
-1. **b) 2** — "Ga-to" se separa en dos partes.
+1. **c) 2** — "Ga-to" se separa en dos partes.
 2. **a) /s/** — "Sapo" empieza igual que "sol".
 3. **c) /n/** — Al decir "pan" despacio, el último sonido es /n/.
 4. **b) rr** — Con "rr" se lee "perro", con el sonido fuerte.

@@ -71,11 +71,11 @@ El número **19** se lee "diecinueve". Para representarlo con dibujos, podemos d
 
 **Pregunta 1 (alternativas).** ¿Cuál número corresponde a la palabra "trece"?
 a) 3
-b) 13
+b) 31
 c) 30
-d) 31
+d) 13
 
-**Respuesta correcta: b) 13.**
+**Respuesta correcta: d) 13.**
 *Retroalimentación:* "trece" se escribe con dos dígitos: el 1 y el 3, formando el número 13. El número 3 (opción a) se lee solo "tres", sin el "trece".
 
 **Pregunta 2 (alternativas — completar).** ¿Cómo se escribe con número la palabra "diecinueve"?
@@ -91,11 +91,11 @@ d) 19
 ::contar::⭐::6::
  ¿Qué número representa esta cantidad de estrellas?
 a) 5
-b) 6
+b) 9
 c) 7
-d) 9
+d) 6
 
-**Respuesta correcta: b) 6.**
+**Respuesta correcta: d) 6.**
 *Retroalimentación:* al contar las estrellas una por una (1, 2, 3, 4, 5, 6) llegamos al número 6. Si te equivocaste, vuelve a contar despacio, tocando cada estrella con el dedo mientras cuentas.
 
 **Pregunta 4 (verdadero o falso).** El número 20 se lee "doce".
@@ -107,11 +107,11 @@ d) 9
 ::contar::🎈::14::
  Cuenta los globos. ¿Qué número representan?
 a) 13
-b) 14
+b) 41
 c) 15
-d) 41
+d) 14
 
-**Respuesta correcta: b) 14.**
+**Respuesta correcta: d) 14.**
 *Retroalimentación:* contar despacio y de a uno ayuda a no saltarse ni repetir ningún globo (si te salta uno, llegas a 13; si repites uno, a 15). Puedes ir tocando cada globo con el dedo mientras dices el número en voz alta.
 
 **Pregunta 6 (alternativas).** ¿Cuál de estas opciones muestra el número 9 representado con dibujos?
@@ -308,12 +308,12 @@ d) 4 + 4 = 8
 *Retroalimentación:* si sumamos 15 + 5 obtenemos 20, por lo tanto esta es una descomposición correcta del número 20.
 
 **Pregunta 6 (alternativas — aplicación).** Sofía tiene 8 caramelos en total. 3 son de menta y el resto son de fruta. ¿Cuántos caramelos son de fruta?
-a) 11
-b) 5
+a) 5
+b) 11
 c) 4
 d) 3
 
-**Respuesta correcta: b) 5.**
+**Respuesta correcta: a) 5.**
 *Retroalimentación:* como sabemos que el total es 8 y una de las partes es 3, buscamos qué número le falta a 3 para llegar a 8: 3, 4, 5, 6, 7, 8 (avanzamos 5), por eso los caramelos de fruta son 5. Si sumas 8 + 3 = 11, estás juntando el total con una de sus partes.
 
 ---
@@ -383,11 +383,11 @@ d) 13
 ::contar::🧱::10:: ::contar::🧱::5::
  ¿Qué número representa esta imagen?
 a) 6
-b) 15
+b) 105
 c) 51
-d) 105
+d) 15
 
-**Respuesta correcta: b) 15.**
+**Respuesta correcta: d) 15.**
 *Retroalimentación:* el grupo de 10 bloques forma 1 decena (vale 10), y le sumamos los 5 bloques sueltos (5 unidades): 10 + 5 = 15. Si cuentas el grupo como "1 bloque", llegas a 6, pero el grupo vale 10.
 
 **Pregunta 5 (alternativas).** Agustín tiene 18 fichas y las agrupa de a 10. ¿Cuántos grupos de 10 se forman y cuántas fichas quedan sueltas?
@@ -447,12 +447,12 @@ En una fiesta de cumpleaños hay 12 globos, y la mamá de Vicente infla 6 globos
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Calcula: 4 + 3 = ?
-a) 6
-b) 7
+a) 7
+b) 6
 c) 8
 d) 12
 
-**Respuesta correcta: b) 7.**
+**Respuesta correcta: a) 7.**
 *Retroalimentación:* puedes contar con los dedos: empieza en 4 y sigue contando 3 más (5, 6, 7). El resultado es 7.
 
 **Pregunta 2 (verdadero o falso).** 9 − 5 = 4.

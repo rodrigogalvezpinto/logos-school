@@ -39,9 +39,9 @@ basado_en: >
 
 **1.** ¿Cuál es la flor nacional de Chile, que crece en los bosques del sur?
 
-a) El copihue
+a) El girasol
 b) La rosa
-c) El girasol
+c) El copihue
 
 ---
 
@@ -111,15 +111,15 @@ c) Guanaco → norte, en el desierto
 Según la nota, ¿a qué hora dice Camila que va a volver?
 
 a) A las 5
-b) A las 6
-c) A las 7
+b) A las 7
+c) A las 6
 
 ---
 
 **10.** [Imagen: 9 pollitos juntos, y 4 de ellos se alejan caminando] ¿Cuántos pollitos quedan?
 
-a) 4
-b) 5
+a) 5
+b) 4
 c) 13
 
 ---
@@ -144,9 +144,9 @@ d) Cordillera
 
 **13.** Completa la secuencia: 2, 4, 6, ___, 10
 
-a) 7
-b) 8
-c) 9
+a) 8
+b) 9
+c) 12
 
 ---
 
@@ -188,9 +188,9 @@ c) Interrumpir al profesor sin pedir la palabra
 
 **17.** Observa el pictograma con la cantidad de mascotas de un curso (cada dibujo = 1 niño). Perro: 🐶🐶🐶🐶🐶🐶. Gato: 🐱🐱🐱. Pez: 🐟🐟. ¿Cuántos niños tienen perro?
 
-a) 3
-b) 6
-c) 11
+a) 2
+b) 3
+c) 6
 
 ---
 
@@ -236,7 +236,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
-| 1 | Ciencias Naturales | **a) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
+| 1 | Ciencias Naturales | **c) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
 | 2 | Matemática | **a) 16.** Al contar, el 16 viene después del 12, por lo tanto 16 es mayor que 12. | OA 4 — Comparar y ordenar números del 0 al 20 |
 | 3 | Lenguaje y Comunicación | **c) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
 | 4 | Historia, Geografía y Cs. Sociales | **a) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
@@ -244,15 +244,15 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
 | 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
 | 8 | Ciencias Naturales | **c) Guanaco → norte, en el desierto.** El guanaco vive en las zonas secas del norte; el pudú vive en el bosque del sur y el cactus crece en el norte. | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **b) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
-| 10 | Matemática | **b) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
+| 9 | Lenguaje y Comunicación | **c) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 10 | Matemática | **a) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
 | 11 | Ciencias Naturales | **a, b y c.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
 | 12 | Historia, Geografía y Cs. Sociales | **a, b y d.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
-| 13 | Matemática | **b) 8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
+| 13 | Matemática | **a) 8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
 | 14 | Lenguaje y Comunicación | **b) Mojar las manos con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Información explícita en instrucciones |
 | 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Levantar la mano y esperar mi turno.** Es la norma que ayuda a que todos puedan hablar y ser escuchados en orden. | OA 14 — Normas de convivencia y autocuidado |
-| 17 | Matemática | **b) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
+| 17 | Matemática | **c) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
 | 18 | Ciencias Naturales | **a) Dormir.** Ir a la escuela y jugar en el recreo son actividades del día. | OA 11 — El día y la noche |
 | 19 | Lenguaje y Comunicación | **b) Me gusta jugar a la pelota.** Responde la pregunta y tiene cada palabra separada por un espacio; la opción a) junta palabras y la c) no responde la pregunta. | OA N°13 — Escribir una frase corta para responder |
 | 20 | Historia, Geografía y Cs. Sociales | **a) Hospital o posta: cuida la salud de las personas.** La escuela enseña y Carabineros cuida la seguridad de las personas. | OA 15 — Instituciones de la comunidad |

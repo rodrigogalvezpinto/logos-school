@@ -45,8 +45,8 @@ c) 11
 
 **2.** [Imagen: una pelota roja] ¿Cuántas sílabas tiene la palabra "**pelota**"?
 
-a) 2
-b) 3
+a) 3
+b) 2
 c) 4
 
 ---
@@ -102,8 +102,8 @@ c) Santiago
 **9.** Calcula: 5 + 3 = ?
 
 a) 7
-b) 8
-c) 9
+b) 9
+c) 8
 
 ---
 
@@ -222,14 +222,14 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
 | 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
-| 2 | Lenguaje y Comunicación | **b) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
+| 2 | Lenguaje y Comunicación | **a) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
 | 4 | Ciencias Naturales | **c) Un pájaro.** Es un ser vivo porque nace, crece, se reproduce y muere; la silla y el lápiz son objetos, no seres vivos. | OA 1 — Seres vivos y cosas no vivas |
 | 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
 | 7 | Ciencias Naturales | **a) Tacto.** El tacto de las manos permite sentir si algo está caliente o frío. | OA 6 — Los cinco sentidos |
 | 8 | Historia, Geografía y Cs. Sociales | **c) Santiago.** Es la capital de Chile. | OA 9 — Chile en el mapa |
-| 9 | Matemática | **b) 8.** Contando desde 5, tres números más (6, 7, 8), se llega a 8. | OA 9 — Sumar y restar números del 0 al 20 |
+| 9 | Matemática | **c) 8.** Contando desde 5, tres números más (6, 7, 8), se llega a 8. | OA 9 — Sumar y restar números del 0 al 20 |
 | 10 | Lenguaje y Comunicación | **b) Pan.** La frase dice claramente "El perro come pan". | OA N°4 — Lectura y comprensión de frases cortas |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Océano Pacífico.** Está junto a todo el territorio chileno, de norte a sur. | OA 9 — Chile en el mapa |
 | 12 | Ciencias Naturales | **b) Corcho.** Es un material liviano que flota en el agua, por eso se usa en tapones de botella. | OA 8 — Los materiales y sus propiedades |

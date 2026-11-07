@@ -39,8 +39,8 @@ c) Sola
 **2.** ¿A qué hora dice la nota que Camila va a volver?
 
 a) A las 5
-b) A las 6
-c) A las 7
+b) A las 7
+c) A las 6
 
 ---
 
@@ -104,7 +104,7 @@ d) pe
 ## Pauta de respuestas
 
 1. **a) Con Tomás** — La nota dice "Fui a jugar a la plaza con Tomás".
-2. **b) A las 6** — La nota dice "Vuelvo a las 6".
+2. **c) A las 6** — La nota dice "Vuelvo a las 6".
 3. **c) Ponerse jabón** — Es el paso 2, justo después de mojarse las manos (paso 1).
 4. d) sol — Cada sonido de la palabra tiene su letra: /s/-/o/-/l/. En «sl» falta la o, en «sool» sobra una o y «zol» no se escribe con z.
 5. a) el pájaro canta — Son tres palabras y cada palabra debe ir separada por un espacio.

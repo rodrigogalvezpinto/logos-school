@@ -26,9 +26,9 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 **1.** ¿Cuál número corresponde a la palabra "trece"?
 
 a) 3
-b) 13
+b) 31
 c) 30
-d) 31
+d) 13
 
 **2.** ¿Cuál número es mayor: 14 o 9?
 
@@ -53,10 +53,10 @@ d) 103
 
 **5.** Calcula: 4 + 3 = ?
 
-a) 6
-b) 7
-c) 8
-d) 12
+a) 1
+b) 6
+c) 7
+d) 8
 
 **6.** 9 − 5 = 4. ¿Verdadero o falso?
 
@@ -81,11 +81,11 @@ d) 85
 
 ## Pauta de respuestas
 
-1. b) 13
+1. d) 13
 2. a) 14
 3. b) 4 — desde el 10 hasta el 14 se avanzan 4 números.
 4. a) 13 — 1 decena vale 10 y se suman 3 unidades: 10 + 3 = 13. El 31 tendría 3 decenas y 1 unidad.
-5. b) 7
+5. c) 7
 6. Verdadero
 7. d) 14 — contar de a uno, sin saltarse ni repetir globos.
 8. c) 13 — recibe canicas, así que se suma: 8 + 5 = 13. Restar (8 − 5 = 3) sería quitar canicas.

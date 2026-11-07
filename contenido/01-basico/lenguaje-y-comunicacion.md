@@ -78,10 +78,10 @@ Palabra: "**mariposa**"
  ¿Cuántas sílabas tiene la palabra "**gato**"?
 
 a) 1
-b) 2
-c) 3
+b) 3
+c) 2
 
-*Respuesta correcta: b.* Retroalimentación: ¡Muy bien! "Ga-to" se separa en dos partes: da dos palmadas y lo comprobarás.
+*Respuesta correcta: c.* Retroalimentación: ¡Muy bien! "Ga-to" se separa en dos partes: da dos palmadas y lo comprobarás.
 
 **2. (Sonido inicial)** 
 ::emoji::🐸::un sapo verde::
@@ -195,10 +195,10 @@ c) "mesa"
 **4. (Sílaba compleja)** Lee la palabra "**tren**". ¿Cuántas consonantes hay juntas al principio, antes de la vocal?
 
 a) 1
-b) 2
-c) 3
+b) 3
+c) 2
 
-*Respuesta correcta: b.* Retroalimentación: ¡muy bien! "T" y "r" están juntas antes de la "e". Por eso "tren" tiene una sílaba compleja.
+*Respuesta correcta: c.* Retroalimentación: ¡muy bien! "T" y "r" están juntas antes de la "e". Por eso "tren" tiene una sílaba compleja.
 
 **5. (Leer frase y responder)** Lee la frase: "**La niña juega con la pelota.**" ¿Con qué juega la niña?
 
