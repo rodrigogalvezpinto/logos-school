@@ -1,14 +1,14 @@
 ---
 asignatura: Matemática
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","7":"OA 20","8":"OA 19"}
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","6":"OA 19","7":"OA 20","8":"OA 19"}
 eje: Medición y Datos y Probabilidades
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 8
 fuente: contenido/01-basico/matematica.md (OA 18, 19, 20)
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Medición y Datos y Probabilidades
@@ -37,10 +37,10 @@ b) Lápiz, goma de borrar, regla
 c) Goma de borrar, regla, lápiz
 d) Goma de borrar, lápiz, regla
 
-**3.** La cuerda A mide 8 pasos de largo, y la cuerda B mide 5 pasos de largo. ¿Cuál cuerda es más larga?
+**3.** La cinta roja mide 6 cuadritos de largo, y la cinta azul mide 9 cuadritos de largo. ¿Cuál cinta es más corta?
 
-a) La cuerda A
-b) La cuerda B
+a) La cinta azul
+b) La cinta roja
 c) Las dos miden lo mismo
 
 **4.** Tabla de conteo de mascota favorita: Perro \|\|\|\| — Gato \|\|\| — Pez \|\|. ¿Cuántos niños prefieren el gato?
@@ -55,11 +55,11 @@ d) 9
 a) Verdadero
 b) Falso
 
-**6.** Se preguntó a un grupo de niños cuál es su fruta favorita: manzana \|\|\|\|\|\|, plátano \|\|\|, uva \|\|\|\|. ¿Cuál es la fruta menos elegida?
+**6.** Se preguntó a un grupo de niños cuál es su juego favorito: pelota \|\|\|\|\|, cuerda \|\|, escondida \|\|\|\|. ¿Cuál fue el juego más elegido?
 
-a) La manzana
-b) La uva
-c) El plátano
+a) La cuerda
+b) La escondida
+c) La pelota
 
 **7.** Pictograma de mascotas: Perro 🐶🐶🐶🐶🐶 — Gato 🐱🐱🐱 — Pez 🐟🐟. ¿Cuántos niños tienen perro?
 
@@ -80,9 +80,9 @@ c) Los dos tienen la misma cantidad
 
 1. d) El lápiz B. Los dos parten del mismo punto y el lápiz B sobresale más.
 2. d) Goma de borrar, lápiz, regla — 3 cm es lo más corto y 30 cm lo más largo.
-3. a) La cuerda A — 8 pasos es más que 5 pasos.
+3. b) La cinta roja — 6 cuadritos es menos que 9 cuadritos.
 4. b) 3
 5. Falso (el pez tiene 2, el perro tiene 4)
-6. c) El plátano — tiene 3 marcas, menos que la uva (4) y la manzana (6).
+6. c) La pelota — tiene 5 marcas, más que la escondida (4) y la cuerda (2).
 7. c) 5
 8. b) El azul — 6 es mayor que 4.

@@ -8,7 +8,7 @@ título: Prueba de Unidad — Patrones y Álgebra
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 11)
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Patrones y Álgebra
@@ -30,31 +30,31 @@ b) Estrella
 c) Cuadrado
 d) Triángulo
 
-**2.** Completa la secuencia: 3, 6, 9, ___, 15
+**2.** Completa la secuencia: 5, 10, 15, ___, 25
 
-a) 12
-b) 10
-c) 11
-d) 13
+a) 16
+b) 20
+c) 21
+d) 30
 
 **3.** El patrón 20, 17, 14, 11 es decreciente. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
 
-**4.** En la secuencia 1, 3, 5, 7, 9, ¿cuál es la regla que se repite?
+**4.** En la secuencia 10, 8, 6, 4, ¿cuál es la regla que se repite?
 
-a) Sumar 1
-b) Sumar 2
+a) Sumar 2
+b) Restar 1
 c) Restar 2
-d) Sumar 3
+d) Restar 3
 
-**5.** Un patrón de aplausos sigue así: palmada, palmada, pisada, palmada, palmada, pisada, palmada, palmada, ___. ¿Qué sigue?
+**5.** Un patrón de colores sigue así: rojo, azul, azul, rojo, azul, azul, rojo, ___. ¿Qué color sigue?
 
-a) Palmada
-b) Pisada
-c) Salto
-d) Silencio
+a) Verde
+b) Rojo
+c) Amarillo
+d) Azul
 
 **6.** ¿Cuál de estas filas es un **patrón repetitivo** con 3 frutas, repetido dos veces en el mismo orden?
 
@@ -68,8 +68,8 @@ d) uva, plátano, manzana, manzana, uva, plátano
 ## Pauta de respuestas
 
 1. d) Triángulo
-2. a) 12 — la regla es sumar 3: 9 + 3 = 12 y 12 + 3 = 15.
+2. b) 20 — la regla es sumar 5: 15 + 5 = 20 y 20 + 5 = 25.
 3. Verdadero
-4. b) Sumar 2
-5. b) Pisada
+4. c) Restar 2 — cada número es 2 menos que el anterior.
+5. d) Azul — el grupo «rojo, azul, azul» se repite; después del rojo viene azul.
 6. c) plátano, manzana, uva, plátano, manzana, uva — el mismo orden fijo se repite exactamente igual; en las otras filas el orden cambia.

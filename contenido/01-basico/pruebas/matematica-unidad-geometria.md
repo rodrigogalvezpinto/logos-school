@@ -8,7 +8,7 @@ título: Prueba de Unidad — Geometría
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 13)
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Geometría
@@ -30,7 +30,7 @@ b) Abajo
 c) Arriba
 d) Derecha
 
-**2.** ::posicion::🐱::debajo::mesa:: El gato está ___ de la mesa.
+**2.** ::posicion::🎂::encima::mesa:: El pastel está ___ de la mesa.
 
 a) debajo
 b) encima
@@ -42,25 +42,25 @@ d) dentro
 a) Verdadero
 b) Falso
 
-**4.** ::posicion::✏️::dentro::caja:: ¿Qué frase describe bien dónde está el lápiz?
+**4.** ::posicion::🧸::dentro::caja:: ¿Qué frase describe bien dónde está el osito?
 
-a) El lápiz está debajo de la caja.
-b) El lápiz está al lado de la caja.
-c) El lápiz está dentro de la caja.
-d) El lápiz está encima de la caja.
+a) El osito está dentro de la caja.
+b) El osito está debajo de la caja.
+c) El osito está al lado de la caja.
+d) El osito está encima de la caja.
 
-**5.** ::posicion::👧::izquierda::🌳:: ¿Dónde está la niña respecto al árbol?
+**5.** ::posicion::🐶::derecha::🏠:: ¿Dónde está el perro respecto a la casa?
 
-a) A la derecha del árbol
-b) A la izquierda del árbol
-c) Detrás del árbol
-d) Dentro del árbol
+a) A la izquierda de la casa
+b) Dentro de la casa
+c) A la derecha de la casa
+d) Encima de la casa
 
-**6.** En una fila, Antonia está delante de Benjamín, y Benjamín está delante de Isidora. ¿Quién está entre Antonia e Isidora?
+**6.** En una fila, Tomás está delante de Sofía, y Sofía está delante de Pedro. ¿Quién está al final de la fila?
 
-a) Antonia
-b) Benjamín
-c) Isidora
+a) Tomás
+b) Sofía
+c) Pedro
 d) Nadie
 
 ---
@@ -68,8 +68,8 @@ d) Nadie
 ## Pauta de respuestas
 
 1. d) Derecha
-2. a) debajo
+2. b) encima — el pastel está arriba de la mesa, apoyado sobre ella.
 3. Verdadero
-4. c) El lápiz está dentro de la caja. «Dentro» es la palabra de posición que describe un objeto guardado adentro de otro.
-5. b) A la izquierda del árbol
-6. b) Benjamín — Antonia va primero, luego Benjamín y luego Isidora, así que Benjamín queda en el medio.
+4. a) El osito está dentro de la caja. «Dentro» describe un objeto guardado adentro de otro.
+5. c) A la derecha de la casa
+6. c) Pedro — Tomás va primero, luego Sofía y al final Pedro.
