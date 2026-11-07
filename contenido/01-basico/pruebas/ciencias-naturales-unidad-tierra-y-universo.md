@@ -5,7 +5,8 @@ unidad: Eje 3 — Ciencias de la Tierra y el Universo (OA 11)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
+oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 11","5":"OA 11","6":"OA 11","7":"OA 11"}
 ---
 
 # Prueba de Unidad — El Día y la Noche
@@ -17,17 +18,17 @@ Nombre: ________________________  Fecha: ____________
 
 ---
 
-**1.** ¿Qué astro vemos en el cielo durante el día, dando luz y calor?
+**1.** ¿Qué podemos ver en el cielo en una noche despejada?
 
-a) La Luna
-b) Las estrellas
-c) El Sol
-d) Un cometa
+a) El Sol brillando fuerte
+b) La Luna y las estrellas
+c) Un arcoíris
+d) El cielo muy azul y claro
 
 ---
 
-**2.** *(Verdadero o falso)* Cuando el Sol se pone y ya no se ve en el cielo,
-decimos que está anocheciendo.
+**2.** *(Verdadero o falso)* Cuando el Sol aparece en el cielo por la mañana,
+decimos que está amaneciendo.
 
 a) Verdadero
 b) Falso
@@ -64,12 +65,12 @@ b) A la noche
 
 ---
 
-**6.** ¿Cuál de estos animales está más activo durante la noche?
+**6.** ¿Cuál de estos animales está activo durante el día y duerme de noche?
 
-a) El chincol
+a) El murciélago
 b) El búho
-c) La abeja
-d) La mariposa
+c) La gallina
+d) La lechuza
 
 ---
 
@@ -84,10 +85,10 @@ d) Ponerse el pijama para acostarse
 
 ## Pauta de respuestas
 
-1. c) El Sol
-2. Verdadero
+1. b) La Luna y las estrellas. El Sol, el arcoíris y el cielo azul se ven de día.
+2. Verdadero. Amanecer es el momento en que el Sol aparece y empieza el día.
 3. a) Amanecer → mediodía → atardecer → noche
 4. a, c y e — De día el Sol está visible, hace más calor y el cielo está muy iluminado. Las estrellas y la Luna se ven de noche, cuando hace más frío.
 5. b) A la noche
-6. b) El búho
+6. c) La gallina. El murciélago, el búho y la lechuza están activos de noche.
 7. c) Ir a la escuela. Dormir, ver las estrellas y ponerse el pijama son actividades de la noche.

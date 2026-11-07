@@ -62,7 +62,7 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | ✅ hecho 2026-11-07 |
 | 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | pendiente |
 | 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | ✅ hecho 2026-11-07 |
-| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | en curso: **4.° básico, 76 de 76 reescritas (0 % repetidas)**. Falta el E2E de 4.° básico, pendiente por la lentitud del Mac. Siguen 1.° a 3.° básico |
+| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | en curso: **4.° básico, 76 de 76 reescritas (0 % repetidas)**. Falta el E2E de 4.° básico, pendiente por la lentitud del Mac. 1.° básico en curso: Ciencias completa (14 de 45) |
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
 | 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | pendiente |
 | 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | pendiente |
@@ -73,6 +73,19 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
+
+- 2026-11-07 16:40: 1.° básico, Ciencias Naturales: 14 preguntas reescritas (Vida 6, Físicas 5,
+  Tierra 3), con OA explícitos. Reimportación: 6.150 preguntas, 0 sin OA. **E2E aún sin poder
+  correrse** por la lentitud del sistema:
+  - la conexión a PostgreSQL tardaba entre 3 y 7 s. Postgres se reinició (`brew services restart
+    postgresql@16`) y también la API;
+  - la carga del sistema vuelve a 40–55;
+  - en la captura de una falla, la guía aparece bien cargada, solo tarde. No es un error de contenido.
+
+  **Al retomar:**
+  1. Si la carga está bajo 10, correr el E2E de 1.° y 4.° básico en los 3 navegadores y el backend
+     completo.
+  2. Si `psql` tarda más de 1 s, reiniciar Postgres y la API.
 
 - 2026-11-07 16:20: se reescribieron las 39 preguntas que faltaban en 4.° básico: Ciencias
   (Físicas y Tierra), Historia (Formación Ciudadana, Geografía e Historia) y Lenguaje U2. Validador:

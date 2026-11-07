@@ -1,12 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","6":"OA 9","7":"OA 9"}
+oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 9","6":"OA 9","7":"OA 9"}
 unidad: Eje 2 — Ciencias Físicas y Químicas (OA 8, OA 9)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 7
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Ciencias Físicas y Químicas
@@ -18,18 +18,17 @@ Nombre: ________________________  Fecha: ____________
 
 ---
 
-**1.** ¿Qué material es liviano y flota en el agua, por lo que se usa para
-hacer tapones de botella?
+**1.** ¿Qué material es suave y se usa para hacer ropa y fundas de almohada?
 
-a) Corcho
+a) Piedra
 b) Metal
-c) Vidrio
-d) Piedra
+c) Género (tela)
+d) Vidrio
 
 ---
 
-**2.** *(Verdadero o falso)* La goma es un material rígido que no cambia de
-forma.
+**2.** *(Verdadero o falso)* El vidrio es un material frágil: si un vaso de vidrio
+se cae al suelo, se puede quebrar.
 
 a) Verdadero
 b) Falso
@@ -57,38 +56,38 @@ d) Las tres se sienten igual
 
 ---
 
-**5.** ¿Qué le pasa a un cubo de hielo cuando se le aplica calor?
+**5.** ¿Qué le pasa a un chocolate si lo dejas al sol en un día muy caluroso?
 
 a) Se pone más duro
-b) Se derrite y se vuelve agua
-c) Cambia de color
+b) Se vuelve más grande
+c) Se derrite y se ablanda
 d) No le pasa nada
 
 ---
 
-**6.** *(Verdadero o falso)* El papel, cuando se moja con agua, se ablanda y se
-puede romper más fácilmente.
+**6.** *(Verdadero o falso)* Una esponja seca se pone más pesada cuando la mojamos
+con agua.
 
 a) Verdadero
 b) Falso
 
 ---
 
-**7.** ¿Qué acción produce que una hoja de papel se doble o se arrugue?
+**7.** ¿Qué acción hace que una bola de plasticina se aplaste?
 
-a) Dejarla un rato a la luz del sol
-b) Calentarla cerca de una estufa
-c) Aplicar fuerza con las manos
-d) Ponerla junto a un vaso de agua fría
+a) Mirarla un rato
+b) Dejarla a la sombra
+c) Ponerle un nombre
+d) Apretarla con las manos
 
 ---
 
 ## Pauta de respuestas
 
-1. a) Corcho
-2. Falso
+1. c) Género (tela). Es suave y flexible, por eso es cómodo para la ropa.
+2. Verdadero. El vidrio es duro, pero frágil: se quiebra con un golpe.
 3. d) Botella → plástico. La silla suele ser de madera, la pelota de goma y la llave de metal.
 4. b) La cuchara de metal
-5. b) Se derrite y se vuelve agua
-6. Verdadero
-7. c) Aplicar fuerza con las manos
+5. c) Se derrite y se ablanda. El calor del sol cambia el chocolate.
+6. Verdadero. La esponja absorbe el agua y por eso pesa más.
+7. d) Apretarla con las manos. Al aplicar fuerza, la plasticina cambia de forma.

@@ -1,12 +1,12 @@
 ---
 asignatura: Ciencias Naturales
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","7":"OA 6","8":"OA 6"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 5","5":"OA 5","6":"OA 6","7":"OA 6","8":"OA 6"}
 unidad: Eje 1 — Ciencias de la Vida (OA 1, OA 5, OA 6)
 tipo: Prueba de unidad
 tiempo_sugerido: 15 minutos
 cantidad_preguntas: 8
-ultima_actualizacion: 2026-10-28
+ultima_actualizacion: 2026-11-07
 ---
 
 # Prueba de Unidad — Ciencias de la Vida
@@ -18,17 +18,16 @@ Nombre: ________________________  Fecha: ____________
 
 ---
 
-**1.** ¿Cuál de estos es un ser vivo?
+**1.** ¿Cuál de estos **no** es un ser vivo?
 
-a) Una piedra
-b) Un lápiz
-c) Un gato
-d) Una silla
+a) Un árbol
+b) Una pelota
+c) Un pájaro
+d) Una hormiga
 
 ---
 
-**2.** *(Verdadero o falso)* Las plantas necesitan agua para vivir, igual que los
-animales y las personas.
+**2.** *(Verdadero o falso)* Los seres vivos nacen, crecen y se reproducen.
 
 a) Verdadero
 b) Falso
@@ -46,32 +45,30 @@ d) El sapo
 
 ---
 
-**4.** ¿Cuál es la flor nacional de Chile, que crece en los bosques del sur?
+**4.** ¿Qué ave grande de Chile vuela sobre la cordillera de los Andes y aparece en el escudo nacional?
 
-a) La rosa
-b) El copihue
-c) El girasol
-d) El tulipán
-
----
-
-**5.** ¿Cuál de estas acciones ayuda a proteger a las plantas y animales de
-Chile?
-
-a) Arrancar flores silvestres para llevar a la casa
-b) Molestar a los animales que encuentro en el campo
-c) Observar a los animales sin tocarlos ni asustarlos
-d) Botar basura en el bosque
+a) La gaviota
+b) El pingüino
+c) El cóndor
+d) La gallina
 
 ---
 
-**6.** ¿Con qué sentido reconocemos si una sopa está muy caliente al tocar el
-plato?
+**5.** Encuentras un nido de pájaro con huevos en un árbol del parque. ¿Qué debes hacer?
+
+a) Sacar los huevos para mirarlos de cerca
+b) Mirar el nido de lejos, sin tocarlo
+c) Llevar el nido a tu casa para cuidarlo
+d) Cambiar el nido a otro árbol
+
+---
+
+**6.** ¿Con qué sentido escuchas el ladrido de un perro?
 
 a) Vista
-b) Tacto
-c) Gusto
-d) Olfato
+b) Olfato
+c) Oído
+d) Gusto
 
 ---
 
@@ -85,8 +82,8 @@ d) Oído → lengua
 
 ---
 
-**8.** *(Verdadero o falso)* Está bien mirar directamente al sol porque ayuda a
-nuestros ojos a ver mejor.
+**8.** *(Verdadero o falso)* Para cuidar la piel en un día de mucho sol, conviene usar
+bloqueador solar y gorro.
 
 a) Verdadero
 b) Falso
@@ -95,11 +92,11 @@ b) Falso
 
 ## Pauta de respuestas
 
-1. c) Un gato
-2. Verdadero
+1. b) Una pelota. No nace, no crece ni se reproduce: es un objeto.
+2. Verdadero. Todos los seres vivos nacen, crecen, se reproducen y mueren.
 3. d) El sapo
-4. b) El copihue
-5. c) Observar a los animales sin tocarlos ni asustarlos
-6. b) Tacto
+4. c) El cóndor. Vive en la cordillera de los Andes y está en el escudo de Chile.
+5. b) Mirar el nido de lejos, sin tocarlo. Así los padres pueden seguir cuidando los huevos.
+6. c) Oído. Con los oídos escuchamos los sonidos.
 7. a y c — Vista → ojos y tacto → piel. El gusto va con la lengua y el oído con los oídos (y el olfato con la nariz).
-8. Falso
+8. Verdadero. La piel es el órgano del tacto y el sol fuerte puede quemarla.
