@@ -64,7 +64,7 @@ d) Porque se apaga al final del relato, cuando Antonia decide irse a Santiago y 
 a) Que quienes se van a estudiar a la ciudad vuelven millonarios y ya no necesitan el oficio familiar; la Calchona aparece solo como un dato decorativo, sin relación con el conflicto del relato ni con el pueblo
 b) Que nadie se va nunca del pueblo, porque la tierra retiene a todos los que nacen ahí; la Calchona es un personaje de una serie de televisión que el primo Cristóbal veía en Santiago
 c) No hay ninguna creencia del pueblo en lo que se comenta del primo; la Calchona aparece para anunciar que el oficio de panadero desaparecerá cuando Antonia se vaya a estudiar a la capital
-d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral del Norte Chico y refuerza que la tierra exige cuidado
+d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral campesina chilena y refuerza que la tierra exige cuidado
 
 ---
 
@@ -289,7 +289,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 2 | **c)** El sabio o mentor. | OA N°3 — personaje tipo |
 | 3 | **Falso.** La narración en tercera persona permite mostrar detalles —como la insistencia semanal del padre sobre el horno— que la propia Antonia no necesariamente interpreta o cuestiona; en primera persona, el lector solo accedería a lo que Antonia percibe y elige contar. | OA N°3 — efecto de la narración en primera o tercera persona |
 | 4 | **a) Porque representa la herencia familiar y la continuidad del oficio; que nunca se apague refuerza la idea de una tradición viva que Antonia debe decidir si continúa.** | OA N°3 — símbolo |
-| 5 | **d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral del Norte Chico y refuerza que la tierra exige cuidado.** | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
+| 5 | **d) Que a quienes se van a estudiar fuera "se les olvidan sus raíces", propia de una visión rural ligada al oficio y la tierra; la Calchona conecta el relato con la tradición oral campesina chilena y refuerza que la tierra exige cuidado.** | OA N°3 — prejuicios/visión de mundo y relación intertextual (integrada) |
 | 6 | **d)** La tensión entre cuidar la salud de la rodilla de Doña Rosa esperando la revisión del escenario, y su deber u orgullo de no dejar un ensayo a medias. | OA N°5 — conflicto central |
 | 7 | **a)** El pañuelo de baile. | OA N°5 — símbolo |
 | 8 | **c) Refuerza visual y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando la tensión sin que los personajes lo digan.** | OA N°5 — elementos de la puesta en escena |

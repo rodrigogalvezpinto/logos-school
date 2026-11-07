@@ -80,7 +80,7 @@ d) Los sacerdotes no tenían influencia social ni política, porque su función 
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Alternativas*
+**Pregunta 4.** (2 puntos)
 ¿Por qué la organización en torno a ciudades fue clave para el desarrollo de los demás rasgos de las primeras civilizaciones (centralización, estratificación social, sistemas religiosos, escritura y contabilidad)?
 
 a) Porque las ciudades concentraron población, recursos y poder, lo que facilitó la administración centralizada, la diferenciación de roles, la construcción de templos y el registro sistemático de información
@@ -116,7 +116,7 @@ d) Fue fundamental: la economía romana dependió en gran medida del trabajo de 
 
 ---
 
-**Pregunta 7.** (2 puntos) — *Alternativas*
+**Pregunta 7.** (2 puntos)
 ¿Por qué la difusión del cristianismo —primero perseguido y luego establecido como culto oficial del imperio— fue importante para la historia posterior de Europa?
 
 a) Porque desapareció completamente tras la caída de Roma, y Europa volvió a las religiones antiguas, lo que explica la diversidad de creencias de la Europa medieval
@@ -153,7 +153,7 @@ d) Mejoras en el arado y el uso de molinos de agua y de viento
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Alternativas*
+**Pregunta 10.** (2 puntos)
 ¿Por qué el surgimiento de las universidades fue importante no solo para la Edad Media, sino también para el desarrollo posterior de Europa?
 
 a) Porque sentaron las bases institucionales para producir, conservar y difundir conocimiento, un modelo que se mantiene hasta hoy y que fue clave para movimientos culturales posteriores
@@ -201,7 +201,7 @@ d) Civilización inca
 
 ---
 
-**Pregunta 14.** (3 puntos) — *Alternativas*
+**Pregunta 14.** (3 puntos)
 
 > **Estímulo:** Imagina una noticia que informa que un sitio arqueológico maya y una ciudad de
 > arquitectura colonial cercana han sido declarados juntos Patrimonio de la Humanidad por la
@@ -242,7 +242,7 @@ d) Disponibilidad de recursos minerales
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Alternativas*
+**Pregunta 17.** (2 puntos)
 ¿Por qué es importante identificar la "fragilidad del medio ante la acción humana" al estudiar el asentamiento de las sociedades, en el pasado y en el presente?
 
 a) Porque algunos entornos pueden dañarse de forma severa o irreversible (deforestación, agotamiento de recursos), y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio
@@ -266,7 +266,7 @@ d) Provocó la desaparición completa de la agricultura en los siglos posteriore
 
 ---
 
-**Pregunta 19.** (2 puntos) — *Alternativas*
+**Pregunta 19.** (2 puntos)
 Al comparar la deforestación de comunidades neolíticas para cultivar pequeñas parcelas con la deforestación actual de grandes extensiones de selva para agricultura industrial, ¿qué continuidad y qué cambio se identifican?
 
 a) Continuidad: la tecnología usada para talar es la misma que en el Neolítico. Cambio: hoy ya no se cultiva, sino que solo se extrae madera de la selva
@@ -291,7 +291,7 @@ d) Un sistema de gobierno sin participación ciudadana, en que un dictador elegi
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Alternativas*
+**Pregunta 21.** (2 puntos)
 
 > **Estímulo:** Imagina un texto que describe a un gremio medieval de tejedores, que fijaba
 > normas de calidad para sus productos, organizaba la formación de nuevos aprendices y
@@ -319,7 +319,7 @@ d) La introducción del árabe como lengua oficial de Europa
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Alternativas*
+**Pregunta 23.** (2 puntos)
 
 > **Estímulo:** Imagina un texto medieval traducido del árabe al latín en la península
 > ibérica, que contiene avances matemáticos y astronómicos previamente desconocidos en buena
@@ -349,7 +349,7 @@ d) La prohibición total del comercio con los pueblos conquistados
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Alternativas*
+**Pregunta 25.** (3 puntos)
 
 > **Estímulo:** Tras la división del Imperio romano en una mitad occidental y una mitad
 > oriental (bizantina), ambas partes vivieron, a lo largo de los siglos, tanto períodos de

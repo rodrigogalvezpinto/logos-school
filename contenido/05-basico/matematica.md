@@ -1289,13 +1289,13 @@ d) Igual de posible que sacar una roja
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* como no hay ninguna bolita azul en la bolsa, no existe ninguna posibilidad de sacarla, por lo tanto ese evento es imposible.
 
-**Pregunta 3 (alternativas).** Al lanzar un dado común de 6 caras (1 al 6), ¿cómo se describe la posibilidad de: a) obtener un número menor que 7, b) obtener un 8?
-a) a) posible; b) poco posible
-b) a) seguro; b) imposible
-c) a) imposible; b) seguro
-d) a) poco posible; b) posible
+**Pregunta 3 (alternativas).** Al lanzar un dado común de 6 caras (1 al 6), ¿cómo se describe la posibilidad de: (1) obtener un número menor que 7, (2) obtener un 8?
+a) (1) posible; (2) poco posible
+b) (1) seguro; (2) imposible
+c) (1) imposible; (2) seguro
+d) (1) poco posible; (2) posible
 
-**Respuesta correcta: b) a) seguro; b) imposible.**
+**Respuesta correcta: b) (1) seguro; (2) imposible.**
 *Retroalimentación:* "seguro" significa que el evento ocurrirá siempre (todos los números del dado son menores que 7), e "imposible" que nunca puede ocurrir (el dado no tiene un 8).
 
 **Pregunta 4 (alternativas — comparar posibilidades).** Una ruleta tiene 10 espacios iguales: 7 son rojos y 3 son azules. ¿Qué color es más probable que salga al girarla?

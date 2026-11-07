@@ -433,7 +433,7 @@ d) Ninguna, todo el guion cumple únicamente una función informativa
 
 a) En 4° medio se exige más autonomía y síntesis: comparar obras entre sí, evaluar críticamente la veracidad e ideología de discursos y comunicarlo con dominio de distintos géneros y audiencias
 b) En 4° medio ya no se producen textos propios: el trabajo se centra en leer obras y responder preguntas de comprensión, sin comunicar evaluaciones a ninguna audiencia
-c) No hay diferencia: se repiten exactamente los mismos objetivos de 3° medio, con los mismos géneros, audiencias y textos, para reforzar lo aprendido el año anterior en clases del año
+c) No hay diferencia: se repiten exactamente los mismos objetivos de 3° medio, con los mismos géneros, audiencias y textos, para reforzar lo aprendido el año anterior
 d) En 4° medio solo se memorizan definiciones
 
 *Respuesta correcta: a.* Retroalimentación: La calidad de un texto propio en 4° medio depende directamente de la profundidad del análisis y de la evaluación crítica desarrollados en los otros OA del año.

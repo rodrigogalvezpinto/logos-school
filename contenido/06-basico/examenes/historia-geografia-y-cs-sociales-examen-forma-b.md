@@ -82,7 +82,7 @@ d) Formar la Primera Junta Nacional de Gobierno
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Alternativas*
+**Pregunta 4.** (2 puntos)
 ¿Qué opción identifica correctamente los bandos de la Independencia de Chile, lo que buscaba
 cada uno y el aporte de una mujer destacada en este proceso?
 
@@ -130,7 +130,7 @@ d) La totalidad de la Araucanía antes de 1860
 
 ---
 
-**Pregunta 8.** (2 puntos) — *Alternativas*
+**Pregunta 8.** (2 puntos)
 ¿Por qué el Estado de Chile tuvo especial interés en tomar posesión real del extremo
 sur del territorio (por ejemplo, con la fundación de Fuerte Bulnes y luego Punta Arenas)
 durante el siglo XIX?
@@ -180,7 +180,7 @@ d) La promulgación de la Constitución de 1833
 
 ---
 
-**Pregunta 12.** (3 puntos) — *Alternativas*
+**Pregunta 12.** (3 puntos)
 
 > **Estímulo — fuentes históricas adaptadas:**
 > **Fuente A:** "Antes del golpe vivíamos una fuerte polarización política; muchas familias
@@ -252,7 +252,7 @@ d) Terremotos frecuentes exclusivamente
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Alternativas*
+**Pregunta 17.** (2 puntos)
 ¿Por qué Chile presenta una gran diversidad de ambientes naturales a lo largo de su
 territorio, y qué ejemplos lo muestran?
 
@@ -304,7 +304,7 @@ d) No existe ningún mecanismo para resolver esa situación, y ambas normas sigu
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Alternativas*
+**Pregunta 21.** (2 puntos)
 ¿Qué problemas podrían ocurrir en un país si no existiera una Constitución que
 estuviera por sobre todas las demás leyes y autoridades?
 
@@ -329,7 +329,7 @@ d) 1990
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Varias correctas*
+**Pregunta 23.** (2 puntos)
 ¿Qué acciones concretas podría realizar el Estado para garantizar el derecho a la salud o a la
 educación de todas las personas, sin importar su situación económica?
 
@@ -356,7 +356,7 @@ d) Ejercer un derecho propio permite ignorar los derechos de los demás, siempre
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Alternativas*
+**Pregunta 25.** (3 puntos)
 
 > **Estímulo:** En una plaza de barrio, un grupo de vecinos organiza asados los fines de
 > semana y deja basura y restos de comida al terminar, mientras que otros vecinos, incluidas

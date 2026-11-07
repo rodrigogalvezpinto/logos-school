@@ -474,7 +474,7 @@ export class EvaluacionRunner implements OnInit {
     // Marcadores visuales (::contar::🍎::9::, ::emoji::🍎::desc::) en texto plano legible.
     return texto
       .replace(/::contar::([^:]+)::(\d{1,2})::/g, (_m, e: string, n: string) => `${n} ${e}`)
-      .replace(/::emoji::([^:]+)::([^:]+)::/g, (_m, e: string, d: string) => `${e} ${d}`);
+      .replace(/::emoji::([^:\s]+)::([\s\S]+?)::/g, (_m, e: string, d: string) => `${e} ${d}`);
   }
 
   /** La opción trae un marcador visual que hay que dibujar (no mostrar como texto crudo). */

@@ -354,7 +354,7 @@ recursos del planeta y a generar menos contaminación.
    **Retroalimentación:** ¡Excelente! Comprar solo lo necesario y evitar envases y bolsas de un solo uso también reduce. Reducir es la primera de las tres erres, porque evita que el desecho se genere desde un principio.
 
 5. *(Alternativas — análisis)* Mira esta imagen: un basurero con restos de comida, botellas de plástico y hojas de papel usado, todos mezclados.
-   ::emoji::🎨::un basurero desordenado con distintos tipos de desechos mezclados::
+   ::emoji::🗑️::un basurero desordenado con distintos tipos de desechos mezclados::
    ¿Por qué es un problema que estos desechos estén todos mezclados?
    a) Porque es más difícil separarlos para reutilizarlos o reciclarlos, y terminan como basura
    b) Porque el basurero se ve más bonito ordenado y así no da vergüenza sacarlo a la calle
@@ -410,7 +410,7 @@ obesidad o la desnutrición.
    constructores y reguladores, además de preferir agua para acompañar la comida.
 
 2. **Comparar dos meriendas.**
-   ::emoji::🎨::una manzana y un yogur natural junto a una bebida azucarada y un paquete
+   ::emoji::🍎::una manzana y un yogur natural junto a una bebida azucarada y un paquete
    de golosinas::
    La manzana y el yogur natural son opciones saludables para la merienda, porque
    aportan vitaminas, minerales y proteínas. La bebida azucarada y las golosinas, en
@@ -460,7 +460,7 @@ obesidad o la desnutrición.
    **Retroalimentación:** ¡Excelente! Los pequeños hábitos diarios son los que más ayudan a mantener una alimentación equilibrada. Saltarse el desayuno deja al cuerpo sin energía para la mañana.
 
 5. *(Alternativas — análisis)* Mira esta imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas.
-   ::emoji::🪑::una mesa con snacks envasados, papas fritas y una bebida de color muy
+   ::emoji::🍟::una mesa con snacks envasados, papas fritas y una bebida de color muy
    llamativo::
    ¿Por qué esta colación no es la opción más saludable para comer todos los días?
    a) Porque es muy cara y se puede comprar algo más barato en el kiosco
@@ -526,7 +526,7 @@ escucharlo.
    sonido se propaga hacia todos lados.
 
 2. **Experimento: reflexión y absorción del sonido.**
-   ::emoji::🎨::dos habitaciones — una vacía con paredes de baldosa donde el sonido
+   ::emoji::🏠::dos habitaciones — una vacía con paredes de baldosa donde el sonido
    rebota, y otra con cortinas y alfombras donde el sonido se siente más apagado::
    En una habitación vacía y con superficies duras, el sonido se refleja mucho y se
    escuchan ecos o resonancia. En una habitación con telas, cortinas o alfombras, el
@@ -738,7 +738,7 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
 **Ejemplos resueltos**
 
 1. **Modelo del día y la noche.**
-   ::emoji::🎨::un globo terráqueo iluminado por una linterna desde un costado, mostrando
+   ::emoji::🌍::un globo terráqueo iluminado por una linterna desde un costado, mostrando
    una mitad iluminada (día) y una mitad en sombra (noche)::
    Al hacer girar el globo terráqueo frente a una linterna fija, se observa que
    distintas zonas del globo van pasando de la luz a la sombra, tal como ocurre en la
@@ -753,7 +753,7 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
    de forma simultánea.
 
 3. **Duración de cada movimiento.**
-   ::emoji::🌊::un reloj junto a un calendario anual::
+   ::emoji::📅::un reloj junto a un calendario anual::
    La rotación de la Tierra tarda aproximadamente 24 horas (un día), mientras que la
    traslación alrededor del Sol tarda aproximadamente 365 días (un año).
 

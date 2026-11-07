@@ -131,7 +131,13 @@ d) sumar 10
 
 ---
 
-**10. (Lenguaje — Alternativas)** Usando el texto "La fiesta sorpresa de Emilia" de la pregunta 6: ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Elige la respuesta que se apoya en lo que dice el texto.
+**10. (Lenguaje — Alternativas)** Vuelve a leer el texto "La fiesta sorpresa de Emilia":
+
+> **"La fiesta sorpresa de Emilia"**
+>
+> Emilia tiene ocho años y vive en un pueblo cerca de Puerto Montt, frente al mar. Tiene el pelo negro y rizado, y siempre anda con un gorro de lana que le tejió su abuela. Un sábado, sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa para su cumpleaños. Primero, escribieron invitaciones a escondidas. Después, decoraron el patio con globos de colores. Luego, escondieron un queque de manzana debajo de la mesa para que Emilia no lo viera al llegar. Cuando Emilia entró al patio, todos gritaron "¡sorpresa!". Ella se quedó inmóvil un segundo, con los ojos muy abiertos, y después se rió y se puso a llorar de alegría al mismo tiempo.
+
+ ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Elige la respuesta que se apoya en lo que dice el texto.
 
 a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría
 b) Enojada, porque no la invitaron a decorar el patio para la fiesta y quería ayudar

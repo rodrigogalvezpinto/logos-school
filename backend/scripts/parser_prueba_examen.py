@@ -93,6 +93,13 @@ class RespuestaPauta:
     codigos_oa: tuple[str, ...] = ()
 
 
+RE_ETIQUETA_TIPO = re.compile(
+    r"(?:^|(?<=\s))(?:[—–]\s*)?\(\s*(?:alternativas|varias correctas|verdadero o falso)\s*\)(?=\s|$)"
+    r"|^[—–]\s*(?:alternativas|varias correctas|verdadero o falso)\b",
+    re.IGNORECASE,
+)
+
+
 def _limpiar(texto: str) -> str:
     texto = texto.replace("**", "").replace("*", "")
     texto = re.sub(r"\s+", " ", texto).strip()
@@ -185,6 +192,10 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
             tipo = "desarrollo_breve"
 
         enunciado = _limpiar(" ".join(enunciado_partes))
+        # Las etiquetas de formato («(Varias correctas)», «— Alternativas») sirven para detectar
+        # el tipo, pero no son parte del enunciado que ve el alumno: la app ya muestra el control.
+        enunciado = RE_ETIQUETA_TIPO.sub(" ", enunciado)
+        enunciado = re.sub(r"\s+", " ", enunciado).strip()
         if numero in contextos:
             enunciado = "\n\n".join([*contextos[numero], enunciado])
         preguntas.append(

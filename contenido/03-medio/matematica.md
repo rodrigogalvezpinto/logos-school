@@ -627,7 +627,15 @@ d) 45/70 ≈ 64,3%
 **Respuesta correcta: c) 25/70 ≈ 35,7%.**
 *Retroalimentación:* se restringe a la fila "no practica deporte" (70 personas).
 
-**Pregunta 14 (alternativas — misma tabla).** Con la tabla de la pregunta 13, ¿cuánto vale P(practica deporte | no fuma)?
+**Pregunta 14 (alternativas — misma tabla).** Se encuesta a 150 personas:
+
+| | Fuma | No fuma | Total |
+|---|---|---|---|
+| Practica deporte | 10 | 70 | 80 |
+| No practica deporte | 25 | 45 | 70 |
+| Total | 35 | 115 | 150 |
+
+¿Cuánto vale P(practica deporte | no fuma)?
 a) 70/115 ≈ 60,9%
 b) 70/80 = 87,5%
 c) 70/150 ≈ 46,7%

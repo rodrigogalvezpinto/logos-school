@@ -853,7 +853,7 @@ presentación) para comunicar esas ideas.
 
 6. *(Alternativas — Fenómeno actual — intermedio)* Los "deepfakes" (videos falsos generados por IA) imitan de forma realista a personas reales. ¿Qué problema filosófico permite comprender mejor este fenómeno?
    a) El problema estético de si los videos tienen buena resolución y una imitación realista, y si pueden considerarse obras de arte audiovisual
-   b) Ninguno: es solo un asunto técnico de computación, que se resuelve con programas capaces de detectar los videos falsos automáticamente y profesionales
+   b) Ninguno: es solo un asunto técnico de computación, que se resuelve con programas capaces de detectar automáticamente los videos falsos
    c) El problema de cuánto cuesta producir un video
    d) El problema epistemológico de cómo justificar creencias cuando la evidencia visual, tradicionalmente confiable, deja de ser prueba segura de que algo ocurrió
    **Respuesta correcta:** d) El problema epistemológico de cómo justificar creencias cuando la evidencia visual, tradicionalmente confiable, deja de ser prueba segura de que algo ocurrió.

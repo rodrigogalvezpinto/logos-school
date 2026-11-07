@@ -43,7 +43,7 @@ Vas a aprender a leer y escribir números del 0 al 100, tanto en cifras (por eje
 
 En el almacén de la esquina hay 47 manzanas en una caja.
 
-::emoji::🎨::una caja de manzanas agrupadas de a 10: 4 grupos de 10 manzanas y 7 manzanas sueltas::
+::emoji::🍎::una caja de manzanas agrupadas de a 10: 4 grupos de 10 manzanas y 7 manzanas sueltas::
 
 Contamos de 10 en 10 y luego de 1 en 1: 10, 20, 30, 40, 41, 42... 47. Ese número se escribe **47** y se lee "cuarenta y siete".
 
@@ -75,7 +75,7 @@ d) quinientos seis
 **Respuesta correcta: a) cincuenta y seis.**
 *Retroalimentación:* 56 = 50 (cincuenta) + 6 (seis), por eso se lee "cincuenta y seis". "Sesenta y cinco" sería 65, con los dígitos al revés.
 
-**Pregunta 3 (pictórico).** ::emoji::🎨::8 grupos de 10 fichas cada uno, y 3 fichas sueltas:: ¿Qué número representa esta cantidad?
+**Pregunta 3 (pictórico).** ::emoji::🧮::8 grupos de 10 fichas cada uno, y 3 fichas sueltas:: ¿Qué número representa esta cantidad?
 a) 38
 b) 93
 c) 80
@@ -121,7 +121,7 @@ Vas a comparar dos números usando "mayor que", "menor que" o "igual a", y a ord
 
 Tomás anotó 58 puntos en un juego y Florencia anotó 73 puntos.
 
-::emoji::🎨::dos tarjetas de puntaje, una con 58 y otra con 73::
+::emoji::🃏::dos tarjetas de puntaje, una con 58 y otra con 73::
 
 Comparamos las decenas primero: 7 decenas (73) es más que 5 decenas (58). Por lo tanto, **73 es mayor que 58**, y **58 es menor que 73**.
 
@@ -129,7 +129,7 @@ Comparamos las decenas primero: 7 decenas (73) es más que 5 decenas (58). Por l
 
 Josefa tiene en su alcancía 1 moneda de $50 y 3 monedas de $10: $50+$10+$10+$10 = $80. Ignacio tiene 1 moneda de $100.
 
-::emoji::🎨::a la izquierda, 1 moneda de $50 y 3 monedas de $10; a la derecha, 1 moneda de $100::
+::emoji::🪙::a la izquierda, 1 moneda de $50 y 3 monedas de $10; a la derecha, 1 moneda de $100::
 
 Comparamos: $80 es menor que $100. Entonces, **Ignacio tiene más dinero** que Josefa.
 
@@ -166,7 +166,7 @@ d) 6, 45, 12, 78
 **Respuesta correcta: Falso.**
 *Retroalimentación:* al comparar las decenas, 9 decenas (91) es más que 8 decenas (89), por lo tanto 91 es mayor que 89, no menor.
 
-**Pregunta 4 (alternativas — comparar con monedas).** Camila tiene 2 monedas de $50 y Diego tiene 1 moneda de $100. ::emoji::🎨::2 monedas de $50 a la izquierda; 1 moneda de $100 a la derecha:: ¿Quién tiene más dinero?
+**Pregunta 4 (alternativas — comparar con monedas).** Camila tiene 2 monedas de $50 y Diego tiene 1 moneda de $100. ::emoji::🪙::2 monedas de $50 a la izquierda; 1 moneda de $100 a la derecha:: ¿Quién tiene más dinero?
 a) Tienen la misma cantidad
 b) Camila, porque tiene más monedas
 c) Diego, porque su moneda es más grande
@@ -206,7 +206,7 @@ Vas a aprender que un número del 0 al 100 se puede formar juntando partes más 
 
 Sebastián tiene 6 decenas y 3 unidades.
 
-::emoji::🎨::6 grupos de 10 fichas y 3 fichas sueltas::
+::emoji::🧮::6 grupos de 10 fichas y 3 fichas sueltas::
 
 Si juntamos: 6 decenas son 60, y le sumamos las 3 unidades: 60+3=**63**.
 
@@ -255,7 +255,7 @@ d) 84 = 50 + 34
 **Respuesta correcta: a, b y d.**
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes, el resultado sea exactamente 84. 40 + 8 da 48: se confundieron las decenas con las unidades.
 
-**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué suma representa esta composición?
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🧮::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué suma representa esta composición?
 a) 5 + 7 = 12
 b) 50 + 70 = 120
 c) 70 + 5 = 75
@@ -298,7 +298,7 @@ Compara los números 35 y 53. Ambos usan los mismos dígitos (3 y 5), pero en 35
 
 **Ejemplo 3 — De bloques multibase al número**
 
-::emoji::🎨::9 bloques largos que representan decenas, y 4 cubitos sueltos::
+::emoji::🧮::9 bloques largos que representan decenas, y 4 cubitos sueltos::
 
 Cada bloque largo vale 10, y hay 9: 9×10=90. Le sumamos los 4 cubitos sueltos: 90+4=**94**.
 
@@ -327,7 +327,7 @@ d) 407
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 100 se forma exactamente con 10 grupos de 10, sin que sobre ningún elemento suelto: 10×10=100.
 
-**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::3 bloques que representan decenas, y 8 cubitos sueltos:: ¿Qué número representa esta imagen?
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🧮::3 bloques que representan decenas, y 8 cubitos sueltos:: ¿Qué número representa esta imagen?
 a) 83
 b) 11
 c) 308
@@ -377,7 +377,7 @@ Vas a comprender la adición y la sustracción con números del 0 al 100: usando
 
 En un curso hay 34 alumnos, y se integran 25 alumnos nuevos de otro colegio.
 
-::emoji::🎨::dos grupos de alumnos, uno con 34 y otro con 25::
+::emoji::🧒::dos grupos de alumnos, uno con 34 y otro con 25::
 
 Sumamos por separado: decenas con decenas (30+20=50) y unidades con unidades (4+5=9). Luego juntamos: 50+9=**59 alumnos** en total.
 
@@ -473,7 +473,7 @@ Vas a comprender qué es la multiplicación: una forma más rápida de sumar cua
 
 Hay 3 bolsas con 2 naranjas cada una.
 
-::emoji::🎨::3 bolsas, cada una con 2 naranjas::
+::emoji::🍊::3 bolsas, cada una con 2 naranjas::
 
 Podemos sumar: 2+2+2=6. Como los 3 sumandos son iguales (todos son 2), también podemos escribirlo como una multiplicación: **3×2=6**.
 
@@ -492,7 +492,7 @@ Cada vez que agregamos un grupo más de 5, el resultado aumenta en 5.
 
 En un cumpleaños hay 6 platos, y en cada plato hay 10 sopaipillas.
 
-::emoji::🎨::6 platos, cada uno con 10 sopaipillas::
+::emoji::🫓::6 platos, cada uno con 10 sopaipillas::
 
 6×10=**60 sopaipillas** en total. Fíjate que multiplicar por 10 es fácil: el resultado siempre termina en 0, y el otro número indica cuántas decenas hay.
 
@@ -507,7 +507,7 @@ d) 5 × 5 = 25
 **Respuesta correcta: a) 5 × 4 = 20.**
 *Retroalimentación:* como hay 5 sumandos y cada uno vale 4, escribimos 5×4=20 (equivalente a sumar cinco veces el número 4).
 
-**Pregunta 2 (alternativas — pictórico).** ::emoji::⭐::5 grupos de 2 estrellas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+**Pregunta 2 (alternativas — pictórico).** ::contar::⭐::2:: ::contar::⭐::2:: ::contar::⭐::2:: ::contar::⭐::2:: ::contar::⭐::2:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
 a) 5 + 2 = 7
 b) 2 × 2 = 4
 c) 5 × 5 = 25
@@ -653,13 +653,13 @@ Vas a demostrar, explicar y registrar igualdades y desigualdades entre expresion
 
 **Ejemplo 1 — Igualdad con balanza**
 
-::emoji::🎨::una balanza equilibrada, con "7+3" en un platillo y "10" en el otro::
+::emoji::⚖️::una balanza equilibrada, con "7+3" en un platillo y "10" en el otro::
 
 Como 7+3=10 y del otro lado hay exactamente 10, la balanza está equilibrada. Se escribe: **7+3=10**.
 
 **Ejemplo 2 — Desigualdad con balanza**
 
-::emoji::🎨::una balanza inclinada, con "12" en un platillo (que baja) y "8+3" en el otro (que sube)::
+::emoji::⚖️::una balanza inclinada, con "12" en un platillo (que baja) y "8+3" en el otro (que sube)::
 
 Calculamos: 8+3=11. Como 12 es mayor que 11, ese lado de la balanza pesa más. Se escribe: **12 > 8+3**.
 
@@ -693,7 +693,7 @@ d) ninguno
 **Respuesta correcta: Falso.**
 *Retroalimentación:* 8+5=13, no 14, por lo tanto la igualdad escrita es falsa; el resultado correcto de 8+5 es 13.
 
-**Pregunta 4 (alternativas — balanza pictórica).** ::emoji::🎨::una balanza equilibrada, con "4+7" en un platillo y "5+6" en el otro:: ¿Está equilibrada esta balanza? ¿Por qué?
+**Pregunta 4 (alternativas — balanza pictórica).** ::emoji::⚖️::una balanza equilibrada, con "4+7" en un platillo y "5+6" en el otro:: ¿Está equilibrada esta balanza? ¿Por qué?
 a) Sí, porque 4+7=11 y 5+6=11: ambos lados valen lo mismo.
 b) No, porque los números de un lado son distintos a los del otro lado.
 c) No, porque 5+6 es más que 4+7: el lado derecho pesa más.
@@ -711,8 +711,8 @@ c) >
 *Retroalimentación:* 10+9=19 y 7+7=14; como 19 es mayor que 14, el símbolo correcto es > (mayor que).
 
 **Pregunta 6 (identificar la balanza correcta).** ¿Cuál balanza representa correctamente la expresión 6+3=9?
-a) ::emoji::🎨::balanza equilibrada, con "6+3" en un platillo y "9" en el otro::
-b) ::emoji::🎨::balanza inclinada, con "6+3" en un platillo que sube y "10" en el otro que baja::
+a) ::emoji::⚖️::balanza equilibrada, con "6+3" en un platillo y "9" en el otro::
+b) ::emoji::⚖️::balanza inclinada, con "6+3" en un platillo que sube y "10" en el otro que baja::
 
 **Respuesta correcta: a).**
 *Retroalimentación:* como 6+3=9 exactamente, ambos lados pesan lo mismo, por lo tanto la balanza debe estar equilibrada, como en la opción a).
@@ -733,19 +733,19 @@ Vas a describir y comparar las características (atributos) de triángulos, cuad
 
 **Ejemplo 1 — Describir un triángulo**
 
-::emoji::🎨::un triángulo::
+::emoji::🔺::un triángulo::
 
 El triángulo tiene **3 lados** (rectos) y **3 vértices** (esquinas donde se juntan los lados).
 
 **Ejemplo 2 — Comparar cuadrado y rectángulo**
 
-::emoji::🎨::un cuadrado y un rectángulo, uno al lado del otro::
+::emoji::🟦::un cuadrado y un rectángulo, uno al lado del otro::
 
 Ambas figuras tienen 4 lados y 4 vértices. La diferencia es que en el **cuadrado** los 4 lados miden exactamente lo mismo, mientras que en el **rectángulo** los lados opuestos son iguales entre sí, pero los lados juntos (largo y ancho) son de distinto tamaño.
 
 **Ejemplo 3 — El círculo, una figura distinta**
 
-::emoji::🎨::un círculo::
+::emoji::⚪::un círculo::
 
 El círculo no tiene lados rectos ni vértices: es una línea curva y cerrada. Por eso se puede hacer rodar, a diferencia del triángulo, el cuadrado o el rectángulo.
 
@@ -813,7 +813,7 @@ Vas a describir y comparar las características de figuras 3D (con volumen): **c
 
 **Ejemplo 1 — El cubo**
 
-::emoji::🎨::un dado, que tiene forma de cubo::
+::emoji::🎲::un dado, que tiene forma de cubo::
 
 Un dado tiene forma de **cubo**: sus 6 caras son cuadradas y todas del mismo tamaño, y tiene 8 vértices.
 
@@ -825,7 +825,7 @@ El **cono** tiene 1 cara circular (la base) y 1 vértice en la punta, con una su
 
 **Ejemplo 3 — Comparar cubo y paralelepípedo**
 
-::emoji::🎨::un dado (cubo) y una caja de zapatos (paralelepípedo)::
+::emoji::🎲::un dado (cubo) y una caja de zapatos (paralelepípedo)::
 
 Ambas figuras tienen 6 caras, 8 vértices y 12 aristas (los bordes donde se juntan dos caras). La diferencia es que en el cubo las 6 caras son cuadradas e iguales entre sí, mientras que en el paralelepípedo las caras son rectangulares, y no todas del mismo tamaño.
 
@@ -863,7 +863,7 @@ d) Una naranja
 **Respuesta correcta: c) Una caja de zapatos.**
 *Retroalimentación:* una caja de zapatos tiene forma de paralelepípedo: sus caras son rectangulares.
 
-**Pregunta 5 (alternativas — comparar).** ::emoji::🎨::una lata de bebida (cilindro) y un cucurucho de helado (cono):: ¿Qué afirmación es correcta?
+**Pregunta 5 (alternativas — comparar).** ::emoji::🥫::una lata de bebida (cilindro) y un cucurucho de helado (cono):: ¿Qué afirmación es correcta?
 a) El cono tiene 2 caras circulares y el cilindro ninguna.
 b) Ninguno de los dos tiene superficie curva: solo tienen caras planas.
 c) Los dos terminan en punta y tienen una cara circular cada uno.
@@ -1090,7 +1090,7 @@ Equipo Verde: 4 pelotas × 2 = 8 goles. Equipo Azul: 2 pelotas × 2 = 4 goles. D
 
 **Ejemplo 3 — Leer un gráfico de barra simple**
 
-::emoji::🎨::un gráfico de barras que muestra la cantidad de alumnos que llegan al colegio en distintos medios: a pie (barra hasta el 12), en auto (barra hasta el 8), en bicicleta (barra hasta el 5)::
+::emoji::📊::un gráfico de barras que muestra la cantidad de alumnos que llegan al colegio en distintos medios: a pie (barra hasta el 12), en auto (barra hasta el 8), en bicicleta (barra hasta el 5)::
 
 ¿Cuántos alumnos llegan a pie al colegio? Leemos la altura de la barra "a pie": llega hasta el número 12, por lo tanto **12 alumnos** llegan a pie.
 

@@ -89,7 +89,7 @@ En 2° medio, tu análisis de personajes sigue exigiendo mirar su relación con 
 
 **1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de Camila en el presente del relato?
 
-a) La rivalidad entre Camila y su abuela por la herencia de la casa familiar en Valparaíso del puerto
+a) La rivalidad entre Camila y su abuela por la herencia de la casa familiar en Valparaíso
 b) La pelea entre Andrés y Marisol por motivos económicos, que divide a toda la familia
 c) La decisión de Camila de mudarse a Valparaíso
 d) El deseo de Camila de conocer la verdad sobre su tío, frente al silencio prolongado de su familia

@@ -70,7 +70,7 @@ d) Emperador
 
 ---
 
-**7.** Los griegos y los romanos eran politeístas, es decir, creían en un solo dios.
+**7.** Los griegos y los romanos eran monoteístas, es decir, creían en un solo dios.
 
 a) Verdadero
 b) Falso

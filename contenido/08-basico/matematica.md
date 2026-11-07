@@ -494,7 +494,7 @@ d) 6
 **Respuesta correcta: a) 36.**
 *Retroalimentación:* x/6 = 11 − 5 = 6, entonces x = 6 · 6 = 36.
 
-**Pregunta 5 (alternativas — forma a(x + b) = c).** El doble de la suma entre un número y 7 es igual a 30. ¿Qué ecuación lo representa y cuál es el número?
+**Pregunta 5 (alternativas).** El doble de la suma entre un número y 7 es igual a 30. ¿Qué ecuación lo representa y cuál es el número?
 a) 2x + 7 = 30; x = 11,5
 b) 2(x + 7) = 30; x = 15
 c) x + 14 = 30; x = 16

@@ -63,8 +63,7 @@ d) Zona Austral
 
 ---
 
-**5. (Alternativas)** ¿Cuál de las siguientes es una macroforma de relieve presente con mayor
-claridad en la Zona Central de Chile?
+**5. (Alternativas)** ¿Qué macroformas de relieve se presentan con mayor claridad en la Zona Central de Chile?
 
 a) Altiplano, desierto costero, fiordos y canales australes, y campos de hielo patagónicos
 b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies

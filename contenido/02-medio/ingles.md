@@ -298,15 +298,11 @@ illogical*).
 
 3. *(Verdadero o falso)* Read: *"Internet access is limited in some rural
    areas, so the government built new towers to expand coverage."*
-   Statement: *This sentence shows a problem-solution relationship, and the
-   text also implies there could be other solutions, like satellite
-   internet.*
-   **Respuesta correcta:** True (Verdadero) — el problema y la solución del
-   texto son explícitos; identificar otras soluciones posibles requiere ir
-   más allá del texto, lo que pide este OA.
+   Statement: *This sentence shows a problem-solution relationship.*
+   **Respuesta correcta:** True (Verdadero) — el problema (acceso limitado) y la
+   solución (nuevas torres) son explícitos y están unidos por *so*.
    **Retroalimentación:** Se plantea un problema (acceso limitado a
-   internet) y una solución (nuevas torres), y se espera reconocer que
-   podrían existir otras soluciones alternativas no mencionadas.
+   internet) y una solución (nuevas torres), unidos por el conector *so*.
 
 4. *(Alternativas — Completar)* Complete: *"It is ___ to finish this project without more time."* (possible + im-)
    a) inpossible
@@ -661,7 +657,7 @@ more people if he spoke English*).
    **Retroalimentación:** *Neither...nor* niega ambos sujetos; *though* introduce un contraste.
 
 9. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre
-   reflexivo para dar énfasis?
+   reflexivo?
    a) He cut him with the knife.
    b) He cut himself with the knife.
    c) He cut he with the knife.

@@ -74,7 +74,7 @@ b) Cercano y cariñoso, como corresponde a un familiar querido
 c) Con muchas abreviaciones y groserías
 d) Igual que le escribirías a un desconocido por internet
 
-**7. (Alternativas — párrafos)** ¿Cuál es la mejor forma de separar en dos párrafos, agrupando las ideas relacionadas, este texto sin puntos: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."
+**7. (Alternativas — párrafos)** ¿Cuál es la mejor forma de separar en dos párrafos, agrupando las ideas relacionadas, este texto sin puntos: "El domingo fuimos con mi familia al cerro San Cristóbal subimos en el funicular y vimos toda la ciudad desde arriba después bajamos y comimos helado en el zoológico estaba delicioso."?
 
 a) Párrafo 1: solo las palabras "El domingo". Párrafo 2: todo lo demás que ocurrió en el paseo
 b) Párrafo 1: el helado que comieron después de bajar. Párrafo 2: el funicular y el cerro, aunque ocurrieron antes

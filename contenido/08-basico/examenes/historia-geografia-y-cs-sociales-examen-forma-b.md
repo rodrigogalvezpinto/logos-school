@@ -84,7 +84,7 @@ d) La autonomía absoluta de las ciudades frente al rey y sus funcionarios
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Alternativas*
+**Pregunta 4.** (2 puntos)
 ¿Cómo contribuyeron la expansión territorial y el monopolio del comercio internacional al surgimiento y fortalecimiento del Estado moderno?
 
 a) La expansión unificó regiones bajo una misma administración (como la unión de Castilla y Aragón) y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey
@@ -130,7 +130,7 @@ d) Que los indígenas debían gobernar sin ninguna relación con la Corona espa�
 
 ---
 
-**Pregunta 8.** (2 puntos) — *Alternativas*
+**Pregunta 8.** (2 puntos)
 
 > **Estímulo:** "Las Leyes Nuevas de 1542 buscaron limitar los abusos cometidos contra la
 > población indígena en América, aunque su aplicación efectiva en el territorio fue limitada."
@@ -180,7 +180,7 @@ d) El mestizaje entre españoles, mapuches y mestizos en los fuertes
 
 ---
 
-**Pregunta 12.** (2 puntos) — *Alternativas*
+**Pregunta 12.** (2 puntos)
 ¿Por qué la frontera del Biobío es un rasgo distintivo de la historia colonial de Chile?
 
 a) Porque fue el único lugar de América donde no llegaron los españoles, de modo que el territorio al sur del Biobío nunca tuvo contacto con la Corona durante toda la Colonia
@@ -238,7 +238,7 @@ d) Fernando VII
 
 ---
 
-**Pregunta 17.** (3 puntos) — *Alternativas*
+**Pregunta 17.** (3 puntos)
 
 > **Estímulo:** "Entre 1808 y 1825 se desarrollaron procesos independentistas en distintos
 > territorios de la América española, desde México hasta el sur de Sudamérica, liderados por
@@ -269,7 +269,7 @@ d) Una región definida únicamente por su historia común
 
 ---
 
-**Pregunta 19.** (2 puntos) — *Alternativas*
+**Pregunta 19.** (2 puntos)
 ¿Por qué los distintos tipos de región (geográfica, cultural, económica, político-administrativa) no siempre coinciden en sus límites?
 
 a) Porque cada tipo se define con criterios distintos; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que las regiones administrativas chilenas solo tienen límites dentro del país
@@ -318,7 +318,7 @@ d) Que su desarrollo depende exclusivamente del turismo, ya que sus condiciones 
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Alternativas*
+**Pregunta 23.** (2 puntos)
 ¿Qué implica que una región tenga una fuerte "inserción en los mercados internacionales", y qué riesgo genera depender de la exportación de un solo producto?
 
 a) No comercia con otros países y vende toda su producción dentro de Chile; depender de un solo producto no tiene riesgos, porque el mercado nacional es estable
@@ -343,7 +343,7 @@ d) En los señores feudales
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Alternativas*
+**Pregunta 25.** (3 puntos)
 
 > **Estímulo:** "La ley es la expresión de la voluntad general (...) debe ser igual para todos,
 > tanto para proteger como para sancionar." (Declaración de los Derechos del Hombre y del

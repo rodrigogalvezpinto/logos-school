@@ -112,7 +112,7 @@ d) La fundación de la ONU (1945), creada para resolver los conflictos entre los
 
 ---
 
-**Pregunta 5.** (2 puntos) — *Alternativas*
+**Pregunta 5.** (2 puntos)
 ¿Por qué la Guerra Fría fue una confrontación principalmente "ideológica", y en qué esferas no militares se manifestó?
 
 a) Porque, evitando un choque directo con riesgo nuclear, ambas potencias compitieron por demostrar la superioridad de su sistema; se manifestó en la cultura, el deporte y las ciencias (carrera espacial)
@@ -136,7 +136,7 @@ d) La Revolución Mexicana
 
 ---
 
-**Pregunta 7.** (2 puntos) — *Alternativas*
+**Pregunta 7.** (2 puntos)
 ¿En qué consistió la Doctrina de la Seguridad Nacional y cómo se vincula con los golpes de Estado de los años 60 y 70?
 
 a) Promovía elecciones libres y la autonomía de los partidos políticos como garantía frente al comunismo, por lo que fue usada para impedir los golpes de Estado en la región
@@ -178,7 +178,7 @@ d) Una interpretación que subraya las responsabilidades y errores de distintos 
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Alternativas*
+**Pregunta 10.** (2 puntos)
 ¿Por qué es importante distinguir entre "opinión sin evidencia" e "interpretación fundamentada en fuentes verificables" sobre el golpe de 1973?
 
 a) Porque solo puede existir una única interpretación correcta del golpe de 1973, y el trabajo historiográfico consiste en descartar todas las demás visiones por ser parciales
@@ -202,7 +202,8 @@ d) El plebiscito
 
 ---
 
-**Pregunta 12.** (3 puntos) — *Varias correctas*
+**Pregunta 12.** (3 puntos)
+*(Varias correctas: marca todas las alternativas correctas.)*
 
 > **Estímulo:** "Tras el golpe de Estado del 11 de septiembre de 1973, la Junta Militar cerró el
 > Congreso Nacional, proscribió los partidos políticos y concentró todo el poder político en sus
@@ -222,7 +223,7 @@ d) El estado de sitio amplió las libertades de circulación y reunión
 ### El modelo económico neoliberal en dictadura (OA 17)
 
 **Pregunta 13.** (1 punto)
-¿Qué política laboral, implementada a comienzos de la década de 1980, restringió
+¿Qué política laboral, implementada en 1979, restringió
 significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile, en el marco
 del modelo económico neoliberal?
 
@@ -233,7 +234,7 @@ d) La Perestroika
 
 ---
 
-**Pregunta 14.** (2 puntos) — *Alternativas*
+**Pregunta 14.** (2 puntos)
 ¿Qué se entiende por "supremacía del libre mercado como asignador de recursos" en el modelo neoliberal implementado en dictadura, y qué medida lo refleja?
 
 a) Que el Estado planificó toda la producción y fijó las metas de cada empresa; lo refleja la nacionalización de la gran minería del cobre
@@ -271,7 +272,7 @@ d) La Comisión Nacional sobre Prisión Política y Tortura (Informe Valech)
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Alternativas*
+**Pregunta 17.** (2 puntos)
 ¿En qué consistieron las reformas constitucionales negociadas antes de 1990 y por qué la transición mantuvo "elementos de continuidad"?
 
 a) Buscaron democratizar parcialmente la Constitución de 1980, que siguió vigente, y Pinochet permaneció como Comandante en Jefe hasta 1998, lo que obligó a negociar cambios gradualmente
@@ -296,7 +297,7 @@ d) Un déficit habitacional inexistente en las ciudades, gracias a la vivienda s
 
 ---
 
-**Pregunta 19.** (2 puntos) — *Alternativas*
+**Pregunta 19.** (2 puntos)
 ¿Cómo superó el crecimiento urbano acelerado de mediados del siglo XX la capacidad de las ciudades, y qué consecuencia tuvo?
 
 a) Las ciudades se planificaron con anticipación y la construcción de viviendas superó la llegada de migrantes, por lo que sobraron casas y bajaron los arriendos en la periferia
@@ -321,7 +322,7 @@ d) Interdependencia
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Alternativas*
+**Pregunta 21.** (2 puntos)
 ¿Qué son los "grupos de especial protección" y por qué son compatibles con la universalidad de los Derechos Humanos?
 
 a) Grupos que tienen derechos superiores al resto de las personas, porque su situación de vulnerabilidad justifica que reciban más derechos que los demás, en lugar de los mismos
@@ -348,7 +349,7 @@ d) Una manifestación de la diversidad cultural
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Alternativas*
+**Pregunta 23.** (2 puntos)
 ¿Qué pareja identifica correctamente una oportunidad y un desafío de la globalización para reducir la discriminación?
 
 a) Oportunidad: el aislamiento entre países, que protege a cada cultura de influencias externas. Desafío: el intercambio cultural, que siempre genera conflictos entre comunidades
@@ -372,7 +373,8 @@ d) Separar permanentemente a los estudiantes por país de origen en cursos disti
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Varias correctas*
+**Pregunta 25.** (3 puntos)
+*(Varias correctas: marca todas las alternativas correctas.)*
 
 > **Caso hipotético:** Una comuna organiza una feria de emprendimientos con personas nacidas en
 > distintos países. Todas cumplen los mismos requisitos de residencia y las autorizaciones

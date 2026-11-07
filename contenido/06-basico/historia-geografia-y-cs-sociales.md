@@ -1472,7 +1472,7 @@ autoridades, sin excepción, deben actuar conforme a lo que establece la Constit
 ---
 
 **3. (Alternativas)** ¿Cuáles son las dos funciones centrales de la Constitución Política de
-Chile mencionadas en este objetivo?
+Chile?
 a) Establecer los impuestos que pagan las personas y regular el comercio internacional del país
 b) Establecer la organización política del país y garantizar los derechos y libertades de las
 personas

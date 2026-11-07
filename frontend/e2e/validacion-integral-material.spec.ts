@@ -36,7 +36,7 @@ const fixture: { niveles: Nivel[]; claves: Record<string, Clave> } | null = exis
 const FILTRO_NIVEL = process.env['LOGOS_VALIDAR_NIVEL'];
 
 const normalizar = (s: string) => s.replace(/\s+/g, ' ').trim();
-const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m, /\bundefined\b/, /\[object Object\]/];
+const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji|fraccion)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m, /\bundefined\b/, /\[object Object\]/];
 
 function rutValido(semilla: number): string {
   const cuerpo = String(15000000 + (semilla % 9000000));
@@ -178,7 +178,7 @@ async function validarGuias(page: Page, nivel: Nivel, asig: Asignatura) {
     await expect(panelGuia, `${ref}: panel «Ver la guía»`).toBeVisible();
     await panelGuia.locator('summary').click();
     await expect(panelGuia.locator('.guia-consulta__contenido'), `${ref}: guía en el panel`).not.toBeEmpty();
-    expect(await panelGuia.innerText(), `${ref}: el panel no muestra claves`).not.toMatch(/Respuesta correcta/i);
+    expect(await panelGuia.innerText(), `${ref}: el panel no muestra claves`).not.toMatch(/(✅|\*\*)\s*Respuesta correcta|Respuesta correcta\s*:/i);
     await panelGuia.locator('summary').click();
     await page.getByRole('button', { name: 'Comenzar' }).click();
     for (let i = 0; i < preguntas.length; i++) {

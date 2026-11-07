@@ -122,7 +122,9 @@ const RE_EJEMPLO = /<p><strong>(?:Ejemplo|Actividad) (\d+)\s*—\s*([^<]*)<\/str
 // convierte en una tarjeta de marcador de posición mientras no haya ilustración real.
 const RE_IMAGEN = /\[Imagen:\s*([^\]]+)\]/g;
 // Nuevo: Convertir marcadores de emoji ::emoji::🦋::descripcion:: en HTML visual
-const RE_EMOJI = /::emoji::([^:]+)::([^:]+)::/g;
+// La descripción puede tener «:» y saltos de línea («dos redes: A) …»); antes no se convertía
+// y el alumno veía el marcador crudo (hallazgo E2E 2026-11-07).
+const RE_EMOJI = /::emoji::([^:\s]+)::([\s\S]+?)::/g;
 // Conteo visual: ::contar::⭐::6:: dibuja 6 estrellas reales para contar. Antes se usaba
 // ::emoji::⭐::6 estrellas dibujadas::, que mostraba UNA estrella y la cantidad escrita: el
 // niño leía la respuesta en vez de contar (hallazgo de auditoría 2026-11-07).
@@ -130,6 +132,15 @@ export const RE_CONTAR = /::contar::([^:]+)::(\d{1,2})::/g;
 // Dibujo sin rótulo: ::dibujo::☀️:: muestra solo el dibujo grande. En preguntas de escritura
 // («¿cuál es la palabra bien escrita para este dibujo?») el rótulo «un sol» daba la respuesta.
 export const RE_DIBUJO = /::dibujo::([^:]+)::/g;
+// Fracción dibujada: ::fraccion::2::3:: muestra una barra en 3 partes iguales con 2 pintadas, sin
+// escribir «2/3» (el componente [fraccion: n/d] escribía el número, es decir, la respuesta).
+export const RE_FRACCION_VISUAL = /::fraccion::(\d{1,2})::(\d{1,2})::/g;
+export function htmlFraccion(numerador: string, denominador: string): string {
+  const d = Math.min(Math.max(parseInt(denominador, 10), 1), 12);
+  const n = Math.min(parseInt(numerador, 10), d);
+  const partes = Array.from({ length: d }, (_v, i) => `<span class="fraccion-barra__parte${i < n ? ' fraccion-barra__parte--pintada' : ''}"></span>`).join('');
+  return `<span class="fraccion-barra" role="img" aria-label="figura dividida en ${d} partes iguales, ${n} pintadas">${partes}</span>`;
+}
 export function htmlContar(emoji: string, cantidad: string): string {
   const n = Math.min(parseInt(cantidad, 10), 30);
   return `<span class="contar" role="img" aria-label="${n} elementos para contar">${`<span class="contar__item">${emoji}</span>`.repeat(n)}</span>`;
@@ -150,6 +161,7 @@ function realzarGuia(html: string): string {
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
 
   resultado = resultado.replace(RE_CONTAR, (_m, emoji, cantidad) => htmlContar(emoji, cantidad));
+  resultado = resultado.replace(RE_FRACCION_VISUAL, (_m, n, d) => htmlFraccion(n, d));
   resultado = resultado.replace(RE_DIBUJO, (_m, emoji) => `<span class="dibujo" role="img" aria-label="dibujo">${emoji}</span>`);
 
   // Procesar emoji: ::emoji::🦋::descripcion:: -> HTML visual

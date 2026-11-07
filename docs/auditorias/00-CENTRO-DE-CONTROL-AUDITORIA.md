@@ -67,7 +67,7 @@ La matriz conserva ruta, curso/área preliminar, tipo de recurso, tamaño, SHA d
 |---|---|---|
 | Inventario de archivos | Parcial / reconciliación pendiente | Las rutas, tamaños y SHA del CSV se regeneraron; falta reconciliar estados heredados y recursos consumidos por la app. |
 | Catálogo de cursos y asignaturas | Parcial | Hay una matriz de 12 cursos, pero debe cotejarse con alcance del producto y fuentes oficiales vigentes. |
-| Exactitud disciplinar | Parcial, por lotes | Existen recálculos y hallazgos específicos; no hay revisión completa de todos los ítems. |
+| Exactitud disciplinar | Revisión ítem por ítem completa en los 12 cursos (2026-11-07) | Guías, pruebas y simulacros revisados con recálculo de toda la Matemática y contraste de claves (§15.26–15.28). Es una revisión de un solo revisor; no equivale a una segunda auditoría independiente. Pendientes: ilustraciones reales en 1.° básico y la superposición del 79 % entre pruebas y guías (decisión de diseño). |
 | Claves y puntajes | Parcial + validador estructural | Se conocen discrepancias P1; el control no detecta todos los errores semánticos. |
 | Calidad pedagógica y adecuación al nivel | Parcial | Informes preliminares; falta revisión sistemática por archivo y actividad. |
 | Alineación curricular oficial | No certificada | Hay análisis previos; falta trazabilidad exhaustiva fuente oficial → OA → recurso → evaluación. |

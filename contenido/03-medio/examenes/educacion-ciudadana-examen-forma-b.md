@@ -148,7 +148,7 @@ fijar y fiscalizar un sueldo mínimo que garantice condiciones de vida digna, in
 que determine el mercado.
 
 **10.** (Selección múltiple — 4 puntos) El debate descrito en el estímulo se relaciona
-principalmente con la discusión estudiada en este OA sobre:
+principalmente con la discusión estudiada sobre:
 
 a) El comercio justo
 b) La probidad
@@ -250,7 +250,7 @@ c) Valentina: republicanismo; Tomás: liberalismo
 d) Ambos: liberalismo
 
 **20.** (Selección múltiple — 4 puntos) ¿Cuál de las siguientes **no** corresponde a una forma de
-participación orientada al fortalecimiento del bien común, según lo estudiado en este OA?
+participación orientada al fortalecimiento del bien común, según lo estudiado?
 
 a) Integrar un partido político o una agrupación ciudadana con propuestas
 b) Difundir información falsa deliberadamente para influir en una votación

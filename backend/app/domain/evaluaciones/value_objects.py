@@ -112,7 +112,10 @@ _RE_DEPENDE_DE_ANTERIOR = re.compile(
     r"(?i)pregunta (anterior|previa|\d+)|preguntas? \d+ (a|y) \d+|mism[oa]s? (texto|lectura|párrafo|parrafo|poema|cuento|"
     r"relato|tabla|gráfico|grafico|pictograma|fragmento|columna|noticia|carta|afiche|art[ií]culo|situación|caso)"
 )
-_RE_RANGO_PREGUNTAS = re.compile(r"(?i)\b(responde|contesta) (las? )?(preguntas?) \d+( (a|y) \d+)?")
+_RE_RANGO_PREGUNTAS = re.compile(r"(?i)\b(responde|contesta|responder|contestar) (las? )?(preguntas?) \d+( (a|y) \d+)?")
+# «## Texto 2 (también para las preguntas 6 a 9 y 22)»: el paréntesis solo numera y se omite.
+_RE_PARENTESIS_RANGO = re.compile(
+    r"(?i)\s*\((?:también )?(?:para )?(?:las? )?preguntas? \d+(?:\s*(?:a|y|,)\s*\d+)*\)")
 
 
 def _cabeza(enunciado: str) -> str:
@@ -151,7 +154,7 @@ def quitar_numeracion_de_rangos(enunciado: str) -> str:
         plural = m.group(4) is not None or m.group(3).lower().endswith("s")
         return f"{m.group(1)} {'las preguntas siguientes' if plural else 'la pregunta siguiente'}"
 
-    return _RE_RANGO_PREGUNTAS.sub(reemplazo, enunciado)
+    return _RE_PARENTESIS_RANGO.sub("", _RE_RANGO_PREGUNTAS.sub(reemplazo, enunciado))
 
 
 def mezclar_orden_al_azar(items: list[T]) -> list[T]:

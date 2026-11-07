@@ -34,7 +34,7 @@ d) Un asteroide
 **Pregunta 2 (verdadero o falso).** La Luna emite su propia luz, igual que el Sol.
 
 **Pregunta 3 (alternativas — ordenar).** ¿Cuál es el orden de estos planetas según su cercanía al Sol,
-del más cercano al más lejano: Tierra, Mercurio, Marte, Venus.
+del más cercano al más lejano: Tierra, Mercurio, Marte, Venus?
 
 a) Mercurio → Venus → Tierra → Marte
 b) Tierra → Venus → Mercurio → Marte

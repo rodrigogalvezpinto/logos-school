@@ -269,7 +269,7 @@ la crianza de llamas) y qué ha cambiado (la escuela moderna, el transporte).
 
 **Ejemplo 3 — El pueblo rapa nui en la actualidad**
 
-::emoji::🎨::dos escenas lado a lado — a la izquierda, moáis antiguos de piedra; a la derecha, un
+::emoji::🏛️::dos escenas lado a lado — a la izquierda, moáis antiguos de piedra; a la derecha, un
 grupo de bailarines rapa nui actuales, con vestimenta tradicional, en un festival::
 
 *Paso a paso:* observamos ambas imágenes y notamos que, aunque cambió el contexto (hoy existe
@@ -683,7 +683,7 @@ cruzando la Cordillera de los Andes, está Argentina.
 
 **Ejemplo 2 — Usando el globo terráqueo**
 
-::emoji::🎨::un globo terráqueo mostrando el continente americano, con Chile señalado con una
+::emoji::🌍::un globo terráqueo mostrando el continente americano, con Chile señalado con una
 flecha en el extremo suroeste de Sudamérica::
 
 *Paso a paso:* en el globo terráqueo, primero ubicamos el continente americano, luego América
@@ -1106,7 +1106,7 @@ Además de instituciones como la escuela o el hospital, existen otros
 
 **Ejemplo 1 — De la chacra a la feria**
 
-::emoji::🎨::un camión cargado de frutas y verduras viajando por un camino, y luego las mismas
+::emoji::🚚::un camión cargado de frutas y verduras viajando por un camino, y luego las mismas
 frutas y verduras siendo vendidas en los puestos de una feria libre::
 
 *Paso a paso:* seguimos el recorrido: primero, los alimentos se cultivan en el campo; luego,

@@ -62,10 +62,6 @@ d) Conservación de ecosistemas
 respaldo científico y técnico, su éxito está garantizado, sin importar su costo ni si
 la comunidad lo acepta.
 
-V ___ F ___
-
-Justifica tu respuesta.
-
 **3.** *(Alternativas, 2 puntos)* Una reserva marina permite pesca artesanal regulada en algunas zonas y prohíbe toda extracción en otras (zona núcleo). ¿Qué afirmación distingue correctamente "proteger totalmente" de "utilizar de forma sostenible"?
 
 a) Proteger totalmente es no permitir ninguna extracción (zona núcleo); utilizar de forma sostenible es permitir una actividad regulada que no compromete la regeneración del recurso
@@ -107,10 +103,6 @@ d) Enterrar los desechos en la playa para que no se vean
 **7.** *(Verdadero o falso)* Reducir la cantidad de residuos orgánicos que llegan a un
 relleno sanitario no tiene relación con la reducción de emisiones de gases de efecto
 invernadero.
-
-V ___ F ___
-
-Justifica tu respuesta.
 
 **8.** *(Alternativas)* Una región construye una carretera que fragmenta el hábitat de
 una población de pumas, dificultando su desplazamiento entre dos áreas de bosque
@@ -190,8 +182,6 @@ d) No tiene relación con las mediciones de temperatura global, porque los glaci
 **15.** *(Verdadero o falso)* Todos los modelos climáticos coinciden exactamente en la
 magnitud futura del calentamiento global, sin ningún rango de incertidumbre.
 
-V ___ F ___
-
 **16.** *(Varias correctas, 2 puntos)* Un modelo climático regional proyecta que una zona agrícola podría perder gran parte de su agua de riego en las próximas décadas. ¿Qué elementos deberías revisar para evaluar si la proyección es confiable? Marca **todas** las correctas.
 
 a) Si fue validado comparando proyecciones pasadas con lo ocurrido
@@ -225,8 +215,6 @@ d) Ambas opciones tienen exactamente el mismo efecto en la biodiversidad y en el
 **19.** *(Verdadero o falso)* Analizar una controversia pública sobre cambio climático
 de forma rigurosa implica considerar solo la dimensión ambiental del problema, dejando
 de lado los aspectos sociales, económicos y éticos.
-
-V ___ F ___
 
 **20.** *(Alternativas, 2 puntos)* ¿Por qué reducir las emisiones de metano de la actividad ganadera es una medida de **mitigación** del cambio climático, y cómo podría lograrse?
 

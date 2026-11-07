@@ -55,7 +55,7 @@ d) 0
 
 ---
 
-**Pregunta 5.** Con los mismos datos de la Pregunta 4 (cara: 7, sello: 3), ¿salió más veces cara o sello?
+**Pregunta 5.** Con los datos de los 10 lanzamientos de la moneda (cara: 7, sello: 3), ¿salió más veces cara o sello?
 
 a) Sello
 b) Cara

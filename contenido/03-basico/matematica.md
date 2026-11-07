@@ -43,7 +43,7 @@ Vas a aprender a leer y escribir números del 0 al 1 000, tanto en cifras (por e
 
 En una feria de Valparaíso, un puesto vende 236 duraznos.
 
-::emoji::🎨::bloques multibase que representan 236: 2 bloques de centena (planchas de 100), 3 bloques de decena (barras de 10) y 6 cubitos sueltos::
+::emoji::🧮::bloques multibase que representan 236: 2 bloques de centena (planchas de 100), 3 bloques de decena (barras de 10) y 6 cubitos sueltos::
 
 Contamos: 2 centenas (200) + 3 decenas (30) + 6 unidades (6) = 236. Se lee "doscientos treinta y seis".
 
@@ -75,7 +75,7 @@ d) setecientos nueve
 **Respuesta correcta: d) setecientos nueve.**
 *Retroalimentación:* 709 = 700 (setecientos) + 0 decenas + 9 (nueve), por eso se lee "setecientos nueve", sin mencionar las decenas porque no hay ninguna. "Setecientos noventa" sería 790.
 
-**Pregunta 3 (pictórico).** ::emoji::🎨::4 planchas de 100, 5 barras de 10 y 2 cubitos sueltos:: ¿Qué número representa esta cantidad?
+**Pregunta 3 (pictórico).** ::emoji::🧮::4 planchas de 100, 5 barras de 10 y 2 cubitos sueltos:: ¿Qué número representa esta cantidad?
 a) 245
 b) 425
 c) 452
@@ -130,7 +130,7 @@ Las centenas son iguales (4=4), así que comparamos las decenas: 8 decenas es m�
 
 **Ejemplo 2 — Comparar en la recta numérica**
 
-::emoji::🌊::recta numérica del 0 al 1000 con marcas cada 100; se ubican los puntos 250 y 610::
+::emoji::📏::recta numérica del 0 al 1000 con marcas cada 100; se ubican los puntos 250 y 610::
 
 En la recta numérica, el número que está más a la derecha es el mayor. Como 610 está a la derecha de 250, **610 es mayor que 250**.
 
@@ -167,7 +167,7 @@ d) 99, 305, 158, 720
 **Respuesta correcta: Falso.**
 *Retroalimentación:* al comparar las centenas, 9 centenas (910) es más que 8 centenas (890), por lo tanto 910 es mayor que 890, no menor.
 
-**Pregunta 4 (alternativas — recta numérica).** ::emoji::🌊::recta numérica del 0 al 1000 con marcas cada 100, con los puntos 340 y 780 ubicados:: ¿Cuál número está más cerca del 1 000?
+**Pregunta 4 (alternativas — recta numérica).** ::emoji::📏::recta numérica del 0 al 1000 con marcas cada 100, con los puntos 340 y 780 ubicados:: ¿Cuál número está más cerca del 1 000?
 a) 780
 b) 340
 c) Los dos están igual de cerca
@@ -213,7 +213,7 @@ Compara los números 316 y 613. Ambos usan los mismos tres dígitos, pero en 316
 
 **Ejemplo 3 — De bloques multibase al número**
 
-::emoji::🎨::5 planchas de 100, 0 barras de 10 y 8 cubitos sueltos::
+::emoji::🧮::5 planchas de 100, 0 barras de 10 y 8 cubitos sueltos::
 
 5 planchas de 100 valen 500, no hay barras de 10, y hay 8 cubitos sueltos: 500+0+8=**508**.
 
@@ -242,7 +242,7 @@ d) 309
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* 1 000 se forma exactamente con 10 grupos de 100 (10 centenas), sin que sobre ningún elemento suelto.
 
-**Pregunta 4 (alternativas — pictórico).** ::emoji::🎨::2 planchas de 100, 9 barras de 10 y 4 cubitos sueltos:: ¿Qué número representa esta imagen?
+**Pregunta 4 (alternativas — pictórico).** ::emoji::🧮::2 planchas de 100, 9 barras de 10 y 4 cubitos sueltos:: ¿Qué número representa esta imagen?
 a) 15
 b) 2094
 c) 249
@@ -260,7 +260,7 @@ d) 852
 **Respuesta correcta: b) 50.**
 *Retroalimentación:* el dígito 5 está en el lugar de las decenas, por lo tanto su valor real es 50, no simplemente 5.
 
-**Pregunta 6 (alternativas — composición hasta 100).** ::emoji::🎨::7 grupos de 10 fichas y 4 fichas sueltas:: ¿Qué composición representa esta imagen?
+**Pregunta 6 (alternativas — composición hasta 100).** ::emoji::🧮::7 grupos de 10 fichas y 4 fichas sueltas:: ¿Qué composición representa esta imagen?
 a) 7 + 4 = 11
 b) 40 + 7 = 47
 c) 70 + 4 = 74
@@ -389,7 +389,7 @@ Vas a comprender las tablas de multiplicar hasta el 10 de manera progresiva: rep
 
 En un supermercado hay 6 bandejas con 7 huevos cada una.
 
-::emoji::🎨::6 bandejas, cada una con 7 huevos::
+::emoji::🥚::6 bandejas, cada una con 7 huevos::
 
 Podemos sumar: 7+7+7+7+7+7=42. Como los 6 sumandos son iguales, escribimos: **6×7=42**.
 
@@ -412,7 +412,7 @@ d) 4 × 4 = 16
 **Respuesta correcta: a) 4 × 8 = 32.**
 *Retroalimentación:* como hay 4 sumandos y cada uno vale 8, escribimos 4×8=32 (equivalente a sumar cuatro veces el número 8).
 
-**Pregunta 2 (alternativas — pictórico).** ::emoji::🎨::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
+**Pregunta 2 (alternativas — pictórico).** ::emoji::🧮::7 grupos de 6 fichas cada uno:: ¿Qué multiplicación representa esta imagen, y cuál es el resultado?
 a) 7 + 6 = 13
 b) 7 × 6 = 48
 c) 6 × 6 = 36
@@ -480,7 +480,7 @@ Vas a comprender la división en el contexto de las tablas de hasta 10×10: repr
 
 Camila tiene 24 caramelos y los quiere repartir en partes iguales entre 4 amigas.
 
-::emoji::🌊::24 caramelos repartidos uno a uno en 4 grupos, hasta formar 4 grupos de 6::
+::emoji::🍬::24 caramelos repartidos uno a uno en 4 grupos, hasta formar 4 grupos de 6::
 
 24÷4=**6 caramelos** para cada amiga.
 
@@ -534,7 +534,7 @@ d) 6
 **Respuesta correcta: d) 6.**
 *Retroalimentación:* la división es la operación inversa de la multiplicación: como 6×9=54, entonces 54÷9=6 y 54÷6=9.
 
-**Pregunta 5 (alternativas — pictórico — repartición).** ::emoji::🎨::20 fichas repartidas en 5 grupos iguales, cada grupo con 4 fichas:: ¿Qué división representa esta imagen?
+**Pregunta 5 (alternativas — pictórico — repartición).** Se repartieron 20 fichas en grupos iguales: ::contar::🔵::4:: ::contar::🔵::4:: ::contar::🔵::4:: ::contar::🔵::4:: ::contar::🔵::4:: ¿Qué división representa esta imagen?
 a) 20 ÷ 4 = 4
 b) 20 ÷ 5 = 4
 c) 5 ÷ 20 = 4
@@ -653,7 +653,7 @@ Vas a comprender las fracciones de uso común 1/4, 1/3, 1/2, 2/3 y 3/4: explican
 
 **Ejemplo 1 — La fracción como parte de un todo**
 
-::emoji::🎨::una sopaipilla dividida en 4 partes iguales, con 1 parte pintada::
+::fraccion::1::4::
 
 La sopaipilla se dividió en 4 partes iguales, y se pintó 1 de esas partes. Esa parte se representa como la fracción **1/4** ("un cuarto"): 1 parte tomada de un total de 4 partes iguales.
 
@@ -665,20 +665,20 @@ En una torta de cumpleaños dividida en 3 partes iguales, si te comes 2 de esas 
 
 Compara 3/4 y 1/4 de una misma pizza.
 
-::emoji::🎨::dos pizzas idénticas divididas en 4 partes iguales cada una; en la primera hay 3 partes pintadas, en la segunda hay 1 parte pintada::
+::fraccion::3::4:: ::fraccion::1::4::
 
 Como ambas fracciones tienen el mismo denominador (4), comparamos los numeradores: 3 es mayor que 1, por lo tanto **3/4 es mayor que 1/4**.
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (alternativas).** ::emoji::🎨::un círculo dividido en 2 partes iguales, con 1 parte pintada:: ¿Qué fracción representa la parte pintada?
+**Pregunta 1 (alternativas).** ::fraccion::1::2:: ¿Qué fracción representa la parte pintada?
 a) 1/4
 b) 1/3
 c) 1/2
 d) 2/2
 
 **Respuesta correcta: c) 1/2.**
-*Retroalimentación:* el círculo se dividió en 2 partes iguales, y se pintó 1 de ellas: 1 parte de un total de 2, es decir, 1/2.
+*Retroalimentación:* la figura se dividió en 2 partes iguales, y se pintó 1 de ellas: 1 parte de un total de 2, es decir, 1/2.
 
 **Pregunta 2 (alternativas — completar).** Si una pizza se divide en 4 partes iguales y te comes 3 de ellas, ¿qué fracción de la pizza comiste?
 a) 3/4
@@ -689,14 +689,14 @@ d) 3/7
 **Respuesta correcta: a) 3/4.**
 *Retroalimentación:* al dividir la pizza en 4 partes iguales y comer 3 de esas partes, la fracción que representa lo comido es 3 de 4, es decir, 3/4. El denominador (abajo) indica en cuántas partes se dividió.
 
-**Pregunta 3 (alternativas — pictórico).** ::emoji::🎨::un rectángulo dividido en 3 partes iguales, con 2 partes pintadas:: ¿Qué fracción representa la parte pintada?
+**Pregunta 3 (alternativas — pictórico).** ::fraccion::2::3:: ¿Qué fracción representa la parte pintada?
 a) 3/2
 b) 1/3
 c) 2/5
 d) 2/3
 
 **Respuesta correcta: d) 2/3.**
-*Retroalimentación:* el rectángulo se dividió en 3 partes iguales, y se pintaron 2 de ellas: 2 de un total de 3, es decir, 2/3.
+*Retroalimentación:* la figura se dividió en 3 partes iguales, y se pintaron 2 de ellas: 2 de un total de 3, es decir, 2/3.
 
 **Pregunta 4 (alternativas — comparar fracciones).** ¿Cuál fracción es mayor: 2/4 o 3/4?
 a) 2/4
@@ -745,7 +745,7 @@ Vas a generar, describir y registrar patrones numéricos, usando una variedad de
 
 **Ejemplo 1 — Patrón ascendente en la tabla del 100**
 
-::emoji::🎨::tabla del 100 con los números 3, 13, 23, 33, 43 destacados en una misma columna::
+::emoji::🔢::tabla del 100 con los números 3, 13, 23, 33, 43 destacados en una misma columna::
 
 En la tabla del 100, si te mueves una fila hacia abajo desde el número 3, llegas al 13; luego al 23, y así sucesivamente. La regla es **"sumar 10"**, porque cada fila representa una decena más.
 
@@ -813,7 +813,7 @@ d) 20, 30, 40, 50, 60
 **Respuesta correcta: b) 20, 40, 60, 80, 100.**
 *Retroalimentación:* cada número de la secuencia debe ser exactamente 20 más que el anterior, empezando desde el 20. En las otras se suma 1, se duplica o se suma 10.
 
-**Pregunta 7 (alternativas — tabla del 100).** ::emoji::🎨::tabla del 100 con el número 27 destacado:: Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
+**Pregunta 7 (alternativas — tabla del 100).** ::emoji::🔢::tabla del 100 con el número 27 destacado:: Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
 a) 29
 b) 37
 c) 47
@@ -838,19 +838,19 @@ Vas a comprender la relación que existe entre figuras 3D y figuras 2D: reconoci
 
 **Ejemplo 1 — La red de un cubo**
 
-::emoji::🎨::una red de cubo formada por 6 cuadrados unidos en forma de cruz::
+::emoji::📐::una red de cubo formada por 6 cuadrados unidos en forma de cruz::
 
 Si doblamos esta red por las líneas que unen los cuadrados, se forma un **cubo**. Cada uno de los 6 cuadrados de la red se convierte en una cara del cubo.
 
 **Ejemplo 2 — Desplegar una figura 3D**
 
-::emoji::🎨::una caja de cereal (paralelepípedo) que se despliega mostrando sus 6 caras rectangulares separadas::
+::emoji::📦::una caja de cereal (paralelepípedo) que se despliega mostrando sus 6 caras rectangulares separadas::
 
 Si abrimos completamente una caja de cereal, obtenemos su red: 6 rectángulos unidos entre sí, que corresponden a las 6 caras de la caja.
 
 **Ejemplo 3 — Identificar la red correcta de una pirámide**
 
-::emoji::🎨::dos redes distintas; una tiene 1 cuadrado en el centro y 4 triángulos alrededor (correcta para una pirámide de base cuadrada); la otra tiene 6 cuadrados en cruz (que es la red de un cubo)::
+::emoji::📐::dos redes distintas; una tiene 1 cuadrado en el centro y 4 triángulos alrededor (correcta para una pirámide de base cuadrada); la otra tiene 6 cuadrados en cruz (que es la red de un cubo)::
 
 La red correcta de una pirámide de base cuadrada es la que tiene **1 cuadrado y 4 triángulos**, porque una pirámide de base cuadrada tiene 1 cara cuadrada (la base) y 4 caras triangulares.
 
@@ -879,7 +879,7 @@ d) 12
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* el cono tiene una base circular y una superficie lateral curva; al desplegarlo, la base se ve como un círculo y la superficie lateral se ve como un sector circular (una especie de "abanico").
 
-**Pregunta 4 (alternativas — identificar la red correcta).** ::emoji::☀️::dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértices, sin ninguna base:: ¿Cuál de las dos redes corresponde a una pirámide de base cuadrada?
+**Pregunta 4 (alternativas — identificar la red correcta).** ::emoji::📐::dos redes: A) 1 cuadrado central con 4 triángulos alrededor; B) 4 triángulos unidos solo por sus vértices, sin ninguna base:: ¿Cuál de las dos redes corresponde a una pirámide de base cuadrada?
 a) La red B
 b) Ninguna de las dos
 c) La red A
@@ -923,7 +923,7 @@ Vas a comprender el **perímetro** de una figura como la medida de todo su conto
 
 Un patio rectangular mide 8 m de largo y 5 m de ancho.
 
-::emoji::🎨::un rectángulo con "8 m" en el lado largo y "5 m" en el lado corto::
+::emoji::🟦::un rectángulo con "8 m" en el lado largo y "5 m" en el lado corto::
 
 Sumamos los 4 lados: 8+5+8+5=**26 m** de perímetro.
 
@@ -973,7 +973,7 @@ d) 112 m
 **Respuesta correcta: a) 7 m.**
 *Retroalimentación:* como el cuadrado tiene 4 lados iguales, dividimos el perímetro entre 4: 28÷4=7 m por lado.
 
-**Pregunta 5 (alternativas — figura irregular).** ::emoji::🎨::una figura irregular con lados de 4 cm, 6 cm, 3 cm y 5 cm:: ¿Cuál es el perímetro de esta figura?
+**Pregunta 5 (alternativas — figura irregular).** ::emoji::🟦::una figura irregular con lados de 4 cm, 6 cm, 3 cm y 5 cm:: ¿Cuál es el perímetro de esta figura?
 a) 15 cm
 b) 24 cm
 c) 360 cm
@@ -1014,7 +1014,7 @@ Vas a comprender la medición del peso en **gramos (g)** y **kilogramos (kg)**: 
 
 Una sandía pesa 4 kg y una piña pesa 900 g.
 
-::emoji::🎨::una balanza con la sandía en un platillo (que baja) y la piña en el otro (que sube)::
+::emoji::⚖️::una balanza con la sandía en un platillo (que baja) y la piña en el otro (que sube)::
 
 Como 4 kg equivalen a 4 000 g, y 4 000 g es mucho más que 900 g, **la sandía pesa más** que la piña.
 
@@ -1106,7 +1106,7 @@ Perros: 🐾🐾🐾🐾 (4 huellas)
 Gatos: 🐾🐾 (2 huellas)
 Conejos: 🐾 (1 huella)
 
-::emoji::🎨::pictograma con filas de huellas representando la cantidad de cada mascota, con la leyenda "1 huella = 5 mascotas"::
+::emoji::📊::pictograma con filas de huellas representando la cantidad de cada mascota, con la leyenda "1 huella = 5 mascotas"::
 
 ¿Cuántos perros hay registrados? Como cada huella vale 5 mascotas, y hay 4 huellas: 4×5=**20 perros**.
 
@@ -1114,7 +1114,7 @@ Conejos: 🐾 (1 huella)
 
 Un curso registró los deportes favoritos de sus 24 estudiantes: fútbol (10), básquetbol (6), natación (8).
 
-::emoji::🌊::gráfico de barras con tres columnas: "fútbol" hasta el 10, "básquetbol" hasta el 6, y "natación" hasta el 8, en el eje vertical marcado de 2 en 2::
+::emoji::📊::gráfico de barras con tres columnas: "fútbol" hasta el 10, "básquetbol" hasta el 6, y "natación" hasta el 8, en el eje vertical marcado de 2 en 2::
 
 Cada barra se dibuja con la altura correspondiente a la cantidad de estudiantes que eligió ese deporte.
 

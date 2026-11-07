@@ -180,7 +180,13 @@ d) Litros
 
 ---
 
-**15. (Lenguaje — Alternativas)** Usando el texto "El reciclaje en la escuela" de la pregunta 12: ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+**15. (Lenguaje — Alternativas)** Vuelve a leer el texto "El reciclaje en la escuela":
+
+> El reciclaje en la escuela
+>
+> En muchas escuelas de Chile hay contenedores de distintos colores para separar la basura. El contenedor azul es para el papel y el cartón. El contenedor amarillo es para los plásticos y las latas. El contenedor café es para los restos de comida, como cáscaras de fruta. Cada contenedor tiene un dibujo que ayuda a reconocer qué se debe botar ahí, incluso para las personas que todavía no saben leer bien.
+
+ ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
 
 a) Para que los contenedores se vean bonitos y alegres en el patio de la escuela
 b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien

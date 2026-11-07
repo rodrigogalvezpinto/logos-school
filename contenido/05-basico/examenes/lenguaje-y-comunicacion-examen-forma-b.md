@@ -225,7 +225,7 @@ d) Solo las cartas tienen destinatario
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) "Te invita"
+a) "A beneficio del curso de 6° básico"
 b) "Para todas las edades"
 c) "Entrada liberada para toda la comunidad"
 d) "Centro de Padres y Apoderados"
@@ -336,7 +336,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 14 | **b)** Invitar a la comunidad a participar de un encuentro de juegos y cueca, y recaudar fondos para el curso de 6° básico. | OA N°7 — propósito del texto |
 | 15 | **d) No la entrega; habría que consultar al Centro de Padres y Apoderados, emisor del afiche.** El afiche menciona la venta de anticuchos y mote con huesillo a beneficio del curso, sin precios; la entrada liberada no significa que la comida sea gratis. | OA N°7 — suficiencia de la información |
 | 16 | **b)** El destinatario de un texto depende de su propósito y del contexto en que fue producido. | OA N°7 — destinatario de los textos en general |
-| 17 | **a, b y c.** Las tres expresiones muestran un lenguaje amplio e inclusivo dirigido a la comunidad; "Centro de Padres y Apoderados" identifica al emisor, no al destinatario. El afiche cumple bien su propósito porque además entrega fecha, horario, lugar y actividades con claridad. | OA N°7 — destinatario y evaluación del propósito |
+| 17 | **b y c.** "Para todas las edades" y "Entrada liberada para toda la comunidad" muestran que el afiche se dirige a un público amplio; "A beneficio del curso de 6° básico" indica quién recibe lo recaudado, no a quién va dirigido, y "Centro de Padres y Apoderados" identifica al emisor, no al destinatario. El afiche cumple bien su propósito porque además entrega fecha, horario, lugar y actividades con claridad. | OA N°7 — destinatario y evaluación del propósito |
 | 18 | **b)** Ayudan a quien lee a imaginar el lugar y el momento en que ocurre la historia, y pueden reforzar la atmósfera del relato. | OA N°14 — función de las descripciones de ambiente |
 | 19 | **b) La lluvia caía suave sobre los toldos, mientras el humo de las cocinerías se mezclaba con el olor a sopaipillas; se escuchaba el chisporroteo del aceite.** La opción correcta incluye detalles que se ven, se huelen y se escuchan; las otras solo informan o narran sin detalles sensoriales. | OA N°14 — descripción del ambiente |
 | 20 | **c) —Necesito contarte algo antes del ensayo —dijo Valentina, nerviosa—. No voy a poder cantar el sábado. / —¿Por qué? —preguntó Rodrigo. / —Perdí la voz y todavía no le aviso a la profesora.** Solo la c) revela información relevante para una trama (un problema que deberá resolverse); las otras son diálogos sin conflicto. | OA N°14 — diálogo que aporta a la trama |

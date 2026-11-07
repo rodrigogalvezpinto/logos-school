@@ -457,3 +457,7 @@ blockquote {
 .opcion__visual p { display: inline; margin: 0; }
 .opcion__visual .contar { font-size: 1.4rem; }
 .dibujo { display: inline-block; font-size: 3rem; line-height: 1.1; margin: 0.25rem 0.75rem 0.25rem 0; vertical-align: middle; }
+.fraccion-barra { display: inline-flex; width: min(16rem, 100%); height: 2.2rem; margin: 0.25rem 0.5rem 0.25rem 0; border: 2px solid #5B4FE9; border-radius: 6px; overflow: hidden; vertical-align: middle; }
+.fraccion-barra__parte { flex: 1; border-right: 2px solid #5B4FE9; background: transparent; }
+.fraccion-barra__parte:last-child { border-right: 0; }
+.fraccion-barra__parte--pintada { background: #FF6B4A; }

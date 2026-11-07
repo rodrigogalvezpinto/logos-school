@@ -103,7 +103,7 @@ c) "gigante"
 
 *Respuesta correcta: a.* Retroalimentación: ¡muy bien! En "guitarra" la "u" no se pronuncia, solo sirve para que la "g" suene fuerte, como en "gato". En "pingüino" la "u" sí se pronuncia (por eso lleva diéresis), y en "gigante" el sonido es distinto, como el de la "j".
 
-**6. (Alternativas — güe/güi)** ::emoji::🎨::un pingüino y una cigüeña:: ¿Cuál palabra está **bien escrita**, con los dos puntitos sobre la "u"?
+**6. (Alternativas — güe/güi)** ::dibujo::🐧:: ¿Cuál palabra está **bien escrita**, con los dos puntitos sobre la "u"?
 
 a) pinguino
 b) pinjüino
@@ -400,10 +400,10 @@ c) "Las niño jugaban en el patio."
 **5. (Alternativas — vocabulario variado)** La palabra "bonito" aparece repetida varias veces en un texto: "Tengo un perro bonito. Vivo en una casa bonita. Mi patio es bonito." ¿Cuál de estas palabras podría reemplazar "bonito" para variar el vocabulario?
 
 a) "hermoso"
-b) "bonito" otra vez
-c) "grande" (no tiene un significado parecido)
+b) "feo"
+c) "pequeño"
 
-*Respuesta correcta: a.* Retroalimentación: ¡muy bien! "Hermoso" tiene un significado parecido a "bonito", así el texto suena menos repetitivo.
+*Respuesta correcta: a.* Retroalimentación: ¡muy bien! "Hermoso" tiene un significado parecido a "bonito", así el texto suena menos repetitivo. "Feo" y "pequeño" cambiarían lo que se quiere decir.
 
 **6. (Alternativas — propósito y destinatario)** Quieres invitar a un compañero o compañera a jugar contigo en el recreo. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y signo de puntuación final?
 

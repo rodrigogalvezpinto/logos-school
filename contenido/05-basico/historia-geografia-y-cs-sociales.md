@@ -775,8 +775,7 @@ d) Norte Chico
 
 ---
 
-**5. (Alternativas)** ¿Cuál de las siguientes es una macroforma de relieve presente con
-mayor claridad en la Zona Central de Chile?
+**5. (Alternativas)** ¿Qué macroformas de relieve se presentan con mayor claridad en la Zona Central de Chile?
 a) Solo el altiplano, con volcanes, salares y lagunas en altura
 b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies
 litorales

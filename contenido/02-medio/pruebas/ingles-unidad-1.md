@@ -87,9 +87,7 @@ d) So
 
 10. *(Verdadero o falso)* Read: *"Internet access is limited in some rural
     areas, so the government built new towers to expand coverage."*
-    Statement: *This sentence shows a problem-solution relationship, and the
-    text also implies there could be other solutions, like satellite
-    internet.*
+    Statement: *This sentence shows a problem-solution relationship.*
 
 11. *(Alternativas — Completar)* Complete: *"It is ___ to finish this project without more time."* (possible + im-)
 
@@ -153,10 +151,8 @@ d) dislegal
 
 9. a) Unless. *Unless* (a menos que) introduce la condición; *as a result* expresa consecuencia.
 
-10. **False (Falso).** La primera parte es correcta: el texto plantea un
-    problema (acceso limitado a internet) y una solución (nuevas torres). Pero
-    la segunda parte es falsa: el texto no menciona ni implica otras soluciones,
-    como el internet satelital.
+10. **True (Verdadero).** El texto plantea un problema (acceso limitado a
+    internet) y una solución (nuevas torres), unidos por el conector *so*.
 
 11. d) impossible. El prefijo *im-* se usa antes de adjetivos que comienzan con p, m o b.
 

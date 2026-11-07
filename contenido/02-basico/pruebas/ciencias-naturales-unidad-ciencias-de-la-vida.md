@@ -45,7 +45,7 @@ d) El caballo
 
 ---
 
-**Pregunta 4.** ¿Qué medidas ayudan a proteger a los animales nativos en peligro de extinción.
+**Pregunta 4.** ¿Qué medidas ayudan a proteger a los animales nativos en peligro de extinción?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 

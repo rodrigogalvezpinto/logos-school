@@ -56,7 +56,6 @@ d) How many?
 **4.** *(Verdadero o falso)* Una tira cómica (*comic strip*) cuenta un cuento de
 fantasía sobre animales que hablan. Para comenzar ese cuento, es apropiado usar
 la frase *"Once upon a time"*.
-V ☐  F ☐
 
 **5.** *(Alternativas — escribir siguiendo un modelo)* Model: *"Dear ___, I
 am going to visit ___ next weekend. I feel ___ about it."* Which text completes the model correctly?
@@ -98,7 +97,6 @@ d) but
 
 **10.** *(Verdadero o falso)* La oración *"This is Pedro's dog"* significa que el
 perro es de Pedro.
-V ☐  F ☐
 
 **11.** *(Completar con número)* Complete: *"There are ___ students in my
 class."* (number 18)

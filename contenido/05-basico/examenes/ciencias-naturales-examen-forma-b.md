@@ -161,14 +161,14 @@ d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infeccione
 
 **13.** *(Alternativas)* Observa la siguiente tabla:
 
-| Microorganismo | Efecto en el cuerpo |
+| Organismo | Efecto en el cuerpo |
 |---|---|
 | Levadura usada en el pan | Ayuda a la fermentación de alimentos |
 | Bacteria causante de una infección intestinal | Enfermedad digestiva |
 | Champiñón (hongo) | Alimento nutritivo |
 | Virus del resfriado común | Enfermedad respiratoria contagiosa |
 
-¿Cuántos de los microorganismos de la tabla son **beneficiosos** para la salud?
+¿Cuántos de los organismos de la tabla son **beneficiosos** para las personas?
 
 a) 1
 b) 2

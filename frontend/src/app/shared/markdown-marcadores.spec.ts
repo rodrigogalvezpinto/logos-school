@@ -22,4 +22,11 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect(salida).toContain('class="dibujo"');
     expect(salida).not.toContain('sol');
   });
+
+  it('::fraccion:: dibuja las partes sin escribir el número', () => {
+    const salida = html('::fraccion::2::3:: ¿Qué fracción está pintada?');
+    expect((salida.match(/fraccion-barra__parte--pintada/g) || []).length).toBe(2);
+    expect((salida.match(/fraccion-barra__parte[" ]/g) || []).length).toBe(3);
+    expect(salida).not.toContain('2/3');
+  });
 });

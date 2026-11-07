@@ -618,8 +618,8 @@ bienes o servicios que el mercado no ofrece de forma adecuada o suficiente para 
 
 ---
 
-**2. (Verdadero o Falso)** La carga tributaria "justa" o "adecuada" tiene una única respuesta
-correcta, aceptada por todas las corrientes económicas.
+**2. (Verdadero o Falso)** La carga tributaria "justa" o "adecuada" tiene una sola definición
+válida, aceptada por todas las corrientes económicas.
 
 ✅ Respuesta correcta: **Falso**
 💬 *Retroalimentación:* Es uno de los temas con mayor debate legítimo entre distintas

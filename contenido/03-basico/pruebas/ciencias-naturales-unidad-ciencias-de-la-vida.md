@@ -84,7 +84,7 @@ d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
 
 **Pregunta 9 (alternativas).** ¿Por qué es importante
 comer alimentos de los tres grupos (energéticos, constructores y reguladores) y no
-solo de uno.
+solo de uno?
 
 a) Porque así se come más cantidad y el cuerpo crece más rápido
 b) Porque cada grupo cumple una función distinta y necesaria para el cuerpo

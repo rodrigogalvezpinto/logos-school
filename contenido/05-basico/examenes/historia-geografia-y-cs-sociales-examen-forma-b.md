@@ -89,7 +89,7 @@ d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago
 
 ---
 
-**Pregunta 4.** (2 puntos) — *Alternativas*
+**Pregunta 4.** (2 puntos)
 ¿Por qué se dice que del proceso de conquista "surgió una nueva sociedad"?
 
 a) Porque no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje
@@ -129,7 +129,7 @@ d) Político
 
 ---
 
-**Pregunta 7.** (2 puntos) — *Alternativas*
+**Pregunta 7.** (2 puntos)
 ¿Por qué el impacto de la conquista fue tan distinto para Europa que para América?
 
 a) Porque América recibió más oro y plata que Europa, lo que le permitió enriquecerse más rápido que los reinos europeos
@@ -167,7 +167,7 @@ d) Capitanía General
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Alternativas*
+**Pregunta 10.** (2 puntos)
 ¿Por qué la dependencia de Chile respecto de España limitaba el desarrollo
 económico de la colonia?
 
@@ -208,7 +208,7 @@ d) La esclavitud de indígenas
 
 ---
 
-**Pregunta 13.** (3 puntos) — *Alternativas*
+**Pregunta 13.** (3 puntos)
 
 > **Estímulo — fuente histórica adaptada:**
 > "Un español encomendero recibía un grupo de indígenas 'encomendados': estos debían
@@ -267,7 +267,7 @@ d) Norte Chico – Zona Central – Zona Sur
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Alternativas*
+**Pregunta 17.** (2 puntos)
 
 > **Estímulo — caso:** Una familia de agricultores quiere trasladarse a una zona de Chile
 > donde pueda cultivar hortalizas y frutales con un clima de inviernos lluviosos y veranos
@@ -305,7 +305,7 @@ d) Hierro y bosque nativo
 
 ---
 
-**Pregunta 20.** (2 puntos) — *Alternativas*
+**Pregunta 20.** (2 puntos)
 
 > **Estímulo — caso:** Una empresa forestal tala un sector de bosque nativo de la Zona Sur
 > para obtener madera. Al terminar, planta nuevos árboles en el mismo sector y espera a que
@@ -348,7 +348,7 @@ d) Condicionales
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Alternativas*
+**Pregunta 23.** (2 puntos)
 ¿Qué pasaría si los derechos dependieran de características como la etnia, el sexo o el lugar
 de nacimiento?
 
@@ -378,7 +378,7 @@ d) Las leyes solo se deben cumplir si la mayoría del curso está de acuerdo con
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Alternativas*
+**Pregunta 25.** (3 puntos)
 
 > **Estímulo:** Un estudiante expresa su opinión en clase, pero también debe respetar la
 > opinión de sus compañeros y compañeras, incluso cuando piensan distinto a él.

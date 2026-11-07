@@ -464,7 +464,7 @@ d) 1-B, 2-C, 3-A
 
 **4. (Alternativas — análisis de fuente)** Una fotografía de 1952 muestra a mujeres haciendo fila para votar en una elección presidencial, algo que no existía antes de 1949. ¿Qué proceso ilustra?
 a) La prohibición del voto femenino en las elecciones
-b) El fin del sufragio universal en Chile por varios años y regionales
+b) El fin del sufragio universal en Chile por varios años
 c) La llegada de la televisión a los hogares chilenos
 d) La incorporación de las mujeres a la ciudadanía política plena
 
@@ -754,7 +754,7 @@ d) La Doctrina de la Seguridad Nacional
 a) La competencia entre dos equipos de fútbol
 b) El acuerdo total entre todos los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin golpes de Estado ni reformas graduales que lo interrumpieran
 c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos
-d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa latinoamericana
+d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa
 
 ✅ Respuesta correcta: **c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos**
 💬 *Retroalimentación:* Sectores conservadores y las Fuerzas Armadas, a menudo con influencia de EE.UU., interrumpieron ambos caminos en varios países.
@@ -880,7 +880,7 @@ d) 1-B, 2-C, 3-A
 
 **4. (Alternativas — análisis de mapa)** Un mapa de Europa de 1985 muestra a Checoslovaquia, Yugoslavia y la URSS como Estados unificados; uno de 1995 muestra en su lugar numerosos países independientes. ¿Qué proceso explica la diferencia?
 a) La Primera Guerra Mundial y la disolución de los imperios centrales
-b) La formación del Imperio austrohúngaro en el siglo XIX, que unió esos Estados tras la Segunda Guerra
+b) La formación del Imperio austrohúngaro en el siglo XIX, que unió esos Estados bajo una sola corona
 c) La Revolución Francesa y la expansión de las ideas nacionalistas en Europa
 d) Las transformaciones geopolíticas tras el fin de la Guerra Fría, con la disolución de esos Estados
 
@@ -1173,7 +1173,7 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas — análisis de fuente)** Un informe de la Vicaría de la Solidaridad de 1978 documenta el caso de una persona detenida por agentes de civil, cuyo paradero se desconoce desde entonces, con testimonios de familiares. ¿Qué concepto ilustra?
-a) Un proceso judicial con todas las garantías, registrado por la Vicaría para documentar cada detención con garantías
+a) Un proceso judicial con todas las garantías, registrado por la Vicaría como un trámite ordinario
 b) Una migración voluntaria de personas que salieron del país sin avisar
 c) Un trámite administrativo del Registro Civil para cambiar de domicilio
 d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla
@@ -1239,7 +1239,7 @@ Sus principales rasgos fueron:
   traspasadas a privados, en el marco de una política explícita de incentivo a la empresa
   privada.
 - **Cambios en las relaciones y derechos laborales:** se modificó de manera importante la
-  legislación laboral (el llamado "Plan Laboral" de comienzos de la década de 1980), que
+  legislación laboral (el llamado "Plan Laboral" de 1979), que
   restringió significativamente las atribuciones de los sindicatos y el derecho a huelga,
   favoreciendo una relación más flexible —y para muchos trabajadores, más precaria— entre
   empleadores y trabajadores.
@@ -1287,7 +1287,7 @@ opiniones generales.
 
 #### Autoevaluación — OA 17
 
-**1. (Alternativas)** ¿Qué política laboral, implementada a comienzos de la década de 1980,
+**1. (Alternativas)** ¿Qué política laboral, implementada en 1979,
 restringió significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile?
 
 a) La Alianza para el Progreso

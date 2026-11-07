@@ -279,7 +279,7 @@ animales, hoy están prohibidos.
 
 **Ejemplo 1 — Los Juegos Olímpicos, una tradición de miles de años**
 
-::emoji::🎨::a la izquierda, atletas griegos antiguos compitiendo sin ropa en una pista de tierra,
+::emoji::🏛️::a la izquierda, atletas griegos antiguos compitiendo sin ropa en una pista de tierra,
 con espectadores en gradas de piedra; a la derecha, atletas actuales en un estadio moderno con
 la bandera olímpica::
 
@@ -298,7 +298,7 @@ manteniendo viva una tradición muy antigua, aunque con diseños propios de nues
 
 **Ejemplo 3 — El Coliseo de Roma y un estadio chileno**
 
-::emoji::🎨::a la izquierda, el Coliseo de Roma, un gran anfiteatro ovalado de piedra; a la
+::emoji::🏛️::a la izquierda, el Coliseo de Roma, un gran anfiteatro ovalado de piedra; a la
 derecha, un estadio de fútbol chileno moderno, con gradas y techo::
 
 *Paso a paso:* identificamos que ambos edificios cumplen una función parecida: reunir a mucha
@@ -321,11 +321,11 @@ que todavía existe hoy en muchos lugares, incluyendo Chile.
 
 ---
 
-**2. (Verdadero o Falso)** Los griegos y los romanos eran politeístas, es decir, creían en un
+**2. (Verdadero o Falso)** Los griegos y los romanos eran monoteístas, es decir, creían en un
 solo dios.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Politeísta significa creer en muchos dioses, no en uno solo. Griegos y
+💬 *Retroalimentación:* Eran politeístas: creían en muchos dioses, no en uno solo. Griegos y
 romanos adoraban a distintos dioses, cada uno relacionado con un aspecto de la vida.
 
 ---
@@ -439,7 +439,7 @@ que su costa está bañada por el océano Pacífico.
 
 **Ejemplo 1 — Dividiendo el globo terráqueo por la mitad**
 
-::emoji::🌊::un globo terráqueo con una línea roja horizontal que lo rodea justo por el medio, con
+::emoji::🌍::un globo terráqueo con una línea roja horizontal que lo rodea justo por el medio, con
 la etiqueta "línea del Ecuador", y flechas que señalan "hemisferio norte" arriba de la línea y
 "hemisferio sur" debajo::
 
@@ -793,7 +793,7 @@ garantizar estos derechos:
 
 **Ejemplo 1 — La alimentación escolar de JUNAEB**
 
-::emoji::🎨::un comedor escolar donde estudiantes reciben una bandeja con almuerzo, y un cartel en
+::emoji::🍽️::un comedor escolar donde estudiantes reciben una bandeja con almuerzo, y un cartel en
 la pared que dice "JUNAEB - Programa de Alimentación Escolar"::
 
 *Paso a paso:* identificamos que este programa concreto garantiza el **derecho a la

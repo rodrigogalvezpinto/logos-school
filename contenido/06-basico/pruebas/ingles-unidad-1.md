@@ -39,7 +39,6 @@ d) Ride a bike
 
 **2.** *(Verdadero o falso)* Read: *"The pharmacy is in front of the school, next
 to the bank."* Statement: *The pharmacy is behind the school.*
-V ☐  F ☐
 
 **3.** *(Completar)* Complete with "can" or "can't": *A fish ___ swim, but it ___
 fly.*
@@ -75,7 +74,6 @@ d) catched
 
 **7.** *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
 minutes."* Esto corresponde a instrucciones para preparar comida.
-V ☐  F ☐
 
 **8.** *(Alternativas — comprensión)* Read a menu: *"Menu: Pizza — $4.000. Salad —
 $2.000. Juice — $1.000."* Answer: *How much is the pizza?*
@@ -94,7 +92,6 @@ d) There are lions at the zoo.
 **10.** *(Verdadero o falso)* Read: *"Martina doesn't like the desert; she thinks
 it's boring. She prefers the beach."* Statement: *Martina thinks the desert is
 exciting.*
-V ☐  F ☐
 
 **11.** *(Completar)* Complete: *I ___ camping is fun, because you can see the
 stars at night.*

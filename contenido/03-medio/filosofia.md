@@ -236,7 +236,7 @@ que preguntarse qué significa exactamente "justicia".
 
 13. *(Alternativas — Valor — intermedio)* Ante una canción que a un amigo le encanta y a ti te parece mala, ¿qué pregunta exige reflexión conceptual y no solo un dato?
     a) "¿La belleza de una obra depende de reglas objetivas o solo de quien la percibe?"
-    b) "¿Cuántas reproducciones tiene la canción en las plataformas de música? digital"
+    b) "¿Cuántas reproducciones tiene la canción en las plataformas de música digital?"
     c) "¿Cuánto dura la canción y cuántas veces se repite el coro?"
     d) "¿En qué año se publicó?"
     **Respuesta correcta:** a) "¿La belleza de una obra depende de reglas objetivas o solo de quien la percibe?".
@@ -351,7 +351,7 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
    **Retroalimentación:** Cada teoría responde distinto a "qué es lo fundamentalmente real".
 
 4. *(Alternativas — Análisis de caso — intermedio)* El "barco de Teseo" cambia tabla por tabla hasta que no queda ninguna pieza original. ¿Qué pregunta ontológica general plantea?
-   a) Cuánto cuesta reparar un barco tabla por tabla, comparado con construir uno nuevo dañada por el uso
+   a) Cuánto cuesta reparar un barco tabla por tabla, comparado con construir uno nuevo
    b) Quién construyó el barco
    c) La identidad a través del cambio: qué hace que algo siga siendo "lo mismo" pese a que cambien sus partes
    d) Qué madera es más resistente para reemplazar las tablas originales del barco
@@ -440,7 +440,7 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
 
 13. *(Varias correctas — Identidad — intermedio)* Sobre la identidad que una persona construye en redes sociales, distinta de su forma de ser fuera de línea, ¿qué respuestas vinculan coherentemente el caso con el problema ontológico de la identidad? Marca **todas** las correctas.
     a) La identidad puede tener múltiples facetas (online y offline) que igualmente forman parte de quién es la persona
-    b) La persona "real" es solo la de fuera de línea, porque la identidad es una sola cosa fija
+    b) Postura defendible: si la identidad es una sola esencia fija, la persona "real" sería solo la de fuera de línea
     c) El caso no tiene relación con la identidad
     d) Las redes sociales hacen que las personas dejen de existir
     **Respuesta correcta:** a y b.
@@ -452,7 +452,7 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
     a) "¿Por qué algunas personas sienten más ansiedad que otras frente a la misma situación?"
     b) "¿Qué tipo de entidad es 'la mente': es lo mismo que el cerebro, algo
        distinto, o depende de él sin ser idéntica?"
-    c) "¿Qué técnicas ayudan a reducir el estrés y la ansiedad antes de rendir una prueba importante? escolar"
+    c) "¿Qué técnicas ayudan a reducir el estrés y la ansiedad antes de rendir una prueba escolar importante?"
     d) "¿Cuántas horas de sueño necesita en promedio un adolescente?"
     **Respuesta correcta:** b.
     **Retroalimentación:** Las opciones (a), (c) y (d) son preguntas
@@ -640,7 +640,7 @@ tomando —sin saberlo— una postura epistemológica.
     política tiene 100% de razón, entonces da exactamente lo mismo cuál
     apoyar, todas son igual de válidas o inválidas." ¿Qué error
     epistemológico comete principalmente esta afirmación?
-    a) Ninguno, es una conclusión perfectamente crítica: si nada es seguro, todas las posturas valen lo mismo Es la postura más prudente..
+    a) Ninguno, es una conclusión perfectamente crítica: si nada es seguro, todas las posturas valen lo mismo.
     b) Confunde la ausencia de certeza absoluta con la imposibilidad de
        distinguir posturas mejor o peor justificadas por evidencia y
        argumentos.
@@ -851,7 +851,7 @@ resto del sistema, como en geometría).
     entregar todo tarde siempre, y el colegio entero se va a desordenar por
     completo." ¿Qué falacia se comete en este razonamiento?
     a) Ad hominem: se descalifica a los estudiantes que entregan tarde en lugar de discutir la medida propuesta por el colegio.
-    b) Apelación a la autoridad: se apoya la conclusión en la opinión del colegio, sin justificar por qué una entrega tardía causaría desorden del colegio.
+    b) Apelación a la autoridad: se apoya la conclusión en la opinión del colegio, sin justificar por qué una entrega tardía causaría desorden.
     c) Pendiente resbaladiza: se afirma, sin justificación suficiente, que
        un paso moderado desencadenará inevitablemente una cadena de
        consecuencias extremas.

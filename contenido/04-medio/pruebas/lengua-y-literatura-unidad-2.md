@@ -16,7 +16,7 @@ ultima_actualizacion: 2026-10-28
 
 **Tiempo sugerido:** 30-35 minutos. **Preguntas:** 14.
 
-Lee los estímulos incluidos a continuación. Las preguntas 1 a 7 se basan en la columna; las preguntas 8 a 14, en las versiones (a) y (b). No se requiere estudio previo de la guía.
+Lee los estímulos incluidos a continuación para responder las preguntas 1 a 14: una columna de opinión y dos versiones de un texto, (a) y (b). Cada pregunta indica si se refiere a la columna o a las versiones. No se requiere estudio previo de la guía.
 
 **Columna de opinión — «Por qué Chile no puede seguir regalando su cobre»**
 

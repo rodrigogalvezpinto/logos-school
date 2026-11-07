@@ -146,7 +146,7 @@ d) La Perestroika
 ---
 
 **14. (Verdadero o Falso)** La recuperación de la democracia en Chile durante la década de 1980
-tuvo como único factor: la crisis económica de 1982.
+tuvo como único factor la crisis económica de 1982.
 
 a) Verdadero
 b) Falso

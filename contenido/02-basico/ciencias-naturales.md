@@ -91,7 +91,7 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    rana necesita una laguna o un charco de agua limpia para poder reproducirse.
 
 2. **Comparar el ciclo de un ave y el de un mamífero.**
-   ::emoji::🎨::un nido con huevos de queltehue junto a una guanaca con su cría recién
+   ::emoji::🥚::un nido con huevos de queltehue junto a una guanaca con su cría recién
    nacida::
    El queltehue (un ave típica de Chile) pone huevos en un nido; de ahí nace un
    polluelo cubierto de plumón que aún no puede volar. El guanaco, en cambio, no
@@ -186,8 +186,8 @@ Un animal está **en peligro de extinción** cuando quedan tan pocos ejemplares 
 naturaleza que existe un riesgo real de que la especie desaparezca para siempre. En
 Chile hay varios animales **nativos** (que son propios de nuestro país o de esta
 parte del continente) que están en esta situación. En el **norte**, el **picaflor de
-Arica** es un pajarito muy pequeño que está en peligro crítico porque su hábitat de
-humedales se ha reducido mucho. En el **sur**, el **huemul** —un ciervo que aparece
+Arica** es un pajarito muy pequeño que está en peligro crítico porque su hábitat —valles
+con flores nativas— se ha reducido mucho. En el **sur**, el **huemul** —un ciervo que aparece
 en el escudo de Chile, junto al cóndor— está en peligro porque se han talado los
 bosques donde vive y compite por alimento con animales introducidos, como el
 ganado. También en el sur, la **rana de Darwin** está en peligro porque los bosques
@@ -211,15 +211,15 @@ bosques, ríos y humedales donde viven.
    partes de su hábitat y porque animales introducidos, como vacas y ovejas, le
    quitan alimento.
 
-2. **El picaflor de Arica y su humedal.**
-   ::emoji::🌸::un picaflor pequeño volando cerca de un humedal en el desierto del
+2. **El picaflor de Arica y su valle.**
+   ::emoji::🌸::un picaflor pequeño volando entre flores de un valle del desierto del
    norte de Chile::
-   El picaflor de Arica vive solo en algunos humedales del extremo norte de Chile.
-   Como esos humedales son escasos y se han visto afectados por la construcción y
+   El picaflor de Arica vive solo en algunos valles del extremo norte de Chile (Azapa, Lluta,
+   Camarones). Como esos valles con flores son escasos y se han visto afectados por la construcción y
    la contaminación, este pajarito está en peligro crítico de extinción.
 
 3. **Proponer medidas de protección.**
-   ::emoji::🎨::un cartel de "Parque Nacional" en la entrada de un área protegida con
+   ::emoji::🏞️::un cartel de "Parque Nacional" en la entrada de un área protegida con
    bosque nativo::
    Una forma de proteger a los animales en peligro es crear parques nacionales
    donde su hábitat esté cuidado y protegido por ley, sin caza ni construcción.
@@ -249,8 +249,8 @@ bosques, ríos y humedales donde viven.
    a) En el sur austral, entre bosques y montañas
    b) En los bosques húmedos del sur
    c) En la Antártica
-   d) En los humedales del extremo norte
-   **Respuesta correcta:** d) En los humedales del extremo norte.
+   d) En los valles del extremo norte, cerca de Arica
+   **Respuesta correcta:** d) En los valles del extremo norte, cerca de Arica.
    **Retroalimentación:** ¡Bien hecho! El picaflor de Arica vive en el extremo norte, el
    huemul en el sur austral y la rana de Darwin en los bosques húmedos del sur. Cada animal
    en peligro necesita un hábitat particular, y por eso perder ese hábitat los afecta tanto.
@@ -287,7 +287,7 @@ bosques, ríos y humedales donde viven.
    d) La rana de Darwin está en peligro porque llueve en su hábitat.
    **Respuesta correcta:** a) La chinchilla chilena casi desapareció porque la cazaron para obtener su piel.
    **Retroalimentación:** ¡Buen trabajo! La caza de la chinchilla por su piel y la
-   reducción de los humedales del picaflor de Arica son causas reales. Conocer las causas
+   reducción del hábitat del picaflor de Arica son causas reales. Conocer las causas
    es el primer paso para saber cómo proteger a estos animales.
 
 ---
@@ -904,14 +904,14 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
    nieve en la cordillera. Primavera → clima templado y flores.
 
 2. **Los animales y el invierno.**
-   ::emoji::🎨::una ardilla juntando semillas en otoño, y la misma ardilla en su
+   ::emoji::🐿️::una ardilla juntando semillas en otoño, y la misma ardilla en su
    madriguera durante el invierno::
    Algunos animales cambian su comportamiento antes del invierno: juntan y guardan
    alimento durante el otoño, cuando todavía hay comida disponible, para poder
    sobrevivir cuando escasea en los meses más fríos.
 
 3. **Ubicar las estaciones en un calendario.**
-   ::emoji::🌊::un calendario anual dividido en cuatro colores distintos, cada uno
+   ::emoji::📅::un calendario anual dividido en cuatro colores distintos, cada uno
    representando una estación::
    En Chile, el verano ocurre aproximadamente entre diciembre y marzo, el otoño
    entre marzo y junio, el invierno entre junio y septiembre, y la primavera entre

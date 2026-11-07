@@ -1302,7 +1302,7 @@ d) 1-A, 2-C, 3-B
 **12. (Alternativas — análisis de caso)** Un solo grupo económico es dueño de una plataforma de noticias, dos canales de TV y un diario nacional. ¿Qué riesgo ejemplifica y qué podría mitigarlo?
 a) Desinformación coordinada; no se puede mitigar, porque los dueños de medios tienen derecho a publicar lo que quieran
 b) Pluralismo; no requiere medidas
-c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y prohibiendo los diarios digitales en el país que más se usan
+c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y prohibiendo los diarios digitales
 d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso
 
 ✅ Respuesta correcta: **d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso**

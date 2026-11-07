@@ -35,3 +35,15 @@ def test_quita_la_numeracion_de_rangos_que_el_barajado_vuelve_falsa():
         "Lee estas instrucciones y responde la pregunta siguiente: >"
     assert quitar_numeracion_de_rangos("Lee esta nota y responde las preguntas 1 y 2:") == \
         "Lee esta nota y responde las preguntas siguientes:"
+
+
+def test_quita_los_parentesis_que_numeran_las_preguntas_de_un_texto():
+    # Hallazgo 2026-11-07: 220 enunciados de pruebas y simulacros mostraban
+    # «## Texto 4 (para las preguntas 9 a 13 y 22)» aunque el orden ya no es ese.
+    assert quitar_numeracion_de_rangos('## Texto 4 (para las preguntas 9 a 13 y 22): "El agua"') == \
+        '## Texto 4: "El agua"'
+    assert quitar_numeracion_de_rangos("### Texto 2 (también para las preguntas 1 a 4)") == "### Texto 2"
+    assert quitar_numeracion_de_rangos("## Texto 1 (preguntas 1 a 5): columna") == "## Texto 1: columna"
+    assert quitar_numeracion_de_rangos("Usa el gráfico para responder las preguntas 8 y 9.") == \
+        "Usa el gráfico para responder las preguntas siguientes."
+    assert quitar_numeracion_de_rangos("(1) y (2) son correctas") == "(1) y (2) son correctas"

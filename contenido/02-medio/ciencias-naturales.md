@@ -796,7 +796,7 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    **Retroalimentación:** Que la fuerza neta sea cero no significa que no actúen fuerzas, sino que su suma vectorial es nula.
 
 7. *(Alternativas — Diseño experimental)* ¿Qué experimento comprueba que, con una misma fuerza, un objeto de mayor masa acelera menos?
-   a) Empujar el mismo carrito con fuerzas distintas y medir cuánto demora en recorrer la misma distancia con cada fuerza aplicada por el carrito
+   a) Empujar el mismo carrito con fuerzas distintas y medir cuánto demora en recorrer la misma distancia con cada fuerza
    b) Empujar dos carritos de distinta masa con un elástico estirado la misma distancia y medir cuánto demora cada uno en recorrer la misma distancia
    c) Pesar los carritos sin moverlos
    d) Empujar carritos de distinta masa con fuerzas distintas al azar y comparar a simple vista cuál llega primero a la meta

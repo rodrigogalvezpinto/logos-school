@@ -250,7 +250,7 @@ d) —Me gusta mucho el helado de chocolate —dijo Tomás, contento, junto al k
 
 ## Sección de Escritura informativa (para las preguntas 22 a 25)
 
-**22. (Alternativas)** Según el **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **Texto A** ("Atrapando agua del aire en Alto Hospicio")?
+**22. (Alternativas)** Dentro del **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **Texto A** ("Atrapando agua del aire en Alto Hospicio")?
 
 a) El principio físico por el cual las mallas de los atrapanieblas capturan agua
 b) El impacto social de los atrapanieblas en la comunidad de Alto Hospicio

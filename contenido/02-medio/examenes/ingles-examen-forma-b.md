@@ -228,7 +228,7 @@ c) visits
 d) will visit
 
 **25.** *(Selección múltiple — desafiante)* ¿Qué oración usa correctamente
-un pronombre reflexivo para dar énfasis?
+un pronombre reflexivo?
 
 a) She prepared her for the interview all week.
 b) She prepared herself for the interview all week.

@@ -265,7 +265,7 @@ b) Hipótesis: los recreos no deberían existir, porque se pierde tiempo de clas
 c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso
 d) Hipótesis: prohibir el celular siempre es la mejor solución para la convivencia. Recurso: ninguno, porque escribir sin planificar permite expresar las ideas de manera más espontánea y sincera
 
-**25. (Alternativas — texto integrado)** ¿Qué par de párrafos (introducción y conclusión) cumple lo pedido para el ensayo de la pregunta 24?
+**25. (Alternativas — texto integrado)** Para el ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", con la hipótesis "más que prohibir, conviene ofrecer actividades atractivas en los recreos", ¿qué par de párrafos (introducción y conclusión) presenta la hipótesis, considera un contraargumento y cierra retomándola?
 
 a) Introducción: "Algunos creen que prohibir el celular en los recreos es la única forma de recuperar la convivencia; sin embargo, la prohibición sola no basta si no hay alternativas atractivas." Conclusión: "Por eso, más que prohibir, el colegio debe ofrecer espacios que hagan preferible convivir sin pantallas, como muestran los argumentos revisados."
 b) Introducción: "Los celulares son aparatos muy útiles y casi todos los estudiantes tienen uno." Conclusión: "Por eso, los colegios deberían enseñar a programar aplicaciones, porque la tecnología será importante en el futuro laboral de todos." (sin hipótesis ni contraargumento, y con un tema nuevo al final)

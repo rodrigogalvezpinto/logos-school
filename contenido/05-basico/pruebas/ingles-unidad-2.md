@@ -43,7 +43,7 @@ c) snowy
 d) sunny
 
 **3.** *(Alternativas)* ¿Qué palabra falta para completar correctamente: *"Dear
-Mom, ___ Diego."* (modelo de despedida en una postal)
+Mom, ___ Diego."* (modelo de despedida en una postal)?
 a) Hello,
 b) And
 c) Where,

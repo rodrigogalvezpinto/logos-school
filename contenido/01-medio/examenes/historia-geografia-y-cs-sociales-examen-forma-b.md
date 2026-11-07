@@ -118,7 +118,7 @@ d) Los obreros salitreros
 
 ---
 
-**Pregunta 6.** (2 puntos) — *Alternativas*
+**Pregunta 6.** (2 puntos)
 ¿Por qué el período entre la independencia y 1830 se caracteriza como de "ensayos constitucionales" e inestabilidad política en Chile?
 
 a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833
@@ -170,7 +170,7 @@ d) Temuco
 
 ---
 
-**Pregunta 10.** (2 puntos) — *Alternativas*
+**Pregunta 10.** (2 puntos)
 ¿Por qué se afirma que los impactos de la ocupación de la Araucanía sobre la sociedad mapuche fueron "profundos y duraderos"?
 
 a) Porque la ocupación no tuvo consecuencias después del siglo XIX: los mapuches recuperaron sus tierras y su autonomía poco tiempo después de terminado el proceso
@@ -231,7 +231,8 @@ d) La Guerra del Pacífico contra Perú y Bolivia
 
 ---
 
-**Pregunta 15.** (3 puntos) — *Varias correctas*
+**Pregunta 15.** (3 puntos)
+*(Varias correctas: marca todas las alternativas correctas.)*
 
 > **Estímulo:** "En diciembre de 1907, miles de trabajadores del salitre y sus familias, reunidos
 > en huelga en la Escuela Santa María de Iquique para exigir mejoras salariales y de seguridad,
@@ -261,7 +262,7 @@ d) Fundar los primeros partidos políticos obreros
 
 ---
 
-**Pregunta 17.** (2 puntos) — *Alternativas*
+**Pregunta 17.** (2 puntos)
 ¿Cómo contribuyeron la burocracia estatal y las redes de transporte y comunicación (caminos, ferrocarriles, telégrafo) a una administración efectiva del territorio?
 
 a) Ambas aislaron a las regiones del gobierno central, porque los funcionarios y las nuevas vías permitieron que cada provincia se administrara de forma autónoma, sin rendir cuentas a Santiago
@@ -317,7 +318,7 @@ d) El liberalismo clásico
 
 ---
 
-**Pregunta 21.** (2 puntos) — *Alternativas*
+**Pregunta 21.** (2 puntos)
 ¿Cuál es la diferencia principal entre la respuesta del liberalismo y la del socialismo frente a la cuestión social?
 
 a) El liberalismo proponía abolir la propiedad privada y planificar la economía desde el Estado; el socialismo, en cambio, defendía el libre mercado y rechazaba cualquier intervención estatal
@@ -339,7 +340,7 @@ d) Aymará
 
 ---
 
-**Pregunta 23.** (2 puntos) — *Alternativas*
+**Pregunta 23.** (2 puntos)
 ¿Qué pareja de ejemplos sobre el pueblo Rapa Nui y el Estado de Chile muestra que su relación no ha sido uniforme?
 
 a) Conflicto: la anexión de 1888 y las restricciones a la movilidad y a la tierra. Convivencia: los avances legales actuales de reconocimiento y protección
@@ -362,7 +363,7 @@ d) La disminución de la población urbana en las ciudades industriales
 
 ---
 
-**Pregunta 25.** (3 puntos) — *Alternativas*
+**Pregunta 25.** (3 puntos)
 
 > **Estímulo:** "Numerosos ríos y zonas costeras cercanas a antiguos centros industriales y
 > mineros del siglo XIX y XX presentan hoy altos niveles de contaminación por metales pesados y

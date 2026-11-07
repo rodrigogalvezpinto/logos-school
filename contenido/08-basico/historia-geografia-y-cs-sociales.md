@@ -1156,7 +1156,7 @@ d) 2 → 1 → 3 → 4
 
 1) Patria Vieja — 2) Reconquista — 3) Patria Nueva
 
-Descripciones: (A) Período en que fuerzas realistas recuperaron temporalmente el control colonial — (B) Primer período de gobiernos patriotas, iniciado en 1810 — (C) Período que culmina con la declaración de independencia en 1818
+Descripciones: (A) Período en que fuerzas realistas recuperaron temporalmente el control colonial — (B) Primer período de gobiernos patriotas, iniciado en 1810 — (C) Período iniciado tras el triunfo de Chacabuco (1817), en el que se declaró la independencia (1818)
 
 ¿Qué combinación es correcta?
 a) 1-B, 2-A, 3-C

@@ -23,7 +23,7 @@ ultima_actualizacion: 2026-10-28
 
 **Pregunta 1 (alternativas).** ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia entre la ciudadanía en la Atenas clásica y en la sociedad actual?
 a) En Atenas, la ciudadanía incluía a todas las personas por igual; hoy está más restringida
-b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se reconoce a todos los habitantes adultos de un país
+b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social
 c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción
 d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la época moderna con las revoluciones del siglo XVIII
 
@@ -116,7 +116,7 @@ d) Que solo se relacionaron mediante guerras por el territorio, sin ningún tipo
 
 ## Pauta de respuestas
 
-1. b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se reconoce a todos los habitantes adultos de un país.
+1. b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social.
 2. Verdadero. Mientras en Atenas los ciudadanos participaban directamente en la Asamblea, hoy la mayoría de las democracias eligen representantes.
 3. a) 1-B, 2-A, 3-C
 4. d) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a las mujeres y no excluye a grupos como los esclavos o los extranjeros de origen. Se identifica un elemento de continuidad (la participación) y uno de cambio (la ampliación de la ciudadanía).

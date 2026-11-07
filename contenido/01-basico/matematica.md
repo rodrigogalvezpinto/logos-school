@@ -146,7 +146,7 @@ Vas a comparar dos números usando las palabras **"mayor que"** y **"menor que"*
 Mateo tiene 7 figuritas y Antonia tiene 11 figuritas.
 
 
-::emoji::🎨::a la izquierda 7 figuritas, a la derecha 11 figuritas::
+::emoji::🧒::a la izquierda 7 figuritas, a la derecha 11 figuritas::
 
 
 Comparamos: 11 es mayor que 7, porque al contar hasta 11 pasamos por el 7 y seguimos contando más. Entonces: **11 es mayor que 7**, y **7 es menor que 11**.
@@ -329,7 +329,7 @@ Vas a aprender que, al agrupar 10 elementos, se forma **1 decena**, y que los el
 Benjamín tiene 14 cubos. Los agrupa de a 10.
 
 
-::emoji::🌊::un grupo de 10 cubos amarrados juntos, y 4 cubos sueltos al lado::
+::emoji::🧮::un grupo de 10 cubos amarrados juntos, y 4 cubos sueltos al lado::
 
 
 Se forma **1 grupo de 10** (1 decena) y quedan **4 cubos sueltos** (4 unidades). Por eso decimos que 14 tiene **1 decena y 4 unidades**.
@@ -529,7 +529,7 @@ Vas a reconocer **patrones repetitivos** (que se repiten siempre igual, como col
 **Ejemplo 1 — Patrón repetitivo con figuras**
 
 
-::emoji::🎨::círculo, triángulo, círculo, triángulo, círculo, ___::
+::emoji::🔺::círculo, triángulo, círculo, triángulo, círculo, ___::
 
 
 La secuencia se repite: círculo, triángulo, círculo, triángulo... Como el patrón se repite de dos en dos, después del quinto elemento (círculo) sigue un **triángulo**.

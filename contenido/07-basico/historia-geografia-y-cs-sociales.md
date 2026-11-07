@@ -1431,8 +1431,8 @@ Muchos de los conceptos políticos que usamos hoy tienen su origen —o se trans
 significativamente— en el mundo clásico (Grecia y Roma) y en la Edad Media:
 
 - **Ciudadanía:** en Atenas, era un estatus restringido a hombres libres nacidos de padres
-  atenienses; hoy, en cambio, se reconoce a todos los habitantes adultos de un país,
-  independientemente de su sexo u origen familiar.
+  atenienses; hoy, en cambio, se extiende a mujeres y hombres adultos, independientemente
+  de su sexo, riqueza u origen familiar (en Chile, desde los 18 años).
 - **Democracia:** en Atenas, implicaba la participación directa de los ciudadanos en la
   Asamblea; hoy, la mayoría de las democracias son **representativas**: los ciudadanos eligen
   representantes que toman las decisiones políticas en su nombre.
@@ -1482,13 +1482,13 @@ democrática.
 diferencia entre la ciudadanía en la Atenas clásica y en la sociedad actual?
 
 a) En Atenas, la ciudadanía incluía a todas las personas por igual; hoy está más restringida
-b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se reconoce a todos
-los habitantes adultos de un país
+b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos,
+sin distinción de sexo ni condición social
 c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción
 d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la época moderna con las revoluciones del siglo XVIII
 
 ✅ Respuesta correcta: **b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros;
-hoy se reconoce a todos los habitantes adultos de un país**
+hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social**
 💬 *Retroalimentación:* La noción de ciudadanía se ha ampliado significativamente desde la
 Atenas clásica hasta la actualidad, incorporando a grupos que antes estaban excluidos.
 

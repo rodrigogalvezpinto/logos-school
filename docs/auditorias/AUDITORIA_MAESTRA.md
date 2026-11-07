@@ -1317,3 +1317,60 @@ Las aprobaciones de §15.9–15.22 sobre ítems cerrados no modificados se conse
 - Backend: 721 pasados (+1 omitido).
 - Frontend: 98 pasados, con un test nuevo de los marcadores.
 - E2E Chromium: 1.° básico 18/18 y 4.° básico 18/18. El spec exige además que no se vean marcadores crudos.
+
+### 15.28 Revisión ítem por ítem — 2.° básico a 4.° medio y defectos transversales (2026-11-07)
+
+**Alcance.** Diez cursos: 2.°, 3.°, 5.°, 6.°, 7.° y 8.° básico, y 1.° a 4.° medio. Se revisan guías, pruebas y simulacros con el método de §15.26.
+- Cada clave de Matemática y Física se recalcula a mano.
+- Las claves de Lenguaje se contrastan con el texto.
+- Historia y Educación Ciudadana se contrastan con fechas y normas.
+- Las preguntas idénticas a una ya revisada no se releen.
+
+Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
+
+**Defectos transversales corregidos.**
+
+1. *Etiquetas de formato en el enunciado.* 48 enunciados de Historia, de 5.° básico a 2.° medio, empezaban con «— Alternativas» o «— Varias correctas». El parser de pruebas y simulacros ahora usa la etiqueta para detectar el tipo y la quita del enunciado (`RE_ETIQUETA_TIPO`), con su test.
+2. *Numeración vieja en encabezados de lectura.* 220 enunciados conservaban encabezados como «Texto 4 (para las preguntas 9 a 13 y 22)», aunque el orden cambia al barajar. `quitar_numeracion_de_rangos` ahora elimina esos paréntesis y también reescribe «para responder las preguntas N a M». Tiene test.
+3. *Referencias a otra pregunta.* Dos casos dependían de una pregunta que no se ve junto a ellos:
+   - En 3.° medio Matemática, «con la tabla de la pregunta 13»: ahora la tabla va incluida en la pregunta.
+   - En 2.° medio Lengua, «el ensayo de la pregunta 24»: ahora el enunciado incluye el tema y la hipótesis.
+4. *Distractores con cola pegada.* Una pasada anterior de alargamiento de distractores dejó finales sin sentido. Ejemplos: «disminuyeron fiscales del Estado tras la guerra», «música? digital», «programa latinoamericana», «del año». Se reescribieron 19 casos, sobre todo en 1.° a 4.° medio, y se rastreó el corpus por patrones de cola.
+5. *Restos del formato papel.* Se eliminaron las casillas «V ☐ F ☐» y «V ___ F ___». Dos preguntas de verdadero o falso de 4.° medio CpC conservaban además «Justifica tu respuesta.», y el parser las volvía abiertas. Se corrigieron, y la guarda de corpus cerrado vuelve a pasar.
+6. *Enunciado truncado.* En 3.° medio Educación Ciudadana, OA 4#2, el salto de línea «respuesta / correcta» se leía como la marca de la clave. Se reescribió el enunciado.
+7. *Referencias meta.* Preguntas de pruebas y simulacros decían «mencionada en este objetivo» o «estudiada en este OA». Se quitaron esas frases.
+
+**Correcciones de contenido.**
+
+*Básica.*
+- 5.° básico:
+  - CN 13: «microorganismos» pasa a «organismos», porque el champiñón no es microorganismo.
+  - Lenguaje 17: «Te invita» no prueba que el afiche se dirija a un público amplio; se reemplazó.
+- 6.° básico:
+  - Historia 23: la instrucción salía duplicada.
+  - Lenguaje 22: enunciado reformulado.
+- 7.° básico:
+  - La ciudadanía actual se describía como «todos los habitantes adultos»; ahora dice mujeres y hombres adultos, sin distinción de sexo ni condición social.
+- 8.° básico:
+  - La Patria Nueva no «culmina» en 1818; se corrigió.
+  - En Matemática P5, la etiqueta «(alternativas — forma a(x + b) = c)» filtraba «= c).» al enunciado.
+
+*Media.*
+- 1.° medio:
+  - La Calchona pasa a ser «tradición oral campesina chilena», no exclusiva del Norte Chico.
+  - Se corrigieron tres distractores de Historia.
+- 2.° medio:
+  - El Plan Laboral es de 1979.
+  - Inglés: el ítem de verdadero o falso «problem-solution» tenía clave V en la guía y F en la prueba. Era una afirmación no sustentada; se reformuló y ahora la clave es V en ambas.
+  - Inglés: «reflexivo para dar énfasis» no correspondía a «He cut himself»; se corrigió.
+- 3.° medio:
+  - Filosofía: se aclaró una opción de «varias correctas» que se presentaba como postura.
+- 4.° medio:
+  - Lengua U2: la introducción conserva el rango «preguntas 1 a 14», que el parser necesita para adjuntar los estímulos.
+
+**Revisadas sin hallazgos.** Matemática completa de 2.° básico a 4.° medio, con todas las claves recalculadas: interés compuesto, TEA, binomial, trigonometría, circunferencia, estadística y probabilidad total, entre otras. Todas resultaron correctas.
+
+**Verificación.**
+- Validador: 0 discrepancias en 265 archivos.
+- Backend: 664 pruebas (`tests/` y `scripts/tests`), incluida la guarda de corpus cerrado. Antes de esta corrida, el test de estímulos de 4.° medio fallaba por la redacción y ya se corrigió.
+- E2E Chromium: corrida completa de 263 pruebas con 1 falla. Era el simulacro de CpC 4.° medio con la importación anterior, ya corregido en la fuente. Tras reimportar, 2.°, 3.° y 4.° medio dan 72/72. La corrida final en los 3 navegadores sigue pendiente.

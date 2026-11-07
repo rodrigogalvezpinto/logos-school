@@ -333,7 +333,7 @@ d) La formación de la Unión Europea, que reunió a varios países en una sola 
 **5. (Alternativas)** ¿Qué tensión existía entre centralismo y federalismo en la formación de los nuevos Estados del siglo XIX?
 a) Si el Estado debía tener o no una bandera y un himno propios, distintos de los de España
 b) Si se debía volver a ser colonia de España o mantener la independencia recién obtenida
-c) Qué idioma extranjero debía enseñarse en las escuelas de cada provincia y quién lo decidía de los nuevos Estados
+c) Qué idioma extranjero debía enseñarse en las escuelas de cada provincia de los nuevos Estados y quién lo decidía
 d) Cuánto poder debía concentrar el gobierno central y cuánta autonomía debían conservar las regiones o provincias
 
 ✅ Respuesta correcta: **d) Cuánto poder debía concentrar el gobierno central y cuánta autonomía debían conservar las regiones o provincias**
@@ -1064,7 +1064,7 @@ d) 1-B, 2-C, 3-A
 a) Una consecuencia económica central del triunfo militar: el control del salitre aumentó fuertemente los ingresos del Estado
 b) Que la guerra no tuvo consecuencias económicas, porque el salitre ya era chileno antes del conflicto
 c) Que Chile perdió las regiones salitreras
-d) Que el salitre dejó de exportarse tras la guerra y los ingresos fiscales disminuyeron fiscales del Estado tras la guerra
+d) Que el salitre dejó de exportarse tras la guerra y los ingresos fiscales del Estado disminuyeron
 
 ✅ Respuesta correcta: **a) Una consecuencia económica central del triunfo militar: el control del salitre aumentó fuertemente los ingresos del Estado**
 💬 *Retroalimentación:* Los datos posteriores a la guerra muestran la centralidad del factor económico.
@@ -1085,7 +1085,7 @@ d) Porque las tensiones previas se vinculaban al control y tributación del sali
 **6. (Alternativas — desafiante)** ¿Por qué las consecuencias territoriales de la Guerra del Pacífico siguen proyectándose en las relaciones entre Chile, Perú y Bolivia?
 a) Porque la guerra aún no termina oficialmente, ya que Chile, Perú y Bolivia nunca firmaron tratados de paz y siguen en estado de conflicto armado
 b) Porque los cambios territoriales, en especial la pérdida del acceso soberano al mar de Bolivia, no fueron aceptados de la misma manera por todos, manteniendo un tema sensible
-c) Porque Bolivia recuperó su litoral en 1900 mediante un tratado, y desde entonces Chile reclama esas regiones salitreras como parte de su territorio y Perú por la fuerza
+c) Porque Bolivia recuperó su litoral en 1900 mediante un tratado, y desde entonces Chile reclama por la fuerza esas regiones salitreras como parte de su territorio
 d) Porque no hubo cambios territoriales
 
 ✅ Respuesta correcta: **b) Porque los cambios territoriales, en especial la pérdida del acceso soberano al mar de Bolivia, no fueron aceptados de la misma manera por todos, manteniendo un tema sensible**
@@ -1928,7 +1928,7 @@ de desarrollo sostenible).
 #### Autoevaluación — OA 25
 
 **1. (Alternativas)** ¿Cuál de los siguientes es un impacto ambiental asociado al proceso de
-industrialización descrito en el objetivo?
+industrialización?
 
 a) El aumento de las áreas verdes urbanas, gracias a la construcción de fábricas
 b) El calentamiento global, por la emisión de gases de efecto invernadero

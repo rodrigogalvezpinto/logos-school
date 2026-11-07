@@ -55,7 +55,7 @@ b) 2 500 g
 c) 700 g
 d) 2 050 g
 
-**Pregunta 6 (ordenar por peso).** ¿Cuál es el orden de más liviano a más pesado de una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g).
+**Pregunta 6 (ordenar por peso).** ¿Cuál es el orden de más liviano a más pesado de una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g)?
 
 a) Sandía, manzana, galletas
 b) Galletas, manzana, sandía

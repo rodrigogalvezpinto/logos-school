@@ -9,7 +9,7 @@ export class EmojiPipe implements PipeTransform {
     if (!value) return value;
 
     // Patrón: ::emoji::🦋::una mariposa de colores volando::
-    const patron = /::emoji::([^:]+)::([^:]+)::/g;
+    const patron = /::emoji::([^:\s]+)::([\s\S]+?)::/g;
 
     const html = value.replace(patron, (match, emoji, descripcion) => {
       // Generar HTML con el emoji como un elemento visual

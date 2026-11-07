@@ -29,7 +29,7 @@ d) Congelación
 
 ---
 
-**Pregunta 2.** ¿Cuál es el orden de las etapas del ciclo del agua: precipitación (lluvia), condensación (nubes), evaporación.
+**Pregunta 2.** ¿Cuál es el orden de las etapas del ciclo del agua: precipitación (lluvia), condensación (nubes), evaporación?
 
 a) Evaporación → condensación (nubes) → precipitación (lluvia)
 b) Precipitación (lluvia) → evaporación → condensación (nubes)
