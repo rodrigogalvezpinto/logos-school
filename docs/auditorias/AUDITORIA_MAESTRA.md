@@ -1373,4 +1373,4 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
 **Verificación.**
 - Validador: 0 discrepancias en 265 archivos.
 - Backend: 664 pruebas (`tests/` y `scripts/tests`), incluida la guarda de corpus cerrado. Antes de esta corrida, el test de estímulos de 4.° medio fallaba por la redacción y ya se corrigió.
-- E2E Chromium: corrida completa de 263 pruebas con 1 falla. Era el simulacro de CpC 4.° medio con la importación anterior, ya corregido en la fuente. Tras reimportar, 2.°, 3.° y 4.° medio dan 72/72. La corrida final en los 3 navegadores sigue pendiente.
+- E2E Chromium: corrida completa de 263 pruebas con 1 falla. Era el simulacro de CpC 4.° medio con la importación anterior, ya corregido en la fuente. Tras reimportar, 2.°, 3.° y 4.° medio dan 72/72. Corrida final en los 3 navegadores (Chromium, Firefox y WebKit), tras reimportar: **792/792**, sin fallas (2026-11-07).
