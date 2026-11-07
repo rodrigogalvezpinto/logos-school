@@ -56,6 +56,7 @@ export function textoParaVoz(texto: string): string {
     .replace(/(^|\s)_([^_\n]+)_(?=\s|[.,;:!?]|$)/g, '$1$2')
     .replace(/[→⇒➜]/g, ', ')
     .replace(RE_PICTOGRAMA, ' ');
+  t = leerSimbolosMatematicos(t);
   return t
     .replace(/\(\s*[<>=]\s*\)/g, '') // «mayor que (>)»: ya está dicho con palabras
     .replace(/[ \t]+/g, ' ')
@@ -71,6 +72,24 @@ export function textoParaVoz(texto: string): string {
 
 // Alternativas que son solo un símbolo de comparación.
 const SIMBOLOS: Record<string, string> = { '<': 'menor que', '>': 'mayor que', '=': 'igual a' };
+
+const ORDINALES = ['', 'primero', 'segundo', 'tercero', 'cuarto', 'quinto', 'sexto', 'séptimo', 'octavo'];
+
+/** Símbolos que una voz sintética lee mal o no lee: se dicen con palabras. */
+function leerSimbolosMatematicos(t: string): string {
+  return t
+    .replace(/\$\s?(\d(?:[\d.]*\d)?)/g, '$1 pesos')
+    .replace(/(\d)\s*°\s*C\b/g, '$1 grados Celsius')
+    .replace(/\b([1-8])\s*°\s*(?=(básico|medio|año|ciclo)\b)/gi, (_m, n: string) => ORDINALES[+n] + ' ')
+    .replace(/(\d)\s*°/g, '$1 grados')
+    .replace(/(\d|\))\s*[×x·]\s*(?=[\d(])/g, '$1 por ')
+    .replace(/(\d|\))\s*÷\s*(?=\d)/g, '$1 dividido en ')
+    .replace(/(\d|\))\s*\+\s*(?=[\d(])/g, '$1 más ')
+    .replace(/(\d|\))\s*−\s*(?=[\d(])/g, '$1 menos ')
+    // Guion como resta solo entre números cortos («9 - 4»), no en años o rangos («2018-2019»).
+    .replace(/(^|[^\d])(\d{1,3})\s*-\s*(?=\d{1,3}(?!\d))/g, '$1$2 menos ')
+    .replace(/(\d|\)|…)\s*=\s*(?=[\d(…])/g, '$1 es igual a ');
+}
 
 export interface PreguntaParaVoz {
   tipo?: string;

@@ -1,13 +1,13 @@
 #!/bin/zsh
 # Pregraba la lectura en voz alta (guías y preguntas) con Kokoro (voz em_alex), sin costo y sin servicios externos.
-# Uso: DATABASE_URL=... scripts/voz/generar_audios.sh ["1° básico" "2° básico" ...]
+# Uso: DATABASE_URL=... scripts/voz/generar_audios.sh ["1° básico" … ] (por defecto, 1° a 4° básico: régimen A)
 # Salida: frontend/public/audio/es/<clave>.m4a + manifest.json (no versionados: ver .gitignore).
 # Primera vez: crea un entorno en ~/.cache/logos-voz y descarga el modelo (≈350 MB).
 set -e
 RAIZ=${0:A:h:h:h}
 CACHE=$HOME/.cache/logos-voz
 NIVELES=("$@")
-[[ $# -eq 0 ]] && NIVELES=("1° básico" "2° básico")
+[[ $# -eq 0 ]] && NIVELES=("1° básico" "2° básico" "3° básico" "4° básico")
 MODELO=$CACHE/kokoro-v1.0.onnx
 VOCES=$CACHE/voices-v1.0.bin
 if [[ ! -x $CACHE/venv/bin/python ]] || ! $CACHE/venv/bin/python -c "import kokoro_onnx" 2>/dev/null; then

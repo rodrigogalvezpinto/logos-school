@@ -65,7 +65,7 @@ describe('textoParaVoz - casos reales de 1°-2° básico', () => {
   });
 
   it('las alternativas de símbolo se dicen con palabras', () => {
-    expect(textoPreguntaParaVoz({ tipo: 'alternativas', enunciado: '9+4 ___ 15', opciones: ['>', '<', '='] })).toBe('9+4 … 15. a: mayor que. b: menor que. c: igual a.');
+    expect(textoPreguntaParaVoz({ tipo: 'alternativas', enunciado: '9+4 ___ 15', opciones: ['>', '<', '='] })).toBe('9 más 4 … 15. a: mayor que. b: menor que. c: igual a.');
   });
 });
 
@@ -77,7 +77,23 @@ describe('textoParaVoz - pausas', () => {
 
   it('no repite la instrucción de varias correctas', () => {
     expect(textoPreguntaParaVoz({ tipo: 'varias_correctas', enunciado: 'Marca todas las correctas: ¿cuáles suman 10?', opciones: ['5 + 5', '4 + 4'] })).toBe(
-      'Marca todas las correctas: ¿cuáles suman 10? a: 5 + 5. b: 4 + 4.',
+      'Marca todas las correctas: ¿cuáles suman 10? a: 5 más 5. b: 4 más 4.',
     );
+  });
+});
+
+describe('textoParaVoz - símbolos con palabras', () => {
+  it('lee pesos, operaciones, igualdades y ordinales de curso', () => {
+    expect(textoParaVoz('Se juntaron $145 y $230.')).toBe('Se juntaron 145 pesos y 230 pesos.');
+    expect(textoParaVoz('Cuesta $1.500.')).toBe('Cuesta 1.500 pesos.');
+    expect(textoParaVoz('24÷4=6 y 7×6=42.')).toBe('24 dividido en 4 es igual a 6 y 7 por 6 es igual a 42.');
+    expect(textoParaVoz('9 + 4 − 3 = 10')).toBe('9 más 4 menos 3 es igual a 10');
+    expect(textoParaVoz('En 2° básico sumabas.')).toBe('En segundo básico sumabas.');
+    expect(textoParaVoz('Hace 25 °C.')).toBe('Hace 25 grados Celsius.');
+  });
+
+  it('no toca horas, años ni rangos', () => {
+    expect(textoParaVoz('Vuelvo a las 1:30.')).toBe('Vuelvo a las 1:30.');
+    expect(textoParaVoz('Entre 2018-2019 llovió.')).toBe('Entre 2018-2019 llovió.');
   });
 });
