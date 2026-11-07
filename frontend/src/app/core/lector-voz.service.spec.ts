@@ -227,3 +227,78 @@ describe('LectorVozService - idioma, velocidad y voces', () => {
     expect(fragmentarTexto('Mide 3.5 cm. Llega a las 1:30.', 12)).toEqual(['Mide 3.5 cm.', 'Llega a las 1:30.']);
   });
 });
+
+describe('LectorVozService - audio pregrabado (Piper)', () => {
+  class AudioFalso {
+    static creados: AudioFalso[] = [];
+    onplaying: (() => void) | null = null;
+    onended: (() => void) | null = null;
+    onerror: ((e: Event) => void) | null = null;
+    pause = vi.fn();
+    play = vi.fn(() => Promise.resolve());
+    constructor(public src: string) {
+      AudioFalso.creados.push(this);
+    }
+  }
+  const audioOriginal = (globalThis as Record<string, unknown>)['Audio'];
+
+  beforeEach(() => {
+    AudioFalso.creados = [];
+    (globalThis as Record<string, unknown>)['Audio'] = AudioFalso;
+  });
+  afterEach(() => {
+    (globalThis as Record<string, unknown>)['Audio'] = audioOriginal;
+    desinstalarSintesisFalsa();
+  });
+
+  async function lectorConAudios(textos: string[]) {
+    const { claveAudio } = await import('./audio-pregrabado');
+    const fetchFalso = vi.fn(async () => ({ ok: true, json: async () => ({ voz: 'piper', claves: textos.map(claveAudio) }) }));
+    vi.stubGlobal('fetch', fetchFalso);
+    const mock = instalarSintesisFalsa([voz('es-CL')]);
+    const lector = new LectorVozService();
+    await lector.cargarManifiesto();
+    vi.unstubAllGlobals();
+    return { lector, mock, claveAudio };
+  }
+
+  it('usa el audio pregrabado cuando existe para ese texto exacto', async () => {
+    const { lector, mock, claveAudio } = await lectorConAudios(['El gato está … de la mesa.']);
+    expect(lector.leer('El gato está … de la mesa.')).toBe('iniciado');
+    expect(AudioFalso.creados[0].src).toBe(`audio/es/${claveAudio('El gato está … de la mesa.')}.m4a`);
+    expect(mock.sintesis.speak).not.toHaveBeenCalled();
+    expect(lector.hablando()).toBe(true);
+    AudioFalso.creados[0].onended?.();
+    expect(lector.hablando()).toBe(false);
+  });
+
+  it('sin audio para ese texto, o en inglés, usa la voz del dispositivo', async () => {
+    const { lector, mock } = await lectorConAudios(['Otro texto.']);
+    lector.leer('Texto sin audio.');
+    lector.leer('apple', { idioma: 'en-US' });
+    expect(AudioFalso.creados.length).toBe(0);
+    expect(mock.sintesis.speak).toHaveBeenCalled();
+  });
+
+  it('si el archivo no carga, cae a la voz del dispositivo', async () => {
+    const { lector, mock } = await lectorConAudios(['Hola.']);
+    lector.leer('Hola.');
+    AudioFalso.creados[0].onerror?.(new Event('error'));
+    expect(mock.estado.habladas[0].text).toBe('Hola.');
+  });
+
+  it('detener pausa el audio', async () => {
+    const { lector } = await lectorConAudios(['Hola.']);
+    lector.leer('Hola.');
+    lector.detener();
+    expect(AudioFalso.creados[0].pause).toHaveBeenCalled();
+    expect(lector.hablando()).toBe(false);
+  });
+
+  it('la clave es estable para el mismo texto y distinta para otro', async () => {
+    const { claveAudio } = await import('./audio-pregrabado');
+    expect(claveAudio('Hola.')).toBe(claveAudio('Hola.'));
+    expect(claveAudio('Hola.')).not.toBe(claveAudio('Hola!'));
+    expect(claveAudio('Hola.')).toMatch(/^[0-9a-f]{16}$/);
+  });
+});

@@ -32,6 +32,29 @@ correcta para partir, coherente con el criterio de tecnología gratuita del proy
 calidad, se puede evaluar un servicio de texto-a-voz pagado (Google Cloud TTS, ElevenLabs)
 sin cambiar el resto del diseño — el botón "Escuchar" simplemente cambiaría de motor.
 
+**✅ Actualización (2026-11-07) — voz más natural, sin costo:**
+- **Qué se lee.** `shared/texto-para-voz.ts` convierte el contenido en texto hablable. Antes se
+  leía el Markdown crudo: asteriscos, nombres de emojis y los marcadores visuales. Un dibujo
+  como `::posicion::🐱::debajo::mesa::` se oía «gato debajo mesa», o sea, la respuesta. Ahora
+  los dibujos no se leen (el niño los mira). En las preguntas se leen también las alternativas,
+  con su letra. Los símbolos se dicen con palabras («mayor que»).
+- **Voz del dispositivo.** Se elige la mejor voz local en español: primero las de calidad
+  («Mejorada», «Premium», «Natural»), y a igual calidad Chile, luego América y luego España. Se
+  descartan voces novedad y eSpeak. La lectura va por frases: pausas naturales y sin el corte de
+  Chrome en textos largos. Nunca se usan voces remotas, para que el texto no salga del equipo.
+- **Audio pregrabado con voz neuronal libre.** Se usa Piper con la voz `es_MX-claude-high`
+  (licencia Apache-2.0, permite uso comercial). `scripts/voz/generar_audios.sh` genera un
+  `.m4a` por texto (AAC mono, 32 kbps) en `frontend/public/audio/es/`, más un
+  `manifest.json`. El lector lo usa si existe el audio del texto exacto (clave FNV-1a de 64
+  bits, `core/audio-pregrabado.ts`); si no, usa la voz del dispositivo. Por ahora cubre
+  1.° y 2.° básico.
+  - **No se versiona** (≈55 MB): al desplegar hay que ejecutar el generador antes del build, o
+    subir la carpeta a un almacenamiento estático (p. ej. Cloudflare R2, que tiene plan gratuito).
+  - Al cambiar un texto, su audio deja de coincidir y se vuelve a la voz del dispositivo hasta
+    que se regenera. El generador solo crea lo que falta.
+- **Voces comparadas el 2026-11-07.** Piper (claude, daniela, ald, davefx), Kokoro (dora, alex)
+  y las voces del Mac (Paulina, Mónica). Ninguna voz libre tiene acento chileno.
+
 Complementa (no reemplaza) la idea ya anotada en `06-ideas-futuras.md` de un "evaluador de
 lectura en voz alta" — esa función evalúa *cómo lee* el niño; esta nueva función *le lee a
 él* cuando todavía no puede leer solo. Son dos necesidades distintas del mismo ciclo etario.

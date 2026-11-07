@@ -1,5 +1,6 @@
 import { Component, Input, inject } from '@angular/core';
 import { LectorVozService } from '../../core/lector-voz.service';
+import { textoParaVoz } from '../texto-para-voz';
 
 @Component({
   selector: 'app-boton-escuchar',
@@ -40,6 +41,7 @@ export class BotonEscuchar {
   lector = inject(LectorVozService);
 
   alternar() {
-    this.lector.alternar(this.texto, { idioma: this.idioma, velocidad: this.velocidad });
+    // Se lee lo que se ve, sin marcadores ni nombres de emojis (ver texto-para-voz.ts).
+    this.lector.alternar(textoParaVoz(this.texto), { idioma: this.idioma, velocidad: this.velocidad });
   }
 }

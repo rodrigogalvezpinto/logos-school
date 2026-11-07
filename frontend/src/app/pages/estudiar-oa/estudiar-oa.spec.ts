@@ -97,7 +97,8 @@ describe('EstudiarOa - pronunciación inglesa por metadatos de asignatura', () =
     const { fixture } = montar([{ id: 2, nombre: 'Inglés' }], [objetivo(5)]);
     (fixture.nativeElement.querySelector('.boton-escuchar') as HTMLButtonElement).click();
     expect(habladas.length).toBe(1);
-    expect(habladas[0].text).toBe(GUIA_BILINGUE);
+    // Se lee sin los asteriscos del Markdown (texto-para-voz.ts).
+    expect(habladas[0].text).toBe('La palabra apple significa manzana. Example: I eat an apple.');
     expect(habladas[0].lang).toBe('es-CL');
   });
 

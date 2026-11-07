@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { firstValueFrom } from 'rxjs';
 import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.service';
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
+import { textoPreguntaParaVoz } from '../texto-para-voz';
 import { MarkdownPipe } from '../markdown.pipe';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
@@ -93,7 +94,7 @@ export interface PreguntaRunner {
         </div>
 
         <div class="tarjeta pregunta">
-          <app-boton-escuchar class="pregunta__escuchar" [texto]="preguntaActual.enunciado" />
+          <app-boton-escuchar class="pregunta__escuchar" [texto]="textoParaEscuchar(preguntaActual)" />
           <div class="pregunta__enunciado" [innerHTML]="preguntaActual.enunciado | markdown"></div>
 
           @if (preguntaActual.tipo === 'alternativas' && preguntaActual.opciones) {
@@ -475,6 +476,11 @@ export class EvaluacionRunner implements OnInit {
     return texto
       .replace(/::contar::([^:]+)::(\d{1,2})::/g, (_m, e: string, n: string) => `${n} ${e}`)
       .replace(/::emoji::([^:\s]+)::([\s\S]+?)::/g, (_m, e: string, d: string) => `${e} ${d}`);
+  }
+
+  /** Enunciado y alternativas para el botón «Escuchar» (el niño de 1°-2° básico no lee aún). */
+  textoParaEscuchar(p: PreguntaRunner): string {
+    return textoPreguntaParaVoz(p);
   }
 
   /** La opción trae un marcador visual que hay que dibujar (no mostrar como texto crudo). */

@@ -1385,3 +1385,22 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
 - Voz: el lector elige la mejor voz **local** en español. El orden es: voces de calidad («Mejorada», «Premium», «Natural», «Neural») primero, y a igual calidad, Chile, luego América y luego España. Descarta voces novedad y eSpeak. Lee por frases, con pausas naturales, y evita que Chrome corte las lecturas largas. Se mantiene la regla de no usar voces remotas.
 
 **Verificación.** Validador: 0 discrepancias en 265 archivos. Backend: 725 pruebas. Frontend: 109 pruebas unitarias (marcadores y voz nuevos). E2E en los 3 navegadores: validación de 1.° básico más los flujos completos de 1.° básico, 2.° básico y 2.° medio, **117/117**. Revisión visual de los dibujos en Chromium y WebKit.
+
+### 15.30 Lectura en voz alta: texto limpio y voz neuronal pregrabada (2026-11-07)
+
+**Hallazgo.** El botón «Escuchar» leía el Markdown crudo: asteriscos, nombres de emojis y marcadores visuales. En las preguntas nuevas de posición diría «gato debajo mesa», o sea, la respuesta. En `::contar::` diría la cantidad que el niño debe contar. Además, en las preguntas no leía las alternativas, y un niño de 1.° básico que aún no lee no podía responder solo.
+
+**Corrección.**
+- `texto-para-voz.ts` limpia el texto antes de leerlo:
+  - quita dibujos, marcas de conteo, Markdown y emojis;
+  - lee los fonemas sin barras;
+  - quita las citas («>»);
+  - dice «mayor que» o «menor que» en vez de los símbolos;
+  - agrega pausas tras los títulos.
+- En cada pregunta se leen enunciado y alternativas con su letra. Una alternativa que es solo un dibujo se anuncia como «el dibujo número N», sin describirlo.
+- Revisión sobre los textos reales: 630 preguntas y 60 guías de 1.° y 2.° básico, sin restos de sintaxis.
+- Audio pregrabado con Piper `es_MX-claude-high` (Apache-2.0), mediante `scripts/voz/generar_audios.sh`: 608 audios, 71 MB, unos 5 minutos de generación en el Mac. El audio no se versiona. Si un texto no tiene audio, se usa la voz del dispositivo. Detalle en `planificacion/21-accesibilidad-lectura-y-contenido-visual.md`.
+
+**Verificación.** Frontend: 126 pruebas unitarias. E2E en los 3 navegadores: flujos de 1.° y 2.° básico y validación de 1.° básico, **96/96**. El flujo de 1.° básico ahora comprueba que «Escuchar» pide y recibe el audio de la guía y el de la pregunta.
+
+**Pendiente.** Para desplegar hay que publicar los audios (generarlos antes del build o subirlos a R2). El usuario aún no elige voz entre las muestras comparadas: cambiarla es regenerar con otro modelo.

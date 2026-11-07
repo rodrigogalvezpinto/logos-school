@@ -1,4 +1,5 @@
 import { Injectable, OnDestroy, signal } from '@angular/core';
+import { ManifiestoAudio, RUTA_AUDIO, claveAudio } from './audio-pregrabado';
 
 export interface OpcionesLectura {
   idioma?: string;
@@ -62,16 +63,22 @@ export function fragmentarTexto(texto: string, maximo = 220): string[] {
  * Decisión de diseño: planificacion/21-accesibilidad-lectura-y-contenido-visual.md. */
 @Injectable({ providedIn: 'root' })
 export class LectorVozService implements OnDestroy {
-  disponible = typeof window !== 'undefined' && 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+  private puedeSintetizar = typeof window !== 'undefined' && 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+  private puedeReproducir = typeof window !== 'undefined' && typeof Audio !== 'undefined';
+  disponible = this.puedeSintetizar;
+  /** Claves de los textos con audio pregrabado (voz neuronal); vacío hasta que carga el manifiesto. */
+  private audiosPregrabados = new Set<string>();
+  private audioActual: HTMLAudioElement | null = null;
   hablando = signal(false);
   origenActivo = signal<string | null>(null);
   voces = signal<SpeechSynthesisVoice[]>([]);
 
-  private sintesis: SpeechSynthesis | null = this.disponible ? window.speechSynthesis : null;
+  private sintesis: SpeechSynthesis | null = this.puedeSintetizar ? window.speechSynthesis : null;
   private turno = 0;
   private alCambiarVoces = () => this.cargarVoces();
 
   constructor() {
+    this.cargarManifiesto();
     if (!this.sintesis) return;
     this.cargarVoces();
     this.sintesis.addEventListener?.('voiceschanged', this.alCambiarVoces);
@@ -79,6 +86,23 @@ export class LectorVozService implements OnDestroy {
 
   ngOnDestroy() {
     this.sintesis?.removeEventListener?.('voiceschanged', this.alCambiarVoces);
+  }
+
+  /** Carga (una vez) la lista de audios pregrabados. Si falla, se sigue con la voz del dispositivo. */
+  async cargarManifiesto(): Promise<void> {
+    if (!this.puedeReproducir || typeof fetch === 'undefined') return;
+    try {
+      const r = await fetch(`${RUTA_AUDIO}/manifest.json`, { cache: 'no-cache' });
+      if (!r.ok) return;
+      const m = (await r.json()) as ManifiestoAudio;
+      this.audiosPregrabados = new Set(m.claves ?? []);
+    } catch {
+      /* sin audio pregrabado */
+    }
+  }
+
+  tieneAudioPregrabado(texto: string): boolean {
+    return this.audiosPregrabados.has(claveAudio(texto));
   }
 
   cargarVoces() {
@@ -96,8 +120,16 @@ export class LectorVozService implements OnDestroy {
   }
 
   leer(texto: string, opciones: OpcionesLectura = {}): ResultadoLectura {
-    if (!this.sintesis) return 'no-soportado';
     if (!texto.trim()) return 'texto-vacio';
+    const idioma = opciones.idioma ?? IDIOMA_POR_DEFECTO;
+    if (idiomaBase(idioma) === 'es' && this.puedeReproducir && this.tieneAudioPregrabado(texto)) {
+      return this.reproducir(texto, opciones);
+    }
+    return this.leerConSintesis(texto, opciones);
+  }
+
+  private leerConSintesis(texto: string, opciones: OpcionesLectura): ResultadoLectura {
+    if (!this.sintesis) return 'no-soportado';
     const idioma = opciones.idioma ?? IDIOMA_POR_DEFECTO;
     const requiereVoz = idiomaBase(idioma) !== idiomaBase(IDIOMA_POR_DEFECTO);
     if (!this.voces().length) this.cargarVoces();
@@ -132,9 +164,43 @@ export class LectorVozService implements OnDestroy {
     return 'iniciado';
   }
 
+  /** Audio pregrabado: mismo contrato que la síntesis (hablando, origen, detener). Si el archivo
+   * no carga, cae a la voz del dispositivo. */
+  private reproducir(texto: string, opciones: OpcionesLectura): ResultadoLectura {
+    this.detener();
+    const turno = this.turno;
+    const audio = new Audio(`${RUTA_AUDIO}/${claveAudio(texto)}.m4a`);
+    this.audioActual = audio;
+    const terminar = () => {
+      if (turno !== this.turno) return;
+      this.audioActual = null;
+      this.hablando.set(false);
+      this.origenActivo.set(null);
+    };
+    audio.onplaying = () => {
+      if (turno === this.turno) this.hablando.set(true);
+    };
+    audio.onended = terminar;
+    audio.onerror = () => {
+      if (turno !== this.turno) return;
+      terminar();
+      if (this.sintesis) this.leerConSintesis(texto, opciones);
+    };
+    this.origenActivo.set(opciones.origen ?? null);
+    this.hablando.set(true);
+    audio.play()?.catch?.(() => audio.onerror?.(new Event('error')));
+    return 'iniciado';
+  }
+
   detener() {
-    if (!this.sintesis) return;
     this.turno++;
+    if (this.audioActual) {
+      this.audioActual.pause();
+      this.audioActual = null;
+    }
+    this.hablando.set(false);
+    this.origenActivo.set(null);
+    if (!this.sintesis) return;
     this.sintesis.cancel();
     this.hablando.set(false);
     this.origenActivo.set(null);

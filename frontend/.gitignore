@@ -49,3 +49,6 @@ Thumbs.db
 /blob-report/
 e2e/.storage-*.json
 e2e/fixtures/material-validacion.json
+
+# Audio pregrabado (se genera con scripts/voz/generar_audios.sh)
+/public/audio/

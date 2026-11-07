@@ -147,6 +147,16 @@ test.describe.serial('Auditoría Integral y Flujo Real: 1° Básico (Apoderado y
     await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
     await expect(page.locator('.descargar-pdf')).toBeVisible();
 
+    // Lectura con voz neuronal pregrabada (scripts/voz/generar_audios.sh): si el build trae los
+    // audios, «Escuchar» debe pedir el de esta guía exacta (si no, usa la voz del dispositivo).
+    const hayAudios = await page.evaluate(async () => (await fetch('audio/es/manifest.json')).headers.get('content-type')?.includes('json') ?? false);
+    if (hayAudios) {
+      const pedido = page.waitForRequest(/\/audio\/es\/[0-9a-f]{16}\.m4a$/);
+      await page.getByRole('button', { name: '🔊 Escuchar' }).click();
+      expect((await (await pedido).response())?.status()).toBe(200);
+      await page.getByRole('button', { name: /Detener|Escuchar/ }).click();
+    }
+
     // Calificar guía
     const estrella = page.locator('.calificar-guia__estrella').nth(4);
     await estrella.click();
@@ -157,6 +167,12 @@ test.describe.serial('Auditoría Integral y Flujo Real: 1° Básico (Apoderado y
     await expect(page).toHaveURL(/autoevaluacion\/\d+/);
     await page.getByRole('button', { name: 'Comenzar' }).click();
     await expect(page.locator('.pregunta__enunciado')).not.toBeEmpty();
+    if (hayAudios) {
+      const pedido = page.waitForRequest(/\/audio\/es\/[0-9a-f]{16}\.m4a$/);
+      await page.locator('.pregunta__escuchar button').click();
+      expect((await (await pedido).response())?.status()).toBe(200);
+      await page.locator('.pregunta__escuchar button').click();
+    }
 
     const opcion = page.locator('.opcion').first();
     await expect(opcion).toBeVisible();
