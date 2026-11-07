@@ -62,7 +62,7 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | ✅ hecho 2026-11-07 |
 | 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | pendiente |
 | 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | ✅ hecho 2026-11-07 |
-| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | en curso: 4.° básico, Matemática completa (28 de 76; quedan 48 entre Ciencias, Historia y Lenguaje) |
+| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | en curso: 4.° básico, Matemática y Ciencias de la Vida completas (37 de 76; quedan 39) |
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
 | 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | pendiente |
 | 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | pendiente |
@@ -73,6 +73,16 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 | 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
+
+- 2026-11-07 16:00: **Primero al retomar:**
+  1. Repetir el E2E de 4.° básico en los 3 navegadores. La última corrida falló de forma
+     intermitente porque el Mac se estaba frenando por temperatura (`kernel_task` alto, registro de
+     más de 20 s) después de 2 horas de Kokoro, no por el contenido: antes de la última reescritura
+     daba 54/54. Antes de correrlo, verificar que `uptime` muestre una carga baja.
+  2. Regenerar los audios de forma incremental:
+     `DATABASE_URL=… LIMPIAR_HUERFANOS=1 scripts/voz/generar_audios.sh`. Ahora usa la mitad de los
+     núcleos. Hay que hacerlo porque cambiaron textos de 1.° básico (rebalanceo) y de 4.° básico
+     (pruebas reescritas).
 
 - 2026-11-07: tarea 6 cerrada (§15.32). Solo 1.° básico tenía sesgo (b 37,6 % → 30 %); el resto de los cursos queda entre 20 y 29 % por letra. La tarea 5 (audio de 3.° y 4.° básico) se está generando en segundo plano.
 

@@ -20,5 +20,7 @@ TMP=$(mktemp -d)
 (cd $RAIZ/backend && .venv/bin/python scripts/exportar_textos_voz.py $TMP/fuente.json "${NIVELES[@]}")
 (cd $RAIZ/frontend && npx esbuild tools/textos-voz.ts --bundle --platform=node --format=esm --outfile=$TMP/textos-voz.mjs --log-level=error \
   && node $TMP/textos-voz.mjs $TMP/fuente.json $TMP/textos.json)
-$CACHE/venv/bin/python -I $RAIZ/scripts/voz/generar_audios.py $TMP/textos.json $MODELO $VOCES $RAIZ/frontend/public/audio/es
+# Kokoro (onnxruntime) usa todos los núcleos y satura el Mac: se limita a la mitad.
+HILOS=$(( $(sysctl -n hw.ncpu 2>/dev/null || nproc) / 2 ))
+OMP_NUM_THREADS=$HILOS ORT_NUM_THREADS=$HILOS $CACHE/venv/bin/python -I $RAIZ/scripts/voz/generar_audios.py $TMP/textos.json $MODELO $VOCES $RAIZ/frontend/public/audio/es
 rm -rf $TMP
