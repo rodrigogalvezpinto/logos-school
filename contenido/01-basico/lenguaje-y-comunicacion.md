@@ -216,6 +216,14 @@ c) "cheso"
 
 *Respuesta correcta: a.* Retroalimentación: ¡bien hecho! El sonido /k/ antes de "e" o "i" se escribe con "qu", como en "queso" y "quince".
 
+**7. (Sílabas indirectas)** Lee la frase: "**El oso está en el árbol.**" ¿Dónde está el oso?
+
+a) En el árbol
+b) En el agua
+c) En la casa
+
+*Respuesta correcta: a.* Retroalimentación: ¡muy bien! Leíste palabras con sílabas que empiezan con vocal y terminan con consonante, como "el", "en" y "ár-bol". Primero va la vocal y después la consonante.
+
 ---
 
 ## OA N°8 — Comprendo los cuentos que leo o que me leen

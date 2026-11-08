@@ -152,6 +152,17 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
    **Retroalimentación:** Muy bien. Responder a lo que pasa alrededor (un ruido, una
    luz, un toque) es una característica importante de los seres vivos.
 
+8. *(Alternativas)* En el patio, Martina toca la corteza de un árbol y dice: "Es áspera
+   y está fría". ¿Qué sentido usó para describir el árbol?
+   a) La vista
+   b) El oído
+   c) El tacto
+   d) El gusto
+   **Respuesta correcta:** c) El tacto.
+   **Retroalimentación:** ¡Bien! Con los sentidos describimos la naturaleza: con el
+   tacto sentimos si algo es áspero o suave, frío o tibio; con la vista, sus colores; y
+   con el oído, los sonidos de los pájaros o del viento.
+
 ---
 
 ### OA N°5 — Animales y plantas de Chile: conocerlos y cuidarlos
@@ -627,6 +638,17 @@ de cada material.
    **Respuesta correcta:** a) El líquido de la leche.
    **Retroalimentación:** ¡Exacto! El líquido ablandó la galleta hasta hacer que se
    deshiciera.
+
+8. *(Alternativas)* ¿Qué grupo reúne solo objetos que **cambian de forma** cuando los
+   aprietas o los doblas con las manos?
+   a) Plasticina, hoja de papel y alambre
+   b) Piedra, cuchara de metal y ladrillo
+   c) Plasticina, piedra y vaso de vidrio
+   d) Ladrillo, hoja de papel y piedra
+   **Respuesta correcta:** a) Plasticina, hoja de papel y alambre.
+   **Retroalimentación:** ¡Muy bien! La plasticina, el papel y el alambre cambian de
+   forma al aplicarles fuerza. La piedra, el ladrillo, el vidrio y la cuchara de metal no
+   se deforman con la fuerza de nuestras manos.
 
 ---
 

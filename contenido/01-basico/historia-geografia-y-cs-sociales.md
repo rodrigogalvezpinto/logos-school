@@ -295,6 +295,27 @@ costumbres chilenas que se celebran en distintas zonas del país. Patinar en la 
 domingo no es una costumbre de las familias chilenas. Pregunta en tu casa qué fiesta típica se
 celebra en tu ciudad o región.
 
+**7. (Alternativas)** ¿Cuál de estos es un **juego típico** chileno?
+a) El trompo
+b) El béisbol
+c) El esquí acuático
+d) El sumo
+
+✅ Respuesta correcta: **a) El trompo**
+💬 *Retroalimentación:* ¡Muy bien! El trompo, el emboque, la rayuela y el volantín son juegos
+típicos que se juegan en Chile, sobre todo en Fiestas Patrias.
+
+**8. (Alternativas)** En la plaza principal de una ciudad hay una estatua de una persona
+importante de la historia de Chile. ¿Qué es esa estatua?
+a) Un juego para los niños
+b) Un monumento que recuerda a esa persona
+c) Una tienda donde se compran recuerdos
+d) Un paradero de buses
+
+✅ Respuesta correcta: **b) Un monumento que recuerda a esa persona**
+💬 *Retroalimentación:* ¡Exacto! Los monumentos, como estatuas, iglesias antiguas o cerros
+conocidos, son hitos que identifican a una ciudad o región y nos recuerdan su historia.
+
 ---
 
 ## Eje 2: Geografía

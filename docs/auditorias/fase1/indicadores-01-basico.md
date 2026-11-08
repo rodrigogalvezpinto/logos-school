@@ -3,11 +3,11 @@
 **Fuente:** `Temarios/temario_basica_1deg_basico_UCE.pdf`. Se leyeron los indicadores de cada OA y las
 preguntas de cada OA (guía, prueba y simulacro) en la base importada desde `contenido/` el 2026-11-07.
 
-**Resultado: 69 de 75 indicadores cubiertos (92 %).**
+**Resultado: 70 de 75 indicadores cubiertos (93 %).** (Corrección del 2026-11-07: el dígrafo «qu» sí estaba cubierto, en la pregunta 6 de la guía, «queso».)
 
 | Asignatura | Indicadores | Cubiertos | Sin pregunta |
 |---|---|---|---|
-| Lenguaje y Comunicación | 16 | 14 | OA 4: leer palabras con el dígrafo **«qu»** (sí hay rr, ll y ch); OA 4: leer **sílabas indirectas** («al», «es», «in») |
+| Lenguaje y Comunicación | 16 | 15 | OA 4: leer **sílabas indirectas** («al», «es», «in») |
 | Matemática | 21 | 21 | — (varios solo en la guía: «construyen un pictograma» y «crean un problema») |
 | Ciencias Naturales | 23 | 21 | OA 1: «mencionan los sentidos que usan para describir la naturaleza» (débil: el tema está en el OA 6, pero no aplicado a la naturaleza); OA 9: «clasifican materiales según los cambios que les producen el calor, la luz, el agua o la fuerza» |
 | Historia, Geografía y Cs. Sociales | 15 | 13 | OA 6: «identifican **juegos típicos** chilenos» (trompo, emboque y rayuela aparecen en la explicación, pero en ninguna pregunta); OA 6: «reconocen **monumentos e hitos** de su ciudad o región» (también solo en la explicación) |

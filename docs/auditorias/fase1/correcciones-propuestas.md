@@ -8,7 +8,7 @@ reimportación y app) al cerrar cada grupo.
 
 | Curso | Asignatura · OA | Indicador sin pregunta |
 |---|---|---|
-| 1.° básico | Lenguaje OA 4 | Leer palabras con el dígrafo «qu»; leer sílabas indirectas |
+| 1.° básico | Lenguaje OA 4 | Leer sílabas indirectas (el «qu» sí estaba cubierto: error de la revisión, corregido) |
 | 1.° básico | Ciencias OA 9 | Clasificar materiales según el cambio que producen calor, luz, agua o fuerza |
 | 1.° básico | Ciencias OA 1 | Usar los sentidos para describir la naturaleza (débil) |
 | 1.° básico | Historia OA 6 | Juegos típicos chilenos; monumentos e hitos de la región |
