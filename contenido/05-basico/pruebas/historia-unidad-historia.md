@@ -26,71 +26,64 @@ ultima_actualizacion: 2026-10-28
 
 ## Preguntas
 
-**1. (Alternativas)** ¿Cuál de los siguientes NO era un objetivo de la Corona española en el
-proceso de conquista?
+**1. (Alternativas)** ¿Por qué los conquistadores españoles fundaban ciudades en los territorios que recorrían?
 
-a) Incorporar nuevos territorios a su imperio
-b) Evangelizar a los habitantes originarios
-c) Obtener riquezas como oro, plata y otros metales
-d) Establecer un sistema democrático de elecciones
-
----
-
-**2. (Verdadero o Falso)** Pedro de Valdivia fundó la ciudad de Santiago en 1541.
+a) Para asentarse y controlar el territorio en nombre de la Corona
+b) Para devolver las tierras a los pueblos originarios
+c) Para hacer turismo
+d) Para organizar elecciones democráticas
 
 ---
 
-**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden cronológico de estos hechos, del más antiguo al más
-reciente: (1) desastre de Curalaba, (2) expedición de Diego de Almagro, (3) fundación de
-Santiago, (4) levantamiento de Lautaro?
-
-a) 2 → 3 → 4 → 1
-b) 3 → 2 → 4 → 1
-c) 2 → 4 → 3 → 1
-d) 1 → 2 → 3 → 4
+**2. (Verdadero o Falso)** Diego de Almagro fue el primer conquistador español que llegó al territorio de Chile.
 
 ---
 
-**4. (Alternativas)** ¿Cuál de las siguientes fue una consecuencia de la conquista **para
-Europa**?
+**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden cronológico de estos hechos, del más antiguo al más reciente: (1) fundación de Santiago, (2) muerte de Pedro de Valdivia en Tucapel, (3) expedición de Diego de Almagro?
 
-a) Disminución drástica de la población europea
-b) Imposición de una nueva religión en Europa
-c) Llegada de oro, plata y nuevos alimentos americanos
-d) Pérdida de las estructuras políticas propias de Europa
-
----
-
-**5. (Verdadero o Falso)** La principal causa de la disminución de la población indígena en
-América fueron los conflictos bélicos, no las enfermedades.
+a) 3 → 1 → 2
+b) 1 → 3 → 2
+c) 2 → 3 → 1
+d) 1 → 2 → 3
 
 ---
 
-**6. (Alternativas — vincular)** ¿Cuál de estas consecuencias de la conquista la vivió principalmente **América**?
+**4. (Alternativas)** ¿Qué alimento americano llevaron los españoles a Europa, donde se volvió muy importante?
 
-a) El aumento de riqueza gracias al oro y la plata
-b) La incorporación de nuevos alimentos como la papa y el maíz a su dieta
-c) Una fuerte disminución de la población originaria
-
----
-
-**7. (Alternativas)** ¿Qué significa que Chile "dependía de la metrópoli" durante la Colonia?
-
-a) Que Chile estaba controlado política y económicamente por España
-b) Que Chile gobernaba sus propios territorios sin ninguna influencia externa
-c) Que Chile era un país completamente independiente desde 1541
-d) Que Chile no tenía ninguna relación con el Virreinato del Perú
+a) El trigo
+b) La uva
+c) La papa
+d) El arroz
 
 ---
 
-**8. (Alternativas)** ¿Cómo se llama la mezcla de elementos culturales españoles (católicos)
-con elementos de las culturas originarias, presente por ejemplo en fiestas religiosas
-populares?
+**5. (Verdadero o Falso)** Los pueblos originarios de América no tenían defensas contra enfermedades traídas por los europeos, como la viruela.
 
-a) Mestizaje
-b) Sincretismo
-c) Colonialismo
-d) Evangelización
+---
+
+**6. (Alternativas — vincular)** ¿Cuál de estas consecuencias de la conquista la vivió principalmente **Europa**?
+
+a) La pérdida de sus tierras ancestrales
+b) La imposición de un idioma extranjero
+c) El enriquecimiento gracias al oro y la plata americanos
+
+---
+
+**7. (Alternativas)** Durante la Colonia, ¿quién tomaba las decisiones más importantes sobre Chile?
+
+a) El rey de España y sus autoridades
+b) Los pueblos originarios
+c) Un presidente elegido por votación
+d) Los comerciantes ingleses
+
+---
+
+**8. (Alternativas)** En la fiesta de La Tirana se baila con máscaras y trajes andinos en honor a la Virgen del Carmen. ¿Qué proceso muestra esta fiesta?
+
+a) Mestizaje biológico
+b) Sincretismo: la mezcla de tradiciones religiosas católicas e indígenas
+c) Colonialismo económico
+d) Independencia
 
 ---
 
@@ -105,28 +98,27 @@ d) La influencia en las costumbres y celebraciones de la época
 
 ---
 
-**10. (Alternativas)** ¿Qué río se transformó en una frontera de facto entre el territorio
-español y el territorio mapuche durante la Colonia?
+**10. (Alternativas)** ¿Qué pueblo originario resistió la conquista española al sur del río Biobío durante toda la Colonia?
 
-a) Río Loa
-b) Río Biobío
-c) Río Maipo
-d) Río Baker
+a) Los aymara
+b) Los mapuche
+c) Los diaguitas
+d) Los changos
 
 ---
 
-**11. (Alternativas — unir)** Une cada concepto con su definición:
+**11. (Alternativas — unir)** Une cada personaje con su descripción:
 
-1) Encomienda — 2) Evangelización — 3) Guerra de Arauco
+1) Pedro de Valdivia — 2) Lautaro — 3) Diego de Almagro
 
-Definiciones: (A) Conflicto bélico prolongado entre españoles y mapuches — (B) Trabajo forzado indígena a cambio de "cuidado" y conversión religiosa — (C) Proceso de conversión al catolicismo mediante misiones y pueblos de indios
+Descripciones: (A) Toqui mapuche que lideró la resistencia y venció en Tucapel — (B) Fundador de Santiago en 1541 — (C) Primer conquistador en llegar a Chile, entre 1535 y 1537
 
 ¿Qué combinación es correcta?
 
 a) 1-A, 2-B, 3-C
 b) 1-C, 2-B, 3-A
-c) 1-B, 2-A, 3-C
-d) 1-B, 2-C, 3-A
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
 ---
 
@@ -143,32 +135,32 @@ d) El voto universal en elecciones conjuntas
 
 ## Pauta de respuestas
 
-**1.** d) Establecer un sistema democrático de elecciones. Los tres objetivos centrales de la
+**1.** a) Para asentarse y controlar el territorio en nombre de la Corona. Las ciudades eran centros de poder y de evangelización.
 Corona eran territoriales, religiosos y económicos.
 
-**2.** Verdadero. Pedro de Valdivia fundó Santiago en 1541.
+**2.** Verdadero. Almagro realizó la primera expedición a Chile entre 1535 y 1537.
 
-**3.** a) 2 → 3 → 4 → 1. Almagro 1535-1537 → fundación de Santiago 1541 → levantamiento de Lautaro década de 1550 → desastre de Curalaba 1598.
+**3.** a) 3 → 1 → 2. Almagro 1535-1537 → fundación de Santiago 1541 → muerte de Valdivia en Tucapel 1553.
 
-**4.** c) Llegada de oro, plata y nuevos alimentos americanos. Europa se benefició
+**4.** c) La papa. La papa, el maíz, el tomate y el cacao son alimentos americanos que cambiaron la alimentación en Europa.
 económicamente y conoció nuevos alimentos como la papa, el maíz y el tomate.
 
-**5.** Falso. Las enfermedades traídas por los europeos (como la viruela) fueron la causa
+**5.** Verdadero. Por eso las epidemias causaron la muerte de gran parte de la población indígena.
 principal, ya que la población indígena no tenía defensas contra ellas.
 
-**6.** c) Una fuerte disminución de la población originaria — el oro, la plata y los nuevos alimentos beneficiaron a Europa.
+**6.** c) El enriquecimiento gracias al oro y la plata americanos — la pérdida de tierras y la imposición de un idioma las vivieron los pueblos originarios.
 
-**7.** a) Que Chile estaba controlado política y económicamente por España. Chile dependía de
+**7.** a) El rey de España y sus autoridades. Chile era una colonia que dependía de la metrópoli.
 las decisiones tomadas en España y de la administración del Virreinato del Perú.
 
-**8.** b) Sincretismo. Es la combinación de elementos de distintas culturas o religiones en
+**8.** b) Sincretismo. Combina elementos católicos con danzas y trajes de tradición andina.
 una misma expresión.
 
 **9.** a, b y d — El comercio colonial estaba orientado principalmente hacia España; no era libre.
 
-**10.** b) Río Biobío. Se convirtió en frontera entre el territorio español al norte y el
+**10.** b) Los mapuche. Su resistencia hizo del Biobío una frontera entre ambos territorios.
 territorio mapuche independiente al sur.
 
-**11.** d) 1-B, 2-C, 3-A — la encomienda es trabajo, la evangelización es religiosa y la Guerra de Arauco es el conflicto bélico central
+**11.** d) 1-B, 2-A, 3-C — Valdivia fundó Santiago, Lautaro lideró la resistencia mapuche y Almagro fue el primero en llegar.
 
 **12.** a, b y c — También lo fueron la encomienda, la evangelización y el mestizaje; no había elecciones con voto universal en la Colonia.

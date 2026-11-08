@@ -25,14 +25,17 @@ def main() -> None:
         bloque = re.compile(
             rf"^\*\*(?:Pregunta )?{n}[.* ].*?(?=^\*\*(?:Pregunta )?\d+[.* ]|^---$|^#"
             rf"|^\*{{0,2}}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa|Vuelve a leer)\b|^\*\*Texto\b)", re.S | re.M)
-        hallados = bloque.findall(texto)
+        # Las preguntas se buscan solo antes de la pauta: «**1.** b) …» de la pauta parece una pregunta.
+        m_pauta = re.search(r"(?m)^#{1,6}\s*Pauta|^\*\*Pauta", texto)
+        corte = m_pauta.start() if m_pauta else len(texto)
+        hallados = bloque.findall(texto[:corte])
         if len(hallados) != 1:
             sys.exit(f"pregunta {n}: se esperaba 1 bloque y hay {len(hallados)}")
         # Seguro: no perder texto citado, imágenes ni marcadores que el bloque nuevo no traiga.
         perdidas = [l for l in hallados[0].splitlines() if re.match(r"\s*(>|\[Imagen|::)", l) and l.strip() not in c["bloque"]]
         if perdidas and not cambios.get("forzar"):
             sys.exit(f"pregunta {n}: el bloque reemplazado contiene estímulo que se perdería: {perdidas[0][:80]!r}")
-        texto = bloque.sub(lambda _m: c["bloque"].rstrip("\n") + "\n\n", texto, count=1)
+        texto = bloque.sub(lambda _m: c["bloque"].rstrip("\n") + "\n\n", texto[:corte], count=1) + texto[corte:]
         fila = re.compile(rf"^\| {n} +\|.*$", re.M)  # algunas pautas alinean con «| 6  |»
         if len(fila.findall(texto)) == 1:
             texto = fila.sub(lambda _m: c["pauta"], texto, count=1)

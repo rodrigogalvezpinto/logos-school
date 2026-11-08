@@ -16,37 +16,37 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuál es la regla de la secuencia 7, 12, 17, 22, 27...?
-a) Sumar 4
+**Pregunta 1.** ¿Cuál es la regla de la secuencia 4, 11, 18, 25, 32...?
+a) Sumar 6
 b) Multiplicar por 2
-c) Sumar 5
-d) Restar 5
+c) Sumar 7
+d) Restar 7
 
-**Pregunta 2.** Siguiendo la regla "comenzar en 5 y multiplicar por 2 cada vez": 5, 10, 20, ___, ___, ¿qué números siguen?
+**Pregunta 2.** Siguiendo la regla "comenzar en 3 y multiplicar por 3 cada vez": 3, 9, 27, ___, ___, ¿qué números siguen?
 
-a) 40 y 80
-b) 30 y 40
-c) 25 y 30
-d) 22 y 24
+a) 81 y 243
+b) 36 y 45
+c) 30 y 33
+d) 54 y 108
 
-**Pregunta 3.** En la secuencia 100, 91, 82, 73, la regla de formación es "restar 9". ¿Verdadero o falso?
+**Pregunta 3.** En la secuencia 60, 52, 44, 36, la regla de formación es "restar 8". ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
 
-**Pregunta 4.** En la secuencia 2, 5, 8, 11, ... (que suma 3 cada vez), ¿cuál es el término número 15?
+**Pregunta 4.** En la secuencia 5, 9, 13, 17, ... (que suma 4 cada vez), ¿cuál es el término número 10?
 
-a) 47
-b) 45
-c) 44
-d) 41
+a) 45
+b) 40
+c) 41
+d) 37
 
-**Pregunta 5.** ¿Cuál es la regla de formación de la secuencia 81, 27, 9, 3, 1?
+**Pregunta 5.** ¿Cuál es la regla de formación de la secuencia 64, 32, 16, 8, 4?
 
-a) Restar 54 cada vez
-b) Restar 3 cada vez
-c) Dividir el término anterior por 9
-d) Dividir el término anterior por 3
+a) Restar 32 cada vez
+b) Restar 4 cada vez
+c) Dividir el término anterior por 4
+d) Dividir el término anterior por 2
 
 **Pregunta 6.** Camila ahorra $2.000 la primera semana, y cada semana siguiente ahorra $500 más que la semana anterior (2.000, 2.500, 3.000, ...). ¿Cuánto ahorrará en la quinta semana?
 
@@ -55,13 +55,13 @@ b) $3.500
 c) $4.000
 d) $4.500
 
-**Pregunta 7.** Resuelve: x + 128 = 350. ¿Cuál es el valor de x?
-a) 212
-b) 222
-c) 232
-d) 478
+**Pregunta 7.** Resuelve: x + 245 = 610. ¿Cuál es el valor de x?
+a) 355
+b) 365
+c) 375
+d) 855
 
-**Pregunta 8.** En la ecuación x − 340 = 560, el valor de x es 900. ¿Verdadero o falso?
+**Pregunta 8.** En la ecuación x − 125 = 300, el valor de x es 425. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
@@ -73,11 +73,11 @@ b) x = 4.250
 c) x = 1.250
 d) x = 2.750
 
-**Pregunta 10.** Un estanque tenía cierta cantidad de agua. Se agregaron 850 litros y ahora tiene 2.100 litros. ¿Cuál ecuación representa esta situación?
-a) x − 850 = 2.100
-b) x + 850 = 2.100
-c) x × 850 = 2.100
-d) 2.100 + 850 = x
+**Pregunta 10.** Sofía tenía cierta cantidad de láminas. Le regalaron 35 y ahora tiene 120. ¿Cuál ecuación representa esta situación?
+a) x − 35 = 120
+b) x + 35 = 120
+c) x × 35 = 120
+d) 120 + 35 = x
 
 **Pregunta 11.** Para poder subir a un juego mecánico, un niño debe pesar más de 25 kg. Si x representa el peso del niño, ¿cuál inecuación representa esta condición, y cuáles de estos pesos cumplen la condición: 24 kg, 25 kg, 26 kg?
 
@@ -97,15 +97,15 @@ d) x = 75
 
 ## Pauta de respuestas
 
-1. **c) Sumar 5** — la diferencia entre cada número y el anterior es siempre 5.
-2. a) 40 y 80 — 20×2=40 y 40×2=80.
-3. **Verdadero** — 100−91=9, 91−82=9, 82−73=9; la diferencia siempre es 9.
-4. c) 44 — 2 + (14 × 3) = 44: desde el primer término se suma 3 catorce veces.
-5. d) Dividir el término anterior por 3. 81÷3=27, 27÷3=9, 9÷3=3, 3÷3=1.
+1. **c) Sumar 7** — la diferencia entre cada número y el anterior es siempre 7.
+2. a) 81 y 243 — 27×3=81 y 81×3=243.
+3. **Verdadero** — 60−52=8, 52−44=8, 44−36=8; la diferencia siempre es 8.
+4. c) 41 — 5 + (9 × 4) = 41: desde el primer término se suma 4 nueve veces.
+5. d) Dividir el término anterior por 2. 64÷2=32, 32÷2=16, 16÷2=8, 8÷2=4.
 6. c) $4.000 — 2.000 + (4 × 500) = 4.000.
-7. **b) 222** — x = 350 − 128 = 222. Comprobación: 222 + 128 = 350.
-8. **Verdadero** — x = 560 + 340 = 900. Comprobación: 900 − 340 = 560.
+7. **b) 365** — x = 610 − 245 = 365. Comprobación: 365 + 245 = 610.
+8. **Verdadero** — x = 300 + 125 = 425. Comprobación: 425 − 125 = 300.
 9. a) x = 1.750 — x = 3.000 − 1.250 = 1.750. Comprobación: 1.750 + 1.250 = 3.000.
-10. **b) x + 850 = 2.100** — cantidad inicial (x) más lo agregado (850) da la cantidad final (2.100); x = 1.250 litros.
+10. **b) x + 35 = 120** — cantidad inicial (x) más las regaladas (35) da la cantidad final (120); x = 85 láminas.
 11. d) x > 25; solo 26 kg. "Más de" es una desigualdad estricta: 25 kg justo no cumple.
 12. b) x = 45 — x = 75 − 30 = 45.

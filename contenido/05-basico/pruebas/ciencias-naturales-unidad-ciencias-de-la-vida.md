@@ -22,14 +22,13 @@ saludable, efectos del cigarrillo y microorganismos.
 
 ## Preguntas
 
-**1.** ¿Cuál es la unidad estructural más pequeña de todo ser vivo?
-a) El tejido
-b) El órgano
-c) La célula
-d) El sistema
+**1.** ¿Cuál es el orden correcto de organización del cuerpo, de lo más pequeño a lo más grande?
+a) Órgano → célula → sistema → tejido
+b) Sistema → órgano → tejido → célula
+c) Célula → tejido → órgano → sistema
+d) Tejido → célula → sistema → órgano
 
-**2.** *(Verdadero o falso)* Un órgano puede estar formado por distintos tipos de
-tejidos trabajando juntos.
+**2.** *(Verdadero o falso)* El estómago, los intestinos y el hígado trabajan juntos formando el sistema digestivo.
 
 **3.** ¿Cuál es el orden de los niveles de organización desde el más simple hasta el más complejo:
 sistema — célula — órgano — tejido?
@@ -39,15 +38,13 @@ b) Tejido → célula → sistema → órgano
 c) Sistema → órgano → tejido → célula
 d) Célula → órgano → tejido → sistema
 
-**4.** ¿Qué nutriente es fundamental para el crecimiento y la reparación de los
-tejidos del cuerpo?
-a) Carbohidratos
-b) Proteínas
-c) Agua
-d) Fibra
+**4.** Un deportista se lesionó un músculo. ¿Qué alimentos le ayudan más a reparar el tejido dañado?
+a) Dulces y bebidas
+b) Huevos, legumbres y pescado
+c) Solo agua
+d) Papas fritas
 
-**5.** *(Verdadero o falso)* Los carbohidratos, como el pan, el arroz y las papas,
-aportan principalmente la energía que el cuerpo usa para moverse.
+**5.** *(Verdadero o falso)* Las frutas y verduras aportan principalmente vitaminas y minerales que ayudan al cuerpo a funcionar bien y defenderse de enfermedades.
 
 **6.** ¿Qué alimentos tienen como aporte principal las **proteínas**?
 
@@ -59,15 +56,13 @@ c) Huevo
 d) Naranja
 e) Pan
 
-**7.** ¿Cuál de las siguientes es una enfermedad del sistema circulatorio relacionada
-con el consumo de tabaco?
-a) Asma
-b) Cáncer pulmonar
-c) Trombosis
-d) Infección respiratoria
+**7.** ¿Qué órgano daña directamente el humo del cigarrillo al ser inhalado?
+a) Los riñones
+b) El estómago
+c) Los pulmones
+d) Los huesos
 
-**8.** *(Verdadero o falso)* Solo las personas que fuman directamente pueden sufrir
-daños por el humo del cigarrillo.
+**8.** *(Verdadero o falso)* Fumar dentro de un auto con niños no les causa ningún daño si se baja un poco la ventana.
 
 **9.** ¿Qué enfermedades afectan principalmente al **sistema circulatorio**?
 
@@ -78,14 +73,13 @@ b) Cáncer pulmonar
 c) Trombosis
 d) Asma
 
-**10.** ¿Cuál de los siguientes es un ejemplo de microorganismo beneficioso para la
-salud?
-a) El virus de la influenza, que activa las defensas
-b) Las bacterias intestinales que ayudan a la digestión
-c) El hongo que causa el pie de atleta en la piel
-d) La bacteria que causa una infección en el estómago
+**10.** ¿Cuál de los siguientes es un uso **beneficioso** de los microorganismos?
+a) El virus que causa el resfrío
+b) Las levaduras que permiten que suba la masa del pan
+c) La bacteria que causa una intoxicación
+d) El hongo que pudre la fruta
 
-**11.** *(Verdadero o falso)* Todos los hongos son dañinos para la salud humana.
+**11.** *(Verdadero o falso)* Todas las bacterias causan enfermedades.
 
 **12.** ¿Qué microorganismos son **beneficiosos**?
 
@@ -100,23 +94,23 @@ d) Hongo del pie de atleta
 
 ## Pauta de respuestas
 
-1. **c) La célula.** Todos los seres vivos, desde una bacteria hasta una persona, están
+1. **c) Célula → tejido → órgano → sistema.** Las células forman tejidos, los tejidos forman órganos y varios órganos forman un sistema.
    formados por una o más células.
-2. **Verdadero.** Por ejemplo, el corazón combina tejido muscular, nervioso y
+2. **Verdadero.** Varios órganos que cumplen una función en común forman un sistema.
    conectivo para cumplir su función.
 3. a) Célula → tejido → órgano → sistema. Cada nivel agrupa varias unidades del nivel anterior.
-4. **b) Proteínas.** Presentes en carnes, legumbres, huevos y lácteos; son esenciales
+4. **b) Huevos, legumbres y pescado.** Son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos.
    para construir y reparar tejidos.
-5. **Verdadero.** Los carbohidratos son la principal fuente de energía para las
+5. **Verdadero.** Son alimentos reguladores: aportan vitaminas, minerales y fibra.
    actividades diarias.
 6. a y c — Proteínas: legumbres y huevo. Carbohidratos: arroz y pan. Vitaminas y minerales: naranja. Grasas: palta.
-7. **c) Trombosis.** Formación de coágulos que pueden obstruir los vasos sanguíneos,
+7. **c) Los pulmones.** El humo entra por las vías respiratorias y daña los pulmones; también afecta al corazón y los vasos sanguíneos.
    un efecto del tabaco sobre el sistema circulatorio.
-8. **Falso.** Las personas expuestas de forma pasiva al humo (fumadores pasivos)
+8. **Falso.** Los niños respiran el humo igual: son fumadores pasivos y pueden sufrir daños en su salud.
    también pueden desarrollar enfermedades respiratorias y circulatorias.
 9. a y c — Arritmias y trombosis afectan el sistema circulatorio; cáncer pulmonar y asma, el respiratorio.
-10. **b) Las bacterias intestinales que ayudan a la digestión.** No todas las
+10. **b) Las levaduras que permiten que suba la masa del pan.** Algunos microorganismos se usan para producir alimentos como el pan, el yogur y el queso.
     bacterias son dañinas: algunas cumplen funciones beneficiosas.
-11. **Falso.** Algunos hongos, como los champiñones, son comestibles y nutritivos;
+11. **Falso.** Muchas bacterias son beneficiosas, como las que ayudan a la digestión o las que se usan para hacer yogur.
     otros pueden causar infecciones.
 12. a y c — Beneficiosos: hongo comestible y bacteria intestinal. Dañinos: virus de la gripe y hongo del pie de atleta.

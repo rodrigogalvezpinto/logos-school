@@ -27,18 +27,16 @@ desarrollo sostenible)
 
 ## Preguntas
 
-**1. (Alternativas)** ¿Qué zona natural de Chile se caracteriza por un clima desértico y por
-ser la principal zona minera de cobre del país?
+**1. (Alternativas)** ¿Qué zona natural de Chile se caracteriza por sus fiordos, glaciares, clima frío y muy poca población?
 
 a) Zona Central
-b) Zona Sur
-c) Norte Grande
-d) Zona Austral
+b) Norte Chico
+c) Zona Austral
+d) Norte Grande
 
 ---
 
-**2. (Verdadero o Falso)** La Zona Central de Chile es la que concentra la mayor cantidad de
-población del país.
+**2. (Verdadero o Falso)** El Norte Chico se caracteriza por valles transversales donde se cultivan uvas y frutas, como el valle del Elqui.
 
 ---
 
@@ -75,27 +73,25 @@ d) Solo el desierto costero, con dunas y quebradas
 
 ---
 
-**6. (Alternativas)** ¿Qué comparación entre dos zonas naturales de Chile es correcta?
+**6. (Alternativas)** ¿Qué comparación entre la Zona Central y la Zona Austral es correcta?
 
-a) El Norte Grande es lluvioso y tiene bosques; la Zona Sur es desértica y su recurso principal es la minería
-b) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques
-c) La Zona Central y la Zona Austral tienen el mismo clima, la misma población y los mismos recursos naturales
-d) La Zona Austral es la más poblada de Chile y tiene un clima desértico, ideal para la agricultura
+a) La Zona Central es la menos poblada; la Austral, la más poblada
+b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población
+c) Las dos tienen el mismo clima y la misma población
+d) La Zona Austral es desértica y la Central, glacial
 
 ---
 
-**7. (Alternativas)** ¿En qué zona natural de Chile se concentra principalmente la
-producción de cobre?
+**7. (Alternativas)** ¿En qué zona natural de Chile se desarrolla principalmente la ganadería ovina (de ovejas)?
 
-a) Zona Austral
-b) Norte Grande
-c) Zona Sur
+a) Norte Grande
+b) Zona Austral
+c) Norte Chico
 d) Zona Central
 
 ---
 
-**8. (Verdadero o Falso)** El hierro y el cobre son considerados recursos naturales
-renovables.
+**8. (Verdadero o Falso)** El petróleo y el carbón son recursos naturales renovables.
 
 ---
 
@@ -113,22 +109,21 @@ d) La pesca se concentra en el desierto del Norte Grande, los bosques en la cost
 
 ---
 
-**10. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de acción que favorece el
-desarrollo sostenible de un recurso renovable?
+**10. (Alternativas)** ¿Cuál de las siguientes acciones favorece el **uso sostenible** del agua en una comunidad agrícola?
 
-a) Talar bosques sin reforestar
-b) Pescar sin ningún límite ni control durante todo el año
-c) Establecer vedas pesqueras y reforestar zonas taladas
-d) Extraer cobre sin ninguna regulación ambiental
+a) Regar los cultivos a pleno sol con mangueras abiertas
+b) Botar desechos al canal de regadío
+c) Usar riego por goteo y reparar las filtraciones de los canales
+d) Extraer agua de los ríos sin ningún control
 
 ---
 
-**11. (Varias correctas — clasificar)** ¿Cuáles de estos recursos naturales son **renovables**? Marca todas las correctas.
+**11. (Varias correctas — clasificar)** ¿Cuáles de estos recursos naturales son **no renovables**? Marca todas las correctas.
 
-a) Cobre
-b) Bosque nativo
-c) Hierro
-d) Recursos marítimos (peces)
+a) Agua de lluvia
+b) Petróleo
+c) Bosque de eucaliptos plantado
+d) Carbón
 
 ---
 
@@ -144,10 +139,10 @@ d) No es importante: todos los recursos son iguales y se recuperan con el tiempo
 
 ## Pauta de respuestas
 
-**1.** c) Norte Grande. Incluye el desierto de Atacama, clima desértico y concentra gran
+**1.** c) Zona Austral. Tiene clima frío y lluvioso, fiordos, glaciares y es la zona menos poblada del país.
 parte de la producción de cobre del país.
 
-**2.** Verdadero. La Zona Central, que incluye la Región Metropolitana, concentra la mayor
+**2.** Verdadero. Los valles transversales del Norte Chico, como el Elqui y el Limarí, permiten la agricultura.
 densidad y cantidad de población de Chile.
 
 **3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
@@ -158,19 +153,19 @@ densidad y cantidad de población de Chile.
 litorales. La Zona Central presenta con mayor claridad las cuatro macroformas de relieve de
 Chile continental.
 
-**6.** b) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques
+**6.** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población.
 
-**7.** b) Norte Grande. Especialmente la Región de Antofagasta concentra la mayor parte de la
+**7.** b) Zona Austral. Sus grandes praderas, como las de Magallanes, permiten la crianza de ovejas.
 producción de cobre de Chile.
 
-**8.** Falso. Ambos son minerales y, por lo tanto, recursos no renovables: una vez extraídos,
+**8.** Falso. Se formaron durante millones de años: una vez extraídos, no se renuevan.
 no se regeneran en una escala de tiempo humana.
 
 **9.** c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
 
-**10.** c) Establecer vedas pesqueras y reforestar zonas taladas. Son ejemplos concretos de
+**10.** c) Usar riego por goteo y reparar las filtraciones de los canales. Así se aprovecha el agua sin desperdiciarla.
 cómo cuidar recursos renovables en el marco del desarrollo sostenible.
 
-**11.** b y d — Los minerales (cobre, hierro) son no renovables; los bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
+**11.** b y d — El petróleo y el carbón no se renuevan; el agua de lluvia y los bosques plantados se pueden renovar.
 
 **12.** a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si no se sobreexplotan

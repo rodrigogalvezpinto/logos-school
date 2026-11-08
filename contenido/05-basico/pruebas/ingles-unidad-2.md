@@ -28,12 +28,12 @@ corresponda. Fíjate en el ejemplo de cada parte antes de responder.
 
 ### Parte A — OA N°14: Completar textos siguiendo un modelo
 
-**1.** *(Completar)* Complete the shopping list: *"I need milk, eggs and ___."*
+**1.** *(Completar)* Complete the list of school supplies: *"I need a pencil, an eraser and a ___."*
 
-a) bread
-b) chair
-c) Monday
-d) blue
+a) ruler
+b) Tuesday
+c) sandwich
+d) red
 
 **2.** *(Completar)* Complete the postcard model: *"Dear Ana, the weather is ___. I like the beach."* Elige la palabra que combine mejor con "me
 gusta la playa".
@@ -43,46 +43,46 @@ b) cold
 c) snowy
 d) sunny
 
-**3.** *(Alternativas)* ¿Qué palabra falta para completar correctamente: *"Dear
-Mom, ___ Diego."* (modelo de despedida en una postal)?
-a) Hello,
+**3.** *(Alternativas)* ¿Qué palabra falta para empezar correctamente una postal: *"___ Grandma, I am in Arica."*?
+a) From
 b) And
-c) Where,
-d) From,
+c) Where
+d) Dear
+
 **4.** *(Verdadero o falso)* ¿Es un ejemplo adecuado para una lista de compras de
 alimentos escribir: *"I need a dog and a cat."*?
 
-**5.** *(Alternativas — escribir siguiendo un modelo)* Model: *"My name is
-___. I am ___ years old. I like ___."* Which text completes the model correctly?
+**5.** *(Alternativas — escribir siguiendo un modelo)* Model: *"I have a ___. It is ___. Its name is ___."* Which text completes the model correctly?
 
-a) My name is eleven. I am Juan years old. I like soccer.
-b) My name is Juan. I am eleven years old. I like soccer.
-c) My name is Juan. I am soccer years old. I like eleven.
-d) My name is soccer. I am Juan years old. I like eleven.
+a) I have a black. It is cat. Its name is Toby.
+b) I have a cat. It is black. Its name is Toby.
+c) I have a Toby. It is cat. Its name is black.
+d) I have a name. It is Toby. Its name is cat.
 
-**6.** *(Completar)* Complete the rhyme: *"The sky is blue, the grass is ___."*
+**6.** *(Completar)* Complete the rhyme: *"I see a cat, it has a ___."*
 
 a) Monday
 b) happy
-c) green
-d) ten
+c) hat
+d) seven
 
 ---
 
 ### Parte B — OA N°15: Escribir oraciones para describir, preguntar y contar
 
-**7.** *(Completar)* Complete: *"___ is a ball on the chair."*
+**7.** *(Completar)* Complete: *"___ are two pencils in my pencil case."*
 
 a) There
 b) They
 c) It
 d) We
 
-**8.** *(Alternativas)* ¿Qué palabra indica que un objeto está **debajo** de otro?
+**8.** *(Alternativas)* ¿Qué palabra indica que un objeto está **al lado** de otro?
 a) on
 b) in
-c) under
-d) and
+c) next to
+d) under
+
 **9.** *(Completar con número)* Complete: *"There are ___ pencils in my pencil
 case."* (number 7)
 
@@ -91,41 +91,38 @@ b) eight
 c) seventy
 d) seven
 
-**10.** *(Verdadero o falso)* La oración *"The ball is on the table"* significa
-que la pelota está debajo de la mesa.
+**10.** *(Verdadero o falso)* La oración *"The cat is under the bed"* significa que el gato está debajo de la cama.
 
-**11.** *(Completar — pregunta y respuesta)* Complete the dialogue: *"— Is this
-your dog? — Yes, ___."*
+**11.** *(Completar — pregunta y respuesta)* Complete the dialogue: *"— Are you a student? — Yes, ___."*
 
-a) it isn't
-b) it is
-c) I am
+a) I'm not
+b) I am
+c) it is
 d) they are
 
-**12.** *(Alternativas — desafiante)* ¿Qué oración describe correctamente una
-posesión?
-a) The sky is blue.
-b) This is my book.
-c) It is raining.
-d) Where is the cat?
+**12.** *(Alternativas — desafiante)* ¿Qué oración describe correctamente una posesión?
+a) The dog is big.
+b) These are her shoes.
+c) It is cold.
+d) Where are the shoes?
 
 ---
 
 ## Pauta de respuestas
 
-1. a) bread. La lista de compras se completa con alimentos.
+1. a) ruler. La lista de útiles escolares se completa con un útil: *ruler* (regla).
 2. d) sunny. Si el clima combina con ir a la playa, lo más coherente es un día soleado.
-3. **d) From.** Se usa para firmar cartas y postales antes del nombre de quien
+3. **d) Dear.** Se usa al comienzo de cartas y postales, antes del nombre de quien la recibe.
    escribe.
 4. **False (Falso).** Aunque esté bien escrito gramaticalmente, no corresponde a
    una lista de compras de alimentos.
-5. b) My name is Juan. I am eleven years old. I like soccer. Cada espacio debe tener el tipo de información correcta: nombre, edad (número) y un gusto.
-6. c) green. Es un color, igual que *blue*, y describe correctamente el pasto.
-7. a) There. *There is* indica que algo existe o está en un lugar, en singular.
-8. **c) under.** *On* es "sobre/encima" e *in* es "dentro de".
+5. b) I have a cat. It is black. Its name is Toby. Cada espacio lleva el tipo de información correcta: animal, color y nombre.
+6. c) hat. *Hat* (sombrero) rima con *cat* y completa la oración con sentido.
+7. a) There. *There are* indica que hay varias cosas en un lugar (plural).
+8. **c) next to.** *On* es "sobre", *in* es "dentro de" y *under* es "debajo de".
 9. d) seven. Seven = siete; *seventy* es setenta.
-10. **False (Falso).** *On* significa "sobre/encima de", no "debajo de" (esa es
+10. **True (Verdadero).** *Under* significa "debajo de".
     *under*).
-11. b) it is. La respuesta corta a *Is this...?* es *Yes, it is.* o *No, it isn't.*; *Yes, it isn't* se contradice.
-12. **b) This is my book.** *My* indica posesión; las otras oraciones describen
+11. b) I am. La respuesta corta a *Are you...?* es *Yes, I am.* o *No, I'm not.*
+12. **b) These are her shoes.** *Her* indica que los zapatos le pertenecen a ella.
     clima, ubicación o hacen una pregunta.

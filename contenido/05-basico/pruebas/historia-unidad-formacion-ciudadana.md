@@ -27,17 +27,16 @@ deberes y responsabilidades)
 
 ## Preguntas
 
-**1. (Alternativas)** ¿Qué significa que los derechos humanos sean "universales"?
+**1. (Alternativas)** Una niña migrante que llegó desde Venezuela, ¿tiene derecho a estudiar en una escuela de Chile?
 
-a) Que solo algunas personas los tienen, según su etnia
-b) Que todas las personas los tienen, sin excepción
-c) Que dependen del lugar donde una persona nace
-d) Que solo se aplican a los adultos
+a) No, porque no nació en Chile
+b) Sí, porque los derechos humanos son de todas las personas
+c) Solo si habla otro idioma
+d) Solo cuando sea adulta
 
 ---
 
-**2. (Verdadero o Falso)** Los derechos de una persona pueden variar según su etnia o su
-lugar de nacimiento.
+**2. (Verdadero o Falso)** Un niño y una niña tienen los mismos derechos.
 
 ---
 
@@ -62,17 +61,16 @@ d) Ningún principio, porque contratar es una decisión privada de cada empresa
 
 ---
 
-**5. (Alternativas)** ¿Qué significa ser "sujeto de derecho"?
+**5. (Alternativas)** Un recién nacido todavía no habla ni trabaja. ¿Tiene derechos?
 
-a) Que los derechos se ganan con buenas notas y buen comportamiento en la escuela y en la casa
-b) Que solo los adultos tienen derechos, porque los niños todavía no pueden votar ni trabajar
-c) Que los derechos son un favor que el Estado entrega y que se puede quitar cuando quiera
-d) Que, por el solo hecho de ser persona, cada individuo tiene derechos que deben ser reconocidos y respetados
+a) No, porque todavía no hace nada
+b) Solo cuando cumpla 18 años
+c) Solo si sus padres trabajan
+d) Sí, porque es persona desde que nace y es sujeto de derecho
 
 ---
 
-**6. (Verdadero o Falso)** Una persona con una discapacidad tiene los mismos derechos que
-cualquier otra persona.
+**6. (Verdadero o Falso)** Una persona mayor que ya no trabaja sigue teniendo los mismos derechos que cualquier otra persona.
 
 ---
 
@@ -86,25 +84,22 @@ d) Prohibir la formación de partidos políticos para evitar los conflictos entr
 
 ---
 
-**8. (Verdadero o Falso)** Tener derechos no genera ningún deber para las personas.
+**8. (Verdadero o Falso)** El derecho a jugar en la plaza no tiene relación con cuidar los juegos y respetar el turno de los demás.
 
 ---
 
-**9. (Alternativas)** ¿Cuál de las siguientes es una forma de participación en la vida
-pública que el Estado debe garantizar?
+**9. (Alternativas)** ¿Cuál de las siguientes es una forma de **participación ciudadana**?
 
-a) El derecho a sufragio
-b) El derecho a no pagar impuestos
-c) El derecho a no respetar las leyes
-d) El derecho a impedir que otras personas voten
+a) Votar en las elecciones
+b) Botar basura en la calle
+c) No respetar las señales de tránsito
+d) Impedir que otros den su opinión
 
 ---
 
-**10. (Alternativas — unir)** Une cada situación con el deber o responsabilidad que
-representa:
+**10. (Alternativas — unir)** Une cada situación con lo que representa:
 
-1) Una persona respeta la opinión distinta de un compañero — 2) El Estado garantiza acceso a
-la educación para todos los niños — 3) Un grupo de vecinos forma una junta de vecinos
+1) Un estudiante escucha sin burlarse la idea de su compañera — 2) El Estado construye un consultorio en una comuna — 3) Un grupo de apoderados forma un centro de padres
 
 Opciones: (A) Responsabilidad del Estado de asegurar derechos — (B) Deber de respetar los derechos de los demás — (C) Ejercicio del derecho a participación social
 
@@ -119,30 +114,28 @@ d) 1-B, 2-C, 3-A
 
 **11. (Alternativas)** ¿Qué pareja une correctamente un derecho con el deber que corresponde al ejercerlo?
 
-a) Libertad de expresión → obligar a otros a pensar igual que uno para evitar conflictos
-b) Derecho a la educación → no asistir nunca a clases, porque la educación es un derecho opcional
-c) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás
-d) Derecho a la propiedad → tomar las cosas de los demás cuando uno las necesite
+a) Derecho a la salud → no seguir nunca las indicaciones del médico
+b) Derecho a la educación → romper los materiales de la escuela
+c) Derecho a la recreación → usar los juegos de la plaza cuidándolos y respetando el turno de los demás
+d) Derecho a la vivienda → ocupar la casa del vecino
 
 ---
 
-**12. (Alternativas — análisis de caso)** En una comuna, un grupo de vecinos decide formar una fundación
-para ayudar a familias con menos recursos. ¿Qué derecho están ejerciendo y por qué es
-importante que el Estado lo garantice?
+**12. (Alternativas — análisis de caso)** En un liceo, los estudiantes eligen a su centro de alumnos para proponer mejoras a la dirección. ¿Qué derecho están ejerciendo?
 
-a) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes
-b) El derecho a voto; permite elegir al alcalde y a los concejales que ayudan a las familias de la comuna
-c) El derecho a la salud; permite atenderse en el hospital y recibir medicamentos sin costo para las familias
-d) Ninguno; formar fundaciones está prohibido para los vecinos y solo puede hacerlo la municipalidad
+a) El derecho a la participación: organizarse y elegir representantes para resolver problemas comunes
+b) El derecho a la salud
+c) El derecho a la propiedad
+d) Ninguno, porque solo los adultos pueden organizarse
 
 ---
 
 ## Pauta de respuestas
 
-**1.** b) Que todas las personas los tienen, sin excepción. La universalidad es central: los
+**1.** b) Sí, porque los derechos humanos son de todas las personas. Son universales: no dependen del lugar de nacimiento.
 derechos se poseen por el solo hecho de ser persona.
 
-**2.** Falso. Los derechos no dependen de características individuales como la etnia, el
+**2.** Verdadero. Los derechos no dependen del sexo ni de ninguna otra característica individual.
 sexo o el lugar de nacimiento: son los mismos para todas las personas.
 
 **3.** c) Los pares, la comunidad y el Estado. El respeto a los derechos involucra a otras
@@ -150,23 +143,23 @@ personas, el entorno cercano y las instituciones del Estado.
 
 **4.** a) El principio de universalidad: los derechos son iguales para todas las personas. Se discrimina por el lugar de nacimiento, que no debería influir en el acceso a los derechos.
 
-**5.** d) Que, por el solo hecho de ser persona, cada individuo tiene derechos que deben ser reconocidos y respetados
+**5.** d) Sí, porque es persona desde que nace y es sujeto de derecho.
 
-**6.** Verdadero. Los derechos son universales: ninguna característica individual, incluida
+**6.** Verdadero. Los derechos son universales: la edad no los quita.
 una condición de discapacidad, disminuye o cambia los derechos que una persona posee.
 
 **7.** b) Asegurar que las personas puedan ejercer derechos como la educación y la salud. El
 Estado debe garantizar que los derechos se puedan ejercer efectivamente, no solo
 reconocerlos.
 
-**8.** Falso. Los derechos siempre están acompañados de deberes: por ejemplo, respetar los
+**8.** Falso. Los derechos van acompañados de deberes: cuidar los espacios comunes y respetar a los demás.
 derechos de los demás y respetar las leyes.
 
-**9.** a) El derecho a sufragio. Votar en elecciones es una de las formas fundamentales de
+**9.** a) Votar en las elecciones. Elegir a las autoridades es una forma fundamental de participar en la vida pública.
 participación en la vida pública que el Estado debe asegurar.
 
-**10.** b) 1-B, 2-A, 3-C — respeto mutuo, responsabilidad del Estado y participación ciudadana
+**10.** b) 1-B, 2-A, 3-C — respeto mutuo, responsabilidad del Estado y participación
 
-**11.** c) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás
+**11.** c) Derecho a la recreación → usar los juegos cuidándolos y respetando el turno de los demás
 
-**12.** a) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes
+**12.** a) El derecho a la participación: organizarse y elegir representantes para resolver problemas comunes

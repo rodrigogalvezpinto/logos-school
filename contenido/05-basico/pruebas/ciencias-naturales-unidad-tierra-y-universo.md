@@ -22,15 +22,13 @@ Tierra, y el impacto de la actividad humana en las reservas hídricas.
 
 ## Preguntas
 
-**1.** ¿Qué porcentaje aproximado del agua de la Tierra corresponde a agua salada
-(océanos)?
-a) Cerca del 3%
+**1.** ¿Qué porcentaje aproximado del agua de la Tierra es agua dulce?
+a) Cerca del 97%
 b) Cerca del 50%
-c) Cerca del 97%
-d) Cerca del 10%
+c) Cerca del 3%
+d) Cerca del 75%
 
-**2.** *(Verdadero o falso)* La mayor parte del agua dulce del planeta está
-disponible en forma líquida en ríos y lagos.
+**2.** *(Verdadero o falso)* Los glaciares de Chile son una gran reserva de agua dulce.
 
 **3.** ¿Qué depósitos contienen agua **dulce**?
 
@@ -58,21 +56,19 @@ b) Porque el agua dulce se evapora y desaparece del planeta para siempre cada ve
 c) Porque solo hay agua dulce en Chile y en unos pocos países del mundo
 d) Porque el agua salada se puede beber directamente, y por eso no se cuida el agua dulce
 
-**6.** ¿Cuál de las siguientes es una consecuencia negativa de la actividad humana
-sobre un río?
-a) La creación de un área protegida a orillas del río
-b) El vertido de desechos industriales sin tratar
-c) El tratamiento de aguas servidas antes de devolverlas
-d) La fiscalización de la contaminación por las autoridades
+**6.** ¿Cuál de las siguientes acciones humanas **daña** un lago?
+a) Instalar basureros en la orilla
+b) Lavar autos en la orilla y dejar que el detergente caiga al agua
+c) Prohibir las motos acuáticas en zonas de aves
+d) Limpiar la basura de la playa del lago
 
-**7.** *(Verdadero o falso)* Todas las actividades humanas relacionadas con el agua
-tienen un efecto negativo sobre los cuerpos de agua.
+**7.** *(Verdadero o falso)* Una planta de tratamiento que limpia las aguas servidas antes de devolverlas al río ayuda a cuidar el agua.
 
-**8.** ¿Qué forma de contaminación afecta con más frecuencia a los **ríos**?
+**8.** ¿Qué forma de contaminación afecta con más frecuencia al **océano**?
 
-a) El vertido de aguas servidas sin tratar
-b) Un derrame de petróleo de un barco
-c) La basura plástica en la playa
+a) La basura plástica y los derrames de petróleo
+b) El riego excesivo de un huerto
+c) Las aguas servidas de una casa rural en un estero
 
 **9.** ¿Por qué el retroceso de los glaciares en la Patagonia chilena es
 preocupante para la disponibilidad futura de agua dulce?
@@ -95,20 +91,20 @@ d) Verter basura es positiva porque alimenta a los peces, y el área protegida e
 
 ## Pauta de respuestas
 
-1. **c) Cerca del 97%.** La gran mayoría del agua del planeta es agua salada,
+1. **c) Cerca del 3%.** Casi toda el agua del planeta es salada; solo una pequeña parte es dulce.
    contenida en los océanos; el agua dulce representa solo una pequeña fracción.
-2. **Falso.** La mayor parte del agua dulce está congelada en glaciares y casquetes
+2. **Verdadero.** La mayor parte del agua dulce del planeta está congelada en glaciares y casquetes polares.
    polares, o se encuentra como aguas subterráneas; ríos y lagos son una fracción
    menor.
 3. b, c y d — Salada: océano Pacífico. Dulce: glaciar, lago y agua subterránea.
 4. a, b y d — El océano es agua salada; los glaciares, lagos y ríos del sur son grandes reservas de agua dulce.
 5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea
-6. **b) El vertido de desechos industriales sin tratar.** Contamina el agua y afecta
+6. **b) Lavar autos en la orilla y dejar que el detergente caiga al agua.** El detergente contamina el agua y afecta a peces y plantas.
    a los seres vivos que dependen de ella; las otras opciones son acciones de
    protección.
-7. **Falso.** Existen también efectos positivos, como el tratamiento de aguas
+7. **Verdadero.** Es un efecto positivo de la actividad humana sobre los cuerpos de agua.
    servidas o la creación de áreas protegidas, que ayudan a conservar los recursos
    hídricos.
-8. a) El vertido de aguas servidas sin tratar. El derrame de petróleo y la basura plástica afectan sobre todo al océano y la costa.
+8. a) La basura plástica y los derrames de petróleo. Llegan al mar desde la costa y los barcos, y dañan a peces, aves y mamíferos marinos.
 9. d) Porque son una de las principales reservas de agua dulce, y si retroceden se reduce el agua disponible a largo plazo
 10. b) Verter basura es negativa porque contamina el agua; el área protegida es positiva porque resguarda el ecosistema

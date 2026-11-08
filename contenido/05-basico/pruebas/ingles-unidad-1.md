@@ -29,53 +29,50 @@ cada palabra — apóyate en las imágenes descritas, los cognados y el contexto
 
 ### Parte A — OA N°5: Comprender textos cortos
 
-**1.** *(Alternativas)* Read: *"Hi! I am Pedro. I am eleven years old."* What is his
-name?
-a) Ana
-b) Sofía
-c) Diego
-d) Pedro
+**1.** *(Alternativas)* Read: *"Hello! My name is Valentina. I am nine years old."* How old is she?
+a) eleven
+b) ten
+c) eight
+d) nine
+
 **2.** *(Verdadero o falso)* Read: *"My mother is a doctor. My father is a
 teacher."* Statement: *His father is a doctor.*
 
-**3.** *(Alternativas — palabra e imagen)* Imagina un dibujo de un niño feliz
-saltando bajo el sol. ¿Qué palabra en inglés describe mejor su estado de ánimo?
+**3.** *(Alternativas — palabra e imagen)* ::dibujo::😢:: ¿Qué palabra en inglés describe mejor cómo se siente este niño?
 
-a) happy
-b) sad
-c) angry
-d) tired
+a) sad
+b) happy
+c) hungry
+d) funny
 
-**4.** *(Alternativas — comprensión)* Read: *"I am Camila. I am ten years old. I live in
-Santiago."* Answer: *Where does Camila live?*
+**4.** *(Alternativas — comprensión)* Read: *"I am Lucas. I am eleven. I live in Temuco with my grandmother."* Answer: *Who does Lucas live with?*
 
-a) She is ten years old.
-b) She is Camila.
-c) She lives in a house.
-d) She lives in Santiago.
+a) He is eleven.
+b) He is Lucas.
+c) He lives in a school.
+d) He lives with his grandmother.
 
 ---
 
 ### Parte B — OA N°6: Notas, postales e invitaciones
 
-**5.** *(Alternativas)* Read: *"You are invited to my birthday party!"* ¿Cuál es el
-propósito de este texto?
-a) Invitar a una celebración
+**5.** *(Alternativas)* Read: *"Thank you for the beautiful present!"* ¿Cuál es el propósito de este texto?
+a) Agradecer un regalo
 b) Dar una receta
 c) Pedir disculpas
 d) Describir el clima
 
-**6.** *(Completar)* Complete: *"___, I don't have a pencil. Can I borrow yours?"*
+**6.** *(Completar)* Complete: *"___ for being late. The bus didn't come."*
 a) Thank you
 b) Happy birthday
 c) Goodbye
-d) Excuse me
-**7.** *(Alternativas — palabra e imagen)* Imagina una tarjeta con un pastel,
-globos y velas. ¿Qué tipo de texto es más probable?
+d) Sorry
 
-a) a menu
-b) a birthday card
-c) a shopping list
+**7.** *(Alternativas — palabra e imagen)* Imagina un papel que dice: *"Milk, bread, eggs, apples"*. ¿Qué tipo de texto es más probable?
+
+a) a birthday card
+b) a shopping list
+c) a postcard
 d) a weather report
 
 **8.** *(Alternativas — desafiante)* Read a short email: *"Hi Diego, Thank you for
@@ -90,51 +87,48 @@ d) Invita a una fiesta
 
 ### Parte C — OA N°8: Reaccionar y opinar sobre lo leído
 
-**9.** *(Alternativas)* Which sentence expresses a preference (una preferencia)?
-a) The cat is black.
-b) I prefer summer.
-c) The house is big.
-d) It is Monday.
+**9.** *(Alternativas)* Which sentence expresses an opinion (una opinión)?
+a) The dog is brown.
+b) I think math is fun.
+c) The school is near.
+d) It is Friday.
 
-**10.** *(Verdadero o falso)* Read: *"Diego likes rainy days. He likes to read
-books inside."* Statement: *Diego prefers sunny days.*
+**10.** *(Verdadero o falso)* Read: *"Martina loves the beach. She swims every summer."* Statement: *Martina doesn't like the beach.*
 
-**11.** *(Completar)* Complete: *I ___ pizza, but I don't like fish.*
+**11.** *(Completar)* Complete: *I ___ apples, but I don't like bananas.*
 
 a) likes
 b) liking
 c) like
 d) to like
 
-**12.** *(Alternativas — desafiante)* Read: *"Tomás is short and likes soccer.
-Sofía is tall and likes basketball."* ¿Qué oración compara correctamente a los dos
-personajes?
-a) Tomás and Sofía are the same.
-b) Tomás is different from Sofía.
-c) Tomás and Sofía don't like sports.
-d) Sofía is short.
+**12.** *(Alternativas — desafiante)* Read: *"Ana has long hair and likes music. Pablo has short hair and likes music too."* ¿Qué oración es correcta?
+a) Ana and Pablo don't like music.
+b) Ana and Pablo both like music.
+c) Pablo has long hair.
+d) Ana doesn't like music.
 
 ---
 
 ## Pauta de respuestas
 
-1. **d) Pedro.** El texto lo dice directamente con "I am Pedro" (información
+1. **d) nine.** El texto dice "I am nine years old" (información explícita).
    explícita).
 2. **False (Falso).** El texto dice que el papá es *teacher* (profesor) y la mamá
    es *doctor*.
-3. a) happy. *Happy* significa feliz/contento, coherente con un niño sonriendo y saltando.
-4. d) She lives in Santiago. La pregunta usa *where* (dónde); el lugar mencionado es Santiago.
-5. **a) Invitar a una celebración.** La palabra *invited* y *birthday party*
+3. a) sad. *Sad* significa triste, coherente con la cara con lágrimas.
+4. d) He lives with his grandmother. La pregunta usa *who* (con quién); el texto dice *with my grandmother*.
+5. **a) Agradecer un regalo.** *Thank you* y *present* (regalo) muestran que la persona agradece.
    muestran que el propósito es invitar.
-6. **d) Excuse me.** Se usa para pedir algo con cortesía, como pedir prestado un
+6. **d) Sorry.** Se usa para pedir disculpas, por ejemplo por llegar tarde.
    lápiz.
-7. b) a birthday card. Pastel con velas y globos son elementos típicos de una tarjeta de cumpleaños.
+7. b) a shopping list. Es una lista de alimentos para comprar.
 8. **c) Agradece y se disculpa.** El texto incluye *thank you* e *I'm sorry*: hay
    que identificar ambas ideas.
-9. **b) I prefer summer.** *I prefer* expresa gusto o preferencia; las otras
+9. **b) I think math is fun.** *I think* expresa una opinión; las otras oraciones describen hechos.
    oraciones solo describen hechos.
-10. **False (Falso).** El texto dice explícitamente que a Diego le gustan los días
+10. **False (Falso).** El texto dice que a Martina le encanta la playa (*loves the beach*).
     lluviosos (*rainy days*), no los soleados.
-11. c) like. Con el sujeto *I*, el verbo se usa en su forma simple (*likes* es solo para *he/she/it*).
-12. **b) Tomás is different from Sofía.** Uno es *short* y le gusta el fútbol; la
+11. c) like. Con el sujeto *I*, el verbo va en su forma simple (*likes* es para *he/she/it*).
+12. **b) Ana and Pablo both like music.** Los dos tienen gustos en común (la música), aunque su pelo es distinto.
     otra es *tall* y le gusta el básquetbol.

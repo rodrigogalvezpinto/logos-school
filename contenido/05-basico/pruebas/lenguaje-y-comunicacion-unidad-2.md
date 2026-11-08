@@ -19,49 +19,57 @@ narraciones creativas), N°15 (Escribo artículos informativos).
 **Tiempo sugerido:** 25-30 minutos.
 **Preguntas:** 12.
 
-> Instrucciones: lee con atención cada pregunta antes de responder. Puedes releer el afiche
-> "Feria Científica Escolar 2026", el ejemplo de la partida de ajedrez entre Matías y Josefa,
-> y el artículo "El huemul, un símbolo en peligro" en tu guía de estudio si lo necesitas.
+**Instrucciones:** lee con atención cada texto y cada pregunta antes de responder.
 
 ---
 
 ## Parte A — OA N°7: Evaluación crítica de textos
 
-**1. (Alternativas)** ¿Quién es el **emisor** del afiche de la Feria Científica?
+*(Lee el afiche y responde las preguntas 1 a 4.)*
 
-a) Los estudiantes de 5° básico que presentarán sus proyectos
-b) El Ministerio de Educación, que organiza todas las ferias
-c) El Departamento de Ciencias de la Escuela Los Aromos
-d) Una empresa de robótica que vende material para la feria
+> **¡GRAN FIESTA DE LA CHILENIDAD 2026!**
+>
+> Ven a celebrar con nosotros: cuecas, juegos típicos, empanadas y música en vivo.
+> Sábado 12 de septiembre, de 11:00 a 17:00 horas, en el patio de la escuela.
+> Entrada liberada. ¡Trae a tu familia y a tus vecinos!
+>
+> — Centro de Padres y Apoderados, Escuela El Boldo de Talagante
 
-**2. (Verdadero o Falso)** El propósito principal del afiche es informar sobre resultados científicos detallados de las investigaciones de los estudiantes.
+**1. (Alternativas)** ¿Quién es el **emisor** del afiche?
+
+a) Los estudiantes que bailarán cueca en la fiesta
+b) El Ministerio de Educación, que organiza todas las fiestas
+c) El Centro de Padres y Apoderados de la Escuela El Boldo
+d) Una empresa que vende empanadas
+
+**2. (Verdadero o Falso)** El propósito principal del afiche es informar en detalle la historia de la cueca y de los juegos típicos.
 
 **3. (Alternativas)** ¿Quién es el **destinatario** principal del afiche?
 
-a) Solo los profesores de la escuela que evaluarán los proyectos
-b) Los proveedores de material de robótica que venderán en la feria
-c) Únicamente estudiantes universitarios interesados en investigar
-d) La comunidad escolar y el público en general interesado en ciencia
+a) Solo los profesores de la escuela
+b) Las empresas que venderán productos en la fiesta
+c) Únicamente los estudiantes de enseñanza media
+d) La comunidad escolar, sus familias y los vecinos
 
-**4. (Alternativas)** Imagina que quieres saber "cuáles son los requisitos para participar como expositor en la feria del próximo año". ¿Qué deberías hacer?
+**4. (Alternativas)** Imagina que quieres saber "cuánto cuesta una empanada en la fiesta". ¿Qué deberías hacer?
 
-a) Contactar al Departamento de Ciencias de la escuela, porque el afiche no entrega esa información
-b) Leer el afiche con atención, porque ahí están todos los requisitos para participar el próximo año
-c) Asumir que no hay requisitos, porque el afiche no los menciona y cualquiera puede exponer
-d) Preguntarle a cualquier persona en la calle, porque seguro alguien conoce los requisitos de la feria
+a) Preguntar al Centro de Padres de la escuela, porque el afiche no entrega esa información
+b) Leer el afiche con atención, porque ahí están todos los precios
+c) Asumir que las empanadas son gratis, porque la entrada es liberada
+d) Preguntarle a cualquier persona en la calle
 
 ---
 
 ## Parte B — OA N°14: Narraciones creativas
 
-**5. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor un relato con **conflicto evidente**?
+**5. (Alternativas)** Lee estos inicios de cuento. ¿Cuál presenta un **conflicto evidente**?
 
-a) Un relato donde solo se cuenta la rutina diaria de un personaje, sin ningún problema que resolver
-b) Un relato compuesto únicamente de descripciones de paisajes, colores y olores, sin acciones
-c) Un relato donde el personaje enfrenta una dificultad que debe resolver a lo largo de la historia
-d) Un relato que solo tiene diálogos entre los personajes, sin ninguna acción ni dificultad
+a) Martina se levantó, tomó desayuno y se fue al colegio, como todos los días
+b) El bosque era verde, con árboles altos y flores de muchos colores
+c) Cuando Martina llegó al colegio, descubrió que había perdido el trabajo que debía presentar en una hora
+d) Martina y su amiga conversaron sobre el clima
 
-**6. (Verdadero o Falso)** Los diálogos en un cuento sirven únicamente para hacer más largo el texto, sin aportar información relevante a la trama.
+**6. (Verdadero o Falso)** Un diálogo puede mostrar cómo es un personaje, por ejemplo, si es amable o impaciente, por la forma en que habla.
 
 **7. (Alternativas)** ¿Qué descripción del ambiente de un mercado persa en un día de mucho calor usa detalles sensoriales?
 
@@ -70,53 +78,53 @@ b) El mercado persa es un lugar donde se venden muchas cosas distintas, como rop
 c) Fui al mercado persa con mi familia un día de mucho calor, compramos sopaipillas, ropa y juguetes, y después volvimos a mi casa en micro, muy cansados.
 d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas
 
-**8. (Alternativas)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar un cambio inesperado?
+**8. (Alternativas)** Completa el relato con los conectores más adecuados: "___, Tomás preparó su mochila. ___, salió a la parada. ___, la micro no llegó. ___, decidió caminar."
 
-a) "Primero, luego, sin embargo, finalmente"
-b) "Además, también, asimismo, igualmente"
-c) "Porque, ya que, puesto que, debido a"
-d) "Por ejemplo, es decir, o sea, como"
+a) Primero — Luego — Sin embargo — Finalmente
+b) Además — También — Asimismo — Igualmente
+c) Porque — Ya que — Puesto que — Debido a
+d) Por ejemplo — Es decir — O sea — Como
 
 ---
 
 ## Parte C — OA N°15: Artículos informativos
 
-**9. (Alternativas)** ¿Cuál es la función de la primera oración de un artículo informativo?
+**9. (Alternativas)** ¿Cuál de estas oraciones funciona mejor como **primera oración** de un artículo informativo sobre las abejas?
 
-a) Presentar el tema del artículo de manera clara
-b) Contar un chiste para captar la atención
-c) Citar todas las fuentes utilizadas
-d) Describir físicamente al autor del texto
+a) Las abejas son insectos que producen miel y ayudan a polinizar las plantas que nos alimentan.
+b) Una vez me picó una abeja en la plaza.
+c) ¡Qué miedo me dan las abejas!
+d) Fuentes: Enciclopedia de los insectos, 2024.
 
-**10. (Verdadero o Falso)** Un buen artículo informativo puede desarrollar varias ideas centrales distintas dentro de un mismo párrafo, sin necesidad de separar en párrafos distintos.
+**10. (Verdadero o Falso)** En un artículo informativo, conviene mezclar en un mismo párrafo la alimentación, el hábitat y la reproducción de un animal, sin usar punto aparte.
 
-**11. (Alternativas)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
+**11. (Alternativas)** Benjamín escribió un artículo sobre el cóndor y al final anotó: "Fuente: sitio web de CONAF". ¿Para qué sirve esa línea?
 
-a) Porque así el artículo es más largo y ocupa más espacio en la página
-b) Porque permite verificar de dónde proviene la información y muestra que se basa en datos confiables
-c) Porque es obligatorio poner el nombre del autor dos veces en el artículo, al principio y al final del texto
-d) No es importante, porque el lector confía en lo que dice quien escribe
+a) Para que el artículo se vea más largo
+b) Para que el lector pueda verificar de dónde viene la información y confiar en ella
+c) Para repetir el nombre del autor
+d) No sirve para nada
 
-**12. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el reciclaje?
+**12. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el agua?
 
-a) "Reciclar es bueno. Reciclar ayuda. Reciclar es importante. Reciclar se debe hacer. Reciclar sirve para todos y reciclar es necesario en la escuela."
-b) "Reciclar contribuye a reducir la contaminación, disminuye la cantidad de residuos en los vertederos y permite reutilizar materiales valiosos."
-c) "Reciclar reciclar reciclar es lo mejor lo mejor, porque reciclar es reciclar y reciclar ayuda."
-d) "El reciclaje reciclaje reciclaje ayuda ayuda ayuda, y el reciclaje es reciclaje en todas partes."
+a) "El agua es buena. El agua sirve. El agua es importante. El agua se usa."
+b) "El agua permite que las plantas crezcan, mantiene hidratado nuestro cuerpo y es indispensable para cocinar."
+c) "Agua agua agua es lo mejor, porque el agua es agua."
+d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
 
 ---
 
 ## Pauta de respuestas
 
-1. **c.** Retroalimentación: el texto indica al final "— Departamento de Ciencias, Escuela Los Aromos", que corresponde al emisor.
-2. **Falso.** Retroalimentación: el propósito principal del afiche es **invitar** a la comunidad a asistir al evento, no informar en detalle sobre los resultados de las investigaciones.
-3. **d.** Retroalimentación: el afiche usa un lenguaje amplio ("te invita", "para todo público") que muestra que está dirigido a la comunidad escolar y a cualquier persona interesada.
-4. a) Contactar al Departamento de Ciencias de la escuela, porque el afiche no entrega esa información. El afiche solo informa fecha, horario, lugar y actividades de la feria de este año; el emisor del texto puede tener esa información.
-5. **c.** Retroalimentación: el conflicto es el motor de una narración: sin un problema o dificultad que el personaje deba enfrentar y resolver, la historia carece de tensión.
-6. **Falso.** Retroalimentación: un buen diálogo aporta información relevante: puede revelar la personalidad de un personaje, introducir un conflicto o mostrar la relación entre los personajes.
+1. **c.** Retroalimentación: el afiche indica al final "— Centro de Padres y Apoderados, Escuela El Boldo de Talagante", que corresponde al emisor.
+2. **Falso.** Retroalimentación: el propósito principal del afiche es **invitar** a la comunidad a la fiesta, no explicar la historia de la cueca.
+3. **d.** Retroalimentación: el afiche dice "¡Trae a tu familia y a tus vecinos!": está dirigido a la comunidad escolar y a su entorno.
+4. a) Preguntar al Centro de Padres de la escuela, porque el afiche no entrega esa información. El afiche solo informa fecha, horario, lugar y actividades; que la entrada sea liberada no significa que la comida sea gratis.
+5. **c.** Retroalimentación: perder el trabajo una hora antes de presentarlo es una dificultad que la protagonista deberá resolver: eso es un conflicto.
+6. **Verdadero.** Retroalimentación: lo que dicen los personajes y cómo lo dicen revela su personalidad y su relación con los demás.
 7. d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas. Una buena descripción usa detalles concretos de lo que se ve, se huele o se escucha.
-8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos en el tiempo, "sin embargo" indica un cambio o contraste inesperado, y "finalmente" marca el cierre del relato.
-9. **a.** Retroalimentación: la primera oración de un artículo informativo debe presentar claramente el tema, para que quien lee sepa de inmediato de qué tratará el texto completo.
-10. **Falso.** Retroalimentación: cada párrafo debe desarrollar **una idea central**, separada de las demás mediante punto aparte.
-11. b) Porque permite verificar de dónde proviene la información y muestra que se basa en datos confiables
-12. **b.** Retroalimentación: la opción b) evita repetir la palabra "reciclar" en cada oración, usando sinónimos y expresiones distintas, lo que hace el texto más claro y agradable de leer.
+8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos, "sin embargo" introduce el cambio inesperado y "finalmente" cierra el relato.
+9. **a.** Retroalimentación: la primera oración presenta el tema de manera clara, para que quien lee sepa de qué tratará el artículo.
+10. **Falso.** Retroalimentación: cada párrafo debe desarrollar una idea central; los temas distintos se separan con punto aparte.
+11. b) Para que el lector pueda verificar de dónde viene la información y confiar en ella.
+12. **b.** Retroalimentación: la opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.

@@ -16,56 +16,56 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuál es el valor posicional del dígito 6 en el número 6.412.098?
-a) Unidad de mil
-b) Centena de mil
+**Pregunta 1.** ¿Cuál es el valor posicional del dígito 3 en el número 3.508.716?
+a) Centena de mil
+b) Decena de mil
 c) Unidad de millón
 d) Decena de millón
 
-**Pregunta 2.** ¿Cuál es la aproximación de 127.480 a la decena de mil más cercana?
+**Pregunta 2.** ¿Cuál es la aproximación de 243.610 a la decena de mil más cercana?
 
-a) 128.000
-b) 120.000
-c) 127.000
-d) 130.000
+a) 244.000
+b) 250.000
+c) 243.000
+d) 240.000
 
-**Pregunta 3.** Calcula 23 × 15 = ?
-a) 335
-b) 355
-c) 315
-d) 345
+**Pregunta 3.** Calcula 34 × 12 = ?
+a) 398
+b) 418
+c) 388
+d) 408
 
-**Pregunta 4.** Calcula 156 ÷ 7. ¿Cuál es el cociente y el resto?
-a) Cociente 22, resto 1
-b) Cociente 21, resto 9
-c) Cociente 22, resto 2
-d) Cociente 20, resto 16
+**Pregunta 4.** Calcula 125 ÷ 6. ¿Cuál es el cociente y el resto?
+a) Cociente 21, resto 1
+b) Cociente 20, resto 6
+c) Cociente 20, resto 5
+d) Cociente 19, resto 11
 
-**Pregunta 5.** Se quieren envasar 275 huevos en bandejas de 6 huevos cada una. ¿Cuántas bandejas se necesitan como mínimo para envasar todos los huevos?
+**Pregunta 5.** En un paseo van 130 personas y cada furgón lleva 12 pasajeros. ¿Cuántos furgones se necesitan como mínimo para que viajen todos?
 
-a) 45
-b) 45 y sobran 5
-c) 44
-d) 46
+a) 10
+b) 10 y sobran 10
+c) 11, pero sobran 2 personas
+d) 11
 
-**Pregunta 6.** Un supermercado vende 5 kilos de manzanas a $1.290 el kilo. Si Camila paga con un billete de $10.000, ¿cuánto es su vuelto?
-a) $4.550
-b) $3.550
+**Pregunta 6.** Un kilo de pan cuesta $1.850. Si Tomás compra 3 kilos y paga con $10.000, ¿cuánto es su vuelto?
+a) $5.550
+b) $4.450
 c) $3.450
-d) $2.450
+d) $4.550
 
-**Pregunta 7.** Un colegio compró 18 balones de fútbol a $8.500 cada uno y 12 balones de básquetbol a $9.200 cada uno. ¿Cuánto gastó en total?
+**Pregunta 7.** Un curso compró 25 cuadernos a $1.200 cada uno y 25 lápices a $350 cada uno. ¿Cuánto gastó en total?
 
-a) $153.000
-b) $263.400
-c) $17.700
-d) $531.000
+a) $30.000
+b) $38.750
+c) $1.550
+d) $8.750
 
-**Pregunta 8.** ¿Cuál de las siguientes fracciones es equivalente a 1/2?
-a) 2/6
-b) 3/8
-c) 4/8
-d) 2/5
+**Pregunta 8.** ¿Cuál de las siguientes fracciones es equivalente a 2/3?
+a) 3/4
+b) 4/9
+c) 6/9
+d) 2/6
 
 **Pregunta 9.** ¿Cuál es el decimal correspondiente a la fracción 3/10?
 a) 0,3
@@ -73,37 +73,37 @@ b) 0,03
 c) 3,0
 d) 0,33
 
-**Pregunta 10.** ¿Cuál número es mayor, 0,8 o 0,75?
-a) 0,8
-b) 0,75
+**Pregunta 10.** ¿Cuál número es mayor, 0,6 o 0,58?
+a) 0,6
+b) 0,58
 c) Son iguales
 d) No se puede saber
 
-**Pregunta 11.** En una carrera, Joaquín corrió los 100 metros en 15,82 segundos y Martín en 15,79 segundos. ¿Quién fue más rápido?
+**Pregunta 11.** En el salto largo, Catalina saltó 3,48 metros y Josefa 3,52 metros. ¿Quién saltó más lejos?
 
-a) Martín
-b) Joaquín
-c) Llegaron empatados
+a) Josefa
+b) Catalina
+c) Saltaron lo mismo
 
-**Pregunta 12.** Calcula: 1/3 + 1/6 = ?
-a) 2/9
-b) 1/2
-c) 2/6
-d) 1/9
+**Pregunta 12.** Calcula: 1/4 + 1/8 = ?
+a) 2/12
+b) 3/8
+c) 2/8
+d) 1/12
 
 ---
 
 ## Pauta de respuestas
 
-1. **c) Unidad de millón** — el 6 es el primer dígito de un número de 7 cifras, por lo tanto vale 6.000.000.
-2. d) 130.000 — 127.480 está entre 120.000 y 130.000 y queda más cerca de 130.000 (a 2.520) que de 120.000 (a 7.480).
-3. **d) 345** — 23 × 5 = 115; 23 × 10 = 230; 115 + 230 = 345.
-4. **c) Cociente 22, resto 2** — 22 × 7 = 154; 156 − 154 = 2.
-5. d) 46 — 275 ÷ 6 = 45, resto 5; los 5 huevos que sobran también necesitan bandeja.
-6. **b) $3.550** — costo total: 5 × 1.290 = 6.450; vuelto: 10.000 − 6.450 = 3.550.
-7. b) $263.400 — 18 × 8.500 = 153.000; 12 × 9.200 = 110.400; 153.000 + 110.400 = 263.400.
-8. **c) 4/8** — 1/2 = (1×4)/(2×4) = 4/8.
+1. **c) Unidad de millón** — el 3 es el primer dígito de un número de 7 cifras, por lo tanto vale 3.000.000.
+2. d) 240.000 — 243.610 está entre 240.000 y 250.000 y queda más cerca de 240.000 (a 3.610) que de 250.000 (a 6.390).
+3. **d) 408** — 34 × 2 = 68; 34 × 10 = 340; 68 + 340 = 408.
+4. **c) Cociente 20, resto 5** — 20 × 6 = 120; 125 − 120 = 5.
+5. d) 11 — 130 ÷ 12 = 10, resto 10; las 10 personas que sobran también necesitan un furgón.
+6. **b) $4.450** — costo total: 3 × 1.850 = 5.550; vuelto: 10.000 − 5.550 = 4.450.
+7. b) $38.750 — 25 × 1.200 = 30.000; 25 × 350 = 8.750; 30.000 + 8.750 = 38.750.
+8. **c) 6/9** — 2/3 = (2×3)/(3×3) = 6/9.
 9. **a) 0,3** — con denominador 10, el numerador se escribe directamente en el lugar de los décimos.
-10. **a) 0,8** — 0,8 = 0,80; comparando con 0,75, en los décimos 8 > 7.
-11. a) Martín. 15,79 < 15,82: menor tiempo significa mayor rapidez.
-12. **b) 1/2** — 1/3 = 2/6; 2/6 + 1/6 = 3/6, que simplificado es 1/2.
+10. **a) 0,6** — 0,6 = 0,60; comparando con 0,58, en los décimos 6 > 5.
+11. a) Josefa. 3,52 > 3,48: saltó más lejos.
+12. **b) 3/8** — 1/4 = 2/8; 2/8 + 1/8 = 3/8.

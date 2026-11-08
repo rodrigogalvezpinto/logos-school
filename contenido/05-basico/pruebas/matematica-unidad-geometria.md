@@ -16,29 +16,29 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuántos pares de lados paralelos tiene un rectángulo?
+**Pregunta 1.** ¿Cuántos pares de lados paralelos tiene un cuadrado?
 a) 1
 b) 2
 c) 3
 d) 4
 
-**Pregunta 2.** Dos líneas perpendiculares siempre se cruzan formando un ángulo de 90°. ¿Verdadero o falso?
+**Pregunta 2.** Las líneas de los rieles de un tren son paralelas: nunca se cruzan. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
 
-**Pregunta 3.** ¿Qué diferencia hay entre dos líneas que "se intersecan" y dos líneas "perpendiculares"?
+**Pregunta 3.** En un cruce de calles, la calle A y la calle B se cruzan formando un ángulo recto. ¿Cómo son esas calles?
 
-a) Las que se intersecan se cruzan formando cualquier ángulo; las perpendiculares se cruzan formando exactamente 90°
-b) Las perpendiculares nunca se cruzan, como las vías de un tren; las que se intersecan se cruzan en un punto formando cualquier ángulo
-c) Las que se intersecan siempre forman 90° al cruzarse; las perpendiculares se cruzan formando ángulos agudos u obtusos
-d) No hay diferencia: son dos nombres para las mismas líneas, que se cruzan en un punto
+a) Perpendiculares, porque se cruzan formando exactamente 90°
+b) Paralelas, porque nunca se cruzan
+c) Se intersecan, pero no pueden formar 90°
+d) No tienen ninguna relación
 
-**Pregunta 4.** En un prisma rectangular (como una caja de zapatos), ¿qué relación tienen las dos caras opuestas más grandes (la de arriba y la de abajo) entre sí?
-a) Se intersecan
-b) Son perpendiculares
-c) Son paralelas
-d) Son iguales pero no relacionadas
+**Pregunta 4.** En un cubo, ¿qué relación tienen dos aristas que se juntan en un mismo vértice, como la arista del piso y la arista vertical de una esquina?
+a) Son paralelas
+b) Nunca se tocan
+c) Son perpendiculares
+d) Son la misma arista
 
 **Pregunta 5.** Un trapecio es una figura de 4 lados donde solo un par de lados es paralelo. ¿Cuántos pares de lados paralelos tiene un trapecio, y cuántos lados en total?
 
@@ -53,13 +53,13 @@ a) Son perpendiculares (forman 90°)
 b) Son paralelas, como las líneas de un cuaderno
 c) No se relacionan geométricamente entre sí
 
-**Pregunta 7.** Dos figuras son congruentes cuando:
-a) Tienen la misma forma pero distinto tamaño
-b) Tienen la misma forma y el mismo tamaño
-c) Tienen el mismo tamaño pero distinta forma
-d) Están una encima de la otra
+**Pregunta 7.** ¿Cuál de estos pares de figuras son congruentes?
+a) Un cuadrado de 3 cm de lado y otro de 6 cm de lado
+b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado
+c) Un círculo y un cuadrado del mismo ancho
+d) Un rectángulo y un triángulo
 
-**Pregunta 8.** Una traslación, una rotación y una reflexión siempre producen una figura congruente con la original. ¿Verdadero o falso?
+**Pregunta 8.** Si giras una figura sobre un punto, cambia su tamaño. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
@@ -71,18 +71,18 @@ b) Una rotación de 180°
 c) Una ampliación
 d) Una reducción
 
-**Pregunta 10.** ¿Por qué dos figuras congruentes pueden verse "distintas" a simple vista aunque sean exactamente iguales?
+**Pregunta 10.** Matías ve dos letras L dibujadas en la pizarra: una normal y otra "acostada". ¿Pueden ser congruentes?
 
-a) Porque tienen distinto tamaño, aunque su forma sea la misma
-b) Porque tienen distinta cantidad de lados y de vértices
-c) Porque pueden estar en distinta posición, rotadas o reflejadas, aunque su forma y tamaño sean idénticos
-d) Porque una es más grande que la otra y está más lejos de quien la mira, aunque tengan la misma forma
+a) No, porque una es más grande
+b) No, porque tienen distinta cantidad de lados
+c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada
+d) Sí, pero solo si están una encima de la otra
 
-**Pregunta 11.** ¿Cuál de las siguientes transformaciones NO conserva la congruencia de una figura?
-a) Trasladarla a otra posición del plano
-b) Rotarla en torno a uno de sus vértices
-c) Reflejarla respecto de una recta
-d) Agrandarla al doble de su tamaño
+**Pregunta 11.** ¿Cuál de las siguientes transformaciones **cambia el tamaño** de una figura?
+a) Moverla 5 cuadros a la derecha
+b) Girarla en 90°
+c) Reflejarla en un espejo
+d) Reducirla a la mitad
 
 **Pregunta 12.** En una cuadrícula, un triángulo A está ubicado en la esquina inferior izquierda. Un triángulo B, de la misma forma y tamaño que A, aparece 5 cuadros más arriba y 3 cuadros más a la derecha, sin ningún giro ni volteo. ¿Qué transformación relaciona el triángulo A con el triángulo B, y son congruentes?
 
@@ -95,15 +95,15 @@ d) Una traslación; no son congruentes
 
 ## Pauta de respuestas
 
-1. **b) 2** — los dos lados largos son paralelos entre sí, y los dos lados cortos también.
-2. **Verdadero** — esa es la definición de perpendicularidad: al intersecarse forman un ángulo recto (90°).
-3. a) Las que se intersecan se cruzan formando cualquier ángulo; las perpendiculares se cruzan formando exactamente 90°. Toda perpendicularidad es intersección, pero no toda intersección es perpendicular.
-4. **c) Son paralelas** — la cara superior e inferior nunca se tocan y mantienen siempre la misma distancia entre sí.
+1. **b) 2** — los lados opuestos del cuadrado son paralelos: dos pares.
+2. **Verdadero** — las rectas paralelas mantienen siempre la misma distancia y nunca se cruzan.
+3. a) Perpendiculares, porque se cruzan formando exactamente 90°. Toda perpendicularidad es una intersección con ángulo recto.
+4. **c) Son perpendiculares** — en el cubo, las aristas que se juntan en un vértice forman ángulos rectos.
 5. d) 1 par de lados paralelos y 4 lados
 6. a) Son perpendiculares (forman 90°). Las paredes se construyen perpendiculares al piso para que la estructura sea estable.
-7. **b) Tienen la misma forma y el mismo tamaño.**
-8. **Verdadero** — estas transformaciones se llaman "isométricas" porque conservan la forma y el tamaño.
+7. **b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado** — tienen la misma forma y el mismo tamaño.
+8. **Falso** — la rotación solo cambia la posición: la figura conserva su forma y su tamaño.
 9. b) Una rotación de 180°. Ampliar o reducir cambian el tamaño, así que no son isométricas.
-10. c) Porque pueden estar en distinta posición, rotadas o reflejadas, aunque su forma y tamaño sean idénticos
-11. **d) Agrandarla al doble de su tamaño** — cambia el tamaño, por lo tanto ya no sería congruente.
+10. c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada.
+11. **d) Reducirla a la mitad** — al cambiar el tamaño, la figura nueva ya no es congruente con la original.
 12. a) Una traslación; sí son congruentes. Una traslación no cambia la forma ni el tamaño.

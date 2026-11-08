@@ -22,14 +22,13 @@ electricidad, y su relación con la manipulación segura de artefactos eléctric
 
 ## Preguntas
 
-**1.** ¿Cuál de los siguientes materiales es un buen conductor de electricidad?
-a) Goma
-b) Madera
-c) Plástico
-d) Cobre
+**1.** Para que una ampolleta se encienda, ¿con qué material conviene unirla a la pila?
+a) Un hilo de lana
+b) Un palo de helado
+c) Una bombilla plástica
+d) Un alambre de aluminio
 
-**2.** *(Verdadero o falso)* La goma y el plástico son buenos conductores de
-electricidad.
+**2.** *(Verdadero o falso)* Los cables eléctricos están cubiertos de plástico porque el plástico es un material aislante que protege de la corriente.
 
 **3.** ¿Qué materiales son **conductores** de la electricidad?
 
@@ -106,9 +105,9 @@ d) Ninguno de los dos
 
 ## Pauta de respuestas
 
-1. **d) Cobre.** Uno de los metales más usados como conductor eléctrico, por eso se
+1. **d) Un alambre de aluminio.** Los metales, como el aluminio y el cobre, son buenos conductores de la electricidad.
    utiliza en el interior de los cables.
-2. **Falso.** La goma y el plástico son materiales aisladores: impiden o dificultan
+2. **Verdadero.** El plástico es aislante: impide que la corriente pase a quien toca el cable.
    mucho el paso de la corriente eléctrica.
 3. a y c — Conductores: aluminio y cobre. Aisladores: goma y plástico.
 4. a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
