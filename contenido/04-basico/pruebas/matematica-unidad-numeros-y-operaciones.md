@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 4° Básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 3","3":"OA 3","4":"OA 6","5":"OA 6","6":"OA 7","7":"OA 8","8":"OA 9","9":"OA 9"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 3","3":"OA 3","4":"OA 5","5":"OA 6","6":"OA 7","7":"OA 8","8":"OA 9","9":"OA 9"}
 eje: Números y Operaciones (OA 1, 3, 5, 6, 7, 8, 9)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
@@ -39,7 +39,7 @@ b) 545
 c) 555
 d) 961
 
-**Pregunta 4 (reconocer la operación).** Una panadería tiene 96 empanadas y las reparte en bandejas, poniendo 8 empanadas en cada bandeja. ¿Qué operación permite saber cuántas bandejas llena?
+**Pregunta 4 (reconocer la operación).** Una fábrica empaca 8 cajas y en cada caja pone 150 lápices. ¿Qué operación permite saber cuántos lápices empaca en total?
 a) Suma
 b) Resta
 c) Multiplicación
@@ -86,7 +86,7 @@ d) 4/0
 1. **d) Unidad de mil.** El 7 es el primer dígito de un número de 4 cifras, por lo tanto representa 7.000.
 2. **c) 823.** 6+7=13 (escribo 3, reservo 1); 3+8+1=12 (escribo 2, reservo 1); 5+2+1=8 → 823. Si olvidas las reservas obtienes 713.
 3. a) 445. Como no hay decenas, se canjea una centena por 10 decenas y una de ellas por 10 unidades: 13−8=5; 9−5=4; 6−2=4. Comprobación: 445+258=703. Restar «el menor del mayor» en cada columna da 555, que es un error.
-4. **d) División.** Se reparte un total (96) en grupos iguales de 8, por lo tanto se divide: 96 ÷ 8 = 12 bandejas.
+4. **c) Multiplicación.** Hay grupos iguales que se repiten (8 cajas con la misma cantidad de lápices), por lo tanto se multiplica: 150 × 8 = 1.200.
 5. b) 14. 84 = 60 + 24; 60÷6=10 y 24÷6=4; 10+4=14. Comprobación: 14×6=84.
 6. b) $1.500. 1.800+1.200=3.000 (lo que tendrá); 4.500−3.000=1.500.
 7. c) 1/8 < 1/4 < 1/2. Con el mismo numerador (1), mientras más grande el denominador, más pequeña es la parte.
