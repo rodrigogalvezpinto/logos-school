@@ -22,38 +22,38 @@ Instrucciones: lee cada pregunta con calma. Para las preguntas de gráficos y pi
 
 ---
 
-**Pregunta 1 (alternativas).** Un rectángulo mide 6 cm de largo y 3 cm de ancho. ¿Cuál es su perímetro?
-a) 9 cm
-b) 12 cm
-c) 18 cm
-d) 24 cm
+**Pregunta 1 (alternativas).** Un rectángulo mide 8 cm de largo y 2 cm de ancho. ¿Cuál es su perímetro?
+a) 10 cm
+b) 16 cm
+c) 20 cm
+d) 40 cm
 
-**Pregunta 2 (encontrar el lado).** Un patio cuadrado tiene un perímetro de 28 m. ¿Cuánto mide cada lado?
+**Pregunta 2 (encontrar el lado).** Una plaza cuadrada tiene un perímetro de 36 m. ¿Cuánto mide cada lado?
 
-a) 7 m
-b) 14 m
-c) 24 m
-d) 112 m
+a) 9 m
+b) 18 m
+c) 32 m
+d) 144 m
 
-**Pregunta 3 (comparar).** ¿Cuál figura tiene mayor perímetro: un cuadrado de lado 10 cm, o un rectángulo de 12 cm de largo y 6 cm de ancho?
+**Pregunta 3 (comparar).** ¿Cuál figura tiene mayor perímetro: un cuadrado de lado 8 cm, o un rectángulo de 10 cm de largo y 4 cm de ancho?
 
-a) El rectángulo: 36 cm contra 40 cm
+a) El rectángulo: 28 cm contra 32 cm
 b) Tienen el mismo perímetro
-c) El rectángulo: 72 cm contra 100 cm
-d) El cuadrado: 40 cm contra 36 cm
+c) El rectángulo: 40 cm contra 64 cm
+d) El cuadrado: 32 cm contra 28 cm
 
-**Pregunta 4 (alternativas).** ¿Cuántos gramos equivalen a 1 kilogramo?
-a) 100 g
-b) 500 g
-c) 1 000 g
-d) 10 000 g
+**Pregunta 4 (alternativas).** ¿Cuántos gramos hay en medio kilogramo?
+a) 50 g
+b) 250 g
+c) 500 g
+d) 5 000 g
 
-**Pregunta 5 (problema de aplicación).** En la feria, Ignacio compra 2 kg de papas y 500 g de cebollas. ¿Cuántos gramos en total está llevando?
+**Pregunta 5 (problema de aplicación).** En el almacén, Fernanda compra 3 kg de harina y 250 g de levadura. ¿Cuántos gramos lleva en total?
 
-a) 502 g
-b) 2 500 g
-c) 700 g
-d) 2 050 g
+a) 253 g
+b) 3 250 g
+c) 550 g
+d) 3 025 g
 
 **Pregunta 6 (ordenar por peso).** ¿Cuál es el orden de más liviano a más pesado de una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g)?
 
@@ -90,11 +90,11 @@ d) 4
 
 ## Pauta de respuestas
 
-1. **c) 18 cm** — sumamos los 4 lados: 6+3+6+3=18 cm.
-2. a) 7 m — el cuadrado tiene 4 lados iguales: 28÷4=7 m.
-3. d) El cuadrado: 40 cm contra 36 cm — cuadrado: 4×10=40 cm; rectángulo: 12+6+12+6=36 cm.
-4. **c) 1 000 g** — 1 kg equivale exactamente a 1 000 g.
-5. b) 2 500 g — 2 kg = 2 000 g; 2 000+500=2 500 g.
+1. **c) 20 cm** — sumamos los 4 lados: 8+2+8+2=20 cm.
+2. a) 9 m — el cuadrado tiene 4 lados iguales: 36÷4=9 m.
+3. d) El cuadrado: 32 cm contra 28 cm — cuadrado: 4×8=32 cm; rectángulo: 10+4+10+4=28 cm.
+4. **c) 500 g** — 1 kg son 1 000 g, y la mitad es 500 g.
+5. b) 3 250 g — 3 kg = 3 000 g; 3 000+250=3 250 g.
 6. c) Manzana, galletas, sandía — se convierte todo a gramos: 150 g, 300 g y 4 000 g.
 7. a) 35 — perros 4×5=20, gatos 2×5=10, conejos 1×5=5; 20+10+5=35.
 8. a) Fútbol — es la barra más alta (12 estudiantes).

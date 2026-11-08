@@ -18,99 +18,99 @@ oa_por_pregunta: {"1":"OA 6","2":"OA 6","3":"OA 6","4":"OA 6","5":"OA 6","6":"OA
 
 ---
 
-## Texto: artículo informativo "Los volcanes de Chile"
+## Texto: artículo informativo "Los glaciares de Chile"
 
-> **Los volcanes de Chile**
+*(Lee el artículo y el índice del libro, y responde las preguntas 1 a 6.)*
+
+> **Los glaciares de Chile**
 >
-> Chile es uno de los países con más volcanes del mundo. A lo largo de nuestro territorio existen más de 500 volcanes, aunque no todos están activos.
+> Chile tiene muchos glaciares, sobre todo en el sur del país. Los glaciares guardan una gran cantidad del agua dulce del planeta, y algunos son tan grandes que se pueden ver desde el espacio.
 >
-> **¿Qué es un volcán?**
+> **¿Qué es un glaciar?**
 >
-> Un volcán es una abertura en la superficie de la Tierra por donde puede salir magma (roca derretida que está bajo tierra), cenizas y gases. Cuando esto ocurre, decimos que el volcán está en erupción.
+> Un glaciar es una gran masa de hielo que se forma en las montañas, cuando la nieve se acumula durante muchos años y se aprieta hasta convertirse en hielo. Los glaciares se mueven muy lentamente y cambian de tamaño: en verano, con el calor, una parte se derrite.
 >
-> **Volcanes famosos de Chile**
+> **Glaciares famosos de Chile**
 >
-> El volcán Villarrica, en la Región de la Araucanía, es uno de los volcanes activos más vigilados de Chile, porque está cerca de varias ciudades y pueblos. El volcán Osorno, en la Región de Los Lagos, es reconocido por su forma casi perfecta de cono, cubierta de nieve gran parte del año. Muchos turistas visitan estos volcanes para hacer trekking o para practicar esquí en sus laderas.
+> El glaciar Grey, en la Región de Magallanes, está dentro del Parque Nacional Torres del Paine y es visitado por personas de todo el mundo. El glaciar San Rafael, en la Región de Aysén, es muy visitado porque desde los barcos se ven caer grandes témpanos a la laguna.
 >
 > **Glosario**
-> - *Erupción*: momento en que un volcán expulsa magma, cenizas o gases.
-> - *Ladera*: la parte inclinada de un cerro o volcán, desde la base hasta la cima.
-> - *Magma*: roca derretida que se encuentra bajo la superficie de la Tierra.
+> - *Deshielo*: momento en que el hielo se derrite y se transforma en agua.
+> - *Témpano*: trozo grande de hielo que flota en el agua.
+> - *Laguna*: lago pequeño.
 
 **Índice de un libro (para practicar cómo se usa)**
 
-> *Animales de la cordillera*
-> Capítulo 1: El cóndor .......................... página 4
-> Capítulo 2: El puma ............................ página 12
-> Capítulo 3: La vizcacha ........................ página 20
-> Capítulo 4: El guanaco ......................... página 26
-> Glosario ........................................ página 30
+> *Plantas del bosque nativo*
+> Capítulo 1: La araucaria ........................ página 3
+> Capítulo 2: El alerce ........................... página 10
+> Capítulo 3: El canelo ........................... página 18
+> Capítulo 4: El copihue .......................... página 25
+> Glosario ........................................ página 31
 
-### Preguntas sobre el texto (OA N°6)
+**1.** Según el texto, ¿en qué región se ubica el glaciar Grey?
 
-**1.** Según el texto, ¿en qué región se ubica el volcán Villarrica?
-
-a) Región de la Araucanía
-b) Región de Los Lagos
+a) Región de Magallanes
+b) Región de Aysén
 c) Región de Valparaíso
 
-**2.** Según el texto, todos los volcanes de Chile están activos.
+**2.** Según el texto, los glaciares nunca cambian de tamaño.
 
 a) Verdadero
 b) Falso
 
-**3.** ¿Por qué el volcán Villarrica es uno de los más vigilados de Chile?
+**3.** ¿Por qué el glaciar San Rafael es muy visitado?
 
-a) Porque es el volcán más alto del país
-b) Porque no tiene nieve en su cima
-c) Porque está cerca de varias ciudades y pueblos
+a) Porque es el glaciar más alto del mundo
+b) Porque no tiene hielo en verano
+c) Porque desde los barcos se ven caer grandes témpanos a la laguna
 
-**4.** Si quisieras encontrar rápidamente qué es un volcán, sin leer todo el artículo, ¿qué subtítulo deberías buscar?
+**4.** Si quisieras encontrar rápidamente qué es un glaciar, sin leer todo el artículo, ¿qué subtítulo deberías buscar?
 
-a) "¿Qué es un volcán?"
-b) "Volcanes famosos de Chile"
+a) "¿Qué es un glaciar?"
+b) "Glaciares famosos de Chile"
 c) "Glosario"
 
-**5.** Según el índice del libro *Animales de la cordillera*, ¿en qué página comienza el capítulo sobre la vizcacha?
+**5.** Según el índice del libro *Plantas del bosque nativo*, ¿en qué página comienza el capítulo sobre el canelo?
 
-a) Página 12
-b) Página 20
-c) Página 26
+a) Página 10
+b) Página 18
+c) Página 25
 
-**6.** ¿Qué significa la palabra "magma", según el glosario del texto?
+**6.** ¿Qué significa la palabra "deshielo", según el glosario del texto?
 
-a) Nieve que cubre la cima de un volcán durante el invierno
-b) Agua caliente que sale de las termas cerca de los volcanes
-c) Un tipo de nube muy oscura que anuncia una erupción
-d) Roca derretida que se encuentra bajo la superficie de la Tierra
+a) Nieve nueva que cae sobre la montaña en invierno
+b) Un barco que navega entre los témpanos
+c) Un lago pequeño rodeado de hielo
+d) Momento en que el hielo se derrite y se transforma en agua
 
 ---
 
 ### Preguntas de escritura (OA N°17)
 
-**7.** Camila quiere escribirle una carta a su prima para contarle sobre sus vacaciones. ¿Cuál es el destinatario de esta carta?
+**7.** Tomás quiere escribirle una invitación a su abuelo para su cumpleaños. ¿Cuál es el destinatario de esta invitación?
 
-a) Las vacaciones
-b) La prima de Camila
-c) Camila misma
+a) El cumpleaños
+b) El abuelo de Tomás
+c) Tomás mismo
 
 **8.** ¿Cuál de estas opciones es una oración con sentido completo?
 
-a) "Corriendo por el parque muy rápido con el perro"
-b) "El perro corrió por el parque muy rápido."
-c) "Por el parque el perro muy rápido"
+a) "Durmiendo toda la tarde en el sillón la gata"
+b) "La gata durmió toda la tarde en el sillón."
+c) "Toda la tarde en el sillón"
 
-**9.** Completa la oración con el conector más adecuado: "Quería ir a la plaza, ___ empezó a llover fuerte."
+**9.** Completa la oración con el conector más adecuado: "Estudié mucho para la prueba, ___ me fue muy bien."
 
-a) "porque"
-b) "pero"
+a) "pero"
+b) "por eso"
 c) "primero"
 
 **10.** ¿Cuál de estas oraciones tiene un error de concordancia?
 
-a) "Los niños jugaron en el patio grande."
-b) "La niña comió una manzana roja."
-c) "Los niño corrieron por el patio."
+a) "Las niñas cantaron en el acto."
+b) "El perro comió su comida."
+c) "Las flor crecieron en el jardín."
 
 ---
 
@@ -118,13 +118,13 @@ c) "Los niño corrieron por el patio."
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | a) Región de la Araucanía |
+| 1  | a) Región de Magallanes |
 | 2  | Falso |
-| 3  | c) Porque está cerca de varias ciudades y pueblos |
-| 4  | a) "¿Qué es un volcán?" |
-| 5  | b) Página 20 |
-| 6  | d) Roca derretida que se encuentra bajo la superficie de la Tierra |
-| 7  | b) La prima de Camila |
-| 8  | b) "El perro corrió por el parque muy rápido." |
-| 9  | b) "pero" |
-| 10 | c) "Los niño corrieron por el patio." |
+| 3  | c) Porque desde los barcos se ven caer grandes témpanos a la laguna |
+| 4  | a) "¿Qué es un glaciar?" |
+| 5  | b) Página 18 |
+| 6  | d) Momento en que el hielo se derrite y se transforma en agua |
+| 7  | b) El abuelo de Tomás |
+| 8  | b) "La gata durmió toda la tarde en el sillón." |
+| 9  | b) "por eso" |
+| 10 | c) "Las flor crecieron en el jardín." |

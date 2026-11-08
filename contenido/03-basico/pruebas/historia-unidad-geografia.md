@@ -18,16 +18,16 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**1.** ¿Qué es la línea del Ecuador?
+**1.** ¿Qué divide la línea del Ecuador?
 
-a) Una cordillera de montañas que cruza América del Sur de norte a sur
-b) Un país de América del Sur cuya capital es Quito
-c) Una línea imaginaria que divide la Tierra en dos hemisferios iguales
-d) Un océano que separa América de África y de Europa
+a) Chile en dos zonas, norte y sur
+b) América en dos países
+c) La Tierra en el hemisferio norte y el hemisferio sur
+d) El océano Pacífico del Atlántico
 
 ---
 
-**2.** Chile se encuentra completamente en el hemisferio sur del planeta.
+**2.** Estados Unidos y México se encuentran en el hemisferio norte.
 
 a) Verdadero
 b) Falso
@@ -43,11 +43,11 @@ d) Siete
 
 ---
 
-**4.** Une cada elemento con su ubicación aproximada respecto a la línea del Ecuador:
+**4.** Une cada lugar con el hemisferio en que se encuentra:
 
-1) Trópico de Capricornio — 2) Polo Norte — 3) Trópico de Cáncer
+1) Chile — 2) El Polo Norte — 3) Canadá
 
-Ubicaciones: (A) En el hemisferio norte, cerca del Ecuador — (B) En el extremo superior del planeta — (C) En el hemisferio sur, cerca del Ecuador
+Ubicaciones: (A) Hemisferio norte, en un país de América — (B) Extremo superior del planeta — (C) Hemisferio sur
 
 ¿Qué combinación es correcta?
 
@@ -58,36 +58,36 @@ d) 1-C, 2-A, 3-B
 
 ---
 
-**5.** ¿Cuál es el orden de estos elementos según su cercanía a la línea del Ecuador, comenzando por el más cercano?
+**5.** ¿Cuál es el orden de estos lugares desde el más cercano al más lejano de la línea del Ecuador?
 
-a) Polo Sur → Círculo Polar Antártico → Trópico de Capricornio
-b) Trópico de Capricornio → Polo Sur → Círculo Polar Antártico
-c) Círculo Polar Antártico → Trópico de Capricornio → Polo Sur
-d) Trópico de Capricornio → Círculo Polar Antártico → Polo Sur
-
----
-
-**6.** ¿Cuál de estas es una de las tres grandes zonas climáticas del mundo?
-
-a) Zona volcánica
-b) Zona templada
-c) Zona desértica
-d) Zona costera
+a) Polo Norte → Círculo Polar Ártico → Trópico de Cáncer
+b) Trópico de Cáncer → Polo Norte → Círculo Polar Ártico
+c) Círculo Polar Ártico → Trópico de Cáncer → Polo Norte
+d) Trópico de Cáncer → Círculo Polar Ártico → Polo Norte
 
 ---
 
-**7.** La zona cálida del planeta se ubica cerca de los polos.
+**6.** La mayor parte de Chile, con veranos calurosos e inviernos fríos, se encuentra en la zona climática:
+
+a) Cálida
+b) Templada
+c) Polar
+d) Ecuatorial
+
+---
+
+**7.** En la zona fría del planeta hace calor durante todo el año.
 
 a) Verdadero
 b) Falso
 
 ---
 
-**8.** Une cada zona climática con una estrategia de vivienda típica:
+**8.** Une cada zona climática con una vestimenta típica:
 
 1) Zona fría — 2) Zona cálida — 3) Zona templada
 
-Viviendas: (A) Viviendas abiertas y elevadas del suelo — (B) Iglú de bloques de hielo — (C) Viviendas con calefacción para el invierno y buena ventilación para el verano
+Vestimentas: (A) Ropa liviana y fresca todo el año — (B) Abrigos gruesos, gorros y guantes casi todo el año — (C) Ropa liviana en verano y abrigada en invierno
 
 ¿Qué combinación es correcta?
 
@@ -107,12 +107,12 @@ d) Zona polar
 
 ---
 
-**10.** Imagina un viaje desde la línea del Ecuador hasta el Polo Sur. ¿En qué orden se cruzarían las zonas climáticas?
+**10.** Imagina un viaje desde el Polo Norte hasta la línea del Ecuador. ¿En qué orden se cruzarían las zonas climáticas?
 
-a) Zona cálida → Zona templada → Zona fría
-b) Zona fría → Zona templada → Zona cálida
-c) Zona templada → Zona cálida → Zona fría
-d) Zona cálida → Zona fría → Zona templada
+a) Zona fría → Zona templada → Zona cálida
+b) Zona cálida → Zona templada → Zona fría
+c) Zona templada → Zona fría → Zona cálida
+d) Zona fría → Zona cálida → Zona templada
 
 ---
 
@@ -120,13 +120,13 @@ d) Zona cálida → Zona fría → Zona templada
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | c) Una línea imaginaria que divide la Tierra en dos hemisferios iguales |
-| 2  | Verdadero |
+| 1  | c) La Tierra en el hemisferio norte y el hemisferio sur |
+| 2  | Verdadero — ambos países están al norte de la línea del Ecuador |
 | 3  | c) Seis |
-| 4  | a) 1-C, 2-B, 3-A — Capricornio en el hemisferio sur, el Polo Norte en el extremo superior y Cáncer en el hemisferio norte |
-| 5  | d) Trópico de Capricornio → Círculo Polar Antártico → Polo Sur |
-| 6  | b) Zona templada |
-| 7  | Falso — la zona cálida se ubica cerca de la línea del Ecuador; cerca de los polos está la zona fría |
-| 8  | d) 1-B, 2-A, 3-C — zona fría con iglú, zona cálida con viviendas abiertas y elevadas, zona templada con calefacción y ventilación |
+| 4  | a) 1-C, 2-B, 3-A — Chile en el hemisferio sur, el Polo Norte en el extremo superior y Canadá en el hemisferio norte |
+| 5  | d) Trópico de Cáncer → Círculo Polar Ártico → Polo Norte |
+| 6  | b) Templada — tiene estaciones marcadas, con veranos cálidos e inviernos fríos |
+| 7  | Falso — en la zona fría, cerca de los polos, las temperaturas son bajas casi todo el año |
+| 8  | d) 1-B, 2-A, 3-C — zona fría con abrigos, zona cálida con ropa liviana y zona templada con ropa según la estación |
 | 9  | b) Zona cálida |
-| 10 | a) Zona cálida → Zona templada → Zona fría |
+| 10 | a) Zona fría → Zona templada → Zona cálida |

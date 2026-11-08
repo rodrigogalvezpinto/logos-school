@@ -28,27 +28,27 @@ d) Un acuerdo internacional, firmado por muchos países, que reconoce los derech
 
 ---
 
-**2.** En Chile, la educación en establecimientos públicos es gratuita y obligatoria para niños y niñas.
+**2.** Todos los niños y niñas tienen derecho a recibir atención de salud cuando se enferman.
 
 a) Verdadero
 b) Falso
 
 ---
 
-**3.** ¿Qué institución chilena entrega alimentación gratuita a muchos estudiantes en sus escuelas?
+**3.** Cuando un niño se enferma, ¿dónde puede recibir atención médica gratuita en Chile?
 
-a) Carabineros de Chile
-b) Un banco
-c) La CONAF
-d) La JUNAEB
+a) En un banco
+b) En una tienda
+c) En una comisaría
+d) En un consultorio o CESFAM
 
 ---
 
-**4.** Une cada derecho del niño con un ejemplo de cómo se garantiza en Chile:
+**4.** Une cada situación con el derecho que protege:
 
-1) Derecho a la educación — 2) Derecho a la alimentación — 3) Derecho a la protección frente al trabajo infantil
+1) Ir a clases todos los días — 2) Tener un nombre y un carné de identidad — 3) Jugar en la plaza con amigos
 
-Ejemplos: (A) Prohibición legal de que los niños trabajen antes de cierta edad — (B) Educación gratuita y obligatoria — (C) Programas de alimentación escolar, como los de JUNAEB
+Derechos: (A) Derecho al juego y la recreación — (B) Derecho a la educación — (C) Derecho a tener un nombre y una nacionalidad
 
 ¿Qué combinación es correcta?
 
@@ -59,25 +59,25 @@ d) 1-B, 2-A, 3-C
 
 ---
 
-**5.** ¿Qué derecho de los niños y niñas está **bien explicado** con un ejemplo?
+**5.** ¿Qué ejemplo muestra que se **respeta** el derecho de un niño a ser escuchado?
 
-a) Derecho al juego: los niños deben trabajar primero para ganarse el tiempo de jugar con sus amigos
-b) Derecho a la salud: cuando un niño se enferma, debe poder recibir atención médica para recuperarse
-c) Derecho a la educación: solo algunos niños pueden ir a la escuela, los que tienen mejores notas
-d) Derecho a la opinión: los niños nunca pueden decir lo que piensan, solo los adultos pueden opinar
-
----
-
-**6.** Un niño de 8 años es obligado por un adulto a trabajar todo el día en vez de ir a la escuela. ¿Qué derechos de ese niño se están vulnerando (no respetando)?
-
-a) Ninguno, porque los niños pueden trabajar si sus padres lo permiten
-b) El derecho a la educación y probablemente también el derecho al juego y al descanso
-c) Solo el derecho a la alimentación, porque el niño come menos mientras trabaja
-d) Solo el derecho al nombre y la nacionalidad, porque nadie lo llama por su nombre en el trabajo
+a) El profesor no deja hablar a nadie en clases
+b) En el consejo de curso, la profesora pregunta la opinión de los estudiantes antes de decidir el paseo
+c) Los adultos deciden todo sin preguntar a los niños
+d) Se castiga a quien da su opinión
 
 ---
 
-**7.** El derecho a opinar de los niños y niñas significa que ellos deciden solos todas las normas de su familia y su escuela, sin considerar a los adultos.
+**6.** Una niña de 9 años no puede ir a la escuela porque vive muy lejos y no hay transporte. ¿Qué derecho no se está cumpliendo?
+
+a) El derecho al nombre
+b) El derecho a la educación
+c) El derecho a la nacionalidad
+d) Ninguno, porque es su decisión
+
+---
+
+**7.** Tener derechos significa que los niños pueden hacer todo lo que quieran, sin respetar a los demás.
 
 a) Verdadero
 b) Falso
@@ -98,10 +98,10 @@ d) Para que los niños no tengan que ir a la escuela y puedan quedarse en sus ca
 | N° | Respuesta correcta |
 |----|---------------------|
 | 1  | d) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los niños y niñas |
-| 2  | Verdadero |
-| 3  | d) La JUNAEB |
-| 4  | a) 1-B, 2-C, 3-A — educación gratuita y obligatoria; alimentación con programas como JUNAEB; protección con la prohibición legal del trabajo infantil |
-| 5  | b) Derecho a la salud — recibir atención médica permite crecer y desarrollarse bien; las otras opciones contradicen los derechos del niño. |
-| 6  | b) El derecho a la educación y probablemente también el derecho al juego y al descanso |
-| 7  | Falso — el derecho a opinar significa ser escuchado y que la opinión sea considerada, no decidir solo sin la orientación de los adultos |
+| 2  | Verdadero — el derecho a la salud es para todos los niños y niñas, sin excepción |
+| 3  | d) En un consultorio o CESFAM |
+| 4  | a) 1-B, 2-C, 3-A — la escuela protege la educación; el nombre y el carné, la identidad; jugar, la recreación |
+| 5  | b) Preguntar la opinión de los estudiantes antes de decidir respeta su derecho a ser escuchados |
+| 6  | b) El derecho a la educación — el Estado y la comunidad deben buscar formas de que pueda asistir, como transporte escolar |
+| 7  | Falso — los derechos van junto con responsabilidades, como respetar los derechos de los demás |
 | 8  | c) Para asegurar un mínimo de protección a todos los niños y niñas del mundo — los países se comprometen entre sí a respetar sus derechos. |

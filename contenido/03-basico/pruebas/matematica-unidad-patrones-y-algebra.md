@@ -24,40 +24,40 @@ Instrucciones: lee cada secuencia con calma. Puedes apoyarte en una tabla del 10
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál es la regla de la secuencia 4, 14, 24, 34?
-a) sumar 4
-b) sumar 10
-c) sumar 14
-d) restar 10
+**Pregunta 1 (alternativas).** ¿Cuál es la regla de la secuencia 7, 12, 17, 22?
+a) sumar 7
+b) sumar 5
+c) sumar 12
+d) restar 5
 
-**Pregunta 2 (completar).** Completa la secuencia: 215, 225, 235, ___, 255
+**Pregunta 2 (completar).** Completa la secuencia: 340, 350, 360, ___, 380
 
-a) 245
-b) 236
-c) 240
-d) 335
+a) 370
+b) 361
+c) 365
+d) 460
 
-**Pregunta 3 (verdadero o falso).** El patrón 630, 530, 430, 330 es creciente.
+**Pregunta 3 (verdadero o falso).** El patrón 120, 220, 320, 420 es decreciente.
 
-**Pregunta 4 (completar elemento en el medio).** Completa: 12, 24, 36, ___, 60
+**Pregunta 4 (completar elemento en el medio).** Completa: 15, 30, 45, ___, 75
 
-a) 42
-b) 46
-c) 48
-d) 50
+a) 50
+b) 55
+c) 60
+d) 65
 
-**Pregunta 5 (identificar la regla).** En la secuencia 400, 350, 300, 250, ¿cuál es la regla que se repite?
-a) restar 50
-b) restar 100
-c) sumar 50
-d) restar 150
+**Pregunta 5 (identificar la regla).** En la secuencia 900, 800, 700, 600, ¿cuál es la regla que se repite?
+a) restar 100
+b) restar 10
+c) sumar 100
+d) restar 200
 
-**Pregunta 6 (alternativas — patrón).** ¿Cuál secuencia empieza en 20 y sigue la regla "sumar 20"?
+**Pregunta 6 (alternativas — patrón).** ¿Cuál secuencia empieza en 50 y sigue la regla "sumar 25"?
 
-a) 20, 21, 22, 23, 24
-b) 20, 40, 60, 80, 100
-c) 20, 40, 80, 160, 320
-d) 20, 30, 40, 50, 60
+a) 50, 51, 52, 53, 54
+b) 50, 75, 100, 125, 150
+c) 50, 100, 200, 400, 800
+d) 50, 60, 70, 80, 90
 
 **Pregunta 7 (aplicación con tabla del 100).** [Imagen: tabla del 100 con el número 27 destacado] Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
 
@@ -70,10 +70,10 @@ d) 227
 
 ## Pauta de respuestas
 
-1. **b) sumar 10** — la diferencia entre cada número y el anterior es siempre 10.
-2. a) 245 — 215+10=225, 225+10=235, 235+10=245, 245+10=255.
-3. **Falso** — cada número es menor que el anterior; es una secuencia decreciente.
-4. c) 48 — regla "sumar 12": 36+12=48.
-5. **a) restar 50** — 400-350=50, la diferencia constante es 50.
-6. b) 20, 40, 60, 80, 100 — cada número es 20 más que el anterior, partiendo de 20.
+1. **b) sumar 5** — la diferencia entre cada número y el anterior es siempre 5.
+2. a) 370 — 340+10=350, 350+10=360, 360+10=370, 370+10=380.
+3. **Falso** — cada número es mayor que el anterior; es una secuencia creciente.
+4. c) 60 — regla "sumar 15": 45+15=60.
+5. **a) restar 100** — 900-800=100, la diferencia constante es 100.
+6. b) 50, 75, 100, 125, 150 — cada número es 25 más que el anterior, partiendo de 50.
 7. c) 47 — cada fila hacia abajo suma 10: 27+10=37, 37+10=47.

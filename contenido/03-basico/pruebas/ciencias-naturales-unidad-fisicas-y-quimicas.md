@@ -28,16 +28,13 @@ tono y la intensidad. Cuando termines, revisa tus respuestas.
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cómo se llama el fenómeno en el que el sonido rebota
-al chocar con una superficie, como cuando escuchas tu propia voz repetirse frente a un
-cerro?
+**Pregunta 1 (alternativas).** En una iglesia grande y vacía, cuando aplaudes, el sonido se escucha otra vez un momento después. ¿Qué fenómeno ocurre?
 a) Absorción
 b) Vibración
 c) Reflexión (eco)
 d) Tono
 
-**Pregunta 2 (verdadero o falso).** El sonido solo puede viajar a través del aire; no
-se transmite por materiales sólidos.
+**Pregunta 2 (verdadero o falso).** Si pones la oreja sobre una mesa y alguien golpea suavemente el otro extremo, puedes escuchar el golpe a través de la madera.
 
 **Pregunta 3 (alternativas — clasificar).** Gritar dentro de una cueva de piedra y escuchar el eco es un ejemplo de...
 
@@ -63,22 +60,21 @@ a) En la habitación con muebles tapizados y cortinas
 b) En la habitación vacía con paredes lisas
 c) En las dos igual
 
-**Pregunta 6 (alternativas).** ¿Qué afirmación explica bien la diferencia entre el tono y la intensidad de un sonido?
-
-a) El tono indica si es fuerte o débil; la intensidad, si es agudo o grave
-b) Tono e intensidad significan lo mismo
-c) La intensidad indica de qué color es el sonido
-d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil
+**Pregunta 6 (alternativas).** Un pajarito canta suave y agudo; un camión toca la bocina fuerte y grave. ¿Qué afirmación es correcta?
+a) El pajarito tiene más intensidad que el camión
+b) Los dos sonidos tienen el mismo tono
+c) El camión tiene un tono más agudo que el pajarito
+d) El pajarito tiene un tono más agudo y el camión, más intensidad
 
 ---
 
 ## Pauta de respuestas
 
-1. **c) Reflexión (eco)** — ocurre cuando el sonido se refleja al chocar con una
+1. **c) Reflexión (eco)** — el sonido rebota en las paredes y vuelve a tus oídos.
    superficie dura, como la roca de un cerro.
-2. **Falso** — el sonido también se transmite por materiales sólidos y líquidos; por
+2. **Verdadero** — el sonido se transmite por los sólidos, como la madera, y también por el aire y el agua.
    ejemplo, se puede sentir la vibración de un sonido apoyando el oído sobre una mesa.
 3. a) Reflexión del sonido (eco). Las superficies duras como la piedra reflejan el sonido; las cortinas y alfombras lo absorben.
 4. a) Se parecen en la intensidad (ambos son fuertes) y se diferencian en el tono (agudo y grave). Tono e intensidad son características distintas del sonido.
 5. b) En la habitación vacía con paredes lisas. Los materiales duros y lisos reflejan más el sonido; los tapizados y cortinas lo absorben.
-6. d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil. Un silbido es agudo y un rugido grave (tono); una bocina es fuerte y un susurro débil (intensidad).
+6. d) El pajarito tiene un tono más agudo y el camión, más intensidad. El tono indica si un sonido es agudo o grave; la intensidad, si es fuerte o débil.

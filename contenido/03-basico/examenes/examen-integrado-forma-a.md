@@ -65,9 +65,9 @@ d) El acueducto
 
 ---
 
-**4 y 5. (Lenguaje y Comunicación)** Lee el siguiente texto y responde las preguntas 4 y 5.
+*(Lee el siguiente texto y responde las preguntas 4 y 5.)*
 
-### "El cometa de Joaquín"
+**"El cometa de Joaquín"**
 
 > Una tarde de septiembre, con mucho viento y el cielo despejado, Joaquín salió con su hermana Antonia a volar cometa a un cerro cerca de su casa, en Vallenar. Joaquín tenía nueve años, era flaco y ágil, y le encantaba trepar árboles y cerros sin miedo. Antonia, en cambio, era más cautelosa y prefería quedarse mirando desde abajo.
 >

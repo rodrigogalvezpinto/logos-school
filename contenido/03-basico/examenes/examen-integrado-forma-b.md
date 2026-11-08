@@ -109,9 +109,9 @@ d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidri
 
 ---
 
-**8 y 9. (Lenguaje y Comunicación)** Lee el siguiente poema y responde las preguntas 8 y 9.
+*(Lee el siguiente poema y responde las preguntas 8 y 9.)*
 
-### "El huerto del abuelo"
+**"El huerto del abuelo"**
 
 > Mi abuelo tiene un huerto
 > al pie del cerro en Curicó.

@@ -24,22 +24,19 @@ reciclar) y los alimentos saludables. Cuando termines, revisa tus respuestas.
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál de estas plantas es la flor nacional de Chile y
-crece de forma nativa en el centro-sur del país?
-a) El cactus candelabro
-b) El copihue
-c) La papa
-d) El trigo
+**Pregunta 1 (alternativas).** ¿Cuál de estos árboles es nativo de Chile y crece en la cordillera del sur, con hojas duras en forma de escama?
+a) El naranjo
+b) La araucaria
+c) El manzano
+d) El eucalipto
 
-**Pregunta 2 (verdadero o falso).** Una planta autóctona o nativa es aquella que las
-personas trajeron desde otro país y sembraron en Chile.
+**Pregunta 2 (verdadero o falso).** El eucalipto, que fue traído desde Australia, es un árbol nativo de Chile.
 
-**Pregunta 3 (alternativas).** ¿Qué producen las plantas, a través de la fotosíntesis,
-que es esencial para que los seres vivos puedan respirar?
-a) Dióxido de carbono
-b) Agua
-c) Oxígeno
-d) Nitrógeno
+**Pregunta 3 (alternativas).** ¿Qué necesita una planta para hacer la fotosíntesis y fabricar su alimento?
+a) Solo tierra
+b) Luz del sol, agua y aire
+c) Solo sombra
+d) Fertilizante y oscuridad
 
 **Pregunta 4 (alternativas — clasificar).** Las plantas son importantes como alimento, como fuente de productos derivados y como protección/refugio. ¿Qué tipo de importancia representa la **sombra de un árbol donde anida un ave**?
 
@@ -47,12 +44,11 @@ a) Protección/refugio
 b) Alimento
 c) Producto derivado
 
-**Pregunta 5 (alternativas).** ¿Cuál de estos materiales tarda más tiempo en
-degradarse de forma natural?
-a) Una cáscara de fruta
-b) Una hoja de papel
-c) Una botella de vidrio
-d) Un resto de verdura
+**Pregunta 5 (alternativas).** ¿Cuál de estos residuos se puede usar para hacer compost y abonar la tierra?
+a) Una lata de bebida
+b) Una bolsa plástica
+c) Una cáscara de plátano
+d) Una pila usada
 
 **Pregunta 6 (alternativas — aplicación).** ¿Qué práctica ayuda a **reducir** los desechos en tu casa o en tu colegio?
 
@@ -82,28 +78,25 @@ b) Porque tiene demasiadas verduras y le faltan alimentos con azúcar
 c) Porque no tiene colores llamativos y a los niños no les gusta comerla
 d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
 
-**Pregunta 9 (alternativas).** ¿Por qué es importante
-comer alimentos de los tres grupos (energéticos, constructores y reguladores) y no
-solo de uno?
-
-a) Porque así se come más cantidad y el cuerpo crece más rápido
-b) Porque cada grupo cumple una función distinta y necesaria para el cuerpo
-c) Porque los tres grupos tienen el mismo sabor y se pueden cambiar entre sí
-d) Porque comer de un solo grupo engorda, aunque sea de verduras y frutas
+**Pregunta 9 (alternativas).** Sofía solo almuerza fideos y pan, sin frutas, verduras ni carnes. ¿Qué le aconsejarías?
+a) Que coma el doble de fideos para tener más energía
+b) Que agregue alimentos de los otros grupos, porque cada grupo cumple una función distinta
+c) Que deje de almorzar
+d) Que solo coma frutas desde ahora
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) El copihue** — enredadera de flores rojas o blancas, única de Chile, declarada
+1. **b) La araucaria** — árbol nativo del sur de Chile; sus semillas, los piñones, eran alimento del pueblo pehuenche.
    flor nacional.
-2. **Falso** — una planta autóctona/nativa crece de forma natural en un territorio,
+2. **Falso** — el eucalipto fue traído desde otro país: es una especie introducida, no nativa.
    sin haber sido traída desde otro lugar.
-3. **c) Oxígeno** — las plantas liberan oxígeno durante la fotosíntesis, esencial para
+3. **b) Luz del sol, agua y aire** — con la luz, el agua y el dióxido de carbono del aire, la planta fabrica su alimento y libera oxígeno.
    que los seres vivos respiren.
 4. a) Protección/refugio. Las manzanas son alimento, la madera es un producto derivado y la sombra para el nido es protección/refugio.
-5. **c) Una botella de vidrio** — puede tardar miles de años en degradarse.
+5. **c) Una cáscara de plátano** — los restos de frutas y verduras se descomponen y se transforman en abono.
 6. a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables. Comprar solo lo necesario y evitar bolsas de un solo uso también reduce los desechos.
 7. b y d — Huevo y pescado son constructores; pan y papas dan energía; zanahoria y naranja son reguladores.
 8. d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras. Consumirla en exceso y con frecuencia puede ser perjudicial para la salud; no se trata de nunca comerla, sino de no basar la alimentación en ella.
-9. b) Porque cada grupo cumple una función distinta y necesaria para el cuerpo. Los energéticos dan fuerza, los constructores ayudan a crecer y reparar el cuerpo, y los reguladores a que funcione bien y se defienda de enfermedades.
+9. b) Que agregue alimentos de los otros grupos, porque cada grupo cumple una función distinta. Los energéticos dan fuerza, los constructores ayudan a crecer y los reguladores protegen la salud.
