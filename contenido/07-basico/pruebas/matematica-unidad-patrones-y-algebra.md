@@ -21,110 +21,110 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1 (alternativas — traducir).** ¿Cuál expresión algebraica representa "el doble de un número, más 7"?
-a) x/2 + 7
-b) x + 2 + 7
-c) 2(x + 7)
-d) 2x + 7
+**Pregunta 1 (alternativas — traducir).** ¿Cuál expresión algebraica representa "el triple de un número, menos 4"?
+a) x/3 − 4
+b) x + 3 − 4
+c) 3(x − 4)
+d) 3x − 4
 
-**Pregunta 2 (verdadero o falso).** La expresión "la mitad de un número, aumentada en 3" se traduce como x/2 + 3.
+**Pregunta 2 (verdadero o falso).** La expresión "un número aumentado en 5, multiplicado por 2" se traduce como 2(x + 5).
 
-**Pregunta 3 (identificar el patrón).** Una secuencia de figuras tiene 5 cuadrados en la figura 1, 9 en la figura 2, y 13 en la figura 3. ¿Cuál expresión algebraica representa la cantidad de cuadrados en la figura n?
-a) 4n + 1
-b) 5n
-c) 4n
-d) n + 4
+**Pregunta 3 (identificar el patrón).** Una secuencia de figuras tiene 3 fósforos en la figura 1, 5 en la figura 2 y 7 en la figura 3. ¿Cuál expresión algebraica representa la cantidad de fósforos en la figura n?
+a) 2n + 1
+b) 3n
+c) 2n
+d) n + 2
 
-**Pregunta 4 (alternativas — construir y resolver ecuación).** El doble de la cantidad de estampillas que tiene Joaquín, más 6, es igual a 40. ¿Qué ecuación representa la situación y cuántas estampillas tiene?
+**Pregunta 4 (alternativas — construir y resolver ecuación).** El triple de las láminas que tiene Florencia, menos 5, es igual a 31. ¿Qué ecuación representa la situación y cuántas láminas tiene?
 
-a) 2x + 6 = 40; x = 17
-b) 2x + 6 = 40; x = 23
-c) x + 6 = 40; x = 34
-d) 2(x + 6) = 40; x = 14
+a) 3x − 5 = 31; x = 12
+b) 3x − 5 = 31; x = 26/3
+c) x − 5 = 31; x = 36
+d) 3(x − 5) = 31; x = 15
 
-**Pregunta 5 (alternativas — generalizar una propiedad).** Observa: 3+5=8 y 5+3=8; 7+2=9 y 2+7=9. ¿Qué propiedad de la adición se generaliza con a + b = b + a?
+**Pregunta 5 (alternativas — generalizar una propiedad).** Observa: 4 × (2 + 3) = 4 × 2 + 4 × 3 y 5 × (1 + 6) = 5 × 1 + 5 × 6. ¿Qué propiedad se generaliza con a(b + c) = ab + ac?
 
 a) Asociativa
-b) Distributiva
+b) Conmutativa
 c) Elemento neutro
-d) Conmutativa
+d) Distributiva
 
-**Pregunta 6 (alternativas — problema en contexto).** En un estacionamiento se cobra una tarifa fija de $500 más $300 por cada hora. Si x representa la cantidad de horas, ¿qué expresión representa el costo total?
+**Pregunta 6 (alternativas — problema en contexto).** Un taxi cobra $400 al subir más $200 por cada kilómetro recorrido. Si x representa los kilómetros, ¿qué expresión representa el costo total?
 
-a) 500x + 300
-b) 800x
-c) 500 + 300x
-d) (500 + 300)x
+a) 400x + 200
+b) 600x
+c) 400 + 200x
+d) (400 + 200)x
 
-**Pregunta 7 (alternativas — resolver la ecuación).** Con la situación del estacionamiento (costo = 500 + 300x), si una persona pagó $2.300, ¿cuántas horas estacionó?
+**Pregunta 7 (alternativas — resolver la ecuación).** Con la situación del taxi (costo = 400 + 200x), si una persona pagó $3.000, ¿cuántos kilómetros recorrió?
 
-a) 9 horas
-b) 7,7 horas
-c) 6 horas
-d) 4 horas
+a) 17 km
+b) 15 km
+c) 13 km
+d) 11 km
 
-**Pregunta 8 (alternativas).** Si 3 entradas al cine cuestan $9.000, ¿cuánto cuestan 5 entradas (misma proporción)?
-a) $18.000
-b) $15.000
-c) $12.000
-d) $10.000
+**Pregunta 8 (alternativas).** Si 4 cuadernos cuestan $6.000, ¿cuánto cuestan 7 cuadernos (misma proporción)?
+a) $12.000
+b) $10.500
+c) $9.000
+d) $7.500
 
-**Pregunta 9 (verdadero o falso).** Si 4 obreros construyen un muro en 12 días, entonces 8 obreros (trabajando al mismo ritmo) demorarían 6 días — esto corresponde a una proporción inversa.
+**Pregunta 9 (verdadero o falso).** Si un auto a 60 km/h demora 4 horas en un viaje, a 120 km/h demoraría 2 horas: esto corresponde a una proporción inversa.
 
-**Pregunta 10 (alternativas — completar tabla — directa).** La relación entre litros de bencina y su costo es proporcional directa: 1 litro cuesta $980. ¿Qué valores completan la tabla para 2, 5 y 10 litros?
+**Pregunta 10 (alternativas — completar tabla — directa).** La relación entre kilos de pan y su costo es proporcional directa: 1 kilo cuesta $1.500. ¿Qué valores completan la tabla para 2, 3 y 6 kilos?
 
-| litros | 1 | 2 | 5 | 10 |
+| kilos | 1 | 2 | 3 | 6 |
 |---|---|---|---|---|
-| $ | 980 | ? | ? | ? |
+| $ | 1.500 | ? | ? | ? |
 
 
-a) 1.960; 4.900; 9.800
-b) 1.960; 2.940; 4.900
-c) 982; 985; 990
-d) 490; 196; 98
+a) 3.000; 4.500; 9.000
+b) 3.000; 3.500; 6.000
+c) 1.502; 1.503; 1.506
+d) 750; 500; 250
 
-**Pregunta 11 (identificar el tipo de proporción).** Un estanque de agua se llena en 10 horas si se usa 1 llave. ¿Qué tipo de proporción describe la relación entre la cantidad de llaves usadas (abiertas al mismo tiempo, con el mismo caudal) y el tiempo que demora en llenarse el estanque?
+**Pregunta 11 (identificar el tipo de proporción).** Una cantidad de alimento alcanza para 12 días si hay 2 perros en un refugio. ¿Qué tipo de proporción describe la relación entre la cantidad de perros y los días que dura el alimento?
 a) Directa
 b) Inversa
 c) No es una proporción
-d) Depende del estanque
+d) Depende del alimento
 
-**Pregunta 12 (alternativas — proporción inversa).** Si 5 pintores pintan una casa en 8 días, ¿cuántos días demorarían 10 pintores trabajando al mismo ritmo?
+**Pregunta 12 (alternativas — proporción inversa).** Si 6 trabajadores cosechan un huerto en 10 días, ¿cuántos días demorarían 12 trabajadores al mismo ritmo?
 
-a) 16 días
-b) 13 días
-c) 8 días
-d) 4 días
+a) 20 días
+b) 16 días
+c) 10 días
+d) 5 días
 
-**Pregunta 13 (alternativas — describir la gráfica).** Se grafican los puntos de la tabla del kilo de manzanas (1 kg-$1.200, 2 kg-$2.400, 3 kg-$3.600, 4 kg-$4.800). ¿Qué forma tendrá la gráfica?
+**Pregunta 13 (alternativas — describir la gráfica).** Se grafican los puntos de la tabla del pan (1 kg-$1.500, 2 kg-$3.000, 3 kg-$4.500). ¿Qué forma tendrá la gráfica?
 
 a) Una curva que baja a medida que aumentan los kilos
 b) Una línea recta que pasa por el origen (0,0)
 c) Una línea horizontal
 d) Puntos sin ningún patrón
 
-**Pregunta 14 (alternativas — problema en contexto — directa).** Una receta para 4 personas usa 320 gramos de arroz. Manteniendo la proporción, ¿cuántos gramos se necesitan para 7 personas?
+**Pregunta 14 (alternativas — problema en contexto — directa).** Para pintar 3 salas se usan 12 litros de pintura. Manteniendo la proporción, ¿cuántos litros se necesitan para 5 salas?
 
-a) 323 gramos
-b) 560 gramos
-c) 640 gramos
-d) 2.240 gramos
+a) 14 litros
+b) 20 litros
+c) 24 litros
+d) 60 litros
 
 ---
 
 ## Pauta de respuestas
 
-1. d) 2x + 7.
-2. Verdadero. x/2 + 3.
-3. a) 4n + 1. La secuencia aumenta de 4 en 4; comprobando con n=1: 4×1+1=5.
-4. a) 2x + 6 = 40; x = 17. "el doble... más 6... es igual a 40" se traduce como 2x + 6 = 40; entonces 2x = 34 y x = 17. Verificación: 2·17 + 6 = 40 ✓.
-5. d) Conmutativa. La propiedad conmutativa dice que el orden de los sumandos no altera la suma; el lenguaje algebraico permite escribirla de forma general, válida para cualquier par de números.
-6. c) 500 + 300x. La tarifa fija (500) se suma una sola vez, mientras que el costo por hora (300) se multiplica por la cantidad de horas (x).
-7. c) 6 horas. 500 + 300x = 2.300 → 300x = 1.800 → x = 6. Primero se resta la tarifa fija en ambos lados y luego se divide por 300; 7,7 resulta de olvidar restar la tarifa fija.
-8. b) $15.000. Precio por entrada: 9.000÷3=3.000; para 5: 3.000×5=15.000.
-9. Verdadero. El producto obreros×días se mantiene constante (4×12=48=8×6).
-10. a) 1.960; 4.900; 9.800. En una proporción directa cada valor se obtiene multiplicando los litros por la misma constante (980): 2·980, 5·980 y 10·980.
-11. b) Inversa.
-12. d) 4 días. El producto pintores × días es constante: 5 × 8 = 40; con 10 pintores, 40 ÷ 10 = 4 días. 16 días sería tratar la relación como directa.
-13. b) Una línea recta que pasa por el origen (0,0). Cuando dos cantidades son directamente proporcionales, su gráfica es una recta que parte del origen: si la cantidad es 0, el costo también es 0.
-14. b) 560 gramos. 320 ÷ 4 = 80 gramos por persona; para 7 personas, 80 × 7 = 560 gramos.
+1. d) 3x − 4.
+2. Verdadero. Primero se suma 5 y luego se multiplica todo por 2: 2(x + 5).
+3. a) 2n + 1. La secuencia aumenta de 2 en 2; comprobando con n=1: 2×1+1=3.
+4. a) 3x − 5 = 31; x = 12. 3x = 36 y x = 12. Verificación: 3·12 − 5 = 31 ✓.
+5. d) Distributiva. Multiplicar una suma es igual a multiplicar cada sumando y sumar los resultados.
+6. c) 400 + 200x. El cobro fijo (400) se suma una vez y el costo por kilómetro (200) se multiplica por x.
+7. c) 13 km. 400 + 200x = 3.000 → 200x = 2.600 → x = 13. 15 resulta de olvidar restar el cobro fijo.
+8. b) $10.500. Precio por cuaderno: 6.000 ÷ 4 = 1.500; para 7: 1.500 × 7 = 10.500.
+9. Verdadero. El producto velocidad × tiempo se mantiene constante (60 × 4 = 240 = 120 × 2).
+10. a) 3.000; 4.500; 9.000. Cada valor se obtiene multiplicando los kilos por la misma constante (1.500).
+11. b) Inversa. Si hay más perros, el alimento dura menos días; el producto perros × días es constante.
+12. d) 5 días. 6 × 10 = 60; con 12 trabajadores, 60 ÷ 12 = 5 días. 20 días sería tratar la relación como directa.
+13. b) Una línea recta que pasa por el origen (0,0). Si la cantidad es 0, el costo también es 0.
+14. b) 20 litros. 12 ÷ 3 = 4 litros por sala; para 5 salas, 4 × 5 = 20 litros.

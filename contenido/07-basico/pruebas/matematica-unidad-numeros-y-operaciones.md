@@ -21,106 +21,106 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál número entero representa "un déficit (pérdida) de $15.000 en las cuentas de un club deportivo"?
-a) 15.000
-b) 1/15.000
+**Pregunta 1 (alternativas).** ¿Cuál número entero representa "una profundidad de 40 metros bajo el nivel del mar"?
+a) 40
+b) 1/40
 c) 0
-d) −15.000
+d) −40
 
-**Pregunta 2 (verdadero o falso).** En la recta numérica, el número −7 está más cerca del 0 que el número −3.
+**Pregunta 2 (verdadero o falso).** En la recta numérica, el número −9 es mayor que el número −2.
 
-**Pregunta 3 (calcular).** Calcula: −12 + 20.
-a) −32
+**Pregunta 3 (calcular).** Calcula: −15 + 23.
+a) −38
 b) −8
 c) 8
-d) 32
+d) 38
 
-**Pregunta 4 (alternativas — calcular con resta).** Calcula: 4 − 9.
+**Pregunta 4 (alternativas — calcular con resta).** Calcula: 6 − 13.
 
-a) −5
-b) 5
-c) −13
-d) 13
+a) −7
+b) 7
+c) −19
+d) 19
 
-**Pregunta 5 (alternativas — contexto de temperatura).** Un termómetro marcaba −4°C en la mañana. Durante el día la temperatura subió 11°C. ¿Qué temperatura se registró al final del día?
+**Pregunta 5 (alternativas — contexto de temperatura).** En Putre, el termómetro marcaba −6°C al amanecer. A mediodía la temperatura había subido 14°C. ¿Qué temperatura marcaba a mediodía?
 
-a) −7°C
-b) 15°C
-c) −15°C
-d) 7°C
+a) −8°C
+b) 20°C
+c) −20°C
+d) 8°C
 
-**Pregunta 6 (alternativas).** Calcula: 1/2 × 2/7.
-a) 3/9
-b) 2/7
-c) 1/7
-d) 2/9
+**Pregunta 6 (alternativas).** Calcula: 2/3 × 3/8.
+a) 5/11
+b) 6/11
+c) 1/4
+d) 5/24
 
-**Pregunta 7 (verdadero o falso).** Para dividir 3/4 ÷ 1/2, es correcto multiplicar 3/4 × 2/1, obteniendo 6/4 = 1 1/2.
+**Pregunta 7 (verdadero o falso).** Para dividir 2/5 ÷ 1/3, es correcto multiplicar 2/5 × 3/1, obteniendo 6/5 = 1 1/5.
 
-**Pregunta 8 (calcular — decimales).** Calcula: 4,2 × 0,5.
-a) 2,1
-b) 21
-c) 0,21
-d) 4,7
+**Pregunta 8 (calcular — decimales).** Calcula: 6,4 × 0,5.
+a) 3,2
+b) 32
+c) 0,32
+d) 6,9
 
-**Pregunta 9 (alternativas — división de decimales).** Calcula: 9,6 ÷ 0,4.
+**Pregunta 9 (alternativas — división de decimales).** Calcula: 7,5 ÷ 0,5.
 
-a) 2,4
-b) 24
-c) 0,24
-d) 240
+a) 1,5
+b) 15
+c) 0,15
+d) 150
 
-**Pregunta 10 (alternativas — problema en contexto — fracciones).** Una receta de jugo requiere 3/4 de litro de agua por cada porción. Si se preparan 5 porciones, ¿cuántos litros de agua se necesitan en total?
+**Pregunta 10 (alternativas — problema en contexto — fracciones).** Para hacer un queque se usan 2/3 de taza de azúcar. Si se preparan 4 queques, ¿cuántas tazas de azúcar se necesitan?
 
-a) 15/20 litros
-b) 5 3/4 litros
-c) 3 3/4 litros
-d) 3/20 litros
+a) 8/12 tazas
+b) 4 2/3 tazas
+c) 2 2/3 tazas
+d) 2/12 tazas
 
-**Pregunta 11 (alternativas — cálculo mental).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
-a) $17.500
-b) $7.000
-c) $3.500
-d) $700
+**Pregunta 11 (alternativas — cálculo mental).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 25% de $48.000?
+a) $24.000
+b) $12.000
+c) $4.800
+d) $1.200
 
-**Pregunta 12 (verdadero o falso).** Calcular el 75% de un valor es lo mismo que dividirlo por 4 y multiplicar el resultado por 3.
+**Pregunta 12 (verdadero o falso).** Calcular el 60% de un valor es lo mismo que dividirlo por 5 y multiplicar el resultado por 3.
 
-**Pregunta 13 (alternativas — problema — IVA).** Un notebook cuesta $320.000 sin IVA. ¿Cuál es el precio final con IVA (19%) incluido?
+**Pregunta 13 (alternativas — problema — IVA).** Una bicicleta cuesta $200.000 sin IVA. ¿Cuál es el precio final con IVA (19%) incluido?
 
-a) $380.800
-b) $60.800
-c) $339.000
-d) $259.200
+a) $238.000
+b) $38.000
+c) $219.000
+d) $162.000
 
-**Pregunta 14 (problema — oferta).** Una tienda tiene una oferta de 40% de descuento en zapatillas que cuestan $45.000. ¿Cuál es el precio final?
+**Pregunta 14 (problema — oferta).** Una mochila cuesta $30.000 y tiene un 30% de descuento. ¿Cuál es el precio final?
+a) $9.000
+b) $21.000
+c) $3.000
+d) $39.000
+
+**Pregunta 15 (alternativas — problema — préstamo).** Una cooperativa presta $300.000 y cobra un interés del 6% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+
 a) $18.000
-b) $27.000
-c) $5.000
-d) $63.000
-
-**Pregunta 15 (alternativas — problema — préstamo).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
-
-a) $40.000
-b) $508.000
-c) $540.000
-d) $900.000
+b) $306.000
+c) $318.000
+d) $480.000
 
 ---
 
 ## Pauta de respuestas
 
-1. d) −15.000. Un déficit es una pérdida, cantidad "bajo cero" en dinero, se representa con signo negativo.
-2. Falso. −3 está a 3 unidades del 0; −7 está a 7 unidades del 0. −3 está más cerca del 0.
-3. c) 8. −12 + 20 = 8.
-4. a) −5. Como 9 es mayor que 4, el resultado es negativo. En la recta numérica, desde el 4 se retrocede 9 posiciones, llegando al −5.
-5. d) 7°C. "subir" una temperatura equivale a sumar: −4 + 11 = 7. Si se obtiene −7 se restó en vez de sumar; 15 resulta de ignorar el signo del −4.
-6. c) 1/7. (1×2)/(2×7) = 2/14 = 1/7.
+1. d) −40. Una profundidad bajo el nivel del mar se representa con signo negativo.
+2. Falso. −2 está más a la derecha en la recta numérica, por lo tanto −2 es mayor que −9.
+3. c) 8. −15 + 23 = 8.
+4. a) −7. Como 13 es mayor que 6, el resultado es negativo: desde el 6 se retrocede 13 posiciones y se llega al −7.
+5. d) 8°C. Subir la temperatura equivale a sumar: −6 + 14 = 8. Si se obtiene −8 se restó en vez de sumar; 20 resulta de ignorar el signo del −6.
+6. c) 1/4. (2×3)/(3×8) = 6/24 = 1/4.
 7. Verdadero. Dividir por una fracción equivale a multiplicar por su recíproco.
-8. a) 2,1. 4,2 × 0,5 es la mitad de 4,2.
-9. b) 24. Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número.
-10. c) 3 3/4 litros. 3/4 × 5 = 15/4 = 3 3/4 litros. Al multiplicar una fracción por un entero, el entero multiplica solo al numerador (5/1): 3/4 × 5/1 = 15/4.
-11. b) $7.000. 20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000.
-12. Verdadero. 75% = 3/4, se calcula dividiendo por 4 y multiplicando por 3.
-13. a) $380.800. IVA: 0,19 × 320.000 = 60.800; precio final: 320.000 + 60.800 = $380.800. $60.800 es solo el impuesto y $259.200 resulta de restarlo.
-14. b) $27.000. Descuento: 0,4×45.000=18.000; precio final: 45.000−18.000=27.000.
-15. c) $540.000. Interés: 0,08 × 500.000 = 40.000; total: 500.000 + 40.000 = $540.000. $508.000 confunde 8% con $8.000 y $900.000 confunde 8% con 80%.
+8. a) 3,2. 6,4 × 0,5 es la mitad de 6,4.
+9. b) 15. Amplificando ambos números por 10 se elimina la coma: 75 ÷ 5 = 15.
+10. c) 2 2/3 tazas. 2/3 × 4 = 8/3 = 2 2/3. El entero multiplica solo al numerador.
+11. b) $12.000. 25% equivale a dividir por 4: 48.000 ÷ 4 = 12.000.
+12. Verdadero. 60% = 3/5: se divide por 5 y se multiplica por 3.
+13. a) $238.000. IVA: 0,19 × 200.000 = 38.000; precio final: 200.000 + 38.000 = $238.000. $38.000 es solo el impuesto y $162.000 resulta de restarlo.
+14. b) $21.000. Descuento: 0,3 × 30.000 = 9.000; precio final: 30.000 − 9.000 = 21.000.
+15. c) $318.000. Interés: 0,06 × 300.000 = 18.000; total: 300.000 + 18.000 = $318.000. $306.000 confunde 6% con $6.000 y $480.000 confunde 6% con 60%.

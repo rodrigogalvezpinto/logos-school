@@ -25,7 +25,7 @@ oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6
 
 ### Parte A — OA N°13: Escribo historias e información con secuencia y opinión
 
-**1. (Alternativas — completar)** Complete the story model: *"___, I woke up early. Then, I had breakfast with my family."*
+**1. (Alternativas — completar)** Complete the story model: *"___, we arrived at the camping site. Then, we built our tent."*
 
 a) First
 b) Finally
@@ -34,39 +34,39 @@ d) In the end
 
 **2. (Alternativas)** ¿Qué oración expresa mejor una opinión sobre un problema global?
 
-a) The ocean has a lot of salt water and many fish.
-b) Fish and whales live in the ocean near the coast.
-c) There are five big oceans on Earth and many seas.
-d) I believe that pollution is a serious problem.
+a) Forests cover about 30% of the land on Earth.
+b) Many animals live in forests.
+c) There are tall trees in the south of Chile.
+d) I think that deforestation is a big problem.
 
-**3. (Alternativas — completar)** Complete about a personal experience: *"Last year, I ___ my cousins in the south of Chile."* (visit, simple past)
+**3. (Alternativas — completar)** Complete about a personal experience: *"Last summer, I ___ to swim in a lake."* (learn, simple past)
 
-a) visit
-b) visiting
-c) will visit
-d) visited
+a) learn
+b) learning
+c) will learn
+d) learned
 
-**4. (Verdadero o Falso)** La oración *"I felt excited when I saw the ocean for the first time"* es apropiada para contar una experiencia personal.
+**4. (Verdadero o Falso)** La oración *"I felt nervous when I sang in front of my class for the first time"* es apropiada para contar una experiencia personal.
 
-**5. (Alternativas — escribir siguiendo modelo)** Which option completes the model *"In my country, we celebrate ___. People usually ___."* correctly?
+**5. (Alternativas — escribir siguiendo modelo)** Which option completes the model *"In my city, people like ___. On weekends, they usually ___."* correctly?
 
-a) Fiestas Patrias / is a beautiful country
-b) empanadas / celebrate Fiestas Patrias
-c) Fiestas Patrias / dance cueca and eat empanadas
-d) dance cueca / Fiestas Patrias
+a) parks / is a big city
+b) go to the park / parks
+c) parks / go for a walk or ride a bike there
+d) ride a bike / parks
 
-**6. (Alternativas — completar, desafiante)** Choose the best caption for a picture of a beach full of trash: *"This picture shows ___. It makes me feel ___."*
+**6. (Alternativas — completar, desafiante)** Choose the best caption for a picture of children planting trees: *"This picture shows ___. It makes me feel ___."*
 
-a) a clean beach / happy
-b) pollution on the beach / delicious
-c) pollution on the beach / worried
-d) a big party / worried
+a) children watching TV / happy
+b) children planting trees / delicious
+c) children planting trees / hopeful
+d) a big storm / hopeful
 
 ---
 
 ### Parte B — OA N°16: Uso estructuras gramaticales variadas
 
-**7. (Alternativas — completar)** Complete: *"There ___ too much noise in the classroom today."*
+**7. (Alternativas — completar)** Complete: *"There ___ a lot of homework this week."*
 
 a) is
 b) are
@@ -75,76 +75,76 @@ d) be
 
 **8. (Alternativas)** ¿Qué oración usa correctamente *these/those*?
 
-a) These sneaker is new.
-b) These sneakers are new.
-c) This sneakers are new.
-d) These sneakers is new.
+a) Those book is mine.
+b) Those books are mine.
+c) That books are mine.
+d) Those books is mine.
 
-**9. (Alternativas — completar)** Complete: *"___ is my favorite hobby."* (skate, gerund as subject)
+**9. (Alternativas — completar)** Complete: *"___ is good for your health."* (swim, gerund as subject)
 
-a) Skate
-b) Skated
-c) To skates
-d) Skating
+a) Swim
+b) Swam
+c) To swims
+d) Swimming
 
-**10. (Verdadero o Falso)** La oración *"You mustn't ride a bike without a helmet"* expresa una prohibición.
+**10. (Verdadero o Falso)** La oración *"You mustn't use your phone during the exam"* expresa una prohibición.
 
-**11. (Alternativas — completar)** Complete: *"Please talk ___. The baby is sleeping."* (quiet, adverb of manner)
+**11. (Alternativas — completar)** Complete: *"Please drive ___. There are children near the school."* (careful, adverb of manner)
 
-a) quiet
-b) quietly
-c) quieter
-d) quietness
+a) careful
+b) carefully
+c) more careful
+d) carefulness
 
-**12. (Alternativas — respuesta corta)** *"— Does she practice sports every week? — ___"* (affirmative short answer)
+**12. (Alternativas — respuesta corta)** *"— Does he play the guitar? — ___"* (affirmative short answer)
 
-a) Yes, she do.
-b) Yes, she practices.
-c) Yes, she does.
-d) Yes, she is.
+a) Yes, he do.
+b) Yes, he plays.
+c) Yes, he does.
+d) Yes, he is.
 
-**13. (Alternativas — completar, desafiante)** Complete with past continuous and simple past: *"I ___ to school when it ___ to rain."* (walk / start)
+**13. (Alternativas — completar, desafiante)** Complete with past continuous and simple past: *"We ___ dinner when the lights ___ off."* (eat / go)
 
-a) was walking / started
-b) walked / was starting
-c) am walking / starts
-d) was walk / start
+a) were eating / went
+b) ate / were going
+c) are eating / go
+d) was eat / go
 
 **14. (Alternativas — desafiante)** ¿Qué oración expresa correctamente causa y efecto?
 
-a) The ice cream is very cold and it tastes good.
-b) The ice cream melts if you leave it in the sun.
-c) I like chocolate ice cream more than vanilla ice cream.
-d) The ice cream is in the freezer next to the meat.
+a) The plant is green and it is in the garden.
+b) The plant dies if you don't water it.
+c) I like roses more than tulips.
+d) The plant is next to the window.
 
 ---
 
 ## Pauta de respuestas
 
-**1.** a) First. *Retroalimentación: First introduce el primer evento de la secuencia; Finally o In the end se usarían al final de la historia.*
+**1.** a) First. *Retroalimentación: First introduce el primer evento de la secuencia; Finally o In the end se usan al final.*
 
-**2.** d) I believe that pollution is a serious problem. *Retroalimentación: "I believe that..." introduce una valoración personal; las otras oraciones solo describen hechos.*
+**2.** d) I think that deforestation is a big problem. *Retroalimentación: "I think that..." introduce una valoración personal; las otras oraciones describen hechos.*
 
-**3.** d) visited. *Retroalimentación: "Last year" señala una acción terminada en el pasado, por eso el verbo lleva la terminación -ed: visited.*
+**3.** d) learned. *Retroalimentación: "Last summer" señala una acción terminada en el pasado: learned.*
 
-**4.** True (Verdadero). *Retroalimentación: describe un sentimiento (felt excited) ligado a un momento específico, típico de un relato de experiencia personal.*
+**4.** True (Verdadero). *Retroalimentación: describe un sentimiento (felt nervous) ligado a un momento específico, típico de un relato de experiencia personal.*
 
-**5.** c) Fiestas Patrias / dance cueca and eat empanadas. *Retroalimentación: cada espacio debe tener información pertinente: primero una celebración y luego una costumbre (verbo + complemento).*
+**5.** c) parks / go for a walk or ride a bike there. *Retroalimentación: cada espacio necesita información pertinente: primero un gusto y luego una costumbre (verbo + complemento).*
 
-**6.** c) pollution on the beach / worried. *Retroalimentación: un pie de foto (caption) debe describir la imagen correctamente y luego expresar un sentimiento coherente con ella.*
+**6.** c) children planting trees / hopeful. *Retroalimentación: un pie de foto describe la imagen y luego expresa un sentimiento coherente con ella.*
 
-**7.** a) is. *Retroalimentación: "much" se usa con sustantivos incontables (noise), y con ellos el verbo va en singular: there is.*
+**7.** a) is. *Retroalimentación: "homework" es incontable, por eso el verbo va en singular: there is.*
 
-**8.** b) These sneakers are new. *Retroalimentación: "sneakers" (zapatillas) es plural, así que corresponde "these" (no "this") y el verbo "are" (no "is").*
+**8.** b) Those books are mine. *Retroalimentación: "books" es plural, así que corresponde "those" (no "that") y el verbo "are".*
 
-**9.** d) Skating. *Retroalimentación: cuando una actividad es el sujeto de la oración, el verbo se transforma en gerundio (skate → skating), igual que reading o swimming.*
+**9.** d) Swimming. *Retroalimentación: cuando una actividad es el sujeto de la oración, el verbo va en gerundio (swim → swimming).*
 
-**10.** True (Verdadero). *Retroalimentación: "mustn't" (no debe) indica que algo está prohibido; es distinto de "don't have to", que indica que algo no es obligatorio.*
+**10.** True (Verdadero). *Retroalimentación: "mustn't" indica que algo está prohibido.*
 
-**11.** b) quietly. *Retroalimentación: para describir cómo se debe hablar (modo), el adjetivo quiet se convierte en el adverbio quietly con el sufijo -ly.*
+**11.** b) carefully. *Retroalimentación: para describir cómo se debe manejar (modo), el adjetivo careful se convierte en el adverbio carefully.*
 
-**12.** c) Yes, she does. *Retroalimentación: la respuesta corta a una pregunta con "does" se contesta con "does": Yes, she does.*
+**12.** c) Yes, he does. *Retroalimentación: a una pregunta con "Does...?" se responde con el auxiliar: Yes, he does / No, he doesn't.*
 
-**13.** a) was walking / started. *Retroalimentación: la acción en curso va en pasado continuo (was walking) y la acción que la interrumpe va en pasado simple (started).*
+**13.** a) were eating / went. *Retroalimentación: el pasado continuo (were eating) describe la acción en curso, interrumpida por otra en pasado simple (went).*
 
-**14.** b) The ice cream melts if you leave it in the sun. *Retroalimentación: la estructura "if..., ..." conecta una causa (dejarlo al sol) con su efecto (se derrite); las otras oraciones solo describen.*
+**14.** b) The plant dies if you don't water it. *Retroalimentación: la condición (no regarla) produce un efecto (se muere): es una relación de causa y efecto.*

@@ -32,8 +32,7 @@ oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6
 ### Gases ideales: presión, volumen y temperatura (OA 13)
 
 **Pregunta 1.**
-Según la Ley de Boyle, si se mantiene la temperatura constante y se reduce el volumen de
-un gas, ¿qué ocurre con su presión?
+Al calentar un globo inflado (sin cambiar la presión), ¿qué ocurre con su volumen?
 
 a) Disminuye
 b) Aumenta
@@ -41,7 +40,7 @@ c) Se mantiene igual
 d) Se vuelve cero
 
 **Pregunta 2.** (Verdadero o falso)
-Los gases son mucho más compresibles que los líquidos y los sólidos.
+Las partículas de un sólido están muy juntas y ordenadas, por eso es muy difícil comprimirlo.
 
 **Pregunta 3.** (Alternativas)
 ¿Qué ley de los gases corresponde a cada situación: (1) un globo se expande al calentarse, a presión constante; (2) el aire en una jeringa tapada aumenta su presión al reducir su volumen, a temperatura constante; (3) la presión de un neumático aumenta con el calor, a volumen constante?
@@ -60,11 +59,11 @@ c) Porque las partículas de un líquido se mueven más rápido que las de un ga
 d) Porque en un gas las partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión; en un líquido ya están muy juntas
 
 **Pregunta 5.** (Alternativas)
-Un gas ocupa 4 litros a 2 atmósferas. Si la temperatura se mantiene constante y el volumen se reduce a 2 litros, ¿cuál será la nueva presión según la Ley de Boyle (P₁ × V₁ = P₂ × V₂)?
+Un gas ocupa 6 litros a 1 atmósfera. Si la temperatura se mantiene constante y el volumen se reduce a 2 litros, ¿cuál será la nueva presión según la Ley de Boyle (P₁ × V₁ = P₂ × V₂)?
 
 a) 1 atmósfera
-b) 4 atmósferas
-c) 8 atmósferas
+b) 3 atmósferas
+c) 12 atmósferas
 d) 2 atmósferas
 
 **Pregunta 6.** (Alternativas)
@@ -88,17 +87,15 @@ d) Porque la presión del gas disminuye con el calor del sol y la lata podría a
 ### Sustancias puras, mezclas y métodos de separación (OA 14)
 
 **Pregunta 8.**
-¿Cuál de los siguientes procedimientos se utiliza para separar los componentes de una
-mezcla líquida homogénea, aprovechando sus distintos puntos de ebullición?
+¿Qué método conviene usar para separar arena del agua de un vaso?
 
-a) Tamizado
-b) Filtración
-c) Destilación
-d) Decantación
+a) Destilación
+b) Imantación
+c) Filtración
+d) Evaporación del agua y de la arena
 
 **Pregunta 9.** (Verdadero o falso)
-En una mezcla homogénea, los distintos componentes se pueden distinguir fácilmente a
-simple vista.
+El agua con sal bien disuelta es una mezcla homogénea, porque no se distinguen sus componentes a simple vista.
 
 **Pregunta 10.** (Alternativas)
 ¿Qué clasificación es correcta: agua destilada, agua con sal disuelta, ensalada de frutas y oxígeno puro?
@@ -144,17 +141,15 @@ d) En la minería se mezcla el cobre con arena para aumentar su peso
 
 ## Pauta de corrección
 
-1. b) Aumenta.
-2. Verdadero — las partículas de un gas están muy separadas, con grandes espacios
-   vacíos.
+1. b) Aumenta. Al subir la temperatura, las partículas del gas se mueven más rápido y ocupan más espacio.
+2. Verdadero — en los sólidos casi no hay espacio entre las partículas, por lo que prácticamente no se pueden comprimir.
 3. a) 1: Charles; 2: Boyle; 3: Gay-Lussac
 4. d) Porque en un gas las partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión; en un líquido ya están muy juntas
-5. b) 4 atmósferas. P₂ = (P₁ × V₁) / V₂ = (2 atm × 4 L) / 2 L = 4 atm: al reducir el volumen a la mitad, la presión se duplica.
+5. b) 3 atmósferas. P₂ = (1 atm × 6 L) / 2 L = 3 atm: al reducir el volumen a un tercio, la presión se triplica.
 6. c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande
 7. a) Porque al aumentar la temperatura aumenta la presión del gas dentro de la lata (Ley de Gay-Lussac) y podría superar la resistencia del envase
-8. c) Destilación.
-9. Falso — en una mezcla homogénea los componentes están distribuidos de manera uniforme
-   y no se distinguen a simple vista.
+8. c) Filtración. El filtro deja pasar el agua y retiene la arena, que es un sólido que no se disuelve.
+9. Verdadero — en una mezcla homogénea los componentes están distribuidos de manera uniforme.
 10. d) Sustancia pura: agua destilada y oxígeno puro. Mezcla homogénea: agua con sal. Mezcla heterogénea: ensalada de frutas
 11. b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño de partícula con un tamiz
 12. c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas

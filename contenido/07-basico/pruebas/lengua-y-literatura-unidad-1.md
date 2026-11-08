@@ -18,63 +18,87 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 **Tiempo sugerido:** 30-35 minutos.
 **Cantidad de preguntas:** 13.
 
-**Instrucciones:** lee con atención cada pregunta. Si la pregunta se refiere a un texto de práctica, revisa primero la guía de estudio del OA correspondiente si necesitas recordar el texto completo. Responde en tu cuaderno o en la hoja de respuestas.
+**Instrucciones:** lee con atención cada texto y cada pregunta antes de responder.
 
 ---
 
-### Parte A — OA N°3: Analizo narraciones (texto "La libreta de don Segundo")
+### Parte A — OA N°3: Analizo narraciones (texto "La bicicleta azul")
 
-**1. (Alternativas)** ¿Cuál es el conflicto central del texto "La libreta de don Segundo"?
+*(Lee el texto «La bicicleta azul» y responde las preguntas 1 a 5.)*
 
-a) La decisión de Valentina de mudarse a Tomé para estudiar, lo que la alejó de su abuelo y de su primo
-b) La discusión entre don Segundo y su nieta por la venta del bote familiar, que él se negaba a aceptar
-c) La falta de dinero de la familia para reparar el bote después de que una tormenta lo dejó a la deriva
-d) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompió su relación durante años
+> Matías tenía diecisiete años cuando, ordenando el garaje de la casa de su madre en Los Ángeles, encontró una foto: él y su hermana Camila, de nueve y ocho años, junto a una bicicleta azul. Sintió el mismo nudo en el estómago de siempre.
+>
+> Ocho años antes, una mañana de invierno, la bicicleta había desaparecido del patio. Matías acusó a Camila de habérsela prestado a una amiga sin permiso. Ella, furiosa, lo culpó a él por haber dejado el portón abierto.
+>
+> —¡Yo cerré el portón! —gritó Camila esa vez, con los ojos llenos de lágrimas.
+>
+> Desde entonces, los hermanos casi no compartían. Su madre los veía discutir por cualquier cosa y nunca dijo nada.
+>
+> Esa tarde, Matías le mostró la foto. Ella se sentó lentamente y confesó que había regalado la bicicleta a un vecino que la necesitaba para ir a trabajar, y que no lo contó para evitar una pelea. "Pensé que lo olvidarían en una semana", dijo en voz baja. Matías tomó el teléfono y, después de ocho años, llamó a Camila.
 
-**2. (Alternativas)** ¿Qué rol cumple don Segundo en el conflicto de la historia?
+**1. (Alternativas)** ¿Cuál es el conflicto central del texto "La bicicleta azul"?
 
-a) No participa en la pelea, pero al ocultar que él dejó mal amarrada la cuerda permite que la culpa cruzada entre los primos se mantenga durante diez años
-b) Es quien provoca la pelea entre los primos al insultar a Valentina por haber dejado mal amarrado el bote aquella tarde
-c) Resuelve el conflicto al comienzo del relato, cuando cuenta toda la verdad sobre la cuerda y los primos se reconcilian de inmediato
-d) No tiene ninguna relación con el conflicto entre los primos, porque estaba fuera del pueblo el día en que el bote quedó a la deriva
+a) La decisión de Matías de ordenar el garaje de la casa de su madre en Los Ángeles
+b) La discusión entre la madre y el vecino por el préstamo de la bicicleta
+c) La falta de dinero de la familia para comprar una bicicleta nueva
+d) La culpa cruzada entre Matías y Camila por la bicicleta desaparecida, que distanció a los hermanos durante años
 
-**3. (Verdadero o Falso)** El relato "La libreta de don Segundo" está narrado en estricto orden cronológico, sin ningún salto temporal.
+**2. (Alternativas)** ¿Qué rol cumple la madre en el conflicto de la historia?
+
+a) No participa en la pelea, pero al ocultar que ella regaló la bicicleta permite que la culpa entre los hermanos se mantenga durante años
+b) Es quien provoca la pelea al acusar a Camila de prestar la bicicleta
+c) Resuelve el conflicto al comienzo del relato, cuando cuenta la verdad
+d) No tiene ninguna relación con el conflicto, porque no vivía con sus hijos
+
+**3. (Verdadero o Falso)** El relato "La bicicleta azul" está narrado en estricto orden cronológico, sin ningún salto temporal.
 
 **4. (Alternativas — aplicación)** ¿Cuál de estos fragmentos corresponde a la **voz de un personaje** y no a la del narrador?
 
-a) "Valentina cerró la libreta, sintió que se le apretaba la garganta"
-b) Una descripción del bote varado en la orilla, sin diálogo
-c) Un resumen de lo ocurrido diez años antes, contado en tercera persona
-d) "—¡Yo lo amarré bien! —respondió ella"
+a) "Sintió el mismo nudo en el estómago de siempre"
+b) Una descripción de la foto de los hermanos con la bicicleta, sin diálogo
+c) Un resumen de lo ocurrido ocho años antes, contado en tercera persona
+d) "—¡Yo cerré el portón! —gritó Camila"
 
-**5. (Alternativas)** ¿Qué efecto tiene la acción de don Segundo de callar la verdad sobre quién dejó mal amarrado el bote?
+**5. (Alternativas)** ¿Qué efecto tiene la decisión de la madre de callar lo que hizo con la bicicleta?
 
-a) Ninguno, porque los primos lo habrían descubierto de todas formas al revisar la cuerda del bote
-b) Provoca que Ignacio se mude a otra ciudad y deje de pescar con su abuelo para siempre
-c) Hace que Valentina deje de pescar para siempre y venda el bote que le había regalado su abuelo
-d) Provoca que la relación entre Valentina e Ignacio se rompa durante diez años
+a) Ninguno, porque los hermanos lo habrían descubierto al día siguiente
+b) Provoca que el vecino devuelva la bicicleta años después
+c) Hace que Matías se mude a otra ciudad para siempre
+d) Provoca que la relación entre Matías y Camila se distancie durante años
 
 ---
 
-### Parte B — OA N°4: Analizo poemas (poema "Cordillera de invierno")
+### Parte B — OA N°4: Analizo poemas (poema "Desierto de noche")
 
-**6. (Alternativas)** ¿A qué sentido apela principalmente la expresión "el viento... silba, sigiloso"?
+*(Lee el poema «Desierto de noche» y responde las preguntas 6 a 9.)*
+
+> Cuando el sol se recoge tras los cerros,
+> el desierto cierra los ojos y escucha;
+> el viento camina despacio por la arena
+> y murmura, susurrante, su canción antigua.
+>
+> Las estrellas son las brasas
+> que la noche olvidó apagar,
+> y yo, pequeño entre las piedras,
+> aprendo a respirar sin prisa.
+
+**6. (Alternativas)** ¿A qué sentido apela principalmente la expresión "el viento... murmura, susurrante"?
 
 a) Al gusto
 b) Al oído
 c) Al tacto
 d) Al olfato
 
-**7. (Alternativas)** ¿Qué idea transmite la metáfora "la nieve es la memoria de todos los inviernos que la tierra ha atravesado"?
+**7. (Alternativas)** ¿Qué idea transmite la metáfora "las estrellas son las brasas que la noche olvidó apagar"?
 
-a) Que la nieve es literalmente un recuerdo guardado por las personas del pueblo, que la recogen cada invierno para no olvidar
-b) Que la nieve acumulada representa simbólicamente el paso del tiempo y la historia del lugar, como si cada invierno dejara una huella
-c) Que en ese lugar nunca nieva, y que las personas solo recuerdan la nieve de los inviernos que vivieron en otras tierras
-d) Que la tierra olvida cada invierno apenas termina, porque la nieve se derrite sin dejar ninguna huella en el paisaje
+a) Que las estrellas son literalmente fuego que puede quemar el desierto
+b) Que las estrellas brillan en la oscuridad como pequeñas brasas encendidas, dando calidez a la noche
+c) Que en el desierto nunca se ven estrellas
+d) Que la noche apaga todas las luces del cielo
 
-**8. (Verdadero o Falso)** El poema "Cordillera de invierno" sugiere un estado de ánimo de agitación y urgencia.
+**8. (Verdadero o Falso)** El poema "Desierto de noche" sugiere un estado de ánimo de agitación y urgencia.
 
-**9. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en "la cordillera se pone su manto blanco y guarda silencio"?
+**9. (Alternativas)** ¿Qué figura del lenguaje se usa en "el desierto cierra los ojos y escucha"?
 
 a) Onomatopeya
 b) Hipérbole
@@ -83,57 +107,63 @@ d) Aliteración
 
 ---
 
-### Parte C — OA N°7: Formulo una interpretación de textos literarios (texto "El último turno")
+### Parte C — OA N°7: Formulo una interpretación de textos literarios (texto "La telefonista de Valdivia")
 
-**10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Elena en el relato?
+*(Lee el texto «La telefonista de Valdivia» y responde las preguntas 10 a 13.)*
 
-a) Elegir entre estudiar en el pueblo o trabajar en la salitrera para ayudar a su familia
-b) Decidir si cruza calles vigiladas para entregar un mensaje urgente, arriesgando su seguridad, o quedarse a salvo sin entregarlo
-c) Decidir si se une o no a la huelga como obrera de la oficina salitrera, aunque su padre le pidió que no lo hiciera por miedo a los despidos
-d) Elegir entre dos amigas que se pelearon por un malentendido durante la huelga de la oficina
+> Valdivia, mayo de 1960. Horas después del terremoto más fuerte registrado en la historia, Rosa, de diecinueve años, seguía en la central telefónica. Las paredes estaban agrietadas y su jefe le ordenó salir. Pero en ese momento llegó un aviso: el lago Riñihue podía desbordarse y las familias río abajo debían ser alertadas.
+>
+> Rosa pensó en su madre, que la esperaba en casa, y en el miedo que le producía cada nueva réplica. Luego pensó en los pueblos que no sabían lo que venía. Se quedó. Durante toda la noche conectó llamadas y repitió el aviso, una y otra vez, hasta que la voz se le quebró. Al amanecer, cuando salió, una vecina la abrazó: "Gracias a ti salimos a tiempo".
 
-**11. (Alternativas — postura fundamentada)** Frente al dilema de Elena, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
+**10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Rosa en el relato?
 
-a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto sin pensar en los riesgos"
-b) "No me gustó el cuento, porque tiene un final triste y prefiero las historias donde a nadie le pasa nada"
-c) "Creo que acertó, porque el mensaje era urgente y de él dependía la seguridad de otras familias, aunque el riesgo era muy alto"
-d) "Elena es un nombre bonito y el relato está bien escrito, así que cualquier decisión que tome me parece bien"
+a) Elegir entre estudiar en Valdivia o trabajar en Santiago
+b) Decidir si se queda en la central para transmitir el aviso, arriesgando su seguridad, o sale para ponerse a salvo con su familia
+c) Decidir si renuncia a su trabajo de telefonista por un conflicto con su jefe
+d) Elegir entre dos vecinas que le pedían ayuda al mismo tiempo
 
-**12. (Verdadero o Falso)** Para interpretar correctamente el relato "El último turno", no es necesario conocer nada sobre el contexto histórico de las huelgas obreras del salitre en Chile.
+**11. (Alternativas — postura fundamentada)** Frente al dilema de Rosa, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
-**13. (Alternativas — aplicación)** ¿Qué **visión de mundo** transmite el relato sobre la comunidad obrera de la época?
+a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto"
+b) "No me gustó el cuento, porque habla de un terremoto"
+c) "Creo que acertó, porque el aviso podía salvar a familias que no sabían del peligro, aunque ella arriesgaba mucho"
+d) "Rosa es un nombre bonito, así que cualquier decisión me parece bien"
 
-a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con la comunidad se valoran, aun con alto riesgo personal
-b) Una en que cada persona de la comunidad obrera solo se preocupa de sí misma y de su propia familia, sin ayudar a nadie
-c) Una en que el trabajo en la pampa era fácil y sin conflictos, porque los obreros tenían buenos sueldos y condiciones
-d) Una en que la comunidad obrera no tenía ningún valor compartido y cada familia enfrentaba sola los problemas de la época
+**12. (Verdadero o Falso)** Para interpretar correctamente el relato "La telefonista de Valdivia", no es necesario conocer nada sobre el terremoto de 1960 en el sur de Chile.
+
+**13. (Alternativas — aplicación)** ¿Qué **visión de mundo** transmite el relato sobre la comunidad de la época?
+
+a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con los demás se valoran, aun con alto riesgo personal
+b) Una en que cada persona solo se preocupa de sí misma, sin ayudar a nadie
+c) Una en que la catástrofe no tuvo ninguna consecuencia para las personas
+d) Una en que la comunidad no tenía valores compartidos y cada familia enfrentaba sola los problemas
 
 ---
 
 ## Pauta de respuestas
 
-**1.** d) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompió su relación durante años. *Retroalimentación: inferir el conflicto central implica identificar el problema que organiza toda la historia y explica las acciones y emociones de los personajes a lo largo del relato, no un detalle secundario.*
+**1.** d) La culpa cruzada entre Matías y Camila por la bicicleta desaparecida, que distanció a los hermanos durante años. *Retroalimentación: el conflicto central es el problema que organiza la historia y explica las acciones y emociones de los personajes.*
 
-**2.** a) No participa en la pelea, pero al ocultar que él dejó mal amarrada la cuerda permite que la culpa cruzada entre los primos se mantenga durante diez años. *Retroalimentación: describir el rol de un personaje en el conflicto no es solo decir qué hace, sino explicar cómo esa acción (u omisión) afecta el desarrollo de la historia y a los demás personajes.*
+**2.** a) No participa en la pelea, pero al ocultar que ella regaló la bicicleta permite que la culpa entre los hermanos se mantenga durante años. *Retroalimentación: describir el rol de un personaje implica explicar cómo su acción (u omisión) afecta el desarrollo de la historia.*
 
-**3.** Falso. *Retroalimentación: el relato comienza en el presente, salta al pasado mediante un flashback (la pelea de la infancia) y luego vuelve al presente; esta disposición temporal no es cronológica.*
+**3.** Falso. *Retroalimentación: el relato comienza en el presente, salta al pasado (la mañana en que desapareció la bicicleta) y vuelve al presente.*
 
-**4.** d) "—¡Yo lo amarré bien! —respondió ella". *Retroalimentación: la voz del narrador describe desde fuera lo que ocurre, sin guion de diálogo; la voz de los personajes aparece entre comillas o después de una raya de diálogo, en primera persona.*
+**4.** d) "—¡Yo cerré el portón! —gritó Camila". *Retroalimentación: la voz de los personajes aparece después de una raya de diálogo, en primera persona.*
 
-**5.** d) Provoca que la relación entre Valentina e Ignacio se rompa durante diez años. *Retroalimentación: el efecto de una acción de un personaje sobre otros personajes debe rastrearse en la historia; en este caso, el silencio del abuelo es la causa directa de que el conflicto entre los primos se prolongue tanto tiempo.*
+**5.** d) Provoca que la relación entre Matías y Camila se distancie durante años. *Retroalimentación: el silencio de la madre es la causa de que el conflicto se prolongue tanto tiempo.*
 
-**6.** b) Al oído. *Retroalimentación: la palabra "silba" describe un sonido, por lo que esta expresión apela principalmente al sentido auditivo del lector.*
+**6.** b) Al oído. *Retroalimentación: "murmura" y "susurrante" describen sonidos.*
 
-**7.** b) Que la nieve acumulada representa simbólicamente el paso del tiempo y la historia del lugar, como si cada invierno dejara una huella. *Retroalimentación: interpretar una metáfora implica explicar qué otra idea, más allá del significado literal, sugiere la comparación implícita.*
+**7.** b) Que las estrellas brillan en la oscuridad como pequeñas brasas encendidas, dando calidez a la noche. *Retroalimentación: interpretar una metáfora implica explicar la idea que sugiere la comparación implícita.*
 
-**8.** Falso. *Retroalimentación: el poema construye, mediante palabras como "silencio", "sigiloso" y la comparación con "un anciano que medita", un estado de ánimo de calma, quietud y solemnidad, no de agitación.*
+**8.** Falso. *Retroalimentación: palabras como "despacio", "susurrante" y "respirar sin prisa" construyen un estado de ánimo de calma y contemplación.*
 
-**9.** c) Personificación. *Retroalimentación: se le atribuyen a la cordillera acciones propias de un ser humano (vestirse, guardar silencio), lo que corresponde a una personificación.*
+**9.** c) Personificación. *Retroalimentación: se le atribuyen al desierto acciones humanas (cerrar los ojos, escuchar).*
 
-**10.** b) Decidir si cruza calles vigiladas para entregar un mensaje urgente, arriesgando su seguridad, o quedarse a salvo sin entregarlo. *Retroalimentación: un dilema es una situación en la que un personaje debe elegir entre dos opciones difíciles; en este caso, Elena debe decidir entre su seguridad personal y su responsabilidad hacia la comunidad obrera.*
+**10.** b) Decidir si se queda en la central para transmitir el aviso, arriesgando su seguridad, o sale para ponerse a salvo con su familia. *Retroalimentación: un dilema obliga a elegir entre dos opciones difíciles.*
 
-**11.** c) "Creo que acertó, porque el mensaje era urgente y de él dependía la seguridad de otras familias, aunque el riesgo era muy alto". *Retroalimentación: no existe una única postura correcta frente a un dilema (también podría fundamentarse lo contrario); lo que se evalúa es que la opinión se apoye en razones vinculadas al texto.*
+**11.** c) "Creo que acertó, porque el aviso podía salvar a familias que no sabían del peligro, aunque ella arriesgaba mucho". *Retroalimentación: no hay una única postura correcta; se evalúa que la opinión se apoye en razones del texto.*
 
-**12.** Falso. *Retroalimentación: comprender el contexto histórico real (las huelgas salitreras y la represión de la época, que culminaron en la Matanza de la Escuela Santa María de Iquique) es fundamental para interpretar con profundidad las decisiones y el miedo de los personajes del relato.*
+**12.** Falso. *Retroalimentación: conocer el contexto (el terremoto de 1960 y el riesgo de desborde del lago Riñihue) permite comprender el miedo y la decisión de Rosa.*
 
-**13.** a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con la comunidad se valoran, aun con alto riesgo personal. *Retroalimentación: la visión de mundo de una obra es la forma en que representa los valores, creencias o prioridades de los personajes y de la sociedad que describe.*
+**13.** a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con los demás se valoran, aun con alto riesgo personal. *Retroalimentación: la visión de mundo es la forma en que la obra representa los valores de los personajes y su sociedad.*

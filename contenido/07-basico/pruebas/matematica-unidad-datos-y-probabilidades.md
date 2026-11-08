@@ -21,105 +21,105 @@ oa_por_pregunta: {"1":"OA 16","2":"OA 16","3":"OA 16","4":"OA 16","5":"OA 16","6
 
 ---
 
-**Pregunta 1 (alternativas).** En una tabla de frecuencias de 40 datos, un valor tiene frecuencia absoluta 10. ¿Cuál es su frecuencia relativa?
-a) 10%
-b) 4%
-c) 40%
-d) 25%
-
-**Pregunta 2 (verdadero o falso).** La suma de todas las frecuencias relativas de una tabla siempre debe ser igual a 1 (o 100%).
-
-**Pregunta 3 (alternativas — calcular frecuencia).** En una encuesta a 25 personas sobre su transporte preferido, 8 eligieron bus, 10 auto, 5 bicicleta y 2 caminar. ¿Cuál es la frecuencia relativa porcentual de quienes prefieren el auto?
-
-a) 4%
-b) 10%
-c) 25%
+**Pregunta 1 (alternativas).** En una tabla de frecuencias de 50 datos, un valor tiene frecuencia absoluta 20. ¿Cuál es su frecuencia relativa?
+a) 20%
+b) 2,5%
+c) 50%
 d) 40%
 
-**Pregunta 4 (alternativas — construir tabla).** Resultados de lanzar un dado 15 veces: 3,5,2,6,3,1,4,3,5,2,6,3,4,1,3. ¿Qué tabla de frecuencias absolutas es correcta?
+**Pregunta 2 (verdadero o falso).** La suma de todas las frecuencias absolutas de una tabla es igual al número total de datos.
 
-a) 1→2; 2→2; 3→4; 4→2; 5→3; 6→2
-b) 1→1; 2→2; 3→5; 4→2; 5→2; 6→3
-c) Todos los números aparecen 2 veces
-d) 1→2; 2→2; 3→5; 4→2; 5→2; 6→2
+**Pregunta 3 (alternativas — calcular frecuencia).** En una encuesta a 20 estudiantes sobre su fruta preferida, 6 eligieron manzana, 8 plátano, 4 naranja y 2 pera. ¿Cuál es la frecuencia relativa porcentual de quienes prefieren el plátano?
 
-**Pregunta 5 (elegir el gráfico apropiado).** Un profesor quiere comparar las estaturas de los estudiantes de 7°A con las de 7°B, dato por dato, para ver si un curso tiende a tener estudiantes más altos que el otro. ¿Qué tipo de gráfico sería más apropiado?
+a) 8%
+b) 20%
+c) 30%
+d) 40%
+
+**Pregunta 4 (alternativas — construir tabla).** Notas de 12 estudiantes en un control (redondeadas): 5, 6, 4, 5, 7, 6, 5, 4, 6, 5, 7, 5. ¿Qué tabla de frecuencias absolutas es correcta?
+
+a) 4→3; 5→4; 6→3; 7→2
+b) 4→2; 5→4; 6→4; 7→2
+c) Todas las notas aparecen 3 veces
+d) 4→2; 5→5; 6→3; 7→2
+
+**Pregunta 5 (elegir el gráfico apropiado).** Una profesora quiere mostrar las edades de los 25 asistentes a un taller, conservando cada dato y viendo cómo se agrupan por decenas (20 y tantos, 30 y tantos…). ¿Qué tipo de gráfico es más apropiado?
 a) Gráfico circular
 b) Gráfico de tallo y hojas
 c) Pictograma
 d) Ninguno de los anteriores
 
-**Pregunta 6 (alternativas — problema en contexto).** Las ventas diarias de una semana fueron: 12, 15, 12, 18, 20, 15, 12 unidades. ¿Cuál fue el valor más frecuente y cuál es su frecuencia relativa?
+**Pregunta 6 (alternativas — problema en contexto).** Los goles de un equipo en 8 partidos fueron: 2, 1, 2, 0, 3, 2, 1, 2. ¿Cuál fue el valor más frecuente y cuál es su frecuencia relativa?
 
-a) 15 unidades, con 2/7 ≈ 28,6%
-b) 12 unidades, con 3/7 ≈ 42,9%
-c) 20 unidades, con 1/7 ≈ 14,3%
-d) 12 unidades, con 3/12 = 25%
+a) 1 gol, con 2/8 = 25%
+b) 2 goles, con 4/8 = 50%
+c) 3 goles, con 1/8 = 12,5%
+d) 2 goles, con 4/2 = 200%
 
-**Pregunta 7 (alternativas — comparar gráficos).** Un club quiere mostrar, en 6 partidos, en cuáles cada equipo (A y B) anotó más goles que el otro. ¿Qué gráfico es más apropiado?
+**Pregunta 7 (alternativas — comparar gráficos).** Una escuela quiere comparar, mes a mes durante un semestre, cuántos libros prestó la biblioteca a 7°A y a 7°B. ¿Qué gráfico es más apropiado?
 
-a) Gráfico circular, porque muestra cómo se reparte el total de goles entre los dos equipos
-b) Gráfico de tallo y hojas, porque ordena los goles de menor a mayor en cada partido
-c) Gráfico de barras dobles, porque compara partido a partido los goles de ambos equipos
-d) Ningún gráfico sirve para comparar: conviene solo una lista con los resultados
+a) Gráfico circular, porque muestra cómo se reparte el total
+b) Gráfico de tallo y hojas, porque ordena los datos de menor a mayor
+c) Gráfico de barras dobles, porque compara mes a mes los dos cursos
+d) Ningún gráfico sirve para comparar
 
-**Pregunta 8 (alternativas).** En una ruleta dividida en 8 sectores iguales, numerados del 1 al 8, ¿cuál es la probabilidad de que caiga en el número 5?
-a) 1/5
-b) 5/8
-c) 1/8
-d) 8/1
+**Pregunta 8 (alternativas).** En una tómbola hay 10 papeles numerados del 1 al 10. ¿Cuál es la probabilidad de sacar el número 7?
+a) 1/7
+b) 7/10
+c) 1/10
+d) 10/1
 
-**Pregunta 9 (verdadero o falso).** Si se lanza un dado 60 veces y el número 2 sale 9 veces, la frecuencia relativa experimental de obtener un 2 es 15%.
+**Pregunta 9 (verdadero o falso).** Si se lanza una moneda 50 veces y sale sello 30 veces, la frecuencia relativa experimental de sello es 60%.
 
-**Pregunta 10 (alternativas — calcular probabilidad).** En una bolsa hay 5 bolitas amarillas y 15 moradas. ¿Cuál es la probabilidad de sacar una amarilla, en porcentaje?
+**Pregunta 10 (alternativas — calcular probabilidad).** En una caja hay 4 lápices rojos y 12 azules. ¿Cuál es la probabilidad de sacar uno rojo, en porcentaje?
 
 a) 25%
 b) 33%
-c) 5%
+c) 4%
 d) 75%
 
-**Pregunta 11 (alternativas — probabilidad experimental).** Un jugador de básquetbol lanzó 40 tiros libres y anotó 32. A partir de esta frecuencia relativa, ¿cuál es la probabilidad estimada de que anote el próximo?
+**Pregunta 11 (alternativas — probabilidad experimental).** Una arquera atajó 9 de los 12 penales que le lanzaron. A partir de esta frecuencia relativa, ¿cuál es la probabilidad estimada de que ataje el próximo?
 
-a) 8%
-b) 20%
-c) 32%
-d) 80%
+a) 9%
+b) 25%
+c) 12%
+d) 75%
 
-**Pregunta 12 (alternativas — razón, fracción y porcentaje).** La probabilidad de un evento se expresa como la razón 3:20. ¿Cómo se expresa como fracción y como porcentaje?
+**Pregunta 12 (alternativas — razón, fracción y porcentaje).** La probabilidad de un evento se expresa como la razón 7:25. ¿Cómo se expresa como fracción y como porcentaje?
 
-a) 3/20 y 3%
-b) 3/20 y 15%
-c) 20/3 y 15%
-d) 3/23 y 13%
+a) 7/25 y 7%
+b) 7/25 y 28%
+c) 25/7 y 28%
+d) 7/32 y 22%
 
-**Pregunta 13 (problema en contexto — dado).** Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número par (2, 4 o 6)?
+**Pregunta 13 (problema en contexto — dado).** Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número mayor que 3?
 a) 1/6
 b) 1/2
 c) 1/3
 d) 2/3
 
-**Pregunta 14 (alternativas — comparar teórica y experimental).** Una moneda justa tiene probabilidad teórica de 50% de salir cara. Al lanzarla 200 veces salieron 112 caras. ¿Qué conclusión es correcta?
+**Pregunta 14 (alternativas — comparar teórica y experimental).** La probabilidad teórica de sacar un 6 en un dado es 1/6 (≈ 16,7%). Al lanzarlo 120 veces, el 6 salió 23 veces. ¿Qué conclusión es correcta?
 
-a) La probabilidad experimental es 112%, así que la moneda está trucada y conviene apostar siempre a cara
-b) La probabilidad experimental es 56%, lo que prueba que la moneda está trucada
-c) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar
-d) La probabilidad experimental debe ser exactamente 50%, así que hubo un error al contar las caras
+a) La probabilidad experimental es 23%, así que el dado está trucado
+b) La probabilidad experimental es ≈ 19,2%, lo que prueba que el dado está trucado
+c) La probabilidad experimental es ≈ 19,2%; la diferencia con 16,7% es razonable y puede explicarse por el azar
+d) La probabilidad experimental debe ser exactamente 16,7%, así que hubo un error al contar
 
 ---
 
 ## Pauta de respuestas
 
-1. d) 25%. 10/40 = 0,25.
-2. Verdadero.
-3. d) 40%. Se divide la frecuencia absoluta (10) por el total (25): 10/25 = 0,4 = 40%.
-4. d) 1→2; 2→2; 3→5; 4→2; 5→2; 6→2. Se cuenta cuántas veces aparece cada valor y se verifica que la suma sea el total de datos: 2+2+5+2+2+2 = 15 ✓.
-5. b) Gráfico de tallo y hojas.
-6. b) 12 unidades, con 3/7 ≈ 42,9%. "12" aparece 3 de los 7 días registrados; su frecuencia relativa es 3/7 ≈ 42,9% (se divide por el total de días, no por el valor).
-7. c) Gráfico de barras dobles, porque compara partido a partido los goles de ambos equipos. El gráfico circular muestra cómo se reparte un total en porcentajes, pero no compara dos series categoría por categoría; para eso se usan barras dobles.
-8. c) 1/8.
-9. Verdadero. 9/60 = 0,15 = 15%.
-10. a) 25%. Casos favorables / casos posibles = 5/20 = 0,25 = 25%. 33% resulta de dividir 5 por 15 (las moradas) en vez de por el total.
-11. d) 80%. 32/40 = 0,8 = 80%. La frecuencia relativa observada en muchos intentos se usa como estimación de la probabilidad si las condiciones se mantienen.
-12. b) 3/20 y 15%. La razón a:b se escribe como la fracción a/b; luego 3 ÷ 20 = 0,15 = 15%.
-13. b) 1/2. 3 pares de 6 posibles.
-14. c) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar. 112/200 = 0,56 = 56%. La probabilidad experimental casi nunca coincide exactamente con la teórica; con más repeticiones se espera que se acerque al valor teórico.
+1. d) 40%. 20/50 = 0,4.
+2. Verdadero. Cada dato se cuenta una vez, así que las frecuencias absolutas suman el total.
+3. d) 40%. Se divide la frecuencia absoluta (8) por el total (20): 8/20 = 0,4 = 40%.
+4. d) 4→2; 5→5; 6→3; 7→2. Se cuenta cuántas veces aparece cada nota y se verifica la suma: 2+5+3+2 = 12 ✓.
+5. b) Gráfico de tallo y hojas. Conserva cada dato y muestra cómo se agrupan por decenas.
+6. b) 2 goles, con 4/8 = 50%. "2" aparece 4 de las 8 veces; se divide por el total de partidos, no por el valor.
+7. c) Gráfico de barras dobles. Compara dos series categoría por categoría; el circular muestra cómo se reparte un total.
+8. c) 1/10. Un caso favorable de diez posibles.
+9. Verdadero. 30/50 = 0,6 = 60%.
+10. a) 25%. Casos favorables / casos posibles = 4/16 = 0,25. 33% resulta de dividir 4 por 12 (los azules) en vez de por el total.
+11. d) 75%. 9/12 = 0,75. La frecuencia relativa observada se usa como estimación de la probabilidad si las condiciones se mantienen.
+12. b) 7/25 y 28%. La razón a:b se escribe como a/b; 7 ÷ 25 = 0,28 = 28%.
+13. b) 1/2. Los números mayores que 3 son 4, 5 y 6: 3 de 6 posibles.
+14. c) 23/120 ≈ 0,192 ≈ 19,2%. La probabilidad experimental casi nunca coincide exactamente con la teórica; con más lanzamientos tiende a acercarse a ella.

@@ -21,19 +21,19 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia entre la ciudadanía en la Atenas clásica y en la sociedad actual?
-a) En Atenas, la ciudadanía incluía a todas las personas por igual; hoy está más restringida
-b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social
-c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción
-d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la época moderna con las revoluciones del siglo XVIII
+**Pregunta 1 (alternativas).** En la Atenas clásica, una mujer nacida en la ciudad, ¿podía votar en la Asamblea?
+a) Sí, porque todas las personas nacidas en Atenas eran ciudadanas
+b) No, porque la ciudadanía excluía a las mujeres, a los esclavos y a los extranjeros; hoy, en cambio, las mujeres votan
+c) Sí, pero solo en tiempos de guerra
+d) No, porque en Atenas nadie votaba
 
-**Pregunta 2 (verdadero o falso).** La mayoría de las democracias actuales, a diferencia de la democracia ateniense, funcionan principalmente como democracias representativas.
+**Pregunta 2 (verdadero o falso).** En Chile, las personas eligen a diputados y senadores para que tomen decisiones en su nombre: es un ejemplo de democracia representativa.
 
-**Pregunta 3 (alternativas — unir).** Une cada concepto con su origen o significado en el mundo clásico o medieval:
+**Pregunta 3 (alternativas — unir).** Une cada concepto con su origen o significado:
 
-1) República — 2) Municipio — 3) Gremio
+1) Democracia — 2) Senado — 3) Universidad
 
-Significados: (A) Forma de organización local con cierto grado de autogobierno — (B) "La cosa pública": un gobierno en que el poder no pertenece a un solo individuo — (C) Asociación medieval de artesanos o comerciantes de un mismo oficio
+Significados: (A) Consejo de ancianos y notables de la antigua Roma — (B) "Gobierno del pueblo", surgido en la antigua Grecia — (C) Institución de estudios superiores nacida en la Europa medieval
 
 ¿Qué combinación es correcta?
 
@@ -50,18 +50,18 @@ c) Similitud: la ciudadanía incluía a todos los habitantes de la ciudad, sin e
 d) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a las mujeres y no excluye a grupos como los esclavos o los extranjeros de origen
 
 **Pregunta 5 (alternativas).** ¿Cuál de las siguientes palabras del español actual proviene del árabe?
-a) Guerra
-b) Iglesia
-c) Almohada
-d) República
+a) Mesa
+b) Ventana
+c) Aceite
+d) Escuela
 
-**Pregunta 6 (verdadero o falso).** El contacto entre distintas culturas durante el mundo antiguo y medieval empobreció culturalmente a las sociedades europeas.
+**Pregunta 6 (verdadero o falso).** Los números que usamos hoy (0, 1, 2, 3…) llegaron a Europa gracias al contacto con la cultura árabe.
 
-**Pregunta 7 (alternativas — unir).** Une cada cultura con un aporte que hizo a las sociedades europeas:
+**Pregunta 7 (alternativas — unir).** Une cada cultura con un aporte a las sociedades europeas:
 
-1) Cultura árabe — 2) Cultura bizantina — 3) Cultura germana
+1) Cultura griega — 2) Cultura romana — 3) Cultura árabe
 
-Aportes: (A) Conservación y transmisión del legado cultural griego y romano — (B) Avances en matemáticas, astronomía y medicina — (C) Elementos de organización social y militar en los nuevos reinos
+Aportes: (A) El derecho y el latín, base de muchas leyes e idiomas — (B) La filosofía y la democracia — (C) El álgebra y los números que usamos hoy
 
 ¿Qué combinación es correcta?
 
@@ -77,19 +77,19 @@ b) Que en la Edad Media no existían traducciones, por lo que este texto debe ha
 c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas
 d) Que el conocimiento solo se producía en Europa occidental, y que los textos árabes servían únicamente para difundir la religión musulmana
 
-**Pregunta 9 (alternativas).** ¿Qué caracterizó la relación entre musulmanes y católicos en la península ibérica durante buena parte de la Edad Media?
-a) Solo hubo conflicto, sin ningún tipo de convivencia ni intercambio cultural
-b) Hubo mutua influencia cultural y científica, junto con períodos de conflicto y conquista territorial
-c) No existió ningún contacto entre ambos grupos, porque vivían en regiones separadas de la península
-d) Solo hubo convivencia pacífica, sin ningún conflicto ni conquista territorial entre ambos grupos
+**Pregunta 9 (alternativas).** En la ciudad de Toledo, durante la Edad Media, traductores musulmanes, judíos y cristianos trabajaron juntos traduciendo libros de ciencia. ¿Qué muestra este ejemplo?
+a) Que solo hubo conflicto entre esas culturas
+b) Que hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos
+c) Que esas culturas nunca tuvieron contacto
+d) Que la ciencia no existía en la Edad Media
 
-**Pregunta 10 (verdadero o falso).** El imperio romano y el imperio incaico permitieron, en general, que los pueblos conquistados mantuvieran sus propias creencias religiosas.
+**Pregunta 10 (verdadero o falso).** El imperio romano prohibió todas las religiones de los pueblos conquistados desde el comienzo de su expansión.
 
-**Pregunta 11 (alternativas — unir).** Une cada forma de convivencia entre pueblos con un ejemplo:
+**Pregunta 11 (alternativas — unir).** Une cada forma de convivencia con un ejemplo:
 
-1) Intercambio comercial — 2) Acuerdos diplomáticos — 3) Tolerancia religiosa
+1) Intercambio comercial — 2) Acuerdos diplomáticos — 3) Mestizaje cultural
 
-Ejemplos: (A) Permitir que un pueblo conquistado mantenga sus propias creencias — (B) Vínculos estables de compraventa de productos entre pueblos distintos — (C) Pactos formales entre distintos pueblos o gobiernos para regular su trato
+Ejemplos: (A) Mezcla de costumbres, palabras y comidas entre pueblos que conviven — (B) Venta de seda y especias entre Europa y Asia por la Ruta de la Seda — (C) Un tratado de paz firmado entre dos reinos
 
 ¿Qué combinación es correcta?
 
@@ -98,34 +98,34 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**Pregunta 12 (alternativas).** ¿Qué pareja muestra correctamente un ejemplo de convivencia y uno de conflicto entre culturas estudiadas en el curso?
+**Pregunta 12 (alternativas).** ¿Qué pareja muestra correctamente un ejemplo de convivencia y uno de conflicto en el Imperio romano?
 
-a) Convivencia: la conquista militar de un pueblo por otro, que unifica a ambos bajo un mismo gobierno. Conflicto: el comercio entre ciudades de distintas culturas
-b) Convivencia: las guerras entre reinos por el control del territorio y las rutas comerciales. Conflicto: los acuerdos diplomáticos y los tratados de paz
-c) Convivencia: la persecución religiosa de las minorías que no compartían la fe del reino. Conflicto: la tolerancia religiosa entre distintos grupos
-d) Convivencia: intercambios científicos entre musulmanes y cristianos en la península ibérica. Conflicto: las guerras por el territorio entre ambos grupos
+a) Convivencia: las guerras de conquista. Conflicto: el comercio por el Mediterráneo
+b) Convivencia: los tratados de paz. Conflicto: el uso común del latín
+c) Convivencia: la persecución de los cristianos. Conflicto: la tolerancia religiosa
+d) Convivencia: el comercio entre provincias por el Mediterráneo. Conflicto: las guerras de conquista contra otros pueblos
 
-**Pregunta 13 (alternativas — análisis de fuente, debate).** En un debate se pregunta: "¿Puede una misma relación entre dos pueblos incluir, al mismo tiempo, convivencia y conflicto?". Usando el ejemplo de musulmanes y católicos en la península ibérica, ¿qué argumento apoya una respuesta afirmativa?
+**Pregunta 13 (alternativas — análisis de fuente, debate).** En un debate se pregunta: "¿Puede una misma relación entre dos pueblos incluir, al mismo tiempo, convivencia y conflicto?". ¿Qué ejemplo del Imperio romano y los pueblos germanos apoya la respuesta "sí"?
 
-a) Que nunca tuvieron ningún contacto entre sí, porque vivían en regiones separadas de la península y no compartían idioma, religión ni costumbres
-b) Que durante siglos mantuvieron intercambios culturales y científicos mientras, al mismo tiempo, se enfrentaban en conflictos territoriales y militares
-c) Que siempre vivieron en paz absoluta, sin ningún conflicto territorial ni militar, durante toda la Edad Media
-d) Que solo se relacionaron mediante guerras por el territorio, sin ningún tipo de intercambio cultural ni científico
+a) Nunca tuvieron contacto entre sí
+b) Durante siglos comerciaron y muchos germanos sirvieron en el ejército romano, mientras también se enfrentaban en guerras de frontera
+c) Siempre vivieron en paz absoluta
+d) Solo se relacionaron mediante guerras, sin ningún intercambio
 
 ---
 
 ## Pauta de respuestas
 
-1. b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social.
-2. Verdadero. Mientras en Atenas los ciudadanos participaban directamente en la Asamblea, hoy la mayoría de las democracias eligen representantes.
+1. b) No, porque la ciudadanía ateniense excluía a las mujeres, a los esclavos y a los extranjeros; hoy la ciudadanía incluye a mujeres y hombres adultos.
+2. Verdadero. En la democracia representativa los ciudadanos eligen representantes; en Atenas participaban directamente en la Asamblea.
 3. a) 1-B, 2-A, 3-C
 4. d) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a las mujeres y no excluye a grupos como los esclavos o los extranjeros de origen. Se identifica un elemento de continuidad (la participación) y uno de cambio (la ampliación de la ciudadanía).
-5. c) Almohada.
-6. Falso. El contacto con culturas diversas —árabe, bizantina, germana, entre otras— enriqueció a las sociedades europeas en el lenguaje, la religión y las ciencias.
+5. c) Aceite. Viene del árabe *az-zayt*; como *almohada*, *azúcar* o *alcalde*, es una huella de la presencia árabe en la península ibérica.
+6. Verdadero. Los árabes difundieron en Europa el sistema de numeración que habían conocido en la India; es un ejemplo de cómo el contacto entre culturas enriqueció a Europa.
 7. c) 1-B, 2-A, 3-C
 8. c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas
-9. b) Hubo mutua influencia cultural y científica, junto con períodos de conflicto y conquista territorial.
-10. Verdadero. La tolerancia religiosa fue una estrategia que facilitó la convivencia y la estabilidad dentro de imperios muy extensos y culturalmente diversos.
+9. b) Hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos en la península.
+10. Falso. En general, Roma permitió que los pueblos conquistados mantuvieran sus creencias, siempre que aceptaran su autoridad; la tolerancia facilitó la estabilidad del imperio.
 11. a) 1-B, 2-C, 3-A
-12. d) Convivencia: intercambios científicos entre musulmanes y cristianos en la península ibérica. Conflicto: las guerras por el territorio entre ambos grupos
-13. b) Que durante siglos mantuvieron intercambios culturales y científicos mientras, al mismo tiempo, se enfrentaban en conflictos territoriales y militares
+12. d) Convivencia: el comercio entre provincias por el Mediterráneo. Conflicto: las guerras de conquista contra otros pueblos.
+13. b) Durante siglos comerciaron y muchos germanos sirvieron en el ejército romano, mientras también se enfrentaban en guerras de frontera.

@@ -32,17 +32,15 @@ oa_por_pregunta: {"1":"OA 7","2":"OA 7","3":"OA 7","4":"OA 7","5":"OA 7","6":"OA
 ### Fuerzas: gravitacional, de roce y elástica (OA 7)
 
 **Pregunta 1.**
-¿Qué tipo de fuerza de roce actúa cuando un objeto en reposo aún no comienza a moverse,
-a pesar de que se le aplica una fuerza?
+Un trineo ya se desliza por la nieve y poco a poco se va frenando. ¿Qué tipo de roce actúa sobre él mientras se mueve?
 
-a) Roce cinético
-b) Roce estático
+a) Roce estático
+b) Roce cinético
 c) Fuerza elástica
-d) Fuerza gravitacional
+d) Fuerza magnética
 
 **Pregunta 2.** (Verdadero o falso)
-La fuerza de roce siempre es igual entre cualquier par de superficies, sin importar su
-rugosidad.
+Es más fácil deslizar una caja sobre un piso de cerámica encerado que sobre un piso de cemento rugoso, porque el roce es menor.
 
 **Pregunta 3.** (Alternativas)
 ¿Qué fuerza principal está involucrada en cada situación: (1) una manzana cae de un árbol; (2) un resorte se estira al colgarle un peso; (3) un auto frena (neumáticos contra el pavimento)?
@@ -81,17 +79,15 @@ d) La gravedad se opone en la bajada; la fuerza muscular aplicada antes sigue ac
 ### Tectónica de placas: volcanes, sismos y deriva continental (OA 9)
 
 **Pregunta 7.**
-¿Qué tipo de límite entre placas tectónicas ocurre en la costa de Chile, donde la placa
-de Nazca se hunde bajo la placa Sudamericana?
+¿Qué ocurre en un límite **divergente** entre placas tectónicas, como en el centro del océano Atlántico?
 
-a) Límite divergente
-b) Límite transformante
-c) Límite convergente
-d) No existe interacción entre placas en Chile
+a) Las placas chocan y una se hunde bajo la otra
+b) Las placas se deslizan una al lado de la otra
+c) Las placas se separan y sale magma que forma nuevo fondo oceánico
+d) Las placas no se mueven
 
 **Pregunta 8.** (Verdadero o falso)
-La actividad sísmica y volcánica se distribuye de forma uniforme y al azar por todo el
-planeta.
+Chile tiene muchos sismos y volcanes porque se ubica en el borde entre dos placas tectónicas.
 
 **Pregunta 9.** (Alternativas)
 ¿A qué tipo de límite de placas corresponde cada ejemplo: (1) dorsal oceánica donde sube material del manto; (2) choque de placas que forma una cordillera; (3) deslizamiento lateral que genera fricción?
@@ -129,14 +125,14 @@ d) Porque en el centro de las placas hay más volcanes, y la lava fluye hasta lo
 
 ## Pauta de corrección
 
-1. b) Roce estático.
-2. Falso — el roce depende de la rugosidad de las superficies en contacto.
+1. b) Roce cinético. Es el roce que actúa sobre un objeto que ya está en movimiento.
+2. Verdadero — mientras menos rugosas son las superficies en contacto, menor es el roce.
 3. a) 1: gravitacional; 2: elástica; 3: de roce
 4. d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo
 5. b) Porque el hielo es más liso y genera menor fuerza de roce
 6. c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone
-7. c) Límite convergente.
-8. Falso — se concentra principalmente en los bordes de las placas tectónicas.
+7. c) Las placas se separan y sale magma que forma nuevo fondo oceánico.
+8. Verdadero — la placa de Nazca se hunde bajo la Sudamericana, lo que genera sismos y volcanismo.
 9. a) 1: divergente; 2: convergente; 3: transformante
 10. d) Movimientos de material caliente que asciende y material frío que desciende en el manto, que empujan lentamente a las placas
 11. b) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el sur, la Antártica); la subducción libera energía en forma de sismos y volcanes

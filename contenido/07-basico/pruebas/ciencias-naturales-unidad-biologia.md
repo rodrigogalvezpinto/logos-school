@@ -33,16 +33,15 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA
 ### Sexualidad y pubertad (OA 1)
 
 **Pregunta 1.**
-¿Cuáles son los tres aspectos que integra la sexualidad humana, según lo estudiado?
+Tomás siente nervios y alegría cuando habla con una compañera que le gusta. ¿Qué aspecto de la sexualidad se manifiesta principalmente en esta situación?
 
-a) Biológico, económico y cultural
-b) Afectivo, escolar y familiar
-c) Físico, deportivo y alimentario
-d) Biológico, afectivo y social
+a) El aspecto económico
+b) El aspecto deportivo
+c) El aspecto alimentario
+d) El aspecto afectivo
 
 **Pregunta 2.** (Verdadero o falso)
-Los cambios físicos de la pubertad son el único aspecto relevante de la sexualidad
-humana.
+Respetar las decisiones y los espacios de los demás forma parte del aspecto social de la sexualidad.
 
 **Pregunta 3.** (Alternativas)
 ¿Qué clasificación es correcta según el aspecto de la sexualidad al que corresponde principalmente cada situación: (1) desarrollo de vello púbico; (2) expresar cariño y respeto hacia una pareja; (3) informarse sobre métodos de prevención antes de tomar decisiones?
@@ -73,16 +72,15 @@ d) Sí es adecuada, porque sirve para que el compañero se apure en desarrollars
 ### Formación de un nuevo individuo (OA 2)
 
 **Pregunta 6.**
-¿En qué momento aproximado del ciclo menstrual ocurre la ovulación, en un ciclo de 28
-días?
+¿Qué ocurre durante la menstruación?
 
-a) El primer día del ciclo
-b) Hacia la mitad del ciclo (aproximadamente el día 14)
-c) Los últimos tres días del ciclo
-d) La ovulación no tiene relación con el ciclo menstrual
+a) El ovario libera un ovocito
+b) Se desprende la capa interna del útero, porque no hubo fecundación
+c) El espermatozoide llega al ovocito
+d) Se forma el embrión
 
 **Pregunta 7.** (Verdadero o falso)
-La fecundación ocurre cuando un espermatozoide se une con un ovocito en el útero.
+Después de la fecundación, el embrión se implanta en la pared del ovario.
 
 **Pregunta 8.** (Alternativas)
 ¿Qué clasificación de los métodos de control de la natalidad es correcta?
@@ -113,16 +111,15 @@ d) El embarazo adolescente no tiene ninguna implicancia
 ### Microorganismos: virus, bacterias y hongos (OA 5)
 
 **Pregunta 11.**
-¿Cuál es la principal diferencia estructural entre una célula procarionte y una
-eucarionte?
+Una bacteria, ¿qué tipo de célula es?
 
-a) La procarionte tiene núcleo definido y la eucarionte no
-b) La eucarionte tiene núcleo definido y la procarionte no
-c) Ambas tienen exactamente la misma estructura
-d) Solo los virus tienen núcleo definido
+a) Eucarionte, porque tiene núcleo definido
+b) Procarionte, porque no tiene núcleo definido
+c) No es una célula
+d) Una célula vegetal
 
 **Pregunta 12.** (Verdadero o falso)
-Los virus pueden reproducirse por sí solos, sin necesidad de una célula huésped.
+Los antibióticos sirven para combatir las infecciones causadas por virus, como el resfrío.
 
 **Pregunta 13.** (Alternativas)
 ¿Qué clasificación de estos microorganismos es correcta: *Penicillium*, virus de la influenza, bacteria *E. coli*, levadura de panadería?
@@ -152,18 +149,18 @@ d) Ningún microorganismo tiene efectos positivos
 
 ## Pauta de corrección
 
-1. d) Biológico, afectivo y social.
-2. Falso — los aspectos afectivo y social son igual de importantes que los biológicos.
+1. d) El aspecto afectivo. La sexualidad integra lo biológico, lo afectivo y lo social; las emociones y los vínculos son parte del aspecto afectivo.
+2. Verdadero — el aspecto social incluye el respeto, la convivencia y la forma en que nos relacionamos con otros.
 3. a) 1: biológico; 2: afectivo; 3: social. El vello púbico es un cambio corporal (biológico); el cariño y el respeto son afectivos; informarse antes de decidir es parte del aspecto social y de la responsabilidad individual.
 4. d) Tomar decisiones informadas y cuidadosas sobre la propia sexualidad, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto
 5. b) Porque el ritmo de los cambios puberales varía de persona a persona de forma normal, y el respeto es parte esencial de vivir la sexualidad de forma sana
-6. b) Hacia la mitad del ciclo (aproximadamente el día 14).
-7. Falso — la fecundación ocurre en las trompas de Falopio, no en el útero.
+6. b) Se desprende la capa interna del útero, porque no hubo fecundación.
+7. Falso — el embrión se implanta en la pared del útero, no en el ovario.
 8. c) Natural: control del ciclo menstrual. De barrera: preservativo y diafragma. Químico/hormonal: píldora anticonceptiva
 9. a) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora impide la ovulación alterando el ciclo hormonal. Además, solo el preservativo protege contra infecciones de transmisión sexual.
 10. a, b y c — Un embarazo adolescente tiene implicancias físicas, sociales y educativas, y la paternidad responsable implica que ambos progenitores asumen la crianza.
-11. b) La eucarionte tiene núcleo definido y la procarionte no.
-12. Falso — necesitan invadir una célula huésped para replicarse.
+11. b) Procarionte, porque no tiene núcleo definido; su material genético está disperso en el citoplasma.
+12. Falso — los antibióticos actúan sobre las bacterias; no sirven contra los virus.
 13. d) Hongos: *Penicillium* y levadura. Virus: influenza. Bacterias: *E. coli*
 14. b) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse
 15. c) Bacterias: flora intestinal / tuberculosis. Hongos: penicilina / pie de atleta. Virus: uso en vacunas / gripe

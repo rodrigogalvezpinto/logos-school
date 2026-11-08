@@ -18,127 +18,145 @@ oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 8","6":"OA
 **Tiempo sugerido:** 30-35 minutos.
 **Cantidad de preguntas:** 13.
 
-**Instrucciones:** lee con atención cada pregunta. Si la pregunta se refiere a un texto de práctica, revisa primero la guía de estudio del OA correspondiente si necesitas recordar el texto completo. Responde en tu cuaderno o en la hoja de respuestas.
+**Instrucciones:** lee con atención cada texto y cada pregunta antes de responder.
 
 ---
 
-### Parte A — OA N°8: Analizo textos argumentativos (columna "Menos pantallas, más patio")
+### Parte A — OA N°8: Analizo textos argumentativos (columna "Más ciclovías, menos tacos")
 
-**1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Menos pantallas, más patio"?
+*(Lee la columna y responde las preguntas 1 a 5.)*
 
-a) Los celulares deben prohibirse completamente en los colegios, porque son la única causa del problema
-b) Los patios de los colegios no necesitan ninguna mejora, porque los estudiantes prefieren quedarse en las salas usando el celular durante los recreos
-c) El problema del uso excesivo de pantallas se resuelve mejorando los espacios recreativos de los colegios, no solo prohibiendo el celular
-d) Los niños deberían pasar más horas frente a la pantalla, no menos, porque así aprenden más rápido
+> **Más ciclovías, menos tacos**
+>
+> Cada mañana, miles de familias de nuestra ciudad pasan más de una hora atrapadas en el tráfico. Según el último informe del Ministerio de Transportes, un viaje promedio en auto en hora punta demora 40 minutos para recorrer menos de 10 kilómetros.
+>
+> En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse. Muchas calles no tienen ciclovías, y las que existen se cortan de repente o están pintadas en la misma calzada de los buses, por lo que muchas personas prefieren no usar la bicicleta.
+>
+> Creo firmemente que la solución no pasa únicamente por cobrar más a los autos. Hago un llamado a las autoridades: construyamos ciclovías continuas y separadas del tráfico. El costo de no hacerlo será mucho más alto a largo plazo.
 
-**2. (Verdadero o Falso)** La frase "según la última Encuesta Nacional de Uso del Tiempo Libre, los niños... pasan en promedio más de tres horas diarias frente a una pantalla" corresponde a un hecho verificable, no a una opinión.
+**1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Más ciclovías, menos tacos"?
+
+a) Los autos deben prohibirse completamente en la ciudad, porque son la única causa del problema
+b) Las calles no necesitan ninguna mejora, porque las personas prefieren el auto
+c) El problema del tráfico se resuelve ofreciendo alternativas seguras, como ciclovías continuas, y no solo cobrando más a los autos
+d) Las personas deberían usar más el auto, no menos, porque así llegan más rápido
+
+**2. (Verdadero o Falso)** La frase "según el último informe del Ministerio de Transportes, un viaje promedio en auto en hora punta demora 40 minutos" corresponde a un hecho verificable, no a una opinión.
 
 **3. (Alternativas)** ¿Cuál de estos enunciados de la columna es una **opinión** y no un hecho verificable?
 
-a) "En mi opinión, el problema no es el celular en sí mismo, sino la falta de espacios seguros y atractivos"
-b) Un dato sobre el número de horas diarias que los niños y niñas usan pantallas, citado de un estudio nacional
-c) La fecha en que se publicó la columna en el diario de la comuna
-d) El nombre de la comuna donde se ubica uno de los colegios mencionados
+a) "En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse"
+b) El dato sobre los minutos que demora un viaje en hora punta, citado de un informe
+c) La fecha en que se publicó la columna
+d) El nombre del ministerio que publicó el informe
 
 **4. (Alternativas — aplicación)** ¿Cuál de estos es un **argumento** que usa el autor para sostener su postura?
 
-a) Que el celular fue inventado en el siglo XX y que, por eso, no debería usarse en los colegios actuales, donde se enseñan otras habilidades
-b) Que el autor tiene un hijo que usa el celular en los recreos y que no sabe jugar con sus compañeros
-c) Que los recreos duran quince minutos en todos los colegios del mundo, lo que no alcanza para jugar
-d) Que muchos colegios tienen patios poco atractivos (de cemento, sin sombra ni juegos), por lo que los estudiantes prefieren el celular
+a) Que la bicicleta se inventó en el siglo XIX y por eso es un medio de transporte antiguo
+b) Que el autor tiene un vecino que maneja muy rápido
+c) Que en todas las ciudades del mundo llueve demasiado para andar en bicicleta
+d) Que muchas ciclovías se cortan de repente o comparten la calzada con los buses, por lo que muchas personas prefieren no usar la bicicleta
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un hecho, y no a una opinión?
 
-a) "Creo firmemente que la solución no pasa únicamente por prohibir el celular"
-b) "El costo de no hacerlo... es mucho más alto a largo plazo"
-c) "Hago un llamado a las autoridades educativas: invirtamos en patios"
-d) "Muchos colegios municipales de nuestro país tienen patios de cemento sin sombra"
+a) "Creo firmemente que la solución no pasa únicamente por cobrar más a los autos"
+b) "El costo de no hacerlo será mucho más alto a largo plazo"
+c) "Hago un llamado a las autoridades: construyamos ciclovías continuas"
+d) "Muchas calles no tienen ciclovías"
 
 ---
 
-### Parte B — OA N°9: Analizo textos de los medios de comunicación (noticia y comentario sobre la nueva alcaldesa)
+### Parte B — OA N°9: Analizo textos de los medios de comunicación (noticia y comentario)
+
+*(Lee los textos A y B y responde las preguntas 6 a 9.)*
+
+> **Texto A — Noticia:** Marcela Rojas, ingeniera de 62 años con treinta años de experiencia en logística, asumió como la primera mujer gerenta general del Puerto de San Antonio. Una encuesta a los trabajadores del puerto mostró estos resultados sobre su nombramiento:
+>
+> ::barras::Aprueba=61;Rechaza=28;No sabe=11::y=% de trabajadores;valores=si::
+>
+> **Texto B — Comentario en una red social:** "¿Una señora de 62 años dirigiendo el puerto? A esa edad ya no se tiene energía para un cargo así. Deberían poner a alguien joven que entienda el mundo de hoy."
 
 **6. (Alternativas)** ¿Cuál es el propósito implícito del Texto B (el comentario en redes sociales)?
 
-a) Informar objetivamente sobre los resultados de la elección municipal en la comuna
-b) Felicitar a la nueva alcaldesa por su triunfo y desearle éxito en su gestión
-c) Cuestionar la capacidad de las mujeres para ejercer cargos de autoridad, basándose en un prejuicio de género
-d) Explicar el funcionamiento del sistema electoral chileno y cómo se cuentan los votos en cada mesa
+a) Informar objetivamente sobre los resultados de la encuesta
+b) Felicitar a la nueva gerenta y desearle éxito
+c) Cuestionar la capacidad de Marcela Rojas para el cargo, basándose en un prejuicio sobre su edad
+d) Explicar cómo funciona un puerto
 
 **7. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
 
-a) Una crítica fundada en los resultados de la gestión anterior de Huenumán, que habría tenido malos resultados en otro cargo
-b) El prejuicio de género de que una mujer "no va a poder" con un cargo de autoridad, sin considerar la trayectoria real de Huenumán
-c) Un dato verificable sobre el porcentaje de votos que obtuvo cada candidatura en la elección municipal
-d) Una felicitación a la nueva alcaldesa, expresada con ironía para destacar que es la primera mujer en el cargo
+a) Una crítica fundada en malos resultados de su trabajo anterior
+b) El prejuicio de que una persona mayor "no tiene energía" para el cargo, sin considerar su experiencia real de treinta años
+c) Un dato verificable sobre la encuesta a los trabajadores
+d) Una felicitación expresada con ironía
 
-**8. (Alternativas — aplicación, texto discontinuo)** Según el gráfico del Texto A, ¿qué diferencia hay entre la candidatura ganadora (Huenumán, 54%) y la segunda más votada (31%)?
+**8. (Alternativas — aplicación, texto discontinuo)** Según el gráfico del Texto A, ¿qué diferencia hay entre quienes aprueban y quienes rechazan el nombramiento?
 
-a) 85 puntos porcentuales
-b) 31 puntos porcentuales
-c) 23 puntos porcentuales
-d) 13 puntos porcentuales
+a) 89 puntos porcentuales
+b) 28 puntos porcentuales
+c) 33 puntos porcentuales
+d) 23 puntos porcentuales
 
-**9. (Alternativas)** ¿Qué efecto podría tener la publicación pública del comentario del Texto B sobre Javiera Huenumán?
+**9. (Alternativas)** ¿Qué efecto podría tener la publicación del comentario del Texto B sobre Marcela Rojas?
 
-a) Ningún efecto, porque las redes sociales no influyen en la opinión pública y los comentarios se olvidan al día siguiente
-b) Podría generar desconfianza injustificada hacia su gestión, antes incluso de que esta comience, basada en un prejuicio y no en su desempeño real
-c) Aumentaría automáticamente su popularidad, porque cualquier comentario en redes sociales le da más visibilidad
-d) Cambiaría el resultado oficial de la elección, porque el Servel revisa los comentarios publicados en redes
+a) Ningún efecto, porque los comentarios en redes se olvidan al día siguiente
+b) Podría generar desconfianza injustificada hacia su gestión, antes de que comience, basada en un prejuicio y no en su desempeño
+c) Aumentaría automáticamente su aprobación entre los trabajadores
+d) Anularía su nombramiento, porque el puerto revisa los comentarios en redes
 
 ---
 
 ### Parte C — OA N°15: Escribo textos adecuando el registro al destinatario y propósito
 
-**10. (Alternativas)** ¿Qué significa "adecuar el registro" de un texto?
+**10. (Alternativas)** Debes escribir un correo a la directora del colegio para pedir permiso para una feria. ¿Qué significa adecuar el registro en este caso?
 
-a) Escribir siempre con el mismo vocabulario y la misma estructura, sin importar quién vaya a leer el texto
-b) Ajustar el vocabulario, la persona gramatical y la estructura del texto según el destinatario, el contexto y el propósito
-c) Usar solo palabras técnicas y formales en cualquier texto, para que se vea más serio y completo
-d) Evitar por completo el uso de conectores, para que las oraciones sean más cortas y fáciles de leer
+a) Escribir igual que en un chat con amigos, con abreviaturas y emojis
+b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad
+c) Usar solo palabras técnicas, aunque la directora no las entienda
+d) Evitar los conectores para que el correo sea más corto
 
-**11. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Las estudiante ha entregado su tareas atrasado"?
+**11. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Los jugador ha ganado su partido difícil"?
 
-a) Las estudiantes han entregado sus tareas atrasadas.
-b) La estudiantes ha entregado sus tarea atrasado.
-c) Las estudiantes ha entregado su tareas atrasadas.
-d) Las estudiante han entregado sus tareas atrasado.
+a) Los jugadores han ganado sus partidos difíciles.
+b) El jugadores ha ganado sus partido difícil.
+c) Los jugadores ha ganado su partidos difíciles.
+d) Los jugador han ganado sus partidos difícil.
 
-**12. (Verdadero o Falso)** El participio del verbo "resolver" es "resolvido".
+**12. (Verdadero o Falso)** El participio del verbo "escribir" es "escribido".
 
-**13. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Le dije a mis papás y a mi hermana que se apuraran, porque el bus le esperaba"?
+**13. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Le pedí a mis abuelos que me esperaran, porque el tren le dejaba lejos"?
 
-a) Le dije a mis papás y a mi hermana que se apuraran, porque el bus los esperaba.
-b) Les dije a mis papás y a mi hermana que se apuraran, porque el bus le esperaba.
-c) Le dije a mis papás y a mi hermana que se apurara, porque el bus lo esperaba.
-d) Les dije a mis papás y a mi hermana que se apuraran, porque el bus los esperaba.
+a) Le pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos.
+b) Les pedí a mis abuelos que me esperaran, porque el tren le dejaba lejos.
+c) Le pedí a mis abuelos que me esperara, porque el tren lo dejaba lejos.
+d) Les pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos.
 
 ---
 
 ## Pauta de respuestas
 
-**1.** c) El problema del uso excesivo de pantallas se resuelve mejorando los espacios recreativos de los colegios, no solo prohibiendo el celular. *Retroalimentación: identificar la postura del autor implica encontrar la idea central que defiende a lo largo de todo el texto, no un detalle aislado.*
+**1.** c) El problema del tráfico se resuelve ofreciendo alternativas seguras, como ciclovías continuas, y no solo cobrando más a los autos. *Retroalimentación: la postura es la idea central que el autor defiende a lo largo de la columna.*
 
-**2.** Verdadero. *Retroalimentación: esta frase cita una fuente de datos concreta (una encuesta), lo que la convierte en información verificable, a diferencia de una valoración personal del autor.*
+**2.** Verdadero. *Retroalimentación: la frase cita una fuente concreta (un informe del ministerio), por lo que es información verificable.*
 
-**3.** a) "En mi opinión, el problema no es el celular en sí mismo, sino la falta de espacios seguros y atractivos". *Retroalimentación: una opinión expresa una valoración o interpretación personal que otra persona podría discutir; un hecho puede comprobarse objetivamente.*
+**3.** a) "En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse". *Retroalimentación: una opinión es una valoración personal que otra persona podría discutir; un hecho se puede comprobar.*
 
-**4.** d) Que muchos colegios tienen patios poco atractivos (de cemento, sin sombra ni juegos), por lo que los estudiantes prefieren el celular. *Retroalimentación: un argumento no es cualquier frase del texto, sino una razón que sostiene directamente la postura central del autor.*
+**4.** d) Que muchas ciclovías se cortan de repente o comparten la calzada con los buses, por lo que muchas personas prefieren no usar la bicicleta. *Retroalimentación: un argumento es una razón que sostiene directamente la postura.*
 
-**5.** d) "Muchos colegios municipales de nuestro país tienen patios de cemento sin sombra". *Retroalimentación: aunque parte de la oración podría matizarse, la afirmación sobre las características físicas de los patios es una descripción verificable de la realidad, más cercana a un hecho que las otras opciones, que expresan claramente valoraciones o llamados del autor.*
+**5.** d) "Muchas calles no tienen ciclovías". *Retroalimentación: es una descripción que se puede comprobar observando la ciudad; las otras expresan creencias o llamados.*
 
-**6.** c) Cuestionar la capacidad de las mujeres para ejercer cargos de autoridad, basándose en un prejuicio de género. *Retroalimentación: aunque el texto se presenta como una opinión sobre la elección, su propósito implícito es cuestionar la capacidad de la alcaldesa por el solo hecho de ser mujer.*
+**6.** c) Cuestionar la capacidad de Marcela Rojas para el cargo, basándose en un prejuicio sobre su edad. *Retroalimentación: el propósito implícito no se dice directamente, pero se deduce de lo que el texto pone en duda.*
 
-**7.** b) El prejuicio de género de que una mujer "no va a poder" con un cargo de autoridad, sin considerar la trayectoria real de Huenumán. *Retroalimentación: un prejuicio generaliza sobre un grupo de personas sin considerar la evidencia del caso; además, el texto minimiza sus veinte años de trabajo comunitario.*
+**7.** b) El prejuicio de que una persona mayor "no tiene energía" para el cargo, sin considerar su experiencia real de treinta años. *Retroalimentación: un prejuicio es un juicio previo, sin fundamento en los hechos, sobre un grupo de personas.*
 
-**8.** c) 23 puntos porcentuales. *Retroalimentación: 54% − 31% = 23 puntos porcentuales; interpretar un gráfico insertado en una noticia implica extraer y comparar sus datos.*
+**8.** c) 33 puntos porcentuales. *Retroalimentación: 61% − 28% = 33 puntos; leer un gráfico insertado en una noticia implica extraer y comparar sus datos.*
 
-**9.** b) Podría generar desconfianza injustificada hacia su gestión, antes incluso de que esta comience, basada en un prejuicio y no en su desempeño real. *Retroalimentación: inferir el efecto de un texto sobre la persona aludida implica pensar en las consecuencias reales que puede tener la información divulgada públicamente.*
+**9.** b) Podría generar desconfianza injustificada hacia su gestión, antes de que comience, basada en un prejuicio y no en su desempeño. *Retroalimentación: los comentarios públicos pueden afectar la imagen de las personas aludidas.*
 
-**10.** b) Ajustar el vocabulario, la persona gramatical y la estructura del texto según el destinatario, el contexto y el propósito. *Retroalimentación: adecuar el registro significa tomar decisiones conscientes sobre el vocabulario y la estructura de un texto según a quién está dirigido y para qué se escribe.*
+**10.** b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad. *Retroalimentación: el registro se ajusta al destinatario, al contexto y al propósito.*
 
-**11.** a) Las estudiantes han entregado sus tareas atrasadas. *Retroalimentación: hay que revisar la concordancia entre artículo y sustantivo, entre sujeto y verbo, y entre sustantivo y adjetivo.*
+**11.** a) Los jugadores han ganado sus partidos difíciles. *Retroalimentación: el sujeto plural exige verbo, posesivo, sustantivo y adjetivo en plural.*
 
-**12.** Falso. *Retroalimentación: "resolver" tiene un participio irregular, que es "resuelto" (o "resuelta/resueltos/resueltas" según concordancia), no "resolvido".*
+**12.** Falso. *Retroalimentación: "escribir" tiene participio irregular: "escrito".*
 
-**13.** d) Les dije a mis papás y a mi hermana que se apuraran, porque el bus los esperaba. *Retroalimentación: cuando el pronombre se refiere a varias personas se usa la forma plural: "les" como complemento indirecto y "los" como complemento directo.*
+**13.** d) Les pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos. *Retroalimentación: "les" concuerda con "mis abuelos" (plural) y "los" es el complemento directo de "dejaba".*

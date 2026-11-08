@@ -25,92 +25,92 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 ### Parte A — OA N°9: Comprendo la idea general, información explícita y planteo una postura
 
-**1. (Alternativas)** Read: *"Volcanoes are common in Chile because the country is located between two tectonic plates. There are more than 500 volcanoes in the country."* What is the text mainly about?
+**1. (Alternativas)** Read: *"Penguins live in the Southern Hemisphere. In Chile, you can see Humboldt penguins on the coast and Magellanic penguins in the south."* What is the text mainly about?
 
 a) Chilean food
 b) Chilean history
-c) Tectonic games
-d) Volcanoes in Chile
+c) Winter sports
+d) Penguins in Chile
 
-**2. (Verdadero o Falso)** Read: *"The Amazon rainforest produces about 6% to 9% of the world's oxygen. It is home to millions of species of plants and animals."* Statement: *The text says the Amazon produces 50% of the world's oxygen.*
+**2. (Verdadero o Falso)** Read: *"The Atacama Desert is one of the driest places on Earth. Some areas receive less than 1 mm of rain per year."* Statement: *The text says the Atacama Desert receives 100 mm of rain per year.*
 
-**3. (Alternativas — completar)** Complete: *"The first sentence of a paragraph usually gives you the ___ idea of the text."*
+**3. (Alternativas — completar)** Complete: *"To find the ___ idea of a text, ask yourself: what is the whole text about?"*
 
 a) main
 b) explicit
 c) false
 d) small
 
-**4. (Alternativas — comprensión)** Read: *"Diego plays basketball three times a week at the community center."* *How many times a week does Diego play basketball?*
+**4. (Alternativas — comprensión)** Read: *"Sofía takes the bus to school every morning at 7:30."* *What time does Sofía take the bus?*
 
-a) He plays once a week.
-b) He plays every day.
-c) He plays at school.
-d) He plays three times a week.
+a) At 7:00.
+b) In the afternoon.
+c) At school.
+d) At 7:30.
 
-**5. (Alternativas — función)** ¿Qué función cumple la frase *"I disagree because..."*?
+**5. (Alternativas — función)** ¿Qué función cumple la frase *"In my opinion, ... because ..."*?
 
 a) Expresar una postura personal y justificarla
 b) Dar información explícita del texto
 c) Describir el lugar donde ocurre la historia
 d) Presentar a los personajes
 
-**6. (Alternativas)** Read: *"Recycling helps reduce waste in landfills. Many countries now require families to separate their garbage."* ¿Cuál es un dato explícito del texto?
+**6. (Alternativas)** Read: *"Bees are very important for agriculture. They pollinate many of the fruits and vegetables we eat."* ¿Cuál es un dato explícito del texto?
 
-a) Recycling is boring for most families.
-b) Many countries require families to separate garbage.
-c) Recycling is the best hobby for families.
-d) All families love to separate their garbage.
+a) Bees are scary for most people.
+b) Bees pollinate many fruits and vegetables.
+c) Bees are the best pets.
+d) Everybody loves bees.
 
-**7. (Alternativas — opinión, desafiante)** Read: *"Some scientists say students should have less homework so they can rest and play more."* Which answer expresses an opinion with a coherent reason?
+**7. (Alternativas — opinión, desafiante)** Read: *"Some schools in Chile have started vegetable gardens for students."* Which answer expresses an opinion with a coherent reason?
 
-a) I agree because homework is blue and I don't like that color.
-b) Scientists are people who study many things in a laboratory.
-c) I agree because students need free time to relax and be healthy.
-d) Students have homework on Monday, Wednesday and Friday.
+a) I agree because gardens are green and I like the number seven.
+b) Schools are buildings where students learn.
+c) I agree because students can learn where food comes from and eat healthier.
+d) Some schools have gardens on Tuesday.
 
 ---
 
 ### Parte B — OA N°10: Comprendo secuencia, conectores, hecho/opinión y causa-efecto
 
-**8. (Alternativas)** Read the instructions: *"First, turn on the computer. Next, open the browser. Finally, type the website address."* ¿Qué tipo de texto es este?
+**8. (Alternativas)** Read: *"First, put the seed in the soil. Next, water it every day. Finally, place the pot near a window."* ¿Qué tipo de texto es este?
 
 a) A biography
 b) An opinion column
 c) A set of instructions
 d) A poem
 
-**9. (Alternativas — completar)** Complete the sequence: *"___, mix the flour and sugar. Then, add the eggs. ___, bake for 30 minutes."*
+**9. (Alternativas — completar)** Complete the sequence: *"___, wash your hands. Then, cut the tomatoes. ___, add salt and serve."*
 
 a) First / Finally
 b) Finally / First
 c) Then / First
 d) Finally / Then
 
-**10. (Verdadero o Falso)** Read: *"Football is the most popular sport in the world. I think it is more exciting than basketball."* Statement: *The whole text is a fact.*
+**10. (Verdadero o Falso)** Read: *"Santiago is the capital of Chile. I think it is the most beautiful city in the world."* Statement: *The whole text is a fact.*
 
-**11. (Alternativas — vocabulario)** What does *"unfair"* mean?
+**11. (Alternativas — vocabulario)** What does *"unhappy"* mean?
 
-a) justo
-b) muy justo
-c) justicia
-d) injusto
+a) feliz
+b) muy feliz
+c) felicidad
+d) infeliz / triste
 
-**12. (Alternativas — completar)** Complete: *"She walked ___ because she was tired."* (slow + -ly)
+**12. (Alternativas — completar)** Complete: *"He answered the question ___ because he knew the answer."* (quick + -ly)
 
-a) slow
-b) slowly
-c) slower
-d) slowness
+a) quick
+b) quickly
+c) quicker
+d) quickness
 
-**13. (Alternativas — comprensión)** Read: *"Marie Curie was born in Poland in 1867. She moved to France to study science. She won two Nobel Prizes."* *Where was Marie Curie born?*
+**13. (Alternativas — comprensión)** Read: *"Gabriela Mistral was born in Vicuña in 1889. She worked as a teacher. In 1945 she won the Nobel Prize in Literature."* *Where was Gabriela Mistral born?*
 
-a) She was born in France.
-b) She was born in 1867 in Chile.
-c) She was born in Poland.
-d) She was born in a Nobel Prize.
+a) She was born in Santiago.
+b) She was born in 1945 in Peru.
+c) She was born in Vicuña.
+d) She was born in a school.
 
-**14. (Alternativas — desafiante)** Read: *"The ice melted because the sun was very hot."* ¿Qué relación expresa esta oración?
+**14. (Alternativas — desafiante)** Read: *"The streets were wet because it rained all night."* ¿Qué relación expresa esta oración?
 
 a) Secuencia
 b) Causa y efecto
@@ -121,30 +121,30 @@ d) Opinión
 
 ## Pauta de respuestas
 
-**1.** d) Volcanoes in Chile. *Retroalimentación: el texto completo gira en torno a los volcanes; los detalles (placas tectónicas, número de volcanes) solo apoyan esa idea general.*
+**1.** d) Penguins in Chile. *Retroalimentación: el texto completo trata sobre los pingüinos en Chile; los detalles (especies y lugares) apoyan esa idea general.*
 
-**2.** False (Falso). *Retroalimentación: el texto dice explícitamente 6% al 9%, no 50%; hay que leer con atención los números exactos.*
+**2.** False (Falso). *Retroalimentación: el texto dice menos de 1 mm al año, no 100 mm; hay que leer con atención los números exactos.*
 
-**3.** a) main. *Retroalimentación: main idea (idea principal/general) es el concepto que resume de qué trata todo el texto.*
+**3.** a) main. *Retroalimentación: main idea (idea principal) es lo que resume de qué trata todo el texto.*
 
-**4.** d) He plays three times a week. *Retroalimentación: el dato exacto (three times a week) aparece directamente en el texto; no requiere inferencia.*
+**4.** d) At 7:30. *Retroalimentación: el dato aparece directamente en el texto; no requiere inferencia.*
 
-**5.** a) Expresar una postura personal y justificarla. *Retroalimentación: "I agree/disagree because" se usa para dar tu opinión y justificarla, no para repetir datos del texto.*
+**5.** a) Expresar una postura personal y justificarla. *Retroalimentación: "In my opinion... because..." sirve para dar una opinión con una razón.*
 
-**6.** b) Many countries require families to separate garbage. *Retroalimentación: esa es información dicha directamente en el texto; las otras opciones son opiniones no mencionadas o exageraciones.*
+**6.** b) Bees pollinate many fruits and vegetables. *Retroalimentación: es información dicha directamente en el texto; las otras son opiniones o exageraciones.*
 
-**7.** c) I agree because students need free time to relax and be healthy. *Retroalimentación: una opinión bien construida usa "I agree/disagree" + "because" + una razón coherente con el tema leído.*
+**7.** c) I agree because students can learn where food comes from and eat healthier. *Retroalimentación: una opinión bien construida usa "I agree/disagree" + "because" + una razón coherente con el tema.*
 
-**8.** c) A set of instructions. *Retroalimentación: los conectores de secuencia (first, next, finally) y los pasos ordenados son típicos de un texto de instrucciones.*
+**8.** c) A set of instructions. *Retroalimentación: los conectores de secuencia (first, next, finally) y los pasos ordenados son típicos de las instrucciones.*
 
-**9.** a) First / Finally. *Retroalimentación: First marca el primer paso y Finally marca el último; "then" ya está usado en el paso del medio.*
+**9.** a) First / Finally. *Retroalimentación: First marca el primer paso y Finally el último; "then" ya está usado en el paso del medio.*
 
-**10.** False (Falso). *Retroalimentación: la primera oración es un hecho, pero la segunda es una opinión (marcada por "I think"); el texto combina ambos.*
+**10.** False (Falso). *Retroalimentación: la primera oración es un hecho, pero la segunda es una opinión (marcada por "I think").*
 
-**11.** d) injusto. *Retroalimentación: el prefijo un- invierte el significado: fair (justo) se convierte en unfair (injusto).*
+**11.** d) infeliz / triste. *Retroalimentación: el prefijo un- invierte el significado: happy (feliz) → unhappy (infeliz).*
 
-**12.** b) slowly. *Retroalimentación: para describir cómo camina (modo), el adjetivo slow se transforma en el adverbio slowly agregando -ly.*
+**12.** b) quickly. *Retroalimentación: para describir cómo responde (modo), el adjetivo quick se transforma en el adverbio quickly.*
 
-**13.** c) She was born in Poland. *Retroalimentación: el dato específico (Polonia) aparece explícito al inicio de la biografía; Francia es el país al que se mudó después.*
+**13.** c) She was born in Vicuña. *Retroalimentación: el lugar de nacimiento aparece explícito; 1945 es el año del Premio Nobel.*
 
-**14.** b) Causa y efecto. *Retroalimentación: "because" introduce la causa (el sol estaba caliente) que explica el efecto (el hielo se derritió).*
+**14.** b) Causa y efecto. *Retroalimentación: "because" introduce la causa (llovió toda la noche) que explica el efecto (las calles mojadas).*

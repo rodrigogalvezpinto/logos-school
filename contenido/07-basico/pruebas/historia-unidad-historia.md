@@ -21,13 +21,13 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Qué se entiende por "Revolución neolítica"?
-a) La invención de la escritura y de los primeros registros contables en Mesopotamia
-b) El desarrollo de las primeras ciudades europeas durante la Edad Media, en torno al comercio
-c) La formación del primer imperio de la historia mediante la conquista de pueblos vecinos
-d) El proceso mediante el cual los seres humanos comenzaron a domesticar plantas y animales y a hacerse sedentarios
+**Pregunta 1 (alternativas).** ¿Qué cambio en la forma de vida trajo la Revolución neolítica?
+a) El paso de la vida en ciudades a la vida nómade
+b) La invención de la imprenta
+c) El fin de la agricultura
+d) El paso de la vida nómade, basada en la caza y la recolección, a la vida sedentaria, basada en la agricultura y la ganadería
 
-**Pregunta 2 (verdadero o falso).** La Revolución neolítica ocurrió en un único lugar del planeta y luego se difundió hacia todas las demás regiones.
+**Pregunta 2 (verdadero o falso).** El maíz fue domesticado en América, mientras que el trigo fue domesticado en el Medio Oriente.
 
 **Pregunta 3 (alternativas).** ¿Cuál de los siguientes NO es un rasgo característico de las primeras civilizaciones?
 a) Centralización de la administración en manos de un gobernante
@@ -48,25 +48,25 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**Pregunta 5 (alternativas).** ¿Quiénes podían ser ciudadanos en la Atenas clásica y, por lo tanto, participar en la Asamblea?
-a) Todas las personas que vivían en Atenas, incluidos los extranjeros y los esclavos
-b) Solo los hombres libres, mayores de edad, hijos de padre y madre atenienses
-c) Solo las mujeres atenienses mayores de edad, hijas de padre y madre atenienses
-d) Solo los esclavos liberados que hubieran servido en el ejército de la ciudad
+**Pregunta 5 (alternativas).** ¿Cómo se tomaban las decisiones importantes en la democracia de Atenas?
+a) Las decidía un rey por herencia
+b) Los ciudadanos votaban directamente en la Asamblea
+c) Las decidía un emperador elegido por el ejército
+d) Las decidían solo los sacerdotes
 
-**Pregunta 6 (verdadero o falso).** Las mujeres, los esclavos y los extranjeros residentes en Atenas tenían derecho a participar en la Asamblea y votar las leyes.
+**Pregunta 6 (verdadero o falso).** En Atenas, un esclavo podía votar en la Asamblea si llevaba muchos años viviendo en la ciudad.
 
-**Pregunta 7 (alternativas).** ¿Qué se entiende por "romanización" de los territorios conquistados por Roma?
-a) La destrucción total de las culturas de los pueblos conquistados y su reemplazo por colonos romanos llegados desde Italia
-b) La expulsión de los habitantes originales de los territorios conquistados, que debían trasladarse a vivir fuera del imperio
-c) El proceso mediante el cual los pueblos conquistados adoptaron elementos de la lengua, el derecho y la cultura romana
-d) La prohibición del comercio entre Roma y los territorios conquistados, para evitar que estos se enriquecieran y se rebelaran
+**Pregunta 7 (alternativas).** Que en España, Francia e Italia se hablen hoy lenguas derivadas del latín es una consecuencia de:
+a) La invasión de los pueblos árabes
+b) La Revolución neolítica
+c) La romanización de los territorios conquistados por Roma
+d) La democracia ateniense
 
-**Pregunta 8 (alternativas — unir).** Une cada característica romana con su función:
+**Pregunta 8 (alternativas — unir).** Une cada legado de Roma con un ejemplo actual:
 
-1) Derecho romano — 2) Red de caminos — 3) Ejército
+1) Derecho romano — 2) Arquitectura romana — 3) Latín
 
-Funciones: (A) Facilitó la comunicación, el comercio y la administración del territorio — (B) Permitió la conquista y defensa del territorio del imperio — (C) Organizó la vida pública y privada bajo un sistema de leyes común
+Ejemplos: (A) El uso del arco y la cúpula en edificios — (B) Palabras como "agua", "luna" o "escuela" — (C) Leyes escritas y la idea de que todos deben cumplirlas
 
 ¿Qué combinación es correcta?
 
@@ -81,13 +81,13 @@ b) Egipcia, mesopotámica y persa, del Cercano Oriente
 c) Maya, azteca e inca, de la América precolombina
 d) China, india y árabe, de las rutas comerciales de Asia
 
-**Pregunta 10 (verdadero o falso).** La caída del Imperio romano de Occidente en el año 476 d.C. mantuvo la unidad política del territorio bajo un solo gobierno.
+**Pregunta 10 (verdadero o falso).** Después de la caída del Imperio romano de Occidente, en el año 476 d.C., su territorio quedó dividido en distintos reinos germánicos.
 
-**Pregunta 11 (alternativas).** ¿Qué proceso describe el "renacimiento de la vida urbana" en Europa a partir del siglo XII?
-a) El abandono definitivo de las ciudades y el regreso de la población a los campos de los señores feudales
-b) El regreso a una vida exclusivamente nómade, sin asentamientos permanentes, por las invasiones de pueblos del norte
-c) La desaparición del comercio entre regiones, porque cada feudo producía todo lo que necesitaba para vivir
-d) El crecimiento de las ciudades como centros de comercio, artesanía y vida social
+**Pregunta 11 (alternativas).** ¿Qué papel cumplieron las ferias medievales, como las de Champaña, a partir del siglo XII?
+a) Prohibieron el comercio entre regiones
+b) Hicieron desaparecer las ciudades
+c) Obligaron a la población a volver al campo
+d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades
 
 **Pregunta 12 (alternativas — unir).** Une cada transformación de Europa desde el siglo XII con un ejemplo:
 
@@ -102,17 +102,17 @@ b) 1-C, 2-A, 3-B
 c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
-**Pregunta 13 (alternativas).** ¿Qué eran las "chinampas" desarrolladas por los aztecas?
-a) Templos religiosos dedicados a sus dioses, construidos sobre pirámides
-b) Islas artificiales de cultivo construidas sobre el agua del lago
-c) Caminos elevados que conectaban distintas ciudades a través del lago
-d) Sistemas de escritura jeroglífica para registrar los tributos de los pueblos
+**Pregunta 13 (alternativas).** ¿Para qué construyeron los incas las terrazas de cultivo en las laderas de los Andes?
+a) Para defenderse de los ataques enemigos
+b) Para obtener terreno plano para cultivar en las montañas y evitar la erosión
+c) Para registrar los tributos
+d) Para celebrar ceremonias religiosas
 
-**Pregunta 14 (alternativas).** ¿Cuál de los siguientes es un ejemplo del legado de las civilizaciones americanas en la vida cotidiana actual?
-a) El uso del alfabeto cirílico
-b) El consumo de alimentos como el maíz, la papa o el cacao
-c) El sistema legal basado exclusivamente en el derecho chino
-d) El calendario musulmán
+**Pregunta 14 (alternativas).** ¿Cuál de las siguientes palabras del español proviene de una lengua indígena americana?
+a) Almohada
+b) Chocolate
+c) Escuela
+d) Ventana
 
 **Pregunta 15 (varias correctas).** ¿Cuáles de estas expresiones culturales latinoamericanas actuales muestran el legado de alguna civilización estudiada en este eje (maya, azteca, griega, romana o europea medieval)? Marca **todas** las correctas.
 
@@ -125,18 +125,18 @@ d) El uso de teléfonos celulares
 
 ## Pauta de respuestas
 
-1. d) El proceso mediante el cual los seres humanos comenzaron a domesticar plantas y animales y a hacerse sedentarios.
-2. Falso. La domesticación de plantas y animales surgió de manera independiente en distintos lugares del planeta —Medio Oriente, China, América, entre otros— y en momentos distintos.
+1. d) El paso de la vida nómade a la vida sedentaria, gracias a la domesticación de plantas y animales.
+2. Verdadero. La agricultura surgió de forma independiente en distintos lugares del planeta.
 3. c) Sociedades completamente igualitarias, sin diferencias sociales. Las primeras civilizaciones se caracterizaron, precisamente, por la estratificación social.
 4. a) 1-B, 2-C, 3-A
-5. b) Solo los hombres libres, mayores de edad, hijos de padre y madre atenienses.
-6. Falso. Estos tres grupos estaban excluidos de la ciudadanía ateniense.
-7. c) El proceso mediante el cual los pueblos conquistados adoptaron elementos de la lengua, el derecho y la cultura romana.
+5. b) Los ciudadanos votaban directamente en la Asamblea: era una democracia directa.
+6. Falso. Los esclavos, las mujeres y los extranjeros estaban excluidos de la ciudadanía ateniense.
+7. c) La romanización: los pueblos conquistados adoptaron la lengua, el derecho y la cultura de Roma.
 8. d) 1-C, 2-A, 3-B
 9. a) Grecorromana, judeocristiana y germana.
-10. Falso. La caída del Imperio romano de Occidente provocó la fragmentación del territorio en distintos reinos germánicos independientes entre sí.
-11. d) El crecimiento de las ciudades como centros de comercio, artesanía y vida social.
+10. Verdadero. La caída del imperio provocó la fragmentación del territorio en reinos independientes.
+11. d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades.
 12. b) 1-C, 2-A, 3-B
-13. b) Islas artificiales de cultivo construidas sobre el agua del lago.
-14. b) El consumo de alimentos como el maíz, la papa o el cacao.
+13. b) Para obtener terreno plano para cultivar en las montañas y evitar que la lluvia arrastrara el suelo.
+14. b) Chocolate. Viene del náhuatl, la lengua de los aztecas; como *tomate* o *cancha*, es un legado de las civilizaciones americanas.
 15. a, b y c — La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente.
