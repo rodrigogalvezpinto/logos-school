@@ -30,8 +30,8 @@ relación con otras formas: segunda versión (Forma B), con preguntas propias
 
 **Pregunta 1 (alternativas).** Un submarino está a −300 metros bajo el nivel del mar y desciende 150 metros más. ¿A qué profundidad queda?
 
-a) −450 m
-b) −150 m
+a) −150 m
+b) −450 m
 c) 450 m
 d) 150 m
 
@@ -40,9 +40,9 @@ d) 150 m
 **Pregunta 2 (alternativas).** La cuenta corriente de un cliente tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
 
 a) −$82.000
-b) $82.000
+b) $18.000
 c) −$18.000
-d) $18.000
+d) $82.000
 
 ---
 
@@ -68,8 +68,8 @@ d) 2/9
 
 a) 2,4
 b) 0,24
-c) 240
-d) 24
+c) 24
+d) 240
 
 ---
 
@@ -280,11 +280,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
-| 2 | d) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
+| 1 | b) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
+| 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
 | 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
 | 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
-| 5 | **d) 24.** Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
+| 5 | **c) 24.** Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
 | 6 | **c) 6.** 3/4 ÷ 1/8 = 3/4 × 8/1 = 24/4 = 6. Dividir el total por el tamaño de cada trozo indica cuántos caben; 3/32 resulta de multiplicar en vez de dividir. | OA 3 | Números y Operaciones |
 | 7 | **a) $12.000.** El 25% equivale a la cuarta parte: 48.000 ÷ 4 = 12.000. $4.800 es el 10% y $24.000, el 50%. | OA 4 | Números y Operaciones |
 | 8 | **d) $210.000.** Interés: 0,05 × 200.000 = 10.000; total: 200.000 + 10.000 = $210.000. $205.000 confunde 5% con $5.000 y $10.000 es solo el interés. | OA 4 | Números y Operaciones |
