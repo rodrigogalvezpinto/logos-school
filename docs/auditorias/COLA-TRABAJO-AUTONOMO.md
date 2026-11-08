@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-08: C.2 en curso. Cerrados 1.° y 2.° básico (0 % de copia). OA explícito en todas las pruebas. **Hallazgo:** lecturas no conectadas a sus preguntas en unas 12 pruebas y simulacros, y las pruebas de Lenguaje de 5.° básico remiten a textos de la guía (§15.37). **Siguiente:** mover el detector a `backend/scripts`, conectar los estímulos huérfanos y seguir C.2 con 3.° básico.
+
 - 2026-11-07 23:40: Fase 1 → C.1 cerrado (0 % de copia en los 50 simulacros), C.3 al límite del formato, B aplicado (gráficos y mapas dibujados, §15.36). Base `logos_qa` del usuario recargada (tenía el material antiguo con preguntas de desarrollo). Contraste del resultado en modo examen corregido. **Siguiente:** C.2 (pruebas de unidad copiadas de la guía, 10 cursos) y luego D (imágenes, decisión del usuario).
 
 - 2026-11-07: **Fase 1, control 4 cerrado:** indicadores revisados en los 12 cursos, ~1.398/1.437 (97 %). Lista consolidada en `docs/auditorias/fase1/correcciones-propuestas.md`, **pendiente de aprobación del usuario**. Siguiente control: el 5, exactitud de los cambios posteriores a `7ea9828`.

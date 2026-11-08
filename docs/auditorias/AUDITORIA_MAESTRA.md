@@ -1586,3 +1586,27 @@ unitaria para este caso.
 - Importación: 6.181 preguntas, 0 sin OA.
 - Chromium: 3.°, 5.°, 6.° y 7.° básico y 2.° medio.
 - Tres navegadores: 1.° básico 54/54, 2.° básico 54/54, 4.° básico 54/54 y 8.° básico 72/72. Dos fallas de tiempo (Firefox en Geografía de 2.° básico y WebKit en Geometría de 8.° básico) pasaron al repetirlas solas.
+
+### 15.37 Fase 1 — C.2 en curso: pruebas de unidad independientes de la guía (2026-11-08)
+
+**OA explícito en las 156 pruebas.** `backend/scripts/fijar_oa_pruebas.py` escribe un `oa_por_pregunta`
+completo. Lo resuelve igual que el importador, que antes deducía el OA buscando la copia de la pregunta en
+la guía; reescribir una pregunta la dejaba sin OA. Comprobación: 1.825 preguntas, 0 cambios de OA.
+
+**Avance.** 1.° básico: 9 reescritas, queda en 0 %. 2.° básico: 62 reescritas, queda en 0 %. En 2.° básico
+también cambiaron los textos de lectura de las pruebas (un cuento, una carta y un texto informativo) y de
+los simulacros A y B, que usaban textos de la guía.
+
+**Hallazgo 1: la herramienta borraba el estímulo siguiente.** `reemplazar_pregunta_simulacro.py` cortaba
+el bloque de una pregunta recién en la pregunta siguiente. Si después venía un estímulo compartido, como el
+cuento de las preguntas 5 a 8, lo borraba.
+- Ahora el bloque también termina en «Lee…/Observa…/Usa…/**Texto…**».
+- Si el bloque viejo trae texto citado, una imagen o un marcador que el nuevo no trae, la herramienta aborta, salvo que se use `forzar`.
+- Revisión de todos los reemplazos desde `767781a`: la única pérdida no intencional fue ese cuento de 2.° básico, ya restaurado.
+
+**Hallazgo 2: lecturas que el alumno nunca ve.**
+- En unas 12 pruebas y simulacros (Lenguaje de 3.° y 6.° básico, Lengua de 2.° y 3.° medio, simulacros de Inglés de 3.° y 4.° medio, entre otros), el texto de lectura está en el archivo pero no tiene la línea «Lee… preguntas X a Y». El parser no lo une a ninguna pregunta, así que la app muestra «¿Cómo es Valentina, según el cuento?» sin el cuento.
+- En 5.° básico, las dos pruebas de Lenguaje remiten a textos de la guía que no están en la prueba.
+- Detector: `/tmp/huerfanos.py`, que se moverá a `backend/scripts`. Se corrigen curso por curso dentro de C.2.
+
+**Verificación.** Validador: 0 discrepancias. Importación: 6.181 preguntas, 0 sin OA. Chromium: 1.° y 2.° básico. Dos fallas de tiempo en guías que no se tocaron pasaron al repetirlas.
