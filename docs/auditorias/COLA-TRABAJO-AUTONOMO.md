@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-07: **Fase 1, control 4 cerrado:** indicadores revisados en los 12 cursos, ~1.398/1.437 (97 %). Lista consolidada en `docs/auditorias/fase1/correcciones-propuestas.md`, **pendiente de aprobación del usuario**. Siguiente control: el 5, exactitud de los cambios posteriores a `7ea9828`.
+
 - 2026-11-07 18:35: PostgreSQL cierra las conexiones tras 1,5 a 2 min. Se interrumpió una reimportación, así que la base `logos_e2e_alternativas` puede haber quedado incompleta. **Al retomar:** si `psql` responde en menos de 1 s, ejecutar `reimportar.sh` completo; después, el E2E de 1.° y 4.° básico.
 
 - 2026-11-07 18:30: 1.° básico, Matemática: 14 reescritas (Números 6, Patrones 3, Medición 2, Geometría 4 con dibujos nuevos de pastel, osito y perro). Diagnóstico de la lentitud: el disco estaba saturado (unas 4.400 operaciones por segundo, `kernel_task` sobre 200 %, un *checkpoint* de Postgres de 102 bloques tardó 13 s). Hay que reiniciar el Mac.
