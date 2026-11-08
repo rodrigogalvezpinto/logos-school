@@ -182,16 +182,16 @@ d) La generalización estereotipada de @troll123
 >
 > *Versión (b) — post de Instagram, con errores de cohesión*: "El cuento habla de un papá minero. Después la hija escribe con lápiz. Chuquicamata es una ciudad del norte. Se llama Fernanda. Es un cuento bonito, léanlo."
 
-**19. (Alternativas)** ¿Cuál de las siguientes diferencias entre la versión (a) y la versión (b) corresponde a una diferencia de género discursivo, y no solo de extensión?
+**19. (Alternativas)** Una estudiante debe transformar su ensayo sobre el reciclaje en una publicación para la cuenta de Instagram del centro de alumnos. ¿Qué cambio responde a la adecuación al nuevo género discursivo?
 
-a) La versión (a) tiene más oraciones y párrafos que la versión (b), y por eso desarrolla mejor la misma idea
-b) La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa un registro cercano propio de una publicación de red social
-c) Ambas versiones usan exactamente los mismos conectores y la misma estructura argumentativa, pero la versión (b) omite la cita textual por falta de espacio en la publicación
-d) La versión (b) no tiene ningún propósito comunicativo definido: es solo un resumen de la versión (a) en menos palabras
+a) Copiar el ensayo completo, con sus citas y referencias bibliográficas
+b) Mantener la idea central, pero acortar el texto, usar un registro cercano y cerrar con un llamado a la acción
+c) Agregar más citas académicas para que la publicación parezca más seria
+d) Cambiar el tema por uno más entretenido para conseguir más «me gusta»
 
 **20. (Verdadero o Falso)** "El proceso de escritura consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior."
 
-**21. (Verdadero o Falso)** "La oración 'Se llama Fernanda', en la versión (b) original, mantiene correctamente la progresión temática sobre el paralelismo entre las manos del padre y las de la hija."
+**21. (Verdadero o Falso)** "En el párrafo 'Los humedales urbanos filtran el agua y albergan aves migratorias. Mi primo vive en Valdivia. Por eso, protegerlos beneficia a toda la ciudad', la oración 'Mi primo vive en Valdivia' mantiene la progresión temática."
 
 **22. (Alternativas — planificación)** ¿Qué planificación de un texto sobre el reportaje de los repartidores es coherente?
 
@@ -207,12 +207,12 @@ b) Porque adecuar un texto exige eliminar la interpretación y quedarse solo con
 c) Porque la audiencia no importa: un mismo texto funciona igual de bien para cualquier lector, sin necesidad de cambiarlo
 d) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma, no necesariamente la profundidad
 
-**24. (Varias correctas)** ¿Qué se evalúa en la etapa de revisión del proceso de escritura? Marca **todas** las correctas.
+**24. (Varias correctas)** ¿Qué acciones corresponden a la etapa de **planificación** del proceso de escritura? Marca **todas** las correctas.
 
-a) La coherencia en torno a un tema central
-b) La cohesión: si los conectores muestran la relación entre ideas
-c) La adecuación al género y a la audiencia
-d) Solo el color de la tinta
+a) Definir el propósito y la audiencia del texto
+b) Revisar la ortografía del borrador terminado
+c) Elegir el género discursivo adecuado
+d) Ordenar las ideas principales en un esquema
 
 **25. (Alternativas — aplicación)** ¿Cuál es la mejor corrección de "Los repartidores trabajan muchas horas. Las empresas dicen que hay flexibilidad. Ronald sube dieciocho pisos a pie. El sueldo mínimo casi no alcanza.", y qué relación muestran sus conectores?
 
@@ -255,12 +255,12 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 16 | **b)** Su propia experiencia comparativa como docente que vive una situación similar en otro establecimiento. | OA N°4 — modos de razonamiento |
 | 17 | **c) Señalarlos como descalificaciones sin sustento, sin responder con el mismo tono, porque desvían la conversación del problema real.** | OA N°4 — postura ética fundamentada |
 | 18 | **a y b.** Lo verificable y el testimonio directo pesan más que el rumor o el prejuicio. | OA N°4 — calidad de la evidencia (integrada) |
-| 19 | **b)** La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa un registro cercano propio de una publicación de red social. | OA N°6 — adecuación al género |
+| 19 | **b)** Mantener la idea central, pero acortar el texto, usar un registro cercano y cerrar con un llamado a la acción. Cambia la forma según el género y la audiencia, no el propósito. | OA N°6 — adecuación al género |
 | 20 | **Falso.** El proceso de escritura considera al menos tres etapas —planificar, escribir y revisar—; saltarse la planificación o la revisión suele producir textos menos coherentes o poco adecuados a quien los va a leer o escuchar. | OA N°6 — proceso de escritura |
-| 21 | **Falso.** Esa oración interrumpe la progresión temática, al igual que la mención de que "Chuquicamata es una ciudad del norte"; ambas aportan datos que no se conectan directamente con el argumento central sobre el paralelismo de las manos. | OA N°6 — progresión temática |
+| 21 | **Falso.** Esa oración introduce un dato personal que no se conecta con el tema (la función de los humedales) e interrumpe la progresión entre la información y la conclusión. | OA N°6 — progresión temática |
 | 22 | **a) Propósito: argumentar que urge regular el trabajo en plataformas. Género: columna de opinión. Audiencia: lectores adultos de un medio de actualidad. Convención: registro formal y datos verificables.** | OA N°6 — planificación (propósito, género, tema, audiencia) |
 | 23 | **d) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma, no necesariamente la profundidad.** | OA N°6 — adecuación al género y a la audiencia |
-| 24 | **a, b y c.** | OA N°6 — proceso de escritura (revisión) |
+| 24 | **a, c y d.** Revisar la ortografía del borrador terminado corresponde a la etapa de revisión, no a la planificación. | OA N°6 — proceso de escritura (planificación) |
 | 25 | **b) "Los repartidores trabajan muchas horas y, sin embargo, las empresas insisten en que hay flexibilidad. En la práctica, esta es relativa: Ronald, por ejemplo, sube dieciocho pisos a pie..." — "sin embargo" marca contraste y "por ejemplo", ejemplificación.** | OA N°6 — cohesión (aplicación) |
 
 ### Distribución de preguntas por Objetivo de Aprendizaje

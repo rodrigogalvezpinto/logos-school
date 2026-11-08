@@ -43,14 +43,12 @@ Objetivos de Aprendizaje)
 
 ### OA N°1 (Módulo 1) — Factores que influyen en la salud humana (Preguntas 1 a 6)
 
-**1.** *(Alternativas)* Relacionar el comportamiento personal con la salud significa,
-por ejemplo, reconocer que:
+**1.** *(Alternativas)* Durante el período de pruebas, un estudiante duerme solo 5 horas diarias. ¿Qué efecto en su salud es esperable a corto plazo?
 
-a) Las decisiones individuales no influyen en la salud cuando el entorno en que se vive es saludable
-b) Fumar es una decisión estrictamente personal, sin relación alguna con los factores sociales o ambientales
-c) Elegir hacer actividad física regularmente puede compensar parcialmente otros
-   factores de riesgo ambientales o sociales
-d) La salud de cada persona está determinada por su carga genética desde el nacimiento
+a) Mejor concentración, porque estudia más horas
+b) Menor atención, más irritabilidad y peor rendimiento
+c) Ningún efecto, porque es joven
+d) Un aumento de su estatura
 
 **2.** *(Alternativas)* El estrés académico crónico, a diferencia de un episodio
 puntual de estrés, se asocia principalmente a:
@@ -77,12 +75,12 @@ b) Únicamente el rendimiento académico, al mejorar la concentración en clases
 c) Las dimensiones física, psíquica y social de la salud de forma integrada
 d) Ninguna dimensión relacionada con el estrés o la ansiedad de las personas
 
-**5.** *(Alternativas, 2 puntos)* ¿Por qué un mismo patógeno respiratorio puede considerarse factor ambiental y también biológico?
+**5.** *(Alternativas)* La contaminación del aire en Santiago durante el invierno se clasifica principalmente como un factor de salud:
 
-a) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona
-b) Porque es solo un factor social: se transmite entre personas, por lo que no depende del entorno ni del organismo
-c) Porque los patógenos no influyen en la salud por sí mismos: solo enferman quienes tienen otros factores de riesgo previos
-d) Porque depende únicamente del clima: los patógenos respiratorios aparecen en invierno y desaparecen con el calor
+a) Biológico
+b) Ambiental
+c) Genético
+d) Hereditario
 
 **6.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
@@ -100,13 +98,12 @@ d) Probar "solo por curiosidad" elimina todo riesgo
 
 ### OA N°3 (Módulo 1) — Transmisión de agentes infecciosos y prevención (Preguntas 7 a 12)
 
-**7.** *(Alternativas)* Una práctica de higiene simple que ayuda a prevenir la
-transmisión de varios agentes infecciosos respiratorios en la escuela es:
+**7.** *(Alternativas)* ¿Qué medida reduce la transmisión del virus de la hepatitis B?
 
-a) Compartir vasos y utensilios con compañeros
-b) Usar el mismo pañuelo desechable durante todo el día
-c) Evitar toda actividad física
-d) Lavado frecuente de manos y ventilación de las salas
+a) Lavarse las manos solo antes de comer
+b) Evitar comer frutas y verduras crudas
+c) Vacunarse y no compartir objetos que puedan tener sangre, como agujas o máquinas de afeitar
+d) Usar bloqueador solar todos los días
 
 **8.** *(Alternativas)* Usar mascarilla es una medida de prevención eficaz frente a:
 
@@ -124,19 +121,19 @@ b) La vacuna contra la influenza pierde su efecto por razones del proceso de fab
 c) El virus del sarampión también muta cada año de la misma forma en que lo hace el virus de la influenza
 d) No existe ninguna diferencia real entre ambas vacunas, porque las dos se aplican una sola vez en la vida
 
-**10.** *(Alternativas, 2 puntos)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
+**10.** *(Alternativas)* Una autoridad propone vacunar gratis contra la influenza, cada otoño, a adultos mayores y niños. ¿Qué implicancia económica tiene la medida?
 
-a) Ninguna implicancia ambiental: el hantavirus es solo un problema médico que se previene con vacunas y con atención oportuna en los centros de salud rurales
-b) Exige talar todos los bosques cercanos a las viviendas y eliminar la vegetación nativa, porque allí viven los roedores que transmiten el virus a las personas
-c) Requiere aumentar la basura orgánica lejos de las casas, para atraer a los roedores hacia otros sectores y así evitar que se acerquen a las viviendas
-d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo
+a) Requiere inversión pública, pero evita costos mayores en hospitalizaciones y licencias médicas
+b) No tiene ningún costo para el Estado
+c) Aumenta los contagios durante el invierno
+d) Solo beneficia económicamente a las farmacias
 
-**11.** *(Alternativas, 2 puntos)* En una pandemia, una publicación revisada por pares indica que una medida reduce los contagios en 40%, y un influencer sin formación dice sin datos que "no sirve para nada". ¿Qué fuente priorizar?
+**11.** *(Alternativas)* Un video viral afirma que una vacuna "contiene un chip". ¿Qué es lo más adecuado para evaluar esa afirmación?
 
-a) El influencer, porque tiene más seguidores y su mensaje llega a más personas que una revista científica
-b) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable
-c) Ninguna, porque ambas son igual de válidas: cada fuente tiene su propia opinión sobre la medida
-d) La que coincida con mi opinión previa, porque así evito confundirme con información contradictoria
+a) Compartirlo para que otros opinen
+b) Creerlo si tiene muchas visualizaciones
+c) Contrastarlo con información de organismos de salud y con estudios científicos revisados por pares
+d) Preguntar en un grupo de amigos
 
 **12.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
@@ -158,13 +155,12 @@ d) Porque los aeropuertos no tienen relación con la salud pública: los control
 
 ### OA N°1 (Módulo 2) — Sustancias químicas de uso cotidiano (Preguntas 13 a 18)
 
-**13.** *(Alternativas)* La composición de un detergente doméstico es relevante para
-evaluar su riesgo potencial porque:
+**13.** *(Alternativas)* En la etiqueta de un producto aparece un pictograma con una llama de fuego. ¿Qué indica?
 
-a) Determina únicamente el precio del producto y su rendimiento en el lavado
-b) No tiene relación con la seguridad de su uso en el hogar
-c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad
-d) Solo afecta el color y el olor del envase que lo contiene
+a) Que el producto es inflamable
+b) Que el producto es corrosivo
+c) Que el producto es radiactivo
+d) Que el producto es comestible
 
 **14.** *(Alternativas)* Tomar el doble de la dosis indicada de un medicamento de
 venta libre para aliviar un dolor con mayor rapidez:
@@ -203,24 +199,23 @@ b) El riesgo es que se ensucie el estante si algún envase gotea; basta con limp
 c) El riesgo es la falta de espacio en la bodega; hay que juntar todavía más productos en el mismo estante para dejar libres los pasillos de evacuación
 d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación
 
-**18.** *(Alternativas, 2 puntos)* "Los detergentes en cápsulas son igual de seguros para los niños que los líquidos, porque llevan la misma marca." ¿Qué evidencia hay que considerar?
+**18.** *(Alternativas)* En una casa con niños pequeños, ¿dónde se recomienda guardar los medicamentos?
 
-a) Que la marca garantiza la seguridad de todos sus productos para los niños, sin importar el formato ni la concentración en que se vendan
-b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles
-c) Que el color llamativo de la cápsula no importa, porque los niños reconocen los productos de limpieza
-d) Que los niños pequeños no pueden abrir ningún envase de detergente, sea líquido o en cápsulas
+a) En el velador, para tenerlos a mano
+b) En botellas de bebida, para ahorrar espacio
+c) En el refrigerador, sin rotular
+d) En un lugar alto o cerrado con llave, en su envase original
 
 ---
 
 ### OA N°3 (Módulo 2) — Riesgos naturales y antropogénicos: prevención, mitigación y adaptación (Preguntas 19 a 25)
 
-**19.** *(Alternativas)* Realizar simulacros de evacuación periódicos en el colegio
-corresponde principalmente a una capacidad de:
+**19.** *(Alternativas)* Construir viviendas con normas sísmicas antes de que ocurra un terremoto es una medida de:
 
-a) Prevención del riesgo geológico de la zona
-b) Mitigación de las consecuencias de una emergencia
-c) Eliminación total del riesgo sísmico del edificio
-d) Adaptación arquitectónica del edificio escolar
+a) Respuesta a la emergencia
+b) Prevención y mitigación del riesgo
+c) Recuperación después del desastre
+d) Ninguna relación con el riesgo
 
 **20.** *(Alternativas)* Respecto al origen de los incendios forestales en Chile, la
 evidencia indica que:
@@ -298,25 +293,25 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | c) Elegir hacer actividad física regularmente puede compensar parcialmente otros factores de riesgo ambientales o sociales | OA 1 (Mód. 1) |
+| 1 | Alternativas | **b) Menor atención, más irritabilidad y peor rendimiento.** La falta de sueño afecta la atención, el ánimo y el aprendizaje: es un ejemplo de cómo una decisión personal influye en la salud. | OA 1 (Mód. 1) |
 | 2 | Alternativas | d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad | OA 1 (Mód. 1) |
 | 3 | Alternativas | a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible | OA 1 (Mód. 1) |
 | 4 | Alternativas | c) Las dimensiones física, psíquica y social de la salud de forma integrada | OA 1 (Mód. 1) |
-| 5 | Alternativas | **a) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona.** | OA 1 (Mód. 1) |
+| 5 | Alternativas | **b) Ambiental.** Proviene del entorno (material particulado en el aire), por eso es un factor ambiental, aunque sus efectos se expresen en el organismo. | OA 1 (Mód. 1) |
 | 6 | Varias correctas | **a, b y c.** Reconocer los factores sociales y biológicos no elimina la responsabilidad individual. | OA 1 (Mód. 1) |
-| 7 | Alternativas | d) Lavado frecuente de manos y ventilación de las salas | OA 3 (Mód. 1) |
+| 7 | Alternativas | **c) Vacunarse y no compartir objetos que puedan tener sangre, como agujas o máquinas de afeitar.** La hepatitis B se transmite por sangre y fluidos corporales; la vacuna y no compartir objetos cortopunzantes son las principales medidas de prevención. | OA 3 (Mód. 1) |
 | 8 | Alternativas | a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión sanguínea o sexual | OA 3 (Mód. 1) |
 | 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica) y la inmunidad de años anteriores no siempre protege de las nuevas variantes | OA 3 (Mód. 1) |
-| 10 | Alternativas | **d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.** | OA 3 (Mód. 1) |
-| 11 | Alternativas | **b) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable.** | OA 3 (Mód. 1) |
+| 10 | Alternativas | **a) Requiere inversión pública, pero evita costos mayores en hospitalizaciones y licencias médicas.** Prevenir suele ser más barato que tratar: menos hospitalizaciones y ausencias laborales compensan el costo de la vacunación. | OA 3 (Mód. 1) |
+| 11 | Alternativas | **c) Contrastarlo con información de organismos de salud y con estudios científicos revisados por pares.** La evidencia confiable proviene de fuentes con respaldo científico verificable, no de la popularidad de un contenido. | OA 3 (Mód. 1) |
 | 12 | Alternativas | **c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.** | OA 3 (Mód. 1) |
-| 13 | Alternativas | c) Permite anticipar su reactividad frente a otras sustancias y su posible toxicidad | OA 1 (Mód. 2) |
+| 13 | Alternativas | **a) Que el producto es inflamable.** El pictograma de la llama advierte que el producto puede encenderse con facilidad: hay que mantenerlo lejos del calor y de las chispas. | OA 1 (Mód. 2) |
 | 14 | Alternativas | b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo de toxicidad | OA 1 (Mód. 2) |
 | 15 | Alternativas | b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el riesgo de somnolencia extrema o dificultad respiratoria | OA 1 (Mód. 2) |
 | 16 | Alternativas | **a) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa en experimentos escolares seguros.** | OA 1 (Mód. 2) |
 | 17 | Alternativas | **d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación.** | OA 1 (Mód. 2) |
-| 18 | Alternativas | **b) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles.** | OA 1 (Mód. 2) |
-| 19 | Alternativas | b) Mitigación de las consecuencias de una emergencia | OA 3 (Mód. 2) |
+| 18 | Alternativas | **d) En un lugar alto o cerrado con llave, en su envase original.** Guardarlos fuera del alcance de los niños y en su envase original evita intoxicaciones accidentales y confusiones. | OA 1 (Mód. 2) |
+| 19 | Alternativas | **b) Prevención y mitigación del riesgo.** Se aplica antes del evento para reducir sus daños: es prevención y mitigación. | OA 3 (Mód. 2) |
 | 20 | Alternativas | b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal controladas o intencionalidad | OA 3 (Mód. 2) |
 | 21 | Alternativas | b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención, mitigación, preparación, respuesta y recuperación) | OA 3 (Mód. 2) |
 | 22 | Alternativas | **c) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario.** | OA 3 (Mód. 2) |

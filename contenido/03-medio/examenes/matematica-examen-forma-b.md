@@ -114,30 +114,30 @@ d) ≈ 12 años
 
 ## Eje 2: Geometría — Relaciones métricas en la circunferencia
 
-**Pregunta 9 (alternativas).** Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?
+**Pregunta 9 (alternativas).** Un ángulo central mide 110°. ¿Cuánto mide el arco que subtiende?
 
-a) 50°
-b) 65°
-c) 130°
-d) 260°
-
----
-
-**Pregunta 10 (alternativas).** Un ángulo inscrito mide 35°. ¿Cuánto mide el arco que subtiende?
-
-a) 140°
-b) 35°
-c) 17,5°
+a) 55°
+b) 110°
+c) 220°
 d) 70°
 
 ---
 
-**Pregunta 11 (alternativas).** Una tangente y una cuerda se cortan en el punto de tangencia, formando un ángulo semiinscrito que abarca un arco de 96°. ¿Cuánto mide ese ángulo?
+**Pregunta 10 (alternativas).** Un arco de circunferencia mide 140°. ¿Cuánto mide un ángulo inscrito que subtiende ese arco?
 
-a) 96°
-b) 48°
-c) 192°
-d) 24°
+a) 140°
+b) 280°
+c) 70°
+d) 35°
+
+---
+
+**Pregunta 11 (alternativas).** Una tangente y una cuerda forman, en el punto de tangencia, un ángulo semiinscrito que abarca un arco de 120°. ¿Cuánto mide ese ángulo?
+
+a) 60°
+b) 120°
+c) 240°
+d) 30°
 
 ---
 
@@ -150,21 +150,21 @@ d) 120°
 
 ---
 
-**Pregunta 13 (Alternativas).** Dos cuerdas se cortan dentro de una circunferencia; los arcos que abarcan miden 100° y 40°. ¿Cuánto mide el ángulo formado?
+**Pregunta 13 (alternativas).** Dos cuerdas se cortan en el interior de una circunferencia; los arcos que abarcan el ángulo y su opuesto miden 80° y 50°. ¿Cuánto mide el ángulo formado?
 
-a) 70°
-b) 30°
-c) 140°
-d) 60°
+a) 15°
+b) 130°
+c) 65°
+d) 40°
 
 ---
 
-**Pregunta 14 (Alternativas).** Dos cuerdas se cortan: una tiene segmentos de 5 y 8 cm; la otra, uno de 4 cm. ¿Cuánto mide el segmento restante?
+**Pregunta 14 (alternativas).** Dos cuerdas se cortan dentro de una circunferencia: una queda dividida en segmentos de 6 cm y 4 cm; la otra tiene un segmento de 3 cm. ¿Cuánto mide el otro segmento?
 
-a) 2,5 cm
-b) 6,4 cm
-c) 9 cm
-d) 10 cm
+a) 8 cm
+b) 2 cm
+c) 7 cm
+d) 12 cm
 
 ---
 
@@ -177,12 +177,12 @@ d) 75°
 
 ---
 
-**Pregunta 16 (Alternativas).** Desde un punto exterior, una tangente mide 12 cm y una secante tiene parte externa de 8 cm. ¿Cuánto mide la secante completa?
+**Pregunta 16 (alternativas).** Desde un punto exterior, una tangente mide 10 cm y una secante tiene parte externa de 5 cm. ¿Cuánto mide la secante completa?
 
-a) 1,5 cm
-b) 12 cm
-c) 18 cm
-d) 20 cm
+a) 15 cm
+b) 20 cm
+c) 25 cm
+d) 50 cm
 
 ---
 
@@ -197,21 +197,21 @@ d) √21 ≈ 4,58 millas
 
 ## Eje 3: Probabilidad y Estadística — Dispersión y probabilidad condicional
 
-**Pregunta 18 (alternativas).** Calcula el rango del conjunto de datos {12, 15, 9, 20, 14}.
+**Pregunta 18 (alternativas).** Calcula el rango del conjunto de datos {7, 3, 15, 10, 4}.
 
-a) 20
-b) 11
-c) 9
-d) 5
+a) 7
+b) 8
+c) 12
+d) 15
 
 ---
 
-**Pregunta 19 (alternativas).** Calcula la varianza del conjunto de datos {2, 4, 6}.
+**Pregunta 19 (alternativas).** Calcula la varianza del conjunto de datos {2, 6, 10}.
 
-a) 2,67
-b) 8
-c) 2
-d) 4
+a) 3,27
+b) 10,67
+c) 32
+d) 6
 
 ---
 
@@ -224,12 +224,12 @@ d) ninguna de las dos tiene unidades
 
 ---
 
-**Pregunta 21 (Alternativas).** Tiempos de 4 trámites (min): 10, 12, 14, 16. ¿Cuáles son la varianza y la desviación estándar?
+**Pregunta 21 (alternativas).** Los tiempos de espera de 4 clientes (min) fueron 4, 6, 10 y 12. ¿Cuáles son la varianza y la desviación estándar?
 
-a) Varianza 20; desviación ≈ 4,47 min
-b) Varianza 2,24; desviación 5 min
-c) Varianza 13; desviación ≈ 3,61 min
-d) Varianza 5; desviación ≈ 2,24 min
+a) Varianza 10; desviación ≈ 3,16 min
+b) Varianza 40; desviación ≈ 6,32 min
+c) Varianza 3,16; desviación 10 min
+d) Varianza 8; desviación ≈ 2,83 min
 
 ---
 
@@ -242,29 +242,29 @@ d) Ninguna, porque el promedio de 45 min no asegura llegar a tiempo
 
 ---
 
-**Pregunta 23 (Alternativas).** En una bolsa hay 5 bolitas rojas y 3 azules; se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
+**Pregunta 23 (alternativas).** Una bolsa tiene 4 bolitas rojas y 6 azules; se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean azules?
 
-a) 25/64 ≈ 39,1%
-b) 5/8
-c) 5/14 ≈ 35,7%
-d) 1/2
+a) 9/25 = 36%
+b) 1/3 ≈ 33,3%
+c) 3/5 = 60%
+d) 1/6 ≈ 16,7%
 
 ---
 
-**Pregunta 24 (Alternativas).** Se encuesta a 150 personas:
+**Pregunta 24 (alternativas).** Una encuesta a 200 personas registró si usan bicicleta y si viven cerca o lejos de su trabajo:
 
-| | Fuma | No fuma | Total |
+| | Cerca | Lejos | Total |
 |---|---|---|---|
-| Practica deporte | 10 | 70 | 80 |
-| No practica deporte | 25 | 45 | 70 |
-| Total | 35 | 115 | 150 |
+| Usa bicicleta | 60 | 20 | 80 |
+| No usa | 40 | 80 | 120 |
+| Total | 100 | 100 | 200 |
 
-¿Cuánto vale P(practica deporte | no fuma)?
+¿Cuánto vale P(usa bicicleta | vive cerca)?
 
-a) 70/115 ≈ 60,9%
-b) 70/80 = 87,5%
-c) 70/150 ≈ 46,7%
-d) 45/115 ≈ 39,1%
+a) 60/200 = 30%
+b) 60/80 = 75%
+c) 60/100 = 60%
+d) 80/200 = 40%
 
 ---
 
@@ -299,22 +299,22 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | **d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período.** 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. | OA 3 | Álgebra y Funciones |
 | 7 | **b) ≈ 57 mg; ≈ 68,3%.** (0,75)⁴ ≈ 0,3164 → ≈ 57 mg; se eliminaron ≈ 123 mg (68,3%); 31,6% es lo que queda. | OA 3 | Álgebra y Funciones |
 | 8 | **b) ≈ 5,4 años.** t = log 0,5 / log 0,88 ≈ (−0,3010)/(−0,0555). | OA 3 | Álgebra y Funciones |
-| 9 | c) 130° (el ángulo central es igual al arco que subtiende) | OA 4 | Geometría |
-| 10 | d) 70° (35°×2) | OA 4 | Geometría |
-| 11 | b) 48° (96°÷2) | OA 4 | Geometría |
+| 9 | **b) 110°.** El ángulo central mide lo mismo que el arco que subtiende. | OA 4 | Geometría |
+| 10 | **c) 70°.** El ángulo inscrito mide la mitad del arco que subtiende: 140° ÷ 2 = 70°. | OA 4 | Geometría |
+| 11 | **a) 60°.** El ángulo semiinscrito mide la mitad del arco que abarca: 120° ÷ 2 = 60°. | OA 4 | Geometría |
 | 12 | b) 60° (360°÷6) | OA 4 | Geometría |
-| 13 | **a) 70°.** Semisuma de los arcos. | OA 4 | Geometría |
-| 14 | **d) 10 cm.** 5 · 8 = 4 · x. | OA 4 | Geometría |
+| 13 | **c) 65°.** El ángulo interior mide la semisuma de los arcos: (80° + 50°) ÷ 2 = 65°. | OA 4 | Geometría |
+| 14 | **a) 8 cm.** Teorema de las cuerdas: 6 · 4 = 3 · x → x = 24 ÷ 3 = 8 cm. | OA 4 | Geometría |
 | 15 | **b) 50°.** Semidiferencia de los arcos. | OA 4 | Geometría |
-| 16 | **c) 18 cm.** 12² = 8 · x. | OA 4 | Geometría |
+| 16 | **b) 20 cm.** Teorema de la tangente y la secante: 10² = 5 · x → x = 100 ÷ 5 = 20 cm. | OA 4 | Geometría |
 | 17 | **a) √90 ≈ 9,49 millas.** tangente² = 6 · 15 = 90. | OA 4 | Geometría |
-| 18 | b) 11 (20−9=11) | OA 2 | Probabilidad y Estadística |
-| 19 | a) 2,67 (media=4; desviaciones al cuadrado 4,0,4; suma=8; varianza=8/3≈2,67) | OA 2 | Probabilidad y Estadística |
+| 18 | **c) 12.** Rango = máximo − mínimo = 15 − 3 = 12. | OA 2 | Probabilidad y Estadística |
+| 19 | **b) 10,67.** Media = 6; desviaciones al cuadrado: 16, 0 y 16; suma = 32; varianza = 32 ÷ 3 ≈ 10,67. 3,27 es la desviación estándar y 6 es la media. | OA 2 | Probabilidad y Estadística |
 | 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado | OA 2 | Probabilidad y Estadística |
-| 21 | **d) Varianza 5; desviación ≈ 2,24 min.** Media 13; suma de cuadrados 20; 20/4 = 5. | OA 2 | Probabilidad y Estadística |
+| 21 | **a) Varianza 10; desviación ≈ 3,16 min.** Media = 8; desviaciones al cuadrado: 16, 4, 4 y 16; suma = 40; varianza = 40 ÷ 4 = 10; desviación = √10 ≈ 3,16. 40 es la suma sin dividir y 8 es la media. | OA 2 | Probabilidad y Estadística |
 | 22 | **b) La Ruta 1, porque sus tiempos son más predecibles.** Con igual promedio, la menor dispersión reduce el riesgo de demora. | OA 2 | Probabilidad y Estadística |
-| 23 | **c) 5/14 ≈ 35,7%.** 5/8 · 4/7 = 20/56. | OA 2 | Probabilidad y Estadística |
-| 24 | **a) 70/115 ≈ 60,9%.** Se restringe a la columna "no fuma". | OA 2 | Probabilidad y Estadística |
+| 23 | **b) 1/3 ≈ 33,3%.** 6/10 · 5/9 = 30/90 = 1/3. 9/25 sería con reposición (6/10 · 6/10). | OA 2 | Probabilidad y Estadística |
+| 24 | **c) 60/100 = 60%.** Se restringe a la columna «Cerca» (100 personas), de las cuales 60 usan bicicleta: 60/100 = 60%. 60/200 es una probabilidad conjunta y 60/80 es la probabilidad de vivir cerca dado que usa bicicleta. | OA 2 | Probabilidad y Estadística |
 | 25 | **d) Probabilidad total: 0,20 · 0,30 + 0,80 · 0,08 = 12,4%.** Cada probabilidad condicional se pondera por la probabilidad de su escenario. | OA 2 | Probabilidad y Estadística |
 
 ### Resumen de cobertura curricular

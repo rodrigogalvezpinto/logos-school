@@ -257,12 +257,12 @@ b) Difundir información falsa deliberadamente para influir en una votación
 c) Informarse y emitir opiniones fundadas sobre los asuntos públicos del país
 d) Participar en una organización comunitaria o junta de vecinos local
 
-**21.** (Alternativas — 6 puntos) ¿Qué comparten el comunitarismo y el republicanismo, y en qué se diferencian?
+**21.** (Alternativas — 6 puntos) ¿Qué caracteriza a la perspectiva liberal sobre la ciudadanía, a diferencia del comunitarismo y del republicanismo?
 
-a) Ambos son individualistas: priorizan la libertad de cada persona por sobre la comunidad; se diferencian en que el republicanismo acepta la participación voluntaria
-b) No comparten nada: el comunitarismo defiende el mercado y el republicanismo la planificación estatal, por lo que se oponen en todos sus planteamientos
-c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas
-d) El comunitarismo exige la participación cívica obligatoria y el republicanismo la rechaza, porque considera que cada persona debe dedicarse solo a sus asuntos privados
+a) Exige que todas las personas participen obligatoriamente en política
+b) Pone la identidad y las tradiciones de la comunidad por sobre el individuo
+c) Prioriza los derechos y libertades individuales, y entiende la participación como una decisión voluntaria
+d) Rechaza la existencia de derechos individuales
 
 ---
 
@@ -345,7 +345,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 18 | Alternativas | **a)** Liberal | OA 6 |
 | 19 | Alternativas | **b) Valentina: comunitarismo; Tomás: republicanismo.** El comunitarismo enfatiza la identidad compartida; el republicanismo, el deber cívico de participar. | OA 6 |
 | 20 | Alternativas | **b)** Difundir información falsa deliberadamente para influir en una votación | OA 6 |
-| 21 | Alternativas | **c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas.** | OA 6 |
+| 21 | Alternativas | **c) Prioriza los derechos y libertades individuales, y entiende la participación como una decisión voluntaria.** El comunitarismo enfatiza los lazos compartidos y el republicanismo, el deber cívico activo. | OA 6 |
 | 22 | Alternativas | **a)** Plan regulador comunal | OA 7 |
 | 23 | Alternativas | **a) El acceso a un recurso valioso queda restringido a quienes pueden pagar proyectos inmobiliarios, excluyendo el acceso público general.** Las decisiones de uso de suelo no son neutras: definen quién accede a qué recursos. | OA 7 |
 | 24 | Alternativas | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
