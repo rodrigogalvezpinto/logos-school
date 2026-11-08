@@ -74,12 +74,12 @@ d) Huevo → renacuajo → rana adulta
 
 ---
 
-**5. (Matemática — Alternativas)** Calcula: 45 + 32 = ?
+**5. (Matemática — Alternativas)** En una caja hay 3 bolsas y en cada bolsa hay 10 dulces. ¿Cuántos dulces hay en total?
 
-a) 67
-b) 75
-c) 77
-d) 87
+a) 13
+b) 30
+c) 31
+d) 310
 
 ---
 
@@ -212,30 +212,30 @@ d) Evaporación → precipitación → condensación
 
 ---
 
-**17. (Lenguaje — Alternativas)** ¿Cuál de estas oraciones está bien escrita, con mayúscula al comenzar y punto al terminar?
+**17. (Lenguaje — Alternativas)** Juan escribió esta oración: "mañana vamos al zoológico". ¿Qué le falta para estar bien escrita?
 
-a) "el perro corre por el parque"
-b) "El perro corre por el parque."
-c) "El perro corre por el parque"
-d) "el Perro corre por el parque."
+a) Nada, está bien escrita
+b) Una mayúscula al comenzar y un punto al terminar
+c) Una coma después de "vamos"
+d) Signos de pregunta al inicio y al final
 
 ---
 
-**18. (Matemática — Alternativas)** Un pictograma muestra los goles anotados por distintos equipos, donde cada pelota dibujada representa 3 goles (⚽ = 3 goles). El Equipo A tiene dibujadas 4 pelotas. ¿Cuántos goles anotó el Equipo A?
+**18. (Matemática — Alternativas)** Un niño lanzó una moneda 10 veces y anotó los resultados: salió cara 6 veces. ¿Cuántas veces salió sello?
 
 a) 4
-b) 7
-c) 12
+b) 6
+c) 10
 d) 16
 
 ---
 
-**19. (Ciencias Naturales — Alternativas)** ¿Cuál de estas es una forma de precipitación, es decir, agua que cae del cielo?
+**19. (Ciencias Naturales — Alternativas)** Cuando el cielo se cubre de nubes grises y oscuras, ¿qué es más probable que ocurra?
 
-a) El viento
-b) La temperatura
-c) El granizo
-d) Las nubes
+a) Que caiga arena del cielo
+b) Que haga un sol muy fuerte
+c) Que llueva
+d) Que el día dure más
 
 ---
 
@@ -270,7 +270,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 2 | Matemática | **d) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
 | 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** | OA 3 |
-| 5 | Matemática | **c) 77.** Sumamos decenas (40+30=70) y unidades (5+2=7), y juntamos: 70+7=77. | OA 9 |
+| 5 | Matemática | **b) 30.** Hay 3 grupos iguales de 10: 10+10+10 = 3×10 = 30. Sumar 3+10 da 13, que es un error. | OA 11 |
 | 6 | Lenguaje y Comunicación | **d) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
 | 7 | Ciencias Naturales | **a) El huemul.** | OA 5 |
 | 8 | Historia, Geografía y Cs. Sociales | **d) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
@@ -282,9 +282,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 14 | Matemática | **b) 4 lados y 4 vértices.** | OA 15 |
 | 15 | Historia, Geografía y Cs. Sociales | **b) Fiordo.** Es una entrada de mar entre montañas, típica del paisaje del sur de Chile. | OA 8 |
 | 16 | Ciencias Naturales | **c) Evaporación → condensación → precipitación.** | OA 11 |
-| 17 | Lenguaje y Comunicación | **b) "El perro corre por el parque."** Empieza con mayúscula y termina con punto. | OA N°17 |
-| 18 | Matemática | **c) 12.** El Equipo A tiene 4 pelotas dibujadas, y cada pelota vale 3 goles: 4×3=12. | OA 22 |
-| 19 | Ciencias Naturales | **c) El granizo.** | OA 12 |
+| 17 | Lenguaje y Comunicación | **b) Una mayúscula al comenzar y un punto al terminar.** Toda oración empieza con mayúscula y termina con punto: "Mañana vamos al zoológico." | OA 17 |
+| 18 | Matemática | **a) 4.** En total fueron 10 lanzamientos: si 6 fueron cara, el resto fue sello: 10 − 6 = 4. | OA 20 |
+| 19 | Ciencias Naturales | **c) Que llueva.** Las nubes grises y oscuras tienen mucha agua y suelen anunciar lluvia. | OA 12 |
 | 20 | Historia, Geografía y Cs. Sociales | **b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia, como un sismo.** | OA 14 |
 
 ### Distribución de preguntas por asignatura

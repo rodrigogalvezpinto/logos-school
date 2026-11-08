@@ -222,12 +222,12 @@ d) Alimentación basada en caza y pesca
 
 ---
 
-**16. (Ciencias Naturales — Alternativas)** ¿Qué afirmación explica bien la diferencia entre el tono y la intensidad de un sonido?
+**16. (Ciencias Naturales — Alternativas)** El pito de un tren suena agudo y un tambor grande suena grave. ¿En qué característica del sonido se diferencian?
 
-a) El tono indica si es fuerte o débil; la intensidad, si es agudo o grave
-b) Tono e intensidad significan lo mismo
-c) La intensidad indica de qué color es el sonido
-d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil
+a) En el tono
+b) En que uno es sonido y el otro no
+c) En el color
+d) En el tamaño de la persona que los escucha
 
 ---
 
@@ -249,12 +249,12 @@ d) Prisma de base cuadrada
 
 ---
 
-**19. (Ciencias Naturales — Alternativas)** ¿Cuál de estos movimientos de la Tierra explica por qué existen el día y la noche?
+**19. (Ciencias Naturales — Alternativas)** ¿Cuánto tiempo demora la Tierra en dar una vuelta completa alrededor del Sol (traslación)?
 
-a) La traslación
-b) La rotación
-c) Las fases de la Luna
-d) La órbita del Sol
+a) Un día
+b) Una semana
+c) Un mes
+d) Un año
 
 ---
 
@@ -300,10 +300,10 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
 | 14 | Matemática | **a) $470 cada uno.** 2 350 ÷ 5 = 470 (comprobación: 5 × 470 = 2 350). | OA 10 |
 | 15 | Historia, Geografía y Cs. Sociales | **a, b y d.** Son estrategias de la zona fría; las viviendas abiertas y elevadas son propias de la zona cálida. | OA 8 |
-| 16 | Ciencias Naturales | **d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil.** Un silbido es agudo y un rugido grave (tono); una bocina es fuerte y un susurro débil (intensidad). | OA 10 |
+| 16 | Ciencias Naturales | **a) En el tono.** El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. | OA 10 |
 | 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** | OA 17 |
 | 18 | Matemática | **c) Pirámide de base cuadrada.** | OA 15 |
-| 19 | Ciencias Naturales | **b) La rotación.** | OA 12 |
+| 19 | Ciencias Naturales | **d) Un año.** La traslación dura aproximadamente 365 días; la rotación, en cambio, dura un día y explica el día y la noche. | OA 12 |
 | 20 | Historia, Geografía y Cs. Sociales | **a) El derecho a la alimentación.** | OA 14 |
 
 ### Resumen de la prueba

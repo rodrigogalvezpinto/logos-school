@@ -59,12 +59,12 @@ d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vi
 
 ---
 
-**3. (Lenguaje — Alternativas)** ¿Cuál de estas palabras tiene un **grupo consonántico** (dos consonantes juntas antes de la vocal)?
+**3. (Lenguaje — Alternativas)** ¿Qué palabra se escribe con "c" y se lee con el sonido /s/?
 
-a) "grande"
-b) "mesa"
-c) "sapo"
-d) "luna"
+a) "cereza"
+b) "sapo"
+c) "zorro"
+d) "mesa"
 
 ---
 
@@ -86,12 +86,12 @@ d) Que no tiene ningún tipo de mezcla entre culturas distintas
 
 ---
 
-**6. (Ciencias Naturales — Alternativas)** ¿Qué le sucede al corazón de una persona que hace actividad física con frecuencia?
+**6. (Ciencias Naturales — Alternativas)** ¿Qué cambio notas en tu cuerpo justo después de correr?
 
-a) Se debilita
-b) No cambia nunca
-c) Deja de latir
-d) Se fortalece
+a) Te da sueño de inmediato
+b) Respiras más rápido y el corazón late más fuerte
+c) Tu temperatura baja mucho
+d) No notas ningún cambio
 
 ---
 
@@ -204,13 +204,9 @@ d) Zona austral
 
 ---
 
-**17. (Matemática — Alternativas)** Según un gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
+**17. (Matemática — Alternativas)** Observa el gráfico de barras sobre el medio de transporte que usan los alumnos para llegar al colegio:
 
-| Medio de transporte | Alumnos |
-|---|---|
-| A pie | 15 |
-| Auto | 9 |
-| Bicicleta | 6 |
+::barras::A pie=15;Auto=9;Bicicleta=6::
 
 ¿Cuántos alumnos más llegan a pie que en bicicleta?
 
@@ -221,21 +217,21 @@ d) 21 alumnos más
 
 ---
 
-**18. (Ciencias Naturales — Alternativas)** ¿Con qué estación del año se relaciona principalmente la sensación de calor y el sol fuerte?
+**18. (Ciencias Naturales — Alternativas)** En Chile, ¿en qué meses del calendario es invierno?
 
-a) Invierno
-b) Otoño
-c) Verano
-d) Primavera
+a) Junio, julio y agosto
+b) Diciembre, enero y febrero
+c) Septiembre, octubre y noviembre
+d) Marzo, abril y mayo
 
 ---
 
-**19. (Lenguaje — Alternativas)** ¿Cuál de estas oraciones tiene un error de concordancia de género o número?
+**19. (Lenguaje — Alternativas)** Quieres invitar a tu tía a tu cumpleaños. ¿Qué texto cumple mejor ese propósito?
 
-a) "Los perros ladraron toda la noche."
-b) "La niña come manzanas."
-c) "Las niño jugaban en el patio."
-d) "El gato duerme en el sillón."
+a) "Hoy comí pan con palta."
+b) "Tía, te invito a mi cumpleaños el sábado a las 4 en mi casa."
+c) "Me gustan mucho los perros."
+d) "El cielo está azul."
 
 ---
 
@@ -268,10 +264,10 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |----|------------|------------------------------------------|-------------|
 | 1 | Ciencias Naturales | **d) Bombear la sangre por todo el cuerpo.** | OA 7 |
 | 2 | Historia, Geografía y Cs. Sociales | **d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
-| 3 | Lenguaje y Comunicación | **a) "grande".** Las letras "g" y "r" están juntas antes de la vocal "a": eso es un grupo consonántico. | OA N°1 |
+| 3 | Lenguaje y Comunicación | **a) "cereza".** Antes de "e" o "i", la letra "c" suena /s/: ce-re-za. "Sapo" se escribe con "s" y "zorro" con "z". | OA 1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
 | 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |
-| 6 | Ciencias Naturales | **d) Se fortalece.** | OA 8 |
+| 6 | Ciencias Naturales | **b) Respiras más rápido y el corazón late más fuerte.** Durante el ejercicio los músculos necesitan más oxígeno, y el corazón y los pulmones trabajan más. | OA 8 |
 | 7 | Matemática | **a) 54 stickers.** Como Camila regala stickers (su cantidad disminuye), corresponde una resta: 96 − 42 = 54. | OA 9 |
 | 8 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa". | OA N°5 |
 | 9 | Historia, Geografía y Cs. Sociales | **d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** | OA 4 |
@@ -282,9 +278,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
 | 15 | Lenguaje y Comunicación | **b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona centro.** Los valles fértiles con viñedos y ríos, entre las dos cordilleras, son característicos del centro de Chile. | OA 8 |
-| 17 | Matemática | **c) 9 alumnos más.** Comparamos "a pie" (15) y "en bicicleta" (6) y restamos: 15 − 6 = 9. | OA 22 |
-| 18 | Ciencias Naturales | **c) Verano.** | OA 14 |
-| 19 | Lenguaje y Comunicación | **c) "Las niño jugaban en el patio."** "Las" (plural, femenino) no concuerda con "niño" (singular, masculino). | OA N°17 |
+| 17 | Matemática | **c) 9 alumnos más.** En el gráfico, "a pie" llega a 15 y "bicicleta" a 6: 15 − 6 = 9. | OA 22 |
+| 18 | Ciencias Naturales | **a) Junio, julio y agosto.** En Chile el invierno empieza en junio; en diciembre, enero y febrero es verano. | OA 14 |
+| 19 | Lenguaje y Comunicación | **b) "Tía, te invito a mi cumpleaños el sábado a las 4 en mi casa."** Dice a quién se invita, a qué, cuándo y dónde: cumple el propósito de invitar. | OA 17 |
 | 20 | Historia, Geografía y Cs. Sociales | **b) Los medios de comunicación.** Transmiten información importante, como alertas de emergencia, a toda la comunidad. | OA 15 |
 
 ### Distribución de preguntas por asignatura

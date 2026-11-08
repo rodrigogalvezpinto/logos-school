@@ -43,12 +43,12 @@ d) 628
 
 ---
 
-**2. (Ciencias Naturales — Alternativas)** ¿Cuál de estas plantas es la flor nacional de Chile y crece de forma nativa en el centro-sur del país?
+**2. (Ciencias Naturales — Alternativas)** ¿Qué planta nativa de Chile da frutos morados muy usados en jugos y mermeladas, y crece en el sur del país?
 
-a) El cactus candelabro
-b) El quillay
-c) El copihue
-d) La araucaria
+a) El maqui
+b) El cactus candelabro
+c) El trigo
+d) La palmera datilera
 
 ---
 
@@ -211,12 +211,12 @@ d) 354; la regla es "sumar 10"
 
 ---
 
-**15. (Ciencias Naturales — Alternativas)** ¿Cómo se llama el fenómeno en el que el sonido rebota al chocar con una superficie, como cuando escuchas tu propia voz repetirse frente a un cerro?
+**15. (Ciencias Naturales — Alternativas)** En una sala con cortinas gruesas y alfombra, el sonido se escucha más apagado que en una sala vacía. ¿Qué fenómeno explica esto?
 
-a) Absorción
-b) Vibración
-c) Reflexión (eco)
-d) Intensidad
+a) La reflexión del sonido en las cortinas
+b) La absorción del sonido por los materiales blandos
+c) El aumento del tono del sonido
+d) La desaparición del aire de la sala
 
 ---
 
@@ -290,7 +290,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
 | 1 | Matemática | **d) 628.** "Seiscientos" es 600 y "veintiocho" es 28: 600+28=628. | OA 2 |
-| 2 | Ciencias Naturales | **c) El copihue.** | OA 2 |
+| 2 | Ciencias Naturales | **a) El maqui.** Es un arbusto nativo del centro-sur de Chile; sus frutos morados se usan en jugos y mermeladas. El trigo y la palmera datilera fueron traídos de otros lugares. | OA 2 |
 | 3 | Historia, Geografía y Cs. Sociales | **a) El ágora.** Plaza pública de una ciudad griega donde las personas comerciaban y conversaban. | OA 3 |
 | 4 | Lenguaje y Comunicación | **a) Vallenar.** El texto dice que Joaquín "salió... a volar cometa... en Vallenar". | OA 4 |
 | 5 | Lenguaje y Comunicación | **d) Cautelosa y prefiere mirar desde abajo.** | OA 4 |
@@ -303,7 +303,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Historia, Geografía y Cs. Sociales | **c) El hemisferio norte y el hemisferio sur.** | OA 7 |
 | 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
 | 14 | Matemática | **d) 354; la regla es "sumar 10".** Cada número es 10 más que el anterior: 344 + 10 = 354. | OA 12 |
-| 15 | Ciencias Naturales | **c) Reflexión (eco) — el sonido rebota en una superficie y vuelve al oyente.** | OA 10 |
+| 15 | Ciencias Naturales | **b) La absorción del sonido por los materiales blandos.** Las cortinas, alfombras y cojines absorben parte del sonido, por eso hay menos eco. | OA 10 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** | OA 8 |
 | 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** | OA 17 |
 | 18 | Matemática | **b) El objeto de 1 kg.** 1 kg equivale a 1 000 g, que es más que 850 g. | OA 22 |

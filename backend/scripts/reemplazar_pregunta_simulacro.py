@@ -19,7 +19,7 @@ def main() -> None:
     ruta = RAIZ / cambios["archivo"]
     texto = ruta.read_text(encoding="utf-8")
     for n, c in cambios["preguntas"].items():
-        bloque = re.compile(rf"^\*\*{n}\.\*\*.*?(?=^---$)", re.S | re.M)
+        bloque = re.compile(rf"^\*\*{n}\.[* ].*?(?=^---$)", re.S | re.M)
         hallados = bloque.findall(texto)
         if len(hallados) != 1:
             sys.exit(f"pregunta {n}: se esperaba 1 bloque y hay {len(hallados)}")
