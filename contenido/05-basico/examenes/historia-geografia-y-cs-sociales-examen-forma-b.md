@@ -90,13 +90,12 @@ d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago
 ---
 
 **Pregunta 4.** (2 puntos)
-¿Por qué se dice que del proceso de conquista "surgió una nueva sociedad"?
+Un niño nacido en Santiago en 1650, de padre español y madre mapuche, hablaba castellano y mapudungún y comía tanto pan de trigo como charqui y porotos. ¿Qué rasgo de la nueva sociedad colonial representa?
 
-a) Porque no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje
-b) Porque todos los habitantes pasaron a ser españoles y adoptaron sus costumbres, su idioma y su religión
-c) Porque los pueblos originarios desaparecieron sin dejar rastro y fueron reemplazados por colonos europeos
-d) Porque no hubo ningún cambio en la forma de vivir: cada pueblo siguió con sus costumbres sin mezclarse 
-
+a) El mestizaje
+b) La desaparición de los pueblos originarios
+c) La independencia de Chile
+d) El aislamiento entre españoles e indígenas
 
 ---
 
@@ -130,13 +129,12 @@ d) Político
 ---
 
 **Pregunta 7.** (2 puntos)
-¿Por qué el impacto de la conquista fue tan distinto para Europa que para América?
+¿Cuál de los siguientes hechos fue una consecuencia de la conquista **para los pueblos de América**?
 
-a) Porque América recibió más oro y plata que Europa, lo que le permitió enriquecerse más rápido que los reinos europeos
-b) Porque en Europa hubo más enfermedades y muertes que en América, a causa de los viajes y del contacto con nuevos territorios
-c) Porque el impacto fue exactamente igual en ambos continentes: los dos ganaron riquezas, población y conocimientos por igual
-d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía
-
+a) El enriquecimiento de las ciudades de América con el oro llevado a Europa
+b) El aumento de la población indígena gracias a las nuevas enfermedades
+c) El fin de la llegada de europeos al continente
+d) Una gran disminución de la población indígena por las guerras, los trabajos forzados y las enfermedades traídas desde Europa
 
 ---
 
@@ -168,14 +166,12 @@ d) Capitanía General
 ---
 
 **Pregunta 10.** (2 puntos)
-¿Por qué la dependencia de Chile respecto de España limitaba el desarrollo
-económico de la colonia?
+Durante la Colonia, un comerciante de Valparaíso quería vender su trigo directamente a un barco inglés. ¿Qué le habría ocurrido?
 
-a) Porque España le regalaba todo lo que necesitaba, y por eso Chile no tenía motivos para producir ni comerciar
-b) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España
-c) Porque Chile no tenía ningún producto que vender, ya que su clima no permitía la agricultura ni la ganadería
-d) Porque la colonia comerciaba solo con Asia, a través del Pacífico, y España le prohibía vender en América
-
+a) Podía hacerlo libremente, porque Chile era un país independiente
+b) No podía hacerlo legalmente: el comercio de la colonia debía hacerse principalmente con España
+c) Debía pedir permiso al cabildo de Valparaíso, que siempre lo autorizaba
+d) Debía venderlo solo a comerciantes de Asia
 
 ---
 
@@ -349,14 +345,12 @@ d) Condicionales
 ---
 
 **Pregunta 23.** (2 puntos)
-¿Qué pasaría si los derechos dependieran de características como la etnia, el sexo o el lugar
-de nacimiento?
+En un curso, el profesor deja que solo los niños nacidos en Santiago voten en la elección de directiva. ¿Qué principio de los derechos se está pasando a llevar?
 
-a) Todas las personas tendrían exactamente los mismos derechos, porque esas características no influyen en la forma en que se aplican las leyes
-b) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección por características que no eligieron
-c) La sociedad sería más justa, porque cada grupo recibiría los derechos que mejor se ajustan a sus características y a su lugar de origen
-d) No cambiaría nada en la vida de las personas, porque los derechos solo importan cuando hay un problema con la justicia
-
+a) El derecho a la recreación
+b) La igualdad: todas las personas tienen los mismos derechos, sin importar dónde nacieron
+c) El derecho a la salud
+d) Ninguno, porque es una decisión del profesor
 
 ---
 
@@ -411,13 +405,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 1  | Alternativas      | d) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse y expandirse. Las ciudades fundadas eran la forma concreta de ejercer dominio y organizar la vida colonial; las demás opciones son incorrectas porque las ciudades dependían de la Corona, no eran refugios temporales ni espacios de negociación entre iguales | OA 2 | Historia | 1 |
 | 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
 | 3  | Alternativas      | d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago. El registro abarca 11 años (1541–1552) y distintas ubicaciones, por lo que contradice la afirmación del estudiante | OA 2 | Historia | 1 |
-| 4 | Alternativas | **a) Porque no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje.** También son elementos de esa nueva sociedad las ciudades fundadas y los conflictos bélicos de esta etapa. | OA 2 | Historia | 2 |
+| 4 | Alternativas | **a) El mestizaje.** La mezcla de personas, idiomas y costumbres españolas e indígenas fue el elemento central de la nueva sociedad. | OA 2 | Historia | 2 |
 | 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
 | 6  | Alternativas      | d) Político. El reemplazo de las autoridades de los pueblos originarios por autoridades nombradas por el rey es una pérdida de gobierno propio, es decir, una consecuencia en el ámbito político; no se refiere directamente a comida, población ni economía | OA 3 | Historia | 1 |
-| 7 | Alternativas | **d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía.** En lo económico, demográfico y cultural, Europa vivió enriquecimiento y expansión de poder, y América consecuencias mucho más dolorosas. | OA 3 | Historia | 2 |
+| 7 | Alternativas | **d) Una gran disminución de la población indígena por las guerras, los trabajos forzados y las enfermedades traídas desde Europa.** Para Europa, en cambio, la conquista significó riqueza y más poder. | OA 3 | Historia | 2 |
 | 8  | Alternativas      | b) La educación, fundando escuelas y los primeros colegios | OA 6 | Historia | 1 |
 | 9  | Alternativas      | b) Sincretismo | OA 6 | Historia | 1 |
-| 10 | Alternativas | **b) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España.** Al depender de la metrópoli, Chile no tomaba decisiones económicas propias, lo que restringía su crecimiento independiente. | OA 6 | Historia | 2 |
+| 10 | Alternativas | **b) No podía hacerlo legalmente: el comercio de la colonia debía hacerse principalmente con España.** Esa dependencia económica limitaba el desarrollo de Chile. | OA 6 | Historia | 2 |
 | 11 | Alternativas      | b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de paz y comercio | OA 7 | Historia | 1 |
 | 12 | Alternativas      | c) La vida fronteriza. El estímulo describe intercambio de productos, convivencia y familias mixtas en torno al Biobío, lo que caracteriza a la vida fronteriza; no hay trabajo forzado (encomienda/esclavitud) ni conflicto bélico (Guerra de Arauco) | OA 7 | Historia | 1 |
 | 13 | Alternativas | **c) La encomienda; además: la Guerra de Arauco (conflicto bélico) y los parlamentos (negociación de acuerdos).** El texto describe trabajo forzado a cambio de evangelización y "protección": la encomienda. Otras formas de relación fueron la Guerra de Arauco, los parlamentos (como Quillín), la vida fronteriza en torno al Biobío, la evangelización y el mestizaje; el voto universal o el voto femenino no existían en la Colonia. | OA 7 | Historia | 3 |
@@ -430,7 +424,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 20 | Alternativas | **d) Porque puede regenerarse si se le da tiempo; para ser sostenible, la empresa debe reforestar y no talar más rápido de lo que el bosque vuelve a crecer.** Un recurso renovable se mantiene solo si se respeta su tiempo de regeneración y se repone lo que se extrae. | OA 10 | Geografía | 2 |
 | 21 | Alternativas      | b) Todas las personas son sujetos de derecho desde que nacen, sin importar sus características. Los derechos se poseen por el solo hecho de ser persona: no dependen de la edad, el lugar de nacimiento ni la situación económica, y tampoco están restringidos a quienes nacieron en Chile | OA 13 | Formación Ciudadana | 1 |
 | 22 | Alternativas      | b) Universales | OA 13 | Formación Ciudadana | 1 |
-| 23 | Alternativas | **b) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección por características que no eligieron.** Por eso los derechos son universales: hacerlos depender de esas características sería profundamente injusto. | OA 13 | Formación Ciudadana | 2 |
+| 23 | Alternativas | **b) La igualdad: todas las personas tienen los mismos derechos, sin importar dónde nacieron.** Hacer depender un derecho del lugar de nacimiento es discriminación. | OA 13 | Formación Ciudadana | 2 |
 | 24 | Alternativas      | b) Todas las personas deben respetar las leyes, porque los derechos generan también deberes y responsabilidades. Cumplir la ley no es opcional ni depende de la conveniencia personal ni de la aprobación de un grupo | OA 14 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **c) Ejerce la libertad de expresión; su deber es respetar la opinión y los derechos de los demás, porque ejercer un derecho no puede pasar a llevar los derechos de otro.** Si las personas solo exigieran derechos sin cumplir deberes, la convivencia se volvería desordenada e injusta: por eso es importante el equilibrio entre derechos y deberes. | OA 14 | Formación Ciudadana | 3 |
 

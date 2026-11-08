@@ -141,13 +141,12 @@ d) El tabaco solo afecta al sistema digestivo y a los dientes, no a los pulmones
 
 ### OA N°7 — Factores para mantener un cuerpo saludable
 
-**11.** *(Alternativas)* ¿Qué tipo de aporte nutricional entregan principalmente las
-proteínas en la alimentación?
+**11.** *(Alternativas)* Después de una lesión, un deportista necesita reparar sus músculos. ¿Qué alimentos debería incluir principalmente y qué función cumplen?
 
-a) Energético
-b) Constructor
-c) Regulador
-d) Ninguno de los anteriores
+a) Bebidas azucaradas, con función energética
+b) Huevos, legumbres y pescado, con función constructora
+c) Frutas y verduras, con función reguladora
+d) Ninguno: el músculo se repara sin nutrientes
 
 **12.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre la salud es
 correcta, según lo estudiado en este eje?
@@ -187,12 +186,12 @@ b) Se interrumpe el funcionamiento de todo el circuito
 c) Aumenta el voltaje que reciben los demás componentes del circuito
 d) No ocurre ningún cambio en el circuito
 
-**16.** *(Alternativas, 2 puntos)* ¿Qué comparación entre circuitos en serie y en paralelo es correcta?
+**16.** *(Alternativas, 2 puntos)* En una casa se quema la ampolleta del baño, pero las de la cocina y el living siguen encendidas. ¿Cómo está conectada la instalación?
 
-a) Serie: cada componente funciona de forma independiente y no requiere más cableado. Paralelo: más simple, pero una falla apaga todo el circuito
-b) Ambos funcionan exactamente igual ante una falla: si un componente se apaga, todos los demás también se apagan, sin importar cómo estén conectados
-c) Paralelo: más simple y con menos cable, pero una falla apaga todo. Serie: más seguro ante fallas, porque cada componente tiene su propia conexión
-d) Serie: más simple, pero una falla apaga todo. Paralelo: cada componente funciona de forma independiente, aunque requiere más cableado
+a) En serie, porque todas las ampolletas comparten un mismo camino para la corriente
+b) En serie, porque la corriente pasa primero por el baño
+c) No forma un circuito, porque cada ampolleta funciona sola
+d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado
 
 **17.** *(Alternativas, 3 puntos)* Una plancha eléctrica de 1.100 W está conectada a la red domiciliaria de 220 V. Usando P = V × I, ¿cuál es la intensidad de corriente y qué representa la potencia eléctrica?
 
@@ -205,13 +204,12 @@ d) 5 A; la potencia indica la cantidad total de electricidad almacenada en la pl
 
 ### OA N°11 — Calor: transferencia de energía térmica
 
-**18.** *(Alternativas)* ¿Cuál de las siguientes formas de propagación del calor NO
-requiere de un medio material para transmitirse?
+**18.** *(Alternativas)* El calor del Sol llega a la Tierra atravesando el espacio vacío. ¿Por qué forma de propagación ocurre?
 
 a) Conducción
 b) Convección
 c) Radiación
-d) Todas requieren un medio material
+d) Evaporación
 
 **19.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre el calor y la
 temperatura es correcta?
@@ -222,12 +220,12 @@ b) El calor es la energía que se transfiere entre cuerpos debido a una diferenc
 c) El calor y la temperatura son exactamente el mismo concepto, expresado en distintas unidades
 d) La temperatura mide la cantidad total de energía transferida entre dos cuerpos
 
-**20.** *(Alternativas, 2 puntos)* ¿Cómo mantiene un termo una bebida caliente por varias horas?
+**20.** *(Alternativas, 2 puntos)* ¿Por qué las casas con doble vidrio en las ventanas pierden menos calor en invierno?
 
-a) Generando calor propio con una pequeña resistencia eléctrica ubicada en la base del termo
-b) Aumentando la convección del aire en su interior, para que el calor circule constantemente alrededor de la bebida y no se pierda por la tapa
-c) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación
-d) Absorbiendo calor del ambiente exterior a través de sus paredes metálicas y transmitiéndolo a la bebida
+a) Porque el vidrio genera calor propio
+b) Porque el doble vidrio deja entrar el aire frío
+c) Porque la capa de aire o vacío entre los vidrios es un mal conductor y reduce la pérdida de calor por conducción
+d) Porque el vidrio absorbe el frío del exterior
 
 ---
 
@@ -235,13 +233,12 @@ d) Absorbiendo calor del ambiente exterior a través de sus paredes metálicas y
 
 ### OA N°12 — Evolución del modelo atómico: Dalton, Thomson, Rutherford y Bohr
 
-**21.** *(Alternativas)* ¿Qué partícula subatómica descubrió J.J. Thomson mediante sus
-experimentos con rayos catódicos?
+**21.** *(Alternativas)* En el experimento de la lámina de oro, Ernest Rutherford observó que algunas partículas rebotaban. ¿Qué concluyó?
 
-a) El protón
-b) El neutrón
-c) El electrón
-d) El núcleo atómico
+a) Que el átomo es una esfera maciza sin espacios
+b) Que los electrones están en el centro del átomo
+c) Que el átomo tiene un núcleo pequeño y denso con carga positiva
+d) Que el átomo no tiene carga eléctrica
 
 **22.** *(Alternativas)* Según el modelo atómico de Rutherford, ¿dónde se concentra
 principalmente la masa y la carga positiva del átomo?
@@ -310,17 +307,17 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos | OA 5 |
 | 9 | Alternativas | **b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.** | OA 5 |
 | 10 | Alternativas | **c) El humo del tabaco daña los alvéolos, reduciendo la superficie de intercambio por difusión entre el aire y la sangre.** Al disminuir la superficie de intercambio, pasa menos oxígeno a la sangre en cada respiración. | OA 5 |
-| 11 | Alternativas | b) Constructor | OA 7 |
+| 11 | Alternativas | **b) Huevos, legumbres y pescado, con función constructora.** Las proteínas aportan el material para formar y reparar tejidos. | OA 7 |
 | 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social | OA 7 |
 | 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** | OA 7 |
 | 14 | Alternativas | a) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
 | 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito | OA 10 |
-| 16 | Alternativas | **d) Serie: más simple, pero una falla apaga todo. Paralelo: cada componente funciona de forma independiente, aunque requiere más cableado.** | OA 10 |
+| 16 | Alternativas | **d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado.** En serie, una falla interrumpiría el único camino y se apagarían todas. | OA 10 |
 | 17 | Alternativas | **b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica.** I = P / V = 1.100 W / 220 V = 5 A; a mayor potencia, mayor energía consumida por unidad de tiempo. | OA 10 |
-| 18 | Alternativas | c) Radiación | OA 11 |
+| 18 | Alternativas | **c) Radiación.** Es la única forma de propagación del calor que no necesita un medio material. | OA 11 |
 | 19 | Alternativas | b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de temperatura | OA 11 |
-| 20 | Alternativas | **c) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación.** | OA 11 |
-| 21 | Alternativas | c) El electrón | OA 12 |
+| 20 | Alternativas | **c) Porque la capa de aire o vacío entre los vidrios es un mal conductor y reduce la pérdida de calor por conducción.** Es el mismo principio del termo. | OA 11 |
+| 21 | Alternativas | **c) Que el átomo tiene un núcleo pequeño y denso con carga positiva.** La mayoría de las partículas atravesaba la lámina, así que el átomo es mayormente espacio vacío. | OA 12 |
 | 22 | Alternativas | b) En un núcleo pequeño y denso | OA 12 |
 | 23 | Alternativas | **a) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.** | OA 12 |
 | 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico | OA 14 |

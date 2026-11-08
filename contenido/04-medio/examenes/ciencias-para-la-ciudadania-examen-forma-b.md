@@ -179,8 +179,7 @@ b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento 
 c) Es solo la opinión de un grupo reducido de guías turísticos que observan los glaciares cada temporada
 d) No tiene relación con las mediciones de temperatura global, porque los glaciares retroceden por la erosión del viento
 
-**15.** *(Verdadero o falso)* Todos los modelos climáticos coinciden exactamente en la
-magnitud futura del calentamiento global, sin ningún rango de incertidumbre.
+**15.** *(Verdadero o falso)* Que las proyecciones climáticas presenten un rango de incertidumbre significa que el calentamiento global no está ocurriendo.
 
 **16.** *(Varias correctas, 2 puntos)* Un modelo climático regional proyecta que una zona agrícola podría perder gran parte de su agua de riego en las próximas décadas. ¿Qué elementos deberías revisar para evaluar si la proyección es confiable? Marca **todas** las correctas.
 
@@ -189,14 +188,12 @@ b) Si considera distintos escenarios de emisiones y es consistente con otros mod
 c) Si está respaldado por instituciones científicas reconocidas
 d) Si su resultado coincide con lo que uno quiere creer
 
-**17.** *(Alternativas)* La pérdida de biodiversidad asociada al cambio climático
-ocurre principalmente porque:
+**17.** *(Alternativas)* ¿Por qué el aumento de la temperatura del mar amenaza a los arrecifes de coral?
 
-a) Todas las especies pueden desplazarse instantáneamente a nuevos hábitats sin costo alguno, así que la pérdida se debe solo a la caza
-b) Muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente
-   a la velocidad de los cambios ambientales actuales
-c) El cambio climático no tiene relación con la distribución de las especies, que depende únicamente de la cantidad de alimento disponible
-d) La biodiversidad depende únicamente de la caza y la tala, sin relación con el clima, porque las especies toleran cualquier temperatura
+a) Porque los corales se desplazan rápidamente a aguas más frías sin ningún costo
+b) Porque provoca el blanqueamiento: los corales expulsan las algas de las que dependen y pueden morir
+c) Porque el agua más cálida aumenta la cantidad de alimento para los corales
+d) Porque los corales no tienen ninguna relación con la temperatura del agua
 
 **18.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
@@ -212,9 +209,7 @@ b) (a) es mejor en todo sentido, porque crece más rápido y captura más carbon
 c) (b) no captura nada de carbono, porque los árboles nativos crecen demasiado lento; su único aporte es estético y no tiene efectos en la biodiversidad
 d) Ambas opciones tienen exactamente el mismo efecto en la biodiversidad y en el clima, porque cualquier árbol restaura el ecosistema de la misma forma
 
-**19.** *(Verdadero o falso)* Analizar una controversia pública sobre cambio climático
-de forma rigurosa implica considerar solo la dimensión ambiental del problema, dejando
-de lado los aspectos sociales, económicos y éticos.
+**19.** *(Verdadero o falso)* La decisión de instalar una planta desalinizadora para enfrentar la sequía puede analizarse de forma rigurosa considerando solo su costo económico.
 
 **20.** *(Alternativas, 2 puntos)* ¿Por qué reducir las emisiones de metano de la actividad ganadera es una medida de **mitigación** del cambio climático, y cómo podría lograrse?
 
@@ -303,11 +298,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Alternativas | **c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono.** | OA 2 |
 | 13 | Varias correctas | **a, b y c.** La oferta de compensación no reemplaza la evidencia científica, la viabilidad ni la participación. | OA 2 |
 | 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |
-| 15 | Verdadero o falso | Falso. Los modelos climáticos manejan rangos de proyección según distintos escenarios de emisiones futuras, pero esa incertidumbre en la magnitud exacta no cuestiona la tendencia general de calentamiento, bien establecida por múltiples líneas de evidencia. | OA 3 |
+| 15 | Verdadero o falso | Falso. El rango refleja distintos escenarios de emisiones futuras y la magnitud exacta del cambio; el calentamiento ya observado está respaldado por múltiples líneas de evidencia. | OA 3 |
 | 16 | Varias correctas | **a, b y c.** | OA 3 |
-| 17 | Alternativas | b) Muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente a la velocidad de los cambios ambientales actuales | OA 3 |
+| 17 | Alternativas | **b) Porque provoca el blanqueamiento: los corales expulsan las algas de las que dependen y pueden morir.** Es un ejemplo de pérdida de biodiversidad causada por el cambio climático. | OA 3 |
 | 18 | Alternativas | **a) (a) captura carbono más rápido y barato, pero genera un ecosistema poco diverso; (b) captura más lento, pero restaura hábitat, biodiversidad y resiliencia a largo plazo.** Hay que sopesar la velocidad de mitigación frente al valor ecológico del ecosistema restaurado. | OA 3 |
-| 19 | Verdadero o falso | Falso. El OA pide explícitamente analizar controversias considerando implicancias sociales, económicas, éticas y ambientales en conjunto, ya que las decisiones sobre cambio climático rara vez tienen una sola dimensión relevante. | OA 3 |
+| 19 | Verdadero o falso | Falso. Un análisis riguroso considera también los efectos ambientales (como la descarga de salmuera al mar), sociales y éticos (quién accede al agua y quién asume los impactos). | OA 3 |
 | 20 | Alternativas | **d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol.** | OA 3 |
 | 21 | Varias correctas | **a, b y c.** Los paneles solares reducen emisiones: son mitigación, no adaptación al riesgo. | OA 3 |
 | 22 | Alternativas | b) Las actividades humanas han intensificado el efecto invernadero al aumentar la concentración atmosférica de gases como el CO₂, elevando la temperatura media del planeta más allá de su variabilidad natural | OA 3 |

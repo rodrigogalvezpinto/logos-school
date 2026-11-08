@@ -25,7 +25,7 @@ def main() -> None:
         if len(hallados) != 1:
             sys.exit(f"pregunta {n}: se esperaba 1 bloque y hay {len(hallados)}")
         texto = bloque.sub(lambda _m: c["bloque"].rstrip("\n") + "\n\n", texto, count=1)
-        fila = re.compile(rf"^\| {n} \|.*$", re.M)
+        fila = re.compile(rf"^\| {n} +\|.*$", re.M)  # algunas pautas alinean con «| 6  |»
         if len(fila.findall(texto)) != 1:
             sys.exit(f"pauta {n}: se esperaba 1 fila")
         texto = fila.sub(lambda _m: c["pauta"], texto, count=1)

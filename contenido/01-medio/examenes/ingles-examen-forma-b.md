@@ -143,13 +143,12 @@ b) In
 c) On
 d) By
 
-**14.** *(Selección múltiple)* ¿Qué oración expresa mejor una opinión
-justificada sobre un problema global?
+**14.** *(Selección múltiple)* ¿Qué oración expresa una opinión justificada sobre la escasez de agua?
 
-a) There are many trees in the forest, and some of them are very tall and old.
-b) Forests exist in many countries around the world, from Chile to Canada.
-c) In my opinion, governments should protect forests because deforestation harms the whole planet.
-d) Trees produce oxygen, and people need oxygen to breathe every day of their lives.
+a) Water is a liquid that we drink every day.
+b) My house has two bathrooms and a kitchen.
+c) I believe we must save water, because many regions are suffering long droughts.
+d) Rivers flow from the mountains to the sea.
 
 **15.** *(Alternativas — completar)* Complete: *"Last Friday, in English class, we ___ a short story from Canada. I ___ its surprising ending."* (read / like, simple past)
 
@@ -190,13 +189,12 @@ b) four thousands of
 c) four of thousand
 d) four thousand
 
-**20.** *(Selección múltiple)* ¿Qué oración usa correctamente el presente
-perfecto para una acción que empezó en el pasado y continúa hoy?
+**20.** *(Selección múltiple)* Completa la oración: "We ______ in Valparaíso for five years, and we still love it."
 
-a) My neighbour teach English at this school since 2016.
-b) My neighbour has taught English at this school since 2016.
-c) My neighbour taught English at this school since 2016.
-d) My neighbour is teaching English at this school since 2016.
+a) live
+b) have lived
+c) lived
+d) are live
 
 **21.** *(Alternativas — completar)* Complete with the past simple passive: *"This mural ___ by our Art class last Friday."* (paint)
 
@@ -261,13 +259,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 11 | **d) guitarist.** El sufijo -ist forma ocupaciones vinculadas a instrumentos. | OA10 |
 | 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
 | 13 | **b) In.** La expresión fija es in my opinion. | OA13 |
-| 14 | c) In my opinion, governments should protect forests because deforestation harms the whole planet. | OA13 |
+| 14 | c) I believe we must save water, because many regions are suffering long droughts. | OA13 |
 | 15 | **c) read / liked.** Read es irregular (se escribe igual en pasado); like agrega -d. | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
 | 17 | **a) water pollution / many rivers near cities are full of waste.** Se debe nombrar un problema global y dar un ejemplo coherente con for example. | OA13 |
 | 18 | b) The text I read was about Beethoven, a composer who kept writing music even after he lost his hearing. | OA13 |
 | 19 | **d) four thousand.** Thousand no lleva -s cuando va precedido de un número exacto. | OA16 |
-| 20 | b) My neighbour has taught English at this school since 2016. | OA16 |
+| 20 | b) have lived. El presente perfecto con *for* expresa una acción que empezó en el pasado y continúa hoy. | OA16 |
 | 21 | **b) was painted.** Pasiva en pasado: was/were + participio. | OA16 |
 | 22 | True (Verdadero) — *used to* + verbo describe una acción habitual o estado en el pasado que ya no se repite en el presente. | OA16 |
 | 23 | **c) For ten years.** For + período responde a how long; ago indica cuándo ocurrió algo. | OA16 |

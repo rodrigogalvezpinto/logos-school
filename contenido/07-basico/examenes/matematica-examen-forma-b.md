@@ -55,21 +55,21 @@ d) −15 °C
 
 ---
 
-**Pregunta 4 (alternativas).** Calcula: 1/2 × 2/7.
+**Pregunta 4 (alternativas).** Calcula: 3/4 × 2/9.
 
-a) 3/9
-b) 3/14
-c) 1/7
-d) 2/9
+a) 5/13
+b) 6/13
+c) 1/6
+d) 5/36
 
 ---
 
-**Pregunta 5 (Alternativas).** Calcula: 9,6 ÷ 0,4.
+**Pregunta 5 (Alternativas).** Calcula: 8,4 ÷ 0,6.
 
-a) 2,4
-b) 0,24
-c) 24
-d) 240
+a) 1,4
+b) 0,14
+c) 14
+d) 140
 
 ---
 
@@ -283,8 +283,8 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 1 | b) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
 | 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
 | 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
-| 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
-| 5 | **c) 24.** Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
+| 4 | c) 1/6 ((3×2)/(4×9)=6/36, simplificado dividiendo por 6 = 1/6) | OA 3 | Números y Operaciones |
+| 5 | **c) 14.** Amplificando ambos números por 10 se elimina la coma: 84 ÷ 6 = 14. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
 | 6 | **c) 6.** 3/4 ÷ 1/8 = 3/4 × 8/1 = 24/4 = 6. Dividir el total por el tamaño de cada trozo indica cuántos caben; 3/32 resulta de multiplicar en vez de dividir. | OA 3 | Números y Operaciones |
 | 7 | **a) $12.000.** El 25% equivale a la cuarta parte: 48.000 ÷ 4 = 12.000. $4.800 es el 10% y $24.000, el 50%. | OA 4 | Números y Operaciones |
 | 8 | **d) $210.000.** Interés: 0,05 × 200.000 = 10.000; total: 200.000 + 10.000 = $210.000. $205.000 confunde 5% con $5.000 y $10.000 es solo el interés. | OA 4 | Números y Operaciones |

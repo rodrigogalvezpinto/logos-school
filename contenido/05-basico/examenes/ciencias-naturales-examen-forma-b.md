@@ -99,13 +99,12 @@ b) Un trozo de palta
 c) Un plato de fideos
 d) Una naranja
 
-**7.** *(Alternativas, 2 puntos)* ¿Por qué se recomienda el consumo de
-carne o legumbres para los procesos de reparación y crecimiento del cuerpo?
+**7.** *(Alternativas, 2 puntos)* Martina se fracturó un brazo y el médico le recomendó comer huevos, pescado y porotos. ¿Por qué?
 
-a) Porque son ricos en azúcares, el nutriente que el cuerpo usa para reparar los huesos
-b) Porque aportan solo agua, que el cuerpo necesita para crecer y mantenerse hidratado
-c) Porque son ricos en grasas, el nutriente que el cuerpo usa para construir y reparar la piel y los músculos
-d) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos como músculos y piel
+a) Porque son ricos en azúcares, que endurecen los huesos
+b) Porque contienen solo agua, que ayuda a sanar
+c) Porque son ricos en grasas, que reemplazan al hueso
+d) Porque son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos
 
 **8.** *(Alternativas, 3 puntos)* Un estudiante almuerza todos los días solo
 arroz con papas fritas, sin incluir otros alimentos. ¿Por qué comer siempre un solo grupo de nutrientes, aunque sea en gran cantidad, puede
@@ -321,7 +320,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Alternativas | **a) Sistema respiratorio: la nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases.** Un sistema coordina varios órganos para cumplir una función común; en el respiratorio, nariz, tráquea y pulmones trabajan juntos. | OA 1 |
 | 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas | OA 5 |
 | 6 | Alternativas | d) Una naranja | OA 5 |
-| 7 | Alternativas | **d) Porque son ricos en proteínas, el nutriente que el cuerpo usa para construir y reparar tejidos como músculos y piel.** | OA 5 |
+| 7 | Alternativas | **d) Porque son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos.** Las proteínas son nutrientes constructores. | OA 5 |
 | 8 | Alternativas | **d) Porque el cuerpo necesita variedad de nutrientes; esa dieta aporta sobre todo carbohidratos y grasas, y le faltan proteínas y vitaminas y minerales.** Cada grupo de nutrientes cumple funciones distintas (reparación, energía, desarrollo general); faltan proteínas para la reparación y vitaminas y minerales, presentes en frutas y verduras. | OA 5 |
 | 9 | Alternativas | c) Asma | OA 6 |
 | 10 | Alternativas | a) Arritmia | OA 6 |

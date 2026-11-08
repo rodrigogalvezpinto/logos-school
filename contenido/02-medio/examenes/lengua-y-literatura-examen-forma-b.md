@@ -244,12 +244,12 @@ d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un 
 >
 > *Fragmento del ensayo modelo*: "Sostengo que esta forma de plantear el problema es falsa: producir y conservar no son necesariamente fuerzas opuestas, si una comunidad decide, con planificación, qué parte de la tierra transformar y cuál mantener como está. [...] Alguien podría argumentar que este tipo de equilibrio es un lujo que solo pueden permitirse quienes no dependen económicamente de la tierra, y que, en la práctica, la urgencia de un tratamiento médico impone decisiones rápidas. Es un punto válido [...] Pero justamente por eso, instrumentos como los subsidios de fomento agrícola sustentable existen para evitar que una familia deba elegir entre su salud y su tierra."
 
-**22. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a incorporar recursos variados en un ensayo persuasivo, sin perder la coherencia temática?
+**22. (Alternativas)** Un estudiante escribe un ensayo persuasivo con la hipótesis «Las ciclovías mejoran la calidad de vida en las ciudades». ¿Qué recurso incorpora variedad sin perder la coherencia temática?
 
-a) Insertar una síntesis de una noticia sin relación alguna con la hipótesis del ensayo, solo para hacerlo parecer más informado
-b) Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento
-c) Agregar una infografía decorativa que no aporta información relevante al argumento
-d) Usar únicamente evidencia no literaria, evitando cualquier cita literaria
+a) Una receta de completos, para hacer el texto más entretenido
+b) Un dato sobre la reducción de accidentes y emisiones en ciudades que construyeron ciclovías
+c) La biografía de un futbolista famoso
+d) Una lista de marcas de bicicletas con sus precios
 
 **23. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia a los subsidios de fomento agrícola sustentable?
 
@@ -309,7 +309,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 19 | **b)** Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera. | OA N°10 — comparación de fuentes |
 | 20 | **a) La infografía verde con bus y flecha ascendente del Texto A transmite progreso y control; las capturas de la app del Texto B funcionan como evidencia cuantitativa verificable.** | OA N°10 — recursos no lingüísticos |
 | 21 | **d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un servicio nuevo con solo una semana de datos, que puede no reflejar su desempeño tras los ajustes.** | OA N°10 — recursos emocionales, evidencia e influencia en las propias opiniones (integrada) |
-| 22 | **b)** Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento. | OA N°14 — recursos variados y coherencia temática |
+| 22 | **b)** Un dato sobre la reducción de accidentes y emisiones en ciudades que construyeron ciclovías. Es un recurso nuevo que refuerza directamente la hipótesis; los demás no se conectan con ella. | OA N°14 — recursos variados y coherencia temática |
 | 23 | **b) Es evidencia no literaria que muestra mecanismos reales para compatibilizar producción y conservación, reforzando que no hay que elegir entre ambas.** | OA N°14 — evidencia no literaria y citas |
 | 24 | **c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso.** | OA N°14 — planificación (hipótesis y recursos) |
 | 25 | **a) Introducción: "Algunos creen que prohibir el celular en los recreos es la única forma de recuperar la convivencia; sin embargo, la prohibición sola no basta si no hay alternativas atractivas." Conclusión: "Por eso, más que prohibir, el colegio debe ofrecer espacios que hagan preferible convivir sin pantallas, como muestran los argumentos revisados."** La introducción plantea la hipótesis y reconoce un contraargumento; la conclusión la retoma sin ideas nuevas. | OA N°14 — hipótesis, contraargumento, coherencia temática y conclusión (integrada) |

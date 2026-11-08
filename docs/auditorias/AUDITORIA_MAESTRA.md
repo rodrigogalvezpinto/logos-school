@@ -1491,3 +1491,59 @@ de cualquier mejora. El detalle está en `docs/auditorias/fase1/`.
 - Backend: 728 pruebas. Se actualizó el snapshot del banco de 3.115 a 3.146. `test_login_profesor_da_429…` falla de forma intermitente solo dentro de la suite completa; aislado pasa.
 
 **Pendiente, en el orden aprobado:** C.1 y C.3 (simulacros: preguntas copiadas de la guía y OA faltantes) → B (gráficos, mapas y esquemas) → C.2 (pruebas) → D.
+
+### 15.35 Fase 1 — C.1 y C.3: simulacros independientes de la guía (2026-11-07)
+
+**C.1.** Se reemplazaron **112 preguntas de simulacro** que repetían el enunciado de una autoevaluación de
+la guía. Reemplazos por curso:
+
+| Curso | Preguntas reemplazadas |
+|---|---|
+| 1.° básico | 19, con textos de lectura nuevos |
+| 2.° y 3.° básico | 15 |
+| 5.° básico | 5 |
+| 6.° básico | 2 |
+| 7.° básico | 22 |
+| 8.° básico | 6 |
+| 1.° medio | 8 |
+| 2.° medio | 9 |
+| 3.° medio | 23 |
+| 4.° medio | 3 |
+
+Cada pregunta nueva evalúa el mismo OA y tiene el mismo puntaje y el mismo tipo. Usa otro contexto (un caso,
+datos o un ejemplo distinto) y mantiene la letra de la clave para no alterar el balance de posiciones.
+También se revisó que no reutilizara los **ejemplos resueltos** de la guía, no solo sus preguntas. En
+8.° básico se descartaron la guirnalda de luces y la definición de los parlamentos por esa razón.
+
+**Resultado:** `solapamiento_pruebas_guias.py` da **0 % en los 50 simulacros**. Antes: 1.° básico 35 %,
+7.° básico 16 %, 2.° básico y 3.° medio 15 %.
+
+**C.3.** Se incorporaron a los simulacros estos OA:
+- 1.° básico: Historia OA 6 y Matemática OA 13 y 18, con lo que el curso queda completo;
+- 2.° básico: Matemática OA 11 y 20.
+
+En 2.°, 3.° y 4.° básico, las 10 preguntas de Matemática de las formas A y B ya evalúan 10 OA distintos,
+de los 13–14 del temario. Los 10 que quedan fuera:
+- 2.° básico: OA 5, 7 y 16;
+- 3.° básico: OA 11, 21 y 25;
+- 4.° básico: OA 9, 18, 23 y 27.
+
+Esto es un **límite del formato oficial** (20 preguntas integradas en 4 asignaturas). Esos OA se evalúan en
+la guía y en las pruebas de unidad.
+
+**Herramienta.** `reemplazar_pregunta_simulacro.py` ahora admite los cuatro formatos de bloque
+(«**N.**», «**N. (…)**», «**Pregunta N…**» y bloques sin separador) y filas de pauta alineadas con espacios
+(«| 6  |»). Si no encuentra exactamente un bloque y una fila, no escribe nada.
+
+**Otros arreglos.**
+- Pauta de Matemática de 3.° medio: una «|» dentro de una celda rompía la tabla; se reescribió.
+- Los procesos de espera en segundo plano detectaban su propio comando con `pgrep -f "playwright test"`
+  y no terminaban nunca. Se detuvieron. Para esperar una corrida, usar la notificación de la tarea.
+
+**Verificación.**
+- Validador: 0 discrepancias.
+- Importación: 6.181 preguntas, 0 sin OA.
+- 3.° medio en Chromium: 25/25.
+- Chromium: 1.° medio 24/24, 2.° medio 24/24, 4.° medio 23/23 y 5.°, 6.°, 7.° y 8.° básico 24/24 cada uno.
+
+**Pendiente, en el orden aprobado:** B (gráficos, mapas y esquemas) → C.2 (pruebas de unidad) → D.

@@ -118,31 +118,30 @@ b) La meiosis produce células genéticamente idénticas entre sí, mientras que
 c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene
 d) La mitosis es exclusiva de las células que producen gametos, y no ocurre en otras células
 
-**9.** *(Alternativas, 2 puntos)* ¿Por qué la meiosis, y no la mitosis, permite la variación genética entre generaciones?
+**9.** *(Alternativas, 2 puntos)* Dos hermanos, hijos de los mismos padres, no son genéticamente idénticos (salvo los gemelos idénticos). ¿Qué proceso explica principalmente esa diferencia?
 
-a) Porque produce células idénticas a la original, que conservan la información genética sin cambios
-b) Porque la meiosis solo ocurre en bacterias, que intercambian material genético entre ellas
-c) Porque la mitosis produce los gametos, y la meiosis se encarga de reparar los tejidos dañados
-d) Porque produce gametos genéticamente distintos que, al combinarse en la fecundación, originan combinaciones únicas
+a) La mitosis, que copia el material genético sin cambios
+b) La digestión, que modifica los genes según los alimentos
+c) El crecimiento, que cambia los genes a medida que el cuerpo se desarrolla
+d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos
 
 ---
 
 ### OA N°8 — Aplicaciones de la manipulación genética: implicancias éticas y sociales
 
-**10.** *(Alternativas)* ¿Qué se entiende por un organismo transgénico?
+**10.** *(Alternativas)* Un científico inserta en una bacteria el gen humano de la insulina, y la bacteria comienza a producirla. ¿Cómo se clasifica esa bacteria?
 
-a) Un organismo al que se le ha insertado uno o más genes provenientes de otra
-   especie
-b) Un organismo que ha sufrido una mutación espontánea sin intervención humana
-c) Un organismo producido exclusivamente mediante clonación
-d) Un organismo que solo se reproduce por meiosis
+a) Como un organismo transgénico, porque recibió un gen de otra especie
+b) Como un clon de una célula humana
+c) Como un organismo con una mutación espontánea
+d) Como un virus, porque produce una sustancia humana
 
-**11.** *(Varias correctas, 2 puntos)* Sobre los cultivos transgénicos resistentes a plagas, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
+**11.** *(Varias correctas, 2 puntos)* Un salmón modificado genéticamente crece el doble de rápido que uno común. ¿Qué afirmaciones corresponden a una evaluación responsable de su uso? Marca **todas** las correctas.
 
-a) Pueden reducir el uso de pesticidas y aumentar el rendimiento
-b) Pueden generar dependencia de las empresas que poseen las patentes
-c) Existen interrogantes sobre sus efectos a largo plazo en la biodiversidad
-d) Está demostrado que no tienen ningún impacto
+a) Podría aumentar la producción de alimento con menos recursos
+b) Si escapa al mar, podría competir con las poblaciones silvestres
+c) Conviene evaluar sus efectos con estudios a largo plazo y regulación
+d) Al ser un avance científico, no requiere ninguna evaluación
 
 ---
 
@@ -224,12 +223,12 @@ b) Galileo Galilei
 c) Claudio Ptolomeo
 d) Isaac Newton
 
-**19.** *(Alternativas, 2 puntos)* ¿Por qué el paso del modelo geocéntrico al heliocéntrico ejemplifica cómo funciona el conocimiento científico?
+**19.** *(Alternativas, 2 puntos)* Durante siglos se pensó que las enfermedades se originaban por «malos aires». Con el microscopio y los experimentos de Pasteur se aceptó la teoría de los microorganismos. ¿Qué muestra este cambio sobre el conocimiento científico?
 
-a) Porque la ciencia nunca cambia sus modelos: el modelo heliocéntrico existía desde siempre y solo se volvió conocido en esa época
-b) Porque el modelo geocéntrico sigue vigente en la astronomía actual, y el heliocéntrico se usa solo para explicar las estaciones
-c) Porque los modelos científicos son verdades definitivas, y el heliocéntrico demostró de forma absoluta cómo funciona el universo
-d) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro explica lo mismo de forma más simple y precisa
+a) Que la ciencia nunca cambia sus explicaciones
+b) Que las teorías se aceptan por la fama de quien las propone
+c) Que las ideas antiguas eran siempre correctas
+d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice
 
 ---
 
@@ -237,13 +236,12 @@ d) Porque los modelos se reemplazan cuando surge evidencia que los contradice o 
 
 ### OA N°15 — Soluciones químicas: componentes, concentración y solubilidad
 
-**20.** *(Alternativas)* En una solución de agua con azúcar, ¿cuál de los dos
-componentes corresponde al **soluto**?
+**20.** *(Alternativas)* Al preparar suero oral, se disuelve una pequeña cantidad de sal en un litro de agua. ¿Cuál es el soluto?
 
-a) El agua, porque está en mayor cantidad y disuelve al azúcar
-b) El azúcar, porque está en menor cantidad y es la que se disuelve
-c) Ambos son solventes, porque se mezclan en partes iguales
-d) Ninguno, porque el agua con azúcar es una mezcla heterogénea
+a) El agua, porque es el componente que disuelve
+b) La sal, porque está en menor cantidad y se disuelve en el agua
+c) El vaso, porque contiene la mezcla
+d) Ninguno, porque es una mezcla heterogénea
 
 **21.** *(Alternativas)* El bronce es una mezcla homogénea de cobre y estaño. ¿A qué
 tipo de solución, según su estado físico, corresponde el bronce?
@@ -311,9 +309,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | Alternativas | **d) Aseguran una participación libre e informada y permiten acordar métodos de protección y expresar límites, reduciendo riesgos físicos (embarazo no planificado, ITS) y emocionales.** | OA 3 |
 | 7 | Alternativas | a) La mitosis | OA 6 |
 | 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene | OA 6 |
-| 9 | Alternativas | **d) Porque produce gametos genéticamente distintos que, al combinarse en la fecundación, originan combinaciones únicas.** | OA 6 |
-| 10 | Alternativas | a) Un organismo al que se le ha insertado uno o más genes provenientes de otra especie | OA 8 |
-| 11 | Varias correctas | **a, b y c.** Evaluarlos implica sopesar ventajas y preocupaciones. | OA 8 |
+| 9 | Alternativas | **d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos.** Cada fecundación combina gametos diferentes, por eso cada hijo es único. | OA 6 |
+| 10 | Alternativas | **a) Como un organismo transgénico, porque recibió un gen de otra especie.** Así se produce hoy la insulina para personas con diabetes. | OA 8 |
+| 11 | Varias correctas | **a, b y c.** Evaluar una biotecnología implica sopesar beneficios, riesgos ambientales y regulación; ningún avance está exento de evaluación. | OA 8 |
 | 12 | Alternativas | b) La velocidad | OA 9 |
 | 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo | OA 9 |
 | 14 | Alternativas | **c) 3 m/s²: su velocidad aumenta 3 m/s cada segundo.** a = (15 − 0)/5 = 3 m/s². | OA 9 |
@@ -321,8 +319,8 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí | OA 10 |
 | 17 | Alternativas | **a) 20 N y 2 m/s².** Fuerza neta: 25 − 5 = 20 N; a = 20/10 = 2 m/s². | OA 10 |
 | 18 | Alternativas | c) Claudio Ptolomeo | OA 13 |
-| 19 | Alternativas | **d) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro explica lo mismo de forma más simple y precisa.** | OA 13 |
-| 20 | Alternativas | b) El azúcar, porque está en menor cantidad y es la que se disuelve | OA 15 |
+| 19 | Alternativas | **d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice.** El conocimiento científico es provisional y se revisa con evidencia. | OA 13 |
+| 20 | Alternativas | **b) La sal, porque está en menor cantidad y se disuelve en el agua.** El agua es el solvente. | OA 15 |
 | 21 | Alternativas | c) Solución sólida (aleación) — el bronce es una mezcla homogénea de cobre y estaño, con propiedades distintas a las de sus componentes | OA 15 |
 | 22 | Alternativas | **d) 6% m/m.** (18/300) × 100 = 6%; se divide por la masa total de la solución. | OA 15 |
 | 23 | Alternativas | b) Al menos un enlace doble | OA 17 |

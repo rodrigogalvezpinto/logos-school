@@ -108,11 +108,11 @@ d) Los patriotas
 ---
 
 **Pregunta 6.** (1 punto)
-¿Qué característica tuvo la Constitución de 1833?
+Después de 1833, el Presidente de Chile nombraba a los ministros, intendentes y jueces, y podía declarar estado de sitio. ¿Qué rasgo de la Constitución de 1833 muestra esto?
 
-a) Fortaleció al Congreso por sobre el Presidente
-b) Estableció el voto universal para hombres y mujeres
-c) Eliminó por completo a la Iglesia católica del país
+a) Dio más poder al Congreso que al Presidente
+b) Estableció el voto para todas las personas
+c) Eliminó los cargos de autoridad en las provincias
 d) Concentró el poder en la figura del Presidente de la República
 
 ---
@@ -243,12 +243,12 @@ d) Porque todas las regiones de Chile son exactamente iguales entre sí, y conoc
 ### Los ambientes naturales de Chile (OA 12)
 
 **Pregunta 16.** (1 punto)
-¿Qué dificultad principal enfrenta el ambiente natural desértico del norte de Chile?
+¿Cómo se han adaptado los habitantes del norte de Chile a las condiciones del ambiente desértico?
 
-a) Exceso de lluvias
-b) Escasez de agua
-c) Frío extremo
-d) Terremotos frecuentes exclusivamente
+a) Construyendo canales para drenar el exceso de lluvia
+b) Usando atrapanieblas, riego por goteo y plantas desalinizadoras para obtener agua
+c) Cultivando arroz en terrenos inundados
+d) Abrigándose con ropa de lana durante todo el año por las nevazones
 
 ---
 
@@ -402,7 +402,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 13 | Alternativas | b) El éxodo rural y la creciente urbanización del país | OA 9 | Historia | 1 |
 | 14 | Alternativas | c) El clima y el relieve | OA 11 | Geografía | 1 |
 | 15 | Alternativas | a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con otras regiones | OA 11 | Geografía | 1 |
-| 16 | Alternativas | b) Escasez de agua | OA 12 | Geografía | 1 |
+| 16 | Alternativas | b) Usando atrapanieblas, riego por goteo y plantas desalinizadoras para obtener agua | OA 12 | Geografía | 1 |
 | 17 | Alternativas | **c) Por su enorme extensión de norte a sur, que genera climas y relieves distintos; por ejemplo, el altiplánico (frío, ganadería de camélidos) y el andino (relieve abrupto, recursos hídricos).** | OA 12 | Geografía | 2 |
 | 18 | Alternativas | a) Poder Ejecutivo | OA 15 | Formación Ciudadana | 1 |
 | 19 | Alternativas | c) Alcalde | OA 15 | Formación Ciudadana | 1 |

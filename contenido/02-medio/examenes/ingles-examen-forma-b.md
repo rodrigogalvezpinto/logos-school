@@ -145,13 +145,12 @@ b) In
 c) On
 d) By
 
-**14.** *(Selección múltiple)* ¿Qué oración expresa mejor una preferencia
-justificada sobre un problema global?
+**14.** *(Selección múltiple)* ¿Qué oración expresa una opinión justificada sobre la contaminación de los océanos?
 
-a) Plastic bags are very common in supermarkets, and many people use them every day.
-b) Bags are useful for shopping, especially when you buy a lot of things at the market.
-c) I'd rather buy local products than imported ones, because it reduces the carbon footprint of transport.
-d) There is a store near my house that sells local and imported products at good prices.
+a) The ocean is very big and has many fish.
+b) My family goes to the beach every summer.
+c) I think we should ban single-use plastics, because they end up in the ocean and harm marine life.
+d) There are many beaches in the north of Chile.
 
 **15.** *(Alternativas — completar)* Complete: *"Last month, in Science class, we ___ a documentary about the oceans. I ___ a lot about marine life."* (watch / learn, simple past)
 
@@ -193,14 +192,12 @@ b) much
 c) a little
 d) few
 
-**20.** *(Selección múltiple)* ¿Qué oración usa correctamente el presente
-perfecto continuo para una acción que empezó en el pasado y sigue
-ocurriendo?
+**20.** *(Selección múltiple)* Completa la oración: "Tomás is tired because he ______ for the exam since seven o'clock."
 
-a) The students run a recycling campaign for two months.
-b) The students have been running a recycling campaign for two months.
-c) The students ran a recycling campaign for two months.
-d) The students are running a recycling campaign for two months.
+a) studies
+b) has been studying
+c) studied
+d) is study
 
 **21.** *(Alternativas — completar)* Complete with the second conditional: *"Our school does not have a garden. If our school ___ a garden, we would grow vegetables."*
 
@@ -227,13 +224,12 @@ b) has visited
 c) visits
 d) will visit
 
-**25.** *(Selección múltiple — desafiante)* ¿Qué oración usa correctamente
-un pronombre reflexivo?
+**25.** *(Selección múltiple — desafiante)* Completa la oración: "The children made the posters ______; no adult helped them."
 
-a) She prepared her for the interview all week.
-b) She prepared herself for the interview all week.
-c) She prepared she for the interview all week.
-d) She prepared hers for the interview all week.
+a) them
+b) themselves
+c) their
+d) theirs
 
 ---
 
@@ -264,18 +260,18 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 11 | **d) illegible.** Il- se usa antes de palabras que comienzan con l. | OA10 |
 | 12 | a) Que ninguno de los dos actores asistió a la reunión. | OA10 |
 | 13 | **b) In.** La expresión fija es in my opinion. | OA13 |
-| 14 | c) I'd rather buy local products than imported ones, because it reduces the carbon footprint of transport. | OA13 |
+| 14 | c) I think we should ban single-use plastics, because they end up in the ocean and harm marine life. | OA13 |
 | 15 | **c) watched / learned.** Last month exige pasado simple en ambos verbos. | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural (el equilibrio entre trabajo y vida personal en Suecia). | OA13 |
 | 17 | **a) air pollution / ride my bike / go by car / it reduces emissions.** La preferencia y su razón deben ser coherentes con el problema mencionado. | OA13 |
 | 18 | b) The text I read was about a teenage engineer who has been designing affordable prosthetic hands for children since 2019. | OA13 |
 | 19 | **d) few.** Few se usa con sustantivos contables como opportunities. | OA16 |
-| 20 | b) The students have been running a recycling campaign for two months. | OA16 |
+| 20 | b) has been studying. El presente perfecto continuo (have/has been + -ing) expresa una acción que empezó en el pasado y sigue ocurriendo. | OA16 |
 | 21 | **b) had.** Segundo condicional: If + pasado simple, ... would + verbo. | OA16 |
 | 22 | True (Verdadero) — el pasado perfecto (*had already started*) se usa para la acción más antigua de las dos: primero comenzó el concierto, después llegó el cantante. | OA16 |
 | 23 | **c) Once a month.** How often pregunta por frecuencia habitual. | OA16 |
 | 24 | **a) had visited.** En estilo indirecto, el presente perfecto pasa a pasado perfecto. | OA16 |
-| 25 | b) She prepared herself for the interview all week. | OA16 |
+| 25 | b) themselves. El pronombre reflexivo indica que los niños lo hicieron por sí mismos. | OA16 |
 
 ### Resumen de puntaje por OA
 

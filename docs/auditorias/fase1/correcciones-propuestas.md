@@ -38,15 +38,19 @@ diagramas de cajón, gráficos de funciones y de movimiento, y mapas. Hoy se des
   `::barras::`, `::linea::`, `::circular::`, `::funcion::` y `::caja::`;
 - para los mapas, un mapa de Chile y de América en SVG a partir de datos geográficos libres.
 
-## C. Independencia de las evaluaciones respecto de la guía
+## C. Independencia de las evaluaciones respecto de la guía — C.1 y C.3 ✅ APLICADOS 2026-11-07 (§15.35); C.2 pendiente
 
 1. **Simulacros:** reemplazar las preguntas con el mismo enunciado que la guía por preguntas nuevas:
    1.° básico 35 %, 7.° básico 16 %, 2.° básico y 3.° medio 15 %, 3.° básico 10 % y el resto ≤ 7 %. En
    1.° y 2.° básico, usar además **textos de lectura nuevos** en el simulacro.
+   ✅ Hecho: 0 % en los 50 simulacros.
 2. **Pruebas de unidad:** reescribir las preguntas copiadas de la guía en los 10 cursos que faltan
    (59–97 %). 1.° y 4.° básico ya están en 0 %.
 3. **Cobertura de OA en los simulacros de régimen A:** incluir los 15 OA que hoy no aparecen en las
    formas A y B (control 3).
+   ✅ Hecho hasta el límite del formato: 1.° básico completo; en 2.°, 3.° y 4.° básico las 10 preguntas de
+   Matemática (5 por forma) ya evalúan 10 OA distintos de 13–14. Quedan 10 OA (2.°: 5, 7, 16; 3.°: 11, 21, 25;
+   4.°: 9, 18, 23, 27), que se cubren en guía y pruebas, pero no caben en 20 preguntas integradas.
 
 ## D. Otros
 

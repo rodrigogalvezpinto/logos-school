@@ -181,12 +181,12 @@ d) El mestizaje entre españoles, mapuches y mestizos en los fuertes
 ---
 
 **Pregunta 12.** (2 puntos)
-¿Por qué la frontera del Biobío es un rasgo distintivo de la historia colonial de Chile?
+En el siglo XVII, en la zona del Biobío, españoles y mapuches intercambiaban ganado, sal y tejidos, convivían en fuertes y misiones y se mezclaban entre sí, a pesar de los conflictos. ¿Qué concepto describe esta realidad?
 
-a) Porque fue el único lugar de América donde no llegaron los españoles, de modo que el territorio al sur del Biobío nunca tuvo contacto con la Corona durante toda la Colonia
-b) Porque allí se fundó la primera universidad de América, lo que convirtió a la frontera en el principal centro cultural del reino de Chile durante los siglos XVII y XVIII
-c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y mediante parlamentos como el de Quilín, un territorio autónomo, algo poco común en la América española
-d) Porque los mapuches fueron sometidos más rápido que otros pueblos de América, gracias a los parlamentos, y eso permitió a la Corona ocupar todo el territorio al sur del río
+a) Encomienda
+b) Cabildo
+c) Sociedad de frontera
+d) Virreinato
 
 ---
 
@@ -383,7 +383,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 9  | Alternativas | d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización | OA 11 | Historia | 1 |
 | 10 | Alternativas | a) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos | OA 11 | Historia | 1 |
 | 11 | Alternativas | c) Los malones y las expediciones militares entre mapuches y españoles | OA 12 | Historia | 1 |
-| 12 | Alternativas | **c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y mediante parlamentos como el de Quilín, un territorio autónomo, algo poco común en la América española.** | OA 12 | Historia | 2 |
+| 12 | Alternativas | **c) Sociedad de frontera.** En el Biobío la guerra convivió con el comercio, el mestizaje y los acuerdos, algo poco común en la América española. | OA 12 | Historia | 2 |
 | 13 | Alternativas | d) Jean-Jacques Rousseau | OA 14 | Historia | 1 |
 | 14 | Alternativas | a) La secularización | OA 14 | Historia | 1 |
 | 15 | Alternativas | c) Su acceso limitado a los cargos políticos más altos, reservados generalmente a los peninsulares | OA 16 | Historia | 1 |
