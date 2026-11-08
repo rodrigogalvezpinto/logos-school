@@ -6,10 +6,14 @@
  * debajo mesa», es decir, la respuesta, y «::contar::⭐::6::» decía el número que el niño debía
  * contar. Aquí los dibujos no se leen: el niño los mira. Solo se lee lo que la pantalla escribe.
  */
+import { RE_GRAFICO } from './graficos';
+import { RE_MAPA } from './mapas';
+
 const MARCADORES_SOLO_DIBUJO = [
   /::posicion::[^:\s]+::[a-z-]+::[^:\s]+::/g,
   /::fila::(?:[^:\s]+::){2,6}/g,
-  /::barras::(?:[^:=;]{1,24}=\d{1,4};?){2,8}::/g,
+  RE_GRAFICO, // barras, líneas, circular y cajón: se miran, no se leen
+  RE_MAPA,
   /::regla::\d{1,2}::\d{1,2}::/g,
   /::largo::[A-Z]::\d{1,2}::[A-Z]::\d{1,2}::/g,
   /::contar::[^:]+::\d{1,2}::/g,

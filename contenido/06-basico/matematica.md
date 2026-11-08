@@ -839,11 +839,19 @@ Vas a leer e interpretar información presentada en **gráficos de barras dobles
 
 **Ejemplo 1 — Leer un gráfico de barras dobles**
 
-Un gráfico de barras dobles muestra las ventas de dos tiendas (A y B) durante 3 meses. En enero, la tienda A vendió 40 unidades y la tienda B vendió 55 unidades (dos barras una al lado de la otra, para el mismo mes). Comparando las alturas de las barras, se concluye que en enero **la tienda B vendió más** que la tienda A.
+El gráfico de barras dobles muestra las ventas de dos tiendas (A y B) durante 3 meses. Cada mes tiene dos barras, una al lado de la otra:
+
+::barras::Enero=40/55;Febrero=50/45;Marzo=60/52::leyenda=Tienda A/Tienda B;y=Unidades vendidas::
+
+En enero, la barra de la tienda A llega a 40 y la de la tienda B a 55. Comparando las alturas de las barras, se concluye que en enero **la tienda B vendió más** que la tienda A.
 
 **Ejemplo 2 — Interpretar un gráfico circular en porcentajes**
 
-Un gráfico circular muestra cómo se distribuyen las preferencias deportivas de un curso: fútbol 50%, básquetbol 25%, vóleibol 15%, otros 10%. Si el curso tiene 40 estudiantes, ¿cuántos prefieren básquetbol?
+El gráfico circular muestra cómo se distribuyen las preferencias deportivas de un curso:
+
+::circular::Fútbol=50;Básquetbol=25;Vóleibol=15;Otros=10::
+
+Si el curso tiene 40 estudiantes, ¿cuántos prefieren básquetbol?
 
 25% de 40 = 0,25 × 40 = **10 estudiantes**.
 
@@ -853,7 +861,9 @@ En el gráfico circular del ejemplo anterior, se observa que fútbol (50%) reún
 
 #### Preguntas de autoevaluación
 
-**Pregunta 1 (alternativas).** Un gráfico circular muestra que el 40% de una encuesta prefiere el color azul. Si se encuestó a 150 personas, ¿cuántas prefieren el azul?
+**Pregunta 1 (alternativas).** El gráfico circular muestra el color preferido en una encuesta a 150 personas. ¿Cuántas personas prefieren el azul?
+
+::circular::Azul=40;Rojo=35;Verde=25::
 a) 40
 b) 60
 c) 4
@@ -867,7 +877,9 @@ d) 15
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* un gráfico circular representa el total de los datos (el "círculo completo"), por lo que todas sus porciones, expresadas como porcentaje, deben sumar exactamente 100%.
 
-**Pregunta 3 (alternativas — gráfico de barras dobles).** Un gráfico de barras dobles muestra los libros leídos por 6ºA y 6ºB en 4 meses: marzo (30 y 22), abril (18 y 35), mayo (26 y 20) y junio (33 y 24). ¿En qué mes 6ºB leyó más libros que 6ºA, y por cuántos?
+**Pregunta 3 (alternativas — gráfico de barras dobles).** El gráfico muestra los libros leídos por 6ºA y 6ºB en 4 meses. ¿En qué mes 6ºB leyó más libros que 6ºA, y por cuántos?
+
+::barras::Marzo=30/22;Abril=18/35;Mayo=26/20;Junio=33/24::leyenda=6ºA/6ºB;y=Libros leídos;valores=si::
 a) En marzo, por 8 libros
 b) En junio, por 9 libros
 c) En abril, por 17 libros
@@ -876,7 +888,9 @@ d) En abril, por 35 libros
 **Respuesta correcta: c) En abril, por 17 libros.**
 *Retroalimentación:* para comparar dos series se fija primero el mes y luego se compara la altura de ambas barras: solo en abril 6ºB supera a 6ºA (35 − 18 = 17).
 
-**Pregunta 4 (alternativas — porcentajes).** Un gráfico circular sobre el tiempo libre de 60 estudiantes muestra: pantallas 45%, deporte 30%, lectura 15%, otros 10%. ¿Cuántos estudiantes más prefieren pantallas que deporte?
+**Pregunta 4 (alternativas — porcentajes).** El gráfico circular muestra en qué ocupan su tiempo libre 60 estudiantes. ¿Cuántos estudiantes más prefieren pantallas que deporte?
+
+::circular::Pantallas=45;Deporte=30;Lectura=15;Otros=10::
 a) 15
 b) 9
 c) 27
@@ -885,7 +899,9 @@ d) 18
 **Respuesta correcta: b) 9.**
 *Retroalimentación:* pantallas: 45% de 60 = 27; deporte: 30% de 60 = 18; diferencia: 27 − 18 = 9. Restar los porcentajes (15) no da la cantidad de estudiantes.
 
-**Pregunta 5 (alternativas — comunicar una conclusión).** Un gráfico de barras dobles compara la temperatura máxima y mínima de una semana: todos los días la máxima es más alta y la diferencia se mantiene entre 8°C y 10°C. ¿Qué conclusión es válida?
+**Pregunta 5 (alternativas — comunicar una conclusión).** El gráfico de barras dobles compara la temperatura máxima y la mínima de cada día de una semana. ¿Qué conclusión es válida?
+
+::barras::Lun=18/9;Mar=20/11;Mié=17/9;Jue=21/11;Vie=19/10;Sáb=22/13;Dom=20/12::leyenda=Máxima/Mínima;y=Temperatura (°C);valores=si::
 a) La temperatura mínima fue mayor que la máxima en la mitad de los días
 b) Cada día hizo más calor que el anterior, porque las barras de la temperatura máxima van subiendo
 c) La diferencia entre la máxima y la mínima se mantuvo estable (entre 8°C y 10°C), sin cambios bruscos

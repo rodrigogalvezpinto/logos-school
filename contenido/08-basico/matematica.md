@@ -861,6 +861,10 @@ Significa que ese estudiante obtuvo un resultado igual o mejor que aproximadamen
 
 Un diagrama de cajón (boxplot) resume un conjunto de datos mostrando: el valor **mínimo**, el **Q1**, la **mediana (Q2)**, el **Q3**, y el valor **máximo**. La "caja" central va de Q1 a Q3 (representa el 50% central de los datos), con una línea marcando la mediana dentro de ella, y "bigotes" que se extienden hasta el mínimo y el máximo.
 
+::caja::Notas=3,2/4,8/5,5/6,2/6,9::x=Nota::
+
+En este diagrama de las notas de un curso se lee: mínimo 3,2; Q1 = 4,8 (borde izquierdo de la caja); mediana 5,5 (línea dentro de la caja); Q3 = 6,2 (borde derecho de la caja) y máximo 6,9.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Si un estudiante se ubica en el percentil 40 de una prueba, ¿qué significa?
@@ -895,7 +899,9 @@ d) Q1 = 13,5 y Q3 = 19
 **Respuesta correcta: a) Q1 = 9 y Q3 = 19.**
 *Retroalimentación:* Q1 es la mediana de la primera mitad (8 + 10)/2 = 9 y Q3 la de la segunda mitad (18 + 20)/2 = 19.
 
-**Pregunta 5 (alternativas — interpretar diagrama de cajón).** En un diagrama de cajón de notas, Q1 = 4,8, mediana = 5,5 y Q3 = 6,2. ¿Qué porcentaje aproximado de estudiantes obtuvo entre 4,8 y 6,2?
+**Pregunta 5 (alternativas — interpretar diagrama de cajón).** Observa el diagrama de cajón de las notas de un curso. ¿Qué porcentaje aproximado de estudiantes obtuvo entre 4,8 y 6,2, los extremos de la caja?
+
+::caja::Notas=3,2/4,8/5,5/6,2/6,9::x=Nota::
 a) 25%
 b) 75%
 c) 100%
@@ -904,7 +910,9 @@ d) 50%
 **Respuesta correcta: d) 50%.**
 *Retroalimentación:* por definición, entre Q1 y Q3 (la caja) se encuentra el 50% central de los datos.
 
-**Pregunta 6 (alternativas — comparar poblaciones).** La mediana de 8°A es 5,8 y la de 8°B es 5,2, pero el bigote superior de 8°B llega a 7,0 y el de 8°A a 6,5. ¿Qué se puede concluir?
+**Pregunta 6 (alternativas — comparar poblaciones).** Observa los diagramas de cajón de las notas de 8°A y 8°B. ¿Qué se puede concluir?
+
+::caja::8°A=4/5,2/5,8/6,2/6,5;8°B=3,5/4,6/5,2/6/7::x=Nota::
 a) 8°B tiene un rendimiento típico más alto en todos los casos, porque su bigote llega más arriba
 b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta
 c) Ambos cursos tienen exactamente el mismo rendimiento, porque sus bigotes terminan cerca
@@ -943,7 +951,11 @@ Vas a evaluar la forma en que los datos están presentados: comparando la misma 
 
 **Ejemplo 1 — Detectar un eje truncado (manipulación común)**
 
-Un gráfico de barras muestra las ventas de dos productos: Producto A con una barra que llega a "98" y Producto B con una barra que llega a "100", pero el eje vertical (y) parte en 95 en vez de 0. Visualmente, la barra de B parece el doble de alta que la de A, aunque la diferencia real es mínima (98 vs 100, menos de un 2%).
+Este gráfico de barras muestra las ventas de dos productos. Fíjate en dónde parte el eje vertical:
+
+::barras::Producto A=98;Producto B=100::eje=95::
+
+El Producto A vendió 98 y el Producto B, 100, pero el eje vertical (y) parte en 95 en vez de 0. Visualmente, la barra de B parece el doble de alta que la de A, aunque la diferencia real es mínima (98 vs 100, menos de un 2%).
 
 Esta es una manipulación llamada **truncamiento del eje**: al no partir el eje en 0, se exageran visualmente diferencias pequeñas. Un gráfico honesto debe partir su eje numérico en 0, o advertir claramente el corte.
 
@@ -989,7 +1001,9 @@ d) Circular, porque muestra cómo un total (100%) se reparte entre categorías
 **Respuesta correcta: d) Circular, porque muestra cómo un total (100%) se reparte entre categorías.**
 *Retroalimentación:* el gráfico circular es ideal para partes de un todo con pocas categorías.
 
-**Pregunta 5 (alternativas — detectar manipulación).** Un gráfico de barras compara ventas de 50 (2024) y 52 (2025), pero el eje vertical va de 48 a 53. ¿Qué efecto produce y cómo se corrige?
+**Pregunta 5 (alternativas — detectar manipulación).** El gráfico de barras compara las ventas de 2024 y 2025. Observa dónde parte el eje vertical. ¿Qué efecto produce y cómo se corrige?
+
+::barras::2024=50;2025=52::eje=48::
 a) Reduce visualmente la diferencia entre ambos años; se corrige iniciando el eje en 52, el valor más alto del gráfico
 b) Exagera la diferencia (la barra de 2025 se ve el doble de alta, aunque el aumento real es 4%); se corrige iniciando el eje en 0
 c) No produce ningún efecto visual, porque los valores de las barras siguen siendo 50 y 52 aunque cambie la escala

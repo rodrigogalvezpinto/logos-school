@@ -20,6 +20,9 @@
   --color-alerta-texto: #fbbf24;
   --color-error-texto: #f87171;
   --sombra-tarjeta: none;
+  --fila-alterna: rgba(255, 255, 255, 0.04);
+  --fila-hover: rgba(255, 255, 255, 0.08);
+  --superficie-suave: rgba(183, 174, 242, 0.12);
 
   min-height: 100vh;
   background: var(--fondo-examen);

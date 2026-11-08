@@ -232,12 +232,9 @@ d) 9 combinaciones
 
 ---
 
-**Pregunta 23 (alternativas).** Un gráfico circular muestra los resultados de una encuesta a 250 personas sobre su mascota preferida:
+**Pregunta 23 (alternativas).** El gráfico circular muestra los resultados de una encuesta a 250 personas sobre su mascota preferida:
 
-| Preferencia | Porcentaje |
-|---|---|
-| Perro | 44% |
-| Otras mascotas | 56% |
+::circular::Perro=44;Otras mascotas=56::
 
 ¿Cuántas personas prefieren al perro?
 
@@ -248,12 +245,9 @@ d) 140
 
 ---
 
-**Pregunta 24 (alternativas).** Un gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
+**Pregunta 24 (alternativas).** El gráfico de barras dobles compara la asistencia a dos talleres (Teatro y Música) en los dos primeros trimestres:
 
-| Taller | Trimestre 1 | Trimestre 2 |
-|---|---|---|
-| Teatro | 45 | 30 |
-| Música | 38 | 52 |
+::barras::Trimestre 1=45/38;Trimestre 2=30/52::leyenda=Teatro/Música;y=Asistentes;valores=si::
 
 ¿En qué trimestre tuvo más asistentes el taller de Música, y cuántos más que Teatro ese trimestre?
 
@@ -264,7 +258,11 @@ d) En el trimestre 1, con 8 asistentes más que Teatro
 
 ---
 
-**Pregunta 25 (alternativas).** Un gráfico circular sobre el presupuesto de un club escolar muestra: materiales 40%, transporte 35%, premios 25%. Si el club cuenta con $1.800.000, ¿cuánto dinero corresponde a cada categoría?
+**Pregunta 25 (alternativas).** El gráfico circular muestra cómo se reparte el presupuesto de un club escolar:
+
+::circular::Materiales=40;Transporte=35;Premios=25::
+
+Si el club cuenta con $1.800.000, ¿cuánto dinero corresponde a cada categoría?
 
 a) Materiales $720.000, transporte $630.000 y premios $450.000
 b) Materiales $40.000, transporte $35.000 y premios $25.000

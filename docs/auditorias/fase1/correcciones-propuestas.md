@@ -29,7 +29,7 @@ reimportación y app) al cerrar cada grupo.
 
 Eran unos 39 indicadores; 2 resultaron estar cubiertos (falsos vacíos) y se agregó 1 pregunta por indicador en la guía (31 en total).
 
-## B. Gráficos, mapas y esquemas que hoy se describen con palabras (afecta a muchos indicadores «débiles»)
+## B. Gráficos, mapas y esquemas que hoy se describen con palabras (afecta a muchos indicadores «débiles») — ✅ APLICADO 2026-11-07 (§15.36; quedan mapas de otras regiones del mundo, 6.°–7.° básico)
 
 El temario pide **leer e interpretar** gráficos de barras, de línea, circulares, pictogramas,
 diagramas de cajón, gráficos de funciones y de movimiento, y mapas. Hoy se describen con texto o tablas.

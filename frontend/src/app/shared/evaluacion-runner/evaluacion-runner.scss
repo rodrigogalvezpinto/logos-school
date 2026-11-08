@@ -393,6 +393,7 @@
     padding: 0.5rem 0.6rem;
     border-bottom: 1px solid var(--borde);
   }
+  th { color: var(--texto-principal); }
 }
 .resultado__ok {
   display: inline-block;
@@ -417,6 +418,7 @@
 }
 .resultado__revisar {
   background: none;
+  color: var(--texto-principal);
   border: 1px solid var(--borde);
   border-radius: var(--radio-media);
   padding: 0.25rem 0.6rem;
@@ -427,6 +429,8 @@
   background: var(--fondo-tarjeta);
   td {
     text-align: left;
+    background: var(--fondo-tarjeta) !important; // no hereda la fila alterna
+    color: var(--texto-principal);
   }
 }
 .resultado__enunciado {

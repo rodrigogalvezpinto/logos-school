@@ -8,7 +8,7 @@ tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
 fuente: contenido/06-basico/matematica.md (banco de preguntas por OA)
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","5":"OA 19","6":"OA 19","8":"OA 23","9":"OA 23","11":"OA 24","12":"OA 24"}
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","5":"OA 19","6":"OA 19","8":"OA 23","9":"OA 23","10":"OA 24","11":"OA 24","12":"OA 24"}
 ---
 
 # Prueba de Unidad — Matemática 6° Básico
@@ -84,20 +84,29 @@ b) Hay más bolitas azules que rojas, en una razón cercana a 3:7
 c) Hay la misma cantidad de cada color, porque el azar es parejo
 d) Hay más bolitas rojas que azules, en una razón cercana a 7:3
 
-**Pregunta 10 (alternativas).** Un gráfico circular muestra que el 40% de una encuesta prefiere el color azul. Si se encuestó a 150 personas, ¿cuántas prefieren el azul?
-a) 40
-b) 60
-c) 4
-d) 15
+**Pregunta 10 (alternativas).** El gráfico circular muestra el deporte preferido en una encuesta a 200 personas. ¿Cuántas personas prefieren el tenis?
 
-**Pregunta 11 (interpretar gráfico de barras dobles).** Un gráfico de barras dobles muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. En marzo, 6ºA leyó 30 libros y 6ºB leyó 22 libros; en abril, 6ºA leyó 18 libros y 6ºB leyó 35 libros; en mayo, 6ºA leyó 26 libros y 6ºB leyó 20 libros; en junio, 6ºA leyó 33 libros y 6ºB leyó 24 libros. ¿En qué mes leyó más libros el curso 6ºB, y cuántos más leyó que 6ºA ese mes?
+::circular::Fútbol=45;Tenis=30;Natación=25::
+
+a) 30
+b) 60
+c) 6
+d) 20
+
+**Pregunta 11 (interpretar gráfico de barras dobles).** El gráfico muestra la cantidad de libros leídos por dos cursos (6ºA y 6ºB) durante 4 meses. ¿En qué mes leyó 6ºB más libros que 6ºA, y cuántos más?
+
+::barras::Marzo=28/20;Abril=22/31;Mayo=25/19;Junio=30/26::leyenda=6ºA/6ºB;y=Libros leídos;valores=si::
 
 a) En marzo, por 8 libros
-b) En junio, por 9 libros
-c) En abril, por 17 libros
-d) En abril, por 35 libros
+b) En junio, por 4 libros
+c) En abril, por 9 libros
+d) En abril, por 31 libros
 
-**Pregunta 12 (problema no rutinario — gráfico circular).** En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, la porción de "caminando" ocupa exactamente un cuarto del círculo. ¿Qué porcentaje de estudiantes camina para llegar al colegio, y si el colegio tiene 320 estudiantes, cuántos de ellos caminan?
+**Pregunta 12 (problema no rutinario — gráfico circular).** En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, la porción de "Caminando" ocupa exactamente un cuarto del círculo.
+
+::circular::Caminando=25;Bus=45;Auto=30::valores=no::
+
+¿Qué porcentaje de estudiantes camina para llegar al colegio, y si el colegio tiene 320 estudiantes, cuántos de ellos caminan?
 
 a) 4% y 13 estudiantes
 b) 25% y 25 estudiantes
@@ -117,6 +126,6 @@ d) 40% y 128 estudiantes
 7. **d) 50** — 300 ÷ 6 = 50.
 8. c) 8 — 2×2×2 = 8 (CCC, CCS, CSC, CSS, SCC, SCS, SSC, SSS).
 9. d) Hay más bolitas rojas que azules, en una razón cercana a 7:3. Se observó 70% rojas y 30% azules.
-10. **b) 60** — 40% de 150 = 60.
-11. c) En abril, por 17 libros — 6ºB leyó 35 en abril, 17 más que 6ºA (35 − 18).
+10. **b) 60** — 30% de 200 = 0,3 × 200 = 60.
+11. c) En abril, por 9 libros — es el único mes en que la barra de 6ºB supera a la de 6ºA: 31 − 22 = 9.
 12. c) 25% y 80 estudiantes — un cuarto = 25%; 25% de 320 = 80.

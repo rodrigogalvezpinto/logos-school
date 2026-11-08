@@ -29,6 +29,20 @@ describe('textoParaVoz - lo que se lee en voz alta', () => {
   });
 });
 
+describe('textoParaVoz - gráficos', () => {
+  it('no lee los datos de los gráficos: se miran', () => {
+    const t = textoParaVoz('::linea::Lun=12;Mar=15::y=°C:: ¿Qué día hizo más calor?');
+    expect(t).not.toContain('12');
+    expect(t).toContain('¿Qué día hizo más calor?');
+  });
+
+  it('no lee las marcas del mapa (darían la respuesta)', () => {
+    const t = textoParaVoz('::mapa::sudamerica::A@Perú::rosa=si:: ¿Qué país es la letra A?');
+    expect(t).not.toContain('Perú');
+    expect(t).toContain('¿Qué país es la letra A?');
+  });
+});
+
 describe('textoPreguntaParaVoz - enunciado y alternativas', () => {
   it('lee las alternativas con letra, en orden', () => {
     const t = textoPreguntaParaVoz({

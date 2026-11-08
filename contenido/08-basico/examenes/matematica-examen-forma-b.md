@@ -239,7 +239,9 @@ d) Q1 = 32 y Q3 = 40
 
 ---
 
-**Pregunta 23 (Alternativas).** En un diagrama de cajón de tiempos de prueba, la mediana del Grupo C es 18 min y la del D, 20 min; el bigote superior de C llega a 30 min y el de D a 24 min. ¿Qué se puede concluir?
+**Pregunta 23 (Alternativas).** Observa los diagramas de cajón de los tiempos que tardaron dos grupos en terminar una prueba. ¿Qué se puede concluir?
+
+::caja::Grupo C=10/15/18/22/30;Grupo D=12/16/20/21/24::x=Minutos::
 
 a) El Grupo C tiene un tiempo típico menor, pero tiene al menos un caso mucho más lento que cualquiera de D
 b) El Grupo D tiene un tiempo típico menor que C, y además su caso más lento es más lento que cualquiera de C
@@ -257,7 +259,9 @@ d) Ninguno de los anteriores
 
 ---
 
-**Pregunta 25 (Alternativas).** Un gráfico de barras compara ventas de 204 (Tienda X) y 210 (Tienda Y), pero el eje vertical parte en 200. ¿Qué efecto produce y cómo se corrige?
+**Pregunta 25 (Alternativas).** El gráfico de barras compara las ventas de dos tiendas: 204 (Tienda X) y 210 (Tienda Y). Observa dónde parte el eje vertical. ¿Qué efecto produce y cómo se corrige?
+
+::barras::Tienda X=204;Tienda Y=210::eje=200::
 
 a) Reduce visualmente la diferencia entre las tiendas; se corrige iniciando el eje en 210
 b) No produce ningún efecto, porque los valores de las barras siguen siendo los mismos

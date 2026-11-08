@@ -163,7 +163,10 @@ d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los inc
 
 ---
 
-**5. (Alternativas — análisis de mapa)** Imagina un mapa de América donde se han marcado dos zonas con color: la **Zona A**, ubicada en el centro de México y Centroamérica, y la **Zona B**, que sigue la cordillera de los Andes desde Ecuador hasta el norte de Chile. ¿Qué civilizaciones corresponden a cada zona?
+**5. (Alternativas — análisis de mapa)** En el mapa de América se marcaron dos zonas con las letras A y B. ¿Qué civilizaciones se desarrollaron en cada zona?
+
+::mapa::america::A@19.5,-97;B@-13.5,-72.5::rosa=si::
+
 a) Zona A: incas (espacio andino); Zona B: mayas y aztecas (espacio mesoamericano)
 b) Zona A: aztecas e incas (espacio mesoamericano); Zona B: mayas (espacio andino)
 c) Las dos zonas corresponden a los incas, que ocuparon primero México y luego los Andes
@@ -276,7 +279,9 @@ veranos calurosos y secos, e inviernos más fríos y lluviosos.
 
 ---
 
-**4. (Alternativas — análisis de mapa)** Imagina un mapa de América con tres ríos marcados con números: (1) un río muy caudaloso que cruza la selva de Brasil; (2) un río que atraviesa el centro de Estados Unidos; (3) un río que nace en la cordillera y desemboca en el Pacífico, cerca de Concepción. ¿Qué río corresponde a cada número?
+**4. (Alternativas — análisis de mapa)** Observa el mapa de América, con tres ríos marcados con números: (1) un río muy caudaloso que cruza la selva de Brasil; (2) un río que atraviesa el centro de Estados Unidos; (3) un río que nace en la cordillera y desemboca en el Pacífico, cerca de Concepción. ¿Qué río corresponde a cada número?
+
+::mapa::america::1@-3.3,-60;2@35,-90.3;3@-37.3,-72.6::
 a) (1) Biobío — (2) Amazonas — (3) Mississippi
 b) (1) Mississippi — (2) Biobío — (3) Amazonas
 c) (1) Amazonas — (2) Mississippi — (3) Biobío
@@ -383,7 +388,9 @@ usan más rápido de lo que la naturaleza los regenera.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** Imagina un mapa de América con símbolos: una gota de agua sobre Brasil (bosques y agua), un casco de minero sobre el norte de Chile (minería), un grano de café sobre Colombia, y un pez sobre la costa de Perú y Chile. ¿Qué relación existe entre la ubicación de cada símbolo y el recurso que representa?
+**3. (Alternativas — análisis de mapa)** Observa el mapa de América con símbolos: una gota de agua sobre Brasil (bosques y agua), un casco de minero sobre el norte de Chile (minería), un grano de café sobre Colombia, y un pez sobre la costa de Perú y Chile. ¿Qué relación existe entre la ubicación de cada símbolo y el recurso que representa?
+
+::mapa::america::💧@-7,-56;⛏️@-23,-68.6;☕@4.5,-74;🐟@-15,-80::
 a) Los símbolos se ubicaron al azar, sin relación con el territorio, solo para decorar el mapa con dibujos
 b) Todos los países tienen exactamente los mismos recursos, y el mapa muestra solo uno por falta de espacio
 c) Cada símbolo marca el recurso natural más característico de esa zona, según su clima, relieve y condiciones naturales

@@ -155,9 +155,12 @@ andino.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa
-junto a canales e islas en el extremo sur del país. ¿A qué pueblo o pueblos corresponde este
+**3. (Alternativas — análisis de mapa)** En el mapa de Chile se dibujó un ícono de canoa
+junto a los canales e islas del extremo sur del país. ¿A qué pueblo o pueblos corresponde este
 ícono?
+
+::mapa::chile::🛶@-52,-73.5::rosa=si::
+
 a) A los aymara, que vivían en el altiplano del norte del país
 b) A los mapuche, que vivían en los valles y bosques del centro-sur
 c) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
@@ -720,10 +723,11 @@ por la Cordillera de los Andes.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** En un mapa de América del Sur se señalan tres
-países con letras: la letra A está justo al norte de Chile, la letra B está al noreste de
-Chile, y la letra C está al este de Chile, compartiendo la frontera más extensa. ¿Qué país
-corresponde a cada letra?
+**3. (Alternativas — análisis de mapa)** Observa el mapa de América del Sur: Chile está
+pintado y tres países vecinos tienen letras. ¿Qué país corresponde a cada letra?
+
+::mapa::sudamerica::A@Perú;B@Bolivia;C@Argentina::pintar=Chile;rosa=si::
+
 a) A = Bolivia, B = Perú, C = Argentina
 b) A = Perú, B = Bolivia, C = Argentina
 c) A = Argentina, B = Bolivia, C = Perú
@@ -761,9 +765,11 @@ Valparaíso en la Región de Valparaíso). Averigua cuál es la capital de tu re
 
 ---
 
-**6. (Alternativas — análisis de mapa, desafiante)** Un mapa muestra a Bolivia ubicada
-entre Perú y Argentina, mirando desde Chile. Si Perú está al norte y Argentina está al este de
-Chile, ¿en qué dirección aproximada se ubica Bolivia?
+**6. (Alternativas — análisis de mapa, desafiante)** Observa el mapa y la rosa de los
+vientos. ¿En qué dirección aproximada se ubica Bolivia respecto de Chile?
+
+::mapa::sudamerica::::pintar=Chile;nombres=si;rosa=si::
+
 a) Al sur de Chile
 b) Al oeste de Chile
 c) Al noreste de Chile

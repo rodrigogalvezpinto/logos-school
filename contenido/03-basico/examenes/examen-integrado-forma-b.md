@@ -53,7 +53,9 @@ d) No se puede saber
 
 ---
 
-**3. (Ciencias Naturales — Alternativas)** [Imagen: un mapa de Chile con un cactus dibujado en el norte y una araucaria dibujada en el sur]
+**3. (Ciencias Naturales — Alternativas)** Mapa de Chile con un cactus dibujado en el norte y una araucaria dibujada en el sur.
+
+::mapa::chile::🌵@-24,-69.6;🌲@-38.3,-71.9::
 
 ¿Por qué el cactus crece de forma nativa en el norte de Chile y la araucaria en el sur, y no al revés?
 

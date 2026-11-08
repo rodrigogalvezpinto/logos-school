@@ -1090,7 +1090,9 @@ Equipo Verde: 4 pelotas × 2 = 8 goles. Equipo Azul: 2 pelotas × 2 = 4 goles. D
 
 **Ejemplo 3 — Leer un gráfico de barra simple**
 
-::emoji::📊::un gráfico de barras que muestra la cantidad de alumnos que llegan al colegio en distintos medios: a pie (barra hasta el 12), en auto (barra hasta el 8), en bicicleta (barra hasta el 5)::
+Gráfico de barras: cantidad de alumnos que llegan al colegio en cada medio de transporte.
+
+::barras::A pie=12;En auto=8;En bicicleta=5::
 
 ¿Cuántos alumnos llegan a pie al colegio? Leemos la altura de la barra "a pie": llega hasta el número 12, por lo tanto **12 alumnos** llegan a pie.
 

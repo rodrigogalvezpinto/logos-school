@@ -52,9 +52,11 @@ d) Norte Grande → Zona Central → Norte Chico → Zona Sur → Zona Austral
 
 ---
 
-**4. (Alternativas — análisis de mapa)** Imagina un mapa de Chile donde una zona está marcada con símbolos
-de fiordos, glaciares y ovejas, y tiene muy baja densidad de población. ¿A qué zona natural
-corresponde esta descripción?
+**4. (Alternativas — análisis de mapa)** En el mapa de Chile, una zona está marcada con un cactus y un
+casco de minero; además, tiene clima desértico y casi no llueve. ¿A qué zona natural
+corresponde?
+
+::mapa::chile::🌵@-20.5,-69.4;⛏️@-23.5,-69.2::
 
 a) Norte Grande
 b) Zona Central
@@ -97,10 +99,12 @@ renovables.
 
 ---
 
-**9. (Alternativas — análisis de mapa)** Imagina un mapa de Chile con tres símbolos: un árbol sobre la Zona
+**9. (Alternativas — análisis de mapa)** Observa el mapa de Chile con tres símbolos: un árbol sobre la Zona
 Sur, un pez sobre gran parte de la costa del país, y un casco de minero sobre el Norte Grande
 y Norte Chico. ¿Qué relación existe entre la geografía de cada zona y el recurso natural que
 se representa?
+
+::mapa::chile::🌲@-40.3,-72.6;🐟@-29,-73.4;⛏️@-23.5,-69.2::
 
 a) Los símbolos se ubicaron al azar en el mapa, porque todos los recursos se encuentran por igual en cualquier zona del país, sin depender del clima ni del relieve
 b) Todos los recursos están en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos solo muestran dónde se venden los productos
@@ -148,7 +152,7 @@ densidad y cantidad de población de Chile.
 
 **3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
 
-**4.** d) Zona Austral. Clima frío, fiordos, glaciares, ganadería ovina y muy baja densidad de población.
+**4.** a) Norte Grande. Clima desértico, casi sin lluvias, con grandes yacimientos mineros.
 
 **5.** b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies
 litorales. La Zona Central presenta con mayor claridad las cuatro macroformas de relieve de

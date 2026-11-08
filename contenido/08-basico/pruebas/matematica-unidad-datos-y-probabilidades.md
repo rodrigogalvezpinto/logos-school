@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 8° Básico
-oa_por_pregunta: {"1":"OA 15","3":"OA 15","7":"OA 15","10":"OA 16","11":"OA 16","12":"OA 16","13":"OA 16","14":"OA 16"}
+oa_por_pregunta: {"1":"OA 15","3":"OA 15","5":"OA 15","6":"OA 15","7":"OA 15","10":"OA 16","11":"OA 16","12":"OA 16","13":"OA 16","14":"OA 16"}
 eje: Datos y Probabilidades (OA 15, OA 16)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 4: Datos y Probabilidades
@@ -37,14 +37,18 @@ b) Q1 = 8 y Q3 = 20
 c) Q1 = 10 y Q3 = 18
 d) Q1 = 13,5 y Q3 = 19
 
-**Pregunta 5 (Alternativas — interpretar diagrama de cajón).** En un diagrama de cajón de notas, Q1 = 4,8, mediana = 5,5 y Q3 = 6,2. ¿Qué porcentaje aproximado de estudiantes obtuvo entre 4,8 y 6,2?
+**Pregunta 5 (Alternativas — interpretar diagrama de cajón).** El diagrama de cajón muestra cuántos minutos tardaron los estudiantes de un curso en resolver un desafío. ¿Qué porcentaje aproximado de estudiantes tardó entre 12 y 19 minutos?
+
+::caja::Tiempos=8/12/15/19/27::x=Minutos::
 
 a) 25%
 b) 75%
 c) 100%
 d) 50%
 
-**Pregunta 6 (Alternativas — comparar poblaciones).** La mediana de 8°A es 5,8 y la de 8°B es 5,2, pero el bigote superior de 8°B llega a 7,0 y el de 8°A a 6,5. ¿Qué se puede concluir?
+**Pregunta 6 (Alternativas — comparar poblaciones).** Observa los diagramas de cajón de las notas de 8°A y 8°B en una prueba de Ciencias. ¿Qué se puede concluir?
+
+::caja::8°A=4,2/5,1/5,6/6/6,4;8°B=3,6/4,4/5/5,9/6,9::x=Nota::
 
 a) 8°B tiene un rendimiento típico más alto en todos los casos, porque su bigote llega más arriba
 b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta
@@ -79,12 +83,14 @@ b) De líneas, porque muestra cómo cambian las preferencias del curso en el tie
 c) De tallo y hojas, porque ordena los datos numéricos de cada actividad
 d) Diagrama de cajón, porque muestra los cuartiles de las preferencias
 
-**Pregunta 12 (Alternativas — detectar manipulación).** Un gráfico de barras compara ventas de 50 (2024) y 52 (2025), pero el eje vertical va de 48 a 53. ¿Qué efecto produce y cómo se corrige?
+**Pregunta 12 (Alternativas — detectar manipulación).** El gráfico de barras compara las ventas de una tienda en 2024 y 2025. Observa dónde parte el eje vertical. ¿Qué efecto produce y cómo se corrige?
 
-a) Reduce visualmente la diferencia entre ambos años; se corrige iniciando el eje en 52, el valor más alto del gráfico
-b) No produce ningún efecto visual, porque los valores de las barras siguen siendo 50 y 52 aunque cambie la escala
+::barras::2024=80;2025=84::eje=78::
+
+a) Reduce visualmente la diferencia entre ambos años; se corrige iniciando el eje en 84, el valor más alto del gráfico
+b) No produce ningún efecto visual, porque los valores de las barras siguen siendo 80 y 84 aunque cambie la escala
 c) Muestra la diferencia real entre las ventas de ambos años; no requiere ninguna corrección del eje vertical
-d) Exagera la diferencia (la barra de 2025 se ve el doble de alta, aunque el aumento real es 4%); se corrige iniciando el eje en 0
+d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0
 
 **Pregunta 13 (Alternativas — comparar gráficos).** Se quiere comunicar el total anual de ventas de una tienda y el aporte de cada uno de sus 4 vendedores. ¿Qué gráfico es más apropiado?
 
@@ -108,13 +114,13 @@ d) Un gráfico circular mal dibujado; no importa detectarlo, porque los valores 
 2. **Verdadero.** Q2 divide los datos exactamente por la mitad, igual que la mediana.
 3. **b) 11.** Ordenados: 8,9,10,12,15,20. Mediana = (10+12)/2=11.
 4. a) Q1 = 9 y Q3 = 19. Q1 es la mediana de la primera mitad (8 + 10)/2 = 9 y Q3 la de la segunda mitad (18 + 20)/2 = 19.
-5. d) 50%. Por definición, entre Q1 y Q3 (la caja) se encuentra el 50% central de los datos.
+5. d) 50%. 12 y 19 son los bordes de la caja (Q1 y Q3); por definición, entre Q1 y Q3 se encuentra el 50% central de los datos.
 6. b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta. El diagrama de cajón permite comparar el valor típico (mediana) y también los valores extremos.
 7. c) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior. Un bigote mucho más largo que el otro sugiere asimetría y posibles valores extremos en esa dirección.
 8. **b) Truncar el eje vertical, es decir, no comenzarlo en 0.**
 9. **Falso.** El circular sirve para mostrar partes de un todo, no evolución en el tiempo.
 10. **c) Distorsión visual por efecto de perspectiva/3D.**
 11. a) Circular, porque muestra cómo un total (100%) se reparte entre categorías. El gráfico circular es ideal para partes de un todo con pocas categorías.
-12. d) Exagera la diferencia (la barra de 2025 se ve el doble de alta, aunque el aumento real es 4%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
+12. d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
 13. b) Circular, porque muestra partes de un todo. El gráfico de líneas sirve para mostrar evolución en el tiempo, que no es el objetivo aquí.
 14. c) Un eje truncado o escala no proporcional; hace creer que creció mucho más que el 20% real. Comparar los valores numéricos con su representación visual ayuda a detectar manipulaciones, especialmente en publicidad.

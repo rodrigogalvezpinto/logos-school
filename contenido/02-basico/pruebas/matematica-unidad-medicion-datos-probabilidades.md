@@ -72,16 +72,24 @@ d) 8
 
 ---
 
-**Pregunta 7.** Según un gráfico de barras donde "en bicicleta" llega hasta el número 5, ¿cuántos alumnos llegan al colegio en bicicleta?
+**Pregunta 7.** El gráfico muestra cómo llegan al colegio los alumnos de un curso.
 
-a) 12
-b) 8
-c) 17
-d) 5
+::barras::A pie=9;En auto=6;En bicicleta=4::
+
+¿Cuántos alumnos llegan al colegio en bicicleta?
+
+a) 9
+b) 6
+c) 13
+d) 4
 
 ---
 
-**Pregunta 8.** En ese mismo gráfico, "a pie" llega hasta el 12 y "en auto" hasta el 8. ¿Qué medio de transporte usan más alumnos para llegar al colegio?
+**Pregunta 8.** El gráfico muestra cómo llegan al colegio los alumnos de un curso.
+
+::barras::A pie=9;En auto=6;En bicicleta=4::
+
+¿Qué medio de transporte usan más alumnos para llegar al colegio?
 
 a) En auto
 b) En bicicleta
@@ -97,5 +105,5 @@ c) A pie
 4. **c) 3.** Sello salió 3 veces según la tabla.
 5. b) Cara. Cara salió 7 veces, más que las 3 de sello.
 6. **b) 4.** 2 pelotas × 2 goles cada una = 4 goles.
-7. d) 5. La barra de "en bicicleta" llega hasta el número 5.
-8. c) A pie. "A pie" tiene la barra más alta (12 alumnos).
+7. d) 4. La barra de "En bicicleta" llega hasta el número 4.
+8. c) A pie. "A pie" tiene la barra más alta (9 alumnos).

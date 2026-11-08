@@ -1547,3 +1547,42 @@ la guía y en las pruebas de unidad.
 - Chromium: 1.° medio 24/24, 2.° medio 24/24, 4.° medio 23/23 y 5.°, 6.°, 7.° y 8.° básico 24/24 cada uno.
 
 **Pendiente, en el orden aprobado:** B (gráficos, mapas y esquemas) → C.2 (pruebas de unidad) → D.
+
+### 15.36 Fase 1 — B: gráficos y mapas dibujados; base del usuario recargada; contraste del resultado (2026-11-07)
+
+**Gráficos (`frontend/src/app/shared/graficos.ts`).**
+- Marcadores `::barras::`, `::linea::`, `::circular::` y `::caja::`, todos con la misma gramática.
+- Opciones: dos series con leyenda, eje que no parte en 0 (con el corte marcado), títulos de los ejes, cifras sobre las barras y circular sin porcentajes.
+- Se reemplazaron unas 30 descripciones en palabras en Matemática de 2.° a 8.° básico, Lenguaje de 4.° básico, Lengua de 7.° básico y Física de 2.° medio.
+- Varias preguntas de prueba traían la respuesta en el enunciado («la barra llega hasta el 5»). Se rehicieron con datos nuevos, lo que también resuelve su copia de la guía (C.2).
+- `oa_por_pregunta` explícito en dos pruebas, donde el OA se deducía de la copia.
+
+**Mapas (`frontend/src/app/shared/mapas.ts`).**
+- Marcador `::mapa::america|sudamerica|chile::marcas::opciones::`.
+- Marcas: letras, íconos o rótulos, ubicados por país o por coordenadas.
+- Opciones: pintar países, nombres, rosa de los vientos y zonas naturales de Chile.
+- Contornos de Natural Earth 1:50m (dominio público), generados con `scripts/mapas/generar_mapas.py` (84 KB).
+- Se reemplazaron unos 20 «Imagina un mapa…» y `[Imagen: mapa…]` de 1.° a 5.° básico.
+- Siguen con texto los mapas de otras regiones del mundo de 6.° y 7.° básico (imperio romano, Mesoamérica, civilizaciones fluviales).
+
+**Hallazgo del usuario (capturas).**
+1. **Simulacro con preguntas de desarrollo y la «HOJA DE RESPUESTAS» como pregunta.** El material ya no las tiene. La base local `logos_qa` nunca se había recargado después de la conversión: tenía 3.287 preguntas de desarrollo y 41 con la hoja pegada.
+   - Se respaldó en `~/Documents/Logos-respaldos/`.
+   - Se recreó desde `contenido/`: 6.181 preguntas cerradas, 0 sin OA.
+2. **Resultado en modo examen con texto blanco sobre fondo blanco.**
+   - El estilo global de tablas usaba `#fafafa` y `#f1f5f9` fijos. Ahora usa `--fila-alterna` y `--fila-hover`, redefinidas en `.examen-fondo`.
+   - El botón «Revisar» no tenía color de texto y el detalle heredaba la fila clara. Ambos corregidos.
+   - Verificado en la app real: simulacro de 1.° básico entregado y detalle abierto.
+
+**Pendiente:** D, con 32 marcadores `[Imagen: …]` en 1.° a 3.° básico que se ven como «🖼️ descripción», a la espera de que el usuario elija una fuente de ilustraciones.
+
+**Corrección durante la verificación.** Marked convertía «A@19.5» en un enlace `mailto`, y el mapa quedaba
+como texto crudo en 1.° y 4.° básico. Ahora mapas y gráficos se dibujan antes de marked, con una prueba
+unitaria para este caso.
+
+**Verificación.**
+- Pruebas unitarias: 55/55.
+- Validador: 0 discrepancias.
+- Importación: 6.181 preguntas, 0 sin OA.
+- Chromium: 3.°, 5.°, 6.° y 7.° básico y 2.° medio.
+- Tres navegadores: 1.° básico 54/54, 2.° básico 54/54, 4.° básico 54/54 y 8.° básico 72/72. Dos fallas de tiempo (Firefox en Geografía de 2.° básico y WebKit en Geometría de 8.° básico) pasaron al repetirlas solas.

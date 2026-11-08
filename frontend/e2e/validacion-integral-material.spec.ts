@@ -36,7 +36,7 @@ const fixture: { niveles: Nivel[]; claves: Record<string, Clave> } | null = exis
 const FILTRO_NIVEL = process.env['LOGOS_VALIDAR_NIVEL'];
 
 const normalizar = (s: string) => s.replace(/\s+/g, ' ').trim();
-const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji|fraccion|posicion|fila|largo|regla|balanza|barras)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m, /\bundefined\b/, /\[object Object\]/];
+const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji|fraccion|posicion|fila|largo|regla|balanza|barras|linea|circular|caja|mapa)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m, /\bundefined\b/, /\[object Object\]/];
 
 function rutValido(semilla: number): string {
   const cuerpo = String(15000000 + (semilla % 9000000));
@@ -102,7 +102,7 @@ async function responderCorrecto(page: Page, p: PreguntaApi, clave: Clave, ref: 
   }
   const opciones = (clave.opciones ?? []).map(normalizar);
   // Opciones con marcador visual (::contar::🍎::9::) se dibujan: se compara el texto solo en las demás.
-  const visual = (o: string) => /::(contar|emoji|dibujo|fraccion|posicion|fila|largo|regla|balanza|barras)::/.test(o);
+  const visual = (o: string) => /::(contar|emoji|dibujo|fraccion|posicion|fila|largo|regla|balanza|barras|linea|circular|caja|mapa)::/.test(o);
   expect(textos.length, `${ref}: cantidad de opciones`).toBe(opciones.length);
   opciones.forEach((o, j) => {
     if (visual(o)) expect(textos[j], `${ref}: opción visual dibujada, sin marcador crudo`).not.toContain('::');

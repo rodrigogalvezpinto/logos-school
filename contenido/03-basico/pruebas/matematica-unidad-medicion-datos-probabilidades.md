@@ -69,17 +69,21 @@ b) 7
 c) 30
 d) 25
 
-**Pregunta 8 (leer gráfico de barra).** Según un gráfico de barras de deportes favoritos de un curso (fútbol: 10, básquetbol: 6, natación: 8 estudiantes), ¿qué deporte fue elegido por más estudiantes?
+*(Observa el gráfico de deportes favoritos de un curso para responder las preguntas 8 y 9.)*
+
+::barras::Fútbol=12;Básquetbol=5;Natación=9::
+
+**Pregunta 8 (leer gráfico de barra).** Según el gráfico, ¿qué deporte fue elegido por más estudiantes?
 
 a) Fútbol
 b) Natación
 c) Básquetbol
 
-**Pregunta 9 (aplicación con gráfico de barra).** Usando el mismo gráfico de la pregunta anterior (fútbol: 10, básquetbol: 6), ¿cuántos estudiantes más eligieron fútbol que básquetbol?
+**Pregunta 9 (aplicación con gráfico de barra).** ¿Cuántos estudiantes más eligieron fútbol que básquetbol?
 
-a) 16
+a) 17
 b) 2
-c) 6
+c) 7
 d) 4
 
 ---
@@ -93,5 +97,5 @@ d) 4
 5. b) 2 500 g — 2 kg = 2 000 g; 2 000+500=2 500 g.
 6. c) Manzana, galletas, sandía — se convierte todo a gramos: 150 g, 300 g y 4 000 g.
 7. a) 35 — perros 4×5=20, gatos 2×5=10, conejos 1×5=5; 20+10+5=35.
-8. a) Fútbol — es la barra más alta (10 estudiantes).
-9. d) 4 — 10-6=4.
+8. a) Fútbol — es la barra más alta (12 estudiantes).
+9. c) 7 — 12-5=7.

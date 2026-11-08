@@ -466,12 +466,9 @@ En 7° básico vas a leer con mirada crítica los textos que circulan en los med
 > **Javiera Huenumán asume como primera alcaldesa mujer de la comuna**
 > Este lunes, Javiera Huenumán, profesora de profesión y con veinte años de trabajo comunitario en la zona, asumió como alcaldesa tras ganar las elecciones municipales con el 54% de los votos. En su discurso, se comprometió a mejorar la conectividad vial y ampliar los programas de apoyo a la infancia. "Vengo del mismo barrio que ustedes, y sé lo que significa esperar años por una vereda pavimentada", declaró ante los vecinos presentes.
 
-```
 Resultado elección municipal (comuna)
-Candidatura A (Huenumán)     54%
-Candidatura B                31%
-Candidatura C                15%
-```
+
+::barras::Huenumán (A)=54;Candidatura B=31;Candidatura C=15::y=% de votos;valores=si::
 
 **Texto B — Comentario publicado en una red social**
 

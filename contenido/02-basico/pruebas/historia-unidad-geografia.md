@@ -32,13 +32,14 @@ la frontera más larga.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** En un mapa de América del Sur se señalan tres países con letras: la
-letra A está justo al norte de Chile, la letra B está al noreste de Chile, y la letra C está
-al este de Chile, compartiendo la frontera más extensa. ¿Qué país corresponde a cada letra?
+**3. (Alternativas — análisis de mapa)** Observa el mapa de América del Sur: Chile está pintado y tres
+países vecinos tienen letras. ¿Qué país corresponde a cada letra?
+
+::mapa::sudamerica::A@Argentina;B@Perú;C@Bolivia::pintar=Chile;rosa=si::
 
 a) A = Perú, B = Bolivia, C = Argentina
 b) A = Bolivia, B = Perú, C = Argentina
-c) A = Argentina, B = Bolivia, C = Perú
+c) A = Argentina, B = Perú, C = Bolivia
 d) A = Perú, B = Argentina, C = Bolivia
 
 ---
@@ -97,7 +98,7 @@ d) 1-B, 2-C, 3-A
 
 1. **b)** Perú
 2. Verdadero
-3. a) A = Perú, B = Bolivia, C = Argentina
+3. c) A = Argentina, B = Perú, C = Bolivia
 4. **c)** Océano Pacífico
 5. **b)** Lago
 6. Verdadero

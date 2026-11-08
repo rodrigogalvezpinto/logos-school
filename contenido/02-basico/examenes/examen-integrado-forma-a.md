@@ -111,7 +111,9 @@ d) El caballo
 
 **8. (Historia — Alternativas)** Observa el siguiente estímulo:
 
-[Imagen: mapa de Chile con tres franjas de color — al norte un ícono de vasija de greda, al centro-sur un ícono de ruka de madera y paja, y en el extremo sur un ícono de canoa entre islas]
+Mapa de Chile con tres íconos: al norte, una vasija de greda; en el centro-sur, una ruka de madera y paja, y en el extremo sur, una canoa entre islas.
+
+::mapa::chile::🏺@-20,-69.5;🛖@-38.5,-72.5;🛶@-52,-73.5::
 
 ¿Qué pueblo originario se relaciona con el ícono de la ruka de madera y paja?
 
@@ -148,7 +150,7 @@ d) Aburrida, porque ya sabía de la sorpresa y no le gustan las fiestas con much
 
 **11. (Historia — Alternativas)** Observa el siguiente estímulo:
 
-[Imagen: mapa de América del Sur con Chile pintado de un color, y tres letras señalando países: la letra A justo al norte de Chile, la letra B al noreste, y la letra C al este, compartiendo la frontera más larga]
+::mapa::sudamerica::A@Perú;B@Bolivia;C@Argentina::pintar=Chile;rosa=si::
 
 Según el mapa, ¿qué país corresponde a la letra C?
 

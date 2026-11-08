@@ -1345,17 +1345,25 @@ El siguiente gráfico muestra la cantidad de libros leídos por 4 estudiantes en
 | Carla | 7 |
 | Diego | 4 |
 
-Si esto se representara en un gráfico de barras, la barra de Carla sería la más alta (7 libros) y la de Beto la más baja (3 libros). La diferencia entre Carla y Beto es 7 − 3 = **4 libros**.
+::barras::Ana=5;Beto=3;Carla=7;Diego=4::y=Libros leídos::
+
+En el gráfico, la barra de Carla es la más alta (llega al 7) y la de Beto la más baja (llega al 3). La diferencia entre Carla y Beto es 7 − 3 = **4 libros**.
 
 **Ejemplo 2 — Leer un gráfico de línea**
 
-Un gráfico de línea muestra la temperatura registrada cada 2 horas en un día: a las 8:00 hacía 12°C, a las 10:00 hacía 16°C, a las 12:00 hacía 20°C, a las 14:00 hacía 22°C y a las 16:00 hacía 18°C.
+El gráfico de línea muestra la temperatura registrada cada 2 horas en un día:
+
+::linea::8 h=12;10 h=16;12 h=20;14 h=22;16 h=18::y=Temperatura (°C);x=Hora del día::
+
+Leyendo cada punto: a las 8:00 hacía 12°C, a las 10:00, 16°C, a las 12:00, 20°C, a las 14:00, 22°C y a las 16:00, 18°C.
 
 La línea sube constantemente entre las 8:00 y las 14:00 (la temperatura va aumentando), y luego baja entre las 14:00 y las 16:00 (empieza a refrescar). La temperatura más alta del día fue **22°C, a las 14:00 horas**.
 
 **Ejemplo 3 — Completar una tabla a partir de un gráfico**
 
-Si un gráfico de barras muestra que en enero se vendieron 40 helados, en febrero 55, y en marzo 30, se puede completar una tabla con esos mismos datos organizados en filas y columnas, lo que facilita compararlos o sumarlos: 40 + 55 + 30 = **125 helados en el trimestre**.
+::barras::Enero=40;Febrero=55;Marzo=30::y=Helados vendidos::
+
+El gráfico muestra que en enero se vendieron 40 helados, en febrero 55 y en marzo 30. Con esos datos se puede completar una tabla con esos mismos datos organizados en filas y columnas, lo que facilita compararlos o sumarlos: 40 + 55 + 30 = **125 helados en el trimestre**.
 
 #### Preguntas de autoevaluación
 
@@ -1373,7 +1381,9 @@ d) 17
 **Respuesta correcta: Verdadero.**
 *Retroalimentación:* los gráficos de línea conectan los puntos de datos en orden (por ejemplo, por fecha u hora), lo que permite visualizar fácilmente tendencias: si algo aumenta, disminuye o se mantiene estable.
 
-**Pregunta 3 (alternativas — gráfico de línea).** Con los datos de temperatura del Ejemplo 2 (8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C), ¿en qué intervalo bajó la temperatura?
+**Pregunta 3 (alternativas — gráfico de línea).** Observa el gráfico de temperatura de un día. ¿En qué intervalo bajó la temperatura?
+
+::linea::8 h=12;10 h=16;12 h=20;14 h=22;16 h=18::y=Temperatura (°C);x=Hora del día::
 a) Entre las 14:00 y las 16:00, bajó 4°C
 b) Entre las 8:00 y las 10:00, bajó 4°C
 c) Entre las 12:00 y las 14:00, bajó 2°C
@@ -1382,7 +1392,9 @@ d) La temperatura nunca bajó
 **Respuesta correcta: a) Entre las 14:00 y las 16:00, bajó 4°C.**
 *Retroalimentación:* para identificar bajadas en un gráfico de línea, hay que comparar cada punto con el siguiente: solo entre las 14:00 y las 16:00 el valor disminuye (de 22°C a 18°C).
 
-**Pregunta 4 (alternativas — gráfico de barras).** Un gráfico de barras muestra las ventas de una tienda en 4 días: lunes 20, martes 35, miércoles 15, jueves 30 (en unidades vendidas). ¿Qué día tuvo la menor venta?
+**Pregunta 4 (alternativas — gráfico de barras).** El gráfico muestra las ventas de una tienda en 4 días. ¿Qué día tuvo la menor venta?
+
+::barras::Lunes=20;Martes=35;Miércoles=15;Jueves=30::y=Unidades vendidas::
 a) Lunes
 b) Martes
 c) Miércoles
@@ -1405,7 +1417,9 @@ d) 39
 **Respuesta correcta: d) 39.**
 *Retroalimentación:* 12 + 18 + 9 = 39. Organizar los datos en una tabla facilita sumarlos o compararlos rápidamente.
 
-**Pregunta 6 (alternativas — gráfico de línea).** Un gráfico de línea muestra el peso de un cachorro cada mes: mes 1: 2 kg, mes 2: 3,5 kg, mes 3: 5 kg, mes 4: 6 kg. ¿En qué tramos aumentó más peso respecto al mes anterior?
+**Pregunta 6 (alternativas — gráfico de línea).** El gráfico muestra el peso de un cachorro durante sus primeros 4 meses. ¿En qué tramos aumentó más peso respecto al mes anterior?
+
+::linea::Mes 1=2;Mes 2=3,5;Mes 3=5;Mes 4=6::y=Peso (kg)::
 a) Solo entre el mes 3 y el 4, porque ahí subió de 5 a 6 kg (1 kg)
 b) Entre el mes 1 y el 2, y entre el mes 2 y el 3 (1,5 kg en cada uno)
 c) Solo entre el mes 1 y el 2, porque ahí llegó a 3,5 kg (3,5 kg)

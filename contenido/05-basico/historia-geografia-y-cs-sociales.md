@@ -764,7 +764,10 @@ d) Norte Grande → Zona Central → Norte Chico → Zona Sur → Zona Austral
 
 ---
 
-**4. (Alternativas — análisis de mapa)** Imagina un mapa de Chile donde una zona está marcada con símbolos de fiordos, glaciares y ovejas, y tiene muy baja densidad de población. ¿A qué zona natural corresponde?
+**4. (Alternativas — análisis de mapa)** En el mapa de Chile, una zona está marcada con símbolos de glaciares y ovejas; además, tiene fiordos y muy baja densidad de población. ¿A qué zona natural corresponde?
+
+::mapa::chile::🧊@-48.5,-73.2;🐑@-52.3,-70.4::zonas=si::
+
 a) Zona Austral
 b) Norte Grande
 c) Zona Central
@@ -897,7 +900,10 @@ extraídos, no se regeneran en una escala de tiempo humana.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** Imagina un mapa de Chile con tres símbolos: un árbol sobre la Zona Sur, un pez sobre gran parte de la costa y un casco de minero sobre el Norte Grande y el Norte Chico. ¿Qué relación existe entre la geografía y el recurso representado?
+**3. (Alternativas — análisis de mapa)** Observa el mapa de Chile con tres símbolos: un árbol sobre la Zona Sur, un pez sobre la costa y un casco de minero sobre el norte. ¿Qué relación existe entre la geografía y el recurso representado?
+
+::mapa::chile::🌲@-40.3,-72.6;🐟@-29,-73.4;⛏️@-23.5,-69.2::
+
 a) Los símbolos se ubicaron al azar en el mapa, porque todos los recursos se encuentran por igual en cualquier zona del país, sin depender del clima ni del relieve
 b) Todos los recursos están en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos solo muestran dónde se venden los productos
 c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte

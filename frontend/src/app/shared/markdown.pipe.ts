@@ -1,3 +1,5 @@
+import { RE_GRAFICO, htmlGrafico } from './graficos';
+import { RE_MAPA, htmlMapa } from './mapas';
 import { Pipe, PipeTransform, inject } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { marked } from 'marked';
@@ -206,35 +208,7 @@ export function htmlLargo(a: string, la: string, b: string, lb: string): string 
 }
 // Regla: ::regla::0::5:: dibuja una regla de 0 a 10 cm con un objeto (goma) desde 0 hasta 5. El niño
 // lee la medida; la descripción «va desde el 0 hasta el 5» ya no se la da.
-// Gráfico de barras: ::barras::Fútbol=10;Básquetbol=6;Natación=8:: dibuja barras con eje y escala.
-// El temario pide «leer e interpretar» y «construir» gráficos; antes se describían con palabras
-// («fútbol llega hasta el 10»), lo que reemplaza la lectura del gráfico (auditoría Fase 1, 2026-11-07).
-export const RE_BARRAS = /::barras::((?:[^:=;]{1,24}=\d{1,4};?){2,8})::/g;
-export function htmlBarras(datos: string): string {
-  const pares = datos.split(';').filter(Boolean).map((d) => {
-    const [et, v] = d.split('=');
-    return { et: et.trim(), v: parseInt(v, 10) };
-  });
-  const max = Math.max(...pares.map((p) => p.v));
-  const paso = max <= 10 ? 1 : max <= 20 ? 2 : max <= 50 ? 5 : max <= 100 ? 10 : Math.ceil(max / 10 / 10) * 10;
-  const tope = Math.ceil(max / paso) * paso;
-  const alto = 160, x0 = 34, ancho = Math.max(240, pares.length * 62 + 40), y0 = 12;
-  const esc = (v: number) => y0 + alto - (v / tope) * alto;
-  let ejes = '';
-  for (let v = 0; v <= tope; v += paso) {
-    const y = esc(v);
-    ejes += `<line x1="${x0}" y1="${y}" x2="${ancho - 6}" y2="${y}" stroke="#E5E7EB"/>` +
-      `<text x="${x0 - 6}" y="${y + 4}" font-size="11" text-anchor="end" fill="#374151">${v}</text>`;
-  }
-  const bw = 34, sep = (ancho - x0 - 10) / pares.length;
-  const barras = pares.map((p, i) => {
-    const x = x0 + sep * i + (sep - bw) / 2;
-    return `<rect x="${x}" y="${esc(p.v)}" width="${bw}" height="${y0 + alto - esc(p.v)}" fill="#5B4FE9" rx="2"/>` +
-      `<text x="${x + bw / 2}" y="${y0 + alto + 16}" font-size="11" text-anchor="middle" fill="#111827">${p.et}</text>`;
-  }).join('');
-  return `<span class="grafico" role="img" aria-label="gráfico de barras"><svg viewBox="0 0 ${ancho} ${alto + 34}" width="${ancho}" height="${alto + 34}">` +
-    `${ejes}<line x1="${x0}" y1="${y0}" x2="${x0}" y2="${y0 + alto}" stroke="#374151" stroke-width="1.5"/>${barras}</svg></span>`;
-}
+// Gráficos (barras, líneas, circular, cajón): ver graficos.ts.
 export const RE_REGLA = /::regla::(\d{1,2})::(\d{1,2})::/g;
 export function htmlRegla(desde: string, hasta: string): string {
   const cm = 22, x0 = 14;
@@ -283,7 +257,8 @@ function realzarGuia(html: string): string {
     .replace(RE_EJEMPLO, '<p class="ejemplo-titulo"><span class="ejemplo-num">$1</span>$2</p>')
     .replace(RE_IMAGEN, '<span class="marcador-imagen">🖼️ $1</span>');
 
-  resultado = resultado.replace(RE_BARRAS, (_m, d) => htmlBarras(d));
+  resultado = resultado.replace(RE_GRAFICO, (_m, tipo, d, op) => htmlGrafico(tipo, d, op));
+  resultado = resultado.replace(RE_MAPA, (_m, region, marcas, op) => htmlMapa(region, marcas, op));
   resultado = resultado.replace(RE_REGLA, (_m, a, b) => htmlRegla(a, b));
   resultado = resultado.replace(RE_BALANZA, (_m, i, d) => htmlBalanza(i, d));
   resultado = resultado.replace(RE_LARGO, (_m, a, la, b, lb) => htmlLargo(a, la, b, lb));
@@ -353,7 +328,12 @@ export class MarkdownPipe implements PipeTransform {
 
   transform(texto: string | null | undefined): SafeHtml {
     if (!texto) return '';
-    const conMatematica = renderizarMatematica(texto);
+    // Mapas y gráficos se dibujan ANTES de marked: «A@19.5,-97» se convertía en un enlace mailto y el
+    // marcador quedaba crudo (E2E 4.° básico, 2026-11-07). El SVG resultante es HTML en línea que marked respeta.
+    const conDibujos = texto
+      .replace(RE_MAPA, (_m, region, marcas, op) => htmlMapa(region, marcas, op))
+      .replace(RE_GRAFICO, (_m, tipo, d, op) => htmlGrafico(tipo, d, op));
+    const conMatematica = renderizarMatematica(conDibujos);
     const html = marked.parse(conMatematica, { async: false }) as string;
     return this.sanitizer.bypassSecurityTrustHtml(realzarGuia(html));
   }

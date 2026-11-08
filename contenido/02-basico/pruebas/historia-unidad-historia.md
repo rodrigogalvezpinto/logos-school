@@ -27,13 +27,15 @@ d) Que no tiene idioma propio
 
 ---
 
-**2. (Alternativas — análisis de mapa)** En un mapa de Chile se dibujó un ícono de canoa junto a canales e
-islas en el extremo sur del país. ¿A qué pueblo o pueblos corresponde este ícono?
+**2. (Alternativas — análisis de mapa)** En el mapa de Chile se dibujó una llama en el altiplano del
+extremo norte del país. ¿Qué pueblo originario se relaciona con ese ícono?
 
-a) A los rapa nui, que navegaban en canoas por Isla de Pascua
-b) A los aymara, que vivían en el altiplano del norte del país
-c) A los mapuche, que vivían en los valles y bosques del centro-sur
-d) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
+::mapa::chile::🦙@-18.6,-69.2::rosa=si::
+
+a) Los rapa nui, que navegaban en canoas por Isla de Pascua
+b) Los mapuche, que vivían en los valles y bosques del centro-sur
+c) Los pueblos canoeros australes, como los kawésqar y yaganes
+d) Los aymara, que criaban llamas y alpacas en el altiplano
 
 ---
 
@@ -105,7 +107,7 @@ d) 1-B, 2-A, 3-C
 ## Pauta de respuestas
 
 1. **c)** Que se traslada de un lugar a otro sin vivienda permanente
-2. d) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
+2. d) Los aymara, que criaban llamas y alpacas en el altiplano
 3. **b)** We Tripantu
 4. b) Practicar tejidos y artesanía tradicional. Hoy muchas familias indígenas viven en ciudades y usan tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía.
 5. **a)** Que nació de la mezcla entre pueblos indígenas y españoles

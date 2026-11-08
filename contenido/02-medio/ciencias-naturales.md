@@ -676,7 +676,7 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
    **Respuesta correcta:** a) 40 km.
    **Retroalimentación:** Velocidad relativa: 90 − 70 = 20 km/h; en 2 h, 40 km.
 
-7. *(Alternativas — Análisis de gráficos)* Un gráfico v-t muestra una recta horizontal los primeros 10 s y luego una recta de pendiente negativa hasta cero a los 15 s. ¿Qué describe?
+7. *(Alternativas — Análisis de gráficos)* Observa el gráfico velocidad-tiempo (v-t) de un ciclista. ¿Qué movimiento describe? ::linea::0=8;5=8;10=8;15=0::x=Tiempo (s);y=Velocidad (m/s)::
    a) Reposo durante 10 s y luego aceleración constante hasta los 15 s en sentido contrario
    b) Aceleración constante durante todo el trayecto
    c) Movimiento hacia atrás desde el inicio, cada vez más rápido

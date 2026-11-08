@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-07 23:40: Fase 1 → C.1 cerrado (0 % de copia en los 50 simulacros), C.3 al límite del formato, B aplicado (gráficos y mapas dibujados, §15.36). Base `logos_qa` del usuario recargada (tenía el material antiguo con preguntas de desarrollo). Contraste del resultado en modo examen corregido. **Siguiente:** C.2 (pruebas de unidad copiadas de la guía, 10 cursos) y luego D (imágenes, decisión del usuario).
+
 - 2026-11-07: **Fase 1, control 4 cerrado:** indicadores revisados en los 12 cursos, ~1.398/1.437 (97 %). Lista consolidada en `docs/auditorias/fase1/correcciones-propuestas.md`, **pendiente de aprobación del usuario**. Siguiente control: el 5, exactitud de los cambios posteriores a `7ea9828`.
 
 - 2026-11-07 18:35: PostgreSQL cierra las conexiones tras 1,5 a 2 min. Se interrumpió una reimportación, así que la base `logos_e2e_alternativas` puede haber quedado incompleta. **Al retomar:** si `psql` responde en menos de 1 s, ejecutar `reimportar.sh` completo; después, el E2E de 1.° y 4.° básico.

@@ -393,9 +393,12 @@ altas que recorre gran parte de Chile.
 
 ---
 
-**3. (Alternativas — análisis de mapa)** Imagina un mapa de Chile donde a un lado se
-dibujaron montañas nevadas y al otro lado se dibujó un mar celeste con olas. ¿Qué representa
+**3. (Alternativas — análisis de mapa)** Observa el mapa de Chile: a un lado se
+dibujaron montañas nevadas y al otro lado, un mar con olas. ¿Qué representa
 cada dibujo?
+
+::mapa::chile::🏔️@-24,-67.6;🏔️@-34,-69;🌊@-24,-74.5;🌊@-34,-75.2::
+
 a) Las montañas son el desierto de Atacama y el mar es un lago del sur.
 b) Las montañas son las nubes del cielo y el mar es un río muy largo.
 c) Las montañas son la Cordillera de los Andes y el mar es el océano Pacífico.
@@ -433,10 +436,12 @@ en tu casa el nombre de tu región y de tu localidad (tu ciudad o pueblo).
 
 ---
 
-**6. (Alternativas — análisis de mapa, desafiante)** En un mapa de Chile se marcaron dos
+**6. (Alternativas — análisis de mapa, desafiante)** En el mapa de Chile se marcaron dos
 puntos: el Punto A está muy al norte, cerca del desierto, y el Punto B está muy al sur, cerca de
-hielos y pingüinos. Si Santiago está aproximadamente al medio del país, ¿cuál punto queda **más
-lejos** de Santiago?
+hielos y pingüinos. ¿Cuál punto queda **más lejos** de Santiago?
+
+::mapa::chile::A@-19.5,-69.6;B@-53.6,-70.9;Santiago@-33.45,-70.66::
+
 a) El Punto A, porque el desierto está al lado de Santiago.
 b) Los dos quedan igual de cerca de Santiago.
 c) El Punto B, porque Chile se extiende mucho más hacia el sur.

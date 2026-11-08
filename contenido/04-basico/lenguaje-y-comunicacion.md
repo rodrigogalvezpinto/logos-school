@@ -255,14 +255,9 @@ Los textos **no literarios** (a diferencia de los cuentos y poemas) buscan **inf
 
 Y este gráfico de barras, hecho con los datos de una encuesta en un curso de 4° básico:
 
-```
 Animal favorito de 4°B (encuesta a 20 estudiantes)
 
-Puma      ▓▓▓▓▓▓▓▓ 8
-Cóndor    ▓▓▓▓▓    5
-Zorro     ▓▓▓▓     4
-Huemul    ▓▓▓      3
-```
+::barras::Puma=8;Cóndor=5;Zorro=4;Huemul=3::y=Estudiantes::
 
 ### Ejemplos resueltos
 

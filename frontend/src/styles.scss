@@ -431,12 +431,16 @@ blockquote {
     font-family: var(--fuente-titulos);
   }
 
+  // Colores por variable: en el modo examen (fondo oscuro) se redefinen. Con #fafafa fijo, el texto
+  // claro del modo oscuro quedaba blanco sobre blanco (hallazgo del usuario, 2026-11-07).
+  td { color: inherit; }
+
   tr:nth-child(even) td {
-    background: #fafafa;
+    background: var(--fila-alterna, #fafafa);
   }
 
   tr:hover td {
-    background: #f1f5f9;
+    background: var(--fila-hover, #f1f5f9);
   }
 }
 

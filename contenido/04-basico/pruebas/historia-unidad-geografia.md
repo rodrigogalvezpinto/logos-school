@@ -39,10 +39,12 @@ d) Mediterráneo
 
 ---
 
-**3. (Alternativas — análisis de mapa)** Imagina un mapa de América con tres grandes ciudades marcadas con números:
+**3. (Alternativas — análisis de mapa)** Observa el mapa de América, con tres grandes ciudades marcadas con números:
 (1) la capital de Argentina, a orillas del Río de la Plata; (2) la capital de Perú, en la costa
 del océano Pacífico; (3) la capital de México, en un valle alto rodeado de montañas.
 ¿Qué ciudad corresponde a cada número?
+
+::mapa::america::1@-34.6,-58.4;2@-12.05,-77.04;3@19.43,-99.13::
 
 a) (1) Lima — (2) Buenos Aires — (3) Ciudad de México
 b) (1) Buenos Aires — (2) Lima — (3) Ciudad de México

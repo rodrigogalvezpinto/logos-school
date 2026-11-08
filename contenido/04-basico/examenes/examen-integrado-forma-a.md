@@ -45,7 +45,9 @@ d) Unidad de mil
 
 **2. (Historia, Geografía y Ciencias Sociales)**
 
-Observa la siguiente descripción de un mapa de América: en la **Zona A**, ubicada en el centro de México y Centroamérica, se han encontrado pirámides, sistemas de escritura jeroglífica y restos de una gran ciudad construida sobre un lago. En la **Zona B**, que sigue la cordillera de los Andes desde el actual Ecuador hasta el norte de Chile y Argentina, se han encontrado restos de una extensa red de caminos de piedra y terrazas de cultivo en las laderas de los cerros.
+Observa el mapa de América. En la **Zona A** se han encontrado pirámides, sistemas de escritura jeroglífica y restos de una gran ciudad construida sobre un lago. En la **Zona B** se han encontrado restos de una extensa red de caminos de piedra y terrazas de cultivo en las laderas de los cerros.
+
+::mapa::america::A@19.5,-97;B@-13.5,-72.5::rosa=si::
 
 ¿A qué civilización(es) corresponde principalmente la **Zona A** del mapa?
 

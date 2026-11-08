@@ -229,11 +229,12 @@ d) La Guerra de Arauco; además: la encomienda de los mapuches y el voto femenin
 
 **Pregunta 14.** (1 punto)
 
-> **Estímulo — descripción de mapa:** Imagina un mapa de Chile donde una zona aparece marcada
-> con símbolos de bosques de araucarias, lagos, lluvias abundantes y campos dedicados a la
-> agricultura y la ganadería.
+Observa el mapa de Chile: una zona aparece marcada con símbolos de bosques de araucarias, lluvias
+abundantes y campos dedicados a la ganadería; además, tiene muchos lagos.
 
-¿A qué zona natural de Chile corresponde esta descripción?
+::mapa::chile::🌲@-38.4,-71.7;🌧️@-40,-73.3;🐄@-41.4,-72.4::
+
+¿A qué zona natural de Chile corresponde?
 
 a) Norte Grande
 b) Zona Central

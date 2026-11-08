@@ -82,16 +82,21 @@ b) Seguro, porque hay una pelota de fútbol
 c) Igual de posible que sacar una de básquetbol
 d) Poco posible, porque solo hay 1 de fútbol entre 9
 
-**Pregunta 11.** Un gráfico muestra la cantidad de libros leídos por 4 estudiantes en un mes: Ana 5, Beto 3, Carla 7, Diego 4. ¿Cuántos libros leyeron entre todos?
-a) 20
-b) 19
-c) 18
-d) 17
+**Pregunta 11.** El gráfico muestra la cantidad de libros que leyeron 4 estudiantes en un mes. ¿Cuántos libros leyeron entre todos?
 
-**Pregunta 12.** Un gráfico de línea muestra la temperatura registrada cada 2 horas en un día: 8:00→12°C, 10:00→16°C, 12:00→20°C, 14:00→22°C, 16:00→18°C. ¿En qué intervalo de horas bajó la temperatura?
+::barras::Sofía=6;Tomás=2;Inés=8;Raúl=5::y=Libros leídos::
+
+a) 20
+b) 21
+c) 19
+d) 8
+
+**Pregunta 12.** El gráfico de línea muestra la temperatura registrada cada 2 horas en un día. ¿En qué intervalo de horas bajó la temperatura?
+
+::linea::8 h=10;10 h=14;12 h=19;14 h=21;16 h=16::y=Temperatura (°C);x=Hora del día::
 
 a) Entre las 8:00 y las 10:00, bajó 4°C
-b) Entre las 14:00 y las 16:00, bajó 4°C
+b) Entre las 14:00 y las 16:00, bajó 5°C
 c) Entre las 12:00 y las 14:00, bajó 2°C
 d) La temperatura nunca bajó
 
@@ -109,5 +114,5 @@ d) La temperatura nunca bajó
 8. a) $13.000. 65.000 ÷ 5 = 13.000; $65.000 es la suma, no el promedio.
 9. **b) Poco posible** — es posible (hay una), pero poco probable comparado con las 6 rojas.
 10. d) Poco posible, porque solo hay 1 de fútbol entre 9
-11. **b) 19** — 5 + 3 + 7 + 4 = 19.
-12. b) Entre las 14:00 y las 16:00, bajó 4°C. Es el único tramo donde la temperatura disminuye (de 22°C a 18°C).
+11. **b) 21** — 6 + 2 + 8 + 5 = 21.
+12. b) Entre las 14:00 y las 16:00, bajó 5°C. Es el único tramo donde la línea baja (de 21°C a 16°C).

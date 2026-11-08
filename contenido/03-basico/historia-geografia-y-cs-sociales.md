@@ -520,7 +520,10 @@ d) 1-C, 2-A, 3-B
 
 ---
 
-**5. (Alternativas — análisis de mapa)** En un mapamundi se señala con una letra A un océano que baña la costa oeste de Chile. ¿Qué océano corresponde a la letra A?
+**5. (Alternativas — análisis de mapa)** En el mapa, la letra A señala el océano que baña la costa oeste de Chile. ¿Qué océano corresponde a la letra A?
+
+::mapa::sudamerica::A@-30,-78::pintar=Chile;rosa=si::
+
 a) El océano Atlántico
 b) El océano Índico
 c) El océano Glacial Ártico
