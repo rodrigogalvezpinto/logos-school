@@ -396,6 +396,17 @@ los huesos: cuando se contraen (se acortan), tiran de los huesos y así producen
    pulmones respiran más fuerte para llevar oxígeno a los músculos. Trabajan en equipo
    cuando haces actividad física.
 
+
+7. *(Alternativas — ubicación)* ¿Dónde se ubican los pulmones en el cuerpo humano?
+   a) En la cabeza, protegidos por el cráneo
+   b) En el pecho, protegidos por las costillas
+   c) En las piernas, junto a los huesos más largos
+   d) En el estómago, debajo del ombligo
+   **Respuesta correcta:** b) En el pecho, protegidos por las costillas.
+   **Retroalimentación:** ¡Muy bien! Los pulmones y el corazón están en el pecho, dentro
+   de la caja formada por las costillas. El estómago está más abajo, en el abdomen, y el
+   cerebro está en la cabeza, protegido por el cráneo.
+
 ---
 
 ### OA N°8 — La actividad física y su importancia para el cuerpo
@@ -866,6 +877,27 @@ temperatura.
    el tiempo hoy en tu ciudad: fijarte todos los días te ayuda a entender mejor cómo
    funciona el clima.
 
+
+7. *(Alternativas — efectos del viento)* ¿Qué efecto del **viento** puedes observar en
+   un día ventoso?
+   a) Las hojas de los árboles se mueven y la ropa colgada se seca más rápido
+   b) El pasto cambia de color verde a amarillo en pocos minutos
+   c) La nieve aparece en el patio aunque haga calor
+   d) El sol se esconde para siempre detrás de los cerros
+   **Respuesta correcta:** a) Las hojas de los árboles se mueven y la ropa colgada se seca más rápido.
+   **Retroalimentación:** ¡Bien observado! El viento es aire en movimiento: mueve las hojas,
+   los volantines y las nubes, y ayuda a que la ropa se seque.
+
+8. *(Alternativas — el tiempo durante el año)* ¿Qué cambio del tiempo atmosférico ocurre
+   en la zona central de Chile a lo largo del año?
+   a) Hace el mismo calor todos los meses
+   b) En invierno llueve más y hace más frío; en verano hace calor y casi no llueve
+   c) En verano cae nieve en las ciudades y en invierno hace mucho calor
+   d) Llueve exactamente la misma cantidad todos los días del año
+   **Respuesta correcta:** b) En invierno llueve más y hace más frío; en verano hace calor y casi no llueve.
+   **Retroalimentación:** ¡Exacto! El tiempo atmosférico cambia a lo largo del año: en la
+   zona central, los inviernos son fríos y lluviosos y los veranos, calurosos y secos.
+
 ---
 
 ### OA N°14 — Las estaciones del año y sus efectos
@@ -980,6 +1012,18 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
    veces nieva en la cordillera y algunos árboles pierden sus hojas; los árboles se llenan
    de flores en primavera. Reconocer los cambios de estación te ayuda a entender mejor el
    ciclo anual del clima.
+
+
+7. *(Alternativas — estaciones en el calendario)* En Chile, ¿en qué meses del calendario
+   es verano?
+   a) Junio, julio y agosto
+   b) Septiembre, octubre y noviembre
+   c) Diciembre, enero y febrero
+   d) Marzo, abril y mayo
+   **Respuesta correcta:** c) Diciembre, enero y febrero.
+   **Retroalimentación:** ¡Muy bien! En Chile, el verano comienza en diciembre y dura hasta
+   marzo; por eso las vacaciones largas son en enero y febrero. En junio, julio y agosto es
+   invierno.
 
 ---
 

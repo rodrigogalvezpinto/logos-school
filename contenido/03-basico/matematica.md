@@ -1114,7 +1114,7 @@ Conejos: 🐾 (1 huella)
 
 Un curso registró los deportes favoritos de sus 24 estudiantes: fútbol (10), básquetbol (6), natación (8).
 
-::emoji::📊::gráfico de barras con tres columnas: "fútbol" hasta el 10, "básquetbol" hasta el 6, y "natación" hasta el 8, en el eje vertical marcado de 2 en 2::
+::barras::Fútbol=10;Básquetbol=6;Natación=8::
 
 Cada barra se dibuja con la altura correspondiente a la cantidad de estudiantes que eligió ese deporte.
 
@@ -1183,6 +1183,15 @@ d) 2
 
 **Respuesta correcta: c) 4.**
 *Retroalimentación:* comparamos las alturas de las barras "fútbol" (10) y "básquetbol" (6), y restamos: 10-6=4 estudiantes más eligieron fútbol.
+
+**Pregunta 8 (alternativas — construir un gráfico de barras).** Una tienda vendió 4 helados el lunes, 7 el martes y 5 el miércoles. ¿Cuál gráfico de barras representa correctamente estos datos?
+a) ::barras::Lunes=4;Martes=5;Miércoles=7::
+b) ::barras::Lunes=4;Martes=7;Miércoles=5::
+c) ::barras::Lunes=7;Martes=4;Miércoles=5::
+d) ::barras::Lunes=5;Martes=7;Miércoles=4::
+
+**Respuesta correcta: b.**
+*Retroalimentación:* cada barra debe llegar a la cantidad de su día: lunes hasta el 4, martes hasta el 7 y miércoles hasta el 5. En los otros gráficos las barras están cambiadas de día.
 
 ---
 

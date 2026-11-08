@@ -119,6 +119,24 @@ d) 2.600 y 2.700
 **Respuesta correcta: d) 2.600 y 2.700.**
 *Retroalimentación:* al contar de 100 en 100 solo cambia el dígito de las centenas (y a veces las unidades de mil, si se pasa de 900 a 000); el resto de los dígitos se mantiene igual.
 
+**Pregunta 7 (alternativas — palabras y cifras).** ¿Cómo se escribe en cifras el número «siete mil cuarenta y cinco»?
+a) 745
+b) 7.405
+c) 7.045
+d) 70.045
+
+**Respuesta correcta: c) 7.045.**
+*Retroalimentación:* «siete mil» son 7 unidades de mil; «cuarenta y cinco» son 4 decenas y 5 unidades. Como no hay centenas, se escribe un 0 en esa posición: 7.045.
+
+**Pregunta 8 (alternativas — cifras y palabras).** ¿Cómo se lee el número 3.608?
+a) Tres mil seiscientos ocho
+b) Tres mil seiscientos ochenta
+c) Trescientos sesenta y ocho
+d) Tres mil sesenta y ocho
+
+**Respuesta correcta: a) Tres mil seiscientos ocho.**
+*Retroalimentación:* 3.608 tiene 3 unidades de mil, 6 centenas, 0 decenas y 8 unidades: «tres mil seiscientos ocho».
+
 ---
 
 ### OA 3 — Comprender la adición y la sustracción de números hasta 1.000

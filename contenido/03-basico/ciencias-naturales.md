@@ -589,6 +589,17 @@ escucharlo.
    **Respuesta correcta:** d) El tono indica si es agudo o grave; la intensidad, si es fuerte o débil.
    **Retroalimentación:** ¡Muy buena explicación! Un silbido es agudo y un rugido es grave (tono); una bocina es fuerte y un susurro es débil (intensidad). Son dos características distintas e independientes del sonido.
 
+
+7. *(Alternativas — dirección del sonido)* En el centro del patio, una profesora toca un
+   silbato. ¿Quiénes pueden escuchar el sonido?
+   a) Solo los estudiantes que están frente a ella
+   b) Solo los que están a su derecha
+   c) Los estudiantes que están a su alrededor, en todas las direcciones
+   d) Solo los que están detrás de ella
+   **Respuesta correcta:** c) Los estudiantes que están a su alrededor, en todas las direcciones.
+   **Retroalimentación:** ¡Muy bien! El sonido se propaga en todas las direcciones desde
+   la fuente que lo produce, como las ondas que se forman al lanzar una piedra al agua.
+
 ---
 
 ## Eje 3: Ciencias de la Tierra y el Universo

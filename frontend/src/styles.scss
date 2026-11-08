@@ -466,3 +466,6 @@ blockquote {
 .posicion { display: inline-block; margin: 0.25rem 0.75rem 0.25rem 0; padding: 0.25rem; border-radius: 12px; background: var(--superficie-suave, rgba(91, 79, 233, 0.06)); vertical-align: middle; line-height: 0; }
 .posicion svg { max-width: 100%; height: auto; }
 .fila-dibujo { display: inline-flex; align-items: flex-end; gap: 1.25rem; padding: 0.5rem 1rem 0.35rem; margin: 0.25rem 0.5rem 0.25rem 0; border-bottom: 3px solid #CBD5E1; border-radius: 12px 12px 0 0; background: var(--superficie-suave, rgba(91, 79, 233, 0.06)); font-size: 2.6rem; line-height: 1.1; vertical-align: middle; }
+.grafico { display: inline-block; margin: 0.25rem 0.75rem 0.25rem 0; padding: 0.35rem; border-radius: 12px; background: #fff; border: 1px solid #E5E7EB; vertical-align: middle; line-height: 0; max-width: 100%; }
+.grafico svg { max-width: 100%; height: auto; }
+.opcion__visual .grafico svg { max-width: 220px; }

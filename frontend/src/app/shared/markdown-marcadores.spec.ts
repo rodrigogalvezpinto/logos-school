@@ -70,4 +70,12 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect(html('::balanza::6+3::10::')).toContain('y1="28" x2="190" y2="52"'); // baja el lado del 10
     expect(html('::balanza::6+3::10::')).not.toContain('equilibrada');
   });
+
+  it('::barras:: dibuja una barra por categoría, con eje graduado y sin marcador crudo', () => {
+    const salida = html('::barras::Fútbol=10;Básquetbol=6;Natación=8:: ¿Qué deporte prefieren más?');
+    expect((salida.match(/<rect /g) || []).length).toBe(3);
+    expect(salida).toContain('Natación');
+    expect(salida).toContain('>10<');
+    expect(salida).not.toContain('::');
+  });
 });
