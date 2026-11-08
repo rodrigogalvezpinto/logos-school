@@ -1610,3 +1610,15 @@ cuento de las preguntas 5 a 8, lo borraba.
 - Detector: `/tmp/huerfanos.py`, que se moverá a `backend/scripts`. Se corrigen curso por curso dentro de C.2.
 
 **Verificación.** Validador: 0 discrepancias. Importación: 6.181 preguntas, 0 sin OA. Chromium: 1.° y 2.° básico. Dos fallas de tiempo en guías que no se tocaron pasaron al repetirlas.
+
+**Avance de C.2, 2026-11-08 (continuación).**
+- Cursos en 0 % de preguntas copiadas de la guía:
+  - 3.° básico: 79 reescritas;
+  - 5.° básico: 115 reescritas;
+  - 6.° básico: 92 reescritas.
+- Las pruebas de Lenguaje de 3.°, 5.° y 6.° básico tienen textos propios y conectados a sus preguntas. Antes usaban textos de la guía, sin conectar o ausentes («revisa tu guía»).
+- 7.° básico, en curso: las dos pruebas de Lengua tienen textos nuevos.
+
+**Hallazgo 3: restos de la explicación anterior en las pautas.** Algunas pautas ocupan varias líneas, con continuación sangrada, y la herramienta reemplazaba solo la primera. En 52 ítems de 3.°, 5.° y 6.° básico quedaron restos de la explicación anterior. Se borraron y la herramienta ahora reemplaza la pauta completa. También busca las preguntas solo antes de la sección «Pauta», porque «**1.** b) …» parecía una pregunta.
+
+**Verificación.** Chromium: 3.°, 5.° y 6.° básico. Las fallas por tiempo (corridas de más de 30 minutos con el equipo cargado) pasaron al repetirlas solas.
