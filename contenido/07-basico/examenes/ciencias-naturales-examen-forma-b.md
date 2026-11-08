@@ -158,12 +158,12 @@ b) De la rugosidad de las superficies en contacto
 c) De la temperatura ambiente y de la humedad del aire
 d) Del tipo de material elástico que se usa para unir las superficies
 
-**14.** *(Alternativas, 2 puntos)* ¿Por qué es más fácil deslizar una caja pesada sobre hielo que sobre cemento?
+**14.** *(Alternativas, 2 puntos)* ¿Por qué los neumáticos de un auto tienen surcos (dibujos) en su superficie?
 
-a) Porque sobre el hielo la caja pesa menos, ya que el frío reduce la masa de los objetos
-b) Porque el cemento no ejerce fuerza de roce, pero sí atrae la caja hacia el suelo con más fuerza
-c) Porque el hielo es más liso y genera menor fuerza de roce; el cemento, más rugoso, genera mayor roce
-d) Porque en el hielo no actúa la gravedad, de modo que la caja se mueve sin necesidad de empujarla
+a) Para disminuir la fuerza de gravedad sobre el auto
+b) Para que el auto sea más liviano y gaste menos combustible
+c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia
+d) Para que el auto haga menos ruido al frenar
 
 **15.** *(Alternativas, 3 puntos)* Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
 
@@ -192,12 +192,12 @@ b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que
 c) Ambas teorías son contradictorias entre sí y no pueden sostenerse al mismo tiempo
 d) La deriva continental fue refutada por la tectónica de placas y hoy se considera inválida
 
-**18.** *(Alternativas, 2 puntos)* ¿Por qué Chile tiene alta actividad sísmica y volcánica?
+**18.** *(Alternativas, 2 puntos)* ¿Qué evidencia usó Alfred Wegener para proponer la deriva continental?
 
-a) Porque Chile está en el centro de una placa tectónica, lejos de sus bordes, donde la presión del manto empuja la corteza hacia arriba y forma volcanes
-b) Porque su clima es muy variado de norte a sur, y los cambios bruscos de temperatura agrietan la corteza terrestre, lo que provoca sismos y erupciones
-c) Porque el océano Pacífico es muy profundo frente a la costa chilena, y el peso del agua presiona el fondo marino hasta generar sismos y volcanes
-d) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el extremo sur, la Antártica); la subducción libera energía en forma de sismos y favorece la formación de volcanes
+a) Que los volcanes de todo el mundo tienen la misma altura
+b) Que las costas de Sudamérica y África encajan como piezas de un rompecabezas y que hay fósiles iguales en ambos continentes
+c) Que todos los continentes tienen el mismo clima
+d) Que la Luna se aleja de la Tierra cada año
 
 ---
 
@@ -249,12 +249,12 @@ b) Sus componentes están distribuidos de manera uniforme y no se distinguen a s
 c) Corresponden a sustancias puras, porque no pueden separarse
 d) No pueden separarse mediante ningún método físico conocido
 
-**24.** *(Alternativas, 2 puntos)* ¿Por qué la decantación es adecuada para separar agua y aceite?
+**24.** *(Alternativas, 2 puntos)* Para separar la arena del agua de un vaso, Martina hace pasar la mezcla por un papel filtro. ¿Qué método de separación usa?
 
-a) Porque el aceite se evapora antes que el agua al dejar la mezcla en reposo, y el agua queda sola en el recipiente
-b) Porque el agua y el aceite se mezclan completamente al agitarlos, y la decantación permite volver a separarlos con un imán
-c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas
-d) Porque el aceite es magnético y se puede atraer con un imán, mientras que el agua se queda en el fondo del recipiente
+a) Destilación
+b) Tamizado
+c) Evaporación
+d) Filtración
 
 **25.** *(Varias correctas, 3 puntos)* ¿Cuáles son ejemplos de procedimientos de separación de mezclas en procesos industriales relevantes para Chile? Marca **todas** las correctas.
 
@@ -292,17 +292,17 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 11 | Alternativas | **d) Las bacterias son procariontes, más pequeñas y simples (sin núcleo definido); los hongos son eucariontes, con núcleo y organelos, y pueden ser uni o multicelulares.** | OA 5 |
 | 12 | Alternativas | a) Fuerza gravitacional | OA 7 |
 | 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
-| 14 | Alternativas | **c) Porque el hielo es más liso y genera menor fuerza de roce; el cemento, más rugoso, genera mayor roce.** | OA 7 |
+| 14 | Alternativas | **c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia.** Los surcos aumentan el roce y evacúan el agua; sin ellos el auto pierde adherencia. | OA 7 |
 | 15 | Alternativas | **a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone.** | OA 7 |
 | 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza | OA 9 |
 | 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes | OA 9 |
-| 18 | Alternativas | **d) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el extremo sur, la Antártica); la subducción libera energía en forma de sismos y favorece la formación de volcanes.** | OA 9 |
+| 18 | Alternativas | **b) Que las costas de Sudamérica y África encajan como piezas de un rompecabezas y que hay fósiles iguales en ambos continentes.** Esa evidencia sugería que los continentes estuvieron unidos; la tectónica de placas explicó después cómo se mueven. | OA 9 |
 | 19 | Alternativas | b) Aumenta | OA 13 |
 | 20 | Alternativas | c) Ley de Gay-Lussac | OA 13 |
 | 21 | Alternativas | **b) Poner un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande.** | OA 13 |
 | 22 | Alternativas | c) Sustancia pura | OA 14 |
 | 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista | OA 14 |
-| 24 | Alternativas | **c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas.** | OA 14 |
+| 24 | Alternativas | **d) Filtración.** El papel filtro retiene las partículas sólidas (arena) y deja pasar el líquido. | OA 14 |
 | 25 | Varias correctas | **a, b y c.** Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas. | OA 14 |
 
 

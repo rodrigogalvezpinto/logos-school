@@ -46,12 +46,12 @@ d) $18.000
 
 ---
 
-**Pregunta 3 (Alternativas).** Un cerro tiene su cima a 1.200 m sobre el nivel del mar y una mina cuyo túnel más profundo llega a −85 m. ¿Cuál es la diferencia de altura entre la cima y el punto más profundo de la mina?
+**Pregunta 3 (alternativas).** En Puerto Natales, la temperatura máxima de un día fue 6 °C y la mínima, −9 °C. ¿Cuál fue la diferencia entre la máxima y la mínima?
 
-a) 1.285 m
-b) 1.115 m
-c) −1.285 m
-d) 1.200 m
+a) 15 °C
+b) −3 °C
+c) 3 °C
+d) −15 °C
 
 ---
 
@@ -73,50 +73,50 @@ d) 24
 
 ---
 
-**Pregunta 6 (Alternativas).** Se tienen 5/6 de kilo de queso y se quiere repartir en porciones de 1/12 de kilo cada una. ¿Cuántas porciones se obtienen?
+**Pregunta 6 (alternativas).** Un rollo de cinta de 3/4 de metro se corta en trozos de 1/8 de metro cada uno. ¿Cuántos trozos se obtienen?
 
-a) 5/72 porciones
-b) 12 porciones
-c) 6 porciones
-d) 10 porciones
-
----
-
-**Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 20% de $35.000?
-
-a) $7.000
-b) $3.500
-c) $17.500
-d) $700
+a) 3/32
+b) 8
+c) 6
+d) 24
 
 ---
 
-**Pregunta 8 (Alternativas).** Un banco presta $500.000 y cobra un interés del 8% sobre ese monto. ¿Cuánto se debe devolver en total (capital más interés)?
+**Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 25% de $48.000?
+
+a) $12.000
+b) $4.800
+c) $24.000
+d) $1.920
+
+---
+
+**Pregunta 8 (alternativas).** Camila deposita $200.000 en una cuenta que le paga un 5% de interés al año sobre ese monto. ¿Cuánto dinero tendrá al cabo de un año?
+
+a) $205.000
+b) $250.000
+c) $10.000
+d) $210.000
+
+---
+
+**Pregunta 9 (alternativas).** El precio de una mochila de $40.000 sube un 10% y luego, sobre ese nuevo precio, baja un 10%. ¿Cuál es el precio final?
 
 a) $40.000
-b) $508.000
-c) $540.000
-d) $900.000
-
----
-
-**Pregunta 9 (Alternativas).** Un producto de $60.000 subió un 15% y luego, sobre el nuevo precio, se aplicó un descuento del 15%. ¿Cuál es el precio final?
-
-a) $69.000, mayor que el original
-b) $60.000, igual al original
-c) $58.650, menor que el original
-d) $51.000, menor que el original
+b) $39.600
+c) $44.000
+d) $36.000
 
 ---
 
 ## Eje 2: Patrones y Álgebra
 
-**Pregunta 10 (alternativas).** ¿Cuál expresión algebraica representa "el doble de un número, más 7"?
+**Pregunta 10 (alternativas).** ¿Qué expresión algebraica representa "el triple de un número, disminuido en 4"?
 
-a) 2x + 7
-b) x + 2 + 7
-c) 2(x + 7)
-d) x/2 + 7
+a) 3x − 4
+b) 3(x − 4)
+c) x³ − 4
+d) 4 − 3x
 
 ---
 
@@ -129,12 +129,12 @@ d) 4n + 1
 
 ---
 
-**Pregunta 12 (Alternativas).** La suma de dos números consecutivos es 45. Si x es el menor, ¿qué ecuación se plantea y cuáles son los números?
+**Pregunta 12 (alternativas).** La suma de tres números consecutivos es 48. Si x es el menor, ¿qué ecuación se plantea y cuáles son los números?
 
-a) x + x = 45; 22,5 y 22,5
-b) x + (x + 1) = 45; 22 y 23
-c) x + (x + 1) = 45; 23 y 24
-d) 2x = 45 + 1; 23 y 24
+a) x + x + x = 48; 16, 16 y 16
+b) 3x = 48; 15, 16 y 17
+c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17
+d) x + (x + 1) + (x + 2) = 48; 16, 17 y 18
 
 ---
 
@@ -147,32 +147,32 @@ d) $10.000
 
 ---
 
-**Pregunta 14 (alternativas).** Un estanque de agua se llena en 10 horas si se usa 1 llave. ¿Qué tipo de proporción describe la relación entre la cantidad de llaves usadas (abiertas al mismo tiempo, con el mismo caudal) y el tiempo que demora en llenarse el estanque?
+**Pregunta 14 (alternativas).** ¿Qué tipo de relación hay entre la cantidad de cuadernos iguales que compras y el dinero total que pagas?
 
-a) Directa
-b) Inversa
-c) No es una proporción
-d) Depende del estanque
+a) Proporcionalidad directa
+b) Proporcionalidad inversa
+c) No hay ninguna relación
+d) La cantidad de cuadernos no influye en el total
 
 ---
 
-**Pregunta 15 (Alternativas).** Si 5 pintores pintan una casa en 8 días, ¿cuántos días demorarían 10 pintores trabajando al mismo ritmo?
+**Pregunta 15 (alternativas).** Con 3 llaves iguales abiertas, un estanque se llena en 12 horas. ¿Cuánto demorará en llenarse con 4 llaves iguales?
 
-a) 16 días
-b) 13 días
-c) 8 días
-d) 4 días
+a) 16 horas
+b) 13 horas
+c) 48 horas
+d) 9 horas
 
 ---
 
 ## Eje 3: Geometría
 
-**Pregunta 16 (alternativas).** Si el diámetro de un círculo es 14 cm, ¿cuál es su radio?
+**Pregunta 16 (alternativas).** Una rueda tiene 30 cm de radio. ¿Cuánto mide su diámetro?
 
-a) 3,5 cm
-b) 7 cm
-c) 14 cm
-d) 28 cm
+a) 15 cm
+b) 900 cm
+c) 60 cm
+d) 188,4 cm
 
 ---
 
@@ -185,16 +185,16 @@ d) 314 cm²
 
 ---
 
-**Pregunta 18 (Alternativas).** Un cultivo circular de riego tiene 15 m de radio. ¿Qué área ocupa? (π ≈ 3,14)
+**Pregunta 18 (alternativas).** Una pizza circular tiene 20 cm de radio. ¿Cuál es su área aproximada? (π ≈ 3,14)
 
-a) 47,1 m²
-b) 94,2 m²
-c) 706,5 m²
-d) 2.826 m²
+a) 125,6 cm²
+b) 62,8 cm²
+c) 400 cm²
+d) 1.256 cm²
 
 ---
 
-**Pregunta 19 (alternativas).** ¿En qué cuadrante se ubica el punto B(−5, −2)?
+**Pregunta 19 (alternativas).** ¿En qué cuadrante del plano cartesiano se ubica el punto D(4, −7)?
 
 a) Cuadrante I
 b) Cuadrante II
@@ -203,12 +203,12 @@ d) Cuadrante IV
 
 ---
 
-**Pregunta 20 (Alternativas).** El punto P(2, −3) se traslada 4 unidades hacia arriba y 6 unidades hacia la izquierda. ¿Cuáles son sus nuevas coordenadas?
+**Pregunta 20 (alternativas).** El punto P(−1, 5) se mueve 3 unidades a la derecha y 7 unidades hacia abajo. ¿Cuáles son sus nuevas coordenadas?
 
-a) (8, 1)
-b) (−4, −7)
-c) (6, −9)
-d) (−4, 1)
+a) (2, −2)
+b) (−4, 12)
+c) (−8, 8)
+d) (2, 12)
 
 ---
 
@@ -230,39 +230,39 @@ d) 4%
 
 ---
 
-**Pregunta 22 (alternativas).** Un profesor quiere comparar las estaturas de los estudiantes de 7°A con las de 7°B, dato por dato, para ver si un curso tiende a tener estudiantes más altos que el otro. ¿Qué tipo de gráfico sería más apropiado?
+**Pregunta 22 (alternativas).** Se quiere mostrar cómo cambió la temperatura de una ciudad hora a hora durante un día. ¿Qué gráfico es más apropiado?
 
-a) Gráfico circular
-b) Gráfico de tallo y hojas
-c) Pictograma
-d) Ninguno de los anteriores
-
----
-
-**Pregunta 23 (Alternativas).** Las ventas diarias de una semana fueron: 12, 15, 12, 18, 20, 15, 12 unidades. ¿Cuál fue el valor más frecuente y cuál es su frecuencia relativa?
-
-a) 15 unidades, con 2/7 ≈ 28,6%
-b) 12 unidades, con 3/7 ≈ 42,9%
-c) 20 unidades, con 1/7 ≈ 14,3%
-d) 12 unidades, con 3/12 = 25%
+a) Gráfico de línea
+b) Gráfico circular
+c) Gráfico de tallo y hojas
+d) Pictograma
 
 ---
 
-**Pregunta 24 (alternativas).** En una ruleta dividida en 8 sectores iguales, numerados del 1 al 8, ¿cuál es la probabilidad de que caiga en el número 5?
+**Pregunta 23 (alternativas).** En una encuesta a 20 estudiantes, 8 prefieren el básquetbol. ¿Cuál es la frecuencia relativa porcentual de quienes prefieren el básquetbol?
 
-a) 1/5
-b) 5/8
-c) 1/8
-d) 8/1
-
----
-
-**Pregunta 25 (Alternativas).** Un jugador de básquetbol lanzó 40 tiros libres y anotó 32. A partir de esta frecuencia relativa, ¿cuál es la probabilidad estimada de que anote el próximo?
-
-a) 32%
+a) 8%
 b) 20%
-c) 80%
-d) 8%
+c) 40%
+d) 2,5%
+
+---
+
+**Pregunta 24 (alternativas).** Una bolsa tiene 3 bolitas rojas, 5 azules y 2 verdes. Si se saca una al azar, ¿cuál es la probabilidad de sacar una azul?
+
+a) 1/2
+b) 1/5
+c) 5/3
+d) 1/3
+
+---
+
+**Pregunta 25 (alternativas).** Un jugador encestó 18 de sus últimos 30 lanzamientos libres. Usando la frecuencia relativa, ¿cuál es la probabilidad estimada de que enceste el próximo?
+
+a) 18%
+b) 30%
+c) 1/18
+d) 60%
 
 ---
 
@@ -282,29 +282,29 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |---|---|---|---|
 | 1 | a) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
 | 2 | d) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
-| 3 | **a) 1.285 m.** Se resta la posición más baja a la más alta: 1.200 − (−85) = 1.200 + 85 = 1.285 m. Restar un número negativo equivale a sumar su valor positivo; 1.115 m resulta de restar 85 en vez de sumarlo. | OA 1 | Números y Operaciones |
+| 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
 | 4 | c) 1/7 ((1×2)/(2×7)=2/14, simplificado dividiendo por 2 = 1/7) | OA 3 | Números y Operaciones |
 | 5 | **d) 24.** Amplificando ambos números por 10 se elimina la coma: 96 ÷ 4 = 24. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
-| 6 | **d) 10 porciones.** 5/6 ÷ 1/12 = 5/6 × 12/1 = 60/6 = 10. Dividir el total por el tamaño de cada porción indica cuántas porciones caben; 5/72 resulta de multiplicar en vez de dividir. | OA 3 | Números y Operaciones |
-| 7 | a) $7.000 (20% equivale a dividir por 5: 35.000 ÷ 5 = 7.000) | OA 4 | Números y Operaciones |
-| 8 | **c) $540.000.** Interés: 0,08 × 500.000 = 40.000; total: 500.000 + 40.000 = $540.000. $508.000 confunde 8% con $8.000 y $900.000 confunde 8% con 80%. | OA 4 | Números y Operaciones |
-| 9 | **c) $58.650, menor que el original.** Tras el alza: 60.000 + 9.000 = 69.000; tras el descuento: 69.000 − 10.350 = $58.650. Subir y bajar el mismo porcentaje no devuelve el valor original, porque el 15% se calcula sobre bases distintas. | OA 4 | Números y Operaciones |
-| 10 | a) 2x + 7 | OA 6 | Patrones y Álgebra |
+| 6 | **c) 6.** 3/4 ÷ 1/8 = 3/4 × 8/1 = 24/4 = 6. Dividir el total por el tamaño de cada trozo indica cuántos caben; 3/32 resulta de multiplicar en vez de dividir. | OA 3 | Números y Operaciones |
+| 7 | **a) $12.000.** El 25% equivale a la cuarta parte: 48.000 ÷ 4 = 12.000. $4.800 es el 10% y $24.000, el 50%. | OA 4 | Números y Operaciones |
+| 8 | **d) $210.000.** Interés: 0,05 × 200.000 = 10.000; total: 200.000 + 10.000 = $210.000. $205.000 confunde 5% con $5.000 y $10.000 es solo el interés. | OA 4 | Números y Operaciones |
+| 9 | **b) $39.600.** Tras el alza: 40.000 + 4.000 = 44.000; tras la baja: 44.000 − 4.400 = $39.600. Subir y bajar el mismo porcentaje no deja el precio igual, porque el segundo porcentaje se calcula sobre otro valor. | OA 4 | Números y Operaciones |
+| 10 | **a) 3x − 4.** «El triple de un número» es 3x y «disminuido en 4» resta 4 al resultado: 3x − 4. 3(x − 4) restaría 4 antes de triplicar. | OA 6 | Patrones y Álgebra |
 | 11 | **d) 4n + 1.** La secuencia aumenta de 4 en 4, por lo que el término es 4n + algo; con n = 1 se obtiene 5, entonces 4n + 1 (comprobación n = 3: 4·3 + 1 = 13 ✓). | OA 6 | Patrones y Álgebra |
-| 12 | **b) x + (x + 1) = 45; 22 y 23.** Si el menor es x, el siguiente es x + 1: 2x + 1 = 45 → 2x = 44 → x = 22; los números son 22 y 23 (22 + 23 = 45 ✓). | OA 6 | Patrones y Álgebra |
+| 12 | **c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17.** x + (x + 1) + (x + 2) = 48 → 3x + 3 = 48 → x = 15; los números son 15, 16 y 17 (suman 48). | OA 6 | Patrones y Álgebra |
 | 13 | b) $15.000 (9.000÷3=3.000 por entrada; 3.000×5=15.000) | OA 8 | Patrones y Álgebra |
-| 14 | b) Inversa | OA 8 | Patrones y Álgebra |
-| 15 | **d) 4 días.** El producto pintores × días es constante: 5 × 8 = 40; con 10 pintores, 40 ÷ 10 = 4 días. 16 días sería tratar la relación como directa. | OA 8 | Patrones y Álgebra |
-| 16 | b) 7 cm (radio = diámetro ÷ 2) | OA 11 | Geometría |
+| 14 | **a) Proporcionalidad directa.** Si compras el doble de cuadernos pagas el doble: ambas cantidades varían en la misma razón (proporcionalidad directa). | OA 8 | Patrones y Álgebra |
+| 15 | **d) 9 horas.** Es proporcionalidad inversa: llaves × horas es constante, 3 × 12 = 36; con 4 llaves, 36 ÷ 4 = 9 horas. 16 horas sería tratarla como directa. | OA 8 | Patrones y Álgebra |
+| 16 | **c) 60 cm.** El diámetro mide el doble del radio: 2 × 30 = 60 cm. 188,4 cm es el perímetro y 900 es el radio al cuadrado. | OA 11 | Geometría |
 | 17 | d) 314 cm² (A=3,14×10²=3,14×100=314) | OA 11 | Geometría |
-| 18 | **c) 706,5 m².** A = 3,14 × 15² = 3,14 × 225 = 706,5 m². Es un error común multiplicar el radio por 2 (94,2) en vez de elevarlo al cuadrado. | OA 11 | Geometría |
-| 19 | c) Cuadrante III (x negativo, y negativo) | OA 14 | Geometría |
-| 20 | **d) (−4, 1).** Hacia arriba suma a y: −3 + 4 = 1; hacia la izquierda resta a x: 2 − 6 = −4. Cada movimiento afecta solo a su coordenada. | OA 14 | Geometría |
+| 18 | **d) 1.256 cm².** A = π · r² = 3,14 × 20² = 3,14 × 400 = 1.256 cm². 125,6 es el perímetro (2πr) y 400 es solo r². | OA 11 | Geometría |
+| 19 | **d) Cuadrante IV.** x positivo y y negativo: el punto está a la derecha y abajo del origen, en el cuadrante IV. | OA 14 | Geometría |
+| 20 | **a) (2, −2).** A la derecha suma a x: −1 + 3 = 2; hacia abajo resta a y: 5 − 7 = −2. Cada movimiento afecta solo a su coordenada. | OA 14 | Geometría |
 | 21 | b) 25% (10/40=0,25) | OA 16 | Datos y Probabilidades |
-| 22 | b) Gráfico de tallo y hojas | OA 16 | Datos y Probabilidades |
-| 23 | **b) 12 unidades, con 3/7 ≈ 42,9%.** "12" aparece 3 de los 7 días registrados; su frecuencia relativa es 3/7 ≈ 42,9% (se divide por el total de días, no por el valor). | OA 16 | Datos y Probabilidades |
-| 24 | c) 1/8 (1 caso favorable de 8 posibles) | OA 18 | Datos y Probabilidades |
-| 25 | **c) 80%.** 32/40 = 0,8 = 80%. La frecuencia relativa observada en muchos intentos se usa como estimación de la probabilidad si las condiciones se mantienen. | OA 18 | Datos y Probabilidades |
+| 22 | **a) Gráfico de línea.** El gráfico de línea muestra cómo varía una cantidad a lo largo del tiempo; el circular compara partes de un total. | OA 16 | Datos y Probabilidades |
+| 23 | **c) 40%.** 8 ÷ 20 = 0,4 = 40%. La frecuencia relativa divide la frecuencia absoluta por el total de datos. | OA 16 | Datos y Probabilidades |
+| 24 | **a) 1/2.** Casos favorables: 5; casos posibles: 3 + 5 + 2 = 10; P = 5/10 = 1/2. 5/3 compara azules con rojas, no con el total. | OA 18 | Datos y Probabilidades |
+| 25 | **d) 60%.** 18/30 = 0,6 = 60%. La frecuencia relativa observada en muchos intentos se usa como estimación de la probabilidad. | OA 18 | Datos y Probabilidades |
 
 ### Resumen de cobertura curricular
 
