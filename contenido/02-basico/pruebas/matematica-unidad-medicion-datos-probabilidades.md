@@ -20,20 +20,20 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Qué unidad es más adecuada para medir el largo de una sala de clases?
+**Pregunta 1.** ¿Qué unidad es más adecuada para medir el largo de una goma de borrar?
 
-a) Centímetros
+a) Metros
 b) No se puede medir
-c) Manos
-d) Metros
+c) Kilómetros
+d) Centímetros
 
 ---
 
-**Pregunta 2.** Un lápiz mide 14 cm y una regla mide 30 cm. ¿Cuál objeto es más largo?
+**Pregunta 2.** Una cuerda mide 25 cm y una cinta mide 18 cm. ¿Cuál es más corta?
 
 a) Miden lo mismo
-b) El lápiz
-c) La regla
+b) La cuerda
+c) La cinta
 
 ---
 
@@ -99,8 +99,8 @@ c) A pie
 
 ## Pauta de respuestas
 
-1. **d) Metros.** La sala de clases es un espacio grande, más adecuado para medir en metros.
-2. c) La regla. 30 cm es mayor que 14 cm.
+1. **d) Centímetros.** La goma es un objeto pequeño: se mide en centímetros.
+2. c) La cinta. 18 cm es menor que 25 cm.
 3. a) 25 cm. 40 − 15 = 25: se resta el pedazo cortado al largo total.
 4. **c) 3.** Sello salió 3 veces según la tabla.
 5. b) Cara. Cara salió 7 veces, más que las 3 de sello.

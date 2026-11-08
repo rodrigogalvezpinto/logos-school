@@ -20,38 +20,38 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuál es la regla de la secuencia 10, 20, 30, 40?
+**Pregunta 1.** ¿Cuál es la regla de la secuencia 3, 6, 9, 12?
 
-a) sumar 5
-b) restar 10
-c) sumar 20
-d) sumar 10
-
----
-
-**Pregunta 2.** Completa la secuencia: 45, 50, 55, ___, 65
-
-a) 60
-b) 56
-c) 70
-d) 57
+a) sumar 2
+b) restar 3
+c) sumar 6
+d) sumar 3
 
 ---
 
-**Pregunta 3.** Completa: 6, 12, 18, ___, 30
+**Pregunta 2.** Completa la secuencia: 22, 24, 26, ___, 30
 
-a) 20
-b) 22
-c) 24
-d) 26
+a) 28
+b) 27
+c) 32
+d) 29
 
 ---
 
-**Pregunta 4.** En la secuencia 95, 85, 75, 65, ¿cuál es la regla que se repite?
+**Pregunta 3.** Completa: 15, 20, 25, ___, 35
 
-a) restar 5
-b) restar 10
-c) sumar 10
+a) 26
+b) 28
+c) 30
+d) 40
+
+---
+
+**Pregunta 4.** En la secuencia 50, 45, 40, 35, ¿cuál es la regla que se repite?
+
+a) restar 10
+b) restar 5
+c) sumar 5
 d) restar 15
 
 ---
@@ -64,7 +64,7 @@ c) =
 
 ---
 
-**Pregunta 6.** ¿Qué símbolo hace verdadera la comparación? 6+6 ___ 12
+**Pregunta 6.** ¿Qué símbolo hace verdadera la comparación? 7+3 ___ 10
 
 a) >
 b) <
@@ -83,10 +83,10 @@ c) =
 
 ## Pauta de respuestas
 
-1. **d) sumar 10.** La diferencia entre cada número y el anterior es siempre 10.
-2. a) 60. La regla es "sumar 5": 55 + 5 = 60.
-3. c) 24. La regla es "sumar 6": 18 + 6 = 24.
-4. **b) restar 10.** La diferencia entre cada número y el siguiente es siempre 10.
+1. **d) sumar 3.** La diferencia entre cada número y el anterior es siempre 3.
+2. a) 28. La regla es "sumar 2": 26 + 2 = 28.
+3. c) 30. La regla es "sumar 5": 25 + 5 = 30.
+4. **b) restar 5.** Cada número es 5 menos que el anterior.
 5. a) <. 9 + 4 = 13, y 13 es menor que 15.
-6. **c) =.** 6+6=12, ambos lados valen exactamente 12.
+6. **c) =.** 7+3=10, ambos lados valen exactamente 10.
 7. b) >. 10 + 9 = 19 y 7 + 7 = 14; 19 es mayor que 14.

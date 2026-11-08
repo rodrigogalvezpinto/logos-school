@@ -18,62 +18,57 @@ y vuelve después.
 
 ---
 
-**1. (Alternativas)** ¿Para qué sirve conocer las vías de evacuación de tu escuela?
+**1. (Alternativas)** Durante un simulacro de sismo en el colegio, ¿qué debes hacer?
 
-a) Para saber por dónde correr y jugar durante el recreo sin chocar con nadie
-b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia
-c) Para llegar más rápido a la sala de clases cuando suena el timbre de la mañana
-d) Para saber qué pasillos hay que decorar en las fiestas del colegio
-
----
-
-**2. (Verdadero o Falso)** Las rampas y los semáforos con sonido son ejemplos de adaptaciones
-que ayudan a personas con discapacidad a moverse con más seguridad.
+a) Correr a buscar tu mochila antes de salir
+b) Seguir las instrucciones del profesor y salir en orden por la vía de evacuación
+c) Esconderte en el baño hasta que termine
+d) Gritar para avisar a todos
 
 ---
 
-**3. (Alternativas — unir)** Une cada situación con la norma que corresponde:
+**2. (Verdadero o Falso)** Dejar una bicicleta estacionada en medio de una rampa no afecta a nadie.
 
-1) Cruzar una calle con autos — 2) Hablar en clases mientras el profesor explica — 3) Visitar
-un monumento histórico
+---
 
-Normas: (A) No rayarlo ni dañarlo — (B) Levantar la mano y esperar mi turno — (C) Mirar hacia
-ambos lados y respetar el semáforo
+**3. (Alternativas — unir)** Une cada lugar con la norma que corresponde:
+
+1) La biblioteca — 2) El bus — 3) La plaza
+
+Normas: (A) Botar la basura en el basurero — (B) Hablar en voz baja — (C) Dar el asiento a quien lo necesita más
 
 ¿Qué combinación es correcta?
 
 a) 1-A, 2-B, 3-C
 b) 1-C, 2-A, 3-B
-c) 1-C, 2-B, 3-A
-d) 1-B, 2-C, 3-A
+c) 1-B, 2-C, 3-A
+d) 1-B, 2-A, 3-C
 
 ---
 
-**4. (Alternativas)** ¿Cuál es la función principal de los medios de transporte?
+**4. (Alternativas)** Un camión lleva frutas desde el campo hasta la feria de la ciudad. ¿Qué servicio está cumpliendo?
 
-a) Transmitir noticias e información a las personas
-b) Trasladar personas y productos de un lugar a otro
-c) Vender alimentos y otros productos en las ferias
-d) Cuidar el patrimonio y los edificios antiguos
-
----
-
-**5. (Alternativas)** ¿Qué institución en Chile se encarga especialmente de cuidar los parques
-nacionales y los bosques?
-
-a) La CONAF
-b) La municipalidad
-c) Carabineros
-d) El hospital
+a) Un servicio de salud
+b) Un medio de transporte
+c) Un servicio de educación
+d) Un museo
 
 ---
 
-**6. (Alternativas — unir)** Une cada servicio con la labor que cumple:
+**5. (Alternativas)** Hay un incendio en una casa del barrio. ¿Qué institución debe acudir a apagarlo?
 
-1) Feria o mercado — 2) Medios de transporte — 3) Museo
+a) Bomberos
+b) La biblioteca
+c) El museo
+d) El supermercado
 
-Labores: (A) Traslada personas y productos — (B) Permite comprar alimentos y otros productos —
-(C) Cuida y muestra objetos históricos y culturales
+---
+
+**6. (Alternativas — unir)** Une cada trabajador con la labor que cumple:
+
+1) Profesora — 2) Médico — 3) Carabinero
+
+Labores: (A) Atiende a las personas enfermas — (B) Enseña a los niños en la escuela — (C) Cuida la seguridad en las calles
 
 ¿Qué combinación es correcta?
 
@@ -86,9 +81,9 @@ d) 1-B, 2-C, 3-A
 
 ## Pauta de respuestas
 
-1. **b)** Para saber cómo salir de forma segura y ordenada en caso de una emergencia
-2. Verdadero
-3. c) 1-C, 2-B, 3-A
-4. **b)** Trasladar personas y productos de un lugar a otro
-5. **a)** La CONAF
+1. **b)** Seguir las instrucciones del profesor y salir en orden por la vía de evacuación
+2. Falso. La rampa permite moverse a personas en silla de ruedas, con coches de bebé o con muletas: bloquearla les impide pasar.
+3. c) 1-B, 2-C, 3-A
+4. **b)** Un medio de transporte
+5. **a)** Bomberos
 6. a) 1-B, 2-A, 3-C

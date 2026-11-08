@@ -20,7 +20,7 @@ oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 12","5":"OA 12","6
 
 ---
 
-**Pregunta 1.** ¿Cómo se llama el proceso en el que el agua líquida se transforma en vapor por efecto del calor del Sol?
+**Pregunta 1.** Después de la lluvia, los charcos de la calle se secan cuando sale el sol. ¿Qué proceso ocurrió?
 
 a) Condensación
 b) Precipitación
@@ -49,12 +49,12 @@ d) Reutilizar el agua de la lluvia para regar plantas
 
 ---
 
-**Pregunta 4.** ¿Cuál de estas es una forma de precipitación, es decir, agua que cae del cielo?
+**Pregunta 4.** ¿Cuál de estas es una forma de precipitación?
 
-a) El viento
-b) La nieve
-c) La temperatura
-d) Las nubes
+a) El arcoíris
+b) El granizo
+c) El viento
+d) El sol
 
 ---
 
@@ -70,12 +70,12 @@ e) Nieve
 
 ---
 
-**Pregunta 6.** ¿Con qué estación del año se relaciona principalmente la sensación de calor y el sol fuerte?
+**Pregunta 6.** ¿En qué estación del año los árboles pierden sus hojas y estas se ponen amarillas y cafés?
 
-a) Invierno
-b) Otoño
-c) Verano
-d) Primavera
+a) Verano
+b) Primavera
+c) Otoño
+d) Invierno
 
 ---
 
@@ -90,10 +90,10 @@ d) Porque se preparan para el invierno, cuando la comida suele ser más escasa
 
 ## Pauta de respuestas
 
-1. **c) Evaporación.** La evaporación ocurre cuando el calor transforma el agua líquida en vapor invisible que sube al cielo.
+1. **c) Evaporación.** El calor del sol transformó el agua líquida de los charcos en vapor.
 2. a) Evaporación → condensación (nubes) → precipitación (lluvia). Este ciclo se repite una y otra vez en la naturaleza.
 3. a, c y d — Son acciones cotidianas que ahorran agua; dejar la manguera corriendo la desperdicia.
-4. **b) La nieve.** La nieve, junto con la lluvia y el granizo, es una forma de precipitación.
+4. **b) El granizo.** El granizo, la lluvia y la nieve son agua que cae del cielo: precipitaciones.
 5. a, c y e — La precipitación es agua que cae del cielo; las ramas y la cometa se mueven por el viento, que es aire en movimiento.
-6. **c) Verano.** El verano se caracteriza por temperaturas altas y muchas horas de sol.
+6. **c) Otoño.** En otoño muchas hojas cambian de color y caen de los árboles.
 7. d) Porque se preparan para el invierno, cuando la comida suele ser más escasa. Guardan reservas mientras todavía hay alimento disponible.

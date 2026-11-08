@@ -20,15 +20,32 @@ def main() -> None:
     texto = ruta.read_text(encoding="utf-8")
     for n, c in cambios["preguntas"].items():
         # El bloque termina en la pregunta siguiente, en un separador «---» o en un encabezado.
-        bloque = re.compile(rf"^\*\*(?:Pregunta )?{n}[.* ].*?(?=^\*\*(?:Pregunta )?\d+[.* ]|^---$|^#)", re.S | re.M)
+        # También termina en un estímulo compartido («*(Lee el cuento… preguntas 5 a 8)*», «**Texto A**»):
+        # sin este corte, el estímulo de las preguntas siguientes se borraba junto con la pregunta (2026-11-08).
+        bloque = re.compile(
+            rf"^\*\*(?:Pregunta )?{n}[.* ].*?(?=^\*\*(?:Pregunta )?\d+[.* ]|^---$|^#"
+            rf"|^\*{{0,2}}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa|Vuelve a leer)\b|^\*\*Texto\b)", re.S | re.M)
         hallados = bloque.findall(texto)
         if len(hallados) != 1:
             sys.exit(f"pregunta {n}: se esperaba 1 bloque y hay {len(hallados)}")
+        # Seguro: no perder texto citado, imágenes ni marcadores que el bloque nuevo no traiga.
+        perdidas = [l for l in hallados[0].splitlines() if re.match(r"\s*(>|\[Imagen|::)", l) and l.strip() not in c["bloque"]]
+        if perdidas and not cambios.get("forzar"):
+            sys.exit(f"pregunta {n}: el bloque reemplazado contiene estímulo que se perdería: {perdidas[0][:80]!r}")
         texto = bloque.sub(lambda _m: c["bloque"].rstrip("\n") + "\n\n", texto, count=1)
         fila = re.compile(rf"^\| {n} +\|.*$", re.M)  # algunas pautas alinean con «| 6  |»
-        if len(fila.findall(texto)) != 1:
-            sys.exit(f"pauta {n}: se esperaba 1 fila")
-        texto = fila.sub(lambda _m: c["pauta"], texto, count=1)
+        if len(fila.findall(texto)) == 1:
+            texto = fila.sub(lambda _m: c["pauta"], texto, count=1)
+            continue
+        # Pruebas de unidad: pauta en lista («1. **d) …**», «**4.** a) …») después del título «Pauta».
+        inicio = texto.find("Pauta")
+        if inicio < 0:
+            sys.exit(f"pauta {n}: no hay fila de tabla ni sección «Pauta»")
+        item = re.compile(rf"^(?:\*\*{n}\.\*\*|{n}\.) .*$", re.M)
+        cola = texto[inicio:]
+        if len(item.findall(cola)) != 1:
+            sys.exit(f"pauta {n}: se esperaba 1 línea en la pauta")
+        texto = texto[:inicio] + item.sub(lambda _m: c["pauta"], cola, count=1)
     ruta.write_text(texto, encoding="utf-8")
     print(f"{len(cambios['preguntas'])} preguntas reemplazadas en {ruta.relative_to(RAIZ)}")
 

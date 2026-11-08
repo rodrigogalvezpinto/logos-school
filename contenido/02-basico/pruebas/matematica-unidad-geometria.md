@@ -20,16 +20,16 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuántos lados tiene un triángulo?
+**Pregunta 1.** ¿Cuántos vértices (puntas) tiene un rectángulo?
 
-a) 4
-b) 3
-c) 2
+a) 3
+b) 4
+c) 5
 d) 0
 
 ---
 
-**Pregunta 2.** Un cuadrado tiene ___ lados, todos de igual medida.
+**Pregunta 2.** Una ventana tiene forma de rectángulo. ¿Cuántos lados tiene?
 
 a) 3
 b) 4
@@ -38,55 +38,55 @@ d) 6
 
 ---
 
-**Pregunta 3.** ¿Qué figura tiene 3 lados y 3 vértices?
+**Pregunta 3.** ¿Qué figura no tiene lados rectos ni vértices?
 
-a) Círculo
+a) Triángulo
 b) Cuadrado
 c) Rectángulo
-d) Triángulo
+d) Círculo
 
 ---
 
-**Pregunta 4.** ¿Qué figura 3D tiene forma de pelota?
+**Pregunta 4.** ¿Qué figura 3D tiene la forma de un tarro de conservas?
 
 a) Cubo
 b) Cono
-c) Esfera
-d) Paralelepípedo
+c) Cilindro
+d) Esfera
 
 ---
 
-**Pregunta 5.** Un dado tiene forma de ___, con 6 caras cuadradas.
+**Pregunta 5.** Un gorro de cumpleaños con punta tiene forma de:
 
 a) cilindro
-b) cono
+b) cubo
 c) esfera
-d) cubo
+d) cono
 
 ---
 
-**Pregunta 6.** El cono tiene una cara circular y una superficie curva. ¿Verdadero o falso?
+**Pregunta 6.** La esfera tiene caras planas y vértices, como un cubo. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso
 
 ---
 
-**Pregunta 7.** ¿Qué objeto de la vida diaria tiene forma de paralelepípedo?
+**Pregunta 7.** ¿Qué objeto de la vida diaria tiene forma de cubo?
 
-a) Una pelota de fútbol
+a) Una pelota de tenis
 b) Un cucurucho de helado
-c) Una caja de zapatos
-d) Una naranja
+c) Un dado
+d) Un tubo de papas fritas
 
 ---
 
 ## Pauta de respuestas
 
-1. **b) 3.** Un triángulo tiene 3 lados y 3 vértices.
-2. b) 4. El cuadrado tiene 4 lados, todos de igual medida.
-3. **d) Triángulo.** Es la única figura con 3 lados y 3 vértices.
-4. **c) Esfera.** Toda su superficie es curva, sin caras planas ni vértices.
-5. d) cubo. El dado tiene 6 caras cuadradas iguales y 8 vértices.
-6. **Verdadero.** El cono tiene una base circular y una superficie curva hasta la punta.
-7. **c) Una caja de zapatos.** Sus caras son rectangulares, como un paralelepípedo.
+1. **b) 4.** El rectángulo tiene 4 lados y 4 vértices.
+2. b) 4. El rectángulo tiene 4 lados: dos largos y dos cortos.
+3. **d) Círculo.** Su borde es una línea curva, sin lados rectos ni vértices.
+4. **c) Cilindro.** Tiene dos caras circulares y una superficie curva.
+5. d) cono. Tiene una base circular y una superficie curva que termina en punta.
+6. **Falso.** La esfera es completamente curva: no tiene caras planas ni vértices.
+7. **c) Un dado.** Tiene 6 caras cuadradas iguales, como un cubo.

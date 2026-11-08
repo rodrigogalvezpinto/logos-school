@@ -180,18 +180,18 @@ d) Litros
 
 ---
 
-**15. (Lenguaje — Alternativas)** Vuelve a leer el texto "El reciclaje en la escuela":
+**15. (Lenguaje — Alternativas)** Lee el texto "El semáforo para peatones":
 
-> El reciclaje en la escuela
+> El semáforo para peatones
 >
-> En muchas escuelas de Chile hay contenedores de distintos colores para separar la basura. El contenedor azul es para el papel y el cartón. El contenedor amarillo es para los plásticos y las latas. El contenedor café es para los restos de comida, como cáscaras de fruta. Cada contenedor tiene un dibujo que ayuda a reconocer qué se debe botar ahí, incluso para las personas que todavía no saben leer bien.
+> En las esquinas de muchas ciudades hay semáforos para las personas que caminan. Cuando se enciende un monito verde caminando, puedes cruzar la calle. Cuando se enciende un monito rojo quieto, debes esperar en la vereda. Los dibujos de los monitos ayudan a entender el semáforo, incluso a las personas que todavía no saben leer bien.
 
- ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+¿Para qué sirven los dibujos de los monitos del semáforo?
 
-a) Para que los contenedores se vean bonitos y alegres en el patio de la escuela
-b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien
-c) Para decir cuánto cuesta reciclar cada tipo de basura en la escuela
-d) Para que nadie use los contenedores sin pedir permiso a la profesora
+a) Para que el semáforo se vea bonito y alegre en la esquina
+b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien
+c) Para decir cuánto cuesta cruzar la calle
+d) Para que los autos sepan dónde estacionarse
 
 ---
 
@@ -276,7 +276,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Lenguaje y Comunicación | **c) Azul.** El artículo dice "El contenedor azul es para el papel y el cartón". | OA N°7 |
 | 13 | Ciencias Naturales | **a, c y d.** Son acciones cotidianas que cuidan el agua; dejar la manguera corriendo la desperdicia. | OA 11 |
 | 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
-| 15 | Lenguaje y Comunicación | **b) Para reconocer qué basura va en cada contenedor, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |
+| 15 | Lenguaje y Comunicación | **b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona centro.** Los valles fértiles con viñedos y ríos, entre las dos cordilleras, son característicos del centro de Chile. | OA 8 |
 | 17 | Matemática | **c) 9 alumnos más.** En el gráfico, "a pie" llega a 15 y "bicicleta" a 6: 15 − 6 = 9. | OA 22 |
 | 18 | Ciencias Naturales | **a) Junio, julio y agosto.** En Chile el invierno empieza en junio; en diciembre, enero y febrero es verano. | OA 14 |

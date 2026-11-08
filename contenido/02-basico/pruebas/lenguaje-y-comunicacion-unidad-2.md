@@ -21,58 +21,58 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
+*(Lee los textos A y B y responde las preguntas 1 a 4.)*
+
 **Texto A — Una carta**
 
-> Querida tía Sole:
-> Te escribo desde Rancagua para contarte que aprendí a andar en bicicleta sin las rueditas. Mi papá me ayudó todos los domingos en la plaza. Al principio me caía mucho y me daba miedo, pero ahora ando rapidísimo. La próxima semana vamos a visitarte a Chillán, así que voy a llevar mi bicicleta para mostrarte cómo ando.
-> Con cariño, tu sobrino Matías.
+> Querida abuela Rosa:
+> Te escribo desde Talca para contarte que ya sé nadar. Fui a clases en la piscina municipal todos los sábados. Al principio tragaba agua y me daba susto, pero ahora nado de un lado a otro de la piscina. En el verano vamos a visitarte a La Serena, así que llevaré mi traje de baño para nadar contigo en la playa.
+> Un abrazo, tu nieta Josefa.
 
-**Texto B — Un artículo informativo**
+**Texto B — Un texto informativo**
 
-> El reciclaje en la escuela
+> Los letreros del parque
 >
-> En muchas escuelas de Chile hay contenedores de distintos colores para separar la basura. El contenedor azul es para el papel y el cartón. El contenedor amarillo es para los plásticos y las latas. El contenedor café es para los restos de comida, como cáscaras de fruta. Cada contenedor tiene un dibujo que ayuda a reconocer qué se debe botar ahí, incluso para las personas que todavía no saben leer bien.
+> En muchos parques de Chile hay letreros con dibujos. El letrero verde, con el dibujo de un basurero, indica dónde botar la basura. El letrero azul, con el dibujo de una llave de agua, indica dónde hay agua para beber. El letrero rojo, con el dibujo de un perro tachado, indica que ahí no pueden entrar mascotas. Los dibujos ayudan a entender los letreros, incluso a las personas que todavía no saben leer bien.
 
-[Imagen: tres contenedores de reciclaje — uno azul con el dibujo de una hoja de papel, uno amarillo con el dibujo de una botella y una lata, y uno café con el dibujo de una cáscara de plátano]
+**1. (Alternativas — explícita)** ¿Desde qué ciudad escribe Josefa la carta?
 
-**1. (Alternativas — explícita)** ¿Desde qué ciudad escribe Matías la carta?
-
-a) Rancagua
-b) Chillán
+a) Talca
+b) La Serena
 c) Santiago
 
-**2. (Alternativas — implícita)** ¿Cómo se sintió Matías cuando aprendió a andar en bicicleta sin las rueditas?
+**2. (Alternativas — implícita)** ¿Cómo se siente Josefa ahora que sabe nadar?
 
-a) Triste porque se caía mucho
-b) Contento y orgulloso de su logro
-c) Aburrido de andar en bicicleta
+a) Triste, porque tragaba agua
+b) Contenta y orgullosa de su logro
+c) Aburrida de ir a la piscina
 
-**3. (Alternativas — explícita)** Según el artículo, ¿de qué color es el contenedor para el papel y el cartón?
+**3. (Alternativas — explícita)** Según el texto informativo, ¿de qué color es el letrero que indica dónde hay agua para beber?
 
-a) Amarillo
-b) Café
+a) Verde
+b) Rojo
 c) Azul
 
-**4. (Alternativas — función de ilustraciones y símbolos)** ¿Para qué sirven los dibujos que tiene cada contenedor de reciclaje?
+**4. (Alternativas — función de ilustraciones y símbolos)** ¿Para qué sirven los dibujos de los letreros del parque?
 
-a) Para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien
-b) Para que los contenedores se vean bonitos y alegres, y a los niños les den ganas de jugar con ellos
-c) Para decir cuánto cuesta reciclar cada tipo de basura y cuánto dinero hay que pagar en cada contenedor
-d) Para que nadie use los contenedores equivocados y los dejen vacíos hasta que pase el camión de la basura
+a) Para que las personas entiendan qué indica cada letrero, incluso si todavía no saben leer bien
+b) Para que los letreros se vean bonitos y alegres, y a los niños les den ganas de jugar con ellos
+c) Para decir cuánto cuesta entrar al parque y cuánto dinero hay que pagar
+d) Para que nadie se acerque a los letreros y el parque se mantenga vacío
 
 **5. (Alternativas)** ¿Cuál de estas oraciones está bien escrita, con mayúscula al comenzar y punto al terminar?
 
-a) "el perro corre por el parque"
-b) "El perro corre por el parque."
-c) "El perro corre por el parque"
+a) "la gata duerme en el sillón"
+b) "La gata duerme en el sillón."
+c) "La gata duerme en el sillón"
 
-**6. (Verdadero o Falso)** En la oración "Las niñas jugaban en el patio", las palabras "las" y "niñas" están en plural y concuerdan entre sí.
+**6. (Verdadero o Falso)** En la oración "Los gatos saltaban en el techo", las palabras "los" y "gatos" están en plural y concuerdan entre sí.
 
 **7. (Alternativas)** ¿Cuál de estas oraciones tiene un error de concordancia de género o número?
 
-a) "Los perros ladraron toda la noche."
-b) "La niña come manzanas."
-c) "Las niño jugaban en el patio."
+a) "Las flores crecieron en el jardín."
+b) "El niño lee un cuento."
+c) "Los mesa estaban sucias."
 
 **8. (Alternativas — propósito y destinatario)** Quieres invitar a un compañero o compañera a jugar contigo en el recreo. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y puntuación correcta?
 
@@ -85,11 +85,11 @@ d) ¿Quieres jugar conmigo en el recreo?
 
 ## Pauta de respuestas
 
-1. **a) Rancagua** — la carta dice "Te escribo desde Rancagua".
-2. **b) Contento y orgulloso de su logro** — aunque la carta no usa esas palabras exactas, dice "ahora ando rapidísimo" y que quiere mostrarle a su tía cómo anda.
-3. **c) Azul** — el texto dice "El contenedor azul es para el papel y el cartón".
-4. a) Para que las personas sepan qué tipo de basura va en cada contenedor, incluso si todavía no saben leer bien. Los dibujos o símbolos ayudan a entender la información de un texto, incluso sin leer las palabras.
-5. **b) "El perro corre por el parque."** — empieza con mayúscula y termina con punto.
-6. **Verdadero** — "las" y "niñas" están las dos en plural, por eso concuerdan.
-7. **c) "Las niño jugaban en el patio."** — "las" (plural, femenino) no concuerda con "niño" (singular, masculino).
+1. **a) Talca** — la carta dice "Te escribo desde Talca".
+2. **b) Contenta y orgullosa de su logro** — aunque la carta no usa esas palabras, dice "ahora nado de un lado a otro" y que quiere nadar con su abuela.
+3. **c) Azul** — el texto dice que el letrero azul indica dónde hay agua para beber.
+4. a) Para que las personas entiendan qué indica cada letrero, incluso si todavía no saben leer bien. Los dibujos o símbolos ayudan a entender la información de un texto, incluso sin leer las palabras.
+5. **b) "La gata duerme en el sillón."** — empieza con mayúscula y termina con punto.
+6. **Verdadero** — "los" y "gatos" están los dos en plural, por eso concuerdan.
+7. **c) "Los mesa estaban sucias."** — "los" (plural, masculino) no concuerda con "mesa" (singular, femenino).
 8. d) ¿Quieres jugar conmigo en el recreo? — invita al compañero, empieza con mayúscula y tiene los dos signos de interrogación.

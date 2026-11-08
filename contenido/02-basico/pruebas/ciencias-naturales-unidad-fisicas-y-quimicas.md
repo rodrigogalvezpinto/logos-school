@@ -20,16 +20,16 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 ---
 
-**Pregunta 1.** ¿Qué le ocurre al agua cuando la viertes en distintos recipientes, como un vaso y un plato?
+**Pregunta 1.** Si pones una piedra en un vaso y luego en un plato, ¿qué pasa con su forma?
 
-a) Cambia de color según el recipiente
-b) Se convierte en hielo dentro del plato
-c) Se adapta a la forma del recipiente
-d) Desaparece al cambiarla de recipiente
+a) Toma la forma del vaso
+b) Se derrite
+c) Mantiene su misma forma, porque es un sólido
+d) Se convierte en líquido
 
 ---
 
-**Pregunta 2.** ¿Verdadero o falso? La sal y el azúcar se disuelven en el agua, es decir, se mezclan con ella hasta ya no distinguirse como sólidos separados.
+**Pregunta 2.** ¿Verdadero o falso? Si echas aceite en un vaso con agua y revuelves, el aceite se disuelve y ya no se ve.
 
 a) Verdadero
 b) Falso
@@ -76,8 +76,8 @@ d) Es de color café
 
 ## Pauta de respuestas
 
-1. **c) Se adapta a la forma del recipiente.** El agua no tiene una forma propia: toma la forma del recipiente que la contiene.
-2. **Verdadero.** Tanto la sal como el azúcar son sólidos que se disuelven fácilmente en el agua.
+1. **c) Mantiene su misma forma, porque es un sólido.** Los sólidos tienen forma propia; los líquidos, como el agua, toman la forma del recipiente.
+2. **Falso.** El aceite no se disuelve en el agua: después de revolver, vuelve a flotar sobre ella.
 3. a) La arena no se disuelve: se sigue viendo, flotando o en el fondo del vaso. No todos los sólidos se disuelven en el agua.
 4. d) Es invisible y se mezcla con el aire. El hielo es sólido y duro, el agua líquida se puede tomar y escurre, y el vapor es invisible y se mezcla con el aire.
 5. b) Se evaporó: el calor la transformó en vapor de agua. El vapor de agua subió al aire y ya no se ve.

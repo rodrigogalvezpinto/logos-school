@@ -20,19 +20,19 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 3","3":"OA 5","4":"OA 7","5":"OA 9","6":"OA
 
 ---
 
-**Pregunta 1.** ¿Cuál número corresponde a la palabra "setenta y cuatro"?
+**Pregunta 1.** ¿Cuál número corresponde a la palabra "noventa y tres"?
 
-a) 47
-b) 40
-c) 77
-d) 74
+a) 39
+b) 90
+c) 99
+d) 93
 
 ---
 
-**Pregunta 2.** ¿Cuál número es mayor: 84 o 79?
+**Pregunta 2.** ¿Cuál número es mayor: 68 o 59?
 
-a) 84
-b) 79
+a) 68
+b) 59
 c) Son iguales
 d) No se puede saber
 
@@ -56,27 +56,27 @@ d) 47
 
 ---
 
-**Pregunta 5.** Calcula: 34 + 52 = ?
+**Pregunta 5.** Calcula: 41 + 35 = ?
 
-a) 76
-b) 86
-c) 96
-d) 82
-
----
-
-**Pregunta 6.** Calcula: 6 × 2 = ?
-
-a) 8
-b) 12
-c) 14
-d) 62
+a) 66
+b) 76
+c) 86
+d) 74
 
 ---
 
-**Pregunta 7.** Un kiosko tenía 96 bebidas y vendió 34 durante el día. ¿Cuántas bebidas le quedan?
+**Pregunta 6.** Calcula: 5 × 2 = ?
 
-a) 130
+a) 7
+b) 10
+c) 12
+d) 52
+
+---
+
+**Pregunta 7.** En una biblioteca había 87 libros y se prestaron 25. ¿Cuántos libros quedan?
+
+a) 112
 b) 72
 c) 62
 d) 52
@@ -85,10 +85,10 @@ d) 52
 
 ## Pauta de respuestas
 
-1. **d) 74.** "Setenta" (70) + "cuatro" (4) = 74.
-2. **a) 84.** 8 decenas (84) es más que 7 decenas (79).
+1. **d) 93.** "Noventa" (90) + "tres" (3) = 93.
+2. **a) 68.** 6 decenas (68) es más que 5 decenas (59).
 3. a) 8. 58 tiene 5 decenas (50) y 8 unidades sueltas.
 4. d) 47. 4 decenas (40) + 7 unidades (7) = 47.
-5. **b) 86.** Decenas: 30+50=80; unidades: 4+2=6; total: 80+6=86.
-6. b) 12. 6 grupos de 2 (2+2+2+2+2+2=12), o tabla del 2: 6×2=12.
-7. c) 62. 96 − 34 = 62 (decenas: 90 − 30 = 60; unidades: 6 − 4 = 2).
+5. **b) 76.** Decenas: 40+30=70; unidades: 1+5=6; total: 70+6=76.
+6. b) 10. 5 grupos de 2 (2+2+2+2+2=10), o tabla del 2: 5×2=10.
+7. c) 62. 87 − 25 = 62 (decenas: 80 − 20 = 60; unidades: 7 − 5 = 2).

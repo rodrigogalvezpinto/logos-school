@@ -20,28 +20,28 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**Pregunta 1.** ¿Cuál es el orden correcto del ciclo de vida de una mariposa?
+**Pregunta 1.** ¿Cuál es el orden correcto del ciclo de vida de una rana?
 
-a) Mariposa → crisálida → oruga → huevo
-b) Crisálida → huevo → oruga → mariposa
-c) Oruga → huevo → mariposa → crisálida
-d) Huevo → oruga → crisálida → mariposa
+a) Rana adulta → renacuajo → huevo → rana joven
+b) Renacuajo → huevo → rana adulta → rana joven
+c) Rana joven → huevo → renacuajo → rana adulta
+d) Huevo → renacuajo → rana joven → rana adulta
 
 ---
 
-**Pregunta 2.** ¿Verdadero o falso? Los mamíferos, como el guanaco o el zorro chilla, nacen de un huevo que la madre pone fuera de su cuerpo.
+**Pregunta 2.** ¿Verdadero o falso? Las aves, como el cóndor o la gallina, nacen de un huevo.
 
 a) Verdadero
 b) Falso
 
 ---
 
-**Pregunta 3.** ¿Cuál de estos animales nativos de Chile está en peligro de extinción y aparece en el escudo nacional?
+**Pregunta 3.** ¿Cuál de estos animales nativos de Chile, que también aparece en el escudo nacional, es un ave que vuela sobre la cordillera?
 
-a) El perro
-b) El huemul
-c) La gallina
-d) El caballo
+a) La paloma
+b) El cóndor
+c) El gorrión
+d) El pato
 
 ---
 
@@ -56,34 +56,34 @@ d) Respetar las leyes de protección de la fauna
 
 ---
 
-**Pregunta 5.** ¿Cuál es la función principal de los pulmones?
+**Pregunta 5.** ¿Qué órgano bombea la sangre a todo el cuerpo?
 
-a) Bombear la sangre, llevándola a todo el cuerpo
-b) Digerir los alimentos que comemos cada día
-c) Permitir la respiración, llevando oxígeno a la sangre
-d) Sostener el cuerpo y protegerlo de los golpes
-
----
-
-**Pregunta 6.** ¿Qué parte de tu cuerpo te permite doblar el codo y la rodilla?
-
-a) Las articulaciones, donde se unen dos huesos
-b) Los músculos del estómago, que guardan la comida
-c) Los pulmones, donde entra el aire al respirar
-d) El cráneo, que protege el cerebro
+a) Los pulmones
+b) El estómago
+c) El corazón
+d) Los huesos
 
 ---
 
-**Pregunta 7.** ¿Qué le sucede al corazón de una persona que hace actividad física con frecuencia?
+**Pregunta 6.** ¿Qué parte del cuerpo protege el cerebro?
 
-a) Se debilita
-b) Se fortalece
-c) Deja de latir más rápido al moverse
+a) El cráneo
+b) Los pulmones
+c) Las rodillas
+d) El estómago
+
+---
+
+**Pregunta 7.** Después de correr un rato en el recreo, ¿qué le pasa a tu respiración?
+
+a) Se detiene
+b) Se hace más rápida
+c) Se vuelve más lenta que cuando duermes
 d) No cambia nunca
 
 ---
 
-**Pregunta 8.** ¿Verdadero o falso? El sedentarismo, es decir, pasar mucho tiempo sin moverse, no tiene ninguna consecuencia negativa para la salud.
+**Pregunta 8.** ¿Verdadero o falso? Para mantenerse sano, basta con comer bien: no hace falta moverse ni hacer actividad física.
 
 a) Verdadero
 b) Falso
@@ -92,11 +92,11 @@ b) Falso
 
 ## Pauta de respuestas
 
-1. **d) Huevo → oruga → crisálida → mariposa.** Ese cambio de forma tan grande, de oruga a mariposa, se llama metamorfosis.
-2. **Falso.** Los mamíferos crecen dentro del cuerpo de la madre y nacen ya formados; no salen de un huevo. Eso sí ocurre en las aves, los anfibios y muchos insectos.
-3. **b) El huemul.** El huemul es un símbolo de Chile que hoy está en peligro de extinción por la pérdida de su hábitat.
+1. **d) Huevo → renacuajo → rana joven → rana adulta.** El renacuajo vive en el agua y respira por branquias; al crecer le salen patas y pierde la cola.
+2. **Verdadero.** Las aves ponen huevos y las crías nacen al romper la cáscara.
+3. **b) El cóndor.** El cóndor andino es un ave nativa que aparece en el escudo de Chile junto al huemul.
 4. a, c y d — Proteger el hábitat y no capturar animales silvestres evita su extinción; comprarlos como mascota los saca de su hábitat.
-5. **c) Permitir la respiración, llevando oxígeno a la sangre.** Los pulmones toman el oxígeno del aire que respiramos y lo pasan a la sangre.
-6. a) Las articulaciones, donde se unen dos huesos. Sin las articulaciones, nuestro esqueleto sería rígido y no podríamos movernos.
-7. **b) Se fortalece.** El corazón es un músculo, y al igual que los otros músculos, se fortalece cuando lo ejercitamos con regularidad.
-8. **Falso.** El sedentarismo puede provocar aumento de peso, menor agilidad, peor coordinación y un corazón menos entrenado.
+5. **c) El corazón.** El corazón es un músculo que bombea la sangre por todo el cuerpo.
+6. a) El cráneo. Es el conjunto de huesos de la cabeza que protege el cerebro de los golpes.
+7. **b) Se hace más rápida.** Al hacer ejercicio, el cuerpo necesita más oxígeno, por eso respiramos más rápido.
+8. **Falso.** Para estar sano hay que comer bien y también hacer actividad física, como jugar, caminar o andar en bicicleta.

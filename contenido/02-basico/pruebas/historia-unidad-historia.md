@@ -18,12 +18,12 @@ y vuelve después.
 
 ---
 
-**1. (Alternativas)** ¿Qué significa que un pueblo sea "nómade"?
+**1. (Alternativas)** Los kawésqar recorrían los canales del sur en canoa, buscando alimento, y no tenían una casa fija. ¿Qué tipo de pueblo eran?
 
-a) Que vive siempre en el mismo lugar y cultiva la tierra
-b) Que solo vive en ciudades grandes
-c) Que se traslada de un lugar a otro sin vivienda permanente
-d) Que no tiene idioma propio
+a) Sedentario, porque cultivaban la tierra
+b) Urbano, porque vivían en ciudades
+c) Nómade, porque se trasladaban de un lugar a otro
+d) Agricultor, porque sembraban papas
 
 ---
 
@@ -39,61 +39,56 @@ d) Los aymara, que criaban llamas y alpacas en el altiplano
 
 ---
 
-**3. (Alternativas)** ¿Cuál de estas fiestas corresponde al año nuevo del pueblo mapuche?
+**3. (Alternativas)** ¿Qué juego tradicional mapuche se juega con un palo curvo y una pequeña bola, parecido al hockey?
 
-a) Fiestas Patrias
-b) We Tripantu
-c) Navidad
-d) Carnaval de Río
-
----
-
-**4. (Alternativas — clasificar)** ¿Cuál de estos elementos **se ha mantenido** en los
-pueblos indígenas actuales desde el período precolombino?
-
-a) Usar celulares e internet
-b) Practicar tejidos y artesanía tradicional
-c) Vivir exclusivamente en el campo, sin ciudades
-d) Viajar en avión
+a) El trompo
+b) El palín
+c) El emboque
+d) La rayuela
 
 ---
 
-**5. (Alternativas)** ¿Qué significa que la sociedad chilena sea "mestiza"?
+**4. (Alternativas — clasificar)** ¿Cuál de estas costumbres de los pueblos originarios **se mantiene** hasta hoy?
 
-a) Que nació de la mezcla entre pueblos indígenas y españoles
-b) Que solo tiene origen español, porque llegaron los españoles
-c) Que solo tiene origen indígena, porque aquí vivían los pueblos
-d) Que no tiene ningún origen definido ni una historia propia
-
----
-
-**6. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son un **aporte
-indígena** a nuestra cultura? Marca todas las correctas.
-
-a) El idioma español
-b) La papa y el choclo
-c) La religión católica
-d) El palín
+a) Viajar en carreta a todas partes
+b) Hablar su lengua, como el mapudungun o el aymara
+c) No usar electricidad
+d) Vivir solo de la caza
 
 ---
 
-**7. (Alternativas)** ¿De qué país llegaron muchos inmigrantes que se instalaron en el sur de
-Chile, dejando huella en la arquitectura y en comidas como el kuchen?
+**5. (Alternativas)** Comer charquicán, usar palabras como «guagua» y «cancha», y celebrar fiestas católicas son ejemplos de que la sociedad chilena:
 
-a) Alemania
-b) China
-c) Palestina
-d) Colombia
+a) Mezcla aportes indígenas y españoles: es mestiza
+b) Solo tiene costumbres españolas
+c) Solo tiene costumbres indígenas
+d) No tiene costumbres propias
 
 ---
 
-**8. (Alternativas — unir)** Une cada grupo de inmigrantes con un aporte característico que
-trajeron a Chile:
+**6. (Varias correctas — clasificar)** ¿Cuáles de estos elementos trajeron los **españoles** a Chile? Marca todas las correctas.
 
-1) Inmigrantes alemanes — 2) Inmigrantes chinos y coreanos — 3) Inmigrantes árabes
+a) El trigo y el pan
+b) La quinoa
+c) El caballo
+d) La papa
 
-Aportes: (A) Comida como el arroz chaufán — (B) Arquitectura de madera y kuchen — (C) Pan
-árabe y dulces como el baklava
+---
+
+**7. (Alternativas)** En Santiago hay muchos restaurantes de comida peruana, como el ceviche y el lomo saltado. ¿Qué explica esta presencia?
+
+a) La llegada de inmigrantes desde Perú
+b) Que el ceviche se inventó en Chile
+c) Que en Chile no se cocina pescado
+d) Que estas comidas llegaron con los españoles
+
+---
+
+**8. (Alternativas — unir)** Une cada aporte con el grupo que lo trajo a Chile:
+
+1) El kuchen — 2) El trigo y el caballo — 3) El choclo y la papa
+
+Grupos: (A) Españoles — (B) Inmigrantes alemanes — (C) Pueblos indígenas
 
 ¿Qué combinación es correcta?
 
@@ -106,11 +101,11 @@ d) 1-B, 2-A, 3-C
 
 ## Pauta de respuestas
 
-1. **c)** Que se traslada de un lugar a otro sin vivienda permanente
+1. **c)** Nómade, porque se trasladaban de un lugar a otro sin vivienda permanente.
 2. d) Los aymara, que criaban llamas y alpacas en el altiplano
-3. **b)** We Tripantu
-4. b) Practicar tejidos y artesanía tradicional. Hoy muchas familias indígenas viven en ciudades y usan tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía.
-5. **a)** Que nació de la mezcla entre pueblos indígenas y españoles
-6. b y d — La papa, el choclo y el palín son aportes indígenas; el idioma español y la religión católica son aportes españoles.
-7. **a)** Alemania
+3. **b)** El palín
+4. b) Hablar su lengua, como el mapudungun o el aymara. Muchas familias indígenas mantienen su lengua y sus tradiciones, aunque hoy vivan en ciudades.
+5. **a)** Mezcla aportes indígenas y españoles: es mestiza.
+6. a y c — El trigo y el caballo llegaron con los españoles; la quinoa y la papa son aportes indígenas.
+7. **a)** La llegada de inmigrantes desde Perú, que trajeron su cocina.
 8. d) 1-B, 2-A, 3-C

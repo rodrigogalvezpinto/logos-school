@@ -174,14 +174,14 @@ d) Desaparece
 
 **13. (Lenguaje — Alternativas)** Lee la siguiente carta:
 
-> Querida tía Sole:
-> Te escribo desde Rancagua para contarte que aprendí a andar en bicicleta sin las rueditas. Mi papá me ayudó todos los domingos en la plaza. Al principio me caía mucho, pero ahora ando rapidísimo. La próxima semana vamos a visitarte a Chillán, así que voy a llevar mi bicicleta para mostrarte cómo ando.
-> Con cariño, tu sobrino Matías.
+> Querido primo Lucas:
+> Te escribo desde Coquimbo para contarte que con mi mamá plantamos tomates y lechugas en el patio. Todos los días los riego antes de ir al colegio. Ya salieron los primeros tomates, chiquitos y rojos. En las vacaciones iremos a verte a La Serena y te llevaré una lechuga de regalo.
+> Un abrazo, Diego.
 
-¿Desde qué ciudad escribe Matías la carta?
+¿Desde qué ciudad escribe Diego la carta?
 
-a) Chillán
-b) Rancagua
+a) La Serena
+b) Coquimbo
 c) Santiago
 d) Puerto Montt
 
@@ -280,7 +280,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 10 | Lenguaje y Comunicación | **a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría.** El texto dice que "se quedó inmóvil un segundo, con los ojos muy abiertos" y "se rió y se puso a llorar de alegría al mismo tiempo": lloró de alegría, no de tristeza. | OA N°5 |
 | 11 | Historia, Geografía y Cs. Sociales | **c) Argentina.** Se ubica al este de Chile y comparte con nuestro país la frontera más larga. | OA 7 |
 | 12 | Ciencias Naturales | **a) Se adapta a la forma del recipiente.** | OA 9 |
-| 13 | Lenguaje y Comunicación | **b) Rancagua.** La carta dice "Te escribo desde Rancagua". | OA N°7 |
+| 13 | Lenguaje y Comunicación | **b) Coquimbo.** La carta dice "Te escribo desde Coquimbo"; La Serena es la ciudad que van a visitar. | OA N°7 |
 | 14 | Matemática | **b) 4 lados y 4 vértices.** | OA 15 |
 | 15 | Historia, Geografía y Cs. Sociales | **b) Fiordo.** Es una entrada de mar entre montañas, típica del paisaje del sur de Chile. | OA 8 |
 | 16 | Ciencias Naturales | **c) Evaporación → condensación → precipitación.** | OA 11 |

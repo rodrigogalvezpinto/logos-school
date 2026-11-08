@@ -18,17 +18,16 @@ y vuelve después.
 
 ---
 
-**1. (Alternativas)** ¿Qué país limítrofe se encuentra al norte de Chile?
+**1. (Alternativas)** Si viajas desde Chile hacia el norte y cruzas la frontera, ¿a qué país llegas?
 
 a) Argentina
 b) Perú
-c) Brasil
-d) Uruguay
+c) Uruguay
+d) Paraguay
 
 ---
 
-**2. (Verdadero o Falso)** Argentina se encuentra al este de Chile y comparte con nuestro país
-la frontera más larga.
+**2. (Verdadero o Falso)** Para ir desde Chile a Argentina por tierra hay que cruzar la Cordillera de los Andes.
 
 ---
 
@@ -44,63 +43,59 @@ d) A = Perú, B = Argentina, C = Bolivia
 
 ---
 
-**4. (Alternativas)** ¿Qué océano se encuentra al oeste de todo el territorio chileno?
+**4. (Alternativas)** En la playa de Valparaíso, ¿qué océano baña la costa?
 
-a) Océano Atlántico
-b) Océano Índico
-c) Océano Pacífico
-d) Océano Ártico
+a) El océano Atlántico
+b) El océano Índico
+c) El océano Pacífico
+d) El océano Ártico
 
 ---
 
-**5. (Alternativas)** ¿Qué palabra describe una masa de agua dulce rodeada de tierra?
+**5. (Alternativas)** ¿Cómo se llama un conjunto de muchas islas cercanas entre sí, como Chiloé y las islas que lo rodean?
 
-a) Océano
-b) Lago
+a) Lago
+b) Archipiélago
 c) Desierto
-d) Archipiélago
+d) Valle
 
 ---
 
-**6. (Verdadero o Falso)** El desierto de Atacama, en el norte de Chile, es uno de los
-desiertos más secos del mundo.
+**6. (Verdadero o Falso)** En la zona austral de Chile hay glaciares y hace mucho frío.
 
 ---
 
-**7. (Alternativas — análisis de imagen)** Se observa una fotografía con montañas nevadas a ambos lados de
-un valle, un río que corre por el medio, y muchos viñedos plantados. ¿A qué zona de Chile
-corresponde probablemente este paisaje?
+**7. (Alternativas — análisis de imagen)** Se observa una fotografía de un paisaje muy seco, con arena, cerros sin árboles y un cielo despejado. ¿A qué zona de Chile corresponde probablemente?
 
-a) A la zona norte, en el desierto
-b) A la zona austral, entre fiordos
+a) A la zona austral, con glaciares
+b) A la zona sur, con bosques y lluvia
 c) A Isla de Pascua
-d) A la zona centro de Chile
+d) A la zona norte, en el desierto
 
 ---
 
-**8. (Alternativas — unir)** Une cada palabra geográfica con su definición:
+**8. (Alternativas — unir)** Une cada lugar con lo que lo caracteriza:
 
-1) Fiordo — 2) Archipiélago — 3) Volcán
+1) Lago — 2) Isla — 3) Cordillera
 
-Definiciones: (A) Montaña que puede expulsar lava — (B) Entrada de mar rodeada de montañas —
-(C) Conjunto de varias islas cercanas entre sí
+Características: (A) Cadena de montañas muy altas — (B) Tierra rodeada de agua por todos lados — (C) Agua dulce rodeada de tierra
 
 ¿Qué combinación es correcta?
 
-a) 1-C, 2-B, 3-A
-b) 1-A, 2-C, 3-B
-c) 1-B, 2-A, 3-C
-d) 1-B, 2-C, 3-A
+a) 1-A, 2-B, 3-C
+b) 1-B, 2-A, 3-C
+c) 1-C, 2-A, 3-B
+d) 1-C, 2-B, 3-A
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** Perú
-2. Verdadero
+1. **b)** Perú. Perú limita con Chile por el norte.
+2. Verdadero. Argentina está al este de Chile, al otro lado de la Cordillera de los Andes.
 3. c) A = Argentina, B = Perú, C = Bolivia
-4. **c)** Océano Pacífico
-5. **b)** Lago
-6. Verdadero
-7. d) A la zona centro de Chile. Los valles fértiles con viñedos entre las dos cordilleras son típicos de la zona central.
-8. d) 1-B, 2-C, 3-A
+4. **c)** El océano Pacífico, que baña toda la costa de Chile.
+5. **b)** Archipiélago
+6. Verdadero. La zona austral, en el extremo sur, es fría y tiene glaciares, fiordos y hielos.
+7. d) A la zona norte, en el desierto. La falta de agua y de vegetación es típica del norte de Chile.
+8. d) 1-C, 2-B, 3-A
