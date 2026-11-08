@@ -679,6 +679,15 @@ d) "Trabajo. Ciencias. Tú y yo."
 
 *Respuesta correcta: c.* Retroalimentación: el registro debe ser cercano para un compañero (no excesivamente formal), con al menos un conector ("como", "además") y concordancia correcta ("buenas notas", "un buen trabajo").
 
+**8. (Alternativas — ortografía acentual y puntual)** ¿Cuál de estas oraciones está escrita con la ortografía correcta (tildes y puntuación)?
+
+a) Mañana, después de clases, iré a la biblioteca con Matías.
+b) Mañana despues de clases iré a la biblioteca, con Matías.
+c) Manana, después de clases, ire a la biblioteca con Matias.
+d) Mañana, despues de clases iré, a la biblioteca con Matías.
+
+*Respuesta correcta: a.* Retroalimentación: «después», «iré» y «Matías» llevan tilde; las comas encierran la frase «después de clases», que agrega una precisión de tiempo. En la b falta la tilde de «después» y la coma está mal ubicada; en la c faltan la virgulilla de «ñ» y varias tildes; en la d la coma separa el verbo de su complemento.
+
 ---
 
 ## Glosario

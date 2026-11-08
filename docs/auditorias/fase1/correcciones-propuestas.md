@@ -4,7 +4,7 @@ Resultado de los controles 1 a 4 de la Fase 1 (`00-ESTADO-FASE1.md`). **Ninguna 
 está aplicada:** se aplican después de la aprobación del usuario, con verificación (validador,
 reimportación y app) al cerrar cada grupo.
 
-## A. Indicadores del temario sin pregunta (agregar preguntas en la guía y, cuando corresponda, en la prueba)
+## A. Indicadores del temario sin pregunta — ✅ APLICADO 2026-11-07 (31 preguntas; §15.34)
 
 | Curso | Asignatura · OA | Indicador sin pregunta |
 |---|---|---|
@@ -27,7 +27,7 @@ reimportación y app) al cerrar cada grupo.
 | 8.° básico | Inglés OA 16 | Nacionalidades |
 | 1.° medio | Ciencias OA 11 | Sombras; imágenes en espejos curvos y lentes |
 
-Son unos 39 indicadores, con unas 2 a 4 preguntas nuevas cada uno.
+Eran unos 39 indicadores; 2 resultaron estar cubiertos (falsos vacíos) y se agregó 1 pregunta por indicador en la guía (31 en total).
 
 ## B. Gráficos, mapas y esquemas que hoy se describen con palabras (afecta a muchos indicadores «débiles»)
 

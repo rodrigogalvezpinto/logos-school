@@ -1013,6 +1013,24 @@ d) Porque se usaron para navegar hasta Europa
 ✅ Respuesta correcta: **b) Porque permitieron adaptar entornos desafiantes (selva, lago) para producir suficiente alimento y sostener poblaciones numerosas en ciudades**
 💬 *Retroalimentación:* Estas tecnologías fueron la base material que permitió el desarrollo de sociedades complejas.
 
+**7. (Alternativas)** ¿Qué importancia tuvo la **red comercial** en Mesoamérica para mayas y aztecas?
+a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco
+b) No existía comercio: cada ciudad producía todo lo que necesitaba
+c) Solo comerciaban con los incas a través de la cordillera de los Andes
+d) Usaban monedas de oro acuñadas por el emperador, igual que en Europa
+
+✅ Respuesta correcta: **a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco**
+💬 *Retroalimentación:* El comercio unía regiones con recursos distintos; el cacao llegó a usarse como medio de intercambio. Los mercaderes aztecas (*pochtecas*) recorrían largas distancias y también informaban al Estado.
+
+**8. (Alternativas)** ¿Qué función social tenía la **cosmología** (la explicación del universo) entre mayas y aztecas?
+a) Ninguna: era solo un pasatiempo de los sacerdotes
+b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes
+c) Servía únicamente para navegar por el océano Pacífico
+d) Prohibía cualquier ceremonia religiosa en las ciudades
+
+✅ Respuesta correcta: **b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes**
+💬 *Retroalimentación:* Mayas y aztecas observaban el cielo y crearon calendarios muy precisos; creían que los dioses mantenían el orden del universo y que los rituales eran necesarios para que el mundo siguiera funcionando.
+
 ---
 
 ### OA 16: El legado de las civilizaciones en la cultura latinoamericana actual

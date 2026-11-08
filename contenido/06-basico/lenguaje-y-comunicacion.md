@@ -143,6 +143,15 @@ d) Solo las personas de la ciudad tienen problemas
 
 *Respuesta correcta: c.* Retroalimentación: una conclusión sustentada no es una opinión libre, sino una idea general que se apoya directamente en evidencia extraída de los textos.
 
+**8. (Alternativas — lenguaje figurado en la narración)** En el Texto 1, el narrador dice que el sol «quemaba la pampa como un horno de ladrillos». ¿Qué significa esta expresión y qué figura se usa?
+
+a) Que en la pampa había fábricas de ladrillos; es una descripción literal
+b) Que el calor del desierto era intensísimo; es una comparación, porque usa «como»
+c) Que el sol estaba muy cerca de la Tierra; es una hipérbole científica
+d) Que Manuel trabajaba en un horno; es una personificación del sol
+
+*Respuesta correcta: b.* Retroalimentación: la comparación relaciona el calor de la pampa con el de un horno para que el lector imagine lo duro del ambiente donde vive Manuel. Interpretar el lenguaje figurado ayuda a comprender el ambiente de la narración.
+
 ---
 
 ## OA N°5 — Analizo poemas: sonido, sentido e hipérbole

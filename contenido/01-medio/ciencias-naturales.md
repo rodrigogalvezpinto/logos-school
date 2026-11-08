@@ -811,6 +811,29 @@ iluminación.
    **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Una diferencia clave es que el sonido necesita un medio material, mientras la luz puede propagarse en el vacío.
 
+8. *(Alternativas — Sombras)* ¿Por qué se forma la sombra de una persona en un día soleado?
+   a) Porque la luz se propaga en línea recta y el cuerpo opaco bloquea los rayos, dejando
+      una zona sin iluminar detrás de él
+   b) Porque la luz rodea el cuerpo y se concentra detrás de la persona
+   c) Porque el cuerpo emite oscuridad hacia el suelo
+   d) Porque la luz del Sol se apaga al tocar a la persona
+   **Respuesta correcta:** a) Porque la luz se propaga en línea recta y el cuerpo opaco bloquea los rayos, dejando una zona sin iluminar detrás de él.
+   **Retroalimentación:** Como la luz viaja en línea recta, un objeto opaco intercepta los
+   rayos y produce sombra. Por eso la forma de la sombra depende de la forma del objeto y de la
+   posición de la fuente de luz.
+
+9. *(Alternativas — Espejos y lentes)* ¿Qué afirmación sobre la formación de imágenes es
+   correcta?
+   a) Un espejo convexo, como el de los retrovisores, muestra imágenes más pequeñas y un campo
+      de visión más amplio
+   b) Un espejo plano siempre forma imágenes más grandes que el objeto
+   c) Una lente convergente (lupa) nunca puede ampliar la imagen de un objeto cercano
+   d) Un espejo cóncavo siempre forma imágenes más pequeñas, sin importar la distancia
+   **Respuesta correcta:** a) Un espejo convexo, como el de los retrovisores, muestra imágenes más pequeñas y un campo de visión más amplio.
+   **Retroalimentación:** El espejo convexo forma imágenes virtuales, derechas y más pequeñas,
+   útiles para ver más área. El espejo plano forma imágenes del mismo tamaño; el cóncavo y la
+   lupa (lente convergente) pueden formar imágenes ampliadas cuando el objeto está cerca.
+
 ---
 
 ### OA N°14 — El sistema Tierra-Luna-Sol: fases, eclipses y estaciones

@@ -756,6 +756,30 @@ construcción de viviendas.
    **Respuesta correcta:** a) Con una cámara de vacío o aislante que reduce la conducción y la convección, y una superficie reflectante que reduce la radiación.
    **Retroalimentación:** Los objetos que protegen del calor o del frío reducen de forma combinada las distintas formas de propagación.
 
+8. *(Alternativas — Equilibrio térmico)* Se deja un vaso de leche caliente sobre la mesa
+   de una sala que está a 20 °C. ¿Qué ocurrirá después de un tiempo?
+   a) La leche seguirá igual de caliente, porque el vaso la aísla por completo
+   b) La leche se enfriará hasta alcanzar la temperatura de la sala, y entonces dejará de
+      transferir calor: se llega al equilibrio térmico
+   c) La sala se calentará hasta igualar la temperatura inicial de la leche
+   d) La leche se enfriará hasta quedar más fría que la sala
+   **Respuesta correcta:** b) La leche se enfriará hasta alcanzar la temperatura de la sala, y entonces dejará de transferir calor: se llega al equilibrio térmico.
+   **Retroalimentación:** El calor fluye del cuerpo más caliente al más frío hasta que ambos
+   tienen la misma temperatura. La sala casi no cambia su temperatura porque es mucho más
+   grande que el vaso.
+
+9. *(Alternativas — Protección)* ¿Qué medida protege a las personas de los efectos del
+   calor en un día de ola de calor?
+   a) Hacer ejercicio intenso al mediodía bajo el sol
+   b) Usar ropa oscura y gruesa para cubrirse del sol
+   c) Hidratarse con frecuencia, usar ropa clara y liviana y evitar exponerse al sol entre las
+      12 y las 16 horas
+   d) Dejar a las mascotas dentro de un auto cerrado con las ventanas arriba
+   **Respuesta correcta:** c) Hidratarse con frecuencia, usar ropa clara y liviana y evitar exponerse al sol entre las 12 y las 16 horas.
+   **Retroalimentación:** La ropa clara absorbe menos radiación, el agua repone lo que se
+   pierde al transpirar y evitar las horas de mayor radiación reduce el riesgo de golpe de
+   calor. Un auto cerrado al sol puede alcanzar temperaturas peligrosas en pocos minutos.
+
 ---
 
 ## Eje 3: Química
@@ -885,6 +909,18 @@ acumulativa.
    d) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores
    **Respuesta correcta:** d) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.
    **Retroalimentación:** Los modelos superados no son "errores inútiles": son pasos necesarios en la construcción del conocimiento.
+
+8. *(Alternativas — Dalton)* ¿Qué planteaba la teoría atómica de John Dalton (1808)?
+   a) Que el átomo tiene un núcleo pequeño con electrones girando en órbitas
+   b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son
+      iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero
+      no se crean ni se destruyen
+   c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas
+   d) Que la materia es continua y puede dividirse infinitamente sin llegar nunca a partículas
+   **Respuesta correcta:** b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero no se crean ni se destruyen.
+   **Retroalimentación:** Dalton retomó la idea de átomo con base en evidencia de reacciones
+   químicas (proporciones fijas). Luego Thomson descubrió el electrón y mostró que el átomo sí
+   es divisible; la opción a) es de Rutherford y Bohr, y la c), de Thomson.
 
 ---
 

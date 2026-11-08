@@ -633,6 +633,15 @@ adverbios y conectores (*never/always/sometimes*; *first/next/then*).
     **Respuesta correcta:** b) get off / arrive at.
     **Retroalimentación:** *Get off* (bajarse de) se usa con transportes y *arrive at* (llegar a) antes de un lugar específico.
 
+13. *(Alternativas — Nacionalidades)* Complete: *"Lionel Messi is from Argentina. He is ___. Alexis Sánchez is from Chile. He is ___."*
+    a) Argentina / Chile
+    b) Argentinian / Chilean
+    c) Argentinian / Chile
+    d) Argentina / Chilean
+    **Respuesta correcta:** b) Argentinian / Chilean.
+    **Retroalimentación:** Para la nacionalidad se usa el adjetivo, no el nombre del país:
+    *Chile → Chilean*, *Argentina → Argentinian*, *Peru → Peruvian*, *Italy → Italian*.
+
 ---
 
 ## Glosario consolidado – Vocabulario del curso

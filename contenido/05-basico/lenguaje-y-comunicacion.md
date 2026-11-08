@@ -646,6 +646,15 @@ d) Entrevistas a especialistas
 
 *Respuesta correcta: a, c y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas. Un comentario anónimo no permite verificar quién da la información.
 
+**8. (Alternativas — punto aparte)** Un estudiante escribió su artículo sobre el huemul en un solo bloque: primero describe cómo es el animal y, después, explica por qué está en peligro. ¿Qué debe hacer para separar esas dos ideas centrales?
+
+a) Usar una coma entre ambas ideas
+b) Poner un punto aparte y comenzar un nuevo párrafo con la segunda idea
+c) Escribir todo con mayúsculas para destacar la segunda idea
+d) Borrar la segunda idea, porque un artículo solo puede tener un tema
+
+*Respuesta correcta: b.* Retroalimentación: el punto aparte cierra un párrafo; el siguiente comienza en una nueva línea con otra idea central. Así el lector distingue «cómo es el huemul» de «por qué está en peligro».
+
 ---
 
 ## Glosario

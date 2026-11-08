@@ -150,7 +150,7 @@ def test_importacion_completa_en_memoria_conserva_banco_y_asociaciones(capsys):
         print({"curso": detalle_curso, "resumen": resumen[detalle_curso], "pendientes": pendientes})
     else:
         print(resumen)
-    assert total_banco == 3115
+    assert total_banco == 3146  # 2026-11-07: +31 preguntas por indicadores del temario sin cubrir (Fase 1)
     assert total_evaluaciones == 3035
     assert total_vinculadas_unidad == 1825
     assert all(total == vinculadas for conteos in resumen.values() for total, vinculadas in conteos.values()), resumen
@@ -369,6 +369,6 @@ def test_snapshot_corpus_actual_con_pautas_y_claves_completas():
                             sin_oa_examen.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(pregunta.numero)
     print(totales)
     print({"examenes_sin_oa": sin_oa_examen})
-    assert (totales["guias"], totales["oa"], totales["banco"]) == (58, 410, 3115)
+    assert (totales["guias"], totales["oa"], totales["banco"]) == (58, 410, 3146)
     assert (totales["pruebas"], totales["preguntas_pruebas"]) == (156, 1825)
     assert (totales["examenes"], totales["preguntas_examenes"]) == (50, 1210)

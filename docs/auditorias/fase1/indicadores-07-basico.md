@@ -10,7 +10,7 @@ Indicadores contados por tema (algunos vienen fusionados en el PDF).
 | Lengua y Literatura | 31 | 30 | Débil: OA 15, **ortografía literal, puntual y acentual** (hay concordancia y conjugación, pero no tildes ni puntuación) |
 | Matemática | ~22 | ~22 | Débiles: OA 1, distinguir el signo de un entero del signo de la operación; OA 8, **confeccionar** el gráfico de una proporcionalidad directa (solo «¿qué forma tendrá?») |
 | Ciencias Naturales | ~27 | ~27 | — |
-| Historia, Geografía y Cs. Sociales | ~45 | ~43 | OA 13: **red comercial mesoamericana** y **cosmología maya y azteca y su función social** (los dioses solo aparecen dentro de una alternativa) |
+| Historia, Geografía y Cs. Sociales | ~45 | ~44 | OA 13: **cosmología maya y azteca y su función social** (los dioses solo aparecen dentro de una alternativa). *Corrección del 2026-11-07: la red comercial sí estaba cubierta, en la pregunta 4 (mapa de rutas comerciales).* |
 | Inglés | ~22 | ~21 | Débil: OA 10, **completar organizadores o esquemas** con información del texto |
 
 ## Otros hallazgos

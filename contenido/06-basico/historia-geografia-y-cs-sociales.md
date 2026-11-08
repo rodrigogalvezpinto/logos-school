@@ -985,6 +985,24 @@ d) Porque las tradiciones son tecnologías nuevas que se inventan cada año y re
 ✅ Respuesta correcta: **a) Porque forman parte de la identidad de las personas y comunidades y se transmiten de generación en generación**
 💬 *Retroalimentación:* Las tradiciones culturales (idioma, comidas, fiestas) resisten mejor el paso del tiempo que las tecnologías o las formas de organización política.
 
+**7. (Alternativas)** ¿Qué comparación sobre la **participación política** en Chile en distintos períodos es correcta?
+a) En el siglo XIX votaban todos los adultos, igual que hoy
+b) En el siglo XIX votaban solo algunos hombres con propiedades o renta; en el siglo XX se amplió el voto a las mujeres y luego a todos los mayores de 18 años
+c) Las mujeres votan en Chile desde la Independencia, en 1818
+d) La participación política no ha cambiado en toda la historia de Chile
+
+✅ Respuesta correcta: **b) En el siglo XIX votaban solo algunos hombres con propiedades o renta; en el siglo XX se amplió el voto a las mujeres y luego a todos los mayores de 18 años**
+💬 *Retroalimentación:* El sufragio se amplió de forma gradual: las mujeres votaron en elecciones municipales desde 1934 y en las presidenciales y parlamentarias desde 1949; desde 1970 pueden votar los mayores de 18 años, sepan o no leer.
+
+**8. (Alternativas)** ¿Cuál de estos hechos es un ejemplo de la **modernización de la vida urbana** en Chile durante el siglo XX?
+a) La llegada del alumbrado eléctrico, el agua potable y el Metro de Santiago
+b) La fundación de Santiago por Pedro de Valdivia
+c) El uso de carretas tiradas por bueyes como único transporte
+d) La construcción de las primeras misiones jesuitas en el sur
+
+✅ Respuesta correcta: **a) La llegada del alumbrado eléctrico, el agua potable y el Metro de Santiago**
+💬 *Retroalimentación:* La modernización urbana trajo servicios básicos (electricidad, agua potable, alcantarillado) y nuevos medios de transporte, como los tranvías y, desde 1975, el Metro de Santiago.
+
 ---
 
 ## Eje 2: Geografía

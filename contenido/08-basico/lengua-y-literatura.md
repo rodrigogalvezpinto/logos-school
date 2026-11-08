@@ -558,6 +558,26 @@ d) Porque las fuentes oficiales siempre mienten
 
 *Respuesta correcta: c.* Retroalimentación: un lector crítico contrasta versiones para evaluar la suficiencia y fiabilidad de la información.
 
+**8. (Alternativas — interpretar un gráfico)** Una noticia sobre la biblioteca de la comuna dice: «La biblioteca recibe cada año más visitas gracias a sus talleres gratuitos». Junto al texto aparece este gráfico, titulado «Visitas a la biblioteca (en miles)»: ::barras::2021=20;2022=30;2023=45::
+
+¿Qué información aporta el gráfico a la noticia?
+
+a) Muestra que las visitas aumentaron de 20 mil en 2021 a 45 mil en 2023, lo que respalda la afirmación del texto
+b) Muestra que las visitas bajaron cada año
+c) Indica cuántos talleres gratuitos hubo cada año
+d) No tiene relación con el texto, porque solo es decorativo
+
+*Respuesta correcta: a.* Retroalimentación: el gráfico entrega datos precisos que el texto solo menciona en general («cada año más visitas»). Interpretarlo exige leer los valores de cada barra.
+
+**9. (Alternativas — evaluar la función del gráfico)** En la misma noticia, ¿cuál es la principal **función** del gráfico de barras?
+
+a) Entretener al lector con colores llamativos
+b) Reemplazar por completo el texto de la noticia
+c) Respaldar con evidencia numérica la afirmación central de la noticia y facilitar la comparación entre años
+d) Mostrar la opinión personal del periodista sobre la biblioteca
+
+*Respuesta correcta: c.* Retroalimentación: en los textos de medios, los gráficos, tablas e imágenes cumplen funciones como respaldar afirmaciones, sintetizar datos o permitir comparar. También conviene evaluar si el gráfico es suficiente: aquí no dice si el aumento se debe solo a los talleres.
+
 ---
 
 ## OA N°16 — Escribo, reviso y edito textos adecuando el registro, incluidas redes sociales
@@ -682,6 +702,15 @@ c) WhatsApp del curso: "Chiquillos, la prueba de mañana se cambió pa'l viernes
 d) WhatsApp del curso: "Estimado curso: por medio de la presente informo a ustedes que la prueba fue reprogramada para el viernes. Saluda atentamente, [nombre]". Correo al profesor: "Profe, se cambió la prueba pa'l viernes, avise porfa 🙏"
 
 *Respuesta correcta: c.* Retroalimentación: el registro informal y el vocabulario de redes sociales son adecuados entre pares, pero no en un correo a un profesor; el contraste debe ser real y sin errores de concordancia.
+
+**8. (Alternativas — ortografía acentual y puntual)** Al revisar un correo para la directora, ¿qué versión corrige bien las tildes y la puntuación?
+
+a) Estimada directora: le escribo para solicitar una reunión el próximo miércoles, ya que necesitamos organizar la feria científica.
+b) Estimada directora le escribo, para solicitar una reunion el proximo miércoles ya que necesitamos organizar la feria cientifica.
+c) Estimada directora: le escribo para solicitar una reunión, el proximo miercoles ya que, necesitamos organizar la feria científica.
+d) Estimada directora; le escribo para solicitar una reunión el próximo miércoles ya que, necesitamos organizar la feria científica.
+
+*Respuesta correcta: a.* Retroalimentación: después del saludo de una carta o correo van dos puntos; «reunión», «próximo», «miércoles» y «científica» llevan tilde, y la coma va antes de «ya que», no después.
 
 ---
 

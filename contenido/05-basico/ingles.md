@@ -533,6 +533,25 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
    **Retroalimentación:** *My* indica posesión (algo que me pertenece); las otras
    oraciones describen clima, ubicación o hacen una pregunta, pero no posesión.
 
+8. *(Alternativas — acciones cotidianas)* Completa la oración sobre tu rutina: "Every day,
+   I ___ to school with my brother."
+   a) walks
+   b) walk
+   c) walking
+   d) to walk
+   **Respuesta correcta:** b) walk.
+   **Retroalimentación:** Con *I* el verbo va en su forma base: *I walk*, *I live*, *I eat*.
+   Solo con *he*, *she* o *it* se agrega -s: *he walks*.
+
+9. *(Alternativas — vocabulario de la casa)* ¿En qué parte de la casa se cocina?
+   a) Bedroom
+   b) Bathroom
+   c) Kitchen
+   d) Garden
+   **Respuesta correcta:** c) Kitchen.
+   **Retroalimentación:** *Kitchen* es la cocina. *Bedroom* es el dormitorio, *bathroom* el
+   baño y *garden* el jardín.
+
 ---
 
 ## Glosario consolidado – Vocabulario del curso

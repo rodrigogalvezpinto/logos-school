@@ -1460,3 +1460,34 @@ Con esto, la revisión disciplinar ítem por ítem cubre los 12 cursos.
   - `docs/PENDIENTES-USUARIO.md`, con las cuentas, claves, costos y decisiones que dependen del usuario.
 - **Regresión.** El rebalanceo de §15.32 había desordenado opciones de hora («A las 5 / 7 / 6») en 1.° básico. Se restauró el orden ascendente con distractores nuevos: la prueba de la unidad 2 quedó 4 · 5 · 6 y el simulacro B, 6 · 7 · 8. La clave sigue variada.
 - **Verificación.** Backend: 728 pasados (+1 omitido). Validador: 0 discrepancias. E2E de 1.° básico en los 3 navegadores.
+
+### 15.34 Fase 1 — auditoría del material contra los temarios oficiales (2026-11-07)
+
+A pedido del usuario, se auditó primero el material en los archivos, contra los 12 temarios PDF, antes
+de cualquier mejora. El detalle está en `docs/auditorias/fase1/`.
+
+**Controles.**
+- Cobertura de OA: 408/408.
+- Formato de los simulacros: 50/50 (20 preguntas en régimen A, 25 por asignatura desde 5.° básico, 90 minutos).
+- OA en simulacros: faltan 15 OA en régimen A.
+- Indicadores de evaluación: ~1.398/1.437 (97 %), revisados curso por curso.
+- Control 5: se revisaron de nuevo las 34 ediciones posteriores a `7ea9828`.
+
+**Herramientas nuevas.**
+- `auditoria_cobertura_temarios.py` y `auditoria_indicadores.py`: leen el PDF con pdftotext, con cuatro ajustes de lectura documentados.
+- `solapamiento_pruebas_guias.py`: compara enunciado y alternativas, y también los simulacros y los V/F.
+- `scripts/qa/`: el entorno de verificación queda dentro del repositorio.
+
+**Grupo A de correcciones aplicado (aprobado por el usuario).**
+- 31 preguntas nuevas para los indicadores sin cubrir, de 1.° básico a 1.° medio. Ejemplos: sílabas indirectas, efectos del viento, estaciones en el calendario, construir un gráfico de barras, el sonido en todas las direcciones, números en palabras, punto aparte, lenguaje figurado en la narración, participación política y modernización urbana, cosmología maya y azteca, gráficos en textos de medios, equilibrio térmico, Dalton, nacionalidades, sombras, espejos y lentes, y ortografía acentual.
+- Nuevo marcador `::barras::`: gráfico de barras dibujado en SVG, con eje graduado.
+- Dos falsos vacíos de la revisión se corrigieron en los informes: el «qu» de 1.° básico y la red comercial de 7.° básico sí estaban cubiertos.
+- Regresión propia corregida: la prueba de Números de 4.° básico había quedado sin el OA 5.
+
+**Verificación.**
+- Validador: 0 discrepancias.
+- Importación: 6.181 preguntas, 0 sin OA.
+- App: 1.° a 8.° básico y 1.° medio pasan en Chromium. 3.° básico, donde está el marcador nuevo, pasa 54/54 en los 3 navegadores.
+- Backend: 728 pruebas. Se actualizó el snapshot del banco de 3.115 a 3.146. `test_login_profesor_da_429…` falla de forma intermitente solo dentro de la suite completa; aislado pasa.
+
+**Pendiente, en el orden aprobado:** C.1 y C.3 (simulacros: preguntas copiadas de la guía y OA faltantes) → B (gráficos, mapas y esquemas) → C.2 (pruebas) → D.
