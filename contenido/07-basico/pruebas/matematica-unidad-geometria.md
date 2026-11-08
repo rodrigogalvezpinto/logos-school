@@ -9,7 +9,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 11, OA 14
 basado_en: contenido/07-basico/matematica.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 11","5":"OA 11","6":"OA 11","7":"OA 11"}
+oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 11","5":"OA 11","6":"OA 11","7":"OA 11","8":"OA 14","9":"OA 14","10":"OA 14","11":"OA 14","12":"OA 14","13":"OA 14","14":"OA 14"}
 ---
 
 # Prueba de Unidad — Matemática 7° Básico

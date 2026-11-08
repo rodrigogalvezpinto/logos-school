@@ -9,7 +9,7 @@ cantidad_preguntas: 13
 oa_evaluados: OA 3, OA 4
 basado_en: contenido/01-medio/matematica.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 3","11":"OA 4","12":"OA 4","13":"OA 4"}
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 3","8":"OA 4","9":"OA 4","10":"OA 4","11":"OA 4","12":"OA 4","13":"OA 4"}
 ---
 
 # Prueba de Unidad — Eje 2: Álgebra y Funciones

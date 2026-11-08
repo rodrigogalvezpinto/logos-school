@@ -7,7 +7,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 6
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 14 y OA 15)
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 14","6":"OA 15"}
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 15","5":"OA 15","6":"OA 15"}
 ---
 
 # Prueba de Unidad — Eje Formación Ciudadana (2° Básico)

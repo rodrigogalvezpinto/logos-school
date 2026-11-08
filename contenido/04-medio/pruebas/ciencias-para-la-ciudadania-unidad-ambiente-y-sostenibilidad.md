@@ -8,7 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 2, OA 3
 basado_en: contenido/04-medio/ciencias-para-la-ciudadania.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 2 (Módulo 3)","3":"OA 2 (Módulo 3)","7":"OA 2 (Módulo 3)","8":"OA 3 (Módulo 3)","11":"OA 3 (Módulo 3)","13":"OA 3 (Módulo 3)"}
+oa_por_pregunta: {"1":"OA 2 (Mód. 3)","2":"OA 2 (Mód. 3)","3":"OA 2 (Mód. 3)","4":"OA 2 (Mód. 3)","5":"OA 2 (Mód. 3)","6":"OA 2 (Mód. 3)","7":"OA 2 (Mód. 3)","8":"OA 3 (Mód. 3)","9":"OA 3 (Mód. 3)","10":"OA 3 (Mód. 3)","11":"OA 3 (Mód. 3)","12":"OA 3 (Mód. 3)","13":"OA 3 (Mód. 3)","14":"OA 3 (Mód. 3)"}
 ---
 
 # Prueba de Unidad — Ambiente y Sostenibilidad

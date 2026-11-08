@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","8":"OA 15","9":"OA 15","11":"OA 15","12":"OA 15"}
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 15","8":"OA 15","9":"OA 15","10":"OA 15","11":"OA 15","12":"OA 15"}
 eje: Patrones y Álgebra (OA 14, 15)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Patrones y Álgebra

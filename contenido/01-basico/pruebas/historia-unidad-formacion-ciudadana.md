@@ -28,7 +28,7 @@ d) Jugar con las manillas de las puertas
 
 ---
 
-**2.** No es necesario respetar los semáforos si no hay autos cerca.
+**2.** Se puede cruzar la calle corriendo entre los autos estacionados, sin mirar.
 
 ¿Verdadero o falso?
 
@@ -55,7 +55,7 @@ d) Al supermercado
 
 ---
 
-**5.** Carabineros de Chile se encarga de cuidar la seguridad de las personas.
+**5.** Los bomberos ayudan a la comunidad apagando incendios y rescatando personas.
 
 ¿Verdadero o falso?
 

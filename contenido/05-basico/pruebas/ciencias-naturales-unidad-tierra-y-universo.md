@@ -6,7 +6,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 10
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 12","4":"OA 12","5":"OA 12","9":"OA 14","10":"OA 14"}
+oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","4":"OA 12","5":"OA 12","6":"OA 14","7":"OA 14","8":"OA 14","9":"OA 14","10":"OA 14"}
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias de la Tierra y el Universo

@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
-oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 15","9":"OA 15","10":"OA 15","11":"OA 15"}
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 15","8":"OA 15","9":"OA 15","10":"OA 15","11":"OA 15","12":"OA 15"}
 unidad: Unidad 2 — Writing (OA 14 y 15)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

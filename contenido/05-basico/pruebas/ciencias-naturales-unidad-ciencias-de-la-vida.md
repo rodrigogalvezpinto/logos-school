@@ -6,7 +6,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 1","6":"OA 5","9":"OA 6","12":"OA 7"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 5","5":"OA 5","6":"OA 5","7":"OA 6","8":"OA 6","9":"OA 6","10":"OA 7","11":"OA 7","12":"OA 7"}
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias de la Vida

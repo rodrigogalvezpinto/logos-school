@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 4° Medio
-oa_por_pregunta: {"1":"OA 3","2":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","9":"OA 4","14":"OA 4"}
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 3","8":"OA 4","9":"OA 4","10":"OA 4","11":"OA 4","12":"OA 4","13":"OA 4","14":"OA 4"}
 unidad: Unidad 2 — OA N°3 y OA N°4 (Conocimiento del inglés, producción e identidad)
 título: Prueba de Unidad — Inglés, Unidad 2: Discurso indirecto, modales, léxico y síntesis
 tipo: Prueba de unidad

@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 basado_en: contenido/07-basico/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6":"OA 13","7":"OA 13","8":"OA 14","9":"OA 14","10":"OA 14","11":"OA 14","12":"OA 14","13":"OA 14","14":"OA 14"}
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: QUÍMICA

@@ -1,7 +1,7 @@
 ---
 asignatura: Filosofía
 curso: 4° Medio
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","6":"OA 1","7":"OA 1","8":"OA 2","9":"OA 2","11":"OA 2","12":"OA 2","13":"OA 2"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 1","8":"OA 2","9":"OA 2","10":"OA 2","11":"OA 2","12":"OA 2","13":"OA 2","14":"OA 2"}
 unidad: "Unidad 1 — OA N°1 (quehacer filosófico) y OA N°2 (ética: justicia, libertad, igualdad)"
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

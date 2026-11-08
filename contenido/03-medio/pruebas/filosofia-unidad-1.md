@@ -8,6 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: N°1, N°3
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/filosofia.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 1","8":"OA 3","9":"OA 3","10":"OA 3","11":"OA 3","12":"OA 3","13":"OA 3","14":"OA 3"}
 ---
 
 # Prueba de Unidad 1 — Filosofía, 3° medio

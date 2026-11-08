@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"1":"OA 19","2":"OA 19","3":"OA 19","4":"OA 22","5":"OA 22","6":"OA 22","7":"OA 23","8":"OA 23","10":"OA 24","11":"OA 26","12":"OA 26"}
+oa_por_pregunta: {"1":"OA 19","2":"OA 19","3":"OA 19","4":"OA 22","5":"OA 22","6":"OA 22","7":"OA 23","8":"OA 23","9":"OA 24","10":"OA 24","11":"OA 26","12":"OA 26"}
 eje: Medición y Datos y Probabilidades (OA 19, 22, 23, 24, 26)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

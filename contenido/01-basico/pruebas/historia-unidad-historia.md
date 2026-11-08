@@ -28,7 +28,7 @@ d) Dormir la siesta de la tarde
 
 ---
 
-**2.** La noche es el momento del día en que hay mucho sol y jugamos afuera.
+**2.** El desayuno es la comida que tomamos en la noche, antes de dormir.
 
 ¿Verdadero o falso?
 
@@ -67,7 +67,7 @@ d) El tulipán
 
 ---
 
-**6.** La cueca es el baile nacional de Chile.
+**6.** En las Fiestas Patrias es tradición encumbrar volantines y comer empanadas.
 
 ¿Verdadero o falso?
 

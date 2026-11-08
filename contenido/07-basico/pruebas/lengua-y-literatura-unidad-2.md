@@ -8,6 +8,7 @@ cantidad_preguntas: 13
 oa_evaluados: N°8, N°9, N°15
 fuente: contenido/07-basico/lengua-y-literatura.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 8","6":"OA 9","7":"OA 9","8":"OA 9","9":"OA 9","10":"OA 15","11":"OA 15","12":"OA 15","13":"OA 15"}
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 7° básico

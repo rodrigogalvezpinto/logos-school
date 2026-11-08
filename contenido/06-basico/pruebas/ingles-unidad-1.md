@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 6° Básico
-oa_por_pregunta: {"2":"OA 5","4":"OA 5","5":"OA 6","6":"OA 6","7":"OA 6","8":"OA 6","10":"OA 8","11":"OA 8"}
+oa_por_pregunta: {"1":"OA 5","2":"OA 5","3":"OA 5","4":"OA 5","5":"OA 6","6":"OA 6","7":"OA 6","8":"OA 6","9":"OA 8","10":"OA 8","11":"OA 8","12":"OA 8"}
 unidad: Unidad 1 — Reading (OA 5, 6 y 8)
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
-oa_por_pregunta: {"3":"OA 22","4":"OA 22","5":"OA 22","9":"OA 25","10":"OA 22","11":"OA 22","12":"OA 25","13":"OA 22"}
+oa_por_pregunta: {"1":"OA 22","2":"OA 22","3":"OA 22","4":"OA 22","5":"OA 22","6":"OA 25","7":"OA 25","8":"OA 25","9":"OA 25","10":"OA 22","11":"OA 22","12":"OA 25","13":"OA 22"}
 eje: Formación Ciudadana
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

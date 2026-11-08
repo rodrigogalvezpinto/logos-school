@@ -8,7 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: [7, 14, 15]
 basado_en: contenido/06-basico/lenguaje-y-comunicacion.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 7","3":"OA 7","4":"OA 7","5":"OA 14","6":"OA 14","8":"OA 14","11":"OA 15"}
+oa_por_pregunta: {"1":"OA 7","2":"OA 7","3":"OA 7","4":"OA 7","5":"OA 14","6":"OA 14","7":"OA 14","8":"OA 14","9":"OA 15","10":"OA 15","11":"OA 15","12":"OA 15"}
 ---
 
 # Prueba de Unidad 2 — Lenguaje y Comunicación — 6° básico

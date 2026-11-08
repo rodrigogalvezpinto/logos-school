@@ -9,6 +9,7 @@ tiempo_sugerido: 15 minutos
 cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 11)
 ultima_actualizacion: 2026-11-07
+oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 11","5":"OA 11","6":"OA 11"}
 ---
 
 # Prueba de Unidad — Patrones y Álgebra
@@ -37,7 +38,7 @@ b) 20
 c) 21
 d) 30
 
-**3.** El patrón 20, 17, 14, 11 es decreciente. ¿Verdadero o falso?
+**3.** El patrón 30, 25, 20, 15 va disminuyendo. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso

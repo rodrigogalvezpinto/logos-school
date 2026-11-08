@@ -8,6 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: N°13, N°16
 fuente: contenido/07-basico/ingles.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6":"OA 13","7":"OA 16","8":"OA 16","9":"OA 16","10":"OA 16","11":"OA 16","12":"OA 16","13":"OA 16","14":"OA 16"}
 ---
 
 # Prueba de Unidad 2 — Inglés (Writing), 7° básico

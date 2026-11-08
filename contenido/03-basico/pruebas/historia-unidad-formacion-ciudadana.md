@@ -8,6 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 8
 oa_evaluados: [14]
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 14","8":"OA 14"}
 ---
 
 # Prueba de Unidad — Eje Formación Ciudadana, 3° básico

@@ -1,7 +1,7 @@
 ---
 asignatura: Ciencias Naturales
 curso: 6° básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 2","5":"OA 2","6":"OA 2","7":"OA 2","9":"OA 5","10":"OA 5","11":"OA 6","12":"OA 6"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 2","5":"OA 2","6":"OA 2","7":"OA 2","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 6","12":"OA 6"}
 unidad: Eje 1 — Ciencias de la Vida
 tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos

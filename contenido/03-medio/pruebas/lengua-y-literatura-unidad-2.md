@@ -8,6 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: N°4, N°6
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°193/2019 (Plan Común) — banco de preguntas de /03-medio/lengua-y-literatura.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 6","9":"OA 6","10":"OA 6","11":"OA 6","12":"OA 6","13":"OA 6","14":"OA 6"}
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 3° medio

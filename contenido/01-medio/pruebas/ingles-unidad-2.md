@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 1° Medio
-oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","5":"OA 13","11":"OA 16","13":"OA 16","14":"OA 16"}
+oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6":"OA 13","7":"OA 16","8":"OA 16","9":"OA 16","10":"OA 16","11":"OA 16","12":"OA 16","13":"OA 16","14":"OA 16"}
 unidad: Unidad 2 — Writing (OA 13, OA 16)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 13
 basado_en: contenido/02-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 2","8":"OA 2","9":"OA 2","10":"OA 2","11":"OA 2","12":"OA 2","13":"OA 2"}
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: NÚMEROS Y OPERACIONES

@@ -9,6 +9,7 @@ cantidad_preguntas: 13
 oa_evaluados: OA 12
 basado_en: contenido/01-medio/historia-geografia-y-cs-sociales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","4":"OA 12","5":"OA 12","6":"OA 12","7":"OA 12","8":"OA 12","9":"OA 12","10":"OA 12","11":"OA 12","12":"OA 12","13":"OA 12"}
 ---
 
 # Prueba de Unidad — Historia, Geografía y Ciencias Sociales 1° Medio

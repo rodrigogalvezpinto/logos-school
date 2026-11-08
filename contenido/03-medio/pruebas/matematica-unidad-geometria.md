@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 basado_en: Banco de autoevaluación 03-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 4","9":"OA 4","10":"OA 4","11":"OA 4","12":"OA 4","13":"OA 4","14":"OA 4"}
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: GEOMETRÍA

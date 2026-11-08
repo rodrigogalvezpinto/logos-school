@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 7° Básico
-oa_por_pregunta: {"3":"OA 1","6":"OA 3","9":"OA 3","10":"OA 3","13":"OA 4","15":"OA 4"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 3","7":"OA 3","8":"OA 3","9":"OA 3","10":"OA 3","11":"OA 4","12":"OA 4","13":"OA 4","14":"OA 4","15":"OA 4"}
 eje: Eje 1 — Números y Operaciones
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones

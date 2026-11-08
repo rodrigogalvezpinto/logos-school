@@ -7,6 +7,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 10
 oa_evaluados: [6, 17]
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 6","2":"OA 6","3":"OA 6","4":"OA 6","5":"OA 6","6":"OA 6","7":"OA 17","8":"OA 17","9":"OA 17","10":"OA 17"}
 ---
 
 # Prueba de Unidad 2 — Lenguaje y Comunicación, 3° básico

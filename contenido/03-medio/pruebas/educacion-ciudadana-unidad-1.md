@@ -9,6 +9,7 @@ cantidad_preguntas: 15
 oa_evaluados: OA 1 (Fundamentos de la democracia y la ciudadanía), OA 2 (Acceso a la justicia y sistema judicial), OA 4 (Relaciones entre el Estado y el mercado)
 basado_en: Banco de autoevaluación de /contenido/03-medio/educacion-ciudadana.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 2","7":"OA 2","8":"OA 2","9":"OA 2","10":"OA 2","11":"OA 4","12":"OA 4","13":"OA 4","14":"OA 4","15":"OA 4"}
 ---
 
 # PRUEBA DE UNIDAD — Educación Ciudadana

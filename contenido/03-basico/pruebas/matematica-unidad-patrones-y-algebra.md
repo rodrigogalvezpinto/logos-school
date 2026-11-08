@@ -8,6 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 7
 fuente: contenido/03-basico/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","4":"OA 12","5":"OA 12","6":"OA 12","7":"OA 12"}
 ---
 
 # Prueba de Unidad: Patrones y Álgebra

@@ -8,6 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: OA 18
 basado_en: contenido/08-basico/historia-geografia-y-cs-sociales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 18","5":"OA 18","6":"OA 18","7":"OA 18","8":"OA 18","9":"OA 18","10":"OA 18","11":"OA 18","12":"OA 18"}
 ---
 
 # Prueba de unidad — Eje Formación Ciudadana (8° Básico)

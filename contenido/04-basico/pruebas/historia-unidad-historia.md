@@ -8,6 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 9
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°439, año 2012
 ultima_actualizacion: 2026-11-07
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 4","9":"OA 4"}
 ---
 
 # Prueba de Unidad — Eje 1: Historia

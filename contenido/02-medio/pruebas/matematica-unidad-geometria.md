@@ -8,6 +8,7 @@ cantidad_preguntas: 13
 basado_en: contenido/02-medio/matematica.md, complementada con preguntas
   nuevas del mismo estilo (el eje solo tenía 9 preguntas en el banco original)
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 8","6":"OA 8","7":"OA 8","8":"OA 8","9":"OA 8","10":"OA 8","11":"OA 8","12":"OA 8","13":"OA 8"}
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: GEOMETRÍA

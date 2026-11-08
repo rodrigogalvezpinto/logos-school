@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 3° Básico
-oa_por_pregunta: {"3":"OA 21","6":"OA 22","7":"OA 25","8":"OA 25","9":"OA 25"}
+oa_por_pregunta: {"1":"OA 21","2":"OA 21","3":"OA 21","4":"OA 22","5":"OA 22","6":"OA 22","7":"OA 25","8":"OA 25","9":"OA 25"}
 eje: Medición y Datos y Probabilidades (OA 21, 22, 25)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades

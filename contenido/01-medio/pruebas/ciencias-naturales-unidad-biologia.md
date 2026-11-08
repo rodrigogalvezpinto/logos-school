@@ -8,6 +8,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 basado_en: contenido/01-medio/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 6","9":"OA 6","10":"OA 6","11":"OA 6","12":"OA 8","13":"OA 8","14":"OA 8"}
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: BIOLOGÍA

@@ -8,6 +8,7 @@ cantidad_preguntas: 15
 oa_evaluados: N°3, N°5, N°8
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°614, año 2013
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 5","7":"OA 5","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 8","12":"OA 8","13":"OA 8","14":"OA 8","15":"OA 8"}
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 2° medio

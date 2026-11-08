@@ -8,6 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: OA 14, OA 15
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 15","8":"OA 15","9":"OA 15","10":"OA 15","11":"OA 15","12":"OA 15"}
 ---
 
 # Prueba de Unidad 2 — Inglés, 5° Básico

@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 2° Básico
-oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","5":"OA 13","7":"OA 13"}
+oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","4":"OA 12","5":"OA 13","6":"OA 13","7":"OA 13"}
 eje: Patrones y Álgebra (OA 12, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Patrones y Álgebra

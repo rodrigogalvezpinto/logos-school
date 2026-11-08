@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
-oa_por_pregunta: {"1":"OA 1","3":"OA 1","5":"OA 3","6":"OA 7","8":"OA 8","11":"OA 14","13":"OA 18","14":"OA 8"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 3","5":"OA 3","6":"OA 7","7":"OA 7","8":"OA 8","9":"OA 8","10":"OA 10","11":"OA 14","12":"OA 15","13":"OA 18","14":"OA 8"}
 eje: Eje 1 — Historia
 tipo: Prueba de unidad
 título: Prueba de Unidad — Historia

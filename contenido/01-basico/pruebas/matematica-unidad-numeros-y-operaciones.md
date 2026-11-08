@@ -58,7 +58,7 @@ b) 7
 c) 8
 d) 9
 
-**6.** 9 − 5 = 4. ¿Verdadero o falso?
+**6.** 8 − 3 = 5. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso

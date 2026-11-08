@@ -9,6 +9,7 @@ cantidad_preguntas: 15
 oa_evaluados: OA 5 (Derechos Humanos), OA 6 (Formas de participación y bien común), OA 7 (Organización política del territorio)
 basado_en: Banco de autoevaluación de /contenido/03-medio/educacion-ciudadana.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 5","2":"OA 5","3":"OA 5","4":"OA 5","5":"OA 5","6":"OA 6","7":"OA 6","8":"OA 6","9":"OA 6","10":"OA 6","11":"OA 7","12":"OA 7","13":"OA 7","14":"OA 7","15":"OA 7"}
 ---
 
 # PRUEBA DE UNIDAD — Educación Ciudadana

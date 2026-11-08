@@ -9,7 +9,7 @@ oa_evaluados: OA 9, OA 10
 fuente: contenido/08-basico/ingles.md
 ultima_actualizacion: 2026-10-28
 diccionario: permitido
-oa_por_pregunta: {"7":"OA 9","8":"OA 10","9":"OA 10","11":"OA 10","12":"OA 10","13":"OA 10"}
+oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 9","7":"OA 9","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 10","12":"OA 10","13":"OA 10","14":"OA 10"}
 ---
 
 # Prueba de Unidad 1 — Inglés, 8° Básico

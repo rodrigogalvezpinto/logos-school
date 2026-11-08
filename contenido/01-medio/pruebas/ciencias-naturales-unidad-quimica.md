@@ -8,6 +8,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 12
 basado_en: contenido/01-medio/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 17","2":"OA 17","3":"OA 17","4":"OA 17","5":"OA 17","6":"OA 17","7":"OA 20","8":"OA 20","9":"OA 20","10":"OA 20","11":"OA 20","12":"OA 20"}
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: QUÍMICA

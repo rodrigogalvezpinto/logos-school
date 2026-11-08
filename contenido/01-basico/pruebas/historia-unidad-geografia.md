@@ -28,7 +28,7 @@ d) Lo que vamos a comer
 
 ---
 
-**2.** La Cordillera de los Andes es un conjunto de montañas.
+**2.** En invierno, las montañas de la Cordillera de los Andes se cubren de nieve.
 
 ¿Verdadero o falso?
 
@@ -55,7 +55,7 @@ d) Una escuela
 
 ---
 
-**5.** Un desierto es un lugar con mucha vegetación y agua.
+**5.** En el desierto llueve todos los días y hay muchos ríos.
 
 ¿Verdadero o falso?
 

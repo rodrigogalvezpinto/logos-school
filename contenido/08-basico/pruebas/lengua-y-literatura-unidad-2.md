@@ -8,6 +8,7 @@ cantidad_preguntas: 15
 oa_evaluados: N°9, N°10, N°16
 fuente: contenido/08-basico/lengua-y-literatura.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 10","7":"OA 10","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 16","12":"OA 16","13":"OA 16","14":"OA 16","15":"OA 16"}
 ---
 
 # Prueba de Unidad 2 — Lengua y Literatura, 8° básico

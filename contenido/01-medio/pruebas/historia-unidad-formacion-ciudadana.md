@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 1° Medio
-oa_por_pregunta: {"1":"OA 20","3":"OA 20","4":"OA 20","7":"OA 23","11":"OA 24","12":"OA 25","13":"OA 25","14":"OA 23"}
+oa_por_pregunta: {"1":"OA 20","2":"OA 20","3":"OA 20","4":"OA 20","5":"OA 23","6":"OA 23","7":"OA 23","8":"OA 23","9":"OA 24","10":"OA 24","11":"OA 24","12":"OA 25","13":"OA 25","14":"OA 23"}
 eje: Eje 3 — Formación Ciudadana
 tipo: Prueba de unidad
 título: Prueba de Unidad — Formación Ciudadana

@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 2° Medio
-oa_por_pregunta: {"2":"OA 4","3":"OA 4","6":"OA 8","7":"OA 10","8":"OA 10","9":"OA 11","10":"OA 15","12":"OA 16","13":"OA 17","14":"OA 19"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 4","3":"OA 4","4":"OA 7","5":"OA 8","6":"OA 8","7":"OA 10","8":"OA 10","9":"OA 11","10":"OA 15","11":"OA 16","12":"OA 16","13":"OA 17","14":"OA 19","15":"OA 20"}
 eje: Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

@@ -6,6 +6,7 @@ tipo: Prueba de unidad
 tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 10","2":"OA 10","3":"OA 10","4":"OA 10","5":"OA 10","6":"OA 10","7":"OA 10","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 10","12":"OA 10"}
 ---
 
 # Prueba de Unidad — Ciencias Naturales: Ciencias Físicas y Químicas

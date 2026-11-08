@@ -9,7 +9,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 16, OA 18
 basado_en: contenido/07-basico/matematica.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 16","3":"OA 16","4":"OA 16","6":"OA 16","7":"OA 16","10":"OA 18","11":"OA 18","12":"OA 18","14":"OA 18"}
+oa_por_pregunta: {"1":"OA 16","2":"OA 16","3":"OA 16","4":"OA 16","5":"OA 16","6":"OA 16","7":"OA 16","8":"OA 18","9":"OA 18","10":"OA 18","11":"OA 18","12":"OA 18","13":"OA 18","14":"OA 18"}
 ---
 
 # Prueba de Unidad — Matemática 7° Básico

@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"2":"OA 17","5":"OA 17","6":"OA 17","8":"OA 18","9":"OA 18","12":"OA 18"}
+oa_por_pregunta: {"1":"OA 17","2":"OA 17","3":"OA 17","4":"OA 17","5":"OA 17","6":"OA 17","7":"OA 18","8":"OA 18","9":"OA 18","10":"OA 18","11":"OA 18","12":"OA 18"}
 eje: Geometría (OA 17, 18)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Geometría

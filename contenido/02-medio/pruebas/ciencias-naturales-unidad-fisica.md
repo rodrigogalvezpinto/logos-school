@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 14
 basado_en: contenido/02-medio/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 10","7":"OA 10","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 13","12":"OA 13","13":"OA 13","14":"OA 13"}
 ---
 
 # PRUEBA DE UNIDAD — CIENCIAS NATURALES: FÍSICA

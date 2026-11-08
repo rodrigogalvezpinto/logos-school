@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 3","4":"OA 4","6":"OA 6","7":"OA 6","9":"OA 10","11":"OA 11"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 3","4":"OA 4","5":"OA 4","6":"OA 6","7":"OA 6","8":"OA 7","9":"OA 10","10":"OA 11","11":"OA 11","12":"OA 13"}
 eje: Números y Operaciones (OA 1, 3, 4, 6, 7, 10, 11, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones

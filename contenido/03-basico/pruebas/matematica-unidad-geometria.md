@@ -8,6 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 6
 fuente: contenido/03-basico/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 15","2":"OA 15","3":"OA 15","4":"OA 15","5":"OA 15","6":"OA 15"}
 ---
 
 # Prueba de Unidad: Geometría

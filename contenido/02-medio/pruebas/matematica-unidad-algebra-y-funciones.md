@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 13
 basado_en: contenido/02-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 3","7":"OA 5","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 5","12":"OA 5","13":"OA 5"}
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: ÁLGEBRA Y FUNCIONES

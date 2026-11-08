@@ -8,6 +8,7 @@ cantidad_preguntas: 13
 basado_en: contenido/02-medio/matematica.md, complementada con preguntas
   nuevas del mismo estilo (el eje solo tenía 10 preguntas en el banco original)
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 11","5":"OA 11","6":"OA 11","7":"OA 11","8":"OA 11","9":"OA 11","10":"OA 11","11":"OA 11","12":"OA 11","13":"OA 11"}
 ---
 
 # PRUEBA DE UNIDAD — MATEMÁTICA: PROBABILIDAD Y ESTADÍSTICA

@@ -9,6 +9,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 2
 basado_en: contenido/04-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 2","6":"OA 2","7":"OA 2","8":"OA 2","9":"OA 2","10":"OA 2","11":"OA 2","12":"OA 2","13":"OA 2","14":"OA 2"}
 ---
 
 # Prueba de Unidad — Matemática, 4° Medio

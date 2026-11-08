@@ -8,7 +8,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA 2, OA 3, OA 4, OA 7, OA 11, OA 12, OA 14, OA 16
 basado_en: contenido/08-basico/historia-geografia-y-cs-sociales.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 2","3":"OA 3","5":"OA 4","8":"OA 7","9":"OA 11","11":"OA 12","14":"OA 16"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 3","4":"OA 3","5":"OA 4","6":"OA 4","7":"OA 7","8":"OA 7","9":"OA 11","10":"OA 11","11":"OA 12","12":"OA 14","13":"OA 16","14":"OA 16"}
 ---
 
 # Prueba de unidad — Eje Historia (8° Básico)

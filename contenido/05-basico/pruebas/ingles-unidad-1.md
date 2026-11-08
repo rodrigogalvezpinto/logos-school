@@ -8,6 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: OA 5, OA 6, OA 8
 basado_en: Temario oficial UCE/Mineduc, Decreto de Bases Curriculares N°439/2012
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 5","2":"OA 5","3":"OA 5","4":"OA 5","5":"OA 6","6":"OA 6","7":"OA 6","8":"OA 6","9":"OA 8","10":"OA 8","11":"OA 8","12":"OA 8"}
 ---
 
 # Prueba de Unidad 1 — Inglés, 5° Básico

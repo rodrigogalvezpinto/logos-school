@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 7° Básico
-oa_por_pregunta: {"1":"OA 21","3":"OA 21","4":"OA 21","5":"OA 21","6":"OA 21","9":"OA 22","10":"OA 22","11":"OA 22","12":"OA 22"}
+oa_por_pregunta: {"1":"OA 21","2":"OA 21","3":"OA 21","4":"OA 21","5":"OA 21","6":"OA 21","7":"OA 22","8":"OA 22","9":"OA 22","10":"OA 22","11":"OA 22","12":"OA 22"}
 eje: Eje 2 — Geografía
 tipo: Prueba de unidad
 título: Prueba de Unidad — Geografía

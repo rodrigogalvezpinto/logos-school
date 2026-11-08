@@ -9,6 +9,7 @@ cantidad_preguntas: 14
 oa_evaluados: OA N°1 (Módulo 1), OA N°3 (Módulo 1)
 basado_en: Banco de autoevaluación de /contenido/03-medio/ciencias-para-la-ciudadania.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 1 (Mód. 1)","2":"OA 1 (Mód. 1)","3":"OA 1 (Mód. 1)","4":"OA 1 (Mód. 1)","5":"OA 1 (Mód. 1)","6":"OA 1 (Mód. 1)","7":"OA 1 (Mód. 1)","8":"OA 3 (Mód. 1)","9":"OA 3 (Mód. 1)","10":"OA 3 (Mód. 1)","11":"OA 3 (Mód. 1)","12":"OA 3 (Mód. 1)","13":"OA 3 (Mód. 1)","14":"OA 3 (Mód. 1)"}
 ---
 
 # PRUEBA DE UNIDAD — Ciencias para la Ciudadanía

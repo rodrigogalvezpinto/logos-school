@@ -7,6 +7,7 @@ tiempo_sugerido: 30 a 35 minutos
 cantidad_preguntas: 12
 basado_en: Temario oficial UCE/Mineduc — Decreto de Bases Curriculares N°193, año 2019 (Plan Común)
 ultima_actualizacion: 2026-11-02
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 1","8":"OA 1","9":"OA 1","10":"OA 1","11":"OA 1","12":"OA 1"}
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 4° medio

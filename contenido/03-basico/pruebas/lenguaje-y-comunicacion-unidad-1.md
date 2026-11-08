@@ -1,7 +1,7 @@
 ---
 asignatura: Lenguaje y Comunicación
 curso: 3° básico
-oa_por_pregunta: {"2":"OA 4","3":"OA 4","5":"OA 4","7":"OA 5","9":"OA 5"}
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA 5","7":"OA 5","8":"OA 5","9":"OA 5","10":"OA 5"}
 unidad: 1
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

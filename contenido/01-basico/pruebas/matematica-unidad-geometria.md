@@ -9,6 +9,7 @@ tiempo_sugerido: 15 minutos
 cantidad_preguntas: 6
 fuente: contenido/01-basico/matematica.md (OA 13)
 ultima_actualizacion: 2026-11-07
+oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 13","6":"OA 13"}
 ---
 
 # Prueba de Unidad — Geometría
@@ -37,7 +38,7 @@ b) encima
 c) al lado
 d) dentro
 
-**3.** Las palabras "arriba" y "abajo" sirven para describir la posición de un objeto. ¿Verdadero o falso?
+**3.** Si la pelota está sobre la mesa, podemos decir que la pelota está "encima" de la mesa. ¿Verdadero o falso?
 
 a) Verdadero
 b) Falso

@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 8° Básico
-oa_por_pregunta: {"3":"OA 1","4":"OA 1","5":"OA 2","6":"OA 2","7":"OA 2","8":"OA 2","11":"OA 3","13":"OA 4","14":"OA 4"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 2","6":"OA 2","7":"OA 2","8":"OA 2","9":"OA 3","10":"OA 3","11":"OA 3","12":"OA 4","13":"OA 4","14":"OA 4"}
 eje: Números y Operaciones (OA 1, OA 2, OA 3, OA 4)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones

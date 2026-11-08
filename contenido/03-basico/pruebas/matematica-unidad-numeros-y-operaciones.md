@@ -8,7 +8,7 @@ tiempo_sugerido: 20 a 25 minutos
 cantidad_preguntas: 10
 fuente: contenido/03-basico/matematica.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 2","3":"OA 5","5":"OA 6","6":"OA 8","8":"OA 9","9":"OA 10","10":"OA 11"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 3","3":"OA 5","4":"OA 6","5":"OA 6","6":"OA 8","7":"OA 9","8":"OA 9","9":"OA 10","10":"OA 11"}
 ---
 
 # Prueba de Unidad: Números y Operaciones

@@ -9,6 +9,7 @@ cantidad_preguntas: 15
 oa_evaluados: OA 1
 basado_en: contenido/04-medio/ingles.md
 ultima_actualizacion: 2026-11-01
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 1","8":"OA 1","9":"OA 1","10":"OA 1","11":"OA 1","12":"OA 1","13":"OA 1","14":"OA 1","15":"OA 1"}
 ---
 
 # Prueba de Unidad — Inglés, 4° Medio

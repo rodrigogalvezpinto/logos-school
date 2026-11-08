@@ -8,7 +8,7 @@ tiempo_sugerido: 25 a 30 minutos
 cantidad_preguntas: 12
 fuente: contenido/06-basico/matematica.md (banco de preguntas por OA)
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","5":"OA 19","6":"OA 19","8":"OA 23","9":"OA 23","10":"OA 24","11":"OA 24","12":"OA 24"}
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","6":"OA 19","7":"OA 23","8":"OA 23","9":"OA 23","10":"OA 24","11":"OA 24","12":"OA 24"}
 ---
 
 # Prueba de Unidad — Matemática 6° Básico

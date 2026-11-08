@@ -1,7 +1,7 @@
 ---
 asignatura: Matemática
 curso: 7° Básico
-oa_por_pregunta: {"1":"OA 6","4":"OA 6","5":"OA 6","6":"OA 6","7":"OA 6","10":"OA 8","12":"OA 8","13":"OA 8","14":"OA 8"}
+oa_por_pregunta: {"1":"OA 6","2":"OA 6","3":"OA 6","4":"OA 6","5":"OA 6","6":"OA 6","7":"OA 6","8":"OA 8","9":"OA 8","10":"OA 8","11":"OA 8","12":"OA 8","13":"OA 8","14":"OA 8"}
 eje: Eje 2 — Patrones y Álgebra
 tipo: Prueba de unidad
 título: Prueba de Unidad — Patrones y Álgebra

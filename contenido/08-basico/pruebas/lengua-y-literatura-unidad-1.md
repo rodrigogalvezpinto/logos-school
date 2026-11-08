@@ -8,6 +8,7 @@ cantidad_preguntas: 15
 oa_evaluados: N°3, N°4, N°8
 fuente: contenido/08-basico/lengua-y-literatura.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 4","7":"OA 4","8":"OA 4","9":"OA 4","10":"OA 4","11":"OA 8","12":"OA 8","13":"OA 8","14":"OA 8","15":"OA 8"}
 ---
 
 # Prueba de Unidad 1 — Lengua y Literatura, 8° básico

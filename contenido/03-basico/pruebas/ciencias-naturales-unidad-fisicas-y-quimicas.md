@@ -8,6 +8,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 6
 fuente: contenido/03-basico/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 10","2":"OA 10","3":"OA 10","4":"OA 10","5":"OA 10","6":"OA 10"}
 ---
 
 # Prueba de Unidad: Ciencias Físicas y Químicas

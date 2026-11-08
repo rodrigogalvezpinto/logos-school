@@ -7,7 +7,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 8
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 7 y OA 8)
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"3":"OA 7","8":"OA 8"}
+oa_por_pregunta: {"1":"OA 7","2":"OA 7","3":"OA 7","4":"OA 7","5":"OA 8","6":"OA 8","7":"OA 8","8":"OA 8"}
 ---
 
 # Prueba de Unidad — Eje Geografía (2° Básico)

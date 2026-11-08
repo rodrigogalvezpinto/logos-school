@@ -9,6 +9,7 @@ cantidad_preguntas: 13
 oa_evaluados: OA 14
 basado_en: contenido/01-medio/matematica.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6":"OA 14","7":"OA 14","8":"OA 14","9":"OA 14","10":"OA 14","11":"OA 14","12":"OA 14","13":"OA 14"}
 ---
 
 # Prueba de Unidad — Eje 4: Probabilidad y Estadística

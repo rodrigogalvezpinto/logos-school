@@ -7,7 +7,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 8
 basado_en: contenido/02-basico/historia-geografia-y-cs-sociales.md (OA 1 a OA 4)
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","4":"OA 2","8":"OA 4"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 2","4":"OA 2","5":"OA 3","6":"OA 3","7":"OA 4","8":"OA 4"}
 ---
 
 # Prueba de Unidad — Eje Historia (2° Básico)

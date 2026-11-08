@@ -1,7 +1,7 @@
 ---
 asignatura: Idioma Extranjero - Inglés
 curso: 1° Medio
-oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","5":"OA 9","6":"OA 9","7":"OA 9","8":"OA 10","9":"OA 10","11":"OA 10","12":"OA 10","13":"OA 10","14":"OA 10"}
+oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA 9","7":"OA 9","8":"OA 10","9":"OA 10","10":"OA 10","11":"OA 10","12":"OA 10","13":"OA 10","14":"OA 10"}
 unidad: Unidad 1 — Reading (OA 9, OA 10)
 tipo: Prueba de unidad
 tiempo_sugerido: 30 a 35 minutos

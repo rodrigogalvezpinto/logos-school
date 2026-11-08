@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 3° básico
-oa_por_pregunta: {"2":"OA 3","3":"OA 3","4":"OA 3","7":"OA 3","8":"OA 4","9":"OA 4","10":"OA 4"}
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 4","7":"OA 3","8":"OA 4","9":"OA 4","10":"OA 4"}
 unidad: Eje 1 — Historia
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

@@ -8,7 +8,7 @@ tiempo_sugerido: 15 a 20 minutos
 cantidad_preguntas: 7
 fuente: contenido/02-basico/ciencias-naturales.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"2":"OA 11","3":"OA 11","5":"OA 12","7":"OA 14"}
+oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 12","5":"OA 12","6":"OA 14","7":"OA 14"}
 ---
 
 # Prueba de Unidad — Ciencias de la Tierra y el Universo

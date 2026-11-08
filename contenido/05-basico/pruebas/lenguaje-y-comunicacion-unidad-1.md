@@ -8,6 +8,7 @@ cantidad_preguntas: 12
 oa_evaluados: OA N°4, OA N°5, OA N°6
 basado_en: contenido/05-basico/lenguaje-y-comunicacion.md
 ultima_actualizacion: 2026-10-28
+oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 5","6":"OA 5","7":"OA 5","8":"OA 5","9":"OA 6","10":"OA 6","11":"OA 6","12":"OA 6"}
 ---
 
 # Prueba de Unidad 1 — Lenguaje y Comunicación (5° básico)

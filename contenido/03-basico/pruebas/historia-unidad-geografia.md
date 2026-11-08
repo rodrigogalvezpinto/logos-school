@@ -1,7 +1,7 @@
 ---
 asignatura: Historia, Geografía y Ciencias Sociales
 curso: 3° básico
-oa_por_pregunta: {"1":"OA 7","2":"OA 7","3":"OA 7","4":"OA 7","5":"OA 7","7":"OA 8","8":"OA 8","9":"OA 8","10":"OA 8"}
+oa_por_pregunta: {"1":"OA 7","2":"OA 7","3":"OA 7","4":"OA 7","5":"OA 7","6":"OA 8","7":"OA 8","8":"OA 8","9":"OA 8","10":"OA 8"}
 unidad: Eje 2 — Geografía
 tipo: Prueba de unidad
 tiempo_sugerido: 20 a 25 minutos

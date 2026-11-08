@@ -8,6 +8,7 @@ cantidad_preguntas: 15
 oa_evaluados: OA 1, OA 5
 basado_en: contenido/04-medio/educacion-ciudadana.md
 ultima_actualizacion: 2026-11-01
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA 1","7":"OA 1","8":"OA 5","9":"OA 5","10":"OA 5","11":"OA 5","12":"OA 5","13":"OA 5","14":"OA 5","15":"OA 5"}
 ---
 
 # Prueba de Unidad — Institucionalidad democrática y desafíos de la democracia

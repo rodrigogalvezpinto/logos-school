@@ -8,6 +8,7 @@ cantidad_preguntas: 15
 oa_evaluados: OA 3, OA 4, OA 6
 basado_en: contenido/04-medio/educacion-ciudadana.md
 ultima_actualizacion: 2026-11-01
+oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA 4","7":"OA 4","8":"OA 4","9":"OA 4","10":"OA 4","11":"OA 6","12":"OA 6","13":"OA 6","14":"OA 6","15":"OA 6"}
 ---
 
 # Prueba de Unidad — Desarrollo, derechos laborales y medios de comunicación
