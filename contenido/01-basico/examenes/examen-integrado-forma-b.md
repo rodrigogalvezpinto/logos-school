@@ -37,11 +37,11 @@ basado_en: >
 
 ## PREGUNTAS
 
-**1.** ¿Cuál es la flor nacional de Chile, que crece en los bosques del sur?
+**1.** ¿Qué animal chileno es un ciervo muy pequeño que vive escondido en los bosques del sur?
 
-a) El girasol
-b) La rosa
-c) El copihue
+a) El cóndor
+b) El flamenco
+c) El pudú
 
 ---
 
@@ -61,11 +61,11 @@ c) "casa"
 
 ---
 
-**4.** Hoy es viernes. ¿Qué día fue ayer?
+**4.** Hoy es lunes. ¿Qué día será mañana?
 
-a) Jueves
-b) Sábado
-c) Domingo
+a) Domingo
+b) Martes
+c) Miércoles
 
 ---
 
@@ -93,26 +93,26 @@ c) Edificio
 
 ---
 
-**8.** ¿Cuál de estas parejas está **bien unida** con la zona de Chile donde se encuentra?
+**8.** ¿Qué animal vive en el altiplano, en el norte de Chile?
 
-a) Pudú → norte, en el desierto
-b) Cactus → sur, en el bosque lluvioso
-c) Guanaco → norte, en el desierto
+a) La llama
+b) El pingüino
+c) El pudú
 
 ---
 
 **9.** Lee el siguiente texto y responde.
 
-> Nota para mamá
-> Fui a jugar a la plaza con Tomás.
-> Vuelvo a las 6.
-> Cariños, Camila
+> Papá:
+> Me fui a la casa de la tía Rosa.
+> Vuelvo a las 5.
+> Ana
 
-Según la nota, ¿a qué hora dice Camila que va a volver?
+Según la nota, ¿a qué hora dice Ana que va a volver?
 
-a) A las 6
-b) A las 7
-c) A las 8
+a) A las 4
+b) A las 5
+c) A las 7
 
 ---
 
@@ -142,31 +142,27 @@ d) Cordillera
 
 ---
 
-**13.** Completa la secuencia: 2, 4, 6, ___, 10
+**13.** ::largo::A::7::B::4:: Los dos lápices empiezan en el mismo punto. ¿Cuál lápiz es más corto?
 
-a) 8
-b) 9
-c) 12
+a) El lápiz A
+b) El lápiz B
+c) Miden lo mismo
 
 ---
 
 **14.** Lee el siguiente texto y responde.
 
-### Cómo lavarse las manos
+### Cómo regar una planta
 
-> 1. Moja tus manos con agua.
-> 2. Ponte jabón.
-> 3. Frota tus manos.
-> 4. Enjuaga con agua.
-> 5. Sécate con una toalla.
+> 1. Llena la regadera con agua.
+> 2. Echa el agua en la tierra, despacio.
+> 3. Deja la regadera en su lugar.
 
-[Imagen: una secuencia de dibujos mostrando manos mojándose, con jabón, frotándose y secándose]
+Según las instrucciones, ¿qué se hace primero para regar una planta?
 
-Según las instrucciones, ¿qué se hace primero para lavarse las manos?
-
-a) Ponerse jabón
-b) Mojar las manos con agua
-c) Secarse con una toalla
+a) Echar el agua en la tierra
+b) Llenar la regadera con agua
+c) Guardar la regadera
 
 ---
 
@@ -178,11 +174,11 @@ c) No se puede saber
 
 ---
 
-**16.** En la sala de clases, ¿qué debes hacer si quieres hablar mientras el profesor está explicando?
+**16.** En la biblioteca, ¿cómo debemos hablar?
 
-a) Gritar mi idea para que todos la escuchen
-b) Levantar la mano y esperar mi turno
-c) Interrumpir al profesor sin pedir la palabra
+a) Gritando para que nos escuchen
+b) En voz baja, para no molestar a quienes leen
+c) Cantando fuerte
 
 ---
 
@@ -194,11 +190,11 @@ c) 6
 
 ---
 
-**18.** ¿Qué actividad hacemos normalmente durante la **noche**?
+**18.** ¿En qué momento del día suele hacer más calor?
 
-a) Dormir
-b) Ir a la escuela
-c) Jugar en el recreo
+a) Al mediodía, cuando el Sol está alto
+b) A medianoche
+c) Antes de que salga el Sol
 
 ---
 
@@ -236,24 +232,24 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
-| 1 | Ciencias Naturales | **c) El copihue.** Es la flor nacional de Chile: roja, en forma de campanita, típica del sur del país. | OA 5 — Animales y plantas de Chile |
+| 1 | Ciencias Naturales | **c) El pudú.** Es uno de los ciervos más pequeños del mundo y vive en los bosques húmedos del sur de Chile. | OA 5 — Animales y plantas de Chile |
 | 2 | Matemática | **a) 16.** Al contar, el 16 viene después del 12, por lo tanto 16 es mayor que 12. | OA 4 — Comparar y ordenar números del 0 al 20 |
 | 3 | Lenguaje y Comunicación | **c) "casa".** Al unir los sonidos "ca" y "sa" en ese orden, se forma la palabra "casa". | OA N°3 — Combinar sonidos |
-| 4 | Historia, Geografía y Cs. Sociales | **a) Jueves.** "Ayer" siempre es el día que pasó justo antes de hoy. | OA 2 — Secuencia temporal |
+| 4 | Historia, Geografía y Cs. Sociales | **b) Martes.** "Mañana" es el día que viene justo después de hoy: después del lunes viene el martes. | OA 2 — Ordenar momentos de mi día y de mi vida |
 | 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
 | 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
 | 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
-| 8 | Ciencias Naturales | **c) Guanaco → norte, en el desierto.** El guanaco vive en las zonas secas del norte; el pudú vive en el bosque del sur y el cactus crece en el norte. | OA 5 — Animales y plantas de Chile |
-| 9 | Lenguaje y Comunicación | **a) A las 6.** La nota dice "Vuelvo a las 6". | OA N°10 — Información explícita en una nota |
+| 8 | Ciencias Naturales | **a) La llama.** Vive en el altiplano del norte, a gran altura; el pingüino vive en la costa y el pudú en los bosques del sur. | OA 5 — Animales y plantas de Chile |
+| 9 | Lenguaje y Comunicación | **b) A las 5.** La nota dice "Vuelvo a las 5". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **a) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
 | 11 | Ciencias Naturales | **a, b y c.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
 | 12 | Historia, Geografía y Cs. Sociales | **a, b y d.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
-| 13 | Matemática | **a) 8.** La regla de la secuencia es "sumar 2" (2+2=4, 4+2=6, 6+2=8, 8+2=10), por lo tanto el número que falta es 8. | OA 11 — Reconocer, describir, crear y continuar patrones |
-| 14 | Lenguaje y Comunicación | **b) Mojar las manos con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Información explícita en instrucciones |
+| 13 | Matemática | **b) El lápiz B.** Los dos parten del mismo punto y el lápiz B llega menos lejos: es el más corto. | OA 18 — Comparar la longitud de objetos |
+| 14 | Lenguaje y Comunicación | **b) Llenar la regadera con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Instrucciones |
 | 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |
-| 16 | Historia, Geografía y Cs. Sociales | **b) Levantar la mano y esperar mi turno.** Es la norma que ayuda a que todos puedan hablar y ser escuchados en orden. | OA 14 — Normas de convivencia y autocuidado |
+| 16 | Historia, Geografía y Cs. Sociales | **b) En voz baja, para no molestar a quienes leen.** Es una norma de convivencia que respeta a los demás. | OA 14 — Normas para convivir bien |
 | 17 | Matemática | **c) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
-| 18 | Ciencias Naturales | **a) Dormir.** Ir a la escuela y jugar en el recreo son actividades del día. | OA 11 — El día y la noche |
+| 18 | Ciencias Naturales | **a) Al mediodía, cuando el Sol está alto.** De día el Sol calienta el ambiente; en la noche y antes del amanecer hace más frío. | OA 11 — El día y la noche |
 | 19 | Lenguaje y Comunicación | **b) Me gusta jugar a la pelota.** Responde la pregunta y tiene cada palabra separada por un espacio; la opción a) junta palabras y la c) no responde la pregunta. | OA N°13 — Escribir una frase corta para responder |
 | 20 | Historia, Geografía y Cs. Sociales | **a) Hospital o posta: cuida la salud de las personas.** La escuela enseña y Carabineros cuida la seguridad de las personas. | OA 15 — Instituciones de la comunidad |
 

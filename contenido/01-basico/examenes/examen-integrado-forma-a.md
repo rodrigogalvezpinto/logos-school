@@ -59,11 +59,11 @@ c) Se viste
 
 ---
 
-**4.** ¿Cuál de estos es un ser vivo?
+**4.** ¿Qué tienen en común todos los seres vivos?
 
-a) Una silla
-b) Un lápiz
-c) Un pájaro
+a) Nacen, crecen y necesitan alimento
+b) Están hechos de plástico
+c) Nunca necesitan agua
 
 ---
 
@@ -91,19 +91,19 @@ c) Gusto
 
 ---
 
-**8.** ¿Cuál es la capital de Chile?
+**8.** La Fiesta de La Tirana, con bailes y trajes de muchos colores, es una fiesta típica que se celebra principalmente en:
 
-a) Valparaíso
-b) Concepción
-c) Santiago
+a) el norte de Chile
+b) Isla de Pascua
+c) la Antártica
 
 ---
 
-**9.** Calcula: 5 + 3 = ?
+**9.** ::posicion::🐱::encima::🪑:: ¿Dónde está el gato respecto de la silla?
 
-a) 7
-b) 9
-c) 8
+a) Debajo de la silla
+b) Encima de la silla
+c) Dentro de la silla
 
 ---
 
@@ -115,35 +115,33 @@ c) Carne
 
 ---
 
-**11.** ¿Qué océano se encuentra junto a Chile?
+**11.** ¿Qué cordillera recorre Chile de norte a sur?
 
-a) Océano Atlántico
-b) Océano Pacífico
-c) Océano Índico
+a) La cordillera de los Andes
+b) Los Alpes
+c) Los Himalayas
 
 ---
 
-**12.** ¿Qué material es liviano y flota en el agua, por lo que se usa para hacer tapones de botella?
+**12.** ¿Qué material es transparente y se usa para hacer las ventanas?
 
-a) Metal
-b) Corcho
-c) Piedra
+a) Madera
+b) Vidrio
+c) Género
 
 ---
 
 **13.** Lee el siguiente texto y responde.
 
-### "Pepa y el gato perdido"
+### "La feria con el abuelo"
 
-> Pepa vive en Curicó. Un día llovía fuerte. Pepa vio un gato debajo de un auto. El gato estaba mojado y temblaba de frío. Pepa lo llevó a su casa. Le dio leche tibia. El gato se quedó dormido en una caja. Pepa lo llamó Michi.
+> Tomás fue con su abuelo a la feria. Compraron manzanas rojas y un melón grande. De vuelta a casa empezó a llover y los dos se mojaron un poco. Cuando llegaron, la abuela les preparó un jugo de melón.
 
-[Imagen: una niña con impermeable amarillo cargando a un gato gris, con lluvia cayendo alrededor]
+¿Qué compraron Tomás y su abuelo en la feria?
 
-¿Dónde encontró Pepa al gato?
-
-a) Debajo de un auto
-b) Dentro de su casa
-c) En la plaza
+a) Manzanas rojas y un melón
+b) Pan y queso
+c) Un juguete nuevo
 
 ---
 
@@ -155,19 +153,19 @@ c) Triángulo
 
 ---
 
-**15.** ¿Qué le pasa a un cubo de hielo cuando se le aplica calor?
+**15.** ¿Qué le pasa a la ropa mojada si la colgamos al sol?
 
-a) Se derrite y se vuelve agua
-b) Se pone más duro
-c) No le pasa nada
+a) Se seca
+b) Se moja más
+c) Se vuelve de metal
 
 ---
 
-**16.** Antes de cruzar la calle, ¿qué es lo primero que debes hacer?
+**16.** Cuando viajas en bus, ¿qué debes hacer?
 
-a) Correr rápido
-b) Mirar hacia ambos lados
-c) Cerrar los ojos
+a) Ir sentado o bien afirmado
+b) Sacar la cabeza por la ventana
+c) Pararte en el asiento
 
 ---
 
@@ -179,27 +177,27 @@ c) Uva
 
 ---
 
-**18.** ¿Qué astro vemos en el cielo durante el día, dando luz y calor?
+**18.** ¿Cuándo vemos la Luna y las estrellas en el cielo?
 
-a) La Luna
-b) Las estrellas
-c) El Sol
-
----
-
-**19.** Si te sientes muy enfermo, ¿a qué institución debes ir?
-
-a) La municipalidad
-b) El hospital o la posta
-c) Carabineros
+a) En la noche
+b) Al mediodía
+c) Nunca se ven
 
 ---
 
-**20.** ::dibujo::🌙:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en cada sonido?
+**19.** Un niño se cae en el patio y se hace una herida grande. ¿A dónde lo llevan para que lo curen?
 
-a) lua
-b) luna
-c) lunna
+a) Al supermercado
+b) A la posta o al hospital
+c) Al cine
+
+---
+
+**20.** ::dibujo::🎲:: ¿Cuál es la palabra bien escrita para este dibujo, pensando en cada sonido?
+
+a) dao
+b) dado
+c) dabo
 
 ---
 
@@ -224,23 +222,23 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
 | 2 | Lenguaje y Comunicación | **a) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
-| 4 | Ciencias Naturales | **c) Un pájaro.** Es un ser vivo porque nace, crece, se reproduce y muere; la silla y el lápiz son objetos, no seres vivos. | OA 1 — Seres vivos y cosas no vivas |
+| 4 | Ciencias Naturales | **a) Nacen, crecen y necesitan alimento.** Todos los seres vivos nacen, crecen, se reproducen, mueren y necesitan agua, aire y alimento. | OA 1 — Seres vivos y cosas no vivas |
 | 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
 | 7 | Ciencias Naturales | **a) Tacto.** El tacto de las manos permite sentir si algo está caliente o frío. | OA 6 — Los cinco sentidos |
-| 8 | Historia, Geografía y Cs. Sociales | **c) Santiago.** Es la capital de Chile. | OA 9 — Chile en el mapa |
-| 9 | Matemática | **c) 8.** Contando desde 5, tres números más (6, 7, 8), se llega a 8. | OA 9 — Sumar y restar números del 0 al 20 |
+| 8 | Historia, Geografía y Cs. Sociales | **a) el norte de Chile.** La Tirana se celebra cada julio en la Región de Tarapacá, con bailes religiosos y trajes coloridos. | OA 6 — Fiestas, comidas y costumbres típicas |
+| 9 | Matemática | **b) Encima de la silla.** El gato está arriba, apoyado sobre la silla. | OA 13 — Posición de objetos y personas |
 | 10 | Lenguaje y Comunicación | **b) Pan.** La frase dice claramente "El perro come pan". | OA N°4 — Lectura y comprensión de frases cortas |
-| 11 | Historia, Geografía y Cs. Sociales | **b) Océano Pacífico.** Está junto a todo el territorio chileno, de norte a sur. | OA 9 — Chile en el mapa |
-| 12 | Ciencias Naturales | **b) Corcho.** Es un material liviano que flota en el agua, por eso se usa en tapones de botella. | OA 8 — Los materiales y sus propiedades |
-| 13 | Lenguaje y Comunicación | **a) Debajo de un auto.** El texto dice "Pepa vio un gato debajo de un auto". | OA N°8 — Información explícita en cuentos |
+| 11 | Historia, Geografía y Cs. Sociales | **a) La cordillera de los Andes.** Recorre todo Chile por el lado este, de norte a sur. Los Alpes están en Europa y los Himalayas en Asia. | OA 9 — Chile en el mapa |
+| 12 | Ciencias Naturales | **b) Vidrio.** Es transparente: deja pasar la luz y podemos ver a través de él. | OA 8 — Los materiales y sus propiedades |
+| 13 | Lenguaje y Comunicación | **a) Manzanas rojas y un melón.** El texto dice "Compraron manzanas rojas y un melón grande". | OA N°8 — Información explícita en narraciones |
 | 14 | Matemática | **b) Círculo.** El patrón se repite de dos en dos: cuadrado-círculo, cuadrado-círculo... Después de un cuadrado siempre sigue un círculo. | OA 11 — Reconocer, describir, crear y continuar patrones |
-| 15 | Ciencias Naturales | **a) Se derrite y se vuelve agua.** El calor hace que el hielo cambie de estado sólido a líquido. | OA 9 — Cambios en los materiales |
-| 16 | Historia, Geografía y Cs. Sociales | **b) Mirar hacia ambos lados.** Nos ayuda a asegurarnos de que no vienen autos antes de cruzar. | OA 14 — Normas de convivencia y autocuidado |
+| 15 | Ciencias Naturales | **a) Se seca.** El calor del sol hace que el agua de la ropa se evapore. | OA 9 — Cambios en los materiales |
+| 16 | Historia, Geografía y Cs. Sociales | **a) Ir sentado o bien afirmado.** Es una norma de seguridad que evita caídas y golpes. | OA 14 — Normas para cuidarme y convivir |
 | 17 | Matemática | **c) Uva.** La uva tiene 7 marcas, más que la manzana (5) y el plátano (3), por lo tanto es la fruta preferida por más niños. | OA 19 — Recolectar y registrar datos |
-| 18 | Ciencias Naturales | **c) El Sol.** Es el astro que vemos de día y que nos da luz y calor. | OA 11 — El día y la noche |
-| 19 | Historia, Geografía y Cs. Sociales | **b) El hospital o la posta.** Ahí médicos y enfermeras atienden a las personas enfermas. | OA 15 — Instituciones de la comunidad |
-| 20 | Lenguaje y Comunicación | **b) luna.** Debe tener una letra por cada sonido: /l/-/u/-/n/-/a/. En «lua» falta la n y en «lunna» sobra una n. | OA N°13 — Relación letra-sonido al escribir |
+| 18 | Ciencias Naturales | **a) En la noche.** Cuando el Sol se pone y el cielo se oscurece, vemos la Luna y las estrellas. | OA 11 — El día y la noche |
+| 19 | Historia, Geografía y Cs. Sociales | **b) A la posta o al hospital.** Ahí médicos y enfermeras atienden a las personas heridas o enfermas. | OA 15 — Instituciones que ayudan a mi comunidad |
+| 20 | Lenguaje y Comunicación | **b) dado.** Debe tener una letra por cada sonido: /d/-/a/-/d/-/o/. En «dao» falta la d y «dabo» tiene otro sonido. | OA N°13 — Escritura (relación letra-sonido) |
 
 ### Distribución de puntaje por asignatura
 
