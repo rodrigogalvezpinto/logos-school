@@ -26,23 +26,22 @@ tienen una sola respuesta correcta. Si una pregunta dice «marca todas las corre
 
 ## Preguntas
 
-**1. (Alternativas — OA8)** ¿Cuál de las siguientes fuentes de energía proviene de
-forma directa del Sol?
+**1. (Alternativas — OA8)** ¿Cuál de las siguientes fuentes de energía proviene del **movimiento del aire**?
 
-a) El petróleo extraído del subsuelo
-b) La energía captada por paneles solares
-c) El carbón de las minas del sur
-d) Los alimentos que comemos cada día
+a) El petróleo
+b) La energía eólica de los aerogeneradores
+c) El carbón
+d) La energía geotérmica
 
 **2. (Verdadero o Falso — OA8)** Los objetos no necesitan energía para cambiar; solo
 los seres vivos la necesitan para realizar sus procesos vitales.
 
-**3. (Alternativas — OA8)** ¿Qué tipo de energía se manifiesta principalmente en un **parlante** encendido?
+**3. (Alternativas — OA8)** ¿Qué tipo de energía se manifiesta principalmente en una **ampolleta encendida**?
 
-a) Energía sonora
-b) Energía lumínica
-c) Energía cinética
-d) Energía calórica
+a) Energía lumínica
+b) Energía sonora
+c) Energía química
+d) Energía eólica
 
 **4. (Alternativas — OA8)** ¿Por qué se dice que los alimentos son una
 forma indirecta de energía solar?
@@ -52,16 +51,14 @@ b) Porque brillan con la luz del sol, igual que los paneles solares en los techo
 c) Porque el Sol los cocina en el campo mientras crecen, y por eso algunos alimentos ya no hay que cocinarlos en la casa
 d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol
 
-**5. (Alternativas — OA11)** ¿Cuál de los siguientes recursos energéticos es no
-renovable?
+**5. (Alternativas — OA11)** ¿Cuál de los siguientes recursos energéticos es **renovable**?
 
-a) Energía solar
-b) Energía eólica
-c) Energía hidráulica
-d) Carbón
+a) Petróleo
+b) Gas natural
+c) Carbón
+d) Energía solar
 
-**6. (Verdadero o Falso — OA11)** Chile tiene un alto potencial de energía solar
-debido a la radiación solar del desierto de Atacama.
+**6. (Verdadero o Falso — OA11)** El viento constante de algunas zonas costeras de Chile permite instalar parques eólicos para producir electricidad.
 
 **7. (Varias correctas — OA11)** ¿Qué fuentes de energía son **renovables**?
 
@@ -81,23 +78,22 @@ b) Usar ampolletas de bajo consumo
 c) Dejar el computador encendido toda la noche
 d) Aprovechar la luz natural durante el día
 
-**9. (Alternativas — OA13)** ¿Cómo se llama el cambio de estado en el que la materia
-pasa de sólido a líquido?
+**9. (Alternativas — OA13)** Al dejar un helado fuera del refrigerador en un día de calor, se derrite. ¿Qué cambio de estado ocurre?
 
 a) Evaporación
 b) Condensación
 c) Fusión
-d) Sublimación
+d) Solidificación
 
 **10. (Verdadero o Falso — OA13)** La ebullición y la evaporación son exactamente el
 mismo proceso, sin ninguna diferencia entre ellos.
 
-**11. (Alternativas — OA13)** El vapor de agua que forma gotitas en un vidrio frío es un ejemplo de...
+**11. (Alternativas — OA13)** Cuando la ropa mojada se seca colgada al sol, ¿qué cambio de estado ocurre con el agua?
 
 a) Fusión (sólido → líquido)
-b) Condensación (gas → líquido)
+b) Evaporación (líquido → gas)
 c) Solidificación (líquido → sólido)
-d) Sublimación (sólido → gas)
+d) Condensación (gas → líquido)
 
 **12. (Alternativas — OA13)** A nivel de las partículas, ¿qué ocurre
 con las partículas de un sólido cuando gana energía calórica y pasa al estado líquido?
@@ -111,23 +107,19 @@ d) Las partículas desaparecen al recibir calor y son reemplazadas por partícul
 
 ## Pauta de respuestas
 
-1. **b.** Los paneles solares capturan directamente la energía lumínica del Sol; el
-   petróleo, el carbón y los alimentos provienen del Sol de forma indirecta.
+1. **b.** Los aerogeneradores transforman la energía del viento (aire en movimiento) en electricidad.
 2. **Falso.** Tanto los seres vivos como los objetos necesitan energía para que
    ocurra cualquier tipo de cambio, ya sea movimiento, luz, sonido o calor.
-3. a) Energía sonora. Ampolleta: lumínica; parlante: sonora; ventilador: cinética; estufa: calórica.
+3. a) Energía lumínica. La ampolleta transforma la energía eléctrica en luz (y algo de calor).
 4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol
-5. **d.** El carbón es un combustible fósil que tarda millones de años en
-   formarse, por lo que se considera un recurso no renovable.
-6. **Verdadero.** El desierto de Atacama presenta una de las mayores radiaciones
-   solares del mundo, lo que lo hace ideal para la generación de energía solar.
+5. **d.** La energía solar no se agota con el uso; el petróleo, el gas y el carbón son combustibles fósiles no renovables.
+6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
 7. b y d — Renovables: eólica y geotérmica. No renovables: gas natural y petróleo.
 8. a, b y d — Dejar aparatos encendidos sin uso desperdicia energía.
-9. **c.** La fusión es el paso de sólido a líquido, como cuando el hielo se
-   derrite al ganar calor.
+9. **c.** La fusión es el paso de sólido a líquido, por acción del calor.
 10. **Falso.** Ambas son pasos de líquido a gas, pero la evaporación ocurre
     lentamente en la superficie del líquido a cualquier temperatura, mientras que
     la ebullición ocurre rápidamente en todo el volumen del líquido a una
     temperatura específica.
-11. b) Condensación (gas → líquido). Hielo que se derrite: fusión; agua que se congela: solidificación; hielo seco: sublimación.
+11. b) Evaporación (líquido → gas). El calor del sol transforma el agua líquida de la ropa en vapor.
 12. c) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras

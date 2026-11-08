@@ -89,11 +89,8 @@ d) Que solo coma frutas desde ahora
 ## Pauta de respuestas
 
 1. **b) La araucaria** — árbol nativo del sur de Chile; sus semillas, los piñones, eran alimento del pueblo pehuenche.
-   flor nacional.
 2. **Falso** — el eucalipto fue traído desde otro país: es una especie introducida, no nativa.
-   sin haber sido traída desde otro lugar.
 3. **b) Luz del sol, agua y aire** — con la luz, el agua y el dióxido de carbono del aire, la planta fabrica su alimento y libera oxígeno.
-   que los seres vivos respiren.
 4. a) Protección/refugio. Las manzanas son alimento, la madera es un producto derivado y la sombra para el nido es protección/refugio.
 5. **c) Una cáscara de plátano** — los restos de frutas y verduras se descomponen y se transforman en abono.
 6. a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables. Comprar solo lo necesario y evitar bolsas de un solo uso también reduce los desechos.

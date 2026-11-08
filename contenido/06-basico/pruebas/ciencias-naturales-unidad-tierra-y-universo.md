@@ -26,16 +26,14 @@ tienen una sola respuesta correcta. Si una pregunta dice «marca todas las corre
 
 ## Preguntas
 
-**1. (Alternativas — OA16)** ¿Cuál de las siguientes capas de la Tierra corresponde
-a toda el agua del planeta, incluyendo océanos, ríos y glaciares?
+**1. (Alternativas — OA16)** ¿Qué capa de la Tierra corresponde a la capa de gases que la rodea, donde ocurren las lluvias y los vientos?
 
 a) Litósfera
-b) Atmósfera
-c) Hidrósfera
-d) Corteza terrestre
+b) Hidrósfera
+c) Atmósfera
+d) Núcleo
 
-**2. (Verdadero o Falso — OA16)** La actividad humana puede alterar las
-características de las capas de la Tierra.
+**2. (Verdadero o Falso — OA16)** El humo de las fábricas y de los autos puede contaminar la atmósfera.
 
 **3. (Varias correctas — OA16)** ¿Qué recursos pertenecen principalmente a la **litósfera**?
 
@@ -72,23 +70,21 @@ b) La litósfera
 c) La hidrósfera
 d) Ninguna, porque los ríos se autolimpian
 
-**7. (Alternativas — OA18)** ¿Cuál de los siguientes es un agente natural de
-erosión?
+**7. (Alternativas — OA18)** ¿Cuál de las siguientes acciones **ayuda a prevenir** la erosión del suelo en un cerro?
 
-a) La siembra de árboles
+a) Talar todos los árboles
+b) Plantar árboles y arbustos nativos
+c) Dejar que el ganado coma toda la vegetación
+d) Quemar los pastizales
+
+**8. (Verdadero o Falso — OA18)** El sobrepastoreo, cuando los animales comen toda la vegetación de un terreno, puede aumentar la erosión del suelo.
+
+**9. (Alternativas — OA18)** Un río que durante miles de años excavó un profundo cañón en la roca es un ejemplo de erosión causada por...
+
+a) El agua
 b) El viento
-c) La construcción de una planta de tratamiento de aguas
-d) El riego controlado
-
-**8. (Verdadero o Falso — OA18)** Las actividades humanas nunca influyen en el
-proceso de erosión, que depende solo de causas naturales.
-
-**9. (Alternativas — OA18)** Las formaciones rocosas del desierto desgastadas por partículas de arena son un ejemplo de erosión causada por...
-
-a) El viento
-b) El agua
 c) La actividad humana
-d) Los volcanes
+d) Los terremotos
 
 **10. (Alternativas — OA18)** ¿Por qué la deforestación puede acelerar el
 proceso de erosión de un terreno?
@@ -121,20 +117,15 @@ d) Prácticas agrícolas que no expongan el suelo
 
 ## Pauta de respuestas
 
-1. **c.** La hidrósfera agrupa toda el agua del planeta, en sus distintas formas y
-   ubicaciones.
-2. **Verdadero.** Actividades como la contaminación del aire, la deforestación o el
-   vertido de desechos alteran, respectivamente, la atmósfera, la litósfera y la
-   hidrósfera.
+1. **c.** La atmósfera es la capa de gases que rodea la Tierra; en ella ocurren los fenómenos del tiempo atmosférico.
+2. **Verdadero.** Las emisiones de fábricas y vehículos alteran la composición del aire.
 3. a y d — Litósfera: cobre y suelo fértil; atmósfera: oxígeno; hidrósfera: agua de un lago.
 4. a, b y c — Las rocas y el suelo forman la litósfera.
 5. a, b y d — Botar residuos contamina el suelo.
 6. **c.** El vertido de desechos sin tratar afecta directamente a la hidrósfera.
-7. **b.** El viento, junto con el agua, es uno de los principales agentes
-   naturales que desgastan la superficie terrestre a lo largo del tiempo.
-8. **Falso.** Actividades humanas como la deforestación o el sobrepastoreo pueden
-   acelerar significativamente la erosión del suelo.
-9. a) El viento. Cañón de un río: agua; rocas del desierto: viento; suelo perdido por deforestar: actividad humana.
+7. **b.** Las raíces de las plantas sujetan el suelo y lo protegen del agua y el viento.
+8. **Verdadero.** Sin vegetación que lo proteja, el suelo queda expuesto al viento y al agua.
+9. a) El agua. El agua en movimiento desgasta la roca y transporta los sedimentos.
 10. d) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento
 11. b) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa
 12. a, b y d — Dejar el suelo descubierto aumenta la erosión.

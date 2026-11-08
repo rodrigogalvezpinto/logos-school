@@ -74,13 +74,12 @@ d) Águila (productor) → zorro → conejo → pasto
 un ecosistema que una sola cadena alimentaria, porque un mismo organismo suele
 alimentarse de más de una especie y ser alimento de más de un depredador.
 
-**8. (Alternativas — OA5)** ¿Cuál de los siguientes cambios biológicos es propio de
-la pubertad en los hombres?
+**8. (Alternativas — OA5)** ¿Cuál de los siguientes cambios de la pubertad ocurre tanto en hombres como en mujeres?
 
 a) La menarquia o primera menstruación
-b) El desarrollo de las glándulas mamarias
-c) El cambio de voz hacia un tono más grave
-d) El ensanchamiento marcado de las caderas
+b) El cambio de voz hacia un tono mucho más grave
+c) La aparición de vello en las axilas
+d) El desarrollo de las glándulas mamarias
 
 **9. (Varias correctas — OA5)** ¿Qué cambios de la pubertad son **comunes a ambos sexos**?
 Considera que los cambios y su intensidad varían entre personas.
@@ -133,8 +132,7 @@ d) Porque ya no es necesario ducharse a diario, ya que el cuerpo produce menos g
 6. b) Pasto (productor) → conejo (1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden)
 7. **Verdadero.** En la naturaleza, un mismo organismo suele tener varias fuentes de
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
-8. **c.** El cambio de voz hacia un tono más grave ocurre por el crecimiento de la
-   laringe, un cambio biológico característico de la pubertad masculina.
+8. **c.** La aparición de vello en las axilas y en el pubis ocurre en ambos sexos durante la pubertad.
 9. a y d — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
 10. c) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
 11. **b.** El deporte sistemático fortalece el sistema cardiovascular y ayuda a

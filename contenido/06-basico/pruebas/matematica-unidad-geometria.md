@@ -25,26 +25,26 @@ ultima_actualizacion: 2026-10-28
 
 ### Preguntas
 
-**Pregunta 1 (alternativas).** Dos rectas se cortan y uno de los ángulos formados mide 40°. ¿Cuánto mide el ángulo opuesto por el vértice a ese ángulo?
-a) 140°
+**Pregunta 1 (alternativas).** Dos rectas se cortan y uno de los ángulos formados mide 75°. ¿Cuánto mide el ángulo opuesto por el vértice?
+a) 105°
 b) 90°
-c) 50°
-d) 40°
+c) 15°
+d) 75°
 
-**Pregunta 2 (verdadero o falso).** Si dos rectas se cortan y uno de los ángulos mide 65°, el ángulo adyacente a él mide 115°.
+**Pregunta 2 (verdadero o falso).** Si dos rectas se cortan y uno de los ángulos mide 50°, el ángulo adyacente a él mide 130°.
 
-**Pregunta 3 (alternativas).** Dos rectas se cortan formando un ángulo de 32°. ¿Cuánto miden los otros tres ángulos?
+**Pregunta 3 (alternativas).** Dos rectas se cortan formando un ángulo de 45°. ¿Cuánto miden los otros tres ángulos?
 
-a) 32°, 148° y 148°
-b) 32°, 58° y 58°
-c) 148°, 148° y 148°
-d) 32°, 32° y 32°
+a) 45°, 135° y 135°
+b) 45°, 45° y 90°
+c) 135°, 135° y 135°
+d) 45°, 45° y 45°
 
-**Pregunta 4 (calcular a partir de un dato).** En una intersección de calles, dos calles rectas se cruzan formando un ángulo de 118° en una esquina. ¿Cuánto mide el ángulo en la esquina inmediatamente adyacente?
-a) 118°
-b) 62°
-c) 242°
-d) 72°
+**Pregunta 4 (calcular a partir de un dato).** Las tijeras abiertas forman un ángulo de 30° entre sus hojas. ¿Cuánto mide el ángulo adyacente, entre una hoja y el mango del otro lado?
+a) 30°
+b) 150°
+c) 330°
+d) 60°
 
 **Pregunta 5 (alternativas — ángulos entre rectas).** Dos rectas se cortan formando los ángulos A, B, C y D en orden alrededor del punto de intersección. Si A y C son opuestos por el vértice, y A mide 84°, ¿cuánto mide B?
 
@@ -99,10 +99,10 @@ d) No, porque los ángulos opuestos por el vértice son iguales: debía medir 72
 
 ### Pauta de respuestas
 
-1. **d) 40°** — los ángulos opuestos por el vértice siempre son iguales.
-2. **Verdadero** — 180° − 65° = 115°.
-3. a) 32°, 148° y 148° — opuesto por el vértice: 32°; adyacentes: 180° − 32° = 148°.
-4. **b) 62°** — 180° − 118° = 62°.
+1. **d) 75°** — los ángulos opuestos por el vértice siempre son iguales.
+2. **Verdadero** — 180° − 50° = 130°.
+3. a) 45°, 135° y 135° — opuesto por el vértice: 45°; adyacentes: 180° − 45° = 135°.
+4. **b) 150°** — 180° − 30° = 150°.
 5. d) 96° — B es adyacente a A: 180° − 84° = 96°.
 6. b) Sí, porque 103° + 87° = 180°, lo que deben sumar dos ángulos adyacentes
 7. **c) 105°** — el ángulo adyacente completa 180° con el dado: 180° − 75° = 105°.

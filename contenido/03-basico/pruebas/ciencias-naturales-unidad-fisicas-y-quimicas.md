@@ -71,9 +71,7 @@ d) El pajarito tiene un tono más agudo y el camión, más intensidad
 ## Pauta de respuestas
 
 1. **c) Reflexión (eco)** — el sonido rebota en las paredes y vuelve a tus oídos.
-   superficie dura, como la roca de un cerro.
 2. **Verdadero** — el sonido se transmite por los sólidos, como la madera, y también por el aire y el agua.
-   ejemplo, se puede sentir la vibración de un sonido apoyando el oído sobre una mesa.
 3. a) Reflexión del sonido (eco). Las superficies duras como la piedra reflejan el sonido; las cortinas y alfombras lo absorben.
 4. a) Se parecen en la intensidad (ambos son fuertes) y se diferencian en el tono (agudo y grave). Tono e intensidad son características distintas del sonido.
 5. b) En la habitación vacía con paredes lisas. Los materiales duros y lisos reflejan más el sonido; los tapizados y cortinas lo absorben.

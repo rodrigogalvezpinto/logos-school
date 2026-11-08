@@ -48,12 +48,12 @@ b) 2 → 4 → 1 → 3
 c) 1 → 2 → 3 → 4
 d) 2 → 1 → 3 → 4
 
-**4. (Alternativas — OA2)** ¿Qué se decidió en el cabildo abierto del 18 de septiembre de 1810?
+**4. (Alternativas — OA2)** ¿Qué ocurrió en la batalla de Maipú, en 1818?
 
-a) Declarar la independencia total de Chile
-b) Abolir la esclavitud en Chile
-c) Formar la Primera Junta Nacional de Gobierno
-d) Firmar la paz con España
+a) Chile perdió definitivamente la guerra contra España
+b) Se abolió la esclavitud
+c) El ejército patriota venció a las tropas realistas y consolidó la independencia
+d) Se formó la Primera Junta Nacional de Gobierno
 
 **5. (Alternativas — OA3)** ¿Qué diferencias existían entre conservadores y
 liberales en el Chile del siglo XIX, considerando al menos el rol del Presidente/Congreso y la
@@ -64,31 +64,28 @@ b) Los dos grupos pensaban exactamente lo mismo sobre el Presidente, el Congreso
 c) Los liberales querían volver a ser colonia de España para recuperar el orden, y los conservadores defendían la independencia y un gobierno federal
 d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas
 
-**6. (Alternativas — OA5)** ¿Qué territorios incorporó Chile como consecuencia de su triunfo en
-la Guerra del Pacífico?
+**6. (Alternativas — OA5)** ¿Qué recurso natural de los territorios incorporados tras la Guerra del Pacífico se convirtió en la principal riqueza de Chile a fines del siglo XIX?
 
-a) Tarapacá y Antofagasta
-b) Isla de Pascua y Chiloé
-c) La Araucanía y Valdivia
-d) Punta Arenas y el Estrecho de Magallanes
+a) El salitre
+b) El trigo
+c) El carbón
+d) La madera
 
-**7. (Verdadero o Falso — OA5)** La colonización europea del sur de Chile, en zonas como
-Valdivia y Llanquihue, contó principalmente con colonos de origen alemán.
+**7. (Verdadero o Falso — OA5)** La ocupación de la Araucanía, a fines del siglo XIX, significó la pérdida de gran parte de las tierras del pueblo mapuche.
 
-**8. (Alternativas — OA7)** ¿En qué año obtuvieron las mujeres chilenas el derecho a voto en
-elecciones presidenciales y parlamentarias?
+**8. (Alternativas — OA7)** ¿En qué año las mujeres chilenas pudieron votar por primera vez en elecciones **municipales**?
 
-a) 1935
-b) 1949
-c) 1973
-d) 1988
+a) 1925
+b) 1935
+c) 1949
+d) 1970
 
-**9. (Alternativas — OA8)** ¿Qué ocurrió el 11 de septiembre de 1973 en Chile?
+**9. (Alternativas — OA8)** ¿Qué permitió el plebiscito de 1988 en Chile?
 
-a) Se realizó el plebiscito que devolvió la democracia al país después de la dictadura
-b) Un golpe de Estado derrocó al gobierno del presidente Salvador Allende
-c) Las mujeres obtuvieron por primera vez el derecho a voto en las elecciones presidenciales
-d) Se promulgó una nueva Constitución que reemplazó a la de 1925 de forma inmediata
+a) Que Salvador Allende asumiera como presidente
+b) Iniciar el retorno a la democracia, porque ganó la opción "No"
+c) Que las mujeres votaran por primera vez
+d) Aprobar la Constitución de 1925
 
 **10. (Alternativas — OA8)** ¿Qué hito marcó el inicio del retorno a la democracia en Chile
 y en qué año ocurrió?
@@ -121,17 +118,12 @@ d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chi
 2. **Verdadero.** Los cargos políticos de mayor jerarquía estaban reservados casi
    exclusivamente para españoles nacidos en la península.
 3. a) 2 → 1 → 4 → 3. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817), Maipú (1818).
-4. **c.** El cabildo abierto formó la Primera Junta Nacional de Gobierno, que gobernaría "en
-   nombre" del rey cautivo.
+4. **c.** El triunfo patriota en Maipú (5 de abril de 1818) consolidó la independencia de Chile.
 5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas
-6. **a.** El triunfo de Chile en la Guerra del Pacífico (1879-1883) permitió incorporar
-   Tarapacá y Antofagasta, ricas en salitre.
-7. **Verdadero.** El Estado de Chile promovió activamente la llegada de colonos alemanes a
-   Valdivia y Llanquihue a mediados del siglo XIX.
-8. **b) 1949.** Las mujeres obtuvieron primero el voto municipal en 1935, y solo en 1949 el
-   voto presidencial y parlamentario.
-9. **b.** Un golpe de Estado derrocó al gobierno del presidente Salvador Allende, dando inicio
-   a una dictadura militar que se extendió hasta 1990.
+6. **a.** El salitre de Tarapacá y Antofagasta fue la principal exportación de Chile durante décadas.
+7. **Verdadero.** El Estado ocupó el territorio mapuche y redujo sus tierras a reducciones, con graves consecuencias para su pueblo.
+8. **b) 1935.** Primero obtuvieron el voto municipal (1935) y luego, en 1949, el voto en elecciones presidenciales y parlamentarias.
+9. **b.** El triunfo del "No" abrió paso a elecciones libres en 1989 y al retorno a la democracia en 1990.
 10. b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990
 11. b y d — La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales son continuidades.
 12. c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español

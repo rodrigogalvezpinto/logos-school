@@ -44,7 +44,8 @@ def main() -> None:
         inicio = texto.find("Pauta")
         if inicio < 0:
             sys.exit(f"pauta {n}: no hay fila de tabla ni sección «Pauta»")
-        item = re.compile(rf"^(?:\*\*{n}\.\*\*|{n}\.) .*$", re.M)
+        # La línea de pauta puede seguir en líneas sangradas: se reemplazan también (2026-11-08).
+        item = re.compile(rf"^(?:\*\*{n}\.\*\*|{n}\.) .*$(?:\n {{2,}}\S.*$)*", re.M)
         cola = texto[inicio:]
         if len(item.findall(cola)) != 1:
             sys.exit(f"pauta {n}: se esperaba 1 línea en la pauta")

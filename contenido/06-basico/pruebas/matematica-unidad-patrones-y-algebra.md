@@ -25,33 +25,33 @@ ultima_actualizacion: 2026-10-28
 
 ### Preguntas
 
-**Pregunta 1 (alternativas).** Resuelve: x + 34 = 90. ¿Cuál es el valor de x?
-a) 46
-b) 56
-c) 66
-d) 124
+**Pregunta 1 (alternativas).** Resuelve: x + 47 = 120. ¿Cuál es el valor de x?
+a) 63
+b) 73
+c) 83
+d) 167
 
-**Pregunta 2 (verdadero o falso).** En la ecuación 6x = 48, el valor de x es 8.
+**Pregunta 2 (verdadero o falso).** En la ecuación 7x = 56, el valor de x es 8.
 
-**Pregunta 3 (alternativas — balanza).** Una balanza está equilibrada con una caja de peso desconocido (x) y una pesa de 12 kg de un lado, y 35 kg del otro lado. ¿Qué ecuación la representa y cuánto vale x?
+**Pregunta 3 (alternativas — balanza).** Una balanza está equilibrada: en un platillo hay una caja de peso desconocido (x) y una pesa de 8 kg; en el otro, 20 kg. ¿Qué ecuación la representa y cuánto vale x?
 
-a) x + 12 = 35; x = 23 kg
-b) x − 12 = 35; x = 47 kg
-c) x + 35 = 12; x = 23 kg
-d) x + 12 = 35; x = 47 kg
+a) x + 8 = 20; x = 12 kg
+b) x − 8 = 20; x = 28 kg
+c) x + 20 = 8; x = 12 kg
+d) x + 8 = 20; x = 28 kg
 
-**Pregunta 4 (identificar la ecuación).** Un jardinero plantó una cierta cantidad de árboles. Luego plantó 3 veces esa cantidad en un segundo terreno, sumando en total 48 árboles entre ambos terrenos. ¿Cuál ecuación representa el total plantado, si x es la cantidad del primer terreno?
-a) x + 3 = 48
-b) 3x = 48
-c) x + 3x = 48
-d) x − 3x = 48
+**Pregunta 4 (identificar la ecuación).** Ana tiene una cierta cantidad de láminas y su hermano tiene el doble. Entre los dos tienen 36 láminas. ¿Qué ecuación representa la situación?
+a) x + 2 = 36
+b) 2x = 36
+c) x + 2x = 36
+d) x − 2x = 36
 
-**Pregunta 5 (alternativas — ecuación de dos pasos).** ¿Cuál es la solución de 2x − 7 = 15?
+**Pregunta 5 (alternativas — ecuación de dos pasos).** ¿Cuál es la solución de 3x + 4 = 25?
 
-a) x = 4
-b) x = 22
-c) x = 8
-d) x = 11
+a) x = 3
+b) x = 21
+c) x = 9
+d) x = 7
 
 **Pregunta 6 (problema en contexto).** Fernanda tenía cierta cantidad de dinero ahorrado. Gastó $8.500 en un libro y le quedaron $17.300. ¿Qué ecuación representa la situación y cuánto tenía al principio?
 
@@ -99,11 +99,11 @@ d) x + 12.000 = 29.400; x = $17.400
 
 ### Pauta de respuestas
 
-1. **b) 56** — x = 90 − 34 = 56.
-2. **Verdadero** — x = 48 ÷ 6 = 8.
-3. a) x + 12 = 35; x = 23 kg
-4. **c) x + 3x = 48**.
-5. d) x = 11 — 2x = 15 + 7 = 22; x = 22 ÷ 2 = 11.
+1. **b) 73** — x = 120 − 47 = 73.
+2. **Verdadero** — x = 56 ÷ 7 = 8.
+3. a) x + 8 = 20; x = 12 kg
+4. **c) x + 2x = 36**. Ana tiene x, su hermano 2x; x = 12.
+5. d) x = 7 — 3x = 25 − 4 = 21; x = 21 ÷ 3 = 7.
 6. b) x − 8.500 = 17.300; x = $25.800
 7. **a) 34** — x = 61 − 27 = 34.
 8. **Falso** — x = 65 ÷ 5 = 13, no 15.

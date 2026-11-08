@@ -46,24 +46,19 @@ b) visiting
 c) am visit
 d) visit
 
-**3.** *(Alternativas)* ¿Qué frase se usa para cerrar (despedirse) en un email
-informal?
+**3.** *(Alternativas)* ¿Qué frase se usa para **saludar** al comenzar un email informal?
 a) Once upon a time
-b) Where is it?
-c) See you soon
-d) How many?
+b) How much is it?
+c) Hi, how are you?
+d) The end
 
-**4.** *(Verdadero o falso)* Una tira cómica (*comic strip*) cuenta un cuento de
-fantasía sobre animales que hablan. Para comenzar ese cuento, es apropiado usar
-la frase *"Once upon a time"*.
+**4.** *(Verdadero o falso)* Para terminar un email a un amigo, es apropiado escribir *"Once upon a time"*.
 
-**5.** *(Alternativas — escribir siguiendo un modelo)* Model: *"Dear ___, I
-am going to visit ___ next weekend. I feel ___ about it."* Which text completes the model correctly?
-
-a) Dear excited, I am going to visit Diary next weekend. I feel the zoo about it.
-b) Dear Diary, I am going to visit next weekend the zoo excited.
-c) Dear zoo, I am going to visit excited next weekend. I feel Diary about it.
-d) Dear Diary, I am going to visit the zoo next weekend. I feel excited about it.
+**5.** *(Alternativas — escribir siguiendo un modelo)* Model: *"My favorite ___ is ___ because it is ___."* Which text completes the model correctly?
+a) My favorite delicious is pizza because it is food.
+b) My favorite food is because it is pizza delicious.
+c) My favorite pizza is delicious because it is food.
+d) My favorite food is pizza because it is delicious.
 
 **6.** *(Completar)* Complete the postcard: *"The weather here is ___. I am
 having a great time at the ___."* (beach holiday)
@@ -81,22 +76,20 @@ b) is playing
 c) play
 d) played
 
-**8.** *(Alternativas)* ¿Qué plural es correcto para "sheep" (oveja)?
-a) sheeps
-b) sheep
-c) sheepes
-d) sheeps'
+**8.** *(Alternativas)* ¿Qué plural es correcto para "child" (niño)?
+a) childs
+b) children
+c) childrens
+d) childes
 
-**9.** *(Completar con contraste)* Complete: *"A dolphin can swim fast, ___ it
-can't walk on land."*
+**9.** *(Completar con contraste)* Complete: *"Penguins are birds, ___ they can't fly."*
 
 a) and
 b) because
 c) so
 d) but
 
-**10.** *(Verdadero o falso)* La oración *"This is Pedro's dog"* significa que el
-perro es de Pedro.
+**10.** *(Verdadero o falso)* La oración *"These are Ana's books"* significa que los libros son de Ana.
 
 **11.** *(Completar con número)* Complete: *"There are ___ students in my
 class."* (number 18)
@@ -106,12 +99,11 @@ b) eighteen
 c) eight
 d) eleven
 
-**12.** *(Alternativas — desafiante)* ¿Qué oración describe correctamente **cómo**
-se realiza una acción?
-a) The fox is in the forest.
-b) The fox runs very fast.
-c) The fox is a wild animal.
-d) There is a fox near the river.
+**12.** *(Alternativas — desafiante)* ¿Qué oración describe correctamente **cómo** se realiza una acción?
+a) The turtle is in the garden.
+b) The turtle walks very slowly.
+c) The turtle is green.
+d) There is a turtle near the pond.
 
 ---
 
@@ -119,14 +111,13 @@ d) There is a fox near the river.
 
 1. a) on. *On* con días de la semana; *at* con horas; *in* con meses o años.
 2. d) visit. Con *I* el verbo va en forma simple, sin -s.
-3. c) See you soon
-4. V (Verdadero) — *Once upon a time* es la fórmula típica para iniciar un
-   cuento, y esta tira cómica narra un cuento.
-5. d) Dear Diary, I am going to visit the zoo next weekend. I feel excited about it. Cada espacio debe tener el tipo de información correcta: destinatario, lugar/actividad y sentimiento.
+3. c) Hi, how are you?
+4. F (Falso) — *Once upon a time* sirve para comenzar un cuento; para cerrar un email se usa *See you soon* o *Bye*.
+5. d) My favorite food is pizza because it is delicious. Cada espacio lleva el tipo de información correcta: categoría, elemento y razón.
 6. c) sunny / beach. Clima y lugar deben ser coherentes con unas vacaciones en la playa.
 7. a) are playing. Para acciones de este momento se usa *is/are + -ing*; con *children*, *are*.
-8. b) sheep
+8. b) children
 9. d) but. *But* contrasta ideas opuestas; *and* solo suma.
 10. V (Verdadero)
 11. b) eighteen. Eighteen = dieciocho; *eighty* es ochenta.
-12. b) The fox runs very fast.
+12. b) The turtle walks very slowly.

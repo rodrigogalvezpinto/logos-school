@@ -24,18 +24,18 @@ oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","6
 
 ### Preguntas
 
-**Pregunta 1 (alternativas).** ¿Cuál es el área total de un cubo cuyas aristas miden 4 cm?
-a) 96 cm²
-b) 64 cm²
-c) 24 cm²
-d) 16 cm²
+**Pregunta 1 (alternativas).** ¿Cuál es el área total de un cubo cuyas aristas miden 5 cm?
+a) 150 cm²
+b) 125 cm²
+c) 30 cm²
+d) 25 cm²
 
-**Pregunta 2 (alternativas).** ¿Cuál es el área total de un paralelepípedo de 6 cm de largo, 4 cm de ancho y 3 cm de alto?
+**Pregunta 2 (alternativas).** ¿Cuál es el área total de una caja de 5 cm de largo, 3 cm de ancho y 2 cm de alto?
 
-a) 108 cm²
-b) 72 cm²
-c) 54 cm²
-d) 13 cm²
+a) 62 cm²
+b) 30 cm²
+c) 31 cm²
+d) 10 cm²
 
 **Pregunta 3 (problema de aplicación — pintura).** Se quiere pintar todas las caras de una caja cúbica de madera de 50 cm de arista. ¿Cuántos cm² de superficie hay que pintar?
 
@@ -44,18 +44,18 @@ b) 125.000 cm²
 c) 300 cm²
 d) 15.000 cm²
 
-**Pregunta 4 (alternativas).** ¿Cuál es el volumen de un cubo cuyas aristas miden 3 cm?
-a) 27 cm³
-b) 18 cm³
-c) 9 cm³
-d) 6 cm³
+**Pregunta 4 (alternativas).** ¿Cuál es el volumen de un cubo cuyas aristas miden 4 cm?
+a) 64 cm³
+b) 48 cm³
+c) 16 cm³
+d) 12 cm³
 
-**Pregunta 5 (alternativas).** ¿Cuál es el volumen de un paralelepípedo de 7 cm de largo, 5 cm de ancho y 4 cm de alto?
+**Pregunta 5 (alternativas).** Una pecera tiene 8 dm de largo, 4 dm de ancho y 5 dm de alto. ¿Cuál es su volumen?
 
-a) 16 cm³
-b) 140 cm³
-c) 166 cm³
-d) 35 cm³
+a) 17 dm³
+b) 160 dm³
+c) 176 dm³
+d) 32 dm³
 
 **Pregunta 6 (problema en contexto — m³).** Una piscina tiene forma de paralelepípedo, con 8 m de largo, 4 m de ancho y 1,5 m de profundidad. ¿Cuántos metros cúbicos de agua se necesitan para llenarla completamente?
 
@@ -64,18 +64,18 @@ b) 32 m³
 c) 48 m³
 d) 96 m³
 
-**Pregunta 7 (alternativas).** Si lanzas un dado de 6 caras 300 veces, ¿aproximadamente cuántas veces esperarías que salga el número 4?
-a) 300
+**Pregunta 7 (alternativas).** Si lanzas una moneda 200 veces, ¿aproximadamente cuántas veces esperarías que salga cara?
+a) 200
 b) 150
-c) 100
-d) 50
+c) 50
+d) 100
 
-**Pregunta 8 (alternativas — diagrama de árbol).** Al lanzar una moneda 3 veces, ¿cuántos resultados posibles hay en total?
+**Pregunta 8 (alternativas — diagrama de árbol).** Un helado se puede pedir en vaso o en cono, y de 4 sabores distintos. ¿Cuántas combinaciones posibles hay?
 
-a) 3
+a) 4
 b) 6
 c) 8
-d) 9
+d) 16
 
 **Pregunta 9 (problema en contexto).** En una bolsa hay solo bolitas rojas y azules. Al sacar una bolita, devolverla y repetir esto 50 veces, se registraron 35 bolitas rojas y 15 azules. ¿Qué conjetura es razonable sobre la proporción de bolitas rojas y azules dentro de la bolsa?
 
@@ -117,14 +117,14 @@ d) 40% y 128 estudiantes
 
 ### Pauta de respuestas
 
-1. **a) 96 cm²** — cara: 4×4=16; 6×16=96.
-2. a) 108 cm² — 2×(6×4)+2×(6×3)+2×(4×3) = 48+36+24 = 108.
+1. **a) 150 cm²** — cara: 5×5=25; 6×25=150.
+2. a) 62 cm² — 2×(5×3)+2×(5×2)+2×(3×2) = 30+20+12 = 62.
 3. d) 15.000 cm² — cara: 50×50 = 2.500; 6 × 2.500 = 15.000.
-4. **a) 27 cm³** — 3×3×3=27.
-5. b) 140 cm³ — 7×5×4 = 140.
+4. **a) 64 cm³** — 4×4×4=64.
+5. b) 160 dm³ — 8×4×5 = 160 (equivale a 160 litros).
 6. c) 48 m³ — 8×4×1,5 = 48.
-7. **d) 50** — 300 ÷ 6 = 50.
-8. c) 8 — 2×2×2 = 8 (CCC, CCS, CSC, CSS, SCC, SCS, SSC, SSS).
+7. **d) 100** — la mitad de los lanzamientos: 200 ÷ 2 = 100.
+8. c) 8 — 2 formas × 4 sabores = 8 combinaciones.
 9. d) Hay más bolitas rojas que azules, en una razón cercana a 7:3. Se observó 70% rojas y 30% azules.
 10. **b) 60** — 30% de 200 = 0,3 × 200 = 60.
 11. c) En abril, por 9 libros — es el único mes en que la barra de 6ºB supera a la de 6ºA: 31 − 22 = 9.

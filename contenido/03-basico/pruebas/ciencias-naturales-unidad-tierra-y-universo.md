@@ -91,13 +91,11 @@ d) La traslación es el giro de la Tierra sobre su propio eje y dura un día; la
 1. **d) Un asteroide** — cuerpo rocoso más pequeño que los planetas; muchos se
    agrupan en el cinturón de asteroides, entre Marte y Júpiter.
 2. **Verdadero** — el Sol es una estrella: produce luz y calor. La Luna, en cambio, solo refleja la luz del Sol.
-   del Sol.
 3. a) Mercurio → Venus → Tierra → Marte
 4. d) Luna nueva. La cara de la Luna que mira hacia la Tierra no está iluminada por el Sol.
 5. **b) La rotación** — el giro de la Tierra sobre su propio eje determina qué mitad
    del planeta recibe luz solar en cada momento.
 6. **Falso** — la vuelta alrededor del Sol (traslación) dura aproximadamente 365 días; en un día la Tierra gira sobre sí misma (rotación).
-   que dura 24 horas es la rotación.
 7. a y c — La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y es el recorrido alrededor del Sol.
 8. b) La rotación, que explica el día y la noche
 9. c) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año

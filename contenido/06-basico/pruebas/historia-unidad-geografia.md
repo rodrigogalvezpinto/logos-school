@@ -25,23 +25,21 @@ alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca to
 
 ## Preguntas
 
-**1. (Alternativas — OA11)** ¿Cuál de los siguientes es un ejemplo de rasgo **físico** de una
-región?
+**1. (Alternativas — OA11)** ¿Cuál de los siguientes es un ejemplo de rasgo **humano** de una región?
 
-a) El volumen de población
-b) Las actividades económicas
-c) El clima y el relieve
-d) La distribución urbana o rural de los habitantes
+a) El relieve montañoso
+b) El clima frío
+c) Las actividades económicas, como la minería o el turismo
+d) Los ríos y lagos
 
-**2. (Verdadero o Falso — OA11)** Las actividades económicas de una región no tienen relación
-con sus rasgos físicos, como el clima o los recursos naturales disponibles.
+**2. (Verdadero o Falso — OA11)** En la Región de Antofagasta la minería es la principal actividad económica, porque su territorio tiene grandes yacimientos de cobre.
 
-**3. (Varias correctas — OA11)** ¿Cuáles de estos elementos son **rasgos físicos** de una región? Marca todas las correctas.
+**3. (Varias correctas — OA11)** ¿Cuáles de estos elementos son **rasgos humanos** de una región? Marca todas las correctas.
 
-a) Hidrografía (ríos y lagos)
-b) Distribución de la población
-c) Vegetación
-d) Actividades económicas
+a) Distribución de la población en ciudades y campos
+b) Relieve
+c) Actividades económicas
+d) Clima
 
 **4. (Alternativas — OA11)** ¿Qué descripción de una región está bien construida, con nombre, capital regional, un rasgo físico y uno humano correctos?
 
@@ -50,25 +48,20 @@ b) Región de Antofagasta; capital Santiago; clima lluvioso todo el año; la pes
 c) Región de Los Lagos; capital Iquique; clima desértico sin lluvias; la minería del salitre es su principal actividad económica
 d) Región Metropolitana; capital Valparaíso; glaciares en el valle central; la ganadería ovina es su principal actividad
 
-**5. (Alternativas — OA12)** ¿Qué dificultad principal enfrenta el ambiente natural desértico
-del norte de Chile?
+**5. (Alternativas — OA12)** ¿Qué dificultad principal enfrentan quienes viven en el ambiente altiplánico?
 
-a) Exceso de lluvias
-b) Frío extremo
-c) Escasez de agua
-d) Terremotos frecuentes exclusivamente
+a) El calor extremo durante todo el año
+b) El exceso de lluvias todo el año
+c) La altura, el frío nocturno y la escasez de oxígeno
+d) Los huracanes
 
-**6. (Verdadero o Falso — OA12)** El ambiente mediterráneo, propio de la zona central de Chile,
-ha favorecido el desarrollo de la agricultura y concentra la mayor parte de la población del
-país.
+**6. (Verdadero o Falso — OA12)** El ambiente frío y lluvioso del sur de Chile favorece el crecimiento de bosques y la actividad forestal.
 
-**7. (Alternativas — unir, OA12)** Une cada ambiente natural con una oportunidad que las
-personas han aprovechado en él:
+**7. (Alternativas — unir, OA12)** Une cada ambiente natural con una adaptación de sus habitantes:
 
-1) Ambiente costero — 2) Ambiente patagónico — 3) Ambiente altiplánico
+1) Ambiente desértico — 2) Ambiente frío y lluvioso — 3) Ambiente altiplánico
 
-Oportunidades: (A) Ganadería de camélidos y agricultura en terrazas — (B) Pesca y recursos
-marítimos — (C) Ganadería ovina y turismo de naturaleza
+Adaptaciones: (A) Ropa de lana de alpaca para las noches frías de altura — (B) Atrapanieblas y riego por goteo para obtener agua — (C) Casas con techos inclinados y estufas a leña
 
 ¿Qué combinación es correcta?
 
@@ -104,18 +97,13 @@ d) Porque el clima cambió en los últimos años y ahora esos ambientes son temp
 
 ## Pauta de respuestas
 
-1. **c.** El clima y el relieve son rasgos físicos, mientras que la población y las actividades
-   económicas son rasgos humanos de una región.
-2. **Falso.** Las actividades económicas suelen estar muy relacionadas con los rasgos físicos:
-   por ejemplo, el clima favorece ciertos cultivos o la presencia de minerales favorece la
-   minería.
-3. a y c — Hidrografía y vegetación son rasgos físicos; distribución de población y actividades económicas son rasgos humanos.
+1. **c.** Las actividades económicas son rasgos humanos; el relieve, el clima y la hidrografía son rasgos físicos.
+2. **Verdadero.** Las actividades económicas se relacionan con los rasgos físicos y los recursos naturales disponibles.
+3. a y c — La distribución de la población y las actividades económicas son rasgos humanos; el relieve y el clima son rasgos físicos.
 4. a) Región de Antofagasta; capital Antofagasta; clima desértico; la minería es su principal actividad económica. Una buena caracterización usa datos reales y pertinentes de la región.
-5. **c.** El ambiente desértico se caracteriza por precipitaciones casi nulas.
-6. **Verdadero.** El clima mediterráneo, con inviernos lluviosos y veranos secos, ofrece
-   condiciones favorables para la agricultura y concentra la mayor cantidad de población de
-   Chile.
-7. d) 1-B, 2-C, 3-A — Cada ambiente natural ofrece oportunidades distintas, aprovechadas según las condiciones de cada zona.
+5. **c.** En el altiplano, a más de 3.500 metros de altura, hay menos oxígeno y noches muy frías.
+6. **Verdadero.** La abundante lluvia del sur permite bosques extensos y la actividad forestal.
+7. d) 1-B, 2-C, 3-A — Cada ambiente presenta dificultades distintas, que sus habitantes enfrentan con adaptaciones propias.
 8. d) Desértico: la escasez de agua es una dificultad y la radiación solar una oportunidad. Patagónico: el frío y el viento son dificultades y la ganadería ovina una oportunidad
 9. **b.** La enorme extensión de Chile de norte a sur genera condiciones naturales muy
    diferentes entre unas zonas y otras.

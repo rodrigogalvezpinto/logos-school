@@ -22,11 +22,11 @@ saludable, efectos del cigarrillo y microorganismos.
 
 ## Preguntas
 
-**1.** ¿Cuál es el orden correcto de organización del cuerpo, de lo más pequeño a lo más grande?
-a) Órgano → célula → sistema → tejido
-b) Sistema → órgano → tejido → célula
-c) Célula → tejido → órgano → sistema
-d) Tejido → célula → sistema → órgano
+**1.** ¿Qué tienen en común una bacteria, un árbol y una persona?
+a) Todos tienen pulmones
+b) Todos tienen huesos
+c) Todos están formados por células
+d) Todos se ven a simple vista
 
 **2.** *(Verdadero o falso)* El estómago, los intestinos y el hígado trabajan juntos formando el sistema digestivo.
 
@@ -94,23 +94,15 @@ d) Hongo del pie de atleta
 
 ## Pauta de respuestas
 
-1. **c) Célula → tejido → órgano → sistema.** Las células forman tejidos, los tejidos forman órganos y varios órganos forman un sistema.
-   formados por una o más células.
+1. **c) Todos están formados por células.** La célula es la unidad más pequeña de todo ser vivo: algunos tienen una sola célula y otros, millones.
 2. **Verdadero.** Varios órganos que cumplen una función en común forman un sistema.
-   conectivo para cumplir su función.
 3. a) Célula → tejido → órgano → sistema. Cada nivel agrupa varias unidades del nivel anterior.
 4. **b) Huevos, legumbres y pescado.** Son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos.
-   para construir y reparar tejidos.
 5. **Verdadero.** Son alimentos reguladores: aportan vitaminas, minerales y fibra.
-   actividades diarias.
 6. a y c — Proteínas: legumbres y huevo. Carbohidratos: arroz y pan. Vitaminas y minerales: naranja. Grasas: palta.
 7. **c) Los pulmones.** El humo entra por las vías respiratorias y daña los pulmones; también afecta al corazón y los vasos sanguíneos.
-   un efecto del tabaco sobre el sistema circulatorio.
 8. **Falso.** Los niños respiran el humo igual: son fumadores pasivos y pueden sufrir daños en su salud.
-   también pueden desarrollar enfermedades respiratorias y circulatorias.
 9. a y c — Arritmias y trombosis afectan el sistema circulatorio; cáncer pulmonar y asma, el respiratorio.
 10. **b) Las levaduras que permiten que suba la masa del pan.** Algunos microorganismos se usan para producir alimentos como el pan, el yogur y el queso.
-    bacterias son dañinas: algunas cumplen funciones beneficiosas.
 11. **Falso.** Muchas bacterias son beneficiosas, como las que ayudan a la digestión o las que se usan para hacer yogur.
-    otros pueden causar infecciones.
 12. a y c — Beneficiosos: hongo comestible y bacteria intestinal. Dañinos: virus de la gripe y hongo del pie de atleta.

@@ -106,9 +106,7 @@ d) Ninguno de los dos
 ## Pauta de respuestas
 
 1. **d) Un alambre de aluminio.** Los metales, como el aluminio y el cobre, son buenos conductores de la electricidad.
-   utiliza en el interior de los cables.
 2. **Verdadero.** El plástico es aislante: impide que la corriente pase a quien toca el cable.
-   mucho el paso de la corriente eléctrica.
 3. a y c — Conductores: aluminio y cobre. Aisladores: goma y plástico.
 4. a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
 5. d) Con la moneda de metal, porque es conductora. La goma de borrar es aisladora y no permite el paso de la corriente.

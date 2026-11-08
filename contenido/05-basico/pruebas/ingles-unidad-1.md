@@ -113,22 +113,16 @@ d) Ana doesn't like music.
 ## Pauta de respuestas
 
 1. **d) nine.** El texto dice "I am nine years old" (información explícita).
-   explícita).
 2. **False (Falso).** El texto dice que el papá es *teacher* (profesor) y la mamá
    es *doctor*.
 3. a) sad. *Sad* significa triste, coherente con la cara con lágrimas.
 4. d) He lives with his grandmother. La pregunta usa *who* (con quién); el texto dice *with my grandmother*.
 5. **a) Agradecer un regalo.** *Thank you* y *present* (regalo) muestran que la persona agradece.
-   muestran que el propósito es invitar.
 6. **d) Sorry.** Se usa para pedir disculpas, por ejemplo por llegar tarde.
-   lápiz.
 7. b) a shopping list. Es una lista de alimentos para comprar.
 8. **c) Agradece y se disculpa.** El texto incluye *thank you* e *I'm sorry*: hay
    que identificar ambas ideas.
 9. **b) I think math is fun.** *I think* expresa una opinión; las otras oraciones describen hechos.
-   oraciones solo describen hechos.
 10. **False (Falso).** El texto dice que a Martina le encanta la playa (*loves the beach*).
-    lluviosos (*rainy days*), no los soleados.
 11. c) like. Con el sujeto *I*, el verbo va en su forma simple (*likes* es para *he/she/it*).
 12. **b) Ana and Pablo both like music.** Los dos tienen gustos en común (la música), aunque su pelo es distinto.
-    otra es *tall* y le gusta el básquetbol.

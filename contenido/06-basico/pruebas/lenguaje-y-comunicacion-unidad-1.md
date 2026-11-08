@@ -23,136 +23,135 @@ ultima_actualizacion: 2026-10-28
 
 ## Textos de la prueba
 
-### Texto 1 — "El último tren a Baquedano" (autora: Rayén Coñuecar)
+*(Lee los textos 1 y 2 y responde las preguntas 1 a 4.)*
 
-> Manuel tenía doce años y trabajaba junto a su padre en la Oficina Salitrera Humberstone, en pleno desierto de Atacama, allá por 1920. Cada mañana, antes de que el sol quemara la pampa como un horno de ladrillos, su padre le repetía la misma advertencia: "Nunca te acerques solo a los carros de nitrato, hijo; un descuido aquí se paga caro". Manuel, que soñaba con ser tan veloz y valiente como los cargadores mayores, sentía que esas reglas eran solo para los más torpes, y por eso las ignoraba cada vez que su padre no estaba mirando.
+**Texto 1 — "El gato de la calle Cumming"**
+
+> Valparaíso, agosto de 1906. Dos días después del gran terremoto, Rosa, de doce años, ayudaba a su padre a recoger lo que quedaba de la casa. "No te acerques a los muros que quedaron en pie: pueden caerse en cualquier momento", le repetía él. Pero Rosa pensaba que esas advertencias eran para los niños miedosos, y ella quería demostrar que era tan valiente como los bomberos que trabajaban en la calle.
 >
-> Una tarde, mientras los hombres cargaban los sacos de salitre para el tren que partía hacia el puerto de Iquique, Manuel se acercó solo a los rieles para observar de cerca las ruedas de un carro en movimiento. El viento levantó una nube de polvo salitroso que le cerró los ojos por un instante, y su pie quedó atrapado entre dos durmientes justo cuando el carro comenzaba a rodar. Gritó con todas sus fuerzas. Fue su padre quien, al escucharlo, corriendo más rápido de lo que Manuel nunca lo había visto correr, lo sacó de los rieles segundos antes de que el carro pasara por ahí.
+> Esa tarde escuchó maullar a su gato detrás de una pared agrietada. Sin avisar a nadie, se metió entre los escombros. Cuando tomó al gato en sus brazos, un trozo del muro se desprendió y cayó a pocos centímetros de sus pies. Rosa salió temblando. Esa noche, mientras su padre le limpiaba el polvo de la cara, prometió que nunca más ignoraría una advertencia de seguridad.
+
+**Texto 2 — "El canal de don Eliseo"**
+
+> En Putre, en el altiplano de la Región de Arica y Parinacota, el canal que regaba las papas de don Eliseo se derrumbó con las lluvias del verano. Arreglarlo costaba mucho dinero, y su hija Inés pensó primero en pedir un préstamo en el banco. Pero entonces recordó el *ayni*, la costumbre aymara de ayudarse entre vecinos: hoy yo te ayudo, mañana tú me ayudas.
 >
-> Esa noche, con el tobillo vendado, Manuel entendió que las reglas de su padre no eran para los "torpes": eran el conocimiento de alguien que llevaba veinte años trabajando en la pampa y que sabía, mejor que nadie, cuánto castigaba el descuido en un lugar así.
+> Inés recorrió las casas del pueblo. El sábado siguiente, doce vecinos llegaron con palas y piedras, y en un solo día el canal volvió a llevar agua. Al terminar, compartieron una calapurca caliente, y don Eliseo prometió ayudar en la próxima siembra de cada uno.
 
-### Texto 2 — "La deuda de don Aurelio" (autor: Tomás Ibacache)
+*(Lee el poema y responde las preguntas 5 a 8.)*
 
-> En una isla pequeña de Chiloé, don Aurelio llevaba semanas preocupado: la tormenta de julio había destrozado el techo de su galpón, y sin galpón no había dónde guardar la cosecha de papas antes del invierno. Su nieta Antonia, de once años, lo veía calcular una y otra vez cuánto costaría comprar planchas de zinc nuevas, y notaba que su abuelo, siempre conversador, apenas hablaba durante la cena.
+**Poema — "Barco de medianoche"**
+
+> Esperé mil años en el muelle
+> con la maleta llena de despedidas;
+> el motor del barco hace tac-tac-tac
+> y el puerto se apaga detrás de mí.
 >
-> Sin decirle nada, Antonia recorrió las casas vecinas para contarles lo que pasaba. No pedía dinero: en Chiloé, cuando alguien necesita ayuda para un trabajo grande, se organiza una **minga**, una costumbre en que toda la comunidad colabora sin cobrar, sabiendo que algún día también recibirá ayuda. Al sábado siguiente, doce vecinos llegaron con martillos, tablas y planchas de zinc guardadas de otros trabajos, y en un solo día levantaron un techo nuevo.
+> Susurra suave el mar salado,
+> las islas pasan como sombras dormidas;
+> miro hacia atrás, donde quedó mi casa,
+> y guardo en el bolsillo una foto de mi abuela.
 
-### Poema — "Tren nocturno hacia el sur"
+*(Lee los textos A y B y responde las preguntas 9 a 12.)*
 
-> Estrofa 1
-> El tren traquetea, traquetea, traquetea,
-> tragando kilómetros de rieles mojados.
-> Silba una vez, dos veces, tres veces,
-> como si tuviera mil años de viaje.
+**Texto A — "El sol que ilumina las escuelas rurales"**
+
+> En varias escuelas rurales de la Región de Coquimbo se instalaron paneles solares en los techos. Antes, algunas de ellas no tenían electricidad durante todo el día; hoy pueden usar computadores y mantener la leche fresca para el desayuno de los estudiantes. La tabla muestra la energía producida por los paneles de una escuela:
 >
-> Estrofa 2
-> Los pinos se inclinan para verlo pasar,
-> susurrando secretos que el viento se lleva.
-> Mis ojos pesan más que una montaña
-> y el sueño me vence antes de llegar.
+> | Mes | Energía producida (kWh) |
+> |---|---|
+> | Enero | 300 |
+> | Marzo | 210 |
+> | Junio | 90 |
+> | Septiembre | 180 |
 
-### Texto A — "Atrapando agua del aire en Alto Hospicio"
+**Texto B — "¿Cómo funciona un panel solar?"**
 
-> En Alto Hospicio, Región de Tarapacá, un grupo de vecinos instaló hace algunos años grandes mallas verticales llamadas "atrapanieblas" en los cerros cercanos a la ciudad. Estas mallas capturan las diminutas gotas de agua que forma la camanchaca —la espesa niebla costera del norte de Chile— y las conducen mediante canaletas hasta estanques de almacenamiento. Gracias a este sistema, algunas familias que antes dependían de camiones aljibe hoy pueden regar pequeños huertos comunitarios.
-
-```
-Mes           Litros captados (promedio por malla)
-Marzo         120
-Junio         310
-Septiembre    280
-Diciembre     90
-```
-
-### Texto B — "La ciencia detrás de los atrapanieblas"
-
-> Los atrapanieblas funcionan gracias a un principio físico simple: cuando el aire cargado de humedad choca contra una malla de polietileno de trama fina, las gotas microscópicas de agua se adhieren a los hilos y, por gravedad, escurren hacia abajo. Este sistema fue desarrollado inicialmente en Chile en la década de 1980 por científicos que estudiaban la camanchaca en la Región de Antofagasta, y desde entonces se ha replicado en países como Perú, Marruecos y Sudáfrica.
-
----
+> Un panel solar está formado por celdas que transforman la luz del sol en electricidad. Mientras más horas de sol y más directa llega la luz, más energía produce. Por eso, en invierno, cuando los días son más cortos, la producción baja. Los paneles también funcionan en días nublados, aunque producen menos energía.
 
 ## Preguntas
 
 **1. (Alternativas — OA4)** ¿Cuál es la relación de causa-consecuencia correcta en el Texto 1?
 
-a) Manuel se acercó solo a los rieles para ayudar a los cargadores → su padre lo felicitó frente a todos
-b) El padre de Manuel trabajaba en la pampa salitrera → Manuel dejó de estudiar para trabajar con él
-c) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
-d) Hubo una tormenta muy fuerte en la pampa → los vecinos organizaron una minga para reparar las casas
+a) Rosa ayudó a su padre a recoger las cosas → los bomberos la felicitaron frente a todos
+b) Hubo un terremoto en Valparaíso → Rosa se fue a vivir a otra ciudad
+c) Rosa se metió sola entre los escombros, desobedeciendo la advertencia → un trozo de muro cayó junto a sus pies y casi sufre un accidente
+d) Llovió mucho en el altiplano → los vecinos repararon un canal
 
-**2. (Alternativas — OA4)** ¿Por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato?
+**2. (Alternativas — OA4)** ¿Por qué Rosa ignoraba las advertencias de su padre al comienzo del relato?
 
-a) Porque quería demostrar que era tan valiente y veloz como los cargadores mayores, y creía que las reglas eran para los "torpes"
-b) Porque no escuchaba bien a su padre por el ruido de las máquinas de la oficina salitrera
-c) Porque su padre le pidió ignorarlas cuando estuviera acompañado por los cargadores mayores, que sabían cuidarlo en los rieles
-d) Porque en la pampa no había reglas de seguridad y cada trabajador decidía cómo cuidarse
+a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos
+b) Porque no escuchaba bien a su padre por el ruido de la calle
+c) Porque su padre le había dado permiso para entrar en las casas dañadas
+d) Porque después del terremoto ya no había ningún peligro
 
-**3. (Verdadero o Falso — OA4)** En el Texto 2, la costumbre de la minga influye directamente en la decisión de Antonia de pedir ayuda a la comunidad en vez de buscar dinero prestado.
+**3. (Verdadero o Falso — OA4)** En el Texto 2, la costumbre del *ayni* influye directamente en la decisión de Inés de pedir ayuda a los vecinos en vez de pedir un préstamo.
 
 **4. (Alternativas — OA4)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
-a) Chile actual, en una ciudad grande con fábricas y mucho tráfico
-b) El sur de Chile en el presente, en un pueblo de pescadores y bosques
-c) La época de la Colonia española, en las minas de plata del centro
-d) El auge del salitre en el norte de Chile, a comienzos del siglo XX
+a) Chile actual, en una ciudad del desierto
+b) El sur de Chile en el presente, en un pueblo de pescadores
+c) La época de la Colonia española, en Santiago
+d) Valparaíso a comienzos del siglo XX, después del terremoto de 1906
 
-**5. (Alternativas — OA5)** ¿Qué figura del lenguaje figurado se usa en "mis ojos pesan más que una montaña"?
+**5. (Alternativas — OA5)** ¿Qué figura del lenguaje se usa en "Esperé mil años en el muelle"?
 
 a) Onomatopeya
 b) Rima consonante
 c) Hipérbole
 d) Aliteración
 
-**6. (Verdadero o Falso — OA5)** La palabra "traquetea" es un ejemplo de onomatopeya, porque su sonido imita el ruido real de un tren en movimiento.
+**6. (Verdadero o Falso — OA5)** La expresión "tac-tac-tac" es un ejemplo de onomatopeya, porque imita el ruido del motor del barco.
 
 **7. (Alternativas — OA5)** ¿Qué ejemplo de **aliteración** hay en el poema, y qué efecto produce?
 
-a) "los pinos se inclinan para verlo pasar": compara los pinos con personas
-b) El poema no tiene aliteraciones: ningún sonido se repite de forma intencionada en sus versos
-c) "tres veces": es una hipérbole, porque exagera la cantidad de veces que silba el tren en la noche para mostrar que el viaje es eterno
-d) "silba una vez, dos veces, tres veces": se repite el sonido "s" y refuerza la sensación de un silbido agudo y prolongado
+a) "las islas pasan como sombras dormidas": compara las islas con sombras
+b) El poema no tiene aliteraciones: ningún sonido se repite de forma intencionada
+c) "mil años": es una exageración que muestra que la espera fue eterna
+d) "Susurra suave el mar salado": se repite el sonido "s" y hace sentir el murmullo del mar
 
 **8. (Alternativas — OA5)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **implícita** (no explícita)?
 
-a) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-b) El tren viaja de noche, como indica el título del poema
-c) Los pinos se inclinan al paso del tren, según el texto
+a) El hablante echa de menos a su familia, aunque el poema no lo diga con esas palabras
+b) El viaje es en barco, como indica el título
+c) El motor del barco hace tac-tac-tac, según el texto
 d) El poema tiene dos estrofas, como se ve al leerlo
 
-**9. (Alternativas — OA6)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas familias de Alto Hospicio gracias a los atrapanieblas?
+**9. (Alternativas — OA6)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas escuelas rurales gracias a los paneles solares?
 
-a) Dejaron de necesitar electricidad para sus casas y escuelas
-b) Pudieron regar huertos comunitarios sin depender de camiones aljibe
-c) Consiguieron trabajo en la ciudad instalando nuevas mallas
-d) Mejoraron el acceso a internet en los cerros de la comuna
+a) Dejaron de necesitar profesores
+b) Pudieron usar computadores y mantener la leche fresca para el desayuno
+c) Consiguieron agua potable para todo el pueblo
+d) Mejoraron sus caminos de acceso
 
-**10. (Alternativas — OA6)** Según la tabla del Texto A, ¿en qué mes se registró la menor cantidad de litros captados por malla, y cuántos fueron?
+**10. (Alternativas — OA6)** Según la tabla del Texto A, ¿en qué mes se produjo la menor cantidad de energía, y cuánta fue?
 
-a) En marzo, con 120 litros
-b) En diciembre, con 90 litros
-c) En junio, con 310 litros
-d) En septiembre, con 280 litros
+a) En enero, con 300 kWh
+b) En junio, con 90 kWh
+c) En marzo, con 210 kWh
+d) En septiembre, con 180 kWh
 
-**11. (Verdadero o Falso — OA6)** Según el Texto B, la tecnología de los atrapanieblas fue desarrollada originalmente en Marruecos y luego se replicó en Chile.
+**11. (Verdadero o Falso — OA6)** Según el Texto B, los paneles solares solo funcionan en días sin nubes.
 
 **12. (Alternativas — OA6)** ¿Cuál de las siguientes afirmaciones compara correctamente información de ambos textos (A y B)?
 
-a) "Ambos textos afirman que los atrapanieblas reemplazan completamente el agua potable de una ciudad"
-b) "El Texto A muestra el impacto social de los atrapanieblas en una comunidad, y el Texto B explica el principio científico detrás de esta tecnología"
-c) "El Texto B dice que los atrapanieblas se inventaron en Alto Hospicio y que desde ahí se llevaron a otros países del mundo con climas similares"
-d) "Ninguno de los dos textos menciona la camanchaca ni explica de dónde proviene el agua que capturan las mallas"
+a) "Ambos textos afirman que los paneles solares producen la misma energía todo el año"
+b) "El Texto A muestra el impacto de los paneles en las escuelas y sus datos de producción, y el Texto B explica por qué la producción baja en invierno"
+c) "El Texto B dice que los paneles solares se inventaron en la Región de Coquimbo"
+d) "Ninguno de los dos textos menciona la luz del sol"
 
 ---
 
 ## Pauta de respuestas
 
-1. **c.** Manuel desobedeció la advertencia (causa) y su pie quedó atrapado, casi sufriendo un accidente (consecuencia).
-2. a) Porque quería demostrar que era tan valiente y veloz como los cargadores mayores, y creía que las reglas eran para los "torpes"
-3. **Verdadero.** La minga es la costumbre que orienta directamente la decisión de Antonia de organizar ayuda comunitaria en vez de buscar dinero.
-4. **d.** El texto menciona la Oficina Salitrera Humberstone y el año 1920, situando la historia en el auge del salitre a comienzos del siglo XX.
-5. **c.** Es una hipérbole porque exagera deliberadamente (los ojos no pesan literalmente como una montaña) para transmitir cansancio.
-6. **Verdadero.** El sonido de "traquetea" imita el ruido rítmico de un tren sobre los rieles.
-7. d) "silba una vez, dos veces, tres veces": se repite el sonido "s" y refuerza la sensación de un silbido agudo y prolongado
-8. **a.** Se deduce combinando pistas del poema (el sueño, "kilómetros", "mil años de viaje"), pero no se dice directamente con esas palabras.
-9. **b.** El texto indica explícitamente que algunas familias que antes dependían de camiones aljibe hoy pueden regar huertos comunitarios.
-10. b) En diciembre, con 90 litros. Es el valor más bajo de la tabla.
-11. **Falso.** El texto indica lo contrario: se desarrolló inicialmente en Chile (Región de Antofagasta) y luego se replicó en otros países, incluido Marruecos.
-12. **b.** Integra correctamente el enfoque de cada texto (impacto social en A, explicación científica en B) sin contradecir la información entregada.
+1. **c.** Rosa desobedeció la advertencia (causa) y un trozo de muro cayó junto a sus pies (consecuencia).
+2. a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos
+3. **Verdadero.** El *ayni* es la costumbre que orienta la decisión de Inés de pedir ayuda a la comunidad en vez de un préstamo.
+4. **d.** El texto menciona Valparaíso, agosto de 1906 y el gran terremoto.
+5. **c.** Es una hipérbole: exagera deliberadamente (nadie espera mil años) para transmitir lo larga que pareció la espera.
+6. **Verdadero.** "Tac-tac-tac" imita el sonido rítmico del motor.
+7. d) "Susurra suave el mar salado": se repite el sonido "s" y hace sentir el murmullo del mar
+8. **a.** Se deduce de pistas del poema (la "maleta llena de despedidas", mirar hacia la casa, la foto de la abuela), pero no se dice directamente.
+9. **b.** El texto dice que hoy pueden usar computadores y mantener la leche fresca.
+10. b) En junio, con 90 kWh. Es el valor más bajo de la tabla.
+11. **Falso.** El texto dice que también funcionan en días nublados, aunque producen menos.
+12. **b.** Integra el enfoque de cada texto: impacto y datos en A, explicación científica en B.

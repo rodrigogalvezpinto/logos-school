@@ -113,7 +113,6 @@ d) Where are the shoes?
 1. a) ruler. La lista de útiles escolares se completa con un útil: *ruler* (regla).
 2. d) sunny. Si el clima combina con ir a la playa, lo más coherente es un día soleado.
 3. **d) Dear.** Se usa al comienzo de cartas y postales, antes del nombre de quien la recibe.
-   escribe.
 4. **False (Falso).** Aunque esté bien escrito gramaticalmente, no corresponde a
    una lista de compras de alimentos.
 5. b) I have a cat. It is black. Its name is Toby. Cada espacio lleva el tipo de información correcta: animal, color y nombre.
@@ -122,7 +121,5 @@ d) Where are the shoes?
 8. **c) next to.** *On* es "sobre", *in* es "dentro de" y *under* es "debajo de".
 9. d) seven. Seven = siete; *seventy* es setenta.
 10. **True (Verdadero).** *Under* significa "debajo de".
-    *under*).
 11. b) I am. La respuesta corta a *Are you...?* es *Yes, I am.* o *No, I'm not.*
 12. **b) These are her shoes.** *Her* indica que los zapatos le pertenecen a ella.
-    clima, ubicación o hacen una pregunta.

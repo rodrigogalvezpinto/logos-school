@@ -30,99 +30,84 @@ cuenta primero.
 
 ---
 
-**1.** *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a
-bike."* What can't Pedro do?
-a) Swim
+**1.** *(Alternativas)* Read: *"Lucía can play the piano, but she can't sing."* What can't Lucía do?
+a) Play the piano
 b) Read
-c) Run
-d) Ride a bike
+c) Dance
+d) Sing
 
-**2.** *(Verdadero o falso)* Read: *"The pharmacy is in front of the school, next
-to the bank."* Statement: *The pharmacy is behind the school.*
+**2.** *(Verdadero o falso)* Read: *"The library is next to the park, behind the hospital."* Statement: *The library is in front of the hospital.*
 
-**3.** *(Completar)* Complete with "can" or "can't": *A fish ___ swim, but it ___
-fly.*
+**3.** *(Completar)* Complete with "can" or "can't": *A bird ___ fly, but a dog ___ fly.*
 
 a) can / can't
 b) can't / can
 c) can / can
 d) can't / can't
 
-**4.** *(Alternativas — comprensión)* Read: *"Yesterday, Camila visited her grandmother.
-Today she visits her friend."* Answer: *What did Camila do yesterday?*
+**4.** *(Alternativas — comprensión)* Read: *"Last weekend, Tomás cleaned his room. Now he plays video games."* Answer: *What did Tomás do last weekend?*
 
-a) She visits her friend.
-b) She visited her friend.
-c) She visit her grandmother.
-d) She visited her grandmother.
+a) He plays video games.
+b) He played video games.
+c) He clean his room.
+d) He cleaned his room.
 
-**5.** *(Alternativas)* Read: *"Fresh vegetables and fruit! Open every day from 9
-am to 8 pm. Central Market."* ¿Cuál es el propósito de este texto?
-a) Dar una receta con verduras y frutas
-b) Pedir disculpas por cerrar temprano
-c) Anunciar una tienda (aviso publicitario)
-d) Describir el clima de la ciudad cada día
+**5.** *(Alternativas)* Read: *"Lost cat! Black and white, very friendly. If you see him, call 9 8765 4321."* ¿Cuál es el propósito de este texto?
+a) Dar una receta
+b) Invitar a una fiesta
+c) Pedir ayuda para encontrar un gato perdido
+d) Describir el clima
 
-**6.** *(Completar)* Complete with the past simple: *"Yesterday I played in the
-rain without a jacket. Today I don't feel well. I think I ___ a cold
-yesterday."*
+**6.** *(Completar)* Complete with the past simple: *"Last night I ___ a great movie with my family."*
 
-a) catch
-b) caught
-c) catches
-d) catched
+a) see
+b) saw
+c) sees
+d) seed
 
-**7.** *(Verdadero o falso)* Read a recipe: *"Mix the flour and eggs. Bake for 20
-minutes."* Esto corresponde a instrucciones para preparar comida.
+**7.** *(Verdadero o falso)* Read: *"Turn left at the bakery. Walk two blocks. The museum is on the right."* Esto corresponde a instrucciones para llegar a un lugar.
 
-**8.** *(Alternativas — comprensión)* Read a menu: *"Menu: Pizza — $4.000. Salad —
-$2.000. Juice — $1.000."* Answer: *How much is the pizza?*
+**8.** *(Alternativas — comprensión)* Read a sign: *"Swimming pool. Open: Tuesday to Sunday, 10 am to 6 pm."* Answer: *When is the swimming pool closed?*
 
-a) It is $1.000.
-b) It is $2.000.
-c) It is $4.000.
-d) It is $7.000.
+a) On Sunday.
+b) On Tuesday.
+c) On Monday.
+d) On Friday.
 
 **9.** *(Alternativas)* Which sentence expresses an opinion (una opinión)?
-a) The zoo has many animals.
-b) I think the zoo is interesting.
-c) The zoo opens at 9 am.
-d) There are lions at the zoo.
+a) The museum has three floors.
+b) In my opinion, the museum is amazing.
+c) The museum closes at 6 pm.
+d) There are dinosaurs in the museum.
 
-**10.** *(Verdadero o falso)* Read: *"Martina doesn't like the desert; she thinks
-it's boring. She prefers the beach."* Statement: *Martina thinks the desert is
-exciting.*
+**10.** *(Verdadero o falso)* Read: *"Benjamín loves the mountains; he thinks they are beautiful. He doesn't like big cities."* Statement: *Benjamín likes big cities.*
 
-**11.** *(Completar)* Complete: *I ___ camping is fun, because you can see the
-stars at night.*
+**11.** *(Completar)* Complete: *My sister ___ that reading is relaxing.*
 
 a) think
 b) thinks
 c) thinking
-d) thought it
+d) to think
 
-**12.** *(Alternativas — desafiante)* Read: *"Diego is quiet and likes reading.
-Sofía is funny and likes telling jokes."* ¿Qué oración compara correctamente a los
-dos personajes?
-a) Diego and Sofía are the same.
-b) Diego is different from Sofía.
-c) Diego and Sofía don't like anything.
-d) Sofía is quiet.
+**12.** *(Alternativas — desafiante)* Read: *"Clara is tall and likes volleyball. Tomás is tall too, and he likes volleyball as well."* ¿Qué oración compara correctamente a los dos personajes?
+a) Clara and Tomás are very different.
+b) Clara and Tomás are similar.
+c) Tomás is short.
+d) Clara doesn't like sports.
 
 ---
 
 ## Pauta de respuestas
 
-1. d) Ride a bike
-2. F (Falso) — el texto dice *in front of*, no *behind*.
-3. a) can / can't. Los peces nadan (habilidad) pero no vuelan (inhabilidad).
-4. d) She visited her grandmother. *Yesterday* indica pasado: *visited*.
-5. c) Anunciar una tienda (aviso publicitario)
-6. b) caught. *Yesterday* indica pasado; *caught* es el pasado irregular de *catch*.
+1. d) Sing
+2. F (Falso) — el texto dice *behind*, no *in front of*.
+3. a) can / can't. Las aves vuelan (habilidad) y los perros no (inhabilidad).
+4. d) He cleaned his room. *Last weekend* indica pasado: *cleaned*.
+5. c) Pedir ayuda para encontrar un gato perdido
+6. b) saw. *Last night* indica pasado; *saw* es el pasado irregular de *see*.
 7. V (Verdadero)
-8. c) It is $4.000. El precio asociado a *pizza* en el menú es $4.000.
-9. b) I think the zoo is interesting.
-10. F (Falso) — el texto dice que Martina piensa que el desierto es *boring*, no
-    *exciting*.
-11. a) think. Con *I* se usa *think*, no *thinks*.
-12. b) Diego is different from Sofía.
+8. c) On Monday. El aviso dice que abre de martes a domingo; el lunes está cerrado.
+9. b) In my opinion, the museum is amazing.
+10. F (Falso) — el texto dice que a Benjamín no le gustan las ciudades grandes.
+11. b) thinks. Con *my sister* (she) se usa *thinks*.
+12. b) Clara and Tomás are similar. Los dos son altos y les gusta el vóleibol.
