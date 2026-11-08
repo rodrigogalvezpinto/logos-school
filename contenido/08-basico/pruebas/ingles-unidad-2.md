@@ -22,105 +22,96 @@ no solo el vocabulario.
 
 ---
 
-1. *(Alternativas — Completar)* Complete: *"I ___ soccer ___ basketball because soccer is more popular in my school."*
+1. *(Alternativas — Completar)* Complete: *"I ___ tea ___ coffee because coffee is too bitter for me."*
 
 a) prefer / to
 b) prefer / than
 c) rather / to
 d) like / then
 
-2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada
-   sobre otra cultura?
-   a) Japan has many people and many big cities.
-   b) Tokyo is a city in Japan with tall buildings.
-   c) There are many countries in Asia, like Japan and China.
-   d) I prefer Japanese food because I love sushi and rice dishes.
+2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada sobre otra cultura?
+   a) Italy has many old cities and churches.
+   b) Rome is the capital of Italy.
+   c) There are many countries in Europe, like Italy and Spain.
+   d) I prefer Italian music because the songs are cheerful and romantic.
 
-3. *(Alternativas — Completar)* Complete about a trip: *"Last year, we ___ a small town in the south of Chile. It ___ an unforgettable trip."* (visit / be, simple past)
+3. *(Alternativas — Completar)* Complete about a trip: *"Last summer, my family ___ San Pedro de Atacama. It ___ a wonderful experience."* (visit / be, simple past)
 
 a) visit / is
 b) visited / were
 c) visiting / was
 d) visited / was
 
-4. *(Verdadero o falso)* La oración *"In my opinion, learning about other
-   cultures makes us more open-minded"* es apropiada para expresar una opinión
-   sobre culturas.
+4. *(Verdadero o falso)* La oración *"I believe that traveling helps us understand other people"* es apropiada para expresar una opinión sobre culturas.
 
-5. *(Alternativas — Función)* ¿Qué función cumple la expresión *"I'd rather stay home"*?
+5. *(Alternativas — Función)* ¿Qué función cumple la expresión *"I'd rather walk than take the bus"*?
 
 a) Dar información explícita
 b) Dar una orden
 c) Expresar una preferencia
 d) Describir un lugar
 
-6. *(Alternativas — desafiante)* Estás escribiendo sobre un problema global
-   (contaminación por plástico) y debes expresar tu preferencia entre dos
-   soluciones. ¿Qué oración es la más adecuada?
-   a) I prefer using reusable bottles to buying plastic ones because they
-      reduce waste in the ocean.
-   b) Plastic is a material that people use to make bottles, bags and many other things.
-   c) The ocean is very big, and many animals live in it, like whales, fish and turtles.
-   d) I don't like plastic, and I don't like reusable bottles either, because they are heavy.
+6. *(Alternativas — desafiante)* Estás escribiendo sobre un problema global (exceso de autos en las ciudades) y debes expresar tu preferencia entre dos soluciones. ¿Qué oración es la más adecuada?
+   a) I prefer riding a bike to driving a car because it reduces pollution and traffic.
+   b) Cars are machines with four wheels and an engine.
+   c) The city is very big and has many streets.
+   d) I don't like cars or bikes because they are noisy.
 
-7. *(Alternativas — Completar)* Complete: *"There are ___ people at the concert tonight."*
+7. *(Alternativas — Completar)* Complete: *"There are ___ books in the school library."*
 
 a) a lot
 b) much
 c) a lot of
 d) a few of
 
-8. *(Alternativas)* ¿Qué oración expresa correctamente un plan futuro ya
-   decidido?
-   a) I go to Brazil last year with my family.
-   b) I'm going to visit Brazil next summer.
-   c) I visit Brazil sometimes in the summer.
-   d) I visited Brazil yesterday with my friends.
+8. *(Alternativas)* ¿Qué oración expresa correctamente un plan futuro ya decidido?
+   a) I go to Puerto Natales last year.
+   b) I'm going to travel to Puerto Natales next winter.
+   c) I travel to Puerto Natales sometimes.
+   d) I traveled to Puerto Natales yesterday.
 
-9. *(Alternativas — Completar)* Complete with the superlative: *"This is ___ restaurant in the city."* (expensive)
+9. *(Alternativas — Completar)* Complete with the superlative: *"Ojos del Salado is ___ volcano in the world."* (high)
 
-a) the most expensive
-b) the expensivest
-c) more expensive
-d) most expensive than
+a) the highest
+b) the most high
+c) higher
+d) most high than
 
-10. *(Verdadero o falso)* La oración *"I think robots will do many jobs in the
-    future"* es una predicción.
+10. *(Verdadero o falso)* La oración *"I think people will live on Mars in the future"* es una predicción.
 
-11. *(Alternativas — Completar)* Complete: *"I don't mind ___ for the bus, but I hate ___ late."* (wait / arrive)
+11. *(Alternativas — Completar)* Complete: *"I enjoy ___ music, but I hate ___ my room."* (listen to / clean)
 
-a) wait / arrive
-b) to waiting / arrived
-c) waited / arrive
-d) waiting / arriving
+a) listen to / clean
+b) to listening to / cleaned
+c) listened to / clean
+d) listening to / cleaning
 
-12. *(Alternativas — Completar — desafiante)* Complete: *"Look at those clouds! It ___ soon."* (rain)
+12. *(Alternativas — Completar — desafiante)* Complete: *"Be careful! That glass ___ fall."* (going to)
 
-a) will raining
-b) is going to rain
-c) rains
-d) is raining yesterday
+a) will falling
+b) is going to
+c) falls
+d) is falling yesterday
 
-13. *(Alternativas — desafiante)* ¿Qué oración describe correctamente un lugar
-    usando adjetivos?
-    a) The museum is. It is downtown, in the city.
-    b) The museum is an old, beautiful building downtown.
-    c) Museum old beautiful building downtown city.
-    d) I go to the museum downtown every Sunday.
+13. *(Alternativas — desafiante)* ¿Qué oración describe correctamente un lugar usando adjetivos?
+    a) The beach is. It is in the north.
+    b) The beach is a quiet, sunny place in the north.
+    c) Beach quiet sunny place north.
+    d) I go to the beach every January.
 
-14. *(Varias correctas — Preferencia — desafiante)* *"Which do you prefer, going to the beach or going to the mountains? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
+14. *(Varias correctas — Preferencia — desafiante)* *"Which do you prefer, reading books or watching movies? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
 
-a) I prefer going to the beach because I love swimming and the hot weather.
-b) I prefer going to the mountains because I enjoy hiking and the fresh air.
-c) I prefer go to the beach because.
-d) Beach mountains.
+a) I prefer reading books because I can imagine the characters.
+b) I prefer watching movies because I like the music and the special effects.
+c) I prefer read books because.
+d) Books movies.
 
-15. *(Alternativas — Completar — desafiante)* Complete: *"We need to ___ the bus at the next stop and then ___ the train station."*
+15. *(Alternativas — Completar — desafiante)* Complete: *"You have to ___ the train at the next station and then ___ the museum on foot."*
 
 a) get on / arrive in
 b) get off / arrive
-c) get off / arrive at
-d) go off / arrive to
+c) get off / walk to
+d) go off / walk at
 
 ---
 
@@ -128,36 +119,30 @@ d) go off / arrive to
 
 1. a) prefer / to. La estructura es *prefer + [algo] + to + [algo]* para comparar dos opciones.
 
-2. **d)** I prefer Japanese food because I love sushi and rice dishes.
-   Solo la opción d) combina una preferencia (*I prefer*) con una razón (*because*); las demás solo describen datos.
+2. **d)** I prefer Italian music because the songs are cheerful and romantic. Solo la d) combina una preferencia (*I prefer*) con una razón (*because*).
 
-3. d) visited / was. *Last year* indica una acción terminada: ambos verbos van en pasado simple (*it* → *was*).
+3. d) visited / was. *Last summer* indica una acción terminada: pasado simple (*it* → *was*).
 
-4. **True (Verdadero).**
-   *In my opinion* introduce una valoración personal sobre el tema de la diversidad cultural, tal como pide este OA.
+4. **True (Verdadero).** *I believe that...* introduce una opinión personal.
 
-5. c) Expresar una preferencia. *I'd rather* (preferiría) expresa preferencia, como *I prefer*.
+5. c) Expresar una preferencia. *I'd rather... than...* compara dos opciones y elige una.
 
-6. **a)** I prefer using reusable bottles to buying plastic ones because they reduce waste in the ocean.
-   Esa oración combina preferencia (*I prefer*), comparación (*to buying plastic ones*) y una razón (*because*).
+6. a) I prefer riding a bike to driving a car because it reduces pollution and traffic. Expresa una preferencia (*prefer... to...*) y la justifica.
 
-7. c) a lot of. *A lot of* se usa antes de un sustantivo (*people*); *a lot* se usa solo, sin sustantivo después.
+7. c) a lot of. Antes de un sustantivo se usa *a lot of*.
 
-8. **b)** I'm going to visit Brazil next summer.
-   *Going to* se usa para planes futuros que ya están decididos, a diferencia del pasado simple o el presente simple.
+8. b) I'm going to travel to Puerto Natales next winter. *Be going to* expresa planes ya decididos.
 
-9. a) the most expensive. Los adjetivos largos forman el superlativo con *the most + adjetivo*.
+9. a) the highest. Los adjetivos cortos forman el superlativo con *the* + *-est*.
 
-10. **True (Verdadero).**
-    *Will* se usa para hacer predicciones sobre el futuro, especialmente con expresiones como *I think*.
+10. **True (Verdadero).** *I think... will...* expresa una predicción sobre el futuro.
 
-11. d) waiting / arriving. Después de *don't mind* y *hate* (gusto o disgusto general) se usa el gerundio.
+11. d) listening to / cleaning. Después de *enjoy* y *hate* se usa el verbo con *-ing*.
 
-12. b) is going to rain. Con evidencia visible en el momento (nubes oscuras) se usa *going to* para predecir.
+12. b) is going to. Cuando hay evidencia en el presente (el vaso está a punto de caer), se usa *going to*.
 
-13. **b)** The museum is an old, beautiful building downtown.
-    Una buena descripción combina varios adjetivos (*old, beautiful*) y ubicación (*downtown*) en una oración completa.
+13. b) The beach is a quiet, sunny place in the north. Usa adjetivos (*quiet, sunny*) para describir el lugar.
 
-14. a y b — Se espera *prefer + gerundio + because* + una razón coherente; ambas preferencias son válidas.
+14. a y b — Ambas expresan una preferencia y la justifican con *because*; la c) está incompleta y la d) no es una oración.
 
-15. c) get off / arrive at. *Get off* (bajarse de) se usa con transportes y *arrive at* (llegar a) antes de un lugar específico.
+15. c) get off / walk to. *Get off* = bajarse de un transporte; *walk to* = caminar hasta un lugar.

@@ -16,110 +16,110 @@ ultima_actualizacion: 2026-10-28
 
 **Instrucciones:** responde todas las preguntas. Muestra el paso a paso de cómo despejas cada ecuación. Tiempo sugerido: 30-35 minutos.
 
-**Pregunta 1 (alternativas).** Resuelve: 7x = 84.
-a) x = 91
-b) x = 7
-c) x = 588
+**Pregunta 1 (alternativas).** Resuelve: 9x = 108.
+a) x = 117
+b) x = 9
+c) x = 972
 d) x = 12
 
-**Pregunta 2 (verdadero o falso).** La solución de x/5 = 9 es x = 45.
+**Pregunta 2 (verdadero o falso).** La solución de x/4 = 7 es x = 28.
 
-**Pregunta 3 (calcular).** Resuelve: 4x + 10 = 42.
-a) x = 208
-b) x = 13
-c) x = 10,5
-d) x = 8
+**Pregunta 3 (calcular).** Resuelve: 5x + 8 = 43.
+a) x = 255
+b) x = 10,2
+c) x = 8
+d) x = 7
 
-**Pregunta 4 (Alternativas — forma x/a + b = c).** Resuelve: x/6 + 5 = 11.
+**Pregunta 4 (Alternativas — forma x/a + b = c).** Resuelve: x/3 + 4 = 10.
 
-a) 36
-b) 1
-c) 96
+a) 18
+b) 2
+c) 42
 d) 6
 
-**Pregunta 5 (Alternativas — forma ax + b = cx + d).** Una empresa cobra $1.000 fijos más $200 por hora; otra cobra $400 fijos más $350 por hora. ¿Para cuántas horas ambos arriendos cuestan lo mismo?
+**Pregunta 5 (Alternativas — forma ax + b = cx + d).** Un gimnasio cobra $5.000 de matrícula más $1.000 por clase; otro cobra $2.000 de matrícula más $1.500 por clase. ¿Para cuántas clases ambos cuestan lo mismo?
 
-a) 2,4 horas
-b) 6 horas
-c) 10 horas
-d) 4 horas
+a) 3 clases
+b) 4 clases
+c) 7 clases
+d) 6 clases
 
-**Pregunta 6 (Alternativas — forma ax = b + cx).** Un estanque vacío se llena a 15 L por minuto; otro, que ya tiene 40 L, se llena a 5 L por minuto. ¿En qué minuto tendrán la misma cantidad de agua?
+**Pregunta 6 (Alternativas — forma ax = b + cx).** Ana ahorra $3.000 por semana partiendo de cero; Luis ya tiene $10.000 y ahorra $1.000 por semana. ¿En qué semana tendrán lo mismo?
 
-a) 2 minutos
-b) 4 minutos
-c) 8 minutos
-d) 10 minutos
+a) 3 semanas
+b) 5 semanas
+c) 10 semanas
+d) 13 semanas
 
-**Pregunta 7 (Alternativas — problema no rutinario).** La edad de Matías es el doble de la de su hermana menos 3 años, y la suma de ambas es 33. ¿Qué edades tienen?
+**Pregunta 7 (Alternativas — problema no rutinario).** La edad de una madre es el triple de la de su hijo más 2 años, y la suma de ambas es 46. ¿Qué edades tienen?
 
-a) Hermana 11 y Matías 22
-b) Hermana 15 y Matías 18
-c) Hermana 12 y Matías 21
-d) Hermana 12 y Matías 24
+a) Hijo 12 y madre 34
+b) Hijo 15 y madre 31
+c) Hijo 11 y madre 35
+d) Hijo 11 y madre 33
 
-**Pregunta 8 (alternativas).** En la función f(x) = 4x − 2, ¿cuál es el valor de f(3)?
-a) 10
+**Pregunta 8 (alternativas).** En la función f(x) = 3x + 5, ¿cuál es el valor de f(4)?
+a) 17
 b) 12
-c) 1
-d) 14
+c) 9
+d) 20
 
-**Pregunta 9 (verdadero o falso).** El gráfico de una función afín f(x)=ax+b siempre pasa por el origen (0,0).
+**Pregunta 9 (verdadero o falso).** La función f(x) = 2x es una función lineal y su gráfico pasa por el origen (0,0).
 
-**Pregunta 10 (identificar pendiente y coeficiente de posición).** En la función f(x) = −3x + 7, indica el valor de la pendiente y el punto donde la recta corta al eje y.
-a) pendiente 7, corta en (0,−3)
-b) pendiente −3, corta en (0,7)
-c) pendiente 3, corta en (0,7)
-d) pendiente −3, corta en (7,0)
+**Pregunta 10 (identificar pendiente y coeficiente de posición).** En la función f(x) = 4x − 1, indica el valor de la pendiente y el punto donde la recta corta al eje y.
+a) pendiente −1, corta en (0,4)
+b) pendiente 4, corta en (0,−1)
+c) pendiente −4, corta en (0,−1)
+d) pendiente 4, corta en (−1,0)
 
-**Pregunta 11 (Alternativas — tabla y pendiente).** Para f(x) = 5x + 1, ¿qué valores toma f(0), f(1) y f(2), y cuál es la pendiente?
+**Pregunta 11 (Alternativas — tabla y pendiente).** Para f(x) = 2x + 3, ¿qué valores toma f(0), f(1) y f(2), y cuál es la pendiente?
 
 | x | 0 | 1 | 2 |
 |---|---|---|---|
 | f(x) | ? | ? | ? |
 
 
-a) 1, 6, 11; pendiente 5
-b) 0, 5, 10; pendiente 5
-c) 1, 6, 11; pendiente 1
-d) 6, 11, 16; pendiente 6
+a) 3, 5, 7; pendiente 2
+b) 0, 2, 4; pendiente 2
+c) 3, 5, 7; pendiente 3
+d) 5, 7, 9; pendiente 5
 
-**Pregunta 12 (Alternativas — interés simple).** Un depósito de $200.000 gana un interés simple de $8.000 mensuales. ¿Qué función representa el saldo y cuánto hay a los 6 meses?
+**Pregunta 12 (Alternativas — interés simple).** Una alcancía tiene $15.000 y cada semana se agregan $2.500. ¿Qué función representa el dinero y cuánto hay a las 8 semanas?
 
-a) S(x) = 200.000x + 8.000; $1.208.000
-b) S(x) = 8.000x; $48.000
-c) S(x) = 208.000x; $1.248.000
-d) S(x) = 8.000x + 200.000; $248.000
+a) D(x) = 15.000x + 2.500; $122.500
+b) D(x) = 2.500x; $20.000
+c) D(x) = 17.500x; $140.000
+d) D(x) = 2.500x + 15.000; $35.000
 
-**Pregunta 13 (Alternativas — cambio constante).** Un auto parte con 20 L de bencina y consume 2 L cada 20 km. ¿Qué función representa los litros restantes y cuántos quedan a los 100 km?
+**Pregunta 13 (Alternativas — cambio constante).** Una vela mide 30 cm y se acorta 2 cm cada hora. ¿Qué función representa su largo y cuánto mide a las 6 horas?
 
-a) L(x) = 20 − 2x; 0 L
-b) L(x) = 20 − 0,1x; 10 L
-c) L(x) = 20 + 0,1x; 30 L
-d) L(x) = 20 − 10x; 0 L
+a) L(x) = 30 − 6x; 0 cm
+b) L(x) = 30 − 2x; 18 cm
+c) L(x) = 30 + 2x; 42 cm
+d) L(x) = 2x − 30; −18 cm
 
-**Pregunta 14 (Alternativas — comparar funciones).** La planta A sigue A(x) = 4x + 10 y la planta B sigue B(x) = 6x + 2 (cm, x en semanas). ¿En qué semana miden lo mismo y cuánto?
+**Pregunta 14 (Alternativas — comparar funciones).** El taxi A cobra A(x) = 500x + 800 y el taxi B cobra B(x) = 700x + 200 (pesos, x en km). ¿Para cuántos km cobran lo mismo y cuánto?
 
-a) Semana 6; 34 cm
-b) Semana 2; 18 cm
-c) Semana 4; 26 cm
-d) Semana 4; 16 cm
+a) 2 km; $1.800
+b) 5 km; $3.700
+c) 3 km; $2.300
+d) 3 km; $2.100
 
 ---
 
 ## Pauta de respuestas
 
-1. **d) x = 12.** Se divide ambos lados por 7: x=84÷7=12.
-2. **Verdadero.** Se multiplican ambos lados por 5: x=9×5=45.
-3. **d) x = 8.** Se resta 10: 4x=32; se divide por 4: x=8.
-4. a) 36. X/6 = 11 − 5 = 6, entonces x = 6 · 6 = 36.
-5. d) 4 horas. 1.000 + 200x = 400 + 350x → 600 = 150x → x = 4 (ambos cuestan $1.800).
-6. b) 4 minutos. 15x = 40 + 5x → 10x = 40 → x = 4 (ambos con 60 L).
-7. c) Hermana 12 y Matías 21. X + (2x − 3) = 33 → 3x = 36 → x = 12; Matías: 2·12 − 3 = 21.
-8. **a) 10.** f(3)=4×3−2=10.
-9. **Falso.** Solo pasa por el origen cuando b=0; si b≠0, corta al eje y en (0,b).
-10. **b) pendiente −3, corta en (0,7).**
-11. a) 1, 6, 11; pendiente 5. La pendiente es Δy/Δx = (6 − 1)/(1 − 0) = 5 y coincide con el coeficiente de x.
-12. d) S(x) = 8.000x + 200.000; $248.000. El capital inicial es la constante y el interés mensual, la pendiente.
-13. b) L(x) = 20 − 0,1x; 10 L. El consumo es 2/20 = 0,1 L por km; la pendiente es negativa porque los litros disminuyen.
-14. c) Semana 4; 26 cm. 4x + 10 = 6x + 2 → 8 = 2x → x = 4; A(4) = B(4) = 26 cm.
+1. **d) x = 12.** Se divide ambos lados por 9: x = 108 ÷ 9 = 12.
+2. **Verdadero.** Se multiplican ambos lados por 4: x = 7 × 4 = 28.
+3. **d) x = 7.** Se resta 8: 5x = 35; se divide por 5: x = 7.
+4. a) 18. x/3 = 10 − 4 = 6, entonces x = 6 · 3 = 18.
+5. d) 6 clases. 5.000 + 1.000x = 2.000 + 1.500x → 3.000 = 500x → x = 6 (ambos cuestan $11.000).
+6. b) 5 semanas. 3.000x = 10.000 + 1.000x → 2.000x = 10.000 → x = 5 (ambos con $15.000).
+7. c) Hijo 11 y madre 35. x + (3x + 2) = 46 → 4x = 44 → x = 11; madre: 3 · 11 + 2 = 35.
+8. **a) 17.** f(4) = 3 × 4 + 5 = 17.
+9. **Verdadero.** Cuando b = 0, la función es lineal y su gráfico pasa por el origen.
+10. **b) pendiente 4, corta en (0,−1).**
+11. a) 3, 5, 7; pendiente 2. La pendiente es Δy/Δx = (5 − 3)/(1 − 0) = 2 y coincide con el coeficiente de x.
+12. d) D(x) = 2.500x + 15.000; $35.000. El monto inicial es la constante y el ahorro semanal, la pendiente.
+13. b) L(x) = 30 − 2x; 18 cm. La pendiente es negativa porque el largo disminuye.
+14. c) 3 km; $2.300. 500x + 800 = 700x + 200 → 600 = 200x → x = 3; A(3) = B(3) = 2.300.

@@ -34,156 +34,144 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 2","6":"OA
 ### La célula: estructura y función (OA 2)
 
 **Pregunta 1.**
-¿Qué estructura celular contiene la mayor parte del material genético y controla la
-diferenciación de la célula?
+¿Qué organelo celular produce la energía que la célula necesita, mediante la respiración celular?
 
-a) La mitocondria
+a) El núcleo
 b) La vacuola
 c) La pared celular
-d) El núcleo
+d) La mitocondria
 
 **Pregunta 2.** (Verdadero o falso)
-Las células procariontes tienen un núcleo definido, separado del citoplasma por una
-membrana nuclear.
+Las células animales tienen pared celular y cloroplastos, igual que las células vegetales.
 
 **Pregunta 3.** (Varias correctas — Clasificar)
-¿Cuáles de estas estructuras están presentes **solo** en las células vegetales? Marca **todas** las correctas.
+¿Cuáles de estas estructuras están presentes **tanto** en las células animales como en las vegetales? Marca **todas** las correctas.
 
-a) Pared celular
-b) Cloroplasto
-c) Vacuola central grande
-d) Mitocondria
-e) Membrana celular
+a) Membrana celular
+b) Núcleo
+c) Mitocondria
+d) Cloroplasto
+e) Pared celular
 
 **Pregunta 4.** (Alternativas)
-¿Por qué el hepatocito (célula del hígado) tiene una gran cantidad de mitocondrias?
+¿Por qué las células de las hojas de una planta tienen muchos cloroplastos?
 
-a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular
-b) Porque las mitocondrias realizan la fotosíntesis en el hígado y producen la glucosa que el cuerpo necesita para obtener energía
-c) Porque el hígado necesita almacenar ADN en las mitocondrias para reparar las células dañadas por las sustancias tóxicas
-d) Porque las mitocondrias le dan forma alargada a la célula hepática, lo que le permite filtrar la sangre con mayor rapidez
+a) Porque en las hojas se realiza principalmente la fotosíntesis, y los cloroplastos captan la luz para fabricar el alimento de la planta
+b) Porque los cloroplastos absorben el agua del suelo
+c) Porque los cloroplastos le dan rigidez a la hoja
+d) Porque los cloroplastos guardan el ADN de la planta
 
 **Pregunta 5.** (Alternativas — Análisis)
-¿Qué comparación entre una célula muscular y una neurona vincula correctamente forma y función?
+¿Qué comparación entre un glóbulo rojo y una célula de la raíz vincula correctamente forma y función?
 
-a) Ambas son redondas porque cumplen la misma función de transmitir impulsos y contraerse, por lo que su forma no se relaciona con lo que hacen
-b) La neurona es alargada para contraerse; la célula muscular tiene dendritas para transmitir impulsos
-c) La forma de una célula no tiene relación con su función: la célula muscular y la neurona podrían intercambiar sus formas sin cambiar lo que hacen
-d) La célula muscular es alargada y con estructuras que le permiten contraerse; la neurona tiene largas prolongaciones (axón y dendritas) para transmitir impulsos
+a) Ambas tienen la misma forma porque cumplen la misma función
+b) El glóbulo rojo tiene pelos absorbentes para tomar agua; la célula de la raíz transporta oxígeno
+c) La forma de una célula no tiene relación con su función
+d) El glóbulo rojo tiene forma de disco flexible para transportar oxígeno y pasar por vasos estrechos; la célula de la raíz tiene pelos absorbentes que aumentan la superficie para absorber agua
 
 ---
 
 ### Plantas: transporte de sustancias e intercambio de gases (OA 4)
 
 **Pregunta 6.**
-¿Qué proceso físico explica principalmente la absorción de agua por la raíz de una
-planta?
+¿Qué tejido de la planta transporta el agua y los minerales desde la raíz hasta las hojas?
 
-a) La respiración celular
-b) La fotosíntesis
-c) La ósmosis
-d) La transpiración foliar
+a) El floema
+b) La epidermis
+c) El xilema
+d) Los estomas
 
 **Pregunta 7.** (Verdadero o falso)
-Los estomas solo permiten la entrada de dióxido de carbono, pero no la salida de
-vapor de agua.
+La savia elaborada, con los azúcares producidos en la fotosíntesis, se transporta por el xilema desde la raíz hacia las hojas.
 
 **Pregunta 8.** (Alternativas)
-¿Qué rol cumplen los estomas en la fotosíntesis, la respiración celular y la transpiración?
+¿Qué ocurre en la fotosíntesis?
 
-a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración
-b) Solo absorben agua desde el suelo y la transportan hacia las hojas, sin participar en el intercambio de gases ni en la salida de vapor de agua de la planta
-c) Producen la clorofila de la hoja, que capta la luz solar, y regulan la salida del oxígeno durante la noche
-d) Transportan la savia elaborada desde las hojas hacia la raíz y almacenan el almidón que produce la fotosíntesis
+a) La planta usa luz, agua y dióxido de carbono para fabricar glucosa, y libera oxígeno
+b) La planta absorbe oxígeno y libera solo vapor de agua
+c) La planta transforma la glucosa en minerales del suelo
+d) La planta produce dióxido de carbono a partir de la clorofila
 
 **Pregunta 9.** (Alternativas — Análisis de caso)
-En un día muy caluroso y seco, una planta cierra la mayoría de sus estomas aunque haya luz. ¿Qué consecuencia tiene esto?
+Un estudiante pone una planta en un armario oscuro durante una semana, regándola normalmente. ¿Qué consecuencia es esperable?
 
-a) Aumenta la fotosíntesis, porque al cerrar los estomas entra más CO₂ y la planta aprovecha mejor la luz intensa del día caluroso y seco
-b) La planta transpira más agua, porque al cerrar los estomas el vapor se acumula dentro de la hoja y sale con más fuerza
-c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento
-d) No tiene ninguna consecuencia para la planta, porque los estomas solo participan en la respiración durante la noche
+a) La planta crece más rápido, porque no pierde agua
+b) La planta produce más oxígeno que antes
+c) Sin luz, la planta no puede hacer fotosíntesis y comienza a debilitarse, porque no fabrica su alimento
+d) No ocurre nada, porque la planta solo necesita agua
 
 ---
 
 ### Sistemas del cuerpo humano: equilibrio y salud (OA 5)
 
 **Pregunta 10.**
-¿Cuál es la unidad funcional del riñón encargada de filtrar la sangre?
+¿En qué estructura de los pulmones ocurre el intercambio de oxígeno y dióxido de carbono con la sangre?
 
-a) El alvéolo
-b) El nefrón
-c) El eritrocito
-d) La vellosidad intestinal
+a) El nefrón
+b) Los alvéolos
+c) El estómago
+d) Las vellosidades intestinales
 
 **Pregunta 11.** (Alternativas — Clasificar)
-¿Qué opción asigna correctamente cada función a su sistema?
+¿Qué opción asigna correctamente cada órgano a su sistema?
 
-a) Intercambio gaseoso en los alvéolos: respiratorio. Filtración en el nefrón: excretor. Acción de enzimas sobre alimentos: digestivo. Transporte de nutrientes por la sangre: circulatorio
-b) Intercambio gaseoso en los alvéolos: circulatorio. Filtración en el nefrón: digestivo. Acción de enzimas sobre alimentos: excretor. Transporte de nutrientes: respiratorio
-c) Intercambio gaseoso en los alvéolos: excretor. Filtración en el nefrón: respiratorio. Acción de enzimas sobre alimentos: circulatorio. Transporte de nutrientes: digestivo
-d) Todas las funciones corresponden al sistema digestivo, porque los nutrientes, los gases y los desechos se procesan en el intestino y luego pasan a la sangre
+a) Riñón: excretor. Corazón: circulatorio. Intestino delgado: digestivo. Tráquea: respiratorio
+b) Riñón: digestivo. Corazón: respiratorio. Intestino delgado: excretor. Tráquea: circulatorio
+c) Riñón: circulatorio. Corazón: excretor. Intestino delgado: respiratorio. Tráquea: digestivo
+d) Todos pertenecen al sistema digestivo
 
 **Pregunta 12.** (Alternativas — Análisis)
-Durante el ejercicio, ¿cómo interactúan los sistemas respiratorio y circulatorio para llevar oxígeno a una célula muscular?
+Después de almorzar, ¿cómo interactúan los sistemas digestivo y circulatorio para que la glucosa llegue a una neurona del cerebro?
 
-a) El sistema digestivo envía oxígeno directamente al músculo a través del intestino, sin que intervengan los pulmones ni el corazón
-b) El músculo obtiene oxígeno del aire directamente, sin intervención de la sangre, y el corazón solo late más rápido por el esfuerzo
-c) La sangre lleva CO₂ desde los pulmones al músculo para que produzca energía, y el oxígeno se queda en los alvéolos durante el ejercicio
-d) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos
+a) La glucosa viaja por el aire hasta el cerebro
+b) El cerebro produce su propia glucosa sin necesidad de la sangre
+c) La glucosa pasa del estómago directamente al cerebro por los nervios
+d) En el intestino delgado los nutrientes pasan a la sangre, y el sistema circulatorio los transporta hasta las células del cerebro
 
 ---
 
 ### Factores para mantener un cuerpo saludable (OA 7)
 
 **Pregunta 13.**
-¿Qué tipo de aporte nutricional entregan principalmente las proteínas en la
-alimentación?
+¿Qué tipo de aporte nutricional entregan principalmente las legumbres, como los porotos y las lentejas, por su contenido de proteínas?
 
-a) Energético
+a) Solo energético
 b) Constructor
-c) Regulador
-d) Ninguno de los anteriores
+c) Solo regulador
+d) Ninguno
 
 **Pregunta 14.** (Alternativas — Clasificar)
 ¿Qué clasificación de alimentos según su aporte nutricional principal es correcta?
 
-a) Energético: huevo y pescado. Constructor: pan y aceite. Regulador: naranja y espinaca
-b) Energético: pan y aceite. Constructor: huevo y pescado. Regulador: naranja y espinaca
-c) Energético: naranja y espinaca. Constructor: pan y aceite. Regulador: huevo y pescado
-d) Todos son alimentos reguladores
+a) Energético: pollo y lentejas. Constructor: arroz y mantequilla. Regulador: manzana y lechuga
+b) Energético: arroz y mantequilla. Constructor: pollo y lentejas. Regulador: manzana y lechuga
+c) Energético: manzana y lechuga. Constructor: arroz y mantequilla. Regulador: pollo y lentejas
+d) Todos son alimentos constructores
 
 **Pregunta 15.** (Varias correctas — Plan)
-¿Qué acciones forman parte de un plan simple para mantener un cuerpo saludable? Marca **todas** las correctas.
+¿Qué acciones ayudan a un adolescente a mantener un cuerpo saludable? Marca **todas** las correctas.
 
-a) Incluir en cada comida alimentos energéticos, constructores y reguladores
-b) Realizar actividad física regular, adecuada a la edad y condición
-c) Evitar el consumo de alcohol, tabaco y otras drogas
-d) Saltarse comidas para bajar de peso rápido
+a) Dormir entre 8 y 10 horas
+b) Tomar agua en lugar de bebidas azucaradas
+c) Hacer actividad física varias veces por semana
+d) Reemplazar el almuerzo por papas fritas y bebida
 
 ---
 
 ## Pauta de corrección
 
-1. d) El núcleo. El núcleo alberga el ADN y regula qué genes se activan,
-   determinando el tipo y la función de la célula.
-2. Falso — las células procariontes (como las bacterias) no tienen núcleo definido;
-   su material genético está disperso en el citoplasma.
-3. a, b y c — La membrana celular y las mitocondrias están en ambos tipos de célula; las exclusivas de la célula vegetal se vinculan con la fotosíntesis y el soporte estructural.
-4. a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular. La cantidad de un organelo en una célula suele reflejar la intensidad de la función asociada a ese organelo.
-5. d) La célula muscular es alargada y con estructuras que le permiten contraerse; la neurona tiene largas prolongaciones (axón y dendritas) para transmitir impulsos. En biología, la forma de una célula casi siempre está adaptada a la función específica que cumple en el organismo.
-6. c) La ósmosis. El agua entra a las células de la raíz por ósmosis, desde una zona
-   de mayor concentración de agua (el suelo) hacia una de menor concentración (el
-   interior celular).
-7. Falso — los estomas regulan tanto el intercambio de gases (entrada de CO₂,
-   salida de O₂) como la salida de vapor de agua durante la transpiración.
-8. a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración. Los estomas cumplen una triple función vinculada al intercambio de gases y de agua entre la planta y el ambiente; la transpiración además impulsa el ascenso de agua por el xilema.
-9. c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento. Las plantas regulan sus estomas como estrategia de adaptación frente a condiciones extremas, priorizando la supervivencia.
-10. b) El nefrón. Filtra la sangre, regula la cantidad de agua del cuerpo y
-    participa en la formación de la orina.
-11. a) Intercambio gaseoso en los alvéolos: respiratorio. Filtración en el nefrón: excretor. Acción de enzimas sobre alimentos: digestivo. Transporte de nutrientes por la sangre: circulatorio. Cada sistema tiene una función específica, pero todos actúan de forma coordinada para mantener el equilibrio del cuerpo.
-12. d) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos. Ningún sistema trabaja de forma aislada: el ejercicio evidencia su interacción coordinada.
-13. b) Constructor. Las proteínas son esenciales para el crecimiento y la
-    reparación de tejidos, especialmente importante durante la adolescencia.
-14. b) Energético: pan y aceite. Constructor: huevo y pescado. Regulador: naranja y espinaca. Una alimentación balanceada combina alimentos de los tres tipos de aporte.
-15. a, b y c — Un plan de salud efectivo combina alimentación, actividad física y prevención del consumo; saltarse comidas no es saludable.
+1. d) La mitocondria. Produce la energía de la célula mediante la respiración celular.
+2. Falso — la pared celular y los cloroplastos son exclusivos de las células vegetales.
+3. a, b y c — La membrana, el núcleo y las mitocondrias están en ambos tipos de célula; el cloroplasto y la pared celular son exclusivos de la célula vegetal.
+4. a) Porque en las hojas se realiza principalmente la fotosíntesis. La cantidad de un organelo en una célula se relaciona con su función.
+5. d) La forma de cada célula se relaciona con su función: el glóbulo rojo transporta oxígeno y los pelos absorbentes aumentan la superficie de absorción.
+6. c) El xilema. Transporta la savia bruta (agua y minerales) desde la raíz hasta las hojas.
+7. Falso — la savia elaborada se transporta por el floema, desde las hojas hacia el resto de la planta.
+8. a) La planta usa luz, agua y dióxido de carbono para fabricar glucosa, y libera oxígeno.
+9. c) Sin luz no hay fotosíntesis, y la planta no puede fabricar su alimento.
+10. b) Los alvéolos. Allí el oxígeno pasa a la sangre y el dióxido de carbono sale de ella por difusión.
+11. a) Riñón: excretor. Corazón: circulatorio. Intestino delgado: digestivo. Tráquea: respiratorio.
+12. d) Los nutrientes se absorben en el intestino delgado y la sangre los lleva a todas las células. Ningún sistema trabaja solo.
+13. b) Constructor. Las proteínas son esenciales para el crecimiento y la reparación de tejidos.
+14. b) Energético: arroz y mantequilla. Constructor: pollo y lentejas. Regulador: manzana y lechuga.
+15. a, b y c — Dormir bien, hidratarse con agua y hacer actividad física ayudan a la salud; reemplazar el almuerzo por comida chatarra no.

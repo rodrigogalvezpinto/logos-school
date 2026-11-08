@@ -16,26 +16,26 @@ ultima_actualizacion: 2026-10-28
 
 **Instrucciones:** responde todas las preguntas. En las preguntas de desarrollo, explica tu razonamiento, no solo el resultado. Tiempo sugerido: 30-35 minutos.
 
-**Pregunta 1 (alternativas).** Si un estudiante se ubica en el percentil 40 de una prueba, ¿qué significa?
-a) Obtuvo un 40% de respuestas correctas, es decir, 4 de cada 10 preguntas bien.
-b) Está entre los mejores 40 estudiantes de todos los que rindieron la prueba.
-c) Le faltó un 40% del puntaje total para alcanzar la nota de aprobación.
-d) Su resultado es igual o mejor que aproximadamente el 40% de los estudiantes.
+**Pregunta 1 (alternativas).** El peso de un recién nacido está en el percentil 80 de su grupo. ¿Qué significa?
+a) Que pesa 80 kilos
+b) Que está entre los 80 bebés más pesados del país
+c) Que le falta un 80% para el peso ideal
+d) Que su peso es igual o mayor que el de aproximadamente el 80% de los recién nacidos
 
-**Pregunta 2 (verdadero o falso).** La mediana de un conjunto de datos es lo mismo que el segundo cuartil (Q2).
+**Pregunta 2 (verdadero o falso).** El primer cuartil (Q1) deja aproximadamente el 25% de los datos por debajo de él.
 
-**Pregunta 3 (calcular).** Ordena y calcula la mediana (Q2) de este conjunto de datos: 12, 8, 15, 10, 20, 9.
-a) 10
-b) 11
-c) 12
-d) 15
+**Pregunta 3 (calcular).** Ordena y calcula la mediana de este conjunto de datos: 14, 7, 11, 18, 9, 16.
+a) 11
+b) 12,5
+c) 14
+d) 9
 
-**Pregunta 4 (Alternativas — calcular Q1 y Q3).** Tiempos ordenados de 8 estudiantes (min): 5, 8, 10, 12, 15, 18, 20, 25. ¿Cuánto valen Q1 y Q3?
+**Pregunta 4 (Alternativas — calcular Q1 y Q3).** Estaturas ordenadas de 8 estudiantes (cm): 140, 144, 148, 150, 153, 156, 160, 166. ¿Cuánto valen Q1 y Q3?
 
-a) Q1 = 9 y Q3 = 19
-b) Q1 = 8 y Q3 = 20
-c) Q1 = 10 y Q3 = 18
-d) Q1 = 13,5 y Q3 = 19
+a) Q1 = 146 y Q3 = 158
+b) Q1 = 144 y Q3 = 160
+c) Q1 = 148 y Q3 = 156
+d) Q1 = 151,5 y Q3 = 158
 
 **Pregunta 5 (Alternativas — interpretar diagrama de cajón).** El diagrama de cajón muestra cuántos minutos tardaron los estudiantes de un curso en resolver un desafío. ¿Qué porcentaje aproximado de estudiantes tardó entre 12 y 19 minutos?
 
@@ -55,20 +55,20 @@ b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estu
 c) Ambos cursos tienen exactamente el mismo rendimiento, porque sus bigotes terminan cerca
 d) 8°A tiene la nota máxima más alta, porque su mediana es mayor que la de 8°B
 
-**Pregunta 7 (Alternativas — problema no rutinario).** 12 datos tienen mínimo 2, Q1 = 5, mediana = 8, Q3 = 11 y máximo 20. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
+**Pregunta 7 (Alternativas — problema no rutinario).** Un conjunto de datos tiene mínimo 1, Q1 = 10, mediana = 12, Q3 = 14 y máximo 16. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
 
-a) El bigote inferior (3 unidades): los datos más bajos están muy dispersos y hay un valor atípico abajo
-b) La caja (6 unidades): todos los datos son iguales entre Q1 y Q3, sin ninguna dispersión
-c) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior
-d) Todas las partes miden lo mismo: la distribución es completamente simétrica alrededor de la mediana
+a) El bigote superior (2 unidades): un valor muy alto
+b) La caja (4 unidades): todos los datos son iguales
+c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico en la parte inferior
+d) Todas las partes miden lo mismo
 
-**Pregunta 8 (alternativas).** ¿Cuál de las siguientes es una forma común de manipular un gráfico de barras para exagerar una diferencia pequeña?
-a) Usar colores distintos y llamativos para cada barra del gráfico.
-b) Truncar el eje vertical, es decir, no comenzarlo en 0.
-c) Ordenar las barras de mayor a menor según el valor que representan.
-d) Agregar el valor numérico exacto sobre cada barra del gráfico.
+**Pregunta 8 (alternativas).** ¿Cuál de las siguientes es una forma de **engañar** con un gráfico de barras?
+a) Rotular claramente los ejes
+b) Dibujar las barras con anchos distintos para que una parezca mucho más grande
+c) Indicar la fuente de los datos
+d) Empezar el eje vertical en 0
 
-**Pregunta 9 (verdadero o falso).** Un gráfico circular es apropiado para mostrar cómo cambia una cantidad a lo largo de 12 meses.
+**Pregunta 9 (verdadero o falso).** Un gráfico de líneas es apropiado para mostrar cómo cambió la temperatura de una ciudad durante una semana.
 
 **Pregunta 10 (identificar manipulación).** Un gráfico de barras 3D muestra el mismo valor en dos barras, pero por el efecto de la perspectiva, una parece más alta que la otra. ¿Qué tipo de problema presenta este gráfico?
 a) Falta de título y de nombres en los ejes
@@ -76,12 +76,12 @@ b) Uso de colores incorrectos en las barras
 c) Distorsión visual por efecto de perspectiva/3D
 d) Demasiados datos para un solo gráfico
 
-**Pregunta 11 (Alternativas — elegir gráfico).** Un profesor quiere mostrar qué porcentaje de un curso de 30 estudiantes prefiere cada una de 4 actividades. ¿Qué gráfico conviene?
+**Pregunta 11 (Alternativas — elegir gráfico).** Una municipalidad quiere mostrar qué parte de su presupuesto anual se destina a salud, educación, áreas verdes y seguridad. ¿Qué gráfico conviene?
 
-a) Circular, porque muestra cómo un total (100%) se reparte entre categorías
-b) De líneas, porque muestra cómo cambian las preferencias del curso en el tiempo
-c) De tallo y hojas, porque ordena los datos numéricos de cada actividad
-d) Diagrama de cajón, porque muestra los cuartiles de las preferencias
+a) Circular, porque muestra cómo se reparte un total entre categorías
+b) De líneas, porque muestra la evolución en el tiempo
+c) De tallo y hojas, porque ordena datos numéricos
+d) Diagrama de cajón, porque muestra cuartiles
 
 **Pregunta 12 (Alternativas — detectar manipulación).** El gráfico de barras compara las ventas de una tienda en 2024 y 2025. Observa dónde parte el eje vertical. ¿Qué efecto produce y cómo se corrige?
 
@@ -92,35 +92,35 @@ b) No produce ningún efecto visual, porque los valores de las barras siguen sie
 c) Muestra la diferencia real entre las ventas de ambos años; no requiere ninguna corrección del eje vertical
 d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0
 
-**Pregunta 13 (Alternativas — comparar gráficos).** Se quiere comunicar el total anual de ventas de una tienda y el aporte de cada uno de sus 4 vendedores. ¿Qué gráfico es más apropiado?
+**Pregunta 13 (Alternativas — comparar gráficos).** Se quiere mostrar cómo cambió el número de visitantes de un museo mes a mes durante un año. ¿Qué gráfico es más apropiado?
 
-a) De líneas, porque muestra partes de un todo
-b) Circular, porque muestra partes de un todo
-c) De líneas, porque compara vendedores
-d) Ninguno de los dos
+a) Circular, porque muestra partes de un todo
+b) De líneas, porque muestra la evolución en el tiempo
+c) Circular, porque compara meses
+d) Ninguno
 
-**Pregunta 14 (Alternativas — manipulación en publicidad).** Un aviso muestra que las ventas pasaron de $10.000 a $12.000, pero con una barra que parece 5 veces más alta. ¿Qué manipulación es probable y por qué importa detectarla?
+**Pregunta 14 (Alternativas — manipulación en publicidad).** Un aviso afirma que "9 de cada 10 dentistas recomiendan" una pasta, pero en letra pequeña dice que se encuestó a solo 10 dentistas elegidos por la empresa. ¿Qué problema tiene la información?
 
-a) Ninguna: el crecimiento real de las ventas fue de 500%, como muestra la barra
-b) Un error de redondeo sin importancia, que no cambia la lectura del aviso
-c) Un eje truncado o escala no proporcional; hace creer que creció mucho más que el 20% real
-d) Un gráfico circular mal dibujado; no importa detectarlo, porque los valores son correctos
+a) Ninguno: el resultado es representativo de todos los dentistas
+b) Un error de redondeo sin importancia
+c) La muestra es muy pequeña y no fue elegida al azar, por lo que el resultado puede no representar a los dentistas en general
+d) El gráfico circular está mal dibujado
 
 ---
 
 ## Pauta de respuestas
 
 1. **d).** El percentil indica la posición relativa de un dato respecto al resto de la población.
-2. **Verdadero.** Q2 divide los datos exactamente por la mitad, igual que la mediana.
-3. **b) 11.** Ordenados: 8,9,10,12,15,20. Mediana = (10+12)/2=11.
-4. a) Q1 = 9 y Q3 = 19. Q1 es la mediana de la primera mitad (8 + 10)/2 = 9 y Q3 la de la segunda mitad (18 + 20)/2 = 19.
+2. **Verdadero.** Q1 deja el 25% de los datos por debajo; Q2 (la mediana), el 50%; Q3, el 75%.
+3. **b) 12,5.** Ordenados: 7, 9, 11, 14, 16, 18. Mediana = (11+14)/2 = 12,5.
+4. a) Q1 = 146 y Q3 = 158. Q1 es la mediana de la primera mitad (144 + 148)/2 = 146 y Q3 la de la segunda (156 + 160)/2 = 158.
 5. d) 50%. 12 y 19 son los bordes de la caja (Q1 y Q3); por definición, entre Q1 y Q3 se encuentra el 50% central de los datos.
 6. b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta. El diagrama de cajón permite comparar el valor típico (mediana) y también los valores extremos.
-7. c) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior. Un bigote mucho más largo que el otro sugiere asimetría y posibles valores extremos en esa dirección.
-8. **b) Truncar el eje vertical, es decir, no comenzarlo en 0.**
-9. **Falso.** El circular sirve para mostrar partes de un todo, no evolución en el tiempo.
+7. c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico. Un bigote mucho más largo que el otro sugiere asimetría.
+8. **b) Dibujar las barras con anchos distintos:** la diferencia visual no corresponde a la diferencia real de los datos.
+9. **Verdadero.** El gráfico de líneas muestra la evolución de una variable en el tiempo.
 10. **c) Distorsión visual por efecto de perspectiva/3D.**
-11. a) Circular, porque muestra cómo un total (100%) se reparte entre categorías. El gráfico circular es ideal para partes de un todo con pocas categorías.
+11. a) Circular, porque muestra cómo se reparte un total entre pocas categorías.
 12. d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
-13. b) Circular, porque muestra partes de un todo. El gráfico de líneas sirve para mostrar evolución en el tiempo, que no es el objetivo aquí.
-14. c) Un eje truncado o escala no proporcional; hace creer que creció mucho más que el 20% real. Comparar los valores numéricos con su representación visual ayuda a detectar manipulaciones, especialmente en publicidad.
+13. b) De líneas, porque muestra la evolución en el tiempo; el circular sirve para partes de un todo.
+14. c) La muestra es pequeña y fue elegida por la empresa: el resultado puede no ser representativo.

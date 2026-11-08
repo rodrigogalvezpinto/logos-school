@@ -18,140 +18,166 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 **Tiempo sugerido:** 30-35 minutos.
 **Cantidad de preguntas:** 15.
 
-**Instrucciones:** lee con atención cada pregunta. Si la pregunta se refiere a un texto de práctica, revisa primero la guía de estudio del OA correspondiente si necesitas recordar el texto completo. Responde en tu cuaderno o en la hoja de respuestas.
+**Instrucciones:** lee con atención cada texto y cada pregunta antes de responder.
 
 ---
 
-### Parte A — OA N°3: Analizo narraciones (texto "El legado del tío Custodio")
+### Parte A — OA N°3: Analizo narraciones (texto "El cuaderno de la señora Herminia")
 
-**1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El legado del tío Custodio"?
+*(Lee el texto «El cuaderno de la señora Herminia» y responde las preguntas 1 a 5.)*
 
-a) La falta de dinero de Custodio para sobrevivir, que lo obliga a vivir con lo mínimo y pedir ayuda a sus vecinos del pueblo
-b) La pelea entre Custodio y su padre por el taller incendiado, que los distanció durante años hasta la muerte del padre
-c) La tensión entre la imagen de "tacaño" que el pueblo construye de Custodio y la verdadera razón, oculta, de su forma de vivir
-d) La decisión del narrador de mudarse a Quirihue para cuidar a su tío y heredar la casa familiar que él le prometió
+> En Lota todos decían que mi tía abuela Herminia era tacaña. Nunca invitaba a nadie, usaba el mismo abrigo gris desde que yo tenía memoria y regateaba hasta el pan. Yo, de niño, repetía lo mismo que los vecinos y me burlaba de ella a sus espaldas.
+>
+> Cuando murió, me tocó ordenar su casa. En el velador encontré una lámpara de minero que ya no encendía y, debajo, un cuaderno de tapas negras. Página tras página había nombres de niños y montos de dinero: matrículas, uniformes, pasajes a Concepción. Al final, una línea escrita con letra temblorosa: "Desde que la mina se llevó a Arturo, prometí que ningún hijo de minero dejaría de estudiar".
+>
+> Volví a mirar la lámpara apagada de mi tío abuelo. Entendí que su abrigo gris y sus regateos habían pagado los estudios de medio barrio. Esa tarde, por primera vez, sentí vergüenza de lo que yo había dicho de ella.
 
-**2. (Alternativas)** ¿Cómo evoluciona el narrador (el sobrino) en su relación con su tío Custodio?
+**1. (Alternativas)** ¿Cuál es el conflicto central del texto "El cuaderno de la señora Herminia"?
 
-a) Pasa de la incomprensión y el prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras la muerte de Custodio el motivo de su forma de vivir
-b) Admira a su tío desde el comienzo, a diferencia del pueblo, y nunca cambia de opinión, porque siempre supo el motivo de su forma de vivir y lo defendió frente a todos
-c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había escondido dinero a su familia
-d) No tiene ninguna relación con su tío: lo conoce solo por lo que cuenta el pueblo y su mirada sobre él no cambia a lo largo del relato
+a) La falta de dinero de Herminia para comprar un abrigo nuevo
+b) La pelea entre Herminia y los vecinos por el precio del pan
+c) La tensión entre la imagen de "tacaña" que el pueblo construye de Herminia y la verdadera razón, oculta, de su forma de vivir
+d) La decisión del narrador de mudarse a Lota para heredar la casa
 
-**3. (Verdadero o Falso)** El narrador del fragmento y el autor de la novela *Las llaves de la casa vieja* son necesariamente la misma persona, con las mismas ideas y experiencias.
+**2. (Alternativas)** ¿Cómo evoluciona el narrador en su relación con su tía abuela?
 
-**4. (Alternativas — Aplicación)** ¿Por qué la llave oxidada puede considerarse un **símbolo** en el relato?
+a) Pasa del prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras su muerte el motivo de su forma de vivir
+b) La admira desde el comienzo y nunca cambia de opinión
+c) Comienza defendiéndola, pero termina despreciándola al leer el cuaderno
+d) No tiene ninguna relación con ella y su mirada no cambia
 
-a) Porque abre la puerta de la casa de Custodio, donde el narrador encuentra los ahorros que su tío guardó para la familia durante años
-b) Porque es el objeto más valioso del relato: está hecha de un metal antiguo que Custodio pensaba vender para salir de la pobreza
-c) Porque el narrador la pierde al final del relato y, con ella, pierde también la posibilidad de conocer la verdadera historia de su tío
-d) Porque, aunque no abre ninguna puerta, representa la promesa que Custodio se hizo tras la ruina de su padre: su forma de entender el ahorro y el amor por su familia
+**3. (Verdadero o Falso)** El narrador del texto y su autor son necesariamente la misma persona, con las mismas ideas y experiencias.
 
-**5. (Alternativas)** ¿A qué personaje tipo corresponde inicialmente Custodio, antes de que el relato revele el verdadero motivo de su comportamiento?
+**4. (Alternativas — Aplicación)** ¿Por qué la lámpara de minero apagada puede considerarse un **símbolo** en el relato?
 
-a) El pícaro
+a) Porque es el objeto más caro de la casa y Herminia pensaba venderlo
+b) Porque el narrador la usa para leer el cuaderno de noche
+c) Porque el narrador la pierde al final del relato
+d) Porque, aunque ya no alumbra, representa la memoria de Arturo y la promesa que Herminia cumplió en silencio con los hijos de los mineros
+
+**5. (Alternativas)** ¿A qué personaje tipo corresponde inicialmente Herminia, antes de que el relato revele el motivo de su comportamiento?
+
+a) La pícara
 b) La madrastra
-c) El sabio
-d) El avaro
+c) La sabia
+d) La avara
 
 ---
 
-### Parte B — OA N°4: Analizo poemas (poema "Letanía del pescador")
+### Parte B — OA N°4: Analizo poemas (poema "Letanía del arriero")
 
-**6. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "vuelvo" a lo largo del poema?
+*(Lee el poema «Letanía del arriero» y responde las preguntas 6 a 10.)*
 
-a) Confunde al lector sobre el tema del poema, porque no se sabe si el hablante vuelve o se va
-b) No produce ningún efecto relevante: la repetición solo completa la medida de los versos
-c) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera evitar regresar al mar
-d) Indica que el poema tiene errores de redacción que el autor no alcanzó a corregir
+> Subo, subo, subo, como sube la niebla,
+> aunque la cordillera no me espere;
+> subo porque arriba está mi padre,
+> subo aunque el frío me muerda las manos.
+>
+> Subo, subo, subo, con el piño callado,
+> subo porque el valle ya no me conoce;
+> subo aunque la nieve borre el sendero,
+> subo, subo, subo, y la montaña me nombra.
 
-**7. (Alternativas)** ¿Qué idea transmite la comparación "vuelvo, vuelvo, vuelvo, como vuelve la marea"?
+**6. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "subo" a lo largo del poema?
 
-a) Que el regreso del hablante al mar es constante, cíclico y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor
-b) Que el hablante nunca vuelve realmente al mar: solo lo recuerda desde lejos, porque el dolor que le causó le impide regresar
-c) Que la marea está detenida y el mar ya no se mueve, igual que la vida del pescador después de abandonar su oficio
-d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor
+a) Confunde al lector, porque no se sabe si el hablante sube o baja
+b) No produce ningún efecto: solo completa la medida de los versos
+c) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera dejar de volver a la montaña
+d) Indica errores de redacción que el autor no corrigió
 
-**8. (Verdadero o Falso)** El poema "Letanía del pescador" no presenta ningún recurso de repetición de estructuras sintácticas.
+**7. (Alternativas)** ¿Qué idea transmite la comparación "Subo, subo, subo, como sube la niebla"?
 
-**9. (Alternativas — Aplicación)** ¿Qué figura hay en "aunque el mar no me perdone" y qué efecto produce?
+a) Que el regreso del hablante a la montaña es constante y casi natural, como un fenómeno que se repite inevitablemente
+b) Que el hablante nunca sube realmente: solo recuerda la montaña desde lejos
+c) Que la niebla está detenida y no se mueve
+d) Que el hablante prefiere el mar y vuelve a él una y otra vez
 
-a) Una hipérbole: exagera el tamaño y la fuerza del mar, sugiriendo que el pescador le teme más que a cualquier otra cosa
-b) Una aliteración: repite el sonido "m" para imitar el ruido de las olas, sugiriendo la calma del mar en la mañana
-c) Una personificación: atribuye al mar la capacidad humana de perdonar, sugiriendo un vínculo casi humano de afecto y reproche
-d) Una enumeración: lista los elementos del mar que el pescador extraña, sugiriendo nostalgia por su antiguo oficio
+**8. (Verdadero o Falso)** El poema "Letanía del arriero" no presenta ningún recurso de repetición de estructuras sintácticas.
 
-**10. (Alternativas)** El título del poema, "Letanía del pescador", se relaciona principalmente con:
+**9. (Alternativas — Aplicación)** ¿Qué figura hay en "aunque la cordillera no me espere" y qué efecto produce?
 
-a) La ausencia total de repeticiones en el poema, que lo hace parecer una conversación espontánea
+a) Una hipérbole: exagera el tamaño de la cordillera
+b) Una aliteración: repite un sonido para imitar el viento
+c) Una personificación: atribuye a la cordillera la capacidad humana de esperar, sugiriendo un vínculo casi afectivo con ella
+d) Una enumeración: lista los elementos de la montaña
+
+**10. (Alternativas)** El título del poema, "Letanía del arriero", se relaciona principalmente con:
+
+a) La ausencia total de repeticiones, que lo hace parecer una conversación espontánea
 b) El efecto de rezo o plegaria repetitiva que producen las estructuras que se repiten en cada estrofa
-c) Un error de traducción del poema, que originalmente se titulaba de otra manera en su idioma
-d) La descripción exclusivamente visual del paisaje marino, sin referencias a sonidos ni emociones
+c) Un error en el título original del poema
+d) La descripción exclusivamente visual del paisaje
 
 ---
 
-### Parte C — OA N°8: Formulo una interpretación coherente de textos literarios (texto "La noche del río")
+### Parte C — OA N°8: Formulo una interpretación coherente de textos literarios (texto "La noche de la ola")
 
-**11. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Marisol en el relato?
+*(Lee el texto «La noche de la ola» y responde las preguntas 11 a 15.)*
 
-a) Elegir entre estudiar o trabajar después del terremoto, para ayudar a su madre a reconstruir la casa
-b) Decidir si sigue corriendo hacia el cerro junto a su madre o se detiene a ayudar a don Aurelio, arriesgando tiempo valioso en una emergencia
-c) Decidir si le cuenta o no a su madre que don Aurelio había quedado atrapado en su casa junto al río, para no asustarla mientras corren hacia el cerro
-d) Elegir entre dos caminos igual de seguros hacia el cerro, sin saber cuál de los dos es más corto
+> Tomé, madrugada del 27 de febrero de 2010. El terremoto había despertado a todo el barrio y los vecinos corrían hacia el cerro, porque el mar podía salir. Josefa, de catorce años, subía de la mano de su madre cuando escuchó gritos desde una casa junto a la playa: era don Ernesto, que usaba silla de ruedas y no podía salir solo.
+>
+> Josefa se detuvo. Cada minuto contaba. Su madre la miró, dudó un segundo y asintió. Entre las dos empujaron la silla por la cuesta, mientras abajo el agua comenzaba a entrar a las calles. Llegaron al cerro sin aliento. Don Ernesto no dejaba de llorar y de repetir: "No me dejaron solo".
 
-**12. (Alternativas — postura fundamentada)** Frente al dilema de Marisol, ¿qué respuesta es un posicionamiento fundamentado que considera el riesgo real?
+**11. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Josefa en el relato?
 
-a) "Creo que acertó al detenerse, porque don Aurelio no podía salvarse solo, aunque la posible crecida del río ponía en peligro su vida"
-b) "Creo que acertó porque sí, porque ayudar a los demás siempre es lo correcto, sin importar lo que pase"
-c) "No hubo ningún riesgo real en detenerse, porque el río estaba lejos, así que daba lo mismo lo que decidiera Marisol en ese momento"
-d) "Marisol es mi personaje favorito del relato, porque es valiente y me recuerda a mi hermana mayor"
+a) Elegir entre estudiar o trabajar después del terremoto
+b) Decidir si sigue corriendo hacia el cerro o se detiene a ayudar a don Ernesto, arriesgando tiempo valioso en una emergencia
+c) Decidir si le cuenta a su madre que perdió su celular
+d) Elegir entre dos caminos igual de seguros hacia el cerro
 
-**13. (Verdadero o Falso)** El terremoto y maremoto de Valdivia de 1960 mencionado en el relato es un hecho ficticio, inventado por el autor para ambientar la historia.
+**12. (Alternativas — postura fundamentada)** Frente al dilema de Josefa, ¿qué respuesta es un posicionamiento fundamentado que considera el riesgo real?
+
+a) "Creo que acertó al detenerse, porque don Ernesto no podía salvarse solo, aunque la llegada del agua ponía en peligro su vida"
+b) "Creo que acertó porque sí, porque ayudar siempre es lo correcto, sin importar lo que pase"
+c) "No hubo ningún riesgo real, porque el mar estaba lejos"
+d) "Josefa es mi personaje favorito porque me recuerda a mi prima"
+
+**13. (Verdadero o Falso)** El terremoto y tsunami del 27 de febrero de 2010 mencionado en el relato es un hecho ficticio, inventado para ambientar la historia.
 
 **14. (Alternativas — Aplicación)** ¿Qué visión de mundo transmite el relato y en qué acciones se sustenta?
 
-a) Una en que cada persona debe salvarse sola frente a una catástrofe, sustentada en que nadie del pueblo ayuda a don Aurelio
-b) Una en que las catástrofes no afectan realmente a las personas, sustentada en que todos los vecinos llegan al cerro sin problemas y vuelven a sus casas esa misma noche
-c) Una visión pesimista sobre la naturaleza que no se puede vincular con ninguna acción de los personajes del relato
-d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Marisol y su madre de rescatar a don Aurelio
+a) Una en que cada persona debe salvarse sola, sustentada en que nadie ayuda a don Ernesto
+b) Una en que las catástrofes no afectan a las personas, sustentada en que todos vuelven a casa esa noche
+c) Una visión pesimista que no se vincula con ninguna acción de los personajes
+d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Josefa y su madre de rescatar a don Ernesto
 
-**15. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el relato "La noche del río"?
+**15. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el relato "La noche de la ola"?
 
 a) El terremoto de Valparaíso de 1906
-b) El terremoto y maremoto de Valdivia de 1960
-c) El terremoto del Maule de 2010
+b) El terremoto y tsunami del 27 de febrero de 2010
+c) El terremoto de Valdivia de 1960
 d) La erupción del volcán Chaitén de 2008
 
 ---
 
 ## Pauta de respuestas
 
-**1.** c) La tensión entre la imagen de "tacaño" que el pueblo construye de Custodio y la verdadera razón, oculta, de su forma de vivir. *Retroalimentación: el conflicto central organiza toda la historia y explica tanto las acciones de Custodio como la evolución de la mirada del narrador hacia él.*
+**1.** c) La tensión entre la imagen de "tacaña" que el pueblo construye de Herminia y la verdadera razón, oculta, de su forma de vivir. *Retroalimentación: el conflicto central organiza todo el relato y explica el cambio del narrador.*
 
-**2.** a) Pasa de la incomprensión y el prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras la muerte de Custodio el motivo de su forma de vivir. Describir la evolución de un personaje implica comparar cómo era y pensaba al inicio con cómo termina.
+**2.** a) Pasa del prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva. *Retroalimentación: la evolución se ve en el contraste entre sus burlas de niño y la vergüenza que siente al final.*
 
-**3.** Falso. *Retroalimentación: el narrador es una voz construida dentro del relato (en este caso, un personaje que participa en la historia), mientras que el autor es la persona real que escribió la novela; ambos pueden pensar distinto y no deben confundirse.*
+**3.** Falso. *Retroalimentación: el narrador es una voz construida dentro del relato; no se debe confundir con el autor.*
 
-**4.** d) Porque, aunque no abre ninguna puerta, representa la promesa que Custodio se hizo tras la ruina de su padre: su forma de entender el ahorro y el amor por su familia. Un símbolo es un elemento concreto que representa una idea, un valor o un sentimiento más allá de su significado literal.
+**4.** d) Porque, aunque ya no alumbra, representa la memoria de Arturo y la promesa que Herminia cumplió en silencio. *Retroalimentación: un símbolo es un objeto que representa una idea más allá de su significado literal.*
 
-**5.** d) El avaro. *Retroalimentación: el avaro es un personaje tipo recurrente en la literatura, asociado a la obsesión por no gastar dinero; el relato inicialmente presenta a Custodio así, para luego subvertir esa imagen.*
+**5.** d) La avara. *Retroalimentación: el avaro es un personaje tipo asociado a la obsesión por no gastar; el relato desmonta esa imagen al revelar sus motivos.*
 
-**6.** c) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera evitar regresar al mar. *Retroalimentación: la repetición insistente de una palabra al inicio de varios versos (anáfora) es un recurso poético consciente que refuerza el sentido de obsesión o fidelidad hacia el mar.*
+**6.** c) Produce un efecto de insistencia y obsesión. *Retroalimentación: la repetición de "subo" marca el ritmo y la necesidad del hablante de volver a la montaña.*
 
-**7.** a) Que el regreso del hablante al mar es constante, cíclico y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor. Interpretar una comparación implica explicar qué característica del segundo elemento (la marea, que siempre vuelve) se traslada al primero.
+**7.** a) Que el regreso del hablante a la montaña es constante y casi natural. *Retroalimentación: la comparación con la niebla que sube sugiere algo que ocurre una y otra vez, inevitablemente.*
 
-**8.** Falso. *Retroalimentación: varios versos repiten la estructura "vuelvo aunque..." o "vuelvo porque...", lo que constituye una repetición de estructura sintáctica (un tipo de paralelismo) que refuerza el efecto de letanía del poema.*
+**8.** Falso. *Retroalimentación: los versos repiten las estructuras "subo porque..." y "subo aunque...", un paralelismo sintáctico.*
 
-**9.** c) Una personificación: atribuye al mar la capacidad humana de perdonar, sugiriendo un vínculo casi humano de afecto y reproche. Reconocer una personificación exige identificar una capacidad humana atribuida a algo que no es humano.
+**9.** c) Una personificación. *Retroalimentación: se atribuye a la cordillera una acción humana (esperar).*
 
-**10.** b) El efecto de rezo o plegaria repetitiva que producen las estructuras que se repiten en cada estrofa. *Retroalimentación: una letanía es, tradicionalmente, una oración repetitiva; el título anticipa el efecto de insistencia y repetición que el poema construye mediante la anáfora y el paralelismo sintáctico.*
+**10.** b) El efecto de rezo o plegaria repetitiva. *Retroalimentación: una letanía es una oración formada por invocaciones que se repiten.*
 
-**11.** b) Decidir si sigue corriendo hacia el cerro junto a su madre o se detiene a ayudar a don Aurelio, arriesgando tiempo valioso en una emergencia. *Retroalimentación: el dilema es la disyuntiva concreta entre la seguridad inmediata (seguir corriendo) y la ayuda a otro en riesgo (detenerse), ambas con consecuencias importantes.*
+**11.** b) Decidir si sigue corriendo hacia el cerro o se detiene a ayudar a don Ernesto. *Retroalimentación: el dilema enfrenta su seguridad con la ayuda a otra persona.*
 
-**12.** a) "Creo que acertó al detenerse, porque don Aurelio no podía salvarse solo, aunque la posible crecida del río ponía en peligro su vida". También podría fundamentarse la postura contraria; lo importante es sopesar honestamente los riesgos y beneficios presentes en el texto.
+**12.** a) "Creo que acertó al detenerse, porque don Ernesto no podía salvarse solo, aunque la llegada del agua ponía en peligro su vida". *Retroalimentación: una postura fundamentada se apoya en el texto y reconoce el riesgo real.*
 
-**13.** Falso. *Retroalimentación: el terremoto de Valdivia de 1960 es un hecho histórico real, el de mayor magnitud registrada instrumentalmente en el mundo; conocer este contexto histórico real es clave para dimensionar el peligro que enfrentan los personajes.*
+**13.** Falso. *Retroalimentación: el terremoto y tsunami del 27 de febrero de 2010 es un hecho real que afectó a localidades como Tomé, Dichato y Constitución.*
 
-**14.** d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Marisol y su madre de rescatar a don Aurelio. Una interpretación es coherente cuando puede respaldarse con hechos concretos del propio relato.
+**14.** d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual. *Retroalimentación: la visión de mundo se sustenta en las acciones de los personajes.*
 
-**15.** b) El terremoto y maremoto de Valdivia de 1960. *Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden directamente al terremoto de mayor magnitud jamás registrado en el mundo.*
+**15.** b) El terremoto y tsunami del 27 de febrero de 2010. *Retroalimentación: el texto sitúa explícitamente los hechos en Tomé, en esa fecha.*

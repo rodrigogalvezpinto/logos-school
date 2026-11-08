@@ -24,35 +24,33 @@ Ilustración y la independencia de Hispanoamérica y de Chile.
 
 ---
 
-**1. (Alternativas)** ¿Qué proceso quebró la unidad religiosa de la Europa occidental medieval?
+**1. (Alternativas)** ¿Qué movimiento cultural de los siglos XV y XVI puso al ser humano en el centro de la reflexión y revalorizó la cultura grecorromana?
 
-a) La Revolución neolítica
-b) La caída del Imperio romano de Occidente
-c) La Reforma protestante
-d) La fundación de las universidades medievales
-
----
-
-**2. (Verdadero o Falso)** La imprenta permitió que las ideas y los textos se difundieran de
-forma mucho más rápida y masiva que en la época de los manuscritos copiados a mano.
+a) El feudalismo
+b) La Contrarreforma
+c) El Humanismo y el Renacimiento
+d) El mercantilismo
 
 ---
 
-**3. (Alternativas)** ¿Cuál de los siguientes rasgos caracteriza al Estado moderno, a diferencia
-de la organización política medieval?
-
-a) El poder disperso entre múltiples señores feudales y sus vasallos
-b) La total autonomía de las ciudades frente al rey y sus funcionarios
-c) La ausencia total de impuestos para financiar al gobierno central
-d) Un ejército profesional pagado y controlado por la Corona
+**2. (Verdadero o Falso)** Galileo Galilei observó el cielo con un telescopio y aportó evidencia a favor de la teoría heliocéntrica.
 
 ---
 
-**4. (Alternativas — unir)** Une cada rasgo del Estado moderno con su función:
+**3. (Alternativas)** ¿Cuál de los siguientes rasgos caracteriza al Estado moderno?
+
+a) Que cada señor feudal tenga sus propias leyes
+b) Que no existan funcionarios
+c) Que no se cobren impuestos
+d) Un poder centralizado en el rey, con funcionarios que administran todo el territorio
+
+---
+
+**4. (Alternativas — unir)** Une cada rasgo del Estado moderno con un ejemplo:
 
 1) Burocracia — 2) Sistema fiscal centralizado — 3) Ejército profesional
 
-Funciones: (A) Permite al rey defender y expandir el territorio de forma independiente de los señores feudales — (B) Administra el territorio en nombre del rey, reemplazando el poder disperso de los señores locales — (C) Otorga al rey recursos propios y mayor independencia financiera
+Ejemplos: (A) Soldados pagados por la Corona de forma permanente — (B) Funcionarios reales que aplican las órdenes del rey en las provincias — (C) Recaudadores que cobran impuestos para el reino
 
 ¿Qué combinación es correcta?
 
@@ -63,106 +61,99 @@ d) 1-B, 2-A, 3-C
 
 ---
 
-**5. (Alternativas)** Según el mercantilismo, ¿cómo se medía principalmente la riqueza de un
-reino?
+**5. (Alternativas)** Según el mercantilismo, ¿qué debía hacer un reino para enriquecerse?
 
-a) Por la cantidad de tierras cultivadas que pertenecían a la nobleza del reino
-b) Por el número de universidades y bibliotecas que poseían sus principales ciudades
-c) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
-d) Por la cantidad de población que vivía en sus ciudades
-
----
-
-**6. (Verdadero o Falso)** La revolución de los precios se refiere a una fuerte alza sostenida de
-los precios en Europa, provocada en parte por la llegada masiva de plata americana.
+a) Importar más de lo que exporta
+b) Eliminar todos los impuestos
+c) Exportar más de lo que importa para acumular oro y plata
+d) Prohibir el comercio con sus colonias
 
 ---
 
-**7. (Alternativas)** ¿Qué postura defendió Bartolomé de las Casas en el debate de Valladolid?
-
-a) Que los indígenas eran seres humanos racionales, con plenos derechos
-b) Que los indígenas eran seres inferiores, cuyo sometimiento estaba justificado
-c) Que los indígenas debían ser exterminados
-d) Que la Conquista de América no había ocurrido
+**6. (Verdadero o Falso)** Gracias a la imprenta, la Biblia y las ideas de Lutero pudieron difundirse rápidamente por Europa.
 
 ---
 
-**8. (Alternativas)** ¿Qué opción asigna correctamente las posturas del debate de Valladolid?
+**7. (Alternativas)** ¿Qué postura defendió Juan Ginés de Sepúlveda en el debate de Valladolid?
 
-a) Bartolomé de las Casas defendió la "esclavitud natural" para justificar la Conquista; Juan Ginés de Sepúlveda denunció los abusos y defendió la humanidad racional de los indígenas
-b) Ambos defendieron la "esclavitud natural" de los indígenas, pero Las Casas pidió que se aplicara con menos violencia que la propuesta por Sepúlveda
-c) Ambos negaron que los indígenas fueran seres humanos racionales, y discutieron solo si la Corona debía permitir o no la encomienda en América
-d) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento
-
----
-
-**9. (Alternativas)** ¿Qué era la "mita" en la sociedad colonial americana?
-
-a) Un impuesto que solo pagaban los criollos por el comercio con España
-b) Un tribunal encargado de juzgar a los encomenderos que abusaban de los indígenas
-c) Una fiesta religiosa de origen indígena que la Iglesia permitió celebrar
-d) Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
+a) Que el sometimiento de los indígenas estaba justificado por una supuesta "inferioridad natural"
+b) Que los indígenas tenían plenos derechos
+c) Que la Conquista debía detenerse
+d) Que los indígenas debían gobernar España
 
 ---
 
-**10. (Verdadero o Falso)** La sociedad colonial americana era estamental, es decir, estaba
-organizada en distintos grupos o castas según el origen étnico y familiar de las personas.
+**8. (Alternativas)** ¿Qué opción describe correctamente las Leyes Nuevas de 1542?
+
+a) Eliminaron la evangelización
+b) Permitieron esclavizar a todos los indígenas
+c) Obligaron a los criollos a volver a España
+d) Buscaron limitar los abusos de la encomienda y prohibieron esclavizar a los indígenas, en parte por las denuncias de Las Casas
 
 ---
 
-**11. (Alternativas)** ¿Qué consecuencia territorial tuvo el fracaso de la conquista española de
-Arauco?
+**9. (Alternativas)** ¿Qué era la encomienda en la sociedad colonial americana?
 
-a) Los españoles conquistaron completamente el territorio mapuche y fundaron ciudades al sur del Biobío
-b) El pueblo mapuche fue trasladado forzosamente al norte de Chile para trabajar en las minas
-c) Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo al sur
-d) Se prohibió cualquier tipo de contacto entre españoles y mapuches
+a) Un impuesto que solo pagaban los criollos
+b) Un tribunal de justicia
+c) Una fiesta religiosa
+d) Un sistema en que un español recibía el trabajo o tributo de un grupo de indígenas, a cambio de evangelizarlos
 
 ---
 
-**12. (Alternativas)** ¿Qué pensador ilustrado propuso la separación y el equilibrio de los
-poderes del Estado?
+**10. (Verdadero o Falso)** En la sociedad colonial, los criollos eran los hijos de españoles nacidos en América.
+
+---
+
+**11. (Alternativas)** ¿Qué fueron los parlamentos entre españoles y mapuches durante la Colonia?
+
+a) Batallas para conquistar todo el territorio mapuche
+b) Juicios contra los mapuches
+c) Encuentros diplomáticos para negociar la paz, el comercio y el reconocimiento de la frontera
+d) Reuniones del cabildo de Santiago
+
+---
+
+**12. (Alternativas)** ¿Qué pensador ilustrado propuso que la soberanía reside en el pueblo y que la ley debe expresar la voluntad general?
 
 a) Martín Lutero
-b) Montesquieu
+b) Jean-Jacques Rousseau
 c) Bartolomé de las Casas
-d) Galileo Galilei
+d) Nicolás Copérnico
 
 ---
 
-**13. (Alternativas)** ¿Qué acontecimiento europeo de 1808 desencadenó la crisis de la monarquía
-española que abrió paso a los procesos independentistas americanos?
+**13. (Alternativas)** ¿Qué ideas influyeron en los criollos que lideraron la independencia de Chile?
 
-a) La Reforma protestante iniciada por Martín Lutero en Alemania
-b) La invasión napoleónica a España y la caída de Fernando VII
-c) El Concilio de Trento y la Contrarreforma
-d) La Revolución científica y el heliocentrismo
+a) Las ideas del absolutismo
+b) Las ideas de la Ilustración y el ejemplo de la independencia de Estados Unidos
+c) Las ideas del feudalismo
+d) Las ideas de la Contrarreforma
 
 ---
 
-**14. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) Reconquista española, (2) Primera Junta de Gobierno, (3) Independencia declarada, (4) Batalla de Chacabuco.
+**14. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) Batalla de Maipú, (2) Cabildo abierto de 1810, (3) Batalla de Rancagua, (4) Batalla de Chacabuco.
 
-a) 2 → 4 → 1 → 3
-b) 2 → 1 → 4 → 3
-c) 1 → 2 → 4 → 3
-d) 2 → 1 → 3 → 4
+a) 2 → 4 → 3 → 1
+b) 2 → 3 → 4 → 1
+c) 3 → 2 → 4 → 1
+d) 2 → 3 → 1 → 4
 
 ---
 
 ## Pauta de respuestas
 
-1. **c)** La Reforma protestante
-2. **Verdadero**
-3. **d)** Un ejército profesional pagado y controlado por la Corona
-4. a) 1-B, 2-C, 3-A. Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
-5. **c)** Por la cantidad de metales preciosos (oro y plata) que lograba acumular
-6. **Verdadero**
-7. **a)** Que los indígenas eran seres humanos racionales, con plenos derechos
-8. d) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento. Este debate ilustra cómo la Conquista generó profundas discusiones morales dentro de la propia cultura europea.
-9. **d)** Un sistema de trabajo obligatorio y rotativo, usado especialmente en la minería
-10. **Verdadero**
-11. **c)** Se estableció una frontera de facto en el río Biobío, con territorio mapuche autónomo
-    al sur
-12. **b)** Montesquieu
-13. **b)** La invasión napoleónica a España y la caída de Fernando VII
-14. b) 2 → 1 → 4 → 3. Primera Junta (1810), Reconquista (1814-1817), Chacabuco (1817) y declaración de la Independencia (1818).
+1. **c)** El Humanismo y el Renacimiento.
+2. **Verdadero** — sus observaciones apoyaron la idea de que la Tierra gira alrededor del Sol.
+3. **d)** Un poder centralizado en el rey, con funcionarios (burocracia) que administran el territorio.
+4. a) 1-B, 2-C, 3-A.
+5. **c)** Exportar más de lo que importa, para acumular metales preciosos.
+6. **Verdadero** — la imprenta permitió difundir textos de forma rápida y masiva, lo que impulsó la Reforma.
+7. **a)** Que el sometimiento de los indígenas estaba justificado, idea que hoy se considera inaceptable.
+8. d) Buscaron limitar los abusos de la encomienda y prohibieron esclavizar a los indígenas.
+9. **d)** Un sistema en que un español recibía el trabajo o tributo de indígenas a cambio de evangelizarlos; en la práctica dio lugar a muchos abusos.
+10. **Verdadero** — la sociedad colonial se organizaba en grupos según su origen: peninsulares, criollos, mestizos, indígenas y africanos esclavizados.
+11. **c)** Encuentros diplomáticos que mostraron que la frontera del Biobío fue también un espacio de negociación.
+12. **b)** Jean-Jacques Rousseau.
+13. **b)** Las ideas de la Ilustración y el ejemplo de la independencia de Estados Unidos y de la Revolución Francesa.
+14. b) 2 → 3 → 4 → 1. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817) y Maipú (1818).

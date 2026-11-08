@@ -22,27 +22,24 @@ Ilustración y la Revolución Francesa, y su vigencia actual en los Derechos Hum
 
 ---
 
-**1. (Alternativas)** ¿En qué contexto histórico se aprobó la Declaración de los Derechos del
-Hombre y del Ciudadano?
+**1. (Alternativas)** ¿Qué corriente de pensamiento inspiró la Declaración de los Derechos del Hombre y del Ciudadano de 1789?
 
-a) La caída del Imperio romano de Occidente
-b) La conquista de América
-c) La Revolución Francesa de 1789
-d) La Guerra de Arauco en Chile
-
----
-
-**2. (Verdadero o Falso)** Existe una clara línea de continuidad entre los principios de la
-Declaración de los Derechos del Hombre y del Ciudadano de 1789 y la actual Declaración Universal
-de los Derechos Humanos de 1948.
+a) El absolutismo monárquico
+b) El feudalismo
+c) La Ilustración
+d) El mercantilismo
 
 ---
 
-**3. (Alternativas — unir)** Une cada principio de la declaración de 1789 con la idea que lo fundamenta:
+**2. (Verdadero o Falso)** La Declaración Universal de los Derechos Humanos de 1948 rechazó por completo las ideas de la Revolución Francesa.
 
-1) La ley es expresión de la voluntad general — 2) Todos nacen libres e iguales en derechos — 3) La soberanía reside esencialmente en la nación
+---
 
-Ideas: (A) Principio ilustrado de igualdad ante la ley — (B) Idea de Rousseau de que las leyes deben reflejar lo que decide la comunidad — (C) Rechazo al derecho divino: el poder no pertenece al rey, sino a la nación
+**3. (Alternativas — unir)** Une cada pensador ilustrado con su idea principal:
+
+1) Montesquieu — 2) Rousseau — 3) Locke
+
+Ideas: (A) La soberanía reside en el pueblo y la ley expresa la voluntad general — (B) La separación de los poderes del Estado — (C) Las personas tienen derechos naturales, como la vida, la libertad y la propiedad
 
 ¿Qué combinación es correcta?
 
@@ -53,30 +50,30 @@ d) 1-B, 2-C, 3-A
 
 ---
 
-**4. (Alternativas)** Según la declaración de 1789, ¿en qué consiste el principio de soberanía nacional?
+**4. (Alternativas)** ¿En qué consiste el principio de **separación de los poderes** del Estado?
 
-a) En que el poder del rey proviene directamente de Dios, y por eso la nación debe obedecerlo sin cuestionar sus decisiones ni su autoridad
-b) En que solo la nobleza puede gobernar, porque es el grupo más preparado de la nación para ejercer el poder en nombre de todos los demás
-c) En que la nación debe obedecer siempre al rey, que representa su voluntad y concentra todos los poderes del Estado de manera absoluta
-d) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey
-
----
-
-**5. (Alternativas — análisis de fuente)** Compara: "los hombres nacen y permanecen libres e iguales en derechos" (1789) y "todos los seres humanos nacen libres e iguales en dignidad y derechos" (1948). ¿Qué vínculo existe entre ambos textos?
-
-a) Una contradicción: la Declaración de 1948 rechaza la igualdad de derechos que proclamaba la de 1789 y la reemplaza por la dignidad
-b) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad
-c) Ninguno: tratan temas distintos, porque la de 1789 habla de política y la de 1948 solo de la dignidad de las personas
-d) La declaración de 1789 copió textualmente la de 1948, por lo que ambas dicen exactamente lo mismo con las mismas palabras
+a) En que el rey concentra todos los poderes por derecho divino
+b) En que solo la nobleza puede gobernar
+c) En que la nación debe obedecer siempre al rey
+d) En que las funciones de hacer las leyes, ejecutarlas y juzgar están en manos de órganos distintos, para evitar abusos de poder
 
 ---
 
-**6. (Alternativas — desafiante)** ¿Qué limitación tuvo en la práctica la declaración de 1789 y por qué es relevante hoy?
+**5. (Alternativas — análisis de fuente)** Compara: "la libre comunicación de los pensamientos y de las opiniones es uno de los derechos más preciosos del hombre" (1789) y "todo individuo tiene derecho a la libertad de opinión y de expresión" (1948). ¿Qué vínculo existe entre ambos textos?
 
-a) No tuvo ninguna limitación en la práctica: se aplicó a todas las personas por igual, incluidas las mujeres, y por eso hoy ya no es necesario discutir sobre derechos
-b) Prohibió la igualdad ante la ley, porque mantuvo los privilegios de la nobleza y del clero, lo que hoy no tiene relevancia porque esos grupos ya no existen
-c) Aunque proclamaba la igualdad, excluyó a grupos como las mujeres de derechos políticos plenos, lo que muestra que reconocer un derecho no garantiza su aplicación real
-d) Solo se aplicó a los reyes y a la nobleza, que fueron los únicos que obtuvieron derechos políticos, lo que hoy es relevante solo para estudiar la historia de Francia
+a) Una contradicción: la de 1948 prohíbe expresar opiniones
+b) Una continuidad: la de 1948 retoma la libertad de expresión de 1789 y la extiende a todo individuo
+c) Ninguno: tratan temas distintos
+d) Son textos idénticos, palabra por palabra
+
+---
+
+**6. (Alternativas — desafiante)** En 1791, Olympe de Gouges escribió la Declaración de los Derechos de la Mujer y de la Ciudadana. ¿Qué muestra este hecho sobre la declaración de 1789?
+
+a) Que la declaración de 1789 ya incluía plenamente a las mujeres
+b) Que las mujeres no querían tener derechos
+c) Que, aunque proclamaba la igualdad, la declaración de 1789 excluía a las mujeres de derechos políticos plenos, y hubo que reclamarlos
+d) Que solo los reyes tenían derechos
 
 ---
 
@@ -139,12 +136,12 @@ d) Porque fue redactada antes de que existiera la Ilustración, y los filósofos
 
 ## Pauta de respuestas
 
-1. **c)** La Revolución Francesa de 1789
-2. **Verdadero**
-3. a) 1-B, 2-A, 3-C. Estos principios muestran cómo las ideas ilustradas se plasmaron en un documento político y jurídico concreto.
-4. d) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey. Representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.
-5. b) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad. Los principios ilustrados del siglo XVIII siguen vigentes en los Derechos Humanos actuales.
-6. c) Aunque proclamaba la igualdad, excluyó a grupos como las mujeres de derechos políticos plenos, lo que muestra que reconocer un derecho no garantiza su aplicación real. Esta tensión sigue siendo relevante para evaluar la vigencia efectiva de los Derechos Humanos.
+1. **c)** La Ilustración, que defendía la razón, la libertad y la igualdad ante la ley.
+2. **Falso.** La de 1948 retoma y amplía los principios de libertad e igualdad proclamados en 1789.
+3. a) 1-B, 2-A, 3-C. Estas ideas ilustradas inspiraron las declaraciones de derechos y las repúblicas modernas.
+4. d) En que las funciones de hacer las leyes, ejecutarlas y juzgar están en manos de órganos distintos, para evitar abusos de poder. Es una idea de Montesquieu presente en las constituciones actuales.
+5. b) Una continuidad: la Declaración de 1948 retoma la libertad de expresión de 1789 y la extiende a todas las personas.
+6. c) Aunque proclamaba la igualdad, la declaración de 1789 excluía a las mujeres de derechos políticos plenos: reconocer un derecho no garantiza que se aplique a todos.
 7. **Falso** — fue aprobada por la Asamblea Nacional francesa en 1789, no por la ONU (que ni
    siquiera existía en esa época)
 8. **b)** La Organización de las Naciones Unidas (ONU)
