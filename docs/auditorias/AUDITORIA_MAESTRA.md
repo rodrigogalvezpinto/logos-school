@@ -1622,3 +1622,8 @@ cuento de las preguntas 5 a 8, lo borraba.
 **Hallazgo 3: restos de la explicación anterior en las pautas.** Algunas pautas ocupan varias líneas, con continuación sangrada, y la herramienta reemplazaba solo la primera. En 52 ítems de 3.°, 5.° y 6.° básico quedaron restos de la explicación anterior. Se borraron y la herramienta ahora reemplaza la pauta completa. También busca las preguntas solo antes de la sección «Pauta», porque «**1.** b) …» parecía una pregunta.
 
 **Verificación.** Chromium: 3.°, 5.° y 6.° básico. Las fallas por tiempo (corridas de más de 30 minutos con el equipo cargado) pasaron al repetirlas solas.
+
+**Avance de C.2 (2026-11-08, noche).** 7.° básico (152 reescritas) y 8.° básico (185 reescritas) quedan en 0 %.
+- Las pruebas de Lengua de ambos cursos remitían a «revisa la guía» y no traían sus textos. Ahora tienen textos propios, conectados a sus preguntas.
+- Chromium: 7.° básico 24/24, con dos fallas de tiempo que pasaron al repetirlas solas; 8.° básico 24/24.
+- 1.° a 8.° básico completos. Pendientes: 1.° a 4.° medio.

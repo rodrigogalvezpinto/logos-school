@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-08 (noche): C.2 → 1.° a 8.° básico en 0 % (7.° y 8.° con Lengua reescrita y textos propios). Pendiente: 1.° a 4.° medio (70–90 %). Pendiente menor: autoevaluación de Lenguaje de 3.° básico, OA 6, falla intermitente en E2E con el equipo cargado; repetir con baja carga.
+
 - 2026-11-08 (tarde): C.2 → 1.°, 2.°, 3.°, 5.° y 6.° básico en 0 % (4.° ya estaba). 7.° básico en curso: Lengua U1 y U2 reescritas con textos nuevos. Pendientes de 7.°: Ciencias, Historia, Inglés y Matemática (unas 125 preguntas). Luego 8.° básico y 1.° a 4.° medio.
 
 - 2026-11-08: C.2 en curso. Cerrados 1.° y 2.° básico (0 % de copia). OA explícito en todas las pruebas. **Hallazgo:** lecturas no conectadas a sus preguntas en unas 12 pruebas y simulacros, y las pruebas de Lenguaje de 5.° básico remiten a textos de la guía (§15.37). **Siguiente:** mover el detector a `backend/scripts`, conectar los estímulos huérfanos y seguir C.2 con 3.° básico.
