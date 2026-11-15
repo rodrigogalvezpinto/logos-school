@@ -118,14 +118,14 @@ d) Solo se relacionaron mediante guerras, sin ningún intercambio
 
 1. b) No, porque la ciudadanía ateniense excluía a las mujeres, a los esclavos y a los extranjeros; hoy la ciudadanía incluye a mujeres y hombres adultos.
 2. Verdadero. En la democracia representativa los ciudadanos eligen representantes; en Atenas participaban directamente en la Asamblea.
-3. a) 1-B, 2-A, 3-C
+3. a) 1-B, 2-A, 3-C. "Democracia" viene del griego (demos, pueblo; kratos, gobierno); el Senado era el consejo de ancianos de Roma (senex, anciano), y las universidades nacieron en la Europa medieval, como la de Bolonia.
 4. d) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a las mujeres y no excluye a grupos como los esclavos o los extranjeros de origen. Se identifica un elemento de continuidad (la participación) y uno de cambio (la ampliación de la ciudadanía).
 5. c) Aceite. Viene del árabe *az-zayt*; como *almohada*, *azúcar* o *alcalde*, es una huella de la presencia árabe en la península ibérica.
 6. Verdadero. Los árabes difundieron en Europa el sistema de numeración que habían conocido en la India; es un ejemplo de cómo el contacto entre culturas enriqueció a Europa.
-7. c) 1-B, 2-A, 3-C
-8. c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas
+7. c) 1-B, 2-A, 3-C. Los griegos aportaron la filosofía y la democracia; los romanos, el derecho y el latín, y los árabes difundieron el álgebra y los números que usamos hoy.
+8. c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas. Muchos textos árabes (y textos griegos conservados por sabios árabes) se tradujeron al latín, por ejemplo en Toledo, y así llegaron a Europa conocimientos de matemática y astronomía.
 9. b) Hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos en la península.
 10. Falso. En general, Roma permitió que los pueblos conquistados mantuvieran sus creencias, siempre que aceptaran su autoridad; la tolerancia facilitó la estabilidad del imperio.
-11. a) 1-B, 2-C, 3-A
-12. d) Convivencia: el comercio entre provincias por el Mediterráneo. Conflicto: las guerras de conquista contra otros pueblos.
-13. b) Durante siglos comerciaron y muchos germanos sirvieron en el ejército romano, mientras también se enfrentaban en guerras de frontera.
+11. a) 1-B, 2-C, 3-A. La Ruta de la Seda fue un intercambio comercial; un tratado de paz es un acuerdo diplomático, y la mezcla de costumbres, palabras y comidas es mestizaje cultural.
+12. d) Convivencia: el comercio entre provincias por el Mediterráneo. Conflicto: las guerras de conquista contra otros pueblos. El comercio por el Mediterráneo unía a las provincias del Imperio (convivencia); las guerras de conquista sometían a otros pueblos por la fuerza (conflicto).
+13. b) Durante siglos comerciaron y muchos germanos sirvieron en el ejército romano, mientras también se enfrentaban en guerras de frontera. Una relación puede tener ambas cosas a la vez: romanos y germanos comerciaban y muchos germanos fueron soldados de Roma, pero también se enfrentaron en la frontera.

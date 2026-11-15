@@ -160,6 +160,41 @@ def _clasificar_tipo(etiqueta: str) -> str:
     return "desarrollo_breve"
 
 
+RE_LINEA_BLOQUE = re.compile(r"^(?:\||>|#{1,6}\s)")
+
+
+def componer_enunciado(partes: list[str], corrido=None) -> str:
+    """Une las líneas de un enunciado. El texto corrido se une con espacios (las líneas del Markdown
+    fuente son solo ajuste de ancho), pero las tablas, citas y títulos conservan sus líneas: unidas
+    con espacios, la app mostraba «| | Lee | No lee |…|---|…» o «### Cómo regar… > 1. …» en una sola
+    línea (auditoría Fase 1, 2026-11-15). Cada bloque queda separado por una línea en blanco.
+    `corrido` limpia cada tramo de texto corrido (por defecto, `_limpiar` de las guías)."""
+    corrido = corrido or (lambda lineas: _limpiar(" ".join(lineas)))
+    bloques: list[str] = []
+    texto: list[str] = []
+    estructurado: list[str] = []
+    for linea in partes:
+        if RE_LINEA_BLOQUE.match(linea):
+            if texto:
+                bloques.append(corrido(texto))
+                texto = []
+            # Una cita o un título después de una tabla, o viceversa, es otro bloque.
+            if estructurado and linea[0] != estructurado[-1][0]:
+                bloques.append("\n".join(estructurado))
+                estructurado = []
+            estructurado.append(linea.rstrip())
+        else:
+            if estructurado:
+                bloques.append("\n".join(estructurado))
+                estructurado = []
+            texto.append(linea)
+    if estructurado:
+        bloques.append("\n".join(estructurado))
+    if texto:
+        bloques.append(corrido(texto))
+    return "\n\n".join(b for b in bloques if b)
+
+
 def _limpiar(texto: str) -> str:
     texto = texto.replace("**", "").replace("*", "")
     texto = re.sub(r"\s+", " ", texto).strip()
@@ -206,7 +241,7 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
                     opciones[-1] = _limpiar(opciones[-1] + " " + linea.strip())
                 else:
                     enunciado_partes.append(linea.strip())
-        enunciado = _limpiar(" ".join(enunciado_partes))
+        enunciado = componer_enunciado(enunciado_partes)
 
         # respuesta + retroalimentación (después de la marca "Respuesta ...:")
         retro_m = RE_RETRO_MARCA.search(despues)

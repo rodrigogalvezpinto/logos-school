@@ -113,6 +113,6 @@ d) La temperatura nunca bajó
 7. **a) 6** — suma 30, dividido por 5 datos = 6.
 8. a) 25. 100 ÷ 4 = 25; 100 es la suma, no el promedio.
 9. **b) Poco posible** — es posible (hay uno), pero poco probable comparado con los 9 azules.
-10. d) Poco posible, porque solo hay 1 de fútbol entre 9
+10. d) Poco posible, porque solo hay 1 de fútbol entre 9. Hay solo 1 pelota de fútbol entre 9: puede salir, pero es poco posible. Sería imposible si no hubiera ninguna, y seguro si todas fueran de fútbol.
 11. **b) 21** — 6 + 2 + 8 + 5 = 21.
 12. b) Entre las 14:00 y las 16:00, bajó 5°C. Es el único tramo donde la línea baja (de 21°C a 16°C).

@@ -17,31 +17,29 @@ oa_por_pregunta: {"1":"OA 1 (Mód. 2)","2":"OA 1 (Mód. 2)","3":"OA 1 (Mód. 2)"
 
 **Tiempo sugerido:** 45-50 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
 
-**Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
-sola respuesta correcta. Las preguntas de desarrollo requieren que fundamentes tu respuesta
-con argumentos, no solo una afirmación.
+**Instrucciones:** Lee cada pregunta con atención. En las preguntas de alternativas, marca
+solo una opción. En las de «varias correctas», marca todas las opciones correctas. En las de
+verdadero o falso, decide si la afirmación es verdadera o falsa.
 
 ---
 
 ### OA N°1 — Sustancias químicas de uso cotidiano
 
-**Pregunta 1.** *(Alternativas)* Mezclar cloro con un producto que contiene amoníaco es
-peligroso principalmente porque:
+**Pregunta 1.** *(Alternativas)* Para "limpiar mejor" el baño, una persona mezcla cloro con un antisarro ácido. ¿Por qué esta mezcla es peligrosa?
 
-a) Ambos productos pierden su color y su olor característico al mezclarse.
-b) No ocurre ninguna reacción, solo se desperdicia producto.
-c) El cloro deja de tener efecto desinfectante y la limpieza queda incompleta.
-d) La reacción genera gases tóxicos que dañan el sistema respiratorio.
+a) Porque ambos productos pierden su color y su olor al mezclarse
+b) Porque no ocurre ninguna reacción y solo se desperdicia producto
+c) Porque el cloro deja de desinfectar y la limpieza queda incompleta
+d) Porque la reacción libera gas cloro, tóxico para el sistema respiratorio
 
-**Pregunta 2.** *(Verdadero o falso)* Tomar el doble de la dosis indicada de un medicamento de
-venta libre reduce el dolor más rápido sin generar riesgos adicionales para la salud.
+**Pregunta 2.** *(Verdadero o falso)* Si un jarabe para la tos y un analgésico de venta libre contienen paracetamol, tomarlos juntos en sus dosis habituales es seguro, porque cada uno por separado lo es.
 
-**Pregunta 3.** *(Varias correctas — Análisis de etiqueta)* Un plaguicida muestra el símbolo de calavera con tibias cruzadas y la palabra "tóxico". ¿Qué medidas de seguridad corresponden? Marca **todas** las correctas.
+**Pregunta 3.** *(Varias correctas — Análisis de etiqueta)* Un destapador de cañerías muestra el pictograma de corrosión (una mano y una superficie dañadas por un líquido) y la frase "provoca quemaduras graves en la piel y lesiones oculares". ¿Qué medidas de seguridad corresponden? Marca **todas** las correctas.
 
-a) Manipular con guantes y protección, sin comer ni fumar
-b) Almacenar en su envase original, etiquetado y fuera del alcance de niños
-c) Eliminar en un punto de recolección autorizado, nunca por el desagüe
-d) Trasvasijarlo a una botella de bebida para usarlo mejor
+a) Usar guantes y evitar salpicaduras en los ojos al aplicarlo
+b) Guardarlo en su envase original, cerrado y fuera del alcance de niños
+c) Seguir las instrucciones de primeros auxilios de la etiqueta si hay contacto con la piel
+d) Mezclarlo con cloro para que destape más rápido
 
 **Pregunta 4.** *(Alternativas)* ¿Por qué trasvasijar un producto de limpieza o un plaguicida a una botella de bebida es peligroso, aunque quede bien cerrada?
 
@@ -77,22 +75,20 @@ d) En el auto o en la cartera, para tenerlos siempre disponibles, aunque estén 
 
 ### OA N°3 — Riesgos naturales y antropogénicos: prevención, mitigación y adaptación
 
-**Pregunta 8.** *(Alternativas)* Un sistema de alerta temprana de tsunami que permite evacuar
-antes de que la ola llegue a la costa es un ejemplo de:
+**Pregunta 8.** *(Alternativas)* En varias quebradas del norte se construyen piscinas aluvionales: estanques que retienen el barro y las rocas de un aluvión para que lleguen en menor cantidad a las viviendas. Esta obra es un ejemplo de:
 
 a) Prevención
 b) Mitigación
 c) Adaptación
 d) Erradicación del riesgo
 
-**Pregunta 9.** *(Verdadero o falso)* Todos los incendios forestales en Chile tienen un origen
-exclusivamente natural, como la caída de rayos.
+**Pregunta 9.** *(Verdadero o falso)* Las inundaciones urbanas que ocurren en Chile durante lluvias intensas dependen solo de la cantidad de agua que cae, sin influencia de las decisiones humanas.
 
-**Pregunta 10.** *(Varias correctas — Análisis de caso)* Un comité comunal decide no construir viviendas en una quebrada con aluviones pasados, aunque eso reduce el terreno para viviendas sociales. ¿Cómo se clasifica la medida? Marca **todas** las correctas.
+**Pregunta 10.** *(Varias correctas — Análisis de caso)* Un municipio costero aprueba un plan regulador que prohíbe nuevas viviendas en la franja que podría alcanzar un tsunami y traslada allí plazas y áreas verdes. ¿Cómo se clasifica la medida? Marca **todas** las correctas.
 
-a) Prevención: evita exponer a la población a la amenaza
-b) Adaptación: ajusta la planificación urbana de largo plazo al riesgo
-c) Respuesta a la emergencia durante un aluvión
+a) Prevención: evita exponer a nuevas familias a la amenaza
+b) Adaptación: ajusta el uso del territorio de largo plazo a un riesgo conocido
+c) Respuesta a la emergencia durante un tsunami
 d) Reconstrucción posterior a un desastre
 
 **Pregunta 11.** *(Alternativas)* Que los nuevos edificios en Chile deban diseñarse y
@@ -104,9 +100,7 @@ b) Prevención, porque la norma impide que el sismo ocurra en la zona.
 c) Adaptación exclusivamente cultural de la población a los sismos.
 d) Respuesta de emergencia inmediata después de un sismo fuerte.
 
-**Pregunta 12.** *(Verdadero o falso)* Los tsunamis solo pueden ser generados por sismos
-submarinos de gran magnitud, por lo que un sistema de alerta basado únicamente en la detección
-de sismos siempre es suficiente para anticiparlos.
+**Pregunta 12.** *(Verdadero o falso)* Una zona que no ha tenido incendios forestales en los últimos diez años tiene riesgo nulo de incendio, aunque esté rodeada de plantaciones secas y viviendas.
 
 **Pregunta 13.** *(Alternativas)* Con el ejemplo de una quebrada con viviendas en su cauce, ¿cuál es la diferencia entre riesgo y desastre?
 
@@ -115,14 +109,12 @@ b) El desastre es la posibilidad de que ocurra un aluvión en la quebrada, y el 
 c) El riesgo es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el desastre ocurre cuando el aluvión se materializa y supera la capacidad de respuesta
 d) El riesgo solo existe después de un desastre: mientras no haya ocurrido un aluvión, las viviendas en el cauce de la quebrada no corren ningún peligro
 
-**Pregunta 14.** *(Alternativas)* La urbanización sin planificación adecuada, que
-impermeabiliza el suelo con cemento y asfalto y reduce las áreas verdes capaces de absorber
-agua de lluvia, contribuye a agravar el riesgo de:
+**Pregunta 14.** *(Alternativas)* Un barrio construido sobre lo que antes eran humedales, con calles pavimentadas y sin áreas verdes, enfrenta en cada temporal un problema que se agrava por la falta de suelo que absorba el agua de lluvia. ¿Cuál es ese problema?
 
-a) Erupciones volcánicas.
-b) Inundaciones urbanas.
-c) Sismos de mayor magnitud.
-d) Actividad geotérmica.
+a) Erupciones volcánicas
+b) Inundaciones urbanas
+c) Sismos de mayor magnitud
+d) Actividad geotérmica
 
 ---
 
@@ -130,21 +122,20 @@ d) Actividad geotérmica.
 
 | N° | Respuesta correcta |
 |:---:|---|
-| 1 | d) La reacción genera gases tóxicos que dañan el sistema respiratorio. |
-| 2 | Falso — exceder la dosis no acelera el efecto terapéutico y sí aumenta el riesgo de toxicidad, por ejemplo daño hepático con el paracetamol. |
-| 3 | **a, b y c.** El símbolo exige precauciones en el uso, el almacenaje y la eliminación. |
+| 1 | d) Al mezclar cloro (hipoclorito) con un ácido se libera gas cloro, que irrita y daña las vías respiratorias; por eso los productos de limpieza no se mezclan y se usan en lugares ventilados. |
+| 2 | Falso — al sumarlos se puede superar la dosis máxima diaria de paracetamol y aumenta el riesgo de daño hepático; hay que leer el principio activo de cada etiqueta. |
+| 3 | **a, b y c.** El pictograma exige protección al usarlo, almacenaje seguro y conocer los primeros auxilios; mezclar productos puede generar reacciones peligrosas. |
 | 4 | **a) Porque se pierde la etiqueta con composición, riesgos y primeros auxilios, y alguien (especialmente un niño) puede confundirlo con una bebida.** El envase original es parte de la medida de seguridad. |
 | 5 | **d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad.** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte del OA. |
 | 6 | **c) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles.** El riesgo lo determinan la concentración, la presentación y el acceso, no la marca. |
 | 7 | b) Fuera del alcance de niños, en su envase original y en lugar fresco y seco. |
-| 8 | b) Mitigación. |
-| 9 | Falso — la mayoría de los incendios forestales en Chile tienen origen humano (negligencia, quemas mal controladas, intencionalidad). |
-| 10 | **a y b.** Las decisiones de planificación de largo plazo suelen combinar prevención y adaptación; lo importante es justificar con el concepto correcto. |
-| 11 | a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra. |
-| 12 | Falso — también pueden generarse por erupciones volcánicas submarinas o costeras y por grandes deslizamientos de tierra o hielo. |
+| 8 | b) Mitigación — no evita el aluvión ni la exposición de las viviendas, pero reduce su daño. |
+| 9 | Falso — también influyen decisiones humanas, como construir en zonas inundables, tapar canales con basura o impermeabilizar el suelo. |
+| 10 | **a y b.** Es una decisión de planificación tomada antes del evento; no es respuesta ni reconstrucción. |
+| 11 | a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra. La norma no evita que ocurra el sismo, pero reduce sus daños: los edificios resisten sin colapsar. Reducir el impacto de una amenaza que igual ocurrirá es mitigar. |
+| 12 | Falso — el riesgo depende de la amenaza, la exposición y la vulnerabilidad actuales (vegetación seca, cercanía de viviendas), no solo de lo ocurrido antes. |
 | 13 | **c) El riesgo es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el desastre ocurre cuando el aluvión se materializa y supera la capacidad de respuesta.** La prevención busca actuar antes de que el riesgo se convierta en desastre. |
-| 14 | b) Inundaciones urbanas. |
+| 14 | b) Inundaciones urbanas — rellenar humedales e impermeabilizar el suelo impide que el agua se infiltre. |
 
-**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (8 pts), hasta 2 puntos por
-pregunta de desarrollo, análisis de caso o etiqueta completo y bien justificado (12 pts).
-Total: 20 pts. Exigencia de referencia: 60% (12/20 pts).
+**Puntaje sugerido:** 1 punto por pregunta correcta. Total: 14 pts.
+Exigencia de referencia: 60% (8,4/14 pts).

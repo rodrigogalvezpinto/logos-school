@@ -17,99 +17,93 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA
 
 **Tiempo sugerido:** 50-60 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
 
-**Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
-sola respuesta correcta. Las preguntas de desarrollo o análisis de caso requieren que
-fundamentes tu respuesta con argumentos, no solo una afirmación.
+**Instrucciones:** Lee cada pregunta con atención. En las preguntas de alternativas, marca
+solo una opción. En las de «varias correctas», marca todas las opciones correctas. En las de
+verdadero o falso, decide si la afirmación es verdadera o falsa.
 
 ---
 
 ### OA 1 — Fundamentos de la democracia y la ciudadanía
 
-**Pregunta 1.** *(Alternativas)* ¿Cuál de los siguientes NO corresponde a un fundamento de la
-democracia según lo estudiado?
+**Pregunta 1.** *(Alternativas)* Un centro de estudiantes redacta los principios de su reglamento inspirándose en los fundamentos de la democracia. ¿Cuál de estas frases NO corresponde a un fundamento democrático?
 
-a) La soberanía popular, que radica en la ciudadanía
-b) El respeto a los Derechos Humanos de todas las personas
-c) La superioridad de un partido político sobre los demás
-d) La dignidad de la persona como base de los derechos
+a) "Las decisiones importantes las toma la asamblea de estudiantes, porque el poder reside en sus integrantes"
+b) "Todos los estudiantes serán tratados con respeto a sus derechos, sin discriminación"
+c) "La lista que gane la elección tendrá autoridad permanente sobre las demás listas, que no podrán volver a postular"
+d) "Cada estudiante tiene igual valor y dignidad, cualquiera sea su curso"
 
-**Pregunta 2.** *(Alternativas — análisis de caso)* En un país hay elecciones regulares, pero los medios críticos al gobierno son cerrados por decreto y sus periodistas, detenidos sin orden judicial. ¿Cumple con los atributos de una democracia?
+**Pregunta 2.** *(Alternativas — análisis de caso)* En un país se respetan la prensa libre y los tribunales independientes, pero el presidente posterga por decreto las elecciones parlamentarias "hasta que la situación económica mejore", sin fecha. ¿Cumple con los atributos de una democracia?
 
-a) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)
-b) Sí, porque basta con que existan elecciones regulares para que un país sea democrático, aunque se cierren medios de prensa
-c) Sí, porque el gobierno elegido puede cerrar medios de comunicación si considera que afectan el orden público del país
-d) No, porque en una democracia no pueden existir medios de comunicación críticos del gobierno ni periodistas de oposición
+a) No plenamente: aunque hay libertades y tribunales independientes, se suspenden las elecciones periódicas, que permiten a la ciudadanía renovar a sus autoridades
+b) Sí, porque basta con que exista prensa libre para que un país sea democrático, aunque no haya elecciones
+c) Sí, porque un presidente elegido puede postergar las elecciones cuando lo considere necesario para la economía
+d) No, porque en una democracia el presidente no puede tomar ninguna decisión sin consultar a la ciudadanía en un plebiscito
 
-**Pregunta 3.** *(Alternativas)* ¿Cuál de las siguientes es un **atributo**, y no un
-fundamento, de la democracia?
+**Pregunta 3.** *(Alternativas)* La dignidad de la persona, el respeto a los Derechos Humanos y la soberanía popular son fundamentos de la democracia. ¿Cuál de las siguientes opciones corresponde, en cambio, a un **atributo** que permite observar si una democracia funciona?
 
-a) La dignidad de la persona
-b) El respeto a los Derechos Humanos
-c) La soberanía popular
-d) La participación efectiva
+a) Que las personas tengan un valor propio por el solo hecho de ser personas
+b) Que los Derechos Humanos sean anteriores al Estado
+c) Que el poder resida en la nación
+d) Que existan elecciones libres y periódicas con alternativas reales
 
-**Pregunta 4.** *(Alternativas — análisis de caso)* En un país hay elecciones periódicas, pero solo pueden postular candidatos de un único partido autorizado. ¿Qué fundamento de la democracia se vulnera?
+**Pregunta 4.** *(Alternativas — análisis de caso)* En un país, la ley exige que todo candidato a diputado sea aprobado previamente por una comisión nombrada por el gobierno, que rechaza a quienes critican al presidente. ¿Qué fundamento de la democracia se vulnera?
 
-a) La igualdad de voto, porque todos los ciudadanos votan igual por el mismo partido
-b) Ninguno, porque hay elecciones periódicas y cada persona puede votar libremente
-c) El Estado de Derecho, porque hay demasiados partidos que quieren postular candidatos
-d) La soberanía popular, porque la ciudadanía no puede optar entre alternativas reales
+a) La igualdad de voto, porque cada persona sigue teniendo un solo voto
+b) Ninguno, porque igual se realizan elecciones y la ciudadanía puede votar
+c) El Estado de Derecho, porque existe una ley que regula a los candidatos
+d) La soberanía popular, porque es el gobierno, y no la ciudadanía, quien decide en la práctica entre qué opciones se puede elegir
 
-**Pregunta 5.** *(Varias correctas)* ¿Cómo contribuye cumplir con las responsabilidades ciudadanas a sostener la democracia? Marca **todas** las correctas.
+**Pregunta 5.** *(Varias correctas)* Un grupo de jóvenes de 18 años decide informarse sobre los candidatos a concejal, votar en la elección municipal y luego asistir a las sesiones públicas del concejo. ¿Por qué estas acciones fortalecen la democracia? Marca **todas** las correctas.
 
-a) Una ciudadanía informada puede participar efectivamente y fiscalizar el Estado de Derecho
-b) Respetar los derechos de los demás sostiene la igualdad y la dignidad como fundamentos vividos
-c) Sin ese ejercicio activo, la democracia se debilita aunque existan reglas formales
-d) Las responsabilidades ciudadanas no tienen relación con la democracia
+a) Porque una ciudadanía informada elige mejor y puede pedir cuentas a sus autoridades
+b) Porque la participación hace que la soberanía popular se ejerza en la práctica, no solo en la ley
+c) Porque fiscalizar a las autoridades ayuda a prevenir abusos de poder
+d) Porque así el concejo municipal queda obligado a aprobar todo lo que esos jóvenes propongan
 
 ---
 
 ### OA 2 — Acceso a la justicia y sistema judicial
 
-**Pregunta 6.** *(Alternativas)* ¿Qué institución dirige la investigación de los delitos en
-Chile y ejerce la acción penal en representación de la sociedad?
+**Pregunta 6.** *(Alternativas)* Tras el robo de su bicicleta, Martina hace la denuncia en Carabineros. ¿Qué institución recibirá esa denuncia para dirigir la investigación y, si hay pruebas, acusar al responsable ante un tribunal?
 
 a) El Ministerio Público (Fiscalía)
 b) La Defensoría Penal Pública
 c) La Corporación de Asistencia Judicial
 d) La Contraloría General de la República
 
-**Pregunta 7.** *(Alternativas — análisis de caso)* Trabajadores de una empresa pequeña creen que fueron despedidos sin las indemnizaciones legales, pero no pueden pagar un abogado. ¿A qué institución pueden recurrir?
+**Pregunta 7.** *(Alternativas — análisis de caso)* Un arrendatario de escasos recursos recibe una demanda de desalojo y no puede pagar un abogado para defenderse en el juicio civil. ¿A qué institución puede recurrir?
 
-a) A la Defensoría Penal Pública, porque defiende gratuitamente en todo tipo de causas, incluidas las laborales
-b) A la Corporación de Asistencia Judicial, que representa gratuitamente en materias no penales como las laborales
-c) Al Ministerio Público, porque representa a los trabajadores en los juicios contra sus empleadores
-d) A ninguna, porque el acceso a la justicia laboral requiere siempre pagar un abogado particular
+a) A la Defensoría Penal Pública, porque defiende gratuitamente en todo tipo de juicios
+b) A la Corporación de Asistencia Judicial, que asesora y representa gratuitamente en materias no penales, como las civiles
+c) Al Ministerio Público, porque representa a los arrendatarios en los juicios contra los dueños
+d) A ninguna, porque en los juicios civiles siempre hay que pagar un abogado particular
 
-**Pregunta 8.** *(Alternativas)* ¿Cuál de las siguientes funciones corresponde a las Cortes de
-Apelaciones dentro del sistema judicial chileno?
+**Pregunta 8.** *(Alternativas)* Un tribunal de primera instancia rechaza la demanda de una persona, que no está de acuerdo con el fallo y lo apela. ¿Qué tribunal revisará esa decisión?
 
-a) Investigar delitos y dirigir a las policías
-b) Revisar las decisiones de tribunales inferiores
-c) Entregar defensa penal gratuita a los imputados
-d) Fiscalizar el gasto público de los municipios
+a) El Ministerio Público
+b) La Corte de Apelaciones correspondiente
+c) La Defensoría Penal Pública
+d) La Contraloría General de la República
 
-**Pregunta 9.** *(Alternativas — análisis de caso)* Una madre necesita demandar una pensión de alimentos adeudada y no puede pagar un abogado. ¿A qué institución debe recurrir y por qué no a la Defensoría Penal?
+**Pregunta 9.** *(Alternativas — análisis de caso)* Un joven de 19 años es detenido y formalizado por un delito, y su familia no puede pagar un abogado. ¿Qué institución debe asegurarle una defensa?
 
-a) A la Defensoría Penal, porque defiende gratuitamente en materias de familia, como las pensiones de alimentos
-b) Al Ministerio Público, porque cobra las pensiones adeudadas y representa a las madres en los tribunales
-c) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales
-d) A ninguna institución pública, porque las pensiones de alimentos son un asunto privado entre los padres
+a) El Ministerio Público, porque es la misma institución que lo acusa
+b) La Corporación de Asistencia Judicial, porque atiende solo causas penales
+c) La Defensoría Penal Pública, porque garantiza defensa a todo imputado que no tenga abogado
+d) Ninguna, porque si no puede pagar un abogado, el juicio se hace sin defensa
 
-**Pregunta 10.** *(Alternativas — análisis de datos)* Estudios muestran que muchas personas de escasos recursos no ejercen sus derechos por desconocer que existen la CAJ o la Defensoría Penal. ¿Qué se concluye sobre el "acceso a la justicia"?
+**Pregunta 10.** *(Alternativas — análisis de datos)* Una encuesta en una comuna rural muestra que la mayoría de los vecinos no presenta reclamos ante la justicia porque el tribunal más cercano queda a tres horas de viaje y no hay atención en línea. ¿Qué se concluye sobre el "acceso a la justicia"?
 
-a) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente
-b) Que los mecanismos gratuitos no son necesarios, porque quien quiere ejercer sus derechos busca la forma
-c) Que el acceso a la justicia está plenamente garantizado, porque la ley ya creó la CAJ y la Defensoría
-d) Que las personas de escasos recursos no tienen derechos que puedan reclamar ante los tribunales
+a) Que no basta con que los tribunales y mecanismos existan: también deben estar al alcance real de las personas, incluso en lo geográfico
+b) Que los vecinos no tienen conflictos que resolver, porque si los tuvieran viajarían
+c) Que el acceso a la justicia está plenamente garantizado, porque la ley creó tribunales en todas las regiones
+d) Que en las comunas rurales las personas no tienen derechos que reclamar ante los tribunales
 
 ---
 
 ### OA 4 — Relaciones entre el Estado y el mercado
 
-**Pregunta 11.** *(Alternativas)* Cuando el Estado entrega educación pública gratuita porque
-considera que el mercado por sí solo no la provee de forma suficiente para toda la población,
-está cumpliendo principalmente su función:
+**Pregunta 11.** *(Alternativas)* El Estado construye y mantiene hospitales públicos que atienden a toda la población, incluidas las zonas donde a una clínica privada no le resultaría rentable instalarse. Está cumpliendo principalmente su función:
 
 a) Fiscalizadora del cumplimiento de la ley
 b) Proveedora de bienes y servicios
@@ -120,7 +114,7 @@ d) Redistribuidora del ingreso nacional
 
 1) Fiscalizadora — 2) Estabilizadora — 3) Redistribuidora
 
-Ejemplos: (A) Bajar la tasa de interés para enfrentar una recesión — (B) Verificar que una empresa cumpla la normativa ambiental — (C) Entregar un subsidio a familias de menores ingresos
+Ejemplos: (A) Aumentar el gasto en obras públicas durante una recesión para sostener el empleo — (B) Inspeccionar que los supermercados respeten los precios informados y las normas sanitarias — (C) Entregar una pensión garantizada a adultos mayores de menores ingresos
 
 ¿Qué combinación es correcta?
 
@@ -129,11 +123,11 @@ b) 1-C, 2-A, 3-B
 c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
-**Pregunta 13.** *(Alternativas — análisis de caso)* Una comuna minera tiene altos ingresos por regalías pero grave contaminación; se propone exigir tecnologías limpias aunque baje la rentabilidad. ¿Con qué concepto se vincula la propuesta?
+**Pregunta 13.** *(Alternativas — análisis de caso)* Una empresa salmonera genera empleo en una comuna del sur, pero sus centros de cultivo dañan el fondo marino. La comunidad propone exigirle mejores tratamientos y límites de producción, aunque gane menos. ¿Con qué concepto se vincula la propuesta?
 
 a) Inflación de los precios locales
 b) Desarrollo sustentable
-c) Monopolio de la empresa minera
+c) Monopolio de la empresa salmonera
 d) Centralismo de las decisiones
 
 **Pregunta 14.** *(Alternativas — análisis de caso)* Durante una crisis económica en Chile, el Banco Central autónomo reduce la tasa de política monetaria y el gobierno aumenta el gasto público en obras para reactivar el empleo. ¿Qué función económica se ilustra y qué herramienta corresponde a cada institución?
@@ -143,12 +137,12 @@ b) Función estabilizadora: ambas herramientas, la tasa de interés y el gasto e
 c) Función redistribuidora: la tasa de política monetaria la fija el Congreso y el gasto público lo decide el Banco Central
 d) Función fiscalizadora: el Banco Central fiscaliza a las empresas y el gobierno controla que paguen sus impuestos
 
-**Pregunta 15.** *(Alternativas — análisis de caso)* Una empresa exportadora paga a pequeños proveedores precios muy bajo el promedio aprovechando su posición dominante. ¿Qué concepto permite evaluarlo y qué función del Estado podría intervenir?
+**Pregunta 15.** *(Alternativas — análisis de caso)* Una cadena de cafeterías anuncia que paga a los productores de café un precio estable y superior al del mercado, con condiciones laborales dignas, y lo certifica con un sello. Al mismo tiempo, el Estado sanciona a quienes usan sellos falsos para engañar a los consumidores. ¿Qué concepto y qué función del Estado están presentes?
 
-a) La inflación de los precios agrícolas; el Estado debería imprimir más dinero para los proveedores
-b) El desarrollo sustentable; el Estado no tiene funciones que cumplir en las relaciones entre empresas
-c) El comercio justo; el Estado podría intervenir con su función reguladora o fiscalizadora
-d) La soberanía popular; se debe convocar un plebiscito para fijar los precios que paga la empresa
+a) La inflación; el Estado imprime dinero para pagar mejor a los productores
+b) El desarrollo sustentable; el Estado no participa en las relaciones entre empresas y consumidores
+c) El comercio justo; el Estado cumple una función reguladora o fiscalizadora al sancionar los sellos falsos
+d) La soberanía popular; el precio del café se fija por plebiscito
 
 ---
 
@@ -156,22 +150,21 @@ d) La soberanía popular; se debe convocar un plebiscito para fijar los precios 
 
 | N° | Respuesta correcta |
 |:---:|---|
-| 1 | c) La superioridad de un partido político sobre los demás. |
-| 2 | **a) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial).** Las elecciones son necesarias, pero no suficientes: una democracia requiere todos sus atributos a la vez. |
-| 3 | d) La participación efectiva. |
-| 4 | **d) La soberanía popular, porque la ciudadanía no puede optar entre alternativas reales.** Elecciones sin pluralismo político no expresan genuinamente la voluntad popular. |
-| 5 | **a, b y c.** Los fundamentos y atributos de la democracia no se sostienen solos. |
-| 6 | a) El Ministerio Público (Fiscalía). |
-| 7 | **b) A la Corporación de Asistencia Judicial, que representa gratuitamente en materias no penales como las laborales.** Reconocer que un conflicto laboral es una materia no penal es la clave. |
-| 8 | b) Revisar las decisiones de tribunales inferiores. |
-| 9 | **c) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales.** Distinguir la materia del conflicto (penal o no penal) es clave. |
-| 10 | **a) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente.** Un derecho que existe solo "en el papel" no se traduce en acceso real. |
-| 11 | b) Proveedora de bienes y servicios. |
-| 12 | **d) 1-B, 2-A, 3-C.** Fiscalizar es verificar normas; estabilizar, moderar los ciclos; redistribuir, transferir recursos para reducir desigualdad. |
-| 13 | **b) Desarrollo sustentable.** El desarrollo sustentable busca crecer sin comprometer el medioambiente ni el bienestar de futuras generaciones. |
+| 1 | c) Dar autoridad permanente a una lista y prohibir que las demás postulen contradice la soberanía popular y la igualdad; las demás frases expresan soberanía popular, Derechos Humanos y dignidad. |
+| 2 | **a)** Las libertades y los tribunales son necesarios, pero no suficientes: una democracia requiere todos sus atributos a la vez, incluidas elecciones periódicas. |
+| 3 | d) Las elecciones libres y periódicas son un atributo observable; las otras opciones describen fundamentos (dignidad, Derechos Humanos, soberanía popular). |
+| 4 | **d)** Si el gobierno filtra a los candidatos, la ciudadanía no puede optar entre alternativas reales: la soberanía popular queda vacía. |
+| 5 | **a, b y c.** La participación informada y la fiscalización sostienen la democracia; votar no obliga a la autoridad a aprobar todo lo que se le pide. |
+| 6 | a) El Ministerio Público (Fiscalía) dirige la investigación de los delitos y ejerce la acción penal. |
+| 7 | **b)** Un juicio de desalojo es una materia civil, no penal: corresponde a la Corporación de Asistencia Judicial. |
+| 8 | b) Las Cortes de Apelaciones revisan las decisiones de los tribunales inferiores. |
+| 9 | **c)** Todo imputado tiene derecho a defensa; si no tiene abogado, la Defensoría Penal Pública se la proporciona. |
+| 10 | **a)** El acceso a la justicia exige que los mecanismos sean conocidos y estén realmente al alcance de las personas. |
+| 11 | b) Proveedora de bienes y servicios. El Estado entrega directamente un servicio (salud) que el mercado no ofrecería en todo el territorio: es su función proveedora. |
+| 12 | **d) 1-B, 2-A, 3-C.** Fiscalizar es verificar normas; estabilizar, moderar los ciclos económicos; redistribuir, transferir recursos para reducir la desigualdad. |
+| 13 | **b) Desarrollo sustentable.** Busca crecer sin comprometer el medioambiente ni el bienestar de futuras generaciones. |
 | 14 | **a) Función estabilizadora: la tasa corresponde al Banco Central (política monetaria) y el gasto público al gobierno (política fiscal).** Se busca moderar la crisis; en Chile la política monetaria es atribución del Banco Central autónomo, no del gobierno. |
-| 15 | **c) El comercio justo; el Estado podría intervenir con su función reguladora o fiscalizadora.** El comercio justo se conecta con funciones concretas del Estado frente al mercado. |
+| 15 | **c)** El comercio justo busca condiciones equitativas para los productores; el Estado fiscaliza que la información a los consumidores sea veraz. |
 
-**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (6 pts), hasta 2
-puntos por pregunta de análisis de caso o desarrollo bien justificada (18 pts). Total: 24 pts.
-Exigencia de referencia: 60% (14,4/24 pts).
+**Puntaje sugerido:** 1 punto por pregunta correcta. Total: 15 pts.
+Exigencia de referencia: 60% (9/15 pts).

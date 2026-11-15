@@ -340,8 +340,8 @@ def test_ingles_primero_medio_comprension_no_depende_de_porcentaje_de_oxigeno():
     raiz = Path(__file__).resolve().parents[2] / "contenido/01-medio"
     texto = (raiz / "pruebas/ingles-unidad-1.md").read_text(encoding="utf-8")
     pregunta, pauta = next((p, r) for p, r in parsear_prueba_o_examen(texto) if p.numero == 3)
-    assert "helps regulate the climate" in pregunta.enunciado
-    assert "has no role in regulating the climate" in pregunta.enunciado
+    # C.2 (2026-11-15): la pregunta se reescribió; se mantiene que la respuesta salga del texto citado.
+    assert "Coral reefs" in pregunta.enunciado and "Statement:" in pregunta.enunciado
     assert pauta.respuesta_correcta == "Falso"
     assert "oxígeno" not in pauta.retroalimentacion
     guia = (raiz / "ingles.md").read_text(encoding="utf-8")
@@ -384,7 +384,7 @@ def test_barra_condicional_escapada_no_desplaza_columnas_de_la_pauta():
 
 
 @pytest.mark.parametrize("curso,numero,resultado", [
-    ("03-medio", 23, "5/14"),
+    ("03-medio", 23, "1/3"),
     ("03-medio", 25, "12,4%"),
     ("04-medio", 25, "0,078 (7,8%)"),
 ])
@@ -467,9 +467,9 @@ def test_modelos_y_probabilidad_explicitan_condiciones_de_validez():
     guia = (carpeta / "matematica.md").read_text(encoding="utf-8")
     algebra = parsear_prueba_o_examen((carpeta / "pruebas/matematica-unidad-algebra-y-funciones.md").read_text(encoding="utf-8"))
     probabilidad = parsear_prueba_o_examen((carpeta / "pruebas/matematica-unidad-probabilidad-y-estadistica.md").read_text(encoding="utf-8"))
-    assert "a>0" in algebra[1][0].enunciado
-    assert "tasa de crecimiento" in algebra[1][0].enunciado
-    assert "P(B)>0" in probabilidad[9][0].enunciado
+    # C.2 (2026-11-15): preguntas reescritas; siguen declarando las condiciones del modelo.
+    assert "a > 0 y 0 < b < 1" in algebra[1][0].enunciado
+    assert "equilibrada" in probabilidad[9][0].enunciado and "independientes" in probabilidad[9][0].enunciado
     assert "a>0 y b>1" in guia
     assert "P(B)>0" in guia
 
@@ -671,11 +671,11 @@ def test_continuacion_numerica_no_sobrescribe_clave_de_biologia():
     texto = (CONTENIDO / "01-medio/pruebas/ciencias-naturales-unidad-biologia.md").read_text()
     resultado = {p.numero: (p, pauta) for p, pauta in parsear_prueba_o_examen(texto)}
     pregunta, pauta = resultado[5]
-    assert pauta.respuesta_correcta == "Una población"
-    assert pregunta.opciones.count("Una población") == 1
-    assert resultado[10][1].respuesta_correcta == "500 kcal"
-    assert resultado[10][0].opciones.count("500 kcal") == 1
-    assert "5.000 × 0,10 = 500 kcal" in resultado[10][1].retroalimentacion
+    assert pauta.respuesta_correcta == "Un ecosistema"
+    assert pregunta.opciones.count("Un ecosistema") == 1
+    assert resultado[10][1].respuesta_correcta == "800 kcal"
+    assert resultado[10][0].opciones.count("800 kcal") == 1
+    assert "8.000 × 0,10 = 800 kcal" in resultado[10][1].retroalimentacion
 
 
 def test_letra_sola_y_pautas_abiertas_con_vinetas_no_absorben_encabezados():
@@ -683,7 +683,8 @@ def test_letra_sola_y_pautas_abiertas_con_vinetas_no_absorben_encabezados():
     resultado = {p.numero: (p, pauta) for p, pauta in parsear_prueba_o_examen(texto)}
     pregunta, pauta = resultado[15]
     assert pauta.respuesta_correcta == pregunta.opciones[1]
-    assert pauta.retroalimentacion == "b"
+    # C.4 (2026-11-15): la pauta ahora trae explicación; lo que importa es que no absorba encabezados.
+    assert pauta.retroalimentacion.startswith("b. ") and "#" not in pauta.retroalimentacion and "Pauta" not in pauta.retroalimentacion
     # Las antiguas pautas abiertas con viñetas («- **N.** …») pasaron a alternativas: la
     # clave debe ser exactamente una opción y la explicación empezar por su letra.
     for numero in (3, 4, 8, 9, 13, 14):
@@ -891,3 +892,17 @@ def test_regla_horizontal_cierra_la_ultima_opcion():
             ruta = CONTENIDO / curso / f"examenes/examen-integrado-forma-{forma}.md"
             for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
                 assert not any("Revisa tus respuestas" in o or "responde las pregunta" in o for o in p.opciones or [])
+
+
+def test_tablas_citas_y_titulos_dentro_de_la_pregunta_conservan_sus_lineas():
+    # Auditoría Fase 1 (2026-11-15): unidas con espacios, la app mostraba la tabla de doble entrada
+    # como «| | Lee | No lee |…|---|…» y las instrucciones «### Cómo regar… > 1. …» en una sola línea.
+    tabla = {p.numero: p for p, _ in parsear_prueba_o_examen(
+        (CONTENIDO / "03-medio/pruebas/matematica-unidad-probabilidad-y-estadistica.md").read_text())}[12]
+    assert "\n|---|---|---|---|\n| Viaja en metro | 30 | 90 | 120 |\n" in tabla.enunciado
+    assert tabla.enunciado.endswith("\n\n¿Cuánto vale P(lee en el trayecto | viaja en bus)?")
+    cita = {p.numero: p for p, _ in parsear_prueba_o_examen(
+        (CONTENIDO / "01-basico/examenes/examen-integrado-forma-b.md").read_text())}[14]
+    assert "\n\n### Cómo regar una planta\n\n> 1. Llena la regadera con agua.\n> 2." in cita.enunciado
+    texto = "**1. (Alternativas)** Si a > 0 en f(x) = ax²,\nla parábola abre hacia arriba.\na) Sí\nb) No\n## Pauta\n1. a"
+    assert parsear_prueba_o_examen(texto)[0][0].enunciado == "Si a > 0 en f(x) = ax², la parábola abre hacia arriba."

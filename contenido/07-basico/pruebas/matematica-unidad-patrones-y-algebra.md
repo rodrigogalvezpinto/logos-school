@@ -114,7 +114,7 @@ d) 60 litros
 
 ## Pauta de respuestas
 
-1. d) 3x − 4.
+1. d) 3x − 4. "El triple de un número" es 3x y "menos 4" se resta después: 3x − 4. En cambio, 3(x − 4) sería el triple de "un número menos 4".
 2. Verdadero. Primero se suma 5 y luego se multiplica todo por 2: 2(x + 5).
 3. a) 2n + 1. La secuencia aumenta de 2 en 2; comprobando con n=1: 2×1+1=3.
 4. a) 3x − 5 = 31; x = 12. 3x = 36 y x = 12. Verificación: 3·12 − 5 = 31 ✓.

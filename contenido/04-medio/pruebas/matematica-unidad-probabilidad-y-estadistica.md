@@ -19,122 +19,117 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 2","6":"OA
 **Cantidad de preguntas:** 14
 **Se permite el uso de calculadora.**
 
-Instrucciones: resuelve cada pregunta mostrando tu razonamiento cuando
-corresponda. Esta prueba combina cálculo con los modelos binomial y normal,
+Instrucciones: resuelve cada pregunta en tu cuaderno y luego marca la
+alternativa correcta. Esta prueba combina cálculo con los modelos binomial y normal,
 y evaluación crítica de argumentos estadísticos.
 
 ---
 
 ## Preguntas
 
-1. *(Alternativas)* ¿Cuál de las siguientes situaciones se modela mejor con
-   una distribución binomial?
-   a) la estatura de 100 estudiantes de un curso
-   b) el número de veces que sale "6" al lanzar un dado 10 veces
-   c) el tiempo que demora un estudiante en resolver una prueba
-   d) el peso de 50 mochilas escolares
+1. *(Alternativas)* ¿Cuál de las siguientes situaciones se modela mejor con una distribución binomial?
 
-2. *(Verdadero o falso)* En una distribución normal, aproximadamente el 95%
-   de los datos se encuentra dentro de 2 desviaciones estándar de la media.
+a) La temperatura máxima de cada día de un mes
+b) El número de semillas que germinan de 20 sembradas, si cada una germina con probabilidad 0,7
+c) El tiempo que se espera el bus en un paradero
+d) La masa de 40 manzanas de una caja
 
-3. *(Calcular)* En un modelo binomial con n=8 y p=0,5, ¿cuál es el valor
-   esperado (media) del número de éxitos?
-   a) 8
-   b) 0,5
-   c) 4
-   d) 2
+2. *(Verdadero o falso)* Si las notas de una prueba siguen una distribución normal con media 5,0 y desviación estándar 0,5, aproximadamente el 68% de los estudiantes obtuvo entre 4,5 y 5,5.
 
-4. *(Alternativas — completar)* El modelo binomial se aplica a variables ___ y el normal a variables ___.
+3. *(Alternativas — Calcular)* En un modelo binomial con n = 20 y p = 0,25, ¿cuál es el valor esperado (media) del número de éxitos?
 
-a) discretas; continuas
-b) continuas; discretas
-c) cualitativas; nominales
-d) aleatorias; fijas
+a) 20
+b) 0,25
+c) 5
+d) 15
 
-5. *(Alternativas — probabilidad binomial)* Un vendedor cierra una venta con probabilidad 0,3 por visita. En 4 visitas, ¿cuál es la probabilidad de cerrar exactamente 2?
+4. *(Alternativas — completar)* El número de penales convertidos en una tanda es una variable ___, y el tiempo que tarda un corredor en terminar una maratón es una variable ___.
 
-a) 0,09
-b) 0,6
-c) ≈ 0,0441
-d) ≈ 0,2646
+a) discreta; continua
+b) continua; discreta
+c) cualitativa; nominal
+d) aleatoria; fija
 
-6. *(Alternativas — regla empírica)* El tiempo de reacción es normal con μ = 0,8 s y σ = 0,1 s. ¿Entre qué valores está aproximadamente el 95% de los conductores?
+5. *(Alternativas — probabilidad binomial)* Una basquetbolista encesta un triple con probabilidad 0,4. En 3 lanzamientos independientes, ¿cuál es la probabilidad de encestar exactamente 2?
 
-a) Entre 0,7 y 0,9 s
-b) Entre 0,6 y 1,0 s
-c) Entre 0,5 y 1,1 s
-d) Entre 0 y 0,8 s
+a) 0,16
+b) 0,8
+c) 0,096
+d) 0,288
 
-7. *(Alternativas — elegir modelo)* En un ensayo con 50 pacientes se estudia (1) si cada uno presenta o no un efecto secundario y (2) su presión arterial sistólica. ¿Qué modelos corresponden?
+6. *(Alternativas — regla empírica)* La estatura de los hombres adultos de una ciudad se distribuye normal con μ = 170 cm y σ = 6 cm. ¿Entre qué valores está aproximadamente el 95% de ellos?
+
+a) Entre 164 y 176 cm
+b) Entre 158 y 182 cm
+c) Entre 152 y 188 cm
+d) Entre 0 y 170 cm
+
+7. *(Alternativas — elegir modelo)* En un experimento con 30 macetas se estudia (1) si la semilla de cada maceta germina o no, y (2) la altura que alcanza cada planta a las cuatro semanas. ¿Qué modelos corresponden?
 
 a) (1) normal; (2) binomial
 b) Ambos binomiales
 c) (1) binomial; (2) normal
 d) Ambos normales
 
-8. *(Alternativas — probabilidad binomial)* Un estudiante responde al azar 5 preguntas de verdadero o falso. ¿Cuál es la probabilidad de acertar las 5?
+8. *(Alternativas — probabilidad binomial)* Un estudiante responde al azar 4 preguntas de alternativas, cada una con 4 opciones y una sola correcta. ¿Cuál es la probabilidad de acertar las 4?
 
-a) 0,03125
-b) 0,5
-c) 0,1
-d) 0,25
+a) ≈ 0,0039
+b) 0,25
+c) 1
+d) 0,0625
 
-9. *(Verdadero o falso — límites de un argumento)* Una encuesta a 30
-   personas en un centro comercial de un solo barrio de Santiago concluye
-   que "el 70% de los chilenos prefiere el producto X". Esta conclusión
-   está bien fundamentada.
+9. *(Verdadero o falso — límites de un argumento)* Una encuesta en línea respondida por 2.000 integrantes del club de fans de un cantante concluye que "el 90% de los jóvenes chilenos prefiere a ese cantante". Esta conclusión está bien fundamentada, porque la muestra es grande.
 
-10. *(Alternativas — correlación y causalidad)* En distintas ciudades hay una fuerte correlación entre el número de heladerías y de ahogamientos en piscinas. ¿Se puede concluir que las heladerías causan ahogamientos?
+10. *(Alternativas — correlación y causalidad)* Al revisar muchos incendios se observa que, mientras más bomberos acuden, mayores son los daños. ¿Se puede concluir que los bomberos causan los daños?
 
 a) Sí: una correlación fuerte prueba causalidad
-b) Sí: comer helado antes de nadar produce ahogamientos
+b) Sí: los bomberos dañan las casas al apagar el fuego
 c) No: no existe ninguna correlación entre ambas variables
-d) No: ambas variables dependen de una tercera, la temperatura
+d) No: ambas variables dependen de una tercera, el tamaño del incendio
 
-11. *(Alternativas — comparar experimentos)* Con 10 pacientes por grupo, el tratamiento A tiene p = 0,6 y el B, p = 0,75. ¿Qué número promedio de éxitos tiene cada uno?
+11. *(Alternativas — comparar experimentos)* Se siembran 20 semillas de cada variedad: la variedad A germina con p = 0,55 y la B, con p = 0,8. ¿Qué número promedio de semillas germinadas se espera en cada una?
 
-a) A: 7,5; B: 6
-b) A: 6; B: 7,5
-c) A: 0,6; B: 0,75
-d) Ambos 10
+a) A: 16; B: 11
+b) A: 11; B: 16
+c) A: 0,55; B: 0,8
+d) Ambas 20
 
-12. *(Alternativas — límites de una encuesta)* Una encuesta telefónica solo contacta a mayores de 60 años y generaliza su resultado a "toda la población". ¿Qué límite tiene?
+12. *(Alternativas — límites de una encuesta)* Una encuesta respondida solo por usuarios de una aplicación para registrar entrenamientos concluye que "los chilenos hacen ejercicio cinco veces por semana". ¿Qué límite tiene?
 
 a) Ninguno: cualquier muestra grande representa a toda la población
 b) Que hubo demasiados encuestados y eso aumenta el margen de error
-c) Sesgo de muestra: la muestra no es representativa de toda la población votante
-d) Que las encuestas telefónicas son ilegales si no se avisa con anticipación
+c) Sesgo de muestra: quienes usan esa aplicación no son representativos de toda la población
+d) Que las encuestas en aplicaciones son ilegales
 
-13. *(Alternativas — al menos uno)* La probabilidad de retraso de un vuelo es 0,1. En 3 vuelos independientes, ¿cuál es la probabilidad de que al menos uno se retrase?
+13. *(Alternativas — al menos uno)* La probabilidad de que una ampolleta falle durante el primer año es 0,2. Si se instalan 2 ampolletas que funcionan de forma independiente, ¿cuál es la probabilidad de que al menos una falle durante el primer año?
 
-a) 0,271
-b) 0,3
-c) 0,001
-d) 0,729
+a) 0,36
+b) 0,4
+c) 0,04
+d) 0,64
 
-14. *(Varias correctas — evaluar un argumento)* "Un estudio de 15 personas demuestra que el suplemento X mejora la memoria." ¿Qué preguntas conviene hacerse? Marca **todas** las correctas.
+14. *(Varias correctas — evaluar un argumento)* Un video afirma: "Mi método de estudio sube las notas: 12 de mis seguidores lo probaron y mejoraron". ¿Qué preguntas conviene hacerse? Marca **todas** las correctas.
 
-a) ¿Es suficiente una muestra de 15 personas?
-b) ¿Hubo un grupo de control?
-c) ¿Se controlaron otras variables, como el sueño o la dieta?
-d) ¿De qué color es la caja del suplemento?
+a) ¿Son suficientes 12 personas y cómo fueron elegidas?
+b) ¿Hubo un grupo de comparación que no usó el método?
+c) ¿Pudieron influir otras variables, como estudiar más horas o tener una prueba más fácil?
+d) ¿Cuántos seguidores tiene quien hizo el video?
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** Número fijo de ensayos, dos resultados posibles, se cuenta un
-   número de éxitos: condiciones del modelo binomial.
-2. **Verdadero.** Regla empírica 68-95-99,7.
-3. **c) 4.** μ = n×p = 8×0,5 = 4.
-4. a) discretas; continuas. El binomial cuenta resultados y el normal mide en una escala continua.
-5. d) ≈ 0,2646. C(4,2) · 0,3² · 0,7² = 6 · 0,09 · 0,49; 0,0441 olvida el coeficiente C(4,2).
-6. b) Entre 0,6 y 1,0 s. Μ ± 2σ; 0,7–0,9 corresponde a μ ± σ (≈ 68%).
-7. c) (1) binomial; (2) normal. (1) es un conteo de resultados binarios; (2) es una variable continua.
-8. a) 0,03125. (0,5)⁵ = 1/32.
-9. **Falso.** Muestra pequeña y no representativa de "los chilenos".
-10. d) No: ambas variables dependen de una tercera, la temperatura. Correlación no implica causalidad cuando hay una variable oculta.
-11. b) A: 6; B: 7,5. Μ = n · p.
-12. c) Sesgo de muestra: la muestra no es representativa de toda la población votante. Generalizar a toda la población no está fundamentado.
-13. a) 0,271. 1 − (0,9)³ = 1 − 0,729; 0,729 es la probabilidad de que ninguno se retrase.
-14. a, b y c — También conviene preguntar si el resultado fue estadísticamente significativo.
+1. **b.** Número fijo de ensayos (20), dos resultados posibles (germina o no), probabilidad constante y se cuentan los éxitos: condiciones del modelo binomial.
+2. **Verdadero.** Entre μ − σ y μ + σ está cerca del 68% de los datos (regla empírica 68-95-99,7).
+3. **c) 5.** μ = n × p = 20 × 0,25 = 5; 15 es el número esperado de fracasos.
+4. a) discreta; continua. El binomial cuenta resultados y el normal mide en una escala continua.
+5. d) 0,288. C(3,2) · 0,4² · 0,6 = 3 · 0,16 · 0,6; 0,096 olvida el coeficiente C(3,2).
+6. b) μ ± 2σ = 170 ± 12; 164–176 corresponde a μ ± σ (≈ 68%).
+7. c) (1) es un conteo de resultados binarios; (2) es una variable continua.
+8. a) (0,25)⁴ = 1/256 ≈ 0,0039.
+9. **Falso.** Una muestra grande no corrige el sesgo: los fans de un cantante no representan a "los jóvenes chilenos".
+10. d) Correlación no implica causalidad cuando hay una variable oculta: los incendios grandes causan más daños y requieren más bomberos.
+11. b) μ = n · p: A = 20 · 0,55 = 11; B = 20 · 0,8 = 16.
+12. c) Generalizar a toda la población no está fundamentado.
+13. a) 1 − (0,8)² = 1 − 0,64; 0,64 es la probabilidad de que ninguna falle.
+14. a, b y c — También conviene preguntar si el resultado se repitió en un estudio más amplio.

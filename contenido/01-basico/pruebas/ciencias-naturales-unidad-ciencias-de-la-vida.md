@@ -94,7 +94,7 @@ b) Falso
 
 1. b) Una pelota. No nace, no crece ni se reproduce: es un objeto.
 2. Verdadero. Todos los seres vivos nacen, crecen, se reproducen y mueren.
-3. d) El sapo
+3. d) El sapo. El sapo nace, se alimenta, crece y respira: es un ser vivo. El agua y las piedras no hacen nada de eso.
 4. c) El cóndor. Vive en la cordillera de los Andes y está en el escudo de Chile.
 5. b) Mirar el nido de lejos, sin tocarlo. Así los padres pueden seguir cuidando los huevos.
 6. c) Oído. Con los oídos escuchamos los sonidos.

@@ -103,15 +103,15 @@ d) Porque evaluar impide construir cualquier obra
 
 ## Pauta de respuestas
 
-1. c) El cultivo en terrazas y la domesticación de llamas y alpacas, adaptados a la montaña.
+1. c) El cultivo en terrazas y la domesticación de llamas y alpacas, adaptados a la montaña. Los incas construyeron terrazas (andenes) para cultivar en las laderas y criaron llamas y alpacas, que dan lana, carne y transporte en la altura.
 2. Verdadero. La relación ser humano-medio es de doble vía: nos adaptamos al medio y también lo transformamos.
-3. a) 1-C, 2-B, 3-A
+3. a) 1-C, 2-B, 3-A. Los ríos como el Nilo dan tierras fértiles (1-C); la deforestación muestra la fragilidad del medio (2-B), y un volcán activo es una amenaza del entorno (3-A).
 4. a, b y c — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
 5. d) Las crecidas del Nilo depositaban limo fértil en sus orillas, lo que permitió una agricultura productiva en medio del desierto.
-6. c) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio
+6. c) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio. Algunos ecosistemas, como suelos o bosques, tardan siglos en recuperarse o no se recuperan. Saberlo ayuda a decidir dónde y cómo habitar sin destruir el entorno.
 7. b) Construir edificios con normas antisísmicas, que reducen los daños en un terremoto.
 8. Verdadero. La agricultura generó los primeros impactos importantes en el medio, como la tala de bosques y la modificación de cursos de agua.
-9. c) 1: escala local; 2: escala global
-10. a) Puede producir energía limpia, pero también afectar el paisaje o a las aves de la zona.
-11. d) Continuidad: en ambos casos se transforma el curso del agua para cultivar. Cambio: la escala del impacto y la tecnología son mucho mayores hoy.
+9. c) 1: escala local; 2: escala global. La rotación de cultivos la aplica una comunidad en sus propios campos (escala local); un acuerdo entre países para frenar la deforestación es de escala global.
+10. a) Puede producir energía limpia, pero también afectar el paisaje o a las aves de la zona. Las intervenciones humanas suelen tener efectos positivos y negativos a la vez: la energía eólica no contamina el aire, pero cambia el paisaje y puede afectar a las aves.
+11. d) Continuidad: en ambos casos se transforma el curso del agua para cultivar. Cambio: la escala del impacto y la tecnología son mucho mayores hoy. Desde Mesopotamia hasta hoy, las sociedades desvían el agua para cultivar (continuidad); lo que cambió es la tecnología y el tamaño del impacto en el entorno.
 12. b) Toda intervención puede generar efectos no deseados; una evaluación completa permite decisiones más responsables.

@@ -33,14 +33,13 @@ las futuras generaciones de satisfacer las suyas
 d) Un desarrollo centrado exclusivamente en la protección ambiental, sin considerar el
 bienestar de las personas
 
-2. **(Verdadero o Falso)** El cambio climático es un problema exclusivamente ambiental, sin
-relación con los modelos de desarrollo ni con la vida digna de las personas.
+2. **(Verdadero o Falso)** Las sequías prolongadas que afectan a comunidades rurales de Chile son un problema solo de la naturaleza, sin relación con las decisiones sobre cómo se produce y cómo se distribuye el agua.
 
-3. **(Alternativas — unir)** Une cada dimensión del desarrollo sustentable con su ejemplo:
+3. **(Alternativas — unir)** Una viña del valle de Colchagua presenta su plan de sustentabilidad. Une cada dimensión con la medida que le corresponde:
 
 1) Dimensión económica — 2) Dimensión social — 3) Dimensión ambiental
 
-Ejemplos: (A) Que las personas accedan a vivienda, salud, educación y trabajo digno — (B) Que las actividades productivas no destruyan los ecosistemas — (C) Que las actividades productivas sean viables y generen bienestar
+Medidas: (A) Contratos estables y capacitación para los temporeros de la zona — (B) Riego tecnificado y protección del bosque nativo que rodea los viñedos — (C) Exportar vinos con sello de origen que permitan obtener mejores precios y mantener la empresa en el tiempo
 
 ¿Qué combinación es correcta?
 
@@ -78,11 +77,11 @@ ofrecen
 7. **(Verdadero o Falso)** Cualquier grupo de personas trabajadoras puede exigir negociación
 colectiva sobre cualquier materia, sin límites ni procedimientos establecidos por la ley.
 
-8. **(Alternativas — unir)** Une cada tendencia del debate laboral con su contenido:
+8. **(Alternativas — unir)** Une cada tendencia del debate laboral con una situación:
 
 1) Teletrabajo — 2) Corresponsabilidad en el cuidado — 3) Disminución de la jornada
 
-Contenidos: (A) Distribuir entre ambos progenitores, con apoyo de la organización del trabajo, la responsabilidad por hijos e hijas — (B) Trabajo remoto que plantea desafíos como el derecho a la desconexión — (C) Reducción del máximo legal de horas semanales de trabajo
+Situaciones: (A) Un padre usa parte del postnatal parental y su empresa le permite salir antes para retirar a su hija del jardín — (B) Una diseñadora trabaja desde su casa y pide no recibir correos laborales después de las 19:00 — (C) Una fábrica reorganiza sus turnos porque la ley baja el máximo de horas semanales
 
 ¿Qué combinación es correcta?
 
@@ -116,11 +115,11 @@ públicas sin depender de medios tradicionales
 c) La difusión de mensajes de campaña segmentados sin transparencia, que permite a cada votante recibir solo lo que le interesa
 d) La circulación viral de contenido sin verificar, que permite que cualquier versión de los hechos llegue rápido a todos
 
-12. **(Alternativas — unir)** Une cada concepto con su definición:
+12. **(Alternativas — unir)** Une cada concepto con una situación:
 
 1) Desinformación — 2) Microsegmentación — 3) Concentración de medios
 
-Definiciones: (A) Uso de datos personales para dirigir mensajes específicos a distintos perfiles de votantes — (B) Contenido falso o engañoso que circula, a veces deliberadamente — (C) Pocos actores controlan gran parte de los medios de un país
+Situaciones: (A) Durante una campaña, una candidatura envía anuncios distintos a jóvenes, adultos mayores y agricultores, según los datos que las plataformas tienen de cada uno — (B) Circula por WhatsApp una imagen falsa que asegura que la elección fue cambiada de fecha — (C) Tres grupos empresariales son dueños de la mayoría de los diarios, radios y canales del país
 
 ¿Qué combinación es correcta?
 
@@ -133,9 +132,7 @@ d) 1-B, 2-C, 3-A
 oportunidad y un riesgo para la democracia, según cómo se use la herramienta y con qué
 criterio crítico.
 
-14. **(Alternativas)** Una aplicación solicita acceso a la ubicación en tiempo real del
-usuario sin explicar claramente para qué la usará. ¿Qué principio ciudadano estudiado en este
-OA se ve comprometido?
+14. **(Alternativas)** Un liceo instala cámaras con reconocimiento facial en los pasillos y comparte las grabaciones con una empresa externa, sin informar a los estudiantes ni a sus familias para qué se usarán. ¿Qué principio ciudadano estudiado en este OA se ve comprometido?
 a) La libertad de expresión
 b) El resguardo de la vida privada
 c) La igualdad ante la ley
@@ -156,10 +153,7 @@ d) Como el resultado fue bueno, el riesgo no importa
 capacidad de las futuras generaciones. La sustentabilidad integra las dimensiones económica,
 social y ambiental; no es "cero actividad económica" ni "solo ambiente".
 
-2. **Falso.** El cambio climático está profundamente ligado a los modelos de desarrollo (uso
-intensivo de combustibles fósiles, degradación de ecosistemas) y afecta la vida digna de
-comunidades concretas —sequías, incendios, escasez hídrica—, muchas veces a quienes menos
-contribuyeron a causarlo.
+2. **Falso.** La escasez hídrica se vincula con el cambio climático y también con el modelo de desarrollo (cómo se asigna y se usa el agua), y afecta la vida digna de comunidades concretas, muchas veces de quienes menos contribuyeron a causarla.
 
 3. a) 1-C, 2-A, 3-B. Un modelo sustentable debe considerar las tres dimensiones a la vez.
 
@@ -178,7 +172,7 @@ pueden negociarse, qué trabajadores y empleadores están comprendidos y qué pr
 deben seguirse; no es un mecanismo universal disponible para cualquier grupo sobre cualquier
 tema.
 
-8. d) 1-B, 2-A, 3-C. Estas tendencias, junto con la flexibilidad laboral, marcan las demandas actuales sobre derechos laborales.
+8. d) 1-B, 2-A, 3-C. Estas tendencias marcan las demandas actuales sobre derechos laborales.
 
 9. **a)** El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de
 sala cuna buscan que tener hijos e hijas no signifique perder el empleo ni los ingresos.
@@ -195,7 +189,6 @@ decisiones públicas sin depender de medios tradicionales. Las otras opciones de
 participación también exponen a desinformación y cámaras de eco; el resultado depende del uso
 y del criterio crítico con que se consuman.
 
-14. **b)** El resguardo de la vida privada. La falta de información clara sobre el uso de
-datos personales es uno de los riesgos centrales de este OA.
+14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de este OA.
 
 15. a, b y c — Una práctica grupal posible es acordar en el curso o la familia pautas de verificación y cuidado de datos antes de compartir contenido viral.

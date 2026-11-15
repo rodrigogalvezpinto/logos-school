@@ -85,9 +85,9 @@ d) A un carabinero
 ## Pauta de respuestas
 
 1. b) Usar el cinturón de seguridad o tu silla de auto. Es una norma que nos protege en caso de un choque.
-2. Falso
+2. Falso. Antes de cruzar hay que detenerse, mirar a ambos lados y cruzar caminando, de la mano de un adulto. Entre autos estacionados los conductores no nos ven.
 3. c) Guardarlos en su lugar para que otros los puedan usar. Cuidar lo que es de todos ayuda a convivir bien.
 4. a) A los bomberos. Apagan incendios y rescatan a las personas.
-5. Verdadero
+5. Verdadero. Los bomberos son personas que trabajan para ayudar a la comunidad: apagan incendios y rescatan a quienes están en peligro.
 6. c) En la biblioteca. Presta libros a la comunidad.
 7. d) A un carabinero. Carabineros cuida la seguridad de las personas y puede ayudarlo a encontrar a su familia.

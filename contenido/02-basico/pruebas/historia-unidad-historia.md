@@ -102,10 +102,10 @@ d) 1-B, 2-A, 3-C
 ## Pauta de respuestas
 
 1. **c)** Nómade, porque se trasladaban de un lugar a otro sin vivienda permanente.
-2. d) Los aymara, que criaban llamas y alpacas en el altiplano
-3. **b)** El palín
+2. d) Los aymara, que criaban llamas y alpacas en el altiplano. Los aymara viven en el altiplano del norte y crían llamas y alpacas, que les dan lana, carne y transporte.
+3. **b)** El palín. El palín es un juego mapuche que se juega en equipos con un palo curvo (wiño) y una bola pequeña; se parece al hockey.
 4. b) Hablar su lengua, como el mapudungun o el aymara. Muchas familias indígenas mantienen su lengua y sus tradiciones, aunque hoy vivan en ciudades.
-5. **a)** Mezcla aportes indígenas y españoles: es mestiza.
+5. **a)** Mezcla aportes indígenas y españoles: es mestiza. El charquicán mezcla ingredientes indígenas y españoles, "guagua" y "cancha" son palabras de origen quechua, y las fiestas católicas llegaron con los españoles. Esa mezcla es el mestizaje.
 6. a y c — El trigo y el caballo llegaron con los españoles; la quinoa y la papa son aportes indígenas.
 7. **a)** La llegada de inmigrantes desde Perú, que trajeron su cocina.
-8. d) 1-B, 2-A, 3-C
+8. d) 1-B, 2-A, 3-C. El kuchen lo trajeron los inmigrantes alemanes al sur; el trigo y el caballo llegaron con los españoles, y el choclo y la papa los cultivaban los pueblos indígenas desde antes.

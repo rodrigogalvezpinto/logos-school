@@ -115,7 +115,7 @@ d) "Los árboles árboles ayudan ayudan, y los árboles son árboles."
 
 1. **c.** Al ser un comunicado del propio emisor de la obra, su propósito es informar resaltando lo positivo, sin incluir los reclamos que sí aparecen en la Fuente 2.
 2. **Falso.** La Fuente 2 dice que los feriantes afirman que sus ventas bajaron, pero no entrega ninguna cifra.
-3. a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y los reclamos de los feriantes, con una visión más equilibrada
+3. a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y los reclamos de los feriantes, con una visión más equilibrada. La Fuente 1 destaca solo lo positivo del parque; la Fuente 2 también recoge los reclamos de los feriantes. Comparar fuentes ayuda a tener una visión más completa.
 4. **d.** Al ser un reportaje de un diario local, su destinatario natural son los lectores interesados en la actualidad de la comuna.
 5. **c.** El pronombre "él" es ambiguo: para mantener los referentes conviene escribir "porque Diego tenía frío".
 6. d) Sofía se quedó mirando los cuadros mientras Valentina tomaba fotos. Con dos personajes del mismo género, conviene usar sus nombres en vez de un pronombre ambiguo.
@@ -123,5 +123,5 @@ d) "Los árboles árboles ayudan ayudan, y los árboles son árboles."
 8. **a.** "Primero", "después" y "finalmente" ordenan los sucesos, y "como resultado" marca la consecuencia.
 9. **b.** Es un párrafo de síntesis: resume las ideas principales desarrolladas en el artículo.
 10. **Falso.** La síntesis debe retomar y resumir las ideas ya desarrolladas, no introducir temas nuevos.
-11. b) Porque permite recordar y ordenar las ideas principales sin releer todo el texto
+11. b) Porque permite recordar y ordenar las ideas principales sin releer todo el texto. La síntesis final reúne las ideas más importantes del artículo en pocas líneas, sin agregar información nueva: así el lector las recuerda y las ordena.
 12. **b.** Usa verbos y expresiones distintas (producen, protegen, ofrecen refugio) en lugar de repetir las mismas palabras.

@@ -326,7 +326,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | Probabilidad y Estadística | 8 | OA 2 |
 | **Total** | **25** | **3 OA** |
 
-**Tipo de preguntas:** 11 de alternativas (4 opciones) y 14 de desarrollo (resuelva y muestre su desarrollo), replicando la proporción del Examen Libre de Mineduc para Matemática. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite enunciados, datos numéricos ni contextos de otro instrumento del mismo curso; todas evalúan los mismos 3 OA con situaciones distintas.
+**Tipo de preguntas:** todas de alternativas (4 opciones, una sola correcta); en las de cálculo, resuelva en el cuaderno antes de elegir. Todas las preguntas son originales, inspiradas en los ejemplos y preguntas de autoevaluación del banco de /03-medio/matematica.md, sin copiar preguntas reales de Mineduc. Ninguna pregunta de esta Forma B repite enunciados, datos numéricos ni contextos de otro instrumento del mismo curso; todas evalúan los mismos 3 OA con situaciones distintas.
 
 ---
 

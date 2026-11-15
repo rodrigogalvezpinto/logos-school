@@ -162,7 +162,7 @@ d) Eduardo Frei Montalva
    magnitud —y atrocidades como las cometidas durante ella— volviera a ocurrir.
 4. **c)** En la década de 1960, especialmente con la ley de 1967, y se profundizó a comienzos de la década de 1970.
 5. b) Fue el momento de mayor riesgo de guerra nuclear de la Guerra Fría, resuelto mediante negociación.
-6. d) Su construcción simbolizó la división de Alemania y de Europa en bloques; su caída, el fin de esa división bipolar, anticipando la disolución de la URSS en 1991
+6. d) Su construcción simbolizó la división de Alemania y de Europa en bloques; su caída, el fin de esa división bipolar, anticipando la disolución de la URSS en 1991. El Muro (1961) separó Berlín Oriental, del bloque soviético, de Berlín Occidental, y simbolizó la Guerra Fría; su caída (1989) anticipó la reunificación alemana (1990) y el fin de la URSS (1991).
 7. a) El Plan Marshall, que además buscaba frenar la influencia soviética en Europa occidental.
 8. b) 2 → 1 → 4 → 3. Revolución Cubana (1959), Muro de Berlín (1961), golpe de Estado en Chile (1973) y caída del Muro (1989).
 9. d) La caída del Muro de Berlín; la URSS se disolvió dos años después, en 1991.

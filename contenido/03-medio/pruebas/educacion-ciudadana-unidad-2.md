@@ -17,41 +17,38 @@ oa_por_pregunta: {"1":"OA 5","2":"OA 5","3":"OA 5","4":"OA 5","5":"OA 5","6":"OA
 
 **Tiempo sugerido:** 50-60 minutos &nbsp;|&nbsp; **N° de preguntas:** 15
 
-**Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
-sola respuesta correcta. Las preguntas de desarrollo o análisis de caso requieren que
-fundamentes tu respuesta con argumentos, no solo una afirmación.
+**Instrucciones:** Lee cada pregunta con atención. En las preguntas de alternativas, marca
+solo una opción. En las de «varias correctas», marca todas las opciones correctas. En las de
+verdadero o falso, decide si la afirmación es verdadera o falsa.
 
 ---
 
 ### OA 5 — Derechos Humanos: reconocimiento, defensa y exigibilidad
 
-**Pregunta 1.** *(Alternativas)* ¿Qué principio de los Derechos Humanos explica que una
-persona no pueda renunciar voluntariamente a su derecho a la vida?
+**Pregunta 1.** *(Alternativas)* Un contrato de trabajo incluye una cláusula en que el trabajador "acepta renunciar a su libertad de asociación y no formar parte de ningún sindicato". Esa cláusula no tiene valor porque los Derechos Humanos no pueden cederse ni venderse. ¿Qué principio lo explica?
 
 a) Universalidad
 b) Indivisibilidad
 c) Inalienabilidad
 d) Igualdad
 
-**Pregunta 2.** *(Varias correctas — análisis de caso)* Un municipio niega la matrícula escolar a un niño migrante sin documentación regularizada. ¿Qué principios se vulneran? Marca **todas** las correctas.
+**Pregunta 2.** *(Varias correctas — análisis de caso)* Un consultorio se niega a atender a una adolescente con fiebre alta porque pertenece a un pueblo originario y "no habla bien español". ¿Qué principios de los Derechos Humanos se vulneran? Marca **todas** las correctas.
 
 a) Universalidad
 b) No discriminación
 c) Soberanía popular
 d) Control de la agenda
 
-**Pregunta 3.** *(Verdadero o Falso)* Existe amplio consenso democrático, en Chile y en el
-mundo, en que las violaciones sistemáticas a los Derechos Humanos no se justifican bajo ningún
-gobierno o ideología.
+**Pregunta 3.** *(Verdadero o Falso)* El Estado tiene el deber no solo de abstenerse de violar los Derechos Humanos, sino también de protegerlos y promoverlos, por ejemplo con instituciones como el Instituto Nacional de Derechos Humanos (INDH) y la Defensoría de la Niñez.
 
-**Pregunta 4.** *(Alternativas)* ¿Qué son los Derechos Humanos?
+**Pregunta 4.** *(Alternativas)* Una persona privada de libertad por un delito conserva su derecho a no ser torturada y a recibir atención de salud. ¿Qué característica de los Derechos Humanos ilustra este caso?
 
-a) Los derechos que corresponden a toda persona por el solo hecho de ser humana, sin distinción de ninguna condición
-b) Los derechos que el Estado concede solo a sus ciudadanos, y que puede quitar si lo estima necesario
-c) Los derechos de quienes cumplen la ley, que se pierden al cometer cualquier delito
-d) Los derechos que se compran con los impuestos que paga cada persona durante su vida
+a) Que corresponden a toda persona por el solo hecho de ser humana, sin depender de su conducta ni de otra condición
+b) Que el Estado los concede solo a quienes cumplen la ley y puede quitarlos como castigo
+c) Que solo los tienen los ciudadanos con derecho a voto
+d) Que se adquieren pagando impuestos
 
-**Pregunta 5.** *(Alternativas — análisis de caso)* Un gobierno prioriza solo la vida y la libertad personal y posterga indefinidamente la inversión en vivienda y salud. ¿Qué principio vulnera?
+**Pregunta 5.** *(Alternativas — análisis de caso)* Un gobierno invierte en elecciones libres y en garantizar la libertad de expresión, pero sostiene que la educación y la salud "pueden esperar algunas décadas". ¿Qué principio de los Derechos Humanos desconoce?
 
 a) Universalidad territorial
 b) Soberanía popular
@@ -62,19 +59,18 @@ d) Indivisibilidad
 
 ### OA 6 — Formas de participación y bien común
 
-**Pregunta 6.** *(Alternativas)* ¿Qué perspectiva filosófico-política pone mayor énfasis en la
-libertad individual como base del bien común?
+**Pregunta 6.** *(Alternativas)* "El Estado debe garantizar que cada persona elija libremente su propio plan de vida, siempre que no dañe a otros; el bien común es el marco que protege esas libertades." ¿Qué perspectiva expresa esta frase?
 
 a) Republicanismo
 b) Totalitarismo
 c) Comunitarismo
 d) Liberalismo
 
-**Pregunta 7.** *(Alternativas — unir)* Une cada perspectiva con su idea central del bien común:
+**Pregunta 7.** *(Alternativas — unir)* Une cada perspectiva con una frase que la represente:
 
 1) Republicanismo — 2) Liberalismo — 3) Comunitarismo
 
-Ideas: (A) La libertad individual y los derechos de cada persona — (B) Las comunidades, tradiciones y lazos compartidos — (C) La participación cívica activa como virtud ciudadana
+Frases: (A) "Nadie puede imponerme una idea de vida buena: mis derechos son el límite" — (B) "Somos lo que somos gracias a nuestra familia, nuestra cultura y nuestro territorio" — (C) "Un buen ciudadano participa en los asuntos públicos y vigila a sus autoridades"
 
 ¿Qué combinación es correcta?
 
@@ -83,45 +79,43 @@ b) 1-B, 2-C, 3-A
 c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
-**Pregunta 8.** *(Varias correctas — análisis de caso)* Jóvenes participan voluntariamente limpiando playas y ríos. ¿Con qué formas de participación se vincula este fenómeno? Marca **todas** las correctas.
+**Pregunta 8.** *(Varias correctas — análisis de caso)* Un grupo de estudiantes crea una cuenta de divulgación sobre el reciclaje y organiza con la junta de vecinos un punto limpio en la plaza. ¿Con qué formas de participación se vincula? Marca **todas** las correctas.
 
 a) Organizaciones comunitarias y locales
-b) Informarse y emitir juicios y opiniones para generar conciencia pública
+b) Informarse y difundir opiniones para generar conciencia pública
 c) Ejercer un cargo de elección popular
 d) Votar en una elección presidencial
 
-**Pregunta 9.** *(Alternativas)* ¿Qué perspectiva filosófico-política sostiene que las personas
-se constituyen dentro de comunidades (familia, cultura, territorio) y que el bien común no es
-solo la suma de intereses individuales?
+**Pregunta 9.** *(Alternativas)* Una comunidad mapuche sostiene que sus decisiones sobre el territorio deben respetar su lengua, sus tradiciones y su forma de vida colectiva, porque el bienestar de cada integrante está ligado al de la comunidad. ¿Qué perspectiva del bien común se acerca más a este planteamiento?
 
 a) Liberalismo
 b) Comunitarismo
 c) Republicanismo
 d) Ninguna de las anteriores
 
-**Pregunta 10.** *(Alternativas — análisis de caso)* Una persona no vota ni se integra a organizaciones, argumentando que "el bien común se logra mejor si cada quien se dedica a su propia vida sin interferir ni verse obligado a participar". ¿Con qué perspectiva se vincula más?
+**Pregunta 10.** *(Alternativas — análisis de caso)* Un estudiante dice: "No me interesa el centro de alumnos ni ninguna elección; mientras nadie se meta en mi vida, el resto me da lo mismo". ¿Con qué perspectiva se vincula más esta postura?
 
-a) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano
-b) Con el comunitarismo, porque prioriza los lazos de la comunidad y las tradiciones compartidas
-c) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa
-d) Con ninguna perspectiva, porque no participar no tiene relación con el bien común
+a) Con el republicanismo, porque valora la independencia frente a lo público
+b) Con el comunitarismo, porque prioriza los lazos de la comunidad escolar
+c) Con un liberalismo llevado al extremo; se aleja del republicanismo, que valora la participación activa
+d) Con ninguna perspectiva, porque la indiferencia no tiene relación con el bien común
 
 ---
 
 ### OA 7 — Organización política del territorio
 
-**Pregunta 11.** *(Alternativas)* ¿Qué autoridad electa encabeza la escala comunal en Chile?
+**Pregunta 11.** *(Alternativas)* Los vecinos de una población quieren que se instale un semáforo y se repare la plaza del barrio. ¿Qué autoridad electa encabeza el gobierno local al que deben dirigirse primero?
 
 a) El Delegado Presidencial Regional
 b) El alcalde o alcaldesa
 c) El Gobernador o Gobernadora Regional
 d) El Ministro del Interior
 
-**Pregunta 12.** *(Alternativas — unir)* Une cada escala territorial con su autoridad principal:
+**Pregunta 12.** *(Alternativas — unir)* Une cada decisión con la escala territorial que la toma principalmente:
 
 1) Nacional — 2) Regional — 3) Comunal
 
-Autoridades: (A) Alcalde o alcaldesa — (B) Gobierno central / Congreso Nacional — (C) Gobernador o Gobernadora Regional
+Decisiones: (A) Otorgar un permiso de edificación en una calle de la comuna — (B) Aprobar una ley de presupuesto para todo el país — (C) Definir una estrategia de desarrollo con proyectos en varias comunas de la región
 
 ¿Qué combinación es correcta?
 
@@ -130,22 +124,21 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**Pregunta 13.** *(Alternativas — análisis de caso)* Una comuna costera destina, en su plan regulador, una franja frente al mar solo a proyectos inmobiliarios de alto valor, sin áreas verdes públicas; los vecinos exigen reconsiderarlo. ¿Qué conflicto de justicia social hay?
+**Pregunta 13.** *(Alternativas — análisis de caso)* Un lago de la zona sur queda rodeado de parcelas privadas que cierran todos los caminos hacia la orilla; las familias de la comuna ya no pueden llegar a la playa, aunque la ley reconoce el acceso público a las riberas. ¿Qué conflicto de justicia social hay?
 
-a) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir en la comuna
-b) Los vecinos quieren construir edificios de lujo en la franja costera y el municipio se los impide
-c) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
-d) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público
+a) Ninguno, porque las parcelas son privadas y nadie más tiene derechos en ese territorio
+b) Las familias quieren comprar las parcelas y los dueños se niegan a vender
+c) El municipio no tiene ninguna relación con el acceso a los bienes públicos de su comuna
+d) El acceso a un bien de uso público (la orilla del lago) queda restringido a quienes son dueños de las parcelas, excluyendo al resto de la comunidad
 
-**Pregunta 14.** *(Alternativas — análisis de caso)* Los rellenos sanitarios e industrias contaminantes se instalan sistemáticamente en comunas de menores ingresos. ¿Qué concepto describe este patrón?
+**Pregunta 14.** *(Alternativas — análisis de caso)* En la bahía de Quintero-Puchuncaví se concentran durante décadas termoeléctricas, fundiciones y otras industrias, con episodios de intoxicación de estudiantes. ¿Qué concepto describe esta situación?
 
-a) Desarrollo sustentable de las comunas de menores ingresos
+a) Desarrollo sustentable de la bahía
 b) Zona de sacrificio, un ejemplo de falta de justicia ambiental
-c) Comercio justo entre comunas vecinas
+c) Comercio justo entre las comunas de la región
 d) Participación efectiva de los vecinos
 
-**Pregunta 15.** *(Alternativas)* La construcción de obras públicas, como hospitales, caminos o
-puentes, es un ejemplo de cómo el Estado:
+**Pregunta 15.** *(Alternativas)* El Estado decide construir un embalse y una carretera que cambian el uso del suelo y la vida económica de un valle. Este caso es un ejemplo de cómo el Estado:
 
 a) Elabora el censo
 b) Interviene y configura el territorio
@@ -158,22 +151,21 @@ d) Reemplaza las funciones del municipio
 
 | N° | Respuesta correcta |
 |:---:|---|
-| 1 | c) Inalienabilidad. |
-| 2 | **a y b.** La titularidad de los Derechos Humanos no depende de la condición migratoria de la persona. |
-| 3 | Verdadero. |
-| 4 | **a) Los derechos que corresponden a toda persona por el solo hecho de ser humana, sin distinción de ninguna condición.** Su base es la condición humana común a todas las personas. |
+| 1 | c) Inalienabilidad — los Derechos Humanos no pueden cederse, venderse ni renunciarse por contrato. |
+| 2 | **a y b.** Todas las personas tienen derecho a la salud, y negar la atención por el origen étnico o el idioma es discriminación. |
+| 3 | Verdadero — el Estado tiene deberes de respetar, proteger y promover los Derechos Humanos. |
+| 4 | **a)** Los Derechos Humanos se fundan en la condición humana: no se pierden por haber cometido un delito. |
 | 5 | **d) Indivisibilidad.** Los derechos económicos, sociales y culturales tienen la misma jerarquía que los civiles y políticos. |
-| 6 | d) Liberalismo. |
-| 7 | **c) 1-C, 2-A, 3-B.** Cada corriente ofrece un fundamento distinto para pensar el bien común. |
-| 8 | **a y b.** Un mismo fenómeno social puede combinar más de una forma de participación ciudadana. |
-| 9 | b) Comunitarismo. |
-| 10 | **c) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa.** Un argumento puede "sonar" a una corriente sin representarla fielmente si se lleva a un extremo. |
-| 11 | b) El alcalde o alcaldesa. |
-| 12 | **a) 1-B, 2-C, 3-A.** Cada escala tiene autoridades propias con distintas funciones y formas de elección. |
-| 13 | **d) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público.** Los actores son el municipio, las inmobiliarias y los vecinos organizados; las decisiones de uso de suelo no son neutras. |
+| 6 | d) Liberalismo — pone en el centro la libertad individual y los derechos de cada persona. |
+| 7 | **c) 1-C, 2-A, 3-B.** Republicanismo: participación cívica; liberalismo: libertad y derechos individuales; comunitarismo: lazos y tradiciones compartidas. |
+| 8 | **a y b.** El punto limpio con la junta de vecinos es participación comunitaria; la cuenta de divulgación busca generar conciencia pública. |
+| 9 | b) Comunitarismo — las personas se constituyen dentro de comunidades, y el bien común no es solo la suma de intereses individuales. |
+| 10 | **c)** Desentenderse de todo lo público se acerca a un liberalismo extremo; el republicanismo, en cambio, exige participación cívica. |
+| 11 | b) El alcalde o alcaldesa encabeza la municipalidad, a cargo de la escala comunal. |
+| 12 | **a) 1-B, 2-C, 3-A.** La ley de presupuesto es nacional; la estrategia regional, del gobierno regional; los permisos de edificación, del municipio. |
+| 13 | **d)** Las decisiones sobre el uso del territorio no son neutras: pueden excluir a parte de la comunidad de bienes de uso público. |
 | 14 | **b) Zona de sacrificio, un ejemplo de falta de justicia ambiental.** La justicia ambiental pregunta quién carga con la contaminación dentro del territorio. |
-| 15 | b) Interviene y configura el territorio. |
+| 15 | b) Interviene y configura el territorio. Con obras públicas como embalses y carreteras, el Estado transforma el uso del suelo, las actividades económicas y la forma de habitar un territorio. |
 
-**Puntaje sugerido:** 1 punto por alternativa/términos pareados correcta (8 pts), hasta 2
-puntos por pregunta de análisis de caso o desarrollo bien justificada (14 pts). Total: 22 pts.
-Exigencia de referencia: 60% (~13/22 pts).
+**Puntaje sugerido:** 1 punto por pregunta correcta. Total: 15 pts.
+Exigencia de referencia: 60% (9/15 pts).

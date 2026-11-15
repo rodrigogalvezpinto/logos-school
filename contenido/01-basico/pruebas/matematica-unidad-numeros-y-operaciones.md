@@ -81,11 +81,11 @@ d) 156
 
 ## Pauta de respuestas
 
-1. b) 17
+1. b) 17. Diecisiete es "diez y siete": 1 decena y 7 unidades, que se escribe 17.
 2. c) 12 — al contar, el 12 aparece antes que el 18, por eso es menor.
 3. b) 4 — desde el 10 hasta el 14 se avanzan 4 números.
 4. b) 18 — 1 decena vale 10 y se suman 8 unidades: 10 + 8 = 18. El 81 tendría 8 decenas y 1 unidad.
 5. c) 8 — 6 + 2 = 8. El 4 sale si se resta en vez de sumar.
-6. Verdadero
+6. Verdadero. Si tienes 8 y quitas 3, quedan 5. Puedes comprobarlo contando hacia atrás desde 8: 7, 6, 5.
 7. b) 11 — contar de a una, sin saltarse ni repetir estrellas.
 8. a) 9 — regala láminas, así que se resta: 15 − 6 = 9. Sumar (15 + 6 = 21) sería recibir láminas.

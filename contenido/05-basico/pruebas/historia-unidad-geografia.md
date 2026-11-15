@@ -145,7 +145,7 @@ parte de la producción de cobre del país.
 **2.** Verdadero. Los valles transversales del Norte Chico, como el Elqui y el Limarí, permiten la agricultura.
 densidad y cantidad de población de Chile.
 
-**3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
+**3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral. De norte a sur, Chile se divide en Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral.
 
 **4.** a) Norte Grande. Clima desértico, casi sin lluvias, con grandes yacimientos mineros.
 
@@ -153,7 +153,7 @@ densidad y cantidad de población de Chile.
 litorales. La Zona Central presenta con mayor claridad las cuatro macroformas de relieve de
 Chile continental.
 
-**6.** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población.
+**6.** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población. La Zona Central tiene clima templado y concentra la mayor parte de la población (allí están Santiago y Valparaíso). La Zona Austral es fría y es la menos poblada.
 
 **7.** b) Zona Austral. Sus grandes praderas, como las de Magallanes, permiten la crianza de ovejas.
 producción de cobre de Chile.
@@ -161,11 +161,11 @@ producción de cobre de Chile.
 **8.** Falso. Se formaron durante millones de años: una vez extraídos, no se renuevan.
 no se regeneran en una escala de tiempo humana.
 
-**9.** c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
+**9.** c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte. Las lluvias del sur permiten los bosques; la Corriente de Humboldt hace al mar chileno rico en peces, y el norte tiene grandes yacimientos de cobre y otros minerales.
 
 **10.** c) Usar riego por goteo y reparar las filtraciones de los canales. Así se aprovecha el agua sin desperdiciarla.
 cómo cuidar recursos renovables en el marco del desarrollo sostenible.
 
 **11.** b y d — El petróleo y el carbón no se renuevan; el agua de lluvia y los bosques plantados se pueden renovar.
 
-**12.** a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si no se sobreexplotan
+**12.** a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si no se sobreexplotan. Un mineral como el cobre no vuelve a formarse en el tiempo de una vida humana. Los bosques o los peces sí se renuevan, pero solo si no se extraen más rápido de lo que se reproducen.

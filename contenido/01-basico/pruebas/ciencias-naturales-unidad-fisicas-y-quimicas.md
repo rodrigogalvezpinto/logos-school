@@ -87,7 +87,7 @@ d) Apretarla con las manos
 1. c) Género (tela). Es suave y flexible, por eso es cómodo para la ropa.
 2. Verdadero. El vidrio es duro, pero frágil: se quiebra con un golpe.
 3. d) Botella → plástico. La silla suele ser de madera, la pelota de goma y la llave de metal.
-4. b) La cuchara de metal
+4. b) La cuchara de metal. El metal se siente más frío al tocarlo, porque saca rápido el calor de la mano. La madera y el plástico se sienten menos fríos.
 5. c) Se derrite y se ablanda. El calor del sol cambia el chocolate.
 6. Verdadero. La esponja absorbe el agua y por eso pesa más.
 7. d) Apretarla con las manos. Al aplicar fuerza, la plasticina cambia de forma.

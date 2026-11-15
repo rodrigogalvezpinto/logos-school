@@ -143,17 +143,17 @@ d) 2 → 3 → 1 → 4
 
 ## Pauta de respuestas
 
-1. **c)** El Humanismo y el Renacimiento.
+1. **c)** El Humanismo y el Renacimiento. El Humanismo puso al ser humano en el centro y estudió a los autores griegos y romanos; el Renacimiento llevó esas ideas al arte y la ciencia.
 2. **Verdadero** — sus observaciones apoyaron la idea de que la Tierra gira alrededor del Sol.
 3. **d)** Un poder centralizado en el rey, con funcionarios (burocracia) que administran el territorio.
-4. a) 1-B, 2-C, 3-A.
+4. a) 1-B, 2-C, 3-A. Los funcionarios del rey forman la burocracia (B); los recaudadores de impuestos, el sistema fiscal (C), y los soldados pagados de forma permanente, el ejército profesional (A).
 5. **c)** Exportar más de lo que importa, para acumular metales preciosos.
 6. **Verdadero** — la imprenta permitió difundir textos de forma rápida y masiva, lo que impulsó la Reforma.
 7. **a)** Que el sometimiento de los indígenas estaba justificado, idea que hoy se considera inaceptable.
-8. d) Buscaron limitar los abusos de la encomienda y prohibieron esclavizar a los indígenas.
+8. d) Buscaron limitar los abusos de la encomienda y prohibieron esclavizar a los indígenas. Las Leyes Nuevas (1542) prohibieron esclavizar a los indígenas y buscaron frenar los abusos de la encomienda, en parte por las denuncias de fray Bartolomé de las Casas.
 9. **d)** Un sistema en que un español recibía el trabajo o tributo de indígenas a cambio de evangelizarlos; en la práctica dio lugar a muchos abusos.
 10. **Verdadero** — la sociedad colonial se organizaba en grupos según su origen: peninsulares, criollos, mestizos, indígenas y africanos esclavizados.
 11. **c)** Encuentros diplomáticos que mostraron que la frontera del Biobío fue también un espacio de negociación.
-12. **b)** Jean-Jacques Rousseau.
+12. **b)** Jean-Jacques Rousseau. En "El contrato social" (1762), Rousseau sostuvo que la soberanía pertenece al pueblo y que la ley debe expresar la voluntad general. Lutero fue un reformador religioso y Copérnico, un astrónomo.
 13. **b)** Las ideas de la Ilustración y el ejemplo de la independencia de Estados Unidos y de la Revolución Francesa.
 14. b) 2 → 3 → 4 → 1. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817) y Maipú (1818).

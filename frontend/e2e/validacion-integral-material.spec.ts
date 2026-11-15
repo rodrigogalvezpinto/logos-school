@@ -36,7 +36,9 @@ const fixture: { niveles: Nivel[]; claves: Record<string, Clave> } | null = exis
 const FILTRO_NIVEL = process.env['LOGOS_VALIDAR_NIVEL'];
 
 const normalizar = (s: string) => s.replace(/\s+/g, ' ').trim();
-const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji|fraccion|posicion|fila|largo|regla|balanza|barras|linea|circular|caja|mapa)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m, /\bundefined\b/, /\[object Object\]/];
+const RESTOS_PROHIBIDOS = [/::(contar|dibujo|emoji|fraccion|posicion|fila|largo|regla|balanza|barras|linea|circular|caja|mapa)::/, /\*\*Respuesta/i, /Respuesta correcta:/i, /^#{1,6}\s/m,
+  // Tablas y títulos aplanados en una sola línea (2026-11-15): «| | Lee | No lee |…|---|…», «responde. ### Cómo…».
+  /\|\s*:?-{3,}/, /\S\s+#{2,6}\s/, /\bundefined\b/, /\[object Object\]/];
 
 function rutValido(semilla: number): string {
   const cuerpo = String(15000000 + (semilla % 9000000));

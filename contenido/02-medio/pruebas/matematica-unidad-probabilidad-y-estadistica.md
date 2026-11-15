@@ -26,8 +26,7 @@ oa_por_pregunta: {"1":"OA 11","2":"OA 11","3":"OA 11","4":"OA 11","5":"OA 11","6
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F, justificando cuando
    se indique.
-4. Las preguntas de **desarrollo** y **problemas en contexto** se responden mostrando el
-   procedimiento completo, no solo el resultado.
+4. En los problemas en contexto, haz el cálculo en tu cuaderno antes de elegir la alternativa.
 5. Se permite el uso de calculadora, igual que en el examen real.
 6. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
@@ -148,7 +147,7 @@ d) 16
 7. c) 35. C(7, 3) = (7 · 6 · 5)/(3 · 2 · 1) = 35; 210 contaría el orden.
 8. a) 1/10. Un caso favorable entre 10 posibles.
 9. d) 20. 2 · 5 · 2 = 20; el último factor 2 es "con crema" o "sin crema".
-10. b) Son iguales (720), porque 6! = 6 · 5!.
+10. b) Son iguales (720), porque 6! = 6 · 5!. 6! = 6 · 5 · 4 · 3 · 2 · 1 = 6 · (5 · 4 · 3 · 2 · 1) = 6 · 5!. Ambos valen 720.
 11. b) 6. Ordenar 3 objetos distintos corresponde a 3! = 3×2×1 = 6.
 12. b) 10. C(5,2) = 5!/(2!×3!) = (5×4)/(2×1) = 10.
 13. a) 6. C(4, 2) = (4 · 3)/(2 · 1) = 6; 12 contaría el orden.

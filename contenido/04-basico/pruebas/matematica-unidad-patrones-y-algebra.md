@@ -16,7 +16,7 @@ oa_por_pregunta: {"1":"OA 13","2":"OA 13","3":"OA 13","4":"OA 13","5":"OA 14","6
 **Tiempo sugerido: 20-25 minutos**
 **Nombre: _______________________________ Fecha: ___________**
 
-Instrucciones: lee cada pregunta con calma. En las preguntas de alternativas, marca solo una opción. En las de desarrollo, muestra tu procedimiento.
+Instrucciones: lee cada pregunta con calma. En las preguntas de alternativas, marca solo una opción. Si lo necesitas, haz tus cálculos en el cuaderno.
 
 ---
 

@@ -148,10 +148,10 @@ d) Es la luz de las estrellas más cercanas; demuestra que el universo es peque�
 5. d) 5 m/s². a = Δv/Δt = 20/4 = 5 m/s².
 6. b) El vacío. Con la misma fuerza, a menor masa, mayor aceleración (F = m · a).
 7. Verdadero — es un ejemplo de la tercera ley (acción y reacción), con fuerzas que actúan sobre cuerpos distintos.
-8. b) 1: tercera; 2: primera; 3: segunda.
+8. b) 1: tercera; 2: primera; 3: segunda. Al saltar empujas el bote y el bote te empuja a ti (acción y reacción: tercera ley); la vajilla tiende a quedarse en reposo (inercia: primera ley), y con la misma fuerza, menor masa da mayor aceleración (F = m·a: segunda ley).
 9. c) Por inercia (primera ley), el cuerpo tiende a mantener su estado de movimiento.
 10. a) 12 N y 3 m/s². Fuerza neta = 20 − 8 = 12 N; a = 12/4 = 3 m/s².
 11. c) Nicolás Copérnico, que ubicó al Sol en el centro.
 12. Falso — en el modelo geocéntrico, la Tierra está en el centro; el Sol en el centro corresponde al modelo heliocéntrico.
-13. d) Ptolomeo, Kepler, Galileo y Newton.
+13. d) Ptolomeo, Kepler, Galileo y Newton. Ptolomeo propuso el modelo geocéntrico; Kepler describió las órbitas elípticas; Galileo observó con telescopio las lunas de Júpiter, y Newton formuló la gravitación universal.
 14. b) La radiación de fondo es un resto del universo temprano, caliente y denso, y es una de las principales evidencias del Big Bang.

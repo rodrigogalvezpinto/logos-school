@@ -130,7 +130,7 @@ d) Porque no tiene relación con el CO₂
 
 1. c) Un cubo de hielo que se derrite: cambia de estado, pero sigue siendo agua. Las demás situaciones forman sustancias nuevas.
 2. Falso — cocinar un huevo es un cambio químico: sus proteínas cambian y no vuelven a su estado original al enfriarse.
-3. a) 1: oxidación; 2: síntesis; 3: descomposición.
+3. a) 1: oxidación; 2: síntesis; 3: descomposición. La manzana se pone café porque reacciona con el oxígeno del aire (oxidación); sodio y cloro se unen en un solo compuesto (síntesis), y el carbonato de calcio se separa en dos sustancias al calentarlo (descomposición).
 4. d) Endotérmica: absorbe calor del entorno, por eso el vaso se enfría.
 5. d) Las burbujas de dióxido de carbono son evidencia de una reacción química.
 6. c) Es incorrecta: la combustión de bencina libera CO₂ y otros contaminantes.

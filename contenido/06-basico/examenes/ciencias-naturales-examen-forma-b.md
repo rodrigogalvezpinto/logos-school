@@ -331,7 +331,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 25 | Varias correctas | **a, b y d.** Dejar el suelo descubierto aumenta la erosión. | OA 18 |
 
 
-# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+# PUNTAJE Y VERSIÓN ANTERIOR
 
 > **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 

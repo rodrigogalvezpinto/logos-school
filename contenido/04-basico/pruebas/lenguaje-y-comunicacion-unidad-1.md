@@ -113,7 +113,7 @@ d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no co
 
 **3.** a) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia. Comparar personajes es identificar semejanzas y diferencias, apoyándose en lo que el texto muestra.
 
-**4.** d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
+**4.** d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña. El problema es la tormenta que se acerca y la falta de leña para la estufa; se resuelve porque Wladimir ya había juntado la leña.
 
 **5.** b) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta. Una buena opinión explica el porqué con información concreta del texto; también se podría opinar distinto, siempre apoyándose en el texto.
 
@@ -123,4 +123,4 @@ d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no co
 
 **8.** c) Una comparación (símil), porque usa "como" para comparar el volcán con una tetera. La palabra "como" es la pista más clara para reconocer una comparación.
 
-**9.** a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido
+**9.** a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido. Es una comparación: el verde de los árboles cubre la montaña como si fuera un poncho tejido. Nadie tejió un poncho de verdad.

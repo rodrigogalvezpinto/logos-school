@@ -111,7 +111,7 @@ d) Las partículas desaparecen al recibir calor y son reemplazadas por partícul
 2. **Falso.** Tanto los seres vivos como los objetos necesitan energía para que
    ocurra cualquier tipo de cambio, ya sea movimiento, luz, sonido o calor.
 3. a) Energía lumínica. La ampolleta transforma la energía eléctrica en luz (y algo de calor).
-4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol
+4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol. La energía de los alimentos viene del Sol: las plantas la captan con la fotosíntesis, y los animales la obtienen al comer plantas o a otros animales que las comieron.
 5. **d.** La energía solar no se agota con el uso; el petróleo, el gas y el carbón son combustibles fósiles no renovables.
 6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
 7. b y d — Renovables: eólica y geotérmica. No renovables: gas natural y petróleo.
@@ -122,4 +122,4 @@ d) Las partículas desaparecen al recibir calor y son reemplazadas por partícul
     la ebullición ocurre rápidamente en todo el volumen del líquido a una
     temperatura específica.
 11. b) Evaporación (líquido → gas). El calor del sol transforma el agua líquida de la ropa en vapor.
-12. c) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras
+12. c) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras. Al recibir calor, las partículas vibran con más fuerza, se separan un poco y pueden deslizarse unas sobre otras: por eso el líquido fluye y toma la forma del recipiente.

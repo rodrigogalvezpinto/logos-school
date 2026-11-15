@@ -143,15 +143,15 @@ d) En la minería se mezcla el cobre con arena para aumentar su peso
 
 1. b) Aumenta. Al subir la temperatura, las partículas del gas se mueven más rápido y ocupan más espacio.
 2. Verdadero — en los sólidos casi no hay espacio entre las partículas, por lo que prácticamente no se pueden comprimir.
-3. a) 1: Charles; 2: Boyle; 3: Gay-Lussac
-4. d) Porque en un gas las partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión; en un líquido ya están muy juntas
+3. a) 1: Charles; 2: Boyle; 3: Gay-Lussac. Charles relaciona volumen y temperatura (presión constante); Boyle, presión y volumen (temperatura constante), y Gay-Lussac, presión y temperatura (volumen constante).
+4. d) Porque en un gas las partículas están muy separadas, con grandes espacios vacíos que se reducen al aplicar presión; en un líquido ya están muy juntas. En un gas hay mucho espacio vacío entre partículas, que se reduce al comprimirlo. En un líquido las partículas ya están casi en contacto y casi no se pueden acercar más.
 5. b) 3 atmósferas. P₂ = (1 atm × 6 L) / 2 L = 3 atm: al reducir el volumen a un tercio, la presión se triplica.
-6. c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande
-7. a) Porque al aumentar la temperatura aumenta la presión del gas dentro de la lata (Ley de Gay-Lussac) y podría superar la resistencia del envase
+6. c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande. Al calentar la botella, el aire de su interior se expande, ocupa más volumen y empuja el globo, que se infla. Es la Ley de Charles: a mayor temperatura, mayor volumen.
+7. a) Porque al aumentar la temperatura aumenta la presión del gas dentro de la lata (Ley de Gay-Lussac) y podría superar la resistencia del envase. La lata no puede cambiar de volumen; si su temperatura sube, la presión del gas aumenta (Gay-Lussac) y la lata podría reventar.
 8. c) Filtración. El filtro deja pasar el agua y retiene la arena, que es un sólido que no se disuelve.
 9. Verdadero — en una mezcla homogénea los componentes están distribuidos de manera uniforme.
-10. d) Sustancia pura: agua destilada y oxígeno puro. Mezcla homogénea: agua con sal. Mezcla heterogénea: ensalada de frutas
-11. b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño de partícula con un tamiz
-12. c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas
+10. d) Sustancia pura: agua destilada y oxígeno puro. Mezcla homogénea: agua con sal. Mezcla heterogénea: ensalada de frutas. El agua destilada y el oxígeno puro tienen un solo componente; en el agua con sal no se distinguen los componentes (homogénea), y en la ensalada de frutas sí (heterogénea).
+11. b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño de partícula con un tamiz. La filtración separa un sólido no disuelto de un líquido, como arena del agua; el tamizado separa sólidos según su tamaño, como piedras de la arena.
+12. c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas. El agua y el aceite no se mezclan y tienen distinta densidad: en reposo el aceite sube y forman dos capas, que se pueden separar con un embudo de decantación.
 13. a) Primero filtrar para separar la arena; luego evaporar o destilar el agua salada para separar el agua de la sal. La arena no se disuelve y queda en el filtro; la sal disuelta atraviesa el filtro y solo se recupera evaporando el agua (o destilándola si se quiere recuperar también el agua).
 14. a, b y c — Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas.

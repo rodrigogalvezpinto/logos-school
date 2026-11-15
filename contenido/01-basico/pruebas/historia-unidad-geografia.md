@@ -87,9 +87,9 @@ d) La casa
 ## Pauta de respuestas
 
 1. b) Dónde están los lugares. Un mapa es un dibujo que muestra la ubicación de los lugares.
-2. Verdadero
+2. Verdadero. En invierno hace mucho frío en las montañas altas de la cordillera, y por eso se cubren de nieve.
 3. a) Región Metropolitana. Santiago es la capital de Chile y de la Región Metropolitana.
 4. d) Una escuela. Los ríos, lagos y cerros son parte de la naturaleza.
-5. Falso
+5. Falso. En el desierto casi nunca llueve y hay muy poca agua: por eso tiene pocas plantas.
 6. a) Cerro. Es una elevación del terreno más baja que una montaña.
 7. c) El árbol. En el dibujo, el árbol es lo primero por la izquierda y el carrusel queda al final, a la derecha.

@@ -104,7 +104,7 @@ d) No, porque los ángulos opuestos por el vértice son iguales: debía medir 72
 3. a) 45°, 135° y 135° — opuesto por el vértice: 45°; adyacentes: 180° − 45° = 135°.
 4. **b) 150°** — 180° − 30° = 150°.
 5. d) 96° — B es adyacente a A: 180° − 84° = 96°.
-6. b) Sí, porque 103° + 87° = 180°, lo que deben sumar dos ángulos adyacentes
+6. b) Sí, porque 103° + 87° = 180°, lo que deben sumar dos ángulos adyacentes. Cuando dos rectas se cruzan, dos ángulos adyacentes forman un ángulo extendido y suman 180°: 103° + 87° = 180°. Los ángulos opuestos por el vértice son los que miden lo mismo.
 7. **c) 105°** — el ángulo adyacente completa 180° con el dado: 180° − 75° = 105°.
 8. **Falso** — el ángulo opuesto por el vértice es igual al original (50°), no 130°; 130° sería el ángulo adyacente (180° − 50°).
 9. c) 47°, 133° y 133° — opuesto por el vértice: 47°; adyacentes: 180° − 47° = 133°.

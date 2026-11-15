@@ -117,13 +117,13 @@ c) Porque los tambores y las gotas tienen el mismo color
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | c) Talca |
-| 2  | Verdadero |
-| 3  | b) Porque Copito estaba enfermo y debía tomar su remedio antes del almuerzo |
-| 4  | a) Responsable, cariñoso y algo tímido con los desconocidos |
-| 5  | b) La señora Rosa pudo recuperar a Copito y darle su remedio |
-| 6  | a) Temuco |
-| 7  | Verdadero |
-| 8  | c) En la noche |
-| 9  | b) Que llueve mucho, casi sin parar |
-| 10 | a) Porque al caer sobre la ventana hacen un sonido rítmico, como un tambor |
+| 1  | c) Talca. El cuento lo dice al comienzo: Martín salió a comprar pan "en su barrio de Talca". |
+| 2  | Verdadero. El cuento dice: "Junto a la plaza, Martín vio un perrito café que temblaba debajo de un banco". |
+| 3  | b) Porque Copito estaba enfermo y debía tomar su remedio antes del almuerzo. La señora Rosa lo explica cuando llega: "Está enfermo y tiene que tomar su remedio antes del almuerzo". |
+| 4  | a) Responsable, cariñoso y algo tímido con los desconocidos. El cuento dice que Martín "era un niño responsable y cariñoso, aunque le costaba hablar con personas que no conocía". |
+| 5  | b) La señora Rosa pudo recuperar a Copito y darle su remedio. Gracias a la llamada, la señora Rosa supo dónde estaba Copito, llegó a buscarlo y pudo darle su remedio a tiempo. |
+| 6  | a) Temuco. El primer verso del poema lo dice: "En Temuco, mi ciudad". |
+| 7  | Verdadero. El poema dice: "Las gotas, pequeños tambores, / golpean mi ventana". |
+| 8  | c) En la noche. La última estrofa empieza con "Cuando llega la noche" y termina cuando la niña se queda dormida. |
+| 9  | b) Que llueve mucho, casi sin parar. Es una forma de decir que la lluvia dura mucho: llueve y llueve, como si nunca se cansara. La lluvia no es una persona de verdad. |
+| 10 | a) Porque al caer sobre la ventana hacen un sonido rítmico, como un tambor. Las gotas golpean la ventana una y otra vez, y ese ruido parejo se parece al sonido de un tambor. |

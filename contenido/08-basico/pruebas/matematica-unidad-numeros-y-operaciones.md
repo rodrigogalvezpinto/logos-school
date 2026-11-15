@@ -14,7 +14,7 @@ ultima_actualizacion: 2026-10-28
 
 # Prueba de Unidad — Eje 1: Números y Operaciones
 
-**Instrucciones:** responde todas las preguntas. Puedes usar calculadora para verificar cálculos, pero debes mostrar tu razonamiento en las preguntas de desarrollo. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Puedes usar calculadora para verificar cálculos; haz el procedimiento en tu cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 **Pregunta 1 (alternativas).** Calcula: (−9) × (−4).
 a) −36

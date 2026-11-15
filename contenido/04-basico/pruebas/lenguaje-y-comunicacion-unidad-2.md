@@ -98,9 +98,9 @@ d) Quería ir a la playa, sin embargo porque estaba lloviendo.
 
 **2.** Verdadero. El texto explica esta relación de causa-consecuencia directamente: "Sin depredadores como el puma, algunas especies podrían multiplicarse demasiado y agotar los alimentos disponibles."
 
-**3.** a) Que el puma se mueve en silencio y casi sin ser notado; es una comparación, porque usa "como"
+**3.** a) Que el puma se mueve en silencio y casi sin ser notado; es una comparación, porque usa "como". "Como una sombra" compara al puma con algo silencioso y difícil de ver: así se mueve al cazar. La palabra "como" indica que es una comparación.
 
-**4.** d) Como vive en zonas muy distintas, su alimentación varía: guanacos y liebres, y a veces ovejas cerca de zonas ganaderas
+**4.** d) Como vive en zonas muy distintas, su alimentación varía: guanacos y liebres, y a veces ovejas cerca de zonas ganaderas. El texto dice que el puma vive en zonas muy distintas, y por eso come lo que encuentra en cada una: guanacos, liebres y, cerca de zonas ganaderas, a veces ovejas.
 
 **5.** b) Porque el puma ayuda a mantener el equilibrio del ecosistema al cazar a los animales más débiles. Una opinión fundamentada se apoya en datos concretos del texto, no solo en gustos personales.
 

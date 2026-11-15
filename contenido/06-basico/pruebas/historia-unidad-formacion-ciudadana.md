@@ -110,7 +110,7 @@ d) Respetar las señales del tránsito → derecho a la vida y a la integridad f
 1. **b.** El Poder Judicial, a través de los tribunales, aplica las leyes y resuelve conflictos.
 2. **Verdadero.** Los diputados se eligen por votación y su cargo dura un período determinado (cuatro años); luego hay nuevas elecciones.
 3. a y c — A nivel nacional se eligen Presidente/a, senadores y diputados; a nivel comunal, alcaldes y concejales.
-4. a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí
+4. a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí. Si un solo órgano hiciera, aplicara y juzgara las leyes, nadie podría controlarlo. Separar los poderes permite que cada uno limite y controle a los otros.
 5. **b.** La Constitución es la ley fundamental: ninguna ley puede contradecirla.
 6. **Falso.** Ninguna autoridad puede actuar al margen de la Constitución: es un principio del Estado de derecho.
 7. a y b — La Constitución organiza el poder (división de poderes, forma de elegir autoridades) y garantiza derechos y libertades.

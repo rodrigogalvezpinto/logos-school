@@ -104,7 +104,7 @@ d) Porque el clima cambió en los últimos años y ahora esos ambientes son temp
 5. **c.** En el altiplano, a más de 3.500 metros de altura, hay menos oxígeno y noches muy frías.
 6. **Verdadero.** La abundante lluvia del sur permite bosques extensos y la actividad forestal.
 7. d) 1-B, 2-C, 3-A — Cada ambiente presenta dificultades distintas, que sus habitantes enfrentan con adaptaciones propias.
-8. d) Desértico: la escasez de agua es una dificultad y la radiación solar una oportunidad. Patagónico: el frío y el viento son dificultades y la ganadería ovina una oportunidad
+8. d) Desértico: la escasez de agua es una dificultad y la radiación solar una oportunidad. Patagónico: el frío y el viento son dificultades y la ganadería ovina una oportunidad. En el desierto casi no llueve, pero hay mucha radiación solar (energía solar). En la Patagonia el frío y el viento dificultan la vida, pero sus praderas permiten criar ovejas.
 9. **b.** La enorme extensión de Chile de norte a sur genera condiciones naturales muy
    diferentes entre unas zonas y otras.
-10. b) Con adaptaciones como sistemas de riego y captación de neblina en el desierto, o ganadería ovina y embarcaciones adaptadas a los fiordos en la Patagonia
+10. b) Con adaptaciones como sistemas de riego y captación de neblina en el desierto, o ganadería ovina y embarcaciones adaptadas a los fiordos en la Patagonia. Las personas se adaptan con técnicas: en el desierto, riego y atrapanieblas para obtener agua; en la Patagonia, ganadería ovina y navegación por fiordos y canales.

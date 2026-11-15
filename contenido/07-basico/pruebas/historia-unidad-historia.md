@@ -128,15 +128,15 @@ d) El uso de teléfonos celulares
 1. d) El paso de la vida nómade a la vida sedentaria, gracias a la domesticación de plantas y animales.
 2. Verdadero. La agricultura surgió de forma independiente en distintos lugares del planeta.
 3. c) Sociedades completamente igualitarias, sin diferencias sociales. Las primeras civilizaciones se caracterizaron, precisamente, por la estratificación social.
-4. a) 1-B, 2-C, 3-A
+4. a) 1-B, 2-C, 3-A. Centralizar es concentrar el poder en un gobernante (B); la estratificación es la división en grupos con distinto poder y riqueza (C), y la escritura y la contabilidad sirvieron para administrar y registrar (A).
 5. b) Los ciudadanos votaban directamente en la Asamblea: era una democracia directa.
 6. Falso. Los esclavos, las mujeres y los extranjeros estaban excluidos de la ciudadanía ateniense.
 7. c) La romanización: los pueblos conquistados adoptaron la lengua, el derecho y la cultura de Roma.
-8. d) 1-C, 2-A, 3-B
-9. a) Grecorromana, judeocristiana y germana.
+8. d) 1-C, 2-A, 3-B. Del derecho romano viene la idea de leyes escritas que todos deben cumplir (C); de su arquitectura, el arco y la cúpula (A), y del latín, palabras como "agua" o "luna" (B).
+9. a) Grecorromana, judeocristiana y germana. Europa medieval combinó la herencia grecorromana (derecho, latín, filosofía), el cristianismo, de raíz judeocristiana, y las costumbres de los pueblos germanos.
 10. Verdadero. La caída del imperio provocó la fragmentación del territorio en reinos independientes.
-11. d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades.
-12. b) 1-C, 2-A, 3-B
+11. d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades. En las ferias se reunían comerciantes de distintas regiones; el comercio que generaban hizo crecer las ciudades y a la burguesía.
+12. b) 1-C, 2-A, 3-B. El arado mejorado y los molinos son innovaciones técnicas (C); los comerciantes que acumulan capital muestran el desarrollo del comercio (A), y los centros de estudios superiores son las universidades (B).
 13. b) Para obtener terreno plano para cultivar en las montañas y evitar que la lluvia arrastrara el suelo.
 14. b) Chocolate. Viene del náhuatl, la lengua de los aztecas; como *tomate* o *cancha*, es un legado de las civilizaciones americanas.
 15. a, b y c — La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente.

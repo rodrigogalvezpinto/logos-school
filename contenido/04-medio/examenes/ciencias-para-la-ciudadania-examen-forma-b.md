@@ -311,7 +311,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 25 | Varias correctas | **a, b y c.** | OA 3 |
 
 
-# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+# PUNTAJE Y VERSIÓN ANTERIOR
 
 > **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 
@@ -325,10 +325,8 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 - **7 preguntas de mayor complejidad** (N° 6, 10, 13, 18, 21, 24, 25) × 3 puntos = 21 puntos
 - **Puntaje total de la prueba: 46 puntos**
 
-> Nota: en las preguntas de desarrollo con más de un elemento exigido (por ejemplo,
-> justificar y dar un ejemplo), se sugiere otorgar el puntaje completo solo si se
-> cumplen todos los elementos pedidos, y considerar puntaje parcial a criterio del
-> corrector cuando la respuesta esté incompleta pero encaminada.
+> Nota: las preguntas de mayor complejidad valen más puntos porque exigen analizar un caso
+> o un argumento; todas se responden eligiendo alternativas.
 
 ### Distribución de preguntas por OA
 

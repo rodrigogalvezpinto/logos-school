@@ -74,21 +74,19 @@ d) Cada órgano está sometido a reglas y a la fiscalización de otros, de modo 
 
 ## Parte B — OA N°5: Libertad, igualdad y solidaridad (preguntas 8 a 15)
 
-8. **(Alternativas)** ¿Cuál de las siguientes opciones describe mejor la "igualdad de
-oportunidades"?
-a) Que todas las personas tengan exactamente el mismo ingreso cada mes
-b) Que todas las personas partan con condiciones similares para desarrollarse
-c) Que la ley trate de forma distinta a cada grupo social según su riqueza
-d) Que el Estado no intervenga nunca en la economía ni en la educación
+8. **(Alternativas)** Un programa público entrega preuniversitario gratuito y transporte a estudiantes de liceos rurales, para que puedan competir por un cupo en la universidad en condiciones parecidas a las de estudiantes de la ciudad. ¿Qué principio busca concretar?
+a) Que todas las personas reciban exactamente el mismo ingreso cada mes
+b) La igualdad de oportunidades: que las personas partan con condiciones similares para desarrollarse
+c) Que la ley trate de forma distinta a cada grupo según su riqueza
+d) Que el Estado no intervenga nunca en la educación
 
-9. **(Verdadero o Falso)** La libertad "positiva" se refiere únicamente a que nadie te
-impida hacer algo.
+9. **(Verdadero o Falso)** Una persona tiene plena libertad positiva para estudiar en la universidad si ninguna ley se lo prohíbe, aunque no tenga cómo pagar el arancel ni el transporte.
 
-10. **(Alternativas — unir)** Une cada concepto con su definición:
+10. **(Alternativas — unir)** Une cada concepto con un ejemplo:
 
 1) Igualdad ante la ley — 2) Solidaridad — 3) Igualdad de trato
 
-Definiciones: (A) Apoyo mutuo, especialmente hacia quienes están en mayor vulnerabilidad — (B) Las mismas normas se aplican a todas las personas — (C) No ser discriminado por características propias de la identidad
+Ejemplos: (A) Vecinos organizan una olla común para familias que perdieron su trabajo — (B) Un ministro y un trabajador reciben la misma multa por la misma infracción de tránsito — (C) Una clínica no puede negar la atención a un paciente por su orientación sexual
 
 ¿Qué combinación es correcta?
 
@@ -98,36 +96,31 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 11. **(Alternativas)** ¿Cuál de los siguientes es un ejemplo de "libertad positiva"?
-a) Que nadie te prohíba postular a un cargo de elección popular en tu comuna, aunque no tengas recursos para hacer campaña
-b) Que el Estado financie becas para que estudiantes de bajos recursos puedan acceder a la
-educación superior
-c) Que ninguna ley te obligue a votar por un candidato o partido específico
-d) Que puedas expresar tu opinión en público y en redes sin censura previa
+a) Que ninguna ley prohíba a una persona ciega participar en una elección
+b) Que el Estado disponga votos en braille y accesos para que las personas con discapacidad visual puedan votar de forma autónoma
+c) Que nadie te obligue a afiliarte a un partido político
+d) Que puedas publicar tu opinión en redes sin censura previa
 
-12. **(Verdadero o Falso)** Reconocer la existencia de debate legítimo sobre cómo enfrentar
-la desigualdad económica significa que da lo mismo qué postura se adopte frente a los
-Derechos Humanos de los grupos afectados.
+12. **(Verdadero o Falso)** Como existe un debate legítimo sobre cómo enfrentar la migración, es aceptable en democracia que una política migratoria niegue la atención de salud de urgencia a las personas migrantes.
 
-13. **(Varias correctas — análisis de caso)** Una empresa descarta sin justificación vinculada al cargo a postulantes mayores de 55 años. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
+13. **(Varias correctas — análisis de caso)** Un club deportivo rechaza la inscripción de una niña en su equipo de fútbol "porque es un deporte de hombres", aunque cumple todos los requisitos. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
 
 a) Inclusión
 b) Igualdad de trato
 c) Solidaridad tributaria
 d) Soberanía popular
 
-14. **(Alternativas — análisis de datos)** En una región, el porcentaje de alcaldesas y concejalas es mucho menor que el de mujeres en la población. ¿Qué desafío ilustra?
-
-a) La desinformación electoral durante las campañas, que afecta a todos los candidatos por igual
+14. **(Alternativas — análisis de datos)** Un estudio muestra que, en los directorios de las grandes empresas del país, menos del 20% de los cargos están ocupados por mujeres, aunque ellas son más de la mitad de las personas con título profesional. ¿Qué desafío ilustra?
+a) La desinformación electoral durante las campañas
 b) La concentración de los medios de comunicación
-c) La superación de la pobreza en la región
-d) La equidad de género: subrepresentación de mujeres en cargos de decisión política
+c) La superación de la pobreza
+d) La equidad de género: subrepresentación de mujeres en espacios de decisión
 
-15. **(Alternativas)** ¿Por qué la inclusión de personas con discapacidad es un desafío democrático y no solo de "buena voluntad"?
-
-a) Porque solo depende de la buena voluntad de cada persona y de las organizaciones de caridad, sin que el Estado tenga responsabilidad alguna
-b) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad
-c) Porque las personas con discapacidad no tienen derechos políticos plenos, y por eso su inclusión debe decidirla cada autoridad
-d) Porque es un tema exclusivo del ámbito privado y familiar, que no requiere normas ni políticas públicas de accesibilidad
+15. **(Alternativas)** Una comunidad aymara pide que la información sobre trámites públicos esté también en su lengua y que se respeten sus formas de organización. ¿Por qué esta demanda es un desafío democrático y no solo una cuestión de "buena voluntad"?
+a) Porque solo depende de la buena voluntad de cada funcionario, sin responsabilidad del Estado
+b) Porque el reconocimiento de la diversidad étnica y cultural se vincula con la igual dignidad y los derechos de los pueblos originarios, y requiere normas y políticas públicas, no favores
+c) Porque los pueblos originarios no tienen derechos políticos plenos y cada autoridad decide si los atiende
+d) Porque es un tema exclusivamente privado que no requiere políticas públicas
 
 ---
 
@@ -152,26 +145,18 @@ candidatura independiente amplían quién puede acceder a cargos públicos.
 
 7. d) Cada órgano está sometido a reglas y a la fiscalización de otros, de modo que ninguno ejerza el poder arbitrariamente; eso hace más probable que las decisiones se tomen conforme a la ley, con transparencia y mirando el interés general. Los pesos y contrapesos protegen contra el uso del poder en favor de intereses particulares.
 
-8. **b)** Que todas las personas partan con condiciones similares para desarrollarse. La
-igualdad de oportunidades no exige resultados idénticos, sino condiciones de partida
-comparables.
+8. **b)** La igualdad de oportunidades no exige resultados idénticos, sino condiciones de partida comparables.
 
-9. **Falso.** Esa es la libertad "negativa" (no ser impedido). La libertad positiva implica
-contar con condiciones reales —por ejemplo, educación o recursos— para poder ejercer
-efectivamente tus decisiones.
+9. **Falso.** Que nadie lo prohíba es libertad "negativa". La libertad positiva implica contar con condiciones reales —recursos, transporte, apoyo— para ejercer efectivamente una decisión.
 
 10. a) 1-B, 2-A, 3-C. La igualdad tiene varias caras, y la solidaridad es un valor distinto centrado en el apoyo mutuo.
 
-11. **b)** Que el Estado financie becas para que estudiantes de bajos recursos puedan acceder
-a la educación superior. Las otras opciones describen libertad negativa; esta crea condiciones
-reales para ejercer una decisión que de otro modo sería solo formal.
+11. **b)** Crear condiciones reales (votos en braille, accesos) para ejercer un derecho es libertad positiva; las otras opciones describen libertad negativa.
 
-12. **Falso.** El debate legítimo se da sobre las políticas y su alcance, no sobre si se
-respetan o no los Derechos Humanos y la igual dignidad de las personas afectadas, que es un
-consenso democrático que no está en discusión.
+12. **Falso.** El debate legítimo se da sobre las políticas y su alcance, no sobre si se respetan los Derechos Humanos de las personas afectadas, como el derecho a la vida y a la salud.
 
-13. a y b — La exclusión por edad, sin razón legítima vinculada al desempeño, es una barrera a la inclusión.
+13. a y b — Excluir por género, sin una razón legítima vinculada a los requisitos, es discriminación y una barrera a la inclusión.
 
-14. d) La equidad de género: subrepresentación de mujeres en cargos de decisión política. Hay una brecha entre el derecho formal a ser elegidas y la participación efectiva en el poder.
+14. d) Hay una brecha entre la preparación de las mujeres y su participación efectiva en espacios de poder.
 
-15. b) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad. La inclusión es un derecho exigible, no un favor.
+15. b) El reconocimiento y la inclusión de la diversidad cultural son derechos exigibles, no un favor.

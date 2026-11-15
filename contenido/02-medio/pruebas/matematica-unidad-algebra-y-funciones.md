@@ -24,8 +24,7 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F, justificando cuando
    se indique.
-4. Las preguntas de **desarrollo** y **problemas en contexto** se responden mostrando el
-   procedimiento completo, no solo el resultado.
+4. En los problemas en contexto, haz el cálculo en tu cuaderno antes de elegir la alternativa.
 5. Se permite el uso de calculadora, igual que en el examen real.
 6. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.

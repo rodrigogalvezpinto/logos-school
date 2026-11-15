@@ -11,6 +11,7 @@ Solo lectura. Compara enunciado y alternativas normalizados: minúsculas, sin pu
 import re
 import sys
 import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -29,8 +30,60 @@ def normalizar(texto: str) -> str:
 
 def huella(enunciado: str, opciones) -> str:
     """Enunciado + alternativas: «¿Cuál es la palabra bien escrita para este dibujo?» con otro
-    dibujo y otras alternativas es otra pregunta (los marcadores visuales se pierden al normalizar)."""
-    return normalizar(enunciado + " | " + " | ".join(sorted(opciones or [])))
+    dibujo y otras alternativas es otra pregunta (los marcadores visuales se pierden al normalizar).
+    Solo cuenta el último bloque del enunciado: en las pruebas, el parser antepone la lectura
+    compartida («Lee el texto… preguntas 1 a 5») y la guía no la trae, así que con la lectura la
+    huella nunca coincidía y las copias con estímulo quedaban fuera del control (2026-11-15)."""
+    pregunta = enunciado.split("\n\n")[-1]
+    return normalizar(pregunta + " | " + " | ".join(sorted(opciones or [])))
+
+
+def _numeros(texto: str) -> set[str]:
+    return {n.rstrip(".,") for n in re.findall(r"\d[\d.,]*", texto)}
+
+
+def casi_copias(curso: Path, carpeta: str) -> dict[str, list[int]]:
+    """Preguntas que no son copia exacta, pero repiten la pregunta de la guía con retoques mínimos:
+    enunciado casi igual (≥ 0,93) y, además, 2 o más alternativas iguales o los mismos datos
+    numéricos. Si los números difieren, es la misma plantilla con datos nuevos: eso sí es válido."""
+    guia = []
+    for ruta in curso.glob("*.md"):
+        for oa in parsear_guia(ruta.read_text(encoding="utf-8")):
+            for q in oa.preguntas:
+                guia.append((normalizar(q.enunciado), _numeros(q.enunciado), {normalizar(o) for o in q.opciones or []}))
+    exactas = {huella(q.enunciado, q.opciones) for ruta in curso.glob("*.md")
+               for oa in parsear_guia(ruta.read_text(encoding="utf-8")) for q in oa.preguntas}
+    resultado: dict[str, list[int]] = {}
+    for ruta in sorted((curso / carpeta).glob("*.md")):
+        for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if huella(p.enunciado, p.opciones) in exactas:
+                continue
+            pregunta = p.enunciado.split("\n\n")[-1]
+            e, n, ops = normalizar(pregunta), _numeros(pregunta), {normalizar(o) for o in p.opciones or []}
+            for ge, gn, gops in guia:
+                if abs(len(e) - len(ge)) > 0.15 * max(len(e), len(ge), 1):
+                    continue
+                if (n or gn) and n != gn:
+                    continue
+                comunes = len(ops & gops) if p.tipo != "verdadero_falso" else 0
+                if SequenceMatcher(None, e, ge).ratio() >= 0.93 and (comunes >= 2 or (n and n == gn) or p.tipo == "verdadero_falso"):
+                    resultado.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(p.numero)
+                    break
+    return resultado
+
+
+def lecturas_copiadas(curso: Path, carpeta: str) -> dict[str, int]:
+    """Líneas citadas (`>`) de las lecturas de pruebas o simulacros que están tal cual en la guía.
+    Una prueba que reutiliza el texto de la guía mide memoria del texto ya trabajado (2026-11-15)."""
+    guia = " ".join(normalizar(r.read_text(encoding="utf-8")) for r in curso.glob("*.md") if not r.name.startswith("00"))
+    resultado = {}
+    for ruta in sorted((curso / carpeta).glob("*.md")):
+        lineas = {normalizar(l)[:120] for l in ruta.read_text(encoding="utf-8").splitlines()
+                  if l.startswith(">") and len(l) > 60}
+        iguales = sum(1 for k in lineas if len(k) > 50 and k in guia)
+        if iguales:
+            resultado[str(ruta.relative_to(CONTENIDO))] = iguales
+    return resultado
 
 
 def solapamiento(curso: Path, carpeta: str = "pruebas") -> tuple[int, int, dict[str, list[int]]]:
@@ -57,6 +110,10 @@ def main() -> None:
             print(f"{curso.name}: {rep}/{tot} preguntas de {nombre} repiten la guía ({100 * rep / max(tot, 1):.0f} %)")
             for ruta, nums in archivos.items():
                 print(f"  {ruta}: {', '.join(map(str, nums))}")
+            for ruta, nums in casi_copias(curso, carpeta).items():
+                print(f"  {ruta}: casi copias {', '.join(map(str, nums))}")
+            for ruta, n in lecturas_copiadas(curso, carpeta).items():
+                print(f"  {ruta}: {n} líneas de lectura iguales a la guía")
 
 
 if __name__ == "__main__":

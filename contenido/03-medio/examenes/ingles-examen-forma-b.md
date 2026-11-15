@@ -24,7 +24,9 @@ ultima_actualizacion: 2026-11-01
 
 ## OA N°1 — Comprender, organizar y comparar información central sobre otras culturas
 
-### Texts A and B — Making things last (preguntas 1–8)
+*(Lee el o los textos y responde las preguntas 1 a 8.)*
+
+**Texts A and B — Making things last**
 
 **A — A youth newsletter in Bristol, England**
 > Our Saturday repair table began when a student's backpack zip broke. Instead of buying a new bag, she asked a neighbour to show her how to replace it. Now volunteers bring tools to the library once a month. Visitors work beside them: nobody simply drops an object off and leaves. There is no fee, but learners are asked to explain one repair to the next visitor. The organisers say that passing on skills matters more than counting repaired objects.
@@ -92,7 +94,9 @@ d) Community projects that extend the life of useful things
 
 ## OA N°3 — Analizar textos y construir una postura personal crítica
 
-### Texts C and D — A quieter lunch? (preguntas 9–16)
+*(Lee el o los textos y responde las preguntas 9 a 16.)*
+
+**Texts C and D — A quieter lunch?**
 
 **C — Student newspaper editorial**
 > The dining hall is so loud that some students eat outside even in winter. We propose a quiet lunch room twice a week. Students could choose it without giving a medical explanation. A room with fewer conversations would give people a break before afternoon lessons. We are not asking the entire school to stop talking: choice is the point.
@@ -160,7 +164,9 @@ d) The council rejects any calmer space for students, because the upstairs room 
 
 ## OA N°4 — Producir textos claros para interactuar y reflexionar sobre la identidad
 
-### Model email (preguntas 17–24)
+*(Lee el o los textos y responde las preguntas 17 a 25.)*
+
+**Model email**
 
 > Hi Alex,
 > Our class is creating a map of places where we feel welcome. I chose the public basketball court, although I rarely play. I help record scores, and the players have taught me that being part of a group does not require having the same skills. Visitors are invited to suggest new places for the map. Could you tell us about a place that matters to you?

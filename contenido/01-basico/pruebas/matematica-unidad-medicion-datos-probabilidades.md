@@ -81,8 +81,8 @@ c) Los dos tienen la misma cantidad
 1. d) El lápiz B. Los dos parten del mismo punto y el lápiz B sobresale más.
 2. d) Goma de borrar, lápiz, regla — 3 cm es lo más corto y 30 cm lo más largo.
 3. b) La cinta roja — 6 cuadritos es menos que 9 cuadritos.
-4. b) 3
+4. b) 3. Junto a "Gato" hay 3 marcas, y cada marca es un niño: 3 niños prefieren el gato.
 5. Falso (el pez tiene 2, el perro tiene 4)
 6. c) La pelota — tiene 5 marcas, más que la escondida (4) y la cuerda (2).
-7. c) 5
+7. c) 5. Junto a "Perro" hay 5 dibujos, y cada dibujo es un niño: 5 niños tienen perro.
 8. b) El azul — 6 es mayor que 4.

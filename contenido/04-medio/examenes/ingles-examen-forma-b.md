@@ -25,7 +25,9 @@ ultima_actualizacion: 2026-11-01
 
 ## OA N°1 — Comprender información relevante para un propósito específico
 
-### Text A — Review in a Canadian youth library newsletter (preguntas 1–5)
+*(Lee el o los textos y responde las preguntas 1 a 5.)*
+
+**Text A — Review in a Canadian youth library newsletter**
 
 > **Borrowed Summers: a graphic novel worth discussing**
 > In a future city, residents can borrow recorded memories from a public archive. A young courier borrows a memory of a garden to understand why her grandmother misses a neighbourhood demolished before she was born. The archive labels the recording “complete”, but the courier notices that the gardeners' voices are missing. She collects their accounts and asks the archive to include them. The drawings make the absent speakers visible as blank spaces between colourful plants. Although the ending resolves the dispute too quickly, the novel asks a valuable question: who gets to decide what a community remembers? Recommended for readers aged fifteen and above who enjoy stories about technology and belonging.
@@ -65,7 +67,9 @@ b) They represent the colourful plants that grew in the demolished garden
 c) They make visible the people who were left out of the archived story
 d) They show that the gardeners never existed and were invented by the courier
 
-### Text B — Notice from a youth centre in Wellington, New Zealand (preguntas 6–8)
+*(Lee el o los textos y responde las preguntas 6 a 8.)*
+
+**Text B — Notice from a youth centre in Wellington, New Zealand**
 
 > **Whose stories are on our map?**
 > On 18 July, from 2 to 4 p.m., our youth centre will host a workshop about places that have changed. Bring a drawing of a public place you remember, or make one with our materials. You do not need to bring a photograph. We will ask permission before displaying anyone's story, and participants can withdraw it later. The workshop is free; book by 15 July so that we can arrange enough tables. Contact the centre if you need an accessible workstation.
@@ -95,7 +99,9 @@ d) 18 July, 2–4 p.m. / by 15 July / free / permission is asked before displayi
 
 ## OA N°3 — Comprender y producir textos claros con postura personal crítica
 
-### Text C — A proposal for a student media club (preguntas 9–16)
+*(Lee el o los textos y responde las preguntas 9 a 16.)*
+
+**Text C — A proposal for a student media club**
 
 > **Proposal: captions before special effects**
 > Our media club has one editing computer and a small equipment budget. At Tuesday's meeting, editor Lee said, “I have tested the caption tool.” Lee reported that automatic captions often confused speakers' names. Designer Sam proposed buying visual effects software to attract viewers. However, two viewers wrote that they had stopped watching our interviews because there were no readable captions. We recommend spending the first part of the budget on caption editing and asking viewers to test the results. Visual effects can wait until basic access has improved. This proposal does not prove that captions will increase our audience; it argues that existing viewers should be able to follow our work.
@@ -160,11 +166,13 @@ d) "Captions is good for the club. Two viewers says they stop watching. We buy e
 
 ## OA N°4 — Producir y comprender textos para interactuar y explorar identidad
 
-### Text D — A student exhibition introduction (preguntas 17–25)
+*(Lee el o los textos y responde las preguntas 17 a 25.)*
+
+**Text D — A student exhibition introduction**
 
 > Our exhibition, “Routes to Belonging”, presents maps made by students who have moved between neighbourhoods. A map may include a bus stop, a sports ground or a shop where someone first felt recognised. We do not claim that moving has the same meaning for everyone. Some contributors describe freedom; others describe loss. Each map includes a short reflection explaining how a place changed its maker's understanding of home.
 
-### Text E — Transcript of an exhibition interview
+**Text E — Transcript of an exhibition interview**
 
 > Interviewer: Your map centres on a bus stop rather than a house. Why?
 > Student: When I moved, I thought home was only the building I had left. At the bus stop I met people who remembered my name. One driver told me that she had once felt like a stranger too. Those conversations helped, although I still miss my old street. I don't think belonging means forgetting where you came from.

@@ -119,15 +119,15 @@ d) Porque el crecimiento económico convivió con malas condiciones de vida y tr
 
 1. c) Las libertades individuales son parte central del ideario liberal, junto con el constitucionalismo y la separación de poderes.
 2. Verdadero. Las revoluciones de 1848 expresaron demandas liberales y democráticas en varios países europeos.
-3. a) 1-A, 2-C, 3-B.
+3. a) 1-A, 2-C, 3-B. Que cada poder cumpla una función distinta es separación de poderes (A); bajar impuestos al comercio exterior es libre comercio (C), y que más personas voten es ampliar la ciudadanía (B).
 4. d) Los símbolos patrios, la historia nacional y una lengua común fortalecieron la identidad nacional.
 5. d) 2 → 4 → 3 → 1. Revolución Francesa (1789), independencia de Chile (1818), unificación de Italia (1861-1870) y Primera Guerra Mundial (1914).
 6. b) El asesinato del archiduque Francisco Fernando fue el detonante; las causas profundas fueron el imperialismo, el nacionalismo y las alianzas.
 7. Falso. Duró de 1914 a 1918 y causó millones de muertos.
-8. b) 1-B, 2-C, 3-A.
+8. b) 1-B, 2-C, 3-A. Entre 1823 y 1828 se ensayaron varias constituciones (experimentación, B); en Lircay (1830) los conservadores derrotaron a los liberales (C), y la Constitución de 1833 dio inicio a un orden conservador y presidencialista (A).
 9. Falso. La Constitución de 1833 establecía una ciudadanía restringida a hombres con renta y alfabetizados.
 10. b) La explotación del salitre de Tarapacá y Antofagasta, que se convirtió en la principal exportación chilena.
 11. c) La colonización de la Araucanía tras su ocupación por el Estado, con graves consecuencias para el pueblo mapuche.
 12. Verdadero. Chile se enfrentó a Perú y Bolivia y, tras su triunfo, incorporó Tarapacá y Antofagasta.
-13. a) 1-C, 2-A, 3-B.
+13. a) 1-C, 2-A, 3-B. Las huelgas salitreras fueron obra del movimiento obrero (C); profesores y empleados formaban los sectores medios (A), y la Alianza Liberal y el Partido Conservador eran partidos tradicionales (B).
 14. d) El crecimiento económico no mejoró la situación de los sectores populares, lo que generó demandas y debates.

@@ -1627,3 +1627,61 @@ cuento de las preguntas 5 a 8, lo borraba.
 - Las pruebas de Lengua de ambos cursos remitían a «revisa la guía» y no traían sus textos. Ahora tienen textos propios, conectados a sus preguntas.
 - Chromium: 7.° básico 24/24, con dos fallas de tiempo que pasaron al repetirlas solas; 8.° básico 24/24.
 - 1.° a 8.° básico completos. Pendientes: 1.° a 4.° medio.
+
+### 15.38 Fase 1 — C.2: 1.277 preguntas reescritas, pero el detector tenía un punto ciego; formato de tablas y citas en la app (2026-11-15)
+
+**C.2, primera pasada.** Con el detector de entonces, ninguna pregunta de las 156 pruebas repetía la guía (0 % en los 12 cursos). En total se reescribieron 1.277 preguntas:
+
+| Curso | Reescritas | Curso | Reescritas |
+|---|---|---|---|
+| 1.° básico | 9 | 7.° básico | 152 |
+| 2.° básico | 62 | 8.° básico | 185 |
+| 3.° básico | 79 | 1.° medio | 146 |
+| 4.° básico | (ya en 0) | 2.° medio | 163 |
+| 5.° básico | 115 | 3.° medio | 165 |
+| 6.° básico | 92 | 4.° medio | 109 |
+
+- Se mantienen la letra de la clave, el tipo y el OA de cada pregunta, para no crear sesgos nuevos de posición. Excepción: en Inglés U2 de 4.° medio, una de las cuatro V/F pasó a Falso; antes eran todas verdaderas.
+- Lengua de 3.° medio: U1 con un cuento nuevo («La voz de mi abuelo», Lota, en diálogo con *Sub terra*) y un reportaje. U2 con un hilo de red social nuevo y una tarea de escritura sobre el cuento de U1, ambos conectados a sus preguntas.
+- Educación Ciudadana U1 de 3.° medio: las preguntas 7 y 9 ya no tienen la misma respuesta (CAJ y Defensoría Penal Pública).
+- Ciencias para la Ciudadanía de 4.° medio, pregunta 1: el ejemplo de eficiencia energética eran paneles solares, que corresponden a energía renovable. Se cambió por LED y aislación.
+- Matemática: todos los cálculos nuevos se verificaron con Python (interés, depreciación, vida media, logaritmos, varianza, binomial y probabilidad total).
+- Los simulacros de Inglés de 3.° y 4.° medio quedaron con sus lecturas conectadas.
+
+**Instrucciones heredadas de las preguntas de desarrollo.** En 30 archivos, las instrucciones, los puntajes y los títulos seguían hablando de «preguntas de desarrollo», «muestra tu procedimiento» o «Rúbricas de las preguntas de desarrollo». También había afirmaciones falsas sobre el instrumento («11 de alternativas y 14 de desarrollo» en el simulacro de Matemática de 3.° medio). Todo eso se corrigió. La app no muestra estos textos, pero los archivos son el material de referencia.
+
+**Hallazgo: tablas, citas y títulos aplanados en la app.** El parser unía con espacios todas las líneas del enunciado de una pregunta. Cuando una tabla, una cita o un título iban dentro de la pregunta (y no como estímulo compartido), la app los mostraba en una sola línea: «| | Lee en el trayecto | No lee |…|---|…» o «Lee el siguiente texto y responde. ### Cómo regar una planta > 1. Llena…».
+- Afectaba a unas 90 preguntas de pruebas y simulacros y a 8 de guías: tablas de Matemática desde 4.° básico, estímulos citados de Historia e instrucciones en 1.° y 3.° básico.
+- La E2E no lo detectaba, porque solo buscaba títulos crudos al comienzo de una línea.
+- Corrección: `componer_enunciado` (en `parser_contenido.py`, usado por ambos parsers). El texto corrido se sigue uniendo igual; las tablas (`|`), citas (`>`) y títulos (`#`) conservan sus líneas como bloques separados.
+- Prueba de regresión: `test_tablas_citas_y_titulos_dentro_de_la_pregunta_conservan_sus_lineas`.
+- La E2E ahora rechaza `|---` y «###» a mitad de texto.
+
+**Revisión docente por muestreo.** `backend/scripts/muestra_revision_docente.py` genera `docs/auditorias/fase1/muestra-docente/`.
+- Contiene 25 preguntas por curso (300 en total), repartidas entre asignaturas y entre guía, prueba y simulacro, con semilla fija.
+- Cada pregunta muestra su clave, la explicación que ve el alumno y una tabla de 5 criterios para el profesor.
+- Las instrucciones para el profesor están en `00-INSTRUCCIONES.md`.
+- Pendiente: que la revise un profesor.
+
+**Verificación.** Validador: 0 discrepancias en 265 archivos. Importación: 6.181 preguntas, 0 sin OA. Backend: suite completa en verde. Chromium: 3.° medio 25/25 y 4.° medio 23/23 antes del cambio del parser. Validación de los 12 cursos con el control nuevo: ver la bitácora.
+
+**Hallazgo: el detector de C.1/C.2 no veía las preguntas con lectura (C.2 reabierto).** `solapamiento_pruebas_guias.py` comparaba el enunciado completo más las alternativas.
+- En las pruebas, el parser antepone la lectura compartida al enunciado; en la guía no. Por eso la huella nunca coincidía, y las preguntas con estímulo quedaban fuera del control.
+- Además, solo detectaba copias exactas: una pregunta con el mismo enunciado y los mismos datos, pero una alternativa retocada, pasaba como nueva. Ejemplo: «Una fábrica de Rancagua produjo 725 empanadas y vendió 358…», idéntica en la guía y en la prueba de 3.° básico.
+
+El detector corregido compara solo la pregunta, sin la lectura, y agrega dos reportes:
+- **casi copias**: enunciado ≥ 0,93 de similitud con 2 o más alternativas iguales o los mismos datos; si los números difieren, es una plantilla con datos nuevos, que es válida;
+- **lecturas copiadas**: líneas citadas de la prueba que están tal cual en la guía.
+
+Estado real con el detector corregido:
+- **62 copias exactas.** 4.° básico 8, 1.° medio 27 (Lengua U1 y U2, con los mismos textos y las mismas preguntas), 4.° medio 22 (Lengua U1 y U2) y 5 en simulacros (6.° básico y 3.° medio).
+- **83 casi copias**, con algunos falsos positivos en V/F de igual estructura pero distinto texto, que se revisan a mano.
+- **Lecturas copiadas de la guía** en 6 pruebas (Lenguaje de 4.° básico, Lengua de 1.° y 4.° medio) y en 5 simulacros (2.° básico A y B, Historia de 5.° básico, Lenguaje de 6.° básico y Lengua de 3.° medio).
+
+**Hallazgo: 769 explicaciones que solo repiten la clave (C.4).** En la pauta, «c) Alcalde» es todo lo que el alumno ve como «Explicación» en el resumen final. Afecta a 243 preguntas de pruebas (13 %) y a 526 de simulacros (43 %); las guías tienen 0. Se están agregando explicaciones, empezando por las pruebas de unidad, que son formativas.
+
+En esa revisión aparecieron y se corrigieron tres preguntas defectuosas:
+- 1.° básico, geometría 1: «levantas tu mano derecha… ¿cómo se llama la posición de esa mano?» tenía dos claves defendibles (Arriba y Derecha);
+- 5.° básico, geometría 5: el enunciado definía el trapecio y luego preguntaba su definición;
+- 6.° básico, patrones 6: era la pregunta de la guía (Fernanda, $8.500 y $17.300) con otras palabras.
+

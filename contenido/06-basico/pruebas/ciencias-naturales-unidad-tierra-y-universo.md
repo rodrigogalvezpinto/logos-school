@@ -126,6 +126,6 @@ d) Prácticas agrícolas que no expongan el suelo
 7. **b.** Las raíces de las plantas sujetan el suelo y lo protegen del agua y el viento.
 8. **Verdadero.** Sin vegetación que lo proteja, el suelo queda expuesto al viento y al agua.
 9. a) El agua. El agua en movimiento desgasta la roca y transporta los sedimentos.
-10. d) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento
-11. b) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa
+10. d) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento. Las raíces sujetan el suelo y las hojas lo protegen de la lluvia. Sin vegetación, el agua y el viento arrastran la capa fértil del suelo más rápido.
+11. b) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa. El agua desgasta la roca muy lentamente, pero durante miles o millones de años puede excavar valles y cañones profundos, como el del río Loa.
 12. a, b y d — Dejar el suelo descubierto aumenta la erosión.

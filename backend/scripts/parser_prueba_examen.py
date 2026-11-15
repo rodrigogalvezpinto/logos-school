@@ -15,7 +15,7 @@ import json
 import re
 from dataclasses import dataclass
 
-from parser_contenido import RE_VARIAS, extraer_modulo, resolver_letras_varias
+from parser_contenido import RE_VARIAS, componer_enunciado, extraer_modulo, resolver_letras_varias
 
 RE_Q_START = re.compile(
     # Toda pregunta real cumple AL MENOS UNO de dos rasgos: (a) el número está en negrita
@@ -106,6 +106,13 @@ def _limpiar(texto: str) -> str:
     return re.sub(r"\s*-{3,}\s*$", "", texto).strip()
 
 
+def _texto_corrido(lineas: list[str]) -> str:
+    texto = _limpiar(" ".join(lineas))
+    # Las etiquetas de formato («(Varias correctas)», «— Alternativas») sirven para detectar
+    # el tipo, pero no son parte del enunciado que ve el alumno: la app ya muestra el control.
+    return re.sub(r"\s+", " ", RE_ETIQUETA_TIPO.sub(" ", texto)).strip()
+
+
 def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
     matches = list(RE_Q_START.finditer(texto_preguntas))
     declaraciones = list(re.finditer(
@@ -191,11 +198,7 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
         else:
             tipo = "desarrollo_breve"
 
-        enunciado = _limpiar(" ".join(enunciado_partes))
-        # Las etiquetas de formato («(Varias correctas)», «— Alternativas») sirven para detectar
-        # el tipo, pero no son parte del enunciado que ve el alumno: la app ya muestra el control.
-        enunciado = RE_ETIQUETA_TIPO.sub(" ", enunciado)
-        enunciado = re.sub(r"\s+", " ", enunciado).strip()
+        enunciado = componer_enunciado(enunciado_partes, _texto_corrido)
         if numero in contextos:
             enunciado = "\n\n".join([*contextos[numero], enunciado])
         preguntas.append(

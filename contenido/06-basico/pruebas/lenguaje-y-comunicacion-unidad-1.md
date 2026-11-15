@@ -144,12 +144,12 @@ d) "Ninguno de los dos textos menciona la luz del sol"
 ## Pauta de respuestas
 
 1. **c.** Rosa desobedeció la advertencia (causa) y un trozo de muro cayó junto a sus pies (consecuencia).
-2. a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos
+2. a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos. Rosa quería parecerse a los bomberos y creía que las advertencias eran "para los niños miedosos": por eso no les hacía caso.
 3. **Verdadero.** El *ayni* es la costumbre que orienta la decisión de Inés de pedir ayuda a la comunidad en vez de un préstamo.
 4. **d.** El texto menciona Valparaíso, agosto de 1906 y el gran terremoto.
 5. **c.** Es una hipérbole: exagera deliberadamente (nadie espera mil años) para transmitir lo larga que pareció la espera.
 6. **Verdadero.** "Tac-tac-tac" imita el sonido rítmico del motor.
-7. d) "Susurra suave el mar salado": se repite el sonido "s" y hace sentir el murmullo del mar
+7. d) "Susurra suave el mar salado": se repite el sonido "s" y hace sentir el murmullo del mar. La aliteración repite un mismo sonido en palabras cercanas: la "s" de "Susurra suave el mar salado" imita el murmullo de las olas. "Como sombras" es una comparación y "mil años", una exageración.
 8. **a.** Se deduce de pistas del poema (la "maleta llena de despedidas", mirar hacia la casa, la foto de la abuela), pero no se dice directamente.
 9. **b.** El texto dice que hoy pueden usar computadores y mantener la leche fresca.
 10. b) En junio, con 90 kWh. Es el valor más bajo de la tabla.

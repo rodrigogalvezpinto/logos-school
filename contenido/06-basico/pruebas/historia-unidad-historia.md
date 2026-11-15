@@ -119,11 +119,11 @@ d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chi
    exclusivamente para españoles nacidos en la península.
 3. a) 2 → 1 → 4 → 3. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817), Maipú (1818).
 4. **c.** El triunfo patriota en Maipú (5 de abril de 1818) consolidó la independencia de Chile.
-5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas
+5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas. Los conservadores querían un Presidente fuerte y que la Iglesia mantuviera su influencia; los liberales, más poder para el Congreso y reformas como las leyes laicas (por ejemplo, el matrimonio civil de 1884).
 6. **a.** El salitre de Tarapacá y Antofagasta fue la principal exportación de Chile durante décadas.
 7. **Verdadero.** El Estado ocupó el territorio mapuche y redujo sus tierras a reducciones, con graves consecuencias para su pueblo.
 8. **b) 1935.** Primero obtuvieron el voto municipal (1935) y luego, en 1949, el voto en elecciones presidenciales y parlamentarias.
 9. **b.** El triunfo del "No" abrió paso a elecciones libres en 1989 y al retorno a la democracia en 1990.
-10. b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990
+10. b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990. En el plebiscito del 5 de octubre de 1988 ganó el "No"; al año siguiente hubo elecciones libres y en 1990 asumió un presidente elegido democráticamente.
 11. b y d — La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales son continuidades.
-12. c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español
+12. c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español. El derecho a voto se amplió en el tiempo (por ejemplo, a las mujeres en 1949), así que es un cambio. El idioma español se mantiene desde la Colonia: es una continuidad.

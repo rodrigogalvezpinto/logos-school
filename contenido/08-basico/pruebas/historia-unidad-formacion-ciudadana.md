@@ -144,8 +144,8 @@ d) Porque fue redactada antes de que existiera la Ilustración, y los filósofos
 6. c) Aunque proclamaba la igualdad, la declaración de 1789 excluía a las mujeres de derechos políticos plenos: reconocer un derecho no garantiza que se aplique a todos.
 7. **Falso** — fue aprobada por la Asamblea Nacional francesa en 1789, no por la ONU (que ni
    siquiera existía en esa época)
-8. **b)** La Organización de las Naciones Unidas (ONU)
+8. **b)** La Organización de las Naciones Unidas (ONU). La Asamblea General de la ONU aprobó la Declaración Universal el 10 de diciembre de 1948, en París, después de la Segunda Guerra Mundial.
 9. a) 3 → 1 → 4 → 2. Ilustración (siglo XVIII) → Revolución Francesa (1789) → Declaración de los Derechos del Hombre y del Ciudadano (agosto de 1789) → Declaración Universal de los Derechos Humanos (1948).
-10. d) 1-A, 2-B, 3-C
+10. d) 1-A, 2-B, 3-C. La Declaración de 1789 define la libertad como poder hacer todo lo que no perjudique a otro; la seguridad protege de arrestos arbitrarios, y la resistencia a la opresión permite oponerse a un poder que viola los derechos.
 11. b) Que la libertad no es ilimitada: su límite es no perjudicar a los demás. Es una idea ilustrada que sigue vigente en la forma en que hoy se entienden los derechos y libertades individuales.
 12. c) Porque principios como que la ley es expresión de la voluntad general o que la soberanía reside en la nación retoman ideas de Rousseau y Montesquieu. La soberanía popular (Rousseau) y la limitación del poder mediante leyes (Montesquieu) se plasmaron en la declaración.

@@ -24,8 +24,7 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **desarrollo** y **problema en contexto** se responden mostrando el
-   procedimiento completo, no solo el resultado.
+4. En los problemas en contexto, haz el cálculo en tu cuaderno antes de elegir la alternativa.
 5. Se permite el uso de calculadora, igual que en el examen real.
 6. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
@@ -33,134 +32,131 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 ---
 
 **Pregunta 1.**
-El modelo f(x) = 500×(0,85)ˣ representa una situación de:
+La cantidad de agua (en litros) que queda en un estanque con una filtración se modela con f(x) = 1.200×(0,92)ˣ, con x en días. El modelo representa una situación de:
 
-a) crecimiento, porque 500 es positivo
-b) decrecimiento, porque 0 < 0,85 < 1
-c) crecimiento, porque 0,85 es positivo
+a) crecimiento, porque 1.200 es positivo
+b) decrecimiento, porque 0 < 0,92 < 1
+c) crecimiento, porque 0,92 es positivo
 d) no se puede determinar sin más información
 
 **Pregunta 2.** (Verdadero o falso)
-En un modelo exponencial f(x) = a·bˣ con a>0 y b>1, la tasa de crecimiento porcentual
-por unidad de x aumenta cuando aumenta b.
+En un modelo exponencial f(x) = a·bˣ con a > 0 y 0 < b < 1, mientras más cerca de 0 está b,
+más rápido disminuye la cantidad en cada período.
 
 **Pregunta 3.**
-Si el factor de crecimiento de un modelo exponencial es b = 1,08, ¿cuál es la tasa de
-crecimiento porcentual?
+El número de árboles nativos de un bosque se modela con N(t) = 3.000×(0,94)ᵗ, con t en años.
+¿Cuál es la tasa de disminución porcentual anual?
 
-a) 0,08%
-b) 8%
-c) 108%
-d) 1,08%
+a) 0,06%
+b) 6%
+c) 94%
+d) 0,94%
 
 **Pregunta 4.** (Alternativas — completar)
-En A(t) = P × (1 + r)ᵗ, ¿qué representan P, r y t?
+Se depositan $500.000 en una cuenta de ahorro que paga un 0,5% de interés compuesto mensual,
+durante 24 meses. En la fórmula A(t) = P × (1 + r)ᵗ, ¿qué valores corresponden a P, r y t?
 
-a) P: capital inicial; r: tasa de interés por período (decimal); t: número de períodos
-b) P: tasa de interés por período; r: capital inicial; t: monto final acumulado
-c) P: monto final acumulado; r: tiempo en años; t: tasa de interés por período
-d) P: número de períodos; r: capital inicial; t: interés ganado en cada período
+a) P = 500.000; r = 0,005; t = 24
+b) P = 0,005; r = 500.000; t = 24
+c) P = 500.000; r = 0,5; t = 2
+d) P = 24; r = 500.000; t = 0,005
 
 **Pregunta 5.** (Alternativas — depreciación)
-Un auto de $12.000.000 se deprecia un 12% anual según V(t) = 12.000.000 · (0,88)ᵗ. ¿Cuál es su valor aproximado a los 4 años?
+Un celular de $800.000 se deprecia un 20% anual según V(t) = 800.000 · (0,8)ᵗ. ¿Cuál es su valor a los 3 años?
 
-a) ≈ $6.240.000
-b) ≈ $10.560.000
-c) ≈ $2.488.000
-d) ≈ $7.196.344
+a) $320.000
+b) $640.000
+c) $512.000
+d) $409.600
 
 **Pregunta 6.** (Alternativas — vida media)
-El carbono-14 tiene una vida media de unos 5.730 años. Si una muestra tiene 80 g, ¿cuánto quedará tras 11.460 años?
+El yodo-131, usado en medicina nuclear, tiene una vida media de 8 días. Si a un paciente se le administran 120 mg, ¿cuánto quedará en su cuerpo tras 24 días, sin considerar otras formas de eliminación?
 
-a) 10 g
-b) 20 g
-c) 40 g
-d) 60 g
+a) 7,5 mg
+b) 15 mg
+c) 30 mg
+d) 40 mg
 
 **Pregunta 7.** (Alternativas — despejar el tiempo)
-Un rumor se difunde según M(t) = 50 · (1,6)ᵗ (t en horas). ¿Después de cuántas horas lo habrán visto unas 800 personas?
+Un cultivo de bacterias crece según N(t) = 200 · (1,5)ᵗ, con t en horas. ¿Después de cuántas horas habrá unas 3.200 bacterias?
 
 a) ≈ 16 horas
-b) ≈ 10 horas
-c) ≈ 6 horas
+b) ≈ 11 horas
+c) ≈ 7 horas
 d) ≈ 3 horas
 
 **Pregunta 8.** (Alternativas — dominio del modelo)
-Un estanque de 5.000 L se llena según V(t) = 200 · (1,25)ᵗ. ¿Para qué valores de t tiene sentido el modelo?
+Una plaga de algas cubre una laguna de 2.000 m² según A(t) = 10 · (1,4)ᵗ, con A en m² y t en días. ¿Para qué valores de t tiene sentido el modelo?
 
-a) 0 ≤ t ≤ 14,4 horas aproximadamente
+a) 0 ≤ t ≤ 15,7 días aproximadamente
 b) Para todo t ≥ 0, sin ningún límite
-c) Solo para t = 25, el número de horas
-d) 0 ≤ t ≤ 25 horas, porque 5.000/200 = 25
+c) Solo para t = 200 días
+d) 0 ≤ t ≤ 200 días, porque 2.000/10 = 200
 
 **Pregunta 9.** (Alternativas — comparar parámetros)
-¿Cuál crece más rápido: f(x) = 100 · (1,1)ˣ o g(x) = 100 · (1,05)ˣ?
+Dos cuentas de ahorro parten con $50.000: f(x) = 50.000 · (1,2)ˣ y g(x) = 50.000 · (1,15)ˣ, con x en años. ¿Cuál crece más rápido?
 
-a) g, porque 1,05 está más cerca de 1 y por eso crece de forma más estable y rápida
-b) Crecen igual, porque ambas funciones parten del mismo valor inicial de 100
-c) Ninguno crece, porque ambos factores son muy cercanos a 1 y el valor se mantiene
-d) f, porque con el mismo valor inicial su factor (10% por período) es mayor
+a) g, porque 1,15 está más cerca de 1 y por eso crece de forma más estable y rápida
+b) Crecen igual, porque ambas parten del mismo valor inicial
+c) Ninguna crece, porque ambos factores son cercanos a 1 y el valor se mantiene
+d) f, porque con el mismo valor inicial su factor (20% por período) es mayor
 
 **Pregunta 10.** (Alternativas — leer datos)
-Una colonia de pingüinos registra: t = 0 → 80; t = 1 → 96; t = 2 → 115; t = 3 → 138. ¿Corresponde a un modelo exponencial?
+La cantidad de peces de un lago se registra cada año: t = 0 → 500; t = 1 → 450; t = 2 → 405; t = 3 → 365. ¿Corresponde a un modelo exponencial?
 
 a) No: las diferencias entre términos consecutivos no son constantes
-b) Sí: la razón entre términos consecutivos es casi constante (≈ 1,2)
-c) Sí: las diferencias entre términos consecutivos son constantes (+16)
-d) No: la población disminuye con el tiempo, así que es un modelo decreciente
+b) Sí: la razón entre términos consecutivos es casi constante (≈ 0,9)
+c) Sí: las diferencias entre términos consecutivos son constantes (−50)
+d) No: la población disminuye, y un modelo exponencial solo puede crecer
 
 **Pregunta 11.**
-El nivel de un sonido, en decibeles, se calcula como L = 10·log₁₀(I/I₀). Si la razón
-I/I₀ = 1.000, ¿cuál es el nivel L?
+El pH de una solución se calcula como pH = −log₁₀[H⁺]. Si la concentración de iones
+hidrógeno es [H⁺] = 0,0001 mol/L, ¿cuál es el pH?
 
-a) 30 dB
-b) 3 dB
-c) 1.000 dB
-d) 300 dB
+a) 4
+b) −4
+c) 0,0001
+d) 10.000
 
 **Pregunta 12.** (Alternativas — decrecimiento porcentual)
-Un medicamento se elimina según C(t) = 250 · (0,8)ᵗ (mg). ¿Cuánto queda a las 3 horas y qué porcentaje se eliminó?
+Un analgésico se elimina del organismo según C(t) = 400 · (0,75)ᵗ (mg), con t en horas. ¿Cuánto queda a las 2 horas y qué porcentaje se eliminó?
 
-a) 190 mg; 24%
-b) 128 mg; 51,2%
-c) 128 mg; 48,8%
-d) 50 mg; 80%
+a) 200 mg; 50%
+b) 225 mg; 56,25%
+c) 225 mg; 43,75%
+d) 100 mg; 75%
 
 **Pregunta 13.** (Alternativas — construir y proyectar)
-Una app tiene 2.000 usuarios al lanzarse y crece un 30% diario. ¿Qué modelo la describe y cuántos usuarios tendrá aprox. a los 10 días?
+Un video tiene 1.500 visitas al publicarse y sus visitas crecen un 40% diario. ¿Qué modelo lo describe y cuántas visitas tendrá aproximadamente a los 7 días?
 
-a) U(t) = 2.000 · (1,3)ᵗ; ≈ 27.572
-b) U(t) = 2.000 + 0,3t; ≈ 2.003
-c) U(t) = 2.000 · (0,3)ᵗ; ≈ 0
-d) U(t) = 2.000 · 1,3 · t; ≈ 26.000
+a) V(t) = 1.500 · (1,4)ᵗ; ≈ 15.812
+b) V(t) = 1.500 + 0,4t; ≈ 1.503
+c) V(t) = 1.500 · (0,4)ᵗ; ≈ 2
+d) V(t) = 1.500 · 1,4 · t; ≈ 14.700
 
 **Pregunta 14.** (Alternativas — comparar crecimiento y decrecimiento)
-Desde 1.000, f crece 10% anual y g decrece 10% anual. A los 5 años, ¿cuál se aleja más de 1.000?
+Desde 2.000, f crece 20% anual y g decrece 20% anual. A los 3 años, ¿cuál se aleja más de 2.000?
 
 a) g se aleja más que f, porque al decrecer pierde más de lo que f gana al crecer
-b) Se alejan exactamente lo mismo, porque el porcentaje de cambio es igual (10%)
-c) Ninguno se aleja, porque los aumentos y las disminuciones se compensan cada año
-d) f (≈ 1.610,5, sube 610,5) más que g (≈ 590,5, baja 409,5)
+b) Se alejan exactamente lo mismo, porque el porcentaje de cambio es igual (20%)
+c) Ninguna se aleja, porque los aumentos y las disminuciones se compensan
+d) f (≈ 3.456, sube 1.456) más que g (≈ 1.024, baja 976)
 
 ---
 
 ## Pauta de corrección
 
-1. **b) decrecimiento, porque 0 < 0,85 < 1.** El signo de a solo indica que la cantidad
-   inicial es positiva; lo que determina si el modelo crece o decrece es si el factor b es
-   mayor o menor que 1.
-2. **Verdadero.** b representa el factor multiplicativo por unidad de x; un b más grande
-   implica multiplicar por una cantidad mayor en cada período, acelerando el crecimiento.
-3. **b) 8%.** Como b=1+r, entonces r = 0,08 = 8%; b siempre se descompone en "1" (lo que
-   ya había) más la tasa de cambio r.
-4. a) P: capital inicial; r: tasa de interés por período (decimal); t: número de períodos. En el interés compuesto, el capital inicial se multiplica por (1 + r) en cada período.
-5. d) ≈ $7.196.344. (0,88)⁴ ≈ 0,5997; conviene redondear solo al final. $6.240.000 resulta de restar 4 · 12% de forma lineal.
-6. b) 20 g. 11.460 años son 2 vidas medias: 80 · (1/2)² = 20 g.
-7. c) ≈ 6 horas. (1,6)ᵗ = 16, t = log 16 / log 1,6 ≈ 1,2041/0,2041 ≈ 5,9.
-8. a) 0 ≤ t ≤ 14,4 horas aproximadamente. (1,25)ᵗ = 25 → t ≈ 14,4; después el estanque ya está lleno.
-9. d) f, porque con el mismo valor inicial su factor (10% por período) es mayor. Con igual valor inicial, manda el factor de crecimiento.
-10. b) Sí: la razón entre términos consecutivos es casi constante (≈ 1,2). 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20 (20% por período).
-11. **a) 30 dB.** log₁₀(1.000) = 3, porque 10³=1.000; entonces L = 10×3 = 30.
-12. c) 128 mg; 48,8%. (0,8)³ = 0,512 → 128 mg; se eliminaron 122 mg, es decir 48,8% (51,2% es lo que queda).
-13. a) U(t) = 2.000 · (1,3)ᵗ; ≈ 27.572. (1,3)¹⁰ ≈ 13,786.
-14. d) f (≈ 1.610,5, sube 610,5) más que g (≈ 590,5, baja 409,5). No son simétricos: el crecimiento compuesto se acelera y el decrecimiento nunca puede bajar de 0.
+1. **b) decrecimiento, porque 0 < 0,92 < 1.** El valor de a solo indica la cantidad inicial; lo que determina si el modelo crece o decrece es si el factor b es mayor o menor que 1.
+2. **Verdadero.** Si b está más cerca de 0, en cada período queda una fracción menor de la cantidad anterior (por ejemplo, con b = 0,5 queda la mitad; con b = 0,9, el 90%).
+3. **b) 6%.** Como b = 1 − r, entonces r = 1 − 0,94 = 0,06 = 6%.
+4. a) P = 500.000; r = 0,005; t = 24. La tasa se expresa en decimal (0,5% = 0,005) y t se cuenta en la misma unidad que la tasa (meses).
+5. d) $409.600. (0,8)³ = 0,512 y 800.000 · 0,512 = 409.600. $320.000 resulta de restar 3 · 20% de forma lineal; $512.000 es el valor a los 2 años.
+6. b) 15 mg. 24 días son 3 vidas medias: 120 · (1/2)³ = 15 mg.
+7. c) ≈ 7 horas. (1,5)ᵗ = 16, t = log 16 / log 1,5 ≈ 1,2041/0,1761 ≈ 6,8.
+8. a) 0 ≤ t ≤ 15,7 días aproximadamente. (1,4)ᵗ = 200 → t = log 200 / log 1,4 ≈ 15,7; después la laguna ya está cubierta.
+9. d) Con igual valor inicial, manda el factor de crecimiento.
+10. b) 450/500 = 0,9; 405/450 = 0,9; 365/405 ≈ 0,90: disminuye un 10% por período. Un modelo exponencial también puede decrecer.
+11. **a) 4.** 0,0001 = 10⁻⁴, entonces log₁₀(10⁻⁴) = −4 y pH = −(−4) = 4.
+12. c) 225 mg; 43,75%. (0,75)² = 0,5625 → 225 mg; se eliminaron 175 mg, es decir 43,75% (56,25% es lo que queda).
+13. a) V(t) = 1.500 · (1,4)ᵗ; (1,4)⁷ ≈ 10,54 → ≈ 15.812.
+14. d) 2.000 · 1,2³ = 3.456 y 2.000 · 0,8³ = 1.024. No son simétricos: el crecimiento compuesto se acelera y el decrecimiento nunca puede bajar de 0.

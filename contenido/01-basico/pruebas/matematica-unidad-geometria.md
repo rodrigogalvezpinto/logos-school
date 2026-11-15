@@ -24,12 +24,12 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 
 ---
 
-**1.** Levantas tu mano derecha para pedir la palabra. ¿Cómo se llama la posición de esa mano?
+**1.** Tomás levanta la mano derecha para pedir la palabra. ¿Qué mano levantó?
 
-a) Izquierda
-b) Abajo
-c) Arriba
-d) Derecha
+a) La mano izquierda
+b) Las dos manos
+c) Ninguna mano
+d) La mano derecha
 
 **2.** ::posicion::🎂::encima::mesa:: El pastel está ___ de la mesa.
 
@@ -68,9 +68,9 @@ d) Nadie
 
 ## Pauta de respuestas
 
-1. d) Derecha
+1. d) La mano derecha. Tomás levantó la mano derecha: así lo dice la pregunta.
 2. b) encima — el pastel está arriba de la mesa, apoyado sobre ella.
-3. Verdadero
+3. Verdadero. "Encima" quiere decir arriba de algo y tocándolo: la pelota está sobre la mesa.
 4. a) El osito está dentro de la caja. «Dentro» describe un objeto guardado adentro de otro.
-5. c) A la derecha de la casa
+5. c) A la derecha de la casa. El perro está al lado de la casa, en el lado derecho.
 6. c) Pedro — Tomás va primero, luego Sofía y al final Pedro.

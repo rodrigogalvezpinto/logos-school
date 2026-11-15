@@ -24,8 +24,7 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 2","6":"OA
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **desarrollo** y **problema en contexto** se responden mostrando el
-   procedimiento completo, no solo el resultado.
+4. En los problemas en contexto, haz el cálculo en tu cuaderno antes de elegir la alternativa.
 5. Se permite el uso de calculadora, igual que en el examen real.
 6. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
@@ -33,136 +32,132 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 2","6":"OA
 ---
 
 **Pregunta 1.**
-Calcula el rango del conjunto de datos {12, 15, 9, 20, 14}.
+Los minutos que cinco estudiantes tardan en llegar al liceo son {18, 7, 25, 13, 10}. ¿Cuál es el rango?
 
-a) 5
-b) 20
-c) 9
-d) 11
+a) 7
+b) 25
+c) 13
+d) 18
 
 **Pregunta 2.** (Verdadero o falso)
-La desviación estándar siempre se expresa en las mismas unidades que los datos originales, a
-diferencia de la varianza.
+Si a todos los datos de un conjunto se les suma 5, la media aumenta en 5, pero la desviación
+estándar no cambia.
 
 **Pregunta 3.**
-Calcula la varianza del conjunto de datos {2, 4, 6}.
+Calcula la varianza del conjunto de datos {3, 5, 10}.
 
-a) 2
-b) 8
-c) 2,67
-d) 4
+a) 6
+b) 26
+c) 8,67
+d) 2,94
 
 **Pregunta 4.** (Alternativas — completar)
-La varianza es el promedio de los ___ de las desviaciones respecto a la media, y la desviación estándar es su ___.
+La desviación estándar es la ___ de la varianza y, por eso, se expresa en las ___ unidades que los datos originales.
 
-a) valores absolutos; cuadrado
-b) cuadrados; raíz cuadrada
-c) inversos; doble
-d) logaritmos; potencia
+a) mitad; mismas
+b) raíz cuadrada; mismas
+c) cuadrado; mismas
+d) raíz cuadrada; unidades al cuadrado de las
 
 **Pregunta 5.** (Alternativas — comparar dispersión)
-Dos cursos tienen promedio 5,5; el curso A tiene desviación estándar 0,4 y el B, 1,3. ¿Cuál tuvo resultados más homogéneos?
+Dos jugadoras de básquetbol promedian 18 puntos por partido; la jugadora A tiene desviación estándar 2 puntos y la B, 7 puntos. ¿Cuál es más regular en sus resultados?
 
-a) El curso B, porque su desviación es mayor y sus notas se repiten más
-b) Ambos por igual, porque tienen el mismo promedio y eso define la homogeneidad
-c) No se puede saber sin conocer la nota más alta de cada curso
-d) El curso A, porque sus notas están más concentradas en torno al promedio
+a) La jugadora B, porque su desviación es mayor y anota más veces
+b) Ambas por igual, porque tienen el mismo promedio
+c) No se puede saber sin conocer el puntaje más alto de cada una
+d) La jugadora A, porque sus puntajes están más concentrados en torno al promedio
 
 **Pregunta 6.** (Alternativas — rango en contexto)
-Ventas diarias de tomate (kg): 40, 45, 38, 42, 50, 35, 48. ¿Cuál es el rango?
+Temperaturas máximas de una semana en Calama (°C): 24, 27, 22, 25, 29, 23, 26. ¿Cuál es el rango?
 
-a) 12 kg
-b) 15 kg
-c) 42,6 kg
-d) 50 kg
+a) 5 °C
+b) 7 °C
+c) 25,1 °C
+d) 29 °C
 
 **Pregunta 7.** (Alternativas — varianza y desviación estándar)
-Tiempos de 4 trámites (min): 10, 12, 14, 16. ¿Cuáles son la varianza y la desviación estándar?
+Puntajes de 4 estudiantes en un control: 4, 6, 8, 14. ¿Cuáles son la varianza y la desviación estándar?
 
-a) Varianza 20; desviación ≈ 4,47 min
-b) Varianza 2,24; desviación 5 min
-c) Varianza 5; desviación ≈ 2,24 min
-d) Varianza 13; desviación ≈ 3,61 min
+a) Varianza 56; desviación ≈ 7,48 puntos
+b) Varianza 3,74; desviación 14 puntos
+c) Varianza 14; desviación ≈ 3,74 puntos
+d) Varianza 8; desviación ≈ 2,83 puntos
 
 **Pregunta 8.** (Alternativas — decisión con dispersión)
-Dos rutas al aeropuerto promedian 45 min; la Ruta 1 tiene desviación estándar 5 min y la Ruta 2, 20 min. Si necesitas llegar con certeza, ¿cuál conviene?
+Dos máquinas llenan botellas que dicen contener 500 mL, y ambas promedian 500 mL. La máquina 1 tiene desviación estándar 2 mL y la máquina 2, 15 mL. Si la empresa quiere que casi todas las botellas tengan un contenido cercano al declarado, ¿cuál conviene?
 
-a) La Ruta 1, porque sus tiempos son más predecibles
-b) La Ruta 2, porque su desviación es mayor
+a) La máquina 1, porque sus llenados son más predecibles
+b) La máquina 2, porque su desviación es mayor
 c) Da lo mismo, porque el promedio es igual
-d) Ninguna, porque ambas tardan 45 min en promedio
+d) Ninguna, porque ambas promedian 500 mL
 
 **Pregunta 9.**
-¿Cuál es la fórmula correcta de la probabilidad condicional P(A|B)?
+Si P(A∩B) = 0,12 y P(B) = 0,4, ¿cuánto vale P(A|B)?
 
-a) P(A∩B) / P(B)
-b) P(A∩B) / P(A)
-c) P(A) × P(B)
-d) P(A) + P(B) − P(A∩B)
+a) 0,3
+b) 0,048
+c) 0,52
+d) 0,28
 
 **Pregunta 10.** (Verdadero o falso)
-Si dos eventos A y B son independientes y P(B)>0, entonces P(A|B) = P(A).
+Si una moneda equilibrada sale cara cuatro veces seguidas, la probabilidad de que salga cara
+en el quinto lanzamiento sigue siendo 1/2, porque los lanzamientos son independientes.
 
 **Pregunta 11.** (Alternativas — árbol sin reposición)
-En una bolsa hay 5 bolitas rojas y 3 azules; se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean rojas?
+En una caja hay 4 chocolates de leche y 6 amargos; se sacan dos al azar, sin reposición. ¿Cuál es la probabilidad de que ambos sean de leche?
 
-a) 25/64 ≈ 39,1%
-b) 5/8
-c) 1/2
-d) 5/14 ≈ 35,7%
+a) 16/100 = 16%
+b) 4/10
+c) 1/5
+d) 2/15 ≈ 13,3%
 
 **Pregunta 12.** (Alternativas — tabla de doble entrada)
-Se encuesta a 150 personas:
+Se encuesta a 200 estudiantes sobre cómo viajan al liceo y si leen durante el trayecto:
 
-| | Fuma | No fuma | Total |
+| | Lee en el trayecto | No lee | Total |
 |---|---|---|---|
-| Practica deporte | 10 | 70 | 80 |
-| No practica deporte | 25 | 45 | 70 |
-| Total | 35 | 115 | 150 |
+| Viaja en metro | 30 | 90 | 120 |
+| Viaja en bus | 10 | 70 | 80 |
+| Total | 40 | 160 | 200 |
 
-¿Cuánto vale P(fuma | no practica deporte)?
+¿Cuánto vale P(lee en el trayecto | viaja en bus)?
 
-a) 25/35 ≈ 71,4%
-b) 25/70 ≈ 35,7%
-c) 25/150 ≈ 16,7%
-d) 45/70 ≈ 64,3%
+a) 10/40 = 25%
+b) 10/80 = 12,5%
+c) 10/200 = 5%
+d) 70/80 = 87,5%
 
 **Pregunta 13.** (Alternativas — árbol con prueba médica)
-Un examen detecta al 95% de los enfermos y se aplica donde el 5% está enfermo. ¿Cuánto vale P(enfermo y positivo)?
+Un examen detecta al 90% de las personas enfermas y se aplica en una población donde el 2% está enferma. ¿Cuánto vale P(enfermo y positivo)?
 
-a) 0,95
-b) 0,05
-c) 0,0475 (4,75%)
-d) 1
+a) 0,90
+b) 0,02
+c) 0,018 (1,8%)
+d) 0,92
 
 **Pregunta 14.** (Alternativas — probabilidad total)
-El 30% de los pedidos llega tarde cuando llueve y el 8% cuando no llueve; llueve el 20% de los días. ¿Qué regla se usa y cuál es la probabilidad de que un pedido llegue tarde?
+En una ciudad hay neblina el 15% de los días. Con neblina, el 40% de los buses se atrasa; sin neblina, se atrasa el 10%. ¿Qué regla se usa y cuál es la probabilidad de que un bus se atrase?
 
-a) Probabilidad total: 0,30 · 0,20 + 0,08 · 0,80 = 12,4%
-b) Regla aditiva de eventos excluyentes: 30% + 8% = 38%
-c) Promedio ponderado de los casos: (30% + 8%)/2 = 19%
-d) Regla multiplicativa de eventos independientes: 30% · 8% = 2,4%
+a) Probabilidad total: 0,40 · 0,15 + 0,10 · 0,85 = 14,5%
+b) Regla aditiva de eventos excluyentes: 40% + 10% = 50%
+c) Promedio de los casos: (40% + 10%)/2 = 25%
+d) Regla multiplicativa de eventos independientes: 40% · 10% = 4%
 
 ---
 
 ## Pauta de corrección
 
-1. **d) 11.** El rango es el máximo menos el mínimo: 20−9=11.
-2. **Verdadero.** La varianza queda en unidades "al cuadrado" (por ejemplo, minutos²),
-   mientras que al sacar la raíz cuadrada, la desviación estándar vuelve a las unidades
-   originales (minutos).
-3. **c) 2,67.** La media es 4; las desviaciones son (−2,0,2), al cuadrado (4,0,4), suma=8,
-   y varianza=8/3≈2,67.
-4. b) cuadrados; raíz cuadrada. Elevar al cuadrado evita que las desviaciones positivas y negativas se anulen.
-5. d) El curso A, porque sus notas están más concentradas en torno al promedio. Menor desviación estándar indica resultados más parejos.
-6. b) 15 kg. Máximo 50 − mínimo 35 = 15.
-7. c) Varianza 5; desviación ≈ 2,24 min. Media 13; cuadrados de las desviaciones 9, 1, 1, 9 (suma 20); 20/4 = 5 y √5 ≈ 2,24.
-8. a) La Ruta 1, porque sus tiempos son más predecibles. Con igual promedio, la menor dispersión reduce el riesgo de una demora inesperada.
-9. **a) P(A∩B) / P(B).** La probabilidad condicional "reduce" el espacio muestral al evento
-   que ya se sabe que ocurrió (B), por eso se divide por P(B).
-10. **Verdadero.** Que dos eventos sean independientes significa exactamente eso: que saber
-    que ocurrió B no cambia en nada la probabilidad de A.
-11. d) 5/14 ≈ 35,7%. 5/8 · 4/7 = 20/56 = 5/14.
-12. b) 25/70 ≈ 35,7%. Se restringe a la fila "no practica deporte" (70 personas).
-13. c) 0,0475 (4,75%). P(enfermo) · P(positivo | enfermo) = 0,05 · 0,95.
-14. a) Probabilidad total: 0,30 · 0,20 + 0,08 · 0,80 = 12,4%. Cada probabilidad condicional se pondera por la probabilidad de su escenario.
+1. **d) 18.** El rango es el máximo menos el mínimo: 25 − 7 = 18. 13 es la mediana.
+2. **Verdadero.** Sumar una constante desplaza todos los datos por igual: las distancias a la media no cambian.
+3. **c) 8,67.** La media es 6; las desviaciones son (−3, −1, 4), al cuadrado (9, 1, 16), suma 26, y varianza 26/3 ≈ 8,67. 2,94 es la desviación estándar.
+4. b) raíz cuadrada; mismas. La varianza queda en unidades al cuadrado; al sacar la raíz se vuelve a las unidades originales.
+5. d) Menor desviación estándar indica resultados más parejos.
+6. b) 7 °C. Máximo 29 − mínimo 22 = 7; 25,1 °C es el promedio.
+7. c) Varianza 14; desviación ≈ 3,74 puntos. Media 8; cuadrados de las desviaciones 16, 4, 0, 36 (suma 56); 56/4 = 14 y √14 ≈ 3,74.
+8. a) Con igual promedio, la menor dispersión asegura que más botellas queden cerca de 500 mL.
+9. **a) 0,3.** P(A|B) = P(A∩B)/P(B) = 0,12/0,4 = 0,3: se restringe el espacio muestral al evento B.
+10. **Verdadero.** Que los eventos sean independientes significa que los resultados anteriores no cambian la probabilidad del siguiente.
+11. d) 2/15 ≈ 13,3%. 4/10 · 3/9 = 12/90 = 2/15. 16% correspondería a sacar con reposición.
+12. b) 10/80 = 12,5%. Se restringe a la fila "viaja en bus" (80 estudiantes).
+13. c) 0,018 (1,8%). P(enfermo) · P(positivo | enfermo) = 0,02 · 0,90.
+14. a) Cada probabilidad condicional se pondera por la probabilidad de su escenario: 0,06 + 0,085 = 0,145.

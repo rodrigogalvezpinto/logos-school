@@ -324,7 +324,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 25 | Alternativas | **d) Iónico: el calcio (metal) tiende a ceder electrones y el bromo (no metal) a aceptarlos, formando iones Ca²⁺ y Br⁻ que se atraen.** La transferencia de electrones de un metal a un no metal forma iones de carga opuesta, característico del enlace iónico. | OA 14 |
 
 
-# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+# PUNTAJE Y VERSIÓN ANTERIOR
 
 > **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 

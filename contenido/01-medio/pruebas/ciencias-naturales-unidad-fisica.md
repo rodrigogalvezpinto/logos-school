@@ -149,5 +149,5 @@ d) Microscopios electrónicos
 9. b) La inclinación del eje terrestre hace que los hemisferios reciban la luz con distinto ángulo durante el año.
 10. Falso — en un eclipse lunar, la Tierra se ubica entre el Sol y la Luna; cuando la Luna está entre el Sol y la Tierra, ocurre un eclipse solar.
 11. a) Es incorrecta: las fases dependen de cuánta parte iluminada de la Luna vemos según su posición; la sombra de la Tierra solo interviene en los eclipses.
-12. b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura.
+12. b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura. La luz de las ciudades aclara el cielo nocturno y oculta los objetos débiles; en las cumbres del norte el aire es seco, limpio y estable, con muchas noches despejadas. Unos kilómetros de altura no acercan las estrellas.
 13. a, b y c — Todos estudian el universo; el microscopio electrónico observa objetos muy pequeños, no astronómicos.

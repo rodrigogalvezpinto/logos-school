@@ -27,131 +27,112 @@ reemplaza identificar el propósito, la audiencia y el contexto de un texto.
 
 ## Preguntas
 
-1. *(Alternativas)* Read: *"In this dystopian novel, the government controls
-   all information citizens can access, and independent thought is
-   punished."* ¿Cuál es el elemento principal del tema tratado?
-   a) A government that promotes free speech and protects independent thinkers.
-   b) A romantic comedy set in the future, where citizens look for love online.
-   c) A story about space exploration and the discovery of new planets by citizens.
-   d) A society where the government controls information and punishes independent thought.
+1. *(Alternativas)* Read: *"In this novel, every citizen wears a bracelet that measures their happiness. People with low scores lose their jobs, so everyone pretends to be happy all the time."* ¿Cuál es el elemento principal del tema tratado?
 
-2. *(Alternativas — Completar)* Complete: *"A text written to make readers laugh has an ___ purpose, while a text written to explain a scientific process has an ___ purpose."*
+a) A society where citizens are free to express any emotion.
+b) A romantic story about two people who meet at a party.
+c) A trip to explore a new planet.
+d) A society that controls people's emotions through technology and punishes those who are not "happy enough".
+
+2. *(Alternativas — Completar)* Complete: *"A comic strip about a clumsy superhero has an ___ purpose, while a museum guide that explains how volcanoes form has an ___ purpose."*
 
 a) entertaining / informative
 b) informative / entertaining
 c) persuasive / entertaining
 d) entertaining / persuasive
 
-3. *(Verdadero o falso)* Read: *"This interview appeared in a magazine for
-   video game developers. The questions focus on technical details of
-   programming artificial intelligence for non-player characters."*
-   Statement: *The target audience of this text is likely people interested
-   in game development, not general readers.*
+3. *(Verdadero o falso)* Read: *"This article appeared in a medical journal. It describes the results of a clinical trial using statistical terms and abbreviations such as 'RCT' and 'p-value'."* Statement: *The target audience of this text is likely health professionals and researchers, not children.*
 
-4. *(Alternativas — Completar con tabla)* Read: *"The novel 'Silent Orbit' takes place on a space station in 2200. The main character, Nadia, discovers that the AI controlling the station has been hiding information from the crew."* Which option completes the chart correctly? Setting / Main character / Main conflict
+4. *(Alternativas — Completar con tabla)* Read: *"The novel 'Deep Blue City' takes place in an underwater city in 2150. The main character, Tomás, discovers that the oxygen supply of the city is controlled by a company that wants to raise its price."* Which option completes the chart correctly? Setting / Main character / Main conflict
 
-a) the Earth in 2020 / the AI / Nadia hides information from the crew of the station
-b) a space station in 2200 / the crew / Nadia controls the station and its AI system
-c) a spaceship / Nadia / the crew attacks the AI that controls the spaceship
-d) a space station in 2200 / Nadia / the AI has been hiding information from the crew
+a) a city on Mars in 2020 / the company / Tomás raises the price of oxygen
+b) an underwater city in 2150 / the citizens / Tomás controls the oxygen supply
+c) a submarine / Tomás / the citizens attack the company
+d) an underwater city in 2150 / Tomás / a company controls the oxygen and wants to raise its price
 
-5. *(Alternativas — Selección)* ¿Qué característica es típica de *"a book review"*?
+5. *(Alternativas — Selección)* Read: *"Five stars! The new season of the series has great acting, although the final episode feels too long."* ¿Qué tipo de texto es más probable que sea, por su característica principal?
 
-a) Explica un proceso científico paso a paso
-b) Da instrucciones para armar un mueble
-c) Da una opinión evaluativa sobre una obra
-d) Informa el pronóstico del tiempo
+a) Un instructivo que explica un proceso paso a paso
+b) Un manual para armar un mueble
+c) Una reseña (review), que da una opinión evaluativa sobre una obra
+d) Un pronóstico del tiempo
 
-6. *(Alternativas — Comprensión)* Read: *"This podcast transcript discusses whether artificial intelligence should be allowed to make medical decisions without a human doctor's approval. Two experts share opposing views."* What is the purpose of this text?
+6. *(Alternativas — Comprensión)* Read: *"In this radio debate, a teacher and a technology expert discuss whether students should be allowed to use AI tools to write their homework. Each one presents arguments for their position."* What is the purpose of this text?
 
-a) To sell a new medical AI product to hospitals and doctors around the world, without human approval
-b) To tell a funny story about doctors who use computers in their daily work
-c) To present two opposing views on whether AI should make medical decisions without human approval
-d) To give step-by-step instructions on how to build an AI for medical use
+a) To sell a new AI tool to schools
+b) To tell a funny story about a teacher
+c) To present two different views on whether students should use AI tools for homework
+d) To give instructions on how to write homework with AI
 
-7. *(Alternativas — desafiante)* Read: *"Set in a distant future, the story
-   follows a group of scientists who travel back in time to prevent an
-   environmental disaster, but their actions create unexpected
-   consequences."* ¿Qué combinación de elementos de ciencia ficción aparece
-   en el texto?
-   a) Space exploration and robots.
-   b) Time travel and its unexpected consequences.
-   c) Genetic engineering and dystopia.
-   d) Virtual reality and artificial intelligence.
+7. *(Alternativas)* Read: *"A young inventor builds a machine that lets her visit her town fifty years in the past. When she changes a small event, she returns to a present where her family never existed."* ¿Qué combinación de elementos de ciencia ficción aparece en el texto?
 
-8. *(Alternativas — Completar — desafiante)* Complete: *"A text published on a personal blog, written in an informal tone with jokes and personal anecdotes, most likely has the purpose of ___ the reader, rather than giving a formal report."*
+a) Space exploration and robots.
+b) Time travel and its unexpected consequences.
+c) Genetic engineering and dystopia.
+d) Virtual reality and artificial intelligence.
+
+8. *(Alternativas — Completar)* Complete: *"A TikTok video in which a teenager tells, with funny faces and jokes, the worst day of her school trip most likely has the purpose of ___ the audience, rather than giving a formal report."*
 
 a) entertaining
 b) informing
 c) warning
 d) instructing
 
-9. *(Verdadero o falso — desafiante)* Localizar información específica en un
-   texto (por ejemplo, una fecha, un nombre o un dato numérico) requiere una
-   estrategia de lectura distinta a la de identificar la idea general del
-   mismo texto.
+9. *(Verdadero o falso)* Para encontrar rápidamente a qué hora sale el último bus en un horario largo, conviene usar una estrategia distinta (*scanning*) a la que se usa para captar la idea general de un artículo (*skimming*).
 
-10. *(Alternativas — Organizar en tabla — desafiante)* Text A (a science magazine article) explains how AI algorithms learn from data, using technical vocabulary. Text B (a teen blog post) explains the same topic using simple comparisons and jokes. Which option completes the table *Text / Audience / Tone*?
+10. *(Alternativas — Organizar en tabla)* Text A (an article in an engineering journal) explains how electric cars store energy, using technical vocabulary and formulas. Text B (a YouTube script for teenagers) explains the same topic with simple comparisons and jokes. Which option completes the table *Text / Audience / Tone*?
 
 a) Text A: teenagers, humorous. Text B: specialized readers, technical
-b) Both: children, informal and humorous, because both texts explain AI in simple words
-c) Both: specialized readers, formal and technical, because both texts were published online
+b) Both: children, informal and humorous
+c) Both: specialized readers, formal and technical
 d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous
 
-11. *(Alternativas — Comprensión — desafiante)* Read: *"This article was written for a general audience with no scientific background. It uses simple analogies, such as comparing neural networks to how the human brain learns, to explain artificial intelligence."* Why does the author use simple analogies instead of technical language?
+11. *(Alternativas — Comprensión)* Read: *"This guide was written for parents who have never used social media. It compares an 'algorithm' to a shop assistant who remembers what you bought and shows you similar products."* Why does the author use this comparison instead of a technical definition?
 
-a) Because the author does not know technical words and prefers to write simple texts
-b) Because the audience has no scientific background, so analogies make the topic easier to understand
-c) Because the text is written for scientists who already understand neural networks
-d) Because analogies make the text longer and more entertaining for any kind of reader
+a) Because the author does not know the technical definition
+b) Because the audience has no technical background, so a familiar comparison makes the idea easier to understand
+c) Because the text is written for programmers
+d) Because comparisons make any text longer
 
-12. *(Alternativas)* ¿Qué tipo de texto es más probable que **evalúe** una
-    obra (por ejemplo, una película o videojuego), ofreciendo una opinión
-    sobre su calidad?
-    a) A transcript.
-    b) A review.
-    c) An interview.
-    d) An opinion article about climate change.
+12. *(Alternativas)* Un estudiante quiere saber si vale la pena comprar un videojuego nuevo y busca un texto que **evalúe** su calidad y dé una opinión fundamentada. ¿Qué tipo de texto le sirve más?
 
-13. *(Alternativas — Completar)* Complete: *"To find the general idea of a long article quickly, without reading every word, you should ___ the text; to find a specific date mentioned somewhere in the article, you should ___ the text."*
+a) A transcript.
+b) A review.
+c) An interview.
+d) An opinion article about climate change.
+
+13. *(Alternativas — Completar)* Complete: *"Before an exam, to know quickly what a long chapter is about, you should ___ it; to find the exact year of an event mentioned in it, you should ___ it."*
 
 a) scan / skim
 b) skim / skim
 c) skim / scan
 d) translate / summarize
 
-14. *(Verdadero o falso)* Read: *"This text was published on a government
-    website to explain new regulations about artificial intelligence in
-    schools, using formal and precise language."* Statement: *The purpose of
-    this text is most likely to entertain readers.*
+14. *(Verdadero o falso)* Read: *"This notice was published on the website of the Ministry of Health. It informs citizens of the dates of the winter vaccination campaign, using formal and precise language."* Statement: *The purpose of this text is most likely to entertain readers.*
 
-15. *(Alternativas — Organizar en tabla — desafiante)* Read: *"The short story 'The Last Signal' is set on a spaceship lost in deep space. The main character, an engineer named Reyes, must repair the ship's AI before the oxygen runs out. The story explores themes of isolation and trust in technology."* Which option completes *Setting / Main character / Main problem / Themes*?
+15. *(Alternativas — Organizar en tabla)* Read: *"The short story 'Red Dust' is set in a small colony on Mars. The main character, a doctor named Amaru, must find a cure for a strange illness before the next supply ship arrives. The story explores themes of responsibility and fear of the unknown."* Which option completes *Setting / Main character / Main problem / Themes*?
 
-a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology
-b) a planet far from Earth / the AI of the ship, named Signal / Reyes runs out of oxygen / friendship and love in space
-c) a spaceship that crashed on Earth / the oxygen tank / repairing Reyes, the engineer / adventure and exploration in space
-d) deep space near a new planet / an astronaut named Signal / finding a new planet to live / isolation and loneliness
+a) a small colony on Mars / Amaru, a doctor / finding a cure for a strange illness before the supply ship arrives / responsibility and fear of the unknown
+b) a hospital on Earth / the supply ship / Amaru gets ill / friendship and love
+c) a spaceship near Mars / the illness / repairing the supply ship / adventure and exploration
+d) a city on the Moon / a pilot named Red / finding a new planet / loneliness
 
 ---
 
 ## Pauta de respuestas
 
-1. **d.** El elemento central es el control gubernamental de la información
-   y la represión del pensamiento independiente.
-2. a) entertaining / informative. El propósito de un texto se identifica por lo que busca lograr en el lector: hacer reír (entretener) o explicar (informar).
-3. **True (Verdadero).** El medio y el contenido técnico indican audiencia
-   especializada.
-4. d) a space station in 2200 / Nadia / the AI has been hiding information from the crew. Organizar la información en una tabla exige localizar datos específicos (dónde, quién, qué problema) y clasificarlos por categoría.
-5. c) Da una opinión evaluativa sobre una obra. Reconocer la estructura y función de cada tipo de texto ayuda a anticipar qué información buscar en él.
-6. c) To present two opposing views on whether AI should make medical decisions without human approval. El propósito se identifica reconociendo que el texto presenta un debate con posturas opuestas, no una sola opinión.
-7. **b.** El texto menciona explícitamente el viaje en el tiempo y sus
-   consecuencias inesperadas.
-8. a) entertaining. El tono informal y los elementos personales (chistes, anécdotas) son pistas del propósito de entretener, no de informar formalmente.
+1. **d.** El elemento central es el control de las emociones mediante la tecnología y el castigo a quien no se ajusta.
+2. a) entertaining / informative. El propósito se identifica por lo que el texto busca lograr en el lector: hacer reír (entretener) o explicar (informar).
+3. **True (Verdadero).** El medio (revista médica) y el vocabulario técnico indican una audiencia especializada.
+4. d) Organizar la información en una tabla exige localizar datos específicos (dónde, quién, qué problema) y clasificarlos por categoría.
+5. c) La calificación ("five stars") y la valoración de la obra son rasgos típicos de una reseña.
+6. c) El texto presenta un debate con posturas distintas, no una sola opinión.
+7. **b.** El texto presenta un viaje al pasado y sus consecuencias inesperadas en el presente.
+8. a) entertaining. El tono humorístico y la anécdota personal son pistas del propósito de entretener.
 9. **True (Verdadero).** *Skimming* y *scanning* son estrategias distintas.
-10. d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous. Comparar dos textos sobre el mismo tema exige identificar diferencias de audiencia y tono según su propósito y medio de publicación.
-11. b) Because the audience has no scientific background, so analogies make the topic easier to understand. Se conecta una decisión del autor (usar analogías simples) con el propósito y la audiencia del texto.
-12. **b.**
-13. c) skim / scan. *Skimming* se usa para captar la idea general y *scanning* para localizar un dato específico — dos estrategias de lectura distintas que exige este OA.
-14. **False (Falso).** El lenguaje formal y el medio indican propósito
-    informativo.
-15. a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology. Organizar la información en una tabla exige localizar datos específicos y clasificarlos por categoría, la habilidad central de este OA.
+10. d) Comparar dos textos sobre el mismo tema exige identificar diferencias de audiencia y tono según su propósito y medio de publicación.
+11. b) Se conecta una decisión del autor (usar una comparación cotidiana) con la audiencia del texto.
+12. **b.** Una reseña evalúa la calidad de una obra y da una opinión.
+13. c) skim / scan. *Skimming* capta la idea general; *scanning* localiza un dato específico.
+14. **False (Falso).** El lenguaje formal y el medio oficial indican un propósito informativo.
+15. a) Organizar la información en una tabla exige localizar datos específicos y clasificarlos por categoría.

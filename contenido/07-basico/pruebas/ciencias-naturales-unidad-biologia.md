@@ -152,15 +152,15 @@ d) Ningún microorganismo tiene efectos positivos
 1. d) El aspecto afectivo. La sexualidad integra lo biológico, lo afectivo y lo social; las emociones y los vínculos son parte del aspecto afectivo.
 2. Verdadero — el aspecto social incluye el respeto, la convivencia y la forma en que nos relacionamos con otros.
 3. a) 1: biológico; 2: afectivo; 3: social. El vello púbico es un cambio corporal (biológico); el cariño y el respeto son afectivos; informarse antes de decidir es parte del aspecto social y de la responsabilidad individual.
-4. d) Tomar decisiones informadas y cuidadosas sobre la propia sexualidad, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto
-5. b) Porque el ritmo de los cambios puberales varía de persona a persona de forma normal, y el respeto es parte esencial de vivir la sexualidad de forma sana
-6. b) Se desprende la capa interna del útero, porque no hubo fecundación.
+4. d) Tomar decisiones informadas y cuidadosas sobre la propia sexualidad, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto. Ser responsable es informarse y decidir pensando en el propio bienestar y en el de la otra persona. Seguir la presión del grupo o evitar informarse no es responsabilidad.
+5. b) Porque el ritmo de los cambios puberales varía de persona a persona de forma normal, y el respeto es parte esencial de vivir la sexualidad de forma sana. Cada cuerpo vive la pubertad a su propio ritmo, y empezar antes o después es normal. Burlarse daña a la otra persona: el respeto es parte de una sexualidad sana.
+6. b) Se desprende la capa interna del útero, porque no hubo fecundación. Cada mes, el útero prepara una capa interna para recibir un embrión. Si no hay fecundación, esa capa se desprende y sale con sangre: es la menstruación.
 7. Falso — el embrión se implanta en la pared del útero, no en el ovario.
-8. c) Natural: control del ciclo menstrual. De barrera: preservativo y diafragma. Químico/hormonal: píldora anticonceptiva
+8. c) Natural: control del ciclo menstrual. De barrera: preservativo y diafragma. Químico/hormonal: píldora anticonceptiva. El control del ciclo es un método natural; el preservativo y el diafragma son barreras que impiden el paso de los espermatozoides, y la píldora actúa con hormonas.
 9. a) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora impide la ovulación alterando el ciclo hormonal. Además, solo el preservativo protege contra infecciones de transmisión sexual.
 10. a, b y c — Un embarazo adolescente tiene implicancias físicas, sociales y educativas, y la paternidad responsable implica que ambos progenitores asumen la crianza.
 11. b) Procarionte, porque no tiene núcleo definido; su material genético está disperso en el citoplasma.
 12. Falso — los antibióticos actúan sobre las bacterias; no sirven contra los virus.
-13. d) Hongos: *Penicillium* y levadura. Virus: influenza. Bacterias: *E. coli*
-14. b) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse
-15. c) Bacterias: flora intestinal / tuberculosis. Hongos: penicilina / pie de atleta. Virus: uso en vacunas / gripe
+13. d) Hongos: *Penicillium* y levadura. Virus: influenza. Bacterias: *E. coli*. Penicillium y la levadura son hongos; la influenza es causada por un virus, y E. coli es una bacteria.
+14. b) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse. Fuera de una célula, un virus no se alimenta ni se reproduce: necesita entrar en una célula huésped y usarla para fabricar copias de sí mismo.
+15. c) Bacterias: flora intestinal / tuberculosis. Hongos: penicilina / pie de atleta. Virus: uso en vacunas / gripe. Las bacterias de la flora intestinal ayudan a digerir, pero otras causan tuberculosis; el hongo Penicillium da la penicilina y otros causan pie de atleta; los virus atenuados se usan en vacunas y otros causan la gripe.

@@ -95,9 +95,9 @@ d) Verter basura es positiva porque alimenta a los peces, y el área protegida e
 2. **Verdadero.** La mayor parte del agua dulce del planeta está congelada en glaciares y casquetes polares.
 3. b, c y d — Salada: océano Pacífico. Dulce: glaciar, lago y agua subterránea.
 4. a, b y d — El océano es agua salada; los glaciares, lagos y ríos del sur son grandes reservas de agua dulce.
-5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea
+5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea. Cerca del 97 % del agua del planeta es salada (océanos). Del agua dulce, la mayor parte está congelada en glaciares o bajo tierra, así que la que podemos usar es muy poca.
 6. **b) Lavar autos en la orilla y dejar que el detergente caiga al agua.** El detergente contamina el agua y afecta a peces y plantas.
 7. **Verdadero.** Es un efecto positivo de la actividad humana sobre los cuerpos de agua.
 8. a) La basura plástica y los derrames de petróleo. Llegan al mar desde la costa y los barcos, y dañan a peces, aves y mamíferos marinos.
-9. d) Porque son una de las principales reservas de agua dulce, y si retroceden se reduce el agua disponible a largo plazo
-10. b) Verter basura es negativa porque contamina el agua; el área protegida es positiva porque resguarda el ecosistema
+9. d) Porque son una de las principales reservas de agua dulce, y si retroceden se reduce el agua disponible a largo plazo. Los glaciares guardan agua dulce y la liberan poco a poco en los ríos. Si se derriten más rápido de lo que se forman, a largo plazo habrá menos agua disponible.
+10. b) Verter basura es negativa porque contamina el agua; el área protegida es positiva porque resguarda el ecosistema. La basura contamina el agua y daña a los seres vivos del lago. Un área protegida limita las actividades que dañan el ecosistema y ayuda a conservarlo.

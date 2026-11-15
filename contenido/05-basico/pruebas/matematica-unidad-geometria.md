@@ -40,7 +40,7 @@ b) Nunca se tocan
 c) Son perpendiculares
 d) Son la misma arista
 
-**Pregunta 5.** Un trapecio es una figura de 4 lados donde solo un par de lados es paralelo. ¿Cuántos pares de lados paralelos tiene un trapecio, y cuántos lados en total?
+**Pregunta 5.** ¿Qué descripción corresponde a un trapecio?
 
 a) 2 pares de lados paralelos y 4 lados
 b) 1 par de lados paralelos y 3 lados
@@ -99,11 +99,11 @@ d) Una traslación; no son congruentes
 2. **Verdadero** — las rectas paralelas mantienen siempre la misma distancia y nunca se cruzan.
 3. a) Perpendiculares, porque se cruzan formando exactamente 90°. Toda perpendicularidad es una intersección con ángulo recto.
 4. **c) Son perpendiculares** — en el cubo, las aristas que se juntan en un vértice forman ángulos rectos.
-5. d) 1 par de lados paralelos y 4 lados
+5. d) 1 par de lados paralelos y 4 lados. Un trapecio es un cuadrilátero (4 lados) con solo un par de lados paralelos. Si tuviera 2 pares, sería un paralelogramo.
 6. a) Son perpendiculares (forman 90°). Las paredes se construyen perpendiculares al piso para que la estructura sea estable.
 7. **b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado** — tienen la misma forma y el mismo tamaño.
 8. **Falso** — la rotación solo cambia la posición: la figura conserva su forma y su tamaño.
 9. b) Una rotación de 180°. Ampliar o reducir cambian el tamaño, así que no son isométricas.
-10. c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada.
+10. c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada. Dos figuras son congruentes si tienen la misma forma y el mismo tamaño. Girar una figura no cambia su forma ni su tamaño.
 11. **d) Reducirla a la mitad** — al cambiar el tamaño, la figura nueva ya no es congruente con la original.
 12. a) Una traslación; sí son congruentes. Una traslación no cambia la forma ni el tamaño.

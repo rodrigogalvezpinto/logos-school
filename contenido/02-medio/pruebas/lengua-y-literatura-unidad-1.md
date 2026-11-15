@@ -169,18 +169,18 @@ d) En levantarse cada año de madrugada, vestirse de huaso y acompañar la comun
 
 **Preguntas de alternativas y Verdadero/Falso**
 
-1. c
+1. c. La narradora encuentra las cartas de un tío del que "nadie en la familia hablaba" y quiere saber qué pasó, mientras la abuela evita el tema.
 2. a) Dice que "todo está bien", pero menciona síntomas que revelan una preocupación. Comparar lo que dice un personaje con lo que cuenta permite descubrir lo que no expresa directamente.
-3. Falso
-4. d
+3. Falso. Narra una nieta en primera persona ("Las encontré", "le pregunté"), que va descubriendo poco a poco lo ocurrido; no es un narrador omnisciente.
+4. d. La carta es un relato dentro del relato: una historia contada por otra voz (Tomás) dentro de la historia de la narradora. Eso es una caja china.
 5. d) "Esta tos que no me deja dormir, y el polvo que se mete en todo". Un indicio no anuncia un hecho de forma directa: entrega una pista que el lector interpreta.
-6. c
+6. c. Carla quiere cerrar el almacén por la salud de su padre, pero para don Hernán el almacén es su historia y un apoyo para el barrio: esa tensión mueve la escena.
 7. a) La dificultad de soltar un lugar y un oficio ligados a la identidad y los vínculos. Identificar el problema humano exige preguntarse qué tensión une a los personajes más allá de la situación concreta.
-8. Falso
-9. b
+8. Falso. También construyen la atmósfera las acotaciones: la lluvia sobre el techo de zinc, la campanita que suena con el viento y la luz que baja hasta iluminar solo el cuaderno.
+9. b. La campanita recuerda a la esposa de don Hernán ("para saber que no estábamos solos") y el cuaderno de los fiados, los lazos de confianza con los vecinos.
 10. c) De una tensión entre lo práctico y la resistencia silenciosa a un tono de cuidado mutuo. Describir la evolución exige atender a los cambios de tono y a las acotaciones.
-11. b
+11. b. El texto lo nombra: "Es la fiesta de Cuasimodo", en que jinetes acompañan al cura que lleva la comunión a los enfermos después de Pascua.
 12. a) La costumbre une la fe con el cuidado de los enfermos y mantiene vivo el vínculo con el lugar de origen. Reconocer un antecedente cultural exige explicar cómo influye en el sentido del texto.
-13. Falso
-14. b
+13. Falso. El texto dice lo contrario: el abuelo "nunca ha faltado a un Cuasimodo", aunque hoy vive en Maipú, rodeado de edificios.
+14. b. El abuelo nació en un fundo cerca de Curicó y llegó a Santiago a trabajar en una fábrica: es la migración campo-ciudad del siglo XX.
 15. d) Relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.

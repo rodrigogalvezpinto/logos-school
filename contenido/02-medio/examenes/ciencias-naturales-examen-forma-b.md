@@ -328,7 +328,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 25 | Alternativas | **c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas.** Esa versatilidad permite formar carbohidratos, lípidos, proteínas y ácidos nucleicos. | OA 17 |
 
 
-# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+# PUNTAJE Y VERSIÓN ANTERIOR
 
 > **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 

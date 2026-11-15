@@ -14,7 +14,7 @@ oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6
 
 # Prueba de Unidad — Eje 4: Probabilidad y Estadística
 
-**Instrucciones:** responde todas las preguntas. Muestra el procedimiento en las preguntas de desarrollo. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Haz tus cálculos en el cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 ---
 

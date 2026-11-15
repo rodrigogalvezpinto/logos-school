@@ -18,119 +18,119 @@ oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA
 **Tiempo sugerido:** 30-35 minutos.
 **N° de preguntas:** 14.
 
-**Instrucciones:** responde todas las preguntas. En las de alternativas, marca solo una opción (a, b, c o d). En las de verdadero o falso, marca V o F. En las de desarrollo o emparejar, responde con oraciones completas o completa lo pedido.
+**Instrucciones:** responde todas las preguntas. En las de alternativas, marca solo una opción (a, b, c o d). En las de verdadero o falso, marca V o F. En las de unir, elige la combinación correcta.
 
 ---
 
 ## Preguntas 1 a 7 (OA N°4 — Epistemología)
 
-**1. (Alternativas)** ¿Cuál es el objeto de estudio de la epistemología?
+**1. (Alternativas)** ¿Cuál de estas preguntas pertenece a la epistemología?
 
-a) La naturaleza última de la realidad y de lo que existe.
-b) Las normas sobre lo bueno y lo malo en la vida humana.
-c) El conocimiento: su origen, alcance y justificación.
-d) La estructura de los argumentos válidos y sus reglas.
+a) "¿Existe Dios?" (sobre lo que existe).
+b) "¿Está bien mentir para proteger a un amigo?" (sobre lo bueno y lo malo).
+c) "¿Cómo puedo saber si una noticia que leo es verdadera?" (sobre el conocimiento y su justificación).
+d) "¿Es válido este silogismo?" (sobre la estructura de los argumentos).
 
-**2. (Verdadero o falso)** El dogmatismo sostiene que el conocimiento absoluto y cerrado es alcanzable y no necesita seguir revisándose.
+**2. (Verdadero o falso)** Una persona que afirma "mi religión, mi partido o mi teoría tiene toda la verdad y no hay nada que revisar" adopta una postura dogmática frente al conocimiento.
 
-**3. (Alternativas — Unir — simple)** Une cada postura con su actitud: (1) Dogmatismo, (2) Escepticismo, (3) Criticismo — (A) Es posible conocer, pero el conocimiento se revisa a la luz de la evidencia; (B) Se posee la verdad absoluta, no hace falta cuestionarla; (C) No es posible alcanzar conocimiento verdadero y seguro. ¿Qué combinación es correcta?
+**3. (Alternativas — Unir)** Une cada postura con la frase de un estudiante: (1) Dogmatismo, (2) Escepticismo, (3) Criticismo — (A) "Creo lo que dice el estudio, pero lo revisaría si aparecen datos nuevos"; (B) "Lo que dice mi libro es la verdad y no necesito revisarlo"; (C) "No podemos saber nada con certeza, así que no vale la pena intentarlo". ¿Qué combinación es correcta?
 
 a) 1-B, 2-C, 3-A
 b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**4. (Alternativas)** ¿Cuál de las siguientes afirmaciones representa mejor una postura epistemológica **crítica** (no dogmática ni escéptica)?
+**4. (Alternativas)** Frente a la pregunta "¿el cambio climático es causado por la actividad humana?", ¿qué respuesta representa mejor una postura epistemológica **crítica**?
 
-a) "Nunca podemos estar seguros de nada, así que da lo mismo qué creer: todas las opiniones valen igual."
-b) "Esta teoría científica es la verdad final y ya no requiere ser revisada jamás, aunque aparezca nueva evidencia."
-c) "Puedo tener creencias justificadas por la evidencia disponible, y estoy dispuesto a revisarlas si aparece evidencia mejor."
-d) "Confío en lo que dice la mayoría en redes sociales sin más, porque si tanta gente lo cree, debe ser verdad."
+a) "Nadie puede saberlo de verdad, así que cualquier opinión vale lo mismo."
+b) "Lo que diga mi grupo de amigos es la verdad final y no hay que revisarlo."
+c) "La evidencia científica disponible es muy sólida y me lleva a aceptarlo, aunque reconozco que el conocimiento científico se revisa si aparecen datos nuevos."
+d) "Si un video tiene millones de visitas, lo que dice tiene que ser verdad."
 
-**5. (Alternativas — Experiencia — intermedio)** ¿Qué situación muestra el paso de una actitud dogmática a una crítica frente al conocimiento?
+**5. (Alternativas — Experiencia)** ¿Qué situación muestra el paso de una actitud dogmática a una crítica frente al conocimiento?
 
-a) Creer todo lo que dicen las redes sociales sobre salud y ejercicio, porque muchas personas lo comparten y eso demuestra que es verdad
-b) Rechazar toda información sobre entrenamiento sin revisarla, porque nunca se puede saber qué es verdad
-c) Repetir lo que dice la mayoría de los amigos sobre las dietas, para no tener que pensar en el tema
-d) Dejar de aceptar sin cuestionar lo que dice un influencer de fitness y empezar a buscar evidencia y fuentes, dispuesto a cambiar de opinión
+a) Seguir creyendo que un horóscopo predice el futuro porque toda la familia lo lee
+b) Rechazar toda información sobre astronomía sin revisarla, porque "nada se puede saber"
+c) Repetir lo que dice la mayoría del curso sobre el horóscopo para no discutir
+d) Dejar de aceptar sin cuestionar el horóscopo, comparar sus predicciones con lo que realmente ocurrió y revisar la creencia según esa evidencia
 
-**6. (Alternativas)** Un estudiante acepta sin ninguna duda todo lo que dice su profesor favorito, incluso cuando otros profesores presentan evidencia distinta, porque "él nunca se equivoca". ¿Qué actitud epistemológica ejemplifica mejor esta situación?
+**6. (Alternativas)** Un hincha sostiene que su equipo de fútbol "jamás ha cometido una falta", aunque le muestren videos de las jugadas, porque "es imposible que se equivoquen". ¿Qué actitud epistemológica ejemplifica mejor esta situación?
 
 a) Escepticismo radical.
-b) Ninguna postura epistemológica, es solo simpatía personal.
+b) Ninguna postura epistemológica, es solo una preferencia deportiva.
 c) Criticismo.
 d) Dogmatismo.
 
-**7. (Alternativas — Análisis de caso — intermedio)** Un amigo dice: "No le creo nada a ningún médico, todos mienten". ¿Qué evaluación y alternativa son correctas?
+**7. (Alternativas — Análisis de caso)** Una compañera dice: "No hay que creerle nada a ningún científico, todos tienen intereses". ¿Qué evaluación es correcta?
 
-a) Es una postura crítica razonable, porque desconfiar de todos los médicos por igual protege de posibles engaños
-b) Es dogmatismo; lo correcto es creerle todo a cualquier médico, porque su título garantiza que dice la verdad
-c) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más
-d) Es correcta: si algunos médicos se equivocan, la medicina no tiene evidencia confiable en ningún caso
+a) Es una postura crítica razonable, porque desconfiar de todos los científicos por igual protege de engaños
+b) Es dogmatismo; lo correcto es creerle todo a cualquier científico, porque su título garantiza la verdad
+c) Es un escepticismo radical; lo crítico es evaluar cada afirmación según su evidencia y sus posibles conflictos de interés, sin rechazarla en bloque ni aceptarla sin más
+d) Es correcta: si algunos científicos se equivocan, la ciencia no tiene evidencia confiable en ningún caso
 
 ---
 
 ## Preguntas 8 a 14 (OA N°6 — Lógica y argumentación)
 
-**8. (Alternativas)** ¿Qué distingue a un argumento deductivo de uno inductivo?
+**8. (Alternativas)** Compara estos dos razonamientos. (I) "Todos los mamíferos tienen pulmones; la ballena es un mamífero; por lo tanto, la ballena tiene pulmones." (II) "Los últimos diez veranos en Santiago superaron los 30 °C; por lo tanto, el próximo verano también los superará." ¿Qué los distingue?
 
-a) El deductivo usa más palabras y premisas que el inductivo, por eso es más completo.
-b) En el deductivo, si las premisas son verdaderas la conclusión se sigue necesariamente; en el inductivo, la conclusión es solo probable.
-c) El inductivo siempre es más confiable que el deductivo, porque se basa en casos reales observados y no en premisas que pueden ser inventadas
-d) No hay ninguna diferencia real entre ambos: son dos nombres para el mismo tipo de razonamiento.
+a) El (I) tiene más premisas que el (II), por eso es más completo.
+b) El (I) es deductivo: si las premisas son verdaderas, la conclusión se sigue necesariamente; el (II) es inductivo: su conclusión es solo probable.
+c) El (II) es más confiable, porque se basa en casos observados y no en premisas.
+d) No hay ninguna diferencia: ambos son el mismo tipo de razonamiento.
 
-**9. (Verdadero o falso)** Un argumento puede tener una estructura lógicamente válida y, al mismo tiempo, contener una premisa falsa.
+**9. (Verdadero o falso)** El razonamiento "Todos los peces vuelan; el salmón es un pez; por lo tanto, el salmón vuela" tiene una estructura válida, aunque su primera premisa es falsa.
 
-**10. (Alternativas — Componentes — simple)** En el argumento "Como llovió toda la noche (razón) y cuando llueve mucho las calles se inundan (garantía), es probable que hoy el barrio esté inundado (conclusión)", ¿qué elemento falta para fortalecerlo?
+**10. (Alternativas — Componentes)** En el argumento "Como Camila practicó todos los días (razón) y quien practica de forma constante suele mejorar (garantía), es probable que le vaya bien en el concurso de piano (conclusión)", ¿qué elemento falta para fortalecerlo?
 
 a) Una segunda conclusión que refuerce la primera
 b) Una pregunta retórica que interpele al lector
-c) Evidencia concreta, como milímetros caídos o fotos de inundaciones anteriores con lluvias similares
-d) Nada: el argumento ya es perfecto, porque tiene razón, garantía y conclusión, y no necesita más apoyo
+c) Evidencia concreta, como sus resultados en concursos anteriores o la evaluación de su profesora
+d) Nada: el argumento ya es perfecto y no necesita más apoyo
 
-**11. (Identificar falacia)** "Tienes que creerme sobre este remedio natural, lo dijo un doctor muy famoso en un video de internet, así que debe ser verdad." ¿Qué falacia se comete?
+**11. (Alternativas — Identificar falacia)** "Este celular tiene que ser el mejor del mercado: lo recomienda un futbolista famoso en su publicidad." ¿Qué falacia se comete?
 
-a) Ad hominem: descalifica a quienes dudan del remedio atacando su persona en vez de sus argumentos.
-b) Apelación a la autoridad (sin evaluar si la afirmación específica está realmente respaldada por evidencia).
-c) Falsa dicotomía: plantea solo dos opciones, creer en el remedio o enfermarse, sin alternativas.
-d) Ninguna: el argumento es válido, porque un doctor famoso es una fuente confiable en cualquier tema.
+a) Ad hominem: ataca a la persona en vez de sus argumentos.
+b) Apelación a la autoridad: se acepta la conclusión por la fama de quien la dice, aunque no sea experto en el tema ni presente evidencia.
+c) Falsa dicotomía: plantea solo dos opciones.
+d) Ninguna: un futbolista famoso es una fuente confiable en cualquier tema.
 
-**12. (Alternativas — Unir métodos — intermedio)** Une cada método con su descripción: (1) Mayéutica, (2) Experimento mental, (3) Fenomenología — (A) describir la experiencia consciente tal como se vive; (B) hacer preguntas sucesivas para que el interlocutor descubra contradicciones; (C) imaginar una situación hipotética para poner a prueba una idea. ¿Qué combinación es correcta?
+**12. (Alternativas — Unir métodos)** Une cada método con un ejemplo: (1) Mayéutica, (2) Experimento mental, (3) Fenomenología — (A) describir con detalle cómo se vive la experiencia de esperar una noticia importante; (B) preguntar a un compañero "¿qué es la valentía?" y, con nuevas preguntas, mostrarle que su definición se contradice; (C) imaginar que existe un anillo que te vuelve invisible y preguntarse si seguirías actuando con justicia. ¿Qué combinación es correcta?
 
 a) 1-B, 2-C, 3-A
 b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**13. (Alternativas — Construir un argumento — desafiante)** ¿Qué opción presenta un argumento completo (razón, garantía y evidencia) a favor de "Es importante que los estudiantes de 3° medio aprendan lógica"?
+**13. (Alternativas — Construir un argumento)** ¿Qué opción presenta un argumento completo (razón, garantía y evidencia) a favor de "Los liceos deberían ofrecer talleres de educación financiera"?
 
-a) Razón: la lógica es importante para los estudiantes. Garantía: porque sí, ya que todo el mundo lo sabe. Evidencia: ninguna, porque es algo evidente para cualquier persona que haya estudiado
-b) Solo una afirmación: "la lógica sirve para pensar mejor", repetida con distintas palabras en la razón, en la garantía y en la evidencia, sin agregar información nueva ni ningún dato que la respalde, como si repetirla bastara para convencer al lector de 3° medio
-c) Razón: las matemáticas son difíciles para muchos estudiantes de 3° medio. Garantía: no hay ninguna, porque no es necesaria. Evidencia: mi opinión personal y la de mis compañeros de curso
-d) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas
+a) Razón: la educación financiera es importante. Garantía: porque sí, todos lo saben. Evidencia: ninguna, porque es evidente
+b) Solo la afirmación "saber de dinero es útil", repetida con distintas palabras como razón, garantía y evidencia, sin ningún dato que la respalde
+c) Razón: a muchos estudiantes no les gustan las matemáticas. Garantía: no es necesaria. Evidencia: mi opinión y la de mis amigos
+d) Razón: los jóvenes toman decisiones sobre créditos y ahorro al salir del liceo. Garantía: quien entiende el interés y las deudas puede evitar endeudarse en exceso. Evidencia: encuestas muestran que muchos jóvenes desconocen cómo funcionan los intereses de una tarjeta de crédito
 
-**14. (Alternativas)** ¿Cuál de las siguientes descripciones corresponde mejor al método filosófico de la **axiomática**?
+**14. (Alternativas)** Euclides partió de unos pocos principios aceptados sin demostración, como "por dos puntos pasa una sola recta", y desde ellos dedujo cientos de teoremas de geometría. ¿Qué método filosófico ilustra este ejemplo?
 
-a) Describir la experiencia consciente tal como se vive, sin presuponer teorías ni explicaciones previas sobre ella.
-b) Partir de principios básicos aceptados sin demostración (axiomas) y derivar de ellos, con reglas lógicas, el resto de un sistema.
-c) Hacer preguntas sucesivas para que el interlocutor descubra contradicciones en sus propias creencias.
-d) Imaginar una situación hipotética para poner a prueba una intuición o un concepto, sin realizar experimentos reales.
+a) La fenomenología: describir la experiencia consciente tal como se vive.
+b) La axiomática: partir de principios básicos aceptados sin demostración (axiomas) y derivar de ellos el resto de un sistema con reglas lógicas.
+c) La mayéutica: hacer preguntas sucesivas para que el interlocutor descubra contradicciones.
+d) El experimento mental: imaginar una situación hipotética para poner a prueba una idea.
 
 ---
 
 ## Pauta de respuestas
 
-1. c
-2. Verdadero — el dogmático da por sentado que ya posee la verdad completa, cerrando la posibilidad de revisión.
+1. c — la epistemología estudia el conocimiento: su origen, alcance y justificación; las otras preguntas son de ontología, ética y lógica.
+2. Verdadero — el dogmático da por sentado que ya posee la verdad completa y cierra la posibilidad de revisión.
 3. a) 1-B, 2-C, 3-A. Las tres difieren en cuánta confianza depositan en la posibilidad de conocer.
-4. c
-5. d) Dejar de aceptar sin cuestionar lo que dice un influencer de fitness y empezar a buscar evidencia y fuentes, dispuesto a cambiar de opinión. El criticismo combina confianza en el conocimiento con revisión de la evidencia.
-6. d
-7. c) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más. Hay que distinguir la duda razonable y puntual de la desconfianza total.
-8. b
-9. Verdadero — validez y verdad son propiedades distintas: la validez depende de la estructura del razonamiento, la verdad de si las premisas corresponden con los hechos.
-10. c) Evidencia concreta, como milímetros caídos o fotos de inundaciones anteriores con lluvias similares. La evidencia es el respaldo fáctico que hace más sólida la razón dada.
-11. b
-12. a) 1-B, 2-C, 3-A. Diálogo socrático, imaginación controlada y descripción de la experiencia vivida.
-13. d) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas. Los tres componentes deben estar presentes y ser coherentes entre sí.
-14. b
+4. c — el criticismo combina confianza en la evidencia con disposición a revisarla.
+5. d — se pasa de aceptar sin cuestionar a contrastar la creencia con la evidencia.
+6. d. El hincha da su creencia por verdad absoluta y rechaza la evidencia que la contradice: eso es dogmatismo.
+7. c — hay que distinguir la duda razonable y puntual de la desconfianza total.
+8. b. En (I), si las premisas son verdaderas la conclusión es necesariamente verdadera (deducción); en (II), diez casos hacen probable la conclusión, pero no la garantizan (inducción).
+9. Verdadero — validez y verdad son distintas: la estructura es válida (si las premisas fueran verdaderas, la conclusión lo sería), pero la premisa "todos los peces vuelan" es falsa.
+10. c — la evidencia es el respaldo fáctico que hace más sólida la razón dada.
+11. b. La fama del futbolista no lo convierte en experto en tecnología ni aporta evidencia sobre el celular: es una apelación a la autoridad sin fundamento.
+12. a) 1-B, 2-C, 3-A. Diálogo socrático, imaginación controlada (el anillo de Giges, de Platón) y descripción de la experiencia vivida.
+13. d — los tres componentes deben estar presentes y ser coherentes entre sí.
+14. b. Euclides parte de axiomas, que se aceptan sin demostración, y deduce de ellos los teoremas: ese es el método axiomático.

@@ -27,86 +27,76 @@ especulación) con la producción y síntesis del OA N°4.
 
 ## Preguntas
 
-1. *(Alternativas — Completar)* Complete with reported speech: *"I love science fiction movies," said Tomás. → Tomás said that ___ science fiction movies.*
+1. *(Alternativas — Completar)* Complete with reported speech: *"I want to study medicine," said Javiera. → Javiera said that ___ to study medicine.*
 
-a) he loved
-b) he loves
-c) I loved
-d) he has loved
+a) she wanted
+b) she wants
+c) I wanted
+d) she has wanted
 
-2. *(Alternativas)* ¿Qué oración expresa correctamente **certeza sobre el
-   pasado** usando un modal de especulación?
-   a) He must forgetting his homework.
-   b) He must to forget his homework.
-   c) He must forgot his homework.
-   d) He must have forgotten his homework.
+2. *(Alternativas)* El piso de la cocina está mojado y hay un vaso roto junto al lavaplatos. ¿Qué oración expresa correctamente **certeza sobre el pasado** usando un modal de especulación?
 
-3. *(Verdadero o falso)* *"She might have missed the bus"* expresa una
-   **posibilidad**, no una certeza absoluta.
+a) Someone must dropping a glass.
+b) Someone must to drop a glass.
+c) Someone must dropped a glass.
+d) Someone must have dropped a glass.
 
-4. *(Alternativas — Selección)* ¿Qué significa el modal *"can't have"* + participio?
+3. *(Verdadero o falso)* *"They may have left early because of the rain"* expresa una **posibilidad**, no una certeza absoluta.
 
-a) Posibilidad: quizás ocurrió, pero no hay certeza
-b) Obligación: era necesario que ocurriera así
-c) Permiso: se permitió que ocurriera en el pasado
-d) Imposibilidad: es imposible que haya ocurrido
+4. *(Alternativas — Selección)* Read: *"Martín can't have written this essay: he was in hospital all week and the essay was written yesterday."* ¿Qué expresa *"can't have written"* en esta oración?
 
-5. *(Alternativas — Discurso indirecto)* Read: *"My friend said, 'I finished the book last night.'"* Which option rewrites it correctly in reported speech?
+a) Posibilidad: quizás lo escribió, pero no hay certeza
+b) Obligación: era necesario que lo escribiera
+c) Permiso: se le permitió escribirlo
+d) Imposibilidad: según la evidencia, es imposible que lo haya escrito
 
-a) My friend said that I finish the book last night, in the past.
-b) My friend said that she had finished the book the night before.
-c) My friend said that she finishes the book tonight, after dinner.
-d) My friend says that she will finish the book the night before.
+5. *(Alternativas — Discurso indirecto)* Read: *"My cousin said, 'I visited Chiloé last summer.'"* Which option rewrites it correctly in reported speech?
 
-6. *(Verdadero o falso — desafiante)* Al escribir un texto breve sobre un
-   tema de interés personal usando discurso indirecto y modales de
-   especulación, es apropiado incluir una postura personal justificada (*in
-   my opinion... because...*).
+a) My cousin said that I visit Chiloé last summer.
+b) My cousin said that he had visited Chiloé the summer before.
+c) My cousin said that he visits Chiloé this summer.
+d) My cousin says that he will visit Chiloé the summer before.
 
-7. *(Alternativas)* Tu amiga no contestó el teléfono anoche, pero sabes que
-   ella siempre lo tiene encendido. ¿Qué modal de especulación expresa
-   mejor esta situación de **duda razonable**, no de certeza total?
-   a) She must have lost her phone on the way home last night.
-   b) She might have been asleep, or her phone might have been off.
-   c) She can't have a phone, because she never answers my calls.
-   d) She has must forgotten her phone at school or at home.
+6. *(Verdadero o falso)* En un texto breve sobre un videojuego favorito, escrito con discurso indirecto y modales de especulación, es apropiado incluir una postura personal justificada (*in my opinion… because…*).
 
-8. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
-   sobre identidad cultural?
-   a) "I have a culture, and my culture is a culture that I have."
-   b) "My heritage and upbringing have shaped my sense of belonging to my community."
-   c) "My country is nice and my community is nice, so I like it a lot."
-   d) "I like things from my culture, like the food and the music and stuff."
+7. *(Alternativas)* Tu profesor no llegó a la primera hora de clases, aunque siempre es puntual. Hubo un corte de luz en su barrio y también había mucho tráfico. ¿Qué oración expresa mejor esta situación de **duda razonable**, no de certeza total?
 
-9. *(Alternativas — Completar)* Complete the sentence using appropriate lexicon about identity: *"Growing up speaking two languages has shaped my ___ in ways I'm still discovering."*
+a) He must have decided to quit his job.
+b) He might have been stuck in traffic, or his alarm might not have worked because of the power cut.
+c) He can't have a car, because he is never late.
+d) He has must forgotten the class.
+
+8. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto sobre las tradiciones de la propia familia?
+
+a) "My family has traditions, and the traditions are traditions we have."
+b) "Our family customs, passed down from my grandparents, have strengthened my sense of belonging."
+c) "My family is nice and our things are nice, so I like it."
+d) "We do stuff like eating and things on holidays and stuff."
+
+9. *(Alternativas — Completar)* Complete the sentence using appropriate lexicon about identity: *"Moving from Arica to Punta Arenas made me rethink my cultural ___ and what 'home' means to me."*
 
 a) thing
 b) stuff
 c) identity
 d) object
 
-10. *(Verdadero o falso)* Una síntesis de dos textos (uno leído y uno
-    escuchado) debe combinar la información de ambas fuentes con las propias
-    palabras del autor, sin copiar oraciones completas de ninguna de las
-    dos.
+10. *(Verdadero o falso)* Al sintetizar un artículo leído y un podcast escuchado sobre el mismo tema, lo mejor es copiar oraciones completas de ambas fuentes, sin reformularlas con palabras propias.
 
-11. *(Alternativas — Selección)* ¿Qué función cumple *"overall"*?
+11. *(Alternativas — Selección)* Read: *"The article mentions three benefits of volunteering and the podcast adds two more. Overall, both sources agree that volunteering helps young people develop empathy."* ¿Qué función cumple *"overall"* en este texto?
 
 a) Introducir una conclusión general
 b) Citar una fuente específica del texto
 c) Expresar una condición o una hipótesis
 d) Dar un ejemplo concreto de una idea
 
-12. *(Alternativas — Comprensión)* Read: *"Interviewer: What does being Chilean mean to you? Teenager: It means valuing family, sharing good food, and being proud of where I come from, even when I disagree with some things about my country."* According to the teenager, what does being Chilean mean?
+12. *(Alternativas — Comprensión)* Read: *"Interviewer: How has your Mapuche heritage influenced you? Student: My grandmother taught me some words in Mapudungun, and I feel connected to the land. Even though I live in Santiago, I try to keep those traditions alive."* According to the student, how has their heritage influenced them?
 
-a) Agreeing with everything about the country, even the things that are wrong, and never criticizing it in public
-b) Living far away from their family and missing the country every day
-c) Only cooking traditional food and celebrating national holidays
-d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things
+a) They no longer feel any connection with their heritage because they live in Santiago
+b) They only speak Mapudungun at school
+c) They have never learned anything from their family
+d) They learned words in Mapudungun from their grandmother, feel connected to the land and try to keep the traditions alive
 
-13. *(Verdadero o falso — desafiante)* Sintetizar información de un texto
-    leído y uno escuchado sobre un mismo tema puede incluir señalar tanto
-    coincidencias como diferencias entre ambas fuentes.
+13. *(Verdadero o falso)* Al sintetizar un texto leído y uno escuchado sobre el uso de redes sociales, se puede señalar en qué coinciden ambas fuentes y también en qué difieren.
 
 14. *(Alternativas)* ¿Qué oración usa un registro adecuado para una presentación
     oral formal sobre identidad cultural?
@@ -119,20 +109,18 @@ d) Valuing family, sharing good food and being proud of their country, even whil
 
 ## Pauta de respuestas
 
-1. a) he loved. En discurso indirecto, el presente simple (*love*) generalmente cambia a pasado simple (*loved*), y *I* pasa a *he*.
-2. **d.** *Must have* + participio pasado expresa certeza sobre el pasado.
-3. **True (Verdadero).** *Might have* expresa posibilidad, no certeza.
-4. d) Imposibilidad: es imposible que haya ocurrido. *Can't have* + participio expresa que algo es imposible que haya ocurrido, según la evidencia disponible.
-5. b) My friend said that she had finished the book the night before. Cambian el tiempo verbal (pasado simple → pasado perfecto) y las referencias temporales (*last night* → *the night before*).
-6. **True (Verdadero).** El OA busca integrar gramática con postura
-   personal.
-7. **b.** *Might have* expresa posibilidad razonable ante evidencia
-   ambigua.
-8. **b.** Usa vocabulario específico del campo semántico de la identidad.
-9. c) identity. El término específico (*identity*) es más apropiado que una palabra genérica como *thing* para este tema.
-10. **True (Verdadero).** Sintetizar exige reformular, no copiar.
-11. a) Introducir una conclusión general. *Overall* se usa para resumir una idea general después de haber presentado varios detalles.
-12. d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things. La respuesta debe usar la información explícita del texto oral (transcripción), no una opinión personal.
-13. **True (Verdadero).** Una buena síntesis también señala diferencias.
+1. a) she wanted. En discurso indirecto, el presente simple (*want*) generalmente cambia a pasado simple (*wanted*), y *I* pasa a *she*.
+2. **d.** *Must have* + participio pasado expresa certeza sobre el pasado a partir de evidencia (el vaso roto, el piso mojado).
+3. **True (Verdadero).** *May have* expresa posibilidad, no certeza.
+4. d) *Can't have* + participio expresa que algo es imposible que haya ocurrido, según la evidencia disponible.
+5. b) Cambian el tiempo verbal (pasado simple → pasado perfecto), el pronombre (*I* → *he*) y la referencia temporal (*last summer* → *the summer before*).
+6. **True (Verdadero).** El OA busca integrar la gramática con una postura personal fundamentada.
+7. **b.** *Might have* expresa una posibilidad razonable ante evidencia ambigua.
+8. **b.** Usa vocabulario específico del campo semántico de la identidad (*customs*, *passed down*, *sense of belonging*).
+9. c) identity. El término específico es más apropiado que una palabra genérica.
+10. **False (Falso).** Sintetizar exige combinar la información de ambas fuentes y reformularla con palabras propias, no copiar.
+11. a) *Overall* introduce una idea general después de haber presentado varios detalles.
+12. d) La respuesta usa la información explícita de la entrevista, no una opinión personal.
+13. **True (Verdadero).** Una buena síntesis señala coincidencias y diferencias.
 14. **c.** La opción c) mantiene un registro formal y una estructura completa, adecuados
     para una presentación oral académica; las demás usan registro coloquial.

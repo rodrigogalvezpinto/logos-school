@@ -23,82 +23,70 @@ palabras sueltas.
 
 ---
 
-1. *(Alternativas)* Read: *"In India, many families celebrate Diwali, the
-   festival of lights, by decorating their homes with small oil lamps and
-   sharing sweets with neighbors."* ¿Cuál es la información central del
-   texto?
-   a) India is a very large country with many different festivals.
-   b) Diwali only happens once every ten years, in some cities of India.
-   c) Neighbors never visit each other in India during the festival of lights.
-   d) Diwali is celebrated with lights, decorations and shared sweets.
+1. *(Alternativas)* Read: *"In Ghana, many families celebrate the birth of a baby with a naming ceremony called 'outdooring'. Eight days after the birth, relatives and friends gather at dawn to welcome the baby, give it a name and share food and music."* ¿Cuál es la información central del texto?
 
-2. *(Alternativas — Completar)* Complete: *"Chilean teenagers usually have lunch at home or at school. ___, in the United Kingdom, many students bring a packed lunch from home."*
+a) Ghana is a country in Africa with many different languages.
+b) Babies in Ghana do not receive a name until they are eight years old.
+c) Relatives in Ghana never visit a family after a baby is born.
+d) In Ghana, a naming ceremony welcomes a baby eight days after birth, with family, food and music.
+
+2. *(Alternativas — Completar)* Complete: *"In Chile, the school year starts in March. ___, in Japan, it starts in April, when the cherry trees bloom."*
 
 a) Therefore
 b) Similarly
 c) In contrast
 d) First
 
-3. *(Verdadero o falso)* Read: *"In South Korea, it is common for students to
-   bow slightly when greeting their teachers as a sign of respect."*
-   Statement: *This sentence describes a widespread custom in South Korean
-   schools.*
+3. *(Verdadero o falso)* Read: *"In Finland, most families have a sauna at home or in their summer cottage, and going to the sauna every week is a normal part of life."* Statement: *The text describes a widespread custom in Finland.*
 
-4. *(Alternativas — Organizador gráfico)* Read: *"The Chinese New Year lasts 15 days. Families gather for a reunion dinner, and children receive money in red envelopes called hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
+4. *(Alternativas — Organizador gráfico)* Read: *"Hanami is a Japanese spring tradition. For about two weeks, while the cherry trees bloom, families and friends have picnics under the pink flowers."* Duration: ___ / Main activity: ___ / Place: ___
 
-a) 15 years / red envelopes for adults / a reunion lunch
-b) 1 day / fireworks and parades / toys for children
-c) 15 days / hongbao dinner / money for the restaurant
-d) 15 days / reunion dinner / money in red envelopes (hongbao)
+a) Two years / cooking cherries / at a restaurant
+b) One day / a parade with music / in the city center
+c) Two weeks / cherry trees / picnics
+d) About two weeks / picnics with family and friends / under the cherry trees
 
-5. *(Alternativas — Función)* ¿Qué función cumple el conector *"whereas"*?
+5. *(Alternativas — Función)* Read: *"In Spain, people usually have dinner at 10 p.m., whereas in Chile many families eat dinner or 'once' around 8 p.m."* ¿Qué función cumple *"whereas"* en esta oración?
 
 a) Marcar una semejanza
 b) Marcar una diferencia
 c) Agregar un ejemplo
 d) Indicar una consecuencia
 
-6. *(Alternativas — Comprensión)* Read: *"In Sweden, 'fika' is a daily coffee break with pastries that people share with friends or coworkers. It is considered an important social custom, not just a quick coffee."* *What is 'fika', according to the text?*
+6. *(Alternativas — Comprensión)* Read: *"In Denmark, 'hygge' is a feeling of comfort and togetherness. People create it by lighting candles, drinking something warm and spending relaxed time with people they love, especially during the long, dark winters."* *What is 'hygge', according to the text?*
 
-a) A quick coffee that people drink alone before going to work
-b) A Swedish holiday celebrated once a year with family and friends
-c) A daily coffee break with pastries, shared as an important social custom
-d) A type of pastry sold in Swedish bakeries and coffee shops
+a) A Danish winter sport practiced on frozen lakes
+b) A national holiday celebrated once a year with fireworks
+c) A feeling of comfort and togetherness created in relaxed moments with loved ones
+d) A type of candle sold in Danish shops
 
-7. *(Alternativas — desafiante)* Read two short texts: Text A says Brazilian
-   Carnival lasts about a week and centers on street parades and music. Text
-   B says Chilean Fiestas Patrias last about a week too and center on
-   traditional dances and food. ¿Qué oración compara correctamente ambos
-   textos?
-   a) Both celebrations last about a week, but Carnival focuses on parades and music, whereas Fiestas Patrias focuses on dances and food.
-   b) Carnival and Fiestas Patrias have nothing in common, because they are celebrated in different countries and seasons.
-   c) Only Fiestas Patrias lasts about a week, while Carnival lasts one day and focuses on dances and traditional food.
-   d) Carnival focuses on dances and food, whereas Fiestas Patrias focuses on parades and music, and both last about a month.
+7. *(Alternativas)* Read two short texts: Text A says the Inti Raymi in Cusco, Peru, takes place on June 24 and centers on a ceremony to honor the sun. Text B says the We Tripantu, the Mapuche New Year in Chile, takes place around June 24 too and centers on purifying in the river at dawn and sharing food. ¿Qué oración compara correctamente ambos textos?
 
-8. *(Alternativas — Completar — desafiante)* Complete: *"Both Japan and Chile value family celebrations, ___ the specific traditions are very different."*
+a) Both celebrations take place around June 24, but the Inti Raymi focuses on a ceremony to honor the sun, whereas the We Tripantu focuses on purification in the river and sharing food.
+b) The Inti Raymi and the We Tripantu have nothing in common, because they are celebrated in different countries.
+c) Only the We Tripantu takes place in June, while the Inti Raymi takes place in December.
+d) The Inti Raymi focuses on purification in the river, whereas the We Tripantu honors the sun, and both take place in September.
+
+8. *(Alternativas — Completar)* Complete: *"Both Mexico and Chile have a national dance, ___ the music and the clothes are very different."*
 
 a) although
 b) similarly
 c) therefore
 d) moreover
 
-9. *(Verdadero o falso — desafiante)* Read: *"Unlike many Western countries,
-   where people usually shake hands as a greeting, in Thailand people greet
-   each other with the 'wai', pressing their palms together and bowing
-   slightly."* Statement: *The text shows a contrast between greeting
-   customs in Western countries and Thailand.*
+9. *(Verdadero o falso)* Read: *"Unlike in Chile, where people often greet friends with a kiss on the cheek, in Japan people usually greet each other with a bow and avoid physical contact."* Statement: *The text shows a contrast between greeting customs in Chile and Japan.*
 
-10. *(Alternativas — Resumir — desafiante)* Read: *"In Mexico, the Day of the Dead is not a sad occasion. Families build colorful altars with photos, food, and flowers to remember loved ones who have passed away, celebrating their lives instead of mourning their deaths."* Which summary answers the guiding questions?
+10. *(Alternativas — Resumir)* Read: *"Every year in Rapa Nui, the Tapati festival lasts about two weeks. Families compete in traditional sports, songs and dances, and the winning team chooses the festival queen. The main purpose is to keep the Rapa Nui culture and language alive."* Which summary answers the guiding questions (what is it, how is it celebrated and why)?
 
-a) The Day of the Dead is a very sad day in Mexico, when families cry for their loved ones and stay at home in silence; its purpose is to mourn the people who died.
-b) Mexican families buy flowers and food for the Day of the Dead; its purpose is to decorate their houses for a national holiday with parades and music.
-c) The Day of the Dead is a Chilean festival about food and dancing, where families cook traditional dishes; its purpose is to celebrate the harvest season.
-d) The Day of the Dead is a Mexican celebration where families build colorful altars; its purpose is to celebrate the lives of loved ones instead of mourning them.
+a) The Tapati is a one-day festival in Santiago where people buy food; its purpose is to make money for tourism.
+b) The Tapati is a sports competition for tourists; its purpose is to choose the best athlete in Chile.
+c) The Tapati is a Peruvian festival about the harvest; its purpose is to celebrate the end of summer.
+d) The Tapati is a two-week festival in Rapa Nui with traditional sports, songs and dances; its purpose is to keep the Rapa Nui culture and language alive.
 
-11. *(Alternativas — Completar)* Read: *"The Scottish tradition of Hogmanay dates back to old Viking celebrations of the winter solstice."* Complete reusing a structure from the text: *"This custom ___ hundreds of years, according to the article."* (remontarse a)
+11. *(Alternativas — Completar)* Read: *"The tradition of the Fiesta de La Tirana dates back to the colonial period."* Complete reusing a structure from the text: *"The custom of eating 'curanto' in Chiloé ___ the ancient indigenous peoples of the island."* (se remonta a)
 
 a) dates
-b) dates back
+b) dates back to
 c) goes from
 d) came back
 
@@ -113,60 +101,51 @@ d) came back
     c) Songkran is mainly known for its massive water fights.
     d) Songkran combines water fights with temple rituals.
 
-13. *(Alternativas — Vocabulario)* What does *"widespread"* mean?
+13. *(Alternativas — Vocabulario)* Read: *"Drinking mate is widespread in Argentina, Uruguay and the south of Chile: you can see people sharing it at home, at work and in parks."* What does *"widespread"* mean in this sentence?
 
 a) Poco frecuente, raro o escaso
 b) Antiguo, de otra época histórica
 c) Extendido, practicado por muchos
 d) Prohibido o limitado por ley
 
-14. *(Alternativas — Producción — desafiante)* Which paragraph compares two celebrations using a similarity connector and a difference connector?
+14. *(Alternativas — Producción)* Which paragraph compares two breakfasts using a similarity connector and a difference connector?
 
-a) Both Chile and Peru celebrate their independence with food and dancing. Similarly, both hold parades. Whereas Chilean celebrations center on cueca, Peruvian ones often center on marinera.
-b) Chile celebrates independence with food and dancing. Peru celebrates independence with food and dancing. Chile has parades. Peru has parades. Chile dances cueca. Peru dances marinera.
-c) Whereas similarly both Chile and Peru, similarly whereas both celebrate. Both whereas similarly hold parades, and similarly whereas cueca and marinera are danced.
-d) Chile has empanadas and cueca. I like empanadas very much, and my family eats them every September during the Fiestas Patrias in our town.
+a) Both British and Chilean people often drink tea in the morning. Similarly, both eat bread at breakfast. Whereas a full English breakfast includes eggs, beans and sausages, a Chilean breakfast is usually lighter, with bread and avocado.
+b) British people drink tea. Chilean people drink tea. British people eat bread. Chilean people eat bread. British people eat beans. Chilean people eat avocado.
+c) Whereas similarly both British and Chilean, similarly whereas both drink. Both whereas similarly eat bread.
+d) I love avocado on toast very much, and my family eats it every morning in our house.
 
 ---
 
 ## Pauta de respuestas
 
-1. **d)** Diwali is celebrated with lights, decorations and shared sweets.
-   La idea central resume lo esencial de la celebración (luces, decoración,
-   compartir dulces), sin detenerse en detalles secundarios.
+1. **d)** La idea central resume lo esencial (qué es la ceremonia, cuándo ocurre y cómo se celebra), sin detenerse en datos secundarios.
 
 2. c) In contrast. El texto muestra una diferencia entre países, por lo que corresponde un conector de contraste.
 
-3. **True (Verdadero).**
-   *It is common* indica que la práctica está extendida (widespread) entre
-   los estudiantes.
+3. **True (Verdadero).** *Most families* y *a normal part of life* indican que la práctica está extendida (widespread).
 
-4. d) 15 days / reunion dinner / money in red envelopes (hongbao). Completar un organizador gráfico exige extraer datos y clasificarlos por categoría.
+4. d) About two weeks / picnics with family and friends / under the cherry trees. Completar un organizador gráfico exige extraer los datos y ubicar cada uno en su categoría.
 
-5. b) Marcar una diferencia. *Whereas* (mientras que) contrasta dos ideas en una misma oración.
+5. b) Marcar una diferencia. *Whereas* (mientras que) contrasta dos ideas en una misma oración: la hora de la cena en España y en Chile.
 
-6. c) A daily coffee break with pastries, shared as an important social custom. La respuesta usa información explícita del texto, no una opinión.
+6. c) La respuesta usa la información explícita del texto, no una opinión.
 
-7. **a)** Both celebrations last about a week, but Carnival focuses on
-   parades and music, whereas Fiestas Patrias focuses on dances and food.
-   La comparación correcta reconoce la semejanza (*both... last about a
-   week*) y la diferencia (*whereas*) entre ambos textos.
+7. **a)** La comparación correcta reconoce la semejanza (*both… around June 24*) y la diferencia (*whereas*) entre ambos textos.
 
 8. a) although. *Although* introduce un contraste dentro de una idea que empieza con una semejanza.
 
-9. **True (Verdadero).**
-   *Unlike* (a diferencia de) introduce explícitamente una comparación de
-   contraste entre dos culturas.
+9. **True (Verdadero).** *Unlike* (a diferencia de) introduce explícitamente un contraste entre dos culturas.
 
-10. d) The Day of the Dead is a Mexican celebration where families build colorful altars; its purpose is to celebrate the lives of loved ones instead of mourning them. El resumen debe responder qué es, cómo se celebra y con qué propósito, con palabras propias.
+10. d) El resumen debe responder qué es, cómo se celebra y con qué propósito.
 
-11. b) dates back. El OA pide reutilizar la estructura del texto (*dates back*) en un nuevo contexto.
+11. b) dates back to. Se reutiliza la estructura del texto (*dates back to*, «se remonta a») en un nuevo contexto.
 
 12. **b)** Many families use the holiday to clean their homes.
     La idea central agrupa lo esencial del texto (las peleas de agua y las
     visitas a los templos); limpiar la casa es un detalle adicional, no el
     foco principal.
 
-13. c) Extendido, practicado por muchos. *Widespread* describe una práctica común en muchos lugares o entre muchas personas.
+13. c) Extendido, practicado por muchos. El contexto lo confirma: se ve a personas compartiendo mate en muchos lugares.
 
-14. a) Both Chile and Peru celebrate their independence with food and dancing. Similarly, both hold parades. Whereas Chilean celebrations center on cueca, Peruvian ones often center on marinera. Se espera información clasificada y conectores de semejanza (*similarly*) y diferencia (*whereas*).
+14. a) Se espera información clasificada y conectores de semejanza (*both*, *similarly*) y diferencia (*whereas*).

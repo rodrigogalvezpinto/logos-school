@@ -87,10 +87,10 @@ d) Las hamburguesas
 
 ## Pauta de respuestas
 
-1. a) Despertarme y levantarme
-2. Falso
-3. d) 1) Desayunar, 2) Almorzar, 3) Cenar
+1. a) Despertarme y levantarme. Lo primero es despertar y levantarse; después viene el desayuno. El almuerzo, la siesta y la cena llegan más tarde.
+2. Falso. El desayuno es la primera comida del día, en la mañana. La comida de la noche es la cena.
+3. d) 1) Desayunar, 2) Almorzar, 3) Cenar. Primero desayunamos en la mañana, luego almorzamos al mediodía y al final cenamos en la noche.
 4. c) Domingo. Después del sábado viene el domingo.
-5. b) El copihue
-6. Verdadero
+5. b) El copihue. El copihue es la flor nacional de Chile: es roja, tiene forma de campana y crece en una enredadera del bosque del sur.
+6. Verdadero. En septiembre, en Fiestas Patrias, muchas familias encumbran volantines, comen empanadas y bailan cueca.
 7. a) Las empanadas. Son una comida típica chilena de las Fiestas Patrias.

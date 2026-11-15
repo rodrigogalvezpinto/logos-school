@@ -14,7 +14,7 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 # Prueba de Unidad — Eje 2: Álgebra y Funciones
 
-**Instrucciones:** responde todas las preguntas. Muestra el procedimiento en las preguntas de desarrollo. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Haz tus cálculos en el cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 ---
 

@@ -154,5 +154,5 @@ d) Metálico, porque el oxígeno es un metal
 10. a y b — El brillo y la buena conductividad térmica son propiedades de los metales.
 11. d) Iónico: el sodio (metal) cede un electrón y el cloro (no metal) lo acepta.
 12. b) Tenderá a ceder electrones, como los demás metales alcalinos.
-13. c) El hierro conduce bien la electricidad y el calor; el azufre conduce mal y es quebradizo.
+13. c) El hierro conduce bien la electricidad y el calor; el azufre conduce mal y es quebradizo. Los metales, como el hierro, conducen bien la electricidad y el calor; los no metales, como el azufre, conducen mal y suelen ser frágiles. Ambos son sólidos a temperatura ambiente.
 14. a) Covalente apolar, porque los dos átomos son iguales.

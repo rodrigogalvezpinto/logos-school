@@ -17,24 +17,22 @@ oa_por_pregunta: {"1":"OA 1 (Mód. 1)","2":"OA 1 (Mód. 1)","3":"OA 1 (Mód. 1)"
 
 **Tiempo sugerido:** 45-50 minutos &nbsp;|&nbsp; **N° de preguntas:** 14
 
-**Instrucciones:** Lee cada pregunta con atención. Las preguntas de alternativas tienen una
-sola respuesta correcta. Las preguntas de desarrollo requieren que fundamentes tu respuesta
-con argumentos, no solo una afirmación.
+**Instrucciones:** Lee cada pregunta con atención. En las preguntas de alternativas, marca
+solo una opción. En las de «varias correctas», marca todas las opciones correctas. En las de
+verdadero o falso, decide si la afirmación es verdadera o falsa.
 
 ---
 
 ### OA N°1 — Factores que influyen en la salud humana
 
-**Pregunta 1.** *(Alternativas)* La exposición prolongada a rayos UV sin protección se
-clasifica principalmente como un factor:
+**Pregunta 1.** *(Alternativas)* Una familia vive junto a una avenida con tránsito intenso de camiones y respira a diario humo de diésel. Este riesgo para su salud se clasifica principalmente como un factor:
 
 a) Biológico
 b) Genético exclusivamente
 c) Social
 d) Ambiental
 
-**Pregunta 2.** *(Verdadero o falso)* El estrés académico solo tiene efectos a corto plazo,
-como el insomnio ocasional, y no genera consecuencias a largo plazo en la salud.
+**Pregunta 2.** *(Verdadero o falso)* Dormir menos de seis horas cada noche durante meses solo provoca cansancio al día siguiente y no tiene consecuencias de largo plazo en la salud.
 
 **Pregunta 3.** *(Alternativas — Análisis de caso)* Camila vive en una comuna con alta contaminación por material particulado, su familia tiene bajos ingresos y hace poca actividad física por falta de espacios seguros. ¿Qué opción identifica correctamente los factores y su interacción?
 
@@ -50,12 +48,12 @@ b) Porque basta con no tener síntomas físicos ni enfermedades diagnosticadas p
 c) Porque el ambiente no influye en la salud, que depende únicamente de la genética y de los hábitos personales
 d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino
 
-**Pregunta 5.** *(Varias correctas — Evaluación de evidencia)* Un titular dice: "Estudio revela que comer una fruta exótica cura el estrés en 24 horas", sin fuente ni número de participantes. ¿Qué conviene evaluar antes de creerlo? Marca **todas** las correctas.
+**Pregunta 5.** *(Varias correctas — Evaluación de evidencia)* Una cuenta de redes sociales promociona un suplemento que "elimina la ansiedad en una semana, comprobado por miles de usuarios", y muestra solo testimonios. ¿Qué conviene evaluar antes de comprarlo? Marca **todas** las correctas.
 
-a) Si hay una fuente científica verificable
-b) El tamaño y el diseño de la muestra
-c) Si existen conflictos de interés, como que lo publique quien vende la fruta
-d) Cuántos "me gusta" tiene la publicación
+a) Si existe un estudio científico publicado y verificable que respalde el efecto
+b) Si el estudio comparó a quienes tomaron el suplemento con un grupo que no lo tomó
+c) Si quien hace la afirmación gana dinero vendiendo el suplemento
+d) Cuántos seguidores tiene la cuenta que lo promociona
 
 **Pregunta 6.** *(Alternativas — Análisis de caso)* Un joven que vive cerca de un vertedero tiene síntomas respiratorios recurrentes y su médico pide datos de calidad del aire antes de diagnosticar. ¿Por qué es importante considerar el factor ambiental?
 
@@ -64,52 +62,46 @@ b) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y pre
 c) Porque basta con tratar los síntomas respiratorios con medicamentos, sin necesidad de conocer su origen
 d) Porque las causas de los síntomas respiratorios siempre son solo biológicas, como virus o alergias hereditarias
 
-**Pregunta 7.** *(Alternativas)* La exposición crónica a material particulado fino (PM2.5) en
-ciudades con alta contaminación atmosférica, como ocurre en episodios de "preemergencia
-ambiental" en Santiago durante el invierno, se asocia principalmente a un mayor riesgo, a
-largo plazo, de:
+**Pregunta 7.** *(Alternativas)* En muchas ciudades del centro y sur de Chile, la calefacción con leña húmeda eleva en invierno el material particulado fino (PM2.5). La exposición repetida a este contaminante durante años se asocia principalmente a:
 
-a) Enfermedades cardiovasculares y respiratorias crónicas.
-b) Mejoras en la función pulmonar.
-c) Inmunidad permanente frente a otros contaminantes.
-d) Ningún efecto medible en la salud.
+a) Mayor riesgo de enfermedades cardiovasculares y respiratorias crónicas
+b) Una mejora de la capacidad pulmonar
+c) Inmunidad permanente frente a otros contaminantes
+d) Ningún efecto medible en la salud
 
 ---
 
 ### OA N°3 — Transmisión de agentes infecciosos y prevención
 
-**Pregunta 8.** *(Alternativas)* El hantavirus se transmite principalmente por:
+**Pregunta 8.** *(Alternativas)* Una familia de Aysén va a limpiar una bodega que estuvo cerrada todo el invierno y encuentra fecas de ratones en el suelo. ¿Qué medida reduce el riesgo de contagio de hantavirus?
 
-a) Contacto sexual sin protección con una persona infectada.
-b) Inhalación de partículas contaminadas con orina o heces de roedores.
-c) Transfusiones de sangre contaminada en centros de salud.
-d) Consumo de agua no potable de ríos o pozos rurales.
+a) Barrer en seco y rápido, para estar el menor tiempo posible dentro
+b) Ventilar la bodega al menos 30 minutos y humedecer el suelo con agua con cloro antes de limpiar, usando mascarilla y guantes
+c) Hervir el agua antes de beberla
+d) Usar preservativo en las relaciones sexuales
 
-**Pregunta 9.** *(Alternativas — Análisis de caso)* Por desinformación, la cobertura de vacunación contra el sarampión de una comuna baja del 95% al 80%. ¿Qué consecuencia es más probable?
+**Pregunta 9.** *(Alternativas — Análisis de caso)* En una ciudad, la cobertura de la vacuna contra la tos convulsiva (coqueluche) en embarazadas baja del 90% al 60%. ¿Qué consecuencia es más probable?
 
-a) Disminución de los contagios, porque las personas no vacunadas desarrollan defensas naturales
-b) Ningún cambio, porque el sarampión no es contagioso y solo afecta a quien ya estaba enfermo
-c) Aumento de contagios, incluso en quienes no pueden vacunarse, porque se pierde la inmunidad de rebaño
-d) Desaparición del virus en la comuna, porque menos vacunas significan menos contacto con él
+a) Disminuyen los contagios, porque las personas no vacunadas desarrollan defensas naturales
+b) Ningún cambio, porque la tos convulsiva no es contagiosa
+c) Aumentan los contagios graves en recién nacidos, que aún no pueden vacunarse, porque reciben menos defensas de la madre y circula más la bacteria
+d) La enfermedad desaparece, porque menos vacunas significan menos contacto con ella
 
-**Pregunta 10.** *(Varias correctas — Evaluación de evidencia)* Un video viral asegura que "las vacunas causan más enfermedades de las que previenen" sin citar estudios. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
+**Pregunta 10.** *(Varias correctas — Evaluación de evidencia)* Un mensaje reenviado por WhatsApp afirma que "el virus del papiloma (VPH) no causa cáncer y la vacuna escolar es innecesaria", sin citar ninguna fuente. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
 
-a) Buscar estudios revisados por pares
-b) Verificar qué dicen organismos reconocidos como la OMS, el MINSAL o el ISP
-c) Comparar con estadísticas oficiales de casos antes y después de cada vacuna
-d) Confiar en el video si tiene muchas visualizaciones
+a) Buscar estudios científicos revisados por pares sobre el VPH y el cáncer cervicouterino
+b) Consultar la información de organismos reconocidos, como el MINSAL, el ISP o la OMS
+c) Revisar datos oficiales sobre los casos de cáncer y de infección en países con alta cobertura de la vacuna
+d) Creerlo si lo envió alguien de confianza
 
-**Pregunta 11.** *(Verdadero o falso)* El VIH-sida y la hepatitis B comparten algunas vías de
-transmisión, como el contacto con sangre o fluidos corporales durante relaciones sexuales sin
-protección.
+**Pregunta 11.** *(Verdadero o falso)* Compartir una jeringa o una máquina de afeitar con una persona infectada es una vía posible de transmisión del VIH y de la hepatitis B, porque ambos virus se transmiten por contacto con sangre.
 
-**Pregunta 12.** *(Alternativas)* La hepatitis B, además de por vía sanguínea y sexual, puede
-transmitirse de una madre infectada a su hijo o hija:
+**Pregunta 12.** *(Alternativas)* El control prenatal en Chile incluye exámenes para detectar el VIH, la sífilis y la hepatitis B en la embarazada. ¿Por qué es importante detectarlas a tiempo?
 
-a) Solo por contacto casual, como compartir cubiertos.
-b) Durante el embarazo o el parto (transmisión vertical).
-c) Únicamente por vía respiratoria.
-d) Solo a través de picaduras de insectos.
+a) Porque esas infecciones solo se transmiten por compartir cubiertos con la madre
+b) Porque pueden transmitirse de la madre al hijo o hija durante el embarazo o el parto (transmisión vertical), y hay tratamientos que reducen ese riesgo
+c) Porque se transmiten únicamente por vía respiratoria al recién nacido
+d) Porque solo se transmiten por picaduras de insectos durante el embarazo
 
 **Pregunta 13.** *(Alternativas)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
 
@@ -118,9 +110,7 @@ b) Ninguna implicancia ambiental: el hantavirus es solo un problema médico que 
 c) Exige talar todos los bosques cercanos a las viviendas y eliminar la vegetación nativa, porque allí viven los roedores que transmiten el virus a las personas
 d) Requiere aumentar la basura orgánica lejos de las casas, para atraer a los roedores hacia otros sectores y así evitar que se acerquen a las viviendas
 
-**Pregunta 14.** *(Verdadero o falso)* La vacuna contra la influenza debe actualizarse y
-aplicarse cada año porque el virus muta con frecuencia, lo que hace que la inmunidad de
-temporadas anteriores no siempre proteja contra las nuevas variantes circulantes.
+**Pregunta 14.** *(Verdadero o falso)* Una persona que tuvo influenza el invierno pasado puede volver a enfermar de influenza este año, porque el virus cambia con frecuencia y las defensas generadas antes pueden no reconocer las nuevas variantes.
 
 ---
 
@@ -128,21 +118,20 @@ temporadas anteriores no siempre proteja contra las nuevas variantes circulantes
 
 | N° | Respuesta correcta |
 |:---:|---|
-| 1 | d) Ambiental |
-| 2 | Falso — el estrés crónico se asocia a efectos de largo plazo como hipertensión, alteraciones del sistema inmune y trastornos de ansiedad. |
+| 1 | d) Ambiental — el humo de diésel es una condición del entorno físico que la familia respira. |
+| 2 | Falso — la privación crónica de sueño se asocia a efectos de largo plazo, como alteraciones del sistema inmune, del ánimo, de la memoria y mayor riesgo cardiovascular. |
 | 3 | **a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla.** Un buen análisis muestra cómo los tres tipos de factores interactúan. |
 | 4 | **d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.** Por eso las políticas de salud abordan también vivienda, educación y medioambiente. |
-| 5 | **a, b y c.** Un resultado "milagroso" sin fuente es una señal de alerta; la popularidad no es evidencia. |
+| 5 | **a, b y c.** Los testimonios no reemplazan un estudio con grupo de comparación; el número de seguidores no es evidencia. |
 | 6 | **b) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y prevención correctos dependen de identificar todos los factores.** Separar causas biológicas, ambientales o sociales permite diseñar soluciones más efectivas. |
-| 7 | a) Enfermedades cardiovasculares y respiratorias crónicas. |
-| 8 | b) Inhalación de partículas contaminadas con orina o heces de roedores. |
-| 9 | **c) Aumento de contagios, incluso en quienes no pueden vacunarse, porque se pierde la inmunidad de rebaño.** La inmunidad de rebaño del sarampión requiere una cobertura cercana al 95%. |
-| 10 | **a, b y c.** No se trata de creer o no creer, sino de verificar con fuentes confiables. |
-| 11 | Verdadero. |
-| 12 | b) Durante el embarazo o el parto (transmisión vertical). |
+| 7 | a) Mayor riesgo de enfermedades cardiovasculares y respiratorias crónicas — las partículas finas llegan a lo profundo del pulmón y al torrente sanguíneo. |
+| 8 | **b)** El hantavirus se transmite al inhalar partículas de orina, saliva o fecas del ratón colilargo que se levantan con el polvo. Por eso no se barre en seco: se ventila y se humedece con cloro antes de limpiar. |
+| 9 | **c)** Vacunar a la embarazada protege al recién nacido, que todavía no tiene edad para su propia vacuna. Si baja la cobertura, la bacteria circula más y afecta justamente a quienes no pueden protegerse. |
+| 10 | **a, b y c.** La confianza en quien reenvía un mensaje no reemplaza la verificación con fuentes científicas. |
+| 11 | Verdadero — ambos virus se transmiten por sangre y por fluidos sexuales; por eso no se comparten jeringas, máquinas de afeitar ni objetos cortopunzantes. |
+| 12 | b) La transmisión vertical (embarazo, parto o lactancia) puede prevenirse en gran parte con detección y tratamiento oportunos. |
 | 13 | **a) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.** La prevención no es solo doméstica, sino también ambiental y territorial. |
-| 14 | Verdadero. |
+| 14 | Verdadero — por la misma razón la vacuna contra la influenza se actualiza y se aplica cada año. |
 
-**Puntaje sugerido:** 1 punto por alternativa/V-F correcta (7 pts), hasta 2 puntos por
-pregunta de desarrollo o análisis de caso completo y bien justificado (14 pts). Total: 21 pts.
-Exigencia de referencia: 60% (12,6/21 pts).
+**Puntaje sugerido:** 1 punto por pregunta correcta. Total: 14 pts.
+Exigencia de referencia: 60% (8,4/14 pts).

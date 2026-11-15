@@ -151,7 +151,7 @@ d) Porque sus largas cadenas de carbono son muy estables y tardan cientos de añ
 7. a) La cantidad de soluto se mantiene; al haber menos solvente, la concentración aumenta.
 8. b) Cuatro enlaces covalentes, lo que explica la gran variedad de compuestos orgánicos.
 9. Falso — los alcanos solo tienen enlaces simples; los alquenos tienen al menos un enlace doble.
-10. d) Alcanos: butano y etano. Alqueno: propeno. Alquino: propino.
+10. d) Alcanos: butano y etano. Alqueno: propeno. Alquino: propino. Los alcanos tienen solo enlaces simples (CₙH₂ₙ₊₂: butano, etano); los alquenos, un doble enlace (CₙH₂ₙ: propeno), y los alquinos, un triple enlace (CₙH₂ₙ₋₂: propino).
 11. b) El tipo y la cantidad de átomos: 3 de carbono y 8 de hidrógeno.
 12. c) Carbohidratos, lípidos, proteínas y ácidos nucleicos tienen esqueletos de carbono.
 13. a) La cadena continua más larga da la base del nombre; las ramificaciones se nombran con su posición.

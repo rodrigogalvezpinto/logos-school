@@ -348,4 +348,4 @@ Cobertura curricular del instrumento, para uso del docente o del apoderado que a
 | OA 14 | 22, 23, 24, 25 | 3 | 0 | 1 |
 | **Total** | **25 preguntas** | **22** | **2** | **1** |
 
-Cada pregunta se cuenta en un solo tipo: la justificación de V/F forma parte del mismo ítem y no se vuelve a contar como desarrollo.
+Cada pregunta se cuenta en un solo tipo.

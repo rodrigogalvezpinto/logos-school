@@ -93,9 +93,9 @@ d) 1-C, 2-B, 3-A
 
 1. **b)** Perú. Perú limita con Chile por el norte.
 2. Verdadero. Argentina está al este de Chile, al otro lado de la Cordillera de los Andes.
-3. c) A = Argentina, B = Perú, C = Bolivia
+3. c) A = Argentina, B = Perú, C = Bolivia. Argentina está al este de Chile, al otro lado de la cordillera; Perú está al norte, y Bolivia, al noreste.
 4. **c)** El océano Pacífico, que baña toda la costa de Chile.
-5. **b)** Archipiélago
+5. **b)** Archipiélago. Un archipiélago es un grupo de muchas islas cercanas, como el de Chiloé.
 6. Verdadero. La zona austral, en el extremo sur, es fría y tiene glaciares, fiordos y hielos.
 7. d) A la zona norte, en el desierto. La falta de agua y de vegetación es típica del norte de Chile.
-8. d) 1-C, 2-B, 3-A
+8. d) 1-C, 2-B, 3-A. Un lago es agua dulce rodeada de tierra; una isla es tierra rodeada de agua por todos lados, y una cordillera es una cadena de montañas muy altas.

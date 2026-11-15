@@ -118,13 +118,13 @@ c) "Las flor crecieron en el jardín."
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | a) Región de Magallanes |
-| 2  | Falso |
-| 3  | c) Porque desde los barcos se ven caer grandes témpanos a la laguna |
-| 4  | a) "¿Qué es un glaciar?" |
-| 5  | b) Página 18 |
-| 6  | d) Momento en que el hielo se derrite y se transforma en agua |
-| 7  | b) El abuelo de Tomás |
-| 8  | b) "La gata durmió toda la tarde en el sillón." |
-| 9  | b) "por eso" |
-| 10 | c) "Las flor crecieron en el jardín." |
+| 1  | a) Región de Magallanes. El texto dice: "El glaciar Grey, en la Región de Magallanes, está dentro del Parque Nacional Torres del Paine". Aysén es la región del glaciar San Rafael. |
+| 2  | Falso. El texto dice que los glaciares "cambian de tamaño: en verano, con el calor, una parte se derrite". |
+| 3  | c) Porque desde los barcos se ven caer grandes témpanos a la laguna. El texto lo explica: es muy visitado "porque desde los barcos se ven caer grandes témpanos a la laguna". |
+| 4  | a) "¿Qué es un glaciar?". Los subtítulos indican de qué trata cada parte del texto: "¿Qué es un glaciar?" es justo la parte que lo explica. |
+| 5  | b) Página 18. En el índice, el capítulo 3, "El canelo", aparece en la página 18. La página 10 es del alerce y la 25, del copihue. |
+| 6  | d) Momento en que el hielo se derrite y se transforma en agua. El glosario explica las palabras difíciles del texto. Allí dice: "Deshielo: momento en que el hielo se derrite y se transforma en agua". |
+| 7  | b) El abuelo de Tomás. El destinatario es la persona que recibe el mensaje: la invitación es para el abuelo. Tomás es quien la escribe. |
+| 8  | b) "La gata durmió toda la tarde en el sillón.". Una oración con sentido completo dice quién hace algo (la gata) y qué hace (durmió), y termina con punto. Las otras opciones están desordenadas o incompletas. |
+| 9  | b) "por eso". "Por eso" une una causa con su consecuencia: como estudió mucho, le fue bien. "Pero" serviría para algo contrario a lo esperado. |
+| 10 | c) "Las flor crecieron en el jardín.". "Las" va con una palabra en plural: debería decir "Las flores crecieron en el jardín". |

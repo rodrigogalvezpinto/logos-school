@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-15: C.2, primera pasada completa en los 12 cursos (3.° y 4.° medio: 274 reescritas). **El detector tenía un punto ciego**: no comparaba las preguntas con lectura y solo veía copias exactas. Corregido, encuentra 62 copias exactas, 83 casi copias y lecturas de la guía reutilizadas en 6 pruebas y 5 simulacros → **C.2 reabierto**. Instrucciones de «desarrollo» corregidas en 30 archivos. Tablas, citas y títulos aplanados en la app: parser y E2E corregidos. **C.4 nuevo:** 769 explicaciones que solo repiten la clave; en curso, desde las pruebas. Muestra docente lista (§15.38). **Siguiente:** C.4 en las pruebas, luego C.2b (lecturas nuevas para Lengua de 1.° y 4.° medio y Lenguaje de 4.° básico, y las copias que quedan).
+
 - 2026-11-08 (noche): C.2 → 1.° a 8.° básico en 0 % (7.° y 8.° con Lengua reescrita y textos propios). Pendiente: 1.° a 4.° medio (70–90 %). Pendiente menor: autoevaluación de Lenguaje de 3.° básico, OA 6, falla intermitente en E2E con el equipo cargado; repetir con baja carga.
 
 - 2026-11-08 (tarde): C.2 → 1.°, 2.°, 3.°, 5.° y 6.° básico en 0 % (4.° ya estaba). 7.° básico en curso: Lengua U1 y U2 reescritas con textos nuevos. Pendientes de 7.°: Ciencias, Historia, Inglés y Matemática (unas 125 preguntas). Luego 8.° básico y 1.° a 4.° medio.

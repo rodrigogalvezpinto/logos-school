@@ -149,15 +149,15 @@ d) Es incorrecta: usar información genética para contratar puede discriminar a
 
 1. c) La médula espinal. En un acto reflejo, la médula elabora la respuesta sin esperar al encéfalo, lo que la hace muy rápida.
 2. Verdadero — el impulso nervioso es una señal electroquímica que viaja por las neuronas.
-3. a) 1: sensorial; 2: motora; 3: interneurona.
+3. a) 1: sensorial; 2: motora; 3: interneurona. La neurona sensorial lleva la información del olor al encéfalo; la interneurona la conecta dentro del encéfalo, y la neurona motora lleva la orden a los músculos de la mano.
 4. d) Es incorrecta: dormir poco afecta funciones del sistema nervioso como la atención y la memoria.
 5. c) Afectiva: incluye los sentimientos, emociones y vínculos.
 6. Verdadero — el preservativo es el único método que además previene infecciones de transmisión sexual.
 7. a y b — Informarse y respetar a la otra persona son parte de una sexualidad responsable; ceder a la presión del grupo o evitar consultar no lo son.
 8. b) La meiosis, que produce células con la mitad de los cromosomas.
 9. Falso — los gametos tienen 23 cromosomas, la mitad que las células del cuerpo; al unirse en la fecundación se recuperan los 46.
-10. b) Hay tres copias del cromosoma 21 (trisomía 21).
+10. b) Hay tres copias del cromosoma 21 (trisomía 21). En el síndrome de Down hay tres copias del cromosoma 21 en vez de dos (trisomía 21). La falta de un cromosoma X corresponde al síndrome de Turner.
 11. c) La mitosis produce dos células idénticas a la original, con el mismo número de cromosomas.
 12. b) Obtener un organismo genéticamente idéntico a otro, como la oveja Dolly.
-13. a) Medicina, industria alimentaria, medio ambiente y agricultura.
+13. a) Medicina, industria alimentaria, medio ambiente y agricultura. Las vacunas son medicina; las levaduras para pan y cerveza, industria alimentaria; las bacterias que degradan petróleo, medio ambiente (biorremediación), y el maíz resistente a la sequía, agricultura.
 14. d) Evaluar una tecnología implica considerar sus efectos éticos y sociales, como la discriminación y la privacidad.

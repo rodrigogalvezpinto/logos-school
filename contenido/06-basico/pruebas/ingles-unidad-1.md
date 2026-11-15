@@ -99,15 +99,15 @@ d) Clara doesn't like sports.
 
 ## Pauta de respuestas
 
-1. d) Sing
+1. d) Sing. "She can't sing" significa "ella no puede cantar". Lucía sí puede tocar el piano ("can play the piano").
 2. F (Falso) — el texto dice *behind*, no *in front of*.
 3. a) can / can't. Las aves vuelan (habilidad) y los perros no (inhabilidad).
 4. d) He cleaned his room. *Last weekend* indica pasado: *cleaned*.
-5. c) Pedir ayuda para encontrar un gato perdido
+5. c) Pedir ayuda para encontrar un gato perdido. "Lost cat" significa "gato perdido", y el aviso pide llamar si alguien lo ve: busca ayuda para encontrarlo.
 6. b) saw. *Last night* indica pasado; *saw* es el pasado irregular de *see*.
 7. V (Verdadero)
 8. c) On Monday. El aviso dice que abre de martes a domingo; el lunes está cerrado.
-9. b) In my opinion, the museum is amazing.
+9. b) In my opinion, the museum is amazing. "In my opinion" significa "en mi opinión" y "amazing" es una valoración personal. Las otras oraciones son hechos que se pueden comprobar.
 10. F (Falso) — el texto dice que a Benjamín no le gustan las ciudades grandes.
 11. b) thinks. Con *my sister* (she) se usa *thinks*.
 12. b) Clara and Tomás are similar. Los dos son altos y les gusta el vóleibol.

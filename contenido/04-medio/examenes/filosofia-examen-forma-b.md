@@ -25,9 +25,9 @@ basado_en: Banco de autoevaluación de /contenido/04-medio/filosofia.md — preg
 
 **Instrucciones para el examinado:**
 
-1. Este examen consta de **25 preguntas**: algunas de **selección múltiple** (4 opciones, una sola correcta) y otras de **desarrollo** (respuesta breve o extensa). Léelas con atención antes de responder.
+1. Este examen consta de **25 preguntas**: de **selección múltiple** (4 opciones, una sola correcta) y de **varias correctas** (marca todas las opciones correctas). Léelas con atención antes de responder.
 2. Marca las preguntas de selección múltiple con una sola alternativa. Más de una marca anula la pregunta.
-3. En las preguntas de desarrollo, fundamenta tu respuesta con argumentos: una afirmación sin razones no obtiene puntaje completo, aunque la conclusión sea razonable.
+3. Algunas preguntas exigen analizar un argumento o un dilema: lee todas las opciones antes de elegir y descarta las que no se sostienen con razones.
 4. Algunas preguntas se organizan en torno a un **texto o situación de estímulo**: léelo antes de responder las preguntas asociadas.
 5. Dispones de 90 minutos. No se permite el uso de materiales de apoyo.
 6. No está permitido copiar preguntas ni respuestas de otros exámenes; este instrumento es de práctica y sus contenidos son originales.
@@ -269,7 +269,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Subtotal selección múltiple: 16 puntos.**
 
-## Criterios de corrección — preguntas de desarrollo
+## Preguntas de mayor complejidad (puntaje ponderado)
 
 **Pregunta 4 (OA1, 3 pts).** a) A favor: si la prioridad es la empleabilidad inmediata, la programación produce competencias técnicas directamente evaluables. En contra: la filosofía desarrolla herramientas de deliberación (examinar la legitimidad de una norma, detectar prejuicios) que ninguna asignatura técnica reemplaza. Ambos argumentos están fundamentados con razones, y ninguno se presenta como la postura correcta.
 

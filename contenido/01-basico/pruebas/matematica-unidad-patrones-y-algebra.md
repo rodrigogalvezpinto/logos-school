@@ -68,9 +68,9 @@ d) uva, plátano, manzana, manzana, uva, plátano
 
 ## Pauta de respuestas
 
-1. d) Triángulo
+1. d) Triángulo. El patrón repite círculo, triángulo. Después de un círculo viene un triángulo.
 2. b) 20 — la regla es sumar 5: 15 + 5 = 20 y 20 + 5 = 25.
-3. Verdadero
+3. Verdadero. Cada número es 5 menos que el anterior: 30, 25, 20, 15. Los números se hacen más pequeños.
 4. c) Restar 2 — cada número es 2 menos que el anterior.
 5. d) Azul — el grupo «rojo, azul, azul» se repite; después del rojo viene azul.
 6. c) plátano, manzana, uva, plátano, manzana, uva — el mismo orden fijo se repite exactamente igual; en las otras filas el orden cambia.

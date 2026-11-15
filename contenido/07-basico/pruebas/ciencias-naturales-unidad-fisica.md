@@ -127,13 +127,13 @@ d) Porque en el centro de las placas hay más volcanes, y la lava fluye hasta lo
 
 1. b) Roce cinético. Es el roce que actúa sobre un objeto que ya está en movimiento.
 2. Verdadero — mientras menos rugosas son las superficies en contacto, menor es el roce.
-3. a) 1: gravitacional; 2: elástica; 3: de roce
-4. d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo
-5. b) Porque el hielo es más liso y genera menor fuerza de roce
-6. c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone
-7. c) Las placas se separan y sale magma que forma nuevo fondo oceánico.
+3. a) 1: gravitacional; 2: elástica; 3: de roce. La manzana cae por la atracción de la Tierra (gravedad); el resorte estirado ejerce fuerza elástica, y el auto frena por el roce entre neumáticos y pavimento.
+4. d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo. El roce estático impide que un objeto en reposo empiece a moverse; el cinético frena a un objeto que ya se mueve. Por eso cuesta más empezar a empujar algo que mantenerlo en movimiento.
+5. b) Porque el hielo es más liso y genera menor fuerza de roce. El roce depende de las superficies en contacto: el hielo es muy liso y produce poco roce. El peso de la caja y la gravedad son los mismos en ambos casos.
+6. c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone. En la bajada, el peso de la bicicleta y del ciclista tira hacia abajo de la pendiente y la acelera; el roce con el aire y con el pavimento actúa en contra del movimiento.
+7. c) Las placas se separan y sale magma que forma nuevo fondo oceánico. En un límite divergente las placas se alejan; por la grieta sube magma que se enfría y forma nuevo fondo oceánico, como en la dorsal del Atlántico.
 8. Verdadero — la placa de Nazca se hunde bajo la Sudamericana, lo que genera sismos y volcanismo.
-9. a) 1: divergente; 2: convergente; 3: transformante
-10. d) Movimientos de material caliente que asciende y material frío que desciende en el manto, que empujan lentamente a las placas
-11. b) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el sur, la Antártica); la subducción libera energía en forma de sismos y volcanes
-12. c) Porque en los bordes las placas interactúan, liberando energía que forma montañas y genera actividad sísmica y volcánica
+9. a) 1: divergente; 2: convergente; 3: transformante. En la dorsal las placas se separan (divergente); cuando chocan forman cordilleras (convergente), y cuando se deslizan de lado se produce fricción (transformante).
+10. d) Movimientos de material caliente que asciende y material frío que desciende en el manto, que empujan lentamente a las placas. El material del manto se calienta, sube, se enfría y vuelve a bajar; ese movimiento circular, muy lento, arrastra a las placas que están encima.
+11. b) Porque en su costa converge la placa de Nazca con la Sudamericana (y, en el sur, la Antártica); la subducción libera energía en forma de sismos y volcanes. Frente a Chile, la placa de Nazca se hunde bajo la Sudamericana (subducción). Esa interacción acumula y libera energía en sismos y genera magma que alimenta los volcanes.
+12. c) Porque en los bordes las placas interactúan, liberando energía que forma montañas y genera actividad sísmica y volcánica. En los bordes las placas chocan, se separan o se deslizan, y en esas zonas se concentran los sismos, los volcanes y la formación de montañas.

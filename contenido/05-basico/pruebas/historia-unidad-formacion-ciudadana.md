@@ -143,7 +143,7 @@ personas, el entorno cercano y las instituciones del Estado.
 
 **4.** a) El principio de universalidad: los derechos son iguales para todas las personas. Se discrimina por el lugar de nacimiento, que no debería influir en el acceso a los derechos.
 
-**5.** d) Sí, porque es persona desde que nace y es sujeto de derecho.
+**5.** d) Sí, porque es persona desde que nace y es sujeto de derecho. Todas las personas tienen derechos desde que nacen, sin importar su edad ni lo que hagan. La Convención sobre los Derechos del Niño protege especialmente a niños y niñas.
 
 **6.** Verdadero. Los derechos son universales: la edad no los quita.
 una condición de discapacidad, disminuye o cambia los derechos que una persona posee.
@@ -162,4 +162,4 @@ participación en la vida pública que el Estado debe asegurar.
 
 **11.** c) Derecho a la recreación → usar los juegos cuidándolos y respetando el turno de los demás
 
-**12.** a) El derecho a la participación: organizarse y elegir representantes para resolver problemas comunes
+**12.** a) El derecho a la participación: organizarse y elegir representantes para resolver problemas comunes. Elegir representantes y proponer mejoras es participar. Niños, niñas y adolescentes también tienen derecho a organizarse y a dar su opinión en los temas que les afectan.

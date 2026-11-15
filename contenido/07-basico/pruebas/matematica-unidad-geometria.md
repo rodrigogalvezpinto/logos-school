@@ -118,7 +118,7 @@ d) (−6, −3)
 7. c) El área de B es 9 veces el área de A. Como el área depende del radio al cuadrado, al triplicar el radio el área se multiplica por 3² = 9.
 8. c) Cuadrante II. x negativa e y positiva.
 9. Verdadero. Cuando y = 0, el punto está sobre el eje x.
-10. c) (−4, 2).
+10. c) (−4, 2). Hacia la izquierda del origen la coordenada x es negativa (−4) y hacia arriba la coordenada y es positiva (2): el punto es (−4, 2).
 11. a) Cuadrante III, porque x e y son negativas. (+,+) es I; (−,+) es II; (−,−) es III; (+,−) es IV.
 12. d) (4, −2). Hacia la derecha suma a x: −1 + 5 = 4; hacia abajo resta a y: 4 − 6 = −2.
 13. c) En 3 cuadrantes. (1,3) está en I; (−2,3) en II; (−2,−4) en III.

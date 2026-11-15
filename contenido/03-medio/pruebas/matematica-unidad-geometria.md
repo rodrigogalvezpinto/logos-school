@@ -24,8 +24,7 @@ oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA
 2. Las preguntas de **alternativas** tienen una sola respuesta correcta entre cuatro
    opciones. Marca con una X la que consideres correcta.
 3. Las preguntas de **verdadero o falso** deben responderse con V o F.
-4. Las preguntas de **desarrollo** y **problema en contexto** se responden mostrando el
-   procedimiento completo, no solo el resultado.
+4. En los problemas en contexto, haz el cálculo en tu cuaderno antes de elegir la alternativa.
 5. Se permite el uso de calculadora, igual que en el examen real.
 6. No es un simulacro de examen: es una prueba corta para chequear tu avance en esta
    unidad. Tómate tu tiempo y revisa tus respuestas antes de entregar.
@@ -33,129 +32,125 @@ oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA
 ---
 
 **Pregunta 1.**
-Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?
+Un ángulo central mide 110°. ¿Cuánto mide el arco que subtiende?
 
-a) 50°
-b) 65°
-c) 130°
-d) 260°
+a) 55°
+b) 70°
+c) 110°
+d) 220°
 
 **Pregunta 2.** (Verdadero o falso)
-El ángulo inscrito que subtiende el mismo arco que un ángulo central de 90° mide 45°.
+Si un ángulo central y un ángulo inscrito subtienden el mismo arco de 160°, el central mide
+160° y el inscrito mide 80°.
 
 **Pregunta 3.**
-Un ángulo inscrito mide 35°. ¿Cuánto mide el arco que subtiende?
+Un ángulo inscrito mide 42°. ¿Cuánto mide el arco que subtiende?
 
-a) 17,5°
-b) 35°
-c) 70°
-d) 140°
+a) 21°
+b) 42°
+c) 84°
+d) 168°
 
 **Pregunta 4.** (Alternativas — completar)
-El ángulo ___ tiene su vértice en el centro y mide lo mismo que su arco; el ángulo ___ tiene su vértice en la circunferencia y mide la mitad del arco.
+El ángulo ___ tiene su vértice dentro de la circunferencia (sin ser el centro) y mide la semisuma de los arcos que abarca; el ángulo ___ tiene su vértice fuera de la circunferencia y mide la semidiferencia de los arcos.
 
-a) central; inscrito
-b) inscrito; central
-c) exterior; interior
-d) recto; agudo
+a) interior; exterior
+b) exterior; interior
+c) central; inscrito
+d) inscrito; semiinscrito
 
 **Pregunta 5.** (Alternativas — ángulo interior)
-Dos cuerdas se cortan dentro de una circunferencia; los arcos que abarcan miden 100° y 40°. ¿Cuánto mide el ángulo formado?
+Dos cuerdas se cortan dentro de una circunferencia; los arcos que abarcan el ángulo y su opuesto por el vértice miden 110° y 30°. ¿Cuánto mide el ángulo formado?
 
-a) 30°
+a) 40°
 b) 140°
-c) 60°
+c) 80°
 d) 70°
 
 **Pregunta 6.** (Alternativas — segmentos de cuerdas)
-Dos cuerdas se cortan: una tiene segmentos de 5 y 8 cm; la otra, uno de 4 cm. ¿Cuánto mide el segmento restante?
+Dos cuerdas se cortan: una queda dividida en segmentos de 6 y 10 cm; la otra tiene un segmento de 4 cm. ¿Cuánto mide el segmento restante?
 
-a) 10 cm
-b) 9 cm
-c) 6,4 cm
-d) 2,5 cm
+a) 15 cm
+b) 12 cm
+c) 2,4 cm
+d) 8 cm
 
 **Pregunta 7.** (Alternativas — ángulo exterior)
-Dos secantes desde un punto exterior interceptan arcos de 150° y 50°. ¿Cuánto mide el ángulo en el punto exterior?
+Dos secantes trazadas desde un punto exterior interceptan arcos de 160° y 40°. ¿Cuánto mide el ángulo en el punto exterior?
 
-a) 100°
+a) 120°
 b) 200°
-c) 50°
-d) 75°
+c) 60°
+d) 100°
 
 **Pregunta 8.** (Alternativas — secante-secante)
-Una secante tiene parte externa de 5 cm y longitud total de 20 cm; otra tiene parte externa de 4 cm. ¿Cuál es su longitud total?
+Desde un punto exterior, una secante tiene parte externa de 6 cm y longitud total de 18 cm; otra secante tiene parte externa de 4 cm. ¿Cuál es su longitud total?
 
-a) 25 cm
+a) 27 cm
 b) 16 cm
-c) 19 cm
-d) 80 cm
+c) 20 cm
+d) 72 cm
 
 **Pregunta 9.** (Alternativas — tangente-secante)
-Desde un punto exterior, una tangente mide 12 cm y una secante tiene parte externa de 8 cm. ¿Cuánto mide la secante completa?
+Desde un punto exterior, una tangente mide 10 cm y una secante tiene parte externa de 5 cm. ¿Cuánto mide la secante completa?
 
-a) 12 cm
-b) 1,5 cm
-c) 20 cm
-d) 18 cm
+a) 10 cm
+b) 2 cm
+c) 15 cm
+d) 20 cm
 
 **Pregunta 10.**
-Una tangente y una cuerda se cortan en el punto de tangencia, formando un ángulo
-semiinscrito que abarca un arco de 96°. ¿Cuánto mide ese ángulo?
+Una tangente y una cuerda se cortan en el punto de tangencia y forman un ángulo
+semiinscrito que abarca un arco de 130°. ¿Cuánto mide ese ángulo?
 
-a) 192°
-b) 96°
-c) 48°
-d) 24°
+a) 260°
+b) 130°
+c) 65°
+d) 32,5°
 
 **Pregunta 11.** (Verdadero o falso)
-En un triángulo inscrito en una circunferencia donde uno de sus lados es un diámetro, el
-ángulo opuesto a ese diámetro siempre mide 90°.
+En un cuadrilátero inscrito en una circunferencia, los ángulos opuestos suman 180°, porque
+cada uno es inscrito y entre ambos abarcan la circunferencia completa (360°).
 
-**Pregunta 12.** (Alternativas — rueda de la fortuna)
-El ángulo central entre dos cabinas es 60°. Un operador las observa desde un punto del borde opuesto. ¿Qué ángulo inscrito forma?
+**Pregunta 12.** (Alternativas — reloj)
+En un reloj circular, las marcas de las 12 y de las 3 forman un ángulo central de 90°. Desde la marca de las 8 se trazan segmentos hacia ambas marcas. ¿Qué ángulo inscrito se forma en la marca de las 8?
 
-a) 60°
-b) 30°
-c) 120°
-d) 90°
+a) 90°
+b) 45°
+c) 180°
+d) 22,5°
 
-**Pregunta 13.** (Alternativas — cables de un puente)
-Dos cables que actúan como cuerdas se cruzan: uno con segmentos de 6 y 10 m, el otro con uno de 5 m. ¿Cuánto mide el otro segmento?
+**Pregunta 13.** (Alternativas — ventana circular)
+En una ventana circular, dos listones de madera que actúan como cuerdas se cruzan: uno queda dividido en segmentos de 3 y 12 cm, y el otro tiene un segmento de 4 cm. ¿Cuánto mide el otro segmento?
 
-a) 11 m
-b) 8,3 m
-c) 12 m
-d) 3 m
+a) 13 cm
+b) 16 cm
+c) 9 cm
+d) 1 cm
 
 **Pregunta 14.** (Alternativas — justificar)
-¿Por qué dos segmentos tangentes trazados desde un mismo punto exterior a una circunferencia miden lo mismo?
+¿Por qué todo ángulo inscrito que subtiende una semicircunferencia (cuyos lados pasan por los extremos de un diámetro) mide 90°?
 
-a) Porque el radio es perpendicular a cada tangente y se forman dos triángulos rectángulos congruentes (misma hipotenusa y catetos iguales al radio)
-b) Porque todas las rectas que tocan una circunferencia miden lo mismo, ya que cada una corta a la circunferencia en dos puntos a igual distancia del centro
-c) Porque los segmentos son paralelos entre sí y el punto exterior está a la misma distancia de ambos, lo que forma un paralelogramo con el centro
-d) Solo es una coincidencia sin justificación: ocurre en algunos dibujos, pero si el punto exterior se aleja, un segmento queda más largo que el otro
+a) Porque un ángulo inscrito mide la mitad del arco que subtiende, y una semicircunferencia mide 180°
+b) Porque todos los ángulos inscritos miden 90°, sin importar el arco que subtiendan
+c) Porque el diámetro es paralelo a los lados del ángulo
+d) Es solo una coincidencia: ocurre en algunos dibujos, pero no en todos
 
 ---
 
 ## Pauta de corrección
 
-1. **c) 130°.** Un ángulo central es siempre igual, en grados, al arco que subtiende.
-2. **Verdadero.** El ángulo inscrito equivale a la mitad del ángulo central sobre el mismo
-   arco: 90°÷2=45°.
-3. **c) 70°.** Como el ángulo inscrito es la mitad del arco, el arco es el doble del ángulo
-   inscrito: 35°×2=70°.
-4. a) central; inscrito. El inscrito mide la mitad del central que subtiende el mismo arco.
-5. d) 70°. El ángulo interior es la semisuma de los arcos: (100° + 40°)/2.
-6. a) 10 cm. 5 · 8 = 4 · x → x = 10.
-7. c) 50°. El ángulo exterior es la semidiferencia: (150° − 50°)/2.
-8. a) 25 cm. 5 · 20 = 4 · x → x = 25.
-9. d) 18 cm. Tangente² = externa · completa: 144 = 8x → x = 18.
-10. **c) 48°.** El ángulo semiinscrito, igual que el inscrito, mide la mitad del arco que
-    abarca: 96°÷2=48°.
-11. **Verdadero.** Ese ángulo es un ángulo inscrito que subtiende una semicircunferencia
-    (arco de 180°), por lo tanto mide ½×180°=90° (Teorema de Tales aplicado a la
-    circunferencia).
-12. b) 30°. El inscrito mide la mitad del central: 60°/2.
-13. c) 12 m. 6 · 10 = 5 · x → x = 12.
-14. a) Porque el radio es perpendicular a cada tangente y se forman dos triángulos rectángulos congruentes (misma hipotenusa y catetos iguales al radio). Los otros catetos de esos triángulos congruentes son justamente los segmentos tangentes.
+1. **c) 110°.** Un ángulo central es siempre igual, en grados, al arco que subtiende.
+2. **Verdadero.** El central mide lo mismo que el arco (160°) y el inscrito, la mitad: 160° ÷ 2 = 80°.
+3. **c) 84°.** El arco es el doble del ángulo inscrito: 42° × 2 = 84°.
+4. a) interior; exterior. Si el vértice está dentro de la circunferencia, el ángulo es interior y mide la semisuma de los arcos; si está fuera, es exterior y mide la semidiferencia.
+5. d) 70°. El ángulo interior es la semisuma de los arcos: (110° + 30°)/2. 40° sería la semidiferencia.
+6. a) 15 cm. 6 · 10 = 4 · x → x = 15.
+7. c) 60°. El ángulo exterior es la semidiferencia: (160° − 40°)/2.
+8. a) 27 cm. 6 · 18 = 4 · x → x = 27.
+9. d) 20 cm. Tangente² = externa · completa: 100 = 5x → x = 20. 15 cm resulta de sumar 5 + 10, lo que no corresponde.
+10. **c) 65°.** El ángulo semiinscrito, igual que el inscrito, mide la mitad del arco que abarca: 130° ÷ 2 = 65°.
+11. **Verdadero.** Si los ángulos opuestos abarcan arcos x e y con x + y = 360°, miden x/2 e y/2, que suman 180°.
+12. b) 45°. La marca de las 8 está fuera del arco entre las 12 y las 3, así que el inscrito mide la mitad del central: 90°/2.
+13. c) 9 cm. 3 · 12 = 4 · x → x = 9.
+14. a) Es el teorema de Tales en la circunferencia: ½ × 180° = 90°.

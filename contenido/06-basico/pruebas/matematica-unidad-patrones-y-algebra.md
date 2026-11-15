@@ -53,12 +53,12 @@ b) x = 21
 c) x = 9
 d) x = 7
 
-**Pregunta 6 (problema en contexto).** Fernanda tenía cierta cantidad de dinero ahorrado. Gastó $8.500 en un libro y le quedaron $17.300. ¿Qué ecuación representa la situación y cuánto tenía al principio?
+**Pregunta 6 (problema en contexto).** Joaquín tenía cierta cantidad de dinero. Gastó $6.900 en una polera y le quedaron $14.600. ¿Qué ecuación representa la situación y cuánto tenía al principio?
 
-a) x + 8.500 = 17.300; x = $8.800
-b) x − 8.500 = 17.300; x = $25.800
-c) x − 17.300 = 8.500; x = $8.800
-d) x − 8.500 = 17.300; x = $8.800
+a) x + 6.900 = 14.600; x = $7.700
+b) x − 6.900 = 14.600; x = $21.500
+c) x − 14.600 = 6.900; x = $7.700
+d) x − 6.900 = 14.600; x = $7.700
 
 **Pregunta 7 (alternativas).** Resuelve: x + 27 = 61. ¿Cuál es el valor de x?
 a) 34
@@ -101,13 +101,13 @@ d) x + 12.000 = 29.400; x = $17.400
 
 1. **b) 73** — x = 120 − 47 = 73.
 2. **Verdadero** — x = 56 ÷ 7 = 8.
-3. a) x + 8 = 20; x = 12 kg
+3. a) x + 8 = 20; x = 12 kg. Si la balanza está equilibrada, ambos platillos pesan lo mismo: x + 8 = 20. Se despeja restando 8: x = 20 − 8 = 12 kg.
 4. **c) x + 2x = 36**. Ana tiene x, su hermano 2x; x = 12.
 5. d) x = 7 — 3x = 25 − 4 = 21; x = 21 ÷ 3 = 7.
-6. b) x − 8.500 = 17.300; x = $25.800
+6. b) x − 6.900 = 14.600; x = $21.500. Tenía x, gastó 6.900 y le quedaron 14.600: x − 6.900 = 14.600. Para despejar se suma: x = 14.600 + 6.900 = 21.500.
 7. **a) 34** — x = 61 − 27 = 34.
 8. **Falso** — x = 65 ÷ 5 = 13, no 15.
-9. c) 4x = 56; x = 14 kg
+9. c) 4x = 56; x = 14 kg. Cuatro bolsas de peso x pesan 4x, que equilibran 56 kg: 4x = 56. Se divide por 4: x = 14 kg.
 10. **c) x + 2x + 5 = 41** — resolviendo: 3x + 5 = 41, 3x = 36, x = 12 camisetas el sábado (y 29 el domingo).
 11. c) x = 9 — 4x = 42 − 6 = 36; x = 36 ÷ 4 = 9.
-12. d) x + 12.000 = 29.400; x = $17.400
+12. d) x + 12.000 = 29.400; x = $17.400. Tenía x y recibió 12.000, así que x + 12.000 = 29.400. Se despeja restando: x = 29.400 − 12.000 = 17.400.

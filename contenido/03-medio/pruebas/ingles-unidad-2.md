@@ -25,95 +25,90 @@ relativo y tercer condicional, no solo el significado de palabras sueltas.
 
 ### OA N°3 — Analizar, resumir y construir una postura crítica
 
-1. *(Alternativas)* ¿Qué oración funciona mejor como **oración temática**
-   para un resumen sobre un artículo de videojuegos y salud mental?
-   a) Video games are fun, and many teenagers play them after school every day.
-   b) There are many video games available today, for consoles, computers and phones.
-   c) I like video games a lot, and my favorite one is a football game that I play online with my friends every weekend.
-   d) This article examines both the positive and negative effects of video games on teenagers' mental health.
+1. *(Alternativas)* ¿Qué oración funciona mejor como **oración temática** para un resumen sobre un artículo acerca del uso del celular en las salas de clases?
 
-2. *(Alternativas — Completar)* Complete: *"The article shows several benefits of learning a second language. ___, it does not mention how much time this process usually takes."*
+a) Phones are very useful, and almost every teenager has one.
+b) There are many brands of phones, with different cameras and prices.
+c) I love my phone, and my favorite app is a music app that I use every day on the bus.
+d) This article analyzes the arguments for and against banning phones in classrooms.
+
+2. *(Alternativas — Completar)* Complete: *"The article presents clear data about plastic pollution in the ocean. ___, it does not explain what young people can do about it."*
 
 a) However
 b) Moreover
 c) Similarly
 d) First
 
-3. *(Verdadero o falso)* La frase *"This suggests that remote learning may
-   not work equally well for all students"* expresa una **postura personal
-   crítica** basada en el texto, y no solo un dato copiado literalmente.
+3. *(Verdadero o falso)* La frase *"These results suggest that social media may affect teenagers' self-esteem in different ways"* expresa una **interpretación crítica** basada en el texto, y no solo un dato copiado literalmente.
 
-4. *(Alternativas — Completar)* Topic sentence: *"The article discusses the impact of fast fashion on the environment."* Which supporting detail keeps the same topic?
+4. *(Alternativas — Completar)* Topic sentence: *"The article discusses the benefits of cycling to school."* Which supporting detail keeps the same topic?
 
-a) It explains that football is popular in Brazil and in many other countries.
-b) It explains how to cook pasta with tomato sauce in less than twenty minutes.
-c) It explains that cats sleep a lot during the day and play at night.
-d) It explains that fast fashion produces large amounts of textile waste.
+a) It explains that tennis is a popular sport in many countries.
+b) It explains how to prepare a chocolate cake in one hour.
+c) It explains that dogs need to walk every day.
+d) It explains that students who cycle to school arrive more awake and get daily exercise.
 
-5. *(Alternativas — Función)* ¿Qué función cumple *"I would argue that..."*?
+5. *(Alternativas — Función)* Read: *"In my view, schools should start later, because teenagers need more sleep, as several studies show."* ¿Qué función cumple *"In my view..."* en esta oración?
 
 a) Citar un dato textual
 b) Hacer una pregunta
 c) Dar una opinión fundamentada
 d) Describir un lugar
 
-6. *(Alternativas — Pensamiento crítico)* Read: *"A recent study found that teenagers who sleep less than seven hours a night perform worse on tests. However, the study only included students from one city."* *Why might the conclusion be limited?*
+6. *(Alternativas — Pensamiento crítico)* Read: *"A survey found that 90% of teenagers prefer online classes. However, the survey was answered by only 20 students from one online academy."* *Why might the conclusion be limited?*
 
-a) Because teenagers never sleep enough, so the study is not useful for anyone.
-b) Because the study was about tests and not about sleep or teenagers' health.
-c) Because it only included students from one city, so the results might not apply everywhere.
-d) Because seven hours is too much sleep for teenagers, according to most doctors.
+a) Because teenagers never tell the truth in surveys.
+b) Because the survey was about classes and not about teenagers.
+c) Because the sample was very small and only included students who already chose online classes, so the results might not represent all teenagers.
+d) Because 90% is too high a number to be possible.
 
-7. *(Alternativas — desafiante)* Estás resumiendo un artículo para
-   publicarlo en el blog del colegio (audiencia: otros estudiantes). ¿Qué
-   versión es más apropiada según el público, contexto y propósito?
-   a) "This study, published in a peer-reviewed academic journal, presents statistically significant findings regarding adolescent sleep patterns."
-   b) "A new study shows that teens who don't get enough sleep do worse on tests — so maybe it's time to prioritize sleep!"
-   c) "Sleep."
-   d) "According to the aforementioned longitudinal research..."
+7. *(Alternativas)* Estás resumiendo un artículo sobre el reciclaje para publicarlo en la cuenta de Instagram del centro de estudiantes (audiencia: otros estudiantes). ¿Qué versión es más apropiada según el público, el contexto y el propósito?
+
+a) "The aforementioned report, published by an international environmental agency, presents a quantitative analysis of municipal waste management systems."
+b) "Did you know that most of the plastic we throw away is never recycled? Here are three easy ways to change that at school!"
+c) "Plastic."
+d) "According to the previously cited longitudinal data…"
 
 ### OA N°4 — Producir textos breves y claros sobre la propia identidad
 
-8. *(Alternativas — Completar)* Complete with the passive: *"In Chile, Independence Day ___ every September with parades and traditional dances."* (celebrate)
+8. *(Alternativas — Completar)* Complete with the passive: *"In the south of Chile, curanto ___ in a hole in the ground with hot stones."* (cook)
 
-a) is celebrated
-b) celebrates
-c) is celebrating
-d) celebrated
+a) is cooked
+b) cooks
+c) is cooking
+d) cooked
 
-9. *(Alternativas)* ¿Qué oración usa correctamente una oración de relativo
-   para describir una tradición?
-   a) This is a tradition it started many years ago.
-   b) This is a tradition that started many years ago.
-   c) This is a tradition started many years ago it.
-   d) This tradition, started many years ago.
+9. *(Alternativas)* ¿Qué oración usa correctamente una oración de relativo para describir a una persona importante en tu vida?
 
-10. *(Alternativas — Completar)* Complete with the third conditional: *"If I ___ English, I ___ to talk to my exchange friend."* (not/learn — not/be able)
+a) My grandmother is a woman she taught me to cook.
+b) My grandmother is a woman who taught me to cook.
+c) My grandmother is a woman taught me to cook she.
+d) My grandmother, a woman who.
 
-a) didn't learn / wouldn't be able
-b) haven't learned / won't be able
-c) hadn't learned / won't be able
-d) hadn't learned / wouldn't have been able
+10. *(Alternativas — Completar)* Complete with the third conditional: *"If I ___ the bus, I ___ late for the exam."* (not/miss — not/be)
 
-11. *(Verdadero o falso)* Un correo formal dirigido a un programa de
-    intercambio estudiantil debería usar un tono similar al de un mensaje de
-    texto a un amigo.
+a) didn't miss / wouldn't be
+b) haven't missed / won't be
+c) hadn't missed / won't be
+d) hadn't missed / wouldn't have been
 
-12. *(Alternativas — Registro)* ¿Qué tono corresponde a *"a blog post for classmates"*?
+11. *(Verdadero o falso)* Una carta de postulación a una beca de estudios en el extranjero debería usar el mismo tono y las mismas abreviaturas que un chat con amigos (por ejemplo, *"hey, wanna give me the scholarship? lol"*).
+
+12. *(Alternativas — Registro)* ¿Qué tono corresponde a *"a short message to your classmates' WhatsApp group about a school event"*?
 
 a) Formal y protocolar
 b) Informal y cercano
 c) Técnico y científico
 d) Legal
 
-13. *(Alternativas — Oraciones de relativo)* *"Describe a tradition from your family or region using 'that' or 'which'."* Which answer uses a relative clause correctly?
+13. *(Alternativas — Oraciones de relativo)* *"Describe a place that is important to you using 'that', 'which' or 'where'."* Which answer uses a relative clause correctly?
 
-a) In my family, tradition, New Year. We eat grapes, twelve grapes, midnight, every year, family together.
-b) We celebrate that which every year, that which is New Year's Eve, which that we eat grapes.
-c) In my family, we have a tradition that we celebrate every New Year's Eve, which involves eating twelve grapes at midnight.
-d) My family which is tradition that New Year, which twelve grapes at midnight every year that.
+a) My grandparents, house, the countryside. Summer, cousins, every year, together.
+b) The place where which that I go is which my grandparents' house.
+c) The place that is most important to me is my grandparents' house, where I spend every summer with my cousins.
+d) My grandparents which house where countryside that summer every year.
 
-14. *(Varias correctas — Conectores — desafiante)* Complete: *"My identity has been shaped by many things. ___, my family's traditions have taught me the value of community. ___, living in a globalized world has made me curious about other cultures."* Which options are appropriate? Marca **todas** las correctas.
+14. *(Varias correctas — Conectores)* Complete: *"Music is an important part of my identity. ___, it helps me express my feelings. ___, it connects me with people who share my tastes."* Which options are appropriate? Marca **todas** las correctas.
 
 a) Firstly / In addition
 b) First of all / Moreover
@@ -124,44 +119,30 @@ d) Although / Unless
 
 ## Pauta de respuestas
 
-1. **d)** This article examines both the positive and negative effects of
-   video games on teenagers' mental health.
-   Una buena oración temática anticipa el contenido central del artículo
-   (efectos positivos y negativos), no una opinión personal ni un dato
-   aislado.
+1. **d)** Una buena oración temática anticipa el contenido central del artículo (argumentos a favor y en contra), no una opinión personal ni un dato aislado.
 
 2. a) However. *However* introduce un contraste; *moreover* añadiría una idea en la misma línea.
 
-3. **True (Verdadero).**
-   *This suggests that...* es una expresión típica para interpretar y
-   evaluar información, no solo repetirla.
+3. **True (Verdadero).** *These results suggest that…* es una expresión típica para interpretar y evaluar información, no solo repetirla.
 
-4. d) It explains that fast fashion produces large amounts of textile waste. El detalle de apoyo debe mantener el tema de la oración temática.
+4. d) El detalle de apoyo debe mantener el tema de la oración temática.
 
-5. c) Dar una opinión fundamentada. Introduce una postura personal que luego debe justificarse.
+5. c) Dar una opinión fundamentada. *In my view* introduce una postura que luego se justifica (*because…*).
 
-6. c) Because it only included students from one city, so the results might not apply everywhere. Identificar una limitación del texto es un paso clave hacia la postura crítica.
+6. c) Identificar una limitación del texto (muestra pequeña y sesgada) es un paso clave hacia la postura crítica.
 
-7. **b)** "A new study shows that teens who don't get enough sleep do worse
-   on tests — so maybe it's time to prioritize sleep!"
-   Para un público de estudiantes en un blog escolar, un tono cercano y
-   claro es más apropiado que un lenguaje excesivamente académico o una
-   respuesta demasiado breve.
+7. **b)** Para estudiantes en una red social, un tono cercano, claro y con un llamado a la acción es más apropiado que un lenguaje excesivamente académico o una respuesta demasiado breve.
 
-8. a) is celebrated. La voz pasiva se usa cuando el foco está en la costumbre y no en quién la realiza.
+8. a) is cooked. La voz pasiva se usa cuando el foco está en la costumbre y no en quién la realiza.
 
-9. **b)** This is a tradition that started many years ago.
-   *That* introduce la oración de relativo que agrega información sobre
-   "tradition" sin repetir el sujeto.
+9. **b)** *Who* introduce la oración de relativo que agrega información sobre una persona sin repetir el sujeto.
 
-10. d) hadn't learned / wouldn't have been able. Tercer condicional: *if + past perfect, ... would have + participio*.
+10. d) hadn't missed / wouldn't have been. Tercer condicional: *if + past perfect, … would have + participio*.
 
-11. **False (Falso).**
-    El texto debe adecuarse al público y propósito: un correo formal exige
-    un registro más cuidado que un mensaje informal entre amigos.
+11. **False (Falso).** El texto debe adecuarse al público y al propósito: una postulación exige un registro formal.
 
-12. b) Informal y cercano. Un blog para compañeros suele usar un lenguaje cercano.
+12. b) Informal y cercano. Un mensaje a compañeros en un chat usa un lenguaje cercano.
 
-13. c) In my family, we have a tradition that we celebrate every New Year's Eve, which involves eating twelve grapes at midnight. La oración de relativo agrega información sobre la tradición mencionada.
+13. c) *That* y *where* introducen oraciones de relativo que agregan información sobre el lugar.
 
 14. a y b — Se esperan conectores que ordenen y sumen ideas para dar fluidez al párrafo.

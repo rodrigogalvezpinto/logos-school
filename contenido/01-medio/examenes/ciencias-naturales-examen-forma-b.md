@@ -335,7 +335,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 25 | Alternativas | **d) 18 moles de CO₂ y 18 moles de O₂.** Por cada mol de glucosa se consumen 6 de CO₂ y se liberan 6 de O₂: 3 × 6 = 18; así, más fotosíntesis implica más CO₂ atmosférico incorporado a materia orgánica. | OA 20 |
 
 
-# RÚBRICAS DE LAS PREGUNTAS DE DESARROLLO
+# PUNTAJE Y VERSIÓN ANTERIOR
 
 > **Nota (2026-11-06):** todas las preguntas de este instrumento son de alternativas. Las rúbricas de la versión de desarrollo se conservan en el historial del repositorio (commit `e6336af`) y en `docs/banco-preguntas-abiertas/`, para reactivarlas cuando exista un corrector validado.
 

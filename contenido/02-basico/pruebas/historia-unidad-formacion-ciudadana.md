@@ -81,9 +81,9 @@ d) 1-B, 2-C, 3-A
 
 ## Pauta de respuestas
 
-1. **b)** Seguir las instrucciones del profesor y salir en orden por la vía de evacuación
+1. **b)** Seguir las instrucciones del profesor y salir en orden por la vía de evacuación. En un sismo hay que mantener la calma, escuchar al profesor y salir en orden por la vía de evacuación hasta la zona de seguridad. Volver por la mochila o esconderse en el baño es peligroso.
 2. Falso. La rampa permite moverse a personas en silla de ruedas, con coches de bebé o con muletas: bloquearla les impide pasar.
-3. c) 1-B, 2-C, 3-A
-4. **b)** Un medio de transporte
-5. **a)** Bomberos
-6. a) 1-B, 2-A, 3-C
+3. c) 1-B, 2-C, 3-A. En la biblioteca se habla en voz baja para no molestar a quienes leen; en el bus se da el asiento a quien lo necesita más, y en la plaza la basura va al basurero.
+4. **b)** Un medio de transporte. El camión traslada las frutas de un lugar a otro: es un medio de transporte.
+5. **a)** Bomberos. Los bomberos están preparados para apagar incendios y rescatar a las personas. Se les llama al 132.
+6. a) 1-B, 2-A, 3-C. La profesora enseña en la escuela, el médico atiende a las personas enfermas y el carabinero cuida la seguridad en las calles.

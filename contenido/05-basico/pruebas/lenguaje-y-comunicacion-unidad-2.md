@@ -126,5 +126,5 @@ d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
 8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos, "sin embargo" introduce el cambio inesperado y "finalmente" cierra el relato.
 9. **a.** Retroalimentación: la primera oración presenta el tema de manera clara, para que quien lee sepa de qué tratará el artículo.
 10. **Falso.** Retroalimentación: cada párrafo debe desarrollar una idea central; los temas distintos se separan con punto aparte.
-11. b) Para que el lector pueda verificar de dónde viene la información y confiar en ella.
+11. b) Para que el lector pueda verificar de dónde viene la información y confiar en ella. Citar la fuente permite revisar de dónde viene la información. Si viene de una institución reconocida, como CONAF, es más confiable.
 12. **b.** Retroalimentación: la opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.

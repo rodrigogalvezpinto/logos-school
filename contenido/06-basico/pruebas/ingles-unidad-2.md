@@ -111,13 +111,13 @@ d) There is a turtle near the pond.
 
 1. a) on. *On* con días de la semana; *at* con horas; *in* con meses o años.
 2. d) visit. Con *I* el verbo va en forma simple, sin -s.
-3. c) Hi, how are you?
+3. c) Hi, how are you? "Hi, how are you?" significa "Hola, ¿cómo estás?", un saludo informal. "Once upon a time" es el inicio de un cuento y "The end", su final.
 4. F (Falso) — *Once upon a time* sirve para comenzar un cuento; para cerrar un email se usa *See you soon* o *Bye*.
 5. d) My favorite food is pizza because it is delicious. Cada espacio lleva el tipo de información correcta: categoría, elemento y razón.
 6. c) sunny / beach. Clima y lugar deben ser coherentes con unas vacaciones en la playa.
 7. a) are playing. Para acciones de este momento se usa *is/are + -ing*; con *children*, *are*.
-8. b) children
+8. b) children. "Child" tiene un plural irregular: "children". No se le agrega -s.
 9. d) but. *But* contrasta ideas opuestas; *and* solo suma.
 10. V (Verdadero)
 11. b) eighteen. Eighteen = dieciocho; *eighty* es ochenta.
-12. b) The turtle walks very slowly.
+12. b) The turtle walks very slowly. "Slowly" (lentamente) es un adverbio que dice cómo camina la tortuga. Las otras oraciones dicen dónde está o cómo es.

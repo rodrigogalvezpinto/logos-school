@@ -124,17 +124,17 @@ d) Porque ya no es necesario ducharse a diario, ya que el cuerpo produce menos g
    planta transforma en azúcar y oxígeno.
 2. **Falso.** Las algas y algunos microorganismos, como las cianobacterias, también
    son organismos fotosintéticos.
-3. a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita
+3. a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita. El agua sola no basta: la planta necesita luz para hacer fotosíntesis y fabricar el azúcar con que se alimenta. Sin luz, gasta sus reservas y se debilita.
 4. **b.** Los productores son los únicos capaces de producir su propio alimento a
    partir de la energía solar; sin ellos no habría alimento disponible para el
    resto de la cadena.
 5. d) La sardina. Productor: fitoplancton; 1.er orden: krill; 2.º orden: sardina; 3.er orden: tiburón.
-6. b) Pasto (productor) → conejo (1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden)
+6. b) Pasto (productor) → conejo (1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden). La cadena parte siempre en un productor (el pasto, que hace fotosíntesis). El conejo come pasto, el zorro culpeo come conejos y el águila puede cazar zorros.
 7. **Verdadero.** En la naturaleza, un mismo organismo suele tener varias fuentes de
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
 8. **c.** La aparición de vello en las axilas y en el pubis ocurre en ambos sexos durante la pubertad.
 9. a y d — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
-10. c) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
+10. c) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional. Cada cuerpo cambia a su propio ritmo, y eso es normal. Saberlo ayuda a no compararse, a no burlarse de otros y a sentirse bien con uno mismo.
 11. **b.** El deporte sistemático fortalece el sistema cardiovascular y ayuda a
     mantener un peso corporal saludable.
-12. a) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: más sudor, cambios de olor y tendencia al acné
+12. a) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: más sudor, cambios de olor y tendencia al acné. En la pubertad, las glándulas de la piel producen más sudor y más grasa: por eso aparecen el olor corporal y el acné, y conviene ducharse a diario.

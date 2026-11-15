@@ -167,11 +167,11 @@ d) Reemplazar el almuerzo por papas fritas y bebida
 5. d) La forma de cada célula se relaciona con su función: el glóbulo rojo transporta oxígeno y los pelos absorbentes aumentan la superficie de absorción.
 6. c) El xilema. Transporta la savia bruta (agua y minerales) desde la raíz hasta las hojas.
 7. Falso — la savia elaborada se transporta por el floema, desde las hojas hacia el resto de la planta.
-8. a) La planta usa luz, agua y dióxido de carbono para fabricar glucosa, y libera oxígeno.
+8. a) La planta usa luz, agua y dióxido de carbono para fabricar glucosa, y libera oxígeno. En la fotosíntesis la planta capta la luz con la clorofila y, con agua y dióxido de carbono, fabrica glucosa; el oxígeno queda como producto y se libera al aire.
 9. c) Sin luz no hay fotosíntesis, y la planta no puede fabricar su alimento.
 10. b) Los alvéolos. Allí el oxígeno pasa a la sangre y el dióxido de carbono sale de ella por difusión.
-11. a) Riñón: excretor. Corazón: circulatorio. Intestino delgado: digestivo. Tráquea: respiratorio.
+11. a) Riñón: excretor. Corazón: circulatorio. Intestino delgado: digestivo. Tráquea: respiratorio. El riñón filtra la sangre y forma la orina (excretor); el corazón bombea la sangre (circulatorio); en el intestino delgado se absorben los nutrientes (digestivo), y por la tráquea pasa el aire (respiratorio).
 12. d) Los nutrientes se absorben en el intestino delgado y la sangre los lleva a todas las células. Ningún sistema trabaja solo.
 13. b) Constructor. Las proteínas son esenciales para el crecimiento y la reparación de tejidos.
-14. b) Energético: arroz y mantequilla. Constructor: pollo y lentejas. Regulador: manzana y lechuga.
+14. b) Energético: arroz y mantequilla. Constructor: pollo y lentejas. Regulador: manzana y lechuga. El arroz (carbohidratos) y la mantequilla (grasas) aportan energía; el pollo y las lentejas, proteínas para construir tejidos, y frutas y verduras, vitaminas y minerales que regulan el cuerpo.
 15. a, b y c — Dormir bien, hidratarse con agua y hacer actividad física ayudan a la salud; reemplazar el almuerzo por comida chatarra no.

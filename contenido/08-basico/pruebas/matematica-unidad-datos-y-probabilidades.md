@@ -14,7 +14,7 @@ ultima_actualizacion: 2026-10-28
 
 # Prueba de Unidad — Eje 4: Datos y Probabilidades
 
-**Instrucciones:** responde todas las preguntas. En las preguntas de desarrollo, explica tu razonamiento, no solo el resultado. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Haz tus cálculos en el cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 **Pregunta 1 (alternativas).** El peso de un recién nacido está en el percentil 80 de su grupo. ¿Qué significa?
 a) Que pesa 80 kilos
@@ -119,7 +119,7 @@ d) El gráfico circular está mal dibujado
 7. c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico. Un bigote mucho más largo que el otro sugiere asimetría.
 8. **b) Dibujar las barras con anchos distintos:** la diferencia visual no corresponde a la diferencia real de los datos.
 9. **Verdadero.** El gráfico de líneas muestra la evolución de una variable en el tiempo.
-10. **c) Distorsión visual por efecto de perspectiva/3D.**
+10. **c) Distorsión visual por efecto de perspectiva/3D.**. El efecto 3D cambia cómo se ven las barras: aunque representan el mismo valor, la perspectiva hace que una parezca mayor. Es una distorsión visual que puede engañar al lector.
 11. a) Circular, porque muestra cómo se reparte un total entre pocas categorías.
 12. d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
 13. b) De líneas, porque muestra la evolución en el tiempo; el circular sirve para partes de un todo.

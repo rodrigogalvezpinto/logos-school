@@ -138,7 +138,7 @@ d) Las problemáticas actuales no admiten debate
 8. c) Socialcristianismo. La *Rerum Novarum* es la base de la doctrina social de la Iglesia.
 9. c) Aymara. Habita tradicionalmente el altiplano del norte de Chile.
 10. Verdadero. La Ley 19.253 de 1993 reconoce a los pueblos indígenas y crea la CONADI.
-11. a) 1-B, 2-C, 3-A.
+11. a) 1-B, 2-C, 3-A. Los moái son las esculturas de Rapa Nui; los aymara crían llamas y alpacas en el altiplano, y el We Tripantu es el año nuevo mapuche, en el solsticio de invierno.
 12. b) El crecimiento de barrios obreros con viviendas precarias (conventillos): fue parte de la cuestión social.
-13. d) 1-C, 2-A, 3-B.
+13. d) 1-C, 2-A, 3-B. El smog es contaminación atmosférica (C); perder la capa fértil de un cerro es erosión del suelo (A), y crecer con sueldos justos y menos emisiones combina las dimensiones del desarrollo sostenible (B).
 14. b) Distintos actores proponen respuestas diferentes según su diagnóstico de las causas.

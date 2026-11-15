@@ -150,7 +150,7 @@ d) Porque basta con que cada persona conozca sus derechos para que se respeten, 
 7. **Falso.** La diversidad implica reconocer y respetar las diferencias de creencias, culturas y formas de vida.
 8. c) 1-C, 2-B, 3-A. Reconocer la discriminación en situaciones concretas ayuda a identificarla.
 9. a) Discriminación arbitraria por origen étnico: es una exclusión basada en un prejuicio, no en un criterio justificado.
-10. **b)** El Estado de Derecho.
+10. **b)** El Estado de Derecho. En un Estado de Derecho, las autoridades también deben obedecer la ley y respetar los derechos de las personas. El Estado de Sitio, en cambio, es un estado de excepción que restringe derechos.
 11. **Falso.** El Estado de Derecho exige que todo poder se ejerza dentro de los límites de la
     ley; suspender indefinidamente los derechos de las personas contradice ese principio —y fue
     precisamente lo que ocurrió cuando se suprimió el Estado de Derecho durante la dictadura.

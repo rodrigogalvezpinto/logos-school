@@ -147,12 +147,12 @@ d) Para aumentar el consumo de leña
 3. a y b — No sobrecargar enchufes y no tocarlos con las manos mojadas evita incendios y descargas; meter objetos metálicos y tirar del cable son prácticas peligrosas.
 4. a) Porque la instalación está conectada en paralelo. Así, cada artefacto funciona de forma independiente.
 5. d) 10 A. I = P / V = 2.200 W / 220 V = 10 A. Multiplicar (484.000) o dividir al revés (0,1) son errores frecuentes.
-6. b) Desvía hacia el suelo la corriente de una falla, protegiendo a las personas.
+6. b) Desvía hacia el suelo la corriente de una falla, protegiendo a las personas. Si un cable toca la carcasa metálica de un artefacto, la conexión a tierra lleva esa corriente al suelo, en vez de pasar por el cuerpo de quien lo toca.
 7. c) A en serie y B en paralelo. En serie hay un solo camino de corriente; en paralelo, cada ampolleta tiene el suyo.
 8. c) Radiación. Se transmite mediante ondas electromagnéticas, sin necesidad de un medio material.
 9. Falso — el calor pasa del cuerpo más caliente (el té) al más frío (la cuchara), hasta que alcanzan el equilibrio térmico.
-10. a) 1: conducción; 2: convección; 3: radiación.
+10. a) 1: conducción; 2: convección; 3: radiación. La olla se calienta por contacto con la estufa (conducción); el agua caliente sube y la fría baja (convección), y el calor del Sol viaja por el espacio sin materia (radiación).
 11. d) Se mantiene en 0 °C: la energía (calor latente) se usa para cambiar de estado y no para subir la temperatura.
 12. b) 293 K y 68 °F. K = 20 + 273 = 293; °F = 20 × 1,8 + 32 = 68.
 13. c) El vaso envuelto en lana está más caliente, porque la lana es aislante.
-14. a) Para reducir la pérdida de calor por conducción y mantener la casa abrigada.
+14. a) Para reducir la pérdida de calor por conducción y mantener la casa abrigada. Los materiales aislantes conducen mal el calor: dificultan que el calor de la casa escape hacia afuera, así que se necesita menos leña o gas.

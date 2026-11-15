@@ -14,7 +14,7 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA
 
 # Prueba de Unidad — Eje 1: Números y Operaciones
 
-**Instrucciones:** responde todas las preguntas. Puedes usar calculadora para verificar cálculos, pero debes mostrar el procedimiento en las preguntas de desarrollo. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Puedes usar calculadora para verificar cálculos; haz el procedimiento en tu cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 ---
 

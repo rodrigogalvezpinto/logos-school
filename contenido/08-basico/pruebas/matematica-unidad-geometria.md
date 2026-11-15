@@ -112,7 +112,7 @@ d) (−3, −3)
 6. b) 50 m. Diagonal² = 40² + 30² = 2.500; diagonal = 50 m.
 7. d) No, porque 5² + 6² = 61 y 8² = 64. Si la suma de los cuadrados de los lados menores no es igual al cuadrado del mayor, el triángulo no es rectángulo.
 8. **a) (4, 2).** (−2 + 6, 5 − 3) = (4, 2).
-9. **Verdadero.**
+9. **Verdadero.**. Al reflejar respecto al eje x, el punto pasa al otro lado del eje a la misma distancia: (3, 2) se transforma en (3, −2). Cambia el signo de y; x se mantiene.
 10. **a) (4, −3).** (3 − (−1), 1 − 4) = (4, −3).
 11. a) (−4, −6). Al reflejar respecto al eje y cambia el signo de x y se mantiene y.
 12. d) (2, 4). La composición equivale a sumar los vectores: (−2 + 4, 5 − 1) = (2, 4).

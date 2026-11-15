@@ -118,7 +118,7 @@ d) 3 km; $2.100
 7. c) Hijo 11 y madre 35. x + (3x + 2) = 46 → 4x = 44 → x = 11; madre: 3 · 11 + 2 = 35.
 8. **a) 17.** f(4) = 3 × 4 + 5 = 17.
 9. **Verdadero.** Cuando b = 0, la función es lineal y su gráfico pasa por el origen.
-10. **b) pendiente 4, corta en (0,−1).**
+10. **b) pendiente 4, corta en (0,−1).**. En f(x) = mx + n, m es la pendiente y n indica dónde la recta corta al eje y. Aquí m = 4 y n = −1, así que corta en (0, −1).
 11. a) 3, 5, 7; pendiente 2. La pendiente es Δy/Δx = (5 − 3)/(1 − 0) = 2 y coincide con el coeficiente de x.
 12. d) D(x) = 2.500x + 15.000; $35.000. El monto inicial es la constante y el ahorro semanal, la pendiente.
 13. b) L(x) = 30 − 2x; 18 cm. La pendiente es negativa porque el largo disminuye.

@@ -14,7 +14,7 @@ ultima_actualizacion: 2026-10-28
 
 # Prueba de Unidad — Eje 3: Geometría
 
-**Instrucciones:** responde todas las preguntas. Muestra el procedimiento en las preguntas de desarrollo. Tiempo sugerido: 30-35 minutos.
+**Instrucciones:** responde todas las preguntas. Haz tus cálculos en el cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 ---
 

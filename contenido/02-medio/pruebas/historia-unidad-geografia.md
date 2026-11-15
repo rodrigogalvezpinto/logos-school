@@ -138,11 +138,11 @@ d) Porque no se construyó ninguna vivienda social
 4. d) La segregación urbana: la desigualdad social se expresa en una distribución desigual de servicios en el territorio.
 5. **c)** Amplio acceso al crédito para toda la población — es justo lo contrario: el acceso al
    crédito era muy limitado para la mayoría de la población.
-6. **Verdadero.**
+6. **Verdadero.**. La migración del campo a la ciudad hizo crecer Santiago muy rápido; faltaron viviendas, agua potable, alcantarillado y transporte, y aparecieron asentamientos precarios en la periferia.
 7. a) La migración campo-ciudad de mediados del siglo XX, que provocó un crecimiento acelerado y desordenado hacia la periferia. Aparecieron nuevos asentamientos poblacionales, como las poblaciones callampas.
-8. **b)** Porque aparecían y crecían con gran rapidez, al igual que los hongos.
+8. **b)** Porque aparecían y crecían con gran rapidez, al igual que los hongos. Se les llamó "callampas" porque surgían de un día para otro y crecían rápido, como los hongos después de la lluvia. Carecían de servicios básicos.
 9. b) Las industrias atrajeron mano de obra a las ciudades, lo que aceleró su crecimiento, muchas veces desordenado.
-10. d) 1-C, 2-A, 3-B
+10. d) 1-C, 2-A, 3-B. La falta de viviendas llevó a ocupar terrenos y formar poblaciones callampas (C); la llegada de migrantes hizo crecer la población urbana (A), y las diferencias de ingreso separaron a las comunas (segregación, B).
 11. **Falso.** Muchos de los patrones espaciales de segregación establecidos en ese período se
     consolidaron con el tiempo y en parte explican la desigualdad territorial que sigue
     caracterizando a las ciudades chilenas hoy.

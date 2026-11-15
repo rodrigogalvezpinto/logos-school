@@ -144,16 +144,16 @@ d) Porque importa todo el salmón que consume
 
 ## Pauta de respuestas
 
-1. **a)** El altiplano, definido por su gran altura y clima frío y seco.
+1. **a)** El altiplano, definido por su gran altura y clima frío y seco. El altiplano se reconoce por rasgos de la naturaleza: altura y clima. El idioma, la religión o una ley son criterios humanos (culturales o administrativos).
 2. **Verdadero** — una misma zona puede analizarse con distintos criterios de región, y sus límites no siempre coinciden.
 3. a) Una zona agrícola especializada en la producción de fruta de exportación. Las regiones económicas se definen por la actividad productiva que predomina.
 4. d) Una región cultural. Se define por elementos culturales compartidos, más allá de las fronteras de los países.
 5. **b)** Mejorar los caminos y la conexión a internet: las redes de transporte y comunicaciones reducen el aislamiento.
-6. b) 1-B, 2-C, 3-A.
+6. b) 1-B, 2-C, 3-A. Viajar a Santiago por falta de especialistas muestra la relación centro-periferia (B); trasladarse a otra región para vivir es migración (C), y depender de un barco semanal es aislamiento (A).
 7. c) Mayor demanda de viviendas, colegios y servicios de salud. Interpretar datos demográficos permite anticipar impactos en los servicios.
 8. a) La relación centro-periferia: la concentración de servicios en el centro genera desigualdades territoriales.
 9. **b)** El IDH, que combina salud, educación e ingreso.
 10. **Falso** — el desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer las de las generaciones futuras.
-11. d) 1-B, 2-A, 3-C.
+11. d) 1-B, 2-A, 3-C. Antofagasta tiene ventaja comparativa en cobre por sus yacimientos (B); vender salmón a otros países es inserción en mercados internacionales (A), y producir muchos bienes distintos es diversidad productiva (C).
 12. b) La Región Y, porque el IDH considera también la educación y la salud, no solo el ingreso.
 13. c) Sus condiciones naturales permiten producir salmón de forma relativamente más eficiente que otras regiones.

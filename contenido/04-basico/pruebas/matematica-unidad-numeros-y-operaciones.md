@@ -16,7 +16,7 @@ ultima_actualizacion: 2026-11-07
 **Tiempo sugerido: 20-25 minutos**
 **Nombre: _______________________________ Fecha: ___________**
 
-Instrucciones: lee cada pregunta con calma. En las preguntas de alternativas, marca solo una opción. En las de desarrollo, muestra tu procedimiento.
+Instrucciones: lee cada pregunta con calma. En las preguntas de alternativas, marca solo una opción. Si lo necesitas, haz tus cálculos en el cuaderno.
 
 ---
 

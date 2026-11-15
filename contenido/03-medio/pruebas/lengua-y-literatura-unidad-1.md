@@ -18,134 +18,134 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA
 **Tiempo sugerido:** 30-35 minutos.
 **N° de preguntas:** 14.
 
-**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las de alternativas, marca solo una opción. En las de verdadero o falso, marca V o F. En las de desarrollo o aplicación, responde con oraciones completas.
+**Instrucciones:** lee con atención cada texto antes de responder las preguntas asociadas. En las de alternativas, marca solo una opción. En las de verdadero o falso, marca V o F. En las de «varias correctas», marca todas las opciones correctas.
 
 ---
 
-## Texto 1: "Las manos de mi padre" (fragmento de cuento)
+## Texto 1: "La voz de mi abuelo" (fragmento de cuento)
 
-> Chuquicamata, 2020.
->
-> Las manos de mi padre son dos mapas de cuero curtido, surcados por caminos que el sol y el polvo de cobre dibujaron durante treinta y dos años. Cuando yo era niña, esas mismas manos me enseñaron a andar en bicicleta por la calle principal del campamento, sosteniendo el asiento hasta que, sin que yo lo notara, me soltaban y yo seguía pedaleando sola, creyendo todavía que él estaba ahí.
->
-> Mi padre nunca quiso que yo trabajara en la mina. "Tú vas a estudiar, Fernanda, para que tus manos se ensucien con otra cosa", me decía, con esa mezcla de orgullo y cansancio que solo entendí completamente el día en que lo vi salir del turno de noche, encorvado, como si el cerro le hubiera prestado parte de su peso para que se lo llevara a la casa.
->
-> La montaña —esa que devoraba turnos, años, amigos y, a veces, vidas enteras— nunca le devolvió nada que se pudiera tocar. Le entregó, eso sí, esta casa de dos pisos en la que escribo, y estas manos mías, que hoy sostienen un lápiz y no un pique, escribiendo sobre las suyas.
+*(Lee el cuento y responde las preguntas 1 a 7.)*
 
-### Preguntas 1 a 7 (OA N°1 — Interpretación literaria)
+> Lota, 2021.
+>
+> La voz de mi abuelo es un túnel lleno de humo. Habla despacio, entre toses, como si cada palabra tuviera que subir desde el fondo de la tierra. Sus manos, negras todavía en las uñas después de tantos años, me enseñaron a encumbrar volantines en el cerro que mira a la bahía.
+>
+> Mi abuelo nunca quiso que yo bajara al pique. "Tú vas a estudiar, Matías, para que respires aire de arriba", me decía, con la espalda doblada y los ojos brillantes, la misma tarde en que me acompañó a matricularme en el liceo.
+>
+> El pique —ese que se comía los años, la luz y la salud de los hombres— nunca le devolvió nada que se pudiera guardar. Le dejó, eso sí, esta casa de madera donde escribo, y estos pulmones míos, que hoy respiran el aire del mar mientras estudio para ser ingeniero.
 
-**1. (Alternativas)** ¿Qué figura literaria corresponde a la expresión "las manos de mi padre son dos mapas de cuero curtido"?
+**1. (Alternativas)** ¿Qué figura literaria corresponde a la expresión "La voz de mi abuelo es un túnel lleno de humo"?
 
 a) Personificación
 b) Pregunta retórica
 c) Hipérbole
 d) Metáfora
 
-**2. (Verdadero o falso)** El padre del relato es caracterizado principalmente a través de largos diálogos donde expresa directamente sus sentimientos.
+**2. (Verdadero o falso)** El abuelo del relato es caracterizado principalmente a través de largos diálogos en que explica sus sentimientos.
 
-**3. (Alternativas)** ¿Qué tópico literario está más presente en "Las manos de mi padre"?
+**3. (Alternativas)** ¿Qué tópico literario está más presente en "La voz de mi abuelo"?
 
-a) El carpe diem: aprovechar el presente sin pensar en el futuro
-b) El amor no correspondido entre el padre y su trabajo
+a) El carpe diem: aprovechar el presente
+b) El amor no correspondido
 c) El trabajo como destino heredado y su ruptura
-d) El viaje como búsqueda de una identidad propia lejos del hogar
+d) El viaje como búsqueda de identidad lejos del hogar
 
 **4. (Alternativas — Aplicación)** ¿Qué hipótesis de sentido está sustentada en un recurso literario del texto?
 
-a) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre
-b) El relato trata sobre deportes y vida sana, sustentado en que menciona bicicletas y el esfuerzo físico de los trabajadores del pueblo minero
-c) El relato es solo una lista de oficios sin un sentido mayor, sustentado en que enumera el trabajo del padre, del abuelo y de la hija sin conectarlos
-d) El relato no permite ninguna hipótesis de sentido, porque se limita a describir manos sin usar recursos literarios como el paralelismo o la metáfora
+a) El sacrificio del abuelo se transforma en una herencia distinta para su nieto, sustentado en el paralelismo entre los pulmones dañados del abuelo y "estos pulmones míos, que hoy respiran el aire del mar"
+b) El relato trata sobre deportes, sustentado en que menciona volantines
+c) El relato es solo una lista de oficios sin sentido mayor
+d) El relato no permite ninguna hipótesis de sentido
 
-**5. (Alternativas — intertextualidad)** ¿Qué comparten "Las manos de mi padre" y *Sub terra*, y en qué se diferencian?
+**5. (Alternativas — intertextualidad)** ¿Qué comparten "La voz de mi abuelo" y *Sub terra*, de Baldomero Lillo, ambientado en las minas de carbón de Lota, y en qué se diferencian?
 
-a) No comparten nada: el cuento trata sobre una familia y Sub terra sobre la historia de la minería, sin relación entre sus temas ni entre sus personajes
-b) Ambas terminan con la hija del minero trabajando en la mina, porque la herencia del oficio es inevitable en las dos obras, sin ninguna diferencia entre ellas
-c) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub terra está escrita en verso y el cuento en prosa, pero comparten el mismo tema
-d) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el padre del cuento rompe la cadena para su hija
+a) No comparten nada: tratan temas sin relación
+b) Ambos terminan con el nieto trabajando en la mina
+c) Ambos son poemas sobre el mar
+d) Ambos muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el abuelo del cuento rompe la cadena para su nieto
 
-**6. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
+**6. (Alternativas)** ¿Qué figura literaria se reconoce en "el pique... se comía los años, la luz y la salud de los hombres"?
 
 a) Símil
 b) Anáfora
 c) Hipérbaton
 d) Personificación
 
-**7. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
+**7. (Alternativas)** ¿Por qué el narrador caracteriza al abuelo sobre todo a través de su cuerpo (la tos, las uñas, la espalda) y no de sus pensamientos?
 
-a) Porque el autor no logró desarrollar mejor al personaje y prefirió describir solo su apariencia física
-b) Porque el padre es un personaje secundario, sin relevancia en la trama, que aparece solo al comienzo
-c) Porque ese recurso traslada el retrato del personaje del plano psicológico al físico y simbólico
-d) Porque el relato está escrito en tercera persona omnisciente, que no puede acceder a los pensamientos de nadie
+a) Porque el autor no supo desarrollar mejor al personaje
+b) Porque el abuelo es un personaje sin importancia en el relato
+c) Porque ese recurso muestra en el cuerpo las huellas del trabajo, trasladando el retrato del plano psicológico al físico y simbólico
+d) Porque el relato está escrito en tercera persona omnisciente
 
 ---
 
-## Texto 2: "Pedaleando contra el tiempo: la vida de los repartidores en plataformas digitales" (reportaje)
+## Texto 2: "Cuidar a tiempo completo: el trabajo que no se ve" (reportaje)
 
-> Son las nueve de la noche en Providencia y Ronald Guzmán, venezolano, treinta y un años, pedalea su tercera hora consecutiva bajo la lluvia. "Uno acepta el pedido antes de ver bien cuánto te van a pagar, porque si te demoras en aceptar, la aplicación te baja el puntaje", explica, mientras revisa su teléfono en cada semáforo.
->
-> Según cifras de la Subsecretaría del Trabajo, más de 40 mil personas trabajan hoy en Chile como repartidores para aplicaciones de delivery, la mayoría bajo la modalidad de "trabajador independiente", sin contrato, sin seguro de accidentes pagado por la empresa y sin cotizaciones previsionales automáticas. Un estudio de la Universidad de Chile (2022) estimó que el ingreso líquido promedio, descontando bencina, mantención de la bicicleta o motocicleta y los descuentos por "mal clima" que aplican algunas plataformas, apenas supera el sueldo mínimo en jornadas de más de diez horas diarias.
->
-> Las empresas de delivery, por su parte, destacan la "flexibilidad horaria" como principal beneficio del sistema, y afirman en sus comunicados que el 78% de sus repartidores valora "poder trabajar cuando quiere". Ninguna de las plataformas consultadas para este reportaje respondió preguntas sobre cuánto de cada pedido se queda la empresa antes de pagar al repartidor.
->
-> Para Ronald, la flexibilidad es relativa. "Yo elijo cuándo prendo la aplicación, pero no elijo el precio del pedido, ni si llueve, ni si el ascensor del edificio está malo y tengo que subir dieciocho pisos a pie."
+*(Lee el reportaje y responde las preguntas 8 a 14.)*
 
-### Preguntas 8 a 14 (OA N°3 — Análisis crítico de textos no literarios)
+> Son las seis de la mañana y Marta Soto, cincuenta y ocho años, ya está despierta. Desde hace siete años cuida a su madre, que no puede caminar. "No tengo horario ni vacaciones. Si yo me enfermo, nadie la cuida", cuenta.
+>
+> Según un catastro de la municipalidad de su comuna, más de 1.200 personas cuidan a un familiar dependiente sin recibir sueldo, y casi ocho de cada diez son mujeres. Un estudio universitario agrega que muchas de ellas dejaron su trabajo remunerado para cuidar.
+>
+> La municipalidad destaca su programa de "respiro", que ofrece algunas horas de apoyo a las cuidadoras. Ninguno de los centros de salud consultados para este reportaje respondió cuántas horas de apoyo entrega realmente al mes.
+>
+> Para Marta, el apoyo es escaso. "Me dan cuatro horas al mes. Yo cuido las otras setecientas".
 
-**8. (Alternativas)** ¿A qué género discursivo corresponde el texto sobre los repartidores, considerando que combina testimonio, cifras oficiales y contraste de versiones?
+**8. (Alternativas)** ¿A qué género discursivo corresponde el texto, considerando que combina testimonio, cifras y contraste de versiones?
 
 a) Reportaje periodístico
 b) Cuento realista
 c) Discurso político
 d) Reseña literaria
 
-**9. (Verdadero o falso)** El reportaje se limita a citar la opinión de Ronald, sin incluir ninguna fuente de información adicional.
+**9. (Verdadero o falso)** El reportaje se limita a citar la opinión de Marta, sin incluir ninguna fuente de información adicional.
 
-**10. (Alternativas)** ¿Por qué el reportaje menciona explícitamente que "ninguna de las plataformas consultadas... respondió" sobre cuánto se quedan de cada pedido?
+**10. (Alternativas)** ¿Por qué el reportaje menciona que "ninguno de los centros de salud consultados respondió" cuántas horas de apoyo entrega?
 
-a) Porque el periodista olvidó preguntar a las plataformas cuánto se quedan de cada pedido
-b) Porque las empresas respondieron con claridad y el periodista quiso destacar su transparencia frente a las críticas de los repartidores
-c) Porque el dato no tiene importancia para el tema del reportaje y solo completa la información sobre las plataformas
-d) Porque sugiere, sin afirmarlo, que hay información relevante que las empresas prefieren no transparentar, reforzando el enfoque crítico
+a) Porque el periodista olvidó preguntar
+b) Porque los centros respondieron con claridad
+c) Porque el dato no tiene importancia
+d) Porque sugiere, sin afirmarlo, que hay información relevante que no se transparenta, reforzando el enfoque crítico
 
-**11. (Alternativas)** ¿Con qué propósito comunicativo el reportaje incluye cifras de un estudio universitario junto al testimonio de Ronald?
+**11. (Alternativas)** ¿Con qué propósito el reportaje incluye cifras de un catastro y de un estudio junto al testimonio de Marta?
 
-a) Para hacer el texto más largo y detallado, sin cambiar el sentido del testimonio
-b) Para dar respaldo objetivo al testimonio individual y evitar que parezca solo una anécdota aislada
-c) Para cuestionar la veracidad del testimonio de Ronald y mostrar que exagera su situación
-d) Para cumplir con un requisito legal que exigen las plataformas de delivery a los medios
+a) Para hacer el texto más largo
+b) Para dar respaldo objetivo al testimonio individual y mostrar que no es un caso aislado
+c) Para cuestionar el testimonio de Marta
+d) Para cumplir un requisito legal
 
 **12. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
 
 a) Profundizar en un tema combinando testimonio, datos y contraste de versiones
 b) Informar un hecho puntual en pocas líneas, sin desarrollo posterior
 c) Incluir cifras de fuentes institucionales
-d) Presentar el testimonio de una persona afectada por el fenómeno descrito
+d) Presentar el testimonio de una persona afectada
 
-**13. (Verdadero o falso)** La cifra "más de 40 mil personas" que trabajan como repartidores proviene de una fuente institucional identificable y, por lo tanto, es un dato verificable.
+**13. (Verdadero o falso)** La cifra "más de 1.200 personas" proviene de una fuente institucional identificable (un catastro municipal) y, por lo tanto, es un dato verificable.
 
-**14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
+**14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje destaque que casi ocho de cada diez cuidadoras son mujeres?
 
-a) Porque no tiene ninguna relevancia para el tema del reportaje: es solo un dato biográfico para presentar a Ronald
-b) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
-c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores y sugerir que solo los extranjeros aceptan esos trabajos
-d) Porque todos los repartidores en Chile son extranjeros, y el reportaje lo menciona para mostrar que el problema no afecta a chilenos
+a) Porque no tiene ninguna relevancia
+b) Porque conecta el tema con el debate social actual sobre la distribución de los cuidados y la desigualdad de género
+c) Porque busca demostrar que los hombres no pueden cuidar
+d) Porque todas las cuidadoras del país son mujeres
 
 ---
 
 ## Pauta de respuestas
 
-1. d — se identifican directamente dos términos (las manos = mapas) sin conector comparativo, lo que corresponde a una metáfora.
-2. Falso — el padre casi no habla de sus sentimientos; se le caracteriza sobre todo a través de su cuerpo.
-3. c
-4. a) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre. Una hipótesis de sentido debe demostrarse citando recursos literarios concretos.
-5. d) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el padre del cuento rompe la cadena para su hija. Una relación intertextual explica también las diferencias relevantes.
-6. d — atribuir a la montaña la acción de "devorar" es una personificación.
-7. c
-8. a
-9. Falso — el texto incluye cifras de la Subsecretaría del Trabajo y de un estudio de la Universidad de Chile, además del testimonio de Ronald.
-10. d) Porque sugiere, sin afirmarlo, que hay información relevante que las empresas prefieren no transparentar, reforzando el enfoque crítico. Identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
-11. b
-12. b
-13. Verdadero — el texto atribuye la cifra explícitamente a la Subsecretaría del Trabajo, una fuente institucional identificable.
-14. b
+1. d — se identifican directamente dos términos (la voz = un túnel lleno de humo) sin conector comparativo, lo que corresponde a una metáfora.
+2. Falso — el abuelo habla poco; se le caracteriza sobre todo a través de su cuerpo.
+3. c. El abuelo y sus antepasados fueron mineros del carbón en Lota, y él quiere que su nieto estudie: el relato trata del trabajo como destino heredado que se rompe.
+4. a) Una hipótesis de sentido debe demostrarse citando recursos literarios concretos, como el paralelismo entre los pulmones del abuelo y los del nieto.
+5. d) Una relación intertextual explica también las diferencias relevantes.
+6. d — atribuir al pique la acción de "comerse" los años es una personificación.
+7. c. La tos, las uñas negras y la espalda encorvada muestran en el cuerpo las huellas del trabajo en la mina. Así el retrato físico se vuelve simbólico.
+8. a. Combina el testimonio de una cuidadora, cifras de fuentes institucionales y distintas versiones para profundizar en un tema: es un reportaje.
+9. Falso — el texto incluye cifras de un catastro municipal y de un estudio universitario, además del testimonio de Marta.
+10. d) Identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
+11. b. El testimonio de Marta muestra un caso; las cifras del catastro y del estudio prueban que su situación es compartida por muchas personas.
+12. b. Informar un hecho puntual en pocas líneas es propio de una noticia breve; el reportaje, en cambio, profundiza con testimonios, datos y contraste de versiones.
+13. Verdadero — el texto atribuye la cifra a un catastro municipal, una fuente institucional identificable.
+14. b. Que la mayoría de las cuidadoras sean mujeres conecta el reportaje con un debate actual en Chile sobre quién asume los cuidados y la desigualdad de género.

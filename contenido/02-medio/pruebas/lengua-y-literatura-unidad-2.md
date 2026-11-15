@@ -154,18 +154,18 @@ d) Usar únicamente citas literarias
 
 **Preguntas de alternativas y Verdadero/Falso**
 
-1. d
-2. Falso
+1. d. La tesis aparece en el último párrafo: aunque no sea realista prohibir los celulares, las familias deberían acordar tiempos y espacios sin pantallas, porque su uso temprano y sin límites daña a los niños.
+2. Falso. Al describir el problema usa certezas ("sin duda"); al hablar de prohibir, se modera: "probablemente no sea realista". Ese cambio de grado de certeza es una modalización.
 3. a) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia que las sustente. Identificar una falla exige explicar por qué el razonamiento no está suficientemente sustentado.
 4. d) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento. Los recursos emocionales buscan involucrar afectivamente al lector más allá de la lógica.
-5. c
-6. d
-7. Falso
+5. c. Exagera a propósito para impactar: una pantalla no puede literalmente robar la infancia de todo un país. Esa exageración es una hipérbole.
+6. d. El Texto B agrega datos que el comunicado no menciona: el paradero está a nueve cuadras en subida y afecta a adultos mayores, con fotos como respaldo.
+7. Falso. "Invitamos" suaviza el mensaje: presenta como sugerencia algo que en la práctica es obligatorio. No tiene el tono de una orden directa.
 8. c) Comparar recursos no lingüísticos implica identificar qué sensación de credibilidad o control produce cada uno.
 9. c) Identificar una omisión exige preguntarse qué información cambiaría la interpretación.
-10. b
-11. b
-12. Falso
+10. b. Ninguno de los dos textos miente del todo: la empresa destaca la mejora de los tiempos y los vecinos, el costo para ellos. La fuente influye en qué se destaca y qué se omite.
+11. b. La hipótesis aparece al final del primer párrafo ("Sostengo que…"): tradición y cambio pueden convivir si se decide qué conservar y qué transformar.
+12. Falso. El ensayo lo menciona ("Alguien podría argumentar…") y lo responde con los programas de apoyo a los almacenes: es una refutación del contraargumento.
 13. a) Una evidencia no literaria debe conectarse explícitamente con la hipótesis.
 14. d) Una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
-15. b
+15. b. Un recurso (anécdota, cita o dato) suma si apoya la hipótesis y se conecta con el argumento, como la cita de Carla en el ensayo; si no, rompe la coherencia temática.

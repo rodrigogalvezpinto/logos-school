@@ -97,9 +97,9 @@ d) Para que los niños no tengan que ir a la escuela y puedan quedarse en sus ca
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | d) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los niños y niñas |
+| 1  | d) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los niños y niñas. La Convención es un acuerdo entre países, que Chile firmó en 1990. Reconoce derechos como la educación, la salud, el juego y la protección. |
 | 2  | Verdadero — el derecho a la salud es para todos los niños y niñas, sin excepción |
-| 3  | d) En un consultorio o CESFAM |
+| 3  | d) En un consultorio o CESFAM. Los consultorios y CESFAM son centros de salud públicos donde se atiende gratuitamente a niños y niñas: así se cumple su derecho a la salud. |
 | 4  | a) 1-B, 2-C, 3-A — la escuela protege la educación; el nombre y el carné, la identidad; jugar, la recreación |
 | 5  | b) Preguntar la opinión de los estudiantes antes de decidir respeta su derecho a ser escuchados |
 | 6  | b) El derecho a la educación — el Estado y la comunidad deben buscar formas de que pueda asistir, como transporte escolar |
