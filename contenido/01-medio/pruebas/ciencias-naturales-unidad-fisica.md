@@ -34,139 +34,120 @@ oa_por_pregunta: {"1":"OA 10","2":"OA 10","3":"OA 10","4":"OA 10","5":"OA 11","6
 ### Fenómenos del sonido: eco, resonancia y efecto Doppler (OA 10)
 
 **Pregunta 1.**
-¿De qué propiedad de la onda sonora depende principalmente el tono (si un sonido es
-agudo o grave)?
+¿De qué propiedad de la onda sonora depende principalmente la intensidad (si un sonido es fuerte o débil)?
 
-a) La amplitud
+a) La frecuencia
 b) La rapidez de propagación
-c) La forma de la onda
-d) La frecuencia
+c) El período
+d) La amplitud
 
 **Pregunta 2.** (Verdadero o falso)
-El sonido puede propagarse en el vacío, igual que la luz.
+Una ambulancia que se acerca se escucha con un tono más grave que cuando está detenida.
 
 **Pregunta 3.** (Alternativas — Cálculo)
-El sonido viaja a 340 m/s y el eco de un grito se escucha 2 segundos después. ¿A qué distancia está la superficie que refleja el sonido?
+El sonido viaja a 340 m/s. Un excursionista grita frente a un cerro y escucha el eco 4 segundos después. ¿A qué distancia está el cerro?
 
-a) 340 m
-b) 680 m
-c) 170 m
-d) 1.360 m
+a) 680 m
+b) 1.360 m
+c) 340 m
+d) 85 m
 
 **Pregunta 4.** (Alternativas — Evaluación)
-"Escuchar música con audífonos a volumen muy alto varias horas al día no tiene consecuencias si no se siente dolor inmediato." ¿Qué evaluación es correcta?
+"Un murciélago puede ubicar a un insecto en la oscuridad gracias al eco de los sonidos que emite." ¿Qué evaluación es correcta?
 
-a) Es correcta: sin dolor no hay daño, porque el oído avisa de inmediato cuando el volumen es peligroso
-b) Es correcta: el oído se fortalece con el ruido y se acostumbra a los volúmenes altos con el tiempo
-c) Es incorrecta: el volumen alto solo daña los audífonos, que pierden calidad de sonido con el uso diario
-d) Es incorrecta: la exposición prolongada a sonidos intensos daña progresivamente el oído interno aunque no duela
+a) Es incorrecta: los murciélagos solo se guían por la vista
+b) Es incorrecta: el sonido no se refleja en los objetos
+c) Es correcta, pero solo funciona de día
+d) Es correcta: emiten sonidos agudos y, por el tiempo que tarda el eco en volver, calculan la distancia de los objetos (ecolocalización)
 
 ---
 
 ### Fenómenos de la luz: reflexión, refracción, interferencia y efecto Doppler (OA 11)
 
 **Pregunta 5.**
-¿Qué fenómeno óptico explica por qué un lápiz parcialmente sumergido en un vaso con
-agua se ve "quebrado" al observarlo desde afuera?
+¿Qué fenómeno óptico explica la formación del arcoíris cuando la luz del Sol atraviesa gotas de lluvia?
 
-a) La reflexión total interna
-b) La difracción
-c) La refracción
-d) La interferencia
+a) La reflexión en un espejo
+b) La interferencia del sonido
+c) La refracción y la dispersión de la luz
+d) La absorción total de la luz
 
 **Pregunta 6.** (Verdadero o falso)
-El modelo corpuscular de la luz, por sí solo, da cuenta adecuadamente de fenómenos como
-la interferencia y la difracción.
+La luz se propaga más rápido en el vidrio que en el vacío.
 
 **Pregunta 7.** (Alternativas)
-¿Cuál es la diferencia entre reflexión y refracción de la luz?
+¿En qué situación ocurre principalmente **reflexión** de la luz?
 
-a) En la reflexión la luz cambia de medio y de rapidez al pasar del aire al agua; en la refracción rebota sin cambiar de medio, como ocurre en un espejo
-b) En la reflexión la luz rebota sin cambiar de medio (espejo); en la refracción cambia de dirección al pasar a otro medio porque cambia su rapidez (aire a agua)
-c) Ambas son lo mismo: la luz rebota al llegar a una superficie y vuelve por el mismo camino, sin cambiar su dirección
-d) La refracción solo ocurre con el sonido al pasar del aire al agua, y la reflexión solo con la luz al llegar a un espejo
+a) Cuando una cuchara se ve quebrada dentro de un vaso de agua
+b) Cuando te ves en la superficie quieta de un lago
+c) Cuando la luz atraviesa una lupa
+d) Cuando la luz pasa del aire al agua de una piscina
 
 **Pregunta 8.** (Alternativas — Astronomía)
-¿Por qué el "corrimiento al rojo" de galaxias lejanas es evidencia de la expansión del universo?
+Si la luz de una galaxia llega a la Tierra con un "corrimiento al azul", ¿qué indica?
 
-a) Porque indica que las galaxias se están acercando a la Tierra, y que esto ocurra en todas direcciones sugiere que el universo se contrae
-b) Porque demuestra que las galaxias lejanas son de color rojo, ya que están formadas por estrellas más viejas y frías
-c) Porque indica, por efecto Doppler, que se alejan de nosotros, y que esto ocurra en todas direcciones sugiere que el espacio se expande
-d) Porque prueba que el universo está detenido, ya que el color de las galaxias no cambia con el paso de los años
+a) Que la galaxia se aleja de nosotros
+b) Que la galaxia es muy fría
+c) Que la galaxia se acerca a nosotros
+d) Que la galaxia no se mueve
 
 ---
 
 ### El sistema Tierra-Luna-Sol: fases, eclipses y estaciones (OA 14)
 
 **Pregunta 9.**
-¿Cuál es la causa principal de las estaciones climáticas en la Tierra?
+¿Por qué cuando en Chile es verano, en España es invierno?
 
-a) La variación de la distancia entre la Tierra y el Sol durante el año
-b) La inclinación del eje de rotación de la Tierra
-c) Los cambios en las fases de la Luna
-d) La rotación de la Tierra sobre su propio eje
+a) Porque España está más lejos del Sol
+b) Porque, por la inclinación del eje terrestre, cuando un hemisferio recibe la luz más directa, el otro la recibe más inclinada
+c) Por las fases de la Luna
+d) Porque la Tierra gira más lento en el hemisferio sur
 
 **Pregunta 10.** (Verdadero o falso)
-Un eclipse solar ocurre cuando la Tierra se ubica entre el Sol y la Luna,
-proyectando su sombra sobre esta última.
+Un eclipse lunar ocurre cuando la Luna se ubica entre el Sol y la Tierra.
 
 **Pregunta 11.** (Alternativas — Análisis)
-"En Chile hace más calor en verano porque en esa época la Tierra está más cerca del Sol." ¿Qué evaluación es correcta?
+"La Luna cambia de forma porque la sombra de la Tierra la tapa cada noche un poco más." ¿Qué evaluación es correcta?
 
-a) Es incorrecta: las estaciones se deben a la inclinación del eje terrestre, que hace que la luz llegue más directa a un hemisferio
-b) Es correcta: la distancia al Sol explica las estaciones, porque en verano la Tierra recibe más calor al estar más cerca
-c) Es correcta: en verano la Tierra está mucho más cerca del Sol en ambos hemisferios, por eso el verano ocurre en todo el planeta a la vez
-d) Es incorrecta: las estaciones se deben a las fases lunares, que cambian la cantidad de luz que refleja la Luna hacia la Tierra
+a) Es incorrecta: las fases se deben a la parte iluminada de la Luna que vemos desde la Tierra según su posición en su órbita
+b) Es correcta: la sombra de la Tierra produce las fases cada noche
+c) Es correcta: la Luna cambia realmente de tamaño
+d) Es incorrecta: las fases se deben a las nubes
 
 ---
 
 ### Investigación astronómica en Chile y el mundo (OA 16)
 
 **Pregunta 12.**
-¿Cuál de los siguientes factores explica principalmente por qué el norte de Chile
-es un lugar privilegiado para la observación astronómica?
+¿Por qué los grandes observatorios del norte de Chile se construyen en cumbres alejadas de las ciudades?
 
-a) Su cercanía al océano Pacífico y a la costa
-b) Su baja humedad atmosférica y alta transparencia del cielo
-c) Su cercanía a la línea del Ecuador y al trópico
-d) Su gran cantidad de población y de ciudades iluminadas
+a) Para estar más cerca de las estrellas
+b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura
+c) Porque allí hace más calor
+d) Para que los turistas no los encuentren
 
 **Pregunta 13.** (Varias correctas)
-¿Qué información puede obtenerse del análisis de la luz de una estrella o galaxia? Marca **todas** las correctas.
+¿Qué instrumentos permiten estudiar el universo? Marca **todas** las correctas.
 
-a) Su composición química (líneas espectrales)
-b) Su temperatura
-c) Si se aleja o se acerca (efecto Doppler)
-d) El nombre que le dieron sus descubridores
+a) Telescopios ópticos
+b) Radiotelescopios, como ALMA
+c) Telescopios espaciales
+d) Microscopios electrónicos
 
 ---
 
 ## Pauta de corrección
 
-1. d) La frecuencia. A mayor frecuencia de la onda sonora, más agudo se percibe el
-   sonido; a menor frecuencia, más grave.
-2. Falso — el sonido es una onda mecánica y necesita un medio material (sólido,
-   líquido o gaseoso) para propagarse; a diferencia de la luz, no puede viajar en
-   el vacío.
-3. a) 340 m. El sonido recorre 340 × 2 = 680 m de ida y vuelta, así que la superficie está a la mitad: 340 m.
-4. d) Es incorrecta: la exposición prolongada a sonidos intensos daña progresivamente el oído interno aunque no duela. La ausencia de dolor inmediato no garantiza ausencia de daño acumulado a largo plazo.
-5. c) La refracción. Es el cambio de dirección de la luz al pasar de un medio (el
-   agua) a otro (el aire) con distinta densidad óptica, lo que produce esa
-   distorsión visual.
-6. Falso — fenómenos como la interferencia y la difracción se explican
-   adecuadamente mediante el modelo ondulatorio de la luz, no mediante el modelo
-   corpuscular clásico.
-7. b) En la reflexión la luz rebota sin cambiar de medio (espejo); en la refracción cambia de dirección al pasar a otro medio porque cambia su rapidez (aire a agua). Ambos fenómenos ocurren en la interfaz entre dos medios.
-8. c) Porque indica, por efecto Doppler, que se alejan de nosotros, y que esto ocurra en todas direcciones sugiere que el espacio se expande. El efecto Doppler es una herramienta fundamental de la astronomía moderna.
-9. b) La inclinación del eje de rotación de la Tierra. Hace que distintos
-   hemisferios reciban la luz solar con distinto ángulo a lo largo del año, lo que
-   determina las estaciones; no se debe a la distancia entre la Tierra y el Sol.
-10. Falso — esa descripción corresponde a un eclipse lunar. En un eclipse solar, es
-    la Luna la que se ubica entre el Sol y la Tierra, bloqueando la luz solar en
-    ciertas zonas de la Tierra.
-11. a) Es incorrecta: las estaciones se deben a la inclinación del eje terrestre, que hace que la luz llegue más directa a un hemisferio. La distancia Tierra-Sol varía poco y no coincide con las estaciones de cada hemisferio.
-12. b) Su baja humedad atmosférica y alta transparencia del cielo. La combinación
-    de aridez extrema, cielos despejados casi todo el año y baja contaminación
-    lumínica hace del desierto de Atacama uno de los mejores lugares del mundo para
-    instalar observatorios astronómicos.
-13. a, b y c — La luz de los astros suele ser la única fuente de información directa para estudiarlos.
+1. d) La amplitud. A mayor amplitud, más intenso (fuerte) es el sonido; la frecuencia determina el tono.
+2. Falso — por el efecto Doppler, cuando la fuente se acerca se percibe un tono más agudo; cuando se aleja, más grave.
+3. a) 680 m. El sonido recorre 340 × 4 = 1.360 m de ida y vuelta, así que el cerro está a la mitad: 680 m.
+4. d) Es correcta: la ecolocalización usa el eco para calcular distancias.
+5. c) La refracción y la dispersión de la luz: cada color se desvía en un ángulo distinto dentro de las gotas.
+6. Falso — la luz alcanza su mayor rapidez en el vacío; en el vidrio se propaga más lento, por eso se refracta.
+7. b) Cuando te ves en la superficie quieta de un lago: la luz rebota sin cambiar de medio. Las otras situaciones son refracción.
+8. c) Que la galaxia se acerca: por efecto Doppler, la luz se corre hacia longitudes de onda más cortas (azul).
+9. b) La inclinación del eje terrestre hace que los hemisferios reciban la luz con distinto ángulo durante el año.
+10. Falso — en un eclipse lunar, la Tierra se ubica entre el Sol y la Luna; cuando la Luna está entre el Sol y la Tierra, ocurre un eclipse solar.
+11. a) Es incorrecta: las fases dependen de cuánta parte iluminada de la Luna vemos según su posición; la sombra de la Tierra solo interviene en los eclipses.
+12. b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura.
+13. a, b y c — Todos estudian el universo; el microscopio electrónico observa objetos muy pequeños, no astronómicos.

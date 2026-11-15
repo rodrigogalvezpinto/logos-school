@@ -22,135 +22,120 @@ del año, no solo el vocabulario.
 
 ---
 
-1. *(Alternativas — Completar)* Complete: *"___ my opinion, learning about other cultures makes us more tolerant."*
+1. *(Alternativas — Completar)* Complete: *"___ my point of view, sports help young people make friends."*
 
 a) In
 b) At
 c) On
-d) For
+d) From
 
-2. *(Alternativas)* ¿Qué oración expresa mejor una opinión justificada sobre un
-   problema global?
-   a) Pollution exists in many cities, and there are a lot of cars on the streets.
-   b) There is a big city near here, and many people drive their cars there every day.
-   c) Cars are common in cities because many people need to travel to work by car.
-   d) In my opinion, cities should reduce car use because it would lower air
-      pollution.
+2. *(Alternativas)* ¿Qué oración expresa mejor una opinión justificada sobre un problema global?
+   a) Many people use smartphones every day.
+   b) Smartphones have cameras and apps.
+   c) Phones are sold in many shops.
+   d) I believe schools should limit phone use in class because it distracts students from learning.
 
-3. *(Alternativas — Completar)* Complete: *"Yesterday, in Science class, we ___ about the human body. I ___ it very interesting."* (learn / find, simple past)
+3. *(Alternativas — Completar)* Complete: *"Last week, in History class, we ___ a documentary about the Incas. I ___ it really interesting."* (watch / think, simple past)
 
-a) learn / find
-b) learned / finded
-c) learning / found
-d) learned / found
+a) watch / think
+b) watched / thinked
+c) watching / thought
+d) watched / thought
 
-4. *(Verdadero o falso)* La oración *"For example, in Japan people often remove
-   their shoes before entering a house"* es un buen recurso para ilustrar una
-   idea sobre otra cultura.
+4. *(Verdadero o falso)* La oración *"For instance, in Mexico many families build altars to remember their relatives on the Day of the Dead"* es un buen recurso para ilustrar una idea sobre otra cultura.
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global issue that worries me is ___. I think we should ___ to solve it."* logically?
 
-a) plastic pollution / buy more plastic bottles
-b) plastic pollution / use less plastic and recycle more
-c) recycling / throw plastic bottles into the river
-d) plastic pollution / ignore it because it is not our problem
+a) water shortage / waste more water
+b) water shortage / take shorter showers and fix leaks
+c) recycling / throw bottles into the sea
+d) water shortage / ignore it
 
-6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture about deforestation: *"This picture shows ___. In my opinion, ___ because ___."*
+6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a river full of garbage: *"This picture shows ___. In my opinion, ___ because ___."*
 
-a) a forest being cut down / this is great / the trees are green and many animals live there
-b) a beach / this is a serious problem / it destroys the forests and the habitat of many fish
-c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals
-d) a forest with many trees / this is a nice place / people like to walk in the forest
+a) a polluted river / this is great / fish love garbage
+b) a clean beach / this is a serious problem / it harms the forest
+c) a polluted river / this is a serious problem / it harms fish and the people who use the water
+d) a mountain / this is nice / people like hiking
 
-7. *(Alternativas — Completar)* Complete: *"There are ___ people living in that city."*
+7. *(Alternativas — Completar)* Complete: *"The stadium can hold ___ people."*
 
-a) two million
-b) two millions
-c) two millions of
-d) two million of
+a) fifty thousand
+b) fifty thousands
+c) fifty thousands of
+d) fifty thousand of
 
-8. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto para
-   una acción que empezó en el pasado y continúa hoy?
-   a) She work here since 2018.
-   b) She has worked here since 2018.
-   c) She worked here since 2018.
-   d) She is working here since 2018.
+8. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto para una acción que empezó en el pasado y continúa hoy?
+   a) They live in Temuco since 2015.
+   b) They have lived in Temuco since 2015.
+   c) They lived in Temuco since 2015.
+   d) They are living in Temuco since 2015.
 
-9. *(Alternativas — Completar)* Complete with the antonym: *"He was very ___ to his classmates and never listened to their opinions."* (respectful + dis-)
+9. *(Alternativas — Completar)* Complete with the antonym: *"The instructions were so ___ that nobody understood them."* (clear + un-)
 
-a) respectful
-b) unrespectful
-c) irrespectful
-d) disrespectful
+a) clear
+b) disclear
+c) inclear
+d) unclear
 
-10. *(Verdadero o falso)* La oración *"I used to play the guitar, but now I
-    don't have time"* describe un hábito pasado que ya no ocurre.
+10. *(Verdadero o falso)* La oración *"We used to live in Arica, but now we live in Santiago"* describe una situación pasada que ya no ocurre.
 
-11. *(Alternativas — Completar)* Complete: *"The woman ___ lives next door is a doctor. The book, ___ I borrowed from the library, is amazing."*
+11. *(Alternativas — Completar)* Complete: *"The teacher ___ helped me is very kind. The bike, ___ my uncle gave me, is red."*
 
 a) which / who
 b) who / which
 c) where / which
 d) who / where
 
-12. *(Varias correctas — Respuesta)* *"— How long have you and your best friend been friends? — ___"* Which answers are correct? Marca **todas** las correctas.
+12. *(Varias correctas — Respuesta)* *"— How long have you studied English? — ___"* Which answers are correct? Marca **todas** las correctas.
 
-a) We have been friends for five years.
-b) We have been friends since 2020.
-c) We are friends since five years.
-d) We have been friends for 2020.
+a) I have studied English for three years.
+b) I have studied English since 2022.
+c) I study English since three years.
+d) I have studied English for 2022.
 
-13. *(Alternativas — completar, desafiante)* Complete with the past simple: *"My grandfather ___ as a fisherman for forty years, but he ___ three years ago."* (work / retire)
+13. *(Alternativas — completar, desafiante)* Complete with the past simple: *"My aunt ___ in a bank for twenty years, but she ___ last year."* (work / leave)
 
-a) worked / retired
-b) has worked / retired
-c) worked / has retired
-d) works / retires
+a) worked / left
+b) has worked / left
+c) worked / has left
+d) works / leaves
 
-14. *(Alternativas — Completar — desafiante)* Complete: *"She decided to ___ for a ___ job at the local hospital to gain experience while studying."*
+14. *(Alternativas — Completar — desafiante)* Complete: *"He wants to ___ for a ___ job at the supermarket during the summer."*
 
-a) apply / part-times
-b) ask / time-part
-c) apply / part-time
-d) make / part-time
+a) apply / full-times
+b) ask / time-full
+c) apply / summer
+d) make / summer
 
 ---
 
 ## Pauta de respuestas
 
-1. a) In. La expresión fija es *in my opinion*.
+1. d) From. La expresión fija es *from my point of view* («desde mi punto de vista»); con *opinion* se usa *in*: *in my opinion*.
 
-2. **d)** In my opinion, cities should reduce car use because it would lower
-   air pollution.
-   Solo la opción d) combina una opinión (*in my opinion*) con una razón
-   (*because*); las demás solo describen hechos sin argumentar.
+2. **d)** Solo la opción d) combina una opinión (*I believe*) con una razón (*because*).
 
-3. d) learned / found. *Yesterday* exige pasado simple; *find* es irregular: *found*.
+3. d) watched / thought. *Last week* exige pasado simple; *think* es irregular: *thought*.
 
-4. **True (Verdadero).**
-   *For example* introduce un ejemplo concreto que apoya una idea general
-   sobre una costumbre cultural, tal como pide este OA.
+4. **True (Verdadero).** *For instance* introduce un ejemplo concreto sobre una costumbre cultural.
 
-5. b) plastic pollution / use less plastic and recycle more. El problema y la solución deben estar conectados de forma lógica.
+5. b) water shortage / take shorter showers and fix leaks. El problema y la solución deben estar conectados de forma lógica.
 
-6. c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals. Un buen pie de foto describe la imagen, agrega una opinión y la justifica con *because*.
+6. c) Un buen pie de foto describe la imagen, agrega una opinión y la justifica.
 
-7. a) two million. *Million*, *thousand* y *hundred* no llevan *-s* cuando van precedidos de un número exacto.
+7. a) fifty thousand. *Thousand* no lleva *-s* cuando va precedido de un número exacto.
 
-8. **b)** She has worked here since 2018.
-   *Since* + un punto en el tiempo requiere presente perfecto (*has worked*)
-   porque la acción comenzó en el pasado y sigue vigente.
+8. **b)** They have lived in Temuco since 2015. *Since* + un punto en el tiempo requiere presente perfecto.
 
-9. d) disrespectful. El prefijo *dis-* forma el antónimo: irrespetuoso.
+9. d) unclear. El prefijo *un-* forma el antónimo.
 
-10. **True (Verdadero).**
-    *Used to* + verbo describe una acción habitual en el pasado que ya no se
-    repite en el presente.
+10. **True (Verdadero).** *Used to* describe una situación pasada que ya no ocurre.
 
-11. b) who / which. *Who* se usa para personas y *which* para cosas.
+11. b) who / which. *Who* se usa con personas; *which*, con cosas.
 
-12. a y b — Se usa presente perfecto + *for* + duración, o *since* + punto en el tiempo.
+12. a y b — *for* + duración y *since* + punto de inicio; c y d son incorrectas.
 
-13. a) worked / retired. *For forty years* describe un período cerrado por *three years ago*, un momento terminado; por eso ambas acciones van en pasado simple.
+13. a) worked / left. *Last year* exige pasado simple; *leave* es irregular: *left*.
 
-14. c) apply / part-time. *Apply for a job* y *part-time job* son collocations del ámbito laboral.
+14. c) apply / summer. *Apply for a job* = postular a un trabajo; *a summer job* = un trabajo de verano.

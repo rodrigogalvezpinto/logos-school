@@ -21,19 +21,19 @@ oa_por_pregunta: {"1":"OA 12","2":"OA 12","3":"OA 12","4":"OA 12","5":"OA 12","6
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Qué institución, fundada en 1842, se convirtió en un centro clave para la producción de conocimiento científico sobre el territorio nacional?
-a) La Escuela Santa María de Iquique
+**Pregunta 1 (alternativas).** ¿Qué institución, creada en 1842 durante el gobierno de Manuel Bulnes, buscó formar a los profesores que educarían a la población del país?
+a) La Sociedad de Agricultura
 b) El Parlamento de Quilín
-c) La Universidad de Chile
+c) La Escuela Normal de Preceptores
 d) La Sociedad de Igualdad
 
-**Pregunta 2 (verdadero o falso).** Ignacio Domeyko fue un científico contratado por el Estado chileno que se dedicó principalmente al estudio de la mineralogía y la geología del país.
+**Pregunta 2 (verdadero o falso).** Claudio Gay fue un naturalista contratado por el Estado chileno que recorrió el país y publicó una obra sobre su historia física y política.
 
-**Pregunta 3 (Alternativas — unir).** Une cada instrumento estatal con su propósito principal:
+**Pregunta 3 (Alternativas — unir).** Une cada instrumento estatal con un ejemplo:
 
 1) Censos de población — 2) Redes de transporte y comunicación — 3) Misiones científicas
 
-Propósitos: (A) Documentar la geografía, flora, fauna y recursos del territorio — (B) Cuantificar y caracterizar a la población del país — (C) Integrar física y administrativamente distintas zonas del territorio
+Ejemplos: (A) El estudio de los minerales del norte realizado por Ignacio Domeyko — (B) El conteo de habitantes realizado en 1865 — (C) El ferrocarril entre Santiago y Valparaíso
 
 ¿Qué combinación es correcta?
 
@@ -42,26 +42,26 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**Pregunta 4 (Alternativas — análisis de mapa).** Un mapa de 1810 muestra un territorio efectivamente controlado por el Estado mucho menor que sus límites formales. ¿Qué proceso explica la expansión de ese control durante el siglo XIX?
+**Pregunta 4 (Alternativas — análisis de mapa).** Un mapa de 1870 muestra el trazado del telégrafo y de los ferrocarriles uniendo Santiago con varias ciudades del sur. ¿Qué buscaba el Estado con estas obras?
 
-a) La disminución de la población en el valle central, que obligó a las familias a trasladarse al norte y al sur y a ocupar nuevas tierras sin intervención del Estado
-b) La renuncia del Estado a administrar las regiones alejadas, que quedaron en manos de las autoridades locales y de los hacendados, quienes ampliaron sus propiedades
-c) La anexión de Chile a Argentina después de la Independencia, que permitió compartir la administración del territorio y ampliar sus límites hacia la Patagonia
-d) La exploración y reconocimiento del territorio mediante misiones científicas, censos, la Universidad de Chile y la expansión de la burocracia y las redes de transporte
+a) Reducir la población del valle central
+b) Dejar las regiones alejadas en manos de los hacendados
+c) Entregar la administración del sur a Argentina
+d) Integrar física y administrativamente el territorio, acercando las provincias al gobierno central
 
-**Pregunta 5 (Alternativas).** ¿Por qué las ciencias (misiones científicas, universidades) fueron relevantes para organizar el territorio chileno en el siglo XIX?
+**Pregunta 5 (Alternativas).** ¿Por qué el Estado chileno del siglo XIX realizó censos periódicos de población?
 
-a) Porque las ciencias reemplazaron al gobierno en la administración del territorio, y las universidades pasaron a dictar las leyes sobre la ocupación de las regiones del país
-b) Porque el Estado necesitaba conocer con precisión su geografía, recursos y población antes de administrarlos, y las misiones como las de Gay y Domeyko y la Universidad de Chile produjeron ese conocimiento
-c) Porque solo servían para fines decorativos y de prestigio: las misiones científicas producían láminas y colecciones para los museos, sin ninguna utilidad para administrar el territorio
-d) Porque impidieron delimitar las fronteras del país, ya que los científicos extranjeros recomendaban no ocupar las regiones alejadas para proteger su flora y su fauna
+a) Para decidir qué ciudades debían desaparecer
+b) Porque necesitaba saber cuántos habitantes había, dónde vivían y a qué se dedicaban, para organizar la administración y los servicios
+c) Solo para fines decorativos
+d) Para impedir que la población se moviera
 
-**Pregunta 6 (Alternativas — desafiante).** ¿Por qué la expansión de la burocracia era necesaria para que censos y misiones científicas se tradujeran en administración efectiva?
+**Pregunta 6 (Alternativas — desafiante).** ¿Por qué las misiones científicas no bastaban por sí solas para que el Estado controlara efectivamente su territorio?
 
-a) Porque la burocracia reemplazaba a los censos, que dejaron de hacerse cuando hubo funcionarios suficientes en cada región
-b) Porque los censos no producían información útil para el Estado, y la burocracia debía reunir de nuevo todos los datos
-c) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal
-d) Porque la burocracia impedía aplicar políticas públicas, y por eso el Estado debía reducirla antes de usar los censos
+a) Porque los científicos eran extranjeros
+b) Porque los mapas no servían para nada
+c) Porque además se requerían caminos, funcionarios y autoridades que aplicaran políticas y ejercieran presencia estatal en cada zona
+d) Porque el Estado no quería conocer su territorio
 
 **Pregunta 7 (alternativas).** ¿Cuál de los siguientes científicos recorrió el territorio chileno documentando su geografía, flora, fauna e historia por encargo del Estado?
 a) Diego Portales
@@ -109,12 +109,12 @@ d) Ambos sirvieron al Estado para conocer su territorio; las misiones describía
 
 ## Pauta de respuestas
 
-1. c) La Universidad de Chile. Fundada en 1842, jugó un rol central en la formación de profesionales y en la producción de conocimiento científico sobre el territorio nacional durante el siglo XIX.
-2. Verdadero. Domeyko, científico de origen polaco, contribuyó de manera decisiva al conocimiento geológico y mineralógico de Chile, además de aportar a la formación científica en el país.
-3. a) 1-B, 2-C, 3-A. Estos instrumentos actuaron de forma complementaria para conocer, organizar y administrar el territorio.
-4. d) La exploración y reconocimiento del territorio mediante misiones científicas, censos, la Universidad de Chile y la expansión de la burocracia y las redes de transporte. El conocimiento científico y la acción administrativa ampliaron el control efectivo.
-5. b) Porque el Estado necesitaba conocer con precisión su geografía, recursos y población antes de administrarlos, y las misiones como las de Gay y Domeyko y la Universidad de Chile produjeron ese conocimiento. Además, la universidad formó a los profesionales necesarios para esta tarea.
-6. c) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal. La burocracia fue el complemento institucional del conocimiento científico.
+1. c) La Escuela Normal de Preceptores, dirigida inicialmente por Domingo Faustino Sarmiento, que formó a los primeros profesores primarios del país.
+2. Verdadero. Su *Historia física y política de Chile* reunió información sobre la geografía, la flora, la fauna y la historia del país.
+3. a) 1-B, 2-C, 3-A. Estos instrumentos actuaron de forma complementaria para conocer y administrar el territorio.
+4. d) Integrar física y administrativamente el territorio: el transporte y las comunicaciones permitían ejercer presencia estatal.
+5. b) Conocer a la población era necesario para organizar la administración, los impuestos, la educación y otros servicios.
+6. c) Conocer el territorio era el primer paso; para administrarlo se necesitaban también transporte, funcionarios y autoridades locales.
 7. b) Claudio Gay, naturalista francés contratado por el Estado, que recorrió el territorio chileno documentando su geografía, flora, fauna e historia.
 8. Falso. Gran parte del territorio, especialmente en los extremos norte y sur, era poco conocido o directamente ajeno al control efectivo del Estado al momento de la independencia.
 9. b) El Estado debía explorar y conocer esas zonas antes de poder administrarlas. La ausencia de límites definidos y de autoridades muestra que el control efectivo era parcial: por eso el Estado impulsó misiones científicas, censos y redes de transporte antes de organizar y administrar esos territorios.

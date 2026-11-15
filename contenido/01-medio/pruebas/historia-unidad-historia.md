@@ -22,18 +22,18 @@ ultima_actualizacion: 2026-10-28
 ---
 
 **Pregunta 1 (alternativas).** ¿Cuál de las siguientes ideas corresponde al ideario liberal del siglo XIX?
-a) La concentración de todo el poder en un monarca absoluto, cuya autoridad proviene de Dios
-b) La prohibición de cualquier forma de asociación entre ciudadanos, para evitar conflictos políticos
-c) El constitucionalismo, es decir, que el poder político se ejerza dentro del marco de una constitución
-d) La eliminación total del comercio internacional para proteger la producción nacional
+a) Que el rey gobierne por derecho divino, sin límites
+b) Que se prohíba la prensa para evitar conflictos
+c) Que se reconozcan libertades individuales, como la libertad de prensa, de opinión y de asociación
+d) Que la Iglesia controle el gobierno
 
-**Pregunta 2 (verdadero o falso).** El movimiento abolicionista del siglo XIX buscaba poner fin a la esclavitud, entendiéndola como contraria a los principios liberales de libertad e igualdad.
+**Pregunta 2 (verdadero o falso).** Las revoluciones de 1848 en Europa expresaron demandas como la ampliación del derecho a voto y el fin de los gobiernos absolutos.
 
-**Pregunta 3 (Alternativas — unir).** Une cada concepto con su definición:
+**Pregunta 3 (Alternativas — unir).** Une cada concepto con un ejemplo:
 
-1) Parlamentarismo — 2) Libre mercado — 3) Ampliación de la ciudadanía
+1) Separación de poderes — 2) Libre comercio — 3) Ampliación de la ciudadanía
 
-Definiciones: (A) Modelo en que el gobierno depende de la confianza de un parlamento elegido — (B) Aumento progresivo del número de personas con derecho a participación política — (C) Idea de que la economía debe regirse por la oferta y la demanda, con mínima intervención estatal
+Ejemplos: (A) Que el Congreso dicte las leyes, el Presidente las ejecute y los tribunales juzguen — (B) Que más personas obtengan el derecho a voto — (C) Que se reduzcan los impuestos a los productos importados y exportados
 
 ¿Qué combinación es correcta?
 
@@ -42,32 +42,32 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
-**Pregunta 4 (alternativas).** ¿Qué caracteriza principalmente al Estado-nación que surgió durante el siglo XIX?
-a) La fragmentación del territorio en múltiples señoríos independientes, cada uno con sus propias leyes y tradiciones
-b) La dependencia absoluta de una potencia colonial extranjera, que nombraba a sus autoridades y fijaba sus fronteras
-c) La ausencia total de gobierno central, reemplazado por asambleas locales sin un sentido de pertenencia común
-d) La unificación de un territorio y de tradiciones culturales bajo un principio de soberanía y un sentido de pertenencia común
+**Pregunta 4 (alternativas).** ¿Qué elementos se usaron en el siglo XIX para fortalecer el sentido de pertenencia a una nación?
+a) La eliminación de los idiomas comunes
+b) La prohibición de celebrar fechas patrias
+c) La división del territorio en señoríos independientes
+d) Los símbolos patrios, la historia nacional enseñada en las escuelas y una lengua común
 
-**Pregunta 5 (Alternativas — ordenar secuencia).** Ordena cronológicamente: (1) unificación de Alemania, (2) independencias latinoamericanas, (3) disolución de la Gran Colombia, (4) unificación de Italia.
+**Pregunta 5 (Alternativas — ordenar secuencia).** Ordena cronológicamente: (1) Primera Guerra Mundial, (2) Revolución Francesa, (3) unificación de Italia, (4) independencia de Chile.
 
-a) 2 → 4 → 3 → 1
-b) 3 → 2 → 1 → 4
-c) 2 → 3 → 1 → 4
-d) 2 → 3 → 4 → 1
+a) 2 → 3 → 4 → 1
+b) 4 → 2 → 3 → 1
+c) 2 → 4 → 1 → 3
+d) 2 → 4 → 3 → 1
 
-**Pregunta 6 (alternativas).** ¿Cuál de los siguientes factores se reconoce como un antecedente de largo plazo de la Primera Guerra Mundial?
-a) La abolición de la esclavitud en las colonias europeas de África
-b) El imperialismo y la competencia por colonias entre potencias europeas
-c) La invención de la imprenta y la difusión de periódicos
-d) El Concilio de Trento y las guerras de religión
+**Pregunta 6 (alternativas).** ¿Qué hecho desencadenó directamente el inicio de la Primera Guerra Mundial en 1914?
+a) La Revolución Francesa
+b) El asesinato del archiduque Francisco Fernando en Sarajevo
+c) La invención del telégrafo
+d) La caída del Imperio romano
 
-**Pregunta 7 (verdadero o falso).** La Primera Guerra Mundial fortaleció la confianza decimonónica en que el progreso científico y técnico conduciría, casi automáticamente, a un mundo mejor.
+**Pregunta 7 (verdadero o falso).** La Primera Guerra Mundial fue una guerra breve, que terminó a las pocas semanas y con pocas víctimas.
 
-**Pregunta 8 (Alternativas — unir).** Une cada actor o grupo con su tendencia política:
+**Pregunta 8 (Alternativas — unir).** Une cada documento o hecho con el periodo de organización de la República de Chile:
 
-1) Pipiolos — 2) Pelucones y estanqueros — 3) Diego Portales
+1) Ensayos constitucionales de 1823 a 1828 — 2) Batalla de Lircay (1830) — 3) Constitución de 1833
 
-Tendencias: (A) Impulsor clave del orden conservador tras 1830, aunque sin ejercer la presidencia — (B) Tendencia liberal y federalista, defensora de un poder más descentralizado — (C) Tendencia conservadora, defensora de un poder ejecutivo fuerte y centralizado
+Periodos o efectos: (A) Inicio de un orden conservador y presidencialista estable — (B) Etapa de experimentación política con distintos modelos de gobierno — (C) Triunfo de los conservadores sobre los liberales
 
 ¿Qué combinación es correcta?
 
@@ -76,28 +76,28 @@ b) 1-B, 2-C, 3-A
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
-**Pregunta 9 (verdadero o falso).** La Constitución de 1833 estableció un concepto de ciudadanía amplio, que permitía votar a toda la población adulta sin distinción de renta, sexo o alfabetización.
+**Pregunta 9 (verdadero o falso).** Bajo la Constitución de 1833, las mujeres podían votar en las elecciones presidenciales.
 
-**Pregunta 10 (alternativas).** ¿Cuál de los siguientes productos se convirtió en el principal producto de exportación chileno hacia fines del siglo XIX?
-a) El trigo
-b) El salitre
-c) El vino
-d) El carbón
+**Pregunta 10 (alternativas).** ¿Qué actividad económica se desarrolló fuertemente en el norte de Chile tras la Guerra del Pacífico?
+a) La ganadería ovina
+b) La explotación del salitre
+c) La pesca de ballenas
+d) El cultivo de arroz
 
-**Pregunta 11 (Alternativas — análisis de fuente).** Un documento oficial de 1883 ordena "asignar a la comunidad indígena un lote de 40 hectáreas en el sector X, y disponer las tierras restantes para su remate público a particulares". ¿Qué aspecto de la ocupación ilustra?
+**Pregunta 11 (Alternativas — análisis de fuente).** Un decreto de fines del siglo XIX ofrece tierras en la Araucanía a familias europeas que se instalen allí. ¿Qué proceso refleja esta fuente?
 
-a) El reconocimiento de todo el territorio ancestral mapuche y su inscripción a nombre de las comunidades
-b) La fundación de una ciudad en el sector X, con lotes para los colonos y para la comunidad
-c) La repartición de tierras y el confinamiento de las comunidades mapuches en reducciones, entregando el resto a particulares
-d) La construcción del ferrocarril al sur, que requería expropiar las tierras de las comunidades
+a) La devolución de las tierras a las comunidades mapuche
+b) La fundación de universidades en el sur
+c) La colonización de la Araucanía por parte del Estado, con tierras entregadas a colonos tras la ocupación del territorio mapuche
+d) La construcción de puertos en el norte
 
-**Pregunta 12 (verdadero o falso).** Tras la Guerra del Pacífico, Bolivia perdió su acceso soberano al mar, mientras que Chile incorporó a su territorio las regiones de Tarapacá y Antofagasta.
+**Pregunta 12 (verdadero o falso).** La Guerra del Pacífico (1879-1884) enfrentó a Chile con Perú y Bolivia.
 
-**Pregunta 13 (Alternativas — unir).** Une cada actor social con su rol en el cambio de siglo:
+**Pregunta 13 (Alternativas — unir).** Une cada hecho del cambio de siglo con el actor social involucrado:
 
-1) Movimiento obrero — 2) Sectores medios — 3) Partidos políticos tradicionales
+1) Huelgas en las salitreras del norte — 2) Crecimiento de profesores, empleados y funcionarios en las ciudades — 3) Alianza Liberal y Partido Conservador
 
-Roles: (A) Comienzan a demandar mayor participación y representación política — (B) Coexisten con nuevos partidos que incorporan ideas como el socialismo para representar demandas populares — (C) Usan huelgas y organizaciones de ayuda mutua para presionar por mejoras laborales
+Actores: (A) Sectores medios — (B) Partidos políticos tradicionales — (C) Movimiento obrero
 
 ¿Qué combinación es correcta?
 
@@ -106,28 +106,28 @@ b) 1-A, 2-B, 3-C
 c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
-**Pregunta 14 (Alternativas — desafiante).** ¿Por qué la Constitución de 1833 logró "relativa estabilidad" pero excluyó a la mayoría de la población?
+**Pregunta 14 (Alternativas — desafiante).** ¿Por qué se habla de una "cuestión social" en Chile a fines del siglo XIX y comienzos del XX?
 
-a) Porque estableció el voto universal desde su promulgación, lo que dio estabilidad, pero excluyó a los extranjeros y a los menores de edad
-b) Porque eliminó al Poder Ejecutivo y entregó el gobierno al Congreso, lo que dio estabilidad, pero dejó sin representación a las provincias
-c) Porque entregó el poder a las regiones mediante un sistema federal, lo que dio estabilidad, pero excluyó a la elite de Santiago
-d) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares
+a) Porque el país vivía en total igualdad social
+b) Porque se había eliminado la pobreza en las ciudades
+c) Porque los obreros no existían todavía
+d) Porque el crecimiento económico convivió con malas condiciones de vida y trabajo de los sectores populares: conventillos, enfermedades y jornadas extensas
 
 ---
 
 ## Pauta de respuestas
 
-1. c) El constitucionalismo, es decir, que el poder político se ejerza dentro del marco de una constitución. El constitucionalismo, junto con la separación de poderes y el reconocimiento de derechos individuales, es uno de los pilares del liberalismo decimonónico.
-2. Verdadero. El abolicionismo fue una de las expresiones más concretas de cómo las ideas liberales se tradujeron en cambios legales y sociales durante el siglo XIX.
-3. a) 1-A, 2-C, 3-B. Estas tres nociones —forma de gobierno, modelo económico y participación política— son expresiones distintas de un mismo ideario liberal y republicano.
-4. d) La unificación de un territorio y de tradiciones culturales bajo un principio de soberanía y un sentido de pertenencia común. El Estado-nación combina un componente político (soberanía sobre un territorio) y un componente cultural (lengua, historia, identidad compartida).
-5. d) 2 → 3 → 4 → 1. Independencias (primeras décadas del XIX), disolución de la Gran Colombia (1830), unificación de Italia (1861-1870) y de Alemania (1871).
-6. b) El imperialismo y la competencia por colonias entre potencias europeas. Junto con el armamentismo y la formación de alianzas rivales, generó las tensiones estructurales que hicieron posible el estallido de la guerra.
-7. Falso. La magnitud destructiva de la guerra generó una profunda crisis en la idea de progreso propia del siglo XIX, no la reforzó.
-8. b) 1-B, 2-C, 3-A. Reconocer a los actores y su tendencia ayuda a comprender el enfrentamiento de visiones en los primeros años de la República.
-9. Falso. La Constitución de 1833 estableció una ciudadanía restringida: solo podían votar hombres que cumplieran requisitos de renta y alfabetización.
-10. b) El salitre. Hacia fines del siglo XIX se convirtió en el principal producto de exportación chileno, con gran importancia a nivel mundial.
-11. c) La repartición de tierras y el confinamiento de las comunidades mapuches en reducciones, entregando el resto a particulares. Evidencia el mecanismo legal-administrativo mediante el cual se despojó a las comunidades de gran parte de su territorio.
-12. Verdadero. El triunfo militar chileno significó la incorporación del Norte Grande al territorio nacional y la pérdida del litoral boliviano.
-13. a) 1-C, 2-A, 3-B. El cambio de siglo estuvo marcado por la emergencia de nuevos actores y demandas sociales.
-14. d) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares. El orden se logró a costa de una participación política muy restringida.
+1. c) Las libertades individuales son parte central del ideario liberal, junto con el constitucionalismo y la separación de poderes.
+2. Verdadero. Las revoluciones de 1848 expresaron demandas liberales y democráticas en varios países europeos.
+3. a) 1-A, 2-C, 3-B.
+4. d) Los símbolos patrios, la historia nacional y una lengua común fortalecieron la identidad nacional.
+5. d) 2 → 4 → 3 → 1. Revolución Francesa (1789), independencia de Chile (1818), unificación de Italia (1861-1870) y Primera Guerra Mundial (1914).
+6. b) El asesinato del archiduque Francisco Fernando fue el detonante; las causas profundas fueron el imperialismo, el nacionalismo y las alianzas.
+7. Falso. Duró de 1914 a 1918 y causó millones de muertos.
+8. b) 1-B, 2-C, 3-A.
+9. Falso. La Constitución de 1833 establecía una ciudadanía restringida a hombres con renta y alfabetizados.
+10. b) La explotación del salitre de Tarapacá y Antofagasta, que se convirtió en la principal exportación chilena.
+11. c) La colonización de la Araucanía tras su ocupación por el Estado, con graves consecuencias para el pueblo mapuche.
+12. Verdadero. Chile se enfrentó a Perú y Bolivia y, tras su triunfo, incorporó Tarapacá y Antofagasta.
+13. a) 1-C, 2-A, 3-B.
+14. d) El crecimiento económico no mejoró la situación de los sectores populares, lo que generó demandas y debates.

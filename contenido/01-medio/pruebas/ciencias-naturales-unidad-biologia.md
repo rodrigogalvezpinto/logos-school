@@ -35,48 +35,46 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 2","4":"OA 2","5":"OA 4","6":"OA
 ### Evolución: evidencias y selección natural (OA 2)
 
 **Pregunta 1.**
-¿Cuál de las siguientes opciones corresponde a un ejemplo de estructuras homólogas?
+¿Cuál de las siguientes opciones corresponde a un ejemplo de estructuras **análogas** (misma función, distinto origen)?
 
-a) Las alas de una mosca y las alas de un ave
-b) El caparazón de una tortuga y el de un escarabajo
-c) La aleta de un tiburón y la aleta de un delfín
-d) El brazo humano y el ala de un murciélago
+a) El brazo humano y la pata delantera de un perro
+b) La aleta de una ballena y el brazo humano
+c) El ala de un murciélago y la pata de un caballo
+d) El ala de una mariposa y el ala de un pájaro
 
 **Pregunta 2.** (Verdadero o falso)
-Según los postulados de la selección natural, los organismos "deciden" desarrollar
-las características que necesitan para adaptarse mejor a su ambiente.
+Los fósiles permiten observar cambios en la forma de los seres vivos a lo largo de millones de años, por lo que son una evidencia de la evolución.
 
 **Pregunta 3.** (Alternativas)
-¿Qué opción describe correctamente los postulados de la selección natural?
+En una isla, las semillas grandes y duras pasan a ser el único alimento tras una sequía. Después de varias generaciones, la mayoría de los pinzones tiene picos más grandes. ¿Qué explicación es correcta según la selección natural?
 
-a) Sobreproducción: más descendencia de la que el ambiente sostiene. Variación: diferencias heredables. Adaptación: algunas variaciones favorecen sobrevivir y reproducirse. Selección: esas variaciones se vuelven más frecuentes
-b) Sobreproducción: los individuos cambian a voluntad. Variación: todos son idénticos. Adaptación: el ambiente no influye. Selección: ocurre al azar sin relación con el ambiente
-c) Los organismos adquieren rasgos por el uso o desuso de sus órganos durante su vida y los heredan directamente a su descendencia, que nace adaptada al ambiente sin necesidad de selección
-d) Las especies no cambian con el tiempo: cada una fue creada con los rasgos que tiene hoy, y la variación entre individuos no se hereda ni influye en su supervivencia o reproducción
+a) Los pinzones con picos grandes, que ya existían por variación, sobrevivieron y se reprodujeron más, y heredaron ese rasgo a su descendencia
+b) Los pinzones decidieron agrandar su pico para comer las semillas
+c) El pico de cada pinzón creció con el uso y ese cambio se heredó
+d) La sequía hizo que todos los pinzones nacieran iguales
 
 **Pregunta 4.** (Alternativas — Aplicación)
-Una población de bacterias expuesta repetidamente a un antibiótico termina compuesta casi totalmente por bacterias resistentes. ¿Qué explicación es correcta?
+En un campo fumigado durante años con el mismo insecticida, la mayoría de los insectos actuales es resistente a él. ¿Qué explicación es correcta?
 
-a) El antibiótico enseñó a las bacterias a resistir: con cada dosis, las bacterias aprendieron a defenderse y transmitieron ese aprendizaje a sus descendientes
-b) Todas las bacterias decidieron volverse resistentes después de cada dosis, porque necesitaban sobrevivir, y con el tiempo lo lograron
-c) El antibiótico aumentó la cantidad de bacterias no resistentes, que se reprodujeron más rápido que las resistentes durante el tratamiento
-d) Ya existían algunas bacterias resistentes por variación; el antibiótico eliminó a las no resistentes y las resistentes se reprodujeron masivamente
+a) El insecticida enseñó a los insectos a resistir
+b) Todos los insectos decidieron volverse resistentes
+c) El insecticida aumentó la cantidad de insectos no resistentes
+d) Ya existían algunos insectos resistentes por variación; el insecticida eliminó a los no resistentes y los resistentes se reprodujeron
 
 ---
 
 ### Organización e interacciones de los seres vivos en ecosistemas de Chile (OA 4)
 
 **Pregunta 5.**
-Todos los pingüinos de Humboldt que habitan en un mismo tramo de costa chilena, en
-un momento determinado, constituyen:
+Los pingüinos, las algas, los peces, el agua de mar, las rocas y la luz de una caleta del norte de Chile, en conjunto con sus interacciones, constituyen:
 
 a) Un organismo
-b) Un ecosistema
+b) Una población
 c) Una comunidad
-d) Una población
+d) Un ecosistema
 
 **Pregunta 6.** (Alternativas — Clasificar)
-¿Qué clasificación de interacciones es correcta: piojo que se alimenta de la sangre de un ave; dos aves que se disputan un nido; cóndor que caza una liebre; bacterias intestinales que ayudan a digerir a cambio de nutrientes?
+¿Qué clasificación de interacciones es correcta: garrapata que se alimenta de la sangre de un perro; dos zorros que se disputan una presa; puma que caza un guanaco; abeja que poliniza una flor mientras obtiene su néctar?
 
 a) Mutualismo, depredación, competencia y parasitismo
 b) Parasitismo, competencia, depredación y mutualismo
@@ -84,102 +82,88 @@ c) Comensalismo, mutualismo, parasitismo y competencia
 d) Depredación, comensalismo, mutualismo y parasitismo
 
 **Pregunta 7.** (Alternativas — Análisis)
-¿Por qué la desaparición de una especie clave, como un polinizador, puede afectar a toda la comunidad?
+En un bosque, los cazadores eliminan a casi todos los zorros. Poco después aumentan mucho los roedores y disminuyen las semillas del bosque. ¿Qué explica este efecto?
 
-a) Porque solo afecta a la población del polinizador, que pierde su alimento, sin consecuencias para las plantas ni para otras especies
-b) Porque las comunidades no tienen interacciones: cada población vive de forma independiente, y la pérdida de una especie no altera a las demás
-c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones
-d) Porque las plantas no necesitan polinizadores para reproducirse, así que la desaparición de una especie clave no tiene efectos en la comunidad
+a) Los zorros comían semillas
+b) Las poblaciones no tienen interacciones entre sí
+c) Las especies están interconectadas: sin su depredador, los roedores aumentan y consumen más semillas, afectando a otras poblaciones
+d) Los roedores no comen semillas
 
 ---
 
 ### Ciclos biogeoquímicos, flujos de energía y bioacumulación (OA 6)
 
 **Pregunta 8.**
-¿Qué proceso biológico es principalmente responsable de incorporar el carbono
-atmosférico (CO₂) a la materia orgánica de los seres vivos?
+¿Qué proceso devuelve carbono a la atmósfera en forma de CO₂, tanto en animales como en plantas?
 
-a) La respiración celular
-b) La fotosíntesis
-c) La bioacumulación
-d) La fijación de nitrógeno
+a) La fotosíntesis
+b) La respiración celular
+c) La fijación de nitrógeno
+d) La transpiración
 
 **Pregunta 9.** (Verdadero o falso)
-En cada paso de un nivel trófico al siguiente, prácticamente toda la energía
-disponible se transfiere sin pérdidas significativas.
+En una pirámide trófica, los consumidores terciarios disponen de más energía que los productores.
 
 **Pregunta 10.** (Alternativas — Cálculo)
-Los productores almacenan 50.000 kcal y la eficiencia entre niveles es de 10%. ¿Cuánta energía llega a los consumidores secundarios?
+Los productores almacenan 80.000 kcal y la eficiencia entre niveles es de 10%. ¿Cuánta energía llega a los consumidores secundarios?
 
-a) 500 kcal
-b) 5.000 kcal
-c) 50 kcal
-d) 45.000 kcal
+a) 800 kcal
+b) 8.000 kcal
+c) 80 kcal
+d) 72.000 kcal
 
 **Pregunta 11.** (Alternativas — Análisis de evidencia)
-Aves rapaces presentan concentraciones muy altas de pesticidas aplicados en baja concentración en cultivos lejanos. ¿Qué fenómeno lo explica?
+En un lago se mide un insecticida: agua 0,00005 ppm; plancton 0,04 ppm; peces pequeños 0,5 ppm; peces grandes 2 ppm; aves que comen peces 25 ppm. ¿Qué fenómeno muestran estos datos?
 
-a) La fotosíntesis de las aves, que transforman los pesticidas en energía
-b) La resonancia acústica de los pesticidas en el cuerpo de los animales
-c) La competencia intraespecífica entre las aves por los mismos alimentos
-d) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico
+a) La fotosíntesis del plancton
+b) La competencia entre aves
+c) La disolución del insecticida en el agua
+d) La biomagnificación: la concentración aumenta al subir de nivel trófico
 
 ---
 
 ### Efectos de acciones humanas y fenómenos naturales en el equilibrio ambiental (OA 8)
 
 **Pregunta 12.**
-¿Cuál de los siguientes recursos naturales se clasifica como no renovable?
+¿Cuál de los siguientes recursos se clasifica como **renovable**, si se usa de forma sustentable?
 
-a) La energía solar
-b) El agua dulce
-c) El petróleo
-d) La madera de un bosque manejado sustentablemente
+a) El carbón
+b) El gas natural
+c) La pesca de merluza con cuotas y vedas
+d) El cobre
 
 **Pregunta 13.** (Varias correctas — Clasificar)
-¿Cuáles de estos son **acciones humanas** (no fenómenos naturales)? Marca **todas** las correctas.
+¿Cuáles de estos son **fenómenos naturales** (no acciones humanas)? Marca **todas** las correctas.
 
-a) Forestación
-b) Deforestación para cultivos
-c) Creación de un área silvestre protegida
-d) Sequía prolongada
-e) Erupción volcánica
+a) Terremoto
+b) Marejada
+c) Aluvión por lluvias intensas
+d) Construcción de una carretera
+e) Tala de un bosque
 
 **Pregunta 14.** (Alternativas — Evaluación)
-Frente a sequías prolongadas, se propone construir embalses para almacenar agua de la temporada de lluvias. ¿Qué evaluación es correcta?
+Frente a la escasez de agua en el norte, se propone instalar plantas desalinizadoras. ¿Qué evaluación es correcta?
 
-a) Solo tiene ventajas y ninguna limitación: un embalse asegura agua en cualquier circunstancia, sin costos relevantes ni efectos sobre los ecosistemas del río
-b) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río
-c) Solo tiene limitaciones y ninguna ventaja: los embalses no permiten almacenar agua por más de unos días, así que no sirven para enfrentar las sequías
-d) Garantiza agua aunque nunca llueva, porque los embalses generan agua propia a partir de la humedad del aire, sin depender de las lluvias
+a) Solo tiene ventajas, sin ningún costo ni efecto ambiental
+b) Ventaja: obtener agua potable del mar. Limitaciones: alto consumo de energía, costos elevados y descarga de salmuera que puede afectar el ecosistema marino
+c) Solo tiene limitaciones: el agua de mar no se puede potabilizar
+d) Garantiza agua sin necesidad de energía
 
 ---
 
 ## Pauta de corrección
 
-1. d) El brazo humano y el ala de un murciélago. Ambas estructuras comparten el
-   mismo patrón óseo de origen evolutivo común, aunque cumplan funciones distintas;
-   eso las hace homólogas, a diferencia de las estructuras análogas, que solo se
-   parecen por cumplir una función similar.
-2. Falso — la selección natural no implica una decisión ni un propósito: la
-   variación heredable ya existe en la población de forma azarosa, y el ambiente
-   selecciona qué variaciones favorecen la supervivencia y reproducción.
-3. a) Sobreproducción: más descendencia de la que el ambiente sostiene. Variación: diferencias heredables. Adaptación: algunas variaciones favorecen sobrevivir y reproducirse. Selección: esas variaciones se vuelven más frecuentes. En conjunto, estos postulados explican cómo el ambiente modifica la composición genética de una población a lo largo de generaciones, sin un mecanismo dirigido.
-4. d) Ya existían algunas bacterias resistentes por variación; el antibiótico eliminó a las no resistentes y las resistentes se reprodujeron masivamente. La resistencia a antibióticos es selección natural observable en tiempos cortos, y por eso no se debe interrumpir un tratamiento antes de tiempo.
-5. d) Una población. Corresponde a todos los individuos de la misma especie que
-   viven en un lugar y tiempo determinados; si se incluyeran otras especies que
-   conviven con ellos, hablaríamos de una comunidad.
+1. d) El ala de una mariposa y el ala de un pájaro. Cumplen la misma función (volar), pero tienen origen y estructura distintos; las demás son estructuras homólogas.
+2. Verdadero — el registro fósil muestra cambios graduales en los seres vivos a lo largo del tiempo.
+3. a) La variación ya existía; el ambiente favoreció a los pinzones de pico grande, que dejaron más descendencia.
+4. d) La resistencia es un ejemplo de selección natural: el insecticida no crea la resistencia, selecciona a quienes ya la tenían.
+5. d) Un ecosistema. Incluye a los seres vivos (comunidad), los factores sin vida (agua, rocas, luz) y sus interacciones.
 6. b) Parasitismo, competencia, depredación y mutualismo. Conviene preguntarse si cada especie se beneficia, se perjudica o no se ve afectada.
-7. c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones. Los niveles de organización biológica no son independientes entre sí.
-8. b) La fotosíntesis. Mediante la fotosíntesis, los productores capturan CO₂
-   atmosférico y lo transforman en materia orgánica, iniciando el paso del carbono
-   hacia la cadena trófica.
-9. Falso — solo alrededor del 10% de la energía de un nivel trófico se transfiere al
-   siguiente; el resto se disipa principalmente como calor, lo que explica la forma
-   piramidal de las pirámides tróficas.
-10. a) 500 kcal. Primarios: 50.000 × 0,10 = 5.000 kcal; secundarios: 5.000 × 0,10 = 500 kcal.
-11. d) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico. Cada depredador consume gran cantidad de biomasa de niveles inferiores y acumula el contaminante presente en sus presas.
-12. c) El petróleo. Se forma a lo largo de millones de años, por lo que su tasa de
-    renovación es prácticamente nula en comparación con su tasa de uso actual.
-13. a, b y c — Distinguir el origen de un cambio ambiental es clave para evaluar medidas de mitigación o adaptación.
-14. b) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río. Evaluar una medida de adaptación implica considerar beneficios, limitaciones y efectos secundarios.
+7. c) Las especies están interconectadas: la desaparición de un depredador altera a sus presas y, a través de ellas, a otras poblaciones.
+8. b) La respiración celular. Plantas y animales liberan CO₂ al obtener energía; la fotosíntesis, en cambio, lo absorbe.
+9. Falso — solo alrededor del 10% de la energía pasa de un nivel al siguiente: los productores son el nivel con más energía.
+10. a) 800 kcal. Primarios: 80.000 × 0,10 = 8.000 kcal; secundarios: 8.000 × 0,10 = 800 kcal.
+11. d) La biomagnificación: cada nivel trófico acumula el contaminante de todos los organismos que consume.
+12. c) La pesca de merluza con cuotas y vedas: los peces se reproducen y la población se recupera si se respetan los límites.
+13. a, b y c — Son fenómenos naturales; la construcción de carreteras y la tala son acciones humanas.
+14. b) Evaluar una medida implica considerar sus ventajas y también sus costos y efectos ambientales.

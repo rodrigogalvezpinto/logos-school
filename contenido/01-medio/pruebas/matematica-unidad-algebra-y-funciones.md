@@ -18,109 +18,109 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 ---
 
-**Pregunta 1 (alternativas).** Desarrolla: (x+4)².
-a) x² + 16
-b) x² + 4x + 16
-c) x² + 8x + 16
-d) 2x + 8
+**Pregunta 1 (alternativas).** Desarrolla: (x+3)².
+a) x² + 9
+b) x² + 3x + 9
+c) x² + 6x + 9
+d) 2x + 6
 
-**Pregunta 2 (verdadero o falso).** (x−7)² es igual a x² − 49.
+**Pregunta 2 (verdadero o falso).** (x+5)² es igual a x² + 25.
 
-**Pregunta 3 (calcular).** Desarrolla: (3x+2)(3x−2).
-a) 6x² − 4
-b) 3x² − 4
-c) 9x² − 2
-d) 9x² − 4
+**Pregunta 3 (calcular).** Desarrolla: (2x+5)(2x−5).
+a) 4x² − 10
+b) 2x² − 25
+c) 4x² − 5
+d) 4x² − 25
 
-**Pregunta 4 (Alternativas — binomio con término común).** Desarrolla: (x + 5)(x + 2).
+**Pregunta 4 (Alternativas — binomio con término común).** Desarrolla: (x + 4)(x + 3).
 
-a) x² + 7x + 10
-b) x² + 10x + 7
-c) x² + 7
+a) x² + 7x + 12
+b) x² + 12x + 7
+c) x² + 12
 d) 2x + 7
 
-**Pregunta 5 (Alternativas — diferencia de cuadrados).** Factoriza: 9x² − 25.
+**Pregunta 5 (Alternativas — diferencia de cuadrados).** Factoriza: 16x² − 9.
 
-a) (3x − 5)²
-b) (9x + 5)(x − 5)
-c) (3x + 25)(3x − 1)
-d) (3x + 5)(3x − 5)
+a) (4x − 3)²
+b) (16x + 3)(x − 3)
+c) (4x + 9)(4x − 1)
+d) (4x + 3)(4x − 3)
 
-**Pregunta 6 (Alternativas — área).** Un terreno cuadrado tiene lado (x + 6) m. ¿Qué trinomio representa su área?
+**Pregunta 6 (Alternativas — área).** Una plaza cuadrada tiene lado (x + 5) m. ¿Qué trinomio representa su área?
 
-a) x² + 36
-b) x² + 12x + 36
-c) x² + 6x + 36
-d) 4x + 24
+a) x² + 25
+b) x² + 10x + 25
+c) x² + 5x + 25
+d) 4x + 20
 
-**Pregunta 7 (Alternativas — completar el cuadrado).** ¿Qué número se suma a x² + 10x para obtener un cuadrado de binomio perfecto, y cuál es ese binomio?
+**Pregunta 7 (Alternativas — completar el cuadrado).** ¿Qué número se suma a x² + 14x para obtener un cuadrado de binomio perfecto, y cuál es ese binomio?
 
-a) 100; (x + 10)²
-b) 10; (x + 10)²
-c) 25; (x + 5)²
-d) 5; (x + 5)²
+a) 196; (x + 14)²
+b) 14; (x + 14)²
+c) 49; (x + 7)²
+d) 7; (x + 7)²
 
-**Pregunta 8 (alternativas).** ¿Cuál es la solución del sistema x+y=10; x−y=2?
-a) x=4, y=6
-b) x=6, y=4
-c) x=5, y=5
-d) x=8, y=2
+**Pregunta 8 (alternativas).** ¿Cuál es la solución del sistema x+y=12; x−y=4?
+a) x=4, y=8
+b) x=8, y=4
+c) x=6, y=6
+d) x=10, y=2
 
-**Pregunta 9 (verdadero o falso).** Un sistema cuyas dos rectas son paralelas y distintas tiene infinitas soluciones.
+**Pregunta 9 (verdadero o falso).** Un sistema cuyas dos rectas se cortan en un solo punto tiene infinitas soluciones.
 
-**Pregunta 10 (calcular).** Resuelve el sistema y=2x+1; y=−x+7, e indica el valor de x.
-a) x=4
-b) x=3
-c) x=2
-d) x=1
+**Pregunta 10 (calcular).** Resuelve el sistema y=3x−2; y=x+4, e indica el valor de x.
+a) x=1
+b) x=2
+c) x=3
+d) x=4
 
-**Pregunta 11 (Alternativas — método de sustitución).** Resuelve: x = 3y; 2x + y = 21.
+**Pregunta 11 (Alternativas — método de sustitución).** Resuelve: y = 2x; x + y = 15.
 
-a) x = 9, y = 3
-b) x = 3, y = 9
-c) x = 7, y = 7
-d) x = 6, y = 2
+a) x = 5, y = 10
+b) x = 10, y = 5
+c) x = 7, y = 8
+d) x = 3, y = 12
 
-**Pregunta 12 (Alternativas — método de reducción).** Resuelve: 4x + 3y = 18; 2x + 3y = 12.
+**Pregunta 12 (Alternativas — método de reducción).** Resuelve: 5x + 2y = 19; 3x + 2y = 13.
 
-a) x = 2, y = 3
-b) x = 6, y = −2
-c) x = 3, y = 6
+a) x = 1, y = 7
+b) x = 5, y = −3
+c) x = 2, y = 3
 d) x = 3, y = 2
 
-**Pregunta 13 (Alternativas — edades).** La suma de las edades de dos hermanos es 24 y su diferencia es 6. ¿Qué edades tienen?
+**Pregunta 13 (Alternativas — problema).** En un estacionamiento hay 30 vehículos entre autos y motos, y en total suman 100 ruedas. ¿Cuántos autos y cuántas motos hay?
 
-a) 18 y 6 años
-b) 15 y 9 años
-c) 12 y 12 años
-d) 16 y 10 años
+a) 25 autos y 5 motos
+b) 20 autos y 10 motos
+c) 15 autos y 15 motos
+d) 10 autos y 20 motos
 
 ---
 
 ## Pauta de respuestas
 
-**1. c) x² + 8x + 16.** (x+4)² = x² + 2(x)(4) + 4² = x² + 8x + 16.
+**1. c) x² + 6x + 9.** (x+3)² = x² + 2(x)(3) + 3² = x² + 6x + 9.
 
-**2. Falso.** (x−7)² es un cuadrado de binomio: x²−14x+49, no una diferencia de cuadrados.
+**2. Falso.** (x+5)² = x² + 10x + 25: no hay que olvidar el doble producto.
 
-**3. d) 9x² − 4.** (3x+2)(3x−2) = (3x)² − 2² = 9x² − 4.
+**3. d) 4x² − 25.** (2x+5)(2x−5) = (2x)² − 5² = 4x² − 25.
 
-**4. a) x² + 7x + 10.** El coeficiente de x es la suma de los términos no comunes (5 + 2) y el término libre, su producto (5 · 2).
+**4. a) x² + 7x + 12.** El coeficiente de x es la suma (4 + 3) y el término libre, el producto (4 · 3).
 
-**5. d) (3x + 5)(3x − 5).** "cuadrado menos cuadrado" se factoriza como suma por diferencia de las raíces: a = 3x, b = 5.
+**5. d) (4x + 3)(4x − 3).** Diferencia de cuadrados: a = 4x, b = 3.
 
-**6. b) x² + 12x + 36.** (x + 6)² = x² + 2·6x + 36; olvidar el doble producto (x² + 36) es un error frecuente.
+**6. b) x² + 10x + 25.** (x + 5)² = x² + 2·5x + 25; olvidar el doble producto (x² + 25) es un error frecuente.
 
-**7. c) 25; (x + 5)².** Se toma la mitad del coeficiente de x y se eleva al cuadrado: (10/2)² = 25.
+**7. c) 49; (x + 7)².** Se toma la mitad del coeficiente de x y se eleva al cuadrado: (14/2)² = 49.
 
-**8. b) x=6, y=4.** Sumando ambas ecuaciones se elimina y: 2x=12, x=6; reemplazando: y=4.
+**8. b) x=8, y=4.** Sumando ambas ecuaciones se elimina y: 2x = 16, x = 8; reemplazando: y = 4.
 
-**9. Falso.** Dos rectas paralelas y distintas nunca se cortan, por lo tanto el sistema no tiene solución.
+**9. Falso.** Si las rectas se cortan en un solo punto, el sistema tiene una única solución.
 
-**10. c) x=2.** Igualando: 2x+1=−x+7; 3x=6; x=2.
+**10. c) x=3.** Igualando: 3x − 2 = x + 4; 2x = 6; x = 3.
 
-**11. a) x = 9, y = 3.** Se reemplaza x = 3y: 6y + y = 21, y = 3; x = 9.
+**11. a) x = 5, y = 10.** Se reemplaza y = 2x: x + 2x = 15, x = 5; y = 10.
 
-**12. d) x = 3, y = 2.** Restando las ecuaciones se elimina y: 2x = 6, x = 3; luego 6 + 3y = 12, y = 2.
+**12. d) x = 3, y = 2.** Restando las ecuaciones se elimina y: 2x = 6, x = 3; luego 9 + 2y = 13, y = 2.
 
-**13. b) 15 y 9 años.** X + y = 24 y x − y = 6; sumando, 2x = 30, x = 15 e y = 9.
+**13. b) 20 autos y 10 motos.** a + m = 30 y 4a + 2m = 100; restando el doble de la primera: 2a = 40, a = 20 y m = 10.
