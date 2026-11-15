@@ -35,121 +35,115 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 1","6":"OA
 ### Operatoria y propiedades de raíces (OA 1)
 
 **Pregunta 1.**
-Simplifica √200.
+Simplifica √72.
 
-a) 2√100
-b) 20√5
-c) 10√2
-d) 100√2
+a) 2√36
+b) 36√2
+c) 6√2
+d) 12√2
 
 **Pregunta 2.** (Verdadero o falso)
-√8 × √2 = √16 = 4.
+√3 × √12 = √36 = 6.
 
 **Pregunta 3.**
-Simplifica: √5 × √20.
+Simplifica: √2 × √50.
 
 a) 100
-b) 25
-c) √25
+b) 52
+c) √52
 d) 10
 
 **Pregunta 4.** (Alternativas — reducir términos semejantes)
-Reduce: √75 − √12.
+Reduce: √50 − √8.
 
-a) 7√3
-b) √63
-c) 3√3
+a) 7√2
+b) √42
+c) 3√2
 d) 3
 
 **Pregunta 5.** (Alternativas — terreno cuadrado)
-Un terreno cuadrado tiene un área de 245 m². ¿Cuánto mide su lado, como raíz simplificada y aproximadamente?
+Una sala cuadrada tiene un área de 180 m². ¿Cuánto mide su lado, como raíz simplificada y aproximadamente?
 
-a) 5√7 m ≈ 13,23 m
-b) 49√5 m ≈ 109,6 m
-c) √245 m ≈ 122,5 m
-d) 7√5 m ≈ 15,65 m
+a) 5√6 m ≈ 12,25 m
+b) 36√5 m ≈ 80,5 m
+c) √180 m ≈ 90 m
+d) 6√5 m ≈ 13,42 m
 
 **Pregunta 6.** (Alternativas — pH)
-Si pH = −log[H⁺] y una muestra de agua tiene [H⁺] = 10⁻⁷, ¿cuál es su pH?
+Si pH = −log[H⁺] y el jugo de un limón tiene [H⁺] = 10⁻³, ¿cuál es su pH?
 
-a) −7
-b) 7
-c) 10⁷
-d) 0,7
+a) −3
+b) 3
+c) 10³
+d) 0,3
 
 ---
 
 ### Relaciones entre potencias, raíces y logaritmos (OA 2)
 
 **Pregunta 7.**
-¿Cuál es el valor de log₄(64)?
+¿Cuál es el valor de log₃(81)?
 
-a) 16
-b) 4
-c) 3
-d) 2
+a) 27
+b) 3
+c) 4
+d) 9
 
 **Pregunta 8.** (Verdadero o falso)
-9^(1/2) es igual a √9.
+8^(1/3) es igual a ∛8 = 2.
 
 **Pregunta 9.**
-Expresa ⁵√(7³) como una potencia de exponente racional.
+Expresa ⁴√(5³) como una potencia de exponente racional.
 
-a) 7^(3/5)
-b) 7^(5/3)
-c) 7^15
-d) 7^8
+a) 5^(3/4)
+b) 5^(4/3)
+c) 5^12
+d) 5^7
 
 **Pregunta 10.** (Alternativas — potencia a raíz)
-¿Cuál es la forma de raíz de 10^(2/5)?
+¿Cuál es la forma de raíz de 3^(2/7)?
 
-a) √(10⁵)
-b) ²√(10⁵)
-c) ⁵√(10²) = ⁵√100
-d) 10 · ⁵√2
+a) √(3⁷)
+b) ²√(3⁷)
+c) ⁷√(3²) = ⁷√9
+d) 3 · ⁷√2
 
-**Pregunta 11.** (Alternativas — escala de Richter)
-Con M = log₁₀(A/A₀), si A/A₀ = 1.000.000, ¿cuál es la magnitud?
+**Pregunta 11.** (Alternativas — decibeles)
+El nivel de un sonido es L = 10 · log₁₀(I/I₀) decibeles. Si I/I₀ = 100.000.000 (10⁸), ¿cuál es el nivel del sonido?
 
-a) 6
-b) 10
-c) 60
-d) 1.000.000
+a) 80 dB
+b) 8 dB
+c) 10⁸ dB
+d) 18 dB
 
 **Pregunta 12.** (Alternativas — convertir registro)
-Si log₁₀(x) = 3, ¿cuánto vale x?
+Si log₁₀(x) = −2, ¿cuánto vale x?
 
-a) 0,001
-b) 3
-c) 30
-d) 1.000
+a) −20
+b) −2
+c) 100
+d) 0,01
 
 **Pregunta 13.** (Alternativas — propiedades combinadas)
-Si log₂(5) ≈ 2,32, ¿cuánto vale aproximadamente log₂(20)?
+Si log₃(2) ≈ 0,63, ¿cuánto vale aproximadamente log₃(18)?
 
-a) 9,28
-b) 4,32
-c) 46,4
-d) 2,32
-
----
+a) 5,67
+b) 2,63
+c) 11,34
+d) 0,63
 
 ## Pauta de corrección
 
-1. c) 10√2. 200 = 100×2, y 100 es un cuadrado perfecto (10²), por lo tanto
-   √200 = √100×√2 = 10√2.
-2. Verdadero — al multiplicar raíces de igual índice, se multiplican las cantidades
-   subradicales: √8×√2 = √16 = 4.
-3. d) 10. √5×√20 = √(5×20) = √100 = 10.
-4. c) 3√3. √75 = 5√3 y √12 = 2√3; solo se restan raíces semejantes: 5√3 − 2√3 = 3√3 (√63 resulta de restar los radicandos, un error frecuente).
-5. d) 7√5 m ≈ 15,65 m. 245 = 49 · 5, así que √245 = 7√5 ≈ 15,65 m.
-6. b) 7. −log(10⁻⁷) = −(−7) = 7, el pH del agua neutra.
-7. c) 3. log₄(64)=3 porque 4³=64.
-8. Verdadero — por definición, un exponente 1/2 equivale exactamente a la raíz cuadrada:
-   a^(1/2) = √a.
-9. a) 7^(3/5). El índice de la raíz (5) pasa al denominador del exponente, y la potencia
-   de la cantidad subradical (3) pasa al numerador.
-10. c) ⁵√(10²) = ⁵√100. Índice 5 (denominador) y potencia 2 (numerador).
-11. a) 6. Log₁₀(10⁶) = 6.
-12. d) 1.000. Por definición, 10³ = x.
-13. b) 4,32. Log₂(20) = log₂(4 · 5) = log₂(4) + log₂(5) = 2 + 2,32.
+1. c) 6√2. 72 = 36 × 2, y 36 es un cuadrado perfecto (6²): √72 = √36 × √2 = 6√2.
+2. Verdadero — al multiplicar raíces de igual índice, se multiplican las cantidades subradicales: √3 × √12 = √36 = 6.
+3. d) 10. √2 × √50 = √100 = 10.
+4. c) 3√2. √50 = 5√2 y √8 = 2√2; solo se restan raíces semejantes: 5√2 − 2√2 = 3√2 (√42 resulta de restar las cantidades subradicales, lo que es incorrecto).
+5. d) 6√5 m ≈ 13,42 m. 180 = 36 · 5, así que √180 = 6√5 ≈ 13,42 m.
+6. b) 3. −log(10⁻³) = −(−3) = 3: el jugo de limón es ácido (pH menor que 7).
+7. c) 4. log₃(81) = 4 porque 3⁴ = 81.
+8. Verdadero — un exponente 1/3 equivale a la raíz cúbica: 8^(1/3) = ∛8 = 2.
+9. a) 5^(3/4). El índice de la raíz (4) pasa al denominador y la potencia (3) al numerador.
+10. c) ⁷√(3²) = ⁷√9. Índice 7 (denominador) y potencia 2 (numerador).
+11. a) 80 dB. log₁₀(10⁸) = 8 y 10 · 8 = 80.
+12. d) 0,01. log₁₀(x) = −2 significa 10⁻² = x = 0,01.
+13. b) 2,63. log₃(18) = log₃(9 · 2) = log₃(9) + log₃(2) = 2 + 0,63 = 2,63.

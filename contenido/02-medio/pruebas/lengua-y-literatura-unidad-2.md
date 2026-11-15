@@ -22,139 +22,131 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 ---
 
-## Texto 1: columna de opinión "¿Aprender con IA o dejar de aprender?"
+## Texto 1: columna de opinión "¿Un celular antes de aprender a hablar?"
 
-> Basta con entrar a cualquier sala de profesores para escuchar la misma queja: los y las estudiantes ya no piensan, solo copian y pegan lo que les entrega una inteligencia artificial en cinco segundos. Es, sin duda, uno de los síntomas más alarmantes de la educación actual, y quienes seguimos permitiendo el uso libre de estas herramientas en la sala de clases somos, en el fondo, cómplices de una generación que está perdiendo la capacidad de pensar por sí misma.
+*(Lee la columna y responde las preguntas 1 a 5.)*
+
+> Basta con subir a cualquier micro para verlo: niños de dos o tres años con un celular en la mano, en silencio, mientras los adultos miran el suyo. Es, sin duda, una de las señales más preocupantes de nuestro tiempo.
 >
-> Pensemos en lo que está en juego: si hoy les entregamos la respuesta hecha para un ensayo de Lengua y Literatura, mañana les vamos a entregar la respuesta hecha para decidir en quién votar, o para resolver un conflicto con un amigo. Una vez que una generación completa se acostumbra a no esforzarse, ya no hay vuelta atrás: perdemos, para siempre, la capacidad de razonar de forma independiente.
+> Pensemos en lo que está en juego: si hoy un niño no aprende a esperar sin una pantalla, mañana no sabrá concentrarse en clases, después no podrá leer un libro completo y, finalmente, será un adulto incapaz de sostener una conversación. Quienes entregan un celular a un niño pequeño para que no moleste son cómplices de este deterioro.
 >
-> Es cierto que algunos defienden la inteligencia artificial como una herramienta más, comparable a la calculadora o al corrector ortográfico. Pero esa comparación es ingenua: una calculadora no piensa por ti, solo calcula; una inteligencia artificial, en cambio, puede escribir un argumento completo, con ideas y conclusiones, sin que el estudiante haya razonado ni una sola de esas ideas.
+> Es cierto que algunos defienden las aplicaciones educativas. Pero esa defensa es ingenua: una aplicación no reemplaza un cuento leído en voz alta ni un juego en la plaza. Una pantalla puede estar robándole la infancia a todo un país.
 >
-> Por eso, aunque probablemente no sea realista prohibir por completo el uso de estas herramientas fuera del colegio, sí deberíamos exigir, dentro de la sala de clases, trabajos que la inteligencia artificial no pueda resolver por sí sola: análisis orales, procesos de escritura supervisados, discusiones en vivo. Lo que no podemos permitir es seguir mirando para el lado mientras una herramienta le hace el trabajo de pensar a toda una generación.
+> Por eso, aunque probablemente no sea realista prohibir los celulares a los niños, sí deberíamos acordar, en cada familia, tiempos y espacios libres de pantallas.
 
-### Preguntas 1 a 5 (OA N°9)
+**1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna?
 
-**1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "¿Aprender con IA o dejar de aprender?"?
+a) Los celulares deben prohibirse por ley a todas las personas
+b) Las aplicaciones educativas son la mejor forma de aprender
+c) Los adultos exageran el problema de las pantallas
+d) El uso temprano y sin límites de pantallas perjudica el desarrollo de los niños, por lo que las familias deberían acordar tiempos y espacios sin ellas
 
-a) La inteligencia artificial debe prohibirse completamente, dentro y fuera del colegio, porque cualquier uso de ella impide que los estudiantes aprendan a pensar
-b) La inteligencia artificial es idéntica a una calculadora y no representa ningún riesgo, por lo que los colegios deberían permitir su uso libre en todas las tareas
-c) Los profesores exageran el problema del uso de la inteligencia artificial en la educación, porque los estudiantes siempre han buscado formas de evitar el trabajo
-d) El uso libre de la inteligencia artificial en la sala de clases debilita el pensamiento independiente, por lo que se deben exigir trabajos que esta no pueda resolver por sí sola
+**2. (Verdadero o Falso)** El autor presenta la misma certeza al describir el problema que al proponer si es realista prohibir los celulares a los niños.
 
-**2. (Verdadero o Falso)** El autor presenta la misma certeza al describir el problema del uso de la IA que al proponer si es realista prohibirla fuera del colegio.
-
-**3. (Alternativas)** ¿Qué falla de argumentación hay en el segundo párrafo, que pasa de copiar una tarea con IA a perder para siempre la capacidad de razonar y tomar malas decisiones de vida?
+**3. (Alternativas)** ¿Qué falla de argumentación hay en el segundo párrafo, que pasa de no saber esperar sin una pantalla a ser un adulto incapaz de conversar?
 
 a) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia que las sustente
-b) Un argumento de autoridad bien fundamentado: cita estudios recientes sobre la IA que prueban cada consecuencia
-c) Una analogía válida entre la IA y otras herramientas escolares
-d) No hay ninguna falla: cada consecuencia se sigue lógicamente de la anterior, con evidencia suficiente
+b) Un argumento de autoridad bien fundamentado
+c) Una analogía válida
+d) No hay ninguna falla
 
-**4. (Alternativas — Aplicación)** ¿Qué recurso emocional usa el autor al llamar "cómplices" a quienes permiten el uso libre de la IA, y qué busca?
+**4. (Alternativas — Aplicación)** ¿Qué recurso emocional usa el autor al llamar "cómplices" a quienes entregan un celular a un niño pequeño, y qué busca?
 
-a) Usa un dato estadístico para informar objetivamente al lector sobre cuántos estudiantes usan IA
-b) Usa el humor para relajar al lector y hacer más liviana la discusión sobre la IA en clases
-c) Cita a un experto en educación para dar autoridad a su postura frente a quienes la permiten
+a) Usa un dato estadístico para informar objetivamente
+b) Usa el humor para relajar al lector
+c) Cita a un experto para dar autoridad a su postura
 d) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento en el lector
 
-**5. (Alternativas)** ¿Qué figura retórica se refuerza con la exageración "a toda una generación", en la expresión "una herramienta le hace el trabajo de pensar a toda una generación"?
+**5. (Alternativas)** ¿Qué figura retórica hay en la expresión "una pantalla puede estar robándole la infancia a todo un país"?
 
-a) Metáfora
+a) Comparación literal y precisa
 b) Pregunta retórica
 c) Hipérbole
-d) Comparación literal y precisa
+d) Enumeración
 
 ---
 
-## Texto 2: "Corte de agua potable en la comuna"
+## Texto 2: "Cambio de recorrido de buses"
 
-**Texto A — Comunicado oficial de la empresa sanitaria "AguaViva"**
+*(Lee los textos A y B y responde las preguntas 6 a 10.)*
 
-> Informamos a nuestros clientes que este miércoles se realizará un corte programado del suministro de agua potable en el sector norte de la comuna, entre las 09:00 y las 14:00 horas, debido a labores de mantención en la red de distribución. Recomendamos almacenar agua con anticipación. Pedimos disculpas por las molestias.
+> **Texto A — Comunicado de la empresa de buses "RutaSur":** Informamos a nuestros usuarios que, desde el lunes, el recorrido 214 dejará de pasar por la avenida Los Aromos para mejorar los tiempos de viaje. Invitamos a los vecinos del sector a usar el paradero de la calle Las Rosas, ubicado a pocas cuadras. *(El comunicado incluye una infografía verde con un mapa del nuevo trazado y el eslogan "Llegamos más rápido".)*
+>
+> **Texto B — Publicación en un grupo vecinal:** "¿'A pocas cuadras'? Son nueve cuadras en subida, y por aquí viven muchos adultos mayores. Nadie nos consultó. Esta semana mi vecina de 80 años tuvo que tomar un taxi para ir al consultorio." *(La publicación incluye fotos con fecha y hora del paradero vacío y de la subida hasta Las Rosas.)*
 
-*(El comunicado incluye una infografía en tonos azules, con el ícono de una llave de agua y un reloj, y el eslogan "Trabajando por un mejor servicio" en la parte inferior.)*
+**6. (Alternativas)** ¿Qué evidencia entrega el Texto B que el Texto A no menciona?
 
-**Texto B — Publicación en un grupo vecinal de WhatsApp**
+a) El número del recorrido que cambia
+b) El día en que comienza el cambio
+c) El nombre de la empresa de buses
+d) Que el nuevo paradero está a nueve cuadras en subida y que afecta a adultos mayores del sector
 
-> "Van 4 cortes en lo que va del mes y esta vez ni siquiera avisaron con tiempo: nos enteramos anoche a las 22:00 para el corte de hoy. Mi abuela quedó sin agua para tomar sus remedios. 'Mantención', dicen, pero nunca explican qué mantención es esta que nunca termina. Adjunto captura de los últimos avisos, todos mandados la noche anterior no más."
-
-*(La publicación incluye cuatro capturas de pantalla, con fecha y hora, mostrando que los avisos anteriores también llegaron la noche previa a cada corte.)*
-
-### Preguntas 6 a 10 (OA N°10)
-
-**6. (Alternativas)** ¿Qué evidencia entrega el Texto B (la publicación vecinal) que el Texto A (el comunicado oficial) no menciona?
-
-a) El horario exacto en que comenzará y terminará el corte de agua en el sector
-b) La recomendación de almacenar agua con anticipación antes de que comience el corte
-c) El nombre de la empresa sanitaria responsable de los trabajos de mantención
-d) Que este sería el cuarto corte del mes y que los avisos llegaron la noche anterior a cada corte
-
-**7. (Verdadero o Falso)** El uso del presente de indicativo en primera persona plural en el Texto A ("Recomendamos almacenar agua con anticipación") tiene el mismo tono autoritario y directo que una orden estricta.
+**7. (Verdadero o Falso)** La expresión del Texto A "Invitamos a los vecinos del sector a usar el paradero..." tiene el mismo tono autoritario y directo que una orden estricta.
 
 **8. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
-a) Ambos textos usan solo palabras, sin recursos visuales, y por eso dependen únicamente de sus argumentos para convencer a los vecinos
-b) La infografía del Texto B muestra desorden y descontrol, mientras que las capturas de pantalla del Texto A transmiten control técnico y eficiencia
-c) La infografía azul con reloj del Texto A transmite orden y control técnico; las capturas con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar
-d) Ninguno produce algún efecto en la audiencia: las imágenes son decorativas y no influyen en cómo los vecinos interpretan la información
+a) Ambos textos usan solo palabras
+b) Las fotos del Texto A muestran desorden; la infografía del Texto B transmite eficiencia
+c) La infografía verde con mapa del Texto A transmite orden y eficiencia; las fotos con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar
+d) Las imágenes son decorativas y no influyen en la interpretación
 
-**9. (Alternativas — Aplicación)** ¿Por qué la ausencia, en el Texto A, del historial de cortes recientes es una omisión relevante?
+**9. (Alternativas — Aplicación)** ¿Por qué es relevante que el Texto A diga "a pocas cuadras" sin precisar la distancia ni la pendiente?
 
-a) Porque el historial de cortes no tiene ninguna importancia para los vecinos, que solo necesitan saber el horario
-b) No es una omisión: el Texto A sí menciona en detalle todos los cortes de agua ocurridos durante el mes
-c) Porque impide evaluar si es un evento aislado o un problema recurrente, y favorece la imagen de eficiencia que busca el comunicado
-d) Porque los cortes de agua nunca se repiten en un mismo sector, así que el historial no aporta información útil
+a) Porque la distancia no le importa a nadie
+b) Porque el Texto A sí precisa la distancia exacta
+c) Porque oculta una dificultad real para ciertos usuarios y favorece la imagen de mejora que busca el comunicado
+d) Porque los buses nunca cambian sus recorridos
 
-**10. (Alternativas)** ¿Qué evidencia muestra principalmente la comparación entre el Texto A y el Texto B sobre el corte de agua?
+**10. (Alternativas)** ¿Qué muestra principalmente la comparación entre el Texto A y el Texto B?
 
-a) Que la empresa sanitaria miente completamente sobre la mantención, porque los vecinos demuestran con capturas que nunca hubo trabajos en la red
+a) Que la empresa miente completamente sobre el cambio de recorrido
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales, porque las escriben quienes viven el problema todos los días y no tienen intereses que proteger
-d) Que los cortes de agua nunca están justificados, aunque la empresa informe con anticipación que se deben a trabajos de mantención en la red
+c) Que las publicaciones vecinales siempre son más precisas
+d) Que los cambios de recorrido nunca están justificados
 
 ---
 
-## Texto 3: ensayo modelo "¿Hay que elegir entre el progreso y la memoria?"
+## Texto 3: ensayo modelo "¿Cambiar o conservar?"
 
-> Cuando una casa antigua se vende para construir un edificio, solemos hablar como si solo hubiera dos opciones: conservarlo todo tal como está, o dejar que desaparezca por completo. Sostengo que esta forma de plantear el problema es falsa: el progreso y la memoria pueden convivir si una comunidad decide, con conciencia, qué elementos vale la pena conservar y cuáles puede dejar transformarse.
+*(Lee el ensayo modelo y responde las preguntas 11 a 15.)*
+
+> Cuando un almacén de barrio cierra o una feria cambia de lugar, solemos hablar como si solo hubiera dos opciones: conservarlo todo tal como está o dejar que desaparezca. Sostengo que esta forma de plantear el problema es falsa: la tradición y el cambio pueden convivir si se decide con conciencia qué conservar y qué transformar.
 >
-> En "Las llaves de la casa", el conflicto entre Nicolás y su madre no se resuelve con una ruptura definitiva: Nicolás aclara que "no te estoy pidiendo que dejes de quererla, mamá... te estoy pidiendo que pienses en vivir. No en el ladrillo", lo que sugiere que es posible priorizar el bienestar de una persona sin exigirle que renuncie por completo a lo que la casa representa. De forma similar, en "La luz en la ventana", la costumbre chilota del Día de las Ánimas no desaparece al trasladarse a Santiago: se adapta a un nuevo contexto urbano sin perder su sentido original, demostrando que una tradición puede sobrevivir a un cambio de lugar o de época.
+> En la obra teatral "La campanita del almacén", el conflicto entre don Hernán y su hija no termina en una ruptura: Carla le dice "No te pido que dejes el barrio, papá. Te pido que te cuides", lo que muestra que se puede cerrar un negocio sin cortar los vínculos que le daban sentido.
 >
-> Alguien podría argumentar que este tipo de conciliación es un ideal poco realista, y que, en la práctica, decisiones económicas urgentes —como el tratamiento de salud de Doña Rosa— terminan imponiéndose sobre cualquier consideración simbólica. Es un punto válido: no siempre hay tiempo ni recursos para negociar con calma. Pero justamente por eso, instituciones como el Consejo de Monumentos Nacionales existen para anticipar este tipo de tensiones, estableciendo protecciones para ciertos inmuebles antes de que la urgencia económica obligue a elegir entre un extremo y otro.
+> Alguien podría argumentar que esta conciliación es poco realista y que, en la práctica, las razones económicas o de salud terminan imponiéndose. Es un argumento atendible, pero existen programas públicos de apoyo a los almacenes de barrio que ayudan a modernizarlos sin que pierdan su carácter, lo que demuestra que hay caminos intermedios.
 >
-> En conclusión, plantear el debate entre progreso y memoria como una elección excluyente simplifica una tensión que, en la práctica, admite matices: tanto la ficción como la política pública muestran que es posible transformar un lugar o una costumbre sin borrar por completo lo que representaba antes, si existe la voluntad —familiar o institucional— de decidir con cuidado qué se conserva.
+> En conclusión, plantear el debate entre tradición y cambio como una elección excluyente simplifica una tensión que admite matices.
 
-### Preguntas 11 a 15 (OA N°14)
+**11. (Alternativas)** ¿Cuál es la hipótesis principal del ensayo "¿Cambiar o conservar?"?
 
-**11. (Alternativas)** ¿Cuál es la hipótesis principal del ensayo "¿Hay que elegir entre el progreso y la memoria?"?
+a) La tradición y el cambio son opuestos y siempre hay que elegir uno
+b) La tradición y el cambio pueden convivir si se decide con conciencia qué conservar y qué transformar
+c) Ningún almacén de barrio debería cerrar jamás
+d) Las tradiciones desaparecen inevitablemente
 
-a) El progreso y la memoria son fuerzas opuestas y hay que elegir siempre a favor de una de ellas
-b) El progreso y la memoria pueden convivir si se decide con conciencia qué conservar y qué dejar transformarse
-c) Ninguna casa antigua debería venderse jamás, sin importar las necesidades de la familia ni sus circunstancias
-d) Las tradiciones culturales desaparecen inevitablemente al migrar a la ciudad, por lo que conservarlas no tiene sentido
+**12. (Verdadero o Falso)** En el ensayo modelo, el contraargumento sobre las razones económicas o de salud se ignora por completo, sin ser mencionado ni respondido.
 
-**12. (Verdadero o Falso)** En el ensayo modelo, el contraargumento sobre la urgencia económica se ignora por completo, sin ser mencionado ni respondido.
+**13. (Alternativas)** ¿Qué función cumple en el ensayo la referencia a los programas públicos de apoyo a los almacenes de barrio?
 
-**13. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia al Consejo de Monumentos Nacionales?
+a) Es evidencia no literaria que muestra caminos intermedios reales entre conservar y cambiar, reforzando la hipótesis
+b) Es un dato decorativo sin relación con la hipótesis
+c) Contradice la hipótesis del ensayo
+d) Sirve para resumir la obra teatral
 
-a) Es evidencia no literaria que muestra mecanismos reales para compatibilizar renovación urbana y conservación, reforzando que no hay que elegir entre progreso y memoria
-b) Es un dato decorativo, sin relación con la hipótesis, que solo hace más extenso el ensayo modelo y le da un tono técnico que no necesita
-c) Contradice la hipótesis del ensayo, porque muestra que el Estado siempre impide renovar las ciudades para conservar los edificios antiguos
-d) Sirve para resumir una obra literaria leída en clases sobre una familia que debe vender su casa, antes de pasar a la conclusión del ensayo
+**14. (Alternativas — Aplicación)** ¿Por qué la cita de Carla ("No te pido que dejes el barrio, papá. Te pido que te cuides") sustenta la hipótesis del ensayo?
 
-**14. (Alternativas — Aplicación)** ¿Por qué la cita de Nicolás ("no te estoy pidiendo que dejes de quererla, mamá... te estoy pidiendo que pienses en vivir. No en el ladrillo") sustenta la hipótesis del ensayo?
-
-a) Porque demuestra que hay que vender todas las casas antiguas para que las familias puedan vivir mejor
-b) Porque prueba que la memoria familiar no tiene ningún valor frente a las necesidades prácticas
-c) Porque es una cita decorativa, sin relación con la hipótesis, que solo hace más emotivo el ensayo
-d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar el vínculo afectivo con la memoria familiar
+a) Porque demuestra que hay que cerrar todos los almacenes
+b) Porque prueba que los vínculos no tienen ningún valor
+c) Porque es una cita decorativa
+d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar los vínculos que daban sentido al lugar
 
 **15. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a incorporar recursos variados en un ensayo persuasivo, sin perder la coherencia temática?
 
-a) Insertar una anécdota personal sin relación alguna con la hipótesis del ensayo, solo para hacerlo más entretenido
-b) Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento
-c) Agregar imágenes decorativas que no aportan información relevante al argumento
-d) Usar únicamente citas literarias, evitando cualquier evidencia no literaria
+a) Insertar una anécdota sin relación con la hipótesis, solo para entretener
+b) Incluir una anécdota, cita o dato que refuerce directamente la hipótesis y se conecte con el resto del argumento
+c) Agregar imágenes decorativas que no aportan información
+d) Usar únicamente citas literarias
 
 ---
 
@@ -165,16 +157,15 @@ d) Usar únicamente citas literarias, evitando cualquier evidencia no literaria
 1. d
 2. Falso
 3. a) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia que las sustente. Identificar una falla exige explicar por qué el razonamiento no está suficientemente sustentado.
-4. d) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento en el lector. Los recursos emocionales buscan involucrar afectivamente al lector más allá de la lógica.
+4. d) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento. Los recursos emocionales buscan involucrar afectivamente al lector más allá de la lógica.
 5. c
 6. d
 7. Falso
-8. c) La infografía azul con reloj del Texto A transmite orden y control técnico; las capturas con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar. Comparar recursos no lingüísticos implica identificar qué sensación de credibilidad buscan generar.
-9. c) Porque impide evaluar si es un evento aislado o un problema recurrente, y favorece la imagen de eficiencia que busca el comunicado. Identificar una evidencia omitida exige preguntarse qué información cambiaría la interpretación.
+8. c) Comparar recursos no lingüísticos implica identificar qué sensación de credibilidad o control produce cada uno.
+9. c) Identificar una omisión exige preguntarse qué información cambiaría la interpretación.
 10. b
 11. b
 12. Falso
-13. a) Es evidencia no literaria que muestra mecanismos reales para compatibilizar renovación urbana y conservación, reforzando que no hay que elegir entre progreso y memoria. Una evidencia no literaria debe conectarse explícitamente con la hipótesis.
-14. d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar el vínculo afectivo con la memoria familiar. Una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
+13. a) Una evidencia no literaria debe conectarse explícitamente con la hipótesis.
+14. d) Una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
 15. b
-

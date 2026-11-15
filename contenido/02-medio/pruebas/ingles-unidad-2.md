@@ -22,100 +22,89 @@ gramaticales avanzadas de este año, no solo el vocabulario.
 
 ---
 
-1. *(Alternativas — Completar)* Complete: *"___ my opinion, technology has changed the way teenagers communicate."*
+1. *(Alternativas — Completar)* Complete: *"___ my opinion, schools should teach students how to cook."*
 
 a) In
 b) At
 c) On
 d) For
 
-2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada
-   sobre un problema global?
-   a) Pollution is bad for everybody, and many cities around the world are polluted.
-   b) There is a bus stop near here, and the buses pass every ten minutes in the morning.
-   c) Cars are very common in cities, and many families have two or three cars at home.
-   d) I'd rather use public transport than drive, because it reduces air
-      pollution.
+2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada sobre un problema global?
+   a) Plastic bags are made from petroleum.
+   b) The supermarket is open until 10 p.m.
+   c) Many people go shopping on Saturdays.
+   d) I'd rather use reusable bags than plastic ones, because plastic takes hundreds of years to break down.
 
-3. *(Alternativas — Completar)* Complete: *"Yesterday, in Technology class, we ___ about renewable energy. I ___ it very useful for the future."* (learn / find, simple past)
+3. *(Alternativas — Completar)* Complete: *"Last Monday, in Science class, we ___ an experiment with plants. I ___ it really interesting."* (do / think, simple past)
 
-a) learn / find
-b) learned / finded
-c) learning / found
-d) learned / found
+a) do / think
+b) did / thinked
+c) doing / thought
+d) did / thought
 
-4. *(Verdadero o falso)* La oración *"For example, in South Korea many
-   people use their phones for almost everything, from paying for food to
-   taking public transport"* es un buen recurso para ilustrar una idea sobre
-   otra cultura.
+4. *(Verdadero o falso)* La oración *"For instance, in Japan many students clean their own classrooms at the end of the day"* es un buen recurso para ilustrar una idea sobre otra cultura.
 
-5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global leader I admire is ___. I believe ___ because ___."* logically?
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One person I admire is ___. I believe ___ because ___."* logically?
 
-a) Malala Yousafzai / she is a role model for millions / I like pizza and pasta
-b) because / Malala Yousafzai / she is a role model for girls' education worldwide
-c) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide
-d) a role model / Malala Yousafzai / she has fought for girls' education worldwide
+a) Gabriela Mistral / she was a great writer / I like ice cream
+b) because / Gabriela Mistral / she was a great teacher
+c) Gabriela Mistral / she was an inspiring writer and teacher / she won the Nobel Prize and worked for children's education
+d) a writer / Gabriela Mistral / she won the Nobel Prize
 
-6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a wind farm: *"This picture shows ___. In my opinion, ___ unless ___."*
+6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a city with many bicycles: *"This picture shows ___. In my opinion, ___ unless ___."*
 
-a) a wind farm generating clean energy / this is terrible / it is clean and renewable
-b) a coal mine producing energy / this is a great solution / it pollutes the air too much
-c) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much
-d) a wind farm / unless / in my opinion it is a great solution for clean energy
+a) a city full of bicycles / this is terrible / it reduces pollution
+b) a traffic jam of cars / this is a great solution / people use bikes
+c) a city full of bicycles / this is a great solution / there are no safe bike lanes
+d) a city / unless / in my opinion bikes are great
 
-7. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
-   acerca de una activista famosa. ¿Qué oración resume mejor la información
-   respetando la finalidad del OA?
-   a) The text I read was about Malala Yousafzai, an activist who has been
-      fighting for girls' education since she was a teenager.
-   b) Malala Yousafzai. Activist. Girls' education. Teenager. Fighting since she was young.
-   c) Education is important for everybody, and many activists and teachers fight for it in many countries around the world.
-   d) I don't remember the text very well, but I think it was about a famous woman from Asia.
+7. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste acerca de un científico chileno. ¿Qué oración resume mejor la información?
+   a) The text I read was about a Chilean astronomer who discovered a new planet using telescopes in the Atacama Desert.
+   b) Astronomer. Chile. Planet. Telescope. Desert.
+   c) Science is important for everybody in many countries.
+   d) I don't remember the text, but I think it was about space.
 
-8. *(Alternativas — Completar)* Complete: *"There is ___ time left before the exam, so let's hurry."*
+8. *(Alternativas — Completar)* Complete: *"There is ___ milk in the fridge, so we need to buy more."*
 
 a) little
 b) few
 c) many
 d) a few
 
-9. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto
-   continuo para una acción que empezó en el pasado y sigue ocurriendo?
-   a) She work here since 2018.
-   b) She has been working here for three years.
-   c) She worked here for three years.
-   d) She is working here for three years.
+9. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto continuo para una acción que empezó en el pasado y sigue ocurriendo?
+   a) They study English since 2020.
+   b) They have been studying English for four years.
+   c) They studied English for four years.
+   d) They are studying English since four years.
 
-10. *(Alternativas — Completar)* Complete: *"It was very ___ of him to interrupt the teacher while she was speaking."* (polite + im-)
+10. *(Alternativas — Completar)* Complete: *"It is ___ to cross the street when the light is red."* (legal + il-)
 
-a) unpolite
-b) inpolite
-c) polite
-d) impolite
+a) unlegal
+b) inlegal
+c) legal
+d) illegal
 
-11. *(Verdadero o falso)* La oración *"He had already left when I called
-    him"* describe una acción que ocurrió **antes** de otra acción pasada.
+11. *(Verdadero o falso)* La oración *"When we arrived at the cinema, the movie had already started"* describe una acción que ocurrió **antes** de otra acción pasada.
 
-12. *(Alternativas — Estilo indirecto)* Mr. Brown said: *"I have finished the report."* → *Mr. Brown said he ___ the report.*
+12. *(Alternativas — Estilo indirecto)* Ana said: *"I have lost my keys."* → *Ana said she ___ her keys.*
 
-a) has finished
-b) had finished
-c) finishes
-d) will finish
+a) has lost
+b) had lost
+c) loses
+d) will lose
 
-13. *(Alternativas — Segundo condicional)* *"What would you do if you found a wallet full of money on the street?"* Which answer uses the second conditional correctly?
+13. *(Alternativas — Segundo condicional)* *"What would you do if you won a trip to anywhere in the world?"* Which answer uses the second conditional correctly?
 
-a) If I find a wallet full of money, I will take it to the police.
-b) If I would find a wallet full of money, I took it to the police.
-c) If I found a wallet full of money, I would take it to the police.
-d) If I found a wallet full of money, I will keep it for myself.
+a) If I win a trip, I will go to Japan.
+b) If I would win a trip, I went to Japan.
+c) If I won a trip, I would go to Japan.
+d) If I won a trip, I will go to Japan.
 
-14. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre
-    reflexivo como objeto directo?
-    a) He cut him with the knife.
-    b) He cut himself with the knife.
-    c) He cut he with the knife.
-    d) He cut his with the knife.
+14. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre reflexivo?
+    a) She taught her to play the piano.
+    b) She taught herself to play the piano.
+    c) She taught she to play the piano.
+    d) She taught hers to play the piano.
 
 ---
 
@@ -123,44 +112,28 @@ d) If I found a wallet full of money, I will keep it for myself.
 
 1. a) In. La expresión fija es *in my opinion*.
 
-2. **d)** I'd rather use public transport than drive, because it reduces air
-   pollution.
-   Solo la opción d) combina una preferencia (*I'd rather*) con una razón
-   (*because*); las demás solo describen hechos sin argumentar.
+2. **d)** Solo la opción d) combina una preferencia (*I'd rather*) con una razón (*because*).
 
-3. d) learned / found. *Yesterday* exige pasado simple; *find* es irregular: *found*.
+3. d) did / thought. *Last Monday* exige pasado simple; *do* y *think* son irregulares: *did* y *thought*.
 
-4. **True (Verdadero).**
-   *For example* introduce un ejemplo concreto que apoya una idea general
-   sobre el uso de la tecnología en otra cultura, tal como pide este OA.
+4. **True (Verdadero).** *For instance* introduce un ejemplo concreto sobre otra cultura.
 
-5. c) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide. El líder mencionado y la justificación deben estar conectados lógicamente.
+5. c) Cada espacio debe tener la información correcta: la persona, la valoración y la razón.
 
-6. c) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much. Un buen pie de foto describe la imagen, agrega una opinión y la matiza con una condición usando *unless*.
+6. c) Un buen pie de foto describe la imagen, da una opinión y la matiza con *unless*.
 
-7. **a)** The text I read was about Malala Yousafzai, an activist who has
-   been fighting for girls' education since she was a teenager.
-   Esa oración resume el texto leído con información relevante (quién fue,
-   qué hizo, desde cuándo), cumpliendo con lo que pide el OA sobre escribir a
-   partir de textos leídos.
+7. a) Un buen resumen es una oración completa que recoge la información principal.
 
-8. a) little. *Little* se usa con incontables como *time*; *few* con contables.
+8. a) little. *Little* se usa con sustantivos incontables (*milk*); *few*, con contables.
 
-9. **b)** She has been working here for three years.
-   El presente perfecto continuo (*has been working*) enfatiza la duración
-   de una acción que continúa hasta el presente; se forma con *has/have been
-   + verbo-ing*.
+9. b) They have been studying English for four years. Presente perfecto continuo: *have/has been* + verbo con *-ing*.
 
-10. d) impolite. El prefijo *im-* forma el antónimo: maleducado.
+10. d) illegal. Delante de palabras que empiezan con *l*, se usa el prefijo *il-*.
 
-11. **True (Verdadero).**
-    El pasado perfecto (*had left*) se usa para la acción más antigua de las
-    dos: primero se fue, después lo llamé.
+11. **True (Verdadero).** El pasado perfecto (*had started*) indica que la película empezó antes de que llegaran.
 
-12. b) had finished. En estilo indirecto, el presente perfecto retrocede al pasado perfecto.
+12. b) had lost. En estilo indirecto, el presente perfecto pasa a pasado perfecto.
 
-13. c) If I found a wallet full of money, I would take it to the police. Se usa *If + pasado simple, ... would + verbo* para una situación hipotética.
+13. c) If I won a trip, I would go to Japan. Segundo condicional: *if* + pasado simple, *would* + verbo.
 
-14. **b)** He cut himself with the knife.
-    *Himself* indica que la acción recae sobre el mismo sujeto que la
-    realiza: él se cortó a sí mismo.
+14. b) She taught herself to play the piano. El pronombre reflexivo indica que el sujeto y el objeto son la misma persona.

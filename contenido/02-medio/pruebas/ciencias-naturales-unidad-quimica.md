@@ -33,20 +33,18 @@ oa_por_pregunta: {"1":"OA 15","2":"OA 15","3":"OA 15","4":"OA 15","5":"OA 15","6
 ### Soluciones químicas: componentes, concentración y solubilidad (OA 15)
 
 **Pregunta 1.**
-En una solución de agua con azúcar, ¿cuál de los dos componentes corresponde al
-soluto?
+En el agua de mar, ¿cuál es el principal solvente y cuál es un soluto?
 
-a) El agua, porque está en mayor cantidad y disuelve al azúcar
-b) El azúcar, porque está en menor cantidad y se disuelve
-c) Ambos son solventes, porque se mezclan en partes iguales
-d) Ninguno, porque el agua con azúcar es una mezcla heterogénea
+a) Solvente: la sal; soluto: el agua
+b) Solvente: el agua; soluto: la sal
+c) Ambos son solutos
+d) El agua de mar no es una solución
 
 **Pregunta 2.** (Verdadero o falso)
-La solubilidad de los gases disueltos en líquidos aumenta al aumentar la
-temperatura, de la misma forma en que ocurre con la mayoría de los solutos sólidos.
+El azúcar se disuelve más rápido y en mayor cantidad en agua fría que en agua caliente.
 
 **Pregunta 3.** (Alternativas — Clasificar)
-¿Cuál es el estado físico de cada solución: el aire; el bronce (cobre y estaño); el vinagre (ácido acético en agua)?
+¿Cuál es el estado físico de cada solución: el aire; una amalgama dental (mercurio y plata); el agua de mar?
 
 a) Gaseosa, sólida y líquida
 b) Líquida, gaseosa y sólida
@@ -54,115 +52,107 @@ c) Sólida, líquida y gaseosa
 d) Las tres son líquidas
 
 **Pregunta 4.** (Alternativas)
-¿Qué significa que una solución esté "saturada" y qué ocurre si se agrega más soluto?
+Al agregar cucharadas de azúcar a un vaso de agua, llega un momento en que el azúcar ya no se disuelve y queda en el fondo. ¿Qué indica?
 
-a) Contiene poco soluto en relación con el solvente, y por eso todavía puede disolver mucha más cantidad sin que se deposite nada
-b) No tiene solvente: el soluto se encuentra puro y, si se agrega más, simplemente se acumula en el recipiente como un sólido
-c) Contiene la máxima cantidad de soluto, pero el soluto extra igual se disuelve sin límite si se revuelve con más fuerza
-d) Contiene la máxima cantidad de soluto disoluble a esa temperatura; el soluto extra ya no se disuelve y se deposita en el fondo
+a) Que la solución está diluida
+b) Que el agua se evaporó
+c) Que el azúcar se transformó en otra sustancia
+d) Que la solución está saturada: contiene la máxima cantidad de soluto que puede disolver a esa temperatura
 
 **Pregunta 5.** (Alternativas — Cálculo)
-Se disuelven 15 g de sal hasta obtener 300 g de solución. ¿Cuál es la concentración % m/m?
+Se disuelven 20 g de azúcar hasta obtener 400 g de solución. ¿Cuál es la concentración % m/m?
 
 a) 20% m/m
-b) 15% m/m
+b) 10% m/m
 c) 5,26% m/m
 d) 5% m/m
 
 **Pregunta 6.** (Alternativas — Aplicación)
-¿Por qué el suero fisiológico conduce la electricidad y el agua destilada pura casi no?
+¿Por qué el agua con sal conduce la electricidad y el agua con azúcar casi no?
 
-a) Porque el agua destilada tiene más sal que el suero, y la sal impide el paso de la corriente eléctrica a través del líquido
-b) Porque el suero contiene metales sólidos en suspensión, que conducen la electricidad igual que un cable de cobre
-c) Porque el cloruro de sodio disuelto se disocia en iones que transportan carga, mientras el agua destilada no tiene iones disueltos
-d) Porque ninguna de las dos conduce electricidad: el suero solo parece conducirla porque está a mayor temperatura
+a) Porque el azúcar es un metal
+b) Porque el agua con sal está más fría
+c) Porque la sal se disocia en iones que transportan carga, mientras el azúcar se disuelve como moléculas sin carga
+d) Porque ninguna de las dos conduce electricidad
 
 **Pregunta 7.** (Alternativas — Evaluación)
-"Si agrego más agua a una solución de jugo concentrado, la cantidad de soluto aumenta." ¿Qué evaluación es correcta?
+"Si dejo evaporar parte del agua de una solución de sal, la cantidad de sal disuelta disminuye." ¿Qué evaluación es correcta?
 
-a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración
-b) Es correcta: el agua que se agrega aporta más soluto a la solución
-c) Es correcta: al agregar agua, la concentración del jugo aumenta
-d) Es incorrecta: el soluto desaparece por completo al diluir la solución
+a) Es incorrecta: la cantidad de sal no cambia; lo que aumenta es su concentración
+b) Es correcta: la sal se evapora junto con el agua
+c) Es correcta: la concentración disminuye
+d) Es incorrecta: la sal se transforma en agua
 
 ---
 
 ### El carbono como base de las moléculas orgánicas (OA 17)
 
 **Pregunta 8.**
-¿Cuál es la propiedad del carbono que le permite formar la enorme diversidad de
-compuestos orgánicos que existen?
+¿Cuántos enlaces covalentes puede formar un átomo de carbono?
 
-a) Su alta densidad, que le permite formar estructuras sólidas y resistentes
-b) Su capacidad de formar hasta cuatro enlaces covalentes, incluyendo cadenas largas
-   con otros átomos de carbono
-c) Su color negro, que le permite absorber la energía de la luz solar
-d) Su capacidad de conducir electricidad, que activa las reacciones químicas entre las moléculas orgánicas
+a) Uno
+b) Cuatro
+c) Dos
+d) Ocho
 
 **Pregunta 9.** (Verdadero o falso)
-Un alqueno se caracteriza por tener al menos un enlace triple entre átomos de
-carbono.
+Un alcano se caracteriza por tener al menos un enlace doble entre átomos de carbono.
 
 **Pregunta 10.** (Alternativas — Clasificar)
-¿Qué clasificación de hidrocarburos es correcta: metano (CH₄), eteno (C₂H₄), etino (C₂H₂), propano (C₃H₈)?
+¿Qué clasificación de hidrocarburos es correcta: butano (C₄H₁₀), propeno (C₃H₆), propino (C₃H₄), etano (C₂H₆)?
 
-a) Alcanos: eteno y etino. Alqueno: metano. Alquino: propano
-b) Alcano: etino. Alquenos: metano y propano. Alquino: eteno
+a) Alcanos: propeno y propino. Alqueno: butano. Alquino: etano
+b) Alcano: propino. Alquenos: butano y etano. Alquino: propeno
 c) Todos son alquenos
-d) Alcanos: metano y propano. Alqueno: eteno. Alquino: etino
+d) Alcanos: butano y etano. Alqueno: propeno. Alquino: propino
 
 **Pregunta 11.** (Alternativas)
-¿Qué diferencia hay entre la fórmula molecular y la fórmula estructural expandida del etano?
+¿Qué información entrega la fórmula molecular del propano (C₃H₈)?
 
-a) Ambas muestran exactamente la misma información, solo que escrita de distinta forma
-b) La molecular (C₂H₆) indica tipo y cantidad de átomos; la estructural expandida muestra cada átomo y todos sus enlaces
-c) La molecular muestra cada átomo y todos sus enlaces; la estructural expandida solo indica el tipo y la cantidad de átomos
-d) El etano no tiene fórmula estructural, porque es un gas y sus átomos no forman enlaces fijos
+a) La forma exacta en que se unen sus átomos
+b) El tipo y la cantidad de átomos que forman la molécula
+c) Su color y su olor
+d) Su temperatura de ebullición
 
 **Pregunta 12.** (Alternativas — Análisis)
-¿Por qué el carbono es la base de las biomoléculas?
+¿Qué biomoléculas de los seres vivos tienen al carbono como base?
 
-a) Porque es el elemento más pesado de la tabla periódica, lo que da estabilidad a las biomoléculas de los seres vivos
-b) Porque no forma enlaces con otros elementos, lo que le permite mantenerse puro dentro de las células de los seres vivos
-c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas
-d) Porque es un gas noble muy estable, que no reacciona con otras sustancias y por eso protege a las moléculas del cuerpo
+a) Solo el agua
+b) Solo las sales minerales
+c) Los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos
+d) Ninguna
 
 **Pregunta 13.** (Alternativas — Nomenclatura)
-En un compuesto, la cadena principal tiene 5 carbonos en línea y el tercer carbono tiene una ramificación de un carbono. Según la IUPAC, ¿qué representan cada una?
+Según la IUPAC, ¿cómo se elige la cadena principal de un hidrocarburo ramificado?
 
-a) La cadena principal es la cadena continua más larga y da la base del nombre; la ramificación es una cadena más corta que se nombra indicando su posición
-b) La ramificación siempre es la cadena más larga y da la base del nombre; la cadena principal se nombra como un sustituyente, sin indicar posición
-c) La cadena principal es la más corta del compuesto y la ramificación, la más larga; ambas se nombran según su número de átomos de hidrógeno
-d) Ambas reciben el mismo nombre, sin indicar posiciones, porque la IUPAC solo considera el número total de carbonos del compuesto
+a) Es la cadena continua de carbonos más larga, y da la base del nombre
+b) Es la ramificación más corta
+c) Es cualquier cadena, a elección
+d) Es la cadena con más átomos de hidrógeno
 
 **Pregunta 14.** (Alternativas — Evaluación)
-¿Por qué el petróleo es central tanto para la energía como para la industria de los plásticos?
+¿Por qué los plásticos derivados del petróleo generan un problema ambiental?
 
-a) Porque el petróleo es un metal que conduce la energía eléctrica y que, al fundirse, permite moldear los plásticos con facilidad
-b) Porque no contiene carbono, lo que lo hace más limpio como combustible y más seguro para fabricar envases de plástico
-c) Porque los plásticos se fabrican solo con agua y aire, y el petróleo se usa únicamente como fuente de energía para hacer funcionar las máquinas de las fábricas que los producen
-d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos
+a) Porque se disuelven en el agua de inmediato
+b) Porque no contienen carbono
+c) Porque se transforman en oxígeno al botarlos
+d) Porque sus largas cadenas de carbono son muy estables y tardan cientos de años en degradarse, acumulándose en suelos y océanos
 
 ---
 
 ## Pauta de corrección
 
-1. b) El azúcar, porque está en menor cantidad y se disuelve. El soluto es la
-   sustancia que se disuelve; el solvente es la que está en mayor proporción.
-2. Falso — la solubilidad de los gases en líquidos generalmente disminuye al
-   aumentar la temperatura, a diferencia de la mayoría de los solutos sólidos.
-3. a) Gaseosa, sólida y líquida. Las soluciones también pueden ser sólidas (aleaciones) o gaseosas, como el aire.
-4. d) Contiene la máxima cantidad de soluto disoluble a esa temperatura; el soluto extra ya no se disuelve y se deposita en el fondo. La saturación depende de la temperatura: al calentarla, la solubilidad de los solutos sólidos suele aumentar.
-5. d) 5% m/m. (15 g / 300 g) × 100 = 5%; se divide por la masa total de la solución, no solo por la del solvente (5,26% resulta de dividir por 285 g).
-6. c) Porque el cloruro de sodio disuelto se disocia en iones que transportan carga, mientras el agua destilada no tiene iones disueltos. La conductividad está vinculada a la presencia de iones disueltos.
-7. a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración. Distinguir cantidad de soluto y concentración es clave para comprender la dilución.
-8. b) Su capacidad de formar hasta cuatro enlaces covalentes, incluyendo cadenas
-   largas con otros átomos de carbono. Esta capacidad de enlazarse consigo mismo es
-   la base de la diversidad de la química orgánica.
-9. Falso — un alqueno se caracteriza por tener al menos un enlace doble entre
-   átomos de carbono; el enlace triple es característico de los alquinos.
-10. d) Alcanos: metano y propano. Alqueno: eteno. Alquino: etino. El sufijo -ano, -eno o -ino indica el tipo de enlace principal entre carbonos: simple, doble o triple.
-11. b) La molecular (C₂H₆) indica tipo y cantidad de átomos; la estructural expandida muestra cada átomo y todos sus enlaces. Elegir el modelo adecuado depende de qué se quiera comunicar o analizar.
-12. c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas. Esa versatilidad permite formar carbohidratos, lípidos, proteínas y ácidos nucleicos.
-13. a) La cadena principal es la cadena continua más larga y da la base del nombre; la ramificación es una cadena más corta que se nombra indicando su posición. Identificar la cadena más larga y numerarla es el primer paso para nombrar un compuesto orgánico.
-14. d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos. Un mismo recurso es relevante para la energía y para materiales tan diversos como los plásticos.
+1. b) Solvente: el agua; soluto: la sal. El solvente es el componente en mayor cantidad, que disuelve al soluto.
+2. Falso — la solubilidad de la mayoría de los sólidos, como el azúcar, aumenta con la temperatura.
+3. a) Gaseosa, sólida y líquida. El estado de la solución lo determina el solvente.
+4. d) La solución está saturada: el soluto extra ya no se disuelve.
+5. d) 5% m/m. (20/400) × 100 = 5%.
+6. c) La sal se disocia en iones que transportan carga; el azúcar no forma iones.
+7. a) La cantidad de soluto se mantiene; al haber menos solvente, la concentración aumenta.
+8. b) Cuatro enlaces covalentes, lo que explica la gran variedad de compuestos orgánicos.
+9. Falso — los alcanos solo tienen enlaces simples; los alquenos tienen al menos un enlace doble.
+10. d) Alcanos: butano y etano. Alqueno: propeno. Alquino: propino.
+11. b) El tipo y la cantidad de átomos: 3 de carbono y 8 de hidrógeno.
+12. c) Carbohidratos, lípidos, proteínas y ácidos nucleicos tienen esqueletos de carbono.
+13. a) La cadena continua más larga da la base del nombre; las ramificaciones se nombran con su posición.
+14. d) La estabilidad de las cadenas de carbono hace que los plásticos se degraden muy lentamente.

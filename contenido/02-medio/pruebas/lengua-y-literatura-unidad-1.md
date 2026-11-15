@@ -22,150 +22,146 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 ---
 
-## Texto 1: "El cuaderno de mi tío Andrés" (fragmento)
+## Texto 1: "Las cartas del tío Tomás" (fragmento)
 
-> Valparaíso, 2019.
->
-> Encontré el cuaderno de tapas de cuero gastado mientras ordenaba la pieza que había sido de mi tío Andrés, en la casa de mi abuela, en el cerro Alegre. En la primera página había una fecha: **agosto de 1986**. Dudé antes de abrirlo, porque mi abuela nunca hablaba de ese año, y cada vez que alguien lo mencionaba, cambiaba de tema mirando hacia la ventana.
->
-> Empecé a leer. La letra era apretada, nerviosa:
->
-> *"Hoy Marisol me dijo que no fuera a la protesta del jueves. 'Ya perdimos a uno de la población, Andrés, no seas tonto', me dijo, y se fue sin despedirse, cosa que nunca hacía. Yo le contesté que si todos pensáramos así, nunca íbamos a cambiar nada, pero la verdad es que, cuando ella se fue, me quedé mirando la puerta un buen rato, con la garganta apretada. En la esquina de mi calle, desde hace tres días, hay un auto que no reconozco, siempre estacionado a la misma hora."*
->
-> Cerré el cuaderno de golpe. Afuera, mi abuela regaba las plantas del patio como todas las tardes, sin saber que yo estaba leyendo la letra de su hijo, muerto hace más de treinta años en circunstancias que la familia nunca explicó del todo. Volví a abrirlo, decidida a terminar de leer esa página, aunque una parte de mí ya sospechaba lo que iba a encontrar.
+*(Lee el texto «Las cartas del tío Tomás» y responde las preguntas 1 a 5.)*
 
-### Preguntas 1 a 5 (OA N°3)
+> Concepción, 2021.
+>
+> Las encontré en una caja de galletas, al fondo del ropero de mi abuela: una docena de cartas atadas con un elástico seco. Todas venían de la Oficina Pedro de Valdivia y estaban firmadas por Tomás, el hermano de mi abuela del que nadie en la familia hablaba. Cuando le pregunté por él, mi abuela cambió de tema, como siempre.
+>
+> Abrí la primera. Estaba fechada en marzo de 1965:
+>
+> *"Querida Nena: aquí todo está bien, no te preocupes por mí. El sueldo alcanza y los compañeros son buena gente. Lo único es esta tos que no me deja dormir, y el polvo que se mete en todo, hasta en el pan. Pero ya se me va a pasar. Dile a la mamá que para Navidad voy."*
+>
+> Guardé la carta con cuidado. En la cocina, mi abuela tarareaba una canción antigua, sin saber que yo tenía en las manos la letra de un hermano que, según supe después, nunca llegó para esa Navidad.
 
 **1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de la narradora en el presente del relato?
 
-a) La rivalidad entre la narradora y su abuela por quedarse con la herencia de la casa familiar
-b) La decisión de la narradora de mudarse a Valparaíso para estudiar y dejar atrás a su familia
-c) El deseo de la narradora de conocer la verdad sobre su tío, frente al silencio prolongado de su familia
-d) La pelea entre Andrés y Marisol por motivos económicos, que terminó separándolos para siempre
+a) La rivalidad entre la narradora y su abuela por quedarse con las cartas
+b) La decisión de la narradora de mudarse al norte para trabajar
+c) El deseo de la narradora de conocer la verdad sobre el tío Tomás, frente al silencio de su familia
+d) Una pelea entre Tomás y sus compañeros por el sueldo
 
-**2. (Alternativas)** ¿Qué contradicción aparente hay entre lo que dice Andrés sobre sus convicciones y su comportamiento después de que Marisol se va?
+**2. (Alternativas)** ¿Qué contradicción aparente hay en la carta de Tomás?
 
-a) Dice tener una convicción firme, pero quedarse mirando la puerta con la garganta apretada revela un temor que no expresa con palabras
-b) Dice tener miedo de lo que pueda pasarle, pero después de que Marisol se va se muestra totalmente tranquilo y sale a la calle
-c) No hay ninguna diferencia entre lo que dice y lo que hace: su firmeza se mantiene igual en sus palabras y en sus gestos
-d) Dice que no le importa nada de la política, pero apenas Marisol se va sale a protestar con sus compañeros de la universidad
+a) Dice que "todo está bien", pero menciona una tos que no lo deja dormir y el polvo que se mete en todo, lo que revela una preocupación que intenta ocultar
+b) Dice que está enfermo, pero luego cuenta que se sanó por completo
+c) No hay ninguna contradicción: todo lo que cuenta es positivo
+d) Dice que odia a sus compañeros, pero después los invita a Navidad
 
-**3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Andrés.
+**3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Tomás.
 
-**4. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión del diario de Andrés, citado textualmente, dentro del relato de la narradora?
+**4. (Alternativas)** ¿Qué recurso narrativo corresponde a la inclusión de la carta de Tomás, citada textualmente, dentro del relato de la narradora?
 
 a) Historia paralela
 b) Personaje tipo
 c) Indicio
 d) Caja china
 
-**5. (Alternativas)** ¿Qué indicio del diario anticipa lo que probablemente le ocurrió a Andrés?
+**5. (Alternativas)** ¿Qué indicio de la carta anticipa lo que probablemente le ocurrió a Tomás?
 
-a) La fecha escrita en la primera página del diario, que indica el año en que Andrés comenzó a escribir
-b) La descripción del clima de ese día, nublado y frío, que Andrés anota al comienzo de cada entrada
-c) El nombre de su colegio y de sus compañeros, que Andrés menciona en las primeras páginas del diario
-d) "Un auto que no reconozco, siempre estacionado a la misma hora" durante tres días, que sugiere vigilancia
-
----
-
-## Texto 2: "Las llaves de la casa" (fragmento de obra teatral)
-
-> **Personajes**: DOÑA ROSA (68 años), NICOLÁS (35 años, su hijo), VOZ DE CONSTRUCTORA (grabación telefónica).
-> **Escenario**: sala de estar de una casa patrimonial en el Barrio Yungay, Santiago. Hay cajas a medio embalar. Se escuchan, de fondo, golpes de martillo de una obra vecina.
->
-> *(Luz cálida y polvorienta que entra en franjas por la ventana. NICOLÁS revisa unos papeles.)*
->
-> **NICOLÁS**: Mamá, la oferta vence el viernes. Si no firmamos, se cae todo y quedamos con una casa que nadie más va a querer comprar así, entera, como está.
->
-> **DOÑA ROSA**: *(sin mirarlo, acomodando un cuadro)* Tu abuelo puso estos ladrillos con sus propias manos, Nicolás. Uno por uno.
->
-> **NICOLÁS**: Lo sé, mamá. Pero los ladrillos no pagan tu tratamiento.
->
-> *(Silencio. DOÑA ROSA se sienta y mira hacia la ventana.)*
->
-> **DOÑA ROSA**: *(a media voz, casi para sí misma)* Cuando llegamos a este barrio, en el 68, no había nada de esto: ni las rejas de fierro forjado terminadas, ni el jardín. Tu padre y yo lo construimos de a poco, como quien arma un rompecabezas sin la caja, sin saber bien cómo iba a quedar al final. Y ahora vienen estos... *(mira los papeles)* ...a decirme que mi casa "no rentabiliza el terreno". Como si sesenta años de vida se pudieran resumir en un número.
->
-> *(Suena un teléfono. Se escucha una VOZ EN OFF, metálica, grabada.)*
->
-> **VOZ DE CONSTRUCTORA**: Estimada vecina, le recordamos que la oferta por su propiedad vence este viernes...
->
-> *(DOÑA ROSA cuelga sin responder. Afuera, el ruido de la construcción vecina se intensifica. La luz comienza a bajar, dejando la sala casi en penumbra, salvo por un rayo que ilumina el retrato del abuelo.)*
->
-> **NICOLÁS**: *(acercándose, con voz más baja)* No te estoy pidiendo que dejes de quererla, mamá. Te estoy pidiendo que pienses en vivir. No en el ladrillo.
-
-### Preguntas 6 a 10 (OA N°5)
-
-**6. (Alternativas)** ¿Cuál es el conflicto central de "Las llaves de la casa"?
-
-a) La rivalidad entre Nicolás y la empresa constructora, que discuten el precio que se pagará por el terreno familiar
-b) La decisión de Doña Rosa de mudarse a otra ciudad para vivir con su hermana después de enviudar
-c) La tensión entre vender la casa familiar por razones prácticas y conservarla como símbolo de la historia familiar
-d) La disputa legal entre Nicolás y su madre por quién es el verdadero dueño de la casa y del terreno
-
-**7. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá de vender la casa?
-
-a) La dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria están ligadas a un lugar, aun ante necesidades urgentes como la salud
-b) El precio de las propiedades en Santiago, que obliga a las familias a vender sus casas antiguas a empresas constructoras aunque no quieran, por las deudas que acumulan
-c) La falta de muebles y comodidades en la casa, que hace difícil que Doña Rosa siga viviendo sola en ella
-d) La forma correcta de restaurar y pintar una casa antigua para que conserve su valor patrimonial con el paso del tiempo
-
-**8. (Verdadero o Falso)** La atmósfera de esta escena se construye únicamente a través del diálogo entre Doña Rosa y Nicolás, sin aporte de otros elementos.
-
-**9. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria familiar en la escena?
-
-a) El teléfono
-b) La casa y el retrato del abuelo
-c) Los papeles que revisa Nicolás
-d) La oferta de la constructora
-
-**10. (Alternativas)** ¿Cómo cambia la relación entre Doña Rosa y Nicolás a lo largo del fragmento?
-
-a) De una relación cariñosa y tranquila a un quiebre definitivo, cuando Doña Rosa se niega a escuchar las razones de Nicolás y le pide que no vuelva a hablarle de vender la casa familiar
-b) No cambia: madre e hijo discuten con la misma dureza de principio a fin, sin que ninguno modifique su postura ni su tono
-c) De una tensión entre lo práctico (Nicolás) y la resistencia silenciosa (Doña Rosa) a un tono más suave de cuidado mutuo, cuando Nicolás aclara que no le pide dejar de querer la casa
-d) Doña Rosa termina echando a Nicolás de la casa, porque él insiste en que la venda aunque ella le explica que no quiere irse
+a) La fecha de la carta, que indica el mes en que fue escrita
+b) La mención del sueldo, que alcanza para vivir
+c) El saludo "Querida Nena", que muestra cariño por su hermana
+d) "Esta tos que no me deja dormir, y el polvo que se mete en todo", que sugiere una enfermedad pulmonar
 
 ---
 
-## Texto 3: "La luz en la ventana" (microcuento)
+## Texto 2: "La campanita del almacén" (fragmento de obra teatral)
 
-> Cada primero de noviembre, mi tía Elba deja una vela encendida en la ventana de la cocina y un plato con pan amasado sobre la mesa, aunque hace veinte años que vive sola. "Es para las ánimas que andan penando esa noche", me explicó una vez, "para que sepan que en esta casa todavía las esperamos, y no se pierdan buscando el camino de vuelta a Achao."
+*(Lee el fragmento teatral y responde las preguntas 6 a 10.)*
+
+> **Personajes**: DON HERNÁN (72 años), CARLA (40 años, su hija).
+> **Escenario**: un almacén de barrio en Puerto Montt. Estanterías con pocos productos. Sobre el mesón, un cuaderno de tapas gastadas: el "cuaderno de los fiados". Sobre la puerta, una campanita de bronce.
 >
-> Mi tía nació en Achao, en la isla de Quinchao, y se vino a Santiago a los veintidós años, pero nunca dejó esa costumbre, aunque acá casi nadie más la practique. Cuando le pregunté si de verdad creía que las almas de los muertos volvían esa noche, se quedó pensando un rato antes de contestar. "No sé si vuelven como uno cree cuando es chico, con cuerpo y todo. Pero algo vuelve. La costumbre misma es como dejarle una puerta abierta a lo que uno no puede explicar del todo: que la gente que uno quiso no se borra completamente, aunque el cuerpo ya no esté."
+> *(Atardecer. La lluvia golpea el techo de zinc. DON HERNÁN anota algo en el cuaderno.)*
 >
-> Esa noche, mientras lavaba los platos, vi la vela reflejada en el vidrio de la ventana, y por un segundo me pareció ver, detrás de mi propio reflejo, la sombra de mi abuelo sentado a la mesa, como cuando yo era chica y él todavía vivía. Seguramente fue solo cansancio. Pero apagué la vela más tarde de lo habitual esa noche.
+> **CARLA**: Papá, el doctor fue claro: nada de estar parado doce horas. Tenemos que cerrar.
+>
+> **DON HERNÁN**: *(sin levantar la vista)* La señora Rosa me debe tres kilos de pan. Si cierro, ¿dónde va a comprar fiado?
+>
+> **CARLA**: Ese no es tu problema, papá.
+>
+> *(Silencio. Suena la campanita: nadie entra; es el viento. DON HERNÁN la mira largo rato.)*
+>
+> **DON HERNÁN**: *(a media voz)* Tu madre la colgó el día que abrimos. Decía que la campanita era para saber que no estábamos solos.
+>
+> *(La luz baja. Solo queda iluminado el cuaderno sobre el mesón.)*
+>
+> **CARLA**: *(acercándose, más suave)* No te pido que dejes el barrio, papá. Te pido que te cuides. Podemos ir juntos a visitar a la señora Rosa.
 
-### Preguntas 11 a 15 (OA N°8)
+**6. (Alternativas)** ¿Cuál es el conflicto central de "La campanita del almacén"?
 
-**11. (Alternativas)** ¿A qué costumbre cultural alude explícitamente el microcuento "La luz en la ventana"?
+a) La rivalidad entre don Hernán y la señora Rosa por una deuda
+b) La decisión de Carla de mudarse a otra ciudad
+c) La tensión entre cerrar el almacén por la salud de don Hernán y mantenerlo como parte de su historia y de la vida del barrio
+d) Una disputa legal por la propiedad del almacén
 
-a) El Día de Muertos mexicano, con altares y flores
-b) El Día de las Ánimas, tradición de la cultura chilota
-c) La Fiesta de la Vendimia, que celebra la cosecha de la uva
-d) El Wetripantu o Año Nuevo mapuche, en el solsticio de invierno
+**7. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá de cerrar el almacén?
 
-**12. (Alternativas)** ¿Cómo influye el Día de las Ánimas en la forma en que el relato representa la muerte?
+a) La dificultad de soltar un lugar y un oficio cuando están ligados a la identidad, la memoria y los vínculos, aun ante necesidades como la salud
+b) El precio de los productos en los almacenes de barrio
+c) La falta de clientes en los supermercados
+d) La forma correcta de llevar un cuaderno de cuentas
 
-a) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve")
-b) Presenta la muerte como un final absoluto, sin ningún vínculo posible con los vivos, porque la tía Elba deja la vela y el pan amasado solo por costumbre, sin creer en nada
-c) Afirma con certeza científica que las ánimas regresan cada año, porque la comida que deja la tía Elba siempre desaparece en la noche
-d) No tiene ninguna relación con el relato: el Día de las Ánimas aparece solo como un dato de la fecha en que ocurre la historia
+**8. (Verdadero o Falso)** La atmósfera de esta escena se construye únicamente a través del diálogo entre don Hernán y Carla, sin aporte de otros elementos.
 
-**13. (Verdadero o Falso)** Según el texto, la costumbre de la tía Elba pierde su sentido original al trasladarse desde Achao a Santiago, porque ya nadie más la practica en la ciudad.
+**9. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria y de los vínculos en la escena?
+
+a) La lluvia
+b) La campanita y el cuaderno de los fiados
+c) El techo de zinc
+d) El consejo del doctor
+
+**10. (Alternativas)** ¿Cómo cambia la relación entre don Hernán y Carla a lo largo del fragmento?
+
+a) De una relación tranquila a un quiebre definitivo, cuando Carla se va del almacén
+b) No cambia: discuten con la misma dureza de principio a fin
+c) De una tensión entre lo práctico (Carla) y la resistencia silenciosa (don Hernán) a un tono más suave de cuidado mutuo, cuando Carla propone visitar juntos a la señora Rosa
+d) Don Hernán termina echando a Carla del almacén
+
+---
+
+## Texto 3: "El huaso de Maipú" (microcuento)
+
+*(Lee el microcuento y responde las preguntas 11 a 15.)*
+
+> Cada domingo después de Pascua, mi abuelo Juan se levanta a las cinco de la mañana, se pone su chamanto, ensilla un caballo prestado y sale a acompañar al cura que lleva la comunión a los enfermos. Es la fiesta de Cuasimodo.
+>
+> Mi abuelo nació en un fundo cerca de Curicó y se vino a Santiago a los veinte años, a trabajar en una fábrica. Hoy vive en un departamento en Maipú, rodeado de edificios, pero nunca ha faltado a un Cuasimodo. Cuando le pregunté por qué lo sigue haciendo, me dijo: "Porque hay enfermos que esperan, mijita. Y porque así no me olvido de dónde vengo".
+>
+> Este año fui con él. Entre las bocinas de la avenida, escuché el trote de los caballos y, por un segundo, sentí que la ciudad se callaba.
+
+**11. (Alternativas)** ¿A qué costumbre cultural alude explícitamente el microcuento?
+
+a) La Fiesta de la Vendimia, que celebra la cosecha de la uva
+b) La fiesta de Cuasimodo, tradición campesina del centro de Chile
+c) El Día de Muertos mexicano
+d) El We Tripantu, año nuevo mapuche
+
+**12. (Alternativas)** ¿Cómo influye la fiesta de Cuasimodo en la forma en que el relato representa la fe y el servicio a los demás?
+
+a) La costumbre une la fe con el cuidado de los enfermos, y el relato la presenta como un vínculo vivo con el campo de origen, incluso en la gran ciudad
+b) Presenta la fiesta como un simple desfile sin ningún sentido religioso ni social
+c) Afirma que la fiesta solo puede celebrarse en el campo
+d) No tiene relación con el relato: la fiesta es solo un dato de la fecha
+
+**13. (Verdadero o Falso)** Según el texto, el abuelo abandonó la costumbre de Cuasimodo al llegar a Santiago, porque en la ciudad ya no tenía sentido.
 
 **14. (Alternativas)** ¿Con qué proceso del contexto histórico chileno del siglo XX se relaciona directamente el microcuento?
 
-a) La Guerra del Pacífico y la ocupación del norte
-b) La migración interna desde zonas rurales o insulares hacia las grandes ciudades
-c) La llegada de la televisión a color a los hogares chilenos de las grandes ciudades
-d) La creación de la Región de Los Lagos y sus provincias
+a) La Guerra del Pacífico
+b) La migración desde el campo hacia las grandes ciudades
+c) La llegada de la televisión a color
+d) La creación de las regiones de Chile
 
-**15. (Alternativas)** ¿Cómo se manifiesta la visión de mundo chilota en las acciones de la tía Elba?
+**15. (Alternativas)** ¿Cómo se manifiesta la visión de mundo campesina en las acciones del abuelo Juan?
 
-a) En negarse a recordar a sus muertos para no sufrir, aunque viva lejos de su familia y de su lugar de origen
-b) En mudarse de vuelta a Chiloé cada noviembre para visitar el cementerio donde está enterrada su familia
-c) En prohibir las celebraciones familiares en su casa de Santiago, para respetar el duelo por sus muertos
-d) En dejar cada primero de noviembre una vela y pan amasado durante veinte años, pese a vivir sola y lejos de su lugar de origen
+a) En negarse a recordar su vida en el campo
+b) En volver a vivir al fundo cada año
+c) En prohibir que su familia participe en la fiesta
+d) En levantarse cada año de madrugada, vestirse de huaso y acompañar la comunión a los enfermos, pese a vivir en la ciudad
 
 ---
 
@@ -174,18 +170,17 @@ d) En dejar cada primero de noviembre una vela y pan amasado durante veinte año
 **Preguntas de alternativas y Verdadero/Falso**
 
 1. c
-2. a) Dice tener una convicción firme, pero quedarse mirando la puerta con la garganta apretada revela un temor que no expresa con palabras. Comparar el dicho de un personaje con sus acciones permite descubrir emociones que no verbaliza.
+2. a) Dice que "todo está bien", pero menciona síntomas que revelan una preocupación. Comparar lo que dice un personaje con lo que cuenta permite descubrir lo que no expresa directamente.
 3. Falso
 4. d
-5. d) "Un auto que no reconozco, siempre estacionado a la misma hora" durante tres días, que sugiere vigilancia. Un indicio no anuncia un hecho de forma directa: entrega una pista que el lector interpreta.
+5. d) "Esta tos que no me deja dormir, y el polvo que se mete en todo". Un indicio no anuncia un hecho de forma directa: entrega una pista que el lector interpreta.
 6. c
-7. a) La dificultad de decidir qué conservar y qué dejar ir cuando la identidad y la memoria están ligadas a un lugar, aun ante necesidades urgentes como la salud. Identificar el problema humano exige preguntarse qué tensión universal representa la situación concreta.
+7. a) La dificultad de soltar un lugar y un oficio ligados a la identidad y los vínculos. Identificar el problema humano exige preguntarse qué tensión une a los personajes más allá de la situación concreta.
 8. Falso
 9. b
-10. c) De una tensión entre lo práctico (Nicolás) y la resistencia silenciosa (Doña Rosa) a un tono más suave de cuidado mutuo, cuando Nicolás aclara que no le pide dejar de querer la casa. Describir la evolución exige atender a cambios sutiles de tono, no solo a lo que se dice.
+10. c) De una tensión entre lo práctico y la resistencia silenciosa a un tono de cuidado mutuo. Describir la evolución exige atender a los cambios de tono y a las acotaciones.
 11. b
-12. a) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve"). Reconocer un antecedente cultural exige explicar cómo esa tradición moldea el tratamiento del tema.
+12. a) La costumbre une la fe con el cuidado de los enfermos y mantiene vivo el vínculo con el lugar de origen. Reconocer un antecedente cultural exige explicar cómo influye en el sentido del texto.
 13. Falso
 14. b
-15. d) En dejar cada primero de noviembre una vela y pan amasado durante veinte años, pese a vivir sola y lejos de su lugar de origen. Relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.
-
+15. d) Relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.

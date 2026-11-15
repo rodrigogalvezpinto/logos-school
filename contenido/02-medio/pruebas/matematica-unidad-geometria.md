@@ -36,72 +36,70 @@ oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 8","6":"OA
 ### Razones trigonométricas en triángulos rectángulos (OA 8)
 
 **Pregunta 1.**
-En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 6 cm y la hipotenusa mide
-10 cm. ¿Cuál es sen θ?
+En un triángulo rectángulo, el cateto opuesto a un ángulo θ mide 5 cm y la hipotenusa mide 13 cm. ¿Cuál es sen θ?
 
-a) 0,167
-b) 0,4
-c) 0,6
-d) 1,67
+a) 0,26
+b) 2,6
+c) 0,385
+d) 0,417
 
 **Pregunta 2.** (Verdadero o falso)
-La tangente de un ángulo se calcula como el cateto opuesto dividido por la hipotenusa.
+El seno de un ángulo se calcula como el cateto adyacente dividido por la hipotenusa.
 
 **Pregunta 3.**
-Un triángulo rectángulo tiene un ángulo de 45° y cateto adyacente de 8 cm. Calcula el
-cateto opuesto.
+Un triángulo rectángulo tiene un ángulo de 45° y cateto adyacente de 12 cm. Calcula el cateto opuesto.
 
-a) 4 cm
-b) 5,66 cm
-c) 8 cm
-d) 11,3 cm
+a) 6 cm
+b) 8,49 cm
+c) 12 cm
+d) 16,97 cm
 
 **Pregunta 4.** (Alternativas — cateto opuesto)
-En un triángulo rectángulo, la hipotenusa mide 15 cm y un ángulo agudo mide 50°. ¿Cuánto mide el cateto opuesto a ese ángulo?
+En un triángulo rectángulo, la hipotenusa mide 20 cm y un ángulo agudo mide 30°. ¿Cuánto mide el cateto opuesto a ese ángulo?
 
-a) ≈ 9,64 cm
-b) ≈ 11,49 cm
-c) ≈ 17,88 cm
-d) ≈ 19,58 cm
+a) ≈ 17,32 cm
+b) 10 cm
+c) ≈ 11,55 cm
+d) 40 cm
 
 **Pregunta 5.** (Alternativas — encontrar un ángulo)
-El cateto opuesto a θ mide 7 cm y el adyacente 24 cm. ¿Cuánto mide θ?
+El cateto opuesto a θ mide 5 cm y el adyacente 12 cm. ¿Cuánto mide θ?
 
-a) ≈ 73,74°
-b) ≈ 0,29°
-c) ≈ 16,96°
-d) ≈ 16,26°
+a) ≈ 67,38°
+b) ≈ 0,42°
+c) ≈ 24,62°
+d) ≈ 22,62°
 
-**6. (Alternativas — leer datos)** Un triángulo rectángulo tiene hipotenusa 13 cm y catetos 5 y 12 cm. Si θ es opuesto al cateto de 5 cm, ¿cuánto vale cos θ?
+**6. (Alternativas — leer datos)** Un triángulo rectángulo tiene hipotenusa 17 cm y catetos 8 y 15 cm. Si θ es opuesto al cateto de 8 cm, ¿cuánto vale cos θ?
 
-a) 5/13 ≈ 0,385
-b) 12/13 ≈ 0,923
-c) 5/12 ≈ 0,417
-d) 13/12 ≈ 1,083
+a) 8/17 ≈ 0,471
+b) 15/17 ≈ 0,882
+c) 8/15 ≈ 0,533
+d) 17/15 ≈ 1,133
 
-**Pregunta 7.** (Alternativas — rampa de acceso)
-Una rampa debe tener 6° de inclinación y salvar una altura de 0,9 m. ¿Cuál es su longitud mínima aproximada?
+**Pregunta 7.** (Alternativas — escalera)
+Una escalera de 5 m se apoya en un muro formando un ángulo de 70° con el suelo. ¿A qué altura del muro llega?
 
-a) ≈ 0,09 m
-b) ≈ 8,56 m
-c) ≈ 8,61 m
-d) ≈ 0,91 m
+a) ≈ 1,71 m
+b) ≈ 13,74 m
+c) ≈ 4,70 m
+d) ≈ 5,32 m
 
 **Pregunta 8.** (Alternativas — ángulo de depresión)
-Desde un edificio de 40 m, un auto se ve con un ángulo de depresión de 25°. ¿A qué distancia horizontal está de la base?
+Desde lo alto de un faro de 30 m, un barco se ve con un ángulo de depresión de 20°. ¿A qué distancia horizontal está de la base del faro?
 
-a) ≈ 85,79 m
-b) ≈ 18,65 m
-c) ≈ 94,65 m
-d) ≈ 36,25 m
+a) ≈ 82,42 m
+b) ≈ 10,92 m
+c) ≈ 87,71 m
+d) ≈ 28,19 m
 
 **Pregunta 9.** (Alternativas — resolver un triángulo)
-Un cateto mide 9 cm y el ángulo opuesto es 40°. ¿Cuánto miden la hipotenusa, el otro cateto y el otro ángulo agudo?
+Un cateto mide 6 cm y el ángulo opuesto es 30°. ¿Cuánto miden la hipotenusa, el otro cateto y el otro ángulo agudo?
 
-a) ≈ 11,7 cm; ≈ 7,5 cm; 50°
-b) ≈ 14,0 cm; ≈ 9 cm; 40°
-c) ≈ 5,8 cm; ≈ 10,72 cm; 140°
-d) ≈ 14,0 cm; ≈ 10,72 cm; 50°
+a) ≈ 6,93 cm; ≈ 3,46 cm; 60°
+b) 12 cm; 6 cm; 30°
+c) 3 cm; ≈ 10,39 cm; 150°
+d) 12 cm; ≈ 10,39 cm; 60°
 
 **Pregunta 10.**
 En un triángulo rectángulo, el cateto adyacente a un ángulo θ mide 8 cm y la hipotenusa
@@ -138,17 +136,15 @@ d) ≈ 114,1 m
 
 ## Pauta de corrección
 
-1. c) 0,6. sen θ = cateto opuesto ÷ hipotenusa = 6/10 = 0,6.
-2. Falso — la tangente es el cateto opuesto dividido por el cateto **adyacente**; la
-   razón que divide por la hipotenusa es el seno (si es el opuesto) o el coseno (si es el
-   adyacente).
-3. c) 8 cm. tan(45°)=1, y cateto opuesto = cateto adyacente × tan(45°) = 8×1 = 8 cm.
-4. b) ≈ 11,49 cm. Cateto opuesto = 15 · sen(50°) ≈ 15 · 0,766; 9,64 cm usaría el coseno.
-5. d) ≈ 16,26°. Tan θ = 7/24 ≈ 0,2917 y θ = tan⁻¹(0,2917); 73,74° es el otro ángulo agudo.
-6. b) 12/13 ≈ 0,923. El cateto adyacente a θ es el de 12 cm: cos θ = adyacente/hipotenusa.
-7. c) ≈ 8,61 m. Sen(6°) = 0,9/L → L = 0,9/0,1045 ≈ 8,61 m; 8,56 m sería la distancia horizontal (tangente).
-8. a) ≈ 85,79 m. Tan(25°) = 40/d → d = 40/0,4663.
-9. d) ≈ 14,0 cm; ≈ 10,72 cm; 50°. Hip = 9/sen(40°) ≈ 14,0; otro cateto = hip · cos(40°) ≈ 10,72; otro ángulo: 90° − 40°.
+1. c) 0,385. sen θ = cateto opuesto ÷ hipotenusa = 5/13 ≈ 0,385; 5/12 sería la tangente.
+2. Falso — el seno es el cateto **opuesto** dividido por la hipotenusa; el cateto adyacente dividido por la hipotenusa es el coseno.
+3. c) 12 cm. tan(45°) = 1, así que el cateto opuesto es igual al adyacente.
+4. b) 10 cm. Cateto opuesto = 20 · sen(30°) = 20 · 0,5 = 10 cm; 17,32 cm usaría el coseno.
+5. d) ≈ 22,62°. tan θ = 5/12 ≈ 0,4167 y θ = tan⁻¹(0,4167); 67,38° es el otro ángulo agudo.
+6. b) 15/17 ≈ 0,882. El cateto adyacente a θ es el de 15 cm: cos θ = adyacente/hipotenusa.
+7. c) ≈ 4,70 m. sen(70°) = altura/5 → altura = 5 · 0,940 ≈ 4,70 m; 1,71 m sería la distancia al muro (coseno).
+8. a) ≈ 82,42 m. tan(20°) = 30/d → d = 30/0,364.
+9. d) 12 cm; ≈ 10,39 cm; 60°. Hip = 6/sen(30°) = 12; otro cateto = 12 · cos(30°) ≈ 10,39; otro ángulo: 90° − 30°.
 10. a) 0,47. cos θ = cateto adyacente ÷ hipotenusa = 8/17 ≈ 0,47.
 11. Verdadero — entre 0° y 90°, el seno crece de 0 a 1 y el coseno decrece de 1 a 0; en
     60° el seno ya superó al coseno (sen60°≈0,866, cos60°=0,5), porque el punto de

@@ -21,28 +21,24 @@ una opción. Si una pregunta dice «marca todas las correctas», puede haber má
 
 ---
 
-**1. (Alternativas)** ¿Cómo se conoce a los asentamientos precarios, autoconstruidos y sin
-servicios básicos, que surgieron rápidamente en la periferia de las ciudades chilenas a mediados
-del siglo XX?
+**1. (Alternativas)** ¿Cómo se llamaron las ocupaciones organizadas de terrenos urbanos por familias sin casa, como la de La Victoria en Santiago (1957)?
 
 a) Barrios cerrados
-b) Poblaciones callampas
+b) Tomas de terreno
 c) Ciudades satélite planificadas
 d) Zonas industriales
 
 ---
 
-**2. (Verdadero o Falso)** La migración del campo a la ciudad a mediados del siglo XX se produjo
-principalmente porque las ciudades chilenas tenían más viviendas formales disponibles que el
-número de familias que migraban.
+**2. (Verdadero o Falso)** A mediados del siglo XX, muchas familias campesinas migraron a las ciudades buscando trabajo en las fábricas y mejores condiciones de vida.
 
 ---
 
-**3. (Alternativas — unir)** Une cada concepto con su definición:
+**3. (Alternativas — unir)** Une cada concepto con un ejemplo:
 
 1) Segregación urbana — 2) Marginalidad — 3) Migración campo-ciudad
 
-Definiciones: (A) Traslado de población rural hacia las ciudades en busca de mejores oportunidades — (B) Organización espacial de la ciudad según el nivel socioeconómico de sus habitantes — (C) Escaso o nulo acceso a servicios básicos, vivienda formal y protección social
+Ejemplos: (A) Una familia de Talca que se traslada a Santiago para trabajar en una fábrica — (B) Barrios de altos ingresos en un sector de la ciudad y barrios pobres en otro — (C) Una población sin alcantarillado, luz eléctrica ni escuelas cercanas
 
 ¿Qué combinación es correcta?
 
@@ -53,11 +49,11 @@ d) 1-B, 2-A, 3-C
 
 ---
 
-**4. (Alternativas — análisis de mapa)** Un mapa de Santiago de mediados del siglo XX muestra en un color las comunas con más servicios y viviendas formales, y en otro, las zonas periféricas con poblaciones callampas. ¿Qué concepto ilustra?
+**4. (Alternativas — análisis de datos)** Una tabla de Santiago muestra que las comunas del sector oriente tienen más áreas verdes y servicios por habitante que las comunas de la periferia sur. ¿Qué fenómeno muestran estos datos?
 
 a) La descolonización
-b) El Estado de Bienestar
-c) La revolución de los precios
+b) La Reforma Agraria
+c) La revolución industrial
 d) La segregación urbana
 
 ---
@@ -96,12 +92,12 @@ d) Porque contaban con todos los servicios básicos desde su fundación
 
 ---
 
-**9. (Alternativas)** ¿Cómo se vinculan la pobreza rural de mediados del siglo XX y la transformación del espacio urbano chileno?
+**9. (Alternativas)** ¿Qué relación hubo entre la industrialización por sustitución de importaciones (ISI) y el crecimiento de las ciudades chilenas a mediados del siglo XX?
 
-a) La pobreza rural detuvo la migración a las ciudades, porque los campesinos no tenían dinero para viajar, y por eso las ciudades crecieron solo por su propia natalidad
-b) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas
-c) Las ciudades tenían vivienda suficiente para todos los migrantes, de modo que la llegada de población rural ordenó el crecimiento urbano y eliminó los barrios precarios
-d) No existe relación entre ambos procesos: la pobreza rural se resolvió con la Reforma Agraria y las ciudades crecieron solo por la llegada de inmigrantes europeos
+a) La ISI cerró las fábricas y la gente volvió al campo
+b) Las nuevas industrias atrajeron trabajadores a las ciudades, que crecieron rápidamente y muchas veces sin planificación
+c) La ISI prohibió la migración a las ciudades
+d) No hubo ninguna relación
 
 ---
 
@@ -125,30 +121,29 @@ por completo con el retorno de la democracia en 1990.
 
 ---
 
-**12. (Alternativas — desafiante)** ¿Por qué la segregación urbana originada a mediados del siglo XX sigue siendo relevante hoy?
+**12. (Alternativas — desafiante)** ¿Por qué los programas de vivienda social que construyeron en la periferia de las ciudades pueden haber reforzado la segregación urbana?
 
-a) Porque desapareció por completo en la década de 1960 gracias a las políticas de vivienda social, y hoy solo se estudia como antecedente histórico
-b) Porque solo afectó a ciudades de otros países de América Latina, y en Chile se usa como ejemplo comparativo para evitar repetirla
-c) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas
-d) Porque hoy todos los barrios tienen el mismo acceso a servicios, y eso demuestra que los patrones de mediados de siglo ya se revirtieron
+a) Porque se construyeron en el centro de la ciudad
+b) Porque eliminaron todas las diferencias entre barrios
+c) Porque concentraron a familias de bajos ingresos lejos de los servicios y del trabajo, consolidando la distancia entre sectores de la ciudad
+d) Porque no se construyó ninguna vivienda social
 
 ---
 
 ## Pauta de respuestas
 
-1. **b)** Poblaciones callampas.
-2. **Falso.** La oferta de vivienda formal fue insuficiente para absorber a la población
-   migrante, lo que generó escasez habitacional y ocupación irregular de terrenos.
-3. a) 1-B, 2-C, 3-A. La migración campo-ciudad, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación urbana.
-4. d) La segregación urbana. La desigualdad social se tradujo en una organización desigual del territorio urbano.
+1. **b)** Tomas de terreno: familias sin vivienda ocupaban terrenos para construir sus casas, como en la población La Victoria.
+2. **Verdadero.** La industrialización y la pobreza rural impulsaron una fuerte migración del campo a la ciudad.
+3. a) 1-B, 2-C, 3-A. La migración, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación.
+4. d) La segregación urbana: la desigualdad social se expresa en una distribución desigual de servicios en el territorio.
 5. **c)** Amplio acceso al crédito para toda la población — es justo lo contrario: el acceso al
    crédito era muy limitado para la mayoría de la población.
 6. **Verdadero.**
 7. a) La migración campo-ciudad de mediados del siglo XX, que provocó un crecimiento acelerado y desordenado hacia la periferia. Aparecieron nuevos asentamientos poblacionales, como las poblaciones callampas.
 8. **b)** Porque aparecían y crecían con gran rapidez, al igual que los hongos.
-9. b) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas. La velocidad de la migración superó la capacidad de las ciudades.
+9. b) Las industrias atrajeron mano de obra a las ciudades, lo que aceleró su crecimiento, muchas veces desordenado.
 10. d) 1-C, 2-A, 3-B
 11. **Falso.** Muchos de los patrones espaciales de segregación establecidos en ese período se
     consolidaron con el tiempo y en parte explican la desigualdad territorial que sigue
     caracterizando a las ciudades chilenas hoy.
-12. c) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas. La concentración de ingresos y servicios en ciertas comunas persiste en la geografía urbana actual.
+12. c) Al ubicarse lejos de los servicios y del empleo, consolidaron patrones de desigualdad territorial que persisten hoy.

@@ -22,26 +22,24 @@ una opción. Si una pregunta dice «marca todas las correctas», puede haber má
 
 ---
 
-**1. (Alternativas)** ¿Qué característica de los Derechos Humanos establece que estos no caducan
-ni prescriben con el paso del tiempo?
+**1. (Alternativas)** ¿Qué característica de los Derechos Humanos establece que una persona no puede renunciar a ellos, ni siquiera de forma voluntaria?
 
 a) Universalidad
-b) Indivisibilidad
-c) Imprescriptibilidad
-d) Interdependencia
+b) Progresividad
+c) Irrenunciabilidad (inalienabilidad)
+d) Imprescriptibilidad
 
 ---
 
-**2. (Verdadero o Falso)** Los Derechos Humanos se pueden jerarquizar, priorizando unos sobre
-otros según las circunstancias.
+**2. (Verdadero o Falso)** Los Derechos Humanos son universales: corresponden a todas las personas, sin distinción de nacionalidad, sexo, origen o condición.
 
 ---
 
 **3. (Alternativas — unir)** Une cada institución con su nivel de acción:
 
-1) INDH — 2) Sistema Interamericano de Derechos Humanos — 3) Consejo de Derechos Humanos de la ONU
+1) Instituto Nacional de Derechos Humanos (INDH) — 2) Corte Interamericana de Derechos Humanos — 3) Consejo de Derechos Humanos de la ONU
 
-Niveles: (A) Nivel internacional global — (B) Nivel nacional (Chile) — (C) Nivel regional (continente americano)
+Niveles: (A) Internacional — (B) Nacional — (C) Regional (americano)
 
 ¿Qué combinación es correcta?
 
@@ -52,44 +50,42 @@ d) 1-B, 2-A, 3-C
 
 ---
 
-**4. (Alternativas — análisis de caso)** Un organismo internacional declara que un país violó los Derechos Humanos de un grupo de personas, pero el país no modifica su conducta de inmediato. ¿Qué característica ilustra?
+**4. (Alternativas — análisis de caso)** Una persona acude a la Corte Interamericana de Derechos Humanos después de no obtener justicia en los tribunales de su país. ¿Qué característica de este sistema ilustra el caso?
 
-a) Que los organismos internacionales pueden obligar de inmediato a cualquier Estado a cambiar su conducta, mediante sus propias fuerzas armadas
-b) Que los Derechos Humanos no existen realmente, porque si existieran, el país habría cambiado su conducta en cuanto recibió la declaración
-c) Que el país no tiene ninguna obligación internacional, porque los tratados de Derechos Humanos solo obligan a los Estados que los redactaron
-d) Las limitaciones de la institucionalidad internacional, que depende en buena medida de la voluntad de cooperación de los Estados
-
----
-
-**5. (Alternativas — desafiante)** ¿Por qué los "grupos de especial protección" son compatibles con la universalidad de los Derechos Humanos?
-
-a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad
-b) Porque esos grupos no tienen derechos propios y dependen de la protección que les den otros
-c) Porque la universalidad no admite ninguna medida específica, así que esos grupos reciben un trato idéntico
-d) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales
+a) Que la Corte reemplaza a todos los tribunales nacionales
+b) Que la Corte solo atiende casos de otros continentes
+c) Que los tribunales nacionales no existen
+d) Que el sistema interamericano es complementario: actúa cuando los mecanismos nacionales no protegen adecuadamente los derechos
 
 ---
 
-**6. (Alternativas)** ¿Cómo se conoce a la ley chilena que estableció mecanismos legales para
-prevenir y sancionar actos de discriminación arbitraria?
+**5. (Alternativas — desafiante)** ¿Por qué existen leyes especiales para proteger los derechos de las personas con discapacidad, si los Derechos Humanos ya son universales?
 
-a) Ley de Cuotas
-b) Ley Zamudio
-c) Ley de Transparencia
-d) Ley del Plan Laboral
-
----
-
-**7. (Verdadero o Falso)** Reconocer la diversidad inherente a las sociedades significa aceptar
-que las sociedades homogéneas —sin diferencias entre sus integrantes— son el ideal a alcanzar.
+a) Porque las personas con discapacidad tienen más derechos que el resto
+b) Porque los Derechos Humanos no se aplican a ellas
+c) Porque así se les quitan derechos a otras personas
+d) Porque no se les otorgan derechos distintos, sino condiciones para ejercer en igualdad real los mismos derechos universales
 
 ---
 
-**8. (Alternativas — unir)** Une cada ámbito con un ejemplo de discriminación posible:
+**6. (Alternativas)** ¿Qué ley chilena de 2012 establece una acción judicial para denunciar la discriminación arbitraria?
 
-1) Situación socioeconómica — 2) Discapacidad — 3) Nacionalidad
+a) Ley de Inclusión Escolar
+b) Ley Antidiscriminación (Ley Zamudio)
+c) Ley de Responsabilidad Penal Adolescente
+d) Ley de Tránsito
 
-Ejemplos: (A) Exclusión de una persona migrante de un servicio por su origen — (B) Falta de accesibilidad para una persona en silla de ruedas — (C) Trato desigual hacia una persona por su bajo nivel de ingresos
+---
+
+**7. (Verdadero o Falso)** Una sociedad diversa es aquella en que todas las personas deben pensar, vestirse y creer de la misma manera.
+
+---
+
+**8. (Alternativas — unir)** Une cada situación con el ámbito en que ocurre la discriminación:
+
+1) Un colegio rechaza la matrícula de un niño por ser hijo de migrantes — 2) Un local no deja entrar a una persona por su apariencia física — 3) Una empresa paga menos a una mujer por el mismo trabajo que un hombre
+
+Ámbitos: (A) Laboral — (B) Acceso a lugares y servicios — (C) Educacional
 
 ¿Qué combinación es correcta?
 
@@ -100,12 +96,12 @@ d) 1-C, 2-A, 3-B
 
 ---
 
-**9. (Alternativas — análisis de caso)** Una empresa rechaza a una persona calificada para un cargo argumentando únicamente su nacionalidad extranjera, pese a cumplir todos los requisitos. ¿Qué concepto describe la situación?
+**9. (Alternativas — análisis de caso)** Una arrendadora se niega a arrendar un departamento a una familia solo porque es de un pueblo originario, aunque cumple todos los requisitos de pago. ¿Qué concepto describe la situación?
 
-a) Discriminación por nacionalidad
-b) Un requisito técnico legítimo del puesto
-c) Una medida de especial protección
-d) Un caso de inflación
+a) Discriminación arbitraria por origen étnico
+b) Un requisito técnico justificado
+c) Libertad de expresión
+d) Igualdad ante la ley
 
 ---
 
@@ -145,17 +141,15 @@ d) Porque basta con que cada persona conozca sus derechos para que se respeten, 
 
 ## Pauta de respuestas
 
-1. **c)** Imprescriptibilidad.
-2. **Falso.** La indivisibilidad de los Derechos Humanos establece que no se pueden separar ni
-   jerarquizar unos por sobre otros.
+1. **c)** Irrenunciabilidad: nadie puede renunciar a sus derechos ni ser privado de ellos.
+2. **Verdadero.** La universalidad significa que todas las personas son titulares de los Derechos Humanos.
 3. a) 1-B, 2-C, 3-A. La institucionalidad de Derechos Humanos opera en niveles nacional, regional e internacional que se complementan.
-4. d) Las limitaciones de la institucionalidad internacional, que depende en buena medida de la voluntad de cooperación de los Estados. Se trata de comprender de forma realista cómo opera la institucionalidad en la práctica.
-5. d) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales. Sin medidas específicas, el ejercicio efectivo de los derechos de niños, personas con discapacidad o pueblos indígenas podría verse obstaculizado.
-6. **b)** Ley Zamudio.
-7. **Falso.** La diversidad debe entenderse como una manifestación positiva de la libertad y la
-   dignidad humana, no como un problema a eliminar mediante la homogeneización forzada.
-8. c) 1-C, 2-B, 3-A. Reconocer la discriminación en situaciones concretas ayuda a identificarla más allá de la definición.
-9. a) Discriminación por nacionalidad. Distinguir un criterio justificado (requisito técnico) de uno arbitrario (prejuicio) es clave para identificar la discriminación.
+4. d) El sistema interamericano es complementario de la justicia nacional: se recurre a él cuando los mecanismos internos no han protegido los derechos.
+5. d) Las medidas específicas buscan eliminar barreras para que todos ejerzan los mismos derechos en igualdad.
+6. **b)** Ley Antidiscriminación, conocida como Ley Zamudio (Ley 20.609).
+7. **Falso.** La diversidad implica reconocer y respetar las diferencias de creencias, culturas y formas de vida.
+8. c) 1-C, 2-B, 3-A. Reconocer la discriminación en situaciones concretas ayuda a identificarla.
+9. a) Discriminación arbitraria por origen étnico: es una exclusión basada en un prejuicio, no en un criterio justificado.
 10. **b)** El Estado de Derecho.
 11. **Falso.** El Estado de Derecho exige que todo poder se ejerza dentro de los límites de la
     ley; suspender indefinidamente los derechos de las personas contradice ese principio —y fue

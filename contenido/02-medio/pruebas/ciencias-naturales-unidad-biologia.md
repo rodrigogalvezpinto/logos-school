@@ -35,19 +35,18 @@ oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 1","4":"OA 1","5":"OA 3","6":"OA
 ### Sistema nervioso: coordinación, respuesta a estímulos y autocuidado (OA 1)
 
 **Pregunta 1.**
-¿Cuál es la función principal de los receptores sensoriales?
+Al tocar una olla caliente, ¿qué estructura procesa la información y elabora la respuesta en un acto reflejo?
 
-a) Generar la respuesta motora final en los músculos
-b) Almacenar la memoria a largo plazo en el cerebro
-c) Detectar un estímulo y transformarlo en señal electroquímica
-d) Producir hormonas que regulan el crecimiento del cuerpo
+a) El receptor de la piel
+b) El músculo del brazo
+c) La médula espinal
+d) La glándula tiroides
 
 **Pregunta 2.** (Verdadero o falso)
-En un acto reflejo, la señal debe llegar primero al cerebro antes de generar la
-respuesta motora.
+Las neuronas transmiten la información mediante impulsos nerviosos de naturaleza electroquímica.
 
 **Pregunta 3.** (Alternativas — Clasificar)
-¿Qué tipo de neurona corresponde a cada función: (1) lleva información desde un receptor hacia el SNC; (2) lleva órdenes desde el SNC a un músculo; (3) conecta a las anteriores en la médula o el cerebro?
+Al oler una comida, el olor se detecta en la nariz, la información llega al encéfalo y se ordena mover la mano para tomar el plato. ¿Qué tipo de neurona participa en cada etapa: (1) desde la nariz al encéfalo; (2) desde el encéfalo a la mano; (3) conectando neuronas dentro del encéfalo?
 
 a) 1: sensorial; 2: motora; 3: interneurona
 b) 1: motora; 2: sensorial; 3: interneurona
@@ -55,123 +54,110 @@ c) 1: interneurona; 2: motora; 3: sensorial
 d) 1: sensorial; 2: interneurona; 3: motora
 
 **Pregunta 4.** (Alternativas — Evaluación)
-"Tomar varias tazas de café para 'recuperar' las horas de sueño antes de un examen no tiene ningún riesgo para el sistema nervioso." ¿Qué evaluación es correcta?
+"Usar el celular en la cama hasta la madrugada no afecta el rendimiento escolar, porque el cerebro se acostumbra." ¿Qué evaluación es correcta?
 
-a) Es correcta: el café reemplaza completamente al sueño, porque mantiene al cerebro activo y le permite descansar mientras se estudia
-b) Es correcta: el café mejora la memoria sin ningún efecto secundario, por lo que es la mejor forma de prepararse para un examen
-c) Es incorrecta: el café no tiene ningún efecto en el cuerpo ni en el sistema nervioso, así que tomarlo no ayuda ni perjudica al estudiar
-d) Es incorrecta: el café aumenta la alerta temporalmente, pero no reemplaza el sueño y su exceso puede alterar el ciclo de sueño y generar ansiedad
+a) Es correcta: el cerebro no necesita dormir si está entretenido
+b) Es correcta: la luz de las pantallas mejora la memoria
+c) Es incorrecta: el celular no tiene ningún efecto en el cuerpo
+d) Es incorrecta: la falta de sueño y la luz de las pantallas alteran el descanso, lo que afecta la atención, la memoria y el ánimo
 
 ---
 
 ### Sexualidad humana y reproducción: dimensiones biológica, social y afectiva (OA 3)
 
 **Pregunta 5.**
-¿Cuál de las siguientes opciones corresponde a la dimensión sociocultural de la
-sexualidad?
+Sentir confianza, cariño y respeto por una pareja corresponde principalmente a la dimensión:
 
-a) La producción de gametos en los órganos reproductores
-b) El vínculo afectivo y emocional entre dos personas
-c) Las normas y expectativas que una sociedad construye sobre la sexualidad
-d) La respuesta fisiológica del cuerpo ante un estímulo sexual o afectivo
+a) Biológica
+b) Sociocultural
+c) Afectiva
+d) Reproductiva
 
 **Pregunta 6.** (Verdadero o falso)
-La sexualidad humana se reduce únicamente a su dimensión biológica y reproductiva.
+Los métodos anticonceptivos de barrera, como el preservativo, además de prevenir el embarazo, ayudan a prevenir infecciones de transmisión sexual.
 
 **Pregunta 7.** (Varias correctas — Análisis de caso)
-Una adolescente de 16 años se entera de que está embarazada. ¿Qué afirmaciones sobre los ámbitos afectados y los apoyos posibles son correctas? Marca **todas** las correctas.
+¿Cuáles de estas acciones forman parte de una sexualidad responsable en la adolescencia? Marca **todas** las correctas.
 
-a) Ámbito educativo: puede dificultarse su asistencia, lo que se mitiga con apoyo del establecimiento (por ejemplo, flexibilidad horaria)
-b) Ámbito económico: la crianza implica costos, lo que se mitiga con redes familiares o programas estatales
-c) Solo se ve afectado el ámbito biológico
-d) No existe ningún tipo de apoyo posible
+a) Informarse en fuentes confiables y conversar con adultos de confianza o profesionales de salud
+b) Respetar las decisiones y los límites de la otra persona
+c) Dejarse presionar por el grupo de amigos
+d) Evitar acudir al consultorio aunque se tengan dudas
 
 ---
 
 ### Transmisión del material genético: mitosis, meiosis y alteraciones (OA 6)
 
 **Pregunta 8.**
-¿Cuál de los siguientes procesos es responsable de la regeneración de tejidos y la
-reparación de heridas en el cuerpo humano?
+¿Qué proceso de división celular origina los óvulos y los espermatozoides?
 
-a) La meiosis
-b) La mitosis
-c) La fecundación
-d) La no disyunción
+a) La mitosis
+b) La meiosis
+c) La fotosíntesis
+d) La replicación del ADN
 
 **Pregunta 9.** (Verdadero o falso)
-Las células producidas por meiosis tienen el mismo número de cromosomas que la
-célula original que les dio origen.
+Una célula humana del cuerpo (no sexual) tiene 46 cromosomas, y un gameto humano también tiene 46.
 
 **Pregunta 10.** (Alternativas — Clasificar)
-¿Qué nivel de organización del material genético corresponde a: (1) molécula con la información genética; (2) segmento que codifica una característica; (3) estructura compacta visible en la división celular?
+¿Qué alteración cromosómica corresponde al síndrome de Down?
 
-a) 1: gen; 2: cromosoma; 3: ADN
-b) 1: ADN; 2: gen; 3: cromosoma
-c) 1: cromosoma; 2: ADN; 3: gen
-d) 1: ADN; 2: cromosoma; 3: gen
+a) Falta un cromosoma X
+b) Hay tres copias del cromosoma 21 (trisomía 21)
+c) Falta el cromosoma 21
+d) Hay un cromosoma Y extra
 
 **Pregunta 11.** (Alternativas — Comparación)
-¿Qué comparación entre mitosis y meiosis es correcta?
+Una célula de la piel con 46 cromosomas se divide por mitosis. ¿Cuántas células se forman y cuántos cromosomas tiene cada una?
 
-a) Mitosis: dos divisiones, cuatro células distintas. Meiosis: una división, dos células idénticas
-b) Ambas producen cuatro células idénticas a la célula madre, con el mismo número de cromosomas, después de una sola división
-c) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas
-d) Ambas producen gametos con la mitad de cromosomas, y se diferencian solo en el tipo de célula en que ocurren
+a) Cuatro células con 23 cromosomas cada una
+b) Dos células con 23 cromosomas cada una
+c) Dos células con 46 cromosomas cada una, idénticas a la original
+d) Cuatro células con 46 cromosomas cada una
 
 ---
 
 ### Aplicaciones de la manipulación genética: implicancias éticas y sociales (OA 8)
 
 **Pregunta 12.**
-¿Qué se entiende por un organismo transgénico?
+¿Qué es la clonación de un organismo?
 
-a) Un organismo que ha sufrido una mutación espontánea en sus genes
-b) Un organismo al que se le ha insertado uno o más genes de otra especie
-c) Un organismo producido exclusivamente por clonación en un laboratorio
-d) Un organismo que se reproduce por meiosis y fecundación cruzada
+a) Insertar genes de otra especie
+b) Obtener un organismo genéticamente idéntico a otro
+c) Cruzar dos especies distintas
+d) Producir una mutación al azar
 
 **Pregunta 13.** (Alternativas — Clasificar)
-¿A qué ámbito pertenece cada aplicación: enzimas para detergentes; producción de insulina; cultivos resistentes a plagas; biocombustibles a partir de microorganismos?
+¿A qué ámbito pertenece cada aplicación biotecnológica: vacunas producidas con ingeniería genética; levaduras modificadas para fabricar pan y cerveza; bacterias que limpian derrames de petróleo; maíz resistente a la sequía?
 
-a) Industria, medicina, alimentación y energía
-b) Medicina, industria, energía y alimentación
-c) Alimentación, energía, industria y medicina
-d) Energía, alimentación, medicina e industria
+a) Medicina, industria alimentaria, medio ambiente y agricultura
+b) Industria, medicina, agricultura y medio ambiente
+c) Agricultura, medio ambiente, medicina e industria
+d) Medio ambiente, agricultura, industria y medicina
 
 **Pregunta 14.** (Alternativas — Evaluación ética)
-"Si una tecnología biotecnológica trae beneficios económicos y de salud, no es necesario evaluar sus implicancias éticas y sociales." ¿Qué evaluación es correcta?
+"Si una prueba genética puede predecir enfermedades, las empresas deberían poder exigirla para contratar personas." ¿Qué evaluación es correcta?
 
-a) Es correcta: los beneficios económicos y de salud justifican cualquier uso de la biotecnología, sin necesidad de evaluar sus efectos sociales
-b) Es correcta: la ética no se aplica a la ciencia, porque los científicos solo deben preocuparse de que sus resultados sean verdaderos
-c) Es incorrecta: la biotecnología no tiene ningún beneficio económico ni de salud, por lo que siempre debería prohibirse su aplicación
-d) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos
+a) Es correcta: las empresas deben conocer toda la información de las personas
+b) Es correcta: la ética no se aplica a la genética
+c) Es incorrecta: las pruebas genéticas no existen
+d) Es incorrecta: usar información genética para contratar puede discriminar a las personas y vulnerar su privacidad
 
 ---
 
 ## Pauta de corrección
 
-1. c) Detectar un estímulo y transformarlo en señal electroquímica. Los receptores
-   sensoriales son el punto de partida de toda respuesta nerviosa.
-2. Falso — en un acto reflejo, la médula espinal genera la respuesta motora
-   directamente, sin esperar a que la señal llegue al cerebro, lo que permite una
-   reacción mucho más rápida.
-3. a) 1: sensorial; 2: motora; 3: interneurona. Todo circuito nervioso se construye a partir de estos tres tipos funcionales de neuronas.
-4. d) Es incorrecta: el café aumenta la alerta temporalmente, pero no reemplaza el sueño y su exceso puede alterar el ciclo de sueño y generar ansiedad. Se puede entrar en un círculo que empeora el rendimiento a mediano plazo.
-5. c) Las normas y expectativas que una sociedad construye sobre la sexualidad.
-   Corresponde a la dimensión sociocultural, distinta de la biológica, afectiva o
-   psicológica.
-6. Falso — la sexualidad integra dimensiones biológica, afectiva, psicológica y
-   sociocultural; reducirla solo a la reproducción deja fuera aspectos fundamentales.
-7. a y b — Considerar todas las dimensiones ayuda a comprender por qué su prevención es un tema de salud pública.
-8. b) La mitosis. Produce células hijas genéticamente idénticas a la célula
-   original, lo que permite el crecimiento, la reparación de heridas y la
-   regeneración de tejidos.
-9. Falso — la meiosis reduce a la mitad el número de cromosomas, generando gametos
-   con la mitad del número de cromosomas de la célula original.
-10. b) 1: ADN; 2: gen; 3: cromosoma. Los genes son segmentos de ADN, y el ADN se organiza en cromosomas durante la división celular.
-11. c) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas. Comparar con criterios explícitos evita confusiones frecuentes entre ambos procesos.
-12. b) Un organismo al que se le ha insertado uno o más genes de otra especie. Esa
-    inserción deliberada le otorga una característica que no tenía de forma natural.
-13. a) Industria, medicina, alimentación y energía. La biotecnología tiene aplicaciones en sectores productivos muy diversos.
-14. d) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos. Evaluar una tecnología implica considerar sus beneficios junto con sus implicancias éticas y de acceso.
+1. c) La médula espinal. En un acto reflejo, la médula elabora la respuesta sin esperar al encéfalo, lo que la hace muy rápida.
+2. Verdadero — el impulso nervioso es una señal electroquímica que viaja por las neuronas.
+3. a) 1: sensorial; 2: motora; 3: interneurona.
+4. d) Es incorrecta: dormir poco afecta funciones del sistema nervioso como la atención y la memoria.
+5. c) Afectiva: incluye los sentimientos, emociones y vínculos.
+6. Verdadero — el preservativo es el único método que además previene infecciones de transmisión sexual.
+7. a y b — Informarse y respetar a la otra persona son parte de una sexualidad responsable; ceder a la presión del grupo o evitar consultar no lo son.
+8. b) La meiosis, que produce células con la mitad de los cromosomas.
+9. Falso — los gametos tienen 23 cromosomas, la mitad que las células del cuerpo; al unirse en la fecundación se recuperan los 46.
+10. b) Hay tres copias del cromosoma 21 (trisomía 21).
+11. c) La mitosis produce dos células idénticas a la original, con el mismo número de cromosomas.
+12. b) Obtener un organismo genéticamente idéntico a otro, como la oveja Dolly.
+13. a) Medicina, industria alimentaria, medio ambiente y agricultura.
+14. d) Evaluar una tecnología implica considerar sus efectos éticos y sociales, como la discriminación y la privacidad.

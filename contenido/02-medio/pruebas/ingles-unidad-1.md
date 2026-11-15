@@ -22,147 +22,114 @@ no solo el significado de palabras sueltas.
 
 ---
 
-1. *(Alternativas)* Read: *"Greta Thunberg started a school strike for
-   climate in 2018. Her actions inspired millions of young people around the
-   world to demand action on climate change."* ¿Qué información es explícita
-   en el texto?
-   a) Greta Thunberg is a scientist who studies the climate.
-   b) Greta Thunberg only inspired adults to protest in 2018.
-   c) Greta Thunberg started a school strike in 2018 that inspired millions.
-   d) Greta Thunberg stopped caring about climate change after 2018.
-2. *(Alternativas — Completar)* Complete: *"This text is ___ the effects of social media on teenagers. It explains ___ too much screen time can affect sleep."*
+1. *(Alternativas)* Read: *"In 2019, a group of Chilean students designed a filter that removes microplastics from washing machine water. Their invention won a national science prize."* ¿Qué información es explícita en el texto?
+   a) The students are professional engineers.
+   b) The filter was designed in 2009.
+   c) Chilean students designed a filter for microplastics that won a national science prize.
+   d) The invention failed and was never used.
+2. *(Alternativas — Completar)* Complete: *"This text is ___ the benefits of sleeping well. It explains ___ sleep helps the brain store memories."*
 
 a) about / how
 b) how / about
 c) of / what
 d) about / who
 
-3. *(Verdadero o falso)* Read: *"Solar panels convert sunlight into
-   electricity and produce no greenhouse gases while operating."* Statement:
-   *Solar panels release greenhouse gases when they work.*
+3. *(Verdadero o falso)* Read: *"Electric cars do not produce exhaust gases while driving, but the electricity they use can come from polluting sources."* Statement: *Electric cars release exhaust gases while driving.*
 
-4. *(Alternativas — Tipo de información)* ¿Qué tipo de información busca *"How much water does the region lose every year?"*?
+4. *(Alternativas — Tipo de información)* ¿Qué tipo de información busca *"How many tourists visited Easter Island last year?"*?
 
 a) La idea general de todo el texto
 b) La opinión personal del autor
 c) El propósito comunicativo del texto
 d) Información específica (una cantidad)
 
-5. *(Alternativas — Completar)* Read: *"Malala Yousafzai is a Pakistani activist. She was born in 1997 and won the Nobel Peace Prize in 2014 for her work on girls' education."* Nationality: ___ / Year of birth: ___ / Achievement: ___
+5. *(Alternativas — Completar)* Read: *"Violeta Parra was a Chilean singer and artist. She was born in 1917 and composed the famous song 'Gracias a la vida'."* Nationality: ___ / Year of birth: ___ / Achievement: ___
 
-a) Pakistani / 2014 / was born in 1997 and studied in Pakistan
-b) Activist / Pakistani / 1997, the year she won the Nobel Prize
-c) Indian / 1997 / won the Nobel Prize in Literature for her books
-d) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education
+a) Chilean / 1967 / was born in 1917
+b) Singer / Chilean / 1917, the year she composed the song
+c) Argentine / 1917 / painted 'Gracias a la vida'
+d) Chilean / 1917 / composed the song 'Gracias a la vida'
 
-6. *(Alternativas — desafiante)* Read a text about renewable energy that
-   includes unfamiliar vocabulary (*geothermal, biomass*). ¿Qué estrategia es
-   más útil para entender el texto sin traducir cada palabra?
-   a) Detenerse en cada palabra desconocida y buscarla de inmediato en el diccionario antes de seguir leyendo.
-   b) Ignorar el texto completo si aparece una palabra difícil en el primer párrafo.
-   c) Usar el contexto y las palabras conocidas para inferir el sentido
-      general antes de usar el diccionario.
-   d) Memorizar el texto palabra por palabra sin intentar comprender su sentido.
+6. *(Alternativas — desafiante)* Read a text about glaciers that includes unfamiliar vocabulary (*meltwater, ice sheet*). ¿Qué estrategia es más útil para entender el texto sin traducir cada palabra?
+   a) Buscar cada palabra en el diccionario antes de seguir leyendo.
+   b) Dejar de leer al encontrar la primera palabra difícil.
+   c) Usar el contexto y las palabras conocidas para inferir el sentido general antes de usar el diccionario.
+   d) Memorizar el texto sin comprenderlo.
 
-7. *(Alternativas — Resumir — desafiante)* Read: *"Streaming services have changed how people watch movies and TV shows. Instead of going to a store, people can now watch content anytime, anywhere. However, some experts worry that this constant availability increases screen time among teenagers."* Which summary answers *What changed? What is the benefit? What is the concern?*
+7. *(Alternativas — Resumir — desafiante)* Read: *"Online shopping has grown quickly in recent years. People can buy almost anything from home. However, the increase in deliveries has created more packaging waste."* Which is the best summary?
 
-a) People go to stores to buy movies and TV shows, and they watch them only at home with their families on weekends.
-b) Streaming services reduce screen time among teenagers, because they can choose exactly what to watch and when to stop.
-c) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
-d) Experts love watching movies at the cinema, and they worry that people no longer go to stores to buy DVDs and video games.
+a) People go to shops every day and never buy online.
+b) Online shopping reduces packaging waste because products come without boxes.
+c) Online shopping has grown because it is convenient, but it has also increased packaging waste.
+d) Delivery workers prefer to walk instead of driving.
 
-8. *(Alternativas)* Read: *"Reduce your carbon footprint! Walk or bike
-   instead of driving, and turn off lights when you leave a room."* ¿Cuál es
-   el propósito de este texto?
+8. *(Alternativas)* Read: *"Save energy! Unplug your charger when you are not using it and use natural light during the day."* ¿Cuál es el propósito de este texto?
    a) To persuade/instruct
    b) To entertain
    c) To tell a story
    d) To sell a product
-9. *(Alternativas — Completar)* Complete: *"___ you recycle at home, plastic waste will keep polluting the ocean."*
+9. *(Alternativas — Completar)* Complete: *"___ we protect the bees, many crops will not be pollinated."*
 
 a) Unless
 b) As a result
 c) Because
 d) So
 
-10. *(Verdadero o falso)* Read: *"Internet access is limited in some rural
-    areas, so the government built new towers to expand coverage."*
-    Statement: *This sentence shows a problem-solution relationship.*
+10. *(Verdadero o falso)* Read: *"Many students had no place to study after school, so the municipality opened the library until 9 p.m."* Statement: *This sentence shows a problem-solution relationship.*
 
-11. *(Alternativas — Completar)* Complete: *"It is ___ to finish this project without more time."* (possible + im-)
+11. *(Alternativas — Completar)* Complete: *"The players were ___ because they lost the final."* (happy + un-)
 
-a) inpossible
-b) unpossible
-c) dispossible
-d) impossible
+a) inhappy
+b) dishappy
+c) imhappy
+d) unhappy
 
-12. *(Alternativas — Vocabulario)* What is the antonym of *"legal"*?
+12. *(Alternativas — Vocabulario)* What is the antonym of *"regular"*?
 
-a) inlegal
-b) illegal
-c) unlegal
-d) dislegal
+a) unregular
+b) irregular
+c) inregular
+d) disregular
 
-13. *(Alternativas — desafiante)* Read: *"Neither the government nor private
-    companies have solved the water crisis completely."* ¿Qué indica esta
-    oración?
-    a) Que ambos actores solucionaron el problema del agua por completo.
-    b) Que ninguno de los dos actores ha solucionado completamente el
-       problema.
-    c) Que solo el gobierno solucionó el problema, sin ayuda de las empresas.
-    d) Que no existe ningún problema con el agua en esa región del país.
+13. *(Alternativas — desafiante)* Read: *"Both the students and the teachers agreed to plant trees in the schoolyard."* ¿Qué indica esta oración?
+    a) Que ninguno de los dos grupos estuvo de acuerdo.
+    b) Que los dos grupos, estudiantes y profesores, estuvieron de acuerdo.
+    c) Que solo los estudiantes estuvieron de acuerdo.
+    d) Que el colegio no tiene patio.
 
-14. *(Alternativas — desafiante)* Read a news article that ends with:
-    *"...as soon as new regulations are approved, companies will have to
-    reduce their emissions."* ¿Qué relación establece *"as soon as"*?
+14. *(Alternativas — desafiante)* Read: *"...as soon as the rain stops, the workers will continue building the bridge."* ¿Qué relación establece *"as soon as"*?
     a) Contraste entre dos ideas opuestas
     b) Tiempo inmediato/condición temporal
-    c) Cantidad o grado de las emisiones
-    d) Propósito o finalidad de la norma
+    c) Cantidad o grado
+    d) Propósito o finalidad
 ---
 
 ## Pauta de respuestas
 
-1. **c)** Greta Thunberg started a school strike in 2018 that inspired millions.
-   La información explícita aparece literalmente en el texto: el año, la
-   acción (school strike) y su efecto (inspiró a millones de jóvenes).
+1. **c)** La información explícita aparece literalmente en el texto: el año, la invención y el premio.
 
-2. a) about / how. *About* introduce el tema general; *how* introduce la explicación de un proceso o mecanismo.
+2. a) about / how. *About* introduce el tema; *how* introduce la explicación de un proceso.
 
-3. **False (Falso).**
-   El texto afirma explícitamente que no producen gases de efecto
-   invernadero mientras operan, lo contrario a la afirmación.
+3. **False (Falso).** El texto dice que los autos eléctricos no producen gases de escape mientras se conducen.
 
-4. d) Información específica (una cantidad). Las preguntas con *how much* buscan un dato puntual (cantidad), no la idea general.
+4. d) Información específica (una cantidad). *How many* busca un dato puntual.
 
-5. d) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education. Completar esquemas exige extraer datos puntuales y clasificarlos según la categoría pedida.
+5. d) Chilean / 1917 / composed the song 'Gracias a la vida'. Completar un esquema exige extraer datos puntuales y ubicarlos en la categoría correcta.
 
-6. **c)** Usar el contexto y las palabras conocidas para inferir el sentido
-   general antes de usar el diccionario.
-   Ante temas de actualidad global con vocabulario técnico, conviene inferir
-   por contexto primero y reservar el diccionario para palabras clave que
-   realmente bloquean la comprensión.
+6. **c)** Inferir por contexto primero y reservar el diccionario para palabras clave.
 
-7. c) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time. El resumen debe responder las tres preguntas guía con palabras propias y fiel al texto.
+7. c) El resumen recoge la idea principal y el contraste (*however*) con la consecuencia negativa.
 
-8. **a)** To persuade/instruct.
-   Los avisos de concientización ambiental buscan persuadir al lector para
-   que cambie un comportamiento (reducir su huella de carbono).
+8. **a)** To persuade/instruct. Busca que el lector cambie un hábito.
 
-9. a) Unless. *Unless* (a menos que) introduce la condición; *as a result* expresa consecuencia.
+9. a) Unless. *Unless* significa "a menos que": si no protegemos a las abejas, habrá consecuencias.
 
-10. **True (Verdadero).** El texto plantea un problema (acceso limitado a
-    internet) y una solución (nuevas torres), unidos por el conector *so*.
+10. **True (Verdadero).** Problema: no tenían dónde estudiar; solución: abrir la biblioteca hasta más tarde.
 
-11. d) impossible. El prefijo *im-* se usa antes de adjetivos que comienzan con p, m o b.
+11. d) unhappy. El prefijo *un-* forma el antónimo de *happy*.
 
-12. b) illegal. El prefijo *il-* se usa antes de palabras que comienzan con l: *legal → illegal*, *logical → illogical*.
+12. b) irregular. Delante de palabras que empiezan con *r*, se usa el prefijo *ir-*.
 
-13. **b)** Que ninguno de los dos actores ha solucionado completamente el
-    problema.
-    *Neither...nor* niega ambos elementos simultáneamente: ni el gobierno ni
-    las empresas privadas.
+13. b) *Both... and...* indica que los dos grupos participan.
 
-14. **b)** Tiempo inmediato/condición temporal.
-    *As soon as* (tan pronto como) marca que una acción ocurrirá
-    inmediatamente después de que se cumpla otra.
+14. b) *As soon as* indica que una acción ocurre inmediatamente después de otra.

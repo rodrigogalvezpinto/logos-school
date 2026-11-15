@@ -33,61 +33,57 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 ### Cinemática del movimiento rectilíneo: posición, velocidad y aceleración (OA 9)
 
 **Pregunta 1.**
-¿Qué magnitud representa la pendiente de un gráfico de posición en función del
-tiempo?
+¿Qué magnitud representa la pendiente de un gráfico de velocidad en función del tiempo?
 
-a) La aceleración
-b) La posición inicial
-c) La distancia recorrida
-d) La velocidad
+a) La posición
+b) La distancia recorrida
+c) El tiempo total
+d) La aceleración
 
 **Pregunta 2.** (Verdadero o falso)
-En el movimiento rectilíneo uniforme (MRU), la velocidad de un objeto cambia
-constantemente en el tiempo.
+Un auto que avanza en línea recta siempre a 60 km/h tiene aceleración igual a cero.
 
 **Pregunta 3.** (Varias correctas — Clasificar)
-¿Cuáles de estas situaciones corresponden a un **MRUA**? Marca **todas** las correctas.
+¿Cuáles de estas situaciones corresponden a un **MRU** (velocidad constante en línea recta)? Marca **todas** las correctas.
 
-a) Un auto que frena en línea recta disminuyendo su velocidad de forma constante
-b) Un objeto en caída libre cerca de la superficie terrestre
-c) Un auto que viaja en línea recta a 100 km/h constantes
-d) Un objeto en reposo sobre una mesa
+a) Un tren que avanza en un tramo recto siempre a 80 km/h
+b) Una escalera mecánica que sube a velocidad constante
+c) Una pelota que cae desde un balcón
+d) Un auto que frena ante un semáforo
 
 **Pregunta 4.** (Alternativas)
-Una persona camina 100 m al norte y regresa al punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?
+Una nadadora recorre una piscina de 50 m de ida y 50 m de vuelta, llegando al mismo punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?
 
-a) Distancia: 200 m; desplazamiento: 0
-b) Distancia: 0; desplazamiento: 200 m
-c) Distancia y desplazamiento: 100 m
-d) Distancia y desplazamiento: 200 m
+a) Distancia: 100 m; desplazamiento: 0
+b) Distancia: 0; desplazamiento: 100 m
+c) Distancia y desplazamiento: 50 m
+d) Distancia y desplazamiento: 100 m
 
 **Pregunta 5.** (Alternativas — Cálculo)
-Un ciclista parte del reposo y alcanza 12 m/s en 6 segundos con aceleración constante. ¿Cuál es su aceleración?
+Una moto parte del reposo y alcanza 20 m/s en 4 segundos con aceleración constante. ¿Cuál es su aceleración?
 
-a) 72 m/s²
-b) 0,5 m/s²
-c) 6 m/s²
-d) 2 m/s²
+a) 80 m/s²
+b) 0,2 m/s²
+c) 16 m/s²
+d) 5 m/s²
 
 ---
 
 ### Leyes de Newton y diagrama de cuerpo libre (OA 10)
 
 **Pregunta 6.**
-Según la segunda ley de Newton, si se aplica la misma fuerza neta a dos objetos de
-distinta masa, ¿cuál de ellos experimentará una mayor aceleración?
+Se empuja con la misma fuerza un carro de supermercado vacío y uno lleno. ¿Cuál acelera más?
 
-a) El de mayor masa
-b) El de menor masa
-c) Ambos experimentarán la misma aceleración
-d) Ninguno de los dos acelerará
+a) El lleno, porque tiene más masa
+b) El vacío, porque tiene menos masa
+c) Ambos aceleran igual
+d) Ninguno acelera
 
 **Pregunta 7.** (Verdadero o falso)
-Según la tercera ley de Newton, las fuerzas de acción y reacción actúan sobre el
-mismo cuerpo, por lo que se anulan entre sí.
+Cuando un nadador empuja la pared de la piscina con los pies, la pared ejerce sobre él una fuerza de igual magnitud y sentido contrario, que lo impulsa hacia adelante.
 
 **Pregunta 8.** (Alternativas — Clasificar)
-¿Qué ley de Newton ilustra cada situación: (1) un cohete expulsa gases hacia abajo y sube; (2) un objeto en reposo permanece así sin fuerza neta; (3) al duplicar la fuerza sobre un objeto, su aceleración se duplica?
+¿Qué ley de Newton ilustra cada situación: (1) al saltar desde un bote hacia el muelle, el bote se aleja hacia atrás; (2) un mantel se saca rápido y la vajilla queda en su lugar; (3) una pelota liviana acelera más que una pesada con el mismo golpe?
 
 a) 1: primera; 2: segunda; 3: tercera
 b) 1: tercera; 2: primera; 3: segunda
@@ -95,78 +91,67 @@ c) 1: segunda; 2: tercera; 3: primera
 d) 1: tercera; 2: segunda; 3: primera
 
 **Pregunta 9.** (Alternativas)
-Según la primera ley de Newton, ¿por qué es importante el cinturón de seguridad?
+Cuando una micro frena de golpe, los pasajeros de pie se van hacia adelante. ¿Qué lo explica?
 
-a) Porque aumenta la velocidad del auto en un frenazo, de modo que el vehículo se detiene antes y el cuerpo del pasajero no alcanza a moverse
-b) Porque elimina la gravedad durante el choque: al anular el peso del pasajero, el cuerpo deja de tener inercia y queda fijo en el asiento
-c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo
-d) Porque la primera ley no se aplica a los pasajeros, solo al vehículo; el cinturón sirve para que la fuerza del motor actúe también sobre el cuerpo
+a) La micro los empuja hacia adelante
+b) La gravedad desaparece al frenar
+c) Por inercia, sus cuerpos tienden a seguir moviéndose, aunque la micro se detenga
+d) El roce del piso los lanza hacia adelante
 
 **Pregunta 10.** (Alternativas — Cálculo)
-Un objeto de 5 kg recibe una fuerza horizontal de 15 N y un roce de 5 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
+Un objeto de 4 kg recibe una fuerza horizontal de 20 N y un roce de 8 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
 
-a) 10 N y 2 m/s²
-b) 20 N y 4 m/s²
-c) 10 N y 50 m/s²
-d) 15 N y 3 m/s²
+a) 12 N y 3 m/s²
+b) 28 N y 7 m/s²
+c) 12 N y 48 m/s²
+d) 20 N y 5 m/s²
 
 ---
 
 ### Modelos del Universo: geocéntrico, heliocéntrico y Big Bang (OA 13)
 
 **Pregunta 11.**
-¿Qué científico es reconocido por proponer el modelo geocéntrico del Universo en la
-Antigüedad?
+¿Qué científico propuso, en el siglo XVI, el modelo heliocéntrico del Universo?
 
-a) Nicolás Copérnico
-b) Galileo Galilei
-c) Claudio Ptolomeo
+a) Claudio Ptolomeo
+b) Aristóteles
+c) Nicolás Copérnico
 d) Isaac Newton
 
 **Pregunta 12.** (Verdadero o falso)
-Las observaciones de Galileo Galilei con el telescopio, como las lunas de Júpiter y
-las fases de Venus, contradecían el modelo heliocéntrico y apoyaban el modelo
-geocéntrico.
+En el modelo geocéntrico, el Sol ocupa el centro del Universo y la Tierra gira a su alrededor.
 
 **Pregunta 13.** (Alternativas — Clasificar)
-¿Qué aporte corresponde a cada científico: heliocentrismo; observaciones precisas sin telescopio; lunas de Júpiter y fases de Venus; gravitación de los planetas?
+¿Qué aporte corresponde a cada científico: modelo geocéntrico; órbitas elípticas de los planetas; observaciones con telescopio de las lunas de Júpiter; ley de gravitación universal?
 
-a) Galileo, Newton, Copérnico y Brahe
-b) Brahe, Copérnico, Newton y Galileo
-c) Newton, Galileo, Brahe y Copérnico
-d) Copérnico, Brahe, Galileo y Newton
+a) Galileo, Newton, Ptolomeo y Kepler
+b) Kepler, Ptolomeo, Newton y Galileo
+c) Newton, Galileo, Kepler y Ptolomeo
+d) Ptolomeo, Kepler, Galileo y Newton
 
 **Pregunta 14.** (Alternativas — Análisis de evidencia)
-¿Cómo el corrimiento al rojo de galaxias lejanas apoya la teoría del Big Bang?
+¿Qué es la radiación de fondo de microondas y por qué apoya la teoría del Big Bang?
 
-a) Indica que las galaxias se acercan a la Tierra, y más rápido mientras más lejanas están, lo que es consistente con un universo que se contrae hacia un punto
-b) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso
-c) Indica que el universo está detenido: el color rojo se debe al polvo que hay entre las galaxias, que absorbe la luz azul a lo largo del camino
-d) Indica que las galaxias son rojas porque sus estrellas son viejas y frías, lo que demuestra que el universo tiene una edad fija y no cambia
+a) Es la luz del Sol reflejada en la Luna; muestra que el universo no cambia
+b) Es un "eco" de radiación que llena todo el universo, resto del estado caliente y denso inicial que predice el Big Bang
+c) Es el calor de los hornos microondas de la Tierra
+d) Es la luz de las estrellas más cercanas; demuestra que el universo es pequeño
 
 ---
 
 ## Pauta de corrección
 
-1. d) La velocidad. En un gráfico de posición vs. tiempo, la pendiente de la recta
-   (o de la tangente, en un movimiento no uniforme) representa la velocidad del
-   objeto.
-2. Falso — en el MRU la velocidad se mantiene constante; es en el MRUA donde la
-   velocidad cambia de manera constante en el tiempo, debido a la aceleración.
-3. a y b — En el MRUA la velocidad cambia de manera constante; a velocidad constante es MRU.
-4. a) Distancia: 200 m; desplazamiento: 0. La distancia es la longitud total del camino (escalar); el desplazamiento es el cambio de posición entre inicio y final (vectorial).
-5. d) 2 m/s². A = (12 − 0)/6 = 2 m/s²: su velocidad aumenta 2 m/s cada segundo.
-6. b) El de menor masa. Según fuerza neta = masa × aceleración, para una misma
-   fuerza neta, la aceleración es inversamente proporcional a la masa.
-7. Falso — las fuerzas de acción y reacción actúan siempre sobre cuerpos distintos,
-   por lo que nunca se anulan entre sí.
-8. b) 1: tercera; 2: primera; 3: segunda. Inercia, vínculo cuantitativo fuerza-aceleración e interacción entre cuerpos.
-9. c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo. El cinturón es la fuerza externa que modifica de forma segura el estado de movimiento.
-10. a) 10 N y 2 m/s². Fuerza neta: 15 − 5 = 10 N; a = 10 N / 5 kg = 2 m/s².
-11. c) Claudio Ptolomeo. Sistematizó el modelo geocéntrico, que situaba a la Tierra
-    inmóvil en el centro del Universo.
-12. Falso — las observaciones de Galileo apoyaron el modelo heliocéntrico: las lunas
-    de Júpiter demostraron que no todo gira en torno a la Tierra, y las fases de
-    Venus eran consistentes con que este planeta orbita el Sol.
-13. d) Copérnico, Brahe, Galileo y Newton. La revolución astronómica fue un proceso acumulativo con aportes de varios científicos.
-14. b) Indica que las galaxias se alejan, y más rápido mientras más lejanas están, lo que es consistente con un universo en expansión desde un estado denso. Junto con la radiación cósmica de fondo, es una de las principales evidencias del Big Bang.
+1. d) La aceleración. En un gráfico v-t, la pendiente indica cuánto cambia la velocidad por unidad de tiempo.
+2. Verdadero — si la velocidad no cambia, la aceleración es cero (MRU).
+3. a y b — Ambos mantienen la misma velocidad en línea recta; la caída libre y el frenado tienen aceleración (MRUA).
+4. a) Distancia: 100 m; desplazamiento: 0. El desplazamiento compara la posición final con la inicial.
+5. d) 5 m/s². a = Δv/Δt = 20/4 = 5 m/s².
+6. b) El vacío. Con la misma fuerza, a menor masa, mayor aceleración (F = m · a).
+7. Verdadero — es un ejemplo de la tercera ley (acción y reacción), con fuerzas que actúan sobre cuerpos distintos.
+8. b) 1: tercera; 2: primera; 3: segunda.
+9. c) Por inercia (primera ley), el cuerpo tiende a mantener su estado de movimiento.
+10. a) 12 N y 3 m/s². Fuerza neta = 20 − 8 = 12 N; a = 12/4 = 3 m/s².
+11. c) Nicolás Copérnico, que ubicó al Sol en el centro.
+12. Falso — en el modelo geocéntrico, la Tierra está en el centro; el Sol en el centro corresponde al modelo heliocéntrico.
+13. d) Ptolomeo, Kepler, Galileo y Newton.
+14. b) La radiación de fondo es un resto del universo temprano, caliente y denso, y es una de las principales evidencias del Big Bang.

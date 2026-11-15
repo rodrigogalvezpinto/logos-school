@@ -21,23 +21,21 @@ una opción. Si una pregunta dice «marca todas las correctas», puede haber má
 
 ---
 
-**1. (Alternativas)** ¿Qué acontecimiento se reconoce como el principal detonante de la crisis
-del Estado liberal decimonónico en el siglo XX?
+**1. (Alternativas)** ¿Qué política aplicó el gobierno de Franklin D. Roosevelt para enfrentar la Gran Depresión en Estados Unidos?
 
-a) La Revolución Francesa
-b) El Concilio Vaticano II
-c) La independencia de las colonias americanas
-d) La Gran Depresión de 1929
+a) El Plan Marshall
+b) La Perestroika
+c) La Doctrina Truman
+d) El New Deal
 
 ---
 
-**2. (Alternativas)** ¿Qué dos países emergieron como superpotencias tras la Segunda Guerra
-Mundial?
+**2. (Alternativas)** ¿Qué organización se creó en 1945 con el objetivo de mantener la paz y la seguridad internacionales?
 
-a) Francia y Alemania, vencedoras en Europa
-b) Gran Bretaña y Japón, potencias navales
-c) Estados Unidos y la Unión Soviética
-d) Italia y España, que se mantuvieron neutrales
+a) La Sociedad de las Naciones
+b) El Pacto de Varsovia
+c) La Organización de las Naciones Unidas (ONU)
+d) La OTAN
 
 ---
 
@@ -46,24 +44,21 @@ Derechos Humanos en 1948 fueron ambas respuestas directas a la Segunda Guerra Mu
 
 ---
 
-**4. (Alternativas)** ¿En qué año las mujeres chilenas obtuvieron el derecho a voto en
-elecciones presidenciales y parlamentarias?
+**4. (Alternativas)** ¿En qué década se realizó en Chile la Reforma Agraria, que expropió grandes fundos para redistribuir la tierra?
 
-a) 1925
-b) 1934
-c) 1949
-d) 1973
+a) 1920
+b) 1940
+c) 1960
+d) 1990
 
 ---
 
-**5. (Alternativas)** ¿Por qué se le llama "Guerra Fría" al enfrentamiento entre Estados Unidos
-y la URSS?
+**5. (Alternativas)** ¿Qué fue la crisis de los misiles de 1962?
 
-a) Porque ocurrió principalmente en países de clima frío del hemisferio norte, como la URSS y Canadá
-b) Porque, pese a la fuerte confrontación, ambas superpotencias evitaron un enfrentamiento
-militar directo entre sí
-c) Porque no tuvo ningún impacto en la cultura ni en la política mundial, y se limitó a disputas diplomáticas
-d) Porque solo involucró a países europeos, sin efectos en América Latina, Asia ni África
+a) Una guerra directa entre Estados Unidos y la URSS
+b) Un momento de máxima tensión entre Estados Unidos y la URSS por misiles soviéticos instalados en Cuba, que se resolvió sin enfrentamiento militar directo
+c) Un conflicto entre Chile y Argentina
+d) La caída del Muro de Berlín
 
 ---
 
@@ -76,17 +71,16 @@ d) Su construcción simbolizó la división de Alemania y de Europa en bloques; 
 
 ---
 
-**7. (Alternativas)** ¿Qué programa impulsó Estados Unidos en América Latina con el objetivo
-declarado de promover reformas moderadas y evitar la expansión del modelo cubano?
+**7. (Alternativas)** ¿Qué programa de Estados Unidos financió la reconstrucción de Europa occidental después de la Segunda Guerra Mundial?
 
-a) La Alianza para el Progreso
-b) La Doctrina de la Seguridad Nacional
-c) El Plan Marshall
-d) La Declaración Universal de los Derechos Humanos
+a) El Plan Marshall
+b) La Alianza para el Progreso
+c) El New Deal
+d) La Perestroika
 
 ---
 
-**8. (Alternativas — ordenar secuencia)** Ordena cronológicamente estos golpes de Estado: (1) Chile, (2) Brasil, (3) Argentina, (4) Uruguay.
+**8. (Alternativas — ordenar secuencia)** Ordena cronológicamente: (1) construcción del Muro de Berlín, (2) Revolución Cubana, (3) caída del Muro de Berlín, (4) golpe de Estado en Chile.
 
 a) 2 → 4 → 1 → 3
 b) 2 → 1 → 4 → 3
@@ -95,13 +89,12 @@ d) 2 → 4 → 3 → 1
 
 ---
 
-**9. (Alternativas)** ¿Qué nombre reciben las reformas de transparencia y reestructuración
-impulsadas por Mijaíl Gorbachov en la URSS durante la década de 1980?
+**9. (Alternativas)** ¿Qué hecho de 1989 simbolizó el fin de la Guerra Fría?
 
-a) Alianza para el Progreso y Doctrina de la Seguridad Nacional
-b) Revolución Cubana y Alianza Bolivariana
-c) New Deal y Estado de Bienestar
-d) Perestroika y Glasnost
+a) La Revolución Cubana
+b) La crisis de los misiles
+c) El Plan Marshall
+d) La caída del Muro de Berlín
 
 ---
 
@@ -116,31 +109,29 @@ d) Un relato de ficción sobre el pasado, escrito para entretener a los lectores
 
 ---
 
-**11. (Alternativas)** ¿Qué institución, creada por el arzobispado de Santiago en 1976, prestó
-asistencia legal y social a las víctimas de la represión durante la dictadura?
+**11. (Alternativas)** ¿Qué comisión, creada en 1990, investigó las violaciones a los derechos humanos con resultado de muerte o desaparición ocurridas durante la dictadura?
 
 a) La Junta Militar
-b) La Vicaría de la Solidaridad
+b) La Comisión Nacional de Verdad y Reconciliación (Comisión Rettig)
 c) La DINA
 d) La Alianza para el Progreso
 
 ---
 
-**12. (Varias correctas)** ¿Cuáles de estos ejemplos muestran que el golpe de Estado "suprimió el Estado de Derecho"? Marca **todas** las correctas.
+**12. (Varias correctas)** ¿Cuáles de estas medidas formaron parte del modelo económico neoliberal aplicado en Chile desde mediados de la década de 1970? Marca **todas** las correctas.
 
-a) El cierre del Congreso Nacional
-b) La proscripción de los partidos políticos
-c) La concentración del poder en la Junta Militar
-d) La realización de elecciones libres cada año
+a) La privatización de empresas estatales
+b) La apertura al comercio exterior y la rebaja de aranceles
+c) La reducción del rol del Estado en la economía
+d) La nacionalización de toda la banca
 
 ---
 
-**13. (Alternativas)** ¿Qué política laboral, implementada en 1979, restringió
-significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile?
+**13. (Alternativas)** ¿Qué sistema de pensiones se creó en Chile en 1980, basado en cuentas de ahorro individual?
 
-a) La Alianza para el Progreso
-b) El Plan Laboral
-c) La Declaración Universal de los Derechos Humanos
+a) El Plan Laboral
+b) El sistema de AFP
+c) El sistema de reparto del INP
 d) La Perestroika
 
 ---
@@ -153,36 +144,34 @@ b) Falso
 
 ---
 
-**15. (Alternativas)** ¿Qué opción triunfó en el plebiscito de 1988, abriendo el camino al
-retorno a la democracia?
+**15. (Alternativas)** ¿Quién asumió como presidente de Chile en marzo de 1990, al iniciarse la transición a la democracia?
 
-a) La opción "Sí", que prolongaba el mandato de Pinochet
-b) La opción "No", que impedía que Pinochet continuara como presidente
-c) El plebiscito fue anulado por irregularidades en el conteo
-d) Ninguna opción alcanzó la mayoría y se repitió la votación
+a) Augusto Pinochet
+b) Patricio Aylwin
+c) Salvador Allende
+d) Eduardo Frei Montalva
 
 ---
 
 ## Pauta de respuestas
 
-1. **d)** La Gran Depresión de 1929.
-2. **c)** Estados Unidos y la Unión Soviética.
+1. **d)** El New Deal: un conjunto de obras públicas, subsidios y regulaciones con que el Estado intervino en la economía.
+2. **c)** La ONU, fundada en 1945, al término de la Segunda Guerra Mundial.
 3. **Verdadero.** La ONU (1945) y la Declaración Universal de los Derechos Humanos (1948) surgen
    del nuevo orden internacional creado tras la guerra, para evitar que un conflicto de esa
    magnitud —y atrocidades como las cometidas durante ella— volviera a ocurrir.
-4. **c) 1949.**
-5. **b)** Porque, pese a la fuerte confrontación, ambas superpotencias evitaron un enfrentamiento
-   militar directo entre sí.
+4. **c)** En la década de 1960, especialmente con la ley de 1967, y se profundizó a comienzos de la década de 1970.
+5. b) Fue el momento de mayor riesgo de guerra nuclear de la Guerra Fría, resuelto mediante negociación.
 6. d) Su construcción simbolizó la división de Alemania y de Europa en bloques; su caída, el fin de esa división bipolar, anticipando la disolución de la URSS en 1991
-7. **a)** La Alianza para el Progreso.
-8. a) 2 → 4 → 1 → 3. Brasil (1964), Uruguay (junio de 1973), Chile (septiembre de 1973) y Argentina (1976): fue un proceso regional prolongado, no simultáneo.
-9. **d)** Perestroika y Glasnost.
+7. a) El Plan Marshall, que además buscaba frenar la influencia soviética en Europa occidental.
+8. b) 2 → 1 → 4 → 3. Revolución Cubana (1959), Muro de Berlín (1961), golpe de Estado en Chile (1973) y caída del Muro (1989).
+9. d) La caída del Muro de Berlín; la URSS se disolvió dos años después, en 1991.
 10. **c)** Una lectura del proceso histórico, elaborada a partir de evidencia, que prioriza
     ciertos factores por sobre otros.
-11. **b)** La Vicaría de la Solidaridad.
-12. a, b y c — Suprimir el Estado de Derecho significó eliminar los límites y controles sobre el poder; en dictadura no hubo elecciones libres periódicas.
-13. **b)** El Plan Laboral.
+11. b) La Comisión Rettig, cuyo informe se publicó en 1991.
+12. a, b y c — La nacionalización de la banca fue una medida del gobierno de la Unidad Popular, opuesta al modelo neoliberal.
+13. b) El sistema de AFP (administradoras de fondos de pensiones), de capitalización individual.
 14. **Falso.** Fue un proceso multicausal: crisis económica, protestas nacionales, rearticulación
     del mundo político, mediación de la Iglesia Católica y presión de organismos de Derechos
     Humanos y de la comunidad internacional.
-15. **b)** La opción "No", que impidió que Pinochet continuara como presidente.
+15. b) Patricio Aylwin, elegido en las elecciones de diciembre de 1989.
