@@ -93,9 +93,9 @@ d) 310
 
 ¿Dónde vive Mateo?
 
-a) En Rancagua, cerca de la cordillera
-b) En Chillán, en una casa con un patio
-c) En el centro de Santiago, en un edificio
+a) En Rancagua, cerca de la cordillera y del río
+b) En Chillán, en una casa grande con un patio
+c) En el centro de Santiago, en un edificio alto
 d) En Castro, en una casa sobre palafitos junto al mar
 
 ---
@@ -142,9 +142,9 @@ d) sumar 10
  ¿Cómo se sintió Mateo cuando vio su bicicleta arreglada? Elige la respuesta que se apoya en lo que dice el texto.
 
 a) Muy sorprendido y feliz: se quedó inmóvil con la boca abierta y después dio un salto y abrazó a sus amigos
-b) Enojado, porque no lo dejaron ayudar a arreglar la rueda
-c) Triste, porque se quedó inmóvil sin decir nada
-d) Aburrido, porque ya sabía de la sorpresa
+b) Enojado, porque no lo dejaron ayudar a arreglar la rueda de la bicicleta con sus amigos
+c) Triste, porque se quedó inmóvil sin decir nada y después se fue solo a su casa
+d) Aburrido, porque ya sabía de la sorpresa y no le importaba la bicicleta arreglada
 
 ---
 
@@ -216,9 +216,9 @@ d) Evaporación → precipitación → condensación
 
 **17. (Lenguaje — Alternativas)** Juan escribió esta oración: "mañana vamos al zoológico". ¿Qué le falta para estar bien escrita?
 
-a) Nada, está bien escrita
+a) Nada, porque ya está bien escrita así
 b) Una mayúscula al comenzar y un punto al terminar
-c) Una coma después de "vamos"
+c) Una coma después de la palabra "vamos"
 d) Signos de pregunta al inicio y al final
 
 ---

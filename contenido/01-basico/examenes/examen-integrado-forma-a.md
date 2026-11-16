@@ -62,8 +62,8 @@ c) Se viste
 **4.** ¿Qué tienen en común todos los seres vivos?
 
 a) Nacen, crecen y necesitan alimento
-b) Están hechos de plástico
-c) Nunca necesitan agua
+b) Están hechos de plástico duro
+c) Nunca necesitan agua para vivir
 
 ---
 
@@ -118,8 +118,8 @@ c) Carne
 **11.** ¿Qué cordillera recorre Chile de norte a sur?
 
 a) La cordillera de los Andes
-b) Los Alpes
-c) Los Himalayas
+b) Los Alpes, de Europa
+c) Los Himalayas, de Asia
 
 ---
 
@@ -187,9 +187,9 @@ c) Nunca se ven
 
 **19.** Un niño se cae en el patio y se hace una herida grande. ¿A dónde lo llevan para que lo curen?
 
-a) Al supermercado
+a) Al supermercado del barrio
 b) A la posta o al hospital
-c) Al cine
+c) Al cine, a ver una película
 
 ---
 

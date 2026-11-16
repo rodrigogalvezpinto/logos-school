@@ -21,10 +21,10 @@ ultima_actualizacion: 2026-11-07
 
 **1.** Cuando viajas en auto, ¿qué debes hacer siempre?
 
-a) Sacar la cabeza por la ventana
+a) Sacar la cabeza por la ventana para mirar
 b) Usar el cinturón de seguridad o tu silla de auto
-c) Pararte en el asiento
-d) Jugar con las manillas de las puertas
+c) Pararte en el asiento para ver mejor el camino
+d) Jugar con las manillas de las puertas del auto
 
 ---
 
@@ -39,10 +39,10 @@ b) Falso
 
 **3.** Cuando terminas de usar los materiales de la sala (lápices, bloques, libros), ¿qué debes hacer?
 
-a) Dejarlos tirados en el suelo
+a) Dejarlos tirados en el suelo de la sala
 b) Llevármelos a la casa sin pedir permiso
 c) Guardarlos en su lugar para que otros los puedan usar
-d) Esconderlos para que nadie más los use
+d) Esconderlos para que nadie más los pueda usar
 
 ---
 

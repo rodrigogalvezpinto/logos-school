@@ -56,8 +56,8 @@ Lee estas instrucciones y responde la pregunta 3:
 
 **3.** ¿Qué se hace después de poner pasta en el cepillo?
 
-a) Guardar el cepillo
-b) Enjuagar la boca
+a) Guardar el cepillo en su vaso
+b) Enjuagar la boca con un poco de agua
 c) Cepillar los dientes de arriba y de abajo
 
 ---

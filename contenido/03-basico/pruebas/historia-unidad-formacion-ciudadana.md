@@ -22,8 +22,8 @@ oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6
 **1.** Florencia leyó que Chile firmó la Convención sobre los Derechos del Niño en 1990. ¿Qué significa haber firmado ese documento?
 
 a) Que en Chile los niños deben aprenderlo de memoria para pasar de curso
-b) Que las escuelas pueden castigar a quienes no lo lean
-c) Que los niños deben rendir un examen sobre él al terminar el año
+b) Que las escuelas pueden castigar a quienes no lo lean completo antes de fin de año
+c) Que los niños deben rendir un examen sobre él al terminar el año escolar
 d) Que Chile se comprometió con otros países a respetar y proteger los derechos de los niños y niñas
 
 ---
@@ -37,9 +37,9 @@ b) Falso
 
 **3.** Cuando un niño se enferma, ¿dónde puede recibir atención médica gratuita en Chile?
 
-a) En un banco
-b) En una tienda
-c) En una comisaría
+a) En un banco, pidiendo un préstamo
+b) En una tienda de remedios del mall
+c) En una comisaría de Carabineros
 d) En un consultorio o CESFAM
 
 ---
@@ -61,10 +61,10 @@ d) 1-B, 2-A, 3-C
 
 **5.** ¿Qué ejemplo muestra que se **respeta** el derecho de un niño a ser escuchado?
 
-a) El profesor no deja hablar a nadie en clases
+a) El profesor no deja hablar a nadie en clases y decide todo él solo, sin preguntar
 b) En el consejo de curso, la profesora pregunta la opinión de los estudiantes antes de decidir el paseo
-c) Los adultos deciden todo sin preguntar a los niños
-d) Se castiga a quien da su opinión
+c) Los adultos deciden todo sin preguntar a los niños, aunque el tema sea de ellos
+d) Se castiga a quien da su opinión en el consejo de curso para que no lo repita
 
 ---
 

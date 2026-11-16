@@ -176,9 +176,9 @@ c) No se puede saber
 
 **16.** En la biblioteca, ¿cómo debemos hablar?
 
-a) Gritando para que nos escuchen
+a) Gritando para que nos escuchen bien
 b) En voz baja, para no molestar a quienes leen
-c) Cantando fuerte
+c) Cantando fuerte nuestras canciones
 
 ---
 
@@ -193,8 +193,8 @@ c) 6
 **18.** ¿En qué momento del día suele hacer más calor?
 
 a) Al mediodía, cuando el Sol está alto
-b) A medianoche
-c) Antes de que salga el Sol
+b) A medianoche, cuando todos duermen
+c) Antes de que salga el Sol, de madrugada
 
 ---
 

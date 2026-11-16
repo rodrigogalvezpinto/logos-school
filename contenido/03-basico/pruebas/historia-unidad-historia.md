@@ -20,9 +20,9 @@ ultima_actualizacion: 2026-10-28
 
 **1.** ¿Qué era el Coliseo en la antigua Roma?
 
-a) Un barco de guerra romano
-b) Un templo dedicado a un solo dios
-c) Un tipo de pan romano
+a) Un barco de guerra romano que navegaba por el mar
+b) Un templo dedicado a un solo dios, el dios del Sol, en el centro de Roma
+c) Un tipo de pan romano que se comía en las fiestas
 d) Un anfiteatro donde se realizaban espectáculos ante miles de personas
 
 ---
@@ -54,9 +54,9 @@ d) El mapudungun
 
 **5.** En la antigua Atenas, las mujeres no podían votar. ¿Qué podemos afirmar sobre esto desde la mirada actual?
 
-a) Que era correcto porque así se hacía en esa época
-b) Que en Atenas todas las personas votaban por igual
-c) Que las mujeres nunca quisieron votar
+a) Que era correcto porque así se hacía en esa época, y por eso no hay nada que comparar con hoy
+b) Que en Atenas todas las personas votaban por igual, igual que en Chile en la actualidad
+c) Que las mujeres nunca quisieron votar y por eso preferían quedarse en sus casas
 d) Que hoy en muchos países hombres y mujeres votan por igual, porque se reconoce que tienen los mismos derechos
 
 ---
@@ -79,7 +79,7 @@ b) Falso
 
 **8.** ¿Cuál de estos elementos **se mantiene** desde la antigua Roma hasta hoy?
 
-a) Las luchas de gladiadores
+a) Las luchas de gladiadores en los estadios
 b) Muchas palabras del latín en nuestro idioma
 c) La existencia legal de la esclavitud
 
@@ -87,19 +87,19 @@ c) La existencia legal de la esclavitud
 
 **9.** ¿Qué construcción romana permitía viajar y transportar mercancías entre ciudades lejanas?
 
-a) El acueducto
+a) El acueducto, que llevaba agua
 b) Los caminos o calzadas de piedra
-c) El ágora
-d) El quitón
+c) El ágora, la plaza griega
+d) El quitón, una túnica
 
 ---
 
 **10.** En la antigua Atenas, las mujeres no podían participar en la asamblea donde se votaban las leyes. ¿Qué cambio muestra la comparación con el Chile actual?
 
-a) Ninguno: en Chile las mujeres tampoco pueden votar
+a) Ninguno: en Chile las mujeres tampoco pueden votar, igual que en la antigua Atenas
 b) Que hoy en Chile votan todas las personas adultas, hombres y mujeres, y la participación es mucho más amplia que en Atenas
-c) Que en Chile solo votan las personas que viven en Santiago
-d) Que en Atenas votaba todo el pueblo, igual que hoy
+c) Que en Chile solo votan las personas que viven en Santiago, y el resto del país no puede votar en ninguna elección
+d) Que en Atenas votaba todo el pueblo, igual que hoy, sin ninguna diferencia entre ambos lugares
 
 ---
 

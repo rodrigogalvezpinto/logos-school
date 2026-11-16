@@ -88,10 +88,10 @@ d) Que no tiene ningún tipo de mezcla entre culturas distintas
 
 **6. (Ciencias Naturales — Alternativas)** ¿Qué cambio notas en tu cuerpo justo después de correr?
 
-a) Te da sueño de inmediato
+a) Te da sueño de inmediato y quieres dormir
 b) Respiras más rápido y el corazón late más fuerte
-c) Tu temperatura baja mucho
-d) No notas ningún cambio
+c) Tu temperatura baja mucho y sientes frío
+d) No notas ningún cambio en tu cuerpo
 
 ---
 
@@ -188,10 +188,10 @@ d) Litros
 
 ¿Para qué sirven los dibujos de los monitos del semáforo?
 
-a) Para que el semáforo se vea bonito y alegre en la esquina
+a) Para que el semáforo se vea bonito y alegre en la esquina de la calle
 b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien
-c) Para decir cuánto cuesta cruzar la calle
-d) Para que los autos sepan dónde estacionarse
+c) Para decir cuánto cuesta cruzar la calle en las ciudades grandes
+d) Para que los autos sepan dónde estacionarse cerca de la esquina
 
 ---
 
@@ -228,10 +228,10 @@ d) Marzo, abril y mayo
 
 **19. (Lenguaje — Alternativas)** Quieres invitar a tu tía a tu cumpleaños. ¿Qué texto cumple mejor ese propósito?
 
-a) "Hoy comí pan con palta."
+a) "Hoy comí pan con palta y queso en el desayuno con mi mamá."
 b) "Tía, te invito a mi cumpleaños el sábado a las 4 en mi casa."
-c) "Me gustan mucho los perros."
-d) "El cielo está azul."
+c) "Me gustan mucho los perros y los gatos."
+d) "El cielo está azul y hace calor."
 
 ---
 

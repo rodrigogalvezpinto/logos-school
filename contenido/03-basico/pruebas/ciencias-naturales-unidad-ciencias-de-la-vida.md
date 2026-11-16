@@ -73,10 +73,10 @@ c) Porque no tiene colores llamativos y a los niños no les gusta comerla
 d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras
 
 **Pregunta 9 (alternativas).** Sofía solo almuerza fideos y pan, sin frutas, verduras ni carnes. ¿Qué le aconsejarías?
-a) Que coma el doble de fideos para tener más energía
+a) Que coma el doble de fideos y pan para tener más energía durante la tarde
 b) Que agregue alimentos de los otros grupos, porque cada grupo cumple una función distinta
-c) Que deje de almorzar
-d) Que solo coma frutas desde ahora
+c) Que deje de almorzar y coma solo en la once, cuando llega a la casa
+d) Que solo coma frutas desde ahora, porque los otros alimentos no sirven
 
 ---
 

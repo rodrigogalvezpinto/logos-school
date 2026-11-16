@@ -213,10 +213,10 @@ d) 354; la regla es "sumar 10"
 
 **15. (Ciencias Naturales — Alternativas)** En una sala con cortinas gruesas y alfombra, el sonido se escucha más apagado que en una sala vacía. ¿Qué fenómeno explica esto?
 
-a) La reflexión del sonido en las cortinas
+a) La reflexión del sonido en las cortinas gruesas
 b) La absorción del sonido por los materiales blandos
-c) El aumento del tono del sonido
-d) La desaparición del aire de la sala
+c) El aumento del tono del sonido en la sala
+d) La desaparición del aire dentro de la sala
 
 ---
 

@@ -22,10 +22,10 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 **Pregunta 1.** Si pones una piedra en un vaso y luego en un plato, ¿qué pasa con su forma?
 
-a) Toma la forma del vaso
-b) Se derrite
+a) Toma la forma del vaso y después la del plato
+b) Se derrite, como el hielo en el sol
 c) Mantiene su misma forma, porque es un sólido
-d) Se convierte en líquido
+d) Se convierte en líquido y se esparce
 
 ---
 

@@ -32,9 +32,9 @@ d) Congelación
 **Pregunta 2.** En el ciclo del agua, ¿qué ocurre justo después de que el agua de un lago se evapora con el calor del sol?
 
 a) El vapor sube, se enfría y forma nubes (condensación)
-b) Cae lluvia de inmediato sobre el lago
-c) El agua del lago se congela
-d) El agua desaparece para siempre
+b) Cae lluvia de inmediato sobre el mismo lago
+c) El agua del lago se congela y se vuelve hielo
+d) El agua desaparece para siempre y no vuelve
 
 ---
 
@@ -79,9 +79,9 @@ d) Invierno
 
 **Pregunta 7.** En invierno, algunos árboles como el roble pierden todas sus hojas. ¿Por qué ocurre esto?
 
-a) Porque el árbol está enfermo y se va a morir
-b) Porque los niños arrancan las hojas para jugar
-c) Porque en invierno los árboles crecen más rápido sin hojas
+a) Porque el árbol está enfermo y se va a morir pronto, aunque llegue la primavera
+b) Porque los niños arrancan las hojas para jugar con ellas en los días de lluvia
+c) Porque en invierno los árboles crecen más rápido si no tienen hojas que cuidar
 d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera
 
 ---

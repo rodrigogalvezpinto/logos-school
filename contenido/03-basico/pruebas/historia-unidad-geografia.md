@@ -20,10 +20,10 @@ ultima_actualizacion: 2026-10-28
 
 **1.** ¿Qué divide la línea del Ecuador?
 
-a) Chile en dos zonas, norte y sur
-b) América en dos países
+a) A Chile en dos zonas, la zona norte y la zona sur
+b) A América en dos países, uno al norte y otro al sur
 c) La Tierra en el hemisferio norte y el hemisferio sur
-d) El océano Pacífico del Atlántico
+d) Al océano Pacífico del océano Atlántico
 
 ---
 

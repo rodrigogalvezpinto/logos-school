@@ -61,8 +61,8 @@ b) Falso
 
 **3.** ¿Por qué el glaciar San Rafael es muy visitado?
 
-a) Porque es el glaciar más alto del mundo
-b) Porque no tiene hielo en verano
+a) Porque es el glaciar más alto del mundo y se ve desde lejos
+b) Porque no tiene hielo en verano y se puede caminar por encima
 c) Porque desde los barcos se ven caer grandes témpanos a la laguna
 
 **4.** Si quisieras encontrar rápidamente qué es un glaciar, sin leer todo el artículo, ¿qué subtítulo deberías buscar?
@@ -80,8 +80,8 @@ c) Página 25
 **6.** ¿Qué significa la palabra "deshielo", según el glosario del texto?
 
 a) Nieve nueva que cae sobre la montaña en invierno
-b) Un barco que navega entre los témpanos
-c) Un lago pequeño rodeado de hielo
+b) Un barco que navega entre los témpanos del sur
+c) Un lago pequeño rodeado de hielo y de rocas
 d) Momento en que el hielo se derrite y se transforma en agua
 
 ---

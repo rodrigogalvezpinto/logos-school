@@ -21,9 +21,9 @@ y vuelve después.
 **1. (Alternativas)** Los kawésqar recorrían los canales del sur en canoa, buscando alimento, y no tenían una casa fija. ¿Qué tipo de pueblo eran?
 
 a) Sedentario, porque cultivaban la tierra
-b) Urbano, porque vivían en ciudades
+b) Urbano, porque vivían en ciudades grandes
 c) Nómade, porque se trasladaban de un lugar a otro
-d) Agricultor, porque sembraban papas
+d) Agricultor, porque sembraban papas en la isla
 
 ---
 
@@ -50,19 +50,19 @@ d) La rayuela
 
 **4. (Alternativas — clasificar)** ¿Cuál de estas costumbres de los pueblos originarios **se mantiene** hasta hoy?
 
-a) Viajar en carreta a todas partes
+a) Viajar en carreta a todas partes, incluso a la ciudad
 b) Hablar su lengua, como el mapudungun o el aymara
-c) No usar electricidad
-d) Vivir solo de la caza
+c) No usar electricidad en ninguna de sus casas
+d) Vivir solo de la caza de guanacos y aves
 
 ---
 
 **5. (Alternativas)** Comer charquicán, usar palabras como «guagua» y «cancha», y celebrar fiestas católicas son ejemplos de que la sociedad chilena:
 
 a) Mezcla aportes indígenas y españoles: es mestiza
-b) Solo tiene costumbres españolas
-c) Solo tiene costumbres indígenas
-d) No tiene costumbres propias
+b) Solo tiene costumbres españolas, traídas por barco
+c) Solo tiene costumbres indígenas, sin mezcla alguna
+d) No tiene costumbres propias, porque las copió todas
 
 ---
 

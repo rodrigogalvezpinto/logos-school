@@ -25,9 +25,9 @@ Instrucciones: lee cada pregunta con calma. Si tienes cajas, dados u otros objet
 ---
 
 **Pregunta 1 (alternativas).** ¿Qué figura 3D se forma al doblar una red compuesta por 1 cuadrado y 4 triángulos iguales unidos a sus lados?
-a) Cono
-b) Esfera
-c) Cilindro
+a) Cono de base redonda
+b) Esfera, como una pelota
+c) Cilindro, como un tarro
 d) Pirámide de base cuadrada
 
 **Pregunta 2 (completar).** Un cubo tiene ___ caras.

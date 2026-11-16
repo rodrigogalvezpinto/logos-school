@@ -39,8 +39,8 @@ d) Tono
 **Pregunta 3 (alternativas — clasificar).** En un gimnasio vacío, Sofía aplaude y escucha que el aplauso se repite un instante después. ¿Qué le ocurre al sonido?
 
 a) Rebota en las paredes y vuelve a sus oídos (reflexión del sonido o eco)
-b) Las paredes lo absorben y desaparece
-c) No hay sonido, porque el gimnasio está vacío
+b) Las paredes lo absorben y el sonido desaparece para siempre
+c) No hay sonido, porque el gimnasio está vacío y sin personas
 
 **Pregunta 4 (alternativas — tono e intensidad).** Una flauta suena agudo y suave, y un pito de micro suena agudo y fuerte. ¿En qué característica se parecen y en cuál se diferencian?
 
@@ -56,9 +56,9 @@ b) En el gimnasio grande y vacío
 c) En los dos lugares igual
 
 **Pregunta 6 (alternativas).** Un pajarito canta suave y agudo; un camión toca la bocina fuerte y grave. ¿Qué afirmación es correcta?
-a) El pajarito tiene más intensidad que el camión
-b) Los dos sonidos tienen el mismo tono
-c) El camión tiene un tono más agudo que el pajarito
+a) El pajarito tiene más intensidad que el camión, porque canta más
+b) Los dos sonidos tienen el mismo tono, aunque uno sea más fuerte
+c) El camión tiene un tono más agudo que el pajarito y suena más bajo
 d) El pajarito tiene un tono más agudo y el camión, más intensidad
 
 ---

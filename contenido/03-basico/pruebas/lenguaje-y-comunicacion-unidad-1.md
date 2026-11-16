@@ -45,21 +45,21 @@ b) Falso
 
 **3.** ¿Por qué la señora Rosa estaba tan preocupada por Copito?
 
-a) Porque Copito se había comido el pan de Martín
+a) Porque Copito se había comido el pan de Martín en la plaza
 b) Porque Copito estaba enfermo y debía tomar su remedio antes del almuerzo
-c) Porque Copito no sabía volver a la plaza
+c) Porque Copito no sabía volver solo desde la plaza a su casa
 
 **4.** ¿Cómo es Martín, según el cuento?
 
 a) Responsable, cariñoso y algo tímido con los desconocidos
-b) Descuidado y poco interesado en los animales
-c) Muy conversador con todas las personas
+b) Descuidado y poco interesado en los animales del barrio
+c) Muy conversador con todas las personas que conoce
 
 **5.** ¿Qué consecuencia tuvo que Martín pidiera llamar al número de la placa?
 
-a) Martín se quedó sin pan para el desayuno
+a) Martín se quedó sin pan para el desayuno de ese día
 b) La señora Rosa pudo recuperar a Copito y darle su remedio
-c) El papá de Martín se enojó con él
+c) El papá de Martín se enojó con él por usar el teléfono
 
 ---
 
@@ -108,8 +108,8 @@ c) Que nunca llueve en esa ciudad
 **10.** ¿Por qué el poema compara las gotas con "pequeños tambores"?
 
 a) Porque al caer sobre la ventana hacen un sonido rítmico, como un tambor
-b) Porque las gotas son instrumentos musicales de verdad
-c) Porque los tambores y las gotas tienen el mismo color
+b) Porque las gotas son instrumentos musicales de verdad que alguien toca
+c) Porque los tambores y las gotas tienen el mismo color y la misma forma
 
 ---
 

@@ -76,9 +76,9 @@ c) "Los mesa estaban sucias."
 
 **8. (Alternativas — propósito y destinatario)** Quieres pedirle a tu profesora que te preste un lápiz. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y puntuación correcta?
 
-a) me puede prestar un lápiz
-b) Mi lápiz es de color azul.
-c) ¿me puede prestar un lápiz
+a) me puede prestar un lápiz por favor
+b) Mi lápiz es de color azul y rojo.
+c) ¿me puede prestar un lápiz por favor
 d) ¿Me puede prestar un lápiz, por favor?
 
 ---

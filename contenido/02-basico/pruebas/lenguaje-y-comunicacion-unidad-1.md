@@ -72,9 +72,9 @@ d) 1 → 2 → 3 → 4
 **8. (Alternativas — sentimientos)** ¿Cómo se sintió Tomás cuando el volantín se elevó?
 
 a) Enojado, porque su abuelo no lo dejó sostener el hilo.
-b) Aburrido, porque el volantín no subió.
+b) Aburrido, porque el volantín no subió nada y se quedó en el suelo.
 c) Orgulloso y feliz: sonrió de oreja a oreja y gritó "¡lo hicimos nosotros!".
-d) Asustado, porque el volantín se le escapó.
+d) Asustado, porque el volantín se le escapó de las manos con el viento.
 
 ---
 

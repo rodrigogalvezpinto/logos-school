@@ -20,10 +20,10 @@ y vuelve después.
 
 **1. (Alternativas)** Durante un simulacro de sismo en el colegio, ¿qué debes hacer?
 
-a) Correr a buscar tu mochila antes de salir
+a) Correr a buscar tu mochila, tu colación y tus cosas antes de salir de la sala
 b) Seguir las instrucciones del profesor y salir en orden por la vía de evacuación
-c) Esconderte en el baño hasta que termine
-d) Gritar para avisar a todos
+c) Esconderte en el baño del colegio hasta que el simulacro termine
+d) Gritar muy fuerte para avisar a todos que hay un sismo
 
 ---
 
