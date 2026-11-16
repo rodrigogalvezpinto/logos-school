@@ -4,7 +4,7 @@
 conversaciones anteriores. Este archivo es el **punto de entrada único**: dice qué es el proyecto, qué
 reglas puso el dueño, cómo verificar, en qué estado está todo y qué sigue, paso a paso.
 
-**Última actualización:** 2026-11-15 (noche) · **Último commit de referencia:** ver `git log -1`.
+**Última actualización:** 2026-11-16 · **Último commit de referencia:** ver `git log -1`.
 **Regla de mantenimiento:** cada vez que se termina una tarea, actualizar la sección 5 (estado) y la
 sección 6 (pendientes) de este archivo **en el mismo commit**.
 
@@ -93,15 +93,22 @@ Verifican con el parser antes de escribir y conservan la letra de la clave, para
 | Indicadores de evaluación cubiertos | ✅ ~97 % (vacíos listados en `docs/auditorias/fase1/correcciones-propuestas.md`) |
 | C.1 / C.2 — pruebas y simulacros no repiten la guía (exactas, casi copias, lecturas) | ✅ 0 en los 12 cursos (guarda en pytest) |
 | C.3 — cada OA aparece en algún simulacro | ✅ al límite del formato (ver `fase1/00-ESTADO-FASE1.md`) |
+| C.2 tercera pasada — «misma pregunta y clave» y «escenario repetido» | ✅ 0 en los 12 cursos (guarda en pytest) |
 | C.4 — toda pregunta explica su clave | ✅ 0 vacías (guarda en pytest) |
+| C.4b — retroalimentaciones de guía que explican la respuesta | ✅ 260 reescritas (guarda en pytest) |
+| C.4c — explicaciones de pruebas no genéricas | ✅ 50 reescritas (guarda en pytest) |
+| C.5 — sin sesgo de posición en «varias correctas» | ✅ 256 rotadas (guarda: ningún patrón > 30 %) |
+| C.6 — sin sesgo de longitud | ✅ 528 corregidas; 3 excepciones de citas textuales (guarda en pytest) |
+| Letra de la clave y V/F | ✅ equilibradas (alternativas 23–29 % por letra en pruebas y guías) |
+| Defectos de texto en pautas (letras falsas, huérfanas, «Retroalimentación:», títulos en estímulos) | ✅ corregidos (guardas en pytest) |
 | Solo preguntas cerradas; instrucciones sin «desarrollo» | ✅ |
 | Tablas/citas se ven bien en la app | ✅ (Chromium 12/12; 3 navegadores en 1.° básico y 3.° medio) |
 | B — gráficos y mapas dibujados | ✅ (mapas de otras regiones pendientes, ver 6.4) |
-| D — 32 marcadores `[Imagen: …]` en 1.° a 3.° básico | ⏳ **espera decisión del dueño** sobre la fuente de las ilustraciones |
-| Revisión docente por muestreo | ⏳ muestra lista (`docs/auditorias/fase1/muestra-docente/`), falta un profesor |
+| D — 21 marcadores `[Imagen: …]` en 1.° a 3.° básico (contados 2026-11-16) | ⏳ **espera decisión del dueño** sobre la fuente de las ilustraciones |
+| Revisión docente por muestreo | ⏳ muestra regenerada y revisada por mí en los 12 cursos (lo hallado, corregido); falta un profesor |
 | Control 6 — tag Git «material aprobado» | ⏳ pendiente |
 
-Detalle histórico y hallazgos: `docs/auditorias/AUDITORIA_MAESTRA.md` §15.35–15.39.
+Detalle histórico y hallazgos: `docs/auditorias/AUDITORIA_MAESTRA.md` §15.35–15.40.
 
 ## 6. Pendientes, en orden (con pasos)
 
