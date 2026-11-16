@@ -27,6 +27,8 @@
      axe-core sobre el chip "Pendiente" de Plan de Estudio). */
   --color-alerta-texto: #976106;
   --color-error: #ef4444;
+  // Texto/borde en el color de marca; el modo examen (fondo oscuro) lo aclara para cumplir 4,5:1.
+  --color-primario-texto: var(--color-primario);
   --color-error-suave: #fde8e8;
   /* Variante oscurecida para texto sobre fondos claros/blancos — el rojo de marca (#ef4444)
      da 3.76:1 de contraste ahí, bajo el mínimo WCAG AA de 4.5:1. Se usa #991b1b que cumple
@@ -119,12 +121,13 @@ button {
 
 .btn--secundario {
   background: var(--fondo-tarjeta);
-  color: var(--color-primario);
-  border: 1.5px solid var(--color-primario);
+  color: var(--color-primario-texto);
+  border: 1.5px solid var(--color-primario-texto);
 }
 
 .btn--peligro {
-  background: var(--color-error);
+  // #dc2626 y no --color-error (#ef4444): con texto blanco da 4,8:1 (axe, tarea 10).
+  background: #dc2626;
   color: white;
 }
 

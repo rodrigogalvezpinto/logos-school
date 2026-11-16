@@ -1794,3 +1794,15 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   total, huérfanos eliminados). `logos_qa` respaldada (`~/Documents/Logos-respaldos/logos_qa-20261116-1642.sql`) y recreada
   desde `contenido/` (6.181 preguntas, 0 sin OA). Falta solo el tag de aprobación, que es decisión del dueño, y la revisión
   docente real.
+
+### 15.41 Tarea 10 — accesibilidad (axe) en las pantallas donde el alumno responde (2026-11-16)
+
+- Pruebas nuevas en `frontend/e2e/accesibilidad.spec.ts`: autoevaluación con la explicación visible; prueba de unidad en
+  curso, aviso de entrega y resultados; simulacro en modo examen, su aviso y su resultado.
+- Fallas encontradas (todas de contraste, impacto «serio»):
+  - `.btn--peligro` («Enviar de todas formas»): blanco sobre #ef4444 = 3,76:1 → fondo #dc2626 (4,8:1).
+  - En modo examen, índigo de marca #5b4fe9 sobre fondo oscuro (2,5–3,2:1) en «Finalizar intento», «🔊 Escuchar» e
+    «Ir a revisar» → variable nueva `--color-primario-texto` (igual a la marca en modo claro, #c7c2ff en modo examen, 8:1).
+  - «✗ Incorrecta» en el resultado del modo examen: #f87171 sobre la fila de error = 4,38:1 → #fca5a5.
+- La prueba del simulacro se saltaba en Chromium y WebKit (`isVisible()` sin esperar la carga); corregida.
+- Resultado: axe 63/63 en Chromium, Firefox y WebKit; frontend unitario 142/142.

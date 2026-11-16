@@ -126,6 +126,51 @@ test.describe('Accesibilidad (axe-core)', () => {
       await page.waitForSelector('h1');
       await sinViolacionesGraves(page);
     });
+
+    // Tarea 10 de la cola (2026-11-16): las pantallas donde el alumno responde y ve su resultado.
+    test('Autoevaluación con la explicación visible sin violaciones graves', async ({ page }) => {
+      await page.goto('/alumno/estudiar/1');
+      await page.getByRole('link', { name: /quiero practicar/ }).click();
+      await page.getByRole('button', { name: 'Comenzar' }).click();
+      await page.locator('.opcion').first().click();
+      const ayuda = page.locator('.btn-ayuda-practica');
+      if (await ayuda.isVisible()) await ayuda.click();
+      await page.waitForSelector('.feedback');
+      await sinViolacionesGraves(page);
+    });
+
+    test('Prueba de unidad en curso, aviso de entrega y resultados sin violaciones graves', async ({ page }) => {
+      await page.goto('/alumno/evaluaciones');
+      await page.locator('.conjunto-card:not(.conjunto-card--examen) .conjunto-card__boton').first().click();
+      await page.getByRole('button', { name: 'Comenzar' }).click();
+      await page.waitForSelector('.pregunta__enunciado');
+      await page.locator('.opcion').first().click();
+      await sinViolacionesGraves(page);
+      await page.getByRole('button', { name: 'Finalizar intento' }).click();
+      await page.waitForSelector('.modal');
+      await sinViolacionesGraves(page);
+      await page.getByRole('button', { name: 'Enviar de todas formas' }).click();
+      await page.waitForSelector('.resultado__nota');
+      await sinViolacionesGraves(page);
+    });
+
+    test('Simulacro en modo examen y su resultado sin violaciones graves', async ({ page }) => {
+      await page.goto('/alumno/evaluaciones');
+      await page.waitForSelector('.conjunto-card'); // isVisible() no espera: sin esto se saltaba
+      const examen = page.locator('.conjunto-card--examen .conjunto-card__boton').first();
+      test.skip(!(await examen.isVisible()), 'sin simulacro disponible para este perfil');
+      await examen.click();
+      await page.getByRole('button', { name: 'Comenzar' }).click();
+      await page.waitForSelector('.pregunta__enunciado');
+      await page.locator('.opcion').first().click();
+      await sinViolacionesGraves(page);
+      await page.getByRole('button', { name: 'Finalizar intento' }).click();
+      await page.waitForSelector('.modal'); // quedan preguntas sin responder: siempre pide confirmar
+      await sinViolacionesGraves(page);
+      await page.getByRole('button', { name: 'Enviar de todas formas' }).click();
+      await page.waitForSelector('.resultado__nota');
+      await sinViolacionesGraves(page);
+    });
   });
 
   test('Dashboard de Admin sin violaciones graves', async ({ page }) => {

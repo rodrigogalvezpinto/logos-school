@@ -83,7 +83,7 @@ control pendiente.
 | 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | ✅ hecho 2026-11-16 (C.2, tres pasadas; guardas en pytest) |
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
 | 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | ✅ hecho 2026-11-16 (matriz al día con HEAD: tamaños, huellas, estado tras Fase 1 y pendientes por archivo; CLAUDE.md con el estado vigente) |
-| 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | pendiente |
+| 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | ✅ hecho 2026-11-16 (63/63 en los 3 navegadores; contraste corregido en modo examen y en «Enviar de todas formas») |
 | 11 | `docs/PENDIENTES-USUARIO.md`: lista de cuentas y claves que hacen falta (Neon, Render, Cloudflare Pages/R2, Resend, Google OAuth, Turnstile, Sentry, UptimeRobot, pasarela de pago, API de IA), con costo, paso a paso y dónde se configura cada una. También las decisiones abiertas | ✅ hecho 2026-11-07 (`docs/PENDIENTES-USUARIO.md`) |
 | 12 | Preparar el despliegue sin desplegar: verificar `.env.example`, la configuración de producción, el CSP y los headers. Script para publicar los audios en R2 o en el build. Checklist de despliegue paso a paso. Va en `main` (es documentación y configuración) | ✅ hecho 2026-11-07 (`docs/DESPLIEGUE.md`, `render.yaml`, CORS configurable) |
 | 13 | Rama `feature/juegos-practica`: juegos de práctica con el banco de preguntas (Fase 2 de Brincus, sin dependencias externas). Diseño en `planificacion/` y después la construcción, con pruebas | pendiente |
@@ -91,6 +91,8 @@ control pendiente.
 | 15 | Rama `feature/pasarela-pago`: adaptador de pagos (Flow, Mercado Pago o Webpay, a elegir por el usuario) con interfaz y modo de prueba. Queda detrás de una variable de entorno | pendiente |
 
 ## Bitácora
+
+- 2026-11-16 (tarde): **Tarea 10 cerrada.** Axe ahora recorre autoevaluación con explicación, prueba de unidad en curso, aviso de entrega, resultados y simulacro en modo examen. Salieron 5 fallas de contraste (todas en el modo examen oscuro y en el botón rojo de confirmar) y se corrigieron con una variable nueva `--color-primario-texto`. 63/63 en los 3 navegadores. **Siguiente:** tarea 8 (Forma A régimen B/C) y las ramas de las tareas 13–15.
 
 - 2026-11-15 (noche): **C.2 cerrado de verdad**: 0 copias exactas, 0 casi copias y 0 lecturas copiadas en pruebas y simulacros de los 12 cursos (§15.39). C.4 completo: las 769 explicaciones están escritas, en pruebas y en simulacros. **Defecto nuevo para la Fase 2:** fechas calculadas en UTC, así que la actividad del domingo en la noche se cuenta en la semana siguiente (§15.39). **Siguiente:** C.4 en simulacros, D (imágenes, decisión del usuario), control 6 (tag).
 

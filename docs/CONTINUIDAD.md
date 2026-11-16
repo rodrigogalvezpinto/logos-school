@@ -214,6 +214,9 @@ guardar el SVG en un .html y capturarlo con `npx playwright screenshot`.
 4. ⏳ **Decisión del dueño:** tag Git `material-aprobado-AAAA-MM-DD` con un informe breve por curso.
 
 ### 6.6 Fase 2 y mejoras (después)
+- ✅ (2026-11-16) Tarea 10, accesibilidad con axe en las pantallas del alumno (autoevaluación, prueba, aviso de entrega,
+  resultados, simulacro en modo examen): 63/63 en los 3 navegadores. Para texto o borde en color de marca usar
+  `var(--color-primario-texto)`, no `var(--color-primario)`: el modo examen (fondo oscuro) la redefine a un tono claro.
 Ver la tabla de tareas de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (accesibilidad con axe, juegos de práctica,
 tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de entorno) y `docs/PENDIENTES-USUARIO.md`
 (cuentas y claves que debe crear el dueño).
@@ -254,3 +257,5 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
   un simulacro (C.7). El 2026-11-16 dos simulacros rehechos quedaron iguales a una prueba y dos datos nuevos, iguales a la guía.
 - **Revisar el sesgo de longitud de lo rehecho:** la correcta tiende a quedar más larga y detallada. Medir con
   `ajustar_distractores.sesgada` y alargar distractores con `aplicar_en` (sin tocar la clave).
+- **`isVisible()` no espera.** En Playwright, `if (await x.isVisible())` justo después de navegar o de abrir un modal da
+  `false` si aún no aparece, y la prueba se salta en silencio. Esperar antes (`waitForSelector`) y revisar los «skipped».

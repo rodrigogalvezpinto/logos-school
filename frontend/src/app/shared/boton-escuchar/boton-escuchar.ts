@@ -19,7 +19,7 @@ import { textoParaVoz } from '../texto-para-voz';
         align-items: center;
         gap: 0.4rem;
         background: var(--color-primario-suave);
-        color: var(--color-primario);
+        color: var(--color-primario-texto);
         border: none;
         border-radius: 999px;
         padding: 0.5rem 1rem;

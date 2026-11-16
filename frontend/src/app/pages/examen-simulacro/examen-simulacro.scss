@@ -8,6 +8,8 @@
   --texto-secundario: #b7aef2;
   --borde: #3a3568;
   --color-primario-suave: #2a2559;
+  // El índigo de marca sobre este fondo da 2,5–3,2:1; para texto y bordes se usa un tono claro (8:1).
+  --color-primario-texto: #c7c2ff;
   --color-exito-suave: rgba(34, 197, 94, 0.18);
   --color-alerta-suave: rgba(245, 158, 11, 0.18);
   --color-error-suave: rgba(239, 68, 68, 0.18);
@@ -18,7 +20,7 @@
   // fondo oscuro en su lugar.
   --color-exito-texto: #4ade80;
   --color-alerta-texto: #fbbf24;
-  --color-error-texto: #f87171;
+  --color-error-texto: #fca5a5; // #f87171 daba 4,38:1 sobre la fila con fondo de error
   --sombra-tarjeta: none;
   --fila-alterna: rgba(255, 255, 255, 0.04);
   --fila-hover: rgba(255, 255, 255, 0.08);
