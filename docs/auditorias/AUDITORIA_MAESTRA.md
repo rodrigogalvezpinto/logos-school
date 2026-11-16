@@ -1790,3 +1790,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Cierre, paso 1: validación en los 3 navegadores (Chromium, Firefox, WebKit) de los 12 cursos con el material final,
   en verde** (54/54 en 1.° a 4.° básico; 72/72 de 5.° básico a 2.° medio; 75/75 en 3.° medio; 69/69 en 4.° medio). Una
   primera corrida falló en 7.° básico porque la SPA de pruebas era una compilación anterior a los mapas; recompilada, pasó.
+- **Cierre, pasos 2 y 3.** Audios de 1.° a 4.° básico regenerados con Kokoro desde el contenido final (546 nuevos, 1.495 en
+  total, huérfanos eliminados). `logos_qa` respaldada (`~/Documents/Logos-respaldos/logos_qa-20261116-1642.sql`) y recreada
+  desde `contenido/` (6.181 preguntas, 0 sin OA). Falta solo el tag de aprobación, que es decisión del dueño, y la revisión
+  docente real.

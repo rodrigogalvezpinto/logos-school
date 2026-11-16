@@ -209,9 +209,9 @@ guardar el SVG en un .html y capturarlo con `npx playwright screenshot`.
 
 ### 6.5 Cierre de Fase 1
 1. ✅ (2026-11-16) Validación en los 3 navegadores de los 12 cursos con el material final: 54 pruebas por curso en 1.° a 4.° básico, 72 en 5.° básico a 2.° medio, 75 en 3.° medio y 69 en 4.° medio, todas en verde. Ojo: después de cambiar el frontend hay que recompilar la SPA de pruebas (`scripts/qa/levantar_spa.sh`); si no, la validación usa la compilación anterior.
-2. Regenerar audios de lectura en voz alta (solo 1.° a 4.° básico, régimen A): `DATABASE_URL=<base con el contenido final> scripts/voz/generar_audios.sh`. Usa Kokoro (gratis, local; la primera vez descarga ≈350 MB en `~/.cache/logos-voz`) y solo genera los que faltan; con la lista completa de niveles, `LIMPIAR_HUERFANOS=1` borra los de textos que ya no existen. Salida en `frontend/public/audio/es/` (no versionada).
-3. Recargar `logos_qa` del dueño con el contenido final (respaldo antes).
-4. Tag Git `material-aprobado-AAAA-MM-DD` con un informe breve por curso.
+2. ✅ (2026-11-16) Audios regenerados desde la base con el contenido final (1.° a 4.° básico): 546 nuevos, huérfanos eliminados, 1.495 en total en `frontend/public/audio/es/` (no versionados). Comando: `DATABASE_URL=<base> LIMPIAR_HUERFANOS=1 scripts/voz/generar_audios.sh`.
+3. ✅ (2026-11-16) `logos_qa` recreada desde `contenido/` (6.181 preguntas, 0 sin OA) con las siembras de `reimportar_e2e.sh`; respaldo previo en `~/Documents/Logos-respaldos/logos_qa-20261116-1642.sql`. Las cuentas de prueba creadas a mano en esa base están en el respaldo.
+4. ⏳ **Decisión del dueño:** tag Git `material-aprobado-AAAA-MM-DD` con un informe breve por curso.
 
 ### 6.6 Fase 2 y mejoras (después)
 Ver la tabla de tareas de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (accesibilidad con axe, juegos de práctica,
