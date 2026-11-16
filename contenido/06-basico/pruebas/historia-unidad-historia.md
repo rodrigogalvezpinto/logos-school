@@ -47,10 +47,10 @@ d) 2 → 1 → 3 → 4
 
 **4. (Alternativas — OA2)** ¿Qué ocurrió en la batalla de Maipú, en 1818?
 
-a) Chile perdió definitivamente la guerra contra España
-b) Se abolió la esclavitud
+a) Chile perdió definitivamente la guerra contra España y volvió a ser colonia
+b) Se abolió la esclavitud en todo el territorio de Chile
 c) El ejército patriota venció a las tropas realistas y consolidó la independencia
-d) Se formó la Primera Junta Nacional de Gobierno
+d) Se formó la Primera Junta Nacional de Gobierno en Santiago
 
 **5. (Alternativas — OA3)** ¿Qué diferencias existían entre conservadores y
 liberales en el Chile del siglo XIX, considerando al menos el rol del Presidente/Congreso y la
@@ -79,10 +79,10 @@ d) 1970
 
 **9. (Alternativas — OA8)** ¿Qué permitió el plebiscito de 1988 en Chile?
 
-a) Que Salvador Allende asumiera como presidente
+a) Que Salvador Allende asumiera como presidente de Chile
 b) Iniciar el retorno a la democracia, porque ganó la opción "No"
-c) Que las mujeres votaran por primera vez
-d) Aprobar la Constitución de 1925
+c) Que las mujeres votaran por primera vez en una elección
+d) Aprobar la Constitución de 1925 para todo el país
 
 **10. (Alternativas — OA8)** ¿Qué hito marcó el inicio del retorno a la democracia en Chile
 y en qué año ocurrió?

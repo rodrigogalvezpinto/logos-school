@@ -53,10 +53,10 @@ c) He clean his room.
 d) He cleaned his room.
 
 **5.** *(Alternativas)* Read: *"Lost cat! Black and white, very friendly. If you see him, call 9 8765 4321."* ¿Cuál es el propósito de este texto?
-a) Dar una receta
-b) Invitar a una fiesta
+a) Dar una receta de cocina para el gato
+b) Invitar a una fiesta de cumpleaños del gato
 c) Pedir ayuda para encontrar un gato perdido
-d) Describir el clima
+d) Describir el clima del barrio donde vive el gato
 
 **6.** *(Completar)* Complete with the past simple: *"Last night I ___ a great movie with my family."*
 

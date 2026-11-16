@@ -28,10 +28,10 @@ tienen una sola respuesta correcta. Si una pregunta dice «marca todas las corre
 
 **1. (Alternativas — OA8)** ¿Cuál de las siguientes fuentes de energía proviene del **movimiento del aire**?
 
-a) El petróleo
+a) El petróleo que se extrae del subsuelo
 b) La energía eólica de los aerogeneradores
-c) El carbón
-d) La energía geotérmica
+c) El carbón que se quema en las centrales
+d) La energía geotérmica de los volcanes
 
 **2. (Verdadero o Falso — OA8)** Los objetos no necesitan energía para cambiar; solo
 los seres vivos la necesitan para realizar sus procesos vitales.
@@ -53,9 +53,9 @@ d) Porque provienen de plantas (o de animales que comieron plantas), y las plant
 
 **5. (Alternativas — OA11)** Una comuna del norte quiere generar electricidad sin agotar sus recursos en el futuro. ¿Qué recurso energético le conviene, por ser renovable?
 
-a) Petróleo
-b) Gas natural
-c) Carbón
+a) El petróleo importado desde otros países
+b) El gas natural que llega por gasoductos
+c) El carbón de las minas del sur de Chile
 d) La radiación del Sol, con paneles solares
 
 **6. (Verdadero o Falso — OA11)** El viento constante de algunas zonas costeras de Chile permite instalar parques eólicos para producir electricidad.

@@ -45,16 +45,16 @@ d) Diputado o diputada
 **4. (Alternativas — OA15)** Imagina un país donde el Presidente hace las leyes, las aplica y además decide quién es culpable en los juicios. ¿Qué problema tiene esa organización?
 
 a) Que nadie puede controlar sus decisiones: puede abusar del poder, porque no existe separación entre los poderes Legislativo, Ejecutivo y Judicial
-b) Ninguno: así las decisiones se toman más rápido
-c) Que habría demasiadas elecciones
-d) Que los jueces tendrían demasiado trabajo
+b) Ninguno: así las decisiones se toman más rápido y el país funciona mejor, porque no hay que esperar a que otros poderes revisen ni discutan nada
+c) Que habría demasiadas elecciones, porque habría que votar por separado cada vez que esa persona decide algo
+d) Que los jueces tendrían demasiado trabajo, porque deberían revisar todas las leyes que esa persona escribe
 
 **5. (Alternativas — OA16)** Si el Congreso aprobara una ley que contradice la Constitución, ¿qué debería ocurrir?
 
-a) La ley vale más que la Constitución
+a) La ley vale más que la Constitución, porque es más nueva y la aprobó el Congreso
 b) La ley no puede aplicarse, porque la Constitución está por sobre todas las leyes
-c) La Constitución se borra automáticamente
-d) Cada persona decide si la cumple
+c) La Constitución se borra automáticamente y se escribe otra
+d) Cada persona decide si la cumple o no, según su opinión
 
 **6. (Verdadero o Falso — OA16)** Un alcalde puede saltarse la Constitución si cree que así ayuda a su comuna.
 
@@ -69,10 +69,10 @@ d) Elegir al equipo de fútbol nacional
 
 **8. (Alternativas — OA17)** Un niño migrante llega a una escuela chilena y algunos compañeros se burlan de su acento. ¿Quiénes deben respetar y proteger sus derechos?
 
-a) Solamente el Estado
-b) Solamente sus compañeros
+a) Solamente el Estado, a través del colegio
+b) Solamente sus compañeros de curso
 c) Sus pares, la comunidad escolar y el Estado
-d) Nadie, porque es nuevo en el país
+d) Nadie, porque es nuevo en el país y no es chileno
 
 **9. (Alternativas — unir, OA17)** Une cada situación con el actor que está **protegiendo** un derecho:
 
@@ -89,16 +89,16 @@ d) 1-A, 2-C, 3-B
 
 **10. (Alternativas — OA18)** Javiera tiene derecho a expresar su opinión en el consejo de curso. ¿Qué deber trae consigo ese derecho?
 
-a) Ningún deber
+a) Ningún deber, porque opinar es solo un derecho
 b) Escuchar y respetar la opinión de sus compañeros, aunque piense distinto
-c) Hablar siempre más fuerte que los demás
-d) Impedir que otros opinen
+c) Hablar siempre más fuerte que los demás para que lo escuchen primero a él
+d) Impedir que otros opinen distinto para no perder tiempo
 
 **11. (Alternativas — OA18)** ¿Qué norma de la vida cotidiana está bien vinculada con el derecho que busca proteger?
 
-a) No botar basura en la plaza → derecho al voto
-b) Respetar el paso de cebra → derecho a la nacionalidad
-c) Pedir la palabra antes de hablar → derecho a la vivienda
+a) No botar basura en la plaza → derecho al voto en las elecciones
+b) Respetar el paso de cebra → derecho a la nacionalidad chilena de quienes cruzan
+c) Pedir la palabra antes de hablar en clases → derecho a la vivienda
 d) Respetar las señales del tránsito → derecho a la vida y a la integridad física
 
 ---

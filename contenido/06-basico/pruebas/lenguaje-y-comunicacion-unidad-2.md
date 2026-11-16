@@ -52,9 +52,9 @@ d) Entretener a los vecinos con una historia ficticia sobre el parque
 **3. (Alternativas — OA7)** Compara cómo la Fuente 1 y la Fuente 2 presentan la misma noticia (el nuevo parque). ¿En qué se diferencian principalmente?
 
 a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y los reclamos de los feriantes, con una visión más equilibrada
-b) Las dos dicen exactamente lo mismo sobre el parque, aunque una es más corta
-c) La Fuente 1 critica el parque por los problemas de los feriantes, y la Fuente 2 no lo menciona
-d) La Fuente 2 es un poema sobre los parques, por lo que no entrega información
+b) Las dos fuentes dicen exactamente lo mismo sobre el parque, con los mismos datos y opiniones, aunque una sea más corta que la otra
+c) La Fuente 1 critica el parque por los problemas de los feriantes y los reclamos de los vecinos, y la Fuente 2 no menciona a los feriantes
+d) La Fuente 2 es un poema sobre los parques de la ciudad, por lo que no entrega información sobre la noticia del nuevo parque
 
 **4. (Alternativas — OA7)** ¿Cuál es el **destinatario** más probable de la Fuente 2?
 
@@ -65,10 +65,10 @@ d) Lectores interesados en la actualidad de la comuna de Pudahuel
 
 **5. (Alternativas — OA14)** En el fragmento "Pedro le prestó su chaqueta a Diego porque él tenía frío", ¿qué problema tiene el texto?
 
-a) Usa demasiados conectores
-b) No tiene ningún personaje
+a) Usa demasiados conectores, como «porque», en una sola oración
+b) No tiene ningún personaje con nombre propio
 c) No queda claro a quién se refiere "él": puede ser Pedro o Diego
-d) Tiene demasiados adjetivos
+d) Tiene demasiados adjetivos para describir la chaqueta
 
 **6. (Alternativas — OA14)** ¿Qué corrección deja claros los referentes del fragmento «Martín y Diego jugaron un partido. Él hizo un gol mientras él atajaba en el arco.»?
 
@@ -88,10 +88,10 @@ d) Por ejemplo — Es decir — O sea — Como
 
 **9. (Alternativas — OA15)** Un estudiante terminó su artículo sobre los volcanes con este párrafo: "En resumen, los volcanes son una amenaza, pero también enriquecen el suelo y generan energía". ¿Qué parte de la estructura es?
 
-a) El título
+a) El título, que presenta el tema del artículo
 b) La síntesis final, que retoma las ideas principales
-c) La introducción
-d) La lista de fuentes
+c) La introducción, que presenta el problema
+d) La lista de fuentes consultadas al final
 
 **10. (Verdadero o Falso — OA15)** Un párrafo de síntesis que dice "Además, los volcanes de Japón son muy distintos" está bien escrito, porque agrega un tema nuevo al final.
 
@@ -106,8 +106,8 @@ d) Para contar una anécdota personal del autor sobre cómo ahorra agua en su ca
 
 a) "Los árboles son buenos. Los árboles ayudan. Los árboles son importantes. Los árboles sirven."
 b) "Los árboles nativos producen oxígeno, protegen el suelo de la erosión y ofrecen refugio a numerosas especies."
-c) "Árboles árboles árboles es lo mejor, porque los árboles son árboles."
-d) "Los árboles árboles ayudan ayudan, y los árboles son árboles."
+c) "Árboles árboles árboles es lo mejor de todo, porque los árboles son árboles y siempre serán árboles."
+d) "Los árboles árboles ayudan ayudan, y los árboles son árboles en todo el bosque nativo de Chile."
 
 ---
 

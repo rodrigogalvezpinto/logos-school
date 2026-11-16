@@ -27,10 +27,10 @@ alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca to
 
 **1. (Alternativas — OA11)** ¿Cuál de los siguientes es un ejemplo de rasgo **humano** de una región?
 
-a) El relieve montañoso
-b) El clima frío
+a) El relieve montañoso de la cordillera y de los cerros
+b) El clima frío y lluvioso de la zona
 c) Las actividades económicas, como la minería o el turismo
-d) Los ríos y lagos
+d) Los ríos y lagos que hay en la región
 
 **2. (Verdadero o Falso — OA11)** En la Región de Antofagasta la minería es la principal actividad económica, porque su territorio tiene grandes yacimientos de cobre.
 
@@ -50,10 +50,10 @@ d) Región Metropolitana; capital Valparaíso; glaciares en el valle central; la
 
 **5. (Alternativas — OA12)** ¿Qué dificultad principal enfrentan quienes viven en el ambiente altiplánico?
 
-a) El calor extremo durante todo el año
-b) El exceso de lluvias todo el año
+a) El calor extremo durante todo el año, de día y de noche
+b) El exceso de lluvias todo el año y las inundaciones
 c) La altura, el frío nocturno y la escasez de oxígeno
-d) Los huracanes
+d) Los huracanes que llegan desde el océano Pacífico
 
 **6. (Verdadero o Falso — OA12)** El ambiente frío y lluvioso del sur de Chile favorece el crecimiento de bosques y la actividad forestal.
 

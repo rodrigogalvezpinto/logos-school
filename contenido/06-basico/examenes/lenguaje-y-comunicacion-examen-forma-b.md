@@ -51,16 +51,16 @@ d) El norte de Chile en el presente, en una oficina salitrera
 
 **2. (Alternativas)** ¿Cómo influye el ambiente descrito en el Texto 1 (el agua helada, la corriente crecida, el aislamiento) en las reglas de seguridad y en la reacción del padre de Julián cuando lo ve en peligro?
 
-a) El río hace que no existan reglas: cada buscador decide por sí mismo cómo cuidarse, y por eso el padre no le explica nada a Julián
+a) El río hace que no existan reglas: cada buscador decide por sí mismo cómo cuidarse en el agua, y por eso el padre no le explica nada a Julián cuando lo ve cerca de la corriente
 b) El ambiente no influye: las reglas son solo una costumbre familiar que el padre repite sin saber para qué sirve
-c) El frío hace que el padre esté cansado y no se preocupe por Julián; por eso las reglas se aplican solo cuando hay un jefe presente
+c) El frío hace que el padre esté cansado y no se preocupe por Julián; por eso las reglas de seguridad se aplican solo cuando hay un jefe presente que vigila a los buscadores del río
 d) El ambiente peligroso (agua helada, corriente fuerte, lejos de cualquier ayuda) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal
 
 **3. (Alternativas — verdadero o falso justificado)** "Wara organizó la ayuda de los vecinos solo para que la comunidad la admirara, sin que le importara realmente lo que le pasaba a su abuelo." ¿Es verdadero o falso, y qué información del texto lo justifica?
 
 a) Verdadero: el texto dice que Wara quería que los vecinos la admiraran
-b) Verdadero: Wara organizó la ayuda para ganar un premio de la junta de vecinos
-c) Falso: la ayuda no la organizó Wara, sino su abuelo, que llamó a los vecinos apenas vio la pirca caída
+b) Verdadero: Wara organizó la ayuda para ganar un premio de la junta de vecinos y que todos hablaran de ella en el pueblo
+c) Falso: la ayuda no la organizó Wara, sino su abuelo, que llamó a los vecinos apenas vio la pirca caída en el corral
 d) Falso: Wara actúa preocupada al ver a su abuelo triste y silencioso por el corral; el texto no menciona interés en lucirse
 
 **4. (Alternativas)** ¿Qué opción presenta una opinión fundamentada sobre la actitud de Wara al organizar la ayuda sin que nadie se lo pidiera, y una conclusión sustentada en el Texto 2 sobre el valor de las costumbres comunitarias?
@@ -104,17 +104,17 @@ d) Quien viaja tiene miedo del mar
 
 **7. (Alternativas)** ¿Qué ocurre en la **primera estrofa** del poema, y qué sonido de la realidad imita la onomatopeya "tuc, tuc, tuc"?
 
-a) La lancha está amarrada en el muelle; "tuc" imita el canto de una gaviota
-b) Llueve fuerte y la lancha no puede salir; "tuc" imita la lluvia sobre el techo
+a) La lancha está amarrada en el muelle esperando que pase la neblina; "tuc" imita el canto de una gaviota
+b) Llueve fuerte y la lancha no puede salir del muelle por las olas; "tuc" imita la lluvia sobre el techo
 c) La lancha avanza entre la neblina y salta sobre las olas; "tuc, tuc, tuc" imita el sonido repetitivo del motor
 d) Las gaviotas despiertan mientras la lancha se aleja; "tuc" imita el viento
 
 **8. (Alternativas)** ¿Qué opción interpreta correctamente la comparación "**como un caballo que galopa en el mar**", lo que ocurre en la **segunda estrofa** y da un ejemplo correcto de **hipérbole** sobre el frío después de bañarse en el mar?
 
 a) La comparación transmite el movimiento brusco y rítmico de la lancha sobre las olas; en la segunda estrofa las gaviotas parecen observarla y quien viaja se duerme; y "tenía tanto frío que me iba a convertir en un cubo de hielo" es una hipérbole
-b) La comparación transmite un viaje tranquilo y quieto; en la segunda estrofa la lancha choca y se detiene; y "tenía frío después de bañarme" es una hipérbole
+b) La comparación transmite un viaje tranquilo y quieto, sin olas; en la segunda estrofa la lancha choca contra una roca y se detiene en medio del mar; y "tenía frío después de bañarme en el mar" es una hipérbole, porque exagera
 c) La comparación transmite miedo a los caballos; en la segunda estrofa ya es de noche y la lancha vuelve; y "me puse un chaleco" es una hipérbole
-d) No hay ninguna comparación en el poema; en la segunda estrofa no pasa nada nuevo; y "el agua estaba fría como el hielo" es una hipérbole, porque exagera el frío
+d) No hay ninguna comparación en el poema, porque no usa la palabra «como»; en la segunda estrofa no pasa nada nuevo en el viaje; y "el agua estaba fría como el hielo" es una hipérbole, porque exagera el frío del mar
 
 ---
 
@@ -146,8 +146,8 @@ d) Década de 2000, España
 **10. (Alternativas)** ¿Qué se puede inferir del hecho de que el Texto B mencione que el sistema "se ha replicado en países como Chile, India y España"?
 
 a) Que es una técnica reconocida y utilizada en distintas partes del mundo
-b) Que fue inventada en esos países e Israel la copió
-c) Que en Chile ya no se usa el riego por goteo
+b) Que fue inventada en esos países y que Israel después la copió de ellos
+c) Que en Chile ya no se usa el riego por goteo en los campos
 d) Que solo funciona en países muy lluviosos
 
 **11. (Alternativas)** Según la tabla del Texto A, ¿cuál es el **promedio** de litros ahorrados por semana considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre)?
@@ -159,15 +159,15 @@ d) 160 litros
 
 **12. (Alternativas — verdadero o falso justificado)** "El Texto A explica por qué el goteo pierde menos agua, mientras que el Texto B describe lo que cambió para las familias de Pica." ¿Es verdadero o falso, y por qué?
 
-a) Verdadero: el Texto A explica cómo funciona el goteo y el B, cómo cambió la vida en Pica
+a) Verdadero: el Texto A explica cómo funciona el goteo en Israel y el B, cómo cambió la vida de las familias en Pica
 b) Falso: es al revés; el Texto B explica cómo funciona el goteo y el Texto A describe el impacto en las familias de Pica
 c) Falso: ninguno de los dos textos habla de riego
-d) Verdadero: los dos textos dicen exactamente lo mismo con distintas palabras
+d) Verdadero: los dos textos dicen exactamente lo mismo sobre el riego por goteo, solo que con distintas palabras
 
 **13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre usar el riego por goteo en otros valles secos de Chile?
 
-a) No tienen nada en común; el goteo no podría usarse en ningún otro valle, porque cada lugar tiene un clima distinto
-b) Ambos dicen que el goteo sirve igual para todos los cultivos; por eso debería usarse en todo Chile, incluso en las zonas más lluviosas
+a) No tienen nada en común; el goteo no podría usarse en ningún otro valle de Chile, porque cada lugar tiene un clima distinto y el texto solo habla de Pica e Israel
+b) Ambos dicen que el goteo sirve igual para todos los cultivos y todos los climas; por eso debería usarse en todo Chile, incluso en las zonas más lluviosas del sur del país, sin ninguna excepción
 c) Ambos destacan que el goteo usa menos agua y que es útil donde el agua escasea; podría aplicarse en otros valles secos, por su beneficio para las familias (Texto A) y su respaldo técnico (Texto B)
 d) Ambos hablan de los glaciares como fuente de agua; el goteo solo serviría en la Antártica
 
@@ -188,30 +188,30 @@ d) Ambos hablan de los glaciares como fuente de agua; el goteo solo serviría en
 
 **14. (Alternativas)** ¿Quién es el **emisor** de la Fuente 1?
 
-a) Un vecino anónimo que visitó la plaza
+a) Un vecino anónimo que visitó la plaza el fin de semana
 b) La Municipalidad de San Bernardo (Departamento de Comunicaciones)
-c) Una familia que celebra la nueva plaza
+c) Una familia que celebra la nueva plaza en redes sociales
 d) Un vecino de los pasajes cercanos que reclama por el ruido
 
 **15. (Alternativas)** ¿Cuál de las siguientes afirmaciones es **verdadera** según la Fuente 2?
 
-a) Todos los vecinos están de acuerdo con la nueva plaza
+a) Todos los vecinos están de acuerdo con la nueva plaza y nadie ha reclamado por ella
 b) Las familias y algunos vecinos de los pasajes cercanos tienen opiniones distintas sobre la obra
-c) La Municipalidad decidió cerrar la plaza
-d) La plaza recibe exactamente 10.000 visitas al día
+c) La Municipalidad decidió cerrar la plaza por los reclamos de los vecinos
+d) La plaza recibe exactamente 10.000 visitas al día, según el conteo municipal
 
 **16. (Alternativas)** Si quisieras saber "cuántos vecinos exactamente reclaman por el ruido de la plaza", ¿qué afirmación es correcta?
 
 a) Ninguna fuente da una cifra exacta: la Fuente 2 solo dice "varios vecinos"; habría que consultar a la junta de vecinos o hacer una encuesta
-b) Sí, la Fuente 1 dice que son exactamente 25 vecinos
-c) Sí, la Fuente 2 entrega la cifra exacta, porque entrevistó a todos los vecinos
-d) No se puede saber nunca, porque esa información no existe en ninguna parte
+b) Sí, la Fuente 1 dice que son exactamente 25 vecinos, y la Fuente 2 confirma esa misma cifra con sus entrevistas
+c) Sí, la Fuente 2 entrega la cifra exacta, porque entrevistó a todos los vecinos de los pasajes cercanos a la plaza uno por uno
+d) No se puede saber nunca, porque esa información no existe en ninguna parte y nadie podría averiguarla, ni siquiera con una encuesta
 
 **17. (Alternativas)** ¿Qué opción describe correctamente el propósito de la Fuente 1 y de la Fuente 2, y por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva?
 
-a) Las dos fuentes tienen el mismo propósito; no importa quién emite un texto, porque los hechos son los mismos para todos
+a) Las dos fuentes tienen el mismo propósito, que es informar; no importa quién emite un texto, porque los hechos sobre la plaza son los mismos para todos y cualquier fuente sirve por igual para formarse una opinión completa
 b) La Fuente 1 critica a la Municipalidad y la Fuente 2 la elogia; conocer el propósito no cambia cómo se lee la información
-c) Ninguna tiene un propósito especial, porque los textos informativos siempre son neutrales; basta con leer una sola fuente
+c) Ninguna tiene un propósito especial, porque los textos informativos siempre son neutrales; basta con leer una sola fuente sobre la plaza, ya sea la de la Municipalidad o la del medio local, para conocer toda la información
 d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva
 
 ---

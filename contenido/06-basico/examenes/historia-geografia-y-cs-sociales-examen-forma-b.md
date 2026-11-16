@@ -110,9 +110,9 @@ d) Los patriotas
 **Pregunta 6.** (1 punto)
 Después de 1833, el Presidente de Chile nombraba a los ministros, intendentes y jueces, y podía declarar estado de sitio. ¿Qué rasgo de la Constitución de 1833 muestra esto?
 
-a) Dio más poder al Congreso que al Presidente
+a) Dio más poder al Congreso que al Presidente de la República
 b) Estableció el voto para todas las personas
-c) Eliminó los cargos de autoridad en las provincias
+c) Eliminó los cargos de autoridad en las provincias del país
 d) Concentró el poder en la figura del Presidente de la República
 
 ---
@@ -242,10 +242,10 @@ d) Porque todas las regiones de Chile son exactamente iguales entre sí, y conoc
 **Pregunta 16.** (1 punto)
 ¿Cómo se han adaptado los habitantes del norte de Chile a las condiciones del ambiente desértico?
 
-a) Construyendo canales para drenar el exceso de lluvia
+a) Construyendo canales y desagües para drenar el exceso de lluvia en los valles
 b) Usando atrapanieblas, riego por goteo y plantas desalinizadoras para obtener agua
-c) Cultivando arroz en terrenos inundados
-d) Abrigándose con ropa de lana durante todo el año por las nevazones
+c) Cultivando arroz en terrenos inundados junto a los ríos del desierto
+d) Abrigándose con ropa de lana durante todo el año por las nevazones del desierto
 
 ---
 

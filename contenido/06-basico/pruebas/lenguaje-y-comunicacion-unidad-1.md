@@ -72,25 +72,25 @@ ultima_actualizacion: 2026-10-28
 
 **1. (Alternativas — OA4)** ¿Cuál es la relación de causa-consecuencia correcta en el Texto 1?
 
-a) Rosa ayudó a su padre a recoger las cosas → los bomberos la felicitaron frente a todos
-b) Hubo un terremoto en Valparaíso → Rosa se fue a vivir a otra ciudad
+a) Rosa ayudó a su padre a recoger las cosas de la casa → los bomberos la felicitaron frente a todos los vecinos del cerro
+b) Hubo un terremoto en Valparaíso → Rosa se fue a vivir a otra ciudad con su familia para estar más segura
 c) Rosa se metió sola entre los escombros, desobedeciendo la advertencia → un trozo de muro cayó junto a sus pies y casi sufre un accidente
-d) Llovió mucho en el altiplano → los vecinos repararon un canal
+d) Llovió mucho en el altiplano → los vecinos repararon un canal y volvieron a sembrar sus terrenos
 
 **2. (Alternativas — OA4)** ¿Por qué Rosa ignoraba las advertencias de su padre al comienzo del relato?
 
 a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos
-b) Porque no escuchaba bien a su padre por el ruido de la calle
-c) Porque su padre le había dado permiso para entrar en las casas dañadas
-d) Porque después del terremoto ya no había ningún peligro
+b) Porque no escuchaba bien a su padre por el ruido de la calle y de los escombros que caían
+c) Porque su padre le había dado permiso para entrar sola en las casas dañadas por el terremoto
+d) Porque después del terremoto ya no había ningún peligro en las calles ni en las casas dañadas del cerro donde vivía con su padre
 
 **3. (Verdadero o Falso — OA4)** En el Texto 2, la costumbre del *ayni* influye directamente en la decisión de Inés de pedir ayuda a los vecinos en vez de pedir un préstamo.
 
 **4. (Alternativas — OA4)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
 
-a) Chile actual, en una ciudad del desierto
+a) Chile actual, en una ciudad del desierto del norte
 b) El sur de Chile en el presente, en un pueblo de pescadores
-c) La época de la Colonia española, en Santiago
+c) La época de la Colonia española, en la ciudad de Santiago
 d) Valparaíso a comienzos del siglo XX, después del terremoto de 1906
 
 **5. (Alternativas — OA5)** ¿Qué figura del lenguaje se usa en "Esperé mil años en el muelle"?
@@ -112,16 +112,16 @@ d) "Susurra suave el mar salado": se repite el sonido "s" y hace sentir el murmu
 **8. (Alternativas — OA5)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **implícita** (no explícita)?
 
 a) El hablante echa de menos a su familia, aunque el poema no lo diga con esas palabras
-b) El viaje es en barco, como indica el título
-c) El motor del barco hace tac-tac-tac, según el texto
-d) El poema tiene dos estrofas, como se ve al leerlo
+b) El viaje es en barco hacia una isla del sur de Chile, como indica el título del poema
+c) El motor del barco hace tac-tac-tac, según dice el texto
+d) El poema tiene dos estrofas, como se ve al leerlo completo
 
 **9. (Alternativas — OA6)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas escuelas rurales gracias a los paneles solares?
 
-a) Dejaron de necesitar profesores
+a) Dejaron de necesitar profesores, porque ahora enseñan los computadores
 b) Pudieron usar computadores y mantener la leche fresca para el desayuno
-c) Consiguieron agua potable para todo el pueblo
-d) Mejoraron sus caminos de acceso
+c) Consiguieron agua potable para todo el pueblo y para las casas cercanas
+d) Mejoraron sus caminos de acceso y ya no se cortan en invierno
 
 **10. (Alternativas — OA6)** Según la tabla del Texto A, ¿en qué mes se produjo la menor cantidad de energía, y cuánta fue?
 
@@ -134,10 +134,10 @@ d) En septiembre, con 180 kWh
 
 **12. (Alternativas — OA6)** ¿Cuál de las siguientes afirmaciones compara correctamente información de ambos textos (A y B)?
 
-a) "Ambos textos afirman que los paneles solares producen la misma energía todo el año"
+a) "Ambos textos afirman que los paneles solares producen la misma energía todo el año, en verano y en invierno, en cualquier región"
 b) "El Texto A muestra el impacto de los paneles en las escuelas y sus datos de producción, y el Texto B explica por qué la producción baja en invierno"
-c) "El Texto B dice que los paneles solares se inventaron en la Región de Coquimbo"
-d) "Ninguno de los dos textos menciona la luz del sol"
+c) "El Texto B dice que los paneles solares se inventaron en la Región de Coquimbo y que desde ahí se llevaron a las escuelas del país"
+d) "Ninguno de los dos textos menciona la luz del sol, porque los paneles funcionan con el viento de la costa"
 
 ---
 
