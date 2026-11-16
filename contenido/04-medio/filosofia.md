@@ -172,7 +172,7 @@ una posición con razones.
    c) A favor: siempre llega a verdades definitivas que nadie puede discutir. En contra: es igual que la física, así que podría reemplazarse por clases de ciencias
    d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles
    **Respuesta correcta:** d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles.
-   **Retroalimentación:** Ambos argumentos deben estar razonablemente fundamentados, no solo afirmados; las otras opciones atribuyen a la filosofía rasgos falsos.
+   **Retroalimentación:** A favor, la filosofía desarrolla el pensamiento crítico, la detección de falacias y la reflexión sobre fines y valores; en contra, rara vez llega a consensos definitivos. Los dos argumentos son razonables; las otras opciones le atribuyen rasgos falsos.
 
 7. *(Verdadero o falso — desafiante)* Reconocer límites en el quehacer
    filosófico (por ejemplo, que no produce resultados verificables
@@ -230,7 +230,7 @@ una posición con razones.
     c) Decide según el horóscopo
     d) Evita pensar en el tema para no confundirse, porque reflexionar sobre los prejuicios solo genera dudas y retrasa la decisión
     **Respuesta correcta:** a) Examina si está descartando una carrera por prejuicios heredados ("esa carrera es solo para hombres/mujeres") en lugar de por razones propias.
-    **Retroalimentación:** Usar una perspectiva filosófica no es solo nombrarla, sino aplicarla de forma argumentada a una decisión significativa.
+    **Retroalimentación:** Liberarse de prejuicios es examinar si una creencia heredada, como «esa carrera es solo para hombres» o «solo para mujeres», está guiando la decisión en vez de las razones propias. La estudiante aplica esa perspectiva a una decisión concreta.
 
 13. *(Alternativas — desafiante)* ¿Cuál de las siguientes es un límite
     genuino y reconocido del quehacer filosófico, y no una exageración
@@ -369,7 +369,7 @@ pensar tu propia vida y la sociedad en la que vives.
    c) Ambas perspectivas exigen construir el hospital sin discusión: el bienestar de la mayoría y el deber de proteger la salud pública justifican siempre la expropiación, sin considerar a la familia
    d) Ninguna perspectiva puede decir nada sobre el caso
    **Respuesta correcta:** a) Consecuencialista: podría justificarse la expropiación si el bienestar de la mayoría supera el perjuicio a la familia. Deontológica: expropiar a la fuerza viola el derecho de propiedad y trata a la familia como mero medio.
-   **Retroalimentación:** Ambos marcos aplicados al mismo caso pueden llevar a conclusiones distintas, y ninguna se sigue automáticamente como "la correcta".
+   **Retroalimentación:** Para el consecuencialismo, la expropiación podría justificarse si el bienestar de la mayoría supera el daño a la familia; para la deontología, expropiar por la fuerza viola un derecho que no depende del resultado. Los dos marcos llegan a conclusiones distintas.
 
 5. *(Alternativas — intermedio)* Un país permite que cualquier persona
    compita por un puesto de trabajo sin discriminación legal, pero no
@@ -413,7 +413,7 @@ pensar tu propia vida y la sociedad en la que vives.
    c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias
    d) La deontología prueba definitivamente que el utilitarismo es absurdo, porque los deberes son siempre más importantes que cualquier consecuencia, así que el debate entre ambas teorías ya está cerrado y no admite más discusión
    **Respuesta correcta:** c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias.
-   **Retroalimentación:** La objeción es sólida sin descartar el utilitarismo: reconoce que ambas posturas son legítimas y están en debate.
+   **Retroalimentación:** Si solo importara el bienestar total, se podría sacrificar a un inocente o los derechos de una minoría cuando eso aumente el bienestar. La objeción muestra ese límite sin declarar falso al utilitarismo.
 
 9. *(Alternativas — simple)* Una empresa decide repartir un bono anual dando
    más dinero a quienes trabajaron más horas extra ese año, sin importar su
@@ -832,7 +832,7 @@ presentación) para comunicar esas ideas.
    c) Igualdad: no todas las personas tienen las mismas condiciones (espacio, cuidados) para aprovechar esa modalidad
    d) No tiene relación con la ética, porque es solo un tema técnico
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** Se trata de conectar el fenómeno con un concepto específico y argumentar con un ejemplo concreto, no solo mencionarlo de pasada.
+   **Retroalimentación:** Para algunas personas, el trabajo remoto amplía su libertad positiva (organizar su tiempo y conciliar trabajo y familia); para otras, borra los límites entre trabajo y vida personal y reduce su libertad efectiva.
 
 5. *(Alternativas — intermedio)* Un artista genera una obra usando
    inteligencia artificial a partir de un texto (prompt) que escribió. Un
@@ -913,7 +913,7 @@ presentación) para comunicar esas ideas.
     c) No hay problema ético, porque la tecnología es neutral por definición
     d) El caso solo plantea un problema de costos para el municipio
     **Respuesta correcta:** a y b.
-    **Retroalimentación:** Relacionar el fenómeno con un concepto específico exige argumentar la conexión, no solo mencionarlo.
+    **Retroalimentación:** La vigilancia permanente limita la libertad negativa de circular sin ser monitoreado; y si el sistema se equivoca más con ciertos grupos, distribuye sus costos de forma desigual, lo que plantea un problema de justicia.
 
 12. *(Alternativas — intermedio)* Alguien compra una obra de arte digital
     única (un archivo con un certificado de propiedad asociado), aunque

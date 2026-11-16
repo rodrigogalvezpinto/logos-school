@@ -167,7 +167,7 @@ forma ordenada.
    c) Da instrucciones para armar un mueble
    d) Da una opinión evaluativa sobre una obra
    **Respuesta correcta:** d) Da una opinión evaluativa sobre una obra.
-   **Retroalimentación:** Reconocer la estructura y función de cada tipo de texto ayuda a anticipar qué información buscar en él.
+   **Retroalimentación:** Una reseña de libro (book review) entrega una opinión evaluativa sobre la obra: dice qué le pareció a quien la escribe y por qué. Reconocerlo ayuda a saber qué información buscar en ella.
 
 6. *(Alternativas — Comprensión)* Read: *"This podcast transcript discusses whether artificial intelligence should be allowed to make medical decisions without a human doctor's approval. Two experts share opposing views."* What is the purpose of this text?
    a) To sell a new medical AI product to hospitals and doctors around the world, without human approval
@@ -214,7 +214,7 @@ forma ordenada.
     c) Both: specialized readers, formal and technical, because both texts were published online
     d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous
     **Respuesta correcta:** d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous.
-    **Retroalimentación:** Comparar dos textos sobre el mismo tema exige identificar diferencias de audiencia y tono según su propósito y medio de publicación.
+    **Retroalimentación:** El Texto A, de una revista científica, usa vocabulario técnico para lectores especializados; el Texto B, un blog para adolescentes, explica con comparaciones simples y humor, en un tono informal.
 
 11. *(Alternativas — Comprensión — desafiante)* Read: *"This article was written for a general audience with no scientific background. It uses simple analogies, such as comparing neural networks to how the human brain learns, to explain artificial intelligence."* Why does the author use simple analogies instead of technical language?
     a) Because the author does not know technical words and prefers to write simple texts
@@ -259,7 +259,7 @@ forma ordenada.
     c) a spaceship that crashed on Earth / the oxygen tank / repairing Reyes, the engineer / adventure and exploration in space
     d) deep space near a new planet / an astronaut named Signal / finding a new planet to live / isolation and loneliness
     **Respuesta correcta:** a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology.
-    **Retroalimentación:** Organizar la información en una tabla exige localizar datos específicos y clasificarlos por categoría, la habilidad central de este OA.
+    **Retroalimentación:** El texto dice dónde ocurre (una nave perdida en el espacio), quién es el protagonista (Reyes, un ingeniero), cuál es el conflicto (reparar la IA antes de que se acabe el oxígeno) y el tema (aislamiento y confianza en la tecnología).
 
 ---
 
@@ -359,7 +359,7 @@ estas estructuras con una postura personal crítica.
    c) playing the guitar / every day / jazz
    d) rock / two years / guitar
    **Respuesta correcta:** b) playing the guitar / two years / rock.
-   **Retroalimentación:** Discriminar información relevante implica seleccionar solo los datos que responden a las categorías pedidas.
+   **Retroalimentación:** El texto dice que el pasatiempo es tocar guitarra, que lleva dos años aprendiendo y que su género favorito es el rock. Cada dato va en su categoría; «after school» no se pide.
 
 5. *(Alternativas — Selección)* ¿Qué significa el modal *"can't have"* + participio?
    a) Posibilidad: quizás ocurrió, pero no hay certeza
@@ -453,7 +453,7 @@ estas estructuras con una postura personal crítica.
     c) collecting vinyl records / since yesterday / pop music
     d) jazz / since age twelve / vinyl
     **Respuesta correcta:** a) collecting vintage vinyl records / since age twelve / jazz.
-    **Retroalimentación:** Discriminar información relevante implica extraer solo los datos que corresponden a cada categoría pedida.
+    **Retroalimentación:** El texto dice que el pasatiempo es coleccionar vinilos antiguos, que lo hace desde los doce años y que su género favorito para coleccionar es el jazz. Cada dato va en su categoría.
 
 15. *(Alternativas — Producción breve — desafiante)* Which short text integrates reported speech, a modal of speculation **and** a justified personal opinion?
     a) "Our team trains every day after school. We won three matches this season, and our coach is very happy with the results."
@@ -644,7 +644,7 @@ sobre otras visiones de mundo y la tuya propia.
     c) Because / However / deny
     d) According to / Therefore / refuse
     **Respuesta correcta:** a) According to / Meanwhile / suggest.
-    **Retroalimentación:** Este marco organiza la información de dos fuentes distintas (texto leído y escuchado) antes de llegar a una conclusión conjunta.
+    **Retroalimentación:** «According to» presenta lo que dice el artículo, «Meanwhile» introduce la segunda fuente (la entrevista) y «suggest» lleva a la conclusión conjunta. Así se integran las dos fuentes.
 
 14. *(Verdadero o falso)* Si un artículo leído afirma que la tecnología
     dificulta las relaciones cara a cara, pero una entrevista escuchada
@@ -662,7 +662,7 @@ sobre otras visiones de mundo y la tuya propia.
     c) "According to the article, the article says that the article is interesting. Meanwhile, the interview says that the interview is interesting. Both sources suggest that the sources are interesting, and I think identity is interesting too, because it is about identity and roots and the south of Chile."
     d) "According to the article, many young Chileans feel a strong connection to their regional roots. Meanwhile, in the interview, a teenager from the south said that moving to the city made her value her hometown traditions even more. Both sources suggest that distance can strengthen one's sense of identity."
     **Respuesta correcta:** d) "According to the article, many young Chileans feel a strong connection to their regional roots. Meanwhile, in the interview, a teenager from the south said that moving to the city made her value her hometown traditions even more. Both sources suggest that distance can strengthen one's sense of identity.".
-    **Retroalimentación:** Se integran dos fuentes distintas en un texto propio y coherente, señalando en qué coinciden.
+    **Retroalimentación:** El texto combina lo que dice el artículo («According to…») y lo que dijo el adolescente en la entrevista («Meanwhile…»), con palabras propias y sin copiar oraciones literalmente.
 
 ---
 

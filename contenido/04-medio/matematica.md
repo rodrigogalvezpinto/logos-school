@@ -240,7 +240,7 @@ c) El efecto de la inflación proyectada sobre el poder adquisitivo de cada alte
 d) El color del logo del banco
 
 **Respuesta correcta: a, b y c.**
-*Retroalimentación:* una decisión financiera se fundamenta en algo más que comparar tasas.
+*Retroalimentación:* Antes de decidir conviene saber si necesitará el dinero pronto (liquidez), cuánto riesgo está dispuesto a correr y cuánto afectará la inflación al poder de compra. Comparar solo las tasas no basta.
 
 ---
 
@@ -652,7 +652,7 @@ c) ¿Se controlaron otras variables, como el sueño o la dieta?
 d) ¿De qué color es la caja del suplemento?
 
 **Respuesta correcta: a, b y c.**
-*Retroalimentación:* también conviene preguntar si el resultado fue estadísticamente significativo.
+*Retroalimentación:* Con solo 15 personas, sin un grupo de control y sin controlar variables como el sueño o la dieta, no se puede atribuir la mejora al suplemento. También conviene preguntar si el resultado fue estadísticamente significativo.
 
 **Pregunta 18 (alternativas — binomial con complemento).** Cada artículo tiene probabilidad 0,02 de ser defectuoso. En una muestra de 5, ¿cuál es la probabilidad de ninguno defectuoso y de al menos uno?
 a) ≈ 9,61% y ≈ 90,39%

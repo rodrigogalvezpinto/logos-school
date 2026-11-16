@@ -233,7 +233,7 @@ b) Periodista neutral que presenta en igual medida las posturas de las regiones 
 c) Vocero de las empresas mineras, que defiende sus utilidades frente a las regiones y descalifica a quienes proponen aumentar la tributación
 d) Científico que solo expone datos técnicos sobre la minería y el agua, sin tomar ninguna postura sobre la distribución de la riqueza
 
-*Respuesta correcta: a.* Retroalimentación: Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
+*Respuesta correcta: a.* Retroalimentación: El enunciador se presenta como defensor de la región y del ambiente frente a un poder económico concentrado: no expone con igual peso los argumentos de las mineras y su cierre interpela directamente a la audiencia.
 
 **4. (Alternativas)** ¿Qué dato del texto es más fácilmente verificable por el lector?
 
@@ -414,7 +414,7 @@ b) "Por un lado, por otro lado, en consecuencia, además, sin embargo. Ambos tex
 c) "Ambos textos tratan el desarraigo, pero lo miran desde lugares distintos. Por un lado, el Texto A se vuelve hacia la casa perdida de Valparaíso. Por otro lado, el Texto B se orienta a la vida que Wilmer construye. En consecuencia, uno es elegíaco y el otro esperanzador."
 d) "Los textos son buenos y los textos son buenos."
 
-*Respuesta correcta: c.* Retroalimentación: Un párrafo coherente mantiene un mismo tema comparativo, agrega información nueva en cada oración y usa conectores con su función correcta.
+*Respuesta correcta: c.* Retroalimentación: El párrafo mantiene el tema (el desarraigo en ambos textos), agrega información nueva en cada oración y usa conectores con su función correcta: «pero» para contrastar y «Por un lado / Por otro lado» para ordenar la comparación.
 
 **9. (Verdadero o Falso)** El proceso de escritura en 4° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior, porque ya se domina la escritura desde 3° medio.
 

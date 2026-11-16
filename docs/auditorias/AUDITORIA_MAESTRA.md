@@ -1756,3 +1756,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   (1) en 3.° medio, Inglés OA 1 pregunta 12 (Songkran), dos opciones eran «detalle de apoyo» (c y d); la c se cambió por la
   idea central y queda una sola respuesta; (2) el parser de guías dejaba «--- ## Eje: …» pegado a 3 retroalimentaciones;
   ahora la retroalimentación termina antes de un separador o un título.
+- **C.4b cerrado (12 cursos).** 260 retroalimentaciones de guía reescritas para explicar por qué la respuesta es correcta;
+  116 candidatas revisadas a mano como válidas (`REVISADAS_A_MANO` de `retro_guia_pobres.py`). Guarda nueva en pytest.
+  Cada lote se auditó para confirmar que el cambio cayó en la pregunta buscada.

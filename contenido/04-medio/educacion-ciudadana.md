@@ -483,7 +483,7 @@ c) El gasto público solo depende del clima
 d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado
 
 ✅ Respuesta correcta: **d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado**
-💬 *Retroalimentación:* Detrás de cada política económica hay una visión sobre el desarrollo y a quién debe beneficiar.
+💬 *Retroalimentación:* Gastar más en educación y salud universales muestra que se prioriza redistribuir; bajar impuestos para atraer inversión muestra confianza en el mercado. Cada decisión fiscal refleja una visión del desarrollo.
 
 ---
 
@@ -1000,7 +1000,7 @@ c) Concentración de medios
 d) Microsegmentación
 
 ✅ Respuesta correcta: **a y b**
-💬 *Retroalimentación:* Una política pública puede analizarse desde más de un valor democrático.
+💬 *Retroalimentación:* Las becas apoyan a quienes tienen menos recursos (solidaridad) y les permiten estudiar en condiciones más parejas que el resto (igualdad de oportunidades).
 
 ---
 
@@ -1252,7 +1252,7 @@ c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática
 d) Riesgo: la concentración de medios. Responsabilidad: comprar periódicos
 
 ✅ Respuesta correcta: **c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática, verificando fuentes antes de compartir**
-💬 *Retroalimentación:* Se conecta el dato con una consecuencia para el debate y una acción ciudadana posible.
+💬 *Retroalimentación:* Si muchos jóvenes comparten información sin contrastarla, se propaga la desinformación; la responsabilidad ciudadana es verificar las fuentes antes de compartir, lo que se llama alfabetización mediática.
 
 ---
 
@@ -1306,7 +1306,7 @@ c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y 
 d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso
 
 ✅ Respuesta correcta: **d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso**
-💬 *Retroalimentación:* Una evaluación completa reconoce el riesgo y posibles respuestas.
+💬 *Retroalimentación:* Que un solo grupo controle una plataforma, dos canales y un diario concentra la propiedad de los medios y reduce la diversidad de voces; se puede mitigar con regulación que promueva más propietarios, medios independientes y un consumo informativo variado.
 
 ---
 

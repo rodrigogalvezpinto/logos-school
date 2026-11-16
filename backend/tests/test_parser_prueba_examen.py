@@ -992,3 +992,13 @@ def test_la_explicacion_no_incluye_la_etiqueta_retroalimentacion():
             if _re.search(r"retroalimentaci[óo]n\s*:", respuesta.retroalimentacion, _re.IGNORECASE):
                 hallazgos.append(f"{ruta.relative_to(CONTENIDO)}#{pregunta.numero}")
     assert hallazgos == []
+
+
+def test_las_retroalimentaciones_de_guia_explican_la_respuesta():
+    # Control C.4b (2026-11-16): la retroalimentación de la autoevaluación de la guía debe explicar por qué la respuesta
+    # es correcta, no solo dar una reflexión genérica. Las que explican con otras palabras están en REVISADAS_A_MANO.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from retro_guia_pobres import candidatas
+    hallazgos = [f"{rel} {oa.codigo_oficial} #{i}" for rel, oa, i, _ in candidatas()]
+    assert hallazgos == []

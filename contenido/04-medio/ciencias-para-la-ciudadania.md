@@ -169,7 +169,7 @@ muestren que funciona?), no solo su buena intención ambiental.
    c) Ambas son equivalentes, porque las dos usan la misma cantidad de agua potable
    d) Ninguna reduce el consumo
    **Respuesta correcta:** a) La (b), porque el goteo es más eficiente y además reemplaza agua potable por agua tratada reutilizada.
-   **Retroalimentación:** Evaluar proyectos exige comparar su impacto real medible, no solo su intención.
+   **Retroalimentación:** Regar de noche reduce algo la evaporación, pero sigue usando agua potable; el goteo con aguas grises tratadas gasta menos agua y además reemplaza el agua potable por agua reutilizada. Por eso la (b) reduce más el consumo.
 
 4. *(Alternativas)* La reutilización de residuos orgánicos mediante
    compostaje comunitario contribuye simultáneamente a:
@@ -190,7 +190,7 @@ muestren que funciona?), no solo su buena intención ambiental.
    c) Porque la jerarquía 3R pone el reciclaje primero, y un proyecto que también reduce el consumo de desechables altera ese orden y pierde eficacia
    d) Porque reciclar es la última opción: igual requiere procesar, transportar y gastar energía, mientras reducir desde el origen evita ese impacto
    **Respuesta correcta:** d) Porque reciclar es la última opción: igual requiere procesar, transportar y gastar energía, mientras reducir desde el origen evita ese impacto.
-   **Retroalimentación:** La jerarquía prioriza intervenir lo más temprano posible en el ciclo de vida.
+   **Retroalimentación:** En la jerarquía de las 3R, reducir va primero y reciclar al final, porque reciclar igual requiere recolectar, transportar y procesar con gasto de energía; reducir el consumo de desechables evita ese impacto desde el origen.
 
 6. *(Varias correctas — Evaluación de evidencia)* Un municipio quiere aprobar un parque eólico basándose solo en que "el lugar siempre ha sido ventoso, según los vecinos antiguos". ¿Qué evidencia adicional exigir? Marca **todas** las correctas.
    a) Mediciones técnicas del viento durante al menos un año
@@ -239,7 +239,7 @@ muestren que funciona?), no solo su buena intención ambiental.
     c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas
     d) Un proyecto que solo nombra criterios de sostenibilidad, como el agua, la energía y los residuos, sin explicar cómo se vinculan ni aplicarlos en una acción concreta
     **Respuesta correcta:** c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas.
-    **Retroalimentación:** Integrar varios criterios suele ser más efectivo y realista.
+    **Retroalimentación:** El riego tecnificado con agua reciclada cuida los recursos hídricos, y el vivero de especies nativas ayuda a conservar ecosistemas: el proyecto combina dos criterios y los relaciona entre sí.
 
 11. *(Alternativas)* ¿Cuál de las siguientes opciones representa mejor una
     "utilización sostenible" (y no solo protección) de un recurso natural?
@@ -278,7 +278,7 @@ muestren que funciona?), no solo su buena intención ambiental.
     c) Ambas tienen el mismo impacto, porque las dos atraen turistas al humedal
     d) Ninguna permite visitar el humedal
     **Respuesta correcta:** a) La (b), porque permite el uso turístico y educativo sin destruir el humedal.
-    **Retroalimentación:** Un proyecto sostenible compatibiliza uso y protección.
+    **Retroalimentación:** Rellenar el humedal lo destruiría; los senderos elevados permiten visitarlo y aprender de él sin alterarlo. Por eso la (b) compatibiliza el uso turístico con la conservación.
 
 15. *(Alternativas)* El riego tecnificado por goteo, comparado con el
     riego tradicional por inundación en la agricultura, es relevante para
@@ -443,7 +443,7 @@ mencionado).
    c) La temperatura no influye en los organismos marinos, y el pH del mar no tiene relación con la formación de conchas
    d) Los moluscos no tienen conchas de carbonato
    **Respuesta correcta:** b) El océano absorbe más CO₂ y se acidifica, lo que dificulta formar y mantener conchas; el calentamiento suma estrés adicional.
-   **Retroalimentación:** Los componentes físicos, químicos y biológicos están interconectados frente al cambio climático.
+   **Retroalimentación:** Al absorber más CO₂ el mar se acidifica (baja su pH), y eso dificulta que los moluscos formen y mantengan sus conchas de carbonato de calcio; el aumento de temperatura les agrega estrés.
 
 4. *(Alternativas)* El blanqueamiento de corales ocurre principalmente
    porque:
@@ -472,7 +472,7 @@ mencionado).
    c) Porque el cambio climático solo ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos
    d) No es débil: es una prueba concluyente
    **Respuesta correcta:** a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo.
-   **Retroalimentación:** El cambio climático también altera la variabilidad y los extremos.
+   **Retroalimentación:** Un invierno frío es un evento del tiempo atmosférico en un lugar; el clima se refiere a tendencias de muchos años en todo el planeta. Un caso puntual no refuta una tendencia de largo plazo.
 
 7. *(Verdadero o falso)* Restaurar bosques y humedales puede considerarse
    una medida de mitigación del cambio climático porque estos ecosistemas
@@ -513,7 +513,7 @@ mencionado).
     c) Porque los países que más emiten son los más afectados y los más pobres, sin recursos para adaptarse
     d) Porque el clima no tiene dimensión ética
     **Respuesta correcta:** b) Porque quienes menos han emitido suelen ser los más afectados y con menos recursos para adaptarse.
-    **Retroalimentación:** La dimensión ética es parte del análisis de controversias públicas.
+    **Retroalimentación:** Los países y comunidades que menos gases han emitido suelen sufrir más los efectos del cambio climático y tienen menos recursos para adaptarse. Esa distribución desigual de responsabilidades y daños es un problema de justicia.
 
 11. *(Verdadero o falso)* Todos los modelos climáticos coinciden
     exactamente en la magnitud futura del calentamiento global, sin ningún

@@ -133,7 +133,7 @@ cursos (18/18 en 1.° a 4.° básico, 24/24 en 5.° básico a 2.° medio, 25/25 
 Regla para material nuevo: si el detector marca una pregunta, decidir con este mismo criterio; si es plantilla, registrarla
 en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo de longitud de toda pregunta rehecha.
 
-### 6.1c ⏳ EN CURSO — C.4b: retroalimentaciones de GUÍA que no explican la respuesta
+### 6.1c ✅ RESUELTO (2026-11-16) — C.4b: retroalimentaciones de GUÍA que no explican la respuesta
 Al revisar la muestra docente aparecieron retroalimentaciones de guía de «reflexión» que no dicen por qué la respuesta es
 correcta («Cada fenómeno óptico tiene una explicación física específica.»). Detector: `backend/scripts/retro_guia_pobres.py
 [curso]` (heurística: la retroalimentación no comparte ninguna raíz de palabra con la respuesta correcta; 374 candidatas
@@ -144,7 +144,8 @@ al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
 ```
 - Si **no explica** → `cambiar(...)`: explicar por qué la clave es correcta (y, si cabe, el error de un distractor típico).
 - Si **sí explica con otras palabras** → agregar `(archivo, inicio del enunciado)` a `REVISADAS_A_MANO` del detector.
-Hechos: 1.° básico a 3.° medio (232 reescritas, 97 revisadas). Siguiente: 4.° medio. Al terminar los 12, agregar una guarda en pytest.
+Cerrado en los 12 cursos: **260 retroalimentaciones reescritas** y 116 revisadas como válidas. Guarda en pytest:
+`test_las_retroalimentaciones_de_guia_explican_la_respuesta`. Material nuevo: misma regla (explicar por qué la clave es correcta).
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
