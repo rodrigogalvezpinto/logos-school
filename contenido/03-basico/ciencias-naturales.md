@@ -247,7 +247,7 @@ verdes de nuestro entorno.
    c) No les pasa nada, porque no necesitan el bosque para vivir ni comer
    d) Pueden perder su alimento y su refugio, desplazarse o disminuir su población
    **Respuesta correcta:** d) Pueden perder su alimento y su refugio, desplazarse o disminuir su población.
-   **Retroalimentación:** ¡Exacto! Por eso decimos que destruir las plantas de un ecosistema afecta a toda la cadena de seres vivos que dependen de ellas.
+   **Retroalimentación:** ¡Exacto! Al talar el bosque, los animales pierden las plantas que comían y los árboles donde se refugiaban; algunos se van a otro lugar y otros mueren, por lo que su población disminuye.
 
 5. *(Varias correctas — aplicación)* ¿Qué medidas ayudan a cuidar las plantas de tu barrio o de tu colegio? Marca **todas** las correctas.
    a) Regar y cuidar las áreas verdes
@@ -263,7 +263,7 @@ verdes de nuestro entorno.
    c) Porque no necesitan agua ni luz, y así pueden vivir en cualquier lugar
    d) Porque solo los humanos las usan como alimento y para fabricar cosas
    **Respuesta correcta:** b) Porque producen oxígeno, sirven de alimento directo o indirecto y dan refugio.
-   **Retroalimentación:** ¡Muy buena reflexión! Sin las plantas, la mayoría de los ecosistemas no podrían sostener la vida animal. Entender esta dependencia nos ayuda a valorar por qué es tan importante cuidar la flora.
+   **Retroalimentación:** ¡Muy buena reflexión! Las plantas producen el oxígeno que respiramos, son alimento para los herbívoros (y, a través de ellos, para los carnívoros) y dan refugio a muchos animales. Por eso son la base de la vida.
 
 ---
 
@@ -468,7 +468,7 @@ obesidad o la desnutrición.
    c) Porque tiene demasiadas verduras y le faltan alimentos con azúcar
    d) Porque no tiene colores llamativos y a los niños no les gusta comerla
    **Respuesta correcta:** b) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.
-   **Retroalimentación:** ¡Correcto! Consumirla en exceso y con frecuencia puede ser perjudicial para la salud. No se trata de nunca comer estos alimentos, sino de no basar la alimentación diaria en ellos.
+   **Retroalimentación:** ¡Correcto! Las papas fritas, la bebida y las golosinas tienen mucha grasa, azúcar y sal, y no aportan frutas ni verduras. Comerlas de vez en cuando no es un problema, pero no deben ser la colación de todos los días.
 
 6. *(Alternativas)* ¿Por qué es importante comer alimentos de los tres grupos (energéticos, constructores y reguladores) y no solo de uno?
    a) Porque así se come más cantidad y el cuerpo crece más rápido
@@ -688,7 +688,7 @@ llamada el cinturón de asteroides, entre Marte y Júpiter.
    c) Venus → Mercurio → Marte → Tierra
    d) Mercurio → Tierra → Venus → Marte
    **Respuesta correcta:** b) Mercurio → Venus → Tierra → Marte.
-   **Retroalimentación:** ¡Muy bien! Estos son los cuatro planetas más cercanos al Sol, y son los más pequeños y rocosos del Sistema Solar.
+   **Retroalimentación:** ¡Muy bien! Desde el Sol, el orden es Mercurio, Venus, Tierra y Marte. Son los cuatro planetas más cercanos al Sol, y también los más pequeños y rocosos del Sistema Solar.
 
 4. *(Alternativas — clasificar)* ¿Qué cuerpo del Sistema Solar está formado de hielo y polvo y forma una **cola** al acercarse al Sol?
    a) Una luna

@@ -117,7 +117,7 @@ el ecosistema marino de la Corriente de Humboldt, entre otros.
    c) Los peces producen la luz solar del estero, que permite que las algas crezcan
    d) El agua necesita a los peces para existir, porque ellos la fabrican al respirar
    **Respuesta correcta:** a) La luz solar permite que las algas hagan fotosíntesis y produzcan oxígeno que respiran los peces.
-   **Retroalimentación:** Una buena respuesta muestra cómo un elemento no vivo (luz, agua) hace posible la vida o la actividad de un elemento vivo.
+   **Retroalimentación:** La luz solar (no viva) permite que las algas (vivas) hagan fotosíntesis y liberen oxígeno, que luego respiran los peces. Así, un elemento no vivo hace posible la vida de los seres vivos del estero.
 
 5. *(Alternativas)* ¿Qué ecosistema chileno es característico por tener pingüinos de
    Humboldt, chungungos y lobos marinos?
@@ -223,7 +223,7 @@ un pelaje más grueso en invierno que en verano.
    c) No cambia entre estaciones: tiene el mismo pelaje todo el año porque el clima no lo afecta
    d) Se le cae todo en invierno para correr más rápido sobre la nieve y atrapar a sus presas
    **Respuesta correcta:** a) En invierno es más grueso y denso para conservar el calor; en verano es más liviano para no sobrecalentarse.
-   **Retroalimentación:** Esta es una adaptación estructural que varía según la estación del año, como pide el indicador oficial.
+   **Retroalimentación:** En invierno el pelaje del culpeo se vuelve más grueso y denso para conservar el calor del cuerpo; en verano es más liviano para no pasar calor. Es una adaptación estructural que cambia con la estación.
 
 ---
 
@@ -458,7 +458,7 @@ inmediato se genera la orden de retirar la mano.
    c) Cabeza: cerebro. Columna: nervios. Todo el cuerpo: médula espinal
    d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios
    **Respuesta correcta:** d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios.
-   **Retroalimentación:** Ubicar correctamente cada estructura te ayuda a recordar su función específica.
+   **Retroalimentación:** El cerebro está protegido dentro del cráneo, en la cabeza; la médula espinal pasa por dentro de la columna vertebral, y los nervios se reparten por todo el cuerpo llevando mensajes.
 
 4. *(Alternativas)* ¿Qué ocurre en tu sistema nervioso cuando tocas accidentalmente algo muy caliente y retiras la mano rápidamente?
    a) El cerebro siente el calor directamente a través de la piel, sin usar los nervios, y la mano se mueve sola
@@ -559,7 +559,7 @@ convierte en vapor al hervir.
    c) Los sólidos y los líquidos fluyen de la misma manera y toman la forma de cualquier recipiente
    d) Ninguno de los dos puede fluir: ambos mantienen siempre su forma, sin importar el recipiente
    **Respuesta correcta:** a) Un sólido no fluye y mantiene su forma (como una piedra); un líquido fluye y se adapta al recipiente (como el agua).
-   **Retroalimentación:** La capacidad de fluir es una de las principales diferencias entre los estados de la materia.
+   **Retroalimentación:** Un sólido, como una piedra, no fluye y mantiene su forma; un líquido, como el agua, fluye y toma la forma del recipiente. Esa capacidad de fluir es una de las principales diferencias entre ambos estados.
 
 5. *(Alternativas)* Si viertes agua en distintos recipientes (un vaso, una botella, un
    plato), ¿qué ocurre con su forma?
@@ -647,7 +647,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    c) Cáscara = manto. Pulpa = núcleo. Carozo = corteza
    d) Cáscara = corteza. Pulpa = núcleo. Carozo = manto
    **Respuesta correcta:** b) Cáscara = corteza. Pulpa = manto. Carozo = núcleo.
-   **Retroalimentación:** Este modelo ayuda a visualizar tanto la posición como el grosor relativo de cada capa.
+   **Retroalimentación:** La cáscara del damasco es delgada, como la corteza; la pulpa es la parte más gruesa, como el manto; y el carozo está en el centro, como el núcleo. El modelo muestra la posición y el grosor de cada capa.
 
 4. *(Alternativas)* ¿Qué descripción ordena bien las capas de la Tierra desde la más externa a la más interna?
    a) Núcleo (el más frío, de hielo) → manto (líquido, de agua caliente) → corteza (la más caliente, de metales)

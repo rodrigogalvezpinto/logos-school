@@ -173,7 +173,7 @@ c) Las dos zonas corresponden a los incas, que ocuparon primero México y luego 
 d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)
 
 ✅ Respuesta correcta: **d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)**
-💬 *Retroalimentación:* Ubicar las civilizaciones en el mapa nos ayuda a entender por qué, aunque compartían características, desarrollaron formas de vida distintas: cada una se adaptó a un territorio diferente.
+💬 *Retroalimentación:* La zona A, en México y Centroamérica, es el espacio mesoamericano, donde vivieron mayas y aztecas; la zona B, en la cordillera de los Andes, es el espacio andino de los incas. Cada civilización se adaptó a su territorio.
 
 ---
 

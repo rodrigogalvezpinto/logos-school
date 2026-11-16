@@ -126,7 +126,7 @@ b) Una noche de invierno con nieve y mucho viento, en un barrio de Santiago
 c) Un mediodía de primavera, con flores y sol, en el campo cerca de un río
 d) Una tarde de otoño, con el cielo gris y hojas amarillas cayendo, en un barrio de Coquimbo cerca del mar
 
-*Respuesta correcta: d.* Retroalimentación: ¡muy bien! Fíjate cómo el cuento describe el lugar, el clima y la estación del año para ayudarte a imaginar la escena.
+*Respuesta correcta: d.* Retroalimentación: ¡Muy bien! El cuento ocurre en un barrio de Coquimbo cerca del mar, una tarde de otoño con el cielo gris y hojas amarillas cayendo. Fíjate en las palabras que describen el lugar, el clima y el momento: así reconoces el ambiente.
 
 **7. (Alternativas — consecuencias)** ¿Qué consecuencia tuvo que Valentina devolviera la billetera?
 
@@ -361,7 +361,7 @@ b) Un tipo de nube muy oscura que anuncia una erupción
 c) Agua caliente que sale de las termas cerca de los volcanes
 d) Roca derretida que se encuentra bajo la superficie de la Tierra
 
-*Respuesta correcta: d.* Retroalimentación: ¡bien! El glosario sirve justamente para explicar el significado de palabras que podrían ser difíciles de entender dentro del texto.
+*Respuesta correcta: d.* Retroalimentación: ¡Bien! El glosario del texto dice que el magma es roca derretida que está bajo la superficie de la Tierra. El glosario explica las palabras difíciles que aparecen en el texto.
 
 **7. (Alternativas — ilustraciones y símbolos)** ¿Para qué sirve la señal amarilla con el símbolo de una montaña y ondas que acompaña al texto sobre volcanes?
 

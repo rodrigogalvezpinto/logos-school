@@ -33,6 +33,13 @@ REVISADAS_A_MANO: list[tuple[str, str]] = [
     ("02-basico/lenguaje-y-comunicacion.md", "¿Cuál de estas oraciones está bien escrita"),
     ("02-basico/lenguaje-y-comunicacion.md", "Quieres invitar a un compañero"),
     ("02-basico/matematica.md", "::balanza::4+7::5+6::"),
+    ("03-basico/ciencias-naturales.md", "¿Cuáles de estos son hábitos alimenticios saludables?"),
+    ("03-basico/lenguaje-y-comunicacion.md", "Una compañera opina:"),
+    ("03-basico/matematica.md", "¿Cuál es el orden de más liviano a más pesado"),
+    ("04-basico/ciencias-naturales.md", "Compara un terremoto y una erupción volcánica"),
+    ("04-basico/historia-geografia-y-cs-sociales.md", "En Chile existen \"vedas\""),
+    ("04-basico/lenguaje-y-comunicacion.md", "¿Por qué Wladimir juntó la leña"),
+    ("04-basico/matematica.md", "Si una figura gira 180°"),
 ]
 
 

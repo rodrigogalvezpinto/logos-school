@@ -126,7 +126,7 @@ b) Porque en mi casa también hay una estufa a leña y nos gusta mucho calentarn
 c) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta
 d) Porque las sopaipillas son ricas y a mí también me gusta comerlas cuando llueve
 
-*Respuesta correcta: c.* Retroalimentación: una buena opinión no es solo decir "me gustó" o "no me gustó": debe explicar el *porqué* usando información concreta del texto leído. Tú también podrías opinar distinto, siempre que te apoyes en el texto.
+*Respuesta correcta: c.* Retroalimentación: La opinión de Martín se apoya en hechos del texto: Wladimir ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia estuvo segura durante la tormenta. Una buena opinión explica el porqué con información del texto.
 
 ---
 
@@ -224,7 +224,7 @@ b) Que las laderas de la montaña están cubiertas de vegetación tan tupida que
 c) Que en las laderas del volcán hay ferias donde se venden ponchos tejidos a mano
 d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no congelarse
 
-*Respuesta correcta: b.* Retroalimentación: explicar un verso con tus propias palabras demuestra que entendiste la imagen que el poeta quiso crear, más allá de las palabras exactas del poema.
+*Respuesta correcta: b.* Retroalimentación: El verso compara las laderas cubiertas de araucarias y bosque con un poncho tejido: la vegetación es tan tupida que parece una tela que cubre la montaña. Explicarlo con tus palabras muestra que entendiste la imagen.
 
 ---
 
@@ -310,7 +310,7 @@ b) Que el puma es de color negro y brilla de noche; es una rima, porque las pala
 c) Que el puma caza solo de noche y duerme de día; es una pregunta, porque tiene signos de interrogación
 d) Que el puma se esconde bajo las rocas para dormir; es una instrucción, porque dice qué hacer
 
-*Respuesta correcta: a.* Retroalimentación: aunque este es un texto informativo (no un poema), también puede usar lenguaje figurado para ayudarnos a imaginar mejor lo que describe.
+*Respuesta correcta: a.* Retroalimentación: La expresión dice que el puma se acerca a su presa en silencio, casi sin ser visto, igual que una sombra; como usa la palabra «como», es una comparación. Los textos informativos también pueden usar lenguaje figurado.
 
 **5. (Alternativas)** ¿Cuál de las siguientes es información **implícita** (no está escrita directamente, pero se puede deducir) del texto sobre el puma?
 
