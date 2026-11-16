@@ -19,15 +19,14 @@ copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la ma
 > La guarda `test_corpus_completo_sin_preguntas_abiertas_y_con_claves_validas` lo exige. Estado y
 > pendientes (segunda auditoría de los ítems nuevos y sesgos de clave) en auditoría maestra §15.23.
 >
-> **Estado vigente (2026-11-06): auditoría educativa EN CURSO, sin aprobación global.**
-> Se trabaja en `main`; el usuario solicita commit/push del avance como checkpoint, no cierre.
-> Alcance: material, temarios y funcionamiento de respuestas. No repetir lo ya aprobado en
-> su versión actual; cola de deltas y estado por curso en auditoría maestra §15.20–21. No desplegar.
-> Leer primero `docs/auditorias/00-CENTRO-DE-CONTROL-AUDITORIA.md` y las secciones vigentes
-> de `docs/auditorias/AUDITORIA_MAESTRA.md`. Las métricas y aprobaciones de agosto/octubre
-> que aparecen debajo son antecedentes históricos, no resultados del código actual.
-> En particular, no reutilizar 408 OA, 2.917 preguntas ni suites antiguas como evidencia
-> vigente. No confundir lectura completa, validez pedagógica e integridad funcional.
+> **Estado vigente (2026-11-16): Fase 1 (auditoría del material) cerrada en todo lo que no depende del dueño.**
+> 265 archivos en `contenido/`, 6.181 preguntas cerradas, 0 sin OA. Controles en verde y con guarda en pytest:
+> copias entre pruebas y guías (C.2), explicaciones (C.4, C.4b, C.4c), sesgo de posición (C.5) y de longitud (C.6),
+> simulacros que no repiten pruebas (C.7). Validación en los 3 navegadores de los 12 cursos, audios de 1.°–4.° básico
+> regenerados y `logos_qa` recreada (con respaldo). **Falta, por decisión del dueño:** tag `material-aprobado-…`,
+> imágenes D (21 marcadores en 1.°–3.° básico) y revisión de un profesor real. Se trabaja en `main`; no desplegar.
+> **Punto de entrada para retomar:** `docs/CONTINUIDAD.md`. Las métricas de agosto/octubre que aparecen debajo
+> son antecedentes históricos (no reutilizar 408 OA, 2.917 preguntas ni suites antiguas como evidencia vigente).
 
 ## Qué es este proyecto
 
@@ -182,7 +181,7 @@ propio e informar después. Aplica en todo este proyecto.
 - `contenido/` — el contenido de estudio real (explicaciones, ejemplos, bancos de preguntas
   de autoevaluación) para cada curso/asignatura, producido siguiendo `04-modo-de-operacion.md`.
   **Completo para los 12 cursos.** Ver `contenido/00-estado-contenido.md` para el detalle
-  curso por curso y asignatura por asignatura (2.917 preguntas, 408/408 OA).
+  curso por curso (cifras vigentes: 6.181 preguntas cerradas, 0 sin OA, ver `docs/CONTINUIDAD.md` §5).
 
 ## Regla no negociable: toda la materia lista antes de construir la app
 

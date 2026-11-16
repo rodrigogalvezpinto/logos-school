@@ -57,7 +57,12 @@ terminada**, la avanza, verifica, hace commit y push en `main` y actualiza su es
 7. Hacer commit por archivo o por asignatura. Orden: 4.° básico (piloto) → 1.°–3.° básico →
    5.°–8.° básico → media.
 
-## ⚠️ Prioridad vigente: Fase 1 (desde el 2026-11-07, 20:30)
+## Prioridad vigente: Fase 1 cerrada en lo autónomo (2026-11-16)
+
+Quedan solo decisiones del dueño (tag de aprobación, imágenes D, revisión de un profesor). Se retoma la tabla desde la
+primera tarea pendiente.
+
+### Histórico: prioridad Fase 1 (desde el 2026-11-07, 20:30)
 
 El usuario pidió **auditar primero el material en los archivos contra los temarios oficiales**,
 después aplicarlo a la app una sola vez y dejar las mejoras para el final. Mientras la Fase 1 no
@@ -73,11 +78,11 @@ control pendiente.
 | 2 | 1.° básico: reemplazar las ~20 descripciones `[Imagen: …]` y `::emoji::` que dan pistas o la respuesta (lápiz corto/largo, pollitos, materiales, secuencias) por dibujos (`::dibujo::`, `::contar::`, `::posicion::`, `::fila::`) o por un enunciado neutro | ✅ hecho 2026-11-07 |
 | 3 | 2.° básico: el mismo barrido de descripciones de imagen que delatan la respuesta | ✅ hecho 2026-11-07 |
 | 4 | 3.° y 4.° básico: el mismo barrido (más corto: hay menos imágenes) | ✅ hecho 2026-11-07 |
-| 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | pendiente |
+| 5 | Audio pregrabado para 3.° y 4.° básico (régimen A completo), con revisión de `texto-para-voz` sobre sus textos reales | ✅ hecho 2026-11-16 (audios de 1.° a 4.° básico regenerados desde el contenido final: 1.495) |
 | 6 | Segunda pasada a los sesgos de clave: distribución de letra correcta y de «la alternativa más larga» por curso, tras las correcciones del 2026-11-07 (§15.23–15.24) | ✅ hecho 2026-11-07 |
-| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | en curso: **4.° básico, 76 de 76 reescritas (0 % repetidas)**. Falta el E2E de 4.° básico, pendiente por la lentitud del Mac. **1.° básico, 0 de 85 repetidas** (antes 45). Falta el E2E de 1.° básico |
+| 7 | Superposición del 79 % entre pruebas de unidad y autoevaluaciones de guía. Decisión de experto: una prueba no debe repetir textualmente lo ya practicado. Reescribir los ítems duplicados con contextos nuevos, el mismo OA y la misma dificultad, curso por curso, empezando por 4.° básico (piloto) | ✅ hecho 2026-11-16 (C.2, tres pasadas; guardas en pytest) |
 | 8 | Simulacros **Forma A** del régimen B/C (5.° básico a 4.° medio): uno por asignatura, mismo formato oficial que la Forma B (25 preguntas, alternativas), con otros ítems. Curso por curso, empezando por 5.° básico | pendiente |
-| 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | pendiente |
+| 9 | Reconciliar `matriz-maestra-estado-por-archivo.csv` con la revisión ítem por ítem (§15.26–15.28) y actualizar las cifras vigentes en `CLAUDE.md` (sacar los números históricos que ya no aplican) | ✅ hecho 2026-11-16 (matriz al día con HEAD: tamaños, huellas, estado tras Fase 1 y pendientes por archivo; CLAUDE.md con el estado vigente) |
 | 10 | Accesibilidad: recorrido con axe en las pantallas de alumno (guía, autoevaluación, prueba y resultados) en los 3 navegadores; corregir lo que salga | pendiente |
 | 11 | `docs/PENDIENTES-USUARIO.md`: lista de cuentas y claves que hacen falta (Neon, Render, Cloudflare Pages/R2, Resend, Google OAuth, Turnstile, Sentry, UptimeRobot, pasarela de pago, API de IA), con costo, paso a paso y dónde se configura cada una. También las decisiones abiertas | ✅ hecho 2026-11-07 (`docs/PENDIENTES-USUARIO.md`) |
 | 12 | Preparar el despliegue sin desplegar: verificar `.env.example`, la configuración de producción, el CSP y los headers. Script para publicar los audios en R2 o en el build. Checklist de despliegue paso a paso. Va en `main` (es documentación y configuración) | ✅ hecho 2026-11-07 (`docs/DESPLIEGUE.md`, `render.yaml`, CORS configurable) |
@@ -148,3 +153,4 @@ control pendiente.
 - 2026-11-16: C.4b cerrado: 260 retroalimentaciones de guía reescritas en los 12 cursos; guarda en pytest. Además: dos claves falsas de rehechas corregidas, 22 líneas huérfanas y 102 etiquetas «Retroalimentación:» quitadas de pautas, estímulos sin títulos colgando, pregunta de Songkran con dos respuestas válidas corregida.
 - 2026-11-16: C.4c cerrado: 50 explicaciones genéricas de pruebas y simulacros reescritas; guarda en pytest. Pendiente anotado: patrón «a, b y c correctas; d absurda» en varias correctas de 4.° medio.
 - 2026-11-16: C.5 (sesgo de posición en varias correctas, 256 rotadas) y C.6 (sesgo de longitud, 528 corregidas) cerrados, con guardas en pytest.
+- 2026-11-16: ramas revisadas e integradas: `feature/mejoras-ux-branding-servicios` y `qa/fase-2-matriz-trazabilidad` ya estaban en main (borradas localmente); `ai/roadmap-inteligencia-educativa` integrada conservando la versión corregida de main; `docs/centralizacion-gobernanza` registrada sin cambios (su contenido ya estaba en main y su parser reintroducía preguntas de desarrollo).
