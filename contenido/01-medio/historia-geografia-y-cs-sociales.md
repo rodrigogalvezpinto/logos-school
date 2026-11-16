@@ -1966,7 +1966,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **b) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Estos conceptos ayudan a comprender los problemas ambientales heredados de la industrialización y la propuesta para enfrentarlos.
+💬 *Retroalimentación:* La lluvia ácida es precipitación contaminada que daña suelos, bosques y aguas (1-C); la desertificación es la pérdida de fertilidad del suelo por sobreexplotación (2-A), y el desarrollo sostenible equilibra crecimiento, equidad y cuidado ambiental (3-B).
 
 ---
 

@@ -143,7 +143,7 @@ las especies están tan bien adaptadas a su ambiente.
    c) Todas las fuentes permiten comparar exactamente lo mismo
    d) Registro fósil: secuencias de ADN de especies extintas. Estructuras homólogas: fósiles de distintas épocas. Embriología: rocas sedimentarias. ADN: clima antiguo del planeta
    **Respuesta correcta:** a) Registro fósil: formas de vida en distintas épocas. Estructuras homólogas: patrones anatómicos por origen común. Embriología: semejanzas en etapas tempranas del desarrollo. ADN: grado de parentesco genético.
-   **Retroalimentación:** La solidez de la teoría de la evolución se apoya en que distintas líneas de evidencia, independientes entre sí, apuntan a la misma conclusión.
+   **Retroalimentación:** El registro fósil muestra formas de vida de distintas épocas; las estructuras homólogas, patrones anatómicos heredados de un ancestro común; la embriología, semejanzas en las primeras etapas del desarrollo, y el ADN, el grado de parentesco genético. Que fuentes independientes coincidan da solidez a la evolución.
 
 4. *(Alternativas)* ¿Qué opción describe correctamente los postulados de la selección natural?
    a) Sobreproducción: los individuos cambian a voluntad. Variación: todos son idénticos. Adaptación: el ambiente no influye. Selección: ocurre al azar sin relación con el ambiente

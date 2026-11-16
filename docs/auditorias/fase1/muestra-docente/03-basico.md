@@ -375,7 +375,7 @@ b) Una noche de invierno con nieve y mucho viento, en un barrio de Santiago
 c) Un mediodía de primavera, con flores y sol, en el campo cerca de un río
 d) Una tarde de otoño, con el cielo gris y hojas amarillas cayendo, en un barrio de Coquimbo cerca del mar  ✅
 
-**Explicación que verá el alumno:** ¡muy bien! Fíjate cómo el cuento describe el lugar, el clima y la estación del año para ayudarte a imaginar la escena.
+**Explicación que verá el alumno:** ¡Muy bien! El cuento ocurre en un barrio de Coquimbo cerca del mar, una tarde de otoño con el cielo gris y hojas amarillas cayendo. Fíjate en las palabras que describen el lugar, el clima y el momento: así reconoces el ambiente.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

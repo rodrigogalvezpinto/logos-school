@@ -150,7 +150,7 @@ Cerrado en los 12 cursos: **260 retroalimentaciones reescritas** y 116 revisadas
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
-(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.° a 6.° básico; siguiente: 7.° básico.
+(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.° básico a 1.° medio; siguiente: 2.° medio.
 
 ### 6.3 D — imágenes (requiere decisión del dueño)
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,

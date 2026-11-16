@@ -17,7 +17,7 @@ b) Ave adulta → polluelo → huevo
 c) Huevo → ave adulta → polluelo
 d) Huevo → polluelo → ave adulta  ✅
 
-**Explicación que verá el alumno:** ¡Bien hecho! Así se desarrolla la mayoría de las aves, como el chincol o el queltehue.
+**Explicación que verá el alumno:** ¡Bien hecho! Primero está el huevo; de él nace un polluelo cubierto de plumón, que crece hasta convertirse en un ave adulta que vuela. Así se desarrollan aves como el chincol o el queltehue.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

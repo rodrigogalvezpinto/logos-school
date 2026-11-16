@@ -17,7 +17,7 @@ b) Industria, medicina, alimentación y energía  ✅
 c) Alimentación, energía, industria y medicina
 d) Energía, alimentación, medicina e industria
 
-**Explicación que verá el alumno:** La biotecnología tiene aplicaciones en sectores productivos muy diversos.
+**Explicación que verá el alumno:** Las enzimas para detergentes son una aplicación industrial; la producción de insulina, médica; los cultivos resistentes a plagas, alimentaria, y los biocombustibles a partir de microorganismos, energética.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -473,7 +473,7 @@ b) La infografía del Texto B muestra desorden y descontrol, mientras que las ca
 c) La infografía azul con reloj del Texto A transmite orden y control técnico; las capturas con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar  ✅
 d) Ninguno produce algún efecto en la audiencia: las imágenes son decorativas y no influyen en cómo los vecinos interpretan la información
 
-**Explicación que verá el alumno:** comparar recursos no lingüísticos implica identificar qué sensación de credibilidad buscan generar.
+**Explicación que verá el alumno:** La infografía azul con un reloj (Texto A) transmite orden y control técnico; las capturas con fecha y hora (Texto B) funcionan como pruebas visuales difíciles de negar. Cada recurso busca credibilidad de un modo distinto.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

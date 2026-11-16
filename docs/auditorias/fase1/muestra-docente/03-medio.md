@@ -479,7 +479,7 @@ b) Justicia social y ambiental  ✅
 c) Estado de Derecho
 d) Soberanía popular
 
-**Explicación que verá el alumno:** Muestra que el acceso a un mejor entorno no se reparte de forma equitativa.
+**Explicación que verá el alumno:** El dato muestra que el acceso a áreas verdes depende de los ingresos de cada comuna; la justicia social y ambiental permite analizar críticamente esa distribución desigual.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

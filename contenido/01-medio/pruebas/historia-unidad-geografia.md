@@ -111,7 +111,7 @@ d) Ambos sirvieron al Estado para conocer su territorio; las misiones describía
 
 1. c) La Escuela Normal de Preceptores, dirigida inicialmente por Domingo Faustino Sarmiento, que formó a los primeros profesores primarios del país.
 2. Verdadero. Su *Historia física y política de Chile* reunió información sobre la geografía, la flora, la fauna y la historia del país.
-3. a) 1-B, 2-C, 3-A. Estos instrumentos actuaron de forma complementaria para conocer y administrar el territorio.
+3. a) 1-B, 2-C, 3-A. El censo de 1865 fue un conteo de habitantes (1-B); el ferrocarril Santiago-Valparaíso es una red de transporte y comunicación (2-C), y el estudio de los minerales del norte de Ignacio Domeyko fue una misión científica (3-A). Juntos permitieron conocer y administrar el territorio.
 4. d) Integrar física y administrativamente el territorio: el transporte y las comunicaciones permitían ejercer presencia estatal.
 5. b) Conocer a la población era necesario para organizar la administración, los impuestos, la educación y otros servicios.
 6. c) Conocer el territorio era el primer paso; para administrarlo se necesitaban también transporte, funcionarios y autoridades locales.

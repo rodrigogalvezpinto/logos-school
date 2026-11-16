@@ -86,7 +86,7 @@ b) listening to the radio / for twelve years / rock music
 c) collecting vinyl records / since yesterday / pop music
 d) jazz / since age twelve / vinyl
 
-**Explicación que verá el alumno:** Discriminar información relevante implica extraer solo los datos que corresponden a cada categoría pedida.
+**Explicación que verá el alumno:** El texto dice que el pasatiempo es coleccionar vinilos antiguos, que lo hace desde los doce años y que su género favorito para coleccionar es el jazz. Cada dato va en su categoría.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -466,7 +466,7 @@ b) Porque reducir el consumo de desechables aumenta los residuos de otros materi
 c) Porque la jerarquía 3R pone el reciclaje primero, y un proyecto que también reduce el consumo de desechables altera ese orden y pierde eficacia
 d) Porque reciclar es la última opción: igual requiere procesar, transportar y gastar energía, mientras reducir desde el origen evita ese impacto  ✅
 
-**Explicación que verá el alumno:** La jerarquía prioriza intervenir lo más temprano posible en el ciclo de vida.
+**Explicación que verá el alumno:** En la jerarquía de las 3R, reducir va primero y reciclar al final, porque reciclar igual requiere recolectar, transportar y procesar con gasto de energía; reducir el consumo de desechables evita ese impacto desde el origen.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
