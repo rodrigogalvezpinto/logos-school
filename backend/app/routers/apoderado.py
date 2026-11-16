@@ -17,6 +17,7 @@ from app.core.deps import (
 )
 from app.domain.auth.entities import Cuenta
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/apoderado", tags=["apoderado"])
 
@@ -40,7 +41,7 @@ def obtener_estadisticas(
             perfil_alumno_id=e.perfil_alumno_id, nombre=e.nombre, cobertura_pct=e.cobertura_pct,
             racha_dias_actual=e.racha_dias_actual, tiene_alerta_de_ritmo=e.tiene_alerta_de_ritmo,
         )
-        for e in uc.ejecutar(cuenta.id, reloj.ahora().date())
+        for e in uc.ejecutar(cuenta.id, fecha_local(reloj.ahora()))
     ]
 
 
@@ -56,7 +57,7 @@ def obtener_meta_familiar(
     uc: ObtenerMetaFamiliar = Depends(get_obtener_meta_familiar_uc),
     reloj: Reloj = Depends(get_reloj),
 ):
-    resultado = uc.ejecutar(cuenta.id, reloj.ahora().date())
+    resultado = uc.ejecutar(cuenta.id, fecha_local(reloj.ahora()))
     if not resultado:
         return None
     return MetaFamiliarRespuesta(
@@ -76,7 +77,7 @@ def obtener_agenda_familiar(
     uc: ObtenerAgendaFamiliar = Depends(get_obtener_agenda_familiar_uc),
     reloj: Reloj = Depends(get_reloj),
 ):
-    resultado = uc.ejecutar(perfil_alumno_id, reloj.ahora().date())
+    resultado = uc.ejecutar(perfil_alumno_id, fecha_local(reloj.ahora()))
     return AgendaFamiliarRespuesta(preguntas=resultado.preguntas, ya_conversada=resultado.ya_conversada)
 
 
@@ -86,4 +87,4 @@ def marcar_agenda_familiar_conversada(
     uc: MarcarAgendaFamiliarConversada = Depends(get_marcar_agenda_familiar_conversada_uc),
     reloj: Reloj = Depends(get_reloj),
 ):
-    uc.ejecutar(perfil_alumno_id, reloj.ahora().date())
+    uc.ejecutar(perfil_alumno_id, fecha_local(reloj.ahora()))

@@ -237,7 +237,15 @@ c) Edificio
 
 *Fuente:* `contenido/01-basico/examenes/examen-integrado-forma-b.md` (pregunta 14) · *Tipo:* alternativas
 
-Lee el siguiente texto y responde. ### Cómo regar una planta > 1. Llena la regadera con agua. > 2. Echa el agua en la tierra, despacio. > 3. Deja la regadera en su lugar. Según las instrucciones, ¿qué se hace primero para regar una planta?
+> Lee el siguiente texto y responde.
+>
+> ### Cómo regar una planta
+>
+> > 1. Llena la regadera con agua.
+> > 2. Echa el agua en la tierra, despacio.
+> > 3. Deja la regadera en su lugar.
+>
+> Según las instrucciones, ¿qué se hace primero para regar una planta?
 
 a) Echar el agua en la tierra
 b) Llenar la regadera con agua  ✅
@@ -447,7 +455,7 @@ b) 3
 c) 5  ✅
 d) 10
 
-**Explicación que verá el alumno:** c) 5
+**Explicación que verá el alumno:** c) 5. Junto a "Perro" hay 5 dibujos, y cada dibujo es un niño: 5 niños tienen perro.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

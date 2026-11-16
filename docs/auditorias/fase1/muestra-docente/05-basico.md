@@ -153,7 +153,7 @@ b) La Zona Central tiene clima templado y mucha población; la Austral, clima fr
 c) Las dos tienen el mismo clima y la misma población
 d) La Zona Austral es desértica y la Central, glacial
 
-**Explicación que verá el alumno:** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población.
+**Explicación que verá el alumno:** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población. La Zona Central tiene clima templado y concentra la mayor parte de la población (allí están Santiago y Valparaíso). La Zona Austral es fría y es la menos poblada.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -245,7 +245,7 @@ b) Un derrame de petróleo en el mar  ✅
 c) La sobreexplotación de aguas subterráneas de un valle
 d) El retroceso de un glaciar cordillerano
 
-**Explicación que verá el alumno:** b) Un derrame de petróleo en el mar
+**Explicación que verá el alumno:** b) Un derrame de petróleo en el mar. Un derrame de petróleo en el mar contamina directamente la costa y el océano; las otras opciones afectan a ríos, valles o glaciares.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -261,7 +261,11 @@ d) El retroceso de un glaciar cordillerano
 
 *Fuente:* `contenido/05-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md` (pregunta 6) · *Tipo:* alternativas
 
-> Estímulo — caso: En los territorios conquistados, los caciques y autoridades de los > pueblos originarios fueron reemplazados por gobernadores, corregidores y otras autoridades > nombradas en nombre del rey de España. La situación descrita en el estímulo corresponde principalmente a una consecuencia de la conquista en el ámbito:
+> > **Estímulo — caso:** En los territorios conquistados, los caciques y autoridades de los
+> > pueblos originarios fueron reemplazados por gobernadores, corregidores y otras autoridades
+> > nombradas en nombre del rey de España.
+>
+> La situación descrita en el estímulo corresponde principalmente a una consecuencia de la conquista en el ámbito:
 
 a) Económico
 b) Demográfico
@@ -291,7 +295,7 @@ b) happy
 c) young
 d) tall
 
-**Explicación que verá el alumno:** a) shut
+**Explicación que verá el alumno:** a) shut. Lo contrario de "open" (abierto) es "shut" o "closed" (cerrado).
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -357,7 +361,7 @@ b) 3/5, porque 3 es mayor que 2
 c) 3/5, porque 3/5 = 10/15 y 2/3 = 9/15
 d) Son iguales, porque ambas tienen numerador y denominador consecutivos
 
-**Explicación que verá el alumno:** a) 2/3, porque 2/3 = 10/15 y 3/5 = 9/15.
+**Explicación que verá el alumno:** a) 2/3, porque 2/3 = 10/15 y 3/5 = 9/15. Con denominador común 15: 2/3 = 10/15 y 3/5 = 9/15. Como 10/15 es mayor, 2/3 es mayor.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

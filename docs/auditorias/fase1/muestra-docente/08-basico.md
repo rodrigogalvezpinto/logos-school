@@ -273,7 +273,10 @@ d) Evaporación
 
 *Fuente:* `contenido/08-basico/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md` (pregunta 8) · *Tipo:* alternativas
 
-> Estímulo: "Las Leyes Nuevas de 1542 buscaron limitar los abusos cometidos contra la > población indígena en América, aunque su aplicación efectiva en el territorio fue limitada." A partir del estímulo, ¿qué vínculo existe entre las Leyes Nuevas (1542) y el debate de Valladolid (1550-1551)?
+> > **Estímulo:** "Las Leyes Nuevas de 1542 buscaron limitar los abusos cometidos contra la
+> > población indígena en América, aunque su aplicación efectiva en el territorio fue limitada."
+>
+> A partir del estímulo, ¿qué vínculo existe entre las Leyes Nuevas (1542) y el debate de Valladolid (1550-1551)?
 
 a) El debate de Valladolid ocurrió antes que las Leyes Nuevas y fue su causa directa: allí se acordó prohibir la encomienda, y las leyes de 1542 solo pusieron por escrito lo que se había resuelto en ese debate
 b) Las Leyes Nuevas declararon la "esclavitud natural" de los indígenas que defendía Sepúlveda, y el debate de Valladolid las confirmó, por lo que ambos expresan una postura común a favor de la conquista sin límites
@@ -340,7 +343,7 @@ b) Hipérbole
 c) Personificación  ✅
 d) Aliteración
 
-**Explicación que verá el alumno:** c) Personificación.
+**Explicación que verá el alumno:** c) Personificación. El frío "muerde", una acción propia de un ser vivo: es una personificación.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

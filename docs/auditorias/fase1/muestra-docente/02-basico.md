@@ -102,14 +102,14 @@ d) 83  ✅
 
 *Fuente:* `contenido/02-basico/pruebas/ciencias-naturales-unidad-tierra-y-universo.md` (pregunta 7) · *Tipo:* alternativas
 
-¿Por qué algunos animales guardan alimento durante el otoño?
+En invierno, algunos árboles como el roble pierden todas sus hojas. ¿Por qué ocurre esto?
 
-a) Porque en otoño no tienen hambre y prefieren guardar la comida para jugar
-b) Porque quieren regalarlo a otros animales en verano, cuando hace calor
-c) Porque la comida de otoño es fea y prefieren comerla cuando se pone vieja
-d) Porque se preparan para el invierno, cuando la comida suele ser más escasa  ✅
+a) Porque el árbol está enfermo y se va a morir
+b) Porque los niños arrancan las hojas para jugar
+c) Porque en invierno los árboles crecen más rápido sin hojas
+d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera  ✅
 
-**Explicación que verá el alumno:** d) Porque se preparan para el invierno, cuando la comida suele ser más escasa. Guardan reservas mientras todavía hay alimento disponible.
+**Explicación que verá el alumno:** d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera. Muchos árboles pierden sus hojas en otoño e invierno para pasar la estación fría gastando menos energía; en primavera, con más luz y calor, les vuelven a salir.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -132,7 +132,7 @@ b) Solo tiene costumbres españolas
 c) Solo tiene costumbres indígenas
 d) No tiene costumbres propias
 
-**Explicación que verá el alumno:** a) Mezcla aportes indígenas y españoles: es mestiza.
+**Explicación que verá el alumno:** a) Mezcla aportes indígenas y españoles: es mestiza. El charquicán mezcla ingredientes indígenas y españoles, "guagua" y "cancha" son palabras de origen quechua, y las fiestas católicas llegaron con los españoles. Esa mezcla es el mestizaje.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -239,7 +239,13 @@ d) Los medios de transporte
 
 *Fuente:* `contenido/02-basico/examenes/examen-integrado-forma-b.md` (pregunta 15) · *Tipo:* alternativas
 
-Lee el texto "El semáforo para peatones": > El semáforo para peatones > > En las esquinas de muchas ciudades hay semáforos para las personas que caminan. Cuando se enciende un monito verde caminando, puedes cruzar la calle. Cuando se enciende un monito rojo quieto, debes esperar en la vereda. Los dibujos de los monitos ayudan a entender el semáforo, incluso a las personas que todavía no saben leer bien. ¿Para qué sirven los dibujos de los monitos del semáforo?
+> Lee el texto "El semáforo para peatones":
+>
+> > El semáforo para peatones
+> >
+> > En las esquinas de muchas ciudades hay semáforos para las personas que caminan. Cuando se enciende un monito verde caminando, puedes cruzar la calle. Cuando se enciende un monito rojo quieto, debes esperar en la vereda. Los dibujos de los monitos ayudan a entender el semáforo, incluso a las personas que todavía no saben leer bien.
+>
+> ¿Para qué sirven los dibujos de los monitos del semáforo?
 
 a) Para que el semáforo se vea bonito y alegre en la esquina
 b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien  ✅
@@ -421,13 +427,13 @@ b) Falso
 
 *Fuente:* `contenido/02-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md` (pregunta 1) · *Tipo:* alternativas
 
-[Imagen: un avión volando entre nubes] ¿Cuál de estas palabras tiene un diptongo (dos vocales juntas en una sola sílaba)?
+::emoji::🌧️::lluvia sobre un paraguas:: ¿Cuál de estas palabras tiene un diptongo (dos vocales juntas en una sola sílaba)?
 
-a) "aire"  ✅
-b) "camino"
-c) "pelota"
+a) "lluvia"  ✅
+b) "casa"
+c) "gato"
 
-**Explicación que verá el alumno:** a) "aire" — tiene las vocales "ai" juntas en la sílaba "ai-re": eso es un diptongo.
+**Explicación que verá el alumno:** a) "lluvia". "Llu-via" tiene las vocales "ia" juntas en la sílaba "via": eso es un diptongo. "Ca-sa" y "ga-to" tienen una sola vocal en cada sílaba.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -496,7 +502,7 @@ b) Las rukas del pueblo mapuche, viviendas tradicionales hechas de madera y paja
 c) El palín, juego de origen mapuche que se practica con un palo curvo y una bola
 d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile  ✅
 
-**Explicación que verá el alumno:** d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.
+**Explicación que verá el alumno:** d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile. Los inmigrantes alemanes llegaron al sur de Chile en el siglo XIX y trajeron el kuchen y casas de madera. Los moái, las rukas y el palín son aportes de pueblos originarios, no de la inmigración.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

@@ -57,6 +57,11 @@ Los scripts de `scripts/qa/` son **zsh** y asumen macOS; en Linux, instalar zsh 
 | Explicaciones vacías (C.4) | `cd backend && .venv/bin/python scripts/explicaciones_pobres.py` | Debe decir 0. |
 | Lecturas desconectadas | `cd backend && .venv/bin/python scripts/estimulos_huerfanos.py` | Lecturas que no llegan a ninguna pregunta. |
 
+**Suite E2E completa (no solo el material):** algunas pruebas (`plan-estudio-atrasada.spec.ts` y otras que usan
+`ejecutarSqlPrueba`) modifican la base por SQL y, por seguridad, solo aceptan `LOGOS_E2E_DATABASE_URL` apuntando a
+`logos_auditoria_test` en localhost. Para correrlas hay que importar el contenido en esa base y levantar la API contra ella
+(adaptar `reimportar_e2e.sh` cambiando el nombre de la base). En el entorno `logos_e2e_alternativas` fallan por diseño.
+
 **No tocar la base `logos_qa`** (es la del dueño para probar a mano en 4200/8000) sin antes respaldarla con `pg_dump`
 en `~/Documents/Logos-respaldos/`.
 
@@ -100,15 +105,12 @@ Detalle histórico y hallazgos: `docs/auditorias/AUDITORIA_MAESTRA.md` §15.35�
 
 ## 6. Pendientes, en orden (con pasos)
 
-### 6.1 Defecto de horario de la app (Fase 2, prioridad alta)
-- **Síntoma:** la app calcula «hoy» y «esta semana» en UTC (`app/infrastructure/reloj_sistema.py` → `datetime.now(timezone.utc)`).
-  Entre las 21:00 y las 24:00 de Chile ya es el día siguiente en UTC: el domingo en la noche la actividad cuenta en la
-  semana siguiente. Afecta la meta familiar (`app/application/apoderado/consultas.py`), la predicción del jardín y
-  probablemente las sesiones atrasadas del plan (`app/routers/plan_estudio.py`).
-- **Reproducir:** correr `pytest tests/test_apoderado_meta_familiar.py` entre las 21:00 y 24:00 hora de Chile:
-  `test_suma_dias_activos_de_ambos_hijos_esta_semana` falla.
-- **Corrección propuesta:** añadir al `Reloj` un método `hoy_local()` con `zoneinfo.ZoneInfo("America/Santiago")` y usarlo
-  para todo cálculo de fecha de calendario del alumno; mantener UTC para marcas de tiempo guardadas. Ajustar pruebas.
+### 6.1 ✅ Defecto de horario (resuelto 2026-11-15)
+Las fechas de calendario (hoy, esta semana, sesión atrasada) se calculaban en UTC. Ahora el backend usa
+`app/domain/shared/fechas.py` → `fecha_local()` (zona `America/Santiago`) en todos los routers y casos de uso, y el
+frontend usa `Intl.DateTimeFormat(…, { timeZone: 'America/Santiago' })` en `plan-estudio.ts`. Las marcas de tiempo se
+siguen guardando en UTC. Dependencia `tzdata` agregada. Prueba: `tests/test_fechas_chile.py`. **Regla para código nuevo:
+nunca usar `.date()` sobre un instante ni `toISOString().slice(0, 10)` para «hoy»; usar `fecha_local`.**
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

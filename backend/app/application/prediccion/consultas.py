@@ -16,6 +16,7 @@ from app.domain.evaluaciones.ports import RepositorioIntentos, RepositorioPregun
 from app.domain.evaluaciones.value_objects import TIPOS_AUTOCORREGIBLES, es_respuesta_correcta
 from app.domain.plan_estudio.ports import RepositorioPlanEstudio
 from app.domain.progreso.ports import RepositorioProgreso
+from app.domain.shared.fechas import fecha_local
 
 PESO_SIMULACRO = 0.65
 PESO_PRACTICA = 0.35
@@ -342,10 +343,10 @@ class ObtenerJardinSemanal:
 
     def ejecutar(self, perfil_alumno_id: int, hoy: date, semanas: int = 8) -> list[SemanaJardin]:
         fechas_actividad: set[date] = {
-            i.fecha_termino.date() for i in self._repositorio_intentos.listar_entregados_por_perfil(perfil_alumno_id)
+            fecha_local(i.fecha_termino) for i in self._repositorio_intentos.listar_entregados_por_perfil(perfil_alumno_id)
             if i.fecha_termino is not None
         }
-        fechas_actividad |= {g.fecha.date() for g in self._repositorio_progreso.listar_guias_revisadas(perfil_alumno_id)}
+        fechas_actividad |= {fecha_local(g.fecha) for g in self._repositorio_progreso.listar_guias_revisadas(perfil_alumno_id)}
 
         inicio_semana_actual = hoy - timedelta(days=hoy.weekday())
         resultado: list[SemanaJardin] = []

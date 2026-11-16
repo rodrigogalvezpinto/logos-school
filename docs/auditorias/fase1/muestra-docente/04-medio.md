@@ -238,30 +238,30 @@ d) Dar un ejemplo concreto de una idea
 
 *Fuente:* `contenido/04-medio/pruebas/lengua-y-literatura-unidad-1.md` (pregunta 7) · *Tipo:* alternativas
 
-> Lee los textos completos incluidos aquí y responde las preguntas 1 a 12. Son creaciones didácticas contemporáneas de Logos School. La ambientación no es la fecha de escritura. Para las preguntas sobre producción se propone una simulación: imagina A escrito en 1992 para recuperar memorias del exilio y B escrito en 2026 en un debate sobre migración y trabajo. Para recepción, considera dos audiencias posibles: personas con experiencia de desplazamiento y estudiantes de 2026 sin esa experiencia. Sus reacciones no son universales.
+> Lee los textos completos incluidos aquí y responde las preguntas 1 a 12. Son creaciones didácticas contemporáneas de Logos School; el valle del Texto A es ficticio. La ambientación no es la fecha de escritura. Para las preguntas sobre producción se propone una simulación: imagina A escrito en 2005 para recuperar la memoria de las familias trasladadas por la construcción de una represa, y B escrito en 2026, en un debate sobre jóvenes que dejan sus territorios para estudiar. Para recepción, considera dos audiencias posibles: personas con experiencia de desplazamiento y estudiantes de 2026 sin esa experiencia. Sus reacciones no son universales.
 >
-> **Texto A — «El baúl que no llegó» (fragmento de novela, ambientada en 1975)**
+> **Texto A — «El frasco de tierra» (fragmento de novela, ambientada en 1999)**
 >
-> > Mi madre guardó la llave de la casa de Valparaíso durante diecisiete años, aunque sabía —todos lo sabíamos— que otra familia dormía ya en esas piezas con vista al mar. La llevaba en una bolsita de género cosida al forro de su abrigo, como quien carga un hueso que se niega a enterrar. En Estocolmo nevaba distinto a como llovía en el cerro Alegre, y ella aprendía sueco de noche, después del turno en la fábrica, mientras nosotros, los hijos, empezábamos a soñar en un idioma que no era el suyo.
+> > Mi abuela guardó un frasco con tierra del valle durante veinte años, aunque sabía —todos lo sabíamos— que el agua de la represa cubría ya la casa, el corral y el cementerio donde estaban sus padres. Lo tenía sobre el velador, envuelto en un paño de lana, como quien guarda un corazón que ya no late. En el pueblo nuevo, las casas eran todas iguales y el viento no traía olor a araucaria; ella aprendía a vivir entre calles rectas, mientras nosotros, los nietos, empezábamos a olvidar los nombres de los cerros que ella repetía en voz baja.
 > >
-> > "Cuando volvamos", decía, y ese "cuando" se fue estirando año tras año hasta que dejó de tener fecha y se convirtió en una forma de nombrar la espera misma. El exilio no llegó con una explicación clara para los más chicos: llegó como un país que un día simplemente dejamos de habitar, sin que nadie nos preguntara si queríamos partir.
+> > "Cuando bajen las aguas", decía, y ese "cuando" se fue estirando año tras año hasta que dejó de tener fecha y se convirtió en una forma de nombrar la espera misma. El traslado no llegó con una explicación clara para los más chicos: llegó como un valle que un día simplemente dejamos de habitar, sin que nadie nos preguntara si queríamos partir.
 >
-> **Texto B — «Data para llamar a la abuela» (fragmento de cuento, ambientado en la actualidad)**
+> **Texto B — «Señal para Hanga Roa» (fragmento de cuento, ambientado en la actualidad)**
 >
-> > Wilmer llegó a Antofagasta con dos maletas y el número de teléfono de un primo que, según le habían dicho, "siempre contestaba". El primo contestó la primera semana, después cada vez menos. Wilmer aprendió rápido que la ciudad tenía un idioma propio dentro del español: cachai, la firme, fome, al tiro. Lo fue incorporando como quien se prueba una chaqueta ajena, sin estar seguro todavía de que le quedara bien.
+> > Mahina llegó a Santiago con una maleta, una beca para estudiar Enfermería y el número de una tía que, según le habían dicho, "siempre ayudaba". La tía ayudó la primera semana, después cada vez menos. Mahina aprendió rápido que la ciudad tenía un idioma propio: combinaciones de metro, filas, apuros, "¿me das la pasada?". Lo fue incorporando como quien se prueba una chaqueta ajena, sin estar segura todavía de que le quedara bien.
 > >
-> > Todas las noches, apenas terminaba su turno en el supermercado, compraba data para videollamar a su abuela en Maracaibo. Le mostraba el cielo nortino, tan distinto al de allá, y ella le preguntaba si ya había hecho amigos. Él decía que sí, aunque los únicos nombres que tenía para dar eran los de sus compañeros de turno. No era mentira, pensaba, era una forma de creer que pronto sería cierto.
+> > Todas las noches, al volver de la universidad, buscaba señal en la ventana para videollamar a su abuela en Hanga Roa. Le mostraba el cerro San Cristóbal iluminado, tan distinto del Rano Kau, y ella le preguntaba si ya tenía amigas. Mahina decía que sí, aunque los únicos nombres que podía dar eran los de su grupo de laboratorio. No era mentira, pensaba: era una forma de creer que pronto sería cierto.
 >
 > ---
 >
-> ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Wilmer, en vez de en primera persona como el Texto A?
+> ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Mahina, en vez de en primera persona como el Texto A?
 
-a) Hace imposible conocer lo que siente Wilmer, porque la tercera persona solo describe sus acciones desde fuera, como lo haría un testigo
-b) Permite mostrar lo que Wilmer siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela  ✅
-c) Convierte el relato en una noticia objetiva sin emociones, que informa sobre la migración venezolana a partir de un caso particular
-d) No produce ningún efecto distinto de la primera persona, porque en ambos casos el lector conoce exactamente lo mismo sobre el personaje
+a) Hace imposible conocer lo que siente Mahina, porque la tercera persona solo describe sus acciones desde fuera
+b) Permite mostrar lo que Mahina siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela  ✅
+c) Convierte el relato en una noticia objetiva sin emociones sobre los estudiantes que migran
+d) No produce ningún efecto distinto de la primera persona
 
-**Explicación que verá el alumno:** b) Permite mostrar lo que Wilmer siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela. Identificar una perspectiva no es solo notar la persona gramatical, sino evaluar qué efecto produce sobre la cercanía o distancia del lector con el personaje; ambas perspectivas instalan al lector dentro de la experiencia del desarraigo.
+**Explicación que verá el alumno:** b) Identificar una perspectiva no es solo notar la persona gramatical, sino evaluar qué efecto produce sobre la cercanía o la distancia del lector con el personaje.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -277,7 +277,15 @@ d) No produce ningún efecto distinto de la primera persona, porque en ambos cas
 
 *Fuente:* `contenido/04-medio/pruebas/matematica-unidad-algebra-y-funciones.md` (pregunta 7) · *Tipo:* alternativas
 
-Para comprar un notebook de $600.000: | Crédito | Tasa anunciada | CAE | |---|---|---| | P | 18% | 23% | | Q | 19% | 21% | | R | 16% | 26% | ¿Cuál conviene y qué error es común?
+> Para comprar un notebook de $600.000:
+>
+> | Crédito | Tasa anunciada | CAE |
+> |---|---|---|
+> | P | 18% | 23% |
+> | Q | 19% | 21% |
+> | R | 16% | 26% |
+>
+> ¿Cuál conviene y qué error es común?
 
 a) Conviene R, por su tasa anunciada más baja; el error común es fijarse en el CAE
 b) Conviene P, porque su tasa y su CAE están al medio entre las tres opciones
@@ -330,7 +338,7 @@ b) Concentra el poder en los partidos políticos, porque las candidaturas indepe
 c) Elimina los partidos políticos del sistema, porque todos los candidatos pasan a competir sin afiliación; exige haber sido militante de un partido durante cinco años
 d) No afecta la distribución del poder, porque los independientes no pueden ocupar cargos de representación; exige ser abogado y tener experiencia en cargos públicos
 
-**Explicación que verá el alumno:** a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.
+**Explicación que verá el alumno:** a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo. Las candidaturas independientes permiten que personas sin partido compitan por cargos, cumpliendo requisitos como reunir firmas de patrocinio: amplían quién puede ser representante.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -353,7 +361,7 @@ b) Dogmatismo: sostener una confianza como cerrada y no sujeta a revisión, incl
 c) Criticismo: aceptar el conocimiento disponible, pero revisarlo cada vez que aparece evidencia nueva sobre sus fallas.
 d) Relativismo: considerar que el resultado del algoritmo es tan válido como cualquier otra opinión sobre el acusado.
 
-**Explicación que verá el alumno:** b
+**Explicación que verá el alumno:** b. Confiar en el algoritmo sin revisarlo ante nueva información es dogmatismo.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -383,7 +391,7 @@ b) Two / a new camera / many viewers wrote that they liked the special effects /
 c) One / caption software / viewers asked for more special effects in the interviews / no evaluation is proposed
 d) None / visual effects software / two viewers complained about the background music / asking Lee to test the results alone
 
-**Explicación que verá el alumno:** a) One / visual effects software / two viewers stopped watching because there were no readable captions / asking viewers to test the results.
+**Explicación que verá el alumno:** a) One / visual effects software / two viewers stopped watching because there were no readable captions / asking viewers to test the results. La tabla se completa con datos del texto C: un solo computador, la compra que compite (software de efectos), la evidencia de los espectadores y la forma de evaluar (pedirles que prueben).
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -437,7 +445,7 @@ b) Ambos son trigonométricos periódicos, porque los dos fenómenos cambian en 
 c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar  ✅
 d) Ambos son lineales, porque en los dos casos la cantidad cambia en la misma medida cada día
 
-**Explicación que verá el alumno:** c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar.
+**Explicación que verá el alumno:** c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar. Las mareas se repiten en ciclos (modelo trigonométrico); una sustancia que se reduce a la mitad cada cierto tiempo sigue un modelo exponencial decreciente.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

@@ -194,20 +194,20 @@ d) water shortage / ignore it
 
 > Lee el siguiente texto y responde las preguntas 11 a 15:
 >
-> ## Texto 3 (preguntas 11 a 15): "Marejada" (microcuento)
+> ## Texto 3 (preguntas 11 a 15): "Agua prestada" (microcuento)
 >
-> > Mi abuela decía que el mar nunca olvida lo que le deben. Ella nació en la costa de Arauco y, de niña, escuchó de su propia abuela la historia de Kai Kai Vilu, la serpiente del agua que quiso inundar la tierra entera, y de Trentren Vilu, la serpiente de la tierra, que elevó los cerros para salvar a la gente. "Por eso hay cerros altos cerca del mar —me explicaba—, para que la gente tenga adónde subir cuando el agua decide cobrar lo suyo."
+> > Mi abuela decía que la tierra presta, pero no regala. Ella nació en Toconao y, de niña, aprendió de su madre a pagarle a la Pachamama cada agosto: enterrar hojas de coca, chicha y semillas en un hoyo en la tierra, para agradecer el agua de las vertientes y pedir que no faltara. "Si uno saca sin devolver, la Pachamama se cansa —me explicaba—, y las vertientes se secan."
 > >
-> > Ahora, sesenta años después, veo en las noticias que el nivel del mar sube un poco más cada década en las mismas costas donde mi abuela jugaba de niña, y que varias caletas de pescadores ya perdieron parte de su terreno frente al agua. Los científicos hablan de calentamiento global, de deshielo, de temperatura promedio del océano. Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse, y que llevamos generaciones sin construir suficientes cerros.
+> > Ahora, cuarenta años después, leo que en los alrededores del salar algunas vertientes y lagunas tienen menos agua que antes, y que hidrólogos estudian cómo la extracción intensiva de agua y la falta de lluvias afectan el equilibrio de la cuenca. Los científicos hablan de acuíferos, de recarga y de balance hídrico. Mi abuela, si viviera, probablemente diría que llevamos años sacando sin devolver, y que la Pachamama ya está cansada.
 >
-> ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber ancestral con la ciencia actual?
+> ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber tradicional con la ciencia actual?
 
-a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse"  ✅
-b) Cualquier frase del relato que mencione el mar, aunque no se relacione con el mito ni con la ciencia
+a) "Mi abuela, si viviera, probablemente diría que llevamos años sacando sin devolver, y que la Pachamama ya está cansada"  ✅
+b) Cualquier frase del relato que mencione el agua, aunque no se relacione con la creencia ni con la ciencia
 c) El título del relato, porque resume por sí solo la interpretación sin necesidad de citar el texto
-d) La fecha de publicación del relato, que permite vincularlo con el contexto del cambio climático
+d) El nombre del pueblo donde nació la abuela, que permite ubicar el relato en el norte
 
-**Explicación que verá el alumno:** a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse". La frase funde el lenguaje mítico con la idea científica de un aumento lento y sostenido del nivel del mar.
+**Explicación que verá el alumno:** a) La frase funde la imagen de la creencia ("la Pachamama ya está cansada") con el fenómeno que describe la ciencia: extraer más agua de la que se recarga.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -269,7 +269,11 @@ d) 50 kcal
 
 *Fuente:* `contenido/01-medio/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md` (pregunta 25) · *Tipo:* alternativas
 
-> Estímulo: "Numerosos ríos y zonas costeras cercanas a antiguos centros industriales y > mineros del siglo XIX y XX presentan hoy altos niveles de contaminación por metales pesados y > residuos no tratados." A partir del estímulo, ¿qué opción explica el impacto de la industrialización y propone una medida de desarrollo sostenible?
+> > **Estímulo:** "Numerosos ríos y zonas costeras cercanas a antiguos centros industriales y
+> > mineros del siglo XIX y XX presentan hoy altos niveles de contaminación por metales pesados y
+> > residuos no tratados."
+>
+> A partir del estímulo, ¿qué opción explica el impacto de la industrialización y propone una medida de desarrollo sostenible?
 
 a) La industrialización no generó impactos duraderos, porque los metales pesados se degradan solos en pocos años; la medida es aumentar los vertidos controlados para diluir la contaminación existente
 b) La contaminación se debe solo a fenómenos naturales, como la actividad volcánica de la zona; por eso no se requiere ninguna medida, ya que los suelos y aguas se recuperarán por sí mismos
@@ -299,7 +303,7 @@ b) Que el museo no fue ni educativo ni entretenido para los estudiantes.
 c) Que el museo solo fue entretenido, pero no educativo para el curso.
 d) Que los estudiantes no visitaron el museo, sino que leyeron sobre él.
 
-**Explicación que verá el alumno:** a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido.
+**Explicación que verá el alumno:** a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. "Both… and…" significa "tanto… como…": el museo fue educativo y entretenido a la vez.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -551,20 +555,20 @@ d) make / summer
 
 > Lee el siguiente texto y responde las preguntas 11 a 15:
 >
-> ## Texto 3 (preguntas 11 a 15): "Marejada" (microcuento)
+> ## Texto 3 (preguntas 11 a 15): "Agua prestada" (microcuento)
 >
-> > Mi abuela decía que el mar nunca olvida lo que le deben. Ella nació en la costa de Arauco y, de niña, escuchó de su propia abuela la historia de Kai Kai Vilu, la serpiente del agua que quiso inundar la tierra entera, y de Trentren Vilu, la serpiente de la tierra, que elevó los cerros para salvar a la gente. "Por eso hay cerros altos cerca del mar —me explicaba—, para que la gente tenga adónde subir cuando el agua decide cobrar lo suyo."
+> > Mi abuela decía que la tierra presta, pero no regala. Ella nació en Toconao y, de niña, aprendió de su madre a pagarle a la Pachamama cada agosto: enterrar hojas de coca, chicha y semillas en un hoyo en la tierra, para agradecer el agua de las vertientes y pedir que no faltara. "Si uno saca sin devolver, la Pachamama se cansa —me explicaba—, y las vertientes se secan."
 > >
-> > Ahora, sesenta años después, veo en las noticias que el nivel del mar sube un poco más cada década en las mismas costas donde mi abuela jugaba de niña, y que varias caletas de pescadores ya perdieron parte de su terreno frente al agua. Los científicos hablan de calentamiento global, de deshielo, de temperatura promedio del océano. Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse, y que llevamos generaciones sin construir suficientes cerros.
+> > Ahora, cuarenta años después, leo que en los alrededores del salar algunas vertientes y lagunas tienen menos agua que antes, y que hidrólogos estudian cómo la extracción intensiva de agua y la falta de lluvias afectan el equilibrio de la cuenca. Los científicos hablan de acuíferos, de recarga y de balance hídrico. Mi abuela, si viviera, probablemente diría que llevamos años sacando sin devolver, y que la Pachamama ya está cansada.
 >
-> ¿A qué mito alude explícitamente el microcuento "Marejada"?
+> ¿A qué creencia tradicional alude explícitamente el microcuento "Agua prestada"?
 
 a) El mito griego de Poseidón, dios del mar
-b) El mito mapuche de Kai Kai Vilu y Trentren Vilu  ✅
-c) La leyenda chilota del Caleuche, el barco fantasma
-d) El relato bíblico del diluvio universal y el arca
+b) La Pachamama, la madre tierra de la tradición andina  ✅
+c) La leyenda chilota de la Pincoya
+d) El relato bíblico del diluvio universal
 
-**Explicación que verá el alumno:** b. El texto menciona explícitamente a Kai Kai Vilu (la serpiente del agua) y Trentren Vilu (la serpiente de la tierra), figuras de la cosmovisión mapuche.
+**Explicación que verá el alumno:** b. El texto nombra a la Pachamama, la madre tierra de los pueblos andinos, a la que se le "paga" en agosto para agradecer y pedir el agua.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

@@ -179,7 +179,7 @@ b) Un barco que navega entre los témpanos
 c) Un lago pequeño rodeado de hielo
 d) Momento en que el hielo se derrite y se transforma en agua  ✅
 
-**Explicación que verá el alumno:** d) Momento en que el hielo se derrite y se transforma en agua
+**Explicación que verá el alumno:** d) Momento en que el hielo se derrite y se transforma en agua. El glosario explica las palabras difíciles del texto. Allí dice: "Deshielo: momento en que el hielo se derrite y se transforma en agua".
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -239,14 +239,14 @@ d) Porque no tiene colores llamativos y a los niños no les gusta comerla
 
 *Fuente:* `contenido/03-basico/examenes/examen-integrado-forma-a.md` (pregunta 8) · *Tipo:* alternativas
 
-¿Qué sistema de gobierno nació en la antigua ciudad griega de Atenas, en el cual los ciudadanos podían votar las leyes?
+En la antigua Atenas, los ciudadanos se reunían en una asamblea para discutir y votar las leyes de la ciudad. ¿Cómo se llama esa forma de gobierno?
 
 a) La democracia  ✅
 b) La monarquía
 c) La esclavitud
 d) El imperio
 
-**Explicación que verá el alumno:** a) La democracia. Nació en la antigua Atenas.
+**Explicación que verá el alumno:** a) La democracia. "Democracia" significa "gobierno del pueblo": en Atenas, los ciudadanos votaban las leyes. En una monarquía, en cambio, gobierna un rey.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -262,7 +262,26 @@ d) El imperio
 
 *Fuente:* `contenido/03-basico/examenes/examen-integrado-forma-a.md` (pregunta 9) · *Tipo:* verdadero falso
 
-Lee el siguiente poema y responde. ### "La huerta de mi tía" > Mi tía tiene una huerta > detrás de su casa en Chillán. > El sol pinta de oro las hojas > y las abejas bailan sin parar. > > Los tomates duermen colorados > bajo un techo de hojas verdes. > Las lechugas, monedas frescas, > se guardan el rocío de la mañana. > > Cuando llega la tarde cansada > y las sombras se estiran despacio, > mi tía y yo, con las manos sucias, > guardamos la huerta hasta mañana. [Imagen: una tía y su sobrino trabajando en una huerta con tomates y lechugas, al atardecer, con abejas volando entre las plantas] Según el poema, las abejas bailan sin parar. ¿Verdadero o falso?
+> Lee el siguiente poema y responde.
+>
+> ### "La huerta de mi tía"
+>
+> > Mi tía tiene una huerta
+> > detrás de su casa en Chillán.
+> > El sol pinta de oro las hojas
+> > y las abejas bailan sin parar.
+> >
+> > Los tomates duermen colorados
+> > bajo un techo de hojas verdes.
+> > Las lechugas, monedas frescas,
+> > se guardan el rocío de la mañana.
+> >
+> > Cuando llega la tarde cansada
+> > y las sombras se estiran despacio,
+> > mi tía y yo, con las manos sucias,
+> > guardamos la huerta hasta mañana.
+>
+> [Imagen: una tía y su sobrino trabajando en una huerta con tomates y lechugas, al atardecer, con abejas volando entre las plantas] Según el poema, las abejas bailan sin parar. ¿Verdadero o falso?
 
 a) Verdadero  ✅
 b) Falso
@@ -424,7 +443,7 @@ b) Cinco
 c) Seis  ✅
 d) Siete
 
-**Explicación que verá el alumno:** c) Seis
+**Explicación que verá el alumno:** c) Seis. Si América se cuenta como un solo continente, son seis: América, Europa, Asia, África, Oceanía y la Antártica.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -446,7 +465,7 @@ a) "pero"
 b) "por eso"  ✅
 c) "primero"
 
-**Explicación que verá el alumno:** b) "por eso"
+**Explicación que verá el alumno:** b) "por eso". "Por eso" une una causa con su consecuencia: como estudió mucho, le fue bien. "Pero" serviría para algo contrario a lo esperado.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -492,7 +511,7 @@ b) Ninguna función especial, porque solo sirven para quitar el hambre
 c) Ayudar a que crezcan los músculos y los huesos más que otros alimentos
 d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo  ✅
 
-**Explicación que verá el alumno:** d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.
+**Explicación que verá el alumno:** d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo. Las frutas y verduras aportan vitaminas y minerales que ayudan al cuerpo a funcionar bien. La energía viene sobre todo del pan, el arroz o las papas, y el crecimiento, de alimentos como la carne, el huevo o las legumbres.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -515,7 +534,7 @@ b) El Trópico de Cáncer y el Trópico de Capricornio
 c) El hemisferio norte y el hemisferio sur  ✅
 d) El Polo Norte y el Círculo Polar Ártico
 
-**Explicación que verá el alumno:** c) El hemisferio norte y el hemisferio sur.
+**Explicación que verá el alumno:** c) El hemisferio norte y el hemisferio sur. El Ecuador es una línea imaginaria que rodea la Tierra por la mitad: al norte queda el hemisferio norte y al sur, el hemisferio sur.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -531,7 +550,17 @@ d) El Polo Norte y el Círculo Polar Ártico
 
 *Fuente:* `contenido/03-basico/examenes/examen-integrado-forma-b.md` (pregunta 4) · *Tipo:* verdadero falso
 
-Lee el siguiente texto y responde. ### "El viaje en bote de Mateo" > Un domingo de verano, Mateo y su primo Lucas salieron a remar en un bote pequeño por el río Maipo, cerca de Talagante. El agua estaba tranquila y el cielo, despejado. Mateo, que tenía ocho años, se sentía seguro porque su papá les había enseñado a usar chaleco salvavidas y a remar sincronizados. Lucas, más tranquilo, prefería solo disfrutar el paisaje y ver los pájaros en la orilla. > > De pronto, una corriente más fuerte hizo girar el bote. Mateo no se asustó: recordó lo que su papá le dijo ("si el bote gira, remen los dos hacia el mismo lado") y, junto con Lucas, lograron enderezar el rumbo. Cuando volvieron a la orilla, su mamá les tenía preparada una merienda con sándwiches de palta y jugo de naranja. > > Esa tarde, Mateo le contó a su papá lo ocurrido y éste le dijo: "Bien hecho, Mateo. Recordaste la regla y trabajaron en equipo". [Imagen: dos niños remando un bote en un río tranquilo, con chalecos salvavidas, y un adulto en la orilla saludándolos] El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
+> Lee el siguiente texto y responde.
+>
+> ### "El viaje en bote de Mateo"
+>
+> > Un domingo de verano, Mateo y su primo Lucas salieron a remar en un bote pequeño por el río Maipo, cerca de Talagante. El agua estaba tranquila y el cielo, despejado. Mateo, que tenía ocho años, se sentía seguro porque su papá les había enseñado a usar chaleco salvavidas y a remar sincronizados. Lucas, más tranquilo, prefería solo disfrutar el paisaje y ver los pájaros en la orilla.
+> >
+> > De pronto, una corriente más fuerte hizo girar el bote. Mateo no se asustó: recordó lo que su papá le dijo ("si el bote gira, remen los dos hacia el mismo lado") y, junto con Lucas, lograron enderezar el rumbo. Cuando volvieron a la orilla, su mamá les tenía preparada una merienda con sándwiches de palta y jugo de naranja.
+> >
+> > Esa tarde, Mateo le contó a su papá lo ocurrido y éste le dijo: "Bien hecho, Mateo. Recordaste la regla y trabajaron en equipo".
+>
+> [Imagen: dos niños remando un bote en un río tranquilo, con chalecos salvavidas, y un adulto en la orilla saludándolos] El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 
 a) Verdadero  ✅
 b) Falso

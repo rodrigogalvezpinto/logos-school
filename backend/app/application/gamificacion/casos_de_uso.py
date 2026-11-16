@@ -3,6 +3,7 @@ from datetime import date
 from app.domain.gamificacion.entities import PerfilGamificacion
 from app.domain.gamificacion.ports import RepositorioGamificacion
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 
 class ObtenerPerfilGamificacion:
@@ -35,7 +36,7 @@ class SumarXp:
     ) -> PerfilGamificacion:
         perfil = self._repositorio.obtener_o_crear(perfil_alumno_id)
         perfil.sumar_xp(cantidad)
-        perfil.registrar_actividad(self._reloj.ahora().date())
+        perfil.registrar_actividad(fecha_local(self._reloj.ahora()))
         if tipo_actividad == "guia":
             perfil.incrementar_guias_revisadas()
         elif tipo_actividad == "evaluacion":

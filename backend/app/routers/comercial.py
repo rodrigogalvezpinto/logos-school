@@ -36,6 +36,7 @@ from app.domain.comercial.exceptions import (
     PlanNoEncontrado,
 )
 from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/admin", tags=["comercial"], dependencies=[Depends(get_cuenta_admin_actual)])
 
@@ -134,7 +135,7 @@ def _descuento_a_respuesta(d) -> DescuentoRespuesta:
     return DescuentoRespuesta(
         id=d.id, codigo=d.codigo, tipo=d.tipo, valor=d.valor,
         fecha_vencimiento=d.fecha_vencimiento, usos_maximos=d.usos_maximos, usos_actuales=d.usos_actuales,
-        vigente=d.vigente(datetime.now(timezone.utc).date()),
+        vigente=d.vigente(fecha_local(datetime.now(timezone.utc))),
     )
 
 

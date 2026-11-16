@@ -5,6 +5,8 @@ se marchita, descartada por contradecir el lenguaje "todavía no"). Ver
 
 from datetime import date, datetime, timedelta, timezone
 
+from app.domain.shared.fechas import fecha_local
+
 from app.infrastructure.persistence.orm_models import Nivel, ProgresoOA
 
 _CONTADOR_EMAILS = iter(range(1, 100_000))
@@ -56,7 +58,7 @@ def test_una_semana_con_mucha_actividad_da_flor_completa(client, session):
     session.commit()
     session.refresh(asignatura)
 
-    hoy = datetime.now(timezone.utc).date()  # la app calcula la semana en UTC
+    hoy = fecha_local(datetime.now(timezone.utc))  # semana del calendario de Chile
     inicio_semana_actual = hoy - timedelta(days=hoy.weekday())
     inicio_semana_anterior = inicio_semana_actual - timedelta(days=7)
     for i in range(7):
@@ -66,7 +68,7 @@ def test_una_semana_con_mucha_actividad_da_flor_completa(client, session):
         session.refresh(oa)
         fila = ProgresoOA(
             perfil_alumno_id=perfil_id, oa_id=oa.id, estado="en_progreso",
-            ultimo_intento_fecha=inicio_semana_anterior + timedelta(days=i),
+            ultimo_intento_fecha=datetime.combine(inicio_semana_anterior + timedelta(days=i), datetime.min.time(), tzinfo=timezone.utc) + timedelta(hours=15),  # mediodía en Chile
         )
         session.add(fila)
     session.commit()

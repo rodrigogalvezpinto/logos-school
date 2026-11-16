@@ -1,6 +1,7 @@
 from app.domain.bienestar.entities import RegistroAnimo
 from app.domain.bienestar.ports import RepositorioBienestar
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 
 class ObtenerAnimoDeHoy:
@@ -9,7 +10,7 @@ class ObtenerAnimoDeHoy:
         self._reloj = reloj
 
     def ejecutar(self, perfil_alumno_id: int) -> RegistroAnimo | None:
-        return self._repositorio.buscar_de_fecha(perfil_alumno_id, self._reloj.ahora().date())
+        return self._repositorio.buscar_de_fecha(perfil_alumno_id, fecha_local(self._reloj.ahora()))
 
 
 class RegistrarAnimoDeHoy:
@@ -21,7 +22,7 @@ class RegistrarAnimoDeHoy:
         self._reloj = reloj
 
     def ejecutar(self, perfil_alumno_id: int, estado: str) -> RegistroAnimo:
-        hoy = self._reloj.ahora().date()
+        hoy = fecha_local(self._reloj.ahora())
         existente = self._repositorio.buscar_de_fecha(perfil_alumno_id, hoy)
         if existente:
             return existente

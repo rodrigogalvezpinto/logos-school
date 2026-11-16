@@ -10,6 +10,7 @@ from app.domain.comercial.exceptions import (
 from app.domain.comercial.ports import RepositorioDescuentos, RepositorioPlanes, RepositorioSuscripciones
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 DURACION_PRUEBA_GRATIS_DIAS = 5
 
@@ -71,7 +72,7 @@ class DesactivarCodigoDescuento:
         descuento = self._repositorio_descuentos.buscar_por_id(descuento_id)
         if not descuento:
             raise CodigoDescuentoNoEncontrado()
-        descuento.desactivar(self._reloj.ahora().date())
+        descuento.desactivar(fecha_local(self._reloj.ahora()))
         return self._repositorio_descuentos.guardar(descuento)
 
 

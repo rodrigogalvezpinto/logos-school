@@ -519,7 +519,9 @@ export class PlanEstudio {
   }
 
   sesionHoy() {
-    const hoy = new Date().toISOString().slice(0, 10);
+    // Fecha de calendario en Chile, igual que el backend (fecha_local): toISOString() usa UTC y, entre las
+    // 21:00 y las 24:00, mostraba como «de hoy» la sesión de mañana (2026-11-15).
+    const hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Santiago' }).format(new Date());
     return this.plan()?.sesiones.find((s) => s.fecha_programada === hoy && !s.cumplida) || null;
   }
 

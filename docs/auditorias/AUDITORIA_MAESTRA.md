@@ -1716,3 +1716,8 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Choque entre instrumentos:** el microcuento nuevo de la prueba U1 de 1.° medio («Bajamar») repetía el mito (la Pincoya) y la frase final del simulacro. Se reemplazó por «Agua prestada» (la Pachamama y la extracción de agua en el norte).
 - **Control nuevo:** ninguna prueba repite lecturas de los simulacros del mismo curso (0 en los 12 cursos).
 
+**Defecto de horario corregido (2026-11-15, 23:00).** Se agregó `fecha_local()` (`app/domain/shared/fechas.py`, zona `America/Santiago`).
+- **Backend:** reemplaza todos los `reloj.ahora().date()` y las conversiones `.date()` de actividad guardada en 13 archivos (routers de predicción, notificaciones, plan de estudio, apoderado, auth y comercial, y los casos de uso respectivos).
+- **Frontend:** `sesionHoy()` del plan de estudio usaba `toISOString()` (UTC) y a las 22:00 mostraba la sesión de mañana; se corrigió.
+- **Dependencias y pruebas:** se agregó `tzdata`. Pruebas nuevas en `test_fechas_chile.py`; backend 734/734 ejecutado a las 23:10, justo en el horario que antes fallaba; frontend 141/141 en pruebas unitarias.
+

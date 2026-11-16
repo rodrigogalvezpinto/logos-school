@@ -128,7 +128,7 @@ b) Dejar caer una pelota desde distintas alturas en días fríos y calurosos: re
 c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande  ✅
 d) Pesar una botella vacía y luego llena de agua: la diferencia de masa muestra cuánto se expande el aire de la botella con la temperatura
 
-**Explicación que verá el alumno:** c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande
+**Explicación que verá el alumno:** c) Colocar un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande. Al calentar la botella, el aire de su interior se expande, ocupa más volumen y empuja el globo, que se infla. Es la Ley de Charles: a mayor temperatura, mayor volumen.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -151,7 +151,7 @@ b) 1-A, 2-B, 3-C
 c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
-**Explicación que verá el alumno:** a) 1-B, 2-A, 3-C
+**Explicación que verá el alumno:** a) 1-B, 2-A, 3-C. "Democracia" viene del griego (demos, pueblo; kratos, gobierno); el Senado era el consejo de ancianos de Roma (senex, anciano), y las universidades nacieron en la Europa medieval, como la de Bolonia.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -276,7 +276,7 @@ b) Porque se cerraron al terminar la Edad Media, y su modelo fue reemplazado por
 c) Porque estaban dedicadas solo a la formación militar de los caballeros, lo que fortaleció a los ejércitos de los reinos europeos posteriores
 d) Porque impidieron el desarrollo de movimientos culturales posteriores, ya que solo enseñaban a repetir de memoria los textos religiosos, sin cuestionarlos ni investigar nada nuevo
 
-**Explicación que verá el alumno:** a) Porque sentaron las bases institucionales para producir, conservar y difundir conocimiento, un modelo que se mantiene hasta hoy y que fue clave para movimientos culturales posteriores.
+**Explicación que verá el alumno:** a) Porque sentaron las bases institucionales para producir, conservar y difundir conocimiento, un modelo que se mantiene hasta hoy y que fue clave para movimientos culturales posteriores. Las universidades medievales crearon instituciones para producir y transmitir conocimiento que siguen existiendo; de ellas salieron ideas que impulsaron el Renacimiento y la ciencia moderna.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -341,7 +341,7 @@ b) El A informa con tono favorable sobre la nueva directora y el B expresa una c
 c) El A expresa una opinión sobre la directora y el B entrega datos verificables sobre su gestión; los prejuicios son ciertos cuando muchas personas los comparten
 d) Ninguno de los dos tiene un propósito definido; las publicaciones en redes sociales no necesitan leerse críticamente, porque son solo comentarios personales
 
-**Explicación que verá el alumno:** b) El A informa con tono favorable sobre la nueva directora y el B expresa una crítica basada en un prejuicio etario; reconocerlo evita dejarse influir por juicios injustos.
+**Explicación que verá el alumno:** b) El A informa con tono favorable sobre la nueva directora y el B expresa una crítica basada en un prejuicio etario; reconocerlo evita dejarse influir por juicios injustos. El Texto A informa con un tono favorable; el B critica desde un prejuicio por la edad. Reconocerlo ayuda a no dejarse llevar por juicios injustos.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -500,7 +500,7 @@ b) Porque el sol hace que el gas de la bebida desaparezca y la bebida pierda tod
 c) Porque el gas se enfría con el sol y la lata se contrae hasta deformarse por completo
 d) Porque la presión del gas disminuye con el calor del sol y la lata podría aplastarse hacia adentro hasta romperse por los costados
 
-**Explicación que verá el alumno:** a) Porque al aumentar la temperatura aumenta la presión del gas dentro de la lata (Ley de Gay-Lussac) y podría superar la resistencia del envase
+**Explicación que verá el alumno:** a) Porque al aumentar la temperatura aumenta la presión del gas dentro de la lata (Ley de Gay-Lussac) y podría superar la resistencia del envase. La lata no puede cambiar de volumen; si su temperatura sube, la presión del gas aumenta (Gay-Lussac) y la lata podría reventar.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

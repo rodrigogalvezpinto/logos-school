@@ -23,6 +23,7 @@ from app.domain.plan_estudio.exceptions import (
     PlanDeEstudioNoEncontrado,
 )
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/plan-estudio", tags=["plan-estudio"])
 
@@ -97,7 +98,7 @@ def crear_plan(
         raise HTTPException(status_code=404, detail="Perfil de alumno no encontrado")
     # Recién generado: por construcción ninguna sesión cubre OA ya revisadas, así que
     # todas parten como no cumplidas.
-    return _a_respuesta(plan, {s.id: False for s in plan.sesiones}, reloj.ahora().date())
+    return _a_respuesta(plan, {s.id: False for s in plan.sesiones}, fecha_local(reloj.ahora()))
 
 
 @router.get("/{perfil_alumno_id}", response_model=PlanRespuesta)
@@ -110,7 +111,7 @@ def obtener_plan(
         plan, cumplidas = uc.ejecutar(perfil_alumno_id)
     except PlanDeEstudioNoEncontrado:
         raise HTTPException(status_code=404, detail="Este alumno todavía no tiene un plan de estudio")
-    return _a_respuesta(plan, cumplidas, reloj.ahora().date())
+    return _a_respuesta(plan, cumplidas, fecha_local(reloj.ahora()))
 
 
 class AgregarRepasoRequest(BaseModel):

@@ -14,6 +14,7 @@ from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.evaluaciones.ports import RepositorioIntentos
 from app.domain.gamificacion.ports import RepositorioGamificacion
 from app.domain.progreso.ports import RepositorioProgreso
+from app.domain.shared.fechas import fecha_local
 
 
 @dataclass(frozen=True)
@@ -104,8 +105,8 @@ class ObtenerMetaFamiliar:
         dias_esta_semana = 0
         dias_semana_anterior = 0
         for alumno in alumnos:
-            fechas = {i.fecha_termino.date() for i in self._repositorio_intentos.listar_entregados_por_perfil(alumno.id) if i.fecha_termino}
-            fechas |= {g.fecha.date() for g in self._repositorio_progreso.listar_guias_revisadas(alumno.id)}
+            fechas = {fecha_local(i.fecha_termino) for i in self._repositorio_intentos.listar_entregados_por_perfil(alumno.id) if i.fecha_termino}
+            fechas |= {fecha_local(g.fecha) for g in self._repositorio_progreso.listar_guias_revisadas(alumno.id)}
 
             dias_esta_semana += sum(1 for f in fechas if inicio_semana_actual <= f <= hoy)
             dias_semana_anterior += sum(1 for f in fechas if inicio_semana_anterior <= f < inicio_semana_actual)

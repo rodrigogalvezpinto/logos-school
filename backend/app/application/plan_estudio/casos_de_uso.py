@@ -12,6 +12,7 @@ from app.domain.plan_estudio.exceptions import (
 from app.domain.plan_estudio.ports import RepositorioPlanEstudio
 from app.domain.progreso.ports import RepositorioProgreso
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 
 class CrearPlanDeEstudio:
@@ -49,7 +50,7 @@ class CrearPlanDeEstudio:
             perfil_alumno_id=perfil_alumno_id,
             dias_por_semana=dias_por_semana,
             dias_elegidos=dias_elegidos,
-            fecha_inicio=self._reloj.ahora().date(),
+            fecha_inicio=fecha_local(self._reloj.ahora()),
             fecha_objetivo=fecha_objetivo,
             pendientes_por_asignatura=pendientes_por_asignatura,
         )

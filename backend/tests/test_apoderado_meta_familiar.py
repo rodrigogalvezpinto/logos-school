@@ -3,6 +3,8 @@ entre hermanos. Ver `app/application/apoderado/consultas.py`."""
 
 from datetime import date, datetime, timedelta, timezone
 
+from app.domain.shared.fechas import fecha_local
+
 from app.infrastructure.persistence.orm_models import Asignatura, Nivel, ObjetivoAprendizaje, ProgresoOA
 
 _CONTADOR_EMAILS = iter(range(1, 100_000))
@@ -79,7 +81,7 @@ def test_meta_familiar_semana_anterior_con_fecha_directa_en_bd(client, session):
     perfil_a = _agregar_alumno(client, headers, nivel.id, "Alumno A", "1-9")
     perfil_b = _agregar_alumno(client, headers, nivel.id, "Alumno B", "2-7")
 
-    hoy = datetime.now(timezone.utc).date()  # la app calcula la semana en UTC
+    hoy = fecha_local(datetime.now(timezone.utc))  # semana del calendario de Chile
     inicio_semana_actual = hoy - timedelta(days=hoy.weekday())
     hace_9_dias = inicio_semana_actual - timedelta(days=2)  # cae en la semana anterior
 

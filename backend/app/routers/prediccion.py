@@ -25,6 +25,7 @@ from app.core.deps import (
     verificar_perfil_propio,
 )
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/prediccion", tags=["prediccion"])
 
@@ -78,7 +79,7 @@ def obtener_alerta_de_ritmo(
     uc: EvaluarRitmoDeEstudio = Depends(get_evaluar_ritmo_de_estudio_uc),
     reloj: Reloj = Depends(get_reloj),
 ):
-    resultado = uc.ejecutar(perfil_alumno_id, reloj.ahora().date())
+    resultado = uc.ejecutar(perfil_alumno_id, fecha_local(reloj.ahora()))
     if not resultado:
         return None
     return AlertaRitmoRespuesta(
@@ -145,5 +146,5 @@ def obtener_jardin_semanal(
 ):
     return [
         SemanaJardinRespuesta(semana_inicio=s.semana_inicio.isoformat(), dias_activos=s.dias_activos, etapa=s.etapa)
-        for s in uc.ejecutar(perfil_alumno_id, reloj.ahora().date())
+        for s in uc.ejecutar(perfil_alumno_id, fecha_local(reloj.ahora()))
     ]

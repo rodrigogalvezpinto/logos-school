@@ -132,7 +132,7 @@ b) 1: tercera; 2: primera; 3: segunda  ✅
 c) 1: segunda; 2: tercera; 3: primera
 d) 1: tercera; 2: segunda; 3: primera
 
-**Explicación que verá el alumno:** b) 1: tercera; 2: primera; 3: segunda.
+**Explicación que verá el alumno:** b) 1: tercera; 2: primera; 3: segunda. Al saltar empujas el bote y el bote te empuja a ti (acción y reacción: tercera ley); la vajilla tiende a quedarse en reposo (inercia: primera ley), y con la misma fuerza, menor masa da mayor aceleración (F = m·a: segunda ley).
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -222,7 +222,7 @@ b) La decisión de Carla de mudarse a otra ciudad
 c) La tensión entre cerrar el almacén por la salud de don Hernán y mantenerlo como parte de su historia y de la vida del barrio  ✅
 d) Una disputa legal por la propiedad del almacén
 
-**Explicación que verá el alumno:** c
+**Explicación que verá el alumno:** c. Carla quiere cerrar el almacén por la salud de su padre, pero para don Hernán el almacén es su historia y un apoyo para el barrio: esa tensión mueve la escena.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -268,7 +268,7 @@ b) Es distinta de cero y apunta en el mismo sentido en que se mueve el objeto
 c) Es distinta de cero y apunta en sentido contrario al movimiento del objeto
 d) No se puede determinar si no se conoce la masa del objeto que se mueve
 
-**Explicación que verá el alumno:** a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí
+**Explicación que verá el alumno:** a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí. Según la primera ley de Newton, si la velocidad es constante, la fuerza neta es cero: pueden actuar varias fuerzas, pero se equilibran.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -291,7 +291,7 @@ b) Plan Laboral y Plan Marshall
 c) New Deal y Estado de Bienestar
 d) Perestroika y Glasnost  ✅
 
-**Explicación que verá el alumno:** d) Perestroika y Glasnost
+**Explicación que verá el alumno:** d) Perestroika y Glasnost. Perestroika ("reestructuración") y Glasnost ("transparencia") fueron las reformas de Gorbachov; terminaron acelerando la crisis y la disolución de la URSS (1991).
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -360,7 +360,7 @@ b) La disputa legal entre Paulina y su padre por quién heredará la tierra cuan
 c) La decisión de don Segundo de mudarse a la ciudad de Talca para vivir cerca de sus nietos y del hospital
 d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia  ✅
 
-**Explicación que verá el alumno:** d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia.
+**Explicación que verá el alumno:** d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia. La familia duda entre vender el terreno por razones prácticas de salud y conservarlo como símbolo del esfuerzo de generaciones.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

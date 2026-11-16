@@ -15,6 +15,7 @@ from app.domain.auth.ports import (
 from app.domain.auth.value_objects import Rut
 from app.domain.contenido.ports import RepositorioContenido
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 
 class RegistrarApoderado:
@@ -137,7 +138,7 @@ class AgregarPerfilAlumno:
             fecha_nacimiento=fecha_nacimiento,
             rut=rut,
             nivel_id=nivel_id,
-            hoy=self._reloj.ahora().date(),
+            hoy=fecha_local(self._reloj.ahora()),
         )
         return self._repositorio_perfiles.guardar(perfil)
 

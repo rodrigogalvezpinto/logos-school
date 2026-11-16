@@ -341,7 +341,7 @@ b) Crítica: examina los conflictos de interés de la medicina antes de aceptar 
 c) Escepticismo radical: rechaza en bloque toda una fuente de conocimiento, sin distinguir casos ni evaluar evidencia particular.  ✅
 d) Ninguna postura epistemológica: es solo una desconfianza personal, sin relevancia filosófica alguna.
 
-**Explicación que verá el alumno:** c
+**Explicación que verá el alumno:** c. Benjamín rechaza en bloque toda la medicina sin examinar cada caso: es un escepticismo radical.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -391,24 +391,26 @@ d) Visitors are welcoming the group every Saturday.
 
 *Fuente:* `contenido/03-medio/examenes/lengua-y-literatura-examen-forma-b.md` (pregunta 7) · *Tipo:* alternativas
 
-> ## Texto 2 (para las preguntas 7 a 12): "Pedaleando contra el tiempo: la vida de los repartidores en plataformas digitales" (reportaje)
+> ## Texto 2 (para las preguntas 7 a 12): "La fruta que llega a la mesa: temporada de temporeras" (reportaje)
 >
-> > Son las nueve de la noche en Providencia y Ronald Guzmán, venezolano, treinta y un años, pedalea su tercera hora consecutiva bajo la lluvia. "Uno acepta el pedido antes de ver bien cuánto te van a pagar, porque si te demoras en aceptar, la aplicación te baja el puntaje", explica, mientras revisa su teléfono en cada semáforo.
-> >
-> > Según cifras de la Subsecretaría del Trabajo, más de 40 mil personas trabajan hoy en Chile como repartidores para aplicaciones de delivery, la mayoría bajo la modalidad de "trabajador independiente", sin contrato, sin seguro de accidentes pagado por la empresa y sin cotizaciones previsionales automáticas. Un estudio de la Universidad de Chile (2022) estimó que el ingreso líquido promedio, descontando bencina, mantención de la bicicleta o motocicleta y los descuentos por "mal clima" que aplican algunas plataformas, apenas supera el sueldo mínimo en jornadas de más de diez horas diarias.
-> >
-> > Las empresas de delivery, por su parte, destacan la "flexibilidad horaria" como principal beneficio del sistema, y afirman en sus comunicados que el 78% de sus repartidores valora "poder trabajar cuando quiere". Ninguna de las plataformas consultadas para este reportaje respondió preguntas sobre cuánto de cada pedido se queda la empresa antes de pagar al repartidor.
-> >
-> > Para Ronald, la flexibilidad es relativa. "Yo elijo cuándo prendo la aplicación, pero no elijo el precio del pedido, ni si llueve, ni si el ascensor del edificio está malo y tengo que subir dieciocho pisos a pie."
+> *Texto didáctico de Logos School: las cifras y su atribución se simulan para el análisis; no certifican datos externos.*
 >
-> ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
+> > Son las seis de la mañana en una planta de embalaje de Rengo y Marisol Pérez, cuarenta y dos años, ya lleva una hora seleccionando cerezas. "Si bajas el ritmo, el supervisor te cambia a la línea más lenta, y ahí ganas menos, porque pagan por caja", explica, sin levantar la vista de la cinta.
+> >
+> > Según cifras de la Dirección del Trabajo, cerca de 250 mil personas trabajan cada verano en la agroexportación, la mayoría mujeres, con contratos por temporada que duran entre tres y cinco meses. Un estudio de una universidad regional (2023) estimó que siete de cada diez temporeras son jefas de hogar y que, en los meses sin temporada, más de la mitad no tiene ingresos estables.
+> >
+> > La asociación de exportadores, por su parte, destaca que el sector "genera empleo en las regiones" y afirma en sus comunicados que el 85% de las trabajadoras "volvería a trabajar la próxima temporada". Ninguna de las empresas consultadas respondió cuántas horas extra se pagan en los días de mayor cosecha.
+> >
+> > Para Marisol, volver no es una elección tan libre. "Claro que vuelvo. ¿Qué otra pega hay acá en febrero? Pero no es que me guste pararme doce horas con los pies mojados."
+>
+> Un estudiante quiere saber si "La fruta que llega a la mesa" es un reportaje o una noticia breve. ¿Qué rasgo NO correspondería a un reportaje?
 
 a) Profundizar en un tema combinando testimonio, datos y contraste de versiones
-b) Presentar el testimonio de una persona afectada por el fenómeno descrito
+b) Presentar el testimonio de una persona afectada por el fenómeno
 c) Incluir cifras de fuentes institucionales
 d) Informar un hecho puntual en pocas líneas, sin desarrollo posterior  ✅
 
-**Explicación que verá el alumno:** d) Informar un hecho puntual en pocas líneas, sin desarrollo posterior, es propio de la noticia breve; el reportaje se distingue por profundizar con mayor variedad de fuentes.
+**Explicación que verá el alumno:** d) Informar un hecho puntual en pocas líneas es propio de la noticia breve; el reportaje profundiza con testimonios, datos y contraste de versiones.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

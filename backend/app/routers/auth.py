@@ -54,6 +54,7 @@ from app.domain.auth.exceptions import (
 from app.domain.auth.value_objects import Rut
 from app.domain.comercial.exceptions import AlumnoNoEncontrado, PlanNoEncontrado
 from app.domain.comercial.ports import RepositorioPlanes
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/auth", tags=["auth"])
 
@@ -299,7 +300,7 @@ def descargar_certificado_alumno_regular(
     pdf_bytes = generar_pdf_certificado(
         nombre_completo=f"{perfil.nombre} {perfil.apellidos}",
         nivel_nombre=nivel_nombre,
-        fecha=datetime.now(timezone.utc).date(),
+        fecha=fecha_local(datetime.now(timezone.utc)),
     )
     # Los headers HTTP deben ser ASCII — un nombre con tilde (ej. "María") rompía la
     # respuesta completa (UnicodeDecodeError en el cliente). El PDF en sí sí soporta
@@ -339,7 +340,7 @@ def descargar_informe_avance(
         racha_dias_actual=perfil_gamificacion.racha_dias_actual,
         logros_desbloqueados=len(perfil_gamificacion.logros_desbloqueados()),
         logros_totales=len(CATALOGO_LOGROS),
-        fecha=datetime.now(timezone.utc).date(),
+        fecha=fecha_local(datetime.now(timezone.utc)),
     )
     nombre_archivo_ascii = perfil.nombre.encode("ascii", errors="ignore").decode("ascii").strip() or "alumno"
     return Response(

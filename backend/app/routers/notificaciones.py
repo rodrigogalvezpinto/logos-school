@@ -11,6 +11,7 @@ from pydantic import BaseModel
 from app.application.notificaciones.consultas import ObtenerNotificaciones
 from app.core.deps import get_obtener_notificaciones_uc, get_reloj, verificar_perfil_propio
 from app.domain.shared.reloj import Reloj
+from app.domain.shared.fechas import fecha_local
 
 router = APIRouter(prefix="/notificaciones", tags=["notificaciones"])
 
@@ -28,4 +29,4 @@ def listar_notificaciones(
     uc: ObtenerNotificaciones = Depends(get_obtener_notificaciones_uc),
     reloj: Reloj = Depends(get_reloj),
 ):
-    return uc.ejecutar(perfil_alumno_id, reloj.ahora().date())
+    return uc.ejecutar(perfil_alumno_id, fecha_local(reloj.ahora()))

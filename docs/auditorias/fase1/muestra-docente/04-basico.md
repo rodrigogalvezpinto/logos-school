@@ -146,28 +146,28 @@ b) Falso
 
 > Lee este poema y responde las preguntas 6 a 9:
 >
-> > El volcán se puso su manto blanco
-> > y se acostó a dormir en la montaña.
-> > Ronca despacito, un humito gris,
-> > como una tetera que hierve en la mañana.
+> > El glaciar duerme en su cama de piedra
+> > tapado con su sábana blanca de hielo antiguo.
+> > Cruje despacito, como una puerta vieja
+> > que se abre de noche en la casa de mis tíos.
 > >
-> > Sus laderas verdes parecen un poncho
-> > tejido con hilos de araucaria y bosque.
-> > Cuando despierta, gruñe enojado,
-> > y el pueblo entero mira hacia el monte.
+> > Sus grietas azules parecen ríos
+> > dibujados con un lápiz de cristal.
+> > Cuando el sol lo toca, llora gotitas
+> > que bajan cantando hasta el lago austral.
 >
 > ---
 >
 > ## Preguntas
 >
-> ¿Qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque"?
+> ¿Qué significan los versos "Sus grietas azules parecen ríos / dibujados con un lápiz de cristal"?
 
-a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido  ✅
-b) Que alguien del pueblo tejió un poncho gigante de lana para abrigar al volcán en invierno
-c) Que en las laderas del volcán hay ferias donde se venden ponchos tejidos a mano
-d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no congelarse
+a) Que las grietas del hielo son largas, delgadas y de color azul, y se ven como ríos dibujados  ✅
+b) Que alguien dibujó ríos sobre el glaciar con un lápiz
+c) Que en el glaciar hay ríos de verdad donde se puede navegar
+d) Que el glaciar está hecho de lápices de colores
 
-**Explicación que verá el alumno:** a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido
+**Explicación que verá el alumno:** a) Es una comparación: las grietas azules se ven como ríos dibujados. Nadie dibujó sobre el glaciar.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -183,12 +183,12 @@ d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no co
 
 *Fuente:* `contenido/04-basico/pruebas/matematica-unidad-geometria.md` (pregunta 3) · *Tipo:* verdadero falso
 
-La letra "R" mayúscula tiene una línea de simetría.
+La letra "J" mayúscula tiene una línea de simetría.
 
 a) Verdadero
 b) Falso  ✅
 
-**Explicación que verá el alumno:** Falso. La "R" tiene la pata inclinada solo a la derecha: ningún doblez hace coincidir sus dos mitades.
+**Explicación que verá el alumno:** Falso. La curva de la "J" va solo hacia la izquierda: ningún doblez hace coincidir sus dos mitades.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -250,7 +250,19 @@ d) En la costa no hay mar cerca, y por eso las personas no pescan ni construyen 
 
 *Fuente:* `contenido/04-basico/examenes/examen-integrado-forma-b.md` (pregunta 5) · *Tipo:* alternativas
 
-Lee el siguiente poema: > El viento llega silbando desde el mar, > corre veloz como un caballo desbocado. > Se enreda entre los álamos del camino > y despeina, jugando, el trigo dorado. > > A la hora de la siesta se recuesta en los cerros, > cansado de correr toda la mañana. > Pero al caer la tarde despierta de nuevo > y sopla fuerte hasta que sale la luna. ¿Cuál de los siguientes versos es un ejemplo de personificación?
+> Lee el siguiente poema:
+>
+> > El viento llega silbando desde el mar,
+> > corre veloz como un caballo desbocado.
+> > Se enreda entre los álamos del camino
+> > y despeina, jugando, el trigo dorado.
+> >
+> > A la hora de la siesta se recuesta en los cerros,
+> > cansado de correr toda la mañana.
+> > Pero al caer la tarde despierta de nuevo
+> > y sopla fuerte hasta que sale la luna.
+>
+> ¿Cuál de los siguientes versos es un ejemplo de personificación?
 
 a) "Corre veloz como un caballo desbocado"
 b) "El trigo dorado"
@@ -432,22 +444,22 @@ d) El Presidente o Presidenta de la República  ✅
 
 > Lee este cuento y responde las preguntas 1 a 5:
 >
-> > Valentina vivía con su mamá y su abuela en Caleta Tortel, un pueblo de la Región de Aysén construido casi completamente sobre pasarelas de madera, porque ahí no hay calles de tierra: todo el pueblo se conecta caminando sobre puentes de ciprés. A Valentina le encantaba el olor a mar y a bosque que se sentía en las mañanas.
+> > Inés vivía con su papá y su abuela en Putre, un pueblo del altiplano de la Región de Arica y Parinacota, a más de tres mil metros de altura. Desde su ventana se veían los volcanes nevados, y en las mañanas el aire era tan frío que el aliento se convertía en humo.
 > >
-> > Ese sábado, su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta. Valentina tomó su chaqueta amarilla y salió corriendo por las pasarelas. Cuando llegó al depósito de leña, se dio cuenta de que alguien ya había amontonado toda la leña en bolsas, lista para llevar. Se quedó mirando, sorprendida, sin saber quién lo había hecho.
+> > Ese viernes, su abuela le pidió que fuera a llenar dos bidones con agua en el estanque del pueblo, porque se acercaba una nevazón y las cañerías podían congelarse. Inés se puso su gorro de lana y salió caminando rápido por la calle de piedra. Cuando llegó al estanque, vio que junto a la llave había dos bidones llenos, con una cinta roja amarrada en el asa: eran los de su casa. Se quedó mirando, sorprendida, sin saber quién los había llenado.
 > >
-> > Cuando volvió a la casa cargando las bolsas, encontró a su vecino Wladimir sentado en la entrada, con las manos llenas de astillas de madera. "Vi las nubes negras esta mañana y pensé que tu abuela iba a necesitar ayuda", le dijo con una sonrisa. Valentina sintió que el corazón se le llenaba de alegría: por fin entendía por qué la leña ya estaba lista. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera llovía fuerte, las tres —Valentina, su mamá y su abuela— comieron sopaipillas calentitas junto a la estufa, agradecidas de tener un vecino tan atento.
+> > Cuando volvió a la casa, empujando los bidones en un carrito, encontró a su vecino don Ruperto sentado en la puerta, con las manos rojas de frío. "Vi las nubes cargadas esta mañana y pensé que tu abuela iba a necesitar agua", le dijo con una sonrisa. Inés sintió que el corazón se le llenaba de alegría: por fin entendía quién había llenado los bidones. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera caía la nieve, las cañerías se congelaron, pero la familia tuvo agua para preparar té con pan amasado junto a la estufa, agradecida de tener un vecino tan atento.
 >
-> ### Texto 2: "El volcán dormido" (poema)
+> ### Texto 2: "El glaciar" (poema)
 >
-> Según el texto "La sorpresa en Caleta Tortel", ¿qué le pidió la abuela a Valentina que hiciera?
+> Según el texto "Los bidones de don Ruperto", ¿qué le pidió la abuela a Inés que hiciera?
 
-a) Que preparara sopaipillas
-b) Que fuera a buscar leña para la estufa  ✅
-c) Que visitara a Wladimir
-d) Que cerrara las ventanas por la tormenta
+a) Que preparara pan amasado
+b) Que fuera a llenar dos bidones con agua en el estanque del pueblo  ✅
+c) Que visitara a don Ruperto
+d) Que cerrara las ventanas por la nevazón
 
-**Explicación que verá el alumno:** b) Que fuera a buscar leña para la estufa. El texto dice explícitamente "su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta".
+**Explicación que verá el alumno:** b) El texto dice que "su abuela le pidió que fuera a llenar dos bidones con agua en el estanque del pueblo, porque se acercaba una nevazón".
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -532,7 +544,11 @@ d) Ninguna civilización americana se desarrolló ahí
 
 *Fuente:* `contenido/04-basico/examenes/examen-integrado-forma-a.md` (pregunta 16) · *Tipo:* alternativas
 
-Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas: > "El viernes mi curso fue de visita a Valparaíso subimos por el ascensor Artillería y vimos todo el puerto desde arriba después caminamos por los cerros y vimos las casas de colores y los murales al final almorzamos empanadas cerca de la plaza y volvimos muy contentos al colegio." Si tuvieras que escribir una carta contándole a la directora de tu colegio cómo resultó esta visita, ¿qué registro sería más apropiado?
+> Lee el siguiente párrafo, escrito por un estudiante sin organizar sus ideas:
+>
+> > "El viernes mi curso fue de visita a Valparaíso subimos por el ascensor Artillería y vimos todo el puerto desde arriba después caminamos por los cerros y vimos las casas de colores y los murales al final almorzamos empanadas cerca de la plaza y volvimos muy contentos al colegio."
+>
+> Si tuvieras que escribir una carta contándole a la directora de tu colegio cómo resultó esta visita, ¿qué registro sería más apropiado?
 
 a) Muy informal, con abreviaciones como las que usarías con un amigo
 b) Formal y respetuoso, adecuado para dirigirse a una autoridad del colegio  ✅

@@ -132,7 +132,7 @@ b) Crecerá más rápido, porque tiene agua suficiente y la luz no es necesaria 
 c) No le pasará nada, porque el agua basta para que la planta produzca el azúcar que necesita
 d) Producirá más oxígeno en la oscuridad, porque descansa de la fotosíntesis y respira con más fuerza
 
-**Explicación que verá el alumno:** a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita
+**Explicación que verá el alumno:** a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita. El agua sola no basta: la planta necesita luz para hacer fotosíntesis y fabricar el azúcar con que se alimenta. Sin luz, gasta sus reservas y se debilita.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -148,14 +148,14 @@ d) Producirá más oxígeno en la oscuridad, porque descansa de la fotosíntesis
 
 *Fuente:* `contenido/06-basico/pruebas/historia-unidad-formacion-ciudadana.md` (pregunta 8) · *Tipo:* alternativas
 
-¿Quiénes deben respetar los derechos de las personas, según lo estudiado en este eje?
+Un niño migrante llega a una escuela chilena y algunos compañeros se burlan de su acento. ¿Quiénes deben respetar y proteger sus derechos?
 
 a) Solamente el Estado
-b) Solamente los pares (otras personas)
-c) Los pares, la comunidad y el Estado  ✅
-d) Nadie tiene la obligación de respetarlos
+b) Solamente sus compañeros
+c) Sus pares, la comunidad escolar y el Estado  ✅
+d) Nadie, porque es nuevo en el país
 
-**Explicación que verá el alumno:** c. El respeto de los derechos es una responsabilidad compartida entre los pares, la comunidad y el Estado.
+**Explicación que verá el alumno:** c) Sus pares, la comunidad escolar y el Estado. Todas las personas tienen derechos, sin importar su origen. Respetarlos es tarea de los compañeros, de la comunidad escolar y del Estado.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -266,7 +266,7 @@ b) La menarquia
 c) El cambio de voz hacia un tono más grave
 d) El crecimiento de vello facial
 
-**Explicación que verá el alumno:** a) El estirón de crecimiento
+**Explicación que verá el alumno:** a) El estirón de crecimiento. El estirón de crecimiento ocurre en hombres y mujeres. La menarquia es la primera menstruación (solo en mujeres) y el cambio de voz más grave y el vello facial son más propios de los hombres.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -289,7 +289,7 @@ b) Diputado
 c) Alcalde  ✅
 d) Presidente de la República
 
-**Explicación que verá el alumno:** c) Alcalde
+**Explicación que verá el alumno:** c) Alcalde. El alcalde dirige la municipalidad de una comuna; los senadores, los diputados y el Presidente son autoridades nacionales.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -328,27 +328,27 @@ d) sofa
 
 *Fuente:* `contenido/06-basico/examenes/lenguaje-y-comunicacion-examen-forma-b.md` (pregunta 17) · *Tipo:* alternativas
 
-> ## Texto 5 (para las preguntas 14 a 17): "Nueva ciclovía en la comuna"
+> ## Texto 5 (para las preguntas 14 a 17): "Nueva plaza de juegos de agua"
 >
-> **Fuente 1 — Comunicado de la Municipalidad de Ñuñoa**
+> **Fuente 1 — Comunicado de la Municipalidad de San Bernardo**
 >
-> > **¡Nueva ciclovía en Ñuñoa mejora la conectividad del sector!**
-> > La Municipalidad de Ñuñoa informa que, desde este mes, la avenida Irarrázaval cuenta con una nueva ciclovía segregada de 2 kilómetros, que conecta el Metro Ñuñoa con el Estadio Nacional. La obra busca fomentar el transporte sustentable y reducir los tiempos de traslado de quienes se mueven en bicicleta. Se estima que más de 3.000 personas utilizarán esta vía diariamente.
-> > — Departamento de Movilidad, Municipalidad de Ñuñoa
+> > **¡Nueva plaza de juegos de agua para las familias de San Bernardo!**
+> > La Municipalidad de San Bernardo informa que, desde este mes, el Parque Los Aromos cuenta con una nueva plaza de juegos de agua, con chorros y piletas para niños y niñas. La obra busca ofrecer un espacio de recreación gratuito durante el verano. Se estima que más de 4.000 personas visitarán la plaza cada fin de semana.
+> > — Departamento de Comunicaciones, Municipalidad de San Bernardo
 >
 > **Fuente 2 — Reportaje de un medio de noticias local**
 >
-> > **Vecinos de Ñuñoa se dividen por la nueva ciclovía de Irarrázaval**
-> > La construcción de la nueva ciclovía en avenida Irarrázaval generó opiniones divididas entre los vecinos. Mientras algunos ciclistas celebran la mayor seguridad para trasladarse, varios comerciantes del sector se quejan de la reducción de espacios de estacionamiento frente a sus locales, lo que —según ellos— ha disminuido sus ventas en las últimas semanas. La Municipalidad respondió que evaluará ajustes menores al diseño, pero descartó eliminar la ciclovía.
+> > **Vecinos de San Bernardo opinan distinto sobre la nueva plaza de agua**
+> > La nueva plaza de juegos de agua del Parque Los Aromos generó opiniones divididas. Mientras muchas familias celebran tener un lugar donde refrescarse, varios vecinos de los pasajes cercanos reclaman por el ruido hasta tarde y se preguntan cuánta agua se usa en plena sequía. La Municipalidad respondió que evaluará cambiar los horarios, pero descartó cerrar la plaza.
 >
 > ¿Qué opción describe correctamente el propósito de la Fuente 1 y de la Fuente 2, y por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva?
 
-a) Las dos fuentes tienen el mismo propósito, informar sobre la ciclovía; no importa quién emite un texto, porque los hechos son los mismos para todos
-b) La Fuente 1 critica a la Municipalidad por la obra y la Fuente 2 la elogia; conocer el propósito del emisor no cambia cómo se lee la información
-c) Ninguna tiene un propósito especial, porque los textos informativos siempre son objetivos y neutrales; por eso basta con leer una sola fuente para entender un hecho completo, sin importar si la escribió la Municipalidad, un vecino o un medio de prensa
+a) Las dos fuentes tienen el mismo propósito; no importa quién emite un texto, porque los hechos son los mismos para todos
+b) La Fuente 1 critica a la Municipalidad y la Fuente 2 la elogia; conocer el propósito no cambia cómo se lee la información
+c) Ninguna tiene un propósito especial, porque los textos informativos siempre son neutrales; basta con leer una sola fuente
 d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva  ✅
 
-**Explicación que verá el alumno:** d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva.
+**Explicación que verá el alumno:** d) El comunicado destaca lo positivo de una obra propia; el reportaje muestra distintas reacciones. Conocer el propósito del emisor ayuda a leer cada texto con criterio.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -590,7 +590,7 @@ b) Porque no escuchaba bien a su padre por el ruido de la calle
 c) Porque su padre le había dado permiso para entrar en las casas dañadas
 d) Porque después del terremoto ya no había ningún peligro
 
-**Explicación que verá el alumno:** a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos
+**Explicación que verá el alumno:** a) Porque quería demostrar que era tan valiente como los bomberos, y creía que las advertencias eran para los niños miedosos. Rosa quería parecerse a los bomberos y creía que las advertencias eran "para los niños miedosos": por eso no les hacía caso.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
