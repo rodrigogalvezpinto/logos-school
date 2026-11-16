@@ -133,6 +133,18 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect(zonas).not.toContain('::');
   });
 
+  it('::mapa:: de Mesoamérica y del Mediterráneo (Historia de 6.° y 7.° básico)', () => {
+    const meso = html('::mapa::mesoamerica::A@17.8,-92.8;B@Guatemala::rosa=si::');
+    expect(meso).toContain('<svg');
+    expect(meso).toContain('>A</text>');
+    expect(meso).toContain('>B</text>');
+    const medi = html('::mapa::mediterraneo::R@41.9,12.5::pintar=Italia/Grecia;rosa=si::');
+    expect(medi).toContain('<svg');
+    expect((medi.match(/fill="#C9C3FB"/g) || []).length).toBe(2);   // Italia y Grecia pintadas
+    expect(medi).toContain('>R</text>');
+    expect(medi).not.toContain('Italia');                             // sin nombres: no delata la respuesta
+  });
+
   it('::mapa:: con un país desconocido no dibuja nada (error visible en la revisión)', () => {
     expect(html('::mapa::sudamerica::A@Atlántida::')).not.toContain('<svg');
   });

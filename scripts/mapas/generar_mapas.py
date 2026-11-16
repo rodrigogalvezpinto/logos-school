@@ -1,4 +1,5 @@
-"""Genera frontend/src/app/shared/mapas-datos.ts: contornos SVG de América, Sudamérica y Chile.
+"""Genera frontend/src/app/shared/mapas-datos.ts: contornos SVG de América, Sudamérica, Chile, Mesoamérica y el
+Mediterráneo (estos dos, 2026-11-16, para Historia de 6.° y 7.° básico: mayas y aztecas; Grecia y Roma).
 
 Fuente: Natural Earth 1:50m (dominio público), redistribuido como TopoJSON en el paquete npm
 `world-atlas@2.0.2` (licencia ISC). Para regenerar:
@@ -17,17 +18,39 @@ SALIDA = Path(__file__).resolve().parents[2] / "frontend/src/app/shared/mapas-da
 ES = {
     "Argentina": "Argentina", "Bolivia": "Bolivia", "Brazil": "Brasil", "Chile": "Chile", "Colombia": "Colombia",
     "Ecuador": "Ecuador", "Guyana": "Guyana", "Paraguay": "Paraguay", "Peru": "Perú", "Suriname": "Surinam",
-    "Uruguay": "Uruguay", "Venezuela": "Venezuela", "Falkland Is.": "_islas", "France": "_guayana",
+    "Uruguay": "Uruguay", "Venezuela": "Venezuela", "Falkland Is.": "_islas", "France": "Francia",
     "Mexico": "México", "Guatemala": "Guatemala", "Belize": "Belice", "Honduras": "Honduras",
     "El Salvador": "El Salvador", "Nicaragua": "Nicaragua", "Costa Rica": "Costa Rica", "Panama": "Panamá",
     "Cuba": "Cuba", "Haiti": "Haití", "Dominican Rep.": "República Dominicana", "Jamaica": "Jamaica",
     "Puerto Rico": "Puerto Rico", "Bahamas": "Bahamas", "Trinidad and Tobago": "Trinidad y Tobago",
     "United States of America": "Estados Unidos", "Canada": "Canadá", "Greenland": "Groenlandia",
+    # Mediterráneo y Europa (2026-11-16)
+    "Spain": "España", "Portugal": "Portugal", "Italy": "Italia", "Greece": "Grecia", "Turkey": "Turquía",
+    "Egypt": "Egipto", "Libya": "Libia", "Tunisia": "Túnez", "Algeria": "Argelia", "Morocco": "Marruecos",
+    "Syria": "Siria", "Lebanon": "Líbano", "Israel": "Israel", "Palestine": "Palestina", "Jordan": "Jordania",
+    "Cyprus": "Chipre", "N. Cyprus": "Chipre", "Malta": "Malta", "Albania": "Albania", "Croatia": "Croacia",
+    "Bosnia and Herz.": "Bosnia y Herzegovina", "Montenegro": "Montenegro", "Slovenia": "Eslovenia",
+    "Serbia": "Serbia", "Kosovo": "Kosovo", "Macedonia": "Macedonia del Norte", "Bulgaria": "Bulgaria",
+    "Romania": "Rumania", "Moldova": "Moldavia", "Ukraine": "Ucrania", "Hungary": "Hungría", "Austria": "Austria",
+    "Switzerland": "Suiza", "Germany": "Alemania", "Czechia": "Chequia", "Slovakia": "Eslovaquia", "Poland": "Polonia",
+    "Belgium": "Bélgica", "Luxembourg": "Luxemburgo", "Russia": "Rusia", "Georgia": "Georgia", "Iraq": "Irak",
+    "Saudi Arabia": "Arabia Saudita", "Andorra": "Andorra", "Liechtenstein": "Liechtenstein", "Monaco": "Mónaco",
+    "San Marino": "San Marino", "Vatican": "Vaticano", "Guernsey": "_islas", "Jersey": "_islas", "Cayman Is.": "_islas",
 }
+
+# Países agregados para el mapa del Mediterráneo: no se dibujan en las regiones americanas.
+SOLO_MEDITERRANEO = {v for k, v in ES.items() if k in (
+    "Spain", "Portugal", "Italy", "Greece", "Turkey", "Egypt", "Libya", "Tunisia", "Algeria", "Morocco", "Syria",
+    "Lebanon", "Israel", "Palestine", "Jordan", "Cyprus", "N. Cyprus", "Malta", "Albania", "Croatia", "Bosnia and Herz.",
+    "Montenegro", "Slovenia", "Serbia", "Kosovo", "Macedonia", "Bulgaria", "Romania", "Moldova", "Ukraine", "Hungary",
+    "Austria", "Switzerland", "Germany", "Czechia", "Slovakia", "Poland", "Belgium", "Luxembourg", "Russia", "Georgia",
+    "Iraq", "Saudi Arabia", "Andorra", "Liechtenstein", "Monaco", "San Marino", "Vatican")}
 
 # Punto de etiqueta (lat, lon) donde el centroide no sirve: países alargados o con islas lejanas.
 CENTROS_FIJOS = {"Chile": (-30.5, -70.8), "Estados Unidos": (39, -98), "Canadá": (58, -105), "Ecuador": (-1.5, -78.3),
-                 "Argentina": (-35, -65), "Brasil": (-10, -52), "México": (23.5, -102.5), "Perú": (-9.5, -75)}
+                 "Argentina": (-35, -65), "Brasil": (-10, -52), "México": (23.5, -102.5), "Perú": (-9.5, -75),
+                 "Francia": (46.5, 2.5), "Rusia": (48, 40), "Italia": (42.8, 12.6), "Grecia": (39.3, 22),
+                 "Noruega": (61, 9)}
 
 
 def centroide(r):
@@ -46,6 +69,8 @@ REGIONES = {
     "america": (-170, -30, -56, 75, 520, 0.7),
     "sudamerica": (-82, -34, -56, 13, 460, 0.5),
     "chile": (-77, -64, -56.5, -17, 520, 0.35),
+    "mesoamerica": (-106, -76, 6, 25, 380, 0.45),
+    "mediterraneo": (-11, 42, 29, 50, 380, 0.45),
 }
 
 
@@ -127,6 +152,11 @@ def main() -> None:
             es = ES.get(g["properties"]["name"])
             if not es:
                 continue
+            americana = nombre in ("america", "sudamerica", "chile", "mesoamerica")
+            if americana and es in SOLO_MEDITERRANEO:
+                continue  # p. ej., la punta de Rusia o las Azores no deben aparecer en el mapa de América
+            if es == "Francia" and americana:
+                es = "_guayana"  # en América solo interesa la Guayana Francesa
             partes = []
             for pol in poligonos(g, arcos):
                 for r in pol:

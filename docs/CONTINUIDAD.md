@@ -104,7 +104,7 @@ Verifican con el parser antes de escribir y conservan la letra de la clave, para
 | Defectos de texto en pautas (letras falsas, huérfanas, «Retroalimentación:», títulos en estímulos) | ✅ corregidos (guardas en pytest) |
 | Solo preguntas cerradas; instrucciones sin «desarrollo» | ✅ |
 | Tablas/citas se ven bien en la app | ✅ (Chromium 12/12; 3 navegadores en 1.° básico y 3.° medio) |
-| B — gráficos y mapas dibujados | ✅ (mapas de otras regiones pendientes, ver 6.4) |
+| B — gráficos y mapas dibujados | ✅ (incluye Mesoamérica y Mediterráneo desde 2026-11-16) |
 | D — 21 marcadores `[Imagen: …]` en 1.° a 3.° básico (contados 2026-11-16) | ⏳ **espera decisión del dueño** sobre la fuente de las ilustraciones |
 | Revisión docente por muestreo | ⏳ muestra regenerada y revisada por mí en los 12 cursos (lo hallado, corregido); falta un profesor |
 | Control 6 — tag Git «material aprobado» | ⏳ pendiente |
@@ -197,9 +197,11 @@ Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA.
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,
 marcadores `::emoji::`/`::dibujo::` existentes, o ilustraciones generadas. No elegir sin él.
 
-### 6.4 Mapas de otras regiones (6.° y 7.° básico)
-`frontend/src/app/shared/mapas-datos.ts` solo tiene `america`, `sudamerica` y `chile`
-(generados por `scripts/mapas/generar_mapas.py` desde Natural Earth). Faltan Europa/Mediterráneo y Mesoamérica para Historia.
+### 6.4 ✅ RESUELTO (2026-11-16) — Mapas de Mesoamérica y del Mediterráneo
+`scripts/mapas/generar_mapas.py` genera ahora también `mesoamerica` y `mediterraneo` (nombres de países en español; los
+países europeos no se dibujan en los mapas de América, que quedaron idénticos). El marcador acepta
+`::mapa::mesoamerica::…::` y `::mapa::mediterraneo::…::`. Se usan en la guía de Historia de 7.° básico (OA 7, Imperio
+romano; OA 13, rutas comerciales mesoamericanas), que antes pedían «imaginar un mapa». Prueba unitaria nueva.
 
 ### 6.5 Cierre de Fase 1
 1. Validación en los 3 navegadores de los 12 cursos (`NAVEGADORES=todos scripts/qa/validar_material.sh`).

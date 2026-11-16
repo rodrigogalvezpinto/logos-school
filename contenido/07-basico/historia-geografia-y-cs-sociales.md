@@ -591,7 +591,7 @@ d) Porque permitió tanto conquistar nuevos territorios (expansión) como proteg
 
 ---
 
-**5. (Alternativas — análisis de mapa)** Imagina un mapa del imperio romano en su máxima extensión, rodeando el mar Mediterráneo, con una red de caminos que conectan Roma con las provincias más lejanas. ¿Qué nos permite comprender este mapa?
+**5. (Alternativas — análisis de mapa)** Observa el mapa: los países pintados ocupan hoy parte del territorio que llegó a controlar el Imperio romano en su máxima extensión, alrededor del mar Mediterráneo, y la R marca la ciudad de Roma. Los romanos unieron esos territorios con una extensa red de caminos de piedra. ::mapa::mediterraneo::R@41.9,12.5::pintar=Italia/España/Francia/Grecia/Turquía/Egipto/Túnez/Siria;rosa=si:: ¿Qué nos permite comprender esta información?
 a) Que el imperio romano era un territorio pequeño y aislado, y que los caminos servían solo para comunicar los barrios de la ciudad de Roma
 b) Que Roma logró administrar un territorio muy extenso gracias a una infraestructura que facilitaba la comunicación, el comercio y el movimiento de tropas
 c) Que Roma no tenía contacto con sus provincias
@@ -982,7 +982,7 @@ d) 1-B, 2-B, 3-A
 
 ---
 
-**4. (Alternativas — análisis de mapa)** Imagina un mapa de Mesoamérica que muestra rutas comerciales que conectan zonas productoras de cacao, obsidiana, sal y plumas de aves exóticas, cada una en una región distinta. ¿Qué nos permite comprender este mapa?
+**4. (Alternativas — análisis de mapa)** Observa el mapa de Mesoamérica: A marca una zona productora de cacao; B, de obsidiana; C, de sal, y D, de plumas de quetzal. Los mercaderes llevaban estos productos de una región a otra por rutas comerciales. ::mapa::mesoamerica::A@17.8,-92.8;B@19.9,-98.6;C@21.2,-89.6;D@15.3,-90.4::rosa=si:: ¿Qué nos permite comprender este mapa?
 a) Que existía una red comercial que vinculaba distintas regiones de Mesoamérica, permitiendo el intercambio de productos entre zonas con recursos diferentes
 b) Que cada pueblo producía todo lo que necesitaba sin intercambiar nada, y las rutas del mapa servían solo para los viajes de los ejércitos hacia otras regiones
 c) Que el comercio en Mesoamérica estaba prohibido por los gobernantes, y que los productos se repartían gratuitamente desde la capital a cada región

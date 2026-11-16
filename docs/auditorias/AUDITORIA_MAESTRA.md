@@ -1784,3 +1784,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   clave concentrada en una letra (1.° básico forma A: «a» 11/20; 3.° medio Matemática B: «b» 12/25) se rebalancearon con
   `rebalancear_claves.py --escribir` (9 intercambios verificados). Quedan 2 avisos informativos: en los simulacros de
   Filosofía de 3.° y 4.° medio, parte del puntaje está en preguntas cerradas ponderadas (3 y 5 puntos), y la suma es correcta.
+- **Mapas nuevos (pendiente 6.4 cerrado).** Regiones `mesoamerica` y `mediterraneo` generadas desde Natural Earth
+  (world-atlas@2.0.2); las regiones existentes quedaron idénticas (verificado). Dos preguntas de la guía de Historia de
+  7.° básico pasan de «imagina un mapa» a un mapa dibujado. Frontend unitario 142/142.

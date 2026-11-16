@@ -5,7 +5,7 @@
  * scripts/mapas/generar_mapas.py.
  *
  * Sintaxis:  ::mapa::región::marcas::[opciones::]
- *   región    america | sudamerica | chile
+ *   región    america | sudamerica | chile | mesoamerica | mediterraneo (estas dos, 2026-11-16)
  *   marcas    separadas por «;»: TEXTO@País o TEXTO@lat,lon (decimales con punto).
  *             TEXTO de 1–2 letras o números → círculo con la letra; emoji → ícono; palabra → rótulo.
  *             Puede quedar vacío: ::mapa::sudamerica::::pintar=Chile::
@@ -16,7 +16,7 @@ import { CENTROS, MAPAS } from './mapas-datos';
 
 const OPCION = String.raw`(?:pintar|nombres|rosa|zonas)=[^:;]{0,80}`;
 export const RE_MAPA = new RegExp(
-  String.raw`::mapa::(america|sudamerica|chile)::((?:[^:;@]{1,24}@[^:;@]{1,40};?){0,12})::(?:(${OPCION}(?:;${OPCION})*)::)?`,
+  String.raw`::mapa::(america|sudamerica|chile|mesoamerica|mediterraneo)::((?:[^:;@]{1,24}@[^:;@]{1,40};?){0,12})::(?:(${OPCION}(?:;${OPCION})*)::)?`,
   'g',
 );
 
