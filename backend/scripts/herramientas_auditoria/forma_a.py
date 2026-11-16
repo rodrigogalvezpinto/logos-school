@@ -94,7 +94,7 @@ def armar(ruta_b: Path, ruta_a: Path, preguntas: list[P], fila, reemplazos: dict
     fin = k + 1
     while fin < len(lineas) and lineas[fin].startswith("|"):
         fin += 1
-    nuevas = [fila(i, p, p.clave_texto()) for i, p in enumerate(preguntas, 1)]
+    nuevas = [fila(i, p, p.clave_texto().rstrip(".")) for i, p in enumerate(preguntas, 1)]  # sin «..» en la pauta
     cola = cola[:ip] + "\n".join(lineas[: k + 1] + nuevas + lineas[fin:])
     ruta_a.write_text(cabeza + cuerpo + cola, encoding="utf-8")
     malas = sesgos(preguntas)

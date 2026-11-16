@@ -1816,4 +1816,9 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   Ciencias cuyos datos coincidían con la guía o con una prueba, y 1 título de Lenguaje cuyo tema repetía la guía.
 - Corpus: 6.306 preguntas, 0 sin OA; pytest 145; E2E 5.° básico 29/29 en Chromium.
 - Herramienta nueva: `backend/scripts/herramientas_auditoria/forma_a.py` (+ scripts fuente en `formas_a/`).
+- 6.° básico (2026-11-16): las 5 Formas A listas (Matemática, Ciencias Naturales, Historia, Lenguaje con textos nuevos,
+  Inglés). En la revisión se cambiaron 8 datos de Matemática que repetían la guía o una prueba (razón 5:2, 3 2/5,
+  dado 300 veces, pecera 60 × 30 × 40, etc.) y una pregunta de Historia que repetía la guía (golpe de 1973 → asunción de
+  Aylwin en 1990). Corpus 6.431 preguntas, 0 sin OA; pytest 145; E2E 6.° básico 29/29 en Chromium. `forma_a.py` ahora
+  admite marcar la correcta con «*» y quita el punto duplicado en la pauta (corregido también en Inglés 5.° básico).
 

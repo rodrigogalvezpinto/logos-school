@@ -222,14 +222,15 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
 (cuentas y claves que debe crear el dueño).
 
 ### 6.7 Tarea 8 — simulacros Forma A del régimen B/C (en curso)
-Estado: 5.° básico listo (Matemática, Ciencias Naturales, Historia, Lenguaje, Inglés). Faltan 6.° básico a 4.° medio:
-36 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
+Estado: 5.° y 6.° básico listos (Matemática, Ciencias Naturales, Historia, Lenguaje, Inglés). Faltan 7.° básico a 4.° medio:
+32 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
 
 Procedimiento por archivo (el importador ya reconoce `forma-a` y crea «Examen <asignatura> Forma A»):
 1. Leer la Forma B: secciones, OA por pregunta, puntajes, tipos (alternativas, varias correctas, V/F) y formato de la pauta.
 2. Escribir un script en `backend/scripts/herramientas_auditoria/formas_a/` (ver los de 5.° básico) que use `forma_a.armar`:
    copia encabezado y cola de la Forma B, pone las preguntas nuevas y reescribe las filas de la pauta.
-   **La opción correcta va primero en la lista** y `letra` dice dónde queda; repartir letras ~6/6/6/6.
+   **Marcar la opción correcta con `*`** (o ponerla primera) y `letra` dice dónde queda; repartir letras ~6/6/6/6.
+   Error frecuente al redactar: escribir la correcta en otra posición sin marcarla → la clave queda mal; revisar la pauta.
    Varias correctas: opciones en su orden final y `letra="acd"`; variar el patrón. V/F: `opciones=[]`, `letra="V"/"F"`.
 3. Mismos OA, misma cantidad de preguntas por OA y mismos puntajes que la Forma B; datos, contextos y textos nuevos.
 4. Controles: `armar` avisa sesgo de longitud; luego `pytest tests/test_parser_prueba_examen.py` (copias con guía y pruebas,

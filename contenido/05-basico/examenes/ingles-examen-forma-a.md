@@ -266,25 +266,25 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.**
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
 | 1 | **a) Black and white.** El texto dice *"My dog is black and white"*: Max, el perro de Tomás, es blanco y negro. | OA5 |
-| 2 | **c) The bag goes under the desk..** *Under the desk* significa «debajo del escritorio»: ahí va la mochila (*bag*). El libro va *on the desk*, sobre el escritorio. | OA5 |
+| 2 | **c) The bag goes under the desk.** *Under the desk* significa «debajo del escritorio»: ahí va la mochila (*bag*). El libro va *on the desk*, sobre el escritorio. | OA5 |
 | 3 | **b) but.** *But* (pero) une dos ideas que se oponen: me gustan las manzanas, pero no los plátanos. | OA5 |
-| 4 | **d) She visits her grandmother..** El texto dice *"On Sunday, she visits her grandmother"*: el domingo visita a su abuela. Al parque va el sábado (*Saturday*). | OA5 |
+| 4 | **d) She visits her grandmother.** El texto dice *"On Sunday, she visits her grandmother"*: el domingo visita a su abuela. Al parque va el sábado (*Saturday*). | OA5 |
 | 5 | False (Falso): el texto dice que hay dos gatos (*two cats*) y un solo perro (*one dog*). | OA5 |
 | 6 | **b) A birthday card.** *Happy Birthday* (feliz cumpleaños) y el saludo final *Love, Carlos* muestran que es una tarjeta de cumpleaños. | OA6 |
 | 7 | **c) At Pedro's house.** La nota dice *"I am at Pedro's house"*: Daniel está en la casa de Pedro y vuelve a las seis. | OA6 |
-| 8 | **a) That's OK..** *That's OK* (no importa, está bien) es una respuesta amable a una disculpa. *Thank you* se usa para agradecer, no para responder a *I'm sorry*. | OA6 |
+| 8 | **a) That's OK.** *That's OK* (no importa, está bien) es una respuesta amable a una disculpa. *Thank you* se usa para agradecer, no para responder a *I'm sorry*. | OA6 |
 | 9 | **d) A swimsuit.** *Bring your swimsuit* significa «trae tu traje de baño», porque en la fiesta podrán nadar en la piscina (*pool*). | OA6 |
 | 10 | False (Falso): Maite está en la playa con su mamá (*with Mom*), no con su papá. | OA6 |
-| 11 | **b) I think mangoes are delicious..** *I think...* (yo creo...) expresa una opinión propia. Las otras oraciones solo describen o informan. | OA8 |
-| 12 | **d) I don't like football, but I like swimming..** *I don't like football, but I like swimming* compara: a Pablo le gusta el fútbol y a ti no, aunque te gusta nadar. Las otras no hablan de tus gustos. | OA8 |
+| 11 | **b) I think mangoes are delicious.** *I think...* (yo creo...) expresa una opinión propia. Las otras oraciones solo describen o informan. | OA8 |
+| 12 | **d) I don't like football, but I like swimming.** *I don't like football, but I like swimming* compara: a Pablo le gusta el fútbol y a ti no, aunque te gusta nadar. Las otras no hablan de tus gustos. | OA8 |
 | 13 | **b) likes.** Con *he/she/it* (aquí, *my brother*) el verbo lleva -s: *likes*. Con *I* se usa *like*. | OA8 |
-| 14 | **a) Yes, I do..** A *Do you like...?* se responde *Yes, I do* o *No, I don't*. *Does* es para *he/she*, *I am* responde a preguntas con *Are you...?* y *Yes, I like* queda incompleta. | OA8 |
+| 14 | **a) Yes, I do.** A *Do you like...?* se responde *Yes, I do* o *No, I don't*. *Does* es para *he/she*, *I am* responde a preguntas con *Are you...?* y *Yes, I like* queda incompleta. | OA8 |
 | 15 | True (Verdadero): a Ema le gustan los gatos y al narrador también (*too* = también). | OA8 |
 | 16 | **a) Love.** Como en el modelo, la postal se despide con *Love* (con cariño) antes del nombre. | OA14 |
 | 17 | **c) cold.** Lo contrario de *hot* (caliente) es *cold* (frío): la sopa está caliente y el helado, frío. | OA14 |
 | 18 | **b) rainy.** *It is raining* (está lloviendo) y el paraguas (*umbrella*) indican un día lluvioso: *rainy*. | OA14 |
 | 19 | **a) coat.** *Coat* (abrigo) es ropa de invierno, como la bufanda (*scarf*) y los guantes (*gloves*). El traje de baño y las sandalias son para el verano. | OA14 |
-| 20 | **c) My name is Diego. I am eleven..** Sigue el modelo con otro nombre y otra edad. Las otras repiten el modelo o tienen errores (*are* con *my name*, falta *am*). | OA14 |
+| 20 | **c) My name is Diego. I am eleven.** Sigue el modelo con otro nombre y otra edad. Las otras repiten el modelo o tienen errores (*are* con *my name*, falta *am*). | OA14 |
 | 21 | **c) under.** *Under* significa «debajo de». *On* es «sobre» e *in*, «dentro de». | OA15 |
 | 22 | **d) her.** *Her* se usa para algo que pertenece a una mujer o niña: *her book* (su libro, el de Paula). *His* es para un hombre o niño. | OA15 |
 | 23 | **d) fifteen.** 15 = *fifteen*. *Fifty* es 50, *five* es 5 y *fifteenth* es el ordinal (decimoquinto). | OA15 |
