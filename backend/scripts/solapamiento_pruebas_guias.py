@@ -68,6 +68,12 @@ REVISADAS_A_MANO = {
     "01-medio/pruebas/matematica-unidad-probabilidad-y-estadistica.md": {1},  # otro evento (impar o un 6)
     "01-medio/examenes/ingles-examen-forma-b.md": {9, 16},  # otras oraciones (tareas; Día de Muertos)
     "01-medio/examenes/lengua-y-literatura-examen-forma-b.md": {2},  # otro personaje (la abuela Herminia)
+    "02-medio/pruebas/ingles-unidad-1.md": {4, 10},  # otras preguntas y oraciones
+    "02-medio/pruebas/ingles-unidad-2.md": {1, 4, 8, 11},  # otras oraciones
+    "02-medio/pruebas/lengua-y-literatura-unidad-1.md": {4},  # otro texto (la carta de Tomás)
+    "02-medio/pruebas/lengua-y-literatura-unidad-2.md": {4, 5},  # otra columna (pantallas, no IA)
+    "02-medio/pruebas/ciencias-naturales-unidad-quimica.md": {3, 5},  # otras soluciones y otros datos (20 g en 400 g)
+    "02-medio/examenes/ingles-examen-forma-b.md": {16, 22},  # otras oraciones (Suecia; el concierto)
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {8, 15},  # 8: V/F sobre otro poema
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

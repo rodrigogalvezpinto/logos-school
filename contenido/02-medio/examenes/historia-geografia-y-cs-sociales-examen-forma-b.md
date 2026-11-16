@@ -148,15 +148,12 @@ d) Promovía a las Fuerzas Armadas como garantes del orden interno frente a la a
 
 ### El fin de la Guerra Fría y la globalización (OA 11)
 
-**Pregunta 8.** (1 punto)
-¿Qué nombre recibieron las reformas de transparencia y reestructuración impulsadas por Mijaíl
-Gorbachov en la URSS durante la década de 1980, que terminaron acelerando la crisis del sistema
-soviético?
+**Pregunta 8.** (1 punto) A fines de la década de 1980, los ciudadanos soviéticos pudieron criticar por primera vez al gobierno en la prensa, y la economía empezó a abrirse a ciertas empresas privadas. ¿Qué reformas de Gorbachov describen estos cambios?
 
 a) Alianza para el Progreso y Doctrina de la Seguridad Nacional
 b) Plan Laboral y Plan Marshall
 c) New Deal y Estado de Bienestar
-d) Perestroika y Glasnost
+d) Glasnost y Perestroika
 
 ---
 
@@ -178,13 +175,12 @@ d) Una interpretación que subraya las responsabilidades y errores de distintos 
 
 ---
 
-**Pregunta 10.** (2 puntos)
-¿Por qué es importante distinguir entre "opinión sin evidencia" e "interpretación fundamentada en fuentes verificables" sobre el golpe de 1973?
+**Pregunta 10.** (2 puntos) Dos estudiantes discuten sobre el golpe de Estado de 1973. Uno dice «yo creo que…» sin dar pruebas; la otra cita documentos desclasificados y testimonios de la época. ¿Por qué la segunda postura tiene más valor historiográfico?
 
-a) Porque solo puede existir una única interpretación correcta del golpe de 1973, y el trabajo historiográfico consiste en descartar todas las demás visiones por ser parciales
-b) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia (archivos, testimonios, documentos), distinguiendo visiones que amplían la comprensión de afirmaciones sin sustento
-c) Porque las opiniones personales de quienes vivieron el período son siempre más confiables que los documentos, ya que los archivos pueden haber sido manipulados
-d) Porque los temas sensibles no deben estudiarse en el colegio hasta que exista consenso total, de modo que la historia reciente solo puede abordarse con opiniones
+a) Porque solo puede existir una interpretación correcta del pasado
+b) Porque toda interpretación histórica debe sustentarse en evidencia verificable, como archivos, documentos y testimonios contrastados
+c) Porque las opiniones personales siempre son más confiables que los documentos
+d) Porque los temas sensibles no deben estudiarse en el colegio
 
 ---
 
@@ -222,10 +218,7 @@ d) El estado de sitio amplió las libertades de circulación y reunión
 
 ### El modelo económico neoliberal en dictadura (OA 17)
 
-**Pregunta 13.** (1 punto)
-¿Qué política laboral, implementada en 1979, restringió
-significativamente las atribuciones de los sindicatos y el derecho a huelga en Chile, en el marco
-del modelo económico neoliberal?
+**Pregunta 13.** (1 punto) En Chile, a partir de 1979, la negociación colectiva quedó limitada a cada empresa y la huelga tuvo un plazo tras el cual el empleador podía reemplazar a los trabajadores. ¿Qué política estableció estas normas?
 
 a) La Alianza para el Progreso
 b) El Plan Laboral
@@ -411,12 +404,12 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 5 | Alternativas | **a) Porque, evitando un choque directo con riesgo nuclear, ambas potencias compitieron por demostrar la superioridad de su sistema; se manifestó en la cultura, el deporte y las ciencias (carrera espacial).** Estados Unidos y la URSS evitaron enfrentarse directamente por el riesgo nuclear; compitieron en la economía, la ciencia, la carrera espacial, el deporte y la propaganda. | OA 8 | Historia | 2 |
 | 6  | Alternativas | a) La Revolución Cubana. La Revolución Cubana (1959) instauró un gobierno socialista cerca de Estados Unidos y fue un referente, admirado o temido, para América Latina. | OA 10 | Historia | 1 |
 | 7 | Alternativas | **d) Promovía a las Fuerzas Armadas como garantes del orden interno frente a la amenaza comunista y se usó para legitimar dictaduras que violaron sistemáticamente los Derechos Humanos.** La Doctrina de la Seguridad Nacional presentaba a las Fuerzas Armadas como responsables del orden interno frente a un "enemigo interno" y se usó para justificar golpes de Estado. | OA 10 | Historia | 2 |
-| 8  | Alternativas | d) Perestroika y Glasnost. Perestroika ("reestructuración") y Glasnost ("transparencia") fueron las reformas de Gorbachov; terminaron acelerando la crisis y la disolución de la URSS (1991). | OA 11 | Historia | 1 |
+| 8  | Alternativas | **d) Glasnost y Perestroika.** d) La Glasnost («transparencia») abrió la libertad de prensa y la Perestroika («reestructuración») reformó la economía; juntas aceleraron la crisis del sistema soviético. | OA 11 | Historia | 1 |
 | 9  | Alternativas | d) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos y militares chilenos. El historiador pone el énfasis en las responsabilidades y errores de los actores políticos internos: esa es la interpretación que prioriza. | OA 15 | Historia | 1 |
-| 10 | Alternativas | **b) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia (archivos, testimonios, documentos), distinguiendo visiones que amplían la comprensión de afirmaciones sin sustento.** Esto no implica que exista una única interpretación correcta. | OA 15 | Historia | 2 |
+| 10 | Alternativas | **b) Porque toda interpretación histórica debe sustentarse en evidencia verificable, como archivos, documentos y testimonios contrastados.** b) La historia admite distintas interpretaciones, pero deben fundamentarse en fuentes verificables y contrastadas; una opinión sin evidencia no tiene ese respaldo. | OA 15 | Historia | 2 |
 | 11 | Alternativas | b) La desaparición forzada. La desaparición forzada es la detención por agentes del Estado seguida de la negación del paradero de la persona; fue una práctica sistemática de la dictadura. | OA 16 | Historia | 1 |
 | 12 | Varias correctas | **a, b y c.** La supresión del Estado de Derecho eliminó los controles sobre el poder; el estado de sitio restringió libertades básicas. | OA 16 | Historia | 3 |
-| 13 | Alternativas | b) El Plan Laboral. El Plan Laboral (1979) restringió la negociación colectiva, la acción sindical y el derecho a huelga, como parte del modelo neoliberal. | OA 17 | Historia | 1 |
+| 13 | Alternativas | **b) El Plan Laboral.** b) El Plan Laboral de 1979, impulsado por José Piñera bajo la dictadura, restringió la acción sindical y el derecho a huelga, en coherencia con el modelo neoliberal. | OA 17 | Historia | 1 |
 | 14 | Alternativas | **c) Que el mercado, y no el Estado, se volvió el principal mecanismo para asignar recursos y fijar precios; lo refleja la privatización de empresas estatales.** En el modelo neoliberal, el mercado pasó a decidir precios, producción y asignación de recursos; lo reflejan la apertura comercial y las privatizaciones. | OA 17 | Historia | 2 |
 | 15 | Alternativas | b) Una severa crisis económica, con desempleo masivo. En 1982, la crisis de la deuda provocó quiebras y un desempleo masivo, que debilitó el apoyo al régimen y dio paso a las protestas nacionales desde 1983. | OA 19 | Historia | 1 |
 | 16 | Alternativas | a) La Comisión Nacional de Verdad y Reconciliación (Informe Rettig). La Comisión Nacional de Verdad y Reconciliación (Informe Rettig, 1991) documentó a personas ejecutadas y desaparecidas; el Informe Valech, posterior (2004), trató la prisión política y la tortura. | OA 20 | Historia | 1 |

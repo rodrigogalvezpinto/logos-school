@@ -37,7 +37,7 @@ d) Imprescriptibilidad
 
 **3. (Alternativas — unir)** Une cada institución con su nivel de acción:
 
-1) Instituto Nacional de Derechos Humanos (INDH) — 2) Corte Interamericana de Derechos Humanos — 3) Consejo de Derechos Humanos de la ONU
+1) Defensoría de la Niñez — 2) Comisión Interamericana de Derechos Humanos — 3) Comité de los Derechos del Niño de la ONU
 
 Niveles: (A) Internacional — (B) Nacional — (C) Regional (americano)
 
@@ -143,7 +143,7 @@ d) Porque basta con que cada persona conozca sus derechos para que se respeten, 
 
 1. **c)** Irrenunciabilidad: nadie puede renunciar a sus derechos ni ser privado de ellos.
 2. **Verdadero.** La universalidad significa que todas las personas son titulares de los Derechos Humanos.
-3. a) 1-B, 2-C, 3-A. La institucionalidad de Derechos Humanos opera en niveles nacional, regional e internacional que se complementan.
+3. a) 1-B, 2-C, 3-A. La Defensoría de la Niñez es un organismo chileno (nacional), la Comisión Interamericana pertenece a la OEA (regional) y el Comité de los Derechos del Niño, a la ONU (internacional): los tres niveles se complementan.
 4. d) El sistema interamericano es complementario de la justicia nacional: se recurre a él cuando los mecanismos internos no han protegido los derechos.
 5. d) Las medidas específicas buscan eliminar barreras para que todos ejerzan los mismos derechos en igualdad.
 6. **b)** Ley Antidiscriminación, conocida como Ley Zamudio (Ley 20.609).

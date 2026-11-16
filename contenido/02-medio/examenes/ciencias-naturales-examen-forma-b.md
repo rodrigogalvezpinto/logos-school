@@ -101,9 +101,7 @@ d) Aseguran una participación libre e informada y permiten acordar métodos de 
 
 ### OA N°6 — Transmisión del material genético: mitosis, meiosis y alteraciones
 
-**7.** *(Alternativas)* ¿Cuál de los siguientes procesos de división celular es
-responsable del crecimiento del organismo y de la reparación de heridas en los
-tejidos?
+**7.** *(Alternativas)* Cuando una persona se hace un corte en la piel, la herida se cierra en algunos días porque se forman células nuevas idénticas a las anteriores. ¿Qué proceso de división celular lo permite?
 
 a) La mitosis
 b) La meiosis
@@ -192,15 +190,12 @@ b) Segunda ley (fuerza neta = masa × aceleración)
 c) Tercera ley (acción y reacción)
 d) Ley de gravitación universal
 
-**16.** *(Alternativas)* Un objeto se mueve con velocidad constante en línea recta.
-¿Qué se puede concluir, según la primera ley de Newton, sobre la fuerza neta que
-actúa sobre él?
+**16.** *(Alternativas)* Un ascensor sube a velocidad constante entre el piso 2 y el piso 8. Según la primera ley de Newton, ¿qué se puede concluir sobre la fuerza neta que actúa sobre el ascensor en ese tramo?
 
-a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan
-   entre sí
-b) Es distinta de cero y apunta en el mismo sentido en que se mueve el objeto
-c) Es distinta de cero y apunta en sentido contrario al movimiento del objeto
-d) No se puede determinar si no se conoce la masa del objeto que se mueve
+a) Es cero: la fuerza del cable y el peso se equilibran
+b) Es distinta de cero y apunta hacia arriba
+c) Es distinta de cero y apunta hacia abajo
+d) No se puede saber sin conocer la masa del ascensor
 
 **17.** *(Alternativas, 3 puntos)* Un objeto de 10 kg recibe una fuerza horizontal de 25 N y un roce de 5 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
 
@@ -213,9 +208,7 @@ d) 25 N y 2,5 m/s²
 
 ### OA N°13 — Modelos del Universo: geocéntrico, heliocéntrico y Big Bang
 
-**18.** *(Alternativas)* ¿Qué científico es reconocido por sistematizar el modelo
-geocéntrico del Universo en la Antigüedad, según el cual la Tierra se encuentra
-inmóvil en el centro?
+**18.** *(Alternativas)* Un modelo de la Antigüedad ubicaba la Tierra inmóvil en el centro del Universo y explicaba el movimiento de los planetas con epiciclos. ¿Quién sistematizó ese modelo?
 
 a) Nicolás Copérnico
 b) Galileo Galilei
@@ -306,7 +299,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Alternativas | d) Biológica. Producir gametos y las respuestas fisiológicas del cuerpo son procesos de la dimensión biológica de la sexualidad. | OA 3 |
 | 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad. Contar con información confiable permite decidir de forma responsable y usar métodos eficaces; no garantiza ni obliga a ninguna decisión. | OA 3 |
 | 6 | Alternativas | **d) Aseguran una participación libre e informada y permiten acordar métodos de protección y expresar límites, reduciendo riesgos físicos (embarazo no planificado, ITS) y emocionales.** El consentimiento asegura que ambas personas participan libremente, y la comunicación permite acordar cómo protegerse física y emocionalmente. | OA 3 |
-| 7 | Alternativas | a) La mitosis. La mitosis produce dos células idénticas a la célula madre: así crece el organismo y se reparan los tejidos. | OA 6 |
+| 7 | Alternativas | **a) La mitosis.** a) La mitosis produce dos células hijas idénticas a la célula madre; así crecen y se reparan los tejidos. La meiosis forma gametos y la no disyunción es un error de separación de cromosomas. | OA 6 |
 | 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene. La meiosis produce cuatro células con la mitad de los cromosomas (los gametos); la mitosis produce dos células idénticas con el número completo. | OA 6 |
 | 9 | Alternativas | **d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos.** Cada fecundación combina gametos diferentes, por eso cada hijo es único. | OA 6 |
 | 10 | Alternativas | **a) Como un organismo transgénico, porque recibió un gen de otra especie.** Así se produce hoy la insulina para personas con diabetes. | OA 8 |
@@ -315,9 +308,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo. En caída libre, la aceleración de gravedad es constante (cerca de 9,8 m/s²): la velocidad aumenta de manera uniforme, y eso es un MRUA. | OA 9 |
 | 14 | Alternativas | **c) 3 m/s²: su velocidad aumenta 3 m/s cada segundo.** a = (15 − 0)/5 = 3 m/s². | OA 9 |
 | 15 | Alternativas | c) Tercera ley (acción y reacción) — el pie empuja el suelo hacia atrás y el suelo empuja el pie hacia adelante con la misma fuerza y en sentido opuesto | OA 10 |
-| 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí. Según la primera ley de Newton, si la velocidad es constante, la fuerza neta es cero: pueden actuar varias fuerzas, pero se equilibran. | OA 10 |
+| 16 | Alternativas | **a) Es cero: la fuerza del cable y el peso se equilibran.** a) Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor. | OA 10 |
 | 17 | Alternativas | **a) 20 N y 2 m/s².** Fuerza neta: 25 − 5 = 20 N; a = 20/10 = 2 m/s². | OA 10 |
-| 18 | Alternativas | c) Claudio Ptolomeo. Claudio Ptolomeo sistematizó en la Antigüedad el modelo geocéntrico; Copérnico propuso después el modelo heliocéntrico. | OA 13 |
+| 18 | Alternativas | **c) Claudio Ptolomeo.** c) Ptolomeo, en el siglo II, sistematizó el modelo geocéntrico en el Almagesto. Copérnico propuso el heliocéntrico, Galileo lo apoyó con el telescopio y Newton explicó la gravitación. | OA 13 |
 | 19 | Alternativas | **d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice.** El conocimiento científico es provisional y se revisa con evidencia. | OA 13 |
 | 20 | Alternativas | **b) La sal, porque está en menor cantidad y se disuelve en el agua.** El agua es el solvente. | OA 15 |
 | 21 | Alternativas | c) Solución sólida (aleación) — el bronce es una mezcla homogénea de cobre y estaño, con propiedades distintas a las de sus componentes | OA 15 |
