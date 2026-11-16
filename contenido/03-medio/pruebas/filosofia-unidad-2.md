@@ -126,11 +126,11 @@ d) El experimento mental: imaginar una situación hipotética para poner a prueb
 4. c — el criticismo combina confianza en la evidencia con disposición a revisarla.
 5. d — se pasa de aceptar sin cuestionar a contrastar la creencia con la evidencia.
 6. d. El hincha da su creencia por verdad absoluta y rechaza la evidencia que la contradice: eso es dogmatismo.
-7. c — hay que distinguir la duda razonable y puntual de la desconfianza total.
+7. **c) Es un escepticismo radical; lo crítico es evaluar cada afirmación según su evidencia y sus posibles conflictos de interés, sin rechazarla en bloque ni aceptarla sin más.** Rechazar a todos los científicos en bloque es escepticismo radical. Una postura crítica distingue la duda razonable y puntual de la desconfianza total: evalúa cada afirmación según su evidencia y sus posibles conflictos de interés.
 8. b. En (I), si las premisas son verdaderas la conclusión es necesariamente verdadera (deducción); en (II), diez casos hacen probable la conclusión, pero no la garantizan (inducción).
 9. Verdadero — validez y verdad son distintas: la estructura es válida (si las premisas fueran verdaderas, la conclusión lo sería), pero la premisa "todos los peces vuelan" es falsa.
 10. c — la evidencia es el respaldo fáctico que hace más sólida la razón dada.
 11. b. La fama del futbolista no lo convierte en experto en tecnología ni aporta evidencia sobre el celular: es una apelación a la autoridad sin fundamento.
 12. a) 1-B, 2-C, 3-A. Diálogo socrático, imaginación controlada (el anillo de Giges, de Platón) y descripción de la experiencia vivida.
-13. d — los tres componentes deben estar presentes y ser coherentes entre sí.
+13. **d) Razón: los jóvenes toman decisiones sobre créditos y ahorro al salir del liceo. Garantía: quien entiende el interés y las deudas puede evitar endeudarse en exceso. Evidencia: encuestas muestran que muchos jóvenes desconocen cómo funcionan los intereses de una tarjeta de crédito.** La opción tiene los tres componentes: una razón (los jóvenes deciden sobre créditos y ahorro al salir del liceo), una garantía que la conecta con la conclusión y evidencia que la respalda. Las demás omiten alguno o no son coherentes.
 14. b. Euclides parte de axiomas, que se aceptan sin demostración, y deduce de ellos los teoremas: ese es el método axiomático.

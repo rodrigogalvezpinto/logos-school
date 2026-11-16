@@ -257,7 +257,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 16 | **b)** Razona por analogía: un caso parecido, en otra comuna, se resolvió con fotos, carta y firmas. | OA N°4 — modos de razonamiento |
 | 17 | **c)** Responder con el mismo tono o exponer datos personales agrava el problema; señalar que es una descalificación sin sustento devuelve la conversación al tema. | OA N°4 — postura ética fundamentada |
 | 18 | **a y b.** Lo verificable (fotos, carta con firmas) y el testimonio directo pesan más que el rumor o el prejuicio. | OA N°4 — calidad de la evidencia (integrada) |
-| 19 | **b)** Cambia la forma según el género y la audiencia, no el propósito. | OA N°6 — adecuación al género |
+| 19 | **b) Mantener la idea central, pero acortar el texto, usar un registro cercano y cerrar con un llamado a la acción.** Al pasar de ensayo a publicación en redes, se mantiene la idea central, pero cambia la forma: texto más breve, registro cercano y un llamado a la acción, adecuados al nuevo género y a la audiencia. | OA N°6 — adecuación al género |
 | 20 | **Falso.** La versión corregida es fruto del proceso de escritura: planificar según la audiencia, escribir y revisar la cohesión. Por eso se corrigió el borrador con errores. | OA N°6 — proceso de escritura |
 | 21 | **Falso.** Esa oración introduce un dato personal que no se conecta con el tema (la función de los humedales) e interrumpe la progresión entre la información y la conclusión. | OA N°6 — progresión temática |
 | 22 | **a)** El propósito, el género, la audiencia y las convenciones son coherentes entre sí y con el tema del reportaje. | OA N°6 — planificación (propósito, género, tema, audiencia) |

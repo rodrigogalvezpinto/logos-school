@@ -125,7 +125,7 @@ d) I love avocado on toast very much, and my family eats it every morning in our
 
 5. b) Marcar una diferencia. *Whereas* (mientras que) contrasta dos ideas en una misma oración: la hora de la cena en España y en Chile.
 
-6. c) La respuesta usa la información explícita del texto, no una opinión.
+6. **c) A feeling of comfort and togetherness created in relaxed moments with loved ones.** El texto define «hygge» como un sentimiento de comodidad y unión que se crea en momentos tranquilos con los seres queridos; la respuesta usa esa información explícita, sin agregar opiniones.
 
 7. **a)** La comparación correcta reconoce la semejanza (*both… around June 24*) y la diferencia (*whereas*) entre ambos textos.
 
@@ -133,11 +133,11 @@ d) I love avocado on toast very much, and my family eats it every morning in our
 
 9. **True (Verdadero).** *Unlike* (a diferencia de) introduce explícitamente un contraste entre dos culturas.
 
-10. d) El resumen debe responder qué es, cómo se celebra y con qué propósito.
+10. **d) The Tapati is a two-week festival in Rapa Nui with traditional sports, songs and dances; its purpose is to keep the Rapa Nui culture and language alive..** El resumen responde las tres preguntas: qué es (un festival de dos semanas en Rapa Nui), cómo se celebra (deportes, cantos y bailes tradicionales) y para qué (mantener viva la cultura).
 
 11. b) dates back to. Se reutiliza la estructura del texto (*dates back to*, «se remonta a») en un nuevo contexto.
 
-12. **b) Many people wear white clothes so that the colours stand out..** La idea central es lo esencial de la fiesta: el polvo de colores y las fogatas. Vestirse de blanco es un detalle que complementa, no el foco principal.
+12. **b) Many people wear white clothes so that the colours stand out..** La idea central de la fiesta es el polvo de colores y las fogatas; que muchas personas se vistan de blanco para que resalten los colores es un detalle de apoyo, no el foco del texto.
 
 13. c) Extendido, practicado por muchos. El contexto lo confirma: se ve a personas compartiendo mate en muchos lugares.
 

@@ -125,7 +125,7 @@ d) Although / Unless
 
 3. **True (Verdadero).** *These results suggest that…* es una expresión típica para interpretar y evaluar información, no solo repetirla.
 
-4. d) El detalle de apoyo debe mantener el tema de la oración temática.
+4. **d) It explains that students who cycle to school arrive more awake and get daily exercise..** La oración temática habla de los beneficios de ir en bicicleta al colegio; llegar más despierto y hacer ejercicio diario son justamente beneficios, así que el detalle mantiene el tema.
 
 5. c) Dar una opinión fundamentada. *In my view* introduce una postura que luego se justifica (*because…*).
 

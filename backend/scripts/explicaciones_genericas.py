@@ -99,6 +99,20 @@ REVISADAS_A_MANO: dict[str, set[int]] = {
     "02-medio/pruebas/ingles-unidad-1.md": {4, 5, 7},
     "02-medio/pruebas/ingles-unidad-2.md": {6, 14},
     "02-medio/pruebas/matematica-unidad-algebra-y-funciones.md": {12},
+    "03-medio/examenes/ciencias-para-la-ciudadania-examen-forma-b.md": {25},
+    "03-medio/examenes/educacion-ciudadana-examen-forma-b.md": {21},
+    "03-medio/examenes/filosofia-examen-forma-b.md": {6, 10, 24},
+    "03-medio/examenes/ingles-examen-forma-b.md": {1, 2, 4, 8, 9, 10, 11, 14, 15, 16, 18, 19, 22, 24, 25},
+    "03-medio/examenes/lengua-y-literatura-examen-forma-b.md": {24},
+    "03-medio/examenes/matematica-examen-forma-b.md": {6},
+    "03-medio/pruebas/ciencias-para-la-ciudadania-unidad-bienestar-y-salud.md": {4, 7, 13},
+    "03-medio/pruebas/ciencias-para-la-ciudadania-unidad-seguridad-prevencion-autocuidado.md": {4, 10},
+    "03-medio/pruebas/educacion-ciudadana-unidad-1.md": {6},
+    "03-medio/pruebas/ingles-unidad-1.md": {4, 12},
+    "03-medio/pruebas/ingles-unidad-2.md": {4, 6, 7, 9, 14},
+    "03-medio/pruebas/matematica-unidad-algebra-y-funciones.md": {10},
+    "03-medio/pruebas/matematica-unidad-geometria.md": {14},
+    "03-medio/pruebas/matematica-unidad-probabilidad-y-estadistica.md": {8},
 }
 
 

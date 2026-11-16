@@ -139,12 +139,12 @@ d) Porque todas las cuidadoras del país son mujeres
 2. Falso — el abuelo habla poco; se le caracteriza sobre todo a través de su cuerpo.
 3. c. El abuelo y sus antepasados fueron mineros del carbón en Lota, y él quiere que su nieto estudie: el relato trata del trabajo como destino heredado que se rompe.
 4. a) Una hipótesis de sentido debe demostrarse citando recursos literarios concretos, como el paralelismo entre los pulmones del abuelo y los del nieto.
-5. d) Una relación intertextual explica también las diferencias relevantes.
+5. **d) Ambos muestran el trabajo minero como desgaste que tiende a heredarse; en Sub terra esa herencia suele ser inevitable, mientras el abuelo del cuento rompe la cadena para su nieto.** Ambas obras muestran el trabajo minero como un desgaste que pasa de padres a hijos; pero en Sub terra esa herencia suele ser inevitable, mientras que en el cuento se rompe. Una buena relación intertextual explica también esa diferencia.
 6. d — atribuir al pique la acción de "comerse" los años es una personificación.
 7. c. La tos, las uñas negras y la espalda encorvada muestran en el cuerpo las huellas del trabajo en la mina. Así el retrato físico se vuelve simbólico.
 8. a. Combina el testimonio de una cuidadora, cifras de fuentes institucionales y distintas versiones para profundizar en un tema: es un reportaje.
 9. Falso — el texto incluye cifras de un catastro municipal y de un estudio universitario, además del testimonio de Marta.
-10. d) Identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
+10. **d) Porque sugiere, sin afirmarlo, que hay información relevante que no se transparenta, reforzando el enfoque crítico.** Al decir que ningún centro de salud respondió, el reportaje sugiere, sin afirmarlo, que hay información importante que no se transparenta, y eso refuerza su enfoque crítico.
 11. b. El testimonio de Marta muestra un caso; las cifras del catastro y del estudio prueban que su situación es compartida por muchas personas.
 12. **b) Reducirlo a informar el hecho principal en pocas líneas, sin el desarrollo en profundidad propio del reportaje.** La noticia breve informa un hecho puntual en pocas líneas; el reportaje profundiza con testimonios, datos y contraste de versiones. Transformarlo exige condensar.
 13. Verdadero — el texto atribuye la cifra a un catastro municipal, una fuente institucional identificable.
