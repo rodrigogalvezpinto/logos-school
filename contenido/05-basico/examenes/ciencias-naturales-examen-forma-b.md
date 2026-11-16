@@ -101,9 +101,9 @@ d) Una naranja
 
 **7.** *(Alternativas, 2 puntos)* Martina se fracturó un brazo y el médico le recomendó comer huevos, pescado y porotos. ¿Por qué?
 
-a) Porque son ricos en azúcares, que endurecen los huesos
-b) Porque contienen solo agua, que ayuda a sanar
-c) Porque son ricos en grasas, que reemplazan al hueso
+a) Porque son ricos en azúcares, que endurecen los huesos y los vuelven a unir
+b) Porque contienen solo agua, que ayuda a sanar más rápido las fracturas
+c) Porque son ricos en grasas, que reemplazan al hueso hasta que se recupera
 d) Porque son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos
 
 **8.** *(Alternativas, 3 puntos)* Un estudiante almuerza todos los días solo

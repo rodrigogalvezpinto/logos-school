@@ -29,10 +29,10 @@ deberes y responsabilidades)
 
 **1. (Alternativas)** Una niña migrante que llegó desde Venezuela, ¿tiene derecho a estudiar en una escuela de Chile?
 
-a) No, porque no nació en Chile
+a) No, porque no nació en Chile y tiene otra nacionalidad
 b) Sí, porque los derechos humanos son de todas las personas
-c) Solo si habla otro idioma
-d) Solo cuando sea adulta
+c) Solo si habla otro idioma además del español
+d) Solo cuando sea adulta y pueda trabajar en Chile
 
 ---
 
@@ -60,9 +60,9 @@ d) Ningún principio, porque los talleres son voluntarios y la niña puede inscr
 
 **5. (Alternativas)** Un recién nacido todavía no habla ni trabaja. ¿Tiene derechos?
 
-a) No, porque todavía no hace nada
-b) Solo cuando cumpla 18 años
-c) Solo si sus padres trabajan
+a) No, porque todavía no hace nada por sí mismo ni trabaja
+b) Solo cuando cumpla 18 años y pueda votar
+c) Solo si sus padres trabajan y pagan impuestos
 d) Sí, porque es persona desde que nace y es sujeto de derecho
 
 ---
@@ -73,10 +73,10 @@ d) Sí, porque es persona desde que nace y es sujeto de derecho
 
 **7. (Alternativas)** Un pueblo de la cordillera no tiene escuela cerca y los niños deben viajar dos horas para estudiar. ¿Qué responsabilidad del Estado está en juego?
 
-a) Impedir que las familias se organicen para pedir una escuela
+a) Impedir que las familias se organicen para pedir una escuela, porque eso le corresponde solo al municipio
 b) Asegurar que los niños puedan ejercer su derecho a la educación, por ejemplo con una escuela o con transporte escolar
-c) Decidir qué familias pueden educarse según su opinión política
-d) Prohibir que los niños estudien lejos de su casa
+c) Decidir qué familias pueden educarse según su opinión política o el lugar donde viven
+d) Prohibir que los niños estudien lejos de su casa, aunque no haya una escuela más cerca
 
 ---
 
@@ -110,19 +110,19 @@ d) 1-B, 2-C, 3-A
 
 **11. (Alternativas)** ¿Qué pareja une correctamente un derecho con el deber que corresponde al ejercerlo?
 
-a) Derecho a la salud → no seguir nunca las indicaciones del médico
-b) Derecho a la educación → romper los materiales de la escuela
+a) Derecho a la salud → no seguir nunca las indicaciones del médico, porque cada uno decide qué remedios tomar
+b) Derecho a la educación → romper los materiales de la escuela, porque son del Estado y se pueden reponer
 c) Derecho a la recreación → usar los juegos de la plaza cuidándolos y respetando el turno de los demás
-d) Derecho a la vivienda → ocupar la casa del vecino
+d) Derecho a la vivienda → ocupar la casa del vecino cuando él no está, porque todos tienen derecho a una casa
 
 ---
 
 **12. (Alternativas — análisis de caso)** En un liceo, los estudiantes eligen a su centro de alumnos para proponer mejoras a la dirección. ¿Qué derecho están ejerciendo?
 
 a) El derecho a la participación: organizarse y elegir representantes para resolver problemas comunes
-b) El derecho a la salud
-c) El derecho a la propiedad
-d) Ninguno, porque solo los adultos pueden organizarse
+b) El derecho a la salud, porque se preocupan de que el colegio esté limpio
+c) El derecho a la propiedad, porque el colegio es de los estudiantes
+d) Ninguno, porque solo los adultos pueden organizarse y elegir representantes en el colegio
 
 ---
 

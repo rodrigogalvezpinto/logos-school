@@ -50,10 +50,10 @@ d) Al principio es impaciente, pero luego aprende a tener paciencia
 
 **3. (Alternativas)** ¿Cuál de las siguientes opciones es una **opinión fundamentada** sobre las acciones de Elena en el Texto 2?
 
-a) "Elena es genial porque sí, y todos los niños deberían ser como ella siempre"
-b) "No me gustó el cuento porque es muy corto y no tiene dibujos que acompañen la historia"
+a) "Elena es genial porque sí, y todos los niños deberían ser como ella siempre, en todo lo que hacen en la casa"
+b) "No me gustó el cuento porque es muy corto y no tiene dibujos que acompañen la historia de la panadería"
 c) "Me parece admirable lo que hizo Elena, porque se levantó de madrugada toda una semana para que la panadería de su madre no cerrara"
-d) "Elena vive en Chillán, sobre la panadería de su madre"
+d) "Elena vive en Chillán, en el segundo piso, sobre la panadería de su madre, y tiene un hermano menor"
 
 **4. (Alternativas)** ¿Qué comparación entre el Texto 1 y el Texto 2 es correcta?
 
@@ -98,9 +98,9 @@ d) "y los botes duermen en el muelle"
 
 **8. (Alternativas)** En el verso "botes rojos sobre el agua plateada", ¿a qué sentido apela principalmente la imagen?
 
-a) Al oído, porque se escucha el sonido de los botes
-b) Al olfato, porque se siente el olor del mar
-c) Al tacto, porque se siente el agua fría
+a) Al oído, porque se escucha el sonido de los botes en el agua
+b) Al olfato, porque se siente el olor del mar y de los peces
+c) Al tacto, porque se siente el agua fría al tocar los botes
 d) A la vista, porque describe colores ("rojos", "plateada")
 
 ---
@@ -121,24 +121,24 @@ d) A la vista, porque describe colores ("rojos", "plateada")
 
 a) Porque son terrenos secos donde se pueden construir casas
 b) Porque almacenan agua y son el hogar de muchas aves, peces y plantas
-c) Porque solo existen en Tierra del Fuego
+c) Porque solo existen en Tierra del Fuego, al sur del país
 d) Porque en ellos se puede botar la basura sin dañar a nadie
 
 **10. (Alternativas)** ¿Qué significa la expresión "cuando el humedal despierta en primavera", y qué figura del lenguaje se usa?
 
 a) Que el humedal se seca y deja de tener agua durante muchos años; es una comparación
 b) Que en primavera el humedal se llena de vida: llegan aves y crecen plantas; es una personificación
-c) Que el humedal amanece temprano y se ilumina con el sol; es una rima
-d) Que el humedal duerme durante el verano; es una onomatopeya
+c) Que el humedal amanece temprano y se ilumina con el sol de la mañana; es una rima
+d) Que el humedal duerme durante todo el verano y no recibe visitas; es una onomatopeya
 
 **11. (Verdadero o Falso)** Según el texto, los humedales no traen ningún beneficio a las personas.
 
 **12. (Alternativas)** ¿Cuál de las siguientes afirmaciones **compara correctamente** información de distintos párrafos del texto?
 
-a) "Los humedales solo sirven para que lleguen turistas, sin ningún otro propósito"
+a) "Los humedales solo sirven para que lleguen turistas en verano, sin ningún otro propósito para las personas ni para los animales"
 b) "Aunque muchos humedales están amenazados por rellenos y basura, según el texto también benefician a las personas, porque reducen las inundaciones"
-c) "En Chile hay un solo humedal, y por eso se aprobó una ley"
-d) "Los humedales ya no están amenazados, así que no necesitan protección"
+c) "En Chile hay un solo humedal, en Tierra del Fuego, y por eso se aprobó una ley especial para protegerlo de la basura"
+d) "Los humedales ya no están amenazados por rellenos ni basura, así que según el texto no necesitan ninguna protección"
 
 ---
 

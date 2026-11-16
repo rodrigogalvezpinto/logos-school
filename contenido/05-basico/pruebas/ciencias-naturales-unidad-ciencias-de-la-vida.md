@@ -38,10 +38,10 @@ c) El organismo completo
 d) El átomo
 
 **4.** Un deportista se lesionó un músculo. ¿Qué alimentos le ayudan más a reparar el tejido dañado?
-a) Dulces y bebidas
+a) Dulces, galletas y bebidas
 b) Huevos, legumbres y pescado
-c) Solo agua
-d) Papas fritas
+c) Solo agua y jugos naturales
+d) Papas fritas y arroz blanco
 
 **5.** *(Verdadero o falso)* Las frutas y verduras aportan principalmente vitaminas y minerales que ayudan al cuerpo a funcionar bien y defenderse de enfermedades.
 
@@ -69,10 +69,10 @@ c) Gastritis
 d) Hipertensión (presión alta)
 
 **10.** ¿Cuál de los siguientes es un uso **beneficioso** de los microorganismos?
-a) El virus que causa el resfrío
+a) El virus que causa el resfrío en invierno
 b) Las levaduras que permiten que suba la masa del pan
-c) La bacteria que causa una intoxicación
-d) El hongo que pudre la fruta
+c) La bacteria que causa una intoxicación por comida
+d) El hongo que pudre la fruta guardada en la casa
 
 **11.** *(Verdadero o falso)* Todas las bacterias causan enfermedades.
 

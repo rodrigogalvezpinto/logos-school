@@ -53,10 +53,10 @@ c) Porque solo hay agua dulce en Chile y en unos pocos países del mundo
 d) Porque el agua salada se puede beber directamente, y por eso no se cuida el agua dulce
 
 **6.** ¿Cuál de las siguientes acciones humanas **daña** un lago?
-a) Instalar basureros en la orilla
+a) Instalar basureros en la orilla y vaciarlos cada semana
 b) Lavar autos en la orilla y dejar que el detergente caiga al agua
-c) Prohibir las motos acuáticas en zonas de aves
-d) Limpiar la basura de la playa del lago
+c) Prohibir las motos acuáticas en las zonas donde anidan las aves
+d) Limpiar la basura de la playa del lago con los vecinos
 
 **7.** *(Verdadero o falso)* Una planta de tratamiento que limpia las aguas servidas antes de devolverlas al río ayuda a cuidar el agua.
 

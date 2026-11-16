@@ -81,9 +81,9 @@ d) Desastre de Curalaba – fundación de Santiago – expedición de Valdivia �
 
 Un estudiante afirma: "Todas estas ciudades se fundaron en un mismo año y al norte de Santiago". ¿Qué respuesta refuta esa afirmación usando el registro?
 
-a) La conquista fue un hecho instantáneo, ocurrido en un solo año
+a) La conquista fue un hecho instantáneo, ocurrido en un solo año, cuando llegó Valdivia
 b) Las ciudades se fundaron únicamente en el desierto del norte
-c) Todas las ciudades fueron fundadas el mismo día por Diego de Almagro
+c) Todas las ciudades fueron fundadas el mismo día por Diego de Almagro, en el norte del país
 d) Se fundaron en años distintos (entre 1541 y 1567) y avanzando hacia el sur, hasta Chiloé
 
 ---
@@ -130,9 +130,9 @@ d) Político
 **Pregunta 7.** (2 puntos)
 ¿Cuál de los siguientes hechos fue una consecuencia de la conquista **para los pueblos de América**?
 
-a) El enriquecimiento de las ciudades de América con el oro llevado a Europa
-b) El aumento de la población indígena gracias a las nuevas enfermedades
-c) El fin de la llegada de europeos al continente
+a) El enriquecimiento de las ciudades de América con el oro que los españoles llevaron a Europa
+b) El aumento de la población indígena gracias a las nuevas enfermedades y a los alimentos traídos desde Europa por los conquistadores
+c) El fin de la llegada de europeos al continente americano después de las primeras guerras
 d) Una gran disminución de la población indígena por las guerras, los trabajos forzados y las enfermedades traídas desde Europa
 
 ---
@@ -167,9 +167,9 @@ d) Capitanía General
 **Pregunta 10.** (2 puntos)
 Durante la Colonia, un comerciante de Valparaíso quería vender su trigo directamente a un barco inglés. ¿Qué le habría ocurrido?
 
-a) Podía hacerlo libremente, porque Chile era un país independiente
+a) Podía hacerlo libremente, porque Chile ya era un país independiente con comercio libre
 b) No podía hacerlo legalmente: el comercio de la colonia debía hacerse principalmente con España
-c) Debía pedir permiso al cabildo de Valparaíso, que siempre lo autorizaba
+c) Debía pedir permiso al cabildo de Valparaíso, que siempre lo autorizaba sin problemas
 d) Debía venderlo solo a comerciantes de Asia
 
 ---
@@ -347,10 +347,10 @@ d) Condicionales
 **Pregunta 23.** (2 puntos)
 En un curso, el profesor deja que solo los niños nacidos en Santiago voten en la elección de directiva. ¿Qué principio de los derechos se está pasando a llevar?
 
-a) El derecho a la recreación
+a) El derecho a la recreación de los estudiantes del curso
 b) La igualdad: todas las personas tienen los mismos derechos, sin importar dónde nacieron
-c) El derecho a la salud
-d) Ninguno, porque es una decisión del profesor
+c) El derecho a la salud de quienes no pueden votar
+d) Ninguno, porque es una decisión del profesor y del curso, y no de los estudiantes
 
 ---
 

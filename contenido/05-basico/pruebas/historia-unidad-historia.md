@@ -30,8 +30,8 @@ ultima_actualizacion: 2026-10-28
 
 a) Para asentarse y controlar el territorio en nombre de la Corona
 b) Para devolver las tierras a los pueblos originarios
-c) Para hacer turismo
-d) Para organizar elecciones democráticas
+c) Para hacer turismo y conocer nuevos paisajes
+d) Para organizar elecciones democráticas entre los colonos
 
 ---
 
@@ -63,8 +63,8 @@ d) El arroz
 
 **6. (Alternativas — vincular)** ¿Cuál de estas consecuencias de la conquista la vivió principalmente **Europa**?
 
-a) La pérdida de sus tierras ancestrales
-b) La imposición de un idioma extranjero
+a) La pérdida de sus tierras ancestrales y sus cultivos
+b) La imposición de un idioma extranjero en sus escuelas
 c) El enriquecimiento gracias al oro y la plata americanos
 
 ---
@@ -80,10 +80,10 @@ d) Los comerciantes ingleses
 
 **8. (Alternativas)** En la fiesta de La Tirana se baila con máscaras y trajes andinos en honor a la Virgen del Carmen. ¿Qué proceso muestra esta fiesta?
 
-a) Mestizaje biológico
+a) Mestizaje biológico: la mezcla de personas de distinto origen en Chile
 b) Sincretismo: la mezcla de tradiciones religiosas católicas e indígenas
-c) Colonialismo económico
-d) Independencia
+c) Colonialismo económico: el envío de riquezas a Europa
+d) Independencia: la separación de Chile de España
 
 ---
 

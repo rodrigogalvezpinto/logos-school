@@ -77,9 +77,9 @@ d) Igual de posible que sacar uno azul
 
 **Pregunta 10.** En una bolsa hay 12 dulces: 11 son de menta y 1 es de frutilla. Sin mirar, se saca un dulce al azar. ¿Cómo se describe la posibilidad de que sea de frutilla?
 
-a) Imposible, porque hay muy pocos
-b) Seguro, porque hay un dulce de frutilla
-c) Igual de posible que sacar uno de menta
+a) Imposible, porque hay muy pocos dulces de frutilla
+b) Seguro, porque hay un dulce de frutilla en la bolsa
+c) Igual de posible que sacar uno de menta o de limón
 d) Poco posible, porque solo hay 1 de frutilla entre 12
 
 **Pregunta 11.** El gráfico muestra la cantidad de libros que leyeron 4 estudiantes en un mes. ¿Cuántos libros leyeron entre todos?

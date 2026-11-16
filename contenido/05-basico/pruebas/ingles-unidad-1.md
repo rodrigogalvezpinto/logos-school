@@ -47,9 +47,9 @@ d) funny
 
 **4.** *(Alternativas — comprensión)* Read: *"I am Lucas. I am eleven. I live in Temuco with my grandmother."* Answer: *Who does Lucas live with?*
 
-a) He is eleven.
-b) He is Lucas.
-c) He lives in a school.
+a) He is eleven years old.
+b) He is Lucas from Temuco.
+c) He lives in a school in Temuco.
 d) He lives with his grandmother.
 
 ---

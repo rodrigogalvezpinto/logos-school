@@ -174,7 +174,7 @@ es claramente la más larga (criterio `ajustar_distractores.sesgada`), y 33 en g
 Método: alargar distractores con errores plausibles (sin tocar la clave) con `ajustar_distractores.aplicar_en(ruta, [D(n,
 {'a': '…'})], estricto=True)`; listar con `python scripts/ajustar_distractores.py listar <archivo>`. Empezar por 4.° básico
 (curso piloto). Al terminar, guarda en pytest (umbral bajo, p. ej. ≤ 2 %).
-Hechos: 1.° a 4.° básico (72 corregidas; 1 excepción: 4.° básico simulacro B 5, distractores que son versos reales del poema). Siguiente: 5.° básico.
+Hechos: 1.° a 4.° básico (72 corregidas; 1 excepción: 4.° básico simulacro B 5, distractores que son versos reales del poema) y 5.° básico (34). Siguiente: 6.° básico.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

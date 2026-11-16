@@ -30,9 +30,9 @@ b) Falso
 **Pregunta 3.** En un cruce de calles, la calle A y la calle B se cruzan formando un ángulo recto. ¿Cómo son esas calles?
 
 a) Perpendiculares, porque se cruzan formando exactamente 90°
-b) Paralelas, porque nunca se cruzan
-c) Se intersecan, pero no pueden formar 90°
-d) No tienen ninguna relación
+b) Paralelas, porque nunca se cruzan en ningún punto
+c) Se intersecan, pero no pueden formar 90° entre sí
+d) No tienen ninguna relación, porque son calles distintas
 
 **Pregunta 4.** En un cubo, ¿qué relación tienen dos aristas que se juntan en un mismo vértice, como la arista del piso y la arista vertical de una esquina?
 a) Son paralelas
@@ -56,8 +56,8 @@ c) No se relacionan geométricamente entre sí
 **Pregunta 7.** ¿Cuál de estos pares de figuras son congruentes?
 a) Un cuadrado de 3 cm de lado y otro de 6 cm de lado
 b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado
-c) Un círculo y un cuadrado del mismo ancho
-d) Un rectángulo y un triángulo
+c) Un círculo y un cuadrado del mismo ancho, dibujados lado a lado
+d) Un rectángulo y un triángulo del mismo color y altura
 
 **Pregunta 8.** Si giras una figura sobre un punto, cambia su tamaño. ¿Verdadero o falso?
 
@@ -73,10 +73,10 @@ d) Una reducción
 
 **Pregunta 10.** Matías ve dos letras L dibujadas en la pizarra: una normal y otra "acostada". ¿Pueden ser congruentes?
 
-a) No, porque una es más grande
-b) No, porque tienen distinta cantidad de lados
+a) No, porque una de las dos letras se ve más grande al estar acostada
+b) No, porque tienen distinta cantidad de lados al estar en otra posición
 c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada
-d) Sí, pero solo si están una encima de la otra
+d) Sí, pero solo si están dibujadas una encima de la otra en la pizarra
 
 **Pregunta 11.** ¿Cuál de las siguientes transformaciones **cambia el tamaño** de una figura?
 a) Moverla 5 cuadros a la derecha

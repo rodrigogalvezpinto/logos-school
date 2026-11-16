@@ -74,10 +74,10 @@ d) Solo el desierto costero, con dunas y quebradas
 
 **6. (Alternativas)** ¿Qué comparación entre la Zona Central y la Zona Austral es correcta?
 
-a) La Zona Central es la menos poblada; la Austral, la más poblada
+a) La Zona Central es la menos poblada del país; la Austral, la más poblada, porque tiene más espacio
 b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población
-c) Las dos tienen el mismo clima y la misma población
-d) La Zona Austral es desértica y la Central, glacial
+c) Las dos tienen el mismo clima templado y la misma cantidad de población
+d) La Zona Austral es desértica y seca, y la Central, cubierta de glaciares
 
 ---
 
@@ -106,9 +106,9 @@ d) El clima: la zona es cálida y seca todo el año, ideal para la ganadería pe
 **10. (Alternativas)** ¿Cuál de las siguientes acciones favorece el **uso sostenible** del agua en una comunidad agrícola?
 
 a) Regar los cultivos a pleno sol con mangueras abiertas
-b) Botar desechos al canal de regadío
+b) Botar los desechos de la cosecha al canal de regadío
 c) Usar riego por goteo y reparar las filtraciones de los canales
-d) Extraer agua de los ríos sin ningún control
+d) Extraer agua de los ríos sin ningún control ni permiso
 
 ---
 

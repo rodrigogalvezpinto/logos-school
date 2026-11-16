@@ -54,9 +54,9 @@ d) La comunidad escolar, sus familias y los vecinos
 **4. (Alternativas)** Imagina que quieres saber "cuánto cuesta una empanada en la fiesta". ¿Qué deberías hacer?
 
 a) Preguntar al Centro de Padres de la escuela, porque el afiche no entrega esa información
-b) Leer el afiche con atención, porque ahí están todos los precios
-c) Asumir que las empanadas son gratis, porque la entrada es liberada
-d) Preguntarle a cualquier persona en la calle
+b) Leer el afiche con atención, porque ahí están todos los precios de la comida
+c) Asumir que las empanadas son gratis, porque la entrada a la fiesta es liberada
+d) Preguntarle a cualquier persona en la calle de Talagante
 
 ---
 
@@ -64,18 +64,18 @@ d) Preguntarle a cualquier persona en la calle
 
 **5. (Alternativas)** Lee estos inicios de cuento. ¿Cuál presenta un **conflicto evidente**?
 
-a) Martina se levantó, tomó desayuno y se fue al colegio, como todos los días
-b) El bosque era verde, con árboles altos y flores de muchos colores
+a) Martina se levantó, tomó desayuno y se fue al colegio caminando con su hermano, como todos los días
+b) El bosque era verde, con árboles muy altos y flores de muchos colores que se movían con el viento
 c) Cuando Martina llegó al colegio, descubrió que había perdido el trabajo que debía presentar en una hora
-d) Martina y su amiga conversaron sobre el clima
+d) Martina y su amiga conversaron sobre el clima mientras esperaban el bus del colegio
 
 **6. (Verdadero o Falso)** Un diálogo puede mostrar cómo es un personaje, por ejemplo, si es amable o impaciente, por la forma en que habla.
 
 **7. (Alternativas)** ¿Qué descripción del ambiente de una caleta de pescadores en una mañana fría usa detalles sensoriales?
 
-a) Hacía frío en la caleta y había muchos pescadores trabajando.
-b) La caleta es un lugar donde llegan los botes con pescados y mariscos.
-c) Fui a la caleta con mi abuelo una mañana fría y compramos pescado para el almuerzo.
+a) Hacía frío en la caleta esa mañana y había muchos pescadores trabajando en sus botes junto al muelle.
+b) La caleta es un lugar donde llegan los botes con pescados y mariscos que después se venden en el mercado.
+c) Fui a la caleta con mi abuelo una mañana fría de invierno y compramos pescado y mariscos para el almuerzo.
 d) La neblina cubría los botes de colores; se sentía el olor a mar y a pescado fresco, mientras las gaviotas chillaban sobre el muelle.
 
 **8. (Alternativas)** Completa el relato con los conectores más adecuados: "___, Tomás preparó su mochila. ___, salió a la parada. ___, la micro no llegó. ___, decidió caminar."
@@ -92,25 +92,25 @@ d) Por ejemplo — Es decir — O sea — Como
 **9. (Alternativas)** ¿Cuál de estas oraciones funciona mejor como **primera oración** de un artículo informativo sobre las abejas?
 
 a) Las abejas son insectos que producen miel y ayudan a polinizar las plantas que nos alimentan.
-b) Una vez me picó una abeja en la plaza.
-c) ¡Qué miedo me dan las abejas!
-d) Fuentes: Enciclopedia de los insectos, 2024.
+b) Una vez me picó una abeja en la plaza y me dolió mucho el brazo.
+c) ¡Qué miedo me dan las abejas cuando se acercan a mi cara!
+d) Fuentes: Enciclopedia de los insectos, 2024, y sitio web de la asociación de apicultores de Chile.
 
 **10. (Verdadero o Falso)** En un artículo informativo, conviene mezclar en un mismo párrafo la alimentación, el hábitat y la reproducción de un animal, sin usar punto aparte.
 
 **11. (Alternativas)** Benjamín escribió un artículo sobre el cóndor y al final anotó: "Fuente: sitio web de CONAF". ¿Para qué sirve esa línea?
 
-a) Para que el artículo se vea más largo
+a) Para que el artículo se vea más largo, más completo y más serio ante el profesor
 b) Para que el lector pueda verificar de dónde viene la información y confiar en ella
-c) Para repetir el nombre del autor
-d) No sirve para nada
+c) Para repetir el nombre del autor al final del artículo
+d) No sirve para nada, porque el lector no la lee
 
 **12. (Alternativas)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre el agua?
 
 a) "El agua es buena. El agua sirve. El agua es importante. El agua se usa."
 b) "El agua permite que las plantas crezcan, mantiene hidratado nuestro cuerpo y es indispensable para cocinar."
-c) "Agua agua agua es lo mejor, porque el agua es agua."
-d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
+c) "Agua agua agua es lo mejor de todo, porque el agua es agua y siempre será agua."
+d) "El agua agua ayuda ayuda, y el agua es agua en todas partes del mundo, en todas las casas y en todas las escuelas."
 
 ---
 
