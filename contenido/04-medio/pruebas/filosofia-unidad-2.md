@@ -44,22 +44,22 @@ d) Ad hominem.
 4. *(Alternativas — Análisis de argumento)* "Si dejamos que los estudiantes elijan una asignatura electiva, después querrán elegir todas sus asignaturas, luego sus horarios y al final nadie querrá venir al colegio." ¿Qué falacia comete y cuál es su supuesto no explícito?
 
 a) Pendiente resbaladiza; supone, sin evidencia, que no existe forma de poner límites claros a lo que se puede elegir
-b) Ad hominem; supone que quienes proponen las electivas son malas personas
+b) Ad hominem; supone que quienes proponen las electivas son malas personas que no se preocupan por el aprendizaje
 c) Generalización apresurada; supone que todos los estudiantes eligen igual
-d) No comete falacia: la cadena de consecuencias está demostrada en todos los colegios
+d) No comete falacia: la cadena de consecuencias está demostrada en todos los colegios que han probado las electivas
 
 5. *(Alternativas)* "Una publicación con 50.000 'me gusta' asegura que la Luna influye en la personalidad de las personas según el día en que nacieron; por lo tanto, es verdad." ¿Qué problema tiene principalmente este argumento?
 
 a) Confunde popularidad con verdad: una publicación muy compartida no es una fuente fundamentada, y la cantidad de "me gusta" no es evidencia sobre la afirmación.
-b) Es un argumento bien fundamentado, porque mucha gente está de acuerdo.
-c) Comete la falacia ad hominem, porque descalifica a quienes no creen en la astrología.
+b) Es un argumento bien fundamentado, porque mucha gente está de acuerdo con la publicación y la ha compartido miles de veces en distintas redes sociales.
+c) Comete la falacia ad hominem, porque descalifica a quienes no creen en la astrología y los trata como personas ignorantes o cerradas.
 d) No tiene ningún problema, porque cita una cifra precisa.
 
 6. *(Alternativas — Estructura argumentativa)* "Las clases de Educación Física deberían aumentar a cinco horas semanales, porque son la única instancia del colegio en que los estudiantes hacen actividad física." ¿Qué contraargumento es pertinente, y no una simple negación de la tesis?
 
 a) No deberían aumentar porque no, y punto
-b) A algunos estudiantes no les gusta la Educación Física
-c) La Educación Física es actividad física, así que la actividad física es Educación Física
+b) A algunos estudiantes no les gusta la Educación Física, así que aumentar sus horas los haría sentirse peor en el colegio y faltarían más a clases
+c) La Educación Física es actividad física, así que toda la actividad física es Educación Física; por lo tanto, la premisa es verdadera y no puede discutirse en el consejo escolar
 d) Los recreos, los talleres deportivos y el trayecto en bicicleta también son instancias de actividad física, así que la premisa de que Educación Física es "la única" es discutible
 
 7. *(Varias correctas — Análisis de argumento)* "Una encuesta nacional mostró que los jóvenes que duermen menos de seis horas tienen más síntomas de ansiedad (premisa 1). Además, todos sabemos que el cansancio pone de mal humor (premisa 2). Por lo tanto, el Estado debería prohibir el uso de celulares después de las 22:00 a todos los menores de edad." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
@@ -78,10 +78,10 @@ d) Ninguno de los anteriores, es solo una opinión personal.
 
 9. *(Alternativas)* El debate sobre si un pulpo, que resuelve problemas y usa herramientas, "tiene conciencia" o solo responde de forma automática corresponde, principalmente, a un problema de:
 
-a) Ética aplicada (si es correcto comer pulpo).
+a) Ética aplicada (si es correcto comer pulpo, criarlo o usarlo en experimentos).
 b) Ontología (qué tipo de ser es y si tiene una mente o experiencia propia).
-c) Lógica formal exclusivamente.
-d) Estética (si el pulpo es bello).
+c) Lógica formal exclusivamente (validez del argumento).
+d) Estética (si el pulpo es bello o desagradable).
 
 10. *(Verdadero o falso)* La pregunta de Platón sobre si confiamos en las apariencias o en lo que es real, planteada en la alegoría de la caverna, puede ayudar a analizar fenómenos actuales como las imágenes y los videos falsos creados con inteligencia artificial.
 

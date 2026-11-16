@@ -799,7 +799,7 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    a) Empujar el mismo carrito con fuerzas distintas y medir cuánto demora en recorrer la misma distancia con cada fuerza
    b) Empujar dos carritos de distinta masa con un elástico estirado la misma distancia y medir cuánto demora cada uno en recorrer la misma distancia
    c) Pesar los carritos sin moverlos
-   d) Empujar carritos de distinta masa con fuerzas distintas al azar y comparar a simple vista cuál llega primero a la meta
+   d) Empujar carritos de distinta masa con fuerzas distintas elegidas al azar y comparar a simple vista cuál llega primero a la meta del pasillo
    **Respuesta correcta:** b) Empujar dos carritos de distinta masa con un elástico estirado la misma distancia y medir cuánto demora cada uno en recorrer la misma distancia.
    **Retroalimentación:** Mantener constante la fuerza y variar la masa permite comprobar la segunda ley de Newton.
 

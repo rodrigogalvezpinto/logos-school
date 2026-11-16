@@ -29,8 +29,8 @@ reemplaza identificar el propósito, la audiencia y el contexto de un texto.
 
 1. *(Alternativas)* Read: *"In this novel, every citizen wears a bracelet that measures their happiness. People with low scores lose their jobs, so everyone pretends to be happy all the time."* ¿Cuál es el elemento principal del tema tratado?
 
-a) A society where citizens are free to express any emotion.
-b) A romantic story about two people who meet at a party.
+a) A society where citizens are free to express any emotion, and the government helps them to be happy.
+b) A romantic story about two people who meet at a party and fall in love in a happy future city.
 c) A trip to explore a new planet.
 d) A society that controls people's emotions through technology and punishes those who are not "happy enough".
 
@@ -45,22 +45,22 @@ d) entertaining / persuasive
 
 4. *(Alternativas — Completar con tabla)* Read: *"The novel 'Deep Blue City' takes place in an underwater city in 2150. The main character, Tomás, discovers that the oxygen supply of the city is controlled by a company that wants to raise its price."* Which option completes the chart correctly? Setting / Main character / Main conflict
 
-a) a city on Mars in 2020 / the company / Tomás raises the price of oxygen
-b) an underwater city in 2150 / the citizens / Tomás controls the oxygen supply
+a) a city on Mars in 2020 / the company / Tomás raises the price of oxygen for the citizens
+b) an underwater city in 2150 / the citizens / Tomás controls the oxygen supply and wants to sell it
 c) a submarine / Tomás / the citizens attack the company
 d) an underwater city in 2150 / Tomás / a company controls the oxygen and wants to raise its price
 
 5. *(Alternativas — Selección)* Read: *"Five stars! The new season of the series has great acting, although the final episode feels too long."* ¿Qué tipo de texto es más probable que sea, por su característica principal?
 
-a) Un instructivo que explica un proceso paso a paso
-b) Un manual para armar un mueble
+a) Un instructivo que explica un proceso paso a paso para armar algo
+b) Un manual para armar un mueble con instrucciones y dibujos
 c) Una reseña (review), que da una opinión evaluativa sobre una obra
 d) Un pronóstico del tiempo
 
 6. *(Alternativas — Comprensión)* Read: *"In this radio debate, a teacher and a technology expert discuss whether students should be allowed to use AI tools to write their homework. Each one presents arguments for their position."* What is the purpose of this text?
 
-a) To sell a new AI tool to schools
-b) To tell a funny story about a teacher
+a) To sell a new AI tool to schools and explain its price and how to buy it online
+b) To tell a funny story about a teacher who used AI to correct homework at night
 c) To present two different views on whether students should use AI tools for homework
 d) To give instructions on how to write homework with AI
 
@@ -82,17 +82,17 @@ d) instructing
 
 10. *(Alternativas — Organizar en tabla)* Text A (an article in an engineering journal) explains how electric cars store energy, using technical vocabulary and formulas. Text B (a YouTube script for teenagers) explains the same topic with simple comparisons and jokes. Which option completes the table *Text / Audience / Tone*?
 
-a) Text A: teenagers, humorous. Text B: specialized readers, technical
+a) Text A: teenagers, humorous and informal. Text B: specialized readers, technical and formal
 b) Both: children, informal and humorous
-c) Both: specialized readers, formal and technical
+c) Both: specialized readers, formal and technical, because both explain how AI works
 d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous
 
 11. *(Alternativas — Comprensión)* Read: *"This guide was written for parents who have never used social media. It compares an 'algorithm' to a shop assistant who remembers what you bought and shows you similar products."* Why does the author use this comparison instead of a technical definition?
 
-a) Because the author does not know the technical definition
+a) Because the author does not know the technical definition and prefers to avoid technical words in the blog
 b) Because the audience has no technical background, so a familiar comparison makes the idea easier to understand
 c) Because the text is written for programmers
-d) Because comparisons make any text longer
+d) Because comparisons make any text longer and more entertaining for every kind of reader
 
 12. *(Alternativas)* Un estudiante quiere saber si vale la pena comprar un videojuego nuevo y busca un texto que **evalúe** su calidad y dé una opinión fundamentada. ¿Qué tipo de texto le sirve más?
 
@@ -114,8 +114,8 @@ d) translate / summarize
 
 a) a small colony on Mars / Amaru, a doctor / finding a cure for a strange illness before the supply ship arrives / responsibility and fear of the unknown
 b) a hospital on Earth / the supply ship / Amaru gets ill / friendship and love
-c) a spaceship near Mars / the illness / repairing the supply ship / adventure and exploration
-d) a city on the Moon / a pilot named Red / finding a new planet / loneliness
+c) a spaceship near Mars / the illness that affects the crew / repairing the supply ship before it crashes / adventure and exploration of space
+d) a city on the Moon / a pilot named Red / finding a new planet for the colony to live on / loneliness and friendship
 
 ---
 

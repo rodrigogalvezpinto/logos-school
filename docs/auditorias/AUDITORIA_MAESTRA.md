@@ -1774,3 +1774,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Regresión detectada: sesgo de longitud (C.6).** El control de §15.24 había dejado 1 simulacro, 3 pruebas y 5 guías
   sesgadas; hoy hay 495 de 2.570 alternativas de pruebas y simulacros y 33 en guías. Causa: las reescrituras masivas de C.2
   no midieron la longitud. Abierto como C.6 (CONTINUIDAD 6.1f), con meta y guarda en pytest al cerrar.
+- **C.6 cerrado: sesgo de longitud.** 495 alternativas de pruebas y simulacros y 33 de guías corregidas alargando
+  distractores (errores plausibles, sin tocar la clave). Quedan 3 excepciones legítimas (citas textuales). Guarda nueva en
+  pytest con las excepciones explícitas. Letra de la clave en alternativas: a 24 %, b 29 %, c 25 %, d 23 %; V/F 176/165.

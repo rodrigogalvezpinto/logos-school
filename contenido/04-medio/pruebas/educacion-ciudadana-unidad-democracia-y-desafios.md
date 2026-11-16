@@ -75,9 +75,9 @@ d) Cada órgano está sometido a reglas y a la fiscalización de otros, de modo 
 ## Parte B — OA N°5: Libertad, igualdad y solidaridad (preguntas 8 a 15)
 
 8. **(Alternativas)** Un programa público entrega preuniversitario gratuito y transporte a estudiantes de liceos rurales, para que puedan competir por un cupo en la universidad en condiciones parecidas a las de estudiantes de la ciudad. ¿Qué principio busca concretar?
-a) Que todas las personas reciban exactamente el mismo ingreso cada mes
+a) Que todas las personas reciban exactamente el mismo ingreso cada mes, sin importar su trabajo
 b) La igualdad de oportunidades: que las personas partan con condiciones similares para desarrollarse
-c) Que la ley trate de forma distinta a cada grupo según su riqueza
+c) Que la ley trate de forma distinta a cada grupo según su riqueza y el barrio donde vive
 d) Que el Estado no intervenga nunca en la educación
 
 9. **(Verdadero o Falso)** Una persona tiene plena libertad positiva para estudiar en la universidad si ninguna ley se lo prohíbe, aunque no tenga cómo pagar el arancel ni el transporte.
@@ -96,10 +96,10 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 11. **(Alternativas)** ¿Cuál de los siguientes es un ejemplo de "libertad positiva"?
-a) Que ninguna ley prohíba a una persona ciega participar en una elección
+a) Que ninguna ley prohíba a una persona ciega participar en una elección, aunque no existan votos en braille para que lo haga sola
 b) Que el Estado disponga votos en braille y accesos para que las personas con discapacidad visual puedan votar de forma autónoma
 c) Que nadie te obligue a afiliarte a un partido político
-d) Que puedas publicar tu opinión en redes sin censura previa
+d) Que puedas publicar tu opinión en redes sociales sin censura previa del Estado ni de las empresas que administran las plataformas
 
 12. **(Verdadero o Falso)** Como existe un debate legítimo sobre cómo enfrentar la migración, es aceptable en democracia que una política migratoria niegue la atención de salud de urgencia a las personas migrantes.
 
@@ -111,15 +111,15 @@ c) Igualdad de trato
 d) Solidaridad tributaria
 
 14. **(Alternativas — análisis de datos)** Un estudio muestra que, en los directorios de las grandes empresas del país, menos del 20% de los cargos están ocupados por mujeres, aunque ellas son más de la mitad de las personas con título profesional. ¿Qué desafío ilustra?
-a) La desinformación electoral durante las campañas
-b) La concentración de los medios de comunicación
-c) La superación de la pobreza
+a) La desinformación electoral durante las campañas municipales
+b) La concentración de los medios de comunicación en pocas manos
+c) La superación de la pobreza en las comunas más vulnerables
 d) La equidad de género: subrepresentación de mujeres en espacios de decisión
 
 15. **(Alternativas)** Una comunidad aymara pide que la información sobre trámites públicos esté también en su lengua y que se respeten sus formas de organización. ¿Por qué esta demanda es un desafío democrático y no solo una cuestión de "buena voluntad"?
-a) Porque solo depende de la buena voluntad de cada funcionario, sin responsabilidad del Estado
+a) Porque solo depende de la buena voluntad de cada funcionario público, sin ninguna responsabilidad del Estado ni de sus instituciones, y cada servicio decide si atiende o no en lengua indígena
 b) Porque el reconocimiento de la diversidad étnica y cultural se vincula con la igual dignidad y los derechos de los pueblos originarios, y requiere normas y políticas públicas, no favores
-c) Porque los pueblos originarios no tienen derechos políticos plenos y cada autoridad decide si los atiende
+c) Porque los pueblos originarios no tienen derechos políticos plenos en Chile, y por eso cada autoridad decide libremente si los atiende y si respeta sus costumbres y su lengua
 d) Porque es un tema exclusivamente privado que no requiere políticas públicas
 
 ---

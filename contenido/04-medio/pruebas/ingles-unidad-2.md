@@ -45,8 +45,8 @@ d) Someone must have dropped a glass.
 
 4. *(Alternativas — Selección)* Read: *"Martín can't have written this essay: he was in hospital all week and the essay was written yesterday."* ¿Qué expresa *"can't have written"* en esta oración?
 
-a) Posibilidad: quizás lo escribió, pero no hay certeza
-b) Obligación: era necesario que lo escribiera
+a) Posibilidad: quizás lo escribió, pero no hay certeza absoluta
+b) Obligación: era necesario que lo escribiera antes de la reunión
 c) Permiso: se le permitió escribirlo
 d) Imposibilidad: según la evidencia, es imposible que lo haya escrito
 
@@ -61,16 +61,16 @@ d) My cousin says that he will visit Chiloé the summer before.
 
 7. *(Alternativas)* Tu profesor no llegó a la primera hora de clases, aunque siempre es puntual. Hubo un corte de luz en su barrio y también había mucho tráfico. ¿Qué oración expresa mejor esta situación de **duda razonable**, no de certeza total?
 
-a) He must have decided to quit his job.
+a) He must have decided to quit his job, because he never liked working early in the morning.
 b) He might have been stuck in traffic, or his alarm might not have worked because of the power cut.
-c) He can't have a car, because he is never late.
+c) He can't have a car, because he is never late and he always takes the bus to work.
 d) He has must forgotten the class.
 
 8. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto sobre las tradiciones de la propia familia?
 
-a) "My family has traditions, and the traditions are traditions we have."
+a) "My family has traditions, and the traditions are traditions that we have in our family."
 b) "Our family customs, passed down from my grandparents, have strengthened my sense of belonging."
-c) "My family is nice and our things are nice, so I like it."
+c) "My family is nice and our things are nice, so I like it a lot and I like my family."
 d) "We do stuff like eating and things on holidays and stuff."
 
 9. *(Alternativas — Completar)* Complete the sentence using appropriate lexicon about identity: *"Moving from Arica to Punta Arenas made me rethink my cultural ___ and what 'home' means to me."*
@@ -91,9 +91,9 @@ d) Dar un ejemplo concreto de una idea
 
 12. *(Alternativas — Comprensión)* Read: *"Interviewer: How has your Mapuche heritage influenced you? Student: My grandmother taught me some words in Mapudungun, and I feel connected to the land. Even though I live in Santiago, I try to keep those traditions alive."* According to the student, how has their heritage influenced them?
 
-a) They no longer feel any connection with their heritage because they live in Santiago
+a) They no longer feel any connection with their heritage because they live in Santiago and only speak Spanish at home
 b) They only speak Mapudungun at school
-c) They have never learned anything from their family
+c) They have never learned anything from their family, because their grandmother lives far away in the south
 d) They learned words in Mapudungun from their grandmother, feel connected to the land and try to keep the traditions alive
 
 13. *(Verdadero o falso)* Al sintetizar un texto leído y uno escuchado sobre el uso de redes sociales, se puede señalar en qué coinciden ambas fuentes y también en qué difieren.

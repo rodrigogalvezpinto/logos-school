@@ -166,7 +166,7 @@ para la Ciudadanía, Educación Ciudadana y Lengua; 8.° básico Inglés U2 14) 
 OA 5 #3, prueba de Biología 10; 6.° básico simulacro de Ciencias 25). Guarda: `test_varias_correctas_sin_sesgo_de_posicion`
 (ningún patrón > 30 %). Material nuevo: no poner siempre las correctas primero.
 
-### 6.1f ⏳ EN CURSO — C.6: sesgo de longitud reintroducido por las reescrituras de C.2
+### 6.1f ✅ RESUELTO (2026-11-16) — C.6: sesgo de longitud reintroducido por las reescrituras de C.2
 El 2026-11-06 (§15.24) el sesgo de longitud quedó casi en 0. Las reescrituras posteriores de C.2 (1.277 preguntas)
 lo reintrodujeron: al 2026-11-16 hay **495 de 2.570** preguntas de alternativas de pruebas y simulacros donde la correcta
 es claramente la más larga (criterio `ajustar_distractores.sesgada`), y 33 en guías. Por curso (evaluaciones): 1.° básico 8,
@@ -174,7 +174,11 @@ es claramente la más larga (criterio `ajustar_distractores.sesgada`), y 33 en g
 Método: alargar distractores con errores plausibles (sin tocar la clave) con `ajustar_distractores.aplicar_en(ruta, [D(n,
 {'a': '…'})], estricto=True)`; listar con `python scripts/ajustar_distractores.py listar <archivo>`. Empezar por 4.° básico
 (curso piloto). Al terminar, guarda en pytest (umbral bajo, p. ej. ≤ 2 %).
-Hechos: 1.° a 4.° básico (72 corregidas; 1 excepción: 4.° básico simulacro B 5, distractores que son versos reales del poema) , 5.° básico (34), 6.° básico (35), 7.° básico (33), 8.° básico (65), 1.° medio (53), 2.° medio (62) y 3.° medio (79). Siguiente: 4.° medio. Ojo: al alargar distractores, correr también el detector de copias (C.2); en 3.° medio un distractor alargado quedó idéntico al de la guía. Pendientes por curso: `backend/scripts/herramientas_auditoria/sesgo_longitud_pendientes.py "02-medio/pruebas/*.md"`.
+Cerrado: **495 alternativas de evaluaciones y 33 de guías corregidas** (distractores alargados con errores plausibles, sin
+tocar la clave). Quedan 3 excepciones legítimas (las alternativas son citas textuales: versos o frases del texto), listadas en
+la guarda `test_alternativas_sin_sesgo_de_longitud`. Pendientes en el futuro: `backend/scripts/herramientas_auditoria/
+sesgo_longitud_pendientes.py "<curso>/pruebas/*.md"`. Al alargar distractores, correr también el detector de copias (C.2):
+en 3.° medio un distractor alargado quedó idéntico al de la guía.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

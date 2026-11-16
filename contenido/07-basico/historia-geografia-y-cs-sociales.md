@@ -1016,7 +1016,7 @@ d) Porque se usaron para navegar hasta Europa
 **7. (Alternativas)** ¿Qué importancia tuvo la **red comercial** en Mesoamérica para mayas y aztecas?
 a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco
 b) No existía comercio: cada ciudad producía todo lo que necesitaba
-c) Solo comerciaban con los incas a través de la cordillera de los Andes
+c) Solo comerciaban con los incas a través de la cordillera de los Andes, sin ningún otro intercambio con pueblos de Mesoamérica ni del Caribe
 d) Usaban monedas de oro acuñadas por el emperador, igual que en Europa
 
 ✅ Respuesta correcta: **a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco**
@@ -1026,7 +1026,7 @@ d) Usaban monedas de oro acuñadas por el emperador, igual que en Europa
 a) Ninguna: era solo un pasatiempo de los sacerdotes
 b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes
 c) Servía únicamente para navegar por el océano Pacífico
-d) Prohibía cualquier ceremonia religiosa en las ciudades
+d) Prohibía cualquier ceremonia religiosa en las ciudades, para que los sacerdotes no tuvieran poder sobre los gobernantes
 
 ✅ Respuesta correcta: **b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes**
 💬 *Retroalimentación:* Mayas y aztecas observaban el cielo y crearon calendarios muy precisos; creían que los dioses mantenían el orden del universo y que los rituales eran necesarios para que el mundo siguiera funcionando.
@@ -1502,7 +1502,7 @@ diferencia entre la ciudadanía en la Atenas clásica y en la sociedad actual?
 a) En Atenas, la ciudadanía incluía a todas las personas por igual; hoy está más restringida
 b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos,
 sin distinción de sexo ni condición social
-c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción
+c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción, incluidos esclavos y extranjeros
 d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la época moderna con las revoluciones del siglo XVIII
 
 ✅ Respuesta correcta: **b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros;

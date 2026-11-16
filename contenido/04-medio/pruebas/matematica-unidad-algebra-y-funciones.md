@@ -29,7 +29,7 @@ alternativa correcta. Esta prueba combina matemática financiera (interés, tasa
 
 1. *(Alternativas)* Ana y Pedro depositan $1.000.000 cada uno al 6% anual durante 3 años; Ana a interés simple y Pedro a interés compuesto. ¿Por qué Pedro termina con más dinero?
 
-a) Porque el interés simple se cobra solo una vez al final, y el compuesto se paga todos los meses sobre el capital inicial
+a) Porque el interés simple se cobra solo una vez al final del período, y el compuesto se paga todos los meses sobre el capital inicial, lo que suma más dinero
 b) Porque en el interés compuesto los intereses de cada año se suman al capital y generan nuevos intereses; en el simple, siempre se calculan sobre el capital inicial
 c) Porque el interés simple siempre es mayor que el compuesto
 d) No hay diferencia: Ana y Pedro terminan con el mismo dinero
@@ -59,9 +59,9 @@ d) 8,16%
 
 6. *(Alternativas — comparar CAE)* Para comprar un refrigerador, el Crédito X anuncia una tasa de 18% anual con un CAE de 26%; el Crédito Y anuncia 20% con un CAE de 22%. ¿Cuál conviene y por qué?
 
-a) El X, porque su tasa anunciada es menor y refleja todo el costo del crédito
+a) El X, porque su tasa anunciada es menor y refleja todo el costo del crédito, incluidos seguros
 b) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa anunciada no considera
-c) Ambos cuestan lo mismo, porque la diferencia entre la tasa y el CAE se compensa
+c) Ambos cuestan lo mismo, porque la diferencia entre la tasa y el CAE se compensa al final del crédito
 d) No se puede saber sin conocer el nombre de la tienda que ofrece cada uno
 
 7. *(Alternativas — tabla de créditos)* Para comprar un notebook de $600.000:
@@ -116,15 +116,15 @@ d) 10 m; −10 m; 2π minutos
 
 13. *(Alternativas — variar el exponente)* ¿Qué afirmación sobre f(x) = x y g(x) = x³ es correcta para x > 0?
 
-a) g siempre es mayor que f, para cualquier valor positivo de x
+a) g siempre es mayor que f, para cualquier valor positivo de x, porque x³ crece más rápido
 b) f siempre es mayor que g
 c) Para x > 1, g es mayor y crece más rápido; para 0 < x < 1, g es menor que f
-d) Son iguales para todo x, porque ambas son funciones potencia
+d) Son iguales para todo x positivo, porque ambas son funciones potencia con coeficiente 1
 
 14. *(Alternativas — coseno vs. seno)* Un péndulo se suelta en t = 0 desde su punto más alejado del centro (su desplazamiento máximo). ¿Qué modelo conviene usar, f(t) = A·sen(Bt) o g(t) = A·cos(Bt), y por qué?
 
-a) f, porque el seno alcanza valores más altos que el coseno
-b) g, porque el coseno completa su ciclo en la mitad del tiempo
+a) f, porque el seno alcanza valores más altos que el coseno y modela mejor la marea alta del puerto a cualquier hora del día
+b) g, porque el coseno completa su ciclo en la mitad del tiempo que el seno, aunque comience en cero
 c) g, porque el coseno comienza en su valor máximo; ambas describen la misma oscilación con distinto punto de partida (desfase)
 d) Ninguna, porque el coseno no puede modelar fenómenos periódicos
 

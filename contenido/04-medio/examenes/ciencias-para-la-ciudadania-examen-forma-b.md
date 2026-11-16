@@ -190,9 +190,9 @@ d) Si su resultado coincide con lo que uno quiere creer
 
 **17.** *(Alternativas)* ¿Por qué el aumento de la temperatura del mar amenaza a los arrecifes de coral?
 
-a) Porque los corales se desplazan rápidamente a aguas más frías sin ningún costo
+a) Porque los corales se desplazan rápidamente a aguas más frías sin ningún costo y abandonan el arrecife
 b) Porque provoca el blanqueamiento: los corales expulsan las algas de las que dependen y pueden morir
-c) Porque el agua más cálida aumenta la cantidad de alimento para los corales
+c) Porque el agua más cálida aumenta la cantidad de alimento para los corales y hace que crezcan sin control
 d) Porque los corales no tienen ninguna relación con la temperatura del agua
 
 **18.** *(Alternativas, 3 puntos)* Lee la siguiente situación:

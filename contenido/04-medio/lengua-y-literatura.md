@@ -240,7 +240,7 @@ d) Científico que solo expone datos técnicos sobre la minería y el agua, sin 
 a) Que "buena parte de las utilidades se gira a matrices en el extranjero"
 b) Que la tributación efectiva de la gran minería bordea el 40%, según el Consejo Minero
 c) Que las mineras "regalan" el cobre de Chile
-d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas
+d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas de las mineras
 
 *Respuesta correcta: b.* Retroalimentación: esta cifra se atribuye a una fuente identificable (el Consejo Minero), lo que permite, en principio, contrastarla con otras fuentes; las demás opciones son afirmaciones sin cifra concreta o formulaciones retóricas, no datos verificables.
 
@@ -432,7 +432,7 @@ d) Ninguna, todo el guion cumple únicamente una función informativa
 **11. (Alternativas)** ¿Qué diferencia principal hay entre producir un texto propio en 3° medio y en 4° medio, según los tres OA de este año?
 
 a) En 4° medio se exige más autonomía y síntesis: comparar obras entre sí, evaluar críticamente la veracidad e ideología de discursos y comunicarlo con dominio de distintos géneros y audiencias
-b) En 4° medio ya no se producen textos propios: el trabajo se centra en leer obras y responder preguntas de comprensión, sin comunicar evaluaciones a ninguna audiencia
+b) En 4° medio ya no se producen textos propios: el trabajo se centra en leer obras y responder preguntas de comprensión, sin comunicar evaluaciones a nadie ni adaptar lo que se escribe
 c) No hay diferencia: se repiten exactamente los mismos objetivos de 3° medio, con los mismos géneros, audiencias y textos, para reforzar lo aprendido el año anterior
 d) En 4° medio solo se memorizan definiciones
 

@@ -29,9 +29,9 @@ y evaluación crítica de argumentos estadísticos.
 
 1. *(Alternativas)* ¿Cuál de las siguientes situaciones se modela mejor con una distribución binomial?
 
-a) La temperatura máxima de cada día de un mes
+a) La temperatura máxima de cada día de un mes en una ciudad del norte
 b) El número de semillas que germinan de 20 sembradas, si cada una germina con probabilidad 0,7
-c) El tiempo que se espera el bus en un paradero
+c) El tiempo que se espera el bus en un paradero durante la hora punta, medido en minutos cada día
 d) La masa de 40 manzanas de una caja
 
 2. *(Verdadero o falso)* Si las notas de una prueba siguen una distribución normal con media 5,0 y desviación estándar 0,5, aproximadamente el 68% de los estudiantes obtuvo entre 4,5 y 5,5.
@@ -82,8 +82,8 @@ d) 0,0625
 
 10. *(Alternativas — correlación y causalidad)* Al revisar muchos incendios se observa que, mientras más bomberos acuden, mayores son los daños. ¿Se puede concluir que los bomberos causan los daños?
 
-a) Sí: una correlación fuerte prueba causalidad
-b) Sí: los bomberos dañan las casas al apagar el fuego
+a) Sí: una correlación fuerte entre dos variables prueba siempre una causalidad
+b) Sí: los bomberos dañan las casas al apagar el fuego con mucha agua
 c) No: no existe ninguna correlación entre ambas variables
 d) No: ambas variables dependen de una tercera, el tamaño del incendio
 
@@ -96,8 +96,8 @@ d) Ambas 20
 
 12. *(Alternativas — límites de una encuesta)* Una encuesta respondida solo por usuarios de una aplicación para registrar entrenamientos concluye que "los chilenos hacen ejercicio cinco veces por semana". ¿Qué límite tiene?
 
-a) Ninguno: cualquier muestra grande representa a toda la población
-b) Que hubo demasiados encuestados y eso aumenta el margen de error
+a) Ninguno: cualquier muestra grande representa a toda la población, sin importar cómo se eligió
+b) Que hubo demasiados encuestados y eso aumenta el margen de error de la encuesta
 c) Sesgo de muestra: quienes usan esa aplicación no son representativos de toda la población
 d) Que las encuestas en aplicaciones son ilegales
 

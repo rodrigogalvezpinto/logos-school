@@ -1062,7 +1062,7 @@ d) 1-B, 2-C, 3-A
 
 **4. (Alternativas — análisis de datos)** Un informe de 1890 señala que Chile, tras incorporar las regiones salitreras del Norte Grande, se convirtió en el principal exportador mundial de salitre, con ingresos fiscales muy superiores. ¿Qué muestra este dato?
 a) Una consecuencia económica central del triunfo militar: el control del salitre aumentó fuertemente los ingresos del Estado
-b) Que la guerra no tuvo consecuencias económicas, porque el salitre ya era chileno antes del conflicto
+b) Que la guerra no tuvo consecuencias económicas para Chile, porque el salitre de Tarapacá ya era chileno antes del conflicto
 c) Que Chile perdió las regiones salitreras
 d) Que el salitre dejó de exportarse tras la guerra y los ingresos fiscales del Estado disminuyeron
 

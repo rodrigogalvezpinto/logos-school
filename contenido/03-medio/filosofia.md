@@ -351,7 +351,7 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
    **Retroalimentación:** Cada teoría responde distinto a "qué es lo fundamentalmente real".
 
 4. *(Alternativas — Análisis de caso — intermedio)* El "barco de Teseo" cambia tabla por tabla hasta que no queda ninguna pieza original. ¿Qué pregunta ontológica general plantea?
-   a) Cuánto cuesta reparar un barco tabla por tabla, comparado con construir uno nuevo
+   a) Cuánto cuesta reparar un barco tabla por tabla, comparado con construir uno nuevo en un astillero
    b) Quién construyó el barco
    c) La identidad a través del cambio: qué hace que algo siga siendo "lo mismo" pese a que cambien sus partes
    d) Qué madera es más resistente para reemplazar las tablas originales del barco
@@ -645,7 +645,7 @@ tomando —sin saberlo— una postura epistemológica.
        distinguir posturas mejor o peor justificadas por evidencia y
        argumentos.
     c) Es un ejemplo correcto de dogmatismo.
-    d) Es una afirmación puramente empírica, no epistemológica, porque se refiere a datos sobre posturas políticas.
+    d) Es una afirmación puramente empírica, no epistemológica, porque se refiere a datos sobre posturas políticas de las personas encuestadas.
     **Respuesta correcta:** b.
     **Retroalimentación:** La postura crítica no sostiene que "todo da lo
     mismo" solo porque no hay certeza absoluta; sostiene que existen grados
@@ -851,7 +851,7 @@ resto del sistema, como en geometría).
     entregar todo tarde siempre, y el colegio entero se va a desordenar por
     completo." ¿Qué falacia se comete en este razonamiento?
     a) Ad hominem: se descalifica a los estudiantes que entregan tarde en lugar de discutir la medida propuesta por el colegio.
-    b) Apelación a la autoridad: se apoya la conclusión en la opinión del colegio, sin justificar por qué una entrega tardía causaría desorden.
+    b) Apelación a la autoridad: se apoya la conclusión en la opinión del colegio, sin justificar por qué una entrega tardía causaría desorden en el curso.
     c) Pendiente resbaladiza: se afirma, sin justificación suficiente, que
        un paso moderado desencadenará inevitablemente una cadena de
        consecuencias extremas.

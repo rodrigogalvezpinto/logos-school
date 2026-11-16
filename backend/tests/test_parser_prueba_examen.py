@@ -1027,3 +1027,26 @@ def test_varias_correctas_sin_sesgo_de_posicion():
                 patrones["".join("X" if o in correctas else "." for o in pregunta.opciones)] += 1
     total = sum(patrones.values())
     assert total and max(patrones.values()) <= 0.30 * total, patrones.most_common(3)
+
+
+def test_alternativas_sin_sesgo_de_longitud():
+    # Control C.6 (2026-11-16): la respuesta correcta no debe delatarse por ser claramente la más larga
+    # (`ajustar_distractores.sesgada`). Las reescrituras de C.2 lo habían reintroducido en 495 preguntas.
+    # Excepciones: preguntas cuyas alternativas son citas textuales (versos o frases del texto) y no pueden alargarse.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from ajustar_distractores import items, sesgada
+    excepciones = {
+        ("04-basico/lenguaje-y-comunicacion.md", "OA 5#5"),        # versos del poema
+        ("08-basico/lengua-y-literatura.md", "OA 9#5"),            # frases de la columna
+        ("04-basico/examenes/examen-integrado-forma-b.md", 5),     # versos del poema
+    }
+    hallazgos = []
+    rutas = [r for r in sorted(CONTENIDO.glob("*/*.md")) if not r.name.startswith("00")]
+    rutas += sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md"))
+    for ruta in rutas:
+        rel = str(ruta.relative_to(CONTENIDO))
+        for ident, (tipo, _, opciones, clave, _) in items(ruta, ruta.read_text(encoding="utf-8")).items():
+            if tipo == "alternativas" and sesgada(opciones, clave) and (rel, ident) not in excepciones:
+                hallazgos.append(f"{rel} {ident}")
+    assert hallazgos == []

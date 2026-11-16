@@ -34,19 +34,19 @@ Lee los textos completos incluidos aquí y responde las preguntas 1 a 12. Son cr
 
 1. *(Alternativas)* En el Texto A, la abuela dice "Cuando bajen las aguas" aunque sabe que el valle no volverá a aparecer. ¿Qué contexto de producción permite entender esa espera sin fecha?
 
-a) La migración voluntaria de jóvenes hacia Santiago para estudiar
+a) La migración voluntaria de jóvenes hacia Santiago para estudiar en la universidad
 b) La pandemia de 2020
-c) La colonización europea del siglo XIX
+c) La colonización europea del siglo XIX en el sur de Chile y la llegada de colonos
 d) El traslado obligado de familias de un valle inundado por la construcción de una represa
 
 2. *(Verdadero o Falso)* En el Texto B, Mahina deja la isla obligada por una decisión ajena, sin ningún propósito propio, igual que la familia del Texto A deja el valle.
 
 3. *(Alternativas)* ¿Cómo influye el contexto de producción del Texto A —el traslado obligado— en la elección del frasco de tierra como objeto central del fragmento?
 
-a) El contexto no influye: el frasco podría representar cualquier cosa, porque lo importante es la relación entre la abuela y su nieta
+a) El contexto no influye: el frasco podría representar cualquier cosa, porque lo importante es la relación entre la abuela y su nieta, que se quieren mucho
 b) El frasco solo indica que la abuela era ordenada y guardaba con cuidado los objetos de su casa
 c) El frasco funciona como símbolo de una espera sin salida, porque volver al valle ya no depende de la voluntad de la abuela: el lugar quedó bajo el agua
-d) El frasco muestra que la familia podía volver al valle cuando quisiera, porque conservaba sus tierras
+d) El frasco muestra que la familia podía volver al valle cuando quisiera, porque conservaba sus tierras y su casa, aunque prefirió quedarse en el pueblo nuevo
 
 4. *(Alternativas)* ¿Desde qué perspectiva se narra principalmente el desarraigo en el Texto A?
 
@@ -59,23 +59,23 @@ d) Desde la mirada de la empresa que construyó la represa
 
 6. *(Alternativas)* ¿Cómo se orienta temporalmente el desarraigo en cada texto?
 
-a) Ambos textos miran solo hacia el futuro: la abuela planea volver al valle y Mahina construye nuevas amistades
-b) El Texto A mira hacia el futuro que se construye (la nueva vida en el pueblo); el Texto B, hacia el pasado perdido (la isla que Mahina dejó)
+a) Ambos textos miran solo hacia el futuro: la abuela planea volver al valle cuando baje el agua de la represa y Mahina construye nuevas amistades en el liceo de la ciudad
+b) El Texto A mira hacia el futuro que se construye (la nueva vida de la abuela en el pueblo y los vecinos que conoce allí); el Texto B, hacia el pasado perdido (la isla que Mahina dejó y su familia)
 c) Ninguno de los dos trata el tiempo: ambos describen solo el presente de los personajes
 d) El Texto A mira principalmente hacia el pasado perdido (el valle, los nombres de los cerros); el Texto B, hacia el futuro que se construye (amigas que "pronto" serán reales, la vida armada día a día)
 
 7. *(Alternativas)* ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Mahina, en vez de en primera persona como el Texto A?
 
-a) Hace imposible conocer lo que siente Mahina, porque la tercera persona solo describe sus acciones desde fuera
+a) Hace imposible conocer lo que siente Mahina, porque la tercera persona solo describe sus acciones desde fuera, como lo haría una cámara que la sigue por la ciudad
 b) Permite mostrar lo que Mahina siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela
-c) Convierte el relato en una noticia objetiva sin emociones sobre los estudiantes que migran
+c) Convierte el relato en una noticia objetiva sin emociones sobre los estudiantes que migran desde Rapa Nui para estudiar en el continente
 d) No produce ningún efecto distinto de la primera persona
 
 8. *(Alternativas)* ¿Qué elemento comparten ambos textos, a pesar de tratar el desarraigo desde contextos de producción distintos?
 
-a) Ambos ocurren en el mismo año y en la misma ciudad
+a) Ambos ocurren en el mismo año y en la misma ciudad, con personajes que se conocen
 b) Ambos abordan la reconstrucción de una identidad y de vínculos familiares tras dejar el lugar de origen
-c) Ambos critican explícitamente a una autoridad y piden que se reconozcan derechos
+c) Ambos critican explícitamente a una autoridad y piden que se reconozcan los derechos de las familias desplazadas
 d) Ambos están narrados en primera persona
 
 9. *(Varias correctas)* Considerando la situación hipotética de producción (A en 2005 y B en 2026) y distintas audiencias de recepción, ¿qué afirmaciones son pertinentes y no atribuyen reacciones idénticas a toda una audiencia? Marca **todas** las correctas.
@@ -87,18 +87,18 @@ d) El frasco de tierra puede suscitar reconocimiento doloroso en alguien desplaz
 
 10. *(Alternativas)* Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre dejar el hogar, solo que en distintas épocas". ¿Qué evaluación es más precisa?
 
-a) Es correcta: los dos textos tratan el tema del mismo modo, con el mismo tono y la misma perspectiva
+a) Es correcta: los dos textos tratan el tema del desarraigo del mismo modo, con el mismo tono, la misma perspectiva y el mismo tipo de desplazamiento, aunque ocurran en lugares distintos
 b) Es incorrecta porque los textos no tienen nada en común
 c) Es incompleta: comparten el tema del desarraigo, pero A trata un desplazamiento forzado, con tono elegíaco, y B uno voluntario para estudiar, con tono agridulce y esperanzador
-d) Es correcta porque ambos están narrados en primera persona por quien vive el desplazamiento
+d) Es correcta porque ambos están narrados en primera persona por quien vive el desplazamiento, y eso basta para decir que comparten el mismo tema en distintas épocas de Chile
 
 11. *(Verdadero o Falso)* Una buena interpretación comparada de "El frasco de tierra" y "Señal para Hanga Roa" debe terminar decidiendo cuál de los dos textos es literariamente superior.
 
 12. *(Alternativas)* En el Texto A, la imagen del frasco guardado "como quien guarda un corazón que ya no late" es un recurso que principalmente refuerza:
 
 a) El efecto estético elegíaco y la sensación de duelo prolongado propios de una pérdida sin posibilidad de retorno
-b) Un tono humorístico e irónico, similar al del Texto B, que aliviana la pérdida
-c) La idea de que la abuela había decidido libremente no volver nunca al valle
+b) Un tono humorístico e irónico, similar al del Texto B, que aliviana la pérdida del valle y de la casa
+c) La idea de que la abuela había decidido libremente no volver nunca al valle donde nació y creció
 d) Un dato histórico verificable sobre el número de familias trasladadas
 
 ---

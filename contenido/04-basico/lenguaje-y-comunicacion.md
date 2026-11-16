@@ -314,7 +314,7 @@ d) Que el puma se esconde bajo las rocas para dormir; es una instrucción, porqu
 
 **5. (Alternativas)** ¿Cuál de las siguientes es información **implícita** (no está escrita directamente, pero se puede deducir) del texto sobre el puma?
 
-a) El puma vive desde el desierto de Atacama hasta la Patagonia.
+a) El puma vive desde el desierto de Atacama hasta la Patagonia, en muchos lugares.
 b) El puma es un animal muy adaptable, capaz de sobrevivir en climas muy distintos.
 c) El puma se alimenta de guanacos y liebres.
 d) Está prohibido cazar pumas en Chile.

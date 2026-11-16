@@ -814,7 +814,7 @@ iluminación.
 8. *(Alternativas — Sombras)* ¿Por qué se forma la sombra de una persona en un día soleado?
    a) Porque la luz se propaga en línea recta y el cuerpo opaco bloquea los rayos, dejando
       una zona sin iluminar detrás de él
-   b) Porque la luz rodea el cuerpo y se concentra detrás de la persona
+   b) Porque la luz rodea el cuerpo de la persona y se concentra detrás de ella, formando una zona más oscura que el resto del suelo
    c) Porque el cuerpo emite oscuridad hacia el suelo
    d) Porque la luz del Sol se apaga al tocar a la persona
    **Respuesta correcta:** a) Porque la luz se propaga en línea recta y el cuerpo opaco bloquea los rayos, dejando una zona sin iluminar detrás de él.
@@ -828,7 +828,7 @@ iluminación.
       de visión más amplio
    b) Un espejo plano siempre forma imágenes más grandes que el objeto
    c) Una lente convergente (lupa) nunca puede ampliar la imagen de un objeto cercano
-   d) Un espejo cóncavo siempre forma imágenes más pequeñas, sin importar la distancia
+   d) Un espejo cóncavo siempre forma imágenes más pequeñas y derechas, sin importar la distancia a la que esté el objeto
    **Respuesta correcta:** a) Un espejo convexo, como el de los retrovisores, muestra imágenes más pequeñas y un campo de visión más amplio.
    **Retroalimentación:** El espejo convexo forma imágenes virtuales, derechas y más pequeñas,
    útiles para ver más área. El espejo plano forma imágenes del mismo tamaño; el cóncavo y la

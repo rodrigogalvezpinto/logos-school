@@ -752,7 +752,7 @@ d) La Doctrina de la Seguridad Nacional
 
 **5. (Alternativas)** ¿Qué se entiende por "tensión permanente entre revolución y reforma" en la América Latina de la Guerra Fría?
 a) La competencia entre dos equipos de fútbol
-b) El acuerdo total entre todos los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin golpes de Estado ni reformas graduales que lo interrumpieran
+b) El acuerdo total entre todos los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin golpes de Estado ni ninguna intervención de Estados Unidos en la región
 c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos
 d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa
 

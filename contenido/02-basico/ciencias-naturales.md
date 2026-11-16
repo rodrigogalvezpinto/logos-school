@@ -878,7 +878,7 @@ temperatura.
 7. *(Alternativas — efectos del viento)* ¿Qué efecto del **viento** puedes observar en
    un día ventoso?
    a) Las hojas de los árboles se mueven y la ropa colgada se seca más rápido
-   b) El pasto cambia de color verde a amarillo en pocos minutos
+   b) El pasto cambia de color verde a amarillo en pocos minutos y se seca
    c) La nieve aparece en el patio aunque haga calor
    d) El sol se esconde para siempre detrás de los cerros
    **Respuesta correcta:** a) Las hojas de los árboles se mueven y la ropa colgada se seca más rápido.
@@ -889,7 +889,7 @@ temperatura.
    en la zona central de Chile a lo largo del año?
    a) Hace el mismo calor todos los meses
    b) En invierno llueve más y hace más frío; en verano hace calor y casi no llueve
-   c) En verano cae nieve en las ciudades y en invierno hace mucho calor
+   c) En verano cae nieve en las ciudades y en invierno hace mucho calor y sol
    d) Llueve exactamente la misma cantidad todos los días del año
    **Respuesta correcta:** b) En invierno llueve más y hace más frío; en verano hace calor y casi no llueve.
    **Retroalimentación:** ¡Exacto! El tiempo atmosférico cambia a lo largo del año: en la

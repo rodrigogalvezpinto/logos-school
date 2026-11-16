@@ -34,8 +34,8 @@ d) Eficiencia energética
 3. *(Alternativas)* Una cooperativa de Valparaíso instala biodigestores que transforman restos de comida de ferias libres en biogás para cocinar. ¿Qué beneficios ambientales logra a la vez?
 
 a) Solo produce gas para cocinar, sin ningún otro beneficio para el ambiente.
-b) Reemplaza completamente la necesidad de tratar las aguas servidas de la ciudad.
-c) Aumenta la basura que llega a los vertederos, porque obliga a recolectar más restos.
+b) Reemplaza completamente la necesidad de tratar las aguas servidas de la ciudad, porque el biodigestor procesa también los residuos de los baños.
+c) Aumenta la basura que llega a los vertederos, porque obliga a recolectar más restos de comida y a transportarlos en camiones cada día.
 d) Reduce los residuos orgánicos que van a vertederos, evita el metano que emitirían al descomponerse allí y entrega una fuente de energía.
 
 4. *(Varias correctas — Evaluación de evidencia)* Una empresa propone instalar una planta desaladora en una caleta del norte, argumentando solo que "el mar es infinito y no se va a acabar". ¿Qué evidencia adicional conviene exigir? Marca **todas** las correctas.
@@ -62,48 +62,48 @@ d) Extraer la madera más valiosa mientras quede, sin plan de reforestación, y 
 7. *(Alternativas)* Un grupo de estudiantes diseña un sistema de riego por goteo para la huerta de su comuna, con buen respaldo técnico. ¿Por qué deben considerar también su costo y la participación de los vecinos?
 
 a) Porque un proyecto correcto técnicamente, pero muy caro o sin apoyo de la comunidad, difícilmente se implementará o mantendrá en el tiempo
-b) Porque la ciencia no importa en los proyectos de sostenibilidad: basta con que la comunidad esté de acuerdo
-c) Porque basta con que el proyecto sea barato, aunque no tenga fundamento científico ni apoyo de la comunidad
+b) Porque la ciencia no importa en los proyectos de sostenibilidad: basta con que la comunidad esté de acuerdo, aunque el sistema de riego no funcione
+c) Porque basta con que el proyecto sea barato, aunque no tenga fundamento científico ni apoyo de la comunidad, para que se mantenga en el tiempo
 d) Porque la comunidad no tiene relación con la sostenibilidad, que depende solo de la tecnología
 
 8. *(Alternativas)* Un compañero dice que el calentamiento global "es solo una teoría basada en una ola de calor". ¿En qué se basa realmente la evidencia científica del cambio climático actual?
 
 a) En múltiples líneas de evidencia que coinciden: registros de temperatura de más de un siglo, mediciones de CO₂ atmosférico, núcleos de hielo y retroceso de glaciares, además de modelos climáticos validados.
-b) En la opinión de un solo grupo de científicos, no revisada por otros estudios.
-c) En predicciones de modelos sin ninguna base en datos históricos.
+b) En la opinión de un solo grupo de científicos de un país, no revisada por otros estudios ni comparada con datos de distintas épocas, que la prensa ha difundido como si fuera un consenso mundial sobre el clima actual
+c) En predicciones de modelos computacionales sin ninguna base en datos históricos, que solo imaginan escenarios futuros y no se comparan con las mediciones de temperatura, de CO₂ ni de los glaciares del planeta
 d) En las observaciones de un solo verano particularmente caluroso.
 
 9. *(Verdadero o falso)* La disminución de la nieve que se acumula cada invierno en la cordillera de los Andes no afecta la disponibilidad de agua en verano para el riego y el consumo humano en la zona central de Chile.
 
 10. *(Alternativas)* Un buzo observa que un arrecife de coral de Rapa Nui se volvió blanco después de un verano con el mar inusualmente cálido. ¿Qué explica este cambio?
 
-a) Los corales migraron hacia aguas más frías y dejaron sus esqueletos blancos.
+a) Los corales migraron hacia aguas más frías y dejaron atrás sus esqueletos blancos, que quedan vacíos en el arrecife hasta que otros corales los ocupan.
 b) El aumento de temperatura del agua provocó que los corales expulsaran las algas simbióticas de las que dependen, perdiendo su color y una fuente clave de energía.
-c) Los corales absorbieron directamente el CO₂ del aire y cambiaron de color por eso.
+c) Los corales absorbieron directamente el CO₂ del aire durante la ola de calor y cambiaron de color por esa reacción química en su superficie.
 d) Es un proceso normal que ocurre cada invierno cuando baja la temperatura del agua.
 
 11. *(Alternativas)* ¿Qué opción distingue correctamente una medida de mitigación y una de adaptación frente al cambio climático en Chile?
 
-a) Mitigación: construir defensas costeras frente al aumento del nivel del mar. Adaptación: electrificar el transporte público
+a) Mitigación: construir defensas costeras frente al aumento del nivel del mar en las ciudades del litoral. Adaptación: electrificar el transporte público para emitir menos gases
 b) Ambas significan lo mismo: cualquier medida frente al cambio climático es a la vez de mitigación y de adaptación
-c) Mitigación: aumentar las emisiones para que la economía crezca. Adaptación: esperar a que el clima vuelva a ser como antes
+c) Mitigación: aumentar las emisiones para que la economía crezca y haya más recursos para enfrentar el clima. Adaptación: esperar a que el clima vuelva a ser como antes
 d) Mitigación: electrificar el transporte público para emitir menos gases de efecto invernadero. Adaptación: construir defensas costeras frente al aumento del nivel del mar
 
 12. *(Verdadero o falso)* Proteger las turberas de la Patagonia es una medida de mitigación del cambio climático, porque estos ecosistemas almacenan grandes cantidades de carbono que se liberarían a la atmósfera si se drenan o se extrae su musgo.
 
 13. *(Alternativas — Análisis de caso)* Un gran parque solar en el desierto reducirá las emisiones del país, pero ocupará un sector usado por una comunidad atacameña para el pastoreo y donde hay sitios arqueológicos. ¿Qué evaluación es más completa?
 
-a) Solo importa la reducción de emisiones, porque el beneficio climático justifica cualquier costo social o cultural
+a) Solo importa la reducción de emisiones, porque el beneficio climático para todo el país justifica cualquier costo social o cultural que asuma la comunidad atacameña del sector
 b) Pondera el beneficio climático frente a los costos sociales y culturales (pastoreo, patrimonio, consulta a la comunidad) y considera alternativas de ubicación o diseño de menor impacto
 c) Solo importa la comunidad, porque el beneficio climático es secundario
-d) No tiene ningún costo, porque la energía solar es renovable y, por definición, no afecta a nadie
+d) No tiene ningún costo, porque la energía solar es renovable y, por definición, no afecta a nadie: el terreno del desierto está vacío y no tiene usos ni valor para las personas
 
 14. *(Alternativas)* Con el aumento de la temperatura, algunas especies de montaña se desplazan hacia mayor altura buscando el frío, hasta que ya no queda más montaña hacia dónde subir. ¿Por qué el cambio climático actual provoca pérdida de biodiversidad?
 
-a) Porque todas las especies pueden migrar instantáneamente a nuevos hábitats sin ningún costo.
+a) Porque todas las especies pueden migrar instantáneamente a nuevos hábitats sin ningún costo, y las que no lo hacen es porque ya estaban en peligro.
 b) Porque muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente a la velocidad de los cambios ambientales actuales.
 c) Porque el cambio climático no afecta la distribución de las especies.
-d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con el clima.
+d) Porque la biodiversidad solo depende de la caza y la tala de bosques, sin ninguna relación con los cambios de temperatura ni con el clima.
 
 ---
 

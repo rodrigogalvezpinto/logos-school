@@ -592,7 +592,7 @@ escucharlo.
 
 7. *(Alternativas — dirección del sonido)* En el centro del patio, una profesora toca un
    silbato. ¿Quiénes pueden escuchar el sonido?
-   a) Solo los estudiantes que están frente a ella
+   a) Solo los estudiantes que están frente a ella, en la primera fila de la sala
    b) Solo los que están a su derecha
    c) Los estudiantes que están a su alrededor, en todas las direcciones
    d) Solo los que están detrás de ella

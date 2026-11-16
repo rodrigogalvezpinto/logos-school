@@ -94,7 +94,7 @@ Tomás estará en 2° Básico. *Paso a paso:* ordenamos los cursos según el añ
 
 **1. (Alternativas)** ¿Qué haces primero en la mañana, antes del desayuno?
 a) Despertarme y levantarme
-b) Ir a dormir la siesta
+b) Ir a dormir la siesta larga
 c) Almorzar
 d) Cenar
 

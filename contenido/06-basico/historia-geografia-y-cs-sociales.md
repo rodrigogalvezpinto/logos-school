@@ -988,7 +988,7 @@ d) Porque las tradiciones son tecnologías nuevas que se inventan cada año y re
 a) En el siglo XIX votaban todos los adultos, igual que hoy
 b) En el siglo XIX votaban solo algunos hombres con propiedades o renta; en el siglo XX se amplió el voto a las mujeres y luego a todos los mayores de 18 años
 c) Las mujeres votan en Chile desde la Independencia, en 1818
-d) La participación política no ha cambiado en toda la historia de Chile
+d) La participación política no ha cambiado en toda la historia de Chile: desde la Independencia votan las mismas personas, con los mismos requisitos y en las mismas elecciones
 
 ✅ Respuesta correcta: **b) En el siglo XIX votaban solo algunos hombres con propiedades o renta; en el siglo XX se amplió el voto a las mujeres y luego a todos los mayores de 18 años**
 💬 *Retroalimentación:* El sufragio se amplió de forma gradual: las mujeres votaron en elecciones municipales desde 1934 y en las presidenciales y parlamentarias desde 1949; desde 1970 pueden votar los mayores de 18 años, sepan o no leer.
@@ -996,7 +996,7 @@ d) La participación política no ha cambiado en toda la historia de Chile
 **8. (Alternativas)** ¿Cuál de estos hechos es un ejemplo de la **modernización de la vida urbana** en Chile durante el siglo XX?
 a) La llegada del alumbrado eléctrico, el agua potable y el Metro de Santiago
 b) La fundación de Santiago por Pedro de Valdivia
-c) El uso de carretas tiradas por bueyes como único transporte
+c) El uso de carretas tiradas por bueyes como único transporte entre ciudades
 d) La construcción de las primeras misiones jesuitas en el sur
 
 ✅ Respuesta correcta: **a) La llegada del alumbrado eléctrico, el agua potable y el Metro de Santiago**

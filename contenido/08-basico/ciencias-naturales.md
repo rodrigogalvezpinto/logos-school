@@ -758,7 +758,7 @@ construcción de viviendas.
 
 8. *(Alternativas — Equilibrio térmico)* Se deja un vaso de leche caliente sobre la mesa
    de una sala que está a 20 °C. ¿Qué ocurrirá después de un tiempo?
-   a) La leche seguirá igual de caliente, porque el vaso la aísla por completo
+   a) La leche seguirá igual de caliente durante horas, porque el vaso de vidrio la aísla por completo del aire frío de la cocina
    b) La leche se enfriará hasta alcanzar la temperatura de la sala, y entonces dejará de
       transferir calor: se llega al equilibrio térmico
    c) La sala se calentará hasta igualar la temperatura inicial de la leche
@@ -774,7 +774,7 @@ construcción de viviendas.
    b) Usar ropa oscura y gruesa para cubrirse del sol
    c) Hidratarse con frecuencia, usar ropa clara y liviana y evitar exponerse al sol entre las
       12 y las 16 horas
-   d) Dejar a las mascotas dentro de un auto cerrado con las ventanas arriba
+   d) Dejar a las mascotas dentro de un auto cerrado con las ventanas arriba mientras se hacen las compras
    **Respuesta correcta:** c) Hidratarse con frecuencia, usar ropa clara y liviana y evitar exponerse al sol entre las 12 y las 16 horas.
    **Retroalimentación:** La ropa clara absorbe menos radiación, el agua repone lo que se
    pierde al transpirar y evitar las horas de mayor radiación reduce el riesgo de golpe de
@@ -916,7 +916,7 @@ acumulativa.
       iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero
       no se crean ni se destruyen
    c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas
-   d) Que la materia es continua y puede dividirse infinitamente sin llegar nunca a partículas
+   d) Que la materia es continua y puede dividirse infinitamente sin llegar nunca a partículas, idea que Dalton defendió con el experimento de la lámina de oro y que Thomson confirmó al medir la carga de los electrones
    **Respuesta correcta:** b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero no se crean ni se destruyen.
    **Retroalimentación:** Dalton retomó la idea de átomo con base en evidencia de reacciones
    químicas (proporciones fijas). Luego Thomson descubrió el electrón y mostró que el átomo sí

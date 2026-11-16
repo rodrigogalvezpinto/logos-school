@@ -565,7 +565,7 @@ d) Porque las fuentes oficiales siempre mienten
 a) Muestra que las visitas aumentaron de 20 mil en 2021 a 45 mil en 2023, lo que respalda la afirmación del texto
 b) Muestra que las visitas bajaron cada año
 c) Indica cuántos talleres gratuitos hubo cada año
-d) No tiene relación con el texto, porque solo es decorativo
+d) No tiene relación con el texto, porque solo es decorativo y se agregó para que la noticia se vea más atractiva
 
 *Respuesta correcta: a.* Retroalimentación: el gráfico entrega datos precisos que el texto solo menciona en general («cada año más visitas»). Interpretarlo exige leer los valores de cada barra.
 
@@ -574,7 +574,7 @@ d) No tiene relación con el texto, porque solo es decorativo
 a) Entretener al lector con colores llamativos
 b) Reemplazar por completo el texto de la noticia
 c) Respaldar con evidencia numérica la afirmación central de la noticia y facilitar la comparación entre años
-d) Mostrar la opinión personal del periodista sobre la biblioteca
+d) Mostrar la opinión personal del periodista sobre la biblioteca y sobre los talleres gratuitos que ofrece
 
 *Respuesta correcta: c.* Retroalimentación: en los textos de medios, los gráficos, tablas e imágenes cumplen funciones como respaldar afirmaciones, sintetizar datos o permitir comparar. También conviene evaluar si el gráfico es suficiente: aquí no dice si el aumento se debe solo a los talleres.
 

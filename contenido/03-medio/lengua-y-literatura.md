@@ -631,7 +631,7 @@ d) Propósito: argumentar que urge regular el trabajo en plataformas. Género: c
 
 **7. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia (de un ensayo escolar a un post) no significa necesariamente perder profundidad?
 
-a) Porque los posts siempre son más profundos que los ensayos, ya que usan menos palabras para decir lo mismo
+a) Porque los posts siempre son más profundos que los ensayos, ya que usan menos palabras para decir lo mismo y llegan a más lectores en las redes sociales
 b) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma (registro, extensión, recursos), no necesariamente la profundidad
 c) Porque adecuar un texto exige eliminar toda interpretación y dejar solo los datos del hallazgo
 d) Porque la audiencia no importa
@@ -653,7 +653,7 @@ d) "Por lo tanto, en primer lugar, sin embargo, luego."
 
 **10. (Alternativas)** ¿Cuál de las siguientes diferencias entre la versión (a) y la versión (b) corresponde a una diferencia de género discursivo, y no solo de extensión?
 
-a) La versión (a) tiene más oraciones y párrafos que la versión (b), y por eso pertenece a un género distinto, aunque ambas usan cita textual y una pregunta directa final
+a) La versión (a) tiene más oraciones y párrafos que la versión (b), y por eso pertenece a un género distinto, aunque ambas usan cita textual y una pregunta retórica al comienzo
 b) La versión (a) usa cita textual y estructura tesis-evidencia-cierre propia del ensayo; la versión (b) usa una pregunta directa y un registro cercano propio de una publicación de red social
 c) Ambas versiones usan exactamente los mismos conectores
 d) La versión (b) no tiene ningún propósito comunicativo definido, mientras que la versión (a) sí lo tiene, aunque ambas usan el mismo registro y la misma estructura

@@ -236,7 +236,7 @@ d) "silba una vez, dos veces, tres veces": la repetición del sonido "s" refuerz
 
 **5. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **implícita** (no explícita)?
 
-a) El tren viaja de noche, como indica el título del poema
+a) El tren viaja de noche hacia el sur, como indica el título del poema
 b) El poema tiene dos estrofas, como se ve al leerlo
 c) Los pinos se inclinan al paso del tren, según el texto
 d) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
