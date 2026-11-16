@@ -111,7 +111,7 @@ d) El gráfico circular está mal dibujado
 
 ## Pauta de respuestas
 
-1. **d).** El percentil indica la posición relativa de un dato respecto al resto de la población.
+1. **d) Que su peso es igual o mayor que el de aproximadamente el 80% de los recién nacidos.** Estar en el percentil 80 significa que el peso del bebé es igual o mayor que el de aproximadamente el 80 % de los recién nacidos de su grupo. El percentil indica una posición relativa, no un porcentaje del peso.
 2. **Verdadero.** Q1 deja el 25% de los datos por debajo; Q2 (la mediana), el 50%; Q3, el 75%.
 3. **b) 12,5.** Ordenados: 7, 9, 11, 14, 16, 18. Mediana = (11+14)/2 = 12,5.
 4. a) Q1 = 146 y Q3 = 158. Q1 es la mediana de la primera mitad (144 + 148)/2 = 146 y Q3 la de la segunda (156 + 160)/2 = 158.

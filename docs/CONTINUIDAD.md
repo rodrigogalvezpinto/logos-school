@@ -153,8 +153,8 @@ técnica, económica y social.»). C.4 solo detectaba las que repiten la clave. 
 (la explicación, sin el «x) clave.» inicial, no comparte raíces con la clave), con muchos falsos positivos. Método: igual que
 C.4b (detector + `REVISADAS_A_MANO` + reescritura con verificación de que cambió la pregunta buscada); para reemplazar
 una explicación de prueba, `rehacer(..., solo_explicacion=True)` (ver README de herramientas). Cerrar con guarda en pytest.
-Detector: `backend/scripts/explicaciones_genericas.py [curso]` (258 candidatas al empezar). Hechos: 1.° a 6.° básico
-(8 reescritas, 55 revisadas). Siguiente: 7.° básico.
+Detector: `backend/scripts/explicaciones_genericas.py [curso]` (258 candidatas al empezar). Hechos: 1.° a 8.° básico
+(9 reescritas, 108 revisadas). Siguiente: 1.° medio.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
