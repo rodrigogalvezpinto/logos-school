@@ -94,9 +94,9 @@ d) Porque contaban con todos los servicios básicos desde su fundación
 
 **9. (Alternativas)** ¿Qué relación hubo entre la industrialización por sustitución de importaciones (ISI) y el crecimiento de las ciudades chilenas a mediados del siglo XX?
 
-a) La ISI cerró las fábricas y la gente volvió al campo
+a) La ISI cerró las fábricas de las ciudades y la gente volvió al campo a trabajar la tierra, por lo que las ciudades se achicaron
 b) Las nuevas industrias atrajeron trabajadores a las ciudades, que crecieron rápidamente y muchas veces sin planificación
-c) La ISI prohibió la migración a las ciudades
+c) La ISI prohibió la migración a las ciudades para proteger la producción agrícola del país
 d) No hubo ninguna relación
 
 ---
@@ -123,8 +123,8 @@ por completo con el retorno de la democracia en 1990.
 
 **12. (Alternativas — desafiante)** ¿Por qué los programas de vivienda social que construyeron en la periferia de las ciudades pueden haber reforzado la segregación urbana?
 
-a) Porque se construyeron en el centro de la ciudad
-b) Porque eliminaron todas las diferencias entre barrios
+a) Porque se construyeron en el centro de la ciudad, junto a los barrios de mayores ingresos, lo que encareció los terrenos de todos los sectores
+b) Porque eliminaron todas las diferencias entre barrios al ubicar a familias de distintos ingresos en un mismo sector de la ciudad
 c) Porque concentraron a familias de bajos ingresos lejos de los servicios y del trabajo, consolidando la distancia entre sectores de la ciudad
 d) Porque no se construyó ninguna vivienda social
 

@@ -126,8 +126,8 @@ d) Resta 4 y divide por 2: f⁻¹(x) = (x − 4)/2
 **Pregunta 13.** (Alternativas — restricción de dominio)
 ¿Por qué f(x) = (x − 1)², con dominio en todos los reales, no tiene una inversa que sea función, y cómo se resuelve?
 
-a) Porque su recorrido incluye números negativos; se agrega el cero al recorrido
-b) Porque es una función lineal; se eleva al cubo para que crezca
+a) Porque su recorrido incluye números negativos; se agrega el cero al recorrido y así f⁻¹(x) = √(x − 1) queda definida
+b) Porque es una función lineal; se eleva al cubo para que crezca más rápido y así su inversa queda definida en todos los reales
 c) Porque no es inyectiva (f(0) = f(2) = 1); se restringe el dominio, por ejemplo a x ≥ 1, y entonces f⁻¹(x) = √x + 1
 d) Sí tiene inversa en todos los reales: f⁻¹(x) = √x + 1
 

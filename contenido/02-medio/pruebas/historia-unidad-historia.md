@@ -32,10 +32,10 @@ d) El New Deal
 
 **2. (Alternativas)** ¿Qué organización se creó en 1945 con el objetivo de mantener la paz y la seguridad internacionales?
 
-a) La Sociedad de las Naciones
-b) El Pacto de Varsovia
+a) La Sociedad de las Naciones, creada en 1919
+b) El Pacto de Varsovia (1955)
 c) La Organización de las Naciones Unidas (ONU)
-d) La OTAN
+d) La OTAN, alianza militar (1949)
 
 ---
 
@@ -55,9 +55,9 @@ d) 1990
 
 **5. (Alternativas)** ¿Qué fue la crisis de los misiles de 1962?
 
-a) Una guerra directa entre Estados Unidos y la URSS
+a) Una guerra directa entre Estados Unidos y la URSS que se libró en Cuba y terminó con la derrota de los soviéticos y la caída de Fidel Castro
 b) Un momento de máxima tensión entre Estados Unidos y la URSS por misiles soviéticos instalados en Cuba, que se resolvió sin enfrentamiento militar directo
-c) Un conflicto entre Chile y Argentina
+c) Un conflicto entre Chile y Argentina por la instalación de misiles en la frontera de la Patagonia
 d) La caída del Muro de Berlín
 
 ---
@@ -100,8 +100,8 @@ d) La caída del Muro de Berlín
 
 **10. (Alternativas)** Dos historiadores estudian la crisis de la democracia chilena de comienzos de los años setenta: uno pone el foco en la polarización política y otro en el contexto de la Guerra Fría. ¿Qué muestra esta diferencia sobre las interpretaciones historiográficas?
 
-a) Que solo una de ellas puede ser correcta y la otra es inventada
-b) Que son opiniones personales, sin base en fuentes, que no pueden discutirse
+a) Que solo una de ellas puede ser correcta y la otra es inventada, porque los hechos históricos admiten una sola explicación verdadera
+b) Que son opiniones personales, sin base en fuentes, que no pueden discutirse ni compararse, porque cada historiador escribe lo que cree
 c) Que cada interpretación es una lectura del proceso basada en evidencia, que prioriza ciertos factores y puede contrastarse con otras
 d) Que la historia es un relato de ficción que cada autor escribe a su gusto
 
@@ -109,10 +109,10 @@ d) Que la historia es un relato de ficción que cada autor escribe a su gusto
 
 **11. (Alternativas)** ¿Qué comisión, creada en 1990, investigó las violaciones a los derechos humanos con resultado de muerte o desaparición ocurridas durante la dictadura?
 
-a) La Junta Militar
+a) La Junta Militar de Gobierno
 b) La Comisión Nacional de Verdad y Reconciliación (Comisión Rettig)
-c) La DINA
-d) La Alianza para el Progreso
+c) La DINA, policía secreta
+d) La Alianza para el Progreso, programa impulsado por Estados Unidos
 
 ---
 

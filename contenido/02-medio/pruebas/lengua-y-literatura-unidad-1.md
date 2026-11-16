@@ -38,17 +38,17 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 **1. (Alternativas)** ¿Cuál es el conflicto que impulsa la historia de la narradora en el presente del relato?
 
-a) La rivalidad entre la narradora y su abuela por quedarse con las cartas
-b) La decisión de la narradora de mudarse al norte para trabajar
+a) La rivalidad entre la narradora y su abuela por quedarse con las cartas que Tomás escribió desde el norte
+b) La decisión de la narradora de mudarse al norte para trabajar en la misma oficina salitrera que su tío
 c) El deseo de la narradora de conocer la verdad sobre el tío Tomás, frente al silencio de su familia
 d) Una pelea entre Tomás y sus compañeros por el sueldo
 
 **2. (Alternativas)** ¿Qué contradicción aparente hay en la carta de Tomás?
 
 a) Dice que "todo está bien", pero menciona una tos que no lo deja dormir y el polvo que se mete en todo, lo que revela una preocupación que intenta ocultar
-b) Dice que está enfermo, pero luego cuenta que se sanó por completo
+b) Dice que está enfermo y que no puede trabajar, pero luego cuenta que se sanó por completo y que ya no tose, lo que muestra que exageraba
 c) No hay ninguna contradicción: todo lo que cuenta es positivo
-d) Dice que odia a sus compañeros, pero después los invita a Navidad
+d) Dice que odia a sus compañeros de la oficina, pero después los invita a pasar la Navidad con su familia, lo que muestra que cambió de opinión
 
 **3. (Verdadero o Falso)** El fragmento está narrado por un narrador omnisciente en tercera persona, que conoce y revela desde el inicio lo que le ocurrió a Tomás.
 
@@ -61,9 +61,9 @@ d) Caja china
 
 **5. (Alternativas)** ¿Qué indicio de la carta anticipa lo que probablemente le ocurrió a Tomás?
 
-a) La fecha de la carta, que indica el mes en que fue escrita
+a) La fecha de la carta, que indica el mes en que fue escrita y cuánto tiempo llevaba en el norte
 b) La mención del sueldo, que alcanza para vivir
-c) El saludo "Querida Nena", que muestra cariño por su hermana
+c) El saludo "Querida Nena", que muestra el cariño que siente por su hermana menor y su familia
 d) "Esta tos que no me deja dormir, y el polvo que se mete en todo", que sugiere una enfermedad pulmonar
 
 ---
@@ -93,31 +93,31 @@ d) "Esta tos que no me deja dormir, y el polvo que se mete en todo", que sugiere
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "La campanita del almacén"?
 
-a) La rivalidad entre don Hernán y la señora Rosa por una deuda
-b) La decisión de Carla de mudarse a otra ciudad
+a) La rivalidad entre don Hernán y la señora Rosa por una deuda antigua que nunca se pagó en el cuaderno de fiados del almacén
+b) La decisión de Carla de mudarse a otra ciudad para estudiar, aunque su padre no está de acuerdo con su viaje
 c) La tensión entre cerrar el almacén por la salud de don Hernán y mantenerlo como parte de su historia y de la vida del barrio
 d) Una disputa legal por la propiedad del almacén
 
 **7. (Alternativas)** ¿Qué problema humano más amplio plantea la obra, más allá de cerrar el almacén?
 
 a) La dificultad de soltar un lugar y un oficio cuando están ligados a la identidad, la memoria y los vínculos, aun ante necesidades como la salud
-b) El precio de los productos en los almacenes de barrio
+b) El precio de los productos en los almacenes de barrio, que suben más rápido que en los supermercados de las grandes ciudades del país
 c) La falta de clientes en los supermercados
-d) La forma correcta de llevar un cuaderno de cuentas
+d) La forma correcta de llevar un cuaderno de cuentas en un almacén, para no perder dinero con los fiados de los vecinos
 
 **8. (Verdadero o Falso)** La atmósfera de esta escena se construye únicamente a través del diálogo entre don Hernán y Carla, sin aporte de otros elementos.
 
 **9. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria y de los vínculos en la escena?
 
-a) La lluvia
+a) La lluvia que cae sobre el techo
 b) La campanita y el cuaderno de los fiados
-c) El techo de zinc
-d) El consejo del doctor
+c) El techo de zinc del almacén
+d) El consejo del doctor a don Hernán
 
 **10. (Alternativas)** ¿Cómo cambia la relación entre don Hernán y Carla a lo largo del fragmento?
 
-a) De una relación tranquila a un quiebre definitivo, cuando Carla se va del almacén
-b) No cambia: discuten con la misma dureza de principio a fin
+a) De una relación tranquila y alegre a un quiebre definitivo, cuando Carla se va del almacén enojada y anuncia que nunca volverá a ayudar a su padre en el negocio
+b) No cambia: discuten con la misma dureza de principio a fin, sin escucharse, y el fragmento termina con ambos sin hablarse frente a los clientes del barrio
 c) De una tensión entre lo práctico (Carla) y la resistencia silenciosa (don Hernán) a un tono más suave de cuidado mutuo, cuando Carla propone visitar juntos a la señora Rosa
 d) Don Hernán termina echando a Carla del almacén
 
@@ -143,24 +143,24 @@ d) El We Tripantu, año nuevo mapuche
 **12. (Alternativas)** ¿Cómo influye la fiesta de Cuasimodo en la forma en que el relato representa la fe y el servicio a los demás?
 
 a) La costumbre une la fe con el cuidado de los enfermos, y el relato la presenta como un vínculo vivo con el campo de origen, incluso en la gran ciudad
-b) Presenta la fiesta como un simple desfile sin ningún sentido religioso ni social
+b) Presenta la fiesta como un simple desfile de huasos sin ningún sentido religioso ni social, que la familia mira desde lejos solo por costumbre
 c) Afirma que la fiesta solo puede celebrarse en el campo
-d) No tiene relación con el relato: la fiesta es solo un dato de la fecha
+d) No tiene relación con el relato: la fiesta es solo un dato para indicar la fecha en que ocurre la historia, y el abuelo no participa en ella
 
 **13. (Verdadero o Falso)** Según el texto, el abuelo abandonó la costumbre de Cuasimodo al llegar a Santiago, porque en la ciudad ya no tenía sentido.
 
 **14. (Alternativas)** ¿Con qué proceso del contexto histórico chileno del siglo XX se relaciona directamente el microcuento?
 
-a) La Guerra del Pacífico
+a) La Guerra del Pacífico (1879-1884)
 b) La migración desde el campo hacia las grandes ciudades
-c) La llegada de la televisión a color
-d) La creación de las regiones de Chile
+c) La llegada de la televisión a color a Chile
+d) La creación de las regiones de Chile en los años setenta
 
 **15. (Alternativas)** ¿Cómo se manifiesta la visión de mundo campesina en las acciones del abuelo Juan?
 
-a) En negarse a recordar su vida en el campo
+a) En negarse a recordar su vida en el campo y prohibir que en su casa se hable del fundo donde creció
 b) En volver a vivir al fundo cada año
-c) En prohibir que su familia participe en la fiesta
+c) En prohibir que su familia participe en la fiesta, porque piensa que en la ciudad ya no tiene sentido mantener esas costumbres
 d) En levantarse cada año de madrugada, vestirse de huaso y acompañar la comunión a los enfermos, pese a vivir en la ciudad
 
 ---

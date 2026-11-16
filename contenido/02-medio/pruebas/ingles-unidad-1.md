@@ -23,10 +23,10 @@ no solo el significado de palabras sueltas.
 ---
 
 1. *(Alternativas)* Read: *"In 2019, a group of Chilean students designed a filter that removes microplastics from washing machine water. Their invention won a national science prize."* ¿Qué información es explícita en el texto?
-   a) The students are professional engineers.
-   b) The filter was designed in 2009.
+   a) The students are professional engineers who work for a company that sells water filters.
+   b) The filter was designed in 2009 and won an international prize.
    c) Chilean students designed a filter for microplastics that won a national science prize.
-   d) The invention failed and was never used.
+   d) The invention failed and was never used in any river or lake.
 2. *(Alternativas — Completar)* Complete: *"This text is ___ the benefits of sleeping well. It explains ___ sleep helps the brain store memories."*
 
 a) about / how
@@ -51,17 +51,17 @@ c) Argentine / 1917 / painted 'Gracias a la vida'
 d) Chilean / 1917 / composed the song 'Gracias a la vida'
 
 6. *(Alternativas — desafiante)* Read a text about glaciers that includes unfamiliar vocabulary (*meltwater, ice sheet*). ¿Qué estrategia es más útil para entender el texto sin traducir cada palabra?
-   a) Buscar cada palabra en el diccionario antes de seguir leyendo.
-   b) Dejar de leer al encontrar la primera palabra difícil.
+   a) Buscar cada palabra en el diccionario antes de seguir leyendo la oración siguiente del texto.
+   b) Dejar de leer al encontrar la primera palabra difícil y pedir al profesor que la traduzca.
    c) Usar el contexto y las palabras conocidas para inferir el sentido general antes de usar el diccionario.
    d) Memorizar el texto sin comprenderlo.
 
 7. *(Alternativas — Resumir — desafiante)* Read: *"Online shopping has grown quickly in recent years. People can buy almost anything from home. However, the increase in deliveries has created more packaging waste."* Which is the best summary?
 
 a) People go to shops every day and never buy online.
-b) Online shopping reduces packaging waste because products come without boxes.
+b) Online shopping reduces packaging waste, because products come without boxes and are delivered by bike.
 c) Online shopping has grown because it is convenient, but it has also increased packaging waste.
-d) Delivery workers prefer to walk instead of driving.
+d) Delivery workers prefer to walk instead of driving, so online shopping is slower than going to shops.
 
 8. *(Alternativas)* Read: *"Save energy! Unplug your charger when you are not using it and use natural light during the day."* ¿Cuál es el propósito de este texto?
    a) To persuade/instruct
@@ -92,9 +92,9 @@ c) inregular
 d) disregular
 
 13. *(Alternativas — desafiante)* Read: *"Both the students and the teachers agreed to plant trees in the schoolyard."* ¿Qué indica esta oración?
-    a) Que ninguno de los dos grupos estuvo de acuerdo.
+    a) Que ninguno de los dos grupos estuvo de acuerdo con plantar árboles.
     b) Que los dos grupos, estudiantes y profesores, estuvieron de acuerdo.
-    c) Que solo los estudiantes estuvieron de acuerdo.
+    c) Que solo los estudiantes estuvieron de acuerdo, no los profesores.
     d) Que el colegio no tiene patio.
 
 14. *(Alternativas — desafiante)* Read: *"...as soon as the rain stops, the workers will continue building the bridge."* ¿Qué relación establece *"as soon as"*?

@@ -93,10 +93,10 @@ d) 1: tercera; 2: segunda; 3: primera
 **Pregunta 9.** (Alternativas)
 Cuando una micro frena de golpe, los pasajeros de pie se van hacia adelante. ¿Qué lo explica?
 
-a) La micro los empuja hacia adelante
+a) La micro los empuja hacia adelante con el asiento al frenar de golpe
 b) La gravedad desaparece al frenar
 c) Por inercia, sus cuerpos tienden a seguir moviéndose, aunque la micro se detenga
-d) El roce del piso los lanza hacia adelante
+d) El roce del piso los lanza hacia adelante cuando las ruedas de la micro se detienen
 
 **Pregunta 10.** (Alternativas — Cálculo)
 Un objeto de 4 kg recibe una fuerza horizontal de 20 N y un roce de 8 N en sentido contrario. ¿Cuáles son la fuerza neta y la aceleración?
@@ -132,10 +132,10 @@ d) Ptolomeo, Kepler, Galileo y Newton
 **Pregunta 14.** (Alternativas — Análisis de evidencia)
 ¿Qué es la radiación de fondo de microondas y por qué apoya la teoría del Big Bang?
 
-a) Es la luz del Sol reflejada en la Luna; muestra que el universo no cambia
+a) Es la luz del Sol reflejada en la Luna y en los planetas; muestra que el universo no ha cambiado desde su origen
 b) Es un "eco" de radiación que llena todo el universo, resto del estado caliente y denso inicial que predice el Big Bang
 c) Es el calor de los hornos microondas de la Tierra
-d) Es la luz de las estrellas más cercanas; demuestra que el universo es pequeño
+d) Es la luz de las estrellas más cercanas a la Tierra; demuestra que el universo es pequeño y no se está expandiendo
 
 ---
 

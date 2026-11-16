@@ -118,9 +118,9 @@ d) La mitosis es exclusiva de las células que producen gametos, y no ocurre en 
 
 **9.** *(Alternativas, 2 puntos)* Dos hermanos, hijos de los mismos padres, no son genéticamente idénticos (salvo los gemelos idénticos). ¿Qué proceso explica principalmente esa diferencia?
 
-a) La mitosis, que copia el material genético sin cambios
+a) La mitosis, que copia el material genético sin cambios en cada célula del cuerpo
 b) La digestión, que modifica los genes según los alimentos
-c) El crecimiento, que cambia los genes a medida que el cuerpo se desarrolla
+c) El crecimiento, que cambia los genes de cada célula a medida que el cuerpo se desarrolla
 d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos
 
 ---
@@ -130,9 +130,9 @@ d) La meiosis, en la que la permutación y la segregación de cromosomas generan
 **10.** *(Alternativas)* Un científico inserta en una bacteria el gen humano de la insulina, y la bacteria comienza a producirla. ¿Cómo se clasifica esa bacteria?
 
 a) Como un organismo transgénico, porque recibió un gen de otra especie
-b) Como un clon de una célula humana
-c) Como un organismo con una mutación espontánea
-d) Como un virus, porque produce una sustancia humana
+b) Como un clon de una célula humana que produce insulina
+c) Como un organismo con una mutación espontánea en su ADN
+d) Como un virus, porque produce una sustancia propia del cuerpo humano
 
 **11.** *(Varias correctas, 2 puntos)* Un salmón modificado genéticamente crece el doble de rápido que uno común. ¿Qué afirmaciones corresponden a una evaluación responsable de su uso? Marca **todas** las correctas.
 
@@ -217,8 +217,8 @@ d) Isaac Newton
 
 **19.** *(Alternativas, 2 puntos)* Durante siglos se pensó que las enfermedades se originaban por «malos aires». Con el microscopio y los experimentos de Pasteur se aceptó la teoría de los microorganismos. ¿Qué muestra este cambio sobre el conocimiento científico?
 
-a) Que la ciencia nunca cambia sus explicaciones
-b) Que las teorías se aceptan por la fama de quien las propone
+a) Que la ciencia nunca cambia sus explicaciones, porque se basa en verdades absolutas
+b) Que las teorías se aceptan por la fama de quien las propone y no por la evidencia
 c) Que las ideas antiguas eran siempre correctas
 d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice
 
@@ -230,10 +230,10 @@ d) Que las explicaciones científicas cambian cuando surge nueva evidencia que l
 
 **20.** *(Alternativas)* Al preparar suero oral, se disuelve una pequeña cantidad de sal en un litro de agua. ¿Cuál es el soluto?
 
-a) El agua, porque es el componente que disuelve
+a) El agua, porque es el componente que disuelve a la sal
 b) La sal, porque está en menor cantidad y se disuelve en el agua
 c) El vaso, porque contiene la mezcla
-d) Ninguno, porque es una mezcla heterogénea
+d) Ninguno, porque es una mezcla heterogénea de agua y sal de mesa
 
 **21.** *(Alternativas)* El bronce es una mezcla homogénea de cobre y estaño. ¿A qué
 tipo de solución, según su estado físico, corresponde el bronce?

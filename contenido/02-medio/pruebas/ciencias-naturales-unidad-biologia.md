@@ -56,9 +56,9 @@ d) 1: sensorial; 2: interneurona; 3: motora
 **Pregunta 4.** (Alternativas — Evaluación)
 "Usar el celular en la cama hasta la madrugada no afecta el rendimiento escolar, porque el cerebro se acostumbra." ¿Qué evaluación es correcta?
 
-a) Es correcta: el cerebro no necesita dormir si está entretenido
+a) Es correcta: el cerebro no necesita dormir si está entretenido, porque la actividad con el celular reemplaza el descanso de la noche
 b) Es correcta: la luz de las pantallas mejora la memoria
-c) Es incorrecta: el celular no tiene ningún efecto en el cuerpo
+c) Es incorrecta: el celular no tiene ningún efecto en el cuerpo, pero el cerebro sí necesita dormir al menos doce horas cada noche
 d) Es incorrecta: la falta de sueño y la luz de las pantallas alteran el descanso, lo que afecta la atención, la memoria y el ánimo
 
 ---
@@ -102,18 +102,18 @@ Una célula humana del cuerpo (no sexual) tiene 46 cromosomas, y un gameto human
 **Pregunta 10.** (Alternativas — Clasificar)
 ¿Qué alteración cromosómica corresponde al síndrome de Down?
 
-a) Falta un cromosoma X
+a) Falta un cromosoma X en las células
 b) Hay tres copias del cromosoma 21 (trisomía 21)
-c) Falta el cromosoma 21
-d) Hay un cromosoma Y extra
+c) Falta el cromosoma 21 en todas las células
+d) Hay un cromosoma Y extra en cada célula
 
 **Pregunta 11.** (Alternativas — Comparación)
 Una célula de la piel con 46 cromosomas se divide por mitosis. ¿Cuántas células se forman y cuántos cromosomas tiene cada una?
 
-a) Cuatro células con 23 cromosomas cada una
+a) Cuatro células con 23 cromosomas cada una, distintas a la original
 b) Dos células con 23 cromosomas cada una
 c) Dos células con 46 cromosomas cada una, idénticas a la original
-d) Cuatro células con 46 cromosomas cada una
+d) Cuatro células con 46 cromosomas cada una, iguales entre sí
 
 ---
 
@@ -122,10 +122,10 @@ d) Cuatro células con 46 cromosomas cada una
 **Pregunta 12.**
 ¿Qué es la clonación de un organismo?
 
-a) Insertar genes de otra especie
+a) Insertar genes de otra especie en una bacteria
 b) Obtener un organismo genéticamente idéntico a otro
-c) Cruzar dos especies distintas
-d) Producir una mutación al azar
+c) Cruzar dos especies distintas para obtener una nueva
+d) Producir una mutación al azar en un organismo
 
 **Pregunta 13.** (Alternativas — Clasificar)
 ¿A qué ámbito pertenece cada aplicación biotecnológica: vacunas producidas con ingeniería genética; levaduras modificadas para fabricar pan y cerveza; bacterias que limpian derrames de petróleo; maíz resistente a la sequía?
@@ -138,8 +138,8 @@ d) Medio ambiente, agricultura, industria y medicina
 **Pregunta 14.** (Alternativas — Evaluación ética)
 "Si una prueba genética puede predecir enfermedades, las empresas deberían poder exigirla para contratar personas." ¿Qué evaluación es correcta?
 
-a) Es correcta: las empresas deben conocer toda la información de las personas
-b) Es correcta: la ética no se aplica a la genética
+a) Es correcta: las empresas deben conocer toda la información genética de las personas para elegir a los trabajadores más sanos
+b) Es correcta: la ética no se aplica a la genética, porque los genes son un dato científico y no una opinión sobre las personas
 c) Es incorrecta: las pruebas genéticas no existen
 d) Es incorrecta: usar información genética para contratar puede discriminar a las personas y vulnerar su privacidad
 

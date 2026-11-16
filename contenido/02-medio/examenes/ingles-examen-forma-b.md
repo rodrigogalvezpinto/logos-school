@@ -147,8 +147,8 @@ d) By
 
 **14.** *(Selección múltiple)* ¿Qué oración expresa una opinión justificada sobre la contaminación de los océanos?
 
-a) The ocean is very big and has many fish.
-b) My family goes to the beach every summer.
+a) The ocean is very big and has many fish, whales and other animals that live in it.
+b) My family goes to the beach every summer, and we always swim in the ocean near Viña del Mar.
 c) I think we should ban single-use plastics, because they end up in the ocean and harm marine life.
 d) There are many beaches in the north of Chile.
 

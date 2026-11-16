@@ -24,10 +24,10 @@ una opción. Si una pregunta dice «marca todas las correctas», puede haber má
 
 **1. (Alternativas)** ¿Qué característica de los Derechos Humanos establece que una persona no puede renunciar a ellos, ni siquiera de forma voluntaria?
 
-a) Universalidad
-b) Progresividad
+a) Universalidad (para todas las personas)
+b) Progresividad (avanzan con el tiempo)
 c) Irrenunciabilidad (inalienabilidad)
-d) Imprescriptibilidad
+d) Imprescriptibilidad (no caducan)
 
 ---
 
@@ -52,8 +52,8 @@ d) 1-B, 2-A, 3-C
 
 **4. (Alternativas — análisis de caso)** Una persona acude a la Corte Interamericana de Derechos Humanos después de no obtener justicia en los tribunales de su país. ¿Qué característica de este sistema ilustra el caso?
 
-a) Que la Corte reemplaza a todos los tribunales nacionales
-b) Que la Corte solo atiende casos de otros continentes
+a) Que la Corte reemplaza a todos los tribunales nacionales y puede revisar cualquier juicio desde su inicio, sin esperar a la justicia chilena
+b) Que la Corte solo atiende casos de otros continentes, y Chile recurre a ella solo cuando no tiene tribunales propios
 c) Que los tribunales nacionales no existen
 d) Que el sistema interamericano es complementario: actúa cuando los mecanismos nacionales no protegen adecuadamente los derechos
 
@@ -61,9 +61,9 @@ d) Que el sistema interamericano es complementario: actúa cuando los mecanismos
 
 **5. (Alternativas — desafiante)** ¿Por qué existen leyes especiales para proteger los derechos de las personas con discapacidad, si los Derechos Humanos ya son universales?
 
-a) Porque las personas con discapacidad tienen más derechos que el resto
+a) Porque las personas con discapacidad tienen más derechos que el resto de la población, y por eso necesitan leyes propias que los reconozcan
 b) Porque los Derechos Humanos no se aplican a ellas
-c) Porque así se les quitan derechos a otras personas
+c) Porque así se les quitan derechos a otras personas para entregárselos a quienes tienen discapacidad, equilibrando la sociedad
 d) Porque no se les otorgan derechos distintos, sino condiciones para ejercer en igualdad real los mismos derechos universales
 
 ---
@@ -99,9 +99,9 @@ d) 1-C, 2-A, 3-B
 **9. (Alternativas — análisis de caso)** Una arrendadora se niega a arrendar un departamento a una familia solo porque es de un pueblo originario, aunque cumple todos los requisitos de pago. ¿Qué concepto describe la situación?
 
 a) Discriminación arbitraria por origen étnico
-b) Un requisito técnico justificado
-c) Libertad de expresión
-d) Igualdad ante la ley
+b) Un requisito técnico justificado del arriendo
+c) Libertad de expresión de la arrendadora
+d) Igualdad ante la ley entre las partes
 
 ---
 

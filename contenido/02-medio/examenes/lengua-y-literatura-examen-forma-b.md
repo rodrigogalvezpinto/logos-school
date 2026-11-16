@@ -246,10 +246,10 @@ d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un 
 
 **22. (Alternativas)** Un estudiante escribe un ensayo persuasivo con la hipótesis «Las ciclovías mejoran la calidad de vida en las ciudades». ¿Qué recurso incorpora variedad sin perder la coherencia temática?
 
-a) Una receta de completos, para hacer el texto más entretenido
+a) Una receta de completos y sopaipillas, para hacer el texto más entretenido y cercano al lector
 b) Un dato sobre la reducción de accidentes y emisiones en ciudades que construyeron ciclovías
 c) La biografía de un futbolista famoso
-d) Una lista de marcas de bicicletas con sus precios
+d) Una lista de marcas de bicicletas con sus precios y las tiendas donde se venden
 
 **23. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia a los subsidios de fomento agrícola sustentable?
 

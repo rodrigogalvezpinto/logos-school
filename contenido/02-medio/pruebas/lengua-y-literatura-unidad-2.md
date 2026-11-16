@@ -36,8 +36,8 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 **1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna?
 
-a) Los celulares deben prohibirse por ley a todas las personas
-b) Las aplicaciones educativas son la mejor forma de aprender
+a) Los celulares deben prohibirse por ley a todas las personas, sin importar su edad, porque dañan la salud y la convivencia de las familias
+b) Las aplicaciones educativas son la mejor forma de aprender, por lo que los niños deberían usar pantallas desde muy pequeños y sin límites de tiempo
 c) Los adultos exageran el problema de las pantallas
 d) El uso temprano y sin límites de pantallas perjudica el desarrollo de los niños, por lo que las familias deberían acordar tiempos y espacios sin ellas
 
@@ -46,15 +46,15 @@ d) El uso temprano y sin límites de pantallas perjudica el desarrollo de los ni
 **3. (Alternativas)** ¿Qué falla de argumentación hay en el segundo párrafo, que pasa de no saber esperar sin una pantalla a ser un adulto incapaz de conversar?
 
 a) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia que las sustente
-b) Un argumento de autoridad bien fundamentado
-c) Una analogía válida
-d) No hay ninguna falla
+b) Un argumento de autoridad bien fundamentado en estudios
+c) Una analogía válida entre dos situaciones similares
+d) No hay ninguna falla: la cadena de consecuencias está probada por los estudios que cita la columna
 
 **4. (Alternativas — Aplicación)** ¿Qué recurso emocional usa el autor al llamar "cómplices" a quienes entregan un celular a un niño pequeño, y qué busca?
 
-a) Usa un dato estadístico para informar objetivamente
+a) Usa un dato estadístico para informar objetivamente sobre el uso de celulares en niños pequeños
 b) Usa el humor para relajar al lector
-c) Cita a un experto para dar autoridad a su postura
+c) Cita a un experto en desarrollo infantil para dar autoridad a su postura frente a los padres
 d) Apela a la culpa, atribuyendo responsabilidad moral para generar alarma o remordimiento en el lector
 
 **5. (Alternativas)** ¿Qué figura retórica hay en la expresión "una pantalla puede estar robándole la infancia a todo un país"?
@@ -76,32 +76,32 @@ d) Enumeración
 
 **6. (Alternativas)** ¿Qué evidencia entrega el Texto B que el Texto A no menciona?
 
-a) El número del recorrido que cambia
-b) El día en que comienza el cambio
-c) El nombre de la empresa de buses
+a) El número del recorrido que cambia y el horario de los buses
+b) El día en que comienza el cambio y cuánto durará
+c) El nombre de la empresa de buses, su número de teléfono de reclamos y el horario de atención
 d) Que el nuevo paradero está a nueve cuadras en subida y que afecta a adultos mayores del sector
 
 **7. (Verdadero o Falso)** La expresión del Texto A "Invitamos a los vecinos del sector a usar el paradero..." tiene el mismo tono autoritario y directo que una orden estricta.
 
 **8. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
-a) Ambos textos usan solo palabras
-b) Las fotos del Texto A muestran desorden; la infografía del Texto B transmite eficiencia
+a) Ambos textos usan solo palabras, sin ningún recurso visual, así que dependen únicamente de sus argumentos para convencer a los vecinos
+b) Las fotos del Texto A muestran desorden y descontrol en el paradero; la infografía del Texto B transmite eficiencia y control técnico del recorrido
 c) La infografía verde con mapa del Texto A transmite orden y eficiencia; las fotos con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar
 d) Las imágenes son decorativas y no influyen en la interpretación
 
 **9. (Alternativas — Aplicación)** ¿Por qué es relevante que el Texto A diga "a pocas cuadras" sin precisar la distancia ni la pendiente?
 
-a) Porque la distancia no le importa a nadie
-b) Porque el Texto A sí precisa la distancia exacta
+a) Porque la distancia no le importa a nadie, ya que todos los vecinos tienen auto para llegar al paradero nuevo
+b) Porque el Texto A sí precisa la distancia exacta en metros, y el Texto B es el que la omite para exagerar
 c) Porque oculta una dificultad real para ciertos usuarios y favorece la imagen de mejora que busca el comunicado
 d) Porque los buses nunca cambian sus recorridos
 
 **10. (Alternativas)** ¿Qué muestra principalmente la comparación entre el Texto A y el Texto B?
 
-a) Que la empresa miente completamente sobre el cambio de recorrido
+a) Que la empresa miente completamente sobre el cambio de recorrido, porque las fotos de los vecinos demuestran que el paradero nuevo no existe y que el comunicado inventó la mejora
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las publicaciones vecinales siempre son más precisas
+c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales, porque las escriben quienes viven el problema todos los días y no tienen intereses que proteger
 d) Que los cambios de recorrido nunca están justificados
 
 ---
@@ -120,9 +120,9 @@ d) Que los cambios de recorrido nunca están justificados
 
 **11. (Alternativas)** ¿Cuál es la hipótesis principal del ensayo "¿Cambiar o conservar?"?
 
-a) La tradición y el cambio son opuestos y siempre hay que elegir uno
+a) La tradición y el cambio son opuestos y siempre hay que elegir uno de los dos, sin posibilidad de combinarlos
 b) La tradición y el cambio pueden convivir si se decide con conciencia qué conservar y qué transformar
-c) Ningún almacén de barrio debería cerrar jamás
+c) Ningún almacén de barrio debería cerrar jamás, aunque su dueño esté enfermo o no tenga clientes
 d) Las tradiciones desaparecen inevitablemente
 
 **12. (Verdadero o Falso)** En el ensayo modelo, el contraargumento sobre las razones económicas o de salud se ignora por completo, sin ser mencionado ni respondido.
@@ -130,22 +130,22 @@ d) Las tradiciones desaparecen inevitablemente
 **13. (Alternativas)** ¿Qué función cumple en el ensayo la referencia a los programas públicos de apoyo a los almacenes de barrio?
 
 a) Es evidencia no literaria que muestra caminos intermedios reales entre conservar y cambiar, reforzando la hipótesis
-b) Es un dato decorativo sin relación con la hipótesis
-c) Contradice la hipótesis del ensayo
+b) Es un dato decorativo sin relación con la hipótesis, que el autor agrega solo para que el ensayo parezca más informado
+c) Contradice la hipótesis del ensayo, porque muestra que el Estado obliga a cerrar los almacenes de barrio
 d) Sirve para resumir la obra teatral
 
 **14. (Alternativas — Aplicación)** ¿Por qué la cita de Carla ("No te pido que dejes el barrio, papá. Te pido que te cuides") sustenta la hipótesis del ensayo?
 
-a) Porque demuestra que hay que cerrar todos los almacenes
-b) Porque prueba que los vínculos no tienen ningún valor
+a) Porque demuestra que hay que cerrar todos los almacenes de barrio cuando sus dueños envejecen, sin importar lo que signifiquen
+b) Porque prueba que los vínculos con el lugar no tienen ningún valor frente a la salud, y que lo único importante es cuidarse
 c) Porque es una cita decorativa
 d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar los vínculos que daban sentido al lugar
 
 **15. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a incorporar recursos variados en un ensayo persuasivo, sin perder la coherencia temática?
 
-a) Insertar una anécdota sin relación con la hipótesis, solo para entretener
+a) Insertar una anécdota sin relación con la hipótesis, solo para entretener al lector y que el ensayo sea más largo y ameno
 b) Incluir una anécdota, cita o dato que refuerce directamente la hipótesis y se conecte con el resto del argumento
-c) Agregar imágenes decorativas que no aportan información
+c) Agregar imágenes decorativas que no aportan información, pero hacen que el ensayo se vea más atractivo para el lector
 d) Usar únicamente citas literarias
 
 ---

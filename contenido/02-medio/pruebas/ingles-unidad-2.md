@@ -30,9 +30,9 @@ c) On
 d) For
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada sobre un problema global?
-   a) Plastic bags are made from petroleum.
+   a) Plastic bags are made from petroleum, and many supermarkets in Chile still sell them to customers.
    b) The supermarket is open until 10 p.m.
-   c) Many people go shopping on Saturdays.
+   c) Many people go shopping on Saturdays, so supermarkets need more cashiers and more bags on weekends.
    d) I'd rather use reusable bags than plastic ones, because plastic takes hundreds of years to break down.
 
 3. *(Alternativas — Completar)* Complete: *"Last Monday, in Science class, we ___ an experiment with plants. I ___ it really interesting."* (do / think, simple past)
@@ -46,23 +46,23 @@ d) did / thought
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One person I admire is ___. I believe ___ because ___."* logically?
 
-a) Gabriela Mistral / she was a great writer / I like ice cream
+a) Gabriela Mistral / she was a great writer / I like ice cream and my favorite flavor is chocolate
 b) because / Gabriela Mistral / she was a great teacher
 c) Gabriela Mistral / she was an inspiring writer and teacher / she won the Nobel Prize and worked for children's education
-d) a writer / Gabriela Mistral / she won the Nobel Prize
+d) a writer / Gabriela Mistral / she won the Nobel Prize in Literature and wrote many poems for children in Chile
 
 6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a city with many bicycles: *"This picture shows ___. In my opinion, ___ unless ___."*
 
-a) a city full of bicycles / this is terrible / it reduces pollution
-b) a traffic jam of cars / this is a great solution / people use bikes
+a) a city full of bicycles / this is terrible / it reduces pollution and traffic
+b) a traffic jam of cars / this is a great solution / people use bikes every day
 c) a city full of bicycles / this is a great solution / there are no safe bike lanes
 d) a city / unless / in my opinion bikes are great
 
 7. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste acerca de un científico chileno. ¿Qué oración resume mejor la información?
    a) The text I read was about a Chilean astronomer who discovered a new planet using telescopes in the Atacama Desert.
    b) Astronomer. Chile. Planet. Telescope. Desert.
-   c) Science is important for everybody in many countries.
-   d) I don't remember the text, but I think it was about space.
+   c) Science is important for everybody in many countries, and some scientists work in Chile with telescopes.
+   d) I don't remember the text very well, but I think it was about space, planets and some astronomers.
 
 8. *(Alternativas — Completar)* Complete: *"There is ___ milk in the fridge, so we need to buy more."*
 

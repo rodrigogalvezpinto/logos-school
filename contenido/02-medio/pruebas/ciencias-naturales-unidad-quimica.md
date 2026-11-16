@@ -54,9 +54,9 @@ d) Las tres son líquidas
 **Pregunta 4.** (Alternativas)
 Al agregar cucharadas de azúcar a un vaso de agua, llega un momento en que el azúcar ya no se disuelve y queda en el fondo. ¿Qué indica?
 
-a) Que la solución está diluida
-b) Que el agua se evaporó
-c) Que el azúcar se transformó en otra sustancia
+a) Que la solución está diluida, porque tiene más agua que azúcar
+b) Que el agua se evaporó y el azúcar quedó sin solvente
+c) Que el azúcar se transformó en otra sustancia distinta, que ya no se disuelve en el agua del vaso aunque se revuelva
 d) Que la solución está saturada: contiene la máxima cantidad de soluto que puede disolver a esa temperatura
 
 **Pregunta 5.** (Alternativas — Cálculo)
@@ -70,18 +70,18 @@ d) 5% m/m
 **Pregunta 6.** (Alternativas — Aplicación)
 ¿Por qué el agua con sal conduce la electricidad y el agua con azúcar casi no?
 
-a) Porque el azúcar es un metal
-b) Porque el agua con sal está más fría
+a) Porque el azúcar es un metal que bloquea el paso de la corriente
+b) Porque el agua con sal está más fría y el frío ayuda a que la corriente pase por el líquido
 c) Porque la sal se disocia en iones que transportan carga, mientras el azúcar se disuelve como moléculas sin carga
-d) Porque ninguna de las dos conduce electricidad
+d) Porque ninguna de las dos conduce electricidad: la diferencia se debe solo al color y al sabor de cada solución
 
 **Pregunta 7.** (Alternativas — Evaluación)
 "Si dejo evaporar parte del agua de una solución de sal, la cantidad de sal disuelta disminuye." ¿Qué evaluación es correcta?
 
 a) Es incorrecta: la cantidad de sal no cambia; lo que aumenta es su concentración
-b) Es correcta: la sal se evapora junto con el agua
+b) Es correcta: la sal se evapora junto con el agua cuando el sol calienta la laguna
 c) Es correcta: la concentración disminuye
-d) Es incorrecta: la sal se transforma en agua
+d) Es incorrecta: la sal se transforma en agua y por eso la laguna no se seca
 
 ---
 
@@ -109,33 +109,33 @@ d) Alcanos: butano y etano. Alqueno: propeno. Alquino: propino
 **Pregunta 11.** (Alternativas)
 ¿Qué información entrega la fórmula molecular del propano (C₃H₈)?
 
-a) La forma exacta en que se unen sus átomos
+a) La forma exacta en que se unen sus átomos de carbono
 b) El tipo y la cantidad de átomos que forman la molécula
-c) Su color y su olor
-d) Su temperatura de ebullición
+c) Su color, su olor y su estado físico
+d) Su temperatura de ebullición y de fusión
 
 **Pregunta 12.** (Alternativas — Análisis)
 ¿Qué biomoléculas de los seres vivos tienen al carbono como base?
 
-a) Solo el agua
-b) Solo las sales minerales
+a) Solo el agua y el oxígeno que respiramos
+b) Solo las sales minerales, como el calcio, el sodio y el hierro del cuerpo
 c) Los carbohidratos, los lípidos, las proteínas y los ácidos nucleicos
-d) Ninguna
+d) Ninguna, porque el carbono solo está en las rocas
 
 **Pregunta 13.** (Alternativas — Nomenclatura)
 Según la IUPAC, ¿cómo se elige la cadena principal de un hidrocarburo ramificado?
 
 a) Es la cadena continua de carbonos más larga, y da la base del nombre
-b) Es la ramificación más corta
-c) Es cualquier cadena, a elección
-d) Es la cadena con más átomos de hidrógeno
+b) Es la ramificación más corta, porque así el nombre queda más breve
+c) Es cualquier cadena de carbonos, a elección de quien nombra la molécula
+d) Es la cadena con más átomos de hidrógeno unidos a sus carbonos
 
 **Pregunta 14.** (Alternativas — Evaluación)
 ¿Por qué los plásticos derivados del petróleo generan un problema ambiental?
 
-a) Porque se disuelven en el agua de inmediato
+a) Porque se disuelven en el agua de inmediato y la vuelven tóxica para los peces y para las personas que la beben
 b) Porque no contienen carbono
-c) Porque se transforman en oxígeno al botarlos
+c) Porque se transforman en oxígeno al botarlos y alteran la composición del aire de las ciudades donde se acumulan cada año
 d) Porque sus largas cadenas de carbono son muy estables y tardan cientos de años en degradarse, acumulándose en suelos y océanos
 
 ---
