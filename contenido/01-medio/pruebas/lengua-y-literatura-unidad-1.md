@@ -39,9 +39,9 @@ Lee el siguiente texto y responde las preguntas 1 a 5:
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "La máscara del clavo"?
 
-a) La pelea entre Javiera y su prima Daniela por haberse ido a estudiar a otra ciudad
+a) La pelea entre Javiera y su prima Daniela por haberse ido a estudiar a otra ciudad sin avisar a la familia
 b) La falta de dinero de la familia para terminar el traje antes de la fiesta
-c) La decisión de la abuela de abandonar la cofradía para que su nieta pueda viajar a Santiago
+c) La decisión de la abuela de abandonar la cofradía familiar para que su nieta pueda viajar a Santiago a competir en atletismo
 d) El dilema de Javiera entre seguir la tradición de bailar en la cofradía familiar o competir en el campeonato nacional de atletismo
 
 **2. (Verdadero o Falso)** Si el relato estuviera narrado en primera persona por Javiera, el lector tendría el mismo acceso a los gestos de la madre que Javiera no interpreta ni nota.
@@ -49,9 +49,9 @@ d) El dilema de Javiera entre seguir la tradición de bailar en la cofradía fam
 **3. (Alternativas — Aplicación)** ¿Por qué la máscara de diablo puede considerarse un **símbolo** en el relato?
 
 a) Porque representa la herencia familiar y la presión de continuar la tradición; que cuelgue "desde siempre en el mismo clavo" refuerza la idea de una costumbre fija que Javiera debe decidir si continúa
-b) Porque es la máscara más cara de la fiesta, y todos los bailarines del pueblo quieren comprarla
+b) Porque es la máscara más cara de la fiesta, y todos los bailarines del pueblo quieren comprarla para lucirse en la procesión de La Tirana frente a los visitantes
 c) Porque es solo un adorno de la casa: el relato la menciona para describir la pieza de Javiera
-d) Porque Javiera la vende al final del relato para pagar el viaje, lo que demuestra que nunca le importó la fiesta
+d) Porque Javiera la vende al final del relato para pagar el viaje a Santiago, lo que demuestra que nunca le importó la fiesta ni la tradición de su familia en el norte, aunque la abuela se lo había pedido
 
 **4. (Alternativas)** ¿A qué **personaje tipo** corresponde la abuela Rosa?
 
@@ -62,8 +62,8 @@ d) La pícara
 
 **5. (Alternativas — vínculo intertextual)** ¿Qué función cumple la leyenda de La Tirana en el relato?
 
-a) Es un dato decorativo: el relato la menciona solo para ambientar la historia en el norte, sin relación con el mensaje
-b) Anuncia que Javiera morirá por elegir el atletismo, igual que la ñusta de la leyenda
+a) Es un dato decorativo: el relato la menciona solo para ambientar la historia en el norte de Chile, sin ninguna relación con el mensaje ni con la decisión de Javiera
+b) Anuncia que Javiera morirá por elegir el atletismo, igual que la ñusta de la leyenda murió por elegir el amor en vez de su pueblo y su tradición
 c) Explica cómo se cosen los trajes de la diablada y cuánto tiempo toma terminarlos
 d) Conecta el relato con la tradición legendaria y religiosa del norte, y refuerza el mensaje de la abuela: decidir por convicción y no por miedo al qué dirán
 
@@ -99,8 +99,8 @@ Lee el siguiente texto y responde las preguntas 6 a 10:
 **6. (Alternativas)** ¿Cuál es el conflicto central de "Humo en el cerro"?
 
 a) La rivalidad entre doña Elba y el brigadista por quién manda en la calle
-b) La decisión de Bastián de irse a vivir a otra ciudad, aunque su abuela no está de acuerdo
-c) La falta de dinero para reparar la casa después de un temporal
+b) La decisión de Bastián de irse a vivir a otra ciudad para estudiar, aunque su abuela no está de acuerdo
+c) La falta de dinero para reparar la casa de doña Elba después de un temporal de invierno
 d) La tensión entre la seguridad de evacuar y el apego de doña Elba a la casa que construyó con su marido
 
 **7. (Verdadero o Falso)** La alerta que suena en los celulares no tiene relación con el desenlace de la escena; es solo un detalle ambiental sin función dramática.
@@ -108,7 +108,7 @@ d) La tensión entre la seguridad de evacuar y el apego de doña Elba a la casa 
 **8. (Alternativas — Aplicación)** ¿Qué efecto produce que la luz se vuelva roja y baje progresivamente mientras suena la alerta?
 
 a) Indica que la obra terminó y que el público debe salir de la sala
-b) Permite cambiar la escenografía sin que el público lo note, sin otro efecto en el sentido de la escena
+b) Permite cambiar la escenografía sin que el público lo note, sin ningún otro efecto en el sentido de la escena final
 c) Refuerza el avance del peligro hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
 d) Ninguno: la iluminación es solo decorativa y no se relaciona con lo que ocurre entre los personajes
 
@@ -121,10 +121,10 @@ d) Las tazas del mueble
 
 **10. (Alternativas)** ¿Qué funciona como presagio del desenlace y por qué doña Elba lo ignora?
 
-a) El ruido de los pájaros en el techo; lo ignora porque no alcanza a escucharlo
+a) El ruido de los pájaros en el techo de la casa; doña Elba lo ignora porque no alcanza a escucharlo con el viento y porque está concentrada guardando sus fotografías en una caja
 b) Una carta de sus hijos que le pide irse; la ignora porque prefiere no leerla
 c) El resplandor del fuego, las alertas cada vez más cercanas y la advertencia del brigadista; los ignora porque su arraigo y su experiencia de "leer el viento" la hacen confiar en su propio juicio
-d) No hay ningún presagio: doña Elba sigue la indicación del brigadista y sale apenas escucha la alerta
+d) No hay ningún presagio en la obra: doña Elba sigue de inmediato la indicación del brigadista y sale de su casa apenas escucha la primera alerta, sin discutir con nadie
 
 ---
 
@@ -138,10 +138,10 @@ Lee el siguiente texto y responde las preguntas 11 a 15:
 
 **11. (Alternativas)** ¿A qué creencia tradicional alude explícitamente el microcuento "Agua prestada"?
 
-a) El mito griego de Poseidón, dios del mar
+a) El mito griego de Poseidón, dios del mar y las aguas
 b) La Pachamama, la madre tierra de la tradición andina
 c) La leyenda chilota de la Pincoya
-d) El relato bíblico del diluvio universal
+d) El relato bíblico del diluvio universal y el arca
 
 **12. (Verdadero o Falso)** El microcuento presenta la creencia en la Pachamama y la explicación de los hidrólogos como visiones opuestas, donde una desmiente a la otra.
 
@@ -156,14 +156,14 @@ d) El nombre del pueblo donde nació la abuela, que permite ubicar el relato en 
 
 a) La llegada de los españoles a Atacama en el siglo XVI
 b) La extracción intensiva de agua y la sequía en las cuencas del norte de Chile, estudiadas en las últimas décadas
-c) La construcción de iglesias coloniales en los pueblos del altiplano
-d) La fundación de las primeras escuelas rurales en el norte
+c) La construcción de iglesias coloniales en los pueblos del altiplano durante el siglo XVII y su relación con el agua
+d) La fundación de las primeras escuelas rurales en el norte y la llegada de profesores a los pueblos del desierto
 
 **15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Agua prestada"?
 
 a) "Me gustó mucho el cuento, porque habla del desierto y de una abuela"
-b) "No me gustó porque es corto y no explica qué le pasó a la abuela"
-c) "Es el mejor cuento del mundo, porque mezcla una creencia con la ciencia y eso siempre funciona"
+b) "No me gustó porque es corto y no explica qué le pasó a la abuela, ni por qué el pueblo se quedó sin agua, ni qué hicieron los vecinos después de la sequía del verano"
+c) "Es el mejor cuento del mundo, porque mezcla una creencia andina con la ciencia de los hidrólogos, y esa mezcla siempre funciona en cualquier relato que se escriba sobre el norte"
 d) "Valoro que no presente la creencia como superstición frente a la ciencia, pues en la frase final la idea de 'sacar sin devolver' expresa lo mismo que el balance hídrico que estudian los hidrólogos"
 
 ---

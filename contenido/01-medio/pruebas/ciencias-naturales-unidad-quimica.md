@@ -65,17 +65,17 @@ d) Endotérmica, porque absorbe calor del entorno
 Al echar una pastilla efervescente en agua se forman muchas burbujas. ¿Qué ocurre?
 
 a) El agua hierve por el calor de la pastilla
-b) No ocurre ninguna reacción: las burbujas son aire atrapado en el vaso
-c) La pastilla se derrite como el hielo
+b) No ocurre ninguna reacción: las burbujas son aire que estaba atrapado dentro de la pastilla y que sale cuando esta se disuelve en el agua
+c) La pastilla se derrite como el hielo, porque el agua le transfiere calor, y las burbujas son vapor que se forma en ese cambio de estado
 d) Las sustancias de la pastilla reaccionan con el agua y liberan dióxido de carbono; la producción de gas es evidencia de reacción química
 
 **Pregunta 6.** (Alternativas — Evaluación)
 "El humo de los autos no es un problema, porque la combustión de la bencina solo produce vapor de agua." ¿Qué evaluación es correcta?
 
-a) Es correcta: los autos solo emiten vapor de agua
+a) Es correcta: los autos modernos solo emiten vapor de agua, porque sus motores queman la bencina por completo y no dejan otros residuos
 b) Es correcta: la combustión no libera gases
 c) Es incorrecta: la combustión de bencina libera CO₂ y contaminantes, como monóxido de carbono y material particulado, que afectan el aire y el clima
-d) Es incorrecta: la combustión es un cambio físico
+d) Es incorrecta: la combustión es un cambio físico, como la evaporación, así que la bencina no se transforma en ninguna sustancia nueva
 
 ---
 
@@ -104,8 +104,8 @@ d) CH₄ + O₂ → CO₂ + H₂O
 ¿Qué indica el coeficiente 2 en la ecuación 2H₂ + O₂ → 2H₂O?
 
 a) Que reaccionan 2 moléculas (o moles) de hidrógeno por cada molécula (o mol) de oxígeno
-b) Que el hidrógeno pesa 2 gramos
-c) Que la reacción ocurre 2 veces
+b) Que el hidrógeno pesa 2 gramos en total, igual que el oxígeno que participa en la reacción
+c) Que la reacción ocurre 2 veces seguidas para formar el agua del vaso
 d) Que hay 2 átomos de oxígeno en el agua
 
 **Pregunta 11.** (Alternativas — Cálculo)
@@ -119,9 +119,9 @@ d) 6 moles de O₂ y 6 moles de H₂O
 **Pregunta 12.** (Alternativas — Aplicación)
 Según C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O, ¿por qué la respiración celular libera CO₂?
 
-a) Porque consume CO₂ del aire
+a) Porque consume CO₂ del aire y lo devuelve transformado en glucosa para las células
 b) Porque por cada molécula de glucosa que se usa se producen 6 moléculas de CO₂
-c) Porque solo produce agua
+c) Porque solo produce agua, y el CO₂ viene de los alimentos
 d) Porque no tiene relación con el CO₂
 
 ---

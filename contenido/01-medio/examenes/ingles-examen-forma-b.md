@@ -145,10 +145,10 @@ d) By
 
 **14.** *(Selección múltiple)* ¿Qué oración expresa una opinión justificada sobre la escasez de agua?
 
-a) Water is a liquid that we drink every day.
+a) Water is a liquid that we drink every day, and it has no color or smell.
 b) My house has two bathrooms and a kitchen.
 c) I believe we must save water, because many regions are suffering long droughts.
-d) Rivers flow from the mountains to the sea.
+d) Rivers flow from the mountains to the sea, and some of them are very long.
 
 **15.** *(Alternativas — completar)* Complete: *"Last Friday, in English class, we ___ a short story from Canada. I ___ its surprising ending."* (read / like, simple past)
 

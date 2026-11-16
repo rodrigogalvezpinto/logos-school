@@ -49,16 +49,16 @@ Los fósiles permiten observar cambios en la forma de los seres vivos a lo largo
 En una isla, las semillas grandes y duras pasan a ser el único alimento tras una sequía. Después de varias generaciones, la mayoría de los pinzones tiene picos más grandes. ¿Qué explicación es correcta según la selección natural?
 
 a) Los pinzones con picos grandes, que ya existían por variación, sobrevivieron y se reprodujeron más, y heredaron ese rasgo a su descendencia
-b) Los pinzones decidieron agrandar su pico para comer las semillas
-c) El pico de cada pinzón creció con el uso y ese cambio se heredó
+b) Los pinzones decidieron agrandar su pico para comer las semillas duras, y ese esfuerzo de cada individuo se transmitió a sus crías
+c) El pico de cada pinzón creció con el uso al romper semillas duras durante la sequía, y ese cambio adquirido se heredó a sus crías
 d) La sequía hizo que todos los pinzones nacieran iguales
 
 **Pregunta 4.** (Alternativas — Aplicación)
 En un campo fumigado durante años con el mismo insecticida, la mayoría de los insectos actuales es resistente a él. ¿Qué explicación es correcta?
 
-a) El insecticida enseñó a los insectos a resistir
+a) El insecticida enseñó a los insectos a resistir su efecto, y cada insecto fue adaptándose poco a poco hasta volverse inmune a él
 b) Todos los insectos decidieron volverse resistentes
-c) El insecticida aumentó la cantidad de insectos no resistentes
+c) El insecticida aumentó la cantidad de insectos no resistentes, porque los volvió más fuertes y así lograron reproducirse más que antes
 d) Ya existían algunos insectos resistentes por variación; el insecticida eliminó a los no resistentes y los resistentes se reprodujeron
 
 ---
@@ -84,8 +84,8 @@ d) Depredación, comensalismo, mutualismo y parasitismo
 **Pregunta 7.** (Alternativas — Análisis)
 En un bosque, los cazadores eliminan a casi todos los zorros. Poco después aumentan mucho los roedores y disminuyen las semillas del bosque. ¿Qué explica este efecto?
 
-a) Los zorros comían semillas
-b) Las poblaciones no tienen interacciones entre sí
+a) Los zorros comían semillas, así que al desaparecer los zorros quedaron menos animales que las dispersaran por el bosque
+b) Las poblaciones no tienen interacciones entre sí: la baja de las semillas se debe solo al clima y no a la desaparición del zorro
 c) Las especies están interconectadas: sin su depredador, los roedores aumentan y consumen más semillas, afectando a otras poblaciones
 d) Los roedores no comen semillas
 
@@ -115,9 +115,9 @@ d) 72.000 kcal
 **Pregunta 11.** (Alternativas — Análisis de evidencia)
 En un lago se mide un insecticida: agua 0,00005 ppm; plancton 0,04 ppm; peces pequeños 0,5 ppm; peces grandes 2 ppm; aves que comen peces 25 ppm. ¿Qué fenómeno muestran estos datos?
 
-a) La fotosíntesis del plancton
+a) La fotosíntesis del plancton, que fabrica el insecticida a partir del agua
 b) La competencia entre aves
-c) La disolución del insecticida en el agua
+c) La disolución del insecticida en el agua, que lo reparte por igual en todos los seres vivos
 d) La biomagnificación: la concentración aumenta al subir de nivel trófico
 
 ---
@@ -127,10 +127,10 @@ d) La biomagnificación: la concentración aumenta al subir de nivel trófico
 **Pregunta 12.**
 ¿Cuál de los siguientes recursos se clasifica como **renovable**, si se usa de forma sustentable?
 
-a) El carbón
-b) El gas natural
+a) El carbón de las minas del sur
+b) El gas natural que se importa
 c) La pesca de merluza con cuotas y vedas
-d) El cobre
+d) El cobre del norte, si se recicla
 
 **Pregunta 13.** (Varias correctas — Clasificar)
 ¿Cuáles de estos son **fenómenos naturales** (no acciones humanas)? Marca **todas** las correctas.
@@ -144,9 +144,9 @@ e) Construcción de una carretera
 **Pregunta 14.** (Alternativas — Evaluación)
 Frente a la escasez de agua en el norte, se propone instalar plantas desalinizadoras. ¿Qué evaluación es correcta?
 
-a) Solo tiene ventajas, sin ningún costo ni efecto ambiental
+a) Solo tiene ventajas, sin ningún costo ni efecto ambiental, porque el agua de mar es ilimitada y la energía necesaria es muy poca
 b) Ventaja: obtener agua potable del mar. Limitaciones: alto consumo de energía, costos elevados y descarga de salmuera que puede afectar el ecosistema marino
-c) Solo tiene limitaciones: el agua de mar no se puede potabilizar
+c) Solo tiene limitaciones: el agua de mar no se puede potabilizar con ninguna tecnología conocida, así que el proyecto no serviría para nada en el norte
 d) Garantiza agua sin necesidad de energía
 
 ---

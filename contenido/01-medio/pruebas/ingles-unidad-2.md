@@ -30,9 +30,9 @@ c) On
 d) From
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una opinión justificada sobre un problema global?
-   a) Many people use smartphones every day.
+   a) Many people use smartphones every day, at home, at school and at work.
    b) Smartphones have cameras and apps.
-   c) Phones are sold in many shops.
+   c) Phones are sold in many shops in my city and you can buy them in different colours and sizes.
    d) I believe schools should limit phone use in class because it distracts students from learning.
 
 3. *(Alternativas — Completar)* Complete: *"Last week, in History class, we ___ a documentary about the Incas. I ___ it really interesting."* (watch / think, simple past)
@@ -46,15 +46,15 @@ d) watched / thought
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes "A problem in my city is ___. One solution is to ___." logically?
 
-a) air pollution / use cars more often
+a) air pollution / use cars more often to go to work
 b) air pollution / use public transport or ride a bike
-c) air pollution / burn more garbage
+c) air pollution / burn more garbage in the streets
 d) noise / play louder music
 
 6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a river full of garbage: *"This picture shows ___. In my opinion, ___ because ___."*
 
-a) a polluted river / this is great / fish love garbage
-b) a clean beach / this is a serious problem / it harms the forest
+a) a polluted river / this is great / fish love garbage and plastic bags in the water
+b) a clean beach / this is a serious problem / it harms the forest and the animals that live there
 c) a polluted river / this is a serious problem / it harms fish and the people who use the water
 d) a mountain / this is nice / people like hiking
 

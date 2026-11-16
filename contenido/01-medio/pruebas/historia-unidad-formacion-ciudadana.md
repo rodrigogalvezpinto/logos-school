@@ -101,8 +101,8 @@ d) 1-B, 2-A, 3-C
 **Pregunta 12 (alternativas).** ¿Cuál de los siguientes fue un efecto social de la industrialización en las ciudades del siglo XIX?
 a) La desaparición de las ciudades
 b) El crecimiento de barrios obreros con viviendas precarias y malas condiciones sanitarias
-c) El fin del trabajo infantil desde el inicio del proceso
-d) La disminución de la población urbana
+c) El fin del trabajo infantil desde el inicio del proceso industrial en Europa
+d) La disminución de la población urbana, porque la gente volvió al campo a trabajar
 
 **Pregunta 13 (Alternativas — unir).** Une cada concepto con un ejemplo:
 
@@ -119,9 +119,9 @@ d) 1-C, 2-A, 3-B
 
 **Pregunta 14 (Alternativas — desafiante).** Frente a una problemática actual como el cambio climático, ¿qué opción refleja el mismo patrón observado ante la cuestión social del siglo XIX?
 
-a) Todos los actores proponen exactamente la misma solución
+a) Todos los actores proponen exactamente la misma solución, porque comparten el mismo diagnóstico sobre las causas del problema y no hay intereses en juego
 b) Distintos actores proponen respuestas diferentes (por ejemplo, impuestos a las emisiones, regulación estatal o innovación privada) según su diagnóstico de las causas
-c) Ningún actor propone respuestas
+c) Ningún actor propone respuestas, porque las problemáticas actuales son demasiado complejas y solo pueden resolverse con el paso del tiempo
 d) Las problemáticas actuales no admiten debate
 
 ---

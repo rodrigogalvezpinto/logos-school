@@ -23,8 +23,8 @@ texto con calma antes de responder.
 ---
 
 1. *(Alternativas)* Read: *"Gabriela Mistral was a Chilean poet and teacher. In 1945 she became the first Latin American writer to win the Nobel Prize in Literature."* ¿Qué información es explícita en el texto?
-   a) Gabriela Mistral was Argentine and never worked as a teacher.
-   b) Gabriela Mistral won the Nobel Prize in Physics.
+   a) Gabriela Mistral was Argentine and never worked as a teacher in Chile.
+   b) Gabriela Mistral won the Nobel Prize in Physics for her work on light.
    c) Gabriela Mistral only wrote novels for adults.
    d) Gabriela Mistral was Chilean and won the Nobel Prize in Literature in 1945.
 
@@ -52,17 +52,17 @@ c) Información específica (un dato)
 d) El propósito del texto
 
 6. *(Alternativas — desafiante)* Read a text about volcanoes that includes some unfamiliar vocabulary (*magma chamber, ash cloud*). ¿Qué estrategia es más útil para entender el texto sin traducir cada palabra?
-   a) Buscar cada palabra en el diccionario antes de seguir leyendo.
+   a) Buscar cada palabra en el diccionario antes de seguir leyendo la oración siguiente.
    b) Usar el contexto, las imágenes y las palabras conocidas para inferir el sentido general.
-   c) Dejar de leer cuando aparece una palabra difícil.
+   c) Dejar de leer cuando aparece una palabra difícil y pedirle al profesor que la traduzca.
    d) Memorizar el texto sin comprenderlo.
 
 7. *(Alternativas — Resumir — desafiante)* Read: *"Plastic in the ocean harms marine animals. Turtles can confuse plastic bags with food. Many countries are now banning single-use plastics to reduce the problem."* Which is the best summary?
 
 a) Turtles love plastic bags and eat them every day.
-b) Plastic helps marine animals find food in the ocean.
+b) Plastic helps marine animals like turtles find food in the ocean, so countries are producing more of it.
 c) Plastic in the ocean harms animals like turtles, and many countries are banning single-use plastics to reduce it.
-d) Countries produce more plastic every year to help the ocean.
+d) Countries produce more plastic every year to help the ocean, because turtles use it to build their nests.
 
 8. *(Alternativas)* Read: *"Join our beach clean-up this Saturday! Bring gloves and a bag. Every piece of trash counts."* ¿Cuál es el propósito de este texto?
    a) To entertain

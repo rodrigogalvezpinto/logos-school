@@ -243,10 +243,10 @@ d) Ninguno usa estrategias de persuasión: ambos se limitan a informar los hecho
 
 **22. (Alternativas)** Un estudiante escribe un ensayo con la hipótesis "Las bibliotecas escolares deberían abrir los sábados". En el último párrafo, cambia de tema y opina sobre el uniforme escolar. ¿Qué principio de escritura no respetó?
 
-a) La extensión mínima del ensayo
+a) La extensión mínima del ensayo, porque el texto debía tener al menos cinco párrafos completos sobre el tema
 b) La coherencia temática: cada párrafo debe relacionarse con la hipótesis inicial, sin desviarse hacia ideas no conectadas
 c) La ortografía acentual
-d) El uso de citas de autores reconocidos
+d) El uso de citas de autores reconocidos, porque todo párrafo de un ensayo debe incluir al menos una cita textual
 
 **23. (Varias correctas)** En un ensayo persuasivo, ¿qué problemas tiene escribir un porcentaje sin indicar de dónde salió? Marca todas las correctas.
 

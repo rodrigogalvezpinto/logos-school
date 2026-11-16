@@ -55,8 +55,8 @@ d) 85 m
 **Pregunta 4.** (Alternativas — Evaluación)
 "Un murciélago puede ubicar a un insecto en la oscuridad gracias al eco de los sonidos que emite." ¿Qué evaluación es correcta?
 
-a) Es incorrecta: los murciélagos solo se guían por la vista
-b) Es incorrecta: el sonido no se refleja en los objetos
+a) Es incorrecta: los murciélagos solo se guían por la vista, porque sus ojos están adaptados para ver muy bien en la oscuridad de las cuevas
+b) Es incorrecta: el sonido no se refleja en los objetos, sino que los atraviesa, así que no podría haber un eco que los guíe
 c) Es correcta, pero solo funciona de día
 d) Es correcta: emiten sonidos agudos y, por el tiempo que tarda el eco en volver, calculan la distancia de los objetos (ecolocalización)
 
@@ -67,10 +67,10 @@ d) Es correcta: emiten sonidos agudos y, por el tiempo que tarda el eco en volve
 **Pregunta 5.**
 ¿Qué fenómeno óptico explica la formación del arcoíris cuando la luz del Sol atraviesa gotas de lluvia?
 
-a) La reflexión en un espejo
-b) La interferencia del sonido
+a) La reflexión de la luz en un espejo
+b) La interferencia del sonido con la luz
 c) La refracción y la dispersión de la luz
-d) La absorción total de la luz
+d) La absorción total de la luz por el agua
 
 **Pregunta 6.** (Verdadero o falso)
 La luz se propaga más rápido en el vidrio que en el vacío.
@@ -98,10 +98,10 @@ d) Que la galaxia no se mueve
 **Pregunta 9.**
 ¿Por qué cuando en Chile es verano, en España es invierno?
 
-a) Porque España está más lejos del Sol
+a) Porque España está más lejos del Sol durante esos meses, y Chile está más cerca, aunque ambos estén en el mismo planeta
 b) Porque, por la inclinación del eje terrestre, cuando un hemisferio recibe la luz más directa, el otro la recibe más inclinada
 c) Por las fases de la Luna
-d) Porque la Tierra gira más lento en el hemisferio sur
+d) Porque la Tierra gira más lento en el hemisferio sur, y por eso los días de verano en Chile duran más que los de España
 
 **Pregunta 10.** (Verdadero o falso)
 Un eclipse lunar ocurre cuando la Luna se ubica entre el Sol y la Tierra.
@@ -110,8 +110,8 @@ Un eclipse lunar ocurre cuando la Luna se ubica entre el Sol y la Tierra.
 "La Luna cambia de forma porque la sombra de la Tierra la tapa cada noche un poco más." ¿Qué evaluación es correcta?
 
 a) Es incorrecta: las fases se deben a la parte iluminada de la Luna que vemos desde la Tierra según su posición en su órbita
-b) Es correcta: la sombra de la Tierra produce las fases cada noche
-c) Es correcta: la Luna cambia realmente de tamaño
+b) Es correcta: la sombra de la Tierra tapa la Luna cada noche un poco más, y así se producen las fases que vemos durante el mes
+c) Es correcta: la Luna cambia realmente de tamaño durante el mes, y por eso a veces se ve completa
 d) Es incorrecta: las fases se deben a las nubes
 
 ---
@@ -121,10 +121,10 @@ d) Es incorrecta: las fases se deben a las nubes
 **Pregunta 12.**
 ¿Por qué los grandes observatorios del norte de Chile se construyen en cumbres alejadas de las ciudades?
 
-a) Para estar más cerca de las estrellas
+a) Para estar más cerca de las estrellas y ver los astros más grandes
 b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura
 c) Porque allí hace más calor
-d) Para que los turistas no los encuentren
+d) Para que los turistas no los encuentren y no interrumpan las observaciones de los astrónomos
 
 **Pregunta 13.** (Varias correctas)
 ¿Qué instrumentos permiten estudiar el universo? Marca **todas** las correctas.

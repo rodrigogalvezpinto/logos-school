@@ -117,8 +117,8 @@ d) 200 kcal
 
 **9.** *(Alternativas, 2 puntos)* Una fábrica vierte pequeñas cantidades de mercurio en un río. Años después, los peces grandes que comen otros peces tienen mucho más mercurio que el agua. ¿Qué explica este resultado?
 
-a) Que los peces grandes producen mercurio en su cuerpo
-b) Que el mercurio desaparece al pasar de un ser vivo a otro
+a) Que los peces grandes producen mercurio en su cuerpo a medida que envejecen
+b) Que el mercurio desaparece al pasar de un ser vivo a otro, y por eso el agua tiene más
 c) Que el mercurio solo afecta a las plantas acuáticas
 d) La biomagnificación: el contaminante se concentra más en cada nivel trófico superior
 
@@ -231,8 +231,8 @@ d) El espectroscopio solar
 
 **20.** *(Alternativas, 2 puntos)* El pueblo aymara observa la constelación de la Llama, formada por zonas oscuras de la Vía Láctea, para orientar el calendario de sus actividades. ¿Qué muestra este ejemplo?
 
-a) Que los pueblos originarios usaban telescopios
-b) Que la astronomía solo existe desde que hay observatorios modernos
+a) Que los pueblos originarios usaban telescopios traídos desde Europa para observar las estrellas
+b) Que la astronomía solo existe desde que hay observatorios modernos, y el resto son creencias sin valor científico
 c) Que la observación sistemática del cielo durante generaciones produjo un conocimiento útil para la vida comunitaria
 d) Que estas observaciones no tienen ningún valor
 
@@ -261,8 +261,8 @@ d) Produce luz en vez de calor
 **23.** *(Alternativas, 3 puntos)* Un vecino afirma: «Quemar leña en una estufa sin certificar no contamina, porque la leña es natural». ¿Qué evaluación es correcta?
 
 a) Es incorrecta: la combustión de leña libera material particulado y gases que contaminan el aire, sobre todo en invierno
-b) Es correcta: todo lo natural es inofensivo
-c) Es correcta: la combustión de leña solo produce calor
+b) Es correcta: todo lo natural es inofensivo, y la leña es natural, así que su humo no puede dañar la salud de nadie
+c) Es correcta: la combustión de leña solo produce calor y vapor de agua, sin gases ni partículas contaminantes
 d) Es incorrecta: la leña no puede quemarse
 
 ---

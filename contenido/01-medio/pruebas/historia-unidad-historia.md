@@ -22,8 +22,8 @@ ultima_actualizacion: 2026-10-28
 ---
 
 **Pregunta 1 (alternativas).** ¿Cuál de las siguientes ideas corresponde al ideario liberal del siglo XIX?
-a) Que el rey gobierne por derecho divino, sin límites
-b) Que se prohíba la prensa para evitar conflictos
+a) Que el rey gobierne por derecho divino, sin límites ni constitución que lo controle ni lo obligue
+b) Que se prohíba la prensa para evitar conflictos y proteger la autoridad del rey
 c) Que se reconozcan libertades individuales, como la libertad de prensa, de opinión y de asociación
 d) Que la Iglesia controle el gobierno
 
@@ -43,9 +43,9 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 **Pregunta 4 (alternativas).** ¿Qué elementos se usaron en el siglo XIX para fortalecer el sentido de pertenencia a una nación?
-a) La eliminación de los idiomas comunes
+a) La eliminación de los idiomas comunes para que cada región hablara su propia lengua
 b) La prohibición de celebrar fechas patrias
-c) La división del territorio en señoríos independientes
+c) La división del territorio en señoríos independientes con sus propias leyes y ejércitos
 d) Los símbolos patrios, la historia nacional enseñada en las escuelas y una lengua común
 
 **Pregunta 5 (Alternativas — ordenar secuencia).** Ordena cronológicamente: (1) Primera Guerra Mundial, (2) Revolución Francesa, (3) unificación de Italia, (4) independencia de Chile.
@@ -56,10 +56,10 @@ c) 2 → 4 → 1 → 3
 d) 2 → 4 → 3 → 1
 
 **Pregunta 6 (alternativas).** ¿Qué hecho desencadenó directamente el inicio de la Primera Guerra Mundial en 1914?
-a) La Revolución Francesa
+a) La Revolución Francesa de 1789
 b) El asesinato del archiduque Francisco Fernando en Sarajevo
-c) La invención del telégrafo
-d) La caída del Imperio romano
+c) La invención del telégrafo y del teléfono en Estados Unidos
+d) La caída del Imperio romano de Occidente
 
 **Pregunta 7 (verdadero o falso).** La Primera Guerra Mundial fue una guerra breve, que terminó a las pocas semanas y con pocas víctimas.
 
@@ -86,10 +86,10 @@ d) El cultivo de arroz
 
 **Pregunta 11 (Alternativas — análisis de fuente).** Un decreto de fines del siglo XIX ofrece tierras en la Araucanía a familias europeas que se instalen allí. ¿Qué proceso refleja esta fuente?
 
-a) La devolución de las tierras a las comunidades mapuche
-b) La fundación de universidades en el sur
+a) La devolución de las tierras a las comunidades mapuche y el reconocimiento de su autonomía por parte del Estado chileno
+b) La fundación de universidades en el sur del país para formar a los colonos europeos que llegaban a la Araucanía
 c) La colonización de la Araucanía por parte del Estado, con tierras entregadas a colonos tras la ocupación del territorio mapuche
-d) La construcción de puertos en el norte
+d) La construcción de puertos en el norte para exportar el salitre a Europa
 
 **Pregunta 12 (verdadero o falso).** La Guerra del Pacífico (1879-1884) enfrentó a Chile con Perú y Bolivia.
 
@@ -108,8 +108,8 @@ d) 1-C, 2-B, 3-A
 
 **Pregunta 14 (Alternativas — desafiante).** ¿Por qué se habla de una "cuestión social" en Chile a fines del siglo XIX y comienzos del XX?
 
-a) Porque el país vivía en total igualdad social
-b) Porque se había eliminado la pobreza en las ciudades
+a) Porque el país vivía en total igualdad social y la expresión se usó para celebrar que todos los grupos tenían las mismas condiciones de vida
+b) Porque se había eliminado la pobreza en las ciudades gracias al salitre, y la cuestión social era el debate sobre cómo repartir la riqueza sobrante
 c) Porque los obreros no existían todavía
 d) Porque el crecimiento económico convivió con malas condiciones de vida y trabajo de los sectores populares: conventillos, enfermedades y jornadas extensas
 

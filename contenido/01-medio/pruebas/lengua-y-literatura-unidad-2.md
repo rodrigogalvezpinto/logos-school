@@ -43,20 +43,20 @@ d) Eliminar las tareas puede ser razonable, pero es insuficiente si no se acompa
 **3. (Alternativas — Aplicación)** ¿Qué intención tiene la oración desiderativa "Ojalá los liceos que aplican esta medida la acompañaran, además, de talleres sobre cómo organizar el tiempo de estudio"?
 
 a) Expresar un deseo y proponer una recomendación de forma menos impositiva que una exigencia directa
-b) Dar una orden obligatoria a los liceos, que deben cumplirla bajo sanción
+b) Dar una orden obligatoria a los liceos, que deben cumplirla bajo sanción del ministerio si no lo hacen
 c) Narrar un hecho que ya ocurrió en los liceos que eliminaron las tareas
-d) Expresar duda sobre si realmente existen liceos que hayan eliminado las tareas
+d) Expresar duda sobre si realmente existen liceos que hayan eliminado las tareas para la casa este año
 
 **4. (Alternativas)** ¿Qué efecto produce principalmente la pregunta retórica con la que abre la columna ("¿De verdad dejar de enviar tareas mejora el aprendizaje, o es solo una medida que da la sensación de estar 'aliviando'…?")?
 
 a) Busca que el lector responda la pregunta por escrito antes de seguir leyendo
-b) Demuestra que el autor no tiene ninguna postura y que solo quiere informar de manera neutral
+b) Demuestra que el autor no tiene ninguna postura sobre las tareas y que solo quiere informar de manera neutral a los apoderados
 c) Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la medida antes de presentar evidencia
 d) No tiene ninguna función argumentativa: es solo una forma llamativa de comenzar
 
 **5. (Alternativas)** ¿Cómo organiza el autor su columna y qué efecto produce?
 
-a) Una lista de opiniones sin orden ni conectores; esto debilita el texto, porque el lector no puede seguir el razonamiento
+a) Una lista de opiniones sin orden ni conectores, una tras otra; esto debilita el texto, porque el lector no puede seguir el razonamiento del autor ni saber qué propone
 b) Solo datos estadísticos uno tras otro, sin pregunta inicial ni propuesta; esto informa, pero no persuade
 c) Una narración de ficción sobre un estudiante y sus tareas, sin datos ni propuestas
 d) Pregunta retórica inicial, presentación y problematización de un dato y propuesta complementaria; genera un argumento equilibrado y reflexivo, más persuasivo
@@ -92,21 +92,21 @@ d) Proyectar una imagen positiva de la empresa y de su proyecto inmobiliario
 **8. (Alternativas — Aplicación)** ¿Qué efecto produce la fotografía del Texto A (familias sonrientes, sendero nuevo y el humedal iluminado por el atardecer)?
 
 a) Muestra objetivamente el estado de todo el humedal
-b) Critica a la empresa al mostrar el daño causado al humedal
+b) Critica a la empresa al mostrar el daño causado al humedal por la construcción del nuevo condominio y sus caminos
 c) Construye una imagen de armonía con la naturaleza que puede ser más idealizada que la situación completa del humedal
-d) No produce ningún efecto: las fotos de una empresa son siempre neutrales y completas
+d) No produce ningún efecto: las fotos que publica una empresa son siempre neutrales y muestran el lugar completo
 
 **9. (Alternativas)** ¿Qué muestra principalmente la comparación entre el Texto A y el Texto B sobre el nuevo condominio?
 
-a) Que uno de los dos textos miente completamente, porque un mismo hecho no puede mostrarse con énfasis distintos
+a) Que uno de los dos textos miente completamente, porque un mismo hecho no puede mostrarse con énfasis distintos, y por eso el lector debe elegir cuál de las dos fuentes creer y descartar la otra por completo
 b) Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las redes sociales siempre son más confiables que las empresas, porque los vecinos graban lo que ocurre sin intereses detrás
+c) Que las redes sociales siempre son más confiables que las empresas, porque los vecinos graban lo que ocurre sin intereses detrás ni necesidad de vender nada
 d) Que las empresas nunca informan con cifras reales, por lo que todo dato que publican debe considerarse falso
 
 **10. (Alternativas)** ¿Por qué sería un error formarse una opinión completa sobre el proyecto leyendo solo uno de los textos?
 
 a) Porque ambos textos dicen exactamente lo mismo, y leer los dos permite confirmarlo
-b) Porque el Texto A, al ser de una empresa, siempre miente, y el Texto B revela lo que se oculta
+b) Porque el Texto A, al ser de una empresa, siempre miente, y el Texto B revela todo lo que la empresa ocultó al público
 c) Porque cada texto entrega información parcial y con un propósito distinto; comparar fuentes permite una opinión más completa
 d) Porque el Texto B es completamente neutral y sirve para corregir los errores de la empresa
 
@@ -137,14 +137,14 @@ d) Introducir una cita de autoridad distinta de la encuesta
 
 a) Porque muestra que el autor consideró otras posturas, fortalece su credibilidad y anticipa objeciones del lector
 b) Porque así el ensayo cambia de tesis y adopta la postura contraria
-c) Porque debilita la hipótesis principal, ya que muestra que el autor no está seguro
+c) Porque debilita la hipótesis principal, ya que muestra que el autor no está seguro de lo que defiende en el ensayo
 d) Porque los ensayos deben ser neutrales y no defender ninguna postura
 
 **14. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a mantener la **coherencia temática** de un ensayo?
 
-a) Introducir en el último párrafo un tema completamente distinto al de la hipótesis
+a) Introducir en el último párrafo un tema completamente distinto al de la hipótesis, para sorprender al lector y dejarlo pensando
 b) Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin desviarse hacia ideas no conectadas con el tema central
-c) Usar la mayor cantidad posible de citas, sin importar si se relacionan con la hipótesis
+c) Usar la mayor cantidad posible de citas de autores conocidos, sin importar si se relacionan con la hipótesis del ensayo
 d) Cambiar la postura en cada párrafo, sin tomar una postura final
 
 **15. (Varias correctas)** Un ensayo dice: «El 40 % de los jóvenes lee menos de un libro al año». Un compañero pide agregar «según la Encuesta de Comportamiento Lector». ¿Qué se gana con esa cita? Marca todas las correctas.

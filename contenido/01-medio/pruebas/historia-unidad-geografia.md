@@ -45,23 +45,23 @@ d) 1-B, 2-A, 3-C
 **Pregunta 4 (Alternativas — análisis de mapa).** Un mapa de 1870 muestra el trazado del telégrafo y de los ferrocarriles uniendo Santiago con varias ciudades del sur. ¿Qué buscaba el Estado con estas obras?
 
 a) Reducir la población del valle central
-b) Dejar las regiones alejadas en manos de los hacendados
-c) Entregar la administración del sur a Argentina
+b) Dejar las regiones alejadas en manos de los hacendados y de los gobiernos locales, sin intervención del Estado
+c) Entregar la administración del sur a Argentina a cambio de territorios en el norte del país
 d) Integrar física y administrativamente el territorio, acercando las provincias al gobierno central
 
 **Pregunta 5 (Alternativas).** ¿Por qué el Estado chileno del siglo XIX realizó censos periódicos de población?
 
-a) Para decidir qué ciudades debían desaparecer
+a) Para decidir qué ciudades debían desaparecer y trasladar a sus habitantes a Santiago, donde el Estado podía vigilarlos mejor
 b) Porque necesitaba saber cuántos habitantes había, dónde vivían y a qué se dedicaban, para organizar la administración y los servicios
 c) Solo para fines decorativos
-d) Para impedir que la población se moviera
+d) Para impedir que la población se moviera de una provincia a otra sin un permiso especial del gobierno central
 
 **Pregunta 6 (Alternativas — desafiante).** ¿Por qué las misiones científicas no bastaban por sí solas para que el Estado controlara efectivamente su territorio?
 
-a) Porque los científicos eran extranjeros
+a) Porque los científicos eran extranjeros y no conocían las costumbres del país, así que sus estudios no servían para gobernar
 b) Porque los mapas no servían para nada
 c) Porque además se requerían caminos, funcionarios y autoridades que aplicaran políticas y ejercieran presencia estatal en cada zona
-d) Porque el Estado no quería conocer su territorio
+d) Porque el Estado no quería conocer su territorio y prefería dejar cada zona en manos de los terratenientes locales
 
 **Pregunta 7 (alternativas).** ¿Cuál de los siguientes científicos recorrió el territorio chileno documentando su geografía, flora, fauna e historia por encargo del Estado?
 a) Diego Portales
