@@ -75,12 +75,12 @@ b) Poco posible
 c) Imposible
 d) Igual de posible que sacar uno azul
 
-**Pregunta 10.** En una caja hay 9 pelotas: 8 son de básquetbol y 1 es de fútbol. Sin mirar, se saca una pelota al azar. ¿Cómo se describe la posibilidad de que sea de fútbol?
+**Pregunta 10.** En una bolsa hay 12 dulces: 11 son de menta y 1 es de frutilla. Sin mirar, se saca un dulce al azar. ¿Cómo se describe la posibilidad de que sea de frutilla?
 
-a) Imposible, porque hay muy pocas
-b) Seguro, porque hay una pelota de fútbol
-c) Igual de posible que sacar una de básquetbol
-d) Poco posible, porque solo hay 1 de fútbol entre 9
+a) Imposible, porque hay muy pocos
+b) Seguro, porque hay un dulce de frutilla
+c) Igual de posible que sacar uno de menta
+d) Poco posible, porque solo hay 1 de frutilla entre 12
 
 **Pregunta 11.** El gráfico muestra la cantidad de libros que leyeron 4 estudiantes en un mes. ¿Cuántos libros leyeron entre todos?
 
@@ -113,6 +113,6 @@ d) La temperatura nunca bajó
 7. **a) 6** — suma 30, dividido por 5 datos = 6.
 8. a) 25. 100 ÷ 4 = 25; 100 es la suma, no el promedio.
 9. **b) Poco posible** — es posible (hay uno), pero poco probable comparado con los 9 azules.
-10. d) Poco posible, porque solo hay 1 de fútbol entre 9. Hay solo 1 pelota de fútbol entre 9: puede salir, pero es poco posible. Sería imposible si no hubiera ninguna, y seguro si todas fueran de fútbol.
+10. **d) Poco posible, porque solo hay 1 de frutilla entre 12.** Hay solo 1 dulce de frutilla entre 12: puede salir, pero es poco posible. Sería imposible si no hubiera ninguno, y seguro si todos fueran de frutilla.
 11. **b) 21** — 6 + 2 + 8 + 5 = 21.
 12. b) Entre las 14:00 y las 16:00, bajó 5°C. Es el único tramo donde la línea baja (de 21°C a 16°C).

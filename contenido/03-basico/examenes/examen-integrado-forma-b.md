@@ -287,26 +287,26 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Historia, Geografía y Cs. Sociales | **d) Con un edificio de departamentos.** | OA 3 |
+| 1 | Historia, Geografía y Cs. Sociales | **d) Con un edificio de departamentos.** La ínsula era un edificio de varios pisos donde vivían muchas familias, como un edificio de departamentos actual. La domus, en cambio, era una casa para una sola familia. | OA 3 |
 | 2 | Matemática | **c) 591.** Las centenas son iguales (5=5); comparamos decenas: 9 > 1. | OA 3 |
-| 3 | Ciencias Naturales | **a) Porque cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte y la araucaria necesita el clima frío y lluvioso del sur.** | OA 2 |
+| 3 | Ciencias Naturales | **a) Porque cada planta está adaptada al clima de su zona: el cactus resiste la sequía del norte y la araucaria necesita el clima frío y lluvioso del sur.** Cada planta está adaptada al clima de su zona: el cactus guarda agua y resiste la sequía del desierto, y la araucaria crece en el sur, más frío y lluvioso. | OA 2 |
 | 4 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "una corriente más fuerte hizo girar el bote". | OA 4 |
 | 5 | Matemática | **b) 40.** El dígito 4 está en el lugar de las decenas. | OA 5 |
-| 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** | OA 4 |
+| 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** Los Juegos Olímpicos nacieron en Grecia hace más de dos mil años y se siguen realizando hoy, con otros deportes y reglas: es una costumbre que se mantiene, aunque cambió. | OA 4 |
 | 7 | Ciencias Naturales | **d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidrio para guardar lápices.** Reutilizar es darle otro uso al objeto sin procesarlo; transformarlo en fábrica es reciclar y comprar menos es reducir. | OA 5 |
 | 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
 | 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
 | 10 | Matemática | **c) 54 botellas.** 9 × 6 = 54. | OA 8 |
-| 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** | OA 7 |
+| 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** Chile está en América del Sur, en el continente americano, y su costa está bañada por el océano Pacífico. | OA 7 |
 | 12 | Ciencias Naturales | **c) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** No incluye alimentos reguladores; consumirla con frecuencia puede ser perjudicial para la salud. | OA 6 |
 | 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
 | 14 | Matemática | **a) $470 cada uno.** 2 350 ÷ 5 = 470 (comprobación: 5 × 470 = 2 350). | OA 10 |
 | 15 | Historia, Geografía y Cs. Sociales | **a, b y d.** Son estrategias de la zona fría; las viviendas abiertas y elevadas son propias de la zona cálida. | OA 8 |
 | 16 | Ciencias Naturales | **a) En el tono.** El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. | OA 10 |
-| 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** | OA 17 |
-| 18 | Matemática | **c) Pirámide de base cuadrada.** | OA 15 |
+| 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** Cada párrafo desarrolla una idea, y se separa del siguiente con punto aparte: así el lector distingue lo que pasó en la mañana de lo que pasó en la tarde. | OA 17 |
+| 18 | Matemática | **c) Pirámide de base cuadrada.** Al doblar los 4 triángulos hacia arriba, sus puntas se juntan sobre el cuadrado y forman una pirámide de base cuadrada. | OA 15 |
 | 19 | Ciencias Naturales | **d) Un año.** La traslación dura aproximadamente 365 días; la rotación, en cambio, dura un día y explica el día y la noche. | OA 12 |
-| 20 | Historia, Geografía y Cs. Sociales | **a) El derecho a la alimentación.** | OA 14 |
+| 20 | Historia, Geografía y Cs. Sociales | **a) El derecho a la alimentación.** El almuerzo gratuito de la JUNAEB asegura que los niños y niñas puedan comer bien todos los días de clases: protege su derecho a la alimentación. | OA 14 |
 
 ### Resumen de la prueba
 

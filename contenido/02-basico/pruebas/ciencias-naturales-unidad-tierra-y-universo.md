@@ -79,12 +79,12 @@ d) Invierno
 
 ---
 
-**Pregunta 7.** ¿Por qué algunos animales guardan alimento durante el otoño?
+**Pregunta 7.** En invierno, algunos árboles como el roble pierden todas sus hojas. ¿Por qué ocurre esto?
 
-a) Porque en otoño no tienen hambre y prefieren guardar la comida para jugar
-b) Porque quieren regalarlo a otros animales en verano, cuando hace calor
-c) Porque la comida de otoño es fea y prefieren comerla cuando se pone vieja
-d) Porque se preparan para el invierno, cuando la comida suele ser más escasa
+a) Porque el árbol está enfermo y se va a morir
+b) Porque los niños arrancan las hojas para jugar
+c) Porque en invierno los árboles crecen más rápido sin hojas
+d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera
 
 ---
 
@@ -96,4 +96,4 @@ d) Porque se preparan para el invierno, cuando la comida suele ser más escasa
 4. **b) El granizo.** El granizo, la lluvia y la nieve son agua que cae del cielo: precipitaciones.
 5. a, c y e — La precipitación es agua que cae del cielo; las ramas y la cometa se mueven por el viento, que es aire en movimiento.
 6. **c) Otoño.** En otoño muchas hojas cambian de color y caen de los árboles.
-7. d) Porque se preparan para el invierno, cuando la comida suele ser más escasa. Guardan reservas mientras todavía hay alimento disponible.
+7. **d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera.** Muchos árboles pierden sus hojas en otoño e invierno para pasar la estación fría gastando menos energía; en primavera, con más luz y calor, les vuelven a salir.

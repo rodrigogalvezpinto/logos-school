@@ -259,28 +259,28 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.**
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | b) Nine | OA5 |
-| 2 | d) Drawing the blue pencil on the desk | OA5 |
+| 1 | b) Nine. "I am nine years old" significa "tengo nueve años". Twelve (doce) es la edad de su hermano. | OA5 |
+| 2 | d) Drawing the blue pencil on the desk. La instrucción dice dibujar el lápiz azul "under the chair" (debajo de la silla), no sobre el escritorio. | OA5 |
 | 3 | **d) and.** *And* une las dos descripciones: *small and green*. | OA5 |
 | 4 | **d) He has P.E. in the playground.** El texto dice que el martes tiene P.E. en el patio (*playground*); en la sala (*classroom*) tiene inglés el lunes. | OA5 |
 | 5 | True (Verdadero): el abrigo de la abuela es azul. | OA5 |
-| 6 | c) To invite people to a school activity | OA6 |
-| 7 | c) A menu | OA6 |
+| 6 | c) To invite people to a school activity. "Come to our classroom" (vengan a nuestra sala) y "You are welcome" (son bienvenidos) muestran que el texto invita a una actividad. | OA6 |
+| 7 | c) A menu. Una lista de comidas y bebidas, como "Breakfast" (desayuno) y "Drinks" (bebidas), corresponde a un menú. | OA6 |
 | 8 | **b) Thank you.** *Thank you* (o *Thanks*) es la expresión para agradecer. | OA6 |
 | 9 | **c) At four o'clock in the afternoon.** La invitación especifica las cuatro de la tarde (4 pm / 16:00); no corresponde 4 am. | OA6 |
 | 10 | True (Verdadero): las acciones wash/cut/put explican cómo preparar el plato de fruta. | OA6 |
-| 11 | d) I like drawing pictures. | OA8 |
-| 12 | b) I like singing, too. | OA8 |
+| 11 | d) I like drawing pictures. "I like drawing pictures" (me gusta dibujar) expresa un gusto personal; las demás oraciones solo describen la escuela. | OA8 |
+| 12 | b) I like singing, too. "I like singing, too" significa "a mí también me gusta cantar": conecta el gusto de Rosa con el tuyo. | OA8 |
 | 13 | **a) like.** Con *I* se usa *like*; *likes* es para *he/she/it* (como en *Nico likes*). | OA8 |
 | 14 | **d) I like reading.** *I like reading* o *I don't like reading* son correctas; las otras tienen errores (*likes* con *I*, *read* sin -ing). Puedes tener una preferencia distinta de la de Sara. | OA8 |
 | 15 | False (Falso): Leo prefiere invierno y el narrador verano. | OA8 |
-| 16 | c) Dear | OA14 |
-| 17 | a) shut | OA14 |
+| 16 | c) Dear. Las postales y cartas empiezan con "Dear" (querido o querida), como en el modelo "Dear Dad". | OA14 |
+| 17 | a) shut. Lo contrario de "open" (abierto) es "shut" o "closed" (cerrado). | OA14 |
 | 18 | **a) sunny.** El texto menciona sol y ausencia de nubes. | OA14 |
 | 19 | **b) ruler.** *Ruler* (regla) es un objeto para medir. | OA14 |
 | 20 | **b) Shopping list: I need bread and cheese.** Sigue el modelo con dos alimentos distintos de milk y eggs; las otras repiten el modelo, usan palabras que no son alimentos o tienen un error (*needs* con *I*). | OA14 |
-| 21 | b) in | OA15 |
-| 22 | a) This is my pencil. | OA15 |
+| 21 | b) in. "In" significa "dentro de": the cat is in the box. "On" es "sobre" y "under", "debajo de". | OA15 |
+| 22 | a) This is my pencil. "My" significa "mi": "This is my pencil" quiere decir "este es mi lápiz". | OA15 |
 | 23 | **c) eleven.** 11 = *eleven*; *eleventh* es el ordinal (undécimo). | OA15 |
 | 24 | **a) it isn't.** Respuesta corta negativa a *Is this...?*: *No, it isn't* (o *it is not*). | OA15 |
 | 25 | **a) There.** *There are* indica que algo existe en un lugar; *They are* se refiere a personas o cosas ya mencionadas. | OA15 |

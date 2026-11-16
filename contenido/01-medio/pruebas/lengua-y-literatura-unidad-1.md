@@ -130,41 +130,41 @@ d) No hay ningún presagio: doña Elba sigue la indicación del brigadista y sal
 
 Lee el siguiente texto y responde las preguntas 11 a 15:
 
-## Texto 3 (preguntas 11 a 15): "Bajamar" (microcuento)
+## Texto 3 (preguntas 11 a 15): "Agua prestada" (microcuento)
 
-> Mi abuelo decía que el mar devuelve lo que se le respeta. Él nació en Quemchi y, de niño, escuchó de su madre la historia de la Pincoya, la mujer del mar que baila en la orilla: si baila mirando hacia el mar, las playas se llenan de mariscos; si baila mirando hacia la tierra, el mar se los lleva lejos. "Por eso no hay que sacar más de lo que uno necesita —me explicaba—, para que la Pincoya no se dé vuelta."
+> Mi abuela decía que la tierra presta, pero no regala. Ella nació en Toconao y, de niña, aprendió de su madre a pagarle a la Pachamama cada agosto: enterrar hojas de coca, chicha y semillas en un hoyo en la tierra, para agradecer el agua de las vertientes y pedir que no faltara. "Si uno saca sin devolver, la Pachamama se cansa —me explicaba—, y las vertientes se secan."
 >
-> Ahora, cincuenta años después, leo que en las mismas playas donde mi abuelo mariscaba ya casi no quedan bancos de almejas, y que la marea roja obliga cada cierto tiempo a cerrar la extracción. Los biólogos hablan de sobreexplotación, de floraciones de algas nocivas, de temperatura del agua y de cuotas de extracción. Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar, y que no le hemos dado motivos para volverse.
+> Ahora, cuarenta años después, leo que en los alrededores del salar algunas vertientes y lagunas tienen menos agua que antes, y que hidrólogos estudian cómo la extracción intensiva de agua y la falta de lluvias afectan el equilibrio de la cuenca. Los científicos hablan de acuíferos, de recarga y de balance hídrico. Mi abuela, si viviera, probablemente diría que llevamos años sacando sin devolver, y que la Pachamama ya está cansada.
 
-**11. (Alternativas)** ¿A qué mito o leyenda alude explícitamente el microcuento "Bajamar"?
+**11. (Alternativas)** ¿A qué creencia tradicional alude explícitamente el microcuento "Agua prestada"?
 
 a) El mito griego de Poseidón, dios del mar
-b) La leyenda chilota de la Pincoya
-c) El mito mapuche de Kai Kai Vilu y Trentren Vilu
+b) La Pachamama, la madre tierra de la tradición andina
+c) La leyenda chilota de la Pincoya
 d) El relato bíblico del diluvio universal
 
-**12. (Verdadero o Falso)** El microcuento presenta la leyenda de la Pincoya y la explicación de los biólogos como visiones opuestas, donde una desmiente a la otra.
+**12. (Verdadero o Falso)** El microcuento presenta la creencia en la Pachamama y la explicación de los hidrólogos como visiones opuestas, donde una desmiente a la otra.
 
 **13. (Alternativas — Aplicación)** ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber tradicional con la ciencia actual?
 
-a) "Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar"
-b) Cualquier frase del relato que mencione el mar, aunque no se relacione con la leyenda ni con la ciencia
+a) "Mi abuela, si viviera, probablemente diría que llevamos años sacando sin devolver, y que la Pachamama ya está cansada"
+b) Cualquier frase del relato que mencione el agua, aunque no se relacione con la creencia ni con la ciencia
 c) El título del relato, porque resume por sí solo la interpretación sin necesidad de citar el texto
-d) El nombre del pueblo donde nació el abuelo, que permite ubicar el relato en Chiloé
+d) El nombre del pueblo donde nació la abuela, que permite ubicar el relato en el norte
 
-**14. (Alternativas)** ¿Con qué contexto actual se relaciona directamente el microcuento "Bajamar"?
+**14. (Alternativas)** ¿Con qué contexto actual se relaciona directamente el microcuento "Agua prestada"?
 
-a) La llegada de los españoles a Chiloé y la fundación de Castro
-b) La sobreexplotación de los recursos marinos y las floraciones de algas nocivas documentadas en las últimas décadas
-c) La construcción de iglesias de madera en Chiloé
-d) La fundación de las primeras escuelas rurales en el sur de Chile
+a) La llegada de los españoles a Atacama en el siglo XVI
+b) La extracción intensiva de agua y la sequía en las cuencas del norte de Chile, estudiadas en las últimas décadas
+c) La construcción de iglesias coloniales en los pueblos del altiplano
+d) La fundación de las primeras escuelas rurales en el norte
 
-**15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Bajamar"?
+**15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Agua prestada"?
 
-a) "Me gustó mucho el cuento, porque habla del mar y de un abuelo que cuenta historias"
-b) "No me gustó porque es corto y no explica qué le pasó al abuelo"
-c) "Es el mejor cuento del mundo, porque mezcla una leyenda con la ciencia y eso siempre funciona"
-d) "Valoro que no presente la leyenda como superstición frente a la ciencia, pues en la frase final la imagen de la Pincoya expresa lo mismo que los biólogos describen"
+a) "Me gustó mucho el cuento, porque habla del desierto y de una abuela"
+b) "No me gustó porque es corto y no explica qué le pasó a la abuela"
+c) "Es el mejor cuento del mundo, porque mezcla una creencia con la ciencia y eso siempre funciona"
+d) "Valoro que no presente la creencia como superstición frente a la ciencia, pues en la frase final la idea de 'sacar sin devolver' expresa lo mismo que el balance hídrico que estudian los hidrólogos"
 
 ---
 
@@ -190,12 +190,12 @@ d) "Valoro que no presente la leyenda como superstición frente a la ciencia, pu
 
 **10.** c) Los presagios son evidentes para el espectador, pero el personaje los ignora por razones ligadas a su carácter y su historia: su arraigo y su confianza en "leer el viento".
 
-**11.** b. El texto nombra a la Pincoya, figura de la mitología chilota que con su baile trae o aleja los mariscos.
+**11.** b. El texto nombra a la Pachamama, la madre tierra de los pueblos andinos, a la que se le "paga" en agosto para agradecer y pedir el agua.
 
-**12.** Falso. El texto pone ambas visiones en diálogo: la enseñanza de la leyenda ("no sacar más de lo que uno necesita") coincide con lo que hoy explican los biólogos sobre la sobreexplotación.
+**12.** Falso. El texto pone ambas visiones en diálogo: la enseñanza de la abuela ("si uno saca sin devolver… las vertientes se secan") coincide con lo que hoy explican los hidrólogos sobre el balance hídrico.
 
-**13.** a) La frase funde la imagen de la leyenda con el fenómeno que describe la ciencia: la escasez sostenida de mariscos.
+**13.** a) La frase funde la imagen de la creencia ("la Pachamama ya está cansada") con el fenómeno que describe la ciencia: extraer más agua de la que se recarga.
 
-**14.** b. El texto menciona la desaparición de bancos de almejas, la marea roja y la sobreexplotación, problemas actuales de las costas de Chiloé.
+**14.** b. El texto menciona vertientes y lagunas con menos agua, la extracción intensiva y la falta de lluvias, problemas actuales del norte de Chile.
 
 **15.** d) Una crítica sustentada es una valoración argumentada con evidencia del texto, no solo una opinión o una generalización.

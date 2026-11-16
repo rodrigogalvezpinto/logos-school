@@ -272,31 +272,31 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal | OA 1 | Álgebra y Funciones |
+| 1 | a) los intereses se calculan siempre sobre el capital inicial, y el monto crece de forma lineal. En el interés simple, los intereses se calculan siempre sobre el capital inicial: el monto crece de forma lineal. | OA 1 | Álgebra y Funciones |
 | 2 | d) el Banco X, porque capitaliza más veces al año (a igual tasa nominal, mayor frecuencia de capitalización produce mayor TEA) | OA 1 | Álgebra y Funciones |
-| 3 | a) la variación porcentual promedio de los precios de una canasta de bienes y servicios | OA 1 | Álgebra y Funciones |
-| 4 | d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable | OA 1 | Álgebra y Funciones |
+| 3 | a) la variación porcentual promedio de los precios de una canasta de bienes y servicios. El IPC mide la variación promedio de los precios de una canasta de bienes y servicios que consumen los hogares: es la medida de la inflación. | OA 1 | Álgebra y Funciones |
+| 4 | d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable. El CAE incluye la tasa de interés más las comisiones y los seguros: refleja el costo total del crédito. | OA 1 | Álgebra y Funciones |
 | 5 | **a) $1.094.988.** M = 900.000×(1,04)⁵ ≈ 900.000×1,216653 ≈ $1.094.988. $1.080.000 corresponde a interés simple; $1.052.873, a 4 años; $936.000, a un solo año. | OA 1 | Álgebra y Funciones |
 | 6 | **d) 21,94%.** TEA = (1+0,20/12)¹² − 1 ≈ 1,2194 − 1 ≈ 21,94%. La capitalización mensual hace que la TEA supere a la tasa nominal. | OA 1 | Álgebra y Funciones |
-| 7 | **d) El Crédito Q, porque su CAE (11%) es menor; la tasa anunciada no incluye comisiones ni otros cargos.** | OA 1 | Álgebra y Funciones |
+| 7 | **d) El Crédito Q, porque su CAE (11%) es menor; la tasa anunciada no incluye comisiones ni otros cargos.** Q tiene un CAE menor (11%), es decir, un costo total menor, aunque su tasa anunciada sea más alta. | OA 1 | Álgebra y Funciones |
 | 8 | **c) Disminuyó, porque el sueldo subió 4% y la inflación fue 6%.** 624.000/600.000 − 1 = 4% < 6%: el aumento nominal no compensa la inflación (variación real ≈ 1,04/1,06 − 1 ≈ −1,9%). | OA 1 | Álgebra y Funciones |
 | 9 | c) f(x) = 5x³ (exponente entero positivo mayor que 1; en 5/x² el exponente es negativo, en 5ˣ la variable está en el exponente) | OA 3 | Álgebra y Funciones |
-| 10 | c) el valor medio (central) alrededor del cual oscila la función | OA 3 | Álgebra y Funciones |
-| 11 | c) representan el mismo tipo de oscilación, pero con distinto punto de partida (desfase) | OA 3 | Álgebra y Funciones |
+| 10 | c) el valor medio (central) alrededor del cual oscila la función. D desplaza la curva hacia arriba o hacia abajo: es el valor medio alrededor del cual oscila la función. | OA 3 | Álgebra y Funciones |
+| 11 | c) representan el mismo tipo de oscilación, pero con distinto punto de partida (desfase). El coseno es un seno desplazado: cos(x) = sen(x + π/2). Tienen la misma forma y el mismo período; solo cambia el punto de partida. | OA 3 | Álgebra y Funciones |
 | 12 | b) se multiplica por 4 (al reducir a la mitad la distancia, d² se divide por 4, y como está en el denominador, F se multiplica por 4) | OA 3 | Álgebra y Funciones |
 | 13 | **a) f(3) = 405; aumenta en un factor de 81.** f(1) = 5 y f(3) = 5×81 = 405; 405/5 = 81 = 3⁴. | OA 3 | Álgebra y Funciones |
 | 14 | **d) Pasa de 300 a 18,75: al cuadruplicar la distancia, la intensidad se reduce a un dieciseisavo.** I(2) = 1.200/4 = 300; I(8) = 1.200/64 = 18,75; como d está al cuadrado, (1/4)² = 1/16. | OA 3 | Álgebra y Funciones |
 | 15 | **b) Máxima 30 °C, mínima 24 °C, período 24 horas.** Máxima D+A = 30; mínima D−A = 24; período 2π/(π/12) = 24 horas. | OA 3 | Álgebra y Funciones |
-| 16 | **c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar.** | OA 3 | Álgebra y Funciones |
+| 16 | **c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar.** Las mareas se repiten en ciclos (modelo trigonométrico); una sustancia que se reduce a la mitad cada cierto tiempo sigue un modelo exponencial decreciente. | OA 3 | Álgebra y Funciones |
 | 17 | b) el peso en gramos de 300 sandías cosechadas en un campo (variable continua que se distribuye simétricamente en torno a un promedio) | OA 2 | Probabilidad y Estadística |
-| 18 | b) 95% | OA 2 | Probabilidad y Estadística |
+| 18 | b) 95%. En una distribución normal, cerca del 68% de los datos está a una desviación estándar de la media, el 95% a dos y el 99,7% a tres. | OA 2 | Probabilidad y Estadística |
 | 19 | c) 5 (μ = n×p = 20×0,25 = 5) | OA 2 | Probabilidad y Estadística |
-| 20 | b) la muestra tiene sesgo de selección: son seguidores del producto, no representan a toda la población | OA 2 | Probabilidad y Estadística |
+| 20 | b) la muestra tiene sesgo de selección: son seguidores del producto, no representan a toda la población. Encuestar solo a seguidores de la cuenta del producto produce un sesgo de selección: no representan a todos los usuarios. | OA 2 | Probabilidad y Estadística |
 | 21 | **a) 28/256 ≈ 10,94%.** C(8,6) = 28; P(X=6) = 28×(0,5)⁸ = 28/256 ≈ 0,1094. | OA 2 | Probabilidad y Estadística |
 | 22 | **d) μ = 9 y σ ≈ 2,95.** μ = np = 9; σ² = np(1−p) = 8,73; σ = √8,73 ≈ 2,95. 8,73 es la varianza, no la desviación estándar. | OA 2 | Probabilidad y Estadística |
 | 23 | **b) Entre 36 y 84 minutos.** El 99,7% está en μ ± 3σ = 60 ± 24. 52–68 corresponde a ±1σ (68%) y 44–76, a ±2σ (95%). | OA 2 | Probabilidad y Estadística |
 | 24 | **c) No se puede concluir causalidad: ambas variables probablemente dependen de una tercera, como el tamaño de la población.** Es un caso de correlación sin causalidad. | OA 2 | Probabilidad y Estadística |
-| 25 | **a) Probabilidad total: 0,60×0,05 + 0,40×0,12 = 0,078 (7,8%).** | OA 2 | Probabilidad y Estadística |
+| 25 | **a) Probabilidad total: 0,60×0,05 + 0,40×0,12 = 0,078 (7,8%).** Se ponderan los retrasos de cada zona por su proporción de pedidos: 0,60 · 0,05 + 0,40 · 0,12 = 0,030 + 0,048 = 0,078. | OA 2 | Probabilidad y Estadística |
 
 ### Resumen de cobertura curricular
 

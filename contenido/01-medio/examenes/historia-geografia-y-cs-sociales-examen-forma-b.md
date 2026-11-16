@@ -392,30 +392,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | d) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833 | OA 1 | Historia | 1 |
-| 2  | Alternativas | a) La libre asociación | OA 1 | Historia | 1 |
-| 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano | OA 3 | Historia | 1 |
-| 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX | OA 7 | Historia | 1 |
-| 5  | Alternativas | c) Los pelucones y estanqueros | OA 8 | Historia | 1 |
-| 6 | Alternativas | **a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833.** | OA 8 | Historia | 2 |
-| 7  | Alternativas | d) California y Australia | OA 10 | Historia | 1 |
-| 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje | OA 10 | Historia | 1 |
-| 9  | Alternativas | d) Temuco | OA 14 | Historia | 1 |
-| 10 | Alternativas | **d) Por la pérdida de la mayor parte del territorio ancestral, el empobrecimiento y la pérdida de autonomía, transformaciones que explican demandas territoriales vigentes.** | OA 14 | Historia | 2 |
-| 11 | Alternativas | c) A la pérdida del acceso soberano al mar por parte de Bolivia | OA 15 | Historia | 1 |
-| 12 | Alternativas | a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano | OA 15 | Historia | 1 |
-| 13 | Alternativas | b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad | OA 18 | Historia | 1 |
-| 14 | Alternativas | b) La matanza de la Escuela Santa María de Iquique | OA 18 | Historia | 1 |
+| 1  | Alternativas | d) La abolición legal de la esclavitud, como ocurrió en Chile en 1823 y en Gran Bretaña en 1833. El abolicionismo buscó terminar con la esclavitud por ley; en Chile, la libertad de vientres se dictó en 1811 y la abolición total, en 1823. | OA 1 | Historia | 1 |
+| 2  | Alternativas | a) La libre asociación. Formar sociedades y clubes sin pedir permiso al Estado es ejercer la libre asociación, una libertad que defendía el liberalismo. | OA 1 | Historia | 1 |
+| 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano. Italia estaba dividida en varios Estados; entre 1861 y 1870 se unificó en un solo Estado-nación, igual que Alemania en 1871. | OA 3 | Historia | 1 |
+| 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX. Los millones de muertos y la destrucción de la Primera Guerra Mundial hicieron dudar de la fe del siglo XIX en un progreso continuo de la humanidad. | OA 7 | Historia | 1 |
+| 5  | Alternativas | c) Los pelucones y estanqueros. Los pelucones (conservadores) y los estanqueros querían un Ejecutivo fuerte y centralizado; los pipiolos (liberales) preferían más libertades y descentralización. | OA 8 | Historia | 1 |
+| 6 | Alternativas | **a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833.** Tras la independencia hubo que crear un orden político nuevo: se ensayaron varias constituciones y gobiernos hasta que, tras Lircay (1830), se impuso el orden conservador. | OA 8 | Historia | 2 |
+| 7  | Alternativas | d) California y Australia. Las fiebres del oro de California (1848) y Australia (1851) aumentaron la demanda de alimentos, y Chile exportó trigo y harina a esos mercados. | OA 10 | Historia | 1 |
+| 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje. El salitre exigía mucho capital, maquinaria y trabajadores asalariados; la hacienda se basaba en la tierra y en el inquilinaje, con poca inversión. | OA 10 | Historia | 1 |
+| 9  | Alternativas | d) Temuco. Temuco se fundó en 1881 como fuerte, durante la ocupación de la Araucanía, y se convirtió en el centro de la presencia del Estado en la zona. | OA 14 | Historia | 1 |
+| 10 | Alternativas | **d) Por la pérdida de la mayor parte del territorio ancestral, el empobrecimiento y la pérdida de autonomía, transformaciones que explican demandas territoriales vigentes.** Los mapuches perdieron la mayor parte de su territorio, fueron reducidos a pequeñas tierras ("reducciones") y se empobrecieron: efectos que aún se sienten. | OA 14 | Historia | 2 |
+| 11 | Alternativas | c) A la pérdida del acceso soberano al mar por parte de Bolivia. Tras la Guerra del Pacífico, Bolivia perdió el litoral de Antofagasta y, con él, su acceso soberano al mar (Tratado de 1904). | OA 15 | Historia | 1 |
+| 12 | Alternativas | a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano. El conflicto se originó en disputas por la explotación y los impuestos del salitre en Antofagasta y Tarapacá, territorios entonces bolivianos y peruanos. | OA 15 | Historia | 1 |
+| 13 | Alternativas | b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad. Sin leyes que regularan la jornada, los salarios o la vivienda, los trabajadores vivían en condiciones muy precarias: eso agravó la "cuestión social". | OA 18 | Historia | 1 |
+| 14 | Alternativas | b) La matanza de la Escuela Santa María de Iquique. En diciembre de 1907, en la Escuela Santa María de Iquique, el ejército disparó contra obreros del salitre en huelga y sus familias; murieron cientos de personas. | OA 18 | Historia | 1 |
 | 15 | Varias correctas | **a, b y c.** El cambio de siglo combinó nuevas formas de lucha obrera, transformación ideológica de los partidos y protagonismo creciente de los sectores medios. | OA 18 | Historia | 3 |
-| 16 | Alternativas | b) Documentar la geografía, flora, fauna y geología del territorio nacional | OA 12 | Geografía | 1 |
-| 17 | Alternativas | **b) La burocracia procesó la información de censos y misiones y aplicó políticas; las redes integraron zonas antes aisladas, llevando la presencia del Estado a todo el territorio.** | OA 12 | Geografía | 2 |
-| 18 | Alternativas | b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo | OA 20 | Formación Ciudadana | 1 |
-| 19 | Alternativas | c) La inflación | OA 20 | Formación Ciudadana | 1 |
-| 20 | Alternativas | c) El socialcristianismo | OA 23 | Formación Ciudadana | 1 |
-| 21 | Alternativas | **c) El liberalismo aceptaba cierta intervención estatal sin cuestionar el mercado ni la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción.** | OA 23 | Formación Ciudadana | 2 |
-| 22 | Alternativas | a) Rapa Nui | OA 24 | Formación Ciudadana | 1 |
+| 16 | Alternativas | b) Documentar la geografía, flora, fauna y geología del territorio nacional. Claudio Gay (naturalista) e Ignacio Domeyko (geólogo y mineralogista) estudiaron y describieron la geografía, la flora, la fauna y los minerales de Chile para el Estado. | OA 12 | Geografía | 1 |
+| 17 | Alternativas | **b) La burocracia procesó la información de censos y misiones y aplicó políticas; las redes integraron zonas antes aisladas, llevando la presencia del Estado a todo el territorio.** La burocracia ordenó la información (censos, mapas) y aplicó políticas; caminos, ferrocarriles y telégrafo conectaron las regiones con el gobierno central. | OA 12 | Geografía | 2 |
+| 18 | Alternativas | b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo. En un monopolio, una sola empresa controla la oferta y puede fijar precios sin competencia. | OA 20 | Formación Ciudadana | 1 |
+| 19 | Alternativas | c) La inflación. Un alza generalizada y sostenida de los precios es inflación; la deflación es lo contrario. | OA 20 | Formación Ciudadana | 1 |
+| 20 | Alternativas | c) El socialcristianismo. El socialcristianismo, basado en la doctrina social de la Iglesia, pedía justicia social y mejores condiciones para los trabajadores, sin la lucha de clases. | OA 23 | Formación Ciudadana | 1 |
+| 21 | Alternativas | **c) El liberalismo aceptaba cierta intervención estatal sin cuestionar el mercado ni la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción.** El liberalismo aceptó algunas leyes sociales sin cuestionar la propiedad privada ni el mercado; el socialismo proponía transformaciones profundas de la propiedad y la economía. | OA 23 | Formación Ciudadana | 2 |
+| 22 | Alternativas | a) Rapa Nui. El pueblo rapa nui habita Isla de Pascua (Rapa Nui), en la Polinesia; los kawésqar viven en los canales australes. | OA 24 | Formación Ciudadana | 1 |
 | 23 | Alternativas | **a) Conflicto: la anexión de 1888 y las restricciones a la movilidad y a la tierra. Convivencia: los avances legales actuales de reconocimiento y protección.** Distintos períodos combinan episodios de conflicto y de convivencia o negociación. | OA 24 | Formación Ciudadana | 2 |
-| 24 | Alternativas | b) La lluvia ácida generada por la contaminación atmosférica industrial | OA 25 | Formación Ciudadana | 1 |
+| 24 | Alternativas | b) La lluvia ácida generada por la contaminación atmosférica industrial. La industrialización contaminó el aire con gases como el dióxido de azufre, que generan lluvia ácida y dañan bosques, lagos y edificios. | OA 25 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **d) Los residuos industriales y mineros vertidos sin tratamiento contaminaron de forma acumulativa ríos y costas; una medida es aplicar regulaciones más estrictas y remediar los suelos y aguas contaminados.** El desarrollo sostenible busca equilibrar crecimiento económico, equidad social y cuidado ambiental. | OA 25 | Formación Ciudadana | 3 |
 
 **Puntaje total: 34 puntos**

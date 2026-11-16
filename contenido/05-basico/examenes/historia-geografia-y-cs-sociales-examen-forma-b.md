@@ -76,16 +76,15 @@ d) Desastre de Curalaba – fundación de Santiago – expedición de Valdivia �
 **Pregunta 3.** (1 punto)
 
 > **Estímulo — registro de fundaciones:** Santiago (1541, punto de referencia);
-> La Serena (1544, al norte de Santiago); Concepción (1550, al sur de Santiago);
-> Valdivia (1552, al sur de Santiago).
+> Concepción (1550, al sur de Santiago); La Imperial (1551, al sur de Santiago);
+> Osorno (1558, al sur de Santiago); Castro (1567, en la isla de Chiloé).
 
-Un estudiante afirma: "Todas estas ciudades se fundaron el mismo año y solo en el centro
- del territorio". ¿Qué respuesta refuta esa afirmación usando el registro?
+Un estudiante afirma: "Todas estas ciudades se fundaron en un mismo año y al norte de Santiago". ¿Qué respuesta refuta esa afirmación usando el registro?
 
 a) La conquista fue un hecho instantáneo, ocurrido en un solo año
-b) Las ciudades se fundaron únicamente en el extremo sur de Chile
-c) Todas las ciudades fueron fundadas simultáneamente por Diego de Almagro
-d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago
+b) Las ciudades se fundaron únicamente en el desierto del norte
+c) Todas las ciudades fueron fundadas el mismo día por Diego de Almagro
+d) Se fundaron en años distintos (entre 1541 y 1567) y avanzando hacia el sur, hasta Chiloé
 
 ---
 
@@ -207,9 +206,9 @@ d) La esclavitud de indígenas
 **Pregunta 13.** (3 puntos)
 
 > **Estímulo — fuente histórica adaptada:**
-> "Un español encomendero recibía un grupo de indígenas 'encomendados': estos debían
-> trabajar para él en la agricultura, la minería o el servicio doméstico y, a cambio, el
-> encomendero tenía la obligación de evangelizarlos y 'protegerlos'."
+> "Por orden del gobernador, los indios del pueblo de Quillota quedan asignados al vecino
+> don Pedro de Miranda. Trabajarán en sus tierras y en los lavaderos de oro, y él deberá
+> enseñarles la doctrina cristiana y cuidar de ellos." (documento colonial imaginado con fines didácticos)
 
 A partir del estímulo y de lo que sabes sobre la relación entre españoles y mapuches durante
 la Colonia, ¿qué forma de relación ilustra este texto, y qué otras dos formas de relación entre
@@ -404,27 +403,27 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
 | 1  | Alternativas      | d) Afirmar su presencia en el territorio, administrarlo y demostrar su voluntad de quedarse y expandirse. Las ciudades fundadas eran la forma concreta de ejercer dominio y organizar la vida colonial; las demás opciones son incorrectas porque las ciudades dependían de la Corona, no eran refugios temporales ni espacios de negociación entre iguales | OA 2 | Historia | 1 |
-| 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba | OA 2 | Historia | 1 |
-| 3  | Alternativas      | d) Se fundaron en años distintos y en lugares al norte y al sur de Santiago. El registro abarca 11 años (1541–1552) y distintas ubicaciones, por lo que contradice la afirmación del estudiante | OA 2 | Historia | 1 |
+| 2  | Alternativas      | a) Expedición de Almagro – expedición de Valdivia – fundación de Santiago – desastre de Curalaba. Almagro llegó primero (1536); luego vino Valdivia, que fundó Santiago en 1541, y mucho después ocurrió el desastre de Curalaba (1598). | OA 2 | Historia | 1 |
+| 3  | Alternativas      | d) Se fundaron en años distintos (entre 1541 y 1567) y avanzando hacia el sur, hasta Chiloé. El registro abarca 26 años y muestra que la conquista avanzó hacia el sur, lo que contradice la afirmación del estudiante | OA 2 | Historia | 1 |
 | 4 | Alternativas | **a) El mestizaje.** La mezcla de personas, idiomas y costumbres españolas e indígenas fue el elemento central de la nueva sociedad. | OA 2 | Historia | 2 |
-| 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas | OA 3 | Historia | 1 |
+| 5  | Alternativas      | c) La fuerte disminución de la población originaria y la pérdida de sus estructuras políticas. La conquista provocó en América una gran disminución de la población originaria, por las guerras, el trabajo forzado y las enfermedades traídas de Europa. El oro, los nuevos alimentos y el poder político benefician sobre todo a Europa. | OA 3 | Historia | 1 |
 | 6  | Alternativas      | d) Político. El reemplazo de las autoridades de los pueblos originarios por autoridades nombradas por el rey es una pérdida de gobierno propio, es decir, una consecuencia en el ámbito político; no se refiere directamente a comida, población ni economía | OA 3 | Historia | 1 |
 | 7 | Alternativas | **d) Una gran disminución de la población indígena por las guerras, los trabajos forzados y las enfermedades traídas desde Europa.** Para Europa, en cambio, la conquista significó riqueza y más poder. | OA 3 | Historia | 2 |
-| 8  | Alternativas      | b) La educación, fundando escuelas y los primeros colegios | OA 6 | Historia | 1 |
-| 9  | Alternativas      | b) Sincretismo | OA 6 | Historia | 1 |
+| 8  | Alternativas      | b) La educación, fundando escuelas y los primeros colegios. Además de evangelizar, la Iglesia fundó escuelas y colegios y se ocupó de hospitales: fue clave en la educación durante la Colonia. | OA 6 | Historia | 1 |
+| 9  | Alternativas      | b) Sincretismo. El sincretismo es la mezcla de creencias y prácticas religiosas de distintas culturas, como las fiestas que combinan tradiciones indígenas y católicas. | OA 6 | Historia | 1 |
 | 10 | Alternativas | **b) No podía hacerlo legalmente: el comercio de la colonia debía hacerse principalmente con España.** Esa dependencia económica limitaba el desarrollo de Chile. | OA 6 | Historia | 2 |
-| 11 | Alternativas      | b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de paz y comercio | OA 7 | Historia | 1 |
+| 11 | Alternativas      | b) El río Biobío como límite entre el territorio español y el mapuche, además de acuerdos de paz y comercio. En el Parlamento de Quillín (1641), españoles y mapuches acordaron que el río Biobío sería la frontera entre sus territorios. | OA 7 | Historia | 1 |
 | 12 | Alternativas      | c) La vida fronteriza. El estímulo describe intercambio de productos, convivencia y familias mixtas en torno al Biobío, lo que caracteriza a la vida fronteriza; no hay trabajo forzado (encomienda/esclavitud) ni conflicto bélico (Guerra de Arauco) | OA 7 | Historia | 1 |
 | 13 | Alternativas | **c) La encomienda; además: la Guerra de Arauco (conflicto bélico) y los parlamentos (negociación de acuerdos).** El texto describe trabajo forzado a cambio de evangelización y "protección": la encomienda. Otras formas de relación fueron la Guerra de Arauco, los parlamentos (como Quillín), la vida fronteriza en torno al Biobío, la evangelización y el mestizaje; el voto universal o el voto femenino no existían en la Colonia. | OA 7 | Historia | 3 |
 | 14 | Alternativas      | d) Zona Sur. Los bosques, lagos, lluvias abundantes, la agricultura y la ganadería corresponden a la Zona Sur; el Norte Grande es desértico, la Zona Central tiene clima mediterráneo sin esa pluviosidad y la Zona Austral se caracteriza por fiordos y glaciares | OA 9 | Geografía | 1 |
-| 15 | Alternativas      | b) Norte Chico | OA 9 | Geografía | 1 |
+| 15 | Alternativas      | b) Norte Chico. El Norte Chico tiene valles transversales, como los del Elqui y del Limarí, donde se cultivan frutas y uva, y también hay minería. | OA 9 | Geografía | 1 |
 | 16 | Alternativas      | c) Zona Austral – Zona Central – Norte Grande (orden invertido, es incorrecto) | OA 9 | Geografía | 1 |
 | 17 | Alternativas | **a) La Zona Central, por su clima mediterráneo (inviernos lluviosos y veranos secos) y porque concentra la mayor población y actividad económica.** El clima mediterráneo es apto para hortalizas y frutales, y la gran población de la Zona Central ofrece un mercado cercano para vender. | OA 9 | Geografía | 2 |
-| 18 | Alternativas      | c) El bosque nativo de la Zona Sur | OA 10 | Geografía | 1 |
-| 19 | Alternativas      | a) Cobre y hierro | OA 10 | Geografía | 1 |
+| 18 | Alternativas      | c) El bosque nativo de la Zona Sur. El bosque nativo se puede renovar si se maneja bien; el cobre, el hierro y otros minerales no se vuelven a formar en el tiempo humano. | OA 10 | Geografía | 1 |
+| 19 | Alternativas      | a) Cobre y hierro. El cobre y el hierro son minerales: una vez extraídos, no se renuevan. El bosque, el agua y los recursos del mar sí pueden renovarse. | OA 10 | Geografía | 1 |
 | 20 | Alternativas | **d) Porque puede regenerarse si se le da tiempo; para ser sostenible, la empresa debe reforestar y no talar más rápido de lo que el bosque vuelve a crecer.** Un recurso renovable se mantiene solo si se respeta su tiempo de regeneración y se repone lo que se extrae. | OA 10 | Geografía | 2 |
 | 21 | Alternativas      | b) Todas las personas son sujetos de derecho desde que nacen, sin importar sus características. Los derechos se poseen por el solo hecho de ser persona: no dependen de la edad, el lugar de nacimiento ni la situación económica, y tampoco están restringidos a quienes nacieron en Chile | OA 13 | Formación Ciudadana | 1 |
-| 22 | Alternativas      | b) Universales | OA 13 | Formación Ciudadana | 1 |
+| 22 | Alternativas      | b) Universales. Los derechos humanos son universales: pertenecen a todas las personas, sin importar su condición, su origen o si tienen una discapacidad. | OA 13 | Formación Ciudadana | 1 |
 | 23 | Alternativas | **b) La igualdad: todas las personas tienen los mismos derechos, sin importar dónde nacieron.** Hacer depender un derecho del lugar de nacimiento es discriminación. | OA 13 | Formación Ciudadana | 2 |
 | 24 | Alternativas      | b) Todas las personas deben respetar las leyes, porque los derechos generan también deberes y responsabilidades. Cumplir la ley no es opcional ni depende de la conveniencia personal ni de la aprobación de un grupo | OA 14 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **c) Ejerce la libertad de expresión; su deber es respetar la opinión y los derechos de los demás, porque ejercer un derecho no puede pasar a llevar los derechos de otro.** Si las personas solo exigieran derechos sin cumplir deberes, la convivencia se volvería desordenada e injusta: por eso es importante el equilibrio entre derechos y deberes. | OA 14 | Formación Ciudadana | 3 |

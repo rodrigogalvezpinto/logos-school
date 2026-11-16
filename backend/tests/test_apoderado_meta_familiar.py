@@ -1,7 +1,7 @@
 """Idea 9 del boceto de innovación (2026-08-17): metas familiares compartidas, no ranking
 entre hermanos. Ver `app/application/apoderado/consultas.py`."""
 
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 
 from app.infrastructure.persistence.orm_models import Asignatura, Nivel, ObjetivoAprendizaje, ProgresoOA
 
@@ -79,7 +79,7 @@ def test_meta_familiar_semana_anterior_con_fecha_directa_en_bd(client, session):
     perfil_a = _agregar_alumno(client, headers, nivel.id, "Alumno A", "1-9")
     perfil_b = _agregar_alumno(client, headers, nivel.id, "Alumno B", "2-7")
 
-    hoy = date.today()
+    hoy = datetime.now(timezone.utc).date()  # la app calcula la semana en UTC
     inicio_semana_actual = hoy - timedelta(days=hoy.weekday())
     hace_9_dias = inicio_semana_actual - timedelta(days=2)  # cae en la semana anterior
 

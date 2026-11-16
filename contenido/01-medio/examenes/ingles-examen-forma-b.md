@@ -246,31 +246,31 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. | OA9 |
+| 1 | a) Rosalind Franklin's X-ray images were essential to the discovery of the structure of DNA. El texto dice explícitamente que sus imágenes de rayos X "were essential to discovering the structure of DNA". No dice que lo descubrió sola ni que recibió un Nobel. | OA9 |
 | 2 | **a) about / how.** About introduce el tema y how explica el modo o proceso. | OA9 |
 | 3 | False (Falso) — el texto afirma que los pingüinos crían a sus polluelos en la costa, no en mar abierto; lo contrario a la afirmación. | OA9 |
 | 4 | **d) It was held in 1930, in Uruguay.** La respuesta debe incluir el año y el lugar explícitos del texto. | OA9 |
 | 5 | **b) Chilean / 1889 / Nobel Prize in Literature.** Completar un esquema exige extraer datos puntuales y ubicarlos en la categoría correcta. | OA9 |
-| 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | d) To persuade/instruct readers to change a behavior | OA10 |
+| 6 | c) Use context and known words to infer the general meaning before using a dictionary. Usar el contexto y las palabras conocidas permite entender la idea general sin traducir todo; el diccionario se usa después, para palabras clave. | OA9 |
+| 7 | d) To persuade/instruct readers to change a behavior. "Recycle today!" y "Separate your paper…" son órdenes que buscan que el lector cambie un hábito: el texto persuade o instruye. | OA10 |
 | 8 | **c) However.** However marca el contraste entre la tienda cerrada y haber encontrado otra. | OA10 |
 | 9 | True (Verdadero) — se plantea un problema (exceso de tareas) y una solución (reducir la carga), conectados por *so*. | OA10 |
 | 10 | **a) irregular.** El prefijo ir- se usa antes de adjetivos que comienzan con r. | OA10 |
 | 11 | **d) guitarist.** El sufijo -ist forma ocupaciones vinculadas a instrumentos. | OA10 |
-| 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. | OA10 |
+| 12 | a) Que el museo fue las dos cosas al mismo tiempo: educativo y entretenido. "Both… and…" significa "tanto… como…": el museo fue educativo y entretenido a la vez. | OA10 |
 | 13 | **b) In.** La expresión fija es in my opinion. | OA13 |
-| 14 | c) I believe we must save water, because many regions are suffering long droughts. | OA13 |
+| 14 | c) I believe we must save water, because many regions are suffering long droughts. "I believe we must save water" es una opinión, y "because many regions are suffering long droughts" la justifica. | OA13 |
 | 15 | **c) read / liked.** Read es irregular (se escribe igual en pasado); like agrega -d. | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural. | OA13 |
 | 17 | **a) water pollution / many rivers near cities are full of waste.** Se debe nombrar un problema global y dar un ejemplo coherente con for example. | OA13 |
-| 18 | b) The text I read was about Beethoven, a composer who kept writing music even after he lost his hearing. | OA13 |
+| 18 | b) The text I read was about Beethoven, a composer who kept writing music even after he lost his hearing. Un buen resumen dice de qué trataba el texto y su idea principal en una oración completa, sin opiniones ajenas al texto. | OA13 |
 | 19 | **d) four thousand.** Thousand no lleva -s cuando va precedido de un número exacto. | OA16 |
 | 20 | b) have lived. El presente perfecto con *for* expresa una acción que empezó en el pasado y continúa hoy. | OA16 |
 | 21 | **b) was painted.** Pasiva en pasado: was/were + participio. | OA16 |
 | 22 | True (Verdadero) — *used to* + verbo describe una acción habitual o estado en el pasado que ya no se repite en el presente. | OA16 |
 | 23 | **c) For ten years.** For + período responde a how long; ago indica cuándo ocurrió algo. | OA16 |
 | 24 | **a) who / where.** Who se usa para personas y where para lugares. | OA16 |
-| 25 | b) She has worked as a tourist guide for ten years and she is really cheerful. | OA16 |
+| 25 | b) She has worked as a tourist guide for ten years and she is really cheerful. "Has worked… for ten years" es presente perfecto (have/has + participio) para algo que empezó en el pasado y sigue; "she is really cheerful" describe una cualidad. | OA16 |
 
 ### Resumen de puntaje por OA
 

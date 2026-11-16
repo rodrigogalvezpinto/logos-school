@@ -51,12 +51,12 @@ b) Porque brillan con la luz del sol, igual que los paneles solares en los techo
 c) Porque el Sol los cocina en el campo mientras crecen, y por eso algunos alimentos ya no hay que cocinarlos en la casa
 d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol
 
-**5. (Alternativas — OA11)** ¿Cuál de los siguientes recursos energéticos es **renovable**?
+**5. (Alternativas — OA11)** Una comuna del norte quiere generar electricidad sin agotar sus recursos en el futuro. ¿Qué recurso energético le conviene, por ser renovable?
 
 a) Petróleo
 b) Gas natural
 c) Carbón
-d) Energía solar
+d) La radiación del Sol, con paneles solares
 
 **6. (Verdadero o Falso — OA11)** El viento constante de algunas zonas costeras de Chile permite instalar parques eólicos para producir electricidad.
 
@@ -112,7 +112,7 @@ d) Las partículas desaparecen al recibir calor y son reemplazadas por partícul
    ocurra cualquier tipo de cambio, ya sea movimiento, luz, sonido o calor.
 3. a) Energía lumínica. La ampolleta transforma la energía eléctrica en luz (y algo de calor).
 4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol. La energía de los alimentos viene del Sol: las plantas la captan con la fotosíntesis, y los animales la obtienen al comer plantas o a otros animales que las comieron.
-5. **d.** La energía solar no se agota con el uso; el petróleo, el gas y el carbón son combustibles fósiles no renovables.
+5. **d) La radiación del Sol, con paneles solares.** La energía solar se renueva cada día y no se agota; el petróleo, el gas natural y el carbón son combustibles fósiles que tardaron millones de años en formarse.
 6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
 7. b y d — Renovables: eólica y geotérmica. No renovables: gas natural y petróleo.
 8. a, b y d — Dejar aparatos encendidos sin uso desperdicia energía.

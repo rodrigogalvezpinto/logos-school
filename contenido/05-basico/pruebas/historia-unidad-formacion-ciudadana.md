@@ -40,13 +40,12 @@ d) Solo cuando sea adulta
 
 ---
 
-**3. (Alternativas)** ¿Quiénes deben respetar los derechos de las personas, según lo
-estudiado en este eje?
+**3. (Alternativas)** En una escuela, un grupo de compañeros molesta todos los días a una estudiante. ¿Quiénes tienen el deber de respetar y proteger sus derechos?
 
-a) Solo el Estado
-b) Solo los pares (otras personas)
-c) Los pares, la comunidad y el Estado
-d) Nadie está obligado a respetarlos
+a) Solo el Estado, a través de sus autoridades
+b) Solo sus compañeros de curso
+c) Sus pares, la comunidad escolar y el Estado
+d) Nadie, porque es un problema entre niños
 
 ---
 
@@ -74,13 +73,12 @@ d) Sí, porque es persona desde que nace y es sujeto de derecho
 
 ---
 
-**7. (Alternativas)** ¿Cuál de las siguientes es una responsabilidad del Estado, según lo
-estudiado en este eje?
+**7. (Alternativas)** Un pueblo de la cordillera no tiene escuela cerca y los niños deben viajar dos horas para estudiar. ¿Qué responsabilidad del Estado está en juego?
 
-a) Impedir que las personas se organicen en juntas de vecinos o clubes deportivos
-b) Asegurar que las personas puedan ejercer derechos como la educación y la salud
-c) Decidir quién puede o no puede votar según la opinión política de cada persona
-d) Prohibir la formación de partidos políticos para evitar los conflictos entre personas
+a) Impedir que las familias se organicen para pedir una escuela
+b) Asegurar que los niños puedan ejercer su derecho a la educación, por ejemplo con una escuela o con transporte escolar
+c) Decidir qué familias pueden educarse según su opinión política
+d) Prohibir que los niños estudien lejos de su casa
 
 ---
 
@@ -138,7 +136,7 @@ derechos se poseen por el solo hecho de ser persona.
 **2.** Verdadero. Los derechos no dependen del sexo ni de ninguna otra característica individual.
 sexo o el lugar de nacimiento: son los mismos para todas las personas.
 
-**3.** c) Los pares, la comunidad y el Estado. El respeto a los derechos involucra a otras
+**3.** **c) Sus pares, la comunidad escolar y el Estado.** El respeto de los derechos es una responsabilidad compartida: los compañeros deben tratarla con respeto, la comunidad escolar debe intervenir y el Estado debe garantizar una educación segura.
 personas, el entorno cercano y las instituciones del Estado.
 
 **4.** a) El principio de universalidad: los derechos son iguales para todas las personas. Se discrimina por el lugar de nacimiento, que no debería influir en el acceso a los derechos.
@@ -148,7 +146,7 @@ personas, el entorno cercano y las instituciones del Estado.
 **6.** Verdadero. Los derechos son universales: la edad no los quita.
 una condición de discapacidad, disminuye o cambia los derechos que una persona posee.
 
-**7.** b) Asegurar que las personas puedan ejercer derechos como la educación y la salud. El
+**7.** **b) Asegurar que los niños puedan ejercer su derecho a la educación, por ejemplo con una escuela o con transporte escolar.** El Estado debe asegurar que todas las personas puedan ejercer derechos como la educación y la salud, aunque vivan en lugares alejados.
 Estado debe garantizar que los derechos se puedan ejercer efectivamente, no solo
 reconocerlos.
 

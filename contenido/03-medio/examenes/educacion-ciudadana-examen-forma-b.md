@@ -120,11 +120,10 @@ b) Porque las pensiones de alimentos no son derechos exigibles, sino acuerdos pr
 c) Porque es una materia de familia, no penal, y corresponde a la CAJ; la Defensoría Penal solo defiende en causas penales
 d) Porque corresponde al Ministerio Público, que representa a las personas en todas las causas de familia
 
-**8.** (Selección múltiple — 4 puntos) ¿Cuál es la máxima instancia del sistema judicial chileno
-para revisar los fallos de tribunales inferiores?
+**8.** (Selección múltiple — 4 puntos) Una persona perdió su juicio en un tribunal de primera instancia y luego también en la Corte de Apelaciones. ¿Ante qué tribunal podría recurrir como última instancia de revisión?
 
 a) El juzgado de garantía
-b) La Corte de Apelaciones
+b) Otra Corte de Apelaciones
 c) La Corte Suprema
 d) El Ministerio Público
 
@@ -325,31 +324,31 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / Elementos esperados en la respuesta | OA |
 |----|------|-----------------------------------------------|:---:|
-| 1 | Alternativas | **d)** La soberanía popular | OA 1 |
-| 2 | Alternativas | **a) Porque la soberanía popular exige que el poder emane efectivamente de la ciudadanía con opciones reales; que un gobierno afirme representar al pueblo no sustituye ese requisito.** | OA 1 |
-| 3 | Alternativas | **d)** La igualdad de voto | OA 1 |
-| 4 | Alternativas | **c)** Control de la agenda | OA 1 |
+| 1 | Alternativas | **d)** La soberanía popular. Si la ciudadanía no puede elegir realmente a sus autoridades, el poder no emana del pueblo: se vulnera la soberanía popular. | OA 1 |
+| 2 | Alternativas | **a) Porque la soberanía popular exige que el poder emane efectivamente de la ciudadanía con opciones reales; que un gobierno afirme representar al pueblo no sustituye ese requisito.** Que un gobierno diga representar al pueblo no lo demuestra: solo las elecciones libres, con alternativas reales, muestran que el poder emana de la ciudadanía. | OA 1 |
+| 3 | Alternativas | **d)** La igualdad de voto. La igualdad de voto (una persona, un voto) es un atributo observable del funcionamiento democrático; la dignidad, los Derechos Humanos y la soberanía popular son fundamentos. | OA 1 |
+| 4 | Alternativas | **c)** Control de la agenda. Lograr que un tema nuevo entre en la discusión pública y legislativa es ejercer el control de la agenda. | OA 1 |
 | 5 | Alternativas | **d) Por ejemplo, la igualdad de voto sin libertad de prensa permite votar, pero sin información para decidir libremente; una democracia real requiere ambos a la vez.** Una democracia real requiere el cumplimiento simultáneo de todos sus atributos, no de uno aislado. | OA 1 |
-| 6 | Alternativas | **c)** La Corporación de Asistencia Judicial (CAJ) | OA 2 |
-| 7 | Alternativas | **c) Porque es una materia de familia, no penal, y corresponde a la CAJ; la Defensoría Penal solo defiende en causas penales.** | OA 2 |
-| 8 | Alternativas | **c)** La Corte Suprema | OA 2 |
-| 9 | Alternativas | **d)** Permiten que el acceso a la justicia no dependa de la capacidad de pago | OA 2 |
-| 10 | Alternativas | **d)** El sueldo justo | OA 4 |
+| 6 | Alternativas | **c)** La Corporación de Asistencia Judicial (CAJ). La Corporación de Asistencia Judicial representa gratuitamente en materias no penales, como las de familia y las civiles. | OA 2 |
+| 7 | Alternativas | **c) Porque es una materia de familia, no penal, y corresponde a la CAJ; la Defensoría Penal solo defiende en causas penales.** Una demanda de alimentos es una materia de familia; la Defensoría Penal Pública solo defiende a personas imputadas en causas penales. | OA 2 |
+| 8 | Alternativas | **c) La Corte Suprema.** La Corte Suprema es el tribunal superior del Poder Judicial y revisa, mediante recursos como el de casación, fallos de los tribunales inferiores. El Ministerio Público no es un tribunal: investiga delitos. | OA 2 |
+| 9 | Alternativas | **d)** Permiten que el acceso a la justicia no dependa de la capacidad de pago. Los mecanismos gratuitos permiten que una persona sin dinero también pueda defender sus derechos ante los tribunales. | OA 2 |
+| 10 | Alternativas | **d)** El sueldo justo. El debate sobre cuánto debe ganar un trabajador para vivir dignamente corresponde a la discusión sobre el sueldo justo. | OA 4 |
 | 11 | Alternativas | **c) Porque una postura sostiene que los sueldos deben reflejar la productividad y la oferta y demanda, y otra que el Estado debe asegurar un mínimo digno; ambas son legítimas.** No hay una única respuesta correcta; ambas posturas deben presentarse como legítimas. | OA 4 |
-| 12 | Alternativas | **c)** Proveedora de bienes y servicios | OA 4 |
-| 13 | Alternativas | **a) Desarrollo sustentable: equilibrar desarrollo económico, protección ambiental y bienestar de las generaciones futuras.** | OA 4 |
-| 14 | Alternativas | **b)** Indivisibilidad | OA 5 |
-| 15 | Alternativas | **d) Por la indivisibilidad: ambos grupos de derechos tienen la misma jerarquía, y respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos.** | OA 5 |
-| 16 | Alternativas | **b)** 1948 | OA 5 |
-| 17 | Alternativas | **b)** El deber de proteger | OA 5 |
-| 18 | Alternativas | **a)** Liberal | OA 6 |
+| 12 | Alternativas | **c)** Proveedora de bienes y servicios. Al entregar directamente un servicio que el mercado no cubre para todos, el Estado cumple su función proveedora. | OA 4 |
+| 13 | Alternativas | **a) Desarrollo sustentable: equilibrar desarrollo económico, protección ambiental y bienestar de las generaciones futuras.** Exigir tecnologías limpias aunque baje la rentabilidad busca equilibrar crecimiento, protección ambiental y bienestar: es desarrollo sustentable. | OA 4 |
+| 14 | Alternativas | **b)** Indivisibilidad. Los derechos civiles, políticos, económicos y sociales tienen la misma jerarquía: postergar uno de ellos vulnera la indivisibilidad. | OA 5 |
+| 15 | Alternativas | **d) Por la indivisibilidad: ambos grupos de derechos tienen la misma jerarquía, y respetar unos sin garantizar los otros deja incompleto el cumplimiento de los Derechos Humanos.** Por la indivisibilidad, sin salud, educación o vivienda tampoco se pueden ejercer plenamente los derechos civiles y políticos. | OA 5 |
+| 16 | Alternativas | **b)** 1948. La Asamblea General de la ONU proclamó la Declaración Universal de los Derechos Humanos el 10 de diciembre de 1948. | OA 5 |
+| 17 | Alternativas | **b)** El deber de proteger. El Estado no solo debe abstenerse de violar derechos (respetar): también debe impedir que otros los violen. Aquí incumple el deber de proteger. | OA 5 |
+| 18 | Alternativas | **a)** Liberal. Poner en el centro la libertad individual y los derechos de cada persona es propio de la perspectiva liberal. | OA 6 |
 | 19 | Alternativas | **b) Valentina: comunitarismo; Tomás: republicanismo.** El comunitarismo enfatiza la identidad compartida; el republicanismo, el deber cívico de participar. | OA 6 |
-| 20 | Alternativas | **b)** Difundir información falsa deliberadamente para influir en una votación | OA 6 |
+| 20 | Alternativas | **b)** Difundir información falsa deliberadamente para influir en una votación. Difundir información falsa a propósito engaña a la ciudadanía y daña el bien común; las demás opciones son formas legítimas de participación. | OA 6 |
 | 21 | Alternativas | **c) Prioriza los derechos y libertades individuales, y entiende la participación como una decisión voluntaria.** El comunitarismo enfatiza los lazos compartidos y el republicanismo, el deber cívico activo. | OA 6 |
-| 22 | Alternativas | **a)** Plan regulador comunal | OA 7 |
+| 22 | Alternativas | **a)** Plan regulador comunal. El plan regulador comunal define los usos del suelo de una comuna (zonas residenciales, industriales, áreas verdes). | OA 7 |
 | 23 | Alternativas | **a) El acceso a un recurso valioso queda restringido a quienes pueden pagar proyectos inmobiliarios, excluyendo el acceso público general.** Las decisiones de uso de suelo no son neutras: definen quién accede a qué recursos. | OA 7 |
-| 24 | Alternativas | **b)** El Delegado o Delegada Presidencial Provincial | OA 7 |
-| 25 | Alternativas | **a)** El censo | OA 7 |
+| 24 | Alternativas | **b)** El Delegado o Delegada Presidencial Provincial. El delegado presidencial provincial es designado por el Presidente de la República y lo representa en la provincia; el gobernador regional, en cambio, es electo. | OA 7 |
+| 25 | Alternativas | **a)** El censo. El censo registra cuántas personas viven en cada lugar y sus características, y sirve para planificar escuelas, hospitales y transporte. | OA 7 |
 
 
 # PUNTAJE Y VERSIÓN ANTERIOR

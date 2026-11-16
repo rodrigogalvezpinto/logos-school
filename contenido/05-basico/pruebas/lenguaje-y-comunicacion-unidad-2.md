@@ -71,12 +71,12 @@ d) Martina y su amiga conversaron sobre el clima
 
 **6. (Verdadero o Falso)** Un diálogo puede mostrar cómo es un personaje, por ejemplo, si es amable o impaciente, por la forma en que habla.
 
-**7. (Alternativas)** ¿Qué descripción del ambiente de un mercado persa en un día de mucho calor usa detalles sensoriales?
+**7. (Alternativas)** ¿Qué descripción del ambiente de una caleta de pescadores en una mañana fría usa detalles sensoriales?
 
-a) Hacía mucho calor ese día en el mercado persa, y había mucha gente comprando en todos los puestos.
-b) El mercado persa es un lugar donde se venden muchas cosas distintas, como ropa, comida y juguetes.
-c) Fui al mercado persa con mi familia un día de mucho calor, compramos sopaipillas, ropa y juguetes, y después volvimos a mi casa en micro, muy cansados.
-d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas
+a) Hacía frío en la caleta y había muchos pescadores trabajando.
+b) La caleta es un lugar donde llegan los botes con pescados y mariscos.
+c) Fui a la caleta con mi abuelo una mañana fría y compramos pescado para el almuerzo.
+d) La neblina cubría los botes de colores; se sentía el olor a mar y a pescado fresco, mientras las gaviotas chillaban sobre el muelle.
 
 **8. (Alternativas)** Completa el relato con los conectores más adecuados: "___, Tomás preparó su mochila. ___, salió a la parada. ___, la micro no llegó. ___, decidió caminar."
 
@@ -122,7 +122,7 @@ d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
 4. a) Preguntar al Centro de Padres de la escuela, porque el afiche no entrega esa información. El afiche solo informa fecha, horario, lugar y actividades; que la entrada sea liberada no significa que la comida sea gratis.
 5. **c.** Retroalimentación: perder el trabajo una hora antes de presentarlo es una dificultad que la protagonista deberá resolver: eso es un conflicto.
 6. **Verdadero.** Retroalimentación: lo que dicen los personajes y cómo lo dicen revela su personalidad y su relación con los demás.
-7. d) El sol caía con fuerza sobre las carpas de colores; se sentía el olor a especias y a sopaipillas, mientras los vendedores gritaban sus ofertas. Una buena descripción usa detalles concretos de lo que se ve, se huele o se escucha.
+7. **d) La neblina cubría los botes de colores; se sentía el olor a mar y a pescado fresco, mientras las gaviotas chillaban sobre el muelle..** Los detalles sensoriales describen lo que se ve (la neblina, los botes de colores), lo que se huele (el mar, el pescado) y lo que se oye (las gaviotas). Las otras opciones solo informan.
 8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos, "sin embargo" introduce el cambio inesperado y "finalmente" cierra el relato.
 9. **a.** Retroalimentación: la primera oración presenta el tema de manera clara, para que quien lee sepa de qué tratará el artículo.
 10. **Falso.** Retroalimentación: cada párrafo debe desarrollar una idea central; los temas distintos se separan con punto aparte.

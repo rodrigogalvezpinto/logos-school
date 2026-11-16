@@ -87,6 +87,8 @@ control pendiente.
 
 ## Bitácora
 
+- 2026-11-15 (noche): **C.2 cerrado de verdad**: 0 copias exactas, 0 casi copias y 0 lecturas copiadas en pruebas y simulacros de los 12 cursos (§15.39). C.4 completo: las 769 explicaciones están escritas, en pruebas y en simulacros. **Defecto nuevo para la Fase 2:** fechas calculadas en UTC, así que la actividad del domingo en la noche se cuenta en la semana siguiente (§15.39). **Siguiente:** C.4 en simulacros, D (imágenes, decisión del usuario), control 6 (tag).
+
 - 2026-11-15: C.2, primera pasada completa en los 12 cursos (3.° y 4.° medio: 274 reescritas). **El detector tenía un punto ciego**: no comparaba las preguntas con lectura y solo veía copias exactas. Corregido, encuentra 62 copias exactas, 83 casi copias y lecturas de la guía reutilizadas en 6 pruebas y 5 simulacros → **C.2 reabierto**. Instrucciones de «desarrollo» corregidas en 30 archivos. Tablas, citas y títulos aplanados en la app: parser y E2E corregidos. **C.4 nuevo:** 769 explicaciones que solo repiten la clave; en curso, desde las pruebas. Muestra docente lista (§15.38). **Siguiente:** C.4 en las pruebas, luego C.2b (lecturas nuevas para Lengua de 1.° y 4.° medio y Lenguaje de 4.° básico, y las copias que quedan).
 
 - 2026-11-08 (noche): C.2 → 1.° a 8.° básico en 0 % (7.° y 8.° con Lengua reescrita y textos propios). Pendiente: 1.° a 4.° medio (70–90 %). Pendiente menor: autoevaluación de Lenguaje de 3.° básico, OA 6, falla intermitente en E2E con el equipo cargado; repetir con baja carga.

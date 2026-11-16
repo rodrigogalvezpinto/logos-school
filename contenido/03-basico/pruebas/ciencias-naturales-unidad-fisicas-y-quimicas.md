@@ -36,11 +36,11 @@ d) Tono
 
 **Pregunta 2 (verdadero o falso).** Si pones la oreja sobre una mesa y alguien golpea suavemente el otro extremo, puedes escuchar el golpe a través de la madera.
 
-**Pregunta 3 (alternativas — clasificar).** Gritar dentro de una cueva de piedra y escuchar el eco es un ejemplo de...
+**Pregunta 3 (alternativas — clasificar).** En un gimnasio vacío, Sofía aplaude y escucha que el aplauso se repite un instante después. ¿Qué le ocurre al sonido?
 
-a) Reflexión del sonido (eco)
-b) Absorción del sonido
-c) Ausencia de sonido
+a) Rebota en las paredes y vuelve a sus oídos (reflexión del sonido o eco)
+b) Las paredes lo absorben y desaparece
+c) No hay sonido, porque el gimnasio está vacío
 
 **Pregunta 4 (alternativas — tono e intensidad).** Un silbato suena agudo y fuerte, y un
 tambor grande suena grave y fuerte. ¿En qué característica se parecen y en cuál se
@@ -72,7 +72,7 @@ d) El pajarito tiene un tono más agudo y el camión, más intensidad
 
 1. **c) Reflexión (eco)** — el sonido rebota en las paredes y vuelve a tus oídos.
 2. **Verdadero** — el sonido se transmite por los sólidos, como la madera, y también por el aire y el agua.
-3. a) Reflexión del sonido (eco). Las superficies duras como la piedra reflejan el sonido; las cortinas y alfombras lo absorben.
+3. **a) Rebota en las paredes y vuelve a sus oídos (reflexión del sonido o eco).** El sonido viaja, choca con las paredes duras y vuelve: eso es el eco. Las cortinas o los cojines, en cambio, absorben el sonido.
 4. a) Se parecen en la intensidad (ambos son fuertes) y se diferencian en el tono (agudo y grave). Tono e intensidad son características distintas del sonido.
 5. b) En la habitación vacía con paredes lisas. Los materiales duros y lisos reflejan más el sonido; los tapizados y cortinas lo absorben.
 6. d) El pajarito tiene un tono más agudo y el camión, más intensidad. El tono indica si un sonido es agudo o grave; la intensidad, si es fuerte o débil.

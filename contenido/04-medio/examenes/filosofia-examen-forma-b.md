@@ -250,22 +250,22 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave | OA | Puntaje |
 |:---:|:---:|:---:|:---:|
-| 1 | d | OA1 | 1 |
-| 2 | d | OA1 | 1 |
-| 3 | a | OA1 | 1 |
-| 5 | d | OA1 | 1 |
-| 7 | d | OA2 | 1 |
-| 8 | a | OA2 | 1 |
-| 9 | a | OA2 | 1 |
-| 10 | c | OA2 | 1 |
-| 11 | b | OA2 | 1 |
-| 14 | b | OA4 | 1 |
-| 15 | c | OA4 | 1 |
-| 16 | a | OA4 | 1 |
-| 17 | c | OA4 | 1 |
-| 20 | b | OA5 | 1 |
-| 21 | b | OA5 | 1 |
-| 22 | c | OA5 | 1 |
+| 1 | d. La profesora defiende que la filosofía ayuda a examinar creencias aceptadas sin pensar: liberarse de prejuicios es una de sus finalidades. | OA1 | 1 |
+| 2 | d. Un límite genuino es que la filosofía no ofrece respuestas definitivas comprobables por experimento; decir que "no sirve de nada" es una exageración. | OA1 | 1 |
+| 3 | a. La filosofía del derecho examina los conceptos de justicia, derecho y legitimidad en los que se basan las leyes: sí tiene relación con ellas. | OA1 | 1 |
+| 5 | d. Repartir un fondo escaso entre opciones valiosas no tiene una solución técnica única: exige deliberar sobre criterios de justicia, una finalidad de la filosofía. | OA1 | 1 |
+| 7 | d. La ética reflexiona críticamente sobre lo que está bien o mal hacer y sobre las razones que lo justifican. | OA2 | 1 |
+| 8 | a. Dar el cupo al mejor puntaje distribuye según el desempeño: es justicia según mérito. | OA2 | 1 |
+| 9 | a. Reservar cupos para liceos vulnerables busca compensar desventajas de origen: es igualdad sustantiva o de oportunidades reales. | OA2 | 1 |
+| 10 | c. El rector justifica la decisión por su resultado (el prestigio promedio): evalúa por las consecuencias, como el utilitarismo. | OA2 | 1 |
+| 11 | b. El estudiante no tiene prohibido postular, pero le faltan las condiciones para aceptar: reclama libertad positiva. | OA2 | 1 |
+| 14 | b. La tesis es la afirmación central que el autor defiende: prohibir totalmente los celulares en los colegios. | OA4 | 1 |
+| 15 | c. Concluir algo sobre todos los profesores del país a partir de tres casos es una generalización apresurada. | OA4 | 1 |
+| 16 | a. Presentar solo dos opciones extremas, cuando existen alternativas intermedias, es una falsa dicotomía. | OA4 | 1 |
+| 17 | c. La premisa se presenta como evidente, sin datos que la respalden: es un referente de sentido común, no empírico. | OA4 | 1 |
+| 20 | b. Que los errores afecten más a un grupo de personas es un problema de justicia y de trato igualitario: un problema ético. | OA5 | 1 |
+| 21 | b. Confiar en el algoritmo sin revisarlo ante nueva información es dogmatismo. | OA5 | 1 |
+| 22 | c. Decidir una condena con un cálculo estadístico plantea si es justo tratar a una persona como un caso promedio, y no según sus actos: es una pregunta ética. | OA5 | 1 |
 
 **Subtotal selección múltiple: 16 puntos.**
 
@@ -275,15 +275,15 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Pregunta 6 (OA1, 5 pts — análisis de argumento).** a, b y c.
 
-**Pregunta 12 (OA2, 3 pts).** d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada
+**Pregunta 12 (OA2, 3 pts).** d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada. Nadie le prohíbe postular (libertad negativa), pero sin recursos no puede hacerlo realmente (le falta libertad positiva).
 
 **Pregunta 13 (OA2, 5 pts — dilema ético).** a, b y c.
 
-**Pregunta 18 (OA4, 3 pts).** b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas
+**Pregunta 18 (OA4, 3 pts).** b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas. El autor supone, sin decirlo, que la prohibición total es la única solución eficaz; hacerlo explícito permite discutir alternativas, como un uso regulado.
 
 **Pregunta 19 (OA4, 5 pts — análisis de argumento).** a, b, c y d — Evaluar la validez de un argumento particular es distinto de evaluar la verdad de la tesis que intenta sostener.
 
-**Pregunta 23 (OA4/OA5, 3 pts).** c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada
+**Pregunta 23 (OA4/OA5, 3 pts).** c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada. Si los datos de entrenamiento subrepresentaron a personas de tez oscura, la conclusión del sistema se basa en una muestra sesgada, como una generalización apresurada.
 
 **Pregunta 24 (OA5, 3 pts).** a, b y c.
 

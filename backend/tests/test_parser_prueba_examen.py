@@ -17,14 +17,14 @@ def test_matematica_5b_p9_tiene_una_sola_alternativa_decimal_equivalente():
         (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))
         if p.numero == 9
     )
-    assert "3/10" in pregunta.enunciado
+    assert "7/10" in pregunta.enunciado
     assert pregunta.tipo == "alternativas"
     correctas = [chr(97 + i) for i, opcion in enumerate(pregunta.opciones)
-                 if Fraction(opcion.replace(",", ".")) == Fraction(3, 10)]
+                 if Fraction(opcion.replace(",", ".")) == Fraction(7, 10)]
     assert correctas == ["a"]
     assert pauta.respuesta_correcta == pregunta.opciones[0]
-    assert Fraction("0.30") == Fraction(3, 10)
-    assert Fraction(pregunta.opciones[3].replace(",", ".")) != Fraction(3, 10)
+    assert Fraction("0.70") == Fraction(7, 10)
+    assert Fraction(pregunta.opciones[3].replace(",", ".")) != Fraction(7, 10)
 
 
 def test_ingles_5b_simulacro_p9_pauta_respeta_horario_de_tarde():
@@ -159,9 +159,9 @@ def test_lenguaje_6b_p22_recibe_textos_compartidos_sin_contaminar_p8():
     ruta = Path(__file__).resolve().parents[2] / "contenido/06-basico/examenes/lenguaje-y-comunicacion-examen-forma-b.md"
     preguntas = {p.numero: (p, r) for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))}
     for numero in (9, 10, 11, 12, 13, 22):
-        assert "En Alto Hospicio" in preguntas[numero][0].enunciado
-        assert "camanchaca" in preguntas[numero][0].enunciado
-    assert "En Alto Hospicio" not in preguntas[8][0].enunciado
+        assert "En Pica" in preguntas[numero][0].enunciado
+        assert "goteo" in preguntas[numero][0].enunciado
+    assert "En Pica" not in preguntas[8][0].enunciado
     assert preguntas[22][1].respuesta_correcta == preguntas[22][0].opciones[1]
     assert "Texto A" in preguntas[22][0].enunciado
 
@@ -278,12 +278,12 @@ def test_mencion_de_oa_en_prosa_no_inventa_principal():
 def test_lecturas_compartidas_reales_se_conservan_sin_contaminar_opciones():
     ruta = Path(__file__).resolve().parents[2] / "contenido/01-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md"
     preguntas = {p.numero: p for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))}
-    assert all("Fui a jugar a la plaza con Tomás" in preguntas[n].enunciado for n in (1, 2))
-    # Horas en orden ascendente; la clave (6) queda en c) tras el rebalanceo de 2026-11-07.
-    assert preguntas[2].opciones == ["A las 4", "A las 5", "A las 6"]
-    assert "Ponte jabón" in preguntas[3].enunciado
-    assert "Camila" not in preguntas[3].enunciado
-    assert "Ponte jabón" not in preguntas[4].enunciado
+    assert all("Fui a la casa de la abuela con mi hermano Luis" in preguntas[n].enunciado for n in (1, 2))
+    # Horas en orden ascendente; la clave queda en c) (nota nueva de C.2b, 2026-11-15).
+    assert preguntas[2].opciones == ["A las 5", "A las 6", "A las 7"]
+    assert "Pon un poco de pasta en el cepillo" in preguntas[3].enunciado
+    assert "Antonia" not in preguntas[3].enunciado
+    assert "Pon un poco de pasta" not in preguntas[4].enunciado
     assert "\n>" in preguntas[1].enunciado
 
 
@@ -299,9 +299,9 @@ def test_lengua_cuarto_medio_conserva_estimulos_en_todo_el_grupo(unidad, ultimo)
 def test_graficos_compartidos_no_se_pegan_a_alternativas_previas():
     ruta = Path(__file__).resolve().parents[2] / "contenido/04-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md"
     preguntas = {p.numero: p for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8"))}
-    assert preguntas[7].opciones == ["3", "6", "2", "9"]
-    assert "Mascota" not in preguntas[6].enunciado
-    assert "| Mascota |" in preguntas[7].enunciado
+    assert preguntas[7].opciones == ["3", "9", "6", "12"]
+    assert "Fruta favorita" not in preguntas[6].enunciado
+    assert "| Fruta favorita |" in preguntas[7].enunciado
     assert all("ventas de helados" in preguntas[n].enunciado for n in (8, 9))
 
 
@@ -309,11 +309,11 @@ def test_lecturas_cuarto_basico_llegan_a_las_preguntas_correctas():
     carpeta = Path(__file__).resolve().parents[2] / "contenido/04-basico/pruebas"
     primera = {p.numero: p for p, _ in parsear_prueba_o_examen((carpeta / "lenguaje-y-comunicacion-unidad-1.md").read_text(encoding="utf-8"))}
     segunda = {p.numero: p for p, _ in parsear_prueba_o_examen((carpeta / "lenguaje-y-comunicacion-unidad-2.md").read_text(encoding="utf-8"))}
-    assert "Valentina vivía" in primera[1].enunciado
-    assert "El volcán se puso su manto blanco" in primera[6].enunciado
-    assert "Valentina vivía" not in primera[6].enunciado
-    assert "Puma concolor" in segunda[1].enunciado
-    assert "Puma concolor" not in segunda[6].enunciado
+    assert "Inés vivía" in primera[1].enunciado
+    assert "El glaciar duerme en su cama de piedra" in primera[6].enunciado
+    assert "Inés vivía" not in primera[6].enunciado
+    assert "Lontra felina" in segunda[1].enunciado
+    assert "Lontra felina" not in segunda[6].enunciado
 
 
 @pytest.mark.parametrize("unidad", [1, 2])
@@ -385,7 +385,7 @@ def test_barra_condicional_escapada_no_desplaza_columnas_de_la_pauta():
 
 @pytest.mark.parametrize("curso,numero,resultado", [
     ("03-medio", 23, "1/3"),
-    ("03-medio", 25, "12,4%"),
+    ("03-medio", 25, "32,5%"),
     ("04-medio", 25, "0,078 (7,8%)"),
 ])
 def test_pautas_reales_de_probabilidad_conservan_desarrollo_y_oa(curso, numero, resultado):
@@ -906,3 +906,25 @@ def test_tablas_citas_y_titulos_dentro_de_la_pregunta_conservan_sus_lineas():
     assert "\n\n### Cómo regar una planta\n\n> 1. Llena la regadera con agua.\n> 2." in cita.enunciado
     texto = "**1. (Alternativas)** Si a > 0 en f(x) = ax²,\nla parábola abre hacia arriba.\na) Sí\nb) No\n## Pauta\n1. a"
     assert parsear_prueba_o_examen(texto)[0][0].enunciado == "Si a > 0 en f(x) = ax², la parábola abre hacia arriba."
+
+
+def test_toda_pregunta_de_prueba_y_simulacro_explica_su_clave():
+    # Control C.4 (2026-11-15): «c) Alcalde» como única explicación no le enseña nada al alumno.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from explicaciones_pobres import buscar
+    assert buscar() == {}
+
+
+def test_pruebas_y_simulacros_no_repiten_la_guia():
+    # Control C.2 (2026-11-15): sin copias exactas, casi copias ni lecturas reutilizadas de la guía.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from solapamiento_pruebas_guias import casi_copias, lecturas_copiadas, solapamiento
+    cursos = sorted(p for p in CONTENIDO.iterdir() if p.is_dir() and (p / "pruebas").exists())
+    for curso in cursos:
+        for carpeta in ("pruebas", "examenes"):
+            repetidas, _, archivos = solapamiento(curso, carpeta)
+            assert repetidas == 0, archivos
+            assert casi_copias(curso, carpeta) == {}, curso.name
+            assert lecturas_copiadas(curso, carpeta) == {}, curso.name

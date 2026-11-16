@@ -34,7 +34,7 @@ b) Falso
 
 ---
 
-**3.** ¿Qué prenda de vestir usaban los habitantes de la **antigua Grecia**?
+**3.** Un actor se viste para representar a un ciudadano de la antigua Atenas. ¿Qué prenda debería usar?
 
 a) La toga
 b) El poncho
@@ -94,12 +94,12 @@ d) El quitón
 
 ---
 
-**10.** En la antigua Atenas, solo los hombres ciudadanos podían votar las leyes; las mujeres, las personas esclavizadas y los extranjeros no tenían ese derecho. ¿Qué podemos concluir al comparar esto con una democracia actual como la chilena?
+**10.** En la antigua Atenas, las mujeres no podían participar en la asamblea donde se votaban las leyes. ¿Qué cambio muestra la comparación con el Chile actual?
 
-a) Que la democracia no ha cambiado en nada desde la Antigüedad, porque en Chile también hay grupos de adultos que no pueden votar por ley
-b) Que hoy las democracias, como la chilena, reconocen el derecho a voto de todas las personas adultas, ampliando mucho más la participación que en la antigua Atenas
-c) Que en Chile actualmente solo pueden votar los hombres ciudadanos, igual que en Atenas, y que las mujeres esperan obtener ese derecho
-d) Que la democracia ateniense era exactamente igual a la actual, porque en ambas todas las personas que viven en el país votan las leyes
+a) Ninguno: en Chile las mujeres tampoco pueden votar
+b) Que hoy en Chile votan todas las personas adultas, hombres y mujeres, y la participación es mucho más amplia que en Atenas
+c) Que en Chile solo votan las personas que viven en Santiago
+d) Que en Atenas votaba todo el pueblo, igual que hoy
 
 ---
 
@@ -109,11 +109,11 @@ d) Que la democracia ateniense era exactamente igual a la actual, porque en amba
 |----|---------------------|
 | 1  | d) Un anfiteatro donde se realizaban espectáculos ante miles de personas. El Coliseo era un anfiteatro enorme, con gradas para miles de personas, donde se hacían espectáculos como las luchas de gladiadores. |
 | 2  | Verdadero — el Partenón, con sus grandes columnas de mármol, es el templo griego más conocido |
-| 3  | c) El quitón — el quitón era típico de Grecia y la toga, de Roma. |
+| 3  | **c) El quitón.** El quitón era una túnica de tela que usaban los griegos. La toga era romana, el poncho es una prenda americana y el kimono, japonesa. |
 | 4  | a) El latín — el castellano, el italiano y el francés vienen del latín |
 | 5  | d) Que hoy en muchos países hombres y mujeres votan por igual, porque se reconoce que tienen los mismos derechos. Hoy se reconoce que hombres y mujeres tienen los mismos derechos; por eso en muchos países ambos votan. En Chile las mujeres votan en todas las elecciones desde 1949. |
 | 6  | c) Filósofo — como Sócrates, Platón y Aristóteles |
 | 7  | Falso — los griegos eran politeístas: creían en muchos dioses, como Zeus, Atenea y Poseidón |
 | 8  | b) Muchas palabras del latín en nuestro idioma — los gladiadores y la esclavitud legal ya no existen. |
 | 9  | b) Los caminos o calzadas de piedra. Los romanos construyeron calzadas de piedra que unían ciudades lejanas. El acueducto llevaba agua, el ágora era una plaza griega y el quitón, una prenda de vestir. |
-| 10 | b) Que hoy las democracias, como la chilena, reconocen el derecho a voto de todas las personas adultas, ampliando mucho más la participación que en la antigua Atenas. En Atenas votaba solo una parte de la población; hoy en Chile pueden votar todas las personas adultas, hombres y mujeres. |
+| 10 | **b) Que hoy en Chile votan todas las personas adultas, hombres y mujeres, y la participación es mucho más amplia que en Atenas.** En Atenas votaba solo una parte de la población: los hombres ciudadanos. Hoy en Chile pueden votar todas las personas adultas; las mujeres votan en todas las elecciones desde 1949. |

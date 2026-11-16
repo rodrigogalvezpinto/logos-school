@@ -106,13 +106,13 @@ d) 44 stickers
 
 **8. (Lenguaje — Verdadero o Falso)** Lee el siguiente texto:
 
-> **"La fiesta sorpresa de Emilia"**
+> **"La bicicleta de Mateo"**
 >
-> Emilia tiene ocho años y vive en un pueblo cerca de Puerto Montt, frente al mar. Tiene el pelo negro y rizado, y siempre anda con un gorro de lana que le tejió su abuela. Un sábado, sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa para su cumpleaños. Primero, escribieron invitaciones a escondidas. Después, decoraron el patio con globos de colores. Luego, escondieron un queque de manzana debajo de la mesa para que Emilia no lo viera al llegar. Cuando Emilia entró al patio, todos gritaron "¡sorpresa!". Ella se quedó inmóvil un segundo, con los ojos muy abiertos, y después se rió y se puso a llorar de alegría al mismo tiempo.
+> Mateo tiene ocho años y vive en Castro, en una casa sobre palafitos junto al mar. Usa lentes de marco rojo y siempre lleva una bufanda azul que le regaló su abuelo. Un domingo, su bicicleta amaneció con una rueda pinchada, y Mateo pensó que no podría ir al paseo del curso. Sus amigos Josefa y Martín decidieron ayudarlo a escondidas. Primero, juntaron monedas en un frasco. Después, compraron un parche en la ferretería. Luego, arreglaron la rueda en el patio de Josefa y escondieron la bicicleta detrás de un árbol. Cuando Mateo llegó a la plaza, sus amigos le mostraron la bicicleta arreglada. Él se quedó inmóvil un segundo, con la boca abierta, y después dio un salto y los abrazó a los dos.
 
-[Imagen: una niña de pelo negro y rizado, con gorro de lana, sorprendida frente a un patio decorado con globos]
+[Imagen: un niño con lentes rojos y bufanda azul, sorprendido frente a una bicicleta en una plaza]
 
-Según el texto, Benjamín y Constanza organizaron la fiesta sorpresa para Emilia.
+Según el texto, Josefa y Martín arreglaron a escondidas la bicicleta de Mateo.
 
 ---
 
@@ -262,15 +262,15 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Asignatura | Clave / criterio de respuesta correcta | OA evaluado |
 |----|------------|------------------------------------------|-------------|
-| 1 | Ciencias Naturales | **d) Bombear la sangre por todo el cuerpo.** | OA 7 |
-| 2 | Historia, Geografía y Cs. Sociales | **d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** | OA 2 |
+| 1 | Ciencias Naturales | **d) Bombear la sangre por todo el cuerpo.** El corazón es un músculo que bombea la sangre a todo el cuerpo; la sangre lleva oxígeno y alimento a cada parte. | OA 7 |
+| 2 | Historia, Geografía y Cs. Sociales | **d) Que una cultura puede mantener sus tradiciones y, a la vez, adaptarse a la vida actual.** Las culturas cambian y se adaptan a la vida actual sin perder sus tradiciones: se puede vivir en la ciudad y, al mismo tiempo, celebrar el We Tripantu. | OA 2 |
 | 3 | Lenguaje y Comunicación | **a) "cereza".** Antes de "e" o "i", la letra "c" suena /s/: ce-re-za. "Sapo" se escribe con "s" y "zorro" con "z". | OA 1 |
 | 4 | Matemática | **a) 57.** Al comparar las decenas, 5 decenas (57) es menos que 7 decenas (75). | OA 3 |
-| 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** | OA 3 |
+| 5 | Historia, Geografía y Cs. Sociales | **a) Que nació de la mezcla entre los pueblos originarios y los españoles.** Mestiza significa mezclada: la sociedad chilena combina costumbres, palabras y comidas de los pueblos originarios y de los españoles. | OA 3 |
 | 6 | Ciencias Naturales | **b) Respiras más rápido y el corazón late más fuerte.** Durante el ejercicio los músculos necesitan más oxígeno, y el corazón y los pulmones trabajan más. | OA 8 |
 | 7 | Matemática | **a) 54 stickers.** Como Camila regala stickers (su cantidad disminuye), corresponde una resta: 96 − 42 = 54. | OA 9 |
-| 8 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa". | OA N°5 |
-| 9 | Historia, Geografía y Cs. Sociales | **d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** | OA 4 |
+| 8 | Lenguaje y Comunicación | **Verdadero.** El texto dice que "sus amigos Josefa y Martín decidieron ayudarlo a escondidas" y que "arreglaron la rueda en el patio de Josefa". | OA N°5 |
+| 9 | Historia, Geografía y Cs. Sociales | **d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** Los inmigrantes alemanes llegaron al sur de Chile en el siglo XIX y trajeron el kuchen y casas de madera. Los moái, las rukas y el palín son aportes de pueblos originarios, no de la inmigración. | OA 4 |
 | 10 | Ciencias Naturales | **d) El azúcar se disuelve y deja de verse; la arena no se disuelve y se sigue viendo en el agua.** No todos los sólidos se disuelven en el agua: el azúcar sí, la arena no. | OA 9 |
 | 11 | Matemática | **b) <.** 8+5=13, y como 13 es menor que 14, el símbolo correcto es < (menor que). | OA 13 |
 | 12 | Lenguaje y Comunicación | **c) Azul.** El artículo dice "El contenedor azul es para el papel y el cartón". | OA N°7 |

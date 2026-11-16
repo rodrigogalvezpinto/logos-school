@@ -1685,3 +1685,34 @@ En esa revisión aparecieron y se corrigieron tres preguntas defectuosas:
 - 5.° básico, geometría 5: el enunciado definía el trapecio y luego preguntaba su definición;
 - 6.° básico, patrones 6: era la pregunta de la guía (Fernanda, $8.500 y $17.300) con otras palabras.
 
+### 15.39 Fase 1 — C.2 cerrado con el detector corregido (2026-11-15, noche)
+
+Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 12 cursos quedan en **0 copias exactas, 0 casi copias y 0 lecturas copiadas de la guía**. Lo corregido:
+- **Lecturas nuevas en pruebas**:
+  - Lengua de 1.° medio: «La máscara del clavo», «Humo en el cerro», «Bajamar», una columna sobre tareas, notas sobre un humedal y un ensayo modelo;
+  - Lengua de 4.° medio: «El frasco de tierra», «Señal para Hanga Roa» y una columna sobre el cobro por entrar en auto al centro;
+  - Lenguaje de 4.° básico: «Los bidones de don Ruperto», «El glaciar» y un artículo sobre el chungungo;
+  - Lenguaje de 1.° básico: una nota y un instructivo nuevos.
+- **Lecturas nuevas en simulacros**:
+  - Lengua de 3.° medio: los cuatro estímulos, porque los cuatro venían de la guía; además, sus instrucciones no contaban las 5 V/F;
+  - Lenguaje de 6.° básico: los cinco textos;
+  - Historia de 5.° básico: fuentes;
+  - 2.° básico A y B: cuento nuevo en reemplazo del de Emilia.
+- **Casi copias rehechas:** unas 75 preguntas sueltas en pruebas y simulacros, con los mismos datos o las mismas alternativas reordenadas, verificadas con `rehacer` (misma letra de clave, tipo y OA).
+- **Falsos positivos revisados a mano:** 10 preguntas con la misma plantilla sobre un texto propio distinto, registradas en `REVISADAS_A_MANO` del detector.
+- **Datos:** los de la guía que usaban instituciones reales con cifras simuladas se marcan como tales; las cifras nuevas usan fuentes ficticias declaradas.
+- **Detector:** el control de lecturas ahora considera líneas de más de 30 caracteres, para no perder las lecturas de 1.° y 2.° básico.
+
+**Defecto de horario encontrado (no corregido, va a la Fase 2).** La app calcula «hoy» y «esta semana» en UTC (`Reloj` → `datetime.now(timezone.utc)`).
+- Entre las 21:00 y las 24:00 de Chile ya es el día siguiente en UTC. El domingo en la noche, la actividad de un alumno se cuenta en la semana siguiente.
+- Esto afecta la meta familiar del apoderado, la predicción del jardín y probablemente las sesiones atrasadas del plan.
+- Las pruebas `test_apoderado_meta_familiar` y `test_prediccion_jardin` fallaban a esa hora porque usaban `date.today()` local. Se alinearon con UTC, pero `test_suma_dias_activos_de_ambos_hijos_esta_semana` sigue fallando a esa hora.
+- Corrección propuesta: usar la zona horaria `America/Santiago` para las fechas de calendario del alumno.
+
+**C.4 cerrado (2026-11-15, noche).** Todas las preguntas de pruebas de unidad y simulacros tienen una explicación que dice por qué la clave es correcta (antes, 769 solo repetían la clave). En la revisión aparecieron y se corrigieron:
+- **Datos imprecisos:**
+  - 3.° básico A, 20: Chile no firmó la Convención en 1989; la ONU la aprobó ese año y Chile la firmó en 1990;
+  - 6.° básico, Historia 9 y su guía: el voto municipal femenino se legisló en 1934 y se ejerció por primera vez en 1935.
+- **Choque entre instrumentos:** el microcuento nuevo de la prueba U1 de 1.° medio («Bajamar») repetía el mito (la Pincoya) y la frase final del simulacro. Se reemplazó por «Agua prestada» (la Pachamama y la extracción de agua en el norte).
+- **Control nuevo:** ninguna prueba repite lecturas de los simulacros del mismo curso (0 en los 12 cursos).
+

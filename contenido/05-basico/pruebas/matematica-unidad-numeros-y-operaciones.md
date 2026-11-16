@@ -67,11 +67,12 @@ b) 4/9
 c) 6/9
 d) 2/6
 
-**Pregunta 9.** ¿Cuál es el decimal correspondiente a la fracción 3/10?
-a) 0,3
-b) 0,03
-c) 3,0
-d) 0,33
+**Pregunta 9.** ¿Cuál es el decimal correspondiente a la fracción 7/10?
+
+a) 0,7
+b) 0,07
+c) 7,0
+d) 0,77
 
 **Pregunta 10.** ¿Cuál número es mayor, 0,6 o 0,58?
 a) 0,6
@@ -103,7 +104,7 @@ d) 1/12
 6. **b) $4.450** — costo total: 3 × 1.850 = 5.550; vuelto: 10.000 − 5.550 = 4.450.
 7. b) $38.750 — 25 × 1.200 = 30.000; 25 × 350 = 8.750; 30.000 + 8.750 = 38.750.
 8. **c) 6/9** — 2/3 = (2×3)/(3×3) = 6/9.
-9. **a) 0,3** — con denominador 10, el numerador se escribe directamente en el lugar de los décimos.
+9. **a) 0,7.** 7/10 son 7 décimos, y los décimos ocupan el primer lugar después de la coma: 0,7. 0,07 serían 7 centésimos (7/100).
 10. **a) 0,6** — 0,6 = 0,60; comparando con 0,58, en los décimos 6 > 5.
 11. a) Josefa. 3,52 > 3,48: saltó más lejos.
 12. **b) 3/8** — 1/4 = 2/8; 2/8 + 1/8 = 3/8.

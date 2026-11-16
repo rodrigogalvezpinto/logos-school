@@ -24,12 +24,12 @@ Instrucciones: Lee cada pregunta con calma. Marca con una X la alternativa corre
 
 ---
 
-**1.** ::fila::🔵::🔺::🔵::🔺::🔵::❓:: Continúa el patrón: círculo, triángulo, círculo, triángulo, círculo, ___
+**1.** ::fila::⭐::🌙::⭐::🌙::⭐::❓:: Continúa el patrón: estrella, luna, estrella, luna, estrella, ___
 
-a) Círculo
-b) Estrella
-c) Cuadrado
-d) Triángulo
+a) Estrella
+b) Sol
+c) Nube
+d) Luna
 
 **2.** Completa la secuencia: 5, 10, 15, ___, 25
 
@@ -68,7 +68,7 @@ d) uva, plátano, manzana, manzana, uva, plátano
 
 ## Pauta de respuestas
 
-1. d) Triángulo. El patrón repite círculo, triángulo. Después de un círculo viene un triángulo.
+1. **d) Luna.** El patrón repite estrella, luna. Después de una estrella viene una luna.
 2. b) 20 — la regla es sumar 5: 15 + 5 = 20 y 20 + 5 = 25.
 3. Verdadero. Cada número es 5 menos que el anterior: 30, 25, 20, 15. Los números se hacen más pequeños.
 4. c) Restar 2 — cada número es 2 menos que el anterior.

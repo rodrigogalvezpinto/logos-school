@@ -297,30 +297,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | a) El núcleo | OA 2 |
-| 2 | Alternativas | d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido | OA 2 |
+| 1 | Alternativas | a) El núcleo. El núcleo guarda la mayor parte del ADN y controla las funciones de la célula. La mitocondria obtiene energía y la membrana regula lo que entra y sale. | OA 2 |
+| 2 | Alternativas | d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido. Las procariontes, como las bacterias, no tienen núcleo: su ADN está disperso en el citoplasma. Sí tienen membrana y citoplasma. | OA 2 |
 | 3 | Alternativas | **a) Célula 1: neurona, sus prolongaciones transmiten impulsos a distancia. Célula 2: fibra muscular, sus fibras le permiten contraerse.** En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
-| 4 | Alternativas | d) La ósmosis | OA 4 |
-| 5 | Alternativas | d) La fotosíntesis | OA 4 |
+| 4 | Alternativas | d) La ósmosis. El agua entra a la raíz por ósmosis: pasa a través de la membrana desde donde hay más agua (el suelo) hacia donde hay menos (las células de la raíz). | OA 4 |
+| 5 | Alternativas | d) La fotosíntesis. La fotosíntesis necesita luz, por eso ocurre de día; la respiración celular ocurre de día y de noche. | OA 4 |
 | 6 | Alternativas | **d) La planta A, porque tiene más hojas y, por lo tanto, más estomas por donde sale vapor de agua.** Los estomas se ubican principalmente en las hojas: más hojas significa mayor superficie para la salida de vapor de agua. | OA 4 |
-| 7 | Alternativas | a) El nefrón | OA 5 |
-| 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos | OA 5 |
-| 9 | Alternativas | **b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.** | OA 5 |
+| 7 | Alternativas | a) El nefrón. El nefrón es la unidad que filtra la sangre en el riñón y forma la orina. Los alvéolos están en los pulmones y las vellosidades, en el intestino. | OA 5 |
+| 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos. Los leucocitos defienden el cuerpo de virus y bacterias. Los glóbulos rojos transportan oxígeno y las plaquetas ayudan a coagular. | OA 5 |
+| 9 | Alternativas | **b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.** Las enzimas descomponen los alimentos en nutrientes que se pueden absorber; la bilis, producida por el hígado, separa las grasas en gotas pequeñas para facilitar su digestión. | OA 5 |
 | 10 | Alternativas | **c) El humo del tabaco daña los alvéolos, reduciendo la superficie de intercambio por difusión entre el aire y la sangre.** Al disminuir la superficie de intercambio, pasa menos oxígeno a la sangre en cada respiración. | OA 5 |
 | 11 | Alternativas | **b) Huevos, legumbres y pescado, con función constructora.** Las proteínas aportan el material para formar y reparar tejidos. | OA 7 |
-| 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social | OA 7 |
-| 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** | OA 7 |
+| 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social. La salud no es solo la ausencia de enfermedad: es un estado de bienestar físico, mental y social. | OA 7 |
+| 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** Fumar de forma ocasional ya expone al cuerpo a sustancias tóxicas, y la nicotina puede generar dependencia rápidamente, sobre todo en adolescentes. | OA 7 |
 | 14 | Alternativas | a) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
-| 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito | OA 10 |
+| 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito. En un circuito en serie la corriente pasa por un solo camino; si un componente falla, el camino se corta y se apaga todo. | OA 10 |
 | 16 | Alternativas | **d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado.** En serie, una falla interrumpiría el único camino y se apagarían todas. | OA 10 |
 | 17 | Alternativas | **b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica.** I = P / V = 1.100 W / 220 V = 5 A; a mayor potencia, mayor energía consumida por unidad de tiempo. | OA 10 |
 | 18 | Alternativas | **c) Radiación.** Es la única forma de propagación del calor que no necesita un medio material. | OA 11 |
-| 19 | Alternativas | b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de temperatura | OA 11 |
+| 19 | Alternativas | b) El calor es la energía que se transfiere entre cuerpos debido a una diferencia de temperatura. El calor es energía que pasa de un cuerpo más caliente a uno más frío; la temperatura mide qué tan caliente está un cuerpo. No son lo mismo. | OA 11 |
 | 20 | Alternativas | **c) Porque la capa de aire o vacío entre los vidrios es un mal conductor y reduce la pérdida de calor por conducción.** Es el mismo principio del termo. | OA 11 |
 | 21 | Alternativas | **c) Que el átomo tiene un núcleo pequeño y denso con carga positiva.** La mayoría de las partículas atravesaba la lámina, así que el átomo es mayormente espacio vacío. | OA 12 |
-| 22 | Alternativas | b) En un núcleo pequeño y denso | OA 12 |
-| 23 | Alternativas | **a) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.** | OA 12 |
-| 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico | OA 14 |
+| 22 | Alternativas | b) En un núcleo pequeño y denso. En su experimento, Rutherford concluyó que casi toda la masa y la carga positiva están en un núcleo muy pequeño y denso, rodeado de electrones. | OA 12 |
+| 23 | Alternativas | **a) Es poco precisa: fue superado, pero estableció ideas aún válidas (la materia está formada por átomos que se combinan en proporciones simples) y sentó las bases de los modelos posteriores.** El modelo de Dalton fue superado, pero estableció ideas que siguen siendo válidas, como que la materia está formada por átomos y que se combinan en proporciones definidas. | OA 12 |
+| 24 | Alternativas | c) Buena conductividad eléctrica y brillo característico. Los metales suelen conducir bien la electricidad y el calor y tienen brillo; los no metales suelen conducir mal y ser frágiles. | OA 14 |
 | 25 | Alternativas | **d) Iónico: el calcio (metal) tiende a ceder electrones y el bromo (no metal) a aceptarlos, formando iones Ca²⁺ y Br⁻ que se atraen.** La transferencia de electrones de un metal a un no metal forma iones de carga opuesta, característico del enlace iónico. | OA 14 |
 
 

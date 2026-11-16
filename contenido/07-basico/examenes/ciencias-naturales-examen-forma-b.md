@@ -279,29 +279,29 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | c) Social | OA 1 |
-| 2 | Alternativas | a) El respeto por los tiempos y el cuerpo de cada persona | OA 1 |
-| 3 | Alternativas | d) Los aspectos afectivo y social son tan importantes como el aspecto biológico | OA 1 |
+| 1 | Alternativas | c) Social. Informarse y conversar con la pareja sobre el cuidado mutuo es tomar decisiones responsables que consideran a la otra persona: corresponde al aspecto social de la sexualidad. | OA 1 |
+| 2 | Alternativas | a) El respeto por los tiempos y el cuerpo de cada persona. Cada persona vive la pubertad a su propio ritmo; respetar el cuerpo y los tiempos de los demás evita la burla y la discriminación. | OA 1 |
+| 3 | Alternativas | d) Los aspectos afectivo y social son tan importantes como el aspecto biológico. La sexualidad incluye lo biológico, pero también lo afectivo (emociones y vínculos) y lo social (respeto, responsabilidad y decisiones informadas). | OA 1 |
 | 4 | Alternativas | **a) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación.** Ambos cambios ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
-| 5 | Alternativas | b) Preservativo | OA 2 |
-| 6 | Alternativas | a) Del día 11 al día 16 | OA 2 |
+| 5 | Alternativas | b) Preservativo. El preservativo es una barrera física que impide el paso de los espermatozoides; la píldora es un método hormonal y el control del ciclo, un método natural. | OA 2 |
+| 6 | Alternativas | a) Del día 11 al día 16. En un ciclo de 28 días, la ovulación ocurre cerca del día 14; los días fértiles son los cercanos a ella, aproximadamente del 11 al 16. | OA 2 |
 | 7 | Varias correctas | **a, b y c.** Conocer estos procesos es parte del autocuidado desde la adolescencia; no es un conocimiento reservado a quienes buscan tener hijos. | OA 2 |
 | 8 | Alternativas | **d) El preservativo es un método de barrera que impide el contacto entre espermatozoide y ovocito; la píldora es un método hormonal que impide la ovulación.** Uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal, de modo que no hay ovocito disponible para ser fecundado. | OA 2 |
-| 9 | Alternativas | c) *Penicillium* | OA 5 |
-| 10 | Alternativas | d) Producción de penicilina | OA 5 |
-| 11 | Alternativas | **d) Las bacterias son procariontes, más pequeñas y simples (sin núcleo definido); los hongos son eucariontes, con núcleo y organelos, y pueden ser uni o multicelulares.** | OA 5 |
-| 12 | Alternativas | a) Fuerza gravitacional | OA 7 |
-| 13 | Alternativas | b) De la rugosidad de las superficies en contacto | OA 7 |
+| 9 | Alternativas | c) *Penicillium*. Penicillium es un hongo (del que se obtiene la penicilina); E. coli es una bacteria y la influenza es causada por un virus. | OA 5 |
+| 10 | Alternativas | d) Producción de penicilina. Del hongo Penicillium se obtiene la penicilina, un antibiótico que salvó millones de vidas. El pie de atleta es una infección por hongos; la gripe es viral y la tuberculosis, bacteriana. | OA 5 |
+| 11 | Alternativas | **d) Las bacterias son procariontes, más pequeñas y simples (sin núcleo definido); los hongos son eucariontes, con núcleo y organelos, y pueden ser uni o multicelulares.** Las bacterias son procariontes: células pequeñas, sin núcleo definido. Los hongos son eucariontes, con núcleo, y pueden ser unicelulares, como la levadura, o multicelulares. | OA 5 |
+| 12 | Alternativas | a) Fuerza gravitacional. La manzana cae porque la Tierra la atrae: es la fuerza gravitacional (su peso). | OA 7 |
+| 13 | Alternativas | b) De la rugosidad de las superficies en contacto. El roce depende sobre todo de cuán rugosas son las superficies en contacto (y del peso que las aprieta): mientras más rugosas, mayor es el roce. | OA 7 |
 | 14 | Alternativas | **c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia.** Los surcos aumentan el roce y evacúan el agua; sin ellos el auto pierde adherencia. | OA 7 |
-| 15 | Alternativas | **a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone.** | OA 7 |
-| 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza | OA 9 |
-| 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes | OA 9 |
+| 15 | Alternativas | **a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone.** En la bajada, el peso tira la bicicleta pendiente abajo y la acelera; el roce con el aire y con el pavimento actúa en contra del movimiento. | OA 7 |
+| 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza. En un límite divergente las placas se separan; por la abertura sube material del manto que se enfría y forma nueva corteza, como en las dorsales oceánicas. | OA 9 |
+| 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes. Wegener propuso que los continentes se movían, pero no explicó cómo. La tectónica de placas aportó el mecanismo: las corrientes de convección del manto mueven las placas. | OA 9 |
 | 18 | Alternativas | **b) Que las costas de Sudamérica y África encajan como piezas de un rompecabezas y que hay fósiles iguales en ambos continentes.** Esa evidencia sugería que los continentes estuvieron unidos; la tectónica de placas explicó después cómo se mueven. | OA 9 |
-| 19 | Alternativas | b) Aumenta | OA 13 |
-| 20 | Alternativas | c) Ley de Gay-Lussac | OA 13 |
-| 21 | Alternativas | **b) Poner un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande.** | OA 13 |
-| 22 | Alternativas | c) Sustancia pura | OA 14 |
-| 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista | OA 14 |
+| 19 | Alternativas | b) Aumenta. Según la Ley de Charles, a presión constante, si aumenta la temperatura de un gas, aumenta su volumen: sus partículas se mueven más y ocupan más espacio. | OA 13 |
+| 20 | Alternativas | c) Ley de Gay-Lussac. Si el volumen se mantiene y la temperatura sube, aumenta la presión: eso describe la Ley de Gay-Lussac. | OA 13 |
+| 21 | Alternativas | **b) Poner un globo poco inflado en la boca de una botella vacía y calentarla suavemente: el globo se infla un poco más porque el aire se expande.** Al calentar la botella, el aire de su interior se expande y empuja el globo, que se infla un poco. Muestra que a mayor temperatura, mayor volumen. | OA 13 |
+| 22 | Alternativas | c) Sustancia pura. El agua destilada tiene un solo componente, el agua, sin sales ni otras sustancias disueltas: es una sustancia pura. | OA 14 |
+| 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista. En una mezcla homogénea, como el agua con sal, los componentes están repartidos de manera uniforme y no se distinguen a simple vista, aunque se pueden separar, por ejemplo, evaporando el agua. | OA 14 |
 | 24 | Alternativas | **d) Filtración.** El papel filtro retiene las partículas sólidas (arena) y deja pasar el líquido. | OA 14 |
 | 25 | Varias correctas | **a, b y c.** Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas. | OA 14 |
 

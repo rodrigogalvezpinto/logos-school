@@ -55,12 +55,12 @@ b) 3 250 g
 c) 550 g
 d) 3 025 g
 
-**Pregunta 6 (ordenar por peso).** ¿Cuál es el orden de más liviano a más pesado de una manzana (150 g), una sandía (4 kg), un paquete de galletas (300 g)?
+**Pregunta 6 (ordenar por peso).** ¿Cuál es el orden de más liviano a más pesado de un lápiz (10 g), un libro (1 kg) y una mochila con útiles (3 kg)?
 
-a) Sandía, manzana, galletas
-b) Galletas, manzana, sandía
-c) Manzana, galletas, sandía
-d) Sandía, galletas, manzana
+a) Mochila, lápiz, libro
+b) Libro, lápiz, mochila
+c) Lápiz, libro, mochila
+d) Mochila, libro, lápiz
 
 **Pregunta 7 (completar).** Según el pictograma de mascotas registradas en un barrio (1 huella 🐾 = 5 mascotas), donde perros tienen 4 huellas, gatos 2 huellas y conejos 1 huella, ¿cuántas mascotas hay registradas en total?
 
@@ -95,7 +95,7 @@ d) 4
 3. d) El cuadrado: 32 cm contra 28 cm — cuadrado: 4×8=32 cm; rectángulo: 10+4+10+4=28 cm.
 4. **c) 500 g** — 1 kg son 1 000 g, y la mitad es 500 g.
 5. b) 3 250 g — 3 kg = 3 000 g; 3 000+250=3 250 g.
-6. c) Manzana, galletas, sandía — se convierte todo a gramos: 150 g, 300 g y 4 000 g.
+6. **c) Lápiz, libro, mochila.** 10 g es mucho menos que 1 kg (1.000 g), y 1 kg es menos que 3 kg. Para comparar, conviene pasar todo a la misma unidad.
 7. a) 35 — perros 4×5=20, gatos 2×5=10, conejos 1×5=5; 20+10+5=35.
 8. a) Fútbol — es la barra más alta (12 estudiantes).
 9. c) 7 — 12-5=7.

@@ -50,11 +50,12 @@ b) 16
 c) 5
 d) 20
 
-**Pregunta 5 (alternativas).** ¿Cuál fracción representa el 40%?
-a) 4/100
-b) 40/10
-c) 2/5
-d) 4/5
+**Pregunta 5 (alternativas).** ¿Cuál fracción representa el 75%?
+
+a) 7/100
+b) 75/10
+c) 3/4
+d) 1/4
 
 **Pregunta 6 (problema en contexto — descuento).** Unas zapatillas cuestan $40.000 y tienen un descuento del 20%. ¿Cuánto dinero se descuenta?
 a) $10.000
@@ -75,12 +76,12 @@ b) 3 2/4
 c) 2 1/4
 d) 1 3/4
 
-**Pregunta 9 (problema en contexto).** Para una fiesta se compraron 3 pizzas iguales, cada una cortada en 6 pedazos. Al final quedaron 8 pedazos sin comer. ¿Cuánta pizza sobró, como número mixto?
+**Pregunta 9 (problema en contexto).** Para un cumpleaños se compraron 4 tortas iguales, cada una cortada en 8 trozos. Al final quedaron 10 trozos sin comer. ¿Cuánta torta sobró, como número mixto?
 
-a) 1 2/3 pizzas
-b) 2 2/3 pizzas
-c) 1 1/3 pizzas
-d) 8 pizzas
+a) 2 1/4 tortas
+b) 1 1/2 tortas
+c) 1 1/4 tortas
+d) 10 tortas
 
 **Pregunta 10 (alternativas).** Calcula: 1 1/4 + 2 1/4 = ?
 a) 3 1/2
@@ -88,12 +89,12 @@ b) 3 2/8
 c) 3 1/4
 d) 3 1/8
 
-**Pregunta 11 (problema de aplicación — decimales).** Un corredor registró un tiempo de 12,846 segundos en una carrera, y otro corredor fue 0,097 segundos más lento. ¿Cuál fue el tiempo del segundo corredor?
+**Pregunta 11 (problema de aplicación — decimales).** Una nadadora registró 58,375 segundos en una prueba, y otra nadadora fue 0,086 segundos más rápida. ¿Cuál fue el tiempo de la segunda nadadora?
 
-a) 12,943 segundos
-b) 12,749 segundos
-c) 12,833 segundos
-d) 13,943 segundos
+a) 58,289 segundos
+b) 58,461 segundos
+c) 58,311 segundos
+d) 57,289 segundos
 
 **Pregunta 12 (problema de aplicación — fracciones y números mixtos).** Una botella tiene 3 1/2 litros de jugo. Tomás sirvió 1 1/4 litros. ¿Cuánto jugo queda en la botella?
 
@@ -110,11 +111,11 @@ d) 2 1/4 litros
 2. c) $6.970.000 — (860 × 5.500) + (640 × 3.500) = 4.730.000 + 2.240.000 = 6.970.000.
 3. **b) 3:2** — 18:12 se simplifica dividiendo por 6.
 4. d) 20 — 8 ÷ 2 = 4; 2×4 : 5×4 = 8:20.
-5. **c) 2/5** — 40/100 simplificado (÷20) es 2/5.
+5. **c) 3/4.** 75% = 75/100, y al simplificar dividiendo por 25 queda 3/4.
 6. **b) $8.000** — 20% = 1/5; 40.000 ÷ 5 = 8.000.
 7. b) 90 — 0,30 × 300 = 90.
 8. **a) 2 3/4** — 11 ÷ 4 = 2, resto 3.
-9. c) 1 1/3 pizzas — 8/6 = 4/3 = 1 1/3.
+9. **c) 1 1/4 tortas.** Cada torta tiene 8 trozos: 10 trozos son 8/8 + 2/8, es decir, 1 torta y 2/8, que simplificado es 1 1/4.
 10. **a) 3 1/2** — enteros: 1+2=3; fracciones: 1/4+1/4=2/4=1/2.
-11. a) 12,943 segundos — 12,846 + 0,097 = 12,943.
+11. **a) 58,289 segundos.** Más rápida significa menos tiempo: 58,375 − 0,086 = 58,289 segundos. Conviene alinear las comas y completar con ceros.
 12. d) 2 1/4 litros — 3 2/4 − 1 1/4 = 2 1/4.

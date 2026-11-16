@@ -74,12 +74,12 @@ a) "Las flores crecieron en el jardín."
 b) "El niño lee un cuento."
 c) "Los mesa estaban sucias."
 
-**8. (Alternativas — propósito y destinatario)** Quieres invitar a un compañero o compañera a jugar contigo en el recreo. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y puntuación correcta?
+**8. (Alternativas — propósito y destinatario)** Quieres pedirle a tu profesora que te preste un lápiz. ¿Qué oración cumple el propósito y está bien escrita, con mayúscula inicial y puntuación correcta?
 
-a) quieres jugar conmigo en el recreo
-b) Ayer llovió mucho en mi casa.
-c) ¿quieres jugar conmigo en el recreo
-d) ¿Quieres jugar conmigo en el recreo?
+a) me puede prestar un lápiz
+b) Mi lápiz es de color azul.
+c) ¿me puede prestar un lápiz
+d) ¿Me puede prestar un lápiz, por favor?
 
 ---
 
@@ -92,4 +92,4 @@ d) ¿Quieres jugar conmigo en el recreo?
 5. **b) "La gata duerme en el sillón."** — empieza con mayúscula y termina con punto.
 6. **Verdadero** — "los" y "gatos" están los dos en plural, por eso concuerdan.
 7. **c) "Los mesa estaban sucias."** — "los" (plural, masculino) no concuerda con "mesa" (singular, femenino).
-8. d) ¿Quieres jugar conmigo en el recreo? — invita al compañero, empieza con mayúscula y tiene los dos signos de interrogación.
+8. **d) ¿Me puede prestar un lápiz, por favor?.** Pide el lápiz con amabilidad, empieza con mayúscula y tiene los dos signos de interrogación. "Mi lápiz es de color azul" no pide nada.

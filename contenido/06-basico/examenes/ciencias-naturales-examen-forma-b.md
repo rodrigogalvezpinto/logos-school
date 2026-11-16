@@ -304,30 +304,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | a) Las algas y las cianobacterias | OA 1 |
-| 2 | Alternativas | d) Azúcar (glucosa) | OA 1 |
-| 3 | Alternativas | **a) Se debilitará o morirá porque sin luz no hay fotosíntesis; y la fotosíntesis importa a otros seres vivos porque libera oxígeno y produce el azúcar que es base de su alimento.** | OA 1 |
-| 4 | Alternativas | a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo | OA 2 |
-| 5 | Alternativas | d) Consumidor de tercer orden | OA 2 |
+| 1 | Alternativas | a) Las algas y las cianobacterias. Las algas y las cianobacterias tienen clorofila y hacen fotosíntesis, igual que las plantas. Los hongos y los animales obtienen su alimento de otros seres vivos. | OA 1 |
+| 2 | Alternativas | d) Azúcar (glucosa). La planta usa agua, dióxido de carbono y luz para fabricar glucosa (azúcar) y liberar oxígeno: la glucosa es un producto, no algo que necesita. | OA 1 |
+| 3 | Alternativas | **a) Se debilitará o morirá porque sin luz no hay fotosíntesis; y la fotosíntesis importa a otros seres vivos porque libera oxígeno y produce el azúcar que es base de su alimento.** Sin luz no hay fotosíntesis: la planta no fabrica su alimento y se debilita. Además, la fotosíntesis produce el oxígeno y el alimento de los que dependen otros seres vivos. | OA 1 |
+| 4 | Alternativas | a) Alimentarse de los restos de otros organismos y liberar nutrientes al suelo. Los descomponedores se alimentan de restos de seres vivos y devuelven los nutrientes al suelo, donde los vuelven a usar las plantas. | OA 2 |
+| 5 | Alternativas | d) Consumidor de tercer orden. El fitoplancton es productor; el krill, consumidor de primer orden; la sardina, de segundo orden, y el tiburón, que come sardinas, de tercer orden. | OA 2 |
 | 6 | Alternativas | **d) Pasto → conejo → zorro culpeo → águila; si desaparece el águila, los zorros podrían aumentar y reducir la población de conejos, alterando todo el ecosistema.** La cadena correcta respeta los niveles tróficos (productor, 1.er, 2.º y 3.er orden); al faltar el consumidor de tercer orden, el nivel inferior puede crecer sin control. | OA 2 |
-| 7 | Alternativas | a) El estirón de crecimiento | OA 5 |
-| 8 | Alternativas | d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal | OA 5 |
-| 9 | Alternativas | **d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.** | OA 5 |
-| 10 | Alternativas | c) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable | OA 6 |
-| 11 | Alternativas | c) Lavarse el rostro diariamente | OA 6 |
-| 12 | Alternativas | **c) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.** | OA 6 |
-| 13 | Alternativas | b) Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier tipo de cambio | OA 8 |
-| 14 | Alternativas | c) Energía calórica | OA 8 |
+| 7 | Alternativas | a) El estirón de crecimiento. El estirón de crecimiento ocurre en hombres y mujeres. La menarquia es la primera menstruación (solo en mujeres) y el cambio de voz más grave y el vello facial son más propios de los hombres. | OA 5 |
+| 8 | Alternativas | d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal. La pubertad depende de cambios hormonales y empieza a distintas edades en cada persona: esa variación es normal. | OA 5 |
+| 9 | Alternativas | **d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.** Cada persona cambia a su propio ritmo. Saberlo ayuda a no compararse, a no burlarse de otros y a sentirse bien con el propio cuerpo. | OA 5 |
+| 10 | Alternativas | c) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable. El ejercicio regular fortalece el corazón y los pulmones, ayuda a mantener un peso saludable y mejora el ánimo. | OA 6 |
+| 11 | Alternativas | c) Lavarse el rostro diariamente. Lavarse el rostro es un hábito de higiene; trotar, entrenar o jugar fútbol son actividades físicas. | OA 6 |
+| 12 | Alternativas | **c) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.** En la pubertad la piel produce más grasa; si no se lava, los poros se tapan con grasa y células muertas y aparecen espinillas o acné. | OA 6 |
+| 13 | Alternativas | b) Tanto los objetos como los seres vivos necesitan energía para que ocurra cualquier tipo de cambio. Todo cambio necesita energía, tanto en los seres vivos (crecer, moverse) como en los objetos (una ampolleta que se enciende, un auto que avanza). | OA 8 |
+| 14 | Alternativas | c) Energía calórica. La estufa eléctrica transforma la energía eléctrica sobre todo en calor (energía calórica), aunque también emite algo de luz. | OA 8 |
 | 15 | Alternativas | **a) En una licuadora hay energía eléctrica, cinética (aspas) y sonora (ruido); un pez necesita energía del alimento para nadar y bombear sangre.** Identificar varios tipos de energía en un mismo aparato muestra que la energía se transforma; sin un aporte constante de energía del alimento, los procesos vitales se detendrían. | OA 8 |
-| 16 | Alternativas | c) Energía geotérmica | OA 11 |
-| 17 | Alternativas | b) Sus numerosos ríos y caudales abundantes | OA 11 |
+| 16 | Alternativas | c) Energía geotérmica. La energía geotérmica aprovecha el calor del interior de la Tierra, que no se agota; el gas natural, el petróleo y el carbón son combustibles fósiles no renovables. | OA 11 |
+| 17 | Alternativas | b) Sus numerosos ríos y caudales abundantes. El sur de Chile tiene muchos ríos con caudal abundante por las lluvias; la fuerza del agua mueve las turbinas de las centrales hidroeléctricas. | OA 11 |
 | 18 | Varias correctas | **a y b.** Relacionar la energía con la geografía de cada zona explica el potencial energético diverso de Chile. | OA 11 |
-| 19 | Alternativas | b) Condensación | OA 13 |
-| 20 | Alternativas | b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullición, en todo el volumen a una temperatura fija | OA 13 |
+| 19 | Alternativas | b) Condensación. El vapor se enfría al tocar una superficie fría y vuelve a ser líquido: eso es condensación, como cuando se empaña un vidrio. | OA 13 |
+| 20 | Alternativas | b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullición, en todo el volumen a una temperatura fija. La evaporación ocurre solo en la superficie del líquido y a cualquier temperatura; la ebullición ocurre en todo el líquido a una temperatura determinada (el agua hierve a unos 100 °C a nivel del mar). | OA 13 |
 | 21 | Alternativas | **d) En el gas las partículas están separadas y se mueven libremente; en el sólido están juntas y solo vibran. El hielo seco pasa de sólido a gas sin estado líquido: es una sublimación.** La "niebla" blanca alrededor del hielo seco son gotitas de agua del aire condensadas por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. | OA 13 |
-| 22 | Alternativas | c) Atmósfera | OA 16 |
-| 23 | Alternativas | **b) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.** | OA 16 |
-| 24 | Alternativas | b) El viento | OA 18 |
+| 22 | Alternativas | c) Atmósfera. El oxígeno que respiramos forma parte del aire, que está en la atmósfera. | OA 16 |
+| 23 | Alternativas | **b) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.** La quema de combustibles en autos, industrias y estufas libera gases y partículas que contaminan el aire; usar transporte público, bicicleta o calefacción limpia reduce ese impacto. | OA 16 |
+| 24 | Alternativas | b) El viento. En el desierto, el viento arrastra granos de arena que golpean y desgastan las rocas: es erosión eólica, causada por el viento. | OA 18 |
 | 25 | Varias correctas | **a, b y d.** Dejar el suelo descubierto aumenta la erosión. | OA 18 |
 
 

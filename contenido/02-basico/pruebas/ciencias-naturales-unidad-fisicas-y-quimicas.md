@@ -36,12 +36,12 @@ b) Falso
 
 ---
 
-**Pregunta 3.** Si le echas un puñado de arena a un vaso con agua y revuelves, ¿qué va a pasar?
+**Pregunta 3.** Si le echas una cucharada de piedrecitas a un vaso con agua y revuelves, ¿qué va a pasar?
 
-a) La arena no se disuelve: se sigue viendo, flotando o en el fondo del vaso
-b) La arena desaparece porque se disuelve en el agua, como el azúcar
-c) El agua se convierte en arena y el vaso queda lleno de barro seco
-d) El agua se congela alrededor de la arena y se forma hielo
+a) Las piedrecitas no se disuelven: se siguen viendo en el fondo del vaso
+b) Las piedrecitas desaparecen porque se disuelven en el agua, como la sal
+c) El agua se convierte en piedra
+d) El agua se pone dulce
 
 ---
 
@@ -78,7 +78,7 @@ d) Es de color café
 
 1. **c) Mantiene su misma forma, porque es un sólido.** Los sólidos tienen forma propia; los líquidos, como el agua, toman la forma del recipiente.
 2. **Falso.** El aceite no se disuelve en el agua: después de revolver, vuelve a flotar sobre ella.
-3. a) La arena no se disuelve: se sigue viendo, flotando o en el fondo del vaso. No todos los sólidos se disuelven en el agua.
+3. **a) Las piedrecitas no se disuelven: se siguen viendo en el fondo del vaso.** Las piedrecitas no se mezclan con el agua: se van al fondo y se siguen viendo. La sal o el azúcar, en cambio, se disuelven y dejan de verse.
 4. d) Es invisible y se mezcla con el aire. El hielo es sólido y duro, el agua líquida se puede tomar y escurre, y el vapor es invisible y se mezcla con el aire.
 5. b) Se evaporó: el calor la transformó en vapor de agua. El vapor de agua subió al aire y ya no se ve.
 6. a y c — El agua pura es transparente e inodora; si tiene color o mal olor, puede estar sucia.

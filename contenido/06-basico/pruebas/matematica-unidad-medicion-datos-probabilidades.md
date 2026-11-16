@@ -37,12 +37,12 @@ b) 30 cm²
 c) 31 cm²
 d) 10 cm²
 
-**Pregunta 3 (problema de aplicación — pintura).** Se quiere pintar todas las caras de una caja cúbica de madera de 50 cm de arista. ¿Cuántos cm² de superficie hay que pintar?
+**Pregunta 3 (problema de aplicación — pintura).** Se quiere forrar con papel todas las caras de una caja cúbica de 20 cm de arista. ¿Cuántos cm² de papel se necesitan como mínimo?
 
-a) 2.500 cm²
-b) 125.000 cm²
-c) 300 cm²
-d) 15.000 cm²
+a) 400 cm²
+b) 8.000 cm²
+c) 120 cm²
+d) 2.400 cm²
 
 **Pregunta 4 (alternativas).** ¿Cuál es el volumen de un cubo cuyas aristas miden 4 cm?
 a) 64 cm³
@@ -57,12 +57,12 @@ b) 160 dm³
 c) 176 dm³
 d) 32 dm³
 
-**Pregunta 6 (problema en contexto — m³).** Una piscina tiene forma de paralelepípedo, con 8 m de largo, 4 m de ancho y 1,5 m de profundidad. ¿Cuántos metros cúbicos de agua se necesitan para llenarla completamente?
+**Pregunta 6 (problema en contexto — m³).** Un acuario tiene forma de paralelepípedo, con 60 cm de largo, 30 cm de ancho y 40 cm de alto. ¿Cuál es su volumen?
 
-a) 13,5 m³
-b) 32 m³
-c) 48 m³
-d) 96 m³
+a) 130 cm³
+b) 1.800 cm³
+c) 72.000 cm³
+d) 2.400 cm³
 
 **Pregunta 7 (alternativas).** Si lanzas una moneda 200 veces, ¿aproximadamente cuántas veces esperarías que salga cara?
 a) 200
@@ -119,10 +119,10 @@ d) 40% y 128 estudiantes
 
 1. **a) 150 cm²** — cara: 5×5=25; 6×25=150.
 2. a) 62 cm² — 2×(5×3)+2×(5×2)+2×(3×2) = 30+20+12 = 62.
-3. d) 15.000 cm² — cara: 50×50 = 2.500; 6 × 2.500 = 15.000.
+3. **d) 2.400 cm².** Un cubo tiene 6 caras cuadradas iguales: cada una mide 20 × 20 = 400 cm², y las seis suman 6 × 400 = 2.400 cm². 8.000 cm³ sería el volumen.
 4. **a) 64 cm³** — 4×4×4=64.
 5. b) 160 dm³ — 8×4×5 = 160 (equivale a 160 litros).
-6. c) 48 m³ — 8×4×1,5 = 48.
+6. **c) 72.000 cm³.** El volumen de un paralelepípedo es largo × ancho × alto: 60 × 30 × 40 = 72.000 cm³ (que equivalen a 72 litros).
 7. **d) 100** — la mitad de los lanzamientos: 200 ÷ 2 = 100.
 8. c) 8 — 2 formas × 4 sabores = 8 combinaciones.
 9. d) Hay más bolitas rojas que azules, en una razón cercana a 7:3. Se observó 70% rojas y 30% azules.

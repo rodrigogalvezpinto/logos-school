@@ -146,8 +146,8 @@ d) Por la importancia estratégica del Estrecho de Magallanes, ruta clave entre 
 ### La progresiva democratización de la sociedad en el siglo XX (OA 7)
 
 **Pregunta 9.** (1 punto)
-¿En qué año obtuvieron las mujeres chilenas el derecho a voto en elecciones **municipales**
-(antes de obtenerlo en elecciones presidenciales y parlamentarias)?
+¿En qué año votaron por primera vez las mujeres chilenas en elecciones **municipales**
+(antes de hacerlo en elecciones presidenciales y parlamentarias)?
 
 a) 1925
 b) 1935
@@ -387,30 +387,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | c) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península | OA 1 | Historia | 1 |
-| 2  | Alternativas | a) A la independencia de Estados Unidos (1776) | OA 1 | Historia | 1 |
-| 3  | Alternativas | d) Formar la Primera Junta Nacional de Gobierno | OA 2 | Historia | 1 |
+| 1  | Alternativas | c) No podían acceder a los cargos políticos más altos, reservados casi exclusivamente para los españoles nacidos en la península. Los altos cargos políticos de la Colonia se reservaban casi siempre a españoles nacidos en España; los criollos, aunque eran ricos e instruidos, quedaban excluidos. | OA 1 | Historia | 1 |
+| 2  | Alternativas | a) A la independencia de Estados Unidos (1776). La independencia de Estados Unidos (1776) mostró que una colonia americana podía separarse de su metrópoli y gobernarse sola, y fue una fuente de inspiración. | OA 1 | Historia | 1 |
+| 3  | Alternativas | d) Formar la Primera Junta Nacional de Gobierno. El 18 de septiembre de 1810, el cabildo abierto formó la Primera Junta Nacional de Gobierno; la independencia se declaró recién en 1818. | OA 2 | Historia | 1 |
 | 4 | Alternativas | **a) Patriotas (buscaban la independencia de España) y realistas (fieles a la Corona); Paula Jaraquemada protegió a tropas patriotas arriesgando su hacienda.** Javiera Carrera también apoyó activamente la causa patriota. | OA 2 | Historia | 2 |
-| 5  | Alternativas | a) Los liberales | OA 3 | Historia | 1 |
-| 6  | Alternativas | d) Concentró el poder en la figura del Presidente de la República | OA 3 | Historia | 1 |
-| 7  | Alternativas | a) Valdivia y Llanquihue | OA 5 | Historia | 1 |
-| 8 | Alternativas | **d) Por la importancia estratégica del Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía en un territorio poco poblado.** | OA 5 | Historia | 2 |
-| 9  | Alternativas | b) 1935 | OA 7 | Historia | 1 |
-| 10 | Alternativas | b) Un mayor acceso a la educación permitió a más personas acceder a empleos calificados, fortaleciendo a la clase media | OA 7 | Historia | 1 |
-| 11 | Alternativas | b) El plebiscito de 1988 | OA 8 | Historia | 1 |
+| 5  | Alternativas | a) Los liberales. Los liberales querían un Congreso más fuerte, más libertades individuales y reformas; los conservadores defendían un Presidente fuerte y el orden tradicional. | OA 3 | Historia | 1 |
+| 6  | Alternativas | d) Concentró el poder en la figura del Presidente de la República. Nombrar ministros, intendentes y jueces y declarar estado de sitio muestra un Presidente con mucho poder: la Constitución de 1833 fue presidencialista. | OA 3 | Historia | 1 |
+| 7  | Alternativas | a) Valdivia y Llanquihue. Desde mediados del siglo XIX, el Estado promovió la llegada de colonos alemanes a Valdivia y a la zona del lago Llanquihue. | OA 5 | Historia | 1 |
+| 8 | Alternativas | **d) Por la importancia estratégica del Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía en un territorio poco poblado.** El Estrecho de Magallanes era una ruta clave entre los océanos Atlántico y Pacífico; ocuparlo con Fuerte Bulnes (1843) y luego Punta Arenas aseguraba la soberanía chilena. | OA 5 | Historia | 2 |
+| 9  | Alternativas | b) 1935. Las mujeres votaron por primera vez en elecciones municipales en 1935 (por una ley de 1934) y en elecciones presidenciales y parlamentarias desde 1949. | OA 7 | Historia | 1 |
+| 10 | Alternativas | b) Un mayor acceso a la educación permitió a más personas acceder a empleos calificados, fortaleciendo a la clase media. La expansión de la educación pública permitió a más personas acceder a empleos como profesores, empleados o funcionarios, que formaron la clase media. | OA 7 | Historia | 1 |
+| 11 | Alternativas | b) El plebiscito de 1988. En el plebiscito del 5 de octubre de 1988 ganó la opción "No"; en 1989 hubo elecciones libres y en 1990 asumió un presidente elegido democráticamente. | OA 8 | Historia | 1 |
 | 12 | Alternativas | **b) Que el período se vivió de formas muy distintas según la posición y experiencia de cada persona; y hoy existe amplio consenso en el valor de la democracia y el rechazo a las violaciones de los derechos humanos.** Comparar testimonios evita explicaciones simplificadas; las violaciones a los derechos humanos durante la dictadura son hechos ampliamente reconocidos y documentados. | OA 8 | Historia | 3 |
-| 13 | Alternativas | b) El éxodo rural y la creciente urbanización del país | OA 9 | Historia | 1 |
-| 14 | Alternativas | c) El clima y el relieve | OA 11 | Geografía | 1 |
-| 15 | Alternativas | a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con otras regiones | OA 11 | Geografía | 1 |
-| 16 | Alternativas | b) Usando atrapanieblas, riego por goteo y plantas desalinizadoras para obtener agua | OA 12 | Geografía | 1 |
-| 17 | Alternativas | **c) Por su enorme extensión de norte a sur, que genera climas y relieves distintos; por ejemplo, el altiplánico (frío, ganadería de camélidos) y el andino (relieve abrupto, recursos hídricos).** | OA 12 | Geografía | 2 |
-| 18 | Alternativas | a) Poder Ejecutivo | OA 15 | Formación Ciudadana | 1 |
-| 19 | Alternativas | c) Alcalde | OA 15 | Formación Ciudadana | 1 |
-| 20 | Alternativas | b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la Constitución | OA 16 | Formación Ciudadana | 1 |
-| 21 | Alternativas | **a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas.** | OA 16 | Formación Ciudadana | 2 |
-| 22 | Alternativas | b) 1948 | OA 17 | Formación Ciudadana | 1 |
+| 13 | Alternativas | b) El éxodo rural y la creciente urbanización del país. El paso de un Chile mayoritariamente rural a uno urbano es un cambio; el idioma, las comidas tradicionales y las iglesias coloniales muestran continuidad. | OA 9 | Historia | 1 |
+| 14 | Alternativas | c) El clima y el relieve. El clima y el relieve son rasgos físicos de la naturaleza; la población, las actividades económicas y la distribución urbana o rural son rasgos humanos. | OA 11 | Geografía | 1 |
+| 15 | Alternativas | a) Porque permite comprender mejor el entorno inmediato y sirve como punto de comparación con otras regiones. Conocer la propia región ayuda a entender el lugar donde vives y a compararlo con otras regiones, para valorar la diversidad del país. | OA 11 | Geografía | 1 |
+| 16 | Alternativas | b) Usando atrapanieblas, riego por goteo y plantas desalinizadoras para obtener agua. En el desierto, las personas obtienen agua con atrapanieblas, riego por goteo y plantas desalinizadoras, adaptándose a la falta de lluvia. | OA 12 | Geografía | 1 |
+| 17 | Alternativas | **c) Por su enorme extensión de norte a sur, que genera climas y relieves distintos; por ejemplo, el altiplánico (frío, ganadería de camélidos) y el andino (relieve abrupto, recursos hídricos).** Chile se extiende por más de 4.000 km de norte a sur: por eso tiene desierto en el norte, clima templado en el centro y frío y lluvias en el sur. | OA 12 | Geografía | 2 |
+| 18 | Alternativas | a) Poder Ejecutivo. El Poder Ejecutivo gobierna y administra el país, y lo encabeza el Presidente o Presidenta de la República. | OA 15 | Formación Ciudadana | 1 |
+| 19 | Alternativas | c) Alcalde. El alcalde dirige la municipalidad de una comuna; los senadores, los diputados y el Presidente son autoridades nacionales. | OA 15 | Formación Ciudadana | 1 |
+| 20 | Alternativas | b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la Constitución. La Constitución es la ley más importante: si una ley la contradice, puede ser declarada inconstitucional (en Chile lo resuelve el Tribunal Constitucional). | OA 16 | Formación Ciudadana | 1 |
+| 21 | Alternativas | **a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas.** La Constitución limita el poder de las autoridades y protege los derechos; sin ella, aumentaría el riesgo de abusos y arbitrariedades. | OA 16 | Formación Ciudadana | 2 |
+| 22 | Alternativas | b) 1948. La Asamblea General de las Naciones Unidas adoptó la Declaración Universal de los Derechos Humanos el 10 de diciembre de 1948, después de la Segunda Guerra Mundial. | OA 17 | Formación Ciudadana | 1 |
 | 23 | Varias correctas | **a y b.** Las acciones válidas garantizan el derecho sin depender de la capacidad económica de las personas; cobrar más o cerrar escuelas lo restringe. | OA 17 | Formación Ciudadana | 2 |
-| 24 | Alternativas | a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión de los demás, sin discriminar ni difamar | OA 18 | Formación Ciudadana | 1 |
+| 24 | Alternativas | a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión de los demás, sin discriminar ni difamar. Tener derechos implica respetar los de los demás: puedo expresar mi opinión, pero sin insultar ni discriminar a otras personas. | OA 18 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **d) El derecho al descanso y a un entorno limpio de unos vecinos tensiona con la recreación de otros; el equilibrio entre derechos y deberes permite la convivencia, y el Estado lo resguarda con normas como ordenanzas municipales.** El ejercicio de un derecho no puede pasar a llevar los derechos de los demás; las normas permiten hacer cumplir ese equilibrio. | OA 18 | Formación Ciudadana | 3 |
 
 **Puntaje total: 34 puntos**

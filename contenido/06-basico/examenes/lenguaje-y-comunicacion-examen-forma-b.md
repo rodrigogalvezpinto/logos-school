@@ -24,71 +24,71 @@ ultima_actualizacion: 2026-11-02
 
 ## Texto 1 (para las preguntas 1 a 2)
 
-### "El último tren a Baquedano"
+### "El río de las pepitas"
 
-> Manuel tenía doce años y trabajaba junto a su padre en la Oficina Salitrera Humberstone, en pleno desierto de Atacama, allá por 1920. Cada mañana, antes de que el sol quemara la pampa como un horno de ladrillos, su padre le repetía la misma advertencia: "Nunca te acerques solo a los carros de nitrato, hijo; un descuido aquí se paga caro". Manuel, que soñaba con ser tan veloz y valiente como los cargadores mayores, sentía que esas reglas eran solo para los más torpes, y por eso las ignoraba cada vez que su padre no estaba mirando.
+> Julián tenía doce años y trabajaba junto a su padre en un lavadero de oro de Tierra del Fuego, allá por 1885, cuando cientos de buscadores llegaron a la isla atraídos por la noticia de que los ríos arrastraban pepitas doradas. Cada mañana, antes de entrar al agua helada con la batea, su padre le repetía la misma advertencia: "Nunca entres solo al río, hijo; aquí la corriente no perdona". Julián, que soñaba con encontrar la pepita más grande de la isla, sentía que esas reglas eran solo para los miedosos, y por eso las olvidaba cada vez que su padre se alejaba.
 >
-> Una tarde, mientras los hombres cargaban los sacos de salitre para el tren que partía hacia el puerto de Iquique, Manuel se acercó solo a los rieles para observar de cerca las ruedas de un carro en movimiento. El viento levantó una nube de polvo salitroso que le cerró los ojos por un instante, y su pie quedó atrapado entre dos durmientes justo cuando el carro comenzaba a rodar. Gritó con todas sus fuerzas. Fue su padre quien, al escucharlo, corriendo más rápido de lo que Manuel nunca lo había visto correr, lo sacó de los rieles segundos antes de que el carro pasara por ahí.
+> Una tarde, mientras los hombres lavaban arena en la orilla, Julián se metió solo hasta la mitad del río para alcanzar un brillo que había visto entre las piedras. La corriente, crecida por el deshielo, le arrancó la batea de las manos y lo arrastró varios metros. Gritó con todas sus fuerzas. Fue su padre quien, al escucharlo, se lanzó al agua sin pensarlo y lo sacó hasta la orilla, temblando de frío y de miedo.
 >
-> Esa noche, con el tobillo vendado, Manuel entendió que las reglas de su padre no eran para los "torpes": eran el conocimiento de alguien que llevaba veinte años trabajando en la pampa y que sabía, mejor que nadie, cuánto castigaba el descuido en un lugar así. Desde entonces, ayudó a cargar los sacos siguiendo cada instrucción al pie de la letra, y comprendió por qué, en la oficina salitrera, los niños aprendían las reglas de seguridad casi al mismo tiempo que aprendían a caminar.
+> Esa noche, junto al fuego y envuelto en una manta de lana, Julián entendió que las reglas de su padre no eran para los "miedosos": eran el conocimiento de alguien que había visto a otros buscadores perderlo todo en esos ríos helados, lejos de cualquier pueblo donde pedir ayuda. Desde entonces, trabajó siempre cerca de la orilla y nunca volvió a entrar solo al agua.
 
 ### Texto 2 (para las preguntas 3 a 4)
 
-### "La deuda de don Aurelio"
+### "El corral de don Germán"
 
-> En una isla pequeña de Chiloé, don Aurelio llevaba semanas preocupado: la tormenta de julio había destrozado el techo de su galpón, y sin galpón no había dónde guardar la cosecha de papas antes del invierno. Su nieta Antonia, de once años, lo veía calcular una y otra vez cuánto costaría comprar planchas de zinc nuevas, y notaba que su abuelo, siempre conversador, apenas hablaba durante la cena.
+> En Colchane, en el altiplano de la Región de Tarapacá, don Germán llevaba días preocupado: una nevazón había derribado la pirca de piedra de su corral, y sin corral sus llamas podían escaparse o ser atacadas por los zorros. Su nieta Wara, de once años, lo veía mirar las piedras caídas en silencio, y notaba que su abuelo, siempre bromista, ya casi no se reía durante la comida.
 >
-> Sin decirle nada, Antonia recorrió las casas vecinas para contarles lo que pasaba. No pedía dinero: en Chiloé, cuando alguien necesita ayuda para un trabajo grande, se organiza una **minga**, una costumbre en que toda la comunidad colabora sin cobrar, sabiendo que algún día también recibirá ayuda. Al sábado siguiente, doce vecinos llegaron con martillos, tablas y planchas de zinc guardadas de otros trabajos, y en un solo día levantaron un techo nuevo, mientras las mujeres preparaban un curanto en hoyo para agradecer el esfuerzo de todos.
+> Sin decirle nada, Wara recorrió las casas vecinas para contarles lo que pasaba. No pedía dinero: en las comunidades aymaras existe el **ayni**, una costumbre en que las familias se ayudan en los trabajos grandes, sabiendo que después devolverán esa ayuda cuando otra familia la necesite. Al domingo siguiente, diez vecinos llegaron con chuzos y sacos, y en un solo día levantaron la pirca de nuevo, mientras las mujeres preparaban una calapurca caliente para compartir.
 >
-> Don Aurelio, emocionado hasta las lágrimas, le dijo a Antonia que esa deuda —la ayuda recibida— no se pagaba con dinero, sino ayudando a otro cuando le tocara el turno. Antonia comprendió que, en su isla, nadie enfrentaba solo una tormenta: la costumbre de la minga hacía que los problemas de una casa se convirtieran, casi automáticamente, en la tarea de todo el vecindario.
+> Don Germán, emocionado, le dijo a Wara que esa ayuda no se pagaba con dinero, sino ayudando a otro cuando le tocara el turno. Wara comprendió que, en su pueblo, nadie enfrentaba solo una nevazón: gracias al ayni, el problema de una casa se convertía en la tarea de toda la comunidad.
 
-**1. (Alternativas)** ¿Con qué época y lugar se relaciona mejor el Texto 1 para comprenderlo completamente?
+**1. (Alternativas)** Para entender por qué tantas personas trabajaban en el río del Texto 1, ¿qué contexto histórico y geográfico conviene conocer?
 
-a) Chile actual, en una ciudad grande con fábricas y mucho tráfico
-b) La época de la Colonia española, en las minas de plata del centro
-c) El auge del salitre en el norte de Chile, a comienzos del siglo XX
-d) El sur de Chile en el presente, en un pueblo de pescadores y bosques
+a) Santiago en la actualidad, en un barrio con edificios y autopistas
+b) La Independencia de Chile, en los campos del valle central
+c) La fiebre del oro en Tierra del Fuego, a fines del siglo XIX
+d) El norte de Chile en el presente, en una oficina salitrera
 
-**2. (Alternativas)** ¿Cómo influye el ambiente descrito en el Texto 1 (el calor extremo, la maquinaria pesada, el peligro constante) en las reglas de seguridad y en la reacción del padre de Manuel cuando lo ve en peligro?
+**2. (Alternativas)** ¿Cómo influye el ambiente descrito en el Texto 1 (el agua helada, la corriente crecida, el aislamiento) en las reglas de seguridad y en la reacción del padre de Julián cuando lo ve en peligro?
 
-a) La maquinaria hace que no existan reglas de seguridad: cada trabajador decide por sí mismo cómo cuidarse, y por eso el padre no le explica nada a Manuel
-b) El ambiente no influye: las reglas de seguridad son solo una costumbre familiar que el padre aprendió de niño y que repite sin saber bien para qué sirve
-c) El calor hace que el padre esté cansado y no se preocupe por Manuel; por eso las reglas son pocas y se aplican solo cuando hay un jefe presente
-d) El ambiente extremo (calor, maquinaria pesada, poca tolerancia al error) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal
+a) El río hace que no existan reglas: cada buscador decide por sí mismo cómo cuidarse, y por eso el padre no le explica nada a Julián
+b) El ambiente no influye: las reglas son solo una costumbre familiar que el padre repite sin saber para qué sirve
+c) El frío hace que el padre esté cansado y no se preocupe por Julián; por eso las reglas se aplican solo cuando hay un jefe presente
+d) El ambiente peligroso (agua helada, corriente fuerte, lejos de cualquier ayuda) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal
 
-**3. (Alternativas — verdadero o falso justificado)** "La motivación de Antonia para organizar la minga fue únicamente demostrar ante los vecinos sus habilidades de organización, sin que le importara realmente la situación de su abuelo." ¿Es verdadero o falso, y qué información del texto lo justifica?
+**3. (Alternativas — verdadero o falso justificado)** "Wara organizó la ayuda de los vecinos solo para que la comunidad la admirara, sin que le importara realmente lo que le pasaba a su abuelo." ¿Es verdadero o falso, y qué información del texto lo justifica?
 
-a) Verdadero: el texto dice que Antonia quería que los vecinos la admiraran por lo bien que organizaba las actividades del pueblo
-b) Verdadero: Antonia organizó la minga para ganar un premio que la junta de vecinos entregaba a quien ayudara más en el sector
-c) Falso: la minga no la organizó Antonia, sino su abuelo, que llamó a los vecinos apenas vio el problema del galpón
-d) Falso: Antonia actúa preocupada al ver a su abuelo triste y silencioso por el problema del galpón; el texto no menciona interés en lucirse
+a) Verdadero: el texto dice que Wara quería que los vecinos la admiraran
+b) Verdadero: Wara organizó la ayuda para ganar un premio de la junta de vecinos
+c) Falso: la ayuda no la organizó Wara, sino su abuelo, que llamó a los vecinos apenas vio la pirca caída
+d) Falso: Wara actúa preocupada al ver a su abuelo triste y silencioso por el corral; el texto no menciona interés en lucirse
 
-**4. (Alternativas)** ¿Qué opción presenta una opinión fundamentada sobre la actitud de Antonia al organizar la minga sin que nadie se lo pidiera, y una conclusión sustentada en el Texto 2 sobre el valor de las costumbres comunitarias?
+**4. (Alternativas)** ¿Qué opción presenta una opinión fundamentada sobre la actitud de Wara al organizar la ayuda sin que nadie se lo pidiera, y una conclusión sustentada en el Texto 2 sobre el valor de las costumbres comunitarias?
 
-a) Su actitud fue egoísta, porque quería que la reconocieran; y las costumbres comunitarias ya no sirven para resolver problemas
+a) Su actitud fue egoísta, porque quería que la reconocieran; y las costumbres comunitarias ya no sirven
 b) Su actitud fue un error, porque debió esperar a que su abuelo pidiera ayuda; y cada persona debe resolver sola sus problemas
-c) Antonia no hizo nada importante, porque los vecinos habrían ayudado igual; y la minga es solo un juego para los niños del pueblo
-d) Su actitud muestra iniciativa y empatía; y la minga permite resolver en comunidad problemas que una persona sola no podría enfrentar
+c) Wara no hizo nada importante, porque los vecinos habrían ayudado igual; y el ayni es solo un juego
+d) Su actitud muestra iniciativa y empatía; y el ayni permite resolver en comunidad problemas que una persona sola no podría enfrentar
 
 ---
 
 ## Texto 3 (para las preguntas 5 a 8)
 
-### Poema: "Tren nocturno hacia el sur"
+### Poema: "Lancha de madrugada hacia la isla"
 
 > Estrofa 1
-> El tren traquetea, traquetea, traquetea,          (verso 1)
-> tragando kilómetros de rieles mojados.            (verso 2)
-> Silba una vez, dos veces, tres veces,              (verso 3)
-> **como un viajero que nunca descansa.**             (verso 4)
+> El motor hace tuc, tuc, tuc,                        (verso 1)
+> cortando la neblina sobre el canal.                 (verso 2)
+> Salta una ola, dos olas, tres olas,                 (verso 3)
+> **como un caballo que galopa en el mar.**           (verso 4)
 >
 > Estrofa 2
-> Los pinos se inclinan para verlo pasar,             (verso 1)
-> susurrando secretos que el viento se lleva.         (verso 2)
-> Mis ojos pesan más que una montaña                  (verso 3)
-> y el sueño me vence antes de llegar.                (verso 4)
+> Las gaviotas despiertan para verla pasar,           (verso 1)
+> gritando noticias que nadie entiende.               (verso 2)
+> Mis manos pesan más que un ancla                    (verso 3)
+> y el sueño me gana antes de llegar.                 (verso 4)
 
-**5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "**como un viajero que nunca descansa**"?
+**5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "**como un caballo que galopa en el mar**"?
 
 a) Metáfora
 b) Hipérbole
@@ -97,121 +97,121 @@ d) Comparación (símil)
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **explícita** (dicha directamente en el texto)?
 
-a) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
-b) El paisaje parece estar vivo y acompañar el viaje
-c) El tren viaja de noche, hacia el sur
-d) El tiempo pareciera detenerse durante el trayecto
+a) El viaje es muy largo, aunque el poema no lo diga con esas palabras
+b) Las gaviotas parecen personas que conversan
+c) La lancha viaja de madrugada, hacia la isla
+d) Quien viaja tiene miedo del mar
 
-**7. (Alternativas)** ¿Qué ocurre en la **primera estrofa** del poema, y qué sonido de la realidad imita la onomatopeya "traquetea"?
+**7. (Alternativas)** ¿Qué ocurre en la **primera estrofa** del poema, y qué sonido de la realidad imita la onomatopeya "tuc, tuc, tuc"?
 
-a) El tren está detenido en la estación esperando a los pasajeros; "traquetea" imita el canto de un pájaro que se posa sobre los rieles mojados
-b) Llueve fuertemente en la ciudad y el tren no puede avanzar; "traquetea" imita el sonido de la lluvia al caer sobre el techo de los vagones
-c) El tren avanza con un ruido rítmico sobre rieles mojados y silba varias veces; "traquetea" imita el sonido repetitivo y mecánico del tren sobre los rieles
-d) Los pinos se inclinan con el viento mientras el tren se aleja; "traquetea" imita el silbido del viento entre las ramas de los árboles del bosque
+a) La lancha está amarrada en el muelle; "tuc" imita el canto de una gaviota
+b) Llueve fuerte y la lancha no puede salir; "tuc" imita la lluvia sobre el techo
+c) La lancha avanza entre la neblina y salta sobre las olas; "tuc, tuc, tuc" imita el sonido repetitivo del motor
+d) Las gaviotas despiertan mientras la lancha se aleja; "tuc" imita el viento
 
-**8. (Alternativas)** ¿Qué opción interpreta correctamente la comparación "**como un viajero que nunca descansa**", lo que ocurre en la **segunda estrofa** y da un ejemplo correcto de **hipérbole** sobre el hambre después de hacer deporte?
+**8. (Alternativas)** ¿Qué opción interpreta correctamente la comparación "**como un caballo que galopa en el mar**", lo que ocurre en la **segunda estrofa** y da un ejemplo correcto de **hipérbole** sobre el frío después de bañarse en el mar?
 
-a) La comparación transmite un viaje larguísimo y agotador; en la segunda estrofa los pinos parecen observar el tren y quien viaja se duerme; y "tenía tanta hambre que me habría comido una vaca entera" es una hipérbole
-b) La comparación transmite un viaje corto y alegre; en la segunda estrofa el tren choca contra los pinos y se detiene; y "tenía hambre después del viaje" es una hipérbole
-c) La comparación transmite el miedo de quien viaja de noche; en la segunda estrofa ya es de día y el tren llega a su destino; y "comí un pan con palta" es una hipérbole
-d) No hay ninguna comparación en el poema; en la segunda estrofa no pasa nada nuevo; y "mi estómago estaba vacío como un tambor" es una hipérbole, porque exagera el hambre
+a) La comparación transmite el movimiento brusco y rítmico de la lancha sobre las olas; en la segunda estrofa las gaviotas parecen observarla y quien viaja se duerme; y "tenía tanto frío que me iba a convertir en un cubo de hielo" es una hipérbole
+b) La comparación transmite un viaje tranquilo y quieto; en la segunda estrofa la lancha choca y se detiene; y "tenía frío después de bañarme" es una hipérbole
+c) La comparación transmite miedo a los caballos; en la segunda estrofa ya es de noche y la lancha vuelve; y "me puse un chaleco" es una hipérbole
+d) No hay ninguna comparación en el poema; en la segunda estrofa no pasa nada nuevo; y "el agua estaba fría como el hielo" es una hipérbole, porque exagera el frío
 
 ---
 
-## Texto 4 (para las preguntas 9 a 13 y 22): "El agua que viene de la niebla"
+## Texto 4 (para las preguntas 9 a 13 y 22): "Regar gota a gota"
 
-**Texto A — "Atrapando agua del aire en Alto Hospicio"**
+**Texto A — "Huertos que ahorran agua en Pica"**
 
-> En Alto Hospicio, Región de Tarapacá, un grupo de vecinos instaló hace algunos años grandes mallas verticales llamadas "atrapanieblas" en los cerros cercanos a la ciudad. Estas mallas capturan las diminutas gotas de agua que forma la camanchaca —la espesa niebla costera del norte de Chile— y las conducen mediante canaletas hasta estanques de almacenamiento. Gracias a este sistema, algunas familias que antes dependían de camiones aljibe (camiones que transportan agua) hoy pueden regar pequeños huertos comunitarios.
+> En Pica, Región de Tarapacá, un grupo de familias que cultiva limones y verduras cambió hace algunos años el riego por surcos por el riego por goteo: mangueras delgadas con pequeños agujeros que dejan caer el agua gota a gota junto a cada planta. Gracias a este sistema, en un oasis rodeado de desierto, las familias pueden mantener sus huertos usando menos agua, y algunas que antes perdían parte de su cosecha en verano hoy venden sus productos en la feria del pueblo.
 
 ```
-Mes           Litros captados (promedio por malla)
-Marzo         120
-Junio         310
-Septiembre    280
-Diciembre     90
+Mes           Litros ahorrados por semana (promedio por huerto)
+Marzo         150
+Junio         160
+Septiembre    230
+Diciembre     260
 ```
 
-**Texto B — "La ciencia detrás de los atrapanieblas"**
+**Texto B — "La ciencia del riego por goteo"**
 
-> Los atrapanieblas funcionan gracias a un principio físico simple: cuando el aire cargado de humedad choca contra una malla de polietileno de trama fina, las gotas microscópicas de agua se adhieren a los hilos y, por gravedad, escurren hacia abajo. Este sistema fue desarrollado inicialmente en Chile en la década de 1980 por científicos que estudiaban la camanchaca en la Región de Antofagasta, y desde entonces se ha replicado en países como Perú, Marruecos y Sudáfrica. Aunque no reemplaza completamente el suministro de agua potable de una ciudad, es una alternativa valiosa en zonas donde la lluvia es prácticamente inexistente.
+> El riego por goteo funciona gracias a una idea simple: entregar el agua directamente a las raíces, en pequeñas cantidades y de forma constante, en lugar de inundar todo el terreno. Así se pierde mucha menos agua por evaporación y por escurrimiento. El sistema moderno se desarrolló en Israel en la década de 1960, en una zona muy seca, y desde entonces se ha replicado en países como Chile, India y España. Aunque no sirve igual para todos los cultivos, es una alternativa valiosa en lugares donde el agua es escasa.
 
-**9. (Alternativas)** Según el Texto B, ¿en qué década y en qué región de Chile se desarrolló inicialmente la tecnología de los atrapanieblas?
+**9. (Alternativas)** Según el Texto B, ¿en qué década y en qué país se desarrolló el sistema moderno de riego por goteo?
 
-a) Década de 1980, Región de Antofagasta
-b) Década de 1990, Región de Tarapacá
-c) Década de 1970, Región de Coquimbo
-d) Década de 2000, Región de Valparaíso
+a) Década de 1960, Israel
+b) Década de 1990, Chile
+c) Década de 1970, Perú
+d) Década de 2000, España
 
-**10. (Alternativas)** ¿Qué se puede inferir del hecho de que el Texto B mencione que la tecnología "se ha replicado en países como Perú, Marruecos y Sudáfrica"?
+**10. (Alternativas)** ¿Qué se puede inferir del hecho de que el Texto B mencione que el sistema "se ha replicado en países como Chile, India y España"?
 
-a) Que es una tecnología reconocida y utilizada en distintas partes del mundo
-b) Que la tecnología fue inventada originalmente en esos países y Chile la copió
-c) Que en Chile ya no se usan los atrapanieblas porque fueron reemplazados
-d) Que los atrapanieblas solo funcionan en climas lluviosos como los de Europa
+a) Que es una técnica reconocida y utilizada en distintas partes del mundo
+b) Que fue inventada en esos países e Israel la copió
+c) Que en Chile ya no se usa el riego por goteo
+d) Que solo funciona en países muy lluviosos
 
-**11. (Alternativas)** Según la tabla del Texto A, ¿cuál es el **promedio** de litros captados por malla considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre)?
+**11. (Alternativas)** Según la tabla del Texto A, ¿cuál es el **promedio** de litros ahorrados por semana considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre)?
 
 a) 800 litros
-b) 310 litros
+b) 260 litros
 c) 200 litros
 d) 160 litros
 
-**12. (Alternativas — verdadero o falso justificado)** "El Texto A explica el principio físico por el cual las mallas capturan agua, mientras que el Texto B describe el impacto social en la comunidad de Alto Hospicio." ¿Es verdadero o falso, y por qué?
+**12. (Alternativas — verdadero o falso justificado)** "El Texto A explica por qué el goteo pierde menos agua, mientras que el Texto B describe lo que cambió para las familias de Pica." ¿Es verdadero o falso, y por qué?
 
-a) Verdadero: el Texto A explica cómo la niebla queda atrapada en las mallas y el B, cómo cambió la vida en Alto Hospicio
-b) Falso: es al revés; el Texto B explica el principio físico y el Texto A describe el impacto social en Alto Hospicio
-c) Falso: ninguno de los dos textos habla de atrapanieblas; ambos tratan sobre la sequía en el norte
-d) Verdadero: los dos textos dicen exactamente lo mismo, solo que con distintas palabras
+a) Verdadero: el Texto A explica cómo funciona el goteo y el B, cómo cambió la vida en Pica
+b) Falso: es al revés; el Texto B explica cómo funciona el goteo y el Texto A describe el impacto en las familias de Pica
+c) Falso: ninguno de los dos textos habla de riego
+d) Verdadero: los dos textos dicen exactamente lo mismo con distintas palabras
 
-**13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre aplicar los atrapanieblas en otras zonas costeras de Chile con niebla frecuente?
+**13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre usar el riego por goteo en otros valles secos de Chile?
 
-a) No tienen nada en común más allá del tema; la tecnología no podría aplicarse en ninguna otra zona, porque cada lugar de Chile tiene un clima distinto
-b) Ambos dicen que los atrapanieblas reemplazan por completo el agua potable de las ciudades; por eso deberían instalarse en todo el desierto, incluso en los lugares donde nunca hay niebla, para terminar definitivamente con los camiones aljibe
-c) Ambos mencionan la camanchaca como fuente de agua y que la tecnología es valiosa pero no reemplaza el agua potable; podría aplicarse en otras costas con niebla, por su beneficio social (Texto A) y su respaldo científico (Texto B)
-d) Ambos hablan de los volcanes del norte como fuente de agua; la tecnología solo serviría en la Antártica, porque allí hay más hielo que en cualquier otro lugar
+a) No tienen nada en común; el goteo no podría usarse en ningún otro valle, porque cada lugar tiene un clima distinto
+b) Ambos dicen que el goteo sirve igual para todos los cultivos; por eso debería usarse en todo Chile, incluso en las zonas más lluviosas
+c) Ambos destacan que el goteo usa menos agua y que es útil donde el agua escasea; podría aplicarse en otros valles secos, por su beneficio para las familias (Texto A) y su respaldo técnico (Texto B)
+d) Ambos hablan de los glaciares como fuente de agua; el goteo solo serviría en la Antártica
 
 ---
 
-## Texto 5 (para las preguntas 14 a 17): "Nueva ciclovía en la comuna"
+## Texto 5 (para las preguntas 14 a 17): "Nueva plaza de juegos de agua"
 
-**Fuente 1 — Comunicado de la Municipalidad de Ñuñoa**
+**Fuente 1 — Comunicado de la Municipalidad de San Bernardo**
 
-> **¡Nueva ciclovía en Ñuñoa mejora la conectividad del sector!**
-> La Municipalidad de Ñuñoa informa que, desde este mes, la avenida Irarrázaval cuenta con una nueva ciclovía segregada de 2 kilómetros, que conecta el Metro Ñuñoa con el Estadio Nacional. La obra busca fomentar el transporte sustentable y reducir los tiempos de traslado de quienes se mueven en bicicleta. Se estima que más de 3.000 personas utilizarán esta vía diariamente.
-> — Departamento de Movilidad, Municipalidad de Ñuñoa
+> **¡Nueva plaza de juegos de agua para las familias de San Bernardo!**
+> La Municipalidad de San Bernardo informa que, desde este mes, el Parque Los Aromos cuenta con una nueva plaza de juegos de agua, con chorros y piletas para niños y niñas. La obra busca ofrecer un espacio de recreación gratuito durante el verano. Se estima que más de 4.000 personas visitarán la plaza cada fin de semana.
+> — Departamento de Comunicaciones, Municipalidad de San Bernardo
 
 **Fuente 2 — Reportaje de un medio de noticias local**
 
-> **Vecinos de Ñuñoa se dividen por la nueva ciclovía de Irarrázaval**
-> La construcción de la nueva ciclovía en avenida Irarrázaval generó opiniones divididas entre los vecinos. Mientras algunos ciclistas celebran la mayor seguridad para trasladarse, varios comerciantes del sector se quejan de la reducción de espacios de estacionamiento frente a sus locales, lo que —según ellos— ha disminuido sus ventas en las últimas semanas. La Municipalidad respondió que evaluará ajustes menores al diseño, pero descartó eliminar la ciclovía.
+> **Vecinos de San Bernardo opinan distinto sobre la nueva plaza de agua**
+> La nueva plaza de juegos de agua del Parque Los Aromos generó opiniones divididas. Mientras muchas familias celebran tener un lugar donde refrescarse, varios vecinos de los pasajes cercanos reclaman por el ruido hasta tarde y se preguntan cuánta agua se usa en plena sequía. La Municipalidad respondió que evaluará cambiar los horarios, pero descartó cerrar la plaza.
 
 **14. (Alternativas)** ¿Quién es el **emisor** de la Fuente 1?
 
-a) Un vecino anónimo del sector que vio la obra terminada
-b) La Municipalidad de Ñuñoa (Departamento de Movilidad)
-c) Un ciclista profesional que entrena en la avenida
-d) Un comerciante de avenida Irarrázaval afectado por la obra
+a) Un vecino anónimo que visitó la plaza
+b) La Municipalidad de San Bernardo (Departamento de Comunicaciones)
+c) Una familia que celebra la nueva plaza
+d) Un vecino de los pasajes cercanos que reclama por el ruido
 
 **15. (Alternativas)** ¿Cuál de las siguientes afirmaciones es **verdadera** según la Fuente 2?
 
-a) Todos los vecinos están de acuerdo con la nueva ciclovía
-b) Los comerciantes y los ciclistas tienen opiniones distintas sobre la obra
-c) La Municipalidad decidió eliminar completamente la ciclovía
-d) La ciclovía mide cinco kilómetros y costó más de lo planificado
+a) Todos los vecinos están de acuerdo con la nueva plaza
+b) Las familias y algunos vecinos de los pasajes cercanos tienen opiniones distintas sobre la obra
+c) La Municipalidad decidió cerrar la plaza
+d) La plaza recibe exactamente 10.000 visitas al día
 
-**16. (Alternativas)** Si quisieras saber "cuántos comerciantes exactamente afirman que bajaron sus ventas desde que se construyó la ciclovía", ¿qué afirmación es correcta?
+**16. (Alternativas)** Si quisieras saber "cuántos vecinos exactamente reclaman por el ruido de la plaza", ¿qué afirmación es correcta?
 
-a) Ninguna da una cifra exacta: la Fuente 2 solo dice "varios comerciantes"; habría que consultar a la asociación de comerciantes o hacer una encuesta
-b) Sí, la Fuente 1 dice que fueron exactamente 25 comerciantes, según el registro que lleva la Municipalidad sobre los locales del sector
-c) Sí, la Fuente 2 entrega la cifra exacta de comerciantes afectados, porque los entrevistó a todos antes de publicar la noticia
-d) No se puede saber nunca, porque esa información no existe en ninguna parte y los comerciantes no aceptarían responder una encuesta
+a) Ninguna fuente da una cifra exacta: la Fuente 2 solo dice "varios vecinos"; habría que consultar a la junta de vecinos o hacer una encuesta
+b) Sí, la Fuente 1 dice que son exactamente 25 vecinos
+c) Sí, la Fuente 2 entrega la cifra exacta, porque entrevistó a todos los vecinos
+d) No se puede saber nunca, porque esa información no existe en ninguna parte
 
 **17. (Alternativas)** ¿Qué opción describe correctamente el propósito de la Fuente 1 y de la Fuente 2, y por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva?
 
-a) Las dos fuentes tienen el mismo propósito, informar sobre la ciclovía; no importa quién emite un texto, porque los hechos son los mismos para todos
-b) La Fuente 1 critica a la Municipalidad por la obra y la Fuente 2 la elogia; conocer el propósito del emisor no cambia cómo se lee la información
-c) Ninguna tiene un propósito especial, porque los textos informativos siempre son objetivos y neutrales; por eso basta con leer una sola fuente para entender un hecho completo, sin importar si la escribió la Municipalidad, un vecino o un medio de prensa
+a) Las dos fuentes tienen el mismo propósito; no importa quién emite un texto, porque los hechos son los mismos para todos
+b) La Fuente 1 critica a la Municipalidad y la Fuente 2 la elogia; conocer el propósito no cambia cómo se lee la información
+c) Ninguna tiene un propósito especial, porque los textos informativos siempre son neutrales; basta con leer una sola fuente
 d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva
 
 ---
@@ -250,12 +250,12 @@ d) —Me gusta mucho el helado de chocolate —dijo Tomás, contento, junto al k
 
 ## Sección de Escritura informativa (para las preguntas 22 a 25)
 
-**22. (Alternativas)** Dentro del **Texto 4 ("El agua que viene de la niebla")**, ¿cuál es la idea central del **Texto A** ("Atrapando agua del aire en Alto Hospicio")?
+**22. (Alternativas)** Dentro del **Texto 4 ("Regar gota a gota")**, ¿cuál es la idea central del **Texto A** ("Huertos que ahorran agua en Pica")?
 
-a) El principio físico por el cual las mallas de los atrapanieblas capturan agua
-b) El impacto social de los atrapanieblas en la comunidad de Alto Hospicio
-c) La replicación de la tecnología en otros países con costas y desiertos
-d) Las fuentes científicas utilizadas para escribir el artículo informativo
+a) El principio por el cual el goteo pierde menos agua
+b) El impacto del riego por goteo en las familias de Pica
+c) La replicación de la técnica en otros países
+d) Las fuentes científicas utilizadas para escribir el artículo
 
 **23. (Alternativas)** ¿Cuál de las siguientes es una razón para **agregar las fuentes** al final de un artículo informativo?
 
@@ -296,30 +296,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
-| 1 | **c)** El auge del salitre en el norte de Chile, a comienzos del siglo XX. El texto menciona explícitamente la Oficina Salitrera Humberstone y el año 1920. | OA N°4 — época y lugar |
-| 2 | **d) El ambiente extremo (calor, maquinaria pesada, poca tolerancia al error) explica las reglas estrictas y la reacción desesperada del padre: un descuido puede ser fatal.** | OA N°4 — influencia del ambiente en las acciones |
-| 3 | **d) Falso: Antonia actúa preocupada al ver a su abuelo triste y silencioso por el problema del galpón; el texto no menciona interés en lucirse.** | OA N°4 — motivaciones de los personajes |
-| 4 | **d) Su actitud muestra iniciativa y empatía; y la minga permite resolver en comunidad problemas que una persona sola no podría enfrentar.** Una opinión fundamentada se apoya en el texto; la conclusión se sustenta en cómo la costumbre comunitaria ayudó a resolver el problema del galpón. | OA N°4 — opinión fundamentada y conclusión sustentada |
-| 5 | d) Comparación (símil) — usa la palabra "**como**" para comparar el silbido del tren con un viajero que nunca descansa | OA N°5 — lenguaje figurado (comparación) |
-| 6 | **c)** "El tren viaja de noche, hacia el sur" es información explícita, dicha directamente en el poema (título y primeros versos); las otras opciones se deducen, no se dicen literalmente. | OA N°5 — información explícita e implícita |
-| 7 | **c) El tren avanza con un ruido rítmico sobre rieles mojados y silba varias veces; "traquetea" imita el sonido repetitivo y mecánico del tren sobre los rieles.** | OA N°5 — interpretación y onomatopeya |
-| 8 | **a) La comparación transmite un viaje larguísimo y agotador; en la segunda estrofa los pinos parecen observar el tren y quien viaja se duerme; y "tenía tanta hambre que me habría comido una vaca entera" es una hipérbole.** "Mi estómago estaba vacío como un tambor" es una comparación, no una hipérbole: la hipérbole es una exageración evidente e intencionada. Intenta escribir tu propia hipérbole. | OA N°5 — comparación, interpretación y creación de hipérbole |
-| 9 | **a)** Década de 1980, Región de Antofagasta. | OA N°6 — información explícita |
-| 10 | **a)** Que es una tecnología reconocida y utilizada en distintas partes del mundo. | OA N°6 — inferencia a partir de información implícita |
-| 11 | **c) 200 litros.** (120 + 310 + 280 + 90) ÷ 4 = 800 ÷ 4 = 200. 800 es la suma, no el promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
-| 12 | **b) Falso: es al revés; el Texto B explica el principio físico y el Texto A describe el impacto social en Alto Hospicio.** | OA N°6 — comparación de información entre dos textos |
-| 13 | **c) Ambos mencionan la camanchaca como fuente de agua y que la tecnología es valiosa pero no reemplaza el agua potable; podría aplicarse en otras costas con niebla, por su beneficio social (Texto A) y su respaldo científico (Texto B).** La opinión fundamentada se apoya en al menos un dato de cada texto. | OA N°6 — comparación de fuentes y opinión fundamentada |
-| 14 | **b)** La Municipalidad de Ñuñoa (Departamento de Movilidad), tal como se indica al final del comunicado. | OA N°7 — emisor |
-| 15 | **b)** Los comerciantes y los ciclistas tienen opiniones distintas sobre la obra. | OA N°7 — información explícita en textos comparados |
-| 16 | **a) Ninguna da una cifra exacta: la Fuente 2 solo dice "varios comerciantes"; habría que consultar a la asociación de comerciantes o hacer una encuesta.** | OA N°7 — suficiencia de la información |
-| 17 | **d) La Fuente 1 informa destacando positivamente una obra de la propia Municipalidad; la Fuente 2 muestra distintas reacciones, incluidas críticas; conocer el propósito del emisor ayuda a no aceptar su información como completa u objetiva.** | OA N°7 — propósito del emisor |
-| 18 | **a)** Debe resolverse de alguna manera a lo largo de la historia. | OA N°14 — estructura del conflicto en una narración |
+| 1 | **c)** La fiebre del oro en Tierra del Fuego, a fines del siglo XIX. El texto menciona los lavaderos de oro de Tierra del Fuego y el año 1885. | OA N°4 — época y lugar |
+| 2 | **d)** El agua helada, la corriente crecida por el deshielo y la lejanía de cualquier pueblo hacen que un descuido sea muy peligroso: por eso las reglas son estrictas y el padre reacciona desesperado. | OA N°4 — influencia del ambiente en las acciones |
+| 3 | **d)** El texto muestra que Wara actúa al ver a su abuelo "en silencio" y sin reírse; no dice nada de querer lucirse. | OA N°4 — motivaciones de los personajes |
+| 4 | **d)** Una opinión fundamentada se apoya en el texto; la conclusión se sustenta en cómo el ayni resolvió en un día lo que don Germán no podía hacer solo. | OA N°4 — opinión y conclusión |
+| 5 | **d)** Comparación (símil): usa la palabra "**como**" para comparar el movimiento de la lancha sobre las olas con un caballo que galopa. | OA N°5 — lenguaje figurado (comparación) |
+| 6 | **c)** "La lancha viaja de madrugada, hacia la isla" se dice directamente en el título; las otras opciones se deducen o no aparecen. | OA N°5 — información explícita e implícita |
+| 7 | **c)** La onomatopeya imita con palabras un sonido real: "tuc, tuc, tuc" es el ruido repetitivo del motor. | OA N°5 — interpretación y onomatopeya |
+| 8 | **a)** "Me iba a convertir en un cubo de hielo" exagera el frío a propósito (hipérbole); "fría como el hielo" es una comparación, no una hipérbole. | OA N°5 — interpretación, estrofas e hipérbole |
+| 9 | **a)** Década de 1960, Israel. Es información explícita del Texto B. | OA N°6 — información explícita |
+| 10 | **a)** Si la técnica se usa en países tan distintos, se puede inferir que es reconocida en el mundo. | OA N°6 — inferencia a partir de información implícita |
+| 11 | **c) 200 litros.** (150 + 160 + 230 + 260) ÷ 4 = 800 ÷ 4 = 200. 800 es la suma, no el promedio. | OA N°6 — lectura y cálculo a partir de una tabla (texto discontinuo) |
+| 12 | **b)** El Texto B explica la idea técnica (entregar el agua a las raíces) y el Texto A cuenta lo que cambió para las familias de Pica. | OA N°6 — comparación de información entre dos textos |
+| 13 | **c)** Ambos textos coinciden en que el goteo ahorra agua y es útil donde escasea; la opinión se apoya en información de los dos. | OA N°6 — comparación y opinión fundamentada |
+| 14 | **b)** La Municipalidad de San Bernardo (Departamento de Comunicaciones), como se indica al final del comunicado. | OA N°7 — emisor |
+| 15 | **b)** La Fuente 2 muestra que unas familias celebran y otros vecinos reclaman. | OA N°7 — información explícita en textos comparados |
+| 16 | **a)** "Varios vecinos" no es una cifra; para saberlo habría que buscar otra fuente o hacer una encuesta. | OA N°7 — suficiencia de la información |
+| 17 | **d)** El comunicado destaca lo positivo de una obra propia; el reportaje muestra distintas reacciones. Conocer el propósito del emisor ayuda a leer cada texto con criterio. | OA N°7 — propósito del emisor |
+| 18 | **a)** Debe resolverse de alguna manera a lo largo de la historia. El conflicto es el problema que mueve la historia: los personajes actúan frente a él y, al final, se resuelve de alguna manera (bien o mal). | OA N°14 — estructura del conflicto en una narración |
 | 19 | **a)** No se sabe con claridad si "ella" se refiere a Camila o a Fernanda, porque ambas son mencionadas y el pronombre se repite sin distinción. | OA N°14 — identificación de referentes ambiguos |
 | 20 | **b) Apenas amaneció, Rocío salió a caminar por la playa desierta de Pichilemu. El viento frío y el ruido de las olas la hicieron sentir completamente sola.** El inicio correcto presenta personaje y ambiente, usa un conector ("apenas") y no tiene referentes ambiguos. | OA N°14 — escritura del inicio de una narración |
 | 21 | **c) —Perdí la llave de la bicicleta —dijo Tomás, nervioso, junto al portón oxidado del colegio—. / —Revisemos tu mochila —propuso Carla. / —¡Aquí está, en el bolsillo chico! —exclamó Tomás, aliviado.** El diálogo correcto plantea un conflicto (la llave perdida), lo resuelve, deja claro quién habla y describe el ambiente (el portón oxidado). | OA N°14 — diálogo con conflicto resuelto y referentes claros |
-| 22 | **b)** El impacto social de los atrapanieblas en la comunidad de Alto Hospicio (familias que antes dependían de camiones aljibe hoy riegan huertos comunitarios). | OA N°15 — idea central por párrafo |
-| 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. | OA N°15 — función de las fuentes |
-| 24 | **a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información.** | OA N°15 — estructura y organización del artículo informativo |
+| 22 | **b)** El impacto del riego por goteo en las familias de Pica: usan menos agua y algunas ya no pierden su cosecha en verano. | OA N°15 — idea central por párrafo |
+| 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. Citar las fuentes muestra de dónde viene la información y permite al lector comprobarla: eso hace más confiable el artículo. | OA N°15 — función de las fuentes |
+| 24 | **a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información.** Si cada párrafo desarrolla una sola idea central, el lector puede seguir el orden del texto; mezclar varias ideas en un párrafo lo confunde. | OA N°15 — estructura y organización del artículo informativo |
 | 25 | **a, b y c.** Un artículo bien planificado presenta el tema, desarrolla una idea central por párrafo y se apoya en fuentes confiables. | OA N°15 — planificación de un artículo informativo con fuentes |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje

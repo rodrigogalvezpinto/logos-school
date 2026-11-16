@@ -47,12 +47,12 @@ d) 18
 
 ---
 
-**Pregunta 4.** 4 decenas y 7 unidades forman el número ___
+**Pregunta 4.** 6 decenas y 3 unidades forman el número ___
 
-a) 74
-b) 11
-c) 407
-d) 47
+a) 36
+b) 9
+c) 603
+d) 63
 
 ---
 
@@ -88,7 +88,7 @@ d) 52
 1. **d) 93.** "Noventa" (90) + "tres" (3) = 93.
 2. **a) 68.** 6 decenas (68) es más que 5 decenas (59).
 3. a) 8. 58 tiene 5 decenas (50) y 8 unidades sueltas.
-4. d) 47. 4 decenas (40) + 7 unidades (7) = 47.
+4. **d) 63.** 6 decenas son 60 y 3 unidades son 3: 60 + 3 = 63. Si escribes 36, cambiaste el orden de las decenas y las unidades.
 5. **b) 76.** Decenas: 40+30=70; unidades: 1+5=6; total: 70+6=76.
 6. b) 10. 5 grupos de 2 (2+2+2+2+2=10), o tabla del 2: 5×2=10.
 7. c) 62. 87 − 25 = 62 (decenas: 80 − 20 = 60; unidades: 7 − 5 = 2).

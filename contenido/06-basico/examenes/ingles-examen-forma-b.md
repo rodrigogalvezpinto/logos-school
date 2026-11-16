@@ -278,28 +278,28 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En ítems con dos o m
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | d) Drive a bus | OA5 |
-| 2 | b) Behind the church | OA5 |
+| 1 | d) Drive a bus. "He can't drive a bus" significa "no puede manejar un bus". Sí puede arreglar autos y motos ("he can fix cars and motorcycles"). | OA5 |
+| 2 | b) Behind the church. "The restaurant is behind the church" significa que el restaurante está detrás de la iglesia. | OA5 |
 | 3 | **c) past.** *Half past seven* = 7:30. | OA5 |
 | 4 | **d) She went to school by bicycle.** *Last year* pide el pasado (*went*); el metro (*subway*) es lo que usa ahora. | OA5 |
 | 5 | **b) fourteen.** La consigna pide el número en palabras: 14 = *fourteen*; *forty* es 40. | OA5 |
-| 6 | d) To advertise a dental clinic | OA6 |
-| 7 | c) Next week | OA6 |
+| 6 | d) To advertise a dental clinic. "NEW!", el nombre de la clínica, la oferta "free check-up" (control gratis) y el teléfono son rasgos de un aviso publicitario. | OA6 |
+| 7 | c) Next week. La nota dice "He will be back next week": volverá la próxima semana. | OA6 |
 | 8 | **c) have / welcome.** *Can I have...?* para pedir y *You're welcome* para responder a *Thank you*. | OA6 |
 | 9 | **a) It closes at 4 pm.** El horario es de 8 am a 4 pm: cierra a las 4 pm. | OA6 |
 | 10 | False (Falso): la nota dice having lunch (almorzar), no breakfast (desayunar). | OA6 |
-| 11 | d) I feel excited when I read about the whale. | OA8 |
-| 12 | a) Very happy | OA5 |
+| 11 | d) I feel excited when I read about the whale. "I feel excited" expresa un sentimiento propio frente al texto; las demás oraciones solo repiten datos. | OA8 |
+| 12 | a) Very happy. El texto dice "she felt very happy": se sintió muy feliz. | OA5 |
 | 13 | **d) because.** *Because* introduce la razón de la opinión; *but* contrastaría ideas. | OA8 |
 | 14 | **b) I like the seal more because it is friendly and helps the penguin.** La respuesta debe nombrar un personaje y dar una razón coherente con el texto; *I like the penguin because it is small and brave* también sería válida. | OA8 |
 | 15 | **c) Yes, I do, because I like looking out of the window.** Se espera *Yes/No* + una razón (*No, I don't, because trains are slow* también sería válida). | OA8 |
-| 16 | b) on | OA14 |
+| 16 | b) on. Con fechas se usa "on": on December 15th. "In" se usa con meses ("in December") y "at", con horas ("at 3 pm"). | OA14 |
 | 17 | a) mat (rima con cat). | OA14 |
 | 18 | **a) Dear / See you soon.** *Dear* inicia el correo y *See you soon* lo cierra. | OA14 |
 | 19 | **a) Here you are, some carrots!.** Es la única opción coherente con la respuesta del conejo en el panel 3. | OA14 |
 | 20 | **d) Hi Martín! I'm on vacation in La Serena. Every day we travel by bus. See you soon, Paula.** Cada espacio debe tener el tipo de información correcta: nombre, lugar, medio de transporte y firma. Ahora escribe tu propia postal. | OA14 |
-| 21 | b) she isn't | OA15 |
-| 22 | c) children | OA15 |
+| 21 | b) she isn't. A una pregunta con "Is…?" se responde con el mismo verbo: "No, she isn't", porque después dice que está haciendo su tarea. | OA15 |
+| 22 | c) children. "Child" tiene un plural irregular: "children". No se le agrega -s. | OA15 |
 | 23 | **b) have.** Con el sujeto *I* se dice *I have to*. | OA15 |
 | 24 | **c) slowly / fast.** La tortuga camina lento (*slowly*) y el conejo corre rápido (*fast*): ideas contrastadas con *but*. | OA15 |
 | 25 | **a) How many books are there on the desk?.** Con sustantivos contables se usa *How many*; con plural, *are there*. | OA15 |

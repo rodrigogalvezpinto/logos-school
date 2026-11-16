@@ -619,7 +619,7 @@ del país, algo que antes estaba reservado a unos pocos:
 - **Ampliación del sufragio (voto):** durante buena parte del siglo XIX y principios del XX,
   el derecho a voto estuvo limitado (por ejemplo, según nivel de ingresos o alfabetización).
   Con el tiempo, se fue ampliando: las **mujeres** obtuvieron el derecho a voto en elecciones
-  municipales en 1935 y en elecciones **presidenciales y parlamentarias en 1949**. Esto
+  municipales en 1934 y votaron por primera vez en ellas en 1935, y en elecciones **presidenciales y parlamentarias en 1949**. Esto
   significó la incorporación de la mitad de la población que antes estaba excluida de las
   decisiones políticas del país.
 - **Consolidación de la clase media:** el siglo XX vio crecer una clase media cada vez más
@@ -634,7 +634,7 @@ del país, algo que antes estaba reservado a unos pocos:
 
 **Ejemplo 1 — Línea de tiempo del voto femenino**
 
-1935: las mujeres obtienen derecho a voto en elecciones municipales. 1949: las mujeres
+1935: las mujeres votan por primera vez en elecciones municipales (ley de 1934). 1949: las mujeres
 obtienen derecho a voto en elecciones presidenciales y parlamentarias. *Paso a paso:*
 observamos que la ampliación del sufragio femenino fue un proceso gradual, no un solo hecho:
 primero a nivel local y luego a nivel nacional.

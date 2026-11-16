@@ -98,14 +98,12 @@ d) La caída del Muro de Berlín
 
 ---
 
-**10. (Alternativas)** ¿Qué se entiende por "interpretación historiográfica" en el estudio de un
-proceso histórico como el golpe de Estado de 1973?
+**10. (Alternativas)** Dos historiadores estudian la crisis de la democracia chilena de comienzos de los años setenta: uno pone el foco en la polarización política y otro en el contexto de la Guerra Fría. ¿Qué muestra esta diferencia sobre las interpretaciones historiográficas?
 
-a) La única versión oficial y definitiva de los hechos, aceptada por todos los historiadores y que ya no admite nuevas lecturas ni discusión
-b) Una opinión personal del historiador, sin ninguna base en fuentes ni en evidencia, que no puede discutirse
-c) Una lectura del proceso histórico, elaborada por un historiador a partir de evidencia, que
-prioriza ciertos factores o causas por sobre otros
-d) Un relato de ficción sobre el pasado, escrito para entretener a los lectores con hechos imaginados
+a) Que solo una de ellas puede ser correcta y la otra es inventada
+b) Que son opiniones personales, sin base en fuentes, que no pueden discutirse
+c) Que cada interpretación es una lectura del proceso basada en evidencia, que prioriza ciertos factores y puede contrastarse con otras
+d) Que la historia es un relato de ficción que cada autor escribe a su gusto
 
 ---
 
@@ -166,8 +164,7 @@ d) Eduardo Frei Montalva
 7. a) El Plan Marshall, que además buscaba frenar la influencia soviética en Europa occidental.
 8. b) 2 → 1 → 4 → 3. Revolución Cubana (1959), Muro de Berlín (1961), golpe de Estado en Chile (1973) y caída del Muro (1989).
 9. d) La caída del Muro de Berlín; la URSS se disolvió dos años después, en 1991.
-10. **c)** Una lectura del proceso histórico, elaborada a partir de evidencia, que prioriza
-    ciertos factores por sobre otros.
+10. **c) Que cada interpretación es una lectura del proceso basada en evidencia, que prioriza ciertos factores y puede contrastarse con otras.** Una interpretación historiográfica se construye con fuentes y evidencia, pero selecciona y jerarquiza factores. Por eso pueden coexistir interpretaciones distintas, que se evalúan según cómo usan la evidencia.
 11. b) La Comisión Rettig, cuyo informe se publicó en 1991.
 12. a, b y c — La nacionalización de la banca fue una medida del gobierno de la Unidad Popular, opuesta al modelo neoliberal.
 13. b) El sistema de AFP (administradoras de fondos de pensiones), de capitalización individual.

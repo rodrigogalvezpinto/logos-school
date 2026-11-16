@@ -59,12 +59,12 @@ b) 50, 75, 100, 125, 150
 c) 50, 100, 200, 400, 800
 d) 50, 60, 70, 80, 90
 
-**Pregunta 7 (aplicación con tabla del 100).** [Imagen: tabla del 100 con el número 27 destacado] Si te mueves 2 filas hacia abajo desde el número 27, ¿a qué número llegas?
+**Pregunta 7 (aplicación con tabla del 100).** [Imagen: tabla del 100 con el número 43 destacado] Si te mueves 3 filas hacia abajo desde el número 43, ¿a qué número llegas?
 
-a) 29
-b) 37
-c) 47
-d) 227
+a) 46
+b) 53
+c) 73
+d) 343
 
 ---
 
@@ -76,4 +76,4 @@ d) 227
 4. c) 60 — regla "sumar 15": 45+15=60.
 5. **a) restar 100** — 900-800=100, la diferencia constante es 100.
 6. b) 50, 75, 100, 125, 150 — cada número es 25 más que el anterior, partiendo de 50.
-7. c) 47 — cada fila hacia abajo suma 10: 27+10=37, 37+10=47.
+7. **c) 73.** En la tabla del 100, bajar una fila suma 10. Bajar 3 filas suma 30: 43 + 30 = 73. Moverse a la derecha, en cambio, suma 1.

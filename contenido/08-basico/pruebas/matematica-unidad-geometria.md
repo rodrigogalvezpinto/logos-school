@@ -64,7 +64,7 @@ b) (−8, 8)
 c) (4, −2)
 d) (−4, 2)
 
-**Pregunta 9 (verdadero o falso).** Al reflejar un punto respecto al eje x, la coordenada y cambia de signo y la coordenada x se mantiene igual.
+**Pregunta 9 (verdadero o falso).** Al reflejar el punto (4, 3) respecto al eje x, se obtiene el punto (4, −3).
 
 **Pregunta 10 (identificar el vector de traslación).** El punto B(−1, 4) se trasladó al punto B'(3, 1). ¿Cuál es el vector de traslación?
 a) (4, −3)
@@ -112,7 +112,7 @@ d) (−3, −3)
 6. b) 50 m. Diagonal² = 40² + 30² = 2.500; diagonal = 50 m.
 7. d) No, porque 5² + 6² = 61 y 8² = 64. Si la suma de los cuadrados de los lados menores no es igual al cuadrado del mayor, el triángulo no es rectángulo.
 8. **a) (4, 2).** (−2 + 6, 5 − 3) = (4, 2).
-9. **Verdadero.**. Al reflejar respecto al eje x, el punto pasa al otro lado del eje a la misma distancia: (3, 2) se transforma en (3, −2). Cambia el signo de y; x se mantiene.
+9. **Verdadero.** Al reflejar respecto al eje x, el punto pasa al otro lado del eje a la misma distancia: x se mantiene (4) y y cambia de signo (3 → −3).
 10. **a) (4, −3).** (3 − (−1), 1 − 4) = (4, −3).
 11. a) (−4, −6). Al reflejar respecto al eje y cambia el signo de x y se mantiene y.
 12. d) (2, 4). La composición equivale a sumar los vectores: (−2 + 4, 5 − 1) = (2, 4).

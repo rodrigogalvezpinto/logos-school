@@ -372,30 +372,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo de pregunta | Clave / respuesta esperada | OA | Eje | Puntaje |
 |----|-------------------|------------------------------------------------------------------|-----|------------------------|---------|
-| 1  | Alternativas | d) Martín Lutero | OA 2 | Historia | 1 |
-| 2  | Alternativas | a) El proceso a Galileo Galilei por defender el modelo heliocéntrico | OA 2 | Historia | 1 |
-| 3  | Alternativas | c) El desarrollo de una burocracia dependiente directamente del rey | OA 3 | Historia | 1 |
-| 4 | Alternativas | **a) La expansión unificó regiones bajo una misma administración (como la unión de Castilla y Aragón) y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey.** | OA 3 | Historia | 2 |
-| 5  | Alternativas | d) El proteccionismo estatal | OA 4 | Historia | 1 |
-| 6  | Alternativas | a) La restricción del comercio colonial a un único socio: la metrópoli | OA 4 | Historia | 1 |
-| 7  | Alternativas | c) Que los indígenas eran seres humanos racionales, con plenos derechos | OA 7 | Historia | 1 |
+| 1  | Alternativas | d) Martín Lutero. En 1517 Martín Lutero publicó sus 95 tesis contra la venta de indulgencias, e inició la Reforma protestante. | OA 2 | Historia | 1 |
+| 2  | Alternativas | a) El proceso a Galileo Galilei por defender el modelo heliocéntrico. Galileo defendió con observaciones que la Tierra gira alrededor del Sol; la Iglesia lo juzgó (1633), en un choque entre la ciencia moderna y la autoridad tradicional. | OA 2 | Historia | 1 |
+| 3  | Alternativas | c) El desarrollo de una burocracia dependiente directamente del rey. Funcionarios que dependen del rey y aplican sus órdenes forman una burocracia, uno de los rasgos del Estado moderno. | OA 3 | Historia | 1 |
+| 4 | Alternativas | **a) La expansión unificó regiones bajo una misma administración (como la unión de Castilla y Aragón) y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey.** Unificar territorios bajo una sola administración y controlar el comercio dio al rey más recursos e impuestos, lo que fortaleció su poder. | OA 3 | Historia | 2 |
+| 5  | Alternativas | d) El proteccionismo estatal. Poner impuestos y trabas a los productos extranjeros para proteger la producción propia es proteccionismo, una práctica del mercantilismo. | OA 4 | Historia | 1 |
+| 6  | Alternativas | a) La restricción del comercio colonial a un único socio: la metrópoli. Con el monopolio comercial, las colonias solo podían comerciar con su metrópoli: España en el caso de América hispana. | OA 4 | Historia | 1 |
+| 7  | Alternativas | c) Que los indígenas eran seres humanos racionales, con plenos derechos. En Valladolid, Las Casas defendió que los indígenas eran seres humanos racionales, con derechos, frente a Sepúlveda, que justificaba su sometimiento. | OA 7 | Historia | 1 |
 | 8 | Alternativas | **d) Ambos expresan una misma discusión dentro de España sobre la humanidad y el trato de los indígenas, impulsada por denuncias como las de Bartolomé de las Casas, con consecuencias legales concretas aunque de aplicación limitada.** Las Leyes Nuevas son anteriores al debate de Valladolid; ambos forman parte de la polémica sobre los derechos de los indígenas, que no fue solo filosófica, sino que tuvo efectos políticos y legales. | OA 7 | Historia | 2 |
-| 9  | Alternativas | d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización | OA 11 | Historia | 1 |
-| 10 | Alternativas | a) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos | OA 11 | Historia | 1 |
-| 11 | Alternativas | c) Los malones y las expediciones militares entre mapuches y españoles | OA 12 | Historia | 1 |
+| 9  | Alternativas | d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a cambio de "protección" y evangelización. La encomienda entregaba a un español un grupo de indígenas que debían trabajar o pagarle tributo; a cambio, él debía evangelizarlos. | OA 11 | Historia | 1 |
+| 10 | Alternativas | a) El intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos. La transculturación es el intercambio y la mezcla de elementos culturales entre europeos, indígenas y africanos, que dio origen a culturas nuevas. | OA 11 | Historia | 1 |
+| 11 | Alternativas | c) Los malones y las expediciones militares entre mapuches y españoles. Los malones (ataques mapuches) y las expediciones militares españolas son conflictos; los parlamentos, el comercio y el mestizaje son formas de convivencia. | OA 12 | Historia | 1 |
 | 12 | Alternativas | **c) Sociedad de frontera.** En el Biobío la guerra convivió con el comercio, el mestizaje y los acuerdos, algo poco común en la América española. | OA 12 | Historia | 2 |
-| 13 | Alternativas | d) Jean-Jacques Rousseau | OA 14 | Historia | 1 |
-| 14 | Alternativas | a) La secularización | OA 14 | Historia | 1 |
-| 15 | Alternativas | c) Su acceso limitado a los cargos políticos más altos, reservados generalmente a los peninsulares | OA 16 | Historia | 1 |
-| 16 | Alternativas | b) José de San Martín | OA 16 | Historia | 1 |
+| 13 | Alternativas | d) Jean-Jacques Rousseau. En "El contrato social", Rousseau sostuvo que la soberanía reside en el pueblo y que el gobierno legítimo expresa la voluntad general. | OA 14 | Historia | 1 |
+| 14 | Alternativas | a) La secularización. Voltaire defendió la secularización: separar el poder político de la autoridad religiosa y respetar la libertad de creencias. | OA 14 | Historia | 1 |
+| 15 | Alternativas | c) Su acceso limitado a los cargos políticos más altos, reservados generalmente a los peninsulares. Los criollos tenían poder económico, pero los altos cargos se reservaban a los peninsulares; esa exclusión alimentó su descontento. | OA 16 | Historia | 1 |
+| 16 | Alternativas | b) José de San Martín. José de San Martín organizó el Ejército de los Andes y, junto a O'Higgins, venció en Chacabuco (1817) y Maipú (1818). | OA 16 | Historia | 1 |
 | 17 | Alternativas | **c) Fue continental porque ocurrió de forma más o menos simultánea en distintos territorios, con causas comunes (crisis de la monarquía española, ideas ilustradas, aspiraciones criollas); una particularidad chilena fue la Reconquista (1814-1817).** La Reconquista fue un retroceso temporal antes de consolidarse la independencia en 1818. | OA 16 | Historia | 3 |
-| 18 | Alternativas | b) La región de la Patagonia, definida por su clima frío y su geografía particular | OA 20 | Geografía | 1 |
-| 19 | Alternativas | **a) Porque cada tipo se define con criterios distintos; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que las regiones administrativas chilenas solo tienen límites dentro del país.** | OA 20 | Geografía | 2 |
-| 20 | Alternativas | b) Escasez de mano de obra joven y mayor demanda de servicios orientados a la población adulta mayor | OA 21 | Geografía | 1 |
-| 21 | Alternativas | b) Puede dificultar seriamente el acceso oportuno a atención médica especializada | OA 21 | Geografía | 1 |
-| 22 | Alternativas | b) Que puede producir cierto bien de forma relativamente más eficiente que otras regiones, dadas sus condiciones naturales, humanas o tecnológicas | OA 22 | Geografía | 1 |
-| 23 | Alternativas | **d) Participa activamente en el comercio con otros países; depender de un solo producto la expone a la variación de su demanda o precio internacional.** | OA 22 | Geografía | 2 |
-| 24 | Alternativas | b) En la nación | OA 18 | Formación Ciudadana | 1 |
+| 18 | Alternativas | b) La región de la Patagonia, definida por su clima frío y su geografía particular. La Patagonia se reconoce por su clima frío y su relieve, que son rasgos físicos; la lengua, la religión o la historia son criterios humanos. | OA 20 | Geografía | 1 |
+| 19 | Alternativas | **a) Porque cada tipo se define con criterios distintos; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que las regiones administrativas chilenas solo tienen límites dentro del país.** Cada tipo de región usa criterios distintos (relieve, cultura, economía, administración); por eso sus límites no tienen por qué coincidir. | OA 20 | Geografía | 2 |
+| 20 | Alternativas | b) Escasez de mano de obra joven y mayor demanda de servicios orientados a la población adulta mayor. Si se van los jóvenes, faltan trabajadores jóvenes y la población envejece, lo que aumenta la demanda de servicios para adultos mayores. | OA 21 | Geografía | 1 |
+| 21 | Alternativas | b) Puede dificultar seriamente el acceso oportuno a atención médica especializada. En una región aislada, llegar a un hospital con especialistas puede tomar horas o días, y eso retrasa la atención en una urgencia. | OA 21 | Geografía | 1 |
+| 22 | Alternativas | b) Que puede producir cierto bien de forma relativamente más eficiente que otras regiones, dadas sus condiciones naturales, humanas o tecnológicas. Tener ventaja comparativa es producir cierto bien de forma relativamente más eficiente que otros, por ejemplo por los recursos naturales de la región. | OA 22 | Geografía | 1 |
+| 23 | Alternativas | **d) Participa activamente en el comercio con otros países; depender de un solo producto la expone a la variación de su demanda o precio internacional.** Exportar mucho integra a la región al comercio mundial, pero depender de un solo producto la expone a las caídas de su precio internacional. | OA 22 | Geografía | 2 |
+| 24 | Alternativas | b) En la nación. La Declaración de 1789 afirmó que la soberanía reside en la nación, no en el rey por derecho divino. | OA 18 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **b) Con la soberanía popular (Rousseau): las leyes deben emanar del pueblo; pero en la práctica no otorgó los mismos derechos políticos a las mujeres ni a otros grupos.** El reconocimiento formal de un derecho no siempre garantizó su aplicación real e igualitaria. | OA 18 | Formación Ciudadana | 3 |
 
 **Puntaje total: 34 puntos**

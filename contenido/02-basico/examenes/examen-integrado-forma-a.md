@@ -85,18 +85,18 @@ d) 310
 
 **6. (Lenguaje — Alternativas)** Lee el siguiente texto:
 
-> **"La fiesta sorpresa de Emilia"**
+> **"La bicicleta de Mateo"**
 >
-> Emilia tiene ocho años y vive en un pueblo cerca de Puerto Montt, frente al mar. Tiene el pelo negro y rizado, y siempre anda con un gorro de lana que le tejió su abuela. Un sábado, sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa para su cumpleaños. Primero, escribieron invitaciones a escondidas. Después, decoraron el patio con globos de colores. Luego, escondieron un queque de manzana debajo de la mesa para que Emilia no lo viera al llegar. Cuando Emilia entró al patio, todos gritaron "¡sorpresa!". Ella se quedó inmóvil un segundo, con los ojos muy abiertos, y después se rió y se puso a llorar de alegría al mismo tiempo.
+> Mateo tiene ocho años y vive en Castro, en una casa sobre palafitos junto al mar. Usa lentes de marco rojo y siempre lleva una bufanda azul que le regaló su abuelo. Un domingo, su bicicleta amaneció con una rueda pinchada, y Mateo pensó que no podría ir al paseo del curso. Sus amigos Josefa y Martín decidieron ayudarlo a escondidas. Primero, juntaron monedas en un frasco. Después, compraron un parche en la ferretería. Luego, arreglaron la rueda en el patio de Josefa y escondieron la bicicleta detrás de un árbol. Cuando Mateo llegó a la plaza, sus amigos le mostraron la bicicleta arreglada. Él se quedó inmóvil un segundo, con la boca abierta, y después dio un salto y los abrazó a los dos.
 
-[Imagen: una niña de pelo negro y rizado, con gorro de lana, sorprendida frente a un patio decorado con globos]
+[Imagen: un niño con lentes rojos y bufanda azul, sorprendido frente a una bicicleta en una plaza]
 
-¿Dónde vive Emilia?
+¿Dónde vive Mateo?
 
 a) En Rancagua, cerca de la cordillera
 b) En Chillán, en una casa con un patio
 c) En el centro de Santiago, en un edificio
-d) Cerca de Puerto Montt, frente al mar
+d) En Castro, en una casa sobre palafitos junto al mar
 
 ---
 
@@ -133,18 +133,18 @@ d) sumar 10
 
 ---
 
-**10. (Lenguaje — Alternativas)** Vuelve a leer el texto "La fiesta sorpresa de Emilia":
+**10. (Lenguaje — Alternativas)** Vuelve a leer el texto "La bicicleta de Mateo":
 
-> **"La fiesta sorpresa de Emilia"**
+> **"La bicicleta de Mateo"**
 >
-> Emilia tiene ocho años y vive en un pueblo cerca de Puerto Montt, frente al mar. Tiene el pelo negro y rizado, y siempre anda con un gorro de lana que le tejió su abuela. Un sábado, sus amigos Benjamín y Constanza decidieron hacerle una fiesta sorpresa para su cumpleaños. Primero, escribieron invitaciones a escondidas. Después, decoraron el patio con globos de colores. Luego, escondieron un queque de manzana debajo de la mesa para que Emilia no lo viera al llegar. Cuando Emilia entró al patio, todos gritaron "¡sorpresa!". Ella se quedó inmóvil un segundo, con los ojos muy abiertos, y después se rió y se puso a llorar de alegría al mismo tiempo.
+> Mateo tiene ocho años y vive en Castro, en una casa sobre palafitos junto al mar. Usa lentes de marco rojo y siempre lleva una bufanda azul que le regaló su abuelo. Un domingo, su bicicleta amaneció con una rueda pinchada, y Mateo pensó que no podría ir al paseo del curso. Sus amigos Josefa y Martín decidieron ayudarlo a escondidas. Primero, juntaron monedas en un frasco. Después, compraron un parche en la ferretería. Luego, arreglaron la rueda en el patio de Josefa y escondieron la bicicleta detrás de un árbol. Cuando Mateo llegó a la plaza, sus amigos le mostraron la bicicleta arreglada. Él se quedó inmóvil un segundo, con la boca abierta, y después dio un salto y los abrazó a los dos.
 
- ¿Cómo se sintió Emilia cuando llegó a la fiesta sorpresa? Elige la respuesta que se apoya en lo que dice el texto.
+ ¿Cómo se sintió Mateo cuando vio su bicicleta arreglada? Elige la respuesta que se apoya en lo que dice el texto.
 
-a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría
-b) Enojada, porque no la invitaron a decorar el patio para la fiesta y quería ayudar
-c) Triste, porque se puso a llorar cuando todos gritaron "¡sorpresa!" en el patio
-d) Aburrida, porque ya sabía de la sorpresa y no le gustan las fiestas con mucha gente
+a) Muy sorprendido y feliz: se quedó inmóvil con la boca abierta y después dio un salto y abrazó a sus amigos
+b) Enojado, porque no lo dejaron ayudar a arreglar la rueda
+c) Triste, porque se quedó inmóvil sin decir nada
+d) Aburrido, porque ya sabía de la sorpresa
 
 ---
 
@@ -271,23 +271,23 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 1 | Lenguaje y Comunicación | **a) "cielo".** Las letras "i" y "e" forman un diptongo: se lee "cie-lo", en una sola sílaba. | OA N°1 |
 | 2 | Matemática | **d) 83.** "Ochenta" es 80 y "tres" es 3: 80+3=83. | OA 2 |
 | 3 | Historia, Geografía y Cs. Sociales | **a) Sedentario.** Un pueblo sedentario permanece en un mismo lugar, cultiva la tierra y cría animales. | OA 1 |
-| 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** | OA 3 |
+| 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** La rana pone huevos en el agua; de ellos nacen renacuajos, que respiran con branquias y tienen cola, y poco a poco se transforman en ranas adultas. | OA 3 |
 | 5 | Matemática | **b) 30.** Hay 3 grupos iguales de 10: 10+10+10 = 3×10 = 30. Sumar 3+10 da 13, que es un error. | OA 11 |
-| 6 | Lenguaje y Comunicación | **d) Cerca de Puerto Montt, frente al mar.** El texto lo dice directamente. | OA N°5 |
-| 7 | Ciencias Naturales | **a) El huemul.** | OA 5 |
+| 6 | Lenguaje y Comunicación | **d) En Castro, en una casa sobre palafitos junto al mar.** El texto lo dice directamente: "vive en Castro, en una casa sobre palafitos junto al mar". | OA N°5 |
+| 7 | Ciencias Naturales | **a) El huemul.** El huemul es un ciervo nativo del sur de Chile, que aparece en el escudo nacional y está en peligro de extinción. La gallina, el perro y el caballo llegaron con los españoles. | OA 5 |
 | 8 | Historia, Geografía y Cs. Sociales | **d) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
 | 9 | Matemática | **c) sumar 8.** La diferencia entre cada número y el anterior es siempre 8. | OA 12 |
-| 10 | Lenguaje y Comunicación | **a) Muy sorprendida y alegre: se quedó inmóvil con los ojos muy abiertos y después se rió y lloró de alegría.** El texto dice que "se quedó inmóvil un segundo, con los ojos muy abiertos" y "se rió y se puso a llorar de alegría al mismo tiempo": lloró de alegría, no de tristeza. | OA N°5 |
+| 10 | Lenguaje y Comunicación | **a) Muy sorprendido y feliz: se quedó inmóvil con la boca abierta y después dio un salto y abrazó a sus amigos.** El texto describe sus gestos: quedarse inmóvil muestra sorpresa, y saltar y abrazar muestran alegría. | OA N°5 |
 | 11 | Historia, Geografía y Cs. Sociales | **c) Argentina.** Se ubica al este de Chile y comparte con nuestro país la frontera más larga. | OA 7 |
-| 12 | Ciencias Naturales | **a) Se adapta a la forma del recipiente.** | OA 9 |
+| 12 | Ciencias Naturales | **a) Se adapta a la forma del recipiente.** El agua es un líquido: no tiene forma propia y toma la forma del recipiente donde se vierte, aunque su cantidad sea la misma. | OA 9 |
 | 13 | Lenguaje y Comunicación | **b) Coquimbo.** La carta dice "Te escribo desde Coquimbo"; La Serena es la ciudad que van a visitar. | OA N°7 |
-| 14 | Matemática | **b) 4 lados y 4 vértices.** | OA 15 |
+| 14 | Matemática | **b) 4 lados y 4 vértices.** Un rectángulo tiene 4 lados (dos largos y dos cortos) y 4 vértices, que son las esquinas donde se juntan los lados. | OA 15 |
 | 15 | Historia, Geografía y Cs. Sociales | **b) Fiordo.** Es una entrada de mar entre montañas, típica del paisaje del sur de Chile. | OA 8 |
-| 16 | Ciencias Naturales | **c) Evaporación → condensación → precipitación.** | OA 11 |
+| 16 | Ciencias Naturales | **c) Evaporación → condensación → precipitación.** El sol calienta el agua y se evapora; el vapor sube, se enfría y forma nubes (condensación), y luego cae como lluvia o nieve (precipitación). | OA 11 |
 | 17 | Lenguaje y Comunicación | **b) Una mayúscula al comenzar y un punto al terminar.** Toda oración empieza con mayúscula y termina con punto: "Mañana vamos al zoológico." | OA 17 |
 | 18 | Matemática | **a) 4.** En total fueron 10 lanzamientos: si 6 fueron cara, el resto fue sello: 10 − 6 = 4. | OA 20 |
 | 19 | Ciencias Naturales | **c) Que llueva.** Las nubes grises y oscuras tienen mucha agua y suelen anunciar lluvia. | OA 12 |
-| 20 | Historia, Geografía y Cs. Sociales | **b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia, como un sismo.** | OA 14 |
+| 20 | Historia, Geografía y Cs. Sociales | **b) Para saber cómo salir de forma segura y ordenada en caso de una emergencia, como un sismo.** Las vías de evacuación muestran por dónde salir con calma hasta la zona de seguridad en un sismo, un incendio u otra emergencia. | OA 14 |
 
 ### Distribución de preguntas por asignatura
 

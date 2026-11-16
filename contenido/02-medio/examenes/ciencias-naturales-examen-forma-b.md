@@ -149,13 +149,12 @@ d) Al ser un avance científico, no requiere ninguna evaluación
 
 ### OA N°9 — Cinemática del movimiento rectilíneo: posición, velocidad y aceleración
 
-**12.** *(Alternativas)* ¿Qué magnitud física representa la pendiente de un gráfico de
-posición en función del tiempo?
+**12.** *(Alternativas)* En un gráfico de posición en función del tiempo, la recta de un ciclista es más inclinada que la de un peatón. ¿Qué indica esa mayor pendiente?
 
-a) La aceleración
-b) La velocidad
-c) La distancia recorrida
-d) El desplazamiento total
+a) Que el ciclista tiene mayor aceleración
+b) Que el ciclista tiene mayor velocidad
+c) Que el ciclista recorrió menos distancia
+d) Que el ciclista partió antes
 
 **13.** *(Alternativas)* Un objeto en caída libre, cerca de la superficie terrestre, y
 sin considerar el roce del aire, ¿qué tipo de movimiento describe?
@@ -301,30 +300,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | d) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica | OA 1 |
-| 2 | Alternativas | d) La interneurona | OA 1 |
-| 3 | Alternativas | **a) Interfiere con la consolidación de la memoria y la recuperación neuronal, afectando atención, memoria, ánimo y toma de decisiones.** | OA 1 |
-| 4 | Alternativas | d) Biológica | OA 3 |
-| 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad | OA 3 |
-| 6 | Alternativas | **d) Aseguran una participación libre e informada y permiten acordar métodos de protección y expresar límites, reduciendo riesgos físicos (embarazo no planificado, ITS) y emocionales.** | OA 3 |
-| 7 | Alternativas | a) La mitosis | OA 6 |
-| 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene | OA 6 |
+| 1 | Alternativas | d) Detectan un estímulo del ambiente y lo transforman en una señal electroquímica. Los receptores sensoriales captan estímulos (luz, sonido, temperatura) y los transforman en impulsos nerviosos que viajan hacia el sistema nervioso central. | OA 1 |
+| 2 | Alternativas | d) La interneurona. La interneurona conecta la neurona sensorial con la motora dentro del sistema nervioso central, como ocurre en un arco reflejo. | OA 1 |
+| 3 | Alternativas | **a) Interfiere con la consolidación de la memoria y la recuperación neuronal, afectando atención, memoria, ánimo y toma de decisiones.** Mientras se duerme, el cerebro consolida lo aprendido; dormir poco perjudica la memoria, la atención y la concentración. | OA 1 |
+| 4 | Alternativas | d) Biológica. Producir gametos y las respuestas fisiológicas del cuerpo son procesos de la dimensión biológica de la sexualidad. | OA 3 |
+| 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad. Contar con información confiable permite decidir de forma responsable y usar métodos eficaces; no garantiza ni obliga a ninguna decisión. | OA 3 |
+| 6 | Alternativas | **d) Aseguran una participación libre e informada y permiten acordar métodos de protección y expresar límites, reduciendo riesgos físicos (embarazo no planificado, ITS) y emocionales.** El consentimiento asegura que ambas personas participan libremente, y la comunicación permite acordar cómo protegerse física y emocionalmente. | OA 3 |
+| 7 | Alternativas | a) La mitosis. La mitosis produce dos células idénticas a la célula madre: así crece el organismo y se reparan los tejidos. | OA 6 |
+| 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene. La meiosis produce cuatro células con la mitad de los cromosomas (los gametos); la mitosis produce dos células idénticas con el número completo. | OA 6 |
 | 9 | Alternativas | **d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos.** Cada fecundación combina gametos diferentes, por eso cada hijo es único. | OA 6 |
 | 10 | Alternativas | **a) Como un organismo transgénico, porque recibió un gen de otra especie.** Así se produce hoy la insulina para personas con diabetes. | OA 8 |
 | 11 | Varias correctas | **a, b y c.** Evaluar una biotecnología implica sopesar beneficios, riesgos ambientales y regulación; ningún avance está exento de evaluación. | OA 8 |
-| 12 | Alternativas | b) La velocidad | OA 9 |
-| 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo | OA 9 |
+| 12 | Alternativas | **b) Que el ciclista tiene mayor velocidad.** La pendiente de un gráfico posición-tiempo es la rapidez con que cambia la posición, es decir, la velocidad: más inclinación significa más velocidad. | OA 9 |
+| 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo. En caída libre, la aceleración de gravedad es constante (cerca de 9,8 m/s²): la velocidad aumenta de manera uniforme, y eso es un MRUA. | OA 9 |
 | 14 | Alternativas | **c) 3 m/s²: su velocidad aumenta 3 m/s cada segundo.** a = (15 − 0)/5 = 3 m/s². | OA 9 |
 | 15 | Alternativas | c) Tercera ley (acción y reacción) — el pie empuja el suelo hacia atrás y el suelo empuja el pie hacia adelante con la misma fuerza y en sentido opuesto | OA 10 |
-| 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí | OA 10 |
+| 16 | Alternativas | a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí. Según la primera ley de Newton, si la velocidad es constante, la fuerza neta es cero: pueden actuar varias fuerzas, pero se equilibran. | OA 10 |
 | 17 | Alternativas | **a) 20 N y 2 m/s².** Fuerza neta: 25 − 5 = 20 N; a = 20/10 = 2 m/s². | OA 10 |
-| 18 | Alternativas | c) Claudio Ptolomeo | OA 13 |
+| 18 | Alternativas | c) Claudio Ptolomeo. Claudio Ptolomeo sistematizó en la Antigüedad el modelo geocéntrico; Copérnico propuso después el modelo heliocéntrico. | OA 13 |
 | 19 | Alternativas | **d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice.** El conocimiento científico es provisional y se revisa con evidencia. | OA 13 |
 | 20 | Alternativas | **b) La sal, porque está en menor cantidad y se disuelve en el agua.** El agua es el solvente. | OA 15 |
 | 21 | Alternativas | c) Solución sólida (aleación) — el bronce es una mezcla homogénea de cobre y estaño, con propiedades distintas a las de sus componentes | OA 15 |
 | 22 | Alternativas | **d) 6% m/m.** (18/300) × 100 = 6%; se divide por la masa total de la solución. | OA 15 |
-| 23 | Alternativas | b) Al menos un enlace doble | OA 17 |
-| 24 | Alternativas | b) Alqueno | OA 17 |
+| 23 | Alternativas | b) Al menos un enlace doble. Los alquenos tienen al menos un enlace doble entre carbonos; los alcanos, solo enlaces simples, y los alquinos, al menos uno triple. | OA 17 |
+| 24 | Alternativas | b) Alqueno. El propeno tiene un enlace doble y fórmula CₙH₂ₙ (C₃H₆): es un alqueno. | OA 17 |
 | 25 | Alternativas | **c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas.** Esa versatilidad permite formar carbohidratos, lípidos, proteínas y ácidos nucleicos. | OA 17 |
 
 

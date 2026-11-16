@@ -90,16 +90,12 @@ b) dates back to
 c) goes from
 d) came back
 
-12. *(Alternativas)* Read: *"Songkran, the Thai New Year, is mainly known for
-    its massive water fights in the streets. The celebration also includes
-    visiting temples and pouring water over Buddha statues as a symbol of
-    purification, and many families use the holiday to clean their homes."*
-    ¿Cuál de las siguientes es un **detalle de apoyo**, y no la idea
-    central del texto?
-    a) Songkran is the Thai New Year.
-    b) Many families use the holiday to clean their homes.
-    c) Songkran is mainly known for its massive water fights.
-    d) Songkran combines water fights with temple rituals.
+12. *(Alternativas)* Read: "Holi, the Hindu festival of colours, is mainly known for people throwing coloured powder at each other in the streets. The celebration also includes lighting bonfires the night before, as a symbol of good defeating evil, and many people wear white clothes so that the colours stand out." ¿Cuál de las siguientes es un **detalle de apoyo**, y no la idea central del texto?
+
+a) Holi is a Hindu festival.
+b) Many people wear white clothes so that the colours stand out.
+c) Holi is mainly known for throwing coloured powder.
+d) Holi combines coloured powder with bonfires that symbolise good defeating evil.
 
 13. *(Alternativas — Vocabulario)* Read: *"Drinking mate is widespread in Argentina, Uruguay and the south of Chile: you can see people sharing it at home, at work and in parks."* What does *"widespread"* mean in this sentence?
 
@@ -141,10 +137,7 @@ d) I love avocado on toast very much, and my family eats it every morning in our
 
 11. b) dates back to. Se reutiliza la estructura del texto (*dates back to*, «se remonta a») en un nuevo contexto.
 
-12. **b)** Many families use the holiday to clean their homes.
-    La idea central agrupa lo esencial del texto (las peleas de agua y las
-    visitas a los templos); limpiar la casa es un detalle adicional, no el
-    foco principal.
+12. **b) Many people wear white clothes so that the colours stand out..** La idea central es lo esencial de la fiesta: el polvo de colores y las fogatas. Vestirse de blanco es un detalle que complementa, no el foco principal.
 
 13. c) Extendido, practicado por muchos. El contexto lo confirma: se ve a personas compartiendo mate en muchos lugares.
 

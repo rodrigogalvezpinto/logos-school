@@ -314,30 +314,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | a) Célula → tejido → órgano → sistema | OA 1 |
-| 2 | Alternativas | c) Órgano | OA 1 |
-| 3 | Alternativas | c) Sistema | OA 1 |
+| 1 | Alternativas | a) Célula → tejido → órgano → sistema. Las células se agrupan en tejidos; los tejidos forman órganos, y varios órganos que trabajan juntos forman un sistema. | OA 1 |
+| 2 | Alternativas | c) Órgano. La hoja está formada por varios tejidos que cumplen juntos una función (la fotosíntesis): por eso es un órgano. | OA 1 |
+| 3 | Alternativas | c) Sistema. El corazón y los vasos sanguíneos son órganos distintos que trabajan juntos para transportar la sangre: forman el sistema circulatorio. | OA 1 |
 | 4 | Alternativas | **a) Sistema respiratorio: la nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases.** Un sistema coordina varios órganos para cumplir una función común; en el respiratorio, nariz, tráquea y pulmones trabajan juntos. | OA 1 |
-| 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas | OA 5 |
-| 6 | Alternativas | d) Una naranja | OA 5 |
+| 5 | Alternativas | c) Grasas, que aportan energía y ayudan a absorber ciertas vitaminas. La palta, los frutos secos y los aceites son ricos en grasas, que dan energía y ayudan a absorber vitaminas como la A y la D. | OA 5 |
+| 6 | Alternativas | d) Una naranja. La naranja, como otras frutas, aporta vitaminas (por ejemplo, vitamina C) y minerales. El huevo aporta sobre todo proteínas; la palta, grasas, y los fideos, carbohidratos. | OA 5 |
 | 7 | Alternativas | **d) Porque son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos.** Las proteínas son nutrientes constructores. | OA 5 |
 | 8 | Alternativas | **d) Porque el cuerpo necesita variedad de nutrientes; esa dieta aporta sobre todo carbohidratos y grasas, y le faltan proteínas y vitaminas y minerales.** Cada grupo de nutrientes cumple funciones distintas (reparación, energía, desarrollo general); faltan proteínas para la reparación y vitaminas y minerales, presentes en frutas y verduras. | OA 5 |
-| 9 | Alternativas | c) Asma | OA 6 |
-| 10 | Alternativas | a) Arritmia | OA 6 |
+| 9 | Alternativas | c) Asma. El asma afecta las vías respiratorias, y el humo del tabaco la puede provocar o empeorar. La trombosis y la arritmia afectan al sistema circulatorio. | OA 6 |
+| 10 | Alternativas | a) Arritmia. Una arritmia es un ritmo irregular de los latidos del corazón; la nicotina del tabaco puede alterar ese ritmo. | OA 6 |
 | 11 | Varias correctas | **a, b y d.** Abrir una ventana no impide respirar el humo de quien fuma cerca; las otras medidas sí reducen la exposición. | OA 6 |
-| 12 | Alternativas | d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones | OA 7 |
+| 12 | Alternativas | d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones. Hay hongos comestibles, como los champiñones, y otros que causan infecciones, como el pie de atleta: no todos son dañinos ni todos son inofensivos. | OA 7 |
 | 13 | Alternativas | b) 2 (la levadura y el champiñón son beneficiosos; la bacteria de la infección intestinal y el virus del resfriado son dañinos) | OA 7 |
-| 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel | OA 7 |
+| 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel. Dentro de un mismo grupo hay microorganismos útiles y dañinos: algunas bacterias intestinales ayudan a digerir y otras causan enfermedades. | OA 7 |
 | 15 | Alternativas | **c) Es causada por un microorganismo y se transmite entre personas; por ejemplo, el resfriado común (virus).** Otros ejemplos válidos distintos de la gripe: el pie de atleta (hongo) o una infección intestinal (bacteria). | OA 7 |
-| 16 | Alternativas | b) El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente | OA 10 |
-| 17 | Alternativas | c) Con la moneda de metal, porque es conductora | OA 10 |
-| 18 | Alternativas | b) Conductor, porque permite el paso de la corriente con facilidad | OA 10 |
+| 16 | Alternativas | b) El plástico y la goma son materiales aisladores, que dificultan el paso de la corriente. El plástico y la goma no dejan pasar fácilmente la corriente: son aisladores. Por eso recubren los cables, cuyo interior es de cobre, que es conductor. | OA 10 |
+| 17 | Alternativas | c) Con la moneda de metal, porque es conductora. El metal de la moneda es conductor y cierra el circuito; la goma de borrar es aisladora e impide que la corriente llegue a la ampolleta. | OA 10 |
+| 18 | Alternativas | b) Conductor, porque permite el paso de la corriente con facilidad. Los metales, como el aluminio, el cobre y el hierro, conducen la corriente con facilidad: son conductores. | OA 10 |
 | 19 | Alternativas | **a) El conductor permite que la corriente circule hacia donde se necesita y el aislador evita que llegue a las personas: cumplen funciones complementarias.** El cobre del interior conduce la corriente; el plástico del exterior aísla y previene descargas eléctricas. | OA 10 |
-| 20 | Alternativas | b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea | OA 12 |
-| 21 | Alternativas | c) El Campo de Hielo Sur | OA 12 |
+| 20 | Alternativas | b) La mayor parte del agua dulce está congelada en glaciares o se encuentra como agua subterránea. Cerca del 97 % del agua del planeta es salada. Del agua dulce, la mayor parte está congelada en glaciares y casquetes o es subterránea; muy poca está en ríos y lagos. | OA 12 |
+| 21 | Alternativas | c) El Campo de Hielo Sur. El Campo de Hielo Sur, en la Patagonia, es una de las mayores masas de hielo fuera de las zonas polares y guarda una gran reserva de agua dulce. | OA 12 |
 | 22 | Alternativas | **d) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.** Ambos forman parte del ciclo continuo del agua y alimentan los depósitos de agua dulce. | OA 12 |
-| 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar | OA 14 |
-| 24 | Alternativas | b) Un derrame de petróleo en el mar | OA 14 |
+| 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar. No todo efecto humano es negativo: tratar las aguas servidas o proteger humedales ayuda a conservar los cuerpos de agua. | OA 14 |
+| 24 | Alternativas | b) Un derrame de petróleo en el mar. Un derrame de petróleo en el mar contamina directamente la costa y el océano; las otras opciones afectan a ríos, valles o glaciares. | OA 14 |
 | 25 | Varias correctas | **a, b y d.** Cada acción correcta protege el agua por una razón distinta; dejar la manguera abierta la desperdicia. | OA 14 |
 
 

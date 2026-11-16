@@ -35,20 +35,19 @@ d) Ninguno de los anteriores
 
 **2. (Verdadero o Falso — OA15)** En Chile, los diputados son elegidos por votación popular por un período definido de años.
 
-**3. (Varias correctas — OA15)** ¿Cuáles de estos cargos de elección popular pertenecen al **nivel nacional**? Marca todas las correctas.
+**3. (Varias correctas — OA15)** En una elección, la familia de Josefa vota por candidatos para el Congreso Nacional y para la Presidencia. ¿Qué cargos se eligen en esa votación de **nivel nacional**? Marca todas las correctas.
 
-a) Presidente de la República
-b) Concejal
-c) Senador
-d) Alcalde
+a) Diputado o diputada
+b) Gobernador o gobernadora regional
+c) Presidente o presidenta de la República
+d) Concejal o concejala
 
-**4. (Alternativas — OA15)** ¿Por qué es importante que el poder
-del Estado esté dividido en tres poderes distintos, y no concentrado en una sola institución?
+**4. (Alternativas — OA15)** Imagina un país donde el Presidente hace las leyes, las aplica y además decide quién es culpable en los juicios. ¿Qué problema tiene esa organización?
 
-a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí
-b) Para que una sola persona tome todas las decisiones importantes del país con mayor rapidez, sin tener que consultar a nadie
-c) Para que no existan leyes que limiten a las autoridades, y cada poder pueda actuar como quiera en su propio ámbito
-d) Para que las elecciones no sean necesarias, porque cada poder elige a sus propias autoridades sin votación ciudadana
+a) Que nadie puede controlar sus decisiones: puede abusar del poder, porque no existe separación entre los poderes Legislativo, Ejecutivo y Judicial
+b) Ninguno: así las decisiones se toman más rápido
+c) Que habría demasiadas elecciones
+d) Que los jueces tendrían demasiado trabajo
 
 **5. (Alternativas — OA16)** Si el Congreso aprobara una ley que contradice la Constitución, ¿qué debería ocurrir?
 
@@ -68,13 +67,12 @@ b) Garantizar los derechos y libertades de las personas
 c) Elegir al equipo de fútbol nacional
 d) Fijar los precios de los productos
 
-**8. (Alternativas — OA17)** ¿Quiénes deben respetar los derechos de las personas, según lo
-estudiado en este eje?
+**8. (Alternativas — OA17)** Un niño migrante llega a una escuela chilena y algunos compañeros se burlan de su acento. ¿Quiénes deben respetar y proteger sus derechos?
 
 a) Solamente el Estado
-b) Solamente los pares (otras personas)
-c) Los pares, la comunidad y el Estado
-d) Nadie tiene la obligación de respetarlos
+b) Solamente sus compañeros
+c) Sus pares, la comunidad escolar y el Estado
+d) Nadie, porque es nuevo en el país
 
 **9. (Alternativas — unir, OA17)** Une cada situación con el actor que está **protegiendo** un derecho:
 
@@ -109,13 +107,12 @@ d) Respetar las señales del tránsito → derecho a la vida y a la integridad f
 
 1. **b.** El Poder Judicial, a través de los tribunales, aplica las leyes y resuelve conflictos.
 2. **Verdadero.** Los diputados se eligen por votación y su cargo dura un período determinado (cuatro años); luego hay nuevas elecciones.
-3. a y c — A nivel nacional se eligen Presidente/a, senadores y diputados; a nivel comunal, alcaldes y concejales.
-4. a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí. Si un solo órgano hiciera, aplicara y juzgara las leyes, nadie podría controlarlo. Separar los poderes permite que cada uno limite y controle a los otros.
+3. a y c — A nivel nacional se eligen Presidente/a, senadores y diputados; a nivel regional, gobernadores y consejeros regionales, y a nivel comunal, alcaldes y concejales.
+4. **a) Que nadie puede controlar sus decisiones: puede abusar del poder, porque no existe separación entre los poderes Legislativo, Ejecutivo y Judicial.** Separar los poderes permite que cada uno controle a los otros: el Congreso hace las leyes, el Presidente las aplica y los tribunales juzgan. Si todo lo decide una sola persona, nadie puede frenar un abuso.
 5. **b.** La Constitución es la ley fundamental: ninguna ley puede contradecirla.
 6. **Falso.** Ninguna autoridad puede actuar al margen de la Constitución: es un principio del Estado de derecho.
 7. a y b — La Constitución organiza el poder (división de poderes, forma de elegir autoridades) y garantiza derechos y libertades.
-8. **c.** El respeto de los derechos es una responsabilidad compartida entre los pares, la
-   comunidad y el Estado.
+8. **c) Sus pares, la comunidad escolar y el Estado.** Todas las personas tienen derechos, sin importar su origen. Respetarlos es tarea de los compañeros, de la comunidad escolar y del Estado.
 9. a) 1-A, 2-B, 3-C — Los derechos pueden ser protegidos por personas cercanas, por la comunidad o por el Estado.
 10. **b.** El derecho a expresarse implica el deber de respetar el mismo derecho en los demás.
 11. d) Respetar las señales del tránsito → derecho a la vida y a la integridad física. Las normas del tránsito evitan accidentes.

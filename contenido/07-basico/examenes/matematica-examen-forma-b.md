@@ -37,12 +37,12 @@ d) 150 m
 
 ---
 
-**Pregunta 2 (alternativas).** La cuenta corriente de un cliente tenía un saldo de −$32.000 (en deuda). Deposita $50.000. ¿Cuál es su nuevo saldo?
+**Pregunta 2 (alternativas).** La temperatura en Punta Arenas a las 6:00 era de −7 °C. Al mediodía había subido 12 °C. ¿Qué temperatura había al mediodía?
 
-a) −$82.000
-b) $18.000
-c) −$18.000
-d) $82.000
+a) −19 °C
+b) 5 °C
+c) −5 °C
+d) 19 °C
 
 ---
 
@@ -120,12 +120,12 @@ d) 4 − 3x
 
 ---
 
-**Pregunta 11 (Alternativas).** Una secuencia de figuras tiene 5 cuadrados en la figura 1, 9 en la figura 2 y 13 en la figura 3. ¿Qué expresión representa la cantidad de cuadrados en la figura n?
+**Pregunta 11 (Alternativas).** Una secuencia de figuras tiene 7 fósforos en la figura 1, 10 en la figura 2 y 13 en la figura 3. ¿Qué expresión representa la cantidad de fósforos en la figura n?
 
-a) 5n
-b) n + 4
-c) 4n + 5
-d) 4n + 1
+a) 7n
+b) n + 3
+c) 3n + 7
+d) 3n + 4
 
 ---
 
@@ -281,7 +281,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
 | 1 | b) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
-| 2 | b) $18.000 (−32.000 + 50.000 = 18.000) | OA 1 | Números y Operaciones |
+| 2 | **b) 5 °C.** −7 + 12 = 5: si partes en −7 y subes 12 grados, pasas el 0 y llegas a 5 °C. −19 resultaría de restar en vez de sumar. | OA 1 | Números y Operaciones |
 | 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
 | 4 | c) 1/6 ((3×2)/(4×9)=6/36, simplificado dividiendo por 6 = 1/6) | OA 3 | Números y Operaciones |
 | 5 | **c) 14.** Amplificando ambos números por 10 se elimina la coma: 84 ÷ 6 = 14. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
@@ -290,7 +290,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 8 | **d) $210.000.** Interés: 0,05 × 200.000 = 10.000; total: 200.000 + 10.000 = $210.000. $205.000 confunde 5% con $5.000 y $10.000 es solo el interés. | OA 4 | Números y Operaciones |
 | 9 | **b) $39.600.** Tras el alza: 40.000 + 4.000 = 44.000; tras la baja: 44.000 − 4.400 = $39.600. Subir y bajar el mismo porcentaje no deja el precio igual, porque el segundo porcentaje se calcula sobre otro valor. | OA 4 | Números y Operaciones |
 | 10 | **a) 3x − 4.** «El triple de un número» es 3x y «disminuido en 4» resta 4 al resultado: 3x − 4. 3(x − 4) restaría 4 antes de triplicar. | OA 6 | Patrones y Álgebra |
-| 11 | **d) 4n + 1.** La secuencia aumenta de 4 en 4, por lo que el término es 4n + algo; con n = 1 se obtiene 5, entonces 4n + 1 (comprobación n = 3: 4·3 + 1 = 13 ✓). | OA 6 | Patrones y Álgebra |
+| 11 | **d) 3n + 4.** Cada figura agrega 3 fósforos, así que la expresión es 3n + algo. Para n = 1 debe dar 7: 3·1 + 4 = 7. Comprobación: 3·2 + 4 = 10 y 3·3 + 4 = 13. | OA 6 | Patrones y Álgebra |
 | 12 | **c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17.** x + (x + 1) + (x + 2) = 48 → 3x + 3 = 48 → x = 15; los números son 15, 16 y 17 (suman 48). | OA 6 | Patrones y Álgebra |
 | 13 | b) $15.000 (9.000÷3=3.000 por entrada; 3.000×5=15.000) | OA 8 | Patrones y Álgebra |
 | 14 | **a) Proporcionalidad directa.** Si compras el doble de cuadernos pagas el doble: ambas cantidades varían en la misma razón (proporcionalidad directa). | OA 8 | Patrones y Álgebra |

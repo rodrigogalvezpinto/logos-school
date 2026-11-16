@@ -249,23 +249,23 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave | OA | Puntaje |
 |:---:|:---:|:---:|:---:|
-| 1 | a | OA1 | 1 |
-| 2 | c | OA1 | 1 |
-| 3 | c | OA1 | 1 |
-| 5 | d | OA1 | 1 |
-| 7 | a | OA3 | 1 |
-| 8 | c | OA3 | 1 |
-| 9 | d | OA3 | 1 |
-| 11 | d | OA3 | 1 |
-| 13 | b | OA4 | 1 |
-| 14 | c | OA4 | 1 |
-| 15 | c | OA4 | 1 |
-| 17 | b | OA4 | 1 |
-| 19 | b | OA6 | 1 |
-| 20 | b | OA6 | 1 |
-| 21 | b | OA6 | 1 |
-| 22 | a | OA6 | 1 |
-| 23 | b | OA6 | 1 |
+| 1 | a. La reflexión nace de una vivencia concreta (no reconocerse en una foto) y lleva a preguntarse por la identidad: eso es partir de la experiencia cotidiana. | OA1 | 1 |
+| 2 | c. Preguntar qué hace que la niña de la foto y la joven de hoy sean la misma persona exige pensar conceptos (identidad, cambio); las demás preguntas se responden con un dato. | OA1 | 1 |
+| 3 | c. La diferencia no está en tener más datos, sino en la actitud: el filósofo se pregunta y busca razones, en lugar de no interesarse. | OA1 | 1 |
+| 5 | d. Las grandes preguntas filosóficas tocan el sentido de la vida, la verdad o lo bueno, y no se resuelven con un dato como una fecha o una marca. | OA1 | 1 |
+| 7 | a. Si un club cambia de jugadores, estadio y dirigentes, ¿sigue siendo el mismo? Es la pregunta ontológica por la identidad a través del cambio. | OA3 | 1 |
+| 8 | c. El materialismo sostiene que solo existe la materia y sus procesos; los pensamientos y emociones se explican a partir de ella. | OA3 | 1 |
+| 9 | d. Reducir el cariño a actividad química y eléctrica del cerebro, sin "algo más", es una tesis materialista. | OA3 | 1 |
+| 11 | d. Un personaje de videojuego no es un objeto físico, pero existe de alguna forma: plantea la pregunta por los distintos modos de existir. | OA3 | 1 |
+| 13 | b. Josefa trata una fuente como infalible y cierra la posibilidad de preguntar: es una postura dogmática. | OA4 | 1 |
+| 14 | c. Benjamín rechaza en bloque toda la medicina sin examinar cada caso: es un escepticismo radical. | OA4 | 1 |
+| 15 | c. Antonia acepta que el conocimiento puede estar mejor o peor justificado y lo evalúa con evidencia: es una postura crítica. | OA4 | 1 |
+| 17 | b. El escepticismo radical niega que se pueda conocer con seguridad; el criticismo acepta que se puede conocer, aunque el conocimiento se revise con nueva evidencia. | OA4 | 1 |
+| 19 | b. Generalizar desde cinco casos observados a lo que probablemente ocurrirá es un razonamiento inductivo: su conclusión es probable, no necesaria. | OA6 | 1 |
+| 20 | b. Que todos los reptiles pongan huevos no implica que todo lo que pone huevos sea reptil: el argumento es inválido (el ornitorrinco es un mamífero). | OA6 | 1 |
+| 21 | b. Reducir el debate a dos opciones extremas, cuando hay posturas intermedias, es una falsa dicotomía. | OA6 | 1 |
+| 22 | a. Aceptar la propuesta solo porque la dijo el presidente del centro de alumnos, sin dar razones, es una apelación a la autoridad. | OA6 | 1 |
+| 23 | b. Describir la experiencia vivida sin teorías previas es fenomenología; preguntar sucesivamente hasta que el otro descubre sus contradicciones es mayéutica. | OA6 | 1 |
 
 **Subtotal selección múltiple: 17 puntos.**
 
@@ -279,13 +279,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Pregunta 12 (OA3, 5 pts — análisis de argumento/dilema).** c) Supone una única identidad "verdadera", cuando la identidad puede construirse y expresarse de maneras distintas según el contexto, sin que una sola versión agote quién es alguien. Se trata de objetar el supuesto de una identidad fija y única.
 
-**Pregunta 16 (OA4, 3 pts).** a) Es un escepticismo radical; lo crítico es evaluar cada recomendación según la evidencia y examinar los conflictos de interés caso a caso
+**Pregunta 16 (OA4, 3 pts).** a) Es un escepticismo radical; lo crítico es evaluar cada recomendación según la evidencia y examinar los conflictos de interés caso a caso. Lo crítico es evaluar cada recomendación según su evidencia y sus posibles conflictos de interés, en lugar de desconfiar de todas por igual.
 
-**Pregunta 18 (OA4, 5 pts — análisis de argumento/dilema).** d) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que la información médica está bien justificada según la evidencia de cada momento, sin ser absoluta
+**Pregunta 18 (OA4, 5 pts — análisis de argumento/dilema).** d) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que la información médica está bien justificada según la evidencia de cada momento, sin ser absoluta. A trata la ciencia como verdad absoluta (dogmatismo) y B la rechaza porque cambia (escepticismo excesivo); la postura crítica entiende que se corrige con nueva evidencia.
 
 **Pregunta 24 (OA6, 3 pts).** b) Porque es inductiva: generaliza desde casos observados y podrían aparecer casos futuros que la contradigan. A diferencia de la deducción, la conclusión no se sigue con necesidad lógica.
 
-**Pregunta 25 (OA6, 5 pts — dilema/comparación de métodos).** c) Porque deriva deductivamente un sistema desde principios explícitos aceptados sin demostración, mientras la mayéutica examina mediante preguntas las creencias de un interlocutor
+**Pregunta 25 (OA6, 5 pts — dilema/comparación de métodos).** c) Porque deriva deductivamente un sistema desde principios explícitos aceptados sin demostración, mientras la mayéutica examina mediante preguntas las creencias de un interlocutor. La geometría deduce teoremas desde axiomas explícitos: el método axiomático. La mayéutica sirve para examinar creencias en un diálogo, no para construir sistemas formales.
 
 **Subtotal preguntas de mayor complejidad: 32 puntos** (4 × 3 pts = 12 pts; 4 × 5 pts = 20 pts).
 

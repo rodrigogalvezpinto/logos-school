@@ -64,7 +64,7 @@ d) Un rectángulo y un triángulo
 a) Verdadero
 b) Falso
 
-**Pregunta 9.** Un rombo se dibuja en una cuadrícula y luego se dibuja el mismo rombo "al revés" (como girado media vuelta) en otra posición. ¿Qué transformación isométrica relaciona ambas figuras?
+**Pregunta 9.** En una cuadrícula se dibuja una flecha que apunta hacia arriba y, en otra posición, la misma flecha apuntando hacia abajo, del mismo tamaño. ¿Qué transformación isométrica relaciona ambas figuras?
 
 a) Una traslación
 b) Una rotación de 180°
@@ -103,7 +103,7 @@ d) Una traslación; no son congruentes
 6. a) Son perpendiculares (forman 90°). Las paredes se construyen perpendiculares al piso para que la estructura sea estable.
 7. **b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado** — tienen la misma forma y el mismo tamaño.
 8. **Falso** — la rotación solo cambia la posición: la figura conserva su forma y su tamaño.
-9. b) Una rotación de 180°. Ampliar o reducir cambian el tamaño, así que no son isométricas.
+9. **b) Una rotación de 180°.** Girar la flecha media vuelta (180°) la deja apuntando al lado contrario, con la misma forma y tamaño. Una traslación solo la movería sin girarla.
 10. c) Sí, si tienen la misma forma y el mismo tamaño, aunque una esté rotada. Dos figuras son congruentes si tienen la misma forma y el mismo tamaño. Girar una figura no cambia su forma ni su tamaño.
 11. **d) Reducirla a la mitad** — al cambiar el tamaño, la figura nueva ya no es congruente con la original.
 12. a) Una traslación; sí son congruentes. Una traslación no cambia la forma ni el tamaño.

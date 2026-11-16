@@ -46,12 +46,12 @@ b) 724
 c) 734
 d) 714
 
-**Pregunta 5 (problema de aplicación).** Una fábrica de Rancagua produjo 725 empanadas y vendió 358 durante la mañana. ¿Cuántas empanadas le quedan?
+**Pregunta 5 (problema de aplicación).** Una panadería de Talca horneó 634 hallullas y vendió 287 durante la mañana. ¿Cuántas hallullas le quedan?
 
-a) 367
-b) 433
-c) 1 083
-d) 377
+a) 347
+b) 453
+c) 921
+d) 357
 
 **Pregunta 6 (problema de aplicación).** En un estacionamiento hay 7 filas y en cada fila caben 8 autos. ¿Cuántos autos caben en total?
 
@@ -94,7 +94,7 @@ c) Son iguales
 2. **a) 583** — las centenas son iguales (5=5); comparamos decenas: 8 (583) es más que 3 (538).
 3. **b) 90** — el 9 está en el lugar de las decenas, por lo tanto vale 90.
 4. **c) 734** — unidades 8+6=14 (escribe 4, lleva 1); decenas 5+7+1=13 (escribe 3, lleva 1); centenas 4+2+1=7.
-5. a) 367 — 725-358=367 (resta con reserva).
+5. **a) 347.** 634 − 287 = 347. Puedes comprobarlo sumando: 347 + 287 = 634. Si obtuviste 453, restaste el dígito menor del mayor en cada posición sin canjear.
 6. c) 56 — 7×8=56.
 7. **a) Multiplicación** — se juntan grupos iguales: 6 bolsas de 5 dulces, 6×5=30.
 8. a) 6 — 36÷6=6.

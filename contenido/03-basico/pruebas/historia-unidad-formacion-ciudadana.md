@@ -19,12 +19,12 @@ oa_por_pregunta: {"1":"OA 14","2":"OA 14","3":"OA 14","4":"OA 14","5":"OA 14","6
 
 ---
 
-**1.** ¿Qué es la Convención sobre los Derechos del Niño?
+**1.** Florencia leyó que Chile firmó la Convención sobre los Derechos del Niño en 1990. ¿Qué significa haber firmado ese documento?
 
-a) Una ley que solo existe en Chile y que los niños deben aprender de memoria
-b) Un reglamento interno de las escuelas que dice cómo deben portarse los niños
-c) Un examen que deben rendir todos los niños y niñas del país al terminar el año escolar
-d) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los niños y niñas
+a) Que en Chile los niños deben aprenderlo de memoria para pasar de curso
+b) Que las escuelas pueden castigar a quienes no lo lean
+c) Que los niños deben rendir un examen sobre él al terminar el año
+d) Que Chile se comprometió con otros países a respetar y proteger los derechos de los niños y niñas
 
 ---
 
@@ -97,7 +97,7 @@ d) Para que los niños no tengan que ir a la escuela y puedan quedarse en sus ca
 
 | N° | Respuesta correcta |
 |----|---------------------|
-| 1  | d) Un acuerdo internacional, firmado por muchos países, que reconoce los derechos de los niños y niñas. La Convención es un acuerdo entre países, que Chile firmó en 1990. Reconoce derechos como la educación, la salud, el juego y la protección. |
+| 1  | **d) Que Chile se comprometió con otros países a respetar y proteger los derechos de los niños y niñas.** La Convención es un acuerdo internacional: los países que la firman se comprometen a cumplir derechos como la educación, la salud, el juego y la protección. |
 | 2  | Verdadero — el derecho a la salud es para todos los niños y niñas, sin excepción |
 | 3  | d) En un consultorio o CESFAM. Los consultorios y CESFAM son centros de salud públicos donde se atiende gratuitamente a niños y niñas: así se cumple su derecho a la salud. |
 | 4  | a) 1-B, 2-C, 3-A — la escuela protege la educación; el nombre y el carné, la identidad; jugar, la recreación |

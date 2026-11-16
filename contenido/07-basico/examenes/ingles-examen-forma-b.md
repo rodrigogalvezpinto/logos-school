@@ -251,27 +251,27 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | d) Students cleaning a beach | OA9 |
-| 2 | b) Four times a week | OA9 |
+| 1 | d) Students cleaning a beach. El texto cuenta que los estudiantes limpiaron la playa, recogieron basura y la separaron para reciclar: esa es la idea principal. | OA9 |
+| 2 | b) Four times a week. El texto dice "I train four times a week": entrena cuatro veces por semana. Six y thirteen son edades, no frecuencias. | OA9 |
 | 3 | **a) stone.** Dato explícito del texto. | OA9 |
 | 4 | False (Falso): el texto dice every morning before class, no after school. | OA9 |
 | 5 | **d) Dar información explícita del texto.** According to the text introduce un dato del texto, no una opinión. | OA9 |
 | 6 | **a y b.** Ambas posturas son válidas si van con una razón coherente con el tema; las otras dos razones no tienen sentido. | OA9 |
-| 7 | a) A short biography | OA10 |
+| 7 | a) A short biography. Cuenta datos de la vida de una persona en orden (dónde y cuándo nació, qué hizo después): es una biografía breve. | OA10 |
 | 8 | **b) before.** El gorro se pone antes de entrar a la piscina. | OA10 |
 | 9 | True (Verdadero): I think introduce una opinión; la primera oración es un hecho. | OA10 |
 | 10 | **c) poco saludable.** El prefijo un- invierte el significado de healthy. | OA10 |
-| 11 | c) Sequence | OA10 |
+| 11 | c) Sequence. "First" (primero) y "After that" (después de eso) ordenan las acciones en el tiempo: expresan secuencia. | OA10 |
 | 12 | **a) safely.** Para describir cómo se anda en bicicleta (modo) se usa el adverbio safely. | OA10 |
-| 13 | b) Finally | OA13 |
-| 14 | a) Mexican families decorate altars with flowers for the Day of the Dead. | OA13 |
+| 13 | b) Finally. "Finally" (finalmente) introduce lo que ocurrió al final, después de caerse muchas veces. | OA13 |
+| 14 | a) Mexican families decorate altars with flowers for the Day of the Dead. La oración sobre los altares del Día de Muertos entrega información sobre una costumbre de otra cultura; las demás hablan de gustos personales o de reglas. | OA13 |
 | 15 | **d) won / felt.** Ambos verbos son irregulares en pasado simple: win → won, feel → felt. | OA13 |
 | 16 | **b) cleaning the playground / children can play safely.** Después de are se necesita un verbo en -ing, y después de because una razón coherente con la actividad. | OA13 |
 | 17 | **c) playing board games / on Fridays / my cousins.** Se necesita un pasatiempo en -ing, luego cuándo se practica y finalmente con quién, en ese orden. | OA13 |
 | 18 | **a y b.** Alejarse de las ventanas y no usar el ascensor son consejos seguros; correr al ascensor o no protegerse la cabeza son peligrosos. | OA13 |
 | 19 | **a) Tengo miedo de las arañas.** Afraid of = tener miedo de. | OA16 |
 | 20 | **d) beautifully.** Para describir cómo cantó el coro se usa el adverbio de modo beautifully. | OA16 |
-| 21 | c) Plants dry up if you don't water them. | OA16 |
+| 21 | c) Plants dry up if you don't water them. "If you don't water them" (si no las riegas) es la causa y "plants dry up" (las plantas se secan) es el efecto. | OA16 |
 | 22 | **b) were playing / took.** La acción en curso va en pasado continuo (were playing) y la que la interrumpe, en pasado simple (took). | OA16 |
 | 23 | **a y b.** Una pregunta con did se responde con did (afirmativa) o didn't (negativa); "No, I don't" está en presente. | OA16 |
 | 24 | d) those (plural y lejano: over there). | OA16 |

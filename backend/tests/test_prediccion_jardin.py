@@ -3,7 +3,7 @@ variante "jardín" recomendada tras evaluar los límites de la idea original (un
 se marchita, descartada por contradecir el lenguaje "todavía no"). Ver
 `app/application/prediccion/consultas.py`."""
 
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 
 from app.infrastructure.persistence.orm_models import Nivel, ProgresoOA
 
@@ -56,7 +56,7 @@ def test_una_semana_con_mucha_actividad_da_flor_completa(client, session):
     session.commit()
     session.refresh(asignatura)
 
-    hoy = date.today()
+    hoy = datetime.now(timezone.utc).date()  # la app calcula la semana en UTC
     inicio_semana_actual = hoy - timedelta(days=hoy.weekday())
     inicio_semana_anterior = inicio_semana_actual - timedelta(days=7)
     for i in range(7):

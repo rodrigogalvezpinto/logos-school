@@ -304,10 +304,10 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 18 | **d) Sí, porque 10² + 24² = 676 = 26².** Si el cuadrado del lado mayor es igual a la suma de los cuadrados de los otros dos, el triángulo es rectángulo. | OA 12 | Geometría |
 | 19 | a) (−2, −2) (3+(−5), −4+2 = −2, −2) | OA 13 | Geometría |
 | 20 | **b) (−6, −2).** Al reflejar respecto al eje x cambia el signo de y y se mantiene x. | OA 13 | Geometría |
-| 21 | b) Su resultado es igual o mejor que aproximadamente el 80% de los estudiantes | OA 15 | Datos y Probabilidades |
+| 21 | b) Su resultado es igual o mejor que aproximadamente el 80% de los estudiantes. El percentil 80 indica la posición respecto de los demás: su resultado es igual o mejor que el de aproximadamente el 80% de los estudiantes. No es el porcentaje de respuestas correctas. | OA 15 | Datos y Probabilidades |
 | 22 | **c) Q1 = 24 y Q3 = 40.** Q1 es la mediana de la primera mitad (22 + 26)/2 = 24 y Q3 la de la segunda (38 + 42)/2 = 40. | OA 15 | Datos y Probabilidades |
 | 23 | **a) El Grupo C tiene un tiempo típico menor, pero tiene al menos un caso mucho más lento que cualquiera de D.** El diagrama permite comparar el valor típico (mediana) y los extremos de cada grupo. | OA 15 | Datos y Probabilidades |
-| 24 | b) Gráfico circular | OA 16 | Datos y Probabilidades |
+| 24 | b) Gráfico circular. El gráfico circular muestra cómo se reparte un total entre sus partes: cada sector representa una categoría del presupuesto. | OA 16 | Datos y Probabilidades |
 | 25 | **d) Exagera visualmente una diferencia de solo 6 unidades (cerca de 3%); se corrige iniciando el eje en 0.** Si un gráfico de barras no comienza en 0, las diferencias pueden verse exageradas. | OA 16 | Datos y Probabilidades |
 
 ### Resumen de cobertura curricular

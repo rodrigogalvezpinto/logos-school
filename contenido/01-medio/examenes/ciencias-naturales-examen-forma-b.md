@@ -309,29 +309,29 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
 | 1 | Alternativas | **a) Estructuras homólogas, que indican un ancestro común.** Igual estructura interna con funciones distintas. | OA 2 |
-| 2 | Alternativas | d) La embriología | OA 2 |
-| 3 | Alternativas | **a) Había variación (algunas ya eran resistentes por azar); el antibiótico eliminó a las no resistentes (selección) y las resistentes, que se reproducen en gran cantidad (sobreproducción), aumentaron su proporción.** | OA 2 |
-| 4 | Alternativas | c) Parasitismo | OA 4 |
-| 5 | Alternativas | c) Una comunidad | OA 4 |
+| 2 | Alternativas | d) La embriología. La embriología compara el desarrollo de los embriones: sus semejanzas tempranas (como hendiduras y cola) apoyan que estas especies tienen un ancestro común. | OA 2 |
+| 3 | Alternativas | **a) Había variación (algunas ya eran resistentes por azar); el antibiótico eliminó a las no resistentes (selección) y las resistentes, que se reproducen en gran cantidad (sobreproducción), aumentaron su proporción.** La selección natural no crea la resistencia: algunas bacterias ya eran resistentes por variación al azar; el antibiótico eliminó a las demás, y las resistentes sobrevivieron y se reprodujeron. | OA 2 |
+| 4 | Alternativas | c) Parasitismo. La pulga se beneficia y el perro se perjudica: eso es parasitismo. En el mutualismo ambos ganan y en el comensalismo uno gana sin dañar al otro. | OA 4 |
+| 5 | Alternativas | c) Una comunidad. Todas las poblaciones de distintas especies de un lugar forman una comunidad; si se agregan los factores no vivos (agua, suelo, clima), se habla de ecosistema. | OA 4 |
 | 6 | Alternativas | **d) Sin depredación, la presa crece sin control y consume más vegetación: una cascada trófica.** La pérdida de un depredador altera indirectamente otros niveles del ecosistema. | OA 4 |
-| 7 | Alternativas | a) La fijación de nitrógeno por bacterias | OA 6 |
+| 7 | Alternativas | a) La fijación de nitrógeno por bacterias. Algunas bacterias del suelo y de las raíces de leguminosas transforman el N₂ del aire en compuestos, como el amonio y los nitratos, que las plantas pueden absorber. | OA 6 |
 | 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
 | 9 | Alternativas | **d) La biomagnificación: el contaminante se concentra más en cada nivel trófico superior.** Cada depredador acumula el mercurio de todas sus presas. | OA 6 |
 | 10 | Alternativas | **c) El carbón mineral.** Es un recurso no renovable, como el petróleo y el gas natural. | OA 8 |
-| 11 | Alternativas | **c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes, tiene costos de construcción y mantención y puede afectar el ecosistema del río.** | OA 8 |
-| 12 | Alternativas | d) La superficie debe estar suficientemente lejos de la persona | OA 10 |
+| 11 | Alternativas | **c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes, tiene costos de construcción y mantención y puede afectar el ecosistema del río.** Un embalse guarda agua para la sequía, pero depende de que llueva para llenarse, inunda terrenos y altera el río: una buena evaluación considera ventajas y limitaciones. | OA 8 |
+| 12 | Alternativas | d) La superficie debe estar suficientemente lejos de la persona. Para oír un eco separado del grito, el sonido debe volver con al menos una décima de segundo de retraso: a 340 m/s, la superficie debe estar a unos 17 m o más. | OA 10 |
 | 13 | Alternativas | **a) 3.000 m, porque el tiempo medido corresponde a la ida y la vuelta del pulso.** 1.500 m/s × 4 s = 6.000 m de recorrido total; la profundidad es la mitad: 3.000 m. | OA 10 |
-| 14 | Alternativas | a) El modelo ondulatorio | OA 11 |
-| 15 | Alternativas | b) Espejo cóncavo | OA 11 |
+| 14 | Alternativas | a) El modelo ondulatorio. La interferencia y la difracción son comportamientos propios de las ondas: el modelo ondulatorio los explica. | OA 11 |
+| 15 | Alternativas | b) Espejo cóncavo. El espejo cóncavo, curvado hacia adentro, forma una imagen ampliada y derecha cuando el objeto está muy cerca, más cerca que su foco. | OA 11 |
 | 16 | Alternativas | **d) Que el universo se está expandiendo.** Que todas las galaxias lejanas se alejen, más rápido cuanto más lejos están, es evidencia de la expansión. | OA 11 |
-| 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra | OA 14 |
+| 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra. En un eclipse solar la Luna se interpone entre el Sol y la Tierra y su sombra cae sobre una zona de la Tierra; ocurre en luna nueva. | OA 14 |
 | 18 | Alternativas | **b) Su período es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento.** A mayor distancia al Sol, mayor período orbital. | OA 14 |
-| 19 | Alternativas | b) El radiotelescopio | OA 16 |
+| 19 | Alternativas | b) El radiotelescopio. El radiotelescopio capta ondas de radio emitidas por los astros, una radiación que el ojo y los telescopios ópticos no detectan. | OA 16 |
 | 20 | Alternativas | **c) Que la observación sistemática del cielo durante generaciones produjo un conocimiento útil para la vida comunitaria.** Es un saber que permite valorar otras formas de conocimiento astronómico. | OA 16 |
-| 21 | Alternativas | b) Descomposición | OA 17 |
-| 22 | Alternativas | b) Absorbe calor del entorno (es endotérmica) | OA 17 |
+| 21 | Alternativas | b) Descomposición. Una sola sustancia (H₂O₂) se separa en dos más simples (H₂O y O₂): es una reacción de descomposición. | OA 17 |
+| 22 | Alternativas | b) Absorbe calor del entorno (es endotérmica). La compresa se siente fría porque la reacción absorbe calor del entorno, incluida la piel: es endotérmica. | OA 17 |
 | 23 | Alternativas | **a) Es incorrecta: la combustión de leña libera material particulado y gases que contaminan el aire, sobre todo en invierno.** Que algo sea natural no significa que no tenga impacto. | OA 17 |
-| 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia | OA 20 |
+| 24 | Alternativas | b) Un mol equivale siempre a aproximadamente 6,02 × 10²³ partículas, sin importar la sustancia. Un mol siempre contiene unas 6,02 × 10²³ partículas (el número de Avogadro), sea cual sea la sustancia; lo que cambia es su masa. | OA 20 |
 | 25 | Alternativas | **d) 18 moles de CO₂ y 18 moles de O₂.** Por cada mol de glucosa se consumen 6 de CO₂ y se liberan 6 de O₂: 3 × 6 = 18; así, más fotosíntesis implica más CO₂ atmosférico incorporado a materia orgánica. | OA 20 |
 
 

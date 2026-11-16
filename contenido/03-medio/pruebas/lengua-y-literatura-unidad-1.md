@@ -115,12 +115,12 @@ b) Para dar respaldo objetivo al testimonio individual y mostrar que no es un ca
 c) Para cuestionar el testimonio de Marta
 d) Para cumplir un requisito legal
 
-**12. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
+**12. (Alternativas)** Un estudiante quiere transformar el reportaje "Cuidar a tiempo completo" en una noticia breve para un diario. ¿Qué tendría que cambiar principalmente?
 
-a) Profundizar en un tema combinando testimonio, datos y contraste de versiones
-b) Informar un hecho puntual en pocas líneas, sin desarrollo posterior
-c) Incluir cifras de fuentes institucionales
-d) Presentar el testimonio de una persona afectada
+a) Agregar más testimonios, más cifras y más contraste de versiones
+b) Reducirlo a informar el hecho principal en pocas líneas, sin el desarrollo en profundidad propio del reportaje
+c) Convertirlo en un poema sobre las cuidadoras
+d) Agregar la opinión personal del estudiante en cada párrafo
 
 **13. (Verdadero o falso)** La cifra "más de 1.200 personas" proviene de una fuente institucional identificable (un catastro municipal) y, por lo tanto, es un dato verificable.
 
@@ -146,6 +146,6 @@ d) Porque todas las cuidadoras del país son mujeres
 9. Falso — el texto incluye cifras de un catastro municipal y de un estudio universitario, además del testimonio de Marta.
 10. d) Identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
 11. b. El testimonio de Marta muestra un caso; las cifras del catastro y del estudio prueban que su situación es compartida por muchas personas.
-12. b. Informar un hecho puntual en pocas líneas es propio de una noticia breve; el reportaje, en cambio, profundiza con testimonios, datos y contraste de versiones.
+12. **b) Reducirlo a informar el hecho principal en pocas líneas, sin el desarrollo en profundidad propio del reportaje.** La noticia breve informa un hecho puntual en pocas líneas; el reportaje profundiza con testimonios, datos y contraste de versiones. Transformarlo exige condensar.
 13. Verdadero — el texto atribuye la cifra a un catastro municipal, una fuente institucional identificable.
 14. b. Que la mayoría de las cuidadoras sean mujeres conecta el reportaje con un debate actual en Chile sobre quién asume los cuidados y la desigualdad de género.

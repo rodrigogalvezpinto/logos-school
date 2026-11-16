@@ -48,12 +48,12 @@ b) Restar 4 cada vez
 c) Dividir el término anterior por 4
 d) Dividir el término anterior por 2
 
-**Pregunta 6.** Camila ahorra $2.000 la primera semana, y cada semana siguiente ahorra $500 más que la semana anterior (2.000, 2.500, 3.000, ...). ¿Cuánto ahorrará en la quinta semana?
+**Pregunta 6.** Diego lee 15 páginas el primer día, y cada día siguiente lee 5 páginas más que el día anterior (15, 20, 25, ...). ¿Cuántas páginas leerá el sexto día?
 
-a) $2.500
-b) $3.500
-c) $4.000
-d) $4.500
+a) 30
+b) 35
+c) 40
+d) 45
 
 **Pregunta 7.** Resuelve: x + 245 = 610. ¿Cuál es el valor de x?
 a) 355
@@ -66,12 +66,12 @@ d) 855
 a) Verdadero
 b) Falso
 
-**Pregunta 9.** ¿Cuál es el valor de x en x + 1.250 = 3.000?
+**Pregunta 9.** ¿Cuál es el valor de x en x + 2.400 = 5.000?
 
-a) x = 1.750
-b) x = 4.250
-c) x = 1.250
-d) x = 2.750
+a) x = 2.600
+b) x = 7.400
+c) x = 2.400
+d) x = 3.600
 
 **Pregunta 10.** Sofía tenía cierta cantidad de láminas. Le regalaron 35 y ahora tiene 120. ¿Cuál ecuación representa esta situación?
 a) x − 35 = 120
@@ -102,10 +102,10 @@ d) x = 75
 3. **Verdadero** — 60−52=8, 52−44=8, 44−36=8; la diferencia siempre es 8.
 4. c) 41 — 5 + (9 × 4) = 41: desde el primer término se suma 4 nueve veces.
 5. d) Dividir el término anterior por 2. 64÷2=32, 32÷2=16, 16÷2=8, 8÷2=4.
-6. c) $4.000 — 2.000 + (4 × 500) = 4.000.
+6. **c) 40.** Se suman 5 cada día: 15, 20, 25, 30, 35, 40. El sexto día lee 40 páginas.
 7. **b) 365** — x = 610 − 245 = 365. Comprobación: 365 + 245 = 610.
 8. **Verdadero** — x = 300 + 125 = 425. Comprobación: 425 − 125 = 300.
-9. a) x = 1.750 — x = 3.000 − 1.250 = 1.750. Comprobación: 1.750 + 1.250 = 3.000.
+9. **a) x = 2.600.** Para despejar x se resta 2.400 a ambos lados: x = 5.000 − 2.400 = 2.600. Comprobación: 2.600 + 2.400 = 5.000.
 10. **b) x + 35 = 120** — cantidad inicial (x) más las regaladas (35) da la cantidad final (120); x = 85 láminas.
 11. d) x > 25; solo 26 kg. "Más de" es una desigualdad estricta: 25 kg justo no cumple.
 12. b) x = 45 — x = 75 − 30 = 45.

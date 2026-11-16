@@ -349,29 +349,29 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Tipo | OA | Clave / Criterio de corrección | Puntaje |
 |----|------|----|---------------------------------|---------|
 | 1 | Alternativas | OA 1 | d) Tribunal Calificador de Elecciones y tribunales electorales regionales (el Servel administra el proceso; no proclama resultados) | 1 |
-| 2 | Alternativas | OA 1 | c) Renovación alternada | 1 |
+| 2 | Alternativas | OA 1 | c) Renovación alternada. Los senadores se renuevan por mitades, en elecciones parlamentarias alternadas cada cuatro años: es la renovación alternada. | 1 |
 | 3 | Varias correctas | OA 1 | **b y c.** La iniciativa para aumentar el gasto es exclusiva del Presidente, y la proclamación corresponde a la justicia electoral (Tricel y tribunales electorales regionales), no al Servel. | 4 |
-| 4 | Alternativas | OA 1 | **a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.** | 2 |
+| 4 | Alternativas | OA 1 | **a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.** Las candidaturas independientes permiten que personas sin partido compitan por cargos, cumpliendo requisitos como reunir firmas de patrocinio: amplían quién puede ser representante. | 2 |
 | 5 | Varias correctas | OA 1 | **a, b y c.** | 3 |
 | 6 | Alternativas | OA 3 | d) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
 | 7 | Alternativas | OA 3 | a) Transformar localmente lo extraído en productos y servicios complejos | 1 |
-| 8 | Alternativas | OA 3 | **d) 1-B, 2-C, 3-D, 4-A.** | 4 |
-| 9 | Alternativas | OA 3 | **b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras.** | 2 |
+| 8 | Alternativas | OA 3 | **d) 1-B, 2-C, 3-D, 4-A.** El modelo extractivo se basa en explotar recursos (B); el desarrollo sustentable equilibra economía, sociedad y ambiente (C); la política fiscal usa el gasto y los impuestos (D), y la escala local mira el impacto en la vida concreta (A). | 4 |
+| 9 | Alternativas | OA 3 | **b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras.** El uso intensivo de combustibles fósiles provoca el cambio climático, cuyos efectos (sequías, incendios, olas de calor) muestran los límites de ese modelo. | 2 |
 | 10 | Varias correctas | OA 3 | **a, b y c.** No se evalúa la opción preferida, sino la calidad de la comparación. | 3 |
-| 11 | Alternativas | OA 4 | c) Dirección del Trabajo y su servicio de inspección | 1 |
+| 11 | Alternativas | OA 4 | c) Dirección del Trabajo y su servicio de inspección. La Dirección del Trabajo fiscaliza el cumplimiento de la ley laboral, como la jornada y los descansos, mediante sus inspectores. | 1 |
 | 12 | Alternativas | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
-| 13 | Alternativas | OA 4 | **c) 1-B, 2-D, 3-C, 4-A.** | 4 |
-| 14 | Alternativas | OA 4 | **a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre.** | 2 |
+| 13 | Alternativas | OA 4 | **c) 1-B, 2-D, 3-C, 4-A.** Cada mecanismo protege un aspecto distinto del trabajo y el cuidado; la clave une cada uno con su contenido. | 4 |
+| 14 | Alternativas | OA 4 | **a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre.** Un documento firmado no libera al empleador de su deber de prevenir riesgos ni de entregar equipos de protección; además, la trabajadora firma bajo presión, por la asimetría de poder. | 2 |
 | 15 | Varias correctas | OA 4 | **a, b y c.** | 3 |
-| 16 | Alternativas | OA 5 | b) Libertad positiva | 1 |
+| 16 | Alternativas | OA 5 | b) Libertad positiva. Que nadie le prohíba estudiar es libertad negativa; lo que le falta son condiciones reales, como becas, para poder hacerlo: libertad positiva. | 1 |
 | 17 | Alternativas | OA 5 | b) Equidad de género e igualdad de trato | 1 |
 | 18 | Varias correctas | OA 5 | **a, b y c.** La solidaridad es apoyo mutuo, no uniformidad de pensamiento político. | 4 |
 | 19 | Alternativas | OA 5 | **d) Evidencia un problema de inclusión y participación: faltan mecanismos para que esos trabajadores conozcan y opinen sobre decisiones que los afectan.** Se pueden fundamentar también igualdad de trato o libertad positiva; el problema es la falta de mecanismos participativos, no un derecho universal a ser consultado. | 2 |
 | 20 | Varias correctas | OA 5 | **a, b y c.** | 3 |
 | 21 | Alternativas | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |
 | 22 | Alternativas | OA 6 | a) Consentimiento informado u otra habilitación legal aplicable | 1 |
-| 23 | Alternativas | OA 6 | **b) 1-C, 2-B, 3-D, 4-A.** | 4 |
-| 24 | Alternativas | OA 6 | **c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir.** | 2 |
+| 23 | Alternativas | OA 6 | **b) 1-C, 2-B, 3-D, 4-A.** Cada fenómeno se reconoce por su efecto: difundir falsedades de forma organizada, encerrarse en opiniones iguales, dirigir mensajes según el perfil, o verificar fuentes y detectar sesgos. | 4 |
+| 24 | Alternativas | OA 6 | **c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir.** Las redes permiten informarse y participar (oportunidad), exponen a la desinformación (riesgo) y se pueden enfrentar acordando en grupo cómo verificar y cuidar los datos. | 2 |
 | 25 | Varias correctas | OA 6 | **a, b y c.** | 3 |
 
 **Puntaje total de la prueba: 55 puntos.**

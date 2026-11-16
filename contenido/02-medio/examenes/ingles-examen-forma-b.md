@@ -247,24 +247,24 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | a) 3D printing allows hospitals to produce affordable prosthetic limbs. | OA9 |
+| 1 | a) 3D printing allows hospitals to produce affordable prosthetic limbs. El texto dice explícitamente que los hospitales usan la impresión 3D para producir prótesis económicas ("affordable prosthetic limbs"). | OA9 |
 | 2 | **a) about / how.** About introduce el tema y how explica el modo o proceso. | OA9 |
 | 3 | False (Falso) — el texto afirma que las turbinas eólicas son más silenciosas de lo que la gente asume cuando se instalan a una distancia segura, lo contrario a la afirmación. | OA9 |
 | 4 | **d) It was published in 1990.** El dato explícito del texto es 1990. | OA9 |
 | 5 | **b) British / 1934 / became famous for her research on chimpanzee behavior.** Completar un esquema exige ubicar cada dato en la categoría correcta. | OA9 |
-| 6 | c) Use context and known words to infer the general meaning before using a dictionary. | OA9 |
-| 7 | d) To persuade/instruct readers to change a behavior | OA10 |
+| 6 | c) Use context and known words to infer the general meaning before using a dictionary. Usar el contexto y las palabras conocidas permite entender la idea general sin traducir todo; el diccionario se usa después, para palabras clave. | OA9 |
+| 7 | d) To persuade/instruct readers to change a behavior. "Try public transport!" y "leave your car at home" son llamados a cambiar un hábito: el texto busca persuadir. | OA10 |
 | 8 | **c) Unless.** Unless introduce la condición necesaria para evitar el problema. | OA10 |
 | 9 | True (Verdadero) — el texto plantea un problema (botellas acumulándose) y una solución (estaciones de recarga); la afirmación es correcta porque evalúa que el lector puede proponer soluciones alternativas que el texto no menciona (prohibir el plástico), tal como pide este OA. | OA10 |
 | 10 | **a) incorrect.** El prefijo in- forma el antónimo de correct. | OA10 |
 | 11 | **d) illegible.** Il- se usa antes de palabras que comienzan con l. | OA10 |
-| 12 | a) Que ninguno de los dos actores asistió a la reunión. | OA10 |
+| 12 | a) Que ninguno de los dos actores asistió a la reunión. "Neither… nor…" significa "ni… ni…": no asistieron ni la escuela ni el centro de padres. | OA10 |
 | 13 | **b) In.** La expresión fija es in my opinion. | OA13 |
-| 14 | c) I think we should ban single-use plastics, because they end up in the ocean and harm marine life. | OA13 |
+| 14 | c) I think we should ban single-use plastics, because they end up in the ocean and harm marine life. "I think we should ban single-use plastics" es una opinión, y "because they end up in the ocean" la justifica. | OA13 |
 | 15 | **c) watched / learned.** Last month exige pasado simple en ambos verbos. | OA13 |
 | 16 | True (Verdadero) — *for example* introduce un ejemplo concreto que apoya una idea general sobre una costumbre cultural (el equilibrio entre trabajo y vida personal en Suecia). | OA13 |
 | 17 | **a) air pollution / ride my bike / go by car / it reduces emissions.** La preferencia y su razón deben ser coherentes con el problema mencionado. | OA13 |
-| 18 | b) The text I read was about a teenage engineer who has been designing affordable prosthetic hands for children since 2019. | OA13 |
+| 18 | b) The text I read was about a teenage engineer who has been designing affordable prosthetic hands for children since 2019. Un buen resumen dice de qué trataba el texto y su idea principal en una oración completa, sin opiniones ajenas al texto. | OA13 |
 | 19 | **d) few.** Few se usa con sustantivos contables como opportunities. | OA16 |
 | 20 | b) has been studying. El presente perfecto continuo (have/has been + -ing) expresa una acción que empezó en el pasado y sigue ocurriendo. | OA16 |
 | 21 | **b) had.** Segundo condicional: If + pasado simple, ... would + verbo. | OA16 |

@@ -29,13 +29,7 @@ d) Que vivían solo de la pesca
 
 **Pregunta 2 (verdadero o falso).** Los romanos construyeron acueductos para llevar agua a sus ciudades: es un ejemplo de cómo el ser humano transforma el medio.
 
-**Pregunta 3 (alternativas — unir).** Une cada factor de asentamiento con un ejemplo histórico:
-
-1) Cercanía a zonas fértiles — 2) Fragilidad del medio ante la acción humana — 3) Vulnerabilidad ante amenazas del entorno
-
-Ejemplos: (A) Una ciudad construida cerca de un volcán activo — (B) Un ecosistema de selva dañado por deforestación excesiva — (C) Civilizaciones que se desarrollaron junto a ríos como el Nilo o el Tigris-Éufrates
-
-¿Qué combinación es correcta?
+**Pregunta 3 (alternativas — unir).** Une cada factor de asentamiento con un caso: 1) Recursos que favorecen el asentamiento — 2) Fragilidad del medio ante la acción humana — 3) Vulnerabilidad ante amenazas del entorno. Casos: (A) Pueblos costeros expuestos a tsunamis en el Pacífico — (B) Islas de Rapa Nui donde la tala dejó el suelo sin bosques — (C) Asentamientos mayas junto a cenotes, fuentes de agua dulce en la península de Yucatán. ¿Qué combinación es correcta?
 
 a) 1-C, 2-B, 3-A
 b) 1-A, 2-B, 3-C
@@ -71,7 +65,7 @@ d) Rellenar humedales para construir
 
 **Pregunta 8 (verdadero o falso).** Con la Revolución agrícola del neolítico, los seres humanos comenzaron a talar bosques y a desviar ríos para cultivar.
 
-**Pregunta 9 (alternativas).** ¿Qué opción clasifica correctamente la escala de estas medidas de mitigación: (1) rotación de cultivos en una comunidad agrícola y (2) acuerdo internacional para reducir la deforestación?
+**Pregunta 9 (alternativas).** ¿Qué opción clasifica correctamente la escala de estas medidas: (1) una junta de vecinos instala un punto de reciclaje en su plaza y (2) casi todos los países firman el Acuerdo de París para reducir sus emisiones?
 
 a) 1: escala global; 2: escala local
 b) Ambas son de escala local
@@ -105,13 +99,13 @@ d) Porque evaluar impide construir cualquier obra
 
 1. c) El cultivo en terrazas y la domesticación de llamas y alpacas, adaptados a la montaña. Los incas construyeron terrazas (andenes) para cultivar en las laderas y criaron llamas y alpacas, que dan lana, carne y transporte en la altura.
 2. Verdadero. La relación ser humano-medio es de doble vía: nos adaptamos al medio y también lo transformamos.
-3. a) 1-C, 2-B, 3-A. Los ríos como el Nilo dan tierras fértiles (1-C); la deforestación muestra la fragilidad del medio (2-B), y un volcán activo es una amenaza del entorno (3-A).
+3. **a) 1-C, 2-B, 3-A.** Los cenotes daban agua, un recurso que favoreció el asentamiento (C); la tala en Rapa Nui muestra cómo un medio frágil se degrada (B), y los tsunamis son una amenaza del entorno para los pueblos costeros (A).
 4. a, b y c — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
 5. d) Las crecidas del Nilo depositaban limo fértil en sus orillas, lo que permitió una agricultura productiva en medio del desierto.
 6. c) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio. Algunos ecosistemas, como suelos o bosques, tardan siglos en recuperarse o no se recuperan. Saberlo ayuda a decidir dónde y cómo habitar sin destruir el entorno.
 7. b) Construir edificios con normas antisísmicas, que reducen los daños en un terremoto.
 8. Verdadero. La agricultura generó los primeros impactos importantes en el medio, como la tala de bosques y la modificación de cursos de agua.
-9. c) 1: escala local; 2: escala global. La rotación de cultivos la aplica una comunidad en sus propios campos (escala local); un acuerdo entre países para frenar la deforestación es de escala global.
+9. **c) 1: escala local; 2: escala global.** El punto de reciclaje lo organiza una comunidad en su barrio (escala local); el Acuerdo de París compromete a países de todo el mundo (escala global).
 10. a) Puede producir energía limpia, pero también afectar el paisaje o a las aves de la zona. Las intervenciones humanas suelen tener efectos positivos y negativos a la vez: la energía eólica no contamina el aire, pero cambia el paisaje y puede afectar a las aves.
 11. d) Continuidad: en ambos casos se transforma el curso del agua para cultivar. Cambio: la escala del impacto y la tecnología son mucho mayores hoy. Desde Mesopotamia hasta hoy, las sociedades desvían el agua para cultivar (continuidad); lo que cambió es la tecnología y el tamaño del impacto en el entorno.
 12. b) Toda intervención puede generar efectos no deseados; una evaluación completa permite decisiones más responsables.

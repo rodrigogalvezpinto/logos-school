@@ -289,30 +289,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | d) Centena de mil | OA 1 | Números y Operaciones |
+| 1 | d) Centena de mil. En 5.847.900, el 5 está en las unidades de millón, el 8 en las centenas de mil y el 4 en las decenas de mil. El 8 vale 800.000. | OA 1 | Números y Operaciones |
 | 2 | **d) Orden: 89.500 < 908.005 < 980.050 < 980.500; el mayor es 900.000 + 80.000 + 500.** 89.500 tiene menos cifras; entre los demás se compara cifra a cifra. 980.500 = 900.000 + 80.000 + 500. | OA 1 | Números y Operaciones |
-| 3 | c) 1.976 | OA 3 | Números y Operaciones |
+| 3 | c) 1.976. 52 × 38 = 52 × 30 + 52 × 8 = 1.560 + 416 = 1.976. | OA 3 | Números y Operaciones |
 | 4 | **c) 468 productos.** 18 × 26 = 18 × 20 + 18 × 6 = 360 + 108 = 468. | OA 3 | Números y Operaciones |
-| 5 | a) Cociente 37, resto 2 | OA 4 | Números y Operaciones |
+| 5 | a) Cociente 37, resto 2. 5 × 37 = 185, y 187 − 185 = 2. El resto debe ser menor que el divisor (5). | OA 4 | Números y Operaciones |
 | 6 | **d) 28 buses.** 245 ÷ 9 = 27, resto 2: los 2 estudiantes que sobran también necesitan bus, así que se necesita uno más. | OA 4 | Números y Operaciones |
 | 7 | a) $4.660 (6 × 890 = 5.340; 10.000 − 5.340 = 4.660) | OA 6 | Números y Operaciones |
 | 8 | **d) $14.340.** 20 × 450 = 9.000; 6 × 890 = 5.340; 9.000 + 5.340 = 14.340. | OA 6 | Números y Operaciones |
-| 9 | a) 4/6 | OA 7 | Números y Operaciones |
-| 10 | **a) 2/3, porque 2/3 = 10/15 y 3/5 = 9/15.** | OA 7 | Números y Operaciones |
-| 11 | c) 0,75 | OA 10 | Números y Operaciones |
+| 9 | a) 4/6. Si multiplicas el numerador y el denominador de 2/3 por 2, obtienes 4/6: representan la misma parte. | OA 7 | Números y Operaciones |
+| 10 | **a) 2/3, porque 2/3 = 10/15 y 3/5 = 9/15.** Con denominador común 15: 2/3 = 10/15 y 3/5 = 9/15. Como 10/15 es mayor, 2/3 es mayor. | OA 7 | Números y Operaciones |
+| 11 | c) 0,75. 3/4 = 75/100 = 0,75. También puedes dividir 3 ÷ 4 = 0,75. | OA 10 | Números y Operaciones |
 | 12 | **d) 6,02 < 6,2 < 6,205 < 6,25.** Igualando cifras: 6,020 < 6,200 < 6,205 < 6,250. | OA 11 | Números y Operaciones |
 | 13 | **b) 2,85 km.** Alineando la coma: 2,15 + 0,70 = 2,85. Sumar 15 + 7 centésimos lleva al error 2,22. | OA 13 | Números y Operaciones |
-| 14 | b) 40 | OA 14 | Patrones y Álgebra |
-| 15 | b) 220 | OA 15 | Patrones y Álgebra |
+| 14 | b) 40. La secuencia suma 7 cada vez: 5, 12, 19, 26, 33, 40. | OA 14 | Patrones y Álgebra |
+| 15 | b) 220. x = 560 − 340 = 220. Comprobación: 220 + 340 = 560. | OA 15 | Patrones y Álgebra |
 | 16 | **c) x − 480 = 650; x = 1.130 litros.** Comprobación: 1.130 − 480 = 650. | OA 15 | Patrones y Álgebra |
-| 17 | c) Son paralelas | OA 17 | Geometría |
+| 17 | c) Son paralelas. Las caras frontal y trasera de una caja nunca se tocan y están a la misma distancia: son paralelas. | OA 17 | Geometría |
 | 18 | **a) Una rotación; sí son congruentes, porque la rotación conserva forma y tamaño.** Cambiar la orientación no cambia la forma ni el tamaño. | OA 18 | Geometría |
 | 19 | **d) 3,2 cm y 0,032 m.** 32 mm ÷ 10 = 3,2 cm; 32 mm ÷ 1.000 = 0,032 m. | OA 19 | Medición y Datos y Probabilidades |
-| 20 | b) 40 cm² | OA 22 | Medición y Datos y Probabilidades |
+| 20 | b) 40 cm². Área del triángulo = base × altura ÷ 2 = 16 × 5 ÷ 2 = 40 cm². 80 cm² sería olvidar dividir por 2. | OA 22 | Medición y Datos y Probabilidades |
 | 21 | **b) 80 m².** ((20+12) × 5) ÷ 2 = 160 ÷ 2 = 80. Si olvidas dividir por 2, obtienes 160. | OA 22 | Medición y Datos y Probabilidades |
 | 22 | b) 6,0 (suma 24,0 ÷ 4 = 6,0) | OA 23 | Medición y Datos y Probabilidades |
 | 23 | **c) $15.000.** Suma total = 14.000 × 4 = 56.000; 56.000 − 41.000 = 15.000. | OA 23 | Medición y Datos y Probabilidades |
-| 24 | b) Poco posible | OA 24 | Medición y Datos y Probabilidades |
+| 24 | b) Poco posible. Hay 2 bolitas amarillas entre 9: puede salir, pero es menos probable que una verde (7 de 9). Por eso es poco posible. | OA 24 | Medición y Datos y Probabilidades |
 | 25 | **c) Abril; 95 en total.** Abril tiene la mayor cantidad (30); 22 + 30 + 18 + 25 = 95. | OA 26 | Medición y Datos y Probabilidades |
 
 ### Resumen de cobertura curricular

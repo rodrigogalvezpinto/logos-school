@@ -99,16 +99,16 @@ d) Cautelosa y prefiere mirar desde abajo
 
 ---
 
-**7. (Ciencias Naturales — Alternativas)** ¿Qué producen las plantas, a través de la fotosíntesis, que es esencial para que los demás seres vivos puedan respirar?
+**7. (Ciencias Naturales — Alternativas)** Si en un planeta no hubiera plantas ni algas que hicieran fotosíntesis, ¿qué gas necesario para respirar empezaría a faltar?
 
 a) Dióxido de carbono
-b) Agua
+b) Vapor de agua
 c) Oxígeno
-d) Tierra
+d) Humo
 
 ---
 
-**8. (Historia, Geografía y Cs. Sociales — Alternativas)** ¿Qué sistema de gobierno nació en la antigua ciudad griega de Atenas, en el cual los ciudadanos podían votar las leyes?
+**8. (Historia, Geografía y Cs. Sociales — Alternativas)** En la antigua Atenas, los ciudadanos se reunían en una asamblea para discutir y votar las leyes de la ciudad. ¿Cómo se llama esa forma de gobierno?
 
 a) La democracia
 b) La monarquía
@@ -262,7 +262,7 @@ d) Cuarto menguante, porque se ve iluminada solo la mitad
 
 ---
 
-**20. (Historia, Geografía y Cs. Sociales — Alternativas)** En 1989, muchos países del mundo, incluido Chile, firmaron un acuerdo internacional que reconoce que todos los niños y niñas tienen derechos por el solo hecho de serlo. ¿Cómo se llama este acuerdo?
+**20. (Historia, Geografía y Cs. Sociales — Alternativas)** En 1989, la ONU aprobó un acuerdo internacional, que Chile firmó en 1990, que reconoce que todos los niños y niñas tienen derechos por el solo hecho de serlo. ¿Cómo se llama este acuerdo?
 
 a) La Constitución Política de la República de Chile
 b) La Convención sobre los Derechos del Niño
@@ -293,22 +293,22 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 2 | Ciencias Naturales | **a) El maqui.** Es un arbusto nativo del centro-sur de Chile; sus frutos morados se usan en jugos y mermeladas. El trigo y la palmera datilera fueron traídos de otros lugares. | OA 2 |
 | 3 | Historia, Geografía y Cs. Sociales | **a) El ágora.** Plaza pública de una ciudad griega donde las personas comerciaban y conversaban. | OA 3 |
 | 4 | Lenguaje y Comunicación | **a) Vallenar.** El texto dice que Joaquín "salió... a volar cometa... en Vallenar". | OA 4 |
-| 5 | Lenguaje y Comunicación | **d) Cautelosa y prefiere mirar desde abajo.** | OA 4 |
+| 5 | Lenguaje y Comunicación | **d) Cautelosa y prefiere mirar desde abajo.** El texto dice: "Antonia, en cambio, era más cautelosa y prefería quedarse mirando desde abajo". Flaco y ágil era Joaquín. | OA 4 |
 | 6 | Matemática | **Verdadero.** Al aplicar el algoritmo con reserva, 604−237=367. | OA 6 |
-| 7 | Ciencias Naturales | **c) Oxígeno.** | OA 4 |
-| 8 | Historia, Geografía y Cs. Sociales | **a) La democracia.** Nació en la antigua Atenas. | OA 3 |
+| 7 | Ciencias Naturales | **c) Oxígeno.** Las plantas y las algas liberan oxígeno al hacer fotosíntesis; los animales y las personas lo necesitan para respirar. El dióxido de carbono, en cambio, es lo que las plantas absorben. | OA 4 |
+| 8 | Historia, Geografía y Cs. Sociales | **a) La democracia.** "Democracia" significa "gobierno del pueblo": en Atenas, los ciudadanos votaban las leyes. En una monarquía, en cambio, gobierna un rey. | OA 3 |
 | 9 | Lenguaje y Comunicación | **Verdadero.** El poema dice "y las abejas bailan sin parar". | OA 5 |
 | 10 | Matemática | **a) 6 tejidos.** 48 ÷ 8 = 6 (comprobación: 8 × 6 = 48). | OA 9 |
-| 11 | Ciencias Naturales | **d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** | OA 6 |
-| 12 | Historia, Geografía y Cs. Sociales | **c) El hemisferio norte y el hemisferio sur.** | OA 7 |
+| 11 | Ciencias Naturales | **d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo.** Las frutas y verduras aportan vitaminas y minerales que ayudan al cuerpo a funcionar bien. La energía viene sobre todo del pan, el arroz o las papas, y el crecimiento, de alimentos como la carne, el huevo o las legumbres. | OA 6 |
+| 12 | Historia, Geografía y Cs. Sociales | **c) El hemisferio norte y el hemisferio sur.** El Ecuador es una línea imaginaria que rodea la Tierra por la mitad: al norte queda el hemisferio norte y al sur, el hemisferio sur. | OA 7 |
 | 13 | Lenguaje y Comunicación | **b) De peces pequeños, como anchovetas y sardinas.** Lo dice el subtítulo "¿De qué se alimenta?". | OA 6 |
 | 14 | Matemática | **d) 354; la regla es "sumar 10".** Cada número es 10 más que el anterior: 344 + 10 = 354. | OA 12 |
 | 15 | Ciencias Naturales | **b) La absorción del sonido por los materiales blandos.** Las cortinas, alfombras y cojines absorben parte del sonido, por eso hay menos eco. | OA 10 |
-| 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** | OA 8 |
-| 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** | OA 17 |
+| 16 | Historia, Geografía y Cs. Sociales | **b) Zona templada.** Los árboles que cambian de color en otoño y las cuatro estaciones marcadas son propios de la zona templada, entre la zona cálida y la fría. | OA 8 |
+| 17 | Lenguaje y Comunicación | **b) Invitar a su abuelo a la graduación.** El propósito es para qué se escribe un texto: Benjamín escribe para invitar a su abuelo a la graduación. | OA 17 |
 | 18 | Matemática | **b) El objeto de 1 kg.** 1 kg equivale a 1 000 g, que es más que 850 g. | OA 22 |
 | 19 | Ciencias Naturales | **b) Luna llena, porque se ve toda su superficie iluminada.** La Luna llena es la fase en que vemos el disco lunar completamente iluminado. | OA 11 |
-| 20 | Historia, Geografía y Cs. Sociales | **b) La Convención sobre los Derechos del Niño.** | OA 14 |
+| 20 | Historia, Geografía y Cs. Sociales | **b) La Convención sobre los Derechos del Niño.** La Convención sobre los Derechos del Niño reconoce derechos como la educación, la salud y la protección. Chile se comprometió a respetarlos al firmarla en 1990. | OA 14 |
 
 ### Resumen de la prueba
 

@@ -39,13 +39,12 @@ b) Goma
 c) Cobre
 d) Plástico
 
-**4.** ¿Por qué los cables eléctricos combinan un material conductor por
-dentro y un material aislador por fuera?
+**4.** Las herramientas de un electricista, como los alicates, tienen mangos cubiertos de goma gruesa. ¿Por qué?
 
-a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
-b) El aislador (plástico) permite que circule la electricidad y el conductor (cobre) evita que la corriente llegue a las personas
-c) Por razones de color y diseño, para que los cables se vean ordenados y bonitos en la casa
-d) Para que el cable pese menos y sea más fácil de transportar e instalar en las paredes, aunque cualquiera de los dos conduce igual
+a) Porque la goma es aisladora: no deja pasar la corriente y protege la mano de quien trabaja con cables
+b) Porque la goma conduce la electricidad mejor que el metal
+c) Por razones de color, para que las herramientas sean fáciles de encontrar
+d) Para que las herramientas pesen más y no se caigan, aunque la goma conduce igual que el metal
 
 **5.** Si construyes un circuito eléctrico simple con una pila y una ampolleta, y
 pruebas cerrar el circuito usando una moneda de metal y luego una goma de borrar,
@@ -108,7 +107,7 @@ d) Ninguno de los dos
 1. **d) Un alambre de aluminio.** Los metales, como el aluminio y el cobre, son buenos conductores de la electricidad.
 2. **Verdadero.** El plástico es aislante: impide que la corriente pase a quien toca el cable.
 3. a y c — Conductores: aluminio y cobre. Aisladores: goma y plástico.
-4. a) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas. El cobre es un buen conductor: por él circula la corriente. El plástico es aislador: no deja pasar la corriente y por eso protege a quien toca el cable.
+4. **a) Porque la goma es aisladora: no deja pasar la corriente y protege la mano de quien trabaja con cables.** El metal de la herramienta es conductor; la goma es aisladora y evita que la corriente pase al cuerpo. Por eso conductores y aisladores se combinan en cables y herramientas.
 5. d) Con la moneda de metal, porque es conductora. La goma de borrar es aisladora y no permite el paso de la corriente.
 6. b) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura. Sin el plástico aislador, el cobre queda a la vista y la corriente puede pasar al cuerpo, aunque el cable sea delgado. Nunca se toca ni se moja: se avisa a un adulto.
 7. **c) Goma.** Es un material aislador: impide el paso de la corriente eléctrica,

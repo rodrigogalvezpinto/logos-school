@@ -21,11 +21,11 @@ ultima_actualizacion: 2026-10-28
 
 ---
 
-**1. (Alternativas)** [Imagen: un avión volando entre nubes] ¿Cuál de estas palabras tiene un **diptongo** (dos vocales juntas en una sola sílaba)?
+**1. (Alternativas)** ::emoji::🌧️::lluvia sobre un paraguas:: ¿Cuál de estas palabras tiene un diptongo (dos vocales juntas en una sola sílaba)?
 
-a) "aire"
-b) "camino"
-c) "pelota"
+a) "lluvia"
+b) "casa"
+c) "gato"
 
 **2. (Verdadero o Falso)** La palabra "**poema**" tiene un hiato, porque las vocales "o" y "e" se separan en sílabas distintas: "po-e-ma".
 
@@ -80,7 +80,7 @@ d) Asustado, porque el volantín se le escapó.
 
 ## Pauta de respuestas
 
-1. **a) "aire"** — tiene las vocales "ai" juntas en la sílaba "ai-re": eso es un diptongo.
+1. **a) "lluvia".** "Llu-via" tiene las vocales "ia" juntas en la sílaba "via": eso es un diptongo. "Ca-sa" y "ga-to" tienen una sola vocal en cada sílaba.
 2. **Verdadero** — las vocales «o» y «e» están juntas al escribir, pero se pronuncian en sílabas distintas: eso es un hiato.
 3. **a) "plato"** — las letras «p» y «l» están juntas antes de la vocal «a».
 4. **c) "c"** — antes de «e» o «i», el sonido /s/ muchas veces se escribe con «c», como en «cine» y «cebolla».

@@ -284,30 +284,30 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Tipo | Clave / respuesta esperada | OA |
 |----|------|------------------------------|----|
-| 1 | Alternativas | a) Eficiencia energética | OA 2 |
+| 1 | Alternativas | a) Eficiencia energética. Mantener la misma temperatura gastando menos leña o gas es eficiencia energética: el mismo resultado con menos energía. | OA 2 |
 | 2 | Verdadero o falso | Falso. Un proyecto técnicamente correcto puede fracasar si es demasiado costoso o si la comunidad no lo comprende ni lo apoya; la evidencia científica debe complementarse con viabilidad económica y aceptación social. | OA 2 |
 | 3 | Alternativas | **a) Proteger totalmente es no permitir ninguna extracción (zona núcleo); utilizar de forma sostenible es permitir una actividad regulada que no compromete la regeneración del recurso.** Un plan de manejo puede combinar ambas zonas según el nivel de protección requerido. | OA 2 |
-| 4 | Alternativas | c) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos | OA 2 |
+| 4 | Alternativas | c) Entregarlos a un gestor autorizado para su disposición final segura como residuos peligrosos. Las baterías y los solventes son residuos peligrosos: un gestor autorizado los trata o los dispone de forma segura para que no contaminen suelo ni agua. | OA 2 |
 | 5 | Alternativas | **d) Medir el consumo real (por sala u horario), identificar los focos de mayor gasto y compararlo con un período de referencia, para dirigir la solución y evaluar después su efectividad.** Un proyecto basado en evidencia comienza con un diagnóstico cuantificado, no con una impresión general. | OA 2 |
 | 6 | Varias correctas | **a, b y c.** Un proyecto viable combina criterios de sostenibilidad con costos realistas y participación de la comunidad. | OA 2 |
 | 7 | Verdadero o falso | Falso. En el relleno sanitario, los residuos orgánicos se descomponen sin oxígeno y generan metano, un potente gas de efecto invernadero; reducir lo que llega al relleno (por ejemplo, mediante compostaje) también reduce esas emisiones. | OA 2 |
-| 8 | Alternativas | d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque | OA 2 |
-| 9 | Alternativas | **d) Porque gestiona el residuo con control y, al capturar el metano en vez de dejarlo escapar, reduce un gas de efecto invernadero potente y lo transforma en energía útil.** | OA 2 |
+| 8 | Alternativas | d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque. Un paso de fauna reconecta los dos parches de bosque y permite que los pumas se desplacen sin cruzar la carretera: conserva el ecosistema. | OA 2 |
+| 9 | Alternativas | **d) Porque gestiona el residuo con control y, al capturar el metano en vez de dejarlo escapar, reduce un gas de efecto invernadero potente y lo transforma en energía útil.** El vertedero controla el residuo y, al capturar el metano y quemarlo como biogás, lo transforma en CO₂, un gas que retiene mucho menos calor, y además aprovecha energía. | OA 2 |
 | 10 | Varias correctas | **a, b y c.** | OA 2 |
-| 11 | Alternativas | a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente | OA 2 |
-| 12 | Alternativas | **c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono.** | OA 2 |
+| 11 | Alternativas | a) Reduce las pérdidas de agua por evaporación y escurrimiento, utilizando el recurso de forma más eficiente. El goteo lleva el agua directo a la raíz, con menos evaporación y escurrimiento: produce lo mismo con menos agua. | OA 2 |
+| 12 | Alternativas | **c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono.** El bosque nativo recupera el hábitat de las especies del lugar, protege el suelo y captura carbono: combina conservación y mitigación. | OA 2 |
 | 13 | Varias correctas | **a, b y c.** La oferta de compensación no reemplaza la evidencia científica, la viabilidad ni la participación. | OA 2 |
-| 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes | OA 3 |
+| 14 | Alternativas | b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de temperatura documentado por otras fuentes independientes. Un registro de varias décadas, consistente con el aumento de la temperatura, es una línea de evidencia sólida; un solo año no lo sería. | OA 3 |
 | 15 | Verdadero o falso | Falso. El rango refleja distintos escenarios de emisiones futuras y la magnitud exacta del cambio; el calentamiento ya observado está respaldado por múltiples líneas de evidencia. | OA 3 |
 | 16 | Varias correctas | **a, b y c.** | OA 3 |
 | 17 | Alternativas | **b) Porque provoca el blanqueamiento: los corales expulsan las algas de las que dependen y pueden morir.** Es un ejemplo de pérdida de biodiversidad causada por el cambio climático. | OA 3 |
 | 18 | Alternativas | **a) (a) captura carbono más rápido y barato, pero genera un ecosistema poco diverso; (b) captura más lento, pero restaura hábitat, biodiversidad y resiliencia a largo plazo.** Hay que sopesar la velocidad de mitigación frente al valor ecológico del ecosistema restaurado. | OA 3 |
 | 19 | Verdadero o falso | Falso. Un análisis riguroso considera también los efectos ambientales (como la descarga de salmuera al mar), sociales y éticos (quién accede al agua y quién asume los impactos). | OA 3 |
-| 20 | Alternativas | **d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol.** | OA 3 |
+| 20 | Alternativas | **d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol.** El metano retiene mucho más calor que el CO₂; reducirlo (con cambios en la alimentación del ganado o capturando el biogás del estiércol) ataca una causa del calentamiento: es mitigación. | OA 3 |
 | 21 | Varias correctas | **a, b y c.** Los paneles solares reducen emisiones: son mitigación, no adaptación al riesgo. | OA 3 |
-| 22 | Alternativas | b) Las actividades humanas han intensificado el efecto invernadero al aumentar la concentración atmosférica de gases como el CO₂, elevando la temperatura media del planeta más allá de su variabilidad natural | OA 3 |
-| 23 | Alternativas | **b) Porque se pierde un sumidero de carbono y parte del carbono almacenado en la biomasa puede liberarse a la atmósfera, por ejemplo al quemar los árboles talados.** | OA 3 |
-| 24 | Alternativas | **c) El adelanto de las temperaturas primaverales puede inducir el cambio; el riesgo es un desacople temporal: si el insecto o la planta de la que se alimentan no adelanta su ciclo, faltará alimento y se afectará la reproducción.** | OA 3 |
+| 22 | Alternativas | b) Las actividades humanas han intensificado el efecto invernadero al aumentar la concentración atmosférica de gases como el CO₂, elevando la temperatura media del planeta más allá de su variabilidad natural. El problema no es el efecto invernadero natural, sino su intensificación: la actividad humana aumentó el CO₂ y otros gases, que retienen más calor. | OA 3 |
+| 23 | Alternativas | **b) Porque se pierde un sumidero de carbono y parte del carbono almacenado en la biomasa puede liberarse a la atmósfera, por ejemplo al quemar los árboles talados.** Al talar, se pierde un sumidero que captura CO₂, y parte del carbono almacenado en la madera y el suelo vuelve a la atmósfera. | OA 3 |
+| 24 | Alternativas | **c) El adelanto de las temperaturas primaverales puede inducir el cambio; el riesgo es un desacople temporal: si el insecto o la planta de la que se alimentan no adelanta su ciclo, faltará alimento y se afectará la reproducción.** La primavera más temprana puede adelantar la migración; el riesgo es el desajuste con el momento en que hay alimento disponible para las aves y sus crías. | OA 3 |
 | 25 | Varias correctas | **a, b y c.** | OA 3 |
 
 

@@ -50,8 +50,8 @@ b) Cuarto creciente
 c) Cuarto menguante
 d) Luna nueva
 
-**Pregunta 5 (alternativas).** ¿Cuál de estos movimientos de la Tierra explica por
-qué existen el día y la noche?
+**Pregunta 5 (alternativas).** Mientras en Chile es de noche, en China es de día. ¿Qué movimiento de la Tierra lo explica?
+
 a) La traslación
 b) La rotación
 c) La órbita del Sol
@@ -68,12 +68,10 @@ b) Dura aproximadamente 365 días
 c) Produce el día y la noche
 d) Es el recorrido de la Tierra alrededor del Sol
 
-**Pregunta 8 (alternativas — modelo).** Un estudiante hace girar un globo terráqueo
-frente a una linterna fija y observa que distintas partes del globo se van iluminando
-y oscureciendo. ¿Qué movimiento de la Tierra está representando este modelo?
+**Pregunta 8 (alternativas — modelo).** Una profesora pone una lámpara en el centro de la sala y camina lentamente alrededor de ella llevando un globo terráqueo, hasta dar una vuelta completa. ¿Qué movimiento de la Tierra representa la vuelta completa?
 
-a) La traslación, que explica el año
-b) La rotación, que explica el día y la noche
+a) La rotación, que explica el día y la noche
+b) La traslación, que dura cerca de un año
 c) Un eclipse de Sol, que oscurece la Tierra
 d) Las fases de la Luna, que cambian cada noche
 
@@ -93,9 +91,8 @@ d) La traslación es el giro de la Tierra sobre su propio eje y dura un día; la
 2. **Verdadero** — el Sol es una estrella: produce luz y calor. La Luna, en cambio, solo refleja la luz del Sol.
 3. a) Mercurio → Venus → Tierra → Marte. Los planetas más cercanos al Sol son, en orden, Mercurio, Venus, Tierra y Marte.
 4. d) Luna nueva. La cara de la Luna que mira hacia la Tierra no está iluminada por el Sol.
-5. **b) La rotación** — el giro de la Tierra sobre su propio eje determina qué mitad
-   del planeta recibe luz solar en cada momento.
+5. **b) La rotación.** Al girar sobre su eje (rotación), la Tierra tiene siempre una mitad iluminada por el Sol, donde es de día, y otra a oscuras, donde es de noche. Chile y China quedan en lados opuestos.
 6. **Falso** — la vuelta alrededor del Sol (traslación) dura aproximadamente 365 días; en un día la Tierra gira sobre sí misma (rotación).
 7. a y c — La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y es el recorrido alrededor del Sol.
-8. b) La rotación, que explica el día y la noche. Al girar el globo frente a la linterna, una mitad queda iluminada (día) y la otra a oscuras (noche): así representa la rotación de la Tierra sobre su eje.
+8. **b) La traslación, que dura cerca de un año.** Dar una vuelta alrededor de la lámpara (el Sol) representa la traslación, que dura unos 365 días. Girar el globo sobre sí mismo sería la rotación.
 9. c) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año. La rotación es el giro de la Tierra sobre sí misma (unas 24 horas: el día y la noche); la traslación es su vuelta alrededor del Sol (unos 365 días: un año).

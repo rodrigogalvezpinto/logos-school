@@ -42,6 +42,18 @@ def _numeros(texto: str) -> set[str]:
     return {n.rstrip(".,") for n in re.findall(r"\d[\d.,]*", texto)}
 
 
+# Casi copias revisadas a mano (2026-11-15): misma plantilla de pregunta sobre un texto propio distinto
+# del de la guía (otros personajes, otro relato) o sobre otro gráfico; solo comparten distractores genéricos.
+REVISADAS_A_MANO = {
+    "05-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 3, 4},
+    "06-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 4},
+    "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
+    "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
+    "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},
+    "02-basico/examenes/examen-integrado-forma-b.md": {18},  # pregunta por el invierno; la guía, por el verano
+}
+
+
 def casi_copias(curso: Path, carpeta: str) -> dict[str, list[int]]:
     """Preguntas que no son copia exacta, pero repiten la pregunta de la guía con retoques mínimos:
     enunciado casi igual (≥ 0,93) y, además, 2 o más alternativas iguales o los mismos datos
@@ -56,7 +68,7 @@ def casi_copias(curso: Path, carpeta: str) -> dict[str, list[int]]:
     resultado: dict[str, list[int]] = {}
     for ruta in sorted((curso / carpeta).glob("*.md")):
         for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
-            if huella(p.enunciado, p.opciones) in exactas:
+            if huella(p.enunciado, p.opciones) in exactas or p.numero in REVISADAS_A_MANO.get(str(ruta.relative_to(CONTENIDO)), set()):
                 continue
             pregunta = p.enunciado.split("\n\n")[-1]
             e, n, ops = normalizar(pregunta), _numeros(pregunta), {normalizar(o) for o in p.opciones or []}
@@ -85,10 +97,12 @@ def lecturas_copiadas(curso: Path, carpeta: str) -> dict[str, int]:
     guia = " ".join(normalizar(r.read_text(encoding="utf-8")) for r in curso.glob("*.md") if not r.name.startswith("00"))
     resultado = {}
     for ruta in sorted((curso / carpeta).glob("*.md")):
+        # Umbral bajo (líneas de más de 30 caracteres): las lecturas de 1.° y 2.° básico tienen líneas
+        # cortas («Fui a jugar a la plaza con Tomás.»). Se exigen 2 líneas para no marcar frases sueltas.
         lineas = {normalizar(l)[:120] for l in ruta.read_text(encoding="utf-8").splitlines()
-                  if l.startswith(">") and len(l) > 60}
-        iguales = sum(1 for k in lineas if len(k) > 50 and k in guia)
-        if iguales:
+                  if l.startswith(">") and len(l) > 30}
+        iguales = sum(1 for k in lineas if len(k) > 22 and k in guia)
+        if iguales >= 2:
             resultado[str(ruta.relative_to(CONTENIDO))] = iguales
     return resultado
 

@@ -245,20 +245,20 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 
 | N° | Clave / Respuesta esperada | OA |
 |---|---|---|
-| 1 | a) Renting electric scooters with an app and people's opinions about them | OA9 |
+| 1 | a) Renting electric scooters with an app and people's opinions about them. El texto explica cómo se arriendan los scooters con una aplicación y cuenta que algunos vecinos los aprueban y otros se quejan. | OA9 |
 | 2 | **a) created / write.** Made y created son sinónimos en el texto; la clase ya lo creó (pasado) y los demás escriben ahora (presente). | OA9 |
 | 3 | True (Verdadero): la oración recoge las tres ideas principales con palabras propias y es más breve que el texto. | OA9 |
 | 4 | **d) In my town, people celebrate with fireworks and a big family dinner.** Se espera conectar el texto con el contexto propio, no repetir datos del texto. | OA9 |
-| 5 | d) How might virtual tours change the number of visitors in person? | OA9 |
+| 5 | d) How might virtual tours change the number of visitors in person? Una buena pregunta amplía la información: pregunta por algo nuevo, como el efecto de las visitas virtuales. Las opciones a) y b) solo repiten lo que dice el texto. | OA9 |
 | 6 | **b) Peruvian / Cusco / twenty minutes.** Completar tablas exige extraer datos específicos y ordenarlos según la categoría pedida. | OA9 |
-| 7 | b) To explain how to do something | OA10 |
+| 7 | b) To explain how to do something. Los pasos numerados explican cómo hacer algo (una videollamada): es un texto instructivo. | OA10 |
 | 8 | **c) until.** Until marca el límite de tiempo: hasta que la cena esté lista. | OA10 |
 | 9 | False (Falso): if... will... expresa una condición sobre algo posible en el futuro, no algo que ya ocurrió. | OA10 |
 | 10 | **a) faster.** Los adjetivos cortos forman el comparativo con -er. | OA10 |
-| 11 | b) Possibility | OA10 |
+| 11 | b) Possibility. "Maybe" significa "quizás": expresa una posibilidad, no algo seguro. | OA10 |
 | 12 | **d) invention.** El sufijo -ion forma el sustantivo invention. | OA10 |
 | 13 | **b) take.** Después de I'd rather se usa el verbo en forma base. | OA13 |
-| 14 | c) I prefer Peru to Spain because I want to see Machu Picchu. | OA13 |
+| 14 | c) I prefer Peru to Spain because I want to see Machu Picchu. "I prefer… because…" expresa una preferencia y la justifica con una razón; las demás oraciones solo dan datos. | OA13 |
 | 15 | **c) traveled / tried.** En pasado simple, try cambia y por i: tried. Se acepta también la ortografía británica travelled. | OA13 |
 | 16 | False (Falso): most delicious expresa una opinión, no un hecho comprobable. | OA13 |
 | 17 | **a) No me importa compartir mi pieza.** Don't mind = no me molesta. | OA13 |
@@ -266,7 +266,7 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 | 19 | **b) third.** Se necesita un número ordinal: dos equipos antes, nosotros terceros. | OA16 |
 | 20 | **c) It leaves at 8:30.** El dato aparece explícito en el afiche. | OA16 |
 | 21 | **a) will answer.** Para una decisión espontánea en el momento de hablar se usa will (I'll answer it). | OA16 |
-| 22 | a) The woman with the red jacket is my aunt. | OA16 |
+| 22 | a) The woman with the red jacket is my aunt. En inglés se dice "The woman with the red jacket is my aunt": sujeto ("the woman with the red jacket"), verbo ("is") y complemento ("my aunt"), en ese orden. | OA16 |
 | 23 | **d) never.** Los boletos son caros y ven películas en casa: nunca van al cine. | OA16 |
 | 24 | **a y b.** Ambas preferencias son válidas si van con because y una razón coherente. | OA16 |
 | 25 | **b) got off / into.** Get off se usa para bajarse de un transporte y walk into para entrar a un lugar. | OA16 |

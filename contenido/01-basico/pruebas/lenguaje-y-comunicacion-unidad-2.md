@@ -23,44 +23,42 @@ ultima_actualizacion: 2026-11-07
 
 Lee esta nota y responde las preguntas 1 y 2:
 
-> Nota para mamá
-> Fui a jugar a la plaza con Tomás.
-> Vuelvo a las 6.
-> Cariños, Camila
+> Nota para papá
+> Fui a la casa de la abuela con mi hermano Luis.
+> Vuelvo a las 7.
+> Un abrazo, Antonia
 
-**1.** ¿Con quién fue Camila a la plaza?
+**1.** ¿Con quién fue Antonia a la casa de la abuela?
 
-a) Con Tomás
-b) Con su mamá
+a) Con su hermano Luis
+b) Con su papá
 c) Sola
 
 ---
 
-**2.** ¿A qué hora dice la nota que Camila va a volver?
+**2.** Según la nota, ¿a qué hora va a volver Antonia?
 
-a) A las 4
-b) A las 5
-c) A las 6
+a) A las 5
+b) A las 6
+c) A las 7
 
 ---
 
 Lee estas instrucciones y responde la pregunta 3:
 
-[Imagen: una secuencia de dibujos mostrando manos mojándose, con jabón, frotándose y
-secándose]
+::dibujo::🪥🦷💧::
 
-> Cómo lavarse las manos
-> 1. Moja tus manos con agua.
-> 2. Ponte jabón.
-> 3. Frota tus manos.
-> 4. Enjuaga con agua.
-> 5. Sécate con una toalla.
+> Cómo cepillarse los dientes
+> 1. Pon un poco de pasta en el cepillo.
+> 2. Cepilla los dientes de arriba y de abajo.
+> 3. Enjuaga tu boca con agua.
+> 4. Lava el cepillo y guárdalo.
 
-**3.** ¿Qué se hace después de mojarse las manos?
+**3.** ¿Qué se hace después de poner pasta en el cepillo?
 
-a) Secarse
-b) Enjuagar
-c) Ponerse jabón
+a) Guardar el cepillo
+b) Enjuagar la boca
+c) Cepillar los dientes de arriba y de abajo
 
 ---
 
@@ -103,9 +101,9 @@ d) oso
 
 ## Pauta de respuestas
 
-1. **a) Con Tomás** — La nota dice "Fui a jugar a la plaza con Tomás".
-2. **c) A las 6** — La nota dice "Vuelvo a las 6".
-3. **c) Ponerse jabón** — Es el paso 2, justo después de mojarse las manos (paso 1).
+1. **a) Con su hermano Luis** — La nota dice "Fui a la casa de la abuela con mi hermano Luis".
+2. **c) A las 7** — La nota dice "Vuelvo a las 7". Las horas que se escriben en una nota ayudan a que la familia sepa cuándo vas a volver.
+3. **c) Cepillar los dientes de arriba y de abajo** — Es el paso 2, justo después de poner pasta en el cepillo (paso 1). Los números de las instrucciones muestran el orden.
 4. b) rana — Cada sonido de la palabra tiene su letra: /r/-/a/-/n/-/a/. En «rna» falta la a, en «ranna» sobra una n y «lana» empieza con otro sonido.
 5. c) el sapo salta — Son tres palabras y cada palabra debe ir separada por un espacio.
 6. **c) "mi mamá es alta"** — Cada palabra está separada por un espacio, por eso se lee bien.

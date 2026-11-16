@@ -30,8 +30,7 @@ gramatical por tu cuenta.
 
 ---
 
-**1.** *(Completar)* Complete the invitation model: *"I would like to invite you
-to my party ___ Saturday at 4 pm."*
+**1.** *(Completar)* Complete the invitation: "Come to my birthday party ___ Friday, June 12th!"
 
 a) on
 b) in
@@ -109,7 +108,7 @@ d) There is a turtle near the pond.
 
 ## Pauta de respuestas
 
-1. a) on. *On* con días de la semana; *at* con horas; *in* con meses o años.
+1. **a) on.** Con los días de la semana y las fechas se usa "on": on Friday, on June 12th. "In" se usa con meses y "at", con horas.
 2. d) visit. Con *I* el verbo va en forma simple, sin -s.
 3. c) Hi, how are you? "Hi, how are you?" significa "Hola, ¿cómo estás?", un saludo informal. "Once upon a time" es el inicio de un cuento y "The end", su final.
 4. F (Falso) — *Once upon a time* sirve para comenzar un cuento; para cerrar un email se usa *See you soon* o *Bye*.

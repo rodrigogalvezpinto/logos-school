@@ -168,12 +168,12 @@ d) 12 cm
 
 ---
 
-**Pregunta 15 (Alternativas).** Dos secantes desde un punto exterior interceptan arcos de 150° y 50°. ¿Cuánto mide el ángulo exterior?
+**Pregunta 15 (Alternativas).** Desde un punto exterior se trazan dos secantes que interceptan arcos de 170° y 70°. ¿Cuánto mide el ángulo en el punto exterior?
 
-a) 100°
+a) 120°
 b) 50°
-c) 200°
-d) 75°
+c) 240°
+d) 85°
 
 ---
 
@@ -233,12 +233,12 @@ d) Varianza 8; desviación ≈ 2,83 min
 
 ---
 
-**Pregunta 22 (Alternativas).** Dos rutas promedian 45 min; la Ruta 1 tiene desviación estándar 5 min y la Ruta 2, 20 min. Si necesitas llegar con certeza, ¿cuál conviene?
+**Pregunta 22 (Alternativas).** Dos proveedores entregan pan a un colegio con un atraso promedio de 10 minutos; el proveedor A tiene desviación estándar de 2 minutos y el B, de 12 minutos. Si el colegio necesita saber con seguridad a qué hora llegará el pan, ¿cuál conviene?
 
-a) La Ruta 2, porque su desviación es mayor y puede ser más rápida
-b) La Ruta 1, porque sus tiempos son más predecibles
-c) Da lo mismo, porque ambas rutas tienen el mismo promedio
-d) Ninguna, porque el promedio de 45 min no asegura llegar a tiempo
+a) El B, porque su desviación es mayor y a veces llega antes
+b) El A, porque sus tiempos de llegada son más predecibles
+c) Da lo mismo, porque ambos tienen el mismo promedio
+d) Ninguno, porque el promedio no asegura nada
 
 ---
 
@@ -268,12 +268,12 @@ d) 80/200 = 40%
 
 ---
 
-**Pregunta 25 (Alternativas).** El 30% de los pedidos llega tarde cuando llueve y el 8% cuando no; llueve el 20% de los días. ¿Qué regla se usa y cuál es la probabilidad de que un pedido llegue tarde?
+**Pregunta 25 (Alternativas).** Un vendedor cierra una venta en el 40% de los días soleados y en el 15% de los días nublados; el 70% de los días son soleados. ¿Qué regla se usa y cuál es la probabilidad de cerrar una venta en un día cualquiera?
 
-a) Suma simple: 0,30 + 0,08 = 38%
-b) Promedio simple: (0,30 + 0,08)/2 = 19%
-c) Probabilidad condicional: 0,20 · 0,30 / 0,124 ≈ 48,4%
-d) Probabilidad total: 0,20 · 0,30 + 0,80 · 0,08 = 12,4%
+a) Suma simple: 0,40 + 0,15 = 55%
+b) Promedio simple: (0,40 + 0,15)/2 = 27,5%
+c) Probabilidad condicional: 0,70 · 0,40 / 0,325 ≈ 86,2%
+d) Probabilidad total: 0,70 · 0,40 + 0,30 · 0,15 = 32,5%
 
 ---
 
@@ -293,7 +293,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |---|---|---|---|
 | 1 | d) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
 | 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
-| 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero | OA 3 | Álgebra y Funciones |
+| 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero. Por ejemplo, desde 100: tras 5 años, 100 · 1,2⁵ ≈ 249 (sube 149) y 100 · 0,8⁵ ≈ 33 (baja 67). El crecimiento compuesto se acelera; el decrecimiento se frena porque nunca baja de 0. | OA 3 | Álgebra y Funciones |
 | 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
 | 5 | **c) f, porque con el mismo valor inicial su factor (12% por período) es mayor.** Con igual valor inicial, manda el factor de crecimiento. | OA 3 | Álgebra y Funciones |
 | 6 | **d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período.** 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. | OA 3 | Álgebra y Funciones |
@@ -305,17 +305,17 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | b) 60° (360°÷6) | OA 4 | Geometría |
 | 13 | **c) 65°.** El ángulo interior mide la semisuma de los arcos: (80° + 50°) ÷ 2 = 65°. | OA 4 | Geometría |
 | 14 | **a) 8 cm.** Teorema de las cuerdas: 6 · 4 = 3 · x → x = 24 ÷ 3 = 8 cm. | OA 4 | Geometría |
-| 15 | **b) 50°.** Semidiferencia de los arcos. | OA 4 | Geometría |
+| 15 | **b) 50°.** El ángulo exterior es la semidiferencia de los arcos: (170° − 70°)/2 = 50°. 120° sería la semisuma, propia del ángulo interior. | OA 4 | Geometría |
 | 16 | **b) 20 cm.** Teorema de la tangente y la secante: 10² = 5 · x → x = 100 ÷ 5 = 20 cm. | OA 4 | Geometría |
 | 17 | **a) √90 ≈ 9,49 millas.** tangente² = 6 · 15 = 90. | OA 4 | Geometría |
 | 18 | **c) 12.** Rango = máximo − mínimo = 15 − 3 = 12. | OA 2 | Probabilidad y Estadística |
 | 19 | **b) 10,67.** Media = 6; desviaciones al cuadrado: 16, 0 y 16; suma = 32; varianza = 32 ÷ 3 ≈ 10,67. 3,27 es la desviación estándar y 6 es la media. | OA 2 | Probabilidad y Estadística |
-| 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado | OA 2 | Probabilidad y Estadística |
+| 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado. La varianza promedia desviaciones al cuadrado, así que queda en unidades al cuadrado (por ejemplo, cm²); la desviación estándar es su raíz cuadrada y vuelve a las unidades originales (cm). | OA 2 | Probabilidad y Estadística |
 | 21 | **a) Varianza 10; desviación ≈ 3,16 min.** Media = 8; desviaciones al cuadrado: 16, 4, 4 y 16; suma = 40; varianza = 40 ÷ 4 = 10; desviación = √10 ≈ 3,16. 40 es la suma sin dividir y 8 es la media. | OA 2 | Probabilidad y Estadística |
-| 22 | **b) La Ruta 1, porque sus tiempos son más predecibles.** Con igual promedio, la menor dispersión reduce el riesgo de demora. | OA 2 | Probabilidad y Estadística |
+| 22 | **b) El A, porque sus tiempos de llegada son más predecibles.** Con igual promedio, la menor desviación estándar indica tiempos más concentrados alrededor de 10 minutos: el proveedor A es más predecible. | OA 2 | Probabilidad y Estadística |
 | 23 | **b) 1/3 ≈ 33,3%.** 6/10 · 5/9 = 30/90 = 1/3. 9/25 sería con reposición (6/10 · 6/10). | OA 2 | Probabilidad y Estadística |
 | 24 | **c) 60/100 = 60%.** Se restringe a la columna «Cerca» (100 personas), de las cuales 60 usan bicicleta: 60/100 = 60%. 60/200 es una probabilidad conjunta y 60/80 es la probabilidad de vivir cerca dado que usa bicicleta. | OA 2 | Probabilidad y Estadística |
-| 25 | **d) Probabilidad total: 0,20 · 0,30 + 0,80 · 0,08 = 12,4%.** Cada probabilidad condicional se pondera por la probabilidad de su escenario. | OA 2 | Probabilidad y Estadística |
+| 25 | **d) Probabilidad total: 0,70 · 0,40 + 0,30 · 0,15 = 32,5%.** Cada probabilidad condicional se pondera por la probabilidad de su escenario: 0,28 + 0,045 = 0,325, es decir, 32,5%. | OA 2 | Probabilidad y Estadística |
 
 ### Resumen de cobertura curricular
 

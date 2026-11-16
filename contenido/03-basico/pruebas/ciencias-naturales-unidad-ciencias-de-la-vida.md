@@ -67,11 +67,7 @@ c) Zanahoria
 d) Pescado
 e) Naranja
 
-**Pregunta 8 (alternativas — análisis).** Mira esta imagen: una colación con papas fritas
-de paquete, una bebida azucarada y golosinas.
-[Imagen: una mesa con snacks envasados, papas fritas y una bebida de color muy
-llamativo]
-¿Por qué esta colación no es la opción más saludable para comer todos los días?
+**Pregunta 8 (alternativas — análisis).** Matías lleva todos los días de colación un completo con mayonesa, un jugo en caja y un chocolate. ¿Por qué esta colación no es la opción más saludable para todos los días?
 
 a) Porque es muy cara y se puede comprar algo más barato en el kiosco
 b) Porque tiene demasiadas verduras y le faltan alimentos con azúcar
@@ -95,5 +91,5 @@ d) Que solo coma frutas desde ahora
 5. **c) Una cáscara de plátano** — los restos de frutas y verduras se descomponen y se transforman en abono.
 6. a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables. Comprar solo lo necesario y evitar bolsas de un solo uso también reduce los desechos.
 7. b y d — Huevo y pescado son constructores; pan y papas dan energía; zanahoria y naranja son reguladores.
-8. d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras. Consumirla en exceso y con frecuencia puede ser perjudicial para la salud; no se trata de nunca comerla, sino de no basar la alimentación en ella.
+8. **d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** Comer a diario alimentos con mucha grasa, azúcar y sal daña la salud. Una colación saludable puede ser una fruta, un yogur o un pan con quesillo.
 9. b) Que agregue alimentos de los otros grupos, porque cada grupo cumple una función distinta. Los energéticos dan fuerza, los constructores ayudan a crecer y los reguladores protegen la salud.
