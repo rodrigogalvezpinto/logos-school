@@ -183,4 +183,4 @@ d) En levantarse cada año de madrugada, vestirse de huaso y acompañar la comun
 12. a) La costumbre une la fe con el cuidado de los enfermos y mantiene vivo el vínculo con el lugar de origen. Reconocer un antecedente cultural exige explicar cómo influye en el sentido del texto.
 13. Falso. El texto dice lo contrario: el abuelo "nunca ha faltado a un Cuasimodo", aunque hoy vive en Maipú, rodeado de edificios.
 14. b. El abuelo nació en un fundo cerca de Curicó y llegó a Santiago a trabajar en una fábrica: es la migración campo-ciudad del siglo XX.
-15. d) Relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones concretas.
+15. **d) En levantarse cada año de madrugada, vestirse de huaso y acompañar la comunión a los enfermos, pese a vivir en la ciudad.** El abuelo Juan se levanta de madrugada, se viste de huaso y acompaña la comunión a los enfermos cada año, aunque ya vive en la ciudad: esas acciones concretas muestran que mantiene viva la visión de mundo campesina.

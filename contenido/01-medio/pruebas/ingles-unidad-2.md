@@ -122,7 +122,7 @@ d) make / summer
 
 5. **b) air pollution / use public transport or ride a bike.** Usar transporte público o bicicleta reduce los gases de los autos, así que es una solución lógica para la contaminación del aire; las demás opciones empeoran el problema.
 
-6. c) Un buen pie de foto describe la imagen, agrega una opinión y la justifica.
+6. **c) a polluted river / this is a serious problem / it harms fish and the people who use the water.** La opción describe la imagen (un río contaminado), da una opinión (es un problema grave) y la justifica con «because» (daña a los peces y a quienes usan el agua). Las demás no calzan con la foto o no justifican.
 
 7. a) fifty thousand. *Thousand* no lleva *-s* cuando va precedido de un número exacto.
 

@@ -166,7 +166,7 @@ d) El texto queda más largo, que es lo importante
 
 **4.** c. Las preguntas retóricas no buscan una respuesta literal: generan reflexión o instalan una duda que prepara el argumento que sigue.
 
-**5.** d) Evaluar la organización implica ver cómo la secuencia de ideas contribuye a convencer al lector.
+**5.** **d) Pregunta retórica inicial, presentación y problematización de un dato y propuesta complementaria; genera un argumento equilibrado y reflexivo, más persuasivo.** El autor abre con una pregunta retórica, presenta un dato y lo problematiza, y cierra con una propuesta complementaria; esa secuencia muestra un argumento equilibrado y reflexivo, que convence más que una postura extrema.
 
 **6.** d. Aunque se presenta como una nota informativa, su propósito implícito es mostrar el proyecto como un aporte a la comunidad y a la naturaleza, reforzado por el tono y la fotografía.
 

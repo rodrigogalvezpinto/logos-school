@@ -106,7 +106,7 @@ d) disregular
 
 ## Pauta de respuestas
 
-1. **c)** La información explícita aparece literalmente en el texto: el año, la invención y el premio.
+1. **c) Chilean students designed a filter for microplastics that won a national science prize..** El resumen reúne los tres datos explícitos del texto: estudiantes chilenos diseñaron un filtro para microplásticos y ganaron un premio nacional de ciencias. No agrega nada que el texto no diga.
 
 2. a) about / how. *About* introduce el tema; *how* introduce la explicación de un proceso.
 

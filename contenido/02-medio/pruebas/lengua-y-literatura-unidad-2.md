@@ -161,11 +161,11 @@ d) Usar únicamente citas literarias
 5. c. Exagera a propósito para impactar: una pantalla no puede literalmente robar la infancia de todo un país. Esa exageración es una hipérbole.
 6. d. El Texto B agrega datos que el comunicado no menciona: el paradero está a nueve cuadras en subida y afecta a adultos mayores, con fotos como respaldo.
 7. Falso. "Invitamos" suaviza el mensaje: presenta como sugerencia algo que en la práctica es obligatorio. No tiene el tono de una orden directa.
-8. c) Comparar recursos no lingüísticos implica identificar qué sensación de credibilidad o control produce cada uno.
-9. c) Identificar una omisión exige preguntarse qué información cambiaría la interpretación.
+8. **c) La infografía verde con mapa del Texto A transmite orden y eficiencia; las fotos con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar.** La infografía verde con un mapa (Texto A) transmite orden y eficiencia; las fotos con fecha y hora (Texto B) funcionan como pruebas visuales de lo que viven los vecinos. Cada recurso busca credibilidad de un modo distinto.
+9. **c) Porque oculta una dificultad real para ciertos usuarios y favorece la imagen de mejora que busca el comunicado.** Decir «a pocas cuadras» sin precisar la distancia esconde que, para algunas personas, ese trayecto puede ser una dificultad real; la omisión favorece la imagen de mejora que quiere dar el comunicado.
 10. b. Ninguno de los dos textos miente del todo: la empresa destaca la mejora de los tiempos y los vecinos, el costo para ellos. La fuente influye en qué se destaca y qué se omite.
 11. b. La hipótesis aparece al final del primer párrafo ("Sostengo que…"): tradición y cambio pueden convivir si se decide qué conservar y qué transformar.
 12. Falso. El ensayo lo menciona ("Alguien podría argumentar…") y lo responde con los programas de apoyo a los almacenes: es una refutación del contraargumento.
 13. a) Los programas públicos de apoyo a los almacenes son un caso real, fuera de la obra, que muestra que existen caminos intermedios entre conservar y cambiar; así refuerzan la hipótesis del ensayo con evidencia no literaria.
-14. d) Una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
+14. **d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar los vínculos que daban sentido al lugar.** Carla no le pide a su padre que deje el barrio, sino que se cuide: muestra que se puede atender una necesidad práctica sin abandonar los vínculos que dan sentido al lugar, que es lo que sostiene la hipótesis.
 15. b. Un recurso (anécdota, cita o dato) suma si apoya la hipótesis y se conecta con el argumento, como la cita de Carla en el ensayo; si no, rompe la coherencia temática.

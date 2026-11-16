@@ -118,11 +118,11 @@ d) If I won a trip, I will go to Japan.
 
 4. **True (Verdadero).** *For instance* introduce un ejemplo concreto sobre otra cultura.
 
-5. c) Cada espacio debe tener la información correcta: la persona, la valoración y la razón.
+5. **c) Gabriela Mistral / she was an inspiring writer and teacher / she won the Nobel Prize and worked for children's education.** Gabriela Mistral es la persona; «she was an inspiring writer and teacher» es la valoración, y que ganó el Nobel y trabajó por la educación de los niños es una razón lógica que la sostiene.
 
-6. c) Un buen pie de foto describe la imagen, da una opinión y la matiza con *unless*.
+6. **c) a city full of bicycles / this is a great solution / there are no safe bike lanes.** La opción describe la imagen (una ciudad llena de bicicletas), da una opinión (es una gran solución) y la matiza con «unless» (a menos que no haya ciclovías seguras).
 
-7. a) Un buen resumen es una oración completa que recoge la información principal.
+7. **a) The text I read was about a Chilean astronomer who discovered a new planet using telescopes in the Atacama Desert..** La oración dice de qué trataba el texto (un astrónomo chileno), qué hizo (descubrió un planeta) y cómo (con telescopios en el desierto de Atacama): resume la información principal en una oración completa.
 
 8. a) little. *Little* se usa con sustantivos incontables (*milk*); *few*, con contables.
 

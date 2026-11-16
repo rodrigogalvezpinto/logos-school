@@ -158,7 +158,7 @@ d) Garantiza agua sin necesidad de energía
 3. a) La variación ya existía; el ambiente favoreció a los pinzones de pico grande, que dejaron más descendencia.
 4. d) La resistencia es un ejemplo de selección natural: el insecticida no crea la resistencia, selecciona a quienes ya la tenían.
 5. d) Un ecosistema. Incluye a los seres vivos (comunidad), los factores sin vida (agua, rocas, luz) y sus interacciones.
-6. b) Parasitismo, competencia, depredación y mutualismo. Conviene preguntarse si cada especie se beneficia, se perjudica o no se ve afectada.
+6. **b) Parasitismo, competencia, depredación y mutualismo.** La garrapata se beneficia y daña al huésped (parasitismo); dos especies que se disputan un recurso se perjudican (competencia); el que caza a otro se lo come (depredación), y cuando ambos se benefician es mutualismo.
 7. c) Las especies están interconectadas: la desaparición de un depredador altera a sus presas y, a través de ellas, a otras poblaciones.
 8. b) La respiración celular. Plantas y animales liberan CO₂ al obtener energía; la fotosíntesis, en cambio, lo absorbe.
 9. Falso — solo alrededor del 10% de la energía pasa de un nivel al siguiente: los productores son el nivel con más energía.
