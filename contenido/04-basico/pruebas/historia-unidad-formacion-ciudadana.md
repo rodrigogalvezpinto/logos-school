@@ -22,9 +22,9 @@ ultima_actualizacion: 2026-11-07
 ---
 
 **1. (Alternativas)** ¿Quién encabeza el Gobierno de Chile?
-a) El alcalde o alcaldesa
-b) Un diputado
-c) Un concejal
+a) El alcalde o alcaldesa de Santiago
+b) Un diputado o diputada del Congreso
+c) Un concejal o concejala de la comuna
 d) El Presidente o Presidenta de la República
 
 ---
@@ -53,16 +53,16 @@ d) 1-B, 2-C, 3-A
 **4. (Alternativas)** ¿Cómo llega a su cargo un ministro o ministra, por ejemplo, el de Salud?
 a) Es elegido por votación popular cada 4 años
 b) Lo nombra el Presidente o Presidenta de la República
-c) Lo eligen los alcaldes de todas las comunas
-d) Lo eligen los senadores por sorteo
+c) Lo eligen los alcaldes de todas las comunas del país
+d) Lo eligen los senadores por sorteo entre sus miembros
 
 ---
 
 **5. (Alternativas)** ¿Cuál de las siguientes situaciones respeta el derecho a la salud de un niño o niña?
 a) Que no pueda ir al consultorio cuando está enfermo
-b) Que deba trabajar aunque tenga fiebre
+b) Que deba trabajar todo el día aunque tenga fiebre
 c) Que reciba sus vacunas y atención médica cuando lo necesita
-d) Que le prohíban descansar cuando está enfermo
+d) Que le prohíban descansar en su casa cuando está enfermo
 
 ---
 
@@ -88,9 +88,9 @@ responsabilidad de proteger los derechos de los niños y niñas.
 **9. (Alternativas — desafiante)** ¿Cuál es una forma adecuada de ejercer tu derecho a opinar
 en tu curso?
 
-a) Gritar más fuerte que los demás para que te escuchen primero
-b) Quedarte siempre callado para no molestar a nadie
-c) Burlarte de las opiniones que son distintas a la tuya
+a) Gritar más fuerte que los demás para que te escuchen primero a ti
+b) Quedarte siempre callado en el consejo de curso para no molestar a nadie
+c) Burlarte de las opiniones que son distintas a la tuya para ganar la discusión
 d) Pedir la palabra y dar tu opinión con respeto, por ejemplo en el consejo de curso
 
 ---

@@ -51,8 +51,8 @@ d) Una cuchara de metal
 
 a) El agua se expande y ocupa toda la pieza; el aire queda quieto en el fondo del vaso
 b) El agua tiene volumen propio y queda en el fondo del vaso; el aire se expande y ocupa toda la pieza
-c) Los dos tienen forma propia y no cambian aunque se muevan de lugar
-d) Ninguno de los dos ocupa espacio, porque se pueden atravesar con la mano
+c) Los dos tienen forma propia y no cambian aunque se muevan de lugar o de recipiente
+d) Ninguno de los dos ocupa espacio, porque ambos se pueden atravesar fácilmente con la mano
 
 ---
 
@@ -69,10 +69,10 @@ d) Se expande hasta llenar la caja
 **6.** *(Alternativas — aplicación)* Piensa en la miel que cae lentamente de una cuchara a un frasco.
 ¿En qué estado de la materia se encuentra, según el criterio de forma y volumen?
 
-a) Sólido, porque es espesa y se mueve muy lento
-b) Gaseoso, porque se esparce dentro del frasco
+a) Sólido, porque es espesa, pegajosa y se mueve muy lento al caer
+b) Gaseoso, porque se esparce dentro del frasco y llena todo su espacio
 c) Líquido, porque fluye y toma la forma del frasco, aunque lo haga lentamente
-d) Sólido, porque se puede tomar con una cuchara
+d) Sólido, porque se puede tomar con una cuchara y no se escurre de ella
 
 ---
 

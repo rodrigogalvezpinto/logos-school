@@ -52,33 +52,33 @@ Lee este poema y responde las preguntas 6 a 9:
 
 **1. (Alternativas)** Según el texto "Los bidones de don Ruperto", ¿qué le pidió la abuela a Inés que hiciera?
 
-a) Que preparara pan amasado
+a) Que preparara pan amasado para tomar once con la familia
 b) Que fuera a llenar dos bidones con agua en el estanque del pueblo
-c) Que visitara a don Ruperto
-d) Que cerrara las ventanas por la nevazón
+c) Que visitara a don Ruperto para llevarle leña para su estufa
+d) Que cerrara bien todas las ventanas antes de la nevazón
 
 **2. (Verdadero o Falso)** "Gracias a que don Ruperto llenó los bidones, la familia tuvo agua esa noche, aunque las cañerías se congelaron." — Esta afirmación describe una **consecuencia** de una acción del texto.
 
 **3. (Alternativas — comparar personajes)** ¿Qué comparación entre Inés y don Ruperto se apoya en lo que muestra el texto?
 
 a) Inés es agradecida y don Ruperto es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
-b) Inés es egoísta y don Ruperto es descuidado con sus vecinos; no se parecen en nada
-c) Los dos son personajes que no ayudan a nadie, porque se quedan en sus casas mirando la nieve
-d) Don Ruperto es tímido y no habla con nadie, e Inés nunca agradece lo que hacen por ella
+b) Inés es egoísta y no agradece nada, y don Ruperto es descuidado con sus vecinos; no se parecen en nada
+c) Los dos son personajes que no ayudan a nadie, porque se quedan en sus casas mirando caer la nieve todo el día
+d) Don Ruperto es tímido y no habla con nadie del pueblo, e Inés nunca agradece lo que hacen por ella ni por su familia
 
 **4. (Alternativas)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
 
-a) Inés se pierde en la nieve; se soluciona porque su papá sale a buscarla
-b) La estufa de la casa se rompe con el frío; se soluciona porque la abuela la arregla
-c) No hay comida en la casa; se soluciona porque compran pan en el almacén
+a) Inés se pierde en la nieve camino al estanque; se soluciona porque su papá sale a buscarla con una linterna
+b) La estufa de la casa se rompe con el frío de la noche; se soluciona porque la abuela la arregla con sus herramientas
+c) No hay comida en la casa para la nevazón; se soluciona porque compran pan y leche en el almacén del pueblo
 d) Se acerca una nevazón y necesitan agua antes de que se congelen las cañerías; se soluciona porque don Ruperto ya había llenado los bidones
 
 **5. (Alternativas — opinión fundamentada)** Sofía dice: "Estoy de acuerdo con la forma en que actuó don Ruperto". ¿Qué fundamento usa información del texto?
 
-a) Porque me gusta el nombre Ruperto
+a) Porque me gusta el nombre Ruperto y suena como el de un abuelo simpático que vive en el campo
 b) Porque ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia tuvo agua durante la nevazón
-c) Porque en mi casa también tomamos té con pan amasado
-d) Porque la nieve es bonita y me gustaría conocer Putre
+c) Porque en mi casa también tomamos té con pan amasado junto a la estufa cuando hace mucho frío
+d) Porque la nieve es bonita y me gustaría conocer Putre algún día con mi familia en vacaciones
 
 **6. (Alternativas)** Según el poema "El glaciar", ¿de qué color es la "sábana" con que se tapa el glaciar?
 
@@ -91,17 +91,17 @@ d) Café
 
 **8. (Alternativas — lenguaje figurado)** En los versos "Cruje despacito, como una puerta vieja / que se abre de noche en la casa de mis tíos", ¿qué figura del lenguaje figurado se usa y por qué?
 
-a) Una rima, porque todas las palabras del verso terminan con el mismo sonido
-b) Una pregunta, porque los versos tienen signos de interrogación
+a) Una rima, porque todas las palabras del verso terminan con el mismo sonido, como «vieja» y «tíos»
+b) Una pregunta, porque los versos tienen signos de interrogación y esperan una respuesta del lector
 c) Una comparación (símil), porque usa "como" para comparar el crujido del glaciar con el de una puerta vieja
-d) Una instrucción, porque los versos dicen qué hacer en la casa de los tíos
+d) Una instrucción, porque los versos le dicen al lector qué hacer de noche en la casa de los tíos
 
 **9. (Alternativas)** ¿Qué significan los versos "Sus grietas azules parecen ríos / dibujados con un lápiz de cristal"?
 
 a) Que las grietas del hielo son largas, delgadas y de color azul, y se ven como ríos dibujados
-b) Que alguien dibujó ríos sobre el glaciar con un lápiz
-c) Que en el glaciar hay ríos de verdad donde se puede navegar
-d) Que el glaciar está hecho de lápices de colores
+b) Que alguien dibujó ríos sobre el glaciar con un lápiz para que se vieran desde lejos
+c) Que en el glaciar hay ríos de verdad, con agua azul, donde se puede navegar en bote
+d) Que el glaciar está hecho de lápices de colores que se fueron congelando con el tiempo
 
 ---
 

@@ -54,9 +54,9 @@ d) (1) Buenos Aires — (2) Ciudad de México — (3) Lima
 ---
 
 **4. (Alternativas)** ¿Cuál de los siguientes es un recurso natural **renovable**?
-a) El petróleo
-b) El carbón
-c) El cobre
+a) El petróleo, si se usa con cuidado
+b) El carbón de las minas del sur
+c) El cobre del norte de Chile
 d) Los bosques, si se reforestan
 
 ---
@@ -72,19 +72,19 @@ d) La extracción de sal del desierto
 
 **6. (Alternativas)** ¿Qué acción en tu casa ayuda a usar el agua de forma sostenible?
 
-a) Dejar la llave abierta mientras te lavas los dientes
-b) Lavar el patio con manguera todos los días
+a) Dejar la llave abierta mientras te lavas los dientes cada mañana
+b) Lavar el patio y el auto con manguera todos los días
 c) Cerrar la llave mientras te jabonas y avisar si hay una gotera
-d) Llenar la tina hasta arriba cada vez que te bañas
+d) Llenar la tina hasta arriba cada vez que te bañas, aunque sea de día
 
 ---
 
 **7. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de **adaptación** humana a un
 paisaje frío y lluvioso, como el del sur de Chile?
 a) Casas con techos muy inclinados para que escurra la lluvia, y estufas para calefaccionarse
-b) Atrapanieblas para obtener agua de la neblina del desierto
-c) Ropa liviana y sin abrigo durante todo el año
-d) Casas sin techo para aprovechar la luz del sol
+b) Atrapanieblas para obtener agua de la neblina, como en el desierto del norte de Chile
+c) Ropa liviana y sin abrigo durante todo el año, porque así se seca más rápido con la lluvia
+d) Casas sin techo para aprovechar mejor la luz del sol y el calor en los días de invierno
 
 ---
 

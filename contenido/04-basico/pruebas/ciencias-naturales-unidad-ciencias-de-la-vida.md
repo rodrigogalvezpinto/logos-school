@@ -21,10 +21,10 @@ marca solo una opción. Si una pregunta dice «marca todas las correctas», pued
 
 **1.** En un bosque del sur de Chile, ¿cuál de los siguientes es un elemento **vivo** del ecosistema?
 
-a) El agua de un estero
-b) El suelo
+a) El agua de un estero que baja de la cordillera
+b) El suelo húmedo y oscuro bajo los árboles
 c) El musgo que crece sobre un tronco
-d) La luz del sol
+d) La luz del sol que entra entre las ramas
 
 ---
 
@@ -34,20 +34,20 @@ d) La luz del sol
 
 **3.** ¿Por qué el pingüino de Humboldt tiene una gruesa capa de grasa bajo la piel?
 
-a) Para volar más alto
+a) Para volar más alto y más rápido sobre el mar
 b) Para conservar el calor en el agua fría del mar
-c) Para cambiar de color según la estación
-d) Para respirar bajo el agua
+c) Para cambiar de color según la estación del año
+d) Para respirar bajo el agua sin salir a la superficie
 
 ---
 
 **4.** *(Alternativas)* ¿Qué pareja muestra correctamente una adaptación estructural y una conductual
 del cóndor andino?
 
-a) Estructural: volar en círculos buscando alimento. Conductual: tener alas muy grandes
-b) Estructural: anidar en acantilados altos. Conductual: tener garras fuertes
+a) Estructural: volar en círculos buscando alimento. Conductual: tener alas muy grandes y plumas oscuras en la espalda
+b) Estructural: anidar en acantilados altos y lejanos. Conductual: tener garras fuertes y un pico curvo para comer
 c) Estructural: alas muy grandes para planear. Conductual: aprovechar corrientes de aire caliente para elevarse sin aletear
-d) Estructural: comer animales muertos. Conductual: tener plumas negras y blancas
+d) Estructural: comer animales muertos que encuentra. Conductual: tener plumas negras y un collar de plumas blancas
 
 ---
 
@@ -82,9 +82,9 @@ d) Piel
 los huesos, músculos y tendones para estirar la pierna y patear una pelota?
 
 a) El músculo del muslo se contrae, los tendones transmiten la fuerza a los huesos de la pierna y la articulación de la rodilla permite estirarla
-b) El hueso del muslo se contrae y se acorta, mientras el músculo se queda quieto y el tendón lo empuja
-c) La rodilla le da la orden al cerebro y los huesos de la pierna se estiran solos
-d) Los tendones se alargan para empujar la pelota, y los músculos solo sirven para abrigar los huesos
+b) El hueso del muslo se contrae y se acorta, mientras el músculo se queda quieto y el tendón empuja la pelota hacia adelante
+c) La rodilla le da la orden al cerebro, y los huesos de la pierna se estiran solos sin ayuda de los músculos ni tendones
+d) Los tendones se alargan para empujar la pelota, y los músculos solo sirven para abrigar y proteger los huesos de la pierna
 
 ---
 

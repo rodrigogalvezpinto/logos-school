@@ -39,9 +39,9 @@ Lee este artículo y responde las preguntas 1 a 5:
 
 **1. (Alternativas)** Si quieres encontrar rápidamente por qué el chungungo necesita protección, ¿qué deberías usar?
 
-a) Leer el texto completo desde el principio
-b) Preguntarle a un compañero
-c) Mirar solo el título general
+a) Leer el texto completo desde el principio hasta el final
+b) Preguntarle a un compañero que ya haya leído el texto
+c) Mirar solo el título general y la foto del chungungo
 d) Buscar el subtítulo "Una especie que necesita protección"
 
 **2. (Verdadero o Falso)** Según el texto, la contaminación de las costas es una de las causas que ponen en peligro al chungungo.
@@ -55,31 +55,31 @@ d) Que el chungungo se esconde en las cuevas; es una instrucción, porque dice q
 
 **4. (Alternativas — comparar información)** Compara los dos primeros párrafos del texto. ¿Cómo se relacionan el lugar donde vive el chungungo y lo que come?
 
-a) Como vive en el desierto, come cactus y semillas
-b) No hay relación entre dónde vive y lo que come
-c) Como vive en las ciudades, come restos de comida que encuentra en las calles
+a) Como vive en el desierto, lejos del mar, come cactus, semillas y pequeños insectos que encuentra entre las piedras
+b) No hay relación entre dónde vive y lo que come, porque el texto habla de esos temas en párrafos distintos y separados
+c) Como vive en las ciudades cerca de las personas, come restos de comida que encuentra en las calles y en los basureros
 d) Como vive en la costa rocosa y pasa mucho tiempo en el mar, se alimenta de animales marinos: cangrejos, peces, camarones y mariscos
 
 **5. (Alternativas — opinión fundamentada)** Benjamín opina: "Me parece bien que esté prohibido cazar chungungos en Chile". ¿Qué fundamento se apoya en el texto?
 
-a) Porque los chungungos son tiernos y salen en muchos videos
+a) Porque los chungungos son tiernos, juguetones y salen en muchos videos de internet
 b) Porque quedan pocos y, como depredadores, ayudan a mantener el equilibrio de los animales de la costa
-c) Porque los chungungos viven en los acuarios y ahí los cuidan
-d) Porque no me gusta el olor del mar
+c) Porque los chungungos viven en los acuarios de la ciudad y ahí los cuidan muy bien
+d) Porque no me gusta el olor del mar ni ir a la playa cuando hace mucho frío
 
 **6. (Alternativas)** Vas a escribirle una carta a la directora de tu escuela para pedirle que instalen un bebedero en el patio. ¿Qué registro (forma de hablar) es más apropiado?
 
-a) Muy informal, con sobrenombres y bromas, como en un mensaje a un amigo
-b) Con abreviaciones como «q» y «xq» para escribir más rápido
+a) Muy informal, con sobrenombres y bromas, como en un mensaje que le mandas a un amigo
+b) Con abreviaciones como «q» y «xq», para escribir más rápido y que la carta sea más corta
 c) Formal y respetuoso, con un saludo, la petición explicada y una despedida cordial
-d) Con muchos stickers para que la carta se vea más alegre
+d) Con muchos stickers y dibujos de colores, para que la carta se vea más alegre y entretenida
 
 **7. (Alternativas — párrafos)** ¿Cuál es la mejor forma de separar en dos párrafos, agrupando las ideas relacionadas, este texto sin puntos: "El sábado ayudamos a mi abuela en su huerto sembramos lechugas y regamos las tomateras después cocinamos una ensalada con lo que cosechamos estaba muy rica."?
 
-a) Párrafo 1: solo las palabras "El sábado". Párrafo 2: todo lo demás
-b) Párrafo 1: la ensalada que cocinaron. Párrafo 2: la siembra y el riego, aunque ocurrieron antes
+a) Párrafo 1: solo las palabras "El sábado", porque indican cuándo pasó. Párrafo 2: todo lo demás que hicieron ese día
+b) Párrafo 1: la ensalada que cocinaron y comieron. Párrafo 2: la siembra de lechugas y el riego, aunque ocurrieron antes
 c) Párrafo 1: el trabajo en el huerto (sembrar lechugas y regar las tomateras). Párrafo 2: lo que hicieron después (cocinar y comer la ensalada)
-d) No se puede separar en párrafos, porque todo el texto habla del mismo día
+d) No se puede separar en párrafos, porque todo el texto habla del mismo día y de las mismas personas en el huerto de la abuela
 
 **8. (Alternativas)** ¿Qué oración usa correctamente el conector "por eso" para unir estas dos ideas: "Llovió toda la semana" y "el río creció mucho"?
 

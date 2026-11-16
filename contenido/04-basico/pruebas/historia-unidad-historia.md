@@ -71,9 +71,9 @@ d) Cacique
 maya y la civilización inca?
 
 a) Semejanza: ambas eran sociedades agrícolas que cultivaban maíz y construyeron grandes templos de piedra. Diferencia: los mayas se organizaban en ciudades-Estado independientes y los incas en un gran imperio gobernado desde Cusco
-b) Semejanza: ambas vivían en la cordillera de los Andes. Diferencia: solo los mayas eran agricultores
-c) Semejanza: ambas tenían como capital la ciudad de Tenochtitlán. Diferencia: solo los incas construían templos
-d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en Yucatán y los mayas en los Andes
+b) Semejanza: ambas vivían en la cordillera de los Andes y cultivaban papa en terrazas. Diferencia: solo los mayas eran agricultores, porque los incas vivían únicamente de la caza y la pesca
+c) Semejanza: ambas tenían como capital la ciudad de Tenochtitlán, construida sobre un lago. Diferencia: solo los incas construían templos de piedra, mientras los mayas usaban solo madera
+d) Semejanza: ambas cultivaban en chinampas sobre los lagos del valle de México. Diferencia: los incas vivían en la península de Yucatán y los mayas en la cordillera de los Andes
 
 ---
 

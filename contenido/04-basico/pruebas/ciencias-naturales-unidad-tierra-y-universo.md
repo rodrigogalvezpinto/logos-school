@@ -44,9 +44,9 @@ d) Cáscara = corteza. Clara = núcleo. Yema = manto
 **4.** El núcleo terrestre se caracteriza por:
 
 a) Ser la capa más delgada, como una cáscara, sobre la que vivimos
-b) Estar formado principalmente por agua de mar
+b) Estar formado principalmente por agua de mar que se filtró por las grietas
 c) Estar en el centro del planeta, con las temperaturas más altas de la Tierra
-d) Ser la capa más fría, porque está lejos del Sol
+d) Ser la capa más fría del planeta, porque está muy lejos del Sol
 
 ---
 
@@ -61,9 +61,9 @@ d) Corteza oceánica
 
 **6.** ¿Qué es una placa tectónica?
 
-a) Un volcán que ya no hace erupción
-b) Una capa de hielo que cubre la cordillera
-c) Un tipo de nube que anuncia lluvia
+a) Un volcán que ya no hace erupción y quedó cubierto de tierra
+b) Una capa de hielo muy grande que cubre la cima de la cordillera
+c) Un tipo de nube gris y pesada que anuncia lluvias fuertes
 d) Un gran bloque de la capa externa de la Tierra que se mueve muy lentamente
 
 ---
@@ -85,20 +85,20 @@ d) Meterte al agua, porque ahí el sismo no se siente
 
 **9.** ¿Qué ocurre durante un sismo?
 
-a) La Tierra deja de girar por unos segundos
+a) La Tierra deja de girar por unos segundos y luego vuelve a moverse
 b) El movimiento de las placas libera energía y el suelo vibra
-c) Llueve con mucha fuerza sobre la costa
-d) Los volcanes absorben la lava del suelo
+c) Llueve con mucha fuerza sobre la costa y el agua mueve el suelo
+d) Los volcanes absorben la lava del suelo y la tierra se hunde
 
 ---
 
 **10.** *(Alternativas — aplicación)* Tras una erupción del volcán Llaima, el viento lleva ceniza
 hacia los campos cercanos. ¿Qué efecto puede tener en el paisaje?
 
-a) Los ríos de la zona se secan para siempre
-b) Aparece un desierto de sal alrededor del volcán
+a) Los ríos de la zona se secan para siempre y no vuelven a tener agua
+b) Aparece un desierto de sal alrededor del volcán donde ya no crece nada
 c) Los campos quedan cubiertos por una capa de ceniza que puede dañar los cultivos
-d) El volcán desaparece y el terreno queda plano
+d) El volcán desaparece por completo y el terreno de alrededor queda plano
 
 ---
 
