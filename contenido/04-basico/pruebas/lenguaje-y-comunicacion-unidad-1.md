@@ -115,7 +115,7 @@ d) Que el glaciar está hecho de lápices de colores
 
 **4.** d) El problema es la nevazón que se acerca y el riesgo de quedarse sin agua; se resuelve porque don Ruperto ya había llenado los bidones.
 
-**5.** b) Una buena opinión explica el porqué con información concreta del texto; también se podría opinar distinto, siempre apoyándose en el texto.
+**5.** **b) Porque ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia tuvo agua durante la nevazón.** Sofía se apoya en hechos del texto: don Ruperto ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia tuvo agua durante la nevazón. Una opinión fundamentada explica el porqué con información del texto.
 
 **6.** c) Blanca. El poema dice "su sábana blanca de hielo antiguo", una metáfora del hielo que cubre el glaciar. El azul corresponde a las grietas.
 

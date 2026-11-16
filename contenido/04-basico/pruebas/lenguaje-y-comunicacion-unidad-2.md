@@ -102,7 +102,7 @@ d) Llovió toda la semana, por eso aunque el río creció mucho.
 
 **4.** d) El texto dice que vive en la costa y pasa gran parte del día en el mar; por eso come animales que atrapa en el fondo marino.
 
-**5.** b) Una opinión fundamentada se apoya en datos concretos del texto, no solo en gustos personales.
+**5.** **b) Porque quedan pocos y, como depredadores, ayudan a mantener el equilibrio de los animales de la costa.** Benjamín usa datos del texto: quedan pocos chungungos y, como depredadores, ayudan a mantener el equilibrio de los animales de la costa. Por eso su opinión está fundamentada, no basada solo en gustos.
 
 **6.** c) El registro debe adecuarse al destinatario y al propósito: a la directora, para hacer una petición, se le escribe de manera formal.
 

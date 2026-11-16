@@ -19,7 +19,24 @@ from retro_guia_pobres import raices  # noqa: E402
 CONTENIDO = Path(__file__).resolve().parents[2] / "contenido"
 
 # Revisadas a mano: sí explican la clave con otras palabras. archivo relativo a contenido/ -> números de pregunta.
-REVISADAS_A_MANO: dict[str, set[int]] = {}
+REVISADAS_A_MANO: dict[str, set[int]] = {
+    "01-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md": {5},
+    "01-basico/pruebas/historia-unidad-formacion-ciudadana.md": {1, 3},
+    "01-basico/examenes/examen-integrado-forma-a.md": {16},
+    "01-basico/examenes/examen-integrado-forma-b.md": {14, 16, 18, 19},
+    "02-basico/pruebas/historia-unidad-historia.md": {1, 7},
+    "02-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {5},
+    "02-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {2, 5},
+    "02-basico/examenes/examen-integrado-forma-b.md": {13},
+    "03-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md": {9},
+    "03-basico/pruebas/historia-unidad-historia.md": {8},
+    "03-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {6},
+    "03-basico/examenes/examen-integrado-forma-a.md": {13},
+    "04-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md": {3},
+    "04-basico/pruebas/ciencias-naturales-unidad-tierra-y-universo.md": {6},
+    "04-basico/pruebas/historia-unidad-geografia.md": {6},
+    "04-basico/examenes/examen-integrado-forma-b.md": {5},
+}
 
 
 def texto_clave(respuesta: str) -> str:

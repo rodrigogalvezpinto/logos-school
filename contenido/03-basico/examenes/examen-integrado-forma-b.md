@@ -295,7 +295,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | Historia, Geografía y Cs. Sociales | **a) Que algunas costumbres de la Antigüedad se mantienen hasta hoy, aunque hayan cambiado en su forma.** Los Juegos Olímpicos nacieron en Grecia hace más de dos mil años y se siguen realizando hoy, con otros deportes y reglas: es una costumbre que se mantiene, aunque cambió. | OA 4 |
 | 7 | Ciencias Naturales | **d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidrio para guardar lápices.** Reutilizar es darle otro uso al objeto sin procesarlo; transformarlo en fábrica es reciclar y comprar menos es reducir. | OA 5 |
 | 8 | Lenguaje y Comunicación | **a) Curicó.** El poema dice "al pie del cerro en Curicó". | OA 5 |
-| 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Uso de lenguaje figurado. | OA 5 |
+| 9 | Lenguaje y Comunicación | **b) Que los zapallos tardan en madurar, creciendo poco a poco bajo las hojas.** Los zapallos no se mueven «despacio» como una persona: la expresión significa que tardan mucho en madurar y crecen poco a poco, escondidos bajo las hojas. Es lenguaje figurado. | OA 5 |
 | 10 | Matemática | **c) 54 botellas.** 9 × 6 = 54. | OA 8 |
 | 11 | Historia, Geografía y Cs. Sociales | **b) Continente americano, océano Pacífico.** Chile está en América del Sur, en el continente americano, y su costa está bañada por el océano Pacífico. | OA 7 |
 | 12 | Ciencias Naturales | **c) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** No incluye alimentos reguladores; consumirla con frecuencia puede ser perjudicial para la salud. | OA 6 |
