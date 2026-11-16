@@ -56,8 +56,13 @@ REVISADAS_A_MANO = {
     "07-basico/pruebas/matematica-unidad-datos-y-probabilidades.md": {10, 13},  # otros datos (4 y 12 lápices; mayor que 3)
     "07-basico/pruebas/matematica-unidad-patrones-y-algebra.md": {13},  # otra tabla (pan a $1.500)
     "07-basico/examenes/ciencias-naturales-examen-forma-b.md": {19},  # Ley de Charles, no de Boyle
+    "08-basico/pruebas/ingles-unidad-1.md": {2, 5, 9, 14},  # otras oraciones y otros textos
+    "08-basico/pruebas/ingles-unidad-2.md": {3, 4, 5, 7},  # otras oraciones
+    "08-basico/pruebas/lengua-y-literatura-unidad-2.md": {2},  # otra frase de hecho verificable
+    "08-basico/pruebas/matematica-unidad-geometria.md": {1},  # otros catetos (6 y 8 cm)
+    "08-basico/pruebas/matematica-unidad-datos-y-probabilidades.md": {5, 6},  # diagramas de cajón con otros datos
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
-    "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
+    "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {8, 15},  # 8: V/F sobre otro poema
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},
     "02-basico/examenes/examen-integrado-forma-b.md": {18},  # pregunta por el invierno; la guía, por el verano
     "01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {1},  # lápices de otros largos (5 y 9)

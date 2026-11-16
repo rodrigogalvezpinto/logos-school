@@ -306,15 +306,12 @@ d) Mejora el acceso a servicios de salud especializados
 
 ### El concepto de desarrollo aplicado a las regiones de Chile (OA 22)
 
-**Pregunta 22.** (1 punto)
-¿Qué significa que una región tenga una "ventaja comparativa" en determinada actividad
-productiva?
+**Pregunta 22.** (1 punto) La Región de Antofagasta tiene grandes yacimientos de cobre y produce gran parte del cobre del país, aunque cultiva muy pocos alimentos. ¿Qué concepto explica esta especialización?
 
-a) Que produce absolutamente todos los bienes de forma más barata que cualquier otra región del país, por lo que no necesita comerciar
-b) Que puede producir cierto bien de forma relativamente más eficiente que otras regiones, dadas
-   sus condiciones naturales, humanas o tecnológicas
-c) Que no participa en el comercio con otras regiones ni países, porque produce todo lo que su población necesita consumir
-d) Que su desarrollo depende exclusivamente del turismo, ya que sus condiciones naturales no permiten otras actividades productivas
+a) Que produce absolutamente todo más barato que las demás regiones
+b) La ventaja comparativa: puede producir cobre de forma relativamente más eficiente que otras regiones, gracias a sus condiciones naturales
+c) La autosuficiencia: no comercia con otras regiones
+d) Que depende exclusivamente del turismo
 
 ---
 
@@ -393,7 +390,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 19 | Alternativas | **a) Porque cada tipo se define con criterios distintos; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que las regiones administrativas chilenas solo tienen límites dentro del país.** Cada tipo de región usa criterios distintos (relieve, cultura, economía, administración); por eso sus límites no tienen por qué coincidir. | OA 20 | Geografía | 2 |
 | 20 | Alternativas | b) Escasez de mano de obra joven y mayor demanda de servicios orientados a la población adulta mayor. Si se van los jóvenes, faltan trabajadores jóvenes y la población envejece, lo que aumenta la demanda de servicios para adultos mayores. | OA 21 | Geografía | 1 |
 | 21 | Alternativas | b) Puede dificultar seriamente el acceso oportuno a atención médica especializada. En una región aislada, llegar a un hospital con especialistas puede tomar horas o días, y eso retrasa la atención en una urgencia. | OA 21 | Geografía | 1 |
-| 22 | Alternativas | b) Que puede producir cierto bien de forma relativamente más eficiente que otras regiones, dadas sus condiciones naturales, humanas o tecnológicas. Tener ventaja comparativa es producir cierto bien de forma relativamente más eficiente que otros, por ejemplo por los recursos naturales de la región. | OA 22 | Geografía | 1 |
+| 22 | Alternativas | **b) La ventaja comparativa: puede producir cobre de forma relativamente más eficiente que otras regiones, gracias a sus condiciones naturales.** b) Una región con ventaja comparativa se especializa en lo que produce relativamente mejor —aquí el cobre— y obtiene por comercio lo que produce con menos eficiencia, como muchos alimentos. | OA 22 | Geografía | 1 |
 | 23 | Alternativas | **d) Participa activamente en el comercio con otros países; depender de un solo producto la expone a la variación de su demanda o precio internacional.** Exportar mucho integra a la región al comercio mundial, pero depender de un solo producto la expone a las caídas de su precio internacional. | OA 22 | Geografía | 2 |
 | 24 | Alternativas | b) En la nación. La Declaración de 1789 afirmó que la soberanía reside en la nación, no en el rey por derecho divino. | OA 18 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **b) Con la soberanía popular (Rousseau): las leyes deben emanar del pueblo; pero en la práctica no otorgó los mismos derechos políticos a las mujeres ni a otros grupos.** El reconocimiento formal de un derecho no siempre garantizó su aplicación real e igualitaria. | OA 18 | Formación Ciudadana | 3 |

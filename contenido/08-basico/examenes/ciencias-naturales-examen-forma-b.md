@@ -75,8 +75,7 @@ d) Ambas son glóbulos rojos, porque transportan oxígeno
 
 ### OA N°4 — Plantas: transporte de sustancias e intercambio de gases
 
-**4.** *(Alternativas)* ¿Qué proceso físico explica principalmente cómo el agua ingresa
-a las células de la raíz de una planta?
+**4.** *(Alternativas)* Si se ponen trozos de zanahoria en agua con mucha sal, se arrugan porque pierden agua. ¿Qué proceso explica este paso del agua a través de la membrana de sus células?
 
 a) La fotosíntesis
 b) La transpiración
@@ -102,13 +101,12 @@ d) La planta A, porque tiene más hojas y, por lo tanto, más estomas por donde 
 
 ### OA N°5 — Sistemas del cuerpo humano: equilibrio y salud
 
-**7.** *(Alternativas)* ¿Cuál es la unidad funcional del riñón, encargada de filtrar la
-sangre y regular la cantidad de agua del cuerpo?
+**7.** *(Alternativas)* Un examen muestra que los riñones de una persona no están filtrando bien la sangre. ¿Qué estructuras, que son sus unidades funcionales, están fallando?
 
-a) El nefrón
-b) El alvéolo
-c) La vellosidad intestinal
-d) El eritrocito
+a) Los nefrones
+b) Los alvéolos
+c) Las vellosidades intestinales
+d) Los eritrocitos
 
 **8.** *(Alternativas)* ¿Cuál de las siguientes afirmaciones sobre los leucocitos
 (glóbulos blancos) es correcta?
@@ -169,14 +167,12 @@ d) Porque la adicción solo ocurre si se fuma todos los días durante muchos añ
 
 ### OA N°10 — Circuitos eléctricos: en serie, en paralelo y domiciliario
 
-**14.** *(Alternativas)* Según la Ley de Ohm (V = I × R), si por un dispositivo con una
-resistencia de 100 ohms circula una corriente de 2 amperes, ¿cuál es la diferencia de
-potencial (voltaje)?
+**14.** *(Alternativas)* Según la Ley de Ohm (V = I × R), una ampolleta tiene una resistencia de 60 ohms y por ella circula una corriente de 2 amperes. ¿Cuál es el voltaje?
 
-a) 200 volts
-b) 102 volts
-c) 50 volts
-d) 0,02 volts
+a) 120 volts
+b) 62 volts
+c) 30 volts
+d) 0,03 volts
 
 **15.** *(Alternativas)* ¿Qué ocurre en un circuito conectado en serie si uno de sus
 componentes falla?
@@ -300,17 +296,17 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 1 | Alternativas | a) El núcleo. El núcleo guarda la mayor parte del ADN y controla las funciones de la célula. La mitocondria obtiene energía y la membrana regula lo que entra y sale. | OA 2 |
 | 2 | Alternativas | d) Su material genético se encuentra disperso en el citoplasma, sin núcleo definido. Las procariontes, como las bacterias, no tienen núcleo: su ADN está disperso en el citoplasma. Sí tienen membrana y citoplasma. | OA 2 |
 | 3 | Alternativas | **a) Célula 1: neurona, sus prolongaciones transmiten impulsos a distancia. Célula 2: fibra muscular, sus fibras le permiten contraerse.** En ambos casos, la forma de la célula está al servicio de su función. | OA 2 |
-| 4 | Alternativas | d) La ósmosis. El agua entra a la raíz por ósmosis: pasa a través de la membrana desde donde hay más agua (el suelo) hacia donde hay menos (las células de la raíz). | OA 4 |
+| 4 | Alternativas | **d) La ósmosis.** d) En la ósmosis el agua atraviesa la membrana desde donde hay menos sales hacia donde hay más; como el agua salada tiene más sal, el agua sale de las células y la zanahoria se arruga. | OA 4 |
 | 5 | Alternativas | d) La fotosíntesis. La fotosíntesis necesita luz, por eso ocurre de día; la respiración celular ocurre de día y de noche. | OA 4 |
 | 6 | Alternativas | **d) La planta A, porque tiene más hojas y, por lo tanto, más estomas por donde sale vapor de agua.** Los estomas se ubican principalmente en las hojas: más hojas significa mayor superficie para la salida de vapor de agua. | OA 4 |
-| 7 | Alternativas | a) El nefrón. El nefrón es la unidad que filtra la sangre en el riñón y forma la orina. Los alvéolos están en los pulmones y las vellosidades, en el intestino. | OA 5 |
+| 7 | Alternativas | **a) Los nefrones.** a) Cada riñón tiene alrededor de un millón de nefrones, que filtran la sangre y forman la orina. Los alvéolos son de los pulmones, las vellosidades del intestino y los eritrocitos son glóbulos rojos. | OA 5 |
 | 8 | Alternativas | b) Participan en la defensa del organismo frente a agentes externos. Los leucocitos defienden el cuerpo de virus y bacterias. Los glóbulos rojos transportan oxígeno y las plaquetas ayudan a coagular. | OA 5 |
 | 9 | Alternativas | **b) Las enzimas descomponen químicamente los alimentos en nutrientes absorbibles; la bilis emulsiona las grasas, facilitando la acción de las enzimas.** Las enzimas descomponen los alimentos en nutrientes que se pueden absorber; la bilis, producida por el hígado, separa las grasas en gotas pequeñas para facilitar su digestión. | OA 5 |
 | 10 | Alternativas | **c) El humo del tabaco daña los alvéolos, reduciendo la superficie de intercambio por difusión entre el aire y la sangre.** Al disminuir la superficie de intercambio, pasa menos oxígeno a la sangre en cada respiración. | OA 5 |
 | 11 | Alternativas | **b) Huevos, legumbres y pescado, con función constructora.** Las proteínas aportan el material para formar y reparar tejidos. | OA 7 |
 | 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social. La salud no es solo la ausencia de enfermedad: es un estado de bienestar físico, mental y social. | OA 7 |
 | 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** Fumar de forma ocasional ya expone al cuerpo a sustancias tóxicas, y la nicotina puede generar dependencia rápidamente, sobre todo en adolescentes. | OA 7 |
-| 14 | Alternativas | a) 200 volts (V = I × R = 2 A × 100 Ω = 200 V) | OA 10 |
+| 14 | Alternativas | **a) 120 volts.** a) V = I × R = 2 A × 60 Ω = 120 V. Sumar (62) o dividir (30) no aplica la ley. | OA 10 |
 | 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito. En un circuito en serie la corriente pasa por un solo camino; si un componente falla, el camino se corta y se apaga todo. | OA 10 |
 | 16 | Alternativas | **d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado.** En serie, una falla interrumpiría el único camino y se apagarían todas. | OA 10 |
 | 17 | Alternativas | **b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica.** I = P / V = 1.100 W / 220 V = 5 A; a mayor potencia, mayor energía consumida por unidad de tiempo. | OA 10 |

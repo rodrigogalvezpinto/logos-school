@@ -70,11 +70,12 @@ d) Empezar el eje vertical en 0
 
 **Pregunta 9 (verdadero o falso).** Un gráfico de líneas es apropiado para mostrar cómo cambió la temperatura de una ciudad durante una semana.
 
-**Pregunta 10 (identificar manipulación).** Un gráfico de barras 3D muestra el mismo valor en dos barras, pero por el efecto de la perspectiva, una parece más alta que la otra. ¿Qué tipo de problema presenta este gráfico?
-a) Falta de título y de nombres en los ejes
-b) Uso de colores incorrectos en las barras
-c) Distorsión visual por efecto de perspectiva/3D
-d) Demasiados datos para un solo gráfico
+**Pregunta 10 (identificar manipulación).** Un gráfico de las ventas de una tienda tiene el eje vertical que empieza en 900 y no en 0. Así, una diferencia pequeña entre dos meses parece enorme. ¿Qué problema presenta el gráfico?
+
+a) Falta de título
+b) Colores poco adecuados
+c) Distorsión visual porque el eje no comienza en cero
+d) Tiene demasiados datos
 
 **Pregunta 11 (Alternativas — elegir gráfico).** Una municipalidad quiere mostrar qué parte de su presupuesto anual se destina a salud, educación, áreas verdes y seguridad. ¿Qué gráfico conviene?
 
@@ -119,7 +120,7 @@ d) El gráfico circular está mal dibujado
 7. c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico. Un bigote mucho más largo que el otro sugiere asimetría.
 8. **b) Dibujar las barras con anchos distintos:** la diferencia visual no corresponde a la diferencia real de los datos.
 9. **Verdadero.** El gráfico de líneas muestra la evolución de una variable en el tiempo.
-10. **c) Distorsión visual por efecto de perspectiva/3D.**. El efecto 3D cambia cómo se ven las barras: aunque representan el mismo valor, la perspectiva hace que una parezca mayor. Es una distorsión visual que puede engañar al lector.
+10. **c) Distorsión visual porque el eje no comienza en cero.** c) Cortar el eje vertical exagera las diferencias: barras de 950 y 1.000 parecen muy distintas aunque varían solo un 5 %. Es una forma de distorsión visual.
 11. a) Circular, porque muestra cómo se reparte un total entre pocas categorías.
 12. d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
 13. b) De líneas, porque muestra la evolución en el tiempo; el circular sirve para partes de un todo.
