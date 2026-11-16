@@ -2,7 +2,7 @@
 
 Copia el encabezado (hasta la primera sección de preguntas) y la cola (desde «# HOJA DE RESPUESTAS») de la Forma B,
 reemplaza las preguntas por las nuevas y las filas de la pauta por las nuevas explicaciones. La clave se escribe primero
-en la lista de opciones y se ubica en la letra pedida (así se controla la distribución de letras).
+(o se marca con «*» en cualquier posición) en la lista de opciones y se ubica en la letra pedida (así se controla la distribución de letras).
 
 Uso desde Python:
     from forma_a import P, armar
@@ -28,6 +28,14 @@ class P:
     explicacion: str      # explica la clave (sin repetirla al inicio)
     oa: str = ""
     extra: dict = field(default_factory=dict)
+
+    def __post_init__(self):
+        # La correcta puede marcarse con «*» al inicio, en cualquier posición; se mueve al frente.
+        marcadas = [o for o in self.opciones if o.startswith("*")]
+        if len(self.letra) == 1 and marcadas:
+            assert len(marcadas) == 1, "marca una sola opción correcta con *"
+            k = self.opciones.index(marcadas[0])
+            self.opciones = [marcadas[0][1:]] + self.opciones[:k] + self.opciones[k + 1:]
 
     def ordenadas(self) -> list[str]:
         if not self.opciones:          # verdadero o falso: sin alternativas escritas
