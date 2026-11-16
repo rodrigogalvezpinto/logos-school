@@ -146,7 +146,7 @@ d) "Los humedales ya no están amenazados, así que no necesitan protección"
 
 1. **d.** Esta característica explica el cambio que vive Ignacio: si siguiera siendo impaciente, no habría aprendido a tocar.
 2. **Verdadero.** La acción de Elena (amasar y hornear) permite que la panadería siga abierta mientras su madre se recupera.
-3. **c.** Una opinión fundamentada explica el *porqué* con hechos concretos del texto, no solo expresa un gusto o un dato sin argumento.
+3. **c) "Me parece admirable lo que hizo Elena, porque se levantó de madrugada toda una semana para que la panadería de su madre no cerrara".** Esa opinión da una razón basada en hechos del texto: Elena se levantó de madrugada toda una semana para que la panadería no cerrara. Las otras opciones solo expresan un gusto o un dato, sin explicar el porqué.
 4. a) Semejanza: ambos protagonistas demuestran perseverancia y esfuerzo. Diferencia: ocurren en lugares distintos (Ovalle y Chillán). En los dos textos los protagonistas se esfuerzan y no se rinden. Lo que cambia es el lugar: uno ocurre en Ovalle y el otro, en Chillán.
 5. **c.** El poema está organizado en 2 estrofas, cada una de 4 versos.
 6. **Falso.** "tarde" y "parque" forman una **rima asonante**, porque solo coinciden los sonidos vocálicos (a-e), no todos los sonidos.

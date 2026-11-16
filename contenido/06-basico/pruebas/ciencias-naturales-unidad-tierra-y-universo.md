@@ -110,7 +110,7 @@ d) Hacer terrazas en las laderas para frenar el agua de lluvia
 1. **c.** La atmósfera es la capa de gases que rodea la Tierra; en ella ocurren los fenómenos del tiempo atmosférico.
 2. **Verdadero.** Las emisiones de fábricas y vehículos alteran la composición del aire.
 3. **a y d.** La litósfera es la capa sólida de la Tierra: allí están los minerales como el hierro y el suelo de cultivo. El viento pertenece a la atmósfera y el río a la hidrósfera.
-4. a, b y c — Las rocas y el suelo forman la litósfera.
+4. **a, b y c.** La atmósfera contiene el oxígeno que respiramos, regula la temperatura del planeta y, con la capa de ozono, nos protege de la radiación solar dañina. Las rocas y el suelo, en cambio, forman parte de la litósfera.
 5. **a, b y d.** Reforestar, reciclar y hacer compost cuidan el suelo; echar aceite lo contamina.
 6. **c.** El vertido de desechos sin tratar afecta directamente a la hidrósfera.
 7. **b.** Las raíces de las plantas sujetan el suelo y lo protegen del agua y el viento.
