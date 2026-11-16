@@ -256,11 +256,11 @@ bosques, ríos y humedales donde viven.
 
 4. *(Varias correctas)* ¿Cuáles de estas medidas ayudan a proteger a los animales
    nativos en peligro de extinción? Marca **todas** las correctas.
-   a) Cuidar los parques nacionales
-   b) Comprar animales silvestres como mascota
-   c) No botar basura en su hábitat
-   d) Respetar las leyes de protección de la fauna
-   **Respuesta correcta:** a, c y d.
+   a) Respetar las leyes de protección de la fauna
+   b) Cuidar los parques nacionales
+   c) Comprar animales silvestres como mascota
+   d) No botar basura en su hábitat
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** ¡Muy bien! Proteger el hábitat y no capturar animales silvestres
    son las medidas más importantes para evitar su extinción. Comprar animales silvestres
    los saca de su hábitat y los pone en riesgo.
@@ -474,23 +474,23 @@ ejercicio de manera extrema: lo importante es moverse con regularidad.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas son **actividad física**? Marca
    **todas** las correctas.
-   a) Andar en bicicleta
-   b) Ver televisión muchas horas
-   c) Bailar
-   d) Jugar a la pelota
-   e) Estar sentado todo el recreo
-   **Respuesta correcta:** a, c y d.
+   a) Estar sentado todo el recreo
+   b) Andar en bicicleta
+   c) Ver televisión muchas horas
+   d) Bailar
+   e) Jugar a la pelota
+   **Respuesta correcta:** b, d y e.
    **Retroalimentación:** ¡Muy bien! Cualquier actividad que implique mover el cuerpo
    cuenta como actividad física. Ver televisión muchas horas y estar sentado todo el
    recreo son sedentarismo.
 
 4. *(Varias correctas)* ¿Cuáles de estas son formas de **incorporar actividad física**
    en tu semana? Marca **todas** las correctas.
-   a) Caminar al colegio
-   b) Jugar videojuegos acostado
-   c) Practicar un deporte
-   d) Jugar en la plaza
-   **Respuesta correcta:** a, c y d.
+   a) Jugar videojuegos acostado
+   b) Practicar un deporte
+   c) Jugar en la plaza
+   d) Caminar al colegio
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** ¡Excelente! Caminar, practicar un deporte o jugar en la plaza
    mueven el cuerpo. Mientras más variadas sean tus actividades, más divertido es
    mantenerte activo.
@@ -631,11 +631,11 @@ una laguna de la cordillera en invierno es agua que se congeló por el frío.
 
 6. *(Varias correctas)* ¿Cuáles son características del **agua pura** que puedes
    comprobar con tus sentidos? Marca **todas** las correctas.
-   a) Es transparente: se puede ver a través de ella
-   b) Tiene un olor fuerte
-   c) Es inodora: no tiene olor
-   d) Es de color café
-   **Respuesta correcta:** a y c.
+   a) Es de color café
+   b) Es transparente: se puede ver a través de ella
+   c) Tiene un olor fuerte
+   d) Es inodora: no tiene olor
+   **Respuesta correcta:** b y d.
    **Retroalimentación:** ¡Muy bien! El agua pura es transparente e inodora. Estas
    características te ayudan a notar cuando el agua está sucia o contaminada, porque pierde
    su transparencia o gana olor.
@@ -739,11 +739,11 @@ agua cuando sea posible, y no contaminar ríos ni lagos con basura o químicos.
 
 5. *(Varias correctas)* ¿Cuáles de estas acciones cuidan el agua en tu casa o en tu
    colegio? Marca **todas** las correctas.
-   a) Cerrar la llave mientras te lavas los dientes
-   b) Dejar la manguera corriendo sin necesidad
-   c) Avisar a un adulto cuando una llave gotea
-   d) Reutilizar el agua de la lluvia para regar plantas
-   **Respuesta correcta:** a, c y d.
+   a) Reutilizar el agua de la lluvia para regar plantas
+   b) Cerrar la llave mientras te lavas los dientes
+   c) Dejar la manguera corriendo sin necesidad
+   d) Avisar a un adulto cuando una llave gotea
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** ¡Excelente! Aunque parezcan acciones pequeñas, cuidar el agua
    todos los días ayuda a que este recurso alcance para todos. Dejar la manguera corriendo
    desperdicia agua.
@@ -829,12 +829,12 @@ temperatura.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos fenómenos son
    **precipitación**? Marca **todas** las correctas.
-   a) Lluvia
-   b) Ramas moviéndose
-   c) Granizo
-   d) Nieve
-   e) Cometa volando
-   **Respuesta correcta:** a, c y d.
+   a) Ramas moviéndose
+   b) Granizo
+   c) Nieve
+   d) Cometa volando
+   e) Lluvia
+   **Respuesta correcta:** b, c y e.
    **Retroalimentación:** ¡Muy bien! La precipitación es agua que cae del cielo (lluvia,
    granizo, nieve); las ramas moviéndose y la cometa volando muestran el viento, que es
    aire en movimiento.
@@ -1000,11 +1000,11 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
 
 6. *(Varias correctas)* ¿Cuáles de estos cambios se observan en el **invierno**? Marca
    **todas** las correctas.
-   a) Hace frío
-   b) A veces nieva en la cordillera
-   c) Muchos árboles se llenan de flores
-   d) Algunos árboles no tienen hojas
-   **Respuesta correcta:** a, b y d.
+   a) A veces nieva en la cordillera
+   b) Muchos árboles se llenan de flores
+   c) Algunos árboles no tienen hojas
+   d) Hace frío
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** ¡Buen trabajo observando la naturaleza! En invierno hace frío, a
    veces nieva en la cordillera y algunos árboles pierden sus hojas; los árboles se llenan
    de flores en primavera. Reconocer los cambios de estación te ayuda a entender mejor el

@@ -60,10 +60,10 @@ d) Las fases de la Luna
 
 **Pregunta 7 (varias correctas — clasificar).** Sofía dice: «La Tierra gira como un trompo sobre sí misma». ¿Qué es cierto sobre ese movimiento, llamado rotación? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Una vuelta completa toma cerca de un día
-b) Una vuelta completa toma cerca de un año
-c) Por este movimiento en un lugar es de día y luego de noche
-d) Es el viaje de la Tierra alrededor de la Luna
+a) Es el viaje de la Tierra alrededor de la Luna
+b) Una vuelta completa toma cerca de un día
+c) Una vuelta completa toma cerca de un año
+d) Por este movimiento en un lugar es de día y luego de noche
 
 **Pregunta 8 (alternativas — modelo).** Una profesora pone una lámpara en el centro de la sala y camina lentamente alrededor de ella llevando un globo terráqueo, hasta dar una vuelta completa. ¿Qué movimiento de la Tierra representa la vuelta completa?
 
@@ -89,6 +89,6 @@ d) Ninguna de las dos se debe a movimientos de la Tierra: el Sol es el que se mu
 4. d) Luna nueva. La cara de la Luna que mira hacia la Tierra no está iluminada por el Sol.
 5. **b) La rotación.** Al girar sobre su eje (rotación), la Tierra tiene siempre una mitad iluminada por el Sol, donde es de día, y otra a oscuras, donde es de noche. Chile y China quedan en lados opuestos.
 6. **Falso** — la vuelta alrededor del Sol (traslación) dura aproximadamente 365 días; en un día la Tierra gira sobre sí misma (rotación).
-7. **a y c.** La rotación es el giro de la Tierra sobre su eje: toma cerca de 24 horas (un día) y produce el día y la noche. La vuelta alrededor del Sol, que dura un año, es la traslación.
+7. **b y d.** La rotación es el giro de la Tierra sobre su eje: toma cerca de 24 horas (un día) y produce el día y la noche. La vuelta alrededor del Sol, que dura un año, es la traslación.
 8. **b) La traslación, que dura cerca de un año.** Dar una vuelta alrededor de la lámpara (el Sol) representa la traslación, que dura unos 365 días. Girar el globo sobre sí mismo sería la rotación.
 9. **c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día).** La traslación, la vuelta de la Tierra alrededor del Sol, dura cerca de 365 días: un año. La rotación, el giro sobre su eje, dura cerca de 24 horas y por eso cada día amanece.

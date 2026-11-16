@@ -223,11 +223,11 @@ en pleno desarrollo.
    resultante viaja luego hacia el útero para implantarse.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos métodos de control de la natalidad son **de barrera**? Marca **todas** las correctas.
-   a) Preservativo
-   b) Píldora anticonceptiva
-   c) Control del ciclo menstrual
-   d) Diafragma
-   **Respuesta correcta:** a y d.
+   a) Diafragma
+   b) Preservativo
+   c) Píldora anticonceptiva
+   d) Control del ciclo menstrual
+   **Respuesta correcta:** a y b.
    **Retroalimentación:** Natural: control del ciclo menstrual; de barrera: preservativo y diafragma; químico/hormonal: píldora. Cada tipo actúa por un mecanismo distinto.
 
 4. *(Alternativas)* ¿Qué es el cigoto y cómo se origina?
@@ -247,11 +247,11 @@ en pleno desarrollo.
    **Retroalimentación:** El preservativo es un método de barrera: impide que el espermatozoide llegue al ovocito. La píldora es un método hormonal: impide la ovulación. Conocer cómo actúa cada uno explica por qué su efectividad depende del uso correcto.
 
 6. *(Varias correctas — análisis de caso)* Caso: "Camila, de 14 años, está embarazada y debe decidir cómo continuar sus estudios mientras cuida a su bebé." ¿Cuáles son implicancias de un embarazo en la adolescencia? Marca **todas** las correctas.
-   a) Mayores riesgos físicos, porque el cuerpo adolescente aún está en desarrollo
-   b) Dificultad para compatibilizar estudios y crianza
-   c) Necesidad de apoyo familiar y social
-   d) Ninguna implicancia, porque es igual que en la adultez
-   **Respuesta correcta:** a, b y c.
+   a) Necesidad de apoyo familiar y social
+   b) Ninguna implicancia, porque es igual que en la adultez
+   c) Mayores riesgos físicos, porque el cuerpo adolescente aún está en desarrollo
+   d) Dificultad para compatibilizar estudios y crianza
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Un embarazo adolescente implica riesgos físicos, porque el cuerpo aún se desarrolla; dificulta compatibilizar estudios y crianza, y requiere apoyo familiar y social. Sus consecuencias van más allá de lo biológico.
 
 7. *(Alternativas — aplicación)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no piense tener hijos ahora. ¿Qué respuesta le ayuda a comprenderlo?
@@ -356,11 +356,11 @@ investigación médica y en el desarrollo de algunas vacunas.
    **Retroalimentación:** Comparar el tipo de célula (procarionte/eucarionte) es la clave para diferenciar estructuralmente bacterias y hongos.
 
 6. *(Varias correctas — aplicación)* ¿Cuáles de estos ejemplos de efectos de microorganismos sobre la salud humana son **correctos**? Marca **todas** las correctas.
-   a) Bacterias: la flora intestinal ayuda a la digestión
-   b) Hongos: la penicilina combate infecciones
-   c) Virus: se usan en el desarrollo de vacunas
-   d) Bacterias: causan la gripe y el resfrío
-   **Respuesta correcta:** a, b y c.
+   a) Bacterias: causan la gripe y el resfrío
+   b) Bacterias: la flora intestinal ayuda a la digestión
+   c) Hongos: la penicilina combate infecciones
+   d) Virus: se usan en el desarrollo de vacunas
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** La gripe y el resfrío son causados por virus, no por bacterias. Los microorganismos no son "buenos" o "malos" en sí mismos: sus efectos dependen de la especie y del contexto.
 
 7. *(Alternativas — modelo)* ¿Cuál es el orden correcto de tamaño y complejidad estructural, de menor a mayor?
@@ -788,11 +788,11 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
    heterogénea.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas son **sustancias puras**? Marca **todas** las correctas.
-   a) Agua destilada
-   b) Agua con sal disuelta
-   c) Ensalada de frutas
-   d) Oxígeno puro
-   **Respuesta correcta:** a y d.
+   a) Oxígeno puro
+   b) Agua destilada
+   c) Agua con sal disuelta
+   d) Ensalada de frutas
+   **Respuesta correcta:** a y b.
    **Retroalimentación:** El agua con sal es una mezcla homogénea y la ensalada de frutas una mezcla heterogénea. El criterio es si hay un solo componente o, si hay varios, si se distinguen a simple vista.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre filtración y tamizado?

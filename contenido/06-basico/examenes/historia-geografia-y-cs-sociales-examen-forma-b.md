@@ -332,10 +332,10 @@ educación de todas las personas, sin importar su situación económica?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Construir hospitales y consultorios públicos con atención gratuita o subsidiada
-b) Construir escuelas públicas y entregar becas o alimentación escolar
-c) Cobrar más caro en los hospitales a quienes tienen menos recursos
-d) Cerrar las escuelas públicas de zonas aisladas
+a) Cobrar más caro en los hospitales a quienes tienen menos recursos
+b) Cerrar las escuelas públicas de zonas aisladas
+c) Construir hospitales y consultorios públicos con atención gratuita o subsidiada
+d) Construir escuelas públicas y entregar becas o alimentación escolar
 
 
 ---
@@ -406,7 +406,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 20 | Alternativas | b) La ley puede ser declarada inválida, ya que ninguna ley puede estar por sobre la Constitución. La Constitución es la ley más importante: si una ley la contradice, puede ser declarada inconstitucional (en Chile lo resuelve el Tribunal Constitucional). | OA 16 | Formación Ciudadana | 1 |
 | 21 | Alternativas | **a) Mayor riesgo de abusos de poder, arbitrariedades y desprotección de los derechos de las personas.** La Constitución limita el poder de las autoridades y protege los derechos; sin ella, aumentaría el riesgo de abusos y arbitrariedades. | OA 16 | Formación Ciudadana | 2 |
 | 22 | Alternativas | b) 1948. La Asamblea General de las Naciones Unidas adoptó la Declaración Universal de los Derechos Humanos el 10 de diciembre de 1948, después de la Segunda Guerra Mundial. | OA 17 | Formación Ciudadana | 1 |
-| 23 | Varias correctas | **a y b.** Las acciones válidas garantizan el derecho sin depender de la capacidad económica de las personas; cobrar más o cerrar escuelas lo restringe. | OA 17 | Formación Ciudadana | 2 |
+| 23 | Varias correctas | **c y d.** Las acciones válidas garantizan el derecho sin depender de la capacidad económica de las personas; cobrar más o cerrar escuelas lo restringe. | OA 17 | Formación Ciudadana | 2 |
 | 24 | Alternativas | a) El derecho a la libertad de expresión implica el deber de respetar la libertad de expresión de los demás, sin discriminar ni difamar. Tener derechos implica respetar los de los demás: puedo expresar mi opinión, pero sin insultar ni discriminar a otras personas. | OA 18 | Formación Ciudadana | 1 |
 | 25 | Alternativas | **d) El derecho al descanso y a un entorno limpio de unos vecinos tensiona con la recreación de otros; el equilibrio entre derechos y deberes permite la convivencia, y el Estado lo resguarda con normas como ordenanzas municipales.** El ejercicio de un derecho no puede pasar a llevar los derechos de los demás; las normas permiten hacer cumplir ese equilibrio. | OA 18 | Formación Ciudadana | 3 |
 

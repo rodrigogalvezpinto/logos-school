@@ -37,26 +37,26 @@ d) Núcleo
 
 **3. (Varias correctas — OA16)** Una región de Chile tiene minas, campos de cultivo, un río y viento fuerte. ¿Qué recursos de esa región pertenecen principalmente a la litósfera? (Varias correctas: marca todas las alternativas correctas.)
 
-a) El hierro de una mina
-b) El viento que mueve los molinos
-c) El agua del río
-d) La tierra de los campos de cultivo
+a) El agua del río
+b) La tierra de los campos de cultivo
+c) El hierro de una mina
+d) El viento que mueve los molinos
 
 **4. (Varias correctas — OA16)** ¿Qué funciones de la atmósfera son fundamentales para la vida en la Tierra?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Contiene el oxígeno que respiran los seres vivos
-b) Regula la temperatura del planeta
-c) Protege de la radiación solar dañina con la capa de ozono
-d) Forma las rocas del suelo
+a) Regula la temperatura del planeta
+b) Protege de la radiación solar dañina con la capa de ozono
+c) Forma las rocas del suelo
+d) Contiene el oxígeno que respiran los seres vivos
 
 **5. (Varias correctas — OA16)** Un curso hace una campaña para cuidar el suelo de su comuna. ¿Qué acciones protegen la litósfera? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Plantar árboles en cerros sin vegetación
-b) Reciclar para que lleguen menos residuos a los vertederos
-c) Echar aceite usado en la tierra del patio
-d) Hacer compost con restos de comida para nutrir el suelo
+a) Hacer compost con restos de comida para nutrir el suelo
+b) Plantar árboles en cerros sin vegetación
+c) Reciclar para que lleguen menos residuos a los vertederos
+d) Echar aceite usado en la tierra del patio
 
 **6. (Alternativas — OA16)** Un río recibe, sin tratamiento previo, los desechos de
 una fábrica cercana. ¿Cuál de las capas de la Tierra se ve directamente afectada?
@@ -98,10 +98,10 @@ d) Solo el viento formó el valle, soplando por la cordillera durante un inviern
 
 **12. (Varias correctas — OA18)** En un campo de la zona central hay cerros donde pastan muchas cabras y el suelo se está perdiendo. ¿Qué medidas ayudarían a frenar esa erosión? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Reducir la cantidad de animales que pastan en el mismo lugar
-b) Plantar arbustos nativos en las laderas
-c) Quitar toda la vegetación para que las cabras no se enreden
-d) Hacer terrazas en las laderas para frenar el agua de lluvia
+a) Hacer terrazas en las laderas para frenar el agua de lluvia
+b) Reducir la cantidad de animales que pastan en el mismo lugar
+c) Plantar arbustos nativos en las laderas
+d) Quitar toda la vegetación para que las cabras no se enreden
 
 ---
 
@@ -109,13 +109,13 @@ d) Hacer terrazas en las laderas para frenar el agua de lluvia
 
 1. **c.** La atmósfera es la capa de gases que rodea la Tierra; en ella ocurren los fenómenos del tiempo atmosférico.
 2. **Verdadero.** Las emisiones de fábricas y vehículos alteran la composición del aire.
-3. **a y d.** La litósfera es la capa sólida de la Tierra: allí están los minerales como el hierro y el suelo de cultivo. El viento pertenece a la atmósfera y el río a la hidrósfera.
-4. **a, b y c.** La atmósfera contiene el oxígeno que respiramos, regula la temperatura del planeta y, con la capa de ozono, nos protege de la radiación solar dañina. Las rocas y el suelo, en cambio, forman parte de la litósfera.
-5. **a, b y d.** Reforestar, reciclar y hacer compost cuidan el suelo; echar aceite lo contamina.
+3. **b y c.** La litósfera es la capa sólida de la Tierra: allí están los minerales como el hierro y el suelo de cultivo. El viento pertenece a la atmósfera y el río a la hidrósfera.
+4. **a, b y d.** La atmósfera contiene el oxígeno que respiramos, regula la temperatura del planeta y, con la capa de ozono, nos protege de la radiación solar dañina. Las rocas y el suelo, en cambio, forman parte de la litósfera.
+5. **a, b y c.** Reforestar, reciclar y hacer compost cuidan el suelo; echar aceite lo contamina.
 6. **c.** El vertido de desechos sin tratar afecta directamente a la hidrósfera.
 7. **b.** Las raíces de las plantas sujetan el suelo y lo protegen del agua y el viento.
 8. **Verdadero.** Sin vegetación que lo proteja, el suelo queda expuesto al viento y al agua.
 9. a) El agua. El agua en movimiento desgasta la roca y transporta los sedimentos.
 10. **d) Porque sin raíces que sujetaran el suelo, el agua lo arrastró con más facilidad.** Las raíces de las plantas sujetan el suelo; sin vegetación queda expuesto y el agua de lluvia se lo lleva: la erosión se acelera.
 11. **b) El río desgastó la roca y arrastró sedimentos durante miles o millones de años.** La erosión del agua es lenta: el río desgasta su cauce y transporta sedimentos durante muchísimo tiempo, y así va excavando el valle.
-12. **a, b y d.** Menos sobrepastoreo, más cubierta vegetal y terrazas protegen el suelo; quitar la vegetación lo deja expuesto y aumenta la erosión.
+12. **a, b y c.** Menos sobrepastoreo, más cubierta vegetal y terrazas protegen el suelo; quitar la vegetación lo deja expuesto y aumenta la erosión.

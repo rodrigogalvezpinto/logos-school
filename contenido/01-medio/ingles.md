@@ -638,11 +638,11 @@ conectores más complejos (*although, so that, both...and, and last*).
    **Retroalimentación:** *Who* se usa para personas y *which* para cosas.
 
 7. *(Varias correctas — Respuesta)* *"— How long have you and your best friend been friends? — ___"* Which answers are correct? Marca **todas** las correctas.
-   a) We have been friends for five years.
-   b) We have been friends since 2020.
-   c) We are friends since five years.
-   d) We have been friends for 2020.
-   **Respuesta correcta:** a y b.
+   a) We are friends since five years.
+   b) We have been friends for 2020.
+   c) We have been friends for five years.
+   d) We have been friends since 2020.
+   **Respuesta correcta:** c y d.
    **Retroalimentación:** Se usa presente perfecto + *for* + duración, o *since* + punto en el tiempo.
 
 8. *(Alternativas — Completar — desafiante)* Complete: *"___ she was tired, she kept studying ___ she could pass the exam."*

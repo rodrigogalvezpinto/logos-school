@@ -129,10 +129,10 @@ d) Para que los turistas no los encuentren
 **Pregunta 13.** (Varias correctas)
 ¿Qué instrumentos permiten estudiar el universo? Marca **todas** las correctas.
 
-a) Telescopios ópticos
-b) Radiotelescopios, como ALMA
-c) Telescopios espaciales
-d) Microscopios electrónicos
+a) Radiotelescopios, como ALMA
+b) Telescopios espaciales
+c) Microscopios electrónicos
+d) Telescopios ópticos
 
 ---
 
@@ -150,4 +150,4 @@ d) Microscopios electrónicos
 10. Falso — en un eclipse lunar, la Tierra se ubica entre el Sol y la Luna; cuando la Luna está entre el Sol y la Tierra, ocurre un eclipse solar.
 11. a) Es incorrecta: las fases dependen de cuánta parte iluminada de la Luna vemos según su posición; la sombra de la Tierra solo interviene en los eclipses.
 12. b) Para evitar la contaminación lumínica y aprovechar el aire seco y estable de la altura. La luz de las ciudades aclara el cielo nocturno y oculta los objetos débiles; en las cumbres del norte el aire es seco, limpio y estable, con muchas noches despejadas. Unos kilómetros de altura no acercan las estrellas.
-13. a, b y c — Todos estudian el universo; el microscopio electrónico observa objetos muy pequeños, no astronómicos.
+13. a, b y d — Todos estudian el universo; el microscopio electrónico observa objetos muy pequeños, no astronómicos.

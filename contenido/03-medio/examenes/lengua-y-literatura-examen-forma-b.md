@@ -169,10 +169,10 @@ d) Difundir los datos personales del troll
 
 **18. (Varias correctas)** Para formarse una opinión informada sobre el cierre, ¿qué evidencia del hilo es más sólida? Marca **todas** las correctas.
 
-a) Las fotos del letrero y la carta firmada por 410 vecinos
-b) El testimonio directo de @ex_bibliotecaria_rosa, que trabajó ahí veinte años
-c) El rumor de @anonimo_88
-d) La generalización de @troll_456
+a) El rumor de @anonimo_88
+b) La generalización de @troll_456
+c) Las fotos del letrero y la carta firmada por 410 vecinos
+d) El testimonio directo de @ex_bibliotecaria_rosa, que trabajó ahí veinte años
 
 ---
 
@@ -211,10 +211,10 @@ d) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cam
 
 **24. (Varias correctas)** ¿Qué acciones corresponden a la etapa de **planificación** del proceso de escritura? Marca **todas** las correctas.
 
-a) Definir el propósito y la audiencia del texto
-b) Revisar la ortografía del borrador terminado
-c) Elegir el género discursivo adecuado
-d) Ordenar las ideas principales en un esquema
+a) Revisar la ortografía del borrador terminado
+b) Elegir el género discursivo adecuado
+c) Ordenar las ideas principales en un esquema
+d) Definir el propósito y la audiencia del texto
 
 **25. (Alternativas — aplicación)** ¿Cuál es la mejor corrección de "Las temporeras trabajan muchas horas. Los exportadores dicen que generan empleo. Marisol trabaja con los pies mojados. En invierno no hay ingresos.", y qué relación muestran sus conectores?
 
@@ -256,13 +256,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 15 | **b)** La cuenta desmiente el rumor y protege a terceros de la exposición sin consentimiento, un problema ético frecuente en las redes. | OA N°4 — rol del enunciador ante la audiencia |
 | 16 | **b)** Razona por analogía: un caso parecido, en otra comuna, se resolvió con fotos, carta y firmas. | OA N°4 — modos de razonamiento |
 | 17 | **c)** Responder con el mismo tono o exponer datos personales agrava el problema; señalar que es una descalificación sin sustento devuelve la conversación al tema. | OA N°4 — postura ética fundamentada |
-| 18 | **a y b.** Lo verificable (fotos, carta con firmas) y el testimonio directo pesan más que el rumor o el prejuicio. | OA N°4 — calidad de la evidencia (integrada) |
+| 18 | **c y d.** Lo verificable (fotos, carta con firmas) y el testimonio directo pesan más que el rumor o el prejuicio. | OA N°4 — calidad de la evidencia (integrada) |
 | 19 | **b) Mantener la idea central, pero acortar el texto, usar un registro cercano y cerrar con un llamado a la acción.** Al pasar de ensayo a publicación en redes, se mantiene la idea central, pero cambia la forma: texto más breve, registro cercano y un llamado a la acción, adecuados al nuevo género y a la audiencia. | OA N°6 — adecuación al género |
 | 20 | **Falso.** La versión corregida es fruto del proceso de escritura: planificar según la audiencia, escribir y revisar la cohesión. Por eso se corrigió el borrador con errores. | OA N°6 — proceso de escritura |
 | 21 | **Falso.** Esa oración introduce un dato personal que no se conecta con el tema (la función de los humedales) e interrumpe la progresión entre la información y la conclusión. | OA N°6 — progresión temática |
 | 22 | **a)** El propósito, el género, la audiencia y las convenciones son coherentes entre sí y con el tema del reportaje. | OA N°6 — planificación (propósito, género, tema, audiencia) |
 | 23 | **d)** Adecuar no es simplificar: se conserva la interpretación central y cambian el registro, la extensión y los recursos. | OA N°6 — adecuación al género y a la audiencia |
-| 24 | **a, c y d.** Revisar la ortografía del borrador terminado corresponde a la etapa de revisión, no a la planificación. | OA N°6 — proceso de escritura (planificación) |
+| 24 | **b, c y d.** Revisar la ortografía del borrador terminado corresponde a la etapa de revisión, no a la planificación. | OA N°6 — proceso de escritura (planificación) |
 | 25 | **b)** "Sin embargo" contrasta la versión de los exportadores con la realidad de las temporeras, y "por ejemplo" introduce el caso de Marisol. | OA N°6 — cohesión (aplicación) |
 
 ### Distribución de preguntas por Objetivo de Aprendizaje

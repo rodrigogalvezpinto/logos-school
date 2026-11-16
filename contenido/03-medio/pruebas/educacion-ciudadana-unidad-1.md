@@ -55,10 +55,10 @@ d) La soberanía popular, porque es el gobierno, y no la ciudadanía, quien deci
 
 **Pregunta 5.** *(Varias correctas)* Un grupo de jóvenes de 18 años decide informarse sobre los candidatos a concejal, votar en la elección municipal y luego asistir a las sesiones públicas del concejo. ¿Por qué estas acciones fortalecen la democracia? Marca **todas** las correctas.
 
-a) Porque una ciudadanía informada elige mejor y puede pedir cuentas a sus autoridades
-b) Porque la participación hace que la soberanía popular se ejerza en la práctica, no solo en la ley
-c) Porque fiscalizar a las autoridades ayuda a prevenir abusos de poder
-d) Porque así el concejo municipal queda obligado a aprobar todo lo que esos jóvenes propongan
+a) Porque así el concejo municipal queda obligado a aprobar todo lo que esos jóvenes propongan
+b) Porque una ciudadanía informada elige mejor y puede pedir cuentas a sus autoridades
+c) Porque la participación hace que la soberanía popular se ejerza en la práctica, no solo en la ley
+d) Porque fiscalizar a las autoridades ayuda a prevenir abusos de poder
 
 ---
 
@@ -154,7 +154,7 @@ d) La soberanía popular; el precio del café se fija por plebiscito
 | 2 | **a)** Las libertades y los tribunales son necesarios, pero no suficientes: una democracia requiere todos sus atributos a la vez, incluidas elecciones periódicas. |
 | 3 | d) Las elecciones libres y periódicas son un atributo observable; las otras opciones describen fundamentos (dignidad, Derechos Humanos, soberanía popular). |
 | 4 | **d)** Si el gobierno filtra a los candidatos, la ciudadanía no puede optar entre alternativas reales: la soberanía popular queda vacía. |
-| 5 | **a, b y c.** La participación informada y la fiscalización sostienen la democracia; votar no obliga a la autoridad a aprobar todo lo que se le pide. |
+| 5 | **b, c y d.** La participación informada y la fiscalización sostienen la democracia; votar no obliga a la autoridad a aprobar todo lo que se le pide. |
 | 6 | a) El Ministerio Público (Fiscalía) dirige la investigación de los delitos y ejerce la acción penal. |
 | 7 | **b)** Un juicio de desalojo es una materia civil, no penal: corresponde a la Corporación de Asistencia Judicial. |
 | 8 | b) Las Cortes de Apelaciones revisan las decisiones de los tribunales inferiores. |

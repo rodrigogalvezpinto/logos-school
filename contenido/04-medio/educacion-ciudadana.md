@@ -274,12 +274,12 @@ d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando
 ---
 
 **8. (Varias correctas — análisis de caso)** Una comuna elige a su alcaldesa y concejales por votación cada cuatro años, y el municipio rinde cuenta de sus gastos ante un órgano autónomo. ¿Qué dimensiones de la institucionalidad democrática ilustra? Marca **todas** las correctas.
-a) La representación mediante elecciones periódicas
-b) El control o contrapeso del poder mediante la fiscalización
-c) La concentración del poder local en una sola persona
-d) La ausencia de normas para el gasto municipal
+a) La ausencia de normas para el gasto municipal
+b) La representación mediante elecciones periódicas
+c) El control o contrapeso del poder mediante la fiscalización
+d) La concentración del poder local en una sola persona
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **b y c**
 💬 *Retroalimentación:* Elegir autoridades no les otorga un poder ilimitado.
 
 ---
@@ -918,12 +918,12 @@ posturas.
 ---
 
 **6. (Varias correctas — análisis de caso)** Una empresa descarta sin justificación vinculada al cargo a postulantes mayores de 55 años. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
-a) Inclusión
-b) Igualdad de trato
-c) Solidaridad tributaria
-d) Soberanía popular
+a) Solidaridad tributaria
+b) Soberanía popular
+c) Inclusión
+d) Igualdad de trato
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **c y d**
 💬 *Retroalimentación:* La exclusión por edad, sin razón legítima vinculada al desempeño, es una barrera a la inclusión.
 
 ---
@@ -994,12 +994,12 @@ d) 1-B, 2-C, 3-A
 ---
 
 **12. (Varias correctas — análisis de caso)** Un municipio destina parte de su presupuesto a becas de alimentación y útiles para estudiantes de familias de escasos recursos. ¿Con qué valores se vincula? Marca **todas** las correctas.
-a) Solidaridad
-b) Igualdad de oportunidades
-c) Concentración de medios
-d) Microsegmentación
+a) Igualdad de oportunidades
+b) Concentración de medios
+c) Microsegmentación
+d) Solidaridad
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **a y d**
 💬 *Retroalimentación:* Las becas apoyan a quienes tienen menos recursos (solidaridad) y les permiten estudiar en condiciones más parejas que el resto (igualdad de oportunidades).
 
 ---
@@ -1027,12 +1027,12 @@ dignidad de las personas afectadas, que es un consenso democrático que no está
 ---
 
 **15. (Varias correctas — análisis de caso)** Trabajadoras organizan un sindicato para negociar sala cuna y horarios compatibles con el cuidado de hijos e hijas. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
-a) Participación, por la organización sindical para incidir en decisiones
-b) Equidad de género, porque busca reducir una carga de cuidado que ha recaído más sobre las mujeres
-c) Desinformación electoral
-d) Concentración de la propiedad de medios
+a) Concentración de la propiedad de medios
+b) Participación, por la organización sindical para incidir en decisiones
+c) Equidad de género, porque busca reducir una carga de cuidado que ha recaído más sobre las mujeres
+d) Desinformación electoral
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **b y c**
 💬 *Retroalimentación:* Se conecta la forma de participación con el contenido del desafío que se busca resolver.
 
 ---
@@ -1311,12 +1311,12 @@ d) Concentración de medios; podría mitigarse con regulación que promueva dive
 ---
 
 **13. (Varias correctas)** ¿Cuáles de estos son ejemplos de cómo las tecnologías de la información pueden fortalecer la participación más allá de las elecciones? Marca **todas** las correctas.
-a) Plataformas para enviar propuestas o comentar proyectos de ley
-b) Presupuestos participativos en línea
-c) Campañas digitales de firmas para exigir respuesta a un problema
-d) Difundir rumores sin verificar
+a) Difundir rumores sin verificar
+b) Plataformas para enviar propuestas o comentar proyectos de ley
+c) Presupuestos participativos en línea
+d) Campañas digitales de firmas para exigir respuesta a un problema
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* Difundir rumores no fortalece la participación, sino que la debilita.
 
 ---

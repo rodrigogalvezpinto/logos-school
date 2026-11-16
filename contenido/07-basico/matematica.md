@@ -308,12 +308,12 @@ d) 58% y 21.000 personas
 *Retroalimentación:* en una cuadrícula de 100 casillas, la cantidad coloreada equivale directamente al porcentaje (42%); el 50% de cualquier cantidad es su mitad: 42.000 ÷ 2 = 21.000.
 
 **Pregunta 7 (varias correctas — comparar estrategias).** ¿Cuáles de estas estrategias permiten calcular correctamente el 10% de $72.000? Marca **todas** las correctas.
-a) Dividir 72.000 por 10
-b) Multiplicar 72.000 por 0,1
-c) Multiplicar 72.000 por 10/100
-d) Restar 10 a 72.000
+a) Restar 10 a 72.000
+b) Dividir 72.000 por 10
+c) Multiplicar 72.000 por 0,1
+d) Multiplicar 72.000 por 10/100
 
-**Respuesta correcta: a, b y c.**
+**Respuesta correcta: b, c y d.**
 *Retroalimentación:* dividir por 10, multiplicar por 0,1 y multiplicar por 10/100 son equivalentes, porque 10% = 10/100 = 1/10 = 0,1; las tres dan $7.200. Restar 10 no calcula un porcentaje.
 
 **Pregunta 8 (alternativas — problema no rutinario).** Un producto de $60.000 subió un 15% y luego, sobre el nuevo precio, se aplicó un descuento del 15%. ¿Cuál es el precio final?

@@ -292,12 +292,12 @@ d) El control de la agenda
 ---
 
 **15. (Varias correctas)** ¿Cómo contribuye cumplir con las responsabilidades ciudadanas a sostener la democracia? Marca **todas** las correctas.
-a) Una ciudadanía informada puede participar efectivamente y fiscalizar el Estado de Derecho
-b) Respetar los derechos de los demás sostiene la igualdad y la dignidad como fundamentos vividos
-c) Sin ese ejercicio activo, la democracia se debilita aunque existan reglas formales
-d) Las responsabilidades ciudadanas no tienen relación con la democracia
+a) Respetar los derechos de los demás sostiene la igualdad y la dignidad como fundamentos vividos
+b) Sin ese ejercicio activo, la democracia se debilita aunque existan reglas formales
+c) Las responsabilidades ciudadanas no tienen relación con la democracia
+d) Una ciudadanía informada puede participar efectivamente y fiscalizar el Estado de Derecho
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, b y d**
 💬 *Retroalimentación:* Los fundamentos y atributos de la democracia no se sostienen solos.
 
 ---
@@ -426,12 +426,12 @@ d) Porque solo benefician a las empresas
 ---
 
 **6. (Varias correctas — caso actual)** ¿Qué ejemplos identifican correctamente una institución y su función en el acceso a la justicia? Marca **todas** las correctas.
-a) El SERNAC mediando o representando a consumidores afectados
-b) La Fiscalía investigando un delito y la Defensoría Penal defendiendo al imputado
-c) La CAJ representando gratuitamente en una causa de familia
-d) El Servicio de Impuestos Internos dictando sentencias penales
+a) El Servicio de Impuestos Internos dictando sentencias penales
+b) El SERNAC mediando o representando a consumidores afectados
+c) La Fiscalía investigando un delito y la Defensoría Penal defendiendo al imputado
+d) La CAJ representando gratuitamente en una causa de familia
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* Lo importante es nombrar correctamente la institución y su función específica; el SII no dicta sentencias.
 
 ---
@@ -646,12 +646,12 @@ d) 1-B, 2-A, 3-C
 ---
 
 **4. (Varias correctas — análisis de datos)** La carga tributaria de Chile ha sido históricamente más baja que el promedio OCDE. ¿Qué perspectivas pueden sostenerse a partir de este dato? Marca **todas** las correctas.
-a) Que una carga baja incentiva la inversión, el empleo y el crecimiento
-b) Que una carga baja limita la capacidad del Estado para financiar servicios y políticas redistributivas
-c) Que el dato demuestra que Chile no cobra ningún impuesto
-d) Que el dato no admite ninguna interpretación
+a) Que el dato no admite ninguna interpretación
+b) Que una carga baja incentiva la inversión, el empleo y el crecimiento
+c) Que una carga baja limita la capacidad del Estado para financiar servicios y políticas redistributivas
+d) Que el dato demuestra que Chile no cobra ningún impuesto
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **b y c**
 💬 *Retroalimentación:* El mismo dato admite lecturas distintas: para unos, una carga baja incentiva la inversión, el empleo y el crecimiento; para otros, limita los recursos del Estado para financiar servicios y políticas sociales.
 
 ---
@@ -884,12 +884,12 @@ d) 1-B, 2-A, 3-C
 ---
 
 **4. (Varias correctas — análisis de caso)** Un municipio niega la matrícula escolar a un niño migrante sin documentación regularizada. ¿Qué principios se vulneran? Marca **todas** las correctas.
-a) Universalidad
-b) No discriminación
-c) Soberanía popular
-d) Control de la agenda
+a) Soberanía popular
+b) Control de la agenda
+c) Universalidad
+d) No discriminación
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **c y d**
 💬 *Retroalimentación:* La titularidad de los Derechos Humanos no depende de la condición migratoria de la persona.
 
 ---
@@ -917,12 +917,12 @@ sobre otros temas.
 ---
 
 **7. (Varias correctas — caso actual)** ¿Qué parejas de caso y principio de los Derechos Humanos son correctas? Marca **todas** las correctas.
-a) Discriminación laboral por discapacidad: igualdad y no discriminación
-b) Desplazamiento forzado de una comunidad: indivisibilidad (vivienda, trabajo y salud a la vez)
-c) Una ley que obliga a renunciar a un derecho a cambio de dinero: inalienabilidad
-d) Un plebiscito con alta participación: violación de la universalidad
+a) Desplazamiento forzado de una comunidad: indivisibilidad (vivienda, trabajo y salud a la vez)
+b) Una ley que obliga a renunciar a un derecho a cambio de dinero: inalienabilidad
+c) Un plebiscito con alta participación: violación de la universalidad
+d) Discriminación laboral por discapacidad: igualdad y no discriminación
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, b y d**
 💬 *Retroalimentación:* Discriminar a alguien por su discapacidad vulnera la igualdad y no discriminación; desplazar a una comunidad afecta a la vez su vivienda, su trabajo y su salud, lo que muestra la indivisibilidad de los derechos.
 
 ---
@@ -1140,12 +1140,12 @@ d) Ninguna perspectiva
 ---
 
 **5. (Varias correctas — análisis de caso)** Jóvenes participan voluntariamente limpiando playas y ríos. ¿Con qué formas de participación se vincula este fenómeno? Marca **todas** las correctas.
-a) Organizaciones comunitarias y locales
-b) Informarse y emitir juicios y opiniones para generar conciencia pública
-c) Ejercer un cargo de elección popular
-d) Votar en una elección presidencial
+a) Votar en una elección presidencial
+b) Organizaciones comunitarias y locales
+c) Informarse y emitir juicios y opiniones para generar conciencia pública
+d) Ejercer un cargo de elección popular
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **b y c**
 💬 *Retroalimentación:* Limpiar playas y ríos con otros jóvenes es participar en una organización comunitaria; además, al hacerlo visible, se informa y se genera conciencia pública. El mismo fenómeno combina ambas formas.
 
 ---
@@ -1256,12 +1256,12 @@ d) Con ninguna perspectiva, porque no participar no tiene relación con el bien 
 ---
 
 **15. (Varias correctas — reflexión personal)** ¿Qué análisis vincula coherentemente un fenómeno social con una perspectiva sobre el bien común? Marca **todas** las correctas.
-a) Un movimiento estudiantil analizado como participación cívica activa, desde el republicanismo
-b) El activismo digital de una comunidad indígena analizado como expresión de una identidad compartida, desde el comunitarismo
-c) El voluntariado analizado como prohibición de participar, desde el republicanismo
-d) Un movimiento estudiantil analizado como rechazo a todos los derechos, desde el liberalismo
+a) Un movimiento estudiantil analizado como rechazo a todos los derechos, desde el liberalismo
+b) Un movimiento estudiantil analizado como participación cívica activa, desde el republicanismo
+c) El activismo digital de una comunidad indígena analizado como expresión de una identidad compartida, desde el comunitarismo
+d) El voluntariado analizado como prohibición de participar, desde el republicanismo
 
-✅ Respuesta correcta: **a y b**
+✅ Respuesta correcta: **b y c**
 💬 *Retroalimentación:* Un movimiento estudiantil es participación cívica activa, lo que calza con el republicanismo; el activismo digital de una comunidad indígena que defiende sus tradiciones calza con el comunitarismo. Cada análisis es coherente con su perspectiva.
 
 ---
@@ -1406,12 +1406,12 @@ y las comunidades del territorio donde se emplaza.
 ---
 
 **7. (Varias correctas — propuesta ciudadana)** Frente a la falta de áreas verdes en una comuna, ¿qué alternativas de acción ciudadana son concretas y viables? Marca **todas** las correctas.
-a) Organizar a los vecinos para solicitar formalmente una modificación del plan regulador
-b) Participar en una instancia de consulta ciudadana municipal
-c) Presentar una solicitud formal a la municipalidad
-d) Esperar que el problema se resuelva solo
+a) Presentar una solicitud formal a la municipalidad
+b) Esperar que el problema se resuelva solo
+c) Organizar a los vecinos para solicitar formalmente una modificación del plan regulador
+d) Participar en una instancia de consulta ciudadana municipal
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* Organizar a los vecinos para pedir una modificación del plan regulador, participar en una consulta municipal o presentar propuestas son acciones concretas que usan los mecanismos territoriales existentes.
 
 ---

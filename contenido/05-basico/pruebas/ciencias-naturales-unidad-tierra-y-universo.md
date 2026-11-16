@@ -32,17 +32,17 @@ d) Cerca del 75%
 
 **3.** ¿Qué afirmaciones sobre el agua dulce del planeta son correctas? (Varias correctas: marca todas las alternativas correctas.)
 
-a) La mayor parte del agua de la Tierra es dulce
-b) La mayor parte del agua dulce está congelada en glaciares y casquetes polares
-c) Una parte del agua dulce está bajo el suelo, como agua subterránea
-d) El agua dulce es escasa y hay que cuidarla
+a) El agua dulce es escasa y hay que cuidarla
+b) La mayor parte del agua de la Tierra es dulce
+c) La mayor parte del agua dulce está congelada en glaciares y casquetes polares
+d) Una parte del agua dulce está bajo el suelo, como agua subterránea
 
 **4.** ¿Cuáles de estos lugares de Chile tienen agua dulce? (Varias correctas: marca todas las alternativas correctas.)
 
-a) El lago Villarrica
-b) El río Biobío
-c) El mar frente a Antofagasta
-d) El glaciar Grey
+a) El glaciar Grey
+b) El lago Villarrica
+c) El río Biobío
+d) El mar frente a Antofagasta
 
 **5.** ¿Por qué se dice que el agua dulce es "relativamente escasa", a pesar
 de que gran parte del planeta está cubierto de agua?
@@ -89,8 +89,8 @@ d) Verter basura es positiva porque alimenta a los peces, y el área protegida e
 
 1. **c) Cerca del 3%.** Casi toda el agua del planeta es salada; solo una pequeña parte es dulce.
 2. **Verdadero.** La mayor parte del agua dulce del planeta está congelada en glaciares y casquetes polares.
-3. **b, c y d.** Casi toda el agua de la Tierra es salada (océanos); del poco de agua dulce que hay, la mayor parte está congelada y otra parte es subterránea, por eso hay que cuidarla.
-4. **a, b y d.** Los lagos, los ríos y los glaciares guardan agua dulce; el mar frente a Antofagasta es parte del océano Pacífico y tiene agua salada.
+3. **a, c y d.** Casi toda el agua de la Tierra es salada (océanos); del poco de agua dulce que hay, la mayor parte está congelada y otra parte es subterránea, por eso hay que cuidarla.
+4. **a, b y c.** Los lagos, los ríos y los glaciares guardan agua dulce; el mar frente a Antofagasta es parte del océano Pacífico y tiene agua salada.
 5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea. Cerca del 97 % del agua del planeta es salada (océanos). Del agua dulce, la mayor parte está congelada en glaciares o bajo tierra, así que la que podemos usar es muy poca.
 6. **b) Lavar autos en la orilla y dejar que el detergente caiga al agua.** El detergente contamina el agua y afecta a peces y plantas.
 7. **Verdadero.** Es un efecto positivo de la actividad humana sobre los cuerpos de agua.

@@ -47,11 +47,11 @@ d) Papas fritas
 
 **6.** Para el almuerzo, Martina puede elegir entre estos alimentos. ¿Cuáles tienen como aporte principal las proteínas? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Pescado
-b) Fideos
-c) Lentejas
-d) Manzana
-e) Papas cocidas
+a) Lentejas
+b) Manzana
+c) Papas cocidas
+d) Pescado
+e) Fideos
 
 **7.** ¿Qué órgano daña directamente el humo del cigarrillo al ser inhalado?
 a) Los riñones
@@ -63,10 +63,10 @@ d) Los huesos
 
 **9.** Un médico revisa a pacientes con estas enfermedades. ¿Cuáles afectan principalmente al sistema circulatorio? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Hipertensión (presión alta)
-b) Bronquitis
-c) Infarto al corazón
-d) Gastritis
+a) Bronquitis
+b) Infarto al corazón
+c) Gastritis
+d) Hipertensión (presión alta)
 
 **10.** ¿Cuál de los siguientes es un uso **beneficioso** de los microorganismos?
 a) El virus que causa el resfrío
@@ -78,10 +78,10 @@ d) El hongo que pudre la fruta
 
 **12.** ¿Cuáles de estos microorganismos ayudan a las personas? (Varias correctas: marca todas las alternativas correctas.)
 
-a) La levadura que hace subir el pan
-b) La bacteria que causa la caries
-c) Las bacterias que convierten la leche en yogur
-d) El virus del resfrío
+a) El virus del resfrío
+b) La levadura que hace subir el pan
+c) La bacteria que causa la caries
+d) Las bacterias que convierten la leche en yogur
 
 ---
 
@@ -92,10 +92,10 @@ d) El virus del resfrío
 3. **a) El órgano (el corazón).** Los niveles van de lo simple a lo complejo: célula → tejido → órgano → sistema → organismo. Después del tejido viene el órgano, en este caso el corazón.
 4. **b) Huevos, legumbres y pescado.** Son ricos en proteínas, que el cuerpo usa para construir y reparar tejidos.
 5. **Verdadero.** Son alimentos reguladores: aportan vitaminas, minerales y fibra.
-6. **a y c.** El pescado y las lentejas (una legumbre) aportan sobre todo proteínas; los fideos y las papas aportan carbohidratos, y la manzana, vitaminas y fibra.
+6. **a y d.** El pescado y las lentejas (una legumbre) aportan sobre todo proteínas; los fideos y las papas aportan carbohidratos, y la manzana, vitaminas y fibra.
 7. **c) Los pulmones.** El humo entra por las vías respiratorias y daña los pulmones; también afecta al corazón y los vasos sanguíneos.
 8. **Falso.** Los niños respiran el humo igual: son fumadores pasivos y pueden sufrir daños en su salud.
-9. **a y c.** La hipertensión y el infarto afectan al corazón y los vasos sanguíneos (sistema circulatorio); la bronquitis afecta al respiratorio y la gastritis al digestivo.
+9. **b y d.** La hipertensión y el infarto afectan al corazón y los vasos sanguíneos (sistema circulatorio); la bronquitis afecta al respiratorio y la gastritis al digestivo.
 10. **b) Las levaduras que permiten que suba la masa del pan.** Algunos microorganismos se usan para producir alimentos como el pan, el yogur y el queso.
 11. **Falso.** Muchas bacterias son beneficiosas, como las que ayudan a la digestión o las que se usan para hacer yogur.
-12. **a y c.** La levadura (un hongo) y las bacterias del yogur son beneficiosas porque nos ayudan a producir alimentos; la bacteria de la caries y el virus del resfrío causan enfermedades.
+12. **b y d.** La levadura (un hongo) y las bacterias del yogur son beneficiosas porque nos ayudan a producir alimentos; la bacteria de la caries y el virus del resfrío causan enfermedades.

@@ -110,10 +110,10 @@ d) My grandparents which house where countryside that summer every year.
 
 14. *(Varias correctas — Conectores)* Complete: *"Music is an important part of my identity. ___, it helps me express my feelings. ___, it connects me with people who share my tastes."* Which options are appropriate? Marca **todas** las correctas.
 
-a) Firstly / In addition
-b) First of all / Moreover
-c) However / Because
-d) Although / Unless
+a) Although / Unless
+b) Firstly / In addition
+c) First of all / Moreover
+d) However / Because
 
 ---
 
@@ -145,4 +145,4 @@ d) Although / Unless
 
 13. c) *That* y *where* introducen oraciones de relativo que agregan información sobre el lugar.
 
-14. a y b — Se esperan conectores que ordenen y sumen ideas para dar fluidez al párrafo.
+14. b y c — Se esperan conectores que ordenen y sumen ideas para dar fluidez al párrafo.

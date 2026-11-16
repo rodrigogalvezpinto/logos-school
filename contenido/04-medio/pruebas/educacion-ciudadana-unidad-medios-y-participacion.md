@@ -57,10 +57,10 @@ d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas d
 
 5. **(Varias correctas — análisis de caso)** Una ciudad debe decidir entre dos políticas para reducir las emisiones del transporte: (A) subsidiar la renovación de la flota de buses públicos con vehículos eléctricos, o (B) establecer un impuesto a los combustibles fósiles. ¿Qué afirmaciones comparan correctamente ambas políticas? Marca **todas** las correctas.
 
-a) (A) reduce directamente las emisiones del transporte público y puede mejorar el servicio, pero tiene un costo fiscal
-b) (B) crea un incentivo de precio que reduce el consumo de combustibles, pero puede encarecer el transporte privado o trasladar costos a las personas
-c) Ambas tienen efectos sobre el cambio climático y muestran tensiones entre las dimensiones económica, social y ambiental
-d) Solo (A) tiene relación con el cambio climático; (B) es una medida puramente recaudatoria sin efectos ambientales
+a) Solo (A) tiene relación con el cambio climático; (B) es una medida puramente recaudatoria sin efectos ambientales
+b) (A) reduce directamente las emisiones del transporte público y puede mejorar el servicio, pero tiene un costo fiscal
+c) (B) crea un incentivo de precio que reduce el consumo de combustibles, pero puede encarecer el transporte privado o trasladar costos a las personas
+d) Ambas tienen efectos sobre el cambio climático y muestran tensiones entre las dimensiones económica, social y ambiental
 
 ## Parte B — OA N°4: Derechos laborales (preguntas 6 a 10)
 
@@ -98,10 +98,10 @@ d) Solo un bono único al nacer el hijo, sin permiso postnatal ni protección de
 
 10. **(Varias correctas)** ¿Qué afirmaciones sobre la evolución de la protección laboral en Chile son correctas? Marca **todas** las correctas.
 
-a) El Código del Trabajo de 1931 fue el primer cuerpo sistemático de normas laborales
-b) El postnatal parental de 2011 y la reducción gradual de la jornada (42 h desde 2026, 40 h desde 2028) son hitos recientes
-c) Sindicatos, organizaciones de trabajadoras y movimientos sociales sostuvieron estas demandas hasta que se tradujeron en normas
-d) Todas las protecciones laborales fueron concedidas sin ninguna demanda social previa
+a) Sindicatos, organizaciones de trabajadoras y movimientos sociales sostuvieron estas demandas hasta que se tradujeron en normas
+b) Todas las protecciones laborales fueron concedidas sin ninguna demanda social previa
+c) El Código del Trabajo de 1931 fue el primer cuerpo sistemático de normas laborales
+d) El postnatal parental de 2011 y la reducción gradual de la jornada (42 h desde 2026, 40 h desde 2028) son hitos recientes
 
 ## Parte C — OA N°6: Medios, nuevas tecnologías y democracia (preguntas 11 a 15)
 
@@ -138,10 +138,10 @@ d) La libertad de prensa
 
 15. **(Varias correctas — reflexión)** Un video viral denuncia el mal estado de una plaza y logra que el municipio la repare, pero también expone datos personales de un vecino sin su consentimiento. ¿Qué afirmaciones analizan correctamente el caso? Marca **todas** las correctas.
 
-a) Ilustra una oportunidad democrática: visibilizar un problema y fiscalizar a la autoridad
-b) Ilustra un riesgo: la exposición de datos privados de una persona
-c) Una acción personal pertinente es verificar el contenido y no compartir datos ajenos antes de difundir
-d) Como el resultado fue bueno, el riesgo no importa
+a) Ilustra un riesgo: la exposición de datos privados de una persona
+b) Una acción personal pertinente es verificar el contenido y no compartir datos ajenos antes de difundir
+c) Como el resultado fue bueno, el riesgo no importa
+d) Ilustra una oportunidad democrática: visibilizar un problema y fiscalizar a la autoridad
 
 ---
 
@@ -157,7 +157,7 @@ social y ambiental; no es "cero actividad económica" ni "solo ambiente".
 
 4. **d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas del precio internacional del cobre y presiona los recursos naturales.** Una economía basada en exportar materias primas con poca elaboración es extractiva: si cae el precio internacional, caen los ingresos del país, y la extracción presiona el agua y los territorios.
 
-5. a, b y c — No hay una "respuesta política correcta": lo que se evalúa es la calidad de la comparación de efectos.
+5. b, c y d — No hay una "respuesta política correcta": lo que se evalúa es la calidad de la comparación de efectos.
 
 6. **c)** Por la asimetría de poder de la relación laboral. Las normas laborales fijan pisos
 mínimos —jornada, remuneración, seguridad, descanso— por debajo de los cuales no puede
@@ -172,7 +172,7 @@ tema.
 
 9. **a) Permiso postnatal, fuero maternal que protege su empleo y derecho a sala cuna financiada por el empleador.** La ley chilena contempla el permiso postnatal, el fuero maternal (no puede ser despedida sin autorización judicial) y la sala cuna en empresas con 20 o más trabajadoras.
 
-10. a, b y c — Los derechos laborales son resultado de procesos históricos en que la organización social tuvo un papel decisivo.
+10. a, c y d — Los derechos laborales son resultado de procesos históricos en que la organización social tuvo un papel decisivo.
 
 11. **b)** Que organizaciones sociales y vecinos puedan comunicar demandas e incidir en
 decisiones públicas sin depender de medios tradicionales. Las otras opciones describen riesgos
@@ -186,4 +186,4 @@ y del criterio crítico con que se consuman.
 
 14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de este OA.
 
-15. a, b y c — Una práctica grupal posible es acordar en el curso o la familia pautas de verificación y cuidado de datos antes de compartir contenido viral.
+15. a, b y d — Una práctica grupal posible es acordar en el curso o la familia pautas de verificación y cuidado de datos antes de compartir contenido viral.

@@ -89,10 +89,10 @@ d) who / where
 
 12. *(Varias correctas — Respuesta)* *"— How long have you studied English? — ___"* Which answers are correct? Marca **todas** las correctas.
 
-a) I have studied English for three years.
-b) I have studied English since 2022.
-c) I study English since three years.
-d) I have studied English for 2022.
+a) I have studied English for 2022.
+b) I have studied English for three years.
+c) I have studied English since 2022.
+d) I study English since three years.
 
 13. *(Alternativas — completar, desafiante)* Complete with the past simple: *"My aunt ___ in a bank for twenty years, but she ___ last year."* (work / leave)
 
@@ -134,7 +134,7 @@ d) make / summer
 
 11. b) who / which. *Who* se usa con personas; *which*, con cosas.
 
-12. a y b — *for* + duración y *since* + punto de inicio; c y d son incorrectas.
+12. b y c — *for* + duración y *since* + punto de inicio; c y d son incorrectas.
 
 13. a) worked / left. *Last year* exige pasado simple; *leave* es irregular: *left*.
 

@@ -217,10 +217,10 @@ d) $407 cada uno
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Viviendas muy aisladas, como el iglú
-b) Ropa abrigada de pieles
-c) Viviendas abiertas y elevadas del suelo
-d) Alimentación basada en caza y pesca
+a) Alimentación basada en caza y pesca
+b) Viviendas muy aisladas, como el iglú
+c) Ropa abrigada de pieles
+d) Viviendas abiertas y elevadas del suelo
 
 ---
 
@@ -301,7 +301,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Ciencias Naturales | **c) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** No incluye alimentos reguladores; consumirla con frecuencia puede ser perjudicial para la salud. | OA 6 |
 | 13 | Lenguaje y Comunicación | **c) "Una especie a proteger".** Esa sección explica que su rol ecológico (controlador de roedores) es clave para su conservación. | OA 6 |
 | 14 | Matemática | **a) $470 cada uno.** 2 350 ÷ 5 = 470 (comprobación: 5 × 470 = 2 350). | OA 10 |
-| 15 | Historia, Geografía y Cs. Sociales | **a, b y d.** Son estrategias de la zona fría; las viviendas abiertas y elevadas son propias de la zona cálida. | OA 8 |
+| 15 | Historia, Geografía y Cs. Sociales | **a, b y c.** Son estrategias de la zona fría; las viviendas abiertas y elevadas son propias de la zona cálida. | OA 8 |
 | 16 | Ciencias Naturales | **a) En el tono.** El tono indica si un sonido es agudo o grave; la intensidad indica si es fuerte o débil. | OA 10 |
 | 17 | Lenguaje y Comunicación | **b) Escribir cada idea en un párrafo distinto, separados por punto aparte.** Cada párrafo desarrolla una idea, y se separa del siguiente con punto aparte: así el lector distingue lo que pasó en la mañana de lo que pasó en la tarde. | OA 17 |
 | 18 | Matemática | **c) Pirámide de base cuadrada.** Al doblar los 4 triángulos hacia arriba, sus puntas se juntan sobre el cuadrado y forman una pirámide de base cuadrada. | OA 15 |

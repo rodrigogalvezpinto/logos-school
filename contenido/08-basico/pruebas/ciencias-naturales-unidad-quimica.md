@@ -101,10 +101,10 @@ El sodio y el potasio están en el mismo grupo de la tabla periódica, por eso r
 **Pregunta 10.** (Varias correctas — Clasificar)
 ¿Cuáles de estas propiedades son características de los **no metales**? Marca **todas** las correctas.
 
-a) Mala conductividad eléctrica
-b) Tendencia a aceptar o compartir electrones
-c) Brillo metálico
-d) Buena conductividad térmica
+a) Brillo metálico
+b) Buena conductividad térmica
+c) Mala conductividad eléctrica
+d) Tendencia a aceptar o compartir electrones
 
 **Pregunta 11.** (Alternativas)
 La sal de mesa (cloruro de sodio, NaCl) se forma entre un metal y un no metal. ¿Qué tipo de enlace tiene?
@@ -151,7 +151,7 @@ d) Metálico, porque el oxígeno es un metal
 7. a) Es poco precisa: los modelos científicos se perfeccionan con nueva evidencia.
 8. b) Que tiene 6 protones en su núcleo. El número atómico (Z) es la cantidad de protones.
 9. Verdadero — los elementos de un mismo grupo tienen propiedades químicas similares.
-10. a y b — El brillo y la buena conductividad térmica son propiedades de los metales.
+10. c y d — El brillo y la buena conductividad térmica son propiedades de los metales.
 11. d) Iónico: el sodio (metal) cede un electrón y el cloro (no metal) lo acepta.
 12. b) Tenderá a ceder electrones, como los demás metales alcalinos.
 13. c) El hierro conduce bien la electricidad y el calor; el azufre conduce mal y es quebradizo. Los metales, como el hierro, conducen bien la electricidad y el calor; los no metales, como el azufre, conducen mal y suelen ser frágiles. Ambos son sólidos a temperatura ambiente.

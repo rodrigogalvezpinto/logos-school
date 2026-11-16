@@ -97,10 +97,10 @@ d) Del día 26 al día 28
 
 **7.** *(Varias correctas, 2 puntos)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no esté pensando en tener hijos ahora. ¿Qué razones son correctas? Marca **todas** las correctas.
 
-a) Permite tomar decisiones informadas y responsables sobre la propia salud sexual y reproductiva
-b) Ayuda a prevenir embarazos no planificados
-c) Favorece el autocuidado y la comprensión del propio cuerpo y el de la pareja
-d) Solo es necesario conocerlos cuando se es adulto y se quiere tener hijos
+a) Favorece el autocuidado y la comprensión del propio cuerpo y el de la pareja
+b) Solo es necesario conocerlos cuando se es adulto y se quiere tener hijos
+c) Permite tomar decisiones informadas y responsables sobre la propia salud sexual y reproductiva
+d) Ayuda a prevenir embarazos no planificados
 
 **8.** *(Alternativas, 3 puntos)* ¿En qué se diferencian el mecanismo de acción del preservativo y el de la píldora anticonceptiva?
 
@@ -258,10 +258,10 @@ d) Filtración
 
 **25.** *(Varias correctas, 3 puntos)* ¿Cuáles son ejemplos de procedimientos de separación de mezclas en procesos industriales relevantes para Chile? Marca **todas** las correctas.
 
-a) En la minería del cobre se usan procesos de separación para extraer el mineral de la roca
-b) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar impurezas
-c) En la producción de sal de mar se evapora el agua en salinas
-d) En la minería se mezcla el cobre con arena para aumentar su peso
+a) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar impurezas
+b) En la producción de sal de mar se evapora el agua en salinas
+c) En la minería se mezcla el cobre con arena para aumentar su peso
+d) En la minería del cobre se usan procesos de separación para extraer el mineral de la roca
 
 ---
 
@@ -285,7 +285,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Alternativas | **a) Hombres: crecimiento de testículos y pene, cambio de voz. Mujeres: desarrollo de mamas, inicio de la menstruación.** Ambos cambios ocurren por la acción de hormonas sexuales (testosterona y estrógeno, respectivamente). | OA 1 |
 | 5 | Alternativas | b) Preservativo. El preservativo es una barrera física que impide el paso de los espermatozoides; la píldora es un método hormonal y el control del ciclo, un método natural. | OA 2 |
 | 6 | Alternativas | a) Del día 11 al día 16. En un ciclo de 28 días, la ovulación ocurre cerca del día 14; los días fértiles son los cercanos a ella, aproximadamente del 11 al 16. | OA 2 |
-| 7 | Varias correctas | **a, b y c.** Conocer estos procesos es parte del autocuidado desde la adolescencia; no es un conocimiento reservado a quienes buscan tener hijos. | OA 2 |
+| 7 | Varias correctas | **a, c y d.** Conocer estos procesos es parte del autocuidado desde la adolescencia; no es un conocimiento reservado a quienes buscan tener hijos. | OA 2 |
 | 8 | Alternativas | **d) El preservativo es un método de barrera que impide el contacto entre espermatozoide y ovocito; la píldora es un método hormonal que impide la ovulación.** Uno actúa bloqueando el contacto y el otro alterando el ciclo hormonal, de modo que no hay ovocito disponible para ser fecundado. | OA 2 |
 | 9 | Alternativas | c) *Penicillium*. Penicillium es un hongo (del que se obtiene la penicilina); E. coli es una bacteria y la influenza es causada por un virus. | OA 5 |
 | 10 | Alternativas | d) Producción de penicilina. Del hongo Penicillium se obtiene la penicilina, un antibiótico que salvó millones de vidas. El pie de atleta es una infección por hongos; la gripe es viral y la tuberculosis, bacteriana. | OA 5 |
@@ -303,7 +303,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 22 | Alternativas | c) Sustancia pura. El agua destilada tiene un solo componente, el agua, sin sales ni otras sustancias disueltas: es una sustancia pura. | OA 14 |
 | 23 | Alternativas | b) Sus componentes están distribuidos de manera uniforme y no se distinguen a simple vista. En una mezcla homogénea, como el agua con sal, los componentes están repartidos de manera uniforme y no se distinguen a simple vista, aunque se pueden separar, por ejemplo, evaporando el agua. | OA 14 |
 | 24 | Alternativas | **d) Filtración.** El papel filtro retiene las partículas sólidas (arena) y deja pasar el líquido. | OA 14 |
-| 25 | Varias correctas | **a, b y c.** Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas. | OA 14 |
+| 25 | Varias correctas | **a, b y d.** Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas. | OA 14 |
 
 
 # PUNTAJE Y VERSIÓN ANTERIOR

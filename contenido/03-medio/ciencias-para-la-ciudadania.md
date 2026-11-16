@@ -151,11 +151,11 @@ social y ambiental (una definición cercana a la de la OMS).
    **Retroalimentación:** Una persona sin enfermedades puede no estar bien si sufre problemas emocionales, conflictos de convivencia o vive en un ambiente dañino. Por eso la salud incluye lo físico, lo psíquico, lo social y lo ambiental.
 
 6. *(Varias correctas — Evaluación de evidencia)* Un titular dice: "Estudio revela que comer una fruta exótica cura el estrés en 24 horas", sin fuente ni número de participantes. ¿Qué conviene evaluar antes de creerlo? Marca **todas** las correctas.
-   a) Si hay una fuente científica verificable
-   b) El tamaño y el diseño de la muestra
-   c) Si existen conflictos de interés, como que lo publique quien vende la fruta
-   d) Cuántos "me gusta" tiene la publicación
-   **Respuesta correcta:** a, b y c.
+   a) Cuántos "me gusta" tiene la publicación
+   b) Si hay una fuente científica verificable
+   c) El tamaño y el diseño de la muestra
+   d) Si existen conflictos de interés, como que lo publique quien vende la fruta
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Un resultado "milagroso" sin fuente es una señal de alerta; la popularidad no es evidencia.
 
 7. *(Alternativas)* Relacionar el comportamiento personal con la salud
@@ -211,19 +211,19 @@ social y ambiental (una definición cercana a la de la OMS).
     dimensiones física, psíquica y social de la salud de forma integrada.
 
 12. *(Varias correctas — Análisis de caso)* En una fiesta escolar, estudiantes consumen alcohol en exceso y algunos prueban otras drogas "por curiosidad". ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
-    a) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
-    b) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
-    c) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
-    d) Probar "solo por curiosidad" elimina todo riesgo
-    **Respuesta correcta:** a, b y c.
+    a) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
+    b) Probar "solo por curiosidad" elimina todo riesgo
+    c) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
+    d) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
+    **Respuesta correcta:** a, c y d.
     **Retroalimentación:** Relacionar la conducta personal con factores biológicos y sociales no elimina la responsabilidad individual.
 
 13. *(Varias correctas — Evaluación de evidencia)* Un suplemento afirma: "Reduce el estrés en un 90%, comprobado científicamente", pero el estudio lo financió la misma empresa y participaron 12 personas. ¿Qué problemas tiene esta evidencia? Marca **todas** las correctas.
-    a) Conflicto de interés
-    b) Muestra muy pequeña para generalizar
-    c) Falta de grupo control o de revisión independiente
-    d) Ninguno, porque dice "comprobado científicamente"
-    **Respuesta correcta:** a, b y c.
+    a) Muestra muy pequeña para generalizar
+    b) Falta de grupo control o de revisión independiente
+    c) Ninguno, porque dice "comprobado científicamente"
+    d) Conflicto de interés
+    **Respuesta correcta:** a, b y d.
     **Retroalimentación:** Decir "comprobado científicamente" no reemplaza una evidencia independiente y suficiente.
 
 14. *(Alternativas)* ¿Por qué un mismo patógeno respiratorio puede considerarse factor ambiental y también biológico?
@@ -337,11 +337,11 @@ recientes).
    **Retroalimentación:** La inmunidad de rebaño del sarampión requiere una cobertura cercana al 95%.
 
 4. *(Varias correctas — Evaluación de evidencia)* Un video viral asegura que "las vacunas causan más enfermedades de las que previenen" sin citar estudios. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
-   a) Buscar estudios revisados por pares
-   b) Verificar qué dicen organismos reconocidos como la OMS, el MINSAL o el ISP
-   c) Comparar con estadísticas oficiales de casos antes y después de cada vacuna
-   d) Confiar en el video si tiene muchas visualizaciones
-   **Respuesta correcta:** a, b y c.
+   a) Confiar en el video si tiene muchas visualizaciones
+   b) Buscar estudios revisados por pares
+   c) Verificar qué dicen organismos reconocidos como la OMS, el MINSAL o el ISP
+   d) Comparar con estadísticas oficiales de casos antes y después de cada vacuna
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** No se trata de creer o no creer, sino de verificar con fuentes confiables.
 
 5. *(Alternativas)* Una práctica de higiene simple que ayuda a prevenir la
@@ -536,11 +536,11 @@ para proteger tanto a las personas como al ambiente.
    toxicidad, por ejemplo daño hepático en el caso del paracetamol.
 
 3. *(Varias correctas — Análisis de etiqueta)* Un plaguicida muestra el símbolo de calavera con tibias cruzadas y la palabra "tóxico". ¿Qué medidas de seguridad corresponden? Marca **todas** las correctas.
-   a) Manipular con guantes y protección, sin comer ni fumar
-   b) Almacenar en su envase original, etiquetado y fuera del alcance de niños
-   c) Eliminar en un punto de recolección autorizado, nunca por el desagüe
-   d) Trasvasijarlo a una botella de bebida para usarlo mejor
-   **Respuesta correcta:** a, b y c.
+   a) Trasvasijarlo a una botella de bebida para usarlo mejor
+   b) Manipular con guantes y protección, sin comer ni fumar
+   c) Almacenar en su envase original, etiquetado y fuera del alcance de niños
+   d) Eliminar en un punto de recolección autorizado, nunca por el desagüe
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** El símbolo exige precauciones en el uso, el almacenaje y la eliminación.
 
 4. *(Alternativas)* La composición de un detergente doméstico es relevante
@@ -748,11 +748,11 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    controladas o intencionalidad.
 
 3. *(Varias correctas — Análisis de caso)* Un comité comunal decide no construir viviendas en una quebrada con aluviones pasados, aunque eso reduce el terreno para viviendas sociales. ¿Cómo se clasifica la medida? Marca **todas** las correctas.
-   a) Prevención: evita exponer a la población a la amenaza
-   b) Adaptación: ajusta la planificación urbana de largo plazo al riesgo
-   c) Respuesta a la emergencia durante un aluvión
-   d) Reconstrucción posterior a un desastre
-   **Respuesta correcta:** a y b.
+   a) Respuesta a la emergencia durante un aluvión
+   b) Reconstrucción posterior a un desastre
+   c) Prevención: evita exponer a la población a la amenaza
+   d) Adaptación: ajusta la planificación urbana de largo plazo al riesgo
+   **Respuesta correcta:** c y d.
    **Retroalimentación:** Las decisiones de planificación de largo plazo suelen combinar prevención y adaptación; lo importante es justificar con el concepto correcto.
 
 4. *(Alternativas — Evaluación de evidencia)* ¿Por qué es más confiable evacuar según el modelo de inundación por tsunami del SHOA que según la experiencia de "el tsunami de mis abuelos no llegó tan lejos"?
@@ -775,11 +775,11 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    daños (heridos, pánico) cuando el evento ocurre: es mitigación.
 
 6. *(Varias correctas)* Al evaluar las capacidades de un colegio frente a un sismo, ¿qué elementos son pertinentes de analizar? Marca **todas** las correctas.
-   a) Señalización de vías de evacuación y frecuencia de simulacros
-   b) Existencia de un plan de emergencia escolar y estado de la infraestructura
-   c) Coordinación con organismos como SENAPRED o Bomberos
-   d) El color del uniforme escolar
-   **Respuesta correcta:** a, b y c.
+   a) Existencia de un plan de emergencia escolar y estado de la infraestructura
+   b) Coordinación con organismos como SENAPRED o Bomberos
+   c) El color del uniforme escolar
+   d) Señalización de vías de evacuación y frecuencia de simulacros
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** Para evaluar la preparación del colegio frente a un sismo importa ver la señalización y los simulacros, el plan de emergencia, el estado de la infraestructura y la coordinación con la comunidad y los servicios de emergencia.
 
 7. *(Verdadero o falso)* La deforestación de laderas puede aumentar el
@@ -791,11 +791,11 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    agrava riesgos de origen natural como aluviones o inundaciones.
 
 8. *(Varias correctas — Análisis de caso)* Tras una erupción menor, SERNAGEOMIN eleva la alerta a naranja y restringe el acceso a varios kilómetros; agricultores se oponen porque perderían su cosecha. ¿Qué dimensiones de la controversia son pertinentes? Marca **todas** las correctas.
-   a) Económica: pérdidas reales para los agricultores
-   b) Ética y social: equilibrar el derecho a la vida con el impacto económico, posiblemente compensando a los afectados
-   c) Ambiental: la evolución del riesgo volcánico puede ser impredecible
-   d) Deportiva: el volcán impide practicar deportes
-   **Respuesta correcta:** a, b y c.
+   a) Deportiva: el volcán impide practicar deportes
+   b) Económica: pérdidas reales para los agricultores
+   c) Ética y social: equilibrar el derecho a la vida con el impacto económico, posiblemente compensando a los afectados
+   d) Ambiental: la evolución del riesgo volcánico puede ser impredecible
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** La controversia tiene una dimensión económica (los agricultores pierden su cosecha) y una ética y social (proteger la vida frente al daño económico, por ejemplo con compensaciones). Analizarla exige considerar ambas.
 
 9. *(Alternativas)* El diseño de nuevos edificios según la Norma Sísmica

@@ -348,12 +348,12 @@ d) No tiene ninguna relación con el relato: el Día de las Ánimas aparece solo
 
 **4. (Varias correctas — Aplicación)** ¿Qué citas sustentan que el relato no busca resolver si las ánimas existen, sino mostrar el sentido de la costumbre en la duda? Marca **todas** las correctas.
 
-a) "No sé si vuelven como uno cree cuando es chico, con cuerpo y todo. Pero algo vuelve"
-b) "Seguramente fue solo cansancio", dicho mientras la narradora apaga la vela más tarde de lo habitual
-c) Cualquier frase que mencione la cocina
-d) El título del relato, por sí solo
+a) El título del relato, por sí solo
+b) "No sé si vuelven como uno cree cuando es chico, con cuerpo y todo. Pero algo vuelve"
+c) "Seguramente fue solo cansancio", dicho mientras la narradora apaga la vela más tarde de lo habitual
+d) Cualquier frase que mencione la cocina
 
-*Respuesta correcta: a y b.* Retroalimentación: Las citas elegidas muestran la duda: «algo vuelve», sin afirmar cómo, y «seguramente fue solo cansancio», dicho mientras la narradora mantiene la costumbre. Por eso respaldan que el relato no resuelve si las ánimas existen.
+*Respuesta correcta: b y c.* Retroalimentación: Las citas elegidas muestran la duda: «algo vuelve», sin afirmar cómo, y «seguramente fue solo cansancio», dicho mientras la narradora mantiene la costumbre. Por eso respaldan que el relato no resuelve si las ánimas existen.
 
 **5. (Alternativas)** ¿Con qué proceso del contexto histórico chileno del siglo XX se relaciona directamente el microcuento?
 

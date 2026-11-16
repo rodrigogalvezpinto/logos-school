@@ -289,11 +289,11 @@ funcionan como redes de relaciones interdependientes.
    **Retroalimentación:** Sin depredación, la presa crece sin control y consume más vegetación: la pérdida de un depredador altera indirectamente otros niveles.
 
 7. *(Varias correctas — Aplicación)* En la costa chilena, ¿qué parejas de ejemplo e interacción son correctas? Marca **todas** las correctas.
-   a) Gaviota que caza pequeños peces: depredación
-   b) Lapas que compiten por espacio en las rocas: competencia
-   c) Gaviota que caza peces: mutualismo
-   d) Lapas que compiten por espacio: comensalismo
-   **Respuesta correcta:** a y b.
+   a) Lapas que compiten por espacio: comensalismo
+   b) Gaviota que caza pequeños peces: depredación
+   c) Lapas que compiten por espacio en las rocas: competencia
+   d) Gaviota que caza peces: mutualismo
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** La gaviota caza y se come a los peces: es depredación. Las lapas se disputan el espacio en las rocas, que es un recurso limitado: es competencia.
 
 ---
@@ -510,12 +510,12 @@ interconectados.
    más fértiles.
 
 3. *(Varias correctas — Clasificar)* ¿Cuáles de estos son **acciones humanas** (no fenómenos naturales)? Marca **todas** las correctas.
-   a) Forestación
-   b) Deforestación para cultivos
-   c) Creación de un área silvestre protegida
-   d) Sequía prolongada
-   e) Erupción volcánica
-   **Respuesta correcta:** a, b y c.
+   a) Erupción volcánica
+   b) Forestación
+   c) Deforestación para cultivos
+   d) Creación de un área silvestre protegida
+   e) Sequía prolongada
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** La forestación, la deforestación para cultivar y la creación de un área protegida son decisiones de las personas, por eso son acciones humanas; los otros cambios ocurren por procesos de la naturaleza.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre un recurso natural renovable y uno no renovable?
@@ -527,11 +527,11 @@ interconectados.
    **Retroalimentación:** Que un recurso sea renovable no significa que sea inagotable: si se extrae más rápido de lo que se regenera, también puede agotarse.
 
 5. *(Varias correctas — Análisis)* ¿Qué implicancias puede tener deforestar un bosque nativo para habilitar cultivos? Marca **todas** las correctas.
-   a) Ambientales: pérdida de biodiversidad y liberación de carbono almacenado
-   b) Económicas: ingresos a corto plazo, pero pérdida de servicios ecosistémicos a largo plazo
-   c) Sociales: afectar a comunidades que dependían del bosque
-   d) Ninguna, porque los bosques se regeneran de inmediato
-   **Respuesta correcta:** a, b y c.
+   a) Sociales: afectar a comunidades que dependían del bosque
+   b) Ninguna, porque los bosques se regeneran de inmediato
+   c) Ambientales: pérdida de biodiversidad y liberación de carbono almacenado
+   d) Económicas: ingresos a corto plazo, pero pérdida de servicios ecosistémicos a largo plazo
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Evaluar una acción desde sus dimensiones ambiental, económica y social es central para el desarrollo sustentable.
 
 6. *(Alternativas — Evaluación)* Frente a sequías prolongadas, se propone construir embalses para almacenar agua de la temporada de lluvias. ¿Qué evaluación es correcta?
@@ -543,11 +543,11 @@ interconectados.
    **Retroalimentación:** Evaluar una medida de adaptación implica considerar beneficios, limitaciones y efectos secundarios.
 
 7. *(Varias correctas — Propuesta)* ¿Qué acciones contribuyen al desarrollo sustentable en una ciudad chilena? Marca **todas** las correctas.
-   a) Aumentar las áreas verdes urbanas
-   b) Fomentar el transporte público o la bicicleta en vez del auto particular
-   c) Reemplazar plazas por estacionamientos
-   d) Aumentar el uso de leña húmeda para calefacción
-   **Respuesta correcta:** a y b.
+   a) Fomentar el transporte público o la bicicleta en vez del auto particular
+   b) Reemplazar plazas por estacionamientos
+   c) Aumentar el uso de leña húmeda para calefacción
+   d) Aumentar las áreas verdes urbanas
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** Las áreas verdes y el transporte sustentable benefician al ambiente y a la salud; menos áreas verdes y más leña húmeda empeoran la calidad del aire.
 
 ---
@@ -804,11 +804,11 @@ iluminación.
    **Retroalimentación:** El efecto Doppler es una herramienta fundamental de la astronomía moderna.
 
 7. *(Varias correctas — Comparación)* Sobre el efecto Doppler en el sonido y en la luz, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
-   a) En ambos, el movimiento relativo entre fuente y observador cambia la frecuencia percibida
-   b) En el sonido, una fuente que se acerca se oye más aguda
-   c) En la luz, un astro que se aleja muestra corrimiento al rojo
-   d) El sonido, igual que la luz, puede propagarse en el vacío
-   **Respuesta correcta:** a, b y c.
+   a) El sonido, igual que la luz, puede propagarse en el vacío
+   b) En ambos, el movimiento relativo entre fuente y observador cambia la frecuencia percibida
+   c) En el sonido, una fuente que se acerca se oye más aguda
+   d) En la luz, un astro que se aleja muestra corrimiento al rojo
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Una diferencia clave es que el sonido necesita un medio material, mientras la luz puede propagarse en el vacío.
 
 8. *(Alternativas — Sombras)* ¿Por qué se forma la sombra de una persona en un día soleado?
@@ -1043,19 +1043,19 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    luz visible.
 
 3. *(Varias correctas — Clasificar)* ¿Cuáles de estos instrumentos se usan principalmente a nivel **profesional**? Marca **todas** las correctas.
-   a) Gran telescopio óptico de un observatorio
-   b) Radiotelescopio
-   c) Prismáticos
-   d) Telescopio de aficionado
-   **Respuesta correcta:** a y b.
+   a) Telescopio de aficionado
+   b) Gran telescopio óptico de un observatorio
+   c) Radiotelescopio
+   d) Prismáticos
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** La astronomía se practica desde la observación amateur con instrumentos simples hasta la investigación profesional con infraestructura de gran escala.
 
 4. *(Varias correctas)* ¿Qué información puede obtenerse del análisis de la luz de una estrella o galaxia? Marca **todas** las correctas.
-   a) Su composición química (líneas espectrales)
-   b) Su temperatura
-   c) Si se aleja o se acerca (efecto Doppler)
-   d) El nombre que le dieron sus descubridores
-   **Respuesta correcta:** a, b y c.
+   a) Si se aleja o se acerca (efecto Doppler)
+   b) El nombre que le dieron sus descubridores
+   c) Su composición química (líneas espectrales)
+   d) Su temperatura
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Las líneas del espectro revelan qué elementos químicos tiene un astro, el color de su luz indica su temperatura y el corrimiento de esas líneas (efecto Doppler) muestra si se aleja o se acerca.
 
 5. *(Alternativas — Análisis)* ¿Por qué los observatorios del norte de Chile son una oportunidad y un desafío a la vez?
@@ -1296,11 +1296,11 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
    lo que sí varía entre sustancias es la masa que corresponde a un mol.
 
 3. *(Varias correctas — Verificar)* ¿Cuáles de estas ecuaciones están correctamente balanceadas? Marca **todas** las correctas.
-   a) 2H₂ + O₂ → 2H₂O
-   b) N₂ + 3H₂ → 2NH₃
-   c) H₂ + O₂ → H₂O
-   d) N₂ + H₂ → NH₃
-   **Respuesta correcta:** a y b.
+   a) N₂ + 3H₂ → 2NH₃
+   b) H₂ + O₂ → H₂O
+   c) N₂ + H₂ → NH₃
+   d) 2H₂ + O₂ → 2H₂O
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** Se cuentan los átomos de cada elemento a ambos lados: H₂ + O₂ → H₂O tiene 2 oxígenos a la izquierda y 1 a la derecha.
 
 4. *(Alternativas)* ¿Por qué es necesario balancear una ecuación antes de hacer cálculos estequiométricos?

@@ -113,12 +113,12 @@ llamado ciclo de Calvin), aporte por el cual recibió el Premio Nobel de Químic
    cianobacterias, también son organismos fotosintéticos.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos elementos son **necesarios** para la fotosíntesis (reactivos)? Marca **todas** las correctas.
-   a) Agua
-   b) Azúcar
-   c) Dióxido de carbono
-   d) Oxígeno
-   e) Energía lumínica
-   **Respuesta correcta:** a, c y e.
+   a) Dióxido de carbono
+   b) Oxígeno
+   c) Energía lumínica
+   d) Agua
+   e) Azúcar
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** La fotosíntesis transforma los elementos necesarios (agua, dióxido de carbono y energía lumínica) en nuevos productos: azúcar (alimento) y oxígeno (liberado al aire).
 
 4. *(Alternativas)* ¿Por qué la fotosíntesis es importante no solo para la planta, sino también para otros seres vivos?
@@ -308,19 +308,19 @@ esa variación es completamente normal.
    otra, y esa variación es normal.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos cambios de la pubertad son **comunes a ambos sexos**? Marca **todas** las correctas.
-   a) Acné
-   b) Menarquia
-   c) Crecimiento de vello facial
-   d) Estirón de crecimiento
-   **Respuesta correcta:** a y d.
+   a) Estirón de crecimiento
+   b) Acné
+   c) Menarquia
+   d) Crecimiento de vello facial
+   **Respuesta correcta:** a y b.
    **Retroalimentación:** Acné y estirón ocurren en ambos sexos; la menarquia (primera menstruación) es exclusiva de las mujeres y el vello facial abundante es propio de los hombres, según las hormonas involucradas.
 
 4. *(Varias correctas)* ¿Cuáles de estos son cambios **conductuales** frecuentes durante la pubertad? Marca **todas** las correctas.
-   a) Mayor variabilidad emocional (cambios de ánimo más marcados)
-   b) Mayor necesidad de independencia
-   c) Crecimiento de las mamas
-   d) Cambio de la voz
-   **Respuesta correcta:** a y b.
+   a) Cambio de la voz
+   b) Mayor variabilidad emocional (cambios de ánimo más marcados)
+   c) Mayor necesidad de independencia
+   d) Crecimiento de las mamas
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** Los cambios de ánimo y la necesidad de independencia son conductuales; el desarrollo de las mamas y el cambio de voz son cambios biológicos. Todos son parte normal del desarrollo.
 
 5. *(Alternativas — comparar)* ¿Qué comparación entre un cambio biológico de las mujeres y uno de los hombres en la pubertad es **correcta**?
@@ -399,12 +399,12 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
    cuidadoso que en la niñez.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas prácticas son **hábitos de higiene**? Marca **todas** las correctas.
-   a) Ducharse a diario
-   b) Entrenar en un club deportivo
-   c) Usar desodorante
-   d) Salir a trotar
-   e) Lavarse el rostro
-   **Respuesta correcta:** a, c y e.
+   a) Lavarse el rostro
+   b) Ducharse a diario
+   c) Entrenar en un club deportivo
+   d) Usar desodorante
+   e) Salir a trotar
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** Entrenar y trotar son hábitos de actividad física. Ambos tipos de hábitos son complementarios para mantener la salud durante la pubertad.
 
 4. *(Alternativas)* ¿Por qué los cambios de la pubertad hacen necesario un aseo diferente al de años anteriores?
@@ -525,11 +525,11 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
    **Retroalimentación:** Cualquier proceso vital (respiración, movimiento, digestión, crecimiento) requiere energía obtenida del alimento.
 
 6. *(Varias correctas — aplicación)* Al usar una licuadora, ¿qué tipos de energía se manifiestan? Marca **todas** las correctas.
-   a) Energía eléctrica que ingresa
-   b) Energía cinética en el movimiento de las aspas
-   c) Energía sonora en el ruido que produce
-   d) Energía nuclear en su interior
-   **Respuesta correcta:** a, b y c.
+   a) Energía cinética en el movimiento de las aspas
+   b) Energía sonora en el ruido que produce
+   c) Energía nuclear en su interior
+   d) Energía eléctrica que ingresa
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** Identificar varios tipos de energía en un mismo aparato ayuda a comprender que la energía se transforma de una forma a otra, no desaparece.
 
 ---
@@ -595,11 +595,11 @@ fuentes renovables cuando sea posible.
    solar.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas fuentes de energía son **renovables**? Marca **todas** las correctas.
-   a) Gas natural
-   b) Energía eólica
-   c) Petróleo
-   d) Energía geotérmica
-   **Respuesta correcta:** b y d.
+   a) Energía geotérmica
+   b) Gas natural
+   c) Energía eólica
+   d) Petróleo
+   **Respuesta correcta:** a y c.
    **Retroalimentación:** Si la fuente se agota con el uso y tarda mucho en regenerarse (gas natural, petróleo), es no renovable; si prácticamente no se agota (viento, calor interno de la Tierra), es renovable.
 
 4. *(Alternativas)* ¿Por qué los combustibles fósiles se consideran no renovables, aunque técnicamente algún día podrían volver a formarse?
@@ -619,11 +619,11 @@ fuentes renovables cuando sea posible.
    **Retroalimentación:** También es correcto relacionar la energía hidroeléctrica con el sur, por sus numerosos ríos y caudales. Relacionar la energía con la geografía explica el potencial energético diverso de Chile.
 
 6. *(Varias correctas — propuesta)* ¿Cuáles son medidas de uso responsable de la energía en el hogar o el colegio? Marca **todas** las correctas.
-   a) Apagar luces y aparatos que no se usan
-   b) Usar ampolletas de bajo consumo
-   c) Dejar el computador encendido toda la noche
-   d) Aprovechar la luz natural durante el día
-   **Respuesta correcta:** a, b y d.
+   a) Aprovechar la luz natural durante el día
+   b) Apagar luces y aparatos que no se usan
+   c) Usar ampolletas de bajo consumo
+   d) Dejar el computador encendido toda la noche
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Cualquier medida que reduzca el consumo innecesario de energía es válida; dejar aparatos encendidos sin uso la desperdicia.
 
 ---
@@ -793,19 +793,19 @@ vertido de desechos para proteger la hidrósfera.
    litósfera y la hidrósfera.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos recursos pertenecen principalmente a la **litósfera**? Marca **todas** las correctas.
-   a) Cobre
-   b) Oxígeno del aire
-   c) Agua de un lago
-   d) Suelo fértil
-   **Respuesta correcta:** a y d.
+   a) Agua de un lago
+   b) Suelo fértil
+   c) Cobre
+   d) Oxígeno del aire
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** Litósfera: cobre y suelo fértil (rocas y suelo). Atmósfera: oxígeno del aire. Hidrósfera: agua de un lago.
 
 4. *(Varias correctas)* ¿Cuáles de estas son funciones de la **atmósfera** fundamentales para la vida? Marca **todas** las correctas.
-   a) Contiene el oxígeno que respiran los seres vivos
-   b) Regula la temperatura del planeta
-   c) Protege de la radiación solar dañina gracias a la capa de ozono
-   d) Forma las rocas del suelo
-   **Respuesta correcta:** a, b y c.
+   a) Regula la temperatura del planeta
+   b) Protege de la radiación solar dañina gracias a la capa de ozono
+   c) Forma las rocas del suelo
+   d) Contiene el oxígeno que respiran los seres vivos
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** Las rocas y el suelo forman la litósfera. Una buena respuesta menciona al menos dos funciones distintas de la atmósfera para la vida.
 
 5. *(Alternativas — análisis)* ¿Qué opción explica cómo la contaminación del aire en ciudades chilenas afecta la atmósfera y propone una medida coherente?
@@ -817,11 +817,11 @@ vertido de desechos para proteger la hidrósfera.
    **Retroalimentación:** Una buena respuesta conecta la causa (fuente de contaminación) con una medida de protección coherente.
 
 6. *(Varias correctas — propuesta)* ¿Cuáles son medidas concretas para proteger la **litósfera**? Marca **todas** las correctas.
-   a) Evitar la deforestación excesiva
-   b) Practicar una minería regulada y responsable
-   c) Botar residuos en los suelos agrícolas
-   d) Proteger los suelos con cobertura vegetal
-   **Respuesta correcta:** a, b y d.
+   a) Proteger los suelos con cobertura vegetal
+   b) Evitar la deforestación excesiva
+   c) Practicar una minería regulada y responsable
+   d) Botar residuos en los suelos agrícolas
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Cualquier medida coherente con la protección de la capa elegida es válida; botar residuos contamina el suelo.
 
 ---
@@ -907,11 +907,11 @@ geológico, y en casos extremos, la desertificación de zonas antes productivas.
    **Retroalimentación:** El agua del río desgasta poco a poco la roca de su cauce y arrastra sedimentos; en miles o millones de años, ese trabajo excava valles y cañones, como el del río Loa.
 
 6. *(Varias correctas — propuesta)* Un terreno agrícola presenta pérdida acelerada de suelo fértil. ¿Qué medidas ayudarían a reducir la erosión? Marca **todas** las correctas.
-   a) Mantener cobertura vegetal o rotar cultivos
-   b) Evitar el sobrepastoreo
-   c) Dejar el suelo descubierto por largos períodos
-   d) Prácticas agrícolas que no expongan el suelo
-   **Respuesta correcta:** a, b y d.
+   a) Prácticas agrícolas que no expongan el suelo
+   b) Mantener cobertura vegetal o rotar cultivos
+   c) Evitar el sobrepastoreo
+   d) Dejar el suelo descubierto por largos períodos
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Las medidas válidas protegen o cubren el suelo, reduciendo su exposición directa al agua y al viento.
 
 ---

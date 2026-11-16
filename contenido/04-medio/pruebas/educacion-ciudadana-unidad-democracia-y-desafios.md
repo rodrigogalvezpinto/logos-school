@@ -105,10 +105,10 @@ d) Que puedas publicar tu opinión en redes sin censura previa
 
 13. **(Varias correctas — análisis de caso)** Un club deportivo rechaza la inscripción de una niña en su equipo de fútbol "porque es un deporte de hombres", aunque cumple todos los requisitos. ¿Con qué conceptos se vincula? Marca **todas** las correctas.
 
-a) Inclusión
-b) Igualdad de trato
-c) Solidaridad tributaria
-d) Soberanía popular
+a) Soberanía popular
+b) Inclusión
+c) Igualdad de trato
+d) Solidaridad tributaria
 
 14. **(Alternativas — análisis de datos)** Un estudio muestra que, en los directorios de las grandes empresas del país, menos del 20% de los cargos están ocupados por mujeres, aunque ellas son más de la mitad de las personas con título profesional. ¿Qué desafío ilustra?
 a) La desinformación electoral durante las campañas
@@ -155,7 +155,7 @@ candidatura independiente amplían quién puede acceder a cargos públicos.
 
 12. **Falso.** El debate legítimo se da sobre las políticas y su alcance, no sobre si se respetan los Derechos Humanos de las personas afectadas, como el derecho a la vida y a la salud.
 
-13. a y b — Excluir por género, sin una razón legítima vinculada a los requisitos, es discriminación y una barrera a la inclusión.
+13. b y c — Excluir por género, sin una razón legítima vinculada a los requisitos, es discriminación y una barrera a la inclusión.
 
 14. d) Hay una brecha entre la preparación de las mujeres y su participación efectiva en espacios de poder.
 

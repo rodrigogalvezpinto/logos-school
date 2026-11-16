@@ -868,12 +868,12 @@ d) Infinitas
 *Retroalimentación:* no existe ninguna línea que divida la letra "P" en dos mitades que sean reflejo exacto una de la otra, por lo tanto no es una figura simétrica.
 
 **Pregunta 4 (varias correctas — simetría).** ¿Cuáles de estos objetos de la naturaleza presentan simetría? Marca **todas** las correctas.
-a) Una mariposa
-b) Una hoja de árbol
-c) Una piedra quebrada al azar
-d) Un copo de nieve
+a) Una hoja de árbol
+b) Una piedra quebrada al azar
+c) Un copo de nieve
+d) Una mariposa
 
-**Respuesta correcta: a, b y d.**
+**Respuesta correcta: a, c y d.**
 *Retroalimentación:* lo importante es identificar una línea imaginaria que divida el objeto en dos partes que sean reflejo una de la otra. Por ejemplo, en una hoja, el lado izquierdo de la nervadura central es igual (como reflejo) al lado derecho. Una piedra quebrada al azar no tiene esa línea.
 
 **Pregunta 5 (alternativas).** ¿Cuántas líneas de simetría tiene un triángulo equilátero (con sus 3 lados iguales)?

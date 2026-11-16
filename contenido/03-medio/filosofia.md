@@ -132,11 +132,11 @@ que preguntarse qué significa exactamente "justicia".
    simplemente subjetivas, no exigen fundamentación racional.
 
 3. *(Varias correctas — Clasificar — simple)* ¿Cuáles de estas preguntas son **filosóficas**? Marca **todas** las correctas.
-   a) "¿Puede una máquina pensar de verdad?"
-   b) "¿Qué hace que una acción sea moralmente buena?"
-   c) "¿Qué distancia hay entre la Tierra y la Luna?"
-   d) "¿Cuánto cuesta el pasaje de metro en Santiago?"
-   **Respuesta correcta:** a y b.
+   a) "¿Cuánto cuesta el pasaje de metro en Santiago?"
+   b) "¿Puede una máquina pensar de verdad?"
+   c) "¿Qué hace que una acción sea moralmente buena?"
+   d) "¿Qué distancia hay entre la Tierra y la Luna?"
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** Las preguntas no filosóficas se responden con datos empíricos; las filosóficas exigen clarificar conceptos ("pensar", "bueno") y argumentar.
 
 4. *(Alternativas — Análisis de caso — intermedio)* Un estudiante sostiene: "Yo no filosofo, solo tengo mis opiniones sobre la vida". ¿Por qué esta afirmación es discutible?
@@ -439,11 +439,11 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
     **Retroalimentación:** "Existir" admite distintos modos, un problema ontológico central.
 
 13. *(Varias correctas — Identidad — intermedio)* Sobre la identidad que una persona construye en redes sociales, distinta de su forma de ser fuera de línea, ¿qué respuestas vinculan coherentemente el caso con el problema ontológico de la identidad? Marca **todas** las correctas.
-    a) La identidad puede tener múltiples facetas (online y offline) que igualmente forman parte de quién es la persona
-    b) Postura defendible: si la identidad es una sola esencia fija, la persona "real" sería solo la de fuera de línea
-    c) El caso no tiene relación con la identidad
-    d) Las redes sociales hacen que las personas dejen de existir
-    **Respuesta correcta:** a y b.
+    a) Las redes sociales hacen que las personas dejen de existir
+    b) La identidad puede tener múltiples facetas (online y offline) que igualmente forman parte de quién es la persona
+    c) Postura defendible: si la identidad es una sola esencia fija, la persona "real" sería solo la de fuera de línea
+    d) El caso no tiene relación con la identidad
+    **Respuesta correcta:** b y c.
     **Retroalimentación:** Ambas posturas son defendibles si se vinculan con el problema de fondo: si la identidad es fija o admite facetas en distintos contextos.
 
 14. *(Alternativas — desafiante)* Un estudiante confunde una pregunta
@@ -461,11 +461,11 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
     de entidad, lo que la convierte en una pregunta propiamente ontológica.
 
 15. *(Varias correctas — Análisis de argumento — desafiante)* "Solo existe lo que puedo tocar o ver; los números, la justicia o el amor son solo palabras." ¿Qué objeciones son pertinentes? Marca **todas** las correctas.
-    a) Desde el idealismo: las verdades matemáticas son estables y universales, a diferencia de los objetos físicos
-    b) Desde el dualismo: la experiencia consciente ("lo que se siente" pensar) no se reduce a algo tocable
-    c) Esta postura deja fuera entidades que parecen tener algún tipo de realidad sin ser tangibles
-    d) Ninguna objeción es posible, porque la postura es evidente
-    **Respuesta correcta:** a, b y c.
+    a) Esta postura deja fuera entidades que parecen tener algún tipo de realidad sin ser tangibles
+    b) Ninguna objeción es posible, porque la postura es evidente
+    c) Desde el idealismo: las verdades matemáticas son estables y universales, a diferencia de los objetos físicos
+    d) Desde el dualismo: la experiencia consciente ("lo que se siente" pensar) no se reduce a algo tocable
+    **Respuesta correcta:** a, c y d.
     **Retroalimentación:** Se espera identificar el supuesto reduccionista y objetarlo desde una teoría alternativa.
 
 ---

@@ -178,11 +178,11 @@ d) Que todos los estudiantes del país tienen celular propio; hacerlo explícito
 
 **Pregunta 19.** *(Varias correctas — 5 pts)* Sobre el texto completo del autor acerca de los celulares, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) Su tesis es que los celulares deben prohibirse totalmente, y su argumento principal, que distraen la atención en clases
-b) Comete una generalización apresurada al concluir que "todos los profesores del país" piensan igual a partir de tres testimonios
-c) Comete una falsa dicotomía al presentar solo la prohibición total o la pérdida total de concentración
-d) Las falacias no invalidan necesariamente la tesis: una conclusión puede ser razonable aunque algunos argumentos usados para defenderla sean deficientes
-e) Como el texto comete falacias, su tesis queda automáticamente refutada
+a) Las falacias no invalidan necesariamente la tesis: una conclusión puede ser razonable aunque algunos argumentos usados para defenderla sean deficientes
+b) Como el texto comete falacias, su tesis queda automáticamente refutada
+c) Su tesis es que los celulares deben prohibirse totalmente, y su argumento principal, que distraen la atención en clases
+d) Comete una generalización apresurada al concluir que "todos los profesores del país" piensan igual a partir de tres testimonios
+e) Comete una falsa dicotomía al presentar solo la prohibición total o la pérdida total de concentración
 
 ---
 
@@ -281,7 +281,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Pregunta 18 (OA4, 3 pts).** b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas. El autor supone, sin decirlo, que la prohibición total es la única solución eficaz; hacerlo explícito permite discutir alternativas, como un uso regulado.
 
-**Pregunta 19 (OA4, 5 pts — análisis de argumento).** a, b, c y d — Evaluar la validez de un argumento particular es distinto de evaluar la verdad de la tesis que intenta sostener.
+**Pregunta 19 (OA4, 5 pts — análisis de argumento).** a, c, d y e — Evaluar la validez de un argumento particular es distinto de evaluar la verdad de la tesis que intenta sostener.
 
 **Pregunta 23 (OA4/OA5, 3 pts).** c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada. Si los datos de entrenamiento subrepresentaron a personas de tez oscura, la conclusión del sistema se basa en una muestra sesgada, como una generalización apresurada.
 

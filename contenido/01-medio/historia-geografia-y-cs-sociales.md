@@ -175,12 +175,12 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Varias correctas — análisis de fuente)** Un panfleto de 1848 exige "una constitución que limite el poder del rey, un parlamento elegido por los ciudadanos, y el fin de los monopolios comerciales que favorecen solo a unos pocos". ¿Qué ideas liberales/republicanas están presentes? Marca **todas** las correctas.
-a) Constitucionalismo
-b) Parlamentarismo
-c) Libre mercado
-d) Absolutismo monárquico
+a) Absolutismo monárquico
+b) Constitucionalismo
+c) Parlamentarismo
+d) Libre mercado
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* La constitución que limita al rey, el parlamento elegido y el fin de los monopolios forman un mismo programa liberal; el absolutismo es justamente lo que el panfleto rechaza.
 
 ---
@@ -1552,12 +1552,12 @@ d) Inflación: alza sostenida de precios que reduce el poder adquisitivo. Deflac
 ---
 
 **6. (Varias correctas — desafiante)** ¿Por qué el Estado interviene a veces en el mercado fijando precios o aranceles? Marca **todas** las correctas.
-a) Para proteger a los consumidores de precios excesivos en bienes esenciales
-b) Para proteger a productores nacionales frente a la competencia extranjera
-c) Para corregir fallas de mercado como el monopolio o la colusión
-d) Para eliminar toda forma de comercio
+a) Para corregir fallas de mercado como el monopolio o la colusión
+b) Para eliminar toda forma de comercio
+c) Para proteger a los consumidores de precios excesivos en bienes esenciales
+d) Para proteger a productores nacionales frente a la competencia extranjera
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* La interacción libre entre oferta y demanda no siempre produce resultados socialmente deseables; eliminar el comercio no es un objetivo de estas intervenciones.
 
 ---

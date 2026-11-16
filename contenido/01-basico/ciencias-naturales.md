@@ -137,11 +137,11 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
 
 6. *(Varias correctas)* ¿Qué necesita una planta para crecer sana? Marca **todas**
    las correctas.
-   a) Agua
-   b) Luz del sol
-   c) Juguetes
-   d) Tierra
-   **Respuesta correcta:** a, b y d.
+   a) Tierra
+   b) Agua
+   c) Luz del sol
+   d) Juguetes
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** ¡Buen trabajo observando! La planta necesita agua, luz del
    sol y tierra (de donde saca alimento). Los juguetes no le sirven: las plantas
    también son seres vivos y tienen necesidades, aunque no se muevan como los animales.
@@ -352,10 +352,10 @@ lavarnos las manos antes de tocarnos los ojos.
 
 4. *(Varias correctas)* Antes de cruzar la calle, ¿qué sentidos te ayudan a estar
    seguro/a? Marca **todas** las correctas.
-   a) La vista, para mirar los autos y el semáforo
-   b) El gusto, para probar el aire
-   c) El oído, para escuchar si se acerca un vehículo
-   **Respuesta correcta:** a y c.
+   a) El oído, para escuchar si se acerca un vehículo
+   b) La vista, para mirar los autos y el semáforo
+   c) El gusto, para probar el aire
+   **Respuesta correcta:** a y b.
    **Retroalimentación:** Exacto, la vista y el oído te ayudan a darte cuenta de si
    viene un vehículo. Usar tus sentidos con atención te ayuda a prevenir accidentes en
    la calle.
@@ -386,10 +386,10 @@ lavarnos las manos antes de tocarnos los ojos.
 
 7. *(Varias correctas)* ¿Cuáles de estas acciones **cuidan** tus ojos o tus oídos?
    Marca **todas** las correctas.
-   a) No mirar directamente al sol
-   b) Escuchar música muy fuerte con audífonos
-   c) No meter objetos en los oídos
-   d) Frotarse los ojos con las manos sucias
+   a) No meter objetos en los oídos
+   b) Frotarse los ojos con las manos sucias
+   c) No mirar directamente al sol
+   d) Escuchar música muy fuerte con audífonos
    **Respuesta correcta:** a y c.
    **Retroalimentación:** ¡Muy bien! No mirar el sol y no meter objetos en los oídos
    los protegen. La música muy fuerte daña los oídos y las manos sucias pueden
@@ -729,12 +729,12 @@ animales, como el búho, están más activos de noche.
 
 4. *(Varias correctas)* ¿Qué cosas corresponden a la **noche**? Marca **todas** las
    correctas.
-   a) Se ven estrellas
-   b) El Sol está visible
-   c) Se ve la Luna
-   d) Hace más frío
-   e) El cielo está muy iluminado
-   **Respuesta correcta:** a, c y d.
+   a) Se ve la Luna
+   b) Hace más frío
+   c) El cielo está muy iluminado
+   d) Se ven estrellas
+   e) El Sol está visible
+   **Respuesta correcta:** a, b y d.
    **Retroalimentación:** ¡Bien hecho! De noche se ven las estrellas y la Luna, y
    hace más frío. El Sol visible y el cielo muy iluminado son del día. Fíjate en la
    luz, la temperatura y los astros que se ven en cada momento.

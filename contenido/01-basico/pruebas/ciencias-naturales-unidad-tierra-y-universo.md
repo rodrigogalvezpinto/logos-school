@@ -48,11 +48,11 @@ d) Atardecer → amanecer → mediodía → noche
 **4.** *(Varias correctas)* ¿Qué palabras corresponden al **día**? Marca **todas**
 las correctas.
 
-a) Sol visible
-b) Estrellas
-c) Más calor
-d) Luna
-e) Cielo muy iluminado
+a) Cielo muy iluminado
+b) Sol visible
+c) Estrellas
+d) Más calor
+e) Luna
 
 ---
 
@@ -88,7 +88,7 @@ d) Ponerse el pijama para acostarse
 1. b) La Luna y las estrellas. El Sol, el arcoíris y el cielo azul se ven de día.
 2. Verdadero. Amanecer es el momento en que el Sol aparece y empieza el día.
 3. a) Amanecer → mediodía → atardecer → noche. El día empieza cuando sale el Sol (amanecer); al mediodía el Sol está más alto; en el atardecer se esconde, y después llega la noche.
-4. a, c y e — De día el Sol está visible, hace más calor y el cielo está muy iluminado. Las estrellas y la Luna se ven de noche, cuando hace más frío.
+4. a, b y d — De día el Sol está visible, hace más calor y el cielo está muy iluminado. Las estrellas y la Luna se ven de noche, cuando hace más frío.
 5. b) A la noche. La Luna y las estrellas se ven en el cielo oscuro de la noche.
 6. c) La gallina. El murciélago, el búho y la lechuza están activos de noche.
 7. c) Ir a la escuela. Dormir, ver las estrellas y ponerse el pijama son actividades de la noche.

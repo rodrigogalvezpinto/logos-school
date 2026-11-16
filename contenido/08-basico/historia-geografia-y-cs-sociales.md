@@ -1030,12 +1030,12 @@ d) A la Contrarreforma, que fortaleció la autoridad de la Iglesia
 ---
 
 **6. (Varias correctas — desafiante)** ¿Qué principios ilustrados siguen presentes en los sistemas republicanos actuales, incluido el chileno? Marca **todas** las correctas.
-a) La separación de poderes
-b) La existencia de una constitución que limita al poder político
-c) La soberanía popular: la autoridad proviene de la ciudadanía
-d) El derecho divino de los reyes
+a) La soberanía popular: la autoridad proviene de la ciudadanía
+b) El derecho divino de los reyes
+c) La separación de poderes
+d) La existencia de una constitución que limita al poder político
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* Los tres primeros son pilares de las repúblicas democráticas actuales; el derecho divino de los reyes es justamente lo que la Ilustración criticó.
 
 ---

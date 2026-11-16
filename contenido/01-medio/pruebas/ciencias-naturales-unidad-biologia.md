@@ -135,11 +135,11 @@ d) El cobre
 **Pregunta 13.** (Varias correctas — Clasificar)
 ¿Cuáles de estos son **fenómenos naturales** (no acciones humanas)? Marca **todas** las correctas.
 
-a) Terremoto
-b) Marejada
-c) Aluvión por lluvias intensas
-d) Construcción de una carretera
-e) Tala de un bosque
+a) Tala de un bosque
+b) Terremoto
+c) Marejada
+d) Aluvión por lluvias intensas
+e) Construcción de una carretera
 
 **Pregunta 14.** (Alternativas — Evaluación)
 Frente a la escasez de agua en el norte, se propone instalar plantas desalinizadoras. ¿Qué evaluación es correcta?
@@ -165,5 +165,5 @@ d) Garantiza agua sin necesidad de energía
 10. a) 800 kcal. Primarios: 80.000 × 0,10 = 8.000 kcal; secundarios: 8.000 × 0,10 = 800 kcal.
 11. d) La biomagnificación: cada nivel trófico acumula el contaminante de todos los organismos que consume.
 12. c) La pesca de merluza con cuotas y vedas: los peces se reproducen y la población se recupera si se respetan los límites.
-13. a, b y c — Son fenómenos naturales; la construcción de carreteras y la tala son acciones humanas.
+13. b, c y d — Son fenómenos naturales; la construcción de carreteras y la tala son acciones humanas.
 14. b) Evaluar una medida implica considerar sus ventajas y también sus costos y efectos ambientales.

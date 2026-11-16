@@ -250,10 +250,10 @@ d) El uso de citas de autores reconocidos
 
 **23. (Varias correctas)** En un ensayo persuasivo, ¿qué problemas tiene escribir un porcentaje sin indicar de dónde salió? Marca todas las correctas.
 
-a) El lector no puede comprobar si el dato es confiable
-b) Se omite el reconocimiento de quien produjo la información
-c) El argumento pierde credibilidad
-d) El texto queda demasiado corto
+a) Se omite el reconocimiento de quien produjo la información
+b) El argumento pierde credibilidad
+c) El texto queda demasiado corto
+d) El lector no puede comprobar si el dato es confiable
 
 **24. (Alternativas — planificación)** ¿Qué opción presenta una planificación adecuada de un ensayo persuasivo sobre el uso de la IA en las tareas escolares?
 
@@ -307,7 +307,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 20 | **c) Construye una imagen de orden y éxito que puede ser más idealizada que el uso cotidiano de la ciclovía.** La fotografía muestra una escena ordenada y exitosa (el alcalde, chalecos nuevos, la ciclovía vacía) que puede no reflejar el uso diario. | OA N°10 — efecto de recursos no lingüísticos |
 | 21 | **a) El A usa cifras para transmitir rigor institucional y el B humor y experiencia directa para cuestionar; ambos pueden ser parcialmente ciertos a la vez.** La sensación de "autenticidad" también puede ser una estrategia de persuasión. | OA N°10 — estrategias de persuasión, veracidad e influencia en las propias opiniones (integrada) |
 | 22 | **b) La coherencia temática: cada párrafo debe relacionarse con la hipótesis inicial, sin desviarse hacia ideas no conectadas.** La coherencia temática exige que todas las partes del ensayo se mantengan enfocadas en la hipótesis; hablar del uniforme rompe esa unidad. | OA N°14 — coherencia temática |
-| 23 | **a, b y c.** Sin la fuente el dato no se puede verificar, no se reconoce a su autor y el argumento se debilita; la extensión no es el problema. | OA N°14 — citas y referencias |
+| 23 | **a, b y d.** Sin la fuente el dato no se puede verificar, no se reconoce a su autor y el argumento se debilita; la extensión no es el problema. | OA N°14 — citas y referencias |
 | 24 | **d) Hipótesis: prohibir la IA no basta si no se enseña a usarla con criterio. Evidencia: el dato del 12% de la columna, señalando que la propia columna reconoce otros factores.** Una buena planificación parte de una hipótesis clara y usa la evidencia reconociendo sus límites. | OA N°14 — planificación (hipótesis y evidencia) |
 | 25 | **b) Introducción: "Prohibir la IA en las tareas puede reducir copias, pero no basta: sin educación, los estudiantes no aprenderán a usarla con criterio." Conclusión: "Por eso, la prohibición debe acompañarse de formación en uso responsable, como muestran los argumentos revisados."** La conclusión debe retomar la hipótesis planteada en la introducción sin introducir ideas nuevas. | OA N°14 — hipótesis, coherencia temática y conclusión (integrada) |
 

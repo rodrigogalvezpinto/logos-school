@@ -103,12 +103,12 @@ el ecosistema marino de la Corriente de Humboldt, entre otros.
    son esenciales: sin ellos, ningún ser vivo del ecosistema podría sobrevivir.
 
 3. *(Varias correctas)* ¿Cuáles de estos elementos de una caleta de pescadores chilena son **vivos**? Marca **todas** las correctas.
-   a) Gaviotas
-   b) Rocas
-   c) Algas
-   d) Agua de mar
-   e) Jaibas
-   **Respuesta correcta:** a, c y e.
+   a) Algas
+   b) Agua de mar
+   c) Jaibas
+   d) Gaviotas
+   e) Rocas
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Lo importante es reconocer la diferencia: los vivos (gaviotas, algas, jaibas, chungungos) nacen, crecen, se reproducen y mueren; los no vivos (rocas, agua de mar, arena, luz solar) no.
 
 4. *(Alternativas — aplicación)* En un estero de la zona central hay peces pequeños, algas, piedras, agua y luz solar. ¿Qué afirmación describe correctamente una interacción entre un elemento vivo y uno no vivo?
@@ -376,11 +376,11 @@ músculos, y mejora la coordinación de todo el sistema.
    **Retroalimentación:** Una buena respuesta menciona las tres estructuras y su rol específico en el movimiento: el músculo genera la fuerza, el tendón la transmite y el hueso con la articulación permiten moverse.
 
 4. *(Varias correctas — aplicación)* ¿Cuáles son beneficios de hacer actividad física de forma regular para tus huesos y músculos? Marca **todas** las correctas.
-   a) Huesos más fuertes y densos
-   b) Músculos más resistentes
-   c) Huesos más frágiles
-   d) Mejor coordinación de movimientos
-   **Respuesta correcta:** a, b y d.
+   a) Mejor coordinación de movimientos
+   b) Huesos más fuertes y densos
+   c) Músculos más resistentes
+   d) Huesos más frágiles
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** El ejercicio habitual fortalece el sistema músculo-esquelético completo, no solo un tipo de estructura; no debilita los huesos.
 
 5. *(Alternativas)* La articulación es la estructura que:
@@ -546,10 +546,10 @@ convierte en vapor al hervir.
    expanden libremente hasta llenar el espacio en el que se encuentran.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos elementos están en estado **gaseoso**? Marca **todas** las correctas.
-   a) Jugo de frutilla
-   b) El aire que respiras
-   c) Un cubo de hielo
-   d) El humo de una fogata
+   a) Un cubo de hielo
+   b) El humo de una fogata
+   c) Jugo de frutilla
+   d) El aire que respiras
    **Respuesta correcta:** b y d.
    **Retroalimentación:** El aire y el humo se dispersan (gaseoso); el jugo toma la forma del recipiente (líquido); el cubo de hielo mantiene su forma (sólido).
 

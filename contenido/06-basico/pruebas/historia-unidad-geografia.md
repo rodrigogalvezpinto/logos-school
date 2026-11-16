@@ -36,10 +36,10 @@ d) Los ríos y lagos
 
 **3. (Varias correctas — OA11)** ¿Cuáles de estos elementos son **rasgos humanos** de una región? Marca todas las correctas.
 
-a) Distribución de la población en ciudades y campos
-b) Relieve
-c) Actividades económicas
-d) Clima
+a) Clima
+b) Distribución de la población en ciudades y campos
+c) Relieve
+d) Actividades económicas
 
 **4. (Alternativas — OA11)** ¿Qué descripción de una región está bien construida, con nombre, capital regional, un rasgo físico y uno humano correctos?
 
@@ -99,7 +99,7 @@ d) Porque el clima cambió en los últimos años y ahora esos ambientes son temp
 
 1. **c.** Las actividades económicas son rasgos humanos; el relieve, el clima y la hidrografía son rasgos físicos.
 2. **Verdadero.** Las actividades económicas se relacionan con los rasgos físicos y los recursos naturales disponibles.
-3. a y c — La distribución de la población y las actividades económicas son rasgos humanos; el relieve y el clima son rasgos físicos.
+3. b y d — La distribución de la población y las actividades económicas son rasgos humanos; el relieve y el clima son rasgos físicos.
 4. a) Región de Antofagasta; capital Antofagasta; clima desértico; la minería es su principal actividad económica. Una buena caracterización usa datos reales y pertinentes de la región.
 5. **c.** En el altiplano, a más de 3.500 metros de altura, hay menos oxígeno y noches muy frías.
 6. **Verdadero.** La abundante lluvia del sur permite bosques extensos y la actividad forestal.

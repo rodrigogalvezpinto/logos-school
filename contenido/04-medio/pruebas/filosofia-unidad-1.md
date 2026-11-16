@@ -108,10 +108,10 @@ d) Ese razonamiento podría justificar violar la dignidad y los derechos fundame
 
 14. *(Varias correctas — Análisis de caso)* Una municipalidad tiene presupuesto para un solo proyecto: mejorar la cancha del sector que más votos obtuvo en una consulta ciudadana, o construir una sede social en el campamento con mayor carencia de espacios comunitarios. ¿Qué afirmaciones aplican correctamente criterios de justicia distributiva? Marca **todas** las correctas.
 
-a) Según un criterio de mérito o de preferencia mayoritaria, el proyecto iría al sector que obtuvo más votos en la consulta
-b) Según el criterio de necesidad, iría al campamento, porque compensar carencias de origen favorece una distribución más equitativa
-c) Ambos criterios reflejan concepciones legítimas y en tensión de lo que hace justa una distribución
-d) Solo la votación es un criterio de justicia; la necesidad es caridad
+a) Ambos criterios reflejan concepciones legítimas y en tensión de lo que hace justa una distribución
+b) Solo la votación es un criterio de justicia; la necesidad es caridad
+c) Según un criterio de mérito o de preferencia mayoritaria, el proyecto iría al sector que obtuvo más votos en la consulta
+d) Según el criterio de necesidad, iría al campamento, porque compensar carencias de origen favorece una distribución más equitativa
 
 ---
 
@@ -143,4 +143,4 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 13. **d) Ese razonamiento podría justificar violar la dignidad y los derechos fundamentales de una persona si el bienestar agregado es mayor; ciertos principios, como la prohibición de la tortura, no deberían quedar sujetos a un cálculo de consecuencias.** La objeción muestra que, si solo importara el resultado, se podría justificar torturar o violar la dignidad de una persona; señala ese límite sin declarar falso al utilitarismo, porque ambas posturas siguen en debate.
 
-14. a, b y c — Se aplican ambos criterios al mismo caso y se reconoce su tensión sin resolver el dilema de forma dogmática.
+14. a, c y d — Se aplican ambos criterios al mismo caso y se reconoce su tensión sin resolver el dilema de forma dogmática.

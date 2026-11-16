@@ -83,10 +83,10 @@ Considera que los cambios y su intensidad varían entre personas.
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Acné
-b) Menarquia
-c) Inicio de la producción de espermatozoides
-d) Estirón de crecimiento
+a) Estirón de crecimiento
+b) Acné
+c) Menarquia
+d) Inicio de la producción de espermatozoides
 
 **10. (Alternativas — OA5)** Tomás tiene 12 años y todavía no ha crecido tanto como algunos compañeros. Un compañero se burla de él. ¿Qué respuesta muestra una comprensión correcta de la pubertad?
 
@@ -127,7 +127,7 @@ d) Porque ya no es necesario ducharse a diario, ya que el cuerpo produce menos g
 7. **Verdadero.** En la naturaleza, un mismo organismo suele tener varias fuentes de
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
 8. **c.** La aparición de vello en las axilas y en el pubis ocurre en ambos sexos durante la pubertad.
-9. a y d — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
+9. a y b — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
 10. **c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido.** La pubertad empieza y avanza en momentos distintos para cada persona; entenderlo evita burlas y comparaciones que dañan la autoestima.
 11. **b.** El deporte sistemático fortalece el sistema cardiovascular y ayuda a
     mantener un peso corporal saludable.

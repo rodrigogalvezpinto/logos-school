@@ -50,10 +50,10 @@ d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio 
 
 **Pregunta 5.** *(Varias correctas — Evaluación de evidencia)* Una cuenta de redes sociales promociona un suplemento que "elimina la ansiedad en una semana, comprobado por miles de usuarios", y muestra solo testimonios. ¿Qué conviene evaluar antes de comprarlo? Marca **todas** las correctas.
 
-a) Si existe un estudio científico publicado y verificable que respalde el efecto
-b) Si el estudio comparó a quienes tomaron el suplemento con un grupo que no lo tomó
-c) Si quien hace la afirmación gana dinero vendiendo el suplemento
-d) Cuántos seguidores tiene la cuenta que lo promociona
+a) Si quien hace la afirmación gana dinero vendiendo el suplemento
+b) Cuántos seguidores tiene la cuenta que lo promociona
+c) Si existe un estudio científico publicado y verificable que respalde el efecto
+d) Si el estudio comparó a quienes tomaron el suplemento con un grupo que no lo tomó
 
 **Pregunta 6.** *(Alternativas — Análisis de caso)* En una localidad cercana a una fundición, varios niños presentan niveles altos de metales en la sangre. Antes de tratarlos, el equipo de salud mide el aire y el suelo de la zona. ¿Por qué es importante considerar el factor ambiental?
 
@@ -89,10 +89,10 @@ d) La enfermedad desaparece, porque menos vacunas significan menos contacto con 
 
 **Pregunta 10.** *(Varias correctas — Evaluación de evidencia)* Un mensaje reenviado por WhatsApp afirma que "el virus del papiloma (VPH) no causa cáncer y la vacuna escolar es innecesaria", sin citar ninguna fuente. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
 
-a) Buscar estudios científicos revisados por pares sobre el VPH y el cáncer cervicouterino
-b) Consultar la información de organismos reconocidos, como el MINSAL, el ISP o la OMS
-c) Revisar datos oficiales sobre los casos de cáncer y de infección en países con alta cobertura de la vacuna
-d) Creerlo si lo envió alguien de confianza
+a) Consultar la información de organismos reconocidos, como el MINSAL, el ISP o la OMS
+b) Revisar datos oficiales sobre los casos de cáncer y de infección en países con alta cobertura de la vacuna
+c) Creerlo si lo envió alguien de confianza
+d) Buscar estudios científicos revisados por pares sobre el VPH y el cáncer cervicouterino
 
 **Pregunta 11.** *(Verdadero o falso)* Compartir una jeringa o una máquina de afeitar con una persona infectada es una vía posible de transmisión del VIH y de la hepatitis B, porque ambos virus se transmiten por contacto con sangre.
 
@@ -122,12 +122,12 @@ d) Requiere aumentar la basura orgánica lejos de las casas, para atraer a los r
 | 2 | Falso — la privación crónica de sueño se asocia a efectos de largo plazo, como alteraciones del sistema inmune, del ánimo, de la memoria y mayor riesgo cardiovascular. |
 | 3 | **a) Biológico: el asma; ambiental: el aire contaminado por los camiones; social: la dificultad económica para acceder a controles. Los tres interactúan.** El asma es biológico, la contaminación del tránsito es ambiental y el acceso económico a la salud es social; estos factores se potencian entre sí. |
 | 4 | **d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.** Por eso las políticas de salud abordan también vivienda, educación y medioambiente. |
-| 5 | **a, b y c.** Los testimonios no reemplazan un estudio con grupo de comparación; el número de seguidores no es evidencia. |
+| 5 | **a, c y d.** Los testimonios no reemplazan un estudio con grupo de comparación; el número de seguidores no es evidencia. |
 | 6 | **b) Porque el problema podría tener origen ambiental y, para tratarlo y prevenirlo bien, hay que identificar y controlar esa fuente.** Si la causa es la contaminación de la fundición, tratar solo a los niños no basta: hay que identificar la fuente y controlarla para prevenir nuevos casos. |
 | 7 | a) Mayor riesgo de enfermedades cardiovasculares y respiratorias crónicas — las partículas finas llegan a lo profundo del pulmón y al torrente sanguíneo. |
 | 8 | **b)** El hantavirus se transmite al inhalar partículas de orina, saliva o fecas del ratón colilargo que se levantan con el polvo. Por eso no se barre en seco: se ventila y se humedece con cloro antes de limpiar. |
 | 9 | **c)** Vacunar a la embarazada protege al recién nacido, que todavía no tiene edad para su propia vacuna. Si baja la cobertura, la bacteria circula más y afecta justamente a quienes no pueden protegerse. |
-| 10 | **a, b y c.** La confianza en quien reenvía un mensaje no reemplaza la verificación con fuentes científicas. |
+| 10 | **a, b y d.** La confianza en quien reenvía un mensaje no reemplaza la verificación con fuentes científicas. |
 | 11 | Verdadero — ambos virus se transmiten por sangre y por fluidos sexuales; por eso no se comparten jeringas, máquinas de afeitar ni objetos cortopunzantes. |
 | 12 | b) La transmisión vertical (embarazo, parto o lactancia) puede prevenirse en gran parte con detección y tratamiento oportunos. |
 | 13 | **a) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.** La prevención no es solo doméstica, sino también ambiental y territorial. |

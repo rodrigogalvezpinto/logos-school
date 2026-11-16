@@ -239,10 +239,10 @@ d) La Guerra del Pacífico contra Perú y Bolivia
 
 A partir del estímulo y del contexto del cambio de siglo, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) Las huelgas fueron una forma de lucha obrera frente a la cuestión social
-b) Las mutuales de socorro y los sindicatos fueron otra forma de organización obrera
-c) Surgieron o se fortalecieron partidos que incorporaban ideas como el socialismo, y crecía el protagonismo de los sectores medios
-d) Los sectores medios desaparecieron y la élite dejó de tener poder político
+a) Los sectores medios desaparecieron y la élite dejó de tener poder político
+b) Las huelgas fueron una forma de lucha obrera frente a la cuestión social
+c) Las mutuales de socorro y los sindicatos fueron otra forma de organización obrera
+d) Surgieron o se fortalecieron partidos que incorporaban ideas como el socialismo, y crecía el protagonismo de los sectores medios
 
 ---
 
@@ -405,7 +405,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Alternativas | a) Las disputas por el control y la tributación de la explotación salitrera en territorio boliviano. El conflicto se originó en disputas por la explotación y los impuestos del salitre en Antofagasta y Tarapacá, territorios entonces bolivianos y peruanos. | OA 15 | Historia | 1 |
 | 13 | Alternativas | b) La ausencia de legislación laboral que regulara jornadas de trabajo y condiciones de seguridad. Sin leyes que regularan la jornada, los salarios o la vivienda, los trabajadores vivían en condiciones muy precarias: eso agravó la "cuestión social". | OA 18 | Historia | 1 |
 | 14 | Alternativas | b) La matanza de la Escuela Santa María de Iquique. En diciembre de 1907, en la Escuela Santa María de Iquique, el ejército disparó contra obreros del salitre en huelga y sus familias; murieron cientos de personas. | OA 18 | Historia | 1 |
-| 15 | Varias correctas | **a, b y c.** El cambio de siglo combinó nuevas formas de lucha obrera, transformación ideológica de los partidos y protagonismo creciente de los sectores medios. | OA 18 | Historia | 3 |
+| 15 | Varias correctas | **b, c y d.** El cambio de siglo combinó nuevas formas de lucha obrera, transformación ideológica de los partidos y protagonismo creciente de los sectores medios. | OA 18 | Historia | 3 |
 | 16 | Alternativas | b) Documentar la geografía, flora, fauna y geología del territorio nacional. Claudio Gay (naturalista) e Ignacio Domeyko (geólogo y mineralogista) estudiaron y describieron la geografía, la flora, la fauna y los minerales de Chile para el Estado. | OA 12 | Geografía | 1 |
 | 17 | Alternativas | **b) La burocracia procesó la información de censos y misiones y aplicó políticas; las redes integraron zonas antes aisladas, llevando la presencia del Estado a todo el territorio.** La burocracia ordenó la información (censos, mapas) y aplicó políticas; caminos, ferrocarriles y telégrafo conectaron las regiones con el gobierno central. | OA 12 | Geografía | 2 |
 | 18 | Alternativas | b) Cuando una sola empresa controla la oferta de un bien y puede fijar precios más altos que en un mercado competitivo. En un monopolio, una sola empresa controla la oferta y puede fijar precios sin competencia. | OA 20 | Formación Ciudadana | 1 |

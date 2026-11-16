@@ -140,10 +140,10 @@ d) El Día de las Ánimas de la cultura chilota
 
 **12. (Varias correctas)** ¿Qué citas sustentan que el relato no afirma literalmente que "la tierra despierta", sino el sentido de la ceremonia en la incertidumbre? Marca **todas** las correctas.
 
-a) "No sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia"
-b) "Seguramente fue solo el frío y el sueño"
-c) Cualquier frase que mencione a Temuco
-d) El título del relato, por sí solo
+a) Cualquier frase que mencione a Temuco
+b) El título del relato, por sí solo
+c) "No sé si la tierra despierta como uno cree cuando es chico... Pero algo cambia"
+d) "Seguramente fue solo el frío y el sueño"
 
 **13. (Alternativas)** ¿Qué interpretación de "El primer humo" integra un punto de vista, una cita y la relación entre el Wetripantu y la migración mapuche a la ciudad?
 
@@ -299,7 +299,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 9 | **a) Que el valor de la tierra se mide solo por su rendimiento en madera; hoy zonas rurales enfrentan la expansión de plantaciones forestales que amenazan la tierra como memoria familiar.** Don Segundo cuestiona que la tierra valga solo por la madera que produce; el tema sigue vigente con la expansión forestal en zonas rurales. | OA N°5 — creencias/época y relación intertextual (integrada) |
 | 10 | **c)** El Wetripantu o Año Nuevo mapuche. El microcuento nombra el Wetripantu, el Año Nuevo mapuche, que se celebra en el solsticio de invierno. | OA N°8 — antecedente cultural |
 | 11 | **Falso.** El texto indica lo contrario: aun en la ciudad, el tío "buscaba siempre un patio, una plaza, algún lugar con tierra donde encender un fuego pequeño esa noche, aunque fuera a escondidas de los vecinos", mostrando que mantuvo la ceremonia adaptada al nuevo contexto urbano. | OA N°8 — antecedente cultural y visión de mundo |
-| 12 | **a y b.** Las dos citas muestran la duda: «algo cambia», sin decir qué, y «seguramente fue solo…», que relativiza lo vivido. Por eso respaldan que el relato no afirma literalmente que la tierra despierta, sino que deja abierta la posibilidad. | OA N°8 — hipótesis fundamentada con citas |
+| 12 | **c y d.** Las dos citas muestran la duda: «algo cambia», sin decir qué, y «seguramente fue solo…», que relativiza lo vivido. Por eso respaldan que el relato no afirma literalmente que la tierra despierta, sino que deja abierta la posibilidad. | OA N°8 — hipótesis fundamentada con citas |
 | 13 | **d) Desde un punto de vista social, el relato muestra cómo quienes migraron a Temuco sostienen el Wetripantu como vínculo con su origen, aunque reconozcan la duda: "Pero algo cambia".** La interpretación adopta un punto de vista social, lo apoya con una cita ("Pero algo cambia") y relaciona la celebración con la migración a Temuco. | OA N°8 — interpretación literaria integrada |
 | 14 | **b)** El uso libre del celular durante el recreo debilita el vínculo presencial entre estudiantes, por lo que se deben promover espacios y actividades que no dependan de una pantalla. El autor sostiene que el celular libre en el recreo debilita los vínculos presenciales y propone actividades sin pantallas: esa es su tesis. | OA N°9 — tesis del autor |
 | 15 | **a)** Metáfora e hipérbole combinadas. Llamar "muerte" al cambio del recreo es una metáfora, y exagerarlo a propósito ("sin exagerar…") es una hipérbole. | OA N°9 — figura retórica |

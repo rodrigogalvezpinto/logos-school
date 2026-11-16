@@ -40,10 +40,10 @@ d) Reduce los residuos orgánicos que van a vertederos, evita el metano que emit
 
 4. *(Varias correctas — Evaluación de evidencia)* Una empresa propone instalar una planta desaladora en una caleta del norte, argumentando solo que "el mar es infinito y no se va a acabar". ¿Qué evidencia adicional conviene exigir? Marca **todas** las correctas.
 
-a) Estudios sobre el efecto de la salmuera descargada en la flora y fauna marina de la caleta
-b) Mediciones del consumo de energía de la planta y de dónde provendrá esa energía
-c) Un análisis de costos y beneficios comparado con otras opciones, como reutilizar aguas tratadas
-d) Un comentario más en redes sociales a favor del proyecto
+a) Mediciones del consumo de energía de la planta y de dónde provendrá esa energía
+b) Un análisis de costos y beneficios comparado con otras opciones, como reutilizar aguas tratadas
+c) Un comentario más en redes sociales a favor del proyecto
+d) Estudios sobre el efecto de la salmuera descargada en la flora y fauna marina de la caleta
 
 5. *(Alternativas)* Una ciudad del norte establece restricciones al tránsito de vehículos más contaminantes y amplía las ciclovías para disminuir el smog que respiran sus habitantes. Responde principalmente al criterio de:
 
@@ -115,7 +115,7 @@ d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con 
 
 3. **d)** Los restos orgánicos en un vertedero se descomponen sin oxígeno y emiten metano; el biodigestor capta ese gas y lo aprovecha como energía.
 
-4. a, b y c — La afirmación general no reemplaza los estudios técnicos ni de impacto ambiental.
+4. a, b y d — La afirmación general no reemplaza los estudios técnicos ni de impacto ambiental.
 
 5. **c)** Reducción de emisiones: el objetivo central es disminuir los contaminantes que se liberan a la atmósfera.
 

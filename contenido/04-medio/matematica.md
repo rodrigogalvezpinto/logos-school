@@ -234,12 +234,12 @@ d) Simple $590.000; compuesto ≈ $595.508 (diferencia ≈ $5.508)
 *Retroalimentación:* a 3 años la diferencia era de solo ≈ $5.508: el compuesto se aleja cada vez más con el tiempo.
 
 **Pregunta 18 (varias correctas — fundamentar una decisión).** Un joven con $1.000.000 duda entre gastarlo, ahorrar 5 años al 6% compuesto o invertir en un fondo con retorno esperado de 9% y riesgo de pérdida. ¿Qué información adicional es pertinente? Marca **todas** las correctas.
-a) Si tiene necesidades de liquidez a corto plazo
-b) Qué nivel de riesgo está dispuesto a asumir
-c) El efecto de la inflación proyectada sobre el poder adquisitivo de cada alternativa
-d) El color del logo del banco
+a) El color del logo del banco
+b) Si tiene necesidades de liquidez a corto plazo
+c) Qué nivel de riesgo está dispuesto a asumir
+d) El efecto de la inflación proyectada sobre el poder adquisitivo de cada alternativa
 
-**Respuesta correcta: a, b y c.**
+**Respuesta correcta: b, c y d.**
 *Retroalimentación:* Antes de decidir conviene saber si necesitará el dinero pronto (liquidez), cuánto riesgo está dispuesto a correr y cuánto afectará la inflación al poder de compra. Comparar solo las tasas no basta.
 
 ---
@@ -646,12 +646,12 @@ d) La 2: 970 g está a 1,5σ bajo la media, frente a 6σ en la 1
 *Retroalimentación:* a mayor dispersión, más probable que un valor se aleje tanto de la media.
 
 **Pregunta 17 (varias correctas — evaluar un argumento).** "Un estudio de 15 personas demuestra que el suplemento X mejora la memoria." ¿Qué preguntas conviene hacerse? Marca **todas** las correctas.
-a) ¿Es suficiente una muestra de 15 personas?
-b) ¿Hubo un grupo de control?
-c) ¿Se controlaron otras variables, como el sueño o la dieta?
-d) ¿De qué color es la caja del suplemento?
+a) ¿Se controlaron otras variables, como el sueño o la dieta?
+b) ¿De qué color es la caja del suplemento?
+c) ¿Es suficiente una muestra de 15 personas?
+d) ¿Hubo un grupo de control?
 
-**Respuesta correcta: a, b y c.**
+**Respuesta correcta: a, c y d.**
 *Retroalimentación:* Con solo 15 personas, sin un grupo de control y sin controlar variables como el sueño o la dieta, no se puede atribuir la mejora al suplemento. También conviene preguntar si el resultado fue estadísticamente significativo.
 
 **Pregunta 18 (alternativas — binomial con complemento).** Cada artículo tiene probabilidad 0,02 de ser defectuoso. En una muestra de 5, ¿cuál es la probabilidad de ninguno defectuoso y de al menos uno?

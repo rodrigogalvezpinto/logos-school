@@ -60,10 +60,10 @@ d) Tiene el pelo canoso y la voz suave, lo que sugiere que es sabio y que le gus
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Que lo valioso requiere tiempo y no se puede apurar; es una metáfora, porque compara la vida con la greda sin usar "como"
-b) Que lo valioso requiere tiempo y no se puede apurar; es una personificación, porque "la greda no miente" atribuye a un objeto la capacidad humana de decir la verdad
-c) Que la greda es un material frágil que no sirve para nada; es una comparación
-d) Que hay que trabajar rápido para no aburrirse; es una metáfora
+a) Que lo valioso requiere tiempo y no se puede apurar; es una personificación, porque "la greda no miente" atribuye a un objeto la capacidad humana de decir la verdad
+b) Que la greda es un material frágil que no sirve para nada; es una comparación
+c) Que hay que trabajar rápido para no aburrirse; es una metáfora
+d) Que lo valioso requiere tiempo y no se puede apurar; es una metáfora, porque compara la vida con la greda sin usar "como"
 
 **3. (Alternativas)** En el Texto 2, cuando Rosario le dice a Tomás "Hiciste bien en traerlo rápido y no intentar alimentarlo tú mismo", ¿qué se puede inferir sobre su actitud hacia lo que hizo Tomás?
 
@@ -225,10 +225,10 @@ d) Solo las cartas tienen destinatario
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) "A beneficio del curso de 6° básico"
-b) "Para todas las edades"
-c) "Entrada liberada para toda la comunidad"
-d) "Centro de Padres y Apoderados"
+a) "Centro de Padres y Apoderados"
+b) "A beneficio del curso de 6° básico"
+c) "Para todas las edades"
+d) "Entrada liberada para toda la comunidad"
 
 ---
 
@@ -321,7 +321,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje evaluado |
 |----|------------------------------------------|-----------------------------------|
 | 1 | **a)** "Manos ásperas y siempre manchadas de greda seca" sugiere años de trabajo y experiencia en la alfarería; esta característica física es relevante porque explica su paciencia y maestría al enseñar. | OA N°4 — características físicas relevantes |
-| 2 | **a y b.** La idea es que las cosas que valen la pena requieren tiempo, o se "quiebran". La figura esperada es la metáfora; también es correcta la personificación si se fundamenta en "la greda no miente". | OA N°4 — lenguaje figurado en narraciones |
+| 2 | **a y d.** La idea es que las cosas que valen la pena requieren tiempo, o se "quiebran". La figura esperada es la metáfora; también es correcta la personificación si se fundamenta en "la greda no miente". | OA N°4 — lenguaje figurado en narraciones |
 | 3 | **d)** Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía. Rosario dice "Hiciste bien": valora que Tomás llevara al quique a un experto en vez de intentar cuidarlo solo. | OA N°4 — inferencia sobre personajes |
 | 4 | **a) Porque proviene de haber ayudado a un ser vivo a recuperarse con tiempo, cuidado y paciencia, igual que el mensaje de tata Segundo: lo valioso no se hace con apuro.** Las dos semanas de recuperación muestran un proceso lento y cuidadoso, como el que tata Segundo describe para la alfarería. | OA N°4 — interpretación profunda y relación entre textos |
 | 5 | **a)** Rima asonante, porque solo coinciden los sonidos vocálicos (a-a) entre "casa" y "cama", no todos los sonidos (las consonantes "s" y "m" son distintas). | OA N°5 — elementos formales del poema (rima) |
@@ -336,7 +336,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 14 | **b)** Invitar a la comunidad a participar de un encuentro de juegos y cueca, y recaudar fondos para el curso de 6° básico. Un afiche busca que la gente asista: invita a la comunidad al encuentro de juegos y cueca, con fecha y lugar. | OA N°7 — propósito del texto |
 | 15 | **d) No la entrega; habría que consultar al Centro de Padres y Apoderados, emisor del afiche.** El afiche menciona la venta de anticuchos y mote con huesillo a beneficio del curso, sin precios; la entrada liberada no significa que la comida sea gratis. | OA N°7 — suficiencia de la información |
 | 16 | **b)** El destinatario de un texto depende de su propósito y del contexto en que fue producido. Cada texto se escribe pensando en quién lo leerá: el destinatario depende del propósito y de la situación. | OA N°7 — destinatario de los textos en general |
-| 17 | **b y c.** "Para todas las edades" y "Entrada liberada para toda la comunidad" muestran que el afiche se dirige a un público amplio; "A beneficio del curso de 6° básico" indica quién recibe lo recaudado, no a quién va dirigido, y "Centro de Padres y Apoderados" identifica al emisor, no al destinatario. El afiche cumple bien su propósito porque además entrega fecha, horario, lugar y actividades con claridad. | OA N°7 — destinatario y evaluación del propósito |
+| 17 | **c y d.** "Para todas las edades" y "Entrada liberada para toda la comunidad" muestran que el afiche se dirige a un público amplio; "A beneficio del curso de 6° básico" indica quién recibe lo recaudado, no a quién va dirigido, y "Centro de Padres y Apoderados" identifica al emisor, no al destinatario. El afiche cumple bien su propósito porque además entrega fecha, horario, lugar y actividades con claridad. | OA N°7 — destinatario y evaluación del propósito |
 | 18 | **b)** Ayudan a quien lee a imaginar el lugar y el momento en que ocurre la historia, y pueden reforzar la atmósfera del relato. Las descripciones del ambiente ayudan a imaginar dónde y cuándo ocurre la historia, y pueden incluir detalles de lo que se ve, se oye o se huele. | OA N°14 — función de las descripciones de ambiente |
 | 19 | **b) La lluvia caía suave sobre los toldos, mientras el humo de las cocinerías se mezclaba con el olor a sopaipillas; se escuchaba el chisporroteo del aceite.** La opción correcta incluye detalles que se ven, se huelen y se escuchan; las otras solo informan o narran sin detalles sensoriales. | OA N°14 — descripción del ambiente |
 | 20 | **c) —Necesito contarte algo antes del ensayo —dijo Valentina, nerviosa—. No voy a poder cantar el sábado. / —¿Por qué? —preguntó Rodrigo. / —Perdí la voz y todavía no le aviso a la profesora.** Solo la c) revela información relevante para una trama (un problema que deberá resolverse); las otras son diálogos sin conflicto. | OA N°14 — diálogo que aporta a la trama |

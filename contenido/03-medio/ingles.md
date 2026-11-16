@@ -570,11 +570,11 @@ formal? ¿un resumen realmente resume?).
    **Retroalimentación:** La oración de relativo agrega información sobre la tradición mencionada.
 
 7. *(Varias correctas — Conectores — desafiante)* Complete: *"My identity has been shaped by many things. ___, my family's traditions have taught me the value of community. ___, living in a globalized world has made me curious about other cultures."* Which options are appropriate? Marca **todas** las correctas.
-   a) Firstly / In addition
-   b) First of all / Moreover
-   c) However / Because
-   d) Although / Unless
-   **Respuesta correcta:** a y b.
+   a) Although / Unless
+   b) Firstly / In addition
+   c) First of all / Moreover
+   d) However / Because
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** Se esperan conectores que ordenen y sumen ideas para dar fluidez al párrafo.
 
 8. *(Alternativas — desafiante)* ¿Qué párrafo cumple mejor con la estructura

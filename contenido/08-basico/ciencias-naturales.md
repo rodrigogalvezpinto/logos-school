@@ -119,12 +119,12 @@ principio de que la estructura celular está al servicio de su función.
    núcleo definido; su material genético está disperso en el citoplasma.
 
 3. *(Varias correctas — Clasificar)* ¿Cuáles de estas estructuras están presentes **solo** en las células vegetales? Marca **todas** las correctas.
-   a) Pared celular
-   b) Cloroplasto
-   c) Vacuola central grande
-   d) Mitocondria
-   e) Membrana celular
-   **Respuesta correcta:** a, b y c.
+   a) Vacuola central grande
+   b) Mitocondria
+   c) Membrana celular
+   d) Pared celular
+   e) Cloroplasto
+   **Respuesta correcta:** a, d y e.
    **Retroalimentación:** La membrana celular y las mitocondrias están en ambos tipos de célula; las exclusivas de la célula vegetal se vinculan con la fotosíntesis y el soporte estructural.
 
 4. *(Alternativas)* ¿Por qué el hepatocito (célula del hígado) tiene una gran cantidad de mitocondrias?
@@ -232,11 +232,11 @@ específicos sean distintos.
    CO₂, salida de O₂) como la salida de vapor de agua durante la transpiración.
 
 3. *(Varias correctas — Clasificar)* ¿Qué procesos de una planta ocurren **tanto de día como de noche**? Marca **todas** las correctas.
-   a) Respiración celular
-   b) Absorción de agua por la raíz
-   c) Fotosíntesis
-   d) Ninguno: todos ocurren solo de día
-   **Respuesta correcta:** a y b.
+   a) Fotosíntesis
+   b) Ninguno: todos ocurren solo de día
+   c) Respiración celular
+   d) Absorción de agua por la raíz
+   **Respuesta correcta:** c y d.
    **Retroalimentación:** La fotosíntesis depende de la luz solar; la respiración celular y la absorción de agua ocurren de manera continua.
 
 4. *(Alternativas)* ¿Qué rol cumplen los estomas en la fotosíntesis, la respiración celular y la transpiración?
@@ -385,11 +385,11 @@ organismo.
    **Retroalimentación:** Interpretar evidencia científica ayuda a comprender por qué ciertas conductas afectan la salud.
 
 7. *(Varias correctas — Prevención)* ¿Qué medidas ayudan a cuidar el equilibrio de los sistemas digestivo, circulatorio, respiratorio y excretor? Marca **todas** las correctas.
-   a) Evitar o reducir el consumo de tabaco
-   b) Moderar el consumo de sodio y grasas
-   c) Aumentar el consumo de alcohol
-   d) Consumir más sal para retener líquidos
-   **Respuesta correcta:** a y b.
+   a) Moderar el consumo de sodio y grasas
+   b) Aumentar el consumo de alcohol
+   c) Consumir más sal para retener líquidos
+   d) Evitar o reducir el consumo de tabaco
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** Evitar el tabaco protege los sistemas respiratorio y circulatorio; moderar sodio y grasas previene hipertensión y sobrecarga renal. Más alcohol o sal dañan estos sistemas.
 
 ---
@@ -496,11 +496,11 @@ lo largo de la vida.
    **Retroalimentación:** Desde los primeros cigarrillos el cuerpo recibe sustancias dañinas, y la nicotina puede generar dependencia aunque se fume solo en ocasiones. Por eso fumar «solo en las fiestas» no protege de la adicción ni del daño.
 
 7. *(Varias correctas — Plan)* ¿Qué acciones forman parte de un plan simple para mantener un cuerpo saludable? Marca **todas** las correctas.
-   a) Incluir en cada comida alimentos energéticos, constructores y reguladores
-   b) Realizar actividad física regular, adecuada a la edad y condición
-   c) Evitar el consumo de alcohol, tabaco y otras drogas
-   d) Saltarse comidas para bajar de peso rápido
-   **Respuesta correcta:** a, b y c.
+   a) Saltarse comidas para bajar de peso rápido
+   b) Incluir en cada comida alimentos energéticos, constructores y reguladores
+   c) Realizar actividad física regular, adecuada a la edad y condición
+   d) Evitar el consumo de alcohol, tabaco y otras drogas
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Un plan de salud efectivo combina alimentación, actividad física y prevención del consumo; saltarse comidas no es saludable.
 
 ---
@@ -592,11 +592,11 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
    mismo camino de corriente; si uno falla, se interrumpe el circuito completo.
 
 3. *(Varias correctas — Clasificar)* ¿Qué componentes del circuito domiciliario cumplen principalmente una función de **seguridad**? Marca **todas** las correctas.
-   a) Fusible o automático
-   b) Malla de tierra
-   c) Interruptor
-   d) Enchufe
-   **Respuesta correcta:** a y b.
+   a) Enchufe
+   b) Fusible o automático
+   c) Malla de tierra
+   d) Interruptor
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** El interruptor cumple función de control y el enchufe de conexión; fusibles, automáticos y malla de tierra protegen a las personas y la instalación.
 
 4. *(Alternativas)* ¿Por qué la instalación eléctrica de una vivienda se conecta en paralelo y no en serie?
@@ -999,11 +999,11 @@ ciertos tipos de enlaces, aunque no se conozca ese elemento específico en detal
    semejantes.
 
 3. *(Varias correctas — Clasificar)* ¿Cuáles de estas propiedades son características de los **metales**? Marca **todas** las correctas.
-   a) Buena conductividad eléctrica
-   b) Brillo característico
-   c) Tendencia a compartir electrones
-   d) Baja conductividad térmica
-   **Respuesta correcta:** a y b.
+   a) Tendencia a compartir electrones
+   b) Baja conductividad térmica
+   c) Buena conductividad eléctrica
+   d) Brillo característico
+   **Respuesta correcta:** c y d.
    **Retroalimentación:** Compartir electrones y la baja conductividad térmica son más características de los no metales.
 
 4. *(Alternativas)* ¿Cuál es la diferencia entre un enlace iónico y uno covalente?

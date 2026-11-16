@@ -38,10 +38,10 @@ d) 1-C, 2-A, 3-B
 
 **Pregunta 4 (varias correctas).** ¿Cuáles de estos son ejemplos de que el ser humano ha **transformado** su medio? Marca **todas** las correctas.
 
-a) Las terrazas de cultivo incas en las laderas
-b) Los diques de los Países Bajos para ganarle tierra al mar
-c) Los canales de regadío en el valle del Nilo
-d) Un grupo de cazadores que solo se desplaza siguiendo a los animales
+a) Los canales de regadío en el valle del Nilo
+b) Un grupo de cazadores que solo se desplaza siguiendo a los animales
+c) Las terrazas de cultivo incas en las laderas
+d) Los diques de los Países Bajos para ganarle tierra al mar
 
 **Pregunta 5 (alternativas — análisis de mapa).** Las primeras ciudades de Egipto se construyeron a lo largo del río Nilo, rodeadas de desierto. ¿Qué factor de asentamiento explica esa ubicación?
 
@@ -100,7 +100,7 @@ d) Porque evaluar impide construir cualquier obra
 1. c) El cultivo en terrazas y la domesticación de llamas y alpacas, adaptados a la montaña. Los incas construyeron terrazas (andenes) para cultivar en las laderas y criaron llamas y alpacas, que dan lana, carne y transporte en la altura.
 2. Verdadero. La relación ser humano-medio es de doble vía: nos adaptamos al medio y también lo transformamos.
 3. **a) 1-C, 2-B, 3-A.** Los cenotes daban agua, un recurso que favoreció el asentamiento (C); la tala en Rapa Nui muestra cómo un medio frágil se degrada (B), y los tsunamis son una amenaza del entorno para los pueblos costeros (A).
-4. a, b y c — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
+4. a, c y d — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
 5. d) Las crecidas del Nilo depositaban limo fértil en sus orillas, lo que permitió una agricultura productiva en medio del desierto.
 6. **c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado.** El caso muestra la fragilidad del medio: cuando un entorno limitado se sobreexplota, el daño puede ser severo y difícil de revertir; por eso se deben tomar decisiones responsables.
 7. b) Construir edificios con normas antisísmicas, que reducen los daños en un terremoto.

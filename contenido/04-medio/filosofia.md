@@ -143,11 +143,11 @@ una posición con razones.
    **Retroalimentación:** Cada situación ejemplifica un uso distinto —pero igualmente legítimo— de la reflexión filosófica: precisar conceptos, examinar creencias no fundamentadas y deliberar colectivamente.
 
 4. *(Varias correctas — Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no tiene ninguna relación con la ciencia, porque la ciencia se basa en pruebas y la filosofía solo en opiniones." ¿Qué evaluaciones de esta afirmación son pertinentes? Marca **todas** las correctas.
-   a) La filosofía no se basa en opiniones sin más, sino en argumentos que se examinan y justifican
-   b) La filosofía de la ciencia examina qué hace científica a una teoría o qué es una explicación causal, preguntas que la ciencia no resuelve solo con sus métodos empíricos
-   c) La afirmación es correcta: filosofía y ciencia nunca se tocan
-   d) La afirmación es correcta porque la ciencia tampoco usa pruebas
-   **Respuesta correcta:** a y b.
+   a) La afirmación es correcta: filosofía y ciencia nunca se tocan
+   b) La afirmación es correcta porque la ciencia tampoco usa pruebas
+   c) La filosofía no se basa en opiniones sin más, sino en argumentos que se examinan y justifican
+   d) La filosofía de la ciencia examina qué hace científica a una teoría o qué es una explicación causal, preguntas que la ciencia no resuelve solo con sus métodos empíricos
+   **Respuesta correcta:** c y d.
    **Retroalimentación:** Se trata de distinguir "opinión no examinada" de "argumento filosófico" y de reconocer al menos un punto de contacto concreto entre filosofía y ciencia.
 
 5. *(Alternativas — intermedio)* Un joven decide no votar en una elección
@@ -441,11 +441,11 @@ pensar tu propia vida y la sociedad en la que vives.
     traiga.
 
 11. *(Varias correctas — Análisis de caso — intermedio)* Un cupo universitario especial puede darse al postulante con mejor puntaje o a uno con puntaje algo menor que proviene de alta vulnerabilidad. ¿Qué afirmaciones aplican correctamente los criterios de justicia distributiva? Marca **todas** las correctas.
-    a) Según mérito, el cupo iría a quien demostró mayor desempeño en la medida acordada
-    b) Según necesidad, iría al postulante vulnerable, porque compensar desventajas de origen favorece una competencia más equitativa
-    c) Ambos criterios reflejan concepciones legítimas y en tensión de lo que hace justa una distribución
-    d) Solo el mérito es un criterio de justicia; la necesidad es caridad
-    **Respuesta correcta:** a, b y c.
+    a) Según necesidad, iría al postulante vulnerable, porque compensar desventajas de origen favorece una competencia más equitativa
+    b) Ambos criterios reflejan concepciones legítimas y en tensión de lo que hace justa una distribución
+    c) Solo el mérito es un criterio de justicia; la necesidad es caridad
+    d) Según mérito, el cupo iría a quien demostró mayor desempeño en la medida acordada
+    **Respuesta correcta:** a, b y d.
     **Retroalimentación:** Se aplican ambos criterios al mismo caso y se reconoce su tensión sin resolver el dilema de forma dogmática.
 
 12. *(Alternativas — intermedio)* Según el imperativo categórico kantiano
@@ -486,11 +486,11 @@ pensar tu propia vida y la sociedad en la que vives.
     bienestar.
 
 15. *(Varias correctas — Análisis de argumento — desafiante)* Un hospital tiene cinco pacientes que morirán sin trasplantes y un paciente sano compatible con todos. Alguien argumenta: "Sería correcto sacrificar en secreto al paciente sano para salvar a los cinco." ¿Qué evaluaciones aplican los marcos con matices? Marca **todas** las correctas.
-    a) Un consecuencialismo centrado solo en el número podría preferir salvar cinco vidas, pero muchos consecuencialistas objetarían que esa práctica generaría desconfianza en los hospitales y empeoraría el bienestar a largo plazo
-    b) Desde la deontología, el argumento es inaceptable porque trata al paciente sano como mero medio y viola su derecho a no ser dañado sin consentimiento
-    c) Todo consecuencialista aprobaría el sacrificio sin ninguna objeción posible
-    d) La deontología lo aprobaría porque se salvan más vidas
-    **Respuesta correcta:** a y b.
+    a) La deontología lo aprobaría porque se salvan más vidas
+    b) Un consecuencialismo centrado solo en el número podría preferir salvar cinco vidas, pero muchos consecuencialistas objetarían que esa práctica generaría desconfianza en los hospitales y empeoraría el bienestar a largo plazo
+    c) Desde la deontología, el argumento es inaceptable porque trata al paciente sano como mero medio y viola su derecho a no ser dañado sin consentimiento
+    d) Todo consecuencialista aprobaría el sacrificio sin ninguna objeción posible
+    **Respuesta correcta:** b y c.
     **Retroalimentación:** El caso ilustra por qué muchas personas encuentran problemático un cálculo puramente agregado del bienestar; no basta con la versión más simplista del consecuencialismo.
 
 ---
@@ -580,11 +580,11 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
    oponerle.
 
 2. *(Varias correctas — Análisis estructural — intermedio)* A: «Toda norma justa respeta la igual dignidad; esta norma es justa; por tanto, respeta la igual dignidad». B: «En tres reuniones del curso, los turnos aumentaron la participación; conviene mantenerlos porque amplían la participación». ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
-   a) A es deductivo: su forma es válida, aunque eso no prueba que sus premisas sean verdaderas
-   b) B es inductivo: tres casos apoyan una conclusión provisional que podría no valer para otras reuniones
-   c) En B, la evidencia son las tres reuniones y la tesis es mantener los turnos
-   d) A es inductivo porque habla de normas justas
-   **Respuesta correcta:** a, b y c.
+   a) A es inductivo porque habla de normas justas
+   b) A es deductivo: su forma es válida, aunque eso no prueba que sus premisas sean verdaderas
+   c) B es inductivo: tres casos apoyan una conclusión provisional que podría no valer para otras reuniones
+   d) En B, la evidencia son las tres reuniones y la tesis es mantener los turnos
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Un argumento deductivo válido garantiza la conclusión si las premisas son verdaderas; uno inductivo solo la hace probable, según la representatividad de la muestra. Una objeción pertinente a B sería comprobar que los turnos no impidan intervenciones urgentes.
 
 3. *(Identificar falacia — simple)* "No hay que escuchar la crítica de ese
@@ -645,11 +645,11 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
    otros referentes, no usarse como comodín.
 
 8. *(Varias correctas — Análisis de argumento — desafiante)* "Un estudio de una universidad extranjera mostró que los estudiantes que usan redes sociales más de 4 horas diarias tienen peor rendimiento (premisa 1). Además, es evidente que pasar mucho tiempo distraído perjudica la concentración (premisa 2). Por lo tanto, las redes sociales deberían prohibirse completamente en los colegios." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
-   a) La premisa 1 usa un referente empírico y la premisa 2, uno de sentido común
-   b) La conclusión es más extrema de lo que sostienen las premisas: de un uso excesivo asociado a peor rendimiento no se sigue prohibir todo uso, incluido el moderado o educativo
-   c) Hay un salto argumentativo entre las premisas y la conclusión
-   d) El argumento es deductivamente válido y la conclusión se sigue necesariamente
-   **Respuesta correcta:** a, b y c.
+   a) Hay un salto argumentativo entre las premisas y la conclusión
+   b) El argumento es deductivamente válido y la conclusión se sigue necesariamente
+   c) La premisa 1 usa un referente empírico y la premisa 2, uno de sentido común
+   d) La conclusión es más extrema de lo que sostienen las premisas: de un uso excesivo asociado a peor rendimiento no se sigue prohibir todo uso, incluido el moderado o educativo
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Aunque las premisas tengan respaldo, la conclusión no se sigue necesariamente de ellas: es un problema de estructura, no solo de contenido.
 
 9. *(Identificar falacia — simple)* "O apoyas la construcción de la nueva
@@ -724,11 +724,11 @@ En el modelo de **Toulmin**, la **tesis** es lo que se sostiene; la **razón**, 
     realmente demuestra su conclusión, no solo la validez aislada.
 
 15. *(Varias correctas — Análisis de argumento — desafiante)* "No deberíamos escuchar las críticas de esa activista sobre la ley de vigilancia digital, porque ni siquiera estudió leyes (1). Además, si empezamos a limitar la vigilancia estatal aunque sea un poco, en pocos años el país quedará completamente indefenso frente al crimen organizado (2)." ¿Qué falacias comete? Marca **todas** las correctas.
-    a) (1) ad hominem: descalifica a la persona en vez de evaluar el contenido de su crítica
-    b) (2) pendiente resbaladiza: afirma sin evidencia que un límite pequeño llevará inevitablemente a un escenario extremo
-    c) (1) generalización apresurada: concluye a partir de una muestra pequeña
-    d) (2) apelación a la autoridad: cita a un experto reconocido
-    **Respuesta correcta:** a y b.
+    a) (2) pendiente resbaladiza: afirma sin evidencia que un límite pequeño llevará inevitablemente a un escenario extremo
+    b) (1) generalización apresurada: concluye a partir de una muestra pequeña
+    c) (2) apelación a la autoridad: cita a un experto reconocido
+    d) (1) ad hominem: descalifica a la persona en vez de evaluar el contenido de su crítica
+    **Respuesta correcta:** a y d.
     **Retroalimentación:** Atacar a la persona en vez del argumento y exagerar una cadena de consecuencias sin justificación son mecanismos distintos.
 
 ---
@@ -827,11 +827,11 @@ presentación) para comunicar esas ideas.
    **Retroalimentación:** Justicia y trato debido (ética), identidad y naturaleza de un objeto (ontología), justificación y confianza en el conocimiento (epistemología).
 
 4. *(Varias correctas — Análisis de caso — intermedio)* El trabajo remoto, normalizado tras la pandemia, ha generado debate sobre sus efectos en la vida familiar y personal. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
-   a) Libertad positiva: para algunas personas amplía la capacidad real de organizar su tiempo y conciliar trabajo y familia
-   b) Libertad efectiva: para otras desdibuja los límites entre trabajo y descanso, reduciendo su libertad pese a la flexibilidad formal
-   c) Igualdad: no todas las personas tienen las mismas condiciones (espacio, cuidados) para aprovechar esa modalidad
-   d) No tiene relación con la ética, porque es solo un tema técnico
-   **Respuesta correcta:** a, b y c.
+   a) No tiene relación con la ética, porque es solo un tema técnico
+   b) Libertad positiva: para algunas personas amplía la capacidad real de organizar su tiempo y conciliar trabajo y familia
+   c) Libertad efectiva: para otras desdibuja los límites entre trabajo y descanso, reduciendo su libertad pese a la flexibilidad formal
+   d) Igualdad: no todas las personas tienen las mismas condiciones (espacio, cuidados) para aprovechar esa modalidad
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Para algunas personas, el trabajo remoto amplía su libertad positiva (organizar su tiempo y conciliar trabajo y familia); para otras, borra los límites entre trabajo y vida personal y reduce su libertad efectiva.
 
 5. *(Alternativas — intermedio)* Un artista genera una obra usando
@@ -872,11 +872,11 @@ presentación) para comunicar esas ideas.
    claridad, no una explicación causal exclusiva y total.
 
 8. *(Varias correctas — Análisis de argumento — desafiante)* "Da lo mismo si tratamos a una inteligencia artificial avanzada con consideración moral o no, porque de todas formas no es un ser humano." ¿Qué posturas filosóficas son coherentes (una que lo cuestiona y otra que lo respalda)? Marca **todas** las correctas.
-   a) Lo cuestiona: si el estatus moral depende de capacidades como sufrir o tener experiencias, y no de ser humano en sentido biológico, habría que examinar si la IA las posee antes de descartarla
-   b) Lo respalda: mientras no haya evidencia de experiencia subjetiva real, extenderle consideración moral podría ser atribuir experiencia donde solo hay procesamiento de información
-   c) Lo cuestiona: toda máquina es moralmente igual a una persona por definición
-   d) Lo respalda: nada que no sea humano puede tener jamás ningún estatus moral, ni siquiera los animales
-   **Respuesta correcta:** a y b.
+   a) Lo respalda: nada que no sea humano puede tener jamás ningún estatus moral, ni siquiera los animales
+   b) Lo cuestiona: si el estatus moral depende de capacidades como sufrir o tener experiencias, y no de ser humano en sentido biológico, habría que examinar si la IA las posee antes de descartarla
+   c) Lo respalda: mientras no haya evidencia de experiencia subjetiva real, extenderle consideración moral podría ser atribuir experiencia donde solo hay procesamiento de información
+   d) Lo cuestiona: toda máquina es moralmente igual a una persona por definición
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** El debate cruza una pregunta ontológica (qué es la IA, si tiene experiencia) con una ética (qué otorga estatus moral), sin resolverlo de forma dogmática.
 
 9. *(Alternativas — simple)* Ciertos grupos rechazan sistemáticamente la
@@ -908,11 +908,11 @@ presentación) para comunicar esas ideas.
     descartarlos y partir de cero.
 
 11. *(Varias correctas — Análisis de caso — intermedio)* Un sistema de reconocimiento facial se instala en espacios públicos para identificar automáticamente a quienes circulan por la calle. ¿Qué análisis vinculan correctamente el fenómeno con conceptos éticos del OA 2? Marca **todas** las correctas.
-    a) Libertad negativa: la vigilancia constante puede funcionar como una forma de coerción que limita circular sin ser monitoreado
-    b) Justicia distributiva: si el sistema tiene sesgos que identifican erróneamente con más frecuencia a ciertos grupos, la carga del error no se distribuye igual
-    c) No hay problema ético, porque la tecnología es neutral por definición
-    d) El caso solo plantea un problema de costos para el municipio
-    **Respuesta correcta:** a y b.
+    a) No hay problema ético, porque la tecnología es neutral por definición
+    b) El caso solo plantea un problema de costos para el municipio
+    c) Libertad negativa: la vigilancia constante puede funcionar como una forma de coerción que limita circular sin ser monitoreado
+    d) Justicia distributiva: si el sistema tiene sesgos que identifican erróneamente con más frecuencia a ciertos grupos, la carga del error no se distribuye igual
+    **Respuesta correcta:** c y d.
     **Retroalimentación:** La vigilancia permanente limita la libertad negativa de circular sin ser monitoreado; y si el sistema se equivoca más con ciertos grupos, distribuye sus costos de forma desigual, lo que plantea un problema de justicia.
 
 12. *(Alternativas — intermedio)* Alguien compra una obra de arte digital
@@ -956,11 +956,11 @@ presentación) para comunicar esas ideas.
     mecánica.
 
 15. *(Varias correctas — Análisis de argumento — desafiante)* "Los datos masivos (*big data*) y los algoritmos han vuelto obsoleta la epistemología: ya no hace falta preguntarse cómo justificar una creencia, porque los algoritmos 'saben' automáticamente qué es verdadero a partir de la cantidad de datos que procesan." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
-    a) Es una forma de dogmatismo: atribuye a los algoritmos una autoridad epistémica automática, no sujeta a examen
-    b) Ignora que los algoritmos son diseñados por personas, entrenados con datos que pueden tener sesgos y optimizados para objetivos (como el tiempo de uso) distintos de la verdad
-    c) Lejos de volverla obsoleta, hace más urgente preguntarse cómo se justifican sus resultados y contrastarlos con otras fuentes
-    d) Es correcto: más datos garantizan automáticamente la verdad
-    **Respuesta correcta:** a, b y c.
+    a) Ignora que los algoritmos son diseñados por personas, entrenados con datos que pueden tener sesgos y optimizados para objetivos (como el tiempo de uso) distintos de la verdad
+    b) Lejos de volverla obsoleta, hace más urgente preguntarse cómo se justifican sus resultados y contrastarlos con otras fuentes
+    c) Es correcto: más datos garantizan automáticamente la verdad
+    d) Es una forma de dogmatismo: atribuye a los algoritmos una autoridad epistémica automática, no sujeta a examen
+    **Respuesta correcta:** a, b y d.
     **Retroalimentación:** Frente a estos fenómenos, la epistemología resulta más necesaria, no menos.
 
 ---

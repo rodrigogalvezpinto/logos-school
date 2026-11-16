@@ -74,10 +74,10 @@ d) Prioriza el bien común y el transporte colectivo por sobre el uso individual
 
 6. *(Varias correctas)* Sobre la cifra de contaminación y el espacio urbano que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
 
-a) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
-b) Para contrastarlas haría falta el informe, su fecha, el método de medición y datos de otras fuentes de emisión
-c) «Muchas familias», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
-d) Basta con que el texto nombre una institución para considerar verificados los datos
+a) Para contrastarlas haría falta el informe, su fecha, el método de medición y datos de otras fuentes de emisión
+b) «Muchas familias», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
+c) Basta con que el texto nombre una institución para considerar verificados los datos
+d) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
 
 7. *(Alternativas)* ¿Qué recurso NO usa la columna para persuadir?
 
@@ -139,7 +139,7 @@ d) Sí significa perderla siempre: un formato oral no admite interpretaciones co
 
 5. d) Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
 
-6. a, b y c — Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
+6. a, b y d — Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
 
 7. **b.** La columna menciona el argumento contrario ("la culpa es de la leña y de las industrias") solo para rebatirlo, sin darle el mismo espacio que a su postura; sí usa una cifra atribuida, una concesión y un falso dilema.
 

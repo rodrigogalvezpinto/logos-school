@@ -669,12 +669,12 @@ d) Las profesora nos explicaron la tarea a mis compañeros y a mí, pero ellos n
 
 **4. (Varias correctas)** ¿Qué herramientas del procesador de texto ayudan a revisar un trabajo escrito en grupo? Marca **todas** las correctas.
 
-a) El corrector ortográfico, para detectar errores de ortografía
-b) Los comentarios, para dejar observaciones sin modificar el texto
-c) El control de cambios, para ver qué modificó cada integrante
-d) La función de borrar todo el documento
+a) La función de borrar todo el documento
+b) El corrector ortográfico, para detectar errores de ortografía
+c) Los comentarios, para dejar observaciones sin modificar el texto
+d) El control de cambios, para ver qué modificó cada integrante
 
-*Respuesta correcta: a, b y c.* Retroalimentación: El corrector ortográfico detecta errores de ortografía, los comentarios permiten dejar observaciones sin cambiar el texto y el control de cambios muestra qué modificó cada integrante. Ayudan, pero no reemplazan una revisión atenta.
+*Respuesta correcta: b, c y d.* Retroalimentación: El corrector ortográfico detecta errores de ortografía, los comentarios permiten dejar observaciones sin cambiar el texto y el control de cambios muestra qué modificó cada integrante. Ayudan, pero no reemplazan una revisión atenta.
 
 **5. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Los hermanos se peinó a sí mismo antes de la ceremonia"?
 

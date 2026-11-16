@@ -1012,3 +1012,18 @@ def test_las_explicaciones_de_pruebas_no_son_genericas():
     from explicaciones_genericas import candidatas
     hallazgos = [f"{rel}#{p.numero}" for rel, p, _ in candidatas()]
     assert hallazgos == []
+
+
+def test_varias_correctas_sin_sesgo_de_posicion():
+    # Control C.5 (2026-11-16): el 46 % de las «varias correctas» tenía a, b y c correctas y la última incorrecta, y la app
+    # no baraja las alternativas. Se rotaron; ningún patrón de posiciones debe superar el 30 % del total.
+    import json as _json
+    from collections import Counter
+    patrones = Counter()
+    for ruta in sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md")):
+        for pregunta, respuesta in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if pregunta.tipo == "varias_correctas":
+                correctas = _json.loads(respuesta.respuesta_correcta)
+                patrones["".join("X" if o in correctas else "." for o in pregunta.opciones)] += 1
+    total = sum(patrones.values())
+    assert total and max(patrones.values()) <= 0.30 * total, patrones.most_common(3)

@@ -243,12 +243,12 @@ d) Ningún efecto: el ritmo de un poema solo depende de la rima, no del largo de
 
 **7. (Varias correctas — vínculo entre obras)** ¿Qué recursos podría compartir este poema con otro poema o canción que describa un paisaje natural chileno? Marca **todas** las correctas.
 
-a) El uso de personificaciones para dar vida al paisaje
-b) La vinculación entre un elemento natural y una emoción o memoria humana
-c) El uso de imágenes sensoriales para describir el entorno
-d) Una lista de precios de productos
+a) La vinculación entre un elemento natural y una emoción o memoria humana
+b) El uso de imágenes sensoriales para describir el entorno
+c) Una lista de precios de productos
+d) El uso de personificaciones para dar vida al paisaje
 
-*Respuesta correcta: a, b y c.* Retroalimentación: ciertos recursos poéticos (como personificar el paisaje o asociarlo a emociones) se repiten en distintos autores porque son herramientas efectivas para transmitir sensaciones.
+*Respuesta correcta: a, b y d.* Retroalimentación: ciertos recursos poéticos (como personificar el paisaje o asociarlo a emociones) se repiten en distintos autores porque son herramientas efectivas para transmitir sensaciones.
 
 ---
 

@@ -441,12 +441,12 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Varias correctas)** ¿Cuáles de estas fueron dificultades de Chile para organizarse como república después de la Independencia? Marca **todas** las correctas.
-a) La falta de experiencia previa en autogobierno
-b) Los ensayos constitucionales fallidos entre 1823 y 1830
-c) Los conflictos entre conservadores y liberales sobre cómo organizar el Estado
-d) La falta total de habitantes en el país
+a) La falta total de habitantes en el país
+b) La falta de experiencia previa en autogobierno
+c) Los ensayos constitucionales fallidos entre 1823 y 1830
+d) Los conflictos entre conservadores y liberales sobre cómo organizar el Estado
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* Chile sí tenía población; organizar el nuevo Estado fue difícil por la inexperiencia, los ensayos fallidos y los conflictos de ideas.
 
 ---
@@ -582,12 +582,12 @@ d) La Independencia
 ---
 
 **5. (Varias correctas)** ¿Cuáles de estos procesos explican cómo se conformó el territorio de Chile durante el siglo XIX? Marca **todas** las correctas.
-a) La ocupación de la Araucanía
-b) La Guerra del Pacífico
-c) La incorporación de Isla de Pascua
-d) La fundación de Santiago por Pedro de Valdivia
+a) La fundación de Santiago por Pedro de Valdivia
+b) La ocupación de la Araucanía
+c) La Guerra del Pacífico
+d) La incorporación de Isla de Pascua
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* También lo explican la colonización europea del sur y la colonización de la zona austral; la fundación de Santiago ocurrió en 1541, durante la Conquista.
 
 ---
@@ -699,12 +699,12 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Varias correctas)** ¿Cuáles de estos son ejemplos de la progresiva democratización de la sociedad chilena durante el siglo XX? Marca **todas** las correctas.
-a) La ampliación del sufragio con el voto femenino
-b) El mayor acceso a la educación
-c) El crecimiento de la clase media
-d) La reducción del derecho a voto a unos pocos
+a) El crecimiento de la clase media
+b) La reducción del derecho a voto a unos pocos
+c) La ampliación del sufragio con el voto femenino
+d) El mayor acceso a la educación
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* La masificación de medios como la radio, el cine o la televisión también contribuyó a la democratización; reducir el voto sería lo contrario.
 
 ---
@@ -943,12 +943,12 @@ desde el campo hacia las ciudades, un fenómeno que provocó una fuerte urbaniza
 ---
 
 **3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos representan una **continuidad** en la sociedad chilena? Marca **todas** las correctas.
-a) La llegada de la electricidad
-b) El idioma español
-c) La ampliación del derecho a voto
-d) Fiestas tradicionales como La Tirana
+a) El idioma español
+b) La ampliación del derecho a voto
+c) Fiestas tradicionales como La Tirana
+d) La llegada de la electricidad
 
-✅ Respuesta correcta: **b y d**
+✅ Respuesta correcta: **a y c**
 💬 *Retroalimentación:* La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales se mantienen. Una sociedad se transforma en algunos aspectos mientras mantiene otros.
 
 ---
@@ -1089,12 +1089,12 @@ de minerales favorece la minería.
 ---
 
 **3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son **rasgos físicos** de una región? Marca **todas** las correctas.
-a) Hidrografía (ríos y lagos)
-b) Distribución de la población
-c) Vegetación
-d) Actividades económicas
+a) Actividades económicas
+b) Hidrografía (ríos y lagos)
+c) Distribución de la población
+d) Vegetación
 
-✅ Respuesta correcta: **a y c**
+✅ Respuesta correcta: **b y d**
 💬 *Retroalimentación:* La población y las actividades económicas son rasgos humanos. Distinguirlos permite organizar mejor la información al caracterizar una región.
 
 ---
@@ -1369,12 +1369,12 @@ nuevamente a elecciones si quiere continuar en el cargo.
 ---
 
 **3. (Varias correctas — clasificar)** ¿Cuáles de estos cargos de elección popular pertenecen al **nivel comunal**? Marca **todas** las correctas.
-a) Alcalde
-b) Senador
-c) Concejal
-d) Presidente de la República
+a) Presidente de la República
+b) Alcalde
+c) Senador
+d) Concejal
 
-✅ Respuesta correcta: **a y c**
+✅ Respuesta correcta: **b y d**
 💬 *Retroalimentación:* A nivel comunal se eligen alcaldes y concejales; a nivel nacional, diputados, senadores y Presidente/a.
 
 ---

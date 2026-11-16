@@ -149,10 +149,10 @@ d) Cambiar la postura en cada párrafo, sin tomar una postura final
 
 **15. (Varias correctas)** Un ensayo dice: «El 40 % de los jóvenes lee menos de un libro al año». Un compañero pide agregar «según la Encuesta de Comportamiento Lector». ¿Qué se gana con esa cita? Marca todas las correctas.
 
-a) El lector puede comprobar el dato y juzgar si es confiable
-b) Se reconoce honestamente de dónde viene la información
-c) El argumento se vuelve más creíble
-d) El texto queda más largo, que es lo importante
+a) Se reconoce honestamente de dónde viene la información
+b) El argumento se vuelve más creíble
+c) El texto queda más largo, que es lo importante
+d) El lector puede comprobar el dato y juzgar si es confiable
 
 ---
 
@@ -186,4 +186,4 @@ d) El texto queda más largo, que es lo importante
 
 **14.** b. La coherencia temática exige que todas las partes del ensayo se mantengan enfocadas en el mismo tema central.
 
-**15.** **a, b y c.** Citar la fuente permite verificar el dato, reconoce su origen y da credibilidad al argumento; alargar el texto no es un objetivo de la cita.
+**15.** **a, b y d.** Citar la fuente permite verificar el dato, reconoce su origen y da credibilidad al argumento; alargar el texto no es un objetivo de la cita.

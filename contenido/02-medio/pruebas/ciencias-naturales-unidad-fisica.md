@@ -46,10 +46,10 @@ Un auto que avanza en línea recta siempre a 60 km/h tiene aceleración igual a 
 **Pregunta 3.** (Varias correctas — Clasificar)
 ¿Cuáles de estas situaciones corresponden a un **MRU** (velocidad constante en línea recta)? Marca **todas** las correctas.
 
-a) Un tren que avanza en un tramo recto siempre a 80 km/h
-b) Una escalera mecánica que sube a velocidad constante
-c) Una pelota que cae desde un balcón
-d) Un auto que frena ante un semáforo
+a) Un auto que frena ante un semáforo
+b) Un tren que avanza en un tramo recto siempre a 80 km/h
+c) Una escalera mecánica que sube a velocidad constante
+d) Una pelota que cae desde un balcón
 
 **Pregunta 4.** (Alternativas)
 Una nadadora recorre una piscina de 50 m de ida y 50 m de vuelta, llegando al mismo punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?
@@ -143,7 +143,7 @@ d) Es la luz de las estrellas más cercanas; demuestra que el universo es peque�
 
 1. d) La aceleración. En un gráfico v-t, la pendiente indica cuánto cambia la velocidad por unidad de tiempo.
 2. Verdadero — si la velocidad no cambia, la aceleración es cero (MRU).
-3. a y b — Ambos mantienen la misma velocidad en línea recta; la caída libre y el frenado tienen aceleración (MRUA).
+3. b y c — Ambos mantienen la misma velocidad en línea recta; la caída libre y el frenado tienen aceleración (MRUA).
 4. a) Distancia: 100 m; desplazamiento: 0. El desplazamiento compara la posición final con la inicial.
 5. d) 5 m/s². a = Δv/Δt = 20/4 = 5 m/s².
 6. b) El vacío. Con la misma fuerza, a menor masa, mayor aceleración (F = m · a).

@@ -36,10 +36,10 @@ d) Porque la reacción libera gas cloro, tóxico para el sistema respiratorio
 
 **Pregunta 3.** *(Varias correctas — Análisis de etiqueta)* Un destapador de cañerías muestra el pictograma de corrosión (una mano y una superficie dañadas por un líquido) y la frase "provoca quemaduras graves en la piel y lesiones oculares". ¿Qué medidas de seguridad corresponden? Marca **todas** las correctas.
 
-a) Usar guantes y evitar salpicaduras en los ojos al aplicarlo
-b) Guardarlo en su envase original, cerrado y fuera del alcance de niños
-c) Seguir las instrucciones de primeros auxilios de la etiqueta si hay contacto con la piel
-d) Mezclarlo con cloro para que destape más rápido
+a) Guardarlo en su envase original, cerrado y fuera del alcance de niños
+b) Seguir las instrucciones de primeros auxilios de la etiqueta si hay contacto con la piel
+c) Mezclarlo con cloro para que destape más rápido
+d) Usar guantes y evitar salpicaduras en los ojos al aplicarlo
 
 **Pregunta 4.** *(Alternativas)* ¿Por qué trasvasijar un producto de limpieza o un plaguicida a una botella de bebida es peligroso, aunque quede bien cerrada?
 
@@ -84,10 +84,10 @@ d) Erradicación del riesgo
 
 **Pregunta 10.** *(Varias correctas — Análisis de caso)* Un municipio costero aprueba un plan regulador que prohíbe nuevas viviendas en la franja que podría alcanzar un tsunami y traslada allí plazas y áreas verdes. ¿Cómo se clasifica la medida? Marca **todas** las correctas.
 
-a) Prevención: evita exponer a nuevas familias a la amenaza
-b) Adaptación: ajusta el uso del territorio de largo plazo a un riesgo conocido
-c) Respuesta a la emergencia durante un tsunami
-d) Reconstrucción posterior a un desastre
+a) Reconstrucción posterior a un desastre
+b) Prevención: evita exponer a nuevas familias a la amenaza
+c) Adaptación: ajusta el uso del territorio de largo plazo a un riesgo conocido
+d) Respuesta a la emergencia durante un tsunami
 
 **Pregunta 11.** *(Alternativas)* Que los nuevos edificios en Chile deban diseñarse y
 construirse siguiendo la Norma Sísmica Chilena (NCh433), capaz de resistir sismos de alta
@@ -122,14 +122,14 @@ d) Actividad geotérmica
 |:---:|---|
 | 1 | d) Al mezclar cloro (hipoclorito) con un ácido se libera gas cloro, que irrita y daña las vías respiratorias; por eso los productos de limpieza no se mezclan y se usan en lugares ventilados. |
 | 2 | Falso — al sumarlos se puede superar la dosis máxima diaria de paracetamol y aumenta el riesgo de daño hepático; hay que leer el principio activo de cada etiqueta. |
-| 3 | **a, b y c.** El pictograma exige protección al usarlo, almacenaje seguro y conocer los primeros auxilios; mezclar productos puede generar reacciones peligrosas. |
+| 3 | **a, b y d.** El pictograma exige protección al usarlo, almacenaje seguro y conocer los primeros auxilios; mezclar productos puede generar reacciones peligrosas. |
 | 4 | **a) Porque se pierde la etiqueta con composición, riesgos y primeros auxilios, y alguien (especialmente un niño) puede confundirlo con una bebida.** El envase original es parte de la medida de seguridad. |
 | 5 | **d) Si se mezclan por un derrame, pueden formar gases tóxicos (cloraminas); hay que almacenarlos separados, rotulados y en lugar ventilado.** El cloro y el amoníaco son incompatibles: mezclados liberan gases tóxicos. Por eso se almacenan separados, en sus envases originales rotulados y en un lugar ventilado. |
 | 6 | **c) Que la nicotina es tóxica en dosis altas: un parche puede intoxicar a un niño o a quien lo use sin indicación, por eso hay que seguir la dosis indicada y guardarlo fuera del alcance de los niños.** Que un producto se venda en farmacias no lo hace inofensivo: la dosis y la persona importan. La nicotina en dosis altas es tóxica, sobre todo para los niños. |
 | 7 | **b) Mantener los productos en su envase original y etiquetado, en un lugar alto o con seguro, fuera del alcance de los niños.** Los envases originales tienen etiqueta con advertencias e instrucciones, y guardarlos fuera del alcance de los niños evita intoxicaciones; las botellas de bebida se confunden fácilmente con líquidos para tomar. |
 | 8 | b) Mitigación — no evita el aluvión ni la exposición de las viviendas, pero reduce su daño. |
 | 9 | Falso — también influyen decisiones humanas, como construir en zonas inundables, tapar canales con basura o impermeabilizar el suelo. |
-| 10 | **a y b.** Es una decisión de planificación tomada antes del evento; no es respuesta ni reconstrucción. |
+| 10 | **b y c.** Es una decisión de planificación tomada antes del evento; no es respuesta ni reconstrucción. |
 | 11 | a) Mitigación, porque reduce el daño del sismo sin evitar que ocurra. La norma no evita que ocurra el sismo, pero reduce sus daños: los edificios resisten sin colapsar. Reducir el impacto de una amenaza que igual ocurrirá es mitigar. |
 | 12 | Falso — el riesgo depende de la amenaza, la exposición y la vulnerabilidad actuales (vegetación seca, cercanía de viviendas), no solo de lo ocurrido antes. |
 | 13 | **c) El riesgo es la posibilidad de daño (amenaza, exposición y vulnerabilidad); el desastre ocurre cuando el aluvión se materializa y supera la capacidad de respuesta.** La prevención busca actuar antes de que el riesgo se convierta en desastre. |

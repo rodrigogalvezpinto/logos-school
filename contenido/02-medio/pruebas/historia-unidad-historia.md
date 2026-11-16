@@ -118,10 +118,10 @@ d) La Alianza para el Progreso
 
 **12. (Varias correctas)** ¿Cuáles de estas medidas formaron parte del modelo económico neoliberal aplicado en Chile desde mediados de la década de 1970? Marca **todas** las correctas.
 
-a) La privatización de empresas estatales
-b) La apertura al comercio exterior y la rebaja de aranceles
-c) La reducción del rol del Estado en la economía
-d) La nacionalización de toda la banca
+a) La nacionalización de toda la banca
+b) La privatización de empresas estatales
+c) La apertura al comercio exterior y la rebaja de aranceles
+d) La reducción del rol del Estado en la economía
 
 ---
 
@@ -166,7 +166,7 @@ d) Eduardo Frei Montalva
 9. d) La caída del Muro de Berlín; la URSS se disolvió dos años después, en 1991.
 10. **c) Que cada interpretación es una lectura del proceso basada en evidencia, que prioriza ciertos factores y puede contrastarse con otras.** Una interpretación historiográfica se construye con fuentes y evidencia, pero selecciona y jerarquiza factores. Por eso pueden coexistir interpretaciones distintas, que se evalúan según cómo usan la evidencia.
 11. b) La Comisión Rettig, cuyo informe se publicó en 1991.
-12. a, b y c — La nacionalización de la banca fue una medida del gobierno de la Unidad Popular, opuesta al modelo neoliberal.
+12. b, c y d — La nacionalización de la banca fue una medida del gobierno de la Unidad Popular, opuesta al modelo neoliberal.
 13. b) El sistema de AFP (administradoras de fondos de pensiones), de capitalización individual.
 14. **Falso.** Fue un proceso multicausal: crisis económica, protestas nacionales, rearticulación
     del mundo político, mediación de la Iglesia Católica y presión de organismos de Derechos

@@ -247,12 +247,12 @@ d) 58
 *Retroalimentación:* 58 tiene 5 decenas (50) y 8 unidades sueltas, por eso el número que falta es 8.
 
 **Pregunta 3 (varias correctas).** ¿Cuáles son formas correctas de descomponer el número 84 en dos partes? Marca **todas** las correctas.
-a) 84 = 80 + 4
-b) 84 = 70 + 14
-c) 84 = 40 + 8
-d) 84 = 50 + 34
+a) 84 = 50 + 34
+b) 84 = 80 + 4
+c) 84 = 70 + 14
+d) 84 = 40 + 8
 
-**Respuesta correcta: a, b y d.**
+**Respuesta correcta: a, b y c.**
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes, el resultado sea exactamente 84. 40 + 8 da 48: se confundieron las decenas con las unidades.
 
 **Pregunta 4 (alternativas — pictórico).** ::emoji::🧮::5 grupos de 10 fichas y 7 fichas sueltas:: ¿Qué suma representa esta composición?

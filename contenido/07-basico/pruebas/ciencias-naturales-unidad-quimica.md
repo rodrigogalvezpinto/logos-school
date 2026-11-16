@@ -132,10 +132,10 @@ d) Decantar la mezcla para separar la sal del agua, ya que la sal disuelta se de
 **Pregunta 14.** (Varias correctas)
 ¿Cuáles son ejemplos de procedimientos de separación de mezclas en procesos industriales relevantes para Chile? Marca **todas** las correctas.
 
-a) En la minería del cobre se usan procesos de separación para extraer el mineral de la roca
-b) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar impurezas
-c) En la producción de sal de mar se evapora el agua en salinas
-d) En la minería se mezcla el cobre con arena para aumentar su peso
+a) En la minería se mezcla el cobre con arena para aumentar su peso
+b) En la minería del cobre se usan procesos de separación para extraer el mineral de la roca
+c) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar impurezas
+d) En la producción de sal de mar se evapora el agua en salinas
 
 ---
 
@@ -154,4 +154,4 @@ d) En la minería se mezcla el cobre con arena para aumentar su peso
 11. b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño de partícula con un tamiz. La filtración separa un sólido no disuelto de un líquido, como arena del agua; el tamizado separa sólidos según su tamaño, como piedras de la arena.
 12. c) Porque son líquidos no miscibles con distinta densidad: el aceite, menos denso, flota sobre el agua y se separan por capas. El agua y el aceite no se mezclan y tienen distinta densidad: en reposo el aceite sube y forman dos capas, que se pueden separar con un embudo de decantación.
 13. a) Primero filtrar para separar la arena; luego evaporar o destilar el agua salada para separar el agua de la sal. La arena no se disuelve y queda en el filtro; la sal disuelta atraviesa el filtro y solo se recupera evaporando el agua (o destilándola si se quiere recuperar también el agua).
-14. a, b y c — Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas.
+14. b, c y d — Mezclar el cobre con arena no es un proceso de separación; los otros tres sí aplican métodos de separación de mezclas.

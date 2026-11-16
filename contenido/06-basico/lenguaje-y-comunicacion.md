@@ -656,12 +656,12 @@ d) Inicio: "El reciclaje de pilas es cada vez más necesario por los materiales 
 
 **7. (Varias correctas — fuentes)** ¿Cuáles de estas son fuentes confiables para investigar sobre una especie nativa de Chile en peligro de extinción? Marca **todas** las correctas.
 
-a) Páginas web de CONAF o del Ministerio del Medio Ambiente
-b) Libros o enciclopedias sobre fauna chilena
-c) Un rumor que escuchaste en el recreo
-d) Entrevistas a especialistas
+a) Un rumor que escuchaste en el recreo
+b) Entrevistas a especialistas
+c) Páginas web de CONAF o del Ministerio del Medio Ambiente
+d) Libros o enciclopedias sobre fauna chilena
 
-*Respuesta correcta: a, b y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas.
+*Respuesta correcta: b, c y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas.
 
 ---
 

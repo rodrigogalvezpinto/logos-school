@@ -1767,3 +1767,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   revisadas como válidas (`REVISADAS_A_MANO` de `explicaciones_genericas.py`). En 4.° medio, 11 preguntas de «varias
   correctas» de los simulacros tenían como explicación solo «a, b y c.»; C.4 no las veía y ahora sí. Guarda nueva en pytest.
   Observación pendiente: en esas 11 la alternativa incorrecta es siempre la d y es evidentemente absurda (patrón predecible).
+- **C.5 cerrado: sesgo de posición en «varias correctas».** Antes: patrón «a, b, c correctas; d incorrecta» en el 46 % de
+  pruebas y simulacros y la «a» correcta en casi todas; la app no baraja alternativas. Se rotaron 256 preguntas (pruebas,
+  simulacros y guías) con verificación por parser; quedan 12 sin rotar (mencionan letras o formato no reconocido). Después:
+  ningún patrón supera el 18 % en pruebas y el 21 % en guías. Backend 741 pasan. Guarda nueva en pytest.

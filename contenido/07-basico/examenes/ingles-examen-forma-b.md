@@ -76,10 +76,10 @@ d) Dar información explícita del texto
 
 **6.** *(Varias correctas — opinión, desafiante)* Read: *"Some families in our town want to close the main street to cars every Sunday, so people can walk and ride bikes there."* Which completions of *"I ___ with this idea because ___."* express a position with a coherent reason? Marca **todas** las correctas.
 
-a) I agree with this idea because people can walk safely and the air is cleaner.
-b) I disagree with this idea because some shops need cars to bring their products.
-c) I agree with this idea because Sunday is a color.
-d) I disagree with this idea because bikes are made of chocolate.
+a) I disagree with this idea because bikes are made of chocolate.
+b) I agree with this idea because people can walk safely and the air is cleaner.
+c) I disagree with this idea because some shops need cars to bring their products.
+d) I agree with this idea because Sunday is a color.
 
 ---
 
@@ -173,10 +173,10 @@ d) on Fridays / playing board games / my cousins
 
 **18.** *(Varias correctas — consejos, desafiante)* You are writing a poster about earthquakes. Which sentences with *must* or *mustn't* give safe advice for an earthquake? Marca **todas** las correctas.
 
-a) During an earthquake, you must stay away from windows.
-b) You mustn't use the elevator.
-c) You must run into the elevator.
-d) You mustn't protect your head.
+a) You mustn't protect your head.
+b) During an earthquake, you must stay away from windows.
+c) You mustn't use the elevator.
+d) You must run into the elevator.
 
 ---
 
@@ -213,10 +213,10 @@ d) was playing / taked
 
 **23.** *(Varias correctas — respuesta corta)* *"— Did you watch the match last night? — ___"* Which short answers are correct? Marca **todas** las correctas.
 
-a) Yes, I did.
-b) No, I didn't.
-c) Yes, I watched.
-d) No, I don't.
+a) Yes, I watched.
+b) No, I don't.
+c) Yes, I did.
+d) No, I didn't.
 
 **24.** *(Selección múltiple)* Complete: *"Look at ___ birds over there, near
 the lake!"*
@@ -256,7 +256,7 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 | 3 | **a) stone.** Dato explícito del texto. | OA9 |
 | 4 | False (Falso): el texto dice every morning before class, no after school. | OA9 |
 | 5 | **d) Dar información explícita del texto.** According to the text introduce un dato del texto, no una opinión. | OA9 |
-| 6 | **a y b.** Ambas posturas son válidas si van con una razón coherente con el tema; las otras dos razones no tienen sentido. | OA9 |
+| 6 | **b y c.** Ambas posturas son válidas si van con una razón coherente con el tema; las otras dos razones no tienen sentido. | OA9 |
 | 7 | a) A short biography. Cuenta datos de la vida de una persona en orden (dónde y cuándo nació, qué hizo después): es una biografía breve. | OA10 |
 | 8 | **b) before.** El gorro se pone antes de entrar a la piscina. | OA10 |
 | 9 | True (Verdadero): I think introduce una opinión; la primera oración es un hecho. | OA10 |
@@ -268,12 +268,12 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 | 15 | **d) won / felt.** Ambos verbos son irregulares en pasado simple: win → won, feel → felt. | OA13 |
 | 16 | **b) cleaning the playground / children can play safely.** Después de are se necesita un verbo en -ing, y después de because una razón coherente con la actividad. | OA13 |
 | 17 | **c) playing board games / on Fridays / my cousins.** Se necesita un pasatiempo en -ing, luego cuándo se practica y finalmente con quién, en ese orden. | OA13 |
-| 18 | **a y b.** Alejarse de las ventanas y no usar el ascensor son consejos seguros; correr al ascensor o no protegerse la cabeza son peligrosos. | OA13 |
+| 18 | **b y c.** Alejarse de las ventanas y no usar el ascensor son consejos seguros; correr al ascensor o no protegerse la cabeza son peligrosos. | OA13 |
 | 19 | **a) Tengo miedo de las arañas.** Afraid of = tener miedo de. | OA16 |
 | 20 | **d) beautifully.** Para describir cómo cantó el coro se usa el adverbio de modo beautifully. | OA16 |
 | 21 | c) Plants dry up if you don't water them. "If you don't water them" (si no las riegas) es la causa y "plants dry up" (las plantas se secan) es el efecto. | OA16 |
 | 22 | **b) were playing / took.** La acción en curso va en pasado continuo (were playing) y la que la interrumpe, en pasado simple (took). | OA16 |
-| 23 | **a y b.** Una pregunta con did se responde con did (afirmativa) o didn't (negativa); "No, I don't" está en presente. | OA16 |
+| 23 | **c y d.** Una pregunta con did se responde con did (afirmativa) o didn't (negativa); "No, I don't" está en presente. | OA16 |
 | 24 | d) those (plural y lejano: over there). | OA16 |
 | 25 | **c) much.** Water es incontable, por eso se usa much. | OA16 |
 

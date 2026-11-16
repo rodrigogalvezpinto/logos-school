@@ -283,12 +283,12 @@ d) 3
 *Retroalimentación:* para saber qué número falta, piensa: "10 más ¿cuánto más forma 14?". Si cuentas desde el 10 hasta el 14, avanzas 4 números (11, 12, 13, 14).
 
 **Pregunta 3 (varias correctas).** ¿Cuáles son formas correctas de descomponer el número 16 en dos partes? Marca **todas** las correctas.
-a) 16 = 10 + 6
-b) 16 = 8 + 8
-c) 16 = 9 + 6
-d) 16 = 9 + 7
+a) 16 = 8 + 8
+b) 16 = 9 + 6
+c) 16 = 9 + 7
+d) 16 = 10 + 6
 
-**Respuesta correcta: a, b y d.**
+**Respuesta correcta: a, c y d.**
 *Retroalimentación:* hay muchas formas correctas de descomponer un mismo número; lo importante es que, al sumar las dos partes, el resultado sea exactamente 16. 10 + 6, 8 + 8 y 9 + 7 dan 16, pero 9 + 6 da 15.
 
 **Pregunta 4 (alternativas — pictórico).**

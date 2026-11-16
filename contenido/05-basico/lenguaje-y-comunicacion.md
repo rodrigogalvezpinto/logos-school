@@ -639,12 +639,12 @@ d) Empezar por las fuentes consultadas y no presentar el tema, para que el lecto
 
 **7. (Varias correctas — fuentes confiables)** ¿Cuáles de estas son fuentes confiables para investigar sobre un animal en peligro de extinción en Chile? Marca **todas** las correctas.
 
-a) Páginas web de instituciones oficiales, como CONAF o el Ministerio del Medio Ambiente
-b) Un comentario anónimo en una red social
-c) Libros o enciclopedias sobre fauna chilena
-d) Entrevistas a especialistas
+a) Entrevistas a especialistas
+b) Páginas web de instituciones oficiales, como CONAF o el Ministerio del Medio Ambiente
+c) Un comentario anónimo en una red social
+d) Libros o enciclopedias sobre fauna chilena
 
-*Respuesta correcta: a, c y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas. Un comentario anónimo no permite verificar quién da la información.
+*Respuesta correcta: a, b y d.* Retroalimentación: para que un artículo informativo sea confiable, es importante recurrir a fuentes serias y, cuando sea posible, oficiales o especializadas. Un comentario anónimo no permite verificar quién da la información.
 
 **8. (Alternativas — punto aparte)** Un estudiante escribió su artículo sobre el huemul en un solo bloque: primero describe cómo es el animal y, después, explica por qué está en peligro. ¿Qué debe hacer para separar esas dos ideas centrales?
 

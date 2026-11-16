@@ -89,10 +89,10 @@ d) Hereditario
 
 ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
-b) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
-c) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
-d) Probar "solo por curiosidad" elimina todo riesgo
+a) La decisión personal interactúa con la presión de grupo y la vulnerabilidad biológica de la adolescencia
+b) Probar "solo por curiosidad" elimina todo riesgo
+c) A corto plazo hay riesgo de intoxicación aguda, pérdida de juicio y accidentes
+d) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cerebral, que continúa hasta cerca de los 25 años
 
 ---
 
@@ -248,10 +248,10 @@ d) Porque los abuelos nunca vivieron tsunamis reales, y sus recuerdos correspond
 
 ¿Cómo se clasifica la decisión? Marca **todas** las correctas.
 
-a) Prevención: evita exponer a la población a la amenaza
-b) Adaptación: ajusta la planificación de largo plazo al riesgo
-c) Respuesta a la emergencia durante un aluvión
-d) Reconstrucción posterior a un desastre
+a) Adaptación: ajusta la planificación de largo plazo al riesgo
+b) Respuesta a la emergencia durante un aluvión
+c) Reconstrucción posterior a un desastre
+d) Prevención: evita exponer a la población a la amenaza
 
 **24.** *(Alternativas, 2 puntos)* Un registro histórico de grandes sismos en Chile muestra:
 
@@ -270,10 +270,10 @@ d) Que los grandes sismos ocurren cada 25 años exactos y siempre en el sur del 
 
 **25.** *(Varias correctas, 3 puntos)* Al evaluar las capacidades de un colegio frente a un riesgo natural, ¿qué elementos son pertinentes? Marca **todas** las correctas.
 
-a) Señalización de vías de evacuación y frecuencia de simulacros
-b) Plan de emergencia escolar y estado de la infraestructura
-c) Coordinación con organismos como SENAPRED o Bomberos
-d) El color del uniforme escolar
+a) El color del uniforme escolar
+b) Señalización de vías de evacuación y frecuencia de simulacros
+c) Plan de emergencia escolar y estado de la infraestructura
+d) Coordinación con organismos como SENAPRED o Bomberos
 
 ---
 
@@ -296,7 +296,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 3 | Alternativas | a) No presenta mayor riesgo que sus equivalentes convencionales, según la evidencia disponible. Organismos como la OMS indican que los transgénicos aprobados, que pasan evaluaciones de seguridad, no presentan mayor riesgo que los convencionales; eso no significa que eliminen enfermedades. | OA 1 (Mód. 1) |
 | 4 | Alternativas | c) Las dimensiones física, psíquica y social de la salud de forma integrada. El ejercicio mejora la salud cardiovascular (física), reduce la ansiedad (psíquica) y favorece los vínculos cuando se practica con otros (social). | OA 1 (Mód. 1) |
 | 5 | Alternativas | **b) Ambiental.** Proviene del entorno (material particulado en el aire), por eso es un factor ambiental, aunque sus efectos se expresen en el organismo. | OA 1 (Mód. 1) |
-| 6 | Varias correctas | **a, b y c.** Reconocer los factores sociales y biológicos no elimina la responsabilidad individual. | OA 1 (Mód. 1) |
+| 6 | Varias correctas | **a, c y d.** Reconocer los factores sociales y biológicos no elimina la responsabilidad individual. | OA 1 (Mód. 1) |
 | 7 | Alternativas | **c) Vacunarse y no compartir objetos que puedan tener sangre, como agujas o máquinas de afeitar.** La hepatitis B se transmite por sangre y fluidos corporales; la vacuna y no compartir objetos cortopunzantes son las principales medidas de prevención. | OA 3 (Mód. 1) |
 | 8 | Alternativas | a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión sanguínea o sexual. La mascarilla frena las gotitas respiratorias que transmiten la influenza; el VIH se transmite por sangre y fluidos sexuales, no por el aire. | OA 3 (Mód. 1) |
 | 9 | Alternativas | a) El virus de la influenza muta con frecuencia (deriva antigénica) y la inmunidad de años anteriores no siempre protege de las nuevas variantes. El virus de la influenza cambia sus proteínas de superficie cada temporada (deriva antigénica), así que la vacuna se actualiza; el virus del sarampión es muy estable. | OA 3 (Mód. 1) |
@@ -313,9 +313,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 20 | Alternativas | b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal controladas o intencionalidad. En Chile, la gran mayoría de los incendios forestales es causada por personas, por negligencia, quemas mal controladas o intencionalidad; los rayos causan muy pocos. | OA 3 (Mód. 2) |
 | 21 | Alternativas | b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención, mitigación, preparación, respuesta y recuperación). SENAPRED reemplazó a ONEMI con un enfoque de gestión integral del riesgo: no solo responde a la emergencia, también previene, mitiga y prepara. | OA 3 (Mód. 2) |
 | 22 | Alternativas | **c) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario.** Un modelo como el del SHOA integra datos de muchos eventos y del relieve costero; un recuerdo familiar es un solo caso y el próximo tsunami puede ser mayor. | OA 3 (Mód. 2) |
-| 23 | Varias correctas | **a y b.** La planificación territorial de largo plazo combina prevención y adaptación. | OA 3 (Mód. 2) |
+| 23 | Varias correctas | **a y d.** La planificación territorial de largo plazo combina prevención y adaptación. | OA 3 (Mód. 2) |
 | 24 | Alternativas | **a) Que Chile tiene una exposición alta y recurrente a grandes sismos, lo que justifica la prevención permanente; pero no se puede predecir cuándo, dónde ni con qué magnitud será el próximo.** El registro de grandes sismos en Chile permite afirmar con evidencia que el país tiene una exposición alta y recurrente; no permite predecir la fecha del próximo. | OA 3 (Mód. 2) |
-| 25 | Varias correctas | **a, b y c.** La evaluación debe distinguir con criterio prevención, mitigación y adaptación en el entorno real. | OA 3 (Mód. 2) |
+| 25 | Varias correctas | **b, c y d.** La evaluación debe distinguir con criterio prevención, mitigación y adaptación en el entorno real. | OA 3 (Mód. 2) |
 
 
 # PUNTAJE Y VERSIÓN ANTERIOR

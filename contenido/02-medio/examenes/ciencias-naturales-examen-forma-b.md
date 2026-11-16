@@ -136,10 +136,10 @@ d) Como un virus, porque produce una sustancia humana
 
 **11.** *(Varias correctas, 2 puntos)* Un salmón modificado genéticamente crece el doble de rápido que uno común. ¿Qué afirmaciones corresponden a una evaluación responsable de su uso? Marca **todas** las correctas.
 
-a) Podría aumentar la producción de alimento con menos recursos
-b) Si escapa al mar, podría competir con las poblaciones silvestres
-c) Conviene evaluar sus efectos con estudios a largo plazo y regulación
-d) Al ser un avance científico, no requiere ninguna evaluación
+a) Si escapa al mar, podría competir con las poblaciones silvestres
+b) Conviene evaluar sus efectos con estudios a largo plazo y regulación
+c) Al ser un avance científico, no requiere ninguna evaluación
+d) Podría aumentar la producción de alimento con menos recursos
 
 ---
 
@@ -303,7 +303,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene. La meiosis produce cuatro células con la mitad de los cromosomas (los gametos); la mitosis produce dos células idénticas con el número completo. | OA 6 |
 | 9 | Alternativas | **d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos.** Cada fecundación combina gametos diferentes, por eso cada hijo es único. | OA 6 |
 | 10 | Alternativas | **a) Como un organismo transgénico, porque recibió un gen de otra especie.** Así se produce hoy la insulina para personas con diabetes. | OA 8 |
-| 11 | Varias correctas | **a, b y c.** Evaluar una biotecnología implica sopesar beneficios, riesgos ambientales y regulación; ningún avance está exento de evaluación. | OA 8 |
+| 11 | Varias correctas | **a, b y d.** Evaluar una biotecnología implica sopesar beneficios, riesgos ambientales y regulación; ningún avance está exento de evaluación. | OA 8 |
 | 12 | Alternativas | **b) Que el ciclista tiene mayor velocidad.** La pendiente de un gráfico posición-tiempo es la rapidez con que cambia la posición, es decir, la velocidad: más inclinación significa más velocidad. | OA 9 |
 | 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo. En caída libre, la aceleración de gravedad es constante (cerca de 9,8 m/s²): la velocidad aumenta de manera uniforme, y eso es un MRUA. | OA 9 |
 | 14 | Alternativas | **c) 3 m/s²: su velocidad aumenta 3 m/s cada segundo.** a = (15 − 0)/5 = 3 m/s². | OA 9 |

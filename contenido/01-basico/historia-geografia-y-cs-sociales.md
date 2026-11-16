@@ -284,12 +284,12 @@ especialmente en las Fiestas Patrias.
 
 **6. (Varias correctas — desafiante)** ¿Cuáles de estas son fiestas o costumbres
 típicas de Chile? Marca **todas** las correctas.
-a) Bailar cueca en Fiestas Patrias
-b) Celebrar la Fiesta de La Tirana en el norte
-c) Hacer un rodeo en el campo
-d) Patinar sobre hielo en la Antártica cada domingo
+a) Patinar sobre hielo en la Antártica cada domingo
+b) Bailar cueca en Fiestas Patrias
+c) Celebrar la Fiesta de La Tirana en el norte
+d) Hacer un rodeo en el campo
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* ¡Muy bien! La cueca en Fiestas Patrias, La Tirana y el rodeo son
 costumbres chilenas que se celebran en distintas zonas del país. Patinar en la Antártica cada
 domingo no es una costumbre de las familias chilenas. Pregunta en tu casa qué fiesta típica se
@@ -562,12 +562,12 @@ a un río, que es agua dulce.
 
 **5. (Varias correctas)** ¿Cuáles de estas palabras sirven para describir un
 **paisaje**? Marca **todas** las correctas.
-a) Cordillera
-b) Construcciones
-c) Cumpleaños
-d) Vegetación
+a) Cumpleaños
+b) Vegetación
+c) Cordillera
+d) Construcciones
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* ¡Muy bien! Cordillera, construcciones y vegetación son palabras
 geográficas que nos ayudan a describir un paisaje, por ejemplo: "En mi barrio hay muchas
 construcciones y al fondo se ve la cordillera". Un cumpleaños es una celebración, no una parte
@@ -696,12 +696,12 @@ en la calle, y no hacer ruidos molestos de noche en el barrio.
 
 **5. (Varias correctas)** ¿Cuáles de estas normas ayudan a la buena convivencia en tu
 casa? Marca **todas** las correctas.
-a) Ordenar mis juguetes
-b) Gritar dentro de la casa
-c) Pedir las cosas por favor
-d) Esconder las cosas de mis hermanos
+a) Gritar dentro de la casa
+b) Pedir las cosas por favor
+c) Esconder las cosas de mis hermanos
+d) Ordenar mis juguetes
 
-✅ Respuesta correcta: **a y c**
+✅ Respuesta correcta: **b y d**
 💬 *Retroalimentación:* ¡Muy bien! Ordenar tus juguetes y pedir las cosas por favor ayudan a que
 todos en la familia vivan mejor. Gritar o esconder las cosas de otros molesta y genera
 problemas.

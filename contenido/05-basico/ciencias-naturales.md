@@ -188,12 +188,12 @@ salud tanto como comer muy poco.
    las actividades diarias y el movimiento del cuerpo.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos alimentos tienen como aporte principal las **proteínas**? Marca **todas** las correctas.
-   a) Legumbres
-   b) Arroz
-   c) Huevo
-   d) Naranja
-   e) Pan
-   **Respuesta correcta:** a y c.
+   a) Huevo
+   b) Naranja
+   c) Pan
+   d) Legumbres
+   e) Arroz
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** Proteínas: legumbres, huevo. Carbohidratos: arroz, pan. Vitaminas/minerales: naranja. Grasas: palta. Puede haber solapamientos (las legumbres también aportan carbohidratos); lo importante es identificar el aporte principal de cada alimento.
 
 4. *(Alternativas)* ¿Por qué se recomienda el consumo de carne o legumbres para los procesos de reparación y crecimiento del cuerpo?
@@ -278,11 +278,11 @@ fuma dentro de la casa.
    circulatorias.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas enfermedades afectan principalmente al **sistema circulatorio**? Marca **todas** las correctas.
-   a) Arritmias
-   b) Cáncer pulmonar
-   c) Trombosis
-   d) Asma
-   **Respuesta correcta:** a y c.
+   a) Cáncer pulmonar
+   b) Trombosis
+   c) Asma
+   d) Arritmias
+   **Respuesta correcta:** b y d.
    **Retroalimentación:** Las arritmias y la trombosis afectan el corazón y los vasos sanguíneos (circulatorio); el cáncer pulmonar y el asma afectan pulmones y vías respiratorias (respiratorio).
 
 4. *(Alternativas)* ¿Qué es un "fumador pasivo"?
@@ -302,11 +302,11 @@ fuma dentro de la casa.
    **Retroalimentación:** Comprender esta conexión ayuda a ver por qué fumar es dañino para más de un sistema del cuerpo a la vez.
 
 6. *(Varias correctas — aplicación)* ¿Cuáles de estas medidas reducen la exposición al humo de tabaco ajeno? Marca **todas** las correctas.
-   a) Evitar espacios cerrados donde se fuma
-   b) Pedir que no se fume dentro de la casa o el auto
-   c) Abrir la ventana mientras alguien fuma al lado
-   d) Promover espacios libres de humo
-   **Respuesta correcta:** a, b y d.
+   a) Promover espacios libres de humo
+   b) Evitar espacios cerrados donde se fuma
+   c) Pedir que no se fume dentro de la casa o el auto
+   d) Abrir la ventana mientras alguien fuma al lado
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Abrir una ventana no elimina el humo que se respira cerca de quien fuma; las otras medidas sí reducen la exposición. Reconocer medidas de prevención conecta este aprendizaje con hábitos de cuidado de la salud.
 
 ---
@@ -364,11 +364,11 @@ espacios donde vivimos.
    nutritivos; otros, en cambio, pueden causar infecciones.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos microorganismos son **beneficiosos**? Marca **todas** las correctas.
-   a) Hongo comestible (champiñón)
-   b) Virus de la gripe
-   c) Bacteria intestinal
-   d) Hongo del pie de atleta
-   **Respuesta correcta:** a y c.
+   a) Hongo del pie de atleta
+   b) Hongo comestible (champiñón)
+   c) Virus de la gripe
+   d) Bacteria intestinal
+   **Respuesta correcta:** b y d.
    **Retroalimentación:** Un mismo tipo de microorganismo (bacteria, virus u hongo) puede tener representantes beneficiosos y dañinos: lo importante es identificar el efecto específico de cada uno.
 
 4. *(Alternativas)* ¿Qué es una enfermedad infectocontagiosa?
@@ -388,11 +388,11 @@ espacios donde vivimos.
    **Retroalimentación:** Las manos tocan superficies, alimentos y la cara, y así pueden llevar microorganismos a la boca, la nariz o los ojos. Lavarlas con agua y jabón elimina esos microorganismos y corta el contagio.
 
 6. *(Varias correctas — aplicación)* Además del lavado de manos, ¿cuáles de estas medidas ayudan a prevenir el contagio de enfermedades causadas por microorganismos? Marca **todas** las correctas.
-   a) Cubrirse la boca y la nariz al toser o estornudar
-   b) Compartir el vaso con una persona enferma
-   c) Usar desinfectante para manos
-   d) Mantener limpios los espacios comunes
-   **Respuesta correcta:** a, c y d.
+   a) Usar desinfectante para manos
+   b) Mantener limpios los espacios comunes
+   c) Cubrirse la boca y la nariz al toser o estornudar
+   d) Compartir el vaso con una persona enferma
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Compartir utensilios con personas enfermas facilita el contagio; las otras medidas lo previenen.
 
 ---
@@ -460,11 +460,11 @@ y las instalaciones eléctricas de una casa: nunca se debe tocar un cable pelado
    dificultan mucho el paso de la corriente eléctrica.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos materiales son **conductores** de la electricidad? Marca **todas** las correctas.
-   a) Aluminio
-   b) Goma
-   c) Cobre
-   d) Plástico
-   **Respuesta correcta:** a y c.
+   a) Goma
+   b) Cobre
+   c) Plástico
+   d) Aluminio
+   **Respuesta correcta:** b y d.
    **Retroalimentación:** Los metales, en general, son buenos conductores; materiales como la goma y el plástico son aisladores, usados justamente para proteger a las personas.
 
 4. *(Alternativas)* ¿Por qué los cables eléctricos combinan un material conductor por dentro y un aislador por fuera?
@@ -560,19 +560,19 @@ ríos como el Baker y el Biobío.
    fracción menor.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos depósitos de agua contienen agua **dulce**? Marca **todas** las correctas.
-   a) Océano Pacífico
-   b) Glaciar del Campo de Hielo Sur
-   c) Lago Llanquihue
-   d) Agua subterránea
-   **Respuesta correcta:** b, c y d.
+   a) Agua subterránea
+   b) Océano Pacífico
+   c) Glaciar del Campo de Hielo Sur
+   d) Lago Llanquihue
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Los océanos concentran el agua salada, mientras que glaciares, lagos, ríos y aguas subterráneas concentran el agua dulce.
 
 4. *(Varias correctas — ubicación)* ¿Cuáles de estos lugares de Chile son grandes depósitos de **agua dulce**? Marca **todas** las correctas.
-   a) El Campo de Hielo Sur
-   b) El lago General Carrera
-   c) El océano Pacífico frente a Valparaíso
-   d) El río Baker
-   **Respuesta correcta:** a, b y d.
+   a) El río Baker
+   b) El Campo de Hielo Sur
+   c) El lago General Carrera
+   d) El océano Pacífico frente a Valparaíso
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** Chile concentra importantes reservas de agua dulce en la zona sur y austral, principalmente en glaciares y lagos; el océano es agua salada.
 
 5. *(Alternativas)* ¿Por qué se dice que el agua dulce es "relativamente escasa", a pesar de que gran parte del planeta está cubierto de agua?
@@ -674,11 +674,11 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
    **Retroalimentación:** Comparar acciones opuestas ayuda a distinguir con claridad qué hace daño y qué protege a las reservas de agua.
 
 6. *(Varias correctas — propuesta)* ¿Cuáles de estas acciones protegen las reservas hídricas de Chile? Marca **todas** las correctas.
-   a) No botar basura ni químicos en ríos o canales
-   b) Reducir el consumo innecesario de agua en la casa
-   c) Lavar el auto con la manguera abierta todos los días
-   d) Participar en limpiezas de playas o riberas
-   **Respuesta correcta:** a, b y d.
+   a) Lavar el auto con la manguera abierta todos los días
+   b) Participar en limpiezas de playas o riberas
+   c) No botar basura ni químicos en ríos o canales
+   d) Reducir el consumo innecesario de agua en la casa
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** Cualquier acción razonable y coherente con la protección de ríos, lagos, glaciares u océanos es válida; dejar la manguera abierta desperdicia agua.
 
 ---

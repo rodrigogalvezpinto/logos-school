@@ -46,10 +46,10 @@ En un circuito conectado en paralelo, si una ampolleta se quema, todas las demá
 **Pregunta 3.** (Varias correctas — Clasificar)
 ¿Qué acciones son **medidas de seguridad** en el uso de la electricidad en el hogar? Marca **todas** las correctas.
 
-a) No conectar muchos artefactos en un mismo enchufe múltiple
-b) No tocar enchufes ni interruptores con las manos mojadas
-c) Introducir objetos metálicos en los enchufes para probarlos
-d) Desconectar un artefacto tirando del cable
+a) Desconectar un artefacto tirando del cable
+b) No conectar muchos artefactos en un mismo enchufe múltiple
+c) No tocar enchufes ni interruptores con las manos mojadas
+d) Introducir objetos metálicos en los enchufes para probarlos
 
 **Pregunta 4.** (Alternativas)
 En una casa, el refrigerador sigue funcionando aunque se apague la luz del living. ¿Por qué?
@@ -144,7 +144,7 @@ d) Para aumentar el consumo de leña
 
 1. a) 120 volts. V = I × R = 2 A × 60 Ω = 120 volts.
 2. Falso — en paralelo cada ampolleta tiene su propio camino de corriente: si una se quema, las demás siguen encendidas.
-3. a y b — No sobrecargar enchufes y no tocarlos con las manos mojadas evita incendios y descargas; meter objetos metálicos y tirar del cable son prácticas peligrosas.
+3. b y c — No sobrecargar enchufes y no tocarlos con las manos mojadas evita incendios y descargas; meter objetos metálicos y tirar del cable son prácticas peligrosas.
 4. a) Porque la instalación está conectada en paralelo. Así, cada artefacto funciona de forma independiente.
 5. d) 10 A. I = P / V = 2.200 W / 220 V = 10 A. Multiplicar (484.000) o dividir al revés (0,1) son errores frecuentes.
 6. b) Desvía hacia el suelo la corriente de una falla, protegiendo a las personas. Si un cable toca la carcasa metálica de un artefacto, la conexión a tierra lleva esa corriente al suelo, en vez de pasar por el cuerpo de quien lo toca.

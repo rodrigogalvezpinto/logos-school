@@ -141,10 +141,10 @@ pasiva)?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Evitar espacios cerrados donde se fuma
-b) Pedir que no se fume dentro de la casa o el auto
-c) Abrir la ventana mientras alguien fuma al lado
-d) Promover espacios libres de humo
+a) Promover espacios libres de humo
+b) Evitar espacios cerrados donde se fuma
+c) Pedir que no se fume dentro de la casa o el auto
+d) Abrir la ventana mientras alguien fuma al lado
 
 ---
 
@@ -293,10 +293,10 @@ Chile (ríos, lagos, glaciares u océanos), con una razón correcta?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) No botar basura ni químicos en ríos o canales, porque evita contaminar el agua
-b) Reducir el consumo innecesario de agua en la casa, porque conserva un recurso escaso
-c) Lavar el auto con la manguera abierta, porque así se limpia mejor
-d) Participar en limpiezas de playas o riberas, porque protege los ecosistemas acuáticos
+a) Participar en limpiezas de playas o riberas, porque protege los ecosistemas acuáticos
+b) No botar basura ni químicos en ríos o canales, porque evita contaminar el agua
+c) Reducir el consumo innecesario de agua en la casa, porque conserva un recurso escaso
+d) Lavar el auto con la manguera abierta, porque así se limpia mejor
 
 ---
 
@@ -324,7 +324,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 8 | Alternativas | **d) Porque el cuerpo necesita variedad de nutrientes; esa dieta aporta sobre todo carbohidratos y grasas, y le faltan proteínas y vitaminas y minerales.** Cada grupo de nutrientes cumple funciones distintas (reparación, energía, desarrollo general); faltan proteínas para la reparación y vitaminas y minerales, presentes en frutas y verduras. | OA 5 |
 | 9 | Alternativas | c) Asma. El asma afecta las vías respiratorias, y el humo del tabaco la puede provocar o empeorar. La trombosis y la arritmia afectan al sistema circulatorio. | OA 6 |
 | 10 | Alternativas | a) Arritmia. Una arritmia es un ritmo irregular de los latidos del corazón; la nicotina del tabaco puede alterar ese ritmo. | OA 6 |
-| 11 | Varias correctas | **a, b y d.** Abrir una ventana no impide respirar el humo de quien fuma cerca; las otras medidas sí reducen la exposición. | OA 6 |
+| 11 | Varias correctas | **a, b y c.** Abrir una ventana no impide respirar el humo de quien fuma cerca; las otras medidas sí reducen la exposición. | OA 6 |
 | 12 | Alternativas | d) Algunos hongos son comestibles y nutritivos, y otros pueden causar infecciones. Hay hongos comestibles, como los champiñones, y otros que causan infecciones, como el pie de atleta: no todos son dañinos ni todos son inofensivos. | OA 7 |
 | 13 | Alternativas | b) 2 (la levadura y el champiñón son beneficiosos; la bacteria de la infección intestinal y el virus del resfriado son dañinos) | OA 7 |
 | 14 | Alternativas | b) Una bacteria intestinal ayuda a la digestión, mientras que otra bacteria puede causar una infección en la piel. Dentro de un mismo grupo hay microorganismos útiles y dañinos: algunas bacterias intestinales ayudan a digerir y otras causan enfermedades. | OA 7 |
@@ -338,7 +338,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 22 | Alternativas | **d) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.** Ambos forman parte del ciclo continuo del agua y alimentan los depósitos de agua dulce. | OA 12 |
 | 23 | Alternativas | b) Existen también acciones humanas positivas, como el tratamiento de aguas servidas antes de devolverlas a un río o al mar. No todo efecto humano es negativo: tratar las aguas servidas o proteger humedales ayuda a conservar los cuerpos de agua. | OA 14 |
 | 24 | Alternativas | b) Un derrame de petróleo en el mar. Un derrame de petróleo en el mar contamina directamente la costa y el océano; las otras opciones afectan a ríos, valles o glaciares. | OA 14 |
-| 25 | Varias correctas | **a, b y d.** Cada acción correcta protege el agua por una razón distinta; dejar la manguera abierta la desperdicia. | OA 14 |
+| 25 | Varias correctas | **a, b y c.** Cada acción correcta protege el agua por una razón distinta; dejar la manguera abierta la desperdicia. | OA 14 |
 
 
 # PUNTAJE Y VERSIÓN ANTERIOR

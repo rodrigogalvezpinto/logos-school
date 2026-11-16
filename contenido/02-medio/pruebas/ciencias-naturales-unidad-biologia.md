@@ -79,10 +79,10 @@ Los métodos anticonceptivos de barrera, como el preservativo, además de preven
 **Pregunta 7.** (Varias correctas — Análisis de caso)
 ¿Cuáles de estas acciones forman parte de una sexualidad responsable en la adolescencia? Marca **todas** las correctas.
 
-a) Informarse en fuentes confiables y conversar con adultos de confianza o profesionales de salud
-b) Respetar las decisiones y los límites de la otra persona
-c) Dejarse presionar por el grupo de amigos
-d) Evitar acudir al consultorio aunque se tengan dudas
+a) Evitar acudir al consultorio aunque se tengan dudas
+b) Informarse en fuentes confiables y conversar con adultos de confianza o profesionales de salud
+c) Respetar las decisiones y los límites de la otra persona
+d) Dejarse presionar por el grupo de amigos
 
 ---
 
@@ -153,7 +153,7 @@ d) Es incorrecta: usar información genética para contratar puede discriminar a
 4. d) Es incorrecta: dormir poco afecta funciones del sistema nervioso como la atención y la memoria.
 5. c) Afectiva: incluye los sentimientos, emociones y vínculos.
 6. Verdadero — el preservativo es el único método que además previene infecciones de transmisión sexual.
-7. a y b — Informarse y respetar a la otra persona son parte de una sexualidad responsable; ceder a la presión del grupo o evitar consultar no lo son.
+7. b y c — Informarse y respetar a la otra persona son parte de una sexualidad responsable; ceder a la presión del grupo o evitar consultar no lo son.
 8. b) La meiosis, que produce células con la mitad de los cromosomas.
 9. Falso — los gametos tienen 23 cromosomas, la mitad que las células del cuerpo; al unirse en la fecundación se recuperan los 46.
 10. b) Hay tres copias del cromosoma 21 (trisomía 21). En el síndrome de Down hay tres copias del cromosoma 21 en vez de dos (trisomía 21). La falta de un cromosoma X corresponde al síndrome de Turner.

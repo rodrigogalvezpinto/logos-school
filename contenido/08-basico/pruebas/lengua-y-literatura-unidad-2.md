@@ -131,10 +131,10 @@ d) Los entrenadora nos explicaron la jugada a mi equipo y a mí, pero los arquer
 
 **14. (Varias correctas)** ¿Qué acciones ayudan a revisar y editar un texto antes de entregarlo? Marca **todas** las correctas.
 
-a) Leerlo en voz alta para detectar oraciones confusas
-b) Pedirle a un compañero que lo lea y comente
-c) Verificar la concordancia y la ortografía
-d) Entregarlo sin releerlo para no perder tiempo
+a) Entregarlo sin releerlo para no perder tiempo
+b) Leerlo en voz alta para detectar oraciones confusas
+c) Pedirle a un compañero que lo lea y comente
+d) Verificar la concordancia y la ortografía
 
 **15. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Las jugadoras se felicitó a sí misma después del partido"?
 
@@ -173,6 +173,6 @@ d) Las jugadoras se felicitaron a sí mismas después del partido.
 
 **13.** Falso. "romper" tiene participio irregular: "roto".*
 
-**14.** a, b y c — Releer, pedir comentarios y revisar la concordancia y la ortografía mejoran el texto; entregarlo sin releer no.*
+**14.** b, c y d — Releer, pedir comentarios y revisar la concordancia y la ortografía mejoran el texto; entregarlo sin releer no.*
 
 **15.** d) Las jugadoras se felicitaron a sí mismas después del partido. El verbo y "mismas" concuerdan en plural y femenino con "las jugadoras".*

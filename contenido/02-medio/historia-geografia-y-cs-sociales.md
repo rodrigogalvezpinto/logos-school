@@ -1184,12 +1184,12 @@ d) La desaparición forzada como práctica sistemática de la dictadura, y el ro
 ---
 
 **5. (Varias correctas)** ¿Cuáles de estos ejemplos muestran que el golpe de Estado "suprimió el Estado de Derecho"? Marca **todas** las correctas.
-a) El cierre del Congreso Nacional
-b) La proscripción de los partidos políticos
-c) La concentración del poder en la Junta Militar
-d) La realización de elecciones libres cada año
+a) La concentración del poder en la Junta Militar
+b) La realización de elecciones libres cada año
+c) El cierre del Congreso Nacional
+d) La proscripción de los partidos políticos
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* Suprimir el Estado de Derecho significó eliminar los límites y controles sobre el poder; en dictadura no hubo elecciones libres periódicas.
 
 ---

@@ -86,10 +86,10 @@ d) Convierte el Texto 2 en una noticia objetiva sobre las aplicaciones de repart
 
 **8. (Varias correctas)** Considerando los contextos hipotéticos de producción y las dos audiencias descritas al inicio, ¿qué afirmaciones son pertinentes y no universalizan reacciones? Marca **todas** las correctas.
 
-a) La producción hipotética contrapone la memoria obrera de 1930 con el debate sobre plataformas de 2026
-b) Una familia con memoria salitrera puede reconocer despojo en las fichas y continuidades en el algoritmo
-c) Jóvenes familiarizados con apps pueden reconocer el control de las estrellas y releer la pulpería como antecedente de dependencia
-d) Todos los lectores interpretarán ambos textos de la misma forma, sin importar su experiencia
+a) Jóvenes familiarizados con apps pueden reconocer el control de las estrellas y releer la pulpería como antecedente de dependencia
+b) Todos los lectores interpretarán ambos textos de la misma forma, sin importar su experiencia
+c) La producción hipotética contrapone la memoria obrera de 1930 con el debate sobre plataformas de 2026
+d) Una familia con memoria salitrera puede reconocer despojo en las fichas y continuidades en el algoritmo
 
 ---
 
@@ -147,10 +147,10 @@ d) Explícita: pedir que se valore la restricción del celular por su efecto en 
 
 **16. (Varias correctas)** Sobre el supuesto estudio y la restricción vigente que menciona la columna, ¿qué afirmaciones evalúan correctamente su respaldo? Marca **todas** las correctas.
 
-a) Mencionar un estudio no acredita su existencia ni sus resultados: faltan título, fecha, muestra, método y datos
-b) Para contrastar la restricción harían falta la norma o reglamento, su fecha y su ámbito de aplicación
-c) Contrastable no equivale a verificado, y es válido concluir que el estímulo no ofrece evidencia externa comprobada
-d) Basta con que la columna diga "un estudio" para considerar verificados los datos
+a) Para contrastar la restricción harían falta la norma o reglamento, su fecha y su ámbito de aplicación
+b) Contrastable no equivale a verificado, y es válido concluir que el estímulo no ofrece evidencia externa comprobada
+c) Basta con que la columna diga "un estudio" para considerar verificados los datos
+d) Mencionar un estudio no acredita su existencia ni sus resultados: faltan título, fecha, muestra, método y datos
 
 ---
 
@@ -245,7 +245,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 5 | **a) La ficha simboliza un salario que no es libre ni completo, porque solo puede gastarse dentro del sistema que lo entrega: expresa la dependencia total del trabajador respecto de la empresa.** Si el trabajador hubiera recibido dinero canjeable en cualquier parte, esa dependencia se debilitaría. | OA N°1 — contexto de producción y recursos literarios |
 | 6 | **d) Texto 1: un control visible y humano (el dueño de la oficina salitrera y la pulpería: "no había otro trabajo en cien kilómetros a la redonda"); Texto 2: un control difuso y automatizado (el algoritmo y las calificaciones: "la app decide casi todo lo demás").** En el Texto 1, el control es visible y humano (el dueño de la salitrera y la pulpería); en el Texto 2, es difuso y automático (el algoritmo y las calificaciones de la app). | OA N°1 — comparación de tratamiento del tema (aplicación) |
 | 7 | **b) Permite contrastar lo que Camila cree (controlar su trabajo) con lo que ocurre (el control del algoritmo), generando ironía; el Texto 1 transmite la experiencia como memoria familiar heredada, con autoridad emocional de testimonio.** La tercera persona cercana deja ver lo que Camila cree y, a la vez, lo que realmente ocurre: de ese contraste surge la ironía. El Texto 1, en cambio, transmite una memoria familiar heredada. | OA N°1 — perspectiva y su efecto |
-| 8 | **a, b y c.** Distinguir producción de recepción exige justificar efectos con detalles de cada texto, sin atribuir la misma reacción a toda una audiencia. | OA N°1 — comparación de producción, recepción, perspectiva y efecto estético |
+| 8 | **a, c y d.** Distinguir producción de recepción exige justificar efectos con detalles de cada texto, sin atribuir la misma reacción a toda una audiencia. | OA N°1 — comparación de producción, recepción, perspectiva y efecto estético |
 | 9 | **d)** Argumentar que restringir el uso del celular en clases mejora la concentración de los estudiantes: el propio texto declara y sostiene esa postura con un dato a lo largo del párrafo. | OA N°3 — intención explícita |
 | 10 | **c)** Es la afirmación con nombres institucionales como pistas de búsqueda, no evidencia verificada. La atribución es ficticia; faltan documento, fecha, método y resultados. «Mejora perceptible» no es una cifra. | OA N°3 — veracidad de la información |
 | 11 | **b)** Fuente neutral que expone en igual medida todas las posturas: el texto no presenta con el mismo peso los argumentos de los apoderados que se oponen a la medida. | OA N°3 — posicionamiento y rol del enunciador |
@@ -253,7 +253,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 13 | **c) Defensor del derecho colectivo del curso a aprender sin distracciones; no presenta en igual medida los argumentos contrarios y su cierre atribuye a quien se opone una motivación (la comodidad) sin dejarla argumentar.** El enunciador defiende el derecho del curso a aprender sin distracciones: no da el mismo espacio a los argumentos contrarios y atribuye a quien se opone una motivación sin dejarle argumentar. | OA N°3 — posicionamiento y rol del enunciador |
 | 14 | **a) Prioriza el bien colectivo del aprendizaje en el aula sobre la conveniencia individual de estar siempre disponible; reconocerla no invalida el argumento, aunque el estudio ficticio no aporta evidencia externa comprobada y requiere contraste.** La columna valora el aprendizaje colectivo por sobre la conveniencia individual; reconocerlo no invalida el argumento, pero el estudio que cita es ficticio y habría que contrastarlo. | OA N°3 — ideología, creencias y puntos de vista |
 | 15 | **d) Explícita: pedir que se valore la restricción del celular por su efecto en la concentración. Implícita: desacreditar de antemano a quien se opone, reduciendo el desacuerdo a "priorizar la comodidad".** La intención explícita es defender la restricción por la concentración; la implícita, desacreditar a quien se opone reduciendo su postura a "comodidad". | OA N°3 — intenciones explícitas e implícitas |
-| 16 | **a, b y c.** Recursos persuasivos con límites: el cierre atribuye comodidad a todos los opositores, y «cuarenta años» invoca el cambio tecnológico sin demostrar el efecto de la restricción. | OA N°3 — evaluación crítica integrada (intenciones, veracidad e ideología) |
+| 16 | **a, b y d.** Recursos persuasivos con límites: el cierre atribuye comodidad a todos los opositores, y «cuarenta años» invoca el cambio tecnológico sin demostrar el efecto de la restricción. | OA N°3 — evaluación crítica integrada (intenciones, veracidad e ideología) |
 | 17 | **b)** La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y audiovisual. La versión (a) argumenta una comparación con evidencia; la (b) busca despertar interés en un formato breve: tienen propósitos distintos. | OA N°5 — propósito, género y audiencia |
 | 18 | **b)** Porque en un guion de video corto dirigido a compañeros de curso, un ritmo breve y directo es una convención de género válida y esperada. Las convenciones cambian según el género: en un video corto para compañeros, un ritmo rápido y directo es esperable y adecuado. | OA N°5 — adecuación al género y a la audiencia |
 | 19 | **Falso.** La oración "Las apps tienen algoritmo" es un dato suelto: generaliza sin conectarse explícitamente con la comparación entre ambos personajes o textos, interrumpiendo la progresión temática central. | OA N°5 — progresión temática |

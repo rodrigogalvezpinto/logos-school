@@ -355,12 +355,12 @@ permitían llevar agua a las ciudades romanas desde fuentes lejanas.
 ---
 
 **5. (Varias correctas)** ¿Cuáles de estos oficios existían en la antigua Grecia o Roma y se siguen realizando hoy? Marca **todas** las correctas.
-a) Agricultor
-b) Comerciante
-c) Programador de computadores
-d) Herrero
+a) Comerciante
+b) Programador de computadores
+c) Herrero
+d) Agricultor
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* ¡Muy bien! Agricultores, comerciantes, herreros y tejedores existían en la Antigüedad y siguen existiendo, aunque hoy usen otras herramientas y tecnologías. El programador de computadores es un oficio moderno.
 
 ---
@@ -708,12 +708,12 @@ c) A la zona templada
 ---
 
 **6. (Varias correctas)** ¿Cuáles de estas son estrategias que usan las personas de la **zona fría** para vivir con temperaturas tan bajas? Marca **todas** las correctas.
-a) Viviendas muy aisladas del frío
-b) Ropa de pieles y abrigo grueso
-c) Ropa muy liviana y viviendas abiertas
-d) Alimentación basada en caza y pesca
+a) Alimentación basada en caza y pesca
+b) Viviendas muy aisladas del frío
+c) Ropa de pieles y abrigo grueso
+d) Ropa muy liviana y viviendas abiertas
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **a, b y c**
 💬 *Retroalimentación:* ¡Muy bien! En la zona fría se usan viviendas aisladas, ropa de pieles y una alimentación basada en caza y pesca. La ropa liviana y las viviendas abiertas son estrategias de la zona cálida.
 
 ---

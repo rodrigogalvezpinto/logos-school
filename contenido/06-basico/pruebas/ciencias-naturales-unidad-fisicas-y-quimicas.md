@@ -62,17 +62,17 @@ d) La radiación del Sol, con paneles solares
 
 **7. (Varias correctas — OA11)** Una comuna quiere dejar de depender de fuentes que se agotan. ¿Cuáles de estas opciones son energías renovables? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Carbón
-b) Paneles solares en los techos
-c) Diésel
-d) Una pequeña central hidroeléctrica en un río
+a) Una pequeña central hidroeléctrica en un río
+b) Carbón
+c) Paneles solares en los techos
+d) Diésel
 
 **8. (Varias correctas — OA11)** Una familia quiere bajar la cuenta de la luz. ¿Qué acciones son un uso responsable de la energía? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Desenchufar el cargador cuando no se usa
-b) Lavar la ropa con la lavadora llena
-c) Dejar el televisor encendido aunque nadie lo mire
-d) Secar la ropa al sol en vez de usar secadora
+a) Dejar el televisor encendido aunque nadie lo mire
+b) Secar la ropa al sol en vez de usar secadora
+c) Desenchufar el cargador cuando no se usa
+d) Lavar la ropa con la lavadora llena
 
 **9. (Alternativas — OA13)** Al dejar un helado fuera del refrigerador en un día de calor, se derrite. ¿Qué cambio de estado ocurre?
 
@@ -109,8 +109,8 @@ d) Desaparecen con el calor y son reemplazadas por partículas de agua del sart�
 4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol. La energía de los alimentos viene del Sol: las plantas la captan con la fotosíntesis, y los animales la obtienen al comer plantas o a otros animales que las comieron.
 5. **d) La radiación del Sol, con paneles solares.** La energía solar se renueva cada día y no se agota; el petróleo, el gas natural y el carbón son combustibles fósiles que tardaron millones de años en formarse.
 6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
-7. **b y d.** La energía solar y la del agua de un río se renuevan naturalmente; el carbón y el diésel son combustibles fósiles que se agotan.
-8. **a, b y d.** Desenchufar aparatos, aprovechar cada lavado y usar el sol en vez de la secadora ahorran energía; dejar el televisor encendido sin uso la desperdicia.
+7. **a y c.** La energía solar y la del agua de un río se renuevan naturalmente; el carbón y el diésel son combustibles fósiles que se agotan.
+8. **b, c y d.** Desenchufar aparatos, aprovechar cada lavado y usar el sol en vez de la secadora ahorran energía; dejar el televisor encendido sin uso la desperdicia.
 9. **c.** La fusión es el paso de sólido a líquido, por acción del calor.
 10. **Falso.** Ambas son pasos de líquido a gas, pero la evaporación ocurre
     lentamente en la superficie del líquido a cualquier temperatura, mientras que

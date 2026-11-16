@@ -29,10 +29,10 @@ d) "El sufrimiento es un mal sin importar quién lo padezca."
 
 2. *(Varias correctas — Análisis estructural)* A: «Toda persona tiene derecho a la privacidad; los estudiantes son personas; por tanto, los estudiantes tienen derecho a la privacidad». B: «En los cuatro cursos que dejaron los celulares en una caja durante las clases, las notas mejoraron; conviene aplicarlo en todo el liceo». ¿Qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) A es deductivo: su forma es válida, aunque eso no prueba por sí solo que sus premisas sean verdaderas
-b) B es inductivo: cuatro casos apoyan una conclusión provisional que podría no valer para otros cursos
-c) En B, la evidencia son los cuatro cursos y la tesis es aplicar la medida en todo el liceo
-d) A es inductivo porque habla de estudiantes
+a) B es inductivo: cuatro casos apoyan una conclusión provisional que podría no valer para otros cursos
+b) En B, la evidencia son los cuatro cursos y la tesis es aplicar la medida en todo el liceo
+c) A es inductivo porque habla de estudiantes
+d) A es deductivo: su forma es válida, aunque eso no prueba por sí solo que sus premisas sean verdaderas
 
 3. *(Alternativas — Identificar falacia)* "¿Por qué voy a hacer caso a la doctora que recomienda vacunarse? Ella misma fuma." ¿Qué falacia se comete?
 
@@ -64,10 +64,10 @@ d) Los recreos, los talleres deportivos y el trayecto en bicicleta también son 
 
 7. *(Varias correctas — Análisis de argumento)* "Una encuesta nacional mostró que los jóvenes que duermen menos de seis horas tienen más síntomas de ansiedad (premisa 1). Además, todos sabemos que el cansancio pone de mal humor (premisa 2). Por lo tanto, el Estado debería prohibir el uso de celulares después de las 22:00 a todos los menores de edad." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
 
-a) La premisa 1 usa un referente empírico y la premisa 2, uno de sentido común
-b) La conclusión va más allá de lo que sostienen las premisas: de una asociación entre poco sueño y ansiedad no se sigue una prohibición general del celular
-c) Hay un salto argumentativo entre las premisas y la conclusión
-d) El argumento es deductivamente válido y la conclusión se sigue necesariamente
+a) El argumento es deductivamente válido y la conclusión se sigue necesariamente
+b) La premisa 1 usa un referente empírico y la premisa 2, uno de sentido común
+c) La conclusión va más allá de lo que sostienen las premisas: de una asociación entre poco sueño y ansiedad no se sigue una prohibición general del celular
+d) Hay un salto argumentativo entre las premisas y la conclusión
 
 8. *(Alternativas)* En el argumento "John Stuart Mill sostiene que la única razón legítima para limitar la libertad de alguien es evitar un daño a otros; por lo tanto, prohibir a un adulto un deporte extremo que solo lo pone en riesgo a él es problemático", la primera parte (lo que dice Mill) es un ejemplo de referente:
 
@@ -94,24 +94,24 @@ d) (i) É, (ii) E, (iii) O
 
 12. *(Varias correctas — Análisis de caso)* Muchas plataformas de música y videos usan algoritmos que recomiendan contenido según lo que cada persona ya consumió. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
 
-a) Libertad positiva: las recomendaciones pueden ampliar la capacidad real de descubrir contenido que la persona no habría encontrado sola
-b) Libertad efectiva: también pueden encerrar a la persona en lo que ya le gusta, limitando sus opciones reales aunque formalmente pueda buscar cualquier cosa
-c) Igualdad: los artistas con menos recursos pueden quedar menos visibles que los que ya son famosos
-d) No tiene relación con la ética, porque es solo un tema técnico
+a) No tiene relación con la ética, porque es solo un tema técnico
+b) Libertad positiva: las recomendaciones pueden ampliar la capacidad real de descubrir contenido que la persona no habría encontrado sola
+c) Libertad efectiva: también pueden encerrar a la persona en lo que ya le gusta, limitando sus opciones reales aunque formalmente pueda buscar cualquier cosa
+d) Igualdad: los artistas con menos recursos pueden quedar menos visibles que los que ya son famosos
 
 13. *(Varias correctas — Análisis de argumento)* "Da lo mismo cómo tratemos a los peces de una granja, porque los peces no son como nosotros." ¿Qué posturas filosóficas son coherentes (una que lo cuestiona y otra que lo respalda)? Marca **todas** las correctas.
 
-a) Lo cuestiona: si el estatus moral depende de la capacidad de sufrir, y no de parecerse a los humanos, habría que examinar la evidencia sobre el dolor en peces antes de descartarlo
-b) Lo respalda con matices: mientras la evidencia sobre la experiencia de dolor en peces sea discutida, se les podría dar una consideración moral menor que a otros animales
-c) Lo cuestiona: todo ser vivo, incluidas las bacterias, es moralmente igual a una persona por definición
-d) Lo respalda: nada que no sea humano puede tener jamás ningún estatus moral
+a) Lo cuestiona: todo ser vivo, incluidas las bacterias, es moralmente igual a una persona por definición
+b) Lo respalda: nada que no sea humano puede tener jamás ningún estatus moral
+c) Lo cuestiona: si el estatus moral depende de la capacidad de sufrir, y no de parecerse a los humanos, habría que examinar la evidencia sobre el dolor en peces antes de descartarlo
+d) Lo respalda con matices: mientras la evidencia sobre la experiencia de dolor en peces sea discutida, se les podría dar una consideración moral menor que a otros animales
 
 14. *(Varias correctas — Análisis de argumento)* "No hay que escuchar la propuesta del centro de estudiantes sobre el uniforme, porque su presidente tiene malas notas (1). Además, si dejamos de usar el uniforme un día, después nadie respetará ninguna norma del liceo (2)." ¿Qué falacias comete? Marca **todas** las correctas.
 
-a) (1) ad hominem: descalifica a la persona en vez de evaluar el contenido de la propuesta
-b) (2) pendiente resbaladiza: afirma sin evidencia que un cambio pequeño llevará inevitablemente a un escenario extremo
-c) (1) generalización apresurada: concluye a partir de una muestra pequeña
-d) (2) apelación a la autoridad: cita a un experto reconocido
+a) (2) pendiente resbaladiza: afirma sin evidencia que un cambio pequeño llevará inevitablemente a un escenario extremo
+b) (1) generalización apresurada: concluye a partir de una muestra pequeña
+c) (2) apelación a la autoridad: cita a un experto reconocido
+d) (1) ad hominem: descalifica a la persona en vez de evaluar el contenido de la propuesta
 
 ---
 
@@ -119,7 +119,7 @@ d) (2) apelación a la autoridad: cita a un experto reconocido
 
 1. **c.** La tesis es la afirmación central que el autor defiende; "el sufrimiento es un mal…" es una razón, y el dato de la biología es evidencia que la apoya.
 
-2. a, b y c — Un argumento deductivo válido garantiza la conclusión si las premisas son verdaderas; uno inductivo solo la hace probable, según la representatividad de los casos.
+2. a, b y d — Un argumento deductivo válido garantiza la conclusión si las premisas son verdaderas; uno inductivo solo la hace probable, según la representatividad de los casos.
 
 3. **d.** Se ataca a la persona en vez de examinar la evidencia de su recomendación; que ella fume no cambia lo que dice la evidencia sobre las vacunas.
 
@@ -129,7 +129,7 @@ d) (2) apelación a la autoridad: cita a un experto reconocido
 
 6. d) El contraargumento pertinente ataca la premisa de exclusividad con razones, en vez de negar la tesis sin argumentos.
 
-7. a, b y c — Aunque las premisas tengan respaldo, la conclusión no se sigue necesariamente de ellas: es un problema de estructura, no solo de contenido.
+7. b, c y d — Aunque las premisas tengan respaldo, la conclusión no se sigue necesariamente de ellas: es un problema de estructura, no solo de contenido.
 
 8. **c.** Apelar a una teoría filosófica reconocida (el principio del daño de Mill) y a su autor es un referente teórico.
 
@@ -139,8 +139,8 @@ d) (2) apelación a la autoridad: cita a un experto reconocido
 
 11. b) (i) É, (ii) O, (iii) E. Justicia y trato debido (ética), modo de existencia (ontología), justificación de las creencias (epistemología).
 
-12. a, b y c — Se conecta el fenómeno con conceptos específicos de libertad e igualdad.
+12. b, c y d — Se conecta el fenómeno con conceptos específicos de libertad e igualdad.
 
-13. a y b — El debate cruza una pregunta empírica y ontológica (si los peces sienten) con una ética (qué otorga estatus moral), sin resolverlo de forma dogmática.
+13. c y d — El debate cruza una pregunta empírica y ontológica (si los peces sienten) con una ética (qué otorga estatus moral), sin resolverlo de forma dogmática.
 
-14. a y b — Atacar a la persona en vez del argumento y exagerar una cadena de consecuencias son mecanismos distintos.
+14. a y d — Atacar a la persona en vez del argumento y exagerar una cadena de consecuencias son mecanismos distintos.

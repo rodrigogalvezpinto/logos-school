@@ -95,10 +95,10 @@ Un mol de agua y un mol de oxígeno tienen la misma cantidad de moléculas (apro
 **Pregunta 9.** (Varias correctas — Verificar)
 ¿Cuáles de estas ecuaciones están correctamente balanceadas? Marca **todas** las correctas.
 
-a) CH₄ + 2O₂ → CO₂ + 2H₂O
-b) 2Na + Cl₂ → 2NaCl
-c) CH₄ + O₂ → CO₂ + H₂O
-d) Na + Cl₂ → NaCl
+a) Na + Cl₂ → NaCl
+b) CH₄ + 2O₂ → CO₂ + 2H₂O
+c) 2Na + Cl₂ → 2NaCl
+d) CH₄ + O₂ → CO₂ + H₂O
 
 **Pregunta 10.** (Alternativas)
 ¿Qué indica el coeficiente 2 en la ecuación 2H₂ + O₂ → 2H₂O?
@@ -136,7 +136,7 @@ d) Porque no tiene relación con el CO₂
 6. c) Es incorrecta: la combustión de bencina libera CO₂ y otros contaminantes.
 7. b) 10 g. En una reacción la materia no se crea ni se destruye: solo se reorganiza.
 8. Verdadero — un mol de cualquier sustancia tiene el mismo número de partículas: el número de Avogadro.
-9. a y b — En ambas hay la misma cantidad de átomos de cada elemento a cada lado; c y d no están balanceadas.
+9. b y c — En ambas hay la misma cantidad de átomos de cada elemento a cada lado; c y d no están balanceadas.
 10. a) Los coeficientes indican la proporción en que reaccionan las sustancias.
 11. d) 6 moles de O₂ y 6 moles de H₂O. La proporción es 1 : 2 : 1 : 2; con 3 moles de CH₄ se multiplica todo por 3.
 12. b) Por cada molécula de glucosa se producen 6 moléculas de CO₂.

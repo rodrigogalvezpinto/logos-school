@@ -110,10 +110,10 @@ d) 0,64
 
 14. *(Varias correctas — evaluar un argumento)* Un video afirma: "Mi método de estudio sube las notas: 12 de mis seguidores lo probaron y mejoraron". ¿Qué preguntas conviene hacerse? Marca **todas** las correctas.
 
-a) ¿Son suficientes 12 personas y cómo fueron elegidas?
-b) ¿Hubo un grupo de comparación que no usó el método?
-c) ¿Pudieron influir otras variables, como estudiar más horas o tener una prueba más fácil?
-d) ¿Cuántos seguidores tiene quien hizo el video?
+a) ¿Cuántos seguidores tiene quien hizo el video?
+b) ¿Son suficientes 12 personas y cómo fueron elegidas?
+c) ¿Hubo un grupo de comparación que no usó el método?
+d) ¿Pudieron influir otras variables, como estudiar más horas o tener una prueba más fácil?
 
 ---
 
@@ -132,4 +132,4 @@ d) ¿Cuántos seguidores tiene quien hizo el video?
 11. b) μ = n · p: A = 20 · 0,55 = 11; B = 20 · 0,8 = 16.
 12. c) Generalizar a toda la población no está fundamentado.
 13. a) 1 − (0,8)² = 1 − 0,64; 0,64 es la probabilidad de que ninguna falle.
-14. a, b y c — También conviene preguntar si el resultado se repitió en un estudio más amplio.
+14. b, c y d — También conviene preguntar si el resultado se repitió en un estudio más amplio.

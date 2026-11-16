@@ -59,11 +59,11 @@ d) Imprimir las tareas por un solo lado de la hoja y botar las hojas que salen m
 
 **Pregunta 7 (varias correctas — clasificar).** En la colación de Diego hay estos alimentos. ¿Cuáles son constructores (ayudan a crecer y reparar el cuerpo)? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Galletas de arroz
-b) Yogur
-c) Manzana
-d) Pollo
-e) Lechuga
+a) Lechuga
+b) Galletas de arroz
+c) Yogur
+d) Manzana
+e) Pollo
 
 **Pregunta 8 (alternativas — análisis).** Matías lleva todos los días de colación un completo con mayonesa, un jugo en caja y un chocolate. ¿Por qué esta colación no es la opción más saludable para todos los días?
 
@@ -88,6 +88,6 @@ d) Que solo coma frutas desde ahora
 4. a) Protección/refugio. Las manzanas son alimento, la madera es un producto derivado y la sombra para el nido es protección/refugio.
 5. **c) Una cáscara de plátano** — los restos de frutas y verduras se descomponen y se transforman en abono.
 6. a) Llevar una botella reutilizable en vez de comprar bebidas en envases desechables. Comprar solo lo necesario y evitar bolsas de un solo uso también reduce los desechos.
-7. **b y d.** El yogur (un lácteo) y el pollo (una carne) son constructores; las galletas de arroz dan energía, y la manzana y la lechuga son reguladores.
+7. **c y e.** El yogur (un lácteo) y el pollo (una carne) son constructores; las galletas de arroz dan energía, y la manzana y la lechuga son reguladores.
 8. **d) Porque tiene mucha grasa, azúcar y sal, y no incluye frutas ni verduras.** Comer a diario alimentos con mucha grasa, azúcar y sal daña la salud. Una colación saludable puede ser una fruta, un yogur o un pan con quesillo.
 9. b) Que agregue alimentos de los otros grupos, porque cada grupo cumple una función distinta. Los energéticos dan fuerza, los constructores ayudan a crecer y los reguladores protegen la salud.

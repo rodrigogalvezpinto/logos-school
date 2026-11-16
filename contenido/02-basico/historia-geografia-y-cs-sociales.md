@@ -318,12 +318,12 @@ tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía y l
 
 **4. (Varias correctas)** ¿Cuáles de estas costumbres de pueblos indígenas de Chile se
 mantienen hasta hoy? Marca **todas** las correctas.
-a) El idioma mapuzugun, que todavía se habla
-b) La fiesta del We Tripantu (año nuevo mapuche)
-c) Viajar en canoa para ir al supermercado
-d) La Tapati, fiesta tradicional de Rapa Nui
+a) Viajar en canoa para ir al supermercado
+b) La Tapati, fiesta tradicional de Rapa Nui
+c) El idioma mapuzugun, que todavía se habla
+d) La fiesta del We Tripantu (año nuevo mapuche)
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* ¡Muy bien! El idioma, fiestas como el We Tripantu o la Tapati, la
 artesanía, la comida tradicional y las danzas son costumbres que se mantienen. Ir al
 supermercado en canoa no es una costumbre tradicional.
@@ -443,12 +443,12 @@ en el español de Chile.
 
 **3. (Varias correctas — clasificar)** ¿Cuáles de estos elementos son un **aporte
 indígena** a nuestra cultura? Marca **todas** las correctas.
-a) El idioma español
-b) La papa y el choclo
-c) La religión católica
-d) El palín
+a) La papa y el choclo
+b) La religión católica
+c) El palín
+d) El idioma español
 
-✅ Respuesta correcta: **b y d**
+✅ Respuesta correcta: **a y c**
 💬 *Retroalimentación:* ¡Excelente! La papa, el choclo y el palín son aportes indígenas; el
 idioma español y la religión católica llegaron con los españoles. Reconocer el origen de cada
 elemento nos ayuda a entender cómo se formó nuestra cultura mestiza.
@@ -901,13 +901,13 @@ muy útiles para describir los paisajes del sur de Chile.
 **5. (Varias correctas)** Lee esta descripción: "En mi región, la **cordillera** se ve al
 fondo, un **río** atraviesa el **valle** y llega hasta la **costa**". ¿Cuáles de estas palabras
 son palabras geográficas? Marca **todas** las correctas.
-a) Cordillera
-b) Río
-c) Mochila
-d) Valle
-e) Costa
+a) Valle
+b) Costa
+c) Cordillera
+d) Río
+e) Mochila
 
-✅ Respuesta correcta: **a, b, d y e**
+✅ Respuesta correcta: **a, b, c y d**
 💬 *Retroalimentación:* ¡Muy bien! Cordillera, río, valle y costa son palabras geográficas (una
 mochila no es parte del paisaje), igual
 que océano, desierto, volcán, archipiélago, isla, fiordo o lago. Intenta describir el paisaje de

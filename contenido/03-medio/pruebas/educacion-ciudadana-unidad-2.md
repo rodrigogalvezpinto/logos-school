@@ -34,10 +34,10 @@ d) Igualdad
 
 **Pregunta 2.** *(Varias correctas — análisis de caso)* Un consultorio se niega a atender a una adolescente con fiebre alta porque pertenece a un pueblo originario y "no habla bien español". ¿Qué principios de los Derechos Humanos se vulneran? Marca **todas** las correctas.
 
-a) Universalidad
-b) No discriminación
-c) Soberanía popular
-d) Control de la agenda
+a) Control de la agenda
+b) Universalidad
+c) No discriminación
+d) Soberanía popular
 
 **Pregunta 3.** *(Verdadero o Falso)* El Estado tiene el deber no solo de abstenerse de violar los Derechos Humanos, sino también de protegerlos y promoverlos, por ejemplo con instituciones como el Instituto Nacional de Derechos Humanos (INDH) y la Defensoría de la Niñez.
 
@@ -81,10 +81,10 @@ d) 1-C, 2-B, 3-A
 
 **Pregunta 8.** *(Varias correctas — análisis de caso)* Un grupo de estudiantes crea una cuenta de divulgación sobre el reciclaje y organiza con la junta de vecinos un punto limpio en la plaza. ¿Con qué formas de participación se vincula? Marca **todas** las correctas.
 
-a) Organizaciones comunitarias y locales
-b) Informarse y difundir opiniones para generar conciencia pública
-c) Ejercer un cargo de elección popular
-d) Votar en una elección presidencial
+a) Ejercer un cargo de elección popular
+b) Votar en una elección presidencial
+c) Organizaciones comunitarias y locales
+d) Informarse y difundir opiniones para generar conciencia pública
 
 **Pregunta 9.** *(Alternativas)* Una comunidad mapuche sostiene que sus decisiones sobre el territorio deben respetar su lengua, sus tradiciones y su forma de vida colectiva, porque el bienestar de cada integrante está ligado al de la comunidad. ¿Qué perspectiva del bien común se acerca más a este planteamiento?
 
@@ -152,13 +152,13 @@ d) Reemplaza las funciones del municipio
 | N° | Respuesta correcta |
 |:---:|---|
 | 1 | c) Inalienabilidad — los Derechos Humanos no pueden cederse, venderse ni renunciarse por contrato. |
-| 2 | **a y b.** Todas las personas tienen derecho a la salud, y negar la atención por el origen étnico o el idioma es discriminación. |
+| 2 | **b y c.** Todas las personas tienen derecho a la salud, y negar la atención por el origen étnico o el idioma es discriminación. |
 | 3 | Verdadero — el Estado tiene deberes de respetar, proteger y promover los Derechos Humanos. |
 | 4 | **a)** Los Derechos Humanos se fundan en la condición humana: no se pierden por haber cometido un delito. |
 | 5 | **d) Indivisibilidad.** Los derechos económicos, sociales y culturales tienen la misma jerarquía que los civiles y políticos. |
 | 6 | d) Liberalismo — pone en el centro la libertad individual y los derechos de cada persona. |
 | 7 | **c) 1-C, 2-A, 3-B.** Republicanismo: participación cívica; liberalismo: libertad y derechos individuales; comunitarismo: lazos y tradiciones compartidas. |
-| 8 | **a y b.** El punto limpio con la junta de vecinos es participación comunitaria; la cuenta de divulgación busca generar conciencia pública. |
+| 8 | **c y d.** El punto limpio con la junta de vecinos es participación comunitaria; la cuenta de divulgación busca generar conciencia pública. |
 | 9 | b) Comunitarismo — las personas se constituyen dentro de comunidades, y el bien común no es solo la suma de intereses individuales. |
 | 10 | **c)** Desentenderse de todo lo público se acerca a un liberalismo extremo; el republicanismo, en cambio, exige participación cívica. |
 | 11 | b) El alcalde o alcaldesa encabeza la municipalidad, a cargo de la escala comunal. |

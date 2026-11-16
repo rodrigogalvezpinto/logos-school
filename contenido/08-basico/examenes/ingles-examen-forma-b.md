@@ -215,10 +215,10 @@ d) never
 
 **24.** *(Varias correctas — preferencia, desafiante)* *"Would you prefer to live in a big city or in a small town in the future? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
 
-a) I would prefer to live in a small town because it is quiet and safe.
-b) I would prefer to live in a big city because there are more opportunities to study.
-c) I would prefer a big city because yesterday.
-d) Small town big city.
+a) Small town big city.
+b) I would prefer to live in a small town because it is quiet and safe.
+c) I would prefer to live in a big city because there are more opportunities to study.
+d) I would prefer a big city because yesterday.
 
 **25.** *(Alternativas — completar, desafiante)* Complete: *"When the bus stopped, we ___ the bus and walked ___ the museum."*
 
@@ -268,7 +268,7 @@ Cada ítem vale **1 punto**. **Puntaje total: 25 puntos.** En las preguntas de �
 | 21 | **a) will answer.** Para una decisión espontánea en el momento de hablar se usa will (I'll answer it). | OA16 |
 | 22 | a) The woman with the red jacket is my aunt. En inglés se dice "The woman with the red jacket is my aunt": sujeto ("the woman with the red jacket"), verbo ("is") y complemento ("my aunt"), en ese orden. | OA16 |
 | 23 | **d) never.** Los boletos son caros y ven películas en casa: nunca van al cine. | OA16 |
-| 24 | **a y b.** Ambas preferencias son válidas si van con because y una razón coherente. | OA16 |
+| 24 | **b y c.** Ambas preferencias son válidas si van con because y una razón coherente. | OA16 |
 | 25 | **b) got off / into.** Get off se usa para bajarse de un transporte y walk into para entrar a un lugar. | OA16 |
 
 ### Resumen de puntaje por OA

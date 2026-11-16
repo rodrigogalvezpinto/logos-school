@@ -118,10 +118,10 @@ d) Ventana
 
 **Pregunta 15 (varias correctas).** Valentina recorre Ciudad de México y Santiago. ¿Cuáles de estas cosas que observa muestran el legado de alguna civilización estudiada (maya, azteca, griega, romana o europea medieval)? Marca todas las correctas.
 
-a) Tortillas de maíz y chocolate en los mercados
-b) Una catedral en la plaza de armas
-c) El Congreso, donde representantes elegidos discuten las leyes
-d) Un centro comercial con tiendas de ropa
+a) Una catedral en la plaza de armas
+b) El Congreso, donde representantes elegidos discuten las leyes
+c) Un centro comercial con tiendas de ropa
+d) Tortillas de maíz y chocolate en los mercados
 
 ---
 
@@ -141,4 +141,4 @@ d) Un centro comercial con tiendas de ropa
 12. b) 1-C, 2-A, 3-B. El arado mejorado y los molinos son innovaciones técnicas (C); los comerciantes que acumulan capital muestran el desarrollo del comercio (A), y los centros de estudios superiores son las universidades (B).
 13. b) Para obtener terreno plano para cultivar en las montañas y evitar que la lluvia arrastrara el suelo.
 14. b) Chocolate. Viene del náhuatl, la lengua de los aztecas; como *tomate* o *cancha*, es un legado de las civilizaciones americanas.
-15. **a, b y c.** El maíz y el cacao vienen de Mesoamérica, las catedrales del mundo europeo medieval y la idea de representantes y ciudadanía de Grecia y Roma; un centro comercial moderno no es un legado de esas civilizaciones.
+15. **a, b y d.** El maíz y el cacao vienen de Mesoamérica, las catedrales del mundo europeo medieval y la idea de representantes y ciudadanía de Grecia y Roma; un centro comercial moderno no es un legado de esas civilizaciones.

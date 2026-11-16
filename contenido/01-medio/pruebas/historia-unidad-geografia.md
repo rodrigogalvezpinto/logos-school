@@ -93,10 +93,10 @@ d) La realización de exposiciones agrícolas nacionales
 
 **Pregunta 12 (Varias correctas).** ¿Qué objetivos perseguía el Estado chileno al impulsar la exploración y el reconocimiento de su territorio en el siglo XIX? Marca **todas** las correctas.
 
-a) Caracterizar a su población
-b) Desarrollar sus recursos y organizar su administración
-c) Delimitar sus fronteras
-d) Devolver el territorio a la Corona española
+a) Delimitar sus fronteras
+b) Devolver el territorio a la Corona española
+c) Caracterizar a su población
+d) Desarrollar sus recursos y organizar su administración
 
 **Pregunta 13 (Alternativas — desafiante).** ¿En qué se parecen y en qué se diferencian las misiones científicas (como las de Gay y Domeyko) y los censos de población?
 
@@ -120,5 +120,5 @@ d) Ambos sirvieron al Estado para conocer su territorio; las misiones describía
 9. b) El Estado debía explorar y conocer esas zonas antes de poder administrarlas. La ausencia de límites definidos y de autoridades muestra que el control efectivo era parcial: por eso el Estado impulsó misiones científicas, censos y redes de transporte antes de organizar y administrar esos territorios.
 10. a) Era un centro de producción de conocimiento científico sobre el territorio y de formación de los profesionales para explorarlo, medirlo y administrarlo. La Universidad de Chile, fundada en 1842, impulsó la ciencia sobre el territorio: formó ingenieros, geógrafos y naturalistas que exploraron, midieron y describieron el país para el Estado.
 11. d) La realización de exposiciones agrícolas nacionales. Las exposiciones difunden productos, pero no permitieron conocer ni administrar el territorio; los instrumentos reales fueron censos, redes de transporte y comunicación, misiones científicas y expansión de la burocracia.
-12. a, b y c — Para ello usó misiones científicas, censos, universidades y la expansión de transportes y burocracia; devolver territorio a España no fue un objetivo.
+12. a, c y d — Para ello usó misiones científicas, censos, universidades y la expansión de transportes y burocracia; devolver territorio a España no fue un objetivo.
 13. d) Ambos sirvieron al Estado para conocer su territorio; las misiones describían geografía, flora, fauna y recursos, y los censos cuantificaban y caracterizaban a los habitantes. Sus resultados eran complementarios para la planificación y administración estatal.

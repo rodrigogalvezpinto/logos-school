@@ -151,12 +151,12 @@ d) Ambos están narrados por el mismo tipo de narrador, en primera persona
 
 **9. (Varias correctas)** Considerando la situación hipotética de producción (A en 1992 y B en 2026) y distintas audiencias de recepción, ¿qué afirmaciones son pertinentes y no atribuyen reacciones idénticas a toda una audiencia? Marca **todas** las correctas.
 
-a) Producción y recepción son distintas: A trata la memoria del exilio y B la adaptación migrante
-b) La llave puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió
-c) La videollamada puede resultar agridulce para alguien migrante y llevar a otro lector a cuestionar que conectarse equivalga a pertenecer
-d) Todos los estudiantes de 2026 interpretarán ambos textos exactamente igual
+a) Todos los estudiantes de 2026 interpretarán ambos textos exactamente igual
+b) Producción y recepción son distintas: A trata la memoria del exilio y B la adaptación migrante
+c) La llave puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió
+d) La videollamada puede resultar agridulce para alguien migrante y llevar a otro lector a cuestionar que conectarse equivalga a pertenecer
 
-*Respuesta correcta: a, b y c.* Retroalimentación: Se distingue producción de recepción y se proponen efectos razonados a partir de detalles de cada obra, sin generalizar; hay otras hipótesis válidas si se sustentan en los textos.
+*Respuesta correcta: b, c y d.* Retroalimentación: Se distingue producción de recepción y se proponen efectos razonados a partir de detalles de cada obra, sin generalizar; hay otras hipótesis válidas si se sustentan en los textos.
 
 **10. (Alternativas)** Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre la migración, solo que en distintas épocas". ¿Qué evaluación es más precisa?
 
@@ -259,12 +259,12 @@ d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las
 
 **7. (Varias correctas)** ¿Qué argumentos podría dar una columna con una ideología más favorable a la inversión privada minera frente al mismo tema? Marca **todas** las correctas.
 
-a) Aumentar la tributación podría desincentivar la inversión extranjera y reducir el empleo asociado a la industria
-b) La carga tributaria actual ya es competitiva internacionalmente y elevarla pondría en riesgo la estabilidad del sector
-c) Las regiones mineras deberían recibir todas las utilidades de las empresas
-d) Hay que cerrar todas las mineras para proteger el agua
+a) Hay que cerrar todas las mineras para proteger el agua
+b) Aumentar la tributación podría desincentivar la inversión extranjera y reducir el empleo asociado a la industria
+c) La carga tributaria actual ya es competitiva internacionalmente y elevarla pondría en riesgo la estabilidad del sector
+d) Las regiones mineras deberían recibir todas las utilidades de las empresas
 
-*Respuesta correcta: a y b.* Retroalimentación: Reconocer que un mismo tema admite argumentos desde ideologías distintas evita confundir "la única postura razonable" con "la postura que leí primero".
+*Respuesta correcta: b y c.* Retroalimentación: Reconocer que un mismo tema admite argumentos desde ideologías distintas evita confundir "la única postura razonable" con "la postura que leí primero".
 
 **8. (Verdadero o Falso)** Toda columna de opinión debe presentarse como un texto neutral, sin ningún posicionamiento del enunciador frente al tema que trata.
 
@@ -272,12 +272,12 @@ d) Hay que cerrar todas las mineras para proteger el agua
 
 **9. (Varias correctas)** Sobre la cifra tributaria y el consumo de agua que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
 
-a) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
-b) Para contrastarlas haría falta el informe, su fecha, el método de cálculo tributario y datos regionales de agua
-c) «Buena parte», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
-d) Basta con que el texto nombre una institución para considerar verificados los datos
+a) «Buena parte», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
+b) Basta con que el texto nombre una institución para considerar verificados los datos
+c) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
+d) Para contrastarlas haría falta el informe, su fecha, el método de cálculo tributario y datos regionales de agua
 
-*Respuesta correcta: a, b y c.* Retroalimentación: Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
+*Respuesta correcta: a, c y d.* Retroalimentación: Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
 
 **10. (Alternativas)** ¿Qué par ejemplifica correctamente la intención explícita y la implícita de la columna sobre el royalty minero?
 

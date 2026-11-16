@@ -448,12 +448,12 @@ católico con lo indígena.
 ---
 
 **4. (Varias correctas)** ¿Qué funciones cumplió la Iglesia católica durante la Colonia? Marca **todas** las correctas.
-a) La evangelización de la población indígena y mestiza
-b) La educación, con la fundación de escuelas
-c) La organización del comercio libre con Inglaterra
-d) La influencia en las costumbres y celebraciones de la época
+a) La educación, con la fundación de escuelas
+b) La organización del comercio libre con Inglaterra
+c) La influencia en las costumbres y celebraciones de la época
+d) La evangelización de la población indígena y mestiza
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* La Iglesia evangelizó, educó e influyó en las costumbres; el comercio de la colonia estaba orientado principalmente hacia España, no era libre.
 
 ---
@@ -618,12 +618,12 @@ Arauco.
 ---
 
 **5. (Varias correctas)** ¿Cuáles de estas fueron formas de relación entre españoles y mapuches durante la Colonia? Marca **todas** las correctas.
-a) La guerra (Guerra de Arauco)
-b) Los parlamentos, donde se negociaban acuerdos
-c) La vida fronteriza, con intercambio en torno al Biobío
-d) El voto universal en elecciones conjuntas
+a) El voto universal en elecciones conjuntas
+b) La guerra (Guerra de Arauco)
+c) Los parlamentos, donde se negociaban acuerdos
+d) La vida fronteriza, con intercambio en torno al Biobío
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* También lo fueron el trabajo forzado (encomienda), la evangelización y el mestizaje. No existían elecciones con voto universal en la Colonia.
 
 ---
@@ -928,12 +928,12 @@ sostenible.
 ---
 
 **5. (Varias correctas — clasificar)** ¿Cuáles de estos recursos naturales son **renovables**? Marca **todas** las correctas.
-a) Cobre
-b) Bosque nativo
-c) Hierro
-d) Recursos marítimos (peces)
+a) Recursos marítimos (peces)
+b) Cobre
+c) Bosque nativo
+d) Hierro
 
-✅ Respuesta correcta: **b y d**
+✅ Respuesta correcta: **a y c**
 💬 *Retroalimentación:* Los minerales (cobre, hierro) son no renovables, mientras que los bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
 
 ---
@@ -950,12 +950,12 @@ d) No es importante: todos los recursos son iguales y ninguno se agota si se usa
 ---
 
 **7. (Varias correctas — desafiante)** Chile es el mayor productor de cobre del mundo, un recurso no renovable. ¿Cuáles de estas medidas ayudarían a un desarrollo sostenible relacionado con este recurso? Marca **todas** las correctas.
-a) Regular la extracción para reducir el daño ambiental
-b) Invertir las ganancias del cobre en otras áreas de desarrollo
-c) Extraer todo el cobre lo más rápido posible
-d) Diversificar la economía para no depender solo del cobre
+a) Extraer todo el cobre lo más rápido posible
+b) Diversificar la economía para no depender solo del cobre
+c) Regular la extracción para reducir el daño ambiental
+d) Invertir las ganancias del cobre en otras áreas de desarrollo
 
-✅ Respuesta correcta: **a, b y d**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* Como el cobre se agotará en algún momento, conviene regular su extracción, controlar la contaminación de la minería, invertir sus ganancias y diversificar la economía.
 
 ---

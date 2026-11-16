@@ -42,10 +42,10 @@ d) El agua desaparece para siempre
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Cerrar la llave mientras te lavas los dientes
-b) Dejar la manguera corriendo sin necesidad
-c) Avisar cuando una llave gotea
-d) Reutilizar el agua de la lluvia para regar plantas
+a) Avisar cuando una llave gotea
+b) Reutilizar el agua de la lluvia para regar plantas
+c) Cerrar la llave mientras te lavas los dientes
+d) Dejar la manguera corriendo sin necesidad
 
 ---
 
@@ -60,11 +60,11 @@ d) El sol
 
 **Pregunta 5.** ¿Cuáles de estas son formas de agua que caen de las nubes? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Llovizna
-b) Viento
-c) Nieve
-d) Arcoíris
-e) Granizo
+a) Arcoíris
+b) Granizo
+c) Llovizna
+d) Viento
+e) Nieve
 
 ---
 
@@ -90,8 +90,8 @@ d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos e
 
 1. **c) Evaporación.** El calor del sol transformó el agua líquida de los charcos en vapor.
 2. **a) El vapor sube, se enfría y forma nubes (condensación).** El vapor de agua sube, se enfría y forma gotitas que hacen las nubes: eso es la condensación. Después viene la precipitación.
-3. a, c y d — Son acciones cotidianas que ahorran agua; dejar la manguera corriendo la desperdicia.
+3. a, b y c — Son acciones cotidianas que ahorran agua; dejar la manguera corriendo la desperdicia.
 4. **b) El granizo.** El granizo, la lluvia y la nieve son agua que cae del cielo: precipitaciones.
-5. **a, c y e.** La llovizna, la nieve y el granizo son agua que cae de las nubes (precipitación). El viento es aire en movimiento y el arcoíris es luz.
+5. **b, c y e.** La llovizna, la nieve y el granizo son agua que cae de las nubes (precipitación). El viento es aire en movimiento y el arcoíris es luz.
 6. **c) Otoño.** En otoño muchas hojas cambian de color y caen de los árboles.
 7. **d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera.** Muchos árboles pierden sus hojas en otoño e invierno para pasar la estación fría gastando menos energía; en primavera, con más luz y calor, les vuelven a salir.

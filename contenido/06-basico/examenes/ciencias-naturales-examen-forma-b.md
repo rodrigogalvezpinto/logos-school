@@ -208,10 +208,10 @@ adecuada y su razón?
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Energía solar en el norte, por su alta radiación
-b) Energía hidroeléctrica en el sur, por sus ríos y caudales abundantes
-c) Energía hidroeléctrica en el desierto de Atacama, por sus grandes ríos
-d) Energía solar en la Antártica, por su cielo siempre soleado
+a) Energía solar en la Antártica, por su cielo siempre soleado
+b) Energía solar en el norte, por su alta radiación
+c) Energía hidroeléctrica en el sur, por sus ríos y caudales abundantes
+d) Energía hidroeléctrica en el desierto de Atacama, por sus grandes ríos
 
 ---
 
@@ -314,7 +314,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 15 | Alternativas | **a) En una licuadora hay energía eléctrica, cinética (aspas) y sonora (ruido); un pez necesita energía del alimento para nadar y bombear sangre.** Identificar varios tipos de energía en un mismo aparato muestra que la energía se transforma; sin un aporte constante de energía del alimento, los procesos vitales se detendrían. | OA 8 |
 | 16 | Alternativas | c) Energía geotérmica. La energía geotérmica aprovecha el calor del interior de la Tierra, que no se agota; el gas natural, el petróleo y el carbón son combustibles fósiles no renovables. | OA 11 |
 | 17 | Alternativas | b) Sus numerosos ríos y caudales abundantes. El sur de Chile tiene muchos ríos con caudal abundante por las lluvias; la fuerza del agua mueve las turbinas de las centrales hidroeléctricas. | OA 11 |
-| 18 | Varias correctas | **a y b.** Relacionar la energía con la geografía de cada zona explica el potencial energético diverso de Chile. | OA 11 |
+| 18 | Varias correctas | **b y c.** Relacionar la energía con la geografía de cada zona explica el potencial energético diverso de Chile. | OA 11 |
 | 19 | Alternativas | b) Condensación. El vapor se enfría al tocar una superficie fría y vuelve a ser líquido: eso es condensación, como cuando se empaña un vidrio. | OA 13 |
 | 20 | Alternativas | b) La evaporación ocurre en la superficie a cualquier temperatura; la ebullición, en todo el volumen a una temperatura fija. La evaporación ocurre solo en la superficie del líquido y a cualquier temperatura; la ebullición ocurre en todo el líquido a una temperatura determinada (el agua hierve a unos 100 °C a nivel del mar). | OA 13 |
 | 21 | Alternativas | **d) En el gas las partículas están separadas y se mueven libremente; en el sólido están juntas y solo vibran. El hielo seco pasa de sólido a gas sin estado líquido: es una sublimación.** La "niebla" blanca alrededor del hielo seco son gotitas de agua del aire condensadas por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. | OA 13 |

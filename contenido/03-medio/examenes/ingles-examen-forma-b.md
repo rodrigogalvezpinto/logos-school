@@ -127,10 +127,10 @@ d) Both want the upstairs room as the only option; however, D thinks the trial s
 
 **12.** *(Varias correctas — postura crítica)* Should the school use the upstairs room or test the ground-floor corner? Which answers give a position with a reason grounded in the texts? Marca **todas** las correctas.
 
-a) Test the ground-floor corner first, because the upstairs room has no lift and would exclude some students.
-b) Use the upstairs room only if a lift is installed, because a quiet room must be accessible to everyone.
-c) Use the upstairs room because I like stairs.
-d) Do nothing, because the texts are about jackets.
+a) Do nothing, because the texts are about jackets.
+b) Test the ground-floor corner first, because the upstairs room has no lift and would exclude some students.
+c) Use the upstairs room only if a lift is installed, because a quiet room must be accessible to everyone.
+d) Use the upstairs room because I like stairs.
 
 **13.** *(Alternativas — lenguaje en contexto)* In *"A trial could reveal problems"*, what does *could* tell us about the result?
 
@@ -269,7 +269,7 @@ Anota una letra para cada pregunta.
 | 9 | **b) Being able to choose a quieter room without imposing silence on the whole school or giving a medical explanation.** Se interpreta a partir de la propuesta, no de una definición de diccionario. | OA3 |
 | 10 | **c) Students propose a quiet lunch room twice a week. It would give people a break from the noise before afternoon lessons. They are not asking the whole school to stop talking.** Tres oraciones: propuesta, razón y aclaración de lo que no se pide. | OA3 |
 | 11 | **a) Both support offering a calmer space; however, D argues the upstairs room would exclude students and proposes testing a ground-floor corner first.** Coinciden en ofrecer calma; difieren en el espacio y en la prioridad de la accesibilidad. | OA3 |
-| 12 | **a y b.** Se acepta cualquier opción argumentada con razones del texto (ruido, acceso, comprobación de resultados), incluso una solución alternativa. | OA3 |
+| 12 | **b y c.** Se acepta cualquier opción argumentada con razones del texto (ruido, acceso, comprobación de resultados), incluso una solución alternativa. | OA3 |
 | 13 | **d) It expresses possibility, not a guarantee that problems will be detected.** Could expresa posibilidad. | OA3 |
 | 14 | **b) We will try a quiet corner on the ground floor at lunchtime. Tell us if it helps you rest or if it is too noisy!.** Un aviso para menores usa un lenguaje claro y cercano, sin copiar la respuesta formal del consejo. | OA3 |
 | 15 | **c) "Was the ground-floor corner quiet enough for you to rest?", because the answer shows whether the trial works.** La pregunta debe informar la evaluación del ensayo. | OA3 |

@@ -164,10 +164,10 @@ d) Solo cuando llueve
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Cerrar la llave al lavarse los dientes
-b) Dejar la manguera corriendo
-c) Avisar cuando una llave gotea
-d) No contaminar ríos ni lagos
+a) Avisar cuando una llave gotea
+b) No contaminar ríos ni lagos
+c) Cerrar la llave al lavarse los dientes
+d) Dejar la manguera corriendo
 
 ---
 
@@ -274,7 +274,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 10 | Ciencias Naturales | **d) El azúcar se disuelve y deja de verse; la arena no se disuelve y se sigue viendo en el agua.** No todos los sólidos se disuelven en el agua: el azúcar sí, la arena no. | OA 9 |
 | 11 | Matemática | **b) <.** 8+5=13, y como 13 es menor que 14, el símbolo correcto es < (menor que). | OA 13 |
 | 12 | Lenguaje y Comunicación | **c) En la mañana, antes de que haga calor.** El artículo dice: "Los niños riegan las plantas en la mañana, antes de que haga calor, para que el agua no se evapore tan rápido". | OA N°7 |
-| 13 | Ciencias Naturales | **a, c y d.** Son acciones cotidianas que cuidan el agua; dejar la manguera corriendo la desperdicia. | OA 11 |
+| 13 | Ciencias Naturales | **a, b y c.** Son acciones cotidianas que cuidan el agua; dejar la manguera corriendo la desperdicia. | OA 11 |
 | 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
 | 15 | Lenguaje y Comunicación | **b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |
 | 16 | Historia, Geografía y Cs. Sociales | **b) Zona centro.** Los valles fértiles con viñedos y ríos, entre las dos cordilleras, son característicos del centro de Chile. | OA 8 |

@@ -290,11 +290,11 @@ relación afectiva o sexual.
    **Retroalimentación:** La responsabilidad compartida es clave para prevenir embarazos no planificados e ITS.
 
 6. *(Varias correctas — Análisis de caso)* Una adolescente de 16 años se entera de que está embarazada. ¿Qué afirmaciones sobre los ámbitos afectados y los apoyos posibles son correctas? Marca **todas** las correctas.
-   a) Ámbito educativo: puede dificultarse su asistencia, lo que se mitiga con apoyo del establecimiento (por ejemplo, flexibilidad horaria)
-   b) Ámbito económico: la crianza implica costos, lo que se mitiga con redes familiares o programas estatales
-   c) Solo se ve afectado el ámbito biológico
-   d) No existe ningún tipo de apoyo posible
-   **Respuesta correcta:** a y b.
+   a) No existe ningún tipo de apoyo posible
+   b) Ámbito educativo: puede dificultarse su asistencia, lo que se mitiga con apoyo del establecimiento (por ejemplo, flexibilidad horaria)
+   c) Ámbito económico: la crianza implica costos, lo que se mitiga con redes familiares o programas estatales
+   d) Solo se ve afectado el ámbito biológico
+   **Respuesta correcta:** b y c.
    **Retroalimentación:** Un embarazo adolescente afecta varios ámbitos, como el educativo (asistencia) y el económico (gastos), y cada uno tiene apoyos posibles, como la flexibilidad horaria del colegio. Por eso su prevención es un tema de salud pública.
 
 7. *(Alternativas — Evaluación)* ¿Por qué el consentimiento y la comunicación son centrales en cualquier relación afectiva o sexual?
@@ -537,11 +537,11 @@ genética, especialmente en seres humanos.
    **Retroalimentación:** La terapia génica es una de las aplicaciones médicas de la ingeniería genética.
 
 5. *(Varias correctas — Evaluación)* Sobre los cultivos transgénicos resistentes a plagas, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
-   a) Pueden reducir el uso de pesticidas y aumentar el rendimiento
-   b) Pueden generar dependencia de las empresas que poseen las patentes de semillas
-   c) Existen interrogantes sobre sus efectos a largo plazo en la biodiversidad
-   d) Está demostrado que no tienen ningún impacto económico ni ambiental
-   **Respuesta correcta:** a, b y c.
+   a) Existen interrogantes sobre sus efectos a largo plazo en la biodiversidad
+   b) Está demostrado que no tienen ningún impacto económico ni ambiental
+   c) Pueden reducir el uso de pesticidas y aumentar el rendimiento
+   d) Pueden generar dependencia de las empresas que poseen las patentes de semillas
+   **Respuesta correcta:** a, c y d.
    **Retroalimentación:** Los transgénicos pueden reducir el uso de pesticidas y aumentar el rendimiento, pero también generar dependencia de las empresas dueñas de las patentes, y hay preguntas que aún se investigan. Evaluarlos exige sopesar beneficios y riesgos.
 
 6. *(Alternativas — Evaluación ética)* "Si una tecnología biotecnológica trae beneficios económicos y de salud, no es necesario evaluar sus implicancias éticas y sociales." ¿Qué evaluación es correcta?
@@ -645,11 +645,11 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
    manera constante en el tiempo, debido a la aceleración.
 
 3. *(Varias correctas — Clasificar)* ¿Cuáles de estas situaciones corresponden a un **MRUA**? Marca **todas** las correctas.
-   a) Un auto que frena en línea recta disminuyendo su velocidad de forma constante
-   b) Un objeto en caída libre cerca de la superficie terrestre
-   c) Un auto que viaja en línea recta a 100 km/h constantes
-   d) Un objeto en reposo sobre una mesa
-   **Respuesta correcta:** a y b.
+   a) Un objeto en caída libre cerca de la superficie terrestre
+   b) Un auto que viaja en línea recta a 100 km/h constantes
+   c) Un objeto en reposo sobre una mesa
+   d) Un auto que frena en línea recta disminuyendo su velocidad de forma constante
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** En el MRUA la velocidad cambia de manera constante; a velocidad constante es MRU.
 
 4. *(Alternativas)* Una persona camina 100 m al norte y regresa al punto de partida. ¿Cuáles son la distancia recorrida y el desplazamiento?

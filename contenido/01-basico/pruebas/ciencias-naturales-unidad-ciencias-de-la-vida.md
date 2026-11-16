@@ -75,10 +75,10 @@ d) Gusto
 **7.** *(Varias correctas)* ¿Qué uniones de sentido y órgano son correctas? Marca
 **todas** las correctas.
 
-a) Vista → ojos
-b) Gusto → nariz
-c) Tacto → piel
-d) Oído → lengua
+a) Tacto → piel
+b) Oído → lengua
+c) Vista → ojos
+d) Gusto → nariz
 
 ---
 

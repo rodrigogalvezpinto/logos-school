@@ -279,12 +279,12 @@ d) No dialoga con ninguna tradición
 
 **8. (Varias correctas — análisis integrado)** Como director o directora, ¿qué decisiones de puesta en escena reforzarían el problema humano central de la obra? Marca **todas** las correctas.
 
-a) Intensificar el sonido de la sirena para aumentar la sensación de urgencia y peligro
-b) Trabajar la actuación de Don Héctor para mostrar su duda interna detrás de la calma aparente
-c) Agregar música alegre y luces de colores durante toda la escena
-d) Eliminar la sirena y mantener la luz constante
+a) Trabajar la actuación de Don Héctor para mostrar su duda interna detrás de la calma aparente
+b) Agregar música alegre y luces de colores durante toda la escena
+c) Eliminar la sirena y mantener la luz constante
+d) Intensificar el sonido de la sirena para aumentar la sensación de urgencia y peligro
 
-*Respuesta correcta: a y b.* Retroalimentación: cada elemento de la puesta en escena es una decisión interpretativa; las opciones festivas o que eliminan la tensión contradicen el sentido de la obra.
+*Respuesta correcta: a y d.* Retroalimentación: cada elemento de la puesta en escena es una decisión interpretativa; las opciones festivas o que eliminan la tensión contradicen el sentido de la obra.
 
 ---
 
@@ -711,12 +711,12 @@ d) Escribir sin hipótesis ni evidencia
 
 **7. (Varias correctas)** ¿Por qué es importante citar la fuente de un dato ("según un estudio de la Universidad de Chile citado por el Ministerio de Educación")? Marca **todas** las correctas.
 
-a) Permite evaluar la confiabilidad del dato y distinguirlo de una opinión sin sustento
-b) Es una práctica de honestidad intelectual que reconoce el origen de la información
-c) Fortalece la credibilidad del ensayo
-d) Sirve para alargar el texto sin aportar nada
+a) Sirve para alargar el texto sin aportar nada
+b) Permite evaluar la confiabilidad del dato y distinguirlo de una opinión sin sustento
+c) Es una práctica de honestidad intelectual que reconoce el origen de la información
+d) Fortalece la credibilidad del ensayo
 
-*Respuesta correcta: a, b y c.* Retroalimentación: citar no es una formalidad: fortalece la credibilidad y respeta la autoría de la información.
+*Respuesta correcta: b, c y d.* Retroalimentación: citar no es una formalidad: fortalece la credibilidad y respeta la autoría de la información.
 
 **8. (Alternativas — texto integrado)** ¿Cuál de estos párrafos es una conclusión adecuada para un ensayo sobre "¿Debería la fiscalización ciudadana complementar las leyes ambientales en Chile?"?
 

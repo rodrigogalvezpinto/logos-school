@@ -68,10 +68,10 @@ d) Candidatura independiente
 
 **3.** (Varias correctas — 4 puntos) ¿Cuáles de las siguientes afirmaciones son **verdaderas**? Marca **todas** las correctas.
 
-a) El Congreso Nacional puede aumentar el gasto público por iniciativa propia, sin necesidad del Presidente.
-b) La fiscalización política de los actos del gobierno es atribución exclusiva de la Cámara de Diputadas y Diputados.
-c) Los alcaldes y alcaldesas se eligen por mayoría relativa: gana la candidatura más votada, sin segunda vuelta.
-d) El Servicio Electoral es el órgano que proclama oficialmente los resultados de las elecciones.
+a) La fiscalización política de los actos del gobierno es atribución exclusiva de la Cámara de Diputadas y Diputados.
+b) Los alcaldes y alcaldesas se eligen por mayoría relativa: gana la candidatura más votada, sin segunda vuelta.
+c) El Servicio Electoral es el órgano que proclama oficialmente los resultados de las elecciones.
+d) El Congreso Nacional puede aumentar el gasto público por iniciativa propia, sin necesidad del Presidente.
 
 ---
 
@@ -151,10 +151,10 @@ d) Solo afecta a la economía de otros países, que dependen más del petróleo,
 
 ¿Qué afirmaciones comparan correctamente ambas opciones? Marca **todas** las correctas.
 
-a) En la dimensión económica, (A) mantiene empleo pero aumenta la dependencia de los precios internacionales; (B) busca diversificar
-b) En las dimensiones social y ambiental hay que considerar la vida digna, la permanencia en el territorio y los impactos ecológicos de cada opción
-c) A escala local se ve quién recibe beneficios y quién soporta costos, algo que el ingreso promedio nacional oculta
-d) El ingreso promedio nacional basta para decidir, porque refleja igual a todas las regiones
+a) El ingreso promedio nacional basta para decidir, porque refleja igual a todas las regiones
+b) En la dimensión económica, (A) mantiene empleo pero aumenta la dependencia de los precios internacionales; (B) busca diversificar
+c) En las dimensiones social y ambiental hay que considerar la vida digna, la permanencia en el territorio y los impactos ecológicos de cada opción
+d) A escala local se ve quién recibe beneficios y quién soporta costos, algo que el ingreso promedio nacional oculta
 
 ---
 
@@ -242,10 +242,10 @@ d) La desinformación en los procesos de selección
 
 **18.** (Varias correctas — 4 puntos) ¿Cuáles de las siguientes afirmaciones son **verdaderas**? Marca **todas** las correctas.
 
-a) El reconocimiento de la diversidad étnica y cultural puede convivir con la igualdad ante la ley en una democracia.
-b) La libertad positiva se refiere a las condiciones reales que permiten ejercer efectivamente una decisión, no solo a la ausencia de prohibiciones.
-c) Disentir sobre qué políticas aplicar para superar la pobreza es parte del debate legítimo en una democracia.
-d) La solidaridad obliga a todas las personas a pensar políticamente de la misma manera.
+a) La libertad positiva se refiere a las condiciones reales que permiten ejercer efectivamente una decisión, no solo a la ausencia de prohibiciones.
+b) Disentir sobre qué políticas aplicar para superar la pobreza es parte del debate legítimo en una democracia.
+c) La solidaridad obliga a todas las personas a pensar políticamente de la misma manera.
+d) El reconocimiento de la diversidad étnica y cultural puede convivir con la igualdad ante la ley en una democracia.
 
 ---
 
@@ -350,14 +350,14 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |----|------|----|---------------------------------|---------|
 | 1 | Alternativas | OA 1 | d) Tribunal Calificador de Elecciones y tribunales electorales regionales (el Servel administra el proceso; no proclama resultados) | 1 |
 | 2 | Alternativas | OA 1 | c) Renovación alternada. Los senadores se renuevan por mitades, en elecciones parlamentarias alternadas cada cuatro años: es la renovación alternada. | 1 |
-| 3 | Varias correctas | OA 1 | **b y c.** La iniciativa para aumentar el gasto es exclusiva del Presidente, y la proclamación corresponde a la justicia electoral (Tricel y tribunales electorales regionales), no al Servel. | 4 |
+| 3 | Varias correctas | OA 1 | **a y b.** La iniciativa para aumentar el gasto es exclusiva del Presidente, y la proclamación corresponde a la justicia electoral (Tricel y tribunales electorales regionales), no al Servel. | 4 |
 | 4 | Alternativas | OA 1 | **a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.** Las candidaturas independientes permiten que personas sin partido compitan por cargos, cumpliendo requisitos como reunir firmas de patrocinio: amplían quién puede ser representante. | 2 |
 | 5 | Varias correctas | OA 1 | **a, b y c.** El caso muestra la colegislación (a): el Congreso tramita y el Ejecutivo también legisla; la Constitución reserva al Presidente la iniciativa para aumentar el gasto (b), y así ningún órgano decide solo sobre el gasto (c). Por eso el Congreso no puede aprobar cualquier gasto sin el Ejecutivo (d). | 3 |
 | 6 | Alternativas | OA 3 | d) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
 | 7 | Alternativas | OA 3 | a) Transformar localmente lo extraído en productos y servicios complejos | 1 |
 | 8 | Alternativas | OA 3 | **d) 1-B, 2-C, 3-D, 4-A.** El modelo extractivo se basa en explotar recursos (B); el desarrollo sustentable equilibra economía, sociedad y ambiente (C); la política fiscal usa el gasto y los impuestos (D), y la escala local mira el impacto en la vida concreta (A). | 4 |
 | 9 | Alternativas | OA 3 | **b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras.** El uso intensivo de combustibles fósiles provoca el cambio climático, cuyos efectos (sequías, incendios, olas de calor) muestran los límites de ese modelo. | 2 |
-| 10 | Varias correctas | OA 3 | **a, b y c.** No se evalúa la opción preferida, sino la calidad de la comparación. | 3 |
+| 10 | Varias correctas | OA 3 | **b, c y d.** No se evalúa la opción preferida, sino la calidad de la comparación. | 3 |
 | 11 | Alternativas | OA 4 | c) Dirección del Trabajo y su servicio de inspección. La Dirección del Trabajo fiscaliza el cumplimiento de la ley laboral, como la jornada y los descansos, mediante sus inspectores. | 1 |
 | 12 | Alternativas | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
 | 13 | Alternativas | OA 4 | **c) 1-B, 2-D, 3-C, 4-A.** Cada mecanismo protege un aspecto distinto del trabajo y el cuidado; la clave une cada uno con su contenido. | 4 |
@@ -365,7 +365,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 15 | Varias correctas | OA 4 | **a, b y c.** La demanda documentada de las organizaciones precedió a la ley (a), el permiso paternal de 2005 y el postnatal parental de 2011 son hitos de corresponsabilidad (b) y el caso muestra cómo la organización social fortalece los derechos (c). La opción d contradice el caso: hubo más de una década de demanda. | 3 |
 | 16 | Alternativas | OA 5 | b) Libertad positiva. Que nadie le prohíba estudiar es libertad negativa; lo que le falta son condiciones reales, como becas, para poder hacerlo: libertad positiva. | 1 |
 | 17 | Alternativas | OA 5 | b) Equidad de género e igualdad de trato | 1 |
-| 18 | Varias correctas | OA 5 | **a, b y c.** La solidaridad es apoyo mutuo, no uniformidad de pensamiento político. | 4 |
+| 18 | Varias correctas | OA 5 | **a, b y d.** La solidaridad es apoyo mutuo, no uniformidad de pensamiento político. | 4 |
 | 19 | Alternativas | OA 5 | **d) Evidencia un problema de inclusión y participación: faltan mecanismos para que esos trabajadores conozcan y opinen sobre decisiones que los afectan.** Se pueden fundamentar también igualdad de trato o libertad positiva; el problema es la falta de mecanismos participativos, no un derecho universal a ser consultado. | 2 |
 | 20 | Varias correctas | OA 5 | **a, b y c.** Condicionar la ayuda a la adhesión política vulnera la igualdad de trato (a), contradice la solidaridad, que exige ayudar a quien más lo necesita (b), y quita libertad a la participación (c). No se vuelve aceptable por el partido del alcalde (d): el problema es el mecanismo. | 3 |
 | 21 | Alternativas | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |

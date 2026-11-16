@@ -68,10 +68,10 @@ d) No tiene costumbres propias
 
 **6. (Varias correctas — clasificar)** ¿Cuáles de estos elementos trajeron los **españoles** a Chile? Marca todas las correctas.
 
-a) El trigo y el pan
-b) La quinoa
-c) El caballo
-d) La papa
+a) La papa
+b) El trigo y el pan
+c) La quinoa
+d) El caballo
 
 ---
 
@@ -106,6 +106,6 @@ d) 1-B, 2-A, 3-C
 3. **b)** El palín. El palín es un juego mapuche que se juega en equipos con un palo curvo (wiño) y una bola pequeña; se parece al hockey.
 4. b) Hablar su lengua, como el mapudungun o el aymara. Muchas familias indígenas mantienen su lengua y sus tradiciones, aunque hoy vivan en ciudades.
 5. **a)** Mezcla aportes indígenas y españoles: es mestiza. El charquicán mezcla ingredientes indígenas y españoles, "guagua" y "cancha" son palabras de origen quechua, y las fiestas católicas llegaron con los españoles. Esa mezcla es el mestizaje.
-6. a y c — El trigo y el caballo llegaron con los españoles; la quinoa y la papa son aportes indígenas.
+6. b y d — El trigo y el caballo llegaron con los españoles; la quinoa y la papa son aportes indígenas.
 7. **a)** La llegada de inmigrantes desde Perú, que trajeron su cocina.
 8. d) 1-B, 2-A, 3-C. El kuchen lo trajeron los inmigrantes alemanes al sur; el trigo y el caballo llegaron con los españoles, y el choclo y la papa los cultivaban los pueblos indígenas desde antes.

@@ -35,10 +35,10 @@ d) El asombro frente al mundo.
 
 **3. (Varias correctas — Clasificar)** En un debate del curso surgen estas preguntas. ¿Cuáles son **filosóficas**? Marca **todas** las correctas.
 
-a) "¿Es justo castigar a alguien que rompió una ley injusta?"
-b) "¿Qué significa realmente ser libre?"
-c) "¿Cuántos estudiantes hay en el curso?"
-d) "¿A qué hora empieza el recreo?"
+a) "¿Cuántos estudiantes hay en el curso?"
+b) "¿A qué hora empieza el recreo?"
+c) "¿Es justo castigar a alguien que rompió una ley injusta?"
+d) "¿Qué significa realmente ser libre?"
 
 **4. (Alternativas)** En una discusión sobre si los animales tienen derechos, un estudiante dice: "No hace falta pensarlo: un famoso influencer dijo que no, y punto". ¿Qué actitud de esta frase es contraria al quehacer filosófico?
 
@@ -122,7 +122,7 @@ d) Las tres son materialismo
 
 1. d — para Platón y Aristóteles, la filosofía nace del asombro (thaumázein) ante lo que existe.
 2. Falso — no basta con que algo no sea comprobable experimentalmente: una preferencia personal no exige reflexión conceptual ni argumentación, por eso no es una pregunta filosófica.
-3. a y b — las preguntas no filosóficas se responden con un dato; las filosóficas exigen clarificar conceptos ("justo", "libre") y argumentar.
+3. c y d — las preguntas no filosóficas se responden con un dato; las filosóficas exigen clarificar conceptos ("justo", "libre") y argumentar.
 4. a — la filosofía no acepta afirmaciones solo por la autoridad o la fama de quien las dice: exige examinar razones.
 5. a — la pregunta filosófica no se responde con un dato, sino examinando conceptos como identidad, cambio y permanencia.
 6. d. La pregunta no se resuelve con un dato ni con una ley: exige precisar qué significa "deber" y argumentar razones a favor y en contra.

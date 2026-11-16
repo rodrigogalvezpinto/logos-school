@@ -157,6 +157,15 @@ Detector: `backend/scripts/explicaciones_genericas.py [curso]` (258 candidatas a
 revisadas como válidas. Guarda: `test_las_explicaciones_de_pruebas_no_son_genericas`. `explicaciones_pobres.py` (C.4) ahora
 detecta también explicaciones de solo varias letras.
 
+### 6.1e ✅ RESUELTO (2026-11-16) — C.5: sesgo de posición en «varias correctas»
+El 46 % de las «varias correctas» de pruebas y simulacros tenía a, b y c correctas y la última incorrecta (igual en guías),
+y la app baraja preguntas pero **no** alternativas. Herramienta: `backend/scripts/herramientas_auditoria/reordenar_varias.py`
+(rota las alternativas, actualiza las letras de la clave y verifica con el parser que no cambien respuestas, enunciado ni
+explicación). Rotadas 256; saltadas 12 que mencionan letras en su explicación u opciones (4.° medio, simulacros de Ciencias
+para la Ciudadanía, Educación Ciudadana y Lengua; 8.° básico Inglés U2 14) o cuyo formato no se reconoció (7.° básico guía
+OA 5 #3, prueba de Biología 10; 6.° básico simulacro de Ciencias 25). Guarda: `test_varias_correctas_sin_sesgo_de_posicion`
+(ningún patrón > 30 %). Material nuevo: no poner siempre las correctas primero.
+
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16

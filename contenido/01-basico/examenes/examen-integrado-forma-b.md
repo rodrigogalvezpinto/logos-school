@@ -126,19 +126,19 @@ c) 13
 
 **11.** [Imagen: una mochila escolar con género, cierres de metal y una base de plástico] *(Varias correctas)* ¿Qué materiales tiene esta mochila, unidos con una propiedad correcta? Marca **todas** las correctas.
 
-a) Género: suave y flexible
-b) Metal de los cierres: duro
-c) Plástico de la base: impermeable (no deja pasar el agua)
-d) Género: transparente como el vidrio
+a) Metal de los cierres: duro
+b) Plástico de la base: impermeable (no deja pasar el agua)
+c) Género: transparente como el vidrio
+d) Género: suave y flexible
 
 ---
 
 **12.** *(Varias correctas)* ¿Cuáles de estas palabras son **palabras geográficas** que sirven para describir el paisaje de un barrio o localidad? Marca **todas** las correctas.
 
-a) Camino
-b) Vegetación
-c) Cumpleaños
-d) Cordillera
+a) Cordillera
+b) Camino
+c) Vegetación
+d) Cumpleaños
 
 ---
 
@@ -242,8 +242,8 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 8 | Ciencias Naturales | **a) La llama.** Vive en el altiplano del norte, a gran altura; el pingüino vive en la costa y el pudú en los bosques del sur. | OA 5 — Animales y plantas de Chile |
 | 9 | Lenguaje y Comunicación | **b) A las 5.** La nota dice "Vuelvo a las 5". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **a) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
-| 11 | Ciencias Naturales | **a, b y c.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
-| 12 | Historia, Geografía y Cs. Sociales | **a, b y d.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
+| 11 | Ciencias Naturales | **a, b y d.** La mochila tiene género (suave y flexible), cierres de metal (duros) y una base de plástico (impermeable). El género no es transparente. | OA 8 — Los materiales y sus propiedades |
+| 12 | Historia, Geografía y Cs. Sociales | **a, b y c.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
 | 13 | Matemática | **b) El lápiz B.** Los dos parten del mismo punto y el lápiz B llega menos lejos: es el más corto. | OA 18 — Comparar la longitud de objetos |
 | 14 | Lenguaje y Comunicación | **b) Llenar la regadera con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Instrucciones |
 | 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |

@@ -193,11 +193,11 @@ muestren que funciona?), no solo su buena intención ambiental.
    **Retroalimentación:** En la jerarquía de las 3R, reducir va primero y reciclar al final, porque reciclar igual requiere recolectar, transportar y procesar con gasto de energía; reducir el consumo de desechables evita ese impacto desde el origen.
 
 6. *(Varias correctas — Evaluación de evidencia)* Un municipio quiere aprobar un parque eólico basándose solo en que "el lugar siempre ha sido ventoso, según los vecinos antiguos". ¿Qué evidencia adicional exigir? Marca **todas** las correctas.
-   a) Mediciones técnicas del viento durante al menos un año
-   b) Estudios de impacto ambiental, especialmente sobre aves
-   c) Análisis costo-beneficio comparado con otras fuentes
-   d) La opinión de un solo vecino más
-   **Respuesta correcta:** a, b y c.
+   a) La opinión de un solo vecino más
+   b) Mediciones técnicas del viento durante al menos un año
+   c) Estudios de impacto ambiental, especialmente sobre aves
+   d) Análisis costo-beneficio comparado con otras fuentes
+   **Respuesta correcta:** b, c y d.
    **Retroalimentación:** La percepción anecdótica no reemplaza la medición técnica.
 
 7. *(Verdadero o falso)* La conservación de humedales urbanos puede
@@ -256,11 +256,11 @@ muestren que funciona?), no solo su buena intención ambiental.
     sobreexplotación.
 
 12. *(Varias correctas — Evaluación de evidencia)* Una empresa dice que su proyecto es "100% sostenible" sin publicar datos ni ser evaluada por terceros. ¿Qué exigir como ciudadano informado? Marca **todas** las correctas.
-    a) Datos verificables de consumo, emisiones o residuos antes y después
-    b) Evaluación independiente o certificación reconocida
-    c) Transparencia sobre la metodología usada
-    d) Solo confiar en el eslogan publicitario
-    **Respuesta correcta:** a, b y c.
+    a) Solo confiar en el eslogan publicitario
+    b) Datos verificables de consumo, emisiones o residuos antes y después
+    c) Evaluación independiente o certificación reconocida
+    d) Transparencia sobre la metodología usada
+    **Respuesta correcta:** b, c y d.
     **Retroalimentación:** Una autodeclaración sin evidencia externa puede ser greenwashing (lavado verde).
 
 13. *(Verdadero o falso)* Un proyecto de gestión de residuos que reduce el
@@ -534,11 +534,11 @@ mencionado).
     **Retroalimentación:** Muchas medidas combinan elementos; lo importante es justificar su función principal.
 
 13. *(Varias correctas — Evaluación de evidencia)* Un modelo regional proyecta menos lluvias en la zona central si las emisiones siguen igual. ¿Qué revisar para evaluar su confiabilidad? Marca **todas** las correctas.
-    a) Si fue validado comparando proyecciones pasadas con lo ocurrido
-    b) Si está respaldado por instituciones científicas reconocidas (IPCC o centros chilenos)
-    c) Si considera distintos escenarios y coincide con otros modelos independientes
-    d) Si la proyección coincide con lo que yo prefiero creer
-    **Respuesta correcta:** a, b y c.
+    a) Si considera distintos escenarios y coincide con otros modelos independientes
+    b) Si la proyección coincide con lo que yo prefiero creer
+    c) Si fue validado comparando proyecciones pasadas con lo ocurrido
+    d) Si está respaldado por instituciones científicas reconocidas (IPCC o centros chilenos)
+    **Respuesta correcta:** a, c y d.
     **Retroalimentación:** Evaluar un modelo científico es distinto de aceptarlo o rechazarlo por impresión.
 
 14. *(Alternativas)* La pérdida de biodiversidad asociada al cambio

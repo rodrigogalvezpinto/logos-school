@@ -47,11 +47,11 @@ Las células animales tienen pared celular y cloroplastos, igual que las célula
 **Pregunta 3.** (Varias correctas — Clasificar)
 ¿Cuáles de estas estructuras están presentes **tanto** en las células animales como en las vegetales? Marca **todas** las correctas.
 
-a) Membrana celular
-b) Núcleo
-c) Mitocondria
-d) Cloroplasto
-e) Pared celular
+a) Pared celular
+b) Membrana celular
+c) Núcleo
+d) Mitocondria
+e) Cloroplasto
 
 **Pregunta 4.** (Alternativas)
 ¿Por qué las células de las hojas de una planta tienen muchos cloroplastos?
@@ -151,10 +151,10 @@ d) Todos son alimentos constructores
 **Pregunta 15.** (Varias correctas — Plan)
 ¿Qué acciones ayudan a un adolescente a mantener un cuerpo saludable? Marca **todas** las correctas.
 
-a) Dormir entre 8 y 10 horas
-b) Tomar agua en lugar de bebidas azucaradas
-c) Hacer actividad física varias veces por semana
-d) Reemplazar el almuerzo por papas fritas y bebida
+a) Reemplazar el almuerzo por papas fritas y bebida
+b) Dormir entre 8 y 10 horas
+c) Tomar agua en lugar de bebidas azucaradas
+d) Hacer actividad física varias veces por semana
 
 ---
 
@@ -162,7 +162,7 @@ d) Reemplazar el almuerzo por papas fritas y bebida
 
 1. d) La mitocondria. Produce la energía de la célula mediante la respiración celular.
 2. Falso — la pared celular y los cloroplastos son exclusivos de las células vegetales.
-3. a, b y c — La membrana, el núcleo y las mitocondrias están en ambos tipos de célula; el cloroplasto y la pared celular son exclusivos de la célula vegetal.
+3. b, c y d — La membrana, el núcleo y las mitocondrias están en ambos tipos de célula; el cloroplasto y la pared celular son exclusivos de la célula vegetal.
 4. a) Porque en las hojas se realiza principalmente la fotosíntesis. La cantidad de un organelo en una célula se relaciona con su función.
 5. d) La forma de cada célula se relaciona con su función: el glóbulo rojo transporta oxígeno y los pelos absorbentes aumentan la superficie de absorción.
 6. c) El xilema. Transporta la savia bruta (agua y minerales) desde la raíz hasta las hojas.
@@ -174,4 +174,4 @@ d) Reemplazar el almuerzo por papas fritas y bebida
 12. d) Los nutrientes se absorben en el intestino delgado y la sangre los lleva a todas las células. Ningún sistema trabaja solo.
 13. b) Constructor. Las proteínas son esenciales para el crecimiento y la reparación de tejidos.
 14. b) Energético: arroz y mantequilla. Constructor: pollo y lentejas. Regulador: manzana y lechuga. El arroz (carbohidratos) y la mantequilla (grasas) aportan energía; el pollo y las lentejas, proteínas para construir tejidos, y frutas y verduras, vitaminas y minerales que regulan el cuerpo.
-15. a, b y c — Dormir bien, hidratarse con agua y hacer actividad física ayudan a la salud; reemplazar el almuerzo por comida chatarra no.
+15. b, c y d — Dormir bien, hidratarse con agua y hacer actividad física ayudan a la salud; reemplazar el almuerzo por comida chatarra no.

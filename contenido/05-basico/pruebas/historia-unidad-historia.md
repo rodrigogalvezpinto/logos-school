@@ -89,10 +89,10 @@ d) Independencia
 
 **9. (Varias correctas)** Durante la Colonia, ¿qué hacían los sacerdotes y las órdenes religiosas como jesuitas y franciscanos? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Enseñaban la religión católica a los pueblos indígenas
-b) Fundaban escuelas y enseñaban a leer
-c) Dirigían el ejército en la independencia de Chile
-d) Organizaban fiestas religiosas que se volvieron costumbres
+a) Fundaban escuelas y enseñaban a leer
+b) Dirigían el ejército en la independencia de Chile
+c) Organizaban fiestas religiosas que se volvieron costumbres
+d) Enseñaban la religión católica a los pueblos indígenas
 
 ---
 
@@ -122,10 +122,10 @@ d) 1-B, 2-A, 3-C
 
 **12. (Varias correctas)** Durante la Colonia, españoles y mapuches se relacionaron de distintas maneras en la frontera del Biobío. ¿Cuáles de estos hechos ocurrieron? (Varias correctas: marca todas las alternativas correctas.)
 
-a) Enfrentamientos y malocas (ataques) de ambos lados
-b) Reuniones llamadas parlamentos para firmar acuerdos de paz
-c) Intercambio de productos como ganado, sal y tejidos
-d) La elección de un presidente común para ambos pueblos
+a) La elección de un presidente común para ambos pueblos
+b) Enfrentamientos y malocas (ataques) de ambos lados
+c) Reuniones llamadas parlamentos para firmar acuerdos de paz
+d) Intercambio de productos como ganado, sal y tejidos
 
 ---
 
@@ -147,10 +147,10 @@ d) La elección de un presidente común para ambos pueblos
 
 **8.** b) Sincretismo. Combina elementos católicos con danzas y trajes de tradición andina.
 
-**9.** **a, b y d.** La Iglesia evangelizaba, educaba y marcaba las celebraciones y costumbres de la Colonia; la independencia ocurrió después y no la dirigió la Iglesia.
+**9.** **a, c y d.** La Iglesia evangelizaba, educaba y marcaba las celebraciones y costumbres de la Colonia; la independencia ocurrió después y no la dirigió la Iglesia.
 
 **10.** b) Los mapuche. Su resistencia hizo del Biobío una frontera entre ambos territorios.
 
 **11.** d) 1-B, 2-A, 3-C — Valdivia fundó Santiago, Lautaro lideró la resistencia mapuche y Almagro fue el primero en llegar.
 
-**12.** **a, b y c.** Hubo guerra, parlamentos de paz e intercambio comercial en la frontera; nunca existió un presidente común elegido por votación.
+**12.** **b, c y d.** Hubo guerra, parlamentos de paz e intercambio comercial en la frontera; nunca existió un presidente común elegido por votación.

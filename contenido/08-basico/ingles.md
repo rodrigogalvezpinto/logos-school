@@ -180,11 +180,11 @@ frente a lo leído.
    **Retroalimentación:** Un buen resumen cubre las ideas principales (beneficios cognitivos y laborales) con palabras propias; una sola oración es incompleta y las otras cambian el sentido del texto.
 
 9. *(Varias correctas — Opinión — desafiante)* Read: *"Some cities are building more bike lanes to reduce traffic and pollution."* Which answers express an opinion with a coherent reason? Marca **todas** las correctas.
-   a) I agree because bike lanes reduce pollution and are healthier for people.
-   b) I disagree because some streets are too narrow for cars and bikes.
-   c) I agree because bikes are purple.
-   d) Bike lanes.
-   **Respuesta correcta:** a y b.
+   a) I disagree because some streets are too narrow for cars and bikes.
+   b) I agree because bikes are purple.
+   c) Bike lanes.
+   d) I agree because bike lanes reduce pollution and are healthier for people.
+   **Respuesta correcta:** a y d.
    **Retroalimentación:** Se espera la postura (*I agree/disagree*) más una razón coherente; ambas posturas son válidas si están bien fundamentadas.
 
 ---
@@ -617,11 +617,11 @@ adverbios y conectores (*never/always/sometimes*; *first/next/then*).
     **Retroalimentación:** *Always* señala frecuencia y *then* conecta con la siguiente acción de la rutina.
 
 11. *(Varias correctas — Preferencia — desafiante)* *"Which do you prefer, going to the beach or going to the mountains? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
-    a) I prefer going to the beach because I love swimming and the hot weather.
-    b) I prefer going to the mountains because I enjoy hiking and the fresh air.
-    c) I prefer go to the beach because.
-    d) Beach mountains.
-    **Respuesta correcta:** a y b.
+    a) Beach mountains.
+    b) I prefer going to the beach because I love swimming and the hot weather.
+    c) I prefer going to the mountains because I enjoy hiking and the fresh air.
+    d) I prefer go to the beach because.
+    **Respuesta correcta:** b y c.
     **Retroalimentación:** Se espera *prefer + gerundio + because* + una razón coherente; ambas preferencias son válidas.
 
 12. *(Alternativas — Completar — desafiante)* Complete: *"We need to ___ the bus at the next stop and then ___ the train station."*

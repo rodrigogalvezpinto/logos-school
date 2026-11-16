@@ -114,10 +114,10 @@ d) Extraer agua de los ríos sin ningún control
 
 **11. (Varias correctas — clasificar)** ¿Cuáles de estos recursos naturales son **no renovables**? Marca todas las correctas.
 
-a) Agua de lluvia
-b) Petróleo
-c) Bosque de eucaliptos plantado
-d) Carbón
+a) Bosque de eucaliptos plantado
+b) Carbón
+c) Agua de lluvia
+d) Petróleo
 
 ---
 

@@ -94,10 +94,10 @@ d) La elección presidencial de 1970, que llevó a Salvador Allende a la preside
 
 **11. (Varias correctas — OA9)** ¿Cuáles de estos elementos representan una **continuidad** en la sociedad chilena a lo largo de su historia? Marca todas las correctas.
 
-a) Llegada de la electricidad
-b) El idioma español
-c) Ampliación del derecho a voto
-d) Fiestas tradicionales
+a) Fiestas tradicionales
+b) Llegada de la electricidad
+c) El idioma español
+d) Ampliación del derecho a voto
 
 **12. (Alternativas — OA9)** ¿Qué pareja muestra correctamente un cambio y una continuidad en la sociedad chilena?
 
@@ -121,5 +121,5 @@ d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chi
 8. **b) 1935.** Primero obtuvieron el voto municipal (1935) y luego, en 1949, el voto en elecciones presidenciales y parlamentarias.
 9. **b.** El triunfo del "No" abrió paso a elecciones libres en 1989 y al retorno a la democracia en 1990.
 10. b) El plebiscito de 1988, cuyo triunfo del "No" abrió el camino al retorno de la democracia en 1990. En el plebiscito del 5 de octubre de 1988 ganó el "No"; al año siguiente hubo elecciones libres y en 1990 asumió un presidente elegido democráticamente.
-11. b y d — La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales son continuidades.
+11. a y c — La electricidad y la ampliación del voto son cambios; el idioma y las fiestas tradicionales son continuidades.
 12. c) Cambio: la ampliación progresiva del derecho a voto. Continuidad: el idioma español. El derecho a voto se amplió en el tiempo (por ejemplo, a las mujeres en 1949), así que es un cambio. El idioma español se mantiene desde la Colonia: es una continuidad.

@@ -209,10 +209,10 @@ d) El plebiscito
 
 A partir del estímulo, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) El cierre del Congreso eliminó el control legislativo sobre el poder
-b) La proscripción de los partidos eliminó la oposición organizada
-c) Reconocer a la Vicaría muestra que la sociedad civil, con gran riesgo, documentó y defendió a las víctimas, algo clave para el derecho a la verdad
-d) El estado de sitio amplió las libertades de circulación y reunión
+a) El estado de sitio amplió las libertades de circulación y reunión
+b) El cierre del Congreso eliminó el control legislativo sobre el poder
+c) La proscripción de los partidos eliminó la oposición organizada
+d) Reconocer a la Vicaría muestra que la sociedad civil, con gran riesgo, documentó y defendió a las víctimas, algo clave para el derecho a la verdad
 
 ---
 
@@ -376,10 +376,10 @@ d) Separar permanentemente a los estudiantes por país de origen en cursos disti
 
 A partir del caso, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
-a) La propuesta es una discriminación por nacionalidad sin justificación razonable, que afecta la igual dignidad de las personas
-b) Una medida inclusiva es permitir la participación en igualdad de condiciones y crear espacios de colaboración
-c) La Ley Zamudio permite acudir a la justicia frente a una discriminación arbitraria
-d) Excluir a los extranjeros es válido porque cumplen los mismos requisitos
+a) Excluir a los extranjeros es válido porque cumplen los mismos requisitos
+b) La propuesta es una discriminación por nacionalidad sin justificación razonable, que afecta la igual dignidad de las personas
+c) Una medida inclusiva es permitir la participación en igualdad de condiciones y crear espacios de colaboración
+d) La Ley Zamudio permite acudir a la justicia frente a una discriminación arbitraria
 
 ---
 
@@ -408,7 +408,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 9  | Alternativas | d) Una interpretación que subraya las responsabilidades y errores de distintos actores políticos y militares chilenos. El historiador pone el énfasis en las responsabilidades y errores de los actores políticos internos: esa es la interpretación que prioriza. | OA 15 | Historia | 1 |
 | 10 | Alternativas | **b) Porque toda interpretación histórica debe sustentarse en evidencia verificable, como archivos, documentos y testimonios contrastados.** La historia admite distintas interpretaciones, pero deben fundamentarse en fuentes verificables y contrastadas; una opinión sin evidencia no tiene ese respaldo. | OA 15 | Historia | 2 |
 | 11 | Alternativas | b) La desaparición forzada. La desaparición forzada es la detención por agentes del Estado seguida de la negación del paradero de la persona; fue una práctica sistemática de la dictadura. | OA 16 | Historia | 1 |
-| 12 | Varias correctas | **a, b y c.** La supresión del Estado de Derecho eliminó los controles sobre el poder; el estado de sitio restringió libertades básicas. | OA 16 | Historia | 3 |
+| 12 | Varias correctas | **b, c y d.** La supresión del Estado de Derecho eliminó los controles sobre el poder; el estado de sitio restringió libertades básicas. | OA 16 | Historia | 3 |
 | 13 | Alternativas | **b) El Plan Laboral.** El Plan Laboral de 1979, impulsado por José Piñera bajo la dictadura, restringió la acción sindical y el derecho a huelga, en coherencia con el modelo neoliberal. | OA 17 | Historia | 1 |
 | 14 | Alternativas | **c) Que el mercado, y no el Estado, se volvió el principal mecanismo para asignar recursos y fijar precios; lo refleja la privatización de empresas estatales.** En el modelo neoliberal, el mercado pasó a decidir precios, producción y asignación de recursos; lo reflejan la apertura comercial y las privatizaciones. | OA 17 | Historia | 2 |
 | 15 | Alternativas | b) Una severa crisis económica, con desempleo masivo. En 1982, la crisis de la deuda provocó quiebras y un desempleo masivo, que debilitó el apoyo al régimen y dio paso a las protestas nacionales desde 1983. | OA 19 | Historia | 1 |
@@ -421,7 +421,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 22 | Alternativas | a) Un caso de discriminación arbitraria por nacionalidad. Negar un derecho o una oportunidad por la nacionalidad, sin una razón justificada, es discriminación arbitraria. | OA 25 | Formación Ciudadana | 1 |
 | 23 | Alternativas | **c) Oportunidad: mayor visibilidad internacional de casos y avance de estándares comunes. Desafío: discriminación hacia comunidades migrantes cuando el contacto no va acompañado de inclusión.** La globalización da visibilidad internacional a los casos de discriminación y difunde normas de derechos; también puede expandir prejuicios o profundizar desigualdades. | OA 25 | Formación Ciudadana | 2 |
 | 24 | Alternativas | c) Ofrecer apoyos lingüísticos según las necesidades y facilitar el intercambio cultural sin exigir renunciar a la propia identidad. Reconoce igual dignidad y atiende barreras concretas sin imponer asimilación ni segregación | OA 25 | Formación Ciudadana | 1 |
-| 25 | Varias correctas | **a, b y c.** Cumplir los mismos requisitos hace que la exclusión sea arbitraria; la Ley Zamudio la define como distinción sin justificación razonable que afecta derechos. | OA 25 | Formación Ciudadana | 3 |
+| 25 | Varias correctas | **b, c y d.** Cumplir los mismos requisitos hace que la exclusión sea arbitraria; la Ley Zamudio la define como distinción sin justificación razonable que afecta derechos. | OA 25 | Formación Ciudadana | 3 |
 
 **Puntaje total: 37 puntos**
 

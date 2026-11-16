@@ -275,10 +275,10 @@ d) Para que cada párrafo tenga una sola oración, que es la extensión adecuada
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 
-a) Una oración inicial que presente el tema con claridad
-b) Dos ideas centrales distintas, una por párrafo, unidas con conectores
-c) Al menos dos fuentes confiables, como el Ministerio del Medio Ambiente o material de la municipalidad
-d) Un chiste sobre la basura para empezar, sin presentar el tema
+a) Un chiste sobre la basura para empezar, sin presentar el tema
+b) Una oración inicial que presente el tema con claridad
+c) Dos ideas centrales distintas, una por párrafo, unidas con conectores
+d) Al menos dos fuentes confiables, como el Ministerio del Medio Ambiente o material de la municipalidad
 
 ---
 
@@ -320,7 +320,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 22 | **b)** El impacto del riego por goteo en las familias de Pica: usan menos agua y algunas ya no pierden su cosecha en verano. | OA N°15 — idea central por párrafo |
 | 23 | **b)** Para dar confiabilidad al texto y permitir que el lector verifique la información. Citar las fuentes muestra de dónde viene la información y permite al lector comprobarla: eso hace más confiable el artículo. | OA N°15 — función de las fuentes |
 | 24 | **a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información.** Si cada párrafo desarrolla una sola idea central, el lector puede seguir el orden del texto; mezclar varias ideas en un párrafo lo confunde. | OA N°15 — estructura y organización del artículo informativo |
-| 25 | **a, b y c.** Un artículo bien planificado presenta el tema, desarrolla una idea central por párrafo y se apoya en fuentes confiables. | OA N°15 — planificación de un artículo informativo con fuentes |
+| 25 | **b, c y d.** Un artículo bien planificado presenta el tema, desarrolla una idea central por párrafo y se apoya en fuentes confiables. | OA N°15 — planificación de un artículo informativo con fuentes |
 
 ### Distribución de puntaje sugerida por Objetivo de Aprendizaje
 

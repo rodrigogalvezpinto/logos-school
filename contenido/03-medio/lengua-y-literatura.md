@@ -470,12 +470,12 @@ d) Cerrar el hilo sin explicación para evitar más comentarios de la audiencia 
 
 **9. (Varias correctas — análisis integrado)** Para formarse una opinión informada sobre la toma, ¿qué evidencia del hilo es más sólida? Marca **todas** las correctas.
 
-a) Las fotos y el petitorio firmado por 340 estudiantes
-b) El testimonio directo de @vecina_ñuñoa como exfuncionaria del liceo
-c) El rumor de @anonimo_2024
-d) La generalización de @troll123
+a) El rumor de @anonimo_2024
+b) La generalización de @troll123
+c) Las fotos y el petitorio firmado por 340 estudiantes
+d) El testimonio directo de @vecina_ñuñoa como exfuncionaria del liceo
 
-*Respuesta correcta: a y b.* Retroalimentación: hay que priorizar lo verificable o el testimonio directo por sobre el rumor y el prejuicio.
+*Respuesta correcta: c y d.* Retroalimentación: hay que priorizar lo verificable o el testimonio directo por sobre el rumor y el prejuicio.
 
 **10. (Alternativas)** ¿Qué rol asume @profe_x en el hilo al comentar "esto también pasa en el mío... eso es lo que hay que hacer"?
 
@@ -666,12 +666,12 @@ d) La versión (b) no tiene ningún propósito comunicativo definido, mientras q
 
 **12. (Varias correctas)** ¿Qué se evalúa en la etapa de revisión del proceso de escritura? Marca **todas** las correctas.
 
-a) La coherencia: si las ideas se organizan en torno a un tema central
-b) La cohesión: si los conectores muestran la relación entre ideas
-c) La adecuación al género y a la audiencia
-d) Solo el color de la tinta
+a) La cohesión: si los conectores muestran la relación entre ideas
+b) La adecuación al género y a la audiencia
+c) Solo el color de la tinta
+d) La coherencia: si las ideas se organizan en torno a un tema central
 
-*Respuesta correcta: a, b y c.* Retroalimentación: la revisión no es opcional ni solo ortográfica: evalúa coherencia, cohesión y adecuación.
+*Respuesta correcta: a, b y d.* Retroalimentación: la revisión no es opcional ni solo ortográfica: evalúa coherencia, cohesión y adecuación.
 
 **13. (Alternativas — Aplicación)** ¿Qué planificación de un video corto sobre las problemáticas éticas del hilo de la toma es coherente?
 

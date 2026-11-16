@@ -715,12 +715,12 @@ d) 1-B, 2-A, 3-C
 ---
 
 **4. (Varias correctas)** ¿Qué roles cumplió la Iglesia católica en la Europa medieval? Marca **todas** las correctas.
-a) Mantuvo y transmitió la cultura clásica
-b) Difundió el cristianismo por Europa, actuando como elemento de unificación cultural
-c) Otorgó legitimidad religiosa al poder de los gobernantes, por ejemplo con coronaciones
-d) Prohibió toda forma de educación y escritura
+a) Prohibió toda forma de educación y escritura
+b) Mantuvo y transmitió la cultura clásica
+c) Difundió el cristianismo por Europa, actuando como elemento de unificación cultural
+d) Otorgó legitimidad religiosa al poder de los gobernantes, por ejemplo con coronaciones
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* En un contexto de fragmentación política, la Iglesia fue un elemento de unificación cultural y de legitimación del poder; lejos de prohibir la escritura, la conservó en monasterios.
 
 ---
@@ -1130,12 +1130,12 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Varias correctas)** ¿Cuáles de estos son ejemplos de expresiones culturales latinoamericanas actuales en que se reconoce el legado de las civilizaciones estudiadas? Marca **todas** las correctas.
-a) El consumo de maíz y cacao, de origen mesoamericano
-b) Las catedrales de estilo europeo en las plazas de muchas ciudades
-c) Las ideas de república y ciudadanía en nuestras constituciones
-d) El uso de teléfonos celulares
+a) Las ideas de república y ciudadanía en nuestras constituciones
+b) El uso de teléfonos celulares
+c) El consumo de maíz y cacao, de origen mesoamericano
+d) Las catedrales de estilo europeo en las plazas de muchas ciudades
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, c y d**
 💬 *Retroalimentación:* La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente que no proviene de estas civilizaciones.
 
 ---
@@ -1272,12 +1272,12 @@ d) 1-C, 2-A, 3-B
 ---
 
 **4. (Varias correctas)** ¿Cuáles de estos son ejemplos de que el ser humano se ha adaptado a su medio y, a la vez, lo ha transformado? Marca **todas** las correctas.
-a) Las chinampas aztecas sobre el lago de Texcoco
-b) Los canales mayas para manejar el agua en la selva
-c) La red de caminos romana
-d) Un grupo nómade que nunca modificó su entorno
+a) Los canales mayas para manejar el agua en la selva
+b) La red de caminos romana
+c) Un grupo nómade que nunca modificó su entorno
+d) Las chinampas aztecas sobre el lago de Texcoco
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **a, b y d**
 💬 *Retroalimentación:* Las chinampas, los canales y los caminos adaptan y transforman el entorno; un grupo que no modifica su medio no ilustra la transformación.
 
 ---
@@ -1670,12 +1670,12 @@ d) 1-B, 2-A, 3-C
 ---
 
 **4. (Varias correctas)** ¿Cuáles de estos son ejemplos de cómo la diversidad cultural enriqueció a las sociedades europeas medievales? Marca **todas** las correctas.
-a) Las palabras de origen árabe incorporadas al español
-b) Los avances científicos árabes en matemáticas y medicina
-c) La conservación del legado clásico por parte de Bizancio
-d) La invención de internet por los pueblos germanos
+a) La invención de internet por los pueblos germanos
+b) Las palabras de origen árabe incorporadas al español
+c) Los avances científicos árabes en matemáticas y medicina
+d) La conservación del legado clásico por parte de Bizancio
 
-✅ Respuesta correcta: **a, b y c**
+✅ Respuesta correcta: **b, c y d**
 💬 *Retroalimentación:* Vocabulario, ciencia y conservación del legado clásico son aportes reales; internet es una invención del siglo XX.
 
 ---

@@ -250,11 +250,11 @@ verdes de nuestro entorno.
    **Retroalimentación:** ¡Exacto! Al talar el bosque, los animales pierden las plantas que comían y los árboles donde se refugiaban; algunos se van a otro lugar y otros mueren, por lo que su población disminuye.
 
 5. *(Varias correctas — aplicación)* ¿Qué medidas ayudan a cuidar las plantas de tu barrio o de tu colegio? Marca **todas** las correctas.
-   a) Regar y cuidar las áreas verdes
-   b) Arrancar flores para llevarlas a la casa
-   c) Participar en la plantación de árboles nativos
-   d) Evitar hacer fuego cerca de vegetación seca
-   **Respuesta correcta:** a, c y d.
+   a) Participar en la plantación de árboles nativos
+   b) Evitar hacer fuego cerca de vegetación seca
+   c) Regar y cuidar las áreas verdes
+   d) Arrancar flores para llevarlas a la casa
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** ¡Excelente! Cuidar las plantas de nuestro entorno es una forma concreta de proteger también a los animales que dependen de ellas. Arrancar flores o cortar ramas sin necesidad las daña.
 
 6. *(Alternativas)* ¿Por qué decimos que las plantas son "la base de la vida" para los demás seres vivos?
@@ -444,19 +444,19 @@ obesidad o la desnutrición.
    afectar negativamente la salud, aunque comerlos ocasionalmente no es un problema.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estos alimentos son **constructores** (ayudan a crecer y reparar el cuerpo)? Marca **todas** las correctas.
-   a) Pan
-   b) Huevo
-   c) Zanahoria
-   d) Pescado
-   **Respuesta correcta:** b y d.
+   a) Huevo
+   b) Zanahoria
+   c) Pescado
+   d) Pan
+   **Respuesta correcta:** a y c.
    **Retroalimentación:** ¡Muy bien! El huevo y el pescado son constructores; el pan y las papas dan energía, y la zanahoria y la naranja son reguladores. Una alimentación saludable combina alimentos de los tres grupos.
 
 4. *(Varias correctas — aplicación)* ¿Cuáles de estos son **hábitos alimenticios saludables**? Marca **todas** las correctas.
-   a) Tomar agua en vez de bebidas azucaradas
-   b) Comer fruta como colación
-   c) Saltarse el desayuno
-   d) Comer verduras en el almuerzo
-   **Respuesta correcta:** a, b y d.
+   a) Comer verduras en el almuerzo
+   b) Tomar agua en vez de bebidas azucaradas
+   c) Comer fruta como colación
+   d) Saltarse el desayuno
+   **Respuesta correcta:** a, b y c.
    **Retroalimentación:** ¡Excelente! Los pequeños hábitos diarios son los que más ayudan a mantener una alimentación equilibrada. Saltarse el desayuno deja al cuerpo sin energía para la mañana.
 
 5. *(Alternativas — análisis)* Mira esta imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas.
@@ -788,11 +788,11 @@ va iluminando distinta mitad del globo, simulando el día y la noche.
    movimiento que dura 24 horas es la rotación.
 
 3. *(Varias correctas — clasificar)* ¿Cuáles de estas características corresponden a la **rotación** de la Tierra? Marca **todas** las correctas.
-   a) Dura aproximadamente 24 horas
-   b) Dura aproximadamente 365 días
-   c) Produce el día y la noche
-   d) Es el recorrido de la Tierra alrededor del Sol
-   **Respuesta correcta:** a y c.
+   a) Es el recorrido de la Tierra alrededor del Sol
+   b) Dura aproximadamente 24 horas
+   c) Dura aproximadamente 365 días
+   d) Produce el día y la noche
+   **Respuesta correcta:** b y d.
    **Retroalimentación:** ¡Muy bien! La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y es el recorrido alrededor del Sol. Ocurren al mismo tiempo, pero explican fenómenos distintos.
 
 4. *(Alternativas — modelo)* Un estudiante hace girar un globo terráqueo frente a una linterna fija y observa que distintas partes del globo se van iluminando y oscureciendo. ¿Qué movimiento de la Tierra está representando?

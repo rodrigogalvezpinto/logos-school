@@ -80,10 +80,10 @@ d) Ambos están narrados en primera persona
 
 9. *(Varias correctas)* Considerando la situación hipotética de producción (A en 2005 y B en 2026) y distintas audiencias de recepción, ¿qué afirmaciones son pertinentes y no atribuyen reacciones idénticas a toda una audiencia? Marca **todas** las correctas.
 
-a) Producción y recepción son distintas: A trata la memoria de un traslado obligado y B la adaptación de quien sale a estudiar
-b) El frasco de tierra puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió
-c) La videollamada puede resultar agridulce para alguien que vive lejos de su familia y llevar a otro lector a cuestionar que conectarse equivalga a pertenecer
-d) Todos los estudiantes de 2026 interpretarán ambos textos exactamente igual
+a) La videollamada puede resultar agridulce para alguien que vive lejos de su familia y llevar a otro lector a cuestionar que conectarse equivalga a pertenecer
+b) Todos los estudiantes de 2026 interpretarán ambos textos exactamente igual
+c) Producción y recepción son distintas: A trata la memoria de un traslado obligado y B la adaptación de quien sale a estudiar
+d) El frasco de tierra puede suscitar reconocimiento doloroso en alguien desplazado y preguntas históricas en quien no lo vivió
 
 10. *(Alternativas)* Un compañero afirma que ambos textos "dicen básicamente lo mismo sobre dejar el hogar, solo que en distintas épocas". ¿Qué evaluación es más precisa?
 
@@ -121,7 +121,7 @@ d) Un dato histórico verificable sobre el número de familias trasladadas
 
 8. **b.** Aunque los contextos, las perspectivas y el efecto estético son distintos, ambos textos tratan qué significa reconstruir una identidad y sostener vínculos familiares después de dejar el lugar de origen.
 
-9. a, b y c — Se distingue producción de recepción y se proponen efectos razonados a partir de detalles de cada obra, sin generalizar; hay otras hipótesis válidas si se sustentan en los textos.
+9. a, c y d — Se distingue producción de recepción y se proponen efectos razonados a partir de detalles de cada obra, sin generalizar; hay otras hipótesis válidas si se sustentan en los textos.
 
 10. c) Comparar dos obras exige identificar semejanzas y diferencias con precisión, evitando tanto "son iguales" como "no tienen nada en común".
 
