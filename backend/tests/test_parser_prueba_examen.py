@@ -961,3 +961,34 @@ def test_el_estimulo_no_arrastra_titulos_ni_separadores_de_lo_que_sigue():
             if ultima.startswith("#") or set(ultima) == {"-"} or ultima.strip("*: ") == "Preguntas":
                 hallazgos.append(f"{ruta.relative_to(CONTENIDO)}#{pregunta.numero}")
     assert hallazgos == []
+
+
+def test_la_pauta_no_tiene_restos_huerfanos_de_explicaciones_anteriores():
+    # 2026-11-16: 22 líneas de pauta eran restos de un texto anterior (empezaban a mitad de oración, después de una
+    # entrada ya terminada en punto) y la app las mostraba pegadas a la explicación.
+    import re as _re
+    corte = _re.compile(r"(?mi)^#{1,6}\s*(?:respuestas \(pauta\)|pauta|hoja de respuestas)|^\*\*Pauta")
+    entrada = _re.compile(r"^(\*\*)?\(?\d+[.)]|^\||^#|^-|^\*|^>|^<|^[a-h]\)")
+    hallazgos = []
+    for ruta in sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md")):
+        texto = ruta.read_text(encoding="utf-8")
+        m = corte.search(texto)
+        if not m:
+            continue
+        lineas = texto[m.start():].splitlines()
+        for anterior, actual in zip(lineas, lineas[1:]):
+            a, b = anterior.strip(), actual.strip()
+            if b and not entrada.match(b) and _re.match(r"^(\*\*)?\d+[.)]", a) and a.endswith("."):
+                hallazgos.append(f"{ruta.relative_to(CONTENIDO)}: {b[:60]}")
+    assert hallazgos == []
+
+
+def test_la_explicacion_no_incluye_la_etiqueta_retroalimentacion():
+    # 2026-11-16: 102 explicaciones mostraban «Retroalimentación:» dentro del texto que ve el alumno.
+    import re as _re
+    hallazgos = []
+    for ruta in sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md")):
+        for pregunta, respuesta in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if _re.search(r"retroalimentaci[óo]n\s*:", respuesta.retroalimentacion, _re.IGNORECASE):
+                hallazgos.append(f"{ruta.relative_to(CONTENIDO)}#{pregunta.numero}")
+    assert hallazgos == []

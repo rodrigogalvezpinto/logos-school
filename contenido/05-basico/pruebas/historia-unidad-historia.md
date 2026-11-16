@@ -132,30 +132,24 @@ d) La elección de un presidente común para ambos pueblos
 ## Pauta de respuestas
 
 **1.** a) Para asentarse y controlar el territorio en nombre de la Corona. Las ciudades eran centros de poder y de evangelización.
-Corona eran territoriales, religiosos y económicos.
 
 **2.** Verdadero. Almagro realizó la primera expedición a Chile entre 1535 y 1537.
 
 **3.** a) 3 → 1 → 2. Almagro 1535-1537 → fundación de Santiago 1541 → muerte de Valdivia en Tucapel 1553.
 
 **4.** c) La papa. La papa, el maíz, el tomate y el cacao son alimentos americanos que cambiaron la alimentación en Europa.
-económicamente y conoció nuevos alimentos como la papa, el maíz y el tomate.
 
 **5.** Verdadero. Por eso las epidemias causaron la muerte de gran parte de la población indígena.
-principal, ya que la población indígena no tenía defensas contra ellas.
 
 **6.** c) El enriquecimiento gracias al oro y la plata americanos — la pérdida de tierras y la imposición de un idioma las vivieron los pueblos originarios.
 
 **7.** a) El rey de España y sus autoridades. Chile era una colonia que dependía de la metrópoli.
-las decisiones tomadas en España y de la administración del Virreinato del Perú.
 
 **8.** b) Sincretismo. Combina elementos católicos con danzas y trajes de tradición andina.
-una misma expresión.
 
 **9.** **a, b y d.** La Iglesia evangelizaba, educaba y marcaba las celebraciones y costumbres de la Colonia; la independencia ocurrió después y no la dirigió la Iglesia.
 
 **10.** b) Los mapuche. Su resistencia hizo del Biobío una frontera entre ambos territorios.
-territorio mapuche independiente al sur.
 
 **11.** d) 1-B, 2-A, 3-C — Valdivia fundó Santiago, Lautaro lideró la resistencia mapuche y Almagro fue el primero en llegar.
 

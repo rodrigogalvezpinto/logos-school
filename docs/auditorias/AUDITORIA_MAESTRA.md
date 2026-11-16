@@ -1744,3 +1744,8 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   (`_sin_cola_de_titulos`: un estímulo no termina en un título ni en un separador), con la prueba
   `test_el_estimulo_no_arrastra_titulos_ni_separadores_de_lo_que_sigue`. Se reescribieron 3 retroalimentaciones de la guía que
   no explicaban la respuesta (Ciencias, capas de la Tierra x2; Lenguaje, problema y solución del cuento).
+- **Muestra de 5.° básico revisada; tres defectos de texto corregidos en todo el corpus.** (1) 22 líneas de pauta eran restos
+  huérfanos de un texto anterior y la app los mostraba pegados a la explicación (14 en Historia de 5.° básico; 2 causados por
+  `rehacer`, que ahora reemplaza la entrada completa). (2) 102 explicaciones mostraban la etiqueta «Retroalimentación:».
+  (3) La limpieza de prefijos de la mañana dejó 5 explicaciones sin sujeto; se restituyó. Además, 3 retroalimentaciones de
+  guía reescritas (agua dulce, glaciares y nubes, propósito de la publicidad). Dos guardas nuevas en pytest.

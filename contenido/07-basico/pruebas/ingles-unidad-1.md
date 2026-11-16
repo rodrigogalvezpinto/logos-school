@@ -121,30 +121,30 @@ d) Opinión
 
 ## Pauta de respuestas
 
-**1.** d) Penguins in Chile. *Retroalimentación: el texto completo trata sobre los pingüinos en Chile; los detalles (especies y lugares) apoyan esa idea general.*
+**1.** d) Penguins in Chile. El texto completo trata sobre los pingüinos en Chile; los detalles (especies y lugares) apoyan esa idea general.*
 
-**2.** False (Falso). *Retroalimentación: el texto dice menos de 1 mm al año, no 100 mm; hay que leer con atención los números exactos.*
+**2.** False (Falso). El texto dice menos de 1 mm al año, no 100 mm; hay que leer con atención los números exactos.*
 
-**3.** a) main. *Retroalimentación: main idea (idea principal) es lo que resume de qué trata todo el texto.*
+**3.** a) main. Main idea (idea principal) es lo que resume de qué trata todo el texto.*
 
-**4.** d) At 7:30. *Retroalimentación: el dato aparece directamente en el texto; no requiere inferencia.*
+**4.** d) At 7:30. El dato aparece directamente en el texto; no requiere inferencia.*
 
-**5.** a) Expresar una postura personal y justificarla. *Retroalimentación: "In my opinion... because..." sirve para dar una opinión con una razón.*
+**5.** a) Expresar una postura personal y justificarla. "In my opinion... because..." sirve para dar una opinión con una razón.*
 
-**6.** b) Bees pollinate many fruits and vegetables. *Retroalimentación: es información dicha directamente en el texto; las otras son opiniones o exageraciones.*
+**6.** b) Bees pollinate many fruits and vegetables. Es información dicha directamente en el texto; las otras son opiniones o exageraciones.*
 
-**7.** c) I agree because students can learn where food comes from and eat healthier. *Retroalimentación: una opinión bien construida usa "I agree/disagree" + "because" + una razón coherente con el tema.*
+**7.** c) I agree because students can learn where food comes from and eat healthier. Una opinión bien construida usa "I agree/disagree" + "because" + una razón coherente con el tema.*
 
-**8.** c) A set of instructions. *Retroalimentación: los conectores de secuencia (first, next, finally) y los pasos ordenados son típicos de las instrucciones.*
+**8.** c) A set of instructions. Los conectores de secuencia (first, next, finally) y los pasos ordenados son típicos de las instrucciones.*
 
-**9.** a) First / Finally. *Retroalimentación: First marca el primer paso y Finally el último; "then" ya está usado en el paso del medio.*
+**9.** a) First / Finally. First marca el primer paso y Finally el último; "then" ya está usado en el paso del medio.*
 
-**10.** False (Falso). *Retroalimentación: la primera oración es un hecho, pero la segunda es una opinión (marcada por "I think").*
+**10.** False (Falso). La primera oración es un hecho, pero la segunda es una opinión (marcada por "I think").*
 
-**11.** d) infeliz / triste. *Retroalimentación: el prefijo un- invierte el significado: happy (feliz) → unhappy (infeliz).*
+**11.** d) infeliz / triste. El prefijo un- invierte el significado: happy (feliz) → unhappy (infeliz).*
 
-**12.** b) quickly. *Retroalimentación: para describir cómo responde (modo), el adjetivo quick se transforma en el adverbio quickly.*
+**12.** b) quickly. Para describir cómo responde (modo), el adjetivo quick se transforma en el adverbio quickly.*
 
-**13.** c) She was born in Vicuña. *Retroalimentación: el lugar de nacimiento aparece explícito; 1945 es el año del Premio Nobel.*
+**13.** c) She was born in Vicuña. El lugar de nacimiento aparece explícito; 1945 es el año del Premio Nobel.*
 
-**14.** b) Causa y efecto. *Retroalimentación: "because" introduce la causa (llovió toda la noche) que explica el efecto (las calles mojadas).*
+**14.** b) Causa y efecto. "because" introduce la causa (llovió toda la noche) que explica el efecto (las calles mojadas).*

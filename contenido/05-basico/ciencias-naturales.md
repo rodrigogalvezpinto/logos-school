@@ -581,7 +581,7 @@ ríos como el Baker y el Biobío.
    c) Porque solo hay agua dulce en Chile, y el resto de los países usa agua de mar
    d) Porque el agua salada se puede beber directamente, y por eso nadie cuida el agua dulce
    **Respuesta correcta:** b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está congelada o subterránea.
-   **Retroalimentación:** Distinguir "agua total" de "agua dulce disponible" es clave para entender por qué cuidar el agua dulce es tan importante.
+   **Retroalimentación:** Casi toda el agua del planeta es salada (está en los océanos); del poco de agua dulce que hay, la mayor parte está congelada en glaciares o bajo el suelo, así que la que podemos usar directamente es muy poca. Por eso hay que cuidarla.
 
 6. *(Alternativas — análisis)* ¿Qué papel cumplen los glaciares y las nubes en el ciclo del agua?
    a) Los glaciares producen agua salada que se derrite hacia el mar; las nubes la guardan y no la devuelven como lluvia
@@ -589,7 +589,7 @@ ríos como el Baker y el Biobío.
    c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve
    d) No participan en el ciclo del agua: los glaciares y las nubes solo existen en las montañas más altas del país
    **Respuesta correcta:** c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.
-   **Retroalimentación:** Los distintos depósitos de agua dulce no están aislados: están conectados por un proceso continuo que alimenta ríos y lagos.
+   **Retroalimentación:** Los glaciares guardan agua dulce congelada que se libera de a poco al derretirse y alimenta ríos y lagos; las nubes llevan el agua evaporada y la devuelven como lluvia o nieve. Así, los depósitos de agua dulce están conectados por el ciclo del agua.
 
 ---
 

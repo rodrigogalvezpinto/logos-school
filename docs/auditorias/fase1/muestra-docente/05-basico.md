@@ -130,7 +130,7 @@ b) En los dos casos
 c) En ninguno de los dos casos
 d) Con la llave de metal, porque es conductora  ✅
 
-**Explicación que verá el alumno:** d) Con la llave de metal, porque es conductora. d) Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
+**Explicación que verá el alumno:** d) Con la llave de metal, porque es conductora. Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

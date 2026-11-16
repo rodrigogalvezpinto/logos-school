@@ -134,10 +134,8 @@ d) No es importante: todos los recursos son iguales y se recuperan con el tiempo
 ## Pauta de respuestas
 
 **1.** c) Zona Austral. Tiene clima frío y lluvioso, fiordos, glaciares y es la zona menos poblada del país.
-parte de la producción de cobre del país.
 
 **2.** Verdadero. Los valles transversales del Norte Chico, como el Elqui y el Limarí, permiten la agricultura.
-densidad y cantidad de población de Chile.
 
 **3.** **a) La Zona Central.** El orden de norte a sur es Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral; después del Norte Chico viene la Zona Central.
 
@@ -150,15 +148,12 @@ Chile continental.
 **6.** b) La Zona Central tiene clima templado y mucha población; la Austral, clima frío y muy poca población. La Zona Central tiene clima templado y concentra la mayor parte de la población (allí están Santiago y Valparaíso). La Zona Austral es fría y es la menos poblada.
 
 **7.** b) Zona Austral. Sus grandes praderas, como las de Magallanes, permiten la crianza de ovejas.
-producción de cobre de Chile.
 
 **8.** Falso. Se formaron durante millones de años: una vez extraídos, no se renuevan.
-no se regeneran en una escala de tiempo humana.
 
 **9.** **c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas.** Las actividades dependen de las condiciones naturales: en la Zona Austral el frío y el viento impiden muchos cultivos, pero sus amplias praderas sirven para criar ovejas.
 
 **10.** c) Usar riego por goteo y reparar las filtraciones de los canales. Así se aprovecha el agua sin desperdiciarla.
-cómo cuidar recursos renovables en el marco del desarrollo sostenible.
 
 **11.** b y d — El petróleo y el carbón no se renuevan; el agua de lluvia y los bosques plantados se pueden renovar.
 

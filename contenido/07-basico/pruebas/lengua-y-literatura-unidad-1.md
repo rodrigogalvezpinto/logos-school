@@ -142,28 +142,28 @@ d) Una en que la comunidad no tenía valores compartidos y cada familia enfrenta
 
 ## Pauta de respuestas
 
-**1.** d) La culpa cruzada entre Matías y Camila por la bicicleta desaparecida, que distanció a los hermanos durante años. *Retroalimentación: el conflicto central es el problema que organiza la historia y explica las acciones y emociones de los personajes.*
+**1.** d) La culpa cruzada entre Matías y Camila por la bicicleta desaparecida, que distanció a los hermanos durante años. El conflicto central es el problema que organiza la historia y explica las acciones y emociones de los personajes.*
 
-**2.** a) No participa en la pelea, pero al ocultar que ella regaló la bicicleta permite que la culpa entre los hermanos se mantenga durante años. *Retroalimentación: describir el rol de un personaje implica explicar cómo su acción (u omisión) afecta el desarrollo de la historia.*
+**2.** a) No participa en la pelea, pero al ocultar que ella regaló la bicicleta permite que la culpa entre los hermanos se mantenga durante años. Describir el rol de un personaje implica explicar cómo su acción (u omisión) afecta el desarrollo de la historia.*
 
-**3.** Falso. *Retroalimentación: el relato comienza en el presente, salta al pasado (la mañana en que desapareció la bicicleta) y vuelve al presente.*
+**3.** Falso. El relato comienza en el presente, salta al pasado (la mañana en que desapareció la bicicleta) y vuelve al presente.*
 
-**4.** d) "—¡Yo cerré el portón! —gritó Camila". *Retroalimentación: la voz de los personajes aparece después de una raya de diálogo, en primera persona.*
+**4.** d) "—¡Yo cerré el portón! —gritó Camila". La voz de los personajes aparece después de una raya de diálogo, en primera persona.*
 
-**5.** d) Provoca que la relación entre Matías y Camila se distancie durante años. *Retroalimentación: el silencio de la madre es la causa de que el conflicto se prolongue tanto tiempo.*
+**5.** d) Provoca que la relación entre Matías y Camila se distancie durante años. El silencio de la madre es la causa de que el conflicto se prolongue tanto tiempo.*
 
-**6.** b) Al oído. *Retroalimentación: "murmura" y "susurrante" describen sonidos.*
+**6.** b) Al oído. "murmura" y "susurrante" describen sonidos.*
 
-**7.** b) Que las estrellas brillan en la oscuridad como pequeñas brasas encendidas, dando calidez a la noche. *Retroalimentación: interpretar una metáfora implica explicar la idea que sugiere la comparación implícita.*
+**7.** b) Que las estrellas brillan en la oscuridad como pequeñas brasas encendidas, dando calidez a la noche. Interpretar una metáfora implica explicar la idea que sugiere la comparación implícita.*
 
-**8.** Falso. *Retroalimentación: palabras como "despacio", "susurrante" y "respirar sin prisa" construyen un estado de ánimo de calma y contemplación.*
+**8.** Falso. Palabras como "despacio", "susurrante" y "respirar sin prisa" construyen un estado de ánimo de calma y contemplación.*
 
-**9.** c) Personificación. *Retroalimentación: se le atribuyen al desierto acciones humanas (cerrar los ojos, escuchar).*
+**9.** c) Personificación. Se le atribuyen al desierto acciones humanas (cerrar los ojos, escuchar).*
 
-**10.** b) Decidir si se queda en la central para transmitir el aviso, arriesgando su seguridad, o sale para ponerse a salvo con su familia. *Retroalimentación: un dilema obliga a elegir entre dos opciones difíciles.*
+**10.** b) Decidir si se queda en la central para transmitir el aviso, arriesgando su seguridad, o sale para ponerse a salvo con su familia. Un dilema obliga a elegir entre dos opciones difíciles.*
 
-**11.** c) "Creo que acertó, porque el aviso podía salvar a familias que no sabían del peligro, aunque ella arriesgaba mucho". *Retroalimentación: no hay una única postura correcta; se evalúa que la opinión se apoye en razones del texto.*
+**11.** c) "Creo que acertó, porque el aviso podía salvar a familias que no sabían del peligro, aunque ella arriesgaba mucho". No hay una única postura correcta; se evalúa que la opinión se apoye en razones del texto.*
 
-**12.** Falso. *Retroalimentación: conocer el contexto (el terremoto de 1960 y el riesgo de desborde del lago Riñihue) permite comprender el miedo y la decisión de Rosa.*
+**12.** Falso. Conocer el contexto (el terremoto de 1960 y el riesgo de desborde del lago Riñihue) permite comprender el miedo y la decisión de Rosa.*
 
-**13.** a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con los demás se valoran, aun con alto riesgo personal. *Retroalimentación: la visión de mundo es la forma en que la obra representa los valores de los personajes y su sociedad.*
+**13.** a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con los demás se valoran, aun con alto riesgo personal. La visión de mundo es la forma en que la obra representa los valores de los personajes y su sociedad.*

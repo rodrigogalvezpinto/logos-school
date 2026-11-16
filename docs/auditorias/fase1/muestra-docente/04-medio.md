@@ -252,8 +252,6 @@ d) Dar un ejemplo concreto de una idea
 > >
 > > Todas las noches, al volver de la universidad, buscaba señal en la ventana para videollamar a su abuela en Hanga Roa. Le mostraba el cerro San Cristóbal iluminado, tan distinto del Rano Kau, y ella le preguntaba si ya tenía amigas. Mahina decía que sí, aunque los únicos nombres que podía dar eran los de su grupo de laboratorio. No era mentira, pensaba: era una forma de creer que pronto sería cierto.
 >
-> ---
->
 > ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Mahina, en vez de en primera persona como el Texto A?
 
 a) Hace imposible conocer lo que siente Mahina, porque la tercera persona solo describe sus acciones desde fuera

@@ -291,7 +291,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 7 | Ciencias Naturales | **a) Consumidor primario.** La oruga se alimenta directamente de un productor (las hojas). | OA 3 — Cadenas alimentarias |
 | 8 | Lenguaje | **d)** Es una metáfora: nombra el agua directamente como "cristales", sin usar "como". | OA N°5 — lenguaje figurado (metáfora) |
 | 9 | Matemática | **b) 12.** 96 ÷ 8 = 12 (comprobación: 12 × 8 = 96). | OA 6 — Comprender la división con dividendos de dos dígitos y divisores de un dígito |
-| 10 | Historia | **c) El petróleo.** tardó millones de años en formarse: es no renovable. El agua de lluvia, la lana y la fruta se renuevan si se usan con cuidado. | OA 9 — Recursos naturales |
+| 10 | Historia | **c) El petróleo.** El petróleo tardó millones de años en formarse: es no renovable. El agua de lluvia, la lana y la fruta se renuevan si se usan con cuidado. | OA 9 — Recursos naturales |
 | 11 | Ciencias Naturales | **a) Tendón.** Conecta un músculo con un hueso y transmite la fuerza para el movimiento. | OA 6 — Sistema músculo-esquelético |
 | 12 | Lenguaje | **d)** El subtítulo "¿Qué come?" permite ubicar rápidamente esa información sin releer todo el texto. | OA N°6 — uso de organizadores del texto |
 | 13 | Matemática | **c) $360.** Total de la compra: 1.350 + 290 = 1.640; vuelto: 2.000 − 1.640 = 360. | OA 7 — Resolver problemas con dinero |

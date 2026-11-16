@@ -170,14 +170,14 @@ c) "rana"
 
 *Fuente:* `contenido/02-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md` (pregunta 4) · *Tipo:* alternativas
 
-Un grupo de niños lanzó una moneda 10 veces y registró: cara (7), sello (3). ¿Cuántas veces salió sello?
+Un grupo de niños lanzó una moneda 10 veces y registró: cara (7), sello (3). ¿Cuántas veces más salió cara que sello?
 
 a) 10
 b) 7
-c) 3  ✅
-d) 0
+c) 4  ✅
+d) 3
 
-**Explicación que verá el alumno:** c) 3. Sello salió 3 veces según la tabla.
+**Explicación que verá el alumno:** c) 4. Cara salió 7 veces y sello 3: 7 − 3 = 4 veces más. 10 es el total de lanzamientos.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

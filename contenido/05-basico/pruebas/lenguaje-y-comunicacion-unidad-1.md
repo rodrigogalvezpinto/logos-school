@@ -144,15 +144,15 @@ d) "Los humedales ya no están amenazados, así que no necesitan protección"
 
 ## Pauta de respuestas
 
-1. **d.** Retroalimentación: esta característica explica el cambio que vive Ignacio: si siguiera siendo impaciente, no habría aprendido a tocar.
-2. **Verdadero.** Retroalimentación: la acción de Elena (amasar y hornear) permite que la panadería siga abierta mientras su madre se recupera.
-3. **c.** Retroalimentación: una opinión fundamentada explica el *porqué* con hechos concretos del texto, no solo expresa un gusto o un dato sin argumento.
+1. **d.** Esta característica explica el cambio que vive Ignacio: si siguiera siendo impaciente, no habría aprendido a tocar.
+2. **Verdadero.** La acción de Elena (amasar y hornear) permite que la panadería siga abierta mientras su madre se recupera.
+3. **c.** Una opinión fundamentada explica el *porqué* con hechos concretos del texto, no solo expresa un gusto o un dato sin argumento.
 4. a) Semejanza: ambos protagonistas demuestran perseverancia y esfuerzo. Diferencia: ocurren en lugares distintos (Ovalle y Chillán). En los dos textos los protagonistas se esfuerzan y no se rinden. Lo que cambia es el lugar: uno ocurre en Ovalle y el otro, en Chillán.
-5. **c.** Retroalimentación: el poema está organizado en 2 estrofas, cada una de 4 versos.
-6. **Falso.** Retroalimentación: "tarde" y "parque" forman una **rima asonante**, porque solo coinciden los sonidos vocálicos (a-e), no todos los sonidos.
-7. **a.** Retroalimentación: "El mar es una sábana azul" nombra al mar como si fuera una sábana, sin usar "como"; eso es una metáfora. La c) es una comparación y la b) y la d), personificaciones.
+5. **c.** El poema está organizado en 2 estrofas, cada una de 4 versos.
+6. **Falso.** "tarde" y "parque" forman una **rima asonante**, porque solo coinciden los sonidos vocálicos (a-e), no todos los sonidos.
+7. **a.** "El mar es una sábana azul" nombra al mar como si fuera una sábana, sin usar "como"; eso es una metáfora. La c) es una comparación y la b) y la d), personificaciones.
 8. d) A la vista, porque describe colores ("rojos", "plateada"). Las palabras "rojos" y "plateada" son colores: la imagen se percibe con la vista.
-9. **b.** Retroalimentación: el primer párrafo explica que los humedales almacenan agua y son el hogar de muchas especies.
+9. **b.** El primer párrafo explica que los humedales almacenan agua y son el hogar de muchas especies.
 10. b) Que en primavera el humedal se llena de vida; es una personificación. "Despertar" es una acción de los seres vivos, no de un lugar.
-11. **Falso.** Retroalimentación: el tercer párrafo explica que reducen las inundaciones y atraen turismo.
-12. **b.** Retroalimentación: esta opción relaciona la idea del segundo párrafo (amenazas) con la del tercero (beneficios).
+11. **Falso.** El tercer párrafo explica que reducen las inundaciones y atraen turismo.
+12. **b.** Esta opción relaciona la idea del segundo párrafo (amenazas) con la del tercero (beneficios).

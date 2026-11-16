@@ -109,5 +109,5 @@ d) 20
 5. a) 7 cm. 28 ÷ 4 = 7 (operación inversa a multiplicar): 7 × 4 = 28.
 6. d) 36 m². 9 × 4 = 36; como las medidas están en metros, el área queda en metros cuadrados. 26 m es el perímetro.
 7. **b) 9.** Hay 3 símbolos junto a la uva, y cada símbolo representa 3 estudiantes: 3 × 3 = 9. Si respondiste 3, contaste los símbolos sin multiplicar.
-8. **a) El martes.** tiene la barra más larga: 7 cuadritos, es decir, 7 × 5 = 35 jugos.
+8. **a) El martes.** El martes tiene la barra más larga: 7 cuadritos, es decir, 7 × 5 = 35 jugos.
 9. **b) 10.** El lunes tiene 3 cuadritos (15 jugos) y el miércoles 1 (5 jugos): 15 − 5 = 10 jugos más. Contar solo la diferencia de cuadritos (2) olvida que cada uno vale 5.

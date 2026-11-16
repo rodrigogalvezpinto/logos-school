@@ -172,11 +172,11 @@ d) La caída del Imperio romano
 Which option completes "A problem in my city is ___. One solution is to ___." logically?
 
 a) air pollution / use cars more often
-b) air pollution / burn more garbage  ✅
-c) air pollution / use public transport or ride a bike
+b) air pollution / use public transport or ride a bike  ✅
+c) air pollution / burn more garbage
 d) noise / play louder music
 
-**Explicación que verá el alumno:** b) air pollution / burn more garbage. c) Usar transporte público o bicicleta reduce los gases de los autos, así que es una solución lógica para la contaminación del aire; las demás opciones empeoran el problema.
+**Explicación que verá el alumno:** b) air pollution / use public transport or ride a bike. Usar transporte público o bicicleta reduce los gases de los autos, así que es una solución lógica para la contaminación del aire; las demás opciones empeoran el problema.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -253,7 +253,7 @@ b) 20.000 kcal
 c) 2.000 kcal  ✅
 d) 200 kcal
 
-**Explicación que verá el alumno:** c) 2.000 kcal. c) Productores → consumidores primarios: 10 % de 200.000 = 20.000 kcal; → consumidores secundarios: 10 % de 20.000 = 2.000 kcal.
+**Explicación que verá el alumno:** c) 2.000 kcal. Productores → consumidores primarios: 10 % de 200.000 = 20.000 kcal; → consumidores secundarios: 10 % de 20.000 = 2.000 kcal.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

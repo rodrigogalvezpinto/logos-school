@@ -147,32 +147,32 @@ d) Las jugadoras se felicitaron a sí mismas después del partido.
 
 ## Pauta de respuestas
 
-**1.** c) Las medidas de las autoridades son positivas pero insuficientes si no cambian también los hábitos. *Retroalimentación: la postura es la idea central que el autor defiende en toda la columna.*
+**1.** c) Las medidas de las autoridades son positivas pero insuficientes si no cambian también los hábitos. La postura es la idea central que el autor defiende en toda la columna.*
 
-**2.** Verdadero. *Retroalimentación: la frase cita una fuente oficial, por lo que es información verificable.*
+**2.** Verdadero. La frase cita una fuente oficial, por lo que es información verificable.*
 
-**3.** a) Involucrar al lector en una acción colectiva y urgente. *Retroalimentación: el imperativo en primera persona plural incluye al lector en la acción.*
+**3.** a) Involucrar al lector en una acción colectiva y urgente. El imperativo en primera persona plural incluye al lector en la acción.*
 
-**4.** d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente una exigencia desigual. *Retroalimentación: "ojalá" + subjuntivo expresa deseo y, en este caso, una crítica implícita.*
+**4.** d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente una exigencia desigual. "ojalá" + subjuntivo expresa deseo y, en este caso, una crítica implícita.*
 
-**5.** d) "Más de la mitad de las comunas... escasez hídrica", según la Dirección General de Aguas. *Retroalimentación: es un dato que se puede comprobar en la fuente citada.*
+**5.** d) "Más de la mitad de las comunas... escasez hídrica", según la Dirección General de Aguas. Es un dato que se puede comprobar en la fuente citada.*
 
-**6.** c) Presionar públicamente a la Municipalidad. *Retroalimentación: el tono, las mayúsculas y el hashtag muestran que busca presión pública.*
+**6.** c) Presionar públicamente a la Municipalidad. El tono, las mayúsculas y el hashtag muestran que busca presión pública.*
 
-**7.** Falso. *Retroalimentación: la nota no explica cómo se harán las clases remotas ni qué pasará después de las dos semanas.*
+**7.** Falso. La nota no explica cómo se harán las clases remotas ni qué pasará después de las dos semanas.*
 
-**8.** b) El A es informativo y neutro; el B es crítico y urgente. *Retroalimentación: un mismo hecho puede presentarse con propósitos y tonos distintos según quién lo comunica.*
+**8.** b) El A es informativo y neutro; el B es crítico y urgente. Un mismo hecho puede presentarse con propósitos y tonos distintos según quién lo comunica.*
 
-**9.** c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores. *Retroalimentación: leer un texto discontinuo implica extraer y combinar sus datos.*
+**9.** c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores. Leer un texto discontinuo implica extraer y combinar sus datos.*
 
-**10.** b) Que la fuente puede influir en el énfasis, el tono y la sensación de suficiencia de la información. *Retroalimentación: comparar fuentes permite una lectura crítica de los medios.*
+**10.** b) Que la fuente puede influir en el énfasis, el tono y la sensación de suficiencia de la información. Comparar fuentes permite una lectura crítica de los medios.*
 
-**11.** b) Porque el registro coloquial no se adecua a un destinatario ni a un canal formal. *Retroalimentación: el registro se ajusta al destinatario, al canal y al propósito.*
+**11.** b) Porque el registro coloquial no se adecua a un destinatario ni a un canal formal. El registro se ajusta al destinatario, al canal y al propósito.*
 
-**12.** a) Las entrenadoras nos explicaron la jugada a mi equipo y a mí, pero los arqueros no se acordaron de practicarla. *Retroalimentación: se corrigen la concordancia de número y el pronombre "nos".*
+**12.** a) Las entrenadoras nos explicaron la jugada a mi equipo y a mí, pero los arqueros no se acordaron de practicarla. Se corrigen la concordancia de número y el pronombre "nos".*
 
-**13.** Falso. *Retroalimentación: "romper" tiene participio irregular: "roto".*
+**13.** Falso. "romper" tiene participio irregular: "roto".*
 
-**14.** a, b y c — *Retroalimentación: releer, pedir comentarios y revisar la concordancia y la ortografía mejoran el texto; entregarlo sin releer no.*
+**14.** a, b y c — Releer, pedir comentarios y revisar la concordancia y la ortografía mejoran el texto; entregarlo sin releer no.*
 
-**15.** d) Las jugadoras se felicitaron a sí mismas después del partido. *Retroalimentación: el verbo y "mismas" concuerdan en plural y femenino con "las jugadoras".*
+**15.** d) Las jugadoras se felicitaron a sí mismas después del partido. El verbo y "mismas" concuerdan en plural y femenino con "las jugadoras".*

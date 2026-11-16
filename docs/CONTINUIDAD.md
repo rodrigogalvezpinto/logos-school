@@ -136,7 +136,7 @@ en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
-(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.°, 2.°, 3.°, 4.° y 6.° básico; siguiente: 5.° básico.
+(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.° a 6.° básico; siguiente: 7.° básico.
 
 ### 6.3 D — imágenes (requiere decisión del dueño)
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,
@@ -181,5 +181,11 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
   queda FALSA y `rehacer` dice «ok». Pasó dos veces (2026-11-16). Ahora, si la explicación empieza con «x)», `rehacer`
   verifica esa letra y aborta si no coincide; y la guarda `test_la_explicacion_no_contradice_ni_repite_la_letra_de_la_clave`
   lo revisa en todo el material. Escribe la explicación sin repetir «x) clave»: `rehacer` ya la antepone.
+- **`rehacer` dejaba restos del texto anterior** cuando la entrada de pauta ocupaba varias líneas (solo reemplazaba la
+  primera). Corregido: ahora reemplaza la entrada completa y verifica que la pauta termine en la explicación nueva.
+  Guardas: `test_la_pauta_no_tiene_restos_huerfanos_de_explicaciones_anteriores` y
+  `test_la_explicacion_no_incluye_la_etiqueta_retroalimentacion`.
+- **Al limpiar texto con expresiones regulares, mirar lo que queda:** una limpieza quitó el sujeto de 5 explicaciones
+  («El petróleo. tardó…»). Revisar siempre una muestra del `git diff` y buscar oraciones que empiecen en minúscula.
 - **Revisar el sesgo de longitud de lo rehecho:** la correcta tiende a quedar más larga y detallada. Medir con
   `ajustar_distractores.sesgada` y alargar distractores con `aplicar_en` (sin tocar la clave).

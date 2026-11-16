@@ -453,7 +453,7 @@ b) Contar una historia sin ningún interés por lo que piense el lector
 c) Advertir sobre los peligros del producto
 d) Vender o convencer al destinatario de comprar el producto
 
-*Respuesta correcta: d.* Retroalimentación: distinguir entre textos que buscan informar de manera neutral y textos que buscan vender o convencer es una habilidad clave de la lectura crítica.
+*Respuesta correcta: d.* Retroalimentación: un aviso publicitario busca sobre todo vender: muestra el producto de forma atractiva para convencerte de comprarlo. Reconocer ese propósito te ayuda a leerlo con espíritu crítico.
 
 ---
 

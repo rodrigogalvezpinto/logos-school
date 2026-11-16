@@ -156,8 +156,6 @@ social y ambiental; no es "cero actividad económica" ni "solo ambiente".
 3. a) 1-C, 2-A, 3-B. Un modelo sustentable debe considerar las tres dimensiones a la vez.
 
 4. **d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas del precio internacional del cobre y presiona los recursos naturales.** Una economía basada en exportar materias primas con poca elaboración es extractiva: si cae el precio internacional, caen los ingresos del país, y la extracción presiona el agua y los territorios.
-recursos naturales. El modelo genera empleo e ingresos, pero el OA pide reconocer sus riesgos
-característicos.
 
 5. a, b y c — No hay una "respuesta política correcta": lo que se evalúa es la calidad de la comparación de efectos.
 
@@ -173,7 +171,6 @@ tema.
 8. d) 1-B, 2-A, 3-C. Estas tendencias marcan las demandas actuales sobre derechos laborales.
 
 9. **a) Permiso postnatal, fuero maternal que protege su empleo y derecho a sala cuna financiada por el empleador.** La ley chilena contempla el permiso postnatal, el fuero maternal (no puede ser despedida sin autorización judicial) y la sala cuna en empresas con 20 o más trabajadoras.
-sala cuna buscan que tener hijos e hijas no signifique perder el empleo ni los ingresos.
 
 10. a, b y c — Los derechos laborales son resultado de procesos históricos en que la organización social tuvo un papel decisivo.
 

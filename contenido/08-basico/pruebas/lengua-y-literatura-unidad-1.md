@@ -152,32 +152,32 @@ d) La erupción del volcán Chaitén de 2008
 
 ## Pauta de respuestas
 
-**1.** c) La tensión entre la imagen de "tacaña" que el pueblo construye de Herminia y la verdadera razón, oculta, de su forma de vivir. *Retroalimentación: el conflicto central organiza todo el relato y explica el cambio del narrador.*
+**1.** c) La tensión entre la imagen de "tacaña" que el pueblo construye de Herminia y la verdadera razón, oculta, de su forma de vivir. El conflicto central organiza todo el relato y explica el cambio del narrador.*
 
-**2.** a) Pasa del prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva. *Retroalimentación: la evolución se ve en el contraste entre sus burlas de niño y la vergüenza que siente al final.*
+**2.** a) Pasa del prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva. La evolución se ve en el contraste entre sus burlas de niño y la vergüenza que siente al final.*
 
-**3.** Falso. *Retroalimentación: el narrador es una voz construida dentro del relato; no se debe confundir con el autor.*
+**3.** Falso. El narrador es una voz construida dentro del relato; no se debe confundir con el autor.*
 
-**4.** d) Porque, aunque ya no alumbra, representa la memoria de Arturo y la promesa que Herminia cumplió en silencio. *Retroalimentación: un símbolo es un objeto que representa una idea más allá de su significado literal.*
+**4.** d) Porque, aunque ya no alumbra, representa la memoria de Arturo y la promesa que Herminia cumplió en silencio. Un símbolo es un objeto que representa una idea más allá de su significado literal.*
 
-**5.** d) La avara. *Retroalimentación: el avaro es un personaje tipo asociado a la obsesión por no gastar; el relato desmonta esa imagen al revelar sus motivos.*
+**5.** d) La avara. El avaro es un personaje tipo asociado a la obsesión por no gastar; el relato desmonta esa imagen al revelar sus motivos.*
 
-**6.** c) Produce un efecto de insistencia y obsesión. *Retroalimentación: la repetición de "subo" marca el ritmo y la necesidad del hablante de volver a la montaña.*
+**6.** c) Produce un efecto de insistencia y obsesión. La repetición de "subo" marca el ritmo y la necesidad del hablante de volver a la montaña.*
 
-**7.** a) Que el regreso del hablante a la montaña es constante y casi natural. *Retroalimentación: la comparación con la niebla que sube sugiere algo que ocurre una y otra vez, inevitablemente.*
+**7.** a) Que el regreso del hablante a la montaña es constante y casi natural. La comparación con la niebla que sube sugiere algo que ocurre una y otra vez, inevitablemente.*
 
-**8.** Falso. *Retroalimentación: los versos repiten las estructuras "subo porque..." y "subo aunque...", un paralelismo sintáctico.*
+**8.** Falso. Los versos repiten las estructuras "subo porque..." y "subo aunque...", un paralelismo sintáctico.*
 
-**9.** c) Una personificación. *Retroalimentación: se atribuye a la cordillera una acción humana (esperar).*
+**9.** c) Una personificación. Se atribuye a la cordillera una acción humana (esperar).*
 
-**10.** b) El efecto de rezo o plegaria repetitiva. *Retroalimentación: una letanía es una oración formada por invocaciones que se repiten.*
+**10.** b) El efecto de rezo o plegaria repetitiva. Una letanía es una oración formada por invocaciones que se repiten.*
 
-**11.** b) Decidir si sigue corriendo hacia el cerro o se detiene a ayudar a don Ernesto. *Retroalimentación: el dilema enfrenta su seguridad con la ayuda a otra persona.*
+**11.** b) Decidir si sigue corriendo hacia el cerro o se detiene a ayudar a don Ernesto. El dilema enfrenta su seguridad con la ayuda a otra persona.*
 
-**12.** a) "Creo que acertó al detenerse, porque don Ernesto no podía salvarse solo, aunque la llegada del agua ponía en peligro su vida". *Retroalimentación: una postura fundamentada se apoya en el texto y reconoce el riesgo real.*
+**12.** a) "Creo que acertó al detenerse, porque don Ernesto no podía salvarse solo, aunque la llegada del agua ponía en peligro su vida". Una postura fundamentada se apoya en el texto y reconoce el riesgo real.*
 
-**13.** Falso. *Retroalimentación: el terremoto y tsunami del 27 de febrero de 2010 es un hecho real que afectó a localidades como Tomé, Dichato y Constitución.*
+**13.** Falso. El terremoto y tsunami del 27 de febrero de 2010 es un hecho real que afectó a localidades como Tomé, Dichato y Constitución.*
 
-**14.** d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual. *Retroalimentación: la visión de mundo se sustenta en las acciones de los personajes.*
+**14.** d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual. La visión de mundo se sustenta en las acciones de los personajes.*
 
-**15.** b) El terremoto y tsunami del 27 de febrero de 2010. *Retroalimentación: el texto sitúa explícitamente los hechos en Tomé, en esa fecha.*
+**15.** b) El terremoto y tsunami del 27 de febrero de 2010. El texto sitúa explícitamente los hechos en Tomé, en esa fecha.*

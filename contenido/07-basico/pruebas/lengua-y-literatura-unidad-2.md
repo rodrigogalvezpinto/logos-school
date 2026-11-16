@@ -135,28 +135,28 @@ d) Les pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos.
 
 ## Pauta de respuestas
 
-**1.** c) El problema del tráfico se resuelve ofreciendo alternativas seguras, como ciclovías continuas, y no solo cobrando más a los autos. *Retroalimentación: la postura es la idea central que el autor defiende a lo largo de la columna.*
+**1.** c) El problema del tráfico se resuelve ofreciendo alternativas seguras, como ciclovías continuas, y no solo cobrando más a los autos. La postura es la idea central que el autor defiende a lo largo de la columna.*
 
-**2.** Verdadero. *Retroalimentación: la frase cita una fuente concreta (un informe del ministerio), por lo que es información verificable.*
+**2.** Verdadero. La frase cita una fuente concreta (un informe del ministerio), por lo que es información verificable.*
 
-**3.** a) "En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse". *Retroalimentación: una opinión es una valoración personal que otra persona podría discutir; un hecho se puede comprobar.*
+**3.** a) "En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse". Una opinión es una valoración personal que otra persona podría discutir; un hecho se puede comprobar.*
 
-**4.** d) Que muchas ciclovías se cortan de repente o comparten la calzada con los buses, por lo que muchas personas prefieren no usar la bicicleta. *Retroalimentación: un argumento es una razón que sostiene directamente la postura.*
+**4.** d) Que muchas ciclovías se cortan de repente o comparten la calzada con los buses, por lo que muchas personas prefieren no usar la bicicleta. Un argumento es una razón que sostiene directamente la postura.*
 
-**5.** d) "Muchas calles no tienen ciclovías". *Retroalimentación: es una descripción que se puede comprobar observando la ciudad; las otras expresan creencias o llamados.*
+**5.** d) "Muchas calles no tienen ciclovías". Es una descripción que se puede comprobar observando la ciudad; las otras expresan creencias o llamados.*
 
-**6.** c) Cuestionar la capacidad de Marcela Rojas para el cargo, basándose en un prejuicio sobre su edad. *Retroalimentación: el propósito implícito no se dice directamente, pero se deduce de lo que el texto pone en duda.*
+**6.** c) Cuestionar la capacidad de Marcela Rojas para el cargo, basándose en un prejuicio sobre su edad. El propósito implícito no se dice directamente, pero se deduce de lo que el texto pone en duda.*
 
-**7.** b) El prejuicio de que una persona mayor "no tiene energía" para el cargo, sin considerar su experiencia real de treinta años. *Retroalimentación: un prejuicio es un juicio previo, sin fundamento en los hechos, sobre un grupo de personas.*
+**7.** b) El prejuicio de que una persona mayor "no tiene energía" para el cargo, sin considerar su experiencia real de treinta años. Un prejuicio es un juicio previo, sin fundamento en los hechos, sobre un grupo de personas.*
 
-**8.** c) 33 puntos porcentuales. *Retroalimentación: 61% − 28% = 33 puntos; leer un gráfico insertado en una noticia implica extraer y comparar sus datos.*
+**8.** c) 33 puntos porcentuales. 61% − 28% = 33 puntos; leer un gráfico insertado en una noticia implica extraer y comparar sus datos.*
 
-**9.** b) Podría generar desconfianza injustificada hacia su gestión, antes de que comience, basada en un prejuicio y no en su desempeño. *Retroalimentación: los comentarios públicos pueden afectar la imagen de las personas aludidas.*
+**9.** b) Podría generar desconfianza injustificada hacia su gestión, antes de que comience, basada en un prejuicio y no en su desempeño. Los comentarios públicos pueden afectar la imagen de las personas aludidas.*
 
-**10.** b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad. *Retroalimentación: el registro se ajusta al destinatario, al contexto y al propósito.*
+**10.** b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad. El registro se ajusta al destinatario, al contexto y al propósito.*
 
-**11.** a) Los jugadores han ganado sus partidos difíciles. *Retroalimentación: el sujeto plural exige verbo, posesivo, sustantivo y adjetivo en plural.*
+**11.** a) Los jugadores han ganado sus partidos difíciles. El sujeto plural exige verbo, posesivo, sustantivo y adjetivo en plural.*
 
-**12.** Falso. *Retroalimentación: "escribir" tiene participio irregular: "escrito".*
+**12.** Falso. "escribir" tiene participio irregular: "escrito".*
 
-**13.** d) Les pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos. *Retroalimentación: "les" concuerda con "mis abuelos" (plural) y "los" es el complemento directo de "dejaba".*
+**13.** d) Les pedí a mis abuelos que me esperaran, porque el tren los dejaba lejos. "les" concuerda con "mis abuelos" (plural) y "los" es el complemento directo de "dejaba".*

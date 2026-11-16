@@ -268,7 +268,7 @@ b) Es distinta de cero y apunta hacia arriba
 c) Es distinta de cero y apunta hacia abajo
 d) No se puede saber sin conocer la masa del ascensor
 
-**Explicación que verá el alumno:** a) Es cero: la fuerza del cable y el peso se equilibran. a) Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor.
+**Explicación que verá el alumno:** a) Es cero: la fuerza del cable y el peso se equilibran. Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -291,7 +291,7 @@ b) Plan Laboral y Plan Marshall
 c) New Deal y Estado de Bienestar
 d) Glasnost y Perestroika  ✅
 
-**Explicación que verá el alumno:** d) Glasnost y Perestroika. d) La Glasnost («transparencia») abrió la libertad de prensa y la Perestroika («reestructuración») reformó la economía; juntas aceleraron la crisis del sistema soviético.
+**Explicación que verá el alumno:** d) Glasnost y Perestroika. La Glasnost («transparencia») abrió la libertad de prensa y la Perestroika («reestructuración») reformó la economía; juntas aceleraron la crisis del sistema soviético.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

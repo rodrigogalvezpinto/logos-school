@@ -129,30 +129,22 @@ d) Ninguno, porque solo los adultos pueden organizarse
 ## Pauta de respuestas
 
 **1.** b) Sí, porque los derechos humanos son de todas las personas. Son universales: no dependen del lugar de nacimiento.
-derechos se poseen por el solo hecho de ser persona.
 
 **2.** Verdadero. Los derechos no dependen del sexo ni de ninguna otra característica individual.
-sexo o el lugar de nacimiento: son los mismos para todas las personas.
 
 **3.** **c) Sus pares, la comunidad escolar y el Estado.** El respeto de los derechos es una responsabilidad compartida: los compañeros deben tratarla con respeto, la comunidad escolar debe intervenir y el Estado debe garantizar una educación segura.
-personas, el entorno cercano y las instituciones del Estado.
 
 **4.** **a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación.** Los derechos humanos son universales: valen para todas las personas por igual, sin importar su sexo; negarle el taller por ser mujer es discriminación.
 
 **5.** d) Sí, porque es persona desde que nace y es sujeto de derecho. Todas las personas tienen derechos desde que nacen, sin importar su edad ni lo que hagan. La Convención sobre los Derechos del Niño protege especialmente a niños y niñas.
 
 **6.** Verdadero. Los derechos son universales: la edad no los quita.
-una condición de discapacidad, disminuye o cambia los derechos que una persona posee.
 
 **7.** **b) Asegurar que los niños puedan ejercer su derecho a la educación, por ejemplo con una escuela o con transporte escolar.** El Estado debe asegurar que todas las personas puedan ejercer derechos como la educación y la salud, aunque vivan en lugares alejados.
-Estado debe garantizar que los derechos se puedan ejercer efectivamente, no solo
-reconocerlos.
 
 **8.** Falso. Los derechos van acompañados de deberes: cuidar los espacios comunes y respetar a los demás.
-derechos de los demás y respetar las leyes.
 
 **9.** a) Votar en las elecciones. Elegir a las autoridades es una forma fundamental de participar en la vida pública.
-participación en la vida pública que el Estado debe asegurar.
 
 **10.** b) 1-B, 2-A, 3-C — respeto mutuo, responsabilidad del Estado y participación
 

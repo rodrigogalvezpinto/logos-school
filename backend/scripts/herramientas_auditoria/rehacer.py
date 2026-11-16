@@ -78,7 +78,9 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
         celdas[k] = ' ' + cuerpo + ' '
         cola = cola[:mfila[0].start()] + mfila[0].group(1) + '|'.join(celdas) + '|' + cola[mfila[0].end():]
     else:
-        item = re.compile(rf'(?m)^((?:\*\*{n}\.\*\*|\*\*{n}\.|{n}\.)) .*$(?:\n {{2,}}\S.*$)*')
+        # La entrada incluye TODAS sus líneas de continuación (antes solo las sangradas: quedaban restos del texto viejo).
+        item = re.compile(rf'(?m)^((?:\*\*{n}\.\*\*|\*\*{n}\.|{n}\.)) .*$'
+                          r'(?:\n(?![ \t]*$)(?![ \t]*(?:\*\*)?\(?\d+[.)])(?![ \t]*[|#>])(?![ \t]*-{3}).*$)*')
         mi = list(item.finditer(cola))
         assert len(mi) == 1, (n, 'pauta', len(mi))
         cola = cola[:mi[0].start()] + mi[0].group(1) + ' ' + cuerpo + cola[mi[0].end():]
@@ -96,5 +98,8 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
     else:
         assert r1.respuesta_correcta == r0.respuesta_correcta
     assert set(despues) == set(antes)
+    final = re.sub(r'\s+', ' ', explicacion.strip())
+    assert re.sub(r'\s+', ' ', r1.retroalimentacion).rstrip().endswith(final[-40:]), \
+        f'la pauta de #{n} no termina en la explicación nueva (¿quedaron restos del texto anterior?)'
     ruta.write_text(nuevo_t, encoding='utf-8')
     print(f'ok {archivo}#{n}')

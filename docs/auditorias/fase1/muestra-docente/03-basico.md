@@ -443,7 +443,7 @@ b) Asia
 c) América  ✅
 d) Oceanía
 
-**Explicación que verá el alumno:** c) América. c) Chile está en América, específicamente en América del Sur, que en el modelo de seis continentes forma parte del continente americano.
+**Explicación que verá el alumno:** c) América. Chile está en América, específicamente en América del Sur, que en el modelo de seis continentes forma parte del continente americano.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

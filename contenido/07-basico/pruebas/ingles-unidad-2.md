@@ -121,30 +121,30 @@ d) The plant is next to the window.
 
 ## Pauta de respuestas
 
-**1.** a) First. *Retroalimentación: First introduce el primer evento de la secuencia; Finally o In the end se usan al final.*
+**1.** a) First. First introduce el primer evento de la secuencia; Finally o In the end se usan al final.*
 
-**2.** d) I think that deforestation is a big problem. *Retroalimentación: "I think that..." introduce una valoración personal; las otras oraciones describen hechos.*
+**2.** d) I think that deforestation is a big problem. "I think that..." introduce una valoración personal; las otras oraciones describen hechos.*
 
-**3.** d) learned. *Retroalimentación: "Last summer" señala una acción terminada en el pasado: learned.*
+**3.** d) learned. "Last summer" señala una acción terminada en el pasado: learned.*
 
-**4.** True (Verdadero). *Retroalimentación: describe un sentimiento (felt nervous) ligado a un momento específico, típico de un relato de experiencia personal.*
+**4.** True (Verdadero). Describe un sentimiento (felt nervous) ligado a un momento específico, típico de un relato de experiencia personal.*
 
-**5.** c) parks / go for a walk or ride a bike there. *Retroalimentación: cada espacio necesita información pertinente: primero un gusto y luego una costumbre (verbo + complemento).*
+**5.** c) parks / go for a walk or ride a bike there. Cada espacio necesita información pertinente: primero un gusto y luego una costumbre (verbo + complemento).*
 
-**6.** c) children planting trees / hopeful. *Retroalimentación: un pie de foto describe la imagen y luego expresa un sentimiento coherente con ella.*
+**6.** c) children planting trees / hopeful. Un pie de foto describe la imagen y luego expresa un sentimiento coherente con ella.*
 
-**7.** a) is. *Retroalimentación: "homework" es incontable, por eso el verbo va en singular: there is.*
+**7.** a) is. "homework" es incontable, por eso el verbo va en singular: there is.*
 
-**8.** b) Those books are mine. *Retroalimentación: "books" es plural, así que corresponde "those" (no "that") y el verbo "are".*
+**8.** b) Those books are mine. "books" es plural, así que corresponde "those" (no "that") y el verbo "are".*
 
-**9.** d) Swimming. *Retroalimentación: cuando una actividad es el sujeto de la oración, el verbo va en gerundio (swim → swimming).*
+**9.** d) Swimming. Cuando una actividad es el sujeto de la oración, el verbo va en gerundio (swim → swimming).*
 
-**10.** True (Verdadero). *Retroalimentación: "mustn't" indica que algo está prohibido.*
+**10.** True (Verdadero). "mustn't" indica que algo está prohibido.*
 
-**11.** b) carefully. *Retroalimentación: para describir cómo se debe manejar (modo), el adjetivo careful se convierte en el adverbio carefully.*
+**11.** b) carefully. Para describir cómo se debe manejar (modo), el adjetivo careful se convierte en el adverbio carefully.*
 
-**12.** c) Yes, he does. *Retroalimentación: a una pregunta con "Does...?" se responde con el auxiliar: Yes, he does / No, he doesn't.*
+**12.** c) Yes, he does. A una pregunta con "Does...?" se responde con el auxiliar: Yes, he does / No, he doesn't.*
 
-**13.** a) were eating / went. *Retroalimentación: el pasado continuo (were eating) describe la acción en curso, interrumpida por otra en pasado simple (went).*
+**13.** a) were eating / went. El pasado continuo (were eating) describe la acción en curso, interrumpida por otra en pasado simple (went).*
 
-**14.** b) The plant dies if you don't water it. *Retroalimentación: la condición (no regarla) produce un efecto (se muere): es una relación de causa y efecto.*
+**14.** b) The plant dies if you don't water it. La condición (no regarla) produce un efecto (se muere): es una relación de causa y efecto.*

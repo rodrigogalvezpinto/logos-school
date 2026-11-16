@@ -132,7 +132,7 @@ b) El aluminio le dio demasiado calor a esa parte y la quemó, por eso cambió d
 c) La parte cubierta recibió menos agua por las raíces y se secó durante la semana
 d) La parte cubierta produjo más oxígeno y gastó todo su color verde en hacerlo
 
-**Explicación que verá el alumno:** a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento. a) Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
+**Explicación que verá el alumno:** a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento. Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -210,8 +210,6 @@ d) to think
 > **Texto B — "¿Cómo funciona un panel solar?"**
 >
 > > Un panel solar está formado por celdas que transforman la luz del sol en electricidad. Mientras más horas de sol y más directa llega la luz, más energía produce. Por eso, en invierno, cuando los días son más cortos, la producción baja. Los paneles también funcionan en días nublados, aunque producen menos energía.
->
-> ## Preguntas
 >
 > Según la tabla del Texto A, ¿en qué mes se produjo la menor cantidad de energía, y cuánta fue?
 
@@ -509,7 +507,7 @@ b) El águila
 c) El pasto
 d) El zorro  ✅
 
-**Explicación que verá el alumno:** d) El zorro. d) El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
+**Explicación que verá el alumno:** d) El zorro. El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -613,7 +611,7 @@ b) 20% y 20 estudiantes
 c) 20% y 80 estudiantes  ✅
 d) 50% y 200 estudiantes
 
-**Explicación que verá el alumno:** c) 20% y 80 estudiantes. c) Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.
+**Explicación que verá el alumno:** c) 20% y 80 estudiantes. Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

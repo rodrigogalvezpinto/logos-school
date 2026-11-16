@@ -116,15 +116,15 @@ d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
 
 ## Pauta de respuestas
 
-1. **c.** Retroalimentación: el afiche indica al final "— Centro de Padres y Apoderados, Escuela El Boldo de Talagante", que corresponde al emisor.
-2. **Falso.** Retroalimentación: el propósito principal del afiche es **invitar** a la comunidad a la fiesta, no explicar la historia de la cueca.
-3. **d.** Retroalimentación: el afiche dice "¡Trae a tu familia y a tus vecinos!": está dirigido a la comunidad escolar y a su entorno.
+1. **c.** El afiche indica al final "— Centro de Padres y Apoderados, Escuela El Boldo de Talagante", que corresponde al emisor.
+2. **Falso.** El propósito principal del afiche es **invitar** a la comunidad a la fiesta, no explicar la historia de la cueca.
+3. **d.** El afiche dice "¡Trae a tu familia y a tus vecinos!": está dirigido a la comunidad escolar y a su entorno.
 4. a) Preguntar al Centro de Padres de la escuela, porque el afiche no entrega esa información. El afiche solo informa fecha, horario, lugar y actividades; que la entrada sea liberada no significa que la comida sea gratis.
-5. **c.** Retroalimentación: perder el trabajo una hora antes de presentarlo es una dificultad que la protagonista deberá resolver: eso es un conflicto.
-6. **Verdadero.** Retroalimentación: lo que dicen los personajes y cómo lo dicen revela su personalidad y su relación con los demás.
+5. **c.** Perder el trabajo una hora antes de presentarlo es una dificultad que la protagonista deberá resolver: eso es un conflicto.
+6. **Verdadero.** Lo que dicen los personajes y cómo lo dicen revela su personalidad y su relación con los demás.
 7. **d) La neblina cubría los botes de colores; se sentía el olor a mar y a pescado fresco, mientras las gaviotas chillaban sobre el muelle..** Los detalles sensoriales describen lo que se ve (la neblina, los botes de colores), lo que se huele (el mar, el pescado) y lo que se oye (las gaviotas). Las otras opciones solo informan.
-8. **a.** Retroalimentación: "primero" y "luego" ordenan los sucesos, "sin embargo" introduce el cambio inesperado y "finalmente" cierra el relato.
-9. **a.** Retroalimentación: la primera oración presenta el tema de manera clara, para que quien lee sepa de qué tratará el artículo.
-10. **Falso.** Retroalimentación: cada párrafo debe desarrollar una idea central; los temas distintos se separan con punto aparte.
+8. **a.** "primero" y "luego" ordenan los sucesos, "sin embargo" introduce el cambio inesperado y "finalmente" cierra el relato.
+9. **a.** La primera oración presenta el tema de manera clara, para que quien lee sepa de qué tratará el artículo.
+10. **Falso.** Cada párrafo debe desarrollar una idea central; los temas distintos se separan con punto aparte.
 11. b) Para que el lector pueda verificar de dónde viene la información y confiar en ella. Citar la fuente permite revisar de dónde viene la información. Si viene de una institución reconocida, como CONAF, es más confiable.
-12. **b.** Retroalimentación: la opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.
+12. **b.** La opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.

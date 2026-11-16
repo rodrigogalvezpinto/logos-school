@@ -17,7 +17,7 @@ b) Porque es la capa más gruesa de la Tierra, y su gran espesor le permite acum
 c) Porque está hecha solo de agua y de lava, que al enfriarse forman las montañas y al calentarse forman los océanos
 d) Porque el núcleo está en la superficie y su calor derrite la corteza, formando volcanes y océanos donde se hunde
 
-**Explicación que verá el alumno:** Esta pregunta conecta con el OA 16: los cambios en la superficie terrestre se explican por la interacción entre las capas.
+**Explicación que verá el alumno:** La corteza es delgada pero sólida y rígida, y está dividida en placas que se mueven sobre el manto: al chocar o separarse, forman montañas, volcanes y fondos oceánicos. No es la capa más gruesa ni está hecha de agua o lava.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -155,10 +155,6 @@ b) Falso
 > > dibujados con un lápiz de cristal.
 > > Cuando el sol lo toca, llora gotitas
 > > que bajan cantando hasta el lago austral.
->
-> ---
->
-> ## Preguntas
 >
 > ¿Qué significan los versos "Sus grietas azules parecen ríos / dibujados con un lápiz de cristal"?
 
@@ -315,7 +311,7 @@ b) Manto (la más externa y rígida) → corteza (de roca líquida que fluye) �
 c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente)  ✅
 d) Corteza (líquida y caliente, con lava) → núcleo (metales, el más frío) → manto (roca rígida y delgada)
 
-**Explicación que verá el alumno:** Comparar rigidez, posición y temperatura al mismo tiempo ayuda a entender cómo se relacionan las tres capas entre sí.
+**Explicación que verá el alumno:** De afuera hacia adentro: la corteza es rígida y la más fría; el manto es casi todo sólido pero fluye muy lentamente; el núcleo, de metales, es la capa más caliente. Las otras opciones cambian el orden o dicen que hay capas de agua o hielo.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -361,7 +357,7 @@ b) No hay comida en la casa para la tormenta; compran sopaipillas en el almacén
 c) La estufa se rompe con el frío; la arregla la abuela con las herramientas de Wladimir
 d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña  ✅
 
-**Explicación que verá el alumno:** reconocer la estructura problema-solución te ayuda a entender el "hilo" de cualquier historia, no solo de este cuento.
+**Explicación que verá el alumno:** al inicio se acerca una tormenta y la familia necesita leña para la estufa (problema); se soluciona porque Wladimir ya había juntado la leña (solución). Reconocer el problema y su solución te ayuda a seguir el hilo de cualquier historia.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -450,8 +446,6 @@ d) El Presidente o Presidenta de la República  ✅
 > >
 > > Cuando volvió a la casa, empujando los bidones en un carrito, encontró a su vecino don Ruperto sentado en la puerta, con las manos rojas de frío. "Vi las nubes cargadas esta mañana y pensé que tu abuela iba a necesitar agua", le dijo con una sonrisa. Inés sintió que el corazón se le llenaba de alegría: por fin entendía quién había llenado los bidones. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera caía la nieve, las cañerías se congelaron, pero la familia tuvo agua para preparar té con pan amasado junto a la estufa, agradecida de tener un vecino tan atento.
 >
-> ### Texto 2: "El glaciar" (poema)
->
 > Según el texto "Los bidones de don Ruperto", ¿qué le pidió la abuela a Inés que hiciera?
 
 a) Que preparara pan amasado
@@ -482,7 +476,7 @@ b) Decena
 c) Centena
 d) Unidad de mil  ✅
 
-**Explicación que verá el alumno:** d) Unidad de mil. d) En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
+**Explicación que verá el alumno:** d) Unidad de mil. En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -505,7 +499,7 @@ b) Los pulmones
 c) La médula espinal  ✅
 d) El estómago
 
-**Explicación que verá el alumno:** c) La médula espinal. c) Dentro de las vértebras pasa la médula espinal, que lleva mensajes entre el encéfalo y el resto del cuerpo.
+**Explicación que verá el alumno:** c) La médula espinal. Dentro de las vértebras pasa la médula espinal, que lleva mensajes entre el encéfalo y el resto del cuerpo.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
