@@ -179,7 +179,7 @@ c) Porque permite que el Estado decida quién tiene derechos según su aporte a 
 d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública
 
 ✅ Respuesta correcta: **d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública**
-💬 *Retroalimentación:* Un buen análisis conecta el fundamento con implicancias prácticas.
+💬 *Retroalimentación:* De la dignidad de cada persona se derivan derechos y deberes concretos que el Estado debe garantizar, como el debido proceso y la no discriminación; esos derechos permiten participar libremente en la democracia.
 
 ---
 
@@ -652,7 +652,7 @@ c) Que el dato demuestra que Chile no cobra ningún impuesto
 d) Que el dato no admite ninguna interpretación
 
 ✅ Respuesta correcta: **a y b**
-💬 *Retroalimentación:* Un mismo dato puede sostener argumentos opuestos según la perspectiva económica y de valores.
+💬 *Retroalimentación:* El mismo dato admite lecturas distintas: para unos, una carga baja incentiva la inversión, el empleo y el crecimiento; para otros, limita los recursos del Estado para financiar servicios y políticas sociales.
 
 ---
 
@@ -731,7 +731,7 @@ c) Porque solo el gobierno puede opinar sobre sueldos
 d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas
 
 ✅ Respuesta correcta: **d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas**
-💬 *Retroalimentación:* "Justo" depende también de valores y prioridades distintas.
+💬 *Retroalimentación:* Unas perspectivas consideran justo el sueldo que fija el mercado según la productividad; otras, uno que garantice como mínimo una vida digna. Como dependen de valores distintos, ambas son posturas legítimas en el debate.
 
 ---
 
@@ -923,7 +923,7 @@ c) Una ley que obliga a renunciar a un derecho a cambio de dinero: inalienabilid
 d) Un plebiscito con alta participación: violación de la universalidad
 
 ✅ Respuesta correcta: **a, b y c**
-💬 *Retroalimentación:* Lo esencial es justificar qué principio se compromete; una alta participación no viola ningún principio.
+💬 *Retroalimentación:* Discriminar a alguien por su discapacidad vulnera la igualdad y no discriminación; desplazar a una comunidad afecta a la vez su vivienda, su trabajo y su salud, lo que muestra la indivisibilidad de los derechos.
 
 ---
 
@@ -1019,7 +1019,7 @@ c) Proteger: castigar a las personas con discapacidad que reclaman por sus derec
 d) Ninguno: la accesibilidad no es un derecho, sino una cortesía
 
 ✅ Respuesta correcta: **b) Garantizar: crear condiciones activas para el ejercicio efectivo del derecho**
-💬 *Retroalimentación:* Hay que distinguir con precisión cuál de los tres deberes está principalmente en juego.
+💬 *Retroalimentación:* Garantizar significa crear condiciones activas para que el derecho se ejerza; la accesibilidad universal exige que el Estado adapte los espacios públicos, no solo que se abstenga de discriminar.
 
 ---
 
@@ -1146,7 +1146,7 @@ c) Ejercer un cargo de elección popular
 d) Votar en una elección presidencial
 
 ✅ Respuesta correcta: **a y b**
-💬 *Retroalimentación:* Un mismo fenómeno social puede combinar más de una forma de participación ciudadana.
+💬 *Retroalimentación:* Limpiar playas y ríos con otros jóvenes es participar en una organización comunitaria; además, al hacerlo visible, se informa y se genera conciencia pública. El mismo fenómeno combina ambas formas.
 
 ---
 
@@ -1167,7 +1167,7 @@ c) El republicanismo rechaza los derechos individuales y el liberalismo rechaza 
 d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida
 
 ✅ Respuesta correcta: **d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida**
-💬 *Retroalimentación:* La diferencia clave está en el énfasis.
+💬 *Retroalimentación:* El republicanismo pone el acento en la participación activa y la virtud cívica de los ciudadanos; el liberalismo, en asegurar la libertad de cada persona para seguir su propio proyecto de vida.
 
 ---
 
@@ -1230,7 +1230,7 @@ c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cív
 d) El comunitarismo exige participación política obligatoria y el republicanismo la rechaza; ambos comparten la defensa de las tradiciones
 
 ✅ Respuesta correcta: **c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas**
-💬 *Retroalimentación:* Una buena respuesta explica en qué consiste cada énfasis.
+💬 *Retroalimentación:* Ambos valoran lo colectivo, pero el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y las tradiciones que comparte una comunidad.
 
 ---
 
@@ -1262,7 +1262,7 @@ c) El voluntariado analizado como prohibición de participar, desde el republica
 d) Un movimiento estudiantil analizado como rechazo a todos los derechos, desde el liberalismo
 
 ✅ Respuesta correcta: **a y b**
-💬 *Retroalimentación:* Se evalúa la coherencia argumentativa entre el fenómeno y la perspectiva elegida.
+💬 *Retroalimentación:* Un movimiento estudiantil es participación cívica activa, lo que calza con el republicanismo; el activismo digital de una comunidad indígena que defiende sus tradiciones calza con el comunitarismo. Cada análisis es coherente con su perspectiva.
 
 ---
 
@@ -1380,7 +1380,7 @@ c) Los vecinos quieren construir edificios de lujo en la franja costera y el mun
 d) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
 
 ✅ Respuesta correcta: **b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público**
-💬 *Retroalimentación:* Los actores son el municipio, las inmobiliarias y los vecinos organizados; las decisiones de uso de suelo no son neutras.
+💬 *Retroalimentación:* Si la franja costera se reserva para proyectos de alto valor sin áreas públicas, el acceso al borde costero quedaría limitado a quienes pueden pagar. Las decisiones de uso de suelo del municipio no son neutras.
 
 ---
 
@@ -1412,7 +1412,7 @@ c) Presentar una solicitud formal a la municipalidad
 d) Esperar que el problema se resuelva solo
 
 ✅ Respuesta correcta: **a, b y c**
-💬 *Retroalimentación:* La acción debe conectarse con las instituciones y mecanismos territoriales estudiados.
+💬 *Retroalimentación:* Organizar a los vecinos para pedir una modificación del plan regulador, participar en una consulta municipal o presentar propuestas son acciones concretas que usan los mecanismos territoriales existentes.
 
 ---
 
@@ -1493,7 +1493,7 @@ c) Estado de Derecho
 d) Soberanía popular
 
 ✅ Respuesta correcta: **b) Justicia social y ambiental**
-💬 *Retroalimentación:* Muestra que el acceso a un mejor entorno no se reparte de forma equitativa.
+💬 *Retroalimentación:* El dato muestra que el acceso a áreas verdes depende de los ingresos de cada comuna; la justicia social y ambiental permite analizar críticamente esa distribución desigual.
 
 ---
 

@@ -247,7 +247,10 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
         retro_m = RE_RETRO_MARCA.search(despues)
         if retro_m:
             respuesta_correcta = _limpiar(despues[: retro_m.start()]).rstrip(".")
-            retroalimentacion = _limpiar(despues[retro_m.end() :])
+            # La retroalimentación termina antes de un separador «---» o de un título de sección («## Eje: …»), que
+            # pertenecen a lo que sigue (2026-11-16: tres retroalimentaciones mostraban «--- ## Eje: Geometría»).
+            cola_retro = re.split(r"(?m)^[ \t]*(?:-{3,}|#{1,6}[ \t])", despues[retro_m.end() :], maxsplit=1)[0]
+            retroalimentacion = _limpiar(cola_retro)
         else:
             respuesta_correcta = _limpiar(despues).rstrip(".")
             # Sin marca de "Retroalimentación" propia (ej. "Pauta de retroalimentación"

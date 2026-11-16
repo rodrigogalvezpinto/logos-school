@@ -149,7 +149,7 @@ se parecen y en qué se diferencian?
    c) 15 days / hongbao dinner / money for the restaurant
    d) 15 days / reunion dinner / money in red envelopes (hongbao)
    **Respuesta correcta:** d) 15 days / reunion dinner / money in red envelopes (hongbao).
-   **Retroalimentación:** Completar un organizador gráfico exige extraer datos y clasificarlos por categoría.
+   **Retroalimentación:** El texto dice que el Año Nuevo chino dura 15 días (duración), que las familias se reúnen en una cena (evento principal) y que los niños reciben dinero en sobres rojos, los hongbao (regalo). Cada dato va en su categoría.
 
 5. *(Alternativas — Función)* ¿Qué función cumple el conector *"whereas"*?
    a) Marcar una semejanza
@@ -222,7 +222,7 @@ se parecen y en qué se diferencian?
     central del texto?
     a) Songkran is the Thai New Year.
     b) Songkran is known for its water fights and temple visits.
-    c) The celebration includes visiting temples.
+    c) Songkran is mainly known for its water fights.
     d) Many families use the holiday to clean their homes.
     **Respuesta correcta:** d.
     **Retroalimentación:** La idea central agrupa lo esencial del texto (las
@@ -351,7 +351,7 @@ that*.
    c) It explains how to cook pasta with tomato sauce in less than twenty minutes.
    d) It explains that cats sleep a lot during the day and play at night.
    **Respuesta correcta:** b) It explains that fast fashion produces large amounts of textile waste.
-   **Retroalimentación:** El detalle de apoyo debe mantener el tema de la oración temática.
+   **Retroalimentación:** La oración temática habla del impacto de la moda rápida en el ambiente; los residuos textiles son justamente un impacto ambiental, así que el detalle mantiene el tema.
 
 5. *(Alternativas — Función)* ¿Qué función cumple *"I would argue that..."*?
    a) Citar un dato textual
@@ -367,7 +367,7 @@ that*.
    c) Because the study was about tests and not about sleep or teenagers' health.
    d) Because seven hours is too much sleep for teenagers, according to most doctors.
    **Respuesta correcta:** a) Because it only included students from one city, so the results might not apply everywhere.
-   **Retroalimentación:** Identificar una limitación del texto es un paso clave hacia la postura crítica.
+   **Retroalimentación:** El estudio solo incluyó estudiantes de una ciudad; por eso sus resultados podrían no aplicarse a otros lugares. Reconocer esa limitación es la base de una postura crítica.
 
 7. *(Alternativas — desafiante)* Estás resumiendo un artículo para publicarlo
    en el blog del colegio (audiencia: otros estudiantes). ¿Qué versión es más
@@ -404,7 +404,7 @@ that*.
     c) the benefits of remote work for teenagers with part-time jobs / because it is the article and it is about remote work and teenagers
     d) my view / the article
     **Respuesta correcta:** b) the benefits of remote work for teenagers with part-time jobs / it does not consider students without reliable internet access.
-    **Retroalimentación:** La postura debe justificarse con una razón concreta.
+    **Retroalimentación:** La opción presenta el tema del artículo y justifica la crítica con una razón concreta: no considera a los estudiantes que no tienen una conexión a internet confiable.
 
 11. *(Alternativas)* Read: *"Exercise has been shown to reduce stress in
     teenagers, according to several studies."* ¿Qué estructura gramatical
@@ -603,7 +603,7 @@ formal? ¿un resumen realmente resume?).
     c) my family / once / hadn't celebrated
     d) afternoon tea / celebrate every day with family / would learn how much conversation matters
     **Respuesta correcta:** b) 'once' (afternoon tea) / every day with my family / wouldn't have learned how much conversation matters.
-    **Retroalimentación:** Combina voz pasiva y tercer condicional dentro de un texto coherente sobre identidad.
+    **Retroalimentación:** «It is celebrated every day with my family» usa voz pasiva, y «If I hadn't grown up with this tradition, I wouldn't have learned…» es un tercer condicional; todo se refiere a la «once», así que el texto es coherente.
 
 11. *(Alternativas — Completar — desafiante)* Complete with the passive: *"Many festivals around the world ___ to celebrate cultural diversity and bring communities together."* (organize)
     a) organize
@@ -648,7 +648,7 @@ formal? ¿un resumen realmente resume?).
     c) Moreover that which festival in my region. It celebrated every summer near the coast, with music and food. Families help organize, that which most of them.
     d) Hi! In my region, we have a festival that takes place every summer near the coast. It is celebrated with music and food. Moreover, most families help organize it.
     **Respuesta correcta:** d) Hi! In my region, we have a festival that takes place every summer near the coast. It is celebrated with music and food. Moreover, most families help organize it.
-    **Retroalimentación:** Se evalúa un modelo claro, una oración de relativo y un conector adecuados al público.
+    **Retroalimentación:** El párrafo usa una oración de relativo («a festival that takes place every summer») y un conector («Moreover»), con un tono cercano adecuado para un estudiante de intercambio.
 
 ---
 

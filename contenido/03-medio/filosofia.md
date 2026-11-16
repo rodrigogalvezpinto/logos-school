@@ -264,7 +264,7 @@ que preguntarse qué significa exactamente "justicia".
     c) Es incorrecta porque nada es real
     d) Da por obvio sin examinarlo el concepto de realidad, aunque sueños vívidos, ilusiones ópticas o noticias falsas muestran que la frontera entre lo real y lo aparente no siempre es evidente
     **Respuesta correcta:** d) Da por obvio sin examinarlo el concepto de realidad, aunque sueños vívidos, ilusiones ópticas o noticias falsas muestran que la frontera entre lo real y lo aparente no siempre es evidente.
-    **Retroalimentación:** Negarse a asombrarse ante esa dificultad es justamente lo opuesto a la actitud filosófica.
+    **Retroalimentación:** La frase da por obvio qué es real sin examinarlo, pero los sueños vívidos, las ilusiones ópticas o las noticias falsas muestran que la frontera entre lo real y lo aparente no es tan clara. Preguntarse por ella es justamente filosofar.
 
 ---
 
@@ -659,7 +659,7 @@ tomando —sin saberlo— una postura epistemológica.
     c) Dogmatismo: confía demasiado en el mundo exterior y acepta sin examinar que existe, sin preguntarse por la certeza de sus creencias sobre la realidad
     d) No es problemática: es la postura más razonable, porque si no hay certeza absoluta, ninguna creencia está mejor justificada que otra
     **Respuesta correcta:** b) Escepticismo radical: confunde no tener certeza absoluta con no tener creencias mejor justificadas, y en la práctica quien lo sostiene actúa confiando en el mundo.
-    **Retroalimentación:** Hay un salto lógico y una tensión con la forma en que todos actuamos.
+    **Retroalimentación:** Es escepticismo radical: confunde no tener certeza absoluta con no tener creencias mejor justificadas que otras. Además, quien lo sostiene actúa a diario confiando en que el mundo existe.
 
 15. *(Verdadero o falso — desafiante)* Que la ciencia, como ejemplo de
     postura crítica, revise y corrija sus teorías con el tiempo significa
@@ -804,7 +804,7 @@ resto del sistema, como en geometría).
    c) Solo una afirmación: "la lógica sirve para pensar mejor", repetida con distintas palabras en la razón, en la garantía y en la evidencia, sin agregar información nueva ni ningún dato que la respalde, como si repetirla bastara para convencer al lector de 3° medio
    d) Razón: las matemáticas son difíciles para muchos estudiantes de 3° medio. Garantía: no hay ninguna, porque no es necesaria. Evidencia: mi opinión personal y la de mis compañeros de curso
    **Respuesta correcta:** b) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas.
-   **Retroalimentación:** Los tres componentes deben estar presentes y ser coherentes entre sí.
+   **Retroalimentación:** La opción tiene los tres componentes: una razón (la lógica ayuda a distinguir argumentos de manipulaciones), una garantía que la conecta con la conclusión (quien distingue argumentos es menos vulnerable a la desinformación) y evidencia que la respalda.
 
 8. *(Alternativas — Falacias — desafiante)* "O estás totalmente de acuerdo conmigo, o eres de los que no piensan nada." ¿Qué falacia es y por qué distorsiona la discusión?
    a) Argumento de autoridad: cita a un experto para cerrar la discusión
@@ -868,7 +868,7 @@ resto del sistema, como en geometría).
     c) Agregar una pregunta retórica que invite al lector a reflexionar sobre el reciclaje
     d) Evidencia concreta, como datos sobre cuánta basura del colegio se gestiona mal o el impacto medido en las napas de la zona
     **Respuesta correcta:** d) Evidencia concreta, como datos sobre cuánta basura del colegio se gestiona mal o el impacto medido en las napas de la zona.
-    **Retroalimentación:** Sin respaldo fáctico, el argumento descansa en una generalización plausible pero no verificada.
+    **Retroalimentación:** El argumento tiene conclusión, razón y garantía, pero le falta evidencia concreta: datos sobre cuánta basura del colegio se gestiona mal o el impacto medido en las napas. Sin eso, descansa en una generalización no verificada.
 
 14. *(Alternativas — Inducción — desafiante)* "Los últimos cinco veranos han sido más calurosos que el promedio en mi ciudad; probablemente este también lo sea." ¿Por qué su conclusión es solo probable?
     a) Porque es deductiva y por eso su conclusión es segura: si las premisas son verdaderas, este verano será caluroso en mi ciudad este año

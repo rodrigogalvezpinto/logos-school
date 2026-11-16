@@ -97,7 +97,7 @@ b) No afecta en nada el sentido del relato: un narrador niño contaría los mism
 c) Hace que el relato sea una noticia objetiva
 d) Impide conocer los pensamientos de la narradora, porque el adulto solo describe hechos externos de su infancia sin reflexionar sobre el sacrificio paterno
 
-*Respuesta correcta: a.* Retroalimentación: relacionar el narrador con el sentido exige preguntarse qué cambiaría con otra perspectiva.
+*Respuesta correcta: a.* Retroalimentación: Como Fernanda narra de adulta, puede entender ahora gestos de su padre que de niña no comprendía; así el recuerdo se convierte en una reflexión madura sobre su sacrificio. Una narradora niña no tendría esa distancia.
 
 **4. (Alternativas)** ¿Qué tópico literario está más presente en "Las manos de mi padre"?
 
@@ -115,7 +115,7 @@ b) El relato es solo una lista de oficios sin un sentido mayor, sustentado en qu
 c) El relato no permite ninguna hipótesis de sentido, porque se limita a describir manos sin usar recursos literarios como el paralelismo o la metáfora
 d) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre
 
-*Respuesta correcta: d.* Retroalimentación: una hipótesis de sentido debe demostrarse citando recursos literarios concretos.
+*Respuesta correcta: d.* Retroalimentación: La hipótesis se apoya en un recurso concreto: el paralelismo entre las manos del padre, marcadas por el pique, y «estas manos mías, que hoy sostienen un lápiz y no un pique». El sacrificio físico se convierte en herencia simbólica.
 
 **6. (Verdadero o Falso)** Formular una hipótesis de sentido en 3° medio consiste en enumerar todos los recursos literarios presentes en la obra, sin necesidad de conectarlos entre sí.
 
@@ -128,7 +128,7 @@ b) Ambas muestran el trabajo minero como desgaste que tiende a heredarse; en *Su
 c) Ambas terminan con la hija del minero trabajando en la mina, porque la herencia del oficio es inevitable en las dos obras, sin ninguna diferencia entre ellas
 d) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub terra está escrita en verso y el cuento en prosa, pero comparten el mismo tema
 
-*Respuesta correcta: b.* Retroalimentación: una relación intertextual explica también las diferencias relevantes.
+*Respuesta correcta: b.* Retroalimentación: Ambas obras muestran el trabajo minero como un desgaste que pasa de padres a hijos; pero en Sub terra esa herencia suele ser inevitable, mientras que el padre del cuento logra romper la cadena.
 
 **8. (Alternativas — referente cultural)** ¿Cómo dialoga *Nostalgia de la luz* de Patricio Guzmán con el tema central del cuento, más allá del escenario?
 
@@ -137,7 +137,7 @@ b) Solo coinciden en que ocurren en el norte de Chile: la película habla de los
 c) Ambas entienden el territorio del norte como un espacio que guarda la memoria de quienes trabajaron y sufrieron en él, que la generación siguiente debe interpretar
 d) No tienen ninguna relación
 
-*Respuesta correcta: c.* Retroalimentación: relacionar una obra con un referente del arte exige una idea compartida en profundidad.
+*Respuesta correcta: c.* Retroalimentación: Nostalgia de la luz y el cuento comparten una idea profunda: el desierto del norte guarda la memoria de quienes trabajaron y sufrieron en él, y la generación siguiente debe interpretarla.
 
 **9. (Alternativas — análisis integrado)** Un compañero dice que el final ("estas manos mías, que hoy sostienen un lápiz y no un pique, escribiendo sobre las suyas") es solo un dato sobre la profesión de la narradora. ¿Qué evaluación es correcta?
 
@@ -146,7 +146,7 @@ b) Es correcta: el final no tiene importancia para el sentido del relato, porque
 c) Es correcta: la narradora solo describe su trabajo actual como escritora, y el final informa al lector de su profesión sin relación con las manos del padre
 d) Es incorrecta porque el relato no tiene final
 
-*Respuesta correcta: a.* Retroalimentación: evaluar otra interpretación exige contrastarla con la evidencia textual.
+*Respuesta correcta: a.* Retroalimentación: La lectura del compañero es incompleta: el final cierra el paralelismo de las manos que recorre todo el relato y muestra que el sacrificio del padre hizo posible que la hija hoy cuente su historia.
 
 **10. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
 
@@ -168,7 +168,7 @@ b) Hace que el relato sea más difícil de leer sin razón, porque mezcla regist
 c) Muestra que el autor no sabe escribir
 d) Acerca el relato a la experiencia familiar sin renunciar a la densidad simbólica, y refleja la distancia entre la voz sobria del padre y la mirada interpretativa de la hija
 
-*Respuesta correcta: d.* Retroalimentación: el lenguaje es un recurso que debe vincularse con el efecto que produce.
+*Respuesta correcta: d.* Retroalimentación: El tono coloquial de los diálogos acerca el relato a la vida familiar, y la prosa poética de las descripciones le da densidad simbólica; el contraste refleja la voz sobria del padre frente a la mirada interpretativa de la hija.
 
 **13. (Alternativas)** ¿Por qué el narrador caracteriza al padre casi exclusivamente a través de su cuerpo y no de sus palabras o pensamientos?
 
@@ -258,7 +258,7 @@ b) Porque el periodista olvidó preguntar a las plataformas cuánto se quedan de
 c) Porque el dato no tiene importancia para el tema del reportaje y solo completa la información sobre las plataformas
 d) Porque las empresas respondieron con claridad y el periodista quiso destacar su transparencia frente a las críticas de los repartidores
 
-*Respuesta correcta: a.* Retroalimentación: identificar la función de una omisión señalada exige preguntarse qué efecto produce en el lector.
+*Respuesta correcta: a.* Retroalimentación: Al decir que ninguna plataforma respondió cuánto se queda de cada pedido, el reportaje sugiere, sin afirmarlo, que las empresas prefieren no transparentar ese dato, lo que refuerza su enfoque crítico.
 
 **4. (Alternativas — Aplicación)** ¿Qué cadena de ideas vincula la clasificación de "trabajador independiente" con la crítica final sobre la flexibilidad?
 
@@ -307,7 +307,7 @@ b) Cambiaría el tema completo, porque la televisión exige historias de entrete
 c) No cambiaría nada
 d) Se perdería toda relevancia para la audiencia, porque un reportaje audiovisual solo puede mostrar imágenes y no puede presentar testimonios, datos ni el debate sobre la precariedad laboral
 
-*Respuesta correcta: a.* Retroalimentación: comparar géneros ayuda a distinguir qué depende del soporte y qué del contexto.
+*Respuesta correcta: a.* Retroalimentación: En televisión cambiaría el modo de presentar la información (imágenes, sonido, voz en off), pero el tema seguiría siendo relevante para el público chileno preocupado por la precariedad laboral.
 
 **10. (Alternativas)** ¿Cuál de los siguientes elementos NO es característico del género reportaje, a diferencia de una noticia breve?
 
@@ -329,7 +329,7 @@ b) No cumple ninguna función
 c) Sirve para aumentar la cantidad de palabras del reportaje y darle un final más largo que el resto de los párrafos
 d) Da al testimonio humano la última palabra y refuerza indirectamente que la flexibilidad es limitada, sin una conclusión explícita del autor
 
-*Respuesta correcta: d.* Retroalimentación: el orden de las ideas y citas no es neutro: cumple una función en el razonamiento.
+*Respuesta correcta: d.* Retroalimentación: Terminar con la frase de Ronald deja la última palabra a un trabajador y muestra que la flexibilidad tiene límites («no elijo el precio del pedido»), sin que el autor tenga que decirlo explícitamente.
 
 **13. (Alternativas — Aplicación)** ¿Qué propósito cumple contrastar la versión de las empresas (flexibilidad y 78% de satisfacción) con el testimonio de Ronald?
 
@@ -338,7 +338,7 @@ b) Cuestionar, sin afirmarlo directamente, qué tan real es el beneficio que des
 c) Distraer al lector del tema
 d) Demostrar que Ronald no trabaja tantas horas como dicen las cifras oficiales
 
-*Respuesta correcta: b.* Retroalimentación: poner una versión oficial junto a un testimonio que la matiza tiene un efecto en el lector.
+*Respuesta correcta: b.* Retroalimentación: Junto a la flexibilidad y el 78 % de satisfacción que destacan las empresas, el testimonio de Ronald muestra sus límites; así el reportaje cuestiona, sin afirmarlo, qué tan real es ese beneficio.
 
 **14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
 
@@ -356,7 +356,7 @@ b) Ambas son igual de confiables, porque las dos son cifras publicadas y citadas
 c) El estudio de la Universidad de Chile, porque proviene de una institución independiente con metodología contrastable
 d) Ninguna sirve
 
-*Respuesta correcta: c.* Retroalimentación: evaluar la veracidad exige considerar quién produjo el dato y qué interés tiene.
+*Respuesta correcta: c.* Retroalimentación: El 78 % viene de las propias empresas, que tienen interés en el resultado; el estudio de la Universidad de Chile proviene de una institución independiente con un método que se puede revisar. Por eso es más confiable.
 
 ---
 
@@ -506,7 +506,7 @@ b) Ignorar el tema de fondo y discutir solo con el troll, respondiendo cada come
 c) Difundir datos personales del troll para que la comunidad sepa quién es y deje de tomarlo en serio
 d) Señalarlos públicamente como descalificaciones sin sustento, sin responder con el mismo tono, porque desvían la conversación del problema real
 
-*Respuesta correcta: d.* Retroalimentación: una postura ética fundamentada explica qué daño o efecto negativo concreto produce el comentario.
+*Respuesta correcta: d.* Retroalimentación: Responder con el mismo tono solo amplifica la descalificación; señalarla como un comentario sin sustento, explicando que desvía la conversación del problema real, es una respuesta ética y fundamentada.
 
 **14. (Alternativas)** ¿Qué modo de razonamiento usa @profe_x para validar la organización de la toma?
 
@@ -609,7 +609,7 @@ b) "El cuento habla de un papá minero. Después. La hija escribe con lápiz. Y 
 c) "El cuento habla de un papá minero, pero la hija, sin embargo, después, al final, escribe con lápiz."
 d) "Papá minero lápiz hija."
 
-*Respuesta correcta: a.* Retroalimentación: mejorar la cohesión exige elegir un conector que muestre con precisión la relación entre las ideas.
+*Respuesta correcta: a.* Retroalimentación: La reescritura une las dos ideas con el relativo «cuyo» y la expresión «al final», que muestran la relación entre el sacrificio del padre y la escritura de la hija; el original solo yuxtapone dos oraciones.
 
 **5. (Alternativas)** ¿Por qué el uso de un emoji al final de la versión (b) corregida no representa un error de adecuación al género?
 
@@ -645,7 +645,7 @@ b) "Me gustó el cuento, también me gustan los perros y el verano. Además, el 
 c) "En primer lugar, el cuento muestra las manos del padre marcadas por la mina. Luego, presenta las manos de la hija dedicadas a la escritura. Por lo tanto, el relato sugiere que el sacrificio paterno se transformó en la posibilidad de contar su historia."
 d) "Por lo tanto, en primer lugar, sin embargo, luego."
 
-*Respuesta correcta: c.* Retroalimentación: se espera mantener el tema, hacer progresar la información y usar conectores adecuados.
+*Respuesta correcta: c.* Retroalimentación: El párrafo mantiene el tema (las manos del padre y de la hija), avanza con información nueva y usa conectores de orden y de conclusión («En primer lugar», «Luego», «Por lo tanto»).
 
 **9. (Verdadero o Falso)** El proceso de escritura en 3° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior.
 
@@ -680,7 +680,7 @@ b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma
 c) Propósito: difundir el rumor sobre quién organizó la toma para que todos lo sepan. Género: chiste breve. Audiencia: estudiantes del liceo. Convención: nombres y fotos de los involucrados en la toma del liceo
 d) Grabar sin planificar
 
-*Respuesta correcta: a.* Retroalimentación: un texto audiovisual exige las mismas decisiones, adaptadas a imagen, sonido y duración.
+*Respuesta correcta: a.* Retroalimentación: La planificación define con coherencia el propósito (argumentar que difundir rumores es dañino), el género (un video tipo reels con voz en off) y la audiencia (estudiantes de media en redes sociales).
 
 **14. (Alternativas)** ¿Cuál es la diferencia entre coherencia y cohesión?
 

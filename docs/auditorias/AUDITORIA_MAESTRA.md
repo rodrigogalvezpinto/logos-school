@@ -1752,3 +1752,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **C.4b abierto: retroalimentaciones de guía que no explican.** La revisión de las muestras de 4.° a 7.° básico mostró
   retroalimentaciones de guía genéricas. Detector nuevo `retro_guia_pobres.py` (374 candidatas, con falsos positivos) y
   ayudante `retro_guia.cambiar` (reemplaza la retroalimentación completa y verifica que solo cambió esa). Hechos 1.° y 2.° básico.
+- **C.4b, avance y dos hallazgos de fondo.** 232 retroalimentaciones de guía reescritas en 1.° básico a 3.° medio. Hallazgos:
+  (1) en 3.° medio, Inglés OA 1 pregunta 12 (Songkran), dos opciones eran «detalle de apoyo» (c y d); la c se cambió por la
+  idea central y queda una sola respuesta; (2) el parser de guías dejaba «--- ## Eje: …» pegado a 3 retroalimentaciones;
+  ahora la retroalimentación termina antes de un separador o un título.

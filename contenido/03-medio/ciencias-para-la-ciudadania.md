@@ -130,7 +130,7 @@ social y ambiental (una definición cercana a la de la OMS).
    c) Solo hay factores biológicos
    d) Los factores actúan por separado, sin interactuar: la contaminación solo afecta a quienes tienen enfermedades previas, y los ingresos y la falta de espacios seguros no influyen en su salud respiratoria
    **Respuesta correcta:** a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla.
-   **Retroalimentación:** Un buen análisis muestra cómo los tres tipos de factores interactúan.
+   **Retroalimentación:** La contaminación es un factor ambiental; los bajos ingresos y la falta de espacios seguros, sociales; la susceptibilidad respiratoria de Camila, biológica. Además interactúan: la contaminación afecta más a quien es susceptible y tiene menos recursos para protegerse.
 
 4. *(Alternativas)* ¿Cuál de las siguientes situaciones representa mejor un
    efecto a largo plazo del consumo de alimentos ultraprocesados?
@@ -148,7 +148,7 @@ social y ambiental (una definición cercana a la de la OMS).
    c) Porque el ambiente no influye en la salud
    d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino
    **Respuesta correcta:** d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.
-   **Retroalimentación:** Por eso las políticas de salud abordan también vivienda, educación y medioambiente.
+   **Retroalimentación:** Una persona sin enfermedades puede no estar bien si sufre problemas emocionales, conflictos de convivencia o vive en un ambiente dañino. Por eso la salud incluye lo físico, lo psíquico, lo social y lo ambiental.
 
 6. *(Varias correctas — Evaluación de evidencia)* Un titular dice: "Estudio revela que comer una fruta exótica cura el estrés en 24 horas", sin fuente ni número de participantes. ¿Qué conviene evaluar antes de creerlo? Marca **todas** las correctas.
    a) Si hay una fuente científica verificable
@@ -232,7 +232,7 @@ social y ambiental (una definición cercana a la de la OMS).
     c) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona
     d) Porque depende únicamente del clima
     **Respuesta correcta:** c) Es ambiental por su presencia en el entorno (aire, superficies, contacto) y biológico por la respuesta inmune de cada persona.
-    **Retroalimentación:** Muchos factores de salud no encajan en una sola categoría.
+    **Retroalimentación:** El patógeno está en el entorno (aire, superficies, contacto), por eso es un factor ambiental; pero el efecto depende de la respuesta inmune de cada persona, que es un factor biológico.
 
 15. *(Alternativas)* La exposición crónica a material particulado fino
     (PM2.5) en ciudades con alta contaminación atmosférica, como ocurre en
@@ -408,7 +408,7 @@ recientes).
     c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
     d) Porque los aeropuertos no tienen relación con la salud pública, y el caso se analiza a nivel mundial solo para registrar estadísticas de turismo y de viajes internacionales
     **Respuesta correcta:** c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.
-    **Retroalimentación:** Pensar en escala nacional y mundial distingue el enfoque de salud pública.
+    **Retroalimentación:** Un caso importado puede iniciar contagios locales, porque las enfermedades no respetan fronteras; por eso se rastrea a los pasajeros en Chile y se coordina con la OMS a nivel internacional.
 
 12. *(Alternativas — Evaluación de evidencia)* En una pandemia, una publicación revisada por pares indica que una medida reduce los contagios en 40%, y un influencer sin formación dice sin datos que "no sirve para nada". ¿Qué fuente priorizar?
     a) La publicación revisada por pares, porque fue evaluada por expertos, entrega datos y sigue un método verificable
@@ -424,7 +424,7 @@ recientes).
     c) Requiere aumentar la basura orgánica alrededor de las casas, para que los roedores se alimenten ahí y no entren a las viviendas, y talar los bosques cercanos
     d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo
     **Respuesta correcta:** d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.
-    **Retroalimentación:** La prevención no es solo doméstica, sino también ambiental y territorial.
+    **Retroalimentación:** El hantavirus lo transmiten roedores silvestres; prevenirlo exige manejar el entorno: no dejar basura orgánica que los atraiga, despejar los alrededores de la casa y considerar que alterar el paisaje cambia sus poblaciones.
 
 14. *(Alternativas)* La vacuna contra la hepatitis B forma parte del
     Programa Nacional de Inmunizaciones (PNI) de Chile, administrada en la
@@ -614,7 +614,7 @@ para proteger tanto a las personas como al ambiente.
     c) Un resfrío común
     d) Una probable intoxicación aguda por organofosforados, absorbidos por piel, vía respiratoria u ojos, por no usar el equipo de protección
     **Respuesta correcta:** d) Una probable intoxicación aguda por organofosforados, absorbidos por piel, vía respiratoria u ojos, por no usar el equipo de protección.
-    **Retroalimentación:** Se incumplieron las medidas de manipulación segura y posiblemente el tiempo de reingreso.
+    **Retroalimentación:** Los síntomas (dolor de cabeza, náuseas, visión borrosa, sudoración) calzan con una intoxicación aguda por organofosforados, que entraron por la piel, la respiración o los ojos porque el trabajador no usó guantes, mascarilla ni manga larga.
 
 12. *(Alternativas — Evaluación de evidencia)* "Los detergentes en cápsulas son igual de seguros para los niños que los líquidos, porque llevan la misma marca." ¿Qué evidencia hay que considerar?
     a) Que la marca garantiza la seguridad, porque una misma empresa usa la misma fórmula y el mismo envase de seguridad en todos sus productos
@@ -780,7 +780,7 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    c) Coordinación con organismos como SENAPRED o Bomberos
    d) El color del uniforme escolar
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** La evaluación debe conectar el contenido con el contexto local, distinguiendo prevención, mitigación y adaptación.
+   **Retroalimentación:** Para evaluar la preparación del colegio frente a un sismo importa ver la señalización y los simulacros, el plan de emergencia, el estado de la infraestructura y la coordinación con la comunidad y los servicios de emergencia.
 
 7. *(Verdadero o falso)* La deforestación de laderas puede aumentar el
    riesgo de aluviones o inundaciones, porque reduce la capacidad del suelo
@@ -796,7 +796,7 @@ practican simulacros?, ¿hay planes de emergencia comunal?
    c) Ambiental: la evolución del riesgo volcánico puede ser impredecible
    d) Deportiva: el volcán impide practicar deportes
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** Analizar controversias exige sopesar varias dimensiones a la vez.
+   **Retroalimentación:** La controversia tiene una dimensión económica (los agricultores pierden su cosecha) y una ética y social (proteger la vida frente al daño económico, por ejemplo con compensaciones). Analizarla exige considerar ambas.
 
 9. *(Alternativas)* El diseño de nuevos edificios según la Norma Sísmica
    Chilena (NCh433) busca reducir los daños y el riesgo de colapso durante
@@ -828,7 +828,7 @@ practican simulacros?, ¿hay planes de emergencia comunal?
     c) Antropogénicas: la ola de calor y la sequía prolongada. Naturales: los focos intencionales y la expansión de plantaciones forestales cerca de zonas pobladas
     d) Antropogénicas: focos humanos y expansión de plantaciones en la interfaz urbano-forestal. De origen natural (agravadas por el cambio climático): ola de calor y sequía
     **Respuesta correcta:** d) Antropogénicas: focos humanos y expansión de plantaciones en la interfaz urbano-forestal. De origen natural (agravadas por el cambio climático): ola de calor y sequía.
-    **Retroalimentación:** Los grandes desastres rara vez tienen una sola causa.
+    **Retroalimentación:** Los focos humanos y la expansión de plantaciones cerca de las ciudades son causas antropogénicas; la ola de calor y la sequía son de origen natural, aunque agravadas por el cambio climático. El desastre resultó de su combinación.
 
 12. *(Alternativas — Evaluación de evidencia)* Un registro muestra grandes terremotos en Chile: Valdivia 1960 (9.5), Maule 2010 (8.8) e Iquique 2014 (8.2). ¿Qué se puede afirmar con evidencia?
     a) Que el próximo terremoto será en 2030, porque los registros muestran un intervalo regular entre los grandes sismos, lo que permite programar con exactitud las medidas de prevención en cada región
