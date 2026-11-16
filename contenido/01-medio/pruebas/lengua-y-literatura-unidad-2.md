@@ -147,12 +147,12 @@ b) Asegurarse de que cada párrafo se relacione con la hipótesis inicial, sin d
 c) Usar la mayor cantidad posible de citas, sin importar si se relacionan con la hipótesis
 d) Cambiar la postura en cada párrafo, sin tomar una postura final
 
-**15. (Varias correctas)** ¿Por qué es importante citar la fuente de un dato ("según una encuesta de una fundación educativa a 800 estudiantes")? Marca **todas** las correctas.
+**15. (Varias correctas)** Un ensayo dice: «El 40 % de los jóvenes lee menos de un libro al año». Un compañero pide agregar «según la Encuesta de Comportamiento Lector». ¿Qué se gana con esa cita? Marca todas las correctas.
 
-a) Permite evaluar la confiabilidad del dato y distinguirlo de una opinión sin sustento
-b) Es una práctica de honestidad intelectual que reconoce el origen de la información
-c) Fortalece la credibilidad del ensayo
-d) Sirve para alargar el texto sin aportar nada
+a) El lector puede comprobar el dato y juzgar si es confiable
+b) Se reconoce honestamente de dónde viene la información
+c) El argumento se vuelve más creíble
+d) El texto queda más largo, que es lo importante
 
 ---
 
@@ -186,4 +186,4 @@ d) Sirve para alargar el texto sin aportar nada
 
 **14.** b. La coherencia temática exige que todas las partes del ensayo se mantengan enfocadas en el mismo tema central.
 
-**15.** a, b y c — Citar no es una formalidad: fortalece la credibilidad y reconoce el origen de la información.
+**15.** **a, b y c.** a, b y c) Citar la fuente permite verificar el dato, reconoce su origen y da credibilidad al argumento; alargar el texto no es un objetivo de la cita.

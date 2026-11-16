@@ -61,6 +61,13 @@ REVISADAS_A_MANO = {
     "08-basico/pruebas/lengua-y-literatura-unidad-2.md": {2},  # otra frase de hecho verificable
     "08-basico/pruebas/matematica-unidad-geometria.md": {1},  # otros catetos (6 y 8 cm)
     "08-basico/pruebas/matematica-unidad-datos-y-probabilidades.md": {5, 6},  # diagramas de cajón con otros datos
+    "01-medio/pruebas/ingles-unidad-1.md": {2, 10},  # otras oraciones (la papa; el tráfico y el horario)
+    "01-medio/pruebas/ingles-unidad-2.md": {4},  # otro ejemplo cultural (Día de Muertos)
+    "01-medio/pruebas/matematica-unidad-geometria.md": {7, 8},  # otros datos (árbol de 12 m; escala 1:50.000)
+    "01-medio/pruebas/matematica-unidad-numeros-y-operaciones.md": {5},  # otros números (8 × 15)
+    "01-medio/pruebas/matematica-unidad-probabilidad-y-estadistica.md": {1},  # otro evento (impar o un 6)
+    "01-medio/examenes/ingles-examen-forma-b.md": {9, 16},  # otras oraciones (tareas; Día de Muertos)
+    "01-medio/examenes/lengua-y-literatura-examen-forma-b.md": {2},  # otro personaje (la abuela Herminia)
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {8, 15},  # 8: V/F sobre otro poema
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

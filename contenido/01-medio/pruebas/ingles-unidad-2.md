@@ -44,12 +44,12 @@ d) watched / thought
 
 4. *(Verdadero o falso)* La oración *"For instance, in Mexico many families build altars to remember their relatives on the Day of the Dead"* es un buen recurso para ilustrar una idea sobre otra cultura.
 
-5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global issue that worries me is ___. I think we should ___ to solve it."* logically?
+5. *(Alternativas — Escribir siguiendo modelo)* Which option completes "A problem in my city is ___. One solution is to ___." logically?
 
-a) water shortage / waste more water
-b) water shortage / take shorter showers and fix leaks
-c) recycling / throw bottles into the sea
-d) water shortage / ignore it
+a) air pollution / use cars more often
+b) air pollution / burn more garbage
+c) air pollution / use public transport or ride a bike
+d) noise / play louder music
 
 6. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a river full of garbage: *"This picture shows ___. In my opinion, ___ because ___."*
 
@@ -120,7 +120,7 @@ d) make / summer
 
 4. **True (Verdadero).** *For instance* introduce un ejemplo concreto sobre una costumbre cultural.
 
-5. b) water shortage / take shorter showers and fix leaks. El problema y la solución deben estar conectados de forma lógica.
+5. **b) air pollution / burn more garbage.** c) Usar transporte público o bicicleta reduce los gases de los autos, así que es una solución lógica para la contaminación del aire; las demás opciones empeoran el problema.
 
 6. c) Un buen pie de foto describe la imagen, agrega una opinión y la justifica.
 

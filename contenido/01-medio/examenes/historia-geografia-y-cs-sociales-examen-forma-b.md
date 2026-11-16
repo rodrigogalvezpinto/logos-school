@@ -118,13 +118,12 @@ d) Los obreros salitreros
 
 ---
 
-**Pregunta 6.** (2 puntos)
-¿Por qué el período entre la independencia y 1830 se caracteriza como de "ensayos constitucionales" e inestabilidad política en Chile?
+**Pregunta 6.** (2 puntos) Entre 1823 y 1830 Chile tuvo varias constituciones, como la moralista de 1823 y las leyes federales de 1826, y muchos gobiernos breves. ¿Cómo se explica ese período?
 
-a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833
-b) Porque Chile tuvo una única constitución estable desde 1810, pero los gobiernos cambiaban con frecuencia por la falta de recursos para pagar al ejército y a los funcionarios públicos, sin conflictos entre grupos políticos
-c) Porque no existía ningún conflicto entre grupos políticos: todos compartían el mismo proyecto de país, y la inestabilidad se debió solo a los terremotos y a las malas cosechas que afectaron al territorio en esos años
-d) Porque Chile seguía bajo dominio español hasta 1830, y los ensayos constitucionales fueron reglamentos dictados por el virrey del Perú para administrar el territorio mientras se negociaba la independencia
+a) Había que construir un orden político nuevo y los grupos no se ponían de acuerdo sobre cómo organizar el país
+b) Chile tuvo una sola constitución estable desde 1810
+c) No había conflictos y todos compartían el mismo proyecto
+d) Chile seguía bajo dominio español
 
 ---
 
@@ -397,7 +396,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 3  | Alternativas | d) La unificación de múltiples Estados italianos antes fragmentados bajo un solo gobierno soberano. Italia estaba dividida en varios Estados; entre 1861 y 1870 se unificó en un solo Estado-nación, igual que Alemania en 1871. | OA 3 | Historia | 1 |
 | 4  | Alternativas | d) La crisis de la idea de progreso propia del siglo XIX. Los millones de muertos y la destrucción de la Primera Guerra Mundial hicieron dudar de la fe del siglo XIX en un progreso continuo de la humanidad. | OA 7 | Historia | 1 |
 | 5  | Alternativas | c) Los pelucones y estanqueros. Los pelucones (conservadores) y los estanqueros querían un Ejecutivo fuerte y centralizado; los pipiolos (liberales) preferían más libertades y descentralización. | OA 8 | Historia | 1 |
-| 6 | Alternativas | **a) Porque hubo que construir un orden político desde cero, con sucesivas constituciones y gobiernos breves, en medio del choque entre pipiolos y pelucones/estanqueros, resuelto tras Lircay (1830) y la Constitución de 1833.** Tras la independencia hubo que crear un orden político nuevo: se ensayaron varias constituciones y gobiernos hasta que, tras Lircay (1830), se impuso el orden conservador. | OA 8 | Historia | 2 |
+| 6 | Alternativas | **a) Había que construir un orden político nuevo y los grupos no se ponían de acuerdo sobre cómo organizar el país.** a) Tras la independencia hubo que crear un orden político desde cero; los distintos proyectos (conservador, liberal, federal) chocaron y se sucedieron ensayos constitucionales hasta 1830. | OA 8 | Historia | 2 |
 | 7  | Alternativas | d) California y Australia. Las fiebres del oro de California (1848) y Australia (1851) aumentaron la demanda de alimentos, y Chile exportó trigo y harina a esos mercados. | OA 10 | Historia | 1 |
 | 8  | Alternativas | b) La economía salitrera era capital-intensiva y de trabajo asalariado, mientras la hacienda era tradicional y se basaba en el inquilinaje. El salitre exigía mucho capital, maquinaria y trabajadores asalariados; la hacienda se basaba en la tierra y en el inquilinaje, con poca inversión. | OA 10 | Historia | 1 |
 | 9  | Alternativas | d) Temuco. Temuco se fundó en 1881 como fuerte, durante la ocupación de la Araucanía, y se convirtió en el centro de la presencia del Estado en la zona. | OA 14 | Historia | 1 |

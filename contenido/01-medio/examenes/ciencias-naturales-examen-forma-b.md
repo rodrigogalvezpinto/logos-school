@@ -108,15 +108,12 @@ b) La fotosíntesis en las hojas de las plantas
 c) La bioacumulación en las cadenas tróficas
 d) La respiración celular de los descomponedores
 
-**8.** *(Alternativas)* En una red trófica, los productores de un ecosistema
-almacenan 50.000 kcal de energía. Si la eficiencia de transferencia entre niveles
-tróficos es de aproximadamente 10%, ¿cuánta energía estará disponible para los
-**consumidores secundarios** (dos niveles tróficos más arriba que los productores)?
+**8.** *(Alternativas)* En un humedal, las plantas acuáticas almacenan 200.000 kcal. Si la eficiencia de transferencia entre niveles tróficos es de cerca del 10 %, ¿cuánta energía llega a los consumidores secundarios (por ejemplo, las garzas que comen peces)?
 
-a) 50.000 kcal
-b) 5.000 kcal
-c) 500 kcal
-d) 50 kcal
+a) 200.000 kcal
+b) 20.000 kcal
+c) 2.000 kcal
+d) 200 kcal
 
 **9.** *(Alternativas, 2 puntos)* Una fábrica vierte pequeñas cantidades de mercurio en un río. Años después, los peces grandes que comen otros peces tienen mucho más mercurio que el agua. ¿Qué explica este resultado?
 
@@ -212,12 +209,12 @@ b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas
 c) El Sol se ubica entre la Tierra y la Luna, iluminando la cara oculta de la Luna durante el día
 d) Ocurre siempre en fase de luna llena, cuando la Luna refleja toda la luz del Sol hacia la Tierra
 
-**18.** *(Alternativas, 2 puntos)* Comparada con la Tierra, Marte está más lejos del Sol. ¿Qué relación hay entre esa distancia y su período orbital?
+**18.** *(Alternativas, 2 puntos)* Venus está más cerca del Sol que la Tierra. ¿Qué relación hay entre esa distancia y su período orbital?
 
-a) Su período es menor, porque al estar más lejos del Sol se mueve más rápido en su órbita
-b) Su período es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento
-c) Su período es igual al de la Tierra, porque todos los planetas tardan un año en dar la vuelta
-d) La distancia no tiene relación con el período orbital, que depende solo del tamaño del planeta
+a) Su período es mayor, porque al estar más cerca se mueve más lento
+b) Su período es menor (unos 225 días), porque recorre una órbita más pequeña y se mueve más rápido
+c) Su período es igual al de la Tierra: todos los planetas tardan un año
+d) La distancia no influye; el período depende solo del tamaño del planeta
 
 ---
 
@@ -315,7 +312,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 5 | Alternativas | c) Una comunidad. Todas las poblaciones de distintas especies de un lugar forman una comunidad; si se agregan los factores no vivos (agua, suelo, clima), se habla de ecosistema. | OA 4 |
 | 6 | Alternativas | **d) Sin depredación, la presa crece sin control y consume más vegetación: una cascada trófica.** La pérdida de un depredador altera indirectamente otros niveles del ecosistema. | OA 4 |
 | 7 | Alternativas | a) La fijación de nitrógeno por bacterias. Algunas bacterias del suelo y de las raíces de leguminosas transforman el N₂ del aire en compuestos, como el amonio y los nitratos, que las plantas pueden absorber. | OA 6 |
-| 8 | Alternativas | c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios) | OA 6 |
+| 8 | Alternativas | **c) 2.000 kcal.** c) Productores → consumidores primarios: 10 % de 200.000 = 20.000 kcal; → consumidores secundarios: 10 % de 20.000 = 2.000 kcal. | OA 6 |
 | 9 | Alternativas | **d) La biomagnificación: el contaminante se concentra más en cada nivel trófico superior.** Cada depredador acumula el mercurio de todas sus presas. | OA 6 |
 | 10 | Alternativas | **c) El carbón mineral.** Es un recurso no renovable, como el petróleo y el gas natural. | OA 8 |
 | 11 | Alternativas | **c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes, tiene costos de construcción y mantención y puede afectar el ecosistema del río.** Un embalse guarda agua para la sequía, pero depende de que llueva para llenarse, inunda terrenos y altera el río: una buena evaluación considera ventajas y limitaciones. | OA 8 |
@@ -325,7 +322,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 15 | Alternativas | b) Espejo cóncavo. El espejo cóncavo, curvado hacia adentro, forma una imagen ampliada y derecha cuando el objeto está muy cerca, más cerca que su foco. | OA 11 |
 | 16 | Alternativas | **d) Que el universo se está expandiendo.** Que todas las galaxias lejanas se alejen, más rápido cuanto más lejos están, es evidencia de la expansión. | OA 11 |
 | 17 | Alternativas | b) La Luna se ubica entre el Sol y la Tierra, bloqueando la luz solar en ciertas zonas de la Tierra. En un eclipse solar la Luna se interpone entre el Sol y la Tierra y su sombra cae sobre una zona de la Tierra; ocurre en luna nueva. | OA 14 |
-| 18 | Alternativas | **b) Su período es mayor (unos 687 días), porque recorre una órbita más grande y se mueve más lento.** A mayor distancia al Sol, mayor período orbital. | OA 14 |
+| 18 | Alternativas | **b) Su período es menor (unos 225 días), porque recorre una órbita más pequeña y se mueve más rápido.** b) Mientras más cerca del Sol, más corta es la órbita y más rápido se mueve el planeta: Venus da una vuelta en unos 225 días, menos que el año terrestre. | OA 14 |
 | 19 | Alternativas | b) El radiotelescopio. El radiotelescopio capta ondas de radio emitidas por los astros, una radiación que el ojo y los telescopios ópticos no detectan. | OA 16 |
 | 20 | Alternativas | **c) Que la observación sistemática del cielo durante generaciones produjo un conocimiento útil para la vida comunitaria.** Es un saber que permite valorar otras formas de conocimiento astronómico. | OA 16 |
 | 21 | Alternativas | b) Descomposición. Una sola sustancia (H₂O₂) se separa en dos más simples (H₂O y O₂): es una reacción de descomposición. | OA 17 |
