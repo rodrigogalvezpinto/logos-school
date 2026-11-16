@@ -1787,3 +1787,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Mapas nuevos (pendiente 6.4 cerrado).** Regiones `mesoamerica` y `mediterraneo` generadas desde Natural Earth
   (world-atlas@2.0.2); las regiones existentes quedaron idénticas (verificado). Dos preguntas de la guía de Historia de
   7.° básico pasan de «imagina un mapa» a un mapa dibujado. Frontend unitario 142/142.
+- **Cierre, paso 1: validación en los 3 navegadores (Chromium, Firefox, WebKit) de los 12 cursos con el material final,
+  en verde** (54/54 en 1.° a 4.° básico; 72/72 de 5.° básico a 2.° medio; 75/75 en 3.° medio; 69/69 en 4.° medio). Una
+  primera corrida falló en 7.° básico porque la SPA de pruebas era una compilación anterior a los mapas; recompilada, pasó.

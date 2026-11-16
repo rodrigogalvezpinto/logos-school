@@ -103,7 +103,7 @@ Verifican con el parser antes de escribir y conservan la letra de la clave, para
 | Letra de la clave y V/F | ✅ equilibradas (alternativas 23–29 % por letra en pruebas y guías) |
 | Defectos de texto en pautas (letras falsas, huérfanas, «Retroalimentación:», títulos en estímulos) | ✅ corregidos (guardas en pytest) |
 | Solo preguntas cerradas; instrucciones sin «desarrollo» | ✅ |
-| Tablas/citas se ven bien en la app | ✅ (Chromium 12/12; 3 navegadores en 1.° básico y 3.° medio) |
+| Tablas/citas se ven bien en la app | ✅ (3 navegadores, 12 cursos, 2026-11-16) |
 | B — gráficos y mapas dibujados | ✅ (incluye Mesoamérica y Mediterráneo desde 2026-11-16) |
 | D — 21 marcadores `[Imagen: …]` en 1.° a 3.° básico (contados 2026-11-16) | ⏳ **espera decisión del dueño** sobre la fuente de las ilustraciones |
 | Revisión docente por muestreo | ⏳ muestra regenerada y revisada por mí en los 12 cursos (lo hallado, corregido); falta un profesor |
@@ -208,7 +208,7 @@ Para **ver** un mapa sin levantar la app: `cd frontend && npx esbuild src/app/sh
 guardar el SVG en un .html y capturarlo con `npx playwright screenshot`.
 
 ### 6.5 Cierre de Fase 1
-1. Validación en los 3 navegadores de los 12 cursos (`NAVEGADORES=todos scripts/qa/validar_material.sh`).
+1. ✅ (2026-11-16) Validación en los 3 navegadores de los 12 cursos con el material final: 54 pruebas por curso en 1.° a 4.° básico, 72 en 5.° básico a 2.° medio, 75 en 3.° medio y 69 en 4.° medio, todas en verde. Ojo: después de cambiar el frontend hay que recompilar la SPA de pruebas (`scripts/qa/levantar_spa.sh`); si no, la validación usa la compilación anterior.
 2. Regenerar audios de lectura en voz alta (solo 1.° a 4.° básico, régimen A): `DATABASE_URL=<base con el contenido final> scripts/voz/generar_audios.sh`. Usa Kokoro (gratis, local; la primera vez descarga ≈350 MB en `~/.cache/logos-voz`) y solo genera los que faltan; con la lista completa de niveles, `LIMPIAR_HUERFANOS=1` borra los de textos que ya no existen. Salida en `frontend/public/audio/es/` (no versionada).
 3. Recargar `logos_qa` del dueño con el contenido final (respaldo antes).
 4. Tag Git `material-aprobado-AAAA-MM-DD` con un informe breve por curso.
