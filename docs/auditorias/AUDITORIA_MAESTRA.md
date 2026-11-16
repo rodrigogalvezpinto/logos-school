@@ -1777,3 +1777,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **C.6 cerrado: sesgo de longitud.** 495 alternativas de pruebas y simulacros y 33 de guías corregidas alargando
   distractores (errores plausibles, sin tocar la clave). Quedan 3 excepciones legítimas (citas textuales). Guarda nueva en
   pytest con las excepciones explícitas. Letra de la clave en alternativas: a 24 %, b 29 %, c 25 %, d 23 %; V/F 176/165.
+- **C.7 (nuevo): simulacros que repetían una prueba del mismo curso.** Medición: 13 pares con enunciado casi igual
+  (≥ 0,85) y la misma clave. 8 eran repeticiones reales (2 causadas por rehechas de esta sesión) y se rehicieron con datos
+  nuevos; 5 son plantillas con otros datos o textos (`SIMULACRO_PRUEBA_REVISADAS`). Criterio y guarda nuevos en pytest.

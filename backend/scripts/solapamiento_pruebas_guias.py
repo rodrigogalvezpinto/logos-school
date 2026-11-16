@@ -212,6 +212,36 @@ def lecturas_copiadas(curso: Path, carpeta: str) -> dict[str, int]:
     return resultado
 
 
+# Simulacros que se parecen a una prueba del mismo curso, pero son plantillas con otros datos (revisadas a mano).
+SIMULACRO_PRUEBA_REVISADAS: dict[str, set[int]] = {
+    "01-basico/examenes/examen-integrado-forma-b.md": {13},      # otras longitudes (7 y 4) y pregunta inversa
+    "01-medio/examenes/lengua-y-literatura-examen-forma-b.md": {19},  # otra noticia (la ciclovía)
+    "02-medio/examenes/matematica-examen-forma-b.md": {18},      # seno, no coseno
+    "04-basico/examenes/examen-integrado-forma-a.md": {1},       # otro número (6.813)
+    "08-basico/examenes/lengua-y-literatura-examen-forma-b.md": {19},  # misma pregunta general sobre otros textos (radio comunal)
+}
+
+
+def simulacro_repite_prueba(curso: Path) -> dict[str, list[int]]:
+    """Quinto criterio (2026-11-16): una pregunta de simulacro casi igual (≥ 0,85) a una de las pruebas de unidad del
+    mismo curso y con la misma respuesta correcta. El alumno que hace ambas vería dos veces la misma pregunta."""
+    pruebas = []
+    for ruta in sorted((curso / "pruebas").glob("*.md")):
+        for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            pruebas.append((normalizar(p.enunciado.split("\n\n")[-1]), r.respuesta_correcta))
+    resultado: dict[str, list[int]] = {}
+    for ruta in sorted((curso / "examenes").glob("*.md")):
+        rel = str(ruta.resolve().relative_to(CONTENIDO))
+        for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if p.numero in SIMULACRO_PRUEBA_REVISADAS.get(rel, set()):
+                continue
+            e = normalizar(p.enunciado.split("\n\n")[-1])
+            if len(e) > 30 and any(k == r.respuesta_correcta and SequenceMatcher(None, e, pe).ratio() >= 0.85
+                                   for pe, k in pruebas):
+                resultado.setdefault(rel, []).append(p.numero)
+    return resultado
+
+
 def solapamiento(curso: Path, carpeta: str = "pruebas") -> tuple[int, int, dict[str, list[int]]]:
     guia = {huella(q.enunciado, q.opciones) for ruta in curso.glob("*.md")
             for oa in parsear_guia(ruta.read_text(encoding="utf-8")) for q in oa.preguntas}

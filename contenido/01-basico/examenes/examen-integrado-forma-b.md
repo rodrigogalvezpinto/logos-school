@@ -166,10 +166,10 @@ c) Guardar la regadera
 
 ---
 
-**15.** ::dibujo::🌙⭐✨:: ¿Este cielo corresponde al día o a la noche?
+**15.** ::dibujo::☀️☁️:: ¿Este cielo corresponde al día o a la noche?
 
-a) Al día
-b) A la noche
+a) A la noche
+b) Al día
 c) No se puede saber
 
 ---
@@ -246,7 +246,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Historia, Geografía y Cs. Sociales | **a, b y c.** Camino, vegetación y cordillera son palabras geográficas para describir un paisaje; un cumpleaños es una celebración. | OA 10 — Paisajes de mi entorno |
 | 13 | Matemática | **b) El lápiz B.** Los dos parten del mismo punto y el lápiz B llega menos lejos: es el más corto. | OA 18 — Comparar la longitud de objetos |
 | 14 | Lenguaje y Comunicación | **b) Llenar la regadera con agua.** Es el paso número 1 de las instrucciones. | OA N°10 — Instrucciones |
-| 15 | Ciencias Naturales | **b) A la noche.** El cielo oscuro con la Luna y las estrellas corresponde a la noche. | OA 11 — El día y la noche |
+| 15 | Ciencias Naturales | **b) Al día.** El Sol brilla en el cielo: eso pasa de día. En la noche se ven la Luna y las estrellas. | OA 11 — El día y la noche |
 | 16 | Historia, Geografía y Cs. Sociales | **b) En voz baja, para no molestar a quienes leen.** Es una norma de convivencia que respeta a los demás. | OA 14 — Normas para convivir bien |
 | 17 | Matemática | **c) 6.** En la fila de "Perro" hay 6 dibujos, y como cada dibujo representa 1 niño, la respuesta es 6 niños. | OA 20 — Construir, leer e interpretar pictogramas |
 | 18 | Ciencias Naturales | **a) Al mediodía, cuando el Sol está alto.** De día el Sol calienta el ambiente; en la noche y antes del amanecer hace más frío. | OA 11 — El día y la noche |

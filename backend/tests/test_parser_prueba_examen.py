@@ -1050,3 +1050,15 @@ def test_alternativas_sin_sesgo_de_longitud():
             if tipo == "alternativas" and sesgada(opciones, clave) and (rel, ident) not in excepciones:
                 hallazgos.append(f"{rel} {ident}")
     assert hallazgos == []
+
+
+def test_los_simulacros_no_repiten_las_pruebas_del_curso():
+    # 2026-11-16: 8 preguntas de simulacro eran iguales a una de las pruebas de unidad del mismo curso (mismos datos y
+    # misma clave); el alumno las veía dos veces. Plantillas con otros datos: SIMULACRO_PRUEBA_REVISADAS.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from solapamiento_pruebas_guias import simulacro_repite_prueba
+    hallazgos = {}
+    for curso in sorted(p for p in CONTENIDO.iterdir() if p.is_dir() and (p / "examenes").exists()):
+        hallazgos.update(simulacro_repite_prueba(curso))
+    assert hallazgos == {}

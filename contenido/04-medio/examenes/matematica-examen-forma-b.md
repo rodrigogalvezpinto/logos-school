@@ -195,12 +195,12 @@ d) 50%
 
 ---
 
-**Pregunta 19 (alternativas).** En un modelo binomial con n=20 y p=0,25, ¿cuál es el valor esperado (media) del número de éxitos?
+**Pregunta 19 (alternativas).** En un modelo binomial con n = 30 y p = 0,4, ¿cuál es el valor esperado (media) del número de éxitos?
 
-a) 20
-b) 15
-c) 5
-d) 0,25
+a) 30
+b) 18
+c) 12
+d) 0,4
 
 ---
 
@@ -290,7 +290,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 16 | **c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar.** Las mareas se repiten en ciclos (modelo trigonométrico); una sustancia que se reduce a la mitad cada cierto tiempo sigue un modelo exponencial decreciente. | OA 3 | Álgebra y Funciones |
 | 17 | b) el peso en gramos de 300 sandías cosechadas en un campo (variable continua que se distribuye simétricamente en torno a un promedio) | OA 2 | Probabilidad y Estadística |
 | 18 | b) 95%. En una distribución normal, cerca del 68% de los datos está a una desviación estándar de la media, el 95% a dos y el 99,7% a tres. | OA 2 | Probabilidad y Estadística |
-| 19 | c) 5 (μ = n×p = 20×0,25 = 5) | OA 2 | Probabilidad y Estadística |
+| 19 | **c) 12.** El valor esperado de una binomial es n · p = 30 · 0,4 = 12. 18 sería el número esperado de fracasos. | OA 2 | Probabilidad y Estadística |
 | 20 | b) la muestra tiene sesgo de selección: son seguidores del producto, no representan a toda la población. Encuestar solo a seguidores de la cuenta del producto produce un sesgo de selección: no representan a todos los usuarios. | OA 2 | Probabilidad y Estadística |
 | 21 | **a) 28/256 ≈ 10,94%.** C(8,6) = 28; P(X=6) = 28×(0,5)⁸ = 28/256 ≈ 0,1094. | OA 2 | Probabilidad y Estadística |
 | 22 | **d) μ = 9 y σ ≈ 2,95.** μ = np = 9; σ² = np(1−p) = 8,73; σ = √8,73 ≈ 2,95. 8,73 es la varianza, no la desviación estándar. | OA 2 | Probabilidad y Estadística |

@@ -114,12 +114,12 @@ d) ≈ 12 años
 
 ## Eje 2: Geometría — Relaciones métricas en la circunferencia
 
-**Pregunta 9 (alternativas).** Un ángulo central mide 110°. ¿Cuánto mide el arco que subtiende?
+**Pregunta 9 (alternativas).** Un ángulo central mide 75°. ¿Cuánto mide el arco que subtiende?
 
-a) 55°
-b) 110°
-c) 220°
-d) 70°
+a) 37,5°
+b) 75°
+c) 150°
+d) 105°
 
 ---
 
@@ -177,12 +177,12 @@ d) 85°
 
 ---
 
-**Pregunta 16 (alternativas).** Desde un punto exterior, una tangente mide 10 cm y una secante tiene parte externa de 5 cm. ¿Cuánto mide la secante completa?
+**Pregunta 16 (alternativas).** Desde un punto exterior P, se traza una tangente de 6 cm y una secante cuya parte externa mide 4 cm. ¿Cuánto mide la secante completa?
 
-a) 15 cm
-b) 20 cm
-c) 25 cm
-d) 50 cm
+a) 10 cm
+b) 9 cm
+c) 24 cm
+d) 2,25 cm
 
 ---
 
@@ -299,14 +299,14 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | **d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período.** 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. | OA 3 | Álgebra y Funciones |
 | 7 | **b) ≈ 57 mg; ≈ 68,3%.** (0,75)⁴ ≈ 0,3164 → ≈ 57 mg; se eliminaron ≈ 123 mg (68,3%); 31,6% es lo que queda. | OA 3 | Álgebra y Funciones |
 | 8 | **b) ≈ 5,4 años.** t = log 0,5 / log 0,88 ≈ (−0,3010)/(−0,0555). | OA 3 | Álgebra y Funciones |
-| 9 | **b) 110°.** El ángulo central mide lo mismo que el arco que subtiende. | OA 4 | Geometría |
+| 9 | **b) 75°.** El arco mide lo mismo que su ángulo central: 75°. 37,5° sería un ángulo inscrito y 150° el doble. | OA 4 | Geometría |
 | 10 | **c) 70°.** El ángulo inscrito mide la mitad del arco que subtiende: 140° ÷ 2 = 70°. | OA 4 | Geometría |
 | 11 | **a) 60°.** El ángulo semiinscrito mide la mitad del arco que abarca: 120° ÷ 2 = 60°. | OA 4 | Geometría |
 | 12 | **b) 45°.** Una vuelta completa mide 360°; dividida en 8 partes iguales: 360° ÷ 8 = 45°. | OA 4 | Geometría |
 | 13 | **c) 65°.** El ángulo interior mide la semisuma de los arcos: (80° + 50°) ÷ 2 = 65°. | OA 4 | Geometría |
 | 14 | **a) 8 cm.** Teorema de las cuerdas: 6 · 4 = 3 · x → x = 24 ÷ 3 = 8 cm. | OA 4 | Geometría |
 | 15 | **b) 50°.** El ángulo exterior es la semidiferencia de los arcos: (170° − 70°)/2 = 50°. 120° sería la semisuma, propia del ángulo interior. | OA 4 | Geometría |
-| 16 | **b) 20 cm.** Teorema de la tangente y la secante: 10² = 5 · x → x = 100 ÷ 5 = 20 cm. | OA 4 | Geometría |
+| 16 | **b) 9 cm.** Por el teorema de la tangente y la secante: 6² = 4 · s, así que s = 36 ÷ 4 = 9 cm. Sumar 6 + 4 = 10 no aplica el teorema. | OA 4 | Geometría |
 | 17 | **a) 8 cm.** Por el teorema de la tangente y la secante: t² = (parte externa) × (secante completa) = 4 × 16 = 64, así que t = 8 cm. | OA 4 | Geometría |
 | 18 | **c) 12.** Rango = máximo − mínimo = 15 − 3 = 12. | OA 2 | Probabilidad y Estadística |
 | 19 | **b) 10,67.** Media = 6; desviaciones al cuadrado: 16, 0 y 16; suma = 32; varianza = 32 ÷ 3 ≈ 10,67. 3,27 es la desviación estándar y 6 es la media. | OA 2 | Probabilidad y Estadística |

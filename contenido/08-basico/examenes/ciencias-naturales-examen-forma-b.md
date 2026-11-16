@@ -167,12 +167,12 @@ d) Porque la adicción solo ocurre si se fuma todos los días durante muchos añ
 
 ### OA N°10 — Circuitos eléctricos: en serie, en paralelo y domiciliario
 
-**14.** *(Alternativas)* Según la Ley de Ohm (V = I × R), una ampolleta tiene una resistencia de 60 ohms y por ella circula una corriente de 2 amperes. ¿Cuál es el voltaje?
+**14.** *(Alternativas)* Según la Ley de Ohm (V = I × R), un calefactor tiene una resistencia de 45 ohms y por él circula una corriente de 4 amperes. ¿Cuál es el voltaje?
 
-a) 120 volts
-b) 62 volts
-c) 30 volts
-d) 0,03 volts
+a) 180 volts
+b) 49 volts
+c) 11,25 volts
+d) 0,09 volts
 
 **15.** *(Alternativas)* ¿Qué ocurre en un circuito conectado en serie si uno de sus
 componentes falla?
@@ -306,7 +306,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 11 | Alternativas | **b) Huevos, legumbres y pescado, con función constructora.** Las proteínas aportan el material para formar y reparar tejidos. | OA 7 |
 | 12 | Alternativas | b) La salud es un estado de bienestar físico, mental y social. La salud no es solo la ausencia de enfermedad: es un estado de bienestar físico, mental y social. | OA 7 |
 | 13 | Alternativas | **a) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.** Fumar de forma ocasional ya expone al cuerpo a sustancias tóxicas, y la nicotina puede generar dependencia rápidamente, sobre todo en adolescentes. | OA 7 |
-| 14 | Alternativas | **a) 120 volts.** V = I × R = 2 A × 60 Ω = 120 V. Sumar (62) o dividir (30) no aplica la ley. | OA 10 |
+| 14 | Alternativas | **a) 180 volts.** V = I × R = 4 A × 45 Ω = 180 V. Sumar (49) o dividir (11,25) no aplica la ley. | OA 10 |
 | 15 | Alternativas | b) Se interrumpe el funcionamiento de todo el circuito. En un circuito en serie la corriente pasa por un solo camino; si un componente falla, el camino se corta y se apaga todo. | OA 10 |
 | 16 | Alternativas | **d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado.** En serie, una falla interrumpiría el único camino y se apagarían todas. | OA 10 |
 | 17 | Alternativas | **b) 5 A; la potencia indica la rapidez con que un dispositivo consume o transforma energía eléctrica.** I = P / V = 1.100 W / 220 V = 5 A; a mayor potencia, mayor energía consumida por unidad de tiempo. | OA 10 |

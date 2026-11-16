@@ -99,6 +99,7 @@ Verifican con el parser antes de escribir y conservan la letra de la clave, para
 | C.4c — explicaciones de pruebas no genéricas | ✅ 50 reescritas (guarda en pytest) |
 | C.5 — sin sesgo de posición en «varias correctas» | ✅ 256 rotadas (guarda: ningún patrón > 30 %) |
 | C.6 — sin sesgo de longitud | ✅ 528 corregidas; 3 excepciones de citas textuales (guarda en pytest) |
+| C.7 — los simulacros no repiten las pruebas del mismo curso | ✅ 8 rehechas, 5 plantillas revisadas (guarda en pytest) |
 | Letra de la clave y V/F | ✅ equilibradas (alternativas 23–29 % por letra en pruebas y guías) |
 | Defectos de texto en pautas (letras falsas, huérfanas, «Retroalimentación:», títulos en estímulos) | ✅ corregidos (guardas en pytest) |
 | Solo preguntas cerradas; instrucciones sin «desarrollo» | ✅ |
@@ -243,5 +244,7 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
   («El petróleo. tardó…»). Revisar siempre una muestra del `git diff` y buscar oraciones que empiecen en minúscula.
 - **Dos textos pueden empezar igual.** `retro_guia.cambiar` reemplazó una vez la retroalimentación de otra pregunta que
   compartía las primeras palabras; ahora exige una ubicación única y verifica que cambió la pregunta buscada.
+- **Al rehacer, comparar con TODO el material del curso:** la guía (detector C.2) y también las pruebas cuando se rehace
+  un simulacro (C.7). El 2026-11-16 dos simulacros rehechos quedaron iguales a una prueba y dos datos nuevos, iguales a la guía.
 - **Revisar el sesgo de longitud de lo rehecho:** la correcta tiende a quedar más larga y detallada. Medir con
   `ajustar_distractores.sesgada` y alargar distractores con `aplicar_en` (sin tocar la clave).

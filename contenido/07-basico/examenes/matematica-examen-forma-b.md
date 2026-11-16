@@ -82,12 +82,12 @@ d) 24
 
 ---
 
-**Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 25% de $48.000?
+**Pregunta 7 (alternativas).** Usando la relación entre porcentajes y divisiones, ¿cuál es el 10% de $63.000?
 
-a) $12.000
-b) $4.800
-c) $24.000
-d) $1.920
+a) $6.300
+b) $630
+c) $63.000
+d) $5.300
 
 ---
 
@@ -111,12 +111,12 @@ d) $36.000
 
 ## Eje 2: Patrones y Álgebra
 
-**Pregunta 10 (alternativas).** ¿Qué expresión algebraica representa "el triple de un número, disminuido en 4"?
+**Pregunta 10 (alternativas).** ¿Qué expresión algebraica representa "el doble de un número, aumentado en 5"?
 
-a) 3x − 4
-b) 3(x − 4)
-c) x³ − 4
-d) 4 − 3x
+a) 2x + 5
+b) 2(x + 5)
+c) x² + 5
+d) 5 − 2x
 
 ---
 
@@ -138,12 +138,12 @@ d) x + (x + 1) + (x + 2) = 48; 16, 17 y 18
 
 ---
 
-**Pregunta 13 (alternativas).** Si 4 cuadernos cuestan $6.000, ¿cuánto cuestan 7 cuadernos (manteniendo la misma proporción)?
+**Pregunta 13 (alternativas).** Si 3 lápices cuestan $1.800, ¿cuánto cuestan 8 lápices (manteniendo la misma proporción)?
 
-a) $12.000
-b) $10.500
-c) $9.000
-d) $7.000
+a) $5.400
+b) $4.800
+c) $2.400
+d) $14.400
 
 ---
 
@@ -286,13 +286,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | c) 1/6 ((3×2)/(4×9)=6/36, simplificado dividiendo por 6 = 1/6) | OA 3 | Números y Operaciones |
 | 5 | **c) 14.** Amplificando ambos números por 10 se elimina la coma: 84 ÷ 6 = 14. El resultado no cambia porque se multiplicó el dividendo y el divisor por el mismo número. | OA 3 | Números y Operaciones |
 | 6 | **c) 6.** 3/4 ÷ 1/8 = 3/4 × 8/1 = 24/4 = 6. Dividir el total por el tamaño de cada trozo indica cuántos caben; 3/32 resulta de multiplicar en vez de dividir. | OA 3 | Números y Operaciones |
-| 7 | **a) $12.000.** El 25% equivale a la cuarta parte: 48.000 ÷ 4 = 12.000. $4.800 es el 10% y $24.000, el 50%. | OA 4 | Números y Operaciones |
+| 7 | **a) $6.300.** El 10% es la décima parte: $63.000 ÷ 10 = $6.300. $630 sería el 1%. | OA 4 | Números y Operaciones |
 | 8 | **d) $210.000.** Interés: 0,05 × 200.000 = 10.000; total: 200.000 + 10.000 = $210.000. $205.000 confunde 5% con $5.000 y $10.000 es solo el interés. | OA 4 | Números y Operaciones |
 | 9 | **b) $39.600.** Tras el alza: 40.000 + 4.000 = 44.000; tras la baja: 44.000 − 4.400 = $39.600. Subir y bajar el mismo porcentaje no deja el precio igual, porque el segundo porcentaje se calcula sobre otro valor. | OA 4 | Números y Operaciones |
-| 10 | **a) 3x − 4.** «El triple de un número» es 3x y «disminuido en 4» resta 4 al resultado: 3x − 4. 3(x − 4) restaría 4 antes de triplicar. | OA 6 | Patrones y Álgebra |
+| 10 | **a) 2x + 5.** Primero se duplica el número (2x) y luego se suma 5: 2x + 5. 2(x + 5) duplicaría también el 5. | OA 6 | Patrones y Álgebra |
 | 11 | **d) 3n + 4.** Cada figura agrega 3 fósforos, así que la expresión es 3n + algo. Para n = 1 debe dar 7: 3·1 + 4 = 7. Comprobación: 3·2 + 4 = 10 y 3·3 + 4 = 13. | OA 6 | Patrones y Álgebra |
 | 12 | **c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17.** x + (x + 1) + (x + 2) = 48 → 3x + 3 = 48 → x = 15; los números son 15, 16 y 17 (suman 48). | OA 6 | Patrones y Álgebra |
-| 13 | **b) $10.500.** Cada cuaderno cuesta $6.000 ÷ 4 = $1.500, y 7 × $1.500 = $10.500. | OA 8 | Patrones y Álgebra |
+| 13 | **b) $4.800.** Cada lápiz cuesta $1.800 ÷ 3 = $600, y 8 × $600 = $4.800. | OA 8 | Patrones y Álgebra |
 | 14 | **a) Proporcionalidad directa.** Si compras el doble de cuadernos pagas el doble: ambas cantidades varían en la misma razón (proporcionalidad directa). | OA 8 | Patrones y Álgebra |
 | 15 | **d) 9 horas.** Es proporcionalidad inversa: llaves × horas es constante, 3 × 12 = 36; con 4 llaves, 36 ÷ 4 = 9 horas. 16 horas sería tratarla como directa. | OA 8 | Patrones y Álgebra |
 | 16 | **c) 60 cm.** El diámetro mide el doble del radio: 2 × 30 = 60 cm. 188,4 cm es el perímetro y 900 es el radio al cuadrado. | OA 11 | Geometría |
