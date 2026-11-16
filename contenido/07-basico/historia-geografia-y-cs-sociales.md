@@ -195,7 +195,7 @@ c) Porque permitió que no todas las personas se dedicaran a producir alimento, 
 d) Porque eliminó cualquier diferencia de tareas entre las personas, de modo que todos compartían por igual la artesanía, el comercio y la religión
 
 ✅ Respuesta correcta: **c) Porque permitió que no todas las personas se dedicaran a producir alimento, liberando tiempo para la artesanía, el comercio, la administración o la religión**
-💬 *Retroalimentación:* Los excedentes sentaron las bases de una mayor división del trabajo y, con ella, de una mayor complejidad social.
+💬 *Retroalimentación:* Cuando se produjo más alimento del necesario, ya no todos tuvieron que dedicarse a cultivar: algunas personas pudieron ser artesanos, comerciantes, administradores o sacerdotes. Esa división del trabajo hizo más compleja a la sociedad.
 
 ---
 
@@ -311,7 +311,7 @@ c) Porque impidió que se desarrollara el comercio entre ciudades
 d) Porque permitió registrar y controlar recursos, tributos, transacciones comerciales y leyes en sociedades cada vez más numerosas
 
 ✅ Respuesta correcta: **d) Porque permitió registrar y controlar recursos, tributos, transacciones comerciales y leyes en sociedades cada vez más numerosas**
-💬 *Retroalimentación:* La escritura surgió, en buena medida, ligada a necesidades administrativas concretas.
+💬 *Retroalimentación:* En sociedades cada vez más grandes, había que llevar la cuenta de cosechas, tributos, intercambios y leyes; la contabilidad y la escritura permitieron registrarlos y controlarlos. Por eso la escritura nació muy ligada a la administración.
 
 ---
 

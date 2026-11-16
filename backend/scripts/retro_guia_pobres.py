@@ -62,6 +62,19 @@ REVISADAS_A_MANO: list[tuple[str, str]] = [
     ("06-basico/lenguaje-y-comunicacion.md", "¿Cuál de estos versos usa una hipérbole"),
     ("06-basico/lenguaje-y-comunicacion.md", "Fragmento: \"Sofía y Valentina"),
     ("06-basico/lenguaje-y-comunicacion.md", "¿Cuál de las siguientes oraciones usa vocabulario variado"),
+    ("07-basico/historia-geografia-y-cs-sociales.md", "¿Por qué el ejército romano"),
+    ("07-basico/historia-geografia-y-cs-sociales.md", "¿Qué tres tradiciones confluyen"),
+    ("07-basico/historia-geografia-y-cs-sociales.md", "Imagina un mapa que muestra las principales civilizaciones"),
+    ("07-basico/historia-geografia-y-cs-sociales.md", "Un embalse construido para regar"),
+    ("07-basico/ingles.md", "Read: \"Recycling helps"),
+    ("07-basico/ingles.md", "Estás escribiendo sobre un tema de Ciencias Naturales"),
+    ("07-basico/ingles.md", "What does \"I'm fed up"),
+    ("07-basico/ingles.md", "¿Qué oración expresa correctamente causa y efecto?"),
+    ("07-basico/lengua-y-literatura.md", "¿Cuál de estos fragmentos corresponde a la voz"),
+    ("07-basico/lengua-y-literatura.md", "¿Qué efecto tiene la acción de don Segundo"),
+    ("07-basico/lengua-y-literatura.md", "¿Qué situación cotidiana se parece mejor"),
+    ("07-basico/lengua-y-literatura.md", "¿Por qué no es adecuado escribir una carta formal"),
+    ("07-basico/matematica.md", "¿En qué cuadrante se encuentra el punto C"),
 ]
 
 

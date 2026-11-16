@@ -169,7 +169,7 @@ culturas.
    c) important / I don't like apples
    d) difficult / the sky is blue
    **Respuesta correcta:** a) important / it helps you communicate with people from other countries.
-   **Retroalimentación:** La estructura *In my opinion... because...* debe unir una valoración con una razón lógica que la sostenga.
+   **Retroalimentación:** «Important» es una valoración y «it helps you communicate with people from other countries» es una razón lógica que la sostiene. La estructura In my opinion... because... une una opinión con su razón.
 
 ---
 
@@ -394,7 +394,7 @@ justificándola con *because*.
    c) empanadas / celebrate Fiestas Patrias
    d) dance cueca / Fiestas Patrias
    **Respuesta correcta:** a) Fiestas Patrias / dance cueca and eat empanadas.
-   **Retroalimentación:** Cada espacio debe tener información pertinente: primero una celebración y luego una costumbre (verbo + complemento).
+   **Retroalimentación:** «Fiestas Patrias» es una celebración y «dance cueca and eat empanadas» describe lo que la gente suele hacer (verbo + complemento). Cada espacio queda con la información que pide el modelo.
 
 6. *(Alternativas — Conectores)* ¿En qué parte de una historia se usa normalmente el conector *"After that,"*?
    a) Siempre al comienzo de la historia, para presentar a los personajes
@@ -410,7 +410,7 @@ justificándola con *because*.
    c) pollution on the beach / delicious
    d) a big party / worried
    **Respuesta correcta:** b) pollution on the beach / worried.
-   **Retroalimentación:** Un pie de foto (*caption*) debe describir la imagen correctamente y luego expresar un sentimiento coherente con ella.
+   **Retroalimentación:** «Pollution on the beach» describe lo que muestra la foto (una playa con basura) y «worried» (preocupado) es un sentimiento coherente con esa imagen.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un tema de Ciencias
    Naturales (volcanes). ¿Qué oración es la más adecuada para compartir esa

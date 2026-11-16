@@ -128,7 +128,7 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
    c) No informarse para no preocuparse, y dejar que las decisiones se tomen solas según lo que vaya pasando en la relación
    d) Decidir solo pensando en uno mismo y en lo que se quiere en ese momento, sin considerar lo que siente o necesita la otra persona
    **Respuesta correcta:** a) Tomar decisiones informadas y cuidadosas, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto.
-   **Retroalimentación:** La responsabilidad individual conecta directamente con el OA 2, donde se profundiza en la paternidad y maternidad responsables.
+   **Retroalimentación:** Ser responsable es decidir con información y cuidado, pensando en las consecuencias para uno mismo y para la otra persona, con honestidad y respeto. Este tema se profundiza en el OA 2, con la paternidad y la maternidad responsables.
 
 5. *(Alternativas — análisis)* ¿Por qué el respeto mutuo es un elemento central del aspecto afectivo de la sexualidad?
    a) Porque así una persona puede decidir por la otra y protegerla de cometer errores en la relación
@@ -244,7 +244,7 @@ en pleno desarrollo.
    c) Ninguno actúa sobre la reproducción: ambos sirven solo para prevenir infecciones de transmisión sexual
    d) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora es hormonal e impide la ovulación
    **Respuesta correcta:** d) El preservativo impide físicamente el contacto entre espermatozoide y ovocito; la píldora es hormonal e impide la ovulación.
-   **Retroalimentación:** Comprender el mecanismo, no solo el nombre del método, ayuda a entender por qué su efectividad depende del uso correcto.
+   **Retroalimentación:** El preservativo es un método de barrera: impide que el espermatozoide llegue al ovocito. La píldora es un método hormonal: impide la ovulación. Conocer cómo actúa cada uno explica por qué su efectividad depende del uso correcto.
 
 6. *(Varias correctas — análisis de caso)* Caso: "Camila, de 14 años, está embarazada y debe decidir cómo continuar sus estudios mientras cuida a su bebé." ¿Cuáles son implicancias de un embarazo en la adolescencia? Marca **todas** las correctas.
    a) Mayores riesgos físicos, porque el cuerpo adolescente aún está en desarrollo
@@ -252,7 +252,7 @@ en pleno desarrollo.
    c) Necesidad de apoyo familiar y social
    d) Ninguna implicancia, porque es igual que en la adultez
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** La paternidad y maternidad responsables implican asumir el cuidado del hijo/a de forma informada y comprometida; la reproducción tiene consecuencias que van más allá de lo biológico.
+   **Retroalimentación:** Un embarazo adolescente implica riesgos físicos, porque el cuerpo aún se desarrolla; dificulta compatibilizar estudios y crianza, y requiere apoyo familiar y social. Sus consecuencias van más allá de lo biológico.
 
 7. *(Alternativas — aplicación)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no piense tener hijos ahora. ¿Qué respuesta le ayuda a comprenderlo?
    a) Porque es información que solo sirve a los adultos que ya tienen hijos, y los adolescentes la necesitarán recién cuando formen una familia
@@ -698,7 +698,7 @@ con los gases.
    c) Llenar una botella con agua fría, medir su color y luego compararlo con el de una botella llena de agua caliente
    d) Apretar un globo con las manos sin cambiar la temperatura y observar cómo su volumen disminuye al aumentar la presión
    **Respuesta correcta:** a) Poner un globo poco inflado en la boca de una botella y entibiarla: el globo se infla un poco más porque el aire se expande.
-   **Retroalimentación:** Un buen diseño identifica qué variable se modifica (temperatura) y qué efecto se espera observar (cambio de volumen).
+   **Retroalimentación:** Al entibiar la botella, sube la temperatura del aire de adentro (la variable que se cambia) y el aire se expande, por lo que el globo se infla un poco (el efecto en el volumen). Eso muestra la Ley de Charles.
 
 7. *(Alternativas — aplicación)* ¿Por qué no es recomendable dejar una lata de bebida gasificada cerrada al sol por mucho tiempo?
    a) Porque el sol enfría la lata y la congela, y al congelarse la bebida se rompe el envase de aluminio
@@ -706,7 +706,7 @@ con los gases.
    c) Porque la lata se vuelve más grande sin ningún riesgo: el aluminio se estira con el calor y el gas tiene más espacio
    d) Porque al aumentar la temperatura, la presión del gas a volumen casi constante aumenta (Gay-Lussac) y la lata podría reventar
    **Respuesta correcta:** d) Porque al aumentar la temperatura, la presión del gas a volumen casi constante aumenta (Gay-Lussac) y la lata podría reventar.
-   **Retroalimentación:** Comprender las leyes de los gases permite explicar riesgos y fenómenos cotidianos de forma científica.
+   **Retroalimentación:** La lata casi no puede cambiar de volumen; si el sol la calienta, la presión del gas de adentro aumenta (Ley de Gay-Lussac) y puede superar la resistencia del envase hasta reventarlo.
 
 ---
 
@@ -817,7 +817,7 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
    c) Usar solo un tamiz fino, que retiene la arena y la sal y deja pasar el agua limpia
    d) Usar un imán para retirar la sal disuelta y luego decantar la arena del agua
    **Respuesta correcta:** a) Primero filtrar para retirar la arena; luego evaporar o destilar el agua salada para obtener la sal.
-   **Retroalimentación:** Muchas mezclas complejas requieren combinar métodos, aplicados en un orden lógico según las propiedades de cada componente.
+   **Retroalimentación:** La arena no se disuelve, así que primero se retira con un filtro; la sal sí está disuelta, por eso luego se evapora o destila el agua y la sal queda como sólido. El orden depende de las propiedades de cada componente.
 
 7. *(Alternativas — aplicación industrial)* ¿Qué ejemplo muestra correctamente la aplicación de métodos de separación en un proceso industrial de Chile?
    a) En la minería se mezcla el cobre con más roca molida para aumentar su peso antes de venderlo
@@ -825,7 +825,7 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
    c) Ningún proceso industrial usa separación de mezclas: solo se usan en laboratorios escolares
    d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas
    **Respuesta correcta:** d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas.
-   **Retroalimentación:** En la minería del cobre también se usan procesos de separación para extraer el mineral de la roca: estos métodos tienen aplicaciones fundamentales para la economía y el medioambiente.
+   **Retroalimentación:** En una planta de tratamiento de aguas servidas, los sólidos pesados se dejan decantar y el agua se filtra para retirar impurezas: combina dos métodos de separación. La minería del cobre también usa procesos de separación.
 
 ---
 

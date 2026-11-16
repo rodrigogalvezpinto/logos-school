@@ -92,7 +92,7 @@ b) La discusión entre don Segundo y su nieta por la venta del bote familiar, qu
 c) La falta de dinero de la familia para reparar el bote después de que una tormenta lo dejó a la deriva
 d) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompió su relación durante años
 
-*Respuesta correcta: d.* Retroalimentación: inferir el conflicto central implica identificar el problema que organiza toda la historia y explica las acciones y emociones de los personajes a lo largo del relato, no un detalle secundario.
+*Respuesta correcta: d.* Retroalimentación: El conflicto central es la culpa cruzada entre Valentina e Ignacio por el bote a la deriva: cada uno culpa al otro y su relación se rompe durante años. Ese problema organiza toda la historia y explica las acciones de los personajes.
 
 **2. (Alternativas)** ¿Qué rol cumple don Segundo en el conflicto de la historia?
 
@@ -101,7 +101,7 @@ b) Es quien provoca la pelea entre los primos al insultar a Valentina por haber 
 c) Resuelve el conflicto al comienzo del relato, cuando cuenta toda la verdad sobre la cuerda y los primos se reconcilian de inmediato
 d) No tiene ninguna relación con el conflicto entre los primos, porque estaba fuera del pueblo el día en que el bote quedó a la deriva
 
-*Respuesta correcta: a.* Retroalimentación: describir el rol de un personaje en el conflicto no es solo decir qué hace, sino explicar cómo esa acción (u omisión) afecta el desarrollo de la historia y a los demás personajes.
+*Respuesta correcta: a.* Retroalimentación: Don Segundo no participa en la pelea, pero calla que él dejó mal amarrada la cuerda; con ese silencio, la culpa cruzada entre los primos se mantiene durante diez años. Su rol se explica por el efecto de lo que no hizo.
 
 **3. (Verdadero o Falso)** El relato "La libreta de don Segundo" está narrado en estricto orden cronológico, sin ningún salto temporal.
 
@@ -208,7 +208,7 @@ b) Que la nieve es literalmente un recuerdo guardado por las personas del pueblo
 c) Que en ese lugar nunca nieva, y que las personas solo recuerdan la nieve de los inviernos que vivieron en otras tierras
 d) Que la tierra olvida cada invierno apenas termina, porque la nieve se derrite sin dejar ninguna huella en el paisaje
 
-*Respuesta correcta: a.* Retroalimentación: interpretar una metáfora implica explicar qué otra idea, más allá del significado literal, sugiere la comparación implícita.
+*Respuesta correcta: a.* Retroalimentación: La metáfora presenta la nieve como la «memoria» de la tierra: cada invierno deja una capa, como una huella, así que la nieve acumulada representa el paso del tiempo y la historia del lugar.
 
 **3. (Verdadero o Falso)** El poema "Cordillera de invierno" sugiere un estado de ánimo de agitación y urgencia.
 
@@ -394,7 +394,7 @@ b) El problema del uso excesivo de pantallas se resuelve mejorando los espacios 
 c) Los patios de los colegios no necesitan ninguna mejora, porque los estudiantes prefieren quedarse en las salas usando el celular durante los recreos
 d) Los niños deberían pasar más horas frente a la pantalla, no menos, porque así aprenden más rápido
 
-*Respuesta correcta: b.* Retroalimentación: identificar la postura del autor implica encontrar la idea central que defiende a lo largo de todo el texto, no un detalle aislado.
+*Respuesta correcta: b.* Retroalimentación: A lo largo de la columna, el autor defiende que el uso excesivo de pantallas se resuelve mejorando los patios y espacios recreativos de los colegios, no solo prohibiendo el celular. Esa es la idea que sostiene todo el texto.
 
 **2. (Verdadero o Falso)** La frase "según la última Encuesta Nacional de Uso del Tiempo Libre, los niños... pasan en promedio más de tres horas diarias frente a una pantalla" corresponde a un hecho verificable, no a una opinión.
 
@@ -416,7 +416,7 @@ b) Que el celular fue inventado en el siglo XX y que, por eso, no debería usars
 c) Que el autor tiene un hijo que usa el celular en los recreos y que no sabe jugar con sus compañeros
 d) Que los recreos duran quince minutos en todos los colegios del mundo, lo que no alcanza para jugar
 
-*Respuesta correcta: a.* Retroalimentación: un argumento no es cualquier frase del texto, sino una razón que sostiene directamente la postura central del autor.
+*Respuesta correcta: a.* Retroalimentación: El autor sostiene su postura con esta razón: muchos patios son poco atractivos (de cemento, sin sombra ni juegos), y por eso los estudiantes prefieren el celular. Es un argumento porque apoya directamente su idea central.
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
@@ -434,7 +434,7 @@ b) "No sé si ayudaría o no, porque cada persona tiene su propia opinión sobre
 c) "El autor dice que los patios son de cemento y que los niños no tienen espacio para jugar"
 d) "Creo que ayudaría, pero no bastaría por sí solo, porque muchos niños también usan el celular en sus casas"
 
-*Respuesta correcta: d.* Retroalimentación: formular una postura fundamentada implica ir más allá de decir si estás de acuerdo o no: debes aportar al menos una razón propia; repetir lo que dice el autor no es argumentar.
+*Respuesta correcta: d.* Retroalimentación: Esa respuesta toma posición («ayudaría, pero no bastaría») y aporta una razón propia que no está en la columna: muchos niños también usan el celular en sus casas. Repetir lo que dice el autor no es argumentar.
 
 **7. (Alternativas — análisis integrado)** ¿Por qué es importante distinguir entre hechos y opiniones al leer una columna de opinión?
 
