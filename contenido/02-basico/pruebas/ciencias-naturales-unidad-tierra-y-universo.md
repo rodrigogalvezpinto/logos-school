@@ -29,12 +29,12 @@ d) Congelación
 
 ---
 
-**Pregunta 2.** ¿Cuál es el orden de las etapas del ciclo del agua: precipitación (lluvia), condensación (nubes), evaporación?
+**Pregunta 2.** En el ciclo del agua, ¿qué ocurre justo después de que el agua de un lago se evapora con el calor del sol?
 
-a) Evaporación → condensación (nubes) → precipitación (lluvia)
-b) Precipitación (lluvia) → evaporación → condensación (nubes)
-c) Condensación (nubes) → evaporación → precipitación (lluvia)
-d) Evaporación → precipitación (lluvia) → condensación (nubes)
+a) El vapor sube, se enfría y forma nubes (condensación)
+b) Cae lluvia de inmediato sobre el lago
+c) El agua del lago se congela
+d) El agua desaparece para siempre
 
 ---
 
@@ -58,15 +58,13 @@ d) El sol
 
 ---
 
-**Pregunta 5.** ¿Qué fenómenos son **precipitación**?
+**Pregunta 5.** ¿Cuáles de estas son formas de agua que caen de las nubes? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Lluvia
-b) Ramas moviéndose
-c) Granizo
-d) Cometa volando
-e) Nieve
+a) Llovizna
+b) Viento
+c) Nieve
+d) Arcoíris
+e) Granizo
 
 ---
 
@@ -91,9 +89,9 @@ d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos e
 ## Pauta de respuestas
 
 1. **c) Evaporación.** El calor del sol transformó el agua líquida de los charcos en vapor.
-2. a) Evaporación → condensación (nubes) → precipitación (lluvia). Este ciclo se repite una y otra vez en la naturaleza.
+2. **a) El vapor sube, se enfría y forma nubes (condensación).** El vapor de agua sube, se enfría y forma gotitas que hacen las nubes: eso es la condensación. Después viene la precipitación.
 3. a, c y d — Son acciones cotidianas que ahorran agua; dejar la manguera corriendo la desperdicia.
 4. **b) El granizo.** El granizo, la lluvia y la nieve son agua que cae del cielo: precipitaciones.
-5. a, c y e — La precipitación es agua que cae del cielo; las ramas y la cometa se mueven por el viento, que es aire en movimiento.
+5. **a, c y e.** La llovizna, la nieve y el granizo son agua que cae de las nubes (precipitación). El viento es aire en movimiento y el arcoíris es luz.
 6. **c) Otoño.** En otoño muchas hojas cambian de color y caen de los árboles.
 7. **d) Porque en invierno hace frío y hay menos luz, y así el árbol gasta menos energía hasta la primavera.** Muchos árboles pierden sus hojas en otoño e invierno para pasar la estación fría gastando menos energía; en primavera, con más luz y calor, les vuelven a salir.

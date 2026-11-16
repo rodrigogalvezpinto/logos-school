@@ -145,18 +145,18 @@ d) ninguno de los anteriores
 
 **12. (Lenguaje — Alternativas)** Lee el siguiente texto:
 
-> El reciclaje en la escuela
+> El huerto de la escuela
 >
-> En muchas escuelas de Chile hay contenedores de distintos colores para separar la basura. El contenedor azul es para el papel y el cartón. El contenedor amarillo es para los plásticos y las latas. El contenedor café es para los restos de comida, como cáscaras de fruta. Cada contenedor tiene un dibujo que ayuda a reconocer qué se debe botar ahí, incluso para las personas que todavía no saben leer bien.
+> En algunas escuelas de Chile, los estudiantes cuidan un huerto. Allí siembran lechugas, rabanitos y cilantro. Los niños riegan las plantas en la mañana, antes de que haga calor, para que el agua no se evapore tan rápido. Cada mes, el curso cosecha las verduras y prepara una ensalada para compartir. Un cartel con dibujos muestra qué planta crece en cada parte del huerto.
 
-[Imagen: tres contenedores de reciclaje — uno azul con el dibujo de una hoja de papel, uno amarillo con el dibujo de una botella y una lata, y uno café con el dibujo de una cáscara de plátano]
+::emoji::🥬::un huerto escolar con lechugas, un cartel con dibujos y una regadera::
 
-Según el artículo, ¿de qué color es el contenedor para el papel y el cartón?
+Según el artículo, ¿cuándo riegan los niños las plantas del huerto?
 
-a) Amarillo
-b) Café
-c) Azul
-d) Verde
+a) En la noche, antes de irse a dormir
+b) Al mediodía, cuando hace más calor
+c) En la mañana, antes de que haga calor
+d) Solo cuando llueve
 
 ---
 
@@ -273,7 +273,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 9 | Historia, Geografía y Cs. Sociales | **d) La arquitectura de madera y el kuchen que dejó la inmigración alemana en el sur de Chile.** Los inmigrantes alemanes llegaron al sur de Chile en el siglo XIX y trajeron el kuchen y casas de madera. Los moái, las rukas y el palín son aportes de pueblos originarios, no de la inmigración. | OA 4 |
 | 10 | Ciencias Naturales | **d) El azúcar se disuelve y deja de verse; la arena no se disuelve y se sigue viendo en el agua.** No todos los sólidos se disuelven en el agua: el azúcar sí, la arena no. | OA 9 |
 | 11 | Matemática | **b) <.** 8+5=13, y como 13 es menor que 14, el símbolo correcto es < (menor que). | OA 13 |
-| 12 | Lenguaje y Comunicación | **c) Azul.** El artículo dice "El contenedor azul es para el papel y el cartón". | OA N°7 |
+| 12 | Lenguaje y Comunicación | **c) En la mañana, antes de que haga calor.** El artículo dice: "Los niños riegan las plantas en la mañana, antes de que haga calor, para que el agua no se evapore tan rápido". | OA N°7 |
 | 13 | Ciencias Naturales | **a, c y d.** Son acciones cotidianas que cuidan el agua; dejar la manguera corriendo la desperdicia. | OA 11 |
 | 14 | Matemática | **b) Centímetros.** Como el lápiz es un objeto pequeño, se usa el centímetro. | OA 19 |
 | 15 | Lenguaje y Comunicación | **b) Para saber cuándo cruzar y cuándo esperar, incluso si todavía no se sabe leer bien.** Los dibujos o símbolos ayudan a entender la información del texto, incluso sin leer las palabras. | OA N°7 |

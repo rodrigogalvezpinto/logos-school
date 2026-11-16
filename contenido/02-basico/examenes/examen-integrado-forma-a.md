@@ -100,12 +100,12 @@ d) En Castro, en una casa sobre palafitos junto al mar
 
 ---
 
-**7. (Ciencias Naturales — Alternativas)** ¿Cuál de los siguientes es un animal nativo de Chile que está en peligro de extinción?
+**7. (Ciencias Naturales — Alternativas)** ¿Cuál de estos animales es nativo de Chile y está en peligro de extinción?
 
-a) El huemul
-b) La gallina
-c) El perro
-d) El caballo
+a) La chinchilla
+b) La vaca
+c) El gato
+d) La oveja
 
 ---
 
@@ -274,7 +274,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Ciencias Naturales | **d) Huevo → renacuajo → rana adulta.** La rana pone huevos en el agua; de ellos nacen renacuajos, que respiran con branquias y tienen cola, y poco a poco se transforman en ranas adultas. | OA 3 |
 | 5 | Matemática | **b) 30.** Hay 3 grupos iguales de 10: 10+10+10 = 3×10 = 30. Sumar 3+10 da 13, que es un error. | OA 11 |
 | 6 | Lenguaje y Comunicación | **d) En Castro, en una casa sobre palafitos junto al mar.** El texto lo dice directamente: "vive en Castro, en una casa sobre palafitos junto al mar". | OA N°5 |
-| 7 | Ciencias Naturales | **a) El huemul.** El huemul es un ciervo nativo del sur de Chile, que aparece en el escudo nacional y está en peligro de extinción. La gallina, el perro y el caballo llegaron con los españoles. | OA 5 |
+| 7 | Ciencias Naturales | **a) La chinchilla.** La chinchilla es un animal nativo de Chile y está en peligro de extinción. La vaca, el gato y la oveja fueron traídos de otros lugares. | OA 5 |
 | 8 | Historia, Geografía y Cs. Sociales | **d) Mapuche.** El pueblo mapuche vivía en el centro-sur de Chile, en rukas hechas de madera y paja. | OA 1 |
 | 9 | Matemática | **c) sumar 8.** La diferencia entre cada número y el anterior es siempre 8. | OA 12 |
 | 10 | Lenguaje y Comunicación | **a) Muy sorprendido y feliz: se quedó inmóvil con la boca abierta y después dio un salto y abrazó a sus amigos.** El texto describe sus gestos: quedarse inmóvil muestra sorpresa, y saltar y abrazar muestran alegría. | OA N°5 |

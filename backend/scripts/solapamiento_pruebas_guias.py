@@ -54,6 +54,9 @@ REVISADAS_A_MANO = {
     "01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {1},  # lápices de otros largos (5 y 9)
     "01-basico/examenes/examen-integrado-forma-b.md": {13},  # lápices 7 y 4, y pregunta cuál es más corto
     "01-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1},  # sílabas de otra palabra ("mesa")
+    "02-basico/pruebas/historia-unidad-geografia.md": {3},  # mapa con las letras en otros países
+    "02-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {4},  # misma regla (c antes de e/i) con otra palabra
+    "02-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {5},  # otros datos (6 caras y 4 sellos)
 }
 
 
@@ -152,10 +155,12 @@ def lecturas_copiadas(curso: Path, carpeta: str) -> dict[str, int]:
     for ruta in sorted((curso / carpeta).glob("*.md")):
         # Umbral bajo (líneas de más de 30 caracteres): las lecturas de 1.° y 2.° básico tienen líneas
         # cortas («Fui a jugar a la plaza con Tomás.»). Se exigen 2 líneas para no marcar frases sueltas.
-        lineas = {normalizar(l)[:120] for l in ruta.read_text(encoding="utf-8").splitlines()
+        # Una sola línea larga (un párrafo completo de 150 o más caracteres) también cuenta.
+        lineas = {normalizar(l)[:120]: len(l) for l in ruta.read_text(encoding="utf-8").splitlines()
                   if l.startswith(">") and len(l) > 30}
-        iguales = sum(1 for k in lineas if len(k) > 22 and k in guia)
-        if iguales >= 2:
+        coinciden = [largo for k, largo in lineas.items() if len(k) > 22 and k in guia]
+        iguales = len(coinciden)
+        if iguales >= 2 or any(largo >= 150 for largo in coinciden):
             resultado[str(ruta.relative_to(CONTENIDO))] = iguales
     return resultado
 

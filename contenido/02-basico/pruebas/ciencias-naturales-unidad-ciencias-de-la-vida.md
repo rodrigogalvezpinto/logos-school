@@ -45,14 +45,12 @@ d) El pato
 
 ---
 
-**Pregunta 4.** ¿Qué medidas ayudan a proteger a los animales nativos en peligro de extinción?
+**Pregunta 4.** Un curso quiere ayudar a que el pudú, un ciervo pequeño de los bosques del sur, no desaparezca. ¿Qué acciones sirven? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Cuidar los parques nacionales
-b) Comprar animales silvestres como mascota
-c) No botar basura en su hábitat
-d) Respetar las leyes de protección de la fauna
+a) Respetar las áreas protegidas donde vive
+b) Llevarse un pudú a la casa como mascota
+c) No hacer fogatas ni botar basura en el bosque
+d) Cuidar que los perros no anden sueltos en el bosque
 
 ---
 
@@ -95,7 +93,7 @@ b) Falso
 1. **d) Huevo → renacuajo → rana joven → rana adulta.** El renacuajo vive en el agua y respira por branquias; al crecer le salen patas y pierde la cola.
 2. **Verdadero.** Las aves ponen huevos y las crías nacen al romper la cáscara.
 3. **b) El cóndor.** El cóndor andino es un ave nativa que aparece en el escudo de Chile junto al huemul.
-4. a, c y d — Proteger el hábitat y no capturar animales silvestres evita su extinción; comprarlos como mascota los saca de su hábitat.
+4. **a, c y d.** Proteger su hábitat, no contaminarlo y evitar que los perros lo ataquen ayuda al pudú. Un animal silvestre no es una mascota.
 5. **c) El corazón.** El corazón es un músculo que bombea la sangre por todo el cuerpo.
 6. a) El cráneo. Es el conjunto de huesos de la cabeza que protege el cerebro de los golpes.
 7. **b) Se hace más rápida.** Al hacer ejercicio, el cuerpo necesita más oxígeno, por eso respiramos más rápido.

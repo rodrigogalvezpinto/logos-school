@@ -55,7 +55,7 @@ d) 0
 
 ---
 
-**Pregunta 5.** Con los datos de los 10 lanzamientos de la moneda (cara: 7, sello: 3), ¿salió más veces cara o sello?
+**Pregunta 5.** En 10 lanzamientos de una moneda salió cara 6 veces y sello 4 veces. ¿Salió más veces cara o sello?
 
 a) Sello
 b) Cara
@@ -63,12 +63,12 @@ c) Salieron la misma cantidad de veces
 
 ---
 
-**Pregunta 6.** En un pictograma donde 1 pelota = 2 goles, el Equipo Azul tiene 2 pelotas dibujadas. ¿Cuántos goles anotó el Equipo Azul?
+**Pregunta 6.** En un pictograma donde 1 estrella = 3 puntos, el Equipo Rojo tiene 3 estrellas dibujadas. ¿Cuántos puntos obtuvo el Equipo Rojo?
 
-a) 2
-b) 4
+a) 3
+b) 9
 c) 6
-d) 8
+d) 12
 
 ---
 
@@ -85,15 +85,11 @@ d) 4
 
 ---
 
-**Pregunta 8.** El gráfico muestra cómo llegan al colegio los alumnos de un curso.
+**Pregunta 8.** El gráfico muestra el deporte favorito de los alumnos de un curso. ::barras::Fútbol=7;Básquetbol=3;Natación=5:: ¿Qué deporte prefieren más alumnos?
 
-::barras::A pie=9;En auto=6;En bicicleta=4::
-
-¿Qué medio de transporte usan más alumnos para llegar al colegio?
-
-a) En auto
-b) En bicicleta
-c) A pie
+a) Básquetbol
+b) Natación
+c) Fútbol
 
 ---
 
@@ -103,7 +99,7 @@ c) A pie
 2. c) La cinta. 18 cm es menor que 25 cm.
 3. a) 25 cm. 40 − 15 = 25: se resta el pedazo cortado al largo total.
 4. **c) 3.** Sello salió 3 veces según la tabla.
-5. b) Cara. Cara salió 7 veces, más que las 3 de sello.
-6. **b) 4.** 2 pelotas × 2 goles cada una = 4 goles.
+5. **b) Cara.** 6 es más que 4: salió más veces cara.
+6. **b) 9.** Cada estrella vale 3 puntos: 3 + 3 + 3 = 9 puntos.
 7. d) 4. La barra de "En bicicleta" llega hasta el número 4.
-8. c) A pie. "A pie" tiene la barra más alta (9 alumnos).
+8. **c) Fútbol.** La barra más alta es la de Fútbol (7 alumnos).

@@ -117,8 +117,9 @@ La revisión de la muestra docente mostró casi copias que los criterios anterio
 un `[Imagen: …]` agregado, o los mismos datos del «Ejemplo 1» de la guía). `solapamiento_pruebas_guias.py` ahora informa
 «misma pregunta y clave» (≥ 0,6 de similitud, 3 o más alternativas iguales y la misma respuesta correcta) y
 «escenario de la guía repetido» (una oración de situación o con datos, de 50 o más caracteres, idéntica a la guía).
-Al empezar había ~221 candidatas en total. **1.° básico ya está revisado** (12 rehechas: entre ellas, un cuento copiado
-dentro del enunciado; los lápices con otros datos quedan como plantilla válida).
+Al empezar había ~221 candidatas en total. **Revisados: 1.° básico** (12 rehechas, entre ellas un cuento copiado dentro del enunciado) **y 2.° básico** (9 rehechas
+y un artículo de lectura nuevo en el simulacro B). El detector de lecturas ahora también marca un párrafo único de 150 o
+más caracteres. Siguiente: 3.° básico.
 **Cómo decidir cada una** (con `match.match(archivo, n)` de `herramientas_auditoria`):
 - **Copia → rehacer** (`rehacer(...)`) si pregunta lo mismo con los mismos datos o la misma situación: misma flor, misma palabra,
   mismos números de la tabla o del pictograma, misma opción correcta por la misma razón.

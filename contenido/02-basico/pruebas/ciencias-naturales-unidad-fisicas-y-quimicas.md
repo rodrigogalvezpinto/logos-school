@@ -63,14 +63,12 @@ d) Se fue por un desagüe escondido bajo el patio del colegio
 
 ---
 
-**Pregunta 6.** ¿Qué características del agua pura puedes comprobar con tus sentidos?
+**Pregunta 6.** Observas un vaso con agua pura. ¿Qué puedes comprobar con tus sentidos? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Es transparente: se puede ver a través de ella
-b) Tiene un olor fuerte
-c) Es inodora: no tiene olor
-d) Es de color café
+a) No tiene sabor (es insípida)
+b) Tiene color rojo
+c) Puedes ver a través de ella (es transparente)
+d) Huele a perfume
 
 ---
 
@@ -81,4 +79,4 @@ d) Es de color café
 3. **a) Las piedrecitas no se disuelven: se siguen viendo en el fondo del vaso.** Las piedrecitas no se mezclan con el agua: se van al fondo y se siguen viendo. La sal o el azúcar, en cambio, se disuelven y dejan de verse.
 4. d) Es invisible y se mezcla con el aire. El hielo es sólido y duro, el agua líquida se puede tomar y escurre, y el vapor es invisible y se mezcla con el aire.
 5. b) Se evaporó: el calor la transformó en vapor de agua. El vapor de agua subió al aire y ya no se ve.
-6. a y c — El agua pura es transparente e inodora; si tiene color o mal olor, puede estar sucia.
+6. **a y c.** El agua pura es transparente, no tiene olor (inodora) ni sabor (insípida). Si tiene color, olor o sabor, tiene algo mezclado.

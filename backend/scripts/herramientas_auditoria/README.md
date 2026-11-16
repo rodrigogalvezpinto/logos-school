@@ -14,7 +14,7 @@ from rehacer import rehacer
 |---|---|
 | `ver(archivo, [n, ...], ctx=False)` | Muestra enunciado, alternativas, clave y explicación de las preguntas indicadas (`archivo` relativo a `contenido/`). `ctx=True` incluye la lectura. |
 | `explicar(archivo, {n: "texto"})` | Agrega una explicación a la línea de pauta de la pregunta n (tabla `| n | … |`, lista `n. …` o `**Pregunta n (…).**`). No cambia la clave. |
-| `rehacer(archivo, n, enunciado, opciones, explicacion)` | Reemplaza enunciado, alternativas y pauta de la pregunta n. **La clave queda en la misma letra**: pon la alternativa correcta en la posición de la clave original. `opciones=None` para V/F. No soporta «varias correctas» (editarlas a mano). |
+| `rehacer(archivo, n, enunciado, opciones, explicacion)` | Reemplaza enunciado, alternativas y pauta de la pregunta n. **La clave queda en la misma letra**: pon la alternativa correcta en la posición de la clave original. `opciones=None` para V/F. En «varias correctas» se conservan las mismas letras correctas (pon las alternativas correctas en esas posiciones). |
 | `match.match(archivo, n)` | Muestra la pregunta y la pregunta más parecida de la guía del curso (para decidir si es copia). |
 | `vc.vc(archivo)` | Lista compacta de las preguntas cuya explicación solo repite la clave. |
 

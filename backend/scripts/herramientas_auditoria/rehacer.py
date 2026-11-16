@@ -45,11 +45,19 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
     cab = cab[:i] + nuevo + '\n' + cab[j:].lstrip('\n') if not cab[j:].startswith('---') else cab[:i] + nuevo + '\n' + cab[j:]
     # 2) pauta: reemplaza la línea (tabla o lista) de n
     letra = None
-    if opciones:
+    varias = p0.tipo == 'varias_correctas'
+    if varias:
+        import json
+        idx_correctas = sorted(p0.opciones.index(c) for c in json.loads(r0.respuesta_correcta))
+        letras = ['abcdefgh'[k] for k in idx_correctas]
+        etiqueta_letras = ', '.join(letras[:-1]) + ' y ' + letras[-1] if len(letras) > 1 else letras[0]
+    elif opciones:
         letra = 'abcdefgh'[p0.opciones.index(r0.respuesta_correcta)] if r0.respuesta_correcta in p0.opciones else None
     fila = re.compile(rf'(?m)^(\| *{n} *\|)(.*)$')
     mfila = [x for x in fila.finditer(cola)]
-    if opciones:
+    if varias:
+        cuerpo = f"**{etiqueta_letras}.** {explicacion.strip()}"
+    elif opciones:
         clave_txt = opciones['abcdefgh'.index(letra)] if letra else None
         cuerpo = f"**{letra}) {clave_txt}.** {explicacion.strip()}" if letra else explicacion.strip()
     else:
@@ -69,7 +77,10 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
     p1, r1 = despues[n]
     assert p1.tipo == p0.tipo, (p0.tipo, p1.tipo)
     assert r1.codigo_oa == r0.codigo_oa
-    if opciones:
+    if varias:
+        import json
+        assert sorted(p1.opciones.index(c) for c in json.loads(r1.respuesta_correcta)) == idx_correctas, 'letras correctas cambiaron'
+    elif opciones:
         assert p1.opciones == [o.strip() for o in opciones] or len(p1.opciones) == len(opciones), p1.opciones
         assert p1.opciones.index(r1.respuesta_correcta) == p0.opciones.index(r0.respuesta_correcta), 'letra de clave cambió'
     else:
