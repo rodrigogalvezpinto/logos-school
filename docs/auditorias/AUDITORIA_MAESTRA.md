@@ -1759,3 +1759,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **C.4b cerrado (12 cursos).** 260 retroalimentaciones de guía reescritas para explicar por qué la respuesta es correcta;
   116 candidatas revisadas a mano como válidas (`REVISADAS_A_MANO` de `retro_guia_pobres.py`). Guarda nueva en pytest.
   Cada lote se auditó para confirmar que el cambio cayó en la pregunta buscada.
+- **Muestras docentes de los 12 cursos revisadas (revisión propia, no reemplaza al profesor).** Correcciones de la última
+  tanda: 2.° medio (voto femenino en guía; conceptos urbanos y evidencia no literaria en pruebas), 3.° medio (principios de
+  DD. HH. en guía) y 4.° medio (desarraigo en guía; parque solar, narrador de Mahina, CAE y riego en pruebas). Queda abierto
+  C.4c: unas 298 explicaciones de pruebas y simulacros candidatas a ser genéricas.

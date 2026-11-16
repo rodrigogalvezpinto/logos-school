@@ -134,7 +134,7 @@ d) Porque no se construyó ninguna vivienda social
 
 1. **b)** Tomas de terreno: familias sin vivienda ocupaban terrenos para construir sus casas, como en la población La Victoria.
 2. **Verdadero.** La industrialización y la pobreza rural impulsaron una fuerte migración del campo a la ciudad.
-3. a) 1-B, 2-C, 3-A. La migración, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación.
+3. a) 1-B, 2-C, 3-A. La segregación urbana separa barrios ricos y pobres en sectores distintos de la ciudad (1-B); la marginalidad es vivir sin servicios básicos como alcantarillado, luz o escuelas (2-C), y la familia que se va de Talca a Santiago a trabajar es un caso de migración campo-ciudad (3-A).
 4. d) La segregación urbana: la desigualdad social se expresa en una distribución desigual de servicios en el territorio.
 5. **c)** Amplio acceso al crédito para toda la población — es justo lo contrario: el acceso al
    crédito era muy limitado para la mayoría de la población.

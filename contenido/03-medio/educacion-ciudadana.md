@@ -879,7 +879,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Cada principio describe una dimensión distinta pero complementaria de los Derechos Humanos.
+💬 *Retroalimentación:* La universalidad significa que los derechos corresponden a todas las personas (1-B); la no discriminación, que no se puede excluir a nadie por su origen, sexo u otra condición (2-C), y la inalienabilidad, que no pueden transferirse ni renunciarse (3-A).
 
 ---
 

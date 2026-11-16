@@ -147,10 +147,17 @@ al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
 Cerrado en los 12 cursos: **260 retroalimentaciones reescritas** y 116 revisadas como válidas. Guarda en pytest:
 `test_las_retroalimentaciones_de_guia_explican_la_respuesta`. Material nuevo: misma regla (explicar por qué la clave es correcta).
 
+### 6.1d ⏳ PENDIENTE — C.4c: explicaciones de PRUEBAS y SIMULACROS genéricas
+La revisión de las muestras mostró explicaciones de pruebas que no explican la clave («La sostenibilidad tiene dimensiones
+técnica, económica y social.»). C.4 solo detectaba las que repiten la clave. Medición (2026-11-16): unas 298 candidatas
+(la explicación, sin el «x) clave.» inicial, no comparte raíces con la clave), con muchos falsos positivos. Método: igual que
+C.4b (detector + `REVISADAS_A_MANO` + reescritura con verificación de que cambió la pregunta buscada); para reemplazar
+una explicación de prueba, `rehacer(..., solo_explicacion=True)` (ver README de herramientas). Cerrar con guarda en pytest.
+
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
-(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.° básico a 1.° medio; siguiente: 2.° medio.
+(`backend/scripts/muestra_revision_docente.py`). Revisadas las 12 muestras (2026-11-16); lo encontrado quedó corregido (ver AUDITORIA_MAESTRA §15.40). Sigue pendiente la revisión por un profesor real.
 
 ### 6.3 D — imágenes (requiere decisión del dueño)
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,

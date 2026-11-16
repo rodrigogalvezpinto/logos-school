@@ -469,7 +469,7 @@ c) La llegada de la televisión a los hogares chilenos
 d) La incorporación de las mujeres a la ciudadanía política plena
 
 ✅ Respuesta correcta: **d) La incorporación de las mujeres a la ciudadanía política plena**
-💬 *Retroalimentación:* Las fuentes visuales permiten verificar cambios concretos en la participación ciudadana.
+💬 *Retroalimentación:* Las mujeres votaron por primera vez en una elección presidencial en 1952, tras la ley de 1949 que les dio el voto pleno; la fotografía muestra su incorporación a la ciudadanía política. Las fuentes visuales permiten verificar ese cambio.
 
 ---
 

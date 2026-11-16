@@ -166,6 +166,6 @@ d) Usar únicamente citas literarias
 10. b. Ninguno de los dos textos miente del todo: la empresa destaca la mejora de los tiempos y los vecinos, el costo para ellos. La fuente influye en qué se destaca y qué se omite.
 11. b. La hipótesis aparece al final del primer párrafo ("Sostengo que…"): tradición y cambio pueden convivir si se decide qué conservar y qué transformar.
 12. Falso. El ensayo lo menciona ("Alguien podría argumentar…") y lo responde con los programas de apoyo a los almacenes: es una refutación del contraargumento.
-13. a) Una evidencia no literaria debe conectarse explícitamente con la hipótesis.
+13. a) Los programas públicos de apoyo a los almacenes son un caso real, fuera de la obra, que muestra que existen caminos intermedios entre conservar y cambiar; así refuerzan la hipótesis del ensayo con evidencia no literaria.
 14. d) Una cita literaria es evidencia solo si se conecta explícitamente con el argumento.
 15. b. Un recurso (anécdota, cita o dato) suma si apoya la hipótesis y se conecta con el argumento, como la cita de Carla en el ensayo; si no, rompe la coherencia temática.

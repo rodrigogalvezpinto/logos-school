@@ -129,7 +129,7 @@ b) El Texto A mira hacia el futuro que se construye (la nueva vida de la madre e
 c) Ninguno de los dos trata el tiempo: ambos describen solo el presente de los personajes, sin referencias a lo que perdieron ni a lo que esperan construir
 d) El Texto A mira principalmente hacia el pasado perdido (la casa de Valparaíso, el idioma de la madre); el Texto B, hacia el futuro que se construye (amigos que "pronto" serán reales, la vida armada turno a turno)
 
-*Respuesta correcta: d.* Retroalimentación: Comparar el tratamiento de un tema entre obras exige fijarse en detalles concretos, como hacia dónde se orienta la mirada temporal de cada relato.
+*Respuesta correcta: d.* Retroalimentación: El Texto A mira sobre todo hacia atrás: la casa de Valparaíso y el idioma de la madre que se perdieron. El Texto B mira hacia adelante: amigos que «pronto» serán reales y una vida que se va armando. Así cada relato orienta distinto el desarraigo.
 
 **7. (Alternativas)** ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Wilmer, en vez de en primera persona como el Texto A?
 

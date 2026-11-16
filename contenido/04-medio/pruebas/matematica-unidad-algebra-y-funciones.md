@@ -138,7 +138,7 @@ d) Ninguna, porque el coseno no puede modelar fenómenos periódicos
 4. **a) Porque la UF se reajusta según el IPC (inflación); se usa en contratos de largo plazo para que el valor no pierda poder adquisitivo.** La UF se reajusta diariamente según la inflación medida por el IPC; por eso en pesos sube, y se usa en contratos largos, como arriendos y créditos hipotecarios, para conservar su valor real.
 5. d) 8,16%. TEA = (1 + 0,08/2)² − 1 = (1,04)² − 1 = 0,0816.
 6. b) El CAE refleja mejor el costo real total del crédito.
-7. d) El CAE de R es el más alto de los tres.
+7. d) El CAE incluye la tasa y todos los costos del crédito, así que conviene el de menor CAE: Q (21 %). El error común es elegir R por su tasa anunciada más baja (16 %), aunque su CAE es el más alto (26 %).
 8. **c) f(x) = 7x⁻².** Su exponente es −2; f(x) = 2⁻ˣ es una función exponencial, porque la variable está en el exponente.
 9. **d) 162.** f(3) = 2 × 3⁴ = 2 × 81 = 162.
 10. a) La amplitud es la distancia máxima respecto del valor central.

@@ -117,7 +117,7 @@ d) Un dato histórico verificable sobre el número de familias trasladadas
 
 6. d) Comparar el tratamiento de un tema exige fijarse en detalles concretos, como hacia dónde se orienta la mirada temporal de cada relato.
 
-7. b) Identificar una perspectiva no es solo notar la persona gramatical, sino evaluar qué efecto produce sobre la cercanía o la distancia del lector con el personaje.
+7. b) La tercera persona muy cercana permite conocer lo que siente Mahina y, al mismo tiempo, mirar con cierta distancia irónica sus estrategias de adaptación, como la mentira piadosa a su abuela. En primera persona solo tendríamos su propia voz.
 
 8. **b.** Aunque los contextos, las perspectivas y el efecto estético son distintos, ambos textos tratan qué significa reconstruir una identidad y sostener vínculos familiares después de dejar el lugar de origen.
 

@@ -121,7 +121,7 @@ d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con 
 
 6. **c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir.** La utilización sostenible aprovecha el recurso sin agotarlo: extrae lo que el bosque puede reponer, según un plan de manejo. Cerrarlo es solo protección; talar o extraer sin plan lo agota.
 
-7. a) La sostenibilidad tiene dimensiones técnica, económica y social.
+7. a) Un sistema de riego técnicamente correcto no sirve si es demasiado caro o si los vecinos no participan: difícilmente se implementará o se mantendrá en el tiempo. La sostenibilidad tiene dimensiones técnica, económica y social.
 
 8. **a)** La solidez del consenso científico proviene de la coincidencia de fuentes de evidencia independientes.
 
@@ -133,6 +133,6 @@ d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con 
 
 12. **Verdadero.** Las turberas son sumideros de carbono: lo acumulan durante miles de años en su suelo.
 
-13. b) Las controversias públicas exigen considerar implicancias sociales, económicas, éticas y ambientales.
+13. b) El parque reduce emisiones, pero afecta el pastoreo y el patrimonio arqueológico de una comunidad atacameña; una evaluación responsable pondera ambos lados, consulta a la comunidad y busca alternativas de ubicación o diseño. Las otras opciones ignoran uno de los lados.
 
 14. **b)** La velocidad del cambio actual supera la capacidad de muchas especies para adaptarse o desplazarse.
