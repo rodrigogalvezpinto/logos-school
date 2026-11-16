@@ -60,20 +60,20 @@ b) 26 m²
 c) 36 m
 d) 36 m²
 
-*(Usa el pictograma de mascotas para responder la pregunta 7. Cada símbolo 🐾 representa 2 mascotas).*
+*(Usa el pictograma de frutas favoritas para responder la pregunta 7. Cada símbolo ⭐ representa 3 estudiantes).*
 
-| Mascota | Símbolos |
+| Fruta favorita | Símbolos |
 |---|---|
-| Perro | 🐾🐾🐾 |
-| Gato | 🐾🐾 |
-| Pez | 🐾 |
-| Ave | 🐾🐾🐾🐾 |
+| Manzana | ⭐⭐⭐⭐ |
+| Plátano | ⭐⭐ |
+| Uva | ⭐⭐⭐ |
+| Naranja | ⭐ |
 
-**Pregunta 7 (alternativas).** Según el pictograma, ¿cuántos perros hay en la clase de Mateo?
+**Pregunta 7 (alternativas).** Según el pictograma del 4.° B, ¿cuántos estudiantes prefieren la uva?
 a) 3
-b) 6
-c) 2
-d) 9
+b) 9
+c) 6
+d) 12
 
 *(Usa el gráfico de ventas de helados para responder las preguntas 8 y 9. Cada cuadrito ■ representa 5 helados).*
 
@@ -108,6 +108,6 @@ d) 30
 4. **c) 24 cm².** El área se calcula multiplicando largo por ancho: 8 × 3 = 24, en centímetros cuadrados. 22 cm es el perímetro (8 + 3 + 8 + 3), no el área.
 5. a) 7 cm. 28 ÷ 4 = 7 (operación inversa a multiplicar): 7 × 4 = 28.
 6. d) 36 m². 9 × 4 = 36; como las medidas están en metros, el área queda en metros cuadrados. 26 m es el perímetro.
-7. **b) 6.** Hay 3 símbolos de perro, y cada símbolo representa 2 mascotas: 3 × 2 = 6.
+7. **b) 9.** Hay 3 símbolos junto a la uva, y cada símbolo representa 3 estudiantes: 3 × 3 = 9. Si respondiste 3, contaste los símbolos sin multiplicar.
 8. a) El martes. 6 cuadritos × 5 = 30 helados, la cantidad más alta de la semana.
 9. b) 10. Lunes = 4×5 = 20 helados; miércoles = 2×5 = 10 helados; 20 − 10 = 10.

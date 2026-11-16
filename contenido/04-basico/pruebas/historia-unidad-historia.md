@@ -68,12 +68,12 @@ d) Cacique
 ---
 
 **7. (Alternativas)** ¿Qué afirmación presenta correctamente una **semejanza** y una **diferencia** entre la civilización
-azteca y la civilización inca?
+maya y la civilización inca?
 
-a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica y los incas en la zona andina
-b) Semejanza: ambas vivían en la zona andina, cerca de la cordillera. Diferencia: solo los incas eran agricultores y los aztecas vivían de la caza
-c) Semejanza: ambas tenían como capital la ciudad de Cusco. Diferencia: solo los aztecas eran politeístas, y los incas creían en un solo dios
-d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en México y los aztecas en la zona andina
+a) Semejanza: ambas eran sociedades agrícolas que cultivaban maíz y construyeron grandes templos de piedra. Diferencia: los mayas se organizaban en ciudades-Estado independientes y los incas en un gran imperio gobernado desde Cusco
+b) Semejanza: ambas vivían en la cordillera de los Andes. Diferencia: solo los mayas eran agricultores
+c) Semejanza: ambas tenían como capital la ciudad de Tenochtitlán. Diferencia: solo los incas construían templos
+d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en Yucatán y los mayas en los Andes
 
 ---
 
@@ -112,6 +112,6 @@ d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios
 5. **Verdadero** — Los mayas son conocidos por su escritura jeroglífica y su calendario muy
    preciso.
 6. **c) Sapa Inca** — Era el título del líder supremo del imperio inca.
-7. a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica y los incas en la zona andina. También son diferencias válidas la capital (Tenochtitlán vs. Cusco) o la forma de cultivar (chinampas vs. terrazas).
+7. a) Semejanza: ambas eran sociedades agrícolas que cultivaban maíz y construyeron grandes templos de piedra. Diferencia: los mayas se organizaban en ciudades-Estado independientes y los incas en un gran imperio gobernado desde Cusco. También es una diferencia válida el lugar: los mayas, en la selva de Mesoamérica; los incas, en la zona andina.
 8. b) Foto A: mayas; Foto B: incas. Los mayas construyeron pirámides en la selva de Mesoamérica; los incas, ciudades de piedra en la cordillera de los Andes, como Machu Picchu.
 9. b) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos. Esto explica los restos incas en el norte de Chile.

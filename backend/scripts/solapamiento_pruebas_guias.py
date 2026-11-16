@@ -65,8 +65,15 @@ def casi_copias(curso: Path, carpeta: str) -> dict[str, list[int]]:
                     continue
                 if (n or gn) and n != gn:
                     continue
-                comunes = len(ops & gops) if p.tipo != "verdadero_falso" else 0
-                if SequenceMatcher(None, e, ge).ratio() >= 0.93 and (comunes >= 2 or (n and n == gn) or p.tipo == "verdadero_falso"):
+                if p.tipo == "verdadero_falso":
+                    # Una V/F con otra letra, otro nombre u otro dato («la letra T…» frente a «la letra M…»)
+                    # es otra afirmación: solo cuenta si usa exactamente las mismas palabras.
+                    if set(e.split()) == set(ge.split()):
+                        resultado.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(p.numero)
+                        break
+                    continue
+                comunes = len(ops & gops)
+                if SequenceMatcher(None, e, ge).ratio() >= 0.93 and (comunes >= 2 or (n and n == gn)):
                     resultado.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(p.numero)
                     break
     return resultado

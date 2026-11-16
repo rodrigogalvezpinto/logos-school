@@ -23,179 +23,179 @@ Antes de responder, lee con atención los tres textos de práctica. Vas a necesi
 
 Lee el siguiente texto y responde las preguntas 1 a 5:
 
-## Texto 1 (preguntas 1 a 5): "El bote de mi abuelo" (fragmento)
+## Texto 1 (preguntas 1 a 5): "La máscara del clavo" (fragmento)
 
-> Castro, isla grande de Chiloé, 1998.
+> Pica, Región de Tarapacá, 2003.
 >
-> Tomás tenía quince años y una decisión que tomar antes de fin de año: quedarse a heredar el bote de su abuelo Wenceslao, como esperaba toda la familia, o postular a un liceo técnico en la ciudad de Puerto Montt, donde había un cupo para estudiar mecánica naval. Su padre no lo decía directamente, pero cada vez que Tomás mencionaba el liceo continental, se ponía a reparar redes en silencio, con una fuerza innecesaria en las manos.
+> Javiera tenía dieciséis años y una decisión que tomar antes de julio: bailar otra vez en la cofradía de diablos de su familia en la fiesta de La Tirana, como cada año desde los seis, o viajar a Santiago al campeonato nacional de atletismo, que ese año caía justo la misma semana. Su madre no decía nada, pero cada vez que Javiera mencionaba el campeonato, se ponía a coser lentejuelas en el traje con una fuerza innecesaria, pinchándose los dedos.
 >
-> —Este bote lo hizo tu abuelo con sus propias manos —le repetía su padre—. No es solo un bote, es lo que somos.
+> —Esta cofradía la fundó tu bisabuelo —le repetía—. No es solo un baile, es una promesa.
 >
-> Wenceslao, en cambio, no presionaba a su nieto. Una tarde, mientras remendaban juntos una vela, le contó una historia distinta a la que Tomás esperaba.
+> Su abuela Rosa, en cambio, no la presionaba. Una tarde, mientras pegaban espejitos en la capa, le contó una historia que Javiera no esperaba.
 >
-> —¿Sabís por qué nunca salgo a pescar de noche, aunque los peces piquen mejor? —le preguntó el abuelo—. Porque mi abuela me contaba que, si el mar se enoja mucho, puede aparecer el Caleuche, ese barco fantasma que anda por estas costas. Yo no sé si existe. Pero sé que el mar hay que respetarlo, no solo usarlo. Tú vas a decidir qué hacer con tu vida, m'ijo, pero decida lo que decida, que sea porque lo respetás, no porque le tenís miedo a lo que diga la gente.
+> —¿Sabís por qué la llaman La Tirana? —le preguntó—. Era una ñusta que mandaba a sus guerreros en la pampa. Se enamoró de un prisionero portugués y, por quererlo, su propia gente la mató. Dicen que eligió por lo que sentía, no por lo que esperaban de ella. Yo no sé si fue así. Pero la Virgen no quiere bailarines asustados, m'ija. Lo que decidas, que sea porque lo sientes, no por miedo a lo que diga la familia.
 >
-> Esa noche, Tomás no pudo dormir. Pensaba en el bote, pintado de azul desde que tenía memoria, amarrado siempre en el mismo lugar del muelle. Pensaba también en Marcela, su compañera de curso, que el año anterior se había ido a estudiar a Castro y volvía cada dos meses "distinta", según decían en el pueblo, como si irse fuera una traición. Por primera vez, Tomás se preguntó si quedarse era realmente lo que él quería, o solo lo que temía dejar de ser si se iba.
+> Esa noche, Javiera no pudo dormir. Miraba la máscara de diablo de su abuelo, colgada desde siempre en el mismo clavo de la pared. Pensaba también en su prima Daniela, que se había ido a estudiar a Antofagasta y volvía para la fiesta "cambiada", según decían las tías, como si irse fuera una falta. Por primera vez, Javiera se preguntó si bailar era lo que ella quería, o solo lo que temía dejar de ser si no bailaba.
 
-**1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El bote de mi abuelo"?
+**1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "La máscara del clavo"?
 
-a) La pelea entre Tomás y Marcela por haberse ido del pueblo a estudiar sin avisar a su familia
-b) La falta de dinero de la familia para reparar las redes de pesca después del último temporal
-c) La decisión del abuelo de vender el bote para pagar los estudios de sus nietos en la ciudad
-d) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
+a) La pelea entre Javiera y su prima Daniela por haberse ido a estudiar a otra ciudad
+b) La falta de dinero de la familia para terminar el traje antes de la fiesta
+c) La decisión de la abuela de abandonar la cofradía para que su nieta pueda viajar a Santiago
+d) El dilema de Javiera entre seguir la tradición de bailar en la cofradía familiar o competir en el campeonato nacional de atletismo
 
-**2. (Verdadero o Falso)** Si el relato estuviera narrado en primera persona por Tomás, el lector tendría el mismo acceso a los gestos y reacciones físicas del padre que no son notados por Tomás.
+**2. (Verdadero o Falso)** Si el relato estuviera narrado en primera persona por Javiera, el lector tendría el mismo acceso a los gestos de la madre que Javiera no interpreta ni nota.
 
-**3. (Alternativas — Aplicación)** ¿Por qué el bote azul puede considerarse un **símbolo** en el relato?
+**3. (Alternativas — Aplicación)** ¿Por qué la máscara de diablo puede considerarse un **símbolo** en el relato?
 
-a) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa
-b) Porque es el bote más rápido y moderno del pueblo, y todos los pescadores de la isla quieren comprarlo para salir más lejos a pescar
-c) Porque es solo un objeto de trabajo sin otro sentido: el relato lo menciona para describir el oficio de la familia y la vida en la caleta
-d) Porque Tomás lo vende al final del relato para pagar sus estudios, lo que demuestra que nunca le importó la tradición de su familia
+a) Porque representa la herencia familiar y la presión de continuar la tradición; que cuelgue "desde siempre en el mismo clavo" refuerza la idea de una costumbre fija que Javiera debe decidir si continúa
+b) Porque es la máscara más cara de la fiesta, y todos los bailarines del pueblo quieren comprarla
+c) Porque es solo un adorno de la casa: el relato la menciona para describir la pieza de Javiera
+d) Porque Javiera la vende al final del relato para pagar el viaje, lo que demuestra que nunca le importó la fiesta
 
-**4. (Alternativas)** ¿A qué **personaje tipo** corresponde el abuelo Wenceslao?
+**4. (Alternativas)** ¿A qué **personaje tipo** corresponde la abuela Rosa?
 
-a) El avaro
-b) El antagonista
-c) El sabio o mentor
-d) El pícaro
+a) La avara
+b) La antagonista
+c) La sabia o mentora
+d) La pícara
 
-**5. (Alternativas — vínculo intertextual)** ¿Qué función cumple la mención del Caleuche en el relato?
+**5. (Alternativas — vínculo intertextual)** ¿Qué función cumple la leyenda de La Tirana en el relato?
 
-a) Es un dato decorativo sin función: el relato menciona el Caleuche solo para ambientar la historia en Chiloé, sin relación con el mensaje
-b) Anuncia que Tomás se convertirá en marinero del Caleuche al final del relato, como castigo por querer abandonar el mar de su familia
-c) Explica el funcionamiento de un bote de pesca artesanal y las precauciones técnicas que deben tomar los pescadores antes de salir al mar
-d) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia
+a) Es un dato decorativo: el relato la menciona solo para ambientar la historia en el norte, sin relación con el mensaje
+b) Anuncia que Javiera morirá por elegir el atletismo, igual que la ñusta de la leyenda
+c) Explica cómo se cosen los trajes de la diablada y cuánto tiempo toma terminarlos
+d) Conecta el relato con la tradición legendaria y religiosa del norte, y refuerza el mensaje de la abuela: decidir por convicción y no por miedo al qué dirán
 
 ---
 
 Lee el siguiente texto y responde las preguntas 6 a 10:
 
-## Texto 2 (preguntas 6 a 10): "El turno de las tres" (fragmento de obra teatral)
+## Texto 2 (preguntas 6 a 10): "Humo en el cerro" (fragmento de obra teatral)
 
-> **Personajes**: DON HÉCTOR (55 años, minero), FELIPE (17 años, su hijo), CAPATAZ.
-> **Escenario**: entrada de un socavón, en una faena de la zona norte de Chile. Comienza a atardecer. Se escucha, a lo lejos, una sirena de advertencia que suena de forma intermitente.
+> **Personajes**: DOÑA ELBA (74 años), BASTIÁN (18 años, su nieto), BRIGADISTA.
+> **Escenario**: interior de una casa de madera en un cerro de una ciudad costera, en febrero. Por la ventana se ve un resplandor anaranjado. A lo lejos se escucha, cada cierto tiempo, el pitido de una alerta de emergencia en los celulares.
 >
-> *(Luz tenue, color naranjo, simulando el atardecer. DON HÉCTOR se ajusta el casco. FELIPE entra corriendo.)*
+> *(Luz cálida, que se va volviendo rojiza. DOÑA ELBA ordena tazas en un mueble. BASTIÁN entra con una mochila.)*
 >
-> **FELIPE**: Papá, no bajís. Los mismos compañeros están diciendo que la galería tres está inestable, que hace ruidos raros desde la mañana.
+> **BASTIÁN**: Abuela, tenemos que salir ya. El fuego bajó por la quebrada y el viento lo está empujando para acá.
 >
-> **DON HÉCTOR**: *(sin mirarlo, revisando su lámpara)* Es el último turno de la semana, hijo. Si no bajo yo, baja otro, y ese otro tiene familia igual que yo.
+> **DOÑA ELBA**: *(sin dejar de ordenar)* Si me voy, ¿quién cuida la casa? Los vecinos de abajo ya se fueron y no queda nadie.
 >
-> **FELIPE**: ¡No es por otro, es por ti! Si te pasa algo...
+> **BASTIÁN**: ¡No es por la casa, es por ti! Si te pasa algo...
 >
-> **DON HÉCTOR**: *(lo interrumpe, ahora sí mirándolo)* A mí no me pasa nada hace treinta años bajando a esta mina. Treinta años, Felipe. Uno le pierde el miedo al ruido de la roca, aprende a distinguir cuál es peligroso y cuál no.
+> **DOÑA ELBA**: *(lo interrumpe, ahora sí mirándolo)* Cincuenta años viviendo en este cerro, Bastián. Cincuenta. Una aprende a leer el viento: sé cuándo el humo viene y cuándo se devuelve.
 >
-> *(La sirena suena de nuevo, más cerca. Entra el CAPATAZ.)*
+> *(Vuelve a sonar la alerta, más cerca. Entra el BRIGADISTA.)*
 >
-> **CAPATAZ**: Don Héctor, la ingeniera dice que esperemos hasta mañana para entrar a la tres. Que prefiere perder el turno a arriesgarse.
+> **BRIGADISTA**: Señora, tiene que evacuar. Esta calle ya no es segura; no podemos garantizar que volvamos a pasar.
 >
-> **DON HÉCTOR**: *(silencio breve, se quita el casco, lo mira)* Este casco lo tengo desde que entré a trabajar acá. Nunca he dejado un turno a medias.
+> **DOÑA ELBA**: *(silencio breve; saca una llave del bolsillo y la aprieta)* Esta llave me la dio mi marido el día que terminamos de levantar la casa, tabla por tabla. Nunca la he cerrado por fuera para irme.
 >
-> *(Oscuridad progresiva en el escenario, mientras la sirena suena por tercera vez, ahora sin interrupciones, un sonido continuo y grave que llena todo el espacio.)*
+> *(La luz se vuelve roja y baja poco a poco, mientras la alerta suena por tercera vez, ahora sin interrupciones, un pitido continuo que llena todo el espacio.)*
 >
-> **FELIPE**: *(gritando, mientras la luz sigue bajando)* ¡Papá!
+> **BASTIÁN**: *(gritando, mientras la luz sigue bajando)* ¡Abuela!
 
-**6. (Alternativas)** ¿Cuál es el conflicto central de "El turno de las tres"?
+**6. (Alternativas)** ¿Cuál es el conflicto central de "Humo en el cerro"?
 
-a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena y el respeto de los demás mineros
-b) La decisión de Felipe de trabajar en la misma mina que su padre, aunque su familia no está de acuerdo
-c) La falta de pago del sueldo de Don Héctor, que lo obliga a trabajar turnos dobles en la galería
-d) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
+a) La rivalidad entre doña Elba y el brigadista por quién manda en la calle
+b) La decisión de Bastián de irse a vivir a otra ciudad, aunque su abuela no está de acuerdo
+c) La falta de dinero para reparar la casa después de un temporal
+d) La tensión entre la seguridad de evacuar y el apego de doña Elba a la casa que construyó con su marido
 
-**7. (Verdadero o Falso)** El sonido de la sirena en la obra no tiene relación con el desenlace de la historia; es solo un detalle ambiental sin función dramática.
+**7. (Verdadero o Falso)** La alerta que suena en los celulares no tiene relación con el desenlace de la escena; es solo un detalle ambiental sin función dramática.
 
-**8. (Alternativas — Aplicación)** ¿Qué efecto produce oscurecer progresivamente la iluminación mientras suena la sirena?
+**8. (Alternativas — Aplicación)** ¿Qué efecto produce que la luz se vuelva roja y baje progresivamente mientras suena la alerta?
 
-a) Indica que la obra terminó y que el público debe salir de la sala antes de que se enciendan las luces
+a) Indica que la obra terminó y que el público debe salir de la sala
 b) Permite cambiar la escenografía sin que el público lo note, sin otro efecto en el sentido de la escena
-c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
+c) Refuerza el avance del peligro hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
 d) Ninguno: la iluminación es solo decorativa y no se relaciona con lo que ocurre entre los personajes
 
-**9. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Don Héctor como minero?
+**9. (Alternativas)** ¿Qué objeto funciona como símbolo del vínculo de doña Elba con su casa y con su historia?
 
-a) La sirena
-b) El casco
-c) La galería tres
-d) La lámpara del Capataz
+a) La alerta del celular
+b) La llave de la casa
+c) La mochila de Bastián
+d) Las tazas del mueble
 
-**10. (Alternativas)** ¿Qué funciona como presagio del desenlace trágico y por qué Don Héctor lo ignora?
+**10. (Alternativas)** ¿Qué funciona como presagio del desenlace y por qué doña Elba lo ignora?
 
-a) El sonido de los pájaros que salen de la mina; Don Héctor los ignora porque no alcanza a escucharlos con el ruido de las máquinas de la faena
-b) Una carta de su familia que le pide volver a casa; Don Héctor la ignora porque no sabe leer y prefiere no preguntarle a nadie qué dice
-c) Los "ruidos raros" en la galería y la recomendación de la ingeniera de esperar; los ignora porque su identidad de minero experimentado lo hace confiar en su propio juicio
-d) No hay ningún presagio en la escena: Don Héctor sigue la recomendación de la ingeniera y sale de la galería apenas escucha la sirena
+a) El ruido de los pájaros en el techo; lo ignora porque no alcanza a escucharlo
+b) Una carta de sus hijos que le pide irse; la ignora porque prefiere no leerla
+c) El resplandor del fuego, las alertas cada vez más cercanas y la advertencia del brigadista; los ignora porque su arraigo y su experiencia de "leer el viento" la hacen confiar en su propio juicio
+d) No hay ningún presagio: doña Elba sigue la indicación del brigadista y sale apenas escucha la alerta
 
 ---
 
 Lee el siguiente texto y responde las preguntas 11 a 15:
 
-## Texto 3 (preguntas 11 a 15): "Marejada" (microcuento)
+## Texto 3 (preguntas 11 a 15): "Bajamar" (microcuento)
 
-> Mi abuela decía que el mar nunca olvida lo que le deben. Ella nació en la costa de Arauco y, de niña, escuchó de su propia abuela la historia de Kai Kai Vilu, la serpiente del agua que quiso inundar la tierra entera, y de Trentren Vilu, la serpiente de la tierra, que elevó los cerros para salvar a la gente. "Por eso hay cerros altos cerca del mar —me explicaba—, para que la gente tenga adónde subir cuando el agua decide cobrar lo suyo."
+> Mi abuelo decía que el mar devuelve lo que se le respeta. Él nació en Quemchi y, de niño, escuchó de su madre la historia de la Pincoya, la mujer del mar que baila en la orilla: si baila mirando hacia el mar, las playas se llenan de mariscos; si baila mirando hacia la tierra, el mar se los lleva lejos. "Por eso no hay que sacar más de lo que uno necesita —me explicaba—, para que la Pincoya no se dé vuelta."
 >
-> Ahora, sesenta años después, veo en las noticias que el nivel del mar sube un poco más cada década en las mismas costas donde mi abuela jugaba de niña, y que varias caletas de pescadores ya perdieron parte de su terreno frente al agua. Los científicos hablan de calentamiento global, de deshielo, de temperatura promedio del océano. Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse, y que llevamos generaciones sin construir suficientes cerros.
+> Ahora, cincuenta años después, leo que en las mismas playas donde mi abuelo mariscaba ya casi no quedan bancos de almejas, y que la marea roja obliga cada cierto tiempo a cerrar la extracción. Los biólogos hablan de sobreexplotación, de floraciones de algas nocivas, de temperatura del agua y de cuotas de extracción. Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar, y que no le hemos dado motivos para volverse.
 
-**11. (Alternativas)** ¿A qué mito alude explícitamente el microcuento "Marejada"?
+**11. (Alternativas)** ¿A qué mito o leyenda alude explícitamente el microcuento "Bajamar"?
 
 a) El mito griego de Poseidón, dios del mar
-b) El mito mapuche de Kai Kai Vilu y Trentren Vilu
-c) La leyenda chilota del Caleuche, el barco fantasma
-d) El relato bíblico del diluvio universal y el arca
+b) La leyenda chilota de la Pincoya
+c) El mito mapuche de Kai Kai Vilu y Trentren Vilu
+d) El relato bíblico del diluvio universal
 
-**12. (Verdadero o Falso)** El microcuento presenta la cosmovisión mapuche y el discurso científico como visiones opuestas, donde una desmiente a la otra.
+**12. (Verdadero o Falso)** El microcuento presenta la leyenda de la Pincoya y la explicación de los biólogos como visiones opuestas, donde una desmiente a la otra.
 
-**13. (Alternativas — Aplicación)** ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber ancestral con la ciencia actual?
+**13. (Alternativas — Aplicación)** ¿Qué cita sustenta mejor la idea de que el relato pone en diálogo el saber tradicional con la ciencia actual?
 
-a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse"
-b) Cualquier frase del relato que mencione el mar, aunque no se relacione con el mito ni con la ciencia
+a) "Mi abuelo, si viviera, probablemente diría que la Pincoya lleva años bailando de espaldas al mar"
+b) Cualquier frase del relato que mencione el mar, aunque no se relacione con la leyenda ni con la ciencia
 c) El título del relato, porque resume por sí solo la interpretación sin necesidad de citar el texto
-d) La fecha de publicación del relato, que permite vincularlo con el contexto del cambio climático
+d) El nombre del pueblo donde nació el abuelo, que permite ubicar el relato en Chiloé
 
-**14. (Alternativas)** ¿Con qué contexto histórico se relaciona directamente el microcuento "Marejada"?
+**14. (Alternativas)** ¿Con qué contexto actual se relaciona directamente el microcuento "Bajamar"?
 
-a) La colonización española de Chile y la llegada de nuevos pueblos a la costa
-b) El cambio climático y el aumento documentado del nivel del mar en las últimas décadas
-c) La Guerra del Pacífico y la pérdida de territorios costeros en el norte del país
-d) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile
+a) La llegada de los españoles a Chiloé y la fundación de Castro
+b) La sobreexplotación de los recursos marinos y las floraciones de algas nocivas documentadas en las últimas décadas
+c) La construcción de iglesias de madera en Chiloé
+d) La fundación de las primeras escuelas rurales en el sur de Chile
 
-**15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Marejada"?
+**15. (Alternativas — crítica sustentada)** ¿Cuál de estas es una crítica literaria **sustentada** sobre "Bajamar"?
 
-a) "Me gustó mucho el cuento, porque habla del mar y de una abuela que cuenta historias antiguas"
-b) "No me gustó porque es corto y no explica bien qué le pasó a la abuela ni a su familia"
-c) "Es el mejor cuento del mundo, porque mezcla un mito con la ciencia y eso siempre funciona en cualquier relato que se escriba"
-d) "Valoro que no presente el mito como superstición frente a la ciencia, pues ambas explicaciones se funden en la frase final"
+a) "Me gustó mucho el cuento, porque habla del mar y de un abuelo que cuenta historias"
+b) "No me gustó porque es corto y no explica qué le pasó al abuelo"
+c) "Es el mejor cuento del mundo, porque mezcla una leyenda con la ciencia y eso siempre funciona"
+d) "Valoro que no presente la leyenda como superstición frente a la ciencia, pues en la frase final la imagen de la Pincoya expresa lo mismo que los biólogos describen"
 
 ---
 
 ## Pauta de respuestas
 
-**1.** d. El conflicto central organiza tanto las acciones del padre y del abuelo como la reflexión final de Tomás sobre lo que realmente desea.
+**1.** d. El conflicto organiza las acciones de la madre y de la abuela y la reflexión final de Javiera sobre lo que realmente desea.
 
-**2.** Falso. La narración en tercera persona permite mostrar detalles —como los gestos del padre— que el protagonista no necesariamente interpreta o nota; en primera persona, el lector solo accedería a lo que el propio Tomás percibe y elige contar.
+**2.** Falso. El narrador en tercera persona muestra detalles que la protagonista no interpreta, como la madre que cose "pinchándose los dedos". En primera persona, el lector solo conocería lo que Javiera percibe y elige contar.
 
-**3.** a) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa. Un símbolo adquiere sentido cuando el objeto se conecta con una idea o tensión central de la historia.
+**3.** a) Un símbolo adquiere sentido cuando el objeto se conecta con una idea central de la historia: la máscara inmóvil del abuelo representa una tradición que se hereda.
 
-**4.** c. Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor.
+**4.** c. Rosa transmite una enseñanza sin imponer una decisión ("Lo que decidas, que sea porque lo sientes"), un rasgo típico de la sabia o mentora.
 
-**5.** d) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia. Una referencia intertextual debe iluminar o profundizar el sentido del texto.
+**5.** d) La referencia intertextual profundiza el sentido: como la ñusta de la leyenda, Javiera debe decidir entre lo que siente y lo que se espera de ella.
 
-**6.** d. El conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.
+**6.** d. El conflicto organiza toda la escena, desde la advertencia de Bastián hasta el gesto de doña Elba con la llave.
 
-**7.** Falso. La sirena, que suena tres veces cada vez más cerca y finalmente de forma continua, funciona como un símbolo sonoro que anuncia progresivamente el desenlace, generando tensión creciente.
+**7.** Falso. La alerta suena tres veces, cada vez más cerca y al final de forma continua: es un signo sonoro que anuncia el peligro y aumenta la tensión.
 
-**8.** c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan. Los elementos de la puesta en escena son recursos deliberados para construir sentido y emoción.
+**8.** c) La iluminación es un recurso de la puesta en escena: el rojo y la oscuridad creciente comunican el avance del fuego y la incertidumbre del desenlace.
 
-**9.** b. El casco, que Don Héctor tiene desde que entró a trabajar en la mina, simboliza su identidad ligada al oficio; el gesto de quitárselo y mirarlo antes de decidir refuerza este sentido.
+**9.** b. La llave, que su marido le dio al terminar la casa, representa la vida que construyeron juntos; por eso doña Elba la aprieta antes de decidir.
 
-**10.** c) Los "ruidos raros" en la galería y la recomendación de la ingeniera de esperar; los ignora porque su identidad de minero experimentado lo hace confiar en su propio juicio. En las tragedias, los presagios son evidentes para el espectador, pero el personaje los ignora por razones ligadas a su carácter o valores.
+**10.** c) Los presagios son evidentes para el espectador, pero el personaje los ignora por razones ligadas a su carácter y su historia: su arraigo y su confianza en "leer el viento".
 
-**11.** b. El texto menciona explícitamente a Kai Kai Vilu (la serpiente del agua) y Trentren Vilu (la serpiente de la tierra), figuras de la cosmovisión mapuche.
+**11.** b. El texto nombra a la Pincoya, figura de la mitología chilota que con su baile trae o aleja los mariscos.
 
-**12.** Falso. El texto pone ambas visiones en diálogo, no en competencia; la voz de la abuela se actualiza con el lenguaje científico, sin que una invalide a la otra.
+**12.** Falso. El texto pone ambas visiones en diálogo: la enseñanza de la leyenda ("no sacar más de lo que uno necesita") coincide con lo que hoy explican los biólogos sobre la sobreexplotación.
 
-**13.** a) "Mi abuela, si viviera, probablemente diría que Kai Kai Vilu sigue subiendo, más lento pero sin detenerse". La frase funde el lenguaje mítico con la idea científica de un aumento lento y sostenido del nivel del mar.
+**13.** a) La frase funde la imagen de la leyenda con el fenómeno que describe la ciencia: la escasez sostenida de mariscos.
 
-**14.** b. El texto sitúa explícitamente los hechos en el contexto actual del cambio climático, mencionando el aumento del nivel del mar y la pérdida de terreno en caletas de pescadores.
+**14.** b. El texto menciona la desaparición de bancos de almejas, la marea roja y la sobreexplotación, problemas actuales de las costas de Chiloé.
 
-**15.** d) "Valoro que no presente el mito como superstición frente a la ciencia, pues ambas explicaciones se funden en la frase final". Una crítica válida es una valoración argumentada con evidencia textual, no solo una opinión.
+**15.** d) Una crítica sustentada es una valoración argumentada con evidencia del texto, no solo una opinión o una generalización.

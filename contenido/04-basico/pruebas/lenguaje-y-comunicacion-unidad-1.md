@@ -22,105 +22,105 @@ ultima_actualizacion: 2026-10-28
 
 ## Textos para esta prueba
 
-### Texto 1: "La sorpresa en Caleta Tortel"
+### Texto 1: "Los bidones de don Ruperto"
 
 Lee este cuento y responde las preguntas 1 a 5:
 
-> Valentina vivía con su mamá y su abuela en Caleta Tortel, un pueblo de la Región de Aysén construido casi completamente sobre pasarelas de madera, porque ahí no hay calles de tierra: todo el pueblo se conecta caminando sobre puentes de ciprés. A Valentina le encantaba el olor a mar y a bosque que se sentía en las mañanas.
+> Inés vivía con su papá y su abuela en Putre, un pueblo del altiplano de la Región de Arica y Parinacota, a más de tres mil metros de altura. Desde su ventana se veían los volcanes nevados, y en las mañanas el aire era tan frío que el aliento se convertía en humo.
 >
-> Ese sábado, su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta. Valentina tomó su chaqueta amarilla y salió corriendo por las pasarelas. Cuando llegó al depósito de leña, se dio cuenta de que alguien ya había amontonado toda la leña en bolsas, lista para llevar. Se quedó mirando, sorprendida, sin saber quién lo había hecho.
+> Ese viernes, su abuela le pidió que fuera a llenar dos bidones con agua en el estanque del pueblo, porque se acercaba una nevazón y las cañerías podían congelarse. Inés se puso su gorro de lana y salió caminando rápido por la calle de piedra. Cuando llegó al estanque, vio que junto a la llave había dos bidones llenos, con una cinta roja amarrada en el asa: eran los de su casa. Se quedó mirando, sorprendida, sin saber quién los había llenado.
 >
-> Cuando volvió a la casa cargando las bolsas, encontró a su vecino Wladimir sentado en la entrada, con las manos llenas de astillas de madera. "Vi las nubes negras esta mañana y pensé que tu abuela iba a necesitar ayuda", le dijo con una sonrisa. Valentina sintió que el corazón se le llenaba de alegría: por fin entendía por qué la leña ya estaba lista. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera llovía fuerte, las tres —Valentina, su mamá y su abuela— comieron sopaipillas calentitas junto a la estufa, agradecidas de tener un vecino tan atento.
+> Cuando volvió a la casa, empujando los bidones en un carrito, encontró a su vecino don Ruperto sentado en la puerta, con las manos rojas de frío. "Vi las nubes cargadas esta mañana y pensé que tu abuela iba a necesitar agua", le dijo con una sonrisa. Inés sintió que el corazón se le llenaba de alegría: por fin entendía quién había llenado los bidones. Le agradeció con un fuerte abrazo, y esa noche, mientras afuera caía la nieve, las cañerías se congelaron, pero la familia tuvo agua para preparar té con pan amasado junto a la estufa, agradecida de tener un vecino tan atento.
 
-### Texto 2: "El volcán dormido" (poema)
+### Texto 2: "El glaciar" (poema)
 
 Lee este poema y responde las preguntas 6 a 9:
 
-> El volcán se puso su manto blanco
-> y se acostó a dormir en la montaña.
-> Ronca despacito, un humito gris,
-> como una tetera que hierve en la mañana.
+> El glaciar duerme en su cama de piedra
+> tapado con su sábana blanca de hielo antiguo.
+> Cruje despacito, como una puerta vieja
+> que se abre de noche en la casa de mis tíos.
 >
-> Sus laderas verdes parecen un poncho
-> tejido con hilos de araucaria y bosque.
-> Cuando despierta, gruñe enojado,
-> y el pueblo entero mira hacia el monte.
+> Sus grietas azules parecen ríos
+> dibujados con un lápiz de cristal.
+> Cuando el sol lo toca, llora gotitas
+> que bajan cantando hasta el lago austral.
 
 ---
 
 ## Preguntas
 
-**1. (Alternativas)** Según el texto "La sorpresa en Caleta Tortel", ¿qué le pidió la abuela a Valentina que hiciera?
+**1. (Alternativas)** Según el texto "Los bidones de don Ruperto", ¿qué le pidió la abuela a Inés que hiciera?
 
-a) Que preparara sopaipillas
-b) Que fuera a buscar leña para la estufa
-c) Que visitara a Wladimir
-d) Que cerrara las ventanas por la tormenta
+a) Que preparara pan amasado
+b) Que fuera a llenar dos bidones con agua en el estanque del pueblo
+c) Que visitara a don Ruperto
+d) Que cerrara las ventanas por la nevazón
 
-**2. (Verdadero o Falso)** "Gracias a que Wladimir juntó la leña, la familia pudo estar calentita esa noche mientras afuera llovía." — Esta afirmación describe una **consecuencia** de una acción del texto.
+**2. (Verdadero o Falso)** "Gracias a que don Ruperto llenó los bidones, la familia tuvo agua esa noche, aunque las cañerías se congelaron." — Esta afirmación describe una **consecuencia** de una acción del texto.
 
-**3. (Alternativas — comparar personajes)** ¿Qué comparación entre Valentina y Wladimir se apoya en lo que muestra el texto?
+**3. (Alternativas — comparar personajes)** ¿Qué comparación entre Inés y don Ruperto se apoya en lo que muestra el texto?
 
-a) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
-b) Valentina es egoísta y Wladimir es descuidado con sus vecinos; no se parecen en nada, porque cada uno piensa solo en sí mismo
-c) Los dos son personajes que no ayudan a nadie durante la tormenta, porque se quedan en sus casas mirando la lluvia
-d) Wladimir es tímido y no habla con nadie, y Valentina nunca agradece nada de lo que hacen por ella y su familia
+a) Inés es agradecida y don Ruperto es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
+b) Inés es egoísta y don Ruperto es descuidado con sus vecinos; no se parecen en nada
+c) Los dos son personajes que no ayudan a nadie, porque se quedan en sus casas mirando la nieve
+d) Don Ruperto es tímido y no habla con nadie, e Inés nunca agradece lo que hacen por ella
 
-**4. (Alternativas)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto "La sorpresa en Caleta Tortel" y cómo se soluciona?
+**4. (Alternativas)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
 
-a) Valentina se pierde en las pasarelas durante la tormenta; se soluciona porque su mamá sale a buscarla con una linterna
-b) La estufa de la casa se rompe con el frío; se soluciona porque la abuela la arregla antes de que llegue la lluvia
-c) No hay comida en la casa para la noche; se soluciona porque compran sopaipillas en el almacén del pueblo
-d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
+a) Inés se pierde en la nieve; se soluciona porque su papá sale a buscarla
+b) La estufa de la casa se rompe con el frío; se soluciona porque la abuela la arregla
+c) No hay comida en la casa; se soluciona porque compran pan en el almacén
+d) Se acerca una nevazón y necesitan agua antes de que se congelen las cañerías; se soluciona porque don Ruperto ya había llenado los bidones
 
-**5. (Alternativas — opinión fundamentada)** Martín dice: "Estoy de acuerdo con la forma en que actuó Wladimir". ¿Qué fundamento usa información del texto?
+**5. (Alternativas — opinión fundamentada)** Sofía dice: "Estoy de acuerdo con la forma en que actuó don Ruperto". ¿Qué fundamento usa información del texto?
 
-a) Porque me cae bien la gente que se llama Wladimir, y él tiene un nombre muy bonito
-b) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta
-c) Porque en mi casa también hay una estufa a leña y nos gusta mucho calentarnos junto a ella cuando llueve fuerte
-d) Porque las sopaipillas son ricas y a mí también me gusta comerlas cuando llueve
+a) Porque me gusta el nombre Ruperto
+b) Porque ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia tuvo agua durante la nevazón
+c) Porque en mi casa también tomamos té con pan amasado
+d) Porque la nieve es bonita y me gustaría conocer Putre
 
-**6. (Alternativas)** Según el poema "El volcán dormido", ¿de qué color es el "manto" que se pone el volcán?
+**6. (Alternativas)** Según el poema "El glaciar", ¿de qué color es la "sábana" con que se tapa el glaciar?
 
-a) Verde
+a) Azul
 b) Gris
-c) Blanco
+c) Blanca
 d) Café
 
-**7. (Verdadero o Falso)** La expresión "el volcán se puso su manto blanco" es un ejemplo de **comparación**, porque usa la palabra "como".
+**7. (Verdadero o Falso)** La expresión "tapado con su sábana blanca de hielo antiguo" es un ejemplo de **comparación**, porque usa la palabra "como".
 
-**8. (Alternativas — lenguaje figurado)** En el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana", ¿qué figura del lenguaje figurado se usa y por qué?
+**8. (Alternativas — lenguaje figurado)** En los versos "Cruje despacito, como una puerta vieja / que se abre de noche en la casa de mis tíos", ¿qué figura del lenguaje figurado se usa y por qué?
 
 a) Una rima, porque todas las palabras del verso terminan con el mismo sonido
-b) Una pregunta, porque el verso tiene signos de interrogación al principio y al final
-c) Una comparación (símil), porque usa "como" para comparar el volcán con una tetera
-d) Una instrucción, porque el verso dice qué hacer cuando el volcán despierta
+b) Una pregunta, porque los versos tienen signos de interrogación
+c) Una comparación (símil), porque usa "como" para comparar el crujido del glaciar con el de una puerta vieja
+d) Una instrucción, porque los versos dicen qué hacer en la casa de los tíos
 
-**9. (Alternativas)** ¿Qué significa el verso "Sus laderas verdes parecen un poncho tejido con hilos de araucaria y bosque"?
+**9. (Alternativas)** ¿Qué significan los versos "Sus grietas azules parecen ríos / dibujados con un lápiz de cristal"?
 
-a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido
-b) Que alguien del pueblo tejió un poncho gigante de lana para abrigar al volcán en invierno
-c) Que en las laderas del volcán hay ferias donde se venden ponchos tejidos a mano
-d) Que la montaña tiene mucho frío en invierno y necesita un abrigo para no congelarse
+a) Que las grietas del hielo son largas, delgadas y de color azul, y se ven como ríos dibujados
+b) Que alguien dibujó ríos sobre el glaciar con un lápiz
+c) Que en el glaciar hay ríos de verdad donde se puede navegar
+d) Que el glaciar está hecho de lápices de colores
 
 ---
 
 ## Respuestas (Pauta)
 
-**1.** b) Que fuera a buscar leña para la estufa. El texto dice explícitamente "su abuela le pidió que fuera a buscar leña para la estufa, porque se acercaba una tormenta".
+**1.** b) El texto dice que "su abuela le pidió que fuera a llenar dos bidones con agua en el estanque del pueblo, porque se acercaba una nevazón".
 
-**2.** Verdadero. Es una consecuencia porque muestra el resultado de una acción anterior (Wladimir juntó la leña) sobre lo que pasó después (la familia estuvo cómoda y a salvo del frío).
+**2.** Verdadero. Es una consecuencia porque muestra el resultado de una acción anterior (don Ruperto llenó los bidones) sobre lo que pasó después (la familia tuvo agua aunque las cañerías se congelaron).
 
-**3.** a) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia. Comparar personajes es identificar semejanzas y diferencias, apoyándose en lo que el texto muestra.
+**3.** a) Comparar personajes es identificar semejanzas y diferencias, apoyándose en lo que el texto muestra: Inés agradece con un abrazo y don Ruperto se adelanta a ayudar.
 
-**4.** d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña. El problema es la tormenta que se acerca y la falta de leña para la estufa; se resuelve porque Wladimir ya había juntado la leña.
+**4.** d) El problema es la nevazón que se acerca y el riesgo de quedarse sin agua; se resuelve porque don Ruperto ya había llenado los bidones.
 
-**5.** b) Porque ayudó a su vecina sin esperar nada a cambio, y eso hizo que la familia estuviera segura durante la tormenta. Una buena opinión explica el porqué con información concreta del texto; también se podría opinar distinto, siempre apoyándose en el texto.
+**5.** b) Una buena opinión explica el porqué con información concreta del texto; también se podría opinar distinto, siempre apoyándose en el texto.
 
-**6.** c) Blanco. El poema dice "El volcán se puso su manto blanco", que es una metáfora de la nieve. El gris corresponde al humo, no al manto.
+**6.** c) Blanca. El poema dice "su sábana blanca de hielo antiguo", una metáfora del hielo que cubre el glaciar. El azul corresponde a las grietas.
 
-**7.** Falso. Esta expresión es una **metáfora**, porque nombra la nieve directamente como "manto", sin usar la palabra "como". Si dijera "la nieve parece un manto", ahí sí sería una comparación.
+**7.** Falso. Esa expresión es una **metáfora**, porque nombra el hielo directamente como "sábana", sin usar la palabra "como". Si dijera "el hielo parece una sábana", sería una comparación.
 
-**8.** c) Una comparación (símil), porque usa "como" para comparar el volcán con una tetera. La palabra "como" es la pista más clara para reconocer una comparación.
+**8.** c) La palabra "como" es la pista más clara para reconocer una comparación: el crujido del hielo se parece al de una puerta vieja.
 
-**9.** a) Que las laderas de la montaña están cubiertas de vegetación tan tupida que parece un poncho tejido. Es una comparación: el verde de los árboles cubre la montaña como si fuera un poncho tejido. Nadie tejió un poncho de verdad.
+**9.** a) Es una comparación: las grietas azules se ven como ríos dibujados. Nadie dibujó sobre el glaciar.

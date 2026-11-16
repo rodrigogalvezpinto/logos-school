@@ -18,136 +18,141 @@ ultima_actualizacion: 2026-10-28
 
 Lee los estímulos incluidos a continuación para responder las preguntas 1 a 14: una columna de opinión y dos versiones de un texto, (a) y (b). Cada pregunta indica si se refiere a la columna o a las versiones. No se requiere estudio previo de la guía.
 
-**Columna de opinión — «Por qué Chile no puede seguir regalando su cobre»**
+**Columna de opinión — «La ciudad no puede seguir siendo de los autos»**
 
-Texto didáctico ficticio de Logos School: la cifra y su atribución al Consejo Minero se simulan para analizar el discurso; no certifican un dato externo. Nombrar una institución no basta para verificar una afirmación: faltan informe, fecha, método y enlace.
+Texto didáctico ficticio de Logos School: la cifra y su atribución al «Observatorio Urbano Metropolitano» se simulan para analizar el discurso; no certifican un dato externo. Nombrar una institución no basta para verificar una afirmación: faltan informe, fecha, método y enlace.
 
-> Chile ha exportado cobre por más de un siglo, y sin embargo seguimos discutiendo si las empresas mineras pagan lo suficiente por extraer un recurso que no se puede recuperar. Según cifras del Consejo Minero, la tributación efectiva de la gran minería privada bordea el 40%, una cifra que las propias empresas repiten en cada debate legislativo como prueba de que "ya aportan demasiado". Pero esa cifra no cuenta toda la historia: no incluye el costo ambiental del agua que consumen en regiones donde la sequía ya es estructural, ni el hecho de que buena parte de las utilidades se gira a matrices en el extranjero, lejos de las comunidades que conviven con los tranques de relave.
+> Cada invierno repetimos el mismo ritual: alertas ambientales, restricción vehicular y niños con tos en los consultorios. Según el Observatorio Urbano Metropolitano, los autos particulares generan cerca del 35% del material particulado fino de la ciudad, una cifra que los defensores del automóvil suelen relativizar diciendo que "la culpa es de la leña y de las industrias". Pero esa cifra no cuenta toda la historia: no incluye las horas que pierden en tacos los buses que trasladan a la mayoría de la población, ni el espacio público que se entrega a estacionamientos mientras faltan plazas en los barrios de la periferia.
 >
-> No se trata de expulsar a las mineras del país —serían necesarias décadas para reemplazar esos ingresos—, sino de exigir que retribuyan, en la misma proporción que se llevan, a las regiones que sostienen la industria. Cualquiera que se oponga a esto, en el fondo, está eligiendo el bolsillo de un puñado de accionistas por sobre el futuro de Atacama y Antofagasta.
+> No se trata de prohibir el auto —muchas familias no tienen alternativas cercanas—, sino de cobrar un cargo por entrar en auto al centro en horario punta y destinar todo lo recaudado a mejorar el transporte público. Cualquiera que se oponga a esto, en el fondo, está eligiendo la comodidad de unos pocos por sobre la salud de todos.
 
-**Situación de escritura:** comunicar una comparación de dos fragmentos ficticios sobre el desarraigo: A narra desde la memoria de un hijo el exilio de una familia chilena en Suecia, con una madre que guarda la llave de su casa durante diecisiete años; B narra en tercera persona la adaptación de Wilmer en Antofagasta y sus videollamadas a su abuela en Maracaibo. Para producción, se simula A escrito en 1992 para recuperar memorias del exilio y B en 2026 en un debate sobre migración; no son fechas bibliográficas reales.
+**Situación de escritura:** comunicar una comparación de dos fragmentos ficticios sobre el desarraigo: A narra desde la memoria de una nieta el traslado de su familia desde un valle inundado por una represa, con una abuela que guarda un frasco de tierra durante veinte años; B narra en tercera persona la adaptación de Mahina, que dejó Rapa Nui para estudiar en Santiago, y sus videollamadas a su abuela en Hanga Roa. Para producción, se simula A escrito en 2005 para recuperar la memoria del traslado y B en 2026, en un debate sobre jóvenes que dejan sus territorios para estudiar; no son fechas bibliográficas reales.
 
 **Versión (a) — párrafo de ensayo comparativo, dirigido a un profesor evaluador**
 
-> Ambos textos abordan el desarraigo, pero desde contextos de producción opuestos. Por un lado, "El baúl que no llegó" trata el exilio forzado por la dictadura como una pérdida heredada por la generación hija, lo que produce un efecto estético elegíaco. Por otro lado, "Data para llamar a la abuela" trata la migración económica contemporánea como un proceso de adaptación activa, lo que produce un efecto estético agridulce y esperanzador. En consecuencia, comparar ambos textos permite comprender que un mismo tema —el desarraigo— admite tratamientos radicalmente distintos según el contexto histórico en que la obra se produce.
+> Ambos textos abordan el desarraigo, pero desde situaciones de partida opuestas. En primer lugar, "El frasco de tierra" trata el traslado forzado de una familia como una pérdida heredada por la generación de los nietos, lo que produce un efecto estético elegíaco. En cambio, "Señal para Hanga Roa" trata la salida voluntaria de una joven para estudiar como un proceso de adaptación activa, lo que produce un efecto estético agridulce y esperanzador. Por lo tanto, comparar ambos textos permite comprender que un mismo tema —el desarraigo— admite tratamientos muy distintos según el contexto en que la obra se produce.
 
 **Versión (b) — guion de podcast estudiantil para compañeros, borrador sin corregir**
 
-> Hoy leímos dos cuentos. Uno pasa en dictadura. Antofagasta queda en el norte de Chile. La abuela vive en Maracaibo. Los dos cuentos son buenos, escúchenlos.
+> Hoy leímos dos cuentos. Uno pasa en un valle. Hanga Roa queda en Rapa Nui. La abuela vive en la isla. Los dos cuentos son buenos, escúchenlos.
 
 **Versión (b) corregida — ejemplo de adecuación oral y cohesión**
 
-> Hoy comparamos dos relatos sobre dejar el hogar: uno ambientado en el exilio de la dictadura, y el otro en la migración de hoy. ¿Se imaginan guardar la llave de tu casa durante diecisiete años, o llamar todas las noches a tu abuela desde el otro lado del continente? Los dos textos duelen distinto, pero los dos duelen. Los dejamos en la descripción.
+> Hoy comparamos dos relatos sobre dejar el hogar: en uno, una familia pierde su valle bajo una represa; en el otro, una joven deja su isla para estudiar. ¿Se imaginan guardar un frasco con tierra de su casa durante veinte años, o buscar señal cada noche para hablar con su abuela al otro lado del océano? Los dos textos duelen distinto, pero los dos duelen. Los dejamos en la descripción.
 
 ---
 
-1. *(Alternativas)* ¿Cuál es la intención explícita de la columna sobre el royalty minero?
-   a) Informar de manera neutral sobre la historia de la minería del cobre en Chile
-   b) Argumentar que las empresas mineras deberían retribuir más a las regiones donde operan
-   c) Proponer la expulsión de todas las empresas mineras extranjeras del país
-   d) Explicar el funcionamiento técnico de un tranque de relave y sus riesgos
+1. *(Alternativas)* ¿Cuál es la intención explícita de la columna sobre los autos en la ciudad?
 
-2. *(Verdadero o Falso)* La frase final de la columna ("cualquiera que se oponga a esto... está eligiendo el bolsillo de un puñado de accionistas") invita abiertamente al lector a considerar los argumentos de quienes están en desacuerdo.
+a) Informar de manera neutral sobre la historia del transporte en la ciudad
+b) Argumentar que se debería cobrar por entrar en auto al centro en horario punta y usar lo recaudado para mejorar el transporte público
+c) Proponer la prohibición total de los autos particulares en la ciudad
+d) Explicar el funcionamiento técnico de las mediciones de material particulado
+
+2. *(Verdadero o Falso)* La frase final de la columna ("cualquiera que se oponga a esto… está eligiendo la comodidad de unos pocos por sobre la salud de todos") invita abiertamente al lector a considerar los argumentos de quienes están en desacuerdo.
 
 3. *(Alternativas)* ¿Qué rol asume el enunciador de la columna frente a su audiencia, y qué recurso sostiene esa identificación?
 
-a) Defensor del interés regional y ambiental frente a un poder económico concentrado; no expone en igual medida los argumentos de las mineras y su cierre interpela la responsabilidad moral del lector
-b) Periodista neutral que presenta en igual medida las posturas de las regiones y de las empresas mineras, cita a ambas partes y deja que el lector decida sin interpelarlo en el cierre
-c) Vocero de las empresas mineras, que defiende sus utilidades frente a las regiones y descalifica a quienes proponen aumentar la tributación
-d) Científico que solo expone datos técnicos sobre la minería y el agua, sin tomar ninguna postura sobre la distribución de la riqueza
+a) Defensor del interés colectivo (aire limpio y transporte público) frente al uso masivo del auto; no expone en igual medida los argumentos de los automovilistas y su cierre interpela la responsabilidad moral del lector
+b) Periodista neutral que presenta en igual medida todas las posturas y deja que el lector decida sin interpelarlo
+c) Vocero de los automovilistas, que defiende el uso del auto y descalifica a quienes proponen el cobro
+d) Científico que solo expone datos técnicos sobre la contaminación, sin tomar ninguna postura
 
 4. *(Alternativas)* ¿Qué dato del texto es más fácilmente verificable por el lector?
-   a) Que la tributación efectiva de la gran minería bordea el 40%, según el Consejo Minero
-   b) Que "buena parte de las utilidades se gira a matrices en el extranjero"
-   c) Que las mineras "regalan" el cobre de Chile
-   d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas
+
+a) Que los autos particulares generan cerca del 35% del material particulado fino de la ciudad, según el Observatorio Urbano Metropolitano
+b) Que los buses "pierden horas en tacos"
+c) Que "la ciudad no puede seguir siendo de los autos"
+d) Que oponerse al cobro equivale a elegir la comodidad de unos pocos
 
 5. *(Alternativas)* ¿Qué visión de fondo sostiene la columna y qué implica reconocerla?
 
-a) Prioriza la maximización de utilidades privadas de las mineras; reconocerla prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
-b) No tiene ninguna visión de fondo: es totalmente neutral, porque se limita a citar cifras de instituciones y no hay valores en juego que el lector deba reconocer
-c) Prioriza la redistribución hacia las regiones; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector solo acepta textos sin ninguna postura
-d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes
+a) Prioriza la libertad individual de usar el auto; reconocerla prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
+b) No tiene ninguna visión de fondo: es totalmente neutral, porque cita cifras de una institución
+c) Prioriza el bien común; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector solo acepta textos sin postura
+d) Prioriza el bien común y el transporte colectivo por sobre el uso individual del espacio urbano; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes
 
-6. *(Varias correctas)* Sobre la cifra tributaria y el consumo de agua que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
+6. *(Varias correctas)* Sobre la cifra de contaminación y el espacio urbano que menciona la columna, ¿qué afirmaciones evalúan correctamente su veracidad? Marca **todas** las correctas.
 
 a) La cifra y su atribución son ficticias en el estímulo: no prueban por sí solas un hecho externo
-b) Para contrastarlas haría falta el informe, su fecha, el método de cálculo tributario y datos regionales de agua
-c) «Buena parte», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
+b) Para contrastarlas haría falta el informe, su fecha, el método de medición y datos de otras fuentes de emisión
+c) «Muchas familias», sin magnitud, y el falso dilema del cierre son recursos persuasivos sin respaldo suficiente
 d) Basta con que el texto nombre una institución para considerar verificados los datos
 
-7. *(Alternativas)* ¿Qué rol NO asume el enunciador de la columna frente a su audiencia?
-   a) Defensor del interés regional y ambiental
-   b) Fuente neutral que expone en igual medida todas las posturas sobre el tema
-   c) Interpelador directo que apela a la responsabilidad moral del lector
-   d) Voz crítica frente al argumento empresarial de que "ya aportan demasiado"
+7. *(Alternativas)* ¿Qué recurso NO usa la columna para persuadir?
 
-8. *(Alternativas)* ¿Cuál es la principal diferencia de propósito entre la versión (a) —ensayo comparativo— y la versión (b) —guion de podcast— del ejercicio trabajado?
-   a) Ambas buscan exactamente lo mismo, argumentar una comparación; solo cambia el idioma en que se presentan
-   b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y oral
-   c) La versión (a) es oral y busca despertar interés; la versión (b) es escrita y argumenta una comparación
-   d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen más corto de la versión (a)
+a) Una cifra atribuida a una institución
+b) La exposición del argumento contrario con la misma extensión y fuerza que la propia postura
+c) Un falso dilema en la frase final
+d) Una concesión: "No se trata de prohibir el auto —muchas familias no tienen alternativas cercanas—"
 
-9. *(Verdadero o Falso)* La versión (b) del ejercicio, antes de ser corregida, mantiene correctamente el tema central en todas sus oraciones.
+8. *(Alternativas)* ¿Cuál es la principal diferencia de propósito entre la versión (a) —ensayo comparativo— y la versión (b) —guion de podcast— del ejercicio?
 
-10. *(Alternativas)* ¿Qué función cumplen los conectores "por un lado", "por otro lado" y "en consecuencia" en el párrafo comparativo de la versión (a)?
+a) Ambas buscan exactamente lo mismo; solo cambia el idioma
+b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y oral
+c) La versión (a) es oral y busca despertar interés; la versión (b) es escrita y argumenta
+d) La versión (b) no tiene ningún propósito comunicativo
 
-a) Todos introducen ejemplos de cada texto, sin relación entre ellos
-b) "Por un lado" y "por otro lado" organizan la comparación de forma simétrica; "en consecuencia" marca la conclusión que se desprende de ella
-c) Todos expresan contraste entre el Texto A y el Texto B por igual
-d) "En consecuencia" introduce el primer texto; "por un lado", el segundo; y "por otro lado", la conclusión que se desprende de la comparación
+9. *(Verdadero o Falso)* El borrador sin corregir de la versión (b) mantiene correctamente el tema central en todas sus oraciones.
 
-11. *(Alternativas)* ¿Qué reescritura mejora la cohesión de "Uno pasa en dictadura. La abuela vive en Maracaibo." mediante un conector adecuado?
+10. *(Alternativas)* En el párrafo comparativo de la versión (a), ¿qué relación entre las ideas marca cada conector: "en primer lugar", "en cambio" y "por lo tanto"?
 
-a) "Uno pasa en dictadura, porque el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
-b) "Uno pasa en dictadura. Además. El otro cuenta la historia de un joven. La abuela vive en Maracaibo."
-c) "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
-d) "Uno pasa en dictadura, por lo tanto el otro cuenta la historia de un joven cuya abuela vive en Maracaibo."
+a) Los tres marcan causa: cada texto explica por qué ocurre el siguiente
+b) "En primer lugar" ordena la exposición, "en cambio" introduce el contraste con el segundo texto y "por lo tanto" marca la conclusión que se desprende de la comparación
+c) Los tres marcan contraste por igual
+d) "Por lo tanto" introduce el primer texto, "en primer lugar" el segundo y "en cambio" la conclusión
 
-12. *(Alternativas)* ¿Por qué la pregunta retórica "¿se imaginan guardar la llave de tu casa durante diecisiete años...?" no representa un error de adecuación en la versión (b) corregida?
-   a) Porque las preguntas retóricas siempre deben evitarse en cualquier texto, aunque en un podcast se toleran por ser oral
-   b) Porque en un guion de podcast dirigido a compañeros de curso, involucrar directamente al oyente es una convención de género válida y esperada
-   c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido en un guion breve para compañeros
-   d) Porque los podcasts no tienen convenciones propias de género, así que cualquier recurso resulta igualmente adecuado
+11. *(Alternativas)* ¿Qué reescritura mejora la cohesión de "Uno pasa en un valle. La abuela vive en la isla." mediante un conector adecuado?
 
-13. *(Alternativas)* ¿Por qué adecuar un texto a otra audiencia (de un ensayo comparativo a un guion de podcast) no significa necesariamente perder profundidad interpretativa?
+a) "Uno pasa en un valle, porque el otro cuenta la historia de una joven cuya abuela vive en la isla."
+b) "Uno pasa en un valle. Además. El otro cuenta la historia de una joven. La abuela vive en la isla."
+c) "Uno pasa en un valle inundado por una represa, mientras que el otro cuenta la historia de una joven cuya abuela vive en Rapa Nui."
+d) "Uno pasa en un valle, por lo tanto el otro cuenta la historia de una joven cuya abuela vive en la isla."
+
+12. *(Alternativas)* ¿Por qué la pregunta retórica "¿Se imaginan guardar un frasco con tierra de su casa durante veinte años…?" no representa un error de adecuación en la versión (b) corregida?
+
+a) Porque las preguntas retóricas siempre deben evitarse, aunque en un podcast se toleran
+b) Porque en un guion de podcast dirigido a compañeros de curso, involucrar directamente al oyente es una convención de género válida y esperada
+c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo
+d) Porque los podcasts no tienen convenciones propias, así que cualquier recurso es igualmente adecuado
+
+13. *(Alternativas)* ¿Por qué adaptar el ensayo comparativo a un guion de podcast no significa necesariamente perder profundidad interpretativa?
 
 a) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad
-b) Porque el podcast siempre es más profundo que el ensayo, ya que llega a más oyentes y permite usar la voz para transmitir emociones
-c) Porque adecuar un texto consiste en copiar el mismo ensayo y leerlo en voz alta, sin cambiar su registro, su extensión ni sus recursos
-d) Sí significa perderla siempre: adaptar un ensayo a un podcast es simplificarlo, porque un formato oral no admite interpretaciones complejas
+b) Porque el podcast siempre es más profundo que el ensayo, ya que llega a más oyentes
+c) Porque adecuar un texto consiste en leer el mismo ensayo en voz alta, sin cambiar su registro
+d) Sí significa perderla siempre: un formato oral no admite interpretaciones complejas
 
-14. *(Verdadero o Falso)* El proceso de escritura en 4° medio consiste únicamente en escribir un texto de una sola vez, sin necesidad de planificación ni revisión posterior, porque ya se domina la escritura desde 3° medio.
+14. *(Verdadero o Falso)* La versión (b) corregida pudo escribirse de una sola vez, sin planificar a qué audiencia se dirigía ni revisar el borrador anterior, porque en 4.° medio ya no es necesario revisar lo que se escribe.
 
 ---
 
 ## Pauta de respuestas
 
-1. **b.** El propio texto declara y sostiene con datos y ejemplos esa postura a lo largo de todo el párrafo, por lo que corresponde a una intención explícita, no oculta.
+1. **b.** El texto declara y sostiene esa postura con datos y ejemplos en ambos párrafos: es una intención explícita, no oculta.
 
-2. **Falso.** Esa frase cumple una función implícita distinta: presenta solo dos opciones posibles (apoyar la columna o "elegir el bolsillo de los accionistas"), cerrando la discusión en vez de invitar a evaluar otros argumentos.
+2. **Falso.** Esa frase presenta solo dos opciones (apoyar la columna o "elegir la comodidad de unos pocos"): es un falso dilema que cierra la discusión en vez de invitar a evaluar otros argumentos.
 
-3. a) Defensor del interés regional y ambiental frente a un poder económico concentrado; no expone en igual medida los argumentos de las mineras y su cierre interpela la responsabilidad moral del lector. Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
+3. a) Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
 
 4. **a.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
 
-5. d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes. Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
+5. d) Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
 
 6. a, b y c — Contrastable no significa verificado: es válido concluir que el estímulo no aporta evidencia externa comprobada, sin inventar evidencia que el texto no ofrece.
 
-7. **b.** El texto no busca exponer en igual medida los argumentos de las empresas mineras y los de quienes piden mayor retribución; adopta explícitamente una postura, lo que lo aleja del rol de fuente neutral.
+7. **b.** La columna menciona el argumento contrario ("la culpa es de la leña y de las industrias") solo para rebatirlo, sin darle el mismo espacio que a su postura; sí usa una cifra atribuida, una concesión y un falso dilema.
 
-8. **b.** Aunque ambas versiones comunican la misma comparación interpretativa central, sus propósitos comunicativos son distintos, lo que justifica que se escriban de forma diferente.
+8. **b.** Ambas versiones comunican la misma comparación central, pero sus propósitos comunicativos son distintos, lo que justifica que se escriban de forma diferente.
 
-9. **Falso.** La versión (b) sin corregir yuxtapone oraciones sin conectores que muestren su relación, y la mención de que "Antofagasta queda en el norte de Chile" interrumpe la progresión temática sobre la comparación entre ambos textos, sin aportar al argumento central.
+9. **Falso.** El borrador yuxtapone oraciones sin conectores, y "Hanga Roa queda en Rapa Nui" interrumpe la progresión temática sobre la comparación, sin aportar al argumento.
 
-10. b) "Por un lado" y "por otro lado" organizan la comparación de forma simétrica; "en consecuencia" marca la conclusión que se desprende de ella. En un texto comparativo, los conectores muestran al lector cuándo se habla de una obra, cuándo de la otra y cuándo se saca una conclusión conjunta.
+10. b) En un texto comparativo, los conectores muestran al lector cuándo se habla de una obra, cuándo se contrasta con la otra y cuándo se saca una conclusión conjunta.
 
-11. c) "Uno pasa en dictadura, mientras que el otro cuenta la historia de un joven cuya abuela vive en Maracaibo.". Mejorar la cohesión no requiere alargar el texto, sino elegir un conector que muestre con precisión la relación (aquí, de contraste) entre las ideas; causa o consecuencia serían relaciones falsas.
+11. c) Mejorar la cohesión no requiere alargar mucho el texto, sino elegir un conector que muestre con precisión la relación entre las ideas (aquí, de contraste); causa o consecuencia serían relaciones falsas.
 
-12. **b.** Adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es una convención habitual y efectiva.
+12. **b.** Adecuar un texto a su audiencia implica reconocer las convenciones de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es habitual y efectivo.
 
-13. a) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad. Adecuar un texto a otra audiencia y género es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
+13. **a.** Adecuar no es simplificar: se puede conservar la comparación central y cambiar el registro, la extensión y los recursos según la audiencia.
 
-14. **Falso.** El proceso de escritura sigue considerando al menos tres etapas —planificar, escribir y revisar— sin importar el nivel de experiencia; saltarse la planificación o la revisión suele producir textos menos coherentes o poco adecuados a quien los va a leer, ver o escuchar.
+14. **Falso.** El paso del borrador a la versión corregida muestra el proceso de escritura: planificar según la audiencia, escribir y revisar para mejorar la cohesión y la adecuación.

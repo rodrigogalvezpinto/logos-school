@@ -26,9 +26,9 @@ b) 1
 c) 2
 d) 5
 
-**Pregunta 2 (verdadero o falso).** La letra "H" mayúscula tiene una línea de simetría vertical.
+**Pregunta 2 (verdadero o falso).** La letra "T" mayúscula tiene una línea de simetría vertical.
 
-**Pregunta 3 (verdadero o falso).** La letra "R" mayúscula tiene una línea de simetría.
+**Pregunta 3 (verdadero o falso).** La letra "J" mayúscula tiene una línea de simetría.
 
 **Pregunta 4 (alternativas).** ¿Cuántas líneas de simetría tiene un rectángulo que no es cuadrado (dos lados largos y dos lados cortos)?
 
@@ -69,8 +69,8 @@ d) Como la letra "d"
 ## Pauta de respuestas
 
 1. **d) 5.** Un pentágono regular tiene una línea de simetría por cada vértice: va desde ese vértice hasta el punto medio del lado opuesto. Igual que el triángulo equilátero tiene 3, el pentágono regular tiene 5.
-2. **Verdadero.** Si doblas la letra "H" por el medio (verticalmente), las dos mitades coinciden. También tiene una línea horizontal.
-3. **Falso.** La "R" tiene la pata inclinada solo a la derecha: ningún doblez hace coincidir sus dos mitades.
+2. **Verdadero.** Si doblas la letra "T" por el medio, de arriba hacia abajo, las dos mitades coinciden.
+3. **Falso.** La curva de la "J" va solo hacia la izquierda: ningún doblez hace coincidir sus dos mitades.
 4. c) 2 — una vertical y una horizontal, por el medio de los lados. Las diagonales no sirven: al doblar por una diagonal, las mitades no coinciden (solo en el cuadrado sí).
 5. **b) Traslación.** El auto cambia de lugar, pero su forma y su orientación se mantienen iguales.
 6. **Falso.** En una rotación la figura solo cambia de posición: su forma y su tamaño se mantienen.
