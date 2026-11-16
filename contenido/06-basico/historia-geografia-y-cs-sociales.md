@@ -174,8 +174,7 @@ c) El descubrimiento de nuevas rutas comerciales hacia Asia
 d) El malestar criollo por su exclusión de los altos cargos de gobierno
 
 ✅ Respuesta correcta: **c) El descubrimiento de nuevas rutas comerciales hacia Asia**
-💬 *Retroalimentación:* Esta opción no corresponde a los antecedentes históricos de la
-Independencia; las causas reales fueron políticas, sociales e ideológicas.
+💬 *Retroalimentación:* Las nuevas rutas comerciales hacia Asia se buscaron en el siglo XV, mucho antes, y no causaron la Independencia. Sus causas fueron, entre otras, la invasión de Napoleón a España, el descontento criollo y las ideas ilustradas.
 
 ---
 
@@ -732,7 +731,7 @@ c) Porque así votaban menos personas en cada elección, lo que hacía más fác
 d) Porque las mujeres son cerca de la mitad de la población, y excluirlas significaba decidir sin la voz de una parte muy importante de la sociedad
 
 ✅ Respuesta correcta: **d) Porque las mujeres son cerca de la mitad de la población, y excluirlas significaba decidir sin la voz de una parte muy importante de la sociedad**
-💬 *Retroalimentación:* La democracia se fortalece cuando todas las personas pueden participar en las decisiones del país.
+💬 *Retroalimentación:* Las mujeres son cerca de la mitad de la población; mientras no votaban, el país decidía sin escuchar a una parte enorme de la sociedad. Con el voto femenino, la democracia se volvió más representativa.
 
 ---
 
@@ -857,7 +856,7 @@ c) En que no existen distintas visiones sobre el período y todos lo recuerdan i
 d) En el valor de la democracia como forma de gobierno y el rechazo a las violaciones de los derechos humanos
 
 ✅ Respuesta correcta: **d) En el valor de la democracia como forma de gobierno y el rechazo a las violaciones de los derechos humanos**
-💬 *Retroalimentación:* Ese consenso existe independientemente de las distintas posturas políticas sobre otros aspectos del período.
+💬 *Retroalimentación:* Aunque hay distintas visiones sobre el período, hoy existe un amplio acuerdo en valorar la democracia y en rechazar las violaciones de los derechos humanos, sin importar la postura política.
 
 ---
 
@@ -1412,7 +1411,7 @@ c) Porque el cargo se hereda a los hijos al terminar el período, y así se aseg
 d) Porque la ciudadanía puede evaluar su desempeño y decidir en nuevas elecciones, evitando que alguien se perpetúe en el poder
 
 ✅ Respuesta correcta: **d) Porque la ciudadanía puede evaluar su desempeño y decidir en nuevas elecciones, evitando que alguien se perpetúe en el poder**
-💬 *Retroalimentación:* El carácter temporal de los cargos es una forma de control democrático.
+💬 *Retroalimentación:* Si el cargo dura un tiempo limitado, la ciudadanía puede evaluar a la autoridad y decidir en una nueva elección si la mantiene o la cambia; así nadie se perpetúa en el poder.
 
 ---
 

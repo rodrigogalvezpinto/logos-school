@@ -908,7 +908,7 @@ c) La diferencia entre la máxima y la mínima se mantuvo estable (entre 8°C y 
 d) No se puede concluir nada de un gráfico de barras dobles sin la tabla
 
 **Respuesta correcta: c) La diferencia entre la máxima y la mínima se mantuvo estable (entre 8°C y 10°C), sin cambios bruscos.**
-*Retroalimentación:* una buena conclusión identifica un patrón o tendencia general observando el gráfico completo, no solo un dato puntual.
+*Retroalimentación:* Si se resta la mínima a la máxima de cada día, la diferencia queda siempre entre 8 °C y 10 °C (por ejemplo, 18 − 9 = 9 el lunes). Por eso se puede concluir que se mantuvo estable, sin cambios bruscos.
 
 **Pregunta 6 (alternativas — gráfico circular).** En un gráfico circular, la porción "caminando" ocupa exactamente un cuarto del círculo. ¿Qué porcentaje de estudiantes camina y, si el colegio tiene 320 estudiantes, cuántos caminan?
 a) 25% y 80 estudiantes

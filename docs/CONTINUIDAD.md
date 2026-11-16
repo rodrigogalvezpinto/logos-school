@@ -144,7 +144,7 @@ al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
 ```
 - Si **no explica** → `cambiar(...)`: explicar por qué la clave es correcta (y, si cabe, el error de un distractor típico).
 - Si **sí explica con otras palabras** → agregar `(archivo, inicio del enunciado)` a `REVISADAS_A_MANO` del detector.
-Hechos: 1.° a 4.° básico (19 reescritas, 16 revisadas). Siguiente: 5.° básico. Al terminar los 12, agregar una guarda en pytest.
+Hechos: 1.° a 6.° básico (47 reescritas, 38 revisadas). Siguiente: 7.° básico. Al terminar los 12, agregar una guarda en pytest.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

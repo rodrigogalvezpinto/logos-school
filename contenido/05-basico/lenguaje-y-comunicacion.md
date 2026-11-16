@@ -210,7 +210,7 @@ b) Peligro y tensión, porque viene un temporal sobre el valle
 c) Alegría ruidosa de una fiesta que dura toda la noche
 d) Que las hojas tienen boca y hablan de verdad con las personas
 
-*Respuesta correcta: a.* Retroalimentación: le da al viento una acción humana (contar secretos). Explicar una personificación no es solo identificarla, sino decir *qué sensación o imagen* provoca en quien lee.
+*Respuesta correcta: a.* Retroalimentación: La personificación le da al viento una acción humana, contar secretos, y así transmite intimidad y misterio, como si el valle estuviera vivo en la noche. Explicarla es decir qué sensación provoca en quien lee.
 
 **4. (Alternativas)** ¿Cuál de los siguientes versos del poema es una **metáfora** (y no una comparación)?
 
@@ -422,7 +422,7 @@ b) Sí: dice que la entrada es liberada, y eso basta para saber cómo llegar
 c) No: solo indica el lugar (patio central del establecimiento), pero no cómo llegar en transporte público
 d) No: el afiche no menciona el nombre de la escuela
 
-*Respuesta correcta: c.* Retroalimentación: reconocer que un texto no responde una pregunta específica (aunque sea útil para otros fines) es parte de evaluar críticamente la información disponible.
+*Respuesta correcta: c.* Retroalimentación: El afiche solo dice que la feria es en el patio central de la escuela, pero no indica qué transporte público llega cerca. Reconocer qué información falta en un texto es parte de leerlo con espíritu crítico.
 
 **4. (Alternativas)** ¿Quién es el **destinatario** principal del afiche?
 
@@ -547,7 +547,7 @@ b) Josefa pierde su tablero de ajedrez antes del campeonato y no puede practicar
 c) Matías no quiere ir al colegio el día del torneo; lo resuelve su mamá, que lo convence con un premio
 d) No hay conflicto en el relato: Matías gana todas las partidas sin dificultad y celebra con su papá
 
-*Respuesta correcta: a.* Retroalimentación: identificar el conflicto y su resolución en un texto ajeno te entrena para incluir ambos elementos, de forma clara, en tus propios relatos.
+*Respuesta correcta: a.* Retroalimentación: El conflicto es que Matías enfrenta a una rival invicta y comete un error grave; se resuelve cuando se calma, recuerda el consejo de su papá y encuentra una jugada ganadora. Reconocer conflicto y resolución te ayuda a escribir tus relatos.
 
 **7. (Alternativas — diálogo)** ¿Qué diálogo revela un secreto importante para la trama?
 
@@ -608,7 +608,7 @@ b) Las principales amenazas del huemul (pérdida de hábitat, competencia con es
 c) Que el huemul indica que un ecosistema está saludable, y cómo los científicos lo usan para medir la calidad del bosque y del agua de los ríos
 d) Las fuentes que se usaron para escribir el artículo y los nombres de los científicos que estudian al huemul
 
-*Respuesta correcta: b.* Retroalimentación: identificar la idea central de cada párrafo te ayuda tanto a comprender textos ajenos como a organizar mejor tus propios artículos. El escudo se menciona en el primer párrafo y el rol ecológico en el tercero.
+*Respuesta correcta: b.* Retroalimentación: El segundo párrafo trata de las amenazas del huemul (pérdida de hábitat, especies introducidas y ataques de perros) y de los programas para protegerlo. El escudo se menciona en el primer párrafo y el rol ecológico, en el tercero.
 
 **4. (Alternativas — fuentes)** ¿Por qué es importante agregar las fuentes utilizadas al final de un artículo informativo?
 

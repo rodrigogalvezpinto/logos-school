@@ -787,8 +787,7 @@ d) Solo el desierto costero, con dunas, quebradas y oasis en el interior, sin co
 
 ✅ Respuesta correcta: **b) Cordillera de los Andes, Depresión Intermedia, cordillera de la
 Costa y planicies litorales**
-💬 *Retroalimentación:* La Zona Central es reconocida por presentar de forma muy clara las
-cuatro grandes macroformas de relieve de Chile continental.
+💬 *Retroalimentación:* En la Zona Central se distinguen con claridad las cuatro macroformas: la cordillera de los Andes al este, la Depresión Intermedia (los valles), la cordillera de la Costa y las planicies litorales junto al mar.
 
 ---
 
@@ -946,7 +945,7 @@ c) Porque los no renovables se pueden usar sin límite, ya que la naturaleza los
 d) No es importante: todos los recursos son iguales y ninguno se agota si se usa con frecuencia
 
 ✅ Respuesta correcta: **a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si se gestionan sin sobreexplotarlos**
-💬 *Retroalimentación:* Distinguirlos permite decidir con qué cuidado debe usarse cada recurso.
+💬 *Retroalimentación:* Un recurso no renovable, como el cobre o el petróleo, se agota para siempre; uno renovable, como el bosque o los peces, puede durar si se usa sin sobreexplotarlo. Por eso cada uno requiere un cuidado distinto.
 
 ---
 

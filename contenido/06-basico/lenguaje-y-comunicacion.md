@@ -92,7 +92,7 @@ b) Hubo una tormenta muy fuerte en la pampa → los vecinos organizaron una ming
 c) El padre de Manuel trabajaba en la pampa salitrera → Manuel dejó de estudiar para trabajar con él
 d) Manuel se acercó solo a los rieles, desobedeciendo la advertencia → su pie quedó atrapado y casi sufre un accidente
 
-*Respuesta correcta: d.* Retroalimentación: identificar causa-consecuencia significa reconocer qué acción (causa) provoca directamente qué resultado (consecuencia) dentro del relato.
+*Respuesta correcta: d.* Retroalimentación: La causa es que Manuel se acercó solo a los rieles, desobedeciendo la advertencia; la consecuencia directa es que su pie quedó atrapado y casi sufre un accidente.
 
 **2. (Alternativas — motivación del personaje)** ¿Por qué Manuel ignoraba las advertencias de seguridad de su padre al comienzo del relato?
 
@@ -101,7 +101,7 @@ b) Porque no escuchaba bien a su padre, ya que el ruido de la maquinaria de la o
 c) Porque su padre le había pedido que las ignorara cuando estuviera con los cargadores mayores, para aprender más rápido
 d) Porque las reglas no existían en la pampa, y cada trabajador decidía por su cuenta cómo cuidarse de los carros
 
-*Respuesta correcta: a.* Retroalimentación: relacionar una actitud con su motivación implica explicar el *porqué* detrás del comportamiento del personaje, no solo describir lo que hace.
+*Respuesta correcta: a.* Retroalimentación: Manuel quería demostrar que era tan valiente y veloz como los cargadores mayores, y pensaba que las reglas eran para los «torpes»; por eso ignoraba las advertencias de su padre.
 
 **3. (Verdadero o Falso)** En el Texto 2, la costumbre de la minga influye directamente en la decisión de Antonia de pedir ayuda a la comunidad en vez de buscar dinero prestado.
 
@@ -141,7 +141,7 @@ b) Todas las personas enfrentan los problemas igual, vivan donde vivan: en la pa
 c) El lugar y sus condiciones moldean las reglas y decisiones: en la pampa, normas estrictas de seguridad; en Chiloé, la minga como forma de resolver dificultades
 d) Solo las personas de la ciudad tienen problemas
 
-*Respuesta correcta: c.* Retroalimentación: una conclusión sustentada no es una opinión libre, sino una idea general que se apoya directamente en evidencia extraída de los textos.
+*Respuesta correcta: c.* Retroalimentación: En los dos textos el lugar moldea cómo se enfrentan los problemas: en la pampa salitrera se siguen normas estrictas de seguridad, y en Chiloé se resuelven las dificultades con la minga. La conclusión se apoya en ambos.
 
 **8. (Alternativas — lenguaje figurado en la narración)** En el Texto 1, el narrador dice que el sol «quemaba la pampa como un horno de ladrillos». ¿Qué significa esta expresión y qué figura se usa?
 
@@ -250,7 +250,7 @@ b) Los pinos caen sobre la vía por el viento y el tren tiene que esperar hasta 
 c) El paisaje (los pinos) parece observar el paso del tren, y quien viaja, cansado, se queda dormido antes de llegar
 d) Es de día y el pasajero, muy despierto, toma fotos de los pinos y del paisaje por la ventana
 
-*Respuesta correcta: c.* Retroalimentación: interpretar con tus propias palabras significa explicar el sentido general de una parte del poema sin simplemente repetir los versos.
+*Respuesta correcta: c.* Retroalimentación: En la segunda estrofa los pinos parecen mirar pasar el tren, y quien viaja, cansado, se duerme antes de llegar. Interpretar es explicar ese sentido con tus palabras, sin repetir los versos.
 
 **7. (Alternativas — hipérbole)** ¿Cuál de estos versos usa una **hipérbole** para describir el hambre después de un día de colegio?
 
@@ -352,7 +352,7 @@ b) Que no se puede inferir nada de una tabla, porque las tablas solo muestran n�
 c) Que solo hay camanchaca en diciembre, porque es el único mes en que la tabla muestra litros captados
 d) Que su cantidad varía según la época del año, porque los litros captados cambian mucho entre meses (más en junio que en diciembre)
 
-*Respuesta correcta: d.* Retroalimentación: una inferencia a partir de una tabla combina los datos numéricos con un razonamiento lógico sobre lo que esos datos podrían significar.
+*Respuesta correcta: d.* Retroalimentación: La tabla muestra muchos más litros captados en junio que en diciembre; de ahí se infiere que la camanchaca varía según la época del año. Una inferencia combina los datos con un razonamiento.
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones compara correctamente información de ambos textos?
 
@@ -544,7 +544,7 @@ b) Él bajó del bus y ella también. Ahí se dio cuenta de que lo había olvida
 c) Puerto Varas es una ciudad del sur de Chile, ubicada a orillas del lago Llanquihue. Tiene muchas cabañas y recibe turistas durante todo el año.
 d) Y finalmente todos volvieron a casa. Matías se despidió de la cabaña, del lago y del frío de Puerto Varas, y nunca más olvidó una dirección.
 
-*Respuesta correcta: a.* Retroalimentación: un buen inicio presenta con claridad quién es el personaje y dónde ocurre la historia, sin dejar dudas sobre a quién se refiere cada oración.
+*Respuesta correcta: a.* Retroalimentación: Ese inicio presenta al personaje (Matías) y el ambiente (Puerto Varas, con frío), usa el conector «apenas» y no deja dudas sobre a quién se refiere cada oración.
 
 **5. (Alternativas)** ¿Cuál de las siguientes secuencias de conectores es más adecuada para narrar sucesos en orden y mostrar una consecuencia?
 
@@ -571,7 +571,7 @@ b) —No puedo creer que perdiéramos la final —dijo Josefa—. / —Jugamos b
 c) —Ella dijo que él dijo que perdimos —dijo ella—. / —Él respondió a ella que jugamos bien —respondió él—. / —Tiene razón —dijo ella otra vez.
 d) —¿Quién habla? / —No sé.
 
-*Respuesta correcta: b.* Retroalimentación: identificar claramente quién habla (con el nombre o una descripción) evita que el lector se pierda o confunda a los personajes.
+*Respuesta correcta: b.* Retroalimentación: En ese diálogo, cada línea dice quién habla: «dijo Josefa», «respondió su hermano Tomás», «admitió Josefa». Así el lector no confunde a los personajes.
 
 ---
 

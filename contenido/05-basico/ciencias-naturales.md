@@ -127,7 +127,7 @@ plantas como a animales, incluidas las personas.
    c) La nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases
    d) La tráquea produce oxígeno, la nariz lo guarda y los pulmones lo envían al estómago
    **Respuesta correcta:** c) La nariz filtra el aire, la tráquea lo conduce y los pulmones realizan el intercambio de gases.
-   **Retroalimentación:** Una buena respuesta nombra al menos dos órganos del sistema y explica cómo su trabajo conjunto logra la función del sistema.
+   **Retroalimentación:** La nariz filtra y entibia el aire, la tráquea lo conduce hacia los pulmones y en los pulmones el oxígeno pasa a la sangre y sale el dióxido de carbono. Cada órgano cumple una parte del trabajo del sistema.
 
 ---
 
@@ -218,7 +218,7 @@ salud tanto como comer muy poco.
    c) Galletas (azúcar), bebida (azúcar) y dulces (azúcar y grasas)
    d) Tres vasos de jugo de naranja (vitaminas) y nada más
    **Respuesta correcta:** b) Lentejas (proteínas), arroz (carbohidratos) y ensalada de tomate y lechuga (vitaminas y minerales).
-   **Retroalimentación:** Un almuerzo saludable combina variedad de nutrientes en porciones adecuadas, no solo abundancia de un solo grupo; un poco de aceite de oliva agregaría además grasas saludables.
+   **Retroalimentación:** Las lentejas aportan proteínas, el arroz aporta carbohidratos y la ensalada de tomate y lechuga aporta vitaminas y minerales: son tres grupos distintos. Un poco de aceite de oliva agregaría grasas saludables.
 
 ---
 
@@ -385,7 +385,7 @@ espacios donde vivimos.
    c) Porque el agua fría mata todos los virus del cuerpo, incluso los que ya están dentro
    d) Porque las manos producen bacterias propias, y el lavado impide que se multipliquen en la piel
    **Respuesta correcta:** b) Porque las manos tocan superficies, alimentos y la cara, y pueden transportar microorganismos que el lavado elimina.
-   **Retroalimentación:** Comprender el "por qué" de una medida de higiene ayuda a valorarla y aplicarla de forma consciente, no solo por costumbre.
+   **Retroalimentación:** Las manos tocan superficies, alimentos y la cara, y así pueden llevar microorganismos a la boca, la nariz o los ojos. Lavarlas con agua y jabón elimina esos microorganismos y corta el contagio.
 
 6. *(Varias correctas — aplicación)* Además del lavado de manos, ¿cuáles de estas medidas ayudan a prevenir el contagio de enfermedades causadas por microorganismos? Marca **todas** las correctas.
    a) Cubrirse la boca y la nariz al toser o estornudar
@@ -473,7 +473,7 @@ y las instalaciones eléctricas de una casa: nunca se debe tocar un cable pelado
    c) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas
    d) Para que el cable pese menos y sea más fácil de transportar e instalar en las paredes, aunque cualquiera de los dos conduce igual
    **Respuesta correcta:** c) El conductor (cobre) permite que circule la electricidad y el aislador (plástico) evita que la corriente llegue a las personas.
-   **Retroalimentación:** Esta combinación es un buen ejemplo de cómo se usan ambos tipos de materiales de forma complementaria en un mismo objeto.
+   **Retroalimentación:** El cobre de adentro es conductor y deja pasar la corriente; el plástico de afuera es aislante y evita que la corriente llegue a quien toca el cable. Por eso el cable funciona y es seguro.
 
 5. *(Alternativas — predicción)* Si construyes un circuito con una pila y una ampolleta, y pruebas cerrarlo con una moneda de metal y luego con una goma de borrar, ¿en qué caso encenderá la ampolleta?
    a) Con la moneda de metal, porque es conductora

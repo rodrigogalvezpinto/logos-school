@@ -236,7 +236,7 @@ ecosistema puede verse afectado.
    c) Porque la red no incluye a los productores, que en la realidad no participan en el paso de la energía
    d) Porque un organismo suele comer varias especies y ser alimento de varios depredadores, y la red muestra todas esas conexiones
    **Respuesta correcta:** d) Porque un organismo suele comer varias especies y ser alimento de varios depredadores, y la red muestra todas esas conexiones.
-   **Retroalimentación:** Pensar en redes, no solo en cadenas, ayuda a comprender por qué los ecosistemas son sistemas interconectados y complejos.
+   **Retroalimentación:** En la naturaleza, un organismo suele comer varias especies y ser comido por varios depredadores. Una cadena muestra solo una de esas relaciones; la red las muestra todas, por eso representa mejor el ecosistema.
 
 6. *(Alternativas — consecuencias)* Si una plaga destruye gran parte del fitoplancton de una zona costera chilena, ¿qué consecuencia se puede predecir?
    a) Aumentaría la cantidad de lobos marinos, porque tendrían más espacio libre en el mar para cazar
@@ -337,7 +337,7 @@ esa variación es completamente normal.
    c) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
    d) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten
    **Respuesta correcta:** a) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.
-   **Retroalimentación:** Una actitud informada y respetuosa frente a los cambios propios y ajenos es clave durante la pubertad.
+   **Retroalimentación:** Los cambios de la pubertad llegan a distintas edades; saber que es normal evita sentir vergüenza, burlarse o compararse con los demás, y ayuda a sentirse bien con uno mismo.
 
 ---
 
@@ -421,7 +421,7 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
    c) Usar desodorante causa el estirón, porque sus sustancias aceleran el crecimiento de los huesos del cuerpo
    d) Lavarse el rostro provoca más grasa, porque la piel reacciona y produce más sebo, agravando el acné
    **Respuesta correcta:** b) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.
-   **Retroalimentación:** Comprender la relación entre higiene y salud ayuda a valorar estos hábitos como cuidado activo del cuerpo.
+   **Retroalimentación:** En la pubertad la piel produce más grasa; si no se lava el rostro, los poros se tapan con grasa y células muertas, lo que agrava el acné y puede causar infecciones.
 
 6. *(Alternativas — aplicación)* ¿Qué rutina semanal combina **al menos dos momentos de actividad física y dos hábitos de higiene**?
    a) Ver televisión todas las tardes, jugar videojuegos el fin de semana y ducharse una vez por semana, sin lavarse el rostro
@@ -429,7 +429,7 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
    c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche
    d) Lavarse el rostro una vez al mes, ducharse solo cuando hace calor y no hacer deporte durante la semana para no sudar
    **Respuesta correcta:** c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche.
-   **Retroalimentación:** Una buena rutina combina de forma equilibrada ambos tipos de hábitos saludables.
+   **Retroalimentación:** Esa rutina tiene tres momentos de actividad física (fútbol dos veces y trote un día) y dos hábitos de higiene (ducharse a diario y lavarse el rostro), así que cumple lo pedido.
 
 ---
 
@@ -714,7 +714,7 @@ inverso: las partículas se acercan y ordenan progresivamente.
    c) En el gas están muy separadas y se mueven libremente; en el sólido están juntas, ordenadas y solo vibran en su lugar
    d) En el sólido se desplazan libremente en todas direcciones; en el gas están quietas y unidas en una red ordenada
    **Respuesta correcta:** c) En el gas están muy separadas y se mueven libremente; en el sólido están juntas, ordenadas y solo vibran en su lugar.
-   **Retroalimentación:** Comparar los estados extremos ayuda a comprender la diferencia de energía y organización de las partículas.
+   **Retroalimentación:** En un gas, las partículas tienen mucha energía, están muy separadas y se mueven libremente; en un sólido tienen menos energía, están juntas y ordenadas y solo vibran en su lugar.
 
 6. *(Alternativas — predicción)* Si colocas un trozo de hielo seco en un recipiente a temperatura ambiente, ¿qué observarías?
    a) Pasa directamente de sólido a gas, sin que aparezca líquido; la "niebla" es vapor de agua del aire que se condensa por el frío
@@ -904,7 +904,7 @@ geológico, y en casos extremos, la desertificación de zonas antes productivas.
    c) El agua no puede desgastar las rocas, porque es más blanda que ellas; solo puede mover la arena suelta que hay sobre el suelo
    d) Solo el viento transforma el paisaje, porque el agua de los ríos corre siempre por el mismo cauce sin cambiarlo durante millones de años
    **Respuesta correcta:** a) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa.
-   **Retroalimentación:** Comprender que la erosión ocurre en escalas de tiempo muy largas ayuda a valorar los cambios geológicos del paisaje.
+   **Retroalimentación:** El agua del río desgasta poco a poco la roca de su cauce y arrastra sedimentos; en miles o millones de años, ese trabajo excava valles y cañones, como el del río Loa.
 
 6. *(Varias correctas — propuesta)* Un terreno agrícola presenta pérdida acelerada de suelo fértil. ¿Qué medidas ayudarían a reducir la erosión? Marca **todas** las correctas.
    a) Mantener cobertura vegetal o rotar cultivos
