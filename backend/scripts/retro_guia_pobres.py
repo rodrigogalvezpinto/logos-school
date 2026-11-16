@@ -75,6 +75,13 @@ REVISADAS_A_MANO: list[tuple[str, str]] = [
     ("07-basico/lengua-y-literatura.md", "¿Qué situación cotidiana se parece mejor"),
     ("07-basico/lengua-y-literatura.md", "¿Por qué no es adecuado escribir una carta formal"),
     ("07-basico/matematica.md", "¿En qué cuadrante se encuentra el punto C"),
+    ("08-basico/ciencias-naturales.md", "¿Qué ocurre con la temperatura de un cuerpo durante un cambio"),
+    ("08-basico/historia-geografia-y-cs-sociales.md", "¿Qué principios ilustrados siguen presentes"),
+    ("08-basico/ingles.md", "Read: \"Renewable energy"),
+    ("08-basico/ingles.md", "Read: \"Wait until"),
+    ("08-basico/matematica.md", "Si un estudiante se ubica en el percentil 40"),
+    ("08-basico/matematica.md", "¿Cuál de las siguientes es una forma común de manipular"),
+    ("08-basico/matematica.md", "Un aviso muestra que las ventas pasaron"),
 ]
 
 

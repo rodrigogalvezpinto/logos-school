@@ -928,7 +928,7 @@ c) Que su estatura es igual o mayor que la de aproximadamente el 75% de los adol
 d) Que su estatura es el 75% de la que tendrá cuando sea adulto
 
 **Respuesta correcta: c) Que su estatura es igual o mayor que la de aproximadamente el 75% de los adolescentes de su edad.**
-*Retroalimentación:* los percentiles comparan una medida individual con una población de referencia.
+*Retroalimentación:* Estar en el percentil 75 significa que su estatura es igual o mayor que la de aproximadamente el 75 % de los adolescentes de su edad; no indica que mida un 75 % de algo.
 
 **Pregunta 8 (alternativas — problema no rutinario).** 12 datos tienen mínimo 2, Q1 = 5, mediana = 8, Q3 = 11 y máximo 20. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
 a) El bigote superior (9 unidades): datos más dispersos o un valor alto atípico en la parte superior
@@ -1019,7 +1019,7 @@ c) Circular, porque muestra partes de un todo
 d) Ninguno de los dos
 
 **Respuesta correcta: c) Circular, porque muestra partes de un todo.**
-*Retroalimentación:* el gráfico de líneas sirve para mostrar evolución en el tiempo, que no es el objetivo aquí.
+*Retroalimentación:* Se quiere mostrar cómo se reparte el total entre los 4 vendedores: eso es mostrar partes de un todo, y para eso sirve el gráfico circular. El de líneas muestra cambios en el tiempo.
 
 **Pregunta 7 (alternativas — fortalezas y debilidades).** Para mostrar el transporte preferido de 200 personas, ¿qué ventajas tienen el gráfico de barras y el circular?
 a) Barras: comparar con facilidad valores entre categorías. Circular: ver de un vistazo la proporción del total de cada categoría
@@ -1028,7 +1028,7 @@ c) Barras: no tiene ventajas frente al circular. Circular: muestra los valores e
 d) Ambos tienen exactamente las mismas ventajas
 
 **Respuesta correcta: a) Barras: comparar con facilidad valores entre categorías. Circular: ver de un vistazo la proporción del total de cada categoría.**
-*Retroalimentación:* no existe un único gráfico correcto: cada uno destaca aspectos distintos.
+*Retroalimentación:* El gráfico de barras permite comparar con facilidad las categorías entre sí; el circular muestra de un vistazo qué parte del total de 200 personas representa cada transporte. Cada uno destaca algo distinto.
 
 **Pregunta 8 (alternativas — manipulación en publicidad).** Un aviso muestra que las ventas pasaron de $10.000 a $12.000, pero con una barra que parece 5 veces más alta. ¿Qué manipulación es probable y por qué importa detectarla?
 a) Ninguna: el crecimiento real de las ventas fue de 500%, como muestra la barra

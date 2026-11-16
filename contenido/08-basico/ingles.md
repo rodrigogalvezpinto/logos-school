@@ -119,8 +119,7 @@ frente a lo leído.
    c) Smartphones changed how teenagers communicate; now they text more than they call.
    d) Phone calls are more popular than apps among teenagers today.
    **Respuesta correcta:** c.
-   **Retroalimentación:** Un buen resumen recoge la idea general con palabras
-   propias, sin copiar el texto ni inventar datos.
+   **Retroalimentación:** El resumen recoge las dos ideas del texto con otras palabras: los smartphones cambiaron cómo se comunican los adolescentes, y hoy escriben mensajes más de lo que llaman. No copia el texto ni inventa datos.
 
 2. *(Alternativas — Completar)* Complete the summary: *"This text is ___ recycling. It explains why it is important ___ protect the environment."*
    a) about / to
@@ -159,7 +158,7 @@ frente a lo leído.
    c) Argentina / 14 / playing the guitar
    d) 14 / Argentina / guitar
    **Respuesta correcta:** c) Argentina / 14 / playing the guitar.
-   **Retroalimentación:** Completar tablas exige extraer datos específicos y ordenarlos según la categoría pedida.
+   **Retroalimentación:** El texto dice que Marco es de Argentina (país), tiene 14 años (edad) y le encanta tocar guitarra (pasatiempo). Cada dato va en su categoría.
 
 7. *(Alternativas — desafiante)* Read: *"Renewable energy, like solar and wind
    power, is becoming more common because it doesn't pollute the air."* ¿Qué
@@ -430,7 +429,7 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    c) pizza / Italy, because I love Roman history and pizza
    d) because / Italy, I would like to visit pizza and history
    **Respuesta correcta:** a) Italy / I love pizza and I'm interested in Roman history.
-   **Retroalimentación:** El lugar y la razón deben estar conectados de forma lógica mediante *because*.
+   **Retroalimentación:** Italia se relaciona con la pizza y con la historia romana, así que la razón después de «because» explica de forma lógica por qué visitar ese lugar.
 
 6. *(Alternativas — Función)* ¿Qué función cumple la expresión *"I'd rather stay home"*?
    a) Dar información explícita
@@ -446,7 +445,7 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    c) a colorful market in Mexico / it is Tuesday and I don't have school today, so I can go
    d) a market / Mexico
    **Respuesta correcta:** b) a colorful market in Mexico / I want to try the local food and see the traditional crafts.
-   **Retroalimentación:** Un buen pie de foto describe la imagen y agrega una preferencia personal coherente con ella.
+   **Retroalimentación:** «A colorful market in Mexico» describe lo que muestra la foto, y probar la comida local y ver las artesanías es una razón coherente para querer visitar ese mercado.
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un problema global
    (contaminación por plástico) y debes expresar tu preferencia entre dos

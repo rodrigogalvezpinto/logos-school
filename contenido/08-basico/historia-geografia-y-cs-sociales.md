@@ -319,7 +319,7 @@ c) No tuvieron ninguna relación con el poder del rey: el Estado moderno surgió
 d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey
 
 ✅ Respuesta correcta: **d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey**
-💬 *Retroalimentación:* Ambos procesos fortalecieron el poder centralizado del rey.
+💬 *Retroalimentación:* La expansión puso más territorios bajo una misma administración, y el monopolio del comercio dio al rey ingresos para pagar funcionarios y un ejército permanente. Ambos procesos fortalecieron el poder centralizado del Estado moderno.
 
 ---
 
@@ -481,7 +481,7 @@ c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que
 d) Porque los reinos no buscaban acumular riqueza, sino territorios, y las guerras se producían por motivos solo religiosos
 
 ✅ Respuesta correcta: **c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que lo que un reino ganaba generalmente lo perdía otro**
-💬 *Retroalimentación:* Esa lógica incentivó la rivalidad antes que la cooperación entre las potencias europeas.
+💬 *Retroalimentación:* Para el mercantilismo, la riqueza (metales preciosos y rutas comerciales) era limitada: si un reino ganaba, otro perdía. Esa idea empujó a las potencias a competir y a enfrentarse en vez de cooperar.
 
 ---
 
@@ -582,7 +582,7 @@ c) Ambos defendieron la "esclavitud natural" de los indígenas, pero Las Casas p
 d) Ambos negaron que los indígenas fueran seres humanos racionales, y discutieron solo si la Corona debía permitir o no la encomienda en América
 
 ✅ Respuesta correcta: **a) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento**
-💬 *Retroalimentación:* Este debate ilustra cómo la Conquista generó profundas discusiones morales dentro de la propia cultura europea.
+💬 *Retroalimentación:* En Valladolid, Bartolomé de las Casas denunció los abusos y defendió que los indígenas eran seres humanos racionales; Juan Ginés de Sepúlveda sostuvo la idea de la «esclavitud natural» para justificar la conquista. Fue un debate moral dentro de la propia cultura europea.
 
 ---
 
@@ -593,7 +593,7 @@ c) En copiar exactamente las ciudades europeas en América, sin cambiar sus nomb
 d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)
 
 ✅ Respuesta correcta: **d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)**
-💬 *Retroalimentación:* Lo que encontraron no existía en sus referencias culturales previas.
+💬 *Retroalimentación:* Los europeos encontraron plantas, animales, paisajes y sociedades que no conocían, para los que no tenían palabras ni categorías. Tuvieron que crear nuevos términos, mapas, crónicas y dibujos para describirlos.
 
 ---
 
@@ -604,7 +604,7 @@ c) Con la de Galileo Galilei, que defendía la observación de la naturaleza
 d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas
 
 ✅ Respuesta correcta: **d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas**
-💬 *Retroalimentación:* Reconocer los argumentos de una fuente permite ubicarla dentro de los debates de su época.
+💬 *Retroalimentación:* La crónica afirma que los indígenas tienen alma racional y no pueden ser tratados como bestias: es el argumento central de Bartolomé de las Casas en el debate de Valladolid.
 
 ---
 
@@ -754,7 +754,7 @@ c) Porque gran parte de la población, la lengua, la religión, la alimentación
 d) Porque los pueblos indígenas desaparecieron sin dejar aportes, y la población actual desciende solo de europeos y africanos llegados a América
 
 ✅ Respuesta correcta: **c) Porque gran parte de la población, la lengua, la religión, la alimentación y las costumbres actuales resultan de la mezcla entre pueblos indígenas, europeos y africanos durante la Colonia**
-💬 *Retroalimentación:* Comprender estos procesos ayuda a entender el origen de la diversidad cultural latinoamericana.
+💬 *Retroalimentación:* Gran parte de la población, las lenguas, la religión, la comida y las costumbres de América Latina surgieron de la mezcla entre pueblos indígenas, europeos y africanos. Por eso el mestizaje y la transculturación explican la identidad actual.
 
 ---
 
@@ -1478,7 +1478,7 @@ c) Porque solo sirven para estudiar Santiago, que es la única ciudad del país 
 d) Porque las desigualdades territoriales no existen
 
 ✅ Respuesta correcta: **b) Porque permiten identificar desigualdades en acceso a servicios, empleo e infraestructura, y pensar soluciones a problemas de conectividad o migración**
-💬 *Retroalimentación:* Estos conceptos explican por qué algunas regiones enfrentan mayores desafíos que otras.
+💬 *Retroalimentación:* Comparar el campo con la ciudad y el centro con la periferia muestra dónde faltan servicios, empleo o infraestructura; eso ayuda a entender problemas como la migración o la falta de conectividad y a pensar soluciones.
 
 ---
 
@@ -1615,7 +1615,7 @@ c) Porque la sustentabilidad prohíbe toda actividad económica que use recursos
 d) No existe ninguna tensión entre ambos
 
 ✅ Respuesta correcta: **b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo**
-💬 *Retroalimentación:* El desarrollo sustentable exige buscar un equilibrio entre ambos objetivos.
+💬 *Retroalimentación:* Explotar un recurso de forma intensiva puede dejar ganancias rápidas, pero si daña el ambiente termina afectando esa misma actividad y a las personas. El desarrollo sustentable busca equilibrar producción y cuidado del ambiente.
 
 ---
 

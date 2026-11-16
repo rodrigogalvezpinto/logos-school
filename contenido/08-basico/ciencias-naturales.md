@@ -157,7 +157,7 @@ principio de que la estructura celular está al servicio de su función.
    c) La primera es una neurona (transmite señales) y la segunda una fibra muscular (se contrae)
    d) La primera es una célula vegetal (con pared) y la segunda una bacteria (sin núcleo)
    **Respuesta correcta:** c) La primera es una neurona (transmite señales) y la segunda una fibra muscular (se contrae).
-   **Retroalimentación:** Reconocer tipos celulares por su forma aplica el principio de que la estructura celular sirve a su función.
+   **Retroalimentación:** Las muchas prolongaciones de la neurona le permiten conectarse con otras células y transmitir señales; la forma alargada y las fibras internas de la célula muscular le permiten contraerse. La forma de cada célula se relaciona con su función.
 
 ---
 
@@ -253,7 +253,7 @@ específicos sean distintos.
    c) No existe ninguna similitud entre ambos sistemas: la planta no tiene tejidos especializados y el agua sube por el tallo sin ningún mecanismo
    d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad
    **Respuesta correcta:** d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad.
-   **Retroalimentación:** Comparar sistemas de distintos organismos ayuda a identificar funciones comunes resueltas de maneras estructurales distintas.
+   **Retroalimentación:** En ambos, tejidos especializados transportan sustancias (vasos sanguíneos en el ser humano; xilema y floema en la planta). La diferencia es que el ser humano tiene un corazón que bombea, mientras que en la planta el agua sube principalmente impulsada por la transpiración de las hojas.
 
 6. *(Alternativas — Modelo)* ¿Por qué una planta con pocas hojas transpira menos agua que una con muchas hojas?
    a) Porque las hojas absorben agua del aire, y una planta con muchas hojas recibe más agua y por eso necesita eliminarla por los estomas
@@ -269,7 +269,7 @@ específicos sean distintos.
    c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento
    d) No tiene ninguna consecuencia para la planta, porque los estomas solo participan en la respiración durante la noche
    **Respuesta correcta:** c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento.
-   **Retroalimentación:** Las plantas regulan sus estomas como estrategia de adaptación frente a condiciones extremas, priorizando la supervivencia.
+   **Retroalimentación:** Por los estomas sale el agua y entra el CO₂. Al cerrarlos con calor y sequedad, la planta pierde menos agua, pero también recibe menos CO₂, así que hace menos fotosíntesis: equilibra conservar agua con producir alimento.
 
 ---
 
@@ -358,7 +358,7 @@ organismo.
    c) Intercambio gaseoso en los alvéolos: excretor. Filtración en el nefrón: respiratorio. Acción de enzimas sobre alimentos: circulatorio. Transporte de nutrientes: digestivo
    d) Todas las funciones corresponden al sistema digestivo, porque los nutrientes, los gases y los desechos se procesan en el intestino y luego pasan a la sangre
    **Respuesta correcta:** a) Intercambio gaseoso en los alvéolos: respiratorio. Filtración en el nefrón: excretor. Acción de enzimas sobre alimentos: digestivo. Transporte de nutrientes por la sangre: circulatorio.
-   **Retroalimentación:** Cada sistema tiene una función específica, pero todos actúan de forma coordinada para mantener el equilibrio del cuerpo.
+   **Retroalimentación:** Los alvéolos están en los pulmones (sistema respiratorio), el nefrón en el riñón (excretor), las enzimas que degradan los alimentos actúan en el digestivo y la sangre transporta los nutrientes (circulatorio). Cada función corresponde a su sistema.
 
 4. *(Alternativas)* ¿Qué rol cumplen la bilis y las enzimas digestivas?
    a) La bilis descompone químicamente las proteínas en aminoácidos absorbibles; las enzimas transportan el oxígeno hacia el intestino delgado
@@ -374,7 +374,7 @@ organismo.
    c) El músculo obtiene oxígeno del aire directamente, sin intervención de la sangre, y el corazón solo late más rápido por el esfuerzo
    d) La sangre lleva CO₂ desde los pulmones al músculo para que produzca energía, y el oxígeno se queda en los alvéolos durante el ejercicio
    **Respuesta correcta:** b) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos.
-   **Retroalimentación:** Ningún sistema trabaja de forma aislada: el ejercicio evidencia su interacción coordinada.
+   **Retroalimentación:** Al hacer ejercicio respiras más rápido y profundo; en los alvéolos el oxígeno pasa a la sangre por difusión, y el corazón, latiendo más rápido, lleva esa sangre a los músculos. Los dos sistemas trabajan coordinados.
 
 6. *(Alternativas — Análisis de evidencia)* Un estudio muestra que las personas fumadoras tienen, en promedio, menor capacidad de intercambio gaseoso. ¿Qué explicación biológica es más adecuada?
    a) El tabaco aumenta el número de alvéolos, pero los llena de humo y los hace menos eficientes
@@ -469,7 +469,7 @@ lo largo de la vida.
    c) Energético: naranja y espinaca. Constructor: pan y aceite. Regulador: huevo y pescado
    d) Todos son alimentos reguladores
    **Respuesta correcta:** a) Energético: pan y aceite. Constructor: huevo y pescado. Regulador: naranja y espinaca.
-   **Retroalimentación:** Una alimentación balanceada combina alimentos de los tres tipos de aporte.
+   **Retroalimentación:** El pan y el aceite aportan sobre todo energía; el huevo y el pescado, proteínas que construyen tejidos; la naranja y la espinaca, vitaminas y minerales que regulan el cuerpo. Una dieta balanceada combina los tres tipos.
 
 4. *(Alternativas)* ¿Por qué la actividad física debe relacionarse con la edad, el sexo, la estatura y el peso de cada persona?
    a) Porque todas las personas deben hacer exactamente el mismo ejercicio, y estos parámetros sirven solo para registrar el avance de cada una
@@ -485,7 +485,7 @@ lo largo de la vida.
    c) El calcio no tiene relación con los huesos
    d) La osteoporosis se debe solo a hacer demasiado ejercicio, y la dieta y la exposición solar no tienen ninguna relación con la densidad ósea
    **Respuesta correcta:** b) El calcio mantiene la densidad ósea, y la exposición solar permite producir vitamina D, que facilita absorber calcio: su falta favorece la osteoporosis.
-   **Retroalimentación:** Analizar casos concretos ayuda a comprender cómo la alimentación y el estilo de vida se vinculan con enfermedades específicas.
+   **Retroalimentación:** El calcio mantiene la densidad de los huesos, y el sol permite producir vitamina D, necesaria para absorber el calcio. Con poco calcio y poco sol durante años, los huesos se debilitan y aparece la osteoporosis.
 
 6. *(Alternativas — Evaluación)* Un adolescente dice que probará cigarrillos "solo en las fiestas, para no volverse adicto". ¿Por qué esta idea no es sustentable?
    a) Porque fumar en fiestas no tiene ningún riesgo, pero el problema es que en las fiestas se fuma más de lo planeado
@@ -493,7 +493,7 @@ lo largo de la vida.
    c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual
    d) Porque la adicción solo ocurre si se fuma todos los días durante años, y en las fiestas es difícil controlar cuántos cigarrillos se fuman
    **Respuesta correcta:** c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.
-   **Retroalimentación:** Evaluar creencias comunes con evidencia científica es parte de tomar decisiones informadas sobre la propia salud.
+   **Retroalimentación:** Desde los primeros cigarrillos el cuerpo recibe sustancias dañinas, y la nicotina puede generar dependencia aunque se fume solo en ocasiones. Por eso fumar «solo en las fiestas» no protege de la adicción ni del daño.
 
 7. *(Varias correctas — Plan)* ¿Qué acciones forman parte de un plan simple para mantener un cuerpo saludable? Marca **todas** las correctas.
    a) Incluir en cada comida alimentos energéticos, constructores y reguladores
@@ -876,7 +876,7 @@ acumulativa.
    c) Todos propusieron el mismo modelo de átomo, y solo cambiaron los nombres que le dieron a sus partes según el idioma de cada científico
    d) Dalton: esfera maciza e indivisible. Thomson: "budín de pasas". Rutherford: núcleo pequeño y denso rodeado de espacio vacío. Bohr: electrones en niveles de energía definidos
    **Respuesta correcta:** d) Dalton: esfera maciza e indivisible. Thomson: "budín de pasas". Rutherford: núcleo pequeño y denso rodeado de espacio vacío. Bohr: electrones en niveles de energía definidos.
-   **Retroalimentación:** Cada modelo se distingue por cómo representa la estructura interna (o la ausencia de ella) del átomo.
+   **Retroalimentación:** Dalton imaginó el átomo como una esfera maciza; Thomson, como un «budín de pasas» con electrones incrustados; Rutherford descubrió un núcleo pequeño y denso rodeado de espacio vacío, y Bohr ubicó a los electrones en niveles de energía.
 
 4. *(Alternativas)* ¿Por qué el modelo de Thomson no podía explicar los resultados del experimento de la lámina de oro de Rutherford?
    a) Porque Thomson afirmaba que el átomo no tenía electrones, y en el experimento se detectaron electrones que desviaban las partículas alfa hacia atrás al chocar con la lámina de oro
@@ -884,7 +884,7 @@ acumulativa.
    c) Porque en el experimento ninguna partícula atravesó la lámina, lo que demostraba que el átomo era una esfera maciza sin espacios vacíos
    d) Porque el oro no tiene átomos como los demás elementos, sino una estructura continua que el modelo de Thomson no consideraba
    **Respuesta correcta:** b) Porque con la carga positiva repartida uniformemente las partículas alfa no deberían desviarse mucho, pero algunas se desviaron fuertemente o rebotaron, lo que exige un núcleo pequeño y denso.
-   **Retroalimentación:** Cuando un experimento entrega resultados que un modelo no explica, la ciencia propone un modelo nuevo.
+   **Retroalimentación:** Si la carga positiva estuviera repartida en todo el átomo, como proponía Thomson, las partículas alfa habrían pasado casi sin desviarse. Como algunas se desviaron mucho o rebotaron, debía existir un núcleo pequeño y denso: hizo falta un modelo nuevo.
 
 5. *(Alternativas — Análisis)* ¿Qué semejanza y qué diferencia hay entre los modelos de Rutherford y de Bohr?
    a) Semejanza: ambos niegan la existencia del núcleo atómico. Diferencia: solo Bohr incluye electrones, que giran en órbitas alrededor de una esfera maciza

@@ -204,7 +204,7 @@ b) Que el hablante nunca vuelve realmente al mar: solo lo recuerda desde lejos, 
 c) Que la marea está detenida y el mar ya no se mueve, igual que la vida del pescador después de abandonar su oficio
 d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor
 
-*Respuesta correcta: a.* Retroalimentación: interpretar una comparación implica explicar qué característica del segundo elemento (la marea, que siempre vuelve) se traslada al primero.
+*Respuesta correcta: a.* Retroalimentación: La marea siempre vuelve a la orilla; al compararse con ella y repetir «vuelvo», el hablante muestra que su regreso al mar es constante y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor.
 
 **3. (Verdadero o Falso)** El poema "Letanía del pescador" no presenta ningún recurso de repetición de estructuras sintácticas.
 
@@ -301,7 +301,7 @@ b) "Creo que acertó porque sí, porque ayudar a los demás siempre es lo correc
 c) "No hubo ningún riesgo real en detenerse, porque el río estaba lejos, así que daba lo mismo lo que decidiera Marisol en ese momento"
 d) "Marisol es mi personaje favorito del relato, porque es valiente y me recuerda a mi hermana mayor"
 
-*Respuesta correcta: a.* Retroalimentación: también podría fundamentarse la postura contraria; lo importante es sopesar honestamente los riesgos y beneficios presentes en el texto.
+*Respuesta correcta: a.* Retroalimentación: Esa respuesta toma posición (acertó al detenerse), da una razón del texto (don Aurelio no podía salvarse solo) y reconoce el riesgo real (la posible crecida del río). Por eso es un posicionamiento fundamentado.
 
 **3. (Verdadero o Falso)** El terremoto y maremoto de Valdivia de 1960 mencionado en el relato es un hecho ficticio, inventado por el autor para ambientar la historia.
 
@@ -314,7 +314,7 @@ b) Una en que las catástrofes no afectan realmente a las personas, sustentada e
 c) Una visión pesimista sobre la naturaleza que no se puede vincular con ninguna acción de los personajes del relato
 d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Marisol y su madre de rescatar a don Aurelio
 
-*Respuesta correcta: d.* Retroalimentación: una interpretación es coherente cuando puede respaldarse con hechos concretos del propio relato.
+*Respuesta correcta: d.* Retroalimentación: El relato valora la solidaridad por sobre la seguridad individual: Marisol y su madre deciden rescatar a un vecino aunque eso las ponga en peligro. Esa decisión es el hecho concreto que respalda la interpretación.
 
 **5. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el relato "La noche del río"?
 
@@ -341,7 +341,7 @@ b) El relato demuestra que nunca hay que ayudar a otros durante un desastre, por
 c) En el contexto real del terremoto de 1960, el relato valora la solidaridad: arriesgarse para salvar a un vecino muestra que la comunidad se sostiene en la ayuda mutua
 d) El relato trata sobre un viaje de vacaciones
 
-*Respuesta correcta: c.* Retroalimentación: cada idea de la interpretación debe poder respaldarse con evidencia del propio texto.
+*Respuesta correcta: c.* Retroalimentación: Esa interpretación integra el contexto real (el terremoto de 1960), el dilema (arriesgarse o no para salvar a un vecino) y una postura (la comunidad se sostiene en la ayuda mutua), todo con apoyo en el texto.
 
 ---
 
@@ -407,7 +407,7 @@ b) Expresar una duda sobre si la norma realmente existe y pedir a los lectores q
 c) Narrar un hecho pasado: cómo los vecinos exigieron el cumplimiento de la ley el año anterior
 d) Describir objetivamente un local que no cumple la normativa, sin tomar postura sobre lo que debería hacerse
 
-*Respuesta correcta: a.* Retroalimentación: interpretar un modo verbal exige preguntarse qué efecto busca el autor (exigir, sugerir, desear o afirmar).
+*Respuesta correcta: a.* Retroalimentación: Con «exijamos» y «eduquemos», el autor se incluye junto al lector en una acción conjunta: busca que la ciudadanía se sienta parte del cambio y actúe con urgencia.
 
 **4. (Alternativas — Aplicación)** ¿Qué intención tiene el subjuntivo en "Ojalá cada municipio fiscalizara con la misma exigencia con la que se fiscaliza en el centro de Santiago"?
 
@@ -434,7 +434,7 @@ b) "Creo que ayuda, porque los locales cuidan más su reputación cuando saben q
 c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su opinión"
 d) "El autor dice que hay que exigir a los locales que cumplan la ley y reclamar si no lo hacen"
 
-*Respuesta correcta: b.* Retroalimentación: una postura fundamentada aporta al menos una razón propia; repetir lo que dice el autor no es argumentar.
+*Respuesta correcta: b.* Retroalimentación: La respuesta toma posición («creo que ayuda») y da una razón propia que no está en la columna: los locales cuidan su reputación cuando saben que los clientes pueden reclamar.
 
 **7. (Alternativas — análisis integrado)** ¿Por qué es útil atender a los modos verbales de un texto argumentativo?
 
@@ -520,7 +520,7 @@ b) Ambos tienen el mismo tono informativo y el mismo propósito: comunicar a las
 c) El A es crítico y urgente, porque exige respuestas al municipio; el B es neutro e informativo, porque se apoya en una fuente oficial
 d) Ninguno tiene un propósito definido: ambos se limitan a reproducir la misma información sobre el cierre, sin diferencias de tono
 
-*Respuesta correcta: a.* Retroalimentación: el tono y el énfasis dependen de quién escribe y con qué propósito, aunque se refieran a la misma noticia.
+*Respuesta correcta: a.* Retroalimentación: El Texto A informa con tono neutro y se apoya en una fuente oficial; el Texto B es crítico y urgente porque lo escriben familias molestas que exigen información. Tratan la misma noticia con propósitos distintos.
 
 **4. (Alternativas — Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿cuántos estudiantes se ven afectados por el cierre del Liceo Bicentenario, y qué información relevante **no** entrega?
 
@@ -674,7 +674,7 @@ b) Los comentarios, para dejar observaciones sin modificar el texto
 c) El control de cambios, para ver qué modificó cada integrante
 d) La función de borrar todo el documento
 
-*Respuesta correcta: a, b y c.* Retroalimentación: estas herramientas facilitan la reescritura y edición colaborativa, pero no reemplazan la revisión atenta.
+*Respuesta correcta: a, b y c.* Retroalimentación: El corrector ortográfico detecta errores de ortografía, los comentarios permiten dejar observaciones sin cambiar el texto y el control de cambios muestra qué modificó cada integrante. Ayudan, pero no reemplazan una revisión atenta.
 
 **5. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Los hermanos se peinó a sí mismo antes de la ceremonia"?
 
