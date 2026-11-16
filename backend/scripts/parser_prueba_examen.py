@@ -113,6 +113,18 @@ def _texto_corrido(lineas: list[str]) -> str:
     return re.sub(r"\s+", " ", RE_ETIQUETA_TIPO.sub(" ", texto)).strip()
 
 
+RE_COLA_ESTIMULO = re.compile(r"^\s*(?:#{1,6}\s.*|-{3,}|\*{0,2}Preguntas:?\*{0,2})?\s*$")
+
+
+def _sin_cola_de_titulos(contexto: str) -> str:
+    """Quita del final del estímulo los títulos, separadores y líneas vacías que pertenecen a lo que viene después
+    (p. ej. «### Texto 2: …» o «---» + «## Preguntas»): un título al final del estímulo no tiene contenido propio."""
+    lineas = contexto.strip().splitlines()
+    while len(lineas) > 1 and RE_COLA_ESTIMULO.match(lineas[-1]):
+        lineas.pop()
+    return "\n".join(lineas).strip()
+
+
 def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
     matches = list(RE_Q_START.finditer(texto_preguntas))
     declaraciones = list(re.finditer(
@@ -125,7 +137,7 @@ def _extraer_preguntas(texto_preguntas: str) -> list[PreguntaSinRespuesta]:
         if siguiente is None:
             continue
         fin_contexto = min(siguiente, declaraciones[i + 1].start()) if i + 1 < len(declaraciones) else siguiente
-        contexto = texto_preguntas[declaracion.start():fin_contexto].strip()
+        contexto = _sin_cola_de_titulos(texto_preguntas[declaracion.start():fin_contexto])
         destinos = set()
         for grupo in re.finditer(r"preguntas?\s+(\d+(?:\s*(?:,|y|a|[-–])\s*\d+)*)", declaracion.group(), re.IGNORECASE):
             for tramo in re.finditer(r"(\d+)(?:\s*(?:a|[-–])\s*(\d+))?", grupo.group(1), re.IGNORECASE):

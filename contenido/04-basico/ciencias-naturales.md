@@ -655,7 +655,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente)
    d) Corteza (líquida y caliente, con lava) → núcleo (metales, el más frío) → manto (roca rígida y delgada)
    **Respuesta correcta:** c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente).
-   **Retroalimentación:** Comparar rigidez, posición y temperatura al mismo tiempo ayuda a entender cómo se relacionan las tres capas entre sí.
+   **Retroalimentación:** De afuera hacia adentro: la corteza es rígida y la más fría; el manto es casi todo sólido pero fluye muy lentamente; el núcleo, de metales, es la capa más caliente. Las otras opciones cambian el orden o dicen que hay capas de agua o hielo.
 
 5. *(Alternativas)* El manto terrestre se caracteriza por:
    a) Ser sólido y frío, formado por hielo y rocas que nunca se mueven
@@ -672,7 +672,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
    c) Porque está hecha solo de agua y de lava, que al enfriarse forman las montañas y al calentarse forman los océanos
    d) Porque el núcleo está en la superficie y su calor derrite la corteza, formando volcanes y océanos donde se hunde
    **Respuesta correcta:** a) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (como el movimiento de placas) generan esas formas del relieve.
-   **Retroalimentación:** Esta pregunta conecta con el OA 16: los cambios en la superficie terrestre se explican por la interacción entre las capas.
+   **Retroalimentación:** La corteza es delgada pero sólida y rígida, y está dividida en placas que se mueven sobre el manto: al chocar o separarse, forman montañas, volcanes y fondos oceánicos. No es la capa más gruesa ni está hecha de agua o lava.
 
 ---
 

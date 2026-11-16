@@ -1739,3 +1739,8 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   se había escrito en otra posición. Se corrigieron ambas; se limpió el prefijo duplicado en 114 pautas; `rehacer` ahora
   verifica la letra de la explicación, y hay una guarda nueva en pytest. En 2.° básico, Medición 4 daba la respuesta en el
   enunciado; ahora pide la diferencia (7 − 3).
+- **Muestra de 4.° básico revisada.** El estímulo del cuento terminaba con el título del texto siguiente («### Texto 2: "El
+  glaciar"»), y en 48 preguntas del corpus el estímulo arrastraba «---» o «## Preguntas». Se corrigió en el parser
+  (`_sin_cola_de_titulos`: un estímulo no termina en un título ni en un separador), con la prueba
+  `test_el_estimulo_no_arrastra_titulos_ni_separadores_de_lo_que_sigue`. Se reescribieron 3 retroalimentaciones de la guía que
+  no explicaban la respuesta (Ciencias, capas de la Tierra x2; Lenguaje, problema y solución del cuento).

@@ -136,7 +136,7 @@ en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
-(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.°, 2.°, 3.° y 6.° básico; siguiente: 4.° básico.
+(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.°, 2.°, 3.°, 4.° y 6.° básico; siguiente: 5.° básico.
 
 ### 6.3 D — imágenes (requiere decisión del dueño)
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,

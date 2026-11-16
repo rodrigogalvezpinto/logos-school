@@ -946,3 +946,18 @@ def test_la_explicacion_no_contradice_ni_repite_la_letra_de_la_clave():
             if patron.search(linea):
                 hallazgos.append(f"{ruta.relative_to(CONTENIDO)}:{numero}")
     assert hallazgos == []
+
+
+def test_el_estimulo_no_arrastra_titulos_ni_separadores_de_lo_que_sigue():
+    # 2026-11-16: el cuento de 4.° básico mostraba al final «### Texto 2: "El glaciar" (poema)», y muchos estímulos,
+    # «---» y «## Preguntas». Un estímulo nunca termina en un título ni en un separador.
+    hallazgos = []
+    for ruta in sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md")):
+        for pregunta, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            bloques = [b for b in pregunta.enunciado.split("\n\n") if b.strip()]
+            if len(bloques) < 2:
+                continue
+            ultima = bloques[-2].strip().splitlines()[-1].strip().lstrip("> ").strip()
+            if ultima.startswith("#") or set(ultima) == {"-"} or ultima.strip("*: ") == "Preguntas":
+                hallazgos.append(f"{ruta.relative_to(CONTENIDO)}#{pregunta.numero}")
+    assert hallazgos == []

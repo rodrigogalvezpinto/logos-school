@@ -117,7 +117,7 @@ b) No hay comida en la casa para la tormenta; compran sopaipillas en el almacén
 c) La estufa se rompe con el frío; la arregla la abuela con las herramientas de Wladimir
 d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
 
-*Respuesta correcta: d.* Retroalimentación: reconocer la estructura problema-solución te ayuda a entender el "hilo" de cualquier historia, no solo de este cuento.
+*Respuesta correcta: d.* Retroalimentación: al inicio se acerca una tormenta y la familia necesita leña para la estufa (problema); se soluciona porque Wladimir ya había juntado la leña (solución). Reconocer el problema y su solución te ayuda a seguir el hilo de cualquier historia.
 
 **7. (Alternativas — opinión fundamentada)** Martín dice: "Estoy de acuerdo con la forma en que actuó Wladimir". ¿Qué fundamento usa **información del texto**?
 
