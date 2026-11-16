@@ -203,6 +203,10 @@ países europeos no se dibujan en los mapas de América, que quedaron idénticos
 `::mapa::mesoamerica::…::` y `::mapa::mediterraneo::…::`. Se usan en la guía de Historia de 7.° básico (OA 7, Imperio
 romano; OA 13, rutas comerciales mesoamericanas), que antes pedían «imaginar un mapa». Prueba unitaria nueva.
 
+Para **ver** un mapa sin levantar la app: `cd frontend && npx esbuild src/app/shared/mapas.ts --bundle --format=esm
+--platform=node --outfile=/tmp/m.mjs`, luego en Node `(await import('/tmp/m.mjs')).htmlMapa('mediterraneo','R@41.9,12.5','rosa=si')`,
+guardar el SVG en un .html y capturarlo con `npx playwright screenshot`.
+
 ### 6.5 Cierre de Fase 1
 1. Validación en los 3 navegadores de los 12 cursos (`NAVEGADORES=todos scripts/qa/validar_material.sh`).
 2. Regenerar audios de lectura en voz alta (solo 1.° a 4.° básico, régimen A): `DATABASE_URL=<base con el contenido final> scripts/voz/generar_audios.sh`. Usa Kokoro (gratis, local; la primera vez descarga ≈350 MB en `~/.cache/logos-voz`) y solo genera los que faltan; con la lista completa de niveles, `LIMPIAR_HUERFANOS=1` borra los de textos que ya no existen. Salida en `frontend/public/audio/es/` (no versionada).
