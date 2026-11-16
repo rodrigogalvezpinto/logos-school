@@ -174,7 +174,7 @@ b) are
 c) were
 d) be
 
-**Explicación que verá el alumno:** a) is. Retroalimentación: "homework" es incontable, por eso el verbo va en singular: there is.
+**Explicación que verá el alumno:** a) is. "homework" es incontable, por eso el verbo va en singular: there is.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -207,7 +207,7 @@ b) "El costo de no hacerlo será mucho más alto a largo plazo"
 c) "Hago un llamado a las autoridades: construyamos ciclovías continuas"
 d) "Muchas calles no tienen ciclovías"  ✅
 
-**Explicación que verá el alumno:** d) "Muchas calles no tienen ciclovías". Retroalimentación: es una descripción que se puede comprobar observando la ciudad; las otras expresan creencias o llamados.
+**Explicación que verá el alumno:** d) "Muchas calles no tienen ciclovías". Es una descripción que se puede comprobar observando la ciudad; las otras expresan creencias o llamados.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -542,7 +542,7 @@ Read: "The Atacama Desert is one of the driest places on Earth. Some areas recei
 a) Verdadero
 b) Falso  ✅
 
-**Explicación que verá el alumno:** False (Falso). Retroalimentación: el texto dice menos de 1 mm al año, no 100 mm; hay que leer con atención los números exactos.
+**Explicación que verá el alumno:** False (Falso). El texto dice menos de 1 mm al año, no 100 mm; hay que leer con atención los números exactos.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -565,7 +565,7 @@ b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con cl
 c) Usar solo palabras técnicas, aunque la directora no las entienda
 d) Evitar los conectores para que el correo sea más corto
 
-**Explicación que verá el alumno:** b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad. Retroalimentación: el registro se ajusta al destinatario, al contexto y al propósito.
+**Explicación que verá el alumno:** b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad. El registro se ajusta al destinatario, al contexto y al propósito.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

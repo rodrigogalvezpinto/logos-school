@@ -133,6 +133,19 @@ cursos (18/18 en 1.° a 4.° básico, 24/24 en 5.° básico a 2.° medio, 25/25 
 Regla para material nuevo: si el detector marca una pregunta, decidir con este mismo criterio; si es plantilla, registrarla
 en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo de longitud de toda pregunta rehecha.
 
+### 6.1c ⏳ EN CURSO — C.4b: retroalimentaciones de GUÍA que no explican la respuesta
+Al revisar la muestra docente aparecieron retroalimentaciones de guía de «reflexión» que no dicen por qué la respuesta es
+correcta («Cada fenómeno óptico tiene una explicación física específica.»). Detector: `backend/scripts/retro_guia_pobres.py
+[curso]` (heurística: la retroalimentación no comparte ninguna raíz de palabra con la respuesta correcta; 374 candidatas
+al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
+```
+.venv/bin/python -c "import sys; sys.path[:0]=['scripts/herramientas_auditoria','scripts']; from retro_guia import ver; ver('03-basico')"
+.venv/bin/python -c "import sys; sys.path[:0]=['scripts/herramientas_auditoria','scripts']; from retro_guia import cambiar; cambiar('03-basico/x.md', 'inicio de la retro actual', 'Texto nuevo que explica.')"
+```
+- Si **no explica** → `cambiar(...)`: explicar por qué la clave es correcta (y, si cabe, el error de un distractor típico).
+- Si **sí explica con otras palabras** → agregar `(archivo, inicio del enunciado)` a `REVISADAS_A_MANO` del detector.
+Hechos: 1.° y 2.° básico (4 reescritas, 9 revisadas). Siguiente: 3.° básico. Al terminar los 12, agregar una guarda en pytest.
+
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16

@@ -592,7 +592,7 @@ las placas.
    c) Porque los océanos producen los volcanes, y los bordes de las placas siempre coinciden con las costas de los continentes
    d) Porque en los bordes las placas interactúan (convergen, divergen o se deslizan), liberando la energía que forma montañas, sismos y volcanes
    **Respuesta correcta:** d) Porque en los bordes las placas interactúan (convergen, divergen o se deslizan), liberando la energía que forma montañas, sismos y volcanes.
-   **Retroalimentación:** Reconocer este patrón de distribución es una de las principales evidencias que sostienen el modelo de la tectónica de placas.
+   **Retroalimentación:** En los bordes, las placas chocan, se separan o se deslizan una junto a otra: esa interacción pliega la corteza y forma cordilleras, libera energía en sismos y abre paso al magma en los volcanes. Que montañas, sismos y volcanes se concentren justo ahí es una de las principales evidencias de la tectónica de placas.
 
 ---
 

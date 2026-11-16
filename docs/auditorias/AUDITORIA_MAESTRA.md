@@ -1749,3 +1749,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   `rehacer`, que ahora reemplaza la entrada completa). (2) 102 explicaciones mostraban la etiqueta «Retroalimentación:».
   (3) La limpieza de prefijos de la mañana dejó 5 explicaciones sin sujeto; se restituyó. Además, 3 retroalimentaciones de
   guía reescritas (agua dulce, glaciares y nubes, propósito de la publicidad). Dos guardas nuevas en pytest.
+- **C.4b abierto: retroalimentaciones de guía que no explican.** La revisión de las muestras de 4.° a 7.° básico mostró
+  retroalimentaciones de guía genéricas. Detector nuevo `retro_guia_pobres.py` (374 candidatas, con falsos positivos) y
+  ayudante `retro_guia.cambiar` (reemplaza la retroalimentación completa y verifica que solo cambió esa). Hechos 1.° y 2.° básico.

@@ -1,0 +1,74 @@
+"""Control C.4b (2026-11-16): retroalimentaciones de las guías que no explican la respuesta.
+
+La autoevaluación de la guía muestra la retroalimentación después de responder. Muchas eran frases de reflexión
+genéricas («Cada fenómeno óptico tiene una explicación física específica.») que no dicen por qué la respuesta es
+correcta. Heurística: en preguntas de alternativas o «varias correctas», la retroalimentación no comparte ninguna
+raíz de palabra (5 primeras letras de palabras de 4 o más letras) con la respuesta correcta. Es un detector de
+candidatas: cada una se revisa a mano (`REVISADAS_A_MANO` para las que sí explican con otras palabras).
+
+Uso: python scripts/retro_guia_pobres.py [curso]   (sale con código 1 si encuentra candidatas)
+"""
+import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from parser_contenido import parsear_guia  # noqa: E402
+
+CONTENIDO = Path(__file__).resolve().parents[2] / "contenido"
+STOP = set(
+    "el la los las un una unos unas de del al a en y o que se su sus por para con como es son lo le les más muy no si "
+    "ya esta este estos estas ese esa eso entre sin sobre cuando donde porque pero también hay ser fue tiene tienen "
+    "puede pueden cada otro otra otros otras todos todas solo sólo mismo misma".split()
+)
+
+# Revisadas a mano: sí explican la respuesta con otras palabras. (archivo relativo a contenido/, inicio del enunciado)
+REVISADAS_A_MANO: list[tuple[str, str]] = [
+    ("01-basico/ciencias-naturales.md", "¿Qué grupo tiene solo seres vivos?"),
+    ("01-basico/ciencias-naturales.md", "Mira estas dos imágenes: una araucaria"),
+    ("01-basico/matematica.md", "¿Cuál de estos es un problema de suma cuyo resultado es 10?"),
+    ("02-basico/ciencias-naturales.md", "¿Cuáles de estas son actividad física?"),
+    ("02-basico/ciencias-naturales.md", "Si dos niños hacen el mismo ejercicio"),
+    ("02-basico/ciencias-naturales.md", "¿Por qué algunos animales guardan alimento"),
+    ("02-basico/lenguaje-y-comunicacion.md", "¿Cuál de estas oraciones está bien escrita"),
+    ("02-basico/lenguaje-y-comunicacion.md", "Quieres invitar a un compañero"),
+    ("02-basico/matematica.md", "::balanza::4+7::5+6::"),
+]
+
+
+def raices(texto: str) -> set[str]:
+    return {w[:5] for w in re.findall(r"[a-záéíóúñü]{4,}", str(texto).lower()) if w not in STOP}
+
+
+def candidatas(curso: str | None = None):
+    for ruta in sorted(CONTENIDO.glob(f"{curso or '*'}/*.md")):
+        if ruta.name.startswith("00"):
+            continue
+        rel = str(ruta.relative_to(CONTENIDO))
+        for oa in parsear_guia(ruta.read_text(encoding="utf-8")):
+            for i, q in enumerate(oa.preguntas, 1):
+                if q.tipo == "verdadero_falso":
+                    continue
+                clave = q.respuesta_correcta
+                if len(raices(clave)) < 3:
+                    continue
+                if raices(q.retroalimentacion) & raices(clave):
+                    continue
+                if any(rel == a and q.enunciado.startswith(b) for a, b in REVISADAS_A_MANO):
+                    continue
+                yield rel, oa, i, q
+
+
+def main() -> None:
+    curso = sys.argv[1] if len(sys.argv) > 1 else None
+    total = 0
+    for rel, oa, i, q in candidatas(curso):
+        total += 1
+        print(f"{rel} | {oa.codigo_oficial} #{i} | {q.enunciado[:90]}\n   clave: {q.respuesta_correcta[:110]}\n"
+              f"   retro: {q.retroalimentacion[:140]}")
+    print(f"{total} candidatas")
+    sys.exit(1 if total else 0)
+
+
+if __name__ == "__main__":
+    main()

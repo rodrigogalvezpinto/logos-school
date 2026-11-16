@@ -725,7 +725,7 @@ animales, como el búho, están más activos de noche.
    c) Atardecer → mediodía → amanecer → noche
    d) Amanecer → mediodía → atardecer → noche
    **Respuesta correcta:** d) Amanecer → mediodía → atardecer → noche.
-   **Retroalimentación:** ¡Muy bien! Así se repite el ciclo del día una y otra vez.
+   **Retroalimentación:** ¡Muy bien! El día empieza con el amanecer, cuando sale el sol; al mediodía el sol está más alto; en el atardecer se esconde, y luego llega la noche. Este ciclo se repite todos los días.
 
 4. *(Varias correctas)* ¿Qué cosas corresponden a la **noche**? Marca **todas** las
    correctas.

@@ -734,8 +734,7 @@ c) A = Argentina, B = Bolivia, C = Perú
 d) A = Perú, B = Argentina, C = Bolivia
 
 ✅ Respuesta correcta: **b) A = Perú, B = Bolivia, C = Argentina**
-💬 *Retroalimentación:* ¡Excelente! Usar los puntos cardinales nos ayuda a describir con
-precisión dónde se ubica cada país vecino de Chile.
+💬 *Retroalimentación:* ¡Excelente! Perú limita con Chile por el norte (A), Bolivia por el noreste (B) y Argentina por el este, al otro lado de la cordillera (C). Los puntos cardinales nos ayudan a ubicar a cada país vecino.
 
 ---
 

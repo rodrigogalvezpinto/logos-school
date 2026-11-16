@@ -17,7 +17,7 @@ b) Las nubes congelan los ríos durante el invierno y los glaciares los evaporan
 c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve  ✅
 d) No participan en el ciclo del agua: los glaciares y las nubes solo existen en las montañas más altas del país
 
-**Explicación que verá el alumno:** Los distintos depósitos de agua dulce no están aislados: están conectados por un proceso continuo que alimenta ríos y lagos.
+**Explicación que verá el alumno:** Los glaciares guardan agua dulce congelada que se libera de a poco al derretirse y alimenta ríos y lagos; las nubes llevan el agua evaporada y la devuelven como lluvia o nieve. Así, los depósitos de agua dulce están conectados por el ciclo del agua.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -199,7 +199,7 @@ b) "El agua permite que las plantas crezcan, mantiene hidratado nuestro cuerpo y
 c) "Agua agua agua es lo mejor, porque el agua es agua."
 d) "El agua agua ayuda ayuda, y el agua es agua en todas partes."
 
-**Explicación que verá el alumno:** b. Retroalimentación: la opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.
+**Explicación que verá el alumno:** b. La opción b) usa verbos distintos (permite, mantiene, es indispensable) en lugar de repetir siempre las mismas palabras.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -384,7 +384,7 @@ b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está
 c) Porque solo hay agua dulce en Chile, y el resto de los países usa agua de mar
 d) Porque el agua salada se puede beber directamente, y por eso nadie cuida el agua dulce
 
-**Explicación que verá el alumno:** Distinguir "agua total" de "agua dulce disponible" es clave para entender por qué cuidar el agua dulce es tan importante.
+**Explicación que verá el alumno:** Casi toda el agua del planeta es salada (está en los océanos); del poco de agua dulce que hay, la mayor parte está congelada en glaciares o bajo el suelo, así que la que podemos usar directamente es muy poca. Por eso hay que cuidarla.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -452,7 +452,7 @@ b) Contar una historia sin ningún interés por lo que piense el lector
 c) Advertir sobre los peligros del producto
 d) Vender o convencer al destinatario de comprar el producto  ✅
 
-**Explicación que verá el alumno:** distinguir entre textos que buscan informar de manera neutral y textos que buscan vender o convencer es una habilidad clave de la lectura crítica.
+**Explicación que verá el alumno:** un aviso publicitario busca sobre todo vender: muestra el producto de forma atractiva para convencerte de comprarlo. Reconocer ese propósito te ayuda a leerlo con espíritu crítico.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -517,7 +517,7 @@ b) Botar basura en la calle
 c) No respetar las señales de tránsito
 d) Impedir que otros den su opinión
 
-**Explicación que verá el alumno:** a) Votar en las elecciones. Elegir a las autoridades es una forma fundamental de participar en la vida pública. participación en la vida pública que el Estado debe asegurar.
+**Explicación que verá el alumno:** a) Votar en las elecciones. Elegir a las autoridades es una forma fundamental de participar en la vida pública.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -575,7 +575,7 @@ d) Ana doesn't like music.
 a) Verdadero  ✅
 b) Falso
 
-**Explicación que verá el alumno:** Verdadero. Retroalimentación: la acción de Elena (amasar y hornear) permite que la panadería siga abierta mientras su madre se recupera.
+**Explicación que verá el alumno:** Verdadero. La acción de Elena (amasar y hornear) permite que la panadería siga abierta mientras su madre se recupera.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

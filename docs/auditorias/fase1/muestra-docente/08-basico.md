@@ -211,7 +211,7 @@ b) Que el hablante nunca sube realmente: solo recuerda la montaña desde lejos
 c) Que la niebla está detenida y no se mueve
 d) Que el hablante prefiere el mar y vuelve a él una y otra vez
 
-**Explicación que verá el alumno:** a) Que el regreso del hablante a la montaña es constante y casi natural. Retroalimentación: la comparación con la niebla que sube sugiere algo que ocurre una y otra vez, inevitablemente.
+**Explicación que verá el alumno:** a) Que el regreso del hablante a la montaña es constante y casi natural. La comparación con la niebla que sube sugiere algo que ocurre una y otra vez, inevitablemente.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -580,7 +580,7 @@ b) 290 estudiantes; no indica el nombre de la directora
 c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores  ✅
 d) 20 estudiantes; no indica la fecha del incendio
 
-**Explicación que verá el alumno:** c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores. Retroalimentación: leer un texto discontinuo implica extraer y combinar sus datos.
+**Explicación que verá el alumno:** c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores. Leer un texto discontinuo implica extraer y combinar sus datos.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

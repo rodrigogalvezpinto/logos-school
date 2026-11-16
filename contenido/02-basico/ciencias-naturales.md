@@ -156,8 +156,7 @@ renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
    c) Huevo → ave adulta → polluelo
    d) Huevo → polluelo → ave adulta
    **Respuesta correcta:** d) Huevo → polluelo → ave adulta.
-   **Retroalimentación:** ¡Bien hecho! Así se desarrolla la mayoría de las aves,
-   como el chincol o el queltehue.
+   **Retroalimentación:** ¡Bien hecho! Primero está el huevo; de él nace un polluelo cubierto de plumón, que crece hasta convertirse en un ave adulta que vuela. Así se desarrollan aves como el chincol o el queltehue.
 
 6. *(Alternativas — comparar)* Compara el ciclo de vida de una rana con el de un
    guanaco. ¿Qué afirmación es correcta?
@@ -516,9 +515,7 @@ ejercicio de manera extrema: lo importante es moverse con regularidad.
    c) Porque el ejercicio reemplaza la comida, y el corazón ya no necesita alimentos para funcionar.
    d) Porque el corazón se hace más pequeño y liviano, y así puede latir con menos esfuerzo.
    **Respuesta correcta:** b) Porque los músculos y el corazón trabajan más de lo normal y ese trabajo repetido los fortalece.
-   **Retroalimentación:** ¡Muy buena explicación! Es igual que entrenar cualquier otra
-   parte del cuerpo. Cuidar tu cuerpo con actividad física es un hábito que te acompañará
-   toda la vida.
+   **Retroalimentación:** ¡Muy buena explicación! Al hacer ejercicio, los músculos y el corazón trabajan más que en reposo; si ese trabajo se repite muchas veces, se van haciendo más fuertes. Por eso la actividad física es un hábito para toda la vida.
 
 ---
 
