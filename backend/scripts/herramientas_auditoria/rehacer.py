@@ -18,7 +18,8 @@ def _parse(t):
     return {p.numero: (p, r) for p, r in parsear_prueba_o_examen(t)}
 
 
-def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
+def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None, solo_explicacion=False):
+    """solo_explicacion=True: no toca el enunciado ni las alternativas; solo reemplaza la entrada de la pauta (C.4c)."""
     ruta = RAIZ / 'contenido' / archivo
     t = ruta.read_text(encoding='utf-8')
     antes = _parse(t)
@@ -26,24 +27,27 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
     m = RE_PAUTA.search(t)
     corte = m.start() if m else len(t)
     cab, cola = t[:corte], t[corte:]
-    # 1) inicio de la pregunta n
-    ini = re.compile(rf'(?m)^(?:\*\*(?:Pregunta )?{n}[.* ]|{n}\. \*|{n}\. \*\*|\*\*{n}\.)')
-    ms = list(ini.finditer(cab))
-    assert len(ms) == 1, (n, 'inicio', len(ms))
-    i = ms[0].start()
-    # fin: siguiente pregunta, separador, encabezado o declaración de estímulo
-    fin_re = re.compile(rf'(?m)^(?:\*\*(?:Pregunta )?{n + 1}[.* ]|{n + 1}\. \*|\*\*{n + 1}\.|---$|#|\*{{0,2}}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa)\b)')
-    mf = fin_re.search(cab, ms[0].end())
-    j = mf.start() if mf else len(cab)
-    bloque = cab[i:j]
-    # etiqueta: todo hasta el cierre de la marca de tipo (p. ej. «**3. (Alternativas)** » o «3. *(Alternativas)* »)
-    me = re.match(r'(\*\*(?:Pregunta )?\d+\.?\*\*\s*(?:\*?\([^)]*\)\*?)?\s*|\*\*(?:Pregunta )?\d+\.?\s*\([^)]*\)\*\*\s*|\*\*(?:Pregunta )?\d+ \([^)]*\)\.?\*\*\s*|\d+\. \*\([^)]*\)\*\s*|\d+\. \*\*\([^)]*\)\*\*\s*)', bloque)
-    assert me, (n, 'etiqueta', bloque[:80])
-    etiqueta = me.group(1).rstrip() + ' '
-    nuevo = etiqueta + enunciado.strip() + '\n'
-    if opciones:
-        nuevo += '\n' + '\n'.join(f"{'abcdefgh'[k]}) {o}" for k, o in enumerate(opciones)) + '\n'
-    cab = cab[:i] + nuevo + '\n' + cab[j:].lstrip('\n') if not cab[j:].startswith('---') else cab[:i] + nuevo + '\n' + cab[j:]
+    if solo_explicacion:
+        opciones = list(p0.opciones) if p0.tipo != 'verdadero_falso' else None
+    # 1) inicio de la pregunta n (se omite con solo_explicacion)
+    if not solo_explicacion:
+        ini = re.compile(rf'(?m)^(?:\*\*(?:Pregunta )?{n}[.* ]|{n}\. \*|{n}\. \*\*|\*\*{n}\.)')
+        ms = list(ini.finditer(cab))
+        assert len(ms) == 1, (n, 'inicio', len(ms))
+        i = ms[0].start()
+        # fin: siguiente pregunta, separador, encabezado o declaración de estímulo
+        fin_re = re.compile(rf'(?m)^(?:\*\*(?:Pregunta )?{n + 1}[.* ]|{n + 1}\. \*|\*\*{n + 1}\.|---$|#|\*{{0,2}}\(?[ \t]*(?:Lee|Lea|Observa|Utiliza|Usa)\b)')
+        mf = fin_re.search(cab, ms[0].end())
+        j = mf.start() if mf else len(cab)
+        bloque = cab[i:j]
+        # etiqueta: todo hasta el cierre de la marca de tipo (p. ej. «**3. (Alternativas)** » o «3. *(Alternativas)* »)
+        me = re.match(r'(\*\*(?:Pregunta )?\d+\.?\*\*\s*(?:\*?\([^)]*\)\*?)?\s*|\*\*(?:Pregunta )?\d+\.?\s*\([^)]*\)\*\*\s*|\*\*(?:Pregunta )?\d+ \([^)]*\)\.?\*\*\s*|\d+\. \*\([^)]*\)\*\s*|\d+\. \*\*\([^)]*\)\*\*\s*)', bloque)
+        assert me, (n, 'etiqueta', bloque[:80])
+        etiqueta = me.group(1).rstrip() + ' '
+        nuevo = etiqueta + enunciado.strip() + '\n'
+        if opciones:
+            nuevo += '\n' + '\n'.join(f"{'abcdefgh'[k]}) {o}" for k, o in enumerate(opciones)) + '\n'
+        cab = cab[:i] + nuevo + '\n' + cab[j:].lstrip('\n') if not cab[j:].startswith('---') else cab[:i] + nuevo + '\n' + cab[j:]
     # 2) pauta: reemplaza la línea (tabla o lista) de n
     letra = None
     varias = p0.tipo == 'varias_correctas'
@@ -74,7 +78,11 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
         cuerpo = f"**{clave_vf or r0.respuesta_correcta}.** {explicacion.strip()}"
     if len(mfila) == 1:
         celdas = mfila[0].group(2).rstrip().rstrip('|').split('|')
-        k = next((x for x, c in enumerate(celdas) if r0.respuesta_correcta[:10].lower() in c.lower() or re.search(r'\*\*[a-d]\)', c)), 0)
+        patron_celda = r'^\s*\**\s*\(?(?:[a-h](?:, [a-h])*(?: y [a-h])?[.)]|Verdadero|Falso)'
+        candidatas_k = [x for x, c in enumerate(celdas) if re.search(patron_celda, c)] or \
+                       [x for x, c in enumerate(celdas) if r0.respuesta_correcta[:10].lower() in c.lower()]
+        assert len(candidatas_k) == 1, (n, 'celda de la pauta', celdas)
+        k = candidatas_k[0]
         celdas[k] = ' ' + cuerpo + ' '
         cola = cola[:mfila[0].start()] + mfila[0].group(1) + '|'.join(celdas) + '|' + cola[mfila[0].end():]
     else:
