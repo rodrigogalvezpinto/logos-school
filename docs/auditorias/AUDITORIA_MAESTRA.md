@@ -1806,3 +1806,14 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   - «✗ Incorrecta» en el resultado del modo examen: #f87171 sobre la fila de error = 4,38:1 → #fca5a5.
 - La prueba del simulacro se saltaba en Chromium y WebKit (`isVisible()` sin esperar la carga); corregida.
 - Resultado: axe 63/63 en Chromium, Firefox y WebKit; frontend unitario 142/142.
+
+### 15.42 Tarea 8 — simulacros Forma A del régimen B/C: 5.° básico (2026-11-16)
+
+- Nuevos: `contenido/05-basico/examenes/{matematica,ciencias-naturales,historia-geografia-y-cs-sociales,lenguaje-y-comunicacion,ingles}-examen-forma-a.md`
+  (125 preguntas). Mismos OA, cantidad por OA y puntajes que la Forma B; datos, contextos y textos de lectura nuevos.
+- Controles: sin copia de la guía ni de las pruebas (C.2 y C.7), explicaciones no genéricas (C.4c), sin sesgo de longitud
+  (C.6) ni de posición; claves repartidas entre a, b, c y d. Al revisar se reemplazaron 5 preguntas de Matemática y 1 de
+  Ciencias cuyos datos coincidían con la guía o con una prueba, y 1 título de Lenguaje cuyo tema repetía la guía.
+- Corpus: 6.306 preguntas, 0 sin OA; pytest 145; E2E 5.° básico 29/29 en Chromium.
+- Herramienta nueva: `backend/scripts/herramientas_auditoria/forma_a.py` (+ scripts fuente en `formas_a/`).
+

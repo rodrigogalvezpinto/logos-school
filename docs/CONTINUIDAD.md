@@ -221,6 +221,21 @@ Ver la tabla de tareas de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (accesibili
 tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de entorno) y `docs/PENDIENTES-USUARIO.md`
 (cuentas y claves que debe crear el dueño).
 
+### 6.7 Tarea 8 — simulacros Forma A del régimen B/C (en curso)
+Estado: 5.° básico listo (Matemática, Ciencias Naturales, Historia, Lenguaje, Inglés). Faltan 6.° básico a 4.° medio:
+36 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
+
+Procedimiento por archivo (el importador ya reconoce `forma-a` y crea «Examen <asignatura> Forma A»):
+1. Leer la Forma B: secciones, OA por pregunta, puntajes, tipos (alternativas, varias correctas, V/F) y formato de la pauta.
+2. Escribir un script en `backend/scripts/herramientas_auditoria/formas_a/` (ver los de 5.° básico) que use `forma_a.armar`:
+   copia encabezado y cola de la Forma B, pone las preguntas nuevas y reescribe las filas de la pauta.
+   **La opción correcta va primero en la lista** y `letra` dice dónde queda; repartir letras ~6/6/6/6.
+   Varias correctas: opciones en su orden final y `letra="acd"`; variar el patrón. V/F: `opciones=[]`, `letra="V"/"F"`.
+3. Mismos OA, misma cantidad de preguntas por OA y mismos puntajes que la Forma B; datos, contextos y textos nuevos.
+4. Controles: `armar` avisa sesgo de longitud; luego `pytest tests/test_parser_prueba_examen.py` (copias con guía y pruebas,
+   explicaciones genéricas, sesgos), `scripts/explicaciones_genericas.py <curso>` y comparar con la Forma B.
+5. Al cerrar cada curso: `scripts/qa/reimportar_e2e.sh` y `scripts/qa/validar_material.sh "<curso>"` (Chromium); commit y push.
+
 ## 7. Dónde registrar cada avance
 
 | Archivo | Qué va ahí |
