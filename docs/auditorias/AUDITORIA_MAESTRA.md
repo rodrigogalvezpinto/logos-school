@@ -1771,3 +1771,6 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   pruebas y simulacros y la «a» correcta en casi todas; la app no baraja alternativas. Se rotaron 256 preguntas (pruebas,
   simulacros y guías) con verificación por parser; quedan 12 sin rotar (mencionan letras o formato no reconocido). Después:
   ningún patrón supera el 18 % en pruebas y el 21 % en guías. Backend 741 pasan. Guarda nueva en pytest.
+- **Regresión detectada: sesgo de longitud (C.6).** El control de §15.24 había dejado 1 simulacro, 3 pruebas y 5 guías
+  sesgadas; hoy hay 495 de 2.570 alternativas de pruebas y simulacros y 33 en guías. Causa: las reescrituras masivas de C.2
+  no midieron la longitud. Abierto como C.6 (CONTINUIDAD 6.1f), con meta y guarda en pytest al cerrar.

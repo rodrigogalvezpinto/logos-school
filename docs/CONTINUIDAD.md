@@ -166,6 +166,15 @@ para la Ciudadanía, Educación Ciudadana y Lengua; 8.° básico Inglés U2 14) 
 OA 5 #3, prueba de Biología 10; 6.° básico simulacro de Ciencias 25). Guarda: `test_varias_correctas_sin_sesgo_de_posicion`
 (ningún patrón > 30 %). Material nuevo: no poner siempre las correctas primero.
 
+### 6.1f ⏳ EN CURSO — C.6: sesgo de longitud reintroducido por las reescrituras de C.2
+El 2026-11-06 (§15.24) el sesgo de longitud quedó casi en 0. Las reescrituras posteriores de C.2 (1.277 preguntas)
+lo reintrodujeron: al 2026-11-16 hay **495 de 2.570** preguntas de alternativas de pruebas y simulacros donde la correcta
+es claramente la más larga (criterio `ajustar_distractores.sesgada`), y 33 en guías. Por curso (evaluaciones): 1.° básico 8,
+2.° 15, 3.° 20, 4.° 30, 5.° 34, 6.° 35, 7.° 34, 8.° 70, 1.° medio 53, 2.° medio 60, 3.° medio 79, 4.° medio 57.
+Método: alargar distractores con errores plausibles (sin tocar la clave) con `ajustar_distractores.aplicar_en(ruta, [D(n,
+{'a': '…'})], estricto=True)`; listar con `python scripts/ajustar_distractores.py listar <archivo>`. Empezar por 4.° básico
+(curso piloto). Al terminar, guarda en pytest (umbral bajo, p. ej. ≤ 2 %).
+
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
