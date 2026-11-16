@@ -120,10 +120,10 @@ un `[Imagen: …]` agregado, o los mismos datos del «Ejemplo 1» de la guía). 
 Al empezar había ~221 candidatas en total. **Revisados: 1.° básico** (12 rehechas, entre ellas un cuento copiado dentro del enunciado) **y 2.° básico** (9 rehechas
 y un artículo de lectura nuevo en el simulacro B), **3.° básico** (9 rehechas, 1 plantilla) **y 4.° básico** (16 rehechas,
 incluido un gráfico de helados copiado entero de la guía que se reemplazó por uno propio de jugos; 9 plantillas)
-**, 5.° básico** (19 rehechas, 11 plantillas) **, 6.° básico** (29 rehechas, 3 plantillas) **, 7.° básico** (11 rehechas, 13 plantillas) **, 8.° básico** (5 rehechas, 13 plantillas) **, 1.° medio** (7 rehechas, 10 plantillas) **y 2.° medio** (8 rehechas, 13 plantillas). Chromium: 1.° a 4.° básico
+**, 5.° básico** (19 rehechas, 11 plantillas) **, 6.° básico** (29 rehechas, 3 plantillas) **, 7.° básico** (11 rehechas, 13 plantillas) **, 8.° básico** (5 rehechas, 13 plantillas) **, 1.° medio** (7 rehechas, 10 plantillas) **, 2.° medio** (8 rehechas, 13 plantillas) **y 3.° medio** (9 rehechas, 5 plantillas). Chromium: 1.° a 4.° básico
 18/18 cada uno y 5.° y 6.° básico 24/24 tras los cambios; 7.° básico en adelante, pendiente.
-El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 3.° medio (`candidatos('03-medio')`). Ejemplos ya vistos ahí: Ciencias para la Ciudadanía
-bienestar 3 y 6 (Camila y la contaminación), seguridad 5, 6 y 7, y simulacro 15.
+El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 4.° medio (`candidatos('04-medio')`). Ejemplos ya vistos ahí: Filosofía U1 11, Educación
+Ciudadana 4 y 9.
 Hecho cada curso: detector del curso en 0, `validar_evaluaciones_markdown.py`, `pytest -k "parser or corpus"`,
 validación en Chromium (`scripts/qa/reimportar_e2e.sh` + `scripts/qa/validar_material.sh "N° básico"`), commit.
 **Cómo decidir cada una** (con `match.match(archivo, n)` de `herramientas_auditoria`):

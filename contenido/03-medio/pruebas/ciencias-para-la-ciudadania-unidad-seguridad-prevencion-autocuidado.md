@@ -48,28 +48,26 @@ b) Porque la botella de plástico se derrite con el producto y puede romperse al
 c) Porque el producto pierde efectividad al cambiarlo de envase y deja de limpiar o de eliminar las plagas, aunque la botella esté bien cerrada
 d) No es peligroso si la botella está bien cerrada y se guarda en un lugar alto, lejos de la cocina
 
-**Pregunta 5.** *(Alternativas — Análisis de caso)* Una fábrica guarda detergentes industriales junto a ácidos de limpieza en el mismo estante "para ahorrar espacio". ¿Qué riesgo hay y qué medida corresponde?
+**Pregunta 5.** *(Alternativas — Análisis de caso)* En la bodega de un colegio guardan el cloro junto a un limpiador con amoníaco, en la misma repisa. ¿Qué riesgo hay y qué medida corresponde?
 
-a) Ningún riesgo, porque ambos son productos de limpieza diseñados para usarse juntos; basta con mantener el estante ordenado y bien rotulado
-b) El riesgo es que se ensucie el estante si algún envase gotea; basta con limpiarlo con frecuencia y revisar que las tapas estén bien cerradas
-c) El riesgo es la falta de espacio en la bodega; hay que comprar más estantes y ubicarlos juntos para dejar libres los pasillos de evacuación
-d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad
+a) Ninguno, porque ambos son productos de limpieza
+b) Que se ensucie la repisa; basta con limpiarla
+c) Falta de espacio; hay que comprar más repisas
+d) Si se mezclan por un derrame, pueden formar gases tóxicos (cloraminas); hay que almacenarlos separados, rotulados y en lugar ventilado
 
-**Pregunta 6.** *(Alternativas — Evaluación de evidencia)* "Los detergentes en cápsulas son igual de seguros para los niños que los líquidos, porque llevan la misma marca." ¿Qué evidencia hay que considerar?
+**Pregunta 6.** *(Alternativas — Evaluación de evidencia)* Una persona afirma: «Los parches de nicotina son inofensivos para cualquiera, porque se venden en farmacias». ¿Qué evidencia hay que considerar?
 
-a) Que la marca garantiza la seguridad de todos sus productos para los niños, sin importar el formato en que se vendan
-b) Que el color llamativo de la cápsula no importa, porque los niños reconocen fácilmente los productos de limpieza
-c) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles
-d) Que los niños pequeños no pueden abrir ningún envase de detergente, sea líquido o en cápsulas, por su diseño
+a) Que todo lo que se vende en farmacias es inofensivo para cualquier persona
+b) Que la nicotina no tiene efectos en el cuerpo
+c) Que la nicotina es tóxica en dosis altas: un parche puede intoxicar a un niño o a quien lo use sin indicación, por eso hay que seguir la dosis indicada y guardarlo fuera del alcance de los niños
+d) Que los parches no se pueden usar mal porque vienen cerrados
 
-**Pregunta 7.** *(Alternativas)* La forma correcta de almacenar medicamentos en el hogar para
-reducir riesgos, según las recomendaciones generales de seguridad, es:
+**Pregunta 7.** *(Alternativas)* Una familia guarda productos de limpieza en botellas de bebida reutilizadas, debajo del lavaplatos y sin seguro. ¿Qué medida reduce mejor el riesgo de intoxicación?
 
-a) En un lugar visible y de fácil acceso para toda la familia, incluidos los niños.
-b) Fuera del alcance de niños, en su envase original y, si corresponde, en un lugar fresco y
-   seco (o refrigerado solo si la etiqueta lo indica).
-c) Junto a los alimentos en la despensa, para no olvidarlos al cocinar y tenerlos a mano durante el día.
-d) En el auto o en la cartera, para tenerlos siempre disponibles, aunque estén expuestos al calor del sol y fuera de su envase original
+a) Rotular las botellas de bebida con plumón
+b) Mantener los productos en su envase original y etiquetado, en un lugar alto o con seguro, fuera del alcance de los niños
+c) Guardar los productos junto a los alimentos para encontrarlos fácilmente
+d) Dejar las botellas destapadas para que se ventilen
 
 ---
 
@@ -126,9 +124,9 @@ d) Actividad geotérmica
 | 2 | Falso — al sumarlos se puede superar la dosis máxima diaria de paracetamol y aumenta el riesgo de daño hepático; hay que leer el principio activo de cada etiqueta. |
 | 3 | **a, b y c.** El pictograma exige protección al usarlo, almacenaje seguro y conocer los primeros auxilios; mezclar productos puede generar reacciones peligrosas. |
 | 4 | **a) Porque se pierde la etiqueta con composición, riesgos y primeros auxilios, y alguien (especialmente un niño) puede confundirlo con una bebida.** El envase original es parte de la medida de seguridad. |
-| 5 | **d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad.** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte del OA. |
-| 6 | **c) Que los concentrados tienen más principio activo y las cápsulas pueden confundirse con dulces, lo que ha aumentado las intoxicaciones infantiles.** El riesgo lo determinan la concentración, la presentación y el acceso, no la marca. |
-| 7 | b) Fuera del alcance de niños, en su envase original y en lugar fresco y seco. |
+| 5 | **d) Si se mezclan por un derrame, pueden formar gases tóxicos (cloraminas); hay que almacenarlos separados, rotulados y en lugar ventilado.** d) El cloro y el amoníaco son incompatibles: mezclados liberan gases tóxicos. Por eso se almacenan separados, en sus envases originales rotulados y en un lugar ventilado. |
+| 6 | **c) Que la nicotina es tóxica en dosis altas: un parche puede intoxicar a un niño o a quien lo use sin indicación, por eso hay que seguir la dosis indicada y guardarlo fuera del alcance de los niños.** c) Que un producto se venda en farmacias no lo hace inofensivo: la dosis y la persona importan. La nicotina en dosis altas es tóxica, sobre todo para los niños. |
+| 7 | **b) Mantener los productos en su envase original y etiquetado, en un lugar alto o con seguro, fuera del alcance de los niños.** b) Los envases originales tienen etiqueta con advertencias e instrucciones, y guardarlos fuera del alcance de los niños evita intoxicaciones; las botellas de bebida se confunden fácilmente con líquidos para tomar. |
 | 8 | b) Mitigación — no evita el aluvión ni la exposición de las viviendas, pero reduce su daño. |
 | 9 | Falso — también influyen decisiones humanas, como construir en zonas inundables, tapar canales con basura o impermeabilizar el suelo. |
 | 10 | **a y b.** Es una decisión de planificación tomada antes del evento; no es respuesta ni reconstrucción. |

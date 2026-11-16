@@ -74,6 +74,9 @@ REVISADAS_A_MANO = {
     "02-medio/pruebas/lengua-y-literatura-unidad-2.md": {4, 5},  # otra columna (pantallas, no IA)
     "02-medio/pruebas/ciencias-naturales-unidad-quimica.md": {3, 5},  # otras soluciones y otros datos (20 g en 400 g)
     "02-medio/examenes/ingles-examen-forma-b.md": {16, 22},  # otras oraciones (Suecia; el concierto)
+    "03-medio/pruebas/ingles-unidad-1.md": {8},  # otra oración (México y Chile)
+    "03-medio/pruebas/lengua-y-literatura-unidad-1.md": {1, 6, 8},  # otras expresiones y otro reportaje de la prueba
+    "03-medio/examenes/matematica-examen-forma-b.md": {1},  # otros datos (I/I₀ = 100)
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {8, 15},  # 8: V/F sobre otro poema
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

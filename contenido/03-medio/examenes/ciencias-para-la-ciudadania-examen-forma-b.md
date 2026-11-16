@@ -171,14 +171,12 @@ b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo 
 c) Es una práctica recomendada cuando el dolor es muy intenso y no cede con la dosis normal
 d) Produce efectos distintos según la edad, pero resulta más riesgoso en mayores de 60 años
 
-**15.** *(Alternativas)* Consumir alcohol junto con medicamentos como
-benzodiazepinas (usados para la ansiedad o el insomnio):
+**15.** *(Alternativas)* Un joven toma un antihistamínico que le produce sueño y, esa noche, piensa beber alcohol antes de manejar. ¿Cuál es el riesgo?
 
-a) No representa ningún riesgo adicional, porque cada una de las dos sustancias actúa de forma independiente en el organismo
-b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el
-   riesgo de somnolencia extrema o dificultad respiratoria
-c) Reduce el efecto del medicamento de manera completa y permanente mientras se consumen juntos
-d) Es riesgoso cuando se consume con el estómago vacío, y no en otras condiciones de consumo
+a) Ninguno, porque cada sustancia actúa por separado
+b) Ambas deprimen el sistema nervioso y sus efectos se suman: aumenta la somnolencia y se reducen los reflejos, con alto riesgo de accidente
+c) El alcohol anula por completo el efecto del medicamento
+d) Solo es riesgoso si toma el medicamento con el estómago vacío
 
 **16.** *(Alternativas, 2 puntos)* Una publicación asegura que "mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
 
@@ -307,7 +305,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Alternativas | **c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.** Un caso importado puede iniciar un brote donde la cobertura de vacunación es baja: las enfermedades contagiosas no respetan fronteras. | OA 3 (Mód. 1) |
 | 13 | Alternativas | **a) Que el producto es inflamable.** El pictograma de la llama advierte que el producto puede encenderse con facilidad: hay que mantenerlo lejos del calor y de las chispas. | OA 1 (Mód. 2) |
 | 14 | Alternativas | b) No acelera el efecto terapéutico y sí aumenta significativamente el riesgo de toxicidad. Una dosis mayor no alivia más rápido y sí aumenta la toxicidad; por ejemplo, el exceso de paracetamol puede dañar el hígado. | OA 1 (Mód. 2) |
-| 15 | Alternativas | b) Puede potenciar el efecto depresor del sistema nervioso central, aumentando el riesgo de somnolencia extrema o dificultad respiratoria. El alcohol y las benzodiazepinas deprimen el sistema nervioso central; juntos potencian ese efecto y aumentan el riesgo de somnolencia extrema, accidentes y depresión respiratoria. | OA 1 (Mód. 2) |
+| 15 | Alternativas | **b) Ambas deprimen el sistema nervioso y sus efectos se suman: aumenta la somnolencia y se reducen los reflejos, con alto riesgo de accidente.** b) El alcohol y muchos antihistamínicos son depresores del sistema nervioso central: juntos potencian la somnolencia y la pérdida de reflejos, lo que es especialmente peligroso al manejar. | OA 1 (Mód. 2) |
 | 16 | Alternativas | **a) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa en experimentos escolares seguros.** El bicarbonato con vinagre produce dióxido de carbono, agua y una sal (acetato de sodio): es una reacción común y no genera un gas mortal. El cloro gaseoso se forma al mezclar cloro con ácidos. | OA 1 (Mód. 2) |
 | 17 | Alternativas | **d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación.** Productos incompatibles, como ácidos y detergentes, pueden reaccionar si gotean y liberar gases tóxicos; deben guardarse separados, según su ficha de seguridad. | OA 1 (Mód. 2) |
 | 18 | Alternativas | **d) En un lugar alto o cerrado con llave, en su envase original.** Guardarlos fuera del alcance de los niños y en su envase original evita intoxicaciones accidentales y confusiones. | OA 1 (Mód. 2) |

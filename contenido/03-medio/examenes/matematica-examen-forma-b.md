@@ -141,12 +141,12 @@ d) 30°
 
 ---
 
-**Pregunta 12 (alternativas).** Un arco corresponde a 1/6 de la circunferencia completa. ¿Cuántos grados mide el ángulo central que lo subtiende?
+**Pregunta 12 (alternativas).** Una pizza circular se corta en 8 trozos iguales desde el centro. ¿Cuánto mide el ángulo central de cada trozo?
 
 a) 30°
-b) 60°
-c) 90°
-d) 120°
+b) 45°
+c) 60°
+d) 90°
 
 ---
 
@@ -186,12 +186,12 @@ d) 50 cm
 
 ---
 
-**Pregunta 17 (Alternativas).** Un barco recorre una secante con parte externa de 6 millas y longitud total de 15 millas; desde el mismo punto, ¿cuánto mide la tangente a la reserva?
+**Pregunta 17 (Alternativas).** Desde un punto P exterior a una circunferencia se traza una secante cuya parte externa mide 4 cm y su longitud total, 16 cm. ¿Cuánto mide la tangente trazada desde P?
 
-a) √90 ≈ 9,49 millas
-b) 9 millas
-c) 90 millas
-d) √21 ≈ 4,58 millas
+a) 8 cm
+b) √20 ≈ 4,47 cm
+c) 64 cm
+d) 12 cm
 
 ---
 
@@ -302,12 +302,12 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 9 | **b) 110°.** El ángulo central mide lo mismo que el arco que subtiende. | OA 4 | Geometría |
 | 10 | **c) 70°.** El ángulo inscrito mide la mitad del arco que subtiende: 140° ÷ 2 = 70°. | OA 4 | Geometría |
 | 11 | **a) 60°.** El ángulo semiinscrito mide la mitad del arco que abarca: 120° ÷ 2 = 60°. | OA 4 | Geometría |
-| 12 | b) 60° (360°÷6) | OA 4 | Geometría |
+| 12 | **b) 45°.** b) Una vuelta completa mide 360°; dividida en 8 partes iguales: 360° ÷ 8 = 45°. | OA 4 | Geometría |
 | 13 | **c) 65°.** El ángulo interior mide la semisuma de los arcos: (80° + 50°) ÷ 2 = 65°. | OA 4 | Geometría |
 | 14 | **a) 8 cm.** Teorema de las cuerdas: 6 · 4 = 3 · x → x = 24 ÷ 3 = 8 cm. | OA 4 | Geometría |
 | 15 | **b) 50°.** El ángulo exterior es la semidiferencia de los arcos: (170° − 70°)/2 = 50°. 120° sería la semisuma, propia del ángulo interior. | OA 4 | Geometría |
 | 16 | **b) 20 cm.** Teorema de la tangente y la secante: 10² = 5 · x → x = 100 ÷ 5 = 20 cm. | OA 4 | Geometría |
-| 17 | **a) √90 ≈ 9,49 millas.** tangente² = 6 · 15 = 90. | OA 4 | Geometría |
+| 17 | **a) 8 cm.** a) Por el teorema de la tangente y la secante: t² = (parte externa) × (secante completa) = 4 × 16 = 64, así que t = 8 cm. | OA 4 | Geometría |
 | 18 | **c) 12.** Rango = máximo − mínimo = 15 − 3 = 12. | OA 2 | Probabilidad y Estadística |
 | 19 | **b) 10,67.** Media = 6; desviaciones al cuadrado: 16, 0 y 16; suma = 32; varianza = 32 ÷ 3 ≈ 10,67. 3,27 es la desviación estándar y 6 es la media. | OA 2 | Probabilidad y Estadística |
 | 20 | b) la desviación estándar se expresa en las unidades originales; la varianza, en unidades al cuadrado. La varianza promedia desviaciones al cuadrado, así que queda en unidades al cuadrado (por ejemplo, cm²); la desviación estándar es su raíz cuadrada y vuelve a las unidades originales (cm). | OA 2 | Probabilidad y Estadística |

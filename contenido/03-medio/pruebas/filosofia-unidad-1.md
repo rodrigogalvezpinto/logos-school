@@ -61,12 +61,12 @@ b) Ya está resuelta definitivamente por la ley, que indica en cada caso qué ha
 c) Es solo una cuestión de gustos: cada persona cree lo que prefiere y no hay razones mejores ni peores.
 d) Es una gran pregunta filosófica sobre la acción humana, que exige clarificar conceptos como "deber" y "bien" y argumentar.
 
-**7. (Alternativas)** ¿Cuál de las siguientes situaciones ejemplifica mejor la característica de "partir de la experiencia cotidiana" del quehacer filosófico?
+**7. (Alternativas)** Una característica del quehacer filosófico es que suele nacer de una vivencia del día a día. ¿Qué situación lo muestra?
 
-a) Memorizar las definiciones de "amistad" de cinco filósofos para repetirlas en una prueba.
-b) A partir de una pelea con un amigo que contó un secreto, preguntarse qué es realmente la amistad y qué la hace verdadera.
-c) Aceptar sin discutir la definición de amistad que aparece en un diccionario.
-d) Calcular cuántos amigos en promedio tiene un adolescente según una estadística, sin relacionarlo con ninguna vivencia.
+a) Copiar la definición de «justicia» del diccionario para la tarea
+b) Después de ver que en un partido se castigó solo a un equipo por la misma falta, preguntarse qué es la justicia y si las reglas deben aplicarse igual a todos
+c) Leer la biografía de un filósofo famoso
+d) Contar cuántas veces aparece la palabra «justicia» en un libro
 
 ---
 
@@ -126,7 +126,7 @@ d) Las tres son materialismo
 4. a — la filosofía no acepta afirmaciones solo por la autoridad o la fama de quien las dice: exige examinar razones.
 5. a — la pregunta filosófica no se responde con un dato, sino examinando conceptos como identidad, cambio y permanencia.
 6. d. La pregunta no se resuelve con un dato ni con una ley: exige precisar qué significa "deber" y argumentar razones a favor y en contra.
-7. b. La reflexión nace de una vivencia concreta (la pelea con un amigo) y lleva a preguntarse por el concepto mismo de amistad.
+7. **b) Después de ver que en un partido se castigó solo a un equipo por la misma falta, preguntarse qué es la justicia y si las reglas deben aplicarse igual a todos.** b) La filosofía suele comenzar con una experiencia concreta que provoca asombro o incomodidad y lleva a una pregunta de fondo; aquí, una situación del partido abre la pregunta por la justicia.
 8. c — la ontología estudia el ser, la existencia y los modos de ser; las otras preguntas son de epistemología, ética y lógica.
 9. Verdadero — para el materialismo, los estados mentales se explican a partir de procesos físicos.
 10. d) 1-B, 2-C, 3-A. El idealismo afirma que el mundo depende de una mente que lo percibe (B); el materialismo, que todo es materia (C), y el dualismo, que alma y cuerpo son sustancias distintas (A).

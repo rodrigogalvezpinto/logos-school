@@ -34,12 +34,12 @@ d) Ambiental
 
 **Pregunta 2.** *(Verdadero o falso)* Dormir menos de seis horas cada noche durante meses solo provoca cansancio al día siguiente y no tiene consecuencias de largo plazo en la salud.
 
-**Pregunta 3.** *(Alternativas — Análisis de caso)* Camila vive en una comuna con alta contaminación por material particulado, su familia tiene bajos ingresos y hace poca actividad física por falta de espacios seguros. ¿Qué opción identifica correctamente los factores y su interacción?
+**Pregunta 3.** *(Alternativas — Análisis de caso)* Matías tiene asma desde niño, vive junto a una carretera con mucho tránsito de camiones y su familia no puede costear los controles médicos con regularidad. ¿Qué opción identifica correctamente los factores que influyen en su salud?
 
-a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla
-b) Biológico: la contaminación por material particulado; ambiental: los bajos ingresos de la familia; social: la susceptibilidad del sistema respiratorio. Se combinan solo en invierno, cuando aumenta la contaminación
-c) Solo hay factores biológicos: la salud de Camila depende únicamente de su sistema respiratorio, y la contaminación, los ingresos y la falta de espacios no influyen en ella
-d) Los factores actúan por separado, sin interactuar: la contaminación afecta los pulmones, los ingresos afectan la alimentación y los espacios afectan el ánimo, de forma independiente
+a) Biológico: el asma; ambiental: el aire contaminado por los camiones; social: la dificultad económica para acceder a controles. Los tres interactúan
+b) Biológico: los camiones; ambiental: la falta de dinero; social: el asma
+c) Solo hay un factor biológico: el asma, que no depende del entorno
+d) Los factores actúan por separado y no se influyen entre sí
 
 **Pregunta 4.** *(Alternativas)* ¿Por qué la salud se considera un estado con dimensiones física, psíquica, social y ambiental, y no solo la ausencia de enfermedad?
 
@@ -55,12 +55,12 @@ b) Si el estudio comparó a quienes tomaron el suplemento con un grupo que no lo
 c) Si quien hace la afirmación gana dinero vendiendo el suplemento
 d) Cuántos seguidores tiene la cuenta que lo promociona
 
-**Pregunta 6.** *(Alternativas — Análisis de caso)* Un joven que vive cerca de un vertedero tiene síntomas respiratorios recurrentes y su médico pide datos de calidad del aire antes de diagnosticar. ¿Por qué es importante considerar el factor ambiental?
+**Pregunta 6.** *(Alternativas — Análisis de caso)* En una localidad cercana a una fundición, varios niños presentan niveles altos de metales en la sangre. Antes de tratarlos, el equipo de salud mide el aire y el suelo de la zona. ¿Por qué es importante considerar el factor ambiental?
 
-a) Porque el ambiente nunca influye en la salud respiratoria, y el médico solo quiere descartar errores en los exámenes
-b) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y prevención correctos dependen de identificar todos los factores
-c) Porque basta con tratar los síntomas respiratorios con medicamentos, sin necesidad de conocer su origen
-d) Porque las causas de los síntomas respiratorios siempre son solo biológicas, como virus o alergias hereditarias
+a) Porque el ambiente nunca influye en la salud
+b) Porque el problema podría tener origen ambiental y, para tratarlo y prevenirlo bien, hay que identificar y controlar esa fuente
+c) Porque basta con tratar los síntomas, sin conocer el origen
+d) Porque estas causas siempre son hereditarias
 
 **Pregunta 7.** *(Alternativas)* En muchas ciudades del centro y sur de Chile, la calefacción con leña húmeda eleva en invierno el material particulado fino (PM2.5). La exposición repetida a este contaminante durante años se asocia principalmente a:
 
@@ -120,10 +120,10 @@ d) Requiere aumentar la basura orgánica lejos de las casas, para atraer a los r
 |:---:|---|
 | 1 | d) Ambiental — el humo de diésel es una condición del entorno físico que la familia respira. |
 | 2 | Falso — la privación crónica de sueño se asocia a efectos de largo plazo, como alteraciones del sistema inmune, del ánimo, de la memoria y mayor riesgo cardiovascular. |
-| 3 | **a) Ambiental: contaminación; social: bajos ingresos y falta de espacios seguros; biológico: susceptibilidad respiratoria individual. Se combinan: la contaminación afecta más a quien tiene menos opciones de mitigarla.** Un buen análisis muestra cómo los tres tipos de factores interactúan. |
+| 3 | **a) Biológico: el asma; ambiental: el aire contaminado por los camiones; social: la dificultad económica para acceder a controles. Los tres interactúan.** a) El asma es biológico, la contaminación del tránsito es ambiental y el acceso económico a la salud es social; estos factores se potencian entre sí. |
 | 4 | **d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.** Por eso las políticas de salud abordan también vivienda, educación y medioambiente. |
 | 5 | **a, b y c.** Los testimonios no reemplazan un estudio con grupo de comparación; el número de seguidores no es evidencia. |
-| 6 | **b) Porque los síntomas podrían tener origen ambiental, y un diagnóstico y prevención correctos dependen de identificar todos los factores.** Separar causas biológicas, ambientales o sociales permite diseñar soluciones más efectivas. |
+| 6 | **b) Porque el problema podría tener origen ambiental y, para tratarlo y prevenirlo bien, hay que identificar y controlar esa fuente.** b) Si la causa es la contaminación de la fundición, tratar solo a los niños no basta: hay que identificar la fuente y controlarla para prevenir nuevos casos. |
 | 7 | a) Mayor riesgo de enfermedades cardiovasculares y respiratorias crónicas — las partículas finas llegan a lo profundo del pulmón y al torrente sanguíneo. |
 | 8 | **b)** El hantavirus se transmite al inhalar partículas de orina, saliva o fecas del ratón colilargo que se levantan con el polvo. Por eso no se barre en seco: se ventila y se humedece con cloro antes de limpiar. |
 | 9 | **c)** Vacunar a la embarazada protege al recién nacido, que todavía no tiene edad para su propia vacuna. Si baja la cobertura, la bacteria circula más y afecta justamente a quienes no pueden protegerse. |
