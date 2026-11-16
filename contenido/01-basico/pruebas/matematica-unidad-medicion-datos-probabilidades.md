@@ -30,12 +30,12 @@ b) No se puede saber
 c) Miden lo mismo
 d) El lápiz B
 
-**2.** ¿Cuál es el orden de estos objetos de más corto a más largo: una goma de borrar (**3 cm**), un lápiz (**18 cm**) y una regla (**30 cm**)?
+**2.** ¿Cuál es el orden de estos objetos de más corto a más largo: un clip (3 cm), un cuaderno (25 cm) y un lápiz (15 cm)?
 
-a) Regla, lápiz, goma de borrar
-b) Lápiz, goma de borrar, regla
-c) Goma de borrar, regla, lápiz
-d) Goma de borrar, lápiz, regla
+a) Cuaderno, lápiz, clip
+b) Lápiz, clip, cuaderno
+c) Clip, cuaderno, lápiz
+d) Clip, lápiz, cuaderno
 
 **3.** La cinta roja mide 6 cuadritos de largo, y la cinta azul mide 9 cuadritos de largo. ¿Cuál cinta es más corta?
 
@@ -43,12 +43,12 @@ a) La cinta azul
 b) La cinta roja
 c) Las dos miden lo mismo
 
-**4.** Tabla de conteo de mascota favorita: Perro \|\|\|\| — Gato \|\|\| — Pez \|\|. ¿Cuántos niños prefieren el gato?
+**4.** Tabla de conteo de mascota favorita: Conejo \|\|\|\|\| — Tortuga \|\|\| — Hámster \|\|. ¿Cuántos niños prefieren la tortuga?
 
 a) 2
 b) 3
-c) 4
-d) 9
+c) 5
+d) 10
 
 **5.** Tabla de conteo de mascota favorita: Perro \|\|\|\| — Gato \|\|\| — Pez \|\|. Según esta tabla, ¿más niños prefieren el pez que el perro? ¿Verdadero o falso?
 
@@ -61,28 +61,28 @@ a) La cuerda
 b) La escondida
 c) La pelota
 
-**7.** Pictograma de mascotas: Perro 🐶🐶🐶🐶🐶 — Gato 🐱🐱🐱 — Pez 🐟🐟. ¿Cuántos niños tienen perro?
+**7.** Pictograma de frutas favoritas: Frutilla 🍓🍓🍓🍓 — Plátano 🍌🍌 — Uva 🍇🍇🍇. ¿Cuántos niños prefieren la frutilla?
 
 a) 2
 b) 3
-c) 5
-d) 10
+c) 4
+d) 9
 
-**8.** En una sala hay 6 niños con delantal azul y 4 niños con delantal amarillo. ¿Qué color de delantal tienen más niños?
+**8.** En un curso hay 5 niños con mochila roja y 8 niños con mochila verde. ¿Qué color de mochila tienen más niños?
 
-a) El amarillo
-b) El azul
-c) Los dos tienen la misma cantidad
+a) La roja
+b) La verde
+c) Las dos tienen la misma cantidad
 
 ---
 
 ## Pauta de respuestas
 
 1. d) El lápiz B. Los dos parten del mismo punto y el lápiz B sobresale más.
-2. d) Goma de borrar, lápiz, regla — 3 cm es lo más corto y 30 cm lo más largo.
+2. **d) Clip, lápiz, cuaderno.** El clip mide menos (3 cm), luego el lápiz (15 cm) y al final el cuaderno (25 cm).
 3. b) La cinta roja — 6 cuadritos es menos que 9 cuadritos.
-4. b) 3. Junto a "Gato" hay 3 marcas, y cada marca es un niño: 3 niños prefieren el gato.
+4. **b) 3.** Junto a "Tortuga" hay 3 marcas, y cada marca es un niño: 3 niños prefieren la tortuga.
 5. Falso (el pez tiene 2, el perro tiene 4)
 6. c) La pelota — tiene 5 marcas, más que la escondida (4) y la cuerda (2).
-7. c) 5. Junto a "Perro" hay 5 dibujos, y cada dibujo es un niño: 5 niños tienen perro.
-8. b) El azul — 6 es mayor que 4.
+7. **c) 4.** Junto a "Frutilla" hay 4 dibujos, y cada dibujo es un niño: 4 niños prefieren la frutilla.
+8. **b) La verde.** 8 es más que 5, así que más niños tienen mochila verde.

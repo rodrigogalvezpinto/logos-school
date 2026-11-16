@@ -56,14 +56,12 @@ d) Martes
 
 ---
 
-**5.** ¿Cuál es la flor nacional de Chile?
+**5.** ¿Qué animal aparece en el escudo de Chile, junto al cóndor?
 
-[Imagen: una flor roja con forma de campana colgando de una enredadera verde]
-
-a) La rosa
-b) El copihue
-c) El girasol
-d) El tulipán
+a) El puma
+b) El huemul
+c) El caballo
+d) El zorro
 
 ---
 
@@ -91,6 +89,6 @@ d) Las hamburguesas
 2. Falso. El desayuno es la primera comida del día, en la mañana. La comida de la noche es la cena.
 3. d) 1) Desayunar, 2) Almorzar, 3) Cenar. Primero desayunamos en la mañana, luego almorzamos al mediodía y al final cenamos en la noche.
 4. c) Domingo. Después del sábado viene el domingo.
-5. b) El copihue. El copihue es la flor nacional de Chile: es roja, tiene forma de campana y crece en una enredadera del bosque del sur.
+5. **b) El huemul.** El escudo de Chile tiene un cóndor y un huemul, dos animales que viven en nuestro país.
 6. Verdadero. En septiembre, en Fiestas Patrias, muchas familias encumbran volantines, comen empanadas y bailan cueca.
 7. a) Las empanadas. Son una comida típica chilena de las Fiestas Patrias.

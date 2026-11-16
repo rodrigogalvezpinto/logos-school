@@ -21,7 +21,7 @@ comprensión de cuentos (OA 8)
 
 ---
 
-**1.** [Imagen: un gato sentado] ¿Cuántas sílabas tiene la palabra "**gato**"?
+**1.** ::emoji::🪑::una mesa de madera:: ¿Cuántas sílabas tiene la palabra "mesa"?
 
 a) 1
 b) 3
@@ -29,9 +29,9 @@ c) 2
 
 ---
 
-**2.** [Imagen: un sapo verde] ¿Con qué sonido empieza la palabra "**sapo**"?
+**2.** ::emoji::🌙::una luna en el cielo:: ¿Con qué sonido empieza la palabra "luna"?
 
-a) /s/
+a) /l/
 b) /m/
 c) /t/
 
@@ -53,40 +53,38 @@ c) ll
 
 ---
 
-**5.** [Imagen: un chancho] ¿Cuál de estas palabras tiene el sonido "**ch**"?
+**5.** ::emoji::🧥::un chaleco de lana:: ¿Cuál de estas palabras tiene el sonido "ch"?
 
-a) "chancho"
+a) "chaleco"
 b) "casa"
 c) "mesa"
 
 ---
 
-**6.** Cuento: *"Pepa vive en Curicó. Un día llovía fuerte. Pepa vio un gato debajo de un
-auto. El gato estaba mojado y temblaba de frío. Pepa lo llevó a su casa. Le dio leche tibia."*
+**6.** Cuento: *"Tomás vive en Arica. Un día hacía mucho calor. Tomás vio un perrito echado bajo un árbol. El perrito tenía la lengua afuera y respiraba rápido. Tomás le llevó un plato con agua fresca. El perrito tomó agua y movió la cola."*
 
-¿Dónde vive Pepa?
+¿Dónde vive Tomás?
 
 a) Santiago
-b) Curicó
+b) Arica
 c) Valparaíso
 
 ---
 
-**7.** Del mismo cuento: ¿por qué crees que el gato estaba mojado?
+**7.** Del mismo cuento: ¿por qué crees que el perrito tenía la lengua afuera?
 
-a) Porque se bañó solo
-b) Porque llovía fuerte
-c) Porque tomó mucha agua
+a) Porque estaba enojado
+b) Porque hacía mucho calor
+c) Porque quería jugar a la pelota
 
 ---
 
 ## Pauta de respuestas
 
-1. **c) 2** — "Ga-to" se separa en dos partes.
-2. **a) /s/** — "Sapo" empieza igual que "sol".
+1. **c) 2.** "Me-sa" se separa en dos partes: da una palmada por cada una.
+2. **a) /l/.** "Luna" empieza con el sonido /l/, igual que "lápiz".
 3. **c) /r/** — Al decir "mar" despacio, el último sonido es /r/.
 4. **b) rr** — Con "rr" se lee "perro", con el sonido fuerte.
-5. **a) "chancho"** — Empieza con el sonido "ch", como en "choclo".
-6. **b) Curicó** — El cuento lo dice directamente: "Pepa vive en Curicó".
-7. **b) Porque llovía fuerte** — El cuento dice que llovía fuerte antes de contar que el
-   gato estaba mojado; esa es la pista para deducirlo.
+5. **a) "chaleco".** "Chaleco" empieza con el sonido "ch", como "chocolate".
+6. **b) Arica.** El cuento lo dice directamente: "Tomás vive en Arica".
+7. **b) Porque hacía mucho calor.** El cuento dice que "hacía mucho calor": los perros sacan la lengua y respiran rápido para refrescarse. Por eso Tomás le llevó agua.

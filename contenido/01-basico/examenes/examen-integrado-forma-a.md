@@ -83,11 +83,11 @@ c) 12 = 7 + 5
 
 ---
 
-**7.** [Imagen: un niño tocando un plato de sopa caliente] ¿Con qué sentido reconocemos que un plato de sopa está caliente al tocarlo?
+**7.** ::emoji::🌸::una niña oliendo una flor:: ¿Con qué sentido sentimos el aroma de una flor?
 
-a) Tacto
+a) Olfato
 b) Vista
-c) Gusto
+c) Oído
 
 ---
 
@@ -225,7 +225,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Ciencias Naturales | **a) Nacen, crecen y necesitan alimento.** Todos los seres vivos nacen, crecen, se reproducen, mueren y necesitan agua, aire y alimento. | OA 1 — Seres vivos y cosas no vivas |
 | 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
-| 7 | Ciencias Naturales | **a) Tacto.** El tacto de las manos permite sentir si algo está caliente o frío. | OA 6 — Los cinco sentidos |
+| 7 | Ciencias Naturales | **a) Olfato.** El aroma se percibe con la nariz, el órgano del olfato. | OA 6 — Los cinco sentidos |
 | 8 | Historia, Geografía y Cs. Sociales | **a) el norte de Chile.** La Tirana se celebra cada julio en la Región de Tarapacá, con bailes religiosos y trajes coloridos. | OA 6 — Fiestas, comidas y costumbres típicas |
 | 9 | Matemática | **b) Encima de la silla.** El gato está arriba, apoyado sobre la silla. | OA 13 — Posición de objetos y personas |
 | 10 | Lenguaje y Comunicación | **b) Pan.** La frase dice claramente "El perro come pan". | OA N°4 — Lectura y comprensión de frases cortas |

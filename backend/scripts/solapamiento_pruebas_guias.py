@@ -51,6 +51,9 @@ REVISADAS_A_MANO = {
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},
     "02-basico/examenes/examen-integrado-forma-b.md": {18},  # pregunta por el invierno; la guía, por el verano
+    "01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {1},  # lápices de otros largos (5 y 9)
+    "01-basico/examenes/examen-integrado-forma-b.md": {13},  # lápices 7 y 4, y pregunta cuál es más corto
+    "01-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1},  # sílabas de otra palabra ("mesa")
 }
 
 
@@ -87,6 +90,56 @@ def casi_copias(curso: Path, carpeta: str) -> dict[str, list[int]]:
                 comunes = len(ops & gops)
                 if SequenceMatcher(None, e, ge).ratio() >= 0.93 and (comunes >= 2 or (n and n == gn)):
                     resultado.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(p.numero)
+                    break
+    return resultado
+
+
+def _sin_marcadores(texto: str) -> str:
+    return re.sub(r"\[imagen[^\]]*\]|::[^:]*::[^:]*::", "", texto, flags=re.I)
+
+
+def misma_clave(curso: Path, carpeta: str) -> dict[str, list[int]]:
+    """Tercer criterio (2026-11-15): la pregunta se parece a una de la guía (≥ 0,6), comparte 3 o más
+    alternativas y tiene **la misma respuesta correcta**. Atrapa reformulaciones del enunciado, marcadores
+    de imagen agregados y datos reutilizados («según la tabla del Ejemplo 1»). Excluye V/F y REVISADAS_A_MANO."""
+    guia = []
+    for ruta in curso.glob("*.md"):
+        if ruta.name.startswith("00"):
+            continue
+        for oa in parsear_guia(ruta.read_text(encoding="utf-8")):
+            for q in oa.preguntas:
+                guia.append((normalizar(_sin_marcadores(q.enunciado)), {normalizar(o) for o in q.opciones or []},
+                             normalizar(q.respuesta_correcta)))
+    resultado: dict[str, list[int]] = {}
+    for ruta in sorted((curso / carpeta).glob("*.md")):
+        rel = str(ruta.relative_to(CONTENIDO))
+        for p, r in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if p.tipo == "verdadero_falso" or p.numero in REVISADAS_A_MANO.get(rel, set()):
+                continue
+            e = normalizar(_sin_marcadores(p.enunciado.split("\n\n")[-1]))
+            ops, clave = {normalizar(o) for o in p.opciones or []}, normalizar(r.respuesta_correcta)
+            if any(clave == gk and len(ops & gops) >= 3 and SequenceMatcher(None, e, ge).ratio() >= 0.6
+                   for ge, gops, gk in guia):
+                resultado.setdefault(rel, []).append(p.numero)
+    return resultado
+
+
+def escenarios_copiados(curso: Path, carpeta: str) -> dict[str, list[int]]:
+    """Cuarto criterio (2026-11-15): una oración de situación o con datos (declarativa, o con números), de 50 o más
+    caracteres, del enunciado de la pregunta, que aparece tal cual en la guía. Atrapa escenarios reutilizados con
+    otras alternativas («Un ciclista va cuesta abajo y, sin pedalear…»). Las preguntas genéricas («¿Cuál es la tesis
+    del autor?») no cuentan. Excluye REVISADAS_A_MANO."""
+    guia = " ".join(normalizar(r.read_text(encoding="utf-8")) for r in curso.glob("*.md") if not r.name.startswith("00"))
+    resultado: dict[str, list[int]] = {}
+    for ruta in sorted((curso / carpeta).glob("*.md")):
+        rel = str(ruta.relative_to(CONTENIDO))
+        for p, _ in parsear_prueba_o_examen(ruta.read_text(encoding="utf-8")):
+            if p.numero in REVISADAS_A_MANO.get(rel, set()):
+                continue
+            for frase in re.split(r"(?<=[.!?»\"])\s+", p.enunciado.split("\n\n")[-1]):
+                n = normalizar(frase)
+                if len(n) >= 50 and n in guia and ("?" not in frase or re.search(r"\d", frase)):
+                    resultado.setdefault(rel, []).append(p.numero)
                     break
     return resultado
 
@@ -133,6 +186,10 @@ def main() -> None:
                 print(f"  {ruta}: {', '.join(map(str, nums))}")
             for ruta, nums in casi_copias(curso, carpeta).items():
                 print(f"  {ruta}: casi copias {', '.join(map(str, nums))}")
+            for ruta, nums in escenarios_copiados(curso, carpeta).items():
+                print(f"  {ruta}: escenario de la guía repetido {', '.join(map(str, nums))}")
+            for ruta, nums in misma_clave(curso, carpeta).items():
+                print(f"  {ruta}: misma pregunta y clave {', '.join(map(str, nums))}")
             for ruta, n in lecturas_copiadas(curso, carpeta).items():
                 print(f"  {ruta}: {n} líneas de lectura iguales a la guía")
 

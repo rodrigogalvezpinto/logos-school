@@ -85,11 +85,11 @@ c) ll
 
 ---
 
-**7.** [Imagen: un paisaje con una cordillera al fondo, un camino de tierra, un pueblo pequeño con casas y árboles] ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
+**7.** ::emoji::🏖️::una playa con rocas, un muelle de madera y botes:: ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
 
-a) Cordillera
-b) Camino pavimentado
-c) Edificio
+a) Rocas
+b) Muelle
+c) Botes
 
 ---
 
@@ -238,7 +238,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Historia, Geografía y Cs. Sociales | **b) Martes.** "Mañana" es el día que viene justo después de hoy: después del lunes viene el martes. | OA 2 — Ordenar momentos de mi día y de mi vida |
 | 5 | Matemática | **c) 16.** El grupo de 10 fichas forma 1 decena (vale 10), y se suman las 6 fichas sueltas (6 unidades): 10 + 6 = 16. | OA 8 — Reconocer unidades y decenas en números del 0 al 20 |
 | 6 | Lenguaje y Comunicación | **c) ll.** Con "ll" se lee "pollo"; con una sola "l" se leería "polo". | OA N°4 — Dígrafos (rr, ll, ch, qu) |
-| 7 | Historia, Geografía y Cs. Sociales | **a) Cordillera.** Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas. | OA 10 — Paisajes de mi entorno |
+| 7 | Historia, Geografía y Cs. Sociales | **a) Rocas.** Las rocas son parte de la naturaleza; el muelle y los botes los construyeron las personas. | OA 10 — Paisajes de mi entorno |
 | 8 | Ciencias Naturales | **a) La llama.** Vive en el altiplano del norte, a gran altura; el pingüino vive en la costa y el pudú en los bosques del sur. | OA 5 — Animales y plantas de Chile |
 | 9 | Lenguaje y Comunicación | **b) A las 5.** La nota dice "Vuelvo a las 5". | OA N°10 — Información explícita en una nota |
 | 10 | Matemática | **a) 5.** Como 4 pollitos se van, se resta: 9 − 4 = 5 pollitos quedan. | OA 9 — Sumar y restar números del 0 al 20 |
