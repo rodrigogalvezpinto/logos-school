@@ -37,13 +37,12 @@ b) in
 c) at
 d) to
 
-**2.** *(Completar)* Complete the agenda entry: *"Friday: I ___ my
-grandparents in the countryside."* (simple present)
+**2.** *(Completar)* Complete the agenda entry: "Monday: I ___ football with my friends after school." (simple present)
 
-a) visits
-b) visiting
-c) am visit
-d) visit
+a) plays
+b) playing
+c) am play
+d) play
 
 **3.** *(Alternativas)* ¿Qué frase se usa para **saludar** al comenzar un email informal?
 a) Once upon a time
@@ -59,21 +58,19 @@ b) My favorite food is because it is pizza delicious.
 c) My favorite pizza is delicious because it is food.
 d) My favorite food is pizza because it is delicious.
 
-**6.** *(Completar)* Complete the postcard: *"The weather here is ___. I am
-having a great time at the ___."* (beach holiday)
+**6.** *(Completar)* Complete the postcard: "It is very ___ here in the mountains. We are skiing in the ___." (winter holiday)
 
-a) snowy / beach
-b) sunny / library
-c) sunny / beach
-d) cold / office
+a) sunny / beach
+b) hot / snow
+c) warm / sea
+d) cold / snow
 
-**7.** *(Completar)* Complete: *"Look! The children ___ in the park right
-now."* (usa el presente continuo)
+**7.** *(Completar)* Complete: "Be quiet! My sister ___ for her exam right now." (usa el presente continuo)
 
-a) are playing
-b) is playing
-c) play
-d) played
+a) is studying
+b) are studying
+c) study
+d) studied
 
 **8.** *(Alternativas)* ¿Qué plural es correcto para "child" (niño)?
 a) childs
@@ -90,13 +87,12 @@ d) but
 
 **10.** *(Verdadero o falso)* La oración *"These are Ana's books"* significa que los libros son de Ana.
 
-**11.** *(Completar con número)* Complete: *"There are ___ students in my
-class."* (number 18)
+**11.** *(Completar con número)* Complete: "My grandmother has ___ grandchildren." (number 13)
 
-a) eighty
-b) eighteen
-c) eight
-d) eleven
+a) thirty
+b) thirteen
+c) three
+d) twelve
 
 **12.** *(Alternativas — desafiante)* ¿Qué oración describe correctamente **cómo** se realiza una acción?
 a) The turtle is in the garden.
@@ -109,14 +105,14 @@ d) There is a turtle near the pond.
 ## Pauta de respuestas
 
 1. **a) on.** Con los días de la semana y las fechas se usa "on": on Friday, on June 12th. "In" se usa con meses y "at", con horas.
-2. d) visit. Con *I* el verbo va en forma simple, sin -s.
+2. **d) play.** d) Con «I» el presente simple usa el verbo sin «-s»: «I play». «Plays» es para he/she/it.
 3. c) Hi, how are you? "Hi, how are you?" significa "Hola, ¿cómo estás?", un saludo informal. "Once upon a time" es el inicio de un cuento y "The end", su final.
 4. F (Falso) — *Once upon a time* sirve para comenzar un cuento; para cerrar un email se usa *See you soon* o *Bye*.
 5. d) My favorite food is pizza because it is delicious. Cada espacio lleva el tipo de información correcta: categoría, elemento y razón.
-6. c) sunny / beach. Clima y lugar deben ser coherentes con unas vacaciones en la playa.
-7. a) are playing. Para acciones de este momento se usa *is/are + -ing*; con *children*, *are*.
+6. **c) warm / sea.** d) En unas vacaciones de invierno en la montaña hace frío («cold») y se esquía en la nieve («snow»).
+7. **a) is studying.** a) El presente continuo es am/is/are + verbo con -ing; con «my sister» (she) se usa «is studying».
 8. b) children. "Child" tiene un plural irregular: "children". No se le agrega -s.
 9. d) but. *But* contrasta ideas opuestas; *and* solo suma.
 10. V (Verdadero)
-11. b) eighteen. Eighteen = dieciocho; *eighty* es ochenta.
+11. **b) thirteen.** b) 13 en inglés es «thirteen»; «thirty» es 30, «three» es 3 y «twelve» es 12.
 12. b) The turtle walks very slowly. "Slowly" (lentamente) es un adverbio que dice cómo camina la tortuga. Las otras oraciones dicen dónde está o cómo es.

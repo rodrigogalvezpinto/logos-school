@@ -27,25 +27,22 @@ tienen una sola respuesta correcta. Si una pregunta dice «marca todas las corre
 
 ## Preguntas
 
-**1. (Alternativas — OA1)** ¿Qué tres elementos necesita una planta para realizar la
-fotosíntesis?
+**1. (Alternativas — OA1)** Una planta de porotos crece junto a una ventana. ¿Qué toma del ambiente para fabricar su alimento por fotosíntesis?
 
-a) Azúcar, oxígeno y clorofila obtenidos del suelo
-b) Tierra, semillas y raíces profundas en el suelo
-c) Nitrógeno, oxígeno y agua absorbidos por las hojas
-d) Agua, dióxido de carbono y energía lumínica
+a) Azúcar y oxígeno del suelo
+b) Semillas y tierra de la maceta
+c) Nitrógeno y oxígeno por las raíces
+d) Agua, dióxido de carbono del aire y luz del sol
 
 **2. (Verdadero o Falso — OA1)** Únicamente las plantas son capaces de realizar
 fotosíntesis; ningún otro tipo de organismo puede hacerlo.
 
-**3. (Alternativas — OA1)** Una maceta con una planta se guarda dentro de un
-mueble cerrado, sin luz, durante dos semanas, aunque se sigue regando con agua.
-¿Qué le ocurrirá a la planta, según lo que sabes sobre la fotosíntesis?
+**3. (Alternativas — OA1)** Un niño cubre con papel aluminio, durante una semana, la mitad de una hoja de una planta que está al sol. Al destaparla, la parte cubierta está más pálida. ¿Cómo se explica?
 
-a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita
-b) Crecerá más rápido, porque tiene agua suficiente y la luz no es necesaria para fabricar su alimento
-c) No le pasará nada, porque el agua basta para que la planta produzca el azúcar que necesita
-d) Producirá más oxígeno en la oscuridad, porque descansa de la fotosíntesis y respira con más fuerza
+a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento
+b) El aluminio le dio demasiado calor y la quemó
+c) La parte cubierta recibió menos agua por las raíces
+d) La hoja produjo más oxígeno en la parte cubierta
 
 **4. (Alternativas — OA2)** ¿Por qué se dice que los productores son la base de los
 flujos de materia y energía en un ecosistema?
@@ -56,12 +53,12 @@ b) Porque son los únicos capaces de producir su propio alimento a partir de la
 c) Porque no necesitan agua para sobrevivir y pueden vivir en cualquier ambiente
 d) Porque se alimentan de todos los demás organismos y controlan sus poblaciones
 
-**5. (Alternativas — OA2)** En la cadena fitoplancton → krill → sardina (que se alimenta de krill) → tiburón, ¿qué organismo es el **consumidor de segundo orden**?
+**5. (Alternativas — OA2)** En la cadena pasto → conejo → zorro → águila, ¿qué organismo es el consumidor de segundo orden?
 
-a) El krill
-b) El tiburón
-c) El fitoplancton
-d) La sardina
+a) El conejo
+b) El águila
+c) El pasto
+d) El zorro
 
 **6. (Alternativas — OA2)** ¿Qué cadena alimentaria de cuatro eslabones de un ecosistema terrestre chileno tiene cada nivel trófico correcto?
 
@@ -91,14 +88,12 @@ b) Menarquia
 c) Inicio de la producción de espermatozoides
 d) Estirón de crecimiento
 
-**10. (Alternativas — OA5)** ¿Por qué es importante comprender que la pubertad
-es una etapa normal del desarrollo humano y que cada persona la vive a su propio
-ritmo?
+**10. (Alternativas — OA5)** Tomás tiene 12 años y todavía no ha crecido tanto como algunos compañeros. Un compañero se burla de él. ¿Qué respuesta muestra una comprensión correcta de la pubertad?
 
-a) Porque así todos cambian al mismo tiempo y a la misma edad, sin diferencias entre compañeros
-b) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
-c) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
-d) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten
+a) Tomás tiene un problema, porque todos deben cambiar a la misma edad
+b) Tomás debe hacer más deporte para adelantar la pubertad
+c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido
+d) La pubertad no influye en cómo se sienten las personas
 
 **11. (Alternativas — OA6)** ¿Cuál de las siguientes es un beneficio de practicar
 actividad física de forma regular durante la pubertad?
@@ -120,21 +115,20 @@ d) Porque ya no es necesario ducharse a diario, ya que el cuerpo produce menos g
 
 ## Pauta de respuestas
 
-1. **d.** Agua, dióxido de carbono y energía lumínica son los elementos que la
-   planta transforma en azúcar y oxígeno.
+1. **d) Agua, dióxido de carbono del aire y luz del sol.** d) Para la fotosíntesis la planta necesita agua (de las raíces), dióxido de carbono (del aire) y energía lumínica; con eso fabrica azúcar y libera oxígeno.
 2. **Falso.** Las algas y algunos microorganismos, como las cianobacterias, también
    son organismos fotosintéticos.
-3. a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita. El agua sola no basta: la planta necesita luz para hacer fotosíntesis y fabricar el azúcar con que se alimenta. Sin luz, gasta sus reservas y se debilita.
+3. **a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento.** a) Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
 4. **b.** Los productores son los únicos capaces de producir su propio alimento a
    partir de la energía solar; sin ellos no habría alimento disponible para el
    resto de la cadena.
-5. d) La sardina. Productor: fitoplancton; 1.er orden: krill; 2.º orden: sardina; 3.er orden: tiburón.
+5. **d) El zorro.** d) El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
 6. b) Pasto (productor) → conejo (1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden). La cadena parte siempre en un productor (el pasto, que hace fotosíntesis). El conejo come pasto, el zorro culpeo come conejos y el águila puede cazar zorros.
 7. **Verdadero.** En la naturaleza, un mismo organismo suele tener varias fuentes de
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
 8. **c.** La aparición de vello en las axilas y en el pubis ocurre en ambos sexos durante la pubertad.
 9. a y d — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
-10. c) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional. Cada cuerpo cambia a su propio ritmo, y eso es normal. Saberlo ayuda a no compararse, a no burlarse de otros y a sentirse bien con uno mismo.
+10. **c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido.** c) La pubertad empieza y avanza en momentos distintos para cada persona; entenderlo evita burlas y comparaciones que dañan la autoestima.
 11. **b.** El deporte sistemático fortalece el sistema cardiovascular y ayuda a
     mantener un peso corporal saludable.
 12. a) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: más sudor, cambios de olor y tendencia al acné. En la pubertad, las glándulas de la piel producen más sudor y más grasa: por eso aparecen el olor corporal y el acné, y conviene ducharse a diario.

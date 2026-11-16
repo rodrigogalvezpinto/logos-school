@@ -28,20 +28,17 @@ alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca to
 
 ## Preguntas
 
-**1. (Alternativas — OA1)** ¿Qué hecho ocurrido en Europa precipitó, en 1810, la formación de
-juntas de gobierno en América?
+**1. (Alternativas — OA1)** En 1808 Napoleón invadió España y tomó prisionero al rey Fernando VII. ¿Qué consecuencia tuvo este hecho en América?
 
-a) La independencia de Estados Unidos y la creación de su nueva república federal
-b) El fin de la Revolución Francesa y la llegada de los reyes Borbones al poder
-c) La abolición de la esclavitud en España y en todas sus colonias americanas
-d) El cautiverio del rey Fernando VII tras la invasión de Napoleón a España
+a) Estados Unidos se independizó de Inglaterra
+b) Se restableció de inmediato la monarquía de los Borbones
+c) Se abolió la esclavitud en todas las colonias
+d) Sin rey, en varias ciudades americanas se formaron juntas de gobierno, como la de Santiago en 1810
 
 **2. (Verdadero o Falso — OA1)** El malestar de los criollos se debía, entre otras cosas, a que
 no podían acceder a los cargos políticos más altos, reservados para los españoles peninsulares.
 
-**3. (Alternativas — OA2)** ¿Cuál es el orden cronológico de estos hitos del proceso de
-Independencia: (1) batalla de Rancagua, (2) cabildo abierto de 1810, (3) batalla de Maipú, (4)
-batalla de Chacabuco?
+**3. (Alternativas — OA2)** ¿Cuál es el orden cronológico de estos hechos de la Independencia: (1) Desastre de Rancagua, (2) Primera Junta de Gobierno, (3) Abrazo de Maipú, (4) Cruce de los Andes del Ejército Libertador?
 
 a) 2 → 1 → 4 → 3
 b) 2 → 4 → 1 → 3
@@ -113,11 +110,10 @@ d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chi
 
 ## Pauta de respuestas
 
-1. **d.** El cautiverio de Fernando VII generó un vacío de poder que llevó a los criollos a
-   formar juntas de gobierno propias.
+1. **d) Sin rey, en varias ciudades americanas se formaron juntas de gobierno, como la de Santiago en 1810.** d) Con el rey cautivo, los criollos formaron juntas para gobernar en su nombre; en Chile, la Primera Junta Nacional de Gobierno se formó el 18 de septiembre de 1810.
 2. **Verdadero.** Los cargos políticos de mayor jerarquía estaban reservados casi
    exclusivamente para españoles nacidos en la península.
-3. a) 2 → 1 → 4 → 3. Cabildo abierto (1810), Rancagua (1814), Chacabuco (1817), Maipú (1818).
+3. **a) 2 → 1 → 4 → 3.** a) Primera Junta (1810), Desastre de Rancagua (1814), Cruce de los Andes (enero de 1817) y Abrazo de Maipú tras la batalla de 1818.
 4. **c.** El triunfo patriota en Maipú (5 de abril de 1818) consolidó la independencia de Chile.
 5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas. Los conservadores querían un Presidente fuerte y que la Iglesia mantuviera su influencia; los liberales, más poder para el Congreso y reformas como las leyes laicas (por ejemplo, el matrimonio civil de 1884).
 6. **a.** El salitre de Tarapacá y Antofagasta fue la principal exportación de Chile durante décadas.

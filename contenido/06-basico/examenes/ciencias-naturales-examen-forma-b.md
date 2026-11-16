@@ -117,14 +117,12 @@ c) La pubertad comienza antes en los hombres que en las mujeres de un mismo curs
 d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es
    normal
 
-**9.** *(Alternativas, 2 puntos)* ¿Por qué es importante comprender que la
-pubertad es una etapa normal del desarrollo humano y que cada persona la vive a su
-propio ritmo?
+**9.** *(Alternativas, 2 puntos)* En el curso de Antonia, algunas compañeras ya han tenido su primera menstruación y otras no. ¿Qué actitud refleja una comprensión correcta de la pubertad?
 
-a) Porque así todos cambian al mismo tiempo y a la misma edad, sin diferencias entre compañeros
-b) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten las personas
-c) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
-d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
+a) Pensar que todas deben vivir los cambios a la misma edad
+b) Pensar que estos temas no influyen en cómo se sienten las personas
+c) Pensar que el deporte permite saltarse la pubertad
+d) Respetar que cada persona vive la pubertad a su ritmo, sin burlas ni comparaciones
 
 ---
 
@@ -269,24 +267,19 @@ d) La contaminación del aire viene principalmente del océano, que libera sal y
 
 ### OA N°18 — La erosión
 
-**24.** *(Alternativas)* Las formaciones rocosas desgastadas por partículas de arena
-en el desierto de Atacama son un ejemplo de erosión provocada principalmente por:
+**24.** *(Alternativas)* En los cerros de la costa de Chile, las rocas se van desgastando con el golpe constante de las olas. Este es un ejemplo de erosión provocada principalmente por:
 
-a) El agua
-b) El viento
+a) El viento
+b) El agua
 c) La actividad humana
 d) La actividad volcánica
 
-**25.** *(Varias correctas, 2 puntos)* Un terreno agrícola presenta signos de pérdida
-acelerada de suelo fértil debido a la actividad humana. ¿Qué medidas
-podrían ayudar a reducir esa erosión?
+**25.** *(Varias correctas, 2 puntos)* En una ladera usada para cultivar trigo, el suelo fértil se pierde cada invierno con las lluvias. ¿Qué medidas ayudarían a reducir esa erosión? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Mantener cobertura vegetal o rotar cultivos
-b) Evitar el sobrepastoreo
-c) Dejar el suelo descubierto por largos períodos
-d) Prácticas agrícolas que no expongan el suelo
+a) Sembrar plantas de cobertura entre cosechas
+b) Plantar en franjas que sigan las curvas del cerro
+c) Arar a favor de la pendiente y dejar la tierra suelta
+d) Dejar los restos de la cosecha sobre el suelo
 
 ---
 
@@ -312,7 +305,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | Alternativas | **d) Pasto → conejo → zorro culpeo → águila; si desaparece el águila, los zorros podrían aumentar y reducir la población de conejos, alterando todo el ecosistema.** La cadena correcta respeta los niveles tróficos (productor, 1.er, 2.º y 3.er orden); al faltar el consumidor de tercer orden, el nivel inferior puede crecer sin control. | OA 2 |
 | 7 | Alternativas | a) El estirón de crecimiento. El estirón de crecimiento ocurre en hombres y mujeres. La menarquia es la primera menstruación (solo en mujeres) y el cambio de voz más grave y el vello facial son más propios de los hombres. | OA 5 |
 | 8 | Alternativas | d) La edad de inicio de la pubertad varía de una persona a otra, y esa variación es normal. La pubertad depende de cambios hormonales y empieza a distintas edades en cada persona: esa variación es normal. | OA 5 |
-| 9 | Alternativas | **d) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.** Cada persona cambia a su propio ritmo. Saberlo ayuda a no compararse, a no burlarse de otros y a sentirse bien con el propio cuerpo. | OA 5 |
+| 9 | Alternativas | **d) Respetar que cada persona vive la pubertad a su ritmo, sin burlas ni comparaciones.** d) Los cambios de la pubertad llegan en momentos distintos para cada persona; respetarlo protege el bienestar emocional de todas. | OA 5 |
 | 10 | Alternativas | c) Fortalece el sistema cardiovascular y ayuda a mantener un peso corporal saludable. El ejercicio regular fortalece el corazón y los pulmones, ayuda a mantener un peso saludable y mejora el ánimo. | OA 6 |
 | 11 | Alternativas | c) Lavarse el rostro diariamente. Lavarse el rostro es un hábito de higiene; trotar, entrenar o jugar fútbol son actividades físicas. | OA 6 |
 | 12 | Alternativas | **c) No lavarse el rostro puede obstruir los poros con grasa y células muertas, agravando el acné o generando infecciones.** En la pubertad la piel produce más grasa; si no se lava, los poros se tapan con grasa y células muertas y aparecen espinillas o acné. | OA 6 |
@@ -327,8 +320,8 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 21 | Alternativas | **d) En el gas las partículas están separadas y se mueven libremente; en el sólido están juntas y solo vibran. El hielo seco pasa de sólido a gas sin estado líquido: es una sublimación.** La "niebla" blanca alrededor del hielo seco son gotitas de agua del aire condensadas por el frío; en ningún momento aparece líquido proveniente del propio hielo seco. | OA 13 |
 | 22 | Alternativas | c) Atmósfera. El oxígeno que respiramos forma parte del aire, que está en la atmósfera. | OA 16 |
 | 23 | Alternativas | **b) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.** La quema de combustibles en autos, industrias y estufas libera gases y partículas que contaminan el aire; usar transporte público, bicicleta o calefacción limpia reduce ese impacto. | OA 16 |
-| 24 | Alternativas | b) El viento. En el desierto, el viento arrastra granos de arena que golpean y desgastan las rocas: es erosión eólica, causada por el viento. | OA 18 |
-| 25 | Varias correctas | **a, b y d.** Dejar el suelo descubierto aumenta la erosión. | OA 18 |
+| 24 | Alternativas | **b) El agua.** b) Las olas son agua en movimiento: al chocar una y otra vez con las rocas, las desgastan. Es erosión marina, causada por el agua. | OA 18 |
+| 25 | **a, b y d.** a, b y d) Mantener el suelo cubierto y cultivar siguiendo las curvas del terreno frenan el agua; arar a favor de la pendiente hace que la lluvia arrastre más tierra. | **a, b y d.** Dejar el suelo descubierto aumenta la erosión. | OA 18 |
 
 
 # PUNTAJE Y VERSIÓN ANTERIOR

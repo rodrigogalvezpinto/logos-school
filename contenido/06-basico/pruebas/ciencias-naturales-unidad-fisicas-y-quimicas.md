@@ -60,23 +60,19 @@ d) La radiación del Sol, con paneles solares
 
 **6. (Verdadero o Falso — OA11)** El viento constante de algunas zonas costeras de Chile permite instalar parques eólicos para producir electricidad.
 
-**7. (Varias correctas — OA11)** ¿Qué fuentes de energía son **renovables**?
+**7. (Varias correctas — OA11)** Una comuna quiere dejar de depender de fuentes que se agotan. ¿Cuáles de estas opciones son energías renovables? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
+a) Carbón
+b) Paneles solares en los techos
+c) Diésel
+d) Una pequeña central hidroeléctrica en un río
 
-a) Gas natural
-b) Energía eólica
-c) Petróleo
-d) Energía geotérmica
+**8. (Varias correctas — OA11)** Una familia quiere bajar la cuenta de la luz. ¿Qué acciones son un uso responsable de la energía? (Varias correctas: marca todas las alternativas correctas.)
 
-**8. (Varias correctas — OA11)** ¿Cuáles son medidas de uso responsable de la energía en el hogar o el colegio?
-
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Apagar luces y aparatos que no se usan
-b) Usar ampolletas de bajo consumo
-c) Dejar el computador encendido toda la noche
-d) Aprovechar la luz natural durante el día
+a) Desenchufar el cargador cuando no se usa
+b) Lavar la ropa con la lavadora llena
+c) Dejar el televisor encendido aunque nadie lo mire
+d) Secar la ropa al sol en vez de usar secadora
 
 **9. (Alternativas — OA13)** Al dejar un helado fuera del refrigerador en un día de calor, se derrite. ¿Qué cambio de estado ocurre?
 
@@ -95,13 +91,12 @@ b) Evaporación (líquido → gas)
 c) Solidificación (líquido → sólido)
 d) Condensación (gas → líquido)
 
-**12. (Alternativas — OA13)** A nivel de las partículas, ¿qué ocurre
-con las partículas de un sólido cuando gana energía calórica y pasa al estado líquido?
+**12. (Alternativas — OA13)** Un trozo de mantequilla se pone en un sartén caliente y se derrite. ¿Qué pasa con sus partículas?
 
-a) Las partículas se detienen por completo y dejan de vibrar, y por eso el sólido pierde su forma y comienza a derretirse
-b) Las partículas se juntan más y se ordenan en filas, ocupando menos espacio que en el estado sólido y fluyendo entre sí
-c) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras
-d) Las partículas desaparecen al recibir calor y son reemplazadas por partículas de agua
+a) Se detienen por completo y dejan de vibrar
+b) Se juntan más y se ordenan en filas
+c) Ganan energía, se mueven más y se separan un poco, de modo que pueden deslizarse unas sobre otras
+d) Desaparecen con el calor
 
 ---
 
@@ -114,12 +109,12 @@ d) Las partículas desaparecen al recibir calor y son reemplazadas por partícul
 4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol. La energía de los alimentos viene del Sol: las plantas la captan con la fotosíntesis, y los animales la obtienen al comer plantas o a otros animales que las comieron.
 5. **d) La radiación del Sol, con paneles solares.** La energía solar se renueva cada día y no se agota; el petróleo, el gas natural y el carbón son combustibles fósiles que tardaron millones de años en formarse.
 6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
-7. b y d — Renovables: eólica y geotérmica. No renovables: gas natural y petróleo.
-8. a, b y d — Dejar aparatos encendidos sin uso desperdicia energía.
+7. **b y d.** b y d) La energía solar y la del agua de un río se renuevan naturalmente; el carbón y el diésel son combustibles fósiles que se agotan.
+8. **a, b y d.** a, b y d) Desenchufar aparatos, aprovechar cada lavado y usar el sol en vez de la secadora ahorran energía; dejar el televisor encendido sin uso la desperdicia.
 9. **c.** La fusión es el paso de sólido a líquido, por acción del calor.
 10. **Falso.** Ambas son pasos de líquido a gas, pero la evaporación ocurre
     lentamente en la superficie del líquido a cualquier temperatura, mientras que
     la ebullición ocurre rápidamente en todo el volumen del líquido a una
     temperatura específica.
 11. b) Evaporación (líquido → gas). El calor del sol transforma el agua líquida de la ropa en vapor.
-12. c) Las partículas ganan energía, se mueven con más libertad y se separan ligeramente, pudiendo desplazarse unas respecto de otras. Al recibir calor, las partículas vibran con más fuerza, se separan un poco y pueden deslizarse unas sobre otras: por eso el líquido fluye y toma la forma del recipiente.
+12. **c) Ganan energía, se mueven más y se separan un poco, de modo que pueden deslizarse unas sobre otras.** c) Al recibir calor, las partículas se mueven más rápido y se separan algo; ya no mantienen posiciones fijas y el material fluye como líquido.

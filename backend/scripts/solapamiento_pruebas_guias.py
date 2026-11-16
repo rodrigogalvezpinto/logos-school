@@ -46,7 +46,9 @@ def _numeros(texto: str) -> set[str]:
 # del de la guía (otros personajes, otro relato) o sobre otro gráfico; solo comparten distractores genéricos.
 REVISADAS_A_MANO = {
     "05-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 3, 4, 5, 6},  # 5 y 6: otro poema y otras palabras
-    "06-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 4},
+    "06-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 4, 5},  # 5: otra hipérbole ("mil años en el muelle")
+    "06-basico/pruebas/ingles-unidad-1.md": {3},  # otra oración con can/can't (bird, dog)
+    "06-basico/pruebas/ingles-unidad-2.md": {1},  # otra invitación (on Friday, June 12th)
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

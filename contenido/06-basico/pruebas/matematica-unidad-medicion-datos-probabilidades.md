@@ -102,16 +102,12 @@ b) En junio, por 4 libros
 c) En abril, por 9 libros
 d) En abril, por 31 libros
 
-**Pregunta 12 (problema no rutinario — gráfico circular).** En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, la porción de "Caminando" ocupa exactamente un cuarto del círculo.
+**Pregunta 12 (problema no rutinario — gráfico circular).** En un gráfico circular sobre cómo llegan a clases los estudiantes de una escuela, la porción «Bicicleta» representa un quinto del círculo. ::circular::Bicicleta=20;Bus=50;Auto=30::valores=no:: ¿Qué porcentaje de estudiantes llega en bicicleta y, si la escuela tiene 400 estudiantes, cuántos son?
 
-::circular::Caminando=25;Bus=45;Auto=30::valores=no::
-
-¿Qué porcentaje de estudiantes camina para llegar al colegio, y si el colegio tiene 320 estudiantes, cuántos de ellos caminan?
-
-a) 4% y 13 estudiantes
-b) 25% y 25 estudiantes
-c) 25% y 80 estudiantes
-d) 40% y 128 estudiantes
+a) 5% y 20 estudiantes
+b) 20% y 20 estudiantes
+c) 20% y 80 estudiantes
+d) 50% y 200 estudiantes
 
 ---
 
@@ -128,4 +124,4 @@ d) 40% y 128 estudiantes
 9. d) Hay más bolitas rojas que azules, en una razón cercana a 7:3. Se observó 70% rojas y 30% azules.
 10. **b) 60** — 30% de 200 = 0,3 × 200 = 60.
 11. c) En abril, por 9 libros — es el único mes en que la barra de 6ºB supera a la de 6ºA: 31 − 22 = 9.
-12. c) 25% y 80 estudiantes — un cuarto = 25%; 25% de 320 = 80.
+12. **c) 20% y 80 estudiantes.** c) Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.
