@@ -1,5 +1,7 @@
 # Centro de control único — Auditoría integral de Logos School
 
+> **Punto de entrada vigente (2026-11-15):** [`docs/CONTINUIDAD.md`](../CONTINUIDAD.md) — estado, comandos y pendientes para retomar con cualquier herramienta.
+
 **Última actualización:** 6 de noviembre de 2026
 **Rama de trabajo:** `main`  
 **Alcance vigente acordado:** material educativo de1.ºbásico a4.ºmedio: guías, prácticas, pruebas y simulacros alineados con los temarios oficiales; funcionamiento real de respuestas correctas, incorrectas, equivalentes, parciales y vacías, incluidas las de varias correctas (desde el 2026-11-06 ya no hay preguntas de desarrollo activas). Visualización y accesibilidad solo cuando afecten ese uso. Pagos, paneles comerciales, infraestructura, despliegue y auditorías generales de otros roles quedan fuera de este cierre; su evidencia previa se conserva.

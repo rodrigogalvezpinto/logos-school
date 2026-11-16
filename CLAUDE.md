@@ -1,5 +1,9 @@
 # Proyecto Logos School — Plataforma de estudio para Exámenes Libres (Chile)
 
+> **Continuidad entre herramientas (2026-11-15):** el estado vigente, los comandos y los pendientes paso a paso están en
+> [`docs/CONTINUIDAD.md`](docs/CONTINUIDAD.md) (también enlazado desde `AGENTS.md` para Devin u otros agentes).
+> Mantenerlo al día en cada commit de avance.
+
 > Este archivo se carga automáticamente al iniciar una conversación de Claude Code en esta
 > carpeta. Su función es dar contexto persistente entre conversaciones. Mantenerlo
 > actualizado a medida que avanza el proyecto — es la memoria del proyecto, no un historial
