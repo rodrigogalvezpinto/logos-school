@@ -43,22 +43,22 @@ d) "¿Qué significa realmente ser libre?"
 **4. (Alternativas)** En una discusión sobre si los animales tienen derechos, un estudiante dice: "No hace falta pensarlo: un famoso influencer dijo que no, y punto". ¿Qué actitud de esta frase es contraria al quehacer filosófico?
 
 a) Aceptar la opinión de una figura conocida como prueba suficiente, sin examinar sus razones.
-b) Clarificar qué significa "tener derechos" antes de discutir.
-c) Partir de una experiencia cotidiana, como la relación con una mascota.
+b) Clarificar qué significa "tener derechos" antes de discutir si los animales los tienen.
+c) Partir de una experiencia cotidiana, como la relación con una mascota, para hacerse la pregunta.
 d) Preguntarse por el fundamento de los derechos.
 
 **5. (Alternativas — Asombro filosófico)** Un estudiante relee los mensajes que escribía a los 12 años y casi no reconoce sus opiniones de entonces. ¿Cuál de estas es una pregunta **filosófica** que podría surgir?
 
 a) "Si cambié tanto, ¿qué hace que siga siendo yo? ¿Hay algo que permanezca a través de los cambios?"
-b) "¿En qué fecha exacta envié cada mensaje y desde qué teléfono?"
-c) "¿Cuántos mensajes tengo guardados y cuánto espacio ocupan en la memoria?"
+b) "¿En qué fecha exacta envié cada mensaje y desde qué teléfono lo escribí cuando era niño?"
+c) "¿Cuántos mensajes tengo guardados en total y cuánto espacio ocupan en la memoria del teléfono?"
 d) "¿Qué aplicación usaba en esa época y por qué cambió su diseño?"
 
 **6. (Alternativas)** En clases se discute: "¿Tenemos el deber de ayudar a un desconocido aunque eso nos perjudique?" ¿Qué característica del quehacer filosófico ejemplifica mejor esta pregunta?
 
-a) Se resuelve con una encuesta que mida cuántas personas ayudarían a un desconocido.
+a) Se resuelve con una encuesta que mida cuántas personas ayudarían a un desconocido, porque la mayoría define lo correcto.
 b) Ya está resuelta definitivamente por la ley, que indica en cada caso qué hacer.
-c) Es solo una cuestión de gustos: cada persona cree lo que prefiere y no hay razones mejores ni peores.
+c) Es solo una cuestión de gustos personales: cada persona cree lo que prefiere y no hay razones mejores ni peores para decidir.
 d) Es una gran pregunta filosófica sobre la acción humana, que exige clarificar conceptos como "deber" y "bien" y argumentar.
 
 **7. (Alternativas)** Una característica del quehacer filosófico es que suele nacer de una vivencia del día a día. ¿Qué situación lo muestra?
@@ -75,9 +75,9 @@ d) Contar cuántas veces aparece la palabra «justicia» en un libro de Platón 
 **8. (Alternativas)** ¿Cuál de estas preguntas pertenece a la ontología?
 
 a) "¿Cómo sé que lo que veo no es un sueño?" (sobre cómo conocemos).
-b) "¿Debo devolver una billetera que encontré?" (sobre qué es correcto hacer).
+b) "¿Debo devolver una billetera que encontré en la calle si nadie me vio?" (sobre qué es correcto hacer).
 c) "¿Existen los números de la misma manera que existe una piedra?" (sobre el ser y los modos de existencia).
-d) "¿Es válido este razonamiento?" (sobre las reglas de la argumentación).
+d) "¿Es válido este razonamiento sobre los números y las piedras?" (sobre las reglas de la argumentación).
 
 **9. (Verdadero o falso)** Un materialista explicaría el enamoramiento como un conjunto de procesos físicos y químicos del cerebro y del cuerpo.
 
@@ -90,22 +90,22 @@ d) 1-B, 2-C, 3-A
 
 **11. (Alternativas)** Una estudiante dice: "El dinero que tengo en mi cuenta del banco no es un objeto que pueda tocar, pero claramente existe de alguna forma." Esta afirmación es un buen ejemplo de:
 
-a) Una pregunta sobre la validez lógica de un argumento.
+a) Una pregunta sobre la validez lógica de un argumento matemático.
 b) Una pregunta ontológica sobre distintos modos o tipos de existencia.
-c) Una pregunta puramente empírica sobre economía.
+c) Una pregunta puramente empírica sobre economía y precios.
 d) Una falacia de apelación a la autoridad.
 
 **12. (Alternativas — Teorías)** Para el materialismo, ¿cómo se responde la pregunta "¿un recuerdo es tan real como la mesa en que estudio?"?
 
 a) El recuerdo es una idea perfecta, más real que cualquier objeto material.
 b) El recuerdo es real como proceso del cerebro (conexiones y actividad neuronal), aunque no sea un objeto externo como la mesa.
-c) El recuerdo pertenece a una sustancia mental distinta del cuerpo, que no se reduce a la materia.
-d) El recuerdo no existe de ninguna forma, porque solo es real lo que se puede tocar.
+c) El recuerdo pertenece a una sustancia mental distinta del cuerpo, que no se reduce a la materia ni a las neuronas del cerebro.
+d) El recuerdo no existe de ninguna forma, porque solo es real lo que se puede tocar y medir, como la mesa en que estudio.
 
 **13. (Alternativas)** Un filósofo sostiene: "Los colores, los sonidos y las formas que percibo existen solo en cuanto son percibidos por una mente". ¿Qué teoría ontológica defiende?
 
-a) Materialismo, porque solo existe la materia y sus procesos físicos.
-b) Dualismo, porque existen dos sustancias distintas que interactúan.
+a) Materialismo, porque solo existe la materia y sus procesos físicos, incluidos los del cerebro.
+b) Dualismo, porque existen dos sustancias distintas, la mente y la materia, que interactúan.
 c) Idealismo, porque lo fundamentalmente real es la mente o las ideas, y lo material depende de ellas.
 d) Ninguna, porque niega que exista cualquier realidad.
 

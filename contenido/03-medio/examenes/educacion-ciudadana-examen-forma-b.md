@@ -259,7 +259,7 @@ d) Participar en una organización comunitaria o junta de vecinos local
 **21.** (Alternativas — 6 puntos) ¿Qué caracteriza a la perspectiva liberal sobre la ciudadanía, a diferencia del comunitarismo y del republicanismo?
 
 a) Exige que todas las personas participen obligatoriamente en política
-b) Pone la identidad y las tradiciones de la comunidad por sobre el individuo
+b) Pone la identidad y las tradiciones de la comunidad por sobre el individuo y sus decisiones personales
 c) Prioriza los derechos y libertades individuales, y entiende la participación como una decisión voluntaria
 d) Rechaza la existencia de derechos individuales
 

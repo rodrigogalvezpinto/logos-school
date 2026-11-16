@@ -26,8 +26,8 @@ palabras sueltas.
 1. *(Alternativas)* Read: *"In Ghana, many families celebrate the birth of a baby with a naming ceremony called 'outdooring'. Eight days after the birth, relatives and friends gather at dawn to welcome the baby, give it a name and share food and music."* ¿Cuál es la información central del texto?
 
 a) Ghana is a country in Africa with many different languages.
-b) Babies in Ghana do not receive a name until they are eight years old.
-c) Relatives in Ghana never visit a family after a baby is born.
+b) Babies in Ghana do not receive a name until they are eight years old and can choose it themselves.
+c) Relatives in Ghana never visit a family after a baby is born, because it is considered bad luck.
 d) In Ghana, a naming ceremony welcomes a baby eight days after birth, with family, food and music.
 
 2. *(Alternativas — Completar)* Complete: *"In Chile, the school year starts in March. ___, in Japan, it starts in April, when the cherry trees bloom."*
@@ -41,9 +41,9 @@ d) First
 
 4. *(Alternativas — Organizador gráfico)* Read: *"Hanami is a Japanese spring tradition. For about two weeks, while the cherry trees bloom, families and friends have picnics under the pink flowers."* Duration: ___ / Main activity: ___ / Place: ___
 
-a) Two years / cooking cherries / at a restaurant
-b) One day / a parade with music / in the city center
-c) Two weeks / cherry trees / picnics
+a) Two years / cooking cherries / at a restaurant in Tokyo
+b) One day / a parade with music / in the city center of Kyoto
+c) Two weeks / cherry trees and flowers / picnics in the park
 d) About two weeks / picnics with family and friends / under the cherry trees
 
 5. *(Alternativas — Función)* Read: *"In Spain, people usually have dinner at 10 p.m., whereas in Chile many families eat dinner or 'once' around 8 p.m."* ¿Qué función cumple *"whereas"* en esta oración?
@@ -55,17 +55,17 @@ d) Indicar una consecuencia
 
 6. *(Alternativas — Comprensión)* Read: *"In Denmark, 'hygge' is a feeling of comfort and togetherness. People create it by lighting candles, drinking something warm and spending relaxed time with people they love, especially during the long, dark winters."* *What is 'hygge', according to the text?*
 
-a) A Danish winter sport practiced on frozen lakes
-b) A national holiday celebrated once a year with fireworks
+a) A Danish winter sport practiced with friends on frozen lakes
+b) A national holiday celebrated once a year with fireworks and big parties in the streets
 c) A feeling of comfort and togetherness created in relaxed moments with loved ones
 d) A type of candle sold in Danish shops
 
 7. *(Alternativas)* Read two short texts: Text A says the Inti Raymi in Cusco, Peru, takes place on June 24 and centers on a ceremony to honor the sun. Text B says the We Tripantu, the Mapuche New Year in Chile, takes place around June 24 too and centers on purifying in the river at dawn and sharing food. ¿Qué oración compara correctamente ambos textos?
 
 a) Both celebrations take place around June 24, but the Inti Raymi focuses on a ceremony to honor the sun, whereas the We Tripantu focuses on purification in the river and sharing food.
-b) The Inti Raymi and the We Tripantu have nothing in common, because they are celebrated in different countries.
+b) The Inti Raymi and the We Tripantu have nothing in common, because they are celebrated in different countries, by different peoples and in different months of the year.
 c) Only the We Tripantu takes place in June, while the Inti Raymi takes place in December.
-d) The Inti Raymi focuses on purification in the river, whereas the We Tripantu honors the sun, and both take place in September.
+d) The Inti Raymi focuses on purification in the river, whereas the We Tripantu honors the sun with a ceremony in Cusco, and both celebrations take place in September, at the start of spring.
 
 8. *(Alternativas — Completar)* Complete: *"Both Mexico and Chile have a national dance, ___ the music and the clothes are very different."*
 
@@ -78,9 +78,9 @@ d) moreover
 
 10. *(Alternativas — Resumir)* Read: *"Every year in Rapa Nui, the Tapati festival lasts about two weeks. Families compete in traditional sports, songs and dances, and the winning team chooses the festival queen. The main purpose is to keep the Rapa Nui culture and language alive."* Which summary answers the guiding questions (what is it, how is it celebrated and why)?
 
-a) The Tapati is a one-day festival in Santiago where people buy food; its purpose is to make money for tourism.
+a) The Tapati is a one-day festival in Santiago where people buy food and souvenirs; its purpose is to make money for tourism in the capital.
 b) The Tapati is a sports competition for tourists; its purpose is to choose the best athlete in Chile.
-c) The Tapati is a Peruvian festival about the harvest; its purpose is to celebrate the end of summer.
+c) The Tapati is a Peruvian festival about the harvest, with music and dances in the mountains; its purpose is to celebrate the end of summer.
 d) The Tapati is a two-week festival in Rapa Nui with traditional sports, songs and dances; its purpose is to keep the Rapa Nui culture and language alive.
 
 11. *(Alternativas — Completar)* Read: *"The tradition of the Fiesta de La Tirana dates back to the colonial period."* Complete reusing a structure from the text: *"The custom of eating 'curanto' in Chiloé ___ the ancient indigenous peoples of the island."* (se remonta a)
@@ -107,9 +107,9 @@ d) Prohibido o limitado por ley
 14. *(Alternativas — Producción)* Which paragraph compares two breakfasts using a similarity connector and a difference connector?
 
 a) Both British and Chilean people often drink tea in the morning. Similarly, both eat bread at breakfast. Whereas a full English breakfast includes eggs, beans and sausages, a Chilean breakfast is usually lighter, with bread and avocado.
-b) British people drink tea. Chilean people drink tea. British people eat bread. Chilean people eat bread. British people eat beans. Chilean people eat avocado.
+b) British people drink tea. Chilean people drink tea. British people eat bread. Chilean people eat bread. British people eat beans and eggs. Chilean people eat avocado and cheese. Both countries have breakfast in the morning every day.
 c) Whereas similarly both British and Chilean, similarly whereas both drink. Both whereas similarly eat bread.
-d) I love avocado on toast very much, and my family eats it every morning in our house.
+d) I love avocado on toast very much, and my family eats it every morning in our house in Santiago, but my British friend prefers beans, eggs and sausages, and he always drinks a lot of tea with milk before going to school.
 
 ---
 

@@ -65,9 +65,9 @@ d) Porque estas causas siempre son hereditarias, y medir el ambiente permite con
 **Pregunta 7.** *(Alternativas)* En muchas ciudades del centro y sur de Chile, la calefacción con leña húmeda eleva en invierno el material particulado fino (PM2.5). La exposición repetida a este contaminante durante años se asocia principalmente a:
 
 a) Mayor riesgo de enfermedades cardiovasculares y respiratorias crónicas
-b) Una mejora de la capacidad pulmonar
-c) Inmunidad permanente frente a otros contaminantes
-d) Ningún efecto medible en la salud
+b) Una mejora de la capacidad pulmonar por el esfuerzo de respirar más
+c) Inmunidad permanente frente a otros contaminantes del aire de la ciudad
+d) Ningún efecto medible en la salud si la persona hace deporte
 
 ---
 
@@ -75,17 +75,17 @@ d) Ningún efecto medible en la salud
 
 **Pregunta 8.** *(Alternativas)* Una familia de Aysén va a limpiar una bodega que estuvo cerrada todo el invierno y encuentra fecas de ratones en el suelo. ¿Qué medida reduce el riesgo de contagio de hantavirus?
 
-a) Barrer en seco y rápido, para estar el menor tiempo posible dentro
+a) Barrer en seco y rápido, para estar el menor tiempo posible dentro de la bodega, y después lavarse bien las manos con jabón
 b) Ventilar la bodega al menos 30 minutos y humedecer el suelo con agua con cloro antes de limpiar, usando mascarilla y guantes
 c) Hervir el agua antes de beberla
-d) Usar preservativo en las relaciones sexuales
+d) Usar preservativo en las relaciones sexuales y evitar compartir cubiertos con personas de zonas rurales del sur
 
 **Pregunta 9.** *(Alternativas — Análisis de caso)* En una ciudad, la cobertura de la vacuna contra la tos convulsiva (coqueluche) en embarazadas baja del 90% al 60%. ¿Qué consecuencia es más probable?
 
-a) Disminuyen los contagios, porque las personas no vacunadas desarrollan defensas naturales
+a) Disminuyen los contagios, porque las personas no vacunadas desarrollan defensas naturales más fuertes y duraderas que las que entrega la vacuna
 b) Ningún cambio, porque la tos convulsiva no es contagiosa
 c) Aumentan los contagios graves en recién nacidos, que aún no pueden vacunarse, porque reciben menos defensas de la madre y circula más la bacteria
-d) La enfermedad desaparece, porque menos vacunas significan menos contacto con ella
+d) La enfermedad desaparece, porque menos vacunas significan menos contacto con la bacteria y, con el tiempo, ya no circula entre las personas
 
 **Pregunta 10.** *(Varias correctas — Evaluación de evidencia)* Un mensaje reenviado por WhatsApp afirma que "el virus del papiloma (VPH) no causa cáncer y la vacuna escolar es innecesaria", sin citar ninguna fuente. ¿Qué pasos permiten evaluarlo científicamente? Marca **todas** las correctas.
 
@@ -98,10 +98,10 @@ d) Buscar estudios científicos revisados por pares sobre el VPH y el cáncer ce
 
 **Pregunta 12.** *(Alternativas)* El control prenatal en Chile incluye exámenes para detectar el VIH, la sífilis y la hepatitis B en la embarazada. ¿Por qué es importante detectarlas a tiempo?
 
-a) Porque esas infecciones solo se transmiten por compartir cubiertos con la madre
+a) Porque esas infecciones solo se transmiten por compartir cubiertos y vasos con la madre después del nacimiento, y detectarlas evita ese contacto
 b) Porque pueden transmitirse de la madre al hijo o hija durante el embarazo o el parto (transmisión vertical), y hay tratamientos que reducen ese riesgo
 c) Porque se transmiten únicamente por vía respiratoria al recién nacido
-d) Porque solo se transmiten por picaduras de insectos durante el embarazo
+d) Porque solo se transmiten por picaduras de insectos durante el embarazo, y el control permite indicar repelentes a tiempo para proteger al bebé
 
 **Pregunta 13.** *(Alternativas)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
 

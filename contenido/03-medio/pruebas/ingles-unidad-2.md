@@ -43,8 +43,8 @@ d) First
 
 4. *(Alternativas — Completar)* Topic sentence: *"The article discusses the benefits of cycling to school."* Which supporting detail keeps the same topic?
 
-a) It explains that tennis is a popular sport in many countries.
-b) It explains how to prepare a chocolate cake in one hour.
+a) It explains that tennis is a popular sport in many countries and in many schools.
+b) It explains how to prepare a chocolate cake in one hour for a school party.
 c) It explains that dogs need to walk every day.
 d) It explains that students who cycle to school arrive more awake and get daily exercise.
 
@@ -57,8 +57,8 @@ d) Describir un lugar
 
 6. *(Alternativas — Pensamiento crítico)* Read: *"A survey found that 90% of teenagers prefer online classes. However, the survey was answered by only 20 students from one online academy."* *Why might the conclusion be limited?*
 
-a) Because teenagers never tell the truth in surveys.
-b) Because the survey was about classes and not about teenagers.
+a) Because teenagers never tell the truth in surveys, so any survey about teenagers is useless and the results are always the opposite of reality.
+b) Because the survey was about classes and not about teenagers, so it cannot say anything about what teenagers prefer or how they learn.
 c) Because the sample was very small and only included students who already chose online classes, so the results might not represent all teenagers.
 d) Because 90% is too high a number to be possible.
 
@@ -103,8 +103,8 @@ d) Legal
 
 13. *(Alternativas — Oraciones de relativo)* *"Describe a place that is important to you using 'that', 'which' or 'where'."* Which answer uses a relative clause correctly?
 
-a) My grandparents, house, the countryside. Summer, cousins, every year, together.
-b) The place where which that I go is which my grandparents' house.
+a) My grandparents, house, the countryside. Summer, cousins, every year, together, swimming in the river.
+b) The place where which that I go is which my grandparents' house, that I visit where every summer with cousins.
 c) The place that is most important to me is my grandparents' house, where I spend every summer with my cousins.
 d) My grandparents which house where countryside that summer every year.
 

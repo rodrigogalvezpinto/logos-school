@@ -44,8 +44,8 @@ d) Soberanía popular
 **Pregunta 4.** *(Alternativas)* Una persona privada de libertad por un delito conserva su derecho a no ser torturada y a recibir atención de salud. ¿Qué característica de los Derechos Humanos ilustra este caso?
 
 a) Que corresponden a toda persona por el solo hecho de ser humana, sin depender de su conducta ni de otra condición
-b) Que el Estado los concede solo a quienes cumplen la ley y puede quitarlos como castigo
-c) Que solo los tienen los ciudadanos con derecho a voto
+b) Que el Estado los concede solo a quienes cumplen la ley y puede quitarlos como castigo a quienes cometen delitos
+c) Que solo los tienen los ciudadanos chilenos con derecho a voto y residencia en el país
 d) Que se adquieren pagando impuestos
 
 **Pregunta 5.** *(Alternativas — análisis de caso)* Un gobierno invierte en elecciones libres y en garantizar la libertad de expresión, pero sostiene que la educación y la salud "pueden esperar algunas décadas". ¿Qué principio de los Derechos Humanos desconoce?
@@ -95,8 +95,8 @@ d) Ninguna de las anteriores
 
 **Pregunta 10.** *(Alternativas — análisis de caso)* Un estudiante dice: "No me interesa el centro de alumnos ni ninguna elección; mientras nadie se meta en mi vida, el resto me da lo mismo". ¿Con qué perspectiva se vincula más esta postura?
 
-a) Con el republicanismo, porque valora la independencia frente a lo público
-b) Con el comunitarismo, porque prioriza los lazos de la comunidad escolar
+a) Con el republicanismo, porque valora la independencia de cada persona frente a lo público y a la política
+b) Con el comunitarismo, porque prioriza los lazos de la comunidad escolar por sobre la participación individual
 c) Con un liberalismo llevado al extremo; se aleja del republicanismo, que valora la participación activa
 d) Con ninguna perspectiva, porque la indiferencia no tiene relación con el bien común
 
@@ -126,17 +126,17 @@ d) 1-B, 2-A, 3-C
 
 **Pregunta 13.** *(Alternativas — análisis de caso)* Un lago de la zona sur queda rodeado de parcelas privadas que cierran todos los caminos hacia la orilla; las familias de la comuna ya no pueden llegar a la playa, aunque la ley reconoce el acceso público a las riberas. ¿Qué conflicto de justicia social hay?
 
-a) Ninguno, porque las parcelas son privadas y nadie más tiene derechos en ese territorio
+a) Ninguno, porque las parcelas son privadas y nadie más tiene derechos en ese territorio, ni siquiera sobre la orilla del lago
 b) Las familias quieren comprar las parcelas y los dueños se niegan a vender
-c) El municipio no tiene ninguna relación con el acceso a los bienes públicos de su comuna
+c) El municipio no tiene ninguna relación con el acceso a los bienes públicos de su comuna, así que no hay conflicto que resolver entre las familias
 d) El acceso a un bien de uso público (la orilla del lago) queda restringido a quienes son dueños de las parcelas, excluyendo al resto de la comunidad
 
 **Pregunta 14.** *(Alternativas — análisis de caso)* En la bahía de Quintero-Puchuncaví se concentran durante décadas termoeléctricas, fundiciones y otras industrias, con episodios de intoxicación de estudiantes. ¿Qué concepto describe esta situación?
 
-a) Desarrollo sustentable de la bahía
+a) Desarrollo sustentable de la bahía y de sus industrias
 b) Zona de sacrificio, un ejemplo de falta de justicia ambiental
-c) Comercio justo entre las comunas de la región
-d) Participación efectiva de los vecinos
+c) Comercio justo entre las comunas de la región costera
+d) Participación efectiva de los vecinos en la bahía
 
 **Pregunta 15.** *(Alternativas)* El Estado decide construir un embalse y una carretera que cambian el uso del suelo y la vida económica de un valle. Este caso es un ejemplo de cómo el Estado:
 

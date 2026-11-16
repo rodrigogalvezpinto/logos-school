@@ -132,7 +132,7 @@ d) 1 cm
 ¿Por qué todo ángulo inscrito que subtiende una semicircunferencia (cuyos lados pasan por los extremos de un diámetro) mide 90°?
 
 a) Porque un ángulo inscrito mide la mitad del arco que subtiende, y una semicircunferencia mide 180°
-b) Porque todos los ángulos inscritos miden 90°, sin importar el arco que subtiendan
+b) Porque todos los ángulos inscritos miden 90°, sin importar el arco que subtiendan ni dónde esté su vértice
 c) Porque el diámetro es paralelo a los lados del ángulo
 d) Es solo una coincidencia: ocurre en algunos dibujos, pero no en todos
 

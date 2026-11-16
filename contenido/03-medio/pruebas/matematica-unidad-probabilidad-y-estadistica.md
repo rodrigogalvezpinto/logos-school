@@ -62,9 +62,9 @@ d) raíz cuadrada; unidades al cuadrado de las
 **Pregunta 5.** (Alternativas — comparar dispersión)
 Dos jugadoras de básquetbol promedian 18 puntos por partido; la jugadora A tiene desviación estándar 2 puntos y la B, 7 puntos. ¿Cuál es más regular en sus resultados?
 
-a) La jugadora B, porque su desviación es mayor y anota más veces
+a) La jugadora B, porque su desviación es mayor y eso significa que anota más veces por partido
 b) Ambas por igual, porque tienen el mismo promedio
-c) No se puede saber sin conocer el puntaje más alto de cada una
+c) No se puede saber sin conocer el puntaje más alto y el más bajo que obtuvo cada una
 d) La jugadora A, porque sus puntajes están más concentrados en torno al promedio
 
 **Pregunta 6.** (Alternativas — rango en contexto)
@@ -87,8 +87,8 @@ d) Varianza 8; desviación ≈ 2,83 puntos
 Dos máquinas llenan botellas que dicen contener 500 mL, y ambas promedian 500 mL. La máquina 1 tiene desviación estándar 2 mL y la máquina 2, 15 mL. Si la empresa quiere que casi todas las botellas tengan un contenido cercano al declarado, ¿cuál conviene?
 
 a) La máquina 1, porque sus llenados son más predecibles
-b) La máquina 2, porque su desviación es mayor
-c) Da lo mismo, porque el promedio es igual
+b) La máquina 2, porque su desviación es mayor y llena más
+c) Da lo mismo, porque el promedio de ambas es igual
 d) Ninguna, porque ambas promedian 500 mL
 
 **Pregunta 9.**

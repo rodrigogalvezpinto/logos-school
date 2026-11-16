@@ -45,29 +45,29 @@ d) Personificación
 **3. (Alternativas)** ¿Cómo contribuye al sentido la combinación de un tono coloquial en la voz de la madre ("para que tus manos huelan a otra cosa") y una prosa poética en las descripciones?
 
 a) Acerca el relato a la experiencia familiar sin perder densidad simbólica, y refleja la distancia entre la voz sencilla de la madre y la mirada interpretativa de la hija
-b) No contribuye en nada al sentido: la mezcla de tonos es casual
+b) No contribuye en nada al sentido: la mezcla de tonos es casual, y el relato podría estar escrito todo en lenguaje coloquial sin perder nada de lo que transmite sobre la madre
 c) Hace el relato más difícil de leer sin ninguna razón
-d) Muestra que la narradora no sabe escribir de manera uniforme
+d) Muestra que la narradora no sabe escribir de manera uniforme, porque pasa de un tono a otro sin razón, y eso confunde al lector sobre quién habla en cada parte del relato
 
 **4. (Alternativas)** ¿Por qué la narradora caracteriza a la madre sobre todo a través de su cuerpo y de su ropa de trabajo (las cicatrices, los dedos hinchados, el overol) y no de sus pensamientos?
 
-a) Porque la autora no logró desarrollar mejor al personaje
-b) Porque la madre es un personaje secundario, sin relevancia en la trama
+a) Porque la autora no logró desarrollar mejor al personaje y prefirió describir solo su apariencia, sin mostrar lo que siente ni lo que piensa sobre su trabajo
+b) Porque la madre es un personaje secundario, sin relevancia en la trama, y por eso basta con describir su cuerpo y su ropa de trabajo para presentarla
 c) Porque ese recurso traslada el retrato del plano psicológico al físico y simbólico: en el cuerpo quedan las huellas del trabajo como forma silenciosa de amor
 d) Porque el relato está narrado en tercera persona omnisciente
 
 **5. (Alternativas — aplicación)** ¿Qué vínculo con "El overol azul" explica una semejanza y una diferencia?
 
-a) Con una película de superhéroes: comparten la acción y difieren en que el relato no tiene villanos
+a) Con una película de superhéroes: comparten la acción, el esfuerzo y la idea de salvar a otros, y difieren en que el relato no tiene villanos ni poderes especiales, sino una madre que trabaja en una planta pesquera
 b) Con cualquier obra sobre familias, sin necesidad de explicar semejanzas ni diferencias
-c) Con un manual de seguridad industrial: comparten el vocabulario técnico y difieren en que el manual tiene instrucciones
+c) Con un manual de seguridad industrial de una planta pesquera: comparten el vocabulario técnico del trabajo en el mar y difieren en que el manual tiene instrucciones numeradas, mientras el relato cuenta una historia familiar con personajes
 d) Con un relato sobre un padre minero que trabaja para que su hija estudie: comparten el sacrificio transformado en oportunidad; difieren en el oficio (la mina en lugar del mar) y en el vínculo (padre e hija en lugar de madre e hija)
 
 **6. (Alternativas)** Un compañero dice que el final ("estas manos mías, que hoy teclean una tesis… escribiendo sobre las suyas") es solo un dato sobre lo que estudia la narradora. ¿Qué evaluación es correcta?
 
 a) Es correcta: el final podría eliminarse sin que cambie el sentido
-b) Es incorrecta, porque el relato no tiene un final propiamente tal
-c) Es correcta: la narradora solo habla de su tesis, sin relación con la madre
+b) Es incorrecta, porque el relato no tiene un final propiamente tal: termina de forma abrupta, sin cerrar ninguna idea anterior ni volver a las imágenes del comienzo, como ocurre en muchos cuentos contemporáneos
+c) Es correcta: la narradora solo habla de su tesis universitaria al final, sin ninguna relación con la madre ni con el trabajo en la planta; ese párrafo podría eliminarse y el relato seguiría transmitiendo exactamente lo mismo
 d) Es incompleta: la estructura circular (empezar con las manos de la madre y terminar con las de la hija) cierra un paralelismo que sustenta que el sacrificio físico se transformó en herencia simbólica
 
 ---
@@ -96,29 +96,29 @@ d) Informar un hecho puntual en pocas líneas, sin desarrollo posterior
 **9. (Alternativas)** ¿Qué información del reportaje es verificable y cuál depende solo de una de las partes?
 
 a) Todo depende de la palabra de Marisol, porque el reportaje no cita ninguna fuente
-b) Todo es igual de verificable: las cifras de los exportadores, de la Dirección del Trabajo y del estudio tienen el mismo respaldo
+b) Todo es igual de verificable: las cifras de los exportadores, de la Dirección del Trabajo y del estudio universitario tienen el mismo respaldo y se pueden comprobar del mismo modo
 c) Las cifras atribuidas a la Dirección del Trabajo y al estudio universitario se podrían contrastar en sus fuentes; el 85% depende solo de los comunicados de los exportadores
 d) Nada es verificable, porque los reportajes siempre mezclan opiniones con datos
 
 **10. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje destaque que la mayoría de las temporeras son mujeres jefas de hogar?
 
 a) Porque conecta el tema del trabajo temporal con el debate social vigente sobre el trabajo de las mujeres, los cuidados y la desigualdad de ingresos
-b) Porque no tiene ninguna relevancia: es un dato que solo sirve para presentar a Marisol
-c) Porque busca demostrar que los hombres no pueden trabajar en la agricultura
+b) Porque no tiene ninguna relevancia para el reportaje: es un dato que solo sirve para presentar a Marisol y describir su situación familiar a los lectores
+c) Porque busca demostrar que los hombres no pueden trabajar en la agricultura de temporada y que ese trabajo es naturalmente femenino
 d) Porque todas las temporeras de Chile son jefas de hogar
 
 **11. (Alternativas — aplicación)** ¿Qué propósito cumple contrastar el 85% que destacan los exportadores con el testimonio de Marisol ("¿Qué otra pega hay acá en febrero?")?
 
 a) Cuestionar, sin afirmarlo directamente, qué tan libre es esa decisión de "volver"
-b) Apoyar totalmente a los exportadores y reforzar su cifra
-c) Distraer al lector con una anécdota sin relación con el tema
+b) Apoyar totalmente a los exportadores y reforzar su cifra del 85% de satisfacción
+c) Distraer al lector con una anécdota sin relación con el tema del trabajo temporal
 d) Demostrar que Marisol no quiere trabajar
 
 **12. (Alternativas)** Si el reportaje se transformara en uno audiovisual, ¿qué cambiaría y qué se mantendría?
 
-a) Cambiaría el tema completo y dejaría de interesar a la audiencia chilena
+a) Cambiaría el tema completo, que pasaría a ser la agricultura en general, y el reportaje dejaría de interesar a la audiencia chilena preocupada por el trabajo temporal
 b) No cambiaría nada: se leería el mismo texto en voz alta
-c) Se perdería toda relevancia, porque los temas laborales solo pueden tratarse en textos escritos
+c) Se perdería toda relevancia, porque los temas laborales solo pueden tratarse en textos escritos, y en televisión el público solo busca entretención y no reportajes
 d) Cambiaría el modo de presentar (imágenes de la planta, sonido ambiente, voz en off); se mantendría la relevancia del tema para la audiencia chilena preocupada por el trabajo temporal
 
 ---
@@ -139,33 +139,33 @@ d) Cambiaría el modo de presentar (imágenes de la planta, sonido ambiente, voz
 
 **13. (Alternativas)** ¿Qué rol asume @profe_lenguaje_sur en el hilo?
 
-a) Autoridad municipal que ordena reabrir la biblioteca
+a) Autoridad municipal que ordena reabrir la biblioteca y sancionar a quienes la cerraron
 b) Par que valida la organización del club desde su propia experiencia en otra comuna
 c) Vocero oficial del club de lectura
-d) Usuario anónimo que comenta solo para provocar
+d) Usuario anónimo que comenta solo para provocar a los integrantes del club de lectura
 
 **14. (Verdadero o Falso)** "En Chile, las bibliotecas públicas y las organizaciones vecinales tienen una larga historia como espacios de participación comunitaria, pero ese contexto no influye en cómo se interpretan los comentarios de este hilo."
 
 **15. (Alternativas)** ¿Qué función cumple la segunda intervención de @lectores_barrio_alto ("Aclaramos… pedimos no publicar nombres ni fotos…")?
 
-a) Promotora del rumor: confirma quién está detrás del reclamo
+a) Promotora del rumor: confirma quién está detrás del reclamo y publica su nombre en el hilo
 b) Correctiva y protectora: desmiente el rumor y fija un límite ético para proteger a terceros
-c) Comercial: promociona las actividades del club
+c) Comercial: promociona las actividades del club y su próxima feria de libros usados
 d) De cierre: termina el hilo sin explicación
 
 **16. (Alternativas)** ¿Qué modo de razonamiento usa @profe_lenguaje_sur para respaldar al club?
 
-a) Un estereotipo sobre los jóvenes que leen
+a) Un estereotipo sobre los jóvenes que leen y participan en clubes
 b) Su propia experiencia comparativa en un caso similar de otra comuna
-c) Una cifra oficial sobre las bibliotecas cerradas en Chile
+c) Una cifra oficial sobre las bibliotecas cerradas en Chile durante el último año
 d) Un rumor sobre quién organizó el reclamo
 
 **17. (Alternativas — aplicación)** ¿Qué respuesta de la comunidad digital frente a comentarios como el de @troll_456 está mejor fundamentada?
 
 a) Responder con insultos más fuertes
-b) Discutir solo con el troll por mensajes privados hasta convencerlo
+b) Discutir solo con el troll por mensajes privados hasta convencerlo de que está equivocado, sin que el resto del hilo se entere
 c) Señalarlos como descalificaciones sin sustento, sin responder con el mismo tono, porque desvían la conversación del problema real
-d) Difundir los datos personales del troll
+d) Difundir los datos personales del troll para que todos sepan quién es y dejen de leerlo
 
 **18. (Varias correctas)** Para formarse una opinión informada sobre el cierre, ¿qué evidencia del hilo es más sólida? Marca **todas** las correctas.
 
@@ -186,9 +186,9 @@ d) El testimonio directo de @ex_bibliotecaria_rosa, que trabajó ahí veinte añ
 
 **19. (Alternativas)** Una estudiante debe transformar su ensayo sobre el reciclaje en una publicación para la cuenta de Instagram del centro de alumnos. ¿Qué cambio responde a la adecuación al nuevo género discursivo?
 
-a) Copiar el ensayo completo, con sus citas y referencias bibliográficas
+a) Copiar el ensayo completo, con sus citas y referencias bibliográficas, para que no se pierda nada
 b) Mantener la idea central, pero acortar el texto, usar un registro cercano y cerrar con un llamado a la acción
-c) Agregar más citas académicas para que la publicación parezca más seria
+c) Agregar más citas académicas y notas al pie para que la publicación parezca más seria y confiable
 d) Cambiar el tema por uno más entretenido para conseguir más «me gusta»
 
 **20. (Verdadero o Falso)** "Para escribir la versión (b) corregida, la estudiante pudo publicar directamente su primer borrador, sin planificar a quién se dirigía ni revisar la cohesión."
@@ -198,15 +198,15 @@ d) Cambiar el tema por uno más entretenido para conseguir más «me gusta»
 **22. (Alternativas — planificación)** ¿Qué planificación de un texto sobre el reportaje de las temporeras es coherente?
 
 a) Propósito: argumentar que urge mejorar la protección del trabajo de temporada. Género: columna de opinión. Audiencia: lectores adultos de un medio de actualidad. Convención: registro formal y datos verificables
-b) Propósito: entretener con una historia inventada. Género: receta de cocina. Audiencia: niños de enseñanza básica. Convención: vocabulario técnico
-c) Propósito: ninguno en particular. Género: el más fácil. Audiencia: la que se interese. Convención: escribir sin revisar
+b) Propósito: entretener con una historia inventada sobre una temporera. Género: receta de cocina con frutas de exportación. Audiencia: niños de enseñanza básica. Convención: vocabulario técnico agrícola y registro muy formal
+c) Propósito: ninguno en particular, solo cumplir con la tarea. Género: el que resulte más fácil de escribir. Audiencia: la que se interese por el tema. Convención: escribir sin revisar ni planificar el texto antes
 d) Escribir sin planificar, porque basta con resumir el reportaje en el mismo orden
 
 **23. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia no significa necesariamente perder profundidad?
 
-a) Porque las publicaciones en redes sociales siempre son más profundas que los ensayos
+a) Porque las publicaciones en redes sociales siempre son más profundas que los ensayos, ya que llegan a más personas
 b) Porque adecuar exige eliminar la interpretación y quedarse solo con los datos
-c) Porque la audiencia no importa: un mismo texto funciona igual para cualquier lector
+c) Porque la audiencia no importa: un mismo texto funciona igual para cualquier lector, en cualquier medio y con cualquier propósito
 d) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma, no necesariamente la profundidad
 
 **24. (Varias correctas)** ¿Qué acciones corresponden a la etapa de **planificación** del proceso de escritura? Marca **todas** las correctas.
@@ -218,10 +218,10 @@ d) Definir el propósito y la audiencia del texto
 
 **25. (Alternativas — aplicación)** ¿Cuál es la mejor corrección de "Las temporeras trabajan muchas horas. Los exportadores dicen que generan empleo. Marisol trabaja con los pies mojados. En invierno no hay ingresos.", y qué relación muestran sus conectores?
 
-a) "Las temporeras, y, pero, sin embargo, trabajan muchas horas, y los exportadores, además, dicen que generan empleo, por lo tanto Marisol…" — los conectores se acumulan sin expresar ninguna relación clara
+a) "Las temporeras, y, pero, sin embargo, trabajan muchas horas, y los exportadores, además, dicen que generan empleo, por lo tanto Marisol…" — los conectores se acumulan sin expresar ninguna relación clara entre las ideas, y el lector no sabe qué se contrasta ni qué se concluye del texto
 b) "Los exportadores destacan que el sector genera empleo; sin embargo, las temporeras trabajan jornadas largas y duras. Marisol, por ejemplo, pasa doce horas con los pies mojados…" — "sin embargo" marca contraste y "por ejemplo", ejemplificación
 c) "Marisol trabaja" — no hay conectores
-d) "Además, las temporeras trabajan muchas horas. Además, los exportadores dicen que generan empleo. Además, Marisol trabaja con los pies mojados." — "además" marca el contraste entre ambas versiones
+d) "Además, las temporeras trabajan muchas horas. Además, los exportadores dicen que generan empleo. Además, Marisol trabaja con los pies mojados." — "además" marca el contraste entre ambas versiones del reportaje y ordena las ideas de la más importante a la menos importante
 
 ---
 

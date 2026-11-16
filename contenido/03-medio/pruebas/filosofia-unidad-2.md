@@ -27,9 +27,9 @@ oa_por_pregunta: {"1":"OA 4","2":"OA 4","3":"OA 4","4":"OA 4","5":"OA 4","6":"OA
 **1. (Alternativas)** ¿Cuál de estas preguntas pertenece a la epistemología?
 
 a) "¿Existe Dios?" (sobre lo que existe).
-b) "¿Está bien mentir para proteger a un amigo?" (sobre lo bueno y lo malo).
+b) "¿Está bien mentir para proteger a un amigo que hizo algo malo?" (sobre lo bueno y lo malo).
 c) "¿Cómo puedo saber si una noticia que leo es verdadera?" (sobre el conocimiento y su justificación).
-d) "¿Es válido este silogismo?" (sobre la estructura de los argumentos).
+d) "¿Es válido este silogismo sobre las noticias falsas?" (sobre la estructura de los argumentos).
 
 **2. (Verdadero o falso)** Una persona que afirma "mi religión, mi partido o mi teoría tiene toda la verdad y no hay nada que revisar" adopta una postura dogmática frente al conocimiento.
 
@@ -42,16 +42,16 @@ d) 1-B, 2-A, 3-C
 
 **4. (Alternativas)** Frente a la pregunta "¿el cambio climático es causado por la actividad humana?", ¿qué respuesta representa mejor una postura epistemológica **crítica**?
 
-a) "Nadie puede saberlo de verdad, así que cualquier opinión vale lo mismo."
-b) "Lo que diga mi grupo de amigos es la verdad final y no hay que revisarlo."
+a) "Nadie puede saber de verdad si el cambio climático existe, porque los científicos discuten entre ellos, así que cualquier opinión sobre el tema vale lo mismo."
+b) "Lo que diga mi grupo de amigos sobre el cambio climático es la verdad final, y no hay que revisarlo aunque aparezcan datos científicos que lo contradigan."
 c) "La evidencia científica disponible es muy sólida y me lleva a aceptarlo, aunque reconozco que el conocimiento científico se revisa si aparecen datos nuevos."
 d) "Si un video tiene millones de visitas, lo que dice tiene que ser verdad."
 
 **5. (Alternativas — Experiencia)** ¿Qué situación muestra el paso de una actitud dogmática a una crítica frente al conocimiento?
 
 a) Seguir creyendo que un horóscopo predice el futuro porque toda la familia lo lee
-b) Rechazar toda información sobre astronomía sin revisarla, porque "nada se puede saber"
-c) Repetir lo que dice la mayoría del curso sobre el horóscopo para no discutir
+b) Rechazar toda información sobre astronomía y sobre el horóscopo sin revisarla, porque "nada se puede saber con certeza" y cualquier creencia vale lo mismo
+c) Repetir lo que dice la mayoría del curso sobre el horóscopo para no discutir, aunque uno no haya revisado si sus predicciones se cumplen o no
 d) Dejar de aceptar sin cuestionar el horóscopo, comparar sus predicciones con lo que realmente ocurrió y revisar la creencia según esa evidencia
 
 **6. (Alternativas)** Un hincha sostiene que su equipo de fútbol "jamás ha cometido una falta", aunque le muestren videos de las jugadas, porque "es imposible que se equivoquen". ¿Qué actitud epistemológica ejemplifica mejor esta situación?
@@ -63,8 +63,8 @@ d) Dogmatismo.
 
 **7. (Alternativas — Análisis de caso)** Una compañera dice: "No hay que creerle nada a ningún científico, todos tienen intereses". ¿Qué evaluación es correcta?
 
-a) Es una postura crítica razonable, porque desconfiar de todos los científicos por igual protege de engaños
-b) Es dogmatismo; lo correcto es creerle todo a cualquier científico, porque su título garantiza la verdad
+a) Es una postura crítica razonable, porque desconfiar de todos los científicos por igual protege de engaños y obliga a cada persona a investigar por su cuenta cada tema
+b) Es dogmatismo; lo correcto es creerle todo a cualquier científico, porque su título universitario garantiza que lo que dice es verdad en todos los temas que trate
 c) Es un escepticismo radical; lo crítico es evaluar cada afirmación según su evidencia y sus posibles conflictos de interés, sin rechazarla en bloque ni aceptarla sin más
 d) Es correcta: si algunos científicos se equivocan, la ciencia no tiene evidencia confiable en ningún caso
 
@@ -74,26 +74,26 @@ d) Es correcta: si algunos científicos se equivocan, la ciencia no tiene eviden
 
 **8. (Alternativas)** Compara estos dos razonamientos. (I) "Todos los mamíferos tienen pulmones; la ballena es un mamífero; por lo tanto, la ballena tiene pulmones." (II) "Los últimos diez veranos en Santiago superaron los 30 °C; por lo tanto, el próximo verano también los superará." ¿Qué los distingue?
 
-a) El (I) tiene más premisas que el (II), por eso es más completo.
+a) El (I) tiene más premisas que el (II), y por eso es más completo y su conclusión es más probable que la del razonamiento sobre el verano.
 b) El (I) es deductivo: si las premisas son verdaderas, la conclusión se sigue necesariamente; el (II) es inductivo: su conclusión es solo probable.
-c) El (II) es más confiable, porque se basa en casos observados y no en premisas.
+c) El (II) es más confiable que el (I), porque se basa en casos observados en la realidad y no en premisas que alguien inventó; por eso su conclusión es necesaria.
 d) No hay ninguna diferencia: ambos son el mismo tipo de razonamiento.
 
 **9. (Verdadero o falso)** El razonamiento "Todos los peces vuelan; el salmón es un pez; por lo tanto, el salmón vuela" tiene una estructura válida, aunque su primera premisa es falsa.
 
 **10. (Alternativas — Componentes)** En el argumento "Como Camila practicó todos los días (razón) y quien practica de forma constante suele mejorar (garantía), es probable que le vaya bien en el concurso de piano (conclusión)", ¿qué elemento falta para fortalecerlo?
 
-a) Una segunda conclusión que refuerce la primera
+a) Una segunda conclusión que refuerce la primera y repita la idea con otras palabras
 b) Una pregunta retórica que interpele al lector
 c) Evidencia concreta, como sus resultados en concursos anteriores o la evaluación de su profesora
-d) Nada: el argumento ya es perfecto y no necesita más apoyo
+d) Nada: el argumento ya es perfecto y no necesita más apoyo, porque la razón es clara y convincente
 
 **11. (Alternativas — Identificar falacia)** "Este celular tiene que ser el mejor del mercado: lo recomienda un futbolista famoso en su publicidad." ¿Qué falacia se comete?
 
-a) Ad hominem: ataca a la persona en vez de sus argumentos.
+a) Ad hominem: ataca a la persona del futbolista en vez de discutir los argumentos sobre la bebida energética que vende.
 b) Apelación a la autoridad: se acepta la conclusión por la fama de quien la dice, aunque no sea experto en el tema ni presente evidencia.
 c) Falsa dicotomía: plantea solo dos opciones.
-d) Ninguna: un futbolista famoso es una fuente confiable en cualquier tema.
+d) Ninguna: un futbolista famoso es una fuente confiable en cualquier tema, porque su éxito deportivo demuestra que sabe lo que dice
 
 **12. (Alternativas — Unir métodos)** Une cada método con un ejemplo: (1) Mayéutica, (2) Experimento mental, (3) Fenomenología — (A) describir con detalle cómo se vive la experiencia de esperar una noticia importante; (B) preguntar a un compañero "¿qué es la valentía?" y, con nuevas preguntas, mostrarle que su definición se contradice; (C) imaginar que existe un anillo que te vuelve invisible y preguntarse si seguirías actuando con justicia. ¿Qué combinación es correcta?
 
@@ -104,16 +104,16 @@ d) 1-B, 2-A, 3-C
 
 **13. (Alternativas — Construir un argumento)** ¿Qué opción presenta un argumento completo (razón, garantía y evidencia) a favor de "Los liceos deberían ofrecer talleres de educación financiera"?
 
-a) Razón: la educación financiera es importante. Garantía: porque sí, todos lo saben. Evidencia: ninguna, porque es evidente
-b) Solo la afirmación "saber de dinero es útil", repetida con distintas palabras como razón, garantía y evidencia, sin ningún dato que la respalde
+a) Razón: la educación financiera es importante para la vida. Garantía: porque sí, todos lo saben y nadie lo discute en el colegio. Evidencia: ninguna, porque es evidente que saber de dinero ayuda, y no hace falta presentar datos ni encuestas que lo respalden
+b) Solo la afirmación "saber de dinero es útil", repetida con distintas palabras como razón, garantía y evidencia, sin ningún dato concreto que la respalde, sin explicar cómo se conecta con la conclusión y sin considerar ninguna objeción posible de otros estudiantes
 c) Razón: a muchos estudiantes no les gustan las matemáticas. Garantía: no es necesaria. Evidencia: mi opinión y la de mis amigos
 d) Razón: los jóvenes toman decisiones sobre créditos y ahorro al salir del liceo. Garantía: quien entiende el interés y las deudas puede evitar endeudarse en exceso. Evidencia: encuestas muestran que muchos jóvenes desconocen cómo funcionan los intereses de una tarjeta de crédito
 
 **14. (Alternativas)** Euclides partió de unos pocos principios aceptados sin demostración, como "por dos puntos pasa una sola recta", y desde ellos dedujo cientos de teoremas de geometría. ¿Qué método filosófico ilustra este ejemplo?
 
-a) La fenomenología: describir la experiencia consciente tal como se vive.
+a) La fenomenología: describir la experiencia consciente tal como se vive, sin partir de principios ni demostraciones previas.
 b) La axiomática: partir de principios básicos aceptados sin demostración (axiomas) y derivar de ellos el resto de un sistema con reglas lógicas.
-c) La mayéutica: hacer preguntas sucesivas para que el interlocutor descubra contradicciones.
+c) La mayéutica: hacer preguntas sucesivas para que el interlocutor descubra contradicciones en sus propias ideas sobre la geometría.
 d) El experimento mental: imaginar una situación hipotética para poner a prueba una idea.
 
 ---

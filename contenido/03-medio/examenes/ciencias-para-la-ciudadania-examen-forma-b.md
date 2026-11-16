@@ -45,10 +45,10 @@ Objetivos de Aprendizaje)
 
 **1.** *(Alternativas)* Durante el período de pruebas, un estudiante duerme solo 5 horas diarias. ¿Qué efecto en su salud es esperable a corto plazo?
 
-a) Mejor concentración, porque estudia más horas
+a) Mejor concentración, porque estudia más horas cada noche
 b) Menor atención, más irritabilidad y peor rendimiento
-c) Ningún efecto, porque es joven
-d) Un aumento de su estatura
+c) Ningún efecto, porque es joven y su cuerpo se adapta
+d) Un aumento de su estatura por dormir menos horas
 
 **2.** *(Alternativas)* El estrés académico crónico, a diferencia de un episodio
 puntual de estrés, se asocia principalmente a:
@@ -100,10 +100,10 @@ d) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cer
 
 **7.** *(Alternativas)* ¿Qué medida reduce la transmisión del virus de la hepatitis B?
 
-a) Lavarse las manos solo antes de comer
-b) Evitar comer frutas y verduras crudas
+a) Lavarse las manos solo antes de comer y evitar saludar de beso a personas enfermas
+b) Evitar comer frutas y verduras crudas, y hervir siempre el agua antes de beberla
 c) Vacunarse y no compartir objetos que puedan tener sangre, como agujas o máquinas de afeitar
-d) Usar bloqueador solar todos los días
+d) Usar bloqueador solar todos los días y evitar exponerse al sol en las horas de más calor
 
 **8.** *(Alternativas)* Usar mascarilla es una medida de prevención eficaz frente a:
 
@@ -124,16 +124,16 @@ d) No existe ninguna diferencia real entre ambas vacunas, porque las dos se apli
 **10.** *(Alternativas)* Una autoridad propone vacunar gratis contra la influenza, cada otoño, a adultos mayores y niños. ¿Qué implicancia económica tiene la medida?
 
 a) Requiere inversión pública, pero evita costos mayores en hospitalizaciones y licencias médicas
-b) No tiene ningún costo para el Estado
-c) Aumenta los contagios durante el invierno
-d) Solo beneficia económicamente a las farmacias
+b) No tiene ningún costo para el Estado, porque las vacunas las donan los laboratorios
+c) Aumenta los contagios durante el invierno y, con ello, las licencias médicas de los padres
+d) Solo beneficia económicamente a las farmacias que venden las vacunas en el sector privado
 
 **11.** *(Alternativas)* Un video viral afirma que una vacuna "contiene un chip". ¿Qué es lo más adecuado para evaluar esa afirmación?
 
-a) Compartirlo para que otros opinen
-b) Creerlo si tiene muchas visualizaciones
+a) Compartirlo para que otros opinen y ver qué dice la mayoría en los comentarios del video
+b) Creerlo si tiene muchas visualizaciones, porque eso muestra que mucha gente confía en él
 c) Contrastarlo con información de organismos de salud y con estudios científicos revisados por pares
-d) Preguntar en un grupo de amigos
+d) Preguntar en un grupo de amigos qué piensan y seguir la opinión que más se repita
 
 **12.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
@@ -199,9 +199,9 @@ d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas
 
 **18.** *(Alternativas)* En una casa con niños pequeños, ¿dónde se recomienda guardar los medicamentos?
 
-a) En el velador, para tenerlos a mano
-b) En botellas de bebida, para ahorrar espacio
-c) En el refrigerador, sin rotular
+a) En el velador, para tenerlos a mano durante la noche
+b) En botellas de bebida rotuladas, para ahorrar espacio en la despensa
+c) En el refrigerador, sin rotular, junto a los alimentos
 d) En un lugar alto o cerrado con llave, en su envase original
 
 ---

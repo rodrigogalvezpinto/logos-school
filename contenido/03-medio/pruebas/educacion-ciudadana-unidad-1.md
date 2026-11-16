@@ -35,9 +35,9 @@ d) "Cada estudiante tiene igual valor y dignidad, cualquiera sea su curso"
 **Pregunta 2.** *(Alternativas — análisis de caso)* En un país se respetan la prensa libre y los tribunales independientes, pero el presidente posterga por decreto las elecciones parlamentarias "hasta que la situación económica mejore", sin fecha. ¿Cumple con los atributos de una democracia?
 
 a) No plenamente: aunque hay libertades y tribunales independientes, se suspenden las elecciones periódicas, que permiten a la ciudadanía renovar a sus autoridades
-b) Sí, porque basta con que exista prensa libre para que un país sea democrático, aunque no haya elecciones
+b) Sí, porque basta con que exista prensa libre y tribunales independientes para que un país sea democrático, aunque no haya elecciones
 c) Sí, porque un presidente elegido puede postergar las elecciones cuando lo considere necesario para la economía
-d) No, porque en una democracia el presidente no puede tomar ninguna decisión sin consultar a la ciudadanía en un plebiscito
+d) No, porque en una democracia el presidente no puede tomar ninguna decisión sin consultar antes a la ciudadanía en un plebiscito nacional
 
 **Pregunta 3.** *(Alternativas)* La dignidad de la persona, el respeto a los Derechos Humanos y la soberanía popular son fundamentos de la democracia. ¿Cuál de las siguientes opciones corresponde, en cambio, a un **atributo** que permite observar si una democracia funciona?
 
@@ -49,8 +49,8 @@ d) Que existan elecciones libres y periódicas con alternativas reales
 **Pregunta 4.** *(Alternativas — análisis de caso)* En un país, la ley exige que todo candidato a diputado sea aprobado previamente por una comisión nombrada por el gobierno, que rechaza a quienes critican al presidente. ¿Qué fundamento de la democracia se vulnera?
 
 a) La igualdad de voto, porque cada persona sigue teniendo un solo voto
-b) Ninguno, porque igual se realizan elecciones y la ciudadanía puede votar
-c) El Estado de Derecho, porque existe una ley que regula a los candidatos
+b) Ninguno, porque igual se realizan elecciones periódicas y la ciudadanía puede votar libremente por los candidatos que quedaron
+c) El Estado de Derecho, porque existe una ley que regula a los candidatos y el gobierno solo la está aplicando con rigor
 d) La soberanía popular, porque es el gobierno, y no la ciudadanía, quien decide en la práctica entre qué opciones se puede elegir
 
 **Pregunta 5.** *(Varias correctas)* Un grupo de jóvenes de 18 años decide informarse sobre los candidatos a concejal, votar en la elección municipal y luego asistir a las sesiones públicas del concejo. ¿Por qué estas acciones fortalecen la democracia? Marca **todas** las correctas.
@@ -73,9 +73,9 @@ d) La Contraloría General de la República
 
 **Pregunta 7.** *(Alternativas — análisis de caso)* Un arrendatario de escasos recursos recibe una demanda de desalojo y no puede pagar un abogado para defenderse en el juicio civil. ¿A qué institución puede recurrir?
 
-a) A la Defensoría Penal Pública, porque defiende gratuitamente en todo tipo de juicios
+a) A la Defensoría Penal Pública, porque defiende gratuitamente en todo tipo de juicios, incluidos los civiles por arriendo
 b) A la Corporación de Asistencia Judicial, que asesora y representa gratuitamente en materias no penales, como las civiles
-c) Al Ministerio Público, porque representa a los arrendatarios en los juicios contra los dueños
+c) Al Ministerio Público, porque representa gratuitamente a los arrendatarios en los juicios civiles contra los dueños
 d) A ninguna, porque en los juicios civiles siempre hay que pagar un abogado particular
 
 **Pregunta 8.** *(Alternativas)* Un tribunal de primera instancia rechaza la demanda de una persona, que no está de acuerdo con el fallo y lo apela. ¿Qué tribunal revisará esa decisión?
@@ -96,8 +96,8 @@ d) Ninguna, porque si no puede pagar un abogado, el juicio se hace sin defensa
 
 a) Que no basta con que los tribunales y mecanismos existan: también deben estar al alcance real de las personas, incluso en lo geográfico
 b) Que los vecinos no tienen conflictos que resolver, porque si los tuvieran viajarían
-c) Que el acceso a la justicia está plenamente garantizado, porque la ley creó tribunales en todas las regiones
-d) Que en las comunas rurales las personas no tienen derechos que reclamar ante los tribunales
+c) Que el acceso a la justicia está plenamente garantizado en el país, porque la ley creó tribunales en todas las regiones y comunas
+d) Que en las comunas rurales las personas no tienen derechos que reclamar ante los tribunales, porque allí casi no hay conflictos
 
 ---
 

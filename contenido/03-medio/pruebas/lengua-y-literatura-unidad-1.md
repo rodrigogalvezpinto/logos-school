@@ -53,14 +53,14 @@ d) El viaje como búsqueda de identidad lejos del hogar
 **4. (Alternativas — Aplicación)** ¿Qué hipótesis de sentido está sustentada en un recurso literario del texto?
 
 a) El sacrificio del abuelo se transforma en una herencia distinta para su nieto, sustentado en el paralelismo entre los pulmones dañados del abuelo y "estos pulmones míos, que hoy respiran el aire del mar"
-b) El relato trata sobre deportes, sustentado en que menciona volantines
-c) El relato es solo una lista de oficios sin sentido mayor
+b) El relato trata sobre deportes y juegos de infancia, sustentado en que menciona volantines y trompos; la mina es solo el lugar donde vive la familia, sin un sentido especial dentro de la historia del abuelo y su nieto
+c) El relato es solo una lista de oficios sin sentido mayor, sustentado en que nombra el trabajo del abuelo, del padre y del nieto, uno tras otro, sin ningún recurso literario que los conecte ni una imagen que se repita
 d) El relato no permite ninguna hipótesis de sentido
 
 **5. (Alternativas — intertextualidad)** ¿Qué comparten "La voz de mi abuelo" y *Sub terra*, de Baldomero Lillo, ambientado en las minas de carbón de Lota, y en qué se diferencian?
 
-a) No comparten nada: tratan temas sin relación
-b) Ambos terminan con el nieto trabajando en la mina
+a) No comparten nada: tratan temas sin relación, porque Sub terra habla del campo y de la agricultura, y el cuento habla del mar y de los pescadores de la costa de Lota
+b) Ambos terminan con el nieto trabajando en la mina, igual que su abuelo; en Sub terra eso ocurre por obligación, mientras en el cuento el nieto elige libremente seguir el oficio familiar en Lota
 c) Ambos son poemas sobre el mar
 d) Ambos muestran el trabajo minero como desgaste que tiende a heredarse; en *Sub terra* esa herencia suele ser inevitable, mientras el abuelo del cuento rompe la cadena para su nieto
 
@@ -73,8 +73,8 @@ d) Personificación
 
 **7. (Alternativas)** ¿Por qué el narrador caracteriza al abuelo sobre todo a través de su cuerpo (la tos, las uñas, la espalda) y no de sus pensamientos?
 
-a) Porque el autor no supo desarrollar mejor al personaje
-b) Porque el abuelo es un personaje sin importancia en el relato
+a) Porque el autor no supo desarrollar mejor al personaje y prefirió describir solo lo que se ve de él por fuera
+b) Porque el abuelo es un personaje sin importancia en el relato, y por eso no vale la pena mostrar lo que piensa ni lo que siente
 c) Porque ese recurso muestra en el cuerpo las huellas del trabajo, trasladando el retrato del plano psicológico al físico y simbólico
 d) Porque el relato está escrito en tercera persona omnisciente
 
@@ -103,24 +103,24 @@ d) Reseña literaria
 
 **10. (Alternativas)** ¿Por qué el reportaje menciona que "ninguno de los centros de salud consultados respondió" cuántas horas de apoyo entrega?
 
-a) Porque el periodista olvidó preguntar
-b) Porque los centros respondieron con claridad
-c) Porque el dato no tiene importancia
+a) Porque el periodista olvidó preguntar el dato a los centros y prefirió no incluirlo en el reportaje
+b) Porque los centros respondieron con claridad y el dato ya aparece en otra parte del texto
+c) Porque el dato no tiene importancia para el tema del reportaje sobre las cuidadoras
 d) Porque sugiere, sin afirmarlo, que hay información relevante que no se transparenta, reforzando el enfoque crítico
 
 **11. (Alternativas)** ¿Con qué propósito el reportaje incluye cifras de un catastro y de un estudio junto al testimonio de Marta?
 
-a) Para hacer el texto más largo
+a) Para hacer el texto más largo y que parezca más completo e informado ante los lectores
 b) Para dar respaldo objetivo al testimonio individual y mostrar que no es un caso aislado
-c) Para cuestionar el testimonio de Marta
+c) Para cuestionar el testimonio de Marta y mostrar que exagera su situación
 d) Para cumplir un requisito legal
 
 **12. (Alternativas)** Un estudiante quiere transformar el reportaje "Cuidar a tiempo completo" en una noticia breve para un diario. ¿Qué tendría que cambiar principalmente?
 
-a) Agregar más testimonios, más cifras y más contraste de versiones
+a) Agregar más testimonios, más cifras y más contraste de versiones para que el texto sea más completo y llamativo
 b) Reducirlo a informar el hecho principal en pocas líneas, sin el desarrollo en profundidad propio del reportaje
 c) Convertirlo en un poema sobre las cuidadoras
-d) Agregar la opinión personal del estudiante en cada párrafo
+d) Agregar la opinión personal del estudiante en cada párrafo, para que el lector sepa qué piensa sobre las cuidadoras
 
 **13. (Verdadero o falso)** La cifra "más de 1.200 personas" proviene de una fuente institucional identificable (un catastro municipal) y, por lo tanto, es un dato verificable.
 
@@ -128,8 +128,8 @@ d) Agregar la opinión personal del estudiante en cada párrafo
 
 a) Porque no tiene ninguna relevancia
 b) Porque conecta el tema con el debate social actual sobre la distribución de los cuidados y la desigualdad de género
-c) Porque busca demostrar que los hombres no pueden cuidar
-d) Porque todas las cuidadoras del país son mujeres
+c) Porque busca demostrar que los hombres no pueden cuidar a personas enfermas y que el cuidado es una tarea natural de las mujeres
+d) Porque todas las cuidadoras del país son mujeres, y el reportaje quiere mostrar que no existe ningún hombre cuidador
 
 ---
 
