@@ -352,7 +352,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 2 | Alternativas | OA 1 | c) Renovación alternada. Los senadores se renuevan por mitades, en elecciones parlamentarias alternadas cada cuatro años: es la renovación alternada. | 1 |
 | 3 | Varias correctas | OA 1 | **b y c.** La iniciativa para aumentar el gasto es exclusiva del Presidente, y la proclamación corresponde a la justicia electoral (Tricel y tribunales electorales regionales), no al Servel. | 4 |
 | 4 | Alternativas | OA 1 | **a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo.** Las candidaturas independientes permiten que personas sin partido compitan por cargos, cumpliendo requisitos como reunir firmas de patrocinio: amplían quién puede ser representante. | 2 |
-| 5 | Varias correctas | OA 1 | **a, b y c.** | 3 |
+| 5 | Varias correctas | OA 1 | **a, b y c.** El caso muestra la colegislación (a): el Congreso tramita y el Ejecutivo también legisla; la Constitución reserva al Presidente la iniciativa para aumentar el gasto (b), y así ningún órgano decide solo sobre el gasto (c). Por eso el Congreso no puede aprobar cualquier gasto sin el Ejecutivo (d). | 3 |
 | 6 | Alternativas | OA 3 | d) Aumentar recaudación para financiar urgencias hospitalarias | 1 |
 | 7 | Alternativas | OA 3 | a) Transformar localmente lo extraído en productos y servicios complejos | 1 |
 | 8 | Alternativas | OA 3 | **d) 1-B, 2-C, 3-D, 4-A.** El modelo extractivo se basa en explotar recursos (B); el desarrollo sustentable equilibra economía, sociedad y ambiente (C); la política fiscal usa el gasto y los impuestos (D), y la escala local mira el impacto en la vida concreta (A). | 4 |
@@ -362,16 +362,16 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Alternativas | OA 4 | c) 2028 (hito vigente: 42 h desde el 26-04-2026 y 40 h desde el 26-04-2028) | 1 |
 | 13 | Alternativas | OA 4 | **c) 1-B, 2-D, 3-C, 4-A.** Cada mecanismo protege un aspecto distinto del trabajo y el cuidado; la clave une cada uno con su contenido. | 4 |
 | 14 | Alternativas | OA 4 | **a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre.** Un documento firmado no libera al empleador de su deber de prevenir riesgos ni de entregar equipos de protección; además, la trabajadora firma bajo presión, por la asimetría de poder. | 2 |
-| 15 | Varias correctas | OA 4 | **a, b y c.** | 3 |
+| 15 | Varias correctas | OA 4 | **a, b y c.** La demanda documentada de las organizaciones precedió a la ley (a), el permiso paternal de 2005 y el postnatal parental de 2011 son hitos de corresponsabilidad (b) y el caso muestra cómo la organización social fortalece los derechos (c). La opción d contradice el caso: hubo más de una década de demanda. | 3 |
 | 16 | Alternativas | OA 5 | b) Libertad positiva. Que nadie le prohíba estudiar es libertad negativa; lo que le falta son condiciones reales, como becas, para poder hacerlo: libertad positiva. | 1 |
 | 17 | Alternativas | OA 5 | b) Equidad de género e igualdad de trato | 1 |
 | 18 | Varias correctas | OA 5 | **a, b y c.** La solidaridad es apoyo mutuo, no uniformidad de pensamiento político. | 4 |
 | 19 | Alternativas | OA 5 | **d) Evidencia un problema de inclusión y participación: faltan mecanismos para que esos trabajadores conozcan y opinen sobre decisiones que los afectan.** Se pueden fundamentar también igualdad de trato o libertad positiva; el problema es la falta de mecanismos participativos, no un derecho universal a ser consultado. | 2 |
-| 20 | Varias correctas | OA 5 | **a, b y c.** | 3 |
+| 20 | Varias correctas | OA 5 | **a, b y c.** Condicionar la ayuda a la adhesión política vulnera la igualdad de trato (a), contradice la solidaridad, que exige ayudar a quien más lo necesita (b), y quita libertad a la participación (c). No se vuelve aceptable por el partido del alcalde (d): el problema es el mecanismo. | 3 |
 | 21 | Alternativas | OA 6 | b) Plataforma de participación digital con seguimiento a la respuesta municipal | 1 |
 | 22 | Alternativas | OA 6 | a) Consentimiento informado u otra habilitación legal aplicable | 1 |
 | 23 | Alternativas | OA 6 | **b) 1-C, 2-B, 3-D, 4-A.** Cada fenómeno se reconoce por su efecto: difundir falsedades de forma organizada, encerrarse en opiniones iguales, dirigir mensajes según el perfil, o verificar fuentes y detectar sesgos. | 4 |
 | 24 | Alternativas | OA 6 | **c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir.** Las redes permiten informarse y participar (oportunidad), exponen a la desinformación (riesgo) y se pueden enfrentar acordando en grupo cómo verificar y cuidar los datos. | 2 |
-| 25 | Varias correctas | OA 6 | **a, b y c.** | 3 |
+| 25 | Varias correctas | OA 6 | **a, b y c.** La difusión masiva y simultánea del rumor es una amenaza de desinformación coordinada (a); la verificación del medio con documentos es una virtud (b), y la alfabetización mediática permite contrastar fuentes y no amplificar sin verificar (c). Que muchas cuentas repitan algo no lo hace verdadero (d). | 3 |
 
 **Puntaje total de la prueba: 55 puntos.**

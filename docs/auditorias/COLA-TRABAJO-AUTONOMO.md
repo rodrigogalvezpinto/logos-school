@@ -146,3 +146,4 @@ control pendiente.
 
 - 2026-11-16: C.2 tercera pasada cerrada en los 12 cursos (§15.40): 140 rehechas, unas 90 plantillas, guarda ampliada, sesgo de longitud corregido en las rehechas, Chromium en verde en los 12.
 - 2026-11-16: C.4b cerrado: 260 retroalimentaciones de guía reescritas en los 12 cursos; guarda en pytest. Además: dos claves falsas de rehechas corregidas, 22 líneas huérfanas y 102 etiquetas «Retroalimentación:» quitadas de pautas, estímulos sin títulos colgando, pregunta de Songkran con dos respuestas válidas corregida.
+- 2026-11-16: C.4c cerrado: 50 explicaciones genéricas de pruebas y simulacros reescritas; guarda en pytest. Pendiente anotado: patrón «a, b y c correctas; d absurda» en varias correctas de 4.° medio.

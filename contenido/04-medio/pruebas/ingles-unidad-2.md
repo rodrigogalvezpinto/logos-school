@@ -120,7 +120,7 @@ d) They learned words in Mapudungun from their grandmother, feel connected to th
 9. c) identity. El término específico es más apropiado que una palabra genérica.
 10. **False (Falso).** Sintetizar exige combinar la información de ambas fuentes y reformularla con palabras propias, no copiar.
 11. a) *Overall* introduce una idea general después de haber presentado varios detalles.
-12. d) La respuesta usa la información explícita de la entrevista, no una opinión personal.
+12. **d) They learned words in Mapudungun from their grandmother, feel connected to the land and try to keep the traditions alive.** El estudiante dice en la entrevista que aprendió palabras en mapudungun de su abuela, que se siente conectado con la tierra y que intenta mantener las tradiciones: la respuesta usa esa información explícita.
 13. **True (Verdadero).** Una buena síntesis señala coincidencias y diferencias.
 14. **c.** La opción c) mantiene un registro formal y una estructura completa, adecuados
     para una presentación oral académica; las demás usan registro coloquial.

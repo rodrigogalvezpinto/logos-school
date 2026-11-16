@@ -133,7 +133,7 @@ d) Sí significa perderla siempre: un formato oral no admite interpretaciones co
 
 2. **Falso.** Esa frase presenta solo dos opciones (apoyar la columna o "elegir la comodidad de unos pocos"): es un falso dilema que cierra la discusión en vez de invitar a evaluar otros argumentos.
 
-3. a) Identificar el rol de un enunciador exige fijarse en cómo se dirige a su audiencia, no solo en el tema que trata.
+3. **a) Defensor del interés colectivo (aire limpio y transporte público) frente al uso masivo del auto; no expone en igual medida los argumentos de los automovilistas y su cierre interpela la responsabilidad moral del lector.** El enunciador defiende el interés colectivo (aire limpio y transporte público) frente al uso masivo del auto: no expone con igual peso las razones de los automovilistas y se dirige a la audiencia para que tome partido.
 
 4. **a.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
 
@@ -149,7 +149,7 @@ d) Sí significa perderla siempre: un formato oral no admite interpretaciones co
 
 10. b) En un texto comparativo, los conectores muestran al lector cuándo se habla de una obra, cuándo se contrasta con la otra y cuándo se saca una conclusión conjunta.
 
-11. c) Mejorar la cohesión no requiere alargar mucho el texto, sino elegir un conector que muestre con precisión la relación entre las ideas (aquí, de contraste); causa o consecuencia serían relaciones falsas.
+11. **c) "Uno pasa en un valle inundado por una represa, mientras que el otro cuenta la historia de una joven cuya abuela vive en Rapa Nui.".** La reescritura une las dos ideas con «mientras que», que marca el contraste entre las dos historias, y aclara de quién es la abuela con «cuya». El original solo pone dos oraciones juntas sin mostrar su relación.
 
 12. **b.** Adecuar un texto a su audiencia implica reconocer las convenciones de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es habitual y efectivo.
 

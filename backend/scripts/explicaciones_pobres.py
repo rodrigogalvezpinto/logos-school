@@ -19,7 +19,8 @@ def _norm(texto) -> str:
 
 def es_pobre(clave: str, retro: str | None) -> bool:
     """True si la explicación, sin la letra inicial ni «Verdadero/Falso», no agrega nada a la clave."""
-    r = re.sub(r"^\s*\(?\**[a-e]\)?\.?\**\s*[—:-]?\s*", "", retro or "").strip()
+    # Letra inicial («c)», «**c.**») o varias letras de «varias correctas» («a, b y c.»; 2026-11-16 había 11 así).
+    r = re.sub(r"^\s*\(?\**[a-h](?:, [a-h])*(?: y [a-h])?\)?\.?\**\s*[—:-]?\s*", "", retro or "").strip()
     r = re.sub(r"^\**(Verdadero|Falso|True|False)\**\.?\s*(\((Verdadero|Falso)\))?\.?\s*$", "", r).strip()
     if isinstance(clave, str) and clave.startswith("["):
         try:

@@ -147,14 +147,15 @@ al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
 Cerrado en los 12 cursos: **260 retroalimentaciones reescritas** y 116 revisadas como válidas. Guarda en pytest:
 `test_las_retroalimentaciones_de_guia_explican_la_respuesta`. Material nuevo: misma regla (explicar por qué la clave es correcta).
 
-### 6.1d ⏳ EN CURSO — C.4c: explicaciones de PRUEBAS y SIMULACROS genéricas
+### 6.1d ✅ RESUELTO (2026-11-16) — C.4c: explicaciones de PRUEBAS y SIMULACROS genéricas
 La revisión de las muestras mostró explicaciones de pruebas que no explican la clave («La sostenibilidad tiene dimensiones
 técnica, económica y social.»). C.4 solo detectaba las que repiten la clave. Medición (2026-11-16): unas 298 candidatas
 (la explicación, sin el «x) clave.» inicial, no comparte raíces con la clave), con muchos falsos positivos. Método: igual que
 C.4b (detector + `REVISADAS_A_MANO` + reescritura con verificación de que cambió la pregunta buscada); para reemplazar
 una explicación de prueba, `rehacer(..., solo_explicacion=True)` (ver README de herramientas). Cerrar con guarda en pytest.
-Detector: `backend/scripts/explicaciones_genericas.py [curso]` (258 candidatas al empezar). Hechos: 1.° básico a 3.° medio
-(30 reescritas, 188 revisadas). Siguiente: 4.° medio.
+Detector: `backend/scripts/explicaciones_genericas.py [curso]` (258 candidatas al empezar). Cerrado en los 12 cursos: **50 explicaciones reescritas** (incluidas 11 de 4.° medio que eran solo «a, b y c.») y 209
+revisadas como válidas. Guarda: `test_las_explicaciones_de_pruebas_no_son_genericas`. `explicaciones_pobres.py` (C.4) ahora
+detecta también explicaciones de solo varias letras.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

@@ -1763,3 +1763,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   tanda: 2.° medio (voto femenino en guía; conceptos urbanos y evidencia no literaria en pruebas), 3.° medio (principios de
   DD. HH. en guía) y 4.° medio (desarraigo en guía; parque solar, narrador de Mahina, CAE y riego en pruebas). Queda abierto
   C.4c: unas 298 explicaciones de pruebas y simulacros candidatas a ser genéricas.
+- **C.4c cerrado (12 cursos).** 50 explicaciones de pruebas y simulacros reescritas para explicar la clave; 209 candidatas
+  revisadas como válidas (`REVISADAS_A_MANO` de `explicaciones_genericas.py`). En 4.° medio, 11 preguntas de «varias
+  correctas» de los simulacros tenían como explicación solo «a, b y c.»; C.4 no las veía y ahora sí. Guarda nueva en pytest.
+  Observación pendiente: en esas 11 la alternativa incorrecta es siempre la d y es evidentemente absurda (patrón predecible).

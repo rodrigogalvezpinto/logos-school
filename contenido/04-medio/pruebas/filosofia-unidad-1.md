@@ -125,7 +125,7 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 4. **d.** Casi todo debate político de fondo —qué derechos proteger, cómo distribuir recursos, qué deberes tenemos con otras generaciones— es, en su raíz, un debate filosófico.
 
-5. d) Ambos argumentos están razonablemente fundamentados; las otras opciones atribuyen a la filosofía rasgos falsos.
+5. **d) A favor: entrena el pensamiento crítico y la deliberación sobre valores que se necesitan en la vida ciudadana. En contra: sus resultados son difíciles de medir y rara vez produce consensos definitivos, por lo que podría competir con asignaturas de efectos más inmediatos.** A favor, la filosofía entrena el pensamiento crítico y la deliberación sobre valores; en contra, se puede sostener razonablemente que rara vez llega a consensos definitivos. Ambos argumentos están fundamentados; las otras opciones atribuyen a la filosofía rasgos falsos.
 
 6. **c.** Asignar un recurso escaso de forma justa no se resuelve solo con información médica: exige deliberar sobre criterios (gravedad, probabilidad de sobrevivir, igualdad) propiamente filosóficos.
 
@@ -141,6 +141,6 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 12. a) Consecuencia y balance de bienestar, por un lado; deber y principio universalizable, por otro.
 
-13. d) La objeción es sólida sin descartar el utilitarismo: reconoce que ambas posturas son legítimas y están en debate.
+13. **d) Ese razonamiento podría justificar violar la dignidad y los derechos fundamentales de una persona si el bienestar agregado es mayor; ciertos principios, como la prohibición de la tortura, no deberían quedar sujetos a un cálculo de consecuencias.** La objeción muestra que, si solo importara el resultado, se podría justificar torturar o violar la dignidad de una persona; señala ese límite sin declarar falso al utilitarismo, porque ambas posturas siguen en debate.
 
 14. a, b y c — Se aplican ambos criterios al mismo caso y se reconoce su tensión sin resolver el dilema de forma dogmática.

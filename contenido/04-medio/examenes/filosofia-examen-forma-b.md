@@ -273,11 +273,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Pregunta 4 (OA1, 3 pts).** a) A favor: si la prioridad es la empleabilidad inmediata, la programación produce competencias técnicas directamente evaluables. En contra: la filosofía desarrolla herramientas de deliberación (examinar la legitimidad de una norma, detectar prejuicios) que ninguna asignatura técnica reemplaza. Ambos argumentos están fundamentados con razones, y ninguno se presenta como la postura correcta.
 
-**Pregunta 6 (OA1, 5 pts — análisis de argumento).** a, b y c.
+**Pregunta 6 (OA1, 5 pts — análisis de argumento).** a, b y c. El concejal supone que ser útil es resolver todo para siempre (a), criterio que ni la medicina cumple (b); y que los problemas éticos sigan abiertos puede mostrar su complejidad, no la inutilidad de la filosofía (c). La opción d repite la conclusión sin fundamento.
 
 **Pregunta 12 (OA2, 3 pts).** d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada. Nadie le prohíbe postular (libertad negativa), pero sin recursos no puede hacerlo realmente (le falta libertad positiva).
 
-**Pregunta 13 (OA2, 5 pts — dilema ético).** a, b y c.
+**Pregunta 13 (OA2, 5 pts — dilema ético).** a, b y c. Cada marco se aplica bien: el consecuencialista puede justificar priorizar el puntaje por sus resultados agregados (a), y la justicia compensatoria lo objeta porque el puntaje refleja desigualdades previas (b); por eso pueden llegar a conclusiones distintas (c). Decir que solo uno es legítimo es dogmático (d).
 
 **Pregunta 18 (OA4, 3 pts).** b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas. El autor supone, sin decirlo, que la prohibición total es la única solución eficaz; hacerlo explícito permite discutir alternativas, como un uso regulado.
 
@@ -285,9 +285,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 **Pregunta 23 (OA4/OA5, 3 pts).** c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada. Si los datos de entrenamiento subrepresentaron a personas de tez oscura, la conclusión del sistema se basa en una muestra sesgada, como una generalización apresurada.
 
-**Pregunta 24 (OA5, 3 pts).** a, b y c.
+**Pregunta 24 (OA5, 3 pts).** a, b y c. El algoritmo plantea preguntas de justicia (condenar según el promedio de un grupo, a), de libertad (depender de un sistema que no se puede cuestionar, b) y de igualdad (reproducir sesgos de los datos, c). Los algoritmos no son neutrales por definición (d).
 
-**Pregunta 25 (OA5, 5 pts — análisis de argumento).** a, b y c.
+**Pregunta 25 (OA5, 5 pts — análisis de argumento).** a, b y c. Confiar en el número sin examinarlo es dogmatismo (a); el algoritmo aprende de datos históricos que pueden traer sesgos y reproducirlos de forma menos visible (b), y por eso hay que revisar sus datos, variables y responsables (c). Un número sí puede contener sesgos (d).
 
 **Subtotal preguntas de mayor complejidad: 35 puntos** (5 × 3 pts = 15 pts; 4 × 5 pts = 20 pts).
 

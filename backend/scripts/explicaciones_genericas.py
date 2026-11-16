@@ -113,6 +113,15 @@ REVISADAS_A_MANO: dict[str, set[int]] = {
     "03-medio/pruebas/matematica-unidad-algebra-y-funciones.md": {10},
     "03-medio/pruebas/matematica-unidad-geometria.md": {14},
     "03-medio/pruebas/matematica-unidad-probabilidad-y-estadistica.md": {8},
+    "04-medio/examenes/ciencias-para-la-ciudadania-examen-forma-b.md": {5, 17},
+    "04-medio/examenes/ingles-examen-forma-b.md": {4, 11, 17, 22, 23},
+    "04-medio/examenes/lengua-y-literatura-examen-forma-b.md": {2, 9, 22, 24, 25},
+    "04-medio/examenes/matematica-examen-forma-b.md": {17},
+    "04-medio/pruebas/educacion-ciudadana-unidad-democracia-y-desafios.md": {1, 4},
+    "04-medio/pruebas/educacion-ciudadana-unidad-medios-y-participacion.md": {11, 14},
+    "04-medio/pruebas/ingles-unidad-2.md": {14},
+    "04-medio/pruebas/lengua-y-literatura-unidad-2.md": {1, 4},
+    "04-medio/pruebas/matematica-unidad-algebra-y-funciones.md": {13},
 }
 
 

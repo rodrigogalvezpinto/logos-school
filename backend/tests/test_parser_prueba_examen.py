@@ -1002,3 +1002,13 @@ def test_las_retroalimentaciones_de_guia_explican_la_respuesta():
     from retro_guia_pobres import candidatas
     hallazgos = [f"{rel} {oa.codigo_oficial} #{i}" for rel, oa, i, _ in candidatas()]
     assert hallazgos == []
+
+
+def test_las_explicaciones_de_pruebas_no_son_genericas():
+    # Control C.4c (2026-11-16): la explicación de cada pregunta de prueba o simulacro debe explicar la clave, no solo
+    # dar una frase general sobre la habilidad. Las que explican con otras palabras están en REVISADAS_A_MANO.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+    from explicaciones_genericas import candidatas
+    hallazgos = [f"{rel}#{p.numero}" for rel, p, _ in candidatas()]
+    assert hallazgos == []

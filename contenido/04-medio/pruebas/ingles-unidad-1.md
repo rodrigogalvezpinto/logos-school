@@ -124,15 +124,15 @@ d) a city on the Moon / a pilot named Red / finding a new planet / loneliness
 1. **d.** El elemento central es el control de las emociones mediante la tecnología y el castigo a quien no se ajusta.
 2. a) entertaining / informative. El propósito se identifica por lo que el texto busca lograr en el lector: hacer reír (entretener) o explicar (informar).
 3. **True (Verdadero).** El medio (revista médica) y el vocabulario técnico indican una audiencia especializada.
-4. d) Organizar la información en una tabla exige localizar datos específicos (dónde, quién, qué problema) y clasificarlos por categoría.
+4. **d) an underwater city in 2150 / Tomás / a company controls the oxygen and wants to raise its price.** El texto dice dónde ocurre (una ciudad submarina en 2150), quién es el protagonista (Tomás) y cuál es el problema (una empresa controla el oxígeno y quiere subir su precio). Cada dato va en su categoría.
 5. c) La calificación ("five stars") y la valoración de la obra son rasgos típicos de una reseña.
 6. c) El texto presenta un debate con posturas distintas, no una sola opinión.
 7. **b.** El texto presenta un viaje al pasado y sus consecuencias inesperadas en el presente.
 8. a) entertaining. El tono humorístico y la anécdota personal son pistas del propósito de entretener.
 9. **True (Verdadero).** *Skimming* y *scanning* son estrategias distintas.
-10. d) Comparar dos textos sobre el mismo tema exige identificar diferencias de audiencia y tono según su propósito y medio de publicación.
+10. **d) Text A: specialized readers, formal and technical. Text B: teenagers, informal and humorous.** El Texto A, de una revista de ingeniería, usa lenguaje técnico para lectores especializados; el Texto B, para adolescentes, usa comparaciones simples y humor, en un tono informal.
 11. b) Se conecta una decisión del autor (usar una comparación cotidiana) con la audiencia del texto.
 12. **b.** Una reseña evalúa la calidad de una obra y da una opinión.
 13. c) skim / scan. *Skimming* capta la idea general; *scanning* localiza un dato específico.
 14. **False (Falso).** El lenguaje formal y el medio oficial indican un propósito informativo.
-15. a) Organizar la información en una tabla exige localizar datos específicos y clasificarlos por categoría.
+15. **a) a small colony on Mars / Amaru, a doctor / finding a cure for a strange illness before the supply ship arrives / responsibility and fear of the unknown.** El texto dice dónde ocurre (una pequeña colonia en Marte), quién es el protagonista (Amaru, una doctora) y cuál es el conflicto (encontrar una cura antes de que llegue la nave de suministros). Cada dato va en su categoría.
