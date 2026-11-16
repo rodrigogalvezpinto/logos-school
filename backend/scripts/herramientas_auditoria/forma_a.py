@@ -30,6 +30,8 @@ class P:
     extra: dict = field(default_factory=dict)
 
     def ordenadas(self) -> list[str]:
+        if not self.opciones:          # verdadero o falso: sin alternativas escritas
+            return []
         if len(self.letra) > 1:
             return list(self.opciones)
         resto = self.opciones[1:]
@@ -37,6 +39,8 @@ class P:
         return resto[:i] + [self.opciones[0]] + resto[i:]
 
     def clave_texto(self) -> str:
+        if not self.opciones:
+            return self.extra.get("clave", "True (Verdadero)" if self.letra == "V" else "False (Falso)")
         if len(self.letra) > 1:
             ls = list(self.letra)
             return (", ".join(ls[:-1]) + " y " + ls[-1]) if len(ls) > 1 else ls[0]
@@ -50,7 +54,9 @@ def bloque(n: int, p: P, nota_varias: str = "*(Varias correctas: marca todas las
     partes.append(f"{cab.rstrip(' ')}{sep}{p.enunciado}\n\n")
     if len(p.letra) > 1 and nota_varias:
         partes.append(nota_varias + "\n\n")
-    partes.append("\n".join(f"{l}) {o}" for l, o in zip("abcd", p.ordenadas())) + "\n\n---\n\n")
+    if p.opciones:
+        partes.append("\n".join(f"{l}) {o}" for l, o in zip("abcd", p.ordenadas())) + "\n\n")
+    partes.append("---\n\n")
     return "".join(partes)
 
 
@@ -59,7 +65,7 @@ def sesgos(preguntas: list[P]) -> list[int]:
     import sys
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
     from ajustar_distractores import sesgada
-    return [i for i, p in enumerate(preguntas, 1) if len(p.letra) == 1 and sesgada(p.ordenadas(), p.opciones[0])]
+    return [i for i, p in enumerate(preguntas, 1) if p.opciones and len(p.letra) == 1 and sesgada(p.ordenadas(), p.opciones[0])]
 
 
 def armar(ruta_b: Path, ruta_a: Path, preguntas: list[P], fila, reemplazos: dict[str, str] | None = None,
